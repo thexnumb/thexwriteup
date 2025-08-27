@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 04:20:17 GMT | The $4 Million Click: How Phishing Still Breaches Fortune 500s | Aj | [Read More](https://medium.com/p/fbccf1d1d37d) |
+| Wed, 27 Aug 2025 04:11:10 GMT | Root causes of cyber incidents | Sarah Fluchs | [Read More](https://medium.com/p/e274b5d10727) |
+| Wed, 27 Aug 2025 04:07:34 GMT | Detecting Malware with Memory Forensics: A Deep Dive | Paritosh | [Read More](https://medium.com/p/dfd1458a8c37) |
+| Wed, 27 Aug 2025 04:02:51 GMT | Quantum-Safe by 2033: Microsoft’s Pledge and the Current Post Quantum Cryptography (PQC) Landscape | Gaurav Sharma | [Read More](https://medium.com/p/44261d00a5f6) |
+| Wed, 27 Aug 2025 04:02:18 GMT | The Hacker’s Toolkit for 2025: 15 Tools I Can’t Live Without | Sukhveer Singh | [Read More](https://medium.com/p/00df61e39c53) |
 | Wed, 27 Aug 2025 03:35:52 GMT | Understanding the Brewer-Nash Model | Raviteja Mureboina | [Read More](https://medium.com/p/c0701570b004) |
 | Wed, 27 Aug 2025 03:34:06 GMT | Top 5 Free Malware Analysis Tools Every Beginner Should Use | Paritosh | [Read More](https://medium.com/p/7f9c8c96c814) |
 | Wed, 27 Aug 2025 03:31:37 GMT | Cyber Deception and AI Revolution | Akshat Ratanpal | [Read More](https://medium.com/p/79fb66ec6c13) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 18:13:26 GMT | How to Hunt Easy Vulnerabilities on Websites | Monika sharma | [Read More](https://medium.com/p/44024c3e301f) |
 | Tue, 26 Aug 2025 18:13:22 GMT | The Malware That Hacked macOS, Windows, and Linux — All at Once | Noel | [Read More](https://medium.com/p/536445648bb2) |
 | Tue, 26 Aug 2025 18:13:17 GMT | Unique ways to Recon for Bug Hunters: Short series [Part 2] | RivuDon | [Read More](https://medium.com/p/735d0b2fad2b) |
-| Tue, 26 Aug 2025 18:11:53 GMT | Bypassing CAPTCHAs : From Regex Bots to AI | Vipul Sonule | [Read More](https://medium.com/p/27091713205e) |
-| Tue, 26 Aug 2025 18:10:52 GMT | From Local Networks to Global Impact: My Journey in Building Secure Infrastructure for Communities… | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/3067a9f7aa52) |
-| Tue, 26 Aug 2025 18:09:41 GMT | TryHackMe: Simple CTF Writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/882579839b55) |
-| Tue, 26 Aug 2025 18:09:11 GMT | Node.js Local Privilege Escalation Vulnerability | Monika sharma | [Read More](https://medium.com/p/0963cf7d44fb) |
-| Tue, 26 Aug 2025 18:06:11 GMT | From Entry-Level to Leadership: Cybersecurity Certifications Roadmap | Lucia Adams | [Read More](https://medium.com/p/fd8f1a27c8bb) |
