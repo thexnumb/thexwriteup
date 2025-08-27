@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 02:54:56 GMT | Critical Vulnerability Alert: Weaver e-Office Remote Code Execution (RCE) — Patch Now | Quella | [Read More](https://medium.com/p/233adf1c9e4f) |
+| Wed, 27 Aug 2025 02:39:33 GMT | ScriptCTF Web — Renderer - whoisrushi | Rushikesh chaudhari | [Read More](https://medium.com/p/2a4b2269ea4b) |
+| Wed, 27 Aug 2025 02:35:38 GMT | Green Tech: Sustainable Technology for a Better Future | gnzprmnaa | [Read More](https://medium.com/p/ebff68b1d142) |
+| Wed, 27 Aug 2025 02:27:53 GMT | Why strong Passwords aren’t enough now? | Haider Ali | [Read More](https://medium.com/p/6f0f9bf728bc) |
+| Wed, 27 Aug 2025 02:19:36 GMT | How to handle infidelity in marriage | Miroslava Roksana | [Read More](https://medium.com/p/79ab47647a37) |
+| Wed, 27 Aug 2025 02:13:24 GMT | Integrating and Prioritizing Response Automation in the Detection Lifecycle | Maksim Goldenberg | [Read More](https://medium.com/p/adb565f37758) |
+| Wed, 27 Aug 2025 02:11:34 GMT | Stock Market Trading Part-5 | Written By Richu | [Read More](https://medium.com/p/96772ab8d8cb) |
+| Wed, 27 Aug 2025 01:50:32 GMT | Data Backup and Disaster Recovery Planning Services: Why They’re Essential for Every Business | Techridge Solutions | [Read More](https://medium.com/p/ca5c4763d52d) |
 | Wed, 27 Aug 2025 01:31:35 GMT | The Financial Foundation of Adult Serenity: How Money Buys Peace of Mind | Flaye Kate | [Read More](https://medium.com/p/cc36b6fc4e35) |
 | Wed, 27 Aug 2025 01:25:23 GMT | Zero Trust Architecture: Never Trust, Always Verify | Mahmut Yorgundag | [Read More](https://medium.com/p/0bb8fc8d62ed) |
 | Wed, 27 Aug 2025 01:08:53 GMT | Exposing a Travel Ad: How OSINT Turned New Zealand Into Russia’s Kamchatka | Horus | [Read More](https://medium.com/p/48973a6f1ebc) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 17:45:23 GMT | The Psychology of the Cyber-Attack: Why Your Team Is the Easiest Door to Hack | vydhi | [Read More](https://medium.com/p/9f273745f5ed) |
 | Tue, 26 Aug 2025 17:32:51 GMT | The Stalker: How Shadow Profiles Put Your Privacy At Risk | O. J. Okpabi | [Read More](https://medium.com/p/a9d4c4008e67) |
 | Tue, 26 Aug 2025 17:31:40 GMT | : Hands-on Wazuh Setup - Parrot OS + LabVM (Cyber Operations) | CybVulnHunter | [Read More](https://medium.com/p/c82ae7ba2d0d) |
-| Tue, 26 Aug 2025 17:28:13 GMT | HackTheBox: Dancing | Rahaliashraf | [Read More](https://medium.com/p/79a19f6cc51d) |
-| Tue, 26 Aug 2025 17:21:07 GMT | AI-Powered Cyberattacks: The Next Frontier in Digital Threats | Meravytes | [Read More](https://medium.com/p/170609175d4b) |
-| Tue, 26 Aug 2025 17:16:37 GMT | Hackviser — Shadow Track Çözümü | Berent Oral | [Read More](https://medium.com/p/4c9f9feaedc8) |
-| Tue, 26 Aug 2025 17:16:20 GMT | Open Source Security Tools | CybVulnHunter | [Read More](https://medium.com/p/5bc137d1ec8c) |
-| Tue, 26 Aug 2025 17:14:46 GMT | # How a Misconfigured API Endpoint Helped Me Earn a $$$ Bounty | R3DD | [Read More](https://medium.com/p/0a6d54c46c2d) |
-| Tue, 26 Aug 2025 17:12:39 GMT | Threat Campaign: CORNFLAKE.V3 Backdoor Spread via Fake CAPTCHA (ClickFix Technique) | Jon C | [Read More](https://medium.com/p/5c43ace5adf5) |
-| Tue, 26 Aug 2025 17:12:26 GMT | Proving Grounds Walkthrough: Exfiltrated | Mihail Pana | [Read More](https://medium.com/p/2a305c5e2605) |
-| Tue, 26 Aug 2025 17:11:23 GMT | Pengenalan Teknologi Sistem Terintegrasi | Zifa Tea Azzahra | [Read More](https://medium.com/p/192068c0631f) |
