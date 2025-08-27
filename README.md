@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 21:59:39 GMT | New 5G Hack Lets Attackers Crash Your Phone from 65 Feet Away | Cyber-AppSec | [Read More](https://medium.com/p/da9f6fe31c19) |
+| Wed, 27 Aug 2025 21:54:22 GMT | The AI Security Skills No One’s Teaching, Yet | BillfordX | [Read More](https://medium.com/p/3d224b5fcc8a) |
+| Wed, 27 Aug 2025 21:50:01 GMT | Basics of Cryptography | Kyrillos Kamal | [Read More](https://medium.com/p/a9c21b4f1980) |
+| Wed, 27 Aug 2025 21:36:38 GMT | Monero: Kriptomonedha që Refuzon të Vëzhgohet | D.BARDHI | [Read More](https://medium.com/p/ca651de19cf9) |
 | Wed, 27 Aug 2025 21:31:31 GMT | Real-World Threat Hunts: Stories from the Field | Yash Patel | [Read More](https://medium.com/p/a6f70e72968f) |
 | Wed, 27 Aug 2025 21:31:22 GMT | Top 10 XSS Payloads That Still Work in 2025 | Aj | [Read More](https://medium.com/p/9c258842caa2) |
+| Wed, 27 Aug 2025 21:31:22 GMT | 7 Shocking Lessons From a Microwave Hack That Almost Ruined a Business | Noel | [Read More](https://medium.com/p/6f4e247dc891) |
+| Wed, 27 Aug 2025 21:31:04 GMT | Understanding Refresh Tokens | Cyber T | [Read More](https://medium.com/p/f7f80b3d4b07) |
 | Wed, 27 Aug 2025 21:30:47 GMT | More Firewalls Hacked : Why Your Perimeter is Under Siege | Shahzaib | [Read More](https://medium.com/p/84aab22a1178) |
+| Wed, 27 Aug 2025 21:25:58 GMT | Hackers Stole My Credit and Ruined My Life, I Got Revenge | SinVictus | [Read More](https://medium.com/p/b5ee7b44413b) |
 | Wed, 27 Aug 2025 21:18:19 GMT | Authentication vulnerabilities - 2FA simple bypass - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/d78900793589) |
 | Wed, 27 Aug 2025 21:18:13 GMT | Authentication vulnerabilities - Broken brute-force protection, multiple credentials per request -… | Kirolos Tamer | [Read More](https://medium.com/p/c86c9a5cad27) |
 | Wed, 27 Aug 2025 21:18:05 GMT | Authentication vulnerabilities - Broken brute-force protection, IP block - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4dc9757d4bfe) |
@@ -31,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 20:33:04 GMT | Kijan Pou Kòmanse nan IT ak Cybersecurity (Anvan Ou Kouri Dèyè Sètifikasyon) | Jean Bertro Paul | [Read More](https://medium.com/p/3bf48af3fbb7) |
 | Wed, 27 Aug 2025 20:32:54 GMT | PBM, Benefício Farmácia e Health Analytics: o guia prático da Funcional Health Tech | Ianchrishansen | [Read More](https://medium.com/p/1c4a9153da9f) |
 | Wed, 27 Aug 2025 20:27:29 GMT | Secure Shell - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/3982eaa9baa0) |
+| Wed, 27 Aug 2025 20:22:28 GMT | HarborGuard ile Konteyner Güvenliğinde Yeni Bir Yaklaşım | Mesut Ozsoy | [Read More](https://medium.com/p/34b49bf28eb4) |
 | Wed, 27 Aug 2025 20:20:33 GMT | How to Create Strong and Unique Passwords | Nexus Human | [Read More](https://medium.com/p/f1ea2569f93a) |
 | Wed, 27 Aug 2025 20:20:01 GMT | Cybersecurity Unlocked: A Journey into Cybersec with Yash | Yash Kitey | [Read More](https://medium.com/p/afcfb6e04a8a) |
 | Wed, 27 Aug 2025 20:19:19 GMT | HTB: Developing YARA Rules | Luke | [Read More](https://medium.com/p/9df2646acbfe) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 16:12:19 GMT | How to use SOPS | Alexey Tozik | [Read More](https://medium.com/p/5d77d83cf445) |
 | Wed, 27 Aug 2025 16:05:29 GMT | Your vulnerability is both personal and relational. | Josenaldo Silva, psicanalista. | [Read More](https://medium.com/p/8ce7de1da10e) |
 | Wed, 27 Aug 2025 16:03:05 GMT | “The End of Passwords Is Near”-Look Why????? | L Churchill | [Read More](https://medium.com/p/b53993975a87) |
-| Wed, 27 Aug 2025 16:02:38 GMT | Web3 Hype vs Reality: Is It Worth the Grind? | aswinsuriya | [Read More](https://medium.com/p/11e600c78f5b) |
-| Wed, 27 Aug 2025 16:02:32 GMT | Agentic AI: The Cybersecurity Challenge Boards Must Govern | Antonio Bovoso | [Read More](https://medium.com/p/bceb15593160) |
-| Wed, 27 Aug 2025 16:00:30 GMT | Salesloft OAuth Breach via Drift AI Integration: A Wake-Up Call for SaaS Security | Chetan Seripally | [Read More](https://medium.com/p/d84b42f27f02) |
-| Wed, 27 Aug 2025 15:59:36 GMT | The Hacker’s Toolkit: Mastering Your Wi-Fi Card in Kali Linux [Lab-1] | Biplove Yadav | [Read More](https://medium.com/p/ef9dfeb630fc) |
-| Wed, 27 Aug 2025 15:58:36 GMT | Using Agentless Cloud Security to Meet HIPAA and PCI Compliance Requirements: A Case for Wiz | Christopher | [Read More](https://medium.com/p/59bc5f003b8b) |
-| Wed, 27 Aug 2025 15:56:41 GMT | The Rapid Evolution of Bank-Grade SaaS Security | Patrick Walsh | [Read More](https://medium.com/p/0f89c6e3aab4) |
-| Wed, 27 Aug 2025 15:56:23 GMT | Why Writing Less Code Makes You a 10x Better Developer | The Dev Notebook | [Read More](https://medium.com/p/749e1324362c) |
-| Wed, 27 Aug 2025 15:53:12 GMT | Haven1: Building the Future of Safe and Scalable DeFi | E-TRENDS | [Read More](https://medium.com/p/c6bc9bab29c9) |
