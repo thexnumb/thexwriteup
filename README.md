@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 16:44:24 GMT | How I Prepared for the GIAC GFACT Exam and Scored 99% | Agata Kolodziej | [Read More](https://medium.com/p/5babaf9a0ff8) |
+| Wed, 27 Aug 2025 16:35:09 GMT | CyberSploit 1 Walkthrough: From Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/979774f0bec9) |
+| Wed, 27 Aug 2025 16:34:00 GMT | PromptLock: The Dawn of AI-Powered Ransomware and What It Means for Businesses | Chetan Seripally | [Read More](https://medium.com/p/782d62da594e) |
+| Wed, 27 Aug 2025 16:33:54 GMT | The One Digital Privacy Threat You’ve Already Fallen For (And Didn’t Even Know Existed) | The Masked Muse | [Read More](https://medium.com/p/48e85ebde395) |
+| Wed, 27 Aug 2025 16:33:25 GMT | Information security for SMBs - practical priorities without the jargon | FactPoint | [Read More](https://medium.com/p/b2bf56f065e3) |
+| Wed, 27 Aug 2025 16:22:32 GMT | I Deleted 80% of My Codebase — And My App Got Faster | The Dev Notebook | [Read More](https://medium.com/p/802a5e108f35) |
 | Wed, 27 Aug 2025 16:18:26 GMT | Understanding HIPAA: A Comprehensive Guide | CSFaaS | [Read More](https://medium.com/p/fcab857d2cf5) |
 | Wed, 27 Aug 2025 16:12:19 GMT | How to use SOPS | Alexey Tozik | [Read More](https://medium.com/p/5d77d83cf445) |
 | Wed, 27 Aug 2025 16:05:29 GMT | Your vulnerability is both personal and relational. | Josenaldo Silva, psicanalista. | [Read More](https://medium.com/p/8ce7de1da10e) |
@@ -35,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 15:39:02 GMT | Strengthening Kubernetes Security with Kubesec & Kube-bench | Aryan Khanmohammadi | [Read More](https://medium.com/p/56f85b47264f) |
 | Wed, 27 Aug 2025 15:37:32 GMT | Analyzing Malware Analysis for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/e463b6fa1879) |
 | Wed, 27 Aug 2025 15:37:28 GMT | Hackthebox Starting Point (Bike) | Aayatullah Adeyemi | [Read More](https://medium.com/p/8955cacbf91d) |
+| Wed, 27 Aug 2025 15:35:07 GMT | Mengenal Big Data: Data Besar? — Pengoperasian PySpark dan Pandas | fijrisalwa | [Read More](https://medium.com/p/61cdd91b7897) |
 | Wed, 27 Aug 2025 15:30:56 GMT | ➡️ AI gives you ✅  not ❌ : Developer productivity toolkit | Jonathan Vila | [Read More](https://medium.com/p/78b05146af25) |
 | Wed, 27 Aug 2025 15:29:43 GMT | Neuromorphic Attacks: The Next Frontier in Cybersecurity Threats | Akshay Chauhan | [Read More](https://medium.com/p/7523f48459da) |
 | Wed, 27 Aug 2025 15:25:40 GMT | IA e Cybersecurity | Fabio Cricrì | [Read More](https://medium.com/p/18df1c4d2b3d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 11:44:58 GMT | Understanding Authorization to Operate (ATO): A Key Element in Secure IT Operations | Raviteja Mureboina | [Read More](https://medium.com/p/6f575580e441) |
 | Wed, 27 Aug 2025 11:44:20 GMT | PortSwigger Authentication Lab Çözümleri 1 | ENES KURTULAN | [Read More](https://medium.com/p/d357dad750b0) |
 | Wed, 27 Aug 2025 11:37:30 GMT | Vamp Byte #2 — Punycode & Homograph Attacks? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/40cc7644a924) |
-| Wed, 27 Aug 2025 11:36:06 GMT | The Ultimate Guide to SaaS Agreements: Protecting Your Business and Your Users | Hansen Tong | [Read More](https://medium.com/p/226475dc1669) |
-| Wed, 27 Aug 2025 11:34:59 GMT | Hier j’ai eu 30 ans | Olafemi the GOAT | [Read More](https://medium.com/p/756d1a611e42) |
-| Wed, 27 Aug 2025 11:32:02 GMT | HIPAA for SaaS: How Compliance Gaps Put Your Healthcare Revenue at Risk | SecureSlate | [Read More](https://medium.com/p/9c344b439f75) |
-| Wed, 27 Aug 2025 11:27:32 GMT | Even Basic Controls Matter: Lessons on MFA from Recent Research | Brittney Ginther | [Read More](https://medium.com/p/77b36dd4fcd3) |
-| Wed, 27 Aug 2025 11:27:09 GMT | Dijital Çağda Çevre Güvenliği | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/7d583734fddf) |
-| Wed, 27 Aug 2025 11:08:07 GMT | Can AI Catch a Deepfake Voice? Testing Speaker Verification Against Clones | Awesome Solutions | [Read More](https://medium.com/p/e4b07b0c2cf5) |
-| Wed, 27 Aug 2025 11:07:04 GMT | RDP Under Fire: How Remote Desktop Attacks Threaten Business Security. | eL Njas!™ | [Read More](https://medium.com/p/26b02a144033) |
