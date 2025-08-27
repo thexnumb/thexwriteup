@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 22:20:59 GMT | How I Turned a “Type 3 Chars” Search Box Into Full SQLi | Ali Hussain | [Read More](https://medium.com/p/a4664e41071f) |
+| Wed, 27 Aug 2025 22:11:58 GMT | Why Our Obsession With Emotional Safety Is Backfiring | Drew Lisso | [Read More](https://medium.com/p/8167f1815164) |
 | Wed, 27 Aug 2025 21:59:39 GMT | New 5G Hack Lets Attackers Crash Your Phone from 65 Feet Away | Cyber-AppSec | [Read More](https://medium.com/p/da9f6fe31c19) |
 | Wed, 27 Aug 2025 21:54:22 GMT | The AI Security Skills No One’s Teaching, Yet | BillfordX | [Read More](https://medium.com/p/3d224b5fcc8a) |
 | Wed, 27 Aug 2025 21:50:01 GMT | Basics of Cryptography | Kyrillos Kamal | [Read More](https://medium.com/p/a9c21b4f1980) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 16:22:32 GMT | I Deleted 80% of My Codebase — And My App Got Faster | The Dev Notebook | [Read More](https://medium.com/p/802a5e108f35) |
 | Wed, 27 Aug 2025 16:18:26 GMT | Understanding HIPAA: A Comprehensive Guide | CSFaaS | [Read More](https://medium.com/p/fcab857d2cf5) |
 | Wed, 27 Aug 2025 16:12:19 GMT | How to use SOPS | Alexey Tozik | [Read More](https://medium.com/p/5d77d83cf445) |
-| Wed, 27 Aug 2025 16:05:29 GMT | Your vulnerability is both personal and relational. | Josenaldo Silva, psicanalista. | [Read More](https://medium.com/p/8ce7de1da10e) |
-| Wed, 27 Aug 2025 16:03:05 GMT | “The End of Passwords Is Near”-Look Why????? | L Churchill | [Read More](https://medium.com/p/b53993975a87) |
