@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 11:08:07 GMT | Can AI Catch a Deepfake Voice? Testing Speaker Verification Against Clones | Awesome Solutions | [Read More](https://medium.com/p/e4b07b0c2cf5) |
+| Wed, 27 Aug 2025 11:07:04 GMT | RDP Under Fire: How Remote Desktop Attacks Threaten Business Security. | eL Njas!™ | [Read More](https://medium.com/p/26b02a144033) |
+| Wed, 27 Aug 2025 11:04:00 GMT | The Digital Divide | Aboyeji Emmanuel Olusola | [Read More](https://medium.com/p/99cefedc472f) |
+| Wed, 27 Aug 2025 11:00:48 GMT | Why AI Makes Engineering More Essential, Not Less | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/a4ea2d246ae1) |
+| Wed, 27 Aug 2025 10:57:00 GMT | #Wipro Interview for Automation | Ajit Kumar | [Read More](https://medium.com/p/52a30ae9ec71) |
+| Wed, 27 Aug 2025 10:52:10 GMT | The Phantom Key: How a Single Typo Can Unlock Your Entire Digital Life | Kanwar Jiten Singh | [Read More](https://medium.com/p/30eb60abd050) |
+| Wed, 27 Aug 2025 10:41:09 GMT | The Ghost in the Machine: How a Secret Cyber Heist Unlocked a Global Superpower | Kanwar Jiten Singh | [Read More](https://medium.com/p/56e5eeafe7e6) |
 | Wed, 27 Aug 2025 10:37:30 GMT | Vulnhub Walkthrough: Toppo (Beginner-Friendly CTF) | Aryan Tiwari | [Read More](https://medium.com/p/88de26c12832) |
 | Wed, 27 Aug 2025 10:36:57 GMT | Understanding Common Criteria: What It Is and Why It Matters in IT Security | Raviteja Mureboina | [Read More](https://medium.com/p/886a394ab919) |
+| Wed, 27 Aug 2025 10:34:45 GMT | PM Modi Is Not Picking Up Donald Trump’s Phone Call | Everclear | [Read More](https://medium.com/p/6acf85bea69c) |
 | Wed, 27 Aug 2025 10:27:26 GMT | How GitLab Avoided €20M+ in Legal Fines With One Quick Fix: The One Small Mistake That Almost… | Justas_b | [Read More](https://medium.com/p/cefb4b581c0e) |
 | Wed, 27 Aug 2025 10:23:02 GMT | DockerLabs Writeup — Hidden (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/dd0d3fdfd8de) |
 | Wed, 27 Aug 2025 10:15:47 GMT | Nigeria Is at War, and It’s a War of Survival | Ishola Quwam | [Read More](https://medium.com/p/66fe6f418018) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 05:17:47 GMT | AI Agent Gateways: The New Security Boundary | Dave Patten | [Read More](https://medium.com/p/6265732764b4) |
 | Wed, 27 Aug 2025 05:14:36 GMT | Anatomy of a Backdoor: Deconstructing the UPSTYLE Malware Targeting Palo Alto Firewalls | Sohan Kanna D | [Read More](https://medium.com/p/30b5d1d1abcc) |
 | Wed, 27 Aug 2025 05:01:23 GMT | Day 43- Understand backups and resiliency | unica 02 | [Read More](https://medium.com/p/259dac1f66c8) |
-| Wed, 27 Aug 2025 04:58:51 GMT | CAB CHRONICLES 83: THE CALL | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/10bee41bfb94) |
-| Wed, 27 Aug 2025 04:58:43 GMT | The Linux Security Journey — PolKit (Authorization Manager) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/459c2dd2c3cf) |
-| Wed, 27 Aug 2025 04:52:51 GMT | 30 Years of Linux: A Tribute to an Engineering Marvel | MerajTheTechStudent | [Read More](https://medium.com/p/ac7b259d6d63) |
-| Wed, 27 Aug 2025 04:51:14 GMT | How to Utilize a Dell’s Split Screen Feature: An Introduction | Muhammad Sohail | [Read More](https://medium.com/p/86f97dfe9583) |
-| Wed, 27 Aug 2025 04:50:37 GMT | Web Security 2025: 7 Must-Have Features | Mega Web Link | [Read More](https://medium.com/p/bd0b0a922711) |
-| Wed, 27 Aug 2025 04:42:15 GMT | From CNAME to Cash: Hijacking Misconfigured DNS Records for Maximum Impact | Iski | [Read More](https://medium.com/p/41352654f85c) |
-| Wed, 27 Aug 2025 04:26:47 GMT | Deepfake Malware: The Next Big Threat No One Is Talking About | Paritosh | [Read More](https://medium.com/p/8cbb7c228eca) |
-| Wed, 27 Aug 2025 04:20:17 GMT | The $4 Million Click: How Phishing Still Breaches Fortune 500s | Aj | [Read More](https://medium.com/p/fbccf1d1d37d) |
