@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 07:10:07 GMT | Analyzing IoT Security for Professionals | Cyber Security Research | [Read More](https://medium.com/p/e1cefe7695eb) |
+| Wed, 27 Aug 2025 07:08:49 GMT | Analyzing IoT Security for Organizations | Cyber Security Research | [Read More](https://medium.com/p/4c25038bc080) |
+| Wed, 27 Aug 2025 07:07:26 GMT | Analyzing IoT Security for Beginners | Cyber Security Research | [Read More](https://medium.com/p/4232fffd7062) |
+| Wed, 27 Aug 2025 07:05:58 GMT | ประจำวันพุธที่ 27 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/aae94b759a55) |
+| Wed, 27 Aug 2025 07:04:25 GMT | Complete Setup Guide for Automotive Application Testing (AAOS Emulator) | eSecForte Technologies | [Read More](https://medium.com/p/3b8dc34baba8) |
+| Wed, 27 Aug 2025 07:03:39 GMT | Recon Beyond Endpoints: Fingerprinting API Frameworks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/3d80b929c254) |
+| Wed, 27 Aug 2025 07:01:37 GMT | Inventor: Historical Context Research Paper: Marie Van Brittan Brown, Inventor of the Home Security… | gab1930s | [Read More](https://medium.com/p/f5bda6fc5c5a) |
+| Wed, 27 Aug 2025 06:53:44 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1eaea616cb02) |
 | Wed, 27 Aug 2025 06:48:06 GMT | AI-Powered Offline Antivirus: The Future of Malware Protection | Chirag Bhatia | [Read More](https://medium.com/p/f65aa1ae9057) |
+| Wed, 27 Aug 2025 06:47:34 GMT | Bug Bounty Un buen hacker no fuerza puertas, encuentra las que nunca cerraron | Gorka | [Read More](https://medium.com/p/743232169bd8) |
 | Wed, 27 Aug 2025 06:37:14 GMT | Security Companies in Baltimore — ICS Security Solutions | Andrew Paul | [Read More](https://medium.com/p/4beee0cf1045) |
 | Wed, 27 Aug 2025 06:32:59 GMT | ️ Passive Recon Superpowers: Finding APIs Without Sending a Single Request | Narendar Battula (nArEn) | [Read More](https://medium.com/p/308e410aebdf) |
 | Wed, 27 Aug 2025 06:31:28 GMT | How to Block Access to Admin Paths on Your Website with SafeLine WAF | Quella | [Read More](https://medium.com/p/29469b384d0e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 22:07:42 GMT | Why Your SIEM is Blind: Lessons From 160 Million Attack Simulations | Cyber-AppSec | [Read More](https://medium.com/p/d4952144c939) |
 | Tue, 26 Aug 2025 22:05:32 GMT | DNS Ad Blocking Face-off: NextDNS vs Pi-hole for Maximum Privacy in 2025 | BiyteLüm | [Read More](https://medium.com/p/64ccea0e395a) |
 | Tue, 26 Aug 2025 21:55:42 GMT | Linux è sicuro perché esiste Windows: La verità sulla sicurezza informatica | ChrisQuack | [Read More](https://medium.com/p/530e2e83e655) |
-| Tue, 26 Aug 2025 21:52:49 GMT | Personal Growth and Self-Discovery in the Age of AI | Michael W. Regier, Ph.D. | [Read More](https://medium.com/p/d9cc9b35d39d) |
-| Tue, 26 Aug 2025 21:51:57 GMT | Ant Lab RWA Research Bounty — Call for Papers | ANT LAB | [Read More](https://medium.com/p/d986721cc934) |
-| Tue, 26 Aug 2025 21:50:09 GMT | Job Control | Víctor Rodolfo Vázquez Adame | [Read More](https://medium.com/p/4cbbabd9f02d) |
-| Tue, 26 Aug 2025 21:44:33 GMT | The Rise of “DoS Uber Attacks”: How Criminals Can Weaponize Ride-Hailing Platforms | Ashraf Qaddomi | [Read More](https://medium.com/p/ca2940322213) |
-| Tue, 26 Aug 2025 21:39:34 GMT | Understanding RTT (Round-Trip Time) in Wireshark | Javier | [Read More](https://medium.com/p/0a377da643d9) |
-| Tue, 26 Aug 2025 21:31:38 GMT | Data as a Component of the Overall Platform | Apto Solutions | [Read More](https://medium.com/p/c1f1d156bafc) |
-| Tue, 26 Aug 2025 21:27:01 GMT | How I Built a Real-Time SIEM System with Django | Eka Onagbesan | [Read More](https://medium.com/p/3ac48eac7a0b) |
-| Tue, 26 Aug 2025 21:02:21 GMT | How Your Online Info Stays Safe (Without You Lifting a Finger) | FutureToolsExplained | [Read More](https://medium.com/p/a9c6faab5f11) |
-| Tue, 26 Aug 2025 21:00:41 GMT | CVE-2025–8088: WinRAR’s Zero-Day Path Traversal — From Zero to Pwn | Aditya Bhatt | [Read More](https://medium.com/p/441708ae6417) |
