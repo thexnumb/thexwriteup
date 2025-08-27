@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 07:28:10 GMT | Building Startecon: Company, Customers, and Culture | SampradaKhadka | [Read More](https://medium.com/p/fe93129c4ee5) |
+| Wed, 27 Aug 2025 07:26:25 GMT | Hack, Learn, Repeat: Red Teaming Through Games And Simulations | Redfox Security | [Read More](https://medium.com/p/df84e7635417) |
+| Wed, 27 Aug 2025 07:19:06 GMT | Web Basics: SMO, Search Behavior & Single Page Apps | Bhavesh Rajpurohit | [Read More](https://medium.com/p/9813857c2940) |
+| Wed, 27 Aug 2025 07:16:35 GMT | Analyzing Malware Analysis and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/77be425ef5a3) |
+| Wed, 27 Aug 2025 07:14:00 GMT | [HackTheBox Write-Up: Codify] | Prerana khanal | [Read More](https://medium.com/p/9ea60043bf7b) |
+| Wed, 27 Aug 2025 07:13:59 GMT | Analyzing IoT Security with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/a5eb99256ffa) |
+| Wed, 27 Aug 2025 07:12:41 GMT | Analyzing IoT Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/89de2f2a085e) |
+| Wed, 27 Aug 2025 07:11:25 GMT | Analyzing IoT Security for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/5d48294cb3d7) |
 | Wed, 27 Aug 2025 07:10:07 GMT | Analyzing IoT Security for Professionals | Cyber Security Research | [Read More](https://medium.com/p/e1cefe7695eb) |
 | Wed, 27 Aug 2025 07:08:49 GMT | Analyzing IoT Security for Organizations | Cyber Security Research | [Read More](https://medium.com/p/4c25038bc080) |
 | Wed, 27 Aug 2025 07:07:26 GMT | Analyzing IoT Security for Beginners | Cyber Security Research | [Read More](https://medium.com/p/4232fffd7062) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 23:09:44 GMT | Finishing the CPTS Path! | Josh Colpean | [Read More](https://medium.com/p/ed0a88c9f8bb) |
 | Tue, 26 Aug 2025 23:03:07 GMT | Bots and Fake Resumes: The Hidden Risks Sabotaging HR’s Cost-Saving Initiative | Kevin Kelly | [Read More](https://medium.com/p/2cbe9c8b995a) |
 | Tue, 26 Aug 2025 22:54:52 GMT | Getting started Anomali ThreatStream MCP | Hisashi Yamaguchi | [Read More](https://medium.com/p/9a028f1c27e7) |
-| Tue, 26 Aug 2025 22:51:44 GMT | Bridging Islamic Concepts and Information Technology | Adnan Özdemir | [Read More](https://medium.com/p/46e3e1e8f0d5) |
-| Tue, 26 Aug 2025 22:47:37 GMT | Ethical Hacker — Discover Your Path to Career Success | Franklin Rhodes | [Read More](https://medium.com/p/e840f5bc311c) |
-| Tue, 26 Aug 2025 22:28:12 GMT | Container security: How to Defend Against It | Written by Lubov Kolesnikovich | [Read More](https://medium.com/p/39dfccc5c87c) |
-| Tue, 26 Aug 2025 22:17:34 GMT | Quantum-Safe Cryptography: What You Should Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0b07f1b547ea) |
-| Tue, 26 Aug 2025 22:11:32 GMT | My Favorite Bug Was the One Rust Wouldn’t Let Me Write | SyntaxSavage | [Read More](https://medium.com/p/574a00784805) |
-| Tue, 26 Aug 2025 22:07:42 GMT | Why Your SIEM is Blind: Lessons From 160 Million Attack Simulations | Cyber-AppSec | [Read More](https://medium.com/p/d4952144c939) |
-| Tue, 26 Aug 2025 22:05:32 GMT | DNS Ad Blocking Face-off: NextDNS vs Pi-hole for Maximum Privacy in 2025 | BiyteLüm | [Read More](https://medium.com/p/64ccea0e395a) |
-| Tue, 26 Aug 2025 21:55:42 GMT | Linux è sicuro perché esiste Windows: La verità sulla sicurezza informatica | ChrisQuack | [Read More](https://medium.com/p/530e2e83e655) |
