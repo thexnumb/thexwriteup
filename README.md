@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 01:31:35 GMT | The Financial Foundation of Adult Serenity: How Money Buys Peace of Mind | Flaye Kate | [Read More](https://medium.com/p/cc36b6fc4e35) |
+| Wed, 27 Aug 2025 01:25:23 GMT | Zero Trust Architecture: Never Trust, Always Verify | Mahmut Yorgundag | [Read More](https://medium.com/p/0bb8fc8d62ed) |
+| Wed, 27 Aug 2025 01:08:53 GMT | Exposing a Travel Ad: How OSINT Turned New Zealand Into Russia’s Kamchatka | Horus | [Read More](https://medium.com/p/48973a6f1ebc) |
+| Wed, 27 Aug 2025 00:51:53 GMT | My Cybersecurity Journey – From Struggles to Becoming a Security Analyst and Engineer | Vignesh Joshi | [Read More](https://medium.com/p/05febb8e31b4) |
+| Wed, 27 Aug 2025 00:39:12 GMT | Adversarial Attacks on Multi-Sensor Fusion in Autonomous Vehicles | Aanshi P | [Read More](https://medium.com/p/036bfab873b1) |
+| Wed, 27 Aug 2025 00:23:36 GMT | Securing an Application Built with AI: Lessons from a Real-World Test | GABBYTECH | [Read More](https://medium.com/p/400648df34f8) |
+| Wed, 27 Aug 2025 00:16:26 GMT | TryHackMe Contrabando Room Write-Up CTF: (CVE-2023–25690/SSRF/ SSTI Scenario) | チェインズ・ナバーロ | [Read More](https://medium.com/p/44743b3baa8a) |
+| Wed, 27 Aug 2025 00:05:41 GMT | SOC166 — Javascript Code Detected in Requested URL (a.k.a. | Andrew Williams | [Read More](https://medium.com/p/1ab54cd5b11b) |
+| Wed, 27 Aug 2025 00:01:37 GMT | Shodan’s Guide for Cybersecurity Professionals: From Basic Search to Advanced Reconnaissance | JPablo13 | [Read More](https://medium.com/p/dbeeee21c638) |
 | Tue, 26 Aug 2025 23:36:25 GMT | Curtain of Fantasy. | Monica garcia | [Read More](https://medium.com/p/c7b3e1c4ac35) |
 | Tue, 26 Aug 2025 23:33:59 GMT | picoCTF#1: DISKO 1 | Rxuzuu | [Read More](https://medium.com/p/88f391eecc44) |
+| Tue, 26 Aug 2025 23:19:08 GMT | How to pimp your Windows computer? | Irmak ozarslan | [Read More](https://medium.com/p/b1a3b6db7b5a) |
 | Tue, 26 Aug 2025 23:10:30 GMT | It’s in the Name: Linux Malware Delivered via Filenames | Ashley Dai | [Read More](https://medium.com/p/29a428b0508c) |
 | Tue, 26 Aug 2025 23:09:44 GMT | Finishing the CPTS Path! | Josh Colpean | [Read More](https://medium.com/p/ed0a88c9f8bb) |
 | Tue, 26 Aug 2025 23:03:07 GMT | Bots and Fake Resumes: The Hidden Risks Sabotaging HR’s Cost-Saving Initiative | Kevin Kelly | [Read More](https://medium.com/p/2cbe9c8b995a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 17:12:39 GMT | Threat Campaign: CORNFLAKE.V3 Backdoor Spread via Fake CAPTCHA (ClickFix Technique) | Jon C | [Read More](https://medium.com/p/5c43ace5adf5) |
 | Tue, 26 Aug 2025 17:12:26 GMT | Proving Grounds Walkthrough: Exfiltrated | Mihail Pana | [Read More](https://medium.com/p/2a305c5e2605) |
 | Tue, 26 Aug 2025 17:11:23 GMT | Pengenalan Teknologi Sistem Terintegrasi | Zifa Tea Azzahra | [Read More](https://medium.com/p/192068c0631f) |
-| Tue, 26 Aug 2025 17:09:51 GMT | The Purdue Model for ICS Security | ThatOTSecurityGuy | [Read More](https://medium.com/p/a6932877e8df) |
-| Tue, 26 Aug 2025 17:09:35 GMT | Gobuster (reconn tool) | vulnhunter | [Read More](https://medium.com/p/0310a3d8fc04) |
-| Tue, 26 Aug 2025 17:09:11 GMT | Sharing my journey into cybersecurity. | Arcane Insights | [Read More](https://medium.com/p/1e498ccb24ee) |
-| Tue, 26 Aug 2025 17:00:54 GMT | Anonforce — TryHackMe Write-Up: From Anonymous FTP to Root Access | Abhinsubej | [Read More](https://medium.com/p/d75c8945f120) |
-| Tue, 26 Aug 2025 16:57:40 GMT | When Hyper-Independence Breaks What Matters Most | Words Between Worlds | [Read More](https://medium.com/p/398c017ceee0) |
-| Tue, 26 Aug 2025 16:54:06 GMT | How the World’s Greatest Hackers Were Caught by Human Error | Rithik V Gopal | [Read More](https://medium.com/p/6a7a11aa2391) |
-| Tue, 26 Aug 2025 16:47:00 GMT | Malware Removal in a Virtual Lab — Practicing the A+ Malware Workflow | Dec | [Read More](https://medium.com/p/64d4405056d0) |
-| Tue, 26 Aug 2025 16:42:54 GMT | The Security Bug That Hid in My System for 3 Years | DevLogics | [Read More](https://medium.com/p/fd0050e8c47a) |
-| Tue, 26 Aug 2025 16:41:20 GMT | How to Find WhatsApp Call IP - Beware of Scammers Part 2 | Mr. MOM | [Read More](https://medium.com/p/31690bf3beef) |
-| Tue, 26 Aug 2025 16:38:51 GMT | Operation Database Infiltration: Cracking the Digital Vault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/141c62e02fc0) |
