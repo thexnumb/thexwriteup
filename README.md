@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 21:03:29 GMT | Hunting Leaks at Go Speed: S3Rapthor, the Predator of Public S3 Buckets You Didn’t Know You Needed | KeyboardSamurai | [Read More](https://medium.com/p/45c1c7c8a72f) |
+| Wed, 27 Aug 2025 20:59:14 GMT | SOAR home lab (Part 1) | Khushdeep | [Read More](https://medium.com/p/997dfac07364) |
+| Wed, 27 Aug 2025 20:57:34 GMT | Rust’s Hidden Drop Order: The Bug That Doesn’t Exist (But Almost Did) | SyntaxSavage | [Read More](https://medium.com/p/0a99007a4be8) |
+| Wed, 27 Aug 2025 20:57:33 GMT | ️ Advanced Malware Analysis with Dynamic Binary Instrumentation | Esra Kayhan | [Read More](https://medium.com/p/10a03617f71b) |
+| Wed, 27 Aug 2025 20:54:39 GMT | What Would Happen if AWS Accounts Had No Roles ? | Amine | [Read More](https://medium.com/p/664171b25833) |
+| Wed, 27 Aug 2025 20:53:16 GMT | NIS2 Directive: Europe’s New Cybersecurity Rulebook | Pietro Romano / SecBeret | [Read More](https://medium.com/p/64b157532b70) |
+| Wed, 27 Aug 2025 20:47:18 GMT | The Ultimate Red Team Detection Playbook: 28 KQL Queries That Will Save Your SOC | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/8059d8b8e681) |
+| Wed, 27 Aug 2025 20:45:57 GMT | Today’s Headlines Should Haunt Us: When Nightmares Become Normal | Meghan | [Read More](https://medium.com/p/5b4ddbef91e0) |
+| Wed, 27 Aug 2025 20:44:19 GMT | Potential Topics for Cyber/Network role with cybersecurity company | Bob Malin | [Read More](https://medium.com/p/4f81b4c0ca0b) |
+| Wed, 27 Aug 2025 20:40:14 GMT | On the Weight of Love | Words_by_Memira | [Read More](https://medium.com/p/2122b1e3ae1a) |
 | Wed, 27 Aug 2025 20:33:04 GMT | Kijan Pou Kòmanse nan IT ak Cybersecurity (Anvan Ou Kouri Dèyè Sètifikasyon) | Jean Bertro Paul | [Read More](https://medium.com/p/3bf48af3fbb7) |
 | Wed, 27 Aug 2025 20:32:54 GMT | PBM, Benefício Farmácia e Health Analytics: o guia prático da Funcional Health Tech | Ianchrishansen | [Read More](https://medium.com/p/1c4a9153da9f) |
 | Wed, 27 Aug 2025 20:27:29 GMT | Secure Shell - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/3982eaa9baa0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 15:44:49 GMT | Password Managers: Overhyped, Underused, or Cybersecurity’s Silent Hero? | Paradise technologies Inc | [Read More](https://medium.com/p/d735490503c4) |
 | Wed, 27 Aug 2025 15:42:53 GMT | Analyzing Network Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/b381b0696147) |
 | Wed, 27 Aug 2025 15:41:52 GMT | stay open at sunrise | Susan Brock | [Read More](https://medium.com/p/65a85ab81e7d) |
-| Wed, 27 Aug 2025 15:41:21 GMT | [CyberDefenders Write-up] Kerberoasted (Investigate Kerberoasting leads to Service Installation… | Chicken0248 | [Read More](https://medium.com/p/a8183923779a) |
-| Wed, 27 Aug 2025 15:39:22 GMT | Analyzing Malware Analysis in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/3aba25e5fbfe) |
-| Wed, 27 Aug 2025 15:39:02 GMT | Strengthening Kubernetes Security with Kubesec & Kube-bench | Aryan Khanmohammadi | [Read More](https://medium.com/p/56f85b47264f) |
-| Wed, 27 Aug 2025 15:37:32 GMT | Analyzing Malware Analysis for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/e463b6fa1879) |
-| Wed, 27 Aug 2025 15:37:28 GMT | Hackthebox Starting Point (Bike) | Aayatullah Adeyemi | [Read More](https://medium.com/p/8955cacbf91d) |
-| Wed, 27 Aug 2025 15:35:07 GMT | Mengenal Big Data: Data Besar? — Pengoperasian PySpark dan Pandas | fijrisalwa | [Read More](https://medium.com/p/61cdd91b7897) |
-| Wed, 27 Aug 2025 15:30:56 GMT | ➡️ AI gives you ✅  not ❌ : Developer productivity toolkit | Jonathan Vila | [Read More](https://medium.com/p/78b05146af25) |
-| Wed, 27 Aug 2025 15:29:43 GMT | Neuromorphic Attacks: The Next Frontier in Cybersecurity Threats | Akshay Chauhan | [Read More](https://medium.com/p/7523f48459da) |
-| Wed, 27 Aug 2025 15:25:40 GMT | IA e Cybersecurity | Fabio Cricrì | [Read More](https://medium.com/p/18df1c4d2b3d) |
-| Wed, 27 Aug 2025 15:23:55 GMT | “Day 21: The Ghost API — How I Found a Secret Backdoor in a Fortune 500’s JavaScript” | Aman Sharma | [Read More](https://medium.com/p/5bd4f17e17dd) |
