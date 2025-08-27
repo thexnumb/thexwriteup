@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 05:14:36 GMT | Anatomy of a Backdoor: Deconstructing the UPSTYLE Malware Targeting Palo Alto Firewalls | Sohan Kanna D | [Read More](https://medium.com/p/30b5d1d1abcc) |
+| Wed, 27 Aug 2025 05:01:23 GMT | Day 43- Understand backups and resiliency | unica 02 | [Read More](https://medium.com/p/259dac1f66c8) |
+| Wed, 27 Aug 2025 04:58:51 GMT | CAB CHRONICLES 83: THE CALL | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/10bee41bfb94) |
+| Wed, 27 Aug 2025 04:58:43 GMT | The Linux Security Journey — PolKit (Authorization Manager) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/459c2dd2c3cf) |
+| Wed, 27 Aug 2025 04:52:51 GMT | 30 Years of Linux: A Tribute to an Engineering Marvel | MerajTheTechStudent | [Read More](https://medium.com/p/ac7b259d6d63) |
+| Wed, 27 Aug 2025 04:51:14 GMT | How to Utilize a Dell’s Split Screen Feature: An Introduction | Muhammad Sohail | [Read More](https://medium.com/p/86f97dfe9583) |
+| Wed, 27 Aug 2025 04:50:37 GMT | Web Security 2025: 7 Must-Have Features | Mega Web Link | [Read More](https://medium.com/p/bd0b0a922711) |
+| Wed, 27 Aug 2025 04:42:15 GMT | From CNAME to Cash: Hijacking Misconfigured DNS Records for Maximum Impact | Iski | [Read More](https://medium.com/p/41352654f85c) |
 | Wed, 27 Aug 2025 04:26:47 GMT | Deepfake Malware: The Next Big Threat No One Is Talking About | Paritosh | [Read More](https://medium.com/p/8cbb7c228eca) |
 | Wed, 27 Aug 2025 04:20:17 GMT | The $4 Million Click: How Phishing Still Breaches Fortune 500s | Aj | [Read More](https://medium.com/p/fbccf1d1d37d) |
 | Wed, 27 Aug 2025 04:16:00 GMT | Denial of Service (DoS) in Smart Contracts: 5 Subtle Threats Every Developer Should Know | 0xh4145 | [Read More](https://medium.com/p/c69618534a25) |
@@ -19,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 04:07:34 GMT | Detecting Malware with Memory Forensics: A Deep Dive | Paritosh | [Read More](https://medium.com/p/dfd1458a8c37) |
 | Wed, 27 Aug 2025 04:02:51 GMT | Quantum-Safe by 2033: Microsoft’s Pledge and the Current Post Quantum Cryptography (PQC) Landscape | Gaurav Sharma | [Read More](https://medium.com/p/44261d00a5f6) |
 | Wed, 27 Aug 2025 04:02:18 GMT | The Hacker’s Toolkit for 2025: 15 Tools I Can’t Live Without | Sukhveer Singh | [Read More](https://medium.com/p/00df61e39c53) |
+| Wed, 27 Aug 2025 03:52:30 GMT | Understanding Kubernetes RBAC: How It Works, Why It Matters, and Its Limitations | Pankaj Aswal | [Read More](https://medium.com/p/54008fad56ed) |
 | Wed, 27 Aug 2025 03:35:52 GMT | Understanding the Brewer-Nash Model | Raviteja Mureboina | [Read More](https://medium.com/p/c0701570b004) |
 | Wed, 27 Aug 2025 03:34:06 GMT | Top 5 Free Malware Analysis Tools Every Beginner Should Use | Paritosh | [Read More](https://medium.com/p/7f9c8c96c814) |
 | Wed, 27 Aug 2025 03:31:37 GMT | Cyber Deception and AI Revolution | Akshat Ratanpal | [Read More](https://medium.com/p/79fb66ec6c13) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 18:49:52 GMT | The Lesson I Learned on the Bathroom Floor | Angie Hawkins | [Read More](https://medium.com/p/50a3367a7f68) |
 | Tue, 26 Aug 2025 18:46:26 GMT | Why Outsourcing Your SOC is a Smarter Move | SafeAeon Inc. | [Read More](https://medium.com/p/64c60ce9290c) |
 | Tue, 26 Aug 2025 18:42:27 GMT | CEH Practical Exam Notes (v12) — iLabs Walkthrough | Hunter | [Read More](https://medium.com/p/48f30320b924) |
-| Tue, 26 Aug 2025 18:38:40 GMT | The Data Broker Threat to Healthcare and Finance | mePrism Privacy | [Read More](https://medium.com/p/011badf34ba3) |
-| Tue, 26 Aug 2025 18:36:09 GMT | Zscaler vs. Netskope on AWS: Who’s the Better Cloud Bouncer? | Sunnysidescuba | [Read More](https://medium.com/p/acf945664b7d) |
-| Tue, 26 Aug 2025 18:22:43 GMT | Security Matters in the Age of Information | Yasemin Er | [Read More](https://medium.com/p/ea8447215195) |
-| Tue, 26 Aug 2025 18:21:58 GMT | Why Every Business Needs a Block Web Filter | SafeAeon Inc. | [Read More](https://medium.com/p/39074e679991) |
-| Tue, 26 Aug 2025 18:20:11 GMT | I Tried Breaking Into My Accounts | Aj | [Read More](https://medium.com/p/c800b44f5efd) |
-| Tue, 26 Aug 2025 18:18:40 GMT | Social Media: The Hacker’s Favorite Playground | Shahzaib | [Read More](https://medium.com/p/28d7f5f1efde) |
-| Tue, 26 Aug 2025 18:17:39 GMT | Agentic AI in the Healthcare Industry: Threats, Mitigations, and Key Considerations | Ryan Scott | [Read More](https://medium.com/p/3c285c902e10) |
-| Tue, 26 Aug 2025 18:15:39 GMT | Cyberbiosecurity : Securing Human Bodies | Shubhamkhatang | [Read More](https://medium.com/p/eef04fe150b9) |
-| Tue, 26 Aug 2025 18:13:26 GMT | How to Hunt Easy Vulnerabilities on Websites | Monika sharma | [Read More](https://medium.com/p/44024c3e301f) |
