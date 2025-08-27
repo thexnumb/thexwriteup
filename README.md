@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 18:24:27 GMT | My Journey Through the “Cyber Crime Investigation Course” | Nimit Ahir | [Read More](https://medium.com/p/d1319ebee996) |
+| Wed, 27 Aug 2025 18:23:51 GMT | Demystifying AWS IAM: A Guide to the Principle of Least Privilege | Alan Joseph Abraham | [Read More](https://medium.com/p/f66f763c62d9) |
+| Wed, 27 Aug 2025 17:53:55 GMT | it’s enough | Cinse Bonino | [Read More](https://medium.com/p/c8293fb2bd37) |
+| Wed, 27 Aug 2025 17:52:40 GMT | Reconnaissance Mission: How to Gather Intel Before Hacking a Wi-Fi Network [Lab 2] | Biplove Yadav | [Read More](https://medium.com/p/5e1fd7c5fae7) |
+| Wed, 27 Aug 2025 17:47:57 GMT | 127.0.0.1 Isn’t Just Localhost: The Secret Network Inside Your Computer | Dayakumar | [Read More](https://medium.com/p/90c786826856) |
+| Wed, 27 Aug 2025 17:47:28 GMT | ExtraHop Reveal(x) Demo Write Up — V1 | Bob Malin | [Read More](https://medium.com/p/f513231dfe59) |
+| Wed, 27 Aug 2025 17:46:26 GMT | What if we improve the way developers are given access to databases | Thierry Feuzeu | [Read More](https://medium.com/p/64cd7e2bef56) |
+| Wed, 27 Aug 2025 17:43:04 GMT | 5 Common Cybersecurity Mistakes and How to Avoid Them | Freya Andersen | [Read More](https://medium.com/p/6436d2e953b3) |
+| Wed, 27 Aug 2025 17:41:38 GMT | Phishing Explained: How to Spot and Avoid Online Scams | VS Writes | [Read More](https://medium.com/p/2418d80947c4) |
+| Wed, 27 Aug 2025 17:40:24 GMT | The Evolving Threat of Image-Based Malware, You need a solution. | FALCONS.AI | [Read More](https://medium.com/p/9c19f181de92) |
+| Wed, 27 Aug 2025 17:40:11 GMT | From Bugs to Bucks: My First Bounty $$$ | RAJVEER | [Read More](https://medium.com/p/0ab9f6341368) |
+| Wed, 27 Aug 2025 17:35:17 GMT | Cybersecurity Basics for Beginners: How Downtime Can Become a Disaster ⏳ | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/5796f5c4841e) |
 | Wed, 27 Aug 2025 17:33:06 GMT | When My Wi-Fi Turned Against Me: The Dark Reality Of RapperBot | O. J. Okpabi | [Read More](https://medium.com/p/b728ee47f40f) |
 | Wed, 27 Aug 2025 17:31:01 GMT | Andreessen Horowitz’s $100M AI PAC: Essential Tips for Tech Leaders on Positioning for Success | Veronica Wagenet | [Read More](https://medium.com/p/0f8c58a9ad37) |
 | Wed, 27 Aug 2025 17:30:00 GMT | Making sense of BOLA in a Mindful Machine Age | Quintius Walker | [Read More](https://medium.com/p/9149e5d339ed) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 13:52:49 GMT | When States Fail, People Suffer: The Myanmar Crisis Through a Human Security Lens | 292 Wahyu Setya B. | [Read More](https://medium.com/p/6de223d78a51) |
 | Wed, 27 Aug 2025 13:36:01 GMT | BrunnerCTF 2025 - All Boot2Root WriteUp - STELK_CSC | Hack4Fun Academy | [Read More](https://medium.com/p/de5aceff960c) |
 | Wed, 27 Aug 2025 13:35:15 GMT | Secure Code Analysis: A04 — Insecure Direct Object References (IDOR) | Sevban Dönmez | [Read More](https://medium.com/p/7578f12b7b82) |
-| Wed, 27 Aug 2025 13:34:32 GMT | Reveal Lab — CyberDefenders | Eagledefenders | [Read More](https://medium.com/p/35d258957d96) |
-| Wed, 27 Aug 2025 13:27:34 GMT | From Civilian to Security Pro: Your 3-Step Guide to a Security Career in Illinois | Alpha Koncepts | [Read More](https://medium.com/p/345a15cb951e) |
-| Wed, 27 Aug 2025 13:25:04 GMT | XXE | Mohammed Hassan | [Read More](https://medium.com/p/6a9066d9c68b) |
-| Wed, 27 Aug 2025 13:24:52 GMT | Adding remember-me authentication with Spring Boot | Thomas Surmann | [Read More](https://medium.com/p/25ea11495180) |
-| Wed, 27 Aug 2025 13:23:59 GMT | Building a Bridge Between Islamic Concepts and Information Technologies | Adnan Özdemir | [Read More](https://medium.com/p/279af9f4e00d) |
-| Wed, 27 Aug 2025 13:21:02 GMT | I Was Vulnerable. He Held Space. | Mru | [Read More](https://medium.com/p/8c7c982fd0bb) |
-| Wed, 27 Aug 2025 13:14:36 GMT | AI MVPs Break at Login: the 5-hour fix | Ahmad Fiaz | [Read More](https://medium.com/p/6d1f1dc229ca) |
-| Wed, 27 Aug 2025 13:13:33 GMT | Best Cyber Security Tools for EDR Monitoring: The Ultimate Guide (2025 Edition) | Paul Meyer | [Read More](https://medium.com/p/a23b74ddd0fd) |
-| Wed, 27 Aug 2025 13:11:29 GMT | Application Security Training Complete Developer Guide | Application Security Master | [Read More](https://medium.com/p/476efc2f8301) |
-| Wed, 27 Aug 2025 13:10:09 GMT | Anatomy of a Real Phishing Attack: How Defentive Detected and Stopped It in Action | Defentive | [Read More](https://medium.com/p/7b8d5c126393) |
-| Wed, 27 Aug 2025 13:02:27 GMT | How I Found Full Account Takeover Worth $9750 in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/aa3712177b61) |
-| Wed, 27 Aug 2025 13:01:44 GMT | The Security Chief Who Stopped 10,000 Cyberattacks (While Everyone Slept) ⚠️ | Volans Aquilae | [Read More](https://medium.com/p/bd7c0fc03991) |
