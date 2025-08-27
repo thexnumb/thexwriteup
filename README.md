@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 08:36:30 GMT | GuestCanPost: Your Gateway to Seamless Guest Blogging | Ketan Patel | [Read More](https://medium.com/p/c83a3bfd71cb) |
+| Wed, 27 Aug 2025 08:29:26 GMT | Part 4: Breaking Into Cybersecurity: Tools, Projects, Certifications, and Careers | Harini Ganesan | [Read More](https://medium.com/p/5a36a66af9af) |
 | Wed, 27 Aug 2025 08:21:52 GMT | Subdomain Takeover: How Empty Shops on the Internet Get Hijacked | Natarajan C K | [Read More](https://medium.com/p/b5d0e350b3cc) |
 | Wed, 27 Aug 2025 08:20:03 GMT | What Most Devs Get Wrong About Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/8a89ee571a09) |
 | Wed, 27 Aug 2025 08:18:55 GMT | Practical API Security Guide: From Vulnerable to Bulletproof | Rizqi Mulki | [Read More](https://medium.com/p/0c32c3d40bec) |
@@ -21,6 +23,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 08:01:38 GMT | Why Hackers Are Using AI (And How You Can Too — Ethically!) | Cyberkech | [Read More](https://medium.com/p/9605f9289e02) |
 | Wed, 27 Aug 2025 07:50:36 GMT | Mass Extract API endpoints | AbhirupKonwar | [Read More](https://medium.com/p/8b26abb73591) |
 | Wed, 27 Aug 2025 07:43:39 GMT | RBAC Nedir ve Neden Modern Uygulamalarda Bu Kadar Önemlidir? | BekirBurakSaka | [Read More](https://medium.com/p/e9dc8a5c2298) |
+| Wed, 27 Aug 2025 07:41:15 GMT | Blockchain Teknolojisinin Gerçek Hayat Uygulamaları ve Gelecek Perspektifleri | BekirBurakSaka | [Read More](https://medium.com/p/91ded3e42bea) |
 | Wed, 27 Aug 2025 07:40:59 GMT | A New Era of Trust: Omani Data Center Security in Focus | expbhavya | [Read More](https://medium.com/p/57097724fb22) |
 | Wed, 27 Aug 2025 07:40:09 GMT | How the Internet Is Governed — and How Traffic Reaches You | MierafA | [Read More](https://medium.com/p/dad3e11e9eff) |
 | Wed, 27 Aug 2025 07:37:51 GMT | ️ Recon – The Art of Listening Before Speaking | Raj Islam | [Read More](https://medium.com/p/a410f3c61bbb) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 02:27:53 GMT | Why strong Passwords aren’t enough now? | Haider Ali | [Read More](https://medium.com/p/6f0f9bf728bc) |
 | Wed, 27 Aug 2025 02:19:36 GMT | How to handle infidelity in marriage | Miroslava Roksana | [Read More](https://medium.com/p/79ab47647a37) |
 | Wed, 27 Aug 2025 02:13:24 GMT | Integrating and Prioritizing Response Automation in the Detection Lifecycle | Maksim Goldenberg | [Read More](https://medium.com/p/adb565f37758) |
-| Wed, 27 Aug 2025 02:11:34 GMT | Stock Market Trading Part-5 | Written By Richu | [Read More](https://medium.com/p/96772ab8d8cb) |
-| Wed, 27 Aug 2025 01:50:32 GMT | Data Backup and Disaster Recovery Planning Services: Why They’re Essential for Every Business | Techridge Solutions | [Read More](https://medium.com/p/ca5c4763d52d) |
-| Wed, 27 Aug 2025 01:31:35 GMT | The Financial Foundation of Adult Serenity: How Money Buys Peace of Mind | Flaye Kate | [Read More](https://medium.com/p/cc36b6fc4e35) |
