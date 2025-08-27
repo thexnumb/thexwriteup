@@ -12,11 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 20:33:04 GMT | Kijan Pou Kòmanse nan IT ak Cybersecurity (Anvan Ou Kouri Dèyè Sètifikasyon) | Jean Bertro Paul | [Read More](https://medium.com/p/3bf48af3fbb7) |
+| Wed, 27 Aug 2025 20:32:54 GMT | PBM, Benefício Farmácia e Health Analytics: o guia prático da Funcional Health Tech | Ianchrishansen | [Read More](https://medium.com/p/1c4a9153da9f) |
+| Wed, 27 Aug 2025 20:27:29 GMT | Secure Shell - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/3982eaa9baa0) |
 | Wed, 27 Aug 2025 20:20:33 GMT | How to Create Strong and Unique Passwords | Nexus Human | [Read More](https://medium.com/p/f1ea2569f93a) |
 | Wed, 27 Aug 2025 20:20:01 GMT | Cybersecurity Unlocked: A Journey into Cybersec with Yash | Yash Kitey | [Read More](https://medium.com/p/afcfb6e04a8a) |
 | Wed, 27 Aug 2025 20:19:19 GMT | HTB: Developing YARA Rules | Luke | [Read More](https://medium.com/p/9df2646acbfe) |
 | Wed, 27 Aug 2025 20:18:40 GMT | How to Get Started in IT and mostly in Cybersecurity (Before Chasing Certifications) | Jean Bertro Paul | [Read More](https://medium.com/p/02048f1c31e2) |
 | Wed, 27 Aug 2025 20:17:15 GMT | The Next Frontier in Cybersecurity Isn’t Technical, It’s Psychological | Giuseppe Canale | [Read More](https://medium.com/p/19dea9252f06) |
+| Wed, 27 Aug 2025 20:14:34 GMT | Web Güvenliği: SQLi ,XSS ve CSRF Kodlarla ve Vaka Çalışmaları ile Öğren | Yunus Emre Aydın | [Read More](https://medium.com/p/9a939fee37bc) |
 | Wed, 27 Aug 2025 19:57:54 GMT | AI Attack Mind Map: an operator’s field manual | aviral srivastava | [Read More](https://medium.com/p/bcde6bed9529) |
 | Wed, 27 Aug 2025 19:52:50 GMT | File Integrity Checks in Spring Boot File Upload APIs | Alexander Obregon | [Read More](https://medium.com/p/4ee8b0dc5ded) |
 | Wed, 27 Aug 2025 19:44:14 GMT | RapperBot Botnet , Inside One of the Most Powerful DDoS Networks Ever | Motasem Hamdan | [Read More](https://medium.com/p/73566eefb42b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 15:29:43 GMT | Neuromorphic Attacks: The Next Frontier in Cybersecurity Threats | Akshay Chauhan | [Read More](https://medium.com/p/7523f48459da) |
 | Wed, 27 Aug 2025 15:25:40 GMT | IA e Cybersecurity | Fabio Cricrì | [Read More](https://medium.com/p/18df1c4d2b3d) |
 | Wed, 27 Aug 2025 15:23:55 GMT | “Day 21: The Ghost API — How I Found a Secret Backdoor in a Fortune 500’s JavaScript” | Aman Sharma | [Read More](https://medium.com/p/5bd4f17e17dd) |
-| Wed, 27 Aug 2025 15:22:24 GMT | Bugs Are Not Vulnerabilities, and This is Why I Almost Gave Up | CypherNova1337 | [Read More](https://medium.com/p/d95ffc8d830b) |
-| Wed, 27 Aug 2025 15:20:49 GMT | Cybersecurity Unlocked: A Journey into Cybersec with Yash | Yash Kitey | [Read More](https://medium.com/p/0e545abcbe70) |
-| Wed, 27 Aug 2025 15:20:47 GMT | Weak Rate Limiting & Password Oracle in Change Email Endpoint Got me bounty reward. | Lakshya | [Read More](https://medium.com/p/15de040a656f) |
-| Wed, 27 Aug 2025 15:17:41 GMT | The Ghost Code Breach: Taspen Malware Revives Forgotten Infrastructure | Inforsecpro | [Read More](https://medium.com/p/98cdd1e98f27) |
