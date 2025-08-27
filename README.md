@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 10:12:57 GMT | How to balance our lifestyle in the tech world? | Noddy Kady | [Read More](https://medium.com/p/59212572d0eb) |
+| Wed, 27 Aug 2025 10:07:37 GMT | What’s Really Handling Your Web Traffic? A Deep Dive into Proxies | Tushar Banik | [Read More](https://medium.com/p/61cf2cab41a6) |
+| Wed, 27 Aug 2025 09:59:05 GMT | Nigel Farage Lays Out UK Migration Plan: A Fortress Britain or a Nation Betrayed? | Everclear | [Read More](https://medium.com/p/27e6d40661a0) |
+| Wed, 27 Aug 2025 09:56:28 GMT | MailGuard: The Ultimate Email Security Tool to Protect Your Domain from Hacks | Mohamed.cybersec | [Read More](https://medium.com/p/88ec478ecf9e) |
+| Wed, 27 Aug 2025 09:49:16 GMT | The Daily Tech Digest: 27 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c820fa8e2443) |
+| Wed, 27 Aug 2025 09:43:36 GMT | I Sold My Old Laptop Without Wiping It; Here’s What Happened | Shahzaib | [Read More](https://medium.com/p/5263303044cc) |
+| Wed, 27 Aug 2025 09:38:26 GMT | Top 5 Cyber Security Skills That Recruiters Look For | GRAStech | [Read More](https://medium.com/p/25354284e78a) |
+| Wed, 27 Aug 2025 09:33:07 GMT | Data Breach? It’s Not If, But When (And How to Respond) | Aj | [Read More](https://medium.com/p/a3cf1719b62d) |
 | Wed, 27 Aug 2025 09:26:45 GMT | One Login to Rule Them All: Understanding Single Sign-On (SSO) | Prem Patil | [Read More](https://medium.com/p/43a044d89870) |
 | Wed, 27 Aug 2025 09:18:25 GMT | Understanding PCI DSS: A Step-by-Step Guide for SMEs | Abdullateef Anuoluwa Hameed | [Read More](https://medium.com/p/ec526d94bef1) |
 | Wed, 27 Aug 2025 09:12:17 GMT | From Zero to Hacker Lab: Setting Up Kali Linux the Right Way [Lab 0] | Biplove Yadav | [Read More](https://medium.com/p/809259cfc1b4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 04:02:51 GMT | Quantum-Safe by 2033: Microsoft’s Pledge and the Current Post Quantum Cryptography (PQC) Landscape | Gaurav Sharma | [Read More](https://medium.com/p/44261d00a5f6) |
 | Wed, 27 Aug 2025 04:02:18 GMT | The Hacker’s Toolkit for 2025: 15 Tools I Can’t Live Without | Sukhveer Singh | [Read More](https://medium.com/p/00df61e39c53) |
 | Wed, 27 Aug 2025 03:52:30 GMT | Understanding Kubernetes RBAC: How It Works, Why It Matters, and Its Limitations | Pankaj Aswal | [Read More](https://medium.com/p/54008fad56ed) |
-| Wed, 27 Aug 2025 03:35:52 GMT | Understanding the Brewer-Nash Model | Raviteja Mureboina | [Read More](https://medium.com/p/c0701570b004) |
-| Wed, 27 Aug 2025 03:34:06 GMT | Top 5 Free Malware Analysis Tools Every Beginner Should Use | Paritosh | [Read More](https://medium.com/p/7f9c8c96c814) |
-| Wed, 27 Aug 2025 03:31:37 GMT | Cyber Deception and AI Revolution | Akshat Ratanpal | [Read More](https://medium.com/p/79fb66ec6c13) |
-| Wed, 27 Aug 2025 03:31:37 GMT | Write-up PicoCTF: Web Exploitation ‘WebDecode’ | Muhammad Khairin | [Read More](https://medium.com/p/28286ccd4c66) |
-| Wed, 27 Aug 2025 03:31:37 GMT | How a Single Japanese Character is Being Used to Steal Your Data | Deven Chhajed | [Read More](https://medium.com/p/f0aa640b44c3) |
-| Wed, 27 Aug 2025 03:30:23 GMT | How to Fix Halo Upload Blocking Issues When Working With Scripts or Technical Docs | Quella | [Read More](https://medium.com/p/3360f166f47c) |
-| Wed, 27 Aug 2025 03:13:15 GMT | How I Started Hacking… With Just My Phone! | Amit Shukla | [Read More](https://medium.com/p/65324c98e5d6) |
-| Wed, 27 Aug 2025 03:04:25 GMT | ScriptCTF2025 —  PDF - whoisrushi | Rushikesh chaudhari | [Read More](https://medium.com/p/57a5c41cb8e1) |
