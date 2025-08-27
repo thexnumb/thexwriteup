@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 11:27:32 GMT | Even Basic Controls Matter: Lessons on MFA from Recent Research | Brittney Ginther | [Read More](https://medium.com/p/77b36dd4fcd3) |
+| Wed, 27 Aug 2025 11:27:09 GMT | Dijital Çağda Çevre Güvenliği | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/7d583734fddf) |
 | Wed, 27 Aug 2025 11:08:07 GMT | Can AI Catch a Deepfake Voice? Testing Speaker Verification Against Clones | Awesome Solutions | [Read More](https://medium.com/p/e4b07b0c2cf5) |
 | Wed, 27 Aug 2025 11:07:04 GMT | RDP Under Fire: How Remote Desktop Attacks Threaten Business Security. | eL Njas!™ | [Read More](https://medium.com/p/26b02a144033) |
 | Wed, 27 Aug 2025 11:04:00 GMT | The Digital Divide | Aboyeji Emmanuel Olusola | [Read More](https://medium.com/p/99cefedc472f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 05:29:52 GMT | DC-2 Walkthrough: From WordPress Enumeration to Root Access | Abhinsubej | [Read More](https://medium.com/p/c1136157810a) |
 | Wed, 27 Aug 2025 05:23:50 GMT | Douglas Eze Identifies 6 Investments in Technology for Future Growth | Douglas Eze | [Read More](https://medium.com/p/12c07d316b18) |
 | Wed, 27 Aug 2025 05:17:47 GMT | AI Agent Gateways: The New Security Boundary | Dave Patten | [Read More](https://medium.com/p/6265732764b4) |
-| Wed, 27 Aug 2025 05:14:36 GMT | Anatomy of a Backdoor: Deconstructing the UPSTYLE Malware Targeting Palo Alto Firewalls | Sohan Kanna D | [Read More](https://medium.com/p/30b5d1d1abcc) |
-| Wed, 27 Aug 2025 05:01:23 GMT | Day 43- Understand backups and resiliency | unica 02 | [Read More](https://medium.com/p/259dac1f66c8) |
