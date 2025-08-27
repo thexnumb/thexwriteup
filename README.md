@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 20:20:33 GMT | How to Create Strong and Unique Passwords | Nexus Human | [Read More](https://medium.com/p/f1ea2569f93a) |
+| Wed, 27 Aug 2025 20:20:01 GMT | Cybersecurity Unlocked: A Journey into Cybersec with Yash | Yash Kitey | [Read More](https://medium.com/p/afcfb6e04a8a) |
+| Wed, 27 Aug 2025 20:19:19 GMT | HTB: Developing YARA Rules | Luke | [Read More](https://medium.com/p/9df2646acbfe) |
+| Wed, 27 Aug 2025 20:18:40 GMT | How to Get Started in IT and mostly in Cybersecurity (Before Chasing Certifications) | Jean Bertro Paul | [Read More](https://medium.com/p/02048f1c31e2) |
+| Wed, 27 Aug 2025 20:17:15 GMT | The Next Frontier in Cybersecurity Isn’t Technical, It’s Psychological | Giuseppe Canale | [Read More](https://medium.com/p/19dea9252f06) |
+| Wed, 27 Aug 2025 19:57:54 GMT | AI Attack Mind Map: an operator’s field manual | aviral srivastava | [Read More](https://medium.com/p/bcde6bed9529) |
+| Wed, 27 Aug 2025 19:52:50 GMT | File Integrity Checks in Spring Boot File Upload APIs | Alexander Obregon | [Read More](https://medium.com/p/4ee8b0dc5ded) |
+| Wed, 27 Aug 2025 19:44:14 GMT | RapperBot Botnet , Inside One of the Most Powerful DDoS Networks Ever | Motasem Hamdan | [Read More](https://medium.com/p/73566eefb42b) |
+| Wed, 27 Aug 2025 19:44:13 GMT | Apple Unveils the Revolutionary iPhone 17 — A Leap Into the Future | UV Smart | [Read More](https://medium.com/p/1579607712a3) |
+| Wed, 27 Aug 2025 19:39:31 GMT | Composer Install or Update? Best Practices for Safely Updating Composer in Production | Shirishrai | [Read More](https://medium.com/p/6443386df1c8) |
+| Wed, 27 Aug 2025 19:37:32 GMT | My Journey to Building a Zero Trust Network in an OT Environment | Cyberkech | [Read More](https://medium.com/p/5f5c8b0c9cad) |
+| Wed, 27 Aug 2025 19:36:49 GMT | Using Outlook rules to control emails with different attachments types, Nexus Human | Nexus Human | [Read More](https://medium.com/p/4c5fe5d1732a) |
 | Wed, 27 Aug 2025 19:35:26 GMT | Slopsquatting: AI Hallucinations Fueling a New Class of Software Supply Chain Attacks | Wes Young | [Read More](https://medium.com/p/68696d569a8a) |
+| Wed, 27 Aug 2025 19:33:30 GMT | Bringing AI to DevOps: Generative AI Basics. | Gaurav Agnihotri | [Read More](https://medium.com/p/ebe8ad8482b7) |
+| Wed, 27 Aug 2025 19:33:18 GMT | CVE-2021–42013 Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/3dfcfb6d85d3) |
 | Wed, 27 Aug 2025 19:33:05 GMT | From File Cabinets to Firewalls: Understanding InfoSec vs Cybersecurity | Ankita Ghosh | [Read More](https://medium.com/p/b124b5598665) |
 | Wed, 27 Aug 2025 19:28:36 GMT | The Cyber Attack On Colt Technology Services | O. J. Okpabi | [Read More](https://medium.com/p/368f597b7787) |
 | Wed, 27 Aug 2025 19:25:51 GMT | WannaCry Ransomware: A DFIR & SOC Monitoring Lab Walkthrough | Sparsh Ladani | [Read More](https://medium.com/p/9001f61a71e9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 15:20:49 GMT | Cybersecurity Unlocked: A Journey into Cybersec with Yash | Yash Kitey | [Read More](https://medium.com/p/0e545abcbe70) |
 | Wed, 27 Aug 2025 15:20:47 GMT | Weak Rate Limiting & Password Oracle in Change Email Endpoint Got me bounty reward. | Lakshya | [Read More](https://medium.com/p/15de040a656f) |
 | Wed, 27 Aug 2025 15:17:41 GMT | The Ghost Code Breach: Taspen Malware Revives Forgotten Infrastructure | Inforsecpro | [Read More](https://medium.com/p/98cdd1e98f27) |
-| Wed, 27 Aug 2025 15:17:21 GMT | So… Could I Login to Anyone Else Account by Accident? | Viratavi | [Read More](https://medium.com/p/2d1345406577) |
-| Wed, 27 Aug 2025 15:16:40 GMT | Pegasus, Palantir, and the Failure of Centralized Systems: Why Web3 (and Ripple/XRP) Are the… | Jkmmusichsv | [Read More](https://medium.com/p/edb3010b99a8) |
-| Wed, 27 Aug 2025 15:15:30 GMT | SuperRare Exploit Post-Mortem: How Mutation Testing Could Have Prevented the $730K Loss | Olympix | [Read More](https://medium.com/p/6eeca98b056e) |
-| Wed, 27 Aug 2025 15:14:18 GMT | Pen Testing Like a Pro: The Methodology Behind Real Breaches | Aj | [Read More](https://medium.com/p/3bfc7a658933) |
-| Wed, 27 Aug 2025 15:03:35 GMT | Inside the New Ransomware Alliances: Why Akira and Scattered Spider Are a Wake-Up Call for Business | Juan F Moreno | [Read More](https://medium.com/p/daca62788ab7) |
-| Wed, 27 Aug 2025 14:52:33 GMT | TryHackMe: Mr. Robot WalkThrough | Abul Kalam Azad | [Read More](https://medium.com/p/87c62e7575ad) |
-| Wed, 27 Aug 2025 14:52:20 GMT | Do MBA em Data Science ao Código: Detectando Deep Fakes em Biometria Facial com Modelo CNN e… | Marcelo Imbriani Bello | [Read More](https://medium.com/p/4e46de619a16) |
-| Wed, 27 Aug 2025 14:47:21 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/3f7202b844cf) |
-| Wed, 27 Aug 2025 14:46:04 GMT | BEFORE THE EXPLOITS HAPPEN | Shawty komori | [Read More](https://medium.com/p/f4ea03221b41) |
-| Wed, 27 Aug 2025 14:45:48 GMT | Green Finance: 5 Eco-Friendly Investments to Watch in 2025 | Areeba | [Read More](https://medium.com/p/f39bd1a90dd7) |
-| Wed, 27 Aug 2025 14:45:46 GMT | Cybersecurity Audits: How IT Consultants Help Businesses Identify Risks | IT_Engineer | [Read More](https://medium.com/p/2a8472186c04) |
-| Wed, 27 Aug 2025 14:44:29 GMT | Is your tech stack keeping up with your growth? | Configr Technologies | [Read More](https://medium.com/p/ceb8cc689585) |
-| Wed, 27 Aug 2025 14:44:11 GMT | Beyond PCI and HIPAA: How Feroot Powers Personal Information Protection and Electronic Documents… | Feroot Security | [Read More](https://medium.com/p/b26ec73b2fc5) |
-| Wed, 27 Aug 2025 14:37:07 GMT | Should You Trust AI Browsers? | Somto Enendu | [Read More](https://medium.com/p/6694e713adbd) |
