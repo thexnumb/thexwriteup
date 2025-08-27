@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 23:06:09 GMT | More Browser Extensions Hacked | Matthew.Rosenquist | [Read More](https://medium.com/p/49fadd01b714) |
+| Wed, 27 Aug 2025 23:05:37 GMT | How Curiosity Made Me a Hacker | Cybernerddd | [Read More](https://medium.com/p/b369e0c0e1e2) |
+| Wed, 27 Aug 2025 23:00:26 GMT | Salt Typhoon: Why application-layer security, PQC, and verifiable identity are the only lasting… | Carsten Stöcker | [Read More](https://medium.com/p/c67871ee8e91) |
+| Wed, 27 Aug 2025 22:41:51 GMT | Threat Hunting in AI-Era: A Human Approach to Finding the Unseen | Yash Patel | [Read More](https://medium.com/p/ba6d28d1df9b) |
 | Wed, 27 Aug 2025 22:20:59 GMT | How I Turned a “Type 3 Chars” Search Box Into Full SQLi | Ali Hussain | [Read More](https://medium.com/p/a4664e41071f) |
 | Wed, 27 Aug 2025 22:11:58 GMT | Why Our Obsession With Emotional Safety Is Backfiring | Drew Lisso | [Read More](https://medium.com/p/8167f1815164) |
 | Wed, 27 Aug 2025 21:59:39 GMT | New 5G Hack Lets Attackers Crash Your Phone from 65 Feet Away | Cyber-AppSec | [Read More](https://medium.com/p/da9f6fe31c19) |
@@ -37,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 20:45:57 GMT | Today’s Headlines Should Haunt Us: When Nightmares Become Normal | Meghan | [Read More](https://medium.com/p/5b4ddbef91e0) |
 | Wed, 27 Aug 2025 20:44:19 GMT | Potential Topics for Cyber/Network role with cybersecurity company | Bob Malin | [Read More](https://medium.com/p/4f81b4c0ca0b) |
 | Wed, 27 Aug 2025 20:40:14 GMT | On the Weight of Love | Words_by_Memira | [Read More](https://medium.com/p/2122b1e3ae1a) |
+| Wed, 27 Aug 2025 20:36:27 GMT | A vida dos bugs (e por que eles sempre voltam) | Thamires Pinheiro | [Read More](https://medium.com/p/b43280aba910) |
 | Wed, 27 Aug 2025 20:33:04 GMT | Kijan Pou Kòmanse nan IT ak Cybersecurity (Anvan Ou Kouri Dèyè Sètifikasyon) | Jean Bertro Paul | [Read More](https://medium.com/p/3bf48af3fbb7) |
 | Wed, 27 Aug 2025 20:32:54 GMT | PBM, Benefício Farmácia e Health Analytics: o guia prático da Funcional Health Tech | Ianchrishansen | [Read More](https://medium.com/p/1c4a9153da9f) |
 | Wed, 27 Aug 2025 20:27:29 GMT | Secure Shell - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/3982eaa9baa0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 16:41:24 GMT | CCD Lab: Silent Breach (Noob Edition) | Winson | [Read More](https://medium.com/p/a4c2bc05737e) |
 | Wed, 27 Aug 2025 16:35:09 GMT | CyberSploit 1 Walkthrough: From Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/979774f0bec9) |
 | Wed, 27 Aug 2025 16:34:00 GMT | PromptLock: The Dawn of AI-Powered Ransomware and What It Means for Businesses | Chetan Seripally | [Read More](https://medium.com/p/782d62da594e) |
-| Wed, 27 Aug 2025 16:33:54 GMT | The One Digital Privacy Threat You’ve Already Fallen For (And Didn’t Even Know Existed) | The Masked Muse | [Read More](https://medium.com/p/48e85ebde395) |
-| Wed, 27 Aug 2025 16:33:25 GMT | Information security for SMBs - practical priorities without the jargon | FactPoint | [Read More](https://medium.com/p/b2bf56f065e3) |
-| Wed, 27 Aug 2025 16:22:32 GMT | I Deleted 80% of My Codebase — And My App Got Faster | The Dev Notebook | [Read More](https://medium.com/p/802a5e108f35) |
-| Wed, 27 Aug 2025 16:18:26 GMT | Understanding HIPAA: A Comprehensive Guide | CSFaaS | [Read More](https://medium.com/p/fcab857d2cf5) |
-| Wed, 27 Aug 2025 16:12:19 GMT | How to use SOPS | Alexey Tozik | [Read More](https://medium.com/p/5d77d83cf445) |
