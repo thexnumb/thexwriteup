@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 06:26:02 GMT | Recon on Mobile APIs: The Hidden Attack Surface in Your Pocket | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7145915edcbe) |
+| Wed, 27 Aug 2025 06:25:57 GMT | Red Teaming : AV Evasion & Obfuscation For Beginners ( Theory ) | Archtrmntor | [Read More](https://medium.com/p/80d7f5b9507f) |
+| Wed, 27 Aug 2025 06:22:32 GMT | Malware Analysis Services: A Complete Guide for Cybersecurity | Plutosec Cyber Security | [Read More](https://medium.com/p/3e5e6c1a7a07) |
+| Wed, 27 Aug 2025 06:15:52 GMT | Malware Hidden in Everyday Apps: Are You Already Infected? | Tarush Sharma | [Read More](https://medium.com/p/f758e2e2ee57) |
+| Wed, 27 Aug 2025 06:13:21 GMT | ️‍♂️ Chaining Recon Data: From Swagger JSON to Full API Map | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ad23aa1e4601) |
+| Wed, 27 Aug 2025 06:13:04 GMT | NVIDIA vs. Okta Earnings: Why One Stock Made Millionaires While the Other Barely Moved | Finomics Edge | [Read More](https://medium.com/p/467f35b1a2ee) |
+| Wed, 27 Aug 2025 06:10:56 GMT | Security Guard Services: Strengthening Security Services in India | Ciss India | [Read More](https://medium.com/p/5b14f284dc41) |
+| Wed, 27 Aug 2025 06:06:05 GMT | A Project Born in Incognito Mode | Tejeswar Jangam | [Read More](https://medium.com/p/6eb6fcb69e99) |
+| Wed, 27 Aug 2025 06:05:41 GMT | The Revolution of IoT: How Smart Devices Are Transforming Our World | Aşkım Serra Şahin | [Read More](https://medium.com/p/4baa4f5b4151) |
+| Wed, 27 Aug 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6d31cb9e550b) |
+| Wed, 27 Aug 2025 05:56:04 GMT | Web Security 2025: 5 Red-Hot Attacks & Techniques You Can Cash In On Right Now | Vivek PS | [Read More](https://medium.com/p/4741b4ca434a) |
+| Wed, 27 Aug 2025 05:54:04 GMT | OSCP+ 證照心得 | ywc | [Read More](https://medium.com/p/2bd45e07b714) |
+| Wed, 27 Aug 2025 05:48:44 GMT | Screen Time: What’s Actually Healthy for Kids by Age | Cyberguardmom | [Read More](https://medium.com/p/1d91d07602c1) |
+| Wed, 27 Aug 2025 05:48:32 GMT | SSH Like a Hacker: 10 Advanced Tricks They Don’t Teach You in Tutorials | Karthick Dkk | [Read More](https://medium.com/p/50ae95f71c26) |
+| Wed, 27 Aug 2025 05:46:05 GMT | Parental Controls: A Step-by-Step Guide Every Parent Can Use | Cyberguardmom | [Read More](https://medium.com/p/5f25a2724285) |
+| Wed, 27 Aug 2025 05:42:36 GMT | 10 million people, 40% of Australia, all shut offline. This is how it was engineered. | IsaacFabianK | [Read More](https://medium.com/p/9c53b5e7c74e) |
+| Wed, 27 Aug 2025 05:41:59 GMT | Cyberbullying: A Parent’s Quick Guide to Protecting Your Child | Cyberguardmom | [Read More](https://medium.com/p/6de2cc6e1789) |
+| Wed, 27 Aug 2025 05:39:56 GMT | ‌ | Cyber News | [Read More](https://medium.com/p/183ddfd1ff76) |
+| Wed, 27 Aug 2025 05:38:54 GMT | Por que instalar o Diode Collab hoje: mais segurança, colaboração e recompensas. | IsaLeal | [Read More](https://medium.com/p/1d0798ed76f5) |
 | Wed, 27 Aug 2025 05:35:21 GMT | Cyber Resilience Act FAQ: Vulnerability handling | Sarah Fluchs | [Read More](https://medium.com/p/81ab28fc9ab7) |
 | Wed, 27 Aug 2025 05:33:31 GMT | To be or not to be | Lakshya Saarthi | [Read More](https://medium.com/p/b9a7dbf67e80) |
 | Wed, 27 Aug 2025 05:29:52 GMT | DC-2 Walkthrough: From WordPress Enumeration to Root Access | Abhinsubej | [Read More](https://medium.com/p/c1136157810a) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 20:35:09 GMT | Cybercriminals Are Getting Smarter and What Your Business Needs to Do | e-Xplorations | [Read More](https://medium.com/p/d790e0712843) |
 | Tue, 26 Aug 2025 20:23:50 GMT | One Quote, Ten Seconds: How I Found SQL Injection in AVMS | Shivam Sharma | [Read More](https://medium.com/p/3d16be9cbe72) |
 | Tue, 26 Aug 2025 20:21:34 GMT | How I Built a Formal Verification System to Prevent DeFi Exploits | Kwame Bryan | [Read More](https://medium.com/p/5317a13239f4) |
-| Tue, 26 Aug 2025 20:18:54 GMT | A Closer Look at Xray The Web Security Scanner You Need to Know | Muhammad Adnan Apriliyansyah | [Read More](https://medium.com/p/27953af6ab36) |
-| Tue, 26 Aug 2025 20:16:48 GMT | Why “Never Trust, Always Verify” is the Only Cybersecurity Strategy That Works | Mohanad Khaled | [Read More](https://medium.com/p/3996a4a62a59) |
-| Tue, 26 Aug 2025 20:16:17 GMT | Security Methods for Data Privacy | Srikanthkonduru | [Read More](https://medium.com/p/5428c1c58ac8) |
-| Tue, 26 Aug 2025 20:15:16 GMT | WebRTC E2EE with Insertable Streams | Justin Downes | [Read More](https://medium.com/p/a800696a3df4) |
-| Tue, 26 Aug 2025 20:14:55 GMT | Architecture Over Appearances | Malik Vero | [Read More](https://medium.com/p/bdf6e59f76d5) |
-| Tue, 26 Aug 2025 20:04:27 GMT | Catching Hackers with a DIY Cloud Honeypot | Jesse Ridley | [Read More](https://medium.com/p/8dbb96cffe89) |
-| Tue, 26 Aug 2025 20:00:31 GMT | Building a Production-Ready Zero-Trust Network Access (ZTNA) System: A Complete Implementation… | Himansu Saha | [Read More](https://medium.com/p/3672358fe4a5) |
-| Tue, 26 Aug 2025 19:50:04 GMT | Basic Pentesting CTF — Tryhackme (THM) | Ammar Ahmed | [Read More](https://medium.com/p/d8a1e112925a) |
-| Tue, 26 Aug 2025 19:48:50 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/78b4635369b7) |
-| Tue, 26 Aug 2025 19:43:43 GMT | How I Passed the eJPT and What I Learned 2025 | Oxja | [Read More](https://medium.com/p/3782d25656dc) |
-| Tue, 26 Aug 2025 19:33:27 GMT | Okta Breach and the Supply Chain Domino Effect | Vrushank Thakkar | [Read More](https://medium.com/p/709cd8dc4fac) |
-| Tue, 26 Aug 2025 19:29:01 GMT | Looking for Leaked Credentials? The 3 Best Tools for Bug Hunters / Red Teamers | Cheirishpro | [Read More](https://medium.com/p/1c9e0891c321) |
-| Tue, 26 Aug 2025 19:28:00 GMT | From cyberwar to algorithmic sovereignty | Hayat Outahar | [Read More](https://medium.com/p/f9b0bc1bdae8) |
-| Tue, 26 Aug 2025 19:17:34 GMT | [Part 2] Who Is Impacted by the Cyber Resilience Act? | Cyberkech | [Read More](https://medium.com/p/b253ed2d417a) |
-| Tue, 26 Aug 2025 19:14:20 GMT | Best Security Camera System in 2025 | Amy Jackson | [Read More](https://medium.com/p/07cf41441c1f) |
-| Tue, 26 Aug 2025 19:12:13 GMT | Why Most SQLi Payloads Fail in 2025 (and How to Craft Better Ones) | Sukhveer Singh | [Read More](https://medium.com/p/b874bdbdd697) |
-| Tue, 26 Aug 2025 19:09:20 GMT | Recruitment Scams: The Hidden Crisis Costing Billions & Shattering Lives | NIkhil Kumar | [Read More](https://medium.com/p/8baef306b21f) |
-| Tue, 26 Aug 2025 18:56:25 GMT | Business Logic Vulnerabilities: Simple Tricks, Serious Consequences | M.sriman | [Read More](https://medium.com/p/4f3ffc3d79a3) |
-| Tue, 26 Aug 2025 18:55:09 GMT | AI Hacking Explained: How Artificial Intelligence is Transforming Cybersecurity, Ethical Hacking… | Pensora IQ Team | [Read More](https://medium.com/p/0289039a517e) |
