@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 15:17:41 GMT | The Ghost Code Breach: Taspen Malware Revives Forgotten Infrastructure | Inforsecpro | [Read More](https://medium.com/p/98cdd1e98f27) |
+| Wed, 27 Aug 2025 15:17:21 GMT | So… Could I Login to Anyone Else Account by Accident? | Viratavi | [Read More](https://medium.com/p/2d1345406577) |
+| Wed, 27 Aug 2025 15:16:40 GMT | Pegasus, Palantir, and the Failure of Centralized Systems: Why Web3 (and Ripple/XRP) Are the… | Jkmmusichsv | [Read More](https://medium.com/p/edb3010b99a8) |
+| Wed, 27 Aug 2025 15:14:18 GMT | Pen Testing Like a Pro: The Methodology Behind Real Breaches | Aj | [Read More](https://medium.com/p/3bfc7a658933) |
+| Wed, 27 Aug 2025 15:03:35 GMT | Inside the New Ransomware Alliances: Why Akira and Scattered Spider Are a Wake-Up Call for Business | Juan F Moreno | [Read More](https://medium.com/p/daca62788ab7) |
+| Wed, 27 Aug 2025 14:52:33 GMT | TryHackMe: Mr. Robot WalkThrough | Abul Kalam Azad | [Read More](https://medium.com/p/87c62e7575ad) |
+| Wed, 27 Aug 2025 14:47:21 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/3f7202b844cf) |
+| Wed, 27 Aug 2025 14:46:04 GMT | BEFORE THE EXPLOITS HAPPEN | Shawty komori | [Read More](https://medium.com/p/f4ea03221b41) |
+| Wed, 27 Aug 2025 14:45:48 GMT | Green Finance: 5 Eco-Friendly Investments to Watch in 2025 | Areeba | [Read More](https://medium.com/p/f39bd1a90dd7) |
+| Wed, 27 Aug 2025 14:45:46 GMT | Cybersecurity Audits: How IT Consultants Help Businesses Identify Risks | IT_Engineer | [Read More](https://medium.com/p/2a8472186c04) |
+| Wed, 27 Aug 2025 14:44:29 GMT | Is your tech stack keeping up with your growth? | Configr Technologies | [Read More](https://medium.com/p/ceb8cc689585) |
+| Wed, 27 Aug 2025 14:44:11 GMT | Beyond PCI and HIPAA: How Feroot Powers Personal Information Protection and Electronic Documents… | Feroot Security | [Read More](https://medium.com/p/b26ec73b2fc5) |
+| Wed, 27 Aug 2025 14:37:07 GMT | Should You Trust AI Browsers? | Somto Enendu | [Read More](https://medium.com/p/6694e713adbd) |
+| Wed, 27 Aug 2025 14:35:50 GMT | From Script Kiddie to Security Pro: My Unlikely Hacking Journey | Aj | [Read More](https://medium.com/p/909229a61510) |
+| Wed, 27 Aug 2025 14:35:10 GMT | Become Extraordinary: The Hacker’s Guide to Breaking Limits in Life and Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/26e08e6847e2) |
 | Wed, 27 Aug 2025 14:31:53 GMT | Slices of #ITisLikePizza with Perlexity.ai | Scott S Nelson, Solutionist | [Read More](https://medium.com/p/361e7903b321) |
 | Wed, 27 Aug 2025 14:30:36 GMT | XXE | Mohammed Hassan | [Read More](https://medium.com/p/72ec2726fc2c) |
 | Wed, 27 Aug 2025 14:27:28 GMT | Tackling 3rd-Party Supply Chain Attacks with R.A.I.D.E.R. | chris | [Read More](https://medium.com/p/4f9ae203b2a1) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 08:36:30 GMT | GuestCanPost: Your Gateway to Seamless Guest Blogging | Ketan Patel | [Read More](https://medium.com/p/c83a3bfd71cb) |
 | Wed, 27 Aug 2025 08:29:26 GMT | Part 4: Breaking Into Cybersecurity: Tools, Projects, Certifications, and Careers | Harini Ganesan | [Read More](https://medium.com/p/5a36a66af9af) |
 | Wed, 27 Aug 2025 08:21:52 GMT | Subdomain Takeover: How Empty Shops on the Internet Get Hijacked | Natarajan C K | [Read More](https://medium.com/p/b5d0e350b3cc) |
-| Wed, 27 Aug 2025 08:20:03 GMT | What Most Devs Get Wrong About Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/8a89ee571a09) |
-| Wed, 27 Aug 2025 08:18:55 GMT | Practical API Security Guide: From Vulnerable to Bulletproof | Rizqi Mulki | [Read More](https://medium.com/p/0c32c3d40bec) |
-| Wed, 27 Aug 2025 08:05:53 GMT | Enhancing Web Security with OAuth2 and NestJS Applications | @rnab | [Read More](https://medium.com/p/2f5a60bc7f16) |
-| Wed, 27 Aug 2025 08:01:38 GMT | DHCP, DNS, and NTP: The Holy Trinity of Network Services That Just Work | MayhemCode | [Read More](https://medium.com/p/8873656c3b7e) |
-| Wed, 27 Aug 2025 08:01:38 GMT | The #1 Security Mistake in AI-Generated Code You’re Probably Making | AI Rabbit | [Read More](https://medium.com/p/63e30a86da0f) |
-| Wed, 27 Aug 2025 08:01:38 GMT | Why Hackers Are Using AI (And How You Can Too — Ethically!) | Cyberkech | [Read More](https://medium.com/p/9605f9289e02) |
-| Wed, 27 Aug 2025 07:50:36 GMT | Mass Extract API endpoints | AbhirupKonwar | [Read More](https://medium.com/p/8b26abb73591) |
-| Wed, 27 Aug 2025 07:43:39 GMT | RBAC Nedir ve Neden Modern Uygulamalarda Bu Kadar Önemlidir? | BekirBurakSaka | [Read More](https://medium.com/p/e9dc8a5c2298) |
-| Wed, 27 Aug 2025 07:41:15 GMT | Blockchain Teknolojisinin Gerçek Hayat Uygulamaları ve Gelecek Perspektifleri | BekirBurakSaka | [Read More](https://medium.com/p/91ded3e42bea) |
-| Wed, 27 Aug 2025 07:40:59 GMT | A New Era of Trust: Omani Data Center Security in Focus | expbhavya | [Read More](https://medium.com/p/57097724fb22) |
-| Wed, 27 Aug 2025 07:40:09 GMT | How the Internet Is Governed — and How Traffic Reaches You | MierafA | [Read More](https://medium.com/p/dad3e11e9eff) |
-| Wed, 27 Aug 2025 07:37:51 GMT | ️ Recon – The Art of Listening Before Speaking | Raj Islam | [Read More](https://medium.com/p/a410f3c61bbb) |
-| Wed, 27 Aug 2025 07:35:00 GMT | Hybrid Encryption for Secure Document Sharing: What I Learned | Shreyash Galgale | [Read More](https://medium.com/p/ff9384b46471) |
-| Wed, 27 Aug 2025 07:33:31 GMT | Learn Android Hacking the Right Way: Core & Native Libraries Explained for Beginners (Chapter-02)… | xCY83RN4UT_ | [Read More](https://medium.com/p/9b0d2621dab5) |
-| Wed, 27 Aug 2025 07:28:10 GMT | Building Startecon: Company, Customers, and Culture | SampradaKhadka | [Read More](https://medium.com/p/fe93129c4ee5) |
