@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 19:08:03 GMT | When Theft Scales, So Must Physics | Derek Wayne Bailey | [Read More](https://medium.com/p/977028b8c000) |
+| Wed, 27 Aug 2025 19:03:28 GMT | The Hidden Digital Footprints You Leave Online. | Mohammad Hasibul Hasan | [Read More](https://medium.com/p/08ddd794109c) |
+| Wed, 27 Aug 2025 19:03:10 GMT | What is OT Security and IEC 62443? A Journey from Industry 1.0 to Industry 5.0 by Sairaj Mahesh | Sairaj Mahesh | [Read More](https://medium.com/p/9380c846ae82) |
+| Wed, 27 Aug 2025 19:02:45 GMT | Book review -Deming’s Journey to Profound Knowledge — How Deming Helped Win a War, Altered the… | Maciej Jarosz | [Read More](https://medium.com/p/f7701e31b639) |
+| Wed, 27 Aug 2025 19:00:48 GMT | End-to-End Wazuh Lab: Installing Manager and Agents for Attacker-Victim Simulation | Jubin Varghese | [Read More](https://medium.com/p/83fcc7b2e569) |
+| Wed, 27 Aug 2025 18:51:29 GMT | The AI ‘quasi-creature’ problem | Berend Watchus | [Read More](https://medium.com/p/7b46f36e42af) |
+| Wed, 27 Aug 2025 18:47:06 GMT | Why Data Backup Is Still the Weak Link in 2025: Lessons From Breached Companies | VastEdge Inc. | [Read More](https://medium.com/p/5904b5ebb573) |
+| Wed, 27 Aug 2025 18:41:13 GMT | TryHackMe MalDoc:Static Analysis — Walkthrough (Step-by-Step) ⤵ | Furkanctiner | [Read More](https://medium.com/p/e78af9f7503c) |
 | Wed, 27 Aug 2025 18:35:27 GMT | How to Sign Out of All Devices on Disney Plus | www.OneCoolTip.com | [Read More](https://medium.com/p/9250563d05c0) |
 | Wed, 27 Aug 2025 18:32:19 GMT | How OAuth Device Flow Attacks Bypassed MFA: What the 2024–2025 Wave Means for Enterprise Security | Deepak Gupta | [Read More](https://medium.com/p/67d64ad6f04b) |
 | Wed, 27 Aug 2025 18:31:33 GMT | Zero Trust Isn’t Just a Slogan | Roshinni Gandhi | [Read More](https://medium.com/p/25c0ce28b844) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 14:27:28 GMT | Tackling 3rd-Party Supply Chain Attacks with R.A.I.D.E.R. | chris | [Read More](https://medium.com/p/4f9ae203b2a1) |
 | Wed, 27 Aug 2025 14:24:55 GMT | ✨ Convenience Was My Goal… Until Microsoft Store  Showed Me I Was Late to the Party | Hemanth Mouli.ch | [Read More](https://medium.com/p/ec9a3d29ca82) |
 | Wed, 27 Aug 2025 14:24:43 GMT | AWS IAM Explained Simply: The Bouncer and Rulebook That Protects Your Cloud | Prem Vishnoi(cloudvala) | [Read More](https://medium.com/p/13939a9d5349) |
-| Wed, 27 Aug 2025 14:13:33 GMT | The Silent Power of NIST RMF | Oluwaseye Fawale | [Read More](https://medium.com/p/40e38aa13760) |
-| Wed, 27 Aug 2025 14:10:39 GMT | Cephalus Ransomware Weaponizes Trust-From RDP Login to System Lockdown | Pentestjunkie07 | [Read More](https://medium.com/p/91b45ae6ae98) |
-| Wed, 27 Aug 2025 14:05:53 GMT | Implementing Advanced Authentication Strategies with NextAuth.js | @rnab | [Read More](https://medium.com/p/f2b4214b9412) |
-| Wed, 27 Aug 2025 14:01:42 GMT | Cyber Briefing: 2025.08.27 | CyberMaterial | [Read More](https://medium.com/p/92ee33631810) |
-| Wed, 27 Aug 2025 14:01:37 GMT | Things I Learned This Week About Data Privacy | abdeldayemnour | [Read More](https://medium.com/p/e1c58a56a43d) |
-| Wed, 27 Aug 2025 14:00:15 GMT | Unpacking Trojan.Win32.RuKometa: A Malware Analysis Walkthrough | Vishwas Adhikari | [Read More](https://medium.com/p/d00576a91e27) |
-| Wed, 27 Aug 2025 13:58:46 GMT | The Y2K of DevSecOps: When PQC Breaks Your Pipelines | David Canellos | [Read More](https://medium.com/p/ecfc06e54f93) |
-| Wed, 27 Aug 2025 13:54:28 GMT | OT Threat Landscape | ThatOTSecurityGuy | [Read More](https://medium.com/p/ab0a7e8eb9a1) |
