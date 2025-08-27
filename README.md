@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 13:35:15 GMT | Secure Code Analysis: A04 — Insecure Direct Object References (IDOR) | Sevban Dönmez | [Read More](https://medium.com/p/7578f12b7b82) |
+| Wed, 27 Aug 2025 13:27:34 GMT | From Civilian to Security Pro: Your 3-Step Guide to a Security Career in Illinois | Alpha Koncepts | [Read More](https://medium.com/p/345a15cb951e) |
 | Wed, 27 Aug 2025 13:25:04 GMT | XXE | Mohammed Hassan | [Read More](https://medium.com/p/6a9066d9c68b) |
+| Wed, 27 Aug 2025 13:24:52 GMT | Adding remember-me authentication with Spring Boot | Thomas Surmann | [Read More](https://medium.com/p/25ea11495180) |
+| Wed, 27 Aug 2025 13:23:59 GMT | Building a Bridge Between Islamic Concepts and Information Technologies | Adnan Özdemir | [Read More](https://medium.com/p/279af9f4e00d) |
+| Wed, 27 Aug 2025 13:21:02 GMT | I Was Vulnerable. He Held Space. | Mru | [Read More](https://medium.com/p/8c7c982fd0bb) |
 | Wed, 27 Aug 2025 13:14:36 GMT | AI MVPs Break at Login: the 5-hour fix | Ahmad Fiaz | [Read More](https://medium.com/p/6d1f1dc229ca) |
 | Wed, 27 Aug 2025 13:13:33 GMT | Best Cyber Security Tools for EDR Monitoring: The Ultimate Guide (2025 Edition) | Paul Meyer | [Read More](https://medium.com/p/a23b74ddd0fd) |
 | Wed, 27 Aug 2025 13:11:29 GMT | Application Security Training Complete Developer Guide | Application Security Master | [Read More](https://medium.com/p/476efc2f8301) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 07:03:39 GMT | Recon Beyond Endpoints: Fingerprinting API Frameworks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/3d80b929c254) |
 | Wed, 27 Aug 2025 07:01:37 GMT | Inventor: Historical Context Research Paper: Marie Van Brittan Brown, Inventor of the Home Security… | gab1930s | [Read More](https://medium.com/p/f5bda6fc5c5a) |
 | Wed, 27 Aug 2025 06:53:44 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1eaea616cb02) |
-| Wed, 27 Aug 2025 06:48:06 GMT | AI-Powered Offline Antivirus: The Future of Malware Protection | Chirag Bhatia | [Read More](https://medium.com/p/f65aa1ae9057) |
-| Wed, 27 Aug 2025 06:47:34 GMT | Bug Bounty Un buen hacker no fuerza puertas, encuentra las que nunca cerraron | Gorka | [Read More](https://medium.com/p/743232169bd8) |
-| Wed, 27 Aug 2025 06:37:14 GMT | Security Companies in Baltimore — ICS Security Solutions | Andrew Paul | [Read More](https://medium.com/p/4beee0cf1045) |
-| Wed, 27 Aug 2025 06:32:59 GMT | ️ Passive Recon Superpowers: Finding APIs Without Sending a Single Request | Narendar Battula (nArEn) | [Read More](https://medium.com/p/308e410aebdf) |
-| Wed, 27 Aug 2025 06:31:28 GMT | How to Block Access to Admin Paths on Your Website with SafeLine WAF | Quella | [Read More](https://medium.com/p/29469b384d0e) |
