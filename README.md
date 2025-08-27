@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 13:25:04 GMT | XXE | Mohammed Hassan | [Read More](https://medium.com/p/6a9066d9c68b) |
+| Wed, 27 Aug 2025 13:14:36 GMT | AI MVPs Break at Login: the 5-hour fix | Ahmad Fiaz | [Read More](https://medium.com/p/6d1f1dc229ca) |
+| Wed, 27 Aug 2025 13:13:33 GMT | Best Cyber Security Tools for EDR Monitoring: The Ultimate Guide (2025 Edition) | Paul Meyer | [Read More](https://medium.com/p/a23b74ddd0fd) |
+| Wed, 27 Aug 2025 13:11:29 GMT | Application Security Training Complete Developer Guide | Application Security Master | [Read More](https://medium.com/p/476efc2f8301) |
+| Wed, 27 Aug 2025 13:10:09 GMT | Anatomy of a Real Phishing Attack: How Defentive Detected and Stopped It in Action | Defentive | [Read More](https://medium.com/p/7b8d5c126393) |
+| Wed, 27 Aug 2025 13:02:27 GMT | How I Found Full Account Takeover Worth $9750 in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/aa3712177b61) |
+| Wed, 27 Aug 2025 13:01:44 GMT | The Security Chief Who Stopped 10,000 Cyberattacks (While Everyone Slept) ⚠️ | Volans Aquilae | [Read More](https://medium.com/p/bd7c0fc03991) |
+| Wed, 27 Aug 2025 13:00:16 GMT | Kioptrix Lv1 Walkthrough | Mostafa Noor | [Read More](https://medium.com/p/92f16a7bfb80) |
+| Wed, 27 Aug 2025 12:58:30 GMT | 10 Best Secure Hosting Providers for Financial Blogs in 2025 | Priya Singh | [Read More](https://medium.com/p/99c689674b35) |
+| Wed, 27 Aug 2025 12:56:04 GMT | Node.js ile Backend Yazmak Güzel Peki Güvenlik? | Baharyıldız. | [Read More](https://medium.com/p/fdecae5d9026) |
+| Wed, 27 Aug 2025 12:49:29 GMT | Watch Our Cybersecurity Awareness Webinar | Cybersectoworld | [Read More](https://medium.com/p/b83d96aaf789) |
+| Wed, 27 Aug 2025 12:47:32 GMT | Security Questions Every Founder Should Be Asking Weekly | Evgeny Ermakov | [Read More](https://medium.com/p/7437eba20ebd) |
+| Wed, 27 Aug 2025 12:42:11 GMT | CloudSEK Hiring CTF 2025 | Kunal Rajour | [Read More](https://medium.com/p/9d2d8a8f89e6) |
+| Wed, 27 Aug 2025 12:40:11 GMT | The Many Faces of Cyber Compliance Frameworks and Standards | Dale Bingham | [Read More](https://medium.com/p/3a6fed61f599) |
+| Wed, 27 Aug 2025 12:37:39 GMT | Day 11: Linux Essentials → Flags, Redirection & Vim Editor | Prutha_Dongre | [Read More](https://medium.com/p/391dd64a8df5) |
+| Wed, 27 Aug 2025 12:35:26 GMT | AI vs. AI: How Generative Technology Is Powering the Next Wave of Cyberattacks | Keith Henry | [Read More](https://medium.com/p/6944a3a489d8) |
 | Wed, 27 Aug 2025 12:21:29 GMT | A Beginner’s Guide to Wireshark: Seeing What’s Really on Your Network | Akhil Binu | [Read More](https://medium.com/p/8b926d0a9c6c) |
 | Wed, 27 Aug 2025 12:20:15 GMT | Proof Of Concept: Terraform Privilege Escalation | Toshith | [Read More](https://medium.com/p/cd3db69df90e) |
 | Wed, 27 Aug 2025 12:11:52 GMT | Project #6: Web Enumeration + DNS Reconnaissance + Linux Privilege Escalation | NSESean | [Read More](https://medium.com/p/4e672f58ef82) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 06:37:14 GMT | Security Companies in Baltimore — ICS Security Solutions | Andrew Paul | [Read More](https://medium.com/p/4beee0cf1045) |
 | Wed, 27 Aug 2025 06:32:59 GMT | ️ Passive Recon Superpowers: Finding APIs Without Sending a Single Request | Narendar Battula (nArEn) | [Read More](https://medium.com/p/308e410aebdf) |
 | Wed, 27 Aug 2025 06:31:28 GMT | How to Block Access to Admin Paths on Your Website with SafeLine WAF | Quella | [Read More](https://medium.com/p/29469b384d0e) |
-| Wed, 27 Aug 2025 06:30:45 GMT | Why I Spent 6 Months Analyzing Every Major CIAM Provider (So You Don’t Have To) | Deepak Gupta | [Read More](https://medium.com/p/1a8d9213fd93) |
-| Wed, 27 Aug 2025 06:30:20 GMT | Our Future Generations Being Impacted by Microplastics !! | 8th Wonder | [Read More](https://medium.com/p/4df9833ec603) |
-| Wed, 27 Aug 2025 06:28:23 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/a403193e45f4) |
-| Wed, 27 Aug 2025 06:26:02 GMT | Recon on Mobile APIs: The Hidden Attack Surface in Your Pocket | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7145915edcbe) |
-| Wed, 27 Aug 2025 06:25:57 GMT | Red Teaming : AV Evasion & Obfuscation For Beginners ( Theory ) | Archtrmntor | [Read More](https://medium.com/p/80d7f5b9507f) |
-| Wed, 27 Aug 2025 06:22:32 GMT | Malware Analysis Services: A Complete Guide for Cybersecurity | Plutosec Cyber Security | [Read More](https://medium.com/p/3e5e6c1a7a07) |
-| Wed, 27 Aug 2025 06:20:15 GMT | How to Implement Security in a Spring Boot Project (Made Simple) | Ajit Kumar | [Read More](https://medium.com/p/af72b621a58c) |
-| Wed, 27 Aug 2025 06:19:55 GMT | The Future of DeFi Is Safe by Default | Victor | [Read More](https://medium.com/p/f6b512f7fe20) |
-| Wed, 27 Aug 2025 06:15:52 GMT | Malware Hidden in Everyday Apps: Are You Already Infected? | Tarush Sharma | [Read More](https://medium.com/p/f758e2e2ee57) |
-| Wed, 27 Aug 2025 06:13:21 GMT | ️‍♂️ Chaining Recon Data: From Swagger JSON to Full API Map | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ad23aa1e4601) |
-| Wed, 27 Aug 2025 06:13:04 GMT | NVIDIA vs. Okta Earnings: Why One Stock Made Millionaires While the Other Barely Moved | Finomics Edge | [Read More](https://medium.com/p/467f35b1a2ee) |
-| Wed, 27 Aug 2025 06:10:56 GMT | Security Guard Services: Strengthening Security Services in India | Ciss India | [Read More](https://medium.com/p/5b14f284dc41) |
-| Wed, 27 Aug 2025 06:06:05 GMT | A Project Born in Incognito Mode | Tejeswar Jangam | [Read More](https://medium.com/p/6eb6fcb69e99) |
-| Wed, 27 Aug 2025 06:05:41 GMT | The Revolution of IoT: How Smart Devices Are Transforming Our World | Aşkım Serra Şahin | [Read More](https://medium.com/p/4baa4f5b4151) |
-| Wed, 27 Aug 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6d31cb9e550b) |
-| Wed, 27 Aug 2025 05:56:04 GMT | Web Security 2025: 5 Red-Hot Attacks & Techniques You Can Cash In On Right Now | Vivek PS | [Read More](https://medium.com/p/4741b4ca434a) |
