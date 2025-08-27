@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 17:01:23 GMT | Enumeration Walkthrough | Mohamed Magdy | [Read More](https://medium.com/p/b3691049f46f) |
+| Wed, 27 Aug 2025 17:00:59 GMT | The Rising Storm: Why Cybersecurity Matters More Than Ever | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/729a34feaa36) |
+| Wed, 27 Aug 2025 17:00:02 GMT | How to Build a Cybersecurity GRC Program from Scratch | Abdullateef Anuoluwa Hameed | [Read More](https://medium.com/p/5c78f17eba77) |
+| Wed, 27 Aug 2025 16:58:04 GMT | EXPOSED: Tinder, Match, and OkCupid All Failed Security Tests (See Complete Rankings) | Nick Rosen | [Read More](https://medium.com/p/40a2a1f99320) |
+| Wed, 27 Aug 2025 16:55:59 GMT | ️ Mastering Bug Bounty Labs: OWASP Top 10 and Safe Practice Environments | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/c078bc9ec0c6) |
+| Wed, 27 Aug 2025 16:47:35 GMT | MyThe story of my first Bounty $$$ | RAJVEER | [Read More](https://medium.com/p/d541f0c2e6ff) |
+| Wed, 27 Aug 2025 16:45:01 GMT | SQL injection — Portswigger labs | Nihad Alizada | [Read More](https://medium.com/p/f7d6b38963c7) |
 | Wed, 27 Aug 2025 16:44:24 GMT | How I Prepared for the GIAC GFACT Exam and Scored 99% | Agata Kolodziej | [Read More](https://medium.com/p/5babaf9a0ff8) |
+| Wed, 27 Aug 2025 16:41:24 GMT | CCD Lab: Silent Breach (Noob Edition) | Winson | [Read More](https://medium.com/p/a4c2bc05737e) |
 | Wed, 27 Aug 2025 16:35:09 GMT | CyberSploit 1 Walkthrough: From Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/979774f0bec9) |
 | Wed, 27 Aug 2025 16:34:00 GMT | PromptLock: The Dawn of AI-Powered Ransomware and What It Means for Businesses | Chetan Seripally | [Read More](https://medium.com/p/782d62da594e) |
 | Wed, 27 Aug 2025 16:33:54 GMT | The One Digital Privacy Threat You’ve Already Fallen For (And Didn’t Even Know Existed) | The Masked Muse | [Read More](https://medium.com/p/48e85ebde395) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 12:35:26 GMT | AI vs. AI: How Generative Technology Is Powering the Next Wave of Cyberattacks | Keith Henry | [Read More](https://medium.com/p/6944a3a489d8) |
 | Wed, 27 Aug 2025 12:21:29 GMT | A Beginner’s Guide to Wireshark: Seeing What’s Really on Your Network | Akhil Binu | [Read More](https://medium.com/p/8b926d0a9c6c) |
 | Wed, 27 Aug 2025 12:20:15 GMT | Proof Of Concept: Terraform Privilege Escalation | Toshith | [Read More](https://medium.com/p/cd3db69df90e) |
-| Wed, 27 Aug 2025 12:11:52 GMT | Project #6: Web Enumeration + DNS Reconnaissance + Linux Privilege Escalation | NSESean | [Read More](https://medium.com/p/4e672f58ef82) |
-| Wed, 27 Aug 2025 12:08:20 GMT | Launch Your Cybersecurity Career with Confidence | BestJobTool | [Read More](https://medium.com/p/1f245e9d3218) |
-| Wed, 27 Aug 2025 12:01:35 GMT | Write-up PicoCTF: Web Exploitation ‘Inspect HTML’ | Muhammad Khairin | [Read More](https://medium.com/p/8620ef2f48ee) |
-| Wed, 27 Aug 2025 11:57:29 GMT | Whispers from the Net | Aura Synergia | [Read More](https://medium.com/p/066c9bd7d848) |
-| Wed, 27 Aug 2025 11:51:03 GMT | [CyberDefenders Write-up] ShadowRoast | Chicken0248 | [Read More](https://medium.com/p/f95dfe375fb7) |
-| Wed, 27 Aug 2025 11:44:58 GMT | Understanding Authorization to Operate (ATO): A Key Element in Secure IT Operations | Raviteja Mureboina | [Read More](https://medium.com/p/6f575580e441) |
-| Wed, 27 Aug 2025 11:44:20 GMT | PortSwigger Authentication Lab Çözümleri 1 | ENES KURTULAN | [Read More](https://medium.com/p/d357dad750b0) |
-| Wed, 27 Aug 2025 11:37:30 GMT | Vamp Byte #2 — Punycode & Homograph Attacks? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/40cc7644a924) |
