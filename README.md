@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 10:37:30 GMT | Vulnhub Walkthrough: Toppo (Beginner-Friendly CTF) | Aryan Tiwari | [Read More](https://medium.com/p/88de26c12832) |
+| Wed, 27 Aug 2025 10:36:57 GMT | Understanding Common Criteria: What It Is and Why It Matters in IT Security | Raviteja Mureboina | [Read More](https://medium.com/p/886a394ab919) |
+| Wed, 27 Aug 2025 10:27:26 GMT | How GitLab Avoided €20M+ in Legal Fines With One Quick Fix: The One Small Mistake That Almost… | Justas_b | [Read More](https://medium.com/p/cefb4b581c0e) |
+| Wed, 27 Aug 2025 10:23:02 GMT | DockerLabs Writeup — Hidden (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/dd0d3fdfd8de) |
+| Wed, 27 Aug 2025 10:15:47 GMT | Nigeria Is at War, and It’s a War of Survival | Ishola Quwam | [Read More](https://medium.com/p/66fe6f418018) |
+| Wed, 27 Aug 2025 10:15:36 GMT | DROSERA 101: INTRODUCTION TO DROSERA | Mary Cynthia | [Read More](https://medium.com/p/3e1a8aa807f0) |
 | Wed, 27 Aug 2025 10:12:57 GMT | How to balance our lifestyle in the tech world? | Noddy Kady | [Read More](https://medium.com/p/59212572d0eb) |
 | Wed, 27 Aug 2025 10:07:37 GMT | What’s Really Handling Your Web Traffic? A Deep Dive into Proxies | Tushar Banik | [Read More](https://medium.com/p/61cf2cab41a6) |
 | Wed, 27 Aug 2025 09:59:05 GMT | Nigel Farage Lays Out UK Migration Plan: A Fortress Britain or a Nation Betrayed? | Everclear | [Read More](https://medium.com/p/27e6d40661a0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 04:42:15 GMT | From CNAME to Cash: Hijacking Misconfigured DNS Records for Maximum Impact | Iski | [Read More](https://medium.com/p/41352654f85c) |
 | Wed, 27 Aug 2025 04:26:47 GMT | Deepfake Malware: The Next Big Threat No One Is Talking About | Paritosh | [Read More](https://medium.com/p/8cbb7c228eca) |
 | Wed, 27 Aug 2025 04:20:17 GMT | The $4 Million Click: How Phishing Still Breaches Fortune 500s | Aj | [Read More](https://medium.com/p/fbccf1d1d37d) |
-| Wed, 27 Aug 2025 04:16:00 GMT | Denial of Service (DoS) in Smart Contracts: 5 Subtle Threats Every Developer Should Know | 0xh4145 | [Read More](https://medium.com/p/c69618534a25) |
-| Wed, 27 Aug 2025 04:11:10 GMT | Root causes of cyber incidents | Sarah Fluchs | [Read More](https://medium.com/p/e274b5d10727) |
-| Wed, 27 Aug 2025 04:07:34 GMT | Detecting Malware with Memory Forensics: A Deep Dive | Paritosh | [Read More](https://medium.com/p/dfd1458a8c37) |
-| Wed, 27 Aug 2025 04:02:51 GMT | Quantum-Safe by 2033: Microsoft’s Pledge and the Current Post Quantum Cryptography (PQC) Landscape | Gaurav Sharma | [Read More](https://medium.com/p/44261d00a5f6) |
-| Wed, 27 Aug 2025 04:02:18 GMT | The Hacker’s Toolkit for 2025: 15 Tools I Can’t Live Without | Sukhveer Singh | [Read More](https://medium.com/p/00df61e39c53) |
-| Wed, 27 Aug 2025 03:52:30 GMT | Understanding Kubernetes RBAC: How It Works, Why It Matters, and Its Limitations | Pankaj Aswal | [Read More](https://medium.com/p/54008fad56ed) |
