@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 20:27:24 GMT | AI isn’t just enhancing productivity-it’s now a double-edged sword. | Inforsecpro | [Read More](https://medium.com/p/75343e7e8196) |
+| Thu, 28 Aug 2025 20:26:08 GMT | Building an HTTP(S) to Tor C2 Redirector with Flask — Part 2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e1952dd57fd7) |
 | Thu, 28 Aug 2025 20:05:27 GMT | Digital Forensics: The Silent Weapon in Modern Criminal Investigations | DIVIJ NAYAK | [Read More](https://medium.com/p/20faed702009) |
 | Thu, 28 Aug 2025 20:04:49 GMT | OSINT Challenge— Writeup | Alwin Thomas | [Read More](https://medium.com/p/0cc8690d6d73) |
 | Thu, 28 Aug 2025 20:03:37 GMT | Cyber Security: Protecting the Digital World in 2025 | Ashvita Koli | [Read More](https://medium.com/p/d897230eca05) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 14:11:21 GMT | DevSecOps as a Compliance Accelerator for Small and Medium Organizations | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/2b9bebdbecd3) |
 | Thu, 28 Aug 2025 14:09:18 GMT | Cyber Security Services by L4RG.COM: Protecting Businesses in the Digital Age | Karthik E | [Read More](https://medium.com/p/c8e7ab42f0f0) |
 | Thu, 28 Aug 2025 14:08:51 GMT | What is Data Exfiltration - Detection & Prevention Techniques | Anzenna | [Read More](https://medium.com/p/cc6cb60239ea) |
-| Thu, 28 Aug 2025 14:08:26 GMT | Zero Trust Solutions: Benefits and Top Tools | Blessing Mba | [Read More](https://medium.com/p/9c6fb0937f1c) |
-| Thu, 28 Aug 2025 14:01:50 GMT | Tame the Chaos: The only four Salesforce Permission sets you need! | Kenny K | [Read More](https://medium.com/p/e91480f744f7) |
