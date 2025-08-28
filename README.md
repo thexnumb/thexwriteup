@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 08:31:49 GMT | TryHackMe — Digital Forensics Fundamentals Writeup | Ulaş AKTAŞ | [Read More](https://medium.com/p/fe1d6f28fe00) |
+| Thu, 28 Aug 2025 08:30:50 GMT | Pegasus Spyware: What It Is, How It Works, and Why It’s So Dangerous | Juan M. Vazquez | [Read More](https://medium.com/p/dca2ca95eb05) |
+| Thu, 28 Aug 2025 08:28:12 GMT | What Makes Phishing Attack Simulation Services Essential | Noahlucas | [Read More](https://medium.com/p/e6e79de8fd67) |
+| Thu, 28 Aug 2025 08:24:35 GMT | 10 Best Web Hosting Providers for NFT Marketplaces in 2025 | Rahul Sharma | [Read More](https://medium.com/p/dea54544404b) |
 | Thu, 28 Aug 2025 08:24:21 GMT | Analyzing Penetration Testing in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/d2b79d64423a) |
 | Thu, 28 Aug 2025 08:23:03 GMT | Analyzing Penetration Testing in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/fdacb0a5d01f) |
 | Thu, 28 Aug 2025 08:21:45 GMT | Analyzing Penetration Testing for Professionals | Cyber Security Research | [Read More](https://medium.com/p/a51eca103ad1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 03:12:35 GMT | Being a Bridge Builder (Part I) | Maria Keckler, Ph.D. | [Read More](https://medium.com/p/2ae155251756) |
 | Thu, 28 Aug 2025 03:12:14 GMT | Cyber Nerd Surf: Log 01- Encryption | Apurva Cybersecurity | [Read More](https://medium.com/p/7c9f08fed3d6) |
 | Thu, 28 Aug 2025 02:59:24 GMT | Neuromorphic Attacks: When Hackers Target Brain-Like Computers | Chhavilodhi | [Read More](https://medium.com/p/56319a0ccee6) |
-| Thu, 28 Aug 2025 02:52:26 GMT | CAT Reloaded CTF 2025 DFIR writeup | 0xZew | [Read More](https://medium.com/p/43a5f405a660) |
-| Thu, 28 Aug 2025 02:47:34 GMT | Go Microservices Security: 7 Best Practices You Can’t Ignore | Concurrent Mind | [Read More](https://medium.com/p/45e32b4df90d) |
-| Thu, 28 Aug 2025 02:43:45 GMT | Write-up: LIT 2025 — misc/[name] 1 & misc/[name] 2 | DieLoop | [Read More](https://medium.com/p/1baa820429ea) |
-| Thu, 28 Aug 2025 02:43:06 GMT | I Built an AI Red Teamer. Here’s What I Learned. | Artificial Monty | [Read More](https://medium.com/p/84087cbb4820) |
