@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 05:17:09 GMT | Hack the Box: Flag Command | Ross Andrews | [Read More](https://medium.com/p/cb99258da706) |
+| Thu, 28 Aug 2025 05:13:20 GMT | How Authentication Works on the Web: From Passwords to JWTs | Yuvraj Sankilwar | [Read More](https://medium.com/p/51a80505314d) |
+| Thu, 28 Aug 2025 05:11:43 GMT | Demystifying Binary, Decimal, and Hexadecimal in Networking | Aryan Kumar | [Read More](https://medium.com/p/c2d425bfb157) |
+| Thu, 28 Aug 2025 05:10:52 GMT | Privacy Policies Explained: What Businesses Need to Stay Compliant in 2025 | Hansen Tong | [Read More](https://medium.com/p/f1f92babb3d7) |
+| Thu, 28 Aug 2025 05:09:14 GMT | Don’t Get Hooked: Understanding Phishing and How to Stay Safe | Chimereze! | [Read More](https://medium.com/p/7e2b16c9480c) |
+| Thu, 28 Aug 2025 05:08:51 GMT | How to Successfully Integrate New Security Systems Without Disrupting Business | Supraja | [Read More](https://medium.com/p/0520b2b3ada8) |
+| Thu, 28 Aug 2025 05:04:12 GMT | LANDASAN ALGORITMA | Zenitsu Agatsuma | [Read More](https://medium.com/p/3c01e3b96dfa) |
+| Thu, 28 Aug 2025 05:03:52 GMT | CCNP Security Certification vs CISSP: Which Is Better for Your Career? | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/c9f92049572c) |
+| Thu, 28 Aug 2025 04:58:13 GMT | How to Hunt an Attacker’s C2 IP Address Like a Threat Hunter | Paritosh | [Read More](https://medium.com/p/2589c39b0e72) |
+| Thu, 28 Aug 2025 04:57:35 GMT | Fortify Your Business: The Essential Guide to Modern Security | Joshua Nelson | [Read More](https://medium.com/p/588ff7a64ace) |
+| Thu, 28 Aug 2025 04:50:15 GMT | 10. Mastering Flutter Animations: A Comprehensive Guide with Code Examples | Radhey Shyam Jat | [Read More](https://medium.com/p/87eb4069692b) |
+| Thu, 28 Aug 2025 04:44:25 GMT | Top 5 Malware Outbreaks of 2025 (So Far) — and Lessons Learned | Paritosh | [Read More](https://medium.com/p/e4a611aab399) |
+| Thu, 28 Aug 2025 04:40:47 GMT | Introducing Shield Net | Tejeswar Jangam | [Read More](https://medium.com/p/1aad25988393) |
 | Thu, 28 Aug 2025 04:34:34 GMT | Penetration Testing Services for Compliance and Regulations-- Pentesting Provider In Australia | QualysecEurope | [Read More](https://medium.com/p/66cd83f36e32) |
 | Thu, 28 Aug 2025 04:26:03 GMT | Pentesting Interno: Máquinas de usuarios | Walter Cuestas | [Read More](https://medium.com/p/8523e4e01749) |
 | Thu, 28 Aug 2025 04:26:02 GMT | Will AI Replace Mobile Developers? | Chirag Prajapati | [Read More](https://medium.com/p/2514040d75da) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 19:36:49 GMT | Using Outlook rules to control emails with different attachments types, Nexus Human | Nexus Human | [Read More](https://medium.com/p/4c5fe5d1732a) |
 | Wed, 27 Aug 2025 19:35:26 GMT | Slopsquatting: AI Hallucinations Fueling a New Class of Software Supply Chain Attacks | Wes Young | [Read More](https://medium.com/p/68696d569a8a) |
 | Wed, 27 Aug 2025 19:33:30 GMT | Bringing AI to DevOps: Generative AI Basics. | Gaurav Agnihotri | [Read More](https://medium.com/p/ebe8ad8482b7) |
-| Wed, 27 Aug 2025 19:33:18 GMT | CVE-2021–42013 Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/3dfcfb6d85d3) |
-| Wed, 27 Aug 2025 19:33:05 GMT | From File Cabinets to Firewalls: Understanding InfoSec vs Cybersecurity | Ankita Ghosh | [Read More](https://medium.com/p/b124b5598665) |
-| Wed, 27 Aug 2025 19:28:36 GMT | The Cyber Attack On Colt Technology Services | O. J. Okpabi | [Read More](https://medium.com/p/368f597b7787) |
-| Wed, 27 Aug 2025 19:25:51 GMT | WannaCry Ransomware: A DFIR & SOC Monitoring Lab Walkthrough | Sparsh Ladani | [Read More](https://medium.com/p/9001f61a71e9) |
-| Wed, 27 Aug 2025 19:25:26 GMT | DNS Tunneling Detection: Uncovering Hidden Threats in Your Network | SafeAeon Inc. | [Read More](https://medium.com/p/4b30f595b147) |
-| Wed, 27 Aug 2025 19:19:16 GMT | My First vulnerability found (No-bounty) | dempsey | [Read More](https://medium.com/p/adcf07484d5f) |
-| Wed, 27 Aug 2025 19:15:54 GMT | Cybersecurity Workflow: A Step-by-Step Guide to Stronger Protection | SafeAeon Inc. | [Read More](https://medium.com/p/36b1e5e20b71) |
-| Wed, 27 Aug 2025 19:08:03 GMT | When Theft Scales, So Must Physics | Derek Wayne Bailey | [Read More](https://medium.com/p/977028b8c000) |
-| Wed, 27 Aug 2025 19:03:28 GMT | The Hidden Digital Footprints You Leave Online. | Mohammad Hasibul Hasan | [Read More](https://medium.com/p/08ddd794109c) |
-| Wed, 27 Aug 2025 19:03:10 GMT | What is OT Security and IEC 62443? A Journey from Industry 1.0 to Industry 5.0 by Sairaj Mahesh | Sairaj Mahesh | [Read More](https://medium.com/p/9380c846ae82) |
-| Wed, 27 Aug 2025 19:02:45 GMT | Book review -Deming’s Journey to Profound Knowledge — How Deming Helped Win a War, Altered the… | Maciej Jarosz | [Read More](https://medium.com/p/f7701e31b639) |
-| Wed, 27 Aug 2025 19:00:48 GMT | End-to-End Wazuh Lab: Installing Manager and Agents for Attacker-Victim Simulation | Jubin Varghese | [Read More](https://medium.com/p/83fcc7b2e569) |
-| Wed, 27 Aug 2025 18:51:29 GMT | The AI ‘quasi-creature’ problem | Berend Watchus | [Read More](https://medium.com/p/7b46f36e42af) |
