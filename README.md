@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 01:26:32 GMT | The SM2 Curve | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/cff33d6ace15) |
+| Thu, 28 Aug 2025 00:50:15 GMT | Basic Dynamic Analysis | Anthony Mazyck | [Read More](https://medium.com/p/69ba303a08d5) |
+| Thu, 28 Aug 2025 00:43:00 GMT | How to Map Out an Entire City Using Only Open Data and Patience | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/16a0ca0561c5) |
+| Thu, 28 Aug 2025 00:39:15 GMT | The Scariest Database You’ve Never Heard Of (And How to Search It) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/efe0a510aa16) |
+| Thu, 28 Aug 2025 00:37:10 GMT | What Law Enforcement Gets Wrong About Hackers | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3826179dea57) |
+| Thu, 28 Aug 2025 00:14:51 GMT | WriteUp Cap HackTheBox | Olivalein | [Read More](https://medium.com/p/95e6e7defe2d) |
+| Thu, 28 Aug 2025 00:08:49 GMT | HackTheBox: Redeemer | Rahaliashraf | [Read More](https://medium.com/p/456f704a019d) |
+| Thu, 28 Aug 2025 00:05:53 GMT | Building Secure and Resilient Contact Forms in Next.js | @rnab | [Read More](https://medium.com/p/450cbb437e68) |
+| Wed, 27 Aug 2025 23:56:49 GMT | Quantum Cryptography Upgrades for Units Network Security: Future-Proofing Layer-0 Blockchain… | Mete Ali Başkaya | [Read More](https://medium.com/p/a9142175bed9) |
+| Wed, 27 Aug 2025 23:53:54 GMT | Why Patching Outdated Software Is Critical | Yash Patel | [Read More](https://medium.com/p/4f3984a55f5a) |
+| Wed, 27 Aug 2025 23:45:58 GMT | INR Withdrawals Made Simple with CryptoXpress | Ufanabasi Ekong | [Read More](https://medium.com/p/2429b154a03b) |
 | Wed, 27 Aug 2025 23:16:22 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/9f28cd1d82e9) |
 | Wed, 27 Aug 2025 23:06:09 GMT | More Browser Extensions Hacked | Matthew.Rosenquist | [Read More](https://medium.com/p/49fadd01b714) |
 | Wed, 27 Aug 2025 23:05:37 GMT | How Curiosity Made Me a Hacker | Cybernerddd | [Read More](https://medium.com/p/b369e0c0e1e2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 17:16:40 GMT | Top 5 Programming Languages that Every Ethical Hacker Should Learn | Smith Adams | [Read More](https://medium.com/p/f8e75f2e77ac) |
 | Wed, 27 Aug 2025 17:16:14 GMT | Storm-0501: The Rise of Hybrid Ransomware and What It Means for Enterprises | Chetan Seripally | [Read More](https://medium.com/p/2be9b781a81d) |
 | Wed, 27 Aug 2025 17:06:33 GMT | Steganography: The Art of Hiding Secrets in Plain Sight | Padmini Ashwini | [Read More](https://medium.com/p/1e7eba1b6ad7) |
-| Wed, 27 Aug 2025 17:05:20 GMT | 5 Cybersecurity Websites Every Internet User Should Know About | Freya Andersen | [Read More](https://medium.com/p/d0145e21ced7) |
-| Wed, 27 Aug 2025 17:01:23 GMT | Enumeration Walkthrough | Mohamed Magdy | [Read More](https://medium.com/p/b3691049f46f) |
-| Wed, 27 Aug 2025 17:00:59 GMT | The Rising Storm: Why Cybersecurity Matters More Than Ever | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/729a34feaa36) |
-| Wed, 27 Aug 2025 17:00:02 GMT | How to Build a Cybersecurity GRC Program from Scratch | Abdullateef Anuoluwa Hameed | [Read More](https://medium.com/p/5c78f17eba77) |
-| Wed, 27 Aug 2025 16:58:04 GMT | EXPOSED: Tinder, Match, and OkCupid All Failed Security Tests (See Complete Rankings) | Nick Rosen | [Read More](https://medium.com/p/40a2a1f99320) |
-| Wed, 27 Aug 2025 16:55:59 GMT | ️ Mastering Bug Bounty Labs: OWASP Top 10 and Safe Practice Environments | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/c078bc9ec0c6) |
-| Wed, 27 Aug 2025 16:47:35 GMT | MyThe story of my first Bounty $$$ | RAJVEER | [Read More](https://medium.com/p/d541f0c2e6ff) |
-| Wed, 27 Aug 2025 16:45:01 GMT | SQL injection — Portswigger labs | Nihad Alizada | [Read More](https://medium.com/p/f7d6b38963c7) |
-| Wed, 27 Aug 2025 16:44:24 GMT | How I Prepared for the GIAC GFACT Exam and Scored 99% | Agata Kolodziej | [Read More](https://medium.com/p/5babaf9a0ff8) |
-| Wed, 27 Aug 2025 16:41:24 GMT | CCD Lab: Silent Breach (Noob Edition) | Winson | [Read More](https://medium.com/p/a4c2bc05737e) |
-| Wed, 27 Aug 2025 16:35:09 GMT | CyberSploit 1 Walkthrough: From Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/979774f0bec9) |
