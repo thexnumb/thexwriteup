@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 07:35:09 GMT | AI in the SOC: Hype, Reality, and the Analyst’s Future | Tedislava Vasileva | [Read More](https://medium.com/p/1ad4044d16b3) |
+| Thu, 28 Aug 2025 07:33:19 GMT | 7 Best Ethical Hacking Certifications in 2025 (Updated) | Serishahid | [Read More](https://medium.com/p/fd4cde8c22a9) |
+| Thu, 28 Aug 2025 07:26:32 GMT | Turning Juice Shop into a Pentesting Portfolio: Lab Setup Walkthrough (Day 1) | Hacked By Himel | [Read More](https://medium.com/p/ad99fa95bda9) |
+| Thu, 28 Aug 2025 07:20:59 GMT | Cyber Resilience in the AI Era | Prewin Thomas | [Read More](https://medium.com/p/5840ae233b47) |
 | Thu, 28 Aug 2025 07:18:48 GMT | The Daily Tech Digest: 28 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2b1d408180fa) |
 | Thu, 28 Aug 2025 07:18:33 GMT | Jailbreaks, Poisons, and Prompts: The Dark Arts of Hacking LLMs | Manushi | [Read More](https://medium.com/p/6185df89bf75) |
 | Thu, 28 Aug 2025 07:14:50 GMT | How to Block All Cloudflare IPs in SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/861e532e3cde) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 22:41:51 GMT | Threat Hunting in AI-Era: A Human Approach to Finding the Unseen | Yash Patel | [Read More](https://medium.com/p/ba6d28d1df9b) |
 | Wed, 27 Aug 2025 22:20:59 GMT | How I Turned a “Type 3 Chars” Search Box Into Full SQLi | Ali Hussain | [Read More](https://medium.com/p/a4664e41071f) |
 | Wed, 27 Aug 2025 22:11:58 GMT | Why Our Obsession With Emotional Safety Is Backfiring | Drew Lisso | [Read More](https://medium.com/p/8167f1815164) |
-| Wed, 27 Aug 2025 21:59:39 GMT | New 5G Hack Lets Attackers Crash Your Phone from 65 Feet Away | Cyber-AppSec | [Read More](https://medium.com/p/da9f6fe31c19) |
-| Wed, 27 Aug 2025 21:54:22 GMT | The AI Security Skills No One’s Teaching, Yet | BillfordX | [Read More](https://medium.com/p/3d224b5fcc8a) |
-| Wed, 27 Aug 2025 21:50:01 GMT | Basics of Cryptography | Kyrillos Kamal | [Read More](https://medium.com/p/a9c21b4f1980) |
-| Wed, 27 Aug 2025 21:36:38 GMT | Monero: Kriptomonedha që Refuzon të Vëzhgohet | D.BARDHI | [Read More](https://medium.com/p/ca651de19cf9) |
