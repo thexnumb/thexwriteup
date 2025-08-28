@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 22:29:55 GMT | Securing Flutter Apps: Best Practices for Protecting User Data | Bestaouiaymene | [Read More](https://medium.com/p/ff1f88b2e983) |
+| Thu, 28 Aug 2025 22:12:20 GMT | The Coming Drone Era: Why Drones Will Soon Be Everywhere | Robert Schryvers ChT | [Read More](https://medium.com/p/24f2ffd766f8) |
 | Thu, 28 Aug 2025 22:11:20 GMT | Automating Credential Stuffing Attacks with Burp Suite Intruder | Appsec.pt | [Read More](https://medium.com/p/3aa74cf0c2d1) |
+| Thu, 28 Aug 2025 22:07:13 GMT | The Rise of AI-Powered Phishing: A New Frontier in Social Engineering | Mohanad Khaled | [Read More](https://medium.com/p/c009eab1acf7) |
 | Thu, 28 Aug 2025 21:58:21 GMT | Why Simple Golang Shellcode Loaders Still Slip Past Windows Defender in 2025 | Yua Mikanana | [Read More](https://medium.com/p/e632503811c3) |
 | Thu, 28 Aug 2025 21:52:55 GMT | Entering the Dark Era of AI Powered Cyber Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/8065d34ce50a) |
 | Thu, 28 Aug 2025 21:48:50 GMT | Access control vulnerabilities - Unprotected admin functionality - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/2cda070b1f49) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 15:16:56 GMT | TryHackMe - Web Security Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/e7ff06f7fe76) |
 | Thu, 28 Aug 2025 15:09:24 GMT | How to build the foundation for multiple Cyber Ranges in OCI — Part 2 | Birzu Alexandru-Adrian | [Read More](https://medium.com/p/d95b62010b8c) |
 | Thu, 28 Aug 2025 15:07:11 GMT | OffSec Threat Hunter (OSTH): Course Review and Exam Tips | Cyd Tseng | [Read More](https://medium.com/p/e4b8ab415d40) |
-| Thu, 28 Aug 2025 15:04:22 GMT | # Introduction of Ethical hacker : | Sakib Mahmud | [Read More](https://medium.com/p/a3415332b17b) |
-| Thu, 28 Aug 2025 15:01:46 GMT | Zero-Day Attacks: The Attack No One Sees Coming | Sparshika | [Read More](https://medium.com/p/00c4d30177f9) |
-| Thu, 28 Aug 2025 15:01:45 GMT | Weaponized Leaks: When Leaks Become a Weapon Against You | Ingvar Pavlovich | [Read More](https://medium.com/p/f26d7ffc4a4e) |
