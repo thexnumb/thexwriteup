@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 21:28:36 GMT | Maximizing Returns: BUG $BUG Growth Strategy in 2025 | BUG | [Read More](https://medium.com/p/2dc9fde11bec) |
+| Thu, 28 Aug 2025 21:18:09 GMT | Injection (OWASP Top 10 #3) — Simplified | Chai | [Read More](https://medium.com/p/42bf04981a1a) |
+| Thu, 28 Aug 2025 21:17:32 GMT | Advanced Credential Theft Techniques in Active Directory Environments | Esra Kayhan | [Read More](https://medium.com/p/5b42743d0f26) |
 | Thu, 28 Aug 2025 21:02:14 GMT | XSS Stored Bypass cookie http only via all accounts take over | Vuln_Ram | [Read More](https://medium.com/p/ef7134f139d1) |
 | Thu, 28 Aug 2025 20:57:35 GMT | Transparent Proxy Implementation with Linux Netfilter for Traffic Inspection | Esra Kayhan | [Read More](https://medium.com/p/6d3885613a60) |
 | Thu, 28 Aug 2025 20:56:48 GMT | Exploitation Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/ab91f95afcec) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 14:39:50 GMT | The Night My Firewall Started Flirting with Hackers: A Sysadmin’s Tale | Aj | [Read More](https://medium.com/p/f7655322c40b) |
 | Thu, 28 Aug 2025 14:37:32 GMT | The Perils of Not Being Able to Be Alone: A Path to Personal Disaster | Sevenqian | [Read More](https://medium.com/p/37afd58871e8) |
 | Thu, 28 Aug 2025 14:30:34 GMT | Top 5 Cyber Security Companies in the USA | Anzenna | [Read More](https://medium.com/p/f60c9dde5191) |
-| Thu, 28 Aug 2025 14:29:25 GMT | The State of AI in Financial Services — from our front row seats | Peter Hung | [Read More](https://medium.com/p/fb7db279c45b) |
-| Thu, 28 Aug 2025 14:26:59 GMT | XSS Injection on DVWA : Operation Mind Control ⚡ | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/a6c270a089d9) |
-| Thu, 28 Aug 2025 14:17:32 GMT | Dare to “Sting” Others: The Beginning of Better Relationships | Eilen Lexus | [Read More](https://medium.com/p/7a2bfea39768) |
