@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 16:05:33 GMT | Simple IDOR Led to PII & Passport Leaks (and a $1,000 Bounty) | toast | [Read More](https://medium.com/p/e3e453a519ec) |
+| Thu, 28 Aug 2025 16:02:19 GMT | Cryptographic Failures (OWASP Top 10 #2) — Simplified | Chai | [Read More](https://medium.com/p/c37eb4bf75a4) |
+| Thu, 28 Aug 2025 16:01:03 GMT | The Secret Recipe: A Story About Confidentiality. | Everyday learner | [Read More](https://medium.com/p/c669d2a6f510) |
+| Thu, 28 Aug 2025 16:00:34 GMT | What is AES Encryption and How Does it Work? | Ayomideolanibi | [Read More](https://medium.com/p/124b7d6aead9) |
+| Thu, 28 Aug 2025 15:58:12 GMT | Portswigger Cross-site scripting Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/16c4eb15eec3) |
+| Thu, 28 Aug 2025 15:50:13 GMT | Log Analysis — Compromised WordPress -Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/df4f5c89f4cc) |
+| Thu, 28 Aug 2025 15:49:40 GMT | Log Analysis — Sysmon - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/87d6e02d2a21) |
+| Thu, 28 Aug 2025 15:49:05 GMT | Safety vs security in OT | ThatOTSecurityGuy | [Read More](https://medium.com/p/3c0576d449e5) |
+| Thu, 28 Aug 2025 15:44:41 GMT | Detect insider threats in real-time using AI-driven access log analytics for smarter, safer… | Shradhdha Bhalodia | [Read More](https://medium.com/p/680336e3a821) |
+| Thu, 28 Aug 2025 15:39:45 GMT | Why Rust Is Gaining Ground in Zero-Trust Systems: From Software to Hardware/Software Co-Assurance | Zoexu | [Read More](https://medium.com/p/43b72da1680c) |
+| Thu, 28 Aug 2025 15:29:06 GMT | “What Remains Without Love?”: | Claus Nisslmüller UX & Brand Designer | [Read More](https://medium.com/p/e422f953ef13) |
+| Thu, 28 Aug 2025 15:27:33 GMT | Your API Is Under Attack Right Now: The Alarming Reality of Bot Traffic and How to Fight Back | Olga | [Read More](https://medium.com/p/c8f7d56f978c) |
 | Thu, 28 Aug 2025 15:27:23 GMT | In a recent project I had the opportunity to collaborate with AI to create a browser fingerprint… | Jason M. | [Read More](https://medium.com/p/5cf05040cc85) |
 | Thu, 28 Aug 2025 15:26:40 GMT | OSINT Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/85e4da194e9c) |
 | Thu, 28 Aug 2025 15:25:46 GMT | Cryptography Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/87b080cd9287) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 11:30:39 GMT | Security Hardening - How to Secure Sitecore XP and XP Platfrom | Abhinav kumar Singh | [Read More](https://medium.com/p/ca5fa62a793f) |
 | Thu, 28 Aug 2025 11:23:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/dd155b0d7442) |
 | Thu, 28 Aug 2025 11:22:18 GMT | Continuous Threat Exposure Management (CTEM): A New Security Framework | Cybersecurity Umbrella | [Read More](https://medium.com/p/9ac515c9c1a0) |
-| Thu, 28 Aug 2025 11:21:33 GMT | Workday Falls Victim to Social Engineering: A Stark Reminder About Human Risk | Brittney Ginther | [Read More](https://medium.com/p/01d3de492284) |
-| Thu, 28 Aug 2025 11:20:24 GMT | The Detective’s Verdict: When a Community’s Only Product is Exit Liquidity | Crypto Submarine | [Read More](https://medium.com/p/9938d271ca1e) |
-| Thu, 28 Aug 2025 11:12:08 GMT | Open Redirect Vulnerability in SSO API | Ehtesham Ul Haq | [Read More](https://medium.com/p/ed1ef7db2b04) |
-| Thu, 28 Aug 2025 11:11:59 GMT | Cyber Security Governance: Guarding Trust in the Digital Age | John Davies | [Read More](https://medium.com/p/8950d3cddc2b) |
-| Thu, 28 Aug 2025 11:11:01 GMT | My Journey as a Security Analyst Intern: Lessons, Challenges, and Growth | NIral | [Read More](https://medium.com/p/8068db03f407) |
-| Thu, 28 Aug 2025 11:10:06 GMT | Exploiting Vulnerabilities in LLM APIs | Aditya Bhatt | [Read More](https://medium.com/p/3a0283e31da9) |
-| Thu, 28 Aug 2025 11:07:10 GMT | Kirill Firsov Explains How Present Disruption Builds Future Security | kirill Firsov | [Read More](https://medium.com/p/4a21dddc2c60) |
-| Thu, 28 Aug 2025 11:01:35 GMT | Beyond Code | logcratic | [Read More](https://medium.com/p/50cc2e5a868b) |
-| Thu, 28 Aug 2025 10:59:34 GMT | Cross-Site Scripting | Nisithwalpola | [Read More](https://medium.com/p/5bd920e7cd02) |
-| Thu, 28 Aug 2025 10:54:13 GMT | Citrix at the Edge: Why the Latest NetScaler Zero-Days Matter — and Who’s Actively Exploiting Them | Yua Mikanana | [Read More](https://medium.com/p/03d11d4324f4) |
-| Thu, 28 Aug 2025 10:51:19 GMT | The Impending Economic Crash in India | Seshadri Kumar | [Read More](https://medium.com/p/326b8de36181) |
-| Thu, 28 Aug 2025 10:49:48 GMT | Mothers Against Cyber Crime: Protecting Kids from Online Dangers in the Digital Age | Savvy Cyber Kids | [Read More](https://medium.com/p/c87442ae27d6) |
