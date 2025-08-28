@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 15:27:23 GMT | In a recent project I had the opportunity to collaborate with AI to create a browser fingerprint… | Jason M. | [Read More](https://medium.com/p/5cf05040cc85) |
+| Thu, 28 Aug 2025 15:26:40 GMT | OSINT Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/85e4da194e9c) |
+| Thu, 28 Aug 2025 15:25:46 GMT | Cryptography Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/87b080cd9287) |
+| Thu, 28 Aug 2025 15:24:58 GMT | Web Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/d1224f9dee48) |
+| Thu, 28 Aug 2025 15:16:56 GMT | TryHackMe - Web Security Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/e7ff06f7fe76) |
 | Thu, 28 Aug 2025 15:09:24 GMT | How to build the foundation for multiple Cyber Ranges in OCI — Part 2 | Birzu Alexandru-Adrian | [Read More](https://medium.com/p/d95b62010b8c) |
 | Thu, 28 Aug 2025 15:07:11 GMT | OffSec Threat Hunter (OSTH): Course Review and Exam Tips | Cyd Tseng | [Read More](https://medium.com/p/e4b8ab415d40) |
 | Thu, 28 Aug 2025 15:04:22 GMT | # Introduction of Ethical hacker : | Sakib Mahmud | [Read More](https://medium.com/p/a3415332b17b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 10:54:13 GMT | Citrix at the Edge: Why the Latest NetScaler Zero-Days Matter — and Who’s Actively Exploiting Them | Yua Mikanana | [Read More](https://medium.com/p/03d11d4324f4) |
 | Thu, 28 Aug 2025 10:51:19 GMT | The Impending Economic Crash in India | Seshadri Kumar | [Read More](https://medium.com/p/326b8de36181) |
 | Thu, 28 Aug 2025 10:49:48 GMT | Mothers Against Cyber Crime: Protecting Kids from Online Dangers in the Digital Age | Savvy Cyber Kids | [Read More](https://medium.com/p/c87442ae27d6) |
-| Thu, 28 Aug 2025 10:49:25 GMT | Navigating the AI World: Tips for Kids to Stay Safe and Smart Online | Savvy Cyber Kids | [Read More](https://medium.com/p/a719364b6f3b) |
-| Thu, 28 Aug 2025 10:49:14 GMT | How to Teach Your Child to Identify Fact from Fiction | Savvy Cyber Kids | [Read More](https://medium.com/p/1e24dc60d9f2) |
-| Thu, 28 Aug 2025 10:49:13 GMT | HTB Escape Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/0a232ee2c991) |
-| Thu, 28 Aug 2025 10:47:22 GMT | Jargon-free guide to security compliance | Wiran Larbi | [Read More](https://medium.com/p/43d342a3e750) |
-| Thu, 28 Aug 2025 10:46:09 GMT | Automation in digital security operations | Nagaraj | [Read More](https://medium.com/p/956c9d07dd13) |
