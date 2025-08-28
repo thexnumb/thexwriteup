@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 02:59:24 GMT | Neuromorphic Attacks: When Hackers Target Brain-Like Computers | Chhavilodhi | [Read More](https://medium.com/p/56319a0ccee6) |
+| Thu, 28 Aug 2025 02:52:26 GMT | CAT Reloaded CTF 2025 DFIR writeup | 0xZew | [Read More](https://medium.com/p/43a5f405a660) |
+| Thu, 28 Aug 2025 02:47:34 GMT | Go Microservices Security: 7 Best Practices You Can’t Ignore | Concurrent Mind | [Read More](https://medium.com/p/45e32b4df90d) |
+| Thu, 28 Aug 2025 02:43:45 GMT | Write-up: LIT 2025 — misc/[name] 1 & misc/[name] 2 | DieLoop | [Read More](https://medium.com/p/1baa820429ea) |
+| Thu, 28 Aug 2025 02:43:06 GMT | I Built an AI Red Teamer. Here’s What I Learned. | Artificial Monty | [Read More](https://medium.com/p/84087cbb4820) |
+| Thu, 28 Aug 2025 02:19:46 GMT | N3XT_L3V3L CTF 2025 — a Piece of Peace (Steganography Write-up) | DieLoop | [Read More](https://medium.com/p/57107673009f) |
+| Thu, 28 Aug 2025 02:08:21 GMT | How to Build a Rogue RFID Toolkit in an Afternoon | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f219a4faa7df) |
+| Thu, 28 Aug 2025 02:05:53 GMT | In-depth Exploration of NextAuth.js for Enhanced Security | @rnab | [Read More](https://medium.com/p/7e989d3d1a77) |
+| Thu, 28 Aug 2025 02:03:40 GMT | Wiz x Cloud Security Championship: Contain Me If You Can - Walkthrough | Mostafa Hussein | [Read More](https://medium.com/p/11b17e931ca5) |
+| Thu, 28 Aug 2025 01:56:31 GMT | Understanding the MITRE Framework: A Comprehensive Guide | Cyber Fortress | [Read More](https://medium.com/p/736423cb2521) |
+| Thu, 28 Aug 2025 01:44:13 GMT | When Ransomware Becomes Native to the Cloud: The Storm-0501 Wake-Up Call | Dhruvdeep Singh | [Read More](https://medium.com/p/ebf6682b4fa4) |
 | Thu, 28 Aug 2025 01:26:32 GMT | The SM2 Curve | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/cff33d6ace15) |
 | Thu, 28 Aug 2025 00:50:15 GMT | Basic Dynamic Analysis | Anthony Mazyck | [Read More](https://medium.com/p/69ba303a08d5) |
 | Thu, 28 Aug 2025 00:43:00 GMT | How to Map Out an Entire City Using Only Open Data and Patience | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/16a0ca0561c5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 17:43:04 GMT | 5 Common Cybersecurity Mistakes and How to Avoid Them | Freya Andersen | [Read More](https://medium.com/p/6436d2e953b3) |
 | Wed, 27 Aug 2025 17:41:38 GMT | Phishing Explained: How to Spot and Avoid Online Scams | VS Writes | [Read More](https://medium.com/p/2418d80947c4) |
 | Wed, 27 Aug 2025 17:40:24 GMT | The Evolving Threat of Image-Based Malware, You need a solution. | FALCONS.AI | [Read More](https://medium.com/p/9c19f181de92) |
-| Wed, 27 Aug 2025 17:40:11 GMT | From Bugs to Bucks: My First Bounty $$$ | RAJVEER | [Read More](https://medium.com/p/0ab9f6341368) |
-| Wed, 27 Aug 2025 17:35:17 GMT | Cybersecurity Basics for Beginners: How Downtime Can Become a Disaster ⏳ | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/5796f5c4841e) |
-| Wed, 27 Aug 2025 17:33:06 GMT | When My Wi-Fi Turned Against Me: The Dark Reality Of RapperBot | O. J. Okpabi | [Read More](https://medium.com/p/b728ee47f40f) |
-| Wed, 27 Aug 2025 17:31:01 GMT | Andreessen Horowitz’s $100M AI PAC: Essential Tips for Tech Leaders on Positioning for Success | Veronica Wagenet | [Read More](https://medium.com/p/0f8c58a9ad37) |
-| Wed, 27 Aug 2025 17:30:00 GMT | Making sense of BOLA in a Mindful Machine Age | Quintius Walker | [Read More](https://medium.com/p/9149e5d339ed) |
-| Wed, 27 Aug 2025 17:27:48 GMT | How the Internet Really Works: The Hidden Hierarchy from ICANN to Your Home Home.Ever | Amar ibnu dawod | [Read More](https://medium.com/p/19242ae7be9f) |
-| Wed, 27 Aug 2025 17:25:03 GMT | The WinRAR Exploit Nobody Saw Coming | Bashx0 | [Read More](https://medium.com/p/e6612b7b4ed7) |
-| Wed, 27 Aug 2025 17:20:50 GMT | Stewardship Under Uncertainty | Above The Firewall | [Read More](https://medium.com/p/c8a656502db1) |
-| Wed, 27 Aug 2025 17:16:40 GMT | Top 5 Programming Languages that Every Ethical Hacker Should Learn | Smith Adams | [Read More](https://medium.com/p/f8e75f2e77ac) |
-| Wed, 27 Aug 2025 17:16:14 GMT | Storm-0501: The Rise of Hybrid Ransomware and What It Means for Enterprises | Chetan Seripally | [Read More](https://medium.com/p/2be9b781a81d) |
-| Wed, 27 Aug 2025 17:06:33 GMT | Steganography: The Art of Hiding Secrets in Plain Sight | Padmini Ashwini | [Read More](https://medium.com/p/1e7eba1b6ad7) |
