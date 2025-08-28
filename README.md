@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 23:06:44 GMT | From Schema to $teal: GraphQL Fuzzing & IDOR in Action | Zurab Akhvlediani | [Read More](https://medium.com/p/d817cb06bd83) |
+| Thu, 28 Aug 2025 23:03:22 GMT | #6th for MetaCTF August 2025 | Jonathan Garcia | [Read More](https://medium.com/p/42a19559f28c) |
+| Thu, 28 Aug 2025 22:54:31 GMT | Unpacking the Mechanisms: How Drosera Protects DeFi. | Roman Lucien | [Read More](https://medium.com/p/fc246180e51d) |
+| Thu, 28 Aug 2025 22:54:10 GMT | Why Program Managers Should Learn the Language of Data and Security | Maria Beckles | [Read More](https://medium.com/p/0b3a0324fed1) |
+| Thu, 28 Aug 2025 22:50:25 GMT | Segurança, Observabilidade e Governança em Servidores MCP: do Zero-Trust à LGPD | Luiz Felipe Kama Alencar | [Read More](https://medium.com/p/75646f36c4e0) |
+| Thu, 28 Aug 2025 22:46:42 GMT | eWPT Exam Guide: Strategies, Study Materials, and Final Takeaways | Onurcan Genç | [Read More](https://medium.com/p/c6afdbb5a682) |
+| Thu, 28 Aug 2025 22:38:09 GMT | Deep Dive: Advanced Malware Analysis Workflow with FLARE VM | Vivek Lenkalapally | [Read More](https://medium.com/p/85371b617ae9) |
 | Thu, 28 Aug 2025 22:29:55 GMT | Securing Flutter Apps: Best Practices for Protecting User Data | Bestaouiaymene | [Read More](https://medium.com/p/ff1f88b2e983) |
+| Thu, 28 Aug 2025 22:27:34 GMT | Login e Autenticação em Aplicações Web: Da Teoria à Implementação Segura | Guilherme Martins Ribeiro | [Read More](https://medium.com/p/9f266841a4ac) |
 | Thu, 28 Aug 2025 22:12:20 GMT | The Coming Drone Era: Why Drones Will Soon Be Everywhere | Robert Schryvers ChT | [Read More](https://medium.com/p/24f2ffd766f8) |
 | Thu, 28 Aug 2025 22:11:20 GMT | Automating Credential Stuffing Attacks with Burp Suite Intruder | Appsec.pt | [Read More](https://medium.com/p/3aa74cf0c2d1) |
 | Thu, 28 Aug 2025 22:07:13 GMT | The Rise of AI-Powered Phishing: A New Frontier in Social Engineering | Mohanad Khaled | [Read More](https://medium.com/p/c009eab1acf7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 15:44:41 GMT | Detect insider threats in real-time using AI-driven access log analytics for smarter, safer… | Shradhdha Bhalodia | [Read More](https://medium.com/p/680336e3a821) |
 | Thu, 28 Aug 2025 15:39:45 GMT | Why Rust Is Gaining Ground in Zero-Trust Systems: From Software to Hardware/Software Co-Assurance | Zoexu | [Read More](https://medium.com/p/43b72da1680c) |
 | Thu, 28 Aug 2025 15:29:06 GMT | “What Remains Without Love?”: | Claus Nisslmüller UX & Brand Designer | [Read More](https://medium.com/p/e422f953ef13) |
-| Thu, 28 Aug 2025 15:27:33 GMT | Your API Is Under Attack Right Now: The Alarming Reality of Bot Traffic and How to Fight Back | Olga | [Read More](https://medium.com/p/c8f7d56f978c) |
-| Thu, 28 Aug 2025 15:27:23 GMT | In a recent project I had the opportunity to collaborate with AI to create a browser fingerprint… | Jason M. | [Read More](https://medium.com/p/5cf05040cc85) |
-| Thu, 28 Aug 2025 15:26:40 GMT | OSINT Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/85e4da194e9c) |
-| Thu, 28 Aug 2025 15:25:46 GMT | Cryptography Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/87b080cd9287) |
-| Thu, 28 Aug 2025 15:24:58 GMT | Web Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/d1224f9dee48) |
-| Thu, 28 Aug 2025 15:16:56 GMT | TryHackMe - Web Security Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/e7ff06f7fe76) |
-| Thu, 28 Aug 2025 15:09:24 GMT | How to build the foundation for multiple Cyber Ranges in OCI — Part 2 | Birzu Alexandru-Adrian | [Read More](https://medium.com/p/d95b62010b8c) |
-| Thu, 28 Aug 2025 15:07:11 GMT | OffSec Threat Hunter (OSTH): Course Review and Exam Tips | Cyd Tseng | [Read More](https://medium.com/p/e4b8ab415d40) |
