@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 14:39:50 GMT | The Night My Firewall Started Flirting with Hackers: A Sysadmin’s Tale | Aj | [Read More](https://medium.com/p/f7655322c40b) |
+| Thu, 28 Aug 2025 14:37:32 GMT | The Perils of Not Being Able to Be Alone: A Path to Personal Disaster | Sevenqian | [Read More](https://medium.com/p/37afd58871e8) |
+| Thu, 28 Aug 2025 14:30:34 GMT | Top 5 Cyber Security Companies in the USA | Anzenna | [Read More](https://medium.com/p/f60c9dde5191) |
+| Thu, 28 Aug 2025 14:29:25 GMT | The State of AI in Financial Services — from our front row seats | Peter Hung | [Read More](https://medium.com/p/fb7db279c45b) |
+| Thu, 28 Aug 2025 14:26:59 GMT | XSS Injection on DVWA : Operation Mind Control ⚡ | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/a6c270a089d9) |
+| Thu, 28 Aug 2025 14:17:32 GMT | Dare to “Sting” Others: The Beginning of Better Relationships | Eilen Lexus | [Read More](https://medium.com/p/7a2bfea39768) |
 | Thu, 28 Aug 2025 14:15:35 GMT | The 3 OSINT Tricks That Will Find Anyone Online | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d0fabfe1e7c1) |
 | Thu, 28 Aug 2025 14:13:43 GMT | The Great Tech Reversal: Why Computer Science Graduates Are Facing the Worst Job Market in Decades. | The AI Solopreneur | [Read More](https://medium.com/p/a70eaae8e777) |
 | Thu, 28 Aug 2025 14:11:43 GMT | Bug Bounty from Africa: A Complete Newbie’s Step‑by‑Step Guide | Isaac Simeon | [Read More](https://medium.com/p/73bbcd4b404f) |
 | Thu, 28 Aug 2025 14:11:36 GMT | The Hidden Dangers of Social Engineering | Amanoy | [Read More](https://medium.com/p/9c20145e195a) |
+| Thu, 28 Aug 2025 14:11:34 GMT | The Ultimate Face: Why “Shamelessness” is the Key to True Dignity for Adults | Flaye Kate | [Read More](https://medium.com/p/336677d45dd8) |
 | Thu, 28 Aug 2025 14:11:21 GMT | DevSecOps as a Compliance Accelerator for Small and Medium Organizations | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/2b9bebdbecd3) |
 | Thu, 28 Aug 2025 14:09:18 GMT | Cyber Security Services by L4RG.COM: Protecting Businesses in the Digital Age | Karthik E | [Read More](https://medium.com/p/c8e7ab42f0f0) |
 | Thu, 28 Aug 2025 14:08:51 GMT | What is Data Exfiltration - Detection & Prevention Techniques | Anzenna | [Read More](https://medium.com/p/cc6cb60239ea) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 10:23:04 GMT | How a Malicious APK Can Hijack an Android Device: Real-World Attack Scenario | Ganpat Prajapati | [Read More](https://medium.com/p/7faf4a657a4c) |
 | Thu, 28 Aug 2025 10:19:29 GMT | CRWD earnings: what CrowdStrike’s results mean for CRWD stock right now | Shashi Prakash Agarwal | [Read More](https://medium.com/p/4f6af4c66d49) |
 | Thu, 28 Aug 2025 10:15:04 GMT | File Inclusion | Yusuf Eren Koçak | [Read More](https://medium.com/p/5d1a7751b5a4) |
-| Thu, 28 Aug 2025 10:08:55 GMT | SOC Level 2 on TryHackMe: Struggles, Wins, and Coffee-Fueled Insights | Furkanctiner | [Read More](https://medium.com/p/ca5174786eb3) |
-| Thu, 28 Aug 2025 10:08:01 GMT | Hacking, Virtual Machines, Linux, and Networking: A Beginner’s Guide | Reuben Sam Philip | [Read More](https://medium.com/p/ab324d823f5c) |
-| Thu, 28 Aug 2025 10:06:00 GMT | MSSP Growth Guide: Scaling Threat Detection for Expanding Client Base | ANY.RUN | [Read More](https://medium.com/p/1e01346cd112) |
-| Thu, 28 Aug 2025 10:03:12 GMT | CyberDefender’s Lespion Lab | Adewale Ayomide | [Read More](https://medium.com/p/b3515d02e4e6) |
-| Thu, 28 Aug 2025 10:01:41 GMT | Product Review : ViceVersa IMAP Backup & Restore Tool | Avery Scottish | [Read More](https://medium.com/p/d5663d0496ac) |
-| Thu, 28 Aug 2025 09:56:13 GMT | 7 Security Tips Most People Are Not Using | Muhammad Haider Tallal | [Read More](https://medium.com/p/7d6eaae9df99) |
-| Thu, 28 Aug 2025 09:53:08 GMT | Why Spy Apps for Parental Control Are a Staple in Modern Parenting | Narjis Batool | [Read More](https://medium.com/p/fffadd07ab2b) |
