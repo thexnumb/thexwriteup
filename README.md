@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 09:40:03 GMT | DockerLabs Writeup — ChocolateLovers (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c203c209bb09) |
+| Thu, 28 Aug 2025 09:33:48 GMT | GRC System Hacks: 7 Ways to Cut Risk Without Killing Your Budget | SecureSlate | [Read More](https://medium.com/p/760f0d7f5df7) |
+| Thu, 28 Aug 2025 09:32:31 GMT | Why “Hacktivism” Isn’t the Hero Story You Think It Is | Aj | [Read More](https://medium.com/p/7afa67bd5e50) |
+| Thu, 28 Aug 2025 09:27:54 GMT | Top 5 Common PCI DSS Pitfalls and How to Avoid Them | Abdullateef Hameed | [Read More](https://medium.com/p/93c5f8f93c63) |
+| Thu, 28 Aug 2025 09:26:41 GMT | What to Expect When You Outsource SOC? | Sunder Singh | [Read More](https://medium.com/p/dbb92567b753) |
+| Thu, 28 Aug 2025 09:24:44 GMT | Top 10 Web Application Development Companies in USA 2025 | Saurav Panda | [Read More](https://medium.com/p/2a31dd5306c0) |
+| Thu, 28 Aug 2025 09:21:05 GMT | Ghost Endpoints: The Secret Doors Hackers Use That You Don’t Know Exist | Narendar Battula (nArEn) | [Read More](https://medium.com/p/3906b927498c) |
+| Thu, 28 Aug 2025 09:18:26 GMT | Security Issues - Vulnerabilities Found in Sitecore 10.3.2 during PEN Testing | Abhinav kumar Singh | [Read More](https://medium.com/p/5f698c538a5f) |
 | Thu, 28 Aug 2025 09:17:44 GMT | The Pentesting Methodology: From Reconnaissance to Reporting — A Complete Guide | Redfox Security | [Read More](https://medium.com/p/433b83205269) |
+| Thu, 28 Aug 2025 09:13:45 GMT | Artificial Intelligence For Cybersecurity Applications | Sandalu Karunasena | [Read More](https://medium.com/p/9e689587fcdc) |
 | Thu, 28 Aug 2025 09:08:04 GMT | Broken Authentication in React: Fixes with Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/5a8948c59da6) |
 | Thu, 28 Aug 2025 09:06:44 GMT | Why Your Brain Cringes at Stupid Questions | OopsLog | [Read More](https://medium.com/p/431ebc2bf87e) |
 | Thu, 28 Aug 2025 09:01:49 GMT | SafeLine is a Beautiful Open Source WAF for your Web App | Maverick Steel | [Read More](https://medium.com/p/ff72ac6ded96) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 05:03:52 GMT | CCNP Security Certification vs CISSP: Which Is Better for Your Career? | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/c9f92049572c) |
 | Thu, 28 Aug 2025 04:58:13 GMT | How to Hunt an Attacker’s C2 IP Address Like a Threat Hunter | Paritosh | [Read More](https://medium.com/p/2589c39b0e72) |
 | Thu, 28 Aug 2025 04:57:35 GMT | Fortify Your Business: The Essential Guide to Modern Security | Joshua Nelson | [Read More](https://medium.com/p/588ff7a64ace) |
-| Thu, 28 Aug 2025 04:50:15 GMT | 10. Mastering Flutter Animations: A Comprehensive Guide with Code Examples | Radhey Shyam Jat | [Read More](https://medium.com/p/87eb4069692b) |
-| Thu, 28 Aug 2025 04:44:25 GMT | Top 5 Malware Outbreaks of 2025 (So Far) — and Lessons Learned | Paritosh | [Read More](https://medium.com/p/e4a611aab399) |
-| Thu, 28 Aug 2025 04:40:47 GMT | Introducing Shield Net | Tejeswar Jangam | [Read More](https://medium.com/p/1aad25988393) |
-| Thu, 28 Aug 2025 04:34:34 GMT | Penetration Testing Services for Compliance and Regulations-- Pentesting Provider In Australia | QualysecEurope | [Read More](https://medium.com/p/66cd83f36e32) |
-| Thu, 28 Aug 2025 04:26:03 GMT | Pentesting Interno: Máquinas de usuarios | Walter Cuestas | [Read More](https://medium.com/p/8523e4e01749) |
-| Thu, 28 Aug 2025 04:26:02 GMT | Will AI Replace Mobile Developers? | Chirag Prajapati | [Read More](https://medium.com/p/2514040d75da) |
-| Thu, 28 Aug 2025 04:00:04 GMT | Cybersecurity OEMs & The New Why Cybersecurity Is About People First, Technology Second | Dr. Deep Pandey | [Read More](https://medium.com/p/f85606a26264) |
-| Thu, 28 Aug 2025 03:57:34 GMT | Critical Alert: Zero-Day Exploits Target Apple Users While AI Security Faces New Bypass Threats | Akshat Ratanpal | [Read More](https://medium.com/p/70203759a8f6) |
-| Thu, 28 Aug 2025 03:45:30 GMT | CVE Alert: SQL Injection in Yonyou GRP-U8 — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/4a6e3b9df462) |
