@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 18:47:12 GMT | TryHackMe - Vulnerabilities 101 Walkthrough | m0cha_ | [Read More](https://medium.com/p/54bd326c71e1) |
+| Thu, 28 Aug 2025 18:45:35 GMT | Understanding OWASP: Managing the Risks in Web Application Security | SafeAeon Inc. | [Read More](https://medium.com/p/e92903ed1c87) |
+| Thu, 28 Aug 2025 18:43:43 GMT | Don’t Just Scan That QR Code: An Ethical Hacker’s Warning You Can’t Ignore | Vijay Kumar Gupta | [Read More](https://medium.com/p/e6ea562dc6dd) |
+| Thu, 28 Aug 2025 18:34:47 GMT | The Power of 2FA: Why Two-Factor Authentication Is No Longer Optional | SafeAeon Inc. | [Read More](https://medium.com/p/21258aa21064) |
+| Thu, 28 Aug 2025 18:29:55 GMT | From Generalist to Specialist: Fine-Tuning Gemini for Terraform Scans & Phishing Detection | Shimon Ben | [Read More](https://medium.com/p/ee6043816c37) |
+| Thu, 28 Aug 2025 18:28:33 GMT | THM - “TShark Challenge II: Directory” | Francesco Pastore | [Read More](https://medium.com/p/d24c73e49063) |
 | Thu, 28 Aug 2025 18:17:31 GMT | ¿Y si tu vida no es hacerte una carrera universitaria? | Jared | [Read More](https://medium.com/p/248cdc914383) |
 | Thu, 28 Aug 2025 18:05:11 GMT | Cybersécurité : tout comprendre et trouver son chemin | Johan Liebert | [Read More](https://medium.com/p/113b5f86417d) |
 | Thu, 28 Aug 2025 18:04:59 GMT | Uncovering a Sophisticated Banking Trojan: A Cybersecurity Case Study | LETCHU PKT | [Read More](https://medium.com/p/fc03e0cd9634) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 13:22:51 GMT | The Crime LAB -Cyberdefenders | Eagledefenders | [Read More](https://medium.com/p/323e4eb80e3a) |
 | Thu, 28 Aug 2025 13:22:26 GMT | The Anonymity Paradox: How Your “Secure” Browsing Habits Are Broadcasting Your Location | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3092e42e1ec2) |
 | Thu, 28 Aug 2025 13:21:58 GMT | 5 Reasons Mobile Patrol Security Improves Community Safety | Nimra Sheikh | [Read More](https://medium.com/p/6265996e27c3) |
-| Thu, 28 Aug 2025 13:20:02 GMT | Lancering IBgidsNL: het meest complete B2B cybersecurityplatform van Nederland | IBgidsNL | [Read More](https://medium.com/p/fcf3c4b06cee) |
-| Thu, 28 Aug 2025 13:19:37 GMT | How Mobile Patrol Security Protects Large Properties | Nimra Sheikh | [Read More](https://medium.com/p/305ae874e0ac) |
-| Thu, 28 Aug 2025 13:17:15 GMT | [AWS PENTEST] CloudGoat SNS Secrets Lab Walkthrough | baz00ka | [Read More](https://medium.com/p/22ede5f625fc) |
-| Thu, 28 Aug 2025 13:13:23 GMT | TryHackMe : Pickle Rick Walkthrough (CTF Writeup) | Nisa | [Read More](https://medium.com/p/b66ff28d4c07) |
-| Thu, 28 Aug 2025 13:12:10 GMT | Breaking APIs: vAPI lab walkthrough | Rachael Kivuti | [Read More](https://medium.com/p/a73cdc2a8892) |
-| Thu, 28 Aug 2025 13:10:57 GMT | Data Protection by Next Gen2AI | NextGen2AI | [Read More](https://medium.com/p/576a27564f0f) |
