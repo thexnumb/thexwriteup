@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 20:05:27 GMT | Digital Forensics: The Silent Weapon in Modern Criminal Investigations | DIVIJ NAYAK | [Read More](https://medium.com/p/20faed702009) |
+| Thu, 28 Aug 2025 20:04:49 GMT | OSINT Challenge— Writeup | Alwin Thomas | [Read More](https://medium.com/p/0cc8690d6d73) |
+| Thu, 28 Aug 2025 20:03:37 GMT | Cyber Security: Protecting the Digital World in 2025 | Ashvita Koli | [Read More](https://medium.com/p/d897230eca05) |
+| Thu, 28 Aug 2025 20:00:33 GMT | CitrixBleed 2.0: Over 28,000 Gateways at Risk in the Crosshairs of Exploitation | Pentestjunkie07 | [Read More](https://medium.com/p/ccf81c820d28) |
+| Thu, 28 Aug 2025 19:59:40 GMT | How AI Revolutionizes Access to Education | O Código Futuro | [Read More](https://medium.com/p/4e17bed74612) |
+| Thu, 28 Aug 2025 19:53:00 GMT | Vulnerability Analysis & Privilege Escalation Writeup: DVWA Command Injection | Mayank Kumar | [Read More](https://medium.com/p/15a065cd90a4) |
+| Thu, 28 Aug 2025 19:49:56 GMT | Practical Enumeration: SMB, SMTP, SNMP & Metasploit in Action | Mostafaahmed | [Read More](https://medium.com/p/6222356e5ffc) |
+| Thu, 28 Aug 2025 19:37:34 GMT | “How to Prepare for War — According to NATO” | Fabrizio Ras | [Read More](https://medium.com/p/97ba2d8c9ab7) |
+| Thu, 28 Aug 2025 19:33:54 GMT | Why Risk Management, Audit, Compliance, and Cybersecurity will be displaced by Artificial… | James Bone | [Read More](https://medium.com/p/68121e9cb26c) |
+| Thu, 28 Aug 2025 19:33:17 GMT | The Solution Arrived When I Stopped Forcing It | Sam Galope | [Read More](https://medium.com/p/64fa1465a5ca) |
 | Thu, 28 Aug 2025 19:26:04 GMT | Comunicado Oficial — Hubstry | Hubstry - Deep Tech IT Business Hub | [Read More](https://medium.com/p/647e8ba270df) |
 | Thu, 28 Aug 2025 19:23:03 GMT | Enumeration in Penetration Testing | Mohamed ibrahim fathy | [Read More](https://medium.com/p/862167b9ae6f) |
 | Thu, 28 Aug 2025 19:19:24 GMT | Comunicado Oficial — Hubstry | Hubstry - Deep Tech | [Read More](https://medium.com/p/ec9e69d8ac41) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 14:08:51 GMT | What is Data Exfiltration - Detection & Prevention Techniques | Anzenna | [Read More](https://medium.com/p/cc6cb60239ea) |
 | Thu, 28 Aug 2025 14:08:26 GMT | Zero Trust Solutions: Benefits and Top Tools | Blessing Mba | [Read More](https://medium.com/p/9c6fb0937f1c) |
 | Thu, 28 Aug 2025 14:01:50 GMT | Tame the Chaos: The only four Salesforce Permission sets you need! | Kenny K | [Read More](https://medium.com/p/e91480f744f7) |
-| Thu, 28 Aug 2025 14:01:50 GMT | My Next Chapter: Joining Carnegie Mellon University Africa! | KachiEngineers | [Read More](https://medium.com/p/4f7c39c6206d) |
-| Thu, 28 Aug 2025 14:01:49 GMT | Cry Baby, Cry | Kevin David Crowley | [Read More](https://medium.com/p/707474a62fc0) |
-| Thu, 28 Aug 2025 14:01:48 GMT | Cyber Briefing: 2025.08.28 | CyberMaterial | [Read More](https://medium.com/p/bfb2d86ebdc4) |
-| Thu, 28 Aug 2025 14:01:34 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) Part 3 | CyberSenpai | [Read More](https://medium.com/p/f441aaf28e40) |
-| Thu, 28 Aug 2025 14:01:06 GMT | Kubernetes v1.34 — GA Features You Shouldn’t Miss | Raihan Khan | [Read More](https://medium.com/p/b369e7d87658) |
-| Thu, 28 Aug 2025 13:57:37 GMT | VulnHub: Sar 1 Writeup | Psalm Endozo | [Read More](https://medium.com/p/e252321efe0e) |
-| Thu, 28 Aug 2025 13:57:35 GMT | The Lingering Shadow: How Childhood Trauma Stunts Adult Personality Development | kitty | [Read More](https://medium.com/p/a98754fdfc0f) |
-| Thu, 28 Aug 2025 13:56:17 GMT | From CSV Injection to Client-Side SSRF: A Real Bug Bounty Story | Huseyin | [Read More](https://medium.com/p/77af0bdc5b7a) |
-| Thu, 28 Aug 2025 13:54:43 GMT | Best Online Safety Programs to Protect Seniors’ Privacy | Senior Tech Basics | [Read More](https://medium.com/p/d88fb577072f) |
-| Thu, 28 Aug 2025 13:53:16 GMT | Syndika x Nethermind Security: Strengthening On-Chain Security and Driving Web3 Adoption | Syndika | [Read More](https://medium.com/p/fddb015a3683) |
