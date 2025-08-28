@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 18:17:31 GMT | ¿Y si tu vida no es hacerte una carrera universitaria? | Jared | [Read More](https://medium.com/p/248cdc914383) |
+| Thu, 28 Aug 2025 18:05:11 GMT | Cybersécurité : tout comprendre et trouver son chemin | Johan Liebert | [Read More](https://medium.com/p/113b5f86417d) |
+| Thu, 28 Aug 2025 18:04:59 GMT | Uncovering a Sophisticated Banking Trojan: A Cybersecurity Case Study | LETCHU PKT | [Read More](https://medium.com/p/fc03e0cd9634) |
+| Thu, 28 Aug 2025 18:02:43 GMT | Casser les idées reçues sur la cybersécurité | Johan Liebert | [Read More](https://medium.com/p/de09334cbcdb) |
+| Thu, 28 Aug 2025 17:52:26 GMT | “When Your Secret Recipe Is Stolen: Inside ExfilCola’s Data Extortion” Solving CTF Game Challenge | Waghaditi | [Read More](https://medium.com/p/7bc05bdcac2e) |
+| Thu, 28 Aug 2025 17:50:52 GMT | [CyberDefenders Write-up] GoldenSpray (Investigate password spray to RDP initial access… | Chicken0248 | [Read More](https://medium.com/p/373f437a17dd) |
+| Thu, 28 Aug 2025 17:49:11 GMT | From Shodan to SQLi: Hacking an Exposed Company Dashboard | Het Patel | [Read More](https://medium.com/p/0b66a37a54ea) |
+| Thu, 28 Aug 2025 17:47:36 GMT | The Ultimate waybackurls Playbook — Turn Digital Archaeology into Bug Bounty Gold | Pratham Shah | [Read More](https://medium.com/p/1b9e95167494) |
+| Thu, 28 Aug 2025 17:47:25 GMT | Generative AI is the New Shadow IT | Tola Bavery | [Read More](https://medium.com/p/23cf276b8f77) |
+| Thu, 28 Aug 2025 17:37:36 GMT | The SMB DevSecOps Playbook: A 12-Month Maturity Journey | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/5b3ba84f3559) |
 | Thu, 28 Aug 2025 17:27:37 GMT | My Internship Experience in Ethical Hacking: Learning to Secure the Digital World | Prajapati shashank | [Read More](https://medium.com/p/f8d8c54843ca) |
 | Thu, 28 Aug 2025 17:22:58 GMT | Mastering Routersploit: Step-by-Step Guide to Hacking Routers and IoT Devices | Very Lazy Tech | [Read More](https://medium.com/p/cab47031afd3) |
 | Thu, 28 Aug 2025 17:21:05 GMT | Cyber Pros Don’t Just Use Nmap or RustScan — Here’s What They Really Use | Rishabh Shrivastava | [Read More](https://medium.com/p/8c27cbd259a0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 13:13:23 GMT | TryHackMe : Pickle Rick Walkthrough (CTF Writeup) | Nisa | [Read More](https://medium.com/p/b66ff28d4c07) |
 | Thu, 28 Aug 2025 13:12:10 GMT | Breaking APIs: vAPI lab walkthrough | Rachael Kivuti | [Read More](https://medium.com/p/a73cdc2a8892) |
 | Thu, 28 Aug 2025 13:10:57 GMT | Data Protection by Next Gen2AI | NextGen2AI | [Read More](https://medium.com/p/576a27564f0f) |
-| Thu, 28 Aug 2025 13:10:50 GMT | Internship Diaries, DNS and TLS Handshake | Yusuf Eroglu | [Read More](https://medium.com/p/e266216883d0) |
-| Thu, 28 Aug 2025 13:06:16 GMT | Secure Prompt from Sensitive Data | Aylin Karaoglu | [Read More](https://medium.com/p/7a3f1664f9fa) |
-| Thu, 28 Aug 2025 13:06:00 GMT | How I Found a Hidden Discount Code for a $1,500 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/57207293bd50) |
-| Thu, 28 Aug 2025 13:03:38 GMT | The Day the People Pleaser in Me Died | Ella | [Read More](https://medium.com/p/4a45d5b95077) |
-| Thu, 28 Aug 2025 13:03:37 GMT | Types of ransomware | Chris Zhang | [Read More](https://medium.com/p/177f79bf3b0f) |
-| Thu, 28 Aug 2025 13:03:36 GMT | Security by Design | Gabi Deutner | [Read More](https://medium.com/p/7aef043c7ac2) |
-| Thu, 28 Aug 2025 12:53:32 GMT | How Security Impacts Sales and Marketing | Evgeny Ermakov | [Read More](https://medium.com/p/bb56445efb29) |
-| Thu, 28 Aug 2025 12:53:07 GMT | Building Multipart Requests in Kotlin for a Spring Boot REST API | Abdul Ahad | [Read More](https://medium.com/p/5203767904a6) |
-| Thu, 28 Aug 2025 12:48:58 GMT | Hassas Veriden Güvenli Prompta | Aylin Karaoglu | [Read More](https://medium.com/p/e9506e4653d9) |
-| Thu, 28 Aug 2025 12:40:53 GMT | I Am Now a Certified Red Team Analyst (CRTA) — My Journey with CyberWarFare Labs | Sidhartha | [Read More](https://medium.com/p/0845f47f7572) |
