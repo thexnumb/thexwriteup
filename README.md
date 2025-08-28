@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 19:26:04 GMT | Comunicado Oficial — Hubstry | Hubstry - Deep Tech IT Business Hub | [Read More](https://medium.com/p/647e8ba270df) |
+| Thu, 28 Aug 2025 19:23:03 GMT | Enumeration in Penetration Testing | Mohamed ibrahim fathy | [Read More](https://medium.com/p/862167b9ae6f) |
+| Thu, 28 Aug 2025 19:19:24 GMT | Comunicado Oficial — Hubstry | Hubstry - Deep Tech | [Read More](https://medium.com/p/ec9e69d8ac41) |
+| Thu, 28 Aug 2025 19:14:56 GMT | TryHackMe - Introduction to EDR - WriteUp | Axoloth | [Read More](https://medium.com/p/ba404914b321) |
+| Thu, 28 Aug 2025 19:13:02 GMT | Observing Plaintext vs Encrypted Traffic with Python and Wireshark — A Hands-On Lab | Gage A Olson | [Read More](https://medium.com/p/af007c3461a5) |
+| Thu, 28 Aug 2025 19:12:05 GMT | 6 Ways to Handle Authentication in Node.js | TechByRahmat | [Read More](https://medium.com/p/83c1f8837cdd) |
+| Thu, 28 Aug 2025 19:04:24 GMT | Smart Spending in Tech: How Cost-Effective IT Solutions Propel Business Growth | Teona | [Read More](https://medium.com/p/3176ddf1e4e3) |
 | Thu, 28 Aug 2025 19:00:19 GMT | 9 Ways to Attract Your Soul Tribe and Strengthen the Connection | Wilson Igbasi | [Read More](https://medium.com/p/9c726922a0e3) |
 | Thu, 28 Aug 2025 18:52:06 GMT | Filling the Cybersecurity Skills Gap | SafeAeon Inc. | [Read More](https://medium.com/p/7fbca645c7ac) |
 | Thu, 28 Aug 2025 18:47:12 GMT | TryHackMe - Vulnerabilities 101 Walkthrough | m0cha_ | [Read More](https://medium.com/p/54bd326c71e1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 13:56:17 GMT | From CSV Injection to Client-Side SSRF: A Real Bug Bounty Story | Huseyin | [Read More](https://medium.com/p/77af0bdc5b7a) |
 | Thu, 28 Aug 2025 13:54:43 GMT | Best Online Safety Programs to Protect Seniors’ Privacy | Senior Tech Basics | [Read More](https://medium.com/p/d88fb577072f) |
 | Thu, 28 Aug 2025 13:53:16 GMT | Syndika x Nethermind Security: Strengthening On-Chain Security and Driving Web3 Adoption | Syndika | [Read More](https://medium.com/p/fddb015a3683) |
-| Thu, 28 Aug 2025 13:53:05 GMT | Everyone’s a Builder Now: The New Literacy of Curating Agents | Josh Cunningham | [Read More](https://medium.com/p/f06a6a4561dc) |
-| Thu, 28 Aug 2025 13:46:17 GMT | The AI Cold War: Inside the Global Battle for Digital Supremacy | vydhi | [Read More](https://medium.com/p/e82f185a8b68) |
-| Thu, 28 Aug 2025 13:37:26 GMT | Why Every Beginner in Cybersecurity Needs to Learn How to Break Things | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/36e6ce96e03d) |
-| Thu, 28 Aug 2025 13:31:40 GMT | Skip the Fluff: Cybersecurity Skills That Actually Get You Hired | Kumar Mohit | [Read More](https://medium.com/p/f58aada70ea9) |
-| Thu, 28 Aug 2025 13:27:52 GMT | Why Managed Detection & Response (MDR) is the Top Priority for U.S. Businesses | IT_Engineer | [Read More](https://medium.com/p/e83a4dccf263) |
-| Thu, 28 Aug 2025 13:22:55 GMT | Why Mobile Patrol Security is Essential for Business Safety | Nimra Sheikh | [Read More](https://medium.com/p/336f5c47a727) |
-| Thu, 28 Aug 2025 13:22:51 GMT | The Crime LAB -Cyberdefenders | Eagledefenders | [Read More](https://medium.com/p/323e4eb80e3a) |
