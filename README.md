@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 14:15:35 GMT | The 3 OSINT Tricks That Will Find Anyone Online | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d0fabfe1e7c1) |
+| Thu, 28 Aug 2025 14:13:43 GMT | The Great Tech Reversal: Why Computer Science Graduates Are Facing the Worst Job Market in Decades. | The AI Solopreneur | [Read More](https://medium.com/p/a70eaae8e777) |
+| Thu, 28 Aug 2025 14:11:43 GMT | Bug Bounty from Africa: A Complete Newbie’s Step‑by‑Step Guide | Isaac Simeon | [Read More](https://medium.com/p/73bbcd4b404f) |
+| Thu, 28 Aug 2025 14:11:36 GMT | The Hidden Dangers of Social Engineering | Amanoy | [Read More](https://medium.com/p/9c20145e195a) |
+| Thu, 28 Aug 2025 14:11:21 GMT | DevSecOps as a Compliance Accelerator for Small and Medium Organizations | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/2b9bebdbecd3) |
+| Thu, 28 Aug 2025 14:09:18 GMT | Cyber Security Services by L4RG.COM: Protecting Businesses in the Digital Age | Karthik E | [Read More](https://medium.com/p/c8e7ab42f0f0) |
+| Thu, 28 Aug 2025 14:08:51 GMT | What is Data Exfiltration - Detection & Prevention Techniques | Anzenna | [Read More](https://medium.com/p/cc6cb60239ea) |
+| Thu, 28 Aug 2025 14:08:26 GMT | Zero Trust Solutions: Benefits and Top Tools | Blessing Mba | [Read More](https://medium.com/p/9c6fb0937f1c) |
+| Thu, 28 Aug 2025 14:01:50 GMT | Tame the Chaos: The only four Salesforce Permission sets you need! | Kenny K | [Read More](https://medium.com/p/e91480f744f7) |
+| Thu, 28 Aug 2025 14:01:50 GMT | My Next Chapter: Joining Carnegie Mellon University Africa! | KachiEngineers | [Read More](https://medium.com/p/4f7c39c6206d) |
+| Thu, 28 Aug 2025 14:01:49 GMT | Cry Baby, Cry | Kevin David Crowley | [Read More](https://medium.com/p/707474a62fc0) |
+| Thu, 28 Aug 2025 14:01:48 GMT | Cyber Briefing: 2025.08.28 | CyberMaterial | [Read More](https://medium.com/p/bfb2d86ebdc4) |
+| Thu, 28 Aug 2025 14:01:34 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) Part 3 | CyberSenpai | [Read More](https://medium.com/p/f441aaf28e40) |
+| Thu, 28 Aug 2025 14:01:06 GMT | Kubernetes v1.34 — GA Features You Shouldn’t Miss | Raihan Khan | [Read More](https://medium.com/p/b369e7d87658) |
+| Thu, 28 Aug 2025 13:57:37 GMT | VulnHub: Sar 1 Writeup | Psalm Endozo | [Read More](https://medium.com/p/e252321efe0e) |
+| Thu, 28 Aug 2025 13:57:35 GMT | The Lingering Shadow: How Childhood Trauma Stunts Adult Personality Development | kitty | [Read More](https://medium.com/p/a98754fdfc0f) |
+| Thu, 28 Aug 2025 13:56:17 GMT | From CSV Injection to Client-Side SSRF: A Real Bug Bounty Story | Huseyin | [Read More](https://medium.com/p/77af0bdc5b7a) |
+| Thu, 28 Aug 2025 13:54:43 GMT | Best Online Safety Programs to Protect Seniors’ Privacy | Senior Tech Basics | [Read More](https://medium.com/p/d88fb577072f) |
+| Thu, 28 Aug 2025 13:53:16 GMT | Syndika x Nethermind Security: Strengthening On-Chain Security and Driving Web3 Adoption | Syndika | [Read More](https://medium.com/p/fddb015a3683) |
+| Thu, 28 Aug 2025 13:53:05 GMT | Everyone’s a Builder Now: The New Literacy of Curating Agents | Josh Cunningham | [Read More](https://medium.com/p/f06a6a4561dc) |
 | Thu, 28 Aug 2025 13:46:17 GMT | The AI Cold War: Inside the Global Battle for Digital Supremacy | vydhi | [Read More](https://medium.com/p/e82f185a8b68) |
 | Thu, 28 Aug 2025 13:37:26 GMT | Why Every Beginner in Cybersecurity Needs to Learn How to Break Things | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/36e6ce96e03d) |
 | Thu, 28 Aug 2025 13:31:40 GMT | Skip the Fluff: Cybersecurity Skills That Actually Get You Hired | Kumar Mohit | [Read More](https://medium.com/p/f58aada70ea9) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 10:01:41 GMT | Product Review : ViceVersa IMAP Backup & Restore Tool | Avery Scottish | [Read More](https://medium.com/p/d5663d0496ac) |
 | Thu, 28 Aug 2025 09:56:13 GMT | 7 Security Tips Most People Are Not Using | Muhammad Haider Tallal | [Read More](https://medium.com/p/7d6eaae9df99) |
 | Thu, 28 Aug 2025 09:53:08 GMT | Why Spy Apps for Parental Control Are a Staple in Modern Parenting | Narjis Batool | [Read More](https://medium.com/p/fffadd07ab2b) |
-| Thu, 28 Aug 2025 09:50:21 GMT | ️ Haunted APIs: How Hackers Exploit the Endpoints Developers Forget | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58572ee57dc8) |
-| Thu, 28 Aug 2025 09:49:41 GMT | Unlimited Sharing: Safely Share Passwords and Files with All Pass Hub | Password Manager | [Read More](https://medium.com/p/287d68834b52) |
-| Thu, 28 Aug 2025 09:48:56 GMT | The Real Cost of a Cyber Breach: What Every CEO Should Know | Jay C Roberts | [Read More](https://medium.com/p/aa0dbdd231fb) |
-| Thu, 28 Aug 2025 09:47:45 GMT | Ensuring Quality with Agile Testing & QA Best Practices | Bhavesh Rajpurohit | [Read More](https://medium.com/p/14a7c71dbad5) |
-| Thu, 28 Aug 2025 09:46:44 GMT | From Alias to Attribution: An Analyst’s Guide to Dark Web Threat Actor Profiling | Matt Black | [Read More](https://medium.com/p/fcd5561ce442) |
-| Thu, 28 Aug 2025 09:42:38 GMT | How to Actually Learn Hacking in 2025–26: The Ultimate Practical Guide | RootXploit.0x | [Read More](https://medium.com/p/8e978be5bd1c) |
-| Thu, 28 Aug 2025 09:40:03 GMT | DockerLabs Writeup — ChocolateLovers (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c203c209bb09) |
-| Thu, 28 Aug 2025 09:33:48 GMT | GRC System Hacks: 7 Ways to Cut Risk Without Killing Your Budget | SecureSlate | [Read More](https://medium.com/p/760f0d7f5df7) |
-| Thu, 28 Aug 2025 09:32:31 GMT | Why “Hacktivism” Isn’t the Hero Story You Think It Is | Aj | [Read More](https://medium.com/p/7afa67bd5e50) |
-| Thu, 28 Aug 2025 09:27:54 GMT | Top 5 Common PCI DSS Pitfalls and How to Avoid Them | Abdullateef Hameed | [Read More](https://medium.com/p/93c5f8f93c63) |
-| Thu, 28 Aug 2025 09:26:41 GMT | What to Expect When You Outsource SOC? | Sunder Singh | [Read More](https://medium.com/p/dbb92567b753) |
-| Thu, 28 Aug 2025 09:24:44 GMT | Top 10 Web Application Development Companies in USA 2025 | Saurav Panda | [Read More](https://medium.com/p/2a31dd5306c0) |
-| Thu, 28 Aug 2025 09:21:05 GMT | Ghost Endpoints: The Secret Doors Hackers Use That You Don’t Know Exist | Narendar Battula (nArEn) | [Read More](https://medium.com/p/3906b927498c) |
-| Thu, 28 Aug 2025 09:18:26 GMT | Security Issues - Vulnerabilities Found in Sitecore 10.3.2 during PEN Testing | Abhinav kumar Singh | [Read More](https://medium.com/p/5f698c538a5f) |
-| Thu, 28 Aug 2025 09:17:44 GMT | The Pentesting Methodology: From Reconnaissance to Reporting — A Complete Guide | Redfox Security | [Read More](https://medium.com/p/433b83205269) |
-| Thu, 28 Aug 2025 09:13:45 GMT | Artificial Intelligence For Cybersecurity Applications | Sandalu Karunasena | [Read More](https://medium.com/p/9e689587fcdc) |
-| Thu, 28 Aug 2025 09:08:04 GMT | Broken Authentication in React: Fixes with Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/5a8948c59da6) |
-| Thu, 28 Aug 2025 09:06:44 GMT | Why Your Brain Cringes at Stupid Questions | OopsLog | [Read More](https://medium.com/p/431ebc2bf87e) |
-| Thu, 28 Aug 2025 09:01:49 GMT | SafeLine is a Beautiful Open Source WAF for your Web App | Maverick Steel | [Read More](https://medium.com/p/ff72ac6ded96) |
-| Thu, 28 Aug 2025 09:01:35 GMT | The Day Theory Met Reality: Applying Cybersecurity Books to Real-World Hacks | Shahzaib | [Read More](https://medium.com/p/d5af7aba4d3e) |
