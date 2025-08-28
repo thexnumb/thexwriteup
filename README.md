@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 04:34:34 GMT | Penetration Testing Services for Compliance and Regulations-- Pentesting Provider In Australia | QualysecEurope | [Read More](https://medium.com/p/66cd83f36e32) |
+| Thu, 28 Aug 2025 04:26:03 GMT | Pentesting Interno: Máquinas de usuarios | Walter Cuestas | [Read More](https://medium.com/p/8523e4e01749) |
+| Thu, 28 Aug 2025 04:26:02 GMT | Will AI Replace Mobile Developers? | Chirag Prajapati | [Read More](https://medium.com/p/2514040d75da) |
 | Thu, 28 Aug 2025 04:00:04 GMT | Cybersecurity OEMs & The New Why Cybersecurity Is About People First, Technology Second | Dr. Deep Pandey | [Read More](https://medium.com/p/f85606a26264) |
 | Thu, 28 Aug 2025 03:57:34 GMT | Critical Alert: Zero-Day Exploits Target Apple Users While AI Security Faces New Bypass Threats | Akshat Ratanpal | [Read More](https://medium.com/p/70203759a8f6) |
 | Thu, 28 Aug 2025 03:45:30 GMT | CVE Alert: SQL Injection in Yonyou GRP-U8 — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/4a6e3b9df462) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 19:02:45 GMT | Book review -Deming’s Journey to Profound Knowledge — How Deming Helped Win a War, Altered the… | Maciej Jarosz | [Read More](https://medium.com/p/f7701e31b639) |
 | Wed, 27 Aug 2025 19:00:48 GMT | End-to-End Wazuh Lab: Installing Manager and Agents for Attacker-Victim Simulation | Jubin Varghese | [Read More](https://medium.com/p/83fcc7b2e569) |
 | Wed, 27 Aug 2025 18:51:29 GMT | The AI ‘quasi-creature’ problem | Berend Watchus | [Read More](https://medium.com/p/7b46f36e42af) |
-| Wed, 27 Aug 2025 18:47:06 GMT | Why Data Backup Is Still the Weak Link in 2025: Lessons From Breached Companies | VastEdge Inc. | [Read More](https://medium.com/p/5904b5ebb573) |
-| Wed, 27 Aug 2025 18:41:13 GMT | TryHackMe MalDoc:Static Analysis — Walkthrough (Step-by-Step) ⤵ | Furkanctiner | [Read More](https://medium.com/p/e78af9f7503c) |
-| Wed, 27 Aug 2025 18:35:27 GMT | How to Sign Out of All Devices on Disney Plus | www.OneCoolTip.com | [Read More](https://medium.com/p/9250563d05c0) |
