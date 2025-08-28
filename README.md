@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 11:30:39 GMT | Security Hardening - How to Secure Sitecore XP and XP Platfrom | Abhinav kumar Singh | [Read More](https://medium.com/p/ca5fa62a793f) |
+| Thu, 28 Aug 2025 11:23:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/dd155b0d7442) |
+| Thu, 28 Aug 2025 11:22:18 GMT | Continuous Threat Exposure Management (CTEM): A New Security Framework | Cybersecurity Umbrella | [Read More](https://medium.com/p/9ac515c9c1a0) |
+| Thu, 28 Aug 2025 11:21:33 GMT | Workday Falls Victim to Social Engineering: A Stark Reminder About Human Risk | Brittney Ginther | [Read More](https://medium.com/p/01d3de492284) |
+| Thu, 28 Aug 2025 11:20:24 GMT | The Detective’s Verdict: When a Community’s Only Product is Exit Liquidity | Crypto Submarine | [Read More](https://medium.com/p/9938d271ca1e) |
 | Thu, 28 Aug 2025 11:12:08 GMT | Open Redirect Vulnerability in SSO API | Ehtesham Ul Haq | [Read More](https://medium.com/p/ed1ef7db2b04) |
 | Thu, 28 Aug 2025 11:11:59 GMT | Cyber Security Governance: Guarding Trust in the Digital Age | John Davies | [Read More](https://medium.com/p/8950d3cddc2b) |
+| Thu, 28 Aug 2025 11:11:01 GMT | My Journey as a Security Analyst Intern: Lessons, Challenges, and Growth | NIral | [Read More](https://medium.com/p/8068db03f407) |
+| Thu, 28 Aug 2025 11:10:06 GMT | Exploiting Vulnerabilities in LLM APIs | Aditya Bhatt | [Read More](https://medium.com/p/3a0283e31da9) |
 | Thu, 28 Aug 2025 11:07:10 GMT | Kirill Firsov Explains How Present Disruption Builds Future Security | kirill Firsov | [Read More](https://medium.com/p/4a21dddc2c60) |
 | Thu, 28 Aug 2025 11:01:35 GMT | Beyond Code | logcratic | [Read More](https://medium.com/p/50cc2e5a868b) |
 | Thu, 28 Aug 2025 10:59:34 GMT | Cross-Site Scripting | Nisithwalpola | [Read More](https://medium.com/p/5bd920e7cd02) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 07:12:37 GMT | Inside a Red Team Op: The 72 Hours Before We “Stole” the CEO’s Data | Aj | [Read More](https://medium.com/p/eee5fdec020e) |
 | Thu, 28 Aug 2025 07:12:29 GMT | ️ 15 Open-Source Security Tools I Use Every Week as a Cyber Analyst | Rue | [Read More](https://medium.com/p/89918ade2a44) |
 | Thu, 28 Aug 2025 07:12:22 GMT | Why Do Hackers Use Kali Linux? | Shahzaib | [Read More](https://medium.com/p/2580f567b291) |
-| Thu, 28 Aug 2025 07:12:16 GMT | The Hacker’s Favorite Weapon Isn’t Code — It’s Your Mind | vydhi | [Read More](https://medium.com/p/3a3672a2c708) |
-| Thu, 28 Aug 2025 07:10:26 GMT | Best Field Force Management Software in India - Field Automation App | Gowthammathiew | [Read More](https://medium.com/p/efd0a46a8749) |
-| Thu, 28 Aug 2025 07:08:29 GMT | Login Brute Force With Selenium #2 | Francesco Pastore | [Read More](https://medium.com/p/bea90a8f6813) |
-| Thu, 28 Aug 2025 07:02:10 GMT | Why Ethical Hacking is a Good Career Option in 2025? | cyber security Updates | [Read More](https://medium.com/p/81664abec883) |
-| Thu, 28 Aug 2025 07:02:08 GMT | Sensitive Data Discovery: Secure Your Information with the Right Tools | DbVisualizer | [Read More](https://medium.com/p/3f4613978455) |
-| Thu, 28 Aug 2025 06:59:59 GMT | VulnHub: Hack Me Please | Psalm Endozo | [Read More](https://medium.com/p/4f6eaab695cd) |
-| Thu, 28 Aug 2025 06:51:34 GMT | Top 5 HP Mobile Phones in 2025 - Smart, Stylish & AI-Powered | PicknReviews | [Read More](https://medium.com/p/557121dac921) |
