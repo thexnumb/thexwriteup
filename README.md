@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 19:00:19 GMT | 9 Ways to Attract Your Soul Tribe and Strengthen the Connection | Wilson Igbasi | [Read More](https://medium.com/p/9c726922a0e3) |
+| Thu, 28 Aug 2025 18:52:06 GMT | Filling the Cybersecurity Skills Gap | SafeAeon Inc. | [Read More](https://medium.com/p/7fbca645c7ac) |
 | Thu, 28 Aug 2025 18:47:12 GMT | TryHackMe - Vulnerabilities 101 Walkthrough | m0cha_ | [Read More](https://medium.com/p/54bd326c71e1) |
 | Thu, 28 Aug 2025 18:45:35 GMT | Understanding OWASP: Managing the Risks in Web Application Security | SafeAeon Inc. | [Read More](https://medium.com/p/e92903ed1c87) |
 | Thu, 28 Aug 2025 18:43:43 GMT | Don’t Just Scan That QR Code: An Ethical Hacker’s Warning You Can’t Ignore | Vijay Kumar Gupta | [Read More](https://medium.com/p/e6ea562dc6dd) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 13:27:52 GMT | Why Managed Detection & Response (MDR) is the Top Priority for U.S. Businesses | IT_Engineer | [Read More](https://medium.com/p/e83a4dccf263) |
 | Thu, 28 Aug 2025 13:22:55 GMT | Why Mobile Patrol Security is Essential for Business Safety | Nimra Sheikh | [Read More](https://medium.com/p/336f5c47a727) |
 | Thu, 28 Aug 2025 13:22:51 GMT | The Crime LAB -Cyberdefenders | Eagledefenders | [Read More](https://medium.com/p/323e4eb80e3a) |
-| Thu, 28 Aug 2025 13:22:26 GMT | The Anonymity Paradox: How Your “Secure” Browsing Habits Are Broadcasting Your Location | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3092e42e1ec2) |
-| Thu, 28 Aug 2025 13:21:58 GMT | 5 Reasons Mobile Patrol Security Improves Community Safety | Nimra Sheikh | [Read More](https://medium.com/p/6265996e27c3) |
