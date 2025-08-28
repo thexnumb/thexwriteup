@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 03:45:30 GMT | CVE Alert: SQL Injection in Yonyou GRP-U8 — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/4a6e3b9df462) |
+| Thu, 28 Aug 2025 03:31:36 GMT | The Rise of Crypto24: Ransomware That Blinds Your Defenses Before Striking | Deven Chhajed | [Read More](https://medium.com/p/6762d5e4a7f1) |
+| Thu, 28 Aug 2025 03:28:47 GMT | The Hidden Truth About DevSecOps Jobs: What 47 Job Postings Revealed About This $219K Career Path | Afolabi Abigeal | [Read More](https://medium.com/p/a7f12b4542b0) |
+| Thu, 28 Aug 2025 03:28:38 GMT | Circles of Trust and the Gossip Problem | Christopher Blanco | [Read More](https://medium.com/p/4d30b7564067) |
+| Thu, 28 Aug 2025 03:27:27 GMT | Understanding Zigbee: How Smart Devices Talk to Each Other | Brian Okinyi | [Read More](https://medium.com/p/f2f7ec03062e) |
+| Thu, 28 Aug 2025 03:25:19 GMT | Beyond Containers: How Serverless Containers and MicroVMs Are Redefining Isolation | Gopi Chinnappa | [Read More](https://medium.com/p/7673d8790169) |
+| Thu, 28 Aug 2025 03:20:11 GMT | Weak OAuth, Big Problem: Grafana Login Bypass Explained | TEAM DH49 | [Read More](https://medium.com/p/ee078ad6aa27) |
+| Thu, 28 Aug 2025 03:14:59 GMT | Kubernetes 1.34: Of Wind & Will (O’ WaW) | ketan jani | [Read More](https://medium.com/p/6270fa552755) |
+| Thu, 28 Aug 2025 03:12:35 GMT | Being a Bridge Builder (Part I) | Maria Keckler, Ph.D. | [Read More](https://medium.com/p/2ae155251756) |
+| Thu, 28 Aug 2025 03:12:14 GMT | Cyber Nerd Surf: Log 01- Encryption | Apurva Cybersecurity | [Read More](https://medium.com/p/7c9f08fed3d6) |
 | Thu, 28 Aug 2025 02:59:24 GMT | Neuromorphic Attacks: When Hackers Target Brain-Like Computers | Chhavilodhi | [Read More](https://medium.com/p/56319a0ccee6) |
 | Thu, 28 Aug 2025 02:52:26 GMT | CAT Reloaded CTF 2025 DFIR writeup | 0xZew | [Read More](https://medium.com/p/43a5f405a660) |
 | Thu, 28 Aug 2025 02:47:34 GMT | Go Microservices Security: 7 Best Practices You Can’t Ignore | Concurrent Mind | [Read More](https://medium.com/p/45e32b4df90d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 18:35:27 GMT | How to Sign Out of All Devices on Disney Plus | www.OneCoolTip.com | [Read More](https://medium.com/p/9250563d05c0) |
 | Wed, 27 Aug 2025 18:32:19 GMT | How OAuth Device Flow Attacks Bypassed MFA: What the 2024–2025 Wave Means for Enterprise Security | Deepak Gupta | [Read More](https://medium.com/p/67d64ad6f04b) |
 | Wed, 27 Aug 2025 18:31:33 GMT | Zero Trust Isn’t Just a Slogan | Roshinni Gandhi | [Read More](https://medium.com/p/25c0ce28b844) |
-| Wed, 27 Aug 2025 18:24:27 GMT | My Journey Through the “Cyber Crime Investigation Course” | Nimit Ahir | [Read More](https://medium.com/p/d1319ebee996) |
-| Wed, 27 Aug 2025 18:23:51 GMT | Demystifying AWS IAM: A Guide to the Principle of Least Privilege | Alan Joseph Abraham | [Read More](https://medium.com/p/f66f763c62d9) |
-| Wed, 27 Aug 2025 17:53:55 GMT | it’s enough | Cinse Bonino | [Read More](https://medium.com/p/c8293fb2bd37) |
-| Wed, 27 Aug 2025 17:52:40 GMT | Reconnaissance Mission: How to Gather Intel Before Hacking a Wi-Fi Network [Lab 2] | Biplove Yadav | [Read More](https://medium.com/p/5e1fd7c5fae7) |
-| Wed, 27 Aug 2025 17:47:57 GMT | 127.0.0.1 Isn’t Just Localhost: The Secret Network Inside Your Computer | Dayakumar | [Read More](https://medium.com/p/90c786826856) |
-| Wed, 27 Aug 2025 17:47:28 GMT | ExtraHop Reveal(x) Demo Write Up — V1 | Bob Malin | [Read More](https://medium.com/p/f513231dfe59) |
-| Wed, 27 Aug 2025 17:46:26 GMT | What if we improve the way developers are given access to databases | Thierry Feuzeu | [Read More](https://medium.com/p/64cd7e2bef56) |
-| Wed, 27 Aug 2025 17:43:04 GMT | 5 Common Cybersecurity Mistakes and How to Avoid Them | Freya Andersen | [Read More](https://medium.com/p/6436d2e953b3) |
-| Wed, 27 Aug 2025 17:41:38 GMT | Phishing Explained: How to Spot and Avoid Online Scams | VS Writes | [Read More](https://medium.com/p/2418d80947c4) |
-| Wed, 27 Aug 2025 17:40:24 GMT | The Evolving Threat of Image-Based Malware, You need a solution. | FALCONS.AI | [Read More](https://medium.com/p/9c19f181de92) |
