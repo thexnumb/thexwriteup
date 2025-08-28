@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Thu, 28 Aug 2025 23:06:44 GMT | From Schema to $teal: GraphQL Fuzzing & IDOR in Action | Zurab Akhvlediani | [Read More](https://medium.com/p/d817cb06bd83) |
+| Thu, 28 Aug 2025 23:06:06 GMT | The Ethical Imperative of AI: Why Tech Strategists and Project Managers Must Prioritize… | CCL Montante | [Read More](https://medium.com/p/dd9bb1417686) |
 | Thu, 28 Aug 2025 23:03:22 GMT | #6th for MetaCTF August 2025 | Jonathan Garcia | [Read More](https://medium.com/p/42a19559f28c) |
 | Thu, 28 Aug 2025 22:54:31 GMT | Unpacking the Mechanisms: How Drosera Protects DeFi. | Roman Lucien | [Read More](https://medium.com/p/fc246180e51d) |
 | Thu, 28 Aug 2025 22:54:10 GMT | Why Program Managers Should Learn the Language of Data and Security | Maria Beckles | [Read More](https://medium.com/p/0b3a0324fed1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 15:49:05 GMT | Safety vs security in OT | ThatOTSecurityGuy | [Read More](https://medium.com/p/3c0576d449e5) |
 | Thu, 28 Aug 2025 15:44:41 GMT | Detect insider threats in real-time using AI-driven access log analytics for smarter, safer… | Shradhdha Bhalodia | [Read More](https://medium.com/p/680336e3a821) |
 | Thu, 28 Aug 2025 15:39:45 GMT | Why Rust Is Gaining Ground in Zero-Trust Systems: From Software to Hardware/Software Co-Assurance | Zoexu | [Read More](https://medium.com/p/43b72da1680c) |
-| Thu, 28 Aug 2025 15:29:06 GMT | “What Remains Without Love?”: | Claus Nisslmüller UX & Brand Designer | [Read More](https://medium.com/p/e422f953ef13) |
