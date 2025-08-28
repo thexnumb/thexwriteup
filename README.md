@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 11:12:08 GMT | Open Redirect Vulnerability in SSO API | Ehtesham Ul Haq | [Read More](https://medium.com/p/ed1ef7db2b04) |
+| Thu, 28 Aug 2025 11:11:59 GMT | Cyber Security Governance: Guarding Trust in the Digital Age | John Davies | [Read More](https://medium.com/p/8950d3cddc2b) |
+| Thu, 28 Aug 2025 11:07:10 GMT | Kirill Firsov Explains How Present Disruption Builds Future Security | kirill Firsov | [Read More](https://medium.com/p/4a21dddc2c60) |
+| Thu, 28 Aug 2025 11:01:35 GMT | Beyond Code | logcratic | [Read More](https://medium.com/p/50cc2e5a868b) |
+| Thu, 28 Aug 2025 10:59:34 GMT | Cross-Site Scripting | Nisithwalpola | [Read More](https://medium.com/p/5bd920e7cd02) |
+| Thu, 28 Aug 2025 10:54:13 GMT | Citrix at the Edge: Why the Latest NetScaler Zero-Days Matter — and Who’s Actively Exploiting Them | Yua Mikanana | [Read More](https://medium.com/p/03d11d4324f4) |
+| Thu, 28 Aug 2025 10:51:19 GMT | The Impending Economic Crash in India | Seshadri Kumar | [Read More](https://medium.com/p/326b8de36181) |
+| Thu, 28 Aug 2025 10:49:48 GMT | Mothers Against Cyber Crime: Protecting Kids from Online Dangers in the Digital Age | Savvy Cyber Kids | [Read More](https://medium.com/p/c87442ae27d6) |
+| Thu, 28 Aug 2025 10:49:25 GMT | Navigating the AI World: Tips for Kids to Stay Safe and Smart Online | Savvy Cyber Kids | [Read More](https://medium.com/p/a719364b6f3b) |
+| Thu, 28 Aug 2025 10:49:14 GMT | How to Teach Your Child to Identify Fact from Fiction | Savvy Cyber Kids | [Read More](https://medium.com/p/1e24dc60d9f2) |
+| Thu, 28 Aug 2025 10:49:13 GMT | HTB Escape Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/0a232ee2c991) |
+| Thu, 28 Aug 2025 10:47:22 GMT | Jargon-free guide to security compliance | Wiran Larbi | [Read More](https://medium.com/p/43d342a3e750) |
+| Thu, 28 Aug 2025 10:46:09 GMT | Automation in digital security operations | Nagaraj | [Read More](https://medium.com/p/956c9d07dd13) |
+| Thu, 28 Aug 2025 10:40:18 GMT | You wanna be a hacker in 2025/2026 | Nasir Pratt | [Read More](https://medium.com/p/05ddb5cca9b7) |
+| Thu, 28 Aug 2025 10:39:48 GMT | TryHackMe: Compiled Walkthrough — Reverse Engineering Made Easy | Furkanctiner | [Read More](https://medium.com/p/9368f59404e3) |
 | Thu, 28 Aug 2025 10:37:04 GMT | Privacy-First Local Anonymization Models: Protecting Personal Information Before Data Leaves Your… | AI Engineering | [Read More](https://medium.com/p/ef2dbb25e6d1) |
 | Thu, 28 Aug 2025 10:35:45 GMT | Phishing Attack Using Captchas…! How They Can Land You in Trouble | Xaar The Educator | [Read More](https://medium.com/p/935d733ae9d2) |
 | Thu, 28 Aug 2025 10:26:57 GMT | TryHackMe PT Study Notes (Unofficial) | Motasem Hamdan | [Read More](https://medium.com/p/e433376da8a0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 07:02:08 GMT | Sensitive Data Discovery: Secure Your Information with the Right Tools | DbVisualizer | [Read More](https://medium.com/p/3f4613978455) |
 | Thu, 28 Aug 2025 06:59:59 GMT | VulnHub: Hack Me Please | Psalm Endozo | [Read More](https://medium.com/p/4f6eaab695cd) |
 | Thu, 28 Aug 2025 06:51:34 GMT | Top 5 HP Mobile Phones in 2025 - Smart, Stylish & AI-Powered | PicknReviews | [Read More](https://medium.com/p/557121dac921) |
-| Thu, 28 Aug 2025 06:50:44 GMT | 5 Questions Every CEO Should Ask Before Investing in a CRM | Erpone | [Read More](https://medium.com/p/21d6f1b39cb0) |
-| Thu, 28 Aug 2025 06:49:12 GMT | The Day I Disassembled and Froze an AirTag | Michikusa-Log | [Read More](https://medium.com/p/3322a37c4c16) |
-| Thu, 28 Aug 2025 06:47:35 GMT | Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas | Gorka | [Read More](https://medium.com/p/52ede8b6bc4a) |
-| Thu, 28 Aug 2025 06:45:37 GMT | Hacking by Breaking: The Dark Art of Error Fuzzing | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e05f5722fac1) |
-| Thu, 28 Aug 2025 06:45:03 GMT | Akıllı Alarm Sensörleri: Dijital Çağın Güvenlik Çözümleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/b735ef02edae) |
-| Thu, 28 Aug 2025 06:34:05 GMT | Unarmed Security Guards vs. Armed Guards: Which Is Right for Your Office? | Pinki Chauhan | [Read More](https://medium.com/p/e61102a01ed7) |
-| Thu, 28 Aug 2025 06:27:46 GMT | Castles in the Cloud: Building a Truly Secure Infrastructure in 2025 | DJH4CK3R | [Read More](https://medium.com/p/0dbd063ad30b) |
-| Thu, 28 Aug 2025 06:27:38 GMT | Shadows in the Server Room: An IT Security Audit That Changed Everything | DJH4CK3R | [Read More](https://medium.com/p/b080d99e5911) |
-| Thu, 28 Aug 2025 06:26:30 GMT | The Hunter’s Diary: A Bug Bounty Journey from Curiosity to Critical Hit | DJH4CK3R | [Read More](https://medium.com/p/f3c4900f225b) |
-| Thu, 28 Aug 2025 06:22:18 GMT | ⚡ One Click to Chaos: How I Chained CSRF with Open Redirects for Account Takeover | Iski | [Read More](https://medium.com/p/fd9d5d753402) |
-| Thu, 28 Aug 2025 06:14:47 GMT | Internet Operations Management By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9b672b135795) |
-| Thu, 28 Aug 2025 06:09:49 GMT | Israel Lands Helicopters in Damascus | Everclear | [Read More](https://medium.com/p/829aaa772db7) |
-| Thu, 28 Aug 2025 06:01:55 GMT | Tiktok Hack - Tips - 2025 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/d8e4a5d3a46e) |
-| Thu, 28 Aug 2025 06:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Aug 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f237120d803d) |
-| Thu, 28 Aug 2025 05:58:38 GMT | The First Crack:  How Exploits Actually Work | Raj Islam | [Read More](https://medium.com/p/d8eeb5879176) |
