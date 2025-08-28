@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 22:11:20 GMT | Automating Credential Stuffing Attacks with Burp Suite Intruder | Appsec.pt | [Read More](https://medium.com/p/3aa74cf0c2d1) |
+| Thu, 28 Aug 2025 21:58:21 GMT | Why Simple Golang Shellcode Loaders Still Slip Past Windows Defender in 2025 | Yua Mikanana | [Read More](https://medium.com/p/e632503811c3) |
+| Thu, 28 Aug 2025 21:52:55 GMT | Entering the Dark Era of AI Powered Cyber Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/8065d34ce50a) |
+| Thu, 28 Aug 2025 21:48:50 GMT | Access control vulnerabilities - Unprotected admin functionality - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/2cda070b1f49) |
+| Thu, 28 Aug 2025 21:48:21 GMT | Write-Ups III ✫・*。━━(◕ ᴗ◕✿) | stphxy | [Read More](https://medium.com/p/c7a650443549) |
+| Thu, 28 Aug 2025 21:47:31 GMT | Authentication vulnerabilities - 2FA Broken Logic - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/9650c34ec278) |
+| Thu, 28 Aug 2025 21:42:34 GMT | Why Digital Minimalism is Good for Security | Paschal Ogana | [Read More](https://medium.com/p/8124a6597c8d) |
+| Thu, 28 Aug 2025 21:37:48 GMT | Ethical Hacking Essentials — EHE (EC Council) | Franklin Rhodes | [Read More](https://medium.com/p/8e51f1b088d3) |
 | Thu, 28 Aug 2025 21:28:36 GMT | Maximizing Returns: BUG $BUG Growth Strategy in 2025 | BUG | [Read More](https://medium.com/p/2dc9fde11bec) |
 | Thu, 28 Aug 2025 21:18:09 GMT | Injection (OWASP Top 10 #3) — Simplified | Chai | [Read More](https://medium.com/p/42bf04981a1a) |
 | Thu, 28 Aug 2025 21:17:32 GMT | Advanced Credential Theft Techniques in Active Directory Environments | Esra Kayhan | [Read More](https://medium.com/p/5b42743d0f26) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 15:04:22 GMT | # Introduction of Ethical hacker : | Sakib Mahmud | [Read More](https://medium.com/p/a3415332b17b) |
 | Thu, 28 Aug 2025 15:01:46 GMT | Zero-Day Attacks: The Attack No One Sees Coming | Sparshika | [Read More](https://medium.com/p/00c4d30177f9) |
 | Thu, 28 Aug 2025 15:01:45 GMT | Weaponized Leaks: When Leaks Become a Weapon Against You | Ingvar Pavlovich | [Read More](https://medium.com/p/f26d7ffc4a4e) |
-| Thu, 28 Aug 2025 14:59:29 GMT | Software Updates Aren’t Just Fixes They’re a Competitive Advantage | Paradise technologies Inc | [Read More](https://medium.com/p/910dea9f48fd) |
-| Thu, 28 Aug 2025 14:48:03 GMT | “Day 22: The Race Condition Heist — How I Bought a $3,000 Drone for $0.01” | Aman Sharma | [Read More](https://medium.com/p/8cca7dc6c559) |
-| Thu, 28 Aug 2025 14:47:49 GMT | A Step-by-Step Guide to Building Your Own BadUSB | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/14aaec637c38) |
-| Thu, 28 Aug 2025 14:47:33 GMT | Slopsquatting: AI Hallucinations Fueling a New Class of Software Supply Chain Attacks | Wes Young | [Read More](https://medium.com/p/1a33159f5d08) |
-| Thu, 28 Aug 2025 14:47:10 GMT | How Hackers Turn Your Forgotten IoT Devices into a Global Attack Army | Aj | [Read More](https://medium.com/p/fc52567d4cbb) |
-| Thu, 28 Aug 2025 14:39:50 GMT | The Night My Firewall Started Flirting with Hackers: A Sysadmin’s Tale | Aj | [Read More](https://medium.com/p/f7655322c40b) |
-| Thu, 28 Aug 2025 14:37:32 GMT | The Perils of Not Being Able to Be Alone: A Path to Personal Disaster | Sevenqian | [Read More](https://medium.com/p/37afd58871e8) |
-| Thu, 28 Aug 2025 14:30:34 GMT | Top 5 Cyber Security Companies in the USA | Anzenna | [Read More](https://medium.com/p/f60c9dde5191) |
