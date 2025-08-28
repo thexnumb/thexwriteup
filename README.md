@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 15:09:24 GMT | How to build the foundation for multiple Cyber Ranges in OCI — Part 2 | Birzu Alexandru-Adrian | [Read More](https://medium.com/p/d95b62010b8c) |
+| Thu, 28 Aug 2025 15:07:11 GMT | OffSec Threat Hunter (OSTH): Course Review and Exam Tips | Cyd Tseng | [Read More](https://medium.com/p/e4b8ab415d40) |
+| Thu, 28 Aug 2025 15:04:22 GMT | # Introduction of Ethical hacker : | Sakib Mahmud | [Read More](https://medium.com/p/a3415332b17b) |
+| Thu, 28 Aug 2025 15:01:46 GMT | Zero-Day Attacks: The Attack No One Sees Coming | Sparshika | [Read More](https://medium.com/p/00c4d30177f9) |
+| Thu, 28 Aug 2025 15:01:45 GMT | Weaponized Leaks: When Leaks Become a Weapon Against You | Ingvar Pavlovich | [Read More](https://medium.com/p/f26d7ffc4a4e) |
+| Thu, 28 Aug 2025 14:59:29 GMT | Software Updates Aren’t Just Fixes They’re a Competitive Advantage | Paradise technologies Inc | [Read More](https://medium.com/p/910dea9f48fd) |
+| Thu, 28 Aug 2025 14:48:03 GMT | “Day 22: The Race Condition Heist — How I Bought a $3,000 Drone for $0.01” | Aman Sharma | [Read More](https://medium.com/p/8cca7dc6c559) |
+| Thu, 28 Aug 2025 14:47:49 GMT | A Step-by-Step Guide to Building Your Own BadUSB | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/14aaec637c38) |
+| Thu, 28 Aug 2025 14:47:33 GMT | Slopsquatting: AI Hallucinations Fueling a New Class of Software Supply Chain Attacks | Wes Young | [Read More](https://medium.com/p/1a33159f5d08) |
+| Thu, 28 Aug 2025 14:47:10 GMT | How Hackers Turn Your Forgotten IoT Devices into a Global Attack Army | Aj | [Read More](https://medium.com/p/fc52567d4cbb) |
 | Thu, 28 Aug 2025 14:39:50 GMT | The Night My Firewall Started Flirting with Hackers: A Sysadmin’s Tale | Aj | [Read More](https://medium.com/p/f7655322c40b) |
 | Thu, 28 Aug 2025 14:37:32 GMT | The Perils of Not Being Able to Be Alone: A Path to Personal Disaster | Sevenqian | [Read More](https://medium.com/p/37afd58871e8) |
 | Thu, 28 Aug 2025 14:30:34 GMT | Top 5 Cyber Security Companies in the USA | Anzenna | [Read More](https://medium.com/p/f60c9dde5191) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 10:49:13 GMT | HTB Escape Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/0a232ee2c991) |
 | Thu, 28 Aug 2025 10:47:22 GMT | Jargon-free guide to security compliance | Wiran Larbi | [Read More](https://medium.com/p/43d342a3e750) |
 | Thu, 28 Aug 2025 10:46:09 GMT | Automation in digital security operations | Nagaraj | [Read More](https://medium.com/p/956c9d07dd13) |
-| Thu, 28 Aug 2025 10:40:18 GMT | You wanna be a hacker in 2025/2026 | Nasir Pratt | [Read More](https://medium.com/p/05ddb5cca9b7) |
-| Thu, 28 Aug 2025 10:39:48 GMT | TryHackMe: Compiled Walkthrough — Reverse Engineering Made Easy | Furkanctiner | [Read More](https://medium.com/p/9368f59404e3) |
-| Thu, 28 Aug 2025 10:37:04 GMT | Privacy-First Local Anonymization Models: Protecting Personal Information Before Data Leaves Your… | AI Engineering | [Read More](https://medium.com/p/ef2dbb25e6d1) |
-| Thu, 28 Aug 2025 10:35:45 GMT | Phishing Attack Using Captchas…! How They Can Land You in Trouble | Xaar The Educator | [Read More](https://medium.com/p/935d733ae9d2) |
-| Thu, 28 Aug 2025 10:32:20 GMT | The Hidden Foundations Powering Korea’s Smart Cities | Sung Jin Park | [Read More](https://medium.com/p/0bc029fdc8ed) |
-| Thu, 28 Aug 2025 10:26:57 GMT | TryHackMe PT Study Notes (Unofficial) | Motasem Hamdan | [Read More](https://medium.com/p/e433376da8a0) |
-| Thu, 28 Aug 2025 10:23:28 GMT | How to Convert YouTube Videos to MP4 Format Easily | Ketan Patel | [Read More](https://medium.com/p/abbf1cb4a281) |
-| Thu, 28 Aug 2025 10:23:04 GMT | How a Malicious APK Can Hijack an Android Device: Real-World Attack Scenario | Ganpat Prajapati | [Read More](https://medium.com/p/7faf4a657a4c) |
-| Thu, 28 Aug 2025 10:19:29 GMT | CRWD earnings: what CrowdStrike’s results mean for CRWD stock right now | Shashi Prakash Agarwal | [Read More](https://medium.com/p/4f6af4c66d49) |
-| Thu, 28 Aug 2025 10:15:04 GMT | File Inclusion | Yusuf Eren Koçak | [Read More](https://medium.com/p/5d1a7751b5a4) |
