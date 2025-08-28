@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 10:15:04 GMT | File Inclusion | Yusuf Eren Koçak | [Read More](https://medium.com/p/5d1a7751b5a4) |
+| Thu, 28 Aug 2025 10:06:00 GMT | MSSP Growth Guide: Scaling Threat Detection for Expanding Client Base | ANY.RUN | [Read More](https://medium.com/p/1e01346cd112) |
+| Thu, 28 Aug 2025 10:03:12 GMT | CyberDefender’s Lespion Lab | Adewale Ayomide | [Read More](https://medium.com/p/b3515d02e4e6) |
+| Thu, 28 Aug 2025 10:01:41 GMT | Product Review : ViceVersa IMAP Backup & Restore Tool | Avery Scottish | [Read More](https://medium.com/p/d5663d0496ac) |
+| Thu, 28 Aug 2025 09:56:13 GMT | 7 Security Tips Most People Are Not Using | Muhammad Haider Tallal | [Read More](https://medium.com/p/7d6eaae9df99) |
+| Thu, 28 Aug 2025 09:53:08 GMT | Why Spy Apps for Parental Control Are a Staple in Modern Parenting | Narjis Batool | [Read More](https://medium.com/p/fffadd07ab2b) |
+| Thu, 28 Aug 2025 09:50:21 GMT | ️ Haunted APIs: How Hackers Exploit the Endpoints Developers Forget | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58572ee57dc8) |
+| Thu, 28 Aug 2025 09:49:41 GMT | Unlimited Sharing: Safely Share Passwords and Files with All Pass Hub | Password Manager | [Read More](https://medium.com/p/287d68834b52) |
+| Thu, 28 Aug 2025 09:48:56 GMT | The Real Cost of a Cyber Breach: What Every CEO Should Know | Jay C Roberts | [Read More](https://medium.com/p/aa0dbdd231fb) |
+| Thu, 28 Aug 2025 09:47:45 GMT | Ensuring Quality with Agile Testing & QA Best Practices | Bhavesh Rajpurohit | [Read More](https://medium.com/p/14a7c71dbad5) |
+| Thu, 28 Aug 2025 09:46:44 GMT | From Alias to Attribution: An Analyst’s Guide to Dark Web Threat Actor Profiling | Matt Black | [Read More](https://medium.com/p/fcd5561ce442) |
+| Thu, 28 Aug 2025 09:42:38 GMT | How to Actually Learn Hacking in 2025–26: The Ultimate Practical Guide | RootXploit.0x | [Read More](https://medium.com/p/8e978be5bd1c) |
 | Thu, 28 Aug 2025 09:40:03 GMT | DockerLabs Writeup — ChocolateLovers (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c203c209bb09) |
 | Thu, 28 Aug 2025 09:33:48 GMT | GRC System Hacks: 7 Ways to Cut Risk Without Killing Your Budget | SecureSlate | [Read More](https://medium.com/p/760f0d7f5df7) |
 | Thu, 28 Aug 2025 09:32:31 GMT | Why “Hacktivism” Isn’t the Hero Story You Think It Is | Aj | [Read More](https://medium.com/p/7afa67bd5e50) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 05:39:43 GMT | How Studying Cybersecurity Taught Me More About Trust Than Any Relationship Ever Did | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/33281e3c8f16) |
 | Thu, 28 Aug 2025 05:34:52 GMT | ⚡ Broken API Dependencies: Recon via Third-Party Calls | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c60a5c45eb82) |
 | Thu, 28 Aug 2025 05:32:07 GMT | study hacks that will make learning easier (and less stressful) | eenderah | [Read More](https://medium.com/p/b91ad3b7e680) |
-| Thu, 28 Aug 2025 05:27:03 GMT | Day 44 -Understanding the Cyber Kill Chain for beginners | unica 02 | [Read More](https://medium.com/p/424b68a3a0f9) |
-| Thu, 28 Aug 2025 05:20:43 GMT | ️ Cybersecurity for Hotels: Protecting Guest Information | jusBooking | [Read More](https://medium.com/p/be7511547c2d) |
-| Thu, 28 Aug 2025 05:17:09 GMT | Hack the Box: Flag Command | Ross Andrews | [Read More](https://medium.com/p/cb99258da706) |
-| Thu, 28 Aug 2025 05:13:20 GMT | How Authentication Works on the Web: From Passwords to JWTs | Yuvraj Sankilwar | [Read More](https://medium.com/p/51a80505314d) |
-| Thu, 28 Aug 2025 05:11:43 GMT | Demystifying Binary, Decimal, and Hexadecimal in Networking | Aryan Kumar | [Read More](https://medium.com/p/c2d425bfb157) |
-| Thu, 28 Aug 2025 05:10:52 GMT | Privacy Policies Explained: What Businesses Need to Stay Compliant in 2025 | Hansen Tong | [Read More](https://medium.com/p/f1f92babb3d7) |
-| Thu, 28 Aug 2025 05:09:14 GMT | Don’t Get Hooked: Understanding Phishing and How to Stay Safe | Chimereze! | [Read More](https://medium.com/p/7e2b16c9480c) |
-| Thu, 28 Aug 2025 05:08:51 GMT | How to Successfully Integrate New Security Systems Without Disrupting Business | Supraja | [Read More](https://medium.com/p/0520b2b3ada8) |
-| Thu, 28 Aug 2025 05:04:12 GMT | LANDASAN ALGORITMA | Zenitsu Agatsuma | [Read More](https://medium.com/p/3c01e3b96dfa) |
-| Thu, 28 Aug 2025 05:03:52 GMT | CCNP Security Certification vs CISSP: Which Is Better for Your Career? | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/c9f92049572c) |
-| Thu, 28 Aug 2025 04:58:13 GMT | How to Hunt an Attacker’s C2 IP Address Like a Threat Hunter | Paritosh | [Read More](https://medium.com/p/2589c39b0e72) |
-| Thu, 28 Aug 2025 04:57:35 GMT | Fortify Your Business: The Essential Guide to Modern Security | Joshua Nelson | [Read More](https://medium.com/p/588ff7a64ace) |
