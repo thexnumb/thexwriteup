@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 09:17:44 GMT | The Pentesting Methodology: From Reconnaissance to Reporting — A Complete Guide | Redfox Security | [Read More](https://medium.com/p/433b83205269) |
+| Thu, 28 Aug 2025 09:08:04 GMT | Broken Authentication in React: Fixes with Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/5a8948c59da6) |
+| Thu, 28 Aug 2025 09:06:44 GMT | Why Your Brain Cringes at Stupid Questions | OopsLog | [Read More](https://medium.com/p/431ebc2bf87e) |
+| Thu, 28 Aug 2025 09:01:49 GMT | SafeLine is a Beautiful Open Source WAF for your Web App | Maverick Steel | [Read More](https://medium.com/p/ff72ac6ded96) |
+| Thu, 28 Aug 2025 09:01:35 GMT | The Day Theory Met Reality: Applying Cybersecurity Books to Real-World Hacks | Shahzaib | [Read More](https://medium.com/p/d5af7aba4d3e) |
+| Thu, 28 Aug 2025 09:01:34 GMT | Three Lessons in Resilience: From Military Networks to Wall Street to Parenthood | IsaacFabianK | [Read More](https://medium.com/p/8bf459f72d6b) |
+| Thu, 28 Aug 2025 09:00:44 GMT | Setting Up SafeLine WAF for WordPress Security | Maverick Steel | [Read More](https://medium.com/p/ea88e348d647) |
+| Thu, 28 Aug 2025 09:00:18 GMT | Introduction to CAN and UDS with the Help of — BlockHarbor CTF — 1 | Mohammed Shine | [Read More](https://medium.com/p/c3e99b5c94a2) |
+| Thu, 28 Aug 2025 08:53:42 GMT | The Missing Piece in AI-Powered SOC Automation: My Discovery of Threat Intelligence | Anel Graph | [Read More](https://medium.com/p/7b19689c8af8) |
+| Thu, 28 Aug 2025 08:37:40 GMT | Security By Obfuscation Is Often Poor Security | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/86d2f47e6a9b) |
 | Thu, 28 Aug 2025 08:31:49 GMT | TryHackMe — Digital Forensics Fundamentals Writeup | Ulaş AKTAŞ | [Read More](https://medium.com/p/fe1d6f28fe00) |
 | Thu, 28 Aug 2025 08:30:50 GMT | Pegasus Spyware: What It Is, How It Works, and Why It’s So Dangerous | Juan M. Vazquez | [Read More](https://medium.com/p/dca2ca95eb05) |
 | Thu, 28 Aug 2025 08:28:12 GMT | What Makes Phishing Attack Simulation Services Essential | Noahlucas | [Read More](https://medium.com/p/e6e79de8fd67) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 04:00:04 GMT | Cybersecurity OEMs & The New Why Cybersecurity Is About People First, Technology Second | Dr. Deep Pandey | [Read More](https://medium.com/p/f85606a26264) |
 | Thu, 28 Aug 2025 03:57:34 GMT | Critical Alert: Zero-Day Exploits Target Apple Users While AI Security Faces New Bypass Threats | Akshat Ratanpal | [Read More](https://medium.com/p/70203759a8f6) |
 | Thu, 28 Aug 2025 03:45:30 GMT | CVE Alert: SQL Injection in Yonyou GRP-U8 — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/4a6e3b9df462) |
-| Thu, 28 Aug 2025 03:31:36 GMT | The Rise of Crypto24: Ransomware That Blinds Your Defenses Before Striking | Deven Chhajed | [Read More](https://medium.com/p/6762d5e4a7f1) |
-| Thu, 28 Aug 2025 03:28:47 GMT | The Hidden Truth About DevSecOps Jobs: What 47 Job Postings Revealed About This $219K Career Path | Afolabi Abigeal | [Read More](https://medium.com/p/a7f12b4542b0) |
-| Thu, 28 Aug 2025 03:28:38 GMT | Circles of Trust and the Gossip Problem | Christopher Blanco | [Read More](https://medium.com/p/4d30b7564067) |
-| Thu, 28 Aug 2025 03:27:27 GMT | Understanding Zigbee: How Smart Devices Talk to Each Other | Brian Okinyi | [Read More](https://medium.com/p/f2f7ec03062e) |
-| Thu, 28 Aug 2025 03:25:19 GMT | Beyond Containers: How Serverless Containers and MicroVMs Are Redefining Isolation | Gopi Chinnappa | [Read More](https://medium.com/p/7673d8790169) |
-| Thu, 28 Aug 2025 03:20:11 GMT | Weak OAuth, Big Problem: Grafana Login Bypass Explained | TEAM DH49 | [Read More](https://medium.com/p/ee078ad6aa27) |
-| Thu, 28 Aug 2025 03:14:59 GMT | Kubernetes 1.34: Of Wind & Will (O’ WaW) | ketan jani | [Read More](https://medium.com/p/6270fa552755) |
-| Thu, 28 Aug 2025 03:12:35 GMT | Being a Bridge Builder (Part I) | Maria Keckler, Ph.D. | [Read More](https://medium.com/p/2ae155251756) |
-| Thu, 28 Aug 2025 03:12:14 GMT | Cyber Nerd Surf: Log 01- Encryption | Apurva Cybersecurity | [Read More](https://medium.com/p/7c9f08fed3d6) |
-| Thu, 28 Aug 2025 02:59:24 GMT | Neuromorphic Attacks: When Hackers Target Brain-Like Computers | Chhavilodhi | [Read More](https://medium.com/p/56319a0ccee6) |
