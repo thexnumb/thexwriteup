@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 17:10:54 GMT | The Mind’s New Battlefield: Novel Cognitive AI Cybersecurity Frameworks | noailabs | [Read More](https://medium.com/p/8cae5a874733) |
+| Thu, 28 Aug 2025 17:01:02 GMT | Everything You Need to Know About OpenAI’s GPT-5 Bug Bounty Program | LawTech | [Read More](https://medium.com/p/8222b4fbce98) |
+| Thu, 28 Aug 2025 16:57:33 GMT | The AI Cybercrime Revolution: Why Your Blockchain Transactions Need Better Privacy Protection | SilentSwap | [Read More](https://medium.com/p/a2c3be00e6ca) |
+| Thu, 28 Aug 2025 16:51:40 GMT | Analyzing Ransomware Defense and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/6a2119ce67ad) |
+| Thu, 28 Aug 2025 16:49:52 GMT | Analyzing Ransomware Defense and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/6d2c916ff6be) |
+| Thu, 28 Aug 2025 16:48:24 GMT | Best Technology Tools & Platforms for Canadian Startups in 2025 | Zrafted | [Read More](https://medium.com/p/43fcb5721686) |
+| Thu, 28 Aug 2025 16:48:00 GMT | Analyzing Ransomware Defense and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/4e7483ca0753) |
+| Thu, 28 Aug 2025 16:46:38 GMT | How I (Accidentally) Poisoned a Cache with Just the Host Header | Aryan Shrestha | [Read More](https://medium.com/p/11ab55cc73fd) |
+| Thu, 28 Aug 2025 16:46:11 GMT | Analyzing Ransomware Defense and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/98cbf3f1597d) |
+| Thu, 28 Aug 2025 16:45:30 GMT | Why Prompt Engineering Is the Most Underrated High-Paying Freelance Skill in 2025 | ForeCast | [Read More](https://medium.com/p/e413a549079f) |
 | Thu, 28 Aug 2025 16:44:20 GMT | Analyzing Ransomware Defense That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/857dc2958c41) |
 | Thu, 28 Aug 2025 16:42:31 GMT | Switching to Alpine Linux for CVE Reduction: Benefits, Challenges, and Best Practices | Vatsal Jain | [Read More](https://medium.com/p/815945433441) |
 | Thu, 28 Aug 2025 16:42:28 GMT | Analyzing Ransomware Defense Step by Step | Cyber Security Research | [Read More](https://medium.com/p/e58e95e7a16c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 12:29:36 GMT | picoCTF Forensics Challenge: DISKO 1 | Hitesh Sharma | [Read More](https://medium.com/p/501583ec920c) |
 | Thu, 28 Aug 2025 12:26:07 GMT | The Cybersecurity Salary Report That Made Me Rethink My Career Strategy | Testleaf | [Read More](https://medium.com/p/00d2dc434fa3) |
 | Thu, 28 Aug 2025 12:25:57 GMT | How Hackers Really Collect Your Email Address | Visir | [Read More](https://medium.com/p/041ac32b7043) |
-| Thu, 28 Aug 2025 12:23:14 GMT | Love and Identity | Rizzee Cerdeñola | [Read More](https://medium.com/p/9d35e077917e) |
-| Thu, 28 Aug 2025 12:09:23 GMT | Detection and Prevention of Account Buying Fraud in Financial Services in Nigeria | Olaoluwa Otesile | [Read More](https://medium.com/p/75225de53acc) |
-| Thu, 28 Aug 2025 12:01:42 GMT | Write-up PicoCTF: Web Exploitation ‘Local Authority’ | Muhammad Khairin | [Read More](https://medium.com/p/cbde90af956f) |
-| Thu, 28 Aug 2025 12:01:37 GMT | Why I Always Monitor Outbound Traffic on My Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/b54001cf0889) |
-| Thu, 28 Aug 2025 11:59:05 GMT | Simple JavaScript Bookmarklet That Converts GET to POST | CYBER COMICS | [Read More](https://medium.com/p/92729f5935fa) |
-| Thu, 28 Aug 2025 11:56:54 GMT | Sysinternals: Complete Guide for Windows Analysis | Gopu Nair | [Read More](https://medium.com/p/7e336754b83a) |
-| Thu, 28 Aug 2025 11:54:52 GMT | Are We Doing Enough Testing and Raising Enough Bugs? | Gaurav Patnaik | [Read More](https://medium.com/p/bbde3144a64f) |
-| Thu, 28 Aug 2025 11:52:53 GMT | Establishing DevSecOps for Small and Medium Organizations: Practical Controls, Challenges, and… | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/66bf22349169) |
-| Thu, 28 Aug 2025 11:50:14 GMT | Skynet — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/98bfb5ab5fdf) |
-| Thu, 28 Aug 2025 11:47:34 GMT | European Strategic Autonomy Begins With Power | Brian Iselin | [Read More](https://medium.com/p/3b6b50fccb25) |
