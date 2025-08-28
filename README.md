@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 13:22:55 GMT | Why Mobile Patrol Security is Essential for Business Safety | Nimra Sheikh | [Read More](https://medium.com/p/336f5c47a727) |
+| Thu, 28 Aug 2025 13:22:51 GMT | The Crime LAB -Cyberdefenders | Eagledefenders | [Read More](https://medium.com/p/323e4eb80e3a) |
+| Thu, 28 Aug 2025 13:22:26 GMT | The Anonymity Paradox: How Your “Secure” Browsing Habits Are Broadcasting Your Location | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3092e42e1ec2) |
+| Thu, 28 Aug 2025 13:21:58 GMT | 5 Reasons Mobile Patrol Security Improves Community Safety | Nimra Sheikh | [Read More](https://medium.com/p/6265996e27c3) |
+| Thu, 28 Aug 2025 13:20:02 GMT | Lancering IBgidsNL: het meest complete B2B cybersecurityplatform van Nederland | IBgidsNL | [Read More](https://medium.com/p/fcf3c4b06cee) |
+| Thu, 28 Aug 2025 13:19:37 GMT | How Mobile Patrol Security Protects Large Properties | Nimra Sheikh | [Read More](https://medium.com/p/305ae874e0ac) |
+| Thu, 28 Aug 2025 13:17:15 GMT | [AWS PENTEST] CloudGoat SNS Secrets Lab Walkthrough | baz00ka | [Read More](https://medium.com/p/22ede5f625fc) |
+| Thu, 28 Aug 2025 13:13:23 GMT | TryHackMe : Pickle Rick Walkthrough (CTF Writeup) | Nisa | [Read More](https://medium.com/p/b66ff28d4c07) |
+| Thu, 28 Aug 2025 13:12:10 GMT | Breaking APIs: vAPI lab walkthrough | Rachael Kivuti | [Read More](https://medium.com/p/a73cdc2a8892) |
+| Thu, 28 Aug 2025 13:10:57 GMT | Data Protection by Next Gen2AI | NextGen2AI | [Read More](https://medium.com/p/576a27564f0f) |
+| Thu, 28 Aug 2025 13:10:50 GMT | Internship Diaries, DNS and TLS Handshake | Yusuf Eroglu | [Read More](https://medium.com/p/e266216883d0) |
+| Thu, 28 Aug 2025 13:06:16 GMT | Secure Prompt from Sensitive Data | Aylin Karaoglu | [Read More](https://medium.com/p/7a3f1664f9fa) |
+| Thu, 28 Aug 2025 13:06:00 GMT | How I Found a Hidden Discount Code for a $1,500 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/57207293bd50) |
+| Thu, 28 Aug 2025 13:03:38 GMT | The Day the People Pleaser in Me Died | Ella | [Read More](https://medium.com/p/4a45d5b95077) |
+| Thu, 28 Aug 2025 13:03:37 GMT | Types of ransomware | Chris Zhang | [Read More](https://medium.com/p/177f79bf3b0f) |
+| Thu, 28 Aug 2025 13:03:36 GMT | Security by Design | Gabi Deutner | [Read More](https://medium.com/p/7aef043c7ac2) |
+| Thu, 28 Aug 2025 12:53:32 GMT | How Security Impacts Sales and Marketing | Evgeny Ermakov | [Read More](https://medium.com/p/bb56445efb29) |
+| Thu, 28 Aug 2025 12:53:07 GMT | Building Multipart Requests in Kotlin for a Spring Boot REST API | Abdul Ahad | [Read More](https://medium.com/p/5203767904a6) |
+| Thu, 28 Aug 2025 12:48:58 GMT | Hassas Veriden Güvenli Prompta | Aylin Karaoglu | [Read More](https://medium.com/p/e9506e4653d9) |
 | Thu, 28 Aug 2025 12:40:53 GMT | I Am Now a Certified Red Team Analyst (CRTA) — My Journey with CyberWarFare Labs | Sidhartha | [Read More](https://medium.com/p/0845f47f7572) |
 | Thu, 28 Aug 2025 12:34:16 GMT | Top 10 Cybersecurity Companies in Toronto Protecting Small Businesses | Brigient | [Read More](https://medium.com/p/e9b6eb7583cd) |
 | Thu, 28 Aug 2025 12:29:36 GMT | picoCTF Forensics Challenge: DISKO 1 | Hitesh Sharma | [Read More](https://medium.com/p/501583ec920c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 09:00:44 GMT | Setting Up SafeLine WAF for WordPress Security | Maverick Steel | [Read More](https://medium.com/p/ea88e348d647) |
 | Thu, 28 Aug 2025 09:00:18 GMT | Introduction to CAN and UDS with the Help of — BlockHarbor CTF — 1 | Mohammed Shine | [Read More](https://medium.com/p/c3e99b5c94a2) |
 | Thu, 28 Aug 2025 08:53:42 GMT | The Missing Piece in AI-Powered SOC Automation: My Discovery of Threat Intelligence | Anel Graph | [Read More](https://medium.com/p/7b19689c8af8) |
-| Thu, 28 Aug 2025 08:37:40 GMT | Security By Obfuscation Is Often Poor Security | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/86d2f47e6a9b) |
-| Thu, 28 Aug 2025 08:31:49 GMT | TryHackMe — Digital Forensics Fundamentals Writeup | Ulaş AKTAŞ | [Read More](https://medium.com/p/fe1d6f28fe00) |
-| Thu, 28 Aug 2025 08:30:50 GMT | Pegasus Spyware: What It Is, How It Works, and Why It’s So Dangerous | Juan M. Vazquez | [Read More](https://medium.com/p/dca2ca95eb05) |
-| Thu, 28 Aug 2025 08:28:12 GMT | What Makes Phishing Attack Simulation Services Essential | Noahlucas | [Read More](https://medium.com/p/e6e79de8fd67) |
-| Thu, 28 Aug 2025 08:24:35 GMT | 10 Best Web Hosting Providers for NFT Marketplaces in 2025 | Rahul Sharma | [Read More](https://medium.com/p/dea54544404b) |
-| Thu, 28 Aug 2025 08:24:21 GMT | Analyzing Penetration Testing in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/d2b79d64423a) |
-| Thu, 28 Aug 2025 08:23:03 GMT | Analyzing Penetration Testing in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/fdacb0a5d01f) |
-| Thu, 28 Aug 2025 08:21:45 GMT | Analyzing Penetration Testing for Professionals | Cyber Security Research | [Read More](https://medium.com/p/a51eca103ad1) |
-| Thu, 28 Aug 2025 08:21:26 GMT | AI Is Changing Cybersecurity Faster Than Regulators Can Blink | Abhii Dabas | [Read More](https://medium.com/p/fe1b2612c60b) |
-| Thu, 28 Aug 2025 08:20:26 GMT | Analyzing Penetration Testing for Organizations | Cyber Security Research | [Read More](https://medium.com/p/2080a6c616bb) |
-| Thu, 28 Aug 2025 08:19:13 GMT | PANIX — A Framework for Exploring Linux Persistence. | jrntm | [Read More](https://medium.com/p/6d5c279ddabb) |
-| Thu, 28 Aug 2025 08:19:04 GMT | Analyzing Penetration Testing for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/e9825031280f) |
-| Thu, 28 Aug 2025 08:17:46 GMT | Analyzing Penetration Testing for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/6fce9a13133e) |
-| Thu, 28 Aug 2025 08:17:01 GMT | 10 Best Secure Hosting Providers for Technology Review Blogs in 2025 | Rahul Sharma | [Read More](https://medium.com/p/8fc68f27e7a1) |
-| Thu, 28 Aug 2025 08:16:27 GMT | Analyzing Penetration Testing for Beginners | Cyber Security Research | [Read More](https://medium.com/p/1bba23e01fb7) |
-| Thu, 28 Aug 2025 08:16:13 GMT | Dark side of social media algorithm: Things You’re Forgetting to Do | Amreen Siddiqui | [Read More](https://medium.com/p/913f296b0f37) |
-| Thu, 28 Aug 2025 08:15:09 GMT | Analyzing Penetration Testing and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/64916d6a5d1b) |
-| Thu, 28 Aug 2025 08:13:57 GMT | ประจำวันพฤหัสบดีที่ 28 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/b9fa84f5ae9c) |
-| Thu, 28 Aug 2025 08:13:48 GMT | Analyzing Penetration Testing and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/9348ca8289b4) |
