@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 07:18:48 GMT | The Daily Tech Digest: 28 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2b1d408180fa) |
+| Thu, 28 Aug 2025 07:18:33 GMT | Jailbreaks, Poisons, and Prompts: The Dark Arts of Hacking LLMs | Manushi | [Read More](https://medium.com/p/6185df89bf75) |
+| Thu, 28 Aug 2025 07:14:50 GMT | How to Block All Cloudflare IPs in SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/861e532e3cde) |
+| Thu, 28 Aug 2025 07:14:20 GMT | iZen Software — Delivering the Best Custom Software Development for Your Business | admin 1 | [Read More](https://medium.com/p/4963450ac254) |
+| Thu, 28 Aug 2025 07:12:44 GMT | Null Byte Attacks Explained | Cyber T | [Read More](https://medium.com/p/f032f125b919) |
+| Thu, 28 Aug 2025 07:12:37 GMT | Inside a Red Team Op: The 72 Hours Before We “Stole” the CEO’s Data | Aj | [Read More](https://medium.com/p/eee5fdec020e) |
+| Thu, 28 Aug 2025 07:12:29 GMT | ️ 15 Open-Source Security Tools I Use Every Week as a Cyber Analyst | Rue | [Read More](https://medium.com/p/89918ade2a44) |
+| Thu, 28 Aug 2025 07:12:22 GMT | Why Do Hackers Use Kali Linux? | Shahzaib | [Read More](https://medium.com/p/2580f567b291) |
+| Thu, 28 Aug 2025 07:12:16 GMT | The Hacker’s Favorite Weapon Isn’t Code — It’s Your Mind | vydhi | [Read More](https://medium.com/p/3a3672a2c708) |
+| Thu, 28 Aug 2025 07:10:26 GMT | Best Field Force Management Software in India - Field Automation App | Gowthammathiew | [Read More](https://medium.com/p/efd0a46a8749) |
+| Thu, 28 Aug 2025 07:08:29 GMT | Login Brute Force With Selenium #2 | Francesco Pastore | [Read More](https://medium.com/p/bea90a8f6813) |
+| Thu, 28 Aug 2025 07:02:10 GMT | Why Ethical Hacking is a Good Career Option in 2025? | cyber security Updates | [Read More](https://medium.com/p/81664abec883) |
+| Thu, 28 Aug 2025 07:02:08 GMT | Sensitive Data Discovery: Secure Your Information with the Right Tools | DbVisualizer | [Read More](https://medium.com/p/3f4613978455) |
+| Thu, 28 Aug 2025 06:59:59 GMT | VulnHub: Hack Me Please | Psalm Endozo | [Read More](https://medium.com/p/4f6eaab695cd) |
+| Thu, 28 Aug 2025 06:51:34 GMT | Top 5 HP Mobile Phones in 2025 - Smart, Stylish & AI-Powered | PicknReviews | [Read More](https://medium.com/p/557121dac921) |
+| Thu, 28 Aug 2025 06:50:44 GMT | 5 Questions Every CEO Should Ask Before Investing in a CRM | Erpone | [Read More](https://medium.com/p/21d6f1b39cb0) |
+| Thu, 28 Aug 2025 06:49:12 GMT | The Day I Disassembled and Froze an AirTag | Michikusa-Log | [Read More](https://medium.com/p/3322a37c4c16) |
+| Thu, 28 Aug 2025 06:47:35 GMT | Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas | Gorka | [Read More](https://medium.com/p/52ede8b6bc4a) |
+| Thu, 28 Aug 2025 06:45:37 GMT | Hacking by Breaking: The Dark Art of Error Fuzzing | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e05f5722fac1) |
+| Thu, 28 Aug 2025 06:34:05 GMT | Unarmed Security Guards vs. Armed Guards: Which Is Right for Your Office? | Pinki Chauhan | [Read More](https://medium.com/p/e61102a01ed7) |
 | Thu, 28 Aug 2025 06:27:46 GMT | Castles in the Cloud: Building a Truly Secure Infrastructure in 2025 | DJH4CK3R | [Read More](https://medium.com/p/0dbd063ad30b) |
 | Thu, 28 Aug 2025 06:27:38 GMT | Shadows in the Server Room: An IT Security Audit That Changed Everything | DJH4CK3R | [Read More](https://medium.com/p/b080d99e5911) |
 | Thu, 28 Aug 2025 06:26:30 GMT | The Hunter’s Diary: A Bug Bounty Journey from Curiosity to Critical Hit | DJH4CK3R | [Read More](https://medium.com/p/f3c4900f225b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 21:54:22 GMT | The AI Security Skills No One’s Teaching, Yet | BillfordX | [Read More](https://medium.com/p/3d224b5fcc8a) |
 | Wed, 27 Aug 2025 21:50:01 GMT | Basics of Cryptography | Kyrillos Kamal | [Read More](https://medium.com/p/a9c21b4f1980) |
 | Wed, 27 Aug 2025 21:36:38 GMT | Monero: Kriptomonedha që Refuzon të Vëzhgohet | D.BARDHI | [Read More](https://medium.com/p/ca651de19cf9) |
-| Wed, 27 Aug 2025 21:31:31 GMT | Real-World Threat Hunts: Stories from the Field | Yash Patel | [Read More](https://medium.com/p/a6f70e72968f) |
-| Wed, 27 Aug 2025 21:31:22 GMT | Top 10 XSS Payloads That Still Work in 2025 | Aj | [Read More](https://medium.com/p/9c258842caa2) |
-| Wed, 27 Aug 2025 21:31:22 GMT | 7 Shocking Lessons From a Microwave Hack That Almost Ruined a Business | Noel | [Read More](https://medium.com/p/6f4e247dc891) |
-| Wed, 27 Aug 2025 21:31:04 GMT | Understanding Refresh Tokens | Cyber T | [Read More](https://medium.com/p/f7f80b3d4b07) |
-| Wed, 27 Aug 2025 21:30:47 GMT | More Firewalls Hacked : Why Your Perimeter is Under Siege | Shahzaib | [Read More](https://medium.com/p/84aab22a1178) |
-| Wed, 27 Aug 2025 21:25:58 GMT | Hackers Stole My Credit and Ruined My Life, I Got Revenge | SinVictus | [Read More](https://medium.com/p/b5ee7b44413b) |
-| Wed, 27 Aug 2025 21:18:19 GMT | Authentication vulnerabilities - 2FA simple bypass - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/d78900793589) |
-| Wed, 27 Aug 2025 21:18:13 GMT | Authentication vulnerabilities - Broken brute-force protection, multiple credentials per request -… | Kirolos Tamer | [Read More](https://medium.com/p/c86c9a5cad27) |
-| Wed, 27 Aug 2025 21:18:05 GMT | Authentication vulnerabilities - Broken brute-force protection, IP block - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4dc9757d4bfe) |
-| Wed, 27 Aug 2025 21:03:29 GMT | Hunting Leaks at Go Speed: S3Rapthor, the Predator of Public S3 Buckets You Didn’t Know You Needed | KeyboardSamurai | [Read More](https://medium.com/p/45c1c7c8a72f) |
-| Wed, 27 Aug 2025 20:59:14 GMT | SOAR home lab (Part 1) | Khushdeep | [Read More](https://medium.com/p/997dfac07364) |
-| Wed, 27 Aug 2025 20:57:34 GMT | Rust’s Hidden Drop Order: The Bug That Doesn’t Exist (But Almost Did) | SyntaxSavage | [Read More](https://medium.com/p/0a99007a4be8) |
-| Wed, 27 Aug 2025 20:57:33 GMT | ️ Advanced Malware Analysis with Dynamic Binary Instrumentation | Esra Kayhan | [Read More](https://medium.com/p/10a03617f71b) |
-| Wed, 27 Aug 2025 20:54:39 GMT | What Would Happen if AWS Accounts Had No Roles ? | Amine | [Read More](https://medium.com/p/664171b25833) |
-| Wed, 27 Aug 2025 20:53:16 GMT | NIS2 Directive: Europe’s New Cybersecurity Rulebook | Pietro Romano / SecBeret | [Read More](https://medium.com/p/64b157532b70) |
-| Wed, 27 Aug 2025 20:47:18 GMT | The Ultimate Red Team Detection Playbook: 28 KQL Queries That Will Save Your SOC | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/8059d8b8e681) |
-| Wed, 27 Aug 2025 20:45:57 GMT | Today’s Headlines Should Haunt Us: When Nightmares Become Normal | Meghan | [Read More](https://medium.com/p/5b4ddbef91e0) |
-| Wed, 27 Aug 2025 20:44:19 GMT | Potential Topics for Cyber/Network role with cybersecurity company | Bob Malin | [Read More](https://medium.com/p/4f81b4c0ca0b) |
-| Wed, 27 Aug 2025 20:40:14 GMT | On the Weight of Love | Words_by_Memira | [Read More](https://medium.com/p/2122b1e3ae1a) |
-| Wed, 27 Aug 2025 20:36:27 GMT | A vida dos bugs (e por que eles sempre voltam) | Thamires Pinheiro | [Read More](https://medium.com/p/b43280aba910) |
