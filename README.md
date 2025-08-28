@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 21:02:14 GMT | XSS Stored Bypass cookie http only via all accounts take over | Vuln_Ram | [Read More](https://medium.com/p/ef7134f139d1) |
+| Thu, 28 Aug 2025 20:57:35 GMT | Transparent Proxy Implementation with Linux Netfilter for Traffic Inspection | Esra Kayhan | [Read More](https://medium.com/p/6d3885613a60) |
+| Thu, 28 Aug 2025 20:56:48 GMT | Exploitation Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/ab91f95afcec) |
+| Thu, 28 Aug 2025 20:52:45 GMT | eJPT vs OSCP | Adripbar | [Read More](https://medium.com/p/6c359dccb1ca) |
+| Thu, 28 Aug 2025 20:51:06 GMT | AI Just Became a Snitch | Allison 'AJ' John | [Read More](https://medium.com/p/0863b3893f66) |
+| Thu, 28 Aug 2025 20:49:44 GMT | Cracking the CloudSEK CTF: A 48-Hour Rollercoaster | Santhosh Kumar C | [Read More](https://medium.com/p/e16d8cbc1b95) |
+| Thu, 28 Aug 2025 20:44:19 GMT | Windows Active Directory Ortamında Splunk ile Güvenlik Loglarının İzlenmesi, Saldırı Simülasyonları… | Mustafa Mansur Mamus | [Read More](https://medium.com/p/4e69f76b6361) |
+| Thu, 28 Aug 2025 20:42:24 GMT | Inside My First Real-World Pentest: Mistakes, Wins, and Lessons | Aj | [Read More](https://medium.com/p/ba73e8ecbdaf) |
 | Thu, 28 Aug 2025 20:27:24 GMT | AI isn’t just enhancing productivity-it’s now a double-edged sword. | Inforsecpro | [Read More](https://medium.com/p/75343e7e8196) |
 | Thu, 28 Aug 2025 20:26:08 GMT | Building an HTTP(S) to Tor C2 Redirector with Flask — Part 2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e1952dd57fd7) |
 | Thu, 28 Aug 2025 20:05:27 GMT | Digital Forensics: The Silent Weapon in Modern Criminal Investigations | DIVIJ NAYAK | [Read More](https://medium.com/p/20faed702009) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 14:29:25 GMT | The State of AI in Financial Services — from our front row seats | Peter Hung | [Read More](https://medium.com/p/fb7db279c45b) |
 | Thu, 28 Aug 2025 14:26:59 GMT | XSS Injection on DVWA : Operation Mind Control ⚡ | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/a6c270a089d9) |
 | Thu, 28 Aug 2025 14:17:32 GMT | Dare to “Sting” Others: The Beginning of Better Relationships | Eilen Lexus | [Read More](https://medium.com/p/7a2bfea39768) |
-| Thu, 28 Aug 2025 14:15:35 GMT | The 3 OSINT Tricks That Will Find Anyone Online | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d0fabfe1e7c1) |
-| Thu, 28 Aug 2025 14:13:43 GMT | The Great Tech Reversal: Why Computer Science Graduates Are Facing the Worst Job Market in Decades. | The AI Solopreneur | [Read More](https://medium.com/p/a70eaae8e777) |
-| Thu, 28 Aug 2025 14:11:43 GMT | Bug Bounty from Africa: A Complete Newbie’s Step‑by‑Step Guide | Isaac Simeon | [Read More](https://medium.com/p/73bbcd4b404f) |
-| Thu, 28 Aug 2025 14:11:36 GMT | The Hidden Dangers of Social Engineering | Amanoy | [Read More](https://medium.com/p/9c20145e195a) |
-| Thu, 28 Aug 2025 14:11:34 GMT | The Ultimate Face: Why “Shamelessness” is the Key to True Dignity for Adults | Flaye Kate | [Read More](https://medium.com/p/336677d45dd8) |
-| Thu, 28 Aug 2025 14:11:21 GMT | DevSecOps as a Compliance Accelerator for Small and Medium Organizations | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/2b9bebdbecd3) |
-| Thu, 28 Aug 2025 14:09:18 GMT | Cyber Security Services by L4RG.COM: Protecting Businesses in the Digital Age | Karthik E | [Read More](https://medium.com/p/c8e7ab42f0f0) |
-| Thu, 28 Aug 2025 14:08:51 GMT | What is Data Exfiltration - Detection & Prevention Techniques | Anzenna | [Read More](https://medium.com/p/cc6cb60239ea) |
