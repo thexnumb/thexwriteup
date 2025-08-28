@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 08:24:21 GMT | Analyzing Penetration Testing in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/d2b79d64423a) |
+| Thu, 28 Aug 2025 08:23:03 GMT | Analyzing Penetration Testing in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/fdacb0a5d01f) |
+| Thu, 28 Aug 2025 08:21:45 GMT | Analyzing Penetration Testing for Professionals | Cyber Security Research | [Read More](https://medium.com/p/a51eca103ad1) |
+| Thu, 28 Aug 2025 08:21:26 GMT | AI Is Changing Cybersecurity Faster Than Regulators Can Blink | Abhii Dabas | [Read More](https://medium.com/p/fe1b2612c60b) |
+| Thu, 28 Aug 2025 08:20:26 GMT | Analyzing Penetration Testing for Organizations | Cyber Security Research | [Read More](https://medium.com/p/2080a6c616bb) |
+| Thu, 28 Aug 2025 08:19:13 GMT | PANIX — A Framework for Exploring Linux Persistence. | jrntm | [Read More](https://medium.com/p/6d5c279ddabb) |
+| Thu, 28 Aug 2025 08:19:04 GMT | Analyzing Penetration Testing for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/e9825031280f) |
+| Thu, 28 Aug 2025 08:17:46 GMT | Analyzing Penetration Testing for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/6fce9a13133e) |
+| Thu, 28 Aug 2025 08:17:01 GMT | 10 Best Secure Hosting Providers for Technology Review Blogs in 2025 | Rahul Sharma | [Read More](https://medium.com/p/8fc68f27e7a1) |
+| Thu, 28 Aug 2025 08:16:27 GMT | Analyzing Penetration Testing for Beginners | Cyber Security Research | [Read More](https://medium.com/p/1bba23e01fb7) |
+| Thu, 28 Aug 2025 08:16:13 GMT | Dark side of social media algorithm: Things You’re Forgetting to Do | Amreen Siddiqui | [Read More](https://medium.com/p/913f296b0f37) |
+| Thu, 28 Aug 2025 08:15:09 GMT | Analyzing Penetration Testing and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/64916d6a5d1b) |
+| Thu, 28 Aug 2025 08:13:57 GMT | ประจำวันพฤหัสบดีที่ 28 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/b9fa84f5ae9c) |
+| Thu, 28 Aug 2025 08:13:48 GMT | Analyzing Penetration Testing and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/9348ca8289b4) |
+| Thu, 28 Aug 2025 08:13:26 GMT | The $0 Bug: Why Most Reports Get Rejected (And How to Avoid It) | Sukhveer Singh | [Read More](https://medium.com/p/c99a4909be98) |
+| Thu, 28 Aug 2025 08:01:40 GMT | SystemD Explained: Like Having a Personal Assistant for Your Linux System | MayhemCode | [Read More](https://medium.com/p/5a427c4f8645) |
+| Thu, 28 Aug 2025 08:01:39 GMT | Ambient Mesh Security: Zero Trust Networking Without Sidecars | Mohamed ElEmam | [Read More](https://medium.com/p/816bbf818bf3) |
+| Thu, 28 Aug 2025 08:01:08 GMT | Gartner’s Top Strategic Technology Trends for 2025 | Claritus Consulting | [Read More](https://medium.com/p/706565623857) |
+| Thu, 28 Aug 2025 07:57:04 GMT | Best Cybersecurity Open-Source Tools of the Month: August 2025 | Earning Handle | [Read More](https://medium.com/p/3c27d7ef90ca) |
+| Thu, 28 Aug 2025 07:56:17 GMT | When Ransomware Writes Itself: Inside PromptLock, the First Known AI-Powered Ransomware | Ashley Dai | [Read More](https://medium.com/p/30358ff49cd2) |
+| Thu, 28 Aug 2025 07:51:07 GMT | DPRK IT WORKERS UNVEILED | Rakesh Krishnan | [Read More](https://medium.com/p/197edeb5b419) |
+| Thu, 28 Aug 2025 07:47:19 GMT | ️OSINT Tools for Beginners: Turn Curiosity into Cybersecurity Superpowers ️ | RootXploit.0x | [Read More](https://medium.com/p/441f99e19464) |
+| Thu, 28 Aug 2025 07:46:49 GMT | From Recon to Report: Exploiting SQL Injection in Hidden Parameter | Ahmad Mugh33ra | [Read More](https://medium.com/p/a2bce655e055) |
 | Thu, 28 Aug 2025 07:35:09 GMT | AI in the SOC: Hype, Reality, and the Analyst’s Future | Tedislava Vasileva | [Read More](https://medium.com/p/1ad4044d16b3) |
 | Thu, 28 Aug 2025 07:33:19 GMT | 7 Best Ethical Hacking Certifications in 2025 (Updated) | Serishahid | [Read More](https://medium.com/p/fd4cde8c22a9) |
 | Thu, 28 Aug 2025 07:26:32 GMT | Turning Juice Shop into a Pentesting Portfolio: Lab Setup Walkthrough (Day 1) | Hacked By Himel | [Read More](https://medium.com/p/ad99fa95bda9) |
@@ -35,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 06:49:12 GMT | The Day I Disassembled and Froze an AirTag | Michikusa-Log | [Read More](https://medium.com/p/3322a37c4c16) |
 | Thu, 28 Aug 2025 06:47:35 GMT | Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas | Gorka | [Read More](https://medium.com/p/52ede8b6bc4a) |
 | Thu, 28 Aug 2025 06:45:37 GMT | Hacking by Breaking: The Dark Art of Error Fuzzing | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e05f5722fac1) |
+| Thu, 28 Aug 2025 06:45:03 GMT | Akıllı Alarm Sensörleri: Dijital Çağın Güvenlik Çözümleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/b735ef02edae) |
 | Thu, 28 Aug 2025 06:34:05 GMT | Unarmed Security Guards vs. Armed Guards: Which Is Right for Your Office? | Pinki Chauhan | [Read More](https://medium.com/p/e61102a01ed7) |
 | Thu, 28 Aug 2025 06:27:46 GMT | Castles in the Cloud: Building a Truly Secure Infrastructure in 2025 | DJH4CK3R | [Read More](https://medium.com/p/0dbd063ad30b) |
 | Thu, 28 Aug 2025 06:27:38 GMT | Shadows in the Server Room: An IT Security Audit That Changed Everything | DJH4CK3R | [Read More](https://medium.com/p/b080d99e5911) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 02:47:34 GMT | Go Microservices Security: 7 Best Practices You Can’t Ignore | Concurrent Mind | [Read More](https://medium.com/p/45e32b4df90d) |
 | Thu, 28 Aug 2025 02:43:45 GMT | Write-up: LIT 2025 — misc/[name] 1 & misc/[name] 2 | DieLoop | [Read More](https://medium.com/p/1baa820429ea) |
 | Thu, 28 Aug 2025 02:43:06 GMT | I Built an AI Red Teamer. Here’s What I Learned. | Artificial Monty | [Read More](https://medium.com/p/84087cbb4820) |
-| Thu, 28 Aug 2025 02:19:46 GMT | N3XT_L3V3L CTF 2025 — a Piece of Peace (Steganography Write-up) | DieLoop | [Read More](https://medium.com/p/57107673009f) |
-| Thu, 28 Aug 2025 02:08:21 GMT | How to Build a Rogue RFID Toolkit in an Afternoon | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f219a4faa7df) |
-| Thu, 28 Aug 2025 02:05:53 GMT | In-depth Exploration of NextAuth.js for Enhanced Security | @rnab | [Read More](https://medium.com/p/7e989d3d1a77) |
-| Thu, 28 Aug 2025 02:03:40 GMT | Wiz x Cloud Security Championship: Contain Me If You Can - Walkthrough | Mostafa Hussein | [Read More](https://medium.com/p/11b17e931ca5) |
-| Thu, 28 Aug 2025 01:56:31 GMT | Understanding the MITRE Framework: A Comprehensive Guide | Cyber Fortress | [Read More](https://medium.com/p/736423cb2521) |
-| Thu, 28 Aug 2025 01:44:13 GMT | When Ransomware Becomes Native to the Cloud: The Storm-0501 Wake-Up Call | Dhruvdeep Singh | [Read More](https://medium.com/p/ebf6682b4fa4) |
-| Thu, 28 Aug 2025 01:26:32 GMT | The SM2 Curve | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/cff33d6ace15) |
-| Thu, 28 Aug 2025 00:50:15 GMT | Basic Dynamic Analysis | Anthony Mazyck | [Read More](https://medium.com/p/69ba303a08d5) |
-| Thu, 28 Aug 2025 00:43:00 GMT | How to Map Out an Entire City Using Only Open Data and Patience | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/16a0ca0561c5) |
-| Thu, 28 Aug 2025 00:39:15 GMT | The Scariest Database You’ve Never Heard Of (And How to Search It) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/efe0a510aa16) |
-| Thu, 28 Aug 2025 00:37:10 GMT | What Law Enforcement Gets Wrong About Hackers | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3826179dea57) |
-| Thu, 28 Aug 2025 00:14:51 GMT | WriteUp Cap HackTheBox | Olivalein | [Read More](https://medium.com/p/95e6e7defe2d) |
-| Thu, 28 Aug 2025 00:08:49 GMT | HackTheBox: Redeemer | Rahaliashraf | [Read More](https://medium.com/p/456f704a019d) |
-| Thu, 28 Aug 2025 00:05:53 GMT | Building Secure and Resilient Contact Forms in Next.js | @rnab | [Read More](https://medium.com/p/450cbb437e68) |
-| Wed, 27 Aug 2025 23:56:49 GMT | Quantum Cryptography Upgrades for Units Network Security: Future-Proofing Layer-0 Blockchain… | Mete Ali Başkaya | [Read More](https://medium.com/p/a9142175bed9) |
-| Wed, 27 Aug 2025 23:53:54 GMT | Why Patching Outdated Software Is Critical | Yash Patel | [Read More](https://medium.com/p/4f3984a55f5a) |
-| Wed, 27 Aug 2025 23:45:58 GMT | INR Withdrawals Made Simple with CryptoXpress | Ufanabasi Ekong | [Read More](https://medium.com/p/2429b154a03b) |
-| Wed, 27 Aug 2025 23:16:22 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/9f28cd1d82e9) |
-| Wed, 27 Aug 2025 23:06:09 GMT | More Browser Extensions Hacked | Matthew.Rosenquist | [Read More](https://medium.com/p/49fadd01b714) |
-| Wed, 27 Aug 2025 23:05:37 GMT | How Curiosity Made Me a Hacker | Cybernerddd | [Read More](https://medium.com/p/b369e0c0e1e2) |
-| Wed, 27 Aug 2025 23:00:26 GMT | Salt Typhoon: Why application-layer security, PQC, and verifiable identity are the only lasting… | Carsten Stöcker | [Read More](https://medium.com/p/c67871ee8e91) |
-| Wed, 27 Aug 2025 22:41:51 GMT | Threat Hunting in AI-Era: A Human Approach to Finding the Unseen | Yash Patel | [Read More](https://medium.com/p/ba6d28d1df9b) |
-| Wed, 27 Aug 2025 22:20:59 GMT | How I Turned a “Type 3 Chars” Search Box Into Full SQLi | Ali Hussain | [Read More](https://medium.com/p/a4664e41071f) |
-| Wed, 27 Aug 2025 22:11:58 GMT | Why Our Obsession With Emotional Safety Is Backfiring | Drew Lisso | [Read More](https://medium.com/p/8167f1815164) |
