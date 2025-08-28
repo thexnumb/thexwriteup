@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 13:46:17 GMT | The AI Cold War: Inside the Global Battle for Digital Supremacy | vydhi | [Read More](https://medium.com/p/e82f185a8b68) |
+| Thu, 28 Aug 2025 13:37:26 GMT | Why Every Beginner in Cybersecurity Needs to Learn How to Break Things | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/36e6ce96e03d) |
+| Thu, 28 Aug 2025 13:31:40 GMT | Skip the Fluff: Cybersecurity Skills That Actually Get You Hired | Kumar Mohit | [Read More](https://medium.com/p/f58aada70ea9) |
+| Thu, 28 Aug 2025 13:27:52 GMT | Why Managed Detection & Response (MDR) is the Top Priority for U.S. Businesses | IT_Engineer | [Read More](https://medium.com/p/e83a4dccf263) |
 | Thu, 28 Aug 2025 13:22:55 GMT | Why Mobile Patrol Security is Essential for Business Safety | Nimra Sheikh | [Read More](https://medium.com/p/336f5c47a727) |
 | Thu, 28 Aug 2025 13:22:51 GMT | The Crime LAB -Cyberdefenders | Eagledefenders | [Read More](https://medium.com/p/323e4eb80e3a) |
 | Thu, 28 Aug 2025 13:22:26 GMT | The Anonymity Paradox: How Your “Secure” Browsing Habits Are Broadcasting Your Location | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3092e42e1ec2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 09:06:44 GMT | Why Your Brain Cringes at Stupid Questions | OopsLog | [Read More](https://medium.com/p/431ebc2bf87e) |
 | Thu, 28 Aug 2025 09:01:49 GMT | SafeLine is a Beautiful Open Source WAF for your Web App | Maverick Steel | [Read More](https://medium.com/p/ff72ac6ded96) |
 | Thu, 28 Aug 2025 09:01:35 GMT | The Day Theory Met Reality: Applying Cybersecurity Books to Real-World Hacks | Shahzaib | [Read More](https://medium.com/p/d5af7aba4d3e) |
-| Thu, 28 Aug 2025 09:01:34 GMT | Three Lessons in Resilience: From Military Networks to Wall Street to Parenthood | IsaacFabianK | [Read More](https://medium.com/p/8bf459f72d6b) |
-| Thu, 28 Aug 2025 09:00:44 GMT | Setting Up SafeLine WAF for WordPress Security | Maverick Steel | [Read More](https://medium.com/p/ea88e348d647) |
-| Thu, 28 Aug 2025 09:00:18 GMT | Introduction to CAN and UDS with the Help of — BlockHarbor CTF — 1 | Mohammed Shine | [Read More](https://medium.com/p/c3e99b5c94a2) |
-| Thu, 28 Aug 2025 08:53:42 GMT | The Missing Piece in AI-Powered SOC Automation: My Discovery of Threat Intelligence | Anel Graph | [Read More](https://medium.com/p/7b19689c8af8) |
