@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 16:44:20 GMT | Analyzing Ransomware Defense That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/857dc2958c41) |
+| Thu, 28 Aug 2025 16:42:31 GMT | Switching to Alpine Linux for CVE Reduction: Benefits, Challenges, and Best Practices | Vatsal Jain | [Read More](https://medium.com/p/815945433441) |
+| Thu, 28 Aug 2025 16:42:28 GMT | Analyzing Ransomware Defense Step by Step | Cyber Security Research | [Read More](https://medium.com/p/e58e95e7a16c) |
+| Thu, 28 Aug 2025 16:37:19 GMT | Why Google’s Nano Banana AI Could Make Photoshop Obsolete | ForeCast | [Read More](https://medium.com/p/452ca17124f8) |
+| Thu, 28 Aug 2025 16:36:45 GMT | Top Online Cybersecurity Courses with Certificates for 2026 | Anu Shreya | [Read More](https://medium.com/p/5b840cece5df) |
+| Thu, 28 Aug 2025 16:31:35 GMT | The Cod Hacker On Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/4cc7b5d6c160) |
+| Thu, 28 Aug 2025 16:24:14 GMT | Why AI Won’t Replace These Jobs Anytime Soon (and What That Means for You) | ForeCast | [Read More](https://medium.com/p/5e787284ada1) |
+| Thu, 28 Aug 2025 16:15:34 GMT | The Missing Layer for AI Agents: Part II — Why We Got It Wrong (And What We’re Building Instead) | Shreyash Ranjan | [Read More](https://medium.com/p/cdd0b7c9e470) |
 | Thu, 28 Aug 2025 16:05:33 GMT | Simple IDOR Led to PII & Passport Leaks (and a $1,000 Bounty) | toast | [Read More](https://medium.com/p/e3e453a519ec) |
 | Thu, 28 Aug 2025 16:02:19 GMT | Cryptographic Failures (OWASP Top 10 #2) — Simplified | Chai | [Read More](https://medium.com/p/c37eb4bf75a4) |
 | Thu, 28 Aug 2025 16:01:03 GMT | The Secret Recipe: A Story About Confidentiality. | Everyday learner | [Read More](https://medium.com/p/c669d2a6f510) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 11:52:53 GMT | Establishing DevSecOps for Small and Medium Organizations: Practical Controls, Challenges, and… | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/66bf22349169) |
 | Thu, 28 Aug 2025 11:50:14 GMT | Skynet — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/98bfb5ab5fdf) |
 | Thu, 28 Aug 2025 11:47:34 GMT | European Strategic Autonomy Begins With Power | Brian Iselin | [Read More](https://medium.com/p/3b6b50fccb25) |
-| Thu, 28 Aug 2025 11:42:47 GMT | How to Deploy a React App on AWS EC2 (Ubuntu) using Nginx | Abhishek Makwana | [Read More](https://medium.com/p/8043eebc942b) |
-| Thu, 28 Aug 2025 11:41:31 GMT | 5 Reasons Investing in Cybersecurity Services Pays Off | SmartCLOUD Australia | [Read More](https://medium.com/p/d73e26aa3eba) |
-| Thu, 28 Aug 2025 11:34:47 GMT | ️ AWS Free Tier 2025: Everything You Need to Know | Abhishek Makwana | [Read More](https://medium.com/p/6841c94ed0d5) |
-| Thu, 28 Aug 2025 11:34:46 GMT | Penetration Testing Services: Investing in Security That Pays Off | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/6ba41af2e5b6) |
-| Thu, 28 Aug 2025 11:31:43 GMT | The Growing Role of AI in Everyday Life | Oswal Laurie | [Read More](https://medium.com/p/d58ad8251a5d) |
-| Thu, 28 Aug 2025 11:30:39 GMT | Security Hardening - How to Secure Sitecore XP and XP Platfrom | Abhinav kumar Singh | [Read More](https://medium.com/p/ca5fa62a793f) |
-| Thu, 28 Aug 2025 11:23:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/dd155b0d7442) |
-| Thu, 28 Aug 2025 11:22:18 GMT | Continuous Threat Exposure Management (CTEM): A New Security Framework | Cybersecurity Umbrella | [Read More](https://medium.com/p/9ac515c9c1a0) |
