@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 17:27:37 GMT | My Internship Experience in Ethical Hacking: Learning to Secure the Digital World | Prajapati shashank | [Read More](https://medium.com/p/f8d8c54843ca) |
+| Thu, 28 Aug 2025 17:22:58 GMT | Mastering Routersploit: Step-by-Step Guide to Hacking Routers and IoT Devices | Very Lazy Tech | [Read More](https://medium.com/p/cab47031afd3) |
+| Thu, 28 Aug 2025 17:21:05 GMT | Cyber Pros Don’t Just Use Nmap or RustScan — Here’s What They Really Use | Rishabh Shrivastava | [Read More](https://medium.com/p/8c27cbd259a0) |
+| Thu, 28 Aug 2025 17:19:39 GMT | Intercepting LDAP With InterceptSuite | Sourav Kalal | [Read More](https://medium.com/p/45d219c14943) |
 | Thu, 28 Aug 2025 17:10:54 GMT | The Mind’s New Battlefield: Novel Cognitive AI Cybersecurity Frameworks | noailabs | [Read More](https://medium.com/p/8cae5a874733) |
 | Thu, 28 Aug 2025 17:01:02 GMT | Everything You Need to Know About OpenAI’s GPT-5 Bug Bounty Program | LawTech | [Read More](https://medium.com/p/8222b4fbce98) |
 | Thu, 28 Aug 2025 16:57:33 GMT | The AI Cybercrime Revolution: Why Your Blockchain Transactions Need Better Privacy Protection | SilentSwap | [Read More](https://medium.com/p/a2c3be00e6ca) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 12:53:07 GMT | Building Multipart Requests in Kotlin for a Spring Boot REST API | Abdul Ahad | [Read More](https://medium.com/p/5203767904a6) |
 | Thu, 28 Aug 2025 12:48:58 GMT | Hassas Veriden Güvenli Prompta | Aylin Karaoglu | [Read More](https://medium.com/p/e9506e4653d9) |
 | Thu, 28 Aug 2025 12:40:53 GMT | I Am Now a Certified Red Team Analyst (CRTA) — My Journey with CyberWarFare Labs | Sidhartha | [Read More](https://medium.com/p/0845f47f7572) |
-| Thu, 28 Aug 2025 12:34:16 GMT | Top 10 Cybersecurity Companies in Toronto Protecting Small Businesses | Brigient | [Read More](https://medium.com/p/e9b6eb7583cd) |
-| Thu, 28 Aug 2025 12:29:36 GMT | picoCTF Forensics Challenge: DISKO 1 | Hitesh Sharma | [Read More](https://medium.com/p/501583ec920c) |
-| Thu, 28 Aug 2025 12:26:07 GMT | The Cybersecurity Salary Report That Made Me Rethink My Career Strategy | Testleaf | [Read More](https://medium.com/p/00d2dc434fa3) |
-| Thu, 28 Aug 2025 12:25:57 GMT | How Hackers Really Collect Your Email Address | Visir | [Read More](https://medium.com/p/041ac32b7043) |
