@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 10:37:04 GMT | Privacy-First Local Anonymization Models: Protecting Personal Information Before Data Leaves Your… | AI Engineering | [Read More](https://medium.com/p/ef2dbb25e6d1) |
+| Thu, 28 Aug 2025 10:35:45 GMT | Phishing Attack Using Captchas…! How They Can Land You in Trouble | Xaar The Educator | [Read More](https://medium.com/p/935d733ae9d2) |
+| Thu, 28 Aug 2025 10:26:57 GMT | TryHackMe PT Study Notes (Unofficial) | Motasem Hamdan | [Read More](https://medium.com/p/e433376da8a0) |
+| Thu, 28 Aug 2025 10:23:28 GMT | How to Convert YouTube Videos to MP4 Format Easily | Ketan Patel | [Read More](https://medium.com/p/abbf1cb4a281) |
+| Thu, 28 Aug 2025 10:23:04 GMT | How a Malicious APK Can Hijack an Android Device: Real-World Attack Scenario | Ganpat Prajapati | [Read More](https://medium.com/p/7faf4a657a4c) |
+| Thu, 28 Aug 2025 10:19:29 GMT | CRWD earnings: what CrowdStrike’s results mean for CRWD stock right now | Shashi Prakash Agarwal | [Read More](https://medium.com/p/4f6af4c66d49) |
 | Thu, 28 Aug 2025 10:15:04 GMT | File Inclusion | Yusuf Eren Koçak | [Read More](https://medium.com/p/5d1a7751b5a4) |
+| Thu, 28 Aug 2025 10:08:55 GMT | SOC Level 2 on TryHackMe: Struggles, Wins, and Coffee-Fueled Insights | Furkanctiner | [Read More](https://medium.com/p/ca5174786eb3) |
+| Thu, 28 Aug 2025 10:08:01 GMT | Hacking, Virtual Machines, Linux, and Networking: A Beginner’s Guide | Reuben Sam Philip | [Read More](https://medium.com/p/ab324d823f5c) |
 | Thu, 28 Aug 2025 10:06:00 GMT | MSSP Growth Guide: Scaling Threat Detection for Expanding Client Base | ANY.RUN | [Read More](https://medium.com/p/1e01346cd112) |
 | Thu, 28 Aug 2025 10:03:12 GMT | CyberDefender’s Lespion Lab | Adewale Ayomide | [Read More](https://medium.com/p/b3515d02e4e6) |
 | Thu, 28 Aug 2025 10:01:41 GMT | Product Review : ViceVersa IMAP Backup & Restore Tool | Avery Scottish | [Read More](https://medium.com/p/d5663d0496ac) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 06:01:55 GMT | Tiktok Hack - Tips - 2025 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/d8e4a5d3a46e) |
 | Thu, 28 Aug 2025 06:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Aug 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f237120d803d) |
 | Thu, 28 Aug 2025 05:58:38 GMT | The First Crack:  How Exploits Actually Work | Raj Islam | [Read More](https://medium.com/p/d8eeb5879176) |
-| Thu, 28 Aug 2025 05:57:27 GMT | Essential Kali Linux Commands for Beginners | Abhinsubej | [Read More](https://medium.com/p/4c79d0b139db) |
-| Thu, 28 Aug 2025 05:57:00 GMT | CyberSploit2 CTF — VulnHub Walkthrough: From Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/074d3bd470f1) |
-| Thu, 28 Aug 2025 05:54:40 GMT | Securing the Lion City: How Singapore Fends Off Cyber‑Attacks | Dan Marshall-Singh | [Read More](https://medium.com/p/e56d9e93517d) |
-| Thu, 28 Aug 2025 05:47:12 GMT | Top 10 Error Handling Leaks Red Teamers Exploit | Narendar Battula (nArEn) | [Read More](https://medium.com/p/348289e76bdd) |
-| Thu, 28 Aug 2025 05:39:54 GMT | Your 404s Are Talking Too Much: Error Handling as a Security Control | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a4265e11d531) |
-| Thu, 28 Aug 2025 05:39:43 GMT | How Studying Cybersecurity Taught Me More About Trust Than Any Relationship Ever Did | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/33281e3c8f16) |
-| Thu, 28 Aug 2025 05:34:52 GMT | ⚡ Broken API Dependencies: Recon via Third-Party Calls | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c60a5c45eb82) |
-| Thu, 28 Aug 2025 05:32:07 GMT | study hacks that will make learning easier (and less stressful) | eenderah | [Read More](https://medium.com/p/b91ad3b7e680) |
