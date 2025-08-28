@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 04:00:04 GMT | Cybersecurity OEMs & The New Why Cybersecurity Is About People First, Technology Second | Dr. Deep Pandey | [Read More](https://medium.com/p/f85606a26264) |
+| Thu, 28 Aug 2025 03:57:34 GMT | Critical Alert: Zero-Day Exploits Target Apple Users While AI Security Faces New Bypass Threats | Akshat Ratanpal | [Read More](https://medium.com/p/70203759a8f6) |
 | Thu, 28 Aug 2025 03:45:30 GMT | CVE Alert: SQL Injection in Yonyou GRP-U8 — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/4a6e3b9df462) |
 | Thu, 28 Aug 2025 03:31:36 GMT | The Rise of Crypto24: Ransomware That Blinds Your Defenses Before Striking | Deven Chhajed | [Read More](https://medium.com/p/6762d5e4a7f1) |
 | Thu, 28 Aug 2025 03:28:47 GMT | The Hidden Truth About DevSecOps Jobs: What 47 Job Postings Revealed About This $219K Career Path | Afolabi Abigeal | [Read More](https://medium.com/p/a7f12b4542b0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 18:47:06 GMT | Why Data Backup Is Still the Weak Link in 2025: Lessons From Breached Companies | VastEdge Inc. | [Read More](https://medium.com/p/5904b5ebb573) |
 | Wed, 27 Aug 2025 18:41:13 GMT | TryHackMe MalDoc:Static Analysis — Walkthrough (Step-by-Step) ⤵ | Furkanctiner | [Read More](https://medium.com/p/e78af9f7503c) |
 | Wed, 27 Aug 2025 18:35:27 GMT | How to Sign Out of All Devices on Disney Plus | www.OneCoolTip.com | [Read More](https://medium.com/p/9250563d05c0) |
-| Wed, 27 Aug 2025 18:32:19 GMT | How OAuth Device Flow Attacks Bypassed MFA: What the 2024–2025 Wave Means for Enterprise Security | Deepak Gupta | [Read More](https://medium.com/p/67d64ad6f04b) |
-| Wed, 27 Aug 2025 18:31:33 GMT | Zero Trust Isn’t Just a Slogan | Roshinni Gandhi | [Read More](https://medium.com/p/25c0ce28b844) |
