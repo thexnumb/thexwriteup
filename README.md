@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 05:39:54 GMT | Your 404s Are Talking Too Much: Error Handling as a Security Control | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a4265e11d531) |
+| Thu, 28 Aug 2025 05:34:52 GMT | ⚡ Broken API Dependencies: Recon via Third-Party Calls | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c60a5c45eb82) |
+| Thu, 28 Aug 2025 05:27:03 GMT | Day 44 -Understanding the Cyber Kill Chain for beginners | unica 02 | [Read More](https://medium.com/p/424b68a3a0f9) |
+| Thu, 28 Aug 2025 05:20:43 GMT | ️ Cybersecurity for Hotels: Protecting Guest Information | jusBooking | [Read More](https://medium.com/p/be7511547c2d) |
 | Thu, 28 Aug 2025 05:17:09 GMT | Hack the Box: Flag Command | Ross Andrews | [Read More](https://medium.com/p/cb99258da706) |
 | Thu, 28 Aug 2025 05:13:20 GMT | How Authentication Works on the Web: From Passwords to JWTs | Yuvraj Sankilwar | [Read More](https://medium.com/p/51a80505314d) |
 | Thu, 28 Aug 2025 05:11:43 GMT | Demystifying Binary, Decimal, and Hexadecimal in Networking | Aryan Kumar | [Read More](https://medium.com/p/c2d425bfb157) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 19:44:14 GMT | RapperBot Botnet , Inside One of the Most Powerful DDoS Networks Ever | Motasem Hamdan | [Read More](https://medium.com/p/73566eefb42b) |
 | Wed, 27 Aug 2025 19:44:13 GMT | Apple Unveils the Revolutionary iPhone 17 — A Leap Into the Future | UV Smart | [Read More](https://medium.com/p/1579607712a3) |
 | Wed, 27 Aug 2025 19:39:31 GMT | Composer Install or Update? Best Practices for Safely Updating Composer in Production | Shirishrai | [Read More](https://medium.com/p/6443386df1c8) |
-| Wed, 27 Aug 2025 19:37:32 GMT | My Journey to Building a Zero Trust Network in an OT Environment | Cyberkech | [Read More](https://medium.com/p/5f5c8b0c9cad) |
-| Wed, 27 Aug 2025 19:36:49 GMT | Using Outlook rules to control emails with different attachments types, Nexus Human | Nexus Human | [Read More](https://medium.com/p/4c5fe5d1732a) |
-| Wed, 27 Aug 2025 19:35:26 GMT | Slopsquatting: AI Hallucinations Fueling a New Class of Software Supply Chain Attacks | Wes Young | [Read More](https://medium.com/p/68696d569a8a) |
-| Wed, 27 Aug 2025 19:33:30 GMT | Bringing AI to DevOps: Generative AI Basics. | Gaurav Agnihotri | [Read More](https://medium.com/p/ebe8ad8482b7) |
