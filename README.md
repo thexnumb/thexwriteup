@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 Aug 2025 06:27:46 GMT | Castles in the Cloud: Building a Truly Secure Infrastructure in 2025 | DJH4CK3R | [Read More](https://medium.com/p/0dbd063ad30b) |
+| Thu, 28 Aug 2025 06:27:38 GMT | Shadows in the Server Room: An IT Security Audit That Changed Everything | DJH4CK3R | [Read More](https://medium.com/p/b080d99e5911) |
+| Thu, 28 Aug 2025 06:26:30 GMT | The Hunter’s Diary: A Bug Bounty Journey from Curiosity to Critical Hit | DJH4CK3R | [Read More](https://medium.com/p/f3c4900f225b) |
+| Thu, 28 Aug 2025 06:22:18 GMT | ⚡ One Click to Chaos: How I Chained CSRF with Open Redirects for Account Takeover | Iski | [Read More](https://medium.com/p/fd9d5d753402) |
+| Thu, 28 Aug 2025 06:14:47 GMT | Internet Operations Management By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9b672b135795) |
+| Thu, 28 Aug 2025 06:09:49 GMT | Israel Lands Helicopters in Damascus | Everclear | [Read More](https://medium.com/p/829aaa772db7) |
+| Thu, 28 Aug 2025 06:01:55 GMT | Tiktok Hack - Tips - 2025 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/d8e4a5d3a46e) |
+| Thu, 28 Aug 2025 06:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Aug 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f237120d803d) |
+| Thu, 28 Aug 2025 05:58:38 GMT | The First Crack:  How Exploits Actually Work | Raj Islam | [Read More](https://medium.com/p/d8eeb5879176) |
+| Thu, 28 Aug 2025 05:57:27 GMT | Essential Kali Linux Commands for Beginners | Abhinsubej | [Read More](https://medium.com/p/4c79d0b139db) |
+| Thu, 28 Aug 2025 05:57:00 GMT | CyberSploit2 CTF — VulnHub Walkthrough: From Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/074d3bd470f1) |
+| Thu, 28 Aug 2025 05:54:40 GMT | Securing the Lion City: How Singapore Fends Off Cyber‑Attacks | Dan Marshall-Singh | [Read More](https://medium.com/p/e56d9e93517d) |
+| Thu, 28 Aug 2025 05:47:12 GMT | Top 10 Error Handling Leaks Red Teamers Exploit | Narendar Battula (nArEn) | [Read More](https://medium.com/p/348289e76bdd) |
 | Thu, 28 Aug 2025 05:39:54 GMT | Your 404s Are Talking Too Much: Error Handling as a Security Control | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a4265e11d531) |
+| Thu, 28 Aug 2025 05:39:43 GMT | How Studying Cybersecurity Taught Me More About Trust Than Any Relationship Ever Did | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/33281e3c8f16) |
 | Thu, 28 Aug 2025 05:34:52 GMT | ⚡ Broken API Dependencies: Recon via Third-Party Calls | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c60a5c45eb82) |
+| Thu, 28 Aug 2025 05:32:07 GMT | study hacks that will make learning easier (and less stressful) | eenderah | [Read More](https://medium.com/p/b91ad3b7e680) |
 | Thu, 28 Aug 2025 05:27:03 GMT | Day 44 -Understanding the Cyber Kill Chain for beginners | unica 02 | [Read More](https://medium.com/p/424b68a3a0f9) |
 | Thu, 28 Aug 2025 05:20:43 GMT | ️ Cybersecurity for Hotels: Protecting Guest Information | jusBooking | [Read More](https://medium.com/p/be7511547c2d) |
 | Thu, 28 Aug 2025 05:17:09 GMT | Hack the Box: Flag Command | Ross Andrews | [Read More](https://medium.com/p/cb99258da706) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 20:44:19 GMT | Potential Topics for Cyber/Network role with cybersecurity company | Bob Malin | [Read More](https://medium.com/p/4f81b4c0ca0b) |
 | Wed, 27 Aug 2025 20:40:14 GMT | On the Weight of Love | Words_by_Memira | [Read More](https://medium.com/p/2122b1e3ae1a) |
 | Wed, 27 Aug 2025 20:36:27 GMT | A vida dos bugs (e por que eles sempre voltam) | Thamires Pinheiro | [Read More](https://medium.com/p/b43280aba910) |
-| Wed, 27 Aug 2025 20:33:04 GMT | Kijan Pou Kòmanse nan IT ak Cybersecurity (Anvan Ou Kouri Dèyè Sètifikasyon) | Jean Bertro Paul | [Read More](https://medium.com/p/3bf48af3fbb7) |
-| Wed, 27 Aug 2025 20:32:54 GMT | PBM, Benefício Farmácia e Health Analytics: o guia prático da Funcional Health Tech | Ianchrishansen | [Read More](https://medium.com/p/1c4a9153da9f) |
-| Wed, 27 Aug 2025 20:27:29 GMT | Secure Shell - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/3982eaa9baa0) |
-| Wed, 27 Aug 2025 20:22:28 GMT | HarborGuard ile Konteyner Güvenliğinde Yeni Bir Yaklaşım | Mesut Ozsoy | [Read More](https://medium.com/p/34b49bf28eb4) |
-| Wed, 27 Aug 2025 20:20:33 GMT | How to Create Strong and Unique Passwords | Nexus Human | [Read More](https://medium.com/p/f1ea2569f93a) |
-| Wed, 27 Aug 2025 20:20:01 GMT | Cybersecurity Unlocked: A Journey into Cybersec with Yash | Yash Kitey | [Read More](https://medium.com/p/afcfb6e04a8a) |
-| Wed, 27 Aug 2025 20:19:19 GMT | HTB: Developing YARA Rules | Luke | [Read More](https://medium.com/p/9df2646acbfe) |
-| Wed, 27 Aug 2025 20:18:40 GMT | How to Get Started in IT and mostly in Cybersecurity (Before Chasing Certifications) | Jean Bertro Paul | [Read More](https://medium.com/p/02048f1c31e2) |
-| Wed, 27 Aug 2025 20:17:15 GMT | The Next Frontier in Cybersecurity Isn’t Technical, It’s Psychological | Giuseppe Canale | [Read More](https://medium.com/p/19dea9252f06) |
-| Wed, 27 Aug 2025 20:14:34 GMT | Web Güvenliği: SQLi ,XSS ve CSRF Kodlarla ve Vaka Çalışmaları ile Öğren | Yunus Emre Aydın | [Read More](https://medium.com/p/9a939fee37bc) |
-| Wed, 27 Aug 2025 19:57:54 GMT | AI Attack Mind Map: an operator’s field manual | aviral srivastava | [Read More](https://medium.com/p/bcde6bed9529) |
-| Wed, 27 Aug 2025 19:52:50 GMT | File Integrity Checks in Spring Boot File Upload APIs | Alexander Obregon | [Read More](https://medium.com/p/4ee8b0dc5ded) |
-| Wed, 27 Aug 2025 19:44:14 GMT | RapperBot Botnet , Inside One of the Most Powerful DDoS Networks Ever | Motasem Hamdan | [Read More](https://medium.com/p/73566eefb42b) |
-| Wed, 27 Aug 2025 19:44:13 GMT | Apple Unveils the Revolutionary iPhone 17 — A Leap Into the Future | UV Smart | [Read More](https://medium.com/p/1579607712a3) |
-| Wed, 27 Aug 2025 19:39:31 GMT | Composer Install or Update? Best Practices for Safely Updating Composer in Production | Shirishrai | [Read More](https://medium.com/p/6443386df1c8) |
