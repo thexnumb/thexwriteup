@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 10:38:02 GMT | Exploiting OTP with IP Rotation on a Flutter App: Bypassing Rate Limits | Hussein A.Taha | [Read More](https://medium.com/p/58f9dffec83c) |
+| Fri, 29 Aug 2025 10:32:34 GMT | Cybersecurity Training Arizona — Keep Your Business Secure | DL Info Shield | [Read More](https://medium.com/p/e41011fd40ad) |
+| Fri, 29 Aug 2025 10:31:00 GMT | Path Traversal challenge in Web Security Academy | Varkeythms | [Read More](https://medium.com/p/e5fcacd1e416) |
+| Fri, 29 Aug 2025 10:30:15 GMT | The Unblinking Eye: How Computer Vision is Building Safer Cities | Kryptonaitoffice | [Read More](https://medium.com/p/d546ff0f2c74) |
+| Fri, 29 Aug 2025 10:29:55 GMT | The Internet Never Forgets: A Hacker’s Guide to Your Digital Shadow | IamPreth | [Read More](https://medium.com/p/de08136eaada) |
+| Fri, 29 Aug 2025 10:28:28 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/f4584bf76ef8) |
+| Fri, 29 Aug 2025 10:27:12 GMT | Writeup N3XT_L3V3L CTF — ny4muk | ny4muk | [Read More](https://medium.com/p/077aac9741b9) |
+| Fri, 29 Aug 2025 10:25:09 GMT | ️ Build Your Own Cybersecurity Lab with VMware: Step-by-Step Windows Server 2022 Installation… | Furkanctiner | [Read More](https://medium.com/p/88f97118d67d) |
+| Fri, 29 Aug 2025 10:23:14 GMT | Vintage HTB | mrugi1 | [Read More](https://medium.com/p/796954920c36) |
 | Fri, 29 Aug 2025 10:19:15 GMT | TransUnion Data Breach: 4.4 Million Customers at Risk | Technijian | [Read More](https://medium.com/p/9040f0098685) |
 | Fri, 29 Aug 2025 10:13:50 GMT | DEFCON33 Notlarım | Saniye Nur | [Read More](https://medium.com/p/0efb0f736bbf) |
 | Fri, 29 Aug 2025 10:13:44 GMT | What Comes After the Fire | Printique studios | [Read More](https://medium.com/p/414c8d5ddcd5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 05:25:51 GMT | Blogging: Technical Blogging on Cybersecurity and Threat Hunting | Saibin k siju | [Read More](https://medium.com/p/d40bc21222c0) |
 | Fri, 29 Aug 2025 05:24:14 GMT | DHCP Snooping: The Unsung Hero of Network Security | Abida Adra | [Read More](https://medium.com/p/74fe07048023) |
 | Fri, 29 Aug 2025 05:19:45 GMT | DC-3 Walkthrough: From Joomla Enumeration to Root Access | Abhinsubej | [Read More](https://medium.com/p/41154b06ceaf) |
-| Fri, 29 Aug 2025 05:17:55 GMT | Thermoplastic Polyurethane (TPU) Films Market Size, Growth, Analysis & Trends 2031 | Sagarkavika | [Read More](https://medium.com/p/31cef62cfd39) |
-| Fri, 29 Aug 2025 05:12:56 GMT | Cybersecurity Compliance in 2025: An Essential Guide | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/1c84df3d7e80) |
-| Fri, 29 Aug 2025 05:07:53 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ed70cac73969) |
-| Fri, 29 Aug 2025 05:05:52 GMT | DaUnderstanding MFA and 2FA for beginners | unica 02 | [Read More](https://medium.com/p/3173b6275ffe) |
-| Fri, 29 Aug 2025 05:00:30 GMT | The Secret Shape of What’s Coming | Something About Will | [Read More](https://medium.com/p/b34eb027c8de) |
-| Fri, 29 Aug 2025 04:58:27 GMT | The Role of Metadata Management in Modern Data Governance | Ahmedmongy | [Read More](https://medium.com/p/fe254966e15a) |
-| Fri, 29 Aug 2025 04:57:34 GMT | How to Identify Malware vs Ransomware Attacks | Elevate | [Read More](https://medium.com/p/38cddddec76b) |
-| Fri, 29 Aug 2025 04:53:04 GMT | Why Threat Hunting is So important | Liyakath | [Read More](https://medium.com/p/5483db9c9995) |
-| Fri, 29 Aug 2025 04:51:36 GMT | Apple Intelligence: When “Private AI” Collects More Than You Expect | LazyHacker | [Read More](https://medium.com/p/0ffa1b774233) |
