@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 17:26:00 GMT | Simple Security Habits That Actually Work (I’ve Tested Them) | Aj | [Read More](https://medium.com/p/18a20dfa5d5b) |
 | Fri, 29 Aug 2025 17:01:32 GMT | My official reason to blog about cybersecurity and the things i do: | C0mr4de | [Read More](https://medium.com/p/1dd96fb79898) |
 | Fri, 29 Aug 2025 16:59:40 GMT | How I Found a Simple but Impactful Web Cache Deception (WCD) Vulnerability | Yusuf | [Read More](https://medium.com/p/4782851bfcac) |
 | Fri, 29 Aug 2025 16:56:52 GMT | API Security Hardening: Building Fortress-Level Java APIs in Production | Harsh Shah | [Read More](https://medium.com/p/aa668b4b6151) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 13:01:29 GMT | Sweden Hit by Massive Ransomware Attack: A Wake-Up Call for Everyone | CyberSamm | [Read More](https://medium.com/p/586dcfe36574) |
 | Fri, 29 Aug 2025 13:00:35 GMT | Online Safety & Cyber Laws in India: What Every Internet User Must Know | Laams Tax Consultancy | [Read More](https://medium.com/p/10d62160beba) |
 | Fri, 29 Aug 2025 12:56:44 GMT | Avoiding Hidden Poisons in Facility Management | EXLITY | [Read More](https://medium.com/p/11fcee9c11f7) |
-| Fri, 29 Aug 2025 12:55:17 GMT | Understanding and Mitigating Web Injection Vulnerabilities: A Source Code Perspective | everythingBlackkk | [Read More](https://medium.com/p/702df1bcaaab) |
