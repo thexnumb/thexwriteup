@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 18:38:27 GMT | Hacking My Way: Fun, Engaging, and Totally My Style | Viratavi | [Read More](https://medium.com/p/1eb0d1fe888a) |
+| Fri, 29 Aug 2025 18:31:17 GMT | # Cybersecurity Commands Every Ethical Hacker Should Master. | Shreyansh Chourasia | [Read More](https://medium.com/p/c5a3f210bca3) |
+| Fri, 29 Aug 2025 18:26:59 GMT | Geopolitics and Cybersecurity: When Global Tensions Infiltrate the Enterprise | William Couturier | [Read More](https://medium.com/p/99a6c7a04f3a) |
 | Fri, 29 Aug 2025 18:24:35 GMT | Analyzing Security Operations for Professionals | Cyber Security Research | [Read More](https://medium.com/p/59f2ba6337a6) |
 | Fri, 29 Aug 2025 18:23:06 GMT | Routers: The Silent Gatekeepers of Your Network | Lakshmeesh R | [Read More](https://medium.com/p/2fcfbf990efe) |
 | Fri, 29 Aug 2025 18:21:36 GMT | Top 10 Cybersecurity Myths Everyone Still Believes in 2025 | Cyberkech | [Read More](https://medium.com/p/cf1bcf9de8e0) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 13:54:23 GMT | Agentic AI Will Change The Modern Enterprise — How Cybersecurity Teams Can Get Ready | Taimur Ijlal | [Read More](https://medium.com/p/cf5815281b0f) |
 | Fri, 29 Aug 2025 13:48:15 GMT | Nx Supply Chain Attack Exposes AI Workflows and Developer Credentials | The UNFILTERED Draft | [Read More](https://medium.com/p/495c128ea280) |
 | Fri, 29 Aug 2025 13:39:37 GMT | Your Password Manager Won’t Save You — Only Hardware Keys Will | Thread Whisperer | [Read More](https://medium.com/p/c1bb201ed3c6) |
-| Fri, 29 Aug 2025 13:38:52 GMT | Cheat Sheets for AI Writers: The Real Shortcut | Mr. AVISK | [Read More](https://medium.com/p/f8dbef109eba) |
-| Fri, 29 Aug 2025 13:33:30 GMT | Don’t Be a Pawn: How Open Redirects Can Trick You and Harm Websites | Aqsa Rasheed | [Read More](https://medium.com/p/136d99862ef3) |
-| Fri, 29 Aug 2025 13:33:10 GMT | Beyond the Password: An Architect’s Guide to Modern Authentication | Satyendra Jaiswal | [Read More](https://medium.com/p/54b8785c80f3) |
