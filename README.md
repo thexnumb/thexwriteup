@@ -12,13 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 13:33:30 GMT | Don’t Be a Pawn: How Open Redirects Can Trick You and Harm Websites | Aqsa Rasheed | [Read More](https://medium.com/p/136d99862ef3) |
+| Fri, 29 Aug 2025 13:33:10 GMT | Beyond the Password: An Architect’s Guide to Modern Authentication | Satyendra Jaiswal | [Read More](https://medium.com/p/54b8785c80f3) |
+| Fri, 29 Aug 2025 13:31:39 GMT | The Gmail Security Crisis That Threatens Billions | Prashant Koli | [Read More](https://medium.com/p/2922acce7507) |
+| Fri, 29 Aug 2025 13:28:05 GMT | Mastering Rate Limiting: Definitions, Node.js | Manish Mahinia | [Read More](https://medium.com/p/21e89975ca6a) |
 | Fri, 29 Aug 2025 13:27:00 GMT | Google Pours an Additional $9 Billion Into Virginia Data Centers | Motherlandlove | [Read More](https://medium.com/p/3dbd42dc99cb) |
+| Fri, 29 Aug 2025 13:26:55 GMT | My First Steps into Cybersecurity: What I Learned So Far | Raven Aniedu | [Read More](https://medium.com/p/dc70cf3619d6) |
 | Fri, 29 Aug 2025 13:26:35 GMT | The Evolution of Malware Evasion Techniques | Cybersecurity Umbrella | [Read More](https://medium.com/p/de644e9a3ae8) |
 | Fri, 29 Aug 2025 13:25:08 GMT | Exploring Computer Courses in Lahore and the Role of Technical Institutes | Lite Pakistan | [Read More](https://medium.com/p/4ad0df3ae233) |
 | Fri, 29 Aug 2025 13:22:52 GMT | Need to know what website can be used to get work done? | PARVIN NAHAR | [Read More](https://medium.com/p/07febfc950d9) |
 | Fri, 29 Aug 2025 13:21:02 GMT | Are You Confused Between Java, C, AI, Cybersecurity? | Code With tomy | [Read More](https://medium.com/p/7734a53e1c40) |
 | Fri, 29 Aug 2025 13:17:59 GMT | The NPM nightmare: how hackers hijacked AI to steal secrets | STR4T0TT0 | [Read More](https://medium.com/p/9335fec4d2f3) |
 | Fri, 29 Aug 2025 13:17:08 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/f85e5809eb7f) |
+| Fri, 29 Aug 2025 13:16:06 GMT | What Is coomer.su and Why Reddit Users Talk About It | Atif Mustafa | [Read More](https://medium.com/p/af7086f2c54d) |
 | Fri, 29 Aug 2025 13:14:34 GMT | Protecting the Future with Cyber Security at Boston Institute! | Dipanshu | [Read More](https://medium.com/p/268b711d580d) |
 | Fri, 29 Aug 2025 13:13:45 GMT | 5 More cURL Commands to Bypass WAFs | Ibtissam hammadi | [Read More](https://medium.com/p/ddb434d30c60) |
 | Fri, 29 Aug 2025 13:10:54 GMT | Cybersecurity Basics: How Web Applications Work . | Sam | [Read More](https://medium.com/p/248f3d3ade37) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 09:55:44 GMT | Analyzing Security Automation in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/b2341f87c445) |
 | Fri, 29 Aug 2025 09:54:24 GMT | Memahami Deauthentication Attack: Ancaman Tersembunyi dalam Jaringan WiFi | M FIRDAUS RIAWAN | [Read More](https://medium.com/p/9faf1da23ba1) |
 | Fri, 29 Aug 2025 09:53:13 GMT | Discover the Best DevOps Institute in Bangalore Right Now? | Mohammed Numan | [Read More](https://medium.com/p/46bd6b10b87e) |
-| Fri, 29 Aug 2025 09:52:40 GMT | The Leaky Bucket Bug | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/aa725b031cc5) |
-| Fri, 29 Aug 2025 09:51:34 GMT | Cloud Breaches Will Happen: How AWS DevOps Teams Automate Detection & Response | Ismail Kovvuru | [Read More](https://medium.com/p/48e4023e2adf) |
-| Fri, 29 Aug 2025 09:28:50 GMT | Naughty NotebookLM | The Ancient Mariner | [Read More](https://medium.com/p/262d322139e3) |
-| Fri, 29 Aug 2025 09:24:27 GMT | Essential Rails Security: Protecting Your Application from Top Pitfalls | Anamika | [Read More](https://medium.com/p/3b129a1cf700) |
-| Fri, 29 Aug 2025 09:23:21 GMT | Threat modeling tools for security architects | Kartik Debnath | [Read More](https://medium.com/p/ef8d84c91e02) |
-| Fri, 29 Aug 2025 09:20:48 GMT | The Cartel Who beat Anonymous | V1rtu3 _h05t | [Read More](https://medium.com/p/860e4b5084ec) |
