@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 22:16:07 GMT | TryHackMe-  Introduction To EDR Solved | Samar Bedi | [Read More](https://medium.com/p/f1603227f7a9) |
+| Fri, 29 Aug 2025 22:14:49 GMT | 40 AI Terms You Need to Know (Explained Clearly) | Hemant Patkar, CISSP | [Read More](https://medium.com/p/a4e625aa7fe2) |
+| Fri, 29 Aug 2025 22:14:41 GMT | The Real Cost of Getting Hacked: It’s More Than Just Money | Shahzaib | [Read More](https://medium.com/p/af439e850f72) |
+| Fri, 29 Aug 2025 22:13:50 GMT | HTTP Request Smuggling in Government Websites | Monika sharma | [Read More](https://medium.com/p/30fcbe230415) |
+| Fri, 29 Aug 2025 22:13:43 GMT | Open Directory Exposure: APK & EXE Dump Found on m.bureaux.fr | Regan Temudo | [Read More](https://medium.com/p/514c4e293038) |
+| Fri, 29 Aug 2025 22:02:38 GMT | Introduction to EDR TryHackMe - * Motion Graphics * - Beginner Friendly - Sunny Singh Verma | Sunny Singh Verma  [ SuNnY ] | [Read More](https://medium.com/p/2aafeb733cf7) |
+| Fri, 29 Aug 2025 21:51:25 GMT | The Planet’s Prestige - Blue Teams Labs Online | Anas404 | [Read More](https://medium.com/p/a0a8bc5bbdc5) |
+| Fri, 29 Aug 2025 21:45:09 GMT | Cybersecurity Framework — Quick Guide and ref | Aadish | [Read More](https://medium.com/p/ae814e040ae5) |
+| Fri, 29 Aug 2025 21:37:18 GMT | Red Team 101: Pasif Bilgi Toplama (OSINT) Araçları ve Yöntemleri - TalentCoders Siber Güvenlik Yaz… | Hakan ÇEVİK | [Read More](https://medium.com/p/e2a11c018227) |
+| Fri, 29 Aug 2025 21:37:17 GMT | Using Tutorials To Show Exploits (Series) — Part 2 | Nwosu Rosemary | [Read More](https://medium.com/p/55a2207ab058) |
+| Fri, 29 Aug 2025 21:31:36 GMT | SAMM, ASVS e DevSecOps: fortalecendo a segurança de software | Gabi Deutner | [Read More](https://medium.com/p/23d6b11207d4) |
 | Fri, 29 Aug 2025 21:27:56 GMT | Reverse Engineering Challenge — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/783d87d3f233) |
 | Fri, 29 Aug 2025 21:27:28 GMT | Forensics Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/284e92f4be53) |
 | Fri, 29 Aug 2025 21:23:29 GMT | Uncovering the Truth: Genuine Love or Convenient Illusion? | Jummai Bukar | [Read More](https://medium.com/p/12f6062709dc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 15:50:14 GMT | Security Automation: Personalized RSS Threat Feed Tracker 2.0 — Now with Microsoft Teams | Erin Martin | [Read More](https://medium.com/p/fbb2cc4add4a) |
 | Fri, 29 Aug 2025 15:48:31 GMT | Starting Small, Moving Forward | Muhammad Sameed Asif | [Read More](https://medium.com/p/0568f2a6eee4) |
 | Fri, 29 Aug 2025 15:47:33 GMT | Insecure Design (OWASP Top 10 #4) — Simplified | Chai | [Read More](https://medium.com/p/01d4abb4bd99) |
-| Fri, 29 Aug 2025 15:44:40 GMT | “Day 24: The Polyglot Poison — How I Turned a Resume Upload into a Remote Shell” | Aman Sharma | [Read More](https://medium.com/p/dc998722a328) |
-| Fri, 29 Aug 2025 15:40:29 GMT | Admin Login Token Exposure in Password Reset Functionality | Dgexploit | [Read More](https://medium.com/p/c74e9e587be2) |
-| Fri, 29 Aug 2025 15:37:50 GMT | The AI Skills No One Talks About (But Every Employer Wants in 2025) | ForeCast | [Read More](https://medium.com/p/a4f08ecddcb1) |
-| Fri, 29 Aug 2025 15:36:31 GMT | Crafting Web Application Firewall Using Node.js | Kshitizsharma | [Read More](https://medium.com/p/92eeb5e88f6b) |
-| Fri, 29 Aug 2025 15:34:36 GMT | : | Md Monsur | [Read More](https://medium.com/p/63a6a2f50463) |
-| Fri, 29 Aug 2025 15:31:34 GMT | https://vitalymikhalin.ru/ | Md Monsur | [Read More](https://medium.com/p/c61174d35a0a) |
-| Fri, 29 Aug 2025 15:31:34 GMT | Behind the $97M Fine | Bhagya Rana | [Read More](https://medium.com/p/2664a82225e9) |
-| Fri, 29 Aug 2025 15:28:43 GMT | “We’re Secure,” They Said: How Penetration Testing Shattered the Illusion | Aj | [Read More](https://medium.com/p/033d8006a056) |
-| Fri, 29 Aug 2025 15:26:52 GMT | Ghost Reqs: Why So Many IT Job Postings Go Nowhere — and How to Spot the Real Ones | Bobby | [Read More](https://medium.com/p/7eecae9db3b6) |
-| Fri, 29 Aug 2025 15:21:59 GMT | HackerEscapeRoom.online: Where Capture the Flag Meets Escape Room Thrills | Cristhian Azuero | [Read More](https://medium.com/p/1a55ba0c4255) |
-| Fri, 29 Aug 2025 15:03:53 GMT | The Storm is Coming: Here’s Exactly What I’m Doing With My Portfolio Right Now | Vijay Kumar Gupta | [Read More](https://medium.com/p/eacb0126d3d4) |
