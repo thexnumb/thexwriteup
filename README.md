@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 10:19:15 GMT | TransUnion Data Breach: 4.4 Million Customers at Risk | Technijian | [Read More](https://medium.com/p/9040f0098685) |
+| Fri, 29 Aug 2025 10:13:50 GMT | DEFCON33 Notlarım | Saniye Nur | [Read More](https://medium.com/p/0efb0f736bbf) |
+| Fri, 29 Aug 2025 10:13:44 GMT | What Comes After the Fire | Printique studios | [Read More](https://medium.com/p/414c8d5ddcd5) |
+| Fri, 29 Aug 2025 10:07:37 GMT | Types of Computer Networks: PAN, LAN, MAN, WAN (and Why Security Differs for Each) | Keerthan V Suvarna | [Read More](https://medium.com/p/e839c8a6443f) |
+| Fri, 29 Aug 2025 10:07:15 GMT | Windows Initial Compromise Detection | Neetrox | [Read More](https://medium.com/p/74fa08d8199a) |
+| Fri, 29 Aug 2025 10:03:24 GMT | REMOTE ACCESS SOFTWARE | Cyber Timi | [Read More](https://medium.com/p/e4a918c5edcf) |
+| Fri, 29 Aug 2025 10:01:05 GMT | Analyzing Security Operations and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/3e5b44ae0c6e) |
+| Fri, 29 Aug 2025 10:00:19 GMT | Google Gmail Data Breach. So, What Should I Do? | Rob. Achilles | [Read More](https://medium.com/p/077ed426a66d) |
+| Fri, 29 Aug 2025 09:59:46 GMT | Analyzing Security Operations and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/8ea7dbc6bce6) |
+| Fri, 29 Aug 2025 09:58:28 GMT | Analyzing Security Operations Step by Step | Cyber Security Research | [Read More](https://medium.com/p/a92b6086d06a) |
+| Fri, 29 Aug 2025 09:57:10 GMT | Analyzing Security Automation in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/a544a384fe70) |
+| Fri, 29 Aug 2025 09:55:44 GMT | Analyzing Security Automation in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/b2341f87c445) |
+| Fri, 29 Aug 2025 09:53:13 GMT | Discover the Best DevOps Institute in Bangalore Right Now? | Mohammed Numan | [Read More](https://medium.com/p/46bd6b10b87e) |
+| Fri, 29 Aug 2025 09:52:40 GMT | The Leaky Bucket Bug | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/aa725b031cc5) |
+| Fri, 29 Aug 2025 09:51:34 GMT | Cloud Breaches Will Happen: How AWS DevOps Teams Automate Detection & Response | Ismail Kovvuru | [Read More](https://medium.com/p/48e4023e2adf) |
 | Fri, 29 Aug 2025 09:28:50 GMT | Naughty NotebookLM | The Ancient Mariner | [Read More](https://medium.com/p/262d322139e3) |
 | Fri, 29 Aug 2025 09:24:27 GMT | Essential Rails Security: Protecting Your Application from Top Pitfalls | Anamika | [Read More](https://medium.com/p/3b129a1cf700) |
 | Fri, 29 Aug 2025 09:23:21 GMT | Threat modeling tools for security architects | Kartik Debnath | [Read More](https://medium.com/p/ef8d84c91e02) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 04:57:34 GMT | How to Identify Malware vs Ransomware Attacks | Elevate | [Read More](https://medium.com/p/38cddddec76b) |
 | Fri, 29 Aug 2025 04:53:04 GMT | Why Threat Hunting is So important | Liyakath | [Read More](https://medium.com/p/5483db9c9995) |
 | Fri, 29 Aug 2025 04:51:36 GMT | Apple Intelligence: When “Private AI” Collects More Than You Expect | LazyHacker | [Read More](https://medium.com/p/0ffa1b774233) |
-| Fri, 29 Aug 2025 04:43:21 GMT | 9. The Secret Power of Google Dorking | Abhijeet kumawat | [Read More](https://medium.com/p/736325566220) |
-| Fri, 29 Aug 2025 04:41:36 GMT | The Marketing Secret Nobody’s Talking About. | Simon P | [Read More](https://medium.com/p/43734ad8cc69) |
-| Fri, 29 Aug 2025 04:38:19 GMT | Capturing and Analyzing Memory with Free Tools | CybVulnHunter | [Read More](https://medium.com/p/51aef942302e) |
-| Fri, 29 Aug 2025 04:25:03 GMT | Token Tales: Finding Hidden API Keys in JavaScript and Turning Them Into Gold | Iski | [Read More](https://medium.com/p/e4e93c51e52b) |
-| Fri, 29 Aug 2025 04:20:20 GMT | India Successfully Tests Salvo Launch of “BrahMos” Supersonic Cruise Missile | Everclear | [Read More](https://medium.com/p/fe1c986cd3ff) |
-| Fri, 29 Aug 2025 04:05:57 GMT | Cyberattack Cripples Nevada Government: Important Lessons from Ransomware | Sydeco Indonesia | [Read More](https://medium.com/p/855da9e199b8) |
-| Fri, 29 Aug 2025 03:58:32 GMT | Cariddi: Point It at Domains, Pull Out the Good Stuff | Javier Calderon Jr | [Read More](https://medium.com/p/085b8aa964f3) |
-| Fri, 29 Aug 2025 03:49:32 GMT | Embracing Cybersecurity: Protecting the Digital World, One Step at a Time | Sobhidasss | [Read More](https://medium.com/p/a16569048acf) |
-| Fri, 29 Aug 2025 03:31:33 GMT | 安全警报 / Security Alert | Legend Trading | [Read More](https://medium.com/p/d142ce957d0c) |
-| Fri, 29 Aug 2025 03:29:25 GMT | ️ Web Security Essentials: A Beginner’s Guide with TryHackMe | Soham_Jadhav | [Read More](https://medium.com/p/d23ac015c044) |
-| Fri, 29 Aug 2025 03:29:24 GMT | iiNet Cyberattack Exposes Data of 280,000 Customers | SafetyDetectives Research Team | [Read More](https://medium.com/p/ae5548f5ecc3) |
-| Fri, 29 Aug 2025 03:29:02 GMT | Unblocking Halo Uploads with SafeLine WAF | Quella | [Read More](https://medium.com/p/fb8af0c06664) |
-| Fri, 29 Aug 2025 03:26:50 GMT | US Authorities Dismantle Rapper Bot, One of the Largest DDoS-for-Hire Networks | SafetyDetectives Research Team | [Read More](https://medium.com/p/b86b932a703e) |
-| Fri, 29 Aug 2025 03:26:23 GMT | CyberDudeBivash Vulnerability Analysis Report [CVE-2025–22457]: Ivanti Avalanche Buffer Overflow | Bivash Kumar Nayak | [Read More](https://medium.com/p/199f5005b9f5) |
-| Fri, 29 Aug 2025 03:21:10 GMT | ScreenConnect Super Admins Hit by Credential Harvesting Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/638e9d7b9d43) |
