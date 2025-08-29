@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 07:30:50 GMT | Top 10 Tech Companies in Irvine, CA | Managed IT Services | [Read More](https://medium.com/p/313665cb3baf) |
+| Fri, 29 Aug 2025 07:26:48 GMT | Portswigger Web Security Academy - XXE Lab #1 | BooRuleDie | [Read More](https://medium.com/p/820613089d3d) |
+| Fri, 29 Aug 2025 07:22:58 GMT | Cortex Cloud Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f54eb7f81a97) |
+| Fri, 29 Aug 2025 07:20:58 GMT | Dark Web Monitoring in 2025: Protect Your Business from Rising Cybercrime | Concensus Technologies | [Read More](https://medium.com/p/80205d136551) |
+| Fri, 29 Aug 2025 07:17:33 GMT | Major Cyber Attacks in August 2025: 7-Stage Tycoon2FA Phishing, New ClickFix Campaign, and Salty2FA | ANY.RUN | [Read More](https://medium.com/p/40c9051edc44) |
+| Fri, 29 Aug 2025 07:17:00 GMT | Indian government banned online gaming applications. | Advocate Neeraj T Narendran | [Read More](https://medium.com/p/e94b7bfe8d08) |
 | Fri, 29 Aug 2025 07:01:18 GMT | Why Security Leaders Can’t Ignore Risk-Based Vulnerability Management in 2025. | Cytrusst | [Read More](https://medium.com/p/1d2fff6ccdec) |
 | Fri, 29 Aug 2025 07:00:17 GMT | Grande Prairie Security Guard Services — World Guardian Security | Support | [Read More](https://medium.com/p/c8a466aa91aa) |
 | Fri, 29 Aug 2025 06:58:07 GMT | SafeLine WAF + GitHub Ban-Hacker-IP-Plan | Quella | [Read More](https://medium.com/p/a1e33be40dc0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 22:11:20 GMT | Automating Credential Stuffing Attacks with Burp Suite Intruder | Appsec.pt | [Read More](https://medium.com/p/3aa74cf0c2d1) |
 | Thu, 28 Aug 2025 22:07:13 GMT | The Rise of AI-Powered Phishing: A New Frontier in Social Engineering | Mohanad Khaled | [Read More](https://medium.com/p/c009eab1acf7) |
 | Thu, 28 Aug 2025 21:58:21 GMT | Why Simple Golang Shellcode Loaders Still Slip Past Windows Defender in 2025 | Yua Mikanana | [Read More](https://medium.com/p/e632503811c3) |
-| Thu, 28 Aug 2025 21:52:55 GMT | Entering the Dark Era of AI Powered Cyber Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/8065d34ce50a) |
-| Thu, 28 Aug 2025 21:48:50 GMT | Access control vulnerabilities - Unprotected admin functionality - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/2cda070b1f49) |
-| Thu, 28 Aug 2025 21:48:21 GMT | Write-Ups III ✫・*。━━(◕ ᴗ◕✿) | stphxy | [Read More](https://medium.com/p/c7a650443549) |
-| Thu, 28 Aug 2025 21:47:31 GMT | Authentication vulnerabilities - 2FA Broken Logic - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/9650c34ec278) |
-| Thu, 28 Aug 2025 21:42:34 GMT | Why Digital Minimalism is Good for Security | Paschal Ogana | [Read More](https://medium.com/p/8124a6597c8d) |
-| Thu, 28 Aug 2025 21:37:48 GMT | Ethical Hacking Essentials — EHE (EC Council) | Franklin Rhodes | [Read More](https://medium.com/p/8e51f1b088d3) |
