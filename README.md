@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 05:33:01 GMT | The most Powerful Currency We Have Is Our Truth | Simi Amos | [Read More](https://medium.com/p/202e7f9e4f4b) |
+| Fri, 29 Aug 2025 05:27:23 GMT | “Proactive Threat Hunting: Staying Ahead of Cyber Threats in 2025" | Syed Sulthan | [Read More](https://medium.com/p/2044db42ab33) |
+| Fri, 29 Aug 2025 05:25:51 GMT | Blogging: Technical Blogging on Cybersecurity and Threat Hunting | Saibin k siju | [Read More](https://medium.com/p/d40bc21222c0) |
+| Fri, 29 Aug 2025 05:24:14 GMT | DHCP Snooping: The Unsung Hero of Network Security | Abida Adra | [Read More](https://medium.com/p/74fe07048023) |
+| Fri, 29 Aug 2025 05:19:45 GMT | DC-3 Walkthrough: From Joomla Enumeration to Root Access | Abhinsubej | [Read More](https://medium.com/p/41154b06ceaf) |
 | Fri, 29 Aug 2025 05:17:55 GMT | Thermoplastic Polyurethane (TPU) Films Market Size, Growth, Analysis & Trends 2031 | Sagarkavika | [Read More](https://medium.com/p/31cef62cfd39) |
 | Fri, 29 Aug 2025 05:12:56 GMT | Cybersecurity Compliance in 2025: An Essential Guide | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/1c84df3d7e80) |
 | Fri, 29 Aug 2025 05:07:53 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ed70cac73969) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 19:13:02 GMT | Observing Plaintext vs Encrypted Traffic with Python and Wireshark — A Hands-On Lab | Gage A Olson | [Read More](https://medium.com/p/af007c3461a5) |
 | Thu, 28 Aug 2025 19:12:05 GMT | 6 Ways to Handle Authentication in Node.js | TechByRahmat | [Read More](https://medium.com/p/83c1f8837cdd) |
 | Thu, 28 Aug 2025 19:04:24 GMT | Smart Spending in Tech: How Cost-Effective IT Solutions Propel Business Growth | Teona | [Read More](https://medium.com/p/3176ddf1e4e3) |
-| Thu, 28 Aug 2025 19:00:19 GMT | 9 Ways to Attract Your Soul Tribe and Strengthen the Connection | Wilson Igbasi | [Read More](https://medium.com/p/9c726922a0e3) |
-| Thu, 28 Aug 2025 18:52:06 GMT | Filling the Cybersecurity Skills Gap | SafeAeon Inc. | [Read More](https://medium.com/p/7fbca645c7ac) |
-| Thu, 28 Aug 2025 18:47:12 GMT | TryHackMe - Vulnerabilities 101 Walkthrough | m0cha_ | [Read More](https://medium.com/p/54bd326c71e1) |
-| Thu, 28 Aug 2025 18:45:35 GMT | Understanding OWASP: Managing the Risks in Web Application Security | SafeAeon Inc. | [Read More](https://medium.com/p/e92903ed1c87) |
-| Thu, 28 Aug 2025 18:43:43 GMT | Don’t Just Scan That QR Code: An Ethical Hacker’s Warning You Can’t Ignore | Vijay Kumar Gupta | [Read More](https://medium.com/p/e6ea562dc6dd) |
