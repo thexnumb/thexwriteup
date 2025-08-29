@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 08:18:47 GMT | Bcrypt, HMAC-SHA256, and OTP Security: How It All Fits Together | Rakshit Maheshwari | [Read More](https://medium.com/p/d77065fae2fe) |
+| Fri, 29 Aug 2025 08:13:02 GMT | What Are Some Finest Home Gadgets 2025? | Arjun Agarwal | [Read More](https://medium.com/p/c308c36ce1e4) |
+| Fri, 29 Aug 2025 08:12:06 GMT | Title: Meet StrykerApp: The Open-Source Cybersecurity Tool You Didn’t Know You Needed | Sagar Majumdar | [Read More](https://medium.com/p/fd8d5dfd6185) |
+| Fri, 29 Aug 2025 08:09:04 GMT | How to Write an Effective Cookie Policy for Small Businesses | Sarah Brown | [Read More](https://medium.com/p/7d795dd8110b) |
+| Fri, 29 Aug 2025 08:05:55 GMT | Understanding the Trio: CVE, CVSS, and OpenVAS. | Bilal ÇULHA | [Read More](https://medium.com/p/0c3f53dff531) |
+| Fri, 29 Aug 2025 08:02:39 GMT | The Hidden Costs of Ignoring SOC Compliance (And How to Avoid Them) | SecureSlate | [Read More](https://medium.com/p/a05a92ed7237) |
+| Fri, 29 Aug 2025 08:01:56 GMT | 10 Best Cloud Hosting Providers for OpenVPN in 2025 | Radhika Verma | [Read More](https://medium.com/p/db28e9aee0da) |
+| Fri, 29 Aug 2025 08:01:34 GMT | How I Turned One Server Into 10 VMs (And My Electricity Bill Loves Me) | MayhemCode | [Read More](https://medium.com/p/dd2cb9dbbe7d) |
+| Fri, 29 Aug 2025 08:01:19 GMT | Sensitive Data on Google: What They Say vs What Really Happens | Karishma Bano | [Read More](https://medium.com/p/0cbec5ff9c40) |
+| Fri, 29 Aug 2025 07:57:25 GMT | How I Used AI to Learn Cybersecurity - Kali GPT | Shahzaib | [Read More](https://medium.com/p/a732c15ba67b) |
+| Fri, 29 Aug 2025 07:56:05 GMT | Best Crypto Wallets in China 2025 - Hot and Cold Wallet Guide | Garry | [Read More](https://medium.com/p/bcb16a3f9b5b) |
+| Fri, 29 Aug 2025 07:50:25 GMT | Find the Best Security Guard Companies Near Me — Direct Guard Services at Your Service | Direct Guard Services | [Read More](https://medium.com/p/a22cf3b1470e) |
+| Fri, 29 Aug 2025 07:47:10 GMT | PortSwigger Lab : Unprotected Admin Functionality with Unpredictable URL | Siddiquimohammad | [Read More](https://medium.com/p/32a2e4eb77a5) |
+| Fri, 29 Aug 2025 07:45:18 GMT | The Invisible Malware Infecting Your Smart Home (And How To Purge It) | Aj | [Read More](https://medium.com/p/b3c7531d606a) |
+| Fri, 29 Aug 2025 07:44:33 GMT | Best Managed Cybersecurity Service Providers in India - Optimize Your Security Firm | Gowthammathiew | [Read More](https://medium.com/p/b3d8e41cfa48) |
+| Fri, 29 Aug 2025 07:39:43 GMT | ประจำวันศุกร์ที่ 29 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/4cf5e9091201) |
+| Fri, 29 Aug 2025 07:37:48 GMT | Joseph Lamar Simmons - 5 Ways Nations Protect Themselves | Joseph Lamar Simmons | [Read More](https://medium.com/p/235f083a7ae1) |
+| Fri, 29 Aug 2025 07:33:20 GMT | The Daily Tech Digest: 29 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e5f72ec4036b) |
+| Fri, 29 Aug 2025 07:31:34 GMT | TLS at Scale: Handshake Offload and Session Resumption | Hash Block | [Read More](https://medium.com/p/f37cd04a4edc) |
 | Fri, 29 Aug 2025 07:30:50 GMT | Top 10 Tech Companies in Irvine, CA | Managed IT Services | [Read More](https://medium.com/p/313665cb3baf) |
+| Fri, 29 Aug 2025 07:29:47 GMT | How to Implement Passkeys (WebAuthn) in Laravel 12 for Production (2025) | Tuğrul Yıldırım | [Read More](https://medium.com/p/ec1fc9c72c81) |
 | Fri, 29 Aug 2025 07:26:48 GMT | Portswigger Web Security Academy - XXE Lab #1 | BooRuleDie | [Read More](https://medium.com/p/820613089d3d) |
 | Fri, 29 Aug 2025 07:22:58 GMT | Cortex Cloud Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f54eb7f81a97) |
 | Fri, 29 Aug 2025 07:20:58 GMT | Dark Web Monitoring in 2025: Protect Your Business from Rising Cybercrime | Concensus Technologies | [Read More](https://medium.com/p/80205d136551) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 01:23:32 GMT | Owasp top 10 -2021 in short | The Commoness | [Read More](https://medium.com/p/5c66490dfd22) |
 | Fri, 29 Aug 2025 01:18:46 GMT | TryHackMe El Bandito (Hard) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/8bb7b6ef3c24) |
 | Fri, 29 Aug 2025 00:59:58 GMT | Threat Post: Salt Typhoon — The Quiet Storm in Network Infrastructure | Rahaliashraf | [Read More](https://medium.com/p/85564948490a) |
-| Fri, 29 Aug 2025 00:57:01 GMT | I AM and IAM: Where Faith Meets Cybersecurity | Cyber I AM | [Read More](https://medium.com/p/e34e908d546a) |
-| Fri, 29 Aug 2025 00:21:46 GMT | Useful Wazuh Rules and Capabilities for Threat Detection | Ismael Barrantes | [Read More](https://medium.com/p/e2cc0debabde) |
-| Fri, 29 Aug 2025 00:06:55 GMT | Wall Street’s Secret War: How Hedge Funds Stalled Crucial SEC Rules on Short-Selling Transparency | meggymoon | [Read More](https://medium.com/p/20940ca67c5b) |
-| Fri, 29 Aug 2025 00:03:34 GMT | Guía de Assetfinder: Descubre subdominios rápidamente para Bug Bounty y Red Team | JPablo13 | [Read More](https://medium.com/p/c571f108e67a) |
-| Thu, 28 Aug 2025 23:52:17 GMT | Phishing, Passwords, and People: How Awareness Training Reduces Risk | Akshay Chauhan | [Read More](https://medium.com/p/00c7daaeb215) |
-| Thu, 28 Aug 2025 23:33:33 GMT | How to Implement JWT Authentication in Spring Boot and Angular | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/d13683394780) |
-| Thu, 28 Aug 2025 23:06:44 GMT | From Schema to $teal: GraphQL Fuzzing & IDOR in Action | Zurab Akhvlediani | [Read More](https://medium.com/p/d817cb06bd83) |
-| Thu, 28 Aug 2025 23:06:06 GMT | The Ethical Imperative of AI: Why Tech Strategists and Project Managers Must Prioritize… | CCL Montante | [Read More](https://medium.com/p/dd9bb1417686) |
-| Thu, 28 Aug 2025 23:03:22 GMT | #6th for MetaCTF August 2025 | Jonathan Garcia | [Read More](https://medium.com/p/42a19559f28c) |
-| Thu, 28 Aug 2025 22:54:31 GMT | Unpacking the Mechanisms: How Drosera Protects DeFi. | Roman Lucien | [Read More](https://medium.com/p/fc246180e51d) |
-| Thu, 28 Aug 2025 22:54:10 GMT | Why Program Managers Should Learn the Language of Data and Security | Maria Beckles | [Read More](https://medium.com/p/0b3a0324fed1) |
-| Thu, 28 Aug 2025 22:50:25 GMT | Segurança, Observabilidade e Governança em Servidores MCP: do Zero-Trust à LGPD | Luiz Felipe Kama Alencar | [Read More](https://medium.com/p/75646f36c4e0) |
-| Thu, 28 Aug 2025 22:46:42 GMT | eWPT Exam Guide: Strategies, Study Materials, and Final Takeaways | Onurcan Genç | [Read More](https://medium.com/p/c6afdbb5a682) |
-| Thu, 28 Aug 2025 22:38:09 GMT | Deep Dive: Advanced Malware Analysis Workflow with FLARE VM | Vivek Lenkalapally | [Read More](https://medium.com/p/85371b617ae9) |
-| Thu, 28 Aug 2025 22:29:55 GMT | Securing Flutter Apps: Best Practices for Protecting User Data | Bestaouiaymene | [Read More](https://medium.com/p/ff1f88b2e983) |
-| Thu, 28 Aug 2025 22:27:34 GMT | Login e Autenticação em Aplicações Web: Da Teoria à Implementação Segura | Guilherme Martins Ribeiro | [Read More](https://medium.com/p/9f266841a4ac) |
-| Thu, 28 Aug 2025 22:12:20 GMT | The Coming Drone Era: Why Drones Will Soon Be Everywhere | Robert Schryvers ChT | [Read More](https://medium.com/p/24f2ffd766f8) |
-| Thu, 28 Aug 2025 22:11:20 GMT | Automating Credential Stuffing Attacks with Burp Suite Intruder | Appsec.pt | [Read More](https://medium.com/p/3aa74cf0c2d1) |
-| Thu, 28 Aug 2025 22:07:13 GMT | The Rise of AI-Powered Phishing: A New Frontier in Social Engineering | Mohanad Khaled | [Read More](https://medium.com/p/c009eab1acf7) |
-| Thu, 28 Aug 2025 21:58:21 GMT | Why Simple Golang Shellcode Loaders Still Slip Past Windows Defender in 2025 | Yua Mikanana | [Read More](https://medium.com/p/e632503811c3) |
