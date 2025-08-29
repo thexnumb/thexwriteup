@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 02:51:37 GMT | CVE-2023–42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data | Quella | [Read More](https://medium.com/p/87b7d2b8734c) |
+| Fri, 29 Aug 2025 02:31:32 GMT | The AI Security Paradox: How Generative AI is Simultaneously Revolutionizing and Threatening… | Akshat Ratanpal | [Read More](https://medium.com/p/8f9e28e6609c) |
+| Fri, 29 Aug 2025 02:27:33 GMT | Why Businesses Must Upgrade Their Cybersecurity Before It’s Too Late | noel chukwuebuka | [Read More](https://medium.com/p/ab38c6e1269d) |
+| Fri, 29 Aug 2025 02:21:33 GMT | SafeLine: A Free Zero Trust Web Application Firewall for 2026 | Maverick Steel | [Read More](https://medium.com/p/b96642095ca3) |
+| Fri, 29 Aug 2025 02:18:05 GMT | The Salesloft Drift Breach Shows Why Integrations Are Never Just “Safe” | Dhruvdeep Singh | [Read More](https://medium.com/p/d7725df45f02) |
+| Fri, 29 Aug 2025 02:12:52 GMT | How I Built a Discord Bot to Keep Up With 40,000+ Vulnerabilities a Year | DeWight Jackson | [Read More](https://medium.com/p/4af0a56bc93d) |
+| Fri, 29 Aug 2025 02:01:06 GMT | Re IT Staffing [2025] SpkGenDec 7 | The Speaker-General | [Read More](https://medium.com/p/062779cb955e) |
+| Fri, 29 Aug 2025 01:57:35 GMT | “Anti-Fraud Lao Chen” Tears Up Seeking Job: Why You Should Cherish Your Current Position | Xiaochen | [Read More](https://medium.com/p/48eaf5114bbd) |
+| Fri, 29 Aug 2025 01:32:51 GMT | Cybersecurity and AI Outlook: A Career Changer’s Take | Cyber I AM | [Read More](https://medium.com/p/2a6dc731a8e1) |
 | Fri, 29 Aug 2025 01:26:43 GMT | File upload vulnerabilities - Web shell upload via path traversal - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4d5e7a7da7be) |
 | Fri, 29 Aug 2025 01:23:32 GMT | Owasp top 10 -2021 in short | The Commoness | [Read More](https://medium.com/p/5c66490dfd22) |
 | Fri, 29 Aug 2025 01:18:46 GMT | TryHackMe El Bandito (Hard) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/8bb7b6ef3c24) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 16:48:00 GMT | Analyzing Ransomware Defense and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/4e7483ca0753) |
 | Thu, 28 Aug 2025 16:46:38 GMT | How I (Accidentally) Poisoned a Cache with Just the Host Header | Aryan Shrestha | [Read More](https://medium.com/p/11ab55cc73fd) |
 | Thu, 28 Aug 2025 16:46:11 GMT | Analyzing Ransomware Defense and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/98cbf3f1597d) |
-| Thu, 28 Aug 2025 16:45:30 GMT | Why Prompt Engineering Is the Most Underrated High-Paying Freelance Skill in 2025 | ForeCast | [Read More](https://medium.com/p/e413a549079f) |
-| Thu, 28 Aug 2025 16:44:20 GMT | Analyzing Ransomware Defense That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/857dc2958c41) |
-| Thu, 28 Aug 2025 16:42:31 GMT | Switching to Alpine Linux for CVE Reduction: Benefits, Challenges, and Best Practices | Vatsal Jain | [Read More](https://medium.com/p/815945433441) |
-| Thu, 28 Aug 2025 16:42:28 GMT | Analyzing Ransomware Defense Step by Step | Cyber Security Research | [Read More](https://medium.com/p/e58e95e7a16c) |
-| Thu, 28 Aug 2025 16:37:19 GMT | Why Google’s Nano Banana AI Could Make Photoshop Obsolete | ForeCast | [Read More](https://medium.com/p/452ca17124f8) |
-| Thu, 28 Aug 2025 16:36:45 GMT | Top Online Cybersecurity Courses with Certificates for 2026 | Anu Shreya | [Read More](https://medium.com/p/5b840cece5df) |
-| Thu, 28 Aug 2025 16:31:35 GMT | The Cod Hacker On Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/4cc7b5d6c160) |
-| Thu, 28 Aug 2025 16:24:14 GMT | Why AI Won’t Replace These Jobs Anytime Soon (and What That Means for You) | ForeCast | [Read More](https://medium.com/p/5e787284ada1) |
-| Thu, 28 Aug 2025 16:15:34 GMT | The Missing Layer for AI Agents: Part II — Why We Got It Wrong (And What We’re Building Instead) | Shreyash Ranjan | [Read More](https://medium.com/p/cdd0b7c9e470) |
