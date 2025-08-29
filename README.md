@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 20:02:28 GMT | Sneak Peek: Top 5 VPNs to Lock Down 2025 | TechMate | [Read More](https://medium.com/p/059d5e34682c) |
+| Fri, 29 Aug 2025 19:59:39 GMT | Learning to Walk Again: The Beauty of Vulnerability | Farida E.U | [Read More](https://medium.com/p/cafc31725abc) |
+| Fri, 29 Aug 2025 19:50:09 GMT | The Day I Almost Became Someone Else’s Face | PJ Sheini | [Read More](https://medium.com/p/91edd8409d6e) |
+| Fri, 29 Aug 2025 19:47:16 GMT | The Invisible Enemy: Why Organizations Over-Defend Against External Threats While Underestimating… | Prashanth Chandika | [Read More](https://medium.com/p/37a3eb7f496e) |
+| Fri, 29 Aug 2025 19:46:07 GMT | Rust Security Bugs Explained with Simple Metaphors | AIAlchemist_Ab1r | [Read More](https://medium.com/p/8248c9ec0576) |
+| Fri, 29 Aug 2025 19:41:26 GMT | Why I Quit Bug Bounty | Calvaryhasarrived | [Read More](https://medium.com/p/a861f914a14e) |
+| Fri, 29 Aug 2025 19:27:43 GMT | Deepfake Voice Scams on WhatsApp: The new face of identity theft | Sol González | [Read More](https://medium.com/p/d45ec3455d76) |
 | Fri, 29 Aug 2025 19:03:34 GMT | Snowflake Without Password: How Workload Identity Federation Simplifies Authentication | Umesh Patel | [Read More](https://medium.com/p/ede148faf1fd) |
 | Fri, 29 Aug 2025 19:01:21 GMT | CompTIA Security+ in 2025: Why This Certification Still Builds the Strongest Cybersecurity… | Saurabh Kohli | [Read More](https://medium.com/p/550d5ce17449) |
 | Fri, 29 Aug 2025 18:54:56 GMT | What Happens to Your Passwords Behind the Scenes | Arpit Asati | [Read More](https://medium.com/p/3fb142da7967) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 14:41:50 GMT | Beyond PCI and HIPAA: How Feroot Powers Digital Operational Resilience Act (DORA) Compliance | Feroot Security | [Read More](https://medium.com/p/371be52b8a40) |
 | Fri, 29 Aug 2025 14:41:45 GMT | Threat Intelligence Platforms for Mid‑Size Companies: A Strategic Guide to Strengthening Cyber… | Paul Meyer | [Read More](https://medium.com/p/94ed815e9bb9) |
 | Fri, 29 Aug 2025 14:40:25 GMT | AI System Uncovers Critical Vulnerability in Google Chrome | RealSec.io | [Read More](https://medium.com/p/7d257b118762) |
-| Fri, 29 Aug 2025 14:39:45 GMT | Let’s Talk the Birds and the Bees | Nonjabulo Matomela | [Read More](https://medium.com/p/64e8a803a598) |
-| Fri, 29 Aug 2025 14:35:58 GMT | Privacy-Driven Logging: Balancing Visibility and GDPR Compliance | Karthikeyan Nagaraj | [Read More](https://medium.com/p/95865826af92) |
-| Fri, 29 Aug 2025 14:34:00 GMT | Crypto Crime 2024 – 2025: Scale, Sophistication, and Violence | David SEHYEON Baek | [Read More](https://medium.com/p/38dda3448858) |
-| Fri, 29 Aug 2025 14:32:11 GMT | Adversarial Artificial Intelligence (AI) | Igino Corona, Eng PhD | [Read More](https://medium.com/p/4c13e15fa355) |
-| Fri, 29 Aug 2025 14:31:35 GMT | Zero Trust Models: Cybersecurity’s New Gold Standard | Thinking Loop | [Read More](https://medium.com/p/fe39a01a5f55) |
-| Fri, 29 Aug 2025 14:31:34 GMT | Edge Security: Protecting Data Beyond the Cloud | Hash Block | [Read More](https://medium.com/p/366a83429c17) |
-| Fri, 29 Aug 2025 14:31:34 GMT | Forecast Upgraded, Shields Up | Bhagya Rana | [Read More](https://medium.com/p/35957a1760d4) |
