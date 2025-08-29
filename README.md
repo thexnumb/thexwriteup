@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 09:28:50 GMT | Naughty NotebookLM | The Ancient Mariner | [Read More](https://medium.com/p/262d322139e3) |
+| Fri, 29 Aug 2025 09:24:27 GMT | Essential Rails Security: Protecting Your Application from Top Pitfalls | Anamika | [Read More](https://medium.com/p/3b129a1cf700) |
+| Fri, 29 Aug 2025 09:23:21 GMT | Threat modeling tools for security architects | Kartik Debnath | [Read More](https://medium.com/p/ef8d84c91e02) |
+| Fri, 29 Aug 2025 09:20:48 GMT | The Cartel Who beat Anonymous | V1rtu3 _h05t | [Read More](https://medium.com/p/860e4b5084ec) |
+| Fri, 29 Aug 2025 09:19:54 GMT | Reflected XSS with some SVG markup allowed | Chirag Vyas | [Read More](https://medium.com/p/479e8e13b651) |
 | Fri, 29 Aug 2025 09:14:43 GMT | PHASES OF HACKING (ETHICAL) PART (I) | Arch Mugi | [Read More](https://medium.com/p/9473ffe66bef) |
 | Fri, 29 Aug 2025 09:13:34 GMT | SSL Pinning Bypass: Network Security Config | Oguzhan Oztaskin | [Read More](https://medium.com/p/268fc250fbdd) |
 | Fri, 29 Aug 2025 09:05:30 GMT | What Happens in Your Cloud Doesn’t Stay in Your Cloud: A Not-So-Serious Guide to NIST SP 800–228 | ZENcurity | [Read More](https://medium.com/p/4a8d1b526998) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 03:26:50 GMT | US Authorities Dismantle Rapper Bot, One of the Largest DDoS-for-Hire Networks | SafetyDetectives Research Team | [Read More](https://medium.com/p/b86b932a703e) |
 | Fri, 29 Aug 2025 03:26:23 GMT | CyberDudeBivash Vulnerability Analysis Report [CVE-2025–22457]: Ivanti Avalanche Buffer Overflow | Bivash Kumar Nayak | [Read More](https://medium.com/p/199f5005b9f5) |
 | Fri, 29 Aug 2025 03:21:10 GMT | ScreenConnect Super Admins Hit by Credential Harvesting Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/638e9d7b9d43) |
-| Fri, 29 Aug 2025 03:20:52 GMT | From Guarded to Grounded | Preeta | [Read More](https://medium.com/p/f51d1fdd577f) |
-| Fri, 29 Aug 2025 03:01:36 GMT | South Korea’s Military Shrinks 20% as Birthrate Hits Historic Low — Security at Risk | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/d9591332a4e8) |
-| Fri, 29 Aug 2025 02:51:37 GMT | CVE-2023–42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data | Quella | [Read More](https://medium.com/p/87b7d2b8734c) |
-| Fri, 29 Aug 2025 02:31:32 GMT | The AI Security Paradox: How Generative AI is Simultaneously Revolutionizing and Threatening… | Akshat Ratanpal | [Read More](https://medium.com/p/8f9e28e6609c) |
-| Fri, 29 Aug 2025 02:27:33 GMT | Why Businesses Must Upgrade Their Cybersecurity Before It’s Too Late | noel chukwuebuka | [Read More](https://medium.com/p/ab38c6e1269d) |
