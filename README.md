@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 01:26:43 GMT | File upload vulnerabilities - Web shell upload via path traversal - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4d5e7a7da7be) |
+| Fri, 29 Aug 2025 01:23:32 GMT | Owasp top 10 -2021 in short | The Commoness | [Read More](https://medium.com/p/5c66490dfd22) |
+| Fri, 29 Aug 2025 01:18:46 GMT | TryHackMe El Bandito (Hard) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/8bb7b6ef3c24) |
+| Fri, 29 Aug 2025 00:59:58 GMT | Threat Post: Salt Typhoon — The Quiet Storm in Network Infrastructure | Rahaliashraf | [Read More](https://medium.com/p/85564948490a) |
+| Fri, 29 Aug 2025 00:57:01 GMT | I AM and IAM: Where Faith Meets Cybersecurity | Cyber I AM | [Read More](https://medium.com/p/e34e908d546a) |
+| Fri, 29 Aug 2025 00:21:46 GMT | Useful Wazuh Rules and Capabilities for Threat Detection | Ismael Barrantes | [Read More](https://medium.com/p/e2cc0debabde) |
+| Fri, 29 Aug 2025 00:06:55 GMT | Wall Street’s Secret War: How Hedge Funds Stalled Crucial SEC Rules on Short-Selling Transparency | meggymoon | [Read More](https://medium.com/p/20940ca67c5b) |
+| Fri, 29 Aug 2025 00:03:34 GMT | Guía de Assetfinder: Descubre subdominios rápidamente para Bug Bounty y Red Team | JPablo13 | [Read More](https://medium.com/p/c571f108e67a) |
+| Thu, 28 Aug 2025 23:52:17 GMT | Phishing, Passwords, and People: How Awareness Training Reduces Risk | Akshay Chauhan | [Read More](https://medium.com/p/00c7daaeb215) |
+| Thu, 28 Aug 2025 23:33:33 GMT | How to Implement JWT Authentication in Spring Boot and Angular | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/d13683394780) |
 | Thu, 28 Aug 2025 23:06:44 GMT | From Schema to $teal: GraphQL Fuzzing & IDOR in Action | Zurab Akhvlediani | [Read More](https://medium.com/p/d817cb06bd83) |
 | Thu, 28 Aug 2025 23:06:06 GMT | The Ethical Imperative of AI: Why Tech Strategists and Project Managers Must Prioritize… | CCL Montante | [Read More](https://medium.com/p/dd9bb1417686) |
 | Thu, 28 Aug 2025 23:03:22 GMT | #6th for MetaCTF August 2025 | Jonathan Garcia | [Read More](https://medium.com/p/42a19559f28c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 16:31:35 GMT | The Cod Hacker On Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/4cc7b5d6c160) |
 | Thu, 28 Aug 2025 16:24:14 GMT | Why AI Won’t Replace These Jobs Anytime Soon (and What That Means for You) | ForeCast | [Read More](https://medium.com/p/5e787284ada1) |
 | Thu, 28 Aug 2025 16:15:34 GMT | The Missing Layer for AI Agents: Part II — Why We Got It Wrong (And What We’re Building Instead) | Shreyash Ranjan | [Read More](https://medium.com/p/cdd0b7c9e470) |
-| Thu, 28 Aug 2025 16:05:33 GMT | Simple IDOR Led to PII & Passport Leaks (and a $1,000 Bounty) | toast | [Read More](https://medium.com/p/e3e453a519ec) |
-| Thu, 28 Aug 2025 16:02:19 GMT | Cryptographic Failures (OWASP Top 10 #2) — Simplified | Chai | [Read More](https://medium.com/p/c37eb4bf75a4) |
-| Thu, 28 Aug 2025 16:01:03 GMT | The Secret Recipe: A Story About Confidentiality. | Everyday learner | [Read More](https://medium.com/p/c669d2a6f510) |
-| Thu, 28 Aug 2025 16:00:34 GMT | What is AES Encryption and How Does it Work? | Ayomideolanibi | [Read More](https://medium.com/p/124b7d6aead9) |
-| Thu, 28 Aug 2025 15:58:12 GMT | Portswigger Cross-site scripting Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/16c4eb15eec3) |
-| Thu, 28 Aug 2025 15:50:13 GMT | Log Analysis — Compromised WordPress -Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/df4f5c89f4cc) |
-| Thu, 28 Aug 2025 15:49:40 GMT | Log Analysis — Sysmon - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/87d6e02d2a21) |
-| Thu, 28 Aug 2025 15:49:05 GMT | Safety vs security in OT | ThatOTSecurityGuy | [Read More](https://medium.com/p/3c0576d449e5) |
-| Thu, 28 Aug 2025 15:44:41 GMT | Detect insider threats in real-time using AI-driven access log analytics for smarter, safer… | Shradhdha Bhalodia | [Read More](https://medium.com/p/680336e3a821) |
-| Thu, 28 Aug 2025 15:39:45 GMT | Why Rust Is Gaining Ground in Zero-Trust Systems: From Software to Hardware/Software Co-Assurance | Zoexu | [Read More](https://medium.com/p/43b72da1680c) |
