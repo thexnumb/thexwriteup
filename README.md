@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 12:31:38 GMT | The Things I Never Forgave You For | Delulu & Divine | [Read More](https://medium.com/p/4544bc78a1ee) |
+| Fri, 29 Aug 2025 12:31:38 GMT | 2025’s Top Automated Reconciliation Systems for Seamless Financial Close | Kosh AI | [Read More](https://medium.com/p/fa341b112e0e) |
+| Fri, 29 Aug 2025 12:27:35 GMT | Ban Hammer Drops (For Real): U.S. Finalizes Rules Blocking PRC/Russian Connected-Car Tech | Brian Iselin | [Read More](https://medium.com/p/cdbca65c2b1a) |
+| Fri, 29 Aug 2025 12:26:01 GMT | How to Install Ubuntu Server | Kickcodeandlift | [Read More](https://medium.com/p/8af8538ea90f) |
+| Fri, 29 Aug 2025 12:24:25 GMT | Reflections from the Field: Why Web Storage Is a Goldmine on Our Penetration Tests | Mark Puckett | [Read More](https://medium.com/p/75435c008f86) |
+| Fri, 29 Aug 2025 12:21:06 GMT | AI Security Operations & Threat Management Services: Key Features You Should Know | sanya | [Read More](https://medium.com/p/bd145fd583c4) |
+| Fri, 29 Aug 2025 12:15:36 GMT | How Hackers Drained Billions from Web3 in the Last 6 Months | Keir Finlow-Bates | [Read More](https://medium.com/p/b13ed87616c0) |
+| Fri, 29 Aug 2025 12:14:28 GMT | BTLO Shiba Insiders Walkthrough | Hitesh Sharma | [Read More](https://medium.com/p/1347a64b2c8a) |
+| Fri, 29 Aug 2025 12:11:26 GMT | Cracking Gandalf Level 3: Disguising the Secret | W1nter | [Read More](https://medium.com/p/aaac5cbda044) |
+| Fri, 29 Aug 2025 12:09:50 GMT | A Deep Dive into Ethical Hacking and Penetration Testing: Benefits, Differences, and Best Practices | Qualysec | [Read More](https://medium.com/p/b4f85b934b16) |
+| Fri, 29 Aug 2025 12:08:51 GMT | Chaos Engineering: How Leading Tech Giants Build Resilient Systems by Embracing Failure | Tech With Preeti | [Read More](https://medium.com/p/64a513a0f07a) |
+| Fri, 29 Aug 2025 12:06:37 GMT | Cracking Gandalf Level 2: Learning the Art of Confirmation | W1nter | [Read More](https://medium.com/p/628e15683152) |
+| Fri, 29 Aug 2025 12:05:35 GMT | Feds Take Down $6.4M VerifTools Fake ID Marketplace but Operators Quickly Resurface | Chetan Seripally | [Read More](https://medium.com/p/8c3d400b2564) |
+| Fri, 29 Aug 2025 12:04:16 GMT | With Great LLMs Comes Great Vulnerability | Sanatan | [Read More](https://medium.com/p/31dc8e743370) |
+| Fri, 29 Aug 2025 12:02:05 GMT | BTLO Meta Challenge Walkthrough | Hitesh Sharma | [Read More](https://medium.com/p/bae68a25019d) |
+| Fri, 29 Aug 2025 11:56:42 GMT | Top 10 Managed IT Services Providers in the UAE | Andrew jones | [Read More](https://medium.com/p/095d140365bf) |
+| Fri, 29 Aug 2025 11:47:12 GMT | 8 Cybersecurity Lessons from the Mahabharata | Reggie Menacherry | [Read More](https://medium.com/p/0b8664b9ede1) |
+| Fri, 29 Aug 2025 11:46:43 GMT | Scepter — HackTheBox Walkthrough | Karim Qassem (Hush0x01) | [Read More](https://medium.com/p/8880923d879e) |
+| Fri, 29 Aug 2025 11:45:21 GMT | Coming Up This Week (and Beyond) 25 August 2025 | Chris Kubecka de Medina | [Read More](https://medium.com/p/c4bf072d8b96) |
+| Fri, 29 Aug 2025 11:44:30 GMT | Introducing Apollo, Setting a New Record in Voice Deepfake Detection Accuracy | aurigin.ai | [Read More](https://medium.com/p/44b1a50f4dfd) |
+| Fri, 29 Aug 2025 11:39:25 GMT | Reading: Black Hat Python | Vasundhara | [Read More](https://medium.com/p/a83384ded171) |
+| Fri, 29 Aug 2025 11:37:56 GMT | ️ How I Discovered a Bluetooth Pairing Flaw in Android — Reported Under Google’s Android VRP | Amitishacked | [Read More](https://medium.com/p/1b987516c6d6) |
+| Fri, 29 Aug 2025 11:36:01 GMT | “When AI Becomes Your Interpreter: The Dark Art of Python Code Injection” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5213cd97735c) |
 | Fri, 29 Aug 2025 11:30:48 GMT | Are Smart Home Devices Spying on You? Alexa the secret agent ? | Tarush Sharma | [Read More](https://medium.com/p/4a351ec46217) |
 | Fri, 29 Aug 2025 11:28:18 GMT | What are the 5 Stages of Digital Cyber Forensics? | cyber security Updates | [Read More](https://medium.com/p/cc3c274261c6) |
 | Fri, 29 Aug 2025 11:27:36 GMT | Salesforce Data Breach: What Happened, How to Prevent It, and GRC Takeaways | Brittney Ginther | [Read More](https://medium.com/p/c8d5182ec49b) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 08:01:19 GMT | Sensitive Data on Google: What They Say vs What Really Happens | Karishma Bano | [Read More](https://medium.com/p/0cbec5ff9c40) |
 | Fri, 29 Aug 2025 07:57:25 GMT | How I Used AI to Learn Cybersecurity - Kali GPT | Shahzaib | [Read More](https://medium.com/p/a732c15ba67b) |
 | Fri, 29 Aug 2025 07:56:05 GMT | Best Crypto Wallets in China 2025 - Hot and Cold Wallet Guide | Garry | [Read More](https://medium.com/p/bcb16a3f9b5b) |
-| Fri, 29 Aug 2025 07:50:25 GMT | Find the Best Security Guard Companies Near Me — Direct Guard Services at Your Service | Direct Guard Services | [Read More](https://medium.com/p/a22cf3b1470e) |
-| Fri, 29 Aug 2025 07:47:10 GMT | PortSwigger Lab : Unprotected Admin Functionality with Unpredictable URL | Siddiquimohammad | [Read More](https://medium.com/p/32a2e4eb77a5) |
-| Fri, 29 Aug 2025 07:45:18 GMT | The Invisible Malware Infecting Your Smart Home (And How To Purge It) | Aj | [Read More](https://medium.com/p/b3c7531d606a) |
-| Fri, 29 Aug 2025 07:44:33 GMT | Best Managed Cybersecurity Service Providers in India - Optimize Your Security Firm | Gowthammathiew | [Read More](https://medium.com/p/b3d8e41cfa48) |
-| Fri, 29 Aug 2025 07:39:43 GMT | ประจำวันศุกร์ที่ 29 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/4cf5e9091201) |
-| Fri, 29 Aug 2025 07:37:48 GMT | Joseph Lamar Simmons - 5 Ways Nations Protect Themselves | Joseph Lamar Simmons | [Read More](https://medium.com/p/235f083a7ae1) |
-| Fri, 29 Aug 2025 07:33:20 GMT | The Daily Tech Digest: 29 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e5f72ec4036b) |
-| Fri, 29 Aug 2025 07:31:34 GMT | TLS at Scale: Handshake Offload and Session Resumption | Hash Block | [Read More](https://medium.com/p/f37cd04a4edc) |
-| Fri, 29 Aug 2025 07:30:50 GMT | Top 10 Tech Companies in Irvine, CA | Managed IT Services | [Read More](https://medium.com/p/313665cb3baf) |
-| Fri, 29 Aug 2025 07:29:47 GMT | How to Implement Passkeys (WebAuthn) in Laravel 12 for Production (2025) | Tuğrul Yıldırım | [Read More](https://medium.com/p/ec1fc9c72c81) |
-| Fri, 29 Aug 2025 07:26:48 GMT | Portswigger Web Security Academy - XXE Lab #1 | BooRuleDie | [Read More](https://medium.com/p/820613089d3d) |
-| Fri, 29 Aug 2025 07:22:58 GMT | Cortex Cloud Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f54eb7f81a97) |
-| Fri, 29 Aug 2025 07:20:58 GMT | Dark Web Monitoring in 2025: Protect Your Business from Rising Cybercrime | Concensus Technologies | [Read More](https://medium.com/p/80205d136551) |
-| Fri, 29 Aug 2025 07:17:33 GMT | Major Cyber Attacks in August 2025: 7-Stage Tycoon2FA Phishing, New ClickFix Campaign, and Salty2FA | ANY.RUN | [Read More](https://medium.com/p/40c9051edc44) |
-| Fri, 29 Aug 2025 07:17:00 GMT | Indian government banned online gaming applications. | Advocate Neeraj T Narendran | [Read More](https://medium.com/p/e94b7bfe8d08) |
-| Fri, 29 Aug 2025 07:01:18 GMT | Why Security Leaders Can’t Ignore Risk-Based Vulnerability Management in 2025. | Cytrusst | [Read More](https://medium.com/p/1d2fff6ccdec) |
-| Fri, 29 Aug 2025 07:00:17 GMT | Grande Prairie Security Guard Services — World Guardian Security | Support | [Read More](https://medium.com/p/c8a466aa91aa) |
-| Fri, 29 Aug 2025 06:58:07 GMT | SafeLine WAF + GitHub Ban-Hacker-IP-Plan | Quella | [Read More](https://medium.com/p/a1e33be40dc0) |
-| Fri, 29 Aug 2025 06:55:43 GMT | Master’s in Cybersecurity in Ireland: A Complete Guide for Indian Students | Shreetu Mohanty | [Read More](https://medium.com/p/359ea4e78a56) |
-| Fri, 29 Aug 2025 06:52:54 GMT | Top 10 hacking Books to Learn Ethical Hacking | Manisha Chaudhary | [Read More](https://medium.com/p/87a225be7520) |
-| Fri, 29 Aug 2025 06:50:26 GMT | TOP 10 Security Firmen in Köln — Dein ultimativer Guide für Events, Objektschutz & mehr! | eventim | [Read More](https://medium.com/p/f6d005a8fc8a) |
-| Fri, 29 Aug 2025 06:48:53 GMT | best ethical hacking course in calicut | Muhammedafnan | [Read More](https://medium.com/p/83025c92bb28) |
-| Fri, 29 Aug 2025 06:48:35 GMT | Unsafe Request Handling in Account Deletion Flow Got me 91 $ | Lakshya | [Read More](https://medium.com/p/7cb365d375d0) |
