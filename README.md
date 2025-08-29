@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 09:14:43 GMT | PHASES OF HACKING (ETHICAL) PART (I) | Arch Mugi | [Read More](https://medium.com/p/9473ffe66bef) |
+| Fri, 29 Aug 2025 09:13:34 GMT | SSL Pinning Bypass: Network Security Config | Oguzhan Oztaskin | [Read More](https://medium.com/p/268fc250fbdd) |
+| Fri, 29 Aug 2025 09:05:30 GMT | What Happens in Your Cloud Doesn’t Stay in Your Cloud: A Not-So-Serious Guide to NIST SP 800–228 | ZENcurity | [Read More](https://medium.com/p/4a8d1b526998) |
+| Fri, 29 Aug 2025 09:02:27 GMT | AI Cybersecurity: Protecting the Digital World in 2025 | Deepanshu Mahajan | [Read More](https://medium.com/p/ad1fa5b01568) |
+| Fri, 29 Aug 2025 08:58:03 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/79027b8e4223) |
+| Fri, 29 Aug 2025 08:52:48 GMT | HackingBuddyGPT — A Must-Check Tool for Web API Testing ⚡ | Shreyas Mahajan | [Read More](https://medium.com/p/abcf96acb9d7) |
+| Fri, 29 Aug 2025 08:51:59 GMT | Audit-Ready: How to Maintain Continuous Compliance Without the Stress | Abdullateef Hameed | [Read More](https://medium.com/p/dce8a96cbc87) |
 | Fri, 29 Aug 2025 08:41:53 GMT | My Month in Cyber Security: 5 Tools I Built During My Internship at Prodigy InfoTech | Darshan Pokar | [Read More](https://medium.com/p/fc5de0f0dfc1) |
+| Fri, 29 Aug 2025 08:41:38 GMT | About me | Rue | [Read More](https://medium.com/p/e98ec4005560) |
 | Fri, 29 Aug 2025 08:27:34 GMT | Apple’s Cheap Shots: From White Paper Whines to Fast-Follow Fumbles | Namir Sagheenanajar | [Read More](https://medium.com/p/9ce01d5fe4b7) |
 | Fri, 29 Aug 2025 08:18:47 GMT | Bcrypt, HMAC-SHA256, and OTP Security: How It All Fits Together | Rakshit Maheshwari | [Read More](https://medium.com/p/d77065fae2fe) |
 | Fri, 29 Aug 2025 08:13:02 GMT | What Are Some Finest Home Gadgets 2025? | Arjun Agarwal | [Read More](https://medium.com/p/c308c36ce1e4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 02:51:37 GMT | CVE-2023–42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data | Quella | [Read More](https://medium.com/p/87b7d2b8734c) |
 | Fri, 29 Aug 2025 02:31:32 GMT | The AI Security Paradox: How Generative AI is Simultaneously Revolutionizing and Threatening… | Akshat Ratanpal | [Read More](https://medium.com/p/8f9e28e6609c) |
 | Fri, 29 Aug 2025 02:27:33 GMT | Why Businesses Must Upgrade Their Cybersecurity Before It’s Too Late | noel chukwuebuka | [Read More](https://medium.com/p/ab38c6e1269d) |
-| Fri, 29 Aug 2025 02:21:33 GMT | SafeLine: A Free Zero Trust Web Application Firewall for 2026 | Maverick Steel | [Read More](https://medium.com/p/b96642095ca3) |
-| Fri, 29 Aug 2025 02:18:05 GMT | The Salesloft Drift Breach Shows Why Integrations Are Never Just “Safe” | Dhruvdeep Singh | [Read More](https://medium.com/p/d7725df45f02) |
-| Fri, 29 Aug 2025 02:12:52 GMT | How I Built a Discord Bot to Keep Up With 40,000+ Vulnerabilities a Year | DeWight Jackson | [Read More](https://medium.com/p/4af0a56bc93d) |
-| Fri, 29 Aug 2025 02:01:06 GMT | Re IT Staffing [2025] SpkGenDec 7 | The Speaker-General | [Read More](https://medium.com/p/062779cb955e) |
-| Fri, 29 Aug 2025 01:57:35 GMT | “Anti-Fraud Lao Chen” Tears Up Seeking Job: Why You Should Cherish Your Current Position | Xiaochen | [Read More](https://medium.com/p/48eaf5114bbd) |
-| Fri, 29 Aug 2025 01:32:51 GMT | Cybersecurity and AI Outlook: A Career Changer’s Take | Cyber I AM | [Read More](https://medium.com/p/2a6dc731a8e1) |
-| Fri, 29 Aug 2025 01:26:43 GMT | File upload vulnerabilities - Web shell upload via path traversal - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4d5e7a7da7be) |
-| Fri, 29 Aug 2025 01:23:32 GMT | Owasp top 10 -2021 in short | The Commoness | [Read More](https://medium.com/p/5c66490dfd22) |
