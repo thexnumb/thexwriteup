@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 03:31:33 GMT | 安全警报 / Security Alert | Legend Trading | [Read More](https://medium.com/p/d142ce957d0c) |
+| Fri, 29 Aug 2025 03:29:25 GMT | ️ Web Security Essentials: A Beginner’s Guide with TryHackMe | Soham_Jadhav | [Read More](https://medium.com/p/d23ac015c044) |
+| Fri, 29 Aug 2025 03:29:24 GMT | iiNet Cyberattack Exposes Data of 280,000 Customers | SafetyDetectives Research Team | [Read More](https://medium.com/p/ae5548f5ecc3) |
+| Fri, 29 Aug 2025 03:29:02 GMT | Unblocking Halo Uploads with SafeLine WAF | Quella | [Read More](https://medium.com/p/fb8af0c06664) |
+| Fri, 29 Aug 2025 03:26:50 GMT | US Authorities Dismantle Rapper Bot, One of the Largest DDoS-for-Hire Networks | SafetyDetectives Research Team | [Read More](https://medium.com/p/b86b932a703e) |
+| Fri, 29 Aug 2025 03:26:23 GMT | CyberDudeBivash Vulnerability Analysis Report [CVE-2025–22457]: Ivanti Avalanche Buffer Overflow | Bivash Kumar Nayak | [Read More](https://medium.com/p/199f5005b9f5) |
+| Fri, 29 Aug 2025 03:21:10 GMT | ScreenConnect Super Admins Hit by Credential Harvesting Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/638e9d7b9d43) |
+| Fri, 29 Aug 2025 03:20:52 GMT | From Guarded to Grounded | Preeta | [Read More](https://medium.com/p/f51d1fdd577f) |
+| Fri, 29 Aug 2025 03:01:36 GMT | South Korea’s Military Shrinks 20% as Birthrate Hits Historic Low — Security at Risk | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/d9591332a4e8) |
 | Fri, 29 Aug 2025 02:51:37 GMT | CVE-2023–42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data | Quella | [Read More](https://medium.com/p/87b7d2b8734c) |
 | Fri, 29 Aug 2025 02:31:32 GMT | The AI Security Paradox: How Generative AI is Simultaneously Revolutionizing and Threatening… | Akshat Ratanpal | [Read More](https://medium.com/p/8f9e28e6609c) |
 | Fri, 29 Aug 2025 02:27:33 GMT | Why Businesses Must Upgrade Their Cybersecurity Before It’s Too Late | noel chukwuebuka | [Read More](https://medium.com/p/ab38c6e1269d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 17:22:58 GMT | Mastering Routersploit: Step-by-Step Guide to Hacking Routers and IoT Devices | Very Lazy Tech | [Read More](https://medium.com/p/cab47031afd3) |
 | Thu, 28 Aug 2025 17:21:05 GMT | Cyber Pros Don’t Just Use Nmap or RustScan — Here’s What They Really Use | Rishabh Shrivastava | [Read More](https://medium.com/p/8c27cbd259a0) |
 | Thu, 28 Aug 2025 17:19:39 GMT | Intercepting LDAP With InterceptSuite | Sourav Kalal | [Read More](https://medium.com/p/45d219c14943) |
-| Thu, 28 Aug 2025 17:10:54 GMT | The Mind’s New Battlefield: Novel Cognitive AI Cybersecurity Frameworks | noailabs | [Read More](https://medium.com/p/8cae5a874733) |
-| Thu, 28 Aug 2025 17:01:02 GMT | Everything You Need to Know About OpenAI’s GPT-5 Bug Bounty Program | LawTech | [Read More](https://medium.com/p/8222b4fbce98) |
-| Thu, 28 Aug 2025 16:57:33 GMT | The AI Cybercrime Revolution: Why Your Blockchain Transactions Need Better Privacy Protection | SilentSwap | [Read More](https://medium.com/p/a2c3be00e6ca) |
-| Thu, 28 Aug 2025 16:51:40 GMT | Analyzing Ransomware Defense and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/6a2119ce67ad) |
-| Thu, 28 Aug 2025 16:49:52 GMT | Analyzing Ransomware Defense and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/6d2c916ff6be) |
-| Thu, 28 Aug 2025 16:48:24 GMT | Best Technology Tools & Platforms for Canadian Startups in 2025 | Zrafted | [Read More](https://medium.com/p/43fcb5721686) |
-| Thu, 28 Aug 2025 16:48:00 GMT | Analyzing Ransomware Defense and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/4e7483ca0753) |
-| Thu, 28 Aug 2025 16:46:38 GMT | How I (Accidentally) Poisoned a Cache with Just the Host Header | Aryan Shrestha | [Read More](https://medium.com/p/11ab55cc73fd) |
-| Thu, 28 Aug 2025 16:46:11 GMT | Analyzing Ransomware Defense and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/98cbf3f1597d) |
