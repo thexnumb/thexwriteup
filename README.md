@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 14:06:02 GMT | How a Simple Open Redirect Can Become a Phishing Vector in Web3 | Efe Esen | [Read More](https://medium.com/p/8dda423ef161) |
+| Fri, 29 Aug 2025 14:01:52 GMT | Cyber Briefing: 2025.08.25 | CyberMaterial | [Read More](https://medium.com/p/53ef1824ec92) |
+| Fri, 29 Aug 2025 14:00:45 GMT | ️ The Hacker That Never Sleeps: How Agentic AI May Revolutionize Cybercrime | S3CloudHub | [Read More](https://medium.com/p/2b560b031c61) |
+| Fri, 29 Aug 2025 13:54:23 GMT | Agentic AI Will Change The Modern Enterprise — How Cybersecurity Teams Can Get Ready | Taimur Ijlal | [Read More](https://medium.com/p/cf5815281b0f) |
+| Fri, 29 Aug 2025 13:48:15 GMT | Nx Supply Chain Attack Exposes AI Workflows and Developer Credentials | The UNFILTERED Draft | [Read More](https://medium.com/p/495c128ea280) |
+| Fri, 29 Aug 2025 13:39:37 GMT | Your Password Manager Won’t Save You — Only Hardware Keys Will | Thread Whisperer | [Read More](https://medium.com/p/c1bb201ed3c6) |
+| Fri, 29 Aug 2025 13:38:52 GMT | Cheat Sheets for AI Writers: The Real Shortcut | Mr. AVISK | [Read More](https://medium.com/p/f8dbef109eba) |
 | Fri, 29 Aug 2025 13:33:30 GMT | Don’t Be a Pawn: How Open Redirects Can Trick You and Harm Websites | Aqsa Rasheed | [Read More](https://medium.com/p/136d99862ef3) |
 | Fri, 29 Aug 2025 13:33:10 GMT | Beyond the Password: An Architect’s Guide to Modern Authentication | Satyendra Jaiswal | [Read More](https://medium.com/p/54b8785c80f3) |
 | Fri, 29 Aug 2025 13:31:39 GMT | The Gmail Security Crisis That Threatens Billions | Prashant Koli | [Read More](https://medium.com/p/2922acce7507) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 10:07:15 GMT | Windows Initial Compromise Detection | Neetrox | [Read More](https://medium.com/p/74fa08d8199a) |
 | Fri, 29 Aug 2025 10:03:24 GMT | REMOTE ACCESS SOFTWARE | Cyber Timi | [Read More](https://medium.com/p/e4a918c5edcf) |
 | Fri, 29 Aug 2025 10:01:05 GMT | Analyzing Security Operations and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/3e5b44ae0c6e) |
-| Fri, 29 Aug 2025 10:00:19 GMT | Google Gmail Data Breach. So, What Should I Do? | Rob. Achilles | [Read More](https://medium.com/p/077ed426a66d) |
-| Fri, 29 Aug 2025 09:59:46 GMT | Analyzing Security Operations and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/8ea7dbc6bce6) |
-| Fri, 29 Aug 2025 09:58:28 GMT | Analyzing Security Operations Step by Step | Cyber Security Research | [Read More](https://medium.com/p/a92b6086d06a) |
-| Fri, 29 Aug 2025 09:57:10 GMT | Analyzing Security Automation in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/a544a384fe70) |
-| Fri, 29 Aug 2025 09:55:44 GMT | Analyzing Security Automation in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/b2341f87c445) |
-| Fri, 29 Aug 2025 09:54:24 GMT | Memahami Deauthentication Attack: Ancaman Tersembunyi dalam Jaringan WiFi | M FIRDAUS RIAWAN | [Read More](https://medium.com/p/9faf1da23ba1) |
-| Fri, 29 Aug 2025 09:53:13 GMT | Discover the Best DevOps Institute in Bangalore Right Now? | Mohammed Numan | [Read More](https://medium.com/p/46bd6b10b87e) |
