@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 14:40:25 GMT | AI System Uncovers Critical Vulnerability in Google Chrome | RealSec.io | [Read More](https://medium.com/p/7d257b118762) |
+| Fri, 29 Aug 2025 14:35:58 GMT | Privacy-Driven Logging: Balancing Visibility and GDPR Compliance | Karthikeyan Nagaraj | [Read More](https://medium.com/p/95865826af92) |
+| Fri, 29 Aug 2025 14:34:00 GMT | Crypto Crime 2024 – 2025: Scale, Sophistication, and Violence | David SEHYEON Baek | [Read More](https://medium.com/p/38dda3448858) |
+| Fri, 29 Aug 2025 14:32:11 GMT | Adversarial Artificial Intelligence (AI) | Igino Corona, Eng PhD | [Read More](https://medium.com/p/4c13e15fa355) |
+| Fri, 29 Aug 2025 14:31:35 GMT | Zero Trust Models: Cybersecurity’s New Gold Standard | Thinking Loop | [Read More](https://medium.com/p/fe39a01a5f55) |
+| Fri, 29 Aug 2025 14:31:34 GMT | Edge Security: Protecting Data Beyond the Cloud | Hash Block | [Read More](https://medium.com/p/366a83429c17) |
+| Fri, 29 Aug 2025 14:31:34 GMT | Forecast Upgraded, Shields Up | Bhagya Rana | [Read More](https://medium.com/p/35957a1760d4) |
+| Fri, 29 Aug 2025 14:25:24 GMT | Cross-Site Scripting (XSS) | Abhayal | [Read More](https://medium.com/p/b6df3388fc82) |
+| Fri, 29 Aug 2025 14:22:08 GMT | Do You Have the Hacker DNA? Take the Ethical Hacker Skills & Traits Test | Kaizen | [Read More](https://medium.com/p/b3e080d09c7a) |
+| Fri, 29 Aug 2025 14:16:58 GMT | Cloudflare WAF vs. SafeLine WAF: Why SafeLine is the Better Choice | Maverick Steel | [Read More](https://medium.com/p/6e3dc74689fe) |
 | Fri, 29 Aug 2025 14:06:02 GMT | How a Simple Open Redirect Can Become a Phishing Vector in Web3 | Efe Esen | [Read More](https://medium.com/p/8dda423ef161) |
 | Fri, 29 Aug 2025 14:01:52 GMT | Cyber Briefing: 2025.08.25 | CyberMaterial | [Read More](https://medium.com/p/53ef1824ec92) |
 | Fri, 29 Aug 2025 14:00:45 GMT | ️ The Hacker That Never Sleeps: How Agentic AI May Revolutionize Cybercrime | S3CloudHub | [Read More](https://medium.com/p/2b560b031c61) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 10:30:15 GMT | The Unblinking Eye: How Computer Vision is Building Safer Cities | Kryptonaitoffice | [Read More](https://medium.com/p/d546ff0f2c74) |
 | Fri, 29 Aug 2025 10:29:55 GMT | The Internet Never Forgets: A Hacker’s Guide to Your Digital Shadow | IamPreth | [Read More](https://medium.com/p/de08136eaada) |
 | Fri, 29 Aug 2025 10:28:28 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/f4584bf76ef8) |
-| Fri, 29 Aug 2025 10:27:12 GMT | Writeup N3XT_L3V3L CTF — ny4muk | ny4muk | [Read More](https://medium.com/p/077aac9741b9) |
-| Fri, 29 Aug 2025 10:25:09 GMT | ️ Build Your Own Cybersecurity Lab with VMware: Step-by-Step Windows Server 2022 Installation… | Furkanctiner | [Read More](https://medium.com/p/88f97118d67d) |
-| Fri, 29 Aug 2025 10:23:14 GMT | Vintage HTB | mrugi1 | [Read More](https://medium.com/p/796954920c36) |
-| Fri, 29 Aug 2025 10:19:15 GMT | TransUnion Data Breach: 4.4 Million Customers at Risk | Technijian | [Read More](https://medium.com/p/9040f0098685) |
-| Fri, 29 Aug 2025 10:13:50 GMT | DEFCON33 Notlarım | Saniye Nur | [Read More](https://medium.com/p/0efb0f736bbf) |
-| Fri, 29 Aug 2025 10:13:44 GMT | What Comes After the Fire | Printique studios | [Read More](https://medium.com/p/414c8d5ddcd5) |
-| Fri, 29 Aug 2025 10:07:37 GMT | Types of Computer Networks: PAN, LAN, MAN, WAN (and Why Security Differs for Each) | Keerthan V Suvarna | [Read More](https://medium.com/p/e839c8a6443f) |
-| Fri, 29 Aug 2025 10:07:15 GMT | Windows Initial Compromise Detection | Neetrox | [Read More](https://medium.com/p/74fa08d8199a) |
-| Fri, 29 Aug 2025 10:03:24 GMT | REMOTE ACCESS SOFTWARE | Cyber Timi | [Read More](https://medium.com/p/e4a918c5edcf) |
-| Fri, 29 Aug 2025 10:01:05 GMT | Analyzing Security Operations and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/3e5b44ae0c6e) |
