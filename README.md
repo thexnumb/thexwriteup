@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 06:23:10 GMT | Essential Linux Hacking Tricks Everyone Should Know | Frost | [Read More](https://medium.com/p/7ee9dc4dbe4c) |
+| Fri, 29 Aug 2025 06:17:24 GMT | Day 12: Linux User Administration → Managing Users & Groups | Prutha_Dongre | [Read More](https://medium.com/p/1f7aa98caf5f) |
+| Fri, 29 Aug 2025 06:16:59 GMT | CAB CHRONICLES 84: THE CORNER | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/58541151be5b) |
+| Fri, 29 Aug 2025 06:15:32 GMT | Top 10 Tech Companies in Dallas | IT Specialist | [Read More](https://medium.com/p/6252cf7dc1a7) |
+| Fri, 29 Aug 2025 06:14:20 GMT | The 5 tools you may need to pass OSCP | DuckWrites | [Read More](https://medium.com/p/83e2e8bba420) |
+| Fri, 29 Aug 2025 06:13:36 GMT | Why Investing in Cyber Security is Critical for Singapore SMEs | Ergo SG | [Read More](https://medium.com/p/4a9f08dcdce5) |
+| Fri, 29 Aug 2025 06:05:02 GMT | İş Yeri Alarm Sensörleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/d74b096151ef) |
+| Fri, 29 Aug 2025 06:02:51 GMT | Lloydminster Security Guard Company — World Guardian Security Services | Support | [Read More](https://medium.com/p/41aeb8bfe46c) |
+| Fri, 29 Aug 2025 06:02:27 GMT | Web Security Essentials Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/a70176408683) |
+| Fri, 29 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/87a84dcbaa11) |
+| Fri, 29 Aug 2025 05:57:33 GMT | Hacking the Hive: A CTF Guide to Windows Registry Forensics | GauthamV | [Read More](https://medium.com/p/47cf2306e91d) |
+| Fri, 29 Aug 2025 05:56:09 GMT | Top 7 Benefits of Managed IT Services Brisbane in 2025 | Elevate | [Read More](https://medium.com/p/71f24309396f) |
+| Fri, 29 Aug 2025 05:55:36 GMT | ️ Screen Shield AI: My Attempt to Outsmart My Own Laziness | Ananthapadmanabhan.V | [Read More](https://medium.com/p/17c41b0c5bb5) |
+| Fri, 29 Aug 2025 05:40:47 GMT | Was This Really the Worst PayPal Hack Ever? | Sagar Majumdar | [Read More](https://medium.com/p/49ff7ac40c11) |
+| Fri, 29 Aug 2025 05:40:43 GMT | To Each Their Own in Hacking: Choosing Your Path in Cybersecurity | Mr Horbio | [Read More](https://medium.com/p/50f9a6b0b27c) |
 | Fri, 29 Aug 2025 05:33:01 GMT | The most Powerful Currency We Have Is Our Truth | Simi Amos | [Read More](https://medium.com/p/202e7f9e4f4b) |
 | Fri, 29 Aug 2025 05:27:23 GMT | “Proactive Threat Hunting: Staying Ahead of Cyber Threats in 2025" | Syed Sulthan | [Read More](https://medium.com/p/2044db42ab33) |
 | Fri, 29 Aug 2025 05:25:51 GMT | Blogging: Technical Blogging on Cybersecurity and Threat Hunting | Saibin k siju | [Read More](https://medium.com/p/d40bc21222c0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 20:26:08 GMT | Building an HTTP(S) to Tor C2 Redirector with Flask — Part 2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e1952dd57fd7) |
 | Thu, 28 Aug 2025 20:05:27 GMT | Digital Forensics: The Silent Weapon in Modern Criminal Investigations | DIVIJ NAYAK | [Read More](https://medium.com/p/20faed702009) |
 | Thu, 28 Aug 2025 20:04:49 GMT | OSINT Challenge— Writeup | Alwin Thomas | [Read More](https://medium.com/p/0cc8690d6d73) |
-| Thu, 28 Aug 2025 20:03:37 GMT | Cyber Security: Protecting the Digital World in 2025 | Ashvita Koli | [Read More](https://medium.com/p/d897230eca05) |
-| Thu, 28 Aug 2025 20:00:33 GMT | CitrixBleed 2.0: Over 28,000 Gateways at Risk in the Crosshairs of Exploitation | Pentestjunkie07 | [Read More](https://medium.com/p/ccf81c820d28) |
-| Thu, 28 Aug 2025 19:59:40 GMT | How AI Revolutionizes Access to Education | O Código Futuro | [Read More](https://medium.com/p/4e17bed74612) |
-| Thu, 28 Aug 2025 19:53:00 GMT | Vulnerability Analysis & Privilege Escalation Writeup: DVWA Command Injection | Mayank Kumar | [Read More](https://medium.com/p/15a065cd90a4) |
-| Thu, 28 Aug 2025 19:49:56 GMT | Practical Enumeration: SMB, SMTP, SNMP & Metasploit in Action | Mostafaahmed | [Read More](https://medium.com/p/6222356e5ffc) |
-| Thu, 28 Aug 2025 19:37:34 GMT | “How to Prepare for War — According to NATO” | Fabrizio Ras | [Read More](https://medium.com/p/97ba2d8c9ab7) |
-| Thu, 28 Aug 2025 19:33:54 GMT | Why Risk Management, Audit, Compliance, and Cybersecurity will be displaced by Artificial… | James Bone | [Read More](https://medium.com/p/68121e9cb26c) |
-| Thu, 28 Aug 2025 19:33:17 GMT | The Solution Arrived When I Stopped Forcing It | Sam Galope | [Read More](https://medium.com/p/64fa1465a5ca) |
-| Thu, 28 Aug 2025 19:26:04 GMT | Comunicado Oficial — Hubstry | Hubstry - Deep Tech IT Business Hub | [Read More](https://medium.com/p/647e8ba270df) |
-| Thu, 28 Aug 2025 19:23:03 GMT | Enumeration in Penetration Testing | Mohamed ibrahim fathy | [Read More](https://medium.com/p/862167b9ae6f) |
-| Thu, 28 Aug 2025 19:19:24 GMT | Comunicado Oficial — Hubstry | Hubstry - Deep Tech | [Read More](https://medium.com/p/ec9e69d8ac41) |
-| Thu, 28 Aug 2025 19:14:56 GMT | TryHackMe - Introduction to EDR - WriteUp | Axoloth | [Read More](https://medium.com/p/ba404914b321) |
-| Thu, 28 Aug 2025 19:13:02 GMT | Observing Plaintext vs Encrypted Traffic with Python and Wireshark — A Hands-On Lab | Gage A Olson | [Read More](https://medium.com/p/af007c3461a5) |
-| Thu, 28 Aug 2025 19:12:05 GMT | 6 Ways to Handle Authentication in Node.js | TechByRahmat | [Read More](https://medium.com/p/83c1f8837cdd) |
-| Thu, 28 Aug 2025 19:04:24 GMT | Smart Spending in Tech: How Cost-Effective IT Solutions Propel Business Growth | Teona | [Read More](https://medium.com/p/3176ddf1e4e3) |
