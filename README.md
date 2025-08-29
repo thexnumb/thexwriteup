@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 15:37:50 GMT | The AI Skills No One Talks About (But Every Employer Wants in 2025) | ForeCast | [Read More](https://medium.com/p/a4f08ecddcb1) |
+| Fri, 29 Aug 2025 15:36:31 GMT | Crafting Web Application Firewall Using Node.js | Kshitizsharma | [Read More](https://medium.com/p/92eeb5e88f6b) |
+| Fri, 29 Aug 2025 15:34:36 GMT | : | Md Monsur | [Read More](https://medium.com/p/63a6a2f50463) |
+| Fri, 29 Aug 2025 15:31:34 GMT | https://vitalymikhalin.ru/ | Md Monsur | [Read More](https://medium.com/p/c61174d35a0a) |
+| Fri, 29 Aug 2025 15:31:34 GMT | Behind the $97M Fine | Bhagya Rana | [Read More](https://medium.com/p/2664a82225e9) |
+| Fri, 29 Aug 2025 15:28:43 GMT | “We’re Secure,” They Said: How Penetration Testing Shattered the Illusion | Aj | [Read More](https://medium.com/p/033d8006a056) |
+| Fri, 29 Aug 2025 15:26:52 GMT | Ghost Reqs: Why So Many IT Job Postings Go Nowhere — and How to Spot the Real Ones | Bobby | [Read More](https://medium.com/p/7eecae9db3b6) |
+| Fri, 29 Aug 2025 15:21:59 GMT | HackerEscapeRoom.online: Where Capture the Flag Meets Escape Room Thrills | Cristhian Azuero | [Read More](https://medium.com/p/1a55ba0c4255) |
 | Fri, 29 Aug 2025 15:03:53 GMT | The Storm is Coming: Here’s Exactly What I’m Doing With My Portfolio Right Now | Vijay Kumar Gupta | [Read More](https://medium.com/p/eacb0126d3d4) |
 | Fri, 29 Aug 2025 15:03:53 GMT | The Urgent Need for AI Governance & Security | Sennovate | [Read More](https://medium.com/p/075291f632bb) |
 | Fri, 29 Aug 2025 15:01:50 GMT | AI for Threat Intelligence: How Machines Are Hunting Hackers Before They Strike | CapitalCoin | [Read More](https://medium.com/p/c88e51f0bf8f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 11:23:18 GMT | Infosys – Senior Tester Interview Questions | Ajit Kumar | [Read More](https://medium.com/p/cbc5ed0bde3a) |
 | Fri, 29 Aug 2025 11:23:11 GMT | Threat Intelligence Solutions: Making Your Business Safer from Cyber Threats | Digital Defense | [Read More](https://medium.com/p/632c8faec046) |
 | Fri, 29 Aug 2025 11:20:49 GMT | When Role-Play Goes Rogue: Prompt Injection Bypasses in LLMs | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ca22913e06f0) |
-| Fri, 29 Aug 2025 11:17:48 GMT | Discover how AI cybersecurity is protecting the digital world in 2025. | Deepanshu Mahajan | [Read More](https://medium.com/p/297a2b02eabe) |
-| Fri, 29 Aug 2025 11:13:40 GMT | Top Features of MDM Software Every Business Needs in 2025 | Vantage MDM | [Read More](https://medium.com/p/a31830fb075d) |
-| Fri, 29 Aug 2025 11:09:11 GMT | Building A Custom SSL Certificate Store On the Salesforce Platform | Justus van den Berg | [Read More](https://medium.com/p/5e678c126cc9) |
-| Fri, 29 Aug 2025 11:06:31 GMT | 10 Best Hosting Providers for OpenVPN in 2025 | Jasmeet  Kaur | [Read More](https://medium.com/p/da6d01c0a230) |
-| Fri, 29 Aug 2025 11:02:53 GMT | DockerLabs Writeup — TheDog (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9e7d8a5ab061) |
-| Fri, 29 Aug 2025 11:02:31 GMT | Haunted Prompts: How Prompt Injection Targets System & User Instructions (with 16 Test Payloads) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b58f6c4e1885) |
-| Fri, 29 Aug 2025 10:58:23 GMT | How Advanced File Delivery with Webpack Optimizes Web App Performance | Idera Dev Tools | [Read More](https://medium.com/p/1b7a62ee6322) |
-| Fri, 29 Aug 2025 10:57:59 GMT | Jacob the Boss- TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/815eb1e562db) |
