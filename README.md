@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 22:25:41 GMT | Analysis of a Multi-Stage Windows Defender Bypass: Project Blackfin | Theo Mirzakhanian | [Read More](https://medium.com/p/e9b013c449bd) |
+| Fri, 29 Aug 2025 22:24:45 GMT | How I Recovered from Accidentally Deleting My 3-Month Training Dataset: A Data Scientist’s Worst… | Abduldattijo | [Read More](https://medium.com/p/9e52c907a731) |
+| Fri, 29 Aug 2025 22:20:36 GMT | 5 Hacking Tools Every IT Pro Should Understand (Ethically!) | Aj | [Read More](https://medium.com/p/6c73ee35ac62) |
+| Fri, 29 Aug 2025 22:20:29 GMT | A Comprehensive List of Free Websites for Learning Coding | loyalonlytoday | [Read More](https://medium.com/p/0aa1881a2f27) |
+| Fri, 29 Aug 2025 22:17:33 GMT | Detecting Malware via Behavioral SQLite Analysis | Karthikeyan Nagaraj | [Read More](https://medium.com/p/53cc1359d947) |
+| Fri, 29 Aug 2025 22:16:53 GMT | ️ How to Secure Your Small Business Router from Malware and Cyberthreats (2025 Edition) | Noel | [Read More](https://medium.com/p/c703082bb186) |
+| Fri, 29 Aug 2025 22:16:47 GMT | How Hackers Can Take Over a Company’s Subdomain (And How It Works) | Abhishek Bhujang | [Read More](https://medium.com/p/5c75faae3fc7) |
 | Fri, 29 Aug 2025 22:16:07 GMT | TryHackMe-  Introduction To EDR Solved | Samar Bedi | [Read More](https://medium.com/p/f1603227f7a9) |
 | Fri, 29 Aug 2025 22:14:49 GMT | 40 AI Terms You Need to Know (Explained Clearly) | Hemant Patkar, CISSP | [Read More](https://medium.com/p/a4e625aa7fe2) |
 | Fri, 29 Aug 2025 22:14:41 GMT | The Real Cost of Getting Hacked: It’s More Than Just Money | Shahzaib | [Read More](https://medium.com/p/af439e850f72) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 16:03:55 GMT | Cybercrime Account Freeze: What It Means and How to Unfreeze It Legally | Karryjohn | [Read More](https://medium.com/p/12dd24d4d0ed) |
 | Fri, 29 Aug 2025 16:00:59 GMT | Why Mobile Patrols are a Cost-Effective Security Choice | Nimra Sheikh | [Read More](https://medium.com/p/75b68b1616a2) |
 | Fri, 29 Aug 2025 16:00:23 GMT | Why Networking Fundamentals Are the Foundation of a SOC Analyst Career | orioninsist | [Read More](https://medium.com/p/5f66a30bee5a) |
-| Fri, 29 Aug 2025 15:56:59 GMT | Global (De)Censorship Report 2025: Freedom, Protocols & Technologies | Saropa Contacts News | [Read More](https://medium.com/p/286a5a6d6281) |
-| Fri, 29 Aug 2025 15:53:17 GMT | ADIDNS Time Bombs: Poison Today, Relay Tomorrow | Giulio Pierantoni | [Read More](https://medium.com/p/c224934eefa6) |
-| Fri, 29 Aug 2025 15:50:39 GMT | ATT&CK - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/07bbd9a08ef0) |
-| Fri, 29 Aug 2025 15:50:22 GMT | Log Analysis — Privilege Escalation - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/e965dccb74bc) |
-| Fri, 29 Aug 2025 15:50:14 GMT | Security Automation: Personalized RSS Threat Feed Tracker 2.0 — Now with Microsoft Teams | Erin Martin | [Read More](https://medium.com/p/fbb2cc4add4a) |
-| Fri, 29 Aug 2025 15:48:31 GMT | Starting Small, Moving Forward | Muhammad Sameed Asif | [Read More](https://medium.com/p/0568f2a6eee4) |
-| Fri, 29 Aug 2025 15:47:33 GMT | Insecure Design (OWASP Top 10 #4) — Simplified | Chai | [Read More](https://medium.com/p/01d4abb4bd99) |
