@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 21:27:56 GMT | Reverse Engineering Challenge — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/783d87d3f233) |
+| Fri, 29 Aug 2025 21:27:28 GMT | Forensics Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/284e92f4be53) |
+| Fri, 29 Aug 2025 21:23:29 GMT | Uncovering the Truth: Genuine Love or Convenient Illusion? | Jummai Bukar | [Read More](https://medium.com/p/12f6062709dc) |
+| Fri, 29 Aug 2025 21:16:15 GMT | From Zero to Networking Hero: Follow My Journey | Jordan Indongo | [Read More](https://medium.com/p/17e6509bb939) |
 | Fri, 29 Aug 2025 21:11:33 GMT | Introduction | Deepak Gupta | [Read More](https://medium.com/p/d6ada04d0cc6) |
 | Fri, 29 Aug 2025 21:10:16 GMT | Yuzu Encryption Keys: What They Are and How They Work | SafeAeon Inc. | [Read More](https://medium.com/p/319849e97cde) |
 | Fri, 29 Aug 2025 21:00:14 GMT | The Linux Security Journey — Grsecurity | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5d2592277693) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 15:26:52 GMT | Ghost Reqs: Why So Many IT Job Postings Go Nowhere — and How to Spot the Real Ones | Bobby | [Read More](https://medium.com/p/7eecae9db3b6) |
 | Fri, 29 Aug 2025 15:21:59 GMT | HackerEscapeRoom.online: Where Capture the Flag Meets Escape Room Thrills | Cristhian Azuero | [Read More](https://medium.com/p/1a55ba0c4255) |
 | Fri, 29 Aug 2025 15:03:53 GMT | The Storm is Coming: Here’s Exactly What I’m Doing With My Portfolio Right Now | Vijay Kumar Gupta | [Read More](https://medium.com/p/eacb0126d3d4) |
-| Fri, 29 Aug 2025 15:03:53 GMT | The Urgent Need for AI Governance & Security | Sennovate | [Read More](https://medium.com/p/075291f632bb) |
-| Fri, 29 Aug 2025 15:01:50 GMT | AI for Threat Intelligence: How Machines Are Hunting Hackers Before They Strike | CapitalCoin | [Read More](https://medium.com/p/c88e51f0bf8f) |
-| Fri, 29 Aug 2025 14:59:05 GMT | Setting Up Azure Application Gateway with Private Endpoints for VMs | Yaaghassen | [Read More](https://medium.com/p/08c13e0b0d9f) |
-| Fri, 29 Aug 2025 14:58:01 GMT | “Facebook Lite Access Control Failure Bug” awarded with 3000$. | Khagendrabc | [Read More](https://medium.com/p/c41836c20637) |
