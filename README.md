@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 23:10:10 GMT | From Payloads to Pwnage A Pentester’s Walkthrough of a Real-World Red Team Exam | pohackontas | [Read More](https://medium.com/p/2f933cf62334) |
+| Fri, 29 Aug 2025 22:55:43 GMT | Inside the Modern “Wiring Scam”: How Criminals Move Money — and How to Stop Them | Internet Exposed | [Read More](https://medium.com/p/007c15096094) |
 | Fri, 29 Aug 2025 22:25:41 GMT | Analysis of a Multi-Stage Windows Defender Bypass: Project Blackfin | Theo Mirzakhanian | [Read More](https://medium.com/p/e9b013c449bd) |
 | Fri, 29 Aug 2025 22:24:45 GMT | How I Recovered from Accidentally Deleting My 3-Month Training Dataset: A Data Scientist’s Worst… | Abduldattijo | [Read More](https://medium.com/p/9e52c907a731) |
 | Fri, 29 Aug 2025 22:20:36 GMT | 5 Hacking Tools Every IT Pro Should Understand (Ethically!) | Aj | [Read More](https://medium.com/p/6c73ee35ac62) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 16:04:52 GMT | ScamScan: Using AI to Outsmart Fraudulent Websites | Gumpu UshaSri | [Read More](https://medium.com/p/c66a966318d6) |
 | Fri, 29 Aug 2025 16:04:51 GMT | How CCTV Monitoring Works Best with On-Site Security | Nimra Sheikh | [Read More](https://medium.com/p/48d8cdca967e) |
 | Fri, 29 Aug 2025 16:03:55 GMT | Cybercrime Account Freeze: What It Means and How to Unfreeze It Legally | Karryjohn | [Read More](https://medium.com/p/12dd24d4d0ed) |
-| Fri, 29 Aug 2025 16:00:59 GMT | Why Mobile Patrols are a Cost-Effective Security Choice | Nimra Sheikh | [Read More](https://medium.com/p/75b68b1616a2) |
-| Fri, 29 Aug 2025 16:00:23 GMT | Why Networking Fundamentals Are the Foundation of a SOC Analyst Career | orioninsist | [Read More](https://medium.com/p/5f66a30bee5a) |
