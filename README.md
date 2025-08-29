@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 15:03:53 GMT | The Storm is Coming: Here’s Exactly What I’m Doing With My Portfolio Right Now | Vijay Kumar Gupta | [Read More](https://medium.com/p/eacb0126d3d4) |
+| Fri, 29 Aug 2025 15:03:53 GMT | The Urgent Need for AI Governance & Security | Sennovate | [Read More](https://medium.com/p/075291f632bb) |
+| Fri, 29 Aug 2025 15:01:50 GMT | AI for Threat Intelligence: How Machines Are Hunting Hackers Before They Strike | CapitalCoin | [Read More](https://medium.com/p/c88e51f0bf8f) |
+| Fri, 29 Aug 2025 14:59:05 GMT | Setting Up Azure Application Gateway with Private Endpoints for VMs | Yaaghassen | [Read More](https://medium.com/p/08c13e0b0d9f) |
+| Fri, 29 Aug 2025 14:58:01 GMT | “Facebook Lite Access Control Failure Bug” awarded with 3000$. | Khagendrabc | [Read More](https://medium.com/p/c41836c20637) |
+| Fri, 29 Aug 2025 14:57:03 GMT | Hidden Fields, Mass Assignment, and Securing APIs: Lessons from vAPI | Archibong Chinonso Samuel | [Read More](https://medium.com/p/654c83077f5b) |
+| Fri, 29 Aug 2025 14:50:07 GMT | System Design Made Simple: A Senior Dev’s Coffee Chat With Juniors | Mech2Dude | [Read More](https://medium.com/p/ad39d2666cce) |
+| Fri, 29 Aug 2025 14:48:42 GMT | Legal Studies to Cybersecurity? The Secret Nobody Shares | Authlyn | [Read More](https://medium.com/p/2e192eadfaaf) |
+| Fri, 29 Aug 2025 14:45:58 GMT | AI Systems for Detecting Cyber Attacks | Igino Corona, Eng PhD | [Read More](https://medium.com/p/e441e96600cf) |
+| Fri, 29 Aug 2025 14:45:38 GMT | COD4MW Cheat: A Reverse Engineering Adventure | Faraday Team | [Read More](https://medium.com/p/e0bdb8c54f90) |
+| Fri, 29 Aug 2025 14:43:54 GMT | What Was Not Asked in the Kericho Governor Impeachment — And Why It Matters for Digital Democracy | Charles Mwaniki | [Read More](https://medium.com/p/dcff3030d0dc) |
+| Fri, 29 Aug 2025 14:43:30 GMT | Don’t Let a Generic WISP Become Your Firm’s Weakest Link | Deepanshu Gahlaut | [Read More](https://medium.com/p/07e6b42fff5e) |
+| Fri, 29 Aug 2025 14:41:50 GMT | Beyond PCI and HIPAA: How Feroot Powers Digital Operational Resilience Act (DORA) Compliance | Feroot Security | [Read More](https://medium.com/p/371be52b8a40) |
+| Fri, 29 Aug 2025 14:41:45 GMT | Threat Intelligence Platforms for Mid‑Size Companies: A Strategic Guide to Strengthening Cyber… | Paul Meyer | [Read More](https://medium.com/p/94ed815e9bb9) |
 | Fri, 29 Aug 2025 14:40:25 GMT | AI System Uncovers Critical Vulnerability in Google Chrome | RealSec.io | [Read More](https://medium.com/p/7d257b118762) |
+| Fri, 29 Aug 2025 14:39:45 GMT | Let’s Talk the Birds and the Bees | Nonjabulo Matomela | [Read More](https://medium.com/p/64e8a803a598) |
 | Fri, 29 Aug 2025 14:35:58 GMT | Privacy-Driven Logging: Balancing Visibility and GDPR Compliance | Karthikeyan Nagaraj | [Read More](https://medium.com/p/95865826af92) |
 | Fri, 29 Aug 2025 14:34:00 GMT | Crypto Crime 2024 – 2025: Scale, Sophistication, and Violence | David SEHYEON Baek | [Read More](https://medium.com/p/38dda3448858) |
 | Fri, 29 Aug 2025 14:32:11 GMT | Adversarial Artificial Intelligence (AI) | Igino Corona, Eng PhD | [Read More](https://medium.com/p/4c13e15fa355) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 11:02:31 GMT | Haunted Prompts: How Prompt Injection Targets System & User Instructions (with 16 Test Payloads) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b58f6c4e1885) |
 | Fri, 29 Aug 2025 10:58:23 GMT | How Advanced File Delivery with Webpack Optimizes Web App Performance | Idera Dev Tools | [Read More](https://medium.com/p/1b7a62ee6322) |
 | Fri, 29 Aug 2025 10:57:59 GMT | Jacob the Boss- TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/815eb1e562db) |
-| Fri, 29 Aug 2025 10:54:39 GMT | Malware Resurgence, Espionage Campaigns Dominate the Week | Loginsoft | [Read More](https://medium.com/p/2483bbb7cb72) |
-| Fri, 29 Aug 2025 10:49:48 GMT | Penetration testing services | StrongBox IT | [Read More](https://medium.com/p/e2e67a776a77) |
-| Fri, 29 Aug 2025 10:48:29 GMT | TryHackMe: Brains Walkthrough | Furkanctiner | [Read More](https://medium.com/p/c126cfa62c0b) |
-| Fri, 29 Aug 2025 10:47:00 GMT | Part II — Turning Agents Into “Sleeper” Agents: $118,500+ In Bounties via LLM Data Poisoning | Justas_b | [Read More](https://medium.com/p/8b8d04ffcca8) |
-| Fri, 29 Aug 2025 10:46:24 GMT | PENETRATION TEST REPORT FOR KNIFETUNA | Saeed Ahmed | [Read More](https://medium.com/p/68f8aa2ed873) |
-| Fri, 29 Aug 2025 10:45:39 GMT | Cracking Gandalf Level 1: Your First Step into AI Security Testing | W1nter | [Read More](https://medium.com/p/bad002042674) |
-| Fri, 29 Aug 2025 10:38:56 GMT | B.Tech in Computer Science & Engineering (Computer Network & Cyber Security) for Working… | Unbounded Learning | [Read More](https://medium.com/p/9390d0f83775) |
-| Fri, 29 Aug 2025 10:38:02 GMT | Exploiting OTP with IP Rotation on a Flutter App: Bypassing Rate Limits | Hussein A.Taha | [Read More](https://medium.com/p/58f9dffec83c) |
-| Fri, 29 Aug 2025 10:36:49 GMT | When Foresight Becomes Immediate Reality: My Research on the Unitree G1 and the Dana White Incident | Berend Watchus | [Read More](https://medium.com/p/cfe7edb08967) |
-| Fri, 29 Aug 2025 10:32:34 GMT | Cybersecurity Training Arizona — Keep Your Business Secure | DL Info Shield | [Read More](https://medium.com/p/e41011fd40ad) |
-| Fri, 29 Aug 2025 10:31:00 GMT | Path Traversal challenge in Web Security Academy | Varkeythms | [Read More](https://medium.com/p/e5fcacd1e416) |
-| Fri, 29 Aug 2025 10:30:52 GMT | Visitor Lanyards vs. Visitor Stickers: Why It’s Time to Make the Switch — Visitor Management System | Rajesh Patil | [Read More](https://medium.com/p/2521721c22ad) |
-| Fri, 29 Aug 2025 10:30:15 GMT | The Unblinking Eye: How Computer Vision is Building Safer Cities | Kryptonaitoffice | [Read More](https://medium.com/p/d546ff0f2c74) |
-| Fri, 29 Aug 2025 10:29:55 GMT | The Internet Never Forgets: A Hacker’s Guide to Your Digital Shadow | IamPreth | [Read More](https://medium.com/p/de08136eaada) |
-| Fri, 29 Aug 2025 10:28:28 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/f4584bf76ef8) |
