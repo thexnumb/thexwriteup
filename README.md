@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 05:17:55 GMT | Thermoplastic Polyurethane (TPU) Films Market Size, Growth, Analysis & Trends 2031 | Sagarkavika | [Read More](https://medium.com/p/31cef62cfd39) |
+| Fri, 29 Aug 2025 05:12:56 GMT | Cybersecurity Compliance in 2025: An Essential Guide | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/1c84df3d7e80) |
+| Fri, 29 Aug 2025 05:07:53 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ed70cac73969) |
+| Fri, 29 Aug 2025 05:05:52 GMT | DaUnderstanding MFA and 2FA for beginners | unica 02 | [Read More](https://medium.com/p/3173b6275ffe) |
+| Fri, 29 Aug 2025 05:00:30 GMT | The Secret Shape of What’s Coming | Something About Will | [Read More](https://medium.com/p/b34eb027c8de) |
+| Fri, 29 Aug 2025 04:58:27 GMT | The Role of Metadata Management in Modern Data Governance | Ahmedmongy | [Read More](https://medium.com/p/fe254966e15a) |
+| Fri, 29 Aug 2025 04:57:34 GMT | How to Identify Malware vs Ransomware Attacks | Elevate | [Read More](https://medium.com/p/38cddddec76b) |
+| Fri, 29 Aug 2025 04:53:04 GMT | Why Threat Hunting is So important | Liyakath | [Read More](https://medium.com/p/5483db9c9995) |
+| Fri, 29 Aug 2025 04:51:36 GMT | Apple Intelligence: When “Private AI” Collects More Than You Expect | LazyHacker | [Read More](https://medium.com/p/0ffa1b774233) |
 | Fri, 29 Aug 2025 04:43:21 GMT | 9. The Secret Power of Google Dorking | Abhijeet kumawat | [Read More](https://medium.com/p/736325566220) |
 | Fri, 29 Aug 2025 04:41:36 GMT | The Marketing Secret Nobody’s Talking About. | Simon P | [Read More](https://medium.com/p/43734ad8cc69) |
 | Fri, 29 Aug 2025 04:38:19 GMT | Capturing and Analyzing Memory with Free Tools | CybVulnHunter | [Read More](https://medium.com/p/51aef942302e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 18:47:12 GMT | TryHackMe - Vulnerabilities 101 Walkthrough | m0cha_ | [Read More](https://medium.com/p/54bd326c71e1) |
 | Thu, 28 Aug 2025 18:45:35 GMT | Understanding OWASP: Managing the Risks in Web Application Security | SafeAeon Inc. | [Read More](https://medium.com/p/e92903ed1c87) |
 | Thu, 28 Aug 2025 18:43:43 GMT | Don’t Just Scan That QR Code: An Ethical Hacker’s Warning You Can’t Ignore | Vijay Kumar Gupta | [Read More](https://medium.com/p/e6ea562dc6dd) |
-| Thu, 28 Aug 2025 18:34:47 GMT | The Power of 2FA: Why Two-Factor Authentication Is No Longer Optional | SafeAeon Inc. | [Read More](https://medium.com/p/21258aa21064) |
-| Thu, 28 Aug 2025 18:29:55 GMT | From Generalist to Specialist: Fine-Tuning Gemini for Terraform Scans & Phishing Detection | Shimon Ben | [Read More](https://medium.com/p/ee6043816c37) |
-| Thu, 28 Aug 2025 18:28:33 GMT | THM - “TShark Challenge II: Directory” | Francesco Pastore | [Read More](https://medium.com/p/d24c73e49063) |
-| Thu, 28 Aug 2025 18:17:31 GMT | ¿Y si tu vida no es hacerte una carrera universitaria? | Jared | [Read More](https://medium.com/p/248cdc914383) |
-| Thu, 28 Aug 2025 18:05:11 GMT | Cybersécurité : tout comprendre et trouver son chemin | Johan Liebert | [Read More](https://medium.com/p/113b5f86417d) |
-| Thu, 28 Aug 2025 18:04:59 GMT | Uncovering a Sophisticated Banking Trojan: A Cybersecurity Case Study | LETCHU PKT | [Read More](https://medium.com/p/fc03e0cd9634) |
-| Thu, 28 Aug 2025 18:02:43 GMT | Casser les idées reçues sur la cybersécurité | Johan Liebert | [Read More](https://medium.com/p/de09334cbcdb) |
-| Thu, 28 Aug 2025 17:52:26 GMT | “When Your Secret Recipe Is Stolen: Inside ExfilCola’s Data Extortion” Solving CTF Game Challenge | Waghaditi | [Read More](https://medium.com/p/7bc05bdcac2e) |
-| Thu, 28 Aug 2025 17:50:52 GMT | [CyberDefenders Write-up] GoldenSpray (Investigate password spray to RDP initial access… | Chicken0248 | [Read More](https://medium.com/p/373f437a17dd) |
