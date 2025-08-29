@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 17:01:32 GMT | My official reason to blog about cybersecurity and the things i do: | C0mr4de | [Read More](https://medium.com/p/1dd96fb79898) |
+| Fri, 29 Aug 2025 16:59:40 GMT | How I Found a Simple but Impactful Web Cache Deception (WCD) Vulnerability | Yusuf | [Read More](https://medium.com/p/4782851bfcac) |
+| Fri, 29 Aug 2025 16:56:52 GMT | API Security Hardening: Building Fortress-Level Java APIs in Production | Harsh Shah | [Read More](https://medium.com/p/aa668b4b6151) |
+| Fri, 29 Aug 2025 16:56:33 GMT | The Lifecycle of Malware: From Infection to Exfiltration | Paritosh | [Read More](https://medium.com/p/ee5ae45d8388) |
+| Fri, 29 Aug 2025 16:55:51 GMT | Technology Trends in 2025: It’s Worth Knowing One or Some of Them | Said Alfahulmizan | [Read More](https://medium.com/p/68b17bb2e581) |
+| Fri, 29 Aug 2025 16:47:32 GMT | AWS Breaking Glass Accounts : Stratégie d’Urgence pour l’Entreprise | Sylvain BRUAS | [Read More](https://medium.com/p/6f6bc0bad234) |
+| Fri, 29 Aug 2025 16:47:27 GMT | The Race to Build an Un-Hackable Barrier for AI. AI Access with Quantum and Cryptographic Locks | Berend Watchus | [Read More](https://medium.com/p/b3d2c675a642) |
+| Fri, 29 Aug 2025 16:47:22 GMT | The 9 Most Dangerous Websites That Actually Exist (And Why You Must Never Visit Them) | John Edwin | [Read More](https://medium.com/p/d0dc0543d3f3) |
+| Fri, 29 Aug 2025 16:45:49 GMT | Why Learning Prompt Engineering Could Be Your Shortcut to a $100K Freelance Career | ForeCast | [Read More](https://medium.com/p/881dc12b413f) |
+| Fri, 29 Aug 2025 16:44:46 GMT | My First Brute Force Script — Unlocking My Own Phone | C0mr4de | [Read More](https://medium.com/p/0e8c70000965) |
+| Fri, 29 Aug 2025 16:41:56 GMT | Unmasking the Gay Femboy: Inside a Crafty Mirai Variant Fooling the Experts | ViraSecurity | [Read More](https://medium.com/p/2de294887c2f) |
 | Fri, 29 Aug 2025 16:30:06 GMT | Security Misconfiguration (OWASP Top 10 #5) — Simplified | Chai | [Read More](https://medium.com/p/e6f02e084505) |
 | Fri, 29 Aug 2025 16:28:42 GMT | Adversary In The Middle Attacks Bypassing MFA and EDR -A Growing Cybersecurity Concern | Chetan Seripally | [Read More](https://medium.com/p/aaa4a0c9ff48) |
 | Fri, 29 Aug 2025 16:27:18 GMT | ️ 10 Node.js Security Best Practices You Shouldn’t Ignore in 2025 | Sachin Kasana | [Read More](https://medium.com/p/a066ea08caf6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 13:00:35 GMT | Online Safety & Cyber Laws in India: What Every Internet User Must Know | Laams Tax Consultancy | [Read More](https://medium.com/p/10d62160beba) |
 | Fri, 29 Aug 2025 12:56:44 GMT | Avoiding Hidden Poisons in Facility Management | EXLITY | [Read More](https://medium.com/p/11fcee9c11f7) |
 | Fri, 29 Aug 2025 12:55:17 GMT | Understanding and Mitigating Web Injection Vulnerabilities: A Source Code Perspective | everythingBlackkk | [Read More](https://medium.com/p/702df1bcaaab) |
-| Fri, 29 Aug 2025 12:50:57 GMT | To AI or not to AI | Gary Angel | [Read More](https://medium.com/p/d39d245c14d3) |
-| Fri, 29 Aug 2025 12:50:26 GMT | Shallow Copy vs Deep Copy in Java — A Complete Guide | Techie Arbaaz | [Read More](https://medium.com/p/e30beef25c77) |
-| Fri, 29 Aug 2025 12:49:18 GMT | What is Carding? Understanding the Dark Side of Cybercrime | SeharInsights | [Read More](https://medium.com/p/7d388b7074fc) |
-| Fri, 29 Aug 2025 12:48:39 GMT | India’s Leading Agentic AI Company | Ashutosh Mallik | [Read More](https://medium.com/p/3f53f2b2dbf6) |
-| Fri, 29 Aug 2025 12:31:38 GMT | The Things I Never Forgave You For | Delulu & Divine | [Read More](https://medium.com/p/4544bc78a1ee) |
-| Fri, 29 Aug 2025 12:31:38 GMT | 2025’s Top Automated Reconciliation Systems for Seamless Financial Close | Kosh AI | [Read More](https://medium.com/p/fa341b112e0e) |
-| Fri, 29 Aug 2025 12:31:38 GMT | Bjoern’s Favorite Pet” — Broken Authentication in OWASP Juice Shop (Day 3) | Hacked By Himel | [Read More](https://medium.com/p/532b754f0b32) |
-| Fri, 29 Aug 2025 12:27:35 GMT | Ban Hammer Drops (For Real): U.S. Finalizes Rules Blocking PRC/Russian Connected-Car Tech | Brian Iselin | [Read More](https://medium.com/p/cdbca65c2b1a) |
-| Fri, 29 Aug 2025 12:26:01 GMT | How to Install Ubuntu Server | Kickcodeandlift | [Read More](https://medium.com/p/8af8538ea90f) |
-| Fri, 29 Aug 2025 12:24:25 GMT | Reflections from the Field: Why Web Storage Is a Goldmine on Our Penetration Tests | Mark Puckett | [Read More](https://medium.com/p/75435c008f86) |
-| Fri, 29 Aug 2025 12:21:06 GMT | AI Security Operations & Threat Management Services: Key Features You Should Know | sanya | [Read More](https://medium.com/p/bd145fd583c4) |
