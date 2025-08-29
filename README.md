@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 16:30:06 GMT | Security Misconfiguration (OWASP Top 10 #5) — Simplified | Chai | [Read More](https://medium.com/p/e6f02e084505) |
+| Fri, 29 Aug 2025 16:28:42 GMT | Adversary In The Middle Attacks Bypassing MFA and EDR -A Growing Cybersecurity Concern | Chetan Seripally | [Read More](https://medium.com/p/aaa4a0c9ff48) |
+| Fri, 29 Aug 2025 16:27:18 GMT | ️ 10 Node.js Security Best Practices You Shouldn’t Ignore in 2025 | Sachin Kasana | [Read More](https://medium.com/p/a066ea08caf6) |
 | Fri, 29 Aug 2025 16:16:12 GMT | Building a Vector-Based Prompt Injection Protection System: The Prompt_Protection Approach | Shashank N | [Read More](https://medium.com/p/d5a877d103f6) |
+| Fri, 29 Aug 2025 16:15:44 GMT | Why Do We Need Memory-Safe Languages?: Tales of 3 Languages (C, Python, Rust) | Sae-Hwan Park | [Read More](https://medium.com/p/e3261066f10f) |
 | Fri, 29 Aug 2025 16:13:46 GMT | Top Benefits of IT Outsourcing from India for Startups and Enterprises | MilanH | [Read More](https://medium.com/p/8b08b1d469f3) |
 | Fri, 29 Aug 2025 16:12:30 GMT | Your VPN Is Selling Your Data to the Highest Bidder | Sohail Saifi | [Read More](https://medium.com/p/c905a060e854) |
 | Fri, 29 Aug 2025 16:11:49 GMT | Stop Using Nested IFs in SQL — Do This Instead | Aman Sharma | [Read More](https://medium.com/p/84b6ea6c49c4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 12:26:01 GMT | How to Install Ubuntu Server | Kickcodeandlift | [Read More](https://medium.com/p/8af8538ea90f) |
 | Fri, 29 Aug 2025 12:24:25 GMT | Reflections from the Field: Why Web Storage Is a Goldmine on Our Penetration Tests | Mark Puckett | [Read More](https://medium.com/p/75435c008f86) |
 | Fri, 29 Aug 2025 12:21:06 GMT | AI Security Operations & Threat Management Services: Key Features You Should Know | sanya | [Read More](https://medium.com/p/bd145fd583c4) |
-| Fri, 29 Aug 2025 12:15:36 GMT | How Hackers Drained Billions from Web3 in the Last 6 Months | Keir Finlow-Bates | [Read More](https://medium.com/p/b13ed87616c0) |
-| Fri, 29 Aug 2025 12:14:28 GMT | BTLO Shiba Insiders Walkthrough | Hitesh Sharma | [Read More](https://medium.com/p/1347a64b2c8a) |
-| Fri, 29 Aug 2025 12:11:26 GMT | Cracking Gandalf Level 3: Disguising the Secret | W1nter | [Read More](https://medium.com/p/aaac5cbda044) |
-| Fri, 29 Aug 2025 12:09:50 GMT | A Deep Dive into Ethical Hacking and Penetration Testing: Benefits, Differences, and Best Practices | Qualysec | [Read More](https://medium.com/p/b4f85b934b16) |
