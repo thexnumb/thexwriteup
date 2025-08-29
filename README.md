@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 20:37:51 GMT | Hacking APIs: Exploiting Misconfigured CORS Step by Step | Israel Aráoz Severiche | [Read More](https://medium.com/p/182ca15bfd72) |
+| Fri, 29 Aug 2025 20:21:44 GMT | Think your small business is too tiny for hackers to notice? | Breeze End Technology | [Read More](https://medium.com/p/fc038195ca08) |
+| Fri, 29 Aug 2025 20:20:18 GMT | CTI Diaries #7: Dissemination and Actionability | Deniz Topaloglu | [Read More](https://medium.com/p/1212bddd081c) |
+| Fri, 29 Aug 2025 20:15:02 GMT | How SSH Really Works: From ssh user@host to dropping in a Shell step-by-step | Jimmex04 | [Read More](https://medium.com/p/89c961902b14) |
 | Fri, 29 Aug 2025 20:02:28 GMT | Sneak Peek: Top 5 VPNs to Lock Down 2025 | TechMate | [Read More](https://medium.com/p/059d5e34682c) |
 | Fri, 29 Aug 2025 19:59:39 GMT | Learning to Walk Again: The Beauty of Vulnerability | Farida E.U | [Read More](https://medium.com/p/cafc31725abc) |
+| Fri, 29 Aug 2025 19:56:56 GMT | ISO/IEC 27018:2025 : Nouvelle version pour les processeurs infonuagiques | Patrick Boucher | [Read More](https://medium.com/p/0ead3ad7f769) |
 | Fri, 29 Aug 2025 19:50:09 GMT | The Day I Almost Became Someone Else’s Face | PJ Sheini | [Read More](https://medium.com/p/91edd8409d6e) |
 | Fri, 29 Aug 2025 19:47:16 GMT | The Invisible Enemy: Why Organizations Over-Defend Against External Threats While Underestimating… | Prashanth Chandika | [Read More](https://medium.com/p/37a3eb7f496e) |
 | Fri, 29 Aug 2025 19:46:07 GMT | Rust Security Bugs Explained with Simple Metaphors | AIAlchemist_Ab1r | [Read More](https://medium.com/p/8248c9ec0576) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 14:48:42 GMT | Legal Studies to Cybersecurity? The Secret Nobody Shares | Authlyn | [Read More](https://medium.com/p/2e192eadfaaf) |
 | Fri, 29 Aug 2025 14:45:58 GMT | AI Systems for Detecting Cyber Attacks | Igino Corona, Eng PhD | [Read More](https://medium.com/p/e441e96600cf) |
 | Fri, 29 Aug 2025 14:45:38 GMT | COD4MW Cheat: A Reverse Engineering Adventure | Faraday Team | [Read More](https://medium.com/p/e0bdb8c54f90) |
-| Fri, 29 Aug 2025 14:43:54 GMT | What Was Not Asked in the Kericho Governor Impeachment — And Why It Matters for Digital Democracy | Charles Mwaniki | [Read More](https://medium.com/p/dcff3030d0dc) |
-| Fri, 29 Aug 2025 14:43:30 GMT | Don’t Let a Generic WISP Become Your Firm’s Weakest Link | Deepanshu Gahlaut | [Read More](https://medium.com/p/07e6b42fff5e) |
-| Fri, 29 Aug 2025 14:41:50 GMT | Beyond PCI and HIPAA: How Feroot Powers Digital Operational Resilience Act (DORA) Compliance | Feroot Security | [Read More](https://medium.com/p/371be52b8a40) |
-| Fri, 29 Aug 2025 14:41:45 GMT | Threat Intelligence Platforms for Mid‑Size Companies: A Strategic Guide to Strengthening Cyber… | Paul Meyer | [Read More](https://medium.com/p/94ed815e9bb9) |
-| Fri, 29 Aug 2025 14:40:25 GMT | AI System Uncovers Critical Vulnerability in Google Chrome | RealSec.io | [Read More](https://medium.com/p/7d257b118762) |
