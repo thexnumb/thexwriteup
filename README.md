@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 08:41:53 GMT | My Month in Cyber Security: 5 Tools I Built During My Internship at Prodigy InfoTech | Darshan Pokar | [Read More](https://medium.com/p/fc5de0f0dfc1) |
+| Fri, 29 Aug 2025 08:27:34 GMT | Apple’s Cheap Shots: From White Paper Whines to Fast-Follow Fumbles | Namir Sagheenanajar | [Read More](https://medium.com/p/9ce01d5fe4b7) |
 | Fri, 29 Aug 2025 08:18:47 GMT | Bcrypt, HMAC-SHA256, and OTP Security: How It All Fits Together | Rakshit Maheshwari | [Read More](https://medium.com/p/d77065fae2fe) |
 | Fri, 29 Aug 2025 08:13:02 GMT | What Are Some Finest Home Gadgets 2025? | Arjun Agarwal | [Read More](https://medium.com/p/c308c36ce1e4) |
 | Fri, 29 Aug 2025 08:12:06 GMT | Title: Meet StrykerApp: The Open-Source Cybersecurity Tool You Didn’t Know You Needed | Sagar Majumdar | [Read More](https://medium.com/p/fd8d5dfd6185) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 01:32:51 GMT | Cybersecurity and AI Outlook: A Career Changer’s Take | Cyber I AM | [Read More](https://medium.com/p/2a6dc731a8e1) |
 | Fri, 29 Aug 2025 01:26:43 GMT | File upload vulnerabilities - Web shell upload via path traversal - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4d5e7a7da7be) |
 | Fri, 29 Aug 2025 01:23:32 GMT | Owasp top 10 -2021 in short | The Commoness | [Read More](https://medium.com/p/5c66490dfd22) |
-| Fri, 29 Aug 2025 01:18:46 GMT | TryHackMe El Bandito (Hard) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/8bb7b6ef3c24) |
-| Fri, 29 Aug 2025 00:59:58 GMT | Threat Post: Salt Typhoon — The Quiet Storm in Network Infrastructure | Rahaliashraf | [Read More](https://medium.com/p/85564948490a) |
