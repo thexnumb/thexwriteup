@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 23:27:43 GMT | Generative Security: Continuously Evolving Attack and Defense Tactics | Lanhui chen | [Read More](https://medium.com/p/f47f68ea730a) |
+| Fri, 29 Aug 2025 23:22:33 GMT | Binding Operational Directive (BOD) Nedir? | Tarik Zeybek | [Read More](https://medium.com/p/12f682911148) |
 | Fri, 29 Aug 2025 23:10:10 GMT | From Payloads to Pwnage A Pentester’s Walkthrough of a Real-World Red Team Exam | pohackontas | [Read More](https://medium.com/p/2f933cf62334) |
 | Fri, 29 Aug 2025 22:55:43 GMT | Inside the Modern “Wiring Scam”: How Criminals Move Money — and How to Stop Them | Internet Exposed | [Read More](https://medium.com/p/007c15096094) |
 | Fri, 29 Aug 2025 22:25:41 GMT | Analysis of a Multi-Stage Windows Defender Bypass: Project Blackfin | Theo Mirzakhanian | [Read More](https://medium.com/p/e9b013c449bd) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 16:07:58 GMT | How I Found Critical Vulnerabilities in My Company’s Camera System (First Walkthrough) | João Teodoro | [Read More](https://medium.com/p/01d602cc9d8d) |
 | Fri, 29 Aug 2025 16:06:16 GMT | CVE-2018–25115: D-Link Routers RCE — Your Router’s Wide Open! | CVEHUB | [Read More](https://medium.com/p/99967c835729) |
 | Fri, 29 Aug 2025 16:04:52 GMT | ScamScan: Using AI to Outsmart Fraudulent Websites | Gumpu UshaSri | [Read More](https://medium.com/p/c66a966318d6) |
-| Fri, 29 Aug 2025 16:04:51 GMT | How CCTV Monitoring Works Best with On-Site Security | Nimra Sheikh | [Read More](https://medium.com/p/48d8cdca967e) |
-| Fri, 29 Aug 2025 16:03:55 GMT | Cybercrime Account Freeze: What It Means and How to Unfreeze It Legally | Karryjohn | [Read More](https://medium.com/p/12dd24d4d0ed) |
