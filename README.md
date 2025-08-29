@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 07:01:18 GMT | Why Security Leaders Can’t Ignore Risk-Based Vulnerability Management in 2025. | Cytrusst | [Read More](https://medium.com/p/1d2fff6ccdec) |
+| Fri, 29 Aug 2025 07:00:17 GMT | Grande Prairie Security Guard Services — World Guardian Security | Support | [Read More](https://medium.com/p/c8a466aa91aa) |
+| Fri, 29 Aug 2025 06:58:07 GMT | SafeLine WAF + GitHub Ban-Hacker-IP-Plan | Quella | [Read More](https://medium.com/p/a1e33be40dc0) |
+| Fri, 29 Aug 2025 06:55:43 GMT | Master’s in Cybersecurity in Ireland: A Complete Guide for Indian Students | Shreetu Mohanty | [Read More](https://medium.com/p/359ea4e78a56) |
+| Fri, 29 Aug 2025 06:52:54 GMT | Top 10 hacking Books to Learn Ethical Hacking | Manisha Chaudhary | [Read More](https://medium.com/p/87a225be7520) |
+| Fri, 29 Aug 2025 06:50:26 GMT | TOP 10 Security Firmen in Köln — Dein ultimativer Guide für Events, Objektschutz & mehr! | eventim | [Read More](https://medium.com/p/f6d005a8fc8a) |
+| Fri, 29 Aug 2025 06:48:53 GMT | best ethical hacking course in calicut | Muhammedafnan | [Read More](https://medium.com/p/83025c92bb28) |
+| Fri, 29 Aug 2025 06:48:35 GMT | Unsafe Request Handling in Account Deletion Flow Got me 91 $ | Lakshya | [Read More](https://medium.com/p/7cb365d375d0) |
+| Fri, 29 Aug 2025 06:47:35 GMT | Bug Bounty Enumeración de JavaScript: cómo encontrar endpoints y secretos escondidos | Gorka | [Read More](https://medium.com/p/47cb9f5affde) |
+| Fri, 29 Aug 2025 06:45:42 GMT | DarkGate II: The Wrath of JAR | grepStrength | [Read More](https://medium.com/p/45b98b28897b) |
+| Fri, 29 Aug 2025 06:45:27 GMT | Web Design Liverpool: Affordable, Professional and Purpose-Driven | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/2a36a47c177c) |
+| Fri, 29 Aug 2025 06:45:12 GMT | ETHICAL HACKING TRAINING IN KERALA | Athun | [Read More](https://medium.com/p/fa764790220d) |
+| Fri, 29 Aug 2025 06:35:31 GMT | Leaked? Or Just Weak? BruteForceAI Shows Why Password Policies Keep Failing | cybrNK | [Read More](https://medium.com/p/89fadb37e882) |
+| Fri, 29 Aug 2025 06:27:33 GMT | PromptLock: The AI Ransomware That Rewrites Itself Every Attack | GenZProtector | [Read More](https://medium.com/p/7f529ef674be) |
+| Fri, 29 Aug 2025 06:25:19 GMT | The Corix Partners Friday Reading List — August 29, 2025 | JC Gaillard | [Read More](https://medium.com/p/b086933137f9) |
 | Fri, 29 Aug 2025 06:23:10 GMT | Essential Linux Hacking Tricks Everyone Should Know | Frost | [Read More](https://medium.com/p/7ee9dc4dbe4c) |
 | Fri, 29 Aug 2025 06:17:24 GMT | Day 12: Linux User Administration → Managing Users & Groups | Prutha_Dongre | [Read More](https://medium.com/p/1f7aa98caf5f) |
 | Fri, 29 Aug 2025 06:16:59 GMT | CAB CHRONICLES 84: THE CORNER | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/58541151be5b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 21:47:31 GMT | Authentication vulnerabilities - 2FA Broken Logic - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/9650c34ec278) |
 | Thu, 28 Aug 2025 21:42:34 GMT | Why Digital Minimalism is Good for Security | Paschal Ogana | [Read More](https://medium.com/p/8124a6597c8d) |
 | Thu, 28 Aug 2025 21:37:48 GMT | Ethical Hacking Essentials — EHE (EC Council) | Franklin Rhodes | [Read More](https://medium.com/p/8e51f1b088d3) |
-| Thu, 28 Aug 2025 21:28:36 GMT | Maximizing Returns: BUG $BUG Growth Strategy in 2025 | BUG | [Read More](https://medium.com/p/2dc9fde11bec) |
-| Thu, 28 Aug 2025 21:18:09 GMT | Injection (OWASP Top 10 #3) — Simplified | Chai | [Read More](https://medium.com/p/42bf04981a1a) |
-| Thu, 28 Aug 2025 21:17:32 GMT | Advanced Credential Theft Techniques in Active Directory Environments | Esra Kayhan | [Read More](https://medium.com/p/5b42743d0f26) |
-| Thu, 28 Aug 2025 21:02:14 GMT | XSS Stored Bypass cookie http only via all accounts take over | Vuln_Ram | [Read More](https://medium.com/p/ef7134f139d1) |
-| Thu, 28 Aug 2025 20:57:35 GMT | Transparent Proxy Implementation with Linux Netfilter for Traffic Inspection | Esra Kayhan | [Read More](https://medium.com/p/6d3885613a60) |
-| Thu, 28 Aug 2025 20:56:48 GMT | Exploitation Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/ab91f95afcec) |
-| Thu, 28 Aug 2025 20:52:45 GMT | eJPT vs OSCP | Adripbar | [Read More](https://medium.com/p/6c359dccb1ca) |
-| Thu, 28 Aug 2025 20:51:06 GMT | AI Just Became a Snitch | Allison 'AJ' John | [Read More](https://medium.com/p/0863b3893f66) |
-| Thu, 28 Aug 2025 20:49:44 GMT | Cracking the CloudSEK CTF: A 48-Hour Rollercoaster | Santhosh Kumar C | [Read More](https://medium.com/p/e16d8cbc1b95) |
-| Thu, 28 Aug 2025 20:44:19 GMT | Windows Active Directory Ortamında Splunk ile Güvenlik Loglarının İzlenmesi, Saldırı Simülasyonları… | Mustafa Mansur Mamus | [Read More](https://medium.com/p/4e69f76b6361) |
-| Thu, 28 Aug 2025 20:42:24 GMT | Inside My First Real-World Pentest: Mistakes, Wins, and Lessons | Aj | [Read More](https://medium.com/p/ba73e8ecbdaf) |
-| Thu, 28 Aug 2025 20:27:24 GMT | AI isn’t just enhancing productivity-it’s now a double-edged sword. | Inforsecpro | [Read More](https://medium.com/p/75343e7e8196) |
-| Thu, 28 Aug 2025 20:26:08 GMT | Building an HTTP(S) to Tor C2 Redirector with Flask — Part 2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e1952dd57fd7) |
-| Thu, 28 Aug 2025 20:05:27 GMT | Digital Forensics: The Silent Weapon in Modern Criminal Investigations | DIVIJ NAYAK | [Read More](https://medium.com/p/20faed702009) |
-| Thu, 28 Aug 2025 20:04:49 GMT | OSINT Challenge— Writeup | Alwin Thomas | [Read More](https://medium.com/p/0cc8690d6d73) |
