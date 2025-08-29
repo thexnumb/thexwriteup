@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 11:02:53 GMT | DockerLabs Writeup — TheDog (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9e7d8a5ab061) |
+| Fri, 29 Aug 2025 11:02:31 GMT | Haunted Prompts: How Prompt Injection Targets System & User Instructions (with 16 Test Payloads) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b58f6c4e1885) |
+| Fri, 29 Aug 2025 10:58:23 GMT | How Advanced File Delivery with Webpack Optimizes Web App Performance | Idera Dev Tools | [Read More](https://medium.com/p/1b7a62ee6322) |
+| Fri, 29 Aug 2025 10:57:59 GMT | Jacob the Boss- TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/815eb1e562db) |
+| Fri, 29 Aug 2025 10:54:39 GMT | Malware Resurgence, Espionage Campaigns Dominate the Week | Loginsoft | [Read More](https://medium.com/p/2483bbb7cb72) |
+| Fri, 29 Aug 2025 10:49:48 GMT | Penetration testing services | StrongBox IT | [Read More](https://medium.com/p/e2e67a776a77) |
+| Fri, 29 Aug 2025 10:48:29 GMT | TryHackMe: Brains Walkthrough | Furkanctiner | [Read More](https://medium.com/p/c126cfa62c0b) |
+| Fri, 29 Aug 2025 10:47:00 GMT | Part II — Turning Agents Into “Sleeper” Agents: $118,500+ In Bounties via LLM Data Poisoning | Justas_b | [Read More](https://medium.com/p/8b8d04ffcca8) |
+| Fri, 29 Aug 2025 10:46:24 GMT | PENETRATION TEST REPORT FOR KNIFETUNA | Saeed Ahmed | [Read More](https://medium.com/p/68f8aa2ed873) |
+| Fri, 29 Aug 2025 10:45:39 GMT | Cracking Gandalf Level 1: Your First Step into AI Security Testing | W1nter | [Read More](https://medium.com/p/bad002042674) |
+| Fri, 29 Aug 2025 10:38:56 GMT | B.Tech in Computer Science & Engineering (Computer Network & Cyber Security) for Working… | Unbounded Learning | [Read More](https://medium.com/p/9390d0f83775) |
 | Fri, 29 Aug 2025 10:38:02 GMT | Exploiting OTP with IP Rotation on a Flutter App: Bypassing Rate Limits | Hussein A.Taha | [Read More](https://medium.com/p/58f9dffec83c) |
+| Fri, 29 Aug 2025 10:36:49 GMT | When Foresight Becomes Immediate Reality: My Research on the Unitree G1 and the Dana White Incident | Berend Watchus | [Read More](https://medium.com/p/cfe7edb08967) |
 | Fri, 29 Aug 2025 10:32:34 GMT | Cybersecurity Training Arizona — Keep Your Business Secure | DL Info Shield | [Read More](https://medium.com/p/e41011fd40ad) |
 | Fri, 29 Aug 2025 10:31:00 GMT | Path Traversal challenge in Web Security Academy | Varkeythms | [Read More](https://medium.com/p/e5fcacd1e416) |
+| Fri, 29 Aug 2025 10:30:52 GMT | Visitor Lanyards vs. Visitor Stickers: Why It’s Time to Make the Switch — Visitor Management System | Rajesh Patil | [Read More](https://medium.com/p/2521721c22ad) |
 | Fri, 29 Aug 2025 10:30:15 GMT | The Unblinking Eye: How Computer Vision is Building Safer Cities | Kryptonaitoffice | [Read More](https://medium.com/p/d546ff0f2c74) |
 | Fri, 29 Aug 2025 10:29:55 GMT | The Internet Never Forgets: A Hacker’s Guide to Your Digital Shadow | IamPreth | [Read More](https://medium.com/p/de08136eaada) |
 | Fri, 29 Aug 2025 10:28:28 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/f4584bf76ef8) |
@@ -33,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 09:58:28 GMT | Analyzing Security Operations Step by Step | Cyber Security Research | [Read More](https://medium.com/p/a92b6086d06a) |
 | Fri, 29 Aug 2025 09:57:10 GMT | Analyzing Security Automation in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/a544a384fe70) |
 | Fri, 29 Aug 2025 09:55:44 GMT | Analyzing Security Automation in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/b2341f87c445) |
+| Fri, 29 Aug 2025 09:54:24 GMT | Memahami Deauthentication Attack: Ancaman Tersembunyi dalam Jaringan WiFi | M FIRDAUS RIAWAN | [Read More](https://medium.com/p/9faf1da23ba1) |
 | Fri, 29 Aug 2025 09:53:13 GMT | Discover the Best DevOps Institute in Bangalore Right Now? | Mohammed Numan | [Read More](https://medium.com/p/46bd6b10b87e) |
 | Fri, 29 Aug 2025 09:52:40 GMT | The Leaky Bucket Bug | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/aa725b031cc5) |
 | Fri, 29 Aug 2025 09:51:34 GMT | Cloud Breaches Will Happen: How AWS DevOps Teams Automate Detection & Response | Ismail Kovvuru | [Read More](https://medium.com/p/48e4023e2adf) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 06:15:32 GMT | Top 10 Tech Companies in Dallas | IT Specialist | [Read More](https://medium.com/p/6252cf7dc1a7) |
 | Fri, 29 Aug 2025 06:14:20 GMT | The 5 tools you may need to pass OSCP | DuckWrites | [Read More](https://medium.com/p/83e2e8bba420) |
 | Fri, 29 Aug 2025 06:13:36 GMT | Why Investing in Cyber Security is Critical for Singapore SMEs | Ergo SG | [Read More](https://medium.com/p/4a9f08dcdce5) |
-| Fri, 29 Aug 2025 06:05:02 GMT | İş Yeri Alarm Sensörleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/d74b096151ef) |
-| Fri, 29 Aug 2025 06:02:51 GMT | Lloydminster Security Guard Company — World Guardian Security Services | Support | [Read More](https://medium.com/p/41aeb8bfe46c) |
-| Fri, 29 Aug 2025 06:02:27 GMT | Web Security Essentials Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/a70176408683) |
-| Fri, 29 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/87a84dcbaa11) |
-| Fri, 29 Aug 2025 05:57:33 GMT | Hacking the Hive: A CTF Guide to Windows Registry Forensics | GauthamV | [Read More](https://medium.com/p/47cf2306e91d) |
-| Fri, 29 Aug 2025 05:56:09 GMT | Top 7 Benefits of Managed IT Services Brisbane in 2025 | Elevate | [Read More](https://medium.com/p/71f24309396f) |
-| Fri, 29 Aug 2025 05:55:36 GMT | ️ Screen Shield AI: My Attempt to Outsmart My Own Laziness | Ananthapadmanabhan.V | [Read More](https://medium.com/p/17c41b0c5bb5) |
-| Fri, 29 Aug 2025 05:40:47 GMT | Was This Really the Worst PayPal Hack Ever? | Sagar Majumdar | [Read More](https://medium.com/p/49ff7ac40c11) |
-| Fri, 29 Aug 2025 05:40:43 GMT | To Each Their Own in Hacking: Choosing Your Path in Cybersecurity | Mr Horbio | [Read More](https://medium.com/p/50f9a6b0b27c) |
-| Fri, 29 Aug 2025 05:33:01 GMT | The most Powerful Currency We Have Is Our Truth | Simi Amos | [Read More](https://medium.com/p/202e7f9e4f4b) |
-| Fri, 29 Aug 2025 05:27:23 GMT | “Proactive Threat Hunting: Staying Ahead of Cyber Threats in 2025" | Syed Sulthan | [Read More](https://medium.com/p/2044db42ab33) |
-| Fri, 29 Aug 2025 05:25:51 GMT | Blogging: Technical Blogging on Cybersecurity and Threat Hunting | Saibin k siju | [Read More](https://medium.com/p/d40bc21222c0) |
-| Fri, 29 Aug 2025 05:24:14 GMT | DHCP Snooping: The Unsung Hero of Network Security | Abida Adra | [Read More](https://medium.com/p/74fe07048023) |
-| Fri, 29 Aug 2025 05:19:45 GMT | DC-3 Walkthrough: From Joomla Enumeration to Root Access | Abhinsubej | [Read More](https://medium.com/p/41154b06ceaf) |
