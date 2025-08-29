@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 11:30:48 GMT | Are Smart Home Devices Spying on You? Alexa the secret agent ? | Tarush Sharma | [Read More](https://medium.com/p/4a351ec46217) |
+| Fri, 29 Aug 2025 11:28:18 GMT | What are the 5 Stages of Digital Cyber Forensics? | cyber security Updates | [Read More](https://medium.com/p/cc3c274261c6) |
+| Fri, 29 Aug 2025 11:27:36 GMT | Salesforce Data Breach: What Happened, How to Prevent It, and GRC Takeaways | Brittney Ginther | [Read More](https://medium.com/p/c8d5182ec49b) |
+| Fri, 29 Aug 2025 11:27:01 GMT | Protecting Your Peace of Mind: A Guide to Security Systems Installation in Calgary | Evolve Electrical - Emergency Electrician Calgary | [Read More](https://medium.com/p/cd7dfacfc27d) |
+| Fri, 29 Aug 2025 11:25:20 GMT | Handling File Upload Processing with BullMQ and Node.js Workers | Somendradev | [Read More](https://medium.com/p/2ef9fca09821) |
+| Fri, 29 Aug 2025 11:23:38 GMT | Tech Mahindra – Senior Tester Interview Questions | Ajit Kumar | [Read More](https://medium.com/p/566a1bad2963) |
+| Fri, 29 Aug 2025 11:23:18 GMT | Infosys – Senior Tester Interview Questions | Ajit Kumar | [Read More](https://medium.com/p/cbc5ed0bde3a) |
+| Fri, 29 Aug 2025 11:23:11 GMT | Threat Intelligence Solutions: Making Your Business Safer from Cyber Threats | Digital Defense | [Read More](https://medium.com/p/632c8faec046) |
+| Fri, 29 Aug 2025 11:20:49 GMT | When Role-Play Goes Rogue: Prompt Injection Bypasses in LLMs | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ca22913e06f0) |
+| Fri, 29 Aug 2025 11:17:48 GMT | Discover how AI cybersecurity is protecting the digital world in 2025. | Deepanshu Mahajan | [Read More](https://medium.com/p/297a2b02eabe) |
+| Fri, 29 Aug 2025 11:13:40 GMT | Top Features of MDM Software Every Business Needs in 2025 | Vantage MDM | [Read More](https://medium.com/p/a31830fb075d) |
+| Fri, 29 Aug 2025 11:09:11 GMT | Building A Custom SSL Certificate Store On the Salesforce Platform | Justus van den Berg | [Read More](https://medium.com/p/5e678c126cc9) |
+| Fri, 29 Aug 2025 11:06:31 GMT | 10 Best Hosting Providers for OpenVPN in 2025 | Jasmeet  Kaur | [Read More](https://medium.com/p/da6d01c0a230) |
 | Fri, 29 Aug 2025 11:02:53 GMT | DockerLabs Writeup — TheDog (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9e7d8a5ab061) |
 | Fri, 29 Aug 2025 11:02:31 GMT | Haunted Prompts: How Prompt Injection Targets System & User Instructions (with 16 Test Payloads) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b58f6c4e1885) |
 | Fri, 29 Aug 2025 10:58:23 GMT | How Advanced File Delivery with Webpack Optimizes Web App Performance | Idera Dev Tools | [Read More](https://medium.com/p/1b7a62ee6322) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 06:50:26 GMT | TOP 10 Security Firmen in Köln — Dein ultimativer Guide für Events, Objektschutz & mehr! | eventim | [Read More](https://medium.com/p/f6d005a8fc8a) |
 | Fri, 29 Aug 2025 06:48:53 GMT | best ethical hacking course in calicut | Muhammedafnan | [Read More](https://medium.com/p/83025c92bb28) |
 | Fri, 29 Aug 2025 06:48:35 GMT | Unsafe Request Handling in Account Deletion Flow Got me 91 $ | Lakshya | [Read More](https://medium.com/p/7cb365d375d0) |
-| Fri, 29 Aug 2025 06:47:35 GMT | Bug Bounty Enumeración de JavaScript: cómo encontrar endpoints y secretos escondidos | Gorka | [Read More](https://medium.com/p/47cb9f5affde) |
-| Fri, 29 Aug 2025 06:45:42 GMT | DarkGate II: The Wrath of JAR | grepStrength | [Read More](https://medium.com/p/45b98b28897b) |
-| Fri, 29 Aug 2025 06:45:27 GMT | Web Design Liverpool: Affordable, Professional and Purpose-Driven | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/2a36a47c177c) |
-| Fri, 29 Aug 2025 06:45:12 GMT | ETHICAL HACKING TRAINING IN KERALA | Athun | [Read More](https://medium.com/p/fa764790220d) |
-| Fri, 29 Aug 2025 06:35:31 GMT | Leaked? Or Just Weak? BruteForceAI Shows Why Password Policies Keep Failing | cybrNK | [Read More](https://medium.com/p/89fadb37e882) |
-| Fri, 29 Aug 2025 06:27:33 GMT | PromptLock: The AI Ransomware That Rewrites Itself Every Attack | GenZProtector | [Read More](https://medium.com/p/7f529ef674be) |
-| Fri, 29 Aug 2025 06:25:19 GMT | The Corix Partners Friday Reading List — August 29, 2025 | JC Gaillard | [Read More](https://medium.com/p/b086933137f9) |
-| Fri, 29 Aug 2025 06:23:10 GMT | Essential Linux Hacking Tricks Everyone Should Know | Frost | [Read More](https://medium.com/p/7ee9dc4dbe4c) |
-| Fri, 29 Aug 2025 06:17:24 GMT | Day 12: Linux User Administration → Managing Users & Groups | Prutha_Dongre | [Read More](https://medium.com/p/1f7aa98caf5f) |
-| Fri, 29 Aug 2025 06:16:59 GMT | CAB CHRONICLES 84: THE CORNER | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/58541151be5b) |
-| Fri, 29 Aug 2025 06:15:32 GMT | Top 10 Tech Companies in Dallas | IT Specialist | [Read More](https://medium.com/p/6252cf7dc1a7) |
-| Fri, 29 Aug 2025 06:14:20 GMT | The 5 tools you may need to pass OSCP | DuckWrites | [Read More](https://medium.com/p/83e2e8bba420) |
-| Fri, 29 Aug 2025 06:13:36 GMT | Why Investing in Cyber Security is Critical for Singapore SMEs | Ergo SG | [Read More](https://medium.com/p/4a9f08dcdce5) |
