@@ -12,8 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 13:27:00 GMT | Google Pours an Additional $9 Billion Into Virginia Data Centers | Motherlandlove | [Read More](https://medium.com/p/3dbd42dc99cb) |
+| Fri, 29 Aug 2025 13:26:35 GMT | The Evolution of Malware Evasion Techniques | Cybersecurity Umbrella | [Read More](https://medium.com/p/de644e9a3ae8) |
+| Fri, 29 Aug 2025 13:25:08 GMT | Exploring Computer Courses in Lahore and the Role of Technical Institutes | Lite Pakistan | [Read More](https://medium.com/p/4ad0df3ae233) |
+| Fri, 29 Aug 2025 13:22:52 GMT | Need to know what website can be used to get work done? | PARVIN NAHAR | [Read More](https://medium.com/p/07febfc950d9) |
+| Fri, 29 Aug 2025 13:21:02 GMT | Are You Confused Between Java, C, AI, Cybersecurity? | Code With tomy | [Read More](https://medium.com/p/7734a53e1c40) |
+| Fri, 29 Aug 2025 13:17:59 GMT | The NPM nightmare: how hackers hijacked AI to steal secrets | STR4T0TT0 | [Read More](https://medium.com/p/9335fec4d2f3) |
+| Fri, 29 Aug 2025 13:17:08 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/f85e5809eb7f) |
+| Fri, 29 Aug 2025 13:14:34 GMT | Protecting the Future with Cyber Security at Boston Institute! | Dipanshu | [Read More](https://medium.com/p/268b711d580d) |
+| Fri, 29 Aug 2025 13:13:45 GMT | 5 More cURL Commands to Bypass WAFs | Ibtissam hammadi | [Read More](https://medium.com/p/ddb434d30c60) |
+| Fri, 29 Aug 2025 13:10:54 GMT | Cybersecurity Basics: How Web Applications Work . | Sam | [Read More](https://medium.com/p/248f3d3ade37) |
+| Fri, 29 Aug 2025 13:05:55 GMT | The Day I Finally Spoke About It | Rimsha Maqsood | [Read More](https://medium.com/p/766a3125014e) |
+| Fri, 29 Aug 2025 13:03:39 GMT | How Many SaaS Tools Do You Use? And How Many Do You Control? | Evgeny Ermakov | [Read More](https://medium.com/p/d60a622e576f) |
+| Fri, 29 Aug 2025 13:01:39 GMT | RC car Hacked | Kshirsagar Hrushikesh | [Read More](https://medium.com/p/f83226fcb3ad) |
+| Fri, 29 Aug 2025 13:01:29 GMT | Sweden Hit by Massive Ransomware Attack: A Wake-Up Call for Everyone | CyberSamm | [Read More](https://medium.com/p/586dcfe36574) |
+| Fri, 29 Aug 2025 13:00:35 GMT | Online Safety & Cyber Laws in India: What Every Internet User Must Know | Laams Tax Consultancy | [Read More](https://medium.com/p/10d62160beba) |
+| Fri, 29 Aug 2025 12:56:44 GMT | Avoiding Hidden Poisons in Facility Management | EXLITY | [Read More](https://medium.com/p/11fcee9c11f7) |
+| Fri, 29 Aug 2025 12:55:17 GMT | Understanding and Mitigating Web Injection Vulnerabilities: A Source Code Perspective | everythingBlackkk | [Read More](https://medium.com/p/702df1bcaaab) |
+| Fri, 29 Aug 2025 12:50:57 GMT | To AI or not to AI | Gary Angel | [Read More](https://medium.com/p/d39d245c14d3) |
+| Fri, 29 Aug 2025 12:50:26 GMT | Shallow Copy vs Deep Copy in Java — A Complete Guide | Techie Arbaaz | [Read More](https://medium.com/p/e30beef25c77) |
+| Fri, 29 Aug 2025 12:49:18 GMT | What is Carding? Understanding the Dark Side of Cybercrime | SeharInsights | [Read More](https://medium.com/p/7d388b7074fc) |
+| Fri, 29 Aug 2025 12:48:39 GMT | India’s Leading Agentic AI Company | Ashutosh Mallik | [Read More](https://medium.com/p/3f53f2b2dbf6) |
 | Fri, 29 Aug 2025 12:31:38 GMT | The Things I Never Forgave You For | Delulu & Divine | [Read More](https://medium.com/p/4544bc78a1ee) |
 | Fri, 29 Aug 2025 12:31:38 GMT | 2025’s Top Automated Reconciliation Systems for Seamless Financial Close | Kosh AI | [Read More](https://medium.com/p/fa341b112e0e) |
+| Fri, 29 Aug 2025 12:31:38 GMT | Bjoern’s Favorite Pet” — Broken Authentication in OWASP Juice Shop (Day 3) | Hacked By Himel | [Read More](https://medium.com/p/532b754f0b32) |
 | Fri, 29 Aug 2025 12:27:35 GMT | Ban Hammer Drops (For Real): U.S. Finalizes Rules Blocking PRC/Russian Connected-Car Tech | Brian Iselin | [Read More](https://medium.com/p/cdbca65c2b1a) |
 | Fri, 29 Aug 2025 12:26:01 GMT | How to Install Ubuntu Server | Kickcodeandlift | [Read More](https://medium.com/p/8af8538ea90f) |
 | Fri, 29 Aug 2025 12:24:25 GMT | Reflections from the Field: Why Web Storage Is a Goldmine on Our Penetration Tests | Mark Puckett | [Read More](https://medium.com/p/75435c008f86) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 09:24:27 GMT | Essential Rails Security: Protecting Your Application from Top Pitfalls | Anamika | [Read More](https://medium.com/p/3b129a1cf700) |
 | Fri, 29 Aug 2025 09:23:21 GMT | Threat modeling tools for security architects | Kartik Debnath | [Read More](https://medium.com/p/ef8d84c91e02) |
 | Fri, 29 Aug 2025 09:20:48 GMT | The Cartel Who beat Anonymous | V1rtu3 _h05t | [Read More](https://medium.com/p/860e4b5084ec) |
-| Fri, 29 Aug 2025 09:19:54 GMT | Reflected XSS with some SVG markup allowed | Chirag Vyas | [Read More](https://medium.com/p/479e8e13b651) |
-| Fri, 29 Aug 2025 09:14:43 GMT | PHASES OF HACKING (ETHICAL) PART (I) | Arch Mugi | [Read More](https://medium.com/p/9473ffe66bef) |
-| Fri, 29 Aug 2025 09:13:34 GMT | SSL Pinning Bypass: Network Security Config | Oguzhan Oztaskin | [Read More](https://medium.com/p/268fc250fbdd) |
-| Fri, 29 Aug 2025 09:05:30 GMT | What Happens in Your Cloud Doesn’t Stay in Your Cloud: A Not-So-Serious Guide to NIST SP 800–228 | ZENcurity | [Read More](https://medium.com/p/4a8d1b526998) |
-| Fri, 29 Aug 2025 09:02:27 GMT | AI Cybersecurity: Protecting the Digital World in 2025 | Deepanshu Mahajan | [Read More](https://medium.com/p/ad1fa5b01568) |
-| Fri, 29 Aug 2025 08:58:03 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/79027b8e4223) |
-| Fri, 29 Aug 2025 08:52:48 GMT | HackingBuddyGPT — A Must-Check Tool for Web API Testing ⚡ | Shreyas Mahajan | [Read More](https://medium.com/p/abcf96acb9d7) |
-| Fri, 29 Aug 2025 08:51:59 GMT | Audit-Ready: How to Maintain Continuous Compliance Without the Stress | Abdullateef Hameed | [Read More](https://medium.com/p/dce8a96cbc87) |
-| Fri, 29 Aug 2025 08:41:53 GMT | My Month in Cyber Security: 5 Tools I Built During My Internship at Prodigy InfoTech | Darshan Pokar | [Read More](https://medium.com/p/fc5de0f0dfc1) |
-| Fri, 29 Aug 2025 08:41:38 GMT | About me | Rue | [Read More](https://medium.com/p/e98ec4005560) |
-| Fri, 29 Aug 2025 08:27:34 GMT | Apple’s Cheap Shots: From White Paper Whines to Fast-Follow Fumbles | Namir Sagheenanajar | [Read More](https://medium.com/p/9ce01d5fe4b7) |
-| Fri, 29 Aug 2025 08:18:47 GMT | Bcrypt, HMAC-SHA256, and OTP Security: How It All Fits Together | Rakshit Maheshwari | [Read More](https://medium.com/p/d77065fae2fe) |
-| Fri, 29 Aug 2025 08:13:02 GMT | What Are Some Finest Home Gadgets 2025? | Arjun Agarwal | [Read More](https://medium.com/p/c308c36ce1e4) |
-| Fri, 29 Aug 2025 08:12:06 GMT | Title: Meet StrykerApp: The Open-Source Cybersecurity Tool You Didn’t Know You Needed | Sagar Majumdar | [Read More](https://medium.com/p/fd8d5dfd6185) |
-| Fri, 29 Aug 2025 08:09:04 GMT | How to Write an Effective Cookie Policy for Small Businesses | Sarah Brown | [Read More](https://medium.com/p/7d795dd8110b) |
-| Fri, 29 Aug 2025 08:05:55 GMT | Understanding the Trio: CVE, CVSS, and OpenVAS. | Bilal ÇULHA | [Read More](https://medium.com/p/0c3f53dff531) |
-| Fri, 29 Aug 2025 08:02:39 GMT | The Hidden Costs of Ignoring SOC Compliance (And How to Avoid Them) | SecureSlate | [Read More](https://medium.com/p/a05a92ed7237) |
-| Fri, 29 Aug 2025 08:01:56 GMT | 10 Best Cloud Hosting Providers for OpenVPN in 2025 | Radhika Verma | [Read More](https://medium.com/p/db28e9aee0da) |
-| Fri, 29 Aug 2025 08:01:34 GMT | How I Turned One Server Into 10 VMs (And My Electricity Bill Loves Me) | MayhemCode | [Read More](https://medium.com/p/dd2cb9dbbe7d) |
-| Fri, 29 Aug 2025 08:01:19 GMT | Sensitive Data on Google: What They Say vs What Really Happens | Karishma Bano | [Read More](https://medium.com/p/0cbec5ff9c40) |
-| Fri, 29 Aug 2025 07:57:25 GMT | How I Used AI to Learn Cybersecurity - Kali GPT | Shahzaib | [Read More](https://medium.com/p/a732c15ba67b) |
-| Fri, 29 Aug 2025 07:56:05 GMT | Best Crypto Wallets in China 2025 - Hot and Cold Wallet Guide | Garry | [Read More](https://medium.com/p/bcb16a3f9b5b) |
