@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 04:43:21 GMT | 9. The Secret Power of Google Dorking | Abhijeet kumawat | [Read More](https://medium.com/p/736325566220) |
+| Fri, 29 Aug 2025 04:41:36 GMT | The Marketing Secret Nobody’s Talking About. | Simon P | [Read More](https://medium.com/p/43734ad8cc69) |
+| Fri, 29 Aug 2025 04:38:19 GMT | Capturing and Analyzing Memory with Free Tools | CybVulnHunter | [Read More](https://medium.com/p/51aef942302e) |
+| Fri, 29 Aug 2025 04:25:03 GMT | Token Tales: Finding Hidden API Keys in JavaScript and Turning Them Into Gold | Iski | [Read More](https://medium.com/p/e4e93c51e52b) |
+| Fri, 29 Aug 2025 04:20:20 GMT | India Successfully Tests Salvo Launch of “BrahMos” Supersonic Cruise Missile | Everclear | [Read More](https://medium.com/p/fe1c986cd3ff) |
 | Fri, 29 Aug 2025 04:05:57 GMT | Cyberattack Cripples Nevada Government: Important Lessons from Ransomware | Sydeco Indonesia | [Read More](https://medium.com/p/855da9e199b8) |
 | Fri, 29 Aug 2025 03:58:32 GMT | Cariddi: Point It at Domains, Pull Out the Good Stuff | Javier Calderon Jr | [Read More](https://medium.com/p/085b8aa964f3) |
 | Fri, 29 Aug 2025 03:49:32 GMT | Embracing Cybersecurity: Protecting the Digital World, One Step at a Time | Sobhidasss | [Read More](https://medium.com/p/a16569048acf) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 18:02:43 GMT | Casser les idées reçues sur la cybersécurité | Johan Liebert | [Read More](https://medium.com/p/de09334cbcdb) |
 | Thu, 28 Aug 2025 17:52:26 GMT | “When Your Secret Recipe Is Stolen: Inside ExfilCola’s Data Extortion” Solving CTF Game Challenge | Waghaditi | [Read More](https://medium.com/p/7bc05bdcac2e) |
 | Thu, 28 Aug 2025 17:50:52 GMT | [CyberDefenders Write-up] GoldenSpray (Investigate password spray to RDP initial access… | Chicken0248 | [Read More](https://medium.com/p/373f437a17dd) |
-| Thu, 28 Aug 2025 17:49:11 GMT | From Shodan to SQLi: Hacking an Exposed Company Dashboard | Het Patel | [Read More](https://medium.com/p/0b66a37a54ea) |
-| Thu, 28 Aug 2025 17:47:36 GMT | The Ultimate waybackurls Playbook — Turn Digital Archaeology into Bug Bounty Gold | Pratham Shah | [Read More](https://medium.com/p/1b9e95167494) |
-| Thu, 28 Aug 2025 17:47:25 GMT | Generative AI is the New Shadow IT | Tola Bavery | [Read More](https://medium.com/p/23cf276b8f77) |
-| Thu, 28 Aug 2025 17:37:36 GMT | The SMB DevSecOps Playbook: A 12-Month Maturity Journey | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/5b3ba84f3559) |
-| Thu, 28 Aug 2025 17:27:37 GMT | My Internship Experience in Ethical Hacking: Learning to Secure the Digital World | Prajapati shashank | [Read More](https://medium.com/p/f8d8c54843ca) |
