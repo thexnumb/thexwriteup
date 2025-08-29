@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 16:16:12 GMT | Building a Vector-Based Prompt Injection Protection System: The Prompt_Protection Approach | Shashank N | [Read More](https://medium.com/p/d5a877d103f6) |
+| Fri, 29 Aug 2025 16:13:46 GMT | Top Benefits of IT Outsourcing from India for Startups and Enterprises | MilanH | [Read More](https://medium.com/p/8b08b1d469f3) |
+| Fri, 29 Aug 2025 16:12:30 GMT | Your VPN Is Selling Your Data to the Highest Bidder | Sohail Saifi | [Read More](https://medium.com/p/c905a060e854) |
+| Fri, 29 Aug 2025 16:11:49 GMT | Stop Using Nested IFs in SQL — Do This Instead | Aman Sharma | [Read More](https://medium.com/p/84b6ea6c49c4) |
+| Fri, 29 Aug 2025 16:09:28 GMT | Why Professional Security Guards are Still the Strongest Line of Defense | Nimra Sheikh | [Read More](https://medium.com/p/c2c0a22a499f) |
+| Fri, 29 Aug 2025 16:09:20 GMT | CSRF Attack Simulation: When Trust Becomes Your Greatest Enemy | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c6d7a8a6cec2) |
+| Fri, 29 Aug 2025 16:07:58 GMT | How I Found Critical Vulnerabilities in My Company’s Camera System (First Walkthrough) | João Teodoro | [Read More](https://medium.com/p/01d602cc9d8d) |
+| Fri, 29 Aug 2025 16:06:16 GMT | CVE-2018–25115: D-Link Routers RCE — Your Router’s Wide Open! | CVEHUB | [Read More](https://medium.com/p/99967c835729) |
+| Fri, 29 Aug 2025 16:04:52 GMT | ScamScan: Using AI to Outsmart Fraudulent Websites | Gumpu UshaSri | [Read More](https://medium.com/p/c66a966318d6) |
+| Fri, 29 Aug 2025 16:04:51 GMT | How CCTV Monitoring Works Best with On-Site Security | Nimra Sheikh | [Read More](https://medium.com/p/48d8cdca967e) |
+| Fri, 29 Aug 2025 16:03:55 GMT | Cybercrime Account Freeze: What It Means and How to Unfreeze It Legally | Karryjohn | [Read More](https://medium.com/p/12dd24d4d0ed) |
+| Fri, 29 Aug 2025 16:00:59 GMT | Why Mobile Patrols are a Cost-Effective Security Choice | Nimra Sheikh | [Read More](https://medium.com/p/75b68b1616a2) |
+| Fri, 29 Aug 2025 16:00:23 GMT | Why Networking Fundamentals Are the Foundation of a SOC Analyst Career | orioninsist | [Read More](https://medium.com/p/5f66a30bee5a) |
+| Fri, 29 Aug 2025 15:56:59 GMT | Global (De)Censorship Report 2025: Freedom, Protocols & Technologies | Saropa Contacts News | [Read More](https://medium.com/p/286a5a6d6281) |
+| Fri, 29 Aug 2025 15:53:17 GMT | ADIDNS Time Bombs: Poison Today, Relay Tomorrow | Giulio Pierantoni | [Read More](https://medium.com/p/c224934eefa6) |
+| Fri, 29 Aug 2025 15:50:39 GMT | ATT&CK - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/07bbd9a08ef0) |
+| Fri, 29 Aug 2025 15:50:22 GMT | Log Analysis — Privilege Escalation - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/e965dccb74bc) |
+| Fri, 29 Aug 2025 15:50:14 GMT | Security Automation: Personalized RSS Threat Feed Tracker 2.0 — Now with Microsoft Teams | Erin Martin | [Read More](https://medium.com/p/fbb2cc4add4a) |
+| Fri, 29 Aug 2025 15:48:31 GMT | Starting Small, Moving Forward | Muhammad Sameed Asif | [Read More](https://medium.com/p/0568f2a6eee4) |
+| Fri, 29 Aug 2025 15:47:33 GMT | Insecure Design (OWASP Top 10 #4) — Simplified | Chai | [Read More](https://medium.com/p/01d4abb4bd99) |
+| Fri, 29 Aug 2025 15:44:40 GMT | “Day 24: The Polyglot Poison — How I Turned a Resume Upload into a Remote Shell” | Aman Sharma | [Read More](https://medium.com/p/dc998722a328) |
+| Fri, 29 Aug 2025 15:40:29 GMT | Admin Login Token Exposure in Password Reset Functionality | Dgexploit | [Read More](https://medium.com/p/c74e9e587be2) |
 | Fri, 29 Aug 2025 15:37:50 GMT | The AI Skills No One Talks About (But Every Employer Wants in 2025) | ForeCast | [Read More](https://medium.com/p/a4f08ecddcb1) |
 | Fri, 29 Aug 2025 15:36:31 GMT | Crafting Web Application Firewall Using Node.js | Kshitizsharma | [Read More](https://medium.com/p/92eeb5e88f6b) |
 | Fri, 29 Aug 2025 15:34:36 GMT | : | Md Monsur | [Read More](https://medium.com/p/63a6a2f50463) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 12:14:28 GMT | BTLO Shiba Insiders Walkthrough | Hitesh Sharma | [Read More](https://medium.com/p/1347a64b2c8a) |
 | Fri, 29 Aug 2025 12:11:26 GMT | Cracking Gandalf Level 3: Disguising the Secret | W1nter | [Read More](https://medium.com/p/aaac5cbda044) |
 | Fri, 29 Aug 2025 12:09:50 GMT | A Deep Dive into Ethical Hacking and Penetration Testing: Benefits, Differences, and Best Practices | Qualysec | [Read More](https://medium.com/p/b4f85b934b16) |
-| Fri, 29 Aug 2025 12:08:51 GMT | Chaos Engineering: How Leading Tech Giants Build Resilient Systems by Embracing Failure | Tech With Preeti | [Read More](https://medium.com/p/64a513a0f07a) |
-| Fri, 29 Aug 2025 12:06:37 GMT | Cracking Gandalf Level 2: Learning the Art of Confirmation | W1nter | [Read More](https://medium.com/p/628e15683152) |
-| Fri, 29 Aug 2025 12:05:35 GMT | Feds Take Down $6.4M VerifTools Fake ID Marketplace but Operators Quickly Resurface | Chetan Seripally | [Read More](https://medium.com/p/8c3d400b2564) |
-| Fri, 29 Aug 2025 12:04:16 GMT | With Great LLMs Comes Great Vulnerability | Sanatan | [Read More](https://medium.com/p/31dc8e743370) |
-| Fri, 29 Aug 2025 12:02:05 GMT | BTLO Meta Challenge Walkthrough | Hitesh Sharma | [Read More](https://medium.com/p/bae68a25019d) |
-| Fri, 29 Aug 2025 11:56:42 GMT | Top 10 Managed IT Services Providers in the UAE | Andrew jones | [Read More](https://medium.com/p/095d140365bf) |
-| Fri, 29 Aug 2025 11:47:12 GMT | 8 Cybersecurity Lessons from the Mahabharata | Reggie Menacherry | [Read More](https://medium.com/p/0b8664b9ede1) |
-| Fri, 29 Aug 2025 11:46:43 GMT | Scepter — HackTheBox Walkthrough | Karim Qassem (Hush0x01) | [Read More](https://medium.com/p/8880923d879e) |
-| Fri, 29 Aug 2025 11:45:21 GMT | Coming Up This Week (and Beyond) 25 August 2025 | Chris Kubecka de Medina | [Read More](https://medium.com/p/c4bf072d8b96) |
-| Fri, 29 Aug 2025 11:44:30 GMT | Introducing Apollo, Setting a New Record in Voice Deepfake Detection Accuracy | aurigin.ai | [Read More](https://medium.com/p/44b1a50f4dfd) |
-| Fri, 29 Aug 2025 11:39:25 GMT | Reading: Black Hat Python | Vasundhara | [Read More](https://medium.com/p/a83384ded171) |
-| Fri, 29 Aug 2025 11:37:56 GMT | ️ How I Discovered a Bluetooth Pairing Flaw in Android — Reported Under Google’s Android VRP | Amitishacked | [Read More](https://medium.com/p/1b987516c6d6) |
-| Fri, 29 Aug 2025 11:36:01 GMT | “When AI Becomes Your Interpreter: The Dark Art of Python Code Injection” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5213cd97735c) |
-| Fri, 29 Aug 2025 11:30:48 GMT | Are Smart Home Devices Spying on You? Alexa the secret agent ? | Tarush Sharma | [Read More](https://medium.com/p/4a351ec46217) |
-| Fri, 29 Aug 2025 11:28:18 GMT | What are the 5 Stages of Digital Cyber Forensics? | cyber security Updates | [Read More](https://medium.com/p/cc3c274261c6) |
-| Fri, 29 Aug 2025 11:27:36 GMT | Salesforce Data Breach: What Happened, How to Prevent It, and GRC Takeaways | Brittney Ginther | [Read More](https://medium.com/p/c8d5182ec49b) |
-| Fri, 29 Aug 2025 11:27:01 GMT | Protecting Your Peace of Mind: A Guide to Security Systems Installation in Calgary | Evolve Electrical - Emergency Electrician Calgary | [Read More](https://medium.com/p/cd7dfacfc27d) |
-| Fri, 29 Aug 2025 11:25:20 GMT | Handling File Upload Processing with BullMQ and Node.js Workers | Somendradev | [Read More](https://medium.com/p/2ef9fca09821) |
-| Fri, 29 Aug 2025 11:23:38 GMT | Tech Mahindra – Senior Tester Interview Questions | Ajit Kumar | [Read More](https://medium.com/p/566a1bad2963) |
-| Fri, 29 Aug 2025 11:23:18 GMT | Infosys – Senior Tester Interview Questions | Ajit Kumar | [Read More](https://medium.com/p/cbc5ed0bde3a) |
-| Fri, 29 Aug 2025 11:23:11 GMT | Threat Intelligence Solutions: Making Your Business Safer from Cyber Threats | Digital Defense | [Read More](https://medium.com/p/632c8faec046) |
-| Fri, 29 Aug 2025 11:20:49 GMT | When Role-Play Goes Rogue: Prompt Injection Bypasses in LLMs | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ca22913e06f0) |
