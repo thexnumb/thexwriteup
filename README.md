@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 04:05:57 GMT | Cyberattack Cripples Nevada Government: Important Lessons from Ransomware | Sydeco Indonesia | [Read More](https://medium.com/p/855da9e199b8) |
+| Fri, 29 Aug 2025 03:58:32 GMT | Cariddi: Point It at Domains, Pull Out the Good Stuff | Javier Calderon Jr | [Read More](https://medium.com/p/085b8aa964f3) |
+| Fri, 29 Aug 2025 03:49:32 GMT | Embracing Cybersecurity: Protecting the Digital World, One Step at a Time | Sobhidasss | [Read More](https://medium.com/p/a16569048acf) |
 | Fri, 29 Aug 2025 03:31:33 GMT | 安全警报 / Security Alert | Legend Trading | [Read More](https://medium.com/p/d142ce957d0c) |
 | Fri, 29 Aug 2025 03:29:25 GMT | ️ Web Security Essentials: A Beginner’s Guide with TryHackMe | Soham_Jadhav | [Read More](https://medium.com/p/d23ac015c044) |
 | Fri, 29 Aug 2025 03:29:24 GMT | iiNet Cyberattack Exposes Data of 280,000 Customers | SafetyDetectives Research Team | [Read More](https://medium.com/p/ae5548f5ecc3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 Aug 2025 17:47:25 GMT | Generative AI is the New Shadow IT | Tola Bavery | [Read More](https://medium.com/p/23cf276b8f77) |
 | Thu, 28 Aug 2025 17:37:36 GMT | The SMB DevSecOps Playbook: A 12-Month Maturity Journey | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/5b3ba84f3559) |
 | Thu, 28 Aug 2025 17:27:37 GMT | My Internship Experience in Ethical Hacking: Learning to Secure the Digital World | Prajapati shashank | [Read More](https://medium.com/p/f8d8c54843ca) |
-| Thu, 28 Aug 2025 17:22:58 GMT | Mastering Routersploit: Step-by-Step Guide to Hacking Routers and IoT Devices | Very Lazy Tech | [Read More](https://medium.com/p/cab47031afd3) |
-| Thu, 28 Aug 2025 17:21:05 GMT | Cyber Pros Don’t Just Use Nmap or RustScan — Here’s What They Really Use | Rishabh Shrivastava | [Read More](https://medium.com/p/8c27cbd259a0) |
-| Thu, 28 Aug 2025 17:19:39 GMT | Intercepting LDAP With InterceptSuite | Sourav Kalal | [Read More](https://medium.com/p/45d219c14943) |
