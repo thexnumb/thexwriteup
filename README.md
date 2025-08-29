@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 19:03:34 GMT | Snowflake Without Password: How Workload Identity Federation Simplifies Authentication | Umesh Patel | [Read More](https://medium.com/p/ede148faf1fd) |
+| Fri, 29 Aug 2025 19:01:21 GMT | CompTIA Security+ in 2025: Why This Certification Still Builds the Strongest Cybersecurity… | Saurabh Kohli | [Read More](https://medium.com/p/550d5ce17449) |
+| Fri, 29 Aug 2025 18:54:56 GMT | What Happens to Your Passwords Behind the Scenes | Arpit Asati | [Read More](https://medium.com/p/3fb142da7967) |
+| Fri, 29 Aug 2025 18:52:13 GMT | Hunt Evil! With YARA rules… Windows edition | Luke | [Read More](https://medium.com/p/30019bdb757f) |
+| Fri, 29 Aug 2025 18:50:55 GMT | NIST CSF 2.0: Removing Employee PII from the Open Web | mePrism Privacy | [Read More](https://medium.com/p/f65919bf6c2c) |
+| Fri, 29 Aug 2025 18:47:28 GMT | Critical WhatsApp Vulnerability (CVE-2025–55177) Exploited in Sophisticated Apple Device Attacks… | Kanada | [Read More](https://medium.com/p/a831b5176554) |
+| Fri, 29 Aug 2025 18:43:02 GMT | Ethical Hacking for Social Goods-How Hackers Create Real Change | The Daily Technology | [Read More](https://medium.com/p/e2867c3eae74) |
+| Fri, 29 Aug 2025 18:42:32 GMT | Quicksand cooties | vicki lee dillard | [Read More](https://medium.com/p/1ef9b79476ac) |
 | Fri, 29 Aug 2025 18:38:27 GMT | Hacking My Way: Fun, Engaging, and Totally My Style | Viratavi | [Read More](https://medium.com/p/1eb0d1fe888a) |
+| Fri, 29 Aug 2025 18:38:24 GMT | I Cringe at Everything I’ve Ever Written | 4o4 | [Read More](https://medium.com/p/b86bb1bdc8b6) |
 | Fri, 29 Aug 2025 18:31:17 GMT | # Cybersecurity Commands Every Ethical Hacker Should Master. | Shreyansh Chourasia | [Read More](https://medium.com/p/c5a3f210bca3) |
 | Fri, 29 Aug 2025 18:26:59 GMT | Geopolitics and Cybersecurity: When Global Tensions Infiltrate the Enterprise | William Couturier | [Read More](https://medium.com/p/99a6c7a04f3a) |
 | Fri, 29 Aug 2025 18:24:35 GMT | Analyzing Security Operations for Professionals | Cyber Security Research | [Read More](https://medium.com/p/59f2ba6337a6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 14:31:35 GMT | Zero Trust Models: Cybersecurity’s New Gold Standard | Thinking Loop | [Read More](https://medium.com/p/fe39a01a5f55) |
 | Fri, 29 Aug 2025 14:31:34 GMT | Edge Security: Protecting Data Beyond the Cloud | Hash Block | [Read More](https://medium.com/p/366a83429c17) |
 | Fri, 29 Aug 2025 14:31:34 GMT | Forecast Upgraded, Shields Up | Bhagya Rana | [Read More](https://medium.com/p/35957a1760d4) |
-| Fri, 29 Aug 2025 14:25:24 GMT | Cross-Site Scripting (XSS) | Abhayal | [Read More](https://medium.com/p/b6df3388fc82) |
-| Fri, 29 Aug 2025 14:22:08 GMT | Do You Have the Hacker DNA? Take the Ethical Hacker Skills & Traits Test | Kaizen | [Read More](https://medium.com/p/b3e080d09c7a) |
-| Fri, 29 Aug 2025 14:16:58 GMT | Cloudflare WAF vs. SafeLine WAF: Why SafeLine is the Better Choice | Maverick Steel | [Read More](https://medium.com/p/6e3dc74689fe) |
-| Fri, 29 Aug 2025 14:06:02 GMT | How a Simple Open Redirect Can Become a Phishing Vector in Web3 | Efe Esen | [Read More](https://medium.com/p/8dda423ef161) |
-| Fri, 29 Aug 2025 14:01:52 GMT | Cyber Briefing: 2025.08.25 | CyberMaterial | [Read More](https://medium.com/p/53ef1824ec92) |
-| Fri, 29 Aug 2025 14:00:45 GMT | ️ The Hacker That Never Sleeps: How Agentic AI May Revolutionize Cybercrime | S3CloudHub | [Read More](https://medium.com/p/2b560b031c61) |
-| Fri, 29 Aug 2025 13:54:23 GMT | Agentic AI Will Change The Modern Enterprise — How Cybersecurity Teams Can Get Ready | Taimur Ijlal | [Read More](https://medium.com/p/cf5815281b0f) |
-| Fri, 29 Aug 2025 13:48:15 GMT | Nx Supply Chain Attack Exposes AI Workflows and Developer Credentials | The UNFILTERED Draft | [Read More](https://medium.com/p/495c128ea280) |
-| Fri, 29 Aug 2025 13:39:37 GMT | Your Password Manager Won’t Save You — Only Hardware Keys Will | Thread Whisperer | [Read More](https://medium.com/p/c1bb201ed3c6) |
