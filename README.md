@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 18:24:35 GMT | Analyzing Security Operations for Professionals | Cyber Security Research | [Read More](https://medium.com/p/59f2ba6337a6) |
+| Fri, 29 Aug 2025 18:23:06 GMT | Routers: The Silent Gatekeepers of Your Network | Lakshmeesh R | [Read More](https://medium.com/p/2fcfbf990efe) |
+| Fri, 29 Aug 2025 18:21:36 GMT | Top 10 Cybersecurity Myths Everyone Still Believes in 2025 | Cyberkech | [Read More](https://medium.com/p/cf1bcf9de8e0) |
+| Fri, 29 Aug 2025 18:19:31 GMT | Analyzing Security Operations and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/66007783f816) |
+| Fri, 29 Aug 2025 18:17:51 GMT | Analyzing Security Operations and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/bb16671a2441) |
+| Fri, 29 Aug 2025 18:17:15 GMT | Installation Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/7696f55051bf) |
+| Fri, 29 Aug 2025 18:13:31 GMT | What I’m Betting On for Drosera — the impacts to expect in DeFi . | Maveriick | [Read More](https://medium.com/p/00d8010ea03c) |
+| Fri, 29 Aug 2025 18:12:22 GMT | Anonymous are against catholic ? | Tahir Malik | [Read More](https://medium.com/p/553c98828d9a) |
+| Fri, 29 Aug 2025 18:11:42 GMT | Building a Successful Dark Web Monitoring Service for MSPs | SafeAeon Inc. | [Read More](https://medium.com/p/fe066de6384f) |
+| Fri, 29 Aug 2025 18:10:03 GMT | The JavaScript Tool I Built to Turn Static Websites Into Interactive Apps | Kainat Nafees | [Read More](https://medium.com/p/8ef5d90f74b8) |
+| Fri, 29 Aug 2025 18:01:34 GMT | Identity Management: Reinventing Access in 2025 | Hash Block | [Read More](https://medium.com/p/5d0fbb6b7ba6) |
+| Fri, 29 Aug 2025 18:01:34 GMT | AI-Driven Threat Intelligence: Securing the Invisible | Thinking Loop | [Read More](https://medium.com/p/e019f92572ce) |
+| Fri, 29 Aug 2025 18:00:55 GMT | Top Ways to Shield Your Business from 2025 Cyber Threats | Jazz Cyber Shield | [Read More](https://medium.com/p/68c17c8be4de) |
+| Fri, 29 Aug 2025 17:59:21 GMT | The Turning Point: How Hacking Entered My Life and Shaped My Future | Shahzaib | [Read More](https://medium.com/p/dbc85660c60b) |
+| Fri, 29 Aug 2025 17:56:37 GMT | Why Most Businesses Fail Online (And How to Fix It) | NexPower Solutions | [Read More](https://medium.com/p/e9bfc468c0ed) |
+| Fri, 29 Aug 2025 17:56:21 GMT | Give credit where credit is due. Never knew their names. I appreciate their genius. | Treathyl Fox aka cmoneyspinner | [Read More](https://medium.com/p/f26add0a61ec) |
+| Fri, 29 Aug 2025 17:54:50 GMT | Are Your Gmail Details at Risk? Salesforce Breach | Muhammad Zawar | [Read More](https://medium.com/p/2e84f4cb8bb5) |
+| Fri, 29 Aug 2025 17:52:41 GMT | My Bachelor Thesis: A Story of Invisible Source Code Attacks | Marco Zoratti | [Read More](https://medium.com/p/a9f046b4cf61) |
+| Fri, 29 Aug 2025 17:39:55 GMT | Mitigating TURN Amplification Attacks | Gabor Retvari | [Read More](https://medium.com/p/2676bdcb268c) |
+| Fri, 29 Aug 2025 17:37:00 GMT | Node.js Security Best Practices for Developers | Suraj Khonde | [Read More](https://medium.com/p/0c240423693f) |
 | Fri, 29 Aug 2025 17:26:00 GMT | Simple Security Habits That Actually Work (I’ve Tested Them) | Aj | [Read More](https://medium.com/p/18a20dfa5d5b) |
 | Fri, 29 Aug 2025 17:01:32 GMT | My official reason to blog about cybersecurity and the things i do: | C0mr4de | [Read More](https://medium.com/p/1dd96fb79898) |
 | Fri, 29 Aug 2025 16:59:40 GMT | How I Found a Simple but Impactful Web Cache Deception (WCD) Vulnerability | Yusuf | [Read More](https://medium.com/p/4782851bfcac) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 13:38:52 GMT | Cheat Sheets for AI Writers: The Real Shortcut | Mr. AVISK | [Read More](https://medium.com/p/f8dbef109eba) |
 | Fri, 29 Aug 2025 13:33:30 GMT | Don’t Be a Pawn: How Open Redirects Can Trick You and Harm Websites | Aqsa Rasheed | [Read More](https://medium.com/p/136d99862ef3) |
 | Fri, 29 Aug 2025 13:33:10 GMT | Beyond the Password: An Architect’s Guide to Modern Authentication | Satyendra Jaiswal | [Read More](https://medium.com/p/54b8785c80f3) |
-| Fri, 29 Aug 2025 13:31:39 GMT | The Gmail Security Crisis That Threatens Billions | Prashant Koli | [Read More](https://medium.com/p/2922acce7507) |
-| Fri, 29 Aug 2025 13:28:05 GMT | Mastering Rate Limiting: Definitions, Node.js | Manish Mahinia | [Read More](https://medium.com/p/21e89975ca6a) |
-| Fri, 29 Aug 2025 13:27:00 GMT | Google Pours an Additional $9 Billion Into Virginia Data Centers | Motherlandlove | [Read More](https://medium.com/p/3dbd42dc99cb) |
-| Fri, 29 Aug 2025 13:26:55 GMT | My First Steps into Cybersecurity: What I Learned So Far | Raven Aniedu | [Read More](https://medium.com/p/dc70cf3619d6) |
-| Fri, 29 Aug 2025 13:26:35 GMT | The Evolution of Malware Evasion Techniques | Cybersecurity Umbrella | [Read More](https://medium.com/p/de644e9a3ae8) |
-| Fri, 29 Aug 2025 13:25:08 GMT | Exploring Computer Courses in Lahore and the Role of Technical Institutes | Lite Pakistan | [Read More](https://medium.com/p/4ad0df3ae233) |
-| Fri, 29 Aug 2025 13:22:52 GMT | Need to know what website can be used to get work done? | PARVIN NAHAR | [Read More](https://medium.com/p/07febfc950d9) |
-| Fri, 29 Aug 2025 13:21:02 GMT | Are You Confused Between Java, C, AI, Cybersecurity? | Code With tomy | [Read More](https://medium.com/p/7734a53e1c40) |
-| Fri, 29 Aug 2025 13:17:59 GMT | The NPM nightmare: how hackers hijacked AI to steal secrets | STR4T0TT0 | [Read More](https://medium.com/p/9335fec4d2f3) |
-| Fri, 29 Aug 2025 13:17:08 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/f85e5809eb7f) |
-| Fri, 29 Aug 2025 13:16:06 GMT | What Is coomer.su and Why Reddit Users Talk About It | Atif Mustafa | [Read More](https://medium.com/p/af7086f2c54d) |
-| Fri, 29 Aug 2025 13:14:34 GMT | Protecting the Future with Cyber Security at Boston Institute! | Dipanshu | [Read More](https://medium.com/p/268b711d580d) |
-| Fri, 29 Aug 2025 13:13:45 GMT | 5 More cURL Commands to Bypass WAFs | Ibtissam hammadi | [Read More](https://medium.com/p/ddb434d30c60) |
-| Fri, 29 Aug 2025 13:10:54 GMT | Cybersecurity Basics: How Web Applications Work . | Sam | [Read More](https://medium.com/p/248f3d3ade37) |
-| Fri, 29 Aug 2025 13:05:55 GMT | The Day I Finally Spoke About It | Rimsha Maqsood | [Read More](https://medium.com/p/766a3125014e) |
-| Fri, 29 Aug 2025 13:03:39 GMT | How Many SaaS Tools Do You Use? And How Many Do You Control? | Evgeny Ermakov | [Read More](https://medium.com/p/d60a622e576f) |
-| Fri, 29 Aug 2025 13:01:39 GMT | RC car Hacked | Kshirsagar Hrushikesh | [Read More](https://medium.com/p/f83226fcb3ad) |
-| Fri, 29 Aug 2025 13:01:29 GMT | Sweden Hit by Massive Ransomware Attack: A Wake-Up Call for Everyone | CyberSamm | [Read More](https://medium.com/p/586dcfe36574) |
-| Fri, 29 Aug 2025 13:00:35 GMT | Online Safety & Cyber Laws in India: What Every Internet User Must Know | Laams Tax Consultancy | [Read More](https://medium.com/p/10d62160beba) |
-| Fri, 29 Aug 2025 12:56:44 GMT | Avoiding Hidden Poisons in Facility Management | EXLITY | [Read More](https://medium.com/p/11fcee9c11f7) |
