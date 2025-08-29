@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 Aug 2025 21:11:33 GMT | Introduction | Deepak Gupta | [Read More](https://medium.com/p/d6ada04d0cc6) |
+| Fri, 29 Aug 2025 21:10:16 GMT | Yuzu Encryption Keys: What They Are and How They Work | SafeAeon Inc. | [Read More](https://medium.com/p/319849e97cde) |
+| Fri, 29 Aug 2025 21:00:14 GMT | The Linux Security Journey — Grsecurity | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5d2592277693) |
 | Fri, 29 Aug 2025 20:37:51 GMT | Hacking APIs: Exploiting Misconfigured CORS Step by Step | Israel Aráoz Severiche | [Read More](https://medium.com/p/182ca15bfd72) |
+| Fri, 29 Aug 2025 20:36:45 GMT | OSCP Tactics: Tunneling and Port Forwarding | enigma_ | [Read More](https://medium.com/p/8027efd2bdbf) |
+| Fri, 29 Aug 2025 20:29:47 GMT | How to Turn Your Raspberry Pi Into a Firewall for Home and Small Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/6948946ff75e) |
 | Fri, 29 Aug 2025 20:21:44 GMT | Think your small business is too tiny for hackers to notice? | Breeze End Technology | [Read More](https://medium.com/p/fc038195ca08) |
 | Fri, 29 Aug 2025 20:20:18 GMT | CTI Diaries #7: Dissemination and Actionability | Deniz Topaloglu | [Read More](https://medium.com/p/1212bddd081c) |
 | Fri, 29 Aug 2025 20:15:02 GMT | How SSH Really Works: From ssh user@host to dropping in a Shell step-by-step | Jimmex04 | [Read More](https://medium.com/p/89c961902b14) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 15:01:50 GMT | AI for Threat Intelligence: How Machines Are Hunting Hackers Before They Strike | CapitalCoin | [Read More](https://medium.com/p/c88e51f0bf8f) |
 | Fri, 29 Aug 2025 14:59:05 GMT | Setting Up Azure Application Gateway with Private Endpoints for VMs | Yaaghassen | [Read More](https://medium.com/p/08c13e0b0d9f) |
 | Fri, 29 Aug 2025 14:58:01 GMT | “Facebook Lite Access Control Failure Bug” awarded with 3000$. | Khagendrabc | [Read More](https://medium.com/p/c41836c20637) |
-| Fri, 29 Aug 2025 14:57:03 GMT | Hidden Fields, Mass Assignment, and Securing APIs: Lessons from vAPI | Archibong Chinonso Samuel | [Read More](https://medium.com/p/654c83077f5b) |
-| Fri, 29 Aug 2025 14:50:07 GMT | System Design Made Simple: A Senior Dev’s Coffee Chat With Juniors | Mech2Dude | [Read More](https://medium.com/p/ad39d2666cce) |
-| Fri, 29 Aug 2025 14:48:42 GMT | Legal Studies to Cybersecurity? The Secret Nobody Shares | Authlyn | [Read More](https://medium.com/p/2e192eadfaaf) |
-| Fri, 29 Aug 2025 14:45:58 GMT | AI Systems for Detecting Cyber Attacks | Igino Corona, Eng PhD | [Read More](https://medium.com/p/e441e96600cf) |
-| Fri, 29 Aug 2025 14:45:38 GMT | COD4MW Cheat: A Reverse Engineering Adventure | Faraday Team | [Read More](https://medium.com/p/e0bdb8c54f90) |
