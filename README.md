@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 14:30:36 GMT | Penetration Testing Market is anticipated to reach USD 4.2 billion by 2035 | Vinita kumari | [Read More](https://medium.com/p/3f228a2624bc) |
+| Sat, 30 Aug 2025 14:27:31 GMT | Poiesis: A Blueprint for AI That Doesn’t Just Learn — It Transcends | handman | [Read More](https://medium.com/p/39225c37f730) |
+| Sat, 30 Aug 2025 14:25:26 GMT | Phishing Hooks: Why Humans Are the Weakest Link | Raj Islam | [Read More](https://medium.com/p/338137197d59) |
+| Sat, 30 Aug 2025 14:19:23 GMT | How am I in love? | Sukoon | [Read More](https://medium.com/p/1fed64c85d06) |
+| Sat, 30 Aug 2025 14:14:09 GMT | The Quiet Work of Carrying Yourself Through Each Day | Dhruvdeep Singh | [Read More](https://medium.com/p/4a77d326b6ad) |
+| Sat, 30 Aug 2025 14:11:28 GMT | PromptLock: The Dawn of AI-Powered Ransomware(The future of ransomware) | Mohamed.cybersec | [Read More](https://medium.com/p/b6f8f3407ef4) |
 | Sat, 30 Aug 2025 14:03:49 GMT | Without Data, There Is No AI — and No Future | Sarvesh | [Read More](https://medium.com/p/1ad94c678f3d) |
 | Sat, 30 Aug 2025 14:01:35 GMT | TryHackMe Confidential —  Walkthrough ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef8c44eb7859) |
 | Sat, 30 Aug 2025 13:58:22 GMT | The Art of Writing a Killer Pentest Report | zerOiQ | [Read More](https://medium.com/p/1ed583bceaba) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 07:09:11 GMT | Poisoned Pipeline: When Your Dev Tools Betray You | Aj | [Read More](https://medium.com/p/95de2eff142b) |
 | Sat, 30 Aug 2025 07:08:23 GMT | Why I Chose to Become a Hacker Who Protects, Not Destroys | Shahzaib | [Read More](https://medium.com/p/719b47bac05a) |
 | Sat, 30 Aug 2025 07:01:41 GMT | Comment l’IA Réinvente la Cybersécurité | David C. | [Read More](https://medium.com/p/af654e16f7e4) |
-| Sat, 30 Aug 2025 07:01:40 GMT | How AI Is Transforming Cybersecurity | David C. | [Read More](https://medium.com/p/6873d606b823) |
-| Sat, 30 Aug 2025 07:00:43 GMT | Endpoint Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/67afd8d82837) |
-| Sat, 30 Aug 2025 07:00:22 GMT | TryHackme - Python Basics | Salemabdullah | [Read More](https://medium.com/p/d969580ee449) |
-| Sat, 30 Aug 2025 06:55:14 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/52ed9bbbed18) |
-| Sat, 30 Aug 2025 06:54:18 GMT | “Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS” | Aman Sharma | [Read More](https://medium.com/p/0e2876b515a8) |
-| Sat, 30 Aug 2025 06:47:34 GMT | Bug Bounty:Las rutas olvidadas suelen ser las más vulnerables | Gorka | [Read More](https://medium.com/p/5793395d4281) |
