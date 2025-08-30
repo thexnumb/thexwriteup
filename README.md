@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 12:28:44 GMT | Vulnerability Scanning for ECR images | Jis Thomas | [Read More](https://medium.com/p/4906f4d4d7ac) |
+| Sat, 30 Aug 2025 12:26:41 GMT | Day 20 — Server-Side Request Forgery (SSRF): A Silent But Dangerous Threat | Puneet | [Read More](https://medium.com/p/6116f96a0163) |
+| Sat, 30 Aug 2025 12:20:32 GMT | Silent harvest: extracting windows secrets under the radar | Yaniv | [Read More](https://medium.com/p/b71a21e86514) |
+| Sat, 30 Aug 2025 12:20:12 GMT | A Journey Through Kenya: A Story of Safe and Joyful Travel | Dantravel Hub | [Read More](https://medium.com/p/2ba6028b378d) |
+| Sat, 30 Aug 2025 12:10:40 GMT | Techniques Used for IP Logging | Cyber Fortress | [Read More](https://medium.com/p/c46315fd7ae5) |
+| Sat, 30 Aug 2025 12:09:05 GMT | From Intelligence to Action: Practical Threat Hunting with OpenCTI | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/1c08b7705425) |
+| Sat, 30 Aug 2025 12:01:37 GMT | Why I Always Set Up File Integrity Monitoring on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/f7929fe4db39) |
+| Sat, 30 Aug 2025 12:00:04 GMT | [Write-up] beanstalk_secrets — CloudGoat | Fabian Matuszek | [Read More](https://medium.com/p/9444fbad1afd) |
+| Sat, 30 Aug 2025 11:52:57 GMT | 10 Best Shared Hosting Providers for Dropshipping Stores ⚡ | Mayra Sharma | [Read More](https://medium.com/p/b2f1404ac0fd) |
+| Sat, 30 Aug 2025 11:35:38 GMT | 10 Best Secure Hosting Providers for Recipe Blogs | Somya Rani | [Read More](https://medium.com/p/30ff10efedf8) |
+| Sat, 30 Aug 2025 11:31:36 GMT | FastAPI Security Pitfalls That Almost Leaked My User Data | Thinking Loop | [Read More](https://medium.com/p/c9903bc13fd7) |
+| Sat, 30 Aug 2025 11:31:11 GMT | Earn Passive Income by $BUG Yield Generation on StakingRewards | BUG | [Read More](https://medium.com/p/73fbabc49200) |
+| Sat, 30 Aug 2025 11:31:08 GMT | 10 Best Dedicated Hosting Providers for CRM Systems in 2025 ⚡ | Mayra Sharma | [Read More](https://medium.com/p/13458b1b4d05) |
 | Sat, 30 Aug 2025 11:30:59 GMT | DockerLabs Writeup — Move (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9823fa1e04f3) |
 | Sat, 30 Aug 2025 11:30:44 GMT | Don’t Get Spoofed: A Deep Dive into DHCP Snooping | Ahmed Maher | [Read More](https://medium.com/p/bd5497301e34) |
 | Sat, 30 Aug 2025 11:26:05 GMT | The Immune System of the Internet: Why Cybersecurity Matters | Aayushi Sinha | [Read More](https://medium.com/p/800d2e99f52a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 04:45:50 GMT | The Symbiotic Constitution: A Radical New Blueprint for Self-Emergent AI Ethics | handman | [Read More](https://medium.com/p/fc56e2266590) |
 | Sat, 30 Aug 2025 04:39:50 GMT | Build Your Own Cybersecurity Lab | Rahisul | [Read More](https://medium.com/p/e7dc29e64156) |
 | Sat, 30 Aug 2025 04:37:44 GMT | Beyond the Gate: Integrated Security with Smart Barrier Systems in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/745586c54c69) |
-| Sat, 30 Aug 2025 04:37:00 GMT | Sam Altman Confirms the AI Bubble Is Real | Motherlandlove | [Read More](https://medium.com/p/0daa6cfc46de) |
-| Sat, 30 Aug 2025 04:31:07 GMT | Internal Pentesting: User Machines | Walter Cuestas | [Read More](https://medium.com/p/4c5a17cbb54d) |
-| Sat, 30 Aug 2025 04:27:37 GMT | Challenge Lab — Find the Imposter — Layer 2 (walkthrough) | mossaab mahieddine | [Read More](https://medium.com/p/67d9eb7641bd) |
-| Sat, 30 Aug 2025 04:15:33 GMT | Oopsie — Hack The Box | R37R0 | [Read More](https://medium.com/p/1aed49c10266) |
-| Sat, 30 Aug 2025 04:09:36 GMT | Python for Hackers: Scripts That Can Find Vulnerabilities in Minutes | Sukhveer Singh | [Read More](https://medium.com/p/81620e8c7319) |
-| Sat, 30 Aug 2025 04:04:46 GMT | THM: Basic Pentesting | Zaakceptowac | [Read More](https://medium.com/p/f599219411dd) |
-| Sat, 30 Aug 2025 03:51:25 GMT | เปลี่ยนมาใช้เว็บ Bloodhound-ce ต้องรีเซ็ต Postgres ต้องหาวิธีแก้รหัส neo4j ที่แสนยุ่งยาก… | ThaiCySec | [Read More](https://medium.com/p/c2479f0ee7d6) |
-| Sat, 30 Aug 2025 03:38:21 GMT | Write Up Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Velskynotfound | [Read More](https://medium.com/p/a421b1ed83bb) |
-| Sat, 30 Aug 2025 03:33:26 GMT | Israel INVASION Of Gaza City Begins — Islamists Face Downfall in Gaza | Everclear | [Read More](https://medium.com/p/0e2ae5fff44d) |
-| Sat, 30 Aug 2025 03:31:35 GMT | Cyber Frontlines: How AI Revolution Meets Security Evolution | Akshat Ratanpal | [Read More](https://medium.com/p/99d825ab031d) |
-| Sat, 30 Aug 2025 03:22:05 GMT | Chicken or Egg: Staying Ahead in the Security Arms Race | Gaurang Katyal | [Read More](https://medium.com/p/6fe61af345fa) |
-| Sat, 30 Aug 2025 02:46:01 GMT | How ‘Hello!’ Becomes Packets, Frames, and Bits: iMessage Through the OSI Lens | Taulan Zauzanov | [Read More](https://medium.com/p/004784ebb443) |
-| Sat, 30 Aug 2025 02:33:36 GMT | AI-Powered Cyberattacks in 2025: Should You Be Worried? | noel chukwuebuka | [Read More](https://medium.com/p/821bafd87951) |
