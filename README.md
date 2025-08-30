@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 21:33:19 GMT | ️‍♂️ Retired Box CAP Walkthrough — Step by Step CTF Guide with Visuals | Mkirahmet | [Read More](https://medium.com/p/c29d141ece97) |
+| Sat, 30 Aug 2025 21:24:43 GMT | The first step to Pentesting | Spider256 | [Read More](https://medium.com/p/2084562d775d) |
+| Sat, 30 Aug 2025 21:16:12 GMT | Hacked By Xyren Haxor Team | Xyren Haxor | [Read More](https://medium.com/p/62d4a1482cbb) |
+| Sat, 30 Aug 2025 21:15:07 GMT | My Path into Cybersecurity Using Free Resources | Jialei Q. | [Read More](https://medium.com/p/0f8c8ef8aabe) |
 | Sat, 30 Aug 2025 21:05:56 GMT | Web3, Metaverse ve Yeni Nesil Dijital Güvenlik Trendleri | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/289497a2c212) |
 | Sat, 30 Aug 2025 21:05:13 GMT | Mitigating Content Related Threats and Vulnerabilities :Guarding the Gates with Google Cloud | Gbemisola Esho | [Read More](https://medium.com/p/b386da3834c3) |
 | Sat, 30 Aug 2025 21:01:29 GMT | The Ethics of Hacking: Good Hackers vs. Bad Hackers | Paschal Ogana | [Read More](https://medium.com/p/e559a3e5595d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 14:51:03 GMT | Web Cache Poisoning (Don’t forget simple but powerful) | SACHIN PV | [Read More](https://medium.com/p/d4bba30cf4d2) |
 | Sat, 30 Aug 2025 14:44:06 GMT | Feedback on ChatGPT Safety on Adam's tragedy | Stranger. | [Read More](https://medium.com/p/f27e9d03b19a) |
 | Sat, 30 Aug 2025 14:39:34 GMT | The Role of XAN: Fueling Anoma’s Operating System | Seen | [Read More](https://medium.com/p/8a527b4a2386) |
-| Sat, 30 Aug 2025 14:36:34 GMT | Platform Website untuk Bug Bounty | ANGGA | [Read More](https://medium.com/p/915f202723e7) |
-| Sat, 30 Aug 2025 14:33:51 GMT | Combining AI, Cloud, and Security for Modern Enterprise Apps | KodekX | [Read More](https://medium.com/p/bf5dfc152a19) |
-| Sat, 30 Aug 2025 14:30:36 GMT | Penetration Testing Market is anticipated to reach USD 4.2 billion by 2035 | Vinita kumari | [Read More](https://medium.com/p/3f228a2624bc) |
-| Sat, 30 Aug 2025 14:27:31 GMT | Poiesis: A Blueprint for AI That Doesn’t Just Learn — It Transcends | handman | [Read More](https://medium.com/p/39225c37f730) |
