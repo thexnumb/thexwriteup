@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 08:01:41 GMT | Self-Healing Infrastructure: Beyond Auto-Scaling and Into Autonomous Ops | Mohamed ElEmam | [Read More](https://medium.com/p/1bfbcd7c4c8d) |
+| Sat, 30 Aug 2025 08:00:16 GMT | # Breakthrough Discovery: The FoxWolf Scale for Social Engineering Skills Assessment | Claudeahmedats | [Read More](https://medium.com/p/d10e2a68855a) |
+| Sat, 30 Aug 2025 07:49:45 GMT | Web Security Essentials {THM} | Intelithics | [Read More](https://medium.com/p/d291e8a813a0) |
+| Sat, 30 Aug 2025 07:36:00 GMT | Beyond the Binary: Why Breach Readiness Demands Both Agent and Agentless Security | Agnidipta Sarkar | [Read More](https://medium.com/p/0ba849333114) |
 | Sat, 30 Aug 2025 07:33:25 GMT | The Wi-Fi I Never Asked For | 0xChill | [Read More](https://medium.com/p/cf24508a06df) |
+| Sat, 30 Aug 2025 07:27:08 GMT | The NotebookLM-Pineapple Experiment | The Ancient Mariner | [Read More](https://medium.com/p/9a4ed36eac1f) |
 | Sat, 30 Aug 2025 07:24:27 GMT | Future-Proof Your Career with Cybersecurity Training in Madurai | Michael Antony | [Read More](https://medium.com/p/224873d337d8) |
 | Sat, 30 Aug 2025 07:19:04 GMT | What I learned from my mind torturing me (and what you shouldn’t do when your thoughts won’t stop) | David Rodriguez | [Read More](https://medium.com/p/9ed4ba57716b) |
 | Sat, 30 Aug 2025 07:11:26 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/259b3fc01392) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 21:31:36 GMT | SAMM, ASVS e DevSecOps: fortalecendo a segurança de software | Gabi Deutner | [Read More](https://medium.com/p/23d6b11207d4) |
 | Fri, 29 Aug 2025 21:27:56 GMT | Reverse Engineering Challenge — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/783d87d3f233) |
 | Fri, 29 Aug 2025 21:27:28 GMT | Forensics Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/284e92f4be53) |
-| Fri, 29 Aug 2025 21:23:29 GMT | Uncovering the Truth: Genuine Love or Convenient Illusion? | Jummai Bukar | [Read More](https://medium.com/p/12f6062709dc) |
-| Fri, 29 Aug 2025 21:16:15 GMT | From Zero to Networking Hero: Follow My Journey | Jordan Indongo | [Read More](https://medium.com/p/17e6509bb939) |
-| Fri, 29 Aug 2025 21:11:33 GMT | Introduction | Deepak Gupta | [Read More](https://medium.com/p/d6ada04d0cc6) |
-| Fri, 29 Aug 2025 21:10:16 GMT | Yuzu Encryption Keys: What They Are and How They Work | SafeAeon Inc. | [Read More](https://medium.com/p/319849e97cde) |
-| Fri, 29 Aug 2025 21:00:14 GMT | The Linux Security Journey — Grsecurity | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5d2592277693) |
