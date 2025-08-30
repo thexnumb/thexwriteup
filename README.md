@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 19:27:45 GMT | How I passed the eJPT and how you can too! | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/97c839e17dc1) |
+| Sat, 30 Aug 2025 19:25:30 GMT | BLUE walkthrough \\TryHackMe | Proxyminerin | [Read More](https://medium.com/p/2fcda23dd745) |
+| Sat, 30 Aug 2025 19:07:38 GMT | Practical AI in AWS Security | Aleksandar Nenov | [Read More](https://medium.com/p/2e6ce53f1eef) |
+| Sat, 30 Aug 2025 19:07:36 GMT | Auditless Auth: Build Zero-Trust API Security with IAM + VPC Lattice + Verified Access | HimanShunya | [Read More](https://medium.com/p/542152034ec6) |
 | Sat, 30 Aug 2025 19:00:11 GMT | picoCTF PIE TIME Writeup | cyberghost | [Read More](https://medium.com/p/61caff38ce24) |
 | Sat, 30 Aug 2025 18:53:03 GMT | Application Security Maturity, Simplified: OWASP SAMM + NIST + One Free Tool | Sandeep Saxena | [Read More](https://medium.com/p/2aa666028f3a) |
 | Sat, 30 Aug 2025 18:52:54 GMT | What I learned from recovering a server at risk: beyond AI and automation | Jose Luis Campos Bautista | [Read More](https://medium.com/p/3adb75eca96c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 13:01:40 GMT | VPN (Virtual Private Network) — A Deep Dive Explained Simply | Akhil Boddula | [Read More](https://medium.com/p/8691c31c7549) |
 | Sat, 30 Aug 2025 12:57:35 GMT | How AI is Transforming Cybersecurity: From Reactive Defense to Proactive Intelligence | Shayan Sharifi | [Read More](https://medium.com/p/7fc43ce28658) |
 | Sat, 30 Aug 2025 12:55:39 GMT | Zero Trust Meets Blockchain: A Perfect Match for the Future of Security | Rahul Balaskandan | [Read More](https://medium.com/p/ef6d2ba95760) |
-| Sat, 30 Aug 2025 12:51:11 GMT | The Acceleration of Cyber Threats: Why “Detect, Respond & Mitigate” Is No Longer Enough | Abatis ABTU | [Read More](https://medium.com/p/04c01f007d1d) |
-| Sat, 30 Aug 2025 12:49:59 GMT | How I Got CompTIA Network+ and Security+ Certified in 8 Days | Gabriel Drouin | [Read More](https://medium.com/p/22950f29a4ab) |
-| Sat, 30 Aug 2025 12:43:47 GMT | How do Dubai app developers help businesses grow digitally? | Five Programmers | [Read More](https://medium.com/p/36fd063070a9) |
-| Sat, 30 Aug 2025 12:43:05 GMT | The New Digital Frontier: Navigating the Threats and Cultivating Resilience Against Deepfakes | Sagar Majumdar | [Read More](https://medium.com/p/8926278ea27d) |
