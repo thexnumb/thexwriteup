@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 13:32:43 GMT | Why Hashing Matters in Real-World Cybersecurity? | Kyrillos Kamal | [Read More](https://medium.com/p/070359e17442) |
 | Sat, 30 Aug 2025 13:20:25 GMT | The Day Traditional Security Became Obsolete — And the Invisible Crisis No One Sees Coming | Jonas Kjellin | [Read More](https://medium.com/p/0008053eb5be) |
 | Sat, 30 Aug 2025 13:17:35 GMT | Java Microservices Security: 7 Fatal Mistakes You Must Avoid | Quantum Tricks | [Read More](https://medium.com/p/c16fa8b86d7f) |
 | Sat, 30 Aug 2025 13:16:55 GMT | Vulnerability Scanning 101: Why It’s Essential for Modern Cybersecurity | Allendevaux Company | [Read More](https://medium.com/p/11d09fdf9adb) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 06:07:55 GMT | Top 10 Hacking Websites in 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/eca4f9729970) |
 | Sat, 30 Aug 2025 06:05:55 GMT | iOS Recon: Hunting Endpoints Inside IPA Files | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d495da38f5b) |
 | Sat, 30 Aug 2025 06:01:46 GMT | The Nx Nightmare: A Supply Chain Breach with AI in the Loop | Akanksha | [Read More](https://medium.com/p/f32233e0f830) |
-| Sat, 30 Aug 2025 06:01:43 GMT | The Manifest Speaks — Deep Recon & Hardening Guide for AndroidManifest.xml | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d901e1ff0317) |
