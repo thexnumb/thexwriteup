@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 15:30:24 GMT | FREE 10-Day GOLDEN PLAN for xss0r V5 — As Promised! | xss0r | [Read More](https://medium.com/p/cdded17fbade) |
+| Sat, 30 Aug 2025 15:29:31 GMT | SSTI Vulnerability | Rajsegar Alagarathnam | [Read More](https://medium.com/p/3fb0f5fc6712) |
+| Sat, 30 Aug 2025 15:29:16 GMT | AI Can’t Judge Intent: Application Control Wins | Shahzaib | [Read More](https://medium.com/p/7ef329b43ed5) |
+| Sat, 30 Aug 2025 15:27:49 GMT | Phishing: a low-paid, low-skills enterprise? | Security Skeptic | [Read More](https://medium.com/p/987a95a1eca1) |
+| Sat, 30 Aug 2025 15:24:39 GMT | The Social Engineer’s Toolkit: How Words Become Digital Lockpicks | Aj | [Read More](https://medium.com/p/8cd44d0f8039) |
+| Sat, 30 Aug 2025 15:23:26 GMT | The Surveillance State and Counter-Surveillance Tactics | Joel L | [Read More](https://medium.com/p/2477d3c88e12) |
 | Sat, 30 Aug 2025 15:13:17 GMT | Phishing Email Analysis Tools — Your Go-To Toolkit | Vijay Kumar Gupta | [Read More](https://medium.com/p/bfbcc45cd76f) |
 | Sat, 30 Aug 2025 15:11:46 GMT | Webcookoo: Enterprise-Grade Cybersecurity for the Quantum Era | Sumit Chauhan | [Read More](https://medium.com/p/3d6a7b6b13bc) |
 | Sat, 30 Aug 2025 15:06:34 GMT | Top AI Security Events | Tal Eliyahu | [Read More](https://medium.com/p/28ee7eb4d79c) |
@@ -23,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 14:51:03 GMT | Web Cache Poisoning (Don’t forget simple but powerful) | SACHIN PV | [Read More](https://medium.com/p/d4bba30cf4d2) |
 | Sat, 30 Aug 2025 14:44:06 GMT | Feedback on ChatGPT Safety on Adam's tragedy | Stranger. | [Read More](https://medium.com/p/f27e9d03b19a) |
 | Sat, 30 Aug 2025 14:39:34 GMT | The Role of XAN: Fueling Anoma’s Operating System | Seen | [Read More](https://medium.com/p/8a527b4a2386) |
+| Sat, 30 Aug 2025 14:36:34 GMT | Platform Website untuk Bug Bounty | ANGGA | [Read More](https://medium.com/p/915f202723e7) |
 | Sat, 30 Aug 2025 14:33:51 GMT | Combining AI, Cloud, and Security for Modern Enterprise Apps | KodekX | [Read More](https://medium.com/p/bf5dfc152a19) |
 | Sat, 30 Aug 2025 14:30:36 GMT | Penetration Testing Market is anticipated to reach USD 4.2 billion by 2035 | Vinita kumari | [Read More](https://medium.com/p/3f228a2624bc) |
 | Sat, 30 Aug 2025 14:27:31 GMT | Poiesis: A Blueprint for AI That Doesn’t Just Learn — It Transcends | handman | [Read More](https://medium.com/p/39225c37f730) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 08:55:14 GMT | Ikaw, Saan Mo Gusto? | TheBoyWhoCriedWolf | [Read More](https://medium.com/p/f551ca4b0063) |
 | Sat, 30 Aug 2025 08:51:31 GMT | ️ Building My Own OSINT Framework: From Beginner Script to Reconnaissance Tool | Rohit Sahani | [Read More](https://medium.com/p/63e555e60c5f) |
 | Sat, 30 Aug 2025 08:39:41 GMT | Reverse Engineering My First Malware Sample (and What I Learned) | Aj | [Read More](https://medium.com/p/77177d39c6ee) |
-| Sat, 30 Aug 2025 08:33:05 GMT | AED FWECTF Writeup (CTF Challenge) | Michael Elfauz | [Read More](https://medium.com/p/c53a5a2ae248) |
-| Sat, 30 Aug 2025 08:31:21 GMT | [CyberDefenders Write-up] T1197 (BitsAdmin & Schedule Task persistence investigate with Splunk) | Chicken0248 | [Read More](https://medium.com/p/0cc6314a3767) |
-| Sat, 30 Aug 2025 08:31:12 GMT | Essential Networking Ports Every Developer and IT Professional Should Know | Rohan Mistry | [Read More](https://medium.com/p/f5d2493999e1) |
-| Sat, 30 Aug 2025 08:25:16 GMT | EDR Explained - TryHackMe Introduction to EDR Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/604eb9e0099a) |
-| Sat, 30 Aug 2025 08:11:47 GMT | # اكتشاف ثوري: مقياس الثعلب الذئب لتقييم مهارات الهندسة الاجتماعية (نسخة موسعة) | Claudeahmedats | [Read More](https://medium.com/p/94cc93a968a6) |
-| Sat, 30 Aug 2025 08:10:02 GMT | # اكتشاف ثوري: مقياس الثعلب الذئب لتقييم مهارات الهندسة الاجتماعية | Claudeahmedats | [Read More](https://medium.com/p/74f82a6389b2) |
-| Sat, 30 Aug 2025 08:01:41 GMT | Self-Healing Infrastructure: Beyond Auto-Scaling and Into Autonomous Ops | Mohamed ElEmam | [Read More](https://medium.com/p/1bfbcd7c4c8d) |
