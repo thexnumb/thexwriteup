@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 20:14:23 GMT | Rooting an Umbraco 7.12.4 Machine on HackTheBox | Kaplanibrahimm | [Read More](https://medium.com/p/3179fdc5b487) |
+| Sat, 30 Aug 2025 20:13:40 GMT | Strengthening Your Digital Defenses: The Role of Cybersecurity Consulting and Incident Response… | Jeffery Walker | [Read More](https://medium.com/p/ab3e04ab7f53) |
+| Sat, 30 Aug 2025 20:01:39 GMT | Analyzing Zero Trust Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/340b14bd5171) |
+| Sat, 30 Aug 2025 20:01:38 GMT | “Tethearing”: New Philosophy Unveils the Hidden Architecture of Survival | USAI Insight | [Read More](https://medium.com/p/4738e230a95f) |
+| Sat, 30 Aug 2025 19:59:45 GMT | Analyzing Zero Trust Security for Organizations | Cyber Security Research | [Read More](https://medium.com/p/1dc750f96bb3) |
+| Sat, 30 Aug 2025 19:57:45 GMT | Analyzing Zero Trust Security for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/e3c2e54dcb7e) |
+| Sat, 30 Aug 2025 19:57:21 GMT | Top AI Security Videos — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9af31f5389cc) |
+| Sat, 30 Aug 2025 19:55:59 GMT | Analyzing Zero Trust Security and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/1c2c41a7eeac) |
+| Sat, 30 Aug 2025 19:52:50 GMT | How a Forgotten Subdomain Led to Critical Access | Aj | [Read More](https://medium.com/p/116a78401065) |
+| Sat, 30 Aug 2025 19:50:58 GMT | Meet Vörn: Your Friendly Viking-Inspired Web Security Toolkit | totta zetterlund | [Read More](https://medium.com/p/d6553c862fe7) |
+| Sat, 30 Aug 2025 19:47:05 GMT | When A.I lies to A.I: Why deepfakes are outsmarting detection? | Aiman Shariff | [Read More](https://medium.com/p/5008cea64f19) |
+| Sat, 30 Aug 2025 19:41:33 GMT | Hacking APIs: Building a Custom Nuclei Workflow for API Pentesting | Israel Aráoz Severiche | [Read More](https://medium.com/p/ff616e29f784) |
+| Sat, 30 Aug 2025 19:40:00 GMT | The Invisible MCP Threat Hiding in Plain Sight | Dr. Cesar Guzman | [Read More](https://medium.com/p/5b356f410f5f) |
 | Sat, 30 Aug 2025 19:27:45 GMT | How I passed the eJPT and how you can too! | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/97c839e17dc1) |
 | Sat, 30 Aug 2025 19:25:30 GMT | BLUE walkthrough \\TryHackMe | Proxyminerin | [Read More](https://medium.com/p/2fcda23dd745) |
 | Sat, 30 Aug 2025 19:07:38 GMT | Practical AI in AWS Security | Aleksandar Nenov | [Read More](https://medium.com/p/2e6ce53f1eef) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 14:11:28 GMT | PromptLock: The Dawn of AI-Powered Ransomware(The future of ransomware) | Mohamed.cybersec | [Read More](https://medium.com/p/b6f8f3407ef4) |
 | Sat, 30 Aug 2025 14:03:49 GMT | Without Data, There Is No AI — and No Future | Sarvesh | [Read More](https://medium.com/p/1ad94c678f3d) |
 | Sat, 30 Aug 2025 14:01:35 GMT | TryHackMe Confidential —  Walkthrough ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef8c44eb7859) |
-| Sat, 30 Aug 2025 13:58:22 GMT | The Art of Writing a Killer Pentest Report | zerOiQ | [Read More](https://medium.com/p/1ed583bceaba) |
-| Sat, 30 Aug 2025 13:49:48 GMT | Port Checker — Test Open Ports Online Instantly | The Mistaken Man | [Read More](https://medium.com/p/fef15e65dea6) |
-| Sat, 30 Aug 2025 13:41:51 GMT | MrPhisher - TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/0d7a7efe8a95) |
-| Sat, 30 Aug 2025 13:36:55 GMT | From XSS to privesc in Wordpresss: Vulnerable plugins and Admin CSRF nonces to create a new Admin | Rogercastefdez | [Read More](https://medium.com/p/f5836e019689) |
-| Sat, 30 Aug 2025 13:32:43 GMT | Why Hashing Matters in Real-World Cybersecurity? | Kyrillos Kamal | [Read More](https://medium.com/p/070359e17442) |
-| Sat, 30 Aug 2025 13:31:35 GMT | The Truth About Authenticity: Why Being Real is the Key to True Love | Lucas Brown | [Read More](https://medium.com/p/e39ba2e3d4c3) |
-| Sat, 30 Aug 2025 13:20:25 GMT | The Day Traditional Security Became Obsolete — And the Invisible Crisis No One Sees Coming | Jonas Kjellin | [Read More](https://medium.com/p/0008053eb5be) |
-| Sat, 30 Aug 2025 13:17:35 GMT | Java Microservices Security: 7 Fatal Mistakes You Must Avoid | Quantum Tricks | [Read More](https://medium.com/p/c16fa8b86d7f) |
-| Sat, 30 Aug 2025 13:16:55 GMT | Vulnerability Scanning 101: Why It’s Essential for Modern Cybersecurity | Allendevaux Company | [Read More](https://medium.com/p/11d09fdf9adb) |
-| Sat, 30 Aug 2025 13:16:06 GMT | Web Application Architecture | Iserjaoui | [Read More](https://medium.com/p/e0281cb97cbe) |
-| Sat, 30 Aug 2025 13:01:40 GMT | VPN (Virtual Private Network) — A Deep Dive Explained Simply | Akhil Boddula | [Read More](https://medium.com/p/8691c31c7549) |
-| Sat, 30 Aug 2025 12:57:35 GMT | How AI is Transforming Cybersecurity: From Reactive Defense to Proactive Intelligence | Shayan Sharifi | [Read More](https://medium.com/p/7fc43ce28658) |
-| Sat, 30 Aug 2025 12:55:39 GMT | Zero Trust Meets Blockchain: A Perfect Match for the Future of Security | Rahul Balaskandan | [Read More](https://medium.com/p/ef6d2ba95760) |
