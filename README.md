@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 05:34:54 GMT | How I Built a Real-Time Phishing Triage System | Huy Tran | [Read More](https://medium.com/p/3bb1643c8c10) |
+| Sat, 30 Aug 2025 05:23:47 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/e8842d66b03e) |
+| Sat, 30 Aug 2025 05:18:55 GMT | Cybersecurity Strategic Transformation: Why Is It So Hard? | JC Gaillard | [Read More](https://medium.com/p/247cbb1787bb) |
+| Sat, 30 Aug 2025 05:07:15 GMT | ISO 42001: The AI Management System Standard Every Leader Needs to Know | Sairaj Mahesh | [Read More](https://medium.com/p/4cbe1f531e65) |
 | Sat, 30 Aug 2025 05:04:15 GMT | Seen USDT Appear Without a Transaction? That’s Flash | Nicki | [Read More](https://medium.com/p/6a7de2b4a3f9) |
 | Sat, 30 Aug 2025 04:56:25 GMT | Difference Between CISM and Entry-Level Security Certifications | Dhanashri Bhale | [Read More](https://medium.com/p/9c178ba2f065) |
 | Sat, 30 Aug 2025 04:49:32 GMT | Malware-as-a-Service (MaaS): The Netflix Model for Hackers | Paritosh | [Read More](https://medium.com/p/7142d3de4c49) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 18:26:59 GMT | Geopolitics and Cybersecurity: When Global Tensions Infiltrate the Enterprise | William Couturier | [Read More](https://medium.com/p/99a6c7a04f3a) |
 | Fri, 29 Aug 2025 18:24:35 GMT | Analyzing Security Operations for Professionals | Cyber Security Research | [Read More](https://medium.com/p/59f2ba6337a6) |
 | Fri, 29 Aug 2025 18:23:06 GMT | Routers: The Silent Gatekeepers of Your Network | Lakshmeesh R | [Read More](https://medium.com/p/2fcfbf990efe) |
-| Fri, 29 Aug 2025 18:21:36 GMT | Top 10 Cybersecurity Myths Everyone Still Believes in 2025 | Cyberkech | [Read More](https://medium.com/p/cf1bcf9de8e0) |
-| Fri, 29 Aug 2025 18:19:31 GMT | Analyzing Security Operations and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/66007783f816) |
-| Fri, 29 Aug 2025 18:17:51 GMT | Analyzing Security Operations and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/bb16671a2441) |
-| Fri, 29 Aug 2025 18:17:15 GMT | Installation Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/7696f55051bf) |
