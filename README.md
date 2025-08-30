@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 17:03:25 GMT | Data as Liability: Executive Imperatives for Storing and Protecting Payment System Data | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/0652e9bde042) |
+| Sat, 30 Aug 2025 17:00:46 GMT | Evil Hunting!! … in Linux! | Luke | [Read More](https://medium.com/p/9d23873eb7a9) |
+| Sat, 30 Aug 2025 17:00:14 GMT | AI/LLM Hacking- Part 2- Prompt Injection | Darshan Naresh Naik | [Read More](https://medium.com/p/13030a731e15) |
+| Sat, 30 Aug 2025 16:53:15 GMT | My Hands-on with AWS IAM: Learning Identity and Access Management | Yashwant Patil | [Read More](https://medium.com/p/9e9c6a9853d3) |
+| Sat, 30 Aug 2025 16:50:03 GMT | Getting Started with Ghidra Scripting: Python Power Meets Java Integration | Yen | [Read More](https://medium.com/p/b957b40aadac) |
+| Sat, 30 Aug 2025 16:48:35 GMT | Wi-Fi Traffic Analysis and Hacking on Your Own Network (Part 1) | Artur | [Read More](https://medium.com/p/9fdb7819ffd1) |
+| Sat, 30 Aug 2025 16:47:00 GMT | Analyzing Zero Trust Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/58c8af8d619c) |
+| Sat, 30 Aug 2025 16:45:31 GMT | ฉเลย Cyber top talent 2025 หมวด web app Ep:1 | jitwisut | [Read More](https://medium.com/p/85004856b483) |
+| Sat, 30 Aug 2025 16:45:07 GMT | VPN Everywhere: Privacy Without Borders | VPN Everywhere | [Read More](https://medium.com/p/972ca2af0e3d) |
 | Sat, 30 Aug 2025 16:38:28 GMT | Fraud-as-a-Service (FaaS). Turn Conflict into Commerce. Click. Pay. Scam. | Sriram Narayanan | [Read More](https://medium.com/p/894aa57d58e9) |
 | Sat, 30 Aug 2025 16:35:25 GMT | The Free Way I Cracked the eJPT Certification | Mehdi Ben Fredj | [Read More](https://medium.com/p/a84acc9edfbd) |
 | Sat, 30 Aug 2025 16:31:35 GMT | The Ghost in Microsoft’s Machine: Why Copilot’s Latest Security Flaw Should Keep CISOs Awake | Tony Cieta | [Read More](https://medium.com/p/33fa2856510a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 11:19:28 GMT | 10 Most Reliable Hosting Providers for Government Websites in 2025 ️ | Anand Verma | [Read More](https://medium.com/p/108971b15a02) |
 | Sat, 30 Aug 2025 11:19:12 GMT | Full-Stack Auth: Sessions, JWTs, and Best Practices | Tera Byte 26 | [Read More](https://medium.com/p/3753f6e1153e) |
 | Sat, 30 Aug 2025 11:15:41 GMT | How I Found a Critical Subdomain Takeover Vulnerability (And What You Can Learn From It) | Be nice insabat | [Read More](https://medium.com/p/8af33baa321c) |
-| Sat, 30 Aug 2025 11:14:46 GMT | Free 14 Hours Recon Course | AJAK Cyber Academy | [Read More](https://medium.com/p/9f2844f2b1bd) |
-| Sat, 30 Aug 2025 11:08:03 GMT | ️  ’ :     ’… | Akhil Binu | [Read More](https://medium.com/p/6f2c2cc937c7) |
-| Sat, 30 Aug 2025 10:54:04 GMT | What’s Love Got to Do With it? On the Vulnerability Crisis | Raheema | [Read More](https://medium.com/p/53497bb6ef49) |
-| Sat, 30 Aug 2025 10:32:20 GMT | Dimensity 9500: Game-Changer Baru di Persaingan Chipset Flagship? | Michael jr. | [Read More](https://medium.com/p/51944be776ce) |
-| Sat, 30 Aug 2025 10:30:40 GMT | Assalam o alaikum for muslim brothers and hello for non muslims, i hope all of you are doing well… | insbat meg | [Read More](https://medium.com/p/71da6cffdea3) |
-| Sat, 30 Aug 2025 10:27:12 GMT | Why Most Cybersecurity Candidates Fail Interviews (Hint: It’s Not Just About Hands-On Skills) | The Daily Cyber News | [Read More](https://medium.com/p/8d24edbe1155) |
-| Sat, 30 Aug 2025 10:26:48 GMT | How i was abble to delete ORG with leaked token | Be nice insabat | [Read More](https://medium.com/p/4375c8eecc5b) |
-| Sat, 30 Aug 2025 10:25:57 GMT | Troubleshooting Kubernetes Master Node Certificate Expiry and API Server Access Issues: A… | Tech Trends Today | [Read More](https://medium.com/p/8d265bdbbf33) |
-| Sat, 30 Aug 2025 10:23:13 GMT | How I Got Listed on CERT-In’s Hall of Fame Before Turning 20 | Yukeshwaran N | [Read More](https://medium.com/p/630113e834d1) |
