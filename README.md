@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 19:00:11 GMT | picoCTF PIE TIME Writeup | cyberghost | [Read More](https://medium.com/p/61caff38ce24) |
+| Sat, 30 Aug 2025 18:53:03 GMT | Application Security Maturity, Simplified: OWASP SAMM + NIST + One Free Tool | Sandeep Saxena | [Read More](https://medium.com/p/2aa666028f3a) |
+| Sat, 30 Aug 2025 18:52:54 GMT | What I learned from recovering a server at risk: beyond AI and automation | Jose Luis Campos Bautista | [Read More](https://medium.com/p/3adb75eca96c) |
+| Sat, 30 Aug 2025 18:49:46 GMT | Why Hands-on Training Labs Really Matter: Challenges, Wins, and Smart Tips | Santoshi_Cloud | [Read More](https://medium.com/p/58e77ea67c78) |
+| Sat, 30 Aug 2025 18:41:34 GMT | ️ What Is a Rootkit and How to Protect Against It | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/a6a75a97c8d2) |
+| Sat, 30 Aug 2025 18:36:58 GMT | A Beginner’s Guide to Setting Up a Malware Analysis Lab | XoX | [Read More](https://medium.com/p/2dab4c73724c) |
 | Sat, 30 Aug 2025 18:31:34 GMT | Securing Your Spring Boot App with OAuth 2.0 and JWT — A Simple Guide | Naveen Metta | [Read More](https://medium.com/p/cbc10642fc5d) |
 | Sat, 30 Aug 2025 18:26:55 GMT | เฉลย Cyber top talent Ep:2 | jitwisut | [Read More](https://medium.com/p/15247bc88882) |
 | Sat, 30 Aug 2025 18:25:12 GMT | JWT Replay + Session Context Desync Vulnerability: Real-World Impact | Huseyin | [Read More](https://medium.com/p/3ffbf9f70287) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 12:49:59 GMT | How I Got CompTIA Network+ and Security+ Certified in 8 Days | Gabriel Drouin | [Read More](https://medium.com/p/22950f29a4ab) |
 | Sat, 30 Aug 2025 12:43:47 GMT | How do Dubai app developers help businesses grow digitally? | Five Programmers | [Read More](https://medium.com/p/36fd063070a9) |
 | Sat, 30 Aug 2025 12:43:05 GMT | The New Digital Frontier: Navigating the Threats and Cultivating Resilience Against Deepfakes | Sagar Majumdar | [Read More](https://medium.com/p/8926278ea27d) |
-| Sat, 30 Aug 2025 12:42:58 GMT | Love, Vulnerability and the God Who Is Love | Ohevet_Elohim | [Read More](https://medium.com/p/d5938e84eea8) |
-| Sat, 30 Aug 2025 12:39:39 GMT | How to Backup Gmail Emails to an NTFS Drive on Windows | Jeffreygarcia | [Read More](https://medium.com/p/fc9d2e725630) |
-| Sat, 30 Aug 2025 12:37:36 GMT | The Kind of Love I Pray For Now | Delulu & Divine | [Read More](https://medium.com/p/68c0adf09e6e) |
-| Sat, 30 Aug 2025 12:33:50 GMT | The Evolution of LockBit: From Takedown to Rebranding | Abatis ABTU | [Read More](https://medium.com/p/283a7a73b737) |
-| Sat, 30 Aug 2025 12:30:55 GMT | Men Won’t Admit It, But These 6 Traits Make a Woman Unforgettable | Maria Arshad | [Read More](https://medium.com/p/93d8414fcfb9) |
-| Sat, 30 Aug 2025 12:28:44 GMT | Vulnerability Scanning for ECR images | Jis Thomas | [Read More](https://medium.com/p/4906f4d4d7ac) |
