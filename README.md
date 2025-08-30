@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 14:03:49 GMT | Without Data, There Is No AI — and No Future | Sarvesh | [Read More](https://medium.com/p/1ad94c678f3d) |
+| Sat, 30 Aug 2025 14:01:35 GMT | TryHackMe Confidential —  Walkthrough ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef8c44eb7859) |
+| Sat, 30 Aug 2025 13:58:22 GMT | The Art of Writing a Killer Pentest Report | zerOiQ | [Read More](https://medium.com/p/1ed583bceaba) |
+| Sat, 30 Aug 2025 13:49:48 GMT | Port Checker — Test Open Ports Online Instantly | The Mistaken Man | [Read More](https://medium.com/p/fef15e65dea6) |
+| Sat, 30 Aug 2025 13:41:51 GMT | MrPhisher - TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/0d7a7efe8a95) |
+| Sat, 30 Aug 2025 13:36:55 GMT | From XSS to privesc in Wordpresss: Vulnerable plugins and Admin CSRF nonces to create a new Admin | Rogercastefdez | [Read More](https://medium.com/p/f5836e019689) |
 | Sat, 30 Aug 2025 13:32:43 GMT | Why Hashing Matters in Real-World Cybersecurity? | Kyrillos Kamal | [Read More](https://medium.com/p/070359e17442) |
+| Sat, 30 Aug 2025 13:31:35 GMT | The Truth About Authenticity: Why Being Real is the Key to True Love | Lucas Brown | [Read More](https://medium.com/p/e39ba2e3d4c3) |
 | Sat, 30 Aug 2025 13:20:25 GMT | The Day Traditional Security Became Obsolete — And the Invisible Crisis No One Sees Coming | Jonas Kjellin | [Read More](https://medium.com/p/0008053eb5be) |
 | Sat, 30 Aug 2025 13:17:35 GMT | Java Microservices Security: 7 Fatal Mistakes You Must Avoid | Quantum Tricks | [Read More](https://medium.com/p/c16fa8b86d7f) |
 | Sat, 30 Aug 2025 13:16:55 GMT | Vulnerability Scanning 101: Why It’s Essential for Modern Cybersecurity | Allendevaux Company | [Read More](https://medium.com/p/11d09fdf9adb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 06:55:14 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/52ed9bbbed18) |
 | Sat, 30 Aug 2025 06:54:18 GMT | “Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS” | Aman Sharma | [Read More](https://medium.com/p/0e2876b515a8) |
 | Sat, 30 Aug 2025 06:47:34 GMT | Bug Bounty:Las rutas olvidadas suelen ser las más vulnerables | Gorka | [Read More](https://medium.com/p/5793395d4281) |
-| Sat, 30 Aug 2025 06:41:23 GMT | That “Google Emergency Warning” for Gmail? Let’s Talk About What Really Happened. | Muhammad Saeed | [Read More](https://medium.com/p/f02ae7c85b38) |
-| Sat, 30 Aug 2025 06:40:09 GMT | Try ScamBare Text Scam Checker | ScamBare | [Read More](https://medium.com/p/c0906b52a3de) |
-| Sat, 30 Aug 2025 06:29:54 GMT | The Day Google Hit the Panic Button: What 2.5 Billion Gmail Users Need to Know Right Now | Muhammad Saeed | [Read More](https://medium.com/p/48a842eeba15) |
-| Sat, 30 Aug 2025 06:16:00 GMT | Critical Vulneribilty on Docker Desktop | Ardhrubo | [Read More](https://medium.com/p/5278f2553c4f) |
-| Sat, 30 Aug 2025 06:07:55 GMT | Top 10 Hacking Websites in 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/eca4f9729970) |
-| Sat, 30 Aug 2025 06:05:55 GMT | iOS Recon: Hunting Endpoints Inside IPA Files | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d495da38f5b) |
-| Sat, 30 Aug 2025 06:01:46 GMT | The Nx Nightmare: A Supply Chain Breach with AI in the Loop | Akanksha | [Read More](https://medium.com/p/f32233e0f830) |
