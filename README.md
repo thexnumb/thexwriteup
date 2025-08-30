@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 10:07:52 GMT | WhatsApp Releases Critical Security Update to Fix Zero Click Exploit Targeting iOS and macOS | Jasmitharouthu | [Read More](https://medium.com/p/cbf743fd2596) |
+| Sat, 30 Aug 2025 09:59:51 GMT | Comprehensive Cybersecurity Solutions for a Secure Future | Cisogenemarketing | [Read More](https://medium.com/p/a4ac8a5b93df) |
+| Sat, 30 Aug 2025 09:59:10 GMT | From Attack Intel to Production Detection: AI Approach to Detection Engineering | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/53c5b161782a) |
+| Sat, 30 Aug 2025 09:56:24 GMT | Google Dorking Secrets: 1000+ Hidden Queries That Find Bugs for You | Abhijeet kumawat | [Read More](https://medium.com/p/1c0ab68bd367) |
+| Sat, 30 Aug 2025 09:56:21 GMT | When Your Online Reputation is Under Attack, You Need Professional Help | Noblehackers                   The Noble Hackers | [Read More](https://medium.com/p/b742a782a2c2) |
+| Sat, 30 Aug 2025 09:52:12 GMT | U.S. Government Seizes Online Marketplaces Selling Fake Identity Documents | Jasmitharouthu | [Read More](https://medium.com/p/3056746a900b) |
+| Sat, 30 Aug 2025 09:45:36 GMT | How I Learned AWS Coming from GCP as a Security Engineer | Mayank | [Read More](https://medium.com/p/d27a75086ec9) |
+| Sat, 30 Aug 2025 09:39:50 GMT | ️ Automating SOC Alerts: Building a SIEM with OpenAI & ELK Stack | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b4b0ff908804) |
+| Sat, 30 Aug 2025 09:38:09 GMT | That Resignation Email? It Was A Warning. | Truspex | [Read More](https://medium.com/p/d2a9dd671c5f) |
+| Sat, 30 Aug 2025 09:36:33 GMT | ‍ “How to Teach Yourself Cybersecurity (Even If You’re a Beginner)” | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/ab3d5d37e87d) |
+| Sat, 30 Aug 2025 09:30:16 GMT | How One Missed Call Could Turn Your Phone Into a Spy Hub: The Shocking Truth About Pegasus Spyware | TheSocialHacker | [Read More](https://medium.com/p/26bc71ae7f52) |
 | Sat, 30 Aug 2025 09:20:11 GMT | The Memory That Lives in My Chest | Transformation and Equality Agenda (TEA NIGERIA) | [Read More](https://medium.com/p/7bcf74d54eb2) |
 | Sat, 30 Aug 2025 09:16:28 GMT | Writeup Template — TryHackMe / 0x41haz Box | 0x4y0ub | [Read More](https://medium.com/p/b73a18bd8586) |
 | Sat, 30 Aug 2025 09:13:33 GMT | Career Choices That Last: A Woman’s Guide to Making Informed Decisions | Poorvi Arora | [Read More](https://medium.com/p/8490a6d06a4a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 23:39:12 GMT | From Elasticsearch to ClickHouse: Why We Migrated Logalarm SIEM | Ahmet Kürşat ŞEROLAR | [Read More](https://medium.com/p/c0a8373e1809) |
 | Fri, 29 Aug 2025 23:35:01 GMT | LLM Security: Best Practices for Protecting Chatbots in Production | Ben Batman | [Read More](https://medium.com/p/d26e01d2c3dc) |
 | Fri, 29 Aug 2025 23:27:43 GMT | Generative Security: Continuously Evolving Attack and Defense Tactics | Lanhui chen | [Read More](https://medium.com/p/f47f68ea730a) |
-| Fri, 29 Aug 2025 23:22:33 GMT | Binding Operational Directive (BOD) Nedir? | Tarik Zeybek | [Read More](https://medium.com/p/12f682911148) |
-| Fri, 29 Aug 2025 23:10:10 GMT | From Payloads to Pwnage A Pentester’s Walkthrough of a Real-World Red Team Exam | pohackontas | [Read More](https://medium.com/p/2f933cf62334) |
-| Fri, 29 Aug 2025 22:55:43 GMT | Inside the Modern “Wiring Scam”: How Criminals Move Money — and How to Stop Them | Internet Exposed | [Read More](https://medium.com/p/007c15096094) |
-| Fri, 29 Aug 2025 22:25:41 GMT | Analysis of a Multi-Stage Windows Defender Bypass: Project Blackfin | Theo Mirzakhanian | [Read More](https://medium.com/p/e9b013c449bd) |
-| Fri, 29 Aug 2025 22:24:45 GMT | How I Recovered from Accidentally Deleting My 3-Month Training Dataset: A Data Scientist’s Worst… | Abduldattijo | [Read More](https://medium.com/p/9e52c907a731) |
-| Fri, 29 Aug 2025 22:20:36 GMT | 5 Hacking Tools Every IT Pro Should Understand (Ethically!) | Aj | [Read More](https://medium.com/p/6c73ee35ac62) |
-| Fri, 29 Aug 2025 22:20:29 GMT | A Comprehensive List of Free Websites for Learning Coding | loyalonlytoday | [Read More](https://medium.com/p/0aa1881a2f27) |
-| Fri, 29 Aug 2025 22:17:33 GMT | Detecting Malware via Behavioral SQLite Analysis | Karthikeyan Nagaraj | [Read More](https://medium.com/p/53cc1359d947) |
-| Fri, 29 Aug 2025 22:16:53 GMT | ️ How to Secure Your Small Business Router from Malware and Cyberthreats (2025 Edition) | Noel | [Read More](https://medium.com/p/c703082bb186) |
-| Fri, 29 Aug 2025 22:16:47 GMT | How Hackers Can Take Over a Company’s Subdomain (And How It Works) | Abhishek Bhujang | [Read More](https://medium.com/p/5c75faae3fc7) |
-| Fri, 29 Aug 2025 22:16:07 GMT | TryHackMe-  Introduction To EDR Solved | Samar Bedi | [Read More](https://medium.com/p/f1603227f7a9) |
