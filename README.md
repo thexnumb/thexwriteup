@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 11:08:03 GMT | ️  ’ :     ’… | Akhil Binu | [Read More](https://medium.com/p/6f2c2cc937c7) |
+| Sat, 30 Aug 2025 10:54:04 GMT | What’s Love Got to Do With it? On the Vulnerability Crisis | Raheema | [Read More](https://medium.com/p/53497bb6ef49) |
+| Sat, 30 Aug 2025 10:30:40 GMT | Assalam o alaikum for muslim brothers and hello for non muslims, i hope all of you are doing well… | insbat meg | [Read More](https://medium.com/p/71da6cffdea3) |
 | Sat, 30 Aug 2025 10:27:12 GMT | Why Most Cybersecurity Candidates Fail Interviews (Hint: It’s Not Just About Hands-On Skills) | The Daily Cyber News | [Read More](https://medium.com/p/8d24edbe1155) |
 | Sat, 30 Aug 2025 10:26:48 GMT | How i was abble to delete ORG with leaked token | Be nice insabat | [Read More](https://medium.com/p/4375c8eecc5b) |
 | Sat, 30 Aug 2025 10:25:57 GMT | Troubleshooting Kubernetes Master Node Certificate Expiry and API Server Access Issues: A… | Tech Trends Today | [Read More](https://medium.com/p/8d265bdbbf33) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 01:25:24 GMT | India Leads the Way: The World’s First Unhackable Messaging Service | Harsh duhan | [Read More](https://medium.com/p/6a8e3cbc5ea7) |
 | Sat, 30 Aug 2025 01:23:34 GMT | What Makes Certain Personality Types So Irresistibly Attractive? | Fower Leo | [Read More](https://medium.com/p/003d2b79dce7) |
 | Sat, 30 Aug 2025 01:13:36 GMT | Deep Connection: Why Profound Conversations Are Essential for Lasting Intimacy | Sevenqian | [Read More](https://medium.com/p/dcaf8c89ad91) |
-| Sat, 30 Aug 2025 00:57:35 GMT | A Data Scientist’s Guide to Not Getting Stalked Online (Too Much) | Michael Bagalman | [Read More](https://medium.com/p/699d0f373a82) |
-| Sat, 30 Aug 2025 00:35:31 GMT | Building Secure and Scalable Data Architectures with Databricks on AWS | Victor L. Batista | [Read More](https://medium.com/p/0d06d2b96e28) |
-| Sat, 30 Aug 2025 00:16:59 GMT | Stuck In Bug Hunting? Don’t Know Where To Go Now? Don’t Worry More. I Got You! | NnFace | [Read More](https://medium.com/p/261f533919aa) |
