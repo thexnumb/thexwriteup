@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 22:20:48 GMT | How VOXCompanies® Is Revolutionizing Its Industry | VOXCompanies | [Read More](https://medium.com/p/02f7e57931d4) |
+| Sat, 30 Aug 2025 22:17:56 GMT | I Automated WAF Bypass with Python and Fuzzing | Ibtissam hammadi | [Read More](https://medium.com/p/c24057e3617f) |
 | Sat, 30 Aug 2025 22:14:01 GMT | Active Defence: Building Proactive, In-Depth Cybersecurity Strategies | Richard Dosumu | [Read More](https://medium.com/p/21e84780149c) |
 | Sat, 30 Aug 2025 22:08:24 GMT | LetsDefend SOC Walkthrough - SOC282 — Phishing Alert: Deceptive Mail Detected | Andrew Williams | [Read More](https://medium.com/p/ef59e2b2f0f6) |
 | Sat, 30 Aug 2025 21:57:35 GMT | The Weight of a Like Button | Oren | [Read More](https://medium.com/p/318e3ccb66dc) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 15:23:26 GMT | The Surveillance State and Counter-Surveillance Tactics | Joel L | [Read More](https://medium.com/p/2477d3c88e12) |
 | Sat, 30 Aug 2025 15:13:17 GMT | Phishing Email Analysis Tools — Your Go-To Toolkit | Vijay Kumar Gupta | [Read More](https://medium.com/p/bfbcc45cd76f) |
 | Sat, 30 Aug 2025 15:11:46 GMT | Webcookoo: Enterprise-Grade Cybersecurity for the Quantum Era | Sumit Chauhan | [Read More](https://medium.com/p/3d6a7b6b13bc) |
-| Sat, 30 Aug 2025 15:11:05 GMT | Signal and Sabotage: My View of the Information War | Joel L | [Read More](https://medium.com/p/c15c16188b9f) |
-| Sat, 30 Aug 2025 15:06:34 GMT | Top AI Security Events | Tal Eliyahu | [Read More](https://medium.com/p/28ee7eb4d79c) |
