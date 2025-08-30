@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 01:13:36 GMT | Deep Connection: Why Profound Conversations Are Essential for Lasting Intimacy | Sevenqian | [Read More](https://medium.com/p/dcaf8c89ad91) |
+| Sat, 30 Aug 2025 00:57:35 GMT | A Data Scientist’s Guide to Not Getting Stalked Online (Too Much) | Michael Bagalman | [Read More](https://medium.com/p/699d0f373a82) |
+| Sat, 30 Aug 2025 00:35:31 GMT | Building Secure and Scalable Data Architectures with Databricks on AWS | Victor L. Batista | [Read More](https://medium.com/p/0d06d2b96e28) |
+| Sat, 30 Aug 2025 00:16:59 GMT | Stuck In Bug Hunting? Don’t Know Where To Go Now? Don’t Worry More. I Got You! | NnFace | [Read More](https://medium.com/p/261f533919aa) |
+| Sat, 30 Aug 2025 00:12:20 GMT | Future of Web Security — Passwordless Login, WebAuthn, MFA, hingga Quantum-Safe Encryption | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/c943b5ecc30d) |
+| Sat, 30 Aug 2025 00:09:22 GMT | Cracking Code, Catching Bugs: My Case Study of Three Vulnerability Hunts | LETCHU PKT | [Read More](https://medium.com/p/855fe0ef6e37) |
+| Sat, 30 Aug 2025 00:07:34 GMT | How I studied for (and passed) the CompTIA Network+ ce exam with an 823 | cat5eyez | [Read More](https://medium.com/p/c553b2b2e5a5) |
+| Sat, 30 Aug 2025 00:01:38 GMT | Assetfinder Guide: The Essential Tool for Subdomain Discovery in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/a703363a4598) |
+| Fri, 29 Aug 2025 23:39:12 GMT | From Elasticsearch to ClickHouse: Why We Migrated Logalarm SIEM | Ahmet Kürşat ŞEROLAR | [Read More](https://medium.com/p/c0a8373e1809) |
+| Fri, 29 Aug 2025 23:35:01 GMT | LLM Security: Best Practices for Protecting Chatbots in Production | Ben Batman | [Read More](https://medium.com/p/d26e01d2c3dc) |
 | Fri, 29 Aug 2025 23:27:43 GMT | Generative Security: Continuously Evolving Attack and Defense Tactics | Lanhui chen | [Read More](https://medium.com/p/f47f68ea730a) |
 | Fri, 29 Aug 2025 23:22:33 GMT | Binding Operational Directive (BOD) Nedir? | Tarik Zeybek | [Read More](https://medium.com/p/12f682911148) |
 | Fri, 29 Aug 2025 23:10:10 GMT | From Payloads to Pwnage A Pentester’s Walkthrough of a Real-World Red Team Exam | pohackontas | [Read More](https://medium.com/p/2f933cf62334) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 16:30:06 GMT | Security Misconfiguration (OWASP Top 10 #5) — Simplified | Chai | [Read More](https://medium.com/p/e6f02e084505) |
 | Fri, 29 Aug 2025 16:28:42 GMT | Adversary In The Middle Attacks Bypassing MFA and EDR -A Growing Cybersecurity Concern | Chetan Seripally | [Read More](https://medium.com/p/aaa4a0c9ff48) |
 | Fri, 29 Aug 2025 16:27:18 GMT | ️ 10 Node.js Security Best Practices You Shouldn’t Ignore in 2025 | Sachin Kasana | [Read More](https://medium.com/p/a066ea08caf6) |
-| Fri, 29 Aug 2025 16:16:12 GMT | Building a Vector-Based Prompt Injection Protection System: The Prompt_Protection Approach | Shashank N | [Read More](https://medium.com/p/d5a877d103f6) |
-| Fri, 29 Aug 2025 16:15:44 GMT | Why Do We Need Memory-Safe Languages?: Tales of 3 Languages (C, Python, Rust) | Sae-Hwan Park | [Read More](https://medium.com/p/e3261066f10f) |
-| Fri, 29 Aug 2025 16:13:46 GMT | Top Benefits of IT Outsourcing from India for Startups and Enterprises | MilanH | [Read More](https://medium.com/p/8b08b1d469f3) |
-| Fri, 29 Aug 2025 16:12:30 GMT | Your VPN Is Selling Your Data to the Highest Bidder | Sohail Saifi | [Read More](https://medium.com/p/c905a060e854) |
-| Fri, 29 Aug 2025 16:11:49 GMT | Stop Using Nested IFs in SQL — Do This Instead | Aman Sharma | [Read More](https://medium.com/p/84b6ea6c49c4) |
-| Fri, 29 Aug 2025 16:09:28 GMT | Why Professional Security Guards are Still the Strongest Line of Defense | Nimra Sheikh | [Read More](https://medium.com/p/c2c0a22a499f) |
-| Fri, 29 Aug 2025 16:09:20 GMT | CSRF Attack Simulation: When Trust Becomes Your Greatest Enemy | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c6d7a8a6cec2) |
-| Fri, 29 Aug 2025 16:07:58 GMT | How I Found Critical Vulnerabilities in My Company’s Camera System (First Walkthrough) | João Teodoro | [Read More](https://medium.com/p/01d602cc9d8d) |
-| Fri, 29 Aug 2025 16:06:16 GMT | CVE-2018–25115: D-Link Routers RCE — Your Router’s Wide Open! | CVEHUB | [Read More](https://medium.com/p/99967c835729) |
-| Fri, 29 Aug 2025 16:04:52 GMT | ScamScan: Using AI to Outsmart Fraudulent Websites | Gumpu UshaSri | [Read More](https://medium.com/p/c66a966318d6) |
