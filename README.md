@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 23:06:06 GMT | System-Host Based Attacks CTF 2 | Hejackson | [Read More](https://medium.com/p/e91bc3a51baf) |
+| Sat, 30 Aug 2025 23:04:23 GMT | E3 — Phishing Macro to PowerShell C2 | Shantaciak | [Read More](https://medium.com/p/c1b0bfd5759a) |
+| Sat, 30 Aug 2025 23:02:28 GMT | Two Million — HTB | Mkirahmet | [Read More](https://medium.com/p/54efd3b9fdcb) |
+| Sat, 30 Aug 2025 22:54:47 GMT | Regex challenges writeup — AppSecMaster | 0xMyth | [Read More](https://medium.com/p/1d5b0834c73e) |
+| Sat, 30 Aug 2025 22:45:28 GMT | Game of Prompts: Roleplay Attacks Against LLM based AI | Prathmesh Salunke | [Read More](https://medium.com/p/8b41c93a51b7) |
+| Sat, 30 Aug 2025 22:41:56 GMT | Learn to Hack Anything: One-on-One Cybersecurity Masterclass Facilitated by Veteran Black Hat… | SinVictus | [Read More](https://medium.com/p/e4316ea53f23) |
+| Sat, 30 Aug 2025 22:35:50 GMT | File Upload Bypass: Understanding and Mitigating Risks in Web Applications - Hidden Investigations | Hidden Investigations | [Read More](https://medium.com/p/33bd91f546de) |
+| Sat, 30 Aug 2025 22:27:20 GMT | Weekly Round Up — August 30 | litwtch | [Read More](https://medium.com/p/a1fab27e6634) |
 | Sat, 30 Aug 2025 22:20:48 GMT | How VOXCompanies® Is Revolutionizing Its Industry | VOXCompanies | [Read More](https://medium.com/p/02f7e57931d4) |
 | Sat, 30 Aug 2025 22:17:56 GMT | I Automated WAF Bypass with Python and Fuzzing | Ibtissam hammadi | [Read More](https://medium.com/p/c24057e3617f) |
 | Sat, 30 Aug 2025 22:14:01 GMT | Active Defence: Building Proactive, In-Depth Cybersecurity Strategies | Richard Dosumu | [Read More](https://medium.com/p/21e84780149c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 15:43:27 GMT | The Way I Keep My Bags Safe in Web3 | Fanreza | [Read More](https://medium.com/p/f449882f7c73) |
 | Sat, 30 Aug 2025 15:39:50 GMT | Cyber Risk and Exposure: Where Risk Meets Reality | Juan Pablo Castro | [Read More](https://medium.com/p/fc301ad9c786) |
 | Sat, 30 Aug 2025 15:39:31 GMT | ⚡ From Zero to Hacker: Set Up Your Own Cyber Lab at Home ️‍♂️ | RootXploit.0x | [Read More](https://medium.com/p/958b7f669b5a) |
-| Sat, 30 Aug 2025 15:30:24 GMT | FREE 10-Day GOLDEN PLAN for xss0r V5 — As Promised! | xss0r | [Read More](https://medium.com/p/cdded17fbade) |
-| Sat, 30 Aug 2025 15:29:31 GMT | SSTI Vulnerability | Rajsegar Alagarathnam | [Read More](https://medium.com/p/3fb0f5fc6712) |
-| Sat, 30 Aug 2025 15:29:16 GMT | AI Can’t Judge Intent: Application Control Wins | Shahzaib | [Read More](https://medium.com/p/7ef329b43ed5) |
-| Sat, 30 Aug 2025 15:27:49 GMT | Phishing: a low-paid, low-skills enterprise? | Security Skeptic | [Read More](https://medium.com/p/987a95a1eca1) |
-| Sat, 30 Aug 2025 15:24:39 GMT | The Social Engineer’s Toolkit: How Words Become Digital Lockpicks | Aj | [Read More](https://medium.com/p/8cd44d0f8039) |
-| Sat, 30 Aug 2025 15:23:26 GMT | The Surveillance State and Counter-Surveillance Tactics | Joel L | [Read More](https://medium.com/p/2477d3c88e12) |
-| Sat, 30 Aug 2025 15:13:17 GMT | Phishing Email Analysis Tools — Your Go-To Toolkit | Vijay Kumar Gupta | [Read More](https://medium.com/p/bfbcc45cd76f) |
-| Sat, 30 Aug 2025 15:11:46 GMT | Webcookoo: Enterprise-Grade Cybersecurity for the Quantum Era | Sumit Chauhan | [Read More](https://medium.com/p/3d6a7b6b13bc) |
