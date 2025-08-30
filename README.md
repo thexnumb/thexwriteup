@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 13:20:25 GMT | The Day Traditional Security Became Obsolete — And the Invisible Crisis No One Sees Coming | Jonas Kjellin | [Read More](https://medium.com/p/0008053eb5be) |
+| Sat, 30 Aug 2025 13:17:35 GMT | Java Microservices Security: 7 Fatal Mistakes You Must Avoid | Quantum Tricks | [Read More](https://medium.com/p/c16fa8b86d7f) |
+| Sat, 30 Aug 2025 13:16:55 GMT | Vulnerability Scanning 101: Why It’s Essential for Modern Cybersecurity | Allendevaux Company | [Read More](https://medium.com/p/11d09fdf9adb) |
+| Sat, 30 Aug 2025 13:16:06 GMT | Web Application Architecture | Iserjaoui | [Read More](https://medium.com/p/e0281cb97cbe) |
+| Sat, 30 Aug 2025 13:01:40 GMT | VPN (Virtual Private Network) — A Deep Dive Explained Simply | Akhil Boddula | [Read More](https://medium.com/p/8691c31c7549) |
+| Sat, 30 Aug 2025 12:57:35 GMT | How AI is Transforming Cybersecurity: From Reactive Defense to Proactive Intelligence | Shayan Sharifi | [Read More](https://medium.com/p/7fc43ce28658) |
+| Sat, 30 Aug 2025 12:55:39 GMT | Zero Trust Meets Blockchain: A Perfect Match for the Future of Security | Rahul Balaskandan | [Read More](https://medium.com/p/ef6d2ba95760) |
+| Sat, 30 Aug 2025 12:51:11 GMT | The Acceleration of Cyber Threats: Why “Detect, Respond & Mitigate” Is No Longer Enough | Abatis ABTU | [Read More](https://medium.com/p/04c01f007d1d) |
+| Sat, 30 Aug 2025 12:49:59 GMT | How I Got CompTIA Network+ and Security+ Certified in 8 Days | Gabriel Drouin | [Read More](https://medium.com/p/22950f29a4ab) |
+| Sat, 30 Aug 2025 12:43:47 GMT | How do Dubai app developers help businesses grow digitally? | Five Programmers | [Read More](https://medium.com/p/36fd063070a9) |
+| Sat, 30 Aug 2025 12:43:05 GMT | The New Digital Frontier: Navigating the Threats and Cultivating Resilience Against Deepfakes | Sagar Majumdar | [Read More](https://medium.com/p/8926278ea27d) |
+| Sat, 30 Aug 2025 12:42:58 GMT | Love, Vulnerability and the God Who Is Love | Ohevet_Elohim | [Read More](https://medium.com/p/d5938e84eea8) |
+| Sat, 30 Aug 2025 12:39:39 GMT | How to Backup Gmail Emails to an NTFS Drive on Windows | Jeffreygarcia | [Read More](https://medium.com/p/fc9d2e725630) |
+| Sat, 30 Aug 2025 12:37:36 GMT | The Kind of Love I Pray For Now | Delulu & Divine | [Read More](https://medium.com/p/68c0adf09e6e) |
+| Sat, 30 Aug 2025 12:33:50 GMT | The Evolution of LockBit: From Takedown to Rebranding | Abatis ABTU | [Read More](https://medium.com/p/283a7a73b737) |
+| Sat, 30 Aug 2025 12:30:55 GMT | Men Won’t Admit It, But These 6 Traits Make a Woman Unforgettable | Maria Arshad | [Read More](https://medium.com/p/93d8414fcfb9) |
 | Sat, 30 Aug 2025 12:28:44 GMT | Vulnerability Scanning for ECR images | Jis Thomas | [Read More](https://medium.com/p/4906f4d4d7ac) |
 | Sat, 30 Aug 2025 12:26:41 GMT | Day 20 — Server-Side Request Forgery (SSRF): A Silent But Dangerous Threat | Puneet | [Read More](https://medium.com/p/6116f96a0163) |
+| Sat, 30 Aug 2025 12:22:20 GMT | The Evolution of Malware: From Creeper to Cyberwarfare — What’s Next? | Abatis ABTU | [Read More](https://medium.com/p/161fc31746d6) |
 | Sat, 30 Aug 2025 12:20:32 GMT | Silent harvest: extracting windows secrets under the radar | Yaniv | [Read More](https://medium.com/p/b71a21e86514) |
 | Sat, 30 Aug 2025 12:20:12 GMT | A Journey Through Kenya: A Story of Safe and Joyful Travel | Dantravel Hub | [Read More](https://medium.com/p/2ba6028b378d) |
 | Sat, 30 Aug 2025 12:10:40 GMT | Techniques Used for IP Logging | Cyber Fortress | [Read More](https://medium.com/p/c46315fd7ae5) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 06:05:55 GMT | iOS Recon: Hunting Endpoints Inside IPA Files | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d495da38f5b) |
 | Sat, 30 Aug 2025 06:01:46 GMT | The Nx Nightmare: A Supply Chain Breach with AI in the Loop | Akanksha | [Read More](https://medium.com/p/f32233e0f830) |
 | Sat, 30 Aug 2025 06:01:43 GMT | The Manifest Speaks — Deep Recon & Hardening Guide for AndroidManifest.xml | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d901e1ff0317) |
-| Sat, 30 Aug 2025 05:59:27 GMT | Top 10 Ransomware Recovery Companies in Canada (2025 Edition) | One arrow consulting inc | [Read More](https://medium.com/p/d416fb5d6f95) |
-| Sat, 30 Aug 2025 05:56:51 GMT | How VPNs Protect Corporate Networks — And When They Don’t | Abida Adra | [Read More](https://medium.com/p/bf389a63d62b) |
-| Sat, 30 Aug 2025 05:51:42 GMT | How to Defend Against Deepfakes, AI Phishing & Ransomware | Securseedmena | [Read More](https://medium.com/p/a530396746d8) |
-| Sat, 30 Aug 2025 05:49:19 GMT | APK Goldmine: How Reverse Engineering Reveals Hidden APIs | Narendar Battula (nArEn) | [Read More](https://medium.com/p/11401562d3d0) |
-| Sat, 30 Aug 2025 05:48:19 GMT | Android 16 Release Date & Features: The Complete 2025 Guide | Pimrada Thavorn | [Read More](https://medium.com/p/5523d0592d9f) |
-| Sat, 30 Aug 2025 05:46:00 GMT | Vegeta Walkthrough: A Clean, Rabbit-Hole-Free Path to Root | Abhinsubej | [Read More](https://medium.com/p/13f5b4575b26) |
-| Sat, 30 Aug 2025 05:34:54 GMT | How I Built a Real-Time Phishing Triage System | Huy Tran | [Read More](https://medium.com/p/3bb1643c8c10) |
-| Sat, 30 Aug 2025 05:23:47 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/e8842d66b03e) |
-| Sat, 30 Aug 2025 05:18:55 GMT | Cybersecurity Strategic Transformation: Why Is It So Hard? | JC Gaillard | [Read More](https://medium.com/p/247cbb1787bb) |
-| Sat, 30 Aug 2025 05:07:15 GMT | ISO 42001: The AI Management System Standard Every Leader Needs to Know | Sairaj Mahesh | [Read More](https://medium.com/p/4cbe1f531e65) |
-| Sat, 30 Aug 2025 05:04:15 GMT | Seen USDT Appear Without a Transaction? That’s Flash | Nicki | [Read More](https://medium.com/p/6a7de2b4a3f9) |
-| Sat, 30 Aug 2025 04:56:25 GMT | Difference Between CISM and Entry-Level Security Certifications | Dhanashri Bhale | [Read More](https://medium.com/p/9c178ba2f065) |
-| Sat, 30 Aug 2025 04:49:32 GMT | Malware-as-a-Service (MaaS): The Netflix Model for Hackers | Paritosh | [Read More](https://medium.com/p/7142d3de4c49) |
-| Sat, 30 Aug 2025 04:46:57 GMT | Recon Renaissance: How a Single Subdomain Led Me to a Goldmine of Bugs | Iski | [Read More](https://medium.com/p/2ac699366cd5) |
-| Sat, 30 Aug 2025 04:45:50 GMT | The Symbiotic Constitution: A Radical New Blueprint for Self-Emergent AI Ethics | handman | [Read More](https://medium.com/p/fc56e2266590) |
-| Sat, 30 Aug 2025 04:39:50 GMT | Build Your Own Cybersecurity Lab | Rahisul | [Read More](https://medium.com/p/e7dc29e64156) |
-| Sat, 30 Aug 2025 04:37:44 GMT | Beyond the Gate: Integrated Security with Smart Barrier Systems in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/745586c54c69) |
