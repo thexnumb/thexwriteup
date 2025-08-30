@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 04:37:00 GMT | Sam Altman Confirms the AI Bubble Is Real | Motherlandlove | [Read More](https://medium.com/p/0daa6cfc46de) |
+| Sat, 30 Aug 2025 04:31:07 GMT | Internal Pentesting: User Machines | Walter Cuestas | [Read More](https://medium.com/p/4c5a17cbb54d) |
+| Sat, 30 Aug 2025 04:27:37 GMT | Challenge Lab — Find the Imposter — Layer 2 (walkthrough) | mossaab mahieddine | [Read More](https://medium.com/p/67d9eb7641bd) |
 | Sat, 30 Aug 2025 04:15:33 GMT | Oopsie — Hack The Box | R37R0 | [Read More](https://medium.com/p/1aed49c10266) |
 | Sat, 30 Aug 2025 04:09:36 GMT | Python for Hackers: Scripts That Can Find Vulnerabilities in Minutes | Sukhveer Singh | [Read More](https://medium.com/p/81620e8c7319) |
 | Sat, 30 Aug 2025 04:04:46 GMT | THM: Basic Pentesting | Zaakceptowac | [Read More](https://medium.com/p/f599219411dd) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 18:01:34 GMT | Identity Management: Reinventing Access in 2025 | Hash Block | [Read More](https://medium.com/p/5d0fbb6b7ba6) |
 | Fri, 29 Aug 2025 18:01:34 GMT | AI-Driven Threat Intelligence: Securing the Invisible | Thinking Loop | [Read More](https://medium.com/p/e019f92572ce) |
 | Fri, 29 Aug 2025 18:00:55 GMT | Top Ways to Shield Your Business from 2025 Cyber Threats | Jazz Cyber Shield | [Read More](https://medium.com/p/68c17c8be4de) |
-| Fri, 29 Aug 2025 17:59:21 GMT | The Turning Point: How Hacking Entered My Life and Shaped My Future | Shahzaib | [Read More](https://medium.com/p/dbc85660c60b) |
-| Fri, 29 Aug 2025 17:56:37 GMT | Why Most Businesses Fail Online (And How to Fix It) | NexPower Solutions | [Read More](https://medium.com/p/e9bfc468c0ed) |
-| Fri, 29 Aug 2025 17:56:21 GMT | Give credit where credit is due. Never knew their names. I appreciate their genius. | Treathyl Fox aka cmoneyspinner | [Read More](https://medium.com/p/f26add0a61ec) |
