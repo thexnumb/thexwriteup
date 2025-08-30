@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 07:09:11 GMT | Poisoned Pipeline: When Your Dev Tools Betray You | Aj | [Read More](https://medium.com/p/95de2eff142b) |
+| Sat, 30 Aug 2025 07:08:23 GMT | Why I Chose to Become a Hacker Who Protects, Not Destroys | Shahzaib | [Read More](https://medium.com/p/719b47bac05a) |
+| Sat, 30 Aug 2025 07:01:41 GMT | Comment l’IA Réinvente la Cybersécurité | David C. | [Read More](https://medium.com/p/af654e16f7e4) |
+| Sat, 30 Aug 2025 07:01:40 GMT | How AI Is Transforming Cybersecurity | David C. | [Read More](https://medium.com/p/6873d606b823) |
+| Sat, 30 Aug 2025 07:00:43 GMT | Endpoint Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/67afd8d82837) |
+| Sat, 30 Aug 2025 07:00:22 GMT | TryHackme - Python Basics | Salemabdullah | [Read More](https://medium.com/p/d969580ee449) |
+| Sat, 30 Aug 2025 06:55:14 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/52ed9bbbed18) |
+| Sat, 30 Aug 2025 06:54:18 GMT | “Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS” | Aman Sharma | [Read More](https://medium.com/p/0e2876b515a8) |
+| Sat, 30 Aug 2025 06:47:34 GMT | Bug Bounty:Las rutas olvidadas suelen ser las más vulnerables | Gorka | [Read More](https://medium.com/p/5793395d4281) |
+| Sat, 30 Aug 2025 06:41:23 GMT | That “Google Emergency Warning” for Gmail? Let’s Talk About What Really Happened. | Muhammad Saeed | [Read More](https://medium.com/p/f02ae7c85b38) |
 | Sat, 30 Aug 2025 06:40:09 GMT | Try ScamBare Text Scam Checker | ScamBare | [Read More](https://medium.com/p/c0906b52a3de) |
 | Sat, 30 Aug 2025 06:29:54 GMT | The Day Google Hit the Panic Button: What 2.5 Billion Gmail Users Need to Know Right Now | Muhammad Saeed | [Read More](https://medium.com/p/48a842eeba15) |
 | Sat, 30 Aug 2025 06:16:00 GMT | Critical Vulneribilty on Docker Desktop | Ardhrubo | [Read More](https://medium.com/p/5278f2553c4f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 20:29:47 GMT | How to Turn Your Raspberry Pi Into a Firewall for Home and Small Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/6948946ff75e) |
 | Fri, 29 Aug 2025 20:21:44 GMT | Think your small business is too tiny for hackers to notice? | Breeze End Technology | [Read More](https://medium.com/p/fc038195ca08) |
 | Fri, 29 Aug 2025 20:20:18 GMT | CTI Diaries #7: Dissemination and Actionability | Deniz Topaloglu | [Read More](https://medium.com/p/1212bddd081c) |
-| Fri, 29 Aug 2025 20:15:02 GMT | How SSH Really Works: From ssh user@host to dropping in a Shell step-by-step | Jimmex04 | [Read More](https://medium.com/p/89c961902b14) |
-| Fri, 29 Aug 2025 20:02:28 GMT | Sneak Peek: Top 5 VPNs to Lock Down 2025 | TechMate | [Read More](https://medium.com/p/059d5e34682c) |
-| Fri, 29 Aug 2025 19:59:39 GMT | Learning to Walk Again: The Beauty of Vulnerability | Farida E.U | [Read More](https://medium.com/p/cafc31725abc) |
-| Fri, 29 Aug 2025 19:56:56 GMT | ISO/IEC 27018:2025 : Nouvelle version pour les processeurs infonuagiques | Patrick Boucher | [Read More](https://medium.com/p/0ead3ad7f769) |
-| Fri, 29 Aug 2025 19:50:09 GMT | The Day I Almost Became Someone Else’s Face | PJ Sheini | [Read More](https://medium.com/p/91edd8409d6e) |
-| Fri, 29 Aug 2025 19:47:16 GMT | The Invisible Enemy: Why Organizations Over-Defend Against External Threats While Underestimating… | Prashanth Chandika | [Read More](https://medium.com/p/37a3eb7f496e) |
-| Fri, 29 Aug 2025 19:46:07 GMT | Rust Security Bugs Explained with Simple Metaphors | AIAlchemist_Ab1r | [Read More](https://medium.com/p/8248c9ec0576) |
-| Fri, 29 Aug 2025 19:41:26 GMT | Why I Quit Bug Bounty | Calvaryhasarrived | [Read More](https://medium.com/p/a861f914a14e) |
-| Fri, 29 Aug 2025 19:27:43 GMT | Deepfake Voice Scams on WhatsApp: The new face of identity theft | Sol González | [Read More](https://medium.com/p/d45ec3455d76) |
-| Fri, 29 Aug 2025 19:03:34 GMT | Snowflake Without Password: How Workload Identity Federation Simplifies Authentication | Umesh Patel | [Read More](https://medium.com/p/ede148faf1fd) |
