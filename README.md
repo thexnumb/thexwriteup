@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 05:04:15 GMT | Seen USDT Appear Without a Transaction? That’s Flash | Nicki | [Read More](https://medium.com/p/6a7de2b4a3f9) |
+| Sat, 30 Aug 2025 04:56:25 GMT | Difference Between CISM and Entry-Level Security Certifications | Dhanashri Bhale | [Read More](https://medium.com/p/9c178ba2f065) |
+| Sat, 30 Aug 2025 04:49:32 GMT | Malware-as-a-Service (MaaS): The Netflix Model for Hackers | Paritosh | [Read More](https://medium.com/p/7142d3de4c49) |
+| Sat, 30 Aug 2025 04:46:57 GMT | Recon Renaissance: How a Single Subdomain Led Me to a Goldmine of Bugs | Iski | [Read More](https://medium.com/p/2ac699366cd5) |
+| Sat, 30 Aug 2025 04:45:50 GMT | The Symbiotic Constitution: A Radical New Blueprint for Self-Emergent AI Ethics | handman | [Read More](https://medium.com/p/fc56e2266590) |
+| Sat, 30 Aug 2025 04:39:50 GMT | Build Your Own Cybersecurity Lab | Rahisul | [Read More](https://medium.com/p/e7dc29e64156) |
+| Sat, 30 Aug 2025 04:37:44 GMT | Beyond the Gate: Integrated Security with Smart Barrier Systems in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/745586c54c69) |
 | Sat, 30 Aug 2025 04:37:00 GMT | Sam Altman Confirms the AI Bubble Is Real | Motherlandlove | [Read More](https://medium.com/p/0daa6cfc46de) |
 | Sat, 30 Aug 2025 04:31:07 GMT | Internal Pentesting: User Machines | Walter Cuestas | [Read More](https://medium.com/p/4c5a17cbb54d) |
 | Sat, 30 Aug 2025 04:27:37 GMT | Challenge Lab — Find the Imposter — Layer 2 (walkthrough) | mossaab mahieddine | [Read More](https://medium.com/p/67d9eb7641bd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 18:19:31 GMT | Analyzing Security Operations and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/66007783f816) |
 | Fri, 29 Aug 2025 18:17:51 GMT | Analyzing Security Operations and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/bb16671a2441) |
 | Fri, 29 Aug 2025 18:17:15 GMT | Installation Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/7696f55051bf) |
-| Fri, 29 Aug 2025 18:13:31 GMT | What I’m Betting On for Drosera — the impacts to expect in DeFi . | Maveriick | [Read More](https://medium.com/p/00d8010ea03c) |
-| Fri, 29 Aug 2025 18:12:22 GMT | Anonymous are against catholic ? | Tahir Malik | [Read More](https://medium.com/p/553c98828d9a) |
-| Fri, 29 Aug 2025 18:11:42 GMT | Building a Successful Dark Web Monitoring Service for MSPs | SafeAeon Inc. | [Read More](https://medium.com/p/fe066de6384f) |
-| Fri, 29 Aug 2025 18:10:03 GMT | The JavaScript Tool I Built to Turn Static Websites Into Interactive Apps | Kainat Nafees | [Read More](https://medium.com/p/8ef5d90f74b8) |
-| Fri, 29 Aug 2025 18:01:34 GMT | Identity Management: Reinventing Access in 2025 | Hash Block | [Read More](https://medium.com/p/5d0fbb6b7ba6) |
-| Fri, 29 Aug 2025 18:01:34 GMT | AI-Driven Threat Intelligence: Securing the Invisible | Thinking Loop | [Read More](https://medium.com/p/e019f92572ce) |
-| Fri, 29 Aug 2025 18:00:55 GMT | Top Ways to Shield Your Business from 2025 Cyber Threats | Jazz Cyber Shield | [Read More](https://medium.com/p/68c17c8be4de) |
