@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 06:40:09 GMT | Try ScamBare Text Scam Checker | ScamBare | [Read More](https://medium.com/p/c0906b52a3de) |
+| Sat, 30 Aug 2025 06:29:54 GMT | The Day Google Hit the Panic Button: What 2.5 Billion Gmail Users Need to Know Right Now | Muhammad Saeed | [Read More](https://medium.com/p/48a842eeba15) |
 | Sat, 30 Aug 2025 06:16:00 GMT | Critical Vulneribilty on Docker Desktop | Ardhrubo | [Read More](https://medium.com/p/5278f2553c4f) |
 | Sat, 30 Aug 2025 06:07:55 GMT | Top 10 Hacking Websites in 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/eca4f9729970) |
 | Sat, 30 Aug 2025 06:05:55 GMT | iOS Recon: Hunting Endpoints Inside IPA Files | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d495da38f5b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 19:41:26 GMT | Why I Quit Bug Bounty | Calvaryhasarrived | [Read More](https://medium.com/p/a861f914a14e) |
 | Fri, 29 Aug 2025 19:27:43 GMT | Deepfake Voice Scams on WhatsApp: The new face of identity theft | Sol González | [Read More](https://medium.com/p/d45ec3455d76) |
 | Fri, 29 Aug 2025 19:03:34 GMT | Snowflake Without Password: How Workload Identity Federation Simplifies Authentication | Umesh Patel | [Read More](https://medium.com/p/ede148faf1fd) |
-| Fri, 29 Aug 2025 19:01:21 GMT | CompTIA Security+ in 2025: Why This Certification Still Builds the Strongest Cybersecurity… | Saurabh Kohli | [Read More](https://medium.com/p/550d5ce17449) |
-| Fri, 29 Aug 2025 18:54:56 GMT | What Happens to Your Passwords Behind the Scenes | Arpit Asati | [Read More](https://medium.com/p/3fb142da7967) |
