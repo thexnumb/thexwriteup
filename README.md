@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 09:20:11 GMT | The Memory That Lives in My Chest | Transformation and Equality Agenda (TEA NIGERIA) | [Read More](https://medium.com/p/7bcf74d54eb2) |
+| Sat, 30 Aug 2025 09:16:28 GMT | Writeup Template — TryHackMe / 0x41haz Box | 0x4y0ub | [Read More](https://medium.com/p/b73a18bd8586) |
 | Sat, 30 Aug 2025 09:13:33 GMT | Career Choices That Last: A Woman’s Guide to Making Informed Decisions | Poorvi Arora | [Read More](https://medium.com/p/8490a6d06a4a) |
 | Sat, 30 Aug 2025 08:55:14 GMT | Ikaw, Saan Mo Gusto? | TheBoyWhoCriedWolf | [Read More](https://medium.com/p/f551ca4b0063) |
 | Sat, 30 Aug 2025 08:51:31 GMT | ️ Building My Own OSINT Framework: From Beginner Script to Reconnaissance Tool | Rohit Sahani | [Read More](https://medium.com/p/63e555e60c5f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 22:16:53 GMT | ️ How to Secure Your Small Business Router from Malware and Cyberthreats (2025 Edition) | Noel | [Read More](https://medium.com/p/c703082bb186) |
 | Fri, 29 Aug 2025 22:16:47 GMT | How Hackers Can Take Over a Company’s Subdomain (And How It Works) | Abhishek Bhujang | [Read More](https://medium.com/p/5c75faae3fc7) |
 | Fri, 29 Aug 2025 22:16:07 GMT | TryHackMe-  Introduction To EDR Solved | Samar Bedi | [Read More](https://medium.com/p/f1603227f7a9) |
-| Fri, 29 Aug 2025 22:14:49 GMT | 40 AI Terms You Need to Know (Explained Clearly) | Hemant Patkar, CISSP | [Read More](https://medium.com/p/a4e625aa7fe2) |
-| Fri, 29 Aug 2025 22:14:41 GMT | The Real Cost of Getting Hacked: It’s More Than Just Money | Shahzaib | [Read More](https://medium.com/p/af439e850f72) |
