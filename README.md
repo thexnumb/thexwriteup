@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 07:33:25 GMT | The Wi-Fi I Never Asked For | 0xChill | [Read More](https://medium.com/p/cf24508a06df) |
+| Sat, 30 Aug 2025 07:24:27 GMT | Future-Proof Your Career with Cybersecurity Training in Madurai | Michael Antony | [Read More](https://medium.com/p/224873d337d8) |
+| Sat, 30 Aug 2025 07:19:04 GMT | What I learned from my mind torturing me (and what you shouldn’t do when your thoughts won’t stop) | David Rodriguez | [Read More](https://medium.com/p/9ed4ba57716b) |
+| Sat, 30 Aug 2025 07:11:26 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/259b3fc01392) |
+| Sat, 30 Aug 2025 07:11:18 GMT | Secure Django Auth — Drop-in Authentication with MFA, Social Login & Brute-Force Protection | Nuggtjulie | [Read More](https://medium.com/p/fb9676166d4f) |
 | Sat, 30 Aug 2025 07:09:11 GMT | Poisoned Pipeline: When Your Dev Tools Betray You | Aj | [Read More](https://medium.com/p/95de2eff142b) |
 | Sat, 30 Aug 2025 07:08:23 GMT | Why I Chose to Become a Hacker Who Protects, Not Destroys | Shahzaib | [Read More](https://medium.com/p/719b47bac05a) |
 | Sat, 30 Aug 2025 07:01:41 GMT | Comment l’IA Réinvente la Cybersécurité | David C. | [Read More](https://medium.com/p/af654e16f7e4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 21:11:33 GMT | Introduction | Deepak Gupta | [Read More](https://medium.com/p/d6ada04d0cc6) |
 | Fri, 29 Aug 2025 21:10:16 GMT | Yuzu Encryption Keys: What They Are and How They Work | SafeAeon Inc. | [Read More](https://medium.com/p/319849e97cde) |
 | Fri, 29 Aug 2025 21:00:14 GMT | The Linux Security Journey — Grsecurity | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5d2592277693) |
-| Fri, 29 Aug 2025 20:37:51 GMT | Hacking APIs: Exploiting Misconfigured CORS Step by Step | Israel Aráoz Severiche | [Read More](https://medium.com/p/182ca15bfd72) |
-| Fri, 29 Aug 2025 20:36:45 GMT | OSCP Tactics: Tunneling and Port Forwarding | enigma_ | [Read More](https://medium.com/p/8027efd2bdbf) |
-| Fri, 29 Aug 2025 20:29:47 GMT | How to Turn Your Raspberry Pi Into a Firewall for Home and Small Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/6948946ff75e) |
-| Fri, 29 Aug 2025 20:21:44 GMT | Think your small business is too tiny for hackers to notice? | Breeze End Technology | [Read More](https://medium.com/p/fc038195ca08) |
-| Fri, 29 Aug 2025 20:20:18 GMT | CTI Diaries #7: Dissemination and Actionability | Deniz Topaloglu | [Read More](https://medium.com/p/1212bddd081c) |
