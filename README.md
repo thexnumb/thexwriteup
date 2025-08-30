@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 22:14:01 GMT | Active Defence: Building Proactive, In-Depth Cybersecurity Strategies | Richard Dosumu | [Read More](https://medium.com/p/21e84780149c) |
+| Sat, 30 Aug 2025 22:08:24 GMT | LetsDefend SOC Walkthrough - SOC282 — Phishing Alert: Deceptive Mail Detected | Andrew Williams | [Read More](https://medium.com/p/ef59e2b2f0f6) |
+| Sat, 30 Aug 2025 21:57:35 GMT | The Weight of a Like Button | Oren | [Read More](https://medium.com/p/318e3ccb66dc) |
+| Sat, 30 Aug 2025 21:53:43 GMT | Building a FAIR Prompt Library | Lance Cummings PhD | [Read More](https://medium.com/p/5c287877e7f4) |
+| Sat, 30 Aug 2025 21:52:24 GMT | Pickle Rick CTF- TryHackme Write-Up - Pt-Br | LonfLonf | [Read More](https://medium.com/p/fe850f15369b) |
+| Sat, 30 Aug 2025 21:43:34 GMT | Entendendo como funcionam as permissões no Linux | Abraao G. Halcsik | [Read More](https://medium.com/p/cdb02fe6de52) |
 | Sat, 30 Aug 2025 21:33:19 GMT | ️‍♂️ Retired Box CAP Walkthrough — Step by Step CTF Guide with Visuals | Mkirahmet | [Read More](https://medium.com/p/c29d141ece97) |
+| Sat, 30 Aug 2025 21:29:13 GMT | •	THE IMPERATIVE OF AI REGULATION IN NIGERIA: CHARTING A PATH FOR A YOUNG, INNOVATIVE POPULATION… | Niclem Ogobi | [Read More](https://medium.com/p/8bd86dfb3263) |
 | Sat, 30 Aug 2025 21:24:43 GMT | The first step to Pentesting | Spider256 | [Read More](https://medium.com/p/2084562d775d) |
 | Sat, 30 Aug 2025 21:16:12 GMT | Hacked By Xyren Haxor Team | Xyren Haxor | [Read More](https://medium.com/p/62d4a1482cbb) |
 | Sat, 30 Aug 2025 21:15:07 GMT | My Path into Cybersecurity Using Free Resources | Jialei Q. | [Read More](https://medium.com/p/0f8c8ef8aabe) |
+| Sat, 30 Aug 2025 21:12:42 GMT | Cuando romper la regla es parte del control: el poder del SOA | Carlos Olivares | [Read More](https://medium.com/p/46bbd4f3cd4b) |
 | Sat, 30 Aug 2025 21:05:56 GMT | Web3, Metaverse ve Yeni Nesil Dijital Güvenlik Trendleri | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/289497a2c212) |
 | Sat, 30 Aug 2025 21:05:13 GMT | Mitigating Content Related Threats and Vulnerabilities :Guarding the Gates with Google Cloud | Gbemisola Esho | [Read More](https://medium.com/p/b386da3834c3) |
 | Sat, 30 Aug 2025 21:01:29 GMT | The Ethics of Hacking: Good Hackers vs. Bad Hackers | Paschal Ogana | [Read More](https://medium.com/p/e559a3e5595d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 15:11:46 GMT | Webcookoo: Enterprise-Grade Cybersecurity for the Quantum Era | Sumit Chauhan | [Read More](https://medium.com/p/3d6a7b6b13bc) |
 | Sat, 30 Aug 2025 15:11:05 GMT | Signal and Sabotage: My View of the Information War | Joel L | [Read More](https://medium.com/p/c15c16188b9f) |
 | Sat, 30 Aug 2025 15:06:34 GMT | Top AI Security Events | Tal Eliyahu | [Read More](https://medium.com/p/28ee7eb4d79c) |
-| Sat, 30 Aug 2025 15:06:05 GMT | Man-in-the-Middle (MITM) Attacks: When Hackers Eavesdrop on Your Conversations | Sparshika | [Read More](https://medium.com/p/ad184cc4c537) |
-| Sat, 30 Aug 2025 15:03:37 GMT | When the Internet Gets Too Crowded: DoS & DDoS Attacks | Sparshika | [Read More](https://medium.com/p/6a039ca4f55a) |
-| Sat, 30 Aug 2025 14:58:03 GMT | Capgemini Interview Experience | Ajit Kumar | [Read More](https://medium.com/p/71e436b56646) |
-| Sat, 30 Aug 2025 14:55:42 GMT | Compatibility Horoscope | Silent Observer (Sarphari) | [Read More](https://medium.com/p/84d686c4f48b) |
-| Sat, 30 Aug 2025 14:53:35 GMT | Sweet Things to Say to a Woman You Like, Words That Warm a Woman’s Heart | Poly-blang | [Read More](https://medium.com/p/a132e6eb38a4) |
-| Sat, 30 Aug 2025 14:51:03 GMT | Web Cache Poisoning (Don’t forget simple but powerful) | SACHIN PV | [Read More](https://medium.com/p/d4bba30cf4d2) |
-| Sat, 30 Aug 2025 14:44:06 GMT | Feedback on ChatGPT Safety on Adam's tragedy | Stranger. | [Read More](https://medium.com/p/f27e9d03b19a) |
-| Sat, 30 Aug 2025 14:39:34 GMT | The Role of XAN: Fueling Anoma’s Operating System | Seen | [Read More](https://medium.com/p/8a527b4a2386) |
