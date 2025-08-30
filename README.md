@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 18:31:34 GMT | Securing Your Spring Boot App with OAuth 2.0 and JWT — A Simple Guide | Naveen Metta | [Read More](https://medium.com/p/cbc10642fc5d) |
+| Sat, 30 Aug 2025 18:26:55 GMT | เฉลย Cyber top talent Ep:2 | jitwisut | [Read More](https://medium.com/p/15247bc88882) |
+| Sat, 30 Aug 2025 18:25:12 GMT | JWT Replay + Session Context Desync Vulnerability: Real-World Impact | Huseyin | [Read More](https://medium.com/p/3ffbf9f70287) |
 | Sat, 30 Aug 2025 18:07:31 GMT | Mastering Nmap (Part 3) in 2025:: Vulnerability Detection & Exploitation with NSE | appsecvenue | [Read More](https://medium.com/p/6e3b899eb64d) |
 | Sat, 30 Aug 2025 18:05:53 GMT | Advanced Techniques for Docker Container Security | @rnab | [Read More](https://medium.com/p/4c91753bd9e1) |
 | Sat, 30 Aug 2025 17:56:32 GMT | Zaproxy Scripting con Jython -> instalar el complemento | alejandro | [Read More](https://medium.com/p/62045c0d4e15) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 12:33:50 GMT | The Evolution of LockBit: From Takedown to Rebranding | Abatis ABTU | [Read More](https://medium.com/p/283a7a73b737) |
 | Sat, 30 Aug 2025 12:30:55 GMT | Men Won’t Admit It, But These 6 Traits Make a Woman Unforgettable | Maria Arshad | [Read More](https://medium.com/p/93d8414fcfb9) |
 | Sat, 30 Aug 2025 12:28:44 GMT | Vulnerability Scanning for ECR images | Jis Thomas | [Read More](https://medium.com/p/4906f4d4d7ac) |
-| Sat, 30 Aug 2025 12:26:41 GMT | Day 20 — Server-Side Request Forgery (SSRF): A Silent But Dangerous Threat | Puneet | [Read More](https://medium.com/p/6116f96a0163) |
-| Sat, 30 Aug 2025 12:22:20 GMT | The Evolution of Malware: From Creeper to Cyberwarfare — What’s Next? | Abatis ABTU | [Read More](https://medium.com/p/161fc31746d6) |
-| Sat, 30 Aug 2025 12:20:32 GMT | Silent harvest: extracting windows secrets under the radar | Yaniv | [Read More](https://medium.com/p/b71a21e86514) |
