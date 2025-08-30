@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 06:16:00 GMT | Critical Vulneribilty on Docker Desktop | Ardhrubo | [Read More](https://medium.com/p/5278f2553c4f) |
+| Sat, 30 Aug 2025 06:07:55 GMT | Top 10 Hacking Websites in 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/eca4f9729970) |
+| Sat, 30 Aug 2025 06:05:55 GMT | iOS Recon: Hunting Endpoints Inside IPA Files | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d495da38f5b) |
+| Sat, 30 Aug 2025 06:01:46 GMT | The Nx Nightmare: A Supply Chain Breach with AI in the Loop | Akanksha | [Read More](https://medium.com/p/f32233e0f830) |
+| Sat, 30 Aug 2025 06:01:43 GMT | The Manifest Speaks — Deep Recon & Hardening Guide for AndroidManifest.xml | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d901e1ff0317) |
+| Sat, 30 Aug 2025 05:59:27 GMT | Top 10 Ransomware Recovery Companies in Canada (2025 Edition) | One arrow consulting inc | [Read More](https://medium.com/p/d416fb5d6f95) |
+| Sat, 30 Aug 2025 05:56:51 GMT | How VPNs Protect Corporate Networks — And When They Don’t | Abida Adra | [Read More](https://medium.com/p/bf389a63d62b) |
+| Sat, 30 Aug 2025 05:51:42 GMT | How to Defend Against Deepfakes, AI Phishing & Ransomware | Securseedmena | [Read More](https://medium.com/p/a530396746d8) |
+| Sat, 30 Aug 2025 05:49:19 GMT | APK Goldmine: How Reverse Engineering Reveals Hidden APIs | Narendar Battula (nArEn) | [Read More](https://medium.com/p/11401562d3d0) |
+| Sat, 30 Aug 2025 05:48:19 GMT | Android 16 Release Date & Features: The Complete 2025 Guide | Pimrada Thavorn | [Read More](https://medium.com/p/5523d0592d9f) |
+| Sat, 30 Aug 2025 05:46:00 GMT | Vegeta Walkthrough: A Clean, Rabbit-Hole-Free Path to Root | Abhinsubej | [Read More](https://medium.com/p/13f5b4575b26) |
 | Sat, 30 Aug 2025 05:34:54 GMT | How I Built a Real-Time Phishing Triage System | Huy Tran | [Read More](https://medium.com/p/3bb1643c8c10) |
 | Sat, 30 Aug 2025 05:23:47 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/e8842d66b03e) |
 | Sat, 30 Aug 2025 05:18:55 GMT | Cybersecurity Strategic Transformation: Why Is It So Hard? | JC Gaillard | [Read More](https://medium.com/p/247cbb1787bb) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 19:03:34 GMT | Snowflake Without Password: How Workload Identity Federation Simplifies Authentication | Umesh Patel | [Read More](https://medium.com/p/ede148faf1fd) |
 | Fri, 29 Aug 2025 19:01:21 GMT | CompTIA Security+ in 2025: Why This Certification Still Builds the Strongest Cybersecurity… | Saurabh Kohli | [Read More](https://medium.com/p/550d5ce17449) |
 | Fri, 29 Aug 2025 18:54:56 GMT | What Happens to Your Passwords Behind the Scenes | Arpit Asati | [Read More](https://medium.com/p/3fb142da7967) |
-| Fri, 29 Aug 2025 18:52:13 GMT | Hunt Evil! With YARA rules… Windows edition | Luke | [Read More](https://medium.com/p/30019bdb757f) |
-| Fri, 29 Aug 2025 18:50:55 GMT | NIST CSF 2.0: Removing Employee PII from the Open Web | mePrism Privacy | [Read More](https://medium.com/p/f65919bf6c2c) |
-| Fri, 29 Aug 2025 18:47:28 GMT | Critical WhatsApp Vulnerability (CVE-2025–55177) Exploited in Sophisticated Apple Device Attacks… | Kanada | [Read More](https://medium.com/p/a831b5176554) |
-| Fri, 29 Aug 2025 18:43:02 GMT | Ethical Hacking for Social Goods-How Hackers Create Real Change | The Daily Technology | [Read More](https://medium.com/p/e2867c3eae74) |
-| Fri, 29 Aug 2025 18:42:32 GMT | Quicksand cooties | vicki lee dillard | [Read More](https://medium.com/p/1ef9b79476ac) |
-| Fri, 29 Aug 2025 18:38:27 GMT | Hacking My Way: Fun, Engaging, and Totally My Style | Viratavi | [Read More](https://medium.com/p/1eb0d1fe888a) |
-| Fri, 29 Aug 2025 18:38:24 GMT | I Cringe at Everything I’ve Ever Written | 4o4 | [Read More](https://medium.com/p/b86bb1bdc8b6) |
-| Fri, 29 Aug 2025 18:31:17 GMT | # Cybersecurity Commands Every Ethical Hacker Should Master. | Shreyansh Chourasia | [Read More](https://medium.com/p/c5a3f210bca3) |
-| Fri, 29 Aug 2025 18:26:59 GMT | Geopolitics and Cybersecurity: When Global Tensions Infiltrate the Enterprise | William Couturier | [Read More](https://medium.com/p/99a6c7a04f3a) |
-| Fri, 29 Aug 2025 18:24:35 GMT | Analyzing Security Operations for Professionals | Cyber Security Research | [Read More](https://medium.com/p/59f2ba6337a6) |
-| Fri, 29 Aug 2025 18:23:06 GMT | Routers: The Silent Gatekeepers of Your Network | Lakshmeesh R | [Read More](https://medium.com/p/2fcfbf990efe) |
