@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 02:33:36 GMT | AI-Powered Cyberattacks in 2025: Should You Be Worried? | noel chukwuebuka | [Read More](https://medium.com/p/821bafd87951) |
+| Sat, 30 Aug 2025 02:33:36 GMT | ⚡️ TCP vs. UDP: Reliability vs. Speed | Keerthan V Suvarna | [Read More](https://medium.com/p/2722b9a4854b) |
+| Sat, 30 Aug 2025 02:17:28 GMT | Why Familiar Workflows Can Be Your Biggest OSINT Blind Spot | Sam Galope | [Read More](https://medium.com/p/d629a10d8d3c) |
+| Sat, 30 Aug 2025 02:17:20 GMT | Editor — HackTheBox | Mustafa Abdullah | [Read More](https://medium.com/p/81779786c978) |
+| Sat, 30 Aug 2025 01:58:23 GMT | Incident Response 101: What Happens After a Security Breach? | Gertrude Abagale | [Read More](https://medium.com/p/827c43941ece) |
+| Sat, 30 Aug 2025 01:56:06 GMT | Normalized Compromise: Why Visibility Is the Achilles’ Heel of Modern Cloud Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/40dda8f37766) |
+| Sat, 30 Aug 2025 01:31:28 GMT | Implementing TOTP-Based MFA in Node.js/Express.js | bektiaw | [Read More](https://medium.com/p/9807d8c92667) |
+| Sat, 30 Aug 2025 01:25:24 GMT | India Leads the Way: The World’s First Unhackable Messaging Service | Harsh duhan | [Read More](https://medium.com/p/6a8e3cbc5ea7) |
+| Sat, 30 Aug 2025 01:23:34 GMT | What Makes Certain Personality Types So Irresistibly Attractive? | Fower Leo | [Read More](https://medium.com/p/003d2b79dce7) |
 | Sat, 30 Aug 2025 01:13:36 GMT | Deep Connection: Why Profound Conversations Are Essential for Lasting Intimacy | Sevenqian | [Read More](https://medium.com/p/dcaf8c89ad91) |
 | Sat, 30 Aug 2025 00:57:35 GMT | A Data Scientist’s Guide to Not Getting Stalked Online (Too Much) | Michael Bagalman | [Read More](https://medium.com/p/699d0f373a82) |
 | Sat, 30 Aug 2025 00:35:31 GMT | Building Secure and Scalable Data Architectures with Databricks on AWS | Victor L. Batista | [Read More](https://medium.com/p/0d06d2b96e28) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 16:56:52 GMT | API Security Hardening: Building Fortress-Level Java APIs in Production | Harsh Shah | [Read More](https://medium.com/p/aa668b4b6151) |
 | Fri, 29 Aug 2025 16:56:33 GMT | The Lifecycle of Malware: From Infection to Exfiltration | Paritosh | [Read More](https://medium.com/p/ee5ae45d8388) |
 | Fri, 29 Aug 2025 16:55:51 GMT | Technology Trends in 2025: It’s Worth Knowing One or Some of Them | Said Alfahulmizan | [Read More](https://medium.com/p/68b17bb2e581) |
-| Fri, 29 Aug 2025 16:47:32 GMT | AWS Breaking Glass Accounts : Stratégie d’Urgence pour l’Entreprise | Sylvain BRUAS | [Read More](https://medium.com/p/6f6bc0bad234) |
-| Fri, 29 Aug 2025 16:47:27 GMT | The Race to Build an Un-Hackable Barrier for AI. AI Access with Quantum and Cryptographic Locks | Berend Watchus | [Read More](https://medium.com/p/b3d2c675a642) |
-| Fri, 29 Aug 2025 16:47:22 GMT | The 9 Most Dangerous Websites That Actually Exist (And Why You Must Never Visit Them) | John Edwin | [Read More](https://medium.com/p/d0dc0543d3f3) |
-| Fri, 29 Aug 2025 16:45:49 GMT | Why Learning Prompt Engineering Could Be Your Shortcut to a $100K Freelance Career | ForeCast | [Read More](https://medium.com/p/881dc12b413f) |
-| Fri, 29 Aug 2025 16:44:46 GMT | My First Brute Force Script — Unlocking My Own Phone | C0mr4de | [Read More](https://medium.com/p/0e8c70000965) |
-| Fri, 29 Aug 2025 16:41:56 GMT | Unmasking the Gay Femboy: Inside a Crafty Mirai Variant Fooling the Experts | ViraSecurity | [Read More](https://medium.com/p/2de294887c2f) |
-| Fri, 29 Aug 2025 16:30:06 GMT | Security Misconfiguration (OWASP Top 10 #5) — Simplified | Chai | [Read More](https://medium.com/p/e6f02e084505) |
-| Fri, 29 Aug 2025 16:28:42 GMT | Adversary In The Middle Attacks Bypassing MFA and EDR -A Growing Cybersecurity Concern | Chetan Seripally | [Read More](https://medium.com/p/aaa4a0c9ff48) |
-| Fri, 29 Aug 2025 16:27:18 GMT | ️ 10 Node.js Security Best Practices You Shouldn’t Ignore in 2025 | Sachin Kasana | [Read More](https://medium.com/p/a066ea08caf6) |
