@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 18:07:31 GMT | Mastering Nmap (Part 3) in 2025:: Vulnerability Detection & Exploitation with NSE | appsecvenue | [Read More](https://medium.com/p/6e3b899eb64d) |
+| Sat, 30 Aug 2025 18:05:53 GMT | Advanced Techniques for Docker Container Security | @rnab | [Read More](https://medium.com/p/4c91753bd9e1) |
+| Sat, 30 Aug 2025 17:56:32 GMT | Zaproxy Scripting con Jython -> instalar el complemento | alejandro | [Read More](https://medium.com/p/62045c0d4e15) |
+| Sat, 30 Aug 2025 17:56:13 GMT | TryHackMe: Blue — Exploiting EternalBlue (MS17–010) WalkThrough | Hazem Ahmed | [Read More](https://medium.com/p/3128d468b568) |
+| Sat, 30 Aug 2025 17:53:03 GMT | How I Passed Microsoft Security, Compliance, and Identity Fundamentals (SC-900) | Joseph Karuga | [Read More](https://medium.com/p/6f54498aaf58) |
+| Sat, 30 Aug 2025 17:47:13 GMT | Thinking Like a Criminal: The Ethical Hacker’s Mindset | Shahzaib | [Read More](https://medium.com/p/7c867f66be7c) |
+| Sat, 30 Aug 2025 17:35:36 GMT | How To Identity Unknown Caller | ScamBare | [Read More](https://medium.com/p/3ea547409c86) |
 | Sat, 30 Aug 2025 17:33:43 GMT | Why Congress Must Act Now on State Age-Verification Laws Before They Devastate Free Speech and… | Daniel | [Read More](https://medium.com/p/f121c01a2e3e) |
 | Sat, 30 Aug 2025 17:31:57 GMT | Homograph Attack: The Art of Digital Deception | Badal Mehra | [Read More](https://medium.com/p/0e975160c695) |
 | Sat, 30 Aug 2025 17:30:58 GMT | Introduction to Windows Endpoint Forensic Analysis: Artifacts (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/54332f067c3e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 12:26:41 GMT | Day 20 — Server-Side Request Forgery (SSRF): A Silent But Dangerous Threat | Puneet | [Read More](https://medium.com/p/6116f96a0163) |
 | Sat, 30 Aug 2025 12:22:20 GMT | The Evolution of Malware: From Creeper to Cyberwarfare — What’s Next? | Abatis ABTU | [Read More](https://medium.com/p/161fc31746d6) |
 | Sat, 30 Aug 2025 12:20:32 GMT | Silent harvest: extracting windows secrets under the radar | Yaniv | [Read More](https://medium.com/p/b71a21e86514) |
-| Sat, 30 Aug 2025 12:20:12 GMT | A Journey Through Kenya: A Story of Safe and Joyful Travel | Dantravel Hub | [Read More](https://medium.com/p/2ba6028b378d) |
-| Sat, 30 Aug 2025 12:10:40 GMT | Techniques Used for IP Logging | Cyber Fortress | [Read More](https://medium.com/p/c46315fd7ae5) |
-| Sat, 30 Aug 2025 12:09:05 GMT | From Intelligence to Action: Practical Threat Hunting with OpenCTI | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/1c08b7705425) |
-| Sat, 30 Aug 2025 12:01:37 GMT | Why I Always Set Up File Integrity Monitoring on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/f7929fe4db39) |
-| Sat, 30 Aug 2025 12:00:04 GMT | [Write-up] beanstalk_secrets — CloudGoat | Fabian Matuszek | [Read More](https://medium.com/p/9444fbad1afd) |
-| Sat, 30 Aug 2025 11:52:57 GMT | 10 Best Shared Hosting Providers for Dropshipping Stores ⚡ | Mayra Sharma | [Read More](https://medium.com/p/b2f1404ac0fd) |
-| Sat, 30 Aug 2025 11:35:38 GMT | 10 Best Secure Hosting Providers for Recipe Blogs | Somya Rani | [Read More](https://medium.com/p/30ff10efedf8) |
