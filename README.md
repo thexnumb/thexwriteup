@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 17:33:43 GMT | Why Congress Must Act Now on State Age-Verification Laws Before They Devastate Free Speech and… | Daniel | [Read More](https://medium.com/p/f121c01a2e3e) |
+| Sat, 30 Aug 2025 17:31:57 GMT | Homograph Attack: The Art of Digital Deception | Badal Mehra | [Read More](https://medium.com/p/0e975160c695) |
+| Sat, 30 Aug 2025 17:30:58 GMT | Introduction to Windows Endpoint Forensic Analysis: Artifacts (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/54332f067c3e) |
+| Sat, 30 Aug 2025 17:29:12 GMT | The Hidden Security Magic Behind Mobile Payments | sudo whoami | [Read More](https://medium.com/p/8d6803610a04) |
+| Sat, 30 Aug 2025 17:28:52 GMT | Day 46- Understanding Honeypots in cybersecurity as a beginner | unica 02 | [Read More](https://medium.com/p/e6b081d2cb88) |
+| Sat, 30 Aug 2025 17:25:04 GMT | The Myth Of the Vulnerable Man | Terry McLeod | [Read More](https://medium.com/p/9d9cd9eb59cf) |
+| Sat, 30 Aug 2025 17:24:31 GMT | The Cost of Non-Compliance: Financial, Regulatory, and Reputational Risks in the PA/PG Sector | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/23f2a54d649f) |
+| Sat, 30 Aug 2025 17:21:20 GMT | A Text from My Younger Self Gave Me Permission to Show Up as I Am | Wilson Igbasi | [Read More](https://medium.com/p/9ebc129d6b95) |
+| Sat, 30 Aug 2025 17:15:28 GMT | The Future I Envision with Drosera Network: | Etkwake | [Read More](https://medium.com/p/97165eaaabd0) |
+| Sat, 30 Aug 2025 17:14:14 GMT | CloudSEK CTF’25 Write-up | Aryan sharma | [Read More](https://medium.com/p/ef486e5cc731) |
+| Sat, 30 Aug 2025 17:13:15 GMT | P3《紅軍 API × GPT-5 用戶隱私外洩報告》 | BoLiang Lin | [Read More](https://medium.com/p/b8d9580ad27a) |
 | Sat, 30 Aug 2025 17:03:25 GMT | Data as Liability: Executive Imperatives for Storing and Protecting Payment System Data | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/0652e9bde042) |
 | Sat, 30 Aug 2025 17:00:46 GMT | Evil Hunting!! … in Linux! | Luke | [Read More](https://medium.com/p/9d23873eb7a9) |
 | Sat, 30 Aug 2025 17:00:14 GMT | AI/LLM Hacking- Part 2- Prompt Injection | Darshan Naresh Naik | [Read More](https://medium.com/p/13030a731e15) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 12:00:04 GMT | [Write-up] beanstalk_secrets — CloudGoat | Fabian Matuszek | [Read More](https://medium.com/p/9444fbad1afd) |
 | Sat, 30 Aug 2025 11:52:57 GMT | 10 Best Shared Hosting Providers for Dropshipping Stores ⚡ | Mayra Sharma | [Read More](https://medium.com/p/b2f1404ac0fd) |
 | Sat, 30 Aug 2025 11:35:38 GMT | 10 Best Secure Hosting Providers for Recipe Blogs | Somya Rani | [Read More](https://medium.com/p/30ff10efedf8) |
-| Sat, 30 Aug 2025 11:31:36 GMT | FastAPI Security Pitfalls That Almost Leaked My User Data | Thinking Loop | [Read More](https://medium.com/p/c9903bc13fd7) |
-| Sat, 30 Aug 2025 11:31:11 GMT | Earn Passive Income by $BUG Yield Generation on StakingRewards | BUG | [Read More](https://medium.com/p/73fbabc49200) |
-| Sat, 30 Aug 2025 11:31:08 GMT | 10 Best Dedicated Hosting Providers for CRM Systems in 2025 ⚡ | Mayra Sharma | [Read More](https://medium.com/p/13458b1b4d05) |
-| Sat, 30 Aug 2025 11:30:59 GMT | DockerLabs Writeup — Move (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9823fa1e04f3) |
-| Sat, 30 Aug 2025 11:30:44 GMT | Don’t Get Spoofed: A Deep Dive into DHCP Snooping | Ahmed Maher | [Read More](https://medium.com/p/bd5497301e34) |
-| Sat, 30 Aug 2025 11:26:05 GMT | The Immune System of the Internet: Why Cybersecurity Matters | Aayushi Sinha | [Read More](https://medium.com/p/800d2e99f52a) |
-| Sat, 30 Aug 2025 11:25:33 GMT | OSCP Preparation Series | Ahsan Ali Khan | [Read More](https://medium.com/p/61911e192824) |
-| Sat, 30 Aug 2025 11:20:02 GMT | Hey, Can We Talk About Your AI for a Minute? | Myra Jarenga | [Read More](https://medium.com/p/838c28f8d40c) |
-| Sat, 30 Aug 2025 11:19:28 GMT | 10 Most Reliable Hosting Providers for Government Websites in 2025 ️ | Anand Verma | [Read More](https://medium.com/p/108971b15a02) |
-| Sat, 30 Aug 2025 11:19:12 GMT | Full-Stack Auth: Sessions, JWTs, and Best Practices | Tera Byte 26 | [Read More](https://medium.com/p/3753f6e1153e) |
-| Sat, 30 Aug 2025 11:15:41 GMT | How I Found a Critical Subdomain Takeover Vulnerability (And What You Can Learn From It) | Be nice insabat | [Read More](https://medium.com/p/8af33baa321c) |
