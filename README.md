@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 16:16:58 GMT | Tryhackme Summit Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/aade8370f028) |
+| Sat, 30 Aug 2025 16:16:08 GMT | $500 Bounty for Stored SVG-based Script Execution Vulnerability in target.com’s Chat System | Lakshya | [Read More](https://medium.com/p/8358d0d6fc35) |
+| Sat, 30 Aug 2025 16:13:34 GMT | I found A Secret Server & I hacked it.. | Mainekhacker | [Read More](https://medium.com/p/7b56172659a6) |
+| Sat, 30 Aug 2025 16:04:38 GMT | My Journey Installing Ghauri on WSL Kali | raflesia it | [Read More](https://medium.com/p/4708629e80c9) |
+| Sat, 30 Aug 2025 16:04:20 GMT | Write-Up THCTT25 Reverse Engineer (300) - cyber_user_local by FINNALE | Weerapat Junlek | [Read More](https://medium.com/p/c724043b404e) |
+| Sat, 30 Aug 2025 16:01:50 GMT | The Real Risk of AI Nobody Wants to Talk About | Aj | [Read More](https://medium.com/p/13ce3032a7ad) |
+| Sat, 30 Aug 2025 16:00:09 GMT | SSRF | Mohammed Hassan | [Read More](https://medium.com/p/7c3f196e8d45) |
+| Sat, 30 Aug 2025 15:51:48 GMT | The Perfect Bug Bounty Process: From Recon to Report | DJH4CK3R | [Read More](https://medium.com/p/c05ac3fad06a) |
+| Sat, 30 Aug 2025 15:51:04 GMT | SUID Environmental Variable Privilege Escalation (Linux Priv Esc) | Ammar Ahmed | [Read More](https://medium.com/p/a3bfc44eeb14) |
+| Sat, 30 Aug 2025 15:43:27 GMT | The Way I Keep My Bags Safe in Web3 | Fanreza | [Read More](https://medium.com/p/f449882f7c73) |
+| Sat, 30 Aug 2025 15:39:50 GMT | Cyber Risk and Exposure: Where Risk Meets Reality | Juan Pablo Castro | [Read More](https://medium.com/p/fc301ad9c786) |
+| Sat, 30 Aug 2025 15:39:31 GMT | ⚡ From Zero to Hacker: Set Up Your Own Cyber Lab at Home ️‍♂️ | RootXploit.0x | [Read More](https://medium.com/p/958b7f669b5a) |
 | Sat, 30 Aug 2025 15:30:24 GMT | FREE 10-Day GOLDEN PLAN for xss0r V5 — As Promised! | xss0r | [Read More](https://medium.com/p/cdded17fbade) |
 | Sat, 30 Aug 2025 15:29:31 GMT | SSTI Vulnerability | Rajsegar Alagarathnam | [Read More](https://medium.com/p/3fb0f5fc6712) |
 | Sat, 30 Aug 2025 15:29:16 GMT | AI Can’t Judge Intent: Application Control Wins | Shahzaib | [Read More](https://medium.com/p/7ef329b43ed5) |
@@ -20,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 15:23:26 GMT | The Surveillance State and Counter-Surveillance Tactics | Joel L | [Read More](https://medium.com/p/2477d3c88e12) |
 | Sat, 30 Aug 2025 15:13:17 GMT | Phishing Email Analysis Tools — Your Go-To Toolkit | Vijay Kumar Gupta | [Read More](https://medium.com/p/bfbcc45cd76f) |
 | Sat, 30 Aug 2025 15:11:46 GMT | Webcookoo: Enterprise-Grade Cybersecurity for the Quantum Era | Sumit Chauhan | [Read More](https://medium.com/p/3d6a7b6b13bc) |
+| Sat, 30 Aug 2025 15:11:05 GMT | Signal and Sabotage: My View of the Information War | Joel L | [Read More](https://medium.com/p/c15c16188b9f) |
 | Sat, 30 Aug 2025 15:06:34 GMT | Top AI Security Events | Tal Eliyahu | [Read More](https://medium.com/p/28ee7eb4d79c) |
 | Sat, 30 Aug 2025 15:06:05 GMT | Man-in-the-Middle (MITM) Attacks: When Hackers Eavesdrop on Your Conversations | Sparshika | [Read More](https://medium.com/p/ad184cc4c537) |
 | Sat, 30 Aug 2025 15:03:37 GMT | When the Internet Gets Too Crowded: DoS & DDoS Attacks | Sparshika | [Read More](https://medium.com/p/6a039ca4f55a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 09:59:51 GMT | Comprehensive Cybersecurity Solutions for a Secure Future | Cisogenemarketing | [Read More](https://medium.com/p/a4ac8a5b93df) |
 | Sat, 30 Aug 2025 09:59:10 GMT | From Attack Intel to Production Detection: AI Approach to Detection Engineering | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/53c5b161782a) |
 | Sat, 30 Aug 2025 09:56:24 GMT | Google Dorking Secrets: 1000+ Hidden Queries That Find Bugs for You | Abhijeet kumawat | [Read More](https://medium.com/p/1c0ab68bd367) |
-| Sat, 30 Aug 2025 09:56:21 GMT | When Your Online Reputation is Under Attack, You Need Professional Help | Noblehackers                   The Noble Hackers | [Read More](https://medium.com/p/b742a782a2c2) |
-| Sat, 30 Aug 2025 09:52:12 GMT | U.S. Government Seizes Online Marketplaces Selling Fake Identity Documents | Jasmitharouthu | [Read More](https://medium.com/p/3056746a900b) |
-| Sat, 30 Aug 2025 09:45:36 GMT | How I Learned AWS Coming from GCP as a Security Engineer | Mayank | [Read More](https://medium.com/p/d27a75086ec9) |
-| Sat, 30 Aug 2025 09:39:50 GMT | ️ Automating SOC Alerts: Building a SIEM with OpenAI & ELK Stack | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b4b0ff908804) |
-| Sat, 30 Aug 2025 09:38:09 GMT | That Resignation Email? It Was A Warning. | Truspex | [Read More](https://medium.com/p/d2a9dd671c5f) |
-| Sat, 30 Aug 2025 09:36:33 GMT | ‍ “How to Teach Yourself Cybersecurity (Even If You’re a Beginner)” | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/ab3d5d37e87d) |
-| Sat, 30 Aug 2025 09:30:16 GMT | How One Missed Call Could Turn Your Phone Into a Spy Hub: The Shocking Truth About Pegasus Spyware | TheSocialHacker | [Read More](https://medium.com/p/26bc71ae7f52) |
-| Sat, 30 Aug 2025 09:20:11 GMT | The Memory That Lives in My Chest | Transformation and Equality Agenda (TEA NIGERIA) | [Read More](https://medium.com/p/7bcf74d54eb2) |
-| Sat, 30 Aug 2025 09:16:28 GMT | Writeup Template — TryHackMe / 0x41haz Box | 0x4y0ub | [Read More](https://medium.com/p/b73a18bd8586) |
-| Sat, 30 Aug 2025 09:13:33 GMT | Career Choices That Last: A Woman’s Guide to Making Informed Decisions | Poorvi Arora | [Read More](https://medium.com/p/8490a6d06a4a) |
-| Sat, 30 Aug 2025 08:55:14 GMT | Ikaw, Saan Mo Gusto? | TheBoyWhoCriedWolf | [Read More](https://medium.com/p/f551ca4b0063) |
-| Sat, 30 Aug 2025 08:51:31 GMT | ️ Building My Own OSINT Framework: From Beginner Script to Reconnaissance Tool | Rohit Sahani | [Read More](https://medium.com/p/63e555e60c5f) |
-| Sat, 30 Aug 2025 08:39:41 GMT | Reverse Engineering My First Malware Sample (and What I Learned) | Aj | [Read More](https://medium.com/p/77177d39c6ee) |
