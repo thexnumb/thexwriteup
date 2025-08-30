@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 21:05:56 GMT | Web3, Metaverse ve Yeni Nesil Dijital Güvenlik Trendleri | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/289497a2c212) |
+| Sat, 30 Aug 2025 21:05:13 GMT | Mitigating Content Related Threats and Vulnerabilities :Guarding the Gates with Google Cloud | Gbemisola Esho | [Read More](https://medium.com/p/b386da3834c3) |
+| Sat, 30 Aug 2025 21:01:29 GMT | The Ethics of Hacking: Good Hackers vs. Bad Hackers | Paschal Ogana | [Read More](https://medium.com/p/e559a3e5595d) |
+| Sat, 30 Aug 2025 21:00:58 GMT | A Vulnerable Note | Inès Le Cannellier | [Read More](https://medium.com/p/cfddc559b368) |
+| Sat, 30 Aug 2025 20:55:58 GMT | Building Resilience with Cybersecurity and Incident Response Services — CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/5e557a729f3e) |
+| Sat, 30 Aug 2025 20:37:58 GMT | Love in Packets — Episode 1 | Harsh Sharma | [Read More](https://medium.com/p/93e0a2d6dbdf) |
 | Sat, 30 Aug 2025 20:14:23 GMT | Rooting an Umbraco 7.12.4 Machine on HackTheBox | Kaplanibrahimm | [Read More](https://medium.com/p/3179fdc5b487) |
 | Sat, 30 Aug 2025 20:13:40 GMT | Strengthening Your Digital Defenses: The Role of Cybersecurity Consulting and Incident Response… | Jeffery Walker | [Read More](https://medium.com/p/ab3e04ab7f53) |
 | Sat, 30 Aug 2025 20:01:39 GMT | Analyzing Zero Trust Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/340b14bd5171) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 14:33:51 GMT | Combining AI, Cloud, and Security for Modern Enterprise Apps | KodekX | [Read More](https://medium.com/p/bf5dfc152a19) |
 | Sat, 30 Aug 2025 14:30:36 GMT | Penetration Testing Market is anticipated to reach USD 4.2 billion by 2035 | Vinita kumari | [Read More](https://medium.com/p/3f228a2624bc) |
 | Sat, 30 Aug 2025 14:27:31 GMT | Poiesis: A Blueprint for AI That Doesn’t Just Learn — It Transcends | handman | [Read More](https://medium.com/p/39225c37f730) |
-| Sat, 30 Aug 2025 14:25:26 GMT | Phishing Hooks: Why Humans Are the Weakest Link | Raj Islam | [Read More](https://medium.com/p/338137197d59) |
-| Sat, 30 Aug 2025 14:19:23 GMT | How am I in love? | Sukoon | [Read More](https://medium.com/p/1fed64c85d06) |
-| Sat, 30 Aug 2025 14:14:09 GMT | The Quiet Work of Carrying Yourself Through Each Day | Dhruvdeep Singh | [Read More](https://medium.com/p/4a77d326b6ad) |
-| Sat, 30 Aug 2025 14:11:28 GMT | PromptLock: The Dawn of AI-Powered Ransomware(The future of ransomware) | Mohamed.cybersec | [Read More](https://medium.com/p/b6f8f3407ef4) |
-| Sat, 30 Aug 2025 14:03:49 GMT | Without Data, There Is No AI — and No Future | Sarvesh | [Read More](https://medium.com/p/1ad94c678f3d) |
-| Sat, 30 Aug 2025 14:01:35 GMT | TryHackMe Confidential —  Walkthrough ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef8c44eb7859) |
