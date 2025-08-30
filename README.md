@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 02:46:01 GMT | How ‘Hello!’ Becomes Packets, Frames, and Bits: iMessage Through the OSI Lens | Taulan Zauzanov | [Read More](https://medium.com/p/004784ebb443) |
 | Sat, 30 Aug 2025 02:33:36 GMT | AI-Powered Cyberattacks in 2025: Should You Be Worried? | noel chukwuebuka | [Read More](https://medium.com/p/821bafd87951) |
 | Sat, 30 Aug 2025 02:33:36 GMT | ⚡️ TCP vs. UDP: Reliability vs. Speed | Keerthan V Suvarna | [Read More](https://medium.com/p/2722b9a4854b) |
+| Sat, 30 Aug 2025 02:33:36 GMT | Top 10 AI Tools That Make Your Profession Hacker | Mayank Pal | [Read More](https://medium.com/p/5af0056c9acc) |
 | Sat, 30 Aug 2025 02:17:28 GMT | Why Familiar Workflows Can Be Your Biggest OSINT Blind Spot | Sam Galope | [Read More](https://medium.com/p/d629a10d8d3c) |
 | Sat, 30 Aug 2025 02:17:20 GMT | Editor — HackTheBox | Mustafa Abdullah | [Read More](https://medium.com/p/81779786c978) |
 | Sat, 30 Aug 2025 01:58:23 GMT | Incident Response 101: What Happens After a Security Breach? | Gertrude Abagale | [Read More](https://medium.com/p/827c43941ece) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 17:01:32 GMT | My official reason to blog about cybersecurity and the things i do: | C0mr4de | [Read More](https://medium.com/p/1dd96fb79898) |
 | Fri, 29 Aug 2025 16:59:40 GMT | How I Found a Simple but Impactful Web Cache Deception (WCD) Vulnerability | Yusuf | [Read More](https://medium.com/p/4782851bfcac) |
 | Fri, 29 Aug 2025 16:56:52 GMT | API Security Hardening: Building Fortress-Level Java APIs in Production | Harsh Shah | [Read More](https://medium.com/p/aa668b4b6151) |
-| Fri, 29 Aug 2025 16:56:33 GMT | The Lifecycle of Malware: From Infection to Exfiltration | Paritosh | [Read More](https://medium.com/p/ee5ae45d8388) |
-| Fri, 29 Aug 2025 16:55:51 GMT | Technology Trends in 2025: It’s Worth Knowing One or Some of Them | Said Alfahulmizan | [Read More](https://medium.com/p/68b17bb2e581) |
