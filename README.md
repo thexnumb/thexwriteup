@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 03:38:21 GMT | Write Up Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Velskynotfound | [Read More](https://medium.com/p/a421b1ed83bb) |
+| Sat, 30 Aug 2025 03:33:26 GMT | Israel INVASION Of Gaza City Begins — Islamists Face Downfall in Gaza | Everclear | [Read More](https://medium.com/p/0e2ae5fff44d) |
+| Sat, 30 Aug 2025 03:31:35 GMT | Cyber Frontlines: How AI Revolution Meets Security Evolution | Akshat Ratanpal | [Read More](https://medium.com/p/99d825ab031d) |
+| Sat, 30 Aug 2025 03:22:05 GMT | Chicken or Egg: Staying Ahead in the Security Arms Race | Gaurang Katyal | [Read More](https://medium.com/p/6fe61af345fa) |
 | Sat, 30 Aug 2025 02:46:01 GMT | How ‘Hello!’ Becomes Packets, Frames, and Bits: iMessage Through the OSI Lens | Taulan Zauzanov | [Read More](https://medium.com/p/004784ebb443) |
 | Sat, 30 Aug 2025 02:33:36 GMT | AI-Powered Cyberattacks in 2025: Should You Be Worried? | noel chukwuebuka | [Read More](https://medium.com/p/821bafd87951) |
 | Sat, 30 Aug 2025 02:33:36 GMT | ⚡️ TCP vs. UDP: Reliability vs. Speed | Keerthan V Suvarna | [Read More](https://medium.com/p/2722b9a4854b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 17:52:41 GMT | My Bachelor Thesis: A Story of Invisible Source Code Attacks | Marco Zoratti | [Read More](https://medium.com/p/a9f046b4cf61) |
 | Fri, 29 Aug 2025 17:39:55 GMT | Mitigating TURN Amplification Attacks | Gabor Retvari | [Read More](https://medium.com/p/2676bdcb268c) |
 | Fri, 29 Aug 2025 17:37:00 GMT | Node.js Security Best Practices for Developers | Suraj Khonde | [Read More](https://medium.com/p/0c240423693f) |
-| Fri, 29 Aug 2025 17:26:00 GMT | Simple Security Habits That Actually Work (I’ve Tested Them) | Aj | [Read More](https://medium.com/p/18a20dfa5d5b) |
-| Fri, 29 Aug 2025 17:01:32 GMT | My official reason to blog about cybersecurity and the things i do: | C0mr4de | [Read More](https://medium.com/p/1dd96fb79898) |
-| Fri, 29 Aug 2025 16:59:40 GMT | How I Found a Simple but Impactful Web Cache Deception (WCD) Vulnerability | Yusuf | [Read More](https://medium.com/p/4782851bfcac) |
-| Fri, 29 Aug 2025 16:56:52 GMT | API Security Hardening: Building Fortress-Level Java APIs in Production | Harsh Shah | [Read More](https://medium.com/p/aa668b4b6151) |
