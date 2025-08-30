@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 16:38:28 GMT | Fraud-as-a-Service (FaaS). Turn Conflict into Commerce. Click. Pay. Scam. | Sriram Narayanan | [Read More](https://medium.com/p/894aa57d58e9) |
+| Sat, 30 Aug 2025 16:35:25 GMT | The Free Way I Cracked the eJPT Certification | Mehdi Ben Fredj | [Read More](https://medium.com/p/a84acc9edfbd) |
+| Sat, 30 Aug 2025 16:31:35 GMT | The Ghost in Microsoft’s Machine: Why Copilot’s Latest Security Flaw Should Keep CISOs Awake | Tony Cieta | [Read More](https://medium.com/p/33fa2856510a) |
+| Sat, 30 Aug 2025 16:30:56 GMT | Quantum Computing and the Future of Cybersecurity | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/688a7c167335) |
+| Sat, 30 Aug 2025 16:30:18 GMT | MetaCTF Flash CTF August 2025 | Anjali S | [Read More](https://medium.com/p/95c80993a667) |
+| Sat, 30 Aug 2025 16:22:47 GMT | Phishing Analysis 2 - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/a2505157e74c) |
+| Sat, 30 Aug 2025 16:22:35 GMT | Network Analysis — Malware Compromise - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/15fd4f49f29e) |
 | Sat, 30 Aug 2025 16:16:58 GMT | Tryhackme Summit Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/aade8370f028) |
 | Sat, 30 Aug 2025 16:16:08 GMT | $500 Bounty for Stored SVG-based Script Execution Vulnerability in target.com’s Chat System | Lakshya | [Read More](https://medium.com/p/8358d0d6fc35) |
 | Sat, 30 Aug 2025 16:13:34 GMT | I found A Secret Server & I hacked it.. | Mainekhacker | [Read More](https://medium.com/p/7b56172659a6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 10:26:48 GMT | How i was abble to delete ORG with leaked token | Be nice insabat | [Read More](https://medium.com/p/4375c8eecc5b) |
 | Sat, 30 Aug 2025 10:25:57 GMT | Troubleshooting Kubernetes Master Node Certificate Expiry and API Server Access Issues: A… | Tech Trends Today | [Read More](https://medium.com/p/8d265bdbbf33) |
 | Sat, 30 Aug 2025 10:23:13 GMT | How I Got Listed on CERT-In’s Hall of Fame Before Turning 20 | Yukeshwaran N | [Read More](https://medium.com/p/630113e834d1) |
-| Sat, 30 Aug 2025 10:17:34 GMT | Why cyber security careers are recession proof | Nagaraj | [Read More](https://medium.com/p/4a6a9b7fac53) |
-| Sat, 30 Aug 2025 10:17:33 GMT | The slow weight of shame | Renuka Chhonkar | [Read More](https://medium.com/p/048d5ecccb09) |
-| Sat, 30 Aug 2025 10:17:23 GMT | Round-the-Clock Security: The Power of a Managed SOC. | Abdella Technologies | [Read More](https://medium.com/p/57aecffe84d9) |
-| Sat, 30 Aug 2025 10:07:52 GMT | WhatsApp Releases Critical Security Update to Fix Zero Click Exploit Targeting iOS and macOS | Jasmitharouthu | [Read More](https://medium.com/p/cbf743fd2596) |
-| Sat, 30 Aug 2025 09:59:51 GMT | Comprehensive Cybersecurity Solutions for a Secure Future | Cisogenemarketing | [Read More](https://medium.com/p/a4ac8a5b93df) |
-| Sat, 30 Aug 2025 09:59:10 GMT | From Attack Intel to Production Detection: AI Approach to Detection Engineering | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/53c5b161782a) |
-| Sat, 30 Aug 2025 09:56:24 GMT | Google Dorking Secrets: 1000+ Hidden Queries That Find Bugs for You | Abhijeet kumawat | [Read More](https://medium.com/p/1c0ab68bd367) |
