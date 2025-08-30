@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 08:39:41 GMT | Reverse Engineering My First Malware Sample (and What I Learned) | Aj | [Read More](https://medium.com/p/77177d39c6ee) |
+| Sat, 30 Aug 2025 08:33:05 GMT | AED FWECTF Writeup (CTF Challenge) | Michael Elfauz | [Read More](https://medium.com/p/c53a5a2ae248) |
+| Sat, 30 Aug 2025 08:31:21 GMT | [CyberDefenders Write-up] T1197 (BitsAdmin & Schedule Task persistence investigate with Splunk) | Chicken0248 | [Read More](https://medium.com/p/0cc6314a3767) |
+| Sat, 30 Aug 2025 08:31:12 GMT | Essential Networking Ports Every Developer and IT Professional Should Know | Rohan Mistry | [Read More](https://medium.com/p/f5d2493999e1) |
+| Sat, 30 Aug 2025 08:25:16 GMT | EDR Explained - TryHackMe Introduction to EDR Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/604eb9e0099a) |
+| Sat, 30 Aug 2025 08:11:47 GMT | # اكتشاف ثوري: مقياس الثعلب الذئب لتقييم مهارات الهندسة الاجتماعية (نسخة موسعة) | Claudeahmedats | [Read More](https://medium.com/p/94cc93a968a6) |
+| Sat, 30 Aug 2025 08:10:02 GMT | # اكتشاف ثوري: مقياس الثعلب الذئب لتقييم مهارات الهندسة الاجتماعية | Claudeahmedats | [Read More](https://medium.com/p/74f82a6389b2) |
 | Sat, 30 Aug 2025 08:01:41 GMT | Self-Healing Infrastructure: Beyond Auto-Scaling and Into Autonomous Ops | Mohamed ElEmam | [Read More](https://medium.com/p/1bfbcd7c4c8d) |
 | Sat, 30 Aug 2025 08:00:16 GMT | # Breakthrough Discovery: The FoxWolf Scale for Social Engineering Skills Assessment | Claudeahmedats | [Read More](https://medium.com/p/d10e2a68855a) |
 | Sat, 30 Aug 2025 07:49:45 GMT | Web Security Essentials {THM} | Intelithics | [Read More](https://medium.com/p/d291e8a813a0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 22:13:50 GMT | HTTP Request Smuggling in Government Websites | Monika sharma | [Read More](https://medium.com/p/30fcbe230415) |
 | Fri, 29 Aug 2025 22:13:43 GMT | Open Directory Exposure: APK & EXE Dump Found on m.bureaux.fr | Regan Temudo | [Read More](https://medium.com/p/514c4e293038) |
 | Fri, 29 Aug 2025 22:02:38 GMT | Introduction to EDR TryHackMe - * Motion Graphics * - Beginner Friendly - Sunny Singh Verma | Sunny Singh Verma  [ SuNnY ] | [Read More](https://medium.com/p/2aafeb733cf7) |
-| Fri, 29 Aug 2025 21:51:25 GMT | The Planet’s Prestige - Blue Teams Labs Online | Anas404 | [Read More](https://medium.com/p/a0a8bc5bbdc5) |
-| Fri, 29 Aug 2025 21:45:09 GMT | Cybersecurity Framework — Quick Guide and ref | Aadish | [Read More](https://medium.com/p/ae814e040ae5) |
-| Fri, 29 Aug 2025 21:37:18 GMT | Red Team 101: Pasif Bilgi Toplama (OSINT) Araçları ve Yöntemleri - TalentCoders Siber Güvenlik Yaz… | Hakan ÇEVİK | [Read More](https://medium.com/p/e2a11c018227) |
-| Fri, 29 Aug 2025 21:37:17 GMT | Using Tutorials To Show Exploits (Series) — Part 2 | Nwosu Rosemary | [Read More](https://medium.com/p/55a2207ab058) |
-| Fri, 29 Aug 2025 21:31:36 GMT | SAMM, ASVS e DevSecOps: fortalecendo a segurança de software | Gabi Deutner | [Read More](https://medium.com/p/23d6b11207d4) |
-| Fri, 29 Aug 2025 21:27:56 GMT | Reverse Engineering Challenge — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/783d87d3f233) |
-| Fri, 29 Aug 2025 21:27:28 GMT | Forensics Challenges — EYCC 2025 | محمد بن إبراهيم | [Read More](https://medium.com/p/284e92f4be53) |
