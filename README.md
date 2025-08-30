@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 09:13:33 GMT | Career Choices That Last: A Woman’s Guide to Making Informed Decisions | Poorvi Arora | [Read More](https://medium.com/p/8490a6d06a4a) |
+| Sat, 30 Aug 2025 08:55:14 GMT | Ikaw, Saan Mo Gusto? | TheBoyWhoCriedWolf | [Read More](https://medium.com/p/f551ca4b0063) |
+| Sat, 30 Aug 2025 08:51:31 GMT | ️ Building My Own OSINT Framework: From Beginner Script to Reconnaissance Tool | Rohit Sahani | [Read More](https://medium.com/p/63e555e60c5f) |
 | Sat, 30 Aug 2025 08:39:41 GMT | Reverse Engineering My First Malware Sample (and What I Learned) | Aj | [Read More](https://medium.com/p/77177d39c6ee) |
 | Sat, 30 Aug 2025 08:33:05 GMT | AED FWECTF Writeup (CTF Challenge) | Michael Elfauz | [Read More](https://medium.com/p/c53a5a2ae248) |
 | Sat, 30 Aug 2025 08:31:21 GMT | [CyberDefenders Write-up] T1197 (BitsAdmin & Schedule Task persistence investigate with Splunk) | Chicken0248 | [Read More](https://medium.com/p/0cc6314a3767) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 22:16:07 GMT | TryHackMe-  Introduction To EDR Solved | Samar Bedi | [Read More](https://medium.com/p/f1603227f7a9) |
 | Fri, 29 Aug 2025 22:14:49 GMT | 40 AI Terms You Need to Know (Explained Clearly) | Hemant Patkar, CISSP | [Read More](https://medium.com/p/a4e625aa7fe2) |
 | Fri, 29 Aug 2025 22:14:41 GMT | The Real Cost of Getting Hacked: It’s More Than Just Money | Shahzaib | [Read More](https://medium.com/p/af439e850f72) |
-| Fri, 29 Aug 2025 22:13:50 GMT | HTTP Request Smuggling in Government Websites | Monika sharma | [Read More](https://medium.com/p/30fcbe230415) |
-| Fri, 29 Aug 2025 22:13:43 GMT | Open Directory Exposure: APK & EXE Dump Found on m.bureaux.fr | Regan Temudo | [Read More](https://medium.com/p/514c4e293038) |
-| Fri, 29 Aug 2025 22:02:38 GMT | Introduction to EDR TryHackMe - * Motion Graphics * - Beginner Friendly - Sunny Singh Verma | Sunny Singh Verma  [ SuNnY ] | [Read More](https://medium.com/p/2aafeb733cf7) |
