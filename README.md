@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 11:30:59 GMT | DockerLabs Writeup — Move (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9823fa1e04f3) |
+| Sat, 30 Aug 2025 11:30:44 GMT | Don’t Get Spoofed: A Deep Dive into DHCP Snooping | Ahmed Maher | [Read More](https://medium.com/p/bd5497301e34) |
+| Sat, 30 Aug 2025 11:26:05 GMT | The Immune System of the Internet: Why Cybersecurity Matters | Aayushi Sinha | [Read More](https://medium.com/p/800d2e99f52a) |
+| Sat, 30 Aug 2025 11:25:33 GMT | OSCP Preparation Series | Ahsan Ali Khan | [Read More](https://medium.com/p/61911e192824) |
+| Sat, 30 Aug 2025 11:20:02 GMT | Hey, Can We Talk About Your AI for a Minute? | Myra Jarenga | [Read More](https://medium.com/p/838c28f8d40c) |
+| Sat, 30 Aug 2025 11:19:28 GMT | 10 Most Reliable Hosting Providers for Government Websites in 2025 ️ | Anand Verma | [Read More](https://medium.com/p/108971b15a02) |
+| Sat, 30 Aug 2025 11:19:12 GMT | Full-Stack Auth: Sessions, JWTs, and Best Practices | Tera Byte 26 | [Read More](https://medium.com/p/3753f6e1153e) |
+| Sat, 30 Aug 2025 11:15:41 GMT | How I Found a Critical Subdomain Takeover Vulnerability (And What You Can Learn From It) | Be nice insabat | [Read More](https://medium.com/p/8af33baa321c) |
+| Sat, 30 Aug 2025 11:14:46 GMT | Free 14 Hours Recon Course | AJAK Cyber Academy | [Read More](https://medium.com/p/9f2844f2b1bd) |
 | Sat, 30 Aug 2025 11:08:03 GMT | ️  ’ :     ’… | Akhil Binu | [Read More](https://medium.com/p/6f2c2cc937c7) |
 | Sat, 30 Aug 2025 10:54:04 GMT | What’s Love Got to Do With it? On the Vulnerability Crisis | Raheema | [Read More](https://medium.com/p/53497bb6ef49) |
+| Sat, 30 Aug 2025 10:32:20 GMT | Dimensity 9500: Game-Changer Baru di Persaingan Chipset Flagship? | Michael jr. | [Read More](https://medium.com/p/51944be776ce) |
 | Sat, 30 Aug 2025 10:30:40 GMT | Assalam o alaikum for muslim brothers and hello for non muslims, i hope all of you are doing well… | insbat meg | [Read More](https://medium.com/p/71da6cffdea3) |
 | Sat, 30 Aug 2025 10:27:12 GMT | Why Most Cybersecurity Candidates Fail Interviews (Hint: It’s Not Just About Hands-On Skills) | The Daily Cyber News | [Read More](https://medium.com/p/8d24edbe1155) |
 | Sat, 30 Aug 2025 10:26:48 GMT | How i was abble to delete ORG with leaked token | Be nice insabat | [Read More](https://medium.com/p/4375c8eecc5b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 03:22:05 GMT | Chicken or Egg: Staying Ahead in the Security Arms Race | Gaurang Katyal | [Read More](https://medium.com/p/6fe61af345fa) |
 | Sat, 30 Aug 2025 02:46:01 GMT | How ‘Hello!’ Becomes Packets, Frames, and Bits: iMessage Through the OSI Lens | Taulan Zauzanov | [Read More](https://medium.com/p/004784ebb443) |
 | Sat, 30 Aug 2025 02:33:36 GMT | AI-Powered Cyberattacks in 2025: Should You Be Worried? | noel chukwuebuka | [Read More](https://medium.com/p/821bafd87951) |
-| Sat, 30 Aug 2025 02:33:36 GMT | ⚡️ TCP vs. UDP: Reliability vs. Speed | Keerthan V Suvarna | [Read More](https://medium.com/p/2722b9a4854b) |
-| Sat, 30 Aug 2025 02:33:36 GMT | Top 10 AI Tools That Make Your Profession Hacker | Mayank Pal | [Read More](https://medium.com/p/5af0056c9acc) |
-| Sat, 30 Aug 2025 02:17:28 GMT | Why Familiar Workflows Can Be Your Biggest OSINT Blind Spot | Sam Galope | [Read More](https://medium.com/p/d629a10d8d3c) |
-| Sat, 30 Aug 2025 02:17:20 GMT | Editor — HackTheBox | Mustafa Abdullah | [Read More](https://medium.com/p/81779786c978) |
-| Sat, 30 Aug 2025 01:58:23 GMT | Incident Response 101: What Happens After a Security Breach? | Gertrude Abagale | [Read More](https://medium.com/p/827c43941ece) |
-| Sat, 30 Aug 2025 01:56:06 GMT | Normalized Compromise: Why Visibility Is the Achilles’ Heel of Modern Cloud Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/40dda8f37766) |
-| Sat, 30 Aug 2025 01:31:28 GMT | Implementing TOTP-Based MFA in Node.js/Express.js | bektiaw | [Read More](https://medium.com/p/9807d8c92667) |
-| Sat, 30 Aug 2025 01:25:24 GMT | India Leads the Way: The World’s First Unhackable Messaging Service | Harsh duhan | [Read More](https://medium.com/p/6a8e3cbc5ea7) |
-| Sat, 30 Aug 2025 01:23:34 GMT | What Makes Certain Personality Types So Irresistibly Attractive? | Fower Leo | [Read More](https://medium.com/p/003d2b79dce7) |
-| Sat, 30 Aug 2025 01:13:36 GMT | Deep Connection: Why Profound Conversations Are Essential for Lasting Intimacy | Sevenqian | [Read More](https://medium.com/p/dcaf8c89ad91) |
