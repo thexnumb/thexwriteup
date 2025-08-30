@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 10:27:12 GMT | Why Most Cybersecurity Candidates Fail Interviews (Hint: It’s Not Just About Hands-On Skills) | The Daily Cyber News | [Read More](https://medium.com/p/8d24edbe1155) |
+| Sat, 30 Aug 2025 10:26:48 GMT | How i was abble to delete ORG with leaked token | Be nice insabat | [Read More](https://medium.com/p/4375c8eecc5b) |
+| Sat, 30 Aug 2025 10:25:57 GMT | Troubleshooting Kubernetes Master Node Certificate Expiry and API Server Access Issues: A… | Tech Trends Today | [Read More](https://medium.com/p/8d265bdbbf33) |
+| Sat, 30 Aug 2025 10:23:13 GMT | How I Got Listed on CERT-In’s Hall of Fame Before Turning 20 | Yukeshwaran N | [Read More](https://medium.com/p/630113e834d1) |
+| Sat, 30 Aug 2025 10:17:34 GMT | Why cyber security careers are recession proof | Nagaraj | [Read More](https://medium.com/p/4a6a9b7fac53) |
+| Sat, 30 Aug 2025 10:17:33 GMT | The slow weight of shame | Renuka Chhonkar | [Read More](https://medium.com/p/048d5ecccb09) |
+| Sat, 30 Aug 2025 10:17:23 GMT | Round-the-Clock Security: The Power of a Managed SOC. | Abdella Technologies | [Read More](https://medium.com/p/57aecffe84d9) |
 | Sat, 30 Aug 2025 10:07:52 GMT | WhatsApp Releases Critical Security Update to Fix Zero Click Exploit Targeting iOS and macOS | Jasmitharouthu | [Read More](https://medium.com/p/cbf743fd2596) |
 | Sat, 30 Aug 2025 09:59:51 GMT | Comprehensive Cybersecurity Solutions for a Secure Future | Cisogenemarketing | [Read More](https://medium.com/p/a4ac8a5b93df) |
 | Sat, 30 Aug 2025 09:59:10 GMT | From Attack Intel to Production Detection: AI Approach to Detection Engineering | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/53c5b161782a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 00:57:35 GMT | A Data Scientist’s Guide to Not Getting Stalked Online (Too Much) | Michael Bagalman | [Read More](https://medium.com/p/699d0f373a82) |
 | Sat, 30 Aug 2025 00:35:31 GMT | Building Secure and Scalable Data Architectures with Databricks on AWS | Victor L. Batista | [Read More](https://medium.com/p/0d06d2b96e28) |
 | Sat, 30 Aug 2025 00:16:59 GMT | Stuck In Bug Hunting? Don’t Know Where To Go Now? Don’t Worry More. I Got You! | NnFace | [Read More](https://medium.com/p/261f533919aa) |
-| Sat, 30 Aug 2025 00:12:20 GMT | Future of Web Security — Passwordless Login, WebAuthn, MFA, hingga Quantum-Safe Encryption | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/c943b5ecc30d) |
-| Sat, 30 Aug 2025 00:09:22 GMT | Cracking Code, Catching Bugs: My Case Study of Three Vulnerability Hunts | LETCHU PKT | [Read More](https://medium.com/p/855fe0ef6e37) |
-| Sat, 30 Aug 2025 00:07:34 GMT | How I studied for (and passed) the CompTIA Network+ ce exam with an 823 | cat5eyez | [Read More](https://medium.com/p/c553b2b2e5a5) |
-| Sat, 30 Aug 2025 00:01:38 GMT | Assetfinder Guide: The Essential Tool for Subdomain Discovery in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/a703363a4598) |
-| Fri, 29 Aug 2025 23:39:12 GMT | From Elasticsearch to ClickHouse: Why We Migrated Logalarm SIEM | Ahmet Kürşat ŞEROLAR | [Read More](https://medium.com/p/c0a8373e1809) |
-| Fri, 29 Aug 2025 23:35:01 GMT | LLM Security: Best Practices for Protecting Chatbots in Production | Ben Batman | [Read More](https://medium.com/p/d26e01d2c3dc) |
-| Fri, 29 Aug 2025 23:27:43 GMT | Generative Security: Continuously Evolving Attack and Defense Tactics | Lanhui chen | [Read More](https://medium.com/p/f47f68ea730a) |
