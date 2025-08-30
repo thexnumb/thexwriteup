@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 15:13:17 GMT | Phishing Email Analysis Tools — Your Go-To Toolkit | Vijay Kumar Gupta | [Read More](https://medium.com/p/bfbcc45cd76f) |
+| Sat, 30 Aug 2025 15:11:46 GMT | Webcookoo: Enterprise-Grade Cybersecurity for the Quantum Era | Sumit Chauhan | [Read More](https://medium.com/p/3d6a7b6b13bc) |
+| Sat, 30 Aug 2025 15:06:34 GMT | Top AI Security Events | Tal Eliyahu | [Read More](https://medium.com/p/28ee7eb4d79c) |
+| Sat, 30 Aug 2025 15:06:05 GMT | Man-in-the-Middle (MITM) Attacks: When Hackers Eavesdrop on Your Conversations | Sparshika | [Read More](https://medium.com/p/ad184cc4c537) |
+| Sat, 30 Aug 2025 15:03:37 GMT | When the Internet Gets Too Crowded: DoS & DDoS Attacks | Sparshika | [Read More](https://medium.com/p/6a039ca4f55a) |
+| Sat, 30 Aug 2025 14:58:03 GMT | Capgemini Interview Experience | Ajit Kumar | [Read More](https://medium.com/p/71e436b56646) |
+| Sat, 30 Aug 2025 14:55:42 GMT | Compatibility Horoscope | Silent Observer (Sarphari) | [Read More](https://medium.com/p/84d686c4f48b) |
+| Sat, 30 Aug 2025 14:53:35 GMT | Sweet Things to Say to a Woman You Like, Words That Warm a Woman’s Heart | Poly-blang | [Read More](https://medium.com/p/a132e6eb38a4) |
+| Sat, 30 Aug 2025 14:51:03 GMT | Web Cache Poisoning (Don’t forget simple but powerful) | SACHIN PV | [Read More](https://medium.com/p/d4bba30cf4d2) |
+| Sat, 30 Aug 2025 14:44:06 GMT | Feedback on ChatGPT Safety on Adam's tragedy | Stranger. | [Read More](https://medium.com/p/f27e9d03b19a) |
+| Sat, 30 Aug 2025 14:39:34 GMT | The Role of XAN: Fueling Anoma’s Operating System | Seen | [Read More](https://medium.com/p/8a527b4a2386) |
+| Sat, 30 Aug 2025 14:33:51 GMT | Combining AI, Cloud, and Security for Modern Enterprise Apps | KodekX | [Read More](https://medium.com/p/bf5dfc152a19) |
 | Sat, 30 Aug 2025 14:30:36 GMT | Penetration Testing Market is anticipated to reach USD 4.2 billion by 2035 | Vinita kumari | [Read More](https://medium.com/p/3f228a2624bc) |
 | Sat, 30 Aug 2025 14:27:31 GMT | Poiesis: A Blueprint for AI That Doesn’t Just Learn — It Transcends | handman | [Read More](https://medium.com/p/39225c37f730) |
 | Sat, 30 Aug 2025 14:25:26 GMT | Phishing Hooks: Why Humans Are the Weakest Link | Raj Islam | [Read More](https://medium.com/p/338137197d59) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 08:11:47 GMT | # اكتشاف ثوري: مقياس الثعلب الذئب لتقييم مهارات الهندسة الاجتماعية (نسخة موسعة) | Claudeahmedats | [Read More](https://medium.com/p/94cc93a968a6) |
 | Sat, 30 Aug 2025 08:10:02 GMT | # اكتشاف ثوري: مقياس الثعلب الذئب لتقييم مهارات الهندسة الاجتماعية | Claudeahmedats | [Read More](https://medium.com/p/74f82a6389b2) |
 | Sat, 30 Aug 2025 08:01:41 GMT | Self-Healing Infrastructure: Beyond Auto-Scaling and Into Autonomous Ops | Mohamed ElEmam | [Read More](https://medium.com/p/1bfbcd7c4c8d) |
-| Sat, 30 Aug 2025 08:00:16 GMT | # Breakthrough Discovery: The FoxWolf Scale for Social Engineering Skills Assessment | Claudeahmedats | [Read More](https://medium.com/p/d10e2a68855a) |
-| Sat, 30 Aug 2025 07:49:45 GMT | Web Security Essentials {THM} | Intelithics | [Read More](https://medium.com/p/d291e8a813a0) |
-| Sat, 30 Aug 2025 07:36:00 GMT | Beyond the Binary: Why Breach Readiness Demands Both Agent and Agentless Security | Agnidipta Sarkar | [Read More](https://medium.com/p/0ba849333114) |
-| Sat, 30 Aug 2025 07:33:25 GMT | The Wi-Fi I Never Asked For | 0xChill | [Read More](https://medium.com/p/cf24508a06df) |
-| Sat, 30 Aug 2025 07:27:08 GMT | The NotebookLM-Pineapple Experiment | The Ancient Mariner | [Read More](https://medium.com/p/9a4ed36eac1f) |
-| Sat, 30 Aug 2025 07:24:27 GMT | Future-Proof Your Career with Cybersecurity Training in Madurai | Michael Antony | [Read More](https://medium.com/p/224873d337d8) |
-| Sat, 30 Aug 2025 07:19:04 GMT | What I learned from my mind torturing me (and what you shouldn’t do when your thoughts won’t stop) | David Rodriguez | [Read More](https://medium.com/p/9ed4ba57716b) |
-| Sat, 30 Aug 2025 07:11:26 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/259b3fc01392) |
-| Sat, 30 Aug 2025 07:11:18 GMT | Secure Django Auth — Drop-in Authentication with MFA, Social Login & Brute-Force Protection | Nuggtjulie | [Read More](https://medium.com/p/fb9676166d4f) |
-| Sat, 30 Aug 2025 07:09:11 GMT | Poisoned Pipeline: When Your Dev Tools Betray You | Aj | [Read More](https://medium.com/p/95de2eff142b) |
-| Sat, 30 Aug 2025 07:08:23 GMT | Why I Chose to Become a Hacker Who Protects, Not Destroys | Shahzaib | [Read More](https://medium.com/p/719b47bac05a) |
-| Sat, 30 Aug 2025 07:01:41 GMT | Comment l’IA Réinvente la Cybersécurité | David C. | [Read More](https://medium.com/p/af654e16f7e4) |
