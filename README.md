@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 Aug 2025 04:15:33 GMT | Oopsie — Hack The Box | R37R0 | [Read More](https://medium.com/p/1aed49c10266) |
+| Sat, 30 Aug 2025 04:09:36 GMT | Python for Hackers: Scripts That Can Find Vulnerabilities in Minutes | Sukhveer Singh | [Read More](https://medium.com/p/81620e8c7319) |
+| Sat, 30 Aug 2025 04:04:46 GMT | THM: Basic Pentesting | Zaakceptowac | [Read More](https://medium.com/p/f599219411dd) |
+| Sat, 30 Aug 2025 03:51:25 GMT | เปลี่ยนมาใช้เว็บ Bloodhound-ce ต้องรีเซ็ต Postgres ต้องหาวิธีแก้รหัส neo4j ที่แสนยุ่งยาก… | ThaiCySec | [Read More](https://medium.com/p/c2479f0ee7d6) |
 | Sat, 30 Aug 2025 03:38:21 GMT | Write Up Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Velskynotfound | [Read More](https://medium.com/p/a421b1ed83bb) |
 | Sat, 30 Aug 2025 03:33:26 GMT | Israel INVASION Of Gaza City Begins — Islamists Face Downfall in Gaza | Everclear | [Read More](https://medium.com/p/0e2ae5fff44d) |
 | Sat, 30 Aug 2025 03:31:35 GMT | Cyber Frontlines: How AI Revolution Meets Security Evolution | Akshat Ratanpal | [Read More](https://medium.com/p/99d825ab031d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 Aug 2025 17:59:21 GMT | The Turning Point: How Hacking Entered My Life and Shaped My Future | Shahzaib | [Read More](https://medium.com/p/dbc85660c60b) |
 | Fri, 29 Aug 2025 17:56:37 GMT | Why Most Businesses Fail Online (And How to Fix It) | NexPower Solutions | [Read More](https://medium.com/p/e9bfc468c0ed) |
 | Fri, 29 Aug 2025 17:56:21 GMT | Give credit where credit is due. Never knew their names. I appreciate their genius. | Treathyl Fox aka cmoneyspinner | [Read More](https://medium.com/p/f26add0a61ec) |
-| Fri, 29 Aug 2025 17:54:50 GMT | Are Your Gmail Details at Risk? Salesforce Breach | Muhammad Zawar | [Read More](https://medium.com/p/2e84f4cb8bb5) |
-| Fri, 29 Aug 2025 17:52:41 GMT | My Bachelor Thesis: A Story of Invisible Source Code Attacks | Marco Zoratti | [Read More](https://medium.com/p/a9f046b4cf61) |
-| Fri, 29 Aug 2025 17:39:55 GMT | Mitigating TURN Amplification Attacks | Gabor Retvari | [Read More](https://medium.com/p/2676bdcb268c) |
-| Fri, 29 Aug 2025 17:37:00 GMT | Node.js Security Best Practices for Developers | Suraj Khonde | [Read More](https://medium.com/p/0c240423693f) |
