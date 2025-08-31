@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 22:03:56 GMT | Foundations of Disinformation Analysis: Understanding the Threat in the Digital Age | Habeeb CM Cyber | [Read More](https://medium.com/p/d9ac499e501c) |
 | Sun, 31 Aug 2025 21:28:23 GMT | threat hunting part 1: malware persistence through masquerading | Sirine Amrane | [Read More](https://medium.com/p/a3025d9624d0) |
 | Sun, 31 Aug 2025 21:02:21 GMT | I Almost Closed the Tab on My Biggest Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/8685ef3d2f46) |
 | Sun, 31 Aug 2025 20:50:21 GMT | Harden your containerized Backstage app, for Kubernetes | Mathieu Benoit | [Read More](https://medium.com/p/6bcab5f0bf87) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 15:04:41 GMT | I’m Afraid of My Own Success | Dani McBee | [Read More](https://medium.com/p/dee37692c602) |
 | Sun, 31 Aug 2025 15:01:40 GMT | How to Find SQLi in Bug Bounty ️ | Balki Maharaj | [Read More](https://medium.com/p/7a1543e98d9e) |
 | Sun, 31 Aug 2025 14:59:30 GMT | The Cookie Bomb: My First $10K in Bug Bounties | Arshad Kazmi | [Read More](https://medium.com/p/f86cb22c37fa) |
-| Sun, 31 Aug 2025 14:57:01 GMT | Mission AppPossible :Draw Boxes, Find Bugs :-The Threat Modeling Way | Sumit Sharma | [Read More](https://medium.com/p/5ff09279843d) |
