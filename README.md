@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 11:05:46 GMT | When the Referer Becomes the Villain: RXSS + Redirection | Aryan Shrestha | [Read More](https://medium.com/p/be49d7d323c6) |
+| Sun, 31 Aug 2025 11:04:46 GMT | Post-Quantum Cryptography: Securing Tomorrow’s Data Today | Intellitron Genesis | [Read More](https://medium.com/p/9520d08bf224) |
+| Sun, 31 Aug 2025 11:01:34 GMT | I Didn’t Know I Could Shine Like This | Her Out-of-Office Feelings | [Read More](https://medium.com/p/8377312e3694) |
+| Sun, 31 Aug 2025 10:56:51 GMT | 10 Types of Information You Should Never Share with ChatGPT | The Human Prompt | [Read More](https://medium.com/p/c04ca4870be3) |
+| Sun, 31 Aug 2025 10:56:04 GMT | Unpacking Cyber Security: Layers of Protection | Cyber Security Research | [Read More](https://medium.com/p/f28f23bbfb32) |
+| Sun, 31 Aug 2025 10:50:57 GMT | Keylime: A Complete Guide to Hardware-Backed Security for Kubernetes and Edge Workloads | ebenamor | [Read More](https://medium.com/p/8ccb53cdbc3b) |
+| Sun, 31 Aug 2025 10:50:55 GMT | Keylime: A Complete Guide to Hardware-Backed Security for Kubernetes and Edge Workloads | ebenamor | [Read More](https://medium.com/p/3d0045868dd4) |
+| Sun, 31 Aug 2025 10:50:04 GMT | Sensitive Data Exposure in React: Fixes & Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/78dacc94e3ff) |
+| Sun, 31 Aug 2025 10:49:19 GMT | TryHackMe — Brooklyn Nine Nine Walkthrough | Jainil Borisagar | [Read More](https://medium.com/p/cc51a977919e) |
+| Sun, 31 Aug 2025 10:43:10 GMT | Jaringan Komputer : Instalasi Kabel Straight dan Cross | Yasa Wijaya | [Read More](https://medium.com/p/926c416911ec) |
+| Sun, 31 Aug 2025 10:41:52 GMT | ️ Passive Reconnaissance: Hacking Without Touching the Target | Furkanctiner | [Read More](https://medium.com/p/28cda1fbe3da) |
+| Sun, 31 Aug 2025 10:35:46 GMT | 60-Second Domain Check: Find Exposed Logins For Your Company Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/ba82ed623a8b) |
 | Sun, 31 Aug 2025 10:31:54 GMT | # The Forgetting Brain: Why AI Safety Needs Alzheimer's, Not Einstein | Vivek. | [Read More](https://medium.com/p/c9813d218d75) |
 | Sun, 31 Aug 2025 10:30:43 GMT | Which careers demand a Linux certification? | cyber security Updates | [Read More](https://medium.com/p/cecdc36b9198) |
 | Sun, 31 Aug 2025 10:30:42 GMT | Why Maladaptive Habits Persist Among Humans | Ahmad2105 | [Read More](https://medium.com/p/1da6c99df249) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 04:21:42 GMT | DirecTV in 2025: Is Satellite TV Still Worth the Price? | Motherlandlove | [Read More](https://medium.com/p/91c954706871) |
 | Sun, 31 Aug 2025 04:08:55 GMT | How Threat Intelligence Teams Track and Take Down Malware Campaigns | Paritosh | [Read More](https://medium.com/p/6eff624a1ad6) |
 | Sun, 31 Aug 2025 03:58:58 GMT | Applied vs. Paper: The Dual Nature of Cybersecurity | Taulan Zauzanov | [Read More](https://medium.com/p/251ed049919c) |
-| Sun, 31 Aug 2025 03:54:12 GMT | How to Decrypt Network Traffic in Wireshark | Cyber Fortress | [Read More](https://medium.com/p/5feb0cba15a3) |
-| Sun, 31 Aug 2025 03:52:33 GMT | Israel’s Doctrine of Deterrence and Survival | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a0be95a616ed) |
-| Sun, 31 Aug 2025 03:49:10 GMT | CyberDefenders — Network Forensic Labs Part 2 | Jaws | [Read More](https://medium.com/p/db93f37fc4ee) |
-| Sun, 31 Aug 2025 03:31:54 GMT | The Broken Directory Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/184f37087479) |
-| Sun, 31 Aug 2025 03:31:51 GMT | Web Security Essentials: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/e2f2d3cc705d) |
-| Sun, 31 Aug 2025 03:31:35 GMT | How Researchers Exposed Four Zero-Day Exploits That Could Slip Past BitLocker | Deven Chhajed | [Read More](https://medium.com/p/78a9b8f07fea) |
-| Sun, 31 Aug 2025 03:13:16 GMT | Andrew Tate GOES OFF On UK Illegal Immigration Crisis — DEFENDS Rylan Clark Over His Stance! | Everclear | [Read More](https://medium.com/p/d85b396c165e) |
-| Sun, 31 Aug 2025 03:02:53 GMT | Can AI Develop a Soul? How a Strange Blueprint is Paving a Path to Self-Awareness | handman | [Read More](https://medium.com/p/85c1fe18bd72) |
-| Sun, 31 Aug 2025 03:02:26 GMT | TCM Security Practical Malware Researcher Professional (PMRP): Course Review and Exam Tips | Cyd Tseng | [Read More](https://medium.com/p/3114bc8c431e) |
-| Sun, 31 Aug 2025 03:01:38 GMT | Singapore — The  Key to Evacuating Southeast Asians in Taiwan Blockade | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c46e65c055f0) |
-| Sun, 31 Aug 2025 02:50:39 GMT | EXPERIENCE at Accelya As a PLSQL Developer 2025 | Pranav Bakare | [Read More](https://medium.com/p/146c4e44e9e5) |
-| Sun, 31 Aug 2025 02:31:35 GMT | ️ Mastering Network Addressing: IP, Subnetting, and Supernetting | Keerthan V Suvarna | [Read More](https://medium.com/p/915cbdba454d) |
