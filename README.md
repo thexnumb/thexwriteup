@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 23:25:23 GMT | Light and Shadow | Contagious Vulnerability | [Read More](https://medium.com/p/0a009ab398c1) |
 | Sun, 31 Aug 2025 23:06:00 GMT | TryHackMe — REvil Corp Writeup | 3IA | [Read More](https://medium.com/p/4f15d67882de) |
 | Sun, 31 Aug 2025 23:04:30 GMT | Shell Escapes: The Hidden Danger in Sudo Rules | fe4a | [Read More](https://medium.com/p/f5740d2353b2) |
 | Sun, 31 Aug 2025 22:57:39 GMT | Every Senior Engineer I Know Uses This Debugger Trick | ArchitectOfExperience | [Read More](https://medium.com/p/4af19cae2f87) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 15:20:49 GMT | ZAPROXY con Jython Reglas Pasivas 1 | alejandro | [Read More](https://medium.com/p/cc1215e838e3) |
 | Sun, 31 Aug 2025 15:16:59 GMT | How Hackers Use ChatGPT for Cybersecurity ⚡ | john rose | [Read More](https://medium.com/p/edbfb530731f) |
 | Sun, 31 Aug 2025 15:12:30 GMT | Static Analysis → Hardcoded Creds → Google Dorks → ATO (and a $500 Bounty) | toast | [Read More](https://medium.com/p/18337af6e08f) |
-| Sun, 31 Aug 2025 15:10:16 GMT | Binary Bomb Lab: Phase 1 | Sourav Bose | [Read More](https://medium.com/p/5fec0eb88c14) |
