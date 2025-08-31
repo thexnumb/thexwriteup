@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 03:31:54 GMT | The Broken Directory Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/184f37087479) |
+| Sun, 31 Aug 2025 03:31:51 GMT | Web Security Essentials: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/e2f2d3cc705d) |
+| Sun, 31 Aug 2025 03:31:35 GMT | How Researchers Exposed Four Zero-Day Exploits That Could Slip Past BitLocker | Deven Chhajed | [Read More](https://medium.com/p/78a9b8f07fea) |
+| Sun, 31 Aug 2025 03:13:16 GMT | Andrew Tate GOES OFF On UK Illegal Immigration Crisis — DEFENDS Rylan Clark Over His Stance! | Everclear | [Read More](https://medium.com/p/d85b396c165e) |
 | Sun, 31 Aug 2025 03:02:53 GMT | Can AI Develop a Soul? How a Strange Blueprint is Paving a Path to Self-Awareness | handman | [Read More](https://medium.com/p/85c1fe18bd72) |
 | Sun, 31 Aug 2025 03:02:26 GMT | TCM Security Practical Malware Researcher Professional (PMRP): Course Review and Exam Tips | Cyd Tseng | [Read More](https://medium.com/p/3114bc8c431e) |
 | Sun, 31 Aug 2025 03:01:38 GMT | Singapore — The  Key to Evacuating Southeast Asians in Taiwan Blockade | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c46e65c055f0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 17:14:14 GMT | CloudSEK CTF’25 Write-up | Aryan sharma | [Read More](https://medium.com/p/ef486e5cc731) |
 | Sat, 30 Aug 2025 17:13:15 GMT | P3《紅軍 API × GPT-5 用戶隱私外洩報告》 | BoLiang Lin | [Read More](https://medium.com/p/b8d9580ad27a) |
 | Sat, 30 Aug 2025 17:03:25 GMT | Data as Liability: Executive Imperatives for Storing and Protecting Payment System Data | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/0652e9bde042) |
-| Sat, 30 Aug 2025 17:00:46 GMT | Evil Hunting!! … in Linux! | Luke | [Read More](https://medium.com/p/9d23873eb7a9) |
-| Sat, 30 Aug 2025 17:00:14 GMT | AI/LLM Hacking- Part 2- Prompt Injection | Darshan Naresh Naik | [Read More](https://medium.com/p/13030a731e15) |
-| Sat, 30 Aug 2025 16:53:15 GMT | My Hands-on with AWS IAM: Learning Identity and Access Management | Yashwant Patil | [Read More](https://medium.com/p/9e9c6a9853d3) |
-| Sat, 30 Aug 2025 16:50:03 GMT | Getting Started with Ghidra Scripting: Python Power Meets Java Integration | Yen | [Read More](https://medium.com/p/b957b40aadac) |
