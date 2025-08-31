@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 12:32:03 GMT | Apple Secures a Landmark Win in the Ongoing Encryption Battle | Motherlandlove | [Read More](https://medium.com/p/66438cb696ee) |
+| Sun, 31 Aug 2025 12:25:02 GMT | Hash Collision Vulnerability (Smart Contract) | nevo | [Read More](https://medium.com/p/a8ccc0da0cec) |
+| Sun, 31 Aug 2025 12:18:14 GMT | Zero Trust Architecture: The Future of Cybersecurity | Aasik | [Read More](https://medium.com/p/aeb61f19dce3) |
+| Sun, 31 Aug 2025 12:10:02 GMT | DockerLabs Writeup — Escolares (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1fbb33e5a975) |
+| Sun, 31 Aug 2025 12:06:42 GMT | Authentication vs Authorization in Java: A Quick Guide | RocketScience | [Read More](https://medium.com/p/f86b57fd8609) |
+| Sun, 31 Aug 2025 12:01:37 GMT | Decoding Cyber Threats with MITRE ATT&CK: Most Common and Effective Techniques Explained | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/fa7279e22ae0) |
+| Sun, 31 Aug 2025 12:01:25 GMT | The New Face of Cybersecurity: When Hackers Don’t Even Need to Hack | vydhi | [Read More](https://medium.com/p/59ea9c085d00) |
+| Sun, 31 Aug 2025 11:58:22 GMT | “How Downloading SolidWorks Got My Laptop Hacked (and Started My Cybersecurity Journey)” | Maria | [Read More](https://medium.com/p/f608d1c0e014) |
+| Sun, 31 Aug 2025 11:51:24 GMT | ️ CybaSquad Cybersecurity Internship | Cybasquad | [Read More](https://medium.com/p/2fe22c141b13) |
+| Sun, 31 Aug 2025 11:46:36 GMT | Introducing CybaSquad | Cybasquad | [Read More](https://medium.com/p/2eeb9835fcd6) |
+| Sun, 31 Aug 2025 11:42:04 GMT | Kubernetes v1.34: Major Release Highlights | ThamizhElango Natarajan | [Read More](https://medium.com/p/d116f10cd2d5) |
+| Sun, 31 Aug 2025 11:41:13 GMT | The man who was marked for death | Abang Obed(obx) | [Read More](https://medium.com/p/8c20d7f8f70a) |
+| Sun, 31 Aug 2025 11:41:13 GMT | A Deeper Look at Cross-Site Scripting (XSS) Vulnerabilities | Samina Perveen | [Read More](https://medium.com/p/f4b035cbe367) |
+| Sun, 31 Aug 2025 11:37:58 GMT | Why the Kubernetes Community Created kyaml: Solving YAML Management at Scale | ThamizhElango Natarajan | [Read More](https://medium.com/p/dcfefa2399a5) |
+| Sun, 31 Aug 2025 11:37:51 GMT | Imagine a City Full of Banks With No Police—That’s Crypto Today. Drosera Wants to Change That. | Great | [Read More](https://medium.com/p/16f6b5065af7) |
 | Sun, 31 Aug 2025 11:31:11 GMT | Day 47- Operating system hardening: Making your computer safer | unica 02 | [Read More](https://medium.com/p/9051e37228c4) |
 | Sun, 31 Aug 2025 11:27:02 GMT | $5000+ in Bounties, 20+ Bug Reports, 2 Hall of Fame : Find Your First Bug! | Akash Singh | [Read More](https://medium.com/p/32d564c1b9b4) |
 | Sun, 31 Aug 2025 11:22:38 GMT | Cyber Security Forensics: Tracing the Digital Footprints | Cyber Security Research | [Read More](https://medium.com/p/e5614af983fc) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 06:10:37 GMT | How I Exploited a JWT Misconfiguration for Account Takeover and Admin Access in 5 Minutes | PARADOX | [Read More](https://medium.com/p/c2974899f4ec) |
 | Sun, 31 Aug 2025 06:00:54 GMT | Understanding the Security Capabilities of Information Systems | Raviteja Mureboina | [Read More](https://medium.com/p/5ce486827d3b) |
 | Sun, 31 Aug 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Aug 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6f6a3bfd75a7) |
-| Sun, 31 Aug 2025 05:38:51 GMT | 5G Satellite Internet: How Space Tech Is Redefining Connectivity | Sienna Lewis | [Read More](https://medium.com/p/09b1d6dfa44c) |
-| Sun, 31 Aug 2025 05:36:09 GMT | The $1M Bug: How a Single Line of Code Nearly Crashed Netflix (And What I Learned in Banking Tech) | Logic Over Latte | [Read More](https://medium.com/p/1db2c01b353d) |
-| Sun, 31 Aug 2025 05:28:51 GMT | How to Identify Cyber Security Threats Effectively and Early | Gurleenndigital | [Read More](https://medium.com/p/f2a78991862d) |
-| Sun, 31 Aug 2025 05:21:57 GMT | Introduction to EDR - Tryhackme | Aaron | [Read More](https://medium.com/p/1c43560ccf51) |
-| Sun, 31 Aug 2025 05:20:16 GMT | Becoming Virtually Untraceable — #8–25_M@ss_SuRv3!ll4nc3[.]com | Ian Barwise | [Read More](https://medium.com/p/48581fee1837) |
-| Sun, 31 Aug 2025 05:15:31 GMT | Human or AI? | MMA Pvt Ltd | [Read More](https://medium.com/p/4de1108d6013) |
-| Sun, 31 Aug 2025 05:15:31 GMT | Payload Party: Chaining Tiny Bugs Into a Full-Blown Account Takeover | Iski | [Read More](https://medium.com/p/f85d646f3666) |
-| Sun, 31 Aug 2025 05:07:40 GMT | I Taught My Chatbot to Lie: A High-Level Look at Poisoning a RAG Pipeline | Winston Ludlam | [Read More](https://medium.com/p/c4bd086df896) |
-| Sun, 31 Aug 2025 05:05:16 GMT | Practica 5 — Aprendiendo a Descifrar Contraseñas | César Martínez | [Read More](https://medium.com/p/b09769f13768) |
-| Sun, 31 Aug 2025 04:59:21 GMT | Criando um Scan de Portas em Python | Henry Vilani Mansur | [Read More](https://medium.com/p/e1c1c4670806) |
-| Sun, 31 Aug 2025 04:50:13 GMT | How I Found an Exposed User Database via an Unprotected API (And How to Prevent It) in a private… | Be nice insabat | [Read More](https://medium.com/p/77dd95a1101c) |
-| Sun, 31 Aug 2025 04:34:52 GMT | Cash Trapping: How Criminals Steal Your Money Straight from the ATM | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/095abb86fab1) |
-| Sun, 31 Aug 2025 04:33:00 GMT | Building AI in Cybersecurity for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/998c839516de) |
-| Sun, 31 Aug 2025 04:32:59 GMT | THM: skynet | Zaakceptowac | [Read More](https://medium.com/p/0dc9bc59a5de) |
-| Sun, 31 Aug 2025 04:31:53 GMT | Cloud to Catastrophe: How I Lost Everything in One Click! | hp | [Read More](https://medium.com/p/63985b1d6669) |
