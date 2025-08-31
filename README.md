@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 14:36:49 GMT | Best Laptop for Cyber Security | Yousuf | [Read More](https://medium.com/p/64e3427ec9d0) |
+| Sun, 31 Aug 2025 14:28:17 GMT | Encoding, Hashing and Encryption | Nishada Thathsara | [Read More](https://medium.com/p/fff3d3243724) |
+| Sun, 31 Aug 2025 14:22:38 GMT | # ★Penetration testing ethics : | Sakib Mahmud | [Read More](https://medium.com/p/0a4adffa7213) |
+| Sun, 31 Aug 2025 14:20:09 GMT | Introducing DTRA: Turning Data Into Currency | Rev Cynthia Pustelak | [Read More](https://medium.com/p/f01aa969f166) |
+| Sun, 31 Aug 2025 14:12:57 GMT | Customising Login Experience and Branding for Users in Entra ID | Defend Microsoft365 now! | [Read More](https://medium.com/p/1f6803e7f0db) |
+| Sun, 31 Aug 2025 14:09:59 GMT | The Bangladesh Bank Heist Almost | O. J. Okpabi | [Read More](https://medium.com/p/3d4252d44e91) |
 | Sun, 31 Aug 2025 13:59:47 GMT | The Nx Supply Chain Attack: When AI Started Stealing Your Secrets | Serhii Malyshev | [Read More](https://medium.com/p/a6303de58fef) |
 | Sun, 31 Aug 2025 13:54:19 GMT | Practical Guide to ISO 27001:2022 Certifiction and Beyond | Wiran Larbi | [Read More](https://medium.com/p/7fab508e0616) |
 | Sun, 31 Aug 2025 13:51:19 GMT | The first step in Breach Readiness: catalogue the Crown Jewels | Agnidipta Sarkar | [Read More](https://medium.com/p/afbf157d53da) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 08:05:35 GMT | Spring Boot vs Kotlin HttpClient: When Multipart REST Calls Go Wrong (and How to Fix Them) | Abdul Ahad | [Read More](https://medium.com/p/bc865efde059) |
 | Sun, 31 Aug 2025 08:01:40 GMT | The Linux Network Configuration Guide That Actually Makes Sense | MayhemCode | [Read More](https://medium.com/p/a68b78698ebc) |
 | Sun, 31 Aug 2025 07:59:03 GMT | What Cybercriminals Truly Prize from Your Hacked Smartphone | David SEHYEON Baek | [Read More](https://medium.com/p/5dc633b60d60) |
-| Sun, 31 Aug 2025 07:53:56 GMT | How North Korea’s AI-Powered IT Scam Tricked Fortune 500 Companies — and Funded Missiles | Aj | [Read More](https://medium.com/p/f79f66cecfdf) |
-| Sun, 31 Aug 2025 07:47:33 GMT | And Before You I Lay Bare | SheWrites | [Read More](https://medium.com/p/6d46ee603e55) |
-| Sun, 31 Aug 2025 07:47:07 GMT | NIST Risk Management Framework — Complete Overview | SecurewithUmer | [Read More](https://medium.com/p/9199d31df2f8) |
-| Sun, 31 Aug 2025 07:41:34 GMT | Authentication vs Authorization in Web Development: Explained Simply | Rohit Kuwar | [Read More](https://medium.com/p/11e41f5f38c0) |
-| Sun, 31 Aug 2025 07:35:32 GMT | Top 10 Cybersecurity Attacks: 2025–2026 | Manisha Chaudhary | [Read More](https://medium.com/p/9ab426dc1571) |
-| Sun, 31 Aug 2025 07:17:45 GMT | Why Mobile Apps Do More Than Desktop — A Security Perspective | Akanksha Mane | [Read More](https://medium.com/p/007faf71df83) |
