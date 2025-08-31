@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 09:26:33 GMT | When the AI Turned Killer | Aj | [Read More](https://medium.com/p/120f770975ab) |
 | Sun, 31 Aug 2025 09:08:37 GMT | Cybersecurity’s Silent Threat: The Unseen Experts | Truspex | [Read More](https://medium.com/p/67ba957bb163) |
+| Sun, 31 Aug 2025 09:07:39 GMT | Wi-Fi Adapter Troubleshooting: Fix Monitor Mode Not Starting (Step-by-Step Guide) | Biplove Yadav | [Read More](https://medium.com/p/0ebc814aa34c) |
 | Sun, 31 Aug 2025 09:03:15 GMT | Apply the knowledge gained over the years, in building tools. | Subramanian S | [Read More](https://medium.com/p/424ca962f89b) |
 | Sun, 31 Aug 2025 09:01:37 GMT | Cryptographic Attacks: Breaking Security Beyond the Algorithm | Kyrillos Kamal | [Read More](https://medium.com/p/c40b6cb2fcee) |
 | Sun, 31 Aug 2025 08:59:28 GMT | Choosing The Appropriate OAuth Flow | Albert Starreveld | [Read More](https://medium.com/p/4f9a99d7401a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 00:08:33 GMT | The Great Unfastening: When the Upgrade Disrupts the Relationship | Carsten Bund | [Read More](https://medium.com/p/6be2d40822ff) |
 | Sat, 30 Aug 2025 23:46:06 GMT | Clickbait Crisis | Tina Ginn | [Read More](https://medium.com/p/88a425def698) |
 | Sat, 30 Aug 2025 23:37:19 GMT | The Importance of Research and Continuous Learning in Vulnerability Management | Anel Graph | [Read More](https://medium.com/p/4afdb11b9a7c) |
-| Sat, 30 Aug 2025 23:31:32 GMT | Future of Web Security — Passwordless Login, WebAuthn, MFA, hingga Quantum-Safe Encryption | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/eec3f2780d89) |
-| Sat, 30 Aug 2025 23:31:31 GMT | How I Protected My Portfolio from Spam: Using Base64 Encoding | Gustavo Velasco | [Read More](https://medium.com/p/4856a4152ba2) |
