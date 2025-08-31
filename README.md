@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 20:10:12 GMT | HackTheBox: Spookifier | Ross Andrews | [Read More](https://medium.com/p/241b05fce761) |
+| Sun, 31 Aug 2025 20:09:29 GMT | Pineal 10x - Supplements — health | Ireneoficie | [Read More](https://medium.com/p/00fe242c14a5) |
+| Sun, 31 Aug 2025 19:58:36 GMT | Union-based SQL injection | Mohammed Hassan | [Read More](https://medium.com/p/2e0cc3b18939) |
+| Sun, 31 Aug 2025 19:52:44 GMT | HIRE A HACKER FOR CRYPTO SCAM RECOVERY SERVICES, CALL MALICE CYBER RECOVERY | Marek Nowak | [Read More](https://medium.com/p/624ae7054982) |
+| Sun, 31 Aug 2025 19:52:13 GMT | Daily Bugle — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/cf78f6109f28) |
+| Sun, 31 Aug 2025 19:47:39 GMT | Review of HTB’s Most Challenging Web Security Certification (CWEE) | MindPatch | [Read More](https://medium.com/p/18b3868c32dd) |
+| Sun, 31 Aug 2025 19:42:04 GMT | Step 1: Kickoff & Leadership Buy-In for ISO 27001:2022 Implementation | Kshitiz Sharma | [Read More](https://medium.com/p/644073718ce9) |
 | Sun, 31 Aug 2025 19:30:07 GMT | Basic of Bind Shell for beginners | Spider256 | [Read More](https://medium.com/p/e795b688d09c) |
 | Sun, 31 Aug 2025 19:20:09 GMT | The Night I Learned Safety Isn’t Optional | SavvyCart | [Read More](https://medium.com/p/396dcc8bcc18) |
 | Sun, 31 Aug 2025 19:20:07 GMT | The First AI-Powered Ransomware Has Arrived, And It’s Just the Beginning | Dr. Barry | [Read More](https://medium.com/p/0e2e8f1ff9a7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 14:09:59 GMT | The Bangladesh Bank Heist Almost | O. J. Okpabi | [Read More](https://medium.com/p/3d4252d44e91) |
 | Sun, 31 Aug 2025 13:59:47 GMT | The Nx Supply Chain Attack: When AI Started Stealing Your Secrets | Serhii Malyshev | [Read More](https://medium.com/p/a6303de58fef) |
 | Sun, 31 Aug 2025 13:54:19 GMT | Practical Guide to ISO 27001:2022 Certifiction and Beyond | Wiran Larbi | [Read More](https://medium.com/p/7fab508e0616) |
-| Sun, 31 Aug 2025 13:51:19 GMT | The first step in Breach Readiness: catalogue the Crown Jewels | Agnidipta Sarkar | [Read More](https://medium.com/p/afbf157d53da) |
-| Sun, 31 Aug 2025 13:47:59 GMT | Cybersecurity Ground Truth: PBKDF2 and OpenSSL | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fc6715a961b0) |
-| Sun, 31 Aug 2025 13:47:33 GMT | Smart Shields: The Rise of AI‑Powered Cyber Security Tools for Businesses | Paul Meyer | [Read More](https://medium.com/p/a6f649af04bd) |
-| Sun, 31 Aug 2025 13:42:31 GMT | I Found DOM-Based XSS & HTML Injection in Swagger UI | 0xmrX | [Read More](https://medium.com/p/292df97500c9) |
-| Sun, 31 Aug 2025 13:40:48 GMT | O Impacto e a Mitigação de Insecure Direct Object Reference (IDOR) em Aplicações Web | lka1r0s | [Read More](https://medium.com/p/05338e20f66d) |
-| Sun, 31 Aug 2025 13:38:56 GMT | The Missing Layer of Trust and Safety: Why Platforms Must Work Together Like Intelligence Alliances | Gaurang Katyal | [Read More](https://medium.com/p/7c562bd59ea1) |
-| Sun, 31 Aug 2025 13:38:46 GMT | CTF Walkthrough: The Challenge That Taught Me SQLi the Hard Way | Aj | [Read More](https://medium.com/p/6ca08048476b) |
