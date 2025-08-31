@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 07:13:27 GMT | The Cybersecurity Truth No One Talks About | Recover Right | [Read More](https://medium.com/p/b58fcded2cf7) |
+| Sun, 31 Aug 2025 07:11:33 GMT | The Defender’s Playbook: How to Bulletproof a Billion-Dollar Event | Kaotip Tan (KT) | [Read More](https://medium.com/p/c1ec3e76cd51) |
+| Sun, 31 Aug 2025 07:00:51 GMT | The Top 3 Skills for a Cybersecurity Career (That Aren’t Technical) | Mohanad Khaled | [Read More](https://medium.com/p/407d5db2a660) |
+| Sun, 31 Aug 2025 07:00:24 GMT | Getting Started with IdentityServer4: Simple Example for Tokens and User Info | Anton Baksheiev | [Read More](https://medium.com/p/7cda7c513785) |
+| Sun, 31 Aug 2025 06:54:53 GMT | The Invisible War for Colombia’s Data | Aj | [Read More](https://medium.com/p/90096c75c391) |
+| Sun, 31 Aug 2025 06:48:11 GMT | Ransomware-as-a-Service Is Exploding — Small Businesses Are Running Out of Time | Rizqi Mulki | [Read More](https://medium.com/p/ae68a5b84494) |
 | Sun, 31 Aug 2025 06:47:33 GMT | Bug Bounty Web Cache Deception: cuando la caché filtra datos privados | Gorka | [Read More](https://medium.com/p/f8f72e6200b5) |
 | Sun, 31 Aug 2025 06:44:43 GMT | You are unique ! | Malak | [Read More](https://medium.com/p/3a3bcb708a77) |
 | Sun, 31 Aug 2025 06:42:29 GMT | Deepfake Scams Are Emptying Accounts — And Your Identity Could Be Next | Rizqi Mulki | [Read More](https://medium.com/p/1c1f03b827a2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 21:00:58 GMT | A Vulnerable Note | Inès Le Cannellier | [Read More](https://medium.com/p/cfddc559b368) |
 | Sat, 30 Aug 2025 20:55:58 GMT | Building Resilience with Cybersecurity and Incident Response Services — CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/5e557a729f3e) |
 | Sat, 30 Aug 2025 20:37:58 GMT | Love in Packets — Episode 1 | Harsh Sharma | [Read More](https://medium.com/p/93e0a2d6dbdf) |
-| Sat, 30 Aug 2025 20:14:23 GMT | Rooting an Umbraco 7.12.4 Machine on HackTheBox | Kaplanibrahimm | [Read More](https://medium.com/p/3179fdc5b487) |
-| Sat, 30 Aug 2025 20:13:40 GMT | Strengthening Your Digital Defenses: The Role of Cybersecurity Consulting and Incident Response… | Jeffery Walker | [Read More](https://medium.com/p/ab3e04ab7f53) |
-| Sat, 30 Aug 2025 20:01:39 GMT | Analyzing Zero Trust Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/340b14bd5171) |
-| Sat, 30 Aug 2025 20:01:38 GMT | “Tethearing”: New Philosophy Unveils the Hidden Architecture of Survival | USAI Insight | [Read More](https://medium.com/p/4738e230a95f) |
-| Sat, 30 Aug 2025 19:59:45 GMT | Analyzing Zero Trust Security for Organizations | Cyber Security Research | [Read More](https://medium.com/p/1dc750f96bb3) |
-| Sat, 30 Aug 2025 19:57:45 GMT | Analyzing Zero Trust Security for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/e3c2e54dcb7e) |
