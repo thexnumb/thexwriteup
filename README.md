@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 01:31:35 GMT | The Refresh Token Pattern That Actually Works | Nikulsinh Rajput | [Read More](https://medium.com/p/114be4ecff59) |
+| Sun, 31 Aug 2025 01:02:37 GMT | Introduction to EDR: TryHackMe Answer | Ansul Kotadia | [Read More](https://medium.com/p/008a972a8fcf) |
+| Sun, 31 Aug 2025 01:02:11 GMT | 10 Shocking Truths You Must Know Before Diving Into Cybersecurity | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/204a23d8348d) |
+| Sun, 31 Aug 2025 01:01:24 GMT | Privacy and Safety Concerns in Women’s Health Apps | Physical Therapist - Poonam Mahraj | [Read More](https://medium.com/p/631695761b02) |
+| Sun, 31 Aug 2025 00:54:15 GMT | CISSP Certification: What Aspiring Cybersecurity Professionals Need to Know | James Gilchrest | [Read More](https://medium.com/p/20e303181bd8) |
+| Sun, 31 Aug 2025 00:28:25 GMT | Nota para el Crownfish | Natalia Antonoff | [Read More](https://medium.com/p/93e8481aae0f) |
+| Sun, 31 Aug 2025 00:27:38 GMT | The Power of Solitude: How Being Truly Loved Empowers You to Enjoy Your Own Company | Lucas Brown | [Read More](https://medium.com/p/d72f53a2981d) |
+| Sun, 31 Aug 2025 00:17:06 GMT | Why Is Google Search So Fast? | Ade Mawan | [Read More](https://medium.com/p/b6c2dc5f5318) |
+| Sun, 31 Aug 2025 00:10:55 GMT | How I Discovered Vulnerabilities on XuperMall (and Responsibly Reported Them) | Mr Madani | [Read More](https://medium.com/p/ea018405b67b) |
+| Sun, 31 Aug 2025 00:08:33 GMT | The Great Unfastening: When the Upgrade Disrupts the Relationship | Carsten Bund | [Read More](https://medium.com/p/6be2d40822ff) |
+| Sat, 30 Aug 2025 23:46:06 GMT | Clickbait Crisis | Tina Ginn | [Read More](https://medium.com/p/88a425def698) |
+| Sat, 30 Aug 2025 23:37:19 GMT | The Importance of Research and Continuous Learning in Vulnerability Management | Anel Graph | [Read More](https://medium.com/p/4afdb11b9a7c) |
+| Sat, 30 Aug 2025 23:31:32 GMT | Future of Web Security — Passwordless Login, WebAuthn, MFA, hingga Quantum-Safe Encryption | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/eec3f2780d89) |
+| Sat, 30 Aug 2025 23:31:31 GMT | How I Protected My Portfolio from Spam: Using Base64 Encoding | Gustavo Velasco | [Read More](https://medium.com/p/4856a4152ba2) |
 | Sat, 30 Aug 2025 23:06:06 GMT | System-Host Based Attacks CTF 2 | Hejackson | [Read More](https://medium.com/p/e91bc3a51baf) |
 | Sat, 30 Aug 2025 23:04:23 GMT | E3 — Phishing Macro to PowerShell C2 | Shantaciak | [Read More](https://medium.com/p/c1b0bfd5759a) |
 | Sat, 30 Aug 2025 23:02:28 GMT | Two Million — HTB | Mkirahmet | [Read More](https://medium.com/p/54efd3b9fdcb) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 16:31:35 GMT | The Ghost in Microsoft’s Machine: Why Copilot’s Latest Security Flaw Should Keep CISOs Awake | Tony Cieta | [Read More](https://medium.com/p/33fa2856510a) |
 | Sat, 30 Aug 2025 16:30:56 GMT | Quantum Computing and the Future of Cybersecurity | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/688a7c167335) |
 | Sat, 30 Aug 2025 16:30:18 GMT | MetaCTF Flash CTF August 2025 | Anjali S | [Read More](https://medium.com/p/95c80993a667) |
-| Sat, 30 Aug 2025 16:22:47 GMT | Phishing Analysis 2 - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/a2505157e74c) |
-| Sat, 30 Aug 2025 16:22:35 GMT | Network Analysis — Malware Compromise - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/15fd4f49f29e) |
-| Sat, 30 Aug 2025 16:16:58 GMT | Tryhackme Summit Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/aade8370f028) |
-| Sat, 30 Aug 2025 16:16:08 GMT | $500 Bounty for Stored SVG-based Script Execution Vulnerability in target.com’s Chat System | Lakshya | [Read More](https://medium.com/p/8358d0d6fc35) |
-| Sat, 30 Aug 2025 16:13:34 GMT | I found A Secret Server & I hacked it.. | Mainekhacker | [Read More](https://medium.com/p/7b56172659a6) |
-| Sat, 30 Aug 2025 16:04:38 GMT | My Journey Installing Ghauri on WSL Kali | raflesia it | [Read More](https://medium.com/p/4708629e80c9) |
-| Sat, 30 Aug 2025 16:04:20 GMT | Write-Up THCTT25 Reverse Engineer (300) - cyber_user_local by FINNALE | Weerapat Junlek | [Read More](https://medium.com/p/c724043b404e) |
-| Sat, 30 Aug 2025 16:01:50 GMT | The Real Risk of AI Nobody Wants to Talk About | Aj | [Read More](https://medium.com/p/13ce3032a7ad) |
-| Sat, 30 Aug 2025 16:00:09 GMT | SSRF | Mohammed Hassan | [Read More](https://medium.com/p/7c3f196e8d45) |
-| Sat, 30 Aug 2025 15:51:48 GMT | The Perfect Bug Bounty Process: From Recon to Report | DJH4CK3R | [Read More](https://medium.com/p/c05ac3fad06a) |
-| Sat, 30 Aug 2025 15:51:04 GMT | SUID Environmental Variable Privilege Escalation (Linux Priv Esc) | Ammar Ahmed | [Read More](https://medium.com/p/a3bfc44eeb14) |
-| Sat, 30 Aug 2025 15:43:27 GMT | The Way I Keep My Bags Safe in Web3 | Fanreza | [Read More](https://medium.com/p/f449882f7c73) |
-| Sat, 30 Aug 2025 15:39:50 GMT | Cyber Risk and Exposure: Where Risk Meets Reality | Juan Pablo Castro | [Read More](https://medium.com/p/fc301ad9c786) |
-| Sat, 30 Aug 2025 15:39:31 GMT | ⚡ From Zero to Hacker: Set Up Your Own Cyber Lab at Home ️‍♂️ | RootXploit.0x | [Read More](https://medium.com/p/958b7f669b5a) |
