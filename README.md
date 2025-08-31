@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 09:08:37 GMT | Cybersecurity’s Silent Threat: The Unseen Experts | Truspex | [Read More](https://medium.com/p/67ba957bb163) |
+| Sun, 31 Aug 2025 09:03:15 GMT | Apply the knowledge gained over the years, in building tools. | Subramanian S | [Read More](https://medium.com/p/424ca962f89b) |
+| Sun, 31 Aug 2025 09:01:37 GMT | Cryptographic Attacks: Breaking Security Beyond the Algorithm | Kyrillos Kamal | [Read More](https://medium.com/p/c40b6cb2fcee) |
+| Sun, 31 Aug 2025 08:59:28 GMT | Choosing The Appropriate OAuth Flow | Albert Starreveld | [Read More](https://medium.com/p/4f9a99d7401a) |
+| Sun, 31 Aug 2025 08:59:04 GMT | Windows Privilege Escalation Walkthrough: From User to SYSTEM Access | Savyasachi | [Read More](https://medium.com/p/4b897f40dd67) |
+| Sun, 31 Aug 2025 08:56:48 GMT | This Ransomware Just Changed the Game. Are You Ready? | Authlyn | [Read More](https://medium.com/p/c0ec15dcf316) |
+| Sun, 31 Aug 2025 08:46:05 GMT | The “Nano Banana” Effect: An Analysis of Google’s Strategic Play in the AI Image Generation Market | Muhammad Saeed | [Read More](https://medium.com/p/2e21a15e794d) |
+| Sun, 31 Aug 2025 08:41:03 GMT | A final 4-week CISSP sprint | jon | [Read More](https://medium.com/p/1e0fcde7825c) |
 | Sun, 31 Aug 2025 08:38:13 GMT | Effective Post-Incident investigation for Red/Blue teams — Detect Potential RCE Attacks on Web… | Sachin      Verlekar | [Read More](https://medium.com/p/038226e7184f) |
 | Sun, 31 Aug 2025 08:37:38 GMT | Digital Defense 101 | Vincent Bernard | [Read More](https://medium.com/p/5411b656e34e) |
 | Sun, 31 Aug 2025 08:36:35 GMT | Best Practices for Securing Spring Boot Configuration and Sensitive Data | Umesh Kumar Yadav | [Read More](https://medium.com/p/b85e6d4d7120) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 23:37:19 GMT | The Importance of Research and Continuous Learning in Vulnerability Management | Anel Graph | [Read More](https://medium.com/p/4afdb11b9a7c) |
 | Sat, 30 Aug 2025 23:31:32 GMT | Future of Web Security — Passwordless Login, WebAuthn, MFA, hingga Quantum-Safe Encryption | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/eec3f2780d89) |
 | Sat, 30 Aug 2025 23:31:31 GMT | How I Protected My Portfolio from Spam: Using Base64 Encoding | Gustavo Velasco | [Read More](https://medium.com/p/4856a4152ba2) |
-| Sat, 30 Aug 2025 23:06:06 GMT | System-Host Based Attacks CTF 2 | Hejackson | [Read More](https://medium.com/p/e91bc3a51baf) |
-| Sat, 30 Aug 2025 23:04:23 GMT | E3 — Phishing Macro to PowerShell C2 | Shantaciak | [Read More](https://medium.com/p/c1b0bfd5759a) |
-| Sat, 30 Aug 2025 23:02:28 GMT | Two Million — HTB | Mkirahmet | [Read More](https://medium.com/p/54efd3b9fdcb) |
-| Sat, 30 Aug 2025 22:54:47 GMT | Regex challenges writeup — AppSecMaster | 0xMyth | [Read More](https://medium.com/p/1d5b0834c73e) |
-| Sat, 30 Aug 2025 22:45:28 GMT | Game of Prompts: Roleplay Attacks Against LLM based AI | Prathmesh Salunke | [Read More](https://medium.com/p/8b41c93a51b7) |
-| Sat, 30 Aug 2025 22:41:56 GMT | Learn to Hack Anything: One-on-One Cybersecurity Masterclass Facilitated by Veteran Black Hat… | SinVictus | [Read More](https://medium.com/p/e4316ea53f23) |
-| Sat, 30 Aug 2025 22:35:50 GMT | File Upload Bypass: Understanding and Mitigating Risks in Web Applications - Hidden Investigations | Hidden Investigations | [Read More](https://medium.com/p/33bd91f546de) |
-| Sat, 30 Aug 2025 22:27:20 GMT | Weekly Round Up — August 30 | litwtch | [Read More](https://medium.com/p/a1fab27e6634) |
