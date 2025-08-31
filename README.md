@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 08:17:37 GMT | The Day My Audit Saved a Fortune 500 Company — Lessons for CISOs | Dr. Deep Pandey | [Read More](https://medium.com/p/6ad48dd482c6) |
+| Sun, 31 Aug 2025 08:17:20 GMT | Why LP Tokens Were Burned: A Look at Mumubit’s Liquidity Strategy | Camsy Cruise | [Read More](https://medium.com/p/03be9e6cbaea) |
+| Sun, 31 Aug 2025 08:13:46 GMT | MUMUBIT TYCOON: FUTURE EXPANSION – USER-CREATED PAIRS COMING TO THE DEX | Camsy Cruise | [Read More](https://medium.com/p/a925a48d78d7) |
+| Sun, 31 Aug 2025 08:10:29 GMT | How Community is the Core of Mumu Tycoon’s Success | Camsy Cruise | [Read More](https://medium.com/p/c8dfa3edc6b6) |
+| Sun, 31 Aug 2025 08:08:58 GMT | The 128 Partition Bomb: How I Discovered Chaos Hidden Inside GPT | TheCyberNirvana | [Read More](https://medium.com/p/bf1b950594f6) |
+| Sun, 31 Aug 2025 08:05:35 GMT | Spring Boot vs Kotlin HttpClient: When Multipart REST Calls Go Wrong (and How to Fix Them) | Abdul Ahad | [Read More](https://medium.com/p/bc865efde059) |
+| Sun, 31 Aug 2025 08:01:40 GMT | The Linux Network Configuration Guide That Actually Makes Sense | MayhemCode | [Read More](https://medium.com/p/a68b78698ebc) |
+| Sun, 31 Aug 2025 07:59:03 GMT | What Cybercriminals Truly Prize from Your Hacked Smartphone | David SEHYEON Baek | [Read More](https://medium.com/p/5dc633b60d60) |
+| Sun, 31 Aug 2025 07:53:56 GMT | How North Korea’s AI-Powered IT Scam Tricked Fortune 500 Companies — and Funded Missiles | Aj | [Read More](https://medium.com/p/f79f66cecfdf) |
+| Sun, 31 Aug 2025 07:47:33 GMT | And Before You I Lay Bare | SheWrites | [Read More](https://medium.com/p/6d46ee603e55) |
+| Sun, 31 Aug 2025 07:47:07 GMT | NIST Risk Management Framework — Complete Overview | SecurewithUmer | [Read More](https://medium.com/p/9199d31df2f8) |
+| Sun, 31 Aug 2025 07:41:34 GMT | Authentication vs Authorization in Web Development: Explained Simply | Rohit Kuwar | [Read More](https://medium.com/p/11e41f5f38c0) |
+| Sun, 31 Aug 2025 07:35:32 GMT | Top 10 Cybersecurity Attacks: 2025–2026 | Manisha Chaudhary | [Read More](https://medium.com/p/9ab426dc1571) |
 | Sun, 31 Aug 2025 07:17:45 GMT | Why Mobile Apps Do More Than Desktop — A Security Perspective | Akanksha Mane | [Read More](https://medium.com/p/007faf71df83) |
 | Sun, 31 Aug 2025 07:13:27 GMT | The Cybersecurity Truth No One Talks About | Recover Right | [Read More](https://medium.com/p/b58fcded2cf7) |
 | Sun, 31 Aug 2025 07:11:33 GMT | The Defender’s Playbook: How to Bulletproof a Billion-Dollar Event | Kaotip Tan (KT) | [Read More](https://medium.com/p/c1ec3e76cd51) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 22:08:24 GMT | LetsDefend SOC Walkthrough - SOC282 — Phishing Alert: Deceptive Mail Detected | Andrew Williams | [Read More](https://medium.com/p/ef59e2b2f0f6) |
 | Sat, 30 Aug 2025 21:57:35 GMT | The Weight of a Like Button | Oren | [Read More](https://medium.com/p/318e3ccb66dc) |
 | Sat, 30 Aug 2025 21:53:43 GMT | Building a FAIR Prompt Library | Lance Cummings PhD | [Read More](https://medium.com/p/5c287877e7f4) |
-| Sat, 30 Aug 2025 21:52:24 GMT | Pickle Rick CTF- TryHackme Write-Up - Pt-Br | LonfLonf | [Read More](https://medium.com/p/fe850f15369b) |
-| Sat, 30 Aug 2025 21:43:34 GMT | Entendendo como funcionam as permissões no Linux | Abraao G. Halcsik | [Read More](https://medium.com/p/cdb02fe6de52) |
-| Sat, 30 Aug 2025 21:33:19 GMT | ️‍♂️ Retired Box CAP Walkthrough — Step by Step CTF Guide with Visuals | Mkirahmet | [Read More](https://medium.com/p/c29d141ece97) |
-| Sat, 30 Aug 2025 21:29:13 GMT | •	THE IMPERATIVE OF AI REGULATION IN NIGERIA: CHARTING A PATH FOR A YOUNG, INNOVATIVE POPULATION… | Niclem Ogobi | [Read More](https://medium.com/p/8bd86dfb3263) |
-| Sat, 30 Aug 2025 21:24:43 GMT | The first step to Pentesting | Spider256 | [Read More](https://medium.com/p/2084562d775d) |
-| Sat, 30 Aug 2025 21:16:12 GMT | Hacked By Xyren Haxor Team | Xyren Haxor | [Read More](https://medium.com/p/62d4a1482cbb) |
-| Sat, 30 Aug 2025 21:15:07 GMT | My Path into Cybersecurity Using Free Resources | Jialei Q. | [Read More](https://medium.com/p/0f8c8ef8aabe) |
-| Sat, 30 Aug 2025 21:12:42 GMT | Cuando romper la regla es parte del control: el poder del SOA | Carlos Olivares | [Read More](https://medium.com/p/46bbd4f3cd4b) |
-| Sat, 30 Aug 2025 21:05:56 GMT | Web3, Metaverse ve Yeni Nesil Dijital Güvenlik Trendleri | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/289497a2c212) |
-| Sat, 30 Aug 2025 21:05:13 GMT | Mitigating Content Related Threats and Vulnerabilities :Guarding the Gates with Google Cloud | Gbemisola Esho | [Read More](https://medium.com/p/b386da3834c3) |
-| Sat, 30 Aug 2025 21:01:29 GMT | The Ethics of Hacking: Good Hackers vs. Bad Hackers | Paschal Ogana | [Read More](https://medium.com/p/e559a3e5595d) |
-| Sat, 30 Aug 2025 21:00:58 GMT | A Vulnerable Note | Inès Le Cannellier | [Read More](https://medium.com/p/cfddc559b368) |
-| Sat, 30 Aug 2025 20:55:58 GMT | Building Resilience with Cybersecurity and Incident Response Services — CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/5e557a729f3e) |
