@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 03:02:53 GMT | Can AI Develop a Soul? How a Strange Blueprint is Paving a Path to Self-Awareness | handman | [Read More](https://medium.com/p/85c1fe18bd72) |
+| Sun, 31 Aug 2025 03:02:26 GMT | TCM Security Practical Malware Researcher Professional (PMRP): Course Review and Exam Tips | Cyd Tseng | [Read More](https://medium.com/p/3114bc8c431e) |
+| Sun, 31 Aug 2025 03:01:38 GMT | Singapore — The  Key to Evacuating Southeast Asians in Taiwan Blockade | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c46e65c055f0) |
+| Sun, 31 Aug 2025 02:50:39 GMT | EXPERIENCE at Accelya As a PLSQL Developer 2025 | Pranav Bakare | [Read More](https://medium.com/p/146c4e44e9e5) |
+| Sun, 31 Aug 2025 02:31:35 GMT | ️ Mastering Network Addressing: IP, Subnetting, and Supernetting | Keerthan V Suvarna | [Read More](https://medium.com/p/915cbdba454d) |
+| Sun, 31 Aug 2025 02:26:02 GMT | Privilege Escalation Through Token Mismanagement: A Real-World Discovery | Huseyin | [Read More](https://medium.com/p/d82b3f06890f) |
+| Sun, 31 Aug 2025 01:52:36 GMT | AWS CLI Manual Walkthrough for Cloudgoat Beanstalk_Secrets Scenario | Wyatt. V | [Read More](https://medium.com/p/e21fbefbbadc) |
+| Sun, 31 Aug 2025 01:52:11 GMT | OSINT without the chaos | Progsky | [Read More](https://medium.com/p/75fbe41c997e) |
+| Sun, 31 Aug 2025 01:50:31 GMT | Inside the Mind of a Threat Actor: Lessons for CISOs from the August 2025 Cyber Defense Magazine | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/8a75ba4b29e9) |
 | Sun, 31 Aug 2025 01:31:35 GMT | The Refresh Token Pattern That Actually Works | Nikulsinh Rajput | [Read More](https://medium.com/p/114be4ecff59) |
 | Sun, 31 Aug 2025 01:02:37 GMT | Introduction to EDR: TryHackMe Answer | Ansul Kotadia | [Read More](https://medium.com/p/008a972a8fcf) |
 | Sun, 31 Aug 2025 01:02:11 GMT | 10 Shocking Truths You Must Know Before Diving Into Cybersecurity | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/204a23d8348d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 17:00:14 GMT | AI/LLM Hacking- Part 2- Prompt Injection | Darshan Naresh Naik | [Read More](https://medium.com/p/13030a731e15) |
 | Sat, 30 Aug 2025 16:53:15 GMT | My Hands-on with AWS IAM: Learning Identity and Access Management | Yashwant Patil | [Read More](https://medium.com/p/9e9c6a9853d3) |
 | Sat, 30 Aug 2025 16:50:03 GMT | Getting Started with Ghidra Scripting: Python Power Meets Java Integration | Yen | [Read More](https://medium.com/p/b957b40aadac) |
-| Sat, 30 Aug 2025 16:48:35 GMT | Wi-Fi Traffic Analysis and Hacking on Your Own Network (Part 1) | Artur | [Read More](https://medium.com/p/9fdb7819ffd1) |
-| Sat, 30 Aug 2025 16:47:00 GMT | Analyzing Zero Trust Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/58c8af8d619c) |
-| Sat, 30 Aug 2025 16:45:31 GMT | ฉเลย Cyber top talent 2025 หมวด web app Ep:1 | jitwisut | [Read More](https://medium.com/p/85004856b483) |
-| Sat, 30 Aug 2025 16:45:07 GMT | VPN Everywhere: Privacy Without Borders | VPN Everywhere | [Read More](https://medium.com/p/972ca2af0e3d) |
-| Sat, 30 Aug 2025 16:38:28 GMT | Fraud-as-a-Service (FaaS). Turn Conflict into Commerce. Click. Pay. Scam. | Sriram Narayanan | [Read More](https://medium.com/p/894aa57d58e9) |
-| Sat, 30 Aug 2025 16:35:25 GMT | The Free Way I Cracked the eJPT Certification | Mehdi Ben Fredj | [Read More](https://medium.com/p/a84acc9edfbd) |
-| Sat, 30 Aug 2025 16:31:35 GMT | The Ghost in Microsoft’s Machine: Why Copilot’s Latest Security Flaw Should Keep CISOs Awake | Tony Cieta | [Read More](https://medium.com/p/33fa2856510a) |
-| Sat, 30 Aug 2025 16:30:56 GMT | Quantum Computing and the Future of Cybersecurity | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/688a7c167335) |
-| Sat, 30 Aug 2025 16:30:18 GMT | MetaCTF Flash CTF August 2025 | Anjali S | [Read More](https://medium.com/p/95c80993a667) |
