@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 04:34:52 GMT | Cash Trapping: How Criminals Steal Your Money Straight from the ATM | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/095abb86fab1) |
+| Sun, 31 Aug 2025 04:32:59 GMT | THM: skynet | Zaakceptowac | [Read More](https://medium.com/p/0dc9bc59a5de) |
+| Sun, 31 Aug 2025 04:31:08 GMT | Write Up Lab: SQL injection with filter bypass via XML encoding | Velskynotfound | [Read More](https://medium.com/p/c0b5e67e786b) |
+| Sun, 31 Aug 2025 04:27:41 GMT | Building AI in Cybersecurity for Beginners | Cyber Security Research | [Read More](https://medium.com/p/76ac2ae116a9) |
+| Sun, 31 Aug 2025 04:25:36 GMT | The Linux Security Journey — Kernel Modules Strict RWX (Read-Write-Execute) Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1b01fedc97ce) |
+| Sun, 31 Aug 2025 04:21:42 GMT | DirecTV in 2025: Is Satellite TV Still Worth the Price? | Motherlandlove | [Read More](https://medium.com/p/91c954706871) |
 | Sun, 31 Aug 2025 04:08:55 GMT | How Threat Intelligence Teams Track and Take Down Malware Campaigns | Paritosh | [Read More](https://medium.com/p/6eff624a1ad6) |
 | Sun, 31 Aug 2025 03:58:58 GMT | Applied vs. Paper: The Dual Nature of Cybersecurity | Taulan Zauzanov | [Read More](https://medium.com/p/251ed049919c) |
 | Sun, 31 Aug 2025 03:54:12 GMT | How to Decrypt Network Traffic in Wireshark | Cyber Fortress | [Read More](https://medium.com/p/5feb0cba15a3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 17:47:13 GMT | Thinking Like a Criminal: The Ethical Hacker’s Mindset | Shahzaib | [Read More](https://medium.com/p/7c867f66be7c) |
 | Sat, 30 Aug 2025 17:35:36 GMT | How To Identity Unknown Caller | ScamBare | [Read More](https://medium.com/p/3ea547409c86) |
 | Sat, 30 Aug 2025 17:33:43 GMT | Why Congress Must Act Now on State Age-Verification Laws Before They Devastate Free Speech and… | Daniel | [Read More](https://medium.com/p/f121c01a2e3e) |
-| Sat, 30 Aug 2025 17:31:57 GMT | Homograph Attack: The Art of Digital Deception | Badal Mehra | [Read More](https://medium.com/p/0e975160c695) |
-| Sat, 30 Aug 2025 17:30:58 GMT | Introduction to Windows Endpoint Forensic Analysis: Artifacts (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/54332f067c3e) |
-| Sat, 30 Aug 2025 17:29:12 GMT | The Hidden Security Magic Behind Mobile Payments | sudo whoami | [Read More](https://medium.com/p/8d6803610a04) |
-| Sat, 30 Aug 2025 17:28:52 GMT | Day 46- Understanding Honeypots in cybersecurity as a beginner | unica 02 | [Read More](https://medium.com/p/e6b081d2cb88) |
-| Sat, 30 Aug 2025 17:25:04 GMT | The Myth Of the Vulnerable Man | Terry McLeod | [Read More](https://medium.com/p/9d9cd9eb59cf) |
-| Sat, 30 Aug 2025 17:24:31 GMT | The Cost of Non-Compliance: Financial, Regulatory, and Reputational Risks in the PA/PG Sector | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/23f2a54d649f) |
