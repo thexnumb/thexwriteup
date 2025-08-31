@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 07:17:45 GMT | Why Mobile Apps Do More Than Desktop — A Security Perspective | Akanksha Mane | [Read More](https://medium.com/p/007faf71df83) |
 | Sun, 31 Aug 2025 07:13:27 GMT | The Cybersecurity Truth No One Talks About | Recover Right | [Read More](https://medium.com/p/b58fcded2cf7) |
 | Sun, 31 Aug 2025 07:11:33 GMT | The Defender’s Playbook: How to Bulletproof a Billion-Dollar Event | Kaotip Tan (KT) | [Read More](https://medium.com/p/c1ec3e76cd51) |
 | Sun, 31 Aug 2025 07:00:51 GMT | The Top 3 Skills for a Cybersecurity Career (That Aren’t Technical) | Mohanad Khaled | [Read More](https://medium.com/p/407d5db2a660) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 21:01:29 GMT | The Ethics of Hacking: Good Hackers vs. Bad Hackers | Paschal Ogana | [Read More](https://medium.com/p/e559a3e5595d) |
 | Sat, 30 Aug 2025 21:00:58 GMT | A Vulnerable Note | Inès Le Cannellier | [Read More](https://medium.com/p/cfddc559b368) |
 | Sat, 30 Aug 2025 20:55:58 GMT | Building Resilience with Cybersecurity and Incident Response Services — CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/5e557a729f3e) |
-| Sat, 30 Aug 2025 20:37:58 GMT | Love in Packets — Episode 1 | Harsh Sharma | [Read More](https://medium.com/p/93e0a2d6dbdf) |
