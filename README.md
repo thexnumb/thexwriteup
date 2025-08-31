@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 04:08:55 GMT | How Threat Intelligence Teams Track and Take Down Malware Campaigns | Paritosh | [Read More](https://medium.com/p/6eff624a1ad6) |
+| Sun, 31 Aug 2025 03:58:58 GMT | Applied vs. Paper: The Dual Nature of Cybersecurity | Taulan Zauzanov | [Read More](https://medium.com/p/251ed049919c) |
+| Sun, 31 Aug 2025 03:54:12 GMT | How to Decrypt Network Traffic in Wireshark | Cyber Fortress | [Read More](https://medium.com/p/5feb0cba15a3) |
+| Sun, 31 Aug 2025 03:52:33 GMT | Israel’s Doctrine of Deterrence and Survival | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a0be95a616ed) |
+| Sun, 31 Aug 2025 03:49:10 GMT | CyberDefenders — Network Forensic Labs Part 2 | Jaws | [Read More](https://medium.com/p/db93f37fc4ee) |
 | Sun, 31 Aug 2025 03:31:54 GMT | The Broken Directory Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/184f37087479) |
 | Sun, 31 Aug 2025 03:31:51 GMT | Web Security Essentials: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/e2f2d3cc705d) |
 | Sun, 31 Aug 2025 03:31:35 GMT | How Researchers Exposed Four Zero-Day Exploits That Could Slip Past BitLocker | Deven Chhajed | [Read More](https://medium.com/p/78a9b8f07fea) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 17:28:52 GMT | Day 46- Understanding Honeypots in cybersecurity as a beginner | unica 02 | [Read More](https://medium.com/p/e6b081d2cb88) |
 | Sat, 30 Aug 2025 17:25:04 GMT | The Myth Of the Vulnerable Man | Terry McLeod | [Read More](https://medium.com/p/9d9cd9eb59cf) |
 | Sat, 30 Aug 2025 17:24:31 GMT | The Cost of Non-Compliance: Financial, Regulatory, and Reputational Risks in the PA/PG Sector | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/23f2a54d649f) |
-| Sat, 30 Aug 2025 17:21:20 GMT | A Text from My Younger Self Gave Me Permission to Show Up as I Am | Wilson Igbasi | [Read More](https://medium.com/p/9ebc129d6b95) |
-| Sat, 30 Aug 2025 17:15:28 GMT | The Future I Envision with Drosera Network: | Etkwake | [Read More](https://medium.com/p/97165eaaabd0) |
-| Sat, 30 Aug 2025 17:14:14 GMT | CloudSEK CTF’25 Write-up | Aryan sharma | [Read More](https://medium.com/p/ef486e5cc731) |
-| Sat, 30 Aug 2025 17:13:15 GMT | P3《紅軍 API × GPT-5 用戶隱私外洩報告》 | BoLiang Lin | [Read More](https://medium.com/p/b8d9580ad27a) |
-| Sat, 30 Aug 2025 17:03:25 GMT | Data as Liability: Executive Imperatives for Storing and Protecting Payment System Data | Secnuo Consulting (OPC) Private Limited | [Read More](https://medium.com/p/0652e9bde042) |
