@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 20:22:03 GMT | Mapping: A Complementary Step in Mobile Application Security | ghrez1ns | [Read More](https://medium.com/p/5ecef4cbe08b) |
 | Sun, 31 Aug 2025 20:10:12 GMT | HackTheBox: Spookifier | Ross Andrews | [Read More](https://medium.com/p/241b05fce761) |
 | Sun, 31 Aug 2025 20:09:29 GMT | Pineal 10x - Supplements — health | Ireneoficie | [Read More](https://medium.com/p/00fe242c14a5) |
+| Sun, 31 Aug 2025 20:06:03 GMT | Cellphone Spying - Hire Mobile Hackers | BlackHat | [Read More](https://medium.com/p/aa5de3ab8c99) |
 | Sun, 31 Aug 2025 19:58:36 GMT | Union-based SQL injection | Mohammed Hassan | [Read More](https://medium.com/p/2e0cc3b18939) |
 | Sun, 31 Aug 2025 19:52:44 GMT | HIRE A HACKER FOR CRYPTO SCAM RECOVERY SERVICES, CALL MALICE CYBER RECOVERY | Marek Nowak | [Read More](https://medium.com/p/624ae7054982) |
 | Sun, 31 Aug 2025 19:52:13 GMT | Daily Bugle — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/cf78f6109f28) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 14:20:09 GMT | Introducing DTRA: Turning Data Into Currency | Rev Cynthia Pustelak | [Read More](https://medium.com/p/f01aa969f166) |
 | Sun, 31 Aug 2025 14:12:57 GMT | Customising Login Experience and Branding for Users in Entra ID | Defend Microsoft365 now! | [Read More](https://medium.com/p/1f6803e7f0db) |
 | Sun, 31 Aug 2025 14:09:59 GMT | The Bangladesh Bank Heist Almost | O. J. Okpabi | [Read More](https://medium.com/p/3d4252d44e91) |
-| Sun, 31 Aug 2025 13:59:47 GMT | The Nx Supply Chain Attack: When AI Started Stealing Your Secrets | Serhii Malyshev | [Read More](https://medium.com/p/a6303de58fef) |
-| Sun, 31 Aug 2025 13:54:19 GMT | Practical Guide to ISO 27001:2022 Certifiction and Beyond | Wiran Larbi | [Read More](https://medium.com/p/7fab508e0616) |
