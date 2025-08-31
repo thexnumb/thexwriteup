@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 15:22:57 GMT | Awesome AI Security | Tal Eliyahu | [Read More](https://medium.com/p/f82dc4a5d2e0) |
+| Sun, 31 Aug 2025 15:22:33 GMT | Pragmatic Patriotism III: On Context. | Trent Cline Larsen | [Read More](https://medium.com/p/896bd80a1545) |
+| Sun, 31 Aug 2025 15:20:49 GMT | ZAPROXY con Jython Reglas Pasivas 1 | alejandro | [Read More](https://medium.com/p/cc1215e838e3) |
 | Sun, 31 Aug 2025 15:16:59 GMT | How Hackers Use ChatGPT for Cybersecurity ⚡ | john rose | [Read More](https://medium.com/p/edbfb530731f) |
 | Sun, 31 Aug 2025 15:12:30 GMT | Static Analysis → Hardcoded Creds → Google Dorks → ATO (and a $500 Bounty) | toast | [Read More](https://medium.com/p/18337af6e08f) |
 | Sun, 31 Aug 2025 15:10:16 GMT | Binary Bomb Lab: Phase 1 | Sourav Bose | [Read More](https://medium.com/p/5fec0eb88c14) |
+| Sun, 31 Aug 2025 15:09:12 GMT | The Words I Was Too Scared to Share | Amanur | [Read More](https://medium.com/p/87c86f94d99c) |
 | Sun, 31 Aug 2025 15:08:06 GMT | The Movie They Tried to Stop: Inside the Sony Pictures Hack | O. J. Okpabi | [Read More](https://medium.com/p/89d097bc874c) |
 | Sun, 31 Aug 2025 15:07:28 GMT | The Future I Know Drosera Network Will Bring To Defi. | Ayanfemmanuel | [Read More](https://medium.com/p/efce26df243e) |
 | Sun, 31 Aug 2025 15:04:41 GMT | I’m Afraid of My Own Success | Dani McBee | [Read More](https://medium.com/p/dee37692c602) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 08:59:04 GMT | Windows Privilege Escalation Walkthrough: From User to SYSTEM Access | Savyasachi | [Read More](https://medium.com/p/4b897f40dd67) |
 | Sun, 31 Aug 2025 08:56:48 GMT | This Ransomware Just Changed the Game. Are You Ready? | Authlyn | [Read More](https://medium.com/p/c0ec15dcf316) |
 | Sun, 31 Aug 2025 08:46:05 GMT | The “Nano Banana” Effect: An Analysis of Google’s Strategic Play in the AI Image Generation Market | Muhammad Saeed | [Read More](https://medium.com/p/2e21a15e794d) |
-| Sun, 31 Aug 2025 08:41:03 GMT | A final 4-week CISSP sprint | jon | [Read More](https://medium.com/p/1e0fcde7825c) |
-| Sun, 31 Aug 2025 08:38:13 GMT | Effective Post-Incident investigation for Red/Blue teams — Detect Potential RCE Attacks on Web… | Sachin      Verlekar | [Read More](https://medium.com/p/038226e7184f) |
-| Sun, 31 Aug 2025 08:37:38 GMT | Digital Defense 101 | Vincent Bernard | [Read More](https://medium.com/p/5411b656e34e) |
-| Sun, 31 Aug 2025 08:36:35 GMT | Best Practices for Securing Spring Boot Configuration and Sensitive Data | Umesh Kumar Yadav | [Read More](https://medium.com/p/b85e6d4d7120) |
