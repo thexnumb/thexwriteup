@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 06:14:37 GMT | 5G Satellite Networks Explained: Faster Internet Anywhere | Alice Doyle | [Read More](https://medium.com/p/fb78bfcc2f78) |
+| Sun, 31 Aug 2025 06:13:06 GMT | The Ghosts in the Government Machine | Aj | [Read More](https://medium.com/p/d45cc62cb419) |
+| Sun, 31 Aug 2025 06:10:37 GMT | How I Exploited a JWT Misconfiguration for Account Takeover and Admin Access in 5 Minutes | PARADOX | [Read More](https://medium.com/p/c2974899f4ec) |
+| Sun, 31 Aug 2025 06:00:54 GMT | Understanding the Security Capabilities of Information Systems | Raviteja Mureboina | [Read More](https://medium.com/p/5ce486827d3b) |
+| Sun, 31 Aug 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Aug 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6f6a3bfd75a7) |
+| Sun, 31 Aug 2025 05:38:51 GMT | 5G Satellite Internet: How Space Tech Is Redefining Connectivity | Sienna Lewis | [Read More](https://medium.com/p/09b1d6dfa44c) |
+| Sun, 31 Aug 2025 05:36:09 GMT | The $1M Bug: How a Single Line of Code Nearly Crashed Netflix (And What I Learned in Banking Tech) | Logic Over Latte | [Read More](https://medium.com/p/1db2c01b353d) |
 | Sun, 31 Aug 2025 05:28:51 GMT | How to Identify Cyber Security Threats Effectively and Early | Gurleenndigital | [Read More](https://medium.com/p/f2a78991862d) |
 | Sun, 31 Aug 2025 05:21:57 GMT | Introduction to EDR - Tryhackme | Aaron | [Read More](https://medium.com/p/1c43560ccf51) |
 | Sun, 31 Aug 2025 05:20:16 GMT | Becoming Virtually Untraceable — #8–25_M@ss_SuRv3!ll4nc3[.]com | Ian Barwise | [Read More](https://medium.com/p/48581fee1837) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 19:40:00 GMT | The Invisible MCP Threat Hiding in Plain Sight | Dr. Cesar Guzman | [Read More](https://medium.com/p/5b356f410f5f) |
 | Sat, 30 Aug 2025 19:27:45 GMT | How I passed the eJPT and how you can too! | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/97c839e17dc1) |
 | Sat, 30 Aug 2025 19:25:30 GMT | BLUE walkthrough \\TryHackMe | Proxyminerin | [Read More](https://medium.com/p/2fcda23dd745) |
-| Sat, 30 Aug 2025 19:07:38 GMT | Practical AI in AWS Security | Aleksandar Nenov | [Read More](https://medium.com/p/2e6ce53f1eef) |
-| Sat, 30 Aug 2025 19:07:36 GMT | Auditless Auth: Build Zero-Trust API Security with IAM + VPC Lattice + Verified Access | HimanShunya | [Read More](https://medium.com/p/542152034ec6) |
-| Sat, 30 Aug 2025 19:00:11 GMT | picoCTF PIE TIME Writeup | cyberghost | [Read More](https://medium.com/p/61caff38ce24) |
-| Sat, 30 Aug 2025 18:53:03 GMT | Application Security Maturity, Simplified: OWASP SAMM + NIST + One Free Tool | Sandeep Saxena | [Read More](https://medium.com/p/2aa666028f3a) |
-| Sat, 30 Aug 2025 18:52:54 GMT | What I learned from recovering a server at risk: beyond AI and automation | Jose Luis Campos Bautista | [Read More](https://medium.com/p/3adb75eca96c) |
-| Sat, 30 Aug 2025 18:49:46 GMT | Why Hands-on Training Labs Really Matter: Challenges, Wins, and Smart Tips | Santoshi_Cloud | [Read More](https://medium.com/p/58e77ea67c78) |
-| Sat, 30 Aug 2025 18:41:34 GMT | ️ What Is a Rootkit and How to Protect Against It | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/a6a75a97c8d2) |
