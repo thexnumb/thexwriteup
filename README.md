@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 10:15:41 GMT | Cyberus CTF 2025 - PhantomBlog and PhantomBlog - Revenge Writeups | Ramy Nasser | [Read More](https://medium.com/p/5f0d3227cd3d) |
+| Sun, 31 Aug 2025 09:53:55 GMT | I Hacked an AI Agent: A Complete Walkthrough of the HackTheAgent CTF | Chris Hernandez | [Read More](https://medium.com/p/5698467fde88) |
+| Sun, 31 Aug 2025 09:43:38 GMT | Prompt Injection: The New Phishing Attack on AI Models | Vidhi patel | [Read More](https://medium.com/p/acd29717d0c2) |
+| Sun, 31 Aug 2025 09:41:09 GMT | Checkmarx : Integration with Github actions | Piyali Das | [Read More](https://medium.com/p/b7619f9e1a3a) |
+| Sun, 31 Aug 2025 09:40:21 GMT | Few Fundamental Cryptography Concepts | Dipak Kr das | [Read More](https://medium.com/p/17aa1f6fe3ae) |
+| Sun, 31 Aug 2025 09:39:03 GMT | Beyond the OWASP Top 10: A Strategic Guide to Uncovering High-Impact Business Logic Flaws | Abhishek meena | [Read More](https://medium.com/p/b221729fb655) |
+| Sun, 31 Aug 2025 09:37:36 GMT | Footprinting | Azer Abdullazde | [Read More](https://medium.com/p/1c9032f23586) |
+| Sun, 31 Aug 2025 09:31:34 GMT | 10 Codex Tips to Avoid Generating Insecure or Buggy Code | Bhagya Rana | [Read More](https://medium.com/p/a7705a911d48) |
 | Sun, 31 Aug 2025 09:26:33 GMT | When the AI Turned Killer | Aj | [Read More](https://medium.com/p/120f770975ab) |
 | Sun, 31 Aug 2025 09:08:37 GMT | Cybersecurity’s Silent Threat: The Unseen Experts | Truspex | [Read More](https://medium.com/p/67ba957bb163) |
 | Sun, 31 Aug 2025 09:07:39 GMT | Wi-Fi Adapter Troubleshooting: Fix Monitor Mode Not Starting (Step-by-Step Guide) | Biplove Yadav | [Read More](https://medium.com/p/0ebc814aa34c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 01:02:37 GMT | Introduction to EDR: TryHackMe Answer | Ansul Kotadia | [Read More](https://medium.com/p/008a972a8fcf) |
 | Sun, 31 Aug 2025 01:02:11 GMT | 10 Shocking Truths You Must Know Before Diving Into Cybersecurity | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/204a23d8348d) |
 | Sun, 31 Aug 2025 01:01:24 GMT | Privacy and Safety Concerns in Women’s Health Apps | Physical Therapist - Poonam Mahraj | [Read More](https://medium.com/p/631695761b02) |
-| Sun, 31 Aug 2025 00:54:15 GMT | CISSP Certification: What Aspiring Cybersecurity Professionals Need to Know | James Gilchrest | [Read More](https://medium.com/p/20e303181bd8) |
-| Sun, 31 Aug 2025 00:28:25 GMT | Nota para el Crownfish | Natalia Antonoff | [Read More](https://medium.com/p/93e8481aae0f) |
-| Sun, 31 Aug 2025 00:27:38 GMT | The Power of Solitude: How Being Truly Loved Empowers You to Enjoy Your Own Company | Lucas Brown | [Read More](https://medium.com/p/d72f53a2981d) |
-| Sun, 31 Aug 2025 00:17:06 GMT | Why Is Google Search So Fast? | Ade Mawan | [Read More](https://medium.com/p/b6c2dc5f5318) |
-| Sun, 31 Aug 2025 00:10:55 GMT | How I Discovered Vulnerabilities on XuperMall (and Responsibly Reported Them) | Mr Madani | [Read More](https://medium.com/p/ea018405b67b) |
-| Sun, 31 Aug 2025 00:08:33 GMT | The Great Unfastening: When the Upgrade Disrupts the Relationship | Carsten Bund | [Read More](https://medium.com/p/6be2d40822ff) |
-| Sat, 30 Aug 2025 23:46:06 GMT | Clickbait Crisis | Tina Ginn | [Read More](https://medium.com/p/88a425def698) |
-| Sat, 30 Aug 2025 23:37:19 GMT | The Importance of Research and Continuous Learning in Vulnerability Management | Anel Graph | [Read More](https://medium.com/p/4afdb11b9a7c) |
