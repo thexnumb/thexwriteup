@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 16:07:55 GMT | The First AI-Powered Ransomware and Why It Matters? | Lahiru Jayasinghe | [Read More](https://medium.com/p/d28bd15cee15) |
+| Sun, 31 Aug 2025 16:06:28 GMT | Free SSCP practice exam — Training Website | Joachim Lampl | [Read More](https://medium.com/p/dd264ef3e754) |
+| Sun, 31 Aug 2025 16:02:23 GMT | How one Google Search led to a critical vulnerability | Filip Kecman | [Read More](https://medium.com/p/6895c3558704) |
+| Sun, 31 Aug 2025 15:59:21 GMT | Beyond the Hype: The 90-Day Roadmap to Your First Valid Bug | Abhishek meena | [Read More](https://medium.com/p/df3842ad6502) |
+| Sun, 31 Aug 2025 15:59:00 GMT | EXPLAINER: How to spot phishing messages using these red flags you should never ignore | The ClarityDesk | [Read More](https://medium.com/p/98c0ca9c3107) |
+| Sun, 31 Aug 2025 15:51:31 GMT | Building Unbreakable AI Security: Defense Strategies and Implementation Guide (Part 2) | Shailesh Kumar Mishra | [Read More](https://medium.com/p/304fe2a14085) |
+| Sun, 31 Aug 2025 15:48:24 GMT | 5 Easy First Steps to Protect Yourself Online: A Complete Beginner’s Guide | Maxime Siffert | [Read More](https://medium.com/p/c2188c64cfdd) |
+| Sun, 31 Aug 2025 15:44:25 GMT | We fired a software developer in a week | Timur Bakibayev, Ph.D. | [Read More](https://medium.com/p/50c84a87819d) |
+| Sun, 31 Aug 2025 15:38:21 GMT | Change Email to a Fake One… and Log In! | Madhan | [Read More](https://medium.com/p/d52698e47a2d) |
+| Sun, 31 Aug 2025 15:34:58 GMT | What If All Mosquitoes And Houseflies On Earth Suddenly Disappeared? | Rajnish And Analysis | [Read More](https://medium.com/p/61811121078b) |
+| Sun, 31 Aug 2025 15:30:08 GMT | Spy Apps for Social Media: A Complete Guide for Parents and Partners | Narjis Batool | [Read More](https://medium.com/p/6bfe616b233e) |
 | Sun, 31 Aug 2025 15:22:57 GMT | Awesome AI Security | Tal Eliyahu | [Read More](https://medium.com/p/f82dc4a5d2e0) |
 | Sun, 31 Aug 2025 15:22:33 GMT | Pragmatic Patriotism III: On Context. | Trent Cline Larsen | [Read More](https://medium.com/p/896bd80a1545) |
 | Sun, 31 Aug 2025 15:20:49 GMT | ZAPROXY con Jython Reglas Pasivas 1 | alejandro | [Read More](https://medium.com/p/cc1215e838e3) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 09:41:09 GMT | Checkmarx : Integration with Github actions | Piyali Das | [Read More](https://medium.com/p/b7619f9e1a3a) |
 | Sun, 31 Aug 2025 09:40:21 GMT | Few Fundamental Cryptography Concepts | Dipak Kr das | [Read More](https://medium.com/p/17aa1f6fe3ae) |
 | Sun, 31 Aug 2025 09:39:03 GMT | Beyond the OWASP Top 10: A Strategic Guide to Uncovering High-Impact Business Logic Flaws | Abhishek meena | [Read More](https://medium.com/p/b221729fb655) |
-| Sun, 31 Aug 2025 09:37:36 GMT | Footprinting | Azer Abdullazde | [Read More](https://medium.com/p/1c9032f23586) |
-| Sun, 31 Aug 2025 09:31:34 GMT | 10 Codex Tips to Avoid Generating Insecure or Buggy Code | Bhagya Rana | [Read More](https://medium.com/p/a7705a911d48) |
-| Sun, 31 Aug 2025 09:26:33 GMT | When the AI Turned Killer | Aj | [Read More](https://medium.com/p/120f770975ab) |
-| Sun, 31 Aug 2025 09:08:37 GMT | Cybersecurity’s Silent Threat: The Unseen Experts | Truspex | [Read More](https://medium.com/p/67ba957bb163) |
-| Sun, 31 Aug 2025 09:07:39 GMT | Wi-Fi Adapter Troubleshooting: Fix Monitor Mode Not Starting (Step-by-Step Guide) | Biplove Yadav | [Read More](https://medium.com/p/0ebc814aa34c) |
-| Sun, 31 Aug 2025 09:03:15 GMT | Apply the knowledge gained over the years, in building tools. | Subramanian S | [Read More](https://medium.com/p/424ca962f89b) |
-| Sun, 31 Aug 2025 09:01:37 GMT | Cryptographic Attacks: Breaking Security Beyond the Algorithm | Kyrillos Kamal | [Read More](https://medium.com/p/c40b6cb2fcee) |
-| Sun, 31 Aug 2025 08:59:28 GMT | Choosing The Appropriate OAuth Flow | Albert Starreveld | [Read More](https://medium.com/p/4f9a99d7401a) |
-| Sun, 31 Aug 2025 08:59:04 GMT | Windows Privilege Escalation Walkthrough: From User to SYSTEM Access | Savyasachi | [Read More](https://medium.com/p/4b897f40dd67) |
-| Sun, 31 Aug 2025 08:56:48 GMT | This Ransomware Just Changed the Game. Are You Ready? | Authlyn | [Read More](https://medium.com/p/c0ec15dcf316) |
-| Sun, 31 Aug 2025 08:46:05 GMT | The “Nano Banana” Effect: An Analysis of Google’s Strategic Play in the AI Image Generation Market | Muhammad Saeed | [Read More](https://medium.com/p/2e21a15e794d) |
