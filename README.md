@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 06:47:33 GMT | Bug Bounty Web Cache Deception: cuando la caché filtra datos privados | Gorka | [Read More](https://medium.com/p/f8f72e6200b5) |
+| Sun, 31 Aug 2025 06:44:43 GMT | You are unique ! | Malak | [Read More](https://medium.com/p/3a3bcb708a77) |
+| Sun, 31 Aug 2025 06:42:29 GMT | Deepfake Scams Are Emptying Accounts — And Your Identity Could Be Next | Rizqi Mulki | [Read More](https://medium.com/p/1c1f03b827a2) |
+| Sun, 31 Aug 2025 06:35:45 GMT | AI Hackers Are Already Beating Human Defenses — Your Business Could Collapse Overnight | Rizqi Mulki | [Read More](https://medium.com/p/691171ed14b1) |
+| Sun, 31 Aug 2025 06:31:35 GMT | China attacked more than 600 companies in 80 countries around the world | Patrik Žák | [Read More](https://medium.com/p/9aac15f41021) |
+| Sun, 31 Aug 2025 06:29:31 GMT | Login Explained: Sessions, Cookies, JWT, SSO, and OAuth 2.0 | Ajit Kumar | [Read More](https://medium.com/p/3f075ae18570) |
+| Sun, 31 Aug 2025 06:28:39 GMT | Building My Own Simulated EDR Agent in Python | Imajaykris | [Read More](https://medium.com/p/fa8f48345a90) |
+| Sun, 31 Aug 2025 06:25:37 GMT | The Future of Renewable Energy | Komal mehmood | [Read More](https://medium.com/p/b5b9e371f4c8) |
+| Sun, 31 Aug 2025 06:22:54 GMT | Password Generators 2025: The Ultimate Guide to Protecting Your Digital Life | David C. | [Read More](https://medium.com/p/e5702b4708a3) |
 | Sun, 31 Aug 2025 06:14:37 GMT | 5G Satellite Networks Explained: Faster Internet Anywhere | Alice Doyle | [Read More](https://medium.com/p/fb78bfcc2f78) |
 | Sun, 31 Aug 2025 06:13:06 GMT | The Ghosts in the Government Machine | Aj | [Read More](https://medium.com/p/d45cc62cb419) |
 | Sun, 31 Aug 2025 06:10:37 GMT | How I Exploited a JWT Misconfiguration for Account Takeover and Admin Access in 5 Minutes | PARADOX | [Read More](https://medium.com/p/c2974899f4ec) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 20:01:38 GMT | “Tethearing”: New Philosophy Unveils the Hidden Architecture of Survival | USAI Insight | [Read More](https://medium.com/p/4738e230a95f) |
 | Sat, 30 Aug 2025 19:59:45 GMT | Analyzing Zero Trust Security for Organizations | Cyber Security Research | [Read More](https://medium.com/p/1dc750f96bb3) |
 | Sat, 30 Aug 2025 19:57:45 GMT | Analyzing Zero Trust Security for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/e3c2e54dcb7e) |
-| Sat, 30 Aug 2025 19:57:21 GMT | Top AI Security Videos — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9af31f5389cc) |
-| Sat, 30 Aug 2025 19:55:59 GMT | Analyzing Zero Trust Security and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/1c2c41a7eeac) |
-| Sat, 30 Aug 2025 19:52:50 GMT | How a Forgotten Subdomain Led to Critical Access | Aj | [Read More](https://medium.com/p/116a78401065) |
-| Sat, 30 Aug 2025 19:50:58 GMT | Meet Vörn: Your Friendly Viking-Inspired Web Security Toolkit | totta zetterlund | [Read More](https://medium.com/p/d6553c862fe7) |
-| Sat, 30 Aug 2025 19:47:05 GMT | When A.I lies to A.I: Why deepfakes are outsmarting detection? | Aiman Shariff | [Read More](https://medium.com/p/5008cea64f19) |
-| Sat, 30 Aug 2025 19:41:33 GMT | Hacking APIs: Building a Custom Nuclei Workflow for API Pentesting | Israel Aráoz Severiche | [Read More](https://medium.com/p/ff616e29f784) |
-| Sat, 30 Aug 2025 19:40:00 GMT | The Invisible MCP Threat Hiding in Plain Sight | Dr. Cesar Guzman | [Read More](https://medium.com/p/5b356f410f5f) |
-| Sat, 30 Aug 2025 19:27:45 GMT | How I passed the eJPT and how you can too! | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/97c839e17dc1) |
-| Sat, 30 Aug 2025 19:25:30 GMT | BLUE walkthrough \\TryHackMe | Proxyminerin | [Read More](https://medium.com/p/2fcda23dd745) |
