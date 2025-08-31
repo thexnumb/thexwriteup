@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 19:06:55 GMT | Anyone Answering For Me. | Lonelykglayy | [Read More](https://medium.com/p/3e5c94c9cd70) |
+| Sun, 31 Aug 2025 18:54:41 GMT | AI in Cybersecurity and OT Audits: Transforming the Way We Protect Critical Systems | Namarta Thakur | [Read More](https://medium.com/p/5f35a3310fa1) |
+| Sun, 31 Aug 2025 18:51:41 GMT | My Experience of Hacking Dutch Government (DNS Hijacking) | Md Nahid Alam | [Read More](https://medium.com/p/d25239af5500) |
+| Sun, 31 Aug 2025 18:45:00 GMT | When Your AI Repo Becomes a Jungle | Elad Golan | [Read More](https://medium.com/p/f0a605ccab5c) |
+| Sun, 31 Aug 2025 18:44:03 GMT | Top 11 cyber stories (Week: Aug 25–31, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/554031c96177) |
 | Sun, 31 Aug 2025 18:33:36 GMT | Implementing Zero Trust: Steps, Tools and Best Practices | Roshinni Gandhi | [Read More](https://medium.com/p/7003fb6f5d94) |
 | Sun, 31 Aug 2025 18:32:30 GMT | The Ransomware That Writes Itself: AI Steps Into Cybercrime | Cyber-AppSec | [Read More](https://medium.com/p/65c528b3ebfd) |
 | Sun, 31 Aug 2025 18:29:19 GMT | Plex Media Server Vulnerability Exploited-CVE-2025-34158 Raises Security Alarms | Chetan Seripally | [Read More](https://medium.com/p/cc4b82015cc4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 13:21:12 GMT | AI matters, | Juben De Jesus | [Read More](https://medium.com/p/f4fef4647faf) |
 | Sun, 31 Aug 2025 13:10:20 GMT | 5 Ways Hackers Abuse AI Tools — And How to Defend | Rue | [Read More](https://medium.com/p/58dc6f47da7c) |
 | Sun, 31 Aug 2025 13:06:23 GMT | #  Cómo estructurar un reporte profesional de pentesting que impacte a tu cliente (y no solo a tu… | Marisol Bao | [Read More](https://medium.com/p/ee7d4bc07ca7) |
-| Sun, 31 Aug 2025 13:06:15 GMT | Red Team Infra Dev | MalwareBro | [Read More](https://medium.com/p/d2db6cf37b0b) |
-| Sun, 31 Aug 2025 13:03:57 GMT | scriptCTF: Write-up for Secure Server from Crypto category. | Rabia Riaz | [Read More](https://medium.com/p/304bc0e30907) |
-| Sun, 31 Aug 2025 13:03:32 GMT | From Jokes to Movements: How Silly Ideas Online Become “Real” | Internet Exposed | [Read More](https://medium.com/p/777d98cf70c1) |
-| Sun, 31 Aug 2025 13:03:07 GMT | It is a truth universally acknowledged — or at least known in the hallowed halls of techdom — that… | R | [Read More](https://medium.com/p/41f9a18b82c4) |
-| Sun, 31 Aug 2025 12:32:03 GMT | Apple Secures a Landmark Win in the Ongoing Encryption Battle | Motherlandlove | [Read More](https://medium.com/p/66438cb696ee) |
