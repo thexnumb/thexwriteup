@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 21:02:21 GMT | I Almost Closed the Tab on My Biggest Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/8685ef3d2f46) |
+| Sun, 31 Aug 2025 20:50:21 GMT | Harden your containerized Backstage app, for Kubernetes | Mathieu Benoit | [Read More](https://medium.com/p/6bcab5f0bf87) |
+| Sun, 31 Aug 2025 20:43:58 GMT | I’m Stripping Down My Writing | Andrew J. DiMeo, Sr., Ph.D. | [Read More](https://medium.com/p/e9497e42bebc) |
+| Sun, 31 Aug 2025 20:41:01 GMT | AI Security Tools — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9a6c449f0402) |
+| Sun, 31 Aug 2025 20:38:39 GMT | Securing the Dumbest App I’ve built (on Purpose) | Jayriniv | [Read More](https://medium.com/p/cd4495b47d5b) |
+| Sun, 31 Aug 2025 20:37:13 GMT | l337 S4uc3 Lab - CyberDefenders | Anas404 | [Read More](https://medium.com/p/fc4c0860a775) |
+| Sun, 31 Aug 2025 20:33:49 GMT | Roorkee Man Duped of ₹66 Lakh via Deepfake Video Scam | Ambica Deshmukh | [Read More](https://medium.com/p/e049a6187b15) |
 | Sun, 31 Aug 2025 20:22:03 GMT | Mapping: A Complementary Step in Mobile Application Security | ghrez1ns | [Read More](https://medium.com/p/5ecef4cbe08b) |
 | Sun, 31 Aug 2025 20:10:12 GMT | HackTheBox: Spookifier | Ross Andrews | [Read More](https://medium.com/p/241b05fce761) |
 | Sun, 31 Aug 2025 20:09:29 GMT | Pineal 10x - Supplements — health | Ireneoficie | [Read More](https://medium.com/p/00fe242c14a5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 14:59:30 GMT | The Cookie Bomb: My First $10K in Bug Bounties | Arshad Kazmi | [Read More](https://medium.com/p/f86cb22c37fa) |
 | Sun, 31 Aug 2025 14:57:01 GMT | Mission AppPossible :Draw Boxes, Find Bugs :-The Threat Modeling Way | Sumit Sharma | [Read More](https://medium.com/p/5ff09279843d) |
 | Sun, 31 Aug 2025 14:51:34 GMT | The “300,000 Deposit Rule”: How Middle-Class Wealth is Harvested | Dancemi Clare | [Read More](https://medium.com/p/b2aa625cce2f) |
-| Sun, 31 Aug 2025 14:47:03 GMT | Blog Post 3: Taking Ownership & Control of Your Smart Contracts | Zrhmz | [Read More](https://medium.com/p/3912ecb4f21c) |
-| Sun, 31 Aug 2025 14:36:49 GMT | Best Laptop for Cyber Security | Yousuf | [Read More](https://medium.com/p/64e3427ec9d0) |
-| Sun, 31 Aug 2025 14:28:17 GMT | Encoding, Hashing and Encryption | Nishada Thathsara | [Read More](https://medium.com/p/fff3d3243724) |
-| Sun, 31 Aug 2025 14:22:38 GMT | # ★Penetration testing ethics : | Sakib Mahmud | [Read More](https://medium.com/p/0a4adffa7213) |
-| Sun, 31 Aug 2025 14:20:09 GMT | Introducing DTRA: Turning Data Into Currency | Rev Cynthia Pustelak | [Read More](https://medium.com/p/f01aa969f166) |
-| Sun, 31 Aug 2025 14:12:57 GMT | Customising Login Experience and Branding for Users in Entra ID | Defend Microsoft365 now! | [Read More](https://medium.com/p/1f6803e7f0db) |
-| Sun, 31 Aug 2025 14:09:59 GMT | The Bangladesh Bank Heist Almost | O. J. Okpabi | [Read More](https://medium.com/p/3d4252d44e91) |
