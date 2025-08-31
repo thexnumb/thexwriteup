@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 18:33:36 GMT | Implementing Zero Trust: Steps, Tools and Best Practices | Roshinni Gandhi | [Read More](https://medium.com/p/7003fb6f5d94) |
+| Sun, 31 Aug 2025 18:32:30 GMT | The Ransomware That Writes Itself: AI Steps Into Cybercrime | Cyber-AppSec | [Read More](https://medium.com/p/65c528b3ebfd) |
+| Sun, 31 Aug 2025 18:29:19 GMT | Plex Media Server Vulnerability Exploited-CVE-2025-34158 Raises Security Alarms | Chetan Seripally | [Read More](https://medium.com/p/cc4b82015cc4) |
+| Sun, 31 Aug 2025 18:25:05 GMT | Policy as Code, Compliance as Service: Rethinking the Compliance Journey! — Part 2 | Maruti Sivakumar V | [Read More](https://medium.com/p/59bc41800dab) |
 | Sun, 31 Aug 2025 18:21:44 GMT | The Rogue Algorithm: A Trading Bot Gone Wild | Shahzaib | [Read More](https://medium.com/p/d749e3ca360d) |
 | Sun, 31 Aug 2025 18:20:42 GMT | The First 3 Things Every Beginner Should Know About Web Security | Vardaa Maheshwari | [Read More](https://medium.com/p/cc35b9c7ddba) |
 | Sun, 31 Aug 2025 18:20:10 GMT | Salt Typhoon’s Expanding Threat Landscape | Chetan Seripally | [Read More](https://medium.com/p/b9de82628a1b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 13:03:32 GMT | From Jokes to Movements: How Silly Ideas Online Become “Real” | Internet Exposed | [Read More](https://medium.com/p/777d98cf70c1) |
 | Sun, 31 Aug 2025 13:03:07 GMT | It is a truth universally acknowledged — or at least known in the hallowed halls of techdom — that… | R | [Read More](https://medium.com/p/41f9a18b82c4) |
 | Sun, 31 Aug 2025 12:32:03 GMT | Apple Secures a Landmark Win in the Ongoing Encryption Battle | Motherlandlove | [Read More](https://medium.com/p/66438cb696ee) |
-| Sun, 31 Aug 2025 12:25:02 GMT | Hash Collision Vulnerability (Smart Contract) | nevo | [Read More](https://medium.com/p/a8ccc0da0cec) |
-| Sun, 31 Aug 2025 12:18:14 GMT | Zero Trust Architecture: The Future of Cybersecurity | Aasik | [Read More](https://medium.com/p/aeb61f19dce3) |
-| Sun, 31 Aug 2025 12:10:02 GMT | DockerLabs Writeup — Escolares (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1fbb33e5a975) |
-| Sun, 31 Aug 2025 12:06:42 GMT | Authentication vs Authorization in Java: A Quick Guide | RocketScience | [Read More](https://medium.com/p/f86b57fd8609) |
