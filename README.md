@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 08:38:13 GMT | Effective Post-Incident investigation for Red/Blue teams — Detect Potential RCE Attacks on Web… | Sachin      Verlekar | [Read More](https://medium.com/p/038226e7184f) |
+| Sun, 31 Aug 2025 08:37:38 GMT | Digital Defense 101 | Vincent Bernard | [Read More](https://medium.com/p/5411b656e34e) |
+| Sun, 31 Aug 2025 08:36:35 GMT | Best Practices for Securing Spring Boot Configuration and Sensitive Data | Umesh Kumar Yadav | [Read More](https://medium.com/p/b85e6d4d7120) |
+| Sun, 31 Aug 2025 08:28:57 GMT | Command Injection: When Hackers Make Your Server Obey Their Commands | M.sriman | [Read More](https://medium.com/p/7665b83e75d2) |
+| Sun, 31 Aug 2025 08:24:02 GMT | Digitale Souveränität und Mandatsgeheimnis | Thomas Delfing | [Read More](https://medium.com/p/ff11082a276a) |
+| Sun, 31 Aug 2025 08:18:57 GMT | Agile Is the Biggest Scam in Software Development History | The Dev Notebook | [Read More](https://medium.com/p/096632317014) |
 | Sun, 31 Aug 2025 08:17:37 GMT | The Day My Audit Saved a Fortune 500 Company — Lessons for CISOs | Dr. Deep Pandey | [Read More](https://medium.com/p/6ad48dd482c6) |
 | Sun, 31 Aug 2025 08:17:20 GMT | Why LP Tokens Were Burned: A Look at Mumubit’s Liquidity Strategy | Camsy Cruise | [Read More](https://medium.com/p/03be9e6cbaea) |
 | Sun, 31 Aug 2025 08:13:46 GMT | MUMUBIT TYCOON: FUTURE EXPANSION – USER-CREATED PAIRS COMING TO THE DEX | Camsy Cruise | [Read More](https://medium.com/p/a925a48d78d7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 22:41:56 GMT | Learn to Hack Anything: One-on-One Cybersecurity Masterclass Facilitated by Veteran Black Hat… | SinVictus | [Read More](https://medium.com/p/e4316ea53f23) |
 | Sat, 30 Aug 2025 22:35:50 GMT | File Upload Bypass: Understanding and Mitigating Risks in Web Applications - Hidden Investigations | Hidden Investigations | [Read More](https://medium.com/p/33bd91f546de) |
 | Sat, 30 Aug 2025 22:27:20 GMT | Weekly Round Up — August 30 | litwtch | [Read More](https://medium.com/p/a1fab27e6634) |
-| Sat, 30 Aug 2025 22:20:48 GMT | How VOXCompanies® Is Revolutionizing Its Industry | VOXCompanies | [Read More](https://medium.com/p/02f7e57931d4) |
-| Sat, 30 Aug 2025 22:17:56 GMT | I Automated WAF Bypass with Python and Fuzzing | Ibtissam hammadi | [Read More](https://medium.com/p/c24057e3617f) |
-| Sat, 30 Aug 2025 22:14:01 GMT | Active Defence: Building Proactive, In-Depth Cybersecurity Strategies | Richard Dosumu | [Read More](https://medium.com/p/21e84780149c) |
-| Sat, 30 Aug 2025 22:08:24 GMT | LetsDefend SOC Walkthrough - SOC282 — Phishing Alert: Deceptive Mail Detected | Andrew Williams | [Read More](https://medium.com/p/ef59e2b2f0f6) |
-| Sat, 30 Aug 2025 21:57:35 GMT | The Weight of a Like Button | Oren | [Read More](https://medium.com/p/318e3ccb66dc) |
-| Sat, 30 Aug 2025 21:53:43 GMT | Building a FAIR Prompt Library | Lance Cummings PhD | [Read More](https://medium.com/p/5c287877e7f4) |
