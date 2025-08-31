@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 16:36:09 GMT | Building Cloud Security That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/0d8b785a851b) |
+| Sun, 31 Aug 2025 16:32:04 GMT | HITRUST Isn’t Just for Healthcare: Common Myths Explained | Ampcus Cyber | [Read More](https://medium.com/p/d1f1bf6d19ca) |
+| Sun, 31 Aug 2025 16:24:54 GMT | Cross-Account SQS Access: Secure Setup and Auditing with CloudTrail | Amine | [Read More](https://medium.com/p/3bed8bc27f38) |
+| Sun, 31 Aug 2025 16:19:09 GMT | No keys. No passwords. Just Entra. | Ahmed.A | [Read More](https://medium.com/p/ad494ca6c4ef) |
 | Sun, 31 Aug 2025 16:07:55 GMT | The First AI-Powered Ransomware and Why It Matters? | Lahiru Jayasinghe | [Read More](https://medium.com/p/d28bd15cee15) |
 | Sun, 31 Aug 2025 16:06:28 GMT | Free SSCP practice exam — Training Website | Joachim Lampl | [Read More](https://medium.com/p/dd264ef3e754) |
 | Sun, 31 Aug 2025 16:02:23 GMT | How one Google Search led to a critical vulnerability | Filip Kecman | [Read More](https://medium.com/p/6895c3558704) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 10:15:41 GMT | Cyberus CTF 2025 - PhantomBlog and PhantomBlog - Revenge Writeups | Ramy Nasser | [Read More](https://medium.com/p/5f0d3227cd3d) |
 | Sun, 31 Aug 2025 10:07:55 GMT | Best motherboard for b450 | Ayeshha | [Read More](https://medium.com/p/bbcdb72a1073) |
 | Sun, 31 Aug 2025 09:53:55 GMT | I Hacked an AI Agent: A Complete Walkthrough of the HackTheAgent CTF | Chris Hernandez | [Read More](https://medium.com/p/5698467fde88) |
-| Sun, 31 Aug 2025 09:43:38 GMT | Prompt Injection: The New Phishing Attack on AI Models | Vidhi patel | [Read More](https://medium.com/p/acd29717d0c2) |
-| Sun, 31 Aug 2025 09:41:09 GMT | Checkmarx : Integration with Github actions | Piyali Das | [Read More](https://medium.com/p/b7619f9e1a3a) |
-| Sun, 31 Aug 2025 09:40:21 GMT | Few Fundamental Cryptography Concepts | Dipak Kr das | [Read More](https://medium.com/p/17aa1f6fe3ae) |
-| Sun, 31 Aug 2025 09:39:03 GMT | Beyond the OWASP Top 10: A Strategic Guide to Uncovering High-Impact Business Logic Flaws | Abhishek meena | [Read More](https://medium.com/p/b221729fb655) |
