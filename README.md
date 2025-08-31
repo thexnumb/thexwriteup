@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 19:30:07 GMT | Basic of Bind Shell for beginners | Spider256 | [Read More](https://medium.com/p/e795b688d09c) |
+| Sun, 31 Aug 2025 19:20:09 GMT | The Night I Learned Safety Isn’t Optional | SavvyCart | [Read More](https://medium.com/p/396dcc8bcc18) |
+| Sun, 31 Aug 2025 19:20:07 GMT | The First AI-Powered Ransomware Has Arrived, And It’s Just the Beginning | Dr. Barry | [Read More](https://medium.com/p/0e2e8f1ff9a7) |
+| Sun, 31 Aug 2025 19:11:48 GMT | LATAM cuna para las redes del mal | Hacking en México | [Read More](https://medium.com/p/90565bf5324d) |
 | Sun, 31 Aug 2025 19:06:55 GMT | Anyone Answering For Me. | Lonelykglayy | [Read More](https://medium.com/p/3e5c94c9cd70) |
+| Sun, 31 Aug 2025 19:06:39 GMT | OpenAI Agents SDK: Dive into Security Implications and Protection Strategies | Volodymyr Sanchenko | [Read More](https://medium.com/p/28850f312d6a) |
+| Sun, 31 Aug 2025 18:58:22 GMT | De las Sombras al Código: Mi Vida Entre Hacking, Magia y Redención | Hacking en México | [Read More](https://medium.com/p/bda320e80b22) |
 | Sun, 31 Aug 2025 18:54:41 GMT | AI in Cybersecurity and OT Audits: Transforming the Way We Protect Critical Systems | Namarta Thakur | [Read More](https://medium.com/p/5f35a3310fa1) |
 | Sun, 31 Aug 2025 18:51:41 GMT | My Experience of Hacking Dutch Government (DNS Hijacking) | Md Nahid Alam | [Read More](https://medium.com/p/d25239af5500) |
 | Sun, 31 Aug 2025 18:45:00 GMT | When Your AI Repo Becomes a Jungle | Elad Golan | [Read More](https://medium.com/p/f0a605ccab5c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 13:40:48 GMT | O Impacto e a Mitigação de Insecure Direct Object Reference (IDOR) em Aplicações Web | lka1r0s | [Read More](https://medium.com/p/05338e20f66d) |
 | Sun, 31 Aug 2025 13:38:56 GMT | The Missing Layer of Trust and Safety: Why Platforms Must Work Together Like Intelligence Alliances | Gaurang Katyal | [Read More](https://medium.com/p/7c562bd59ea1) |
 | Sun, 31 Aug 2025 13:38:46 GMT | CTF Walkthrough: The Challenge That Taught Me SQLi the Hard Way | Aj | [Read More](https://medium.com/p/6ca08048476b) |
-| Sun, 31 Aug 2025 13:34:14 GMT | The $4.88 Million Typo: How Human Error Is Quietly Bankrupting Companies | Aj | [Read More](https://medium.com/p/480740567342) |
-| Sun, 31 Aug 2025 13:32:44 GMT | Virtual Machines vs. Docker: Understanding the Difference | Areeba Ayub | [Read More](https://medium.com/p/4eb19f8a42c1) |
-| Sun, 31 Aug 2025 13:21:52 GMT | CBBH Review | MalwareBro | [Read More](https://medium.com/p/e5cf80cf2c93) |
-| Sun, 31 Aug 2025 13:21:12 GMT | AI matters, | Juben De Jesus | [Read More](https://medium.com/p/f4fef4647faf) |
-| Sun, 31 Aug 2025 13:10:20 GMT | 5 Ways Hackers Abuse AI Tools — And How to Defend | Rue | [Read More](https://medium.com/p/58dc6f47da7c) |
-| Sun, 31 Aug 2025 13:06:23 GMT | #  Cómo estructurar un reporte profesional de pentesting que impacte a tu cliente (y no solo a tu… | Marisol Bao | [Read More](https://medium.com/p/ee7d4bc07ca7) |
