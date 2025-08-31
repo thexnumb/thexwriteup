@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 11:31:11 GMT | Day 47- Operating system hardening: Making your computer safer | unica 02 | [Read More](https://medium.com/p/9051e37228c4) |
+| Sun, 31 Aug 2025 11:27:02 GMT | $5000+ in Bounties, 20+ Bug Reports, 2 Hall of Fame : Find Your First Bug! | Akash Singh | [Read More](https://medium.com/p/32d564c1b9b4) |
+| Sun, 31 Aug 2025 11:22:38 GMT | Cyber Security Forensics: Tracing the Digital Footprints | Cyber Security Research | [Read More](https://medium.com/p/e5614af983fc) |
+| Sun, 31 Aug 2025 11:17:39 GMT | Kriptolojinin Sırları: Simetrik, Asimetrik Şifreleme, Hash ve Dijital İmza | Onur Altuğ | [Read More](https://medium.com/p/9bda1b1e1819) |
+| Sun, 31 Aug 2025 11:13:24 GMT | Only TWO Lines of Code? Simple Docker Trick Gives Attackers Host Access | S.Ali | [Read More](https://medium.com/p/a638293f43ad) |
+| Sun, 31 Aug 2025 11:13:18 GMT | WhatsApp Emergency Update: Zero-Click Exploit Targeting iOS and macOS Devices | IamPreth | [Read More](https://medium.com/p/52a96fd7e907) |
+| Sun, 31 Aug 2025 11:10:45 GMT | PromptLock shows where ransomware is headed-and how defenders can respond | Roshan R. Talashilkar | [Read More](https://medium.com/p/72be894a589f) |
 | Sun, 31 Aug 2025 11:05:46 GMT | When the Referer Becomes the Villain: RXSS + Redirection | Aryan Shrestha | [Read More](https://medium.com/p/be49d7d323c6) |
 | Sun, 31 Aug 2025 11:04:46 GMT | Post-Quantum Cryptography: Securing Tomorrow’s Data Today | Intellitron Genesis | [Read More](https://medium.com/p/9520d08bf224) |
 | Sun, 31 Aug 2025 11:01:34 GMT | I Didn’t Know I Could Shine Like This | Her Out-of-Office Feelings | [Read More](https://medium.com/p/8377312e3694) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 04:33:00 GMT | Building AI in Cybersecurity for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/998c839516de) |
 | Sun, 31 Aug 2025 04:32:59 GMT | THM: skynet | Zaakceptowac | [Read More](https://medium.com/p/0dc9bc59a5de) |
 | Sun, 31 Aug 2025 04:31:53 GMT | Cloud to Catastrophe: How I Lost Everything in One Click! | hp | [Read More](https://medium.com/p/63985b1d6669) |
-| Sun, 31 Aug 2025 04:31:53 GMT | Are You a Data Fiduciary? Your Rights, Roles, and Responsibilities Under the DPDP Act | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/16ea1fd0ad13) |
-| Sun, 31 Aug 2025 04:31:08 GMT | Write Up Lab: SQL injection with filter bypass via XML encoding | Velskynotfound | [Read More](https://medium.com/p/c0b5e67e786b) |
-| Sun, 31 Aug 2025 04:27:41 GMT | Building AI in Cybersecurity for Beginners | Cyber Security Research | [Read More](https://medium.com/p/76ac2ae116a9) |
-| Sun, 31 Aug 2025 04:25:36 GMT | The Linux Security Journey — Kernel Modules Strict RWX (Read-Write-Execute) Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1b01fedc97ce) |
-| Sun, 31 Aug 2025 04:21:42 GMT | DirecTV in 2025: Is Satellite TV Still Worth the Price? | Motherlandlove | [Read More](https://medium.com/p/91c954706871) |
-| Sun, 31 Aug 2025 04:08:55 GMT | How Threat Intelligence Teams Track and Take Down Malware Campaigns | Paritosh | [Read More](https://medium.com/p/6eff624a1ad6) |
-| Sun, 31 Aug 2025 03:58:58 GMT | Applied vs. Paper: The Dual Nature of Cybersecurity | Taulan Zauzanov | [Read More](https://medium.com/p/251ed049919c) |
