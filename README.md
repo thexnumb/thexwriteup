@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 05:28:51 GMT | How to Identify Cyber Security Threats Effectively and Early | Gurleenndigital | [Read More](https://medium.com/p/f2a78991862d) |
+| Sun, 31 Aug 2025 05:21:57 GMT | Introduction to EDR - Tryhackme | Aaron | [Read More](https://medium.com/p/1c43560ccf51) |
+| Sun, 31 Aug 2025 05:20:16 GMT | Becoming Virtually Untraceable — #8–25_M@ss_SuRv3!ll4nc3[.]com | Ian Barwise | [Read More](https://medium.com/p/48581fee1837) |
 | Sun, 31 Aug 2025 05:15:31 GMT | Human or AI? | MMA Pvt Ltd | [Read More](https://medium.com/p/4de1108d6013) |
+| Sun, 31 Aug 2025 05:15:31 GMT | Payload Party: Chaining Tiny Bugs Into a Full-Blown Account Takeover | Iski | [Read More](https://medium.com/p/f85d646f3666) |
+| Sun, 31 Aug 2025 05:07:40 GMT | I Taught My Chatbot to Lie: A High-Level Look at Poisoning a RAG Pipeline | Winston Ludlam | [Read More](https://medium.com/p/c4bd086df896) |
 | Sun, 31 Aug 2025 05:05:16 GMT | Practica 5 — Aprendiendo a Descifrar Contraseñas | César Martínez | [Read More](https://medium.com/p/b09769f13768) |
 | Sun, 31 Aug 2025 04:59:21 GMT | Criando um Scan de Portas em Python | Henry Vilani Mansur | [Read More](https://medium.com/p/e1c1c4670806) |
 | Sun, 31 Aug 2025 04:50:13 GMT | How I Found an Exposed User Database via an Unprotected API (And How to Prevent It) in a private… | Be nice insabat | [Read More](https://medium.com/p/77dd95a1101c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 18:52:54 GMT | What I learned from recovering a server at risk: beyond AI and automation | Jose Luis Campos Bautista | [Read More](https://medium.com/p/3adb75eca96c) |
 | Sat, 30 Aug 2025 18:49:46 GMT | Why Hands-on Training Labs Really Matter: Challenges, Wins, and Smart Tips | Santoshi_Cloud | [Read More](https://medium.com/p/58e77ea67c78) |
 | Sat, 30 Aug 2025 18:41:34 GMT | ️ What Is a Rootkit and How to Protect Against It | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/a6a75a97c8d2) |
-| Sat, 30 Aug 2025 18:36:58 GMT | A Beginner’s Guide to Setting Up a Malware Analysis Lab | XoX | [Read More](https://medium.com/p/2dab4c73724c) |
-| Sat, 30 Aug 2025 18:31:34 GMT | Securing Your Spring Boot App with OAuth 2.0 and JWT — A Simple Guide | Naveen Metta | [Read More](https://medium.com/p/cbc10642fc5d) |
-| Sat, 30 Aug 2025 18:26:55 GMT | เฉลย Cyber top talent Ep:2 | jitwisut | [Read More](https://medium.com/p/15247bc88882) |
-| Sat, 30 Aug 2025 18:25:12 GMT | JWT Replay + Session Context Desync Vulnerability: Real-World Impact | Huseyin | [Read More](https://medium.com/p/3ffbf9f70287) |
-| Sat, 30 Aug 2025 18:07:31 GMT | Mastering Nmap (Part 3) in 2025:: Vulnerability Detection & Exploitation with NSE | appsecvenue | [Read More](https://medium.com/p/6e3b899eb64d) |
