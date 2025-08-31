@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 10:31:54 GMT | # The Forgetting Brain: Why AI Safety Needs Alzheimer's, Not Einstein | Vivek. | [Read More](https://medium.com/p/c9813d218d75) |
+| Sun, 31 Aug 2025 10:30:43 GMT | Which careers demand a Linux certification? | cyber security Updates | [Read More](https://medium.com/p/cecdc36b9198) |
+| Sun, 31 Aug 2025 10:30:42 GMT | Why Maladaptive Habits Persist Among Humans | Ahmad2105 | [Read More](https://medium.com/p/1da6c99df249) |
+| Sun, 31 Aug 2025 10:23:07 GMT | MY VIEW OF THE FUTURE WITH DROSERA NETWORK | Fivestttttar | [Read More](https://medium.com/p/50e6038fc1b0) |
+| Sun, 31 Aug 2025 10:22:51 GMT | Automating Vulnerability Scans with Python and ProjectDiscovery Tools | Rajesh Kanade | [Read More](https://medium.com/p/e3646dac1c20) |
+| Sun, 31 Aug 2025 10:22:30 GMT | The Genesis of DevOps | Whitney Kataka | [Read More](https://medium.com/p/94c66108a21d) |
+| Sun, 31 Aug 2025 10:18:29 GMT | CYIBER SECURITY | ukkasyah malang | [Read More](https://medium.com/p/d79d96f5c775) |
 | Sun, 31 Aug 2025 10:15:41 GMT | Cyberus CTF 2025 - PhantomBlog and PhantomBlog - Revenge Writeups | Ramy Nasser | [Read More](https://medium.com/p/5f0d3227cd3d) |
+| Sun, 31 Aug 2025 10:07:55 GMT | Best motherboard for b450 | Ayeshha | [Read More](https://medium.com/p/bbcdb72a1073) |
 | Sun, 31 Aug 2025 09:53:55 GMT | I Hacked an AI Agent: A Complete Walkthrough of the HackTheAgent CTF | Chris Hernandez | [Read More](https://medium.com/p/5698467fde88) |
 | Sun, 31 Aug 2025 09:43:38 GMT | Prompt Injection: The New Phishing Attack on AI Models | Vidhi patel | [Read More](https://medium.com/p/acd29717d0c2) |
 | Sun, 31 Aug 2025 09:41:09 GMT | Checkmarx : Integration with Github actions | Piyali Das | [Read More](https://medium.com/p/b7619f9e1a3a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 03:01:38 GMT | Singapore — The  Key to Evacuating Southeast Asians in Taiwan Blockade | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c46e65c055f0) |
 | Sun, 31 Aug 2025 02:50:39 GMT | EXPERIENCE at Accelya As a PLSQL Developer 2025 | Pranav Bakare | [Read More](https://medium.com/p/146c4e44e9e5) |
 | Sun, 31 Aug 2025 02:31:35 GMT | ️ Mastering Network Addressing: IP, Subnetting, and Supernetting | Keerthan V Suvarna | [Read More](https://medium.com/p/915cbdba454d) |
-| Sun, 31 Aug 2025 02:26:02 GMT | Privilege Escalation Through Token Mismanagement: A Real-World Discovery | Huseyin | [Read More](https://medium.com/p/d82b3f06890f) |
-| Sun, 31 Aug 2025 01:52:36 GMT | AWS CLI Manual Walkthrough for Cloudgoat Beanstalk_Secrets Scenario | Wyatt. V | [Read More](https://medium.com/p/e21fbefbbadc) |
-| Sun, 31 Aug 2025 01:52:11 GMT | OSINT without the chaos | Progsky | [Read More](https://medium.com/p/75fbe41c997e) |
-| Sun, 31 Aug 2025 01:50:31 GMT | Inside the Mind of a Threat Actor: Lessons for CISOs from the August 2025 Cyber Defense Magazine | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/8a75ba4b29e9) |
-| Sun, 31 Aug 2025 01:31:35 GMT | The Refresh Token Pattern That Actually Works | Nikulsinh Rajput | [Read More](https://medium.com/p/114be4ecff59) |
-| Sun, 31 Aug 2025 01:02:37 GMT | Introduction to EDR: TryHackMe Answer | Ansul Kotadia | [Read More](https://medium.com/p/008a972a8fcf) |
-| Sun, 31 Aug 2025 01:02:11 GMT | 10 Shocking Truths You Must Know Before Diving Into Cybersecurity | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/204a23d8348d) |
-| Sun, 31 Aug 2025 01:01:24 GMT | Privacy and Safety Concerns in Women’s Health Apps | Physical Therapist - Poonam Mahraj | [Read More](https://medium.com/p/631695761b02) |
