@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 17:33:36 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/286c431dbcf0) |
+| Sun, 31 Aug 2025 17:30:26 GMT | Top 5 Cybersecurity Tips Every Beginner Should Know | Nandini | [Read More](https://medium.com/p/c0962158549e) |
+| Sun, 31 Aug 2025 17:29:27 GMT | TryHackMe LinPrivEsc Walkthrough | Abdelrahman Farid | [Read More](https://medium.com/p/b874988202cf) |
+| Sun, 31 Aug 2025 17:24:40 GMT | When Access Control Fails: Local File Inclusion ($100–$500) | Abin | [Read More](https://medium.com/p/445f15c6b9d7) |
+| Sun, 31 Aug 2025 17:24:02 GMT | Turning Feedback into Fuel: Growth Strategies for Vulnerable Leaders | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/1df0a70f5fe5) |
+| Sun, 31 Aug 2025 17:21:25 GMT | Yapay Zekada Bilinçaltı Tehlikesi | Emir Ekrem Kaya | [Read More](https://medium.com/p/1f99cfad338d) |
+| Sun, 31 Aug 2025 17:19:22 GMT | Think Your Gmail Is Safe? Google Just Told Billions to Change Passwords, know why?? | cybrNK | [Read More](https://medium.com/p/9441ffc73acb) |
 | Sun, 31 Aug 2025 17:14:03 GMT | Reflected XSS in Login Form (Email & Password Fields) Vvveb CMS v1.0.7.2 | Andrew Paul | [Read More](https://medium.com/p/18800186804d) |
 | Sun, 31 Aug 2025 17:11:19 GMT | Full ATO via custom metadata manipulation in AWS Cognito Misconfigured Application | Hazem El-Sayed | [Read More](https://medium.com/p/1628c43417f0) |
+| Sun, 31 Aug 2025 17:11:13 GMT | Installasi Pengkabelan dalam Jaringan Komputer | fijrisalwa | [Read More](https://medium.com/p/e5d1cb8d655a) |
 | Sun, 31 Aug 2025 17:05:43 GMT | Do It Yourself — One Weekend, 2 CVEs | Chux | [Read More](https://medium.com/p/bc6a946a8261) |
 | Sun, 31 Aug 2025 17:02:37 GMT | Thailand Cyber Top Talent2025 (Senior) | O - Opsifiz | [Read More](https://medium.com/p/8a9b62d83c19) |
 | Sun, 31 Aug 2025 17:02:22 GMT | One Click Away: Lessons from My GoPhish Experiment | Abhiram Laha | [Read More](https://medium.com/p/a1720809c2e4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 11:13:24 GMT | Only TWO Lines of Code? Simple Docker Trick Gives Attackers Host Access | S.Ali | [Read More](https://medium.com/p/a638293f43ad) |
 | Sun, 31 Aug 2025 11:13:18 GMT | WhatsApp Emergency Update: Zero-Click Exploit Targeting iOS and macOS Devices | IamPreth | [Read More](https://medium.com/p/52a96fd7e907) |
 | Sun, 31 Aug 2025 11:10:45 GMT | PromptLock shows where ransomware is headed-and how defenders can respond | Roshan R. Talashilkar | [Read More](https://medium.com/p/72be894a589f) |
-| Sun, 31 Aug 2025 11:05:46 GMT | When the Referer Becomes the Villain: RXSS + Redirection | Aryan Shrestha | [Read More](https://medium.com/p/be49d7d323c6) |
-| Sun, 31 Aug 2025 11:04:46 GMT | Post-Quantum Cryptography: Securing Tomorrow’s Data Today | Intellitron Genesis | [Read More](https://medium.com/p/9520d08bf224) |
-| Sun, 31 Aug 2025 11:01:34 GMT | I Didn’t Know I Could Shine Like This | Her Out-of-Office Feelings | [Read More](https://medium.com/p/8377312e3694) |
-| Sun, 31 Aug 2025 10:56:51 GMT | 10 Types of Information You Should Never Share with ChatGPT | The Human Prompt | [Read More](https://medium.com/p/c04ca4870be3) |
-| Sun, 31 Aug 2025 10:56:04 GMT | Unpacking Cyber Security: Layers of Protection | Cyber Security Research | [Read More](https://medium.com/p/f28f23bbfb32) |
-| Sun, 31 Aug 2025 10:50:57 GMT | Keylime: A Complete Guide to Hardware-Backed Security for Kubernetes and Edge Workloads | ebenamor | [Read More](https://medium.com/p/8ccb53cdbc3b) |
-| Sun, 31 Aug 2025 10:50:55 GMT | Keylime: A Complete Guide to Hardware-Backed Security for Kubernetes and Edge Workloads | ebenamor | [Read More](https://medium.com/p/3d0045868dd4) |
-| Sun, 31 Aug 2025 10:50:04 GMT | Sensitive Data Exposure in React: Fixes & Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/78dacc94e3ff) |
