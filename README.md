@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 13:21:12 GMT | AI matters, | Juben De Jesus | [Read More](https://medium.com/p/f4fef4647faf) |
+| Sun, 31 Aug 2025 13:10:20 GMT | 5 Ways Hackers Abuse AI Tools — And How to Defend | Rue | [Read More](https://medium.com/p/58dc6f47da7c) |
+| Sun, 31 Aug 2025 13:06:23 GMT | #  Cómo estructurar un reporte profesional de pentesting que impacte a tu cliente (y no solo a tu… | Marisol Bao | [Read More](https://medium.com/p/ee7d4bc07ca7) |
+| Sun, 31 Aug 2025 13:06:15 GMT | Red Team Infra Dev | MalwareBro | [Read More](https://medium.com/p/d2db6cf37b0b) |
+| Sun, 31 Aug 2025 13:03:57 GMT | scriptCTF: Write-up for Secure Server from Crypto category. | Rabia Riaz | [Read More](https://medium.com/p/304bc0e30907) |
+| Sun, 31 Aug 2025 13:03:32 GMT | From Jokes to Movements: How Silly Ideas Online Become “Real” | Internet Exposed | [Read More](https://medium.com/p/777d98cf70c1) |
+| Sun, 31 Aug 2025 13:03:07 GMT | It is a truth universally acknowledged — or at least known in the hallowed halls of techdom — that… | R | [Read More](https://medium.com/p/41f9a18b82c4) |
 | Sun, 31 Aug 2025 12:32:03 GMT | Apple Secures a Landmark Win in the Ongoing Encryption Battle | Motherlandlove | [Read More](https://medium.com/p/66438cb696ee) |
 | Sun, 31 Aug 2025 12:25:02 GMT | Hash Collision Vulnerability (Smart Contract) | nevo | [Read More](https://medium.com/p/a8ccc0da0cec) |
 | Sun, 31 Aug 2025 12:18:14 GMT | Zero Trust Architecture: The Future of Cybersecurity | Aasik | [Read More](https://medium.com/p/aeb61f19dce3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 06:31:35 GMT | China attacked more than 600 companies in 80 countries around the world | Patrik Žák | [Read More](https://medium.com/p/9aac15f41021) |
 | Sun, 31 Aug 2025 06:29:31 GMT | Login Explained: Sessions, Cookies, JWT, SSO, and OAuth 2.0 | Ajit Kumar | [Read More](https://medium.com/p/3f075ae18570) |
 | Sun, 31 Aug 2025 06:28:39 GMT | Building My Own Simulated EDR Agent in Python | Imajaykris | [Read More](https://medium.com/p/fa8f48345a90) |
-| Sun, 31 Aug 2025 06:25:37 GMT | The Future of Renewable Energy | Komal mehmood | [Read More](https://medium.com/p/b5b9e371f4c8) |
-| Sun, 31 Aug 2025 06:22:54 GMT | Password Generators 2025: The Ultimate Guide to Protecting Your Digital Life | David C. | [Read More](https://medium.com/p/e5702b4708a3) |
-| Sun, 31 Aug 2025 06:14:37 GMT | 5G Satellite Networks Explained: Faster Internet Anywhere | Alice Doyle | [Read More](https://medium.com/p/fb78bfcc2f78) |
-| Sun, 31 Aug 2025 06:13:06 GMT | The Ghosts in the Government Machine | Aj | [Read More](https://medium.com/p/d45cc62cb419) |
-| Sun, 31 Aug 2025 06:10:37 GMT | How I Exploited a JWT Misconfiguration for Account Takeover and Admin Access in 5 Minutes | PARADOX | [Read More](https://medium.com/p/c2974899f4ec) |
-| Sun, 31 Aug 2025 06:00:54 GMT | Understanding the Security Capabilities of Information Systems | Raviteja Mureboina | [Read More](https://medium.com/p/5ce486827d3b) |
-| Sun, 31 Aug 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Aug 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6f6a3bfd75a7) |
