@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 13:38:46 GMT | CTF Walkthrough: The Challenge That Taught Me SQLi the Hard Way | Aj | [Read More](https://medium.com/p/6ca08048476b) |
+| Sun, 31 Aug 2025 13:34:14 GMT | The $4.88 Million Typo: How Human Error Is Quietly Bankrupting Companies | Aj | [Read More](https://medium.com/p/480740567342) |
+| Sun, 31 Aug 2025 13:21:52 GMT | CBBH Review | MalwareBro | [Read More](https://medium.com/p/e5cf80cf2c93) |
 | Sun, 31 Aug 2025 13:21:12 GMT | AI matters, | Juben De Jesus | [Read More](https://medium.com/p/f4fef4647faf) |
 | Sun, 31 Aug 2025 13:10:20 GMT | 5 Ways Hackers Abuse AI Tools — And How to Defend | Rue | [Read More](https://medium.com/p/58dc6f47da7c) |
 | Sun, 31 Aug 2025 13:06:23 GMT | #  Cómo estructurar un reporte profesional de pentesting que impacte a tu cliente (y no solo a tu… | Marisol Bao | [Read More](https://medium.com/p/ee7d4bc07ca7) |
@@ -34,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 11:41:13 GMT | A Deeper Look at Cross-Site Scripting (XSS) Vulnerabilities | Samina Perveen | [Read More](https://medium.com/p/f4b035cbe367) |
 | Sun, 31 Aug 2025 11:37:58 GMT | Why the Kubernetes Community Created kyaml: Solving YAML Management at Scale | ThamizhElango Natarajan | [Read More](https://medium.com/p/dcfefa2399a5) |
 | Sun, 31 Aug 2025 11:37:51 GMT | Imagine a City Full of Banks With No Police—That’s Crypto Today. Drosera Wants to Change That. | Great | [Read More](https://medium.com/p/16f6b5065af7) |
+| Sun, 31 Aug 2025 11:33:08 GMT | OKI Connect: Membangun Budaya Transparansi dalam Tata Kelola Organisasi Mahasiswa #TeamGoogle… | Hilman Zahrawa Budiarto | [Read More](https://medium.com/p/2122cb52eaa8) |
 | Sun, 31 Aug 2025 11:31:11 GMT | Day 47- Operating system hardening: Making your computer safer | unica 02 | [Read More](https://medium.com/p/9051e37228c4) |
 | Sun, 31 Aug 2025 11:27:02 GMT | $5000+ in Bounties, 20+ Bug Reports, 2 Hall of Fame : Find Your First Bug! | Akash Singh | [Read More](https://medium.com/p/32d564c1b9b4) |
 | Sun, 31 Aug 2025 11:22:38 GMT | Cyber Security Forensics: Tracing the Digital Footprints | Cyber Security Research | [Read More](https://medium.com/p/e5614af983fc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 06:47:33 GMT | Bug Bounty Web Cache Deception: cuando la caché filtra datos privados | Gorka | [Read More](https://medium.com/p/f8f72e6200b5) |
 | Sun, 31 Aug 2025 06:44:43 GMT | You are unique ! | Malak | [Read More](https://medium.com/p/3a3bcb708a77) |
 | Sun, 31 Aug 2025 06:42:29 GMT | Deepfake Scams Are Emptying Accounts — And Your Identity Could Be Next | Rizqi Mulki | [Read More](https://medium.com/p/1c1f03b827a2) |
-| Sun, 31 Aug 2025 06:35:45 GMT | AI Hackers Are Already Beating Human Defenses — Your Business Could Collapse Overnight | Rizqi Mulki | [Read More](https://medium.com/p/691171ed14b1) |
-| Sun, 31 Aug 2025 06:31:35 GMT | China attacked more than 600 companies in 80 countries around the world | Patrik Žák | [Read More](https://medium.com/p/9aac15f41021) |
-| Sun, 31 Aug 2025 06:29:31 GMT | Login Explained: Sessions, Cookies, JWT, SSO, and OAuth 2.0 | Ajit Kumar | [Read More](https://medium.com/p/3f075ae18570) |
-| Sun, 31 Aug 2025 06:28:39 GMT | Building My Own Simulated EDR Agent in Python | Imajaykris | [Read More](https://medium.com/p/fa8f48345a90) |
