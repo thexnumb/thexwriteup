@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 13:59:47 GMT | The Nx Supply Chain Attack: When AI Started Stealing Your Secrets | Serhii Malyshev | [Read More](https://medium.com/p/a6303de58fef) |
+| Sun, 31 Aug 2025 13:54:19 GMT | Practical Guide to ISO 27001:2022 Certifiction and Beyond | Wiran Larbi | [Read More](https://medium.com/p/7fab508e0616) |
+| Sun, 31 Aug 2025 13:51:19 GMT | The first step in Breach Readiness: catalogue the Crown Jewels | Agnidipta Sarkar | [Read More](https://medium.com/p/afbf157d53da) |
+| Sun, 31 Aug 2025 13:47:59 GMT | Cybersecurity Ground Truth: PBKDF2 and OpenSSL | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fc6715a961b0) |
+| Sun, 31 Aug 2025 13:47:33 GMT | Smart Shields: The Rise of AI‑Powered Cyber Security Tools for Businesses | Paul Meyer | [Read More](https://medium.com/p/a6f649af04bd) |
+| Sun, 31 Aug 2025 13:42:31 GMT | I Found DOM-Based XSS & HTML Injection in Swagger UI | 0xmrX | [Read More](https://medium.com/p/292df97500c9) |
+| Sun, 31 Aug 2025 13:40:48 GMT | O Impacto e a Mitigação de Insecure Direct Object Reference (IDOR) em Aplicações Web | lka1r0s | [Read More](https://medium.com/p/05338e20f66d) |
+| Sun, 31 Aug 2025 13:38:56 GMT | The Missing Layer of Trust and Safety: Why Platforms Must Work Together Like Intelligence Alliances | Gaurang Katyal | [Read More](https://medium.com/p/7c562bd59ea1) |
 | Sun, 31 Aug 2025 13:38:46 GMT | CTF Walkthrough: The Challenge That Taught Me SQLi the Hard Way | Aj | [Read More](https://medium.com/p/6ca08048476b) |
 | Sun, 31 Aug 2025 13:34:14 GMT | The $4.88 Million Typo: How Human Error Is Quietly Bankrupting Companies | Aj | [Read More](https://medium.com/p/480740567342) |
+| Sun, 31 Aug 2025 13:32:44 GMT | Virtual Machines vs. Docker: Understanding the Difference | Areeba Ayub | [Read More](https://medium.com/p/4eb19f8a42c1) |
 | Sun, 31 Aug 2025 13:21:52 GMT | CBBH Review | MalwareBro | [Read More](https://medium.com/p/e5cf80cf2c93) |
 | Sun, 31 Aug 2025 13:21:12 GMT | AI matters, | Juben De Jesus | [Read More](https://medium.com/p/f4fef4647faf) |
 | Sun, 31 Aug 2025 13:10:20 GMT | 5 Ways Hackers Abuse AI Tools — And How to Defend | Rue | [Read More](https://medium.com/p/58dc6f47da7c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 07:41:34 GMT | Authentication vs Authorization in Web Development: Explained Simply | Rohit Kuwar | [Read More](https://medium.com/p/11e41f5f38c0) |
 | Sun, 31 Aug 2025 07:35:32 GMT | Top 10 Cybersecurity Attacks: 2025–2026 | Manisha Chaudhary | [Read More](https://medium.com/p/9ab426dc1571) |
 | Sun, 31 Aug 2025 07:17:45 GMT | Why Mobile Apps Do More Than Desktop — A Security Perspective | Akanksha Mane | [Read More](https://medium.com/p/007faf71df83) |
-| Sun, 31 Aug 2025 07:13:27 GMT | The Cybersecurity Truth No One Talks About | Recover Right | [Read More](https://medium.com/p/b58fcded2cf7) |
-| Sun, 31 Aug 2025 07:11:33 GMT | The Defender’s Playbook: How to Bulletproof a Billion-Dollar Event | Kaotip Tan (KT) | [Read More](https://medium.com/p/c1ec3e76cd51) |
-| Sun, 31 Aug 2025 07:00:51 GMT | The Top 3 Skills for a Cybersecurity Career (That Aren’t Technical) | Mohanad Khaled | [Read More](https://medium.com/p/407d5db2a660) |
-| Sun, 31 Aug 2025 07:00:24 GMT | Getting Started with IdentityServer4: Simple Example for Tokens and User Info | Anton Baksheiev | [Read More](https://medium.com/p/7cda7c513785) |
-| Sun, 31 Aug 2025 06:54:53 GMT | The Invisible War for Colombia’s Data | Aj | [Read More](https://medium.com/p/90096c75c391) |
-| Sun, 31 Aug 2025 06:48:11 GMT | Ransomware-as-a-Service Is Exploding — Small Businesses Are Running Out of Time | Rizqi Mulki | [Read More](https://medium.com/p/ae68a5b84494) |
-| Sun, 31 Aug 2025 06:47:33 GMT | Bug Bounty Web Cache Deception: cuando la caché filtra datos privados | Gorka | [Read More](https://medium.com/p/f8f72e6200b5) |
-| Sun, 31 Aug 2025 06:44:43 GMT | You are unique ! | Malak | [Read More](https://medium.com/p/3a3bcb708a77) |
-| Sun, 31 Aug 2025 06:42:29 GMT | Deepfake Scams Are Emptying Accounts — And Your Identity Could Be Next | Rizqi Mulki | [Read More](https://medium.com/p/1c1f03b827a2) |
