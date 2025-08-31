@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 15:16:59 GMT | How Hackers Use ChatGPT for Cybersecurity ⚡ | john rose | [Read More](https://medium.com/p/edbfb530731f) |
+| Sun, 31 Aug 2025 15:12:30 GMT | Static Analysis → Hardcoded Creds → Google Dorks → ATO (and a $500 Bounty) | toast | [Read More](https://medium.com/p/18337af6e08f) |
+| Sun, 31 Aug 2025 15:10:16 GMT | Binary Bomb Lab: Phase 1 | Sourav Bose | [Read More](https://medium.com/p/5fec0eb88c14) |
+| Sun, 31 Aug 2025 15:08:06 GMT | The Movie They Tried to Stop: Inside the Sony Pictures Hack | O. J. Okpabi | [Read More](https://medium.com/p/89d097bc874c) |
+| Sun, 31 Aug 2025 15:07:28 GMT | The Future I Know Drosera Network Will Bring To Defi. | Ayanfemmanuel | [Read More](https://medium.com/p/efce26df243e) |
+| Sun, 31 Aug 2025 15:04:41 GMT | I’m Afraid of My Own Success | Dani McBee | [Read More](https://medium.com/p/dee37692c602) |
+| Sun, 31 Aug 2025 15:01:40 GMT | How to Find SQLi in Bug Bounty ️ | Balki Maharaj | [Read More](https://medium.com/p/7a1543e98d9e) |
+| Sun, 31 Aug 2025 14:59:30 GMT | The Cookie Bomb: My First $10K in Bug Bounties | Arshad Kazmi | [Read More](https://medium.com/p/f86cb22c37fa) |
+| Sun, 31 Aug 2025 14:57:01 GMT | Mission AppPossible :Draw Boxes, Find Bugs :-The Threat Modeling Way | Sumit Sharma | [Read More](https://medium.com/p/5ff09279843d) |
+| Sun, 31 Aug 2025 14:51:34 GMT | The “300,000 Deposit Rule”: How Middle-Class Wealth is Harvested | Dancemi Clare | [Read More](https://medium.com/p/b2aa625cce2f) |
+| Sun, 31 Aug 2025 14:47:03 GMT | Blog Post 3: Taking Ownership & Control of Your Smart Contracts | Zrhmz | [Read More](https://medium.com/p/3912ecb4f21c) |
 | Sun, 31 Aug 2025 14:36:49 GMT | Best Laptop for Cyber Security | Yousuf | [Read More](https://medium.com/p/64e3427ec9d0) |
 | Sun, 31 Aug 2025 14:28:17 GMT | Encoding, Hashing and Encryption | Nishada Thathsara | [Read More](https://medium.com/p/fff3d3243724) |
 | Sun, 31 Aug 2025 14:22:38 GMT | # ★Penetration testing ethics : | Sakib Mahmud | [Read More](https://medium.com/p/0a4adffa7213) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 08:38:13 GMT | Effective Post-Incident investigation for Red/Blue teams — Detect Potential RCE Attacks on Web… | Sachin      Verlekar | [Read More](https://medium.com/p/038226e7184f) |
 | Sun, 31 Aug 2025 08:37:38 GMT | Digital Defense 101 | Vincent Bernard | [Read More](https://medium.com/p/5411b656e34e) |
 | Sun, 31 Aug 2025 08:36:35 GMT | Best Practices for Securing Spring Boot Configuration and Sensitive Data | Umesh Kumar Yadav | [Read More](https://medium.com/p/b85e6d4d7120) |
-| Sun, 31 Aug 2025 08:28:57 GMT | Command Injection: When Hackers Make Your Server Obey Their Commands | M.sriman | [Read More](https://medium.com/p/7665b83e75d2) |
-| Sun, 31 Aug 2025 08:24:02 GMT | Digitale Souveränität und Mandatsgeheimnis | Thomas Delfing | [Read More](https://medium.com/p/ff11082a276a) |
-| Sun, 31 Aug 2025 08:18:57 GMT | Agile Is the Biggest Scam in Software Development History | The Dev Notebook | [Read More](https://medium.com/p/096632317014) |
-| Sun, 31 Aug 2025 08:17:37 GMT | The Day My Audit Saved a Fortune 500 Company — Lessons for CISOs | Dr. Deep Pandey | [Read More](https://medium.com/p/6ad48dd482c6) |
-| Sun, 31 Aug 2025 08:17:20 GMT | Why LP Tokens Were Burned: A Look at Mumubit’s Liquidity Strategy | Camsy Cruise | [Read More](https://medium.com/p/03be9e6cbaea) |
-| Sun, 31 Aug 2025 08:13:46 GMT | MUMUBIT TYCOON: FUTURE EXPANSION – USER-CREATED PAIRS COMING TO THE DEX | Camsy Cruise | [Read More](https://medium.com/p/a925a48d78d7) |
-| Sun, 31 Aug 2025 08:10:29 GMT | How Community is the Core of Mumu Tycoon’s Success | Camsy Cruise | [Read More](https://medium.com/p/c8dfa3edc6b6) |
-| Sun, 31 Aug 2025 08:08:58 GMT | The 128 Partition Bomb: How I Discovered Chaos Hidden Inside GPT | TheCyberNirvana | [Read More](https://medium.com/p/bf1b950594f6) |
-| Sun, 31 Aug 2025 08:05:35 GMT | Spring Boot vs Kotlin HttpClient: When Multipart REST Calls Go Wrong (and How to Fix Them) | Abdul Ahad | [Read More](https://medium.com/p/bc865efde059) |
-| Sun, 31 Aug 2025 08:01:40 GMT | The Linux Network Configuration Guide That Actually Makes Sense | MayhemCode | [Read More](https://medium.com/p/a68b78698ebc) |
-| Sun, 31 Aug 2025 07:59:03 GMT | What Cybercriminals Truly Prize from Your Hacked Smartphone | David SEHYEON Baek | [Read More](https://medium.com/p/5dc633b60d60) |
