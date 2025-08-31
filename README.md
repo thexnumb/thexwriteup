@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 Aug 2025 05:15:31 GMT | Human or AI? | MMA Pvt Ltd | [Read More](https://medium.com/p/4de1108d6013) |
+| Sun, 31 Aug 2025 05:05:16 GMT | Practica 5 — Aprendiendo a Descifrar Contraseñas | César Martínez | [Read More](https://medium.com/p/b09769f13768) |
+| Sun, 31 Aug 2025 04:59:21 GMT | Criando um Scan de Portas em Python | Henry Vilani Mansur | [Read More](https://medium.com/p/e1c1c4670806) |
+| Sun, 31 Aug 2025 04:50:13 GMT | How I Found an Exposed User Database via an Unprotected API (And How to Prevent It) in a private… | Be nice insabat | [Read More](https://medium.com/p/77dd95a1101c) |
 | Sun, 31 Aug 2025 04:34:52 GMT | Cash Trapping: How Criminals Steal Your Money Straight from the ATM | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/095abb86fab1) |
+| Sun, 31 Aug 2025 04:33:00 GMT | Building AI in Cybersecurity for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/998c839516de) |
 | Sun, 31 Aug 2025 04:32:59 GMT | THM: skynet | Zaakceptowac | [Read More](https://medium.com/p/0dc9bc59a5de) |
+| Sun, 31 Aug 2025 04:31:53 GMT | Cloud to Catastrophe: How I Lost Everything in One Click! | hp | [Read More](https://medium.com/p/63985b1d6669) |
+| Sun, 31 Aug 2025 04:31:53 GMT | Are You a Data Fiduciary? Your Rights, Roles, and Responsibilities Under the DPDP Act | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/16ea1fd0ad13) |
 | Sun, 31 Aug 2025 04:31:08 GMT | Write Up Lab: SQL injection with filter bypass via XML encoding | Velskynotfound | [Read More](https://medium.com/p/c0b5e67e786b) |
 | Sun, 31 Aug 2025 04:27:41 GMT | Building AI in Cybersecurity for Beginners | Cyber Security Research | [Read More](https://medium.com/p/76ac2ae116a9) |
 | Sun, 31 Aug 2025 04:25:36 GMT | The Linux Security Journey — Kernel Modules Strict RWX (Read-Write-Execute) Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1b01fedc97ce) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 Aug 2025 18:26:55 GMT | เฉลย Cyber top talent Ep:2 | jitwisut | [Read More](https://medium.com/p/15247bc88882) |
 | Sat, 30 Aug 2025 18:25:12 GMT | JWT Replay + Session Context Desync Vulnerability: Real-World Impact | Huseyin | [Read More](https://medium.com/p/3ffbf9f70287) |
 | Sat, 30 Aug 2025 18:07:31 GMT | Mastering Nmap (Part 3) in 2025:: Vulnerability Detection & Exploitation with NSE | appsecvenue | [Read More](https://medium.com/p/6e3b899eb64d) |
-| Sat, 30 Aug 2025 18:05:53 GMT | Advanced Techniques for Docker Container Security | @rnab | [Read More](https://medium.com/p/4c91753bd9e1) |
-| Sat, 30 Aug 2025 17:56:32 GMT | Zaproxy Scripting con Jython -> instalar el complemento | alejandro | [Read More](https://medium.com/p/62045c0d4e15) |
-| Sat, 30 Aug 2025 17:56:13 GMT | TryHackMe: Blue — Exploiting EternalBlue (MS17–010) WalkThrough | Hazem Ahmed | [Read More](https://medium.com/p/3128d468b568) |
-| Sat, 30 Aug 2025 17:53:03 GMT | How I Passed Microsoft Security, Compliance, and Identity Fundamentals (SC-900) | Joseph Karuga | [Read More](https://medium.com/p/6f54498aaf58) |
-| Sat, 30 Aug 2025 17:47:13 GMT | Thinking Like a Criminal: The Ethical Hacker’s Mindset | Shahzaib | [Read More](https://medium.com/p/7c867f66be7c) |
-| Sat, 30 Aug 2025 17:35:36 GMT | How To Identity Unknown Caller | ScamBare | [Read More](https://medium.com/p/3ea547409c86) |
-| Sat, 30 Aug 2025 17:33:43 GMT | Why Congress Must Act Now on State Age-Verification Laws Before They Devastate Free Speech and… | Daniel | [Read More](https://medium.com/p/f121c01a2e3e) |
