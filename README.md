@@ -12,11 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 19:15:33 GMT | AI Misuse and How We Fight Back | Above The Firewall | [Read More](https://medium.com/p/3c9a99b36fe0) |
+| Mon, 01 Sep 2025 18:59:23 GMT | Can There Be National Defense Without National Code? | Umut Akbulut | [Read More](https://medium.com/p/e08df9ccc072) |
+| Mon, 01 Sep 2025 18:55:03 GMT | Monday Cyber Brief — September 1 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/44cc2a58a7bc) |
+| Mon, 01 Sep 2025 18:51:37 GMT | Web Security Tip: Stop Cross-Site Scripting (XSS) with X-XSS-Protection & Content Security… | Zoningxtr | [Read More](https://medium.com/p/2707d1d8fe1e) |
+| Mon, 01 Sep 2025 18:50:57 GMT | 4 XSS refletidos e 1 HTML Injection em menos de 10 minutos | Ranskyth | [Read More](https://medium.com/p/f0b6a4267576) |
+| Mon, 01 Sep 2025 18:49:57 GMT | Cibersegurança | ipTrust Tecnologia | [Read More](https://medium.com/p/85dbd325d9c5) |
+| Mon, 01 Sep 2025 18:48:43 GMT | Knowledge Check — HTB Pentester Path | Cekic Osman | [Read More](https://medium.com/p/cbb158b8e415) |
+| Mon, 01 Sep 2025 18:47:11 GMT | No, Google Didn’t Warn 2.5 Billion Users — Here’s What Really Happened | RealSec.io | [Read More](https://medium.com/p/232a47f6b35a) |
 | Mon, 01 Sep 2025 18:44:47 GMT | From image Upload to Workspace Takeover: Deconstructing a Critical Stored XSS Attack | Abhishek meena | [Read More](https://medium.com/p/55d821c73b72) |
 | Mon, 01 Sep 2025 18:42:24 GMT | Secure Coding the Heck Out of Your Web Apps | Rav3nf0 -- Aadarsh T R | [Read More](https://medium.com/p/c5b9dce4434b) |
 | Mon, 01 Sep 2025 18:38:00 GMT | The Bug Hunter’s Diary: Earning Bounties Legally | Raj Islam | [Read More](https://medium.com/p/f0549bb6d395) |
 | Mon, 01 Sep 2025 18:36:16 GMT | Do código à execução: como o DAST encontra vulnerabilidades vivas | Gustavo Schmidt | [Read More](https://medium.com/p/c06d6bc954d5) |
 | Mon, 01 Sep 2025 18:33:22 GMT | Website Maintenance Services | Prime Web Help | [Read More](https://medium.com/p/ac1bc786d8d2) |
+| Mon, 01 Sep 2025 18:33:18 GMT | Beyond Endpoints: A Deep Dive into API Authorization Security | Pulkit Vaishnav | [Read More](https://medium.com/p/767c5b26070e) |
 | Mon, 01 Sep 2025 18:32:46 GMT | Freedom Loop 2025 | Scott Schure | [Read More](https://medium.com/p/c75ee3c3ccd3) |
 | Mon, 01 Sep 2025 18:30:24 GMT | 11 Core Skills Every Professional Needs in the Age of AI and Automation | Anirban Mukherjee ✍️ | [Read More](https://medium.com/p/14d34f2f9e47) |
 | Mon, 01 Sep 2025 18:28:49 GMT | Building Cybersecurity with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/778f8547272b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 13:54:39 GMT | Secure Secret Management in Next.js (in Kubernetes environment) | Alberto De Agostini | [Read More](https://medium.com/p/6c479a6068f3) |
 | Mon, 01 Sep 2025 13:53:51 GMT | IT Audit beyond the Checklist, Rethinking IT Audit in Perspective of Identity Security | Muhammad Danial Arshad | [Read More](https://medium.com/p/817bc4eac18e) |
 | Mon, 01 Sep 2025 13:42:33 GMT | Troubleshooting GlobalProtect VPN Issues on Windows When Using a Metered Wi-Fi Connection | Luca Berton | [Read More](https://medium.com/p/8dbf3b1b8560) |
-| Mon, 01 Sep 2025 13:36:47 GMT | The Vibe Code!!! | Pranav Bhale | [Read More](https://medium.com/p/fb2fb8347f48) |
-| Mon, 01 Sep 2025 13:35:30 GMT | ️ Week 8 Dev Journey — Cybersecurity Training x Deloitte  - Kubernetes Pending ⏳ | Tanish Jain | [Read More](https://medium.com/p/7b488281ddb9) |
-| Mon, 01 Sep 2025 13:33:36 GMT | The Importance of Documentation Skills in Cyber Security | Kartik Debnath | [Read More](https://medium.com/p/682f413d3077) |
-| Mon, 01 Sep 2025 13:33:33 GMT | Boogeyman 3 — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/80fc8933e16b) |
-| Mon, 01 Sep 2025 13:27:27 GMT | From Zero to My First Critical XSS Finding | Ibtissam hammadi | [Read More](https://medium.com/p/52dc1afa2655) |
-| Mon, 01 Sep 2025 13:17:36 GMT | When a Free Tool Becomes a Paid Problem | Evgeny Ermakov | [Read More](https://medium.com/p/8e240cba3ad0) |
-| Mon, 01 Sep 2025 13:17:13 GMT | How Hackers Create Fake Login Pages: A Social Engineering Toolkit Demo | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/6fe067b41c3b) |
-| Mon, 01 Sep 2025 13:14:48 GMT | How to Fix a Door That Won’t Lock: A Simple Troubleshooting Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/12c55551cf8e) |
-| Mon, 01 Sep 2025 13:07:36 GMT | TryHackMe #2 - Defensive Security Intro | 0xGroot | [Read More](https://medium.com/p/29294c895ddd) |
