@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 18:44:47 GMT | From image Upload to Workspace Takeover: Deconstructing a Critical Stored XSS Attack | Abhishek meena | [Read More](https://medium.com/p/55d821c73b72) |
+| Mon, 01 Sep 2025 18:42:24 GMT | Secure Coding the Heck Out of Your Web Apps | Rav3nf0 -- Aadarsh T R | [Read More](https://medium.com/p/c5b9dce4434b) |
+| Mon, 01 Sep 2025 18:38:00 GMT | The Bug Hunter’s Diary: Earning Bounties Legally | Raj Islam | [Read More](https://medium.com/p/f0549bb6d395) |
+| Mon, 01 Sep 2025 18:36:16 GMT | Do código à execução: como o DAST encontra vulnerabilidades vivas | Gustavo Schmidt | [Read More](https://medium.com/p/c06d6bc954d5) |
+| Mon, 01 Sep 2025 18:33:22 GMT | Website Maintenance Services | Prime Web Help | [Read More](https://medium.com/p/ac1bc786d8d2) |
+| Mon, 01 Sep 2025 18:32:46 GMT | Freedom Loop 2025 | Scott Schure | [Read More](https://medium.com/p/c75ee3c3ccd3) |
+| Mon, 01 Sep 2025 18:30:24 GMT | 11 Core Skills Every Professional Needs in the Age of AI and Automation | Anirban Mukherjee ✍️ | [Read More](https://medium.com/p/14d34f2f9e47) |
+| Mon, 01 Sep 2025 18:28:49 GMT | Building Cybersecurity with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/778f8547272b) |
+| Mon, 01 Sep 2025 18:27:49 GMT | A Critical Zero-Day in Atlassian Jira Service Management Cloud: Password Reset Account Takeover | Mo Salah | [Read More](https://medium.com/p/1903cbb8bd31) |
+| Mon, 01 Sep 2025 18:26:50 GMT | Building Cybersecurity in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/05eaf26c02e1) |
+| Mon, 01 Sep 2025 18:25:09 GMT | Private Service Connect for GCP Managed Services and APIs | Rahul Soni | [Read More](https://medium.com/p/8539203d9d51) |
+| Mon, 01 Sep 2025 18:23:41 GMT | Sirraya Codon Protocol: Rust Technical Specification v 1.0 | Aamir Hameed | [Read More](https://medium.com/p/af25d83fa606) |
+| Mon, 01 Sep 2025 18:21:44 GMT | Most people think using a VPN makes their browsing private, but there’s a hidden layer that can… | Raghav Mahajan | [Read More](https://medium.com/p/a551013897a6) |
 | Mon, 01 Sep 2025 18:17:37 GMT | WHY TRADERS AND INVESTORS LOVE LAIKA AI | Web3Dof | [Read More](https://medium.com/p/dff3d089848f) |
 | Mon, 01 Sep 2025 18:15:10 GMT | Transport layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/97513028928e) |
 | Mon, 01 Sep 2025 18:06:47 GMT | Smart Contract Hacking: Exploiting Access Control Flaws | Aditya Raj | [Read More](https://medium.com/p/2f7a46b9e0d7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 13:17:13 GMT | How Hackers Create Fake Login Pages: A Social Engineering Toolkit Demo | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/6fe067b41c3b) |
 | Mon, 01 Sep 2025 13:14:48 GMT | How to Fix a Door That Won’t Lock: A Simple Troubleshooting Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/12c55551cf8e) |
 | Mon, 01 Sep 2025 13:07:36 GMT | TryHackMe #2 - Defensive Security Intro | 0xGroot | [Read More](https://medium.com/p/29294c895ddd) |
-| Mon, 01 Sep 2025 13:07:36 GMT | TryHackMe #3 - Careers in Cyber | 0xGroot | [Read More](https://medium.com/p/f4f294a6e670) |
-| Mon, 01 Sep 2025 13:06:57 GMT | 72% of Analyst Time Is Wasted — And Cyber Adversaries Know It | Rishisec | [Read More](https://medium.com/p/0e4216c679c5) |
-| Mon, 01 Sep 2025 13:01:42 GMT | TryHackMe #1 - Offensive Security Intro | 0xGroot | [Read More](https://medium.com/p/2a18e73289ab) |
-| Mon, 01 Sep 2025 13:01:40 GMT | The Fake TradingView Ads Delivering a Dangerous Android Malware | Dhruvdeep Singh | [Read More](https://medium.com/p/750d4c5c2796) |
-| Mon, 01 Sep 2025 12:59:32 GMT | Why Decision Debt Slows Down Product Teams More Than Bugs | Observability Guy | [Read More](https://medium.com/p/6d9fd4d0a724) |
-| Mon, 01 Sep 2025 12:55:40 GMT | How IT influenced My Personal and Academic Lives | Winter Suganob | [Read More](https://medium.com/p/f8024b582d8e) |
-| Mon, 01 Sep 2025 12:53:40 GMT | Code Obfuscation in Flutter: Protecting Your Applications from Reverse Engineering | Aurum Dev | [Read More](https://medium.com/p/ddf183152aa4) |
-| Mon, 01 Sep 2025 12:53:13 GMT | Sicurezza informatica in Azienda: come adeguarsi | Giulia | [Read More](https://medium.com/p/cc6a1817537d) |
-| Mon, 01 Sep 2025 12:44:34 GMT | The New 5G Exploit That Redefines Mobile Security | The UNFILTERED Draft | [Read More](https://medium.com/p/76392e8781a1) |
-| Mon, 01 Sep 2025 12:39:20 GMT | Roadmap to Mastery: Cybersecurity Engineer | Uplatz | [Read More](https://medium.com/p/f7f8f47aed88) |
-| Mon, 01 Sep 2025 12:38:52 GMT | From a Bratislava Soup to the Spicy Coconut: A brand story | Spicy Coconut aka Dragos Sasaran | [Read More](https://medium.com/p/266621c7d8d7) |
-| Mon, 01 Sep 2025 12:38:23 GMT | TryHackMe Lookup | Kavin Jindal | [Read More](https://medium.com/p/d308db2090d2) |
-| Mon, 01 Sep 2025 12:37:58 GMT | Bug Bounty Time Travel — Hacking the Past to Predict the Future | DJH4CK3R | [Read More](https://medium.com/p/6dc82588bab5) |
