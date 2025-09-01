@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 01:37:57 GMT | AI-Powered Continuous Threat Exposure Management (CTEM) in Cloud Environments | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b56c3df33c3b) |
+| Mon, 01 Sep 2025 01:24:34 GMT | Cloud-Native or Containerized? What Really Works for Pentest Delivery | Luis Abreu from Cyver | [Read More](https://medium.com/p/ffeeb23991b3) |
+| Mon, 01 Sep 2025 01:20:22 GMT | Building Cryptography Step by Step | Cyber Security Research | [Read More](https://medium.com/p/e6d36441c40f) |
+| Mon, 01 Sep 2025 01:20:06 GMT | HackTheBox - Poison | jniket | [Read More](https://medium.com/p/a9f1962fd213) |
+| Mon, 01 Sep 2025 01:17:08 GMT | Vouched Writeup — corCTF | Txaber Trevino | [Read More](https://medium.com/p/cd2f44096b9a) |
+| Mon, 01 Sep 2025 01:13:25 GMT | Building Cloud Security for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/707b23b60171) |
+| Mon, 01 Sep 2025 01:11:35 GMT | How to Handle File Uploads in Node.js Without Losing Your Mind | Dipak Ahirav | [Read More](https://medium.com/p/4de7167b494d) |
+| Mon, 01 Sep 2025 01:11:22 GMT | Building Cloud Security for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/e3c481ec7f0d) |
+| Mon, 01 Sep 2025 00:56:16 GMT | Episode 1: Hunting Deprecated Lambda Runtimes — Before They Become Problems | Tarek CHEIKH | [Read More](https://medium.com/p/c3bf6d831165) |
+| Mon, 01 Sep 2025 00:56:04 GMT | AWS Security & Cost Optimization Arsenal: From CLI to Lambda Automation | Tarek CHEIKH | [Read More](https://medium.com/p/d65354ba2ba0) |
+| Mon, 01 Sep 2025 00:49:34 GMT | The Zero Trust Security Model: A Complete Guide for Beginners | Samina Perveen | [Read More](https://medium.com/p/933d78894d42) |
+| Mon, 01 Sep 2025 00:46:23 GMT | Best Laptop for Each Cyber Security Domain | Anthony Mazyck | [Read More](https://medium.com/p/46dfe7584a05) |
+| Mon, 01 Sep 2025 00:44:52 GMT | How I Used Python Enums to Clean Up My Trading Bots and E-Commerce Scripts | Dustdusky | [Read More](https://medium.com/p/3dc26dd00d99) |
+| Mon, 01 Sep 2025 00:17:12 GMT | Practice Basic Hydra: Testing Login Security | Zulfianarahmi | [Read More](https://medium.com/p/3cbe55d4fbbf) |
+| Mon, 01 Sep 2025 00:17:12 GMT | Redisl33t — TryHackMe CTF Room Walk-through | Deep chotaliya | [Read More](https://medium.com/p/c7ad5947057c) |
+| Mon, 01 Sep 2025 00:12:10 GMT | Inside RubyGems’ Silent War Against Malicious Packages: A Developer’s Reality Check | Mi Do | [Read More](https://medium.com/p/384b48861ade) |
+| Sun, 31 Aug 2025 23:41:13 GMT | Advanced GitHub Recon for Sensitive Data Exposure (Like a Pro Bug Hunter) | samael0x4 | [Read More](https://medium.com/p/e8fff20fe4b6) |
+| Sun, 31 Aug 2025 23:33:07 GMT | What I Learned From Getting Rejected by Amazon: A Security Engineer’s Interview Experience | Yuva Surya Konatham | [Read More](https://medium.com/p/293e65a2f942) |
 | Sun, 31 Aug 2025 23:25:23 GMT | Light and Shadow | Contagious Vulnerability | [Read More](https://medium.com/p/0a009ab398c1) |
 | Sun, 31 Aug 2025 23:06:00 GMT | TryHackMe — REvil Corp Writeup | 3IA | [Read More](https://medium.com/p/4f15d67882de) |
 | Sun, 31 Aug 2025 23:04:30 GMT | Shell Escapes: The Hidden Danger in Sudo Rules | fe4a | [Read More](https://medium.com/p/f5740d2353b2) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 16:42:05 GMT | Week 4 of My 90-Day Challenge: Bug Bounty from a New Perspective | Mike (sl0th0x87) | [Read More](https://medium.com/p/1aec02d55185) |
 | Sun, 31 Aug 2025 16:36:09 GMT | Building Cloud Security That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/0d8b785a851b) |
 | Sun, 31 Aug 2025 16:32:04 GMT | HITRUST Isn’t Just for Healthcare: Common Myths Explained | Ampcus Cyber | [Read More](https://medium.com/p/d1f1bf6d19ca) |
-| Sun, 31 Aug 2025 16:24:54 GMT | Cross-Account SQS Access: Secure Setup and Auditing with CloudTrail | Amine | [Read More](https://medium.com/p/3bed8bc27f38) |
-| Sun, 31 Aug 2025 16:19:09 GMT | No keys. No passwords. Just Entra. | Ahmed.A | [Read More](https://medium.com/p/ad494ca6c4ef) |
-| Sun, 31 Aug 2025 16:07:55 GMT | The First AI-Powered Ransomware and Why It Matters? | Lahiru Jayasinghe | [Read More](https://medium.com/p/d28bd15cee15) |
-| Sun, 31 Aug 2025 16:06:28 GMT | Free SSCP practice exam — Training Website | Joachim Lampl | [Read More](https://medium.com/p/dd264ef3e754) |
-| Sun, 31 Aug 2025 16:02:23 GMT | How one Google Search led to a critical vulnerability | Filip Kecman | [Read More](https://medium.com/p/6895c3558704) |
-| Sun, 31 Aug 2025 15:59:21 GMT | Beyond the Hype: The 90-Day Roadmap to Your First Valid Bug | Abhishek meena | [Read More](https://medium.com/p/df3842ad6502) |
-| Sun, 31 Aug 2025 15:59:00 GMT | EXPLAINER: How to spot phishing messages using these red flags you should never ignore | The ClarityDesk | [Read More](https://medium.com/p/98c0ca9c3107) |
-| Sun, 31 Aug 2025 15:51:31 GMT | Building Unbreakable AI Security: Defense Strategies and Implementation Guide (Part 2) | Shailesh Kumar Mishra | [Read More](https://medium.com/p/304fe2a14085) |
-| Sun, 31 Aug 2025 15:48:24 GMT | 5 Easy First Steps to Protect Yourself Online: A Complete Beginner’s Guide | Maxime Siffert | [Read More](https://medium.com/p/c2188c64cfdd) |
-| Sun, 31 Aug 2025 15:44:25 GMT | We fired a software developer in a week | Timur Bakibayev, Ph.D. | [Read More](https://medium.com/p/50c84a87819d) |
-| Sun, 31 Aug 2025 15:38:21 GMT | Change Email to a Fake One… and Log In! | Madhan | [Read More](https://medium.com/p/d52698e47a2d) |
-| Sun, 31 Aug 2025 15:34:58 GMT | What If All Mosquitoes And Houseflies On Earth Suddenly Disappeared? | Rajnish And Analysis | [Read More](https://medium.com/p/61811121078b) |
-| Sun, 31 Aug 2025 15:30:08 GMT | Spy Apps for Social Media: A Complete Guide for Parents and Partners | Narjis Batool | [Read More](https://medium.com/p/6bfe616b233e) |
-| Sun, 31 Aug 2025 15:22:57 GMT | Awesome AI Security | Tal Eliyahu | [Read More](https://medium.com/p/f82dc4a5d2e0) |
-| Sun, 31 Aug 2025 15:22:33 GMT | Pragmatic Patriotism III: On Context. | Trent Cline Larsen | [Read More](https://medium.com/p/896bd80a1545) |
-| Sun, 31 Aug 2025 15:20:49 GMT | ZAPROXY con Jython Reglas Pasivas 1 | alejandro | [Read More](https://medium.com/p/cc1215e838e3) |
-| Sun, 31 Aug 2025 15:16:59 GMT | How Hackers Use ChatGPT for Cybersecurity ⚡ | john rose | [Read More](https://medium.com/p/edbfb530731f) |
-| Sun, 31 Aug 2025 15:12:30 GMT | Static Analysis → Hardcoded Creds → Google Dorks → ATO (and a $500 Bounty) | toast | [Read More](https://medium.com/p/18337af6e08f) |
