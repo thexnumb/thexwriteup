@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 14:28:11 GMT | Bypassing Subscription Restrictions: A Business Logic Vulnerability in a Video Streaming App | Dgexploit | [Read More](https://medium.com/p/fd45e2e5dae3) |
+| Mon, 01 Sep 2025 14:27:36 GMT | Private, Secure Team Messaging You Control | Open Source Alternatives | [Read More](https://medium.com/p/9a4daf658afd) |
+| Mon, 01 Sep 2025 14:25:16 GMT | Need Job in Cyber Security Area | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/0ca22d82c535) |
+| Mon, 01 Sep 2025 14:23:35 GMT | How Cybersecurity influencers are lying to you | Massimiliano Sermi | [Read More](https://medium.com/p/a6cb1df6e3e0) |
+| Mon, 01 Sep 2025 14:17:46 GMT | Trusting 3rd Party Libraries: A Growing Cybersecurity Risk | himanshu pdy | [Read More](https://medium.com/p/0b269830840f) |
 | Mon, 01 Sep 2025 14:14:42 GMT | How Do Facebook and Snapchat Handle Billions of Texts? Here’s the 15-Minute Answer | Jacky Liu | [Read More](https://medium.com/p/7613bf40ace5) |
 | Mon, 01 Sep 2025 14:14:28 GMT | Ethical Hacking: The Sharp Edge of Cybersecurity | Sami | [Read More](https://medium.com/p/44a5414a9180) |
 | Mon, 01 Sep 2025 14:10:29 GMT | How Hackers Hack And What To Do About It | mr. bruce - The Vi-Guru- Modern Day Philosopher | [Read More](https://medium.com/p/6702216e6527) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 09:52:08 GMT | Cloudflare Tunnel — Origin Exposure Weaponized | p4n7h3rx | [Read More](https://medium.com/p/6ae5b1f09bb2) |
 | Mon, 01 Sep 2025 09:47:58 GMT | Turning Risks into Opportunities: The TPRM Advantage | Mahantesh Katapur | [Read More](https://medium.com/p/ed1cb6d52405) |
 | Mon, 01 Sep 2025 09:47:40 GMT | Protect Your Business with Expert Endpoint Security Services By Net Access | Gowthammathiew | [Read More](https://medium.com/p/c6bd3c30fab1) |
-| Mon, 01 Sep 2025 09:47:16 GMT | Building Cybersecurity Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/d262582c6e75) |
-| Mon, 01 Sep 2025 09:45:49 GMT | Building Cryptography in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/63b977878c7f) |
-| Mon, 01 Sep 2025 09:44:30 GMT | Building Cryptography for Organizations | Cyber Security Research | [Read More](https://medium.com/p/bfda39e8a2e1) |
-| Mon, 01 Sep 2025 09:44:02 GMT | AI Is Reshaping Cybersecurity, And GRC Must Catch Up | OA | [Read More](https://medium.com/p/30be2d8f85f5) |
-| Mon, 01 Sep 2025 09:43:51 GMT | ZachXBT: Masked Man Who Tracked Billions in Crypto Scams | Xaar The Educator | [Read More](https://medium.com/p/72520a847c20) |
