@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 13:27:27 GMT | From Zero to My First Critical XSS Finding | Ibtissam hammadi | [Read More](https://medium.com/p/52dc1afa2655) |
+| Mon, 01 Sep 2025 13:17:36 GMT | When a Free Tool Becomes a Paid Problem | Evgeny Ermakov | [Read More](https://medium.com/p/8e240cba3ad0) |
+| Mon, 01 Sep 2025 13:17:13 GMT | How Hackers Create Fake Login Pages: A Social Engineering Toolkit Demo | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/6fe067b41c3b) |
+| Mon, 01 Sep 2025 13:14:48 GMT | How to Fix a Door That Won’t Lock: A Simple Troubleshooting Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/12c55551cf8e) |
+| Mon, 01 Sep 2025 13:07:36 GMT | TryHackMe #2 - Defensive Security Intro | 0xGroot | [Read More](https://medium.com/p/29294c895ddd) |
+| Mon, 01 Sep 2025 13:07:36 GMT | TryHackMe #3 - Careers in Cyber | 0xGroot | [Read More](https://medium.com/p/f4f294a6e670) |
+| Mon, 01 Sep 2025 13:06:57 GMT | 72% of Analyst Time Is Wasted — And Cyber Adversaries Know It | Rishisec | [Read More](https://medium.com/p/0e4216c679c5) |
+| Mon, 01 Sep 2025 13:01:42 GMT | TryHackMe #1 - Offensive Security Intro | 0xGroot | [Read More](https://medium.com/p/2a18e73289ab) |
+| Mon, 01 Sep 2025 13:01:40 GMT | The Fake TradingView Ads Delivering a Dangerous Android Malware | Dhruvdeep Singh | [Read More](https://medium.com/p/750d4c5c2796) |
+| Mon, 01 Sep 2025 12:59:32 GMT | Why Decision Debt Slows Down Product Teams More Than Bugs | Observability Guy | [Read More](https://medium.com/p/6d9fd4d0a724) |
+| Mon, 01 Sep 2025 12:55:40 GMT | How IT influenced My Personal and Academic Lives | Winter Suganob | [Read More](https://medium.com/p/f8024b582d8e) |
+| Mon, 01 Sep 2025 12:53:40 GMT | Code Obfuscation in Flutter: Protecting Your Applications from Reverse Engineering | Aurum Dev | [Read More](https://medium.com/p/ddf183152aa4) |
+| Mon, 01 Sep 2025 12:44:34 GMT | The New 5G Exploit That Redefines Mobile Security | The UNFILTERED Draft | [Read More](https://medium.com/p/76392e8781a1) |
 | Mon, 01 Sep 2025 12:39:20 GMT | Roadmap to Mastery: Cybersecurity Engineer | Uplatz | [Read More](https://medium.com/p/f7f8f47aed88) |
+| Mon, 01 Sep 2025 12:38:52 GMT | From a Bratislava Soup to the Spicy Coconut: A brand story | Spicy Coconut aka Dragos Sasaran | [Read More](https://medium.com/p/266621c7d8d7) |
 | Mon, 01 Sep 2025 12:38:23 GMT | TryHackMe Lookup | Kavin Jindal | [Read More](https://medium.com/p/d308db2090d2) |
 | Mon, 01 Sep 2025 12:37:58 GMT | Bug Bounty Time Travel — Hacking the Past to Predict the Future | DJH4CK3R | [Read More](https://medium.com/p/6dc82588bab5) |
 | Mon, 01 Sep 2025 12:35:28 GMT | How I Discovered CVE-2025–0133 – Reflected XSS with Shodan Recon | Zuksh | [Read More](https://medium.com/p/33297703bfc0) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 09:21:56 GMT | Blackhat USA — Review and Tips for First-Time Travelers | VXRL | [Read More](https://medium.com/p/706d60bb38d8) |
 | Mon, 01 Sep 2025 09:13:49 GMT | A Comprehensive Guide to Cybersecurity Best
 Practices for Mobile and Web Applications | Secuodsoft Technologies | [Read More](https://medium.com/p/f246cf62fe37) |
-| Mon, 01 Sep 2025 09:12:53 GMT | 7 Steps to Strengthen Endpoint Security in 2025 | Ehsanm135 | [Read More](https://medium.com/p/be5a5b7f6ae8) |
-| Mon, 01 Sep 2025 09:12:41 GMT | The Hacker Who Knew My Childhood Pet’s Name | Shahzaib | [Read More](https://medium.com/p/977b463bdaea) |
-| Mon, 01 Sep 2025 09:11:57 GMT | Ethical Hacking: Breaking In to Build Better Defenses | Aj | [Read More](https://medium.com/p/c6d3555f7820) |
-| Mon, 01 Sep 2025 09:11:36 GMT | AI Innovations: Build or Buy - Why ‘Buy’ Is a Shortcut to Mediocrity | Namir Sagheenanajar | [Read More](https://medium.com/p/b02663b43bbd) |
-| Mon, 01 Sep 2025 09:11:33 GMT | The First Rule of Cybersecurity: Don’t Assume You’re Too Small to Matter | Dhruvdeep Singh | [Read More](https://medium.com/p/bf161be5ef54) |
-| Mon, 01 Sep 2025 09:10:03 GMT | LAIKA TERMINAL: GETTING BETTER 1% EVERY SINGLE DAY | Web3Dof | [Read More](https://medium.com/p/4ca894027280) |
-| Mon, 01 Sep 2025 09:09:28 GMT | The Importance of Hands-On Training in Cybersecurity Courses | Aslu Work | [Read More](https://medium.com/p/4f6505555126) |
-| Mon, 01 Sep 2025 09:07:36 GMT | Basic Pentesting 1 — Vulnhub Walkthrough | PannaCotta | [Read More](https://medium.com/p/5bed18e5c966) |
-| Mon, 01 Sep 2025 09:07:34 GMT | Building a Cyber Risk Quantification Agent: Part 2 Testing and Limitations | Rishubh | [Read More](https://medium.com/p/016c8444e020) |
-| Mon, 01 Sep 2025 09:06:29 GMT | Why Cybersecurity Feels Like A Never-Ending Crisis | Truspex | [Read More](https://medium.com/p/57207408977d) |
-| Mon, 01 Sep 2025 09:01:44 GMT | Why Weak Passwords Still Get You Hacked: A Guide to Cracking and Protection | Kyrillos Kamal | [Read More](https://medium.com/p/95e731ce0120) |
-| Mon, 01 Sep 2025 08:55:58 GMT | Why Apple, Google, and Microsoft Are All Betting on Passwordless Tech | Harishsingh | [Read More](https://medium.com/p/a6c094beba02) |
-| Mon, 01 Sep 2025 08:49:34 GMT | What Powers A World-Class Red Team? (Hint: It’s Not Just Hackers) | Redfox Security | [Read More](https://medium.com/p/b1c6bf568076) |
-| Mon, 01 Sep 2025 08:45:08 GMT | Microsoft Sentinel Data Lake Solution | Saikat Paul | [Read More](https://medium.com/p/466d67950f7b) |
