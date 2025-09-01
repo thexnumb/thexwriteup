@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 09:24:13 GMT | Dark Web — Truth Behind the Internet | Dhanilka Dasanayaka | [Read More](https://medium.com/p/0ad776536a0b) |
+| Mon, 01 Sep 2025 09:21:56 GMT | Blackhat USA — Review and Tips for First-Time Travelers | VXRL | [Read More](https://medium.com/p/706d60bb38d8) |
+| Mon, 01 Sep 2025 09:13:49 GMT | A Comprehensive Guide to Cybersecurity Best
+Practices for Mobile and Web Applications | Secuodsoft Technologies | [Read More](https://medium.com/p/f246cf62fe37) |
+| Mon, 01 Sep 2025 09:12:41 GMT | The Hacker Who Knew My Childhood Pet’s Name | Shahzaib | [Read More](https://medium.com/p/977b463bdaea) |
+| Mon, 01 Sep 2025 09:11:57 GMT | Ethical Hacking: Breaking In to Build Better Defenses | Aj | [Read More](https://medium.com/p/c6d3555f7820) |
+| Mon, 01 Sep 2025 09:11:36 GMT | AI Innovations: Build or Buy - Why ‘Buy’ Is a Shortcut to Mediocrity | Namir Sagheenanajar | [Read More](https://medium.com/p/b02663b43bbd) |
+| Mon, 01 Sep 2025 09:11:33 GMT | The First Rule of Cybersecurity: Don’t Assume You’re Too Small to Matter | Dhruvdeep Singh | [Read More](https://medium.com/p/bf161be5ef54) |
+| Mon, 01 Sep 2025 09:10:03 GMT | LAIKA TERMINAL: GETTING BETTER 1% EVERY SINGLE DAY | Web3Dof | [Read More](https://medium.com/p/4ca894027280) |
+| Mon, 01 Sep 2025 09:09:28 GMT | The Importance of Hands-On Training in Cybersecurity Courses | Aslu Work | [Read More](https://medium.com/p/4f6505555126) |
+| Mon, 01 Sep 2025 09:07:36 GMT | Basic Pentesting 1 — Vulnhub Walkthrough | PannaCotta | [Read More](https://medium.com/p/5bed18e5c966) |
+| Mon, 01 Sep 2025 09:07:34 GMT | Building a Cyber Risk Quantification Agent: Part 2 Testing and Limitations | Rishubh | [Read More](https://medium.com/p/016c8444e020) |
+| Mon, 01 Sep 2025 09:06:29 GMT | Why Cybersecurity Feels Like A Never-Ending Crisis | Truspex | [Read More](https://medium.com/p/57207408977d) |
+| Mon, 01 Sep 2025 09:01:44 GMT | Why Weak Passwords Still Get You Hacked: A Guide to Cracking and Protection | Kyrillos Kamal | [Read More](https://medium.com/p/95e731ce0120) |
+| Mon, 01 Sep 2025 08:55:58 GMT | Why Apple, Google, and Microsoft Are All Betting on Passwordless Tech | Harishsingh | [Read More](https://medium.com/p/a6c094beba02) |
+| Mon, 01 Sep 2025 08:49:34 GMT | What Powers A World-Class Red Team? (Hint: It’s Not Just Hackers) | Redfox Security | [Read More](https://medium.com/p/b1c6bf568076) |
 | Mon, 01 Sep 2025 08:45:08 GMT | Microsoft Sentinel Data Lake Solution | Saikat Paul | [Read More](https://medium.com/p/466d67950f7b) |
 | Mon, 01 Sep 2025 08:38:44 GMT | My Hacking Journey | Aryan Satam | [Read More](https://medium.com/p/f12eeea5ee33) |
 | Mon, 01 Sep 2025 08:38:35 GMT | Cyber Security Service in Mangalore — Protect Your Business with Standalone Digitech | StandaloneDigitech | [Read More](https://medium.com/p/b4a4281596ab) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 05:04:39 GMT | How to integrate HashiCorp Vault with OpenShift for Secret Management | Rohit Dalal | [Read More](https://medium.com/p/25f4becff9ba) |
 | Mon, 01 Sep 2025 05:01:37 GMT | PicoCTF 2024: Unminify — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/4f9043b404fc) |
 | Mon, 01 Sep 2025 04:56:21 GMT | Industrial Cybersecurity: Safeguarding the Future of Industry | Satyam Kumar | [Read More](https://medium.com/p/09665d19242f) |
-| Mon, 01 Sep 2025 04:47:28 GMT | Anatomy of Email Security Vulnerabilities: How Spoofing, Protocol Weaknesses, and Misconfigurations… | Mohamed.cybersec | [Read More](https://medium.com/p/e3264c712479) |
-| Mon, 01 Sep 2025 04:41:25 GMT | Cyber Threat-Sharing Law Nears Expiration: Experts Warn of Risks | SafetyDetectives Research Team | [Read More](https://medium.com/p/d48bf61dbc7c) |
-| Mon, 01 Sep 2025 04:39:29 GMT | Beyond Words: How LLMs Are Unlocking New Frontiers in Molecular Dynamics Prediction | vinay shukla | [Read More](https://medium.com/p/716316de8c6c) |
-| Mon, 01 Sep 2025 04:38:42 GMT | AT&T Reaches $177 Million Settlement After Major 2024 Data Breaches | SafetyDetectives Research Team | [Read More](https://medium.com/p/8d53f71b0cc0) |
-| Mon, 01 Sep 2025 04:36:47 GMT | North Korean Hacking Tools Leak Online, Including Advanced Linux Rootkit | SafetyDetectives Research Team | [Read More](https://medium.com/p/ac3f372f705d) |
-| Mon, 01 Sep 2025 04:35:27 GMT | Understanding SSH, SSL, and Key Networking Security Terminologies: A Complete Guide | Rohan Mistry | [Read More](https://medium.com/p/6f2e72a33224) |
-| Mon, 01 Sep 2025 04:35:20 GMT | CAB CHRONICLES 85: THE LAST RIDE | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/dc63ada45b95) |
-| Mon, 01 Sep 2025 04:32:54 GMT | The Night Port 443 Went Dark in China: Was It a Downgrade Attack Test? | VaRiOus_CanAriEs | [Read More](https://medium.com/p/5f197b35ac83) |
-| Mon, 01 Sep 2025 04:25:54 GMT | Skills Then and Now: A Cybersecurity Generational Reflection | Taulan Zauzanov | [Read More](https://medium.com/p/9c35b954fcc7) |
-| Mon, 01 Sep 2025 04:21:27 GMT | Why I Always Set a Login Banner on Linux Servers (and What I Put in It) | Faruk Ahmed | [Read More](https://medium.com/p/60eec3336f3b) |
-| Mon, 01 Sep 2025 04:19:35 GMT | Day 13: File Permissions in Linux | Prutha_Dongre | [Read More](https://medium.com/p/b8bb02a8886c) |
-| Mon, 01 Sep 2025 04:09:35 GMT | 10 Steps to Create Secure Download Links | Arunangshu Das | [Read More](https://medium.com/p/77b205a5792b) |
-| Mon, 01 Sep 2025 04:03:43 GMT | When AI Turns Rogue: ScamAgent, Supply Chains, and the New Cybercrime Wave | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/e9bbe6a4b43d) |
-| Mon, 01 Sep 2025 04:00:52 GMT | Splunk Core Certified Power User(SPLK 1002) Certification: My Journey to Becoming a Splunker | Aarushi Mishra | [Read More](https://medium.com/p/c20453b7518c) |
-| Mon, 01 Sep 2025 04:00:38 GMT | THE DARK SIDES OF THE INTERNET: HIDDEN RISKS BEHIND THE SCREEN | Sidd Chaudhary | [Read More](https://medium.com/p/fa13476d2e18) |
