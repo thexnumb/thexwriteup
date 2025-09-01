@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 08:45:08 GMT | Microsoft Sentinel Data Lake Solution | Saikat Paul | [Read More](https://medium.com/p/466d67950f7b) |
+| Mon, 01 Sep 2025 08:38:44 GMT | My Hacking Journey | Aryan Satam | [Read More](https://medium.com/p/f12eeea5ee33) |
+| Mon, 01 Sep 2025 08:38:35 GMT | Cyber Security Service in Mangalore — Protect Your Business with Standalone Digitech | StandaloneDigitech | [Read More](https://medium.com/p/b4a4281596ab) |
+| Mon, 01 Sep 2025 08:37:31 GMT | Being a student is tough — limited budget, endless expenses. | Agarwalprafull | [Read More](https://medium.com/p/4083d1795244) |
+| Mon, 01 Sep 2025 08:32:11 GMT | Recon to Responsible Disclosure | Saurabh Jain | [Read More](https://medium.com/p/ee3d308a3b69) |
+| Mon, 01 Sep 2025 08:29:54 GMT | CapitalInvestmentCentre Reviews, how to withdraw your assets. | Admin Running | [Read More](https://medium.com/p/d0c2a4534f49) |
+| Mon, 01 Sep 2025 08:28:08 GMT | What’s the first thing you notice when you walk into an office — clean floors or secure entry? | EXLITY | [Read More](https://medium.com/p/9fc5b1385807) |
+| Mon, 01 Sep 2025 08:27:09 GMT | Why Startups Should Think Tech Enabled Sales Before Hiring Big Teams | Talha Fakhar | [Read More](https://medium.com/p/03003d3b81fa) |
+| Mon, 01 Sep 2025 08:25:40 GMT | Building Secure Payment Systems: How to Protect Customer Data and Gain Lasting Trust | Amaka okoye | [Read More](https://medium.com/p/271fd2404c6f) |
 | Mon, 01 Sep 2025 08:21:39 GMT | Understanding the OWASP Top 10: The Simplest Guide for Web Security | CyberSenpai | [Read More](https://medium.com/p/8986530582d6) |
 | Mon, 01 Sep 2025 08:16:08 GMT | What is a Dictionary Attack? [How it Works and Prevention Tips] | Hamza Hanif | [Read More](https://medium.com/p/d2d071b48154) |
 | Mon, 01 Sep 2025 08:13:53 GMT | Information Technology | Poojasri | [Read More](https://medium.com/p/f0b3c8127397) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 04:03:43 GMT | When AI Turns Rogue: ScamAgent, Supply Chains, and the New Cybercrime Wave | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/e9bbe6a4b43d) |
 | Mon, 01 Sep 2025 04:00:52 GMT | Splunk Core Certified Power User(SPLK 1002) Certification: My Journey to Becoming a Splunker | Aarushi Mishra | [Read More](https://medium.com/p/c20453b7518c) |
 | Mon, 01 Sep 2025 04:00:38 GMT | THE DARK SIDES OF THE INTERNET: HIDDEN RISKS BEHIND THE SCREEN | Sidd Chaudhary | [Read More](https://medium.com/p/fa13476d2e18) |
-| Mon, 01 Sep 2025 03:55:12 GMT | Fluent, Secure, and Laravel-Ready: Meet LaraPath | Sadique Ali | [Read More](https://medium.com/p/723e370acc9b) |
-| Mon, 01 Sep 2025 03:51:40 GMT | We Told You So: Nevada’s Ransomware Meltdown Proves Spartan Aegis Was Right | Ted Rogers | [Read More](https://medium.com/p/d38b8f4b49b1) |
-| Mon, 01 Sep 2025 03:48:12 GMT | How to Allow Nextcloud Backup Files with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/32bc5436a545) |
-| Mon, 01 Sep 2025 03:45:39 GMT | Understanding Web Assembly Architecture | Batuhan Sancak | [Read More](https://medium.com/p/d65549e58014) |
-| Mon, 01 Sep 2025 03:32:25 GMT | When the Skies Fill with Drones: Security, Piracy, and the Future of Hardened Return-to-Home | Robert Schryvers ChT | [Read More](https://medium.com/p/f9945d45398e) |
-| Mon, 01 Sep 2025 03:31:41 GMT | My Path to SC-200: Preparing for Microsoft’s Security Operations Analyst Certification | NineTales | [Read More](https://medium.com/p/ce7c9ee56d8e) |
-| Mon, 01 Sep 2025 03:31:41 GMT | Inside UAC-0099: How HTA Files Deliver the MATCHBOIL Malware Loader | Deven Chhajed | [Read More](https://medium.com/p/945fc0fd9ecb) |
-| Mon, 01 Sep 2025 03:22:23 GMT | How to Use a Simple All-in-One Update Script for SafeLine | Maverick Steel | [Read More](https://medium.com/p/70e725ac4bc5) |
-| Mon, 01 Sep 2025 03:19:56 GMT | VPN Market 2025: Freedom on Subscription or Monopoly With a Smile? | Matreshka VPN | [Read More](https://medium.com/p/d77c51c05564) |
