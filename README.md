@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 14:14:42 GMT | How Do Facebook and Snapchat Handle Billions of Texts? Here’s the 15-Minute Answer | Jacky Liu | [Read More](https://medium.com/p/7613bf40ace5) |
+| Mon, 01 Sep 2025 14:14:28 GMT | Ethical Hacking: The Sharp Edge of Cybersecurity | Sami | [Read More](https://medium.com/p/44a5414a9180) |
+| Mon, 01 Sep 2025 14:10:29 GMT | How Hackers Hack And What To Do About It | mr. bruce - The Vi-Guru- Modern Day Philosopher | [Read More](https://medium.com/p/6702216e6527) |
+| Mon, 01 Sep 2025 14:04:21 GMT | AI Waifu RAT Emerges With New Social Engineering Tricks | SCtoCS | [Read More](https://medium.com/p/e07584514a36) |
+| Mon, 01 Sep 2025 14:01:41 GMT | Cyber Briefing: 2025.09.01 | CyberMaterial | [Read More](https://medium.com/p/4a975fbaae6c) |
+| Mon, 01 Sep 2025 13:58:27 GMT | Why Security Should Be Every AI Engineer’s First Concern | Hirafuyu2003 | [Read More](https://medium.com/p/6f43eda930e2) |
+| Mon, 01 Sep 2025 13:57:35 GMT | Cloud Computing in OT: How to Secure Industrial Data in the Cloud | Cyberkech | [Read More](https://medium.com/p/dfcf70d41652) |
+| Mon, 01 Sep 2025 13:56:59 GMT | Pengenalan Internet of Things & Arduino-Praktikum IoT | Zifa Tea Azzahra | [Read More](https://medium.com/p/5f7095ea6d85) |
+| Mon, 01 Sep 2025 13:54:39 GMT | Secure Secret Management in Next.js (in Kubernetes environment) | Alberto De Agostini | [Read More](https://medium.com/p/6c479a6068f3) |
+| Mon, 01 Sep 2025 13:53:51 GMT | IT Audit beyond the Checklist, Rethinking IT Audit in Perspective of Identity Security | Muhammad Danial Arshad | [Read More](https://medium.com/p/817bc4eac18e) |
 | Mon, 01 Sep 2025 13:42:33 GMT | Troubleshooting GlobalProtect VPN Issues on Windows When Using a Metered Wi-Fi Connection | Luca Berton | [Read More](https://medium.com/p/8dbf3b1b8560) |
 | Mon, 01 Sep 2025 13:36:47 GMT | The Vibe Code!!! | Pranav Bhale | [Read More](https://medium.com/p/fb2fb8347f48) |
 | Mon, 01 Sep 2025 13:35:30 GMT | ️ Week 8 Dev Journey — Cybersecurity Training x Deloitte  - Kubernetes Pending ⏳ | Tanish Jain | [Read More](https://medium.com/p/7b488281ddb9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 09:44:30 GMT | Building Cryptography for Organizations | Cyber Security Research | [Read More](https://medium.com/p/bfda39e8a2e1) |
 | Mon, 01 Sep 2025 09:44:02 GMT | AI Is Reshaping Cybersecurity, And GRC Must Catch Up | OA | [Read More](https://medium.com/p/30be2d8f85f5) |
 | Mon, 01 Sep 2025 09:43:51 GMT | ZachXBT: Masked Man Who Tracked Billions in Crypto Scams | Xaar The Educator | [Read More](https://medium.com/p/72520a847c20) |
-| Mon, 01 Sep 2025 09:43:47 GMT | From Desktop to Mobile — Why Cross-Platform Trading Is the Future: Key Features Every Modern… | LogiClump Technologies | [Read More](https://medium.com/p/d612db398235) |
-| Mon, 01 Sep 2025 09:43:08 GMT | Building Cryptography for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/cc93becdc27c) |
-| Mon, 01 Sep 2025 09:42:38 GMT | Hacking So Easy Even a Monkey Can Do It… | Travis Ray Caverhill | [Read More](https://medium.com/p/c12934770943) |
-| Mon, 01 Sep 2025 09:41:13 GMT | Hannibal Stealer: A Deep Technical Analysis | Netlas.io | [Read More](https://medium.com/p/bd40a95dbb19) |
-| Mon, 01 Sep 2025 09:40:42 GMT | Your Neighbor Hates Your Wi-Fi. Now What? | Lawnline | [Read More](https://medium.com/p/b1ca86f4bb92) |
-| Mon, 01 Sep 2025 09:34:55 GMT | Cybersecurity’s Dirty Little Secret: What No One Tells You | Authlyn | [Read More](https://medium.com/p/8c694f616039) |
-| Mon, 01 Sep 2025 09:33:40 GMT | AI Is Reshaping Cybersecurity, And GRC Must Catch Up | OA | [Read More](https://medium.com/p/869ffd2f4b30) |
-| Mon, 01 Sep 2025 09:32:03 GMT | oHome Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/bf9603b5341c) |
-| Mon, 01 Sep 2025 09:31:01 GMT | Top 10 Secure Hosting Providers for Online Courses in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/298cbe772453) |
-| Mon, 01 Sep 2025 09:29:25 GMT | why cybersecurity matters for start-ups. | AGATHA | [Read More](https://medium.com/p/fa9a163ba766) |
