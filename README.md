@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 20:12:33 GMT | The Digital Bounty Hunter: How to Find and Report Bugs for Cash | Samina Perveen | [Read More](https://medium.com/p/9fe3539d7015) |
+| Mon, 01 Sep 2025 20:09:52 GMT | Querying Errors Only in CloudTrail | Teri Radichel | [Read More](https://medium.com/p/ed28329c5927) |
+| Mon, 01 Sep 2025 20:04:05 GMT | Beneath the Surface: Secrets Hidden in a JPEG You’d Never Suspect | salma osama | [Read More](https://medium.com/p/ad177ec2d814) |
+| Mon, 01 Sep 2025 20:02:07 GMT | JavaScript Essentials - THM | Isiah | [Read More](https://medium.com/p/af396139019e) |
+| Mon, 01 Sep 2025 19:52:10 GMT | Hackers Exploit WDAC to Disable EDR Agents | SCtoCS | [Read More](https://medium.com/p/5a4864108a3d) |
+| Mon, 01 Sep 2025 19:43:51 GMT | From Phishing to Deepfakes: The Evolution of Social Engineering | Shahzaib | [Read More](https://medium.com/p/2611699dc697) |
+| Mon, 01 Sep 2025 19:43:40 GMT | Cyberspace: the new battlefield of the 21st century | Hayat Outahar | [Read More](https://medium.com/p/564bf08e876d) |
 | Mon, 01 Sep 2025 19:31:52 GMT | TryHackMe - Masterminds — Write-up | ocharek | [Read More](https://medium.com/p/112aadfc3d03) |
 | Mon, 01 Sep 2025 19:29:26 GMT | The Illusion of Standing Alone | Kashaf Shafique | [Read More](https://medium.com/p/8b95c211a547) |
 | Mon, 01 Sep 2025 19:24:09 GMT | How I Turned a $4 Microcontroller into a Rubber Ducky | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/ec0cb756b3fe) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 14:27:36 GMT | Private, Secure Team Messaging You Control | Open Source Alternatives | [Read More](https://medium.com/p/9a4daf658afd) |
 | Mon, 01 Sep 2025 14:25:16 GMT | Need Job in Cyber Security Area | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/0ca22d82c535) |
 | Mon, 01 Sep 2025 14:23:35 GMT | How Cybersecurity influencers are lying to you | Massimiliano Sermi | [Read More](https://medium.com/p/a6cb1df6e3e0) |
-| Mon, 01 Sep 2025 14:17:46 GMT | Trusting 3rd Party Libraries: A Growing Cybersecurity Risk | himanshu pdy | [Read More](https://medium.com/p/0b269830840f) |
-| Mon, 01 Sep 2025 14:14:42 GMT | How Do Facebook and Snapchat Handle Billions of Texts? Here’s the 15-Minute Answer | Jacky Liu | [Read More](https://medium.com/p/7613bf40ace5) |
-| Mon, 01 Sep 2025 14:14:28 GMT | Ethical Hacking: The Sharp Edge of Cybersecurity | Sami | [Read More](https://medium.com/p/44a5414a9180) |
-| Mon, 01 Sep 2025 14:10:29 GMT | How Hackers Hack And What To Do About It | mr. bruce - The Vi-Guru- Modern Day Philosopher | [Read More](https://medium.com/p/6702216e6527) |
-| Mon, 01 Sep 2025 14:04:21 GMT | AI Waifu RAT Emerges With New Social Engineering Tricks | SCtoCS | [Read More](https://medium.com/p/e07584514a36) |
-| Mon, 01 Sep 2025 14:01:41 GMT | Cyber Briefing: 2025.09.01 | CyberMaterial | [Read More](https://medium.com/p/4a975fbaae6c) |
-| Mon, 01 Sep 2025 13:58:27 GMT | Why Security Should Be Every AI Engineer’s First Concern | Hirafuyu2003 | [Read More](https://medium.com/p/6f43eda930e2) |
