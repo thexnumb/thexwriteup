@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 15:32:17 GMT | Introduction to Phishing — TryHackMe Simulator — My Overview | Forrest Caffray | [Read More](https://medium.com/p/28950f91d84a) |
+| Mon, 01 Sep 2025 15:32:02 GMT | I Dread The Night — In Oklahoma | Kate Englebrecht | [Read More](https://medium.com/p/2faba92d211b) |
+| Mon, 01 Sep 2025 15:31:11 GMT | Detecting exposed llm servers: shodan case study on ollama | Yaniv | [Read More](https://medium.com/p/1192953ab7c1) |
+| Mon, 01 Sep 2025 15:24:15 GMT | I LOST MY CRYPTO. HOW DO I RECOVER IT? WAY TO RECOVER SCAMMED OR LOST CRYPTOCURRENCY | Jonhpedro | [Read More](https://medium.com/p/59a0005f5e56) |
+| Mon, 01 Sep 2025 15:22:19 GMT | The Silent Threat Inside Your Supply Chain | R A N A   A H M A D | [Read More](https://medium.com/p/396c3f518a4e) |
+| Mon, 01 Sep 2025 15:21:29 GMT | Encryption Explained: How We Keep Secrets in the Digital World | Hirad Showghi | [Read More](https://medium.com/p/9ea0c09cd6f2) |
 | Mon, 01 Sep 2025 15:05:33 GMT | Cyber Threats Are Evolving — Is Your Business Ready? | Dr. Shashi Karhail | [Read More](https://medium.com/p/e242821d6065) |
 | Mon, 01 Sep 2025 15:01:40 GMT | ️ The Hidden Dangers: Top 5 Cybersecurity Risks of Using AI Tools | PromptSecAI | [Read More](https://medium.com/p/519875523dda) |
 | Mon, 01 Sep 2025 14:57:36 GMT | Why Deepfake Technology Will Break Reality in 2026 | The Bot Group | [Read More](https://medium.com/p/8630a649b6b6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 10:48:55 GMT | Fintech App Security: Comprehensive Guide to Protecting Your Fintech Application | Neontri | [Read More](https://medium.com/p/210b12bfa717) |
 | Mon, 01 Sep 2025 10:48:48 GMT | What Is AMC Meaning in IT Services in Dubai? | Cost To Cost | [Read More](https://medium.com/p/aa81b75d6cfe) |
 | Mon, 01 Sep 2025 10:48:15 GMT | NIST Cybersecurity for Small Businesses: The Secret to Stress-Free Compliance | SecureSlate | [Read More](https://medium.com/p/e25c1b1a4fa0) |
-| Mon, 01 Sep 2025 10:47:23 GMT | Cybersecurity Burnout in India: When AI Helps and When It Hurts | Saravanan.R | [Read More](https://medium.com/p/ff6c3e800a06) |
-| Mon, 01 Sep 2025 10:45:56 GMT | Your MFA Isn’t Safe Anymore — Hackers Found a Way Around It | Rizqi Mulki | [Read More](https://medium.com/p/b1fb6b865721) |
-| Mon, 01 Sep 2025 10:45:44 GMT | Zero-Day Exploits Are Spreading Faster Than Ever — You May Already Be Compromised | Rizqi Mulki | [Read More](https://medium.com/p/bbffda7a3511) |
-| Mon, 01 Sep 2025 10:45:30 GMT | State-Sponsored Hackers Are Testing Blackouts — The Next One Won’t Be an Accident | Rizqi Mulki | [Read More](https://medium.com/p/2828d24d5fc3) |
-| Mon, 01 Sep 2025 10:40:45 GMT | How to Secure Your Crypto with Tangem Wallet So Your Family Can Access It After You’re Gone | Haris Nadeem | [Read More](https://medium.com/p/f0739a8f3905) |
-| Mon, 01 Sep 2025 10:36:11 GMT | Law Firm Website Design Cost, Services & Best Practices | Bhavesh Rajpurohit | [Read More](https://medium.com/p/f505244f8fc3) |
