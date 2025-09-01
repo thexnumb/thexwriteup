@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 05:17:15 GMT | I Tested ChatGPT, Gemini, Perplexity, and Grok — The Ultimate AI Showdown | IamPreth | [Read More](https://medium.com/p/0fb209b48ae6) |
+| Mon, 01 Sep 2025 05:15:48 GMT | ISEC 2025 리뷰 — 국제 시큐리티 콘퍼런스, AI 시대 데이터 보안의 핵심 요소는? | Fasoo 파수 | [Read More](https://medium.com/p/78049ea16fce) |
+| Mon, 01 Sep 2025 05:04:39 GMT | How to integrate HashiCorp Vault with OpenShift for Secret Management | Rohit Dalal | [Read More](https://medium.com/p/25f4becff9ba) |
+| Mon, 01 Sep 2025 05:01:37 GMT | PicoCTF 2024: Unminify — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/4f9043b404fc) |
+| Mon, 01 Sep 2025 04:56:21 GMT | Industrial Cybersecurity: Safeguarding the Future of Industry | Satyam Kumar | [Read More](https://medium.com/p/09665d19242f) |
+| Mon, 01 Sep 2025 04:47:28 GMT | Anatomy of Email Security Vulnerabilities: How Spoofing, Protocol Weaknesses, and Misconfigurations… | Mohamed.cybersec | [Read More](https://medium.com/p/e3264c712479) |
+| Mon, 01 Sep 2025 04:41:25 GMT | Cyber Threat-Sharing Law Nears Expiration: Experts Warn of Risks | SafetyDetectives Research Team | [Read More](https://medium.com/p/d48bf61dbc7c) |
+| Mon, 01 Sep 2025 04:39:29 GMT | Beyond Words: How LLMs Are Unlocking New Frontiers in Molecular Dynamics Prediction | vinay shukla | [Read More](https://medium.com/p/716316de8c6c) |
 | Mon, 01 Sep 2025 04:38:42 GMT | AT&T Reaches $177 Million Settlement After Major 2024 Data Breaches | SafetyDetectives Research Team | [Read More](https://medium.com/p/8d53f71b0cc0) |
+| Mon, 01 Sep 2025 04:36:47 GMT | North Korean Hacking Tools Leak Online, Including Advanced Linux Rootkit | SafetyDetectives Research Team | [Read More](https://medium.com/p/ac3f372f705d) |
 | Mon, 01 Sep 2025 04:35:27 GMT | Understanding SSH, SSL, and Key Networking Security Terminologies: A Complete Guide | Rohan Mistry | [Read More](https://medium.com/p/6f2e72a33224) |
 | Mon, 01 Sep 2025 04:35:20 GMT | CAB CHRONICLES 85: THE LAST RIDE | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/dc63ada45b95) |
 | Mon, 01 Sep 2025 04:32:54 GMT | The Night Port 443 Went Dark in China: Was It a Downgrade Attack Test? | VaRiOus_CanAriEs | [Read More](https://medium.com/p/5f197b35ac83) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 18:54:41 GMT | AI in Cybersecurity and OT Audits: Transforming the Way We Protect Critical Systems | Namarta Thakur | [Read More](https://medium.com/p/5f35a3310fa1) |
 | Sun, 31 Aug 2025 18:51:41 GMT | My Experience of Hacking Dutch Government (DNS Hijacking) | Md Nahid Alam | [Read More](https://medium.com/p/d25239af5500) |
 | Sun, 31 Aug 2025 18:45:00 GMT | When Your AI Repo Becomes a Jungle | Elad Golan | [Read More](https://medium.com/p/f0a605ccab5c) |
-| Sun, 31 Aug 2025 18:44:03 GMT | Top 11 cyber stories (Week: Aug 25–31, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/554031c96177) |
-| Sun, 31 Aug 2025 18:33:36 GMT | Implementing Zero Trust: Steps, Tools and Best Practices | Roshinni Gandhi | [Read More](https://medium.com/p/7003fb6f5d94) |
-| Sun, 31 Aug 2025 18:32:30 GMT | The Ransomware That Writes Itself: AI Steps Into Cybercrime | Cyber-AppSec | [Read More](https://medium.com/p/65c528b3ebfd) |
-| Sun, 31 Aug 2025 18:29:19 GMT | Plex Media Server Vulnerability Exploited-CVE-2025-34158 Raises Security Alarms | Chetan Seripally | [Read More](https://medium.com/p/cc4b82015cc4) |
-| Sun, 31 Aug 2025 18:25:05 GMT | Policy as Code, Compliance as Service: Rethinking the Compliance Journey! — Part 2 | Maruti Sivakumar V | [Read More](https://medium.com/p/59bc41800dab) |
-| Sun, 31 Aug 2025 18:21:44 GMT | The Rogue Algorithm: A Trading Bot Gone Wild | Shahzaib | [Read More](https://medium.com/p/d749e3ca360d) |
-| Sun, 31 Aug 2025 18:20:42 GMT | The First 3 Things Every Beginner Should Know About Web Security | Vardaa Maheshwari | [Read More](https://medium.com/p/cc35b9c7ddba) |
-| Sun, 31 Aug 2025 18:20:10 GMT | Salt Typhoon’s Expanding Threat Landscape | Chetan Seripally | [Read More](https://medium.com/p/b9de82628a1b) |
-| Sun, 31 Aug 2025 18:19:07 GMT | The Invisible War: What No One Tells You About the Digital Battlefield | Shahzaib | [Read More](https://medium.com/p/64cffeb31da2) |
