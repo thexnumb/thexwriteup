@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 17:07:47 GMT | Pickle Rick - TryHackMe | Laach_ | [Read More](https://medium.com/p/a924c083aaa8) |
+| Mon, 01 Sep 2025 17:00:41 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and The Energy Battle: Human Brain vs. | Nitin Garg | [Read More](https://medium.com/p/c35e01e1c1a2) |
+| Mon, 01 Sep 2025 16:46:58 GMT | Careful pre‑launch scrutiny of every website through Documentation, Verification and Approval | Sachit Joe Almeida | [Read More](https://medium.com/p/3a06345a6a15) |
+| Mon, 01 Sep 2025 16:44:22 GMT | What price are you willing to pay for security? | Jeff | [Read More](https://medium.com/p/8ef578ab7e0a) |
+| Mon, 01 Sep 2025 16:44:17 GMT | Finding My Voice | Kaleigh Dugan | [Read More](https://medium.com/p/b0f2197405b9) |
+| Mon, 01 Sep 2025 16:43:23 GMT | Transitioning to Remote: Why SFTP Matters | AMIT KASHYAP | [Read More](https://medium.com/p/6498e835d353) |
+| Mon, 01 Sep 2025 16:42:50 GMT | The Docker Desktop Security Breach That Shattered Container Isolation: CVE-2025–9074 Explained | Sanket Chaudhari | [Read More](https://medium.com/p/e758df2c1fbb) |
+| Mon, 01 Sep 2025 16:38:54 GMT | Joseph Lamar Simmons: Why Data Analysis Is the Future of Intelligence Work | Joseph Lamar Simmons | [Read More](https://medium.com/p/def6ff8ef005) |
 | Mon, 01 Sep 2025 16:36:02 GMT | Production-Ready LLM Security with Ansible: Complete Step-by-Step Guide Introduction to Ansible | Gabriel Rodewald | [Read More](https://medium.com/p/a1d495b9c5df) |
 | Mon, 01 Sep 2025 16:35:02 GMT | AI Meeting Assistant Security and Privacy: A Guide for 2025 | KaraX.ai | [Read More](https://medium.com/p/4796603d6cb8) |
 | Mon, 01 Sep 2025 16:30:58 GMT | Step-by-Step: Authenticate GitLab Pipelines to AWS with OIDC (No Static Keys) | Vijay Mourya | [Read More](https://medium.com/p/ae1baa9647e5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 12:07:02 GMT | Beyond the Basics: Mastering Amazon Cloud Security | Qualysec | [Read More](https://medium.com/p/b90e21edb8d5) |
 | Mon, 01 Sep 2025 12:01:42 GMT | Beware of Fraudulent Scholarship Apps Targeting Students in Defarud Campaign | Jasmitharouthu | [Read More](https://medium.com/p/478a95af2c73) |
 | Mon, 01 Sep 2025 11:57:18 GMT | CAPTURE THE FLAG: Part Two | Ysork | [Read More](https://medium.com/p/e2ded75ffb27) |
-| Mon, 01 Sep 2025 11:55:22 GMT | My First Step Into Cybersecurity: Discovering Hidden Doors with dirb | Karlie Guan | [Read More](https://medium.com/p/be34eb222344) |
-| Mon, 01 Sep 2025 11:54:28 GMT | OS Command Injection — DVWA: Infiltrating Enemy Systems Through Command Injection ⚡ | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/d3e38a0c8e50) |
-| Mon, 01 Sep 2025 11:52:35 GMT | How to Block SQLmap with a Single PHP File? | Amirmahdi Nozari | [Read More](https://medium.com/p/a4e16c14e2c7) |
-| Mon, 01 Sep 2025 11:51:59 GMT | IT: A Catalyst for Growth in Academics and Personal Pursuits | Mejaica V. More | [Read More](https://medium.com/p/eb7114e69cb2) |
-| Mon, 01 Sep 2025 11:41:34 GMT | RedisL33t TryHackMe | Meena A | [Read More](https://medium.com/p/69280899e01e) |
-| Mon, 01 Sep 2025 11:39:18 GMT | HOW i found the CVE-2025–4388? | DOD cyber solutions | [Read More](https://medium.com/p/5f10d0b28e71) |
-| Mon, 01 Sep 2025 11:38:15 GMT | Common Ports to Brute Force in Ethical Hacking | harshitnadda | [Read More](https://medium.com/p/7ef3adb45725) |
-| Mon, 01 Sep 2025 11:36:10 GMT | Engineer Steals Elon Musk’s AI Secrets — Then Joins OpenAI | Alex Parker | [Read More](https://medium.com/p/00218e58482c) |
