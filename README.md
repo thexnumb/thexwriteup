@@ -12,11 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 18:17:37 GMT | WHY TRADERS AND INVESTORS LOVE LAIKA AI | Web3Dof | [Read More](https://medium.com/p/dff3d089848f) |
+| Mon, 01 Sep 2025 18:15:10 GMT | Transport layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/97513028928e) |
+| Mon, 01 Sep 2025 18:06:47 GMT | Smart Contract Hacking: Exploiting Access Control Flaws | Aditya Raj | [Read More](https://medium.com/p/2f7a46b9e0d7) |
+| Mon, 01 Sep 2025 18:04:10 GMT | How Quantum Algorithms Work -An Overview of Shor’s & Grover’s Algorithms | Abishekbalamurugan | [Read More](https://medium.com/p/071178366859) |
+| Mon, 01 Sep 2025 18:03:42 GMT | Demystifying AI in Cybersecurity and the Power of Data | Artificial Intelligence Details | [Read More](https://medium.com/p/ea1d4003ecb5) |
+| Mon, 01 Sep 2025 18:03:39 GMT | Post-Quantum Cryptography: Is Your Data Ready for Tomorrow? | Hash Block | [Read More](https://medium.com/p/01e17c0bff6d) |
+| Mon, 01 Sep 2025 18:03:15 GMT | Ripping IDs: Solutions — Quantify mDL as superior evidence vs. DL/ID | David Kelts on ID | [Read More](https://medium.com/p/cac232bf8683) |
+| Mon, 01 Sep 2025 18:01:49 GMT | Achieving IAL2 in Remote Identity Proofing or Verification | David Kelts on ID | [Read More](https://medium.com/p/fe754229cab2) |
+| Mon, 01 Sep 2025 18:01:28 GMT | Demystifying AI in Cybersecurity and Human Creativity | Artificial Intelligence Details | [Read More](https://medium.com/p/1e31f0de413c) |
+| Mon, 01 Sep 2025 17:58:07 GMT | Drosera: Why I Think DeFi Needs an Automated Survival Layer | ☆ﾟ | [Read More](https://medium.com/p/33a1096e0b07) |
+| Mon, 01 Sep 2025 17:46:48 GMT | TryHackMe - Sakura Room - WriteUp | Axoloth | [Read More](https://medium.com/p/7d2046369bbb) |
+| Mon, 01 Sep 2025 17:39:01 GMT | One of Us Is Lying. | Spiral Patterns | [Read More](https://medium.com/p/dbbcd2636521) |
 | Mon, 01 Sep 2025 17:33:59 GMT | The Impact of AI in Cybersecurity: 7 Lessons | Joy Ashidi | [Read More](https://medium.com/p/4a89bf84d572) |
 | Mon, 01 Sep 2025 17:32:09 GMT | Dockerfile Security Best Practices Nobody Talks About | Nikulsinh Rajput | [Read More](https://medium.com/p/89ee1c3f29c1) |
 | Mon, 01 Sep 2025 17:29:03 GMT | Network layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/9a5e09e042ef) |
 | Mon, 01 Sep 2025 17:27:13 GMT | Evaluation Methodology of AI Systems through Agglutinative Languages | Jordi Garcia Castillon | [Read More](https://medium.com/p/ca52f4c6315d) |
 | Mon, 01 Sep 2025 17:26:40 GMT | Beyond APIs: Introducing the Sirraya Codon Protocol for Intent-Based Computing | Aamir Hameed | [Read More](https://medium.com/p/eac1477a6b4b) |
+| Mon, 01 Sep 2025 17:24:52 GMT | Why AI Needs Jesus - AI Ethics and Cybersecurity | Jeremy Ross | [Read More](https://medium.com/p/c17777b2eaa7) |
 | Mon, 01 Sep 2025 17:24:33 GMT | Your Phone’s New Superpower: AI That Works Without the Internet | Fahad's Foresight | [Read More](https://medium.com/p/3759c0f7b4fc) |
 | Mon, 01 Sep 2025 17:07:47 GMT | Pickle Rick - TryHackMe | Laach_ | [Read More](https://medium.com/p/a924c083aaa8) |
 | Mon, 01 Sep 2025 17:04:52 GMT | Data Link layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/9d902c897c13) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 12:38:52 GMT | From a Bratislava Soup to the Spicy Coconut: A brand story | Spicy Coconut aka Dragos Sasaran | [Read More](https://medium.com/p/266621c7d8d7) |
 | Mon, 01 Sep 2025 12:38:23 GMT | TryHackMe Lookup | Kavin Jindal | [Read More](https://medium.com/p/d308db2090d2) |
 | Mon, 01 Sep 2025 12:37:58 GMT | Bug Bounty Time Travel — Hacking the Past to Predict the Future | DJH4CK3R | [Read More](https://medium.com/p/6dc82588bab5) |
-| Mon, 01 Sep 2025 12:35:28 GMT | How I Discovered CVE-2025–0133 – Reflected XSS with Shodan Recon | Zuksh | [Read More](https://medium.com/p/33297703bfc0) |
-| Mon, 01 Sep 2025 12:33:35 GMT | Not All Vulnerabilities Require Highly Technical Exploits - Security Misconfiguration | Sushant Soni | [Read More](https://medium.com/p/7a13823729fb) |
-| Mon, 01 Sep 2025 12:31:39 GMT | Learning PowerShell: How to view Network Routes, SMB Shares, and Neighbor Cache on Windows Server | Tyrik Emptage | [Read More](https://medium.com/p/919e2f21695c) |
-| Mon, 01 Sep 2025 12:30:07 GMT | Securing the Truth: Why Evidence Packaging Shapes the Outcome of Criminal Cases | Sofiamcmahon | [Read More](https://medium.com/p/66065a387dd5) |
-| Mon, 01 Sep 2025 12:29:23 GMT | The Ghost Vulnerabilities — How “Fixed Bugs” Come Back From the Dead | DJH4CK3R | [Read More](https://medium.com/p/97ecf45b404f) |
-| Mon, 01 Sep 2025 12:25:32 GMT | Where Innovation Meets Protection | Quva India | [Read More](https://medium.com/p/79c235b25f71) |
-| Mon, 01 Sep 2025 12:25:04 GMT | The Psychology of a Hacker’s Click — Why Bug Bounty is More Mindset Than Tools | DJH4CK3R | [Read More](https://medium.com/p/33e4af7504c0) |
-| Mon, 01 Sep 2025 12:22:11 GMT | How Can Vulnerability Assessment and Penetration Testing Improve Business Cybersecurity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/ac8fa479768e) |
-| Mon, 01 Sep 2025 12:20:59 GMT | Protecting Sensitive Information: How Secure Bags Safeguard Business Trust | Sofiamcmahon | [Read More](https://medium.com/p/f6db88c706a6) |
-| Mon, 01 Sep 2025 12:18:04 GMT | Virtualization with KVM on Ubuntu for beginners | Adarsh K | [Read More](https://medium.com/p/8547dc026c1f) |
-| Mon, 01 Sep 2025 12:17:37 GMT | Beyond PCI and HIPAA: How Feroot Powers National Institute of Standards and Technology (NIST)… | Feroot Security | [Read More](https://medium.com/p/032b897be7de) |
-| Mon, 01 Sep 2025 12:16:38 GMT | Introduction: From Chatbots to Intelligent Agents | tkxel | [Read More](https://medium.com/p/b47abd03991b) |
-| Mon, 01 Sep 2025 12:11:40 GMT | The Hidden Risks of Inconsistent Cash Handling in Retail | Sofiamcmahon | [Read More](https://medium.com/p/618c6dee0f9d) |
