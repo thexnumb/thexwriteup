@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 16:36:02 GMT | Production-Ready LLM Security with Ansible: Complete Step-by-Step Guide Introduction to Ansible | Gabriel Rodewald | [Read More](https://medium.com/p/a1d495b9c5df) |
+| Mon, 01 Sep 2025 16:35:02 GMT | AI Meeting Assistant Security and Privacy: A Guide for 2025 | KaraX.ai | [Read More](https://medium.com/p/4796603d6cb8) |
+| Mon, 01 Sep 2025 16:30:58 GMT | Step-by-Step: Authenticate GitLab Pipelines to AWS with OIDC (No Static Keys) | Vijay Mourya | [Read More](https://medium.com/p/ae1baa9647e5) |
+| Mon, 01 Sep 2025 16:30:30 GMT | Exploring Malicious Office Macros | Hariharan | [Read More](https://medium.com/p/1a9294386f33) |
+| Mon, 01 Sep 2025 16:24:39 GMT | Best Netflix VPN that actually work in 2025 | rohan kumar | [Read More](https://medium.com/p/9fe3320b42ec) |
+| Mon, 01 Sep 2025 16:22:22 GMT | How Scams and Laundering Attempts Play Out on Shopify | Internet Exposed | [Read More](https://medium.com/p/df72994d30f4) |
 | Mon, 01 Sep 2025 16:20:08 GMT | When Backups Become Attack Vectors | Hantz Jermain | [Read More](https://medium.com/p/14cb73034192) |
 | Mon, 01 Sep 2025 16:19:46 GMT | Risk-based Vulnerability Management (RBVM) is Dead… Long Live RBVM | Rachana Gupta | [Read More](https://medium.com/p/5938dbe89551) |
 | Mon, 01 Sep 2025 16:17:42 GMT | Securing Web Assembly Modules in Browser Contexts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7de98b08166b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 11:39:18 GMT | HOW i found the CVE-2025–4388? | DOD cyber solutions | [Read More](https://medium.com/p/5f10d0b28e71) |
 | Mon, 01 Sep 2025 11:38:15 GMT | Common Ports to Brute Force in Ethical Hacking | harshitnadda | [Read More](https://medium.com/p/7ef3adb45725) |
 | Mon, 01 Sep 2025 11:36:10 GMT | Engineer Steals Elon Musk’s AI Secrets — Then Joins OpenAI | Alex Parker | [Read More](https://medium.com/p/00218e58482c) |
-| Mon, 01 Sep 2025 11:27:07 GMT | Pivoting with SSH Port Forwarding | Sevban Dönmez | [Read More](https://medium.com/p/6ea594ccbcb4) |
-| Mon, 01 Sep 2025 11:19:21 GMT | Applications of Machine Learning in Cybersecurity: A Comprehensive Guide | HarshathTechBlogs | [Read More](https://medium.com/p/7c2e633920cc) |
-| Mon, 01 Sep 2025 11:17:36 GMT | How to Secure Your Website from Cyber Threats in 2025 | Ambala IT | [Read More](https://medium.com/p/bdc555bd7501) |
-| Mon, 01 Sep 2025 11:11:39 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/202da286aa30) |
-| Mon, 01 Sep 2025 11:10:51 GMT | VAPI Üzerinden Adım Adım Zafiyet Analizi | muhammedenesozel | [Read More](https://medium.com/p/dede279eeff9) |
-| Mon, 01 Sep 2025 11:07:44 GMT | Dawn of Digital Synthesis | Sascha Papovich | [Read More](https://medium.com/p/191c37e699d3) |
