@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 08:21:39 GMT | Understanding the OWASP Top 10: The Simplest Guide for Web Security | CyberSenpai | [Read More](https://medium.com/p/8986530582d6) |
+| Mon, 01 Sep 2025 08:16:08 GMT | What is a Dictionary Attack? [How it Works and Prevention Tips] | Hamza Hanif | [Read More](https://medium.com/p/d2d071b48154) |
+| Mon, 01 Sep 2025 08:13:53 GMT | Information Technology | Poojasri | [Read More](https://medium.com/p/f0b3c8127397) |
+| Mon, 01 Sep 2025 08:06:59 GMT | Quantum Cryptography: The Future of Unbreakable Security | Gary A. Fowler | [Read More](https://medium.com/p/3683bcf4229d) |
+| Mon, 01 Sep 2025 08:01:43 GMT | Stop Googling ‘Network Not Working’: Master Linux Troubleshooting Instead | MayhemCode | [Read More](https://medium.com/p/a64c0988b765) |
+| Mon, 01 Sep 2025 08:01:41 GMT | Turn On Leak Alerts In Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/e7a661e4a364) |
+| Mon, 01 Sep 2025 08:01:41 GMT | When AI Becomes Big Brother: The Privacy Risks Nobody Talks About | Yash Gorasiya | [Read More](https://medium.com/p/d2fab73d38fa) |
+| Mon, 01 Sep 2025 08:01:14 GMT | Satellite Hacking: The Untouched Frontier of Cyberwarfare | Travis Ray Caverhill | [Read More](https://medium.com/p/20affba02664) |
+| Mon, 01 Sep 2025 07:58:38 GMT | AI & Linux Ops: 5 Tools That Actually Reduce Downtime | Iliya Garakh | [Read More](https://medium.com/p/73a12c627885) |
+| Mon, 01 Sep 2025 07:56:56 GMT | Digital Privacy in 2025: How to Shield Your Data from Privacy Invasions | M. Huzaifa | [Read More](https://medium.com/p/7bb2a6f454ca) |
+| Mon, 01 Sep 2025 07:54:35 GMT | India’s Infamous Hacking Firms : The State of Surveillance and Espionage | Techtrekkertech | [Read More](https://medium.com/p/bc76790d2dad) |
+| Mon, 01 Sep 2025 07:52:16 GMT | The Future I See With Drosera | Yuni | [Read More](https://medium.com/p/a2288ede3dcc) |
+| Mon, 01 Sep 2025 07:46:08 GMT | Critical but very easy Unauthorized Data Disclosure via HTTP Method Manipulation: A Lesson in API… | Be nice insabat | [Read More](https://medium.com/p/5d55c1ffd961) |
+| Mon, 01 Sep 2025 07:45:37 GMT | Drosera: Web3’s Immune System – Securing the Decentralized Frontier. | Happiness Oluwaferanmi | [Read More](https://medium.com/p/72b3e7dad720) |
+| Mon, 01 Sep 2025 07:43:20 GMT | Ultimate Bug Bounty Guide 2025: Top 100 Essential Tools + 100 Proven Techniques for Ethical Hackers | Pratham Shah | [Read More](https://medium.com/p/f0fae7dfa198) |
 | Mon, 01 Sep 2025 07:36:51 GMT | Vibe Coding with AI: A Serious Problem for Web Security | Daniel Groothuis | [Read More](https://medium.com/p/b5557573ec2f) |
 | Mon, 01 Sep 2025 07:33:03 GMT | Why I started with CompTIA A+ Before Security+ and Why It Changed Everything | Incite | [Read More](https://medium.com/p/48257563a5a0) |
 | Mon, 01 Sep 2025 07:28:56 GMT | Incognito Mode: The Digital Snake Oil | Ddude | [Read More](https://medium.com/p/6d7b0cb12430) |
+| Mon, 01 Sep 2025 07:28:34 GMT | Dursgo v 1.1.0 : AI-Powered Analysis | Kang Ali | [Read More](https://medium.com/p/9d0fbc607205) |
 | Mon, 01 Sep 2025 07:28:27 GMT | Penetration Testing as a Service (PTaaS) in the United Kingdom | QualysecEurope | [Read More](https://medium.com/p/e8fb48c529fa) |
 | Mon, 01 Sep 2025 07:27:36 GMT | Ransomware and Phishing: A Growing Threat in South Africa | Onthatile M Selebano | [Read More](https://medium.com/p/6a5685c1aa31) |
 | Mon, 01 Sep 2025 07:26:45 GMT | Red Team Recon: Nmap Strategies to Bypass Security Measures (Firewall and IDS/IPS Evasion) | Janardhan Pattipati | [Read More](https://medium.com/p/79db1f66077d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 03:31:41 GMT | Inside UAC-0099: How HTA Files Deliver the MATCHBOIL Malware Loader | Deven Chhajed | [Read More](https://medium.com/p/945fc0fd9ecb) |
 | Mon, 01 Sep 2025 03:22:23 GMT | How to Use a Simple All-in-One Update Script for SafeLine | Maverick Steel | [Read More](https://medium.com/p/70e725ac4bc5) |
 | Mon, 01 Sep 2025 03:19:56 GMT | VPN Market 2025: Freedom on Subscription or Monopoly With a Smile? | Matreshka VPN | [Read More](https://medium.com/p/d77c51c05564) |
-| Mon, 01 Sep 2025 03:15:02 GMT | Networks are really important for keeping things safe because they’re how we communicate. | Zulfianarahmi | [Read More](https://medium.com/p/4f4c6351dd96) |
-| Mon, 01 Sep 2025 03:10:10 GMT | CISSP Success Toolkit at Cybernous: Your Path to Certification Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/1d6ec9d22464) |
-| Mon, 01 Sep 2025 03:04:02 GMT | RCE Risk in Yonyou U8Cloud: ServiceDispatcher Deserialization Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/047f2c046f4d) |
-| Mon, 01 Sep 2025 03:01:20 GMT | Scaling Your Crypto Returns with BUG | BUG | [Read More](https://medium.com/p/be40e17da3db) |
-| Mon, 01 Sep 2025 03:00:53 GMT | Building a Lightweight EDR Lab for Threat Detection & Incident Response | Ajay | [Read More](https://medium.com/p/b642434404df) |
-| Mon, 01 Sep 2025 02:57:40 GMT | Safeguarding Privacy in the Age of AI Agents | Geek Nomad | [Read More](https://medium.com/p/8a130a41a1d3) |
-| Mon, 01 Sep 2025 02:56:07 GMT | The Role of Certificates in Authentication and Secure Communication | Malith Dilshan | [Read More](https://medium.com/p/7daddaf1393a) |
-| Mon, 01 Sep 2025 02:55:59 GMT | Why Ransomware Gangs Are Now Targeting APIs and SaaS Apps | Paritosh | [Read More](https://medium.com/p/eb08cd045ad2) |
-| Mon, 01 Sep 2025 02:55:41 GMT | Why Information Security Isn’t Just for IT Teams Anymore | Aj | [Read More](https://medium.com/p/7af4bfcac4f2) |
-| Mon, 01 Sep 2025 02:48:08 GMT | The $47 Million Hack That Started With a Click | Akilnath Bodipudi | [Read More](https://medium.com/p/9ec8b9a481ec) |
-| Mon, 01 Sep 2025 02:31:36 GMT | The Network’s Reach: Understanding LAN and WAN | Keerthan V Suvarna | [Read More](https://medium.com/p/dccd0115f3cc) |
-| Mon, 01 Sep 2025 02:23:21 GMT | Blocked in the Wild: What Anthropic’s “Claude Misuse” Case Means for Your Team | Arthi Rajendran | [Read More](https://medium.com/p/fb8876d05038) |
-| Mon, 01 Sep 2025 02:17:18 GMT | The Rise of AI-Generated Ransomware & Insider Threats: Redefining Cybersecurity in 2025 | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/64bdc0443c3a) |
-| Mon, 01 Sep 2025 02:14:24 GMT | Boot2Root SUNWAY CTF 2025 | k1dd0sz | [Read More](https://medium.com/p/46887bb1cb8e) |
-| Mon, 01 Sep 2025 02:08:18 GMT | The AI-Powered Workflow That Made Me Twice as Productive | Kainat Nafees | [Read More](https://medium.com/p/64dfcf5e42ee) |
-| Mon, 01 Sep 2025 02:05:48 GMT | Web Uygulamalarında XSS: Riskler, Türler ve Önlemler | Tuba ÜNSAL | [Read More](https://medium.com/p/a8ffaaae164b) |
