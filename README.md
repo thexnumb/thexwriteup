@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 11:10:51 GMT | VAPI Üzerinden Adım Adım Zafiyet Analizi | muhammedenesozel | [Read More](https://medium.com/p/dede279eeff9) |
+| Mon, 01 Sep 2025 11:07:44 GMT | Dawn of Digital Synthesis | Sascha Papovich | [Read More](https://medium.com/p/191c37e699d3) |
+| Mon, 01 Sep 2025 11:06:16 GMT | How to Stop Spam Calls and Texts (2025 Guide) | Ethan Cole | [Read More](https://medium.com/p/e4d9859426b3) |
+| Mon, 01 Sep 2025 11:03:17 GMT | Introduction | TechIncisive | [Read More](https://medium.com/p/bf32330d5a25) |
+| Mon, 01 Sep 2025 11:01:43 GMT | It’s Not the Rain I Hate, It’s the Loneliness Inside It | Her Out-of-Office Feelings | [Read More](https://medium.com/p/0812b70efb25) |
+| Mon, 01 Sep 2025 10:57:16 GMT | Linux File Permissions Exploits Every Hacker Should Know | Very Lazy Tech | [Read More](https://medium.com/p/55d735af908a) |
+| Mon, 01 Sep 2025 10:55:30 GMT | Start Your Cybersecurity Career with Cisco CBROPS v1.2 — Certification Training | Aaqib Rajput | [Read More](https://medium.com/p/5fa60114e841) |
+| Mon, 01 Sep 2025 10:55:19 GMT | The AI Necklace That Listens? Friend or a Hacker’s Goldmine in Disguise | itsShotgun | [Read More](https://medium.com/p/b2c44e611a52) |
+| Mon, 01 Sep 2025 10:54:01 GMT | Key Insights On Technology Sector Featuring Top Nasdaq Stocks This Year | Miller Smith | [Read More](https://medium.com/p/204096a603ca) |
+| Mon, 01 Sep 2025 10:52:57 GMT | Survey of Scientific Large Language Models and feedback loop to solve data wall | Berend Watchus | [Read More](https://medium.com/p/d30be8dda1e5) |
+| Mon, 01 Sep 2025 10:50:55 GMT | Is AI Making Cybersecurity Burnout Worse in India? | Prerna Shukla | [Read More](https://medium.com/p/649162c11433) |
+| Mon, 01 Sep 2025 10:48:55 GMT | Fintech App Security: Comprehensive Guide to Protecting Your Fintech Application | Neontri | [Read More](https://medium.com/p/210b12bfa717) |
+| Mon, 01 Sep 2025 10:48:48 GMT | What Is AMC Meaning in IT Services in Dubai? | Cost To Cost | [Read More](https://medium.com/p/aa81b75d6cfe) |
+| Mon, 01 Sep 2025 10:48:15 GMT | NIST Cybersecurity for Small Businesses: The Secret to Stress-Free Compliance | SecureSlate | [Read More](https://medium.com/p/e25c1b1a4fa0) |
+| Mon, 01 Sep 2025 10:47:23 GMT | Cybersecurity Burnout in India: When AI Helps and When It Hurts | Saravanan.R | [Read More](https://medium.com/p/ff6c3e800a06) |
+| Mon, 01 Sep 2025 10:45:56 GMT | Your MFA Isn’t Safe Anymore — Hackers Found a Way Around It | Rizqi Mulki | [Read More](https://medium.com/p/b1fb6b865721) |
+| Mon, 01 Sep 2025 10:45:44 GMT | Zero-Day Exploits Are Spreading Faster Than Ever — You May Already Be Compromised | Rizqi Mulki | [Read More](https://medium.com/p/bbffda7a3511) |
+| Mon, 01 Sep 2025 10:45:30 GMT | State-Sponsored Hackers Are Testing Blackouts — The Next One Won’t Be an Accident | Rizqi Mulki | [Read More](https://medium.com/p/2828d24d5fc3) |
+| Mon, 01 Sep 2025 10:40:45 GMT | How to Secure Your Crypto with Tangem Wallet So Your Family Can Access It After You’re Gone | Haris Nadeem | [Read More](https://medium.com/p/f0739a8f3905) |
+| Mon, 01 Sep 2025 10:36:11 GMT | Law Firm Website Design Cost, Services & Best Practices | Bhavesh Rajpurohit | [Read More](https://medium.com/p/f505244f8fc3) |
 | Mon, 01 Sep 2025 10:35:19 GMT | Access Control — Privilege Escalation Lab | Varkeythms | [Read More](https://medium.com/p/aa2ea1f3deef) |
 | Mon, 01 Sep 2025 10:28:23 GMT | ThunderCipher[Client_Side] | Bhuwan Patidar | [Read More](https://medium.com/p/cf23387d4ec2) |
 | Mon, 01 Sep 2025 10:17:49 GMT | Complete Security Camera Project with Dahua Dome and Bullet Cameras | optimationbd | [Read More](https://medium.com/p/ee5cb96e5ab8) |
@@ -93,23 +113,3 @@ Practices for Mobile and Web Applications | Secuodsoft Technologies | [Read More
 | Mon, 01 Sep 2025 07:23:01 GMT | How Scammers Use Fake Helpline Numbers to Steal Your Bank Details (And How to Stay Safe) | Darshna Chaudhary | [Read More](https://medium.com/p/36edc5a6e0b9) |
 | Mon, 01 Sep 2025 07:20:18 GMT | Cortex SOC Automation By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5007dbfffdd6) |
 | Mon, 01 Sep 2025 07:18:45 GMT | WWDC25 Updates Beyond the Glare | Yakov Manshin | [Read More](https://medium.com/p/bcd7deb6da98) |
-| Mon, 01 Sep 2025 07:12:56 GMT | Today I Learned Something About Being an Ethical Hacker No One Should Ever Have to Discover | Vijay Kumar Gupta | [Read More](https://medium.com/p/cfc8eec34d31) |
-| Mon, 01 Sep 2025 07:11:38 GMT | The Weight Men Carry in Silence | Gursahib Singh | [Read More](https://medium.com/p/6a17673343ff) |
-| Mon, 01 Sep 2025 07:09:06 GMT | Reverse Engineering WriteUp: FactCheck picoCTF 2025 | Michael Elfauz | [Read More](https://medium.com/p/d4b96eb89caf) |
-| Mon, 01 Sep 2025 07:08:11 GMT | University Dropout Arrested After Hacking Betting Firm, Stealing Over KSh 11 Million | Phostevesachieng | [Read More](https://medium.com/p/04e0a04b51de) |
-| Mon, 01 Sep 2025 07:07:10 GMT | RST TI Report Digest: 01 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/34964ecb041c) |
-| Mon, 01 Sep 2025 07:03:20 GMT | Web Cache Nedir, Web Cache Poisoning Nedir, Nasıl Tespit Edilir, Önleme Yöntemleri | Şamil Alpay | [Read More](https://medium.com/p/065207cd47bf) |
-| Mon, 01 Sep 2025 07:01:39 GMT | In moonlight…black boys look blue. | Nadine | [Read More](https://medium.com/p/af5607670e54) |
-| Mon, 01 Sep 2025 06:56:42 GMT | AI Agents Are Hunting: Your Network Is No Longer Safe Without Them | Tapan Kumar Patro | [Read More](https://medium.com/p/f036cb10494f) |
-| Mon, 01 Sep 2025 06:55:38 GMT | Checkpoint Firewall Certification Program — Boost Your Cybersecurity Skills | Skills For Everyone | [Read More](https://medium.com/p/fe8caca28671) |
-| Mon, 01 Sep 2025 06:54:58 GMT | Why MDM Software Features Are Crucial for Modern Enterprises | Vantage MDM | [Read More](https://medium.com/p/c6e894d59236) |
-| Mon, 01 Sep 2025 06:53:22 GMT | HTB-LAB Local File Inclusion (LFI) | Tsh0x; | [Read More](https://medium.com/p/5061ab1b4299) |
-| Mon, 01 Sep 2025 06:51:33 GMT | The Future of Web3 Security: Why Drosera Network Matters | Jayne | [Read More](https://medium.com/p/c253ed8e9ec7) |
-| Mon, 01 Sep 2025 06:51:14 GMT | Step-by-Step Guide: Running WordPress Securely with Docker, Nginx, and SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/188b5017a281) |
-| Mon, 01 Sep 2025 06:42:20 GMT | How I Bypassed VPN Detection, Broke Client-Side Crypto and Found Multiple IDORS | Wajid Ahadpoor | [Read More](https://medium.com/p/5cdf0cd4ac84) |
-| Mon, 01 Sep 2025 06:41:02 GMT | The Dark Mirror: When AI Becomes the Perfect Criminal Accomplice | Rachana Gupta | [Read More](https://medium.com/p/6ea47d8f60e7) |
-| Mon, 01 Sep 2025 06:33:39 GMT | BCA in Cyber Security — Shape Your Future in the Digital Security Domain | Gulafsha Sheikh | [Read More](https://medium.com/p/62bc0cb91fef) |
-| Mon, 01 Sep 2025 06:32:56 GMT | Lab Walkthrough: Exploiting Path Mapping for Web Cache Deception | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/f13dc14b179f) |
-| Mon, 01 Sep 2025 06:32:17 GMT | Teaching Machines to Read: POS Tagging and NER in Action | Priyanyali Patel | [Read More](https://medium.com/p/1983907ea06e) |
-| Mon, 01 Sep 2025 06:31:36 GMT | Top 10 Django Security Practices Every Developer Should Know | Dipak Pawar | [Read More](https://medium.com/p/dbdc39be2748) |
-| Mon, 01 Sep 2025 06:22:29 GMT | Streamline Success with Axipro’s Expert ISO 27001 internal audit Services | Axipro | [Read More](https://medium.com/p/0d36de2e19df) |
