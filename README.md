@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 15:05:33 GMT | Cyber Threats Are Evolving — Is Your Business Ready? | Dr. Shashi Karhail | [Read More](https://medium.com/p/e242821d6065) |
+| Mon, 01 Sep 2025 15:01:40 GMT | ️ The Hidden Dangers: Top 5 Cybersecurity Risks of Using AI Tools | PromptSecAI | [Read More](https://medium.com/p/519875523dda) |
+| Mon, 01 Sep 2025 14:57:36 GMT | Why Deepfake Technology Will Break Reality in 2026 | The Bot Group | [Read More](https://medium.com/p/8630a649b6b6) |
+| Mon, 01 Sep 2025 14:54:47 GMT | Top Freelance Skills in Demand: From AI to Cybersecurity | Kisalay | [Read More](https://medium.com/p/5855907c52a5) |
+| Mon, 01 Sep 2025 14:53:56 GMT | {{7*7}} → 49: SSTI Zafiyetini Anlamak | Ardaucdu | [Read More](https://medium.com/p/5299e470feda) |
+| Mon, 01 Sep 2025 14:53:00 GMT | Installation et Configuration d’un HoneyPot (Cowrie) | Karmendra Mungrah | [Read More](https://medium.com/p/5d86c56ec2e9) |
+| Mon, 01 Sep 2025 14:49:16 GMT | Tech-Savvy, Life-Ready: My Story with IT | Euxine Jahdiel E. Italia | [Read More](https://medium.com/p/906f983c99e2) |
+| Mon, 01 Sep 2025 14:48:31 GMT | “Day 26: The Logic Bomb — How I Hacked 0.1% of a Million-User Platform in 10 Minutes” | Aman Sharma | [Read More](https://medium.com/p/7dcb23f488cb) |
+| Mon, 01 Sep 2025 14:36:54 GMT | The Hidden Danger of Parallel Requests: Race Conditions Explained | Huzeyfe Gonenci | [Read More](https://medium.com/p/8453091f5afb) |
+| Mon, 01 Sep 2025 14:36:32 GMT | Endüstriyel Kontrol Sistemleri Nedir? | F. Berkan Çakır | [Read More](https://medium.com/p/3075a870ec7c) |
 | Mon, 01 Sep 2025 14:28:11 GMT | Bypassing Subscription Restrictions: A Business Logic Vulnerability in a Video Streaming App | Dgexploit | [Read More](https://medium.com/p/fd45e2e5dae3) |
 | Mon, 01 Sep 2025 14:27:36 GMT | Private, Secure Team Messaging You Control | Open Source Alternatives | [Read More](https://medium.com/p/9a4daf658afd) |
 | Mon, 01 Sep 2025 14:25:16 GMT | Need Job in Cyber Security Area | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/0ca22d82c535) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 10:45:30 GMT | State-Sponsored Hackers Are Testing Blackouts — The Next One Won’t Be an Accident | Rizqi Mulki | [Read More](https://medium.com/p/2828d24d5fc3) |
 | Mon, 01 Sep 2025 10:40:45 GMT | How to Secure Your Crypto with Tangem Wallet So Your Family Can Access It After You’re Gone | Haris Nadeem | [Read More](https://medium.com/p/f0739a8f3905) |
 | Mon, 01 Sep 2025 10:36:11 GMT | Law Firm Website Design Cost, Services & Best Practices | Bhavesh Rajpurohit | [Read More](https://medium.com/p/f505244f8fc3) |
-| Mon, 01 Sep 2025 10:35:19 GMT | Access Control — Privilege Escalation Lab | Varkeythms | [Read More](https://medium.com/p/aa2ea1f3deef) |
-| Mon, 01 Sep 2025 10:28:23 GMT | ThunderCipher[Client_Side] | Bhuwan Patidar | [Read More](https://medium.com/p/cf23387d4ec2) |
-| Mon, 01 Sep 2025 10:17:49 GMT | Complete Security Camera Project with Dahua Dome and Bullet Cameras | optimationbd | [Read More](https://medium.com/p/ee5cb96e5ab8) |
-| Mon, 01 Sep 2025 10:17:45 GMT | DockerLabs Writeup — FirstHacking (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ae4fd962e31b) |
-| Mon, 01 Sep 2025 10:12:17 GMT | Self Defending APIs - PHP Security Tips for 2025 Threats | Asian Digital Hub | [Read More](https://medium.com/p/fb1ec8b91230) |
-| Mon, 01 Sep 2025 09:55:39 GMT | TryHackMe: Web Security Essentials Walkthrough | Danladi | [Read More](https://medium.com/p/fc3be0232d72) |
-| Mon, 01 Sep 2025 09:52:10 GMT | Crypto Heist Stats: 2025’s Half Was Worse Than All of 2024, and It Will Get Worse | Integritee Network | [Read More](https://medium.com/p/035b5a9647cc) |
-| Mon, 01 Sep 2025 09:52:08 GMT | Cloudflare Tunnel — Origin Exposure Weaponized | p4n7h3rx | [Read More](https://medium.com/p/6ae5b1f09bb2) |
-| Mon, 01 Sep 2025 09:47:58 GMT | Turning Risks into Opportunities: The TPRM Advantage | Mahantesh Katapur | [Read More](https://medium.com/p/ed1cb6d52405) |
-| Mon, 01 Sep 2025 09:47:40 GMT | Protect Your Business with Expert Endpoint Security Services By Net Access | Gowthammathiew | [Read More](https://medium.com/p/c6bd3c30fab1) |
