@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 23:16:12 GMT | Discover the Exciting Stories of the IT Industry from the 1970s | Stacklegend | [Read More](https://medium.com/p/01528951ff70) |
+| Mon, 01 Sep 2025 23:03:53 GMT | Modularizing the SIEM: Rethinking Security for a Composable Future | Aabhas Lal | [Read More](https://medium.com/p/53ff2893f20a) |
+| Mon, 01 Sep 2025 22:44:27 GMT | Starting My Kaizen Journey in Cybersecurity | Morontowumi Enioluwa Akinbogun | [Read More](https://medium.com/p/325f0a125ab6) |
+| Mon, 01 Sep 2025 22:37:36 GMT | Blue Team Lab — Phishing Analysis | Juan Alexander Alejo | [Read More](https://medium.com/p/20630331b351) |
 | Mon, 01 Sep 2025 22:34:52 GMT | Mobile Hacking Lab -- Android Challenges | Mahmoud Mohamed | [Read More](https://medium.com/p/3e7bbf3c05ab) |
+| Mon, 01 Sep 2025 22:33:33 GMT | FYODOST: Mastering Layer 2 Network Security Testing in 2025 | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/fbb22ca65938) |
+| Mon, 01 Sep 2025 22:29:09 GMT | Securing Amazon EKS: A DevSecOps Engineer’s Guide to Surviving Audits & Attacks | Abhishek Gupta | [Read More](https://medium.com/p/f6248c536f73) |
 | Mon, 01 Sep 2025 22:20:09 GMT | PromptLock: The First AI-Powered Ransomware Proof-of-Concept | Sean  Oriyano | [Read More](https://medium.com/p/955ddd3d5491) |
 | Mon, 01 Sep 2025 22:17:39 GMT | Data Diodes for Secure Unidirectional Data Flow | Karthikeyan Nagaraj | [Read More](https://medium.com/p/50117d677231) |
 | Mon, 01 Sep 2025 21:59:59 GMT | CVE-2025–9074: Docker Desktop Container Escape Analysis | MindPatch | [Read More](https://medium.com/p/4f327a17c10f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 16:00:09 GMT | PromptLock: The First AI-Powered Ransomware and Why It’s a Game Changer | Akanksha | [Read More](https://medium.com/p/4a7411d9320a) |
 | Mon, 01 Sep 2025 15:55:16 GMT | Multi-cloud on autopilot: PoCs that bootstrap, configure, and self-destruct | KeyboardSamurai | [Read More](https://medium.com/p/d9a03de0b559) |
 | Mon, 01 Sep 2025 15:49:14 GMT | Will a Cybersecurity Degree Get You a Job? | Chase Kester | [Read More](https://medium.com/p/7e10f86377d2) |
-| Mon, 01 Sep 2025 15:42:18 GMT | What Is Criminology? | oluwagbotemi ayomide | [Read More](https://medium.com/p/89c0f65a7996) |
-| Mon, 01 Sep 2025 15:39:13 GMT | The Future I See with Drosera Network In DeFi | Gen. Dave | [Read More](https://medium.com/p/e70746af1818) |
-| Mon, 01 Sep 2025 15:32:17 GMT | Introduction to Phishing — TryHackMe Simulator — My Overview | Forrest Caffray | [Read More](https://medium.com/p/28950f91d84a) |
-| Mon, 01 Sep 2025 15:32:02 GMT | I Dread The Night — In Oklahoma | Kate Englebrecht | [Read More](https://medium.com/p/2faba92d211b) |
-| Mon, 01 Sep 2025 15:31:11 GMT | Detecting exposed llm servers: shodan case study on ollama | Yaniv | [Read More](https://medium.com/p/1192953ab7c1) |
-| Mon, 01 Sep 2025 15:24:15 GMT | I LOST MY CRYPTO. HOW DO I RECOVER IT? WAY TO RECOVER SCAMMED OR LOST CRYPTOCURRENCY | Jonhpedro | [Read More](https://medium.com/p/59a0005f5e56) |
