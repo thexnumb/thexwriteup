@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 13:42:33 GMT | Troubleshooting GlobalProtect VPN Issues on Windows When Using a Metered Wi-Fi Connection | Luca Berton | [Read More](https://medium.com/p/8dbf3b1b8560) |
+| Mon, 01 Sep 2025 13:36:47 GMT | The Vibe Code!!! | Pranav Bhale | [Read More](https://medium.com/p/fb2fb8347f48) |
+| Mon, 01 Sep 2025 13:35:30 GMT | ️ Week 8 Dev Journey — Cybersecurity Training x Deloitte  - Kubernetes Pending ⏳ | Tanish Jain | [Read More](https://medium.com/p/7b488281ddb9) |
+| Mon, 01 Sep 2025 13:33:36 GMT | The Importance of Documentation Skills in Cyber Security | Kartik Debnath | [Read More](https://medium.com/p/682f413d3077) |
+| Mon, 01 Sep 2025 13:33:33 GMT | Boogeyman 3 — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/80fc8933e16b) |
 | Mon, 01 Sep 2025 13:27:27 GMT | From Zero to My First Critical XSS Finding | Ibtissam hammadi | [Read More](https://medium.com/p/52dc1afa2655) |
 | Mon, 01 Sep 2025 13:17:36 GMT | When a Free Tool Becomes a Paid Problem | Evgeny Ermakov | [Read More](https://medium.com/p/8e240cba3ad0) |
 | Mon, 01 Sep 2025 13:17:13 GMT | How Hackers Create Fake Login Pages: A Social Engineering Toolkit Demo | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/6fe067b41c3b) |
@@ -24,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 12:59:32 GMT | Why Decision Debt Slows Down Product Teams More Than Bugs | Observability Guy | [Read More](https://medium.com/p/6d9fd4d0a724) |
 | Mon, 01 Sep 2025 12:55:40 GMT | How IT influenced My Personal and Academic Lives | Winter Suganob | [Read More](https://medium.com/p/f8024b582d8e) |
 | Mon, 01 Sep 2025 12:53:40 GMT | Code Obfuscation in Flutter: Protecting Your Applications from Reverse Engineering | Aurum Dev | [Read More](https://medium.com/p/ddf183152aa4) |
+| Mon, 01 Sep 2025 12:53:13 GMT | Sicurezza informatica in Azienda: come adeguarsi | Giulia | [Read More](https://medium.com/p/cc6a1817537d) |
 | Mon, 01 Sep 2025 12:44:34 GMT | The New 5G Exploit That Redefines Mobile Security | The UNFILTERED Draft | [Read More](https://medium.com/p/76392e8781a1) |
 | Mon, 01 Sep 2025 12:39:20 GMT | Roadmap to Mastery: Cybersecurity Engineer | Uplatz | [Read More](https://medium.com/p/f7f8f47aed88) |
 | Mon, 01 Sep 2025 12:38:52 GMT | From a Bratislava Soup to the Spicy Coconut: A brand story | Spicy Coconut aka Dragos Sasaran | [Read More](https://medium.com/p/266621c7d8d7) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 09:32:03 GMT | oHome Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/bf9603b5341c) |
 | Mon, 01 Sep 2025 09:31:01 GMT | Top 10 Secure Hosting Providers for Online Courses in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/298cbe772453) |
 | Mon, 01 Sep 2025 09:29:25 GMT | why cybersecurity matters for start-ups. | AGATHA | [Read More](https://medium.com/p/fa9a163ba766) |
-| Mon, 01 Sep 2025 09:29:25 GMT | Things I Wish I Had Known Before Starting Coding | SannanAli.medium | [Read More](https://medium.com/p/ecd2676994f8) |
-| Mon, 01 Sep 2025 09:25:54 GMT | Finding Who’s Alive: Nmap Live Host Discovery (TryHackMe Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/a2944ac36187) |
-| Mon, 01 Sep 2025 09:25:38 GMT | Active Reconnaissance: Touching the Target | Furkanctiner | [Read More](https://medium.com/p/82e9b1b002be) |
-| Mon, 01 Sep 2025 09:24:13 GMT | Dark Web — Truth Behind the Internet | Dhanilka Dasanayaka | [Read More](https://medium.com/p/0ad776536a0b) |
-| Mon, 01 Sep 2025 09:21:56 GMT | Blackhat USA — Review and Tips for First-Time Travelers | VXRL | [Read More](https://medium.com/p/706d60bb38d8) |
-| Mon, 01 Sep 2025 09:13:49 GMT | A Comprehensive Guide to Cybersecurity Best
-Practices for Mobile and Web Applications | Secuodsoft Technologies | [Read More](https://medium.com/p/f246cf62fe37) |
