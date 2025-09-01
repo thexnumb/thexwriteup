@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 17:33:59 GMT | The Impact of AI in Cybersecurity: 7 Lessons | Joy Ashidi | [Read More](https://medium.com/p/4a89bf84d572) |
+| Mon, 01 Sep 2025 17:32:09 GMT | Dockerfile Security Best Practices Nobody Talks About | Nikulsinh Rajput | [Read More](https://medium.com/p/89ee1c3f29c1) |
+| Mon, 01 Sep 2025 17:29:03 GMT | Network layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/9a5e09e042ef) |
+| Mon, 01 Sep 2025 17:27:13 GMT | Evaluation Methodology of AI Systems through Agglutinative Languages | Jordi Garcia Castillon | [Read More](https://medium.com/p/ca52f4c6315d) |
+| Mon, 01 Sep 2025 17:26:40 GMT | Beyond APIs: Introducing the Sirraya Codon Protocol for Intent-Based Computing | Aamir Hameed | [Read More](https://medium.com/p/eac1477a6b4b) |
+| Mon, 01 Sep 2025 17:24:33 GMT | Your Phone’s New Superpower: AI That Works Without the Internet | Fahad's Foresight | [Read More](https://medium.com/p/3759c0f7b4fc) |
 | Mon, 01 Sep 2025 17:07:47 GMT | Pickle Rick - TryHackMe | Laach_ | [Read More](https://medium.com/p/a924c083aaa8) |
+| Mon, 01 Sep 2025 17:04:52 GMT | Data Link layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/9d902c897c13) |
 | Mon, 01 Sep 2025 17:00:41 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and The Energy Battle: Human Brain vs. | Nitin Garg | [Read More](https://medium.com/p/c35e01e1c1a2) |
 | Mon, 01 Sep 2025 16:46:58 GMT | Careful pre‑launch scrutiny of every website through Documentation, Verification and Approval | Sachit Joe Almeida | [Read More](https://medium.com/p/3a06345a6a15) |
 | Mon, 01 Sep 2025 16:44:22 GMT | What price are you willing to pay for security? | Jeff | [Read More](https://medium.com/p/8ef578ab7e0a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 12:17:37 GMT | Beyond PCI and HIPAA: How Feroot Powers National Institute of Standards and Technology (NIST)… | Feroot Security | [Read More](https://medium.com/p/032b897be7de) |
 | Mon, 01 Sep 2025 12:16:38 GMT | Introduction: From Chatbots to Intelligent Agents | tkxel | [Read More](https://medium.com/p/b47abd03991b) |
 | Mon, 01 Sep 2025 12:11:40 GMT | The Hidden Risks of Inconsistent Cash Handling in Retail | Sofiamcmahon | [Read More](https://medium.com/p/618c6dee0f9d) |
-| Mon, 01 Sep 2025 12:10:56 GMT | Understanding XML and XXE vulnerabilities | Sadineni Sai Sushanth | [Read More](https://medium.com/p/c927920ec581) |
-| Mon, 01 Sep 2025 12:10:21 GMT | Why Even Budget Samsung Phones Are Super Secure | Pramodh Casanova | [Read More](https://medium.com/p/fbf4b6c605a0) |
-| Mon, 01 Sep 2025 12:10:17 GMT | ScarCruft Deploys RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics | Jasmitharouthu | [Read More](https://medium.com/p/36895dda38de) |
-| Mon, 01 Sep 2025 12:09:33 GMT | John McAfee’s Privacy Vision & Why He Loved Samsung ️ | Pramodh Casanova | [Read More](https://medium.com/p/d1837b35c674) |
-| Mon, 01 Sep 2025 12:07:02 GMT | Beyond the Basics: Mastering Amazon Cloud Security | Qualysec | [Read More](https://medium.com/p/b90e21edb8d5) |
-| Mon, 01 Sep 2025 12:01:42 GMT | Beware of Fraudulent Scholarship Apps Targeting Students in Defarud Campaign | Jasmitharouthu | [Read More](https://medium.com/p/478a95af2c73) |
-| Mon, 01 Sep 2025 11:57:18 GMT | CAPTURE THE FLAG: Part Two | Ysork | [Read More](https://medium.com/p/e2ded75ffb27) |
