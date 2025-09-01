@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 20:34:51 GMT | Content Discovery as a Strategy | Dzianis Skliar | [Read More](https://medium.com/p/662b13ddd46a) |
+| Mon, 01 Sep 2025 20:34:26 GMT | How to Spot Easy Website Bugs with Real Examples | Monika sharma | [Read More](https://medium.com/p/2507f6688e25) |
+| Mon, 01 Sep 2025 20:27:40 GMT | Episode 2: Fundamentals Of Cybersecurity — CIA Triad | Yash Kitey | [Read More](https://medium.com/p/2f826af50a55) |
+| Mon, 01 Sep 2025 20:25:23 GMT | Netskope services landscape and where it fits in the SASE (Secure Access Service Edge) ecosystem. | Ayush Jain | [Read More](https://medium.com/p/a4cb935c98c2) |
+| Mon, 01 Sep 2025 20:23:54 GMT | In4m: Keeping up with the Latest Infosec News | Kulkan Security | [Read More](https://medium.com/p/ff4a045cf8a9) |
+| Mon, 01 Sep 2025 20:20:44 GMT | Cybersecurity Today: Tiny Slip-Ups, AI Tools – and a Whole Chain of Consequences | Joao Silva | [Read More](https://medium.com/p/229353bb262d) |
+| Mon, 01 Sep 2025 20:19:15 GMT | Do Your Loved Ones Have Access to Your Accounts in an Emergency? | Crystal Crowder | [Read More](https://medium.com/p/92d541bf208b) |
 | Mon, 01 Sep 2025 20:12:33 GMT | The Digital Bounty Hunter: How to Find and Report Bugs for Cash | Samina Perveen | [Read More](https://medium.com/p/9fe3539d7015) |
 | Mon, 01 Sep 2025 20:09:52 GMT | Querying Errors Only in CloudTrail | Teri Radichel | [Read More](https://medium.com/p/ed28329c5927) |
 | Mon, 01 Sep 2025 20:04:05 GMT | Beneath the Surface: Secrets Hidden in a JPEG You’d Never Suspect | salma osama | [Read More](https://medium.com/p/ad177ec2d814) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 14:53:56 GMT | {{7*7}} → 49: SSTI Zafiyetini Anlamak | Ardaucdu | [Read More](https://medium.com/p/5299e470feda) |
 | Mon, 01 Sep 2025 14:53:00 GMT | Installation et Configuration d’un HoneyPot (Cowrie) | Karmendra Mungrah | [Read More](https://medium.com/p/5d86c56ec2e9) |
 | Mon, 01 Sep 2025 14:49:16 GMT | Tech-Savvy, Life-Ready: My Story with IT | Euxine Jahdiel E. Italia | [Read More](https://medium.com/p/906f983c99e2) |
-| Mon, 01 Sep 2025 14:48:31 GMT | “Day 26: The Logic Bomb — How I Hacked 0.1% of a Million-User Platform in 10 Minutes” | Aman Sharma | [Read More](https://medium.com/p/7dcb23f488cb) |
-| Mon, 01 Sep 2025 14:36:54 GMT | The Hidden Danger of Parallel Requests: Race Conditions Explained | Huzeyfe Gonenci | [Read More](https://medium.com/p/8453091f5afb) |
-| Mon, 01 Sep 2025 14:36:32 GMT | Endüstriyel Kontrol Sistemleri Nedir? | F. Berkan Çakır | [Read More](https://medium.com/p/3075a870ec7c) |
-| Mon, 01 Sep 2025 14:28:11 GMT | Bypassing Subscription Restrictions: A Business Logic Vulnerability in a Video Streaming App | Dgexploit | [Read More](https://medium.com/p/fd45e2e5dae3) |
-| Mon, 01 Sep 2025 14:27:36 GMT | Private, Secure Team Messaging You Control | Open Source Alternatives | [Read More](https://medium.com/p/9a4daf658afd) |
-| Mon, 01 Sep 2025 14:25:16 GMT | Need Job in Cyber Security Area | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/0ca22d82c535) |
-| Mon, 01 Sep 2025 14:23:35 GMT | How Cybersecurity influencers are lying to you | Massimiliano Sermi | [Read More](https://medium.com/p/a6cb1df6e3e0) |
