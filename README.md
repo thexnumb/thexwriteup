@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 21:06:33 GMT | Full Weak Engineer CTF 2025 Writeups - 0xSn0w | Tamimsharif | [Read More](https://medium.com/p/afde1afe5be6) |
+| Mon, 01 Sep 2025 20:57:52 GMT | Editor Write-up - HackTheBox - Season 8 | debang5hu | [Read More](https://medium.com/p/2a7eb3383a04) |
+| Mon, 01 Sep 2025 20:43:05 GMT | Inside the PEB: How Malware Resolves APIs Without Imports | Itz.sanskarr | [Read More](https://medium.com/p/81f7d03bcfc5) |
 | Mon, 01 Sep 2025 20:34:51 GMT | Content Discovery as a Strategy | Dzianis Skliar | [Read More](https://medium.com/p/662b13ddd46a) |
+| Mon, 01 Sep 2025 20:34:34 GMT | Are You Really Safe Online? Let’s Get Real. | Shahzaib | [Read More](https://medium.com/p/777e4a467acd) |
 | Mon, 01 Sep 2025 20:34:26 GMT | How to Spot Easy Website Bugs with Real Examples | Monika sharma | [Read More](https://medium.com/p/2507f6688e25) |
 | Mon, 01 Sep 2025 20:27:40 GMT | Episode 2: Fundamentals Of Cybersecurity — CIA Triad | Yash Kitey | [Read More](https://medium.com/p/2f826af50a55) |
 | Mon, 01 Sep 2025 20:25:23 GMT | Netskope services landscape and where it fits in the SASE (Secure Access Service Edge) ecosystem. | Ayush Jain | [Read More](https://medium.com/p/a4cb935c98c2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 15:05:33 GMT | Cyber Threats Are Evolving — Is Your Business Ready? | Dr. Shashi Karhail | [Read More](https://medium.com/p/e242821d6065) |
 | Mon, 01 Sep 2025 15:01:40 GMT | ️ The Hidden Dangers: Top 5 Cybersecurity Risks of Using AI Tools | PromptSecAI | [Read More](https://medium.com/p/519875523dda) |
 | Mon, 01 Sep 2025 14:57:36 GMT | Why Deepfake Technology Will Break Reality in 2026 | The Bot Group | [Read More](https://medium.com/p/8630a649b6b6) |
-| Mon, 01 Sep 2025 14:54:47 GMT | Top Freelance Skills in Demand: From AI to Cybersecurity | Kisalay | [Read More](https://medium.com/p/5855907c52a5) |
-| Mon, 01 Sep 2025 14:53:56 GMT | {{7*7}} → 49: SSTI Zafiyetini Anlamak | Ardaucdu | [Read More](https://medium.com/p/5299e470feda) |
-| Mon, 01 Sep 2025 14:53:00 GMT | Installation et Configuration d’un HoneyPot (Cowrie) | Karmendra Mungrah | [Read More](https://medium.com/p/5d86c56ec2e9) |
-| Mon, 01 Sep 2025 14:49:16 GMT | Tech-Savvy, Life-Ready: My Story with IT | Euxine Jahdiel E. Italia | [Read More](https://medium.com/p/906f983c99e2) |
