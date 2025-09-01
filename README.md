@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 05:33:52 GMT | Axionet — AI Cyber Security Startup Framer Template | Diversekit | [Read More](https://medium.com/p/6dc8f5c36fcb) |
+| Mon, 01 Sep 2025 05:33:41 GMT | TryHackMe — Sakura Wakthrough | Atharva | [Read More](https://medium.com/p/0b555b7a62b1) |
+| Mon, 01 Sep 2025 05:30:25 GMT | World Liberty Financial seeks to revolutionize finance with a DeFi protocol that will be built for… | World Liberty Finance (WLFI) | [Read More](https://medium.com/p/4c5e8f79c8e6) |
+| Mon, 01 Sep 2025 05:30:25 GMT | Small Steps, Big Impact: Why Climate Action Begins with Everyday Choices | Linju Thomas | [Read More](https://medium.com/p/c7591495f07f) |
+| Mon, 01 Sep 2025 05:29:39 GMT | Beyond the Buzzwords: How to Measure Success Using CTI Metrics | Adam Goss | [Read More](https://medium.com/p/e8a51c1c6d2d) |
+| Mon, 01 Sep 2025 05:25:15 GMT | file transfer in linux | Puneetten | [Read More](https://medium.com/p/24c4ae6fa520) |
 | Mon, 01 Sep 2025 05:17:15 GMT | I Tested ChatGPT, Gemini, Perplexity, and Grok — The Ultimate AI Showdown | IamPreth | [Read More](https://medium.com/p/0fb209b48ae6) |
 | Mon, 01 Sep 2025 05:15:48 GMT | ISEC 2025 리뷰 — 국제 시큐리티 콘퍼런스, AI 시대 데이터 보안의 핵심 요소는? | Fasoo 파수 | [Read More](https://medium.com/p/78049ea16fce) |
 | Mon, 01 Sep 2025 05:04:39 GMT | How to integrate HashiCorp Vault with OpenShift for Secret Management | Rohit Dalal | [Read More](https://medium.com/p/25f4becff9ba) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 19:20:09 GMT | The Night I Learned Safety Isn’t Optional | SavvyCart | [Read More](https://medium.com/p/396dcc8bcc18) |
 | Sun, 31 Aug 2025 19:20:07 GMT | The First AI-Powered Ransomware Has Arrived, And It’s Just the Beginning | Dr. Barry | [Read More](https://medium.com/p/0e2e8f1ff9a7) |
 | Sun, 31 Aug 2025 19:11:48 GMT | LATAM cuna para las redes del mal | Hacking en México | [Read More](https://medium.com/p/90565bf5324d) |
-| Sun, 31 Aug 2025 19:06:55 GMT | Anyone Answering For Me. | Lonelykglayy | [Read More](https://medium.com/p/3e5c94c9cd70) |
-| Sun, 31 Aug 2025 19:06:39 GMT | OpenAI Agents SDK: Dive into Security Implications and Protection Strategies | Volodymyr Sanchenko | [Read More](https://medium.com/p/28850f312d6a) |
-| Sun, 31 Aug 2025 18:58:22 GMT | De las Sombras al Código: Mi Vida Entre Hacking, Magia y Redención | Hacking en México | [Read More](https://medium.com/p/bda320e80b22) |
-| Sun, 31 Aug 2025 18:54:41 GMT | AI in Cybersecurity and OT Audits: Transforming the Way We Protect Critical Systems | Namarta Thakur | [Read More](https://medium.com/p/5f35a3310fa1) |
-| Sun, 31 Aug 2025 18:51:41 GMT | My Experience of Hacking Dutch Government (DNS Hijacking) | Md Nahid Alam | [Read More](https://medium.com/p/d25239af5500) |
-| Sun, 31 Aug 2025 18:45:00 GMT | When Your AI Repo Becomes a Jungle | Elad Golan | [Read More](https://medium.com/p/f0a605ccab5c) |
