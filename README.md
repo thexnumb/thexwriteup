@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 19:31:52 GMT | TryHackMe - Masterminds — Write-up | ocharek | [Read More](https://medium.com/p/112aadfc3d03) |
+| Mon, 01 Sep 2025 19:29:26 GMT | The Illusion of Standing Alone | Kashaf Shafique | [Read More](https://medium.com/p/8b95c211a547) |
+| Mon, 01 Sep 2025 19:24:09 GMT | How I Turned a $4 Microcontroller into a Rubber Ducky | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/ec0cb756b3fe) |
+| Mon, 01 Sep 2025 19:20:39 GMT | When AI Helps — and Hurts: 5 Practical Tools for Smarter Linux Admins | Iliya Garakh | [Read More](https://medium.com/p/cd74bd09a36e) |
+| Mon, 01 Sep 2025 19:18:57 GMT | ReVanced — The Art of Digital Reverse Engineering | Fahad Khan | [Read More](https://medium.com/p/0e63573d39fe) |
 | Mon, 01 Sep 2025 19:15:33 GMT | AI Misuse and How We Fight Back | Above The Firewall | [Read More](https://medium.com/p/3c9a99b36fe0) |
 | Mon, 01 Sep 2025 18:59:23 GMT | Can There Be National Defense Without National Code? | Umut Akbulut | [Read More](https://medium.com/p/e08df9ccc072) |
 | Mon, 01 Sep 2025 18:55:03 GMT | Monday Cyber Brief — September 1 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/44cc2a58a7bc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 14:04:21 GMT | AI Waifu RAT Emerges With New Social Engineering Tricks | SCtoCS | [Read More](https://medium.com/p/e07584514a36) |
 | Mon, 01 Sep 2025 14:01:41 GMT | Cyber Briefing: 2025.09.01 | CyberMaterial | [Read More](https://medium.com/p/4a975fbaae6c) |
 | Mon, 01 Sep 2025 13:58:27 GMT | Why Security Should Be Every AI Engineer’s First Concern | Hirafuyu2003 | [Read More](https://medium.com/p/6f43eda930e2) |
-| Mon, 01 Sep 2025 13:57:35 GMT | Cloud Computing in OT: How to Secure Industrial Data in the Cloud | Cyberkech | [Read More](https://medium.com/p/dfcf70d41652) |
-| Mon, 01 Sep 2025 13:56:59 GMT | Pengenalan Internet of Things & Arduino-Praktikum IoT | Zifa Tea Azzahra | [Read More](https://medium.com/p/5f7095ea6d85) |
-| Mon, 01 Sep 2025 13:54:39 GMT | Secure Secret Management in Next.js (in Kubernetes environment) | Alberto De Agostini | [Read More](https://medium.com/p/6c479a6068f3) |
-| Mon, 01 Sep 2025 13:53:51 GMT | IT Audit beyond the Checklist, Rethinking IT Audit in Perspective of Identity Security | Muhammad Danial Arshad | [Read More](https://medium.com/p/817bc4eac18e) |
-| Mon, 01 Sep 2025 13:42:33 GMT | Troubleshooting GlobalProtect VPN Issues on Windows When Using a Metered Wi-Fi Connection | Luca Berton | [Read More](https://medium.com/p/8dbf3b1b8560) |
