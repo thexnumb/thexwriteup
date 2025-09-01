@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 03:48:12 GMT | How to Allow Nextcloud Backup Files with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/32bc5436a545) |
+| Mon, 01 Sep 2025 03:45:39 GMT | Understanding Web Assembly Architecture | Batuhan Sancak | [Read More](https://medium.com/p/d65549e58014) |
+| Mon, 01 Sep 2025 03:32:25 GMT | When the Skies Fill with Drones: Security, Piracy, and the Future of Hardened Return-to-Home | Robert Schryvers ChT | [Read More](https://medium.com/p/f9945d45398e) |
+| Mon, 01 Sep 2025 03:31:41 GMT | My Path to SC-200: Preparing for Microsoft’s Security Operations Analyst Certification | NineTales | [Read More](https://medium.com/p/ce7c9ee56d8e) |
+| Mon, 01 Sep 2025 03:31:41 GMT | Inside UAC-0099: How HTA Files Deliver the MATCHBOIL Malware Loader | Deven Chhajed | [Read More](https://medium.com/p/945fc0fd9ecb) |
+| Mon, 01 Sep 2025 03:22:23 GMT | How to Use a Simple All-in-One Update Script for SafeLine | Maverick Steel | [Read More](https://medium.com/p/70e725ac4bc5) |
+| Mon, 01 Sep 2025 03:19:56 GMT | VPN Market 2025: Freedom on Subscription or Monopoly With a Smile? | Matreshka VPN | [Read More](https://medium.com/p/d77c51c05564) |
 | Mon, 01 Sep 2025 03:15:02 GMT | Networks are really important for keeping things safe because they’re how we communicate. | Zulfianarahmi | [Read More](https://medium.com/p/4f4c6351dd96) |
 | Mon, 01 Sep 2025 03:10:10 GMT | CISSP Success Toolkit at Cybernous: Your Path to Certification Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/1d6ec9d22464) |
 | Mon, 01 Sep 2025 03:04:02 GMT | RCE Risk in Yonyou U8Cloud: ServiceDispatcher Deserialization Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/047f2c046f4d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 17:45:37 GMT | The Biggest Challenge for AI SaaS in 2025 (Hint: It’s Not Innovation) | Tejash Choudhary | [Read More](https://medium.com/p/263128b1ab99) |
 | Sun, 31 Aug 2025 17:44:45 GMT | The Complete Path to Cybersecurity: From Beginner to Expert | Mian Hammad | [Read More](https://medium.com/p/e84fafff26ed) |
 | Sun, 31 Aug 2025 17:42:57 GMT | HTB Cap Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/ac042fe64140) |
-| Sun, 31 Aug 2025 17:41:38 GMT | Basic interview cyber security questions (part 1) | The Commoness | [Read More](https://medium.com/p/0ca7a063fda6) |
-| Sun, 31 Aug 2025 17:33:36 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/286c431dbcf0) |
-| Sun, 31 Aug 2025 17:30:26 GMT | Top 5 Cybersecurity Tips Every Beginner Should Know | Nandini | [Read More](https://medium.com/p/c0962158549e) |
-| Sun, 31 Aug 2025 17:29:27 GMT | TryHackMe LinPrivEsc Walkthrough | Abdelrahman Farid | [Read More](https://medium.com/p/b874988202cf) |
-| Sun, 31 Aug 2025 17:24:40 GMT | When Access Control Fails: Local File Inclusion ($100–$500) | Abin | [Read More](https://medium.com/p/445f15c6b9d7) |
-| Sun, 31 Aug 2025 17:24:02 GMT | Turning Feedback into Fuel: Growth Strategies for Vulnerable Leaders | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/1df0a70f5fe5) |
-| Sun, 31 Aug 2025 17:21:25 GMT | Yapay Zekada Bilinçaltı Tehlikesi | Emir Ekrem Kaya | [Read More](https://medium.com/p/1f99cfad338d) |
