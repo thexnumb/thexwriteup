@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 06:32:56 GMT | Lab Walkthrough: Exploiting Path Mapping for Web Cache Deception | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/f13dc14b179f) |
+| Mon, 01 Sep 2025 06:21:51 GMT | Puzzle to Pwnage: Decoding Hidden Endpoints for Maximum Exploitation | Iski | [Read More](https://medium.com/p/1d2841383ddc) |
+| Mon, 01 Sep 2025 06:20:58 GMT | How Enterprise Content Management Solutions Help Reduce Operational Costs for Businesses in… | Quadrant IT Services | [Read More](https://medium.com/p/bfd29fe89302) |
+| Mon, 01 Sep 2025 06:17:39 GMT | Information Technology: A Personal and Academic Weapon | Ashley Nicole Dulhao | [Read More](https://medium.com/p/a7f2aeca9d28) |
+| Mon, 01 Sep 2025 06:17:27 GMT | How to Safeguard Your Information in Office 2024 | Mimmahmud Ticltd | [Read More](https://medium.com/p/3f5b98c820af) |
+| Mon, 01 Sep 2025 06:17:19 GMT | Monitor your Azure Security with Maester ❤️ | Brian Veldman | [Read More](https://medium.com/p/90cf7fe412e9) |
+| Mon, 01 Sep 2025 06:11:58 GMT | Alarm Sistemleri: Güvenliğinizi Şansa Bırakmayın | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/5405634887b7) |
+| Mon, 01 Sep 2025 06:01:37 GMT | When Disclosure Becomes a Threat: My Experience with YesWeHack | Krivadna | [Read More](https://medium.com/p/3b8671b27d9f) |
+| Mon, 01 Sep 2025 05:58:48 GMT | How One Prompt Hijacked Lenovo’s AI Chatbot | Shahzaib | [Read More](https://medium.com/p/43f1e6f9921d) |
+| Mon, 01 Sep 2025 05:56:31 GMT | Your Phone System Is Silently Being Hijacked | Aj | [Read More](https://medium.com/p/196cbc7fa8c8) |
+| Mon, 01 Sep 2025 05:55:17 GMT | Overpass - TryHackme — Write-Up | Özcan Ersan | [Read More](https://medium.com/p/1d555703c2a6) |
+| Mon, 01 Sep 2025 05:55:17 GMT | VAPT Certification in India | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/80d41c86ef8e) |
+| Mon, 01 Sep 2025 05:54:26 GMT | Is Ethical Hacking Becoming Too Commercialized? | Md Faiyaz Khan | [Read More](https://medium.com/p/7a211491ee88) |
+| Mon, 01 Sep 2025 05:54:01 GMT | Sensitive Endpoint Wordlist for Bug Hunting | Monika sharma | [Read More](https://medium.com/p/1acb50034629) |
+| Mon, 01 Sep 2025 05:53:03 GMT | HOW I PLAN TO MAKE MONEY WRITING ON MEDIUM (AS A CYBER + WEB3 WRITER). | Riya Pulse | [Read More](https://medium.com/p/2c50b54a6660) |
+| Mon, 01 Sep 2025 05:41:25 GMT | Safeguarding KSA’s Healthcare Sector with Reliable CCTV | Tekshoyabeelyas | [Read More](https://medium.com/p/03e40c08579e) |
+| Mon, 01 Sep 2025 05:41:06 GMT | 5G Network Slicing: The Double-Edged Sword Creating New Cyber Attack Vectors | Majid | [Read More](https://medium.com/p/debdaf4146ff) |
+| Mon, 01 Sep 2025 05:38:44 GMT | Cybersecurity Mastery: Protecting Systems, Data & Networks | Nxlin | [Read More](https://medium.com/p/36f7f6d3a11e) |
+| Mon, 01 Sep 2025 05:36:34 GMT | Secrets Management with HashiCorp Vault | Shivanshu Sharma | [Read More](https://medium.com/p/dbf90fd8cd77) |
 | Mon, 01 Sep 2025 05:33:52 GMT | Axionet — AI Cyber Security Startup Framer Template | Diversekit | [Read More](https://medium.com/p/6dc8f5c36fcb) |
 | Mon, 01 Sep 2025 05:33:41 GMT | TryHackMe — Sakura Wakthrough | Atharva | [Read More](https://medium.com/p/0b555b7a62b1) |
 | Mon, 01 Sep 2025 05:30:25 GMT | World Liberty Financial seeks to revolutionize finance with a DeFi protocol that will be built for… | World Liberty Finance (WLFI) | [Read More](https://medium.com/p/4c5e8f79c8e6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 22:03:56 GMT | Foundations of Disinformation Analysis: Understanding the Threat in the Digital Age | Habeeb CM Cyber | [Read More](https://medium.com/p/d9ac499e501c) |
 | Sun, 31 Aug 2025 21:28:23 GMT | threat hunting part 1: malware persistence through masquerading | Sirine Amrane | [Read More](https://medium.com/p/a3025d9624d0) |
 | Sun, 31 Aug 2025 21:02:21 GMT | I Almost Closed the Tab on My Biggest Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/8685ef3d2f46) |
-| Sun, 31 Aug 2025 20:50:21 GMT | Harden your containerized Backstage app, for Kubernetes | Mathieu Benoit | [Read More](https://medium.com/p/6bcab5f0bf87) |
-| Sun, 31 Aug 2025 20:43:58 GMT | I’m Stripping Down My Writing | Andrew J. DiMeo, Sr., Ph.D. | [Read More](https://medium.com/p/e9497e42bebc) |
-| Sun, 31 Aug 2025 20:41:01 GMT | AI Security Tools — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9a6c449f0402) |
-| Sun, 31 Aug 2025 20:38:39 GMT | Securing the Dumbest App I’ve built (on Purpose) | Jayriniv | [Read More](https://medium.com/p/cd4495b47d5b) |
-| Sun, 31 Aug 2025 20:37:13 GMT | l337 S4uc3 Lab - CyberDefenders | Anas404 | [Read More](https://medium.com/p/fc4c0860a775) |
-| Sun, 31 Aug 2025 20:33:49 GMT | Roorkee Man Duped of ₹66 Lakh via Deepfake Video Scam | Ambica Deshmukh | [Read More](https://medium.com/p/e049a6187b15) |
-| Sun, 31 Aug 2025 20:22:03 GMT | Mapping: A Complementary Step in Mobile Application Security | ghrez1ns | [Read More](https://medium.com/p/5ecef4cbe08b) |
-| Sun, 31 Aug 2025 20:10:12 GMT | HackTheBox: Spookifier | Ross Andrews | [Read More](https://medium.com/p/241b05fce761) |
-| Sun, 31 Aug 2025 20:09:29 GMT | Pineal 10x - Supplements — health | Ireneoficie | [Read More](https://medium.com/p/00fe242c14a5) |
-| Sun, 31 Aug 2025 20:06:03 GMT | Cellphone Spying - Hire Mobile Hackers | BlackHat | [Read More](https://medium.com/p/aa5de3ab8c99) |
-| Sun, 31 Aug 2025 19:58:36 GMT | Union-based SQL injection | Mohammed Hassan | [Read More](https://medium.com/p/2e0cc3b18939) |
-| Sun, 31 Aug 2025 19:52:44 GMT | HIRE A HACKER FOR CRYPTO SCAM RECOVERY SERVICES, CALL MALICE CYBER RECOVERY | Marek Nowak | [Read More](https://medium.com/p/624ae7054982) |
-| Sun, 31 Aug 2025 19:52:13 GMT | Daily Bugle — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/cf78f6109f28) |
-| Sun, 31 Aug 2025 19:47:39 GMT | Review of HTB’s Most Challenging Web Security Certification (CWEE) | MindPatch | [Read More](https://medium.com/p/18b3868c32dd) |
-| Sun, 31 Aug 2025 19:42:04 GMT | Step 1: Kickoff & Leadership Buy-In for ISO 27001:2022 Implementation | Kshitiz Sharma | [Read More](https://medium.com/p/644073718ce9) |
-| Sun, 31 Aug 2025 19:30:07 GMT | Basic of Bind Shell for beginners | Spider256 | [Read More](https://medium.com/p/e795b688d09c) |
-| Sun, 31 Aug 2025 19:20:09 GMT | The Night I Learned Safety Isn’t Optional | SavvyCart | [Read More](https://medium.com/p/396dcc8bcc18) |
-| Sun, 31 Aug 2025 19:20:07 GMT | The First AI-Powered Ransomware Has Arrived, And It’s Just the Beginning | Dr. Barry | [Read More](https://medium.com/p/0e2e8f1ff9a7) |
-| Sun, 31 Aug 2025 19:11:48 GMT | LATAM cuna para las redes del mal | Hacking en México | [Read More](https://medium.com/p/90565bf5324d) |
