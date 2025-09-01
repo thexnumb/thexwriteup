@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 22:34:52 GMT | Mobile Hacking Lab -- Android Challenges | Mahmoud Mohamed | [Read More](https://medium.com/p/3e7bbf3c05ab) |
+| Mon, 01 Sep 2025 22:20:09 GMT | PromptLock: The First AI-Powered Ransomware Proof-of-Concept | Sean  Oriyano | [Read More](https://medium.com/p/955ddd3d5491) |
+| Mon, 01 Sep 2025 22:17:39 GMT | Data Diodes for Secure Unidirectional Data Flow | Karthikeyan Nagaraj | [Read More](https://medium.com/p/50117d677231) |
 | Mon, 01 Sep 2025 21:59:59 GMT | CVE-2025–9074: Docker Desktop Container Escape Analysis | MindPatch | [Read More](https://medium.com/p/4f327a17c10f) |
 | Mon, 01 Sep 2025 21:32:58 GMT | Corridor — Hack in 5 Minutes - Write-Up #8 | D4m.sh | [Read More](https://medium.com/p/ebfb1a40ab8e) |
 | Mon, 01 Sep 2025 21:06:33 GMT | Full Weak Engineer CTF 2025 Writeups - 0xSn0w | Tamimsharif | [Read More](https://medium.com/p/afde1afe5be6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 15:32:02 GMT | I Dread The Night — In Oklahoma | Kate Englebrecht | [Read More](https://medium.com/p/2faba92d211b) |
 | Mon, 01 Sep 2025 15:31:11 GMT | Detecting exposed llm servers: shodan case study on ollama | Yaniv | [Read More](https://medium.com/p/1192953ab7c1) |
 | Mon, 01 Sep 2025 15:24:15 GMT | I LOST MY CRYPTO. HOW DO I RECOVER IT? WAY TO RECOVER SCAMMED OR LOST CRYPTOCURRENCY | Jonhpedro | [Read More](https://medium.com/p/59a0005f5e56) |
-| Mon, 01 Sep 2025 15:22:19 GMT | The Silent Threat Inside Your Supply Chain | R A N A   A H M A D | [Read More](https://medium.com/p/396c3f518a4e) |
-| Mon, 01 Sep 2025 15:21:29 GMT | Encryption Explained: How We Keep Secrets in the Digital World | Hirad Showghi | [Read More](https://medium.com/p/9ea0c09cd6f2) |
-| Mon, 01 Sep 2025 15:05:33 GMT | Cyber Threats Are Evolving — Is Your Business Ready? | Dr. Shashi Karhail | [Read More](https://medium.com/p/e242821d6065) |
