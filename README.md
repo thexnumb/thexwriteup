@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 10:35:19 GMT | Access Control — Privilege Escalation Lab | Varkeythms | [Read More](https://medium.com/p/aa2ea1f3deef) |
+| Mon, 01 Sep 2025 10:28:23 GMT | ThunderCipher[Client_Side] | Bhuwan Patidar | [Read More](https://medium.com/p/cf23387d4ec2) |
 | Mon, 01 Sep 2025 10:17:49 GMT | Complete Security Camera Project with Dahua Dome and Bullet Cameras | optimationbd | [Read More](https://medium.com/p/ee5cb96e5ab8) |
+| Mon, 01 Sep 2025 10:17:45 GMT | DockerLabs Writeup — FirstHacking (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ae4fd962e31b) |
+| Mon, 01 Sep 2025 10:12:17 GMT | Self Defending APIs - PHP Security Tips for 2025 Threats | Asian Digital Hub | [Read More](https://medium.com/p/fb1ec8b91230) |
 | Mon, 01 Sep 2025 09:55:39 GMT | TryHackMe: Web Security Essentials Walkthrough | Danladi | [Read More](https://medium.com/p/fc3be0232d72) |
 | Mon, 01 Sep 2025 09:52:10 GMT | Crypto Heist Stats: 2025’s Half Was Worse Than All of 2024, and It Will Get Worse | Integritee Network | [Read More](https://medium.com/p/035b5a9647cc) |
 | Mon, 01 Sep 2025 09:52:08 GMT | Cloudflare Tunnel — Origin Exposure Weaponized | p4n7h3rx | [Read More](https://medium.com/p/6ae5b1f09bb2) |
@@ -40,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 09:21:56 GMT | Blackhat USA — Review and Tips for First-Time Travelers | VXRL | [Read More](https://medium.com/p/706d60bb38d8) |
 | Mon, 01 Sep 2025 09:13:49 GMT | A Comprehensive Guide to Cybersecurity Best
 Practices for Mobile and Web Applications | Secuodsoft Technologies | [Read More](https://medium.com/p/f246cf62fe37) |
+| Mon, 01 Sep 2025 09:12:53 GMT | 7 Steps to Strengthen Endpoint Security in 2025 | Ehsanm135 | [Read More](https://medium.com/p/be5a5b7f6ae8) |
 | Mon, 01 Sep 2025 09:12:41 GMT | The Hacker Who Knew My Childhood Pet’s Name | Shahzaib | [Read More](https://medium.com/p/977b463bdaea) |
 | Mon, 01 Sep 2025 09:11:57 GMT | Ethical Hacking: Breaking In to Build Better Defenses | Aj | [Read More](https://medium.com/p/c6d3555f7820) |
 | Mon, 01 Sep 2025 09:11:36 GMT | AI Innovations: Build or Buy - Why ‘Buy’ Is a Shortcut to Mediocrity | Namir Sagheenanajar | [Read More](https://medium.com/p/b02663b43bbd) |
@@ -108,8 +113,3 @@ Practices for Mobile and Web Applications | Secuodsoft Technologies | [Read More
 | Mon, 01 Sep 2025 06:32:17 GMT | Teaching Machines to Read: POS Tagging and NER in Action | Priyanyali Patel | [Read More](https://medium.com/p/1983907ea06e) |
 | Mon, 01 Sep 2025 06:31:36 GMT | Top 10 Django Security Practices Every Developer Should Know | Dipak Pawar | [Read More](https://medium.com/p/dbdc39be2748) |
 | Mon, 01 Sep 2025 06:22:29 GMT | Streamline Success with Axipro’s Expert ISO 27001 internal audit Services | Axipro | [Read More](https://medium.com/p/0d36de2e19df) |
-| Mon, 01 Sep 2025 06:21:51 GMT | Puzzle to Pwnage: Decoding Hidden Endpoints for Maximum Exploitation | Iski | [Read More](https://medium.com/p/1d2841383ddc) |
-| Mon, 01 Sep 2025 06:20:58 GMT | How Enterprise Content Management Solutions Help Reduce Operational Costs for Businesses in… | Quadrant IT Services | [Read More](https://medium.com/p/bfd29fe89302) |
-| Mon, 01 Sep 2025 06:17:39 GMT | Information Technology: A Personal and Academic Weapon | Ashley Nicole Dulhao | [Read More](https://medium.com/p/a7f2aeca9d28) |
-| Mon, 01 Sep 2025 06:17:27 GMT | How to Safeguard Your Information in Office 2024 | Mimmahmud Ticltd | [Read More](https://medium.com/p/3f5b98c820af) |
-| Mon, 01 Sep 2025 06:17:19 GMT | Monitor your Azure Security with Maester ❤️ | Brian Veldman | [Read More](https://medium.com/p/90cf7fe412e9) |
