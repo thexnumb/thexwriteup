@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 11:27:07 GMT | Pivoting with SSH Port Forwarding | Sevban Dönmez | [Read More](https://medium.com/p/6ea594ccbcb4) |
+| Mon, 01 Sep 2025 11:19:21 GMT | Applications of Machine Learning in Cybersecurity: A Comprehensive Guide | HarshathTechBlogs | [Read More](https://medium.com/p/7c2e633920cc) |
+| Mon, 01 Sep 2025 11:17:36 GMT | How to Secure Your Website from Cyber Threats in 2025 | Ambala IT | [Read More](https://medium.com/p/bdc555bd7501) |
+| Mon, 01 Sep 2025 11:11:39 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/202da286aa30) |
 | Mon, 01 Sep 2025 11:10:51 GMT | VAPI Üzerinden Adım Adım Zafiyet Analizi | muhammedenesozel | [Read More](https://medium.com/p/dede279eeff9) |
 | Mon, 01 Sep 2025 11:07:44 GMT | Dawn of Digital Synthesis | Sascha Papovich | [Read More](https://medium.com/p/191c37e699d3) |
 | Mon, 01 Sep 2025 11:06:16 GMT | How to Stop Spam Calls and Texts (2025 Guide) | Ethan Cole | [Read More](https://medium.com/p/e4d9859426b3) |
@@ -109,7 +113,3 @@ Practices for Mobile and Web Applications | Secuodsoft Technologies | [Read More
 | Mon, 01 Sep 2025 07:27:36 GMT | Ransomware and Phishing: A Growing Threat in South Africa | Onthatile M Selebano | [Read More](https://medium.com/p/6a5685c1aa31) |
 | Mon, 01 Sep 2025 07:26:45 GMT | Red Team Recon: Nmap Strategies to Bypass Security Measures (Firewall and IDS/IPS Evasion) | Janardhan Pattipati | [Read More](https://medium.com/p/79db1f66077d) |
 | Mon, 01 Sep 2025 07:24:56 GMT | The Future of Cybersecurity: 7 Key Trends Every Business Must Watch in 2025 | Secventra | [Read More](https://medium.com/p/b33cabeabad0) |
-| Mon, 01 Sep 2025 07:24:42 GMT | I Broke Rate Limits to Hijack Accounts — Without Getting Blocked | TEAM DH49 | [Read More](https://medium.com/p/d06bbdfd836a) |
-| Mon, 01 Sep 2025 07:23:01 GMT | How Scammers Use Fake Helpline Numbers to Steal Your Bank Details (And How to Stay Safe) | Darshna Chaudhary | [Read More](https://medium.com/p/36edc5a6e0b9) |
-| Mon, 01 Sep 2025 07:20:18 GMT | Cortex SOC Automation By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5007dbfffdd6) |
-| Mon, 01 Sep 2025 07:18:45 GMT | WWDC25 Updates Beyond the Glare | Yakov Manshin | [Read More](https://medium.com/p/bcd7deb6da98) |
