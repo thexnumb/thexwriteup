@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 07:36:51 GMT | Vibe Coding with AI: A Serious Problem for Web Security | Daniel Groothuis | [Read More](https://medium.com/p/b5557573ec2f) |
+| Mon, 01 Sep 2025 07:33:03 GMT | Why I started with CompTIA A+ Before Security+ and Why It Changed Everything | Incite | [Read More](https://medium.com/p/48257563a5a0) |
+| Mon, 01 Sep 2025 07:28:56 GMT | Incognito Mode: The Digital Snake Oil | Ddude | [Read More](https://medium.com/p/6d7b0cb12430) |
+| Mon, 01 Sep 2025 07:28:27 GMT | Penetration Testing as a Service (PTaaS) in the United Kingdom | QualysecEurope | [Read More](https://medium.com/p/e8fb48c529fa) |
+| Mon, 01 Sep 2025 07:27:36 GMT | Ransomware and Phishing: A Growing Threat in South Africa | Onthatile M Selebano | [Read More](https://medium.com/p/6a5685c1aa31) |
+| Mon, 01 Sep 2025 07:26:45 GMT | Red Team Recon: Nmap Strategies to Bypass Security Measures (Firewall and IDS/IPS Evasion) | Janardhan Pattipati | [Read More](https://medium.com/p/79db1f66077d) |
+| Mon, 01 Sep 2025 07:24:56 GMT | The Future of Cybersecurity: 7 Key Trends Every Business Must Watch in 2025 | Secventra | [Read More](https://medium.com/p/b33cabeabad0) |
+| Mon, 01 Sep 2025 07:24:42 GMT | I Broke Rate Limits to Hijack Accounts — Without Getting Blocked | TEAM DH49 | [Read More](https://medium.com/p/d06bbdfd836a) |
+| Mon, 01 Sep 2025 07:23:01 GMT | How Scammers Use Fake Helpline Numbers to Steal Your Bank Details (And How to Stay Safe) | Darshna Chaudhary | [Read More](https://medium.com/p/36edc5a6e0b9) |
+| Mon, 01 Sep 2025 07:20:18 GMT | Cortex SOC Automation By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5007dbfffdd6) |
+| Mon, 01 Sep 2025 07:18:45 GMT | WWDC25 Updates Beyond the Glare | Yakov Manshin | [Read More](https://medium.com/p/bcd7deb6da98) |
 | Mon, 01 Sep 2025 07:12:56 GMT | Today I Learned Something About Being an Ethical Hacker No One Should Ever Have to Discover | Vijay Kumar Gupta | [Read More](https://medium.com/p/cfc8eec34d31) |
+| Mon, 01 Sep 2025 07:11:38 GMT | The Weight Men Carry in Silence | Gursahib Singh | [Read More](https://medium.com/p/6a17673343ff) |
+| Mon, 01 Sep 2025 07:09:06 GMT | Reverse Engineering WriteUp: FactCheck picoCTF 2025 | Michael Elfauz | [Read More](https://medium.com/p/d4b96eb89caf) |
 | Mon, 01 Sep 2025 07:08:11 GMT | University Dropout Arrested After Hacking Betting Firm, Stealing Over KSh 11 Million | Phostevesachieng | [Read More](https://medium.com/p/04e0a04b51de) |
 | Mon, 01 Sep 2025 07:07:10 GMT | RST TI Report Digest: 01 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/34964ecb041c) |
 | Mon, 01 Sep 2025 07:03:20 GMT | Web Cache Nedir, Web Cache Poisoning Nedir, Nasıl Tespit Edilir, Önleme Yöntemleri | Şamil Alpay | [Read More](https://medium.com/p/065207cd47bf) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 02:14:24 GMT | Boot2Root SUNWAY CTF 2025 | k1dd0sz | [Read More](https://medium.com/p/46887bb1cb8e) |
 | Mon, 01 Sep 2025 02:08:18 GMT | The AI-Powered Workflow That Made Me Twice as Productive | Kainat Nafees | [Read More](https://medium.com/p/64dfcf5e42ee) |
 | Mon, 01 Sep 2025 02:05:48 GMT | Web Uygulamalarında XSS: Riskler, Türler ve Önlemler | Tuba ÜNSAL | [Read More](https://medium.com/p/a8ffaaae164b) |
-| Mon, 01 Sep 2025 01:52:01 GMT | Kuliah Perdana Komputer dan Masyarakat | Abdul Latif | [Read More](https://medium.com/p/1c4fdd9c1b2d) |
-| Mon, 01 Sep 2025 01:37:57 GMT | AI-Powered Continuous Threat Exposure Management (CTEM) in Cloud Environments | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b56c3df33c3b) |
-| Mon, 01 Sep 2025 01:24:34 GMT | Cloud-Native or Containerized? What Really Works for Pentest Delivery | Luis Abreu from Cyver | [Read More](https://medium.com/p/ffeeb23991b3) |
-| Mon, 01 Sep 2025 01:20:22 GMT | Building Cryptography Step by Step | Cyber Security Research | [Read More](https://medium.com/p/e6d36441c40f) |
-| Mon, 01 Sep 2025 01:20:06 GMT | HackTheBox - Poison | jniket | [Read More](https://medium.com/p/a9f1962fd213) |
-| Mon, 01 Sep 2025 01:17:08 GMT | Vouched Writeup — corCTF | Txaber Trevino | [Read More](https://medium.com/p/cd2f44096b9a) |
-| Mon, 01 Sep 2025 01:13:25 GMT | Building Cloud Security for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/707b23b60171) |
-| Mon, 01 Sep 2025 01:11:35 GMT | How to Handle File Uploads in Node.js Without Losing Your Mind | Dipak Ahirav | [Read More](https://medium.com/p/4de7167b494d) |
-| Mon, 01 Sep 2025 01:11:22 GMT | Building Cloud Security for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/e3c481ec7f0d) |
-| Mon, 01 Sep 2025 00:56:16 GMT | Episode 1: Hunting Deprecated Lambda Runtimes — Before They Become Problems | Tarek CHEIKH | [Read More](https://medium.com/p/c3bf6d831165) |
-| Mon, 01 Sep 2025 00:56:04 GMT | AWS Security & Cost Optimization Arsenal: From CLI to Lambda Automation | Tarek CHEIKH | [Read More](https://medium.com/p/d65354ba2ba0) |
-| Mon, 01 Sep 2025 00:49:34 GMT | The Zero Trust Security Model: A Complete Guide for Beginners | Samina Perveen | [Read More](https://medium.com/p/933d78894d42) |
-| Mon, 01 Sep 2025 00:46:23 GMT | Best Laptop for Each Cyber Security Domain | Anthony Mazyck | [Read More](https://medium.com/p/46dfe7584a05) |
