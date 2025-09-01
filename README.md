@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 23:26:37 GMT | ️TryHackMe Hack2Win Challenge: Room 1, Day 1 - Hydra | Chai | [Read More](https://medium.com/p/7767be169816) |
+| Mon, 01 Sep 2025 23:23:16 GMT | 09381554690 | سلام عشقای خاله این شماره جدید من است خط قبلی قطع | [Read More](https://medium.com/p/6160efeb6450) |
+| Mon, 01 Sep 2025 23:20:30 GMT | Am I Allowed to Feel This Shit? | The Career Ms | [Read More](https://medium.com/p/5e95357d5c6c) |
+| Mon, 01 Sep 2025 23:20:21 GMT | How I Lost To Primarkets _ Here is I Recover My Money | Castro Mako | [Read More](https://medium.com/p/92d8740f5086) |
 | Mon, 01 Sep 2025 23:16:12 GMT | Discover the Exciting Stories of the IT Industry from the 1970s | Stacklegend | [Read More](https://medium.com/p/01528951ff70) |
 | Mon, 01 Sep 2025 23:03:53 GMT | Modularizing the SIEM: Rethinking Security for a Composable Future | Aabhas Lal | [Read More](https://medium.com/p/53ff2893f20a) |
 | Mon, 01 Sep 2025 22:44:27 GMT | Starting My Kaizen Journey in Cybersecurity | Morontowumi Enioluwa Akinbogun | [Read More](https://medium.com/p/325f0a125ab6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 16:12:45 GMT | Basic Pentesting Walkthrough: Solving the TryHackMe Lab | Adwaith S | [Read More](https://medium.com/p/235af4cf8d3b) |
 | Mon, 01 Sep 2025 16:08:50 GMT | Let Her Be Well | Mine Falke | [Read More](https://medium.com/p/d0e43ccbb7cf) |
 | Mon, 01 Sep 2025 16:07:32 GMT | Unlocking the Binary (Part 2): Practical DynamoRIO Instrumentation in Action | Gandholi Sarat | [Read More](https://medium.com/p/09cfa0968f95) |
-| Mon, 01 Sep 2025 16:04:10 GMT | Apple Is About to Finally Give iPad Users the Best Reason to Go iPad ProApple Is About to Finally… | Motherlandlove | [Read More](https://medium.com/p/39aa39f52e4a) |
-| Mon, 01 Sep 2025 16:00:09 GMT | PromptLock: The First AI-Powered Ransomware and Why It’s a Game Changer | Akanksha | [Read More](https://medium.com/p/4a7411d9320a) |
-| Mon, 01 Sep 2025 15:55:16 GMT | Multi-cloud on autopilot: PoCs that bootstrap, configure, and self-destruct | KeyboardSamurai | [Read More](https://medium.com/p/d9a03de0b559) |
-| Mon, 01 Sep 2025 15:49:14 GMT | Will a Cybersecurity Degree Get You a Job? | Chase Kester | [Read More](https://medium.com/p/7e10f86377d2) |
