@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 21:59:59 GMT | CVE-2025–9074: Docker Desktop Container Escape Analysis | MindPatch | [Read More](https://medium.com/p/4f327a17c10f) |
+| Mon, 01 Sep 2025 21:32:58 GMT | Corridor — Hack in 5 Minutes - Write-Up #8 | D4m.sh | [Read More](https://medium.com/p/ebfb1a40ab8e) |
 | Mon, 01 Sep 2025 21:06:33 GMT | Full Weak Engineer CTF 2025 Writeups - 0xSn0w | Tamimsharif | [Read More](https://medium.com/p/afde1afe5be6) |
 | Mon, 01 Sep 2025 20:57:52 GMT | Editor Write-up - HackTheBox - Season 8 | debang5hu | [Read More](https://medium.com/p/2a7eb3383a04) |
 | Mon, 01 Sep 2025 20:43:05 GMT | Inside the PEB: How Malware Resolves APIs Without Imports | Itz.sanskarr | [Read More](https://medium.com/p/81f7d03bcfc5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 15:22:19 GMT | The Silent Threat Inside Your Supply Chain | R A N A   A H M A D | [Read More](https://medium.com/p/396c3f518a4e) |
 | Mon, 01 Sep 2025 15:21:29 GMT | Encryption Explained: How We Keep Secrets in the Digital World | Hirad Showghi | [Read More](https://medium.com/p/9ea0c09cd6f2) |
 | Mon, 01 Sep 2025 15:05:33 GMT | Cyber Threats Are Evolving — Is Your Business Ready? | Dr. Shashi Karhail | [Read More](https://medium.com/p/e242821d6065) |
-| Mon, 01 Sep 2025 15:01:40 GMT | ️ The Hidden Dangers: Top 5 Cybersecurity Risks of Using AI Tools | PromptSecAI | [Read More](https://medium.com/p/519875523dda) |
-| Mon, 01 Sep 2025 14:57:36 GMT | Why Deepfake Technology Will Break Reality in 2026 | The Bot Group | [Read More](https://medium.com/p/8630a649b6b6) |
