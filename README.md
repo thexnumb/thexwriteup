@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 03:15:02 GMT | Networks are really important for keeping things safe because they’re how we communicate. | Zulfianarahmi | [Read More](https://medium.com/p/4f4c6351dd96) |
+| Mon, 01 Sep 2025 03:10:10 GMT | CISSP Success Toolkit at Cybernous: Your Path to Certification Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/1d6ec9d22464) |
+| Mon, 01 Sep 2025 03:04:02 GMT | RCE Risk in Yonyou U8Cloud: ServiceDispatcher Deserialization Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/047f2c046f4d) |
+| Mon, 01 Sep 2025 03:01:20 GMT | Scaling Your Crypto Returns with BUG | BUG | [Read More](https://medium.com/p/be40e17da3db) |
+| Mon, 01 Sep 2025 03:00:53 GMT | Building a Lightweight EDR Lab for Threat Detection & Incident Response | Ajay | [Read More](https://medium.com/p/b642434404df) |
+| Mon, 01 Sep 2025 02:57:40 GMT | Safeguarding Privacy in the Age of AI Agents | Geek Nomad | [Read More](https://medium.com/p/8a130a41a1d3) |
+| Mon, 01 Sep 2025 02:56:07 GMT | The Role of Certificates in Authentication and Secure Communication | Malith Dilshan | [Read More](https://medium.com/p/7daddaf1393a) |
+| Mon, 01 Sep 2025 02:55:59 GMT | Why Ransomware Gangs Are Now Targeting APIs and SaaS Apps | Paritosh | [Read More](https://medium.com/p/eb08cd045ad2) |
+| Mon, 01 Sep 2025 02:55:41 GMT | Why Information Security Isn’t Just for IT Teams Anymore | Aj | [Read More](https://medium.com/p/7af4bfcac4f2) |
+| Mon, 01 Sep 2025 02:48:08 GMT | The $47 Million Hack That Started With a Click | Akilnath Bodipudi | [Read More](https://medium.com/p/9ec8b9a481ec) |
+| Mon, 01 Sep 2025 02:31:36 GMT | The Network’s Reach: Understanding LAN and WAN | Keerthan V Suvarna | [Read More](https://medium.com/p/dccd0115f3cc) |
+| Mon, 01 Sep 2025 02:23:21 GMT | Blocked in the Wild: What Anthropic’s “Claude Misuse” Case Means for Your Team | Arthi Rajendran | [Read More](https://medium.com/p/fb8876d05038) |
+| Mon, 01 Sep 2025 02:17:18 GMT | The Rise of AI-Generated Ransomware & Insider Threats: Redefining Cybersecurity in 2025 | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/64bdc0443c3a) |
+| Mon, 01 Sep 2025 02:14:24 GMT | Boot2Root SUNWAY CTF 2025 | k1dd0sz | [Read More](https://medium.com/p/46887bb1cb8e) |
+| Mon, 01 Sep 2025 02:08:18 GMT | The AI-Powered Workflow That Made Me Twice as Productive | Kainat Nafees | [Read More](https://medium.com/p/64dfcf5e42ee) |
+| Mon, 01 Sep 2025 02:05:48 GMT | Web Uygulamalarında XSS: Riskler, Türler ve Önlemler | Tuba ÜNSAL | [Read More](https://medium.com/p/a8ffaaae164b) |
+| Mon, 01 Sep 2025 01:52:01 GMT | Kuliah Perdana Komputer dan Masyarakat | Abdul Latif | [Read More](https://medium.com/p/1c4fdd9c1b2d) |
 | Mon, 01 Sep 2025 01:37:57 GMT | AI-Powered Continuous Threat Exposure Management (CTEM) in Cloud Environments | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b56c3df33c3b) |
 | Mon, 01 Sep 2025 01:24:34 GMT | Cloud-Native or Containerized? What Really Works for Pentest Delivery | Luis Abreu from Cyver | [Read More](https://medium.com/p/ffeeb23991b3) |
 | Mon, 01 Sep 2025 01:20:22 GMT | Building Cryptography Step by Step | Cyber Security Research | [Read More](https://medium.com/p/e6d36441c40f) |
@@ -28,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 00:17:12 GMT | Practice Basic Hydra: Testing Login Security | Zulfianarahmi | [Read More](https://medium.com/p/3cbe55d4fbbf) |
 | Mon, 01 Sep 2025 00:17:12 GMT | Redisl33t — TryHackMe CTF Room Walk-through | Deep chotaliya | [Read More](https://medium.com/p/c7ad5947057c) |
 | Mon, 01 Sep 2025 00:12:10 GMT | Inside RubyGems’ Silent War Against Malicious Packages: A Developer’s Reality Check | Mi Do | [Read More](https://medium.com/p/384b48861ade) |
+| Mon, 01 Sep 2025 00:00:20 GMT | “We are currently clean on OPSEC” | Andrew Paul | [Read More](https://medium.com/p/a2d50a95780e) |
 | Sun, 31 Aug 2025 23:41:13 GMT | Advanced GitHub Recon for Sensitive Data Exposure (Like a Pro Bug Hunter) | samael0x4 | [Read More](https://medium.com/p/e8fff20fe4b6) |
 | Sun, 31 Aug 2025 23:33:07 GMT | What I Learned From Getting Rejected by Amazon: A Security Engineer’s Interview Experience | Yuva Surya Konatham | [Read More](https://medium.com/p/293e65a2f942) |
 | Sun, 31 Aug 2025 23:25:23 GMT | Light and Shadow | Contagious Vulnerability | [Read More](https://medium.com/p/0a009ab398c1) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 17:24:40 GMT | When Access Control Fails: Local File Inclusion ($100–$500) | Abin | [Read More](https://medium.com/p/445f15c6b9d7) |
 | Sun, 31 Aug 2025 17:24:02 GMT | Turning Feedback into Fuel: Growth Strategies for Vulnerable Leaders | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/1df0a70f5fe5) |
 | Sun, 31 Aug 2025 17:21:25 GMT | Yapay Zekada Bilinçaltı Tehlikesi | Emir Ekrem Kaya | [Read More](https://medium.com/p/1f99cfad338d) |
-| Sun, 31 Aug 2025 17:19:22 GMT | Think Your Gmail Is Safe? Google Just Told Billions to Change Passwords, know why?? | cybrNK | [Read More](https://medium.com/p/9441ffc73acb) |
-| Sun, 31 Aug 2025 17:14:03 GMT | Reflected XSS in Login Form (Email & Password Fields) Vvveb CMS v1.0.7.2 | Andrew Paul | [Read More](https://medium.com/p/18800186804d) |
-| Sun, 31 Aug 2025 17:11:19 GMT | Full ATO via custom metadata manipulation in AWS Cognito Misconfigured Application | Hazem El-Sayed | [Read More](https://medium.com/p/1628c43417f0) |
-| Sun, 31 Aug 2025 17:11:13 GMT | Installasi Pengkabelan dalam Jaringan Komputer | fijrisalwa | [Read More](https://medium.com/p/e5d1cb8d655a) |
-| Sun, 31 Aug 2025 17:05:43 GMT | Do It Yourself — One Weekend, 2 CVEs | Chux | [Read More](https://medium.com/p/bc6a946a8261) |
-| Sun, 31 Aug 2025 17:02:37 GMT | Thailand Cyber Top Talent2025 (Senior) | O - Opsifiz | [Read More](https://medium.com/p/8a9b62d83c19) |
-| Sun, 31 Aug 2025 17:02:22 GMT | One Click Away: Lessons from My GoPhish Experiment | Abhiram Laha | [Read More](https://medium.com/p/a1720809c2e4) |
-| Sun, 31 Aug 2025 16:53:30 GMT | From Data Centers to Cybersecurity: Evan Vitale Breaks Down Why Private Equity Is Betting Big on… | Evan Vitale | [Read More](https://medium.com/p/69a9c9d5b1c4) |
-| Sun, 31 Aug 2025 16:48:30 GMT | Building Cloud Security for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/7de530973b94) |
-| Sun, 31 Aug 2025 16:47:18 GMT | Assigning a fixed (static) IP address—and knowing the precise geographic location—for each… | Sachit Joe Almeida | [Read More](https://medium.com/p/df7330e71c41) |
-| Sun, 31 Aug 2025 16:47:01 GMT | Installing a robust, paid premium Internet security suite on all your devices | Sachit Joe Almeida | [Read More](https://medium.com/p/029380145745) |
-| Sun, 31 Aug 2025 16:46:05 GMT | How I Explored Qatar Airways’ Complimentary Wi-Fi (And What It Taught Me About Security) | Samer Tufail | [Read More](https://medium.com/p/3de4e24563d5) |
-| Sun, 31 Aug 2025 16:46:04 GMT | Importance of Keeping your fiber‑optic modem and router up to date | Sachit Joe Almeida | [Read More](https://medium.com/p/8ef778c64112) |
-| Sun, 31 Aug 2025 16:45:40 GMT | Keeping all parts of your Android environment up‑to‑date | Sachit Joe Almeida | [Read More](https://medium.com/p/1fe0b2440af0) |
-| Sun, 31 Aug 2025 16:42:37 GMT | Google Issues Warning to Certain Users After Leaked Data Hack | Chandima Galahitiyawa | [Read More](https://medium.com/p/8c2ff7f19190) |
-| Sun, 31 Aug 2025 16:42:05 GMT | Week 4 of My 90-Day Challenge: Bug Bounty from a New Perspective | Mike (sl0th0x87) | [Read More](https://medium.com/p/1aec02d55185) |
-| Sun, 31 Aug 2025 16:36:09 GMT | Building Cloud Security That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/0d8b785a851b) |
-| Sun, 31 Aug 2025 16:32:04 GMT | HITRUST Isn’t Just for Healthcare: Common Myths Explained | Ampcus Cyber | [Read More](https://medium.com/p/d1f1bf6d19ca) |
