@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 07:12:56 GMT | Today I Learned Something About Being an Ethical Hacker No One Should Ever Have to Discover | Vijay Kumar Gupta | [Read More](https://medium.com/p/cfc8eec34d31) |
+| Mon, 01 Sep 2025 07:08:11 GMT | University Dropout Arrested After Hacking Betting Firm, Stealing Over KSh 11 Million | Phostevesachieng | [Read More](https://medium.com/p/04e0a04b51de) |
+| Mon, 01 Sep 2025 07:07:10 GMT | RST TI Report Digest: 01 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/34964ecb041c) |
+| Mon, 01 Sep 2025 07:03:20 GMT | Web Cache Nedir, Web Cache Poisoning Nedir, Nasıl Tespit Edilir, Önleme Yöntemleri | Şamil Alpay | [Read More](https://medium.com/p/065207cd47bf) |
+| Mon, 01 Sep 2025 07:01:39 GMT | In moonlight…black boys look blue. | Nadine | [Read More](https://medium.com/p/af5607670e54) |
+| Mon, 01 Sep 2025 06:56:42 GMT | AI Agents Are Hunting: Your Network Is No Longer Safe Without Them | Tapan Kumar Patro | [Read More](https://medium.com/p/f036cb10494f) |
+| Mon, 01 Sep 2025 06:55:38 GMT | Checkpoint Firewall Certification Program — Boost Your Cybersecurity Skills | Skills For Everyone | [Read More](https://medium.com/p/fe8caca28671) |
+| Mon, 01 Sep 2025 06:54:58 GMT | Why MDM Software Features Are Crucial for Modern Enterprises | Vantage MDM | [Read More](https://medium.com/p/c6e894d59236) |
+| Mon, 01 Sep 2025 06:53:22 GMT | HTB-LAB Local File Inclusion (LFI) | Tsh0x; | [Read More](https://medium.com/p/5061ab1b4299) |
+| Mon, 01 Sep 2025 06:51:33 GMT | The Future of Web3 Security: Why Drosera Network Matters | Jayne | [Read More](https://medium.com/p/c253ed8e9ec7) |
+| Mon, 01 Sep 2025 06:51:14 GMT | Step-by-Step Guide: Running WordPress Securely with Docker, Nginx, and SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/188b5017a281) |
+| Mon, 01 Sep 2025 06:42:20 GMT | How I Bypassed VPN Detection, Broke Client-Side Crypto and Found Multiple IDORS | Wajid Ahadpoor | [Read More](https://medium.com/p/5cdf0cd4ac84) |
+| Mon, 01 Sep 2025 06:41:02 GMT | The Dark Mirror: When AI Becomes the Perfect Criminal Accomplice | Rachana Gupta | [Read More](https://medium.com/p/6ea47d8f60e7) |
+| Mon, 01 Sep 2025 06:33:39 GMT | BCA in Cyber Security — Shape Your Future in the Digital Security Domain | Gulafsha Sheikh | [Read More](https://medium.com/p/62bc0cb91fef) |
 | Mon, 01 Sep 2025 06:32:56 GMT | Lab Walkthrough: Exploiting Path Mapping for Web Cache Deception | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/f13dc14b179f) |
+| Mon, 01 Sep 2025 06:32:17 GMT | Teaching Machines to Read: POS Tagging and NER in Action | Priyanyali Patel | [Read More](https://medium.com/p/1983907ea06e) |
+| Mon, 01 Sep 2025 06:31:36 GMT | Top 10 Django Security Practices Every Developer Should Know | Dipak Pawar | [Read More](https://medium.com/p/dbdc39be2748) |
+| Mon, 01 Sep 2025 06:22:29 GMT | Streamline Success with Axipro’s Expert ISO 27001 internal audit Services | Axipro | [Read More](https://medium.com/p/0d36de2e19df) |
 | Mon, 01 Sep 2025 06:21:51 GMT | Puzzle to Pwnage: Decoding Hidden Endpoints for Maximum Exploitation | Iski | [Read More](https://medium.com/p/1d2841383ddc) |
 | Mon, 01 Sep 2025 06:20:58 GMT | How Enterprise Content Management Solutions Help Reduce Operational Costs for Businesses in… | Quadrant IT Services | [Read More](https://medium.com/p/bfd29fe89302) |
 | Mon, 01 Sep 2025 06:17:39 GMT | Information Technology: A Personal and Academic Weapon | Ashley Nicole Dulhao | [Read More](https://medium.com/p/a7f2aeca9d28) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 00:56:04 GMT | AWS Security & Cost Optimization Arsenal: From CLI to Lambda Automation | Tarek CHEIKH | [Read More](https://medium.com/p/d65354ba2ba0) |
 | Mon, 01 Sep 2025 00:49:34 GMT | The Zero Trust Security Model: A Complete Guide for Beginners | Samina Perveen | [Read More](https://medium.com/p/933d78894d42) |
 | Mon, 01 Sep 2025 00:46:23 GMT | Best Laptop for Each Cyber Security Domain | Anthony Mazyck | [Read More](https://medium.com/p/46dfe7584a05) |
-| Mon, 01 Sep 2025 00:44:52 GMT | How I Used Python Enums to Clean Up My Trading Bots and E-Commerce Scripts | Dustdusky | [Read More](https://medium.com/p/3dc26dd00d99) |
-| Mon, 01 Sep 2025 00:17:12 GMT | Practice Basic Hydra: Testing Login Security | Zulfianarahmi | [Read More](https://medium.com/p/3cbe55d4fbbf) |
-| Mon, 01 Sep 2025 00:17:12 GMT | Redisl33t — TryHackMe CTF Room Walk-through | Deep chotaliya | [Read More](https://medium.com/p/c7ad5947057c) |
-| Mon, 01 Sep 2025 00:12:10 GMT | Inside RubyGems’ Silent War Against Malicious Packages: A Developer’s Reality Check | Mi Do | [Read More](https://medium.com/p/384b48861ade) |
-| Mon, 01 Sep 2025 00:00:20 GMT | “We are currently clean on OPSEC” | Andrew Paul | [Read More](https://medium.com/p/a2d50a95780e) |
-| Sun, 31 Aug 2025 23:41:13 GMT | Advanced GitHub Recon for Sensitive Data Exposure (Like a Pro Bug Hunter) | samael0x4 | [Read More](https://medium.com/p/e8fff20fe4b6) |
-| Sun, 31 Aug 2025 23:33:07 GMT | What I Learned From Getting Rejected by Amazon: A Security Engineer’s Interview Experience | Yuva Surya Konatham | [Read More](https://medium.com/p/293e65a2f942) |
-| Sun, 31 Aug 2025 23:25:23 GMT | Light and Shadow | Contagious Vulnerability | [Read More](https://medium.com/p/0a009ab398c1) |
-| Sun, 31 Aug 2025 23:06:00 GMT | TryHackMe — REvil Corp Writeup | 3IA | [Read More](https://medium.com/p/4f15d67882de) |
-| Sun, 31 Aug 2025 23:04:30 GMT | Shell Escapes: The Hidden Danger in Sudo Rules | fe4a | [Read More](https://medium.com/p/f5740d2353b2) |
-| Sun, 31 Aug 2025 22:57:39 GMT | Every Senior Engineer I Know Uses This Debugger Trick | ArchitectOfExperience | [Read More](https://medium.com/p/4af19cae2f87) |
-| Sun, 31 Aug 2025 22:41:46 GMT | ZAPROXY con Jython Reglas Pasiva 2 | alejandro | [Read More](https://medium.com/p/3c037215d1de) |
-| Sun, 31 Aug 2025 22:37:21 GMT | How to claim blockdag staking bonuses 2025 | Bitcoinpepe | [Read More](https://medium.com/p/1ea64c8d320a) |
-| Sun, 31 Aug 2025 22:31:35 GMT | FastAPI Security Best Practices: Protecting Your APIs Like a Pro | Prabha Obulichetty | [Read More](https://medium.com/p/083736e65c08) |
-| Sun, 31 Aug 2025 22:03:56 GMT | Foundations of Disinformation Analysis: Understanding the Threat in the Digital Age | Habeeb CM Cyber | [Read More](https://medium.com/p/d9ac499e501c) |
-| Sun, 31 Aug 2025 21:28:23 GMT | threat hunting part 1: malware persistence through masquerading | Sirine Amrane | [Read More](https://medium.com/p/a3025d9624d0) |
-| Sun, 31 Aug 2025 21:02:21 GMT | I Almost Closed the Tab on My Biggest Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/8685ef3d2f46) |
