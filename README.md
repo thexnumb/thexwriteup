@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 04:38:42 GMT | AT&T Reaches $177 Million Settlement After Major 2024 Data Breaches | SafetyDetectives Research Team | [Read More](https://medium.com/p/8d53f71b0cc0) |
+| Mon, 01 Sep 2025 04:35:27 GMT | Understanding SSH, SSL, and Key Networking Security Terminologies: A Complete Guide | Rohan Mistry | [Read More](https://medium.com/p/6f2e72a33224) |
+| Mon, 01 Sep 2025 04:35:20 GMT | CAB CHRONICLES 85: THE LAST RIDE | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/dc63ada45b95) |
+| Mon, 01 Sep 2025 04:32:54 GMT | The Night Port 443 Went Dark in China: Was It a Downgrade Attack Test? | VaRiOus_CanAriEs | [Read More](https://medium.com/p/5f197b35ac83) |
+| Mon, 01 Sep 2025 04:25:54 GMT | Skills Then and Now: A Cybersecurity Generational Reflection | Taulan Zauzanov | [Read More](https://medium.com/p/9c35b954fcc7) |
+| Mon, 01 Sep 2025 04:21:27 GMT | Why I Always Set a Login Banner on Linux Servers (and What I Put in It) | Faruk Ahmed | [Read More](https://medium.com/p/60eec3336f3b) |
+| Mon, 01 Sep 2025 04:19:35 GMT | Day 13: File Permissions in Linux | Prutha_Dongre | [Read More](https://medium.com/p/b8bb02a8886c) |
+| Mon, 01 Sep 2025 04:09:35 GMT | 10 Steps to Create Secure Download Links | Arunangshu Das | [Read More](https://medium.com/p/77b205a5792b) |
+| Mon, 01 Sep 2025 04:03:43 GMT | When AI Turns Rogue: ScamAgent, Supply Chains, and the New Cybercrime Wave | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/e9bbe6a4b43d) |
+| Mon, 01 Sep 2025 04:00:52 GMT | Splunk Core Certified Power User(SPLK 1002) Certification: My Journey to Becoming a Splunker | Aarushi Mishra | [Read More](https://medium.com/p/c20453b7518c) |
+| Mon, 01 Sep 2025 04:00:38 GMT | THE DARK SIDES OF THE INTERNET: HIDDEN RISKS BEHIND THE SCREEN | Sidd Chaudhary | [Read More](https://medium.com/p/fa13476d2e18) |
+| Mon, 01 Sep 2025 03:55:12 GMT | Fluent, Secure, and Laravel-Ready: Meet LaraPath | Sadique Ali | [Read More](https://medium.com/p/723e370acc9b) |
+| Mon, 01 Sep 2025 03:51:40 GMT | We Told You So: Nevada’s Ransomware Meltdown Proves Spartan Aegis Was Right | Ted Rogers | [Read More](https://medium.com/p/d38b8f4b49b1) |
 | Mon, 01 Sep 2025 03:48:12 GMT | How to Allow Nextcloud Backup Files with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/32bc5436a545) |
 | Mon, 01 Sep 2025 03:45:39 GMT | Understanding Web Assembly Architecture | Batuhan Sancak | [Read More](https://medium.com/p/d65549e58014) |
 | Mon, 01 Sep 2025 03:32:25 GMT | When the Skies Fill with Drones: Security, Piracy, and the Future of Hardened Return-to-Home | Robert Schryvers ChT | [Read More](https://medium.com/p/f9945d45398e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 Aug 2025 18:20:42 GMT | The First 3 Things Every Beginner Should Know About Web Security | Vardaa Maheshwari | [Read More](https://medium.com/p/cc35b9c7ddba) |
 | Sun, 31 Aug 2025 18:20:10 GMT | Salt Typhoon’s Expanding Threat Landscape | Chetan Seripally | [Read More](https://medium.com/p/b9de82628a1b) |
 | Sun, 31 Aug 2025 18:19:07 GMT | The Invisible War: What No One Tells You About the Digital Battlefield | Shahzaib | [Read More](https://medium.com/p/64cffeb31da2) |
-| Sun, 31 Aug 2025 18:11:51 GMT | SHAMOS macOS Malware Explained: The Infostealer You Can’t Ignore | Motasem Hamdan | [Read More](https://medium.com/p/3bcd732ae15e) |
-| Sun, 31 Aug 2025 18:10:13 GMT | Casual Hackathon 第五期：My First DApp 黑客松 Recap | LXDAO | [Read More](https://medium.com/p/7156af46eaa7) |
-| Sun, 31 Aug 2025 18:09:56 GMT | The Fraud’s Suit. | Spiral Patterns | [Read More](https://medium.com/p/ce3aa7661f86) |
-| Sun, 31 Aug 2025 18:03:18 GMT | PicoCTF — Vault Door 4 | EtcSec | [Read More](https://medium.com/p/3d0e3661e5f4) |
-| Sun, 31 Aug 2025 18:02:31 GMT | How Anime Helped Me Learn Cybersecurity | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/914c49661383) |
-| Sun, 31 Aug 2025 18:02:20 GMT | Can You Hack My Friend’s Instagram? — What People Get Wrong About Cybersecurity | Prithvigudodagi | [Read More](https://medium.com/p/f8ec1313434a) |
-| Sun, 31 Aug 2025 18:00:47 GMT | Exploring the World’s Biggest Data Breaches | Osob | [Read More](https://medium.com/p/cf43f42a2743) |
-| Sun, 31 Aug 2025 17:55:41 GMT | I Built a Security Scanner for Neovim (And Made It Open Source!) | Pooja | [Read More](https://medium.com/p/aec724049b90) |
-| Sun, 31 Aug 2025 17:53:20 GMT | Cybersecurity Showdown: India’s Data Sovereignty vs China’s Great Firewall | Arjun. S. Gaikwad | [Read More](https://medium.com/p/5b08f79ca8f3) |
-| Sun, 31 Aug 2025 17:51:47 GMT | Inside Apple’s T2: What Every Responder and Security Pro Needs to Know | Ronak Sharma | [Read More](https://medium.com/p/56a4a4adae00) |
-| Sun, 31 Aug 2025 17:45:37 GMT | The Biggest Challenge for AI SaaS in 2025 (Hint: It’s Not Innovation) | Tejash Choudhary | [Read More](https://medium.com/p/263128b1ab99) |
-| Sun, 31 Aug 2025 17:44:45 GMT | The Complete Path to Cybersecurity: From Beginner to Expert | Mian Hammad | [Read More](https://medium.com/p/e84fafff26ed) |
-| Sun, 31 Aug 2025 17:42:57 GMT | HTB Cap Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/ac042fe64140) |
