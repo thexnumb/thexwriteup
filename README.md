@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Sep 2025 16:20:08 GMT | When Backups Become Attack Vectors | Hantz Jermain | [Read More](https://medium.com/p/14cb73034192) |
+| Mon, 01 Sep 2025 16:19:46 GMT | Risk-based Vulnerability Management (RBVM) is Dead… Long Live RBVM | Rachana Gupta | [Read More](https://medium.com/p/5938dbe89551) |
+| Mon, 01 Sep 2025 16:17:42 GMT | Securing Web Assembly Modules in Browser Contexts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7de98b08166b) |
+| Mon, 01 Sep 2025 16:12:45 GMT | Basic Pentesting Walkthrough: Solving the TryHackMe Lab | Adwaith S | [Read More](https://medium.com/p/235af4cf8d3b) |
+| Mon, 01 Sep 2025 16:08:50 GMT | Let Her Be Well | Mine Falke | [Read More](https://medium.com/p/d0e43ccbb7cf) |
+| Mon, 01 Sep 2025 16:07:32 GMT | Unlocking the Binary (Part 2): Practical DynamoRIO Instrumentation in Action | Gandholi Sarat | [Read More](https://medium.com/p/09cfa0968f95) |
+| Mon, 01 Sep 2025 16:04:10 GMT | Apple Is About to Finally Give iPad Users the Best Reason to Go iPad ProApple Is About to Finally… | Motherlandlove | [Read More](https://medium.com/p/39aa39f52e4a) |
+| Mon, 01 Sep 2025 16:00:09 GMT | PromptLock: The First AI-Powered Ransomware and Why It’s a Game Changer | Akanksha | [Read More](https://medium.com/p/4a7411d9320a) |
+| Mon, 01 Sep 2025 15:55:16 GMT | Multi-cloud on autopilot: PoCs that bootstrap, configure, and self-destruct | KeyboardSamurai | [Read More](https://medium.com/p/d9a03de0b559) |
+| Mon, 01 Sep 2025 15:49:14 GMT | Will a Cybersecurity Degree Get You a Job? | Chase Kester | [Read More](https://medium.com/p/7e10f86377d2) |
+| Mon, 01 Sep 2025 15:42:18 GMT | What Is Criminology? | oluwagbotemi ayomide | [Read More](https://medium.com/p/89c0f65a7996) |
+| Mon, 01 Sep 2025 15:39:13 GMT | The Future I See with Drosera Network In DeFi | Gen. Dave | [Read More](https://medium.com/p/e70746af1818) |
 | Mon, 01 Sep 2025 15:32:17 GMT | Introduction to Phishing — TryHackMe Simulator — My Overview | Forrest Caffray | [Read More](https://medium.com/p/28950f91d84a) |
 | Mon, 01 Sep 2025 15:32:02 GMT | I Dread The Night — In Oklahoma | Kate Englebrecht | [Read More](https://medium.com/p/2faba92d211b) |
 | Mon, 01 Sep 2025 15:31:11 GMT | Detecting exposed llm servers: shodan case study on ollama | Yaniv | [Read More](https://medium.com/p/1192953ab7c1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 11:11:39 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/202da286aa30) |
 | Mon, 01 Sep 2025 11:10:51 GMT | VAPI Üzerinden Adım Adım Zafiyet Analizi | muhammedenesozel | [Read More](https://medium.com/p/dede279eeff9) |
 | Mon, 01 Sep 2025 11:07:44 GMT | Dawn of Digital Synthesis | Sascha Papovich | [Read More](https://medium.com/p/191c37e699d3) |
-| Mon, 01 Sep 2025 11:06:16 GMT | How to Stop Spam Calls and Texts (2025 Guide) | Ethan Cole | [Read More](https://medium.com/p/e4d9859426b3) |
-| Mon, 01 Sep 2025 11:03:17 GMT | Introduction | TechIncisive | [Read More](https://medium.com/p/bf32330d5a25) |
-| Mon, 01 Sep 2025 11:01:43 GMT | It’s Not the Rain I Hate, It’s the Loneliness Inside It | Her Out-of-Office Feelings | [Read More](https://medium.com/p/0812b70efb25) |
-| Mon, 01 Sep 2025 10:57:16 GMT | Linux File Permissions Exploits Every Hacker Should Know | Very Lazy Tech | [Read More](https://medium.com/p/55d735af908a) |
-| Mon, 01 Sep 2025 10:55:30 GMT | Start Your Cybersecurity Career with Cisco CBROPS v1.2 — Certification Training | Aaqib Rajput | [Read More](https://medium.com/p/5fa60114e841) |
-| Mon, 01 Sep 2025 10:55:19 GMT | The AI Necklace That Listens? Friend or a Hacker’s Goldmine in Disguise | itsShotgun | [Read More](https://medium.com/p/b2c44e611a52) |
-| Mon, 01 Sep 2025 10:54:01 GMT | Key Insights On Technology Sector Featuring Top Nasdaq Stocks This Year | Miller Smith | [Read More](https://medium.com/p/204096a603ca) |
-| Mon, 01 Sep 2025 10:52:57 GMT | Survey of Scientific Large Language Models and feedback loop to solve data wall | Berend Watchus | [Read More](https://medium.com/p/d30be8dda1e5) |
-| Mon, 01 Sep 2025 10:50:55 GMT | Is AI Making Cybersecurity Burnout Worse in India? | Prerna Shukla | [Read More](https://medium.com/p/649162c11433) |
-| Mon, 01 Sep 2025 10:48:55 GMT | Fintech App Security: Comprehensive Guide to Protecting Your Fintech Application | Neontri | [Read More](https://medium.com/p/210b12bfa717) |
-| Mon, 01 Sep 2025 10:48:48 GMT | What Is AMC Meaning in IT Services in Dubai? | Cost To Cost | [Read More](https://medium.com/p/aa81b75d6cfe) |
-| Mon, 01 Sep 2025 10:48:15 GMT | NIST Cybersecurity for Small Businesses: The Secret to Stress-Free Compliance | SecureSlate | [Read More](https://medium.com/p/e25c1b1a4fa0) |
