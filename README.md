@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 10:16:17 GMT | Best Lease Management Software In India For Retail Business | Gowthammathiew | [Read More](https://medium.com/p/86e28dc02ac4) |
+| Tue, 02 Sep 2025 10:14:34 GMT | From Gmail to Gmàil: A Punycode Path to Account Takeover | Minio Haxer | [Read More](https://medium.com/p/88896264acdb) |
+| Tue, 02 Sep 2025 10:12:08 GMT | How I Was Able to Make $160 and Protect Multiple Global Brands from Shopify API Credential Leaks | Omar | [Read More](https://medium.com/p/e64dcc7211b8) |
+| Tue, 02 Sep 2025 10:03:34 GMT | Your Trusted IT Services Company in Bangalore for Smarter Business | Pat Aditya | [Read More](https://medium.com/p/7a5b7e6589a9) |
+| Tue, 02 Sep 2025 10:01:10 GMT | I hacked my entire College’s Wi-Fi Network! | Akash Singh | [Read More](https://medium.com/p/2869e7e77077) |
+| Tue, 02 Sep 2025 10:00:57 GMT | Unleash the Power of JS Link Finder: Hunt Hidden Endpoints Like a Pro | Monika sharma | [Read More](https://medium.com/p/deb77530155f) |
+| Tue, 02 Sep 2025 09:57:01 GMT | Why a Founder Switched from Flutterflow to B8 — And Gained a Fully Functional MVP That Helped… | Johnbutcher | [Read More](https://medium.com/p/9664fe3ff741) |
+| Tue, 02 Sep 2025 09:56:42 GMT | SPARK Matrix™: Top Behavioral Biometrics and Device Intelligence Solutions for Fraud Prevention | Gargiben | [Read More](https://medium.com/p/8abf158d0e76) |
+| Tue, 02 Sep 2025 09:54:10 GMT | The Explosive Surge of CVEs: How AI-Accelerated Attacks Are Outpacing Global Defences | Abatis ABTU | [Read More](https://medium.com/p/5923a2102060) |
+| Tue, 02 Sep 2025 09:50:59 GMT | AI in Cybersecurity: Instant Incident Response | Roman Kamnev | [Read More](https://medium.com/p/563e894c4ba7) |
+| Tue, 02 Sep 2025 09:47:06 GMT | THE TROUBLESHOOTING PROCESS | Cyber Timi | [Read More](https://medium.com/p/4727b0d7105f) |
+| Tue, 02 Sep 2025 09:44:50 GMT | 5 Myths About Gmail to Outlook Migration You Shouldn’t Believe | Arun Jyothi | [Read More](https://medium.com/p/5444e4d744d6) |
+| Tue, 02 Sep 2025 09:43:37 GMT | Women in Cybersecurity Why Representation Still Matters | Rue | [Read More](https://medium.com/p/8faee1f634a0) |
+| Tue, 02 Sep 2025 09:40:18 GMT | Abnormal Function Calls: Prologue and Epilogue | R.D.Tarun | [Read More](https://medium.com/p/d9bd724bd9af) |
 | Tue, 02 Sep 2025 09:35:16 GMT | Boosting Productivity and Security with Modern Business Solutions | Aishwarya | [Read More](https://medium.com/p/c2d0a7601b65) |
+| Tue, 02 Sep 2025 09:32:15 GMT | Discovering Your Purpose Through Vulnerability | Leon Bloder | [Read More](https://medium.com/p/b3d9bb75d772) |
 | Tue, 02 Sep 2025 09:31:42 GMT | Tech Trends 2025: Top 10 You Can’t Ignore | Hash Block | [Read More](https://medium.com/p/5e05dfd20aa5) |
 | Tue, 02 Sep 2025 09:31:24 GMT | React.js Security Misconfiguration: Fixes & Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/3e4c3f11a676) |
 | Tue, 02 Sep 2025 09:30:29 GMT | Backup Strategies That Actually Work: Protect Data, Cut Cloud Costs, Recover Faster | Iliya Garakh | [Read More](https://medium.com/p/55b0efd5c89d) |
@@ -98,18 +113,3 @@ By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f
 | Tue, 02 Sep 2025 05:06:39 GMT | Would You Leave Your Front Door Open? Why OWASP Top 10 Matters for Every Web App | Baljinder Singh | [Read More](https://medium.com/p/a130c2d8e294) |
 | Tue, 02 Sep 2025 05:01:49 GMT | ESSENTIAL SECURITY SUITE (ESS) for Small and Medium Business by Palo Alto Networks | Juara IT Solutions | [Read More](https://medium.com/p/58e9638702a3) |
 | Tue, 02 Sep 2025 04:55:12 GMT | 5 Simple Cybersecurity Tips Every Aussie Small Business Should Know in 2025 | Ahmed Ali | [Read More](https://medium.com/p/047b57f6df41) |
-| Tue, 02 Sep 2025 04:49:31 GMT | Laravel API Authentication: Secure Your Endpoints Effectively | Smit Pipaliya | [Read More](https://medium.com/p/48061cbaeebd) |
-| Tue, 02 Sep 2025 04:41:32 GMT | How AI Is Quietly Redefining Privacy, Jobs, and Society in 2025 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/24087685960f) |
-| Tue, 02 Sep 2025 04:36:19 GMT | Enhancing hotel Security through Video Analytics in Qatar | Mohd Armaan | [Read More](https://medium.com/p/13e156dd161f) |
-| Tue, 02 Sep 2025 04:29:30 GMT | Portswigger Web Security Academy - API Testing Lab #1 | BooRuleDie | [Read More](https://medium.com/p/37ba36672165) |
-| Tue, 02 Sep 2025 04:28:39 GMT | Bug Bounty: checklist template for SwiftnessX | smilemil | [Read More](https://medium.com/p/b51abfc2549f) |
-| Tue, 02 Sep 2025 04:27:59 GMT | AI Security Newsletter — August, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/f80542ddf362) |
-| Tue, 02 Sep 2025 04:16:27 GMT | API7:2023 — Server-Side Request Forgery: API’yi İç Sistemlere Köprü Olarak Kullanmak | Apifort | [Read More](https://medium.com/p/e659fcf07a86) |
-| Tue, 02 Sep 2025 04:09:39 GMT | Personal Identification Devices: The Future of Identity in a Connected World | Geeky Vartika | [Read More](https://medium.com/p/28da6d9c8bbf) |
-| Tue, 02 Sep 2025 03:58:30 GMT | Protecting 1Panel from Known Vulnerabilities with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/d0f193165436) |
-| Tue, 02 Sep 2025 03:57:30 GMT | The Credential Crisis by the Numbers: Why 2025 Is the Year of Breached Trust | Akilnath Bodipudi | [Read More](https://medium.com/p/31e43f05348d) |
-| Tue, 02 Sep 2025 03:56:10 GMT | When Dashboards Start Thinking: My Journey With AI-Driven Cybersecurity | Kerpink Williams | [Read More](https://medium.com/p/24d1380cfd33) |
-| Tue, 02 Sep 2025 03:55:57 GMT | Cybersecurity in the AI Era: Risks No One Talks About | Dr. Deep Pandey | [Read More](https://medium.com/p/acce7f9254a5) |
-| Tue, 02 Sep 2025 03:34:30 GMT | Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025 | Mohamed.cybersec | [Read More](https://medium.com/p/1a892f715b09) |
-| Tue, 02 Sep 2025 03:33:14 GMT | The Moral Machine: Why AI Cannot — and Should Not — Be Our Ethical Arbiter | Bew Chaiwattanachai | [Read More](https://medium.com/p/9274f2f4129a) |
-| Tue, 02 Sep 2025 03:32:46 GMT | Static Immutability: How Modern P2P Networks Build Trust Without Servers or Blockchain | estebanrfp | [Read More](https://medium.com/p/b2fd0816689a) |
