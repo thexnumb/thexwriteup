@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 05:06:39 GMT | Would You Leave Your Front Door Open? Why OWASP Top 10 Matters for Every Web App | Baljinder Singh | [Read More](https://medium.com/p/a130c2d8e294) |
+| Tue, 02 Sep 2025 05:01:49 GMT | ESSENTIAL SECURITY SUITE (ESS) for Small and Medium Business by Palo Alto Networks | Juara IT Solutions | [Read More](https://medium.com/p/58e9638702a3) |
+| Tue, 02 Sep 2025 04:55:12 GMT | 5 Simple Cybersecurity Tips Every Aussie Small Business Should Know in 2025 | Ahmed Ali | [Read More](https://medium.com/p/047b57f6df41) |
+| Tue, 02 Sep 2025 04:49:31 GMT | Laravel API Authentication: Secure Your Endpoints Effectively | Smit Pipaliya | [Read More](https://medium.com/p/48061cbaeebd) |
 | Tue, 02 Sep 2025 04:41:32 GMT | How AI Is Quietly Redefining Privacy, Jobs, and Society in 2025 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/24087685960f) |
 | Tue, 02 Sep 2025 04:36:19 GMT | Enhancing hotel Security through Video Analytics in Qatar | Mohd Armaan | [Read More](https://medium.com/p/13e156dd161f) |
 | Tue, 02 Sep 2025 04:29:30 GMT | Portswigger Web Security Academy - API Testing Lab #1 | BooRuleDie | [Read More](https://medium.com/p/37ba36672165) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 18:51:37 GMT | Web Security Tip: Stop Cross-Site Scripting (XSS) with X-XSS-Protection & Content Security… | Zoningxtr | [Read More](https://medium.com/p/2707d1d8fe1e) |
 | Mon, 01 Sep 2025 18:50:57 GMT | 4 XSS refletidos e 1 HTML Injection em menos de 10 minutos | Ranskyth | [Read More](https://medium.com/p/f0b6a4267576) |
 | Mon, 01 Sep 2025 18:49:57 GMT | Cibersegurança | ipTrust Tecnologia | [Read More](https://medium.com/p/85dbd325d9c5) |
-| Mon, 01 Sep 2025 18:48:43 GMT | Knowledge Check — HTB Pentester Path | Cekic Osman | [Read More](https://medium.com/p/cbb158b8e415) |
-| Mon, 01 Sep 2025 18:47:11 GMT | No, Google Didn’t Warn 2.5 Billion Users — Here’s What Really Happened | RealSec.io | [Read More](https://medium.com/p/232a47f6b35a) |
-| Mon, 01 Sep 2025 18:44:47 GMT | From image Upload to Workspace Takeover: Deconstructing a Critical Stored XSS Attack | Abhishek meena | [Read More](https://medium.com/p/55d821c73b72) |
-| Mon, 01 Sep 2025 18:42:24 GMT | Secure Coding the Heck Out of Your Web Apps | Rav3nf0 -- Aadarsh T R | [Read More](https://medium.com/p/c5b9dce4434b) |
