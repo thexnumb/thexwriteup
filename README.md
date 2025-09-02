@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 17:03:45 GMT | How LinkedIn Handles “Who Viewed Your Profile” Without Leaking Privacy | The Abstract Engineer | [Read More](https://medium.com/p/4a4283c973ba) |
+| Tue, 02 Sep 2025 17:03:18 GMT | WhatsApp’s Zero-Day Exploit: What Really Happened on Sep 2nd | The UNFILTERED Draft | [Read More](https://medium.com/p/e5d642db28fc) |
+| Tue, 02 Sep 2025 16:58:06 GMT | OS2 Binary Bomb Lab: Phase 4 | Sourav Bose | [Read More](https://medium.com/p/3683ac7593e8) |
+| Tue, 02 Sep 2025 16:57:29 GMT | What is a Token in Web Development? And Why Do We Need Refresh Tokens? | Rohit Kuwar | [Read More](https://medium.com/p/5522d40587eb) |
+| Tue, 02 Sep 2025 16:54:09 GMT | Importance of Keeping Location ON on your mobile phone | Sachit Joe Almeida | [Read More](https://medium.com/p/c351e44d08d2) |
+| Tue, 02 Sep 2025 16:53:22 GMT | SMB & SMTP Enumeration on Metasploitable 2 — A Practical Walkthrough | mohamed diab | [Read More](https://medium.com/p/6cb65e06ba32) |
+| Tue, 02 Sep 2025 16:50:11 GMT | The marketplace scam my mom almost fell for | Silvia Munafò | [Read More](https://medium.com/p/5aa0b01476cc) |
 | Tue, 02 Sep 2025 16:45:50 GMT | CVE-2025–29927: The Middleware Misstep That Shook Next.js | gm0 | [Read More](https://medium.com/p/a54c1268d4d3) |
 | Tue, 02 Sep 2025 16:44:29 GMT | My First Trip to the Dark Web Left Me Shaken | The Hidden Pen. | [Read More](https://medium.com/p/db11e2be773e) |
 | Tue, 02 Sep 2025 16:37:26 GMT | Cybersecurity: The Silent Guardian of the Digital Era | Mohammed Asif Shaikh | [Read More](https://medium.com/p/182e8721dce0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 13:10:49 GMT | [CyberDefenders Write-up] Fog Ransomware | Chicken0248 | [Read More](https://medium.com/p/ef6bf3bdfd45) |
 | Tue, 02 Sep 2025 13:01:03 GMT | Disinformation Defense: Tech Against Fake News | Thinking Loop | [Read More](https://medium.com/p/7b3dff5dcc4b) |
 | Tue, 02 Sep 2025 13:01:02 GMT | How Math Protect The Digital World | Raihan Pratama | [Read More](https://medium.com/p/5f33b23a6954) |
-| Tue, 02 Sep 2025 12:57:35 GMT | Introduction to Linux Kernel Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/208460af5d1d) |
-| Tue, 02 Sep 2025 12:51:37 GMT | What Happens When You Use the Same Password Everywhere | Evgeny Ermakov | [Read More](https://medium.com/p/21f996489e1b) |
-| Tue, 02 Sep 2025 12:50:49 GMT | ️ Rootkit Detection and Analysis in Kali Linux | Esra Kayhan | [Read More](https://medium.com/p/49f0af629e8a) |
-| Tue, 02 Sep 2025 12:50:05 GMT | I don’t know what to write. | Shakara | [Read More](https://medium.com/p/cfea5dfbe574) |
-| Tue, 02 Sep 2025 12:46:14 GMT | Data Privacy and Surveillance – More Than Just Codes and Cameras | Aria Stella | [Read More](https://medium.com/p/e6d89ec4bb67) |
-| Tue, 02 Sep 2025 12:44:29 GMT | Setting Up a Penetration Testing Lab for Beginners in Kali Linux | Esra Kayhan | [Read More](https://medium.com/p/9956b00048cb) |
-| Tue, 02 Sep 2025 12:37:37 GMT | ThunderCipher[Cat lofi.txt] | Bhuwan Patidar | [Read More](https://medium.com/p/c0063701be91) |
