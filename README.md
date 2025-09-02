@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 20:27:27 GMT | The Fear of the Answer — Why We Never Ask Certain Questions | Tami | [Read More](https://medium.com/p/129935509852) |
+| Tue, 02 Sep 2025 20:27:16 GMT | Unsafe File Upload → MIME Type Bypass | Cybersecplayground | [Read More](https://medium.com/p/0e9e80d9d23a) |
+| Tue, 02 Sep 2025 20:23:27 GMT | The Homeless Man’s Shared Cigarette: A Lesson in Unconditional Empathy | Wilson Igbasi | [Read More](https://medium.com/p/cac278c9c220) |
+| Tue, 02 Sep 2025 20:22:12 GMT | Simple CTF — Tryhackme Walkthrough  (THM) | Ammar Ahmed | [Read More](https://medium.com/p/033022c37515) |
+| Tue, 02 Sep 2025 20:20:33 GMT | Hack The Box “Editor” Walkthrough: XWiki RCE to Root | Sourabh Sharma | [Read More](https://medium.com/p/b1baf46b2d21) |
 | Tue, 02 Sep 2025 20:16:06 GMT | Not being okay, is okay. | Rithesh R Kumar | [Read More](https://medium.com/p/b576cdfd2948) |
 | Tue, 02 Sep 2025 20:13:53 GMT | Cybersecurity and the Unknown Unknowns: Why the Greatest Cyber Risks Are Off the Map | Juan Pablo Castro | [Read More](https://medium.com/p/bb65d4946c7c) |
 | Tue, 02 Sep 2025 20:12:45 GMT | Why Your Security Strategy Fails Without Python | Hex Shift | [Read More](https://medium.com/p/b89965931393) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 15:27:12 GMT | LEMIX: Enabling Testing of Embedded Applications as Linux Applications | James Davis | [Read More](https://medium.com/p/895f85131cd8) |
 | Tue, 02 Sep 2025 15:23:36 GMT | Evil-GPT: TryHackMe Writeup | Farhad Anwari | [Read More](https://medium.com/p/45ce1ae7e965) |
 | Tue, 02 Sep 2025 15:20:47 GMT | SHARING EXPERIENCE Taking the Junior Penetration Tester (PT1) Certification on TryHackMe | m3mories | [Read More](https://medium.com/p/5ee85fb1ff5f) |
-| Tue, 02 Sep 2025 15:20:08 GMT | Guía Completa sobre Phishing: Cómo identificar, prevenir y actuar ante estos ciberataques | Tiziano Mass | [Read More](https://medium.com/p/fe2483a55a36) |
-| Tue, 02 Sep 2025 15:18:40 GMT | “Mujahid of Allah” Ruskinet Group Cyber | Mohamed Mostafa | [Read More](https://medium.com/p/4b5128a3e39a) |
-| Tue, 02 Sep 2025 15:15:32 GMT | Apple Vulnerability Disclosure (Independent Security Report) | Yakov Manshin | [Read More](https://medium.com/p/c0087b817d2b) |
-| Tue, 02 Sep 2025 15:14:44 GMT | The Importance of Multi-Factor Authentication (MFA) in 2025 | Samina Perveen | [Read More](https://medium.com/p/c1b914ab7330) |
-| Tue, 02 Sep 2025 15:13:05 GMT | In our modern world, almost every aspect of life has shifted into the digital space. | Maulana_Syarif_H_M0403241049_Computer_Science | [Read More](https://medium.com/p/ab6d7e4e0891) |
