@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 05:32:42 GMT | When Your Tools Turn Against You | Aj | [Read More](https://medium.com/p/31e09b7e76c7) |
+| Tue, 02 Sep 2025 05:30:16 GMT | How to Secure Events with CCTV and Access Control — A Guide with eTransit | etransit | [Read More](https://medium.com/p/137cf0f71abb) |
+| Tue, 02 Sep 2025 05:22:26 GMT | Secure Your Workspace: Advanced Turnstile Speed Gates for Corporate Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/54e3eabb1b25) |
 | Tue, 02 Sep 2025 05:06:39 GMT | Would You Leave Your Front Door Open? Why OWASP Top 10 Matters for Every Web App | Baljinder Singh | [Read More](https://medium.com/p/a130c2d8e294) |
 | Tue, 02 Sep 2025 05:01:49 GMT | ESSENTIAL SECURITY SUITE (ESS) for Small and Medium Business by Palo Alto Networks | Juara IT Solutions | [Read More](https://medium.com/p/58e9638702a3) |
 | Tue, 02 Sep 2025 04:55:12 GMT | 5 Simple Cybersecurity Tips Every Aussie Small Business Should Know in 2025 | Ahmed Ali | [Read More](https://medium.com/p/047b57f6df41) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 19:15:33 GMT | AI Misuse and How We Fight Back | Above The Firewall | [Read More](https://medium.com/p/3c9a99b36fe0) |
 | Mon, 01 Sep 2025 18:59:23 GMT | Can There Be National Defense Without National Code? | Umut Akbulut | [Read More](https://medium.com/p/e08df9ccc072) |
 | Mon, 01 Sep 2025 18:55:03 GMT | Monday Cyber Brief — September 1 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/44cc2a58a7bc) |
-| Mon, 01 Sep 2025 18:51:37 GMT | Web Security Tip: Stop Cross-Site Scripting (XSS) with X-XSS-Protection & Content Security… | Zoningxtr | [Read More](https://medium.com/p/2707d1d8fe1e) |
-| Mon, 01 Sep 2025 18:50:57 GMT | 4 XSS refletidos e 1 HTML Injection em menos de 10 minutos | Ranskyth | [Read More](https://medium.com/p/f0b6a4267576) |
-| Mon, 01 Sep 2025 18:49:57 GMT | Cibersegurança | ipTrust Tecnologia | [Read More](https://medium.com/p/85dbd325d9c5) |
