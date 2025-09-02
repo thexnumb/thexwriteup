@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 23:27:52 GMT | Don’t Wait Until It’s Too Late — Check If Your Data Has Been Breached | Keren N Oduro | [Read More](https://medium.com/p/b9e726f6b28a) |
+| Tue, 02 Sep 2025 23:22:15 GMT | Security By Design Practices And Their impact In The Nigerian Electronic Payments Industry | Davids Olumide Michael | [Read More](https://medium.com/p/494881465296) |
+| Tue, 02 Sep 2025 23:20:40 GMT | In the fast-paced world of digital transformation, companies are constantly racing to stay ahead of… | Vernieri | [Read More](https://medium.com/p/cc84a6a70e72) |
 | Tue, 02 Sep 2025 23:11:04 GMT | HackTheBox: Lock | Ross Andrews | [Read More](https://medium.com/p/7668a0833064) |
+| Tue, 02 Sep 2025 23:10:10 GMT | AI Security Certifications | Tal Eliyahu | [Read More](https://medium.com/p/7418792b0a82) |
 | Tue, 02 Sep 2025 23:03:48 GMT | From Theory to Practice: Understanding IDOR Through a Real Scenario | Rawansaeed | [Read More](https://medium.com/p/2eb21ef07d65) |
 | Tue, 02 Sep 2025 22:59:07 GMT | HacktheBox — Eureka | Tech&Jazzgirl | [Read More](https://medium.com/p/5e637cd24dc0) |
 | Tue, 02 Sep 2025 22:57:52 GMT | OAuth Under Fire: APT29’s Device Code Flow Exploit Against Microsoft 365 | Ashley Dai | [Read More](https://medium.com/p/ae93bb738f46) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 16:16:53 GMT | Loose Myself | Lonely solacee | [Read More](https://medium.com/p/4a3664e393fe) |
 | Tue, 02 Sep 2025 16:16:34 GMT | Building Identity Management Step by Step | Cyber Security Research | [Read More](https://medium.com/p/69ede8be4941) |
 | Tue, 02 Sep 2025 16:15:31 GMT | Junior Security Analyst Intro | Blackoutx | [Read More](https://medium.com/p/6046d96c644f) |
-| Tue, 02 Sep 2025 16:14:35 GMT | Building Identity Management Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/0a1501fffc94) |
-| Tue, 02 Sep 2025 16:13:41 GMT | Kali Linux -- Giriş | Mustafa Gunay | [Read More](https://medium.com/p/55489b3209fa) |
-| Tue, 02 Sep 2025 16:12:07 GMT | Why Securofy is Emerging as a Trusted Name in Cybersecurity Awareness | Bhavik Jadhao | [Read More](https://medium.com/p/26da43d59041) |
-| Tue, 02 Sep 2025 16:09:12 GMT | Securofy: A New Era of Protecting Digital Identities | Bhavik Jadhao | [Read More](https://medium.com/p/380e5cde37f3) |
