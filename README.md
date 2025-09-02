@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 08:36:25 GMT | AI Threats Have Moved Out of the Lab | Yousri KOUKI | [Read More](https://medium.com/p/f5bfb5341462) |
+| Tue, 02 Sep 2025 08:36:20 GMT | Cybercrime & Your Wallet: Protecting Personal Finance in 2025! | Pranav Gupta | [Read More](https://medium.com/p/9f473cd79eff) |
+| Tue, 02 Sep 2025 08:33:25 GMT | SQL Injection & Cross-Site Scripting (XSS): How to Protect Your Web Application | Secuodsoft Technologies | [Read More](https://medium.com/p/7229b38d7e4f) |
+| Tue, 02 Sep 2025 08:30:59 GMT | Uncovering Intercom Misconfigurations: From Ignored Widgets to High-Impact Vulnerabilities | WHO AM I ? | [Read More](https://medium.com/p/26115f9481ca) |
+| Tue, 02 Sep 2025 08:30:40 GMT | PortSwigger Lab : User Role Controlled by Request Parameter | Siddiquimohammad | [Read More](https://medium.com/p/8025cfe89075) |
+| Tue, 02 Sep 2025 08:30:25 GMT | AI at Risk: Understanding Cyber Security Challenges in Bangladesh | Articles Master : | [Read More](https://medium.com/p/049ac519e571) |
 | Tue, 02 Sep 2025 08:24:58 GMT | IT Companies In Gurgaon | soni bisht | [Read More](https://medium.com/p/1a52cde15fe0) |
 | Tue, 02 Sep 2025 08:17:15 GMT | The Era of AI-Powered Ransomware: A New Chapter in Cybersecurity | Itsmeanzee | [Read More](https://medium.com/p/51291cdbd5e8) |
 | Tue, 02 Sep 2025 08:06:06 GMT | Cooked CTF 2025 Misc Challenge “Nightmare” Write-up | Abrar | [Read More](https://medium.com/p/2f96e549a90f) |
@@ -107,9 +113,3 @@ By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f
 | Tue, 02 Sep 2025 01:33:06 GMT | Attestation in Drosera: The Verifiable Truth in DeFi Security | Roman Lucien | [Read More](https://medium.com/p/6a1c898c6dad) |
 | Tue, 02 Sep 2025 01:17:48 GMT | How Risen Ransomware Works: An IDA Pro Deep Dive | Sohan Kanna D | [Read More](https://medium.com/p/424d9116d4d5) |
 | Tue, 02 Sep 2025 01:11:59 GMT | From Access Control to Egress Control: Securing AI with WSO2 API Manager | Vihanga Liyanage | [Read More](https://medium.com/p/5dd17c1a4da3) |
-| Tue, 02 Sep 2025 01:07:28 GMT | Horizontal Scaling vs. Vertical Scaling | Ruban | [Read More](https://medium.com/p/355118e4047b) |
-| Tue, 02 Sep 2025 00:59:39 GMT | CYBERSECURITY MILESTONE!!! | Eme Karen | [Read More](https://medium.com/p/f86f8487078b) |
-| Tue, 02 Sep 2025 00:43:23 GMT | I Social-Engineered My AI… and It Worked | Sam Galope | [Read More](https://medium.com/p/0cfdbeaf2394) |
-| Tue, 02 Sep 2025 00:29:10 GMT | The Day My Mom Challenged Me to Hack My Own House | Alex Grande | [Read More](https://medium.com/p/3a3ed4de94dc) |
-| Tue, 02 Sep 2025 00:24:01 GMT | Building a Robust Incident Response Plan | Samina Perveen | [Read More](https://medium.com/p/111fabed0be9) |
-| Tue, 02 Sep 2025 00:23:12 GMT | My Old Laptop’s New Job: Project Esquire — Phase 2 | Kevin Jose | [Read More](https://medium.com/p/498c62fa63cc) |
