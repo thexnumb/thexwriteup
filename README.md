@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 21:56:47 GMT | Start Your Hacking Career Before it’s too late! | NnFace | [Read More](https://medium.com/p/1d74d70dfc63) |
 | Tue, 02 Sep 2025 21:32:57 GMT | From Manage Members to Full Admin: Privilege Escalation in a GraphQL API | Bassemwanies | [Read More](https://medium.com/p/b58699829d6e) |
 | Tue, 02 Sep 2025 21:25:01 GMT | VulnHub: DC: 1 Çözümü | Azat Dicle | [Read More](https://medium.com/p/be79bba2ad06) |
 | Tue, 02 Sep 2025 21:21:13 GMT | The Math Behind Digital Security | Latifatul Hania Az Zahra | [Read More](https://medium.com/p/f26b02ccac5f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 15:57:21 GMT | Bug Bounty in the Metaverse — Hunting Vulnerabilities in Virtual Worlds | DJH4CK3R | [Read More](https://medium.com/p/ed4a2e825144) |
 | Tue, 02 Sep 2025 15:56:42 GMT | TryHackMe Startup Challenge Walkthrough: Step-by-Step Beginner’s Guide to FTP Exploitation and… | Prajwal | [Read More](https://medium.com/p/d3f85323b799) |
 | Tue, 02 Sep 2025 15:56:39 GMT | VPN Users: Your Time Zone Is a Leaky Faucet | Authlyn | [Read More](https://medium.com/p/07ce592e5fce) |
-| Tue, 02 Sep 2025 15:56:21 GMT | End-to-End Cybersecurity with SIEM and XDR Services | Vijilan | [Read More](https://medium.com/p/6075c6b67a5c) |
