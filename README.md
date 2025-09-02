@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 04:41:32 GMT | How AI Is Quietly Redefining Privacy, Jobs, and Society in 2025 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/24087685960f) |
+| Tue, 02 Sep 2025 04:36:19 GMT | Enhancing hotel Security through Video Analytics in Qatar | Mohd Armaan | [Read More](https://medium.com/p/13e156dd161f) |
+| Tue, 02 Sep 2025 04:29:30 GMT | Portswigger Web Security Academy - API Testing Lab #1 | BooRuleDie | [Read More](https://medium.com/p/37ba36672165) |
+| Tue, 02 Sep 2025 04:28:39 GMT | Bug Bounty: checklist template for SwiftnessX | smilemil | [Read More](https://medium.com/p/b51abfc2549f) |
+| Tue, 02 Sep 2025 04:27:59 GMT | AI Security Newsletter — August, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/f80542ddf362) |
 | Tue, 02 Sep 2025 04:16:27 GMT | API7:2023 — Server-Side Request Forgery: API’yi İç Sistemlere Köprü Olarak Kullanmak | Apifort | [Read More](https://medium.com/p/e659fcf07a86) |
 | Tue, 02 Sep 2025 04:09:39 GMT | Personal Identification Devices: The Future of Identity in a Connected World | Geeky Vartika | [Read More](https://medium.com/p/28da6d9c8bbf) |
 | Tue, 02 Sep 2025 03:58:30 GMT | Protecting 1Panel from Known Vulnerabilities with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/d0f193165436) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 18:47:11 GMT | No, Google Didn’t Warn 2.5 Billion Users — Here’s What Really Happened | RealSec.io | [Read More](https://medium.com/p/232a47f6b35a) |
 | Mon, 01 Sep 2025 18:44:47 GMT | From image Upload to Workspace Takeover: Deconstructing a Critical Stored XSS Attack | Abhishek meena | [Read More](https://medium.com/p/55d821c73b72) |
 | Mon, 01 Sep 2025 18:42:24 GMT | Secure Coding the Heck Out of Your Web Apps | Rav3nf0 -- Aadarsh T R | [Read More](https://medium.com/p/c5b9dce4434b) |
-| Mon, 01 Sep 2025 18:38:00 GMT | The Bug Hunter’s Diary: Earning Bounties Legally | Raj Islam | [Read More](https://medium.com/p/f0549bb6d395) |
-| Mon, 01 Sep 2025 18:36:16 GMT | Do código à execução: como o DAST encontra vulnerabilidades vivas | Gustavo Schmidt | [Read More](https://medium.com/p/c06d6bc954d5) |
-| Mon, 01 Sep 2025 18:33:22 GMT | Website Maintenance Services | Prime Web Help | [Read More](https://medium.com/p/ac1bc786d8d2) |
-| Mon, 01 Sep 2025 18:33:18 GMT | Beyond Endpoints: A Deep Dive into API Authorization Security | Pulkit Vaishnav | [Read More](https://medium.com/p/767c5b26070e) |
-| Mon, 01 Sep 2025 18:32:46 GMT | Freedom Loop 2025 | Scott Schure | [Read More](https://medium.com/p/c75ee3c3ccd3) |
