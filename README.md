@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 02:52:42 GMT | What Is JOSE and Why It Matters for Financial Android Apps | amol pawar | [Read More](https://medium.com/p/a901062fabf4) |
+| Tue, 02 Sep 2025 02:46:18 GMT | How AI Is Revolutionizing SOC Operations: 7 Real-World Use Cases (+ Python Demo) | Paritosh | [Read More](https://medium.com/p/263b46bfa4dd) |
+| Tue, 02 Sep 2025 02:42:48 GMT | My Name Is Shayaan Khan, and This Is Where My Cybersecurity Journey Begins | Shayaan Khan | [Read More](https://medium.com/p/991d5cad12f7) |
+| Tue, 02 Sep 2025 02:41:08 GMT | Would You Smile If a Stranger Brought You a Rose? | Silent Observer (Sarphari) | [Read More](https://medium.com/p/6b83b60c0057) |
+| Tue, 02 Sep 2025 02:36:48 GMT | AWS IAM Explained: Users, Groups, Policies, MFA, and Best Practices | Juan Andrés Leiva | [Read More](https://medium.com/p/ca5f5f30dccd) |
+| Tue, 02 Sep 2025 02:31:37 GMT | Computer Networks: Definition, Goals, and Why Security Matters | Keerthan V Suvarna | [Read More](https://medium.com/p/8fc91caf3059) |
+| Tue, 02 Sep 2025 02:23:54 GMT | From EAL6+ to Total Cold Isolation: How Digital Shield is Reshaping the Web3 Security Ecosystem | Digital Shield Offcial | [Read More](https://medium.com/p/45b1ce0a5869) |
+| Tue, 02 Sep 2025 02:15:21 GMT | The Number 1 Security Threat | Anthony Eboh | [Read More](https://medium.com/p/cea7c8beed17) |
+| Tue, 02 Sep 2025 02:01:25 GMT | How Sitinoldae Helps Small Businesses | Sitinoldae | [Read More](https://medium.com/p/78a06e113433) |
+| Tue, 02 Sep 2025 02:00:52 GMT | Day 1 of AI Security: Breaking Down NIST’s AI Risk Management Framework (AI RMF) | Maghnaa Sathish Kumar | [Read More](https://medium.com/p/0e267f541b98) |
+| Tue, 02 Sep 2025 02:00:16 GMT | Write-ups — corCTF 2025 | DieLoop | [Read More](https://medium.com/p/e97937de7776) |
+| Tue, 02 Sep 2025 01:53:36 GMT | Here are the signs a man truly loves you, beyond the bedroom: | Lilyana | [Read More](https://medium.com/p/e72c314028c6) |
+| Tue, 02 Sep 2025 01:53:36 GMT | Don’t Bully the Person with Many Vulnerabilities at Work | Ophaly Kate | [Read More](https://medium.com/p/16e63cbb5828) |
+| Tue, 02 Sep 2025 01:52:53 GMT | Tryhackme NeighbourWrite Up | Jackson Mittag | [Read More](https://medium.com/p/5b197ae41fa8) |
+| Tue, 02 Sep 2025 01:48:10 GMT | ️ Use Django Axes to Protect Your Django App from Brute-Force Attacks | Rushal Barkhade | [Read More](https://medium.com/p/1e4ff465a994) |
+| Tue, 02 Sep 2025 01:33:57 GMT | DevSecOps in Action: Securing Your CI/CD Pipeline with Trivy | Arpit Sharma | [Read More](https://medium.com/p/07898b06be2c) |
+| Tue, 02 Sep 2025 01:33:06 GMT | Attestation in Drosera: The Verifiable Truth in DeFi Security | Roman Lucien | [Read More](https://medium.com/p/6a1c898c6dad) |
 | Tue, 02 Sep 2025 01:17:48 GMT | How Risen Ransomware Works: An IDA Pro Deep Dive | Sohan Kanna D | [Read More](https://medium.com/p/424d9116d4d5) |
 | Tue, 02 Sep 2025 01:11:59 GMT | From Access Control to Egress Control: Securing AI with WSO2 API Manager | Vihanga Liyanage | [Read More](https://medium.com/p/5dd17c1a4da3) |
 | Tue, 02 Sep 2025 01:07:28 GMT | Horizontal Scaling vs. Vertical Scaling | Ruban | [Read More](https://medium.com/p/355118e4047b) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 18:03:15 GMT | Ripping IDs: Solutions — Quantify mDL as superior evidence vs. DL/ID | David Kelts on ID | [Read More](https://medium.com/p/cac232bf8683) |
 | Mon, 01 Sep 2025 18:01:49 GMT | Achieving IAL2 in Remote Identity Proofing or Verification | David Kelts on ID | [Read More](https://medium.com/p/fe754229cab2) |
 | Mon, 01 Sep 2025 18:01:28 GMT | Demystifying AI in Cybersecurity and Human Creativity | Artificial Intelligence Details | [Read More](https://medium.com/p/1e31f0de413c) |
-| Mon, 01 Sep 2025 17:58:07 GMT | Drosera: Why I Think DeFi Needs an Automated Survival Layer | ☆ﾟ | [Read More](https://medium.com/p/33a1096e0b07) |
-| Mon, 01 Sep 2025 17:46:48 GMT | TryHackMe - Sakura Room - WriteUp | Axoloth | [Read More](https://medium.com/p/7d2046369bbb) |
-| Mon, 01 Sep 2025 17:39:01 GMT | One of Us Is Lying. | Spiral Patterns | [Read More](https://medium.com/p/dbbcd2636521) |
-| Mon, 01 Sep 2025 17:33:59 GMT | The Impact of AI in Cybersecurity: 7 Lessons | Joy Ashidi | [Read More](https://medium.com/p/4a89bf84d572) |
-| Mon, 01 Sep 2025 17:32:09 GMT | Dockerfile Security Best Practices Nobody Talks About | Nikulsinh Rajput | [Read More](https://medium.com/p/89ee1c3f29c1) |
-| Mon, 01 Sep 2025 17:29:03 GMT | Network layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/9a5e09e042ef) |
-| Mon, 01 Sep 2025 17:27:13 GMT | Evaluation Methodology of AI Systems through Agglutinative Languages | Jordi Garcia Castillon | [Read More](https://medium.com/p/ca52f4c6315d) |
-| Mon, 01 Sep 2025 17:26:40 GMT | Beyond APIs: Introducing the Sirraya Codon Protocol for Intent-Based Computing | Aamir Hameed | [Read More](https://medium.com/p/eac1477a6b4b) |
-| Mon, 01 Sep 2025 17:24:52 GMT | Why AI Needs Jesus - AI Ethics and Cybersecurity | Jeremy Ross | [Read More](https://medium.com/p/c17777b2eaa7) |
-| Mon, 01 Sep 2025 17:24:33 GMT | Your Phone’s New Superpower: AI That Works Without the Internet | Fahad's Foresight | [Read More](https://medium.com/p/3759c0f7b4fc) |
-| Mon, 01 Sep 2025 17:07:47 GMT | Pickle Rick - TryHackMe | Laach_ | [Read More](https://medium.com/p/a924c083aaa8) |
-| Mon, 01 Sep 2025 17:04:52 GMT | Data Link layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/9d902c897c13) |
-| Mon, 01 Sep 2025 17:00:41 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and The Energy Battle: Human Brain vs. | Nitin Garg | [Read More](https://medium.com/p/c35e01e1c1a2) |
-| Mon, 01 Sep 2025 16:46:58 GMT | Careful pre‑launch scrutiny of every website through Documentation, Verification and Approval | Sachit Joe Almeida | [Read More](https://medium.com/p/3a06345a6a15) |
-| Mon, 01 Sep 2025 16:44:22 GMT | What price are you willing to pay for security? | Jeff | [Read More](https://medium.com/p/8ef578ab7e0a) |
-| Mon, 01 Sep 2025 16:44:17 GMT | Finding My Voice | Kaleigh Dugan | [Read More](https://medium.com/p/b0f2197405b9) |
-| Mon, 01 Sep 2025 16:43:23 GMT | Transitioning to Remote: Why SFTP Matters | AMIT KASHYAP | [Read More](https://medium.com/p/6498e835d353) |
