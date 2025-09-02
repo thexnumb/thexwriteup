@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 04:16:27 GMT | API7:2023 — Server-Side Request Forgery: API’yi İç Sistemlere Köprü Olarak Kullanmak | Apifort | [Read More](https://medium.com/p/e659fcf07a86) |
+| Tue, 02 Sep 2025 04:09:39 GMT | Personal Identification Devices: The Future of Identity in a Connected World | Geeky Vartika | [Read More](https://medium.com/p/28da6d9c8bbf) |
+| Tue, 02 Sep 2025 03:58:30 GMT | Protecting 1Panel from Known Vulnerabilities with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/d0f193165436) |
+| Tue, 02 Sep 2025 03:57:30 GMT | The Credential Crisis by the Numbers: Why 2025 Is the Year of Breached Trust | Akilnath Bodipudi | [Read More](https://medium.com/p/31e43f05348d) |
+| Tue, 02 Sep 2025 03:56:10 GMT | When Dashboards Start Thinking: My Journey With AI-Driven Cybersecurity | Kerpink Williams | [Read More](https://medium.com/p/24d1380cfd33) |
+| Tue, 02 Sep 2025 03:55:57 GMT | Cybersecurity in the AI Era: Risks No One Talks About | Dr. Deep Pandey | [Read More](https://medium.com/p/acce7f9254a5) |
 | Tue, 02 Sep 2025 03:34:30 GMT | Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025 | Mohamed.cybersec | [Read More](https://medium.com/p/1a892f715b09) |
 | Tue, 02 Sep 2025 03:33:14 GMT | The Moral Machine: Why AI Cannot — and Should Not — Be Our Ethical Arbiter | Bew Chaiwattanachai | [Read More](https://medium.com/p/9274f2f4129a) |
 | Tue, 02 Sep 2025 03:32:46 GMT | Static Immutability: How Modern P2P Networks Build Trust Without Servers or Blockchain | estebanrfp | [Read More](https://medium.com/p/b2fd0816689a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 18:33:22 GMT | Website Maintenance Services | Prime Web Help | [Read More](https://medium.com/p/ac1bc786d8d2) |
 | Mon, 01 Sep 2025 18:33:18 GMT | Beyond Endpoints: A Deep Dive into API Authorization Security | Pulkit Vaishnav | [Read More](https://medium.com/p/767c5b26070e) |
 | Mon, 01 Sep 2025 18:32:46 GMT | Freedom Loop 2025 | Scott Schure | [Read More](https://medium.com/p/c75ee3c3ccd3) |
-| Mon, 01 Sep 2025 18:30:24 GMT | 11 Core Skills Every Professional Needs in the Age of AI and Automation | Anirban Mukherjee ✍️ | [Read More](https://medium.com/p/14d34f2f9e47) |
-| Mon, 01 Sep 2025 18:28:49 GMT | Building Cybersecurity with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/778f8547272b) |
-| Mon, 01 Sep 2025 18:27:49 GMT | A Critical Zero-Day in Atlassian Jira Service Management Cloud: Password Reset Account Takeover | Mo Salah | [Read More](https://medium.com/p/1903cbb8bd31) |
-| Mon, 01 Sep 2025 18:26:50 GMT | Building Cybersecurity in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/05eaf26c02e1) |
-| Mon, 01 Sep 2025 18:25:09 GMT | Private Service Connect for GCP Managed Services and APIs | Rahul Soni | [Read More](https://medium.com/p/8539203d9d51) |
-| Mon, 01 Sep 2025 18:23:41 GMT | Sirraya Codon Protocol: Rust Technical Specification v 1.0 | Aamir Hameed | [Read More](https://medium.com/p/af25d83fa606) |
