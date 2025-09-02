@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 18:38:24 GMT | Putting on the NIST in the DIB | theccmi | [Read More](https://medium.com/p/2b400c3a9ccf) |
+| Tue, 02 Sep 2025 18:36:11 GMT | phOS2 Binary Bomb Lab: Phase 5 | Sourav Bose | [Read More](https://medium.com/p/286f8a1997f1) |
+| Tue, 02 Sep 2025 18:31:34 GMT | Securing Ubuntu with UFW & Fail2Ban | Adarsh K | [Read More](https://medium.com/p/b5a1a780c5e3) |
+| Tue, 02 Sep 2025 18:31:34 GMT | Dangling Record in Route53 — a low hanging fruit for hackers. | E.K. | [Read More](https://medium.com/p/104935a1719a) |
+| Tue, 02 Sep 2025 18:29:29 GMT | Sirraya Codon Protocol | Aamir Hameed | [Read More](https://medium.com/p/eb328fdbd716) |
+| Tue, 02 Sep 2025 18:27:30 GMT | From Curious Teen to Cybersecurity Freelancer: My Journey in Tech from 17 to 24 | Iserjaoui | [Read More](https://medium.com/p/6d94c8516e51) |
 | Tue, 02 Sep 2025 18:13:41 GMT | The Top 5 Cloud Security Misconfigurations That Lead to Breaches | Roland Njoya | [Read More](https://medium.com/p/9b6c259af216) |
 | Tue, 02 Sep 2025 18:04:19 GMT | The Importance of Cybersecurity Awareness in Developing Countries: A Focus on Morocco | Soumia frina | [Read More](https://medium.com/p/955596cad309) |
 | Tue, 02 Sep 2025 18:04:14 GMT | Top 10 SIEM Use Cases Every Business Should Know | SafeAeon Inc. | [Read More](https://medium.com/p/9b72c1f1ef73) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 14:11:39 GMT | TryHackMe #8 - Extending Your Network | 0xGroot | [Read More](https://medium.com/p/3c6508953d5a) |
 | Tue, 02 Sep 2025 14:10:31 GMT | Protection in Every Detail | Quva India | [Read More](https://medium.com/p/dcbe750a6500) |
 | Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #5 - Intro to LAN | 0xGroot | [Read More](https://medium.com/p/afa63b255ac7) |
-| Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #6 - OSI Model | 0xGroot | [Read More](https://medium.com/p/a0c22eec7889) |
-| Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #7 - Packets & Frames | 0xGroot | [Read More](https://medium.com/p/757d1a61769b) |
-| Tue, 02 Sep 2025 14:01:55 GMT | Cyber Briefing: 2025.09.02 | CyberMaterial | [Read More](https://medium.com/p/ece839bec533) |
-| Tue, 02 Sep 2025 14:01:54 GMT | TryHackMe #4 - What is Networking? | 0xGroot | [Read More](https://medium.com/p/7a8d34dc3712) |
-| Tue, 02 Sep 2025 14:01:50 GMT | Why use APACHE on Linux?? | Yvonda Davis | [Read More](https://medium.com/p/803095fb0b2e) |
-| Tue, 02 Sep 2025 13:53:06 GMT | Your Patched Sitecore Site Isn’t Safe | Aj | [Read More](https://medium.com/p/c2d225da9f9e) |
