@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 19:00:37 GMT | Why HTTPS Doesn’t Actually Protect You (From the Real Threats) | Sohail Saifi | [Read More](https://medium.com/p/bb409f6097d6) |
+| Tue, 02 Sep 2025 18:59:59 GMT | Applying K-Means Clustering for Vulnerability Prioritization | Patrick Lefler | [Read More](https://medium.com/p/a7f8ae854bbf) |
+| Tue, 02 Sep 2025 18:52:58 GMT | AI Sleeper Agents — The Digital Espionage | Siddharth Saraf | [Read More](https://medium.com/p/36a0d9c075cd) |
+| Tue, 02 Sep 2025 18:49:35 GMT | Intro to Logs — TryHackMe — Write-up | Forrest Caffray | [Read More](https://medium.com/p/3eafdb9960f2) |
+| Tue, 02 Sep 2025 18:43:28 GMT | Building a Fake APK Detection System: My Journey at CyberShield Hackathon 2025 | Sanidhya | [Read More](https://medium.com/p/1f789841c9c9) |
 | Tue, 02 Sep 2025 18:38:24 GMT | Putting on the NIST in the DIB | theccmi | [Read More](https://medium.com/p/2b400c3a9ccf) |
 | Tue, 02 Sep 2025 18:36:11 GMT | phOS2 Binary Bomb Lab: Phase 5 | Sourav Bose | [Read More](https://medium.com/p/286f8a1997f1) |
 | Tue, 02 Sep 2025 18:31:34 GMT | Securing Ubuntu with UFW & Fail2Ban | Adarsh K | [Read More](https://medium.com/p/b5a1a780c5e3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 14:20:20 GMT | TryHackMe Red Room | Vikash Yadav | [Read More](https://medium.com/p/0ef0ca4acf5b) |
 | Tue, 02 Sep 2025 14:17:12 GMT | How Can a Single Email Threaten Your Entire System in Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/fdfcb50bdeef) |
 | Tue, 02 Sep 2025 14:16:53 GMT | Next-Generation Cybersecurity Solutions: Defending Tomorrow’s Digital Landscape | Technijian ITSupport | [Read More](https://medium.com/p/e6acd2af961e) |
-| Tue, 02 Sep 2025 14:15:55 GMT | Why the internet would collapse without this secret language | Azalia Noverizqy | [Read More](https://medium.com/p/7e509dc6069a) |
-| Tue, 02 Sep 2025 14:15:15 GMT | THM Write-up: Vulnerable Codes | Fatih Kucukkarakurt | [Read More](https://medium.com/p/9ea8fe8464f9) |
-| Tue, 02 Sep 2025 14:11:39 GMT | TryHackMe #8 - Extending Your Network | 0xGroot | [Read More](https://medium.com/p/3c6508953d5a) |
-| Tue, 02 Sep 2025 14:10:31 GMT | Protection in Every Detail | Quva India | [Read More](https://medium.com/p/dcbe750a6500) |
-| Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #5 - Intro to LAN | 0xGroot | [Read More](https://medium.com/p/afa63b255ac7) |
