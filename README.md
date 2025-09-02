@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 20:16:06 GMT | Not being okay, is okay. | Rithesh R Kumar | [Read More](https://medium.com/p/b576cdfd2948) |
+| Tue, 02 Sep 2025 20:13:53 GMT | Cybersecurity and the Unknown Unknowns: Why the Greatest Cyber Risks Are Off the Map | Juan Pablo Castro | [Read More](https://medium.com/p/bb65d4946c7c) |
+| Tue, 02 Sep 2025 20:12:45 GMT | Why Your Security Strategy Fails Without Python | Hex Shift | [Read More](https://medium.com/p/b89965931393) |
+| Tue, 02 Sep 2025 20:08:48 GMT | OSCP Preparation Series | Ahsan Ali Khan | [Read More](https://medium.com/p/29f914d7295f) |
+| Tue, 02 Sep 2025 19:46:46 GMT | A Step-by-Step Playbook for TaHiTI (Targeted Hunting with Threat Intelligence) | Sathish Sivaprakash | [Read More](https://medium.com/p/5106acdb37fd) |
+| Tue, 02 Sep 2025 19:45:36 GMT | Portswigger:SQL injection attack, Listing the database contents on non-Oracle databases | Dark | [Read More](https://medium.com/p/58bb8fe1f451) |
+| Tue, 02 Sep 2025 19:38:41 GMT | Proactive Cyber Diplomacy: Anticipating Conflict in the Digital Age | CCD-IS | [Read More](https://medium.com/p/777b6b41d160) |
+| Tue, 02 Sep 2025 19:38:28 GMT | 100+ cybersecurity statistics published in July and August 2025 | CyberSecStats | [Read More](https://medium.com/p/d00173430c65) |
+| Tue, 02 Sep 2025 19:36:24 GMT | Sysmon ve Threat Hunting süreçleri | Eren izyat | [Read More](https://medium.com/p/972c6a6e1555) |
 | Tue, 02 Sep 2025 19:32:14 GMT | TryHackMe OhSINT: OSINT and the Risks of an Unsecure Online Presence | William Kunesh | [Read More](https://medium.com/p/4186425a9ab9) |
 | Tue, 02 Sep 2025 19:18:01 GMT | واش المغرب خاصو يستورد التكنولوجيا الحربية من Elbit؟ | Soufiane Habti | [Read More](https://medium.com/p/b9baaf40178a) |
 | Tue, 02 Sep 2025 19:17:39 GMT | [Part 3] Security by Design: How the CRA Turns Compliance Into Competitive Advantage | Cyberkech | [Read More](https://medium.com/p/8adcf1c0d775) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 15:15:32 GMT | Apple Vulnerability Disclosure (Independent Security Report) | Yakov Manshin | [Read More](https://medium.com/p/c0087b817d2b) |
 | Tue, 02 Sep 2025 15:14:44 GMT | The Importance of Multi-Factor Authentication (MFA) in 2025 | Samina Perveen | [Read More](https://medium.com/p/c1b914ab7330) |
 | Tue, 02 Sep 2025 15:13:05 GMT | In our modern world, almost every aspect of life has shifted into the digital space. | Maulana_Syarif_H_M0403241049_Computer_Science | [Read More](https://medium.com/p/ab6d7e4e0891) |
-| Tue, 02 Sep 2025 15:12:25 GMT | Criptografía cuántica para mejorar la seguridad de red de Units Network: Preparando el Layer-0… | WAVES LATAM | [Read More](https://medium.com/p/876f78d20082) |
-| Tue, 02 Sep 2025 15:11:31 GMT | Empowering Your Workforce: Cyber Security Awareness Programs for Employees in 2025 | Paul Meyer | [Read More](https://medium.com/p/9d7786976561) |
-| Tue, 02 Sep 2025 15:11:31 GMT | The Truth About Why We Push Away the People Who Care | Hurrain Fatima | [Read More](https://medium.com/p/71116dcf575d) |
-| Tue, 02 Sep 2025 15:11:04 GMT | A01:2021-Broken Access Control | Zeyad Mohamed | [Read More](https://medium.com/p/1c1c855ad365) |
-| Tue, 02 Sep 2025 15:09:35 GMT | Купить MOUNJARO (Tirzepatide) Online-Telegram….(+237672351658) | Penhousepanafri | [Read More](https://medium.com/p/17ccb46b3cc5) |
-| Tue, 02 Sep 2025 15:01:40 GMT | 7 Rising Cyber Security Roles in the Age of AI. | D.Haddad | [Read More](https://medium.com/p/b83df085af8c) |
-| Tue, 02 Sep 2025 14:58:51 GMT | How Hackers See Your Online Life vs. How You See It | Aj | [Read More](https://medium.com/p/121d9754b37f) |
-| Tue, 02 Sep 2025 14:55:34 GMT | What If Your Trading App Was Secretly Conspiring Against You? | MarketMuse | [Read More](https://medium.com/p/90e79665b46f) |
-| Tue, 02 Sep 2025 14:52:07 GMT | P.O.O — Part 1: Recon | XOR-Hacks | [Read More](https://medium.com/p/5c18358d4602) |
