@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 16:45:50 GMT | CVE-2025–29927: The Middleware Misstep That Shook Next.js | gm0 | [Read More](https://medium.com/p/a54c1268d4d3) |
+| Tue, 02 Sep 2025 16:44:29 GMT | My First Trip to the Dark Web Left Me Shaken | The Hidden Pen. | [Read More](https://medium.com/p/db11e2be773e) |
+| Tue, 02 Sep 2025 16:37:26 GMT | Cybersecurity: The Silent Guardian of the Digital Era | Mohammed Asif Shaikh | [Read More](https://medium.com/p/182e8721dce0) |
+| Tue, 02 Sep 2025 16:34:50 GMT | Your Cybersecurity Toolkit: Essential Resources for Beginners ️ | khakman | [Read More](https://medium.com/p/c8f9c0c80509) |
+| Tue, 02 Sep 2025 16:33:31 GMT | Thriving in the AV Industry: Xchange on Stage! | Matt Pana | [Read More](https://medium.com/p/222fa44d02ca) |
+| Tue, 02 Sep 2025 16:31:39 GMT | 11.5 Tbps DDoS Attack-A Wake-Up Call for Global Cyber Resilience | Chetan Seripally | [Read More](https://medium.com/p/816bbe619328) |
+| Tue, 02 Sep 2025 16:25:42 GMT | Choice Between 1 TB to 2 TB or 1 TB to 1.2 TRILLION TB? | Berend Watchus | [Read More](https://medium.com/p/b2e42cd6a6e8) |
+| Tue, 02 Sep 2025 16:24:55 GMT | Discovering a Text Injection Vulnerability — A Bug Hunter’s Learning Journey_ ver usefull for new… | Be nice insabat | [Read More](https://medium.com/p/c8e85099d271) |
+| Tue, 02 Sep 2025 16:24:52 GMT | Pyramid Of Pain | Blackoutx | [Read More](https://medium.com/p/24a032f6d47a) |
+| Tue, 02 Sep 2025 16:21:04 GMT | PromptLock: The Rise of AI-Powered Ransomware | IT_Engineer | [Read More](https://medium.com/p/a4bf11292fcc) |
 | Tue, 02 Sep 2025 16:20:43 GMT | Building Identity Management That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/6947f24ee444) |
+| Tue, 02 Sep 2025 16:19:42 GMT | The Contractor Scam: How Organized Gangs Prey on Homeowners | Internet Exposed | [Read More](https://medium.com/p/fa2ea2f72f2e) |
+| Tue, 02 Sep 2025 16:18:38 GMT | Beyond the Search Bar: The Next Evolution in How We Find Information Online | Ankush Kumar Singh | [Read More](https://medium.com/p/713b6679579a) |
 | Tue, 02 Sep 2025 16:18:31 GMT | Inside the R&D: Building an AI Pentester from the Ground Up | Daniel Knight | [Read More](https://medium.com/p/92e566cbb848) |
 | Tue, 02 Sep 2025 16:18:09 GMT | AI Security Research Working Groups | Tal Eliyahu | [Read More](https://medium.com/p/de4485ffebbd) |
 | Tue, 02 Sep 2025 16:16:53 GMT | Loose Myself | Lonely solacee | [Read More](https://medium.com/p/4a3664e393fe) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 12:46:14 GMT | Data Privacy and Surveillance – More Than Just Codes and Cameras | Aria Stella | [Read More](https://medium.com/p/e6d89ec4bb67) |
 | Tue, 02 Sep 2025 12:44:29 GMT | Setting Up a Penetration Testing Lab for Beginners in Kali Linux | Esra Kayhan | [Read More](https://medium.com/p/9956b00048cb) |
 | Tue, 02 Sep 2025 12:37:37 GMT | ThunderCipher[Cat lofi.txt] | Bhuwan Patidar | [Read More](https://medium.com/p/c0063701be91) |
-| Tue, 02 Sep 2025 12:33:44 GMT | Eve Carter — THE LAST SIGNAL Episode 5 | Shobha Pai | [Read More](https://medium.com/p/6f56e5f9bb85) |
-| Tue, 02 Sep 2025 12:31:37 GMT | How Reconciliation Software Supports Real-Time Financial Visibility | Kosh AI | [Read More](https://medium.com/p/492a78cba824) |
-| Tue, 02 Sep 2025 12:30:30 GMT | The Weight Nobody Sees | Rahul Gupta | [Read More](https://medium.com/p/c7b702242238) |
-| Tue, 02 Sep 2025 12:28:43 GMT | Solving Web Challenges: A Write-Up from UKM EXPO Micro CTF 2025 | anarchistx | [Read More](https://medium.com/p/4076c0f84763) |
-| Tue, 02 Sep 2025 12:23:51 GMT | ️Dynamic Malware Analysis Made Practical (Without Nuking My PC ) | Praz Timsina | [Read More](https://medium.com/p/e9d472846597) |
-| Tue, 02 Sep 2025 12:23:19 GMT | Unlocking Zero Trust: It’s Simpler Than You Think | Aj | [Read More](https://medium.com/p/fe87cc451d0b) |
-| Tue, 02 Sep 2025 12:22:59 GMT | Coding without a laptop: My mobile Dev story | Daniel Fuster | [Read More](https://medium.com/p/909025b4dd4b) |
-| Tue, 02 Sep 2025 12:20:47 GMT | The Complete Guide to Web Application Security Solutions for Modern Businesses | Hoplon Infosec | [Read More](https://medium.com/p/949d2dc4673e) |
-| Tue, 02 Sep 2025 12:20:41 GMT | Intro to Cyber Threat Intel (TryHackMe Walkthrough) | Danladi | [Read More](https://medium.com/p/1b6708815599) |
-| Tue, 02 Sep 2025 12:14:02 GMT | The Texas Cybersecurity Gauntlet: How 7 Simple Rules Can Save Your Small Business From Digital… | TechEd Publishers | [Read More](https://medium.com/p/05464e838411) |
-| Tue, 02 Sep 2025 12:13:11 GMT | Understanding Ransomware Attacks and How to Prevent Them | Kartik Debnath | [Read More](https://medium.com/p/398a5b7ce6af) |
-| Tue, 02 Sep 2025 12:12:08 GMT | Cara Mengatur PATH Environment Variable di Windows | Mutiara Diva Jaladitha | [Read More](https://medium.com/p/e8623ca1aaa5) |
