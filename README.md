@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 14:37:42 GMT | Analysis - China’s Military Influence in Cambodia: A Risk for Indo-Pacific Maritime Security | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/63fb45b238ae) |
+| Tue, 02 Sep 2025 14:26:31 GMT | ASCII Magic: The $15,000 Mystery of Disappearing Letters — Exploring LLM Agent Supply Chain Risks… | Justas_b | [Read More](https://medium.com/p/4c41d9a93661) |
+| Tue, 02 Sep 2025 14:21:28 GMT | From Antivirus to EDR: Learning Through the Airport Analogy ️ | Ansul Kotadia | [Read More](https://medium.com/p/1ccf6e5f57e8) |
+| Tue, 02 Sep 2025 14:20:20 GMT | TryHackMe Red Room | Vikash Yadav | [Read More](https://medium.com/p/0ef0ca4acf5b) |
+| Tue, 02 Sep 2025 14:17:12 GMT | How Can a Single Email Threaten Your Entire System in Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/fdfcb50bdeef) |
+| Tue, 02 Sep 2025 14:16:53 GMT | Next-Generation Cybersecurity Solutions: Defending Tomorrow’s Digital Landscape | Technijian ITSupport | [Read More](https://medium.com/p/e6acd2af961e) |
+| Tue, 02 Sep 2025 14:15:55 GMT | Why the internet would collapse without this secret language | Azalia Noverizqy | [Read More](https://medium.com/p/7e509dc6069a) |
 | Tue, 02 Sep 2025 14:15:15 GMT | THM Write-up: Vulnerable Codes | Fatih Kucukkarakurt | [Read More](https://medium.com/p/9ea8fe8464f9) |
 | Tue, 02 Sep 2025 14:11:39 GMT | TryHackMe #8 - Extending Your Network | 0xGroot | [Read More](https://medium.com/p/3c6508953d5a) |
+| Tue, 02 Sep 2025 14:10:31 GMT | Protection in Every Detail | Quva India | [Read More](https://medium.com/p/dcbe750a6500) |
 | Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #5 - Intro to LAN | 0xGroot | [Read More](https://medium.com/p/afa63b255ac7) |
 | Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #6 - OSI Model | 0xGroot | [Read More](https://medium.com/p/a0c22eec7889) |
 | Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #7 - Packets & Frames | 0xGroot | [Read More](https://medium.com/p/757d1a61769b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 10:41:15 GMT | Agosto 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/3629d92e1eaa) |
 | Tue, 02 Sep 2025 10:32:13 GMT | HTB Endpoint Challenge Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/d4e0bb688101) |
 | Tue, 02 Sep 2025 10:31:22 GMT | Top 5 Reasons to Migrate from Egnyte to SharePoint Online | Arun Jyothi | [Read More](https://medium.com/p/7d09734cb494) |
-| Tue, 02 Sep 2025 10:28:07 GMT | Connecting to a Hidden C2 via Redirector: Simple C++ Agent — Part 3 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/43a794508a02) |
-| Tue, 02 Sep 2025 10:27:46 GMT | Building a Career in Ethical Hacking: Skills You Need | Nagaraj | [Read More](https://medium.com/p/8132b4930d87) |
-| Tue, 02 Sep 2025 10:22:11 GMT | Beyond the Ransomware Playbook: Why Your Toolkit Needs a Cloud Security Upgrade | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/35d4e333dec3) |
-| Tue, 02 Sep 2025 10:21:38 GMT | New Chart Offers Best Tips for Business Cybersecurity | Mitchell Barrick | [Read More](https://medium.com/p/4a8fcf45f1ae) |
-| Tue, 02 Sep 2025 10:17:05 GMT | Tuesday Morning Threat Report: Sept 2, 2025 | Mark Maguire | [Read More](https://medium.com/p/895f30cfe44f) |
-| Tue, 02 Sep 2025 10:16:55 GMT | Top Cyber Security Services Providers in Australia: Safeguarding Your Business in the Digital Age | vGics Global LLP | [Read More](https://medium.com/p/5ec42c845886) |
-| Tue, 02 Sep 2025 10:16:17 GMT | Best Lease Management Software In India For Retail Business | Gowthammathiew | [Read More](https://medium.com/p/86e28dc02ac4) |
-| Tue, 02 Sep 2025 10:14:34 GMT | From Gmail to Gmàil: A Punycode Path to Account Takeover | Minio Haxer | [Read More](https://medium.com/p/88896264acdb) |
