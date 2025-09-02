@@ -12,11 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 15:31:48 GMT | Day 14: Package Management in Linux | Prutha_Dongre | [Read More](https://medium.com/p/0a365bf557b4) |
+| Tue, 02 Sep 2025 15:30:55 GMT | Discovering a Text Injection Vulnerability — A Bug Hunter’s Learning Journey very usefull for new… | Be nice insabat | [Read More](https://medium.com/p/d366e3271476) |
+| Tue, 02 Sep 2025 15:27:12 GMT | LEMIX: Enabling Testing of Embedded Applications as Linux Applications | James Davis | [Read More](https://medium.com/p/895f85131cd8) |
+| Tue, 02 Sep 2025 15:23:36 GMT | Evil-GPT: TryHackMe Writeup | Farhad Anwari | [Read More](https://medium.com/p/45ce1ae7e965) |
+| Tue, 02 Sep 2025 15:20:47 GMT | SHARING EXPERIENCE Taking the Junior Penetration Tester (PT1) Certification on TryHackMe | m3mories | [Read More](https://medium.com/p/5ee85fb1ff5f) |
+| Tue, 02 Sep 2025 15:20:08 GMT | Guía Completa sobre Phishing: Cómo identificar, prevenir y actuar ante estos ciberataques | Tiziano Mass | [Read More](https://medium.com/p/fe2483a55a36) |
+| Tue, 02 Sep 2025 15:18:40 GMT | “Mujahid of Allah” Ruskinet Group Cyber | Mohamed Mostafa | [Read More](https://medium.com/p/4b5128a3e39a) |
+| Tue, 02 Sep 2025 15:15:32 GMT | Apple Vulnerability Disclosure (Independent Security Report) | Yakov Manshin | [Read More](https://medium.com/p/c0087b817d2b) |
 | Tue, 02 Sep 2025 15:14:44 GMT | The Importance of Multi-Factor Authentication (MFA) in 2025 | Samina Perveen | [Read More](https://medium.com/p/c1b914ab7330) |
 | Tue, 02 Sep 2025 15:13:05 GMT | In our modern world, almost every aspect of life has shifted into the digital space. | Maulana_Syarif_H_M0403241049_Computer_Science | [Read More](https://medium.com/p/ab6d7e4e0891) |
 | Tue, 02 Sep 2025 15:12:25 GMT | Criptografía cuántica para mejorar la seguridad de red de Units Network: Preparando el Layer-0… | WAVES LATAM | [Read More](https://medium.com/p/876f78d20082) |
 | Tue, 02 Sep 2025 15:11:31 GMT | Empowering Your Workforce: Cyber Security Awareness Programs for Employees in 2025 | Paul Meyer | [Read More](https://medium.com/p/9d7786976561) |
+| Tue, 02 Sep 2025 15:11:31 GMT | The Truth About Why We Push Away the People Who Care | Hurrain Fatima | [Read More](https://medium.com/p/71116dcf575d) |
 | Tue, 02 Sep 2025 15:11:04 GMT | A01:2021-Broken Access Control | Zeyad Mohamed | [Read More](https://medium.com/p/1c1c855ad365) |
+| Tue, 02 Sep 2025 15:09:35 GMT | Купить MOUNJARO (Tirzepatide) Online-Telegram….(+237672351658) | Penhousepanafri | [Read More](https://medium.com/p/17ccb46b3cc5) |
 | Tue, 02 Sep 2025 15:01:40 GMT | 7 Rising Cyber Security Roles in the Age of AI. | D.Haddad | [Read More](https://medium.com/p/b83df085af8c) |
 | Tue, 02 Sep 2025 14:58:51 GMT | How Hackers See Your Online Life vs. How You See It | Aj | [Read More](https://medium.com/p/121d9754b37f) |
 | Tue, 02 Sep 2025 14:55:34 GMT | What If Your Trading App Was Secretly Conspiring Against You? | MarketMuse | [Read More](https://medium.com/p/90e79665b46f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 11:14:48 GMT | From Fragile to Fearless: The Future I See with Drosera | Cephas | [Read More](https://medium.com/p/17e97fbc4116) |
 | Tue, 02 Sep 2025 11:06:12 GMT | Threat and Vulnerabilities Report — August 2025 | Loginsoft | [Read More](https://medium.com/p/34988d3f4e72) |
 | Tue, 02 Sep 2025 11:03:58 GMT | Introduction to EDR | Cheryl Maise Lobo | [Read More](https://medium.com/p/8718a529b26c) |
-| Tue, 02 Sep 2025 11:01:42 GMT | Migration Planning and Strategic Considerations to Lead in the Post-Quantum World | Left4Zed | [Read More](https://medium.com/p/0a7b53862a27) |
-| Tue, 02 Sep 2025 11:01:41 GMT | Best Gmail Security Guide for 2025: Salesforce Breaches, CRM Comparisons, and Landing Page Tips | TechNewz | [Read More](https://medium.com/p/cc9a48f26d75) |
-| Tue, 02 Sep 2025 11:01:41 GMT | Discover the Exciting Stories of the IT Industry in the 1990s | Stacklegend | [Read More](https://medium.com/p/84acf8cf8053) |
-| Tue, 02 Sep 2025 11:00:05 GMT | Master AI Integration: How to Power Your Business with AI Assistants | tkxel | [Read More](https://medium.com/p/a6b98fb22f83) |
-| Tue, 02 Sep 2025 10:59:48 GMT | Best Facility Management Services in Hyderabad - Group 24x7 Security | Group 24/7 Security Services | [Read More](https://medium.com/p/2467f577efdf) |
-| Tue, 02 Sep 2025 10:59:36 GMT | Beating Windows Defender in 2025: Python Shellcode Loader Edition | Yua Mikanana | [Read More](https://medium.com/p/87dd3d80f697) |
-| Tue, 02 Sep 2025 10:57:28 GMT | How I Used an Advanced XSS Technique to Earn $1000 Bug Bounty | Zoningxtr | [Read More](https://medium.com/p/74b28e9ec6ef) |
-| Tue, 02 Sep 2025 10:55:30 GMT | Why Choose a Professional Security Guard Company in San Jose? | Direct Guard Services | [Read More](https://medium.com/p/7b5312248a89) |
-| Tue, 02 Sep 2025 10:54:17 GMT | Housekeeping Services in Bangalore — More Than Just Cleaning | EXLITY | [Read More](https://medium.com/p/2b90f66827ff) |
-| Tue, 02 Sep 2025 10:52:35 GMT | mpokket loan App Customer care helpline number (+91)7294161837@ Call all problem solution | Vishal Kumar KK | [Read More](https://medium.com/p/97156789034f) |
