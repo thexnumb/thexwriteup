@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 09:35:16 GMT | Boosting Productivity and Security with Modern Business Solutions | Aishwarya | [Read More](https://medium.com/p/c2d0a7601b65) |
+| Tue, 02 Sep 2025 09:31:42 GMT | Tech Trends 2025: Top 10 You Can’t Ignore | Hash Block | [Read More](https://medium.com/p/5e05dfd20aa5) |
+| Tue, 02 Sep 2025 09:31:24 GMT | React.js Security Misconfiguration: Fixes & Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/3e4c3f11a676) |
+| Tue, 02 Sep 2025 09:30:29 GMT | Backup Strategies That Actually Work: Protect Data, Cut Cloud Costs, Recover Faster | Iliya Garakh | [Read More](https://medium.com/p/55b0efd5c89d) |
+| Tue, 02 Sep 2025 09:24:25 GMT | Compliance as a Service: Here’s how we built it ! | Franck Reant | [Read More](https://medium.com/p/776acd67fc4b) |
+| Tue, 02 Sep 2025 09:23:03 GMT | How I Built a Mini Port Scanner in Python (With Just a Few Lines of Code) | Shayaan Khan | [Read More](https://medium.com/p/7e66471052cf) |
 | Tue, 02 Sep 2025 09:21:16 GMT | Common Cloud Security Challenges: How to Solve Them | Swapnil S. | [Read More](https://medium.com/p/1907f1debd4c) |
 | Tue, 02 Sep 2025 09:16:00 GMT | Top 6 Microsoft 365, EntraID and Azure Security Misconfigurations — Part 1/3 | Alain Keller | [Read More](https://medium.com/p/c7a91733ddbe) |
 | Tue, 02 Sep 2025 09:15:13 GMT | Surge in Data Breach Victims Highlights Need for Proactive Cybersecurity Measures | Abatis ABTU | [Read More](https://medium.com/p/da5b621fa3a3) |
@@ -107,9 +113,3 @@ By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f
 | Tue, 02 Sep 2025 03:34:30 GMT | Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025 | Mohamed.cybersec | [Read More](https://medium.com/p/1a892f715b09) |
 | Tue, 02 Sep 2025 03:33:14 GMT | The Moral Machine: Why AI Cannot — and Should Not — Be Our Ethical Arbiter | Bew Chaiwattanachai | [Read More](https://medium.com/p/9274f2f4129a) |
 | Tue, 02 Sep 2025 03:32:46 GMT | Static Immutability: How Modern P2P Networks Build Trust Without Servers or Blockchain | estebanrfp | [Read More](https://medium.com/p/b2fd0816689a) |
-| Tue, 02 Sep 2025 03:31:28 GMT | When Your Everyday Webcam Turns Into a Silent BadUSB Threat | Deven Chhajed | [Read More](https://medium.com/p/1d7230f3722c) |
-| Tue, 02 Sep 2025 03:31:28 GMT | Cybersecurity for Small Businesses: A Complete Beginner’s Guide (2025 Edition) | Secventra | [Read More](https://medium.com/p/8a05c460a971) |
-| Tue, 02 Sep 2025 03:28:09 GMT | GDB baby step 1 | Michael Elfauz | [Read More](https://medium.com/p/b3c10b7cdc94) |
-| Tue, 02 Sep 2025 03:21:23 GMT | Critical Risk: Seeyon OA Arbitrary Password Reset Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/ddbea35ac606) |
-| Tue, 02 Sep 2025 03:15:27 GMT | AWS IAM Roles Explained: Best Practices for Secure Service Permissions | Juan Andrés Leiva | [Read More](https://medium.com/p/e52dff94a13f) |
-| Tue, 02 Sep 2025 03:08:24 GMT | Building Data Privacy in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/7a2374261eab) |
