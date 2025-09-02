@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 19:32:14 GMT | TryHackMe OhSINT: OSINT and the Risks of an Unsecure Online Presence | William Kunesh | [Read More](https://medium.com/p/4186425a9ab9) |
+| Tue, 02 Sep 2025 19:18:01 GMT | واش المغرب خاصو يستورد التكنولوجيا الحربية من Elbit؟ | Soufiane Habti | [Read More](https://medium.com/p/b9baaf40178a) |
+| Tue, 02 Sep 2025 19:17:39 GMT | [Part 3] Security by Design: How the CRA Turns Compliance Into Competitive Advantage | Cyberkech | [Read More](https://medium.com/p/8adcf1c0d775) |
+| Tue, 02 Sep 2025 19:17:17 GMT | Enterprise AI Deployment for Cybersecurity Companies | Khaled Eid Abdulaziz | [Read More](https://medium.com/p/7b55a95078fc) |
+| Tue, 02 Sep 2025 19:15:35 GMT | I Lost To Luxe Markets _ Here Is How I Got My Money Back | Cunha | [Read More](https://medium.com/p/c4c2683ec02f) |
+| Tue, 02 Sep 2025 19:13:53 GMT | Hybrid VM Walkthrough | Spookz | [Read More](https://medium.com/p/de9ed9ecad9a) |
+| Tue, 02 Sep 2025 19:13:20 GMT | I Got Scammed By Luxe Markets _ Here Is How I Recovered My Money | Cunha | [Read More](https://medium.com/p/758d12f2cd53) |
+| Tue, 02 Sep 2025 19:08:15 GMT | Kali Linux -- Gelişme | Mustafa Gunay | [Read More](https://medium.com/p/1a125c891ee1) |
+| Tue, 02 Sep 2025 19:08:00 GMT | ️ A Beginner’s Guide to Building Your Cybersecurity Portfolio | Mohammed Fahad | [Read More](https://medium.com/p/06aba8234bfa) |
+| Tue, 02 Sep 2025 19:03:43 GMT | Workday Data Breach — Lessons in Third-Party and Social Engineering Security | Ujjavalsolanki | [Read More](https://medium.com/p/3f45ff6ffa41) |
 | Tue, 02 Sep 2025 19:00:37 GMT | Why HTTPS Doesn’t Actually Protect You (From the Real Threats) | Sohail Saifi | [Read More](https://medium.com/p/bb409f6097d6) |
 | Tue, 02 Sep 2025 18:59:59 GMT | Applying K-Means Clustering for Vulnerability Prioritization | Patrick Lefler | [Read More](https://medium.com/p/a7f8ae854bbf) |
 | Tue, 02 Sep 2025 18:52:58 GMT | AI Sleeper Agents — The Digital Espionage | Siddharth Saraf | [Read More](https://medium.com/p/36a0d9c075cd) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 14:58:51 GMT | How Hackers See Your Online Life vs. How You See It | Aj | [Read More](https://medium.com/p/121d9754b37f) |
 | Tue, 02 Sep 2025 14:55:34 GMT | What If Your Trading App Was Secretly Conspiring Against You? | MarketMuse | [Read More](https://medium.com/p/90e79665b46f) |
 | Tue, 02 Sep 2025 14:52:07 GMT | P.O.O — Part 1: Recon | XOR-Hacks | [Read More](https://medium.com/p/5c18358d4602) |
-| Tue, 02 Sep 2025 14:47:28 GMT | Shamos macOS Infostealer: Malvertising Lures, BYOD Gaps, and Sector Expansion | Wes Young | [Read More](https://medium.com/p/cadd95a22928) |
-| Tue, 02 Sep 2025 14:46:57 GMT | “Day 26: The WebSocket Hijack — How I Eavesdropped on Every Customer Support Chat” | Aman Sharma | [Read More](https://medium.com/p/de5ddc819ad2) |
-| Tue, 02 Sep 2025 14:46:33 GMT | Analysis - Pills, Diamonds and Power: Shutting the Door on Hezbollah’s Comeback | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/775f560534bc) |
-| Tue, 02 Sep 2025 14:43:36 GMT | Exploiting Android Through Evil Droid | Nouman Ali Khan | [Read More](https://medium.com/p/f6240c977a00) |
-| Tue, 02 Sep 2025 14:37:42 GMT | Analysis - China’s Military Influence in Cambodia: A Risk for Indo-Pacific Maritime Security | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/63fb45b238ae) |
-| Tue, 02 Sep 2025 14:26:31 GMT | ASCII Magic: The $15,000 Mystery of Disappearing Letters — Exploring LLM Agent Supply Chain Risks… | Justas_b | [Read More](https://medium.com/p/4c41d9a93661) |
-| Tue, 02 Sep 2025 14:21:28 GMT | From Antivirus to EDR: Learning Through the Airport Analogy ️ | Ansul Kotadia | [Read More](https://medium.com/p/1ccf6e5f57e8) |
-| Tue, 02 Sep 2025 14:20:20 GMT | TryHackMe Red Room | Vikash Yadav | [Read More](https://medium.com/p/0ef0ca4acf5b) |
-| Tue, 02 Sep 2025 14:17:12 GMT | How Can a Single Email Threaten Your Entire System in Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/fdfcb50bdeef) |
-| Tue, 02 Sep 2025 14:16:53 GMT | Next-Generation Cybersecurity Solutions: Defending Tomorrow’s Digital Landscape | Technijian ITSupport | [Read More](https://medium.com/p/e6acd2af961e) |
