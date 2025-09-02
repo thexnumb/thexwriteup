@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 11:30:07 GMT | Securing CI/CD Pipelines with Oracle Database Vault | Thomas Minne | [Read More](https://medium.com/p/5ce7a516d45a) |
+| Tue, 02 Sep 2025 11:29:43 GMT | How I Uncovered an IP Spoofing Vulnerability During Routine Testing in a private bug bounty program | Be nice insabat | [Read More](https://medium.com/p/802921834d55) |
+| Tue, 02 Sep 2025 11:28:57 GMT | Can Azure Certification Create More Unique IT Job Opportunities? | Mohammed Numan | [Read More](https://medium.com/p/02a2c5c65ad0) |
+| Tue, 02 Sep 2025 11:25:59 GMT | A Moonshot for Reversing the Ecological Crises — Phase 2 | Erik Kvam | [Read More](https://medium.com/p/7577dc93bba2) |
+| Tue, 02 Sep 2025 11:22:13 GMT | Why Modern Companies Use FAIR for Cyber Risk Assessment | Appzlogic | [Read More](https://medium.com/p/04e014ae4cbb) |
+| Tue, 02 Sep 2025 11:21:39 GMT | Celebrating Women in Cybersecurity: Progress and Opportunities | Brittney Ginther | [Read More](https://medium.com/p/9b7961be6a94) |
+| Tue, 02 Sep 2025 11:17:13 GMT | ChatGPT-Hallucination-Proof Tools: Fact vs Fiction | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/f6b3ca1683b8) |
+| Tue, 02 Sep 2025 11:16:12 GMT | Event Security Services Phoenix That Reduce Legal and Liability Risks | Trans-World Security | [Read More](https://medium.com/p/fb41679aaceb) |
+| Tue, 02 Sep 2025 11:14:48 GMT | From Fragile to Fearless: The Future I See with Drosera | Cephas | [Read More](https://medium.com/p/17e97fbc4116) |
 | Tue, 02 Sep 2025 11:06:12 GMT | Threat and Vulnerabilities Report — August 2025 | Loginsoft | [Read More](https://medium.com/p/34988d3f4e72) |
 | Tue, 02 Sep 2025 11:03:58 GMT | Introduction to EDR | Cheryl Maise Lobo | [Read More](https://medium.com/p/8718a529b26c) |
 | Tue, 02 Sep 2025 11:01:42 GMT | Migration Planning and Strategic Considerations to Lead in the Post-Quantum World | Left4Zed | [Read More](https://medium.com/p/0a7b53862a27) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 07:52:19 GMT | WEP, WPA, WPA2, WPA3: How Wi-Fi Security Works and How Hackers Try to Break It | Tan Woei Jye | [Read More](https://medium.com/p/94b32b7000c8) |
 | Tue, 02 Sep 2025 07:38:54 GMT | ประจำวันอังคารที่ 2 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/943513d5118c) |
 | Tue, 02 Sep 2025 07:34:59 GMT | How Google make us blind | Martin Abramov | [Read More](https://medium.com/p/bfc2b0052ff8) |
-| Tue, 02 Sep 2025 07:34:14 GMT | A simple guide to online privacy and security | Vimothy Chalamet | [Read More](https://medium.com/p/7dba1c55e71e) |
-| Tue, 02 Sep 2025 07:31:37 GMT | MERCURY’S LOVER | Abad Grueso | [Read More](https://medium.com/p/cf9d5b6f58ac) |
-| Tue, 02 Sep 2025 07:27:37 GMT | HOSTING GOPHISH ON A PUBLIC SERVER. | Joanorifha | [Read More](https://medium.com/p/7e5c34021638) |
-| Tue, 02 Sep 2025 07:19:00 GMT | Stopping Malicious Web Crawlers from Wasting Your Bandwidth with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/b8f8ecb24558) |
-| Tue, 02 Sep 2025 07:17:18 GMT | ☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere | Iski | [Read More](https://medium.com/p/3347780c79c5) |
-| Tue, 02 Sep 2025 07:15:19 GMT | Are Your Devices Spying on You Even When Offline? | Tarush Sharma | [Read More](https://medium.com/p/ff90fe860f12) |
-| Tue, 02 Sep 2025 07:14:06 GMT | How to Unlock Bigger Rewards with BUG BUG | BUG | [Read More](https://medium.com/p/2df26b17762d) |
-| Tue, 02 Sep 2025 07:06:13 GMT | Securing AI Agents: Risks, Threat Models, and Defences | George Zarkadakis | [Read More](https://medium.com/p/cb9171235b50) |
-| Tue, 02 Sep 2025 07:01:51 GMT | Top 10 hacking Books to Learn Ethical Hacking | Manisha Chaudhary | [Read More](https://medium.com/p/687684c22d68) |
