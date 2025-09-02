@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 03:34:30 GMT | Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025 | Mohamed.cybersec | [Read More](https://medium.com/p/1a892f715b09) |
+| Tue, 02 Sep 2025 03:33:14 GMT | The Moral Machine: Why AI Cannot — and Should Not — Be Our Ethical Arbiter | Bew Chaiwattanachai | [Read More](https://medium.com/p/9274f2f4129a) |
+| Tue, 02 Sep 2025 03:32:46 GMT | Static Immutability: How Modern P2P Networks Build Trust Without Servers or Blockchain | estebanrfp | [Read More](https://medium.com/p/b2fd0816689a) |
+| Tue, 02 Sep 2025 03:31:28 GMT | When Your Everyday Webcam Turns Into a Silent BadUSB Threat | Deven Chhajed | [Read More](https://medium.com/p/1d7230f3722c) |
+| Tue, 02 Sep 2025 03:31:28 GMT | Cybersecurity for Small Businesses: A Complete Beginner’s Guide (2025 Edition) | Secventra | [Read More](https://medium.com/p/8a05c460a971) |
+| Tue, 02 Sep 2025 03:28:09 GMT | GDB baby step 1 | Michael Elfauz | [Read More](https://medium.com/p/b3c10b7cdc94) |
+| Tue, 02 Sep 2025 03:21:23 GMT | Critical Risk: Seeyon OA Arbitrary Password Reset Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/ddbea35ac606) |
+| Tue, 02 Sep 2025 03:15:27 GMT | AWS IAM Roles Explained: Best Practices for Secure Service Permissions | Juan Andrés Leiva | [Read More](https://medium.com/p/e52dff94a13f) |
+| Tue, 02 Sep 2025 03:08:24 GMT | Building Data Privacy in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/7a2374261eab) |
+| Tue, 02 Sep 2025 03:06:17 GMT | Building Data Privacy for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/155e1d66713a) |
 | Tue, 02 Sep 2025 02:52:42 GMT | What Is JOSE and Why It Matters for Financial Android Apps | amol pawar | [Read More](https://medium.com/p/a901062fabf4) |
 | Tue, 02 Sep 2025 02:46:18 GMT | How AI Is Revolutionizing SOC Operations: 7 Real-World Use Cases (+ Python Demo) | Paritosh | [Read More](https://medium.com/p/263b46bfa4dd) |
 | Tue, 02 Sep 2025 02:42:48 GMT | My Name Is Shayaan Khan, and This Is Where My Cybersecurity Journey Begins | Shayaan Khan | [Read More](https://medium.com/p/991d5cad12f7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 18:26:50 GMT | Building Cybersecurity in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/05eaf26c02e1) |
 | Mon, 01 Sep 2025 18:25:09 GMT | Private Service Connect for GCP Managed Services and APIs | Rahul Soni | [Read More](https://medium.com/p/8539203d9d51) |
 | Mon, 01 Sep 2025 18:23:41 GMT | Sirraya Codon Protocol: Rust Technical Specification v 1.0 | Aamir Hameed | [Read More](https://medium.com/p/af25d83fa606) |
-| Mon, 01 Sep 2025 18:21:44 GMT | Most people think using a VPN makes their browsing private, but there’s a hidden layer that can… | Raghav Mahajan | [Read More](https://medium.com/p/a551013897a6) |
-| Mon, 01 Sep 2025 18:17:37 GMT | WHY TRADERS AND INVESTORS LOVE LAIKA AI | Web3Dof | [Read More](https://medium.com/p/dff3d089848f) |
-| Mon, 01 Sep 2025 18:15:10 GMT | Transport layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/97513028928e) |
-| Mon, 01 Sep 2025 18:06:47 GMT | Smart Contract Hacking: Exploiting Access Control Flaws | Aditya Raj | [Read More](https://medium.com/p/2f7a46b9e0d7) |
-| Mon, 01 Sep 2025 18:04:10 GMT | How Quantum Algorithms Work -An Overview of Shor’s & Grover’s Algorithms | Abishekbalamurugan | [Read More](https://medium.com/p/071178366859) |
-| Mon, 01 Sep 2025 18:03:42 GMT | Demystifying AI in Cybersecurity and the Power of Data | Artificial Intelligence Details | [Read More](https://medium.com/p/ea1d4003ecb5) |
-| Mon, 01 Sep 2025 18:03:39 GMT | Post-Quantum Cryptography: Is Your Data Ready for Tomorrow? | Hash Block | [Read More](https://medium.com/p/01e17c0bff6d) |
-| Mon, 01 Sep 2025 18:03:15 GMT | Ripping IDs: Solutions — Quantify mDL as superior evidence vs. DL/ID | David Kelts on ID | [Read More](https://medium.com/p/cac232bf8683) |
-| Mon, 01 Sep 2025 18:01:49 GMT | Achieving IAL2 in Remote Identity Proofing or Verification | David Kelts on ID | [Read More](https://medium.com/p/fe754229cab2) |
-| Mon, 01 Sep 2025 18:01:28 GMT | Demystifying AI in Cybersecurity and Human Creativity | Artificial Intelligence Details | [Read More](https://medium.com/p/1e31f0de413c) |
