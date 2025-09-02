@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 12:37:37 GMT | ThunderCipher[Cat lofi.txt] | Bhuwan Patidar | [Read More](https://medium.com/p/c0063701be91) |
+| Tue, 02 Sep 2025 12:33:44 GMT | Eve Carter — THE LAST SIGNAL Episode 5 | Shobha Pai | [Read More](https://medium.com/p/6f56e5f9bb85) |
+| Tue, 02 Sep 2025 12:31:37 GMT | How Reconciliation Software Supports Real-Time Financial Visibility | Kosh AI | [Read More](https://medium.com/p/492a78cba824) |
+| Tue, 02 Sep 2025 12:30:30 GMT | The Weight Nobody Sees | Rahul Gupta | [Read More](https://medium.com/p/c7b702242238) |
+| Tue, 02 Sep 2025 12:28:43 GMT | Solving Web Challenges: A Write-Up from UKM EXPO Micro CTF 2025 | anarchistx | [Read More](https://medium.com/p/4076c0f84763) |
+| Tue, 02 Sep 2025 12:23:51 GMT | ️Dynamic Malware Analysis Made Practical (Without Nuking My PC ) | Praz Timsina | [Read More](https://medium.com/p/e9d472846597) |
+| Tue, 02 Sep 2025 12:23:19 GMT | Unlocking Zero Trust: It’s Simpler Than You Think | Aj | [Read More](https://medium.com/p/fe87cc451d0b) |
+| Tue, 02 Sep 2025 12:22:59 GMT | Coding without a laptop: My mobile Dev story | Daniel Fuster | [Read More](https://medium.com/p/909025b4dd4b) |
+| Tue, 02 Sep 2025 12:20:47 GMT | The Complete Guide to Web Application Security Solutions for Modern Businesses | Hoplon Infosec | [Read More](https://medium.com/p/949d2dc4673e) |
+| Tue, 02 Sep 2025 12:20:41 GMT | Intro to Cyber Threat Intel (TryHackMe Walkthrough) | Danladi | [Read More](https://medium.com/p/1b6708815599) |
+| Tue, 02 Sep 2025 12:14:02 GMT | The Texas Cybersecurity Gauntlet: How 7 Simple Rules Can Save Your Small Business From Digital… | TechEd Publishers | [Read More](https://medium.com/p/05464e838411) |
+| Tue, 02 Sep 2025 12:13:11 GMT | Understanding Ransomware Attacks and How to Prevent Them | Kartik Debnath | [Read More](https://medium.com/p/398a5b7ce6af) |
+| Tue, 02 Sep 2025 12:12:08 GMT | Cara Mengatur PATH Environment Variable di Windows | Mutiara Diva Jaladitha | [Read More](https://medium.com/p/e8623ca1aaa5) |
+| Tue, 02 Sep 2025 12:11:11 GMT | Installing and Configuring Duo Security on Oracle Linux | Alan v | [Read More](https://medium.com/p/97fe04a4875d) |
+| Tue, 02 Sep 2025 12:08:12 GMT | TryHackMe-Bounty Hacker Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/30d1fe7b904b) |
+| Tue, 02 Sep 2025 12:07:20 GMT | TryHackMe PT1 Exam Review - Through the Eyes of a Hacking Newbie | Simi | [Read More](https://medium.com/p/dd2996b1003c) |
+| Tue, 02 Sep 2025 12:04:39 GMT | How I Crashed Example Health’s CORS Party | Devansh Patel | [Read More](https://medium.com/p/5b64a897be5a) |
+| Tue, 02 Sep 2025 11:53:00 GMT | PG Practice — Exfiltrated (Linux) | Lepton | [Read More](https://medium.com/p/056ae87f455e) |
+| Tue, 02 Sep 2025 11:52:44 GMT | PG Practice — Medjed (Windows) | Lepton | [Read More](https://medium.com/p/83f579683a12) |
+| Tue, 02 Sep 2025 11:52:20 GMT | PG Play — Loly (Linux) | Lepton | [Read More](https://medium.com/p/e01f01bf762b) |
+| Tue, 02 Sep 2025 11:47:17 GMT | Professional Security Services in Bangalore: Ensuring Safety for Businesses and Communities | Global Security | [Read More](https://medium.com/p/1ab01adb2aff) |
+| Tue, 02 Sep 2025 11:44:24 GMT | Protecting Hospitals With Reliable Health Sites Security in New York | White Tiger Security Services | [Read More](https://medium.com/p/06b14eac7270) |
+| Tue, 02 Sep 2025 11:40:41 GMT | What Are Security and Privacy by Design Services and Why Do They Matter? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/cbd8f65ecced) |
+| Tue, 02 Sep 2025 11:36:43 GMT | What Makes AI Training in Bangalore a Great Choice? | Mohammed Numan | [Read More](https://medium.com/p/611aaf0c6673) |
+| Tue, 02 Sep 2025 11:33:37 GMT | The Future of Yields: Maximizing BUG Potential | BUG | [Read More](https://medium.com/p/a94395e4081a) |
+| Tue, 02 Sep 2025 11:32:55 GMT | DockerLabs Writeup — Inclusion (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/adced396f3b1) |
 | Tue, 02 Sep 2025 11:30:07 GMT | Securing CI/CD Pipelines with Oracle Database Vault | Thomas Minne | [Read More](https://medium.com/p/5ce7a516d45a) |
 | Tue, 02 Sep 2025 11:29:43 GMT | How I Uncovered an IP Spoofing Vulnerability During Routine Testing in a private bug bounty program | Be nice insabat | [Read More](https://medium.com/p/802921834d55) |
 | Tue, 02 Sep 2025 11:28:57 GMT | Can Azure Certification Create More Unique IT Job Opportunities? | Mohammed Numan | [Read More](https://medium.com/p/02a2c5c65ad0) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 09:03:41 GMT | ️ Secure Authentication in SOC Environments Using Zero-Knowledge Proofs | Esra Kayhan | [Read More](https://medium.com/p/41b421763d20) |
 | Tue, 02 Sep 2025 09:03:23 GMT | Is Your API Gateway the Hidden Weakness That Could Topple Your Microservices? | Iliya Garakh | [Read More](https://medium.com/p/4a014f03c5ac) |
 | Tue, 02 Sep 2025 09:01:36 GMT | Sun Tzu vs. Ransomware: Cybersecurity & The Art of War | Abatis ABTU | [Read More](https://medium.com/p/0dd41ad746c3) |
-| Tue, 02 Sep 2025 08:53:33 GMT | The Insider’s Paradox: Rethinking Product Strategy in High-Risk Markets | Isaac Oladega - Product Lens | [Read More](https://medium.com/p/3996167a1647) |
-| Tue, 02 Sep 2025 08:51:00 GMT | Flipping the Phishing Playbook: How ‘ZipLine’ Phishers Lure Victims Into Contacting Them | Ashley Dai | [Read More](https://medium.com/p/996919d78741) |
-| Tue, 02 Sep 2025 08:47:09 GMT | Access Control Systems Maryland: ICS Security Solutions | Bocakek Noidem | [Read More](https://medium.com/p/ccd3a4df1f5d) |
-| Tue, 02 Sep 2025 08:45:07 GMT | Endurance Composite French Doors: Where Style Meets Unmatched Security | Endurance Doors | [Read More](https://medium.com/p/9e1ad8771ec1) |
-| Tue, 02 Sep 2025 08:45:07 GMT | Bulletproof Your Vault: 5 Modern Secret Managers That Actually Secure Production | Iliya Garakh | [Read More](https://medium.com/p/31960bed02e3) |
-| Tue, 02 Sep 2025 08:44:14 GMT | India Network Video Recorder Market to Witness Stunning Growth by 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/31073654a935) |
-| Tue, 02 Sep 2025 08:43:17 GMT | From Hotel Wi-Fi to Cyber Espionage: Mustang Panda’s Captive Portal Malware Campaign | Ashley Dai | [Read More](https://medium.com/p/cc21db176bdf) |
-| Tue, 02 Sep 2025 08:41:27 GMT | Quranium’s August Wrap-Up: Upgrades, Community Wins, and a Focus on Security. | Bright Mmaduabuchi | [Read More](https://medium.com/p/efee10b953ab) |
-| Tue, 02 Sep 2025 08:36:25 GMT | AI Threats Have Moved Out of the Lab | Yousri KOUKI | [Read More](https://medium.com/p/f5bfb5341462) |
-| Tue, 02 Sep 2025 08:36:20 GMT | Cybercrime & Your Wallet: Protecting Personal Finance in 2025! | Pranav Gupta | [Read More](https://medium.com/p/9f473cd79eff) |
-| Tue, 02 Sep 2025 08:33:25 GMT | SQL Injection & Cross-Site Scripting (XSS): How to Protect Your Web Application | Secuodsoft Technologies | [Read More](https://medium.com/p/7229b38d7e4f) |
-| Tue, 02 Sep 2025 08:30:59 GMT | Uncovering Intercom Misconfigurations: From Ignored Widgets to High-Impact Vulnerabilities | WHO AM I ? | [Read More](https://medium.com/p/26115f9481ca) |
-| Tue, 02 Sep 2025 08:30:40 GMT | PortSwigger Lab : User Role Controlled by Request Parameter | Siddiquimohammad | [Read More](https://medium.com/p/8025cfe89075) |
-| Tue, 02 Sep 2025 08:30:25 GMT | AI at Risk: Understanding Cyber Security Challenges in Bangladesh | Articles Master : | [Read More](https://medium.com/p/049ac519e571) |
-| Tue, 02 Sep 2025 08:24:58 GMT | IT Companies In Gurgaon | soni bisht | [Read More](https://medium.com/p/1a52cde15fe0) |
-| Tue, 02 Sep 2025 08:17:15 GMT | The Era of AI-Powered Ransomware: A New Chapter in Cybersecurity | Itsmeanzee | [Read More](https://medium.com/p/51291cdbd5e8) |
-| Tue, 02 Sep 2025 08:06:06 GMT | Cooked CTF 2025 Misc Challenge “Nightmare” Write-up | Abrar | [Read More](https://medium.com/p/2f96e549a90f) |
-| Tue, 02 Sep 2025 08:01:50 GMT | How Machine Learning Fights Cyber Threats and Vice Versa | Guillaume GUERARD | [Read More](https://medium.com/p/521dc3112467) |
-| Tue, 02 Sep 2025 08:01:47 GMT | Why Your Linux Server Decided to Play Dead (And How to Wake It Up) | MayhemCode | [Read More](https://medium.com/p/33971c874712) |
-| Tue, 02 Sep 2025 08:01:46 GMT | Third-Party Risk Made Simple: See If Your Suppliers Are Already Exposed | Alexandre Vandamme | [Read More](https://medium.com/p/bb7c778bf522) |
-| Tue, 02 Sep 2025 08:01:31 GMT | Certified AI/ML Pentester: Certification Exam Journey | Adolfo Jara Gavilanes | [Read More](https://medium.com/p/64e151d39dcd) |
-| Tue, 02 Sep 2025 07:56:21 GMT | Understanding Protection Rings in Operating Systems: Security Through Structure | Raviteja Mureboina | [Read More](https://medium.com/p/aa836dbaba88) |
-| Tue, 02 Sep 2025 07:53:10 GMT | The Power of OSINT | Mr. Moyin | [Read More](https://medium.com/p/e6db67490edf) |
-| Tue, 02 Sep 2025 07:52:19 GMT | WEP, WPA, WPA2, WPA3: How Wi-Fi Security Works and How Hackers Try to Break It | Tan Woei Jye | [Read More](https://medium.com/p/94b32b7000c8) |
-| Tue, 02 Sep 2025 07:38:54 GMT | ประจำวันอังคารที่ 2 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/943513d5118c) |
-| Tue, 02 Sep 2025 07:34:59 GMT | How Google make us blind | Martin Abramov | [Read More](https://medium.com/p/bfc2b0052ff8) |
