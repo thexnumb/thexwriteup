@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 09:21:16 GMT | Common Cloud Security Challenges: How to Solve Them | Swapnil S. | [Read More](https://medium.com/p/1907f1debd4c) |
+| Tue, 02 Sep 2025 09:16:00 GMT | Top 6 Microsoft 365, EntraID and Azure Security Misconfigurations — Part 1/3 | Alain Keller | [Read More](https://medium.com/p/c7a91733ddbe) |
+| Tue, 02 Sep 2025 09:15:13 GMT | Surge in Data Breach Victims Highlights Need for Proactive Cybersecurity Measures | Abatis ABTU | [Read More](https://medium.com/p/da5b621fa3a3) |
+| Tue, 02 Sep 2025 09:13:23 GMT | Web Security Essentials | Peta Pavan | [Read More](https://medium.com/p/8a5aec8d5242) |
+| Tue, 02 Sep 2025 09:12:33 GMT | To allow or not to get-task-allow, | Karol Mazurek | [Read More](https://medium.com/p/901ff04895e2) |
+| Tue, 02 Sep 2025 09:07:48 GMT | How to Rotate PHP Secrets Automatically Without Downtime | Asian Digital Hub | [Read More](https://medium.com/p/6824808405ed) |
+| Tue, 02 Sep 2025 09:06:41 GMT | From Fragile to Fearless: The Future I See with Drosera | Cephas | [Read More](https://medium.com/p/78d9549ff061) |
+| Tue, 02 Sep 2025 09:06:08 GMT | Data Center Liquid Cooling Market Set to Witness Significant Growth and Revenue by 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/55c71b48a221) |
+| Tue, 02 Sep 2025 09:03:44 GMT | Starlink’s Global Brownout: When Sky isn't the limit, it’s engineering! | IsaacFabianK | [Read More](https://medium.com/p/f8c40493b282) |
+| Tue, 02 Sep 2025 09:03:41 GMT | ️ Secure Authentication in SOC Environments Using Zero-Knowledge Proofs | Esra Kayhan | [Read More](https://medium.com/p/41b421763d20) |
+| Tue, 02 Sep 2025 09:03:23 GMT | Is Your API Gateway the Hidden Weakness That Could Topple Your Microservices? | Iliya Garakh | [Read More](https://medium.com/p/4a014f03c5ac) |
+| Tue, 02 Sep 2025 09:01:36 GMT | Sun Tzu vs. Ransomware: Cybersecurity & The Art of War | Abatis ABTU | [Read More](https://medium.com/p/0dd41ad746c3) |
+| Tue, 02 Sep 2025 08:53:33 GMT | The Insider’s Paradox: Rethinking Product Strategy in High-Risk Markets | Isaac Oladega - Product Lens | [Read More](https://medium.com/p/3996167a1647) |
+| Tue, 02 Sep 2025 08:51:00 GMT | Flipping the Phishing Playbook: How ‘ZipLine’ Phishers Lure Victims Into Contacting Them | Ashley Dai | [Read More](https://medium.com/p/996919d78741) |
+| Tue, 02 Sep 2025 08:47:09 GMT | Access Control Systems Maryland: ICS Security Solutions | Bocakek Noidem | [Read More](https://medium.com/p/ccd3a4df1f5d) |
+| Tue, 02 Sep 2025 08:45:07 GMT | Endurance Composite French Doors: Where Style Meets Unmatched Security | Endurance Doors | [Read More](https://medium.com/p/9e1ad8771ec1) |
+| Tue, 02 Sep 2025 08:45:07 GMT | Bulletproof Your Vault: 5 Modern Secret Managers That Actually Secure Production | Iliya Garakh | [Read More](https://medium.com/p/31960bed02e3) |
+| Tue, 02 Sep 2025 08:44:14 GMT | India Network Video Recorder Market to Witness Stunning Growth by 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/31073654a935) |
+| Tue, 02 Sep 2025 08:43:17 GMT | From Hotel Wi-Fi to Cyber Espionage: Mustang Panda’s Captive Portal Malware Campaign | Ashley Dai | [Read More](https://medium.com/p/cc21db176bdf) |
+| Tue, 02 Sep 2025 08:41:27 GMT | Quranium’s August Wrap-Up: Upgrades, Community Wins, and a Focus on Security. | Bright Mmaduabuchi | [Read More](https://medium.com/p/efee10b953ab) |
 | Tue, 02 Sep 2025 08:36:25 GMT | AI Threats Have Moved Out of the Lab | Yousri KOUKI | [Read More](https://medium.com/p/f5bfb5341462) |
 | Tue, 02 Sep 2025 08:36:20 GMT | Cybercrime & Your Wallet: Protecting Personal Finance in 2025! | Pranav Gupta | [Read More](https://medium.com/p/9f473cd79eff) |
 | Tue, 02 Sep 2025 08:33:25 GMT | SQL Injection & Cross-Site Scripting (XSS): How to Protect Your Web Application | Secuodsoft Technologies | [Read More](https://medium.com/p/7229b38d7e4f) |
@@ -93,23 +113,3 @@ By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f
 | Tue, 02 Sep 2025 03:21:23 GMT | Critical Risk: Seeyon OA Arbitrary Password Reset Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/ddbea35ac606) |
 | Tue, 02 Sep 2025 03:15:27 GMT | AWS IAM Roles Explained: Best Practices for Secure Service Permissions | Juan Andrés Leiva | [Read More](https://medium.com/p/e52dff94a13f) |
 | Tue, 02 Sep 2025 03:08:24 GMT | Building Data Privacy in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/7a2374261eab) |
-| Tue, 02 Sep 2025 03:06:17 GMT | Building Data Privacy for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/155e1d66713a) |
-| Tue, 02 Sep 2025 02:52:42 GMT | What Is JOSE and Why It Matters for Financial Android Apps | amol pawar | [Read More](https://medium.com/p/a901062fabf4) |
-| Tue, 02 Sep 2025 02:46:18 GMT | How AI Is Revolutionizing SOC Operations: 7 Real-World Use Cases (+ Python Demo) | Paritosh | [Read More](https://medium.com/p/263b46bfa4dd) |
-| Tue, 02 Sep 2025 02:42:48 GMT | My Name Is Shayaan Khan, and This Is Where My Cybersecurity Journey Begins | Shayaan Khan | [Read More](https://medium.com/p/991d5cad12f7) |
-| Tue, 02 Sep 2025 02:41:08 GMT | Would You Smile If a Stranger Brought You a Rose? | Silent Observer (Sarphari) | [Read More](https://medium.com/p/6b83b60c0057) |
-| Tue, 02 Sep 2025 02:36:48 GMT | AWS IAM Explained: Users, Groups, Policies, MFA, and Best Practices | Juan Andrés Leiva | [Read More](https://medium.com/p/ca5f5f30dccd) |
-| Tue, 02 Sep 2025 02:31:37 GMT | Computer Networks: Definition, Goals, and Why Security Matters | Keerthan V Suvarna | [Read More](https://medium.com/p/8fc91caf3059) |
-| Tue, 02 Sep 2025 02:23:54 GMT | From EAL6+ to Total Cold Isolation: How Digital Shield is Reshaping the Web3 Security Ecosystem | Digital Shield Offcial | [Read More](https://medium.com/p/45b1ce0a5869) |
-| Tue, 02 Sep 2025 02:15:21 GMT | The Number 1 Security Threat | Anthony Eboh | [Read More](https://medium.com/p/cea7c8beed17) |
-| Tue, 02 Sep 2025 02:01:25 GMT | How Sitinoldae Helps Small Businesses | Sitinoldae | [Read More](https://medium.com/p/78a06e113433) |
-| Tue, 02 Sep 2025 02:00:52 GMT | Day 1 of AI Security: Breaking Down NIST’s AI Risk Management Framework (AI RMF) | Maghnaa Sathish Kumar | [Read More](https://medium.com/p/0e267f541b98) |
-| Tue, 02 Sep 2025 02:00:16 GMT | Write-ups — corCTF 2025 | DieLoop | [Read More](https://medium.com/p/e97937de7776) |
-| Tue, 02 Sep 2025 01:53:36 GMT | Here are the signs a man truly loves you, beyond the bedroom: | Lilyana | [Read More](https://medium.com/p/e72c314028c6) |
-| Tue, 02 Sep 2025 01:53:36 GMT | Don’t Bully the Person with Many Vulnerabilities at Work | Ophaly Kate | [Read More](https://medium.com/p/16e63cbb5828) |
-| Tue, 02 Sep 2025 01:52:53 GMT | Tryhackme NeighbourWrite Up | Jackson Mittag | [Read More](https://medium.com/p/5b197ae41fa8) |
-| Tue, 02 Sep 2025 01:48:10 GMT | ️ Use Django Axes to Protect Your Django App from Brute-Force Attacks | Rushal Barkhade | [Read More](https://medium.com/p/1e4ff465a994) |
-| Tue, 02 Sep 2025 01:33:57 GMT | DevSecOps in Action: Securing Your CI/CD Pipeline with Trivy | Arpit Sharma | [Read More](https://medium.com/p/07898b06be2c) |
-| Tue, 02 Sep 2025 01:33:06 GMT | Attestation in Drosera: The Verifiable Truth in DeFi Security | Roman Lucien | [Read More](https://medium.com/p/6a1c898c6dad) |
-| Tue, 02 Sep 2025 01:17:48 GMT | How Risen Ransomware Works: An IDA Pro Deep Dive | Sohan Kanna D | [Read More](https://medium.com/p/424d9116d4d5) |
-| Tue, 02 Sep 2025 01:11:59 GMT | From Access Control to Egress Control: Securing AI with WSO2 API Manager | Vihanga Liyanage | [Read More](https://medium.com/p/5dd17c1a4da3) |
