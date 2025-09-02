@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 11:06:12 GMT | Threat and Vulnerabilities Report — August 2025 | Loginsoft | [Read More](https://medium.com/p/34988d3f4e72) |
+| Tue, 02 Sep 2025 11:03:58 GMT | Introduction to EDR | Cheryl Maise Lobo | [Read More](https://medium.com/p/8718a529b26c) |
+| Tue, 02 Sep 2025 11:01:42 GMT | Migration Planning and Strategic Considerations to Lead in the Post-Quantum World | Left4Zed | [Read More](https://medium.com/p/0a7b53862a27) |
+| Tue, 02 Sep 2025 11:01:41 GMT | Best Gmail Security Guide for 2025: Salesforce Breaches, CRM Comparisons, and Landing Page Tips | TechNewz | [Read More](https://medium.com/p/cc9a48f26d75) |
+| Tue, 02 Sep 2025 11:01:41 GMT | Discover the Exciting Stories of the IT Industry in the 1990s | Stacklegend | [Read More](https://medium.com/p/84acf8cf8053) |
+| Tue, 02 Sep 2025 11:00:05 GMT | Master AI Integration: How to Power Your Business with AI Assistants | tkxel | [Read More](https://medium.com/p/a6b98fb22f83) |
+| Tue, 02 Sep 2025 10:59:48 GMT | Best Facility Management Services in Hyderabad - Group 24x7 Security | Group 24/7 Security Services | [Read More](https://medium.com/p/2467f577efdf) |
+| Tue, 02 Sep 2025 10:59:36 GMT | Beating Windows Defender in 2025: Python Shellcode Loader Edition | Yua Mikanana | [Read More](https://medium.com/p/87dd3d80f697) |
+| Tue, 02 Sep 2025 10:57:28 GMT | How I Used an Advanced XSS Technique to Earn $1000 Bug Bounty | Zoningxtr | [Read More](https://medium.com/p/74b28e9ec6ef) |
+| Tue, 02 Sep 2025 10:55:30 GMT | Why Choose a Professional Security Guard Company in San Jose? | Direct Guard Services | [Read More](https://medium.com/p/7b5312248a89) |
+| Tue, 02 Sep 2025 10:54:17 GMT | Housekeeping Services in Bangalore — More Than Just Cleaning | EXLITY | [Read More](https://medium.com/p/2b90f66827ff) |
+| Tue, 02 Sep 2025 10:52:35 GMT | mpokket loan App Customer care helpline number (+91)7294161837@ Call all problem solution | Vishal Kumar KK | [Read More](https://medium.com/p/97156789034f) |
+| Tue, 02 Sep 2025 10:52:23 GMT | mpokket loan App Customer care helpline number (+91)7294161837@ Call all problem solution | Vishal Kumar KK | [Read More](https://medium.com/p/badef09fcaec) |
+| Tue, 02 Sep 2025 10:52:10 GMT | mpokket loan App Customer care helpline number (+91)7294161837@ Call all problem solution | Vishal Kumar KK | [Read More](https://medium.com/p/2f98f52e283c) |
+| Tue, 02 Sep 2025 10:52:09 GMT | Forgotten Databases Are Fueling the Next Billion-Dollar Breach | Rizqi Mulki | [Read More](https://medium.com/p/21de6beaea54) |
+| Tue, 02 Sep 2025 10:51:39 GMT | Web Design Birmingham That Grows Your Business | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/90e73370654d) |
+| Tue, 02 Sep 2025 10:51:32 GMT | How a Single Database Leak Could Destroy Your Startup in Weeks | Rizqi Mulki | [Read More](https://medium.com/p/4f8a1b1dd30e) |
+| Tue, 02 Sep 2025 10:51:13 GMT | AI Queries Are Breaking Databases Faster Than Humans Can Fix Them | Rizqi Mulki | [Read More](https://medium.com/p/1d745afe2c74) |
+| Tue, 02 Sep 2025 10:48:06 GMT | The Failure of “Detect, React, Mitigate” in the Face of Nation-State Threats | Abatis ABTU | [Read More](https://medium.com/p/09cfd715419f) |
+| Tue, 02 Sep 2025 10:47:32 GMT | Why a Founder Switched from Flutterflow to B8 — And Gained a Fully Functional MVP That Helped… | Johnbutcher | [Read More](https://medium.com/p/c5aeed1de362) |
+| Tue, 02 Sep 2025 10:42:30 GMT | 8 Common Challenges Solved by Machine Learning Development Services | Trajectus | [Read More](https://medium.com/p/93943880a5cc) |
+| Tue, 02 Sep 2025 10:42:24 GMT | The Extensions You Use Are Not a Secret, Especially to LinkedIn | Jeremy | [Read More](https://medium.com/p/64a8ef3f5b25) |
+| Tue, 02 Sep 2025 10:41:15 GMT | Agosto 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/3629d92e1eaa) |
 | Tue, 02 Sep 2025 10:32:13 GMT | HTB Endpoint Challenge Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/d4e0bb688101) |
 | Tue, 02 Sep 2025 10:31:22 GMT | Top 5 Reasons to Migrate from Egnyte to SharePoint Online | Arun Jyothi | [Read More](https://medium.com/p/7d09734cb494) |
 | Tue, 02 Sep 2025 10:28:07 GMT | Connecting to a Hidden C2 via Redirector: Simple C++ Agent — Part 3 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/43a794508a02) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 07:14:06 GMT | How to Unlock Bigger Rewards with BUG BUG | BUG | [Read More](https://medium.com/p/2df26b17762d) |
 | Tue, 02 Sep 2025 07:06:13 GMT | Securing AI Agents: Risks, Threat Models, and Defences | George Zarkadakis | [Read More](https://medium.com/p/cb9171235b50) |
 | Tue, 02 Sep 2025 07:01:51 GMT | Top 10 hacking Books to Learn Ethical Hacking | Manisha Chaudhary | [Read More](https://medium.com/p/687684c22d68) |
-| Tue, 02 Sep 2025 07:01:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4cc453849b9c) |
-| Tue, 02 Sep 2025 06:56:50 GMT | Top 10 Cybersecurity Certifications (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/933f165fd038) |
-| Tue, 02 Sep 2025 06:56:34 GMT | Is AI Hackable? Let’s Talk About the Risks & Solutions | SmartNest | [Read More](https://medium.com/p/96737b804d78) |
-| Tue, 02 Sep 2025 06:55:57 GMT | Advanced MDM Functionalities for BYOD Environments | Vantage MDM | [Read More](https://medium.com/p/37cd4766f7c9) |
-| Tue, 02 Sep 2025 06:54:54 GMT | Equifax (2017) | Muhammad Zohaib | [Read More](https://medium.com/p/41172adf74ad) |
-| Tue, 02 Sep 2025 06:49:51 GMT | Day 48- Isolation in Cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/0d1a40169721) |
-| Tue, 02 Sep 2025 06:47:35 GMT | Cómo redactar un buen reporte de Bug Bounty (paso a paso) | Gorka | [Read More](https://medium.com/p/288016837dff) |
-| Tue, 02 Sep 2025 06:39:32 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/2f3181e12828) |
-| Tue, 02 Sep 2025 06:39:32 GMT | Tekstil Alarm Sensörleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/b9764d2496e5) |
-| Tue, 02 Sep 2025 06:35:15 GMT | Cyber Threats Are Evolving: Here’s How to Stay Secure in 2025 | Sleuth_joe | [Read More](https://medium.com/p/cabd6b24bed3) |
-| Tue, 02 Sep 2025 06:31:39 GMT | The Nude That Never Existed | Aditi Jha | [Read More](https://medium.com/p/9ce0b60a806c) |
-| Tue, 02 Sep 2025 06:26:00 GMT | PMP Certification — Open Up Global Career Opportunities in Project Management | Certocean | [Read More](https://medium.com/p/a36290e3b59d) |
-| Tue, 02 Sep 2025 06:20:41 GMT | Which is the best IT training and development company in Nagercoil? | Jewelljerin | [Read More](https://medium.com/p/68d4ea6f0faa) |
-| Tue, 02 Sep 2025 06:15:56 GMT | Venue Wi-Fi vs. Dedicated Event Internet: Why Your Event Deserves Better | Events wifi internet | [Read More](https://medium.com/p/960097da1c7f) |
-| Tue, 02 Sep 2025 06:07:26 GMT | Proving Grounds Walkthrough: AuthBy | Mihail Pana | [Read More](https://medium.com/p/07d021b6543d) |
-| Tue, 02 Sep 2025 06:03:52 GMT | AI in Cyber: Defender vs. Attacker | Shahzaib | [Read More](https://medium.com/p/fc2edeb3b9b8) |
-| Tue, 02 Sep 2025 06:01:58 GMT | The Age of Fragility | Alex Buday | [Read More](https://medium.com/p/d77a267cc663) |
-| Tue, 02 Sep 2025 06:01:39 GMT | Discover the Exciting Stories of the IT Industry from the 1980s | Stacklegend | [Read More](https://medium.com/p/db7d063100a1) |
-| Tue, 02 Sep 2025 05:58:48 GMT | Why Most of them fails in Bug Bounty — Deep dive into the reason behind it | 127.0.0.1 | [Read More](https://medium.com/p/78f1d47327a1) |
-| Tue, 02 Sep 2025 05:52:58 GMT | Your Privacy is Not Safe: “Incognito Mode Isn’t What You Think!” | Curious Advisor | [Read More](https://medium.com/p/fc5e5270c62f) |
-| Tue, 02 Sep 2025 05:48:46 GMT | The Daily Tech Digest: 02 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/40da7bb7b61a) |
-| Tue, 02 Sep 2025 05:47:32 GMT | Bir Kaçışın Sessiz İtirafı | Nuri Sencer | [Read More](https://medium.com/p/b1ab46fafe97) |
-| Tue, 02 Sep 2025 05:47:02 GMT | The LazyOwn Chronicles: When Your Framework Becomes a Digital Revolution
-By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f230b4d6) |
