@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 07:34:59 GMT | How Google make us blind | Martin Abramov | [Read More](https://medium.com/p/bfc2b0052ff8) |
+| Tue, 02 Sep 2025 07:34:14 GMT | A simple guide to online privacy and security | Vimothy Chalamet | [Read More](https://medium.com/p/7dba1c55e71e) |
+| Tue, 02 Sep 2025 07:27:37 GMT | HOSTING GOPHISH ON A PUBLIC SERVER. | Joanorifha | [Read More](https://medium.com/p/7e5c34021638) |
 | Tue, 02 Sep 2025 07:19:00 GMT | Stopping Malicious Web Crawlers from Wasting Your Bandwidth with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/b8f8ecb24558) |
 | Tue, 02 Sep 2025 07:17:18 GMT | ☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere | Iski | [Read More](https://medium.com/p/3347780c79c5) |
 | Tue, 02 Sep 2025 07:15:19 GMT | Are Your Devices Spying on You Even When Offline? | Tarush Sharma | [Read More](https://medium.com/p/ff90fe860f12) |
+| Tue, 02 Sep 2025 07:14:06 GMT | How to Unlock Bigger Rewards with BUG BUG | BUG | [Read More](https://medium.com/p/2df26b17762d) |
 | Tue, 02 Sep 2025 07:06:13 GMT | Securing AI Agents: Risks, Threat Models, and Defences | George Zarkadakis | [Read More](https://medium.com/p/cb9171235b50) |
 | Tue, 02 Sep 2025 07:01:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4cc453849b9c) |
 | Tue, 02 Sep 2025 06:56:50 GMT | Top 10 Cybersecurity Certifications (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/933f165fd038) |
@@ -109,7 +113,3 @@ By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f
 | Mon, 01 Sep 2025 23:16:12 GMT | Discover the Exciting Stories of the IT Industry from the 1970s | Stacklegend | [Read More](https://medium.com/p/01528951ff70) |
 | Mon, 01 Sep 2025 23:03:53 GMT | Modularizing the SIEM: Rethinking Security for a Composable Future | Aabhas Lal | [Read More](https://medium.com/p/53ff2893f20a) |
 | Mon, 01 Sep 2025 22:44:27 GMT | Starting My Kaizen Journey in Cybersecurity | Morontowumi Enioluwa Akinbogun | [Read More](https://medium.com/p/325f0a125ab6) |
-| Mon, 01 Sep 2025 22:37:36 GMT | Blue Team Lab — Phishing Analysis | Juan Alexander Alejo | [Read More](https://medium.com/p/20630331b351) |
-| Mon, 01 Sep 2025 22:34:52 GMT | Mobile Hacking Lab -- Android Challenges | Mahmoud Mohamed | [Read More](https://medium.com/p/3e7bbf3c05ab) |
-| Mon, 01 Sep 2025 22:33:33 GMT | FYODOST: Mastering Layer 2 Network Security Testing in 2025 | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/fbb22ca65938) |
-| Mon, 01 Sep 2025 22:29:09 GMT | Securing Amazon EKS: A DevSecOps Engineer’s Guide to Surviving Audits & Attacks | Abhishek Gupta | [Read More](https://medium.com/p/f6248c536f73) |
