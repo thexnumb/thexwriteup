@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 14:15:15 GMT | THM Write-up: Vulnerable Codes | Fatih Kucukkarakurt | [Read More](https://medium.com/p/9ea8fe8464f9) |
+| Tue, 02 Sep 2025 14:11:39 GMT | TryHackMe #8 - Extending Your Network | 0xGroot | [Read More](https://medium.com/p/3c6508953d5a) |
+| Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #5 - Intro to LAN | 0xGroot | [Read More](https://medium.com/p/afa63b255ac7) |
+| Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #6 - OSI Model | 0xGroot | [Read More](https://medium.com/p/a0c22eec7889) |
+| Tue, 02 Sep 2025 14:06:01 GMT | TryHackMe #7 - Packets & Frames | 0xGroot | [Read More](https://medium.com/p/757d1a61769b) |
+| Tue, 02 Sep 2025 14:01:55 GMT | Cyber Briefing: 2025.09.02 | CyberMaterial | [Read More](https://medium.com/p/ece839bec533) |
+| Tue, 02 Sep 2025 14:01:54 GMT | TryHackMe #4 - What is Networking? | 0xGroot | [Read More](https://medium.com/p/7a8d34dc3712) |
+| Tue, 02 Sep 2025 14:01:50 GMT | Why use APACHE on Linux?? | Yvonda Davis | [Read More](https://medium.com/p/803095fb0b2e) |
+| Tue, 02 Sep 2025 13:53:06 GMT | Your Patched Sitecore Site Isn’t Safe | Aj | [Read More](https://medium.com/p/c2d225da9f9e) |
+| Tue, 02 Sep 2025 13:50:22 GMT | Mathematics: The True Key of Password | Salwa Nadira | [Read More](https://medium.com/p/5e26da60e06f) |
+| Tue, 02 Sep 2025 13:50:12 GMT | Zscaler Data Breach 2025: Supply Chain Risk Alert | Zeron | [Read More](https://medium.com/p/5565b4e4cfa0) |
+| Tue, 02 Sep 2025 13:49:09 GMT | How’s Importance of Cryptography? | Bilall Hendry | [Read More](https://medium.com/p/33888cdf61fb) |
+| Tue, 02 Sep 2025 13:39:33 GMT | Building a basic x64 Linux Rootkit | Keiran Smith | [Read More](https://medium.com/p/4f8d931b688f) |
+| Tue, 02 Sep 2025 13:33:38 GMT | Why Secure Packaging Matters in the Healthcare Industry | Sofiamcmahon | [Read More](https://medium.com/p/b9ed22a759cf) |
+| Tue, 02 Sep 2025 13:33:11 GMT | Protecting Justice: Why Chain of Custody Depends on Secure Evidence Bags | Sofiamcmahon | [Read More](https://medium.com/p/a886019cd683) |
+| Tue, 02 Sep 2025 13:31:30 GMT | IP Address Uptime and Logger Workflow with n8n | David Vasquez | [Read More](https://medium.com/p/57a7e65efbd4) |
+| Tue, 02 Sep 2025 13:30:12 GMT | TryHackMe Red (Redisl33t) | Aqdas Ahbab | [Read More](https://medium.com/p/d5d379f9ac04) |
 | Tue, 02 Sep 2025 13:26:33 GMT | The Critical Role of Choosing the Right Tech Stack in Healthcare IT | Ron | [Read More](https://medium.com/p/962b6dfb2a76) |
 | Tue, 02 Sep 2025 13:25:28 GMT | The Unseen Shield: How Mathematics Secures the Digital World | Rajsandyt | [Read More](https://medium.com/p/45c2329d1499) |
 | Tue, 02 Sep 2025 13:22:37 GMT | How to exploit? Erlang Port Mapper Daemon — PORT 4369 | Very Lazy Tech | [Read More](https://medium.com/p/c927ccbe882c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 10:16:55 GMT | Top Cyber Security Services Providers in Australia: Safeguarding Your Business in the Digital Age | vGics Global LLP | [Read More](https://medium.com/p/5ec42c845886) |
 | Tue, 02 Sep 2025 10:16:17 GMT | Best Lease Management Software In India For Retail Business | Gowthammathiew | [Read More](https://medium.com/p/86e28dc02ac4) |
 | Tue, 02 Sep 2025 10:14:34 GMT | From Gmail to Gmàil: A Punycode Path to Account Takeover | Minio Haxer | [Read More](https://medium.com/p/88896264acdb) |
-| Tue, 02 Sep 2025 10:12:51 GMT | How to Protect Your Digital Assets: Important Security Services for Apps You Need | Digital Defense | [Read More](https://medium.com/p/d20b8ef82b2f) |
-| Tue, 02 Sep 2025 10:12:08 GMT | How I Was Able to Make $160 and Protect Multiple Global Brands from Shopify API Credential Leaks | Omar | [Read More](https://medium.com/p/e64dcc7211b8) |
-| Tue, 02 Sep 2025 10:03:34 GMT | Your Trusted IT Services Company in Bangalore for Smarter Business | Pat Aditya | [Read More](https://medium.com/p/7a5b7e6589a9) |
-| Tue, 02 Sep 2025 10:01:10 GMT | I hacked my entire College’s Wi-Fi Network! | Akash Singh | [Read More](https://medium.com/p/2869e7e77077) |
-| Tue, 02 Sep 2025 10:00:57 GMT | Unleash the Power of JS Link Finder: Hunt Hidden Endpoints Like a Pro | Monika sharma | [Read More](https://medium.com/p/deb77530155f) |
-| Tue, 02 Sep 2025 09:57:01 GMT | Why a Founder Switched from Flutterflow to B8 — And Gained a Fully Functional MVP That Helped… | Johnbutcher | [Read More](https://medium.com/p/9664fe3ff741) |
-| Tue, 02 Sep 2025 09:56:42 GMT | SPARK Matrix™: Top Behavioral Biometrics and Device Intelligence Solutions for Fraud Prevention | Gargiben | [Read More](https://medium.com/p/8abf158d0e76) |
-| Tue, 02 Sep 2025 09:54:10 GMT | The Explosive Surge of CVEs: How AI-Accelerated Attacks Are Outpacing Global Defences | Abatis ABTU | [Read More](https://medium.com/p/5923a2102060) |
-| Tue, 02 Sep 2025 09:50:59 GMT | AI in Cybersecurity: Instant Incident Response | Roman Kamnev | [Read More](https://medium.com/p/563e894c4ba7) |
-| Tue, 02 Sep 2025 09:47:06 GMT | THE TROUBLESHOOTING PROCESS | Cyber Timi | [Read More](https://medium.com/p/4727b0d7105f) |
-| Tue, 02 Sep 2025 09:44:50 GMT | 5 Myths About Gmail to Outlook Migration You Shouldn’t Believe | Arun Jyothi | [Read More](https://medium.com/p/5444e4d744d6) |
-| Tue, 02 Sep 2025 09:43:37 GMT | Women in Cybersecurity Why Representation Still Matters | Rue | [Read More](https://medium.com/p/8faee1f634a0) |
-| Tue, 02 Sep 2025 09:40:18 GMT | Abnormal Function Calls: Prologue and Epilogue | R.D.Tarun | [Read More](https://medium.com/p/d9bd724bd9af) |
-| Tue, 02 Sep 2025 09:35:16 GMT | Boosting Productivity and Security with Modern Business Solutions | Aishwarya | [Read More](https://medium.com/p/c2d0a7601b65) |
-| Tue, 02 Sep 2025 09:32:15 GMT | Discovering Your Purpose Through Vulnerability | Leon Bloder | [Read More](https://medium.com/p/b3d9bb75d772) |
-| Tue, 02 Sep 2025 09:31:42 GMT | Tech Trends 2025: Top 10 You Can’t Ignore | Hash Block | [Read More](https://medium.com/p/5e05dfd20aa5) |
-| Tue, 02 Sep 2025 09:31:24 GMT | React.js Security Misconfiguration: Fixes & Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/3e4c3f11a676) |
