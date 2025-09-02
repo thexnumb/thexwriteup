@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 13:26:33 GMT | The Critical Role of Choosing the Right Tech Stack in Healthcare IT | Ron | [Read More](https://medium.com/p/962b6dfb2a76) |
+| Tue, 02 Sep 2025 13:25:28 GMT | The Unseen Shield: How Mathematics Secures the Digital World | Rajsandyt | [Read More](https://medium.com/p/45c2329d1499) |
+| Tue, 02 Sep 2025 13:22:37 GMT | How to exploit? Erlang Port Mapper Daemon — PORT 4369 | Very Lazy Tech | [Read More](https://medium.com/p/c927ccbe882c) |
+| Tue, 02 Sep 2025 13:17:52 GMT | Smarter and Closer to Human: How AI is Redefining Everyday Technology | Dhikral Baihaqi | [Read More](https://medium.com/p/af1896307de6) |
+| Tue, 02 Sep 2025 13:15:31 GMT | Why Your Business Needs Professional Security Service in West Midlands | Region Security | [Read More](https://medium.com/p/1dc1a20a9fe3) |
+| Tue, 02 Sep 2025 13:13:25 GMT | The Hidden Math That Protects Your Digital Life | Nadia Arifatun Nisa | [Read More](https://medium.com/p/42a689684fe8) |
+| Tue, 02 Sep 2025 13:10:49 GMT | [CyberDefenders Write-up] Fog Ransomware | Chicken0248 | [Read More](https://medium.com/p/ef6bf3bdfd45) |
+| Tue, 02 Sep 2025 13:01:03 GMT | Disinformation Defense: Tech Against Fake News | Thinking Loop | [Read More](https://medium.com/p/7b3dff5dcc4b) |
+| Tue, 02 Sep 2025 13:01:02 GMT | How Math Protect The Digital World | Raihan Pratama | [Read More](https://medium.com/p/5f33b23a6954) |
+| Tue, 02 Sep 2025 12:57:35 GMT | Introduction to Linux Kernel Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/208460af5d1d) |
+| Tue, 02 Sep 2025 12:51:37 GMT | What Happens When You Use the Same Password Everywhere | Evgeny Ermakov | [Read More](https://medium.com/p/21f996489e1b) |
+| Tue, 02 Sep 2025 12:50:49 GMT | ️ Rootkit Detection and Analysis in Kali Linux | Esra Kayhan | [Read More](https://medium.com/p/49f0af629e8a) |
+| Tue, 02 Sep 2025 12:50:05 GMT | I don’t know what to write. | Shakara | [Read More](https://medium.com/p/cfea5dfbe574) |
+| Tue, 02 Sep 2025 12:46:14 GMT | Data Privacy and Surveillance – More Than Just Codes and Cameras | Aria Stella | [Read More](https://medium.com/p/e6d89ec4bb67) |
+| Tue, 02 Sep 2025 12:44:29 GMT | Setting Up a Penetration Testing Lab for Beginners in Kali Linux | Esra Kayhan | [Read More](https://medium.com/p/9956b00048cb) |
 | Tue, 02 Sep 2025 12:37:37 GMT | ThunderCipher[Cat lofi.txt] | Bhuwan Patidar | [Read More](https://medium.com/p/c0063701be91) |
 | Tue, 02 Sep 2025 12:33:44 GMT | Eve Carter — THE LAST SIGNAL Episode 5 | Shobha Pai | [Read More](https://medium.com/p/6f56e5f9bb85) |
 | Tue, 02 Sep 2025 12:31:37 GMT | How Reconciliation Software Supports Real-Time Financial Visibility | Kosh AI | [Read More](https://medium.com/p/492a78cba824) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 09:32:15 GMT | Discovering Your Purpose Through Vulnerability | Leon Bloder | [Read More](https://medium.com/p/b3d9bb75d772) |
 | Tue, 02 Sep 2025 09:31:42 GMT | Tech Trends 2025: Top 10 You Can’t Ignore | Hash Block | [Read More](https://medium.com/p/5e05dfd20aa5) |
 | Tue, 02 Sep 2025 09:31:24 GMT | React.js Security Misconfiguration: Fixes & Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/3e4c3f11a676) |
-| Tue, 02 Sep 2025 09:30:29 GMT | Backup Strategies That Actually Work: Protect Data, Cut Cloud Costs, Recover Faster | Iliya Garakh | [Read More](https://medium.com/p/55b0efd5c89d) |
-| Tue, 02 Sep 2025 09:24:25 GMT | Compliance as a Service: Here’s how we built it ! | Franck Reant | [Read More](https://medium.com/p/776acd67fc4b) |
-| Tue, 02 Sep 2025 09:23:03 GMT | How I Built a Mini Port Scanner in Python (With Just a Few Lines of Code) | Shayaan Khan | [Read More](https://medium.com/p/7e66471052cf) |
-| Tue, 02 Sep 2025 09:21:16 GMT | Common Cloud Security Challenges: How to Solve Them | Swapnil S. | [Read More](https://medium.com/p/1907f1debd4c) |
-| Tue, 02 Sep 2025 09:16:00 GMT | Top 6 Microsoft 365, EntraID and Azure Security Misconfigurations — Part 1/3 | Alain Keller | [Read More](https://medium.com/p/c7a91733ddbe) |
-| Tue, 02 Sep 2025 09:15:13 GMT | Surge in Data Breach Victims Highlights Need for Proactive Cybersecurity Measures | Abatis ABTU | [Read More](https://medium.com/p/da5b621fa3a3) |
-| Tue, 02 Sep 2025 09:13:23 GMT | Web Security Essentials | Peta Pavan | [Read More](https://medium.com/p/8a5aec8d5242) |
-| Tue, 02 Sep 2025 09:12:33 GMT | To allow or not to get-task-allow, | Karol Mazurek | [Read More](https://medium.com/p/901ff04895e2) |
-| Tue, 02 Sep 2025 09:07:48 GMT | How to Rotate PHP Secrets Automatically Without Downtime | Asian Digital Hub | [Read More](https://medium.com/p/6824808405ed) |
-| Tue, 02 Sep 2025 09:06:41 GMT | From Fragile to Fearless: The Future I See with Drosera | Cephas | [Read More](https://medium.com/p/78d9549ff061) |
-| Tue, 02 Sep 2025 09:06:08 GMT | Data Center Liquid Cooling Market Set to Witness Significant Growth and Revenue by 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/55c71b48a221) |
-| Tue, 02 Sep 2025 09:03:44 GMT | Starlink’s Global Brownout: When Sky isn't the limit, it’s engineering! | IsaacFabianK | [Read More](https://medium.com/p/f8c40493b282) |
-| Tue, 02 Sep 2025 09:03:41 GMT | ️ Secure Authentication in SOC Environments Using Zero-Knowledge Proofs | Esra Kayhan | [Read More](https://medium.com/p/41b421763d20) |
-| Tue, 02 Sep 2025 09:03:23 GMT | Is Your API Gateway the Hidden Weakness That Could Topple Your Microservices? | Iliya Garakh | [Read More](https://medium.com/p/4a014f03c5ac) |
-| Tue, 02 Sep 2025 09:01:36 GMT | Sun Tzu vs. Ransomware: Cybersecurity & The Art of War | Abatis ABTU | [Read More](https://medium.com/p/0dd41ad746c3) |
