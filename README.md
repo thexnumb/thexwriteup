@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 15:14:44 GMT | The Importance of Multi-Factor Authentication (MFA) in 2025 | Samina Perveen | [Read More](https://medium.com/p/c1b914ab7330) |
+| Tue, 02 Sep 2025 15:13:05 GMT | In our modern world, almost every aspect of life has shifted into the digital space. | Maulana_Syarif_H_M0403241049_Computer_Science | [Read More](https://medium.com/p/ab6d7e4e0891) |
+| Tue, 02 Sep 2025 15:12:25 GMT | Criptografía cuántica para mejorar la seguridad de red de Units Network: Preparando el Layer-0… | WAVES LATAM | [Read More](https://medium.com/p/876f78d20082) |
+| Tue, 02 Sep 2025 15:11:31 GMT | Empowering Your Workforce: Cyber Security Awareness Programs for Employees in 2025 | Paul Meyer | [Read More](https://medium.com/p/9d7786976561) |
+| Tue, 02 Sep 2025 15:11:04 GMT | A01:2021-Broken Access Control | Zeyad Mohamed | [Read More](https://medium.com/p/1c1c855ad365) |
+| Tue, 02 Sep 2025 15:01:40 GMT | 7 Rising Cyber Security Roles in the Age of AI. | D.Haddad | [Read More](https://medium.com/p/b83df085af8c) |
+| Tue, 02 Sep 2025 14:58:51 GMT | How Hackers See Your Online Life vs. How You See It | Aj | [Read More](https://medium.com/p/121d9754b37f) |
+| Tue, 02 Sep 2025 14:55:34 GMT | What If Your Trading App Was Secretly Conspiring Against You? | MarketMuse | [Read More](https://medium.com/p/90e79665b46f) |
+| Tue, 02 Sep 2025 14:52:07 GMT | P.O.O — Part 1: Recon | XOR-Hacks | [Read More](https://medium.com/p/5c18358d4602) |
+| Tue, 02 Sep 2025 14:47:28 GMT | Shamos macOS Infostealer: Malvertising Lures, BYOD Gaps, and Sector Expansion | Wes Young | [Read More](https://medium.com/p/cadd95a22928) |
+| Tue, 02 Sep 2025 14:46:57 GMT | “Day 26: The WebSocket Hijack — How I Eavesdropped on Every Customer Support Chat” | Aman Sharma | [Read More](https://medium.com/p/de5ddc819ad2) |
+| Tue, 02 Sep 2025 14:46:33 GMT | Analysis - Pills, Diamonds and Power: Shutting the Door on Hezbollah’s Comeback | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/775f560534bc) |
+| Tue, 02 Sep 2025 14:43:36 GMT | Exploiting Android Through Evil Droid | Nouman Ali Khan | [Read More](https://medium.com/p/f6240c977a00) |
 | Tue, 02 Sep 2025 14:37:42 GMT | Analysis - China’s Military Influence in Cambodia: A Risk for Indo-Pacific Maritime Security | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/63fb45b238ae) |
 | Tue, 02 Sep 2025 14:26:31 GMT | ASCII Magic: The $15,000 Mystery of Disappearing Letters — Exploring LLM Agent Supply Chain Risks… | Justas_b | [Read More](https://medium.com/p/4c41d9a93661) |
 | Tue, 02 Sep 2025 14:21:28 GMT | From Antivirus to EDR: Learning Through the Airport Analogy ️ | Ansul Kotadia | [Read More](https://medium.com/p/1ccf6e5f57e8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 10:55:30 GMT | Why Choose a Professional Security Guard Company in San Jose? | Direct Guard Services | [Read More](https://medium.com/p/7b5312248a89) |
 | Tue, 02 Sep 2025 10:54:17 GMT | Housekeeping Services in Bangalore — More Than Just Cleaning | EXLITY | [Read More](https://medium.com/p/2b90f66827ff) |
 | Tue, 02 Sep 2025 10:52:35 GMT | mpokket loan App Customer care helpline number (+91)7294161837@ Call all problem solution | Vishal Kumar KK | [Read More](https://medium.com/p/97156789034f) |
-| Tue, 02 Sep 2025 10:52:23 GMT | mpokket loan App Customer care helpline number (+91)7294161837@ Call all problem solution | Vishal Kumar KK | [Read More](https://medium.com/p/badef09fcaec) |
-| Tue, 02 Sep 2025 10:52:10 GMT | mpokket loan App Customer care helpline number (+91)7294161837@ Call all problem solution | Vishal Kumar KK | [Read More](https://medium.com/p/2f98f52e283c) |
-| Tue, 02 Sep 2025 10:52:09 GMT | Forgotten Databases Are Fueling the Next Billion-Dollar Breach | Rizqi Mulki | [Read More](https://medium.com/p/21de6beaea54) |
-| Tue, 02 Sep 2025 10:51:39 GMT | Web Design Birmingham That Grows Your Business | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/90e73370654d) |
-| Tue, 02 Sep 2025 10:51:32 GMT | How a Single Database Leak Could Destroy Your Startup in Weeks | Rizqi Mulki | [Read More](https://medium.com/p/4f8a1b1dd30e) |
-| Tue, 02 Sep 2025 10:51:13 GMT | AI Queries Are Breaking Databases Faster Than Humans Can Fix Them | Rizqi Mulki | [Read More](https://medium.com/p/1d745afe2c74) |
-| Tue, 02 Sep 2025 10:48:06 GMT | The Failure of “Detect, React, Mitigate” in the Face of Nation-State Threats | Abatis ABTU | [Read More](https://medium.com/p/09cfd715419f) |
-| Tue, 02 Sep 2025 10:47:32 GMT | Why a Founder Switched from Flutterflow to B8 — And Gained a Fully Functional MVP That Helped… | Johnbutcher | [Read More](https://medium.com/p/c5aeed1de362) |
-| Tue, 02 Sep 2025 10:42:30 GMT | 8 Common Challenges Solved by Machine Learning Development Services | Trajectus | [Read More](https://medium.com/p/93943880a5cc) |
-| Tue, 02 Sep 2025 10:42:24 GMT | The Extensions You Use Are Not a Secret, Especially to LinkedIn | Jeremy | [Read More](https://medium.com/p/64a8ef3f5b25) |
-| Tue, 02 Sep 2025 10:41:15 GMT | Agosto 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/3629d92e1eaa) |
-| Tue, 02 Sep 2025 10:32:13 GMT | HTB Endpoint Challenge Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/d4e0bb688101) |
-| Tue, 02 Sep 2025 10:31:22 GMT | Top 5 Reasons to Migrate from Egnyte to SharePoint Online | Arun Jyothi | [Read More](https://medium.com/p/7d09734cb494) |
