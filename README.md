@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 18:13:41 GMT | The Top 5 Cloud Security Misconfigurations That Lead to Breaches | Roland Njoya | [Read More](https://medium.com/p/9b6c259af216) |
+| Tue, 02 Sep 2025 18:04:19 GMT | The Importance of Cybersecurity Awareness in Developing Countries: A Focus on Morocco | Soumia frina | [Read More](https://medium.com/p/955596cad309) |
+| Tue, 02 Sep 2025 18:04:14 GMT | Top 10 SIEM Use Cases Every Business Should Know | SafeAeon Inc. | [Read More](https://medium.com/p/9b72c1f1ef73) |
+| Tue, 02 Sep 2025 18:01:37 GMT | Top 7 Tech Shifts to Watch Next Quarter | Thinking Loop | [Read More](https://medium.com/p/68ff732dffd4) |
+| Tue, 02 Sep 2025 17:55:33 GMT | Defining a “Risk Appetite” for your Organization | Vaibhav Sonavane | [Read More](https://medium.com/p/afbc1333465f) |
+| Tue, 02 Sep 2025 17:54:51 GMT | Business Process Audit — Technology and Resource Management | Artyom Sivolob | [Read More](https://medium.com/p/f181b2145b19) |
+| Tue, 02 Sep 2025 17:53:50 GMT | Your web domain is leaking your information | umbraXsecure | [Read More](https://medium.com/p/e4ed9ec80025) |
+| Tue, 02 Sep 2025 17:53:40 GMT | The Challenge of Retaining Cybersecurity Workforce in a Competitive Market | SafeAeon Inc. | [Read More](https://medium.com/p/8c64fee73367) |
+| Tue, 02 Sep 2025 17:49:00 GMT | RedLine Stealer: A Shortcut to Identity Theft. | Mohamed Mostafa | [Read More](https://medium.com/p/b605618dbc84) |
+| Tue, 02 Sep 2025 17:47:17 GMT | Human Based Cybersecurity Risks | Matthew.Rosenquist | [Read More](https://medium.com/p/cea3f7378704) |
+| Tue, 02 Sep 2025 17:44:36 GMT | Silver Fox Breaches Defenses with Microsoft-Signed Driver Exploit | Inforsecpro | [Read More](https://medium.com/p/1f447b28eb62) |
+| Tue, 02 Sep 2025 17:44:05 GMT | Nmap: The Detective Behind Your Network’s Secrets | Swetha | [Read More](https://medium.com/p/d94ca07b1e96) |
+| Tue, 02 Sep 2025 17:34:23 GMT | Why Typing 100 WPM Would Make Life Easier as a Pentester | Danny Butler | [Read More](https://medium.com/p/8380b5177422) |
 | Tue, 02 Sep 2025 17:21:22 GMT | CVE-2025–55177: The WhatsApp Sync Flaw That Enabled Zero-Click Surveillance | gm0 | [Read More](https://medium.com/p/8e9b27ad3236) |
 | Tue, 02 Sep 2025 17:07:42 GMT | Walkthrough: Exploiting ProFTPD 1.3.3c Using Metasploit | Shahabas_ak | [Read More](https://medium.com/p/739a77c70723) |
 | Tue, 02 Sep 2025 17:06:14 GMT | From Classroom to Cash Prize: A Student’s Guide to Bug Bounties | Samina Perveen | [Read More](https://medium.com/p/5667099922c8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 14:01:54 GMT | TryHackMe #4 - What is Networking? | 0xGroot | [Read More](https://medium.com/p/7a8d34dc3712) |
 | Tue, 02 Sep 2025 14:01:50 GMT | Why use APACHE on Linux?? | Yvonda Davis | [Read More](https://medium.com/p/803095fb0b2e) |
 | Tue, 02 Sep 2025 13:53:06 GMT | Your Patched Sitecore Site Isn’t Safe | Aj | [Read More](https://medium.com/p/c2d225da9f9e) |
-| Tue, 02 Sep 2025 13:50:22 GMT | Mathematics: The True Key of Password | Salwa Nadira | [Read More](https://medium.com/p/5e26da60e06f) |
-| Tue, 02 Sep 2025 13:50:12 GMT | Zscaler Data Breach 2025: Supply Chain Risk Alert | Zeron | [Read More](https://medium.com/p/5565b4e4cfa0) |
-| Tue, 02 Sep 2025 13:49:09 GMT | How’s Importance of Cryptography? | Bilall Hendry | [Read More](https://medium.com/p/33888cdf61fb) |
-| Tue, 02 Sep 2025 13:39:33 GMT | Building a basic x64 Linux Rootkit | Keiran Smith | [Read More](https://medium.com/p/4f8d931b688f) |
-| Tue, 02 Sep 2025 13:33:38 GMT | Why Secure Packaging Matters in the Healthcare Industry | Sofiamcmahon | [Read More](https://medium.com/p/b9ed22a759cf) |
-| Tue, 02 Sep 2025 13:33:11 GMT | Protecting Justice: Why Chain of Custody Depends on Secure Evidence Bags | Sofiamcmahon | [Read More](https://medium.com/p/a886019cd683) |
-| Tue, 02 Sep 2025 13:31:30 GMT | IP Address Uptime and Logger Workflow with n8n | David Vasquez | [Read More](https://medium.com/p/57a7e65efbd4) |
-| Tue, 02 Sep 2025 13:30:12 GMT | TryHackMe Red (Redisl33t) | Aqdas Ahbab | [Read More](https://medium.com/p/d5d379f9ac04) |
-| Tue, 02 Sep 2025 13:26:33 GMT | The Critical Role of Choosing the Right Tech Stack in Healthcare IT | Ron | [Read More](https://medium.com/p/962b6dfb2a76) |
-| Tue, 02 Sep 2025 13:25:28 GMT | The Unseen Shield: How Mathematics Secures the Digital World | Rajsandyt | [Read More](https://medium.com/p/45c2329d1499) |
-| Tue, 02 Sep 2025 13:22:37 GMT | How to exploit? Erlang Port Mapper Daemon — PORT 4369 | Very Lazy Tech | [Read More](https://medium.com/p/c927ccbe882c) |
-| Tue, 02 Sep 2025 13:17:52 GMT | Smarter and Closer to Human: How AI is Redefining Everyday Technology | Dhikral Baihaqi | [Read More](https://medium.com/p/af1896307de6) |
-| Tue, 02 Sep 2025 13:15:31 GMT | Why Your Business Needs Professional Security Service in West Midlands | Region Security | [Read More](https://medium.com/p/1dc1a20a9fe3) |
