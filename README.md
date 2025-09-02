@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 22:37:41 GMT | Information Systems Auditing, Controls and Assurance | Franklin Rhodes | [Read More](https://medium.com/p/3048e78195dd) |
+| Tue, 02 Sep 2025 22:33:45 GMT | How I Passed the OCI Multicloud Professional Exam (As a High Schooler) | ZeakPeak | [Read More](https://medium.com/p/990c3b82e1c6) |
+| Tue, 02 Sep 2025 22:28:43 GMT | Top 5 Free Web App Pentesting Resources | Andrew Paul | [Read More](https://medium.com/p/56745a44182e) |
+| Tue, 02 Sep 2025 22:10:23 GMT | Infrastructure Analysis: UNC6395 Salesforce Campaign — Follow-up | Cyb3rhawk | [Read More](https://medium.com/p/f11ac6aec844) |
 | Tue, 02 Sep 2025 21:56:47 GMT | Start Your Hacking Career Before it’s too late! | NnFace | [Read More](https://medium.com/p/1d74d70dfc63) |
 | Tue, 02 Sep 2025 21:32:57 GMT | From Manage Members to Full Admin: Privilege Escalation in a GraphQL API | Bassemwanies | [Read More](https://medium.com/p/b58699829d6e) |
 | Tue, 02 Sep 2025 21:25:01 GMT | VulnHub: DC: 1 Çözümü | Azat Dicle | [Read More](https://medium.com/p/be79bba2ad06) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 16:06:19 GMT | The Most Expensive Free SSL Certificate I Ever Owned | Aiden (Owner of Illumination Gaming) | [Read More](https://medium.com/p/feade7fbcb4b) |
 | Tue, 02 Sep 2025 16:02:11 GMT | Invisible Exploits — The Rise of “Non-Technical” Bugs That Break Security | DJH4CK3R | [Read More](https://medium.com/p/a9c7f7923b14) |
 | Tue, 02 Sep 2025 16:01:43 GMT | AI Is Now Negotiating Ransoms And Businesses Are Paying the Price | Juan F Moreno | [Read More](https://medium.com/p/eb10771232e0) |
-| Tue, 02 Sep 2025 15:57:37 GMT | Introduction to Cloud Computing and Why AWS Leads the Market | Kasungayashan | [Read More](https://medium.com/p/2909462ffdd1) |
-| Tue, 02 Sep 2025 15:57:21 GMT | Bug Bounty in the Metaverse — Hunting Vulnerabilities in Virtual Worlds | DJH4CK3R | [Read More](https://medium.com/p/ed4a2e825144) |
-| Tue, 02 Sep 2025 15:56:42 GMT | TryHackMe Startup Challenge Walkthrough: Step-by-Step Beginner’s Guide to FTP Exploitation and… | Prajwal | [Read More](https://medium.com/p/d3f85323b799) |
-| Tue, 02 Sep 2025 15:56:39 GMT | VPN Users: Your Time Zone Is a Leaky Faucet | Authlyn | [Read More](https://medium.com/p/07ce592e5fce) |
