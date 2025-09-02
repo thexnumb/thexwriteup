@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 21:32:57 GMT | From Manage Members to Full Admin: Privilege Escalation in a GraphQL API | Bassemwanies | [Read More](https://medium.com/p/b58699829d6e) |
+| Tue, 02 Sep 2025 21:25:01 GMT | VulnHub: DC: 1 Çözümü | Azat Dicle | [Read More](https://medium.com/p/be79bba2ad06) |
+| Tue, 02 Sep 2025 21:21:13 GMT | The Math Behind Digital Security | Latifatul Hania Az Zahra | [Read More](https://medium.com/p/f26b02ccac5f) |
 | Tue, 02 Sep 2025 20:49:14 GMT | A Patent-Powered Revolution: Milestones in Smartphone Technology | Shreya Singh | [Read More](https://medium.com/p/75bacb4b87ce) |
 | Tue, 02 Sep 2025 20:46:09 GMT | Your Smart Fridge Is Spying on You and Can Be Hacked: The Overlooked Risks of Smart Appliances | SECURE IT! | [Read More](https://medium.com/p/9bf7a37e7db3) |
 | Tue, 02 Sep 2025 20:44:12 GMT | 10 Questions to Deepen Your Relationship | Wilson Igbasi | [Read More](https://medium.com/p/4c8bf81d0b66) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 15:56:42 GMT | TryHackMe Startup Challenge Walkthrough: Step-by-Step Beginner’s Guide to FTP Exploitation and… | Prajwal | [Read More](https://medium.com/p/d3f85323b799) |
 | Tue, 02 Sep 2025 15:56:39 GMT | VPN Users: Your Time Zone Is a Leaky Faucet | Authlyn | [Read More](https://medium.com/p/07ce592e5fce) |
 | Tue, 02 Sep 2025 15:56:21 GMT | End-to-End Cybersecurity with SIEM and XDR Services | Vijilan | [Read More](https://medium.com/p/6075c6b67a5c) |
-| Tue, 02 Sep 2025 15:55:01 GMT | Homestead Security for the Single Woman | Beth Byfield | [Read More](https://medium.com/p/237235680561) |
-| Tue, 02 Sep 2025 15:53:08 GMT | Google Dorking: The Hidden Side of Search Engines | Natarajan C K | [Read More](https://medium.com/p/75d8d1153d17) |
-| Tue, 02 Sep 2025 15:48:25 GMT | The Human Zero-Day — Why People Are the Most Exploitable Vulnerability in 2025 | DJH4CK3R | [Read More](https://medium.com/p/8ee99e418521) |
