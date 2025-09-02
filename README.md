@@ -12,14 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 08:24:58 GMT | IT Companies In Gurgaon | soni bisht | [Read More](https://medium.com/p/1a52cde15fe0) |
+| Tue, 02 Sep 2025 08:17:15 GMT | The Era of AI-Powered Ransomware: A New Chapter in Cybersecurity | Itsmeanzee | [Read More](https://medium.com/p/51291cdbd5e8) |
+| Tue, 02 Sep 2025 08:06:06 GMT | Cooked CTF 2025 Misc Challenge “Nightmare” Write-up | Abrar | [Read More](https://medium.com/p/2f96e549a90f) |
+| Tue, 02 Sep 2025 08:01:50 GMT | How Machine Learning Fights Cyber Threats and Vice Versa | Guillaume GUERARD | [Read More](https://medium.com/p/521dc3112467) |
+| Tue, 02 Sep 2025 08:01:47 GMT | Why Your Linux Server Decided to Play Dead (And How to Wake It Up) | MayhemCode | [Read More](https://medium.com/p/33971c874712) |
+| Tue, 02 Sep 2025 08:01:46 GMT | Third-Party Risk Made Simple: See If Your Suppliers Are Already Exposed | Alexandre Vandamme | [Read More](https://medium.com/p/bb7c778bf522) |
+| Tue, 02 Sep 2025 08:01:31 GMT | Certified AI/ML Pentester: Certification Exam Journey | Adolfo Jara Gavilanes | [Read More](https://medium.com/p/64e151d39dcd) |
+| Tue, 02 Sep 2025 07:56:21 GMT | Understanding Protection Rings in Operating Systems: Security Through Structure | Raviteja Mureboina | [Read More](https://medium.com/p/aa836dbaba88) |
+| Tue, 02 Sep 2025 07:53:10 GMT | The Power of OSINT | Mr. Moyin | [Read More](https://medium.com/p/e6db67490edf) |
+| Tue, 02 Sep 2025 07:52:19 GMT | WEP, WPA, WPA2, WPA3: How Wi-Fi Security Works and How Hackers Try to Break It | Tan Woei Jye | [Read More](https://medium.com/p/94b32b7000c8) |
+| Tue, 02 Sep 2025 07:38:54 GMT | ประจำวันอังคารที่ 2 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/943513d5118c) |
 | Tue, 02 Sep 2025 07:34:59 GMT | How Google make us blind | Martin Abramov | [Read More](https://medium.com/p/bfc2b0052ff8) |
 | Tue, 02 Sep 2025 07:34:14 GMT | A simple guide to online privacy and security | Vimothy Chalamet | [Read More](https://medium.com/p/7dba1c55e71e) |
+| Tue, 02 Sep 2025 07:31:37 GMT | MERCURY’S LOVER | Abad Grueso | [Read More](https://medium.com/p/cf9d5b6f58ac) |
 | Tue, 02 Sep 2025 07:27:37 GMT | HOSTING GOPHISH ON A PUBLIC SERVER. | Joanorifha | [Read More](https://medium.com/p/7e5c34021638) |
 | Tue, 02 Sep 2025 07:19:00 GMT | Stopping Malicious Web Crawlers from Wasting Your Bandwidth with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/b8f8ecb24558) |
 | Tue, 02 Sep 2025 07:17:18 GMT | ☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere | Iski | [Read More](https://medium.com/p/3347780c79c5) |
 | Tue, 02 Sep 2025 07:15:19 GMT | Are Your Devices Spying on You Even When Offline? | Tarush Sharma | [Read More](https://medium.com/p/ff90fe860f12) |
 | Tue, 02 Sep 2025 07:14:06 GMT | How to Unlock Bigger Rewards with BUG BUG | BUG | [Read More](https://medium.com/p/2df26b17762d) |
 | Tue, 02 Sep 2025 07:06:13 GMT | Securing AI Agents: Risks, Threat Models, and Defences | George Zarkadakis | [Read More](https://medium.com/p/cb9171235b50) |
+| Tue, 02 Sep 2025 07:01:51 GMT | Top 10 hacking Books to Learn Ethical Hacking | Manisha Chaudhary | [Read More](https://medium.com/p/687684c22d68) |
 | Tue, 02 Sep 2025 07:01:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4cc453849b9c) |
 | Tue, 02 Sep 2025 06:56:50 GMT | Top 10 Cybersecurity Certifications (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/933f165fd038) |
 | Tue, 02 Sep 2025 06:56:34 GMT | Is AI Hackable? Let’s Talk About the Risks & Solutions | SmartNest | [Read More](https://medium.com/p/96737b804d78) |
@@ -100,16 +113,3 @@ By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f
 | Tue, 02 Sep 2025 00:29:10 GMT | The Day My Mom Challenged Me to Hack My Own House | Alex Grande | [Read More](https://medium.com/p/3a3ed4de94dc) |
 | Tue, 02 Sep 2025 00:24:01 GMT | Building a Robust Incident Response Plan | Samina Perveen | [Read More](https://medium.com/p/111fabed0be9) |
 | Tue, 02 Sep 2025 00:23:12 GMT | My Old Laptop’s New Job: Project Esquire — Phase 2 | Kevin Jose | [Read More](https://medium.com/p/498c62fa63cc) |
-| Tue, 02 Sep 2025 00:18:57 GMT | Playbook for Digital Transformation | Jeff Borneman | [Read More](https://medium.com/p/5eeb2b7e9e57) |
-| Tue, 02 Sep 2025 00:15:58 GMT | From ISP Default to Optimized Home Network: My Hands-On Journey into Modern Networking | Abassam | [Read More](https://medium.com/p/7e07aa8488b0) |
-| Tue, 02 Sep 2025 00:05:48 GMT | Silent Breach Lab - CyberDefenders | Anas404 | [Read More](https://medium.com/p/ac059570e578) |
-| Tue, 02 Sep 2025 00:01:41 GMT | Guía completa de Sublist3r: Cómo enumerar subdominios para Bug Bounty y OSINT | JPablo13 | [Read More](https://medium.com/p/4e26f38a884f) |
-| Mon, 01 Sep 2025 23:55:08 GMT | Digital Forensics | Laplanted24 | [Read More](https://medium.com/p/67d0a2223960) |
-| Mon, 01 Sep 2025 23:51:19 GMT | Haven1: Redefining DeFi Through Security, Compliance, and Innovation | Victor | [Read More](https://medium.com/p/cd9a39d5808d) |
-| Mon, 01 Sep 2025 23:26:37 GMT | ️TryHackMe Hack2Win Challenge: Room 1, Day 1 - Hydra | Chai | [Read More](https://medium.com/p/7767be169816) |
-| Mon, 01 Sep 2025 23:23:16 GMT | 09381554690 | سلام عشقای خاله این شماره جدید من است خط قبلی قطع | [Read More](https://medium.com/p/6160efeb6450) |
-| Mon, 01 Sep 2025 23:20:30 GMT | Am I Allowed to Feel This Shit? | The Career Ms | [Read More](https://medium.com/p/5e95357d5c6c) |
-| Mon, 01 Sep 2025 23:20:21 GMT | How I Lost To Primarkets _ Here is I Recover My Money | Castro Mako | [Read More](https://medium.com/p/92d8740f5086) |
-| Mon, 01 Sep 2025 23:16:12 GMT | Discover the Exciting Stories of the IT Industry from the 1970s | Stacklegend | [Read More](https://medium.com/p/01528951ff70) |
-| Mon, 01 Sep 2025 23:03:53 GMT | Modularizing the SIEM: Rethinking Security for a Composable Future | Aabhas Lal | [Read More](https://medium.com/p/53ff2893f20a) |
-| Mon, 01 Sep 2025 22:44:27 GMT | Starting My Kaizen Journey in Cybersecurity | Morontowumi Enioluwa Akinbogun | [Read More](https://medium.com/p/325f0a125ab6) |
