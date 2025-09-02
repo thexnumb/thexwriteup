@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 23:11:04 GMT | HackTheBox: Lock | Ross Andrews | [Read More](https://medium.com/p/7668a0833064) |
+| Tue, 02 Sep 2025 23:03:48 GMT | From Theory to Practice: Understanding IDOR Through a Real Scenario | Rawansaeed | [Read More](https://medium.com/p/2eb21ef07d65) |
+| Tue, 02 Sep 2025 22:59:07 GMT | HacktheBox — Eureka | Tech&Jazzgirl | [Read More](https://medium.com/p/5e637cd24dc0) |
+| Tue, 02 Sep 2025 22:57:52 GMT | OAuth Under Fire: APT29’s Device Code Flow Exploit Against Microsoft 365 | Ashley Dai | [Read More](https://medium.com/p/ae93bb738f46) |
 | Tue, 02 Sep 2025 22:37:41 GMT | Information Systems Auditing, Controls and Assurance | Franklin Rhodes | [Read More](https://medium.com/p/3048e78195dd) |
+| Tue, 02 Sep 2025 22:35:45 GMT | Pickle Rick writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/fb257647d142) |
 | Tue, 02 Sep 2025 22:33:45 GMT | How I Passed the OCI Multicloud Professional Exam (As a High Schooler) | ZeakPeak | [Read More](https://medium.com/p/990c3b82e1c6) |
 | Tue, 02 Sep 2025 22:28:43 GMT | Top 5 Free Web App Pentesting Resources | Andrew Paul | [Read More](https://medium.com/p/56745a44182e) |
 | Tue, 02 Sep 2025 22:10:23 GMT | Infrastructure Analysis: UNC6395 Salesforce Campaign — Follow-up | Cyb3rhawk | [Read More](https://medium.com/p/f11ac6aec844) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 16:13:41 GMT | Kali Linux -- Giriş | Mustafa Gunay | [Read More](https://medium.com/p/55489b3209fa) |
 | Tue, 02 Sep 2025 16:12:07 GMT | Why Securofy is Emerging as a Trusted Name in Cybersecurity Awareness | Bhavik Jadhao | [Read More](https://medium.com/p/26da43d59041) |
 | Tue, 02 Sep 2025 16:09:12 GMT | Securofy: A New Era of Protecting Digital Identities | Bhavik Jadhao | [Read More](https://medium.com/p/380e5cde37f3) |
-| Tue, 02 Sep 2025 16:08:34 GMT | The Complete React File Upload Guide: From Drag & Drop to Progress Tracking | Logan Lee | [Read More](https://medium.com/p/b2edb40016c2) |
-| Tue, 02 Sep 2025 16:07:06 GMT | From Passwords to Privacy : How Math Keeps You Safe Online | Rany | [Read More](https://medium.com/p/00a889b2094c) |
-| Tue, 02 Sep 2025 16:06:19 GMT | The Most Expensive Free SSL Certificate I Ever Owned | Aiden (Owner of Illumination Gaming) | [Read More](https://medium.com/p/feade7fbcb4b) |
-| Tue, 02 Sep 2025 16:02:11 GMT | Invisible Exploits — The Rise of “Non-Technical” Bugs That Break Security | DJH4CK3R | [Read More](https://medium.com/p/a9c7f7923b14) |
-| Tue, 02 Sep 2025 16:01:43 GMT | AI Is Now Negotiating Ransoms And Businesses Are Paying the Price | Juan F Moreno | [Read More](https://medium.com/p/eb10771232e0) |
