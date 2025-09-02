@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 01:17:48 GMT | How Risen Ransomware Works: An IDA Pro Deep Dive | Sohan Kanna D | [Read More](https://medium.com/p/424d9116d4d5) |
+| Tue, 02 Sep 2025 01:11:59 GMT | From Access Control to Egress Control: Securing AI with WSO2 API Manager | Vihanga Liyanage | [Read More](https://medium.com/p/5dd17c1a4da3) |
+| Tue, 02 Sep 2025 01:07:28 GMT | Horizontal Scaling vs. Vertical Scaling | Ruban | [Read More](https://medium.com/p/355118e4047b) |
+| Tue, 02 Sep 2025 00:59:39 GMT | CYBERSECURITY MILESTONE!!! | Eme Karen | [Read More](https://medium.com/p/f86f8487078b) |
+| Tue, 02 Sep 2025 00:43:23 GMT | I Social-Engineered My AI… and It Worked | Sam Galope | [Read More](https://medium.com/p/0cfdbeaf2394) |
+| Tue, 02 Sep 2025 00:29:10 GMT | The Day My Mom Challenged Me to Hack My Own House | Alex Grande | [Read More](https://medium.com/p/3a3ed4de94dc) |
+| Tue, 02 Sep 2025 00:24:01 GMT | Building a Robust Incident Response Plan | Samina Perveen | [Read More](https://medium.com/p/111fabed0be9) |
+| Tue, 02 Sep 2025 00:23:12 GMT | My Old Laptop’s New Job: Project Esquire — Phase 2 | Kevin Jose | [Read More](https://medium.com/p/498c62fa63cc) |
+| Tue, 02 Sep 2025 00:18:57 GMT | Playbook for Digital Transformation | Jeff Borneman | [Read More](https://medium.com/p/5eeb2b7e9e57) |
+| Tue, 02 Sep 2025 00:15:58 GMT | From ISP Default to Optimized Home Network: My Hands-On Journey into Modern Networking | Abassam | [Read More](https://medium.com/p/7e07aa8488b0) |
+| Tue, 02 Sep 2025 00:05:48 GMT | Silent Breach Lab - CyberDefenders | Anas404 | [Read More](https://medium.com/p/ac059570e578) |
+| Tue, 02 Sep 2025 00:01:41 GMT | Guía completa de Sublist3r: Cómo enumerar subdominios para Bug Bounty y OSINT | JPablo13 | [Read More](https://medium.com/p/4e26f38a884f) |
+| Mon, 01 Sep 2025 23:55:08 GMT | Digital Forensics | Laplanted24 | [Read More](https://medium.com/p/67d0a2223960) |
+| Mon, 01 Sep 2025 23:51:19 GMT | Haven1: Redefining DeFi Through Security, Compliance, and Innovation | Victor | [Read More](https://medium.com/p/cd9a39d5808d) |
 | Mon, 01 Sep 2025 23:26:37 GMT | ️TryHackMe Hack2Win Challenge: Room 1, Day 1 - Hydra | Chai | [Read More](https://medium.com/p/7767be169816) |
 | Mon, 01 Sep 2025 23:23:16 GMT | 09381554690 | سلام عشقای خاله این شماره جدید من است خط قبلی قطع | [Read More](https://medium.com/p/6160efeb6450) |
 | Mon, 01 Sep 2025 23:20:30 GMT | Am I Allowed to Feel This Shit? | The Career Ms | [Read More](https://medium.com/p/5e95357d5c6c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 16:44:22 GMT | What price are you willing to pay for security? | Jeff | [Read More](https://medium.com/p/8ef578ab7e0a) |
 | Mon, 01 Sep 2025 16:44:17 GMT | Finding My Voice | Kaleigh Dugan | [Read More](https://medium.com/p/b0f2197405b9) |
 | Mon, 01 Sep 2025 16:43:23 GMT | Transitioning to Remote: Why SFTP Matters | AMIT KASHYAP | [Read More](https://medium.com/p/6498e835d353) |
-| Mon, 01 Sep 2025 16:42:50 GMT | The Docker Desktop Security Breach That Shattered Container Isolation: CVE-2025–9074 Explained | Sanket Chaudhari | [Read More](https://medium.com/p/e758df2c1fbb) |
-| Mon, 01 Sep 2025 16:38:54 GMT | Joseph Lamar Simmons: Why Data Analysis Is the Future of Intelligence Work | Joseph Lamar Simmons | [Read More](https://medium.com/p/def6ff8ef005) |
-| Mon, 01 Sep 2025 16:36:02 GMT | Production-Ready LLM Security with Ansible: Complete Step-by-Step Guide Introduction to Ansible | Gabriel Rodewald | [Read More](https://medium.com/p/a1d495b9c5df) |
-| Mon, 01 Sep 2025 16:35:02 GMT | AI Meeting Assistant Security and Privacy: A Guide for 2025 | KaraX.ai | [Read More](https://medium.com/p/4796603d6cb8) |
-| Mon, 01 Sep 2025 16:30:58 GMT | Step-by-Step: Authenticate GitLab Pipelines to AWS with OIDC (No Static Keys) | Vijay Mourya | [Read More](https://medium.com/p/ae1baa9647e5) |
-| Mon, 01 Sep 2025 16:30:30 GMT | Exploring Malicious Office Macros | Hariharan | [Read More](https://medium.com/p/1a9294386f33) |
-| Mon, 01 Sep 2025 16:24:39 GMT | Best Netflix VPN that actually work in 2025 | rohan kumar | [Read More](https://medium.com/p/9fe3320b42ec) |
-| Mon, 01 Sep 2025 16:22:22 GMT | How Scams and Laundering Attempts Play Out on Shopify | Internet Exposed | [Read More](https://medium.com/p/df72994d30f4) |
-| Mon, 01 Sep 2025 16:20:08 GMT | When Backups Become Attack Vectors | Hantz Jermain | [Read More](https://medium.com/p/14cb73034192) |
-| Mon, 01 Sep 2025 16:19:46 GMT | Risk-based Vulnerability Management (RBVM) is Dead… Long Live RBVM | Rachana Gupta | [Read More](https://medium.com/p/5938dbe89551) |
-| Mon, 01 Sep 2025 16:17:42 GMT | Securing Web Assembly Modules in Browser Contexts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7de98b08166b) |
-| Mon, 01 Sep 2025 16:12:45 GMT | Basic Pentesting Walkthrough: Solving the TryHackMe Lab | Adwaith S | [Read More](https://medium.com/p/235af4cf8d3b) |
-| Mon, 01 Sep 2025 16:08:50 GMT | Let Her Be Well | Mine Falke | [Read More](https://medium.com/p/d0e43ccbb7cf) |
-| Mon, 01 Sep 2025 16:07:32 GMT | Unlocking the Binary (Part 2): Practical DynamoRIO Instrumentation in Action | Gandholi Sarat | [Read More](https://medium.com/p/09cfa0968f95) |
