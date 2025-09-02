@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 06:26:00 GMT | PMP Certification — Open Up Global Career Opportunities in Project Management | Certocean | [Read More](https://medium.com/p/a36290e3b59d) |
+| Tue, 02 Sep 2025 06:15:56 GMT | Venue Wi-Fi vs. Dedicated Event Internet: Why Your Event Deserves Better | Events wifi internet | [Read More](https://medium.com/p/960097da1c7f) |
+| Tue, 02 Sep 2025 06:07:26 GMT | Proving Grounds Walkthrough: AuthBy | Mihail Pana | [Read More](https://medium.com/p/07d021b6543d) |
+| Tue, 02 Sep 2025 06:03:52 GMT | AI in Cyber: Defender vs. Attacker | Shahzaib | [Read More](https://medium.com/p/fc2edeb3b9b8) |
+| Tue, 02 Sep 2025 06:01:58 GMT | The Age of Fragility | Alex Buday | [Read More](https://medium.com/p/d77a267cc663) |
+| Tue, 02 Sep 2025 06:01:39 GMT | Discover the Exciting Stories of the IT Industry from the 1980s | Stacklegend | [Read More](https://medium.com/p/db7d063100a1) |
+| Tue, 02 Sep 2025 05:58:48 GMT | Why Most of them fails in Bug Bounty — Deep dive into the reason behind it | 127.0.0.1 | [Read More](https://medium.com/p/78f1d47327a1) |
+| Tue, 02 Sep 2025 05:52:58 GMT | Your Privacy is Not Safe: “Incognito Mode Isn’t What You Think!” | Curious Advisor | [Read More](https://medium.com/p/fc5e5270c62f) |
+| Tue, 02 Sep 2025 05:48:46 GMT | The Daily Tech Digest: 02 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/40da7bb7b61a) |
+| Tue, 02 Sep 2025 05:47:32 GMT | Bir Kaçışın Sessiz İtirafı | Nuri Sencer | [Read More](https://medium.com/p/b1ab46fafe97) |
+| Tue, 02 Sep 2025 05:47:02 GMT | The LazyOwn Chronicles: When Your Framework Becomes a Digital Revolution
+By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f230b4d6) |
+| Tue, 02 Sep 2025 05:46:19 GMT | Fence Recognition with Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/604536f73181) |
+| Tue, 02 Sep 2025 05:46:17 GMT | Key Factors To Look For When Choosing A Security Agency | Jane Tang | [Read More](https://medium.com/p/7d36354bb3bb) |
+| Tue, 02 Sep 2025 05:44:42 GMT | Build Skills and Secure Your Future with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/278e7fad7c09) |
 | Tue, 02 Sep 2025 05:32:42 GMT | When Your Tools Turn Against You | Aj | [Read More](https://medium.com/p/31e09b7e76c7) |
 | Tue, 02 Sep 2025 05:30:16 GMT | How to Secure Events with CCTV and Access Control — A Guide with eTransit | etransit | [Read More](https://medium.com/p/137cf0f71abb) |
 | Tue, 02 Sep 2025 05:22:26 GMT | Secure Your Workspace: Advanced Turnstile Speed Gates for Corporate Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/54e3eabb1b25) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Sep 2025 20:20:44 GMT | Cybersecurity Today: Tiny Slip-Ups, AI Tools – and a Whole Chain of Consequences | Joao Silva | [Read More](https://medium.com/p/229353bb262d) |
 | Mon, 01 Sep 2025 20:19:15 GMT | Do Your Loved Ones Have Access to Your Accounts in an Emergency? | Crystal Crowder | [Read More](https://medium.com/p/92d541bf208b) |
 | Mon, 01 Sep 2025 20:12:33 GMT | The Digital Bounty Hunter: How to Find and Report Bugs for Cash | Samina Perveen | [Read More](https://medium.com/p/9fe3539d7015) |
-| Mon, 01 Sep 2025 20:09:52 GMT | Querying Errors Only in CloudTrail | Teri Radichel | [Read More](https://medium.com/p/ed28329c5927) |
-| Mon, 01 Sep 2025 20:04:05 GMT | Beneath the Surface: Secrets Hidden in a JPEG You’d Never Suspect | salma osama | [Read More](https://medium.com/p/ad177ec2d814) |
-| Mon, 01 Sep 2025 20:02:07 GMT | JavaScript Essentials - THM | Isiah | [Read More](https://medium.com/p/af396139019e) |
-| Mon, 01 Sep 2025 19:52:10 GMT | Hackers Exploit WDAC to Disable EDR Agents | SCtoCS | [Read More](https://medium.com/p/5a4864108a3d) |
-| Mon, 01 Sep 2025 19:43:51 GMT | From Phishing to Deepfakes: The Evolution of Social Engineering | Shahzaib | [Read More](https://medium.com/p/2611699dc697) |
-| Mon, 01 Sep 2025 19:43:40 GMT | Cyberspace: the new battlefield of the 21st century | Hayat Outahar | [Read More](https://medium.com/p/564bf08e876d) |
-| Mon, 01 Sep 2025 19:31:52 GMT | TryHackMe - Masterminds — Write-up | ocharek | [Read More](https://medium.com/p/112aadfc3d03) |
-| Mon, 01 Sep 2025 19:29:26 GMT | The Illusion of Standing Alone | Kashaf Shafique | [Read More](https://medium.com/p/8b95c211a547) |
-| Mon, 01 Sep 2025 19:24:09 GMT | How I Turned a $4 Microcontroller into a Rubber Ducky | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/ec0cb756b3fe) |
-| Mon, 01 Sep 2025 19:20:39 GMT | When AI Helps — and Hurts: 5 Practical Tools for Smarter Linux Admins | Iliya Garakh | [Read More](https://medium.com/p/cd74bd09a36e) |
-| Mon, 01 Sep 2025 19:18:57 GMT | ReVanced — The Art of Digital Reverse Engineering | Fahad Khan | [Read More](https://medium.com/p/0e63573d39fe) |
-| Mon, 01 Sep 2025 19:15:33 GMT | AI Misuse and How We Fight Back | Above The Firewall | [Read More](https://medium.com/p/3c9a99b36fe0) |
-| Mon, 01 Sep 2025 18:59:23 GMT | Can There Be National Defense Without National Code? | Umut Akbulut | [Read More](https://medium.com/p/e08df9ccc072) |
-| Mon, 01 Sep 2025 18:55:03 GMT | Monday Cyber Brief — September 1 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/44cc2a58a7bc) |
