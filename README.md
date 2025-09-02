@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 20:49:14 GMT | A Patent-Powered Revolution: Milestones in Smartphone Technology | Shreya Singh | [Read More](https://medium.com/p/75bacb4b87ce) |
+| Tue, 02 Sep 2025 20:46:09 GMT | Your Smart Fridge Is Spying on You and Can Be Hacked: The Overlooked Risks of Smart Appliances | SECURE IT! | [Read More](https://medium.com/p/9bf7a37e7db3) |
+| Tue, 02 Sep 2025 20:44:12 GMT | 10 Questions to Deepen Your Relationship | Wilson Igbasi | [Read More](https://medium.com/p/4c8bf81d0b66) |
+| Tue, 02 Sep 2025 20:39:57 GMT | Bandit Level 20 — A Gateway to Networking and Setuid Binaries | Gregory Kovalchuk | [Read More](https://medium.com/p/e6f94606965f) |
+| Tue, 02 Sep 2025 20:38:44 GMT | Bug Bounty Checklist: A Practical Guide for Hunters | Curt Hayman, CEH | [Read More](https://medium.com/p/d10f1527a42a) |
+| Tue, 02 Sep 2025 20:30:00 GMT | MD2PDF- TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/4fbb309991ad) |
 | Tue, 02 Sep 2025 20:27:27 GMT | The Fear of the Answer — Why We Never Ask Certain Questions | Tami | [Read More](https://medium.com/p/129935509852) |
 | Tue, 02 Sep 2025 20:27:16 GMT | Unsafe File Upload → MIME Type Bypass | Cybersecplayground | [Read More](https://medium.com/p/0e9e80d9d23a) |
 | Tue, 02 Sep 2025 20:23:27 GMT | The Homeless Man’s Shared Cigarette: A Lesson in Unconditional Empathy | Wilson Igbasi | [Read More](https://medium.com/p/cac278c9c220) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 15:55:01 GMT | Homestead Security for the Single Woman | Beth Byfield | [Read More](https://medium.com/p/237235680561) |
 | Tue, 02 Sep 2025 15:53:08 GMT | Google Dorking: The Hidden Side of Search Engines | Natarajan C K | [Read More](https://medium.com/p/75d8d1153d17) |
 | Tue, 02 Sep 2025 15:48:25 GMT | The Human Zero-Day — Why People Are the Most Exploitable Vulnerability in 2025 | DJH4CK3R | [Read More](https://medium.com/p/8ee99e418521) |
-| Tue, 02 Sep 2025 15:46:25 GMT | No One Really Tells You The Hardest Part Of Getting a Tech Job | Vijay Kumar Gupta | [Read More](https://medium.com/p/341a6526b022) |
-| Tue, 02 Sep 2025 15:31:48 GMT | Day 14: Package Management in Linux | Prutha_Dongre | [Read More](https://medium.com/p/0a365bf557b4) |
-| Tue, 02 Sep 2025 15:30:55 GMT | Discovering a Text Injection Vulnerability — A Bug Hunter’s Learning Journey very usefull for new… | Be nice insabat | [Read More](https://medium.com/p/d366e3271476) |
-| Tue, 02 Sep 2025 15:27:12 GMT | LEMIX: Enabling Testing of Embedded Applications as Linux Applications | James Davis | [Read More](https://medium.com/p/895f85131cd8) |
-| Tue, 02 Sep 2025 15:23:36 GMT | Evil-GPT: TryHackMe Writeup | Farhad Anwari | [Read More](https://medium.com/p/45ce1ae7e965) |
-| Tue, 02 Sep 2025 15:20:47 GMT | SHARING EXPERIENCE Taking the Junior Penetration Tester (PT1) Certification on TryHackMe | m3mories | [Read More](https://medium.com/p/5ee85fb1ff5f) |
