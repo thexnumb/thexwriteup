@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 17:21:22 GMT | CVE-2025–55177: The WhatsApp Sync Flaw That Enabled Zero-Click Surveillance | gm0 | [Read More](https://medium.com/p/8e9b27ad3236) |
+| Tue, 02 Sep 2025 17:07:42 GMT | Walkthrough: Exploiting ProFTPD 1.3.3c Using Metasploit | Shahabas_ak | [Read More](https://medium.com/p/739a77c70723) |
+| Tue, 02 Sep 2025 17:06:14 GMT | From Classroom to Cash Prize: A Student’s Guide to Bug Bounties | Samina Perveen | [Read More](https://medium.com/p/5667099922c8) |
+| Tue, 02 Sep 2025 17:03:54 GMT | Google Hacker News: The Shocking Ultimatum That Could Change Cybersecurity Forever | Ali Muhammad | [Read More](https://medium.com/p/4ec7dea18652) |
 | Tue, 02 Sep 2025 17:03:45 GMT | How LinkedIn Handles “Who Viewed Your Profile” Without Leaking Privacy | The Abstract Engineer | [Read More](https://medium.com/p/4a4283c973ba) |
 | Tue, 02 Sep 2025 17:03:18 GMT | WhatsApp’s Zero-Day Exploit: What Really Happened on Sep 2nd | The UNFILTERED Draft | [Read More](https://medium.com/p/e5d642db28fc) |
 | Tue, 02 Sep 2025 16:58:06 GMT | OS2 Binary Bomb Lab: Phase 4 | Sourav Bose | [Read More](https://medium.com/p/3683ac7593e8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 13:22:37 GMT | How to exploit? Erlang Port Mapper Daemon — PORT 4369 | Very Lazy Tech | [Read More](https://medium.com/p/c927ccbe882c) |
 | Tue, 02 Sep 2025 13:17:52 GMT | Smarter and Closer to Human: How AI is Redefining Everyday Technology | Dhikral Baihaqi | [Read More](https://medium.com/p/af1896307de6) |
 | Tue, 02 Sep 2025 13:15:31 GMT | Why Your Business Needs Professional Security Service in West Midlands | Region Security | [Read More](https://medium.com/p/1dc1a20a9fe3) |
-| Tue, 02 Sep 2025 13:13:25 GMT | The Hidden Math That Protects Your Digital Life | Nadia Arifatun Nisa | [Read More](https://medium.com/p/42a689684fe8) |
-| Tue, 02 Sep 2025 13:10:49 GMT | [CyberDefenders Write-up] Fog Ransomware | Chicken0248 | [Read More](https://medium.com/p/ef6bf3bdfd45) |
-| Tue, 02 Sep 2025 13:01:03 GMT | Disinformation Defense: Tech Against Fake News | Thinking Loop | [Read More](https://medium.com/p/7b3dff5dcc4b) |
-| Tue, 02 Sep 2025 13:01:02 GMT | How Math Protect The Digital World | Raihan Pratama | [Read More](https://medium.com/p/5f33b23a6954) |
