@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 07:19:00 GMT | Stopping Malicious Web Crawlers from Wasting Your Bandwidth with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/b8f8ecb24558) |
+| Tue, 02 Sep 2025 07:17:18 GMT | ☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere | Iski | [Read More](https://medium.com/p/3347780c79c5) |
+| Tue, 02 Sep 2025 07:15:19 GMT | Are Your Devices Spying on You Even When Offline? | Tarush Sharma | [Read More](https://medium.com/p/ff90fe860f12) |
+| Tue, 02 Sep 2025 07:06:13 GMT | Securing AI Agents: Risks, Threat Models, and Defences | George Zarkadakis | [Read More](https://medium.com/p/cb9171235b50) |
+| Tue, 02 Sep 2025 07:01:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4cc453849b9c) |
+| Tue, 02 Sep 2025 06:56:50 GMT | Top 10 Cybersecurity Certifications (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/933f165fd038) |
+| Tue, 02 Sep 2025 06:56:34 GMT | Is AI Hackable? Let’s Talk About the Risks & Solutions | SmartNest | [Read More](https://medium.com/p/96737b804d78) |
+| Tue, 02 Sep 2025 06:55:57 GMT | Advanced MDM Functionalities for BYOD Environments | Vantage MDM | [Read More](https://medium.com/p/37cd4766f7c9) |
+| Tue, 02 Sep 2025 06:54:54 GMT | Equifax (2017) | Muhammad Zohaib | [Read More](https://medium.com/p/41172adf74ad) |
+| Tue, 02 Sep 2025 06:49:51 GMT | Day 48- Isolation in Cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/0d1a40169721) |
+| Tue, 02 Sep 2025 06:47:35 GMT | Cómo redactar un buen reporte de Bug Bounty (paso a paso) | Gorka | [Read More](https://medium.com/p/288016837dff) |
+| Tue, 02 Sep 2025 06:39:32 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/2f3181e12828) |
+| Tue, 02 Sep 2025 06:39:32 GMT | Tekstil Alarm Sensörleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/b9764d2496e5) |
+| Tue, 02 Sep 2025 06:35:15 GMT | Cyber Threats Are Evolving: Here’s How to Stay Secure in 2025 | Sleuth_joe | [Read More](https://medium.com/p/cabd6b24bed3) |
+| Tue, 02 Sep 2025 06:31:39 GMT | The Nude That Never Existed | Aditi Jha | [Read More](https://medium.com/p/9ce0b60a806c) |
 | Tue, 02 Sep 2025 06:26:00 GMT | PMP Certification — Open Up Global Career Opportunities in Project Management | Certocean | [Read More](https://medium.com/p/a36290e3b59d) |
+| Tue, 02 Sep 2025 06:20:41 GMT | Which is the best IT training and development company in Nagercoil? | Jewelljerin | [Read More](https://medium.com/p/68d4ea6f0faa) |
 | Tue, 02 Sep 2025 06:15:56 GMT | Venue Wi-Fi vs. Dedicated Event Internet: Why Your Event Deserves Better | Events wifi internet | [Read More](https://medium.com/p/960097da1c7f) |
 | Tue, 02 Sep 2025 06:07:26 GMT | Proving Grounds Walkthrough: AuthBy | Mihail Pana | [Read More](https://medium.com/p/07d021b6543d) |
 | Tue, 02 Sep 2025 06:03:52 GMT | AI in Cyber: Defender vs. Attacker | Shahzaib | [Read More](https://medium.com/p/fc2edeb3b9b8) |
@@ -97,19 +113,3 @@ By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f
 | Mon, 01 Sep 2025 22:34:52 GMT | Mobile Hacking Lab -- Android Challenges | Mahmoud Mohamed | [Read More](https://medium.com/p/3e7bbf3c05ab) |
 | Mon, 01 Sep 2025 22:33:33 GMT | FYODOST: Mastering Layer 2 Network Security Testing in 2025 | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/fbb22ca65938) |
 | Mon, 01 Sep 2025 22:29:09 GMT | Securing Amazon EKS: A DevSecOps Engineer’s Guide to Surviving Audits & Attacks | Abhishek Gupta | [Read More](https://medium.com/p/f6248c536f73) |
-| Mon, 01 Sep 2025 22:20:09 GMT | PromptLock: The First AI-Powered Ransomware Proof-of-Concept | Sean  Oriyano | [Read More](https://medium.com/p/955ddd3d5491) |
-| Mon, 01 Sep 2025 22:17:39 GMT | Data Diodes for Secure Unidirectional Data Flow | Karthikeyan Nagaraj | [Read More](https://medium.com/p/50117d677231) |
-| Mon, 01 Sep 2025 21:59:59 GMT | CVE-2025–9074: Docker Desktop Container Escape Analysis | MindPatch | [Read More](https://medium.com/p/4f327a17c10f) |
-| Mon, 01 Sep 2025 21:32:58 GMT | Corridor — Hack in 5 Minutes - Write-Up #8 | D4m.sh | [Read More](https://medium.com/p/ebfb1a40ab8e) |
-| Mon, 01 Sep 2025 21:06:33 GMT | Full Weak Engineer CTF 2025 Writeups - 0xSn0w | Tamimsharif | [Read More](https://medium.com/p/afde1afe5be6) |
-| Mon, 01 Sep 2025 20:57:52 GMT | Editor Write-up - HackTheBox - Season 8 | debang5hu | [Read More](https://medium.com/p/2a7eb3383a04) |
-| Mon, 01 Sep 2025 20:43:05 GMT | Inside the PEB: How Malware Resolves APIs Without Imports | Itz.sanskarr | [Read More](https://medium.com/p/81f7d03bcfc5) |
-| Mon, 01 Sep 2025 20:34:51 GMT | Content Discovery as a Strategy | Dzianis Skliar | [Read More](https://medium.com/p/662b13ddd46a) |
-| Mon, 01 Sep 2025 20:34:34 GMT | Are You Really Safe Online? Let’s Get Real. | Shahzaib | [Read More](https://medium.com/p/777e4a467acd) |
-| Mon, 01 Sep 2025 20:34:26 GMT | How to Spot Easy Website Bugs with Real Examples | Monika sharma | [Read More](https://medium.com/p/2507f6688e25) |
-| Mon, 01 Sep 2025 20:27:40 GMT | Episode 2: Fundamentals Of Cybersecurity — CIA Triad | Yash Kitey | [Read More](https://medium.com/p/2f826af50a55) |
-| Mon, 01 Sep 2025 20:25:23 GMT | Netskope services landscape and where it fits in the SASE (Secure Access Service Edge) ecosystem. | Ayush Jain | [Read More](https://medium.com/p/a4cb935c98c2) |
-| Mon, 01 Sep 2025 20:23:54 GMT | In4m: Keeping up with the Latest Infosec News | Kulkan Security | [Read More](https://medium.com/p/ff4a045cf8a9) |
-| Mon, 01 Sep 2025 20:20:44 GMT | Cybersecurity Today: Tiny Slip-Ups, AI Tools – and a Whole Chain of Consequences | Joao Silva | [Read More](https://medium.com/p/229353bb262d) |
-| Mon, 01 Sep 2025 20:19:15 GMT | Do Your Loved Ones Have Access to Your Accounts in an Emergency? | Crystal Crowder | [Read More](https://medium.com/p/92d541bf208b) |
-| Mon, 01 Sep 2025 20:12:33 GMT | The Digital Bounty Hunter: How to Find and Report Bugs for Cash | Samina Perveen | [Read More](https://medium.com/p/9fe3539d7015) |
