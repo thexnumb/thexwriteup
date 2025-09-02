@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Sep 2025 10:32:13 GMT | HTB Endpoint Challenge Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/d4e0bb688101) |
+| Tue, 02 Sep 2025 10:31:22 GMT | Top 5 Reasons to Migrate from Egnyte to SharePoint Online | Arun Jyothi | [Read More](https://medium.com/p/7d09734cb494) |
+| Tue, 02 Sep 2025 10:28:07 GMT | Connecting to a Hidden C2 via Redirector: Simple C++ Agent — Part 3 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/43a794508a02) |
+| Tue, 02 Sep 2025 10:27:46 GMT | Building a Career in Ethical Hacking: Skills You Need | Nagaraj | [Read More](https://medium.com/p/8132b4930d87) |
+| Tue, 02 Sep 2025 10:22:11 GMT | Beyond the Ransomware Playbook: Why Your Toolkit Needs a Cloud Security Upgrade | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/35d4e333dec3) |
+| Tue, 02 Sep 2025 10:21:38 GMT | New Chart Offers Best Tips for Business Cybersecurity | Mitchell Barrick | [Read More](https://medium.com/p/4a8fcf45f1ae) |
+| Tue, 02 Sep 2025 10:17:05 GMT | Tuesday Morning Threat Report: Sept 2, 2025 | Mark Maguire | [Read More](https://medium.com/p/895f30cfe44f) |
+| Tue, 02 Sep 2025 10:16:55 GMT | Top Cyber Security Services Providers in Australia: Safeguarding Your Business in the Digital Age | vGics Global LLP | [Read More](https://medium.com/p/5ec42c845886) |
 | Tue, 02 Sep 2025 10:16:17 GMT | Best Lease Management Software In India For Retail Business | Gowthammathiew | [Read More](https://medium.com/p/86e28dc02ac4) |
 | Tue, 02 Sep 2025 10:14:34 GMT | From Gmail to Gmàil: A Punycode Path to Account Takeover | Minio Haxer | [Read More](https://medium.com/p/88896264acdb) |
+| Tue, 02 Sep 2025 10:12:51 GMT | How to Protect Your Digital Assets: Important Security Services for Apps You Need | Digital Defense | [Read More](https://medium.com/p/d20b8ef82b2f) |
 | Tue, 02 Sep 2025 10:12:08 GMT | How I Was Able to Make $160 and Protect Multiple Global Brands from Shopify API Credential Leaks | Omar | [Read More](https://medium.com/p/e64dcc7211b8) |
 | Tue, 02 Sep 2025 10:03:34 GMT | Your Trusted IT Services Company in Bangalore for Smarter Business | Pat Aditya | [Read More](https://medium.com/p/7a5b7e6589a9) |
 | Tue, 02 Sep 2025 10:01:10 GMT | I hacked my entire College’s Wi-Fi Network! | Akash Singh | [Read More](https://medium.com/p/2869e7e77077) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 05:47:32 GMT | Bir Kaçışın Sessiz İtirafı | Nuri Sencer | [Read More](https://medium.com/p/b1ab46fafe97) |
 | Tue, 02 Sep 2025 05:47:02 GMT | The LazyOwn Chronicles: When Your Framework Becomes a Digital Revolution
 By: grisun0, Chief… | Lazyown Redteam | [Read More](https://medium.com/p/78f0f230b4d6) |
-| Tue, 02 Sep 2025 05:46:19 GMT | Fence Recognition with Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/604536f73181) |
-| Tue, 02 Sep 2025 05:46:17 GMT | Key Factors To Look For When Choosing A Security Agency | Jane Tang | [Read More](https://medium.com/p/7d36354bb3bb) |
-| Tue, 02 Sep 2025 05:44:42 GMT | Build Skills and Secure Your Future with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/278e7fad7c09) |
-| Tue, 02 Sep 2025 05:32:42 GMT | When Your Tools Turn Against You | Aj | [Read More](https://medium.com/p/31e09b7e76c7) |
-| Tue, 02 Sep 2025 05:30:16 GMT | How to Secure Events with CCTV and Access Control — A Guide with eTransit | etransit | [Read More](https://medium.com/p/137cf0f71abb) |
-| Tue, 02 Sep 2025 05:22:26 GMT | Secure Your Workspace: Advanced Turnstile Speed Gates for Corporate Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/54e3eabb1b25) |
-| Tue, 02 Sep 2025 05:06:39 GMT | Would You Leave Your Front Door Open? Why OWASP Top 10 Matters for Every Web App | Baljinder Singh | [Read More](https://medium.com/p/a130c2d8e294) |
-| Tue, 02 Sep 2025 05:01:49 GMT | ESSENTIAL SECURITY SUITE (ESS) for Small and Medium Business by Palo Alto Networks | Juara IT Solutions | [Read More](https://medium.com/p/58e9638702a3) |
-| Tue, 02 Sep 2025 04:55:12 GMT | 5 Simple Cybersecurity Tips Every Aussie Small Business Should Know in 2025 | Ahmed Ali | [Read More](https://medium.com/p/047b57f6df41) |
