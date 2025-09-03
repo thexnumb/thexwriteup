@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 16:40:13 GMT | Blue Team Lab — 2nd Phishing Analysis | Juan Alexander Alejo | [Read More](https://medium.com/p/81d1189fcb6a) |
+| Wed, 03 Sep 2025 16:37:54 GMT | How to Keep Your Flutter App Safe: A Simple Guide | Riza Mojed | [Read More](https://medium.com/p/4623e40f5db6) |
+| Wed, 03 Sep 2025 16:37:33 GMT | “Should You Really Use NGINX? (Or Just Expose Your App Like a Maniac)?” | Anzalo Quin | [Read More](https://medium.com/p/49ced0b5c2c0) |
+| Wed, 03 Sep 2025 16:33:49 GMT | Surviving the 48-Hour TryHackMe PT1 Exam: Take It or Leave It | CYB3RXD0N | [Read More](https://medium.com/p/868415f61b5c) |
+| Wed, 03 Sep 2025 16:24:42 GMT | Malware Classification - TryHackMe | 0xDK | [Read More](https://medium.com/p/0bde191f9d89) |
+| Wed, 03 Sep 2025 16:23:41 GMT | The Race Nobody Wanted to Win | Aj | [Read More](https://medium.com/p/476d6d30edf0) |
+| Wed, 03 Sep 2025 16:22:59 GMT | The Unseen Cost of Internet Convenience: What We Trade for Speed and Ease | Haider Ali | [Read More](https://medium.com/p/32127bd3de93) |
+| Wed, 03 Sep 2025 16:19:35 GMT | StrataSight — Current Trends in Cybersecurity — July 2025 | Grant Gamble | [Read More](https://medium.com/p/8fb278a582fe) |
+| Wed, 03 Sep 2025 16:19:18 GMT | The Landscape of Threats | Internet Exposed | [Read More](https://medium.com/p/4cc9054ddfdd) |
+| Wed, 03 Sep 2025 16:19:04 GMT | Windows Authorization Process — tokens, SIDs, and Privileges | Kelvin TC Law | [Read More](https://medium.com/p/1096b57cf563) |
 | Wed, 03 Sep 2025 16:14:45 GMT | The White Hat Hacker: Cracking Corporate Systems Legally for Profit | Samina Perveen | [Read More](https://medium.com/p/46b1e95b5d26) |
 | Wed, 03 Sep 2025 16:11:35 GMT | How Technology Enabled and Was Enabled by New Ways of Thinking | Echo Code | [Read More](https://medium.com/p/cea8f26ba7a6) |
 | Wed, 03 Sep 2025 16:11:28 GMT | Agentic AI vs SOC Analysts — Who Wins in 2025 and Beyond? | Taimur Ijlal | [Read More](https://medium.com/p/7469999051a0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 12:14:48 GMT | Best Cloud Telephony Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/983e273933f8) |
 | Wed, 03 Sep 2025 12:13:51 GMT | Social Media Security: Protecting Your Online Identity | Kartik Debnath | [Read More](https://medium.com/p/de4cfb47a705) |
 | Wed, 03 Sep 2025 12:13:35 GMT | Reflected XSS in canonical link tag | Chirag Vyas | [Read More](https://medium.com/p/5460e56f660e) |
-| Wed, 03 Sep 2025 12:08:00 GMT | Top Penetration Testing Company: Secure Your Data | LipSec Limited | [Read More](https://medium.com/p/b4cdba999862) |
-| Wed, 03 Sep 2025 12:07:30 GMT | How to Prevent Phishing Attacks and Stay Safe Online in 2025 | Timónofearth | [Read More](https://medium.com/p/92375967c601) |
-| Wed, 03 Sep 2025 12:05:11 GMT | The Salesforce Drift Breach and What It Says About All of Us | Prerna Shukla | [Read More](https://medium.com/p/55932bb583e8) |
-| Wed, 03 Sep 2025 12:02:46 GMT | Fake AIs and DNN Watermarks: How We Can Tell What’s Real | N0H4TS | [Read More](https://medium.com/p/e3aa5bcad53f) |
-| Wed, 03 Sep 2025 12:02:27 GMT | 5 Reasons Quantum Computing Will Change Cybersecurity Forever | Elevate | [Read More](https://medium.com/p/d10a5b1b6b15) |
-| Wed, 03 Sep 2025 12:01:31 GMT | Secure Mining Hosting: Expert Guidance to Sidestep Crypto Fraud | CassyS | [Read More](https://medium.com/p/609d5d955744) |
-| Wed, 03 Sep 2025 11:50:40 GMT | Deploying ModSecurity + OWASP CRS WAF on a Linux Server | Rojin Antony | [Read More](https://medium.com/p/4c79fe8b4dbb) |
-| Wed, 03 Sep 2025 11:49:38 GMT | Why Smart Ports Need Envision AI-Driven PMIS Modules | P Harshavardhan | [Read More](https://medium.com/p/e903fcc72df7) |
-| Wed, 03 Sep 2025 11:47:13 GMT | OptimationBD Delivers Modern CCTV Security Solution in Tejgaon Residential Office Building | optimationbd | [Read More](https://medium.com/p/d0308799fe18) |
-| Wed, 03 Sep 2025 11:43:42 GMT | Top 10 Steps for Effective Application Security Risk Assessment | LipSec Limited | [Read More](https://medium.com/p/f49bacff96d1) |
