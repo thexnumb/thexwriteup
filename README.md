@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 05:37:42 GMT | Directory Listing Automation for Efficiency | mrahmatt74 | [Read More](https://medium.com/p/4cd84ea5db51) |
+| Wed, 03 Sep 2025 05:29:19 GMT | “Cybersecurity: The Abyss Gazes Also?” | Truspex | [Read More](https://medium.com/p/d599cdd2b0ec) |
+| Wed, 03 Sep 2025 05:23:21 GMT | Kali Linux WLAN0: Finally Wired Right? A Virtual Victory. | SilentInject | [Read More](https://medium.com/p/8edb229b773f) |
+| Wed, 03 Sep 2025 05:13:53 GMT | Google is Locking Down Android: What the End of Anonymous Sideloading Means for You | Aj | [Read More](https://medium.com/p/13f138a07dc2) |
 | Wed, 03 Sep 2025 05:13:37 GMT | Beyond the Firewall: Why Human Error is Still the Weakest Link | Shahzaib | [Read More](https://medium.com/p/7a4775b4dc7b) |
 | Wed, 03 Sep 2025 05:13:09 GMT | 3D Secure (3DS) in Card Payments | Vikas Pandey | [Read More](https://medium.com/p/1dc5e042c0a6) |
 | Wed, 03 Sep 2025 05:07:46 GMT | Securing Your Future: Study Master’s in Cybersecurity in the USA | Shreetu Mohanty | [Read More](https://medium.com/p/cae997c10ef3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 20:12:45 GMT | Why Your Security Strategy Fails Without Python | Hex Shift | [Read More](https://medium.com/p/b89965931393) |
 | Tue, 02 Sep 2025 20:08:48 GMT | OSCP Preparation Series | Ahsan Ali Khan | [Read More](https://medium.com/p/29f914d7295f) |
 | Tue, 02 Sep 2025 19:46:46 GMT | A Step-by-Step Playbook for TaHiTI (Targeted Hunting with Threat Intelligence) | Sathish Sivaprakash | [Read More](https://medium.com/p/5106acdb37fd) |
-| Tue, 02 Sep 2025 19:45:36 GMT | Portswigger:SQL injection attack, Listing the database contents on non-Oracle databases | Dark | [Read More](https://medium.com/p/58bb8fe1f451) |
-| Tue, 02 Sep 2025 19:38:41 GMT | Proactive Cyber Diplomacy: Anticipating Conflict in the Digital Age | CCD-IS | [Read More](https://medium.com/p/777b6b41d160) |
-| Tue, 02 Sep 2025 19:38:28 GMT | 100+ cybersecurity statistics published in July and August 2025 | CyberSecStats | [Read More](https://medium.com/p/d00173430c65) |
-| Tue, 02 Sep 2025 19:36:24 GMT | Sysmon ve Threat Hunting süreçleri | Eren izyat | [Read More](https://medium.com/p/972c6a6e1555) |
