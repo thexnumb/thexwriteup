@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 23:17:00 GMT | Vulnerability Data Enrichment for CVE Records: 243 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/972d2ec8ccc2) |
+| Wed, 03 Sep 2025 23:08:59 GMT | Fginvest-Group Review: Recover Funds Now, | Admin Running | [Read More](https://medium.com/p/7e6e7cd9d983) |
+| Wed, 03 Sep 2025 23:06:57 GMT | To Harrybell- Teen Love Poem Collection | Thanaa Etiko | [Read More](https://medium.com/p/8fd177d1e74c) |
+| Wed, 03 Sep 2025 23:06:10 GMT | Beyond the Hype: The Real Security Challenges of Large Language Models | BlueTeam Bytes | [Read More](https://medium.com/p/074a8ef6956b) |
+| Wed, 03 Sep 2025 23:06:02 GMT | Why Your Website Needs a Customizable Document Upload UI | Idera Dev Tools | [Read More](https://medium.com/p/d9b65947fb37) |
+| Wed, 03 Sep 2025 22:48:28 GMT | CVE Program Report for Quarter 2 Calendar Year (Q2 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/d58eec5b0fb3) |
+| Wed, 03 Sep 2025 22:39:14 GMT | How Smartphones and OSINT Are Rewriting Police Accountability | Rishisec | [Read More](https://medium.com/p/431f81233d50) |
+| Wed, 03 Sep 2025 22:35:49 GMT | Kali Linux -- Sonuç | Mustafa Gunay | [Read More](https://medium.com/p/fe23811847de) |
 | Wed, 03 Sep 2025 22:32:34 GMT | Será que preciso instalar uma biblioteca para respirar? | Kleber Andrade | [Read More](https://medium.com/p/2fbea203d6e9) |
 | Wed, 03 Sep 2025 22:24:40 GMT | ️ Multi-Brand / Multi-Tenant Pentest Checklist | BugHunter021 | [Read More](https://medium.com/p/d9178868c40f) |
 | Wed, 03 Sep 2025 22:24:38 GMT | Can Your Security Stack See ChatGPT? Why Network Visibility Matters | Cyber-AppSec | [Read More](https://medium.com/p/d733636afbbe) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 16:19:18 GMT | The Landscape of Threats | Internet Exposed | [Read More](https://medium.com/p/4cc9054ddfdd) |
 | Wed, 03 Sep 2025 16:19:04 GMT | Windows Authorization Process — tokens, SIDs, and Privileges | Kelvin TC Law | [Read More](https://medium.com/p/1096b57cf563) |
 | Wed, 03 Sep 2025 16:14:45 GMT | The White Hat Hacker: Cracking Corporate Systems Legally for Profit | Samina Perveen | [Read More](https://medium.com/p/46b1e95b5d26) |
-| Wed, 03 Sep 2025 16:11:35 GMT | How Technology Enabled and Was Enabled by New Ways of Thinking | Echo Code | [Read More](https://medium.com/p/cea8f26ba7a6) |
-| Wed, 03 Sep 2025 16:11:28 GMT | Agentic AI vs SOC Analysts — Who Wins in 2025 and Beyond? | Taimur Ijlal | [Read More](https://medium.com/p/7469999051a0) |
-| Wed, 03 Sep 2025 16:10:56 GMT | IDOR to Full Account Takeover | Amr khaled Zakaria | [Read More](https://medium.com/p/f6dd651f5de4) |
-| Wed, 03 Sep 2025 16:09:28 GMT | Inside the Qilin Ransomware Attack on Lee Enterprises: How Nearly 40,000 Social Security Numbers… | Ganesh B | [Read More](https://medium.com/p/6d9b81412359) |
-| Wed, 03 Sep 2025 16:05:47 GMT | PRIVACY IS NOT A COST CENTER: IT’S A GROWTH DRIVER | OA | [Read More](https://medium.com/p/4b2b77eddb6f) |
-| Wed, 03 Sep 2025 16:04:51 GMT | The Time Zone That Produces the Fewest Bugs (And Why It’s Not What You Think) | Sohail x Codes | [Read More](https://medium.com/p/57161ace9ee4) |
-| Wed, 03 Sep 2025 16:00:52 GMT | How to Start in Cybersecurity (My Journey & Beginner Roadmap) | Cybernerddd | [Read More](https://medium.com/p/5e9c9f13dc0d) |
-| Wed, 03 Sep 2025 15:47:00 GMT | Brazil’s $130M Cyberattack Attempt: Lessons for Global Payment Security | Technijian | [Read More](https://medium.com/p/c11f4b2d8e22) |
