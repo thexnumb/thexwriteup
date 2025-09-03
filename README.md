@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 20:10:34 GMT | Vulnerable and Outdated Components (OWASP Top 10 #6) — Simplified | Chai | [Read More](https://medium.com/p/4a170b83f052) |
+| Wed, 03 Sep 2025 19:44:15 GMT | Cybersecurity Workforce: The Unsung Heroes of the Digital Age | Akshay Chauhan | [Read More](https://medium.com/p/0fda50d7d744) |
+| Wed, 03 Sep 2025 19:41:35 GMT | How to Spot Early Signs of a Cyber Attack on Your Factory Floor | Cyberkech | [Read More](https://medium.com/p/74abf10d634d) |
+| Wed, 03 Sep 2025 19:40:56 GMT | The Parkinson’s Law for AI Cybersecurity: Six Dangers of Systemic Failure in Autonomous Security | Valdez Ladd | [Read More](https://medium.com/p/95218e72b1bb) |
 | Wed, 03 Sep 2025 19:35:54 GMT | The AI Ghost in Your Terminal: An AI Copilot for Penetration Testing | Sophia Martinez | [Read More](https://medium.com/p/73767135be33) |
 | Wed, 03 Sep 2025 19:24:36 GMT | Ransomware Analysis: The Static, The Dynamic, and The Hybrid | Chris Zhang | [Read More](https://medium.com/p/94743a9e4fdd) |
 | Wed, 03 Sep 2025 19:10:53 GMT | Holding On to My Passions: Why Dreams Matter More Than “Reality” | Starlight S | [Read More](https://medium.com/p/3094bc7a9101) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 14:33:10 GMT | Jaringan Komputer : Dasar Routing dan Switching | Yasa Wijaya | [Read More](https://medium.com/p/16b1b0aa8b99) |
 | Wed, 03 Sep 2025 14:32:11 GMT | How to Shop for a Pentesting Vendor: A Complete Guide for Security Buyers | Sprocket Security | [Read More](https://medium.com/p/b1e635d9319f) |
 | Wed, 03 Sep 2025 14:31:41 GMT | ️ Prompt Injection Attacks: How They Work and How to Defend Against Them | CapitalCoin | [Read More](https://medium.com/p/a7c9036003c5) |
-| Wed, 03 Sep 2025 14:31:22 GMT | SOC-in-a-Box: Network Security and Phishing Email Analysis Homelab | Sparsh Ladani | [Read More](https://medium.com/p/4047f287535f) |
-| Wed, 03 Sep 2025 14:29:51 GMT | Securing Your Kubernetes Cluster with Signed & Verified Container Images | Meron | [Read More](https://medium.com/p/132d329443fd) |
-| Wed, 03 Sep 2025 14:27:31 GMT | Insomniac: Love Searching | Insónia | [Read More](https://medium.com/p/f4e7963b8e09) |
-| Wed, 03 Sep 2025 14:25:19 GMT | The EU Cyber Resilience Act: The Manufacturer’s Dilemma and the Strategic Path Forward | martino.agostini | [Read More](https://medium.com/p/b5030b11d7dc) |
