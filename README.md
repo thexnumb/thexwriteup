@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 02:40:23 GMT | Classic Crackme 0x100 picoCTF | Michael Elfauz | [Read More](https://medium.com/p/b880068a3585) |
+| Wed, 03 Sep 2025 02:22:03 GMT | TryHackMe Walkthrough: Startup | Indigo Shadow | [Read More](https://medium.com/p/013bf93de66d) |
+| Wed, 03 Sep 2025 02:21:11 GMT | The Future of DeFi with Drosera Network | Ore | [Read More](https://medium.com/p/787f9483e1a1) |
+| Wed, 03 Sep 2025 02:14:47 GMT | The SME Cybersecurity Shift: Why Identity-First, AI-Aware Security Is Winning | Roger Millar | [Read More](https://medium.com/p/b13cdf8b078e) |
+| Wed, 03 Sep 2025 02:07:50 GMT | How 29,000 LinkedIn Followers & 100,000 Facebook Readers Changed My Perspective on Cybersecurity | Dr. Deep Pandey | [Read More](https://medium.com/p/d66e829a6eda) |
+| Wed, 03 Sep 2025 02:01:57 GMT | Over 30,000 Malicious IPs Target Microsoft Remote Desktop in Global Surge | SafetyDetectives Research Team | [Read More](https://medium.com/p/9201019a3e7e) |
+| Wed, 03 Sep 2025 01:33:15 GMT | Pihole — Advanced Use Cases | Greg Heffner | [Read More](https://medium.com/p/1392ba933699) |
+| Wed, 03 Sep 2025 01:24:13 GMT | Manipulating India’s Stock Market: The GST Portal Data Leak | Aseem Shrey (@aseemshrey) | [Read More](https://medium.com/p/b5437c817071) |
 | Wed, 03 Sep 2025 01:22:26 GMT | The Silent Script: PowerShell’s Double Life in the Dark | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/c0bd2a457f66) |
 | Wed, 03 Sep 2025 01:07:41 GMT | How to Protect Your Database from SQL Injection? | Wan-Yi Lee | [Read More](https://medium.com/p/18dbbee9735c) |
 | Wed, 03 Sep 2025 01:00:01 GMT | Unapologetic Vulnerability: Deep Caring, Quiet Power | Jessica Isaac | [Read More](https://medium.com/p/3834a85de563) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 17:49:00 GMT | RedLine Stealer: A Shortcut to Identity Theft. | Mohamed Mostafa | [Read More](https://medium.com/p/b605618dbc84) |
 | Tue, 02 Sep 2025 17:47:17 GMT | Human Based Cybersecurity Risks | Matthew.Rosenquist | [Read More](https://medium.com/p/cea3f7378704) |
 | Tue, 02 Sep 2025 17:44:36 GMT | Silver Fox Breaches Defenses with Microsoft-Signed Driver Exploit | Inforsecpro | [Read More](https://medium.com/p/1f447b28eb62) |
-| Tue, 02 Sep 2025 17:44:05 GMT | Nmap: The Detective Behind Your Network’s Secrets | Swetha | [Read More](https://medium.com/p/d94ca07b1e96) |
-| Tue, 02 Sep 2025 17:34:23 GMT | Why Typing 100 WPM Would Make Life Easier as a Pentester | Danny Butler | [Read More](https://medium.com/p/8380b5177422) |
-| Tue, 02 Sep 2025 17:21:22 GMT | CVE-2025–55177: The WhatsApp Sync Flaw That Enabled Zero-Click Surveillance | gm0 | [Read More](https://medium.com/p/8e9b27ad3236) |
-| Tue, 02 Sep 2025 17:07:42 GMT | Walkthrough: Exploiting ProFTPD 1.3.3c Using Metasploit | Shahabas_ak | [Read More](https://medium.com/p/739a77c70723) |
-| Tue, 02 Sep 2025 17:06:14 GMT | From Classroom to Cash Prize: A Student’s Guide to Bug Bounties | Samina Perveen | [Read More](https://medium.com/p/5667099922c8) |
-| Tue, 02 Sep 2025 17:03:54 GMT | Google Hacker News: The Shocking Ultimatum That Could Change Cybersecurity Forever | Ali Muhammad | [Read More](https://medium.com/p/4ec7dea18652) |
-| Tue, 02 Sep 2025 17:03:45 GMT | How LinkedIn Handles “Who Viewed Your Profile” Without Leaking Privacy | The Abstract Engineer | [Read More](https://medium.com/p/4a4283c973ba) |
-| Tue, 02 Sep 2025 17:03:18 GMT | WhatsApp’s Zero-Day Exploit: What Really Happened on Sep 2nd | The UNFILTERED Draft | [Read More](https://medium.com/p/e5d642db28fc) |
