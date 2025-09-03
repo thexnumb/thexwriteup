@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 11:03:34 GMT | Legacy Modernization Trends: Driving the Future of Digital Transformation | tkxel | [Read More](https://medium.com/p/39c3d7a24d25) |
+| Wed, 03 Sep 2025 10:51:53 GMT | ⚠️ The Dark Side of AI : How People Are Misusing (and could Misuse) Artificial Intelligence | Somya Golchha | [Read More](https://medium.com/p/ceeb13005606) |
+| Wed, 03 Sep 2025 10:49:01 GMT | This AI bug cost me a top 5 Spot at DEFCON 33 Bug Bounty Village CTF | drop | [Read More](https://medium.com/p/9e1438aa4b5a) |
+| Wed, 03 Sep 2025 10:42:48 GMT | Chrome 140 Update Patches Six Critical Vulnerabilities Allowing Remote Code Execution | Jasmitharouthu | [Read More](https://medium.com/p/117fec4744fc) |
+| Wed, 03 Sep 2025 10:40:28 GMT | JWT Security for Bug Bounty Hunters — Part 2 (Step-by-Step Practical Guide) Live | Shaikh Minhaz | [Read More](https://medium.com/p/0e4ad7c4cb11) |
+| Wed, 03 Sep 2025 10:35:39 GMT | How Active Workforce Pro Is Transforming Security Management in Australia | ICORP Security | [Read More](https://medium.com/p/7bf0c4325cf8) |
+| Wed, 03 Sep 2025 10:35:08 GMT | 10 Best Secure Hosting Providers for Tutoring Marketplace Websites | Kanika Mehtah | [Read More](https://medium.com/p/6073b49b37ca) |
 | Wed, 03 Sep 2025 10:31:02 GMT | Email Security Business Importance in Today’s Digital World | Cyber Cops | [Read More](https://medium.com/p/d7be0c63f9ca) |
+| Wed, 03 Sep 2025 10:30:57 GMT | Homeland Security Market Size Anticipated to Reach Around USD 997.82 billion by 2033 | Frank Morgan | [Read More](https://medium.com/p/2ceaa01bb909) |
 | Wed, 03 Sep 2025 10:30:47 GMT | The Future Impacts of Artificial Intelligence: Opportunities . | Mohammad Aqib | [Read More](https://medium.com/p/9724765d28d4) |
 | Wed, 03 Sep 2025 10:29:12 GMT | 10 Best Free Hosting Options for Government Websites in 2025 ️ | Kanika Mehtah | [Read More](https://medium.com/p/952fd3788290) |
 | Wed, 03 Sep 2025 10:26:44 GMT | Web Design Leeds: Building Your Brand Online | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/f5f7238c0c54) |
@@ -105,11 +113,3 @@ Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11
 | Wed, 03 Sep 2025 06:14:05 GMT | Using Edge One CDN IP Library with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/da6eecaffce1) |
 | Wed, 03 Sep 2025 06:08:06 GMT | How Technology is Shaping the Future of Social Media | Hurain | [Read More](https://medium.com/p/74baa742c3af) |
 | Wed, 03 Sep 2025 06:05:36 GMT | Subfinder | Swetha | [Read More](https://medium.com/p/97b70205b82e) |
-| Wed, 03 Sep 2025 06:05:19 GMT | Şantiye Alarm Sistemleri: İnşaat Sahalarında Güvenliğin Anahtarı | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/1a4b20c6157e) |
-| Wed, 03 Sep 2025 06:04:45 GMT | Flesh Robot | You'd Think | [Read More](https://medium.com/p/3e9dd4b2ca4e) |
-| Wed, 03 Sep 2025 05:59:05 GMT | Cloud Infrastructure Entitlement Management (CIEM) By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4f9684d007de) |
-| Wed, 03 Sep 2025 05:53:22 GMT | How a Dating App Almost Ruined My Best Friend’s Life | Shahzaib | [Read More](https://medium.com/p/314560c6a944) |
-| Wed, 03 Sep 2025 05:50:31 GMT | Advanced XSS Bug Bounty-Full Guide: Multi-Vector Payloads That Earned Me $1500 | Zoningxtr | [Read More](https://medium.com/p/2f639086d3cb) |
-| Wed, 03 Sep 2025 05:42:26 GMT | Why You’re Afraid to Be Truly Seen in Love | J.S Writes ✨ | [Read More](https://medium.com/p/8de0832c5cdc) |
-| Wed, 03 Sep 2025 05:41:45 GMT | AdBlock not cutting it on YouTube? | TurisVPN | [Read More](https://medium.com/p/786451d98c87) |
-| Wed, 03 Sep 2025 05:40:44 GMT | Hackers Assemble 2: The Saga Completes | Abhishek Gupta | [Read More](https://medium.com/p/590f4813812a) |
