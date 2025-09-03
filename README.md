@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 23:36:42 GMT | Title: The Unpatchable Attacks: Why DLL Hijacking, Credential Dumping, and Unmanaged PS Injection… | Rahaliashraf | [Read More](https://medium.com/p/23e05e1f91be) |
 | Wed, 03 Sep 2025 23:17:00 GMT | Vulnerability Data Enrichment for CVE Records: 243 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/972d2ec8ccc2) |
 | Wed, 03 Sep 2025 23:08:59 GMT | Fginvest-Group Review: Recover Funds Now, | Admin Running | [Read More](https://medium.com/p/7e6e7cd9d983) |
 | Wed, 03 Sep 2025 23:06:57 GMT | To Harrybell- Teen Love Poem Collection | Thanaa Etiko | [Read More](https://medium.com/p/8fd177d1e74c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 16:19:35 GMT | StrataSight — Current Trends in Cybersecurity — July 2025 | Grant Gamble | [Read More](https://medium.com/p/8fb278a582fe) |
 | Wed, 03 Sep 2025 16:19:18 GMT | The Landscape of Threats | Internet Exposed | [Read More](https://medium.com/p/4cc9054ddfdd) |
 | Wed, 03 Sep 2025 16:19:04 GMT | Windows Authorization Process — tokens, SIDs, and Privileges | Kelvin TC Law | [Read More](https://medium.com/p/1096b57cf563) |
-| Wed, 03 Sep 2025 16:14:45 GMT | The White Hat Hacker: Cracking Corporate Systems Legally for Profit | Samina Perveen | [Read More](https://medium.com/p/46b1e95b5d26) |
