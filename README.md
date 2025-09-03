@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 03:37:38 GMT | The Unseen Enemy: How Safe Are We in the Age of AI-Powered Cyberattacks? | Yatin | [Read More](https://medium.com/p/94d38436964e) |
+| Wed, 03 Sep 2025 03:31:42 GMT | DOM-Based Extension Clickjacking: A Zero-Day Threat to Major Password Managers | Deven Chhajed | [Read More](https://medium.com/p/585760d625ed) |
+| Wed, 03 Sep 2025 03:29:27 GMT | Smartbi Access Bypass Vulnerability Leads to Admin Takeover | Quella | [Read More](https://medium.com/p/6a293f8c9882) |
+| Wed, 03 Sep 2025 03:23:46 GMT | He just left. It’s not a love story. | Kakoli Aster♡ | [Read More](https://medium.com/p/df7b010331f5) |
+| Wed, 03 Sep 2025 03:23:08 GMT | Drosera: Architecting the Future of Decentralized Trust | Roman Lucien | [Read More](https://medium.com/p/44f9b43ed0ce) |
 | Wed, 03 Sep 2025 03:21:57 GMT | I Built a Password Cracker and What It Revealed Will Change How You Think About Security Forever | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/c5d4fb5992bf) |
 | Wed, 03 Sep 2025 03:12:29 GMT | I Built a Password Cracker and What It Revealed Will Change How You Think About Security Forever | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/534d4309ecae) |
 | Wed, 03 Sep 2025 03:08:09 GMT | # Breaking Down Malware and Application Attacks: A Hands-On Security+ Lab | Adrian Gonzalez | [Read More](https://medium.com/p/ae7067cb9641) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 18:29:29 GMT | Sirraya Codon Protocol | Aamir Hameed | [Read More](https://medium.com/p/eb328fdbd716) |
 | Tue, 02 Sep 2025 18:27:30 GMT | From Curious Teen to Cybersecurity Freelancer: My Journey in Tech from 17 to 24 | Iserjaoui | [Read More](https://medium.com/p/6d94c8516e51) |
 | Tue, 02 Sep 2025 18:13:41 GMT | The Top 5 Cloud Security Misconfigurations That Lead to Breaches | Roland Njoya | [Read More](https://medium.com/p/9b6c259af216) |
-| Tue, 02 Sep 2025 18:04:19 GMT | The Importance of Cybersecurity Awareness in Developing Countries: A Focus on Morocco | Soumia frina | [Read More](https://medium.com/p/955596cad309) |
-| Tue, 02 Sep 2025 18:04:14 GMT | Top 10 SIEM Use Cases Every Business Should Know | SafeAeon Inc. | [Read More](https://medium.com/p/9b72c1f1ef73) |
-| Tue, 02 Sep 2025 18:01:37 GMT | Top 7 Tech Shifts to Watch Next Quarter | Thinking Loop | [Read More](https://medium.com/p/68ff732dffd4) |
-| Tue, 02 Sep 2025 17:55:33 GMT | Defining a “Risk Appetite” for your Organization | Vaibhav Sonavane | [Read More](https://medium.com/p/afbc1333465f) |
-| Tue, 02 Sep 2025 17:54:51 GMT | Business Process Audit — Technology and Resource Management | Artyom Sivolob | [Read More](https://medium.com/p/f181b2145b19) |
