@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 22:15:40 GMT | Identification and Authentication Failures (OWASP Top 10 #7) — Simplified | Chai | [Read More](https://medium.com/p/255da755a056) |
+| Wed, 03 Sep 2025 22:13:50 GMT | NucAIScan: AI-Assisted Web Application Security Scanner | Onurcan Genç | [Read More](https://medium.com/p/60007bdcd571) |
+| Wed, 03 Sep 2025 22:13:20 GMT | Surveillance Everywhere: The Surprising Truth About Your Connected Life | Om Kinkhabwala | [Read More](https://medium.com/p/2954e1e12465) |
+| Wed, 03 Sep 2025 22:11:46 GMT | ️‍♂️ Cât de real și sigur e modul Incognito din Google Chrome? | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/9b5327140393) |
+| Wed, 03 Sep 2025 22:07:36 GMT | Hacking WordPress: SSRF via XML-RPC | diaryofacyberfan | [Read More](https://medium.com/p/4a87ef520ba8) |
+| Wed, 03 Sep 2025 22:07:28 GMT | Old Domains, New Risks: What Happens When You Forget to Renew | Evgeny Ermakov | [Read More](https://medium.com/p/4b9b04e1143f) |
+| Wed, 03 Sep 2025 21:50:29 GMT | Public-Key Cryptography in Ethereum: RSA and ECC | Chris-Derique Ehizo | [Read More](https://medium.com/p/be1bf68f44e5) |
+| Wed, 03 Sep 2025 21:42:17 GMT | “Forgot Password?” Forgotten feature | diaryofacyberfan | [Read More](https://medium.com/p/da485d551e40) |
+| Wed, 03 Sep 2025 21:38:14 GMT | The Low-Tech Trick That Keeps My Cyber Workflows Sharp | Sam Galope | [Read More](https://medium.com/p/9e4fa49d8ffb) |
+| Wed, 03 Sep 2025 21:37:35 GMT | Django Unauthenticated, 0 click, RCE, and SQL Injection using default configuration. | EyalSec | [Read More](https://medium.com/p/059964f3f898) |
+| Wed, 03 Sep 2025 21:37:03 GMT | How Weak Access Control Can Break Your Web App | diaryofacyberfan | [Read More](https://medium.com/p/c9da6286c187) |
+| Wed, 03 Sep 2025 21:27:41 GMT | Building an NMAP static binary | z3l3v | [Read More](https://medium.com/p/ca1e2dc9c66e) |
 | Wed, 03 Sep 2025 21:24:38 GMT | Exploring Microsoft Sentinel: KQL 201 — Beyond the Basics | Vedant Tapdiya | [Read More](https://medium.com/p/60efdd2930df) |
 | Wed, 03 Sep 2025 21:21:32 GMT | TryHackMe — Incident Response Fundamentals Writeup | Ulaş AKTAŞ | [Read More](https://medium.com/p/b0015669bc60) |
 | Wed, 03 Sep 2025 21:17:33 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/f829d9904e1c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 15:43:04 GMT | Zero Trust, Maximum Confusion: Why Security’s Hottest Buzzword Is Missing the Point | Eric Zietlow | [Read More](https://medium.com/p/1be1695b8669) |
 | Wed, 03 Sep 2025 15:37:41 GMT | Unlock the Power of BUG BUG Rewards | BUG | [Read More](https://medium.com/p/f3a2066cbc66) |
 | Wed, 03 Sep 2025 15:35:36 GMT | Cisco Smart Install — PORT 4786 — how to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/a5d91b43f35f) |
-| Wed, 03 Sep 2025 15:34:23 GMT | When AI Becomes the Threat: A Raw Look at the Cybersecurity Minefield We’re Entering | Dhruvdeep Singh | [Read More](https://medium.com/p/20246f1665c6) |
-| Wed, 03 Sep 2025 15:33:51 GMT | MySQL Database Vulnerability on Metasploitable2 — Operation Database Storm ⚡️ | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3724ec5111c9) |
-| Wed, 03 Sep 2025 15:31:01 GMT | Why Most Beginners Struggle with Bug Bounty Hunting (and How to Fix It) | Kumar Mohit | [Read More](https://medium.com/p/19d416267d7a) |
-| Wed, 03 Sep 2025 15:27:44 GMT | From Wi-Fi 7 to AI: Understanding the Next Generation of Connectivity | New Trend Computer Networks | [Read More](https://medium.com/p/3a5ed7d7f53b) |
-| Wed, 03 Sep 2025 15:25:27 GMT | The Ghost in the Hard Drive: Why a 1KB File Takes Up 4KB of Space | Ahmed Maher | [Read More](https://medium.com/p/7c62e0fe137e) |
-| Wed, 03 Sep 2025 15:24:44 GMT | Who are Hackers? - Different Types of Hackers | Tooba Fatimi | [Read More](https://medium.com/p/b69c05022947) |
-| Wed, 03 Sep 2025 15:24:11 GMT | Advancing Qualities of Visuals via Outdoor LED Screens in 2025 | Kan Universal | [Read More](https://medium.com/p/d703f9b2ff46) |
-| Wed, 03 Sep 2025 15:18:48 GMT | Write Up Lab: SQL injection UNION attack, determining the number of columns returned by the query | Velskynotfound | [Read More](https://medium.com/p/28a46b0d7444) |
-| Wed, 03 Sep 2025 15:16:03 GMT | Why I Hope Your Next Cyber Exercise is a Spectacular Failure | William (Jamie) Knobles | [Read More](https://medium.com/p/0c2f255762a1) |
-| Wed, 03 Sep 2025 15:13:13 GMT | TryHackMe - Session Forensics - WriteUp | Axoloth | [Read More](https://medium.com/p/53c5debed066) |
-| Wed, 03 Sep 2025 15:06:55 GMT | GOOG Stock: Everything Investors Need to Know | Motherlandlove | [Read More](https://medium.com/p/5cd6d0a6f4db) |
-| Wed, 03 Sep 2025 15:01:18 GMT | Meet Bandit: The Python Security Tool Devs Can’t Afford to Ignore in 2025 | Azeem Teli | [Read More](https://medium.com/p/045459525732) |
