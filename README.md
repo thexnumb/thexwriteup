@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 04:14:38 GMT | KLCC Tower — Boot2Root Writeup (3108CTF: Bayang Satria) | CyberFaez | [Read More](https://medium.com/p/ebda5399da01) |
+| Wed, 03 Sep 2025 04:11:39 GMT | Why Cybersecurity Awareness Training Is Your Best Defense Against Hackers (2025 Guide) | Secventra | [Read More](https://medium.com/p/f7e3a5a488ba) |
+| Wed, 03 Sep 2025 04:08:54 GMT | Towards Autonomous, Trustworthy Cyber Defense: The Future of DevSecOps & AI | Rachid Abadli | [Read More](https://medium.com/p/b913117be380) |
+| Wed, 03 Sep 2025 04:01:30 GMT | When Password Managers Turn Against Us: Trust Undermined by Clickjacking | Akilnath Bodipudi | [Read More](https://medium.com/p/21a9c1869cb8) |
+| Wed, 03 Sep 2025 03:59:28 GMT | My name is Inayat Hussain, and I come from a small, underdeveloped city and village in Pakistan. | Inayat Hussain | [Read More](https://medium.com/p/38eff268a351) |
+| Wed, 03 Sep 2025 03:57:59 GMT | Danielle Spencer: DMV author explores digital privacy in new novel | Meet the World Image Solutions | [Read More](https://medium.com/p/2a3b735ff5b5) |
+| Wed, 03 Sep 2025 03:55:07 GMT | Cybersecurity Zero to Hero? Your Blueprint Starts Now | Authlyn | [Read More](https://medium.com/p/aef6f61de43a) |
+| Wed, 03 Sep 2025 03:46:36 GMT | ️ Catching Hackers with Wazuh: SQL Injection in Juice Shop | Jahson Jno-Baptiste | [Read More](https://medium.com/p/682b1e969bac) |
+| Wed, 03 Sep 2025 03:43:40 GMT | Phish and Fetch: Turning Weak Email Validations Into Full System Access | Iski | [Read More](https://medium.com/p/9a6561edfd57) |
 | Wed, 03 Sep 2025 03:37:38 GMT | The Unseen Enemy: How Safe Are We in the Age of AI-Powered Cyberattacks? | Yatin | [Read More](https://medium.com/p/94d38436964e) |
 | Wed, 03 Sep 2025 03:31:42 GMT | DOM-Based Extension Clickjacking: A Zero-Day Threat to Major Password Managers | Deven Chhajed | [Read More](https://medium.com/p/585760d625ed) |
 | Wed, 03 Sep 2025 03:29:27 GMT | Smartbi Access Bypass Vulnerability Leads to Admin Takeover | Quella | [Read More](https://medium.com/p/6a293f8c9882) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 19:00:37 GMT | Why HTTPS Doesn’t Actually Protect You (From the Real Threats) | Sohail Saifi | [Read More](https://medium.com/p/bb409f6097d6) |
 | Tue, 02 Sep 2025 18:59:59 GMT | Applying K-Means Clustering for Vulnerability Prioritization | Patrick Lefler | [Read More](https://medium.com/p/a7f8ae854bbf) |
 | Tue, 02 Sep 2025 18:52:58 GMT | AI Sleeper Agents — The Digital Espionage | Siddharth Saraf | [Read More](https://medium.com/p/36a0d9c075cd) |
-| Tue, 02 Sep 2025 18:49:35 GMT | Intro to Logs — TryHackMe — Write-up | Forrest Caffray | [Read More](https://medium.com/p/3eafdb9960f2) |
-| Tue, 02 Sep 2025 18:43:28 GMT | Building a Fake APK Detection System: My Journey at CyberShield Hackathon 2025 | Sanidhya | [Read More](https://medium.com/p/1f789841c9c9) |
-| Tue, 02 Sep 2025 18:38:24 GMT | Putting on the NIST in the DIB | theccmi | [Read More](https://medium.com/p/2b400c3a9ccf) |
-| Tue, 02 Sep 2025 18:36:11 GMT | phOS2 Binary Bomb Lab: Phase 5 | Sourav Bose | [Read More](https://medium.com/p/286f8a1997f1) |
-| Tue, 02 Sep 2025 18:31:34 GMT | Securing Ubuntu with UFW & Fail2Ban | Adarsh K | [Read More](https://medium.com/p/b5a1a780c5e3) |
-| Tue, 02 Sep 2025 18:31:34 GMT | Dangling Record in Route53 — a low hanging fruit for hackers. | E.K. | [Read More](https://medium.com/p/104935a1719a) |
-| Tue, 02 Sep 2025 18:29:29 GMT | Sirraya Codon Protocol | Aamir Hameed | [Read More](https://medium.com/p/eb328fdbd716) |
-| Tue, 02 Sep 2025 18:27:30 GMT | From Curious Teen to Cybersecurity Freelancer: My Journey in Tech from 17 to 24 | Iserjaoui | [Read More](https://medium.com/p/6d94c8516e51) |
-| Tue, 02 Sep 2025 18:13:41 GMT | The Top 5 Cloud Security Misconfigurations That Lead to Breaches | Roland Njoya | [Read More](https://medium.com/p/9b6c259af216) |
