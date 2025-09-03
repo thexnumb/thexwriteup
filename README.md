@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 09:30:43 GMT | Defense ABCs: How does this industry work, make money, or get funding? | Camilla Sekkal | [Read More](https://medium.com/p/ff33ce9fd996) |
+| Wed, 03 Sep 2025 09:30:41 GMT | Building Information Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/8fa470af1227) |
+| Wed, 03 Sep 2025 09:30:38 GMT | I’m Struggling To Speak The Language Of Love | Rizzee Cerdeñola | [Read More](https://medium.com/p/84cb8eff9925) |
+| Wed, 03 Sep 2025 09:30:23 GMT | How to Use Qualys VMDR for Effective Vulnerability Management | Abdullateef Hameed | [Read More](https://medium.com/p/d49b75e27708) |
+| Wed, 03 Sep 2025 09:28:21 GMT | CAM Software Market: Analyzing Key Trends, Industry Drivers, and Growth Opportunities | Kaverigiri | [Read More](https://medium.com/p/38065d42fd6c) |
+| Wed, 03 Sep 2025 09:27:47 GMT | Building Information Security and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/dc890a8d70ea) |
+| Wed, 03 Sep 2025 09:22:40 GMT | Why Every Business Needs Web Application VAPT for Stronger Security | Digital Defense | [Read More](https://medium.com/p/278575740604) |
+| Wed, 03 Sep 2025 09:21:27 GMT | Building Incident Response in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/5cbda8448540) |
 | Wed, 03 Sep 2025 09:13:02 GMT | The Hidden Edge: Real-Time Pipelines Across Solana & EVM | mayor. | [Read More](https://medium.com/p/a64ab6a3dace) |
 | Wed, 03 Sep 2025 09:12:57 GMT | Best VAPT Testing Services In India -Strengthen Your Security | Gowthammathiew | [Read More](https://medium.com/p/0f0f9844a3b2) |
+| Wed, 03 Sep 2025 09:12:44 GMT | How Saloni Mastered Cyber Security at Boston Institute! | Dipanshu | [Read More](https://medium.com/p/dfba6e852ec3) |
 | Wed, 03 Sep 2025 09:11:37 GMT | Automated Access Control Systems: A Complete Guide for IT and Security Leaders | SecureSlate | [Read More](https://medium.com/p/72455f4480fc) |
 | Wed, 03 Sep 2025 09:08:45 GMT | Financial Security or Vulnerability? Uncovering Cyber Threats and How to Address Them | ElegiMark | [Read More](https://medium.com/p/b449eb838806) |
 | Wed, 03 Sep 2025 09:02:52 GMT | Understanding Local Web Servers and Form Handling in Python (Educational Example) | Shayaan Khan | [Read More](https://medium.com/p/9d79afd9d026) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 04:08:54 GMT | Towards Autonomous, Trustworthy Cyber Defense: The Future of DevSecOps & AI | Rachid Abadli | [Read More](https://medium.com/p/b913117be380) |
 | Wed, 03 Sep 2025 04:01:30 GMT | When Password Managers Turn Against Us: Trust Undermined by Clickjacking | Akilnath Bodipudi | [Read More](https://medium.com/p/21a9c1869cb8) |
 | Wed, 03 Sep 2025 03:59:28 GMT | My name is Inayat Hussain, and I come from a small, underdeveloped city and village in Pakistan. | Inayat Hussain | [Read More](https://medium.com/p/38eff268a351) |
-| Wed, 03 Sep 2025 03:57:59 GMT | Danielle Spencer: DMV author explores digital privacy in new novel | Meet the World Image Solutions | [Read More](https://medium.com/p/2a3b735ff5b5) |
-| Wed, 03 Sep 2025 03:55:07 GMT | Cybersecurity Zero to Hero? Your Blueprint Starts Now | Authlyn | [Read More](https://medium.com/p/aef6f61de43a) |
-| Wed, 03 Sep 2025 03:46:36 GMT | ️ Catching Hackers with Wazuh: SQL Injection in Juice Shop | Jahson Jno-Baptiste | [Read More](https://medium.com/p/682b1e969bac) |
-| Wed, 03 Sep 2025 03:43:40 GMT | Phish and Fetch: Turning Weak Email Validations Into Full System Access | Iski | [Read More](https://medium.com/p/9a6561edfd57) |
-| Wed, 03 Sep 2025 03:37:38 GMT | The Unseen Enemy: How Safe Are We in the Age of AI-Powered Cyberattacks? | Yatin | [Read More](https://medium.com/p/94d38436964e) |
-| Wed, 03 Sep 2025 03:31:42 GMT | DOM-Based Extension Clickjacking: A Zero-Day Threat to Major Password Managers | Deven Chhajed | [Read More](https://medium.com/p/585760d625ed) |
-| Wed, 03 Sep 2025 03:29:27 GMT | Smartbi Access Bypass Vulnerability Leads to Admin Takeover | Quella | [Read More](https://medium.com/p/6a293f8c9882) |
-| Wed, 03 Sep 2025 03:23:46 GMT | He just left. It’s not a love story. | Kakoli Aster♡ | [Read More](https://medium.com/p/df7b010331f5) |
-| Wed, 03 Sep 2025 03:23:08 GMT | Drosera: Architecting the Future of Decentralized Trust | Roman Lucien | [Read More](https://medium.com/p/44f9b43ed0ce) |
