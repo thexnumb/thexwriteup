@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 16:14:45 GMT | The White Hat Hacker: Cracking Corporate Systems Legally for Profit | Samina Perveen | [Read More](https://medium.com/p/46b1e95b5d26) |
+| Wed, 03 Sep 2025 16:11:35 GMT | How Technology Enabled and Was Enabled by New Ways of Thinking | Echo Code | [Read More](https://medium.com/p/cea8f26ba7a6) |
+| Wed, 03 Sep 2025 16:11:28 GMT | Agentic AI vs SOC Analysts — Who Wins in 2025 and Beyond? | Taimur Ijlal | [Read More](https://medium.com/p/7469999051a0) |
+| Wed, 03 Sep 2025 16:10:56 GMT | IDOR to Full Account Takeover | Amr khaled Zakaria | [Read More](https://medium.com/p/f6dd651f5de4) |
+| Wed, 03 Sep 2025 16:09:28 GMT | Inside the Qilin Ransomware Attack on Lee Enterprises: How Nearly 40,000 Social Security Numbers… | Ganesh B | [Read More](https://medium.com/p/6d9b81412359) |
+| Wed, 03 Sep 2025 16:05:47 GMT | PRIVACY IS NOT A COST CENTER: IT’S A GROWTH DRIVER | OA | [Read More](https://medium.com/p/4b2b77eddb6f) |
+| Wed, 03 Sep 2025 16:04:51 GMT | The Time Zone That Produces the Fewest Bugs (And Why It’s Not What You Think) | Sohail x Codes | [Read More](https://medium.com/p/57161ace9ee4) |
+| Wed, 03 Sep 2025 16:00:52 GMT | How to Start in Cybersecurity (My Journey & Beginner Roadmap) | Cybernerddd | [Read More](https://medium.com/p/5e9c9f13dc0d) |
+| Wed, 03 Sep 2025 15:47:00 GMT | Brazil’s $130M Cyberattack Attempt: Lessons for Global Payment Security | Technijian | [Read More](https://medium.com/p/c11f4b2d8e22) |
+| Wed, 03 Sep 2025 15:46:18 GMT | The Real Risk of AI Nobody Wants to Talk About | Vijay Kumar Gupta | [Read More](https://medium.com/p/a849ea7197d7) |
+| Wed, 03 Sep 2025 15:43:04 GMT | Zero Trust, Maximum Confusion: Why Security’s Hottest Buzzword Is Missing the Point | Eric Zietlow | [Read More](https://medium.com/p/1be1695b8669) |
+| Wed, 03 Sep 2025 15:37:41 GMT | Unlock the Power of BUG BUG Rewards | BUG | [Read More](https://medium.com/p/f3a2066cbc66) |
+| Wed, 03 Sep 2025 15:35:36 GMT | Cisco Smart Install — PORT 4786 — how to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/a5d91b43f35f) |
+| Wed, 03 Sep 2025 15:34:23 GMT | When AI Becomes the Threat: A Raw Look at the Cybersecurity Minefield We’re Entering | Dhruvdeep Singh | [Read More](https://medium.com/p/20246f1665c6) |
+| Wed, 03 Sep 2025 15:33:51 GMT | MySQL Database Vulnerability on Metasploitable2 — Operation Database Storm ⚡️ | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3724ec5111c9) |
+| Wed, 03 Sep 2025 15:31:01 GMT | Why Most Beginners Struggle with Bug Bounty Hunting (and How to Fix It) | Kumar Mohit | [Read More](https://medium.com/p/19d416267d7a) |
 | Wed, 03 Sep 2025 15:27:44 GMT | From Wi-Fi 7 to AI: Understanding the Next Generation of Connectivity | New Trend Computer Networks | [Read More](https://medium.com/p/3a5ed7d7f53b) |
 | Wed, 03 Sep 2025 15:25:27 GMT | The Ghost in the Hard Drive: Why a 1KB File Takes Up 4KB of Space | Ahmed Maher | [Read More](https://medium.com/p/7c62e0fe137e) |
 | Wed, 03 Sep 2025 15:24:44 GMT | Who are Hackers? - Different Types of Hackers | Tooba Fatimi | [Read More](https://medium.com/p/b69c05022947) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 11:49:38 GMT | Why Smart Ports Need Envision AI-Driven PMIS Modules | P Harshavardhan | [Read More](https://medium.com/p/e903fcc72df7) |
 | Wed, 03 Sep 2025 11:47:13 GMT | OptimationBD Delivers Modern CCTV Security Solution in Tejgaon Residential Office Building | optimationbd | [Read More](https://medium.com/p/d0308799fe18) |
 | Wed, 03 Sep 2025 11:43:42 GMT | Top 10 Steps for Effective Application Security Risk Assessment | LipSec Limited | [Read More](https://medium.com/p/f49bacff96d1) |
-| Wed, 03 Sep 2025 11:41:50 GMT | Protecting Your Web Applications: How to Prevent Cross-Site Request Forgery (CSRF) | Secuodsoft Technologies | [Read More](https://medium.com/p/f65da895f8ae) |
-| Wed, 03 Sep 2025 11:31:49 GMT | The Future of Cybersecurity: Staying Ahead of Data Exposure | Lindaclousin | [Read More](https://medium.com/p/5cdfcffbfe9c) |
-| Wed, 03 Sep 2025 11:30:28 GMT | Your Phone Just Became a Digital Hostage | Aj | [Read More](https://medium.com/p/b71a4d1103ee) |
-| Wed, 03 Sep 2025 11:30:21 GMT | Security by Obscurity is Dead: Embracing a Zero-Trust Mindset | Shahzaib | [Read More](https://medium.com/p/383c8b858432) |
-| Wed, 03 Sep 2025 11:25:07 GMT | CVE-2025–38352: Android Linux Kernel Race Condition Exploited in the Wild | gm0 | [Read More](https://medium.com/p/7c030e50acc4) |
-| Wed, 03 Sep 2025 11:17:30 GMT | AI Governance: Why It Matters and Where GRC Fits In | Brittney Ginther | [Read More](https://medium.com/p/2ae9ec8459a9) |
-| Wed, 03 Sep 2025 11:16:10 GMT | Session Forensics TryHackMe Walkthrough: Decode JWTs, Investigate Logs & Catch Token Forgery | Visir | [Read More](https://medium.com/p/0161a0a06298) |
-| Wed, 03 Sep 2025 11:15:34 GMT | The Generative AI Boom: Navigating New Privacy and Cybersecurity Challenges | Hamza Automates | [Read More](https://medium.com/p/054147f68be9) |
-| Wed, 03 Sep 2025 11:12:10 GMT | The Hidden Email Security Risk of Not Owning Your Brand’s .com Domain | BrandHunt | [Read More](https://medium.com/p/7f2bba072115) |
-| Wed, 03 Sep 2025 11:06:50 GMT | Future-Proof Your Business: Why Essential 8 Compliance Services Australia Are a Game-Changer for… | SentryCyber | [Read More](https://medium.com/p/129e8bb3b8fa) |
-| Wed, 03 Sep 2025 11:03:34 GMT | Legacy Modernization Trends: Driving the Future of Digital Transformation | tkxel | [Read More](https://medium.com/p/39c3d7a24d25) |
-| Wed, 03 Sep 2025 10:51:53 GMT | ⚠️ The Dark Side of AI : How People Are Misusing (and could Misuse) Artificial Intelligence | Somya Golchha | [Read More](https://medium.com/p/ceeb13005606) |
-| Wed, 03 Sep 2025 10:49:01 GMT | This AI bug cost me a top 5 Spot at DEFCON 33 Bug Bounty Village CTF | drop | [Read More](https://medium.com/p/9e1438aa4b5a) |
-| Wed, 03 Sep 2025 10:42:48 GMT | Chrome 140 Update Patches Six Critical Vulnerabilities Allowing Remote Code Execution | Jasmitharouthu | [Read More](https://medium.com/p/117fec4744fc) |
-| Wed, 03 Sep 2025 10:40:28 GMT | JWT Security for Bug Bounty Hunters — Part 2 (Step-by-Step Practical Guide) Live | Shaikh Minhaz | [Read More](https://medium.com/p/0e4ad7c4cb11) |
-| Wed, 03 Sep 2025 10:35:39 GMT | How Active Workforce Pro Is Transforming Security Management in Australia | ICORP Security | [Read More](https://medium.com/p/7bf0c4325cf8) |
