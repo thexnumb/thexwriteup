@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 20:37:51 GMT | “Am I Loved Right?” | Esther Edebo Faruna | [Read More](https://medium.com/p/62d86a7e217a) |
+| Wed, 03 Sep 2025 20:30:25 GMT | Why Every Business Needs a Bug Bounty Program: | Ayshee | [Read More](https://medium.com/p/fa887581ce60) |
+| Wed, 03 Sep 2025 20:30:16 GMT | Cisco ISE Guest Portal: Automating Certificate Renewal with Let’s Encrypt and OpenAPI | Teymur Aghayev | [Read More](https://medium.com/p/5bdb8db9390e) |
+| Wed, 03 Sep 2025 20:29:15 GMT | Stop Chrome Pop-Ups & Redirects for Good | www.OneCoolTip.com | [Read More](https://medium.com/p/689a2b3439f8) |
+| Wed, 03 Sep 2025 20:23:07 GMT | The Linux Security Journey — Kernel Strict RWX (Read-Write-Execute) Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2d83da7c94c5) |
+| Wed, 03 Sep 2025 20:17:27 GMT | OffSec: Outdated — Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/39c1ad9fb7d7) |
+| Wed, 03 Sep 2025 20:13:44 GMT | Steel Fence Supply and Maintenance Services | Takeosartorius | [Read More](https://medium.com/p/2208c578ab97) |
 | Wed, 03 Sep 2025 20:10:34 GMT | Vulnerable and Outdated Components (OWASP Top 10 #6) — Simplified | Chai | [Read More](https://medium.com/p/4a170b83f052) |
 | Wed, 03 Sep 2025 19:44:15 GMT | Cybersecurity Workforce: The Unsung Heroes of the Digital Age | Akshay Chauhan | [Read More](https://medium.com/p/0fda50d7d744) |
 | Wed, 03 Sep 2025 19:41:35 GMT | How to Spot Early Signs of a Cyber Attack on Your Factory Floor | Cyberkech | [Read More](https://medium.com/p/74abf10d634d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 14:57:30 GMT | Can You Really Rely on Others for Security? | Lilyana | [Read More](https://medium.com/p/335e959c62a4) |
 | Wed, 03 Sep 2025 14:55:01 GMT | Intro to Log Analysis — TryHackMe — Write-up | Forrest Caffray | [Read More](https://medium.com/p/757fb9566ab7) |
 | Wed, 03 Sep 2025 14:54:38 GMT | “Day 27: The IDOR Epidemic — How Changing a Single Number Unlocked a Million User Profiles” | Aman Sharma | [Read More](https://medium.com/p/dc5671893d92) |
-| Wed, 03 Sep 2025 14:47:37 GMT | Secure Your School with SentryPC Cyber Security Solutions | Paul Meyer | [Read More](https://medium.com/p/b88e015b0ebd) |
-| Wed, 03 Sep 2025 14:47:16 GMT | Protecting Against Rogue Firmware Updates | Karthikeyan Nagaraj | [Read More](https://medium.com/p/02738d7d908f) |
-| Wed, 03 Sep 2025 14:45:14 GMT | Writing Sigma Rules | Luke | [Read More](https://medium.com/p/fdb18c79948f) |
-| Wed, 03 Sep 2025 14:35:12 GMT | Chasing the Buzz: How Rushed Innovation Leaves Us Vulnerable | Harold Moss | [Read More](https://medium.com/p/b0e4ebd7c382) |
-| Wed, 03 Sep 2025 14:33:10 GMT | Jaringan Komputer : Dasar Routing dan Switching | Yasa Wijaya | [Read More](https://medium.com/p/16b1b0aa8b99) |
-| Wed, 03 Sep 2025 14:32:11 GMT | How to Shop for a Pentesting Vendor: A Complete Guide for Security Buyers | Sprocket Security | [Read More](https://medium.com/p/b1e635d9319f) |
-| Wed, 03 Sep 2025 14:31:41 GMT | ️ Prompt Injection Attacks: How They Work and How to Defend Against Them | CapitalCoin | [Read More](https://medium.com/p/a7c9036003c5) |
