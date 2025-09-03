@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 08:38:51 GMT | First Review on Certified AI Security Professional (CAISP) course provided by Practical DevSecOps | Goli | [Read More](https://medium.com/p/ba376076755a) |
+| Wed, 03 Sep 2025 08:38:06 GMT | Friday OverTime Tryhackme Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/9a46f73dd099) |
+| Wed, 03 Sep 2025 08:36:12 GMT | Drosera: Building the Immune System of DeFi | Phantom | [Read More](https://medium.com/p/9e1ba3a30ec9) |
+| Wed, 03 Sep 2025 08:30:53 GMT | ประจำวันพุธที่ 3 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/73c4d6a08aa4) |
+| Wed, 03 Sep 2025 08:28:27 GMT | Understanding Cybersecurity: Architecture, Technologies, and Flows | Vanshi Dalal | [Read More](https://medium.com/p/797b14acb6c2) |
+| Wed, 03 Sep 2025 08:21:08 GMT | The Four Pillars of Trust in AI: How Google Cloud Builds a Responsible AI Ecosystem | Shiva_kalyankar | [Read More](https://medium.com/p/1f10f15ab377) |
+| Wed, 03 Sep 2025 08:20:48 GMT | Building AI Models from Scratch: A Step-by-Step Guide | Prasanna Kumar | [Read More](https://medium.com/p/f61c409158d5) |
 | Wed, 03 Sep 2025 08:10:33 GMT | Apple Watch Series 10 Review: Early Hands-On & Key Upgrades | Diya Afrin | [Read More](https://medium.com/p/3a1d66f6c38b) |
 | Wed, 03 Sep 2025 08:07:40 GMT | Python - Code Notes | Estanislau Zhupanyk | [Read More](https://medium.com/p/97eaf74069a4) |
 | Wed, 03 Sep 2025 08:01:46 GMT | Stop Employee Account Takeovers With Plain-Text Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/b6d4b99e04d0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 01:24:13 GMT | Manipulating India’s Stock Market: The GST Portal Data Leak | Aseem Shrey (@aseemshrey) | [Read More](https://medium.com/p/b5437c817071) |
 | Wed, 03 Sep 2025 01:22:26 GMT | The Silent Script: PowerShell’s Double Life in the Dark | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/c0bd2a457f66) |
 | Wed, 03 Sep 2025 01:07:41 GMT | How to Protect Your Database from SQL Injection? | Wan-Yi Lee | [Read More](https://medium.com/p/18dbbee9735c) |
-| Wed, 03 Sep 2025 01:00:01 GMT | Unapologetic Vulnerability: Deep Caring, Quiet Power | Jessica Isaac | [Read More](https://medium.com/p/3834a85de563) |
-| Wed, 03 Sep 2025 00:58:50 GMT | CRTP: RED TEAMING IN ACTIVE DIRECTORY WITH LOTL | Erick | [Read More](https://medium.com/p/6ed14162e2a8) |
-| Wed, 03 Sep 2025 00:55:41 GMT | Building Identity Management with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/2c7821809f00) |
-| Wed, 03 Sep 2025 00:53:53 GMT | Black Hat Groups Shift to SimpleX Chat for Enhanced Security and Privacy | SinVictus | [Read More](https://medium.com/p/ff8d4a09f38f) |
-| Wed, 03 Sep 2025 00:52:37 GMT | The Ruins of Us | Deborah Ôr | [Read More](https://medium.com/p/a332670fb4d0) |
-| Wed, 03 Sep 2025 00:51:48 GMT | Building Identity Management for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/10f3c547eb02) |
-| Wed, 03 Sep 2025 00:49:09 GMT | CRTP: RED TEAMING EN ACTIVE DIRECTORY CON LOTL | Erick | [Read More](https://medium.com/p/cf9453f7e8a6) |
