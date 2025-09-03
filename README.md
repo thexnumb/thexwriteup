@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 21:17:11 GMT | Nichelle Nemo on 3 IT Trends Every Professional Should Watch in 2025 | Nichelle Nemo | [Read More](https://medium.com/p/75f7e3867818) |
+| Wed, 03 Sep 2025 20:52:33 GMT | When Keypads Give Away the Code: My Surprising Doctor’s Office Experience | InSync News | [Read More](https://medium.com/p/5b85060761a2) |
+| Wed, 03 Sep 2025 20:51:11 GMT | Vitals Exposed: How Cyber Threats Are Quietly Undermining Healthcare | CoopSys | [Read More](https://medium.com/p/75cc9dafc3b1) |
+| Wed, 03 Sep 2025 20:43:40 GMT | Project PANOPTIC | Cyrus King | [Read More](https://medium.com/p/14d58748072c) |
 | Wed, 03 Sep 2025 20:37:51 GMT | “Am I Loved Right?” | Esther Edebo Faruna | [Read More](https://medium.com/p/62d86a7e217a) |
 | Wed, 03 Sep 2025 20:30:25 GMT | Why Every Business Needs a Bug Bounty Program: | Ayshee | [Read More](https://medium.com/p/fa887581ce60) |
 | Wed, 03 Sep 2025 20:30:16 GMT | Cisco ISE Guest Portal: Automating Certificate Renewal with Let’s Encrypt and OpenAPI | Teymur Aghayev | [Read More](https://medium.com/p/5bdb8db9390e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 15:01:18 GMT | SQL Injection Attacks and Using sqlmap | Esra Kayhan | [Read More](https://medium.com/p/97e4fd8c2ede) |
 | Wed, 03 Sep 2025 14:59:17 GMT | CORS Explained: Stop Struggling with Cross-Origin Errors | Edgars Garsneks | [Read More](https://medium.com/p/48ebeafcb5df) |
 | Wed, 03 Sep 2025 14:59:00 GMT | [Vault] Naming practices for Vault Secret Store path | Sarvsav Sharma | [Read More](https://medium.com/p/9140cf3b3859) |
-| Wed, 03 Sep 2025 14:58:28 GMT | When Trusted Software Turns Traitor | Aj | [Read More](https://medium.com/p/300368b05858) |
-| Wed, 03 Sep 2025 14:57:30 GMT | Can You Really Rely on Others for Security? | Lilyana | [Read More](https://medium.com/p/335e959c62a4) |
-| Wed, 03 Sep 2025 14:55:01 GMT | Intro to Log Analysis — TryHackMe — Write-up | Forrest Caffray | [Read More](https://medium.com/p/757fb9566ab7) |
-| Wed, 03 Sep 2025 14:54:38 GMT | “Day 27: The IDOR Epidemic — How Changing a Single Number Unlocked a Million User Profiles” | Aman Sharma | [Read More](https://medium.com/p/dc5671893d92) |
