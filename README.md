@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 17:13:27 GMT | PortSwigger Academy Business Logic Lab Solutions | Emre A. | [Read More](https://medium.com/p/e3035d7e6ceb) |
+| Wed, 03 Sep 2025 17:12:28 GMT | Phishing: Don’t Take the Bait | Hirad Showghi | [Read More](https://medium.com/p/b9021f20d8ef) |
+| Wed, 03 Sep 2025 17:12:03 GMT | Burp Suite ile Web Güvenlik Testlerinde Ustalık: Kapsamlı Rehber | Berdan Mut | [Read More](https://medium.com/p/db9955131527) |
+| Wed, 03 Sep 2025 17:06:02 GMT | Major Cyber Attacks, Ransomware Attacks and Data Breaches: August 2025 | IT_Engineer | [Read More](https://medium.com/p/4a93b8d9a36c) |
+| Wed, 03 Sep 2025 17:01:27 GMT | Cloud Misconfigurations: The Silent Threat Business Owners Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/173b3feccc9d) |
+| Wed, 03 Sep 2025 17:00:12 GMT | Day 15: Amazon EC2 →Your Virtual Server in the Cloud ☁️ | Prutha_Dongre | [Read More](https://medium.com/p/89fb08352bfb) |
+| Wed, 03 Sep 2025 16:54:31 GMT | CVE-2025–53772: The Silent Risk in Microsoft Web Deploy | gm0 | [Read More](https://medium.com/p/18fa67f02e15) |
+| Wed, 03 Sep 2025 16:47:44 GMT | 15 Security KPIs Every Cybersecurity Professional Should Know | Paritosh | [Read More](https://medium.com/p/a85b9654a8fc) |
+| Wed, 03 Sep 2025 16:43:22 GMT | Android Application Penetration Testing — Part 2 | Madhesh | [Read More](https://medium.com/p/9d1eea6a156a) |
 | Wed, 03 Sep 2025 16:40:13 GMT | Blue Team Lab — 2nd Phishing Analysis | Juan Alexander Alejo | [Read More](https://medium.com/p/81d1189fcb6a) |
 | Wed, 03 Sep 2025 16:37:54 GMT | How to Keep Your Flutter App Safe: A Simple Guide | Riza Mojed | [Read More](https://medium.com/p/4623e40f5db6) |
 | Wed, 03 Sep 2025 16:37:33 GMT | “Should You Really Use NGINX? (Or Just Expose Your App Like a Maniac)?” | Anzalo Quin | [Read More](https://medium.com/p/49ced0b5c2c0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 12:41:10 GMT | Removing Snowflake Secrets from your GitHub Workflows | Rory Donaldson | [Read More](https://medium.com/p/e2c6a6ea93ea) |
 | Wed, 03 Sep 2025 12:40:51 GMT | Why Zero Trust Security is Now Non-Negotiable | R A N A   A H M A D | [Read More](https://medium.com/p/636855fb41b4) |
 | Wed, 03 Sep 2025 12:40:43 GMT | Google’s “Gmail Hack” Headlines! Should You Be Worried (& How Much)? | Navkiran Dhaliwal | [Read More](https://medium.com/p/b873d5360dba) |
-| Wed, 03 Sep 2025 12:36:37 GMT | Running Secure Kubernetes (GKE) Workloads in GCP | Neel Shah | [Read More](https://medium.com/p/0986d8fdda93) |
-| Wed, 03 Sep 2025 12:33:45 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/45f8f1f3101b) |
-| Wed, 03 Sep 2025 12:26:27 GMT | How AI Security Operations & Threat Management Services Support Proactive Defense | sanya | [Read More](https://medium.com/p/31545761ab52) |
-| Wed, 03 Sep 2025 12:20:25 GMT | AED fwectf 2025 | Samuel Jack | [Read More](https://medium.com/p/8eca0e8fc235) |
-| Wed, 03 Sep 2025 12:17:37 GMT | Beyond PCI and HIPAA: How Feroot Powers California Consumer Privacy Act (CCPA) Compliance | Feroot Security | [Read More](https://medium.com/p/dd9e79197ea1) |
-| Wed, 03 Sep 2025 12:15:01 GMT | The AI Code Paradox: Why Your LLM Is a Genius at Writing Code, and an Intern at Making It Secure | ArXiv In-depth Analysis | [Read More](https://medium.com/p/3a917eedd355) |
-| Wed, 03 Sep 2025 12:14:48 GMT | Best Cloud Telephony Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/983e273933f8) |
-| Wed, 03 Sep 2025 12:13:51 GMT | Social Media Security: Protecting Your Online Identity | Kartik Debnath | [Read More](https://medium.com/p/de4cfb47a705) |
-| Wed, 03 Sep 2025 12:13:35 GMT | Reflected XSS in canonical link tag | Chirag Vyas | [Read More](https://medium.com/p/5460e56f660e) |
