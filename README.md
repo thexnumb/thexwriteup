@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 10:17:41 GMT | Log Operations — TryHackMe — Write-up | Forrest Caffray | [Read More](https://medium.com/p/7a1ed2554f46) |
+| Wed, 03 Sep 2025 10:15:27 GMT | What Makes Phishing Simulation Tools Essential for Indian Firms | Noahlucas | [Read More](https://medium.com/p/7bec8ae65c4d) |
+| Wed, 03 Sep 2025 10:07:45 GMT | What are some common security practices in Python web applications? | Bhanuloya | [Read More](https://medium.com/p/394aebc07178) |
+| Wed, 03 Sep 2025 10:07:41 GMT | New TinyLoader Malware Attacking Windows Users Via Network Shares and Fake Shortcuts Files | Jasmitharouthu | [Read More](https://medium.com/p/2d944fd7da67) |
+| Wed, 03 Sep 2025 10:04:59 GMT | Why Your SME Needs a Trusted IT Services Provider for Small and Medium Businesses | vGics Global LLP | [Read More](https://medium.com/p/5b7ecdac440e) |
+| Wed, 03 Sep 2025 10:01:31 GMT | 3 Things to Do Before You Open Any Attachment | Evgeny Ermakov | [Read More](https://medium.com/p/3f5e992c2d8c) |
+| Wed, 03 Sep 2025 09:59:09 GMT | The ‘Sustaining’ Fallacy: Uncoupling Identity from Intelligence in the AGI Debate. | Berend Watchus | [Read More](https://medium.com/p/d7cce39d15d3) |
+| Wed, 03 Sep 2025 09:59:08 GMT | Threat Intelligence Report: Global
+Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11c0aadd9557) |
+| Wed, 03 Sep 2025 09:57:21 GMT | How Many Cyber Attacks Happen Per Day? A COO’s Perspective on Risk & Reality | Mahil Jasani | [Read More](https://medium.com/p/9e24e8941f4c) |
+| Wed, 03 Sep 2025 09:54:46 GMT | web attack types | Cyber Gee | [Read More](https://medium.com/p/5c98d1f69e10) |
+| Wed, 03 Sep 2025 09:47:07 GMT | DockerLabs Writeup — Backend (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/37f5c5ca2d0b) |
+| Wed, 03 Sep 2025 09:45:56 GMT | Why Antivirus Inside Containers Is a Bad Idea | Taulan Zauzanov | [Read More](https://medium.com/p/f9214f3e9b63) |
+| Wed, 03 Sep 2025 09:35:13 GMT | The Daily Tech Digest: 03 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/321ace991806) |
 | Wed, 03 Sep 2025 09:30:43 GMT | Defense ABCs: How does this industry work, make money, or get funding? | Camilla Sekkal | [Read More](https://medium.com/p/ff33ce9fd996) |
 | Wed, 03 Sep 2025 09:30:41 GMT | Building Information Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/8fa470af1227) |
 | Wed, 03 Sep 2025 09:30:38 GMT | I’m Struggling To Speak The Language Of Love | Rizzee Cerdeñola | [Read More](https://medium.com/p/84cb8eff9925) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 05:07:46 GMT | Securing Your Future: Study Master’s in Cybersecurity in the USA | Shreetu Mohanty | [Read More](https://medium.com/p/cae997c10ef3) |
 | Wed, 03 Sep 2025 05:05:59 GMT | How to Easily Generate Your Odoo API Key in 4 Simple Steps | HSxTech | [Read More](https://medium.com/p/ed80ff5b987a) |
 | Wed, 03 Sep 2025 05:01:59 GMT | This Week’s Cyber Unraveling | Aj | [Read More](https://medium.com/p/6f6f0482079b) |
-| Wed, 03 Sep 2025 05:01:28 GMT | 10. Hunting for IDORs: The Most Underrated Vulnerability | Abhijeet kumawat | [Read More](https://medium.com/p/9567ebf97585) |
-| Wed, 03 Sep 2025 04:57:23 GMT | Day 2 of AI Security: Unmasking the OWASP LLM Top 10 Threats — and Why They Matter | Maghnaa Sathish Kumar | [Read More](https://medium.com/p/aa57d39cc007) |
-| Wed, 03 Sep 2025 04:55:32 GMT | How to Secure Your Flutter App in 2025 (with OWASP + Libraries + Code Examples) | Mr Vijaysharma | [Read More](https://medium.com/p/86a8904a9f28) |
-| Wed, 03 Sep 2025 04:47:45 GMT | The Buzzer - Hackerverse CTF Writeup | CyberFaez | [Read More](https://medium.com/p/b11ead0381f6) |
-| Wed, 03 Sep 2025 04:39:24 GMT | CISA Warns of 3 New Actively Exploited Flaws — Including Critical Git Vulnerability | Aj | [Read More](https://medium.com/p/24d2236e4c9f) |
-| Wed, 03 Sep 2025 04:32:44 GMT | File Upload in Laravel — A Beginner-Friendly Guide | Rohit Dhiman | [Read More](https://medium.com/p/73952ed5a34a) |
-| Wed, 03 Sep 2025 04:32:40 GMT | Weirdest bug in Microsoft Fabric | Shresth Shukla | [Read More](https://medium.com/p/0fc7c05d6584) |
-| Wed, 03 Sep 2025 04:25:45 GMT | From Airport to Hotel: A Seamless Facial Recognition Journey in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/615924f69748) |
-| Wed, 03 Sep 2025 04:14:38 GMT | KLCC Tower — Boot2Root Writeup (3108CTF: Bayang Satria) | CyberFaez | [Read More](https://medium.com/p/ebda5399da01) |
-| Wed, 03 Sep 2025 04:11:39 GMT | Why Cybersecurity Awareness Training Is Your Best Defense Against Hackers (2025 Guide) | Secventra | [Read More](https://medium.com/p/f7e3a5a488ba) |
-| Wed, 03 Sep 2025 04:08:54 GMT | Towards Autonomous, Trustworthy Cyber Defense: The Future of DevSecOps & AI | Rachid Abadli | [Read More](https://medium.com/p/b913117be380) |
-| Wed, 03 Sep 2025 04:01:30 GMT | When Password Managers Turn Against Us: Trust Undermined by Clickjacking | Akilnath Bodipudi | [Read More](https://medium.com/p/21a9c1869cb8) |
-| Wed, 03 Sep 2025 03:59:28 GMT | My name is Inayat Hussain, and I come from a small, underdeveloped city and village in Pakistan. | Inayat Hussain | [Read More](https://medium.com/p/38eff268a351) |
