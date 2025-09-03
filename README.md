@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 12:40:51 GMT | Why Zero Trust Security is Now Non-Negotiable | R A N A   A H M A D | [Read More](https://medium.com/p/636855fb41b4) |
+| Wed, 03 Sep 2025 12:33:45 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/45f8f1f3101b) |
+| Wed, 03 Sep 2025 12:26:27 GMT | How AI Security Operations & Threat Management Services Support Proactive Defense | sanya | [Read More](https://medium.com/p/31545761ab52) |
+| Wed, 03 Sep 2025 12:20:25 GMT | AED fwectf 2025 | Samuel Jack | [Read More](https://medium.com/p/8eca0e8fc235) |
+| Wed, 03 Sep 2025 12:17:37 GMT | Beyond PCI and HIPAA: How Feroot Powers California Consumer Privacy Act (CCPA) Compliance | Feroot Security | [Read More](https://medium.com/p/dd9e79197ea1) |
+| Wed, 03 Sep 2025 12:15:01 GMT | The AI Code Paradox: Why Your LLM Is a Genius at Writing Code, and an Intern at Making It Secure | ArXiv In-depth Analysis | [Read More](https://medium.com/p/3a917eedd355) |
+| Wed, 03 Sep 2025 12:14:48 GMT | Best Cloud Telephony Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/983e273933f8) |
+| Wed, 03 Sep 2025 12:13:51 GMT | Social Media Security: Protecting Your Online Identity | Kartik Debnath | [Read More](https://medium.com/p/de4cfb47a705) |
+| Wed, 03 Sep 2025 12:13:35 GMT | Reflected XSS in canonical link tag | Chirag Vyas | [Read More](https://medium.com/p/5460e56f660e) |
+| Wed, 03 Sep 2025 12:08:00 GMT | Top Penetration Testing Company: Secure Your Data | LipSec Limited | [Read More](https://medium.com/p/b4cdba999862) |
+| Wed, 03 Sep 2025 12:07:30 GMT | How to Prevent Phishing Attacks and Stay Safe Online in 2025 | Timónofearth | [Read More](https://medium.com/p/92375967c601) |
+| Wed, 03 Sep 2025 12:05:11 GMT | The Salesforce Drift Breach and What It Says About All of Us | Prerna Shukla | [Read More](https://medium.com/p/55932bb583e8) |
+| Wed, 03 Sep 2025 12:02:46 GMT | Fake AIs and DNN Watermarks: How We Can Tell What’s Real | N0H4TS | [Read More](https://medium.com/p/e3aa5bcad53f) |
+| Wed, 03 Sep 2025 12:02:27 GMT | 5 Reasons Quantum Computing Will Change Cybersecurity Forever | Elevate | [Read More](https://medium.com/p/d10a5b1b6b15) |
+| Wed, 03 Sep 2025 12:01:31 GMT | Secure Mining Hosting: Expert Guidance to Sidestep Crypto Fraud | CassyS | [Read More](https://medium.com/p/609d5d955744) |
+| Wed, 03 Sep 2025 11:50:40 GMT | Deploying ModSecurity + OWASP CRS WAF on a Linux Server | Rojin Antony | [Read More](https://medium.com/p/4c79fe8b4dbb) |
+| Wed, 03 Sep 2025 11:49:38 GMT | Why Smart Ports Need Envision AI-Driven PMIS Modules | P Harshavardhan | [Read More](https://medium.com/p/e903fcc72df7) |
+| Wed, 03 Sep 2025 11:47:13 GMT | OptimationBD Delivers Modern CCTV Security Solution in Tejgaon Residential Office Building | optimationbd | [Read More](https://medium.com/p/d0308799fe18) |
+| Wed, 03 Sep 2025 11:43:42 GMT | Top 10 Steps for Effective Application Security Risk Assessment | LipSec Limited | [Read More](https://medium.com/p/f49bacff96d1) |
+| Wed, 03 Sep 2025 11:41:50 GMT | Protecting Your Web Applications: How to Prevent Cross-Site Request Forgery (CSRF) | Secuodsoft Technologies | [Read More](https://medium.com/p/f65da895f8ae) |
 | Wed, 03 Sep 2025 11:31:49 GMT | The Future of Cybersecurity: Staying Ahead of Data Exposure | Lindaclousin | [Read More](https://medium.com/p/5cdfcffbfe9c) |
 | Wed, 03 Sep 2025 11:30:28 GMT | Your Phone Just Became a Digital Hostage | Aj | [Read More](https://medium.com/p/b71a4d1103ee) |
 | Wed, 03 Sep 2025 11:30:21 GMT | Security by Obscurity is Dead: Embracing a Zero-Trust Mindset | Shahzaib | [Read More](https://medium.com/p/383c8b858432) |
@@ -93,23 +113,3 @@ Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11
 | Wed, 03 Sep 2025 07:58:37 GMT | Why Choosing the Right Edtech Company or Institute for Data Science, Cyber Security & Digital… | Shobhit bhardwaj | [Read More](https://medium.com/p/16d18a2867b3) |
 | Wed, 03 Sep 2025 07:57:48 GMT | Cada feature es una decisión. Cada decisión, una posible grieta. | Gorka | [Read More](https://medium.com/p/3ba14ee1bac8) |
 | Wed, 03 Sep 2025 07:54:39 GMT | Top 5 Free Courses to Master SIEM and SOC | Rashadul Islam | [Read More](https://medium.com/p/f869edd698ec) |
-| Wed, 03 Sep 2025 07:53:52 GMT | How a Law Office Website in NJ Got Hacked — And What We Learned | Top Support -  Servers - DNS - TRAFFIC - WEBDEV | [Read More](https://medium.com/p/75b59f5e4df3) |
-| Wed, 03 Sep 2025 07:49:30 GMT | Google Cloud’s Meltdown: When the Policy Engine Eats Itself | IsaacFabianK | [Read More](https://medium.com/p/e0ea60149a39) |
-| Wed, 03 Sep 2025 07:35:16 GMT | Explore the Top Study Programs in Australia for Global Students | royalinternational | [Read More](https://medium.com/p/be369d74caf9) |
-| Wed, 03 Sep 2025 07:24:33 GMT | Shamans and Engineers: How Technology Became Our New Ritual | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/6a7c63f85bcd) |
-| Wed, 03 Sep 2025 07:23:22 GMT | NIST’s Role in Defining Cloud Computing Architecture | Qualysec | [Read More](https://medium.com/p/a22abee41609) |
-| Wed, 03 Sep 2025 07:21:49 GMT | New SSL/TLS Certificate Guidelines: Shorter Lifetimes, Smarter Automation | Vineeth Tunk | [Read More](https://medium.com/p/6ddd19b09724) |
-| Wed, 03 Sep 2025 07:21:15 GMT | The Crime Lab: A CyberDefenders Challenge Write-Up | Tboysunovap | [Read More](https://medium.com/p/2fb64f2e68ef) |
-| Wed, 03 Sep 2025 07:15:41 GMT | Smart Labels Market & trends 2031 | Sagarkavika | [Read More](https://medium.com/p/6fb74e465510) |
-| Wed, 03 Sep 2025 07:15:24 GMT | The Hidden Cost of Password Breaches: Why 2025 Could Be the Year of Zero-Trust Authentication | Rahulsharma | [Read More](https://medium.com/p/eb27d8ea6995) |
-| Wed, 03 Sep 2025 07:14:07 GMT | Everything You Should Know About Personal Bodyguard Services Phoenix AZ | Alisa mellon | [Read More](https://medium.com/p/50da96afe8f8) |
-| Wed, 03 Sep 2025 07:05:11 GMT | Why Cybersecurity Is A Business Investment, Not An Expense | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/a3db53f8368d) |
-| Wed, 03 Sep 2025 07:03:29 GMT | Automating Incident Response with AWS Lambda + GuardDuty: Isolating Compromised EC2 Instances | Davebhargavi | [Read More](https://medium.com/p/0da87d83f2f6) |
-| Wed, 03 Sep 2025 07:02:02 GMT | Fairdrops By Humanity Protocol — Pioneering the Future of Human-Only TGE Distributions | PVMihalache | [Read More](https://medium.com/p/29f85cfa293c) |
-| Wed, 03 Sep 2025 07:00:59 GMT | ARE YOU SHARING YOUR SECRETS WITH A HACKER RIGHT NOW? | Neha Sah | [Read More](https://medium.com/p/a6ed157f47d9) |
-| Wed, 03 Sep 2025 06:59:56 GMT | ITF+ and Tech+: What Is the Difference | Thomas Holt Russell, III | [Read More](https://medium.com/p/aa074ba5286c) |
-| Wed, 03 Sep 2025 06:55:22 GMT | Day 49- Basics of IDS and IPS for beginners | unica 02 | [Read More](https://medium.com/p/e099cd84c318) |
-| Wed, 03 Sep 2025 06:54:41 GMT | There’s a Trojan Horse Inside Your AI Security Agent | Rohit Kumar Thakur | [Read More](https://medium.com/p/30f40b46b452) |
-| Wed, 03 Sep 2025 06:52:59 GMT | Mastering-SQL injection UNION attacks Techniques | Utkarsh Srivastava | [Read More](https://medium.com/p/aa0eba4be454) |
-| Wed, 03 Sep 2025 06:50:21 GMT | Top 10 AI Cybersecurity Tools (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/dc8de16f0c8b) |
-| Wed, 03 Sep 2025 06:42:21 GMT | ThunderCipher-[Unleashing the Shell 2] | Bhuwan Patidar | [Read More](https://medium.com/p/e750dd9ea737) |
