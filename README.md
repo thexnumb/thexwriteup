@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 06:42:21 GMT | ThunderCipher-[Unleashing the Shell 2] | Bhuwan Patidar | [Read More](https://medium.com/p/e750dd9ea737) |
+| Wed, 03 Sep 2025 06:34:39 GMT | SafeLine WAF: Free, Powerful Protection for Every Webmaster | Quella | [Read More](https://medium.com/p/a1fcf012af10) |
+| Wed, 03 Sep 2025 06:31:36 GMT | Docker vs Podman | Adarsh K | [Read More](https://medium.com/p/18aa38a36a33) |
+| Wed, 03 Sep 2025 06:29:44 GMT | The Cybersecurity Battlefield: Why Red Team vs. Blue Team is Essential for True Readiness | White Arrow Cybersecurity | [Read More](https://medium.com/p/21536078c8a9) |
 | Wed, 03 Sep 2025 06:24:31 GMT | The Hidden Gem Books That Transformed My Approach To Cloud Security | Aj | [Read More](https://medium.com/p/05025daaf175) |
 | Wed, 03 Sep 2025 06:20:19 GMT | All Pass Hub Security Architecture Explained: Zero-Knowledge Encryption Made Simple | Password Manager | [Read More](https://medium.com/p/078dd59b854f) |
 | Wed, 03 Sep 2025 06:15:55 GMT | ThunderCipher-[Unleashing the Shell 1] | Bhuwan Patidar | [Read More](https://medium.com/p/f5887c8707cc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 22:28:43 GMT | Top 5 Free Web App Pentesting Resources | Andrew Paul | [Read More](https://medium.com/p/56745a44182e) |
 | Tue, 02 Sep 2025 22:10:23 GMT | Infrastructure Analysis: UNC6395 Salesforce Campaign — Follow-up | Cyb3rhawk | [Read More](https://medium.com/p/f11ac6aec844) |
 | Tue, 02 Sep 2025 21:56:47 GMT | Start Your Hacking Career Before it’s too late! | NnFace | [Read More](https://medium.com/p/1d74d70dfc63) |
-| Tue, 02 Sep 2025 21:32:57 GMT | From Manage Members to Full Admin: Privilege Escalation in a GraphQL API | Bassemwanies | [Read More](https://medium.com/p/b58699829d6e) |
-| Tue, 02 Sep 2025 21:25:01 GMT | VulnHub: DC: 1 Çözümü | Azat Dicle | [Read More](https://medium.com/p/be79bba2ad06) |
-| Tue, 02 Sep 2025 21:21:13 GMT | The Math Behind Digital Security | Latifatul Hania Az Zahra | [Read More](https://medium.com/p/f26b02ccac5f) |
-| Tue, 02 Sep 2025 20:49:14 GMT | A Patent-Powered Revolution: Milestones in Smartphone Technology | Shreya Singh | [Read More](https://medium.com/p/75bacb4b87ce) |
