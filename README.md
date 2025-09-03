@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 15:27:44 GMT | From Wi-Fi 7 to AI: Understanding the Next Generation of Connectivity | New Trend Computer Networks | [Read More](https://medium.com/p/3a5ed7d7f53b) |
+| Wed, 03 Sep 2025 15:25:27 GMT | The Ghost in the Hard Drive: Why a 1KB File Takes Up 4KB of Space | Ahmed Maher | [Read More](https://medium.com/p/7c62e0fe137e) |
+| Wed, 03 Sep 2025 15:24:44 GMT | Who are Hackers? - Different Types of Hackers | Tooba Fatimi | [Read More](https://medium.com/p/b69c05022947) |
+| Wed, 03 Sep 2025 15:24:11 GMT | Advancing Qualities of Visuals via Outdoor LED Screens in 2025 | Kan Universal | [Read More](https://medium.com/p/d703f9b2ff46) |
+| Wed, 03 Sep 2025 15:18:48 GMT | Write Up Lab: SQL injection UNION attack, determining the number of columns returned by the query | Velskynotfound | [Read More](https://medium.com/p/28a46b0d7444) |
+| Wed, 03 Sep 2025 15:16:03 GMT | Why I Hope Your Next Cyber Exercise is a Spectacular Failure | William (Jamie) Knobles | [Read More](https://medium.com/p/0c2f255762a1) |
+| Wed, 03 Sep 2025 15:13:13 GMT | TryHackMe - Session Forensics - WriteUp | Axoloth | [Read More](https://medium.com/p/53c5debed066) |
 | Wed, 03 Sep 2025 15:06:55 GMT | GOOG Stock: Everything Investors Need to Know | Motherlandlove | [Read More](https://medium.com/p/5cd6d0a6f4db) |
 | Wed, 03 Sep 2025 15:01:18 GMT | Meet Bandit: The Python Security Tool Devs Can’t Afford to Ignore in 2025 | Azeem Teli | [Read More](https://medium.com/p/045459525732) |
 | Wed, 03 Sep 2025 15:01:18 GMT | SQL Injection Attacks and Using sqlmap | Esra Kayhan | [Read More](https://medium.com/p/97e4fd8c2ede) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 10:42:48 GMT | Chrome 140 Update Patches Six Critical Vulnerabilities Allowing Remote Code Execution | Jasmitharouthu | [Read More](https://medium.com/p/117fec4744fc) |
 | Wed, 03 Sep 2025 10:40:28 GMT | JWT Security for Bug Bounty Hunters — Part 2 (Step-by-Step Practical Guide) Live | Shaikh Minhaz | [Read More](https://medium.com/p/0e4ad7c4cb11) |
 | Wed, 03 Sep 2025 10:35:39 GMT | How Active Workforce Pro Is Transforming Security Management in Australia | ICORP Security | [Read More](https://medium.com/p/7bf0c4325cf8) |
-| Wed, 03 Sep 2025 10:35:08 GMT | 10 Best Secure Hosting Providers for Tutoring Marketplace Websites | Kanika Mehtah | [Read More](https://medium.com/p/6073b49b37ca) |
-| Wed, 03 Sep 2025 10:31:02 GMT | Email Security Business Importance in Today’s Digital World | Cyber Cops | [Read More](https://medium.com/p/d7be0c63f9ca) |
-| Wed, 03 Sep 2025 10:30:57 GMT | Homeland Security Market Size Anticipated to Reach Around USD 997.82 billion by 2033 | Frank Morgan | [Read More](https://medium.com/p/2ceaa01bb909) |
-| Wed, 03 Sep 2025 10:30:47 GMT | The Future Impacts of Artificial Intelligence: Opportunities . | Mohammad Aqib | [Read More](https://medium.com/p/9724765d28d4) |
-| Wed, 03 Sep 2025 10:29:12 GMT | 10 Best Free Hosting Options for Government Websites in 2025 ️ | Kanika Mehtah | [Read More](https://medium.com/p/952fd3788290) |
-| Wed, 03 Sep 2025 10:26:44 GMT | Web Design Leeds: Building Your Brand Online | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/f5f7238c0c54) |
-| Wed, 03 Sep 2025 10:25:45 GMT | HCIS in Saudi Arabia Your Complete Guide to High Commission for Industrial Security | Hitechfence | [Read More](https://medium.com/p/5acac54230b8) |
