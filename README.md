@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 01:22:26 GMT | The Silent Script: PowerShell’s Double Life in the Dark | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/c0bd2a457f66) |
+| Wed, 03 Sep 2025 01:07:41 GMT | How to Protect Your Database from SQL Injection? | Wan-Yi Lee | [Read More](https://medium.com/p/18dbbee9735c) |
+| Wed, 03 Sep 2025 01:00:01 GMT | Unapologetic Vulnerability: Deep Caring, Quiet Power | Jessica Isaac | [Read More](https://medium.com/p/3834a85de563) |
+| Wed, 03 Sep 2025 00:58:50 GMT | CRTP: RED TEAMING IN ACTIVE DIRECTORY WITH LOTL | Erick | [Read More](https://medium.com/p/6ed14162e2a8) |
+| Wed, 03 Sep 2025 00:55:41 GMT | Building Identity Management with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/2c7821809f00) |
+| Wed, 03 Sep 2025 00:53:53 GMT | Black Hat Groups Shift to SimpleX Chat for Enhanced Security and Privacy | SinVictus | [Read More](https://medium.com/p/ff8d4a09f38f) |
+| Wed, 03 Sep 2025 00:52:37 GMT | The Ruins of Us | Deborah Ôr | [Read More](https://medium.com/p/a332670fb4d0) |
+| Wed, 03 Sep 2025 00:51:48 GMT | Building Identity Management for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/10f3c547eb02) |
+| Wed, 03 Sep 2025 00:49:09 GMT | CRTP: RED TEAMING EN ACTIVE DIRECTORY CON LOTL | Erick | [Read More](https://medium.com/p/cf9453f7e8a6) |
+| Wed, 03 Sep 2025 00:47:52 GMT | Building Identity Management for Organizations | Cyber Security Research | [Read More](https://medium.com/p/a9a615dfa3d6) |
+| Wed, 03 Sep 2025 00:42:05 GMT | Pika AI Hacks: How to Get Reliable Video Outputs Without Paying for Pro | Myron | [Read More](https://medium.com/p/d0be5f698224) |
+| Wed, 03 Sep 2025 00:41:54 GMT | Implementing Zero Trust Architecture in Azure with Bicep | Rodrigo Bercocano do Amaral | [Read More](https://medium.com/p/dbe313465bbb) |
+| Wed, 03 Sep 2025 00:41:45 GMT | Cloud Security Fundamentals: IAM, RBAC, PoLP, and more… | Ryan G. Cox | [Read More](https://medium.com/p/2463818b3656) |
+| Wed, 03 Sep 2025 00:40:47 GMT | Took me down a wormhole — Microsoft spam/phishing attempt from a German-Hungary based IP/Host… | Bob Malin | [Read More](https://medium.com/p/f10fbe06de43) |
+| Wed, 03 Sep 2025 00:31:08 GMT | How I Migrated My Cloud Engineer Portfolio to AWS with S3, CloudFront, Route 53 & GitHub Actions… | Pascal Attama | [Read More](https://medium.com/p/4e38c5831341) |
+| Wed, 03 Sep 2025 00:29:22 GMT | ✈️ I Tried Hacking a Flight Booking API — Here’s What I Found (or Didn’t ) | Varnith | [Read More](https://medium.com/p/bc4391b57d41) |
+| Wed, 03 Sep 2025 00:24:35 GMT | Brief analysis of the LastPass Security Breach (2022) | Naomi Edozie | [Read More](https://medium.com/p/e7b4a0b390c9) |
+| Wed, 03 Sep 2025 00:22:40 GMT | The CAPTCHA That Steals Everything | Aj | [Read More](https://medium.com/p/ca23c3b765e2) |
+| Wed, 03 Sep 2025 00:20:09 GMT | Episode 2: The MFA Enforcement Scanner — Automating Your Security Blind Spot | Tarek CHEIKH | [Read More](https://medium.com/p/36a015fde358) |
+| Wed, 03 Sep 2025 00:04:36 GMT | How to Secure Your Home Wi-Fi Network | Samina Perveen | [Read More](https://medium.com/p/50df2b2be02c) |
+| Wed, 03 Sep 2025 00:01:37 GMT | A Complete Guide to Sublist3r: How to Enumerate Subdomains for Bug Bounty & OSINT | JPablo13 | [Read More](https://medium.com/p/2127ffe0ffac) |
+| Tue, 02 Sep 2025 23:58:28 GMT | When Your Mind Is Too Full, Growth Has No Space | Waking Up the Subconscious Mind | [Read More](https://medium.com/p/19afe1e8cfca) |
+| Tue, 02 Sep 2025 23:33:13 GMT | The day our moderation failed — and the slow, ugly work of earning trust back | Hamada | [Read More](https://medium.com/p/21a27868a683) |
 | Tue, 02 Sep 2025 23:27:52 GMT | Don’t Wait Until It’s Too Late — Check If Your Data Has Been Breached | Keren N Oduro | [Read More](https://medium.com/p/b9e726f6b28a) |
 | Tue, 02 Sep 2025 23:22:15 GMT | Security By Design Practices And Their impact In The Nigerian Electronic Payments Industry | Davids Olumide Michael | [Read More](https://medium.com/p/494881465296) |
 | Tue, 02 Sep 2025 23:20:40 GMT | In the fast-paced world of digital transformation, companies are constantly racing to stay ahead of… | Vernieri | [Read More](https://medium.com/p/cc84a6a70e72) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 17:03:54 GMT | Google Hacker News: The Shocking Ultimatum That Could Change Cybersecurity Forever | Ali Muhammad | [Read More](https://medium.com/p/4ec7dea18652) |
 | Tue, 02 Sep 2025 17:03:45 GMT | How LinkedIn Handles “Who Viewed Your Profile” Without Leaking Privacy | The Abstract Engineer | [Read More](https://medium.com/p/4a4283c973ba) |
 | Tue, 02 Sep 2025 17:03:18 GMT | WhatsApp’s Zero-Day Exploit: What Really Happened on Sep 2nd | The UNFILTERED Draft | [Read More](https://medium.com/p/e5d642db28fc) |
-| Tue, 02 Sep 2025 16:58:06 GMT | OS2 Binary Bomb Lab: Phase 4 | Sourav Bose | [Read More](https://medium.com/p/3683ac7593e8) |
-| Tue, 02 Sep 2025 16:57:29 GMT | What is a Token in Web Development? And Why Do We Need Refresh Tokens? | Rohit Kuwar | [Read More](https://medium.com/p/5522d40587eb) |
-| Tue, 02 Sep 2025 16:54:09 GMT | Importance of Keeping Location ON on your mobile phone | Sachit Joe Almeida | [Read More](https://medium.com/p/c351e44d08d2) |
-| Tue, 02 Sep 2025 16:53:22 GMT | SMB & SMTP Enumeration on Metasploitable 2 — A Practical Walkthrough | mohamed diab | [Read More](https://medium.com/p/6cb65e06ba32) |
-| Tue, 02 Sep 2025 16:50:11 GMT | The marketplace scam my mom almost fell for | Silvia Munafò | [Read More](https://medium.com/p/5aa0b01476cc) |
-| Tue, 02 Sep 2025 16:45:50 GMT | CVE-2025–29927: The Middleware Misstep That Shook Next.js | gm0 | [Read More](https://medium.com/p/a54c1268d4d3) |
-| Tue, 02 Sep 2025 16:44:29 GMT | My First Trip to the Dark Web Left Me Shaken | The Hidden Pen. | [Read More](https://medium.com/p/db11e2be773e) |
-| Tue, 02 Sep 2025 16:37:26 GMT | Cybersecurity: The Silent Guardian of the Digital Era | Mohammed Asif Shaikh | [Read More](https://medium.com/p/182e8721dce0) |
-| Tue, 02 Sep 2025 16:34:50 GMT | Your Cybersecurity Toolkit: Essential Resources for Beginners ️ | khakman | [Read More](https://medium.com/p/c8f9c0c80509) |
-| Tue, 02 Sep 2025 16:33:31 GMT | Thriving in the AV Industry: Xchange on Stage! | Matt Pana | [Read More](https://medium.com/p/222fa44d02ca) |
-| Tue, 02 Sep 2025 16:31:39 GMT | 11.5 Tbps DDoS Attack-A Wake-Up Call for Global Cyber Resilience | Chetan Seripally | [Read More](https://medium.com/p/816bbe619328) |
-| Tue, 02 Sep 2025 16:25:42 GMT | Choice Between 1 TB to 2 TB or 1 TB to 1.2 TRILLION TB? | Berend Watchus | [Read More](https://medium.com/p/b2e42cd6a6e8) |
-| Tue, 02 Sep 2025 16:24:55 GMT | Discovering a Text Injection Vulnerability — A Bug Hunter’s Learning Journey_ ver usefull for new… | Be nice insabat | [Read More](https://medium.com/p/c8e85099d271) |
-| Tue, 02 Sep 2025 16:24:52 GMT | Pyramid Of Pain | Blackoutx | [Read More](https://medium.com/p/24a032f6d47a) |
-| Tue, 02 Sep 2025 16:21:04 GMT | PromptLock: The Rise of AI-Powered Ransomware | IT_Engineer | [Read More](https://medium.com/p/a4bf11292fcc) |
-| Tue, 02 Sep 2025 16:20:43 GMT | Building Identity Management That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/6947f24ee444) |
-| Tue, 02 Sep 2025 16:19:42 GMT | The Contractor Scam: How Organized Gangs Prey on Homeowners | Internet Exposed | [Read More](https://medium.com/p/fa2ea2f72f2e) |
-| Tue, 02 Sep 2025 16:18:38 GMT | Beyond the Search Bar: The Next Evolution in How We Find Information Online | Ankush Kumar Singh | [Read More](https://medium.com/p/713b6679579a) |
-| Tue, 02 Sep 2025 16:18:31 GMT | Inside the R&D: Building an AI Pentester from the Ground Up | Daniel Knight | [Read More](https://medium.com/p/92e566cbb848) |
-| Tue, 02 Sep 2025 16:18:09 GMT | AI Security Research Working Groups | Tal Eliyahu | [Read More](https://medium.com/p/de4485ffebbd) |
-| Tue, 02 Sep 2025 16:16:53 GMT | Loose Myself | Lonely solacee | [Read More](https://medium.com/p/4a3664e393fe) |
-| Tue, 02 Sep 2025 16:16:34 GMT | Building Identity Management Step by Step | Cyber Security Research | [Read More](https://medium.com/p/69ede8be4941) |
-| Tue, 02 Sep 2025 16:15:31 GMT | Junior Security Analyst Intro | Blackoutx | [Read More](https://medium.com/p/6046d96c644f) |
