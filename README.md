@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 19:35:54 GMT | The AI Ghost in Your Terminal: An AI Copilot for Penetration Testing | Sophia Martinez | [Read More](https://medium.com/p/73767135be33) |
+| Wed, 03 Sep 2025 19:24:36 GMT | Ransomware Analysis: The Static, The Dynamic, and The Hybrid | Chris Zhang | [Read More](https://medium.com/p/94743a9e4fdd) |
 | Wed, 03 Sep 2025 19:10:53 GMT | Holding On to My Passions: Why Dreams Matter More Than “Reality” | Starlight S | [Read More](https://medium.com/p/3094bc7a9101) |
 | Wed, 03 Sep 2025 19:09:19 GMT | Harnessing Google Threat Intelligence for Smarter Security Operations | Parth Modi | [Read More](https://medium.com/p/c1f856cf93dd) |
 | Wed, 03 Sep 2025 19:02:17 GMT | The End of Privacy: Why You Already Lost the Battle | The Dev Notebook | [Read More](https://medium.com/p/1d6b66da294c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 14:29:51 GMT | Securing Your Kubernetes Cluster with Signed & Verified Container Images | Meron | [Read More](https://medium.com/p/132d329443fd) |
 | Wed, 03 Sep 2025 14:27:31 GMT | Insomniac: Love Searching | Insónia | [Read More](https://medium.com/p/f4e7963b8e09) |
 | Wed, 03 Sep 2025 14:25:19 GMT | The EU Cyber Resilience Act: The Manufacturer’s Dilemma and the Strategic Path Forward | martino.agostini | [Read More](https://medium.com/p/b5030b11d7dc) |
-| Wed, 03 Sep 2025 14:23:15 GMT | Why and How to Create Audit Reports for Third-Party API Successes and Failures in Your .NET App | Venkataramana | [Read More](https://medium.com/p/8d3c4dd65e73) |
-| Wed, 03 Sep 2025 14:18:57 GMT | Banking Trojans: How They Steal Data and How to Stay Safe | Keepnet Labs | [Read More](https://medium.com/p/1157d37bb241) |
