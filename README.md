@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 14:09:32 GMT | Securing a Web Wallet | Lute Wallet | [Read More](https://medium.com/p/e40c7a63f54a) |
+| Wed, 03 Sep 2025 14:07:07 GMT | MFA Fatigue: The Cyber Attack Exploiting Human Weakness | Omex Oleksandr | [Read More](https://medium.com/p/c0e912244de2) |
+| Wed, 03 Sep 2025 14:03:59 GMT | 1. Existence d’un protocole de coordination civil/militaire | Jean | [Read More](https://medium.com/p/d5a2ca699ded) |
+| Wed, 03 Sep 2025 14:01:45 GMT | Cyber Briefing: 2025.09.03 | CyberMaterial | [Read More](https://medium.com/p/711aef842b76) |
+| Wed, 03 Sep 2025 14:01:44 GMT | Cybersecurity Policy Hierarchies: A Quick Guide | abdeldayemnour | [Read More](https://medium.com/p/39db4ec097f7) |
+| Wed, 03 Sep 2025 13:59:29 GMT | RedLine Malware Exploits Omicron: Protecting Users with Security Awareness | Keepnet Labs | [Read More](https://medium.com/p/2fe318022d0a) |
+| Wed, 03 Sep 2025 13:54:11 GMT | OverTheWire Bandit Level 5 → Level 6 — Complete Walkthrough | ayub_91 | [Read More](https://medium.com/p/d5573eed8e03) |
+| Wed, 03 Sep 2025 13:53:44 GMT | Best Cyber Security Course Online in 2025 Skills, Career Growth & Why It MattersBest Cyber… | Testleaf | [Read More](https://medium.com/p/4c7fc9cfa444) |
+| Wed, 03 Sep 2025 13:50:27 GMT | How AI Became Cybercrime’s Sharpest Weapon | David SEHYEON Baek | [Read More](https://medium.com/p/084a71507e99) |
+| Wed, 03 Sep 2025 13:48:11 GMT | Silver-Platter - TryHackMe Walkthrough - Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/8d40b7d11cf5) |
+| Wed, 03 Sep 2025 13:47:44 GMT | PortSwigger Web Security Academy: Blind SQL injection with conditional responses | Psalm Endozo | [Read More](https://medium.com/p/2da6f009e29f) |
+| Wed, 03 Sep 2025 13:44:55 GMT | Top Benefits of Investing in Cybersecurity Compliance Services | Zelar Trust | [Read More](https://medium.com/p/4625e7d92a0d) |
+| Wed, 03 Sep 2025 13:44:55 GMT | Autonomous TEE Manifesto | Poetic Technologies | [Read More](https://medium.com/p/14f770e05561) |
+| Wed, 03 Sep 2025 13:42:55 GMT | Why Every Cybersecurity Strategy Must Start with Penetration Testing | Omex Oleksandr | [Read More](https://medium.com/p/8d4adc97ace4) |
 | Wed, 03 Sep 2025 13:35:11 GMT | Why I Started SoftSprouts — Building Smarter Digital Solutions for the Future | Absar Uddin | [Read More](https://medium.com/p/cf7aec716fd4) |
 | Wed, 03 Sep 2025 13:33:58 GMT | Why Physical Security Is More Critical Than You Think: A Practical Guide for All Levels? | Kyrillos Kamal | [Read More](https://medium.com/p/a08806d4e549) |
 | Wed, 03 Sep 2025 13:32:33 GMT | How a Simple CSRF Flaw Earned a $5,000 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/389ec2c6d45a) |
@@ -99,17 +113,3 @@ Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11
 | Wed, 03 Sep 2025 09:30:43 GMT | Defense ABCs: How does this industry work, make money, or get funding? | Camilla Sekkal | [Read More](https://medium.com/p/ff33ce9fd996) |
 | Wed, 03 Sep 2025 09:30:41 GMT | Building Information Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/8fa470af1227) |
 | Wed, 03 Sep 2025 09:30:38 GMT | I’m Struggling To Speak The Language Of Love | Rizzee Cerdeñola | [Read More](https://medium.com/p/84cb8eff9925) |
-| Wed, 03 Sep 2025 09:30:23 GMT | How to Use Qualys VMDR for Effective Vulnerability Management | Abdullateef Hameed | [Read More](https://medium.com/p/d49b75e27708) |
-| Wed, 03 Sep 2025 09:28:21 GMT | CAM Software Market: Analyzing Key Trends, Industry Drivers, and Growth Opportunities | Kaverigiri | [Read More](https://medium.com/p/38065d42fd6c) |
-| Wed, 03 Sep 2025 09:27:47 GMT | Building Information Security and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/dc890a8d70ea) |
-| Wed, 03 Sep 2025 09:22:40 GMT | Why Every Business Needs Web Application VAPT for Stronger Security | Digital Defense | [Read More](https://medium.com/p/278575740604) |
-| Wed, 03 Sep 2025 09:21:27 GMT | Building Incident Response in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/5cbda8448540) |
-| Wed, 03 Sep 2025 09:13:02 GMT | The Hidden Edge: Real-Time Pipelines Across Solana & EVM | mayor. | [Read More](https://medium.com/p/a64ab6a3dace) |
-| Wed, 03 Sep 2025 09:12:57 GMT | Best VAPT Testing Services In India -Strengthen Your Security | Gowthammathiew | [Read More](https://medium.com/p/0f0f9844a3b2) |
-| Wed, 03 Sep 2025 09:12:44 GMT | How Saloni Mastered Cyber Security at Boston Institute! | Dipanshu | [Read More](https://medium.com/p/dfba6e852ec3) |
-| Wed, 03 Sep 2025 09:11:37 GMT | Automated Access Control Systems: A Complete Guide for IT and Security Leaders | SecureSlate | [Read More](https://medium.com/p/72455f4480fc) |
-| Wed, 03 Sep 2025 09:08:45 GMT | Financial Security or Vulnerability? Uncovering Cyber Threats and How to Address Them | ElegiMark | [Read More](https://medium.com/p/b449eb838806) |
-| Wed, 03 Sep 2025 09:02:52 GMT | Understanding Local Web Servers and Form Handling in Python (Educational Example) | Shayaan Khan | [Read More](https://medium.com/p/9d79afd9d026) |
-| Wed, 03 Sep 2025 09:00:25 GMT | Authenticating WebSocket Connections with JWT in Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/1c1abde963c5) |
-| Wed, 03 Sep 2025 09:00:22 GMT | Authenticating WebSocket Connections with JWT in Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/52df8dbfe34f) |
-| Wed, 03 Sep 2025 09:00:17 GMT | The VPN Trojan Horse: Why the Industry Isn’t Just Selling You Privacy, It’s Selling Your Trust | Hakan Özerdem | [Read More](https://medium.com/p/320730bacfc7) |
