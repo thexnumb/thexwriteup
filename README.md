@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 13:35:11 GMT | Why I Started SoftSprouts — Building Smarter Digital Solutions for the Future | Absar Uddin | [Read More](https://medium.com/p/cf7aec716fd4) |
+| Wed, 03 Sep 2025 13:33:58 GMT | Why Physical Security Is More Critical Than You Think: A Practical Guide for All Levels? | Kyrillos Kamal | [Read More](https://medium.com/p/a08806d4e549) |
+| Wed, 03 Sep 2025 13:32:33 GMT | How a Simple CSRF Flaw Earned a $5,000 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/389ec2c6d45a) |
+| Wed, 03 Sep 2025 13:31:33 GMT | Create a File Upload API with NestJS, Multer, and AWS S3 | Didin Jamaludin | [Read More](https://medium.com/p/eaa57506da89) |
+| Wed, 03 Sep 2025 13:25:37 GMT | Unpacking and Reconstructing a MemDump—Emotet Trojan | R.D.Tarun | [Read More](https://medium.com/p/aac3d3ad3758) |
 | Wed, 03 Sep 2025 13:17:58 GMT | Beyond the Textbook: How I Built a Real Security Operations Center from Scratch | Asmitdesai | [Read More](https://medium.com/p/0a0ea51b40af) |
 | Wed, 03 Sep 2025 13:16:35 GMT | A new foundation for Quantum Cryptography | Sarah Alhajri | [Read More](https://medium.com/p/59d4ad0b60d1) |
 | Wed, 03 Sep 2025 13:10:16 GMT | Smarter Security: Are AI-Powered Firewalls the Future of Cyber Defense | Cordula Boeck | [Read More](https://medium.com/p/f8eeb2b11a9d) |
@@ -24,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 12:54:20 GMT | Network Topology Analysis: [Lab LR.1.03] Infrastructure Assessment | Zifa Tea Azzahra | [Read More](https://medium.com/p/f3936991ba87) |
 | Wed, 03 Sep 2025 12:50:12 GMT | The Problem with Web3 Rewards and How ORYX Solves It | Oryx | [Read More](https://medium.com/p/077116a1a052) |
 | Wed, 03 Sep 2025 12:47:10 GMT | Stop 3 a.m. Pager Fires: 6 IaC Security Tools That Actually Catch Template Vulnerabilities | Iliya Garakh | [Read More](https://medium.com/p/f446444e70f3) |
+| Wed, 03 Sep 2025 12:44:48 GMT | บิทคับ เอ็กซ์เชนจ์ ได้รับการรับรอง SOC 2 Type 1 ยกระดับความปลอดภัยสู่มาตรฐานสากล | Preeyapa Taweewikyagan | [Read More](https://medium.com/p/1ed21314e2db) |
 | Wed, 03 Sep 2025 12:42:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/f3513fd1faab) |
 | Wed, 03 Sep 2025 12:41:10 GMT | Removing Snowflake Secrets from your GitHub Workflows | Rory Donaldson | [Read More](https://medium.com/p/e2c6a6ea93ea) |
 | Wed, 03 Sep 2025 12:40:51 GMT | Why Zero Trust Security is Now Non-Negotiable | R A N A   A H M A D | [Read More](https://medium.com/p/636855fb41b4) |
@@ -107,9 +113,3 @@ Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11
 | Wed, 03 Sep 2025 09:00:25 GMT | Authenticating WebSocket Connections with JWT in Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/1c1abde963c5) |
 | Wed, 03 Sep 2025 09:00:22 GMT | Authenticating WebSocket Connections with JWT in Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/52df8dbfe34f) |
 | Wed, 03 Sep 2025 09:00:17 GMT | The VPN Trojan Horse: Why the Industry Isn’t Just Selling You Privacy, It’s Selling Your Trust | Hakan Özerdem | [Read More](https://medium.com/p/320730bacfc7) |
-| Wed, 03 Sep 2025 08:57:21 GMT | Why the Biggest Threat to AI Isn’t Hackers, It’s the CEOs Who Deploy It Blindly | Travis Ray Caverhill | [Read More](https://medium.com/p/3dee9f04b19a) |
-| Wed, 03 Sep 2025 08:56:24 GMT | Top 10 High Salary Computer Jobs in India — 2025 Career Guide | Viveksharma | [Read More](https://medium.com/p/e64c56ea42a5) |
-| Wed, 03 Sep 2025 08:55:47 GMT | TECH CHAOS: August 2025’s Most INSANE Stories That Broke the Internet | shiva shanker | [Read More](https://medium.com/p/50beb3513c8c) |
-| Wed, 03 Sep 2025 08:54:37 GMT | SQL Injection Deep Dive: Techniques, Tricks, Prevention & Python Secure Coding | Vaibhav Tiwari | [Read More](https://medium.com/p/9c1507c61aa3) |
-| Wed, 03 Sep 2025 08:53:50 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4af6e9a6dfdc) |
-| Wed, 03 Sep 2025 08:45:20 GMT | I Have Notes on Airport Security | Callum Sanders | [Read More](https://medium.com/p/a0c914182ee0) |
