@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 14:35:12 GMT | Chasing the Buzz: How Rushed Innovation Leaves Us Vulnerable | Harold Moss | [Read More](https://medium.com/p/b0e4ebd7c382) |
+| Wed, 03 Sep 2025 14:33:10 GMT | Jaringan Komputer : Dasar Routing dan Switching | Yasa Wijaya | [Read More](https://medium.com/p/16b1b0aa8b99) |
+| Wed, 03 Sep 2025 14:32:11 GMT | How to Shop for a Pentesting Vendor: A Complete Guide for Security Buyers | Sprocket Security | [Read More](https://medium.com/p/b1e635d9319f) |
+| Wed, 03 Sep 2025 14:31:41 GMT | ️ Prompt Injection Attacks: How They Work and How to Defend Against Them | CapitalCoin | [Read More](https://medium.com/p/a7c9036003c5) |
+| Wed, 03 Sep 2025 14:31:22 GMT | SOC-in-a-Box: Network Security and Phishing Email Analysis Homelab | Sparsh Ladani | [Read More](https://medium.com/p/4047f287535f) |
+| Wed, 03 Sep 2025 14:29:51 GMT | Securing Your Kubernetes Cluster with Signed & Verified Container Images | Meron | [Read More](https://medium.com/p/132d329443fd) |
+| Wed, 03 Sep 2025 14:27:31 GMT | Insomniac: Love Searching | Insónia | [Read More](https://medium.com/p/f4e7963b8e09) |
+| Wed, 03 Sep 2025 14:25:19 GMT | The EU Cyber Resilience Act: The Manufacturer’s Dilemma and the Strategic Path Forward | martino.agostini | [Read More](https://medium.com/p/b5030b11d7dc) |
+| Wed, 03 Sep 2025 14:23:15 GMT | Why and How to Create Audit Reports for Third-Party API Successes and Failures in Your .NET App | Venkataramana | [Read More](https://medium.com/p/8d3c4dd65e73) |
+| Wed, 03 Sep 2025 14:18:57 GMT | Banking Trojans: How They Steal Data and How to Stay Safe | Keepnet Labs | [Read More](https://medium.com/p/1157d37bb241) |
 | Wed, 03 Sep 2025 14:09:32 GMT | Securing a Web Wallet | Lute Wallet | [Read More](https://medium.com/p/e40c7a63f54a) |
 | Wed, 03 Sep 2025 14:07:07 GMT | MFA Fatigue: The Cyber Attack Exploiting Human Weakness | Omex Oleksandr | [Read More](https://medium.com/p/c0e912244de2) |
 | Wed, 03 Sep 2025 14:03:59 GMT | 1. Existence d’un protocole de coordination civil/militaire | Jean | [Read More](https://medium.com/p/d5a2ca699ded) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 10:07:41 GMT | New TinyLoader Malware Attacking Windows Users Via Network Shares and Fake Shortcuts Files | Jasmitharouthu | [Read More](https://medium.com/p/2d944fd7da67) |
 | Wed, 03 Sep 2025 10:04:59 GMT | Why Your SME Needs a Trusted IT Services Provider for Small and Medium Businesses | vGics Global LLP | [Read More](https://medium.com/p/5b7ecdac440e) |
 | Wed, 03 Sep 2025 10:01:31 GMT | 3 Things to Do Before You Open Any Attachment | Evgeny Ermakov | [Read More](https://medium.com/p/3f5e992c2d8c) |
-| Wed, 03 Sep 2025 09:59:09 GMT | The ‘Sustaining’ Fallacy: Uncoupling Identity from Intelligence in the AGI Debate. | Berend Watchus | [Read More](https://medium.com/p/d7cce39d15d3) |
-| Wed, 03 Sep 2025 09:59:08 GMT | Threat Intelligence Report: Global
-Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11c0aadd9557) |
-| Wed, 03 Sep 2025 09:57:21 GMT | How Many Cyber Attacks Happen Per Day? A COO’s Perspective on Risk & Reality | Mahil Jasani | [Read More](https://medium.com/p/9e24e8941f4c) |
-| Wed, 03 Sep 2025 09:54:46 GMT | web attack types | Cyber Gee | [Read More](https://medium.com/p/5c98d1f69e10) |
-| Wed, 03 Sep 2025 09:47:07 GMT | DockerLabs Writeup — Backend (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/37f5c5ca2d0b) |
-| Wed, 03 Sep 2025 09:45:56 GMT | Why Antivirus Inside Containers Is a Bad Idea | Taulan Zauzanov | [Read More](https://medium.com/p/f9214f3e9b63) |
-| Wed, 03 Sep 2025 09:35:13 GMT | The Daily Tech Digest: 03 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/321ace991806) |
-| Wed, 03 Sep 2025 09:30:43 GMT | Defense ABCs: How does this industry work, make money, or get funding? | Camilla Sekkal | [Read More](https://medium.com/p/ff33ce9fd996) |
-| Wed, 03 Sep 2025 09:30:41 GMT | Building Information Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/8fa470af1227) |
-| Wed, 03 Sep 2025 09:30:38 GMT | I’m Struggling To Speak The Language Of Love | Rizzee Cerdeñola | [Read More](https://medium.com/p/84cb8eff9925) |
