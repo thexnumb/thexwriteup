@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 18:38:49 GMT | Unhackable? The Reality Behind Maduro’s Huawei Claim | Yusuf Asan | [Read More](https://medium.com/p/4e8a56e1f2ed) |
+| Wed, 03 Sep 2025 18:34:26 GMT | L’Éducation en France en 2025 : Entre Réformes et Réalités | Lymra | [Read More](https://medium.com/p/900e887efb84) |
+| Wed, 03 Sep 2025 18:34:17 GMT | Student’s Guide to Starting a CyberSecurity Career — Before It’s Too Late | Azhariqbal | [Read More](https://medium.com/p/9ad7fe37be3c) |
+| Wed, 03 Sep 2025 18:31:54 GMT | Batch-Neighbor Exfiltration (MoE × SpecDec): Turning Shared Inference Into a Keyword Oracle | aviral srivastava | [Read More](https://medium.com/p/272798a264f8) |
+| Wed, 03 Sep 2025 18:31:35 GMT | Automation with Ansible | Adarsh K | [Read More](https://medium.com/p/7c2af364cad3) |
+| Wed, 03 Sep 2025 18:30:07 GMT | Malware Classification THM Write-up tryhackme | Dhruv | [Read More](https://medium.com/p/2510a2c3dd03) |
+| Wed, 03 Sep 2025 18:30:02 GMT | CIA Triad in CyberSecurity | SecurewithUmer | [Read More](https://medium.com/p/38261fb56c2e) |
+| Wed, 03 Sep 2025 18:27:31 GMT | How Palantir Mastered In-Toto | Palantir | [Read More](https://medium.com/p/b8a7107371bb) |
 | Wed, 03 Sep 2025 18:25:49 GMT | Why Digital Trust Needs a Reset | Aliciasierra | [Read More](https://medium.com/p/729b8aa9901e) |
 | Wed, 03 Sep 2025 18:22:37 GMT | Manufacturing IT Services That Streamline Operations and Boost Productivity | Arclight Group | [Read More](https://medium.com/p/6252c256ff84) |
 | Wed, 03 Sep 2025 18:19:53 GMT | The Silent Hunter: WhatsApp’s Most Dangerous Bug Yet | Gautam Mengle | [Read More](https://medium.com/p/ef7f63e48925) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 13:54:11 GMT | OverTheWire Bandit Level 5 → Level 6 — Complete Walkthrough | ayub_91 | [Read More](https://medium.com/p/d5573eed8e03) |
 | Wed, 03 Sep 2025 13:53:44 GMT | Best Cyber Security Course Online in 2025 Skills, Career Growth & Why It MattersBest Cyber… | Testleaf | [Read More](https://medium.com/p/4c7fc9cfa444) |
 | Wed, 03 Sep 2025 13:50:27 GMT | How AI Became Cybercrime’s Sharpest Weapon | David SEHYEON Baek | [Read More](https://medium.com/p/084a71507e99) |
-| Wed, 03 Sep 2025 13:48:11 GMT | Silver-Platter - TryHackMe Walkthrough - Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/8d40b7d11cf5) |
-| Wed, 03 Sep 2025 13:47:44 GMT | PortSwigger Web Security Academy: Blind SQL injection with conditional responses | Psalm Endozo | [Read More](https://medium.com/p/2da6f009e29f) |
-| Wed, 03 Sep 2025 13:44:55 GMT | Top Benefits of Investing in Cybersecurity Compliance Services | Zelar Trust | [Read More](https://medium.com/p/4625e7d92a0d) |
-| Wed, 03 Sep 2025 13:44:55 GMT | Autonomous TEE Manifesto | Poetic Technologies | [Read More](https://medium.com/p/14f770e05561) |
-| Wed, 03 Sep 2025 13:42:55 GMT | Why Every Cybersecurity Strategy Must Start with Penetration Testing | Omex Oleksandr | [Read More](https://medium.com/p/8d4adc97ace4) |
-| Wed, 03 Sep 2025 13:35:11 GMT | Why I Started SoftSprouts — Building Smarter Digital Solutions for the Future | Absar Uddin | [Read More](https://medium.com/p/cf7aec716fd4) |
-| Wed, 03 Sep 2025 13:33:58 GMT | Why Physical Security Is More Critical Than You Think: A Practical Guide for All Levels? | Kyrillos Kamal | [Read More](https://medium.com/p/a08806d4e549) |
-| Wed, 03 Sep 2025 13:32:33 GMT | How a Simple CSRF Flaw Earned a $5,000 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/389ec2c6d45a) |
