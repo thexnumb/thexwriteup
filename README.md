@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 18:25:49 GMT | Why Digital Trust Needs a Reset | Aliciasierra | [Read More](https://medium.com/p/729b8aa9901e) |
+| Wed, 03 Sep 2025 18:22:37 GMT | Manufacturing IT Services That Streamline Operations and Boost Productivity | Arclight Group | [Read More](https://medium.com/p/6252c256ff84) |
+| Wed, 03 Sep 2025 18:19:53 GMT | The Silent Hunter: WhatsApp’s Most Dangerous Bug Yet | Gautam Mengle | [Read More](https://medium.com/p/ef7f63e48925) |
+| Wed, 03 Sep 2025 18:19:42 GMT | VulnOS “The Reporter’s Access” Lab: From SQLi to Root | Aditya Bhatt | [Read More](https://medium.com/p/b9e4c081581a) |
+| Wed, 03 Sep 2025 18:18:15 GMT | RAG at the Geometry Layer: Embedding-Collision Poisoning (and How to Measure Your Exposure) | aviral srivastava | [Read More](https://medium.com/p/3a720f99aebc) |
+| Wed, 03 Sep 2025 18:15:20 GMT | ScriptAnalyzer AI: Multi-Agent Framework for Efficient Malware Script Analysis | Yash Raval | [Read More](https://medium.com/p/1f8993c45ac9) |
+| Wed, 03 Sep 2025 18:13:16 GMT | Passwords & Authentication: Why “123456” Won’t Cut It Anymore | Hirad Showghi | [Read More](https://medium.com/p/ad9a199df4d0) |
+| Wed, 03 Sep 2025 18:09:19 GMT | Elevate Your Space with Golden Elegance: Wall Art That Speaks Style | "Prasad Tambade: Chronicles of a Curious Mind" | [Read More](https://medium.com/p/b094db34e838) |
+| Wed, 03 Sep 2025 18:02:27 GMT | The Quiet War: How AI is Rewriting Cybersecurity | Otun Stephen Gbenga | [Read More](https://medium.com/p/a35e392edc41) |
+| Wed, 03 Sep 2025 18:01:47 GMT | Why I Always Disable Unused Services on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/be91f0ff0901) |
+| Wed, 03 Sep 2025 18:00:19 GMT | HexStrike AI and the Race Against Time: How Autonomous Cyber Offense Reshapes Business Risk | Valdez Ladd | [Read More](https://medium.com/p/c06db7ac41e7) |
+| Wed, 03 Sep 2025 17:59:45 GMT | Why Fortinet Products Keep Appearing in Security Advisories | Cyberoptic Security | [Read More](https://medium.com/p/8ad5e56398a1) |
+| Wed, 03 Sep 2025 17:55:07 GMT | Analysis of Vulnerabilities Identified in JavaScript between 2022–2025 | gm0 | [Read More](https://medium.com/p/f8553d010467) |
+| Wed, 03 Sep 2025 17:48:20 GMT | Access Control — Unprotected Functionality | Varkeythms | [Read More](https://medium.com/p/67c8abfe6a4b) |
+| Wed, 03 Sep 2025 17:46:19 GMT | The Importance of Threat and Vulnerability Assessment (TVA) in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/1a417523aa05) |
+| Wed, 03 Sep 2025 17:34:00 GMT | JSLeak: Finding Secrets Hidden in JavaScript | Natarajan C K | [Read More](https://medium.com/p/cc5f919086a7) |
 | Wed, 03 Sep 2025 17:26:37 GMT | Java Selenium with Automation Testing Interview | Ajit Kumar | [Read More](https://medium.com/p/8cf52f575344) |
 | Wed, 03 Sep 2025 17:21:05 GMT | SQL for Bug Bounty Hunters | Swetha | [Read More](https://medium.com/p/106a4c324049) |
 | Wed, 03 Sep 2025 17:13:27 GMT | PortSwigger Academy Business Logic Lab Solutions | Emre A. | [Read More](https://medium.com/p/e3035d7e6ceb) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 13:35:11 GMT | Why I Started SoftSprouts — Building Smarter Digital Solutions for the Future | Absar Uddin | [Read More](https://medium.com/p/cf7aec716fd4) |
 | Wed, 03 Sep 2025 13:33:58 GMT | Why Physical Security Is More Critical Than You Think: A Practical Guide for All Levels? | Kyrillos Kamal | [Read More](https://medium.com/p/a08806d4e549) |
 | Wed, 03 Sep 2025 13:32:33 GMT | How a Simple CSRF Flaw Earned a $5,000 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/389ec2c6d45a) |
-| Wed, 03 Sep 2025 13:31:33 GMT | Create a File Upload API with NestJS, Multer, and AWS S3 | Didin Jamaludin | [Read More](https://medium.com/p/eaa57506da89) |
-| Wed, 03 Sep 2025 13:25:37 GMT | Unpacking and Reconstructing a MemDump—Emotet Trojan | R.D.Tarun | [Read More](https://medium.com/p/aac3d3ad3758) |
-| Wed, 03 Sep 2025 13:17:58 GMT | Beyond the Textbook: How I Built a Real Security Operations Center from Scratch | Asmitdesai | [Read More](https://medium.com/p/0a0ea51b40af) |
-| Wed, 03 Sep 2025 13:16:35 GMT | A new foundation for Quantum Cryptography | Sarah Alhajri | [Read More](https://medium.com/p/59d4ad0b60d1) |
-| Wed, 03 Sep 2025 13:10:16 GMT | Smarter Security: Are AI-Powered Firewalls the Future of Cyber Defense | Cordula Boeck | [Read More](https://medium.com/p/f8eeb2b11a9d) |
-| Wed, 03 Sep 2025 13:09:22 GMT | Bandit Wargame Walkthrough - OverTheWire CTF (Level 4- 5)- Hacking for Beginners -Step-by-Step | ayub_91 | [Read More](https://medium.com/p/1087694dc798) |
-| Wed, 03 Sep 2025 13:06:48 GMT | The Overlooked Side of Bug Bounties: Hidden Vulnerabilities Beginners Ignore | Nitin yadav | [Read More](https://medium.com/p/71b0aacbc6c8) |
-| Wed, 03 Sep 2025 13:01:48 GMT | I hacked a huge graphic designer in Nigeria. | The Onyx Effect | [Read More](https://medium.com/p/5e2ee95657e8) |
-| Wed, 03 Sep 2025 12:56:32 GMT | Hunting Spies, Not Just Hackers: How Geopolitical Tensions Are Reshaping the Cyber Threat Landscape | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/6719ad80f843) |
-| Wed, 03 Sep 2025 12:56:17 GMT | ️Rate Limit Bypass via Email Case Manipulation in Password Reset Endpoint | Kareem Husein Abdelhameed | [Read More](https://medium.com/p/d725a2173c4a) |
-| Wed, 03 Sep 2025 12:55:28 GMT | Hammer - TryHackMe Writeup - THM | Jerónimo Miras | [Read More](https://medium.com/p/8479833e4641) |
-| Wed, 03 Sep 2025 12:54:20 GMT | Network Topology Analysis: [Lab LR.1.03] Infrastructure Assessment | Zifa Tea Azzahra | [Read More](https://medium.com/p/f3936991ba87) |
-| Wed, 03 Sep 2025 12:50:12 GMT | The Problem with Web3 Rewards and How ORYX Solves It | Oryx | [Read More](https://medium.com/p/077116a1a052) |
-| Wed, 03 Sep 2025 12:47:10 GMT | Stop 3 a.m. Pager Fires: 6 IaC Security Tools That Actually Catch Template Vulnerabilities | Iliya Garakh | [Read More](https://medium.com/p/f446444e70f3) |
-| Wed, 03 Sep 2025 12:44:48 GMT | บิทคับ เอ็กซ์เชนจ์ ได้รับการรับรอง SOC 2 Type 1 ยกระดับความปลอดภัยสู่มาตรฐานสากล | Preeyapa Taweewikyagan | [Read More](https://medium.com/p/1ed21314e2db) |
-| Wed, 03 Sep 2025 12:42:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/f3513fd1faab) |
