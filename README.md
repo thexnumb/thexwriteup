@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 11:31:49 GMT | The Future of Cybersecurity: Staying Ahead of Data Exposure | Lindaclousin | [Read More](https://medium.com/p/5cdfcffbfe9c) |
+| Wed, 03 Sep 2025 11:30:28 GMT | Your Phone Just Became a Digital Hostage | Aj | [Read More](https://medium.com/p/b71a4d1103ee) |
+| Wed, 03 Sep 2025 11:30:21 GMT | Security by Obscurity is Dead: Embracing a Zero-Trust Mindset | Shahzaib | [Read More](https://medium.com/p/383c8b858432) |
+| Wed, 03 Sep 2025 11:25:07 GMT | CVE-2025–38352: Android Linux Kernel Race Condition Exploited in the Wild | gm0 | [Read More](https://medium.com/p/7c030e50acc4) |
+| Wed, 03 Sep 2025 11:17:30 GMT | AI Governance: Why It Matters and Where GRC Fits In | Brittney Ginther | [Read More](https://medium.com/p/2ae9ec8459a9) |
+| Wed, 03 Sep 2025 11:16:10 GMT | Session Forensics TryHackMe Walkthrough: Decode JWTs, Investigate Logs & Catch Token Forgery | Visir | [Read More](https://medium.com/p/0161a0a06298) |
+| Wed, 03 Sep 2025 11:15:34 GMT | The Generative AI Boom: Navigating New Privacy and Cybersecurity Challenges | Hamza Automates | [Read More](https://medium.com/p/054147f68be9) |
+| Wed, 03 Sep 2025 11:12:10 GMT | The Hidden Email Security Risk of Not Owning Your Brand’s .com Domain | BrandHunt | [Read More](https://medium.com/p/7f2bba072115) |
+| Wed, 03 Sep 2025 11:06:50 GMT | Future-Proof Your Business: Why Essential 8 Compliance Services Australia Are a Game-Changer for… | SentryCyber | [Read More](https://medium.com/p/129e8bb3b8fa) |
 | Wed, 03 Sep 2025 11:03:34 GMT | Legacy Modernization Trends: Driving the Future of Digital Transformation | tkxel | [Read More](https://medium.com/p/39c3d7a24d25) |
 | Wed, 03 Sep 2025 10:51:53 GMT | ⚠️ The Dark Side of AI : How People Are Misusing (and could Misuse) Artificial Intelligence | Somya Golchha | [Read More](https://medium.com/p/ceeb13005606) |
 | Wed, 03 Sep 2025 10:49:01 GMT | This AI bug cost me a top 5 Spot at DEFCON 33 Bug Bounty Village CTF | drop | [Read More](https://medium.com/p/9e1438aa4b5a) |
@@ -104,12 +113,3 @@ Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11
 | Wed, 03 Sep 2025 06:52:59 GMT | Mastering-SQL injection UNION attacks Techniques | Utkarsh Srivastava | [Read More](https://medium.com/p/aa0eba4be454) |
 | Wed, 03 Sep 2025 06:50:21 GMT | Top 10 AI Cybersecurity Tools (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/dc8de16f0c8b) |
 | Wed, 03 Sep 2025 06:42:21 GMT | ThunderCipher-[Unleashing the Shell 2] | Bhuwan Patidar | [Read More](https://medium.com/p/e750dd9ea737) |
-| Wed, 03 Sep 2025 06:34:39 GMT | SafeLine WAF: Free, Powerful Protection for Every Webmaster | Quella | [Read More](https://medium.com/p/a1fcf012af10) |
-| Wed, 03 Sep 2025 06:31:36 GMT | Docker vs Podman | Adarsh K | [Read More](https://medium.com/p/18aa38a36a33) |
-| Wed, 03 Sep 2025 06:29:44 GMT | The Cybersecurity Battlefield: Why Red Team vs. Blue Team is Essential for True Readiness | White Arrow Cybersecurity | [Read More](https://medium.com/p/21536078c8a9) |
-| Wed, 03 Sep 2025 06:24:31 GMT | The Hidden Gem Books That Transformed My Approach To Cloud Security | Aj | [Read More](https://medium.com/p/05025daaf175) |
-| Wed, 03 Sep 2025 06:20:19 GMT | All Pass Hub Security Architecture Explained: Zero-Knowledge Encryption Made Simple | Password Manager | [Read More](https://medium.com/p/078dd59b854f) |
-| Wed, 03 Sep 2025 06:15:55 GMT | ThunderCipher-[Unleashing the Shell 1] | Bhuwan Patidar | [Read More](https://medium.com/p/f5887c8707cc) |
-| Wed, 03 Sep 2025 06:14:05 GMT | Using Edge One CDN IP Library with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/da6eecaffce1) |
-| Wed, 03 Sep 2025 06:08:06 GMT | How Technology is Shaping the Future of Social Media | Hurain | [Read More](https://medium.com/p/74baa742c3af) |
-| Wed, 03 Sep 2025 06:05:36 GMT | Subfinder | Swetha | [Read More](https://medium.com/p/97b70205b82e) |
