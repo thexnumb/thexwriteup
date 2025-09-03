@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 07:24:33 GMT | Shamans and Engineers: How Technology Became Our New Ritual | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/6a7c63f85bcd) |
+| Wed, 03 Sep 2025 07:23:22 GMT | NIST’s Role in Defining Cloud Computing Architecture | Qualysec | [Read More](https://medium.com/p/a22abee41609) |
+| Wed, 03 Sep 2025 07:21:49 GMT | New SSL/TLS Certificate Guidelines: Shorter Lifetimes, Smarter Automation | Vineeth Tunk | [Read More](https://medium.com/p/6ddd19b09724) |
+| Wed, 03 Sep 2025 07:21:15 GMT | The Crime Lab: A CyberDefenders Challenge Write-Up | Tboysunovap | [Read More](https://medium.com/p/2fb64f2e68ef) |
 | Wed, 03 Sep 2025 07:15:41 GMT | Smart Labels Market & trends 2031 | Sagarkavika | [Read More](https://medium.com/p/6fb74e465510) |
+| Wed, 03 Sep 2025 07:15:24 GMT | The Hidden Cost of Password Breaches: Why 2025 Could Be the Year of Zero-Trust Authentication | Rahulsharma | [Read More](https://medium.com/p/eb27d8ea6995) |
 | Wed, 03 Sep 2025 07:14:07 GMT | Everything You Should Know About Personal Bodyguard Services Phoenix AZ | Alisa mellon | [Read More](https://medium.com/p/50da96afe8f8) |
 | Wed, 03 Sep 2025 07:05:11 GMT | Why Cybersecurity Is A Business Investment, Not An Expense | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/a3db53f8368d) |
 | Wed, 03 Sep 2025 07:03:29 GMT | Automating Incident Response with AWS Lambda + GuardDuty: Isolating Compromised EC2 Instances | Davebhargavi | [Read More](https://medium.com/p/0da87d83f2f6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 00:22:40 GMT | The CAPTCHA That Steals Everything | Aj | [Read More](https://medium.com/p/ca23c3b765e2) |
 | Wed, 03 Sep 2025 00:20:09 GMT | Episode 2: The MFA Enforcement Scanner — Automating Your Security Blind Spot | Tarek CHEIKH | [Read More](https://medium.com/p/36a015fde358) |
 | Wed, 03 Sep 2025 00:04:36 GMT | How to Secure Your Home Wi-Fi Network | Samina Perveen | [Read More](https://medium.com/p/50df2b2be02c) |
-| Wed, 03 Sep 2025 00:01:37 GMT | A Complete Guide to Sublist3r: How to Enumerate Subdomains for Bug Bounty & OSINT | JPablo13 | [Read More](https://medium.com/p/2127ffe0ffac) |
-| Tue, 02 Sep 2025 23:58:28 GMT | When Your Mind Is Too Full, Growth Has No Space | Waking Up the Subconscious Mind | [Read More](https://medium.com/p/19afe1e8cfca) |
-| Tue, 02 Sep 2025 23:33:13 GMT | The day our moderation failed — and the slow, ugly work of earning trust back | Hamada | [Read More](https://medium.com/p/21a27868a683) |
-| Tue, 02 Sep 2025 23:27:52 GMT | Don’t Wait Until It’s Too Late — Check If Your Data Has Been Breached | Keren N Oduro | [Read More](https://medium.com/p/b9e726f6b28a) |
-| Tue, 02 Sep 2025 23:22:15 GMT | Security By Design Practices And Their impact In The Nigerian Electronic Payments Industry | Davids Olumide Michael | [Read More](https://medium.com/p/494881465296) |
