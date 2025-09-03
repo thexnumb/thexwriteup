@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 03:21:57 GMT | I Built a Password Cracker and What It Revealed Will Change How You Think About Security Forever | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/c5d4fb5992bf) |
+| Wed, 03 Sep 2025 03:12:29 GMT | I Built a Password Cracker and What It Revealed Will Change How You Think About Security Forever | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/534d4309ecae) |
+| Wed, 03 Sep 2025 03:08:09 GMT | # Breaking Down Malware and Application Attacks: A Hands-On Security+ Lab | Adrian Gonzalez | [Read More](https://medium.com/p/ae7067cb9641) |
+| Wed, 03 Sep 2025 03:04:30 GMT | Nail the CISM: Your 60-Day Journey to Becoming a Certified Information Security Manager | Cybernous Infosec consulting | [Read More](https://medium.com/p/352969521fca) |
+| Wed, 03 Sep 2025 02:48:24 GMT | OpenEDR (ComodoSecurity) | Raghavvram | [Read More](https://medium.com/p/958b1b9dcc17) |
 | Wed, 03 Sep 2025 02:40:23 GMT | Classic Crackme 0x100 picoCTF | Michael Elfauz | [Read More](https://medium.com/p/b880068a3585) |
 | Wed, 03 Sep 2025 02:22:03 GMT | TryHackMe Walkthrough: Startup | Indigo Shadow | [Read More](https://medium.com/p/013bf93de66d) |
 | Wed, 03 Sep 2025 02:21:11 GMT | The Future of DeFi with Drosera Network | Ore | [Read More](https://medium.com/p/787f9483e1a1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 18:01:37 GMT | Top 7 Tech Shifts to Watch Next Quarter | Thinking Loop | [Read More](https://medium.com/p/68ff732dffd4) |
 | Tue, 02 Sep 2025 17:55:33 GMT | Defining a “Risk Appetite” for your Organization | Vaibhav Sonavane | [Read More](https://medium.com/p/afbc1333465f) |
 | Tue, 02 Sep 2025 17:54:51 GMT | Business Process Audit — Technology and Resource Management | Artyom Sivolob | [Read More](https://medium.com/p/f181b2145b19) |
-| Tue, 02 Sep 2025 17:53:50 GMT | Your web domain is leaking your information | umbraXsecure | [Read More](https://medium.com/p/e4ed9ec80025) |
-| Tue, 02 Sep 2025 17:53:40 GMT | The Challenge of Retaining Cybersecurity Workforce in a Competitive Market | SafeAeon Inc. | [Read More](https://medium.com/p/8c64fee73367) |
-| Tue, 02 Sep 2025 17:49:00 GMT | RedLine Stealer: A Shortcut to Identity Theft. | Mohamed Mostafa | [Read More](https://medium.com/p/b605618dbc84) |
-| Tue, 02 Sep 2025 17:47:17 GMT | Human Based Cybersecurity Risks | Matthew.Rosenquist | [Read More](https://medium.com/p/cea3f7378704) |
-| Tue, 02 Sep 2025 17:44:36 GMT | Silver Fox Breaches Defenses with Microsoft-Signed Driver Exploit | Inforsecpro | [Read More](https://medium.com/p/1f447b28eb62) |
