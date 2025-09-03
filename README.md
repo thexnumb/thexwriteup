@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 06:24:31 GMT | The Hidden Gem Books That Transformed My Approach To Cloud Security | Aj | [Read More](https://medium.com/p/05025daaf175) |
+| Wed, 03 Sep 2025 06:20:19 GMT | All Pass Hub Security Architecture Explained: Zero-Knowledge Encryption Made Simple | Password Manager | [Read More](https://medium.com/p/078dd59b854f) |
+| Wed, 03 Sep 2025 06:15:55 GMT | ThunderCipher-[Unleashing the Shell 1] | Bhuwan Patidar | [Read More](https://medium.com/p/f5887c8707cc) |
+| Wed, 03 Sep 2025 06:14:05 GMT | Using Edge One CDN IP Library with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/da6eecaffce1) |
+| Wed, 03 Sep 2025 06:08:06 GMT | How Technology is Shaping the Future of Social Media | Hurain | [Read More](https://medium.com/p/74baa742c3af) |
+| Wed, 03 Sep 2025 06:05:36 GMT | Subfinder | Swetha | [Read More](https://medium.com/p/97b70205b82e) |
+| Wed, 03 Sep 2025 06:04:45 GMT | Flesh Robot | You'd Think | [Read More](https://medium.com/p/3e9dd4b2ca4e) |
+| Wed, 03 Sep 2025 05:59:05 GMT | Cloud Infrastructure Entitlement Management (CIEM) By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4f9684d007de) |
+| Wed, 03 Sep 2025 05:53:22 GMT | How a Dating App Almost Ruined My Best Friend’s Life | Shahzaib | [Read More](https://medium.com/p/314560c6a944) |
+| Wed, 03 Sep 2025 05:50:31 GMT | Advanced XSS Bug Bounty-Full Guide: Multi-Vector Payloads That Earned Me $1500 | Zoningxtr | [Read More](https://medium.com/p/2f639086d3cb) |
+| Wed, 03 Sep 2025 05:42:26 GMT | Why You’re Afraid to Be Truly Seen in Love | J.S Writes ✨ | [Read More](https://medium.com/p/8de0832c5cdc) |
+| Wed, 03 Sep 2025 05:41:45 GMT | AdBlock not cutting it on YouTube? | TurisVPN | [Read More](https://medium.com/p/786451d98c87) |
+| Wed, 03 Sep 2025 05:40:44 GMT | Hackers Assemble 2: The Saga Completes | Abhishek Gupta | [Read More](https://medium.com/p/590f4813812a) |
+| Wed, 03 Sep 2025 05:40:04 GMT | Protect your peace of mind online. | TurisVPN | [Read More](https://medium.com/p/3a8a5129b460) |
 | Wed, 03 Sep 2025 05:37:42 GMT | Directory Listing Automation for Efficiency | mrahmatt74 | [Read More](https://medium.com/p/4cd84ea5db51) |
+| Wed, 03 Sep 2025 05:34:21 GMT | What is Hacking ? | Darshil Modi | [Read More](https://medium.com/p/750601f57c77) |
 | Wed, 03 Sep 2025 05:29:19 GMT | “Cybersecurity: The Abyss Gazes Also?” | Truspex | [Read More](https://medium.com/p/d599cdd2b0ec) |
 | Wed, 03 Sep 2025 05:23:21 GMT | Kali Linux WLAN0: Finally Wired Right? A Virtual Victory. | SilentInject | [Read More](https://medium.com/p/8edb229b773f) |
 | Wed, 03 Sep 2025 05:13:53 GMT | Google is Locking Down Android: What the End of Anonymous Sideloading Means for You | Aj | [Read More](https://medium.com/p/13f138a07dc2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 21:25:01 GMT | VulnHub: DC: 1 Çözümü | Azat Dicle | [Read More](https://medium.com/p/be79bba2ad06) |
 | Tue, 02 Sep 2025 21:21:13 GMT | The Math Behind Digital Security | Latifatul Hania Az Zahra | [Read More](https://medium.com/p/f26b02ccac5f) |
 | Tue, 02 Sep 2025 20:49:14 GMT | A Patent-Powered Revolution: Milestones in Smartphone Technology | Shreya Singh | [Read More](https://medium.com/p/75bacb4b87ce) |
-| Tue, 02 Sep 2025 20:46:09 GMT | Your Smart Fridge Is Spying on You and Can Be Hacked: The Overlooked Risks of Smart Appliances | SECURE IT! | [Read More](https://medium.com/p/9bf7a37e7db3) |
-| Tue, 02 Sep 2025 20:44:12 GMT | 10 Questions to Deepen Your Relationship | Wilson Igbasi | [Read More](https://medium.com/p/4c8bf81d0b66) |
-| Tue, 02 Sep 2025 20:39:57 GMT | Bandit Level 20 — A Gateway to Networking and Setuid Binaries | Gregory Kovalchuk | [Read More](https://medium.com/p/e6f94606965f) |
-| Tue, 02 Sep 2025 20:38:44 GMT | Bug Bounty Checklist: A Practical Guide for Hunters | Curt Hayman, CEH | [Read More](https://medium.com/p/d10f1527a42a) |
-| Tue, 02 Sep 2025 20:30:00 GMT | MD2PDF- TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/4fbb309991ad) |
-| Tue, 02 Sep 2025 20:27:27 GMT | The Fear of the Answer — Why We Never Ask Certain Questions | Tami | [Read More](https://medium.com/p/129935509852) |
-| Tue, 02 Sep 2025 20:27:16 GMT | Unsafe File Upload → MIME Type Bypass | Cybersecplayground | [Read More](https://medium.com/p/0e9e80d9d23a) |
-| Tue, 02 Sep 2025 20:23:27 GMT | The Homeless Man’s Shared Cigarette: A Lesson in Unconditional Empathy | Wilson Igbasi | [Read More](https://medium.com/p/cac278c9c220) |
-| Tue, 02 Sep 2025 20:22:12 GMT | Simple CTF — Tryhackme Walkthrough  (THM) | Ammar Ahmed | [Read More](https://medium.com/p/033022c37515) |
-| Tue, 02 Sep 2025 20:20:33 GMT | Hack The Box “Editor” Walkthrough: XWiki RCE to Root | Sourabh Sharma | [Read More](https://medium.com/p/b1baf46b2d21) |
-| Tue, 02 Sep 2025 20:16:06 GMT | Not being okay, is okay. | Rithesh R Kumar | [Read More](https://medium.com/p/b576cdfd2948) |
-| Tue, 02 Sep 2025 20:13:53 GMT | Cybersecurity and the Unknown Unknowns: Why the Greatest Cyber Risks Are Off the Map | Juan Pablo Castro | [Read More](https://medium.com/p/bb65d4946c7c) |
-| Tue, 02 Sep 2025 20:12:45 GMT | Why Your Security Strategy Fails Without Python | Hex Shift | [Read More](https://medium.com/p/b89965931393) |
-| Tue, 02 Sep 2025 20:08:48 GMT | OSCP Preparation Series | Ahsan Ali Khan | [Read More](https://medium.com/p/29f914d7295f) |
-| Tue, 02 Sep 2025 19:46:46 GMT | A Step-by-Step Playbook for TaHiTI (Targeted Hunting with Threat Intelligence) | Sathish Sivaprakash | [Read More](https://medium.com/p/5106acdb37fd) |
