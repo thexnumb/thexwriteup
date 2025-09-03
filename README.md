@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 21:24:38 GMT | Exploring Microsoft Sentinel: KQL 201 — Beyond the Basics | Vedant Tapdiya | [Read More](https://medium.com/p/60efdd2930df) |
+| Wed, 03 Sep 2025 21:21:32 GMT | TryHackMe — Incident Response Fundamentals Writeup | Ulaş AKTAŞ | [Read More](https://medium.com/p/b0015669bc60) |
+| Wed, 03 Sep 2025 21:17:33 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/f829d9904e1c) |
 | Wed, 03 Sep 2025 21:17:11 GMT | Nichelle Nemo on 3 IT Trends Every Professional Should Watch in 2025 | Nichelle Nemo | [Read More](https://medium.com/p/75f7e3867818) |
 | Wed, 03 Sep 2025 20:52:33 GMT | When Keypads Give Away the Code: My Surprising Doctor’s Office Experience | InSync News | [Read More](https://medium.com/p/5b85060761a2) |
 | Wed, 03 Sep 2025 20:51:11 GMT | Vitals Exposed: How Cyber Threats Are Quietly Undermining Healthcare | CoopSys | [Read More](https://medium.com/p/75cc9dafc3b1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 15:13:13 GMT | TryHackMe - Session Forensics - WriteUp | Axoloth | [Read More](https://medium.com/p/53c5debed066) |
 | Wed, 03 Sep 2025 15:06:55 GMT | GOOG Stock: Everything Investors Need to Know | Motherlandlove | [Read More](https://medium.com/p/5cd6d0a6f4db) |
 | Wed, 03 Sep 2025 15:01:18 GMT | Meet Bandit: The Python Security Tool Devs Can’t Afford to Ignore in 2025 | Azeem Teli | [Read More](https://medium.com/p/045459525732) |
-| Wed, 03 Sep 2025 15:01:18 GMT | SQL Injection Attacks and Using sqlmap | Esra Kayhan | [Read More](https://medium.com/p/97e4fd8c2ede) |
-| Wed, 03 Sep 2025 14:59:17 GMT | CORS Explained: Stop Struggling with Cross-Origin Errors | Edgars Garsneks | [Read More](https://medium.com/p/48ebeafcb5df) |
-| Wed, 03 Sep 2025 14:59:00 GMT | [Vault] Naming practices for Vault Secret Store path | Sarvsav Sharma | [Read More](https://medium.com/p/9140cf3b3859) |
