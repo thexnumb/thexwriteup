@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 09:13:02 GMT | The Hidden Edge: Real-Time Pipelines Across Solana & EVM | mayor. | [Read More](https://medium.com/p/a64ab6a3dace) |
+| Wed, 03 Sep 2025 09:12:57 GMT | Best VAPT Testing Services In India -Strengthen Your Security | Gowthammathiew | [Read More](https://medium.com/p/0f0f9844a3b2) |
+| Wed, 03 Sep 2025 09:11:37 GMT | Automated Access Control Systems: A Complete Guide for IT and Security Leaders | SecureSlate | [Read More](https://medium.com/p/72455f4480fc) |
+| Wed, 03 Sep 2025 09:08:45 GMT | Financial Security or Vulnerability? Uncovering Cyber Threats and How to Address Them | ElegiMark | [Read More](https://medium.com/p/b449eb838806) |
+| Wed, 03 Sep 2025 09:02:52 GMT | Understanding Local Web Servers and Form Handling in Python (Educational Example) | Shayaan Khan | [Read More](https://medium.com/p/9d79afd9d026) |
+| Wed, 03 Sep 2025 09:00:25 GMT | Authenticating WebSocket Connections with JWT in Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/1c1abde963c5) |
+| Wed, 03 Sep 2025 09:00:22 GMT | Authenticating WebSocket Connections with JWT in Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/52df8dbfe34f) |
+| Wed, 03 Sep 2025 09:00:17 GMT | The VPN Trojan Horse: Why the Industry Isn’t Just Selling You Privacy, It’s Selling Your Trust | Hakan Özerdem | [Read More](https://medium.com/p/320730bacfc7) |
+| Wed, 03 Sep 2025 08:57:21 GMT | Why the Biggest Threat to AI Isn’t Hackers, It’s the CEOs Who Deploy It Blindly | Travis Ray Caverhill | [Read More](https://medium.com/p/3dee9f04b19a) |
+| Wed, 03 Sep 2025 08:56:24 GMT | Top 10 High Salary Computer Jobs in India — 2025 Career Guide | Viveksharma | [Read More](https://medium.com/p/e64c56ea42a5) |
+| Wed, 03 Sep 2025 08:55:47 GMT | TECH CHAOS: August 2025’s Most INSANE Stories That Broke the Internet | shiva shanker | [Read More](https://medium.com/p/50beb3513c8c) |
+| Wed, 03 Sep 2025 08:54:37 GMT | SQL Injection Deep Dive: Techniques, Tricks, Prevention & Python Secure Coding | Vaibhav Tiwari | [Read More](https://medium.com/p/9c1507c61aa3) |
+| Wed, 03 Sep 2025 08:53:50 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4af6e9a6dfdc) |
+| Wed, 03 Sep 2025 08:45:20 GMT | I Have Notes on Airport Security | Callum Sanders | [Read More](https://medium.com/p/a0c914182ee0) |
+| Wed, 03 Sep 2025 08:41:58 GMT | Apple Watch Series 10 vs Series 9: Biggest Differences Explained | Ivy Kelly | [Read More](https://medium.com/p/88450a26de68) |
 | Wed, 03 Sep 2025 08:38:51 GMT | First Review on Certified AI Security Professional (CAISP) course provided by Practical DevSecOps | Goli | [Read More](https://medium.com/p/ba376076755a) |
 | Wed, 03 Sep 2025 08:38:06 GMT | Friday OverTime Tryhackme Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/9a46f73dd099) |
 | Wed, 03 Sep 2025 08:36:12 GMT | Drosera: Building the Immune System of DeFi | Phantom | [Read More](https://medium.com/p/9e1ba3a30ec9) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 03:29:27 GMT | Smartbi Access Bypass Vulnerability Leads to Admin Takeover | Quella | [Read More](https://medium.com/p/6a293f8c9882) |
 | Wed, 03 Sep 2025 03:23:46 GMT | He just left. It’s not a love story. | Kakoli Aster♡ | [Read More](https://medium.com/p/df7b010331f5) |
 | Wed, 03 Sep 2025 03:23:08 GMT | Drosera: Architecting the Future of Decentralized Trust | Roman Lucien | [Read More](https://medium.com/p/44f9b43ed0ce) |
-| Wed, 03 Sep 2025 03:21:57 GMT | I Built a Password Cracker and What It Revealed Will Change How You Think About Security Forever | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/c5d4fb5992bf) |
-| Wed, 03 Sep 2025 03:12:29 GMT | I Built a Password Cracker and What It Revealed Will Change How You Think About Security Forever | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/534d4309ecae) |
-| Wed, 03 Sep 2025 03:08:09 GMT | # Breaking Down Malware and Application Attacks: A Hands-On Security+ Lab | Adrian Gonzalez | [Read More](https://medium.com/p/ae7067cb9641) |
-| Wed, 03 Sep 2025 03:04:30 GMT | Nail the CISM: Your 60-Day Journey to Becoming a Certified Information Security Manager | Cybernous Infosec consulting | [Read More](https://medium.com/p/352969521fca) |
-| Wed, 03 Sep 2025 02:48:24 GMT | OpenEDR (ComodoSecurity) | Raghavvram | [Read More](https://medium.com/p/958b1b9dcc17) |
-| Wed, 03 Sep 2025 02:40:23 GMT | Classic Crackme 0x100 picoCTF | Michael Elfauz | [Read More](https://medium.com/p/b880068a3585) |
-| Wed, 03 Sep 2025 02:22:03 GMT | TryHackMe Walkthrough: Startup | Indigo Shadow | [Read More](https://medium.com/p/013bf93de66d) |
-| Wed, 03 Sep 2025 02:21:11 GMT | The Future of DeFi with Drosera Network | Ore | [Read More](https://medium.com/p/787f9483e1a1) |
-| Wed, 03 Sep 2025 02:14:47 GMT | The SME Cybersecurity Shift: Why Identity-First, AI-Aware Security Is Winning | Roger Millar | [Read More](https://medium.com/p/b13cdf8b078e) |
-| Wed, 03 Sep 2025 02:07:50 GMT | How 29,000 LinkedIn Followers & 100,000 Facebook Readers Changed My Perspective on Cybersecurity | Dr. Deep Pandey | [Read More](https://medium.com/p/d66e829a6eda) |
-| Wed, 03 Sep 2025 02:01:57 GMT | Over 30,000 Malicious IPs Target Microsoft Remote Desktop in Global Surge | SafetyDetectives Research Team | [Read More](https://medium.com/p/9201019a3e7e) |
-| Wed, 03 Sep 2025 01:33:15 GMT | Pihole — Advanced Use Cases | Greg Heffner | [Read More](https://medium.com/p/1392ba933699) |
-| Wed, 03 Sep 2025 01:24:13 GMT | Manipulating India’s Stock Market: The GST Portal Data Leak | Aseem Shrey (@aseemshrey) | [Read More](https://medium.com/p/b5437c817071) |
-| Wed, 03 Sep 2025 01:22:26 GMT | The Silent Script: PowerShell’s Double Life in the Dark | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/c0bd2a457f66) |
-| Wed, 03 Sep 2025 01:07:41 GMT | How to Protect Your Database from SQL Injection? | Wan-Yi Lee | [Read More](https://medium.com/p/18dbbee9735c) |
