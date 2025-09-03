@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 15:06:55 GMT | GOOG Stock: Everything Investors Need to Know | Motherlandlove | [Read More](https://medium.com/p/5cd6d0a6f4db) |
+| Wed, 03 Sep 2025 15:01:18 GMT | Meet Bandit: The Python Security Tool Devs Can’t Afford to Ignore in 2025 | Azeem Teli | [Read More](https://medium.com/p/045459525732) |
+| Wed, 03 Sep 2025 15:01:18 GMT | SQL Injection Attacks and Using sqlmap | Esra Kayhan | [Read More](https://medium.com/p/97e4fd8c2ede) |
+| Wed, 03 Sep 2025 14:59:17 GMT | CORS Explained: Stop Struggling with Cross-Origin Errors | Edgars Garsneks | [Read More](https://medium.com/p/48ebeafcb5df) |
+| Wed, 03 Sep 2025 14:59:00 GMT | [Vault] Naming practices for Vault Secret Store path | Sarvsav Sharma | [Read More](https://medium.com/p/9140cf3b3859) |
+| Wed, 03 Sep 2025 14:58:28 GMT | When Trusted Software Turns Traitor | Aj | [Read More](https://medium.com/p/300368b05858) |
+| Wed, 03 Sep 2025 14:57:30 GMT | Can You Really Rely on Others for Security? | Lilyana | [Read More](https://medium.com/p/335e959c62a4) |
+| Wed, 03 Sep 2025 14:55:01 GMT | Intro to Log Analysis — TryHackMe — Write-up | Forrest Caffray | [Read More](https://medium.com/p/757fb9566ab7) |
+| Wed, 03 Sep 2025 14:54:38 GMT | “Day 27: The IDOR Epidemic — How Changing a Single Number Unlocked a Million User Profiles” | Aman Sharma | [Read More](https://medium.com/p/dc5671893d92) |
+| Wed, 03 Sep 2025 14:47:37 GMT | Secure Your School with SentryPC Cyber Security Solutions | Paul Meyer | [Read More](https://medium.com/p/b88e015b0ebd) |
+| Wed, 03 Sep 2025 14:47:16 GMT | Protecting Against Rogue Firmware Updates | Karthikeyan Nagaraj | [Read More](https://medium.com/p/02738d7d908f) |
+| Wed, 03 Sep 2025 14:45:14 GMT | Writing Sigma Rules | Luke | [Read More](https://medium.com/p/fdb18c79948f) |
 | Wed, 03 Sep 2025 14:35:12 GMT | Chasing the Buzz: How Rushed Innovation Leaves Us Vulnerable | Harold Moss | [Read More](https://medium.com/p/b0e4ebd7c382) |
 | Wed, 03 Sep 2025 14:33:10 GMT | Jaringan Komputer : Dasar Routing dan Switching | Yasa Wijaya | [Read More](https://medium.com/p/16b1b0aa8b99) |
 | Wed, 03 Sep 2025 14:32:11 GMT | How to Shop for a Pentesting Vendor: A Complete Guide for Security Buyers | Sprocket Security | [Read More](https://medium.com/p/b1e635d9319f) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 10:29:12 GMT | 10 Best Free Hosting Options for Government Websites in 2025 ️ | Kanika Mehtah | [Read More](https://medium.com/p/952fd3788290) |
 | Wed, 03 Sep 2025 10:26:44 GMT | Web Design Leeds: Building Your Brand Online | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/f5f7238c0c54) |
 | Wed, 03 Sep 2025 10:25:45 GMT | HCIS in Saudi Arabia Your Complete Guide to High Commission for Industrial Security | Hitechfence | [Read More](https://medium.com/p/5acac54230b8) |
-| Wed, 03 Sep 2025 10:24:08 GMT | Simplify Compliance & Security with AI-Powered GRC | Cisogenemarketing | [Read More](https://medium.com/p/9235e2bb834a) |
-| Wed, 03 Sep 2025 10:22:26 GMT | Where the Tides Know Our Names | Printique studios | [Read More](https://medium.com/p/74e117592119) |
-| Wed, 03 Sep 2025 10:22:12 GMT | 10 Best Secure Hosting Providers for Tutoring Marketplace Websites | Jasmeet  Kaur | [Read More](https://medium.com/p/a5c64b6a7f0f) |
-| Wed, 03 Sep 2025 10:21:10 GMT | We are not thinking about Polymorphic Extensions Enough | h@shtalk | [Read More](https://medium.com/p/4ba60f986212) |
-| Wed, 03 Sep 2025 10:20:31 GMT | Reducing Security Risk Through Proactive Configuration Management | Abdullateef Hameed | [Read More](https://medium.com/p/4900b2fb8a48) |
-| Wed, 03 Sep 2025 10:17:41 GMT | Log Operations — TryHackMe — Write-up | Forrest Caffray | [Read More](https://medium.com/p/7a1ed2554f46) |
-| Wed, 03 Sep 2025 10:17:29 GMT | Bludgeoned Buzzwords: Thought Leadership | Namir Sagheenanajar | [Read More](https://medium.com/p/05584bde7bb6) |
-| Wed, 03 Sep 2025 10:15:27 GMT | What Makes Phishing Simulation Tools Essential for Indian Firms | Noahlucas | [Read More](https://medium.com/p/7bec8ae65c4d) |
-| Wed, 03 Sep 2025 10:07:45 GMT | What are some common security practices in Python web applications? | Bhanuloya | [Read More](https://medium.com/p/394aebc07178) |
-| Wed, 03 Sep 2025 10:07:41 GMT | New TinyLoader Malware Attacking Windows Users Via Network Shares and Fake Shortcuts Files | Jasmitharouthu | [Read More](https://medium.com/p/2d944fd7da67) |
-| Wed, 03 Sep 2025 10:04:59 GMT | Why Your SME Needs a Trusted IT Services Provider for Small and Medium Businesses | vGics Global LLP | [Read More](https://medium.com/p/5b7ecdac440e) |
-| Wed, 03 Sep 2025 10:01:31 GMT | 3 Things to Do Before You Open Any Attachment | Evgeny Ermakov | [Read More](https://medium.com/p/3f5e992c2d8c) |
