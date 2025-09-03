@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 04:39:24 GMT | CISA Warns of 3 New Actively Exploited Flaws — Including Critical Git Vulnerability | Aj | [Read More](https://medium.com/p/24d2236e4c9f) |
+| Wed, 03 Sep 2025 04:32:40 GMT | Weirdest bug in Microsoft Fabric | Shresth Shukla | [Read More](https://medium.com/p/0fc7c05d6584) |
+| Wed, 03 Sep 2025 04:25:45 GMT | From Airport to Hotel: A Seamless Facial Recognition Journey in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/615924f69748) |
 | Wed, 03 Sep 2025 04:14:38 GMT | KLCC Tower — Boot2Root Writeup (3108CTF: Bayang Satria) | CyberFaez | [Read More](https://medium.com/p/ebda5399da01) |
 | Wed, 03 Sep 2025 04:11:39 GMT | Why Cybersecurity Awareness Training Is Your Best Defense Against Hackers (2025 Guide) | Secventra | [Read More](https://medium.com/p/f7e3a5a488ba) |
 | Wed, 03 Sep 2025 04:08:54 GMT | Towards Autonomous, Trustworthy Cyber Defense: The Future of DevSecOps & AI | Rachid Abadli | [Read More](https://medium.com/p/b913117be380) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 19:08:15 GMT | Kali Linux -- Gelişme | Mustafa Gunay | [Read More](https://medium.com/p/1a125c891ee1) |
 | Tue, 02 Sep 2025 19:08:00 GMT | ️ A Beginner’s Guide to Building Your Cybersecurity Portfolio | Mohammed Fahad | [Read More](https://medium.com/p/06aba8234bfa) |
 | Tue, 02 Sep 2025 19:03:43 GMT | Workday Data Breach — Lessons in Third-Party and Social Engineering Security | Ujjavalsolanki | [Read More](https://medium.com/p/3f45ff6ffa41) |
-| Tue, 02 Sep 2025 19:00:37 GMT | Why HTTPS Doesn’t Actually Protect You (From the Real Threats) | Sohail Saifi | [Read More](https://medium.com/p/bb409f6097d6) |
-| Tue, 02 Sep 2025 18:59:59 GMT | Applying K-Means Clustering for Vulnerability Prioritization | Patrick Lefler | [Read More](https://medium.com/p/a7f8ae854bbf) |
-| Tue, 02 Sep 2025 18:52:58 GMT | AI Sleeper Agents — The Digital Espionage | Siddharth Saraf | [Read More](https://medium.com/p/36a0d9c075cd) |
