@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 19:10:53 GMT | Holding On to My Passions: Why Dreams Matter More Than “Reality” | Starlight S | [Read More](https://medium.com/p/3094bc7a9101) |
+| Wed, 03 Sep 2025 19:09:19 GMT | Harnessing Google Threat Intelligence for Smarter Security Operations | Parth Modi | [Read More](https://medium.com/p/c1f856cf93dd) |
+| Wed, 03 Sep 2025 19:02:17 GMT | The End of Privacy: Why You Already Lost the Battle | The Dev Notebook | [Read More](https://medium.com/p/1d6b66da294c) |
+| Wed, 03 Sep 2025 18:59:45 GMT | # GPS Sahtekarlığı ve Konum Yönlendirme Araştırması | Burak BALTA | [Read More](https://medium.com/p/d9608fd63a5a) |
+| Wed, 03 Sep 2025 18:59:25 GMT | Praktikum Internet of Things: Mengenal Komponen pada Arduino Kit | Muhammad Surya Saputro | [Read More](https://medium.com/p/b33945e3bf18) |
+| Wed, 03 Sep 2025 18:56:42 GMT | # Drone C2 Research: Security, Threats, and Mitigation | Burak BALTA | [Read More](https://medium.com/p/863138336959) |
+| Wed, 03 Sep 2025 18:55:50 GMT | “Stealthy Images”: خطر خفي في صور الذكاء الاصطناعي يُهدد بياناتك الشخصية | Mohamed Swidan | [Read More](https://medium.com/p/d122eac414b2) |
+| Wed, 03 Sep 2025 18:52:53 GMT | OS2 Binary Bomb Lab: Phase 6 | Sourav Bose | [Read More](https://medium.com/p/cc79049963b0) |
+| Wed, 03 Sep 2025 18:45:27 GMT | # RFID in Building Access Security: Technology, Threats, and Mitigation | Burak BALTA | [Read More](https://medium.com/p/60b72cd243a1) |
 | Wed, 03 Sep 2025 18:38:49 GMT | Unhackable? The Reality Behind Maduro’s Huawei Claim | Yusuf Asan | [Read More](https://medium.com/p/4e8a56e1f2ed) |
 | Wed, 03 Sep 2025 18:34:26 GMT | L’Éducation en France en 2025 : Entre Réformes et Réalités | Lymra | [Read More](https://medium.com/p/900e887efb84) |
 | Wed, 03 Sep 2025 18:34:17 GMT | Student’s Guide to Starting a CyberSecurity Career — Before It’s Too Late | Azhariqbal | [Read More](https://medium.com/p/9ad7fe37be3c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 14:25:19 GMT | The EU Cyber Resilience Act: The Manufacturer’s Dilemma and the Strategic Path Forward | martino.agostini | [Read More](https://medium.com/p/b5030b11d7dc) |
 | Wed, 03 Sep 2025 14:23:15 GMT | Why and How to Create Audit Reports for Third-Party API Successes and Failures in Your .NET App | Venkataramana | [Read More](https://medium.com/p/8d3c4dd65e73) |
 | Wed, 03 Sep 2025 14:18:57 GMT | Banking Trojans: How They Steal Data and How to Stay Safe | Keepnet Labs | [Read More](https://medium.com/p/1157d37bb241) |
-| Wed, 03 Sep 2025 14:09:32 GMT | Securing a Web Wallet | Lute Wallet | [Read More](https://medium.com/p/e40c7a63f54a) |
-| Wed, 03 Sep 2025 14:07:07 GMT | MFA Fatigue: The Cyber Attack Exploiting Human Weakness | Omex Oleksandr | [Read More](https://medium.com/p/c0e912244de2) |
-| Wed, 03 Sep 2025 14:03:59 GMT | 1. Existence d’un protocole de coordination civil/militaire | Jean | [Read More](https://medium.com/p/d5a2ca699ded) |
-| Wed, 03 Sep 2025 14:01:45 GMT | Cyber Briefing: 2025.09.03 | CyberMaterial | [Read More](https://medium.com/p/711aef842b76) |
-| Wed, 03 Sep 2025 14:01:44 GMT | Cybersecurity Policy Hierarchies: A Quick Guide | abdeldayemnour | [Read More](https://medium.com/p/39db4ec097f7) |
-| Wed, 03 Sep 2025 13:59:29 GMT | RedLine Malware Exploits Omicron: Protecting Users with Security Awareness | Keepnet Labs | [Read More](https://medium.com/p/2fe318022d0a) |
-| Wed, 03 Sep 2025 13:54:11 GMT | OverTheWire Bandit Level 5 → Level 6 — Complete Walkthrough | ayub_91 | [Read More](https://medium.com/p/d5573eed8e03) |
-| Wed, 03 Sep 2025 13:53:44 GMT | Best Cyber Security Course Online in 2025 Skills, Career Growth & Why It MattersBest Cyber… | Testleaf | [Read More](https://medium.com/p/4c7fc9cfa444) |
-| Wed, 03 Sep 2025 13:50:27 GMT | How AI Became Cybercrime’s Sharpest Weapon | David SEHYEON Baek | [Read More](https://medium.com/p/084a71507e99) |
