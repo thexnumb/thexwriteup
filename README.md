@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 05:13:37 GMT | Beyond the Firewall: Why Human Error is Still the Weakest Link | Shahzaib | [Read More](https://medium.com/p/7a4775b4dc7b) |
+| Wed, 03 Sep 2025 05:13:09 GMT | 3D Secure (3DS) in Card Payments | Vikas Pandey | [Read More](https://medium.com/p/1dc5e042c0a6) |
+| Wed, 03 Sep 2025 05:07:46 GMT | Securing Your Future: Study Master’s in Cybersecurity in the USA | Shreetu Mohanty | [Read More](https://medium.com/p/cae997c10ef3) |
+| Wed, 03 Sep 2025 05:05:59 GMT | How to Easily Generate Your Odoo API Key in 4 Simple Steps | HSxTech | [Read More](https://medium.com/p/ed80ff5b987a) |
+| Wed, 03 Sep 2025 05:01:59 GMT | This Week’s Cyber Unraveling | Aj | [Read More](https://medium.com/p/6f6f0482079b) |
+| Wed, 03 Sep 2025 05:01:28 GMT | 10. Hunting for IDORs: The Most Underrated Vulnerability | Abhijeet kumawat | [Read More](https://medium.com/p/9567ebf97585) |
+| Wed, 03 Sep 2025 04:57:23 GMT | Day 2 of AI Security: Unmasking the OWASP LLM Top 10 Threats — and Why They Matter | Maghnaa Sathish Kumar | [Read More](https://medium.com/p/aa57d39cc007) |
+| Wed, 03 Sep 2025 04:55:32 GMT | How to Secure Your Flutter App in 2025 (with OWASP + Libraries + Code Examples) | Mr Vijaysharma | [Read More](https://medium.com/p/86a8904a9f28) |
+| Wed, 03 Sep 2025 04:47:45 GMT | The Buzzer - Hackerverse CTF Writeup | CyberFaez | [Read More](https://medium.com/p/b11ead0381f6) |
 | Wed, 03 Sep 2025 04:39:24 GMT | CISA Warns of 3 New Actively Exploited Flaws — Including Critical Git Vulnerability | Aj | [Read More](https://medium.com/p/24d2236e4c9f) |
+| Wed, 03 Sep 2025 04:32:44 GMT | File Upload in Laravel — A Beginner-Friendly Guide | Rohit Dhiman | [Read More](https://medium.com/p/73952ed5a34a) |
 | Wed, 03 Sep 2025 04:32:40 GMT | Weirdest bug in Microsoft Fabric | Shresth Shukla | [Read More](https://medium.com/p/0fc7c05d6584) |
 | Wed, 03 Sep 2025 04:25:45 GMT | From Airport to Hotel: A Seamless Facial Recognition Journey in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/615924f69748) |
 | Wed, 03 Sep 2025 04:14:38 GMT | KLCC Tower — Boot2Root Writeup (3108CTF: Bayang Satria) | CyberFaez | [Read More](https://medium.com/p/ebda5399da01) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Sep 2025 19:38:41 GMT | Proactive Cyber Diplomacy: Anticipating Conflict in the Digital Age | CCD-IS | [Read More](https://medium.com/p/777b6b41d160) |
 | Tue, 02 Sep 2025 19:38:28 GMT | 100+ cybersecurity statistics published in July and August 2025 | CyberSecStats | [Read More](https://medium.com/p/d00173430c65) |
 | Tue, 02 Sep 2025 19:36:24 GMT | Sysmon ve Threat Hunting süreçleri | Eren izyat | [Read More](https://medium.com/p/972c6a6e1555) |
-| Tue, 02 Sep 2025 19:32:14 GMT | TryHackMe OhSINT: OSINT and the Risks of an Unsecure Online Presence | William Kunesh | [Read More](https://medium.com/p/4186425a9ab9) |
-| Tue, 02 Sep 2025 19:18:01 GMT | واش المغرب خاصو يستورد التكنولوجيا الحربية من Elbit؟ | Soufiane Habti | [Read More](https://medium.com/p/b9baaf40178a) |
-| Tue, 02 Sep 2025 19:17:39 GMT | [Part 3] Security by Design: How the CRA Turns Compliance Into Competitive Advantage | Cyberkech | [Read More](https://medium.com/p/8adcf1c0d775) |
-| Tue, 02 Sep 2025 19:17:17 GMT | Enterprise AI Deployment for Cybersecurity Companies | Khaled Eid Abdulaziz | [Read More](https://medium.com/p/7b55a95078fc) |
-| Tue, 02 Sep 2025 19:15:35 GMT | I Lost To Luxe Markets _ Here Is How I Got My Money Back | Cunha | [Read More](https://medium.com/p/c4c2683ec02f) |
-| Tue, 02 Sep 2025 19:13:53 GMT | Hybrid VM Walkthrough | Spookz | [Read More](https://medium.com/p/de9ed9ecad9a) |
-| Tue, 02 Sep 2025 19:13:20 GMT | I Got Scammed By Luxe Markets _ Here Is How I Recovered My Money | Cunha | [Read More](https://medium.com/p/758d12f2cd53) |
-| Tue, 02 Sep 2025 19:08:15 GMT | Kali Linux -- Gelişme | Mustafa Gunay | [Read More](https://medium.com/p/1a125c891ee1) |
-| Tue, 02 Sep 2025 19:08:00 GMT | ️ A Beginner’s Guide to Building Your Cybersecurity Portfolio | Mohammed Fahad | [Read More](https://medium.com/p/06aba8234bfa) |
-| Tue, 02 Sep 2025 19:03:43 GMT | Workday Data Breach — Lessons in Third-Party and Social Engineering Security | Ujjavalsolanki | [Read More](https://medium.com/p/3f45ff6ffa41) |
