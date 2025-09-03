@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 22:32:34 GMT | Será que preciso instalar uma biblioteca para respirar? | Kleber Andrade | [Read More](https://medium.com/p/2fbea203d6e9) |
+| Wed, 03 Sep 2025 22:24:40 GMT | ️ Multi-Brand / Multi-Tenant Pentest Checklist | BugHunter021 | [Read More](https://medium.com/p/d9178868c40f) |
+| Wed, 03 Sep 2025 22:24:38 GMT | Can Your Security Stack See ChatGPT? Why Network Visibility Matters | Cyber-AppSec | [Read More](https://medium.com/p/d733636afbbe) |
+| Wed, 03 Sep 2025 22:17:28 GMT | Building a Continuous Red Team with Automation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cd300adf5662) |
 | Wed, 03 Sep 2025 22:15:40 GMT | Identification and Authentication Failures (OWASP Top 10 #7) — Simplified | Chai | [Read More](https://medium.com/p/255da755a056) |
 | Wed, 03 Sep 2025 22:13:50 GMT | NucAIScan: AI-Assisted Web Application Security Scanner | Onurcan Genç | [Read More](https://medium.com/p/60007bdcd571) |
 | Wed, 03 Sep 2025 22:13:20 GMT | Surveillance Everywhere: The Surprising Truth About Your Connected Life | Om Kinkhabwala | [Read More](https://medium.com/p/2954e1e12465) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 16:04:51 GMT | The Time Zone That Produces the Fewest Bugs (And Why It’s Not What You Think) | Sohail x Codes | [Read More](https://medium.com/p/57161ace9ee4) |
 | Wed, 03 Sep 2025 16:00:52 GMT | How to Start in Cybersecurity (My Journey & Beginner Roadmap) | Cybernerddd | [Read More](https://medium.com/p/5e9c9f13dc0d) |
 | Wed, 03 Sep 2025 15:47:00 GMT | Brazil’s $130M Cyberattack Attempt: Lessons for Global Payment Security | Technijian | [Read More](https://medium.com/p/c11f4b2d8e22) |
-| Wed, 03 Sep 2025 15:46:18 GMT | The Real Risk of AI Nobody Wants to Talk About | Vijay Kumar Gupta | [Read More](https://medium.com/p/a849ea7197d7) |
-| Wed, 03 Sep 2025 15:43:04 GMT | Zero Trust, Maximum Confusion: Why Security’s Hottest Buzzword Is Missing the Point | Eric Zietlow | [Read More](https://medium.com/p/1be1695b8669) |
-| Wed, 03 Sep 2025 15:37:41 GMT | Unlock the Power of BUG BUG Rewards | BUG | [Read More](https://medium.com/p/f3a2066cbc66) |
-| Wed, 03 Sep 2025 15:35:36 GMT | Cisco Smart Install — PORT 4786 — how to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/a5d91b43f35f) |
