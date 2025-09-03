@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 13:17:58 GMT | Beyond the Textbook: How I Built a Real Security Operations Center from Scratch | Asmitdesai | [Read More](https://medium.com/p/0a0ea51b40af) |
+| Wed, 03 Sep 2025 13:16:35 GMT | A new foundation for Quantum Cryptography | Sarah Alhajri | [Read More](https://medium.com/p/59d4ad0b60d1) |
+| Wed, 03 Sep 2025 13:10:16 GMT | Smarter Security: Are AI-Powered Firewalls the Future of Cyber Defense | Cordula Boeck | [Read More](https://medium.com/p/f8eeb2b11a9d) |
+| Wed, 03 Sep 2025 13:09:22 GMT | Bandit Wargame Walkthrough - OverTheWire CTF (Level 4- 5)- Hacking for Beginners -Step-by-Step | ayub_91 | [Read More](https://medium.com/p/1087694dc798) |
+| Wed, 03 Sep 2025 13:06:48 GMT | The Overlooked Side of Bug Bounties: Hidden Vulnerabilities Beginners Ignore | Nitin yadav | [Read More](https://medium.com/p/71b0aacbc6c8) |
+| Wed, 03 Sep 2025 13:01:48 GMT | I hacked a huge graphic designer in Nigeria. | The Onyx Effect | [Read More](https://medium.com/p/5e2ee95657e8) |
+| Wed, 03 Sep 2025 12:56:32 GMT | Hunting Spies, Not Just Hackers: How Geopolitical Tensions Are Reshaping the Cyber Threat Landscape | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/6719ad80f843) |
+| Wed, 03 Sep 2025 12:56:17 GMT | ️Rate Limit Bypass via Email Case Manipulation in Password Reset Endpoint | Kareem Husein Abdelhameed | [Read More](https://medium.com/p/d725a2173c4a) |
+| Wed, 03 Sep 2025 12:55:28 GMT | Hammer - TryHackMe Writeup - THM | Jerónimo Miras | [Read More](https://medium.com/p/8479833e4641) |
+| Wed, 03 Sep 2025 12:54:20 GMT | Network Topology Analysis: [Lab LR.1.03] Infrastructure Assessment | Zifa Tea Azzahra | [Read More](https://medium.com/p/f3936991ba87) |
+| Wed, 03 Sep 2025 12:50:12 GMT | The Problem with Web3 Rewards and How ORYX Solves It | Oryx | [Read More](https://medium.com/p/077116a1a052) |
+| Wed, 03 Sep 2025 12:47:10 GMT | Stop 3 a.m. Pager Fires: 6 IaC Security Tools That Actually Catch Template Vulnerabilities | Iliya Garakh | [Read More](https://medium.com/p/f446444e70f3) |
+| Wed, 03 Sep 2025 12:42:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/f3513fd1faab) |
+| Wed, 03 Sep 2025 12:41:10 GMT | Removing Snowflake Secrets from your GitHub Workflows | Rory Donaldson | [Read More](https://medium.com/p/e2c6a6ea93ea) |
 | Wed, 03 Sep 2025 12:40:51 GMT | Why Zero Trust Security is Now Non-Negotiable | R A N A   A H M A D | [Read More](https://medium.com/p/636855fb41b4) |
+| Wed, 03 Sep 2025 12:40:43 GMT | Google’s “Gmail Hack” Headlines! Should You Be Worried (& How Much)? | Navkiran Dhaliwal | [Read More](https://medium.com/p/b873d5360dba) |
+| Wed, 03 Sep 2025 12:36:37 GMT | Running Secure Kubernetes (GKE) Workloads in GCP | Neel Shah | [Read More](https://medium.com/p/0986d8fdda93) |
 | Wed, 03 Sep 2025 12:33:45 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/45f8f1f3101b) |
 | Wed, 03 Sep 2025 12:26:27 GMT | How AI Security Operations & Threat Management Services Support Proactive Defense | sanya | [Read More](https://medium.com/p/31545761ab52) |
 | Wed, 03 Sep 2025 12:20:25 GMT | AED fwectf 2025 | Samuel Jack | [Read More](https://medium.com/p/8eca0e8fc235) |
@@ -97,19 +113,3 @@ Exposure of Surveillance Cameras | ZoomEye | [Read More](https://medium.com/p/11
 | Wed, 03 Sep 2025 08:54:37 GMT | SQL Injection Deep Dive: Techniques, Tricks, Prevention & Python Secure Coding | Vaibhav Tiwari | [Read More](https://medium.com/p/9c1507c61aa3) |
 | Wed, 03 Sep 2025 08:53:50 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4af6e9a6dfdc) |
 | Wed, 03 Sep 2025 08:45:20 GMT | I Have Notes on Airport Security | Callum Sanders | [Read More](https://medium.com/p/a0c914182ee0) |
-| Wed, 03 Sep 2025 08:41:58 GMT | Apple Watch Series 10 vs Series 9: Biggest Differences Explained | Ivy Kelly | [Read More](https://medium.com/p/88450a26de68) |
-| Wed, 03 Sep 2025 08:38:51 GMT | First Review on Certified AI Security Professional (CAISP) course provided by Practical DevSecOps | Goli | [Read More](https://medium.com/p/ba376076755a) |
-| Wed, 03 Sep 2025 08:38:06 GMT | Friday OverTime Tryhackme Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/9a46f73dd099) |
-| Wed, 03 Sep 2025 08:36:12 GMT | Drosera: Building the Immune System of DeFi | Phantom | [Read More](https://medium.com/p/9e1ba3a30ec9) |
-| Wed, 03 Sep 2025 08:30:53 GMT | ประจำวันพุธที่ 3 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/73c4d6a08aa4) |
-| Wed, 03 Sep 2025 08:28:27 GMT | Understanding Cybersecurity: Architecture, Technologies, and Flows | Vanshi Dalal | [Read More](https://medium.com/p/797b14acb6c2) |
-| Wed, 03 Sep 2025 08:21:08 GMT | The Four Pillars of Trust in AI: How Google Cloud Builds a Responsible AI Ecosystem | Shiva_kalyankar | [Read More](https://medium.com/p/1f10f15ab377) |
-| Wed, 03 Sep 2025 08:20:48 GMT | Building AI Models from Scratch: A Step-by-Step Guide | Prasanna Kumar | [Read More](https://medium.com/p/f61c409158d5) |
-| Wed, 03 Sep 2025 08:10:33 GMT | Apple Watch Series 10 Review: Early Hands-On & Key Upgrades | Diya Afrin | [Read More](https://medium.com/p/3a1d66f6c38b) |
-| Wed, 03 Sep 2025 08:07:40 GMT | Python - Code Notes | Estanislau Zhupanyk | [Read More](https://medium.com/p/97eaf74069a4) |
-| Wed, 03 Sep 2025 08:01:46 GMT | Stop Employee Account Takeovers With Plain-Text Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/b6d4b99e04d0) |
-| Wed, 03 Sep 2025 08:01:39 GMT | [Part 3] The Difference Between Traditional Cybersecurity and AI-Powered Security | Cyberkech | [Read More](https://medium.com/p/a29580b73fc6) |
-| Wed, 03 Sep 2025 07:59:30 GMT | long slash directory listing | Cyber Gee | [Read More](https://medium.com/p/67220d73040f) |
-| Wed, 03 Sep 2025 07:58:37 GMT | Why Choosing the Right Edtech Company or Institute for Data Science, Cyber Security & Digital… | Shobhit bhardwaj | [Read More](https://medium.com/p/16d18a2867b3) |
-| Wed, 03 Sep 2025 07:57:48 GMT | Cada feature es una decisión. Cada decisión, una posible grieta. | Gorka | [Read More](https://medium.com/p/3ba14ee1bac8) |
-| Wed, 03 Sep 2025 07:54:39 GMT | Top 5 Free Courses to Master SIEM and SOC | Rashadul Islam | [Read More](https://medium.com/p/f869edd698ec) |
