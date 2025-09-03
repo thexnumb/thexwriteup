@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 08:10:33 GMT | Apple Watch Series 10 Review: Early Hands-On & Key Upgrades | Diya Afrin | [Read More](https://medium.com/p/3a1d66f6c38b) |
+| Wed, 03 Sep 2025 08:07:40 GMT | Python - Code Notes | Estanislau Zhupanyk | [Read More](https://medium.com/p/97eaf74069a4) |
+| Wed, 03 Sep 2025 08:01:46 GMT | Stop Employee Account Takeovers With Plain-Text Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/b6d4b99e04d0) |
+| Wed, 03 Sep 2025 08:01:39 GMT | [Part 3] The Difference Between Traditional Cybersecurity and AI-Powered Security | Cyberkech | [Read More](https://medium.com/p/a29580b73fc6) |
+| Wed, 03 Sep 2025 07:59:30 GMT | long slash directory listing | Cyber Gee | [Read More](https://medium.com/p/67220d73040f) |
+| Wed, 03 Sep 2025 07:58:37 GMT | Why Choosing the Right Edtech Company or Institute for Data Science, Cyber Security & Digital… | Shobhit bhardwaj | [Read More](https://medium.com/p/16d18a2867b3) |
+| Wed, 03 Sep 2025 07:57:48 GMT | Cada feature es una decisión. Cada decisión, una posible grieta. | Gorka | [Read More](https://medium.com/p/3ba14ee1bac8) |
+| Wed, 03 Sep 2025 07:54:39 GMT | Top 5 Free Courses to Master SIEM and SOC | Rashadul Islam | [Read More](https://medium.com/p/f869edd698ec) |
+| Wed, 03 Sep 2025 07:53:52 GMT | How a Law Office Website in NJ Got Hacked — And What We Learned | Top Support -  Servers - DNS - TRAFFIC - WEBDEV | [Read More](https://medium.com/p/75b59f5e4df3) |
+| Wed, 03 Sep 2025 07:49:30 GMT | Google Cloud’s Meltdown: When the Policy Engine Eats Itself | IsaacFabianK | [Read More](https://medium.com/p/e0ea60149a39) |
+| Wed, 03 Sep 2025 07:35:16 GMT | Explore the Top Study Programs in Australia for Global Students | royalinternational | [Read More](https://medium.com/p/be369d74caf9) |
 | Wed, 03 Sep 2025 07:24:33 GMT | Shamans and Engineers: How Technology Became Our New Ritual | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/6a7c63f85bcd) |
 | Wed, 03 Sep 2025 07:23:22 GMT | NIST’s Role in Defining Cloud Computing Architecture | Qualysec | [Read More](https://medium.com/p/a22abee41609) |
 | Wed, 03 Sep 2025 07:21:49 GMT | New SSL/TLS Certificate Guidelines: Shorter Lifetimes, Smarter Automation | Vineeth Tunk | [Read More](https://medium.com/p/6ddd19b09724) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 00:52:37 GMT | The Ruins of Us | Deborah Ôr | [Read More](https://medium.com/p/a332670fb4d0) |
 | Wed, 03 Sep 2025 00:51:48 GMT | Building Identity Management for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/10f3c547eb02) |
 | Wed, 03 Sep 2025 00:49:09 GMT | CRTP: RED TEAMING EN ACTIVE DIRECTORY CON LOTL | Erick | [Read More](https://medium.com/p/cf9453f7e8a6) |
-| Wed, 03 Sep 2025 00:47:52 GMT | Building Identity Management for Organizations | Cyber Security Research | [Read More](https://medium.com/p/a9a615dfa3d6) |
-| Wed, 03 Sep 2025 00:42:05 GMT | Pika AI Hacks: How to Get Reliable Video Outputs Without Paying for Pro | Myron | [Read More](https://medium.com/p/d0be5f698224) |
-| Wed, 03 Sep 2025 00:41:54 GMT | Implementing Zero Trust Architecture in Azure with Bicep | Rodrigo Bercocano do Amaral | [Read More](https://medium.com/p/dbe313465bbb) |
-| Wed, 03 Sep 2025 00:41:45 GMT | Cloud Security Fundamentals: IAM, RBAC, PoLP, and more… | Ryan G. Cox | [Read More](https://medium.com/p/2463818b3656) |
-| Wed, 03 Sep 2025 00:40:47 GMT | Took me down a wormhole — Microsoft spam/phishing attempt from a German-Hungary based IP/Host… | Bob Malin | [Read More](https://medium.com/p/f10fbe06de43) |
-| Wed, 03 Sep 2025 00:31:08 GMT | How I Migrated My Cloud Engineer Portfolio to AWS with S3, CloudFront, Route 53 & GitHub Actions… | Pascal Attama | [Read More](https://medium.com/p/4e38c5831341) |
-| Wed, 03 Sep 2025 00:29:22 GMT | ✈️ I Tried Hacking a Flight Booking API — Here’s What I Found (or Didn’t ) | Varnith | [Read More](https://medium.com/p/bc4391b57d41) |
-| Wed, 03 Sep 2025 00:24:35 GMT | Brief analysis of the LastPass Security Breach (2022) | Naomi Edozie | [Read More](https://medium.com/p/e7b4a0b390c9) |
-| Wed, 03 Sep 2025 00:22:40 GMT | The CAPTCHA That Steals Everything | Aj | [Read More](https://medium.com/p/ca23c3b765e2) |
-| Wed, 03 Sep 2025 00:20:09 GMT | Episode 2: The MFA Enforcement Scanner — Automating Your Security Blind Spot | Tarek CHEIKH | [Read More](https://medium.com/p/36a015fde358) |
-| Wed, 03 Sep 2025 00:04:36 GMT | How to Secure Your Home Wi-Fi Network | Samina Perveen | [Read More](https://medium.com/p/50df2b2be02c) |
