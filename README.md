@@ -12,9 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Sep 2025 17:26:37 GMT | Java Selenium with Automation Testing Interview | Ajit Kumar | [Read More](https://medium.com/p/8cf52f575344) |
+| Wed, 03 Sep 2025 17:21:05 GMT | SQL for Bug Bounty Hunters | Swetha | [Read More](https://medium.com/p/106a4c324049) |
 | Wed, 03 Sep 2025 17:13:27 GMT | PortSwigger Academy Business Logic Lab Solutions | Emre A. | [Read More](https://medium.com/p/e3035d7e6ceb) |
 | Wed, 03 Sep 2025 17:12:28 GMT | Phishing: Don’t Take the Bait | Hirad Showghi | [Read More](https://medium.com/p/b9021f20d8ef) |
 | Wed, 03 Sep 2025 17:12:03 GMT | Burp Suite ile Web Güvenlik Testlerinde Ustalık: Kapsamlı Rehber | Berdan Mut | [Read More](https://medium.com/p/db9955131527) |
+| Wed, 03 Sep 2025 17:09:55 GMT | Ponemon Institute/OpenText™ Survey of CIO Leaders Details Reveals Illuminating Perspectives of… | Narendra Kumar Sen | [Read More](https://medium.com/p/59518da6f9df) |
 | Wed, 03 Sep 2025 17:06:02 GMT | Major Cyber Attacks, Ransomware Attacks and Data Breaches: August 2025 | IT_Engineer | [Read More](https://medium.com/p/4a93b8d9a36c) |
 | Wed, 03 Sep 2025 17:01:27 GMT | Cloud Misconfigurations: The Silent Threat Business Owners Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/173b3feccc9d) |
 | Wed, 03 Sep 2025 17:00:12 GMT | Day 15: Amazon EC2 →Your Virtual Server in the Cloud ☁️ | Prutha_Dongre | [Read More](https://medium.com/p/89fb08352bfb) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 12:47:10 GMT | Stop 3 a.m. Pager Fires: 6 IaC Security Tools That Actually Catch Template Vulnerabilities | Iliya Garakh | [Read More](https://medium.com/p/f446444e70f3) |
 | Wed, 03 Sep 2025 12:44:48 GMT | บิทคับ เอ็กซ์เชนจ์ ได้รับการรับรอง SOC 2 Type 1 ยกระดับความปลอดภัยสู่มาตรฐานสากล | Preeyapa Taweewikyagan | [Read More](https://medium.com/p/1ed21314e2db) |
 | Wed, 03 Sep 2025 12:42:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/f3513fd1faab) |
-| Wed, 03 Sep 2025 12:41:10 GMT | Removing Snowflake Secrets from your GitHub Workflows | Rory Donaldson | [Read More](https://medium.com/p/e2c6a6ea93ea) |
-| Wed, 03 Sep 2025 12:40:51 GMT | Why Zero Trust Security is Now Non-Negotiable | R A N A   A H M A D | [Read More](https://medium.com/p/636855fb41b4) |
-| Wed, 03 Sep 2025 12:40:43 GMT | Google’s “Gmail Hack” Headlines! Should You Be Worried (& How Much)? | Navkiran Dhaliwal | [Read More](https://medium.com/p/b873d5360dba) |
