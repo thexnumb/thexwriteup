@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 23:33:48 GMT | Micropayment Channels in the Lightning Network | Enskefuddle | [Read More](https://medium.com/p/f41882584fe1) |
+| Thu, 04 Sep 2025 23:29:53 GMT | Understanding Human Error in Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/33311b92d083) |
+| Thu, 04 Sep 2025 23:27:10 GMT | WHY DROSERA MATTERS | Glory Olabode | [Read More](https://medium.com/p/3df43c9b4124) |
+| Thu, 04 Sep 2025 23:17:43 GMT | Into the Breach: “Grokking” — How X’s Trusted AI Is Being Weaponized | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/6d148462e7f6) |
 | Thu, 04 Sep 2025 23:09:53 GMT | Agile Threat Modeling — A Practical, Coffee‑Chat Companion Guide | Kay Adelaja | [Read More](https://medium.com/p/7a76f3b1240c) |
 | Thu, 04 Sep 2025 23:05:28 GMT | Shadowed by ViewState: A Zero-Day Breach in Sitecore | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/c7f8fdfe481a) |
+| Thu, 04 Sep 2025 23:05:26 GMT | Cracking Open the Black Box: Understanding Model Extraction Attacks on Large Language Models (LLMs) | Zehra Arshad | [Read More](https://medium.com/p/03ce2370c82a) |
 | Thu, 04 Sep 2025 23:01:37 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/588125e7d805) |
 | Thu, 04 Sep 2025 22:53:06 GMT | Ghost Networks and Rogue Devices: A Peek Into Modern DIY Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/302691887ed3) |
 | Thu, 04 Sep 2025 22:51:10 GMT | Package Tracking Tools for OSINT Investigations | loyalonlytoday | [Read More](https://medium.com/p/7bbf25d1a62a) |
@@ -109,8 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 17:39:06 GMT | Trust — The Tricky Game | Kabii | [Read More](https://medium.com/p/8de85e94598d) |
 | Thu, 04 Sep 2025 17:25:27 GMT | Prompt Injection: A New Frontier in Generative AI Security Challenges | Brayan Arrieta Alfaro | [Read More](https://medium.com/p/31ec174e4639) |
 | Thu, 04 Sep 2025 17:24:15 GMT | Rubio’s Comments on U.S. Mexico Security Cooperation. | Menaliub | [Read More](https://medium.com/p/6fb63bc89308) |
-| Thu, 04 Sep 2025 17:16:27 GMT | Cybersecurity Audits & Compliance Made Simple | Aastha Thakker | [Read More](https://medium.com/p/1a7b7878be00) |
-| Thu, 04 Sep 2025 17:13:33 GMT | SQL Fundamentals | Isiah | [Read More](https://medium.com/p/781d43cefafd) |
-| Thu, 04 Sep 2025 17:11:28 GMT | Apple’s Intelligence Data Collection Extends Far Beyond What Privacy Policies Disclose. | Karl Buhl | [Read More](https://medium.com/p/4fd91365caf0) |
-| Thu, 04 Sep 2025 17:09:14 GMT | What you need to do for AI cybersecurity management | Venus Liong | [Read More](https://medium.com/p/160ac321ff52) |
-| Thu, 04 Sep 2025 16:57:13 GMT | My New Calling as A Rescuer — Be it Bird, Bug, or Lizard | Trisha Faye | [Read More](https://medium.com/p/b9b45e899443) |
