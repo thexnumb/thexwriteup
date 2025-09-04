@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 23:09:53 GMT | Agile Threat Modeling — A Practical, Coffee‑Chat Companion Guide | Kay Adelaja | [Read More](https://medium.com/p/7a76f3b1240c) |
+| Thu, 04 Sep 2025 23:05:28 GMT | Shadowed by ViewState: A Zero-Day Breach in Sitecore | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/c7f8fdfe481a) |
+| Thu, 04 Sep 2025 23:01:37 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/588125e7d805) |
+| Thu, 04 Sep 2025 22:53:06 GMT | Ghost Networks and Rogue Devices: A Peek Into Modern DIY Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/302691887ed3) |
+| Thu, 04 Sep 2025 22:51:10 GMT | Package Tracking Tools for OSINT Investigations | loyalonlytoday | [Read More](https://medium.com/p/7bbf25d1a62a) |
+| Thu, 04 Sep 2025 22:49:18 GMT | The AI Ransomware That Writes Itself | Aj | [Read More](https://medium.com/p/37632920ec04) |
+| Thu, 04 Sep 2025 22:49:07 GMT | Scraping Discord for Threat Intelligence Signals | Ghani Mengal | [Read More](https://medium.com/p/85b9396d14f8) |
+| Thu, 04 Sep 2025 22:48:57 GMT | A Smarter Way to Find Bugs in Subdomains | Monika sharma | [Read More](https://medium.com/p/8df5bc504aa2) |
+| Thu, 04 Sep 2025 22:48:38 GMT | Protect Your Privacy: Essential OSINT Tools for Safety | loyalonlytoday | [Read More](https://medium.com/p/bae4c1c108ec) |
+| Thu, 04 Sep 2025 22:43:34 GMT | Scaling Cyber Talent with Ethical Hacking Programs | Shahzaib | [Read More](https://medium.com/p/a22d739cd189) |
+| Thu, 04 Sep 2025 22:36:35 GMT | ETW Event Spoofing | S12 - 0x12Dark Development | [Read More](https://medium.com/p/388aa11c6d51) |
 | Thu, 04 Sep 2025 22:26:12 GMT | WhatsApp-da End-to-End Encryption (E2EE) necə işləyir? | Rahib Cəfərov | [Read More](https://medium.com/p/21d6c441baee) |
 | Thu, 04 Sep 2025 22:24:49 GMT | AI Without the Jargon: How Small Businesses Can Actually Use Artificial Intelligence Today | Hephzibah - SEO Writer & Ghostwriter | [Read More](https://medium.com/p/7b519eeeb6e7) |
 | Thu, 04 Sep 2025 22:21:20 GMT | High Security Locksmith Services: Protect What Matters Most | Mile High Security Locksmith | [Read More](https://medium.com/p/836a1318a17a) |
@@ -103,14 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 17:11:28 GMT | Apple’s Intelligence Data Collection Extends Far Beyond What Privacy Policies Disclose. | Karl Buhl | [Read More](https://medium.com/p/4fd91365caf0) |
 | Thu, 04 Sep 2025 17:09:14 GMT | What you need to do for AI cybersecurity management | Venus Liong | [Read More](https://medium.com/p/160ac321ff52) |
 | Thu, 04 Sep 2025 16:57:13 GMT | My New Calling as A Rescuer — Be it Bird, Bug, or Lizard | Trisha Faye | [Read More](https://medium.com/p/b9b45e899443) |
-| Thu, 04 Sep 2025 16:52:13 GMT | Skills Assessment: YARA and Sigma | Luke | [Read More](https://medium.com/p/d6f4e9b78d5b) |
-| Thu, 04 Sep 2025 16:49:18 GMT | Breaking Out of the String: Solving Reflected XSS in JavaScript | MazenTurky | [Read More](https://medium.com/p/4db3b69c9cae) |
-| Thu, 04 Sep 2025 16:43:37 GMT | Use of OSI model in real hacking scenarios. | TriNetr@X | [Read More](https://medium.com/p/614d18a579a1) |
-| Thu, 04 Sep 2025 16:40:57 GMT | The Changes Made By Android On APK Instalations: Student and Consumer’s Guide. | Mr. MOM | [Read More](https://medium.com/p/b66bdb0407cf) |
-| Thu, 04 Sep 2025 16:40:12 GMT | A little story about how Google is fumbling my 0-day RCE report that affects the entire AI/ML… | 0xFuckSociety | [Read More](https://medium.com/p/edf90ff7897a) |
-| Thu, 04 Sep 2025 16:32:55 GMT | AI-Generated Scams: Why Cybercriminals No Longer Need Coding Skills | Derek Gibson | [Read More](https://medium.com/p/72841cf0dc0b) |
-| Thu, 04 Sep 2025 16:24:04 GMT | NexInfo’s Role in Achieving Seamless HIPAA Compliance | Shantana Edward | [Read More](https://medium.com/p/d3656b43f76c) |
-| Thu, 04 Sep 2025 16:20:11 GMT | Windows Security Internal Part — 1 | MrLearner | [Read More](https://medium.com/p/1f1bdb773bd6) |
-| Thu, 04 Sep 2025 16:18:00 GMT | Fixing “Developer Disk Image Required” with libimobiledevice on macOS (Without Xcode) | Mayank Patel | [Read More](https://medium.com/p/86e85b32407e) |
-| Thu, 04 Sep 2025 16:16:16 GMT | Raspberry PI Wake-on-Lan Setup | Nico | [Read More](https://medium.com/p/ab1949c3ca84) |
-| Thu, 04 Sep 2025 16:15:30 GMT | How to Integrate VirusTotal with Wazuh for Enhanced Threat Detection | Rupesh Sharma | [Read More](https://medium.com/p/dd870b3298aa) |
