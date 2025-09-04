@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 07:34:03 GMT | Siber Güvenlik Notlarım (İkinci Kısım) | Muhammed Fidan | [Read More](https://medium.com/p/eab7d88d6daf) |
+| Thu, 04 Sep 2025 07:31:20 GMT | Siber Güvenlik Notlarım(İlk Kısım) | Muhammed Fidan | [Read More](https://medium.com/p/d81eb5971e52) |
+| Thu, 04 Sep 2025 07:27:01 GMT | Agentic AI is Probing Your Network: The Cybersecurity Wake-Up Call You Can’t Ignore | ZENcurity | [Read More](https://medium.com/p/266862378900) |
+| Thu, 04 Sep 2025 07:26:55 GMT | Cloud Security in 2025: Breaches, Risks, and Evolving Challenges | Sam Bishop | [Read More](https://medium.com/p/489b8f8bed80) |
+| Thu, 04 Sep 2025 07:24:48 GMT | Happiness as a Constitutional Right | Phill Jones | [Read More](https://medium.com/p/0341a5329fd5) |
+| Thu, 04 Sep 2025 07:23:32 GMT | The Cyber Kill Chain: A Complete Guide for 2025 | RSVR Tech | [Read More](https://medium.com/p/b6fc6d3179c9) |
+| Thu, 04 Sep 2025 07:21:36 GMT | Let Hack Students Password Manager | Mainekhacker | [Read More](https://medium.com/p/3f44ec02841b) |
+| Thu, 04 Sep 2025 07:17:36 GMT | Docker and Kubernetes Security: Container Breakout Scenarios | Esra Kayhan | [Read More](https://medium.com/p/b3c15f40936b) |
+| Thu, 04 Sep 2025 07:15:40 GMT | BB84 Protocol Explained: Theory, Math, Security & Practical QKD | Servifyspheresolutions | [Read More](https://medium.com/p/d3d6bb4efa6e) |
+| Thu, 04 Sep 2025 07:11:34 GMT | Day 50- Authentication vs Authorization for beginners | unica 02 | [Read More](https://medium.com/p/02afe23c79b3) |
+| Thu, 04 Sep 2025 07:09:05 GMT | Terzettoo: Empowering Businesses with Infotech & IT Consulting Excellence | Mauryajatin | [Read More](https://medium.com/p/5e819e5c391d) |
+| Thu, 04 Sep 2025 07:07:33 GMT | LetsDefend SOC Alerts - SOC 101- Event ID: 29 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/97df510145a1) |
 | Thu, 04 Sep 2025 07:03:22 GMT | Remove Malware from WordPress Website and Keep it Safe from Bots and DDoS | Azuren | [Read More](https://medium.com/p/2e945a047176) |
 | Thu, 04 Sep 2025 06:59:23 GMT | Top-Rated Nigerian Cybersecurity Companies in 2025 | Qualysec | [Read More](https://medium.com/p/6c41f21bac6d) |
 | Thu, 04 Sep 2025 06:57:32 GMT | Complete Guide: Fix Google Workspace Data Backup Problems | Kai Miller | [Read More](https://medium.com/p/ef33b7f6936c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 00:09:00 GMT | Vulnerability and a Happy Family | Claire.B612 | [Read More](https://medium.com/p/4d63e66f0ebd) |
 | Thu, 04 Sep 2025 00:01:29 GMT | When the Data Bites Back: Injection Attacks Every LLM Engineer Should Know | Shivang Doshi | [Read More](https://medium.com/p/99d8893065b3) |
 | Wed, 03 Sep 2025 23:36:42 GMT | Title: The Unpatchable Attacks: Why DLL Hijacking, Credential Dumping, and Unmanaged PS Injection… | Rahaliashraf | [Read More](https://medium.com/p/23e05e1f91be) |
-| Wed, 03 Sep 2025 23:17:00 GMT | Vulnerability Data Enrichment for CVE Records: 243 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/972d2ec8ccc2) |
-| Wed, 03 Sep 2025 23:08:59 GMT | Fginvest-Group Review: Recover Funds Now, | Admin Running | [Read More](https://medium.com/p/7e6e7cd9d983) |
-| Wed, 03 Sep 2025 23:06:57 GMT | To Harrybell- Teen Love Poem Collection | Thanaa Etiko | [Read More](https://medium.com/p/8fd177d1e74c) |
-| Wed, 03 Sep 2025 23:06:10 GMT | Beyond the Hype: The Real Security Challenges of Large Language Models | BlueTeam Bytes | [Read More](https://medium.com/p/074a8ef6956b) |
-| Wed, 03 Sep 2025 23:06:02 GMT | Why Your Website Needs a Customizable Document Upload UI | Idera Dev Tools | [Read More](https://medium.com/p/d9b65947fb37) |
-| Wed, 03 Sep 2025 22:48:28 GMT | CVE Program Report for Quarter 2 Calendar Year (Q2 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/d58eec5b0fb3) |
-| Wed, 03 Sep 2025 22:39:14 GMT | How Smartphones and OSINT Are Rewriting Police Accountability | Rishisec | [Read More](https://medium.com/p/431f81233d50) |
-| Wed, 03 Sep 2025 22:35:49 GMT | Kali Linux -- Sonuç | Mustafa Gunay | [Read More](https://medium.com/p/fe23811847de) |
-| Wed, 03 Sep 2025 22:32:34 GMT | Será que preciso instalar uma biblioteca para respirar? | Kleber Andrade | [Read More](https://medium.com/p/2fbea203d6e9) |
-| Wed, 03 Sep 2025 22:24:40 GMT | ️ Multi-Brand / Multi-Tenant Pentest Checklist | BugHunter021 | [Read More](https://medium.com/p/d9178868c40f) |
-| Wed, 03 Sep 2025 22:24:38 GMT | Can Your Security Stack See ChatGPT? Why Network Visibility Matters | Cyber-AppSec | [Read More](https://medium.com/p/d733636afbbe) |
-| Wed, 03 Sep 2025 22:17:28 GMT | Building a Continuous Red Team with Automation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cd300adf5662) |
