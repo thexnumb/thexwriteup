@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 20:33:48 GMT | Android Penetration Testing — Part 1: A Beginner’s Step-by-Step Guide | p4n7h3rx | [Read More](https://medium.com/p/1381b3d02204) |
+| Thu, 04 Sep 2025 20:25:54 GMT | You Think AI Protects Your Business? Hackers Are Already Using It Better Than You | Phil - Rentier Digital Heureux | [Read More](https://medium.com/p/e70da7480025) |
+| Thu, 04 Sep 2025 20:15:31 GMT | Artificial Intelligence in Cybersecurity: The Future of Digital Defense | IT_Engineer | [Read More](https://medium.com/p/6a00e7dcb259) |
+| Thu, 04 Sep 2025 20:11:49 GMT | SOC vs MDR: Choosing the Right Cyber Defense Strategy | SafeAeon Inc. | [Read More](https://medium.com/p/249a3cbb522e) |
 | Thu, 04 Sep 2025 20:11:45 GMT | BTLO Piggy Investigation | Juan Alexander Alejo | [Read More](https://medium.com/p/eab8239ea9a1) |
 | Thu, 04 Sep 2025 20:10:40 GMT | Restart | Edson Raines | [Read More](https://medium.com/p/a8358be6d6ed) |
 | Thu, 04 Sep 2025 20:07:37 GMT | Lo-Fi - TryHackMe | Laach_ | [Read More](https://medium.com/p/95d9ed5702f3) |
@@ -110,7 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 14:31:50 GMT | Samba 3.5.0–4.6.4 Remote Code Execution (CVE-2017–7494) In hackviser’s Lab | anonymous.gharti | [Read More](https://medium.com/p/a70c219e5d4a) |
 | Thu, 04 Sep 2025 14:31:30 GMT | The Ultimate Browser Toolkit: Part 2 | XoX | [Read More](https://medium.com/p/58ad51487a28) |
 | Thu, 04 Sep 2025 14:29:36 GMT | Drosera Network: A Decentralized Security Guardian for Ethereum | PalmTreeFlex | [Read More](https://medium.com/p/20d9638fb320) |
-| Thu, 04 Sep 2025 14:28:20 GMT | When Provisioning Fails: Google Cloud’s Quietest but Most Telling Outage…so far! | IsaacFabianK | [Read More](https://medium.com/p/d68c8fb11390) |
-| Thu, 04 Sep 2025 14:27:31 GMT | DevSecOps Best Practices for Software Teams: Secure Code from Day One | Paul Meyer | [Read More](https://medium.com/p/e4388187bb76) |
-| Thu, 04 Sep 2025 14:27:31 GMT | The Rise of AI-Powered Phishing: How to Spot and Stop It | PromptSecAI | [Read More](https://medium.com/p/3e0681c3e56f) |
-| Thu, 04 Sep 2025 14:21:09 GMT | VirusTotal for SOC Analysts — Letsdefend | HoangdhPtit | [Read More](https://medium.com/p/06ab0a11ad91) |
