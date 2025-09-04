@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 21:10:13 GMT | How a Simple PDF Generator Led Me to a Bug in Government Systems | Motoko Ayanami | [Read More](https://medium.com/p/07ac397d45e3) |
+| Thu, 04 Sep 2025 21:04:38 GMT | Generative AI Meets Identity: Deepfake Voices Cracking IAM Systems | Yashasvi Sharma | [Read More](https://medium.com/p/e971598934bf) |
+| Thu, 04 Sep 2025 20:45:12 GMT | Are Your Employees Making These 7 Common AI Phishing Mistakes? (And How to Fix Them) | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/a89912d7583d) |
+| Thu, 04 Sep 2025 20:44:02 GMT | My Cybersecurity Journey So Far | Anuu | [Read More](https://medium.com/p/c520fd453d08) |
+| Thu, 04 Sep 2025 20:42:35 GMT | Android Penetration Testing Part 2 | p4n7h3rx | [Read More](https://medium.com/p/39312a771568) |
 | Thu, 04 Sep 2025 20:33:48 GMT | Android Penetration Testing — Part 1: A Beginner’s Step-by-Step Guide | p4n7h3rx | [Read More](https://medium.com/p/1381b3d02204) |
 | Thu, 04 Sep 2025 20:25:54 GMT | You Think AI Protects Your Business? Hackers Are Already Using It Better Than You | Phil - Rentier Digital Heureux | [Read More](https://medium.com/p/e70da7480025) |
 | Thu, 04 Sep 2025 20:15:31 GMT | Artificial Intelligence in Cybersecurity: The Future of Digital Defense | IT_Engineer | [Read More](https://medium.com/p/6a00e7dcb259) |
@@ -109,8 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 14:56:11 GMT | 有限資源，無限賽局-為何優秀的畢業生，都只能往科技業擠？從資安推動角度看就業選擇 | Kuro Huang | [Read More](https://medium.com/p/b63c1bbc7ed5) |
 | Thu, 04 Sep 2025 14:52:34 GMT | Airports | Dietmar Marggraff | [Read More](https://medium.com/p/1246b4c674c0) |
 | Thu, 04 Sep 2025 14:52:16 GMT | Approaching stealers devs: a brief interview with MacSync (ex-mentalpositive) | g0njxa | [Read More](https://medium.com/p/62504db3e761) |
-| Thu, 04 Sep 2025 14:43:39 GMT | Splunk: Setting up a SOC Lab — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/7a3dc23942fd) |
-| Thu, 04 Sep 2025 14:33:45 GMT | Self-Love vs Self-Obsession: The Secret Balance That Protects Your Peace | Maria Arshad | [Read More](https://medium.com/p/90ed28e0fd27) |
-| Thu, 04 Sep 2025 14:31:50 GMT | Samba 3.5.0–4.6.4 Remote Code Execution (CVE-2017–7494) In hackviser’s Lab | anonymous.gharti | [Read More](https://medium.com/p/a70c219e5d4a) |
-| Thu, 04 Sep 2025 14:31:30 GMT | The Ultimate Browser Toolkit: Part 2 | XoX | [Read More](https://medium.com/p/58ad51487a28) |
-| Thu, 04 Sep 2025 14:29:36 GMT | Drosera Network: A Decentralized Security Guardian for Ethereum | PalmTreeFlex | [Read More](https://medium.com/p/20d9638fb320) |
