@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 19:33:45 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/cc7fb76f2224) |
+| Thu, 04 Sep 2025 19:33:37 GMT | HTB Walkthrough / Pentest Report: Strutted ️ | Mkirahmet | [Read More](https://medium.com/p/3e41f62011ec) |
+| Thu, 04 Sep 2025 19:27:24 GMT | Evil-GPT v2: TryHackMe Write-Up | Farhad Anwari | [Read More](https://medium.com/p/aae4bab967f3) |
+| Thu, 04 Sep 2025 19:26:58 GMT | # Tesla Pasif Anahtarsız Giriş ve Telefon-Anahtar Güvenliği: Güvenlik Açıkları, Saldırılar ve… | Burak BALTA | [Read More](https://medium.com/p/1b0093271a6f) |
+| Thu, 04 Sep 2025 19:26:47 GMT | # IMSI 
+## Özet | Burak BALTA | [Read More](https://medium.com/p/be5b3b9a6b56) |
+| Thu, 04 Sep 2025 19:26:35 GMT | # KEC Card Access Devices | Burak BALTA | [Read More](https://medium.com/p/7da4c08511be) |
+| Thu, 04 Sep 2025 19:26:30 GMT | Cracking the Vault: The $44M CoinDCX Breach | NineTales | [Read More](https://medium.com/p/9c792c656e7c) |
+| Thu, 04 Sep 2025 19:23:23 GMT | Critical Signals: When the Shield Becomes the Sword | David C. Anderson - Cybersecurity & AI Risk | [Read More](https://medium.com/p/c3578c3efdfc) |
+| Thu, 04 Sep 2025 19:20:29 GMT | Learning PowerShell Basics | echoVoid | [Read More](https://medium.com/p/bf438b1cde86) |
+| Thu, 04 Sep 2025 19:15:04 GMT | Importance of Cyber Insurance: A Safety Net for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/a8df866f758d) |
 | Thu, 04 Sep 2025 19:04:04 GMT | When Cybercriminals Get an AI Upgrade: Ransomware for the Masses | Malik | [Read More](https://medium.com/p/1b82583ff06d) |
 | Thu, 04 Sep 2025 18:59:15 GMT | Software and Data Integrity Failures (OWASP Top 10 #8) — Simplified | Chai | [Read More](https://medium.com/p/36951f1bd196) |
 | Thu, 04 Sep 2025 18:59:05 GMT | The Silent Breach: Inside the $223 Million Cetus Protocol Hack | NineTales | [Read More](https://medium.com/p/db6e54df33b0) |
@@ -103,13 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 14:11:57 GMT | How to write a good Bug Bounty Report | Appsec.pt | [Read More](https://medium.com/p/76d935a8c5b1) |
 | Thu, 04 Sep 2025 14:02:39 GMT | Security is now centerstage in the AI news cycle but it needs to remain there | Tui Media | [Read More](https://medium.com/p/944bc9aecd9b) |
 | Thu, 04 Sep 2025 14:01:39 GMT | The Future of CFO Leadership: 7 Digital Trends Shaping 2025 | Michael Stickler | [Read More](https://medium.com/p/8404b10076c3) |
-| Thu, 04 Sep 2025 14:01:38 GMT | Secure Your Code with Copilot Security Instructions | Jay Simmons | [Read More](https://medium.com/p/c725438100a5) |
-| Thu, 04 Sep 2025 14:01:38 GMT | Deep Engineering #16: Designing Systems for Longevity with Alexander Kushnir | Divya Anne Selvaraj | [Read More](https://medium.com/p/d8e639bc7e67) |
-| Thu, 04 Sep 2025 14:01:38 GMT | Cyber Briefing: 2025.09.04 | CyberMaterial | [Read More](https://medium.com/p/dd5287457c84) |
-| Thu, 04 Sep 2025 13:57:30 GMT | ThunderCipher-Lab[Dizzy] | Bhuwan Patidar | [Read More](https://medium.com/p/4c072e7f43ff) |
-| Thu, 04 Sep 2025 13:57:28 GMT | Building my first offensive security agent — part 1 | OTR | [Read More](https://medium.com/p/7b2dbb93c842) |
-| Thu, 04 Sep 2025 13:52:14 GMT | The Rising Cost of Data Privacy: Why Cybersecurity Stocks Are Surging | The Thematic Investor | [Read More](https://medium.com/p/a343cdda2060) |
-| Thu, 04 Sep 2025 13:49:34 GMT | The Top 5 Mistakes Companies Make with Workplace Security | Drake Current | [Read More](https://medium.com/p/401122e4da2d) |
-| Thu, 04 Sep 2025 13:47:55 GMT | Running HashiCorp Vault Radar in a Container | Raymon Epping | [Read More](https://medium.com/p/4205abe51c8f) |
-| Thu, 04 Sep 2025 13:45:39 GMT | Build Your Own SOC Home Lab with Splunk, Windows Server, Linux Server, and pfSense Firewall | j1sec | [Read More](https://medium.com/p/98ae78909603) |
-| Thu, 04 Sep 2025 13:42:23 GMT | My Summer School Adventure in Brno, Czech Republic | Esther Nyumu | [Read More](https://medium.com/p/7726b64bf2a7) |
