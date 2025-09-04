@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 16:43:37 GMT | Use of OSI model in real hacking scenarios. | TriNetr@X | [Read More](https://medium.com/p/614d18a579a1) |
+| Thu, 04 Sep 2025 16:40:57 GMT | The Changes Made By Android On APK Instalations: Student and Consumer’s Guide. | Mr. MOM | [Read More](https://medium.com/p/b66bdb0407cf) |
+| Thu, 04 Sep 2025 16:40:12 GMT | A little story about how Google is fumbling my 0-day RCE report that affects the entire AI/ML… | 0xFuckSociety | [Read More](https://medium.com/p/edf90ff7897a) |
+| Thu, 04 Sep 2025 16:32:55 GMT | AI-Generated Scams: Why Cybercriminals No Longer Need Coding Skills | Derek Gibson | [Read More](https://medium.com/p/72841cf0dc0b) |
+| Thu, 04 Sep 2025 16:24:04 GMT | NexInfo’s Role in Achieving Seamless HIPAA Compliance | Shantana Edward | [Read More](https://medium.com/p/d3656b43f76c) |
 | Thu, 04 Sep 2025 16:20:11 GMT | Windows Security Internal Part — 1 | MrLearner | [Read More](https://medium.com/p/1f1bdb773bd6) |
 | Thu, 04 Sep 2025 16:18:00 GMT | Fixing “Developer Disk Image Required” with libimobiledevice on macOS (Without Xcode) | Mayank Patel | [Read More](https://medium.com/p/86e85b32407e) |
+| Thu, 04 Sep 2025 16:16:16 GMT | Raspberry PI Wake-on-Lan Setup | Nico | [Read More](https://medium.com/p/ab1949c3ca84) |
+| Thu, 04 Sep 2025 16:15:30 GMT | How to Integrate VirusTotal with Wazuh for Enhanced Threat Detection | Rupesh Sharma | [Read More](https://medium.com/p/dd870b3298aa) |
 | Thu, 04 Sep 2025 16:12:54 GMT | 12 Cybersecurity Predictions for 2025: AI, Biometric Encryption, Zero Trust & Beyond | Smith Adams | [Read More](https://medium.com/p/573c55ed321b) |
 | Thu, 04 Sep 2025 16:05:53 GMT | Ensuring the Security of Docker Containers: Essential Strategies | @rnab | [Read More](https://medium.com/p/1a11edffc75c) |
 | Thu, 04 Sep 2025 16:05:50 GMT | Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn | TECH EMPIRE | [Read More](https://medium.com/p/c99fbe2f1833) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 11:41:30 GMT | Best Career Paths After IT Training in India - Technoglobe | Technoglobe India | [Read More](https://medium.com/p/a3f8de2e6717) |
 | Thu, 04 Sep 2025 11:37:21 GMT | 2FA Bypass via Request Handling Flaw | TSxNINJA | [Read More](https://medium.com/p/e4cf21bb4c55) |
 | Thu, 04 Sep 2025 11:35:17 GMT | Top 7 Cybersecurity Programs That Close 99% of Security Gaps | SecureSlate | [Read More](https://medium.com/p/4b45c6eda669) |
-| Thu, 04 Sep 2025 11:33:37 GMT | Top Personal Cybersecurity Measures To Take When Trading in Crypto | IamPreth | [Read More](https://medium.com/p/1fc1e46bb0ec) |
-| Thu, 04 Sep 2025 11:31:47 GMT | Google Services Face Major Outage Impacting Millions Across US, Turkey and Eastern Europe | Jasmitharouthu | [Read More](https://medium.com/p/72d75d470abf) |
-| Thu, 04 Sep 2025 11:31:45 GMT | Securing the Future: Study Master’s in Cybersecurity in Germany | Shreetu Mohanty | [Read More](https://medium.com/p/cdbaf2205ff6) |
-| Thu, 04 Sep 2025 11:30:45 GMT | Diary of a Career Changer: Building on the Past, Shaping the Future | Cyber I AM | [Read More](https://medium.com/p/e012856ffda5) |
-| Thu, 04 Sep 2025 11:30:31 GMT | PagerDuty Data Breach: What You Need to Know About the Salesforce Account Compromise | Technijian | [Read More](https://medium.com/p/b2049e94306d) |
-| Thu, 04 Sep 2025 11:28:40 GMT | This “USB” Can Steal Your Files in Seconds | Shahzaib | [Read More](https://medium.com/p/46fba557821a) |
-| Thu, 04 Sep 2025 11:27:54 GMT | Your iPhone Was Hacked Without a Single Tap | Aj | [Read More](https://medium.com/p/bc3d7a648fb7) |
