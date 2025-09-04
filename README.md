@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 01:01:40 GMT | Real-World Applications of DBSCAN in Fraud Detection and Cybersecurity | Ujang Riswanto | [Read More](https://medium.com/p/88346dc9e24d) |
+| Thu, 04 Sep 2025 00:56:13 GMT | Write-up: Exploiting Role Manipulation & Obfuscation Secrets to Achieve SuperAdmin Privileges | MOAMEN REZK | [Read More](https://medium.com/p/e6351c69a918) |
+| Thu, 04 Sep 2025 00:44:17 GMT | Gemini’s Security Regression: When Old Bugs Come Back to Haut | UltraZartrex | [Read More](https://medium.com/p/df6e51291308) |
+| Thu, 04 Sep 2025 00:43:53 GMT | Amazon Nova AI Models: The Complete Developer’s Guide | Rizqi Mulki | [Read More](https://medium.com/p/f39d07f074a7) |
+| Thu, 04 Sep 2025 00:42:32 GMT | Scam: Fake Praise in Comments | Cynthia Friedlob | [Read More](https://medium.com/p/9873bcade504) |
+| Thu, 04 Sep 2025 00:27:34 GMT | The Polite Email That Hacks Your Entire Network | Aj | [Read More](https://medium.com/p/02113e03fda2) |
+| Thu, 04 Sep 2025 00:25:44 GMT | Setting up Android operating systems on VirtualBox | Achyuta Shrimate | [Read More](https://medium.com/p/f8f20d4d547c) |
+| Thu, 04 Sep 2025 00:22:35 GMT | The Role of Next-Generation Firewalls in Network Security | Samina Perveen | [Read More](https://medium.com/p/efa2013c95bc) |
+| Thu, 04 Sep 2025 00:19:00 GMT | HackTheBox — Planning (Write Up & Walkthrough) | Suryadi Putra | [Read More](https://medium.com/p/f204ec317d6c) |
+| Thu, 04 Sep 2025 00:09:00 GMT | Vulnerability and a Happy Family | Claire.B612 | [Read More](https://medium.com/p/4d63e66f0ebd) |
+| Thu, 04 Sep 2025 00:01:29 GMT | When the Data Bites Back: Injection Attacks Every LLM Engineer Should Know | Shivang Doshi | [Read More](https://medium.com/p/99d8893065b3) |
 | Wed, 03 Sep 2025 23:36:42 GMT | Title: The Unpatchable Attacks: Why DLL Hijacking, Credential Dumping, and Unmanaged PS Injection… | Rahaliashraf | [Read More](https://medium.com/p/23e05e1f91be) |
 | Wed, 03 Sep 2025 23:17:00 GMT | Vulnerability Data Enrichment for CVE Records: 243 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/972d2ec8ccc2) |
 | Wed, 03 Sep 2025 23:08:59 GMT | Fginvest-Group Review: Recover Funds Now, | Admin Running | [Read More](https://medium.com/p/7e6e7cd9d983) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 17:00:12 GMT | Day 15: Amazon EC2 →Your Virtual Server in the Cloud ☁️ | Prutha_Dongre | [Read More](https://medium.com/p/89fb08352bfb) |
 | Wed, 03 Sep 2025 16:54:31 GMT | CVE-2025–53772: The Silent Risk in Microsoft Web Deploy | gm0 | [Read More](https://medium.com/p/18fa67f02e15) |
 | Wed, 03 Sep 2025 16:47:44 GMT | 15 Security KPIs Every Cybersecurity Professional Should Know | Paritosh | [Read More](https://medium.com/p/a85b9654a8fc) |
-| Wed, 03 Sep 2025 16:43:22 GMT | Android Application Penetration Testing — Part 2 | Madhesh | [Read More](https://medium.com/p/9d1eea6a156a) |
-| Wed, 03 Sep 2025 16:40:13 GMT | Blue Team Lab — 2nd Phishing Analysis | Juan Alexander Alejo | [Read More](https://medium.com/p/81d1189fcb6a) |
-| Wed, 03 Sep 2025 16:37:54 GMT | How to Keep Your Flutter App Safe: A Simple Guide | Riza Mojed | [Read More](https://medium.com/p/4623e40f5db6) |
-| Wed, 03 Sep 2025 16:37:33 GMT | “Should You Really Use NGINX? (Or Just Expose Your App Like a Maniac)?” | Anzalo Quin | [Read More](https://medium.com/p/49ced0b5c2c0) |
-| Wed, 03 Sep 2025 16:33:49 GMT | Surviving the 48-Hour TryHackMe PT1 Exam: Take It or Leave It | CYB3RXD0N | [Read More](https://medium.com/p/868415f61b5c) |
-| Wed, 03 Sep 2025 16:24:42 GMT | Malware Classification - TryHackMe | 0xDK | [Read More](https://medium.com/p/0bde191f9d89) |
-| Wed, 03 Sep 2025 16:23:41 GMT | The Race Nobody Wanted to Win | Aj | [Read More](https://medium.com/p/476d6d30edf0) |
-| Wed, 03 Sep 2025 16:22:59 GMT | The Unseen Cost of Internet Convenience: What We Trade for Speed and Ease | Haider Ali | [Read More](https://medium.com/p/32127bd3de93) |
-| Wed, 03 Sep 2025 16:19:35 GMT | StrataSight — Current Trends in Cybersecurity — July 2025 | Grant Gamble | [Read More](https://medium.com/p/8fb278a582fe) |
-| Wed, 03 Sep 2025 16:19:18 GMT | The Landscape of Threats | Internet Exposed | [Read More](https://medium.com/p/4cc9054ddfdd) |
-| Wed, 03 Sep 2025 16:19:04 GMT | Windows Authorization Process — tokens, SIDs, and Privileges | Kelvin TC Law | [Read More](https://medium.com/p/1096b57cf563) |
