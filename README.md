@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 11:12:08 GMT | The Complete Beginner’s Guide to OSINT (Open-Source Intelligence) | Rashadul Islam | [Read More](https://medium.com/p/c39ecaa2306d) |
+| Thu, 04 Sep 2025 11:06:07 GMT | The Hacker’s Library: 5 Must-Read Books Every InfoSec Professional Should Own | Aj | [Read More](https://medium.com/p/570229368135) |
+| Thu, 04 Sep 2025 11:05:25 GMT | Master Cyber Security Online — Learn & Get Job-Ready! | Pravin Choudhary | [Read More](https://medium.com/p/c56f95bb8f89) |
+| Thu, 04 Sep 2025 11:01:39 GMT | The Schrödinger’s ESC1 Vulnerability: Benchmark Update | Matheus Vilachã | [Read More](https://medium.com/p/e9a24421850b) |
+| Thu, 04 Sep 2025 10:59:33 GMT | Efficient and Reliable Next.js Web Development Services | Bhavesh Rajpurohit | [Read More](https://medium.com/p/85a18f5a35e9) |
+| Thu, 04 Sep 2025 10:55:45 GMT | August’s Updates: Fresh Connectors, SDK Update, and 2,200+ New Detection Rules | ANY.RUN | [Read More](https://medium.com/p/f2c83b84231e) |
+| Thu, 04 Sep 2025 10:51:20 GMT | Cyber Security Training in Hyderabad — Become a Certified Ethical Hacker & Security Expert | techsaavvy.com | [Read More](https://medium.com/p/3fcc55caae95) |
+| Thu, 04 Sep 2025 10:48:32 GMT | How to exploit? OPC UA — Open Platform Communications Unified Access — PORT 4840 | Very Lazy Tech | [Read More](https://medium.com/p/c1b9c7ea22fa) |
+| Thu, 04 Sep 2025 10:46:25 GMT | MeetC2 a.k.a Meeting C2 | Dhiraj | [Read More](https://medium.com/p/1fc2a6761068) |
+| Thu, 04 Sep 2025 10:44:49 GMT | 10 Best Reliable Hosting Providers for Online Communities in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/6374670eab40) |
+| Thu, 04 Sep 2025 10:43:30 GMT | Siber Güvenlik Uygulamaları | Akın Kafadar | [Read More](https://medium.com/p/39e89a1435b0) |
+| Thu, 04 Sep 2025 10:43:22 GMT | How Do Smart Contract Auditors Actually Make Money? | Stupid Contract | [Read More](https://medium.com/p/9ea5e87e4158) |
+| Thu, 04 Sep 2025 10:41:54 GMT | 10 Best Managed Hosting Providers for Medical Records in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/1d75864c0096) |
 | Thu, 04 Sep 2025 10:39:40 GMT | How to Secure Your Social Media Accounts in 2025: Stay Safe Online | Techlio | [Read More](https://medium.com/p/ba5a93abe0ed) |
+| Thu, 04 Sep 2025 10:38:56 GMT | Why Ethereum Needs a Security Automation Layer | Eniola Olofinbiyi | [Read More](https://medium.com/p/14185d1eb3a3) |
+| Thu, 04 Sep 2025 10:38:35 GMT | Top 10 Secure Hosting Providers for NFT Marketplaces in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/1af4832fc4cf) |
 | Thu, 04 Sep 2025 10:31:51 GMT | Siber Güvenlikte Kullanılabilecek Python Kütüphaneleri | Akın Kafadar | [Read More](https://medium.com/p/b1a08ff76565) |
 | Thu, 04 Sep 2025 10:26:38 GMT | Metasploitable: Laboratorium Hacking Pribadi Anda, Gratis | Reza Alfarisy | [Read More](https://medium.com/p/ecb9fa1df796) |
 | Thu, 04 Sep 2025 10:25:57 GMT | Cyber Security MNCs in India: Importance of Cyber Insurance for Businesses | piyush | [Read More](https://medium.com/p/aed5683f603d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 06:01:59 GMT | What is a Vulnerability? | Darshil Modi | [Read More](https://medium.com/p/56ad02d49d1d) |
 | Thu, 04 Sep 2025 06:00:00 GMT | AI vs AI in Cybersecurity: Fighting Hackers with Artificial Intelligence | Suretek Infosoft | [Read More](https://medium.com/p/984c4c303be9) |
 | Thu, 04 Sep 2025 05:57:52 GMT | Google Cloud Penetration Testing (GCP): Methodology, Tools & Best Practices Complete Guide | QualysecEurope | [Read More](https://medium.com/p/6c32346ebc98) |
-| Thu, 04 Sep 2025 05:52:11 GMT | Day 3 AI Security: When AI Turns Sour: Cracking the Code of AI Supply Chain Attacks | Maghnaa Sathish Kumar | [Read More](https://medium.com/p/180476a604a3) |
-| Thu, 04 Sep 2025 05:50:13 GMT | This Charging Cable Can HACK You | Shahzaib | [Read More](https://medium.com/p/e71fb09f33a6) |
-| Thu, 04 Sep 2025 05:46:12 GMT | Top Reasons to Pursue a Cyber Security Degree in 2025 | Tanisha Singh | [Read More](https://medium.com/p/f61c56d1844c) |
-| Thu, 04 Sep 2025 05:43:30 GMT | PsExec Hunt - Cyberdefenders Blue Team Lab Write-up. | Tboysunovap | [Read More](https://medium.com/p/0d71b6995a84) |
-| Thu, 04 Sep 2025 05:35:53 GMT | Lazarus Group’s Latest Hack: A Masterclass in Deception | Aj | [Read More](https://medium.com/p/abc2d45c1956) |
-| Thu, 04 Sep 2025 05:35:24 GMT | SSL Treasure Maps: How I Found Hidden Subdomains in crt.sh (And How Hackers Exploit Them) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/475e1414d416) |
-| Thu, 04 Sep 2025 05:33:20 GMT | SSL Treasure Maps 2.0: How I Pulled Hidden Subdomains from crt.sh — and Why It Matters | Narendar Battula (nArEn) | [Read More](https://medium.com/p/202874fd2cee) |
-| Thu, 04 Sep 2025 05:28:11 GMT | Cloudflare Workers, KV, D1 — and a Curious Idea That Became Adaptive Profiling | Bijodev | [Read More](https://medium.com/p/49d1dbbf0534) |
-| Thu, 04 Sep 2025 05:14:25 GMT | The Daily Tech Digest: 04 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c25ec4f42d2a) |
-| Thu, 04 Sep 2025 05:08:18 GMT | Why a Cybersecurity Architect Is Essential for Your Business | ericjeffery | [Read More](https://medium.com/p/39ab46b122aa) |
-| Thu, 04 Sep 2025 05:02:30 GMT | Quantum Computing and Blockchain Security | Dukerearing | [Read More](https://medium.com/p/6e570f1b2336) |
-| Thu, 04 Sep 2025 04:56:55 GMT | Why the Best Ethical Hacking Certification for Beginners Can Jumpstart Your Cybersecurity Career | Tomcruise | [Read More](https://medium.com/p/b0e2a032085d) |
-| Thu, 04 Sep 2025 04:56:25 GMT | From Voicemails to Vulnerabilities: How UpCrypter Phishing Exposes Businesses — and What to Do… | eL Njas!™ | [Read More](https://medium.com/p/68262d3bc448) |
-| Thu, 04 Sep 2025 04:53:24 GMT | Pen Testing Is More Than Finding Bugs: A Practical, Client-First Guide | Aman Bhuiyan | [Read More](https://medium.com/p/e23c705f51cd) |
-| Thu, 04 Sep 2025 04:51:52 GMT | ThunderCipher-Lab[Thunder01] | Bhuwan Patidar | [Read More](https://medium.com/p/66d737a77a0a) |
