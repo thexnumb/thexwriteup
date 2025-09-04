@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 16:20:11 GMT | Windows Security Internal Part — 1 | MrLearner | [Read More](https://medium.com/p/1f1bdb773bd6) |
+| Thu, 04 Sep 2025 16:18:00 GMT | Fixing “Developer Disk Image Required” with libimobiledevice on macOS (Without Xcode) | Mayank Patel | [Read More](https://medium.com/p/86e85b32407e) |
+| Thu, 04 Sep 2025 16:12:54 GMT | 12 Cybersecurity Predictions for 2025: AI, Biometric Encryption, Zero Trust & Beyond | Smith Adams | [Read More](https://medium.com/p/573c55ed321b) |
+| Thu, 04 Sep 2025 16:05:53 GMT | Ensuring the Security of Docker Containers: Essential Strategies | @rnab | [Read More](https://medium.com/p/1a11edffc75c) |
+| Thu, 04 Sep 2025 16:05:50 GMT | Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn | TECH EMPIRE | [Read More](https://medium.com/p/c99fbe2f1833) |
+| Thu, 04 Sep 2025 16:01:44 GMT | Russia and the PACER Breach: A National Security Crisis in the U.S. Courts | Yusuf Asan | [Read More](https://medium.com/p/572a0f4008d1) |
+| Thu, 04 Sep 2025 15:44:44 GMT | Reporting and Stakeholder Communication in Security Testing | Shubham Khanna | [Read More](https://medium.com/p/ef678fc9be01) |
+| Thu, 04 Sep 2025 15:41:55 GMT | How India Prevented ₹5,100 Crore in Cybercrime Losses | The UNFILTERED Draft | [Read More](https://medium.com/p/594f864038f6) |
+| Thu, 04 Sep 2025 15:36:02 GMT | Digital Battlefields: When Hackers and Defenders Collide | Raj Islam | [Read More](https://medium.com/p/0cab51eb06d8) |
 | Thu, 04 Sep 2025 15:30:57 GMT | Leveraging Raw Disk Reads to Bypass EDR | Christopher Ellis | [Read More](https://medium.com/p/f145838b0e6d) |
 | Thu, 04 Sep 2025 15:28:23 GMT | ‍ Linux Kernel Security & Exploitation Resources | Balki Maharaj | [Read More](https://medium.com/p/8eb5849113b1) |
 | Thu, 04 Sep 2025 15:27:34 GMT | ThunderCipher-[POLO] | Bhuwan Patidar | [Read More](https://medium.com/p/27560dc70c73) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 11:30:31 GMT | PagerDuty Data Breach: What You Need to Know About the Salesforce Account Compromise | Technijian | [Read More](https://medium.com/p/b2049e94306d) |
 | Thu, 04 Sep 2025 11:28:40 GMT | This “USB” Can Steal Your Files in Seconds | Shahzaib | [Read More](https://medium.com/p/46fba557821a) |
 | Thu, 04 Sep 2025 11:27:54 GMT | Your iPhone Was Hacked Without a Single Tap | Aj | [Read More](https://medium.com/p/bc3d7a648fb7) |
-| Thu, 04 Sep 2025 11:27:40 GMT | Cloudflare’s 11.5 Tbps DDoS Defense & What It Means for Orange County Businesses | Technijian | [Read More](https://medium.com/p/a0ce2a9e6341) |
-| Thu, 04 Sep 2025 11:22:55 GMT | "xAI Sues Former Engineer, Alleging Theft of Grok Trade Secrets for OpenAI" | Oyime Jude Akpologun | [Read More](https://medium.com/p/01240baa6af5) |
-| Thu, 04 Sep 2025 11:22:28 GMT | Which Sections Of The It Act Apply To Cyber Pornography? | lead india | [Read More](https://medium.com/p/1632e8829ece) |
-| Thu, 04 Sep 2025 11:17:50 GMT | What Is a Security Maturity Model and Why It’s Crucial for Your Business? | Skysecure Technologies | [Read More](https://medium.com/p/b25ee65a9989) |
-| Thu, 04 Sep 2025 11:16:10 GMT | SQL Injection: Tichá hrozba pro Vaše data! | Cyber Solution | [Read More](https://medium.com/p/fff2d47b68ba) |
-| Thu, 04 Sep 2025 11:12:08 GMT | The Complete Beginner’s Guide to OSINT (Open-Source Intelligence) | Rashadul Islam | [Read More](https://medium.com/p/c39ecaa2306d) |
-| Thu, 04 Sep 2025 11:10:50 GMT | AI Agents Are Evolving — So Are the Dangers Lurking With Them ? | Jivtesh S | [Read More](https://medium.com/p/db1a0e1fb2fd) |
-| Thu, 04 Sep 2025 11:06:07 GMT | The Hacker’s Library: 5 Must-Read Books Every InfoSec Professional Should Own | Aj | [Read More](https://medium.com/p/570229368135) |
-| Thu, 04 Sep 2025 11:05:25 GMT | Master Cyber Security Online — Learn & Get Job-Ready! | Pravin Choudhary | [Read More](https://medium.com/p/c56f95bb8f89) |
