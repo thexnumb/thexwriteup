@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 08:33:01 GMT | Broken Access Control: The #1 OWASP Risk explained in depth | CyberSenpai | [Read More](https://medium.com/p/ee561bde4dd8) |
+| Thu, 04 Sep 2025 08:25:19 GMT | Juicy Details — TryHackMe Forensics & Log Analysis Write-Up | Furkanctiner | [Read More](https://medium.com/p/0960a89481c0) |
 | Thu, 04 Sep 2025 08:18:54 GMT | Why Security Testing is Non-Negotiable for QA Engineers? | Lakindu De Silva | [Read More](https://medium.com/p/9dca25195021) |
 | Thu, 04 Sep 2025 08:17:46 GMT | No CSP, No Problem? Think Again — Clickjacking Explained | 0xsamraa | [Read More](https://medium.com/p/f937b32795c4) |
 | Thu, 04 Sep 2025 08:06:34 GMT | Cybersecurity, Information Governance, Legal Risk Management & Compliance with ISO Records… | Rana El Garhi | [Read More](https://medium.com/p/4dc2282e55b7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 01:30:54 GMT | How to claim. bitcoin penguins 1 BTC Giveaway 2025 | Bitcoin penguins | [Read More](https://medium.com/p/fd06483593cb) |
 | Thu, 04 Sep 2025 01:27:59 GMT | BiTM Attacks in the Age of Agentic AI: Exploiting OpenAI’s Operator with Fullscreen API Spoofing | Ashley Dai | [Read More](https://medium.com/p/e044b936de66) |
 | Thu, 04 Sep 2025 01:21:37 GMT | Avoidant Attachment: The Double-Edged Sword of “Alexithymia” in Relationships | kate spider | [Read More](https://medium.com/p/d8d143ad84fd) |
-| Thu, 04 Sep 2025 01:01:40 GMT | Real-World Applications of DBSCAN in Fraud Detection and Cybersecurity | Ujang Riswanto | [Read More](https://medium.com/p/88346dc9e24d) |
-| Thu, 04 Sep 2025 00:56:13 GMT | Write-up: Exploiting Role Manipulation & Obfuscation Secrets to Achieve SuperAdmin Privileges | MOAMEN REZK | [Read More](https://medium.com/p/e6351c69a918) |
