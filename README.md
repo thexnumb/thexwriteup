@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 21:23:21 GMT | Cloud Storage of Biometric Data: What Could Go Wrong? | Kamila Monika Zu | [Read More](https://medium.com/p/1396be0c67ef) |
+| Thu, 04 Sep 2025 21:19:03 GMT | Exploiting Insecure Android WebView with JavaScript Interface | Youssefhussein | [Read More](https://medium.com/p/a4d3abf9ec09) |
+| Thu, 04 Sep 2025 21:17:54 GMT | Lone Wolves in Cyberspace Myth, Radicalization, and Reflexive Control | SIMKRA | [Read More](https://medium.com/p/4d1e78255e69) |
+| Thu, 04 Sep 2025 21:16:00 GMT | Breaking In and Growing in Cyber: Lessons from WGU’s Career Quest with Dwayne Clarke | Ally's Notes | [Read More](https://medium.com/p/8cde00f87232) |
 | Thu, 04 Sep 2025 21:10:13 GMT | How a Simple PDF Generator Led Me to a Bug in Government Systems | Motoko Ayanami | [Read More](https://medium.com/p/07ac397d45e3) |
 | Thu, 04 Sep 2025 21:04:38 GMT | Generative AI Meets Identity: Deepfake Voices Cracking IAM Systems | Yashasvi Sharma | [Read More](https://medium.com/p/e971598934bf) |
 | Thu, 04 Sep 2025 20:45:12 GMT | Are Your Employees Making These 7 Common AI Phishing Mistakes? (And How to Fix Them) | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/a89912d7583d) |
@@ -110,7 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 15:20:43 GMT | The Turning Point in My Cybersecurity Journey | Mehdi Ben Fredj | [Read More](https://medium.com/p/ca460989a563) |
 | Thu, 04 Sep 2025 15:16:00 GMT | The Forbidden Craving We All Hide | Kats at the Crossroads | [Read More](https://medium.com/p/9af03abad065) |
 | Thu, 04 Sep 2025 15:12:05 GMT | Why Form Validation is Crucial: Security, Functionality, and Real-World Risks Explained | Akshay Mulay | [Read More](https://medium.com/p/f6352c94e1a5) |
-| Thu, 04 Sep 2025 15:03:00 GMT | “Day 28: The DOM Clobbering Coup — How I Turned a Simple Comment Box into a CSP Bypass” | Aman Sharma | [Read More](https://medium.com/p/109af0e954a6) |
-| Thu, 04 Sep 2025 14:56:11 GMT | 有限資源，無限賽局-為何優秀的畢業生，都只能往科技業擠？從資安推動角度看就業選擇 | Kuro Huang | [Read More](https://medium.com/p/b63c1bbc7ed5) |
-| Thu, 04 Sep 2025 14:52:34 GMT | Airports | Dietmar Marggraff | [Read More](https://medium.com/p/1246b4c674c0) |
-| Thu, 04 Sep 2025 14:52:16 GMT | Approaching stealers devs: a brief interview with MacSync (ex-mentalpositive) | g0njxa | [Read More](https://medium.com/p/62504db3e761) |
