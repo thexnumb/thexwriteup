@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 12:32:23 GMT | How Do Security and Privacy by Design Services Support Digital Transformation? | Ziya Zoe | [Read More](https://medium.com/p/6b851360b554) |
+| Thu, 04 Sep 2025 12:28:14 GMT | AI Security Operations & Threat Management Services vs. Traditional Cybersecurity Approaches | sanya | [Read More](https://medium.com/p/3b360fe6635c) |
+| Thu, 04 Sep 2025 12:27:42 GMT | Understanding SSL Hijacking: How It Works? and How to Stay Safe? | Okan | [Read More](https://medium.com/p/51f4bae1820b) |
+| Thu, 04 Sep 2025 12:23:51 GMT | Why Should Companies Adopt Security and Privacy by Design Services Instead of Traditional Security… | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dbe966d1b679) |
+| Thu, 04 Sep 2025 12:22:03 GMT | When Scammers Pretend to Be People You Know | Internet Exposed | [Read More](https://medium.com/p/4cdd4f05e7b6) |
+| Thu, 04 Sep 2025 12:14:07 GMT | CVE-2025–57833: SQL Injection Flaw in Django’s FilteredRelation Feature Raises Red Flags | gm0 | [Read More](https://medium.com/p/bf56e4d28c52) |
+| Thu, 04 Sep 2025 12:10:47 GMT | Intellichat: What If Your Knowledge Could Talk Back? | Annie Garg | [Read More](https://medium.com/p/137a9bbb66db) |
+| Thu, 04 Sep 2025 12:09:31 GMT | XSS Tricks to Bypass Web Application Firewall in a URL | Rashadul Islam | [Read More](https://medium.com/p/b0e476abea49) |
+| Thu, 04 Sep 2025 12:09:04 GMT | Complete Nodejs Security Guide 2025: From Code to Production | Manish Prasad | [Read More](https://medium.com/p/c6470823dc2e) |
+| Thu, 04 Sep 2025 12:06:20 GMT | How I Passed the TCM PSAA Exam: My Journey from Preparation to Certification | Prince Johnrhoe Nocos | [Read More](https://medium.com/p/7db27b3ee7dc) |
+| Thu, 04 Sep 2025 12:01:45 GMT | OneTerm: The Open-Source Bastion Host I Refactored in Three Months | leo | [Read More](https://medium.com/p/576e82b24b66) |
+| Thu, 04 Sep 2025 11:59:17 GMT | Hackers Exploit X’s Grok AI to Spread Malicious Links Through Promoted Posts | Jasmitharouthu | [Read More](https://medium.com/p/48a2a54cb68d) |
+| Thu, 04 Sep 2025 11:59:17 GMT | DockerLabs Writeup — JenkHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/4ee2d55cd54f) |
+| Thu, 04 Sep 2025 11:57:36 GMT | Shadow AI — when teams use AI tools without IT oversight — is no longer a hypothetical risk. | Century Solutions Group | [Read More](https://medium.com/p/8db40003a4eb) |
+| Thu, 04 Sep 2025 11:41:30 GMT | Best Career Paths After IT Training in India - Technoglobe | Technoglobe India | [Read More](https://medium.com/p/a3f8de2e6717) |
+| Thu, 04 Sep 2025 11:37:21 GMT | 2FA Bypass via Request Handling Flaw | TSxNINJA | [Read More](https://medium.com/p/e4cf21bb4c55) |
 | Thu, 04 Sep 2025 11:35:17 GMT | Top 7 Cybersecurity Programs That Close 99% of Security Gaps | SecureSlate | [Read More](https://medium.com/p/4b45c6eda669) |
 | Thu, 04 Sep 2025 11:33:37 GMT | Top Personal Cybersecurity Measures To Take When Trading in Crypto | IamPreth | [Read More](https://medium.com/p/1fc1e46bb0ec) |
 | Thu, 04 Sep 2025 11:31:47 GMT | Google Services Face Major Outage Impacting Millions Across US, Turkey and Eastern Europe | Jasmitharouthu | [Read More](https://medium.com/p/72d75d470abf) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 07:50:35 GMT | Penetration Testing Certification Roadmap for Beginners | cyber security Updates | [Read More](https://medium.com/p/81ec095c95cb) |
 | Thu, 04 Sep 2025 07:46:00 GMT | 5 Best VPN Services for Secure & Private Browsing in 2025 | Techlio | [Read More](https://medium.com/p/b55cab858c3a) |
 | Thu, 04 Sep 2025 07:42:51 GMT | Inside the Mind of a Red Teamer: A Realistic Attack Simulation | Aenosh Rajora | [Read More](https://medium.com/p/6d29ef958f86) |
-| Thu, 04 Sep 2025 07:34:03 GMT | Siber Güvenlik Notlarım (İkinci Kısım) | Muhammed Fidan | [Read More](https://medium.com/p/eab7d88d6daf) |
-| Thu, 04 Sep 2025 07:31:20 GMT | Siber Güvenlik Notlarım(İlk Kısım) | Muhammed Fidan | [Read More](https://medium.com/p/d81eb5971e52) |
-| Thu, 04 Sep 2025 07:27:01 GMT | Agentic AI is Probing Your Network: The Cybersecurity Wake-Up Call You Can’t Ignore | ZENcurity | [Read More](https://medium.com/p/266862378900) |
-| Thu, 04 Sep 2025 07:26:55 GMT | Cloud Security in 2025: Breaches, Risks, and Evolving Challenges | Sam Bishop | [Read More](https://medium.com/p/489b8f8bed80) |
-| Thu, 04 Sep 2025 07:24:48 GMT | Happiness as a Constitutional Right | Phill Jones | [Read More](https://medium.com/p/0341a5329fd5) |
-| Thu, 04 Sep 2025 07:23:32 GMT | The Cyber Kill Chain: A Complete Guide for 2025 | RSVR Tech | [Read More](https://medium.com/p/b6fc6d3179c9) |
-| Thu, 04 Sep 2025 07:21:36 GMT | Let Hack Students Password Manager | Mainekhacker | [Read More](https://medium.com/p/3f44ec02841b) |
-| Thu, 04 Sep 2025 07:17:36 GMT | Docker and Kubernetes Security: Container Breakout Scenarios | Esra Kayhan | [Read More](https://medium.com/p/b3c15f40936b) |
-| Thu, 04 Sep 2025 07:15:40 GMT | BB84 Protocol Explained: Theory, Math, Security & Practical QKD | Servifyspheresolutions | [Read More](https://medium.com/p/d3d6bb4efa6e) |
-| Thu, 04 Sep 2025 07:11:34 GMT | Day 50- Authentication vs Authorization for beginners | unica 02 | [Read More](https://medium.com/p/02afe23c79b3) |
-| Thu, 04 Sep 2025 07:09:05 GMT | Terzettoo: Empowering Businesses with Infotech & IT Consulting Excellence | Mauryajatin | [Read More](https://medium.com/p/5e819e5c391d) |
-| Thu, 04 Sep 2025 07:07:33 GMT | LetsDefend SOC Alerts - SOC 101- Event ID: 29 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/97df510145a1) |
-| Thu, 04 Sep 2025 07:03:22 GMT | Remove Malware from WordPress Website and Keep it Safe from Bots and DDoS | Azuren | [Read More](https://medium.com/p/2e945a047176) |
-| Thu, 04 Sep 2025 06:59:23 GMT | Top-Rated Nigerian Cybersecurity Companies in 2025 | Qualysec | [Read More](https://medium.com/p/6c41f21bac6d) |
-| Thu, 04 Sep 2025 06:57:32 GMT | Complete Guide: Fix Google Workspace Data Backup Problems | Kai Miller | [Read More](https://medium.com/p/ef33b7f6936c) |
-| Thu, 04 Sep 2025 06:56:49 GMT | Beware: AI-Based Ransomware Is on the Rise! | Sydeco Indonesia | [Read More](https://medium.com/p/fa2d1e55236a) |
