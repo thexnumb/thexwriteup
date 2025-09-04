@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 05:08:18 GMT | Why a Cybersecurity Architect Is Essential for Your Business | ericjeffery | [Read More](https://medium.com/p/39ab46b122aa) |
+| Thu, 04 Sep 2025 05:02:30 GMT | Quantum Computing and Blockchain Security | Dukerearing | [Read More](https://medium.com/p/6e570f1b2336) |
+| Thu, 04 Sep 2025 04:56:55 GMT | Why the Best Ethical Hacking Certification for Beginners Can Jumpstart Your Cybersecurity Career | Tomcruise | [Read More](https://medium.com/p/b0e2a032085d) |
+| Thu, 04 Sep 2025 04:56:25 GMT | From Voicemails to Vulnerabilities: How UpCrypter Phishing Exposes Businesses — and What to Do… | eL Njas!™ | [Read More](https://medium.com/p/68262d3bc448) |
+| Thu, 04 Sep 2025 04:53:24 GMT | Pen Testing Is More Than Finding Bugs: A Practical, Client-First Guide | Aman Bhuiyan | [Read More](https://medium.com/p/e23c705f51cd) |
+| Thu, 04 Sep 2025 04:51:52 GMT | ThunderCipher-Lab[Thunder01] | Bhuwan Patidar | [Read More](https://medium.com/p/66d737a77a0a) |
+| Thu, 04 Sep 2025 04:49:47 GMT | CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog | SCtoCS | [Read More](https://medium.com/p/88667504b8d1) |
+| Thu, 04 Sep 2025 04:45:20 GMT | Cloudflare Stops Record-Breaking 11.5 Tbps DDoS Attack | SCtoCS | [Read More](https://medium.com/p/25ca4a4a966a) |
+| Thu, 04 Sep 2025 04:42:20 GMT | Top 8 GCP Security KPIs You Must Track in Your SIEM | Paritosh | [Read More](https://medium.com/p/84893629f66c) |
+| Thu, 04 Sep 2025 04:41:46 GMT | Logs Don’t Lie: How I Read Their Logs and Wrote My Own Access Rules | Iski | [Read More](https://medium.com/p/a29bb7cb9684) |
+| Thu, 04 Sep 2025 04:41:04 GMT | OAuth Token Theft Impacts Hundreds of Organizations | SCtoCS | [Read More](https://medium.com/p/3d7e2a5232a1) |
+| Thu, 04 Sep 2025 04:40:35 GMT | Fort Knox for Django: 8 Security Best Practices Every Developer Must Know | Priyanshu Rajput | [Read More](https://medium.com/p/3c75cd58b67f) |
+| Thu, 04 Sep 2025 04:38:23 GMT | Smarter Beats New: The Website Upgrade Playbook | Phantasm  solutions | [Read More](https://medium.com/p/0f62413bd04d) |
+| Thu, 04 Sep 2025 04:36:17 GMT | 5 IT Trends Every Business Owner Should Know Before 2026 | Devarshi Acharya | [Read More](https://medium.com/p/03afee92447a) |
 | Thu, 04 Sep 2025 04:32:39 GMT | Your Business Is One DPDP Request Away from a ₹250 Crore Disaster | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/6992338d8779) |
 | Thu, 04 Sep 2025 04:23:41 GMT | The September Refresh: How to Bring Order Back into Your Home | Andrea Thompson | [Read More](https://medium.com/p/934feb833a58) |
 | Thu, 04 Sep 2025 04:15:36 GMT | Encrypted Vault for Password Storage (C++) | Wuntchwrites | [Read More](https://medium.com/p/1b0ffb1b3ce7) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 20:17:27 GMT | OffSec: Outdated — Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/39c1ad9fb7d7) |
 | Wed, 03 Sep 2025 20:13:44 GMT | Steel Fence Supply and Maintenance Services | Takeosartorius | [Read More](https://medium.com/p/2208c578ab97) |
 | Wed, 03 Sep 2025 20:10:34 GMT | Vulnerable and Outdated Components (OWASP Top 10 #6) — Simplified | Chai | [Read More](https://medium.com/p/4a170b83f052) |
-| Wed, 03 Sep 2025 19:44:15 GMT | Cybersecurity Workforce: The Unsung Heroes of the Digital Age | Akshay Chauhan | [Read More](https://medium.com/p/0fda50d7d744) |
-| Wed, 03 Sep 2025 19:41:35 GMT | How to Spot Early Signs of a Cyber Attack on Your Factory Floor | Cyberkech | [Read More](https://medium.com/p/74abf10d634d) |
-| Wed, 03 Sep 2025 19:40:56 GMT | The Parkinson’s Law for AI Cybersecurity: Six Dangers of Systemic Failure in Autonomous Security | Valdez Ladd | [Read More](https://medium.com/p/95218e72b1bb) |
-| Wed, 03 Sep 2025 19:35:54 GMT | The AI Ghost in Your Terminal: An AI Copilot for Penetration Testing | Sophia Martinez | [Read More](https://medium.com/p/73767135be33) |
-| Wed, 03 Sep 2025 19:24:36 GMT | Ransomware Analysis: The Static, The Dynamic, and The Hybrid | Chris Zhang | [Read More](https://medium.com/p/94743a9e4fdd) |
-| Wed, 03 Sep 2025 19:10:53 GMT | Holding On to My Passions: Why Dreams Matter More Than “Reality” | Starlight S | [Read More](https://medium.com/p/3094bc7a9101) |
-| Wed, 03 Sep 2025 19:09:19 GMT | Harnessing Google Threat Intelligence for Smarter Security Operations | Parth Modi | [Read More](https://medium.com/p/c1f856cf93dd) |
-| Wed, 03 Sep 2025 19:02:17 GMT | The End of Privacy: Why You Already Lost the Battle | The Dev Notebook | [Read More](https://medium.com/p/1d6b66da294c) |
-| Wed, 03 Sep 2025 18:59:45 GMT | # GPS Sahtekarlığı ve Konum Yönlendirme Araştırması | Burak BALTA | [Read More](https://medium.com/p/d9608fd63a5a) |
-| Wed, 03 Sep 2025 18:59:25 GMT | Praktikum Internet of Things: Mengenal Komponen pada Arduino Kit | Muhammad Surya Saputro | [Read More](https://medium.com/p/b33945e3bf18) |
-| Wed, 03 Sep 2025 18:56:42 GMT | # Drone C2 Research: Security, Threats, and Mitigation | Burak BALTA | [Read More](https://medium.com/p/863138336959) |
-| Wed, 03 Sep 2025 18:55:50 GMT | “Stealthy Images”: خطر خفي في صور الذكاء الاصطناعي يُهدد بياناتك الشخصية | Mohamed Swidan | [Read More](https://medium.com/p/d122eac414b2) |
-| Wed, 03 Sep 2025 18:52:53 GMT | OS2 Binary Bomb Lab: Phase 6 | Sourav Bose | [Read More](https://medium.com/p/cc79049963b0) |
-| Wed, 03 Sep 2025 18:45:27 GMT | # RFID in Building Access Security: Technology, Threats, and Mitigation | Burak BALTA | [Read More](https://medium.com/p/60b72cd243a1) |
