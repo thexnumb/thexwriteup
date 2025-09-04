@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 04:32:39 GMT | Your Business Is One DPDP Request Away from a ₹250 Crore Disaster | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/6992338d8779) |
+| Thu, 04 Sep 2025 04:23:41 GMT | The September Refresh: How to Bring Order Back into Your Home | Andrea Thompson | [Read More](https://medium.com/p/934feb833a58) |
 | Thu, 04 Sep 2025 04:15:36 GMT | Encrypted Vault for Password Storage (C++) | Wuntchwrites | [Read More](https://medium.com/p/1b0ffb1b3ce7) |
 | Thu, 04 Sep 2025 04:09:03 GMT | HTTP: The Language Behind the Web | cybergriotz | [Read More](https://medium.com/p/3fb3fe5f9aaf) |
 | Thu, 04 Sep 2025 04:07:29 GMT | The CISO’s New Playbook: Concrete Steps for 2025 | Akilnath Bodipudi | [Read More](https://medium.com/p/13e2656b8fc6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 18:55:50 GMT | “Stealthy Images”: خطر خفي في صور الذكاء الاصطناعي يُهدد بياناتك الشخصية | Mohamed Swidan | [Read More](https://medium.com/p/d122eac414b2) |
 | Wed, 03 Sep 2025 18:52:53 GMT | OS2 Binary Bomb Lab: Phase 6 | Sourav Bose | [Read More](https://medium.com/p/cc79049963b0) |
 | Wed, 03 Sep 2025 18:45:27 GMT | # RFID in Building Access Security: Technology, Threats, and Mitigation | Burak BALTA | [Read More](https://medium.com/p/60b72cd243a1) |
-| Wed, 03 Sep 2025 18:38:49 GMT | Unhackable? The Reality Behind Maduro’s Huawei Claim | Yusuf Asan | [Read More](https://medium.com/p/4e8a56e1f2ed) |
-| Wed, 03 Sep 2025 18:34:26 GMT | L’Éducation en France en 2025 : Entre Réformes et Réalités | Lymra | [Read More](https://medium.com/p/900e887efb84) |
