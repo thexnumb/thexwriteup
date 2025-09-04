@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 07:03:22 GMT | Remove Malware from WordPress Website and Keep it Safe from Bots and DDoS | Azuren | [Read More](https://medium.com/p/2e945a047176) |
+| Thu, 04 Sep 2025 06:59:23 GMT | Top-Rated Nigerian Cybersecurity Companies in 2025 | Qualysec | [Read More](https://medium.com/p/6c41f21bac6d) |
+| Thu, 04 Sep 2025 06:57:32 GMT | Complete Guide: Fix Google Workspace Data Backup Problems | Kai Miller | [Read More](https://medium.com/p/ef33b7f6936c) |
+| Thu, 04 Sep 2025 06:56:49 GMT | Beware: AI-Based Ransomware Is on the Rise! | Sydeco Indonesia | [Read More](https://medium.com/p/fa2d1e55236a) |
 | Thu, 04 Sep 2025 06:45:53 GMT | Navigating 2025’s Tech Wave: AI, Apple, Google, and the Future of Innovation | Newsglobal | [Read More](https://medium.com/p/2719d9723e3f) |
 | Thu, 04 Sep 2025 06:44:10 GMT | AI-Powered Security Analysis in Web Development | Munevver Onyay | [Read More](https://medium.com/p/dcaef9e34212) |
 | Thu, 04 Sep 2025 06:33:43 GMT | Why Is My Printer Printing Faded? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/c420683ebcd4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 22:24:40 GMT | ️ Multi-Brand / Multi-Tenant Pentest Checklist | BugHunter021 | [Read More](https://medium.com/p/d9178868c40f) |
 | Wed, 03 Sep 2025 22:24:38 GMT | Can Your Security Stack See ChatGPT? Why Network Visibility Matters | Cyber-AppSec | [Read More](https://medium.com/p/d733636afbbe) |
 | Wed, 03 Sep 2025 22:17:28 GMT | Building a Continuous Red Team with Automation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cd300adf5662) |
-| Wed, 03 Sep 2025 22:15:40 GMT | Identification and Authentication Failures (OWASP Top 10 #7) — Simplified | Chai | [Read More](https://medium.com/p/255da755a056) |
-| Wed, 03 Sep 2025 22:13:50 GMT | NucAIScan: AI-Assisted Web Application Security Scanner | Onurcan Genç | [Read More](https://medium.com/p/60007bdcd571) |
-| Wed, 03 Sep 2025 22:13:20 GMT | Surveillance Everywhere: The Surprising Truth About Your Connected Life | Om Kinkhabwala | [Read More](https://medium.com/p/2954e1e12465) |
-| Wed, 03 Sep 2025 22:11:46 GMT | ️‍♂️ Cât de real și sigur e modul Incognito din Google Chrome? | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/9b5327140393) |
