@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 14:14:52 GMT | Vulnerability Disclosure Challenges in Open Source Projects | ZAST AI | [Read More](https://medium.com/p/8c2378d7b3c8) |
+| Thu, 04 Sep 2025 14:12:23 GMT | Why Choosing the Right Cyber Security Service Provider Matters | Lanvaus | [Read More](https://medium.com/p/0b76b3e75748) |
+| Thu, 04 Sep 2025 14:11:57 GMT | How to write a good Bug Bounty Report | Appsec.pt | [Read More](https://medium.com/p/76d935a8c5b1) |
+| Thu, 04 Sep 2025 14:02:39 GMT | Security is now centerstage in the AI news cycle but it needs to remain there | Tui Media | [Read More](https://medium.com/p/944bc9aecd9b) |
+| Thu, 04 Sep 2025 14:01:39 GMT | The Future of CFO Leadership: 7 Digital Trends Shaping 2025 | Michael Stickler | [Read More](https://medium.com/p/8404b10076c3) |
+| Thu, 04 Sep 2025 14:01:38 GMT | Secure Your Code with Copilot Security Instructions | Jay Simmons | [Read More](https://medium.com/p/c725438100a5) |
+| Thu, 04 Sep 2025 14:01:38 GMT | Deep Engineering #16: Designing Systems for Longevity with Alexander Kushnir | Divya Anne Selvaraj | [Read More](https://medium.com/p/d8e639bc7e67) |
+| Thu, 04 Sep 2025 14:01:38 GMT | Cyber Briefing: 2025.09.04 | CyberMaterial | [Read More](https://medium.com/p/dd5287457c84) |
+| Thu, 04 Sep 2025 13:57:30 GMT | ThunderCipher-Lab[Dizzy] | Bhuwan Patidar | [Read More](https://medium.com/p/4c072e7f43ff) |
+| Thu, 04 Sep 2025 13:57:28 GMT | Building my first offensive security agent — part 1 | OTR | [Read More](https://medium.com/p/7b2dbb93c842) |
+| Thu, 04 Sep 2025 13:52:14 GMT | The Rising Cost of Data Privacy: Why Cybersecurity Stocks Are Surging | The Thematic Investor | [Read More](https://medium.com/p/a343cdda2060) |
+| Thu, 04 Sep 2025 13:49:34 GMT | The Top 5 Mistakes Companies Make with Workplace Security | Drake Current | [Read More](https://medium.com/p/401122e4da2d) |
+| Thu, 04 Sep 2025 13:47:55 GMT | Running HashiCorp Vault Radar in a Container | Raymon Epping | [Read More](https://medium.com/p/4205abe51c8f) |
+| Thu, 04 Sep 2025 13:45:39 GMT | Build Your Own SOC Home Lab with Splunk, Windows Server, Linux Server, and pfSense Firewall | j1sec | [Read More](https://medium.com/p/98ae78909603) |
+| Thu, 04 Sep 2025 13:42:23 GMT | My Summer School Adventure in Brno, Czech Republic | Esther Nyumu | [Read More](https://medium.com/p/7726b64bf2a7) |
+| Thu, 04 Sep 2025 13:42:17 GMT | Why Small Businesses Need Strong Cyber Security Now More Than Ever | Kartik Debnath | [Read More](https://medium.com/p/a93be07f4404) |
+| Thu, 04 Sep 2025 13:40:42 GMT | Skyblind: How Russia’s GPS Bombardment Forced Ukraine — and All of Europe — to Navigate by Paper… | Waleed’s Edge Knowledge | [Read More](https://medium.com/p/4880f21e99f5) |
 | Thu, 04 Sep 2025 13:39:16 GMT | AI-assisted vetting of software packages | Helsing | [Read More](https://medium.com/p/b4c47a271ce9) |
 | Thu, 04 Sep 2025 13:34:51 GMT | Digging Holes to Heal Myself | The Passionate Pen | [Read More](https://medium.com/p/d82deef4e950) |
 | Thu, 04 Sep 2025 13:32:49 GMT | The Calm That Found Her | Arabella | [Read More](https://medium.com/p/0332796d73af) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 10:07:22 GMT | ⚡ XSS (Cross-Site Scripting) Vulnerabilities and Exploit Techniques | Esra Kayhan | [Read More](https://medium.com/p/76bb111925ca) |
 | Thu, 04 Sep 2025 10:05:15 GMT | How Next‑Gen SAST & DAST Tools Are Unblocking DevOps — 8 Platforms That Actually Ship Secure… | Iliya Garakh | [Read More](https://medium.com/p/bfbc6ef174a1) |
 | Thu, 04 Sep 2025 10:02:40 GMT | HTB Bug Bounty Hunter Certification-Command Injection Skill Assessment. | Sourabh Sharma | [Read More](https://medium.com/p/84ae6f7508b5) |
-| Thu, 04 Sep 2025 10:01:01 GMT | The Real Price of Ignoring IT Problems in Your Business | ITTechBox | [Read More](https://medium.com/p/63c0065d2d64) |
-| Thu, 04 Sep 2025 10:00:45 GMT | Beyond Chatbots: 7 Real-World Applications of Generative AI. | Anupghimire | [Read More](https://medium.com/p/0c7424777e3d) |
-| Thu, 04 Sep 2025 09:54:05 GMT | Using HTML as a ladder — | Manashreerao | [Read More](https://medium.com/p/f5c107e88e27) |
-| Thu, 04 Sep 2025 09:49:44 GMT | Committed — TryHackMe Write-Up | Furkanctiner | [Read More](https://medium.com/p/d81052336d88) |
-| Thu, 04 Sep 2025 09:43:45 GMT | Your ChatGPT History Went Public on Google. Here’s How I Fixed It in 10 Minutes. | Cary Burton | [Read More](https://medium.com/p/78b568d9baf5) |
-| Thu, 04 Sep 2025 09:43:23 GMT | Infiltrating PostgreSQL on Metasploitable2️:Operation Database Breach | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/f9fa80090097) |
-| Thu, 04 Sep 2025 09:43:06 GMT | GoldenEye: 1 VulnHub - Walkthrough | Rikin | [Read More](https://medium.com/p/56bdd1601672) |
-| Thu, 04 Sep 2025 09:41:08 GMT | Beyond the Badge: Why Professional Security Guard Services are Non-Negotiable in Modern India | Ciss India | [Read More](https://medium.com/p/2442b43f0a0b) |
-| Thu, 04 Sep 2025 09:40:07 GMT | The DPO Paradox: Why Your Most Strategic Asset Has a Part-Time Guardian | Arvind Mehrotra | [Read More](https://medium.com/p/c1110f1c2cc9) |
-| Thu, 04 Sep 2025 09:37:16 GMT | A Look into the Future: A New Strategic Plan for AI in the Mathematical and Physical Sciences | Berend Watchus | [Read More](https://medium.com/p/be1501440e96) |
-| Thu, 04 Sep 2025 09:36:47 GMT | AI-Powered Cybersecurity Training: Preparing the GCC Workforce | Chetan R. | [Read More](https://medium.com/p/2c89ad066f0f) |
-| Thu, 04 Sep 2025 09:26:33 GMT | On Blocking xmlrpc.php | Karl Kubelet | [Read More](https://medium.com/p/aceecb09ab7b) |
-| Thu, 04 Sep 2025 09:25:48 GMT | JNI NewObject Abstract Class Instantiation Vulnerability | Numen Cyber Labs | [Read More](https://medium.com/p/d79ad7552311) |
-| Thu, 04 Sep 2025 09:25:15 GMT | Penetration Testing Processes and Basic Techniques | PenligentAI | [Read More](https://medium.com/p/df2c772340d3) |
-| Thu, 04 Sep 2025 09:23:53 GMT | Hack From Home? Start Here For Free | SilentInject | [Read More](https://medium.com/p/99a44c867084) |
-| Thu, 04 Sep 2025 09:22:11 GMT | CYBER ABUSE™: THE SUBSCRIPTION YOU NEVER ASKED FOR | Jesslyn Jenkens | [Read More](https://medium.com/p/b4569f005d12) |
-| Thu, 04 Sep 2025 09:17:30 GMT | Real-Time DNS Leakage Detection with Machine Learning and Packet Inspection | Esra Kayhan | [Read More](https://medium.com/p/da37cca7c31b) |
