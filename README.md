@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 04:15:36 GMT | Encrypted Vault for Password Storage (C++) | Wuntchwrites | [Read More](https://medium.com/p/1b0ffb1b3ce7) |
+| Thu, 04 Sep 2025 04:09:03 GMT | HTTP: The Language Behind the Web | cybergriotz | [Read More](https://medium.com/p/3fb3fe5f9aaf) |
+| Thu, 04 Sep 2025 04:07:29 GMT | The CISO’s New Playbook: Concrete Steps for 2025 | Akilnath Bodipudi | [Read More](https://medium.com/p/13e2656b8fc6) |
+| Thu, 04 Sep 2025 04:05:26 GMT | Pulumi…Ready to Claim the Infrastructure-as-Code Throne? | Omar Din | [Read More](https://medium.com/p/7682a75f6b6b) |
+| Thu, 04 Sep 2025 04:01:44 GMT | The Role of AI in Modern Cybersecurity: Opportunities and Risks (2025 Edition) | Secventra | [Read More](https://medium.com/p/7b1fb863b05e) |
+| Thu, 04 Sep 2025 03:56:54 GMT | Introducción a la API de Windows Para el desarrollo de malware, parte 1. | Dalton | [Read More](https://medium.com/p/051bcdbd09fd) |
+| Thu, 04 Sep 2025 03:54:16 GMT | Pengenalan Komponen Arduino Kit | Akbar Indra Saputra | [Read More](https://medium.com/p/b52f2497cf22) |
+| Thu, 04 Sep 2025 03:47:46 GMT | Chaining Path Traversal Vulnerability to RCE  — Meta’s 111,750$ Bug | Abhishek meena | [Read More](https://medium.com/p/a98a473c6a05) |
+| Thu, 04 Sep 2025 03:39:25 GMT | Allowing ACME Requests for SSL Certificates in SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/0e0867450ff3) |
 | Thu, 04 Sep 2025 03:36:33 GMT | Web Security Essentials — Tryhackme Talkthrough | TRedEye | [Read More](https://medium.com/p/d11b294eb4cc) |
 | Thu, 04 Sep 2025 03:31:36 GMT | Top 7 Benefits of Using an Anti-Corruption Layer in Node.js | Arunangshu Das | [Read More](https://medium.com/p/b87e9fce64fc) |
 | Thu, 04 Sep 2025 03:31:36 GMT | How a Raspberry Pi Nearly Pulled Off a Bank Heist | Deven Chhajed | [Read More](https://medium.com/p/6df1aabc24a3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 18:45:27 GMT | # RFID in Building Access Security: Technology, Threats, and Mitigation | Burak BALTA | [Read More](https://medium.com/p/60b72cd243a1) |
 | Wed, 03 Sep 2025 18:38:49 GMT | Unhackable? The Reality Behind Maduro’s Huawei Claim | Yusuf Asan | [Read More](https://medium.com/p/4e8a56e1f2ed) |
 | Wed, 03 Sep 2025 18:34:26 GMT | L’Éducation en France en 2025 : Entre Réformes et Réalités | Lymra | [Read More](https://medium.com/p/900e887efb84) |
-| Wed, 03 Sep 2025 18:34:17 GMT | Student’s Guide to Starting a CyberSecurity Career — Before It’s Too Late | Azhariqbal | [Read More](https://medium.com/p/9ad7fe37be3c) |
-| Wed, 03 Sep 2025 18:31:54 GMT | Batch-Neighbor Exfiltration (MoE × SpecDec): Turning Shared Inference Into a Keyword Oracle | aviral srivastava | [Read More](https://medium.com/p/272798a264f8) |
-| Wed, 03 Sep 2025 18:31:35 GMT | Automation with Ansible | Adarsh K | [Read More](https://medium.com/p/7c2af364cad3) |
-| Wed, 03 Sep 2025 18:30:07 GMT | Malware Classification THM Write-up tryhackme | Dhruv | [Read More](https://medium.com/p/2510a2c3dd03) |
-| Wed, 03 Sep 2025 18:30:02 GMT | CIA Triad in CyberSecurity | SecurewithUmer | [Read More](https://medium.com/p/38261fb56c2e) |
-| Wed, 03 Sep 2025 18:27:31 GMT | How Palantir Mastered In-Toto | Palantir | [Read More](https://medium.com/p/b8a7107371bb) |
-| Wed, 03 Sep 2025 18:25:49 GMT | Why Digital Trust Needs a Reset | Aliciasierra | [Read More](https://medium.com/p/729b8aa9901e) |
-| Wed, 03 Sep 2025 18:22:37 GMT | Manufacturing IT Services That Streamline Operations and Boost Productivity | Arclight Group | [Read More](https://medium.com/p/6252c256ff84) |
-| Wed, 03 Sep 2025 18:19:53 GMT | The Silent Hunter: WhatsApp’s Most Dangerous Bug Yet | Gautam Mengle | [Read More](https://medium.com/p/ef7f63e48925) |
