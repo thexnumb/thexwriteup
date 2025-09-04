@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 13:24:08 GMT | Six Network Scanners Rewiring Hybrid-Cloud Security (What Your Old Scanner Misses) | Iliya Garakh | [Read More](https://medium.com/p/782bd73be357) |
+| Thu, 04 Sep 2025 13:21:30 GMT | What Is a Firewall in Computer Networks? How It Protects You From Online Threats | Timónofearth | [Read More](https://medium.com/p/b4776c7aa6d2) |
+| Thu, 04 Sep 2025 13:14:19 GMT | From Alert Overload to Action: 8 New Vulnerability Management Platforms That Actually Reduce Risk | Iliya Garakh | [Read More](https://medium.com/p/d5e555bd2da6) |
+| Thu, 04 Sep 2025 13:13:23 GMT | NIST Frameworks You Should Master as a Security Analyst | SecurewithUmer | [Read More](https://medium.com/p/e0a760c7de1a) |
+| Thu, 04 Sep 2025 13:12:51 GMT | Baby VM Walkthrough | Spookz | [Read More](https://medium.com/p/c5f395417360) |
+| Thu, 04 Sep 2025 13:11:43 GMT | I Found a Critical RCE on RedBull Using Just Recon | Ibtissam hammadi | [Read More](https://medium.com/p/1e9143ce5f48) |
+| Thu, 04 Sep 2025 13:08:08 GMT | Ada Lovelace and the Story of the World’s First Algorithm | Stacklegend | [Read More](https://medium.com/p/c069c81157d7) |
+| Thu, 04 Sep 2025 13:01:39 GMT | Digital Decoys and False Flags: Inside the Tools Used to Confuse Defenders | CoopSys | [Read More](https://medium.com/p/3a5127e29ddd) |
+| Thu, 04 Sep 2025 12:58:54 GMT | HTB Footprinting Lab — Hard - Write-up | Oxja | [Read More](https://medium.com/p/12aeb1a47667) |
+| Thu, 04 Sep 2025 12:58:37 GMT | Zero-Day Supply Chain Risks — The Blind Spots You Don’t Own | Omex Oleksandr | [Read More](https://medium.com/p/101a5c32dbeb) |
+| Thu, 04 Sep 2025 12:58:34 GMT | Understanding Shannon Entropy: Measuring Randomness for Secure Code Auditing | Sagar | [Read More](https://medium.com/p/4b3c5697a7f9) |
+| Thu, 04 Sep 2025 12:57:48 GMT | Technology That Guards Silently | Quva India | [Read More](https://medium.com/p/7398e09f71e7) |
+| Thu, 04 Sep 2025 12:57:44 GMT | Why must we eat each other? | Nonjabulo Matomela | [Read More](https://medium.com/p/48646348603f) |
+| Thu, 04 Sep 2025 12:55:21 GMT | Paradigm Shifters — The Geniuses of the Information Revolution Who Rewrote the World | Stacklegend | [Read More](https://medium.com/p/83205808fe48) |
+| Thu, 04 Sep 2025 12:51:49 GMT | Secure Hosting for Colleges: Top 10 Providers in 2025 | Ridhi Sharma | [Read More](https://medium.com/p/5225bd37e137) |
+| Thu, 04 Sep 2025 12:51:32 GMT | NIST Cybersecurity Framework (CSF) | SecurewithUmer | [Read More](https://medium.com/p/c23b5efec5aa) |
+| Thu, 04 Sep 2025 12:46:44 GMT | SIM swap nedir? | Leonidas Gorgo | [Read More](https://medium.com/p/a50ab0904cbb) |
+| Thu, 04 Sep 2025 12:45:23 GMT | Secure and Accurate Enterprise AI: How MindsDB Delivers Security-First Data Intelligence | MindsDB | [Read More](https://medium.com/p/bb8de2c22ac0) |
+| Thu, 04 Sep 2025 12:39:12 GMT | From Chatbots to Cybercrime: The Dark Evolution of AI | Yusuf Asan | [Read More](https://medium.com/p/027f8c6e4e41) |
 | Thu, 04 Sep 2025 12:32:23 GMT | How Do Security and Privacy by Design Services Support Digital Transformation? | Ziya Zoe | [Read More](https://medium.com/p/6b851360b554) |
 | Thu, 04 Sep 2025 12:28:14 GMT | AI Security Operations & Threat Management Services vs. Traditional Cybersecurity Approaches | sanya | [Read More](https://medium.com/p/3b360fe6635c) |
 | Thu, 04 Sep 2025 12:27:42 GMT | Understanding SSL Hijacking: How It Works? and How to Stay Safe? | Okan | [Read More](https://medium.com/p/51f4bae1820b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 09:08:52 GMT | 10 Android Security Tips: Must read for android developers | Prakash Sharma | [Read More](https://medium.com/p/9553f3645cb5) |
 | Thu, 04 Sep 2025 09:00:46 GMT | Phishing in Cyber Law | Ankitinnjoshi | [Read More](https://medium.com/p/4a1ce29da2e5) |
 | Thu, 04 Sep 2025 09:00:00 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2a8baa1cb5e8) |
-| Thu, 04 Sep 2025 08:59:16 GMT | Don’t Just Watch for Threats; See Them Coming. | Waseem Akram | [Read More](https://medium.com/p/00b89e921d4f) |
-| Thu, 04 Sep 2025 08:56:24 GMT | Server Security at Risk from N-central Zero-Day Vulnerabilities | Criminal IP | [Read More](https://medium.com/p/e14e08653a56) |
-| Thu, 04 Sep 2025 08:56:22 GMT | ประจำวันพฤหัสบดีที่ 4 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/85b3725711ba) |
-| Thu, 04 Sep 2025 08:53:55 GMT | Top 6 Reasons to Hire a SaaS Contracts Attorney for Your Startup | Hansen Tong | [Read More](https://medium.com/p/cd8c24e2e59e) |
-| Thu, 04 Sep 2025 08:50:57 GMT | Car Hacking: The New Frontier In Cybersecurity | Redfox Security | [Read More](https://medium.com/p/e8455bc9158b) |
-| Thu, 04 Sep 2025 08:49:31 GMT | The Impact of AI on Cybersecurity: Opportunities and Challenges in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/e49539961f7e) |
-| Thu, 04 Sep 2025 08:45:47 GMT | Fix Broken Access Control in React.js (with Code) | Pentest_Testing_Corp | [Read More](https://medium.com/p/d119bc18f7bc) |
-| Thu, 04 Sep 2025 08:33:01 GMT | Broken Access Control: The #1 OWASP Risk explained in depth | CyberSenpai | [Read More](https://medium.com/p/ee561bde4dd8) |
-| Thu, 04 Sep 2025 08:25:19 GMT | Juicy Details — TryHackMe Forensics & Log Analysis Write-Up | Furkanctiner | [Read More](https://medium.com/p/0960a89481c0) |
-| Thu, 04 Sep 2025 08:18:54 GMT | Why Security Testing is Non-Negotiable for QA Engineers? | Lakindu De Silva | [Read More](https://medium.com/p/9dca25195021) |
-| Thu, 04 Sep 2025 08:17:46 GMT | No CSP, No Problem? Think Again — Clickjacking Explained | 0xsamraa | [Read More](https://medium.com/p/f937b32795c4) |
-| Thu, 04 Sep 2025 08:06:34 GMT | Cybersecurity, Information Governance, Legal Risk Management & Compliance with ISO Records… | Rana El Garhi | [Read More](https://medium.com/p/4dc2282e55b7) |
-| Thu, 04 Sep 2025 08:01:38 GMT | Why Your Linux Server Feels Slower Than Windows 98 (and How to Fix It) | MayhemCode | [Read More](https://medium.com/p/b486b209c77d) |
-| Thu, 04 Sep 2025 08:01:34 GMT | One Dashboard, Not Ten Tools: Why Teams Choose LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/4a5482d134d0) |
-| Thu, 04 Sep 2025 07:57:46 GMT | On Vulnerability | Gaj’s Gammy | [Read More](https://medium.com/p/272fa6b4c72d) |
-| Thu, 04 Sep 2025 07:55:41 GMT | Revolutionizing Security with AI: ElevateTrust.AI | Elevatetrust Ai | [Read More](https://medium.com/p/4b1990270501) |
-| Thu, 04 Sep 2025 07:50:35 GMT | Penetration Testing Certification Roadmap for Beginners | cyber security Updates | [Read More](https://medium.com/p/81ec095c95cb) |
-| Thu, 04 Sep 2025 07:46:00 GMT | 5 Best VPN Services for Secure & Private Browsing in 2025 | Techlio | [Read More](https://medium.com/p/b55cab858c3a) |
-| Thu, 04 Sep 2025 07:42:51 GMT | Inside the Mind of a Red Teamer: A Realistic Attack Simulation | Aenosh Rajora | [Read More](https://medium.com/p/6d29ef958f86) |
