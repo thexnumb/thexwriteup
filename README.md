@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 15:30:57 GMT | Leveraging Raw Disk Reads to Bypass EDR | Christopher Ellis | [Read More](https://medium.com/p/f145838b0e6d) |
+| Thu, 04 Sep 2025 15:28:23 GMT | ‍ Linux Kernel Security & Exploitation Resources | Balki Maharaj | [Read More](https://medium.com/p/8eb5849113b1) |
+| Thu, 04 Sep 2025 15:27:34 GMT | ThunderCipher-[POLO] | Bhuwan Patidar | [Read More](https://medium.com/p/27560dc70c73) |
+| Thu, 04 Sep 2025 15:26:04 GMT | Real Leadership in Cybersecurity: Why Trust Matters More Than Titles | Vijay Kumar Gupta | [Read More](https://medium.com/p/db89dddadf3c) |
+| Thu, 04 Sep 2025 15:21:11 GMT | MCP for the Enterprise! | John Rzeszotarski | [Read More](https://medium.com/p/d21327d12f7a) |
+| Thu, 04 Sep 2025 15:20:43 GMT | The Turning Point in My Cybersecurity Journey | Mehdi Ben Fredj | [Read More](https://medium.com/p/ca460989a563) |
 | Thu, 04 Sep 2025 15:16:00 GMT | The Forbidden Craving We All Hide | Kats at the Crossroads | [Read More](https://medium.com/p/9af03abad065) |
 | Thu, 04 Sep 2025 15:12:05 GMT | Why Form Validation is Crucial: Security, Functionality, and Real-World Risks Explained | Akshay Mulay | [Read More](https://medium.com/p/f6352c94e1a5) |
 | Thu, 04 Sep 2025 15:03:00 GMT | “Day 28: The DOM Clobbering Coup — How I Turned a Simple Comment Box into a CSP Bypass” | Aman Sharma | [Read More](https://medium.com/p/109af0e954a6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 11:10:50 GMT | AI Agents Are Evolving — So Are the Dangers Lurking With Them ? | Jivtesh S | [Read More](https://medium.com/p/db1a0e1fb2fd) |
 | Thu, 04 Sep 2025 11:06:07 GMT | The Hacker’s Library: 5 Must-Read Books Every InfoSec Professional Should Own | Aj | [Read More](https://medium.com/p/570229368135) |
 | Thu, 04 Sep 2025 11:05:25 GMT | Master Cyber Security Online — Learn & Get Job-Ready! | Pravin Choudhary | [Read More](https://medium.com/p/c56f95bb8f89) |
-| Thu, 04 Sep 2025 11:01:39 GMT | The Schrödinger’s ESC1 Vulnerability: Benchmark Update | Matheus Vilachã | [Read More](https://medium.com/p/e9a24421850b) |
-| Thu, 04 Sep 2025 10:59:33 GMT | Efficient and Reliable Next.js Web Development Services | Bhavesh Rajpurohit | [Read More](https://medium.com/p/85a18f5a35e9) |
-| Thu, 04 Sep 2025 10:55:45 GMT | August’s Updates: Fresh Connectors, SDK Update, and 2,200+ New Detection Rules | ANY.RUN | [Read More](https://medium.com/p/f2c83b84231e) |
-| Thu, 04 Sep 2025 10:51:20 GMT | Cyber Security Training in Hyderabad — Become a Certified Ethical Hacker & Security Expert | techsaavvy.com | [Read More](https://medium.com/p/3fcc55caae95) |
-| Thu, 04 Sep 2025 10:48:32 GMT | How to exploit? OPC UA — Open Platform Communications Unified Access — PORT 4840 | Very Lazy Tech | [Read More](https://medium.com/p/c1b9c7ea22fa) |
-| Thu, 04 Sep 2025 10:46:25 GMT | MeetC2 a.k.a Meeting C2 | Dhiraj | [Read More](https://medium.com/p/1fc2a6761068) |
