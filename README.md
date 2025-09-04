@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 03:36:33 GMT | Web Security Essentials — Tryhackme Talkthrough | TRedEye | [Read More](https://medium.com/p/d11b294eb4cc) |
+| Thu, 04 Sep 2025 03:31:36 GMT | Top 7 Benefits of Using an Anti-Corruption Layer in Node.js | Arunangshu Das | [Read More](https://medium.com/p/b87e9fce64fc) |
+| Thu, 04 Sep 2025 03:31:36 GMT | How a Raspberry Pi Nearly Pulled Off a Bank Heist | Deven Chhajed | [Read More](https://medium.com/p/6df1aabc24a3) |
+| Thu, 04 Sep 2025 03:31:16 GMT | My First RCE: Critical Bug on a Redacted Subdomain | MRKNIGHT-NIDU | [Read More](https://medium.com/p/6d4017324d62) |
+| Thu, 04 Sep 2025 03:22:15 GMT | Sonicwall 3YR NSM ON-PREM MANAGEMENT 25 NODE ADD-ON USG 01-USG-2105 | sunol tech | [Read More](https://medium.com/p/969869d8d824) |
 | Thu, 04 Sep 2025 03:19:44 GMT | IT Professionals in Australia: Jobs, Salaries, and Migration Pathways | CDR for Australia | [Read More](https://medium.com/p/e06e4ce6c2c1) |
 | Thu, 04 Sep 2025 03:13:43 GMT | OWASP LLM Top10 | Sai Udiga | [Read More](https://medium.com/p/a704ddaf0061) |
 | Thu, 04 Sep 2025 03:11:22 GMT | Yonyou U8 Cloud RCE: File Upload Bypass Confirmed | AerieWhole123 | [Read More](https://medium.com/p/f5b6d26c426f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 18:25:49 GMT | Why Digital Trust Needs a Reset | Aliciasierra | [Read More](https://medium.com/p/729b8aa9901e) |
 | Wed, 03 Sep 2025 18:22:37 GMT | Manufacturing IT Services That Streamline Operations and Boost Productivity | Arclight Group | [Read More](https://medium.com/p/6252c256ff84) |
 | Wed, 03 Sep 2025 18:19:53 GMT | The Silent Hunter: WhatsApp’s Most Dangerous Bug Yet | Gautam Mengle | [Read More](https://medium.com/p/ef7f63e48925) |
-| Wed, 03 Sep 2025 18:19:42 GMT | VulnOS “The Reporter’s Access” Lab: From SQLi to Root | Aditya Bhatt | [Read More](https://medium.com/p/b9e4c081581a) |
-| Wed, 03 Sep 2025 18:18:15 GMT | RAG at the Geometry Layer: Embedding-Collision Poisoning (and How to Measure Your Exposure) | aviral srivastava | [Read More](https://medium.com/p/3a720f99aebc) |
-| Wed, 03 Sep 2025 18:15:20 GMT | ScriptAnalyzer AI: Multi-Agent Framework for Efficient Malware Script Analysis | Yash Raval | [Read More](https://medium.com/p/1f8993c45ac9) |
-| Wed, 03 Sep 2025 18:13:16 GMT | Passwords & Authentication: Why “123456” Won’t Cut It Anymore | Hirad Showghi | [Read More](https://medium.com/p/ad9a199df4d0) |
-| Wed, 03 Sep 2025 18:09:19 GMT | Elevate Your Space with Golden Elegance: Wall Art That Speaks Style | "Prasad Tambade: Chronicles of a Curious Mind" | [Read More](https://medium.com/p/b094db34e838) |
