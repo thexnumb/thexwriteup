@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 20:11:45 GMT | BTLO Piggy Investigation | Juan Alexander Alejo | [Read More](https://medium.com/p/eab8239ea9a1) |
+| Thu, 04 Sep 2025 20:10:40 GMT | Restart | Edson Raines | [Read More](https://medium.com/p/a8358be6d6ed) |
+| Thu, 04 Sep 2025 20:07:37 GMT | Lo-Fi - TryHackMe | Laach_ | [Read More](https://medium.com/p/95d9ed5702f3) |
+| Thu, 04 Sep 2025 20:04:15 GMT | Guia de carreiras em Cibersegurança | Victor Zumbano | [Read More](https://medium.com/p/4c3b8fc17957) |
+| Thu, 04 Sep 2025 20:02:28 GMT | Why I Started Learning Cybersecurity by Lumae Tech | Lumae | [Read More](https://medium.com/p/21da9d53ff8e) |
+| Thu, 04 Sep 2025 19:56:18 GMT | Hackhalt — Community | Anonymous | [Read More](https://medium.com/p/9daaf8c11c6d) |
+| Thu, 04 Sep 2025 19:40:48 GMT | The Highway Heist: Exposing The E-ZPass Mobile Phishing Scheme | Tijan Hydara | [Read More](https://medium.com/p/b72c8ba7176c) |
+| Thu, 04 Sep 2025 19:37:23 GMT | The Hidden Dangers of Networked Risk: A Graph Theory Approach to Systemic Vulnerability | Patrick Lefler | [Read More](https://medium.com/p/7b744da70e48) |
 | Thu, 04 Sep 2025 19:33:45 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/cc7fb76f2224) |
 | Thu, 04 Sep 2025 19:33:37 GMT | HTB Walkthrough / Pentest Report: Strutted ️ | Mkirahmet | [Read More](https://medium.com/p/3e41f62011ec) |
 | Thu, 04 Sep 2025 19:27:24 GMT | Evil-GPT v2: TryHackMe Write-Up | Farhad Anwari | [Read More](https://medium.com/p/aae4bab967f3) |
@@ -106,11 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 14:27:31 GMT | DevSecOps Best Practices for Software Teams: Secure Code from Day One | Paul Meyer | [Read More](https://medium.com/p/e4388187bb76) |
 | Thu, 04 Sep 2025 14:27:31 GMT | The Rise of AI-Powered Phishing: How to Spot and Stop It | PromptSecAI | [Read More](https://medium.com/p/3e0681c3e56f) |
 | Thu, 04 Sep 2025 14:21:09 GMT | VirusTotal for SOC Analysts — Letsdefend | HoangdhPtit | [Read More](https://medium.com/p/06ab0a11ad91) |
-| Thu, 04 Sep 2025 14:19:57 GMT | Master Linux Like a Pro: Linux Playbook for Hackers — Advance Edition | Rocky | [Read More](https://medium.com/p/7facc42f3e37) |
-| Thu, 04 Sep 2025 14:14:52 GMT | Vulnerability Disclosure Challenges in Open Source Projects | ZAST AI | [Read More](https://medium.com/p/8c2378d7b3c8) |
-| Thu, 04 Sep 2025 14:14:29 GMT | The Trust & Access Office: From Permissions to Proof | Chris Perkins | [Read More](https://medium.com/p/91a94615e956) |
-| Thu, 04 Sep 2025 14:13:53 GMT | The Best Personal Safety App: VIP Safety for Everyday Peace of Mind | VIP Safety App | [Read More](https://medium.com/p/c68f9d424482) |
-| Thu, 04 Sep 2025 14:12:23 GMT | Why Choosing the Right Cyber Security Service Provider Matters | Lanvaus | [Read More](https://medium.com/p/0b76b3e75748) |
-| Thu, 04 Sep 2025 14:11:57 GMT | How to write a good Bug Bounty Report | Appsec.pt | [Read More](https://medium.com/p/76d935a8c5b1) |
-| Thu, 04 Sep 2025 14:02:39 GMT | Security is now centerstage in the AI news cycle but it needs to remain there | Tui Media | [Read More](https://medium.com/p/944bc9aecd9b) |
-| Thu, 04 Sep 2025 14:01:39 GMT | The Future of CFO Leadership: 7 Digital Trends Shaping 2025 | Michael Stickler | [Read More](https://medium.com/p/8404b10076c3) |
