@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 14:31:50 GMT | Samba 3.5.0–4.6.4 Remote Code Execution (CVE-2017–7494) In hackviser’s Lab | anonymous.gharti | [Read More](https://medium.com/p/a70c219e5d4a) |
+| Thu, 04 Sep 2025 14:31:30 GMT | The Ultimate Browser Toolkit: Part 2 | XoX | [Read More](https://medium.com/p/58ad51487a28) |
+| Thu, 04 Sep 2025 14:28:20 GMT | When Provisioning Fails: Google Cloud’s Quietest but Most Telling Outage…so far! | IsaacFabianK | [Read More](https://medium.com/p/d68c8fb11390) |
+| Thu, 04 Sep 2025 14:27:31 GMT | DevSecOps Best Practices for Software Teams: Secure Code from Day One | Paul Meyer | [Read More](https://medium.com/p/e4388187bb76) |
+| Thu, 04 Sep 2025 14:27:31 GMT | The Rise of AI-Powered Phishing: How to Spot and Stop It | PromptSecAI | [Read More](https://medium.com/p/3e0681c3e56f) |
+| Thu, 04 Sep 2025 14:21:09 GMT | VirusTotal for SOC Analysts — Letsdefend | HoangdhPtit | [Read More](https://medium.com/p/06ab0a11ad91) |
+| Thu, 04 Sep 2025 14:19:57 GMT | Master Linux Like a Pro: Linux Playbook for Hackers — Advance Edition | Rocky | [Read More](https://medium.com/p/7facc42f3e37) |
 | Thu, 04 Sep 2025 14:14:52 GMT | Vulnerability Disclosure Challenges in Open Source Projects | ZAST AI | [Read More](https://medium.com/p/8c2378d7b3c8) |
+| Thu, 04 Sep 2025 14:14:29 GMT | The Trust & Access Office: From Permissions to Proof | Chris Perkins | [Read More](https://medium.com/p/91a94615e956) |
 | Thu, 04 Sep 2025 14:12:23 GMT | Why Choosing the Right Cyber Security Service Provider Matters | Lanvaus | [Read More](https://medium.com/p/0b76b3e75748) |
 | Thu, 04 Sep 2025 14:11:57 GMT | How to write a good Bug Bounty Report | Appsec.pt | [Read More](https://medium.com/p/76d935a8c5b1) |
 | Thu, 04 Sep 2025 14:02:39 GMT | Security is now centerstage in the AI news cycle but it needs to remain there | Tui Media | [Read More](https://medium.com/p/944bc9aecd9b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 10:31:51 GMT | Siber Güvenlikte Kullanılabilecek Python Kütüphaneleri | Akın Kafadar | [Read More](https://medium.com/p/b1a08ff76565) |
 | Thu, 04 Sep 2025 10:26:38 GMT | Metasploitable: Laboratorium Hacking Pribadi Anda, Gratis | Reza Alfarisy | [Read More](https://medium.com/p/ecb9fa1df796) |
 | Thu, 04 Sep 2025 10:25:57 GMT | Cyber Security MNCs in India: Importance of Cyber Insurance for Businesses | piyush | [Read More](https://medium.com/p/aed5683f603d) |
-| Thu, 04 Sep 2025 10:23:30 GMT | CVE-2024-43166: Apache DolphinScheduler Flaw Opens Door to Local Privilege Escalation | gm0 | [Read More](https://medium.com/p/a6069398a7cd) |
-| Thu, 04 Sep 2025 10:18:16 GMT | 7 Technology Trends That Will Dominate In 2026 | HostNOC | [Read More](https://medium.com/p/cb7eb20f6536) |
-| Thu, 04 Sep 2025 10:16:13 GMT | Cybersecurity | Skanderytskander | [Read More](https://medium.com/p/0fcf610611c3) |
-| Thu, 04 Sep 2025 10:15:06 GMT | Sneaky Patch — TryHackMe Write-Up | Furkanctiner | [Read More](https://medium.com/p/aeead12908c1) |
-| Thu, 04 Sep 2025 10:09:15 GMT | Security Threats From Using SMS | Malloc | [Read More](https://medium.com/p/619cd45fb67a) |
-| Thu, 04 Sep 2025 10:07:22 GMT | ⚡ XSS (Cross-Site Scripting) Vulnerabilities and Exploit Techniques | Esra Kayhan | [Read More](https://medium.com/p/76bb111925ca) |
-| Thu, 04 Sep 2025 10:05:15 GMT | How Next‑Gen SAST & DAST Tools Are Unblocking DevOps — 8 Platforms That Actually Ship Secure… | Iliya Garakh | [Read More](https://medium.com/p/bfbc6ef174a1) |
-| Thu, 04 Sep 2025 10:02:40 GMT | HTB Bug Bounty Hunter Certification-Command Injection Skill Assessment. | Sourabh Sharma | [Read More](https://medium.com/p/84ae6f7508b5) |
