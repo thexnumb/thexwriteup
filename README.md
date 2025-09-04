@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 18:18:35 GMT | Awesome Hacker Engines: The Free OSINT & Hacking Search Tool You Need | Harsh Katiyar | [Read More](https://medium.com/p/296aa877d7b3) |
+| Thu, 04 Sep 2025 18:14:21 GMT | YOU ARE YOU FOR A REASON | Pallavi R | [Read More](https://medium.com/p/562020d62464) |
+| Thu, 04 Sep 2025 18:13:41 GMT | 20 Prompt Injection Techniques Every Red Teamer Should Test | Facundo Fernandez | [Read More](https://medium.com/p/b22359bfd57d) |
+| Thu, 04 Sep 2025 18:11:40 GMT | Dangers of AI and DeepFakes! | Aisha Majeed | [Read More](https://medium.com/p/54612b8d5c3a) |
+| Thu, 04 Sep 2025 18:10:26 GMT | Shuffle SOAR: Docker Üzerinde Windows Server Kurulumu | Mustafa Mansur Mamus | [Read More](https://medium.com/p/333943bd0aac) |
+| Thu, 04 Sep 2025 18:07:34 GMT | Social Engineering Toolkit: A Hacker’s Favorite Playground Explained | Akshay Chauhan | [Read More](https://medium.com/p/99e924f64f39) |
+| Thu, 04 Sep 2025 18:07:29 GMT | Vulnerabilidades en WebSockets: el canal olvidado (pero explotable) | Gorka | [Read More](https://medium.com/p/8512ab4bddf3) |
+| Thu, 04 Sep 2025 18:04:05 GMT | Useful Linux Commands to Troubleshoot Hosts | TAYO | [Read More](https://medium.com/p/a5325e715516) |
+| Thu, 04 Sep 2025 18:03:03 GMT | Day 16: Understanding Servers, Web Servers, Websites & Types of Websites | Prutha_Dongre | [Read More](https://medium.com/p/b29dab25d6a1) |
+| Thu, 04 Sep 2025 18:02:06 GMT | Security Should Be Baked In, Not Sprayed On | Prasad Wani | [Read More](https://medium.com/p/090ce0cd5d8e) |
+| Thu, 04 Sep 2025 18:00:50 GMT | Secure Your Laravel Named Routes with Ziggy + Inertia (The Right Way) | Coder Manjeet | [Read More](https://medium.com/p/677c65fa76f3) |
+| Thu, 04 Sep 2025 17:59:30 GMT | Network Design Demystified: Insights from a Future Cybersecurity Project Manager. | Lawson Mumbamarwo | [Read More](https://medium.com/p/43fc1866d1ec) |
+| Thu, 04 Sep 2025 17:58:46 GMT | XVS price slips after $27M Venus Protocol phishing attack | IC News | [Read More](https://medium.com/p/56aa5d026590) |
+| Thu, 04 Sep 2025 17:58:41 GMT | Egg Hunting Demystified: A Complete Guide for Exploit Developers | Pratham Shah | [Read More](https://medium.com/p/d0fa747e16f0) |
+| Thu, 04 Sep 2025 17:57:32 GMT | The dark side of smart homes: 7 privacy risks you may never have thought of | York Robert | [Read More](https://medium.com/p/8fbfe96bb9b4) |
+| Thu, 04 Sep 2025 17:45:52 GMT | How I Discovered a PII Leak in a Developer Platform | Medusa | [Read More](https://medium.com/p/d2f3e89653ce) |
+| Thu, 04 Sep 2025 17:45:37 GMT | Drosera: Why DeFi Needs Guardians, Not Just Alarms | Blessing Shodunke | [Read More](https://medium.com/p/85adc418b397) |
+| Thu, 04 Sep 2025 17:45:24 GMT | The Dark Side of Arranged Marriage: It wasn’t a wedding, it was the beginning of a nightmare. | Maria Arshad | [Read More](https://medium.com/p/82da1a664467) |
+| Thu, 04 Sep 2025 17:39:06 GMT | Trust — The Tricky Game | Kabii | [Read More](https://medium.com/p/8de85e94598d) |
 | Thu, 04 Sep 2025 17:25:27 GMT | Prompt Injection: A New Frontier in Generative AI Security Challenges | Brayan Arrieta Alfaro | [Read More](https://medium.com/p/31ec174e4639) |
 | Thu, 04 Sep 2025 17:24:15 GMT | Rubio’s Comments on U.S. Mexico Security Cooperation. | Menaliub | [Read More](https://medium.com/p/6fb63bc89308) |
 | Thu, 04 Sep 2025 17:16:27 GMT | Cybersecurity Audits & Compliance Made Simple | Aastha Thakker | [Read More](https://medium.com/p/1a7b7878be00) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 13:11:43 GMT | I Found a Critical RCE on RedBull Using Just Recon | Ibtissam hammadi | [Read More](https://medium.com/p/1e9143ce5f48) |
 | Thu, 04 Sep 2025 13:08:08 GMT | Ada Lovelace and the Story of the World’s First Algorithm | Stacklegend | [Read More](https://medium.com/p/c069c81157d7) |
 | Thu, 04 Sep 2025 13:01:39 GMT | Digital Decoys and False Flags: Inside the Tools Used to Confuse Defenders | CoopSys | [Read More](https://medium.com/p/3a5127e29ddd) |
-| Thu, 04 Sep 2025 12:58:54 GMT | HTB Footprinting Lab — Hard - Write-up | Oxja | [Read More](https://medium.com/p/12aeb1a47667) |
-| Thu, 04 Sep 2025 12:58:37 GMT | Zero-Day Supply Chain Risks — The Blind Spots You Don’t Own | Omex Oleksandr | [Read More](https://medium.com/p/101a5c32dbeb) |
-| Thu, 04 Sep 2025 12:58:34 GMT | Understanding Shannon Entropy: Measuring Randomness for Secure Code Auditing | Sagar | [Read More](https://medium.com/p/4b3c5697a7f9) |
-| Thu, 04 Sep 2025 12:57:48 GMT | Technology That Guards Silently | Quva India | [Read More](https://medium.com/p/7398e09f71e7) |
-| Thu, 04 Sep 2025 12:57:44 GMT | Why must we eat each other? | Nonjabulo Matomela | [Read More](https://medium.com/p/48646348603f) |
-| Thu, 04 Sep 2025 12:55:21 GMT | Paradigm Shifters — The Geniuses of the Information Revolution Who Rewrote the World | Stacklegend | [Read More](https://medium.com/p/83205808fe48) |
-| Thu, 04 Sep 2025 12:51:49 GMT | Secure Hosting for Colleges: Top 10 Providers in 2025 | Ridhi Sharma | [Read More](https://medium.com/p/5225bd37e137) |
-| Thu, 04 Sep 2025 12:51:32 GMT | NIST Cybersecurity Framework (CSF) | SecurewithUmer | [Read More](https://medium.com/p/c23b5efec5aa) |
-| Thu, 04 Sep 2025 12:46:44 GMT | SIM swap nedir? | Leonidas Gorgo | [Read More](https://medium.com/p/a50ab0904cbb) |
-| Thu, 04 Sep 2025 12:45:23 GMT | Secure and Accurate Enterprise AI: How MindsDB Delivers Security-First Data Intelligence | MindsDB | [Read More](https://medium.com/p/bb8de2c22ac0) |
-| Thu, 04 Sep 2025 12:39:12 GMT | From Chatbots to Cybercrime: The Dark Evolution of AI | Yusuf Asan | [Read More](https://medium.com/p/027f8c6e4e41) |
-| Thu, 04 Sep 2025 12:32:23 GMT | How Do Security and Privacy by Design Services Support Digital Transformation? | Ziya Zoe | [Read More](https://medium.com/p/6b851360b554) |
-| Thu, 04 Sep 2025 12:28:14 GMT | AI Security Operations & Threat Management Services vs. Traditional Cybersecurity Approaches | sanya | [Read More](https://medium.com/p/3b360fe6635c) |
-| Thu, 04 Sep 2025 12:27:42 GMT | Understanding SSL Hijacking: How It Works? and How to Stay Safe? | Okan | [Read More](https://medium.com/p/51f4bae1820b) |
-| Thu, 04 Sep 2025 12:23:51 GMT | Why Should Companies Adopt Security and Privacy by Design Services Instead of Traditional Security… | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dbe966d1b679) |
-| Thu, 04 Sep 2025 12:22:03 GMT | When Scammers Pretend to Be People You Know | Internet Exposed | [Read More](https://medium.com/p/4cdd4f05e7b6) |
-| Thu, 04 Sep 2025 12:14:07 GMT | CVE-2025–57833: SQL Injection Flaw in Django’s FilteredRelation Feature Raises Red Flags | gm0 | [Read More](https://medium.com/p/bf56e4d28c52) |
-| Thu, 04 Sep 2025 12:10:47 GMT | Intellichat: What If Your Knowledge Could Talk Back? | Annie Garg | [Read More](https://medium.com/p/137a9bbb66db) |
-| Thu, 04 Sep 2025 12:09:31 GMT | XSS Tricks to Bypass Web Application Firewall in a URL | Rashadul Islam | [Read More](https://medium.com/p/b0e476abea49) |
