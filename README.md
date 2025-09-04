@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 22:26:12 GMT | WhatsApp-da End-to-End Encryption (E2EE) necə işləyir? | Rahib Cəfərov | [Read More](https://medium.com/p/21d6c441baee) |
+| Thu, 04 Sep 2025 22:24:49 GMT | AI Without the Jargon: How Small Businesses Can Actually Use Artificial Intelligence Today | Hephzibah - SEO Writer & Ghostwriter | [Read More](https://medium.com/p/7b519eeeb6e7) |
+| Thu, 04 Sep 2025 22:21:20 GMT | High Security Locksmith Services: Protect What Matters Most | Mile High Security Locksmith | [Read More](https://medium.com/p/836a1318a17a) |
+| Thu, 04 Sep 2025 22:19:13 GMT | HTB - GoodGames WriteUp | Sean Knight | [Read More](https://medium.com/p/071755ca99f4) |
 | Thu, 04 Sep 2025 22:10:10 GMT | Why Your Old Printer Might Be the Most Secure Device You Own | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f2ba1adeaf6c) |
 | Thu, 04 Sep 2025 22:08:11 GMT | What a 20-Year-Old Laptop Can Teach You About Security | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2cf3675c6061) |
 | Thu, 04 Sep 2025 22:04:25 GMT | Englisch: | Shayan Zare | [Read More](https://medium.com/p/81611c12aacf) |
@@ -110,7 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 16:18:00 GMT | Fixing “Developer Disk Image Required” with libimobiledevice on macOS (Without Xcode) | Mayank Patel | [Read More](https://medium.com/p/86e85b32407e) |
 | Thu, 04 Sep 2025 16:16:16 GMT | Raspberry PI Wake-on-Lan Setup | Nico | [Read More](https://medium.com/p/ab1949c3ca84) |
 | Thu, 04 Sep 2025 16:15:30 GMT | How to Integrate VirusTotal with Wazuh for Enhanced Threat Detection | Rupesh Sharma | [Read More](https://medium.com/p/dd870b3298aa) |
-| Thu, 04 Sep 2025 16:12:54 GMT | 12 Cybersecurity Predictions for 2025: AI, Biometric Encryption, Zero Trust & Beyond | Smith Adams | [Read More](https://medium.com/p/573c55ed321b) |
-| Thu, 04 Sep 2025 16:05:53 GMT | Ensuring the Security of Docker Containers: Essential Strategies | @rnab | [Read More](https://medium.com/p/1a11edffc75c) |
-| Thu, 04 Sep 2025 16:05:50 GMT | Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn | TECH EMPIRE | [Read More](https://medium.com/p/c99fbe2f1833) |
-| Thu, 04 Sep 2025 16:01:44 GMT | Russia and the PACER Breach: A National Security Crisis in the U.S. Courts | Yusuf Asan | [Read More](https://medium.com/p/572a0f4008d1) |
