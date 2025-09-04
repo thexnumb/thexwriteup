@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 17:25:27 GMT | Prompt Injection: A New Frontier in Generative AI Security Challenges | Brayan Arrieta Alfaro | [Read More](https://medium.com/p/31ec174e4639) |
+| Thu, 04 Sep 2025 17:24:15 GMT | Rubio’s Comments on U.S. Mexico Security Cooperation. | Menaliub | [Read More](https://medium.com/p/6fb63bc89308) |
+| Thu, 04 Sep 2025 17:16:27 GMT | Cybersecurity Audits & Compliance Made Simple | Aastha Thakker | [Read More](https://medium.com/p/1a7b7878be00) |
 | Thu, 04 Sep 2025 17:13:33 GMT | SQL Fundamentals | Isiah | [Read More](https://medium.com/p/781d43cefafd) |
 | Thu, 04 Sep 2025 17:11:28 GMT | Apple’s Intelligence Data Collection Extends Far Beyond What Privacy Policies Disclose. | Karl Buhl | [Read More](https://medium.com/p/4fd91365caf0) |
 | Thu, 04 Sep 2025 17:09:14 GMT | What you need to do for AI cybersecurity management | Venus Liong | [Read More](https://medium.com/p/160ac321ff52) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 12:14:07 GMT | CVE-2025–57833: SQL Injection Flaw in Django’s FilteredRelation Feature Raises Red Flags | gm0 | [Read More](https://medium.com/p/bf56e4d28c52) |
 | Thu, 04 Sep 2025 12:10:47 GMT | Intellichat: What If Your Knowledge Could Talk Back? | Annie Garg | [Read More](https://medium.com/p/137a9bbb66db) |
 | Thu, 04 Sep 2025 12:09:31 GMT | XSS Tricks to Bypass Web Application Firewall in a URL | Rashadul Islam | [Read More](https://medium.com/p/b0e476abea49) |
-| Thu, 04 Sep 2025 12:09:04 GMT | Complete Nodejs Security Guide 2025: From Code to Production | Manish Prasad | [Read More](https://medium.com/p/c6470823dc2e) |
-| Thu, 04 Sep 2025 12:06:20 GMT | How I Passed the TCM PSAA Exam: My Journey from Preparation to Certification | Prince Johnrhoe Nocos | [Read More](https://medium.com/p/7db27b3ee7dc) |
-| Thu, 04 Sep 2025 12:01:45 GMT | OneTerm: The Open-Source Bastion Host I Refactored in Three Months | leo | [Read More](https://medium.com/p/576e82b24b66) |
