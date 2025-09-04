@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 17:13:33 GMT | SQL Fundamentals | Isiah | [Read More](https://medium.com/p/781d43cefafd) |
+| Thu, 04 Sep 2025 17:11:28 GMT | Apple’s Intelligence Data Collection Extends Far Beyond What Privacy Policies Disclose. | Karl Buhl | [Read More](https://medium.com/p/4fd91365caf0) |
+| Thu, 04 Sep 2025 17:09:14 GMT | What you need to do for AI cybersecurity management | Venus Liong | [Read More](https://medium.com/p/160ac321ff52) |
+| Thu, 04 Sep 2025 16:57:13 GMT | My New Calling as A Rescuer — Be it Bird, Bug, or Lizard | Trisha Faye | [Read More](https://medium.com/p/b9b45e899443) |
+| Thu, 04 Sep 2025 16:52:13 GMT | Skills Assessment: YARA and Sigma | Luke | [Read More](https://medium.com/p/d6f4e9b78d5b) |
+| Thu, 04 Sep 2025 16:49:18 GMT | Breaking Out of the String: Solving Reflected XSS in JavaScript | MazenTurky | [Read More](https://medium.com/p/4db3b69c9cae) |
 | Thu, 04 Sep 2025 16:43:37 GMT | Use of OSI model in real hacking scenarios. | TriNetr@X | [Read More](https://medium.com/p/614d18a579a1) |
 | Thu, 04 Sep 2025 16:40:57 GMT | The Changes Made By Android On APK Instalations: Student and Consumer’s Guide. | Mr. MOM | [Read More](https://medium.com/p/b66bdb0407cf) |
 | Thu, 04 Sep 2025 16:40:12 GMT | A little story about how Google is fumbling my 0-day RCE report that affects the entire AI/ML… | 0xFuckSociety | [Read More](https://medium.com/p/edf90ff7897a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 12:09:04 GMT | Complete Nodejs Security Guide 2025: From Code to Production | Manish Prasad | [Read More](https://medium.com/p/c6470823dc2e) |
 | Thu, 04 Sep 2025 12:06:20 GMT | How I Passed the TCM PSAA Exam: My Journey from Preparation to Certification | Prince Johnrhoe Nocos | [Read More](https://medium.com/p/7db27b3ee7dc) |
 | Thu, 04 Sep 2025 12:01:45 GMT | OneTerm: The Open-Source Bastion Host I Refactored in Three Months | leo | [Read More](https://medium.com/p/576e82b24b66) |
-| Thu, 04 Sep 2025 11:59:17 GMT | Hackers Exploit X’s Grok AI to Spread Malicious Links Through Promoted Posts | Jasmitharouthu | [Read More](https://medium.com/p/48a2a54cb68d) |
-| Thu, 04 Sep 2025 11:59:17 GMT | DockerLabs Writeup — JenkHack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/4ee2d55cd54f) |
-| Thu, 04 Sep 2025 11:57:36 GMT | Shadow AI — when teams use AI tools without IT oversight — is no longer a hypothetical risk. | Century Solutions Group | [Read More](https://medium.com/p/8db40003a4eb) |
-| Thu, 04 Sep 2025 11:41:30 GMT | Best Career Paths After IT Training in India - Technoglobe | Technoglobe India | [Read More](https://medium.com/p/a3f8de2e6717) |
-| Thu, 04 Sep 2025 11:37:21 GMT | 2FA Bypass via Request Handling Flaw | TSxNINJA | [Read More](https://medium.com/p/e4cf21bb4c55) |
-| Thu, 04 Sep 2025 11:35:17 GMT | Top 7 Cybersecurity Programs That Close 99% of Security Gaps | SecureSlate | [Read More](https://medium.com/p/4b45c6eda669) |
