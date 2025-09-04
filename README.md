@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 05:35:24 GMT | SSL Treasure Maps: How I Found Hidden Subdomains in crt.sh (And How Hackers Exploit Them) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/475e1414d416) |
+| Thu, 04 Sep 2025 05:33:20 GMT | SSL Treasure Maps 2.0: How I Pulled Hidden Subdomains from crt.sh — and Why It Matters | Narendar Battula (nArEn) | [Read More](https://medium.com/p/202874fd2cee) |
+| Thu, 04 Sep 2025 05:28:11 GMT | Cloudflare Workers, KV, D1 — and a Curious Idea That Became Adaptive Profiling | Bijodev | [Read More](https://medium.com/p/49d1dbbf0534) |
+| Thu, 04 Sep 2025 05:14:25 GMT | The Daily Tech Digest: 04 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c25ec4f42d2a) |
 | Thu, 04 Sep 2025 05:08:18 GMT | Why a Cybersecurity Architect Is Essential for Your Business | ericjeffery | [Read More](https://medium.com/p/39ab46b122aa) |
 | Thu, 04 Sep 2025 05:02:30 GMT | Quantum Computing and Blockchain Security | Dukerearing | [Read More](https://medium.com/p/6e570f1b2336) |
 | Thu, 04 Sep 2025 04:56:55 GMT | Why the Best Ethical Hacking Certification for Beginners Can Jumpstart Your Cybersecurity Career | Tomcruise | [Read More](https://medium.com/p/b0e2a032085d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 20:30:25 GMT | Why Every Business Needs a Bug Bounty Program: | Ayshee | [Read More](https://medium.com/p/fa887581ce60) |
 | Wed, 03 Sep 2025 20:30:16 GMT | Cisco ISE Guest Portal: Automating Certificate Renewal with Let’s Encrypt and OpenAPI | Teymur Aghayev | [Read More](https://medium.com/p/5bdb8db9390e) |
 | Wed, 03 Sep 2025 20:29:15 GMT | Stop Chrome Pop-Ups & Redirects for Good | www.OneCoolTip.com | [Read More](https://medium.com/p/689a2b3439f8) |
-| Wed, 03 Sep 2025 20:23:07 GMT | The Linux Security Journey — Kernel Strict RWX (Read-Write-Execute) Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2d83da7c94c5) |
-| Wed, 03 Sep 2025 20:17:27 GMT | OffSec: Outdated — Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/39c1ad9fb7d7) |
-| Wed, 03 Sep 2025 20:13:44 GMT | Steel Fence Supply and Maintenance Services | Takeosartorius | [Read More](https://medium.com/p/2208c578ab97) |
-| Wed, 03 Sep 2025 20:10:34 GMT | Vulnerable and Outdated Components (OWASP Top 10 #6) — Simplified | Chai | [Read More](https://medium.com/p/4a170b83f052) |
