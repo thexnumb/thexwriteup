@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 22:10:10 GMT | Why Your Old Printer Might Be the Most Secure Device You Own | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f2ba1adeaf6c) |
+| Thu, 04 Sep 2025 22:08:11 GMT | What a 20-Year-Old Laptop Can Teach You About Security | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2cf3675c6061) |
+| Thu, 04 Sep 2025 22:04:25 GMT | Englisch: | Shayan Zare | [Read More](https://medium.com/p/81611c12aacf) |
+| Thu, 04 Sep 2025 21:59:17 GMT | Why Businesses Need Backup and Disaster Recovery Services | Techridge Solutions | [Read More](https://medium.com/p/10dc8792dd9c) |
+| Thu, 04 Sep 2025 21:58:11 GMT | File Permissions Starring Linux Commands! | Myshawne Stallings | [Read More](https://medium.com/p/e3dbb0c92418) |
+| Thu, 04 Sep 2025 21:39:57 GMT | Countering Chinese State‑Sponsored Actors | SIMKRA | [Read More](https://medium.com/p/af22ecb89371) |
+| Thu, 04 Sep 2025 21:36:08 GMT | Target Smarter, Move Faster: Why OSINT Is Becoming the Core of Modern Investigations | Rishisec | [Read More](https://medium.com/p/5c4f39ea07b2) |
+| Thu, 04 Sep 2025 21:29:49 GMT | This Cyberattack Was 115,000x Stronger Than Your Wi-Fi | Cyber-AppSec | [Read More](https://medium.com/p/d2a40a55e4ca) |
+| Thu, 04 Sep 2025 21:27:47 GMT | Helping Young Learners Become Comfortable with Technology | Savvy Cyber Kids | [Read More](https://medium.com/p/8c70c0ccd6fb) |
+| Thu, 04 Sep 2025 21:27:24 GMT | Screentime and Education | Savvy Cyber Kids | [Read More](https://medium.com/p/59590c936e1e) |
+| Thu, 04 Sep 2025 21:26:54 GMT | It Isn’t Just You: Meta Failed to Protect Kids Online | Savvy Cyber Kids | [Read More](https://medium.com/p/e075786c49e6) |
 | Thu, 04 Sep 2025 21:23:21 GMT | Cloud Storage of Biometric Data: What Could Go Wrong? | Kamila Monika Zu | [Read More](https://medium.com/p/1396be0c67ef) |
 | Thu, 04 Sep 2025 21:19:03 GMT | Exploiting Insecure Android WebView with JavaScript Interface | Youssefhussein | [Read More](https://medium.com/p/a4d3abf9ec09) |
 | Thu, 04 Sep 2025 21:17:54 GMT | Lone Wolves in Cyberspace Myth, Radicalization, and Reflexive Control | SIMKRA | [Read More](https://medium.com/p/4d1e78255e69) |
@@ -103,14 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 16:05:53 GMT | Ensuring the Security of Docker Containers: Essential Strategies | @rnab | [Read More](https://medium.com/p/1a11edffc75c) |
 | Thu, 04 Sep 2025 16:05:50 GMT | Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn | TECH EMPIRE | [Read More](https://medium.com/p/c99fbe2f1833) |
 | Thu, 04 Sep 2025 16:01:44 GMT | Russia and the PACER Breach: A National Security Crisis in the U.S. Courts | Yusuf Asan | [Read More](https://medium.com/p/572a0f4008d1) |
-| Thu, 04 Sep 2025 15:44:44 GMT | Reporting and Stakeholder Communication in Security Testing | Shubham Khanna | [Read More](https://medium.com/p/ef678fc9be01) |
-| Thu, 04 Sep 2025 15:41:55 GMT | How India Prevented ₹5,100 Crore in Cybercrime Losses | The UNFILTERED Draft | [Read More](https://medium.com/p/594f864038f6) |
-| Thu, 04 Sep 2025 15:36:02 GMT | Digital Battlefields: When Hackers and Defenders Collide | Raj Islam | [Read More](https://medium.com/p/0cab51eb06d8) |
-| Thu, 04 Sep 2025 15:30:57 GMT | Leveraging Raw Disk Reads to Bypass EDR | Christopher Ellis | [Read More](https://medium.com/p/f145838b0e6d) |
-| Thu, 04 Sep 2025 15:28:23 GMT | ‍ Linux Kernel Security & Exploitation Resources | Balki Maharaj | [Read More](https://medium.com/p/8eb5849113b1) |
-| Thu, 04 Sep 2025 15:27:34 GMT | ThunderCipher-[POLO] | Bhuwan Patidar | [Read More](https://medium.com/p/27560dc70c73) |
-| Thu, 04 Sep 2025 15:26:04 GMT | Real Leadership in Cybersecurity: Why Trust Matters More Than Titles | Vijay Kumar Gupta | [Read More](https://medium.com/p/db89dddadf3c) |
-| Thu, 04 Sep 2025 15:21:11 GMT | MCP for the Enterprise! | John Rzeszotarski | [Read More](https://medium.com/p/d21327d12f7a) |
-| Thu, 04 Sep 2025 15:20:43 GMT | The Turning Point in My Cybersecurity Journey | Mehdi Ben Fredj | [Read More](https://medium.com/p/ca460989a563) |
-| Thu, 04 Sep 2025 15:16:00 GMT | The Forbidden Craving We All Hide | Kats at the Crossroads | [Read More](https://medium.com/p/9af03abad065) |
-| Thu, 04 Sep 2025 15:12:05 GMT | Why Form Validation is Crucial: Security, Functionality, and Real-World Risks Explained | Akshay Mulay | [Read More](https://medium.com/p/f6352c94e1a5) |
