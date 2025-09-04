@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 18:43:41 GMT | Why EDR Is Replacing Traditional Antivirus in 2025
+Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
+| Thu, 04 Sep 2025 18:42:13 GMT | OPSEC 201, “Advanced” tips and more on keeping yourself safe from bad actors | Dabest | [Read More](https://medium.com/p/a14f059cb44f) |
+| Thu, 04 Sep 2025 18:38:48 GMT | Salt Typhoon: The Chinese Cyber Campaign That May Have Exposed Data on Nearly Every American | Udaykumar | [Read More](https://medium.com/p/542ca9a46b7d) |
+| Thu, 04 Sep 2025 18:35:19 GMT | ️ The Bybit Heist of 2025: Inside the Billion-Dollar Cold Wallet Breach | NineTales | [Read More](https://medium.com/p/256304ff55c6) |
+| Thu, 04 Sep 2025 18:25:57 GMT | Firewalls: The Gatekeepers of the Internet | Hirad Showghi | [Read More](https://medium.com/p/59028e652177) |
+| Thu, 04 Sep 2025 18:25:51 GMT | Securing the Silicon Savannah: Mastering Data Privacy in Kenya’s IT Boom. | Donald Odera | [Read More](https://medium.com/p/1e557bf158d6) |
+| Thu, 04 Sep 2025 18:24:41 GMT | Footprint360 — OSINT Bot (Exclusive to the Osint Community team) | Osint Community | [Read More](https://medium.com/p/0ef4f1db2bb4) |
 | Thu, 04 Sep 2025 18:18:35 GMT | Awesome Hacker Engines: The Free OSINT & Hacking Search Tool You Need | Harsh Katiyar | [Read More](https://medium.com/p/296aa877d7b3) |
+| Thu, 04 Sep 2025 18:16:38 GMT | Cracking the Code: An Intro to Cryptography | Ayush S. | [Read More](https://medium.com/p/ffd18c8db769) |
 | Thu, 04 Sep 2025 18:14:21 GMT | YOU ARE YOU FOR A REASON | Pallavi R | [Read More](https://medium.com/p/562020d62464) |
 | Thu, 04 Sep 2025 18:13:41 GMT | 20 Prompt Injection Techniques Every Red Teamer Should Test | Facundo Fernandez | [Read More](https://medium.com/p/b22359bfd57d) |
 | Thu, 04 Sep 2025 18:11:40 GMT | Dangers of AI and DeepFakes! | Aisha Majeed | [Read More](https://medium.com/p/54612b8d5c3a) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 13:30:34 GMT | Stop Chasing Shadows: Master Vulnerability Management in Hybrid Clouds | Iliya Garakh | [Read More](https://medium.com/p/3c57b6a8e368) |
 | Thu, 04 Sep 2025 13:29:57 GMT | Alan Turing and the Story of Breaking the Enigma | Stacklegend | [Read More](https://medium.com/p/bc5a7757df99) |
 | Thu, 04 Sep 2025 13:26:50 GMT | Grokking: A New Malvertising Technique Targeting X | Brez | [Read More](https://medium.com/p/c60050f3a5dd) |
-| Thu, 04 Sep 2025 13:24:08 GMT | Six Network Scanners Rewiring Hybrid-Cloud Security (What Your Old Scanner Misses) | Iliya Garakh | [Read More](https://medium.com/p/782bd73be357) |
-| Thu, 04 Sep 2025 13:21:30 GMT | What Is a Firewall in Computer Networks? How It Protects You From Online Threats | Timónofearth | [Read More](https://medium.com/p/b4776c7aa6d2) |
-| Thu, 04 Sep 2025 13:14:19 GMT | From Alert Overload to Action: 8 New Vulnerability Management Platforms That Actually Reduce Risk | Iliya Garakh | [Read More](https://medium.com/p/d5e555bd2da6) |
-| Thu, 04 Sep 2025 13:13:23 GMT | NIST Frameworks You Should Master as a Security Analyst | SecurewithUmer | [Read More](https://medium.com/p/e0a760c7de1a) |
-| Thu, 04 Sep 2025 13:12:51 GMT | Baby VM Walkthrough | Spookz | [Read More](https://medium.com/p/c5f395417360) |
-| Thu, 04 Sep 2025 13:11:43 GMT | I Found a Critical RCE on RedBull Using Just Recon | Ibtissam hammadi | [Read More](https://medium.com/p/1e9143ce5f48) |
-| Thu, 04 Sep 2025 13:08:08 GMT | Ada Lovelace and the Story of the World’s First Algorithm | Stacklegend | [Read More](https://medium.com/p/c069c81157d7) |
-| Thu, 04 Sep 2025 13:01:39 GMT | Digital Decoys and False Flags: Inside the Tools Used to Confuse Defenders | CoopSys | [Read More](https://medium.com/p/3a5127e29ddd) |
