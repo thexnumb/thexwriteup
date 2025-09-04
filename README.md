@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 03:19:44 GMT | IT Professionals in Australia: Jobs, Salaries, and Migration Pathways | CDR for Australia | [Read More](https://medium.com/p/e06e4ce6c2c1) |
+| Thu, 04 Sep 2025 03:13:43 GMT | OWASP LLM Top10 | Sai Udiga | [Read More](https://medium.com/p/a704ddaf0061) |
+| Thu, 04 Sep 2025 03:11:22 GMT | Yonyou U8 Cloud RCE: File Upload Bypass Confirmed | AerieWhole123 | [Read More](https://medium.com/p/f5b6d26c426f) |
+| Thu, 04 Sep 2025 03:09:24 GMT | HackTheBox — Introduction to Splunk and SPL | Javier | [Read More](https://medium.com/p/30de845e77fb) |
+| Thu, 04 Sep 2025 02:44:28 GMT | Dutch Intelligence Confirms Salt Typhoon Cyberattacks | TheReviewHive | [Read More](https://medium.com/p/4dda9707ebad) |
 | Thu, 04 Sep 2025 02:34:58 GMT | Write Up Lab: SQL injection UNION attack, finding a column containing text | Velskynotfound | [Read More](https://medium.com/p/8f1870aefe3a) |
 | Thu, 04 Sep 2025 02:34:13 GMT | Personal Reflection on the Launch of CAF v4.0. | Ogechukwu Ndukuba | [Read More](https://medium.com/p/76783989d242) |
 | Thu, 04 Sep 2025 02:31:36 GMT | Secondment in Tech: The Smarter Way to Extend Your Team | Wistkey | [Read More](https://medium.com/p/30f740fcb6a5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 18:15:20 GMT | ScriptAnalyzer AI: Multi-Agent Framework for Efficient Malware Script Analysis | Yash Raval | [Read More](https://medium.com/p/1f8993c45ac9) |
 | Wed, 03 Sep 2025 18:13:16 GMT | Passwords & Authentication: Why “123456” Won’t Cut It Anymore | Hirad Showghi | [Read More](https://medium.com/p/ad9a199df4d0) |
 | Wed, 03 Sep 2025 18:09:19 GMT | Elevate Your Space with Golden Elegance: Wall Art That Speaks Style | "Prasad Tambade: Chronicles of a Curious Mind" | [Read More](https://medium.com/p/b094db34e838) |
-| Wed, 03 Sep 2025 18:02:27 GMT | The Quiet War: How AI is Rewriting Cybersecurity | Otun Stephen Gbenga | [Read More](https://medium.com/p/a35e392edc41) |
-| Wed, 03 Sep 2025 18:01:47 GMT | Why I Always Disable Unused Services on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/be91f0ff0901) |
-| Wed, 03 Sep 2025 18:00:19 GMT | HexStrike AI and the Race Against Time: How Autonomous Cyber Offense Reshapes Business Risk | Valdez Ladd | [Read More](https://medium.com/p/c06db7ac41e7) |
-| Wed, 03 Sep 2025 17:59:45 GMT | Why Fortinet Products Keep Appearing in Security Advisories | Cyberoptic Security | [Read More](https://medium.com/p/8ad5e56398a1) |
-| Wed, 03 Sep 2025 17:55:07 GMT | Analysis of Vulnerabilities Identified in JavaScript between 2022–2025 | gm0 | [Read More](https://medium.com/p/f8553d010467) |
