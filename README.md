@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 11:35:17 GMT | Top 7 Cybersecurity Programs That Close 99% of Security Gaps | SecureSlate | [Read More](https://medium.com/p/4b45c6eda669) |
+| Thu, 04 Sep 2025 11:33:37 GMT | Top Personal Cybersecurity Measures To Take When Trading in Crypto | IamPreth | [Read More](https://medium.com/p/1fc1e46bb0ec) |
+| Thu, 04 Sep 2025 11:31:47 GMT | Google Services Face Major Outage Impacting Millions Across US, Turkey and Eastern Europe | Jasmitharouthu | [Read More](https://medium.com/p/72d75d470abf) |
+| Thu, 04 Sep 2025 11:31:45 GMT | Securing the Future: Study Master’s in Cybersecurity in Germany | Shreetu Mohanty | [Read More](https://medium.com/p/cdbaf2205ff6) |
+| Thu, 04 Sep 2025 11:30:45 GMT | Diary of a Career Changer: Building on the Past, Shaping the Future | Cyber I AM | [Read More](https://medium.com/p/e012856ffda5) |
+| Thu, 04 Sep 2025 11:30:31 GMT | PagerDuty Data Breach: What You Need to Know About the Salesforce Account Compromise | Technijian | [Read More](https://medium.com/p/b2049e94306d) |
+| Thu, 04 Sep 2025 11:28:40 GMT | This “USB” Can Steal Your Files in Seconds | Shahzaib | [Read More](https://medium.com/p/46fba557821a) |
+| Thu, 04 Sep 2025 11:27:54 GMT | Your iPhone Was Hacked Without a Single Tap | Aj | [Read More](https://medium.com/p/bc3d7a648fb7) |
+| Thu, 04 Sep 2025 11:27:40 GMT | Cloudflare’s 11.5 Tbps DDoS Defense & What It Means for Orange County Businesses | Technijian | [Read More](https://medium.com/p/a0ce2a9e6341) |
+| Thu, 04 Sep 2025 11:22:55 GMT | "xAI Sues Former Engineer, Alleging Theft of Grok Trade Secrets for OpenAI" | Oyime Jude Akpologun | [Read More](https://medium.com/p/01240baa6af5) |
+| Thu, 04 Sep 2025 11:22:28 GMT | Which Sections Of The It Act Apply To Cyber Pornography? | lead india | [Read More](https://medium.com/p/1632e8829ece) |
+| Thu, 04 Sep 2025 11:17:50 GMT | What Is a Security Maturity Model and Why It’s Crucial for Your Business? | Skysecure Technologies | [Read More](https://medium.com/p/b25ee65a9989) |
+| Thu, 04 Sep 2025 11:16:10 GMT | SQL Injection: Tichá hrozba pro Vaše data! | Cyber Solution | [Read More](https://medium.com/p/fff2d47b68ba) |
 | Thu, 04 Sep 2025 11:12:08 GMT | The Complete Beginner’s Guide to OSINT (Open-Source Intelligence) | Rashadul Islam | [Read More](https://medium.com/p/c39ecaa2306d) |
+| Thu, 04 Sep 2025 11:10:50 GMT | AI Agents Are Evolving — So Are the Dangers Lurking With Them ? | Jivtesh S | [Read More](https://medium.com/p/db1a0e1fb2fd) |
 | Thu, 04 Sep 2025 11:06:07 GMT | The Hacker’s Library: 5 Must-Read Books Every InfoSec Professional Should Own | Aj | [Read More](https://medium.com/p/570229368135) |
 | Thu, 04 Sep 2025 11:05:25 GMT | Master Cyber Security Online — Learn & Get Job-Ready! | Pravin Choudhary | [Read More](https://medium.com/p/c56f95bb8f89) |
 | Thu, 04 Sep 2025 11:01:39 GMT | The Schrödinger’s ESC1 Vulnerability: Benchmark Update | Matheus Vilachã | [Read More](https://medium.com/p/e9a24421850b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 06:59:23 GMT | Top-Rated Nigerian Cybersecurity Companies in 2025 | Qualysec | [Read More](https://medium.com/p/6c41f21bac6d) |
 | Thu, 04 Sep 2025 06:57:32 GMT | Complete Guide: Fix Google Workspace Data Backup Problems | Kai Miller | [Read More](https://medium.com/p/ef33b7f6936c) |
 | Thu, 04 Sep 2025 06:56:49 GMT | Beware: AI-Based Ransomware Is on the Rise! | Sydeco Indonesia | [Read More](https://medium.com/p/fa2d1e55236a) |
-| Thu, 04 Sep 2025 06:45:53 GMT | Navigating 2025’s Tech Wave: AI, Apple, Google, and the Future of Innovation | Newsglobal | [Read More](https://medium.com/p/2719d9723e3f) |
-| Thu, 04 Sep 2025 06:44:10 GMT | AI-Powered Security Analysis in Web Development | Munevver Onyay | [Read More](https://medium.com/p/dcaef9e34212) |
-| Thu, 04 Sep 2025 06:33:43 GMT | Why Is My Printer Printing Faded? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/c420683ebcd4) |
-| Thu, 04 Sep 2025 06:32:44 GMT | The Transition from Records to Data: Issues of the Digital Economy | Randev Ranasinghe | [Read More](https://medium.com/p/58b89aa95468) |
-| Thu, 04 Sep 2025 06:31:37 GMT | Corporate Greed Chronicles: The Agentic AI Delusion at Salesforce | Namir Sagheenanajar | [Read More](https://medium.com/p/315f6ed5761a) |
-| Thu, 04 Sep 2025 06:29:07 GMT | HostingB2B Strengthens Security & Quality with Recertification of ISO Certifications | HostingB2B | [Read More](https://medium.com/p/72ee56e9f480) |
-| Thu, 04 Sep 2025 06:21:52 GMT | Beginner’s Playbook: Shield Your Site with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/ec688e2cbcdd) |
-| Thu, 04 Sep 2025 06:13:53 GMT | What is VAPT Testing, Its Methodology & Importance for Business? | Qualysectechnologies | [Read More](https://medium.com/p/b784832ede84) |
-| Thu, 04 Sep 2025 06:11:36 GMT | ThunderCipher-[WebAdmin] | Bhuwan Patidar | [Read More](https://medium.com/p/509cf0ef57a9) |
-| Thu, 04 Sep 2025 06:11:04 GMT | Spyware Analysis: Building a Keylogger and Its Countermeasure | Shashank M.S | [Read More](https://medium.com/p/a2f595ed218a) |
-| Thu, 04 Sep 2025 06:08:12 GMT | Do we still need a SOC? | Martin Abramov | [Read More](https://medium.com/p/a68fa7aed3f7) |
-| Thu, 04 Sep 2025 06:01:59 GMT | What is a Vulnerability? | Darshil Modi | [Read More](https://medium.com/p/56ad02d49d1d) |
-| Thu, 04 Sep 2025 06:00:00 GMT | AI vs AI in Cybersecurity: Fighting Hackers with Artificial Intelligence | Suretek Infosoft | [Read More](https://medium.com/p/984c4c303be9) |
-| Thu, 04 Sep 2025 05:57:52 GMT | Google Cloud Penetration Testing (GCP): Methodology, Tools & Best Practices Complete Guide | QualysecEurope | [Read More](https://medium.com/p/6c32346ebc98) |
