@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 06:45:53 GMT | Navigating 2025’s Tech Wave: AI, Apple, Google, and the Future of Innovation | Newsglobal | [Read More](https://medium.com/p/2719d9723e3f) |
+| Thu, 04 Sep 2025 06:44:10 GMT | AI-Powered Security Analysis in Web Development | Munevver Onyay | [Read More](https://medium.com/p/dcaef9e34212) |
+| Thu, 04 Sep 2025 06:33:43 GMT | Why Is My Printer Printing Faded? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/c420683ebcd4) |
+| Thu, 04 Sep 2025 06:32:44 GMT | The Transition from Records to Data: Issues of the Digital Economy | Randev Ranasinghe | [Read More](https://medium.com/p/58b89aa95468) |
+| Thu, 04 Sep 2025 06:31:37 GMT | Corporate Greed Chronicles: The Agentic AI Delusion at Salesforce | Namir Sagheenanajar | [Read More](https://medium.com/p/315f6ed5761a) |
+| Thu, 04 Sep 2025 06:29:07 GMT | HostingB2B Strengthens Security & Quality with Recertification of ISO Certifications | HostingB2B | [Read More](https://medium.com/p/72ee56e9f480) |
+| Thu, 04 Sep 2025 06:21:52 GMT | Beginner’s Playbook: Shield Your Site with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/ec688e2cbcdd) |
 | Thu, 04 Sep 2025 06:13:53 GMT | What is VAPT Testing, Its Methodology & Importance for Business? | Qualysectechnologies | [Read More](https://medium.com/p/b784832ede84) |
 | Thu, 04 Sep 2025 06:11:36 GMT | ThunderCipher-[WebAdmin] | Bhuwan Patidar | [Read More](https://medium.com/p/509cf0ef57a9) |
 | Thu, 04 Sep 2025 06:11:04 GMT | Spyware Analysis: Building a Keylogger and Its Countermeasure | Shashank M.S | [Read More](https://medium.com/p/a2f595ed218a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 22:13:50 GMT | NucAIScan: AI-Assisted Web Application Security Scanner | Onurcan Genç | [Read More](https://medium.com/p/60007bdcd571) |
 | Wed, 03 Sep 2025 22:13:20 GMT | Surveillance Everywhere: The Surprising Truth About Your Connected Life | Om Kinkhabwala | [Read More](https://medium.com/p/2954e1e12465) |
 | Wed, 03 Sep 2025 22:11:46 GMT | ️‍♂️ Cât de real și sigur e modul Incognito din Google Chrome? | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/9b5327140393) |
-| Wed, 03 Sep 2025 22:07:36 GMT | Hacking WordPress: SSRF via XML-RPC | diaryofacyberfan | [Read More](https://medium.com/p/4a87ef520ba8) |
-| Wed, 03 Sep 2025 22:07:28 GMT | Old Domains, New Risks: What Happens When You Forget to Renew | Evgeny Ermakov | [Read More](https://medium.com/p/4b9b04e1143f) |
-| Wed, 03 Sep 2025 21:50:29 GMT | Public-Key Cryptography in Ethereum: RSA and ECC | Chris-Derique Ehizo | [Read More](https://medium.com/p/be1bf68f44e5) |
-| Wed, 03 Sep 2025 21:42:17 GMT | “Forgot Password?” Forgotten feature | diaryofacyberfan | [Read More](https://medium.com/p/da485d551e40) |
-| Wed, 03 Sep 2025 21:38:14 GMT | The Low-Tech Trick That Keeps My Cyber Workflows Sharp | Sam Galope | [Read More](https://medium.com/p/9e4fa49d8ffb) |
-| Wed, 03 Sep 2025 21:37:35 GMT | Django Unauthenticated, 0 click, RCE, and SQL Injection using default configuration. | EyalSec | [Read More](https://medium.com/p/059964f3f898) |
-| Wed, 03 Sep 2025 21:37:03 GMT | How Weak Access Control Can Break Your Web App | diaryofacyberfan | [Read More](https://medium.com/p/c9da6286c187) |
