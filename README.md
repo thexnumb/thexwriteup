@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 10:39:40 GMT | How to Secure Your Social Media Accounts in 2025: Stay Safe Online | Techlio | [Read More](https://medium.com/p/ba5a93abe0ed) |
+| Thu, 04 Sep 2025 10:31:51 GMT | Siber Güvenlikte Kullanılabilecek Python Kütüphaneleri | Akın Kafadar | [Read More](https://medium.com/p/b1a08ff76565) |
+| Thu, 04 Sep 2025 10:26:38 GMT | Metasploitable: Laboratorium Hacking Pribadi Anda, Gratis | Reza Alfarisy | [Read More](https://medium.com/p/ecb9fa1df796) |
+| Thu, 04 Sep 2025 10:25:57 GMT | Cyber Security MNCs in India: Importance of Cyber Insurance for Businesses | piyush | [Read More](https://medium.com/p/aed5683f603d) |
+| Thu, 04 Sep 2025 10:23:30 GMT | CVE-2024-43166: Apache DolphinScheduler Flaw Opens Door to Local Privilege Escalation | gm0 | [Read More](https://medium.com/p/a6069398a7cd) |
+| Thu, 04 Sep 2025 10:18:16 GMT | 7 Technology Trends That Will Dominate In 2026 | HostNOC | [Read More](https://medium.com/p/cb7eb20f6536) |
+| Thu, 04 Sep 2025 10:16:13 GMT | Cybersecurity | Skanderytskander | [Read More](https://medium.com/p/0fcf610611c3) |
+| Thu, 04 Sep 2025 10:15:06 GMT | Sneaky Patch — TryHackMe Write-Up | Furkanctiner | [Read More](https://medium.com/p/aeead12908c1) |
+| Thu, 04 Sep 2025 10:09:15 GMT | Security Threats From Using SMS | Malloc | [Read More](https://medium.com/p/619cd45fb67a) |
 | Thu, 04 Sep 2025 10:07:22 GMT | ⚡ XSS (Cross-Site Scripting) Vulnerabilities and Exploit Techniques | Esra Kayhan | [Read More](https://medium.com/p/76bb111925ca) |
 | Thu, 04 Sep 2025 10:05:15 GMT | How Next‑Gen SAST & DAST Tools Are Unblocking DevOps — 8 Platforms That Actually Ship Secure… | Iliya Garakh | [Read More](https://medium.com/p/bfbc6ef174a1) |
 | Thu, 04 Sep 2025 10:02:40 GMT | HTB Bug Bounty Hunter Certification-Command Injection Skill Assessment. | Sourabh Sharma | [Read More](https://medium.com/p/84ae6f7508b5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 04:56:25 GMT | From Voicemails to Vulnerabilities: How UpCrypter Phishing Exposes Businesses — and What to Do… | eL Njas!™ | [Read More](https://medium.com/p/68262d3bc448) |
 | Thu, 04 Sep 2025 04:53:24 GMT | Pen Testing Is More Than Finding Bugs: A Practical, Client-First Guide | Aman Bhuiyan | [Read More](https://medium.com/p/e23c705f51cd) |
 | Thu, 04 Sep 2025 04:51:52 GMT | ThunderCipher-Lab[Thunder01] | Bhuwan Patidar | [Read More](https://medium.com/p/66d737a77a0a) |
-| Thu, 04 Sep 2025 04:49:47 GMT | CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog | SCtoCS | [Read More](https://medium.com/p/88667504b8d1) |
-| Thu, 04 Sep 2025 04:45:20 GMT | Cloudflare Stops Record-Breaking 11.5 Tbps DDoS Attack | SCtoCS | [Read More](https://medium.com/p/25ca4a4a966a) |
-| Thu, 04 Sep 2025 04:42:20 GMT | Top 8 GCP Security KPIs You Must Track in Your SIEM | Paritosh | [Read More](https://medium.com/p/84893629f66c) |
-| Thu, 04 Sep 2025 04:41:46 GMT | Logs Don’t Lie: How I Read Their Logs and Wrote My Own Access Rules | Iski | [Read More](https://medium.com/p/a29bb7cb9684) |
-| Thu, 04 Sep 2025 04:41:04 GMT | OAuth Token Theft Impacts Hundreds of Organizations | SCtoCS | [Read More](https://medium.com/p/3d7e2a5232a1) |
-| Thu, 04 Sep 2025 04:40:35 GMT | Fort Knox for Django: 8 Security Best Practices Every Developer Must Know | Priyanshu Rajput | [Read More](https://medium.com/p/3c75cd58b67f) |
-| Thu, 04 Sep 2025 04:38:23 GMT | Smarter Beats New: The Website Upgrade Playbook | Phantasm  solutions | [Read More](https://medium.com/p/0f62413bd04d) |
-| Thu, 04 Sep 2025 04:36:17 GMT | 5 IT Trends Every Business Owner Should Know Before 2026 | Devarshi Acharya | [Read More](https://medium.com/p/03afee92447a) |
-| Thu, 04 Sep 2025 04:32:39 GMT | Your Business Is One DPDP Request Away from a ₹250 Crore Disaster | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/6992338d8779) |
