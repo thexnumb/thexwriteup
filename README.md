@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 02:34:58 GMT | Write Up Lab: SQL injection UNION attack, finding a column containing text | Velskynotfound | [Read More](https://medium.com/p/8f1870aefe3a) |
+| Thu, 04 Sep 2025 02:34:13 GMT | Personal Reflection on the Launch of CAF v4.0. | Ogechukwu Ndukuba | [Read More](https://medium.com/p/76783989d242) |
+| Thu, 04 Sep 2025 02:31:36 GMT | Secondment in Tech: The Smarter Way to Extend Your Team | Wistkey | [Read More](https://medium.com/p/30f740fcb6a5) |
+| Thu, 04 Sep 2025 02:23:00 GMT | From ISO 27001 to PCI DSS — Why Frameworks Alone Don’t Secure You | Dr. Deep Pandey | [Read More](https://medium.com/p/c2e52da0f7b1) |
+| Thu, 04 Sep 2025 02:17:03 GMT | The Day AI Outsmarted Me — And What It Taught Me About Security | Dhruvdeep Singh | [Read More](https://medium.com/p/b4bddd2b7b62) |
+| Thu, 04 Sep 2025 02:15:59 GMT | How i Access Potential Misconfiguration Leading to Information Disclosure Unauthenticated Access to… | Muhammad Wageh | [Read More](https://medium.com/p/13bcc727cfa6) |
+| Thu, 04 Sep 2025 02:14:18 GMT | How One Simple Typo Led to the Most Bizarre Cyberattack of 2025 | Noel | [Read More](https://medium.com/p/25fc9113763d) |
+| Thu, 04 Sep 2025 02:13:50 GMT | The Silent Cyber Attack That Cost This Small Business $38,000 — Without Triggering a Single… | Noel | [Read More](https://medium.com/p/0eb06714b6cd) |
+| Thu, 04 Sep 2025 02:00:16 GMT | Setting The Sails: My Journey In Cybersecurity Sea | St0tRaa | [Read More](https://medium.com/p/d154093cb79f) |
+| Thu, 04 Sep 2025 01:31:36 GMT | Streamlit Auth & Role-Based Dashboards, Done Right | Nikulsinh Rajput | [Read More](https://medium.com/p/5fe8ec334743) |
+| Thu, 04 Sep 2025 01:31:36 GMT | cybersecurity Interview questions (part 2) | The Commoness | [Read More](https://medium.com/p/beb156173999) |
+| Thu, 04 Sep 2025 01:30:54 GMT | How to claim. bitcoin penguins 1 BTC Giveaway 2025 | Bitcoin penguins | [Read More](https://medium.com/p/fd06483593cb) |
+| Thu, 04 Sep 2025 01:27:59 GMT | BiTM Attacks in the Age of Agentic AI: Exploiting OpenAI’s Operator with Fullscreen API Spoofing | Ashley Dai | [Read More](https://medium.com/p/e044b936de66) |
+| Thu, 04 Sep 2025 01:21:37 GMT | Avoidant Attachment: The Double-Edged Sword of “Alexithymia” in Relationships | kate spider | [Read More](https://medium.com/p/d8d143ad84fd) |
 | Thu, 04 Sep 2025 01:01:40 GMT | Real-World Applications of DBSCAN in Fraud Detection and Cybersecurity | Ujang Riswanto | [Read More](https://medium.com/p/88346dc9e24d) |
 | Thu, 04 Sep 2025 00:56:13 GMT | Write-up: Exploiting Role Manipulation & Obfuscation Secrets to Achieve SuperAdmin Privileges | MOAMEN REZK | [Read More](https://medium.com/p/e6351c69a918) |
 | Thu, 04 Sep 2025 00:44:17 GMT | Gemini’s Security Regression: When Old Bugs Come Back to Haut | UltraZartrex | [Read More](https://medium.com/p/df6e51291308) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 18:00:19 GMT | HexStrike AI and the Race Against Time: How Autonomous Cyber Offense Reshapes Business Risk | Valdez Ladd | [Read More](https://medium.com/p/c06db7ac41e7) |
 | Wed, 03 Sep 2025 17:59:45 GMT | Why Fortinet Products Keep Appearing in Security Advisories | Cyberoptic Security | [Read More](https://medium.com/p/8ad5e56398a1) |
 | Wed, 03 Sep 2025 17:55:07 GMT | Analysis of Vulnerabilities Identified in JavaScript between 2022–2025 | gm0 | [Read More](https://medium.com/p/f8553d010467) |
-| Wed, 03 Sep 2025 17:48:20 GMT | Access Control — Unprotected Functionality | Varkeythms | [Read More](https://medium.com/p/67c8abfe6a4b) |
-| Wed, 03 Sep 2025 17:46:19 GMT | The Importance of Threat and Vulnerability Assessment (TVA) in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/1a417523aa05) |
-| Wed, 03 Sep 2025 17:34:00 GMT | JSLeak: Finding Secrets Hidden in JavaScript | Natarajan C K | [Read More](https://medium.com/p/cc5f919086a7) |
-| Wed, 03 Sep 2025 17:26:37 GMT | Java Selenium with Automation Testing Interview | Ajit Kumar | [Read More](https://medium.com/p/8cf52f575344) |
-| Wed, 03 Sep 2025 17:21:05 GMT | SQL for Bug Bounty Hunters | Swetha | [Read More](https://medium.com/p/106a4c324049) |
-| Wed, 03 Sep 2025 17:13:27 GMT | PortSwigger Academy Business Logic Lab Solutions | Emre A. | [Read More](https://medium.com/p/e3035d7e6ceb) |
-| Wed, 03 Sep 2025 17:12:28 GMT | Phishing: Don’t Take the Bait | Hirad Showghi | [Read More](https://medium.com/p/b9021f20d8ef) |
-| Wed, 03 Sep 2025 17:12:03 GMT | Burp Suite ile Web Güvenlik Testlerinde Ustalık: Kapsamlı Rehber | Berdan Mut | [Read More](https://medium.com/p/db9955131527) |
-| Wed, 03 Sep 2025 17:09:55 GMT | Ponemon Institute/OpenText™ Survey of CIO Leaders Details Reveals Illuminating Perspectives of… | Narendra Kumar Sen | [Read More](https://medium.com/p/59518da6f9df) |
-| Wed, 03 Sep 2025 17:06:02 GMT | Major Cyber Attacks, Ransomware Attacks and Data Breaches: August 2025 | IT_Engineer | [Read More](https://medium.com/p/4a93b8d9a36c) |
-| Wed, 03 Sep 2025 17:01:27 GMT | Cloud Misconfigurations: The Silent Threat Business Owners Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/173b3feccc9d) |
-| Wed, 03 Sep 2025 17:00:12 GMT | Day 15: Amazon EC2 →Your Virtual Server in the Cloud ☁️ | Prutha_Dongre | [Read More](https://medium.com/p/89fb08352bfb) |
-| Wed, 03 Sep 2025 16:54:31 GMT | CVE-2025–53772: The Silent Risk in Microsoft Web Deploy | gm0 | [Read More](https://medium.com/p/18fa67f02e15) |
-| Wed, 03 Sep 2025 16:47:44 GMT | 15 Security KPIs Every Cybersecurity Professional Should Know | Paritosh | [Read More](https://medium.com/p/a85b9654a8fc) |
