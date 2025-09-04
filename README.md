@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 15:16:00 GMT | The Forbidden Craving We All Hide | Kats at the Crossroads | [Read More](https://medium.com/p/9af03abad065) |
+| Thu, 04 Sep 2025 15:12:05 GMT | Why Form Validation is Crucial: Security, Functionality, and Real-World Risks Explained | Akshay Mulay | [Read More](https://medium.com/p/f6352c94e1a5) |
+| Thu, 04 Sep 2025 15:03:00 GMT | “Day 28: The DOM Clobbering Coup — How I Turned a Simple Comment Box into a CSP Bypass” | Aman Sharma | [Read More](https://medium.com/p/109af0e954a6) |
+| Thu, 04 Sep 2025 14:56:11 GMT | 有限資源，無限賽局-為何優秀的畢業生，都只能往科技業擠？從資安推動角度看就業選擇 | Kuro Huang | [Read More](https://medium.com/p/b63c1bbc7ed5) |
+| Thu, 04 Sep 2025 14:52:34 GMT | Airports | Dietmar Marggraff | [Read More](https://medium.com/p/1246b4c674c0) |
+| Thu, 04 Sep 2025 14:52:16 GMT | Approaching stealers devs: a brief interview with MacSync (ex-mentalpositive) | g0njxa | [Read More](https://medium.com/p/62504db3e761) |
+| Thu, 04 Sep 2025 14:43:39 GMT | Splunk: Setting up a SOC Lab — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/7a3dc23942fd) |
+| Thu, 04 Sep 2025 14:33:45 GMT | Self-Love vs Self-Obsession: The Secret Balance That Protects Your Peace | Maria Arshad | [Read More](https://medium.com/p/90ed28e0fd27) |
 | Thu, 04 Sep 2025 14:31:50 GMT | Samba 3.5.0–4.6.4 Remote Code Execution (CVE-2017–7494) In hackviser’s Lab | anonymous.gharti | [Read More](https://medium.com/p/a70c219e5d4a) |
 | Thu, 04 Sep 2025 14:31:30 GMT | The Ultimate Browser Toolkit: Part 2 | XoX | [Read More](https://medium.com/p/58ad51487a28) |
+| Thu, 04 Sep 2025 14:29:36 GMT | Drosera Network: A Decentralized Security Guardian for Ethereum | PalmTreeFlex | [Read More](https://medium.com/p/20d9638fb320) |
 | Thu, 04 Sep 2025 14:28:20 GMT | When Provisioning Fails: Google Cloud’s Quietest but Most Telling Outage…so far! | IsaacFabianK | [Read More](https://medium.com/p/d68c8fb11390) |
 | Thu, 04 Sep 2025 14:27:31 GMT | DevSecOps Best Practices for Software Teams: Secure Code from Day One | Paul Meyer | [Read More](https://medium.com/p/e4388187bb76) |
 | Thu, 04 Sep 2025 14:27:31 GMT | The Rise of AI-Powered Phishing: How to Spot and Stop It | PromptSecAI | [Read More](https://medium.com/p/3e0681c3e56f) |
@@ -21,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 14:19:57 GMT | Master Linux Like a Pro: Linux Playbook for Hackers — Advance Edition | Rocky | [Read More](https://medium.com/p/7facc42f3e37) |
 | Thu, 04 Sep 2025 14:14:52 GMT | Vulnerability Disclosure Challenges in Open Source Projects | ZAST AI | [Read More](https://medium.com/p/8c2378d7b3c8) |
 | Thu, 04 Sep 2025 14:14:29 GMT | The Trust & Access Office: From Permissions to Proof | Chris Perkins | [Read More](https://medium.com/p/91a94615e956) |
+| Thu, 04 Sep 2025 14:13:53 GMT | The Best Personal Safety App: VIP Safety for Everyday Peace of Mind | VIP Safety App | [Read More](https://medium.com/p/c68f9d424482) |
 | Thu, 04 Sep 2025 14:12:23 GMT | Why Choosing the Right Cyber Security Service Provider Matters | Lanvaus | [Read More](https://medium.com/p/0b76b3e75748) |
 | Thu, 04 Sep 2025 14:11:57 GMT | How to write a good Bug Bounty Report | Appsec.pt | [Read More](https://medium.com/p/76d935a8c5b1) |
 | Thu, 04 Sep 2025 14:02:39 GMT | Security is now centerstage in the AI news cycle but it needs to remain there | Tui Media | [Read More](https://medium.com/p/944bc9aecd9b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 10:51:20 GMT | Cyber Security Training in Hyderabad — Become a Certified Ethical Hacker & Security Expert | techsaavvy.com | [Read More](https://medium.com/p/3fcc55caae95) |
 | Thu, 04 Sep 2025 10:48:32 GMT | How to exploit? OPC UA — Open Platform Communications Unified Access — PORT 4840 | Very Lazy Tech | [Read More](https://medium.com/p/c1b9c7ea22fa) |
 | Thu, 04 Sep 2025 10:46:25 GMT | MeetC2 a.k.a Meeting C2 | Dhiraj | [Read More](https://medium.com/p/1fc2a6761068) |
-| Thu, 04 Sep 2025 10:44:49 GMT | 10 Best Reliable Hosting Providers for Online Communities in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/6374670eab40) |
-| Thu, 04 Sep 2025 10:43:30 GMT | Siber Güvenlik Uygulamaları | Akın Kafadar | [Read More](https://medium.com/p/39e89a1435b0) |
-| Thu, 04 Sep 2025 10:43:22 GMT | How Do Smart Contract Auditors Actually Make Money? | Stupid Contract | [Read More](https://medium.com/p/9ea5e87e4158) |
-| Thu, 04 Sep 2025 10:41:54 GMT | 10 Best Managed Hosting Providers for Medical Records in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/1d75864c0096) |
-| Thu, 04 Sep 2025 10:39:40 GMT | How to Secure Your Social Media Accounts in 2025: Stay Safe Online | Techlio | [Read More](https://medium.com/p/ba5a93abe0ed) |
-| Thu, 04 Sep 2025 10:38:56 GMT | Why Ethereum Needs a Security Automation Layer | Eniola Olofinbiyi | [Read More](https://medium.com/p/14185d1eb3a3) |
-| Thu, 04 Sep 2025 10:38:35 GMT | Top 10 Secure Hosting Providers for NFT Marketplaces in 2025 | Kanika Mehtah | [Read More](https://medium.com/p/1af4832fc4cf) |
-| Thu, 04 Sep 2025 10:31:51 GMT | Siber Güvenlikte Kullanılabilecek Python Kütüphaneleri | Akın Kafadar | [Read More](https://medium.com/p/b1a08ff76565) |
-| Thu, 04 Sep 2025 10:26:38 GMT | Metasploitable: Laboratorium Hacking Pribadi Anda, Gratis | Reza Alfarisy | [Read More](https://medium.com/p/ecb9fa1df796) |
-| Thu, 04 Sep 2025 10:25:57 GMT | Cyber Security MNCs in India: Importance of Cyber Insurance for Businesses | piyush | [Read More](https://medium.com/p/aed5683f603d) |
