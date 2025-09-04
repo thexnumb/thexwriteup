@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 10:07:22 GMT | ⚡ XSS (Cross-Site Scripting) Vulnerabilities and Exploit Techniques | Esra Kayhan | [Read More](https://medium.com/p/76bb111925ca) |
+| Thu, 04 Sep 2025 10:05:15 GMT | How Next‑Gen SAST & DAST Tools Are Unblocking DevOps — 8 Platforms That Actually Ship Secure… | Iliya Garakh | [Read More](https://medium.com/p/bfbc6ef174a1) |
+| Thu, 04 Sep 2025 10:02:40 GMT | HTB Bug Bounty Hunter Certification-Command Injection Skill Assessment. | Sourabh Sharma | [Read More](https://medium.com/p/84ae6f7508b5) |
+| Thu, 04 Sep 2025 10:01:01 GMT | The Real Price of Ignoring IT Problems in Your Business | ITTechBox | [Read More](https://medium.com/p/63c0065d2d64) |
+| Thu, 04 Sep 2025 10:00:45 GMT | Beyond Chatbots: 7 Real-World Applications of Generative AI. | Anupghimire | [Read More](https://medium.com/p/0c7424777e3d) |
+| Thu, 04 Sep 2025 09:54:05 GMT | Using HTML as a ladder — | Manashreerao | [Read More](https://medium.com/p/f5c107e88e27) |
+| Thu, 04 Sep 2025 09:49:44 GMT | Committed — TryHackMe Write-Up | Furkanctiner | [Read More](https://medium.com/p/d81052336d88) |
+| Thu, 04 Sep 2025 09:43:45 GMT | Your ChatGPT History Went Public on Google. Here’s How I Fixed It in 10 Minutes. | Cary Burton | [Read More](https://medium.com/p/78b568d9baf5) |
+| Thu, 04 Sep 2025 09:43:23 GMT | Infiltrating PostgreSQL on Metasploitable2️:Operation Database Breach | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/f9fa80090097) |
+| Thu, 04 Sep 2025 09:43:06 GMT | GoldenEye: 1 VulnHub - Walkthrough | Rikin | [Read More](https://medium.com/p/56bdd1601672) |
+| Thu, 04 Sep 2025 09:41:08 GMT | Beyond the Badge: Why Professional Security Guard Services are Non-Negotiable in Modern India | Ciss India | [Read More](https://medium.com/p/2442b43f0a0b) |
+| Thu, 04 Sep 2025 09:40:07 GMT | The DPO Paradox: Why Your Most Strategic Asset Has a Part-Time Guardian | Arvind Mehrotra | [Read More](https://medium.com/p/c1110f1c2cc9) |
+| Thu, 04 Sep 2025 09:37:16 GMT | A Look into the Future: A New Strategic Plan for AI in the Mathematical and Physical Sciences | Berend Watchus | [Read More](https://medium.com/p/be1501440e96) |
+| Thu, 04 Sep 2025 09:36:47 GMT | AI-Powered Cybersecurity Training: Preparing the GCC Workforce | Chetan R. | [Read More](https://medium.com/p/2c89ad066f0f) |
 | Thu, 04 Sep 2025 09:26:33 GMT | On Blocking xmlrpc.php | Karl Kubelet | [Read More](https://medium.com/p/aceecb09ab7b) |
 | Thu, 04 Sep 2025 09:25:48 GMT | JNI NewObject Abstract Class Instantiation Vulnerability | Numen Cyber Labs | [Read More](https://medium.com/p/d79ad7552311) |
 | Thu, 04 Sep 2025 09:25:15 GMT | Penetration Testing Processes and Basic Techniques | PenligentAI | [Read More](https://medium.com/p/df2c772340d3) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 04:38:23 GMT | Smarter Beats New: The Website Upgrade Playbook | Phantasm  solutions | [Read More](https://medium.com/p/0f62413bd04d) |
 | Thu, 04 Sep 2025 04:36:17 GMT | 5 IT Trends Every Business Owner Should Know Before 2026 | Devarshi Acharya | [Read More](https://medium.com/p/03afee92447a) |
 | Thu, 04 Sep 2025 04:32:39 GMT | Your Business Is One DPDP Request Away from a ₹250 Crore Disaster | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/6992338d8779) |
-| Thu, 04 Sep 2025 04:23:41 GMT | The September Refresh: How to Bring Order Back into Your Home | Andrea Thompson | [Read More](https://medium.com/p/934feb833a58) |
-| Thu, 04 Sep 2025 04:15:36 GMT | Encrypted Vault for Password Storage (C++) | Wuntchwrites | [Read More](https://medium.com/p/1b0ffb1b3ce7) |
-| Thu, 04 Sep 2025 04:09:03 GMT | HTTP: The Language Behind the Web | cybergriotz | [Read More](https://medium.com/p/3fb3fe5f9aaf) |
-| Thu, 04 Sep 2025 04:07:29 GMT | The CISO’s New Playbook: Concrete Steps for 2025 | Akilnath Bodipudi | [Read More](https://medium.com/p/13e2656b8fc6) |
-| Thu, 04 Sep 2025 04:05:26 GMT | Pulumi…Ready to Claim the Infrastructure-as-Code Throne? | Omar Din | [Read More](https://medium.com/p/7682a75f6b6b) |
-| Thu, 04 Sep 2025 04:01:44 GMT | The Role of AI in Modern Cybersecurity: Opportunities and Risks (2025 Edition) | Secventra | [Read More](https://medium.com/p/7b1fb863b05e) |
-| Thu, 04 Sep 2025 03:56:54 GMT | Introducción a la API de Windows Para el desarrollo de malware, parte 1. | Dalton | [Read More](https://medium.com/p/051bcdbd09fd) |
-| Thu, 04 Sep 2025 03:54:16 GMT | Pengenalan Komponen Arduino Kit | Akbar Indra Saputra | [Read More](https://medium.com/p/b52f2497cf22) |
-| Thu, 04 Sep 2025 03:47:46 GMT | Chaining Path Traversal Vulnerability to RCE  — Meta’s 111,750$ Bug | Abhishek meena | [Read More](https://medium.com/p/a98a473c6a05) |
-| Thu, 04 Sep 2025 03:39:25 GMT | Allowing ACME Requests for SSL Certificates in SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/0e0867450ff3) |
-| Thu, 04 Sep 2025 03:36:33 GMT | Web Security Essentials — Tryhackme Talkthrough | TRedEye | [Read More](https://medium.com/p/d11b294eb4cc) |
-| Thu, 04 Sep 2025 03:31:36 GMT | Top 7 Benefits of Using an Anti-Corruption Layer in Node.js | Arunangshu Das | [Read More](https://medium.com/p/b87e9fce64fc) |
-| Thu, 04 Sep 2025 03:31:36 GMT | How a Raspberry Pi Nearly Pulled Off a Bank Heist | Deven Chhajed | [Read More](https://medium.com/p/6df1aabc24a3) |
-| Thu, 04 Sep 2025 03:31:16 GMT | My First RCE: Critical Bug on a Redacted Subdomain | MRKNIGHT-NIDU | [Read More](https://medium.com/p/6d4017324d62) |
