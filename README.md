@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 06:13:53 GMT | What is VAPT Testing, Its Methodology & Importance for Business? | Qualysectechnologies | [Read More](https://medium.com/p/b784832ede84) |
+| Thu, 04 Sep 2025 06:11:36 GMT | ThunderCipher-[WebAdmin] | Bhuwan Patidar | [Read More](https://medium.com/p/509cf0ef57a9) |
+| Thu, 04 Sep 2025 06:11:04 GMT | Spyware Analysis: Building a Keylogger and Its Countermeasure | Shashank M.S | [Read More](https://medium.com/p/a2f595ed218a) |
+| Thu, 04 Sep 2025 06:08:12 GMT | Do we still need a SOC? | Martin Abramov | [Read More](https://medium.com/p/a68fa7aed3f7) |
+| Thu, 04 Sep 2025 06:01:59 GMT | What is a Vulnerability? | Darshil Modi | [Read More](https://medium.com/p/56ad02d49d1d) |
+| Thu, 04 Sep 2025 06:00:00 GMT | AI vs AI in Cybersecurity: Fighting Hackers with Artificial Intelligence | Suretek Infosoft | [Read More](https://medium.com/p/984c4c303be9) |
+| Thu, 04 Sep 2025 05:57:52 GMT | Google Cloud Penetration Testing (GCP): Methodology, Tools & Best Practices Complete Guide | QualysecEurope | [Read More](https://medium.com/p/6c32346ebc98) |
+| Thu, 04 Sep 2025 05:52:11 GMT | Day 3 AI Security: When AI Turns Sour: Cracking the Code of AI Supply Chain Attacks | Maghnaa Sathish Kumar | [Read More](https://medium.com/p/180476a604a3) |
+| Thu, 04 Sep 2025 05:50:13 GMT | This Charging Cable Can HACK You | Shahzaib | [Read More](https://medium.com/p/e71fb09f33a6) |
+| Thu, 04 Sep 2025 05:46:12 GMT | Top Reasons to Pursue a Cyber Security Degree in 2025 | Tanisha Singh | [Read More](https://medium.com/p/f61c56d1844c) |
+| Thu, 04 Sep 2025 05:43:30 GMT | PsExec Hunt - Cyberdefenders Blue Team Lab Write-up. | Tboysunovap | [Read More](https://medium.com/p/0d71b6995a84) |
+| Thu, 04 Sep 2025 05:35:53 GMT | Lazarus Group’s Latest Hack: A Masterclass in Deception | Aj | [Read More](https://medium.com/p/abc2d45c1956) |
 | Thu, 04 Sep 2025 05:35:24 GMT | SSL Treasure Maps: How I Found Hidden Subdomains in crt.sh (And How Hackers Exploit Them) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/475e1414d416) |
 | Thu, 04 Sep 2025 05:33:20 GMT | SSL Treasure Maps 2.0: How I Pulled Hidden Subdomains from crt.sh — and Why It Matters | Narendar Battula (nArEn) | [Read More](https://medium.com/p/202874fd2cee) |
 | Thu, 04 Sep 2025 05:28:11 GMT | Cloudflare Workers, KV, D1 — and a Curious Idea That Became Adaptive Profiling | Bijodev | [Read More](https://medium.com/p/49d1dbbf0534) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Sep 2025 21:38:14 GMT | The Low-Tech Trick That Keeps My Cyber Workflows Sharp | Sam Galope | [Read More](https://medium.com/p/9e4fa49d8ffb) |
 | Wed, 03 Sep 2025 21:37:35 GMT | Django Unauthenticated, 0 click, RCE, and SQL Injection using default configuration. | EyalSec | [Read More](https://medium.com/p/059964f3f898) |
 | Wed, 03 Sep 2025 21:37:03 GMT | How Weak Access Control Can Break Your Web App | diaryofacyberfan | [Read More](https://medium.com/p/c9da6286c187) |
-| Wed, 03 Sep 2025 21:27:41 GMT | Building an NMAP static binary | z3l3v | [Read More](https://medium.com/p/ca1e2dc9c66e) |
-| Wed, 03 Sep 2025 21:24:38 GMT | Exploring Microsoft Sentinel: KQL 201 — Beyond the Basics | Vedant Tapdiya | [Read More](https://medium.com/p/60efdd2930df) |
-| Wed, 03 Sep 2025 21:21:32 GMT | TryHackMe — Incident Response Fundamentals Writeup | Ulaş AKTAŞ | [Read More](https://medium.com/p/b0015669bc60) |
-| Wed, 03 Sep 2025 21:17:33 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/f829d9904e1c) |
-| Wed, 03 Sep 2025 21:17:11 GMT | Nichelle Nemo on 3 IT Trends Every Professional Should Watch in 2025 | Nichelle Nemo | [Read More](https://medium.com/p/75f7e3867818) |
-| Wed, 03 Sep 2025 20:52:33 GMT | When Keypads Give Away the Code: My Surprising Doctor’s Office Experience | InSync News | [Read More](https://medium.com/p/5b85060761a2) |
-| Wed, 03 Sep 2025 20:51:11 GMT | Vitals Exposed: How Cyber Threats Are Quietly Undermining Healthcare | CoopSys | [Read More](https://medium.com/p/75cc9dafc3b1) |
-| Wed, 03 Sep 2025 20:43:40 GMT | Project PANOPTIC | Cyrus King | [Read More](https://medium.com/p/14d58748072c) |
-| Wed, 03 Sep 2025 20:37:51 GMT | “Am I Loved Right?” | Esther Edebo Faruna | [Read More](https://medium.com/p/62d86a7e217a) |
-| Wed, 03 Sep 2025 20:30:25 GMT | Why Every Business Needs a Bug Bounty Program: | Ayshee | [Read More](https://medium.com/p/fa887581ce60) |
-| Wed, 03 Sep 2025 20:30:16 GMT | Cisco ISE Guest Portal: Automating Certificate Renewal with Let’s Encrypt and OpenAPI | Teymur Aghayev | [Read More](https://medium.com/p/5bdb8db9390e) |
-| Wed, 03 Sep 2025 20:29:15 GMT | Stop Chrome Pop-Ups & Redirects for Good | www.OneCoolTip.com | [Read More](https://medium.com/p/689a2b3439f8) |
