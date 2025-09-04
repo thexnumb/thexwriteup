@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 09:11:44 GMT | Native App Development Requirements in 2025: What Startups Should Know | Weavers Web Solutions | [Read More](https://medium.com/p/333f4ee4332e) |
+| Thu, 04 Sep 2025 09:10:16 GMT | Pentesting with AI Agents: Experimenting with CAI | Andrey | [Read More](https://medium.com/p/30cd05cafae7) |
+| Thu, 04 Sep 2025 09:08:52 GMT | 10 Android Security Tips: Must read for android developers | Prakash Sharma | [Read More](https://medium.com/p/9553f3645cb5) |
+| Thu, 04 Sep 2025 09:00:46 GMT | Phishing in Cyber Law | Ankitinnjoshi | [Read More](https://medium.com/p/4a1ce29da2e5) |
+| Thu, 04 Sep 2025 09:00:00 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2a8baa1cb5e8) |
+| Thu, 04 Sep 2025 08:59:16 GMT | Don’t Just Watch for Threats; See Them Coming. | Waseem Akram | [Read More](https://medium.com/p/00b89e921d4f) |
+| Thu, 04 Sep 2025 08:56:24 GMT | Server Security at Risk from N-central Zero-Day Vulnerabilities | Criminal IP | [Read More](https://medium.com/p/e14e08653a56) |
+| Thu, 04 Sep 2025 08:56:22 GMT | ประจำวันพฤหัสบดีที่ 4 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/85b3725711ba) |
+| Thu, 04 Sep 2025 08:53:55 GMT | Top 6 Reasons to Hire a SaaS Contracts Attorney for Your Startup | Hansen Tong | [Read More](https://medium.com/p/cd8c24e2e59e) |
+| Thu, 04 Sep 2025 08:50:57 GMT | Car Hacking: The New Frontier In Cybersecurity | Redfox Security | [Read More](https://medium.com/p/e8455bc9158b) |
+| Thu, 04 Sep 2025 08:49:31 GMT | The Impact of AI on Cybersecurity: Opportunities and Challenges in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/e49539961f7e) |
+| Thu, 04 Sep 2025 08:45:47 GMT | Fix Broken Access Control in React.js (with Code) | Pentest_Testing_Corp | [Read More](https://medium.com/p/d119bc18f7bc) |
 | Thu, 04 Sep 2025 08:33:01 GMT | Broken Access Control: The #1 OWASP Risk explained in depth | CyberSenpai | [Read More](https://medium.com/p/ee561bde4dd8) |
 | Thu, 04 Sep 2025 08:25:19 GMT | Juicy Details — TryHackMe Forensics & Log Analysis Write-Up | Furkanctiner | [Read More](https://medium.com/p/0960a89481c0) |
 | Thu, 04 Sep 2025 08:18:54 GMT | Why Security Testing is Non-Negotiable for QA Engineers? | Lakindu De Silva | [Read More](https://medium.com/p/9dca25195021) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 02:44:28 GMT | Dutch Intelligence Confirms Salt Typhoon Cyberattacks | TheReviewHive | [Read More](https://medium.com/p/4dda9707ebad) |
 | Thu, 04 Sep 2025 02:34:58 GMT | Write Up Lab: SQL injection UNION attack, finding a column containing text | Velskynotfound | [Read More](https://medium.com/p/8f1870aefe3a) |
 | Thu, 04 Sep 2025 02:34:13 GMT | Personal Reflection on the Launch of CAF v4.0. | Ogechukwu Ndukuba | [Read More](https://medium.com/p/76783989d242) |
-| Thu, 04 Sep 2025 02:31:36 GMT | Secondment in Tech: The Smarter Way to Extend Your Team | Wistkey | [Read More](https://medium.com/p/30f740fcb6a5) |
-| Thu, 04 Sep 2025 02:23:00 GMT | From ISO 27001 to PCI DSS — Why Frameworks Alone Don’t Secure You | Dr. Deep Pandey | [Read More](https://medium.com/p/c2e52da0f7b1) |
-| Thu, 04 Sep 2025 02:17:03 GMT | The Day AI Outsmarted Me — And What It Taught Me About Security | Dhruvdeep Singh | [Read More](https://medium.com/p/b4bddd2b7b62) |
-| Thu, 04 Sep 2025 02:15:59 GMT | How i Access Potential Misconfiguration Leading to Information Disclosure Unauthenticated Access to… | Muhammad Wageh | [Read More](https://medium.com/p/13bcc727cfa6) |
-| Thu, 04 Sep 2025 02:14:18 GMT | How One Simple Typo Led to the Most Bizarre Cyberattack of 2025 | Noel | [Read More](https://medium.com/p/25fc9113763d) |
-| Thu, 04 Sep 2025 02:13:50 GMT | The Silent Cyber Attack That Cost This Small Business $38,000 — Without Triggering a Single… | Noel | [Read More](https://medium.com/p/0eb06714b6cd) |
-| Thu, 04 Sep 2025 02:00:16 GMT | Setting The Sails: My Journey In Cybersecurity Sea | St0tRaa | [Read More](https://medium.com/p/d154093cb79f) |
-| Thu, 04 Sep 2025 01:31:36 GMT | Streamlit Auth & Role-Based Dashboards, Done Right | Nikulsinh Rajput | [Read More](https://medium.com/p/5fe8ec334743) |
-| Thu, 04 Sep 2025 01:31:36 GMT | cybersecurity Interview questions (part 2) | The Commoness | [Read More](https://medium.com/p/beb156173999) |
-| Thu, 04 Sep 2025 01:30:54 GMT | How to claim. bitcoin penguins 1 BTC Giveaway 2025 | Bitcoin penguins | [Read More](https://medium.com/p/fd06483593cb) |
-| Thu, 04 Sep 2025 01:27:59 GMT | BiTM Attacks in the Age of Agentic AI: Exploiting OpenAI’s Operator with Fullscreen API Spoofing | Ashley Dai | [Read More](https://medium.com/p/e044b936de66) |
-| Thu, 04 Sep 2025 01:21:37 GMT | Avoidant Attachment: The Double-Edged Sword of “Alexithymia” in Relationships | kate spider | [Read More](https://medium.com/p/d8d143ad84fd) |
