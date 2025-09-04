@@ -12,10 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 19:04:04 GMT | When Cybercriminals Get an AI Upgrade: Ransomware for the Masses | Malik | [Read More](https://medium.com/p/1b82583ff06d) |
+| Thu, 04 Sep 2025 18:59:15 GMT | Software and Data Integrity Failures (OWASP Top 10 #8) — Simplified | Chai | [Read More](https://medium.com/p/36951f1bd196) |
+| Thu, 04 Sep 2025 18:59:05 GMT | The Silent Breach: Inside the $223 Million Cetus Protocol Hack | NineTales | [Read More](https://medium.com/p/db6e54df33b0) |
+| Thu, 04 Sep 2025 18:57:51 GMT | Conducting a Security Audit | Citadel Cybersec | [Read More](https://medium.com/p/43a54ffcfa63) |
+| Thu, 04 Sep 2025 18:57:30 GMT | Sophos UTM Yapılandırmaları ve Zafiyet Yönetimi | Sena Yıldızlı | [Read More](https://medium.com/p/5c5e634b07d8) |
+| Thu, 04 Sep 2025 18:56:55 GMT | The Hidden Costs of File Security in the AI Era | Malik | [Read More](https://medium.com/p/f89285c11747) |
+| Thu, 04 Sep 2025 18:52:12 GMT | The Mystery Bug That Only Happened During Leap Year | Dax | [Read More](https://medium.com/p/e4a306c0aff2) |
+| Thu, 04 Sep 2025 18:45:36 GMT | First Bug Bounty Reward — Broken Access Control | Defidev | [Read More](https://medium.com/p/e63ba29789f7) |
 | Thu, 04 Sep 2025 18:43:41 GMT | Why EDR Is Replacing Traditional Antivirus in 2025
 Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 18:42:13 GMT | OPSEC 201, “Advanced” tips and more on keeping yourself safe from bad actors | Dabest | [Read More](https://medium.com/p/a14f059cb44f) |
 | Thu, 04 Sep 2025 18:38:48 GMT | Salt Typhoon: The Chinese Cyber Campaign That May Have Exposed Data on Nearly Every American | Udaykumar | [Read More](https://medium.com/p/542ca9a46b7d) |
+| Thu, 04 Sep 2025 18:37:36 GMT | Fast & Reliable Automotive Locksmith Services in Sarasota & Surrounding Areas | Pro Locksmith Connection | [Read More](https://medium.com/p/1fe6ad39c9e6) |
 | Thu, 04 Sep 2025 18:35:19 GMT | ️ The Bybit Heist of 2025: Inside the Billion-Dollar Cold Wallet Breach | NineTales | [Read More](https://medium.com/p/256304ff55c6) |
 | Thu, 04 Sep 2025 18:25:57 GMT | Firewalls: The Gatekeepers of the Internet | Hirad Showghi | [Read More](https://medium.com/p/59028e652177) |
 | Thu, 04 Sep 2025 18:25:51 GMT | Securing the Silicon Savannah: Mastering Data Privacy in Kenya’s IT Boom. | Donald Odera | [Read More](https://medium.com/p/1e557bf158d6) |
@@ -104,12 +113,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 13:47:55 GMT | Running HashiCorp Vault Radar in a Container | Raymon Epping | [Read More](https://medium.com/p/4205abe51c8f) |
 | Thu, 04 Sep 2025 13:45:39 GMT | Build Your Own SOC Home Lab with Splunk, Windows Server, Linux Server, and pfSense Firewall | j1sec | [Read More](https://medium.com/p/98ae78909603) |
 | Thu, 04 Sep 2025 13:42:23 GMT | My Summer School Adventure in Brno, Czech Republic | Esther Nyumu | [Read More](https://medium.com/p/7726b64bf2a7) |
-| Thu, 04 Sep 2025 13:42:17 GMT | Why Small Businesses Need Strong Cyber Security Now More Than Ever | Kartik Debnath | [Read More](https://medium.com/p/a93be07f4404) |
-| Thu, 04 Sep 2025 13:40:42 GMT | Skyblind: How Russia’s GPS Bombardment Forced Ukraine — and All of Europe — to Navigate by Paper… | Waleed’s Edge Knowledge | [Read More](https://medium.com/p/4880f21e99f5) |
-| Thu, 04 Sep 2025 13:39:16 GMT | AI-assisted vetting of software packages | Helsing | [Read More](https://medium.com/p/b4c47a271ce9) |
-| Thu, 04 Sep 2025 13:34:51 GMT | Digging Holes to Heal Myself | The Passionate Pen | [Read More](https://medium.com/p/d82deef4e950) |
-| Thu, 04 Sep 2025 13:32:49 GMT | The Calm That Found Her | Arabella | [Read More](https://medium.com/p/0332796d73af) |
-| Thu, 04 Sep 2025 13:30:40 GMT | This write-up covers my solution to the PortSwigger Web Security Academy challenge: | MazenTurky | [Read More](https://medium.com/p/195b5d31bb51) |
-| Thu, 04 Sep 2025 13:30:34 GMT | Stop Chasing Shadows: Master Vulnerability Management in Hybrid Clouds | Iliya Garakh | [Read More](https://medium.com/p/3c57b6a8e368) |
-| Thu, 04 Sep 2025 13:29:57 GMT | Alan Turing and the Story of Breaking the Enigma | Stacklegend | [Read More](https://medium.com/p/bc5a7757df99) |
-| Thu, 04 Sep 2025 13:26:50 GMT | Grokking: A New Malvertising Technique Targeting X | Brez | [Read More](https://medium.com/p/c60050f3a5dd) |
