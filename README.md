@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 13:39:16 GMT | AI-assisted vetting of software packages | Helsing | [Read More](https://medium.com/p/b4c47a271ce9) |
+| Thu, 04 Sep 2025 13:34:51 GMT | Digging Holes to Heal Myself | The Passionate Pen | [Read More](https://medium.com/p/d82deef4e950) |
+| Thu, 04 Sep 2025 13:32:49 GMT | The Calm That Found Her | Arabella | [Read More](https://medium.com/p/0332796d73af) |
+| Thu, 04 Sep 2025 13:30:40 GMT | This write-up covers my solution to the PortSwigger Web Security Academy challenge: | MazenTurky | [Read More](https://medium.com/p/195b5d31bb51) |
+| Thu, 04 Sep 2025 13:30:34 GMT | Stop Chasing Shadows: Master Vulnerability Management in Hybrid Clouds | Iliya Garakh | [Read More](https://medium.com/p/3c57b6a8e368) |
+| Thu, 04 Sep 2025 13:29:57 GMT | Alan Turing and the Story of Breaking the Enigma | Stacklegend | [Read More](https://medium.com/p/bc5a7757df99) |
+| Thu, 04 Sep 2025 13:26:50 GMT | Grokking: A New Malvertising Technique Targeting X | Brez | [Read More](https://medium.com/p/c60050f3a5dd) |
 | Thu, 04 Sep 2025 13:24:08 GMT | Six Network Scanners Rewiring Hybrid-Cloud Security (What Your Old Scanner Misses) | Iliya Garakh | [Read More](https://medium.com/p/782bd73be357) |
 | Thu, 04 Sep 2025 13:21:30 GMT | What Is a Firewall in Computer Networks? How It Protects You From Online Threats | Timónofearth | [Read More](https://medium.com/p/b4776c7aa6d2) |
 | Thu, 04 Sep 2025 13:14:19 GMT | From Alert Overload to Action: 8 New Vulnerability Management Platforms That Actually Reduce Risk | Iliya Garakh | [Read More](https://medium.com/p/d5e555bd2da6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 09:23:53 GMT | Hack From Home? Start Here For Free | SilentInject | [Read More](https://medium.com/p/99a44c867084) |
 | Thu, 04 Sep 2025 09:22:11 GMT | CYBER ABUSE™: THE SUBSCRIPTION YOU NEVER ASKED FOR | Jesslyn Jenkens | [Read More](https://medium.com/p/b4569f005d12) |
 | Thu, 04 Sep 2025 09:17:30 GMT | Real-Time DNS Leakage Detection with Machine Learning and Packet Inspection | Esra Kayhan | [Read More](https://medium.com/p/da37cca7c31b) |
-| Thu, 04 Sep 2025 09:14:23 GMT | Your NetScaler Is Already Under Fire | Aj | [Read More](https://medium.com/p/e7fee610488a) |
-| Thu, 04 Sep 2025 09:11:44 GMT | Native App Development Requirements in 2025: What Startups Should Know | Weavers Web Solutions | [Read More](https://medium.com/p/333f4ee4332e) |
-| Thu, 04 Sep 2025 09:11:18 GMT | Burnout Alert: “SOC Analyst Job Destroying My Life.” | Truspex | [Read More](https://medium.com/p/b7e0b71d6b13) |
-| Thu, 04 Sep 2025 09:10:16 GMT | Pentesting with AI Agents: Experimenting with CAI | Andrey | [Read More](https://medium.com/p/30cd05cafae7) |
-| Thu, 04 Sep 2025 09:08:52 GMT | 10 Android Security Tips: Must read for android developers | Prakash Sharma | [Read More](https://medium.com/p/9553f3645cb5) |
-| Thu, 04 Sep 2025 09:00:46 GMT | Phishing in Cyber Law | Ankitinnjoshi | [Read More](https://medium.com/p/4a1ce29da2e5) |
-| Thu, 04 Sep 2025 09:00:00 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2a8baa1cb5e8) |
