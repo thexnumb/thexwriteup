@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 08:18:54 GMT | Why Security Testing is Non-Negotiable for QA Engineers? | Lakindu De Silva | [Read More](https://medium.com/p/9dca25195021) |
+| Thu, 04 Sep 2025 08:17:46 GMT | No CSP, No Problem? Think Again — Clickjacking Explained | 0xsamraa | [Read More](https://medium.com/p/f937b32795c4) |
+| Thu, 04 Sep 2025 08:06:34 GMT | Cybersecurity, Information Governance, Legal Risk Management & Compliance with ISO Records… | Rana El Garhi | [Read More](https://medium.com/p/4dc2282e55b7) |
+| Thu, 04 Sep 2025 08:01:38 GMT | Why Your Linux Server Feels Slower Than Windows 98 (and How to Fix It) | MayhemCode | [Read More](https://medium.com/p/b486b209c77d) |
+| Thu, 04 Sep 2025 08:01:34 GMT | One Dashboard, Not Ten Tools: Why Teams Choose LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/4a5482d134d0) |
+| Thu, 04 Sep 2025 07:57:46 GMT | On Vulnerability | Gaj’s Gammy | [Read More](https://medium.com/p/272fa6b4c72d) |
+| Thu, 04 Sep 2025 07:55:41 GMT | Revolutionizing Security with AI: ElevateTrust.AI | Elevatetrust Ai | [Read More](https://medium.com/p/4b1990270501) |
+| Thu, 04 Sep 2025 07:50:35 GMT | Penetration Testing Certification Roadmap for Beginners | cyber security Updates | [Read More](https://medium.com/p/81ec095c95cb) |
+| Thu, 04 Sep 2025 07:46:00 GMT | 5 Best VPN Services for Secure & Private Browsing in 2025 | Techlio | [Read More](https://medium.com/p/b55cab858c3a) |
+| Thu, 04 Sep 2025 07:42:51 GMT | Inside the Mind of a Red Teamer: A Realistic Attack Simulation | Aenosh Rajora | [Read More](https://medium.com/p/6d29ef958f86) |
 | Thu, 04 Sep 2025 07:34:03 GMT | Siber Güvenlik Notlarım (İkinci Kısım) | Muhammed Fidan | [Read More](https://medium.com/p/eab7d88d6daf) |
 | Thu, 04 Sep 2025 07:31:20 GMT | Siber Güvenlik Notlarım(İlk Kısım) | Muhammed Fidan | [Read More](https://medium.com/p/d81eb5971e52) |
 | Thu, 04 Sep 2025 07:27:01 GMT | Agentic AI is Probing Your Network: The Cybersecurity Wake-Up Call You Can’t Ignore | ZENcurity | [Read More](https://medium.com/p/266862378900) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 01:21:37 GMT | Avoidant Attachment: The Double-Edged Sword of “Alexithymia” in Relationships | kate spider | [Read More](https://medium.com/p/d8d143ad84fd) |
 | Thu, 04 Sep 2025 01:01:40 GMT | Real-World Applications of DBSCAN in Fraud Detection and Cybersecurity | Ujang Riswanto | [Read More](https://medium.com/p/88346dc9e24d) |
 | Thu, 04 Sep 2025 00:56:13 GMT | Write-up: Exploiting Role Manipulation & Obfuscation Secrets to Achieve SuperAdmin Privileges | MOAMEN REZK | [Read More](https://medium.com/p/e6351c69a918) |
-| Thu, 04 Sep 2025 00:44:17 GMT | Gemini’s Security Regression: When Old Bugs Come Back to Haut | UltraZartrex | [Read More](https://medium.com/p/df6e51291308) |
-| Thu, 04 Sep 2025 00:43:53 GMT | Amazon Nova AI Models: The Complete Developer’s Guide | Rizqi Mulki | [Read More](https://medium.com/p/f39d07f074a7) |
-| Thu, 04 Sep 2025 00:42:32 GMT | Scam: Fake Praise in Comments | Cynthia Friedlob | [Read More](https://medium.com/p/9873bcade504) |
-| Thu, 04 Sep 2025 00:27:34 GMT | The Polite Email That Hacks Your Entire Network | Aj | [Read More](https://medium.com/p/02113e03fda2) |
-| Thu, 04 Sep 2025 00:25:44 GMT | Setting up Android operating systems on VirtualBox | Achyuta Shrimate | [Read More](https://medium.com/p/f8f20d4d547c) |
-| Thu, 04 Sep 2025 00:22:35 GMT | The Role of Next-Generation Firewalls in Network Security | Samina Perveen | [Read More](https://medium.com/p/efa2013c95bc) |
-| Thu, 04 Sep 2025 00:19:00 GMT | HackTheBox — Planning (Write Up & Walkthrough) | Suryadi Putra | [Read More](https://medium.com/p/f204ec317d6c) |
-| Thu, 04 Sep 2025 00:09:00 GMT | Vulnerability and a Happy Family | Claire.B612 | [Read More](https://medium.com/p/4d63e66f0ebd) |
-| Thu, 04 Sep 2025 00:01:29 GMT | When the Data Bites Back: Injection Attacks Every LLM Engineer Should Know | Shivang Doshi | [Read More](https://medium.com/p/99d8893065b3) |
-| Wed, 03 Sep 2025 23:36:42 GMT | Title: The Unpatchable Attacks: Why DLL Hijacking, Credential Dumping, and Unmanaged PS Injection… | Rahaliashraf | [Read More](https://medium.com/p/23e05e1f91be) |
