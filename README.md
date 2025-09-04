@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Sep 2025 09:26:33 GMT | On Blocking xmlrpc.php | Karl Kubelet | [Read More](https://medium.com/p/aceecb09ab7b) |
+| Thu, 04 Sep 2025 09:25:48 GMT | JNI NewObject Abstract Class Instantiation Vulnerability | Numen Cyber Labs | [Read More](https://medium.com/p/d79ad7552311) |
+| Thu, 04 Sep 2025 09:25:15 GMT | Penetration Testing Processes and Basic Techniques | PenligentAI | [Read More](https://medium.com/p/df2c772340d3) |
+| Thu, 04 Sep 2025 09:23:53 GMT | Hack From Home? Start Here For Free | SilentInject | [Read More](https://medium.com/p/99a44c867084) |
+| Thu, 04 Sep 2025 09:22:11 GMT | CYBER ABUSE™: THE SUBSCRIPTION YOU NEVER ASKED FOR | Jesslyn Jenkens | [Read More](https://medium.com/p/b4569f005d12) |
+| Thu, 04 Sep 2025 09:17:30 GMT | Real-Time DNS Leakage Detection with Machine Learning and Packet Inspection | Esra Kayhan | [Read More](https://medium.com/p/da37cca7c31b) |
+| Thu, 04 Sep 2025 09:14:23 GMT | Your NetScaler Is Already Under Fire | Aj | [Read More](https://medium.com/p/e7fee610488a) |
 | Thu, 04 Sep 2025 09:11:44 GMT | Native App Development Requirements in 2025: What Startups Should Know | Weavers Web Solutions | [Read More](https://medium.com/p/333f4ee4332e) |
+| Thu, 04 Sep 2025 09:11:18 GMT | Burnout Alert: “SOC Analyst Job Destroying My Life.” | Truspex | [Read More](https://medium.com/p/b7e0b71d6b13) |
 | Thu, 04 Sep 2025 09:10:16 GMT | Pentesting with AI Agents: Experimenting with CAI | Andrey | [Read More](https://medium.com/p/30cd05cafae7) |
 | Thu, 04 Sep 2025 09:08:52 GMT | 10 Android Security Tips: Must read for android developers | Prakash Sharma | [Read More](https://medium.com/p/9553f3645cb5) |
 | Thu, 04 Sep 2025 09:00:46 GMT | Phishing in Cyber Law | Ankitinnjoshi | [Read More](https://medium.com/p/4a1ce29da2e5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 03:31:36 GMT | Top 7 Benefits of Using an Anti-Corruption Layer in Node.js | Arunangshu Das | [Read More](https://medium.com/p/b87e9fce64fc) |
 | Thu, 04 Sep 2025 03:31:36 GMT | How a Raspberry Pi Nearly Pulled Off a Bank Heist | Deven Chhajed | [Read More](https://medium.com/p/6df1aabc24a3) |
 | Thu, 04 Sep 2025 03:31:16 GMT | My First RCE: Critical Bug on a Redacted Subdomain | MRKNIGHT-NIDU | [Read More](https://medium.com/p/6d4017324d62) |
-| Thu, 04 Sep 2025 03:22:15 GMT | Sonicwall 3YR NSM ON-PREM MANAGEMENT 25 NODE ADD-ON USG 01-USG-2105 | sunol tech | [Read More](https://medium.com/p/969869d8d824) |
-| Thu, 04 Sep 2025 03:19:44 GMT | IT Professionals in Australia: Jobs, Salaries, and Migration Pathways | CDR for Australia | [Read More](https://medium.com/p/e06e4ce6c2c1) |
-| Thu, 04 Sep 2025 03:13:43 GMT | OWASP LLM Top10 | Sai Udiga | [Read More](https://medium.com/p/a704ddaf0061) |
-| Thu, 04 Sep 2025 03:11:22 GMT | Yonyou U8 Cloud RCE: File Upload Bypass Confirmed | AerieWhole123 | [Read More](https://medium.com/p/f5b6d26c426f) |
-| Thu, 04 Sep 2025 03:09:24 GMT | HackTheBox — Introduction to Splunk and SPL | Javier | [Read More](https://medium.com/p/30de845e77fb) |
-| Thu, 04 Sep 2025 02:44:28 GMT | Dutch Intelligence Confirms Salt Typhoon Cyberattacks | TheReviewHive | [Read More](https://medium.com/p/4dda9707ebad) |
-| Thu, 04 Sep 2025 02:34:58 GMT | Write Up Lab: SQL injection UNION attack, finding a column containing text | Velskynotfound | [Read More](https://medium.com/p/8f1870aefe3a) |
-| Thu, 04 Sep 2025 02:34:13 GMT | Personal Reflection on the Launch of CAF v4.0. | Ogechukwu Ndukuba | [Read More](https://medium.com/p/76783989d242) |
