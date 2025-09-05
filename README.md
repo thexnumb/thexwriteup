@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 07:32:26 GMT | Top 10 Reasons Your Business Needs VAPT Testing in 2025 | Qualysec | [Read More](https://medium.com/p/2c391ac0f0b3) |
+| Fri, 05 Sep 2025 07:30:39 GMT | PhishNet : Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/6bbe994a390a) |
+| Fri, 05 Sep 2025 07:27:43 GMT | How to Escape the ChatGPT Echo Chamber ? | eSecForte Technologies | [Read More](https://medium.com/p/2c83488baf7a) |
+| Fri, 05 Sep 2025 07:25:23 GMT | Shifting Left in Infrastructure Security for Cloud-Native Teams | Spacelift | [Read More](https://medium.com/p/018b02f10ab3) |
+| Fri, 05 Sep 2025 07:25:09 GMT | How Hackers Can Expose Your Online Banking Account - HackTheBox NeoVault Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/7f624e064087) |
+| Fri, 05 Sep 2025 07:23:32 GMT | Consulting, Culture, and Community in Cybersecurity: A Conversation with Jamiu Akande | cybergriotz | [Read More](https://medium.com/p/21ec08866f62) |
+| Fri, 05 Sep 2025 07:23:20 GMT | Step-by-Step Guide: Securing and Testing Your Website with SafeLine WAF | Quella | [Read More](https://medium.com/p/92ff210d37a9) |
+| Fri, 05 Sep 2025 07:21:49 GMT | Qilin Ransomware: How a Mythical Beast Became the World’s Most Dangerous Cyber Threat | Jagan Raj Raviraja | [Read More](https://medium.com/p/e174ccd4970d) |
+| Fri, 05 Sep 2025 07:21:39 GMT | Vulnerability Hunting in IoT Devices: Router and Camera Examples | Esra Kayhan | [Read More](https://medium.com/p/da03544d3649) |
+| Fri, 05 Sep 2025 07:21:35 GMT | End-to-End Encryption vs. Traditional Security Models in Password Management | Password Manager | [Read More](https://medium.com/p/d7bfdcab937f) |
+| Fri, 05 Sep 2025 07:19:48 GMT | Start Testing for This Bug and watch Your Bug Bounty Resu | Jeosantos | [Read More](https://medium.com/p/091602b301b5) |
 | Fri, 05 Sep 2025 07:19:04 GMT | Ağ İzleme Protokollerini Anlamak: SNMP’den PRTG’ye Pratik Rehber | kaanvardar | [Read More](https://medium.com/p/7a333a8dd775) |
+| Fri, 05 Sep 2025 07:16:07 GMT | Micro-CMS v2 | Dasmanish | [Read More](https://medium.com/p/2458f5e5a470) |
 | Fri, 05 Sep 2025 07:13:08 GMT | Cyber Security Classes with Certification — Enroll Now | Pravin Choudhary | [Read More](https://medium.com/p/63676183c3cc) |
 | Fri, 05 Sep 2025 07:12:44 GMT | ThunderCipher-[ThunderCart] | Bhuwan Patidar | [Read More](https://medium.com/p/65a21b25d6bb) |
 | Fri, 05 Sep 2025 06:55:41 GMT | Overcoming Secondary Traumatic Stress in Digital Forensics: Building Resilience for the Future | Tedislava Vasileva | [Read More](https://medium.com/p/07e95c37af9f) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 01:40:02 GMT | The Hidden Security Costs of AI for SMEs — and How to Stay Ahead | Roger Millar | [Read More](https://medium.com/p/fab02a4dbc94) |
 | Fri, 05 Sep 2025 01:17:36 GMT | Bandit Level 0 | Nibal marazqah | [Read More](https://medium.com/p/109146d9bffe) |
 | Fri, 05 Sep 2025 01:12:58 GMT | AI Malware Hiding in Cute Panda Pics?! (Polyglot File EXPLAINED) | Shahzaib | [Read More](https://medium.com/p/5e9e1e16df71) |
-| Fri, 05 Sep 2025 01:12:54 GMT | Stop the Cloud Chaos | Aj | [Read More](https://medium.com/p/9a697d196d3f) |
-| Fri, 05 Sep 2025 01:02:34 GMT | The Quantum Storm Is Coming and Why Post Quantum Security Matters Now | Johnson William | [Read More](https://medium.com/p/2a7dc94b571a) |
-| Fri, 05 Sep 2025 00:52:52 GMT | A Practical Guide to Endpoint Detection and Response (EDR) | Samina Perveen | [Read More](https://medium.com/p/4c55da25f9af) |
-| Fri, 05 Sep 2025 00:38:28 GMT | CORS exposes our API to attackers — It doesn’t protect it! | bektiaw | [Read More](https://medium.com/p/37356db2a598) |
-| Fri, 05 Sep 2025 00:34:47 GMT | 5 Most In-Demand Niche Cybersecurity Roles for 2025 | Mudassir Syed | [Read More](https://medium.com/p/d385079a062c) |
-| Fri, 05 Sep 2025 00:29:36 GMT | Dasar Routing dan Switching | Assep Wahid | [Read More](https://medium.com/p/ecbe8a67240a) |
-| Fri, 05 Sep 2025 00:01:36 GMT | Guía Definitiva de SQLMap: Detección y Explotación de SQL Injection | JPablo13 | [Read More](https://medium.com/p/f3b8cb20d950) |
-| Thu, 04 Sep 2025 23:58:15 GMT | Escape Characters, Not Responsibilities: An SQL Injection Primer | Sagar Pandita | [Read More](https://medium.com/p/ca581e9dde03) |
-| Thu, 04 Sep 2025 23:33:48 GMT | Micropayment Channels in the Lightning Network | Enskefuddle | [Read More](https://medium.com/p/f41882584fe1) |
-| Thu, 04 Sep 2025 23:29:53 GMT | Understanding Human Error in Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/33311b92d083) |
-| Thu, 04 Sep 2025 23:27:10 GMT | WHY DROSERA MATTERS | Glory Olabode | [Read More](https://medium.com/p/3df43c9b4124) |
-| Thu, 04 Sep 2025 23:17:43 GMT | Into the Breach: “Grokking” — How X’s Trusted AI Is Being Weaponized | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/6d148462e7f6) |
