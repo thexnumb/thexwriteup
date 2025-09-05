@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 23:29:01 GMT | TryHackMe Room : Blue walkthrough | Enitan Ogungbade | [Read More](https://medium.com/p/f2fb3d7b3e80) |
+| Fri, 05 Sep 2025 23:19:02 GMT | Hackers Just Turned Grok Into Their Malware Salesman | Cyber-AppSec | [Read More](https://medium.com/p/70b47fb8890c) |
+| Fri, 05 Sep 2025 23:17:54 GMT | On dismissiveness. | Apoorva Sahay | [Read More](https://medium.com/p/1e27e44e62d0) |
 | Fri, 05 Sep 2025 22:59:43 GMT | Incident Response and Cybersecurity Culture – Building Resilience Through International Frameworks | David SEHYEON Baek | [Read More](https://medium.com/p/a4ba07733249) |
 | Fri, 05 Sep 2025 22:49:26 GMT | How I Found Broken Access Control -Then I Stopped Hunting | Umanhonlen Gabriel | [Read More](https://medium.com/p/a48187e8702a) |
 | Fri, 05 Sep 2025 22:49:14 GMT | Protect the Lifeblood, Your Data | David SEHYEON Baek | [Read More](https://medium.com/p/81d0d3421ced) |
@@ -110,6 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 16:36:48 GMT | Cybersecurity News Review — Week 36 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/36919b37bcea) |
 | Fri, 05 Sep 2025 16:30:03 GMT | Self-Healing Honeypot on AWS | hsinaaa | [Read More](https://medium.com/p/7f84707bef01) |
 | Fri, 05 Sep 2025 16:28:03 GMT | ️ Mastering Content Security Policy (CSP) Headers in Spring Boot Web Apps | Karuna | [Read More](https://medium.com/p/9bd0fac6c3bb) |
-| Fri, 05 Sep 2025 16:24:34 GMT | DNS Cache Poisoning | Balki Maharaj | [Read More](https://medium.com/p/69c27b8762b5) |
-| Fri, 05 Sep 2025 16:21:53 GMT | Digital Code-Talkers: Why Coding Has Become the New Language of Power | Just Human | [Read More](https://medium.com/p/e12cec5bbe92) |
-| Fri, 05 Sep 2025 16:20:39 GMT | TryHackMe - IP and Domain Threat Intel - WriteUp | Axoloth | [Read More](https://medium.com/p/bd11c225e957) |
