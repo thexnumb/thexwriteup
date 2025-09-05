@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 14:13:28 GMT | The War We Didn’t Choose – How Cyber Threats Became Everyone’s Problem | David SEHYEON Baek | [Read More](https://medium.com/p/77a9568e99b4) |
+| Fri, 05 Sep 2025 14:13:27 GMT | My AZ-500 Certification Journey: How I Mastered Microsoft Azure Security in 2025 | Aavart Shukla | [Read More](https://medium.com/p/0c3a021858cc) |
+| Fri, 05 Sep 2025 14:05:50 GMT | The Allure of Realism: Why Singles Are Embracing Lifelike Sex Dolls | First Dolls | [Read More](https://medium.com/p/48fab63cd12c) |
+| Fri, 05 Sep 2025 14:05:40 GMT | Path Traversal: Why It Still Breaks Modern Applications | Siddiquimohammad | [Read More](https://medium.com/p/4c33b99990b2) |
+| Fri, 05 Sep 2025 14:03:44 GMT | Building a more secure open source world by AI agent Zast.ai! | ZAST AI | [Read More](https://medium.com/p/1ee3a2063654) |
+| Fri, 05 Sep 2025 14:01:50 GMT | Cyber Briefing: 2025.09.05 | CyberMaterial | [Read More](https://medium.com/p/b6fdf5fd7b26) |
+| Fri, 05 Sep 2025 14:01:49 GMT | Cyberattacks Don’t Care About Your Size | Heatena | [Read More](https://medium.com/p/a386ec0dc734) |
+| Fri, 05 Sep 2025 14:01:27 GMT | LLMs Unlocked: How Assigning a Role “Jailbreaks” AI Safeguards | Mahesh Khanna | [Read More](https://medium.com/p/a1660def03e6) |
+| Fri, 05 Sep 2025 13:57:16 GMT | Building prvly.de: How Zero-Knowledge Encryption Powers Secure Short Links | dho | [Read More](https://medium.com/p/20be676a4787) |
+| Fri, 05 Sep 2025 13:57:10 GMT | NFS (Network File System) Service Exploitation : When File Shares Become Fort Knox Keys | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/47d153150553) |
+| Fri, 05 Sep 2025 13:56:16 GMT | Surviving the Nightmare: My Biohazard CTF Adventure | Adwaith S | [Read More](https://medium.com/p/e9e5d4ff13e2) |
+| Fri, 05 Sep 2025 13:55:33 GMT | Real-Time Security That Actually Works: 5 Platforms Ending the Era of Slow Scans | Iliya Garakh | [Read More](https://medium.com/p/e17860fa5177) |
+| Fri, 05 Sep 2025 13:55:06 GMT | OWSAP TOP 10 Vulnerabilities | Thushan Madusanka | [Read More](https://medium.com/p/232c4ef6c4c5) |
+| Fri, 05 Sep 2025 13:53:17 GMT | How Micro-Influencers Are Changing the Game for Brands | Princely B | [Read More](https://medium.com/p/8a45b2219f22) |
+| Fri, 05 Sep 2025 13:47:57 GMT | How Indian Companies Can Stop Phishing & BEC Scams: 5 Proven Email Security Tactics | Aavart Shukla | [Read More](https://medium.com/p/5de3e8101e1b) |
 | Fri, 05 Sep 2025 13:37:15 GMT | Email Security in India: The Silent Cyber Threat Every Business Must Face | Aavart Shukla | [Read More](https://medium.com/p/ff83d40737df) |
 | Fri, 05 Sep 2025 13:31:40 GMT | School Security and Safety Online with SentryPC: Protecting Students in the Digital Age | Paul Meyer | [Read More](https://medium.com/p/44e24a8169b3) |
 | Fri, 05 Sep 2025 13:27:00 GMT | AI SecOps for LLMs: Key Concepts and Practices | Axle Bucamp | [Read More](https://medium.com/p/4c14c38f2702) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 09:51:22 GMT | Hyperscale & Reliable Managed Data Center Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/8e67a24355e8) |
 | Fri, 05 Sep 2025 09:47:46 GMT | Internal Bleeding @ Cloudflare | IsaacFabianK | [Read More](https://medium.com/p/3165ec7591c9) |
 | Fri, 05 Sep 2025 09:47:30 GMT | The programmable responsiveness of Drosera. | Cybertank | [Read More](https://medium.com/p/7c044731d656) |
-| Fri, 05 Sep 2025 09:45:23 GMT | Why Your Cyber Insurance Will Abandon You After the Next Breach | Rizqi Mulki | [Read More](https://medium.com/p/ca3e31b2758e) |
-| Fri, 05 Sep 2025 09:40:35 GMT | The Best Armor Bends | McCauley | [Read More](https://medium.com/p/fe1cac2d381a) |
-| Fri, 05 Sep 2025 09:37:30 GMT | What is Account Abstraction? The Bridge to Web3 Mass Adoption | Proxyma | [Read More](https://medium.com/p/6464e39747e5) |
-| Fri, 05 Sep 2025 09:36:35 GMT | The AI Loophole: Bypassing X’s Malvertising Protections with Grok | Ashley Dai | [Read More](https://medium.com/p/77effac87ca0) |
-| Fri, 05 Sep 2025 09:36:02 GMT | Building Secure, Fast Web Apps That Scale (Without Burning Out) | Rizqi Mulki | [Read More](https://medium.com/p/5802afbf289e) |
-| Fri, 05 Sep 2025 09:18:39 GMT | 16 Best Law Firms for Data Protection, Privacy, and Security | Hansen Tong | [Read More](https://medium.com/p/d71afa98560b) |
-| Fri, 05 Sep 2025 09:18:20 GMT | ️‍♂️ Hide and Seek — TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/88b7b5089966) |
-| Fri, 05 Sep 2025 09:12:46 GMT | 9 Silent Mistakes Killing Your Flutter App | Chirag Prajapati | [Read More](https://medium.com/p/3b1da1937b30) |
-| Fri, 05 Sep 2025 09:07:32 GMT | DockerLabs Writeup — Collections (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/389b512f44a1) |
-| Fri, 05 Sep 2025 09:01:33 GMT | OAuth 2.0 — Simply Explained | Amruta Parab | [Read More](https://medium.com/p/bf0129e111b1) |
-| Fri, 05 Sep 2025 08:53:37 GMT | You Got Hacked | Rohi_theMaker | [Read More](https://medium.com/p/38110ca05cc8) |
-| Fri, 05 Sep 2025 08:52:24 GMT | Grok’s Gone Rogue: When AI Turns to the Dark Side | Truspex | [Read More](https://medium.com/p/17c4d539865d) |
-| Fri, 05 Sep 2025 08:49:21 GMT | Analyzing a .NET Shellcode Runner | Sethuraman | [Read More](https://medium.com/p/4c851c1dad69) |
-| Fri, 05 Sep 2025 08:48:16 GMT | Bridging the Gap Between Vulnerability Scanning and Remediation | Abdullateef Hameed | [Read More](https://medium.com/p/15e511790c6b) |
-| Fri, 05 Sep 2025 08:40:35 GMT | OIDC Under the Hood: How Pipelines Really Authenticate to AWS (GitLab Example) | Vijay Mourya | [Read More](https://medium.com/p/891bac8a80b3) |
