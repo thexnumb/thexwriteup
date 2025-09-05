@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 06:45:41 GMT | Cybersecurity Awareness Marketing: Why IT Companies Need It Now | Devarshi Acharya | [Read More](https://medium.com/p/40f022a06e3a) |
+| Fri, 05 Sep 2025 06:34:36 GMT | VPN vs Proxy for Bypassing Geo-Restrictions: What Actually Works? | Brian Davis | [Read More](https://medium.com/p/7b8a86299498) |
+| Fri, 05 Sep 2025 06:34:22 GMT | Building PyLog-Sentinel: My Mini-SOC Project in Python | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/f225495b9b56) |
+| Fri, 05 Sep 2025 06:31:55 GMT | Let Capture The Flag On Tryhackme | Mainekhacker | [Read More](https://medium.com/p/87507c057c4b) |
 | Fri, 05 Sep 2025 06:30:03 GMT | Top 10 Online Cyber Security Courses in (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/6f779ae9c94c) |
+| Fri, 05 Sep 2025 06:26:45 GMT | The Corix Partners Friday Reading List — September 5, 2025 | JC Gaillard | [Read More](https://medium.com/p/828c0a8b0d33) |
+| Fri, 05 Sep 2025 06:23:55 GMT | Secure Your Node.js APIs on AWS API Gateway with Session Timeout Control | Manish Nakar | [Read More](https://medium.com/p/c115da3903e9) |
+| Fri, 05 Sep 2025 06:22:33 GMT | MT Manager Mod: Công Cụ Quản Lý File Mạnh Mẽ Dành Cho Android | Apkcombo.cx | [Read More](https://medium.com/p/7f6980b4cb8e) |
+| Fri, 05 Sep 2025 06:17:33 GMT | ️ What Are Compliances in Information Security? A Beginner-Friendly Guide | Abida Adra | [Read More](https://medium.com/p/cf8ec3c92b34) |
 | Fri, 05 Sep 2025 06:12:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9b5293b28ae5) |
+| Fri, 05 Sep 2025 06:08:57 GMT | Building Trust in Blockchain: A Comprehensive Security Framework | Nasir Naqvi | [Read More](https://medium.com/p/1679a48cff1a) |
 | Fri, 05 Sep 2025 06:08:12 GMT | The Hidden Dangers of Docker Security Nobody Warns You About | Hex Shift | [Read More](https://medium.com/p/75191a113c3f) |
 | Fri, 05 Sep 2025 06:07:13 GMT | Transforming Finance & Banking with Reliable IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/157a6dab9625) |
+| Fri, 05 Sep 2025 06:03:06 GMT | Enerji Santralleri Alarm Sistemleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/960a45278c60) |
 | Fri, 05 Sep 2025 05:50:19 GMT | Top Benefits of Using Security Solutions in Singapore for Small Businesses | Jane Tang | [Read More](https://medium.com/p/cd1169d2a694) |
 | Fri, 05 Sep 2025 05:46:01 GMT | ☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere | Iski | [Read More](https://medium.com/p/39f0099e1012) |
 | Fri, 05 Sep 2025 05:43:58 GMT | What is Application Security Testing & Why is it Important? | Qualysectechnologies | [Read More](https://medium.com/p/24fdb0b8a5f8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 22:51:10 GMT | Package Tracking Tools for OSINT Investigations | loyalonlytoday | [Read More](https://medium.com/p/7bbf25d1a62a) |
 | Thu, 04 Sep 2025 22:49:18 GMT | The AI Ransomware That Writes Itself | Aj | [Read More](https://medium.com/p/37632920ec04) |
 | Thu, 04 Sep 2025 22:49:07 GMT | Scraping Discord for Threat Intelligence Signals | Ghani Mengal | [Read More](https://medium.com/p/85b9396d14f8) |
-| Thu, 04 Sep 2025 22:48:57 GMT | A Smarter Way to Find Bugs in Subdomains | Monika sharma | [Read More](https://medium.com/p/8df5bc504aa2) |
-| Thu, 04 Sep 2025 22:48:38 GMT | Protect Your Privacy: Essential OSINT Tools for Safety | loyalonlytoday | [Read More](https://medium.com/p/bae4c1c108ec) |
-| Thu, 04 Sep 2025 22:43:34 GMT | Scaling Cyber Talent with Ethical Hacking Programs | Shahzaib | [Read More](https://medium.com/p/a22d739cd189) |
-| Thu, 04 Sep 2025 22:36:35 GMT | ETW Event Spoofing | S12 - 0x12Dark Development | [Read More](https://medium.com/p/388aa11c6d51) |
-| Thu, 04 Sep 2025 22:26:12 GMT | WhatsApp-da End-to-End Encryption (E2EE) necə işləyir? | Rahib Cəfərov | [Read More](https://medium.com/p/21d6c441baee) |
-| Thu, 04 Sep 2025 22:24:49 GMT | AI Without the Jargon: How Small Businesses Can Actually Use Artificial Intelligence Today | Hephzibah - SEO Writer & Ghostwriter | [Read More](https://medium.com/p/7b519eeeb6e7) |
-| Thu, 04 Sep 2025 22:21:20 GMT | High Security Locksmith Services: Protect What Matters Most | Mile High Security Locksmith | [Read More](https://medium.com/p/836a1318a17a) |
-| Thu, 04 Sep 2025 22:19:13 GMT | HTB - GoodGames WriteUp | Sean Knight | [Read More](https://medium.com/p/071755ca99f4) |
-| Thu, 04 Sep 2025 22:10:10 GMT | Why Your Old Printer Might Be the Most Secure Device You Own | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f2ba1adeaf6c) |
-| Thu, 04 Sep 2025 22:08:11 GMT | What a 20-Year-Old Laptop Can Teach You About Security | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2cf3675c6061) |
