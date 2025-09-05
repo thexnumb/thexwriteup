@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 19:29:19 GMT | The Myth of the “Unhackable” System: Lessons from Pen Tests | Aj | [Read More](https://medium.com/p/142c2d43a0ff) |
+| Fri, 05 Sep 2025 19:23:16 GMT | “spelling-quiz” Challenge | oussama | [Read More](https://medium.com/p/ed4deefe9e81) |
+| Fri, 05 Sep 2025 19:23:12 GMT | Bridging the Gap: Learning Cybersecurity From Books and Living Through Attacks | Shahzaib | [Read More](https://medium.com/p/fe4793b57066) |
+| Fri, 05 Sep 2025 19:22:12 GMT | Cybersecurity Lessons Hidden in Books And Revealed in Real Breaches | Shahzaib | [Read More](https://medium.com/p/15da4968fdef) |
+| Fri, 05 Sep 2025 19:14:11 GMT | IPhone ALERT: WhatsApp Zero-Click Hit Selected Targets | Shahzaib | [Read More](https://medium.com/p/1ebe02fb1845) |
+| Fri, 05 Sep 2025 19:10:53 GMT | The Kasparov Fallacy: When Human Champions Underestimate Their Successors. | Berend Watchus | [Read More](https://medium.com/p/1ebdcdc11b5d) |
+| Fri, 05 Sep 2025 19:10:49 GMT | 3 Ways to Authenticate with GitHub (Explained with Examples) | Mahabub Karim | [Read More](https://medium.com/p/737c0dac8c25) |
 | Fri, 05 Sep 2025 19:10:08 GMT | Understanding the Client-Server Model: A Beginner-Friendly Summary | Majdi Mouhssine | [Read More](https://medium.com/p/25b9260de7c9) |
+| Fri, 05 Sep 2025 19:07:26 GMT | Watcher - TryHackMe | Abdelfattah Elsabagh | [Read More](https://medium.com/p/7fcb0f313210) |
 | Fri, 05 Sep 2025 18:53:23 GMT | Heaven’s Gate vs Hell’s Gate Malwared Techniques | Shahriar Galib | [Read More](https://medium.com/p/faa7a21a69d6) |
 | Fri, 05 Sep 2025 18:48:52 GMT | How I Turned My ISC2 CC Exam Failure into a Certification: In 70 Minutes Well Spent ⏳✅ | Hemanth Mouli.ch | [Read More](https://medium.com/p/a814032096bb) |
 | Fri, 05 Sep 2025 18:39:12 GMT | The Linux Security Journey — Hardened User Copy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f637f2eca69e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 14:23:00 GMT | I Automated My Recon and Found More Critical Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/2346c951fdf6) |
 | Fri, 05 Sep 2025 14:22:03 GMT | Strengthening Cybersecurity With Proactive Risk Audits | Ai Writter Tools | [Read More](https://medium.com/p/7345ee945f3f) |
 | Fri, 05 Sep 2025 14:21:12 GMT | From Sendmail Debug to TLS: How Morris Worm Shaped Modern Protocol Security | Paul Duplys | [Read More](https://medium.com/p/e7e7d1aae71e) |
-| Fri, 05 Sep 2025 14:19:34 GMT | Inside the Cybercrime Ecosystem – Unmasking the Invisible War | David SEHYEON Baek | [Read More](https://medium.com/p/2c00fc5d96f7) |
-| Fri, 05 Sep 2025 14:13:31 GMT | BackDoor-51 | Deep Specter Research | [Read More](https://medium.com/p/ea11cd46ae68) |
-| Fri, 05 Sep 2025 14:13:28 GMT | The War We Didn’t Choose – How Cyber Threats Became Everyone’s Problem | David SEHYEON Baek | [Read More](https://medium.com/p/77a9568e99b4) |
-| Fri, 05 Sep 2025 14:13:27 GMT | My AZ-500 Certification Journey: How I Mastered Microsoft Azure Security in 2025 | Aavart Shukla | [Read More](https://medium.com/p/0c3a021858cc) |
-| Fri, 05 Sep 2025 14:05:50 GMT | The Allure of Realism: Why Singles Are Embracing Lifelike Sex Dolls | First Dolls | [Read More](https://medium.com/p/48fab63cd12c) |
-| Fri, 05 Sep 2025 14:05:40 GMT | Path Traversal: Why It Still Breaks Modern Applications | Siddiquimohammad | [Read More](https://medium.com/p/4c33b99990b2) |
-| Fri, 05 Sep 2025 14:03:44 GMT | Building a more secure open source world by AI agent Zast.ai! | ZAST AI | [Read More](https://medium.com/p/1ee3a2063654) |
-| Fri, 05 Sep 2025 14:01:50 GMT | Cyber Briefing: 2025.09.05 | CyberMaterial | [Read More](https://medium.com/p/b6fdf5fd7b26) |
