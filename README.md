@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 13:21:30 GMT | Dank Dispatch #0044 — Ethereum Malware, DeFi Exploits, and the Battle Between Narrative and Trust | Daniel (dank) Karpienia | [Read More](https://medium.com/p/052559145589) |
+| Fri, 05 Sep 2025 13:17:05 GMT | Compliance with regulations in the Mobile App Security domain for FI and FinTechs | Talsec | [Read More](https://medium.com/p/e4017ad28632) |
+| Fri, 05 Sep 2025 13:14:35 GMT | What If Uber Crashes? The Critical Role of Mobile Testing in Agile Teams | Poorvi Arora | [Read More](https://medium.com/p/eaa4c23ed079) |
+| Fri, 05 Sep 2025 13:12:08 GMT | Bandit Level 1 → Level 2 | Nibal marazqah | [Read More](https://medium.com/p/51f11f1fd25c) |
+| Fri, 05 Sep 2025 13:10:12 GMT | From Curiosity to Red Teaming: My Next Step with Young Cyber Knights Foundation | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/58e3b1b346a0) |
+| Fri, 05 Sep 2025 13:06:37 GMT | Top 5 Browser Extensions for Security and Productivity in 2025 | Techlio | [Read More](https://medium.com/p/b39a015bc6ce) |
+| Fri, 05 Sep 2025 13:01:20 GMT | Just completed “Cyber Incident Response and Investigation” on edX! | Manish Rawat | [Read More](https://medium.com/p/995834a6fc4c) |
+| Fri, 05 Sep 2025 12:59:09 GMT | Bandit Level 0 → Level 1 | Nibal marazqah | [Read More](https://medium.com/p/06b7c84c72ee) |
+| Fri, 05 Sep 2025 12:50:15 GMT | When Insecurity Meets Love | Serfanio | [Read More](https://medium.com/p/dc403162c531) |
+| Fri, 05 Sep 2025 12:48:02 GMT | GitOps Foundation and Security Architecture: Infrastructure as Code That Actually Works | Gert-Jan Admiraal | [Read More](https://medium.com/p/52ce7112fc9b) |
+| Fri, 05 Sep 2025 12:47:00 GMT | Hardware Strategy and Network Design: Building the Physical Foundation | Gert-Jan Admiraal | [Read More](https://medium.com/p/e77ec9ab0cdb) |
+| Fri, 05 Sep 2025 12:46:16 GMT | Enterprise Architecture and Security at Scale: The Pragmatic Approach to Homelab Design | Gert-Jan Admiraal | [Read More](https://medium.com/p/16a10c1c8e47) |
+| Fri, 05 Sep 2025 12:45:36 GMT | Building an Enterprise-Grade Homelab: A Modern Infrastructure Journey | Gert-Jan Admiraal | [Read More](https://medium.com/p/f4b3713c6090) |
+| Fri, 05 Sep 2025 12:45:12 GMT | Exploring Kubernetes Privilege Escalation with DVWA on Minikube | Gaurab Silwal | [Read More](https://medium.com/p/97040554d7b2) |
+| Fri, 05 Sep 2025 12:41:49 GMT | Plexytrade Review: Recover Funds Now | Admin Running | [Read More](https://medium.com/p/e245da40a6f5) |
+| Fri, 05 Sep 2025 12:38:48 GMT | AI: A Double-Edged Sword in Cybersecurity | Osama albargi | [Read More](https://medium.com/p/092c42ca6c91) |
 | Fri, 05 Sep 2025 12:35:15 GMT | New Exploit — Phishing made EASY | Ethan Stewart | [Read More](https://medium.com/p/e2478190ab51) |
 | Fri, 05 Sep 2025 12:33:34 GMT | So what is a “hacker” anyway? | David Barrineau | [Read More](https://medium.com/p/affa15572271) |
 | Fri, 05 Sep 2025 12:26:34 GMT | How I Secured a Massive Codebase Automatically From Hackers Every Single Day | Deepak Arora | [Read More](https://medium.com/p/35a2cec37ba7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 08:33:59 GMT | MystRodX Uses DNS and ICMP for Stealthy Data Theft | SCtoCS | [Read More](https://medium.com/p/b87bac3d8cb9) |
 | Fri, 05 Sep 2025 08:32:23 GMT | When GuardDuty Flags Windows Update Traffic: A Case Study in a DNS False Positive | Daniel | [Read More](https://medium.com/p/30836fd43ee9) |
 | Fri, 05 Sep 2025 08:30:17 GMT | The IT Skills Gap: 3 Areas Where Demand Explodes in 2025 | R A N A   A H M A D | [Read More](https://medium.com/p/08c6a68fa57a) |
-| Fri, 05 Sep 2025 08:28:15 GMT | Phishing Campaign Hid for 3 Years Using Google Cloud and Cloudflare | SCtoCS | [Read More](https://medium.com/p/0841a4bcead4) |
-| Fri, 05 Sep 2025 08:26:19 GMT | Balancing Ambition and Vulnerability: The Modern Woman’s Journey | Oluyemisi Otutuloro | [Read More](https://medium.com/p/bbfcf31ac952) |
-| Fri, 05 Sep 2025 08:25:22 GMT | Beneath the Surface: Reflections on the Dark Web & the Layers of Privacy | Micheline Wijaya L | [Read More](https://medium.com/p/49f1c4e90544) |
-| Fri, 05 Sep 2025 08:23:14 GMT | ☀️ CISA Issues Alert on Critical SunPower Vulnerability | SCtoCS | [Read More](https://medium.com/p/765f0648d851) |
-| Fri, 05 Sep 2025 08:17:30 GMT | Ask Adam: Trust Fall or Free Fall…The Risks of Unreviewed Code | Namir Sagheenanajar | [Read More](https://medium.com/p/1601f21bac64) |
-| Fri, 05 Sep 2025 08:17:04 GMT | Sharenting Risks and How to Reduce Them | JVANVS | [Read More](https://medium.com/p/4760bddbc8e3) |
-| Fri, 05 Sep 2025 08:15:08 GMT | ️ Weekly Cybersecurity Threat Intelligence Report | chris | [Read More](https://medium.com/p/504d6ae7780e) |
-| Fri, 05 Sep 2025 08:12:55 GMT | Investigating A Cheating Spouse - Hire A Hacker | BlackHat | [Read More](https://medium.com/p/ca1b935a4661) |
-| Fri, 05 Sep 2025 08:11:41 GMT | The Day the Printer Became a Hacker’s Entry Point | Evgeny Ermakov | [Read More](https://medium.com/p/43f604ba2057) |
-| Fri, 05 Sep 2025 08:08:36 GMT | Building SafeOnlineShop: My Experience | Sahani Mohottige | [Read More](https://medium.com/p/fe3ef9571312) |
-| Fri, 05 Sep 2025 08:05:09 GMT | iOS Penetration Testing — Part 1 (Beginner’s Guide) | p4n7h3rx | [Read More](https://medium.com/p/8d6e6b189f5d) |
-| Fri, 05 Sep 2025 08:04:52 GMT | Trust — The Tricky Game | Kabii | [Read More](https://medium.com/p/0b55eac700c1) |
-| Fri, 05 Sep 2025 08:01:37 GMT | Sudo: One Command to Rule Them All (and Keep You Out of Trouble) | MayhemCode | [Read More](https://medium.com/p/f062fcee8941) |
-| Fri, 05 Sep 2025 08:01:37 GMT | Monitor Your Domain For Leaked Credentials 24/7 | Alexandre Vandamme | [Read More](https://medium.com/p/102e41a2baf2) |
-| Fri, 05 Sep 2025 07:58:35 GMT | Day 8 of MCP Security: Secrets in Context — Managing Secrets and Tokens in MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/41b4ad3d61fe) |
-| Fri, 05 Sep 2025 07:42:13 GMT | Jobs In Delhi NCR, India | Gaurav Kumar | [Read More](https://medium.com/p/6939a3eaa27a) |
