@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 11:12:23 GMT | 7 GitHub practices every beginner developer should know | ShwetaPrasad150 | [Read More](https://medium.com/p/35351146525c) |
+| Fri, 05 Sep 2025 11:09:33 GMT | Reliable TypeScript Development Partner for Scalable Web Solutions | Bhavesh Rajpurohit | [Read More](https://medium.com/p/7ce018950a5a) |
+| Fri, 05 Sep 2025 11:02:51 GMT | Trump Slashes NATO Aid, Baltic States Left Exposed | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/41c45f801fed) |
+| Fri, 05 Sep 2025 11:01:38 GMT | Role of Computer System | Thisara Menaka Thalagala | [Read More](https://medium.com/p/a92912fadc3d) |
+| Fri, 05 Sep 2025 10:59:46 GMT | CVE-2025–48539: Bluetooth Zero-Click Exploit Targets Android Devices via Kernel Race Condition | gm0 | [Read More](https://medium.com/p/80aaf5f7fd21) |
+| Fri, 05 Sep 2025 10:59:40 GMT | AI Pentesting Unleashed: Claude + Metasploit Automation with MetasploitMCP | RootXploit.0x | [Read More](https://medium.com/p/9e671558a37d) |
+| Fri, 05 Sep 2025 10:58:30 GMT | PromptLock: Meet the First AI-Powered Ransomware — And Why UK Businesses Should Be Worried | Alex Hughes | [Read More](https://medium.com/p/76edf32aa575) |
+| Fri, 05 Sep 2025 10:57:46 GMT | JWTs in Microservices: How to Rotate Keys and Invalidate Sessions Cleanly | Pallavi Shankar Sutar | [Read More](https://medium.com/p/db30c1110fd7) |
+| Fri, 05 Sep 2025 10:57:37 GMT | How to exploit? Docker Registry — PORT 5000 | Very Lazy Tech | [Read More](https://medium.com/p/7c8421168234) |
+| Fri, 05 Sep 2025 10:52:00 GMT | It’s Okay to Be Not Okay Sometimes(A reminder for all suffering souls) | Maria Arshad | [Read More](https://medium.com/p/4f44fe5f0245) |
+| Fri, 05 Sep 2025 10:50:46 GMT | Damn Vulnerable Raspberry Pi (DVRPi) | Victor Hanna | [Read More](https://medium.com/p/f6bd9be465de) |
+| Fri, 05 Sep 2025 10:47:26 GMT | Cyber Security Roadmap 2025: From Beginner to Advanced Professional | Maxon Codes | [Read More](https://medium.com/p/23f616084cc2) |
+| Fri, 05 Sep 2025 10:40:16 GMT | Burp Suite for Beginners — Your First Step into Web Hacking | Rashadul Islam | [Read More](https://medium.com/p/9a255feaa6e7) |
+| Fri, 05 Sep 2025 10:39:31 GMT | Your Secrets at Risk: The Hidden Truth Behind PDF Converters Like iLovePDF | Juan M. Vazquez | [Read More](https://medium.com/p/728c2ec8ca42) |
+| Fri, 05 Sep 2025 10:38:03 GMT | Why Ransomware Payments Are a Losing Game in 2025 ..And What to Do Instead | Bitdefenderppc | [Read More](https://medium.com/p/adfe25748ca5) |
 | Fri, 05 Sep 2025 10:34:05 GMT | My Journey in Ethical Hacking: Completing "Introduction to Ethical Hacking" on Great Learning | Azka Sohail | [Read More](https://medium.com/p/007a16f4f00a) |
 | Fri, 05 Sep 2025 10:29:44 GMT | When Luxury Goes Silent: Inside the Devastating Jaguar Land Rover Cyber Siege | Redfox Security | [Read More](https://medium.com/p/4c8d3bc51445) |
 | Fri, 05 Sep 2025 10:21:12 GMT | Understanding the n8n Interface: A Step-by-Step Walkthrough | Rizqi Mulki | [Read More](https://medium.com/p/3684289d4845) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 06:34:36 GMT | VPN vs Proxy for Bypassing Geo-Restrictions: What Actually Works? | Brian Davis | [Read More](https://medium.com/p/7b8a86299498) |
 | Fri, 05 Sep 2025 06:34:22 GMT | Building PyLog-Sentinel: My Mini-SOC Project in Python | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/f225495b9b56) |
 | Fri, 05 Sep 2025 06:31:55 GMT | Let Capture The Flag On Tryhackme | Mainekhacker | [Read More](https://medium.com/p/87507c057c4b) |
-| Fri, 05 Sep 2025 06:30:03 GMT | Top 10 Online Cyber Security Courses in (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/6f779ae9c94c) |
-| Fri, 05 Sep 2025 06:26:45 GMT | The Corix Partners Friday Reading List — September 5, 2025 | JC Gaillard | [Read More](https://medium.com/p/828c0a8b0d33) |
-| Fri, 05 Sep 2025 06:23:55 GMT | Secure Your Node.js APIs on AWS API Gateway with Session Timeout Control | Manish Nakar | [Read More](https://medium.com/p/c115da3903e9) |
-| Fri, 05 Sep 2025 06:22:33 GMT | MT Manager Mod: Công Cụ Quản Lý File Mạnh Mẽ Dành Cho Android | Apkcombo.cx | [Read More](https://medium.com/p/7f6980b4cb8e) |
-| Fri, 05 Sep 2025 06:17:33 GMT | ️ What Are Compliances in Information Security? A Beginner-Friendly Guide | Abida Adra | [Read More](https://medium.com/p/cf8ec3c92b34) |
-| Fri, 05 Sep 2025 06:12:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9b5293b28ae5) |
-| Fri, 05 Sep 2025 06:08:57 GMT | Building Trust in Blockchain: A Comprehensive Security Framework | Nasir Naqvi | [Read More](https://medium.com/p/1679a48cff1a) |
-| Fri, 05 Sep 2025 06:08:12 GMT | The Hidden Dangers of Docker Security Nobody Warns You About | Hex Shift | [Read More](https://medium.com/p/75191a113c3f) |
-| Fri, 05 Sep 2025 06:07:13 GMT | Transforming Finance & Banking with Reliable IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/157a6dab9625) |
-| Fri, 05 Sep 2025 06:03:06 GMT | Enerji Santralleri Alarm Sistemleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/960a45278c60) |
-| Fri, 05 Sep 2025 05:50:19 GMT | Top Benefits of Using Security Solutions in Singapore for Small Businesses | Jane Tang | [Read More](https://medium.com/p/cd1169d2a694) |
-| Fri, 05 Sep 2025 05:46:01 GMT | ☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere | Iski | [Read More](https://medium.com/p/39f0099e1012) |
-| Fri, 05 Sep 2025 05:43:58 GMT | What is Application Security Testing & Why is it Important? | Qualysectechnologies | [Read More](https://medium.com/p/24fdb0b8a5f8) |
-| Fri, 05 Sep 2025 05:42:58 GMT | The Security Gap Most Companies Forget: Protecting Your Sensitive and Regulated Data from a Screen | Jason Sohn | [Read More](https://medium.com/p/8d890960f2fc) |
-| Fri, 05 Sep 2025 05:39:13 GMT | Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs | Monika sharma | [Read More](https://medium.com/p/ae3c3dbf462d) |
