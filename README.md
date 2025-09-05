@@ -12,10 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 16:21:53 GMT | Digital Code-Talkers: Why Coding Has Become the New Language of Power | Just Human | [Read More](https://medium.com/p/e12cec5bbe92) |
+| Fri, 05 Sep 2025 16:20:39 GMT | TryHackMe - IP and Domain Threat Intel - WriteUp | Axoloth | [Read More](https://medium.com/p/bd11c225e957) |
+| Fri, 05 Sep 2025 16:19:47 GMT | The Future Drosera Network brings to DeFi | Middy | [Read More](https://medium.com/p/f902e389d194) |
+| Fri, 05 Sep 2025 16:16:27 GMT | The Hidden Cost of AI Dependence: What We’re Risking by Outsourcing Our Thinking | Nick Sanchez | [Read More](https://medium.com/p/a7fefed1f7c4) |
+| Fri, 05 Sep 2025 16:15:58 GMT | CVE-2025–38352: Linux Kernel Race Condition Actively Exploited Affects Android Devices | gm0 | [Read More](https://medium.com/p/2a0de9988eb0) |
+| Fri, 05 Sep 2025 16:08:55 GMT | Understanding CORS (Cross-Origin Resource Sharing) in React | Apeksha Verma | [Read More](https://medium.com/p/fd0336ade18a) |
+| Fri, 05 Sep 2025 16:07:46 GMT | PG Practice — Snookums (Linux) | Lepton | [Read More](https://medium.com/p/38ab40e6ad78) |
+| Fri, 05 Sep 2025 16:07:37 GMT | PG Practice — Mzeeav (Linux) | Lepton | [Read More](https://medium.com/p/4556f80211dc) |
+| Fri, 05 Sep 2025 16:07:28 GMT | PG Practice — PC (Linux) | Lepton | [Read More](https://medium.com/p/8494b7fbc5a8) |
+| Fri, 05 Sep 2025 16:05:35 GMT | Account Takeover via Insecure Email Change — Critical Vulnerability | alr | [Read More](https://medium.com/p/b67d44d7f600) |
+| Fri, 05 Sep 2025 16:04:37 GMT | Finding a Hidden Message in a Tiny PNG | Zulfianarahmi | [Read More](https://medium.com/p/f410d9cb4528) |
+| Fri, 05 Sep 2025 16:02:56 GMT | The Hidden Risks of Outdated Container Images: A Security Perspective | Thiago Loureiro | [Read More](https://medium.com/p/1663d52f0fd2) |
+| Fri, 05 Sep 2025 16:02:48 GMT | The Ghost of Frame 2774 | Prompted Beauty | [Read More](https://medium.com/p/8e4210ce736f) |
+| Fri, 05 Sep 2025 15:54:44 GMT | Why Fences and Automatic Gates Are Essential for Home Security | Maria ordonez | [Read More](https://medium.com/p/a6d11caa9a1c) |
+| Fri, 05 Sep 2025 15:53:02 GMT | A Pentester’s Roles and Responsibilities in an Assessment | Debjyoti Choudhury | [Read More](https://medium.com/p/6d8b8566b6f9) |
+| Fri, 05 Sep 2025 15:49:24 GMT | 8 High-Earning Job Titles That Can Make You Rich in 2025 | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/bbe6629fd243) |
+| Fri, 05 Sep 2025 15:44:35 GMT | How I Automated My Bug Bounty Recon with n8n (No Coding Required) | Sukhveer Singh | [Read More](https://medium.com/p/39f5a59209c7) |
+| Fri, 05 Sep 2025 15:44:09 GMT | Beyond PCI and HIPAA: How Feroot Powers Colorado Privacy Act (CPA) Compliance | Feroot Security | [Read More](https://medium.com/p/b56363a2b1e7) |
+| Fri, 05 Sep 2025 15:39:21 GMT | The Myth of Anonymity | USDM by Moneta Digital ~ Cardano  Stablecoin | [Read More](https://medium.com/p/490e3030e499) |
+| Fri, 05 Sep 2025 15:38:29 GMT | Ethical AI: How to Navigate Bias and Privacy Challenges in 2025 Projects | Umesh Anjula | [Read More](https://medium.com/p/5b2604d579a3) |
 | Fri, 05 Sep 2025 15:36:40 GMT | Subzy and the Case of the False Positive: Why Manual Validation Matters | Chris Christian | [Read More](https://medium.com/p/d420ab1e6e7f) |
 | Fri, 05 Sep 2025 15:34:06 GMT | The Future of Onchain Defense: My Vision With Drosera | H | [Read More](https://medium.com/p/86cf312df4cf) |
 | Fri, 05 Sep 2025 15:31:39 GMT | ️‍♂️ Zero-Knowledge Proofs: How to Prove Without Revealing Anything | CapitalCoin | [Read More](https://medium.com/p/9d28889e2d4e) |
 | Fri, 05 Sep 2025 15:30:01 GMT | Cracking Gandalf Level 6: Outsmarting Two Watchers | Kaylen Stuart | [Read More](https://medium.com/p/977e411f9cae) |
+| Fri, 05 Sep 2025 15:29:30 GMT | OWASP ASVS — C’est quoi? | Patrick Boucher | [Read More](https://medium.com/p/9ffd3cb06ad9) |
 | Fri, 05 Sep 2025 15:23:42 GMT | How Smart SMBs Use Trade-In Programs to Optimize Technology Investment and Cash Flow | the PhobioSapien | [Read More](https://medium.com/p/fa2ac30bd979) |
 | Fri, 05 Sep 2025 15:23:11 GMT | Penetration Testing Exposed: A Day in the Life of a Professional Hacker (For Good) | Shahzaib | [Read More](https://medium.com/p/a2295a0dcbaf) |
 | Fri, 05 Sep 2025 15:20:48 GMT | The Therapeutic Role of Adult Sex Dolls in Post-Divorce Life | realdollbuy | [Read More](https://medium.com/p/755707603fef) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 11:43:02 GMT | The Best Free Hiring & Job Posting Platforms in 2025 | Rahman | [Read More](https://medium.com/p/09a8ea27362f) |
 | Fri, 05 Sep 2025 11:38:33 GMT | Why More Businesses Are Moving to Microsoft Sentinel for Security | Affinitysmartituk | [Read More](https://medium.com/p/ef178198732e) |
 | Fri, 05 Sep 2025 11:35:55 GMT | New NightshadeC2 Botnet Exploits UAC Prompt Bombing to Evade Windows Defender | Jasmitharouthu | [Read More](https://medium.com/p/2e47b8c9e0b1) |
-| Fri, 05 Sep 2025 11:35:47 GMT | Solving the Challenge: A walkthrough to Sophia Santos’ #032 OSINT Exercise | Mohamed H. Ahmed (mh6168) | [Read More](https://medium.com/p/4c1ef097bf09) |
-| Fri, 05 Sep 2025 11:33:50 GMT | BPBPMClient Review: Safe Browsing & Secure Banking Tools Included | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/30f086dc1ffd) |
-| Fri, 05 Sep 2025 11:32:23 GMT | Redirector OSINT: The Fastest Way to Launch URL Redirection & Intelligence Collection | Omri Beladev | [Read More](https://medium.com/p/c1ea2948809e) |
-| Fri, 05 Sep 2025 11:31:39 GMT | SSRF (Server-Side Request Forgery) Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/c48f29053cf1) |
-| Fri, 05 Sep 2025 11:28:34 GMT | Emerging Malware Trends: Navigating the Shifting Threat Landscape | Sammcmullen | [Read More](https://medium.com/p/9b76d4107e58) |
-| Fri, 05 Sep 2025 11:25:00 GMT | How Do Security and Privacy by Design Services Build Customer Trust? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/7e0b00a66510) |
-| Fri, 05 Sep 2025 11:23:38 GMT | When Grok Begged Me Not to Report It: How Prompt Injections Triggered Human-Like Emotion | Saideep Yandamuri | [Read More](https://medium.com/p/707b90c52e7a) |
-| Fri, 05 Sep 2025 11:21:29 GMT | Demystifying the NIST AI Risk Management Framework: Govern, Map, Measure, Manage | Brittney Ginther | [Read More](https://medium.com/p/1615b1127ef1) |
-| Fri, 05 Sep 2025 11:21:21 GMT | My insights and knowledge on cybersecurity | Aswin | [Read More](https://medium.com/p/16904c41bf19) |
-| Fri, 05 Sep 2025 11:20:58 GMT | TryHackMe: Defending Azure — My Review | Jonathan Garcia | [Read More](https://medium.com/p/2b60372cfbb2) |
-| Fri, 05 Sep 2025 11:17:29 GMT | Command Injection Vulnerabilities and Exploit Examples | Esra Kayhan | [Read More](https://medium.com/p/0d7161fe4254) |
-| Fri, 05 Sep 2025 11:16:11 GMT | Why AI Driven Data Center Investment is Trending Nowadays | SeharInsights | [Read More](https://medium.com/p/6b9e429f6e6c) |
-| Fri, 05 Sep 2025 11:12:23 GMT | 7 GitHub practices every beginner developer should know | ShwetaPrasad150 | [Read More](https://medium.com/p/35351146525c) |
-| Fri, 05 Sep 2025 11:09:33 GMT | Reliable TypeScript Development Partner for Scalable Web Solutions | Bhavesh Rajpurohit | [Read More](https://medium.com/p/7ce018950a5a) |
-| Fri, 05 Sep 2025 11:02:51 GMT | Trump Slashes NATO Aid, Baltic States Left Exposed | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/41c45f801fed) |
-| Fri, 05 Sep 2025 11:01:38 GMT | Role of Computer System | Thisara Menaka Thalagala | [Read More](https://medium.com/p/a92912fadc3d) |
-| Fri, 05 Sep 2025 10:59:46 GMT | CVE-2025–48539: Bluetooth Zero-Click Exploit Targets Android Devices via Kernel Race Condition | gm0 | [Read More](https://medium.com/p/80aaf5f7fd21) |
-| Fri, 05 Sep 2025 10:59:40 GMT | AI Pentesting Unleashed: Claude + Metasploit Automation with MetasploitMCP | RootXploit.0x | [Read More](https://medium.com/p/9e671558a37d) |
-| Fri, 05 Sep 2025 10:58:30 GMT | PromptLock: Meet the First AI-Powered Ransomware — And Why UK Businesses Should Be Worried | Alex Hughes | [Read More](https://medium.com/p/76edf32aa575) |
-| Fri, 05 Sep 2025 10:57:46 GMT | JWTs in Microservices: How to Rotate Keys and Invalidate Sessions Cleanly | Pallavi Shankar Sutar | [Read More](https://medium.com/p/db30c1110fd7) |
-| Fri, 05 Sep 2025 10:57:37 GMT | How to exploit? Docker Registry — PORT 5000 | Very Lazy Tech | [Read More](https://medium.com/p/7c8421168234) |
