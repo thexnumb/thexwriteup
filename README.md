@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 18:24:04 GMT | Building a Local Clipboard Logger: A Python Project for Educational Cybersecurity | Kawalostwal | [Read More](https://medium.com/p/9d611f46898d) |
+| Fri, 05 Sep 2025 18:22:38 GMT | How I Found an IDOR Vulnerability in public bug bounty program of bugcrowd and What You Can Learn… | Be nice insabat | [Read More](https://medium.com/p/a1cd3ae2d326) |
+| Fri, 05 Sep 2025 18:17:44 GMT | MSSP Cybersecurity Partnership: Why Businesses Gain More with Managed Security | SafeAeon Inc. | [Read More](https://medium.com/p/2af60b915853) |
+| Fri, 05 Sep 2025 18:14:23 GMT | Why Bad Writing Is Actually Necessary for Good Writing | Global Whirl of Wonders | [Read More](https://medium.com/p/e7afb78ad0c3) |
+| Fri, 05 Sep 2025 18:12:09 GMT | AI Security Research — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/68d4f113f931) |
+| Fri, 05 Sep 2025 18:12:01 GMT | Wiz Challenge — Contain Me If You | Daniel Dias | [Read More](https://medium.com/p/b0b47226c5eb) |
+| Fri, 05 Sep 2025 18:10:57 GMT | Web3 Phishing Explained: Real Attacks, Risks, and How to Stay Safe | Aditya Raj | [Read More](https://medium.com/p/9eb80fe80451) |
+| Fri, 05 Sep 2025 18:06:35 GMT | How to recognize phishing and Trojans — 7 warning signs you need to know | Cordula Boeck | [Read More](https://medium.com/p/2f8853065bda) |
+| Fri, 05 Sep 2025 18:04:24 GMT | How I Found an Authentication Bypass at CoinMarketCap! | 0xBartita | [Read More](https://medium.com/p/191a13fec176) |
+| Fri, 05 Sep 2025 18:04:08 GMT | How to Use Nuclei as an AppSec DAST Tool in DevSecOps | Israel Aráoz Severiche | [Read More](https://medium.com/p/90d0ab5963bb) |
+| Fri, 05 Sep 2025 18:03:53 GMT | EDR vs MDR: Which Cybersecurity Solution Fits Your Business Best? | SafeAeon Inc. | [Read More](https://medium.com/p/e31f20142734) |
+| Fri, 05 Sep 2025 18:01:30 GMT | Bug Bounty: NoSQL Injection: la vulnerabilidad silenciosa que muchos pasan por alto | Gorka | [Read More](https://medium.com/p/0a1b45f53bd7) |
+| Fri, 05 Sep 2025 18:01:30 GMT | 5 Portfolio Mistakes That Instantly Turn Off Hiring Managers | Niamh O'Shea | [Read More](https://medium.com/p/1f9eff048ea5) |
+| Fri, 05 Sep 2025 17:58:11 GMT | The Hidden Path to an HP Printer: A Real-World Discovery | Manav | [Read More](https://medium.com/p/4b05187a8271) |
+| Fri, 05 Sep 2025 17:57:14 GMT | Wifi Hacking — An Evil Twin Setup Guide | Rodrigocolozio | [Read More](https://medium.com/p/7969f1a27064) |
+| Fri, 05 Sep 2025 17:55:57 GMT | “No Sql Injection” Challenge | oussama | [Read More](https://medium.com/p/76357f51e2d2) |
+| Fri, 05 Sep 2025 17:41:26 GMT | DROSERA NETWORK: ETHEREUM'S IMMUNE SYSTEM | DUQAHH | [Read More](https://medium.com/p/82eb9c82e7a8) |
 | Fri, 05 Sep 2025 17:26:30 GMT | Because One Job Posting Isn’t Enough, Let’s Build Something Better (Message To My Network) | Michael_J_B | [Read More](https://medium.com/p/5b697522ef25) |
 | Fri, 05 Sep 2025 17:24:57 GMT | How to Lock Down Your WhatsApp Chats | www.OneCoolTip.com | [Read More](https://medium.com/p/f662eea72d26) |
 | Fri, 05 Sep 2025 17:23:04 GMT | I Was Just Messing Around on a WordPress Site and Found This… | 0x62616B61 | [Read More](https://medium.com/p/4b44aebac6e7) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 13:53:17 GMT | How Micro-Influencers Are Changing the Game for Brands | Princely B | [Read More](https://medium.com/p/8a45b2219f22) |
 | Fri, 05 Sep 2025 13:47:57 GMT | How Indian Companies Can Stop Phishing & BEC Scams: 5 Proven Email Security Tactics | Aavart Shukla | [Read More](https://medium.com/p/5de3e8101e1b) |
 | Fri, 05 Sep 2025 13:37:15 GMT | Email Security in India: The Silent Cyber Threat Every Business Must Face | Aavart Shukla | [Read More](https://medium.com/p/ff83d40737df) |
-| Fri, 05 Sep 2025 13:31:40 GMT | School Security and Safety Online with SentryPC: Protecting Students in the Digital Age | Paul Meyer | [Read More](https://medium.com/p/44e24a8169b3) |
-| Fri, 05 Sep 2025 13:27:00 GMT | AI SecOps for LLMs: Key Concepts and Practices | Axle Bucamp | [Read More](https://medium.com/p/4c14c38f2702) |
-| Fri, 05 Sep 2025 13:24:58 GMT | OTP bypass via logic flaw | Mohamed Abdelmoatie | [Read More](https://medium.com/p/8a5c96f84fab) |
-| Fri, 05 Sep 2025 13:23:02 GMT | Maximizing ROI with Strategic Cloud Adoption | IPSpecialist | [Read More](https://medium.com/p/3d186f702f0e) |
-| Fri, 05 Sep 2025 13:21:30 GMT | Dank Dispatch #0044 — Ethereum Malware, DeFi Exploits, and the Battle Between Narrative and Trust | Daniel (dank) Karpienia | [Read More](https://medium.com/p/052559145589) |
-| Fri, 05 Sep 2025 13:17:05 GMT | Compliance with regulations in the Mobile App Security domain for FI and FinTechs | Talsec | [Read More](https://medium.com/p/e4017ad28632) |
-| Fri, 05 Sep 2025 13:14:35 GMT | What If Uber Crashes? The Critical Role of Mobile Testing in Agile Teams | Poorvi Arora | [Read More](https://medium.com/p/eaa4c23ed079) |
-| Fri, 05 Sep 2025 13:12:08 GMT | Bandit Level 1 → Level 2 | Nibal marazqah | [Read More](https://medium.com/p/51f11f1fd25c) |
-| Fri, 05 Sep 2025 13:10:12 GMT | From Curiosity to Red Teaming: My Next Step with Young Cyber Knights Foundation | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/58e3b1b346a0) |
-| Fri, 05 Sep 2025 13:06:37 GMT | Top 5 Browser Extensions for Security and Productivity in 2025 | Techlio | [Read More](https://medium.com/p/b39a015bc6ce) |
-| Fri, 05 Sep 2025 13:01:20 GMT | Just completed “Cyber Incident Response and Investigation” on edX! | Manish Rawat | [Read More](https://medium.com/p/995834a6fc4c) |
-| Fri, 05 Sep 2025 12:59:09 GMT | Bandit Level 0 → Level 1 | Nibal marazqah | [Read More](https://medium.com/p/06b7c84c72ee) |
-| Fri, 05 Sep 2025 12:50:15 GMT | When Insecurity Meets Love | Serfanio | [Read More](https://medium.com/p/dc403162c531) |
-| Fri, 05 Sep 2025 12:48:02 GMT | GitOps Foundation and Security Architecture: Infrastructure as Code That Actually Works | Gert-Jan Admiraal | [Read More](https://medium.com/p/52ce7112fc9b) |
-| Fri, 05 Sep 2025 12:47:00 GMT | Hardware Strategy and Network Design: Building the Physical Foundation | Gert-Jan Admiraal | [Read More](https://medium.com/p/e77ec9ab0cdb) |
-| Fri, 05 Sep 2025 12:46:16 GMT | Enterprise Architecture and Security at Scale: The Pragmatic Approach to Homelab Design | Gert-Jan Admiraal | [Read More](https://medium.com/p/16a10c1c8e47) |
-| Fri, 05 Sep 2025 12:45:36 GMT | Building an Enterprise-Grade Homelab: A Modern Infrastructure Journey | Gert-Jan Admiraal | [Read More](https://medium.com/p/f4b3713c6090) |
