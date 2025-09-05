@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 03:29:47 GMT | SafeLine WAF: The Open-Source Firewall Powering 300K+ Deployments | Quella | [Read More](https://medium.com/p/f947e5d83c81) |
+| Fri, 05 Sep 2025 03:23:30 GMT | 7 Hidden Security Risks in Caching That No One Warns You About | Diya Satpute | [Read More](https://medium.com/p/2593cafed5d1) |
+| Fri, 05 Sep 2025 03:20:40 GMT | Implementing Secure Authentication and Access Control | Jon Wick | [Read More](https://medium.com/p/ca85d75ee52d) |
+| Fri, 05 Sep 2025 03:17:08 GMT | A secure network architecture is one of the most effective defenses against cyber threats. | Jon Wick | [Read More](https://medium.com/p/e8f80e9dae8b) |
+| Fri, 05 Sep 2025 03:12:57 GMT | How North Korea Launders Billions Through Crypto — and How We Can Stop Them | Denys Deputatov | [Read More](https://medium.com/p/3105c56339e5) |
+| Fri, 05 Sep 2025 03:12:20 GMT | Walkthrough for Gandalf AI L5-L7 | N8 | [Read More](https://medium.com/p/bfd62196f0b9) |
+| Fri, 05 Sep 2025 03:11:03 GMT | One Click Away From Disaster | Aj | [Read More](https://medium.com/p/01db5b684851) |
+| Fri, 05 Sep 2025 03:01:43 GMT | How I Lost Productivity Learning Productivity | Jennie Kim | [Read More](https://medium.com/p/f3eb485ac4f5) |
+| Fri, 05 Sep 2025 03:01:19 GMT | Six Reasons Cybersecurity is Still So Damn Hard | Nate Pelz | [Read More](https://medium.com/p/857ee13ddea8) |
+| Fri, 05 Sep 2025 02:59:59 GMT | Understanding Common Cybersecurity Threats and Attacks | Jon Wick | [Read More](https://medium.com/p/e9cc77b33a65) |
+| Fri, 05 Sep 2025 02:58:47 GMT | Architectural risk and security profile for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/b5ef4a24c410) |
 | Fri, 05 Sep 2025 02:47:18 GMT | Weaver e-cology Vulnerability: Frontend File Upload RCE Risk | Quella | [Read More](https://medium.com/p/756caec8fbe9) |
 | Fri, 05 Sep 2025 02:34:45 GMT | Building a Mr. Robot-Themed Penetration Testing Laboratory: From Zero to fsociety | Jesse Ridley | [Read More](https://medium.com/p/a9f88f19b402) |
 | Fri, 05 Sep 2025 02:31:44 GMT | ☕ My First Critical Bug: Account Takeover with Just One Tiny Letter | AIwolfie | [Read More](https://medium.com/p/2f8e263400a5) |
@@ -102,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 19:23:23 GMT | Critical Signals: When the Shield Becomes the Sword | David C. Anderson - Cybersecurity & AI Risk | [Read More](https://medium.com/p/c3578c3efdfc) |
 | Thu, 04 Sep 2025 19:20:29 GMT | Learning PowerShell Basics | echoVoid | [Read More](https://medium.com/p/bf438b1cde86) |
 | Thu, 04 Sep 2025 19:15:04 GMT | Importance of Cyber Insurance: A Safety Net for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/a8df866f758d) |
-| Thu, 04 Sep 2025 19:04:04 GMT | When Cybercriminals Get an AI Upgrade: Ransomware for the Masses | Malik | [Read More](https://medium.com/p/1b82583ff06d) |
-| Thu, 04 Sep 2025 18:59:15 GMT | Software and Data Integrity Failures (OWASP Top 10 #8) — Simplified | Chai | [Read More](https://medium.com/p/36951f1bd196) |
-| Thu, 04 Sep 2025 18:59:05 GMT | The Silent Breach: Inside the $223 Million Cetus Protocol Hack | NineTales | [Read More](https://medium.com/p/db6e54df33b0) |
-| Thu, 04 Sep 2025 18:57:51 GMT | Conducting a Security Audit | Citadel Cybersec | [Read More](https://medium.com/p/43a54ffcfa63) |
-| Thu, 04 Sep 2025 18:57:30 GMT | Sophos UTM Yapılandırmaları ve Zafiyet Yönetimi | Sena Yıldızlı | [Read More](https://medium.com/p/5c5e634b07d8) |
-| Thu, 04 Sep 2025 18:56:55 GMT | The Hidden Costs of File Security in the AI Era | Malik | [Read More](https://medium.com/p/f89285c11747) |
-| Thu, 04 Sep 2025 18:52:12 GMT | The Mystery Bug That Only Happened During Leap Year | Dax | [Read More](https://medium.com/p/e4a306c0aff2) |
-| Thu, 04 Sep 2025 18:45:36 GMT | First Bug Bounty Reward — Broken Access Control | Defidev | [Read More](https://medium.com/p/e63ba29789f7) |
-| Thu, 04 Sep 2025 18:43:41 GMT | Why EDR Is Replacing Traditional Antivirus in 2025
-Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
-| Thu, 04 Sep 2025 18:42:13 GMT | OPSEC 201, “Advanced” tips and more on keeping yourself safe from bad actors | Dabest | [Read More](https://medium.com/p/a14f059cb44f) |
-| Thu, 04 Sep 2025 18:38:48 GMT | Salt Typhoon: The Chinese Cyber Campaign That May Have Exposed Data on Nearly Every American | Udaykumar | [Read More](https://medium.com/p/542ca9a46b7d) |
