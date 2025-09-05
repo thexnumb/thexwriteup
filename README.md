@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 04:17:30 GMT | TryHackMe #15 - Linux Fundamentals Part 3 | 0xGroot | [Read More](https://medium.com/p/d715895a336a) |
+| Fri, 05 Sep 2025 04:17:29 GMT | TryHackMe #14 - Linux Fundamentals Part 2 | 0xGroot | [Read More](https://medium.com/p/843d3fd31890) |
 | Fri, 05 Sep 2025 04:15:09 GMT | Cloudbric Services Progress Report (8/1 ~ 8/31) | Cloudbric | [Read More](https://medium.com/p/d57ffc28791e) |
 | Fri, 05 Sep 2025 04:11:36 GMT | TryHackMe #13 - Linux Fundamentals Part 1 | 0xGroot | [Read More](https://medium.com/p/b3bfc4d1a76c) |
 | Fri, 05 Sep 2025 04:05:53 GMT | Secrets Management in Docker: Techniques and Tools | @rnab | [Read More](https://medium.com/p/e5ff350f7440) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 20:07:37 GMT | Lo-Fi - TryHackMe | Laach_ | [Read More](https://medium.com/p/95d9ed5702f3) |
 | Thu, 04 Sep 2025 20:04:15 GMT | Guia de carreiras em Cibersegurança | Victor Zumbano | [Read More](https://medium.com/p/4c3b8fc17957) |
 | Thu, 04 Sep 2025 20:02:28 GMT | Why I Started Learning Cybersecurity by Lumae Tech | Lumae | [Read More](https://medium.com/p/21da9d53ff8e) |
-| Thu, 04 Sep 2025 19:56:18 GMT | Hackhalt — Community | Anonymous | [Read More](https://medium.com/p/9daaf8c11c6d) |
-| Thu, 04 Sep 2025 19:40:48 GMT | The Highway Heist: Exposing The E-ZPass Mobile Phishing Scheme | Tijan Hydara | [Read More](https://medium.com/p/b72c8ba7176c) |
