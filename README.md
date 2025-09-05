@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 16:37:57 GMT | The Future I See with Drosera: Building Trust in Web3 | Farmersboi | [Read More](https://medium.com/p/d13a6aadee74) |
+| Fri, 05 Sep 2025 16:36:48 GMT | Cybersecurity News Review — Week 36 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/36919b37bcea) |
+| Fri, 05 Sep 2025 16:30:03 GMT | Self-Healing Honeypot on AWS | hsinaaa | [Read More](https://medium.com/p/7f84707bef01) |
+| Fri, 05 Sep 2025 16:28:03 GMT | ️ Mastering Content Security Policy (CSP) Headers in Spring Boot Web Apps | Karuna | [Read More](https://medium.com/p/9bd0fac6c3bb) |
+| Fri, 05 Sep 2025 16:24:34 GMT | DNS Cache Poisoning | Balki Maharaj | [Read More](https://medium.com/p/69c27b8762b5) |
 | Fri, 05 Sep 2025 16:21:53 GMT | Digital Code-Talkers: Why Coding Has Become the New Language of Power | Just Human | [Read More](https://medium.com/p/e12cec5bbe92) |
 | Fri, 05 Sep 2025 16:20:39 GMT | TryHackMe - IP and Domain Threat Intel - WriteUp | Axoloth | [Read More](https://medium.com/p/bd11c225e957) |
 | Fri, 05 Sep 2025 16:19:47 GMT | The Future Drosera Network brings to DeFi | Middy | [Read More](https://medium.com/p/f902e389d194) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 12:00:14 GMT | ⚠️ Data Doesn’t Get Stolen Anymore — It Gets Weaponised | Omex Oleksandr | [Read More](https://medium.com/p/312a800188b6) |
 | Fri, 05 Sep 2025 11:59:27 GMT | SVG Files Turned into Phishing Weapons: Virus Total Flags 44 Undetected Cases | Jasmitharouthu | [Read More](https://medium.com/p/3e958cad1809) |
 | Fri, 05 Sep 2025 11:48:36 GMT | How Can Security and Privacy by Design Services Reduce Business Risks? | Ziya Zoe | [Read More](https://medium.com/p/328b15e3ced6) |
-| Fri, 05 Sep 2025 11:45:21 GMT | Active KEV Additions and Espionage Operations Define the Week | Loginsoft | [Read More](https://medium.com/p/ddd0ac8113e9) |
-| Fri, 05 Sep 2025 11:45:16 GMT | Common Automation Challenges and Mistakes (and How the Future Looks) | Ron | [Read More](https://medium.com/p/4e8e1f4d15d7) |
-| Fri, 05 Sep 2025 11:43:02 GMT | The Best Free Hiring & Job Posting Platforms in 2025 | Rahman | [Read More](https://medium.com/p/09a8ea27362f) |
-| Fri, 05 Sep 2025 11:38:33 GMT | Why More Businesses Are Moving to Microsoft Sentinel for Security | Affinitysmartituk | [Read More](https://medium.com/p/ef178198732e) |
-| Fri, 05 Sep 2025 11:35:55 GMT | New NightshadeC2 Botnet Exploits UAC Prompt Bombing to Evade Windows Defender | Jasmitharouthu | [Read More](https://medium.com/p/2e47b8c9e0b1) |
