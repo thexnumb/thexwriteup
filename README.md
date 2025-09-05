@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 15:18:26 GMT | Recon: Brute-Force Directory and Files | Taulan Zauzanov | [Read More](https://medium.com/p/304fe3a3548a) |
+| Fri, 05 Sep 2025 15:11:43 GMT | Cracking Gandalf Level 4: Outsmarting the Censor | Kaylen Stuart | [Read More](https://medium.com/p/6579a27935aa) |
+| Fri, 05 Sep 2025 15:06:39 GMT | “Day 29: The Web Cache Deception Heist — How I Stole Private Data Without Breaking a Single… | Aman Sharma | [Read More](https://medium.com/p/276b8667a4cf) |
+| Fri, 05 Sep 2025 15:05:12 GMT | How to access a cell phone without anysuspiciousnotice? - where can I find a private investigator? | Donley Mark | [Read More](https://medium.com/p/038a1b3a2ec3) |
+| Fri, 05 Sep 2025 14:55:29 GMT | Hacking WordPress | Mohammed Hassan | [Read More](https://medium.com/p/6f25147fd3a9) |
+| Fri, 05 Sep 2025 14:54:46 GMT | Exploring picoCTF’s DISKO 1 Challenge | Zulfianarahmi | [Read More](https://medium.com/p/a6a747ea4756) |
+| Fri, 05 Sep 2025 14:51:07 GMT | Best VPN for Facebook: Unblock Facebook Anywhere in 2025 | rohan kumar | [Read More](https://medium.com/p/dc8a3ebecbe1) |
+| Fri, 05 Sep 2025 14:47:24 GMT | IT Support Horror Stories (And How to Avoid Them) | Paradise technologies Inc | [Read More](https://medium.com/p/6fdc31c76bb6) |
+| Fri, 05 Sep 2025 14:42:34 GMT | Flag Command - HTB Walkthrough | Simi | [Read More](https://medium.com/p/0554d60632e2) |
+| Fri, 05 Sep 2025 14:40:19 GMT | Writers and Editors — Check Your Paywall Settings | Susan Brearley | [Read More](https://medium.com/p/509d495dbea3) |
+| Fri, 05 Sep 2025 14:36:05 GMT | Transformation in Security and Efficiency: From Reentrancy to Diamond Proxy | Vinu Digital | [Read More](https://medium.com/p/ef262e93bbbf) |
 | Fri, 05 Sep 2025 14:34:31 GMT | Encrypted Shells with Socat | 0xcy | [Read More](https://medium.com/p/8105f1295b24) |
+| Fri, 05 Sep 2025 14:32:05 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Blackbox | [Read More](https://medium.com/p/29b8c9686d9b) |
 | Fri, 05 Sep 2025 14:28:17 GMT | How Agentic AI Is Transforming Phishing Tactics | Ai Writter Tools | [Read More](https://medium.com/p/b3df9f186f5a) |
 | Fri, 05 Sep 2025 14:27:46 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/e4e03df05d61) |
 | Fri, 05 Sep 2025 14:23:00 GMT | I Automated My Recon and Found More Critical Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/2346c951fdf6) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 10:38:03 GMT | Why Ransomware Payments Are a Losing Game in 2025 ..And What to Do Instead | Bitdefenderppc | [Read More](https://medium.com/p/adfe25748ca5) |
 | Fri, 05 Sep 2025 10:34:05 GMT | My Journey in Ethical Hacking: Completing "Introduction to Ethical Hacking" on Great Learning | Azka Sohail | [Read More](https://medium.com/p/007a16f4f00a) |
 | Fri, 05 Sep 2025 10:29:44 GMT | When Luxury Goes Silent: Inside the Devastating Jaguar Land Rover Cyber Siege | Redfox Security | [Read More](https://medium.com/p/4c8d3bc51445) |
-| Fri, 05 Sep 2025 10:21:12 GMT | Understanding the n8n Interface: A Step-by-Step Walkthrough | Rizqi Mulki | [Read More](https://medium.com/p/3684289d4845) |
-| Fri, 05 Sep 2025 10:18:28 GMT | Gouvernance | Dipa Traoré | [Read More](https://medium.com/p/273f4635a454) |
-| Fri, 05 Sep 2025 10:17:39 GMT | DSGVO-konformes A/B Testing: Praxisleitfaden für deutsche Unternehmen | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/91bd664a5f93) |
-| Fri, 05 Sep 2025 10:16:42 GMT | Cybersecurity Startup ‘NeuroShield’ Emerges from Stealth with $5M Seed Round | ailatestbyte | [Read More](https://medium.com/p/8caeff76d10e) |
-| Fri, 05 Sep 2025 10:16:21 GMT | How to Install n8n on Your Computer in Under 10 Minutes | Rizqi Mulki | [Read More](https://medium.com/p/ae6b44e34902) |
-| Fri, 05 Sep 2025 10:15:24 GMT | Core Principles of Cybersecurity: CIA Triad, Risk & Defense Strategies (Module 3) | THE CONGNITION | [Read More](https://medium.com/p/2100b7c01769) |
-| Fri, 05 Sep 2025 10:13:08 GMT | How Human Error Becomes a Cyber Risk: Understanding the Human Factor in Attacks | Affinitysmartituk | [Read More](https://medium.com/p/09b979d769b8) |
-| Fri, 05 Sep 2025 10:12:24 GMT | Cyberpedia - What is AI for Cybersecurity? | Yulevo | [Read More](https://medium.com/p/e6a0213c667c) |
-| Fri, 05 Sep 2025 10:11:18 GMT | Why UK Manufacturers Must Reframe Security as a Strategic Investment | Luke Appleby | [Read More](https://medium.com/p/06464c1fd7ad) |
-| Fri, 05 Sep 2025 10:10:58 GMT | How to Install n8n on Your Computer in Under 10 Minutes | Rizqi Mulki | [Read More](https://medium.com/p/edd9b2893802) |
-| Fri, 05 Sep 2025 10:07:51 GMT | The Future of DeFi Security: Why Drosera Sits at the Center | Moses Joel | [Read More](https://medium.com/p/e149c0c18976) |
-| Fri, 05 Sep 2025 10:05:42 GMT | The Perfect Pair: Combining mTLS and RBAC for Bulletproof OpenSearch Security | AparnaBejugam | [Read More](https://medium.com/p/d3c7b1b76484) |
