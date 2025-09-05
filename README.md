@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 08:23:14 GMT | ☀️ CISA Issues Alert on Critical SunPower Vulnerability | SCtoCS | [Read More](https://medium.com/p/765f0648d851) |
+| Fri, 05 Sep 2025 08:17:04 GMT | Sharenting Risks and How to Reduce Them | JVANVS | [Read More](https://medium.com/p/4760bddbc8e3) |
+| Fri, 05 Sep 2025 08:15:08 GMT | ️ Weekly Cybersecurity Threat Intelligence Report | chris | [Read More](https://medium.com/p/504d6ae7780e) |
+| Fri, 05 Sep 2025 08:12:55 GMT | Investigating A Cheating Spouse - Hire A Hacker | BlackHat | [Read More](https://medium.com/p/ca1b935a4661) |
+| Fri, 05 Sep 2025 08:11:41 GMT | The Day the Printer Became a Hacker’s Entry Point | Evgeny Ermakov | [Read More](https://medium.com/p/43f604ba2057) |
+| Fri, 05 Sep 2025 08:08:36 GMT | Building SafeOnlineShop: My Experience | Sahani Mohottige | [Read More](https://medium.com/p/fe3ef9571312) |
+| Fri, 05 Sep 2025 08:05:09 GMT | iOS Penetration Testing — Part 1 (Beginner’s Guide) | p4n7h3rx | [Read More](https://medium.com/p/8d6e6b189f5d) |
+| Fri, 05 Sep 2025 08:04:52 GMT | Trust — The Tricky Game | Kabii | [Read More](https://medium.com/p/0b55eac700c1) |
+| Fri, 05 Sep 2025 08:01:37 GMT | Sudo: One Command to Rule Them All (and Keep You Out of Trouble) | MayhemCode | [Read More](https://medium.com/p/f062fcee8941) |
+| Fri, 05 Sep 2025 08:01:37 GMT | Monitor Your Domain For Leaked Credentials 24/7 | Alexandre Vandamme | [Read More](https://medium.com/p/102e41a2baf2) |
+| Fri, 05 Sep 2025 07:58:35 GMT | Day 8 of MCP Security: Secrets in Context — Managing Secrets and Tokens in MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/41b4ad3d61fe) |
+| Fri, 05 Sep 2025 07:42:13 GMT | Jobs In Delhi NCR, India | Gaurav Kumar | [Read More](https://medium.com/p/6939a3eaa27a) |
+| Fri, 05 Sep 2025 07:40:08 GMT | AI for Blue Teams: Automating Triage, Threat Hunting, and Purple Team Drills | Fady Azzi | [Read More](https://medium.com/p/9aeb5dba4cc0) |
+| Fri, 05 Sep 2025 07:38:18 GMT | AI LLM vs. Cyber Security: Strategies to Defend Against LLM-Assisted Breaches | Fady Azzi | [Read More](https://medium.com/p/8eee6b3a8d34) |
+| Fri, 05 Sep 2025 07:36:03 GMT | How API Security Testing Improves Compliance and Protects Customer Data | Dmvikash | [Read More](https://medium.com/p/460358aa752b) |
 | Fri, 05 Sep 2025 07:32:26 GMT | Top 10 Reasons Your Business Needs VAPT Testing in 2025 | Qualysec | [Read More](https://medium.com/p/2c391ac0f0b3) |
 | Fri, 05 Sep 2025 07:30:39 GMT | PhishNet : Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/6bbe994a390a) |
 | Fri, 05 Sep 2025 07:27:43 GMT | How to Escape the ChatGPT Echo Chamber ? | eSecForte Technologies | [Read More](https://medium.com/p/2c83488baf7a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 02:34:45 GMT | Building a Mr. Robot-Themed Penetration Testing Laboratory: From Zero to fsociety | Jesse Ridley | [Read More](https://medium.com/p/a9f88f19b402) |
 | Fri, 05 Sep 2025 02:31:44 GMT | ☕ My First Critical Bug: Account Takeover with Just One Tiny Letter | AIwolfie | [Read More](https://medium.com/p/2f8e263400a5) |
 | Fri, 05 Sep 2025 02:30:45 GMT | HackTheBox-CPTS: XSS Exploitation Walk-through | AmrKhaled | [Read More](https://medium.com/p/0aeef06f7837) |
-| Fri, 05 Sep 2025 02:27:44 GMT | Starting career in Cybersecurity | Ashutosh Jha | [Read More](https://medium.com/p/f25841412032) |
-| Fri, 05 Sep 2025 02:25:59 GMT | CentOS 9 Üzerinde Graylog 6.3 ve Fluentd Kurulumu ile Windows Loglarını Toplama | Barbaros | [Read More](https://medium.com/p/c0670f6c6b4b) |
-| Fri, 05 Sep 2025 02:24:33 GMT | Navigating the Cybersecurity Maze: Regulatory Overload with GDPR, CCPA, and Evolving Global Data… | Paschal Ogana | [Read More](https://medium.com/p/00e61fb93a63) |
-| Fri, 05 Sep 2025 02:17:34 GMT | The Geico Scam That Left Me Shaken and Could Hit You Too | Reece Lightner | [Read More](https://medium.com/p/cd70c195c967) |
-| Fri, 05 Sep 2025 02:17:17 GMT | MathWorks Confirms Ransomware Attack Exposed Data of Over 10,000 People | SafetyDetectives Research Team | [Read More](https://medium.com/p/267332c3c5c1) |
-| Fri, 05 Sep 2025 02:14:37 GMT | Attackers Turn Velociraptor Into Backdoor for Ransomware Deployment | SafetyDetectives Research Team | [Read More](https://medium.com/p/e21273824860) |
-| Fri, 05 Sep 2025 02:08:01 GMT | Write Up Lab: SQL injection attack, querying the database type and version on Oracle | Velskynotfound | [Read More](https://medium.com/p/51353e89b8b7) |
-| Fri, 05 Sep 2025 01:55:45 GMT | How AI-Powered Proxy Tools Helped Me Safeguard My Brand from Digital Threats | Blanche X | [Read More](https://medium.com/p/a7441d3ab6c9) |
-| Fri, 05 Sep 2025 01:53:38 GMT | Running a Blockchain locally can help restore data from a ransomware attack using the IPFS File… | Prabhu Perumal | [Read More](https://medium.com/p/7ce6b78f308b) |
-| Fri, 05 Sep 2025 01:48:41 GMT | The Importance of HTLCs for the Bitcoin Lightning  Network | Enskefuddle | [Read More](https://medium.com/p/99a984731191) |
-| Fri, 05 Sep 2025 01:48:29 GMT | TryHackMe — The Valley Walkthrough | spdr0x | [Read More](https://medium.com/p/f47fe747f06c) |
-| Fri, 05 Sep 2025 01:45:13 GMT | 為什麼你會愛上使用 Diode Collab ？ | Yuchengder | [Read More](https://medium.com/p/fcdb1538b512) |
-| Fri, 05 Sep 2025 01:40:02 GMT | The Hidden Security Costs of AI for SMEs — and How to Stay Ahead | Roger Millar | [Read More](https://medium.com/p/fab02a4dbc94) |
-| Fri, 05 Sep 2025 01:17:36 GMT | Bandit Level 0 | Nibal marazqah | [Read More](https://medium.com/p/109146d9bffe) |
-| Fri, 05 Sep 2025 01:12:58 GMT | AI Malware Hiding in Cute Panda Pics?! (Polyglot File EXPLAINED) | Shahzaib | [Read More](https://medium.com/p/5e9e1e16df71) |
