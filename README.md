@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 05:10:06 GMT | Why Big Tech Pays Millions for Bugs (And How You Can Too) | Aj | [Read More](https://medium.com/p/84d30d4b6aed) |
+| Fri, 05 Sep 2025 05:01:39 GMT | Laughter Isn’t Always the Best Medicine | Tami | [Read More](https://medium.com/p/eb01ea31c31c) |
+| Fri, 05 Sep 2025 04:57:21 GMT | Stop Hardcoding Your Secrets: A 2-Minute Guide to .env Files | Shivam - Full-Stack Developer | [Read More](https://medium.com/p/18fb4a0717f2) |
+| Fri, 05 Sep 2025 04:56:36 GMT | SecOps Automation: Building a GitLab Pipeline to Flag Malicious IPs | Vinayak Pandey | [Read More](https://medium.com/p/cd9e3e952c80) |
+| Fri, 05 Sep 2025 04:55:41 GMT | A little something to get you started | Dasmanish | [Read More](https://medium.com/p/d1c91463ca83) |
 | Fri, 05 Sep 2025 04:17:30 GMT | TryHackMe #15 - Linux Fundamentals Part 3 | 0xGroot | [Read More](https://medium.com/p/d715895a336a) |
 | Fri, 05 Sep 2025 04:17:29 GMT | TryHackMe #14 - Linux Fundamentals Part 2 | 0xGroot | [Read More](https://medium.com/p/843d3fd31890) |
 | Fri, 05 Sep 2025 04:15:09 GMT | Cloudbric Services Progress Report (8/1 ~ 8/31) | Cloudbric | [Read More](https://medium.com/p/d57ffc28791e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 20:25:54 GMT | You Think AI Protects Your Business? Hackers Are Already Using It Better Than You | Phil - Rentier Digital Heureux | [Read More](https://medium.com/p/e70da7480025) |
 | Thu, 04 Sep 2025 20:15:31 GMT | Artificial Intelligence in Cybersecurity: The Future of Digital Defense | IT_Engineer | [Read More](https://medium.com/p/6a00e7dcb259) |
 | Thu, 04 Sep 2025 20:11:49 GMT | SOC vs MDR: Choosing the Right Cyber Defense Strategy | SafeAeon Inc. | [Read More](https://medium.com/p/249a3cbb522e) |
-| Thu, 04 Sep 2025 20:11:45 GMT | BTLO Piggy Investigation | Juan Alexander Alejo | [Read More](https://medium.com/p/eab8239ea9a1) |
-| Thu, 04 Sep 2025 20:10:40 GMT | Restart | Edson Raines | [Read More](https://medium.com/p/a8358be6d6ed) |
-| Thu, 04 Sep 2025 20:07:37 GMT | Lo-Fi - TryHackMe | Laach_ | [Read More](https://medium.com/p/95d9ed5702f3) |
-| Thu, 04 Sep 2025 20:04:15 GMT | Guia de carreiras em Cibersegurança | Victor Zumbano | [Read More](https://medium.com/p/4c3b8fc17957) |
-| Thu, 04 Sep 2025 20:02:28 GMT | Why I Started Learning Cybersecurity by Lumae Tech | Lumae | [Read More](https://medium.com/p/21da9d53ff8e) |
