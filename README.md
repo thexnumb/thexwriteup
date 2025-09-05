@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 21:31:39 GMT | Cybersecurity in 2025: Is It Winning the War Yet? | Bhagya Rana | [Read More](https://medium.com/p/2d74ad11ad48) |
+| Fri, 05 Sep 2025 21:26:58 GMT | The History of Intel and Its Most Important Milestones | Stacklegend | [Read More](https://medium.com/p/8c06b73ccd1f) |
+| Fri, 05 Sep 2025 21:21:45 GMT | CyberDefenders’ 3CX Supply Chain Lab | Adewale Ayomide | [Read More](https://medium.com/p/c0edc933b914) |
+| Fri, 05 Sep 2025 21:19:48 GMT | AI, Geopolitics and Power | Above The Firewall | [Read More](https://medium.com/p/95b9e7361a4a) |
+| Fri, 05 Sep 2025 21:18:31 GMT | How i Got $500 From Information Disclosure By Sending a Jpeg | Mado | [Read More](https://medium.com/p/e273d1b94da1) |
+| Fri, 05 Sep 2025 21:15:11 GMT | Vulnerability Might Be Healing | edwina armstrong | [Read More](https://medium.com/p/bd9481fe6040) |
+| Fri, 05 Sep 2025 21:13:18 GMT | The Battle of Being Ourselves | Canan Gonensin | [Read More](https://medium.com/p/6c6279e87ec9) |
 | Fri, 05 Sep 2025 21:01:28 GMT | Top Cybersecurity Certifications for Beginners | Digital Softlucid | [Read More](https://medium.com/p/9100a9252855) |
 | Fri, 05 Sep 2025 20:54:21 GMT | Writers learn to use punctuation ideally. Period. | Mofiyinfoluwa Joshua | [Read More](https://medium.com/p/257c0bfc734e) |
 | Fri, 05 Sep 2025 20:53:53 GMT | Pegasus, Graphite, and the Invisible War for Your Privacy, | Arthur Gonzalez | [Read More](https://medium.com/p/60628b45943d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 15:44:09 GMT | Beyond PCI and HIPAA: How Feroot Powers Colorado Privacy Act (CPA) Compliance | Feroot Security | [Read More](https://medium.com/p/b56363a2b1e7) |
 | Fri, 05 Sep 2025 15:39:21 GMT | The Myth of Anonymity | USDM by Moneta Digital ~ Cardano  Stablecoin | [Read More](https://medium.com/p/490e3030e499) |
 | Fri, 05 Sep 2025 15:38:29 GMT | Ethical AI: How to Navigate Bias and Privacy Challenges in 2025 Projects | Umesh Anjula | [Read More](https://medium.com/p/5b2604d579a3) |
-| Fri, 05 Sep 2025 15:36:40 GMT | Subzy and the Case of the False Positive: Why Manual Validation Matters | Chris Christian | [Read More](https://medium.com/p/d420ab1e6e7f) |
-| Fri, 05 Sep 2025 15:34:06 GMT | The Future of Onchain Defense: My Vision With Drosera | H | [Read More](https://medium.com/p/86cf312df4cf) |
-| Fri, 05 Sep 2025 15:31:39 GMT | ️‍♂️ Zero-Knowledge Proofs: How to Prove Without Revealing Anything | CapitalCoin | [Read More](https://medium.com/p/9d28889e2d4e) |
-| Fri, 05 Sep 2025 15:30:01 GMT | Cracking Gandalf Level 6: Outsmarting Two Watchers | Kaylen Stuart | [Read More](https://medium.com/p/977e411f9cae) |
-| Fri, 05 Sep 2025 15:29:30 GMT | OWASP ASVS — C’est quoi? | Patrick Boucher | [Read More](https://medium.com/p/9ffd3cb06ad9) |
-| Fri, 05 Sep 2025 15:23:42 GMT | How Smart SMBs Use Trade-In Programs to Optimize Technology Investment and Cash Flow | the PhobioSapien | [Read More](https://medium.com/p/fa2ac30bd979) |
-| Fri, 05 Sep 2025 15:23:11 GMT | Penetration Testing Exposed: A Day in the Life of a Professional Hacker (For Good) | Shahzaib | [Read More](https://medium.com/p/a2295a0dcbaf) |
