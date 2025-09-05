@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 22:37:41 GMT | You Won’t Know Until You Do | Varun Dewan | [Read More](https://medium.com/p/1ed63f480aee) |
+| Fri, 05 Sep 2025 22:31:08 GMT | Drosera Network: The Immune System for Decentralized Finance
+Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 22:07:04 GMT | Server-Side Request Forgery (SSRF) (OWASP Top 10 #10) — Simplified | Chai | [Read More](https://medium.com/p/0a7ccd4448ab) |
 | Fri, 05 Sep 2025 22:03:33 GMT | 6 Common CloudTrail Pitfalls to Avoid for Secure Cloud | Mudassir Syed | [Read More](https://medium.com/p/920b261392b4) |
 | Fri, 05 Sep 2025 21:57:22 GMT | King Of The Hill CTF | Baker Womack | [Read More](https://medium.com/p/3150314ae63f) |
@@ -110,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 16:07:37 GMT | PG Practice — Mzeeav (Linux) | Lepton | [Read More](https://medium.com/p/4556f80211dc) |
 | Fri, 05 Sep 2025 16:07:28 GMT | PG Practice — PC (Linux) | Lepton | [Read More](https://medium.com/p/8494b7fbc5a8) |
 | Fri, 05 Sep 2025 16:05:35 GMT | Account Takeover via Insecure Email Change — Critical Vulnerability | alr | [Read More](https://medium.com/p/b67d44d7f600) |
-| Fri, 05 Sep 2025 16:04:37 GMT | Finding a Hidden Message in a Tiny PNG | Zulfianarahmi | [Read More](https://medium.com/p/f410d9cb4528) |
-| Fri, 05 Sep 2025 16:02:56 GMT | The Hidden Risks of Outdated Container Images: A Security Perspective | Thiago Loureiro | [Read More](https://medium.com/p/1663d52f0fd2) |
