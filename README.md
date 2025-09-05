@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 10:34:05 GMT | My Journey in Ethical Hacking: Completing "Introduction to Ethical Hacking" on Great Learning | Azka Sohail | [Read More](https://medium.com/p/007a16f4f00a) |
+| Fri, 05 Sep 2025 10:29:44 GMT | When Luxury Goes Silent: Inside the Devastating Jaguar Land Rover Cyber Siege | Redfox Security | [Read More](https://medium.com/p/4c8d3bc51445) |
+| Fri, 05 Sep 2025 10:21:12 GMT | Understanding the n8n Interface: A Step-by-Step Walkthrough | Rizqi Mulki | [Read More](https://medium.com/p/3684289d4845) |
 | Fri, 05 Sep 2025 10:18:28 GMT | Gouvernance | Dipa Traoré | [Read More](https://medium.com/p/273f4635a454) |
 | Fri, 05 Sep 2025 10:17:39 GMT | DSGVO-konformes A/B Testing: Praxisleitfaden für deutsche Unternehmen | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/91bd664a5f93) |
 | Fri, 05 Sep 2025 10:16:42 GMT | Cybersecurity Startup ‘NeuroShield’ Emerges from Stealth with $5M Seed Round | ailatestbyte | [Read More](https://medium.com/p/8caeff76d10e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 05:43:58 GMT | What is Application Security Testing & Why is it Important? | Qualysectechnologies | [Read More](https://medium.com/p/24fdb0b8a5f8) |
 | Fri, 05 Sep 2025 05:42:58 GMT | The Security Gap Most Companies Forget: Protecting Your Sensitive and Regulated Data from a Screen | Jason Sohn | [Read More](https://medium.com/p/8d890960f2fc) |
 | Fri, 05 Sep 2025 05:39:13 GMT | Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs | Monika sharma | [Read More](https://medium.com/p/ae3c3dbf462d) |
-| Fri, 05 Sep 2025 05:39:12 GMT | Why Drupal Remains the Quiet Powerhouse in Enterprise CMS | Drupart Digital | [Read More](https://medium.com/p/1886bbebed1f) |
-| Fri, 05 Sep 2025 05:38:56 GMT | Compliance Management Solutions by Palo Alto Networks Cortex Xpanse: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4bffa568b0cd) |
-| Fri, 05 Sep 2025 05:38:42 GMT | Learning SQL Injection Using Sqlmap and DVWA | Handhika Yanuar Pratama | [Read More](https://medium.com/p/97d72a2e5cf6) |
