@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 15:36:40 GMT | Subzy and the Case of the False Positive: Why Manual Validation Matters | Chris Christian | [Read More](https://medium.com/p/d420ab1e6e7f) |
+| Fri, 05 Sep 2025 15:34:06 GMT | The Future of Onchain Defense: My Vision With Drosera | H | [Read More](https://medium.com/p/86cf312df4cf) |
+| Fri, 05 Sep 2025 15:31:39 GMT | ️‍♂️ Zero-Knowledge Proofs: How to Prove Without Revealing Anything | CapitalCoin | [Read More](https://medium.com/p/9d28889e2d4e) |
+| Fri, 05 Sep 2025 15:30:01 GMT | Cracking Gandalf Level 6: Outsmarting Two Watchers | Kaylen Stuart | [Read More](https://medium.com/p/977e411f9cae) |
+| Fri, 05 Sep 2025 15:23:42 GMT | How Smart SMBs Use Trade-In Programs to Optimize Technology Investment and Cash Flow | the PhobioSapien | [Read More](https://medium.com/p/fa2ac30bd979) |
+| Fri, 05 Sep 2025 15:23:11 GMT | Penetration Testing Exposed: A Day in the Life of a Professional Hacker (For Good) | Shahzaib | [Read More](https://medium.com/p/a2295a0dcbaf) |
+| Fri, 05 Sep 2025 15:20:48 GMT | The Therapeutic Role of Adult Sex Dolls in Post-Divorce Life | realdollbuy | [Read More](https://medium.com/p/755707603fef) |
+| Fri, 05 Sep 2025 15:19:32 GMT | Cracking Gandalf Level 5: Peeking Behind the Curtain | Kaylen Stuart | [Read More](https://medium.com/p/bcd3b0effbcf) |
 | Fri, 05 Sep 2025 15:18:26 GMT | Recon: Brute-Force Directory and Files | Taulan Zauzanov | [Read More](https://medium.com/p/304fe3a3548a) |
 | Fri, 05 Sep 2025 15:11:43 GMT | Cracking Gandalf Level 4: Outsmarting the Censor | Kaylen Stuart | [Read More](https://medium.com/p/6579a27935aa) |
 | Fri, 05 Sep 2025 15:06:39 GMT | “Day 29: The Web Cache Deception Heist — How I Stole Private Data Without Breaking a Single… | Aman Sharma | [Read More](https://medium.com/p/276b8667a4cf) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 10:58:30 GMT | PromptLock: Meet the First AI-Powered Ransomware — And Why UK Businesses Should Be Worried | Alex Hughes | [Read More](https://medium.com/p/76edf32aa575) |
 | Fri, 05 Sep 2025 10:57:46 GMT | JWTs in Microservices: How to Rotate Keys and Invalidate Sessions Cleanly | Pallavi Shankar Sutar | [Read More](https://medium.com/p/db30c1110fd7) |
 | Fri, 05 Sep 2025 10:57:37 GMT | How to exploit? Docker Registry — PORT 5000 | Very Lazy Tech | [Read More](https://medium.com/p/7c8421168234) |
-| Fri, 05 Sep 2025 10:52:00 GMT | It’s Okay to Be Not Okay Sometimes(A reminder for all suffering souls) | Maria Arshad | [Read More](https://medium.com/p/4f44fe5f0245) |
-| Fri, 05 Sep 2025 10:50:46 GMT | Damn Vulnerable Raspberry Pi (DVRPi) | Victor Hanna | [Read More](https://medium.com/p/f6bd9be465de) |
-| Fri, 05 Sep 2025 10:47:26 GMT | Cyber Security Roadmap 2025: From Beginner to Advanced Professional | Maxon Codes | [Read More](https://medium.com/p/23f616084cc2) |
-| Fri, 05 Sep 2025 10:40:16 GMT | Burp Suite for Beginners — Your First Step into Web Hacking | Rashadul Islam | [Read More](https://medium.com/p/9a255feaa6e7) |
-| Fri, 05 Sep 2025 10:39:31 GMT | Your Secrets at Risk: The Hidden Truth Behind PDF Converters Like iLovePDF | Juan M. Vazquez | [Read More](https://medium.com/p/728c2ec8ca42) |
-| Fri, 05 Sep 2025 10:38:03 GMT | Why Ransomware Payments Are a Losing Game in 2025 ..And What to Do Instead | Bitdefenderppc | [Read More](https://medium.com/p/adfe25748ca5) |
-| Fri, 05 Sep 2025 10:34:05 GMT | My Journey in Ethical Hacking: Completing "Introduction to Ethical Hacking" on Great Learning | Azka Sohail | [Read More](https://medium.com/p/007a16f4f00a) |
-| Fri, 05 Sep 2025 10:29:44 GMT | When Luxury Goes Silent: Inside the Devastating Jaguar Land Rover Cyber Siege | Redfox Security | [Read More](https://medium.com/p/4c8d3bc51445) |
