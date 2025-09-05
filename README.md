@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 20:02:29 GMT | How i Pass SC-401 Certification Exam | Sam Watson | [Read More](https://medium.com/p/f6855b93c1b7) |
+| Fri, 05 Sep 2025 20:01:31 GMT | Console | RADIANT ROOTING | [Read More](https://medium.com/p/622d7684ce08) |
+| Fri, 05 Sep 2025 19:59:18 GMT | Does Microsoft Azure Support SAP Migration? Everything You Need to Know | Techridge Solutions | [Read More](https://medium.com/p/bf4016be041d) |
+| Fri, 05 Sep 2025 19:58:33 GMT | The Hidden Value of Application Support Experience in a Developer’s Career | Dagny Workman | [Read More](https://medium.com/p/810cfe9fdef7) |
+| Fri, 05 Sep 2025 19:56:44 GMT | Technological Risks of AI — The Invisible Fragility of Innovations | Alessandra Martins | [Read More](https://medium.com/p/9629d5275635) |
+| Fri, 05 Sep 2025 19:56:39 GMT | Configuring a Keystore for Android App Signing | Danford Jurvis | [Read More](https://medium.com/p/d759d699f18a) |
+| Fri, 05 Sep 2025 19:52:02 GMT | Evil Twin Wi-Fi Attacks: The Dangerous Doppelgänger of Your Network | Akshay Chauhan | [Read More](https://medium.com/p/fbab382f7b92) |
+| Fri, 05 Sep 2025 19:47:11 GMT | A quick guide to creating Docker containers for testing scripts, malware or honeypot purposes. | 4zer7y | [Read More](https://medium.com/p/44d160a7f075) |
+| Fri, 05 Sep 2025 19:45:22 GMT | Security Logging and Monitoring Failures (OWASP Top 10 #9) — Simplified | Chai | [Read More](https://medium.com/p/bef9cad1d063) |
+| Fri, 05 Sep 2025 19:40:48 GMT | LinkedIn OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/55e91e7c3d43) |
+| Fri, 05 Sep 2025 19:40:34 GMT | My Virtual HomeLab: Security — Part One | Cybersec with Hemmars | [Read More](https://medium.com/p/fda7a9f8efeb) |
+| Fri, 05 Sep 2025 19:38:10 GMT | PBO : Class & Object | Yasa Wijaya | [Read More](https://medium.com/p/8a7d8defef2b) |
+| Fri, 05 Sep 2025 19:35:00 GMT | MY DROSERA FUTURE | Midast | [Read More](https://medium.com/p/e0c283c800c9) |
+| Fri, 05 Sep 2025 19:31:04 GMT | The Identity Revolution: How UDNA Transforms Enterprise Communication from IP-Based to… | Aamir Hameed | [Read More](https://medium.com/p/de412476f0c2) |
 | Fri, 05 Sep 2025 19:29:19 GMT | The Myth of the “Unhackable” System: Lessons from Pen Tests | Aj | [Read More](https://medium.com/p/142c2d43a0ff) |
 | Fri, 05 Sep 2025 19:23:16 GMT | “spelling-quiz” Challenge | oussama | [Read More](https://medium.com/p/ed4deefe9e81) |
 | Fri, 05 Sep 2025 19:23:12 GMT | Bridging the Gap: Learning Cybersecurity From Books and Living Through Attacks | Shahzaib | [Read More](https://medium.com/p/fe4793b57066) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 15:11:43 GMT | Cracking Gandalf Level 4: Outsmarting the Censor | Kaylen Stuart | [Read More](https://medium.com/p/6579a27935aa) |
 | Fri, 05 Sep 2025 15:06:39 GMT | “Day 29: The Web Cache Deception Heist — How I Stole Private Data Without Breaking a Single… | Aman Sharma | [Read More](https://medium.com/p/276b8667a4cf) |
 | Fri, 05 Sep 2025 15:05:12 GMT | How to access a cell phone without anysuspiciousnotice? - where can I find a private investigator? | Donley Mark | [Read More](https://medium.com/p/038a1b3a2ec3) |
-| Fri, 05 Sep 2025 14:55:29 GMT | Hacking WordPress | Mohammed Hassan | [Read More](https://medium.com/p/6f25147fd3a9) |
-| Fri, 05 Sep 2025 14:54:46 GMT | Exploring picoCTF’s DISKO 1 Challenge | Zulfianarahmi | [Read More](https://medium.com/p/a6a747ea4756) |
-| Fri, 05 Sep 2025 14:51:07 GMT | Best VPN for Facebook: Unblock Facebook Anywhere in 2025 | rohan kumar | [Read More](https://medium.com/p/dc8a3ebecbe1) |
-| Fri, 05 Sep 2025 14:47:24 GMT | IT Support Horror Stories (And How to Avoid Them) | Paradise technologies Inc | [Read More](https://medium.com/p/6fdc31c76bb6) |
-| Fri, 05 Sep 2025 14:42:34 GMT | Flag Command - HTB Walkthrough | Simi | [Read More](https://medium.com/p/0554d60632e2) |
-| Fri, 05 Sep 2025 14:40:19 GMT | Writers and Editors — Check Your Paywall Settings | Susan Brearley | [Read More](https://medium.com/p/509d495dbea3) |
-| Fri, 05 Sep 2025 14:36:05 GMT | Transformation in Security and Efficiency: From Reentrancy to Diamond Proxy | Vinu Digital | [Read More](https://medium.com/p/ef262e93bbbf) |
-| Fri, 05 Sep 2025 14:34:31 GMT | Encrypted Shells with Socat | 0xcy | [Read More](https://medium.com/p/8105f1295b24) |
-| Fri, 05 Sep 2025 14:32:05 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Blackbox | [Read More](https://medium.com/p/29b8c9686d9b) |
-| Fri, 05 Sep 2025 14:28:17 GMT | How Agentic AI Is Transforming Phishing Tactics | Ai Writter Tools | [Read More](https://medium.com/p/b3df9f186f5a) |
-| Fri, 05 Sep 2025 14:27:46 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/e4e03df05d61) |
-| Fri, 05 Sep 2025 14:23:00 GMT | I Automated My Recon and Found More Critical Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/2346c951fdf6) |
-| Fri, 05 Sep 2025 14:22:03 GMT | Strengthening Cybersecurity With Proactive Risk Audits | Ai Writter Tools | [Read More](https://medium.com/p/7345ee945f3f) |
-| Fri, 05 Sep 2025 14:21:12 GMT | From Sendmail Debug to TLS: How Morris Worm Shaped Modern Protocol Security | Paul Duplys | [Read More](https://medium.com/p/e7e7d1aae71e) |
