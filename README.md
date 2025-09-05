@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 12:35:15 GMT | New Exploit — Phishing made EASY | Ethan Stewart | [Read More](https://medium.com/p/e2478190ab51) |
+| Fri, 05 Sep 2025 12:33:34 GMT | So what is a “hacker” anyway? | David Barrineau | [Read More](https://medium.com/p/affa15572271) |
+| Fri, 05 Sep 2025 12:26:34 GMT | How I Secured a Massive Codebase Automatically From Hackers Every Single Day | Deepak Arora | [Read More](https://medium.com/p/35a2cec37ba7) |
+| Fri, 05 Sep 2025 12:21:27 GMT | HackTheBox: Outbound (Easy) — Walkthrough | Binary Exploiter | [Read More](https://medium.com/p/03d954694087) |
+| Fri, 05 Sep 2025 12:09:38 GMT | 5 Ways Commercial Security Guards Protect Your Workplace | Eagleeyepro | [Read More](https://medium.com/p/dcd11b739b1f) |
+| Fri, 05 Sep 2025 12:05:53 GMT | Addressing Security in Docker: Common Vulnerabilities and Fixes | @rnab | [Read More](https://medium.com/p/3325f1a934ad) |
+| Fri, 05 Sep 2025 12:05:32 GMT | Top 10 Secure Hosting Providers for Wellness Seminars | Priya Singh | [Read More](https://medium.com/p/6e882cacfc4e) |
+| Fri, 05 Sep 2025 12:00:14 GMT | ⚠️ Data Doesn’t Get Stolen Anymore — It Gets Weaponised | Omex Oleksandr | [Read More](https://medium.com/p/312a800188b6) |
+| Fri, 05 Sep 2025 11:59:27 GMT | SVG Files Turned into Phishing Weapons: Virus Total Flags 44 Undetected Cases | Jasmitharouthu | [Read More](https://medium.com/p/3e958cad1809) |
+| Fri, 05 Sep 2025 11:48:36 GMT | How Can Security and Privacy by Design Services Reduce Business Risks? | Ziya Zoe | [Read More](https://medium.com/p/328b15e3ced6) |
+| Fri, 05 Sep 2025 11:45:21 GMT | Active KEV Additions and Espionage Operations Define the Week | Loginsoft | [Read More](https://medium.com/p/ddd0ac8113e9) |
+| Fri, 05 Sep 2025 11:45:16 GMT | Common Automation Challenges and Mistakes (and How the Future Looks) | Ron | [Read More](https://medium.com/p/4e8e1f4d15d7) |
+| Fri, 05 Sep 2025 11:43:02 GMT | The Best Free Hiring & Job Posting Platforms in 2025 | Rahman | [Read More](https://medium.com/p/09a8ea27362f) |
+| Fri, 05 Sep 2025 11:38:33 GMT | Why More Businesses Are Moving to Microsoft Sentinel for Security | Affinitysmartituk | [Read More](https://medium.com/p/ef178198732e) |
+| Fri, 05 Sep 2025 11:35:55 GMT | New NightshadeC2 Botnet Exploits UAC Prompt Bombing to Evade Windows Defender | Jasmitharouthu | [Read More](https://medium.com/p/2e47b8c9e0b1) |
+| Fri, 05 Sep 2025 11:35:47 GMT | Solving the Challenge: A walkthrough to Sophia Santos’ #032 OSINT Exercise | Mohamed H. Ahmed (mh6168) | [Read More](https://medium.com/p/4c1ef097bf09) |
+| Fri, 05 Sep 2025 11:33:50 GMT | BPBPMClient Review: Safe Browsing & Secure Banking Tools Included | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/30f086dc1ffd) |
 | Fri, 05 Sep 2025 11:32:23 GMT | Redirector OSINT: The Fastest Way to Launch URL Redirection & Intelligence Collection | Omri Beladev | [Read More](https://medium.com/p/c1ea2948809e) |
 | Fri, 05 Sep 2025 11:31:39 GMT | SSRF (Server-Side Request Forgery) Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/c48f29053cf1) |
 | Fri, 05 Sep 2025 11:28:34 GMT | Emerging Malware Trends: Navigating the Shifting Threat Landscape | Sammcmullen | [Read More](https://medium.com/p/9b76d4107e58) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 08:01:37 GMT | Monitor Your Domain For Leaked Credentials 24/7 | Alexandre Vandamme | [Read More](https://medium.com/p/102e41a2baf2) |
 | Fri, 05 Sep 2025 07:58:35 GMT | Day 8 of MCP Security: Secrets in Context — Managing Secrets and Tokens in MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/41b4ad3d61fe) |
 | Fri, 05 Sep 2025 07:42:13 GMT | Jobs In Delhi NCR, India | Gaurav Kumar | [Read More](https://medium.com/p/6939a3eaa27a) |
-| Fri, 05 Sep 2025 07:40:08 GMT | AI for Blue Teams: Automating Triage, Threat Hunting, and Purple Team Drills | Fady Azzi | [Read More](https://medium.com/p/9aeb5dba4cc0) |
-| Fri, 05 Sep 2025 07:38:18 GMT | AI LLM vs. Cyber Security: Strategies to Defend Against LLM-Assisted Breaches | Fady Azzi | [Read More](https://medium.com/p/8eee6b3a8d34) |
-| Fri, 05 Sep 2025 07:36:03 GMT | How API Security Testing Improves Compliance and Protects Customer Data | Dmvikash | [Read More](https://medium.com/p/460358aa752b) |
-| Fri, 05 Sep 2025 07:32:26 GMT | Top 10 Reasons Your Business Needs VAPT Testing in 2025 | Qualysec | [Read More](https://medium.com/p/2c391ac0f0b3) |
-| Fri, 05 Sep 2025 07:30:39 GMT | PhishNet : Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/6bbe994a390a) |
-| Fri, 05 Sep 2025 07:27:43 GMT | How to Escape the ChatGPT Echo Chamber ? | eSecForte Technologies | [Read More](https://medium.com/p/2c83488baf7a) |
-| Fri, 05 Sep 2025 07:25:23 GMT | Shifting Left in Infrastructure Security for Cloud-Native Teams | Spacelift | [Read More](https://medium.com/p/018b02f10ab3) |
-| Fri, 05 Sep 2025 07:25:09 GMT | How Hackers Can Expose Your Online Banking Account - HackTheBox NeoVault Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/7f624e064087) |
-| Fri, 05 Sep 2025 07:23:32 GMT | Consulting, Culture, and Community in Cybersecurity: A Conversation with Jamiu Akande | cybergriotz | [Read More](https://medium.com/p/21ec08866f62) |
-| Fri, 05 Sep 2025 07:23:20 GMT | Step-by-Step Guide: Securing and Testing Your Website with SafeLine WAF | Quella | [Read More](https://medium.com/p/92ff210d37a9) |
-| Fri, 05 Sep 2025 07:21:49 GMT | Qilin Ransomware: How a Mythical Beast Became the World’s Most Dangerous Cyber Threat | Jagan Raj Raviraja | [Read More](https://medium.com/p/e174ccd4970d) |
-| Fri, 05 Sep 2025 07:21:39 GMT | Vulnerability Hunting in IoT Devices: Router and Camera Examples | Esra Kayhan | [Read More](https://medium.com/p/da03544d3649) |
-| Fri, 05 Sep 2025 07:21:35 GMT | End-to-End Encryption vs. Traditional Security Models in Password Management | Password Manager | [Read More](https://medium.com/p/d7bfdcab937f) |
-| Fri, 05 Sep 2025 07:19:48 GMT | Start Testing for This Bug and watch Your Bug Bounty Resu | Jeosantos | [Read More](https://medium.com/p/091602b301b5) |
-| Fri, 05 Sep 2025 07:19:04 GMT | Ağ İzleme Protokollerini Anlamak: SNMP’den PRTG’ye Pratik Rehber | kaanvardar | [Read More](https://medium.com/p/7a333a8dd775) |
-| Fri, 05 Sep 2025 07:16:07 GMT | Micro-CMS v2 | Dasmanish | [Read More](https://medium.com/p/2458f5e5a470) |
-| Fri, 05 Sep 2025 07:13:08 GMT | Cyber Security Classes with Certification — Enroll Now | Pravin Choudhary | [Read More](https://medium.com/p/63676183c3cc) |
