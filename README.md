@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 04:15:09 GMT | Cloudbric Services Progress Report (8/1 ~ 8/31) | Cloudbric | [Read More](https://medium.com/p/d57ffc28791e) |
+| Fri, 05 Sep 2025 04:11:36 GMT | TryHackMe #13 - Linux Fundamentals Part 1 | 0xGroot | [Read More](https://medium.com/p/b3bfc4d1a76c) |
+| Fri, 05 Sep 2025 04:05:53 GMT | Secrets Management in Docker: Techniques and Tools | @rnab | [Read More](https://medium.com/p/e5ff350f7440) |
+| Fri, 05 Sep 2025 04:01:42 GMT | The Importance of VAPT: Why Every Business Needs It (2025 Guide) | Secventra | [Read More](https://medium.com/p/24399b6ccdea) |
+| Fri, 05 Sep 2025 03:43:55 GMT | How AI Is Transforming Everyday Life in 2025 | Nilesh Solanki | [Read More](https://medium.com/p/ffedd49d6e34) |
+| Fri, 05 Sep 2025 03:40:15 GMT | When My Smart Home Turned Against Me | Shahzaib | [Read More](https://medium.com/p/c38737c7235d) |
+| Fri, 05 Sep 2025 03:40:14 GMT | Top Tools for White-Box Penetration Testing: A Comprehensive Guide | Sheikh Ayan | [Read More](https://medium.com/p/7f76cdcfecbe) |
+| Fri, 05 Sep 2025 03:35:26 GMT | The “Invisible Costs” of Breaches OEMs Want CISOs to Know | Dr. Deep Pandey | [Read More](https://medium.com/p/7015b3ef777b) |
+| Fri, 05 Sep 2025 03:31:38 GMT | Storm-2603: How a Rising Threat Actor Uses Custom Malware and BYOVD to Deliver Ransomware | Deven Chhajed | [Read More](https://medium.com/p/ac1840ef4237) |
+| Fri, 05 Sep 2025 03:31:20 GMT | Python + OpenAI API: Automating IOC Enrichment and Threat Hunting | Paritosh | [Read More](https://medium.com/p/3f8b1b90b244) |
 | Fri, 05 Sep 2025 03:29:47 GMT | SafeLine WAF: The Open-Source Firewall Powering 300K+ Deployments | Quella | [Read More](https://medium.com/p/f947e5d83c81) |
+| Fri, 05 Sep 2025 03:24:02 GMT | Topic 9: Choosing Your LLM Deployment Wisely: Strategic Security Considerations for Different… | Scott Huang | [Read More](https://medium.com/p/3f69cc591a50) |
 | Fri, 05 Sep 2025 03:23:30 GMT | 7 Hidden Security Risks in Caching That No One Warns You About | Diya Satpute | [Read More](https://medium.com/p/2593cafed5d1) |
 | Fri, 05 Sep 2025 03:20:40 GMT | Implementing Secure Authentication and Access Control | Jon Wick | [Read More](https://medium.com/p/ca85d75ee52d) |
 | Fri, 05 Sep 2025 03:17:08 GMT | A secure network architecture is one of the most effective defenses against cyber threats. | Jon Wick | [Read More](https://medium.com/p/e8f80e9dae8b) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 20:02:28 GMT | Why I Started Learning Cybersecurity by Lumae Tech | Lumae | [Read More](https://medium.com/p/21da9d53ff8e) |
 | Thu, 04 Sep 2025 19:56:18 GMT | Hackhalt — Community | Anonymous | [Read More](https://medium.com/p/9daaf8c11c6d) |
 | Thu, 04 Sep 2025 19:40:48 GMT | The Highway Heist: Exposing The E-ZPass Mobile Phishing Scheme | Tijan Hydara | [Read More](https://medium.com/p/b72c8ba7176c) |
-| Thu, 04 Sep 2025 19:37:23 GMT | The Hidden Dangers of Networked Risk: A Graph Theory Approach to Systemic Vulnerability | Patrick Lefler | [Read More](https://medium.com/p/7b744da70e48) |
-| Thu, 04 Sep 2025 19:33:45 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/cc7fb76f2224) |
-| Thu, 04 Sep 2025 19:33:37 GMT | HTB Walkthrough / Pentest Report: Strutted ️ | Mkirahmet | [Read More](https://medium.com/p/3e41f62011ec) |
-| Thu, 04 Sep 2025 19:27:24 GMT | Evil-GPT v2: TryHackMe Write-Up | Farhad Anwari | [Read More](https://medium.com/p/aae4bab967f3) |
-| Thu, 04 Sep 2025 19:26:58 GMT | # Tesla Pasif Anahtarsız Giriş ve Telefon-Anahtar Güvenliği: Güvenlik Açıkları, Saldırılar ve… | Burak BALTA | [Read More](https://medium.com/p/1b0093271a6f) |
-| Thu, 04 Sep 2025 19:26:47 GMT | # IMSI 
-## Özet | Burak BALTA | [Read More](https://medium.com/p/be5b3b9a6b56) |
-| Thu, 04 Sep 2025 19:26:35 GMT | # KEC Card Access Devices | Burak BALTA | [Read More](https://medium.com/p/7da4c08511be) |
-| Thu, 04 Sep 2025 19:26:30 GMT | Cracking the Vault: The $44M CoinDCX Breach | NineTales | [Read More](https://medium.com/p/9c792c656e7c) |
-| Thu, 04 Sep 2025 19:23:23 GMT | Critical Signals: When the Shield Becomes the Sword | David C. Anderson - Cybersecurity & AI Risk | [Read More](https://medium.com/p/c3578c3efdfc) |
-| Thu, 04 Sep 2025 19:20:29 GMT | Learning PowerShell Basics | echoVoid | [Read More](https://medium.com/p/bf438b1cde86) |
-| Thu, 04 Sep 2025 19:15:04 GMT | Importance of Cyber Insurance: A Safety Net for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/a8df866f758d) |
