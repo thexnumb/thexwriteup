@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 18:39:12 GMT | The Linux Security Journey — Hardened User Copy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f637f2eca69e) |
+| Fri, 05 Sep 2025 18:36:51 GMT | Family Cybersecurity Jurisprudence: A Revolutionary Vision for the Digital Age | Bourkibate Abdessamad | [Read More](https://medium.com/p/2e55f98d9607) |
+| Fri, 05 Sep 2025 18:32:47 GMT | CERT-In’s New Cybersecurity Mandate for MSMEs (Sept 2025) | Sairaj Mahesh | [Read More](https://medium.com/p/cbff8a6a6eb2) |
+| Fri, 05 Sep 2025 18:31:03 GMT | White Label SOC Services: Expanding Cybersecurity Without Extra Overhead | SafeAeon Inc. | [Read More](https://medium.com/p/fa4a5cd127c5) |
+| Fri, 05 Sep 2025 18:30:59 GMT | HTB Sherlocks — PhishNet Writeup | JLBSec | [Read More](https://medium.com/p/f933b0438d48) |
+| Fri, 05 Sep 2025 18:27:29 GMT | AI Cyber Attacks Are Already Here: What You Need to Know | Cyberkech | [Read More](https://medium.com/p/a4502b3c42ef) |
 | Fri, 05 Sep 2025 18:24:04 GMT | Building a Local Clipboard Logger: A Python Project for Educational Cybersecurity | Kawalostwal | [Read More](https://medium.com/p/9d611f46898d) |
+| Fri, 05 Sep 2025 18:23:24 GMT | Day 17: Apache vs Nginx → Understanding Web Servers | Prutha_Dongre | [Read More](https://medium.com/p/298caee070d8) |
 | Fri, 05 Sep 2025 18:22:38 GMT | How I Found an IDOR Vulnerability in public bug bounty program of bugcrowd and What You Can Learn… | Be nice insabat | [Read More](https://medium.com/p/a1cd3ae2d326) |
 | Fri, 05 Sep 2025 18:17:44 GMT | MSSP Cybersecurity Partnership: Why Businesses Gain More with Managed Security | SafeAeon Inc. | [Read More](https://medium.com/p/2af60b915853) |
 | Fri, 05 Sep 2025 18:14:23 GMT | Why Bad Writing Is Actually Necessary for Good Writing | Global Whirl of Wonders | [Read More](https://medium.com/p/e7afb78ad0c3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 14:01:49 GMT | Cyberattacks Don’t Care About Your Size | Heatena | [Read More](https://medium.com/p/a386ec0dc734) |
 | Fri, 05 Sep 2025 14:01:27 GMT | LLMs Unlocked: How Assigning a Role “Jailbreaks” AI Safeguards | Mahesh Khanna | [Read More](https://medium.com/p/a1660def03e6) |
 | Fri, 05 Sep 2025 13:57:16 GMT | Building prvly.de: How Zero-Knowledge Encryption Powers Secure Short Links | dho | [Read More](https://medium.com/p/20be676a4787) |
-| Fri, 05 Sep 2025 13:57:10 GMT | NFS (Network File System) Service Exploitation : When File Shares Become Fort Knox Keys | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/47d153150553) |
-| Fri, 05 Sep 2025 13:56:16 GMT | Surviving the Nightmare: My Biohazard CTF Adventure | Adwaith S | [Read More](https://medium.com/p/e9e5d4ff13e2) |
-| Fri, 05 Sep 2025 13:55:33 GMT | Real-Time Security That Actually Works: 5 Platforms Ending the Era of Slow Scans | Iliya Garakh | [Read More](https://medium.com/p/e17860fa5177) |
-| Fri, 05 Sep 2025 13:55:06 GMT | OWSAP TOP 10 Vulnerabilities | Thushan Madusanka | [Read More](https://medium.com/p/232c4ef6c4c5) |
-| Fri, 05 Sep 2025 13:53:17 GMT | How Micro-Influencers Are Changing the Game for Brands | Princely B | [Read More](https://medium.com/p/8a45b2219f22) |
-| Fri, 05 Sep 2025 13:47:57 GMT | How Indian Companies Can Stop Phishing & BEC Scams: 5 Proven Email Security Tactics | Aavart Shukla | [Read More](https://medium.com/p/5de3e8101e1b) |
-| Fri, 05 Sep 2025 13:37:15 GMT | Email Security in India: The Silent Cyber Threat Every Business Must Face | Aavart Shukla | [Read More](https://medium.com/p/ff83d40737df) |
