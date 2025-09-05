@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 09:36:35 GMT | The AI Loophole: Bypassing X’s Malvertising Protections with Grok | Ashley Dai | [Read More](https://medium.com/p/77effac87ca0) |
+| Fri, 05 Sep 2025 09:36:02 GMT | Building Secure, Fast Web Apps That Scale (Without Burning Out) | Rizqi Mulki | [Read More](https://medium.com/p/5802afbf289e) |
+| Fri, 05 Sep 2025 09:18:39 GMT | 16 Best Law Firms for Data Protection, Privacy, and Security | Hansen Tong | [Read More](https://medium.com/p/d71afa98560b) |
+| Fri, 05 Sep 2025 09:18:20 GMT | ️‍♂️ Hide and Seek — TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/88b7b5089966) |
 | Fri, 05 Sep 2025 09:12:46 GMT | 9 Silent Mistakes Killing Your Flutter App | Chirag Prajapati | [Read More](https://medium.com/p/3b1da1937b30) |
 | Fri, 05 Sep 2025 09:07:32 GMT | DockerLabs Writeup — Collections (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/389b512f44a1) |
 | Fri, 05 Sep 2025 09:01:33 GMT | OAuth 2.0 — Simply Explained | Amruta Parab | [Read More](https://medium.com/p/bf0129e111b1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 04:05:53 GMT | Secrets Management in Docker: Techniques and Tools | @rnab | [Read More](https://medium.com/p/e5ff350f7440) |
 | Fri, 05 Sep 2025 04:01:42 GMT | The Importance of VAPT: Why Every Business Needs It (2025 Guide) | Secventra | [Read More](https://medium.com/p/24399b6ccdea) |
 | Fri, 05 Sep 2025 03:43:55 GMT | How AI Is Transforming Everyday Life in 2025 | Nilesh Solanki | [Read More](https://medium.com/p/ffedd49d6e34) |
-| Fri, 05 Sep 2025 03:40:15 GMT | When My Smart Home Turned Against Me | Shahzaib | [Read More](https://medium.com/p/c38737c7235d) |
-| Fri, 05 Sep 2025 03:40:14 GMT | Top Tools for White-Box Penetration Testing: A Comprehensive Guide | Sheikh Ayan | [Read More](https://medium.com/p/7f76cdcfecbe) |
-| Fri, 05 Sep 2025 03:35:26 GMT | The “Invisible Costs” of Breaches OEMs Want CISOs to Know | Dr. Deep Pandey | [Read More](https://medium.com/p/7015b3ef777b) |
-| Fri, 05 Sep 2025 03:31:38 GMT | Storm-2603: How a Rising Threat Actor Uses Custom Malware and BYOVD to Deliver Ransomware | Deven Chhajed | [Read More](https://medium.com/p/ac1840ef4237) |
