@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 14:34:31 GMT | Encrypted Shells with Socat | 0xcy | [Read More](https://medium.com/p/8105f1295b24) |
+| Fri, 05 Sep 2025 14:28:17 GMT | How Agentic AI Is Transforming Phishing Tactics | Ai Writter Tools | [Read More](https://medium.com/p/b3df9f186f5a) |
+| Fri, 05 Sep 2025 14:27:46 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/e4e03df05d61) |
+| Fri, 05 Sep 2025 14:23:00 GMT | I Automated My Recon and Found More Critical Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/2346c951fdf6) |
+| Fri, 05 Sep 2025 14:22:03 GMT | Strengthening Cybersecurity With Proactive Risk Audits | Ai Writter Tools | [Read More](https://medium.com/p/7345ee945f3f) |
+| Fri, 05 Sep 2025 14:21:12 GMT | From Sendmail Debug to TLS: How Morris Worm Shaped Modern Protocol Security | Paul Duplys | [Read More](https://medium.com/p/e7e7d1aae71e) |
+| Fri, 05 Sep 2025 14:19:34 GMT | Inside the Cybercrime Ecosystem – Unmasking the Invisible War | David SEHYEON Baek | [Read More](https://medium.com/p/2c00fc5d96f7) |
+| Fri, 05 Sep 2025 14:13:31 GMT | BackDoor-51 | Deep Specter Research | [Read More](https://medium.com/p/ea11cd46ae68) |
 | Fri, 05 Sep 2025 14:13:28 GMT | The War We Didn’t Choose – How Cyber Threats Became Everyone’s Problem | David SEHYEON Baek | [Read More](https://medium.com/p/77a9568e99b4) |
 | Fri, 05 Sep 2025 14:13:27 GMT | My AZ-500 Certification Journey: How I Mastered Microsoft Azure Security in 2025 | Aavart Shukla | [Read More](https://medium.com/p/0c3a021858cc) |
 | Fri, 05 Sep 2025 14:05:50 GMT | The Allure of Realism: Why Singles Are Embracing Lifelike Sex Dolls | First Dolls | [Read More](https://medium.com/p/48fab63cd12c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 10:10:58 GMT | How to Install n8n on Your Computer in Under 10 Minutes | Rizqi Mulki | [Read More](https://medium.com/p/edd9b2893802) |
 | Fri, 05 Sep 2025 10:07:51 GMT | The Future of DeFi Security: Why Drosera Sits at the Center | Moses Joel | [Read More](https://medium.com/p/e149c0c18976) |
 | Fri, 05 Sep 2025 10:05:42 GMT | The Perfect Pair: Combining mTLS and RBAC for Bulletproof OpenSearch Security | AparnaBejugam | [Read More](https://medium.com/p/d3c7b1b76484) |
-| Fri, 05 Sep 2025 10:04:05 GMT | Reverse Engineering AI Skills Strategies: What Infoblox Can Teach Other B2B Tech Leaders | Paula Nwadiaro | [Read More](https://medium.com/p/91cacc21ba0b) |
-| Fri, 05 Sep 2025 10:02:39 GMT | AI for Cyber Security vs. AI Security | Harnoor Kaur | [Read More](https://medium.com/p/3a054c6a6695) |
-| Fri, 05 Sep 2025 10:01:04 GMT | Why Drosera Network matters in the crypto space | Chinonsovictor | [Read More](https://medium.com/p/cb937d73fe29) |
-| Fri, 05 Sep 2025 09:56:05 GMT | What Is n8n? A Beginner’s Guide to Open-Source Automation | Rizqi Mulki | [Read More](https://medium.com/p/25cf7c877431) |
-| Fri, 05 Sep 2025 09:54:02 GMT | The Evolution of Online Identity Verification: From Passwords to Biometrics in 15 Minutes | Jacky Liu | [Read More](https://medium.com/p/52ae32787a12) |
-| Fri, 05 Sep 2025 09:51:22 GMT | Hyperscale & Reliable Managed Data Center Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/8e67a24355e8) |
-| Fri, 05 Sep 2025 09:47:46 GMT | Internal Bleeding @ Cloudflare | IsaacFabianK | [Read More](https://medium.com/p/3165ec7591c9) |
-| Fri, 05 Sep 2025 09:47:30 GMT | The programmable responsiveness of Drosera. | Cybertank | [Read More](https://medium.com/p/7c044731d656) |
