@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 13:37:15 GMT | Email Security in India: The Silent Cyber Threat Every Business Must Face | Aavart Shukla | [Read More](https://medium.com/p/ff83d40737df) |
+| Fri, 05 Sep 2025 13:31:40 GMT | School Security and Safety Online with SentryPC: Protecting Students in the Digital Age | Paul Meyer | [Read More](https://medium.com/p/44e24a8169b3) |
+| Fri, 05 Sep 2025 13:27:00 GMT | AI SecOps for LLMs: Key Concepts and Practices | Axle Bucamp | [Read More](https://medium.com/p/4c14c38f2702) |
+| Fri, 05 Sep 2025 13:24:58 GMT | OTP bypass via logic flaw | Mohamed Abdelmoatie | [Read More](https://medium.com/p/8a5c96f84fab) |
+| Fri, 05 Sep 2025 13:23:02 GMT | Maximizing ROI with Strategic Cloud Adoption | IPSpecialist | [Read More](https://medium.com/p/3d186f702f0e) |
 | Fri, 05 Sep 2025 13:21:30 GMT | Dank Dispatch #0044 — Ethereum Malware, DeFi Exploits, and the Battle Between Narrative and Trust | Daniel (dank) Karpienia | [Read More](https://medium.com/p/052559145589) |
 | Fri, 05 Sep 2025 13:17:05 GMT | Compliance with regulations in the Mobile App Security domain for FI and FinTechs | Talsec | [Read More](https://medium.com/p/e4017ad28632) |
 | Fri, 05 Sep 2025 13:14:35 GMT | What If Uber Crashes? The Critical Role of Mobile Testing in Agile Teams | Poorvi Arora | [Read More](https://medium.com/p/eaa4c23ed079) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 08:49:21 GMT | Analyzing a .NET Shellcode Runner | Sethuraman | [Read More](https://medium.com/p/4c851c1dad69) |
 | Fri, 05 Sep 2025 08:48:16 GMT | Bridging the Gap Between Vulnerability Scanning and Remediation | Abdullateef Hameed | [Read More](https://medium.com/p/15e511790c6b) |
 | Fri, 05 Sep 2025 08:40:35 GMT | OIDC Under the Hood: How Pipelines Really Authenticate to AWS (GitLab Example) | Vijay Mourya | [Read More](https://medium.com/p/891bac8a80b3) |
-| Fri, 05 Sep 2025 08:37:55 GMT | ประจำวันศุกร์ที่ 5 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/70eda2093c37) |
-| Fri, 05 Sep 2025 08:36:46 GMT | Buscador de maquinas - Script en Bash (htbmachines.sh) | FN8 | [Read More](https://medium.com/p/8160ade15a76) |
-| Fri, 05 Sep 2025 08:33:59 GMT | MystRodX Uses DNS and ICMP for Stealthy Data Theft | SCtoCS | [Read More](https://medium.com/p/b87bac3d8cb9) |
-| Fri, 05 Sep 2025 08:32:23 GMT | When GuardDuty Flags Windows Update Traffic: A Case Study in a DNS False Positive | Daniel | [Read More](https://medium.com/p/30836fd43ee9) |
-| Fri, 05 Sep 2025 08:30:17 GMT | The IT Skills Gap: 3 Areas Where Demand Explodes in 2025 | R A N A   A H M A D | [Read More](https://medium.com/p/08c6a68fa57a) |
