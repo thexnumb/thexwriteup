@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 09:12:46 GMT | 9 Silent Mistakes Killing Your Flutter App | Chirag Prajapati | [Read More](https://medium.com/p/3b1da1937b30) |
+| Fri, 05 Sep 2025 09:07:32 GMT | DockerLabs Writeup — Collections (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/389b512f44a1) |
+| Fri, 05 Sep 2025 09:01:33 GMT | OAuth 2.0 — Simply Explained | Amruta Parab | [Read More](https://medium.com/p/bf0129e111b1) |
+| Fri, 05 Sep 2025 08:53:37 GMT | You Got Hacked | Rohi_theMaker | [Read More](https://medium.com/p/38110ca05cc8) |
+| Fri, 05 Sep 2025 08:52:24 GMT | Grok’s Gone Rogue: When AI Turns to the Dark Side | Truspex | [Read More](https://medium.com/p/17c4d539865d) |
+| Fri, 05 Sep 2025 08:49:21 GMT | Analyzing a .NET Shellcode Runner | Sethuraman | [Read More](https://medium.com/p/4c851c1dad69) |
+| Fri, 05 Sep 2025 08:48:16 GMT | Bridging the Gap Between Vulnerability Scanning and Remediation | Abdullateef Hameed | [Read More](https://medium.com/p/15e511790c6b) |
 | Fri, 05 Sep 2025 08:40:35 GMT | OIDC Under the Hood: How Pipelines Really Authenticate to AWS (GitLab Example) | Vijay Mourya | [Read More](https://medium.com/p/891bac8a80b3) |
+| Fri, 05 Sep 2025 08:37:55 GMT | ประจำวันศุกร์ที่ 5 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/70eda2093c37) |
+| Fri, 05 Sep 2025 08:36:46 GMT | Buscador de maquinas - Script en Bash (htbmachines.sh) | FN8 | [Read More](https://medium.com/p/8160ade15a76) |
+| Fri, 05 Sep 2025 08:33:59 GMT | MystRodX Uses DNS and ICMP for Stealthy Data Theft | SCtoCS | [Read More](https://medium.com/p/b87bac3d8cb9) |
 | Fri, 05 Sep 2025 08:32:23 GMT | When GuardDuty Flags Windows Update Traffic: A Case Study in a DNS False Positive | Daniel | [Read More](https://medium.com/p/30836fd43ee9) |
 | Fri, 05 Sep 2025 08:30:17 GMT | The IT Skills Gap: 3 Areas Where Demand Explodes in 2025 | R A N A   A H M A D | [Read More](https://medium.com/p/08c6a68fa57a) |
 | Fri, 05 Sep 2025 08:28:15 GMT | Phishing Campaign Hid for 3 Years Using Google Cloud and Cloudflare | SCtoCS | [Read More](https://medium.com/p/0841a4bcead4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 03:40:14 GMT | Top Tools for White-Box Penetration Testing: A Comprehensive Guide | Sheikh Ayan | [Read More](https://medium.com/p/7f76cdcfecbe) |
 | Fri, 05 Sep 2025 03:35:26 GMT | The “Invisible Costs” of Breaches OEMs Want CISOs to Know | Dr. Deep Pandey | [Read More](https://medium.com/p/7015b3ef777b) |
 | Fri, 05 Sep 2025 03:31:38 GMT | Storm-2603: How a Rising Threat Actor Uses Custom Malware and BYOVD to Deliver Ransomware | Deven Chhajed | [Read More](https://medium.com/p/ac1840ef4237) |
-| Fri, 05 Sep 2025 03:31:20 GMT | Python + OpenAI API: Automating IOC Enrichment and Threat Hunting | Paritosh | [Read More](https://medium.com/p/3f8b1b90b244) |
-| Fri, 05 Sep 2025 03:29:47 GMT | SafeLine WAF: The Open-Source Firewall Powering 300K+ Deployments | Quella | [Read More](https://medium.com/p/f947e5d83c81) |
-| Fri, 05 Sep 2025 03:24:02 GMT | Topic 9: Choosing Your LLM Deployment Wisely: Strategic Security Considerations for Different… | Scott Huang | [Read More](https://medium.com/p/3f69cc591a50) |
-| Fri, 05 Sep 2025 03:23:30 GMT | 7 Hidden Security Risks in Caching That No One Warns You About | Diya Satpute | [Read More](https://medium.com/p/2593cafed5d1) |
-| Fri, 05 Sep 2025 03:20:40 GMT | Implementing Secure Authentication and Access Control | Jon Wick | [Read More](https://medium.com/p/ca85d75ee52d) |
-| Fri, 05 Sep 2025 03:17:08 GMT | A secure network architecture is one of the most effective defenses against cyber threats. | Jon Wick | [Read More](https://medium.com/p/e8f80e9dae8b) |
-| Fri, 05 Sep 2025 03:12:57 GMT | How North Korea Launders Billions Through Crypto — and How We Can Stop Them | Denys Deputatov | [Read More](https://medium.com/p/3105c56339e5) |
-| Fri, 05 Sep 2025 03:12:20 GMT | Walkthrough for Gandalf AI L5-L7 | N8 | [Read More](https://medium.com/p/bfd62196f0b9) |
-| Fri, 05 Sep 2025 03:11:03 GMT | One Click Away From Disaster | Aj | [Read More](https://medium.com/p/01db5b684851) |
-| Fri, 05 Sep 2025 03:01:43 GMT | How I Lost Productivity Learning Productivity | Jennie Kim | [Read More](https://medium.com/p/f3eb485ac4f5) |
