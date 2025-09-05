@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 22:59:43 GMT | Incident Response and Cybersecurity Culture – Building Resilience Through International Frameworks | David SEHYEON Baek | [Read More](https://medium.com/p/a4ba07733249) |
+| Fri, 05 Sep 2025 22:49:26 GMT | How I Found Broken Access Control -Then I Stopped Hunting | Umanhonlen Gabriel | [Read More](https://medium.com/p/a48187e8702a) |
+| Fri, 05 Sep 2025 22:49:14 GMT | Protect the Lifeblood, Your Data | David SEHYEON Baek | [Read More](https://medium.com/p/81d0d3421ced) |
+| Fri, 05 Sep 2025 22:45:46 GMT | Packing/Unpacking in Malware Analysis and Scanners | Chris Zhang | [Read More](https://medium.com/p/d9b62cd8aeb5) |
+| Fri, 05 Sep 2025 22:40:37 GMT | WICYS Target Defense Challenge 2025 — Tier 1 | Devanshi Chavda | [Read More](https://medium.com/p/bf3fd32a3bf9) |
+| Fri, 05 Sep 2025 22:39:15 GMT | Introduction to Data Engineering on GCP | Manoj Thalari | [Read More](https://medium.com/p/e1e21700ccd7) |
+| Fri, 05 Sep 2025 22:39:12 GMT | Passwords, Identities, and the Battle for Trust in the Digital Age | David SEHYEON Baek | [Read More](https://medium.com/p/93ac7d4e95e3) |
 | Fri, 05 Sep 2025 22:37:41 GMT | You Won’t Know Until You Do | Varun Dewan | [Read More](https://medium.com/p/1ed63f480aee) |
+| Fri, 05 Sep 2025 22:32:30 GMT | Azure Active Directory Vulnerability: How Credential Leaks Expose Your Cloud | Devaaravindlutukurty | [Read More](https://medium.com/p/5d022898fc5b) |
 | Fri, 05 Sep 2025 22:31:08 GMT | Drosera Network: The Immune System for Decentralized Finance
 Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 22:07:04 GMT | Server-Side Request Forgery (SSRF) (OWASP Top 10 #10) — Simplified | Chai | [Read More](https://medium.com/p/0a7ccd4448ab) |
@@ -105,11 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 16:24:34 GMT | DNS Cache Poisoning | Balki Maharaj | [Read More](https://medium.com/p/69c27b8762b5) |
 | Fri, 05 Sep 2025 16:21:53 GMT | Digital Code-Talkers: Why Coding Has Become the New Language of Power | Just Human | [Read More](https://medium.com/p/e12cec5bbe92) |
 | Fri, 05 Sep 2025 16:20:39 GMT | TryHackMe - IP and Domain Threat Intel - WriteUp | Axoloth | [Read More](https://medium.com/p/bd11c225e957) |
-| Fri, 05 Sep 2025 16:19:47 GMT | The Future Drosera Network brings to DeFi | Middy | [Read More](https://medium.com/p/f902e389d194) |
-| Fri, 05 Sep 2025 16:16:27 GMT | The Hidden Cost of AI Dependence: What We’re Risking by Outsourcing Our Thinking | Nick Sanchez | [Read More](https://medium.com/p/a7fefed1f7c4) |
-| Fri, 05 Sep 2025 16:15:58 GMT | CVE-2025–38352: Linux Kernel Race Condition Actively Exploited Affects Android Devices | gm0 | [Read More](https://medium.com/p/2a0de9988eb0) |
-| Fri, 05 Sep 2025 16:08:55 GMT | Understanding CORS (Cross-Origin Resource Sharing) in React | Apeksha Verma | [Read More](https://medium.com/p/fd0336ade18a) |
-| Fri, 05 Sep 2025 16:07:46 GMT | PG Practice — Snookums (Linux) | Lepton | [Read More](https://medium.com/p/38ab40e6ad78) |
-| Fri, 05 Sep 2025 16:07:37 GMT | PG Practice — Mzeeav (Linux) | Lepton | [Read More](https://medium.com/p/4556f80211dc) |
-| Fri, 05 Sep 2025 16:07:28 GMT | PG Practice — PC (Linux) | Lepton | [Read More](https://medium.com/p/8494b7fbc5a8) |
-| Fri, 05 Sep 2025 16:05:35 GMT | Account Takeover via Insecure Email Change — Critical Vulnerability | alr | [Read More](https://medium.com/p/b67d44d7f600) |
