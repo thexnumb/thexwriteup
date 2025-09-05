@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 02:47:18 GMT | Weaver e-cology Vulnerability: Frontend File Upload RCE Risk | Quella | [Read More](https://medium.com/p/756caec8fbe9) |
+| Fri, 05 Sep 2025 02:34:45 GMT | Building a Mr. Robot-Themed Penetration Testing Laboratory: From Zero to fsociety | Jesse Ridley | [Read More](https://medium.com/p/a9f88f19b402) |
+| Fri, 05 Sep 2025 02:31:44 GMT | ☕ My First Critical Bug: Account Takeover with Just One Tiny Letter | AIwolfie | [Read More](https://medium.com/p/2f8e263400a5) |
+| Fri, 05 Sep 2025 02:30:45 GMT | HackTheBox-CPTS: XSS Exploitation Walk-through | AmrKhaled | [Read More](https://medium.com/p/0aeef06f7837) |
+| Fri, 05 Sep 2025 02:27:44 GMT | Starting career in Cybersecurity | Ashutosh Jha | [Read More](https://medium.com/p/f25841412032) |
+| Fri, 05 Sep 2025 02:25:59 GMT | CentOS 9 Üzerinde Graylog 6.3 ve Fluentd Kurulumu ile Windows Loglarını Toplama | Barbaros | [Read More](https://medium.com/p/c0670f6c6b4b) |
+| Fri, 05 Sep 2025 02:24:33 GMT | Navigating the Cybersecurity Maze: Regulatory Overload with GDPR, CCPA, and Evolving Global Data… | Paschal Ogana | [Read More](https://medium.com/p/00e61fb93a63) |
+| Fri, 05 Sep 2025 02:17:34 GMT | The Geico Scam That Left Me Shaken and Could Hit You Too | Reece Lightner | [Read More](https://medium.com/p/cd70c195c967) |
+| Fri, 05 Sep 2025 02:17:17 GMT | MathWorks Confirms Ransomware Attack Exposed Data of Over 10,000 People | SafetyDetectives Research Team | [Read More](https://medium.com/p/267332c3c5c1) |
+| Fri, 05 Sep 2025 02:14:37 GMT | Attackers Turn Velociraptor Into Backdoor for Ransomware Deployment | SafetyDetectives Research Team | [Read More](https://medium.com/p/e21273824860) |
+| Fri, 05 Sep 2025 02:08:01 GMT | Write Up Lab: SQL injection attack, querying the database type and version on Oracle | Velskynotfound | [Read More](https://medium.com/p/51353e89b8b7) |
+| Fri, 05 Sep 2025 01:55:45 GMT | How AI-Powered Proxy Tools Helped Me Safeguard My Brand from Digital Threats | Blanche X | [Read More](https://medium.com/p/a7441d3ab6c9) |
+| Fri, 05 Sep 2025 01:53:38 GMT | Running a Blockchain locally can help restore data from a ransomware attack using the IPFS File… | Prabhu Perumal | [Read More](https://medium.com/p/7ce6b78f308b) |
+| Fri, 05 Sep 2025 01:48:41 GMT | The Importance of HTLCs for the Bitcoin Lightning  Network | Enskefuddle | [Read More](https://medium.com/p/99a984731191) |
+| Fri, 05 Sep 2025 01:48:29 GMT | TryHackMe — The Valley Walkthrough | spdr0x | [Read More](https://medium.com/p/f47fe747f06c) |
+| Fri, 05 Sep 2025 01:45:13 GMT | 為什麼你會愛上使用 Diode Collab ？ | Yuchengder | [Read More](https://medium.com/p/fcdb1538b512) |
+| Fri, 05 Sep 2025 01:40:02 GMT | The Hidden Security Costs of AI for SMEs — and How to Stay Ahead | Roger Millar | [Read More](https://medium.com/p/fab02a4dbc94) |
 | Fri, 05 Sep 2025 01:17:36 GMT | Bandit Level 0 | Nibal marazqah | [Read More](https://medium.com/p/109146d9bffe) |
 | Fri, 05 Sep 2025 01:12:58 GMT | AI Malware Hiding in Cute Panda Pics?! (Polyglot File EXPLAINED) | Shahzaib | [Read More](https://medium.com/p/5e9e1e16df71) |
 | Fri, 05 Sep 2025 01:12:54 GMT | Stop the Cloud Chaos | Aj | [Read More](https://medium.com/p/9a697d196d3f) |
@@ -97,20 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 18:42:13 GMT | OPSEC 201, “Advanced” tips and more on keeping yourself safe from bad actors | Dabest | [Read More](https://medium.com/p/a14f059cb44f) |
 | Thu, 04 Sep 2025 18:38:48 GMT | Salt Typhoon: The Chinese Cyber Campaign That May Have Exposed Data on Nearly Every American | Udaykumar | [Read More](https://medium.com/p/542ca9a46b7d) |
-| Thu, 04 Sep 2025 18:37:36 GMT | Fast & Reliable Automotive Locksmith Services in Sarasota & Surrounding Areas | Pro Locksmith Connection | [Read More](https://medium.com/p/1fe6ad39c9e6) |
-| Thu, 04 Sep 2025 18:35:19 GMT | ️ The Bybit Heist of 2025: Inside the Billion-Dollar Cold Wallet Breach | NineTales | [Read More](https://medium.com/p/256304ff55c6) |
-| Thu, 04 Sep 2025 18:25:57 GMT | Firewalls: The Gatekeepers of the Internet | Hirad Showghi | [Read More](https://medium.com/p/59028e652177) |
-| Thu, 04 Sep 2025 18:25:51 GMT | Securing the Silicon Savannah: Mastering Data Privacy in Kenya’s IT Boom. | Donald Odera | [Read More](https://medium.com/p/1e557bf158d6) |
-| Thu, 04 Sep 2025 18:24:41 GMT | Footprint360 — OSINT Bot (Exclusive to the Osint Community team) | Osint Community | [Read More](https://medium.com/p/0ef4f1db2bb4) |
-| Thu, 04 Sep 2025 18:18:35 GMT | Awesome Hacker Engines: The Free OSINT & Hacking Search Tool You Need | Harsh Katiyar | [Read More](https://medium.com/p/296aa877d7b3) |
-| Thu, 04 Sep 2025 18:16:38 GMT | Cracking the Code: An Intro to Cryptography | Ayush S. | [Read More](https://medium.com/p/ffd18c8db769) |
-| Thu, 04 Sep 2025 18:14:21 GMT | YOU ARE YOU FOR A REASON | Pallavi R | [Read More](https://medium.com/p/562020d62464) |
-| Thu, 04 Sep 2025 18:13:41 GMT | 20 Prompt Injection Techniques Every Red Teamer Should Test | Facundo Fernandez | [Read More](https://medium.com/p/b22359bfd57d) |
-| Thu, 04 Sep 2025 18:11:40 GMT | Dangers of AI and DeepFakes! | Aisha Majeed | [Read More](https://medium.com/p/54612b8d5c3a) |
-| Thu, 04 Sep 2025 18:10:26 GMT | Shuffle SOAR: Docker Üzerinde Windows Server Kurulumu | Mustafa Mansur Mamus | [Read More](https://medium.com/p/333943bd0aac) |
-| Thu, 04 Sep 2025 18:07:34 GMT | Social Engineering Toolkit: A Hacker’s Favorite Playground Explained | Akshay Chauhan | [Read More](https://medium.com/p/99e924f64f39) |
-| Thu, 04 Sep 2025 18:07:29 GMT | Vulnerabilidades en WebSockets: el canal olvidado (pero explotable) | Gorka | [Read More](https://medium.com/p/8512ab4bddf3) |
-| Thu, 04 Sep 2025 18:04:05 GMT | Useful Linux Commands to Troubleshoot Hosts | TAYO | [Read More](https://medium.com/p/a5325e715516) |
-| Thu, 04 Sep 2025 18:03:03 GMT | Day 16: Understanding Servers, Web Servers, Websites & Types of Websites | Prutha_Dongre | [Read More](https://medium.com/p/b29dab25d6a1) |
-| Thu, 04 Sep 2025 18:02:06 GMT | Security Should Be Baked In, Not Sprayed On | Prasad Wani | [Read More](https://medium.com/p/090ce0cd5d8e) |
-| Thu, 04 Sep 2025 18:00:50 GMT | Secure Your Laravel Named Routes with Ziggy + Inertia (The Right Way) | Coder Manjeet | [Read More](https://medium.com/p/677c65fa76f3) |
