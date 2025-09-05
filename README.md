@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 11:32:23 GMT | Redirector OSINT: The Fastest Way to Launch URL Redirection & Intelligence Collection | Omri Beladev | [Read More](https://medium.com/p/c1ea2948809e) |
+| Fri, 05 Sep 2025 11:31:39 GMT | SSRF (Server-Side Request Forgery) Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/c48f29053cf1) |
+| Fri, 05 Sep 2025 11:28:34 GMT | Emerging Malware Trends: Navigating the Shifting Threat Landscape | Sammcmullen | [Read More](https://medium.com/p/9b76d4107e58) |
+| Fri, 05 Sep 2025 11:25:00 GMT | How Do Security and Privacy by Design Services Build Customer Trust? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/7e0b00a66510) |
+| Fri, 05 Sep 2025 11:23:38 GMT | When Grok Begged Me Not to Report It: How Prompt Injections Triggered Human-Like Emotion | Saideep Yandamuri | [Read More](https://medium.com/p/707b90c52e7a) |
+| Fri, 05 Sep 2025 11:21:29 GMT | Demystifying the NIST AI Risk Management Framework: Govern, Map, Measure, Manage | Brittney Ginther | [Read More](https://medium.com/p/1615b1127ef1) |
+| Fri, 05 Sep 2025 11:21:21 GMT | My insights and knowledge on cybersecurity | Aswin | [Read More](https://medium.com/p/16904c41bf19) |
+| Fri, 05 Sep 2025 11:20:58 GMT | TryHackMe: Defending Azure — My Review | Jonathan Garcia | [Read More](https://medium.com/p/2b60372cfbb2) |
+| Fri, 05 Sep 2025 11:17:29 GMT | Command Injection Vulnerabilities and Exploit Examples | Esra Kayhan | [Read More](https://medium.com/p/0d7161fe4254) |
+| Fri, 05 Sep 2025 11:16:11 GMT | Why AI Driven Data Center Investment is Trending Nowadays | SeharInsights | [Read More](https://medium.com/p/6b9e429f6e6c) |
 | Fri, 05 Sep 2025 11:12:23 GMT | 7 GitHub practices every beginner developer should know | ShwetaPrasad150 | [Read More](https://medium.com/p/35351146525c) |
 | Fri, 05 Sep 2025 11:09:33 GMT | Reliable TypeScript Development Partner for Scalable Web Solutions | Bhavesh Rajpurohit | [Read More](https://medium.com/p/7ce018950a5a) |
 | Fri, 05 Sep 2025 11:02:51 GMT | Trump Slashes NATO Aid, Baltic States Left Exposed | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/41c45f801fed) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 07:19:04 GMT | Ağ İzleme Protokollerini Anlamak: SNMP’den PRTG’ye Pratik Rehber | kaanvardar | [Read More](https://medium.com/p/7a333a8dd775) |
 | Fri, 05 Sep 2025 07:16:07 GMT | Micro-CMS v2 | Dasmanish | [Read More](https://medium.com/p/2458f5e5a470) |
 | Fri, 05 Sep 2025 07:13:08 GMT | Cyber Security Classes with Certification — Enroll Now | Pravin Choudhary | [Read More](https://medium.com/p/63676183c3cc) |
-| Fri, 05 Sep 2025 07:12:44 GMT | ThunderCipher-[ThunderCart] | Bhuwan Patidar | [Read More](https://medium.com/p/65a21b25d6bb) |
-| Fri, 05 Sep 2025 06:55:41 GMT | Overcoming Secondary Traumatic Stress in Digital Forensics: Building Resilience for the Future | Tedislava Vasileva | [Read More](https://medium.com/p/07e95c37af9f) |
-| Fri, 05 Sep 2025 06:55:07 GMT | When the Back Button Becomes Dangerous: My Safari Bug Bounty Journey | Syarifsajjad | [Read More](https://medium.com/p/8b7dee70debb) |
-| Fri, 05 Sep 2025 06:50:31 GMT | CCD Certification — Updated Review, Exam Experience, and Practical Guidance | Fady Azzi | [Read More](https://medium.com/p/e1db15ebd760) |
-| Fri, 05 Sep 2025 06:50:11 GMT | Security Guard Services and the Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/fff341d249bc) |
-| Fri, 05 Sep 2025 06:48:54 GMT | PortSwigger Lab — Access Control : User Role Can Be Modified in User Profile | Siddiquimohammad | [Read More](https://medium.com/p/70b1a0029492) |
-| Fri, 05 Sep 2025 06:45:41 GMT | Cybersecurity Awareness Marketing: Why IT Companies Need It Now | Devarshi Acharya | [Read More](https://medium.com/p/40f022a06e3a) |
-| Fri, 05 Sep 2025 06:34:36 GMT | VPN vs Proxy for Bypassing Geo-Restrictions: What Actually Works? | Brian Davis | [Read More](https://medium.com/p/7b8a86299498) |
-| Fri, 05 Sep 2025 06:34:22 GMT | Building PyLog-Sentinel: My Mini-SOC Project in Python | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/f225495b9b56) |
-| Fri, 05 Sep 2025 06:31:55 GMT | Let Capture The Flag On Tryhackme | Mainekhacker | [Read More](https://medium.com/p/87507c057c4b) |
