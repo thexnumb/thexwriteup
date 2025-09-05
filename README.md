@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 17:26:30 GMT | Because One Job Posting Isn’t Enough, Let’s Build Something Better (Message To My Network) | Michael_J_B | [Read More](https://medium.com/p/5b697522ef25) |
+| Fri, 05 Sep 2025 17:24:57 GMT | How to Lock Down Your WhatsApp Chats | www.OneCoolTip.com | [Read More](https://medium.com/p/f662eea72d26) |
+| Fri, 05 Sep 2025 17:23:04 GMT | I Was Just Messing Around on a WordPress Site and Found This… | 0x62616B61 | [Read More](https://medium.com/p/4b44aebac6e7) |
+| Fri, 05 Sep 2025 17:18:50 GMT | Day 19: Security Hardening for Production MCP Systems | Somya Golchha | [Read More](https://medium.com/p/d4ac7b93ae2c) |
+| Fri, 05 Sep 2025 17:17:57 GMT | The Leadership Collapse: Why Cybersecurity, Confidence, and Connection Are All at Risk | Michael_J_B | [Read More](https://medium.com/p/190373df709e) |
+| Fri, 05 Sep 2025 17:17:29 GMT | I Built a Free CompTIA Security+ (SY0–701) Practice Platform — Here’s Why and How You Can Use It | Khoondaniel | [Read More](https://medium.com/p/bdbc0e54652b) |
+| Fri, 05 Sep 2025 17:12:16 GMT | Traceable AI Agents in Cyber Defense: A Guide to Secure, Collaborative Operations | Valdez Ladd | [Read More](https://medium.com/p/e690b1e8823c) |
+| Fri, 05 Sep 2025 17:10:06 GMT | eMark: The Open-Source, Cross-Platform PDF Signing Solution for Developers & Businesses | Pintu Prajapati | [Read More](https://medium.com/p/c0524251f260) |
 | Fri, 05 Sep 2025 17:04:00 GMT | Introduction to Splunk: A Critical Tool for SOC Analysts | Dany Christel | [Read More](https://medium.com/p/3610020b8bb5) |
 | Fri, 05 Sep 2025 17:01:40 GMT | Best Debugging Tools in Node.js: A Developer’s Guide to Finding Bugs Faster | habtesoft | [Read More](https://medium.com/p/5d29a40bbafd) |
 | Fri, 05 Sep 2025 16:59:37 GMT | The $10.5 Trillion Cybercrime Economy: How We Got Here and What’s Next | Chandhrasekhar konangi | [Read More](https://medium.com/p/abdb397c4952) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 12:47:00 GMT | Hardware Strategy and Network Design: Building the Physical Foundation | Gert-Jan Admiraal | [Read More](https://medium.com/p/e77ec9ab0cdb) |
 | Fri, 05 Sep 2025 12:46:16 GMT | Enterprise Architecture and Security at Scale: The Pragmatic Approach to Homelab Design | Gert-Jan Admiraal | [Read More](https://medium.com/p/16a10c1c8e47) |
 | Fri, 05 Sep 2025 12:45:36 GMT | Building an Enterprise-Grade Homelab: A Modern Infrastructure Journey | Gert-Jan Admiraal | [Read More](https://medium.com/p/f4b3713c6090) |
-| Fri, 05 Sep 2025 12:45:12 GMT | Exploring Kubernetes Privilege Escalation with DVWA on Minikube | Gaurab Silwal | [Read More](https://medium.com/p/97040554d7b2) |
-| Fri, 05 Sep 2025 12:41:49 GMT | Plexytrade Review: Recover Funds Now | Admin Running | [Read More](https://medium.com/p/e245da40a6f5) |
-| Fri, 05 Sep 2025 12:38:48 GMT | AI: A Double-Edged Sword in Cybersecurity | Osama albargi | [Read More](https://medium.com/p/092c42ca6c91) |
-| Fri, 05 Sep 2025 12:35:15 GMT | New Exploit — Phishing made EASY | Ethan Stewart | [Read More](https://medium.com/p/e2478190ab51) |
-| Fri, 05 Sep 2025 12:33:34 GMT | So what is a “hacker” anyway? | David Barrineau | [Read More](https://medium.com/p/affa15572271) |
-| Fri, 05 Sep 2025 12:26:34 GMT | How I Secured a Massive Codebase Automatically From Hackers Every Single Day | Deepak Arora | [Read More](https://medium.com/p/35a2cec37ba7) |
-| Fri, 05 Sep 2025 12:21:27 GMT | HackTheBox: Outbound (Easy) — Walkthrough | Binary Exploiter | [Read More](https://medium.com/p/03d954694087) |
-| Fri, 05 Sep 2025 12:09:38 GMT | 5 Ways Commercial Security Guards Protect Your Workplace | Eagleeyepro | [Read More](https://medium.com/p/dcd11b739b1f) |
