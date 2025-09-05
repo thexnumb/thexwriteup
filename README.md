@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 08:40:35 GMT | OIDC Under the Hood: How Pipelines Really Authenticate to AWS (GitLab Example) | Vijay Mourya | [Read More](https://medium.com/p/891bac8a80b3) |
+| Fri, 05 Sep 2025 08:32:23 GMT | When GuardDuty Flags Windows Update Traffic: A Case Study in a DNS False Positive | Daniel | [Read More](https://medium.com/p/30836fd43ee9) |
+| Fri, 05 Sep 2025 08:30:17 GMT | The IT Skills Gap: 3 Areas Where Demand Explodes in 2025 | R A N A   A H M A D | [Read More](https://medium.com/p/08c6a68fa57a) |
+| Fri, 05 Sep 2025 08:28:15 GMT | Phishing Campaign Hid for 3 Years Using Google Cloud and Cloudflare | SCtoCS | [Read More](https://medium.com/p/0841a4bcead4) |
+| Fri, 05 Sep 2025 08:26:19 GMT | Balancing Ambition and Vulnerability: The Modern Woman’s Journey | Oluyemisi Otutuloro | [Read More](https://medium.com/p/bbfcf31ac952) |
+| Fri, 05 Sep 2025 08:25:22 GMT | Beneath the Surface: Reflections on the Dark Web & the Layers of Privacy | Micheline Wijaya L | [Read More](https://medium.com/p/49f1c4e90544) |
 | Fri, 05 Sep 2025 08:23:14 GMT | ☀️ CISA Issues Alert on Critical SunPower Vulnerability | SCtoCS | [Read More](https://medium.com/p/765f0648d851) |
+| Fri, 05 Sep 2025 08:17:30 GMT | Ask Adam: Trust Fall or Free Fall…The Risks of Unreviewed Code | Namir Sagheenanajar | [Read More](https://medium.com/p/1601f21bac64) |
 | Fri, 05 Sep 2025 08:17:04 GMT | Sharenting Risks and How to Reduce Them | JVANVS | [Read More](https://medium.com/p/4760bddbc8e3) |
 | Fri, 05 Sep 2025 08:15:08 GMT | ️ Weekly Cybersecurity Threat Intelligence Report | chris | [Read More](https://medium.com/p/504d6ae7780e) |
 | Fri, 05 Sep 2025 08:12:55 GMT | Investigating A Cheating Spouse - Hire A Hacker | BlackHat | [Read More](https://medium.com/p/ca1b935a4661) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 03:12:20 GMT | Walkthrough for Gandalf AI L5-L7 | N8 | [Read More](https://medium.com/p/bfd62196f0b9) |
 | Fri, 05 Sep 2025 03:11:03 GMT | One Click Away From Disaster | Aj | [Read More](https://medium.com/p/01db5b684851) |
 | Fri, 05 Sep 2025 03:01:43 GMT | How I Lost Productivity Learning Productivity | Jennie Kim | [Read More](https://medium.com/p/f3eb485ac4f5) |
-| Fri, 05 Sep 2025 03:01:19 GMT | Six Reasons Cybersecurity is Still So Damn Hard | Nate Pelz | [Read More](https://medium.com/p/857ee13ddea8) |
-| Fri, 05 Sep 2025 02:59:59 GMT | Understanding Common Cybersecurity Threats and Attacks | Jon Wick | [Read More](https://medium.com/p/e9cc77b33a65) |
-| Fri, 05 Sep 2025 02:58:47 GMT | Architectural risk and security profile for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/b5ef4a24c410) |
-| Fri, 05 Sep 2025 02:47:18 GMT | Weaver e-cology Vulnerability: Frontend File Upload RCE Risk | Quella | [Read More](https://medium.com/p/756caec8fbe9) |
-| Fri, 05 Sep 2025 02:34:45 GMT | Building a Mr. Robot-Themed Penetration Testing Laboratory: From Zero to fsociety | Jesse Ridley | [Read More](https://medium.com/p/a9f88f19b402) |
-| Fri, 05 Sep 2025 02:31:44 GMT | ☕ My First Critical Bug: Account Takeover with Just One Tiny Letter | AIwolfie | [Read More](https://medium.com/p/2f8e263400a5) |
-| Fri, 05 Sep 2025 02:30:45 GMT | HackTheBox-CPTS: XSS Exploitation Walk-through | AmrKhaled | [Read More](https://medium.com/p/0aeef06f7837) |
