@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 19:10:08 GMT | Understanding the Client-Server Model: A Beginner-Friendly Summary | Majdi Mouhssine | [Read More](https://medium.com/p/25b9260de7c9) |
+| Fri, 05 Sep 2025 18:53:23 GMT | Heaven’s Gate vs Hell’s Gate Malwared Techniques | Shahriar Galib | [Read More](https://medium.com/p/faa7a21a69d6) |
+| Fri, 05 Sep 2025 18:48:52 GMT | How I Turned My ISC2 CC Exam Failure into a Certification: In 70 Minutes Well Spent ⏳✅ | Hemanth Mouli.ch | [Read More](https://medium.com/p/a814032096bb) |
 | Fri, 05 Sep 2025 18:39:12 GMT | The Linux Security Journey — Hardened User Copy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f637f2eca69e) |
 | Fri, 05 Sep 2025 18:36:51 GMT | Family Cybersecurity Jurisprudence: A Revolutionary Vision for the Digital Age | Bourkibate Abdessamad | [Read More](https://medium.com/p/2e55f98d9607) |
 | Fri, 05 Sep 2025 18:32:47 GMT | CERT-In’s New Cybersecurity Mandate for MSMEs (Sept 2025) | Sairaj Mahesh | [Read More](https://medium.com/p/cbff8a6a6eb2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 14:05:40 GMT | Path Traversal: Why It Still Breaks Modern Applications | Siddiquimohammad | [Read More](https://medium.com/p/4c33b99990b2) |
 | Fri, 05 Sep 2025 14:03:44 GMT | Building a more secure open source world by AI agent Zast.ai! | ZAST AI | [Read More](https://medium.com/p/1ee3a2063654) |
 | Fri, 05 Sep 2025 14:01:50 GMT | Cyber Briefing: 2025.09.05 | CyberMaterial | [Read More](https://medium.com/p/b6fdf5fd7b26) |
-| Fri, 05 Sep 2025 14:01:49 GMT | Cyberattacks Don’t Care About Your Size | Heatena | [Read More](https://medium.com/p/a386ec0dc734) |
-| Fri, 05 Sep 2025 14:01:27 GMT | LLMs Unlocked: How Assigning a Role “Jailbreaks” AI Safeguards | Mahesh Khanna | [Read More](https://medium.com/p/a1660def03e6) |
-| Fri, 05 Sep 2025 13:57:16 GMT | Building prvly.de: How Zero-Knowledge Encryption Powers Secure Short Links | dho | [Read More](https://medium.com/p/20be676a4787) |
