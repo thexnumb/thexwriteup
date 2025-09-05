@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 07:19:04 GMT | Ağ İzleme Protokollerini Anlamak: SNMP’den PRTG’ye Pratik Rehber | kaanvardar | [Read More](https://medium.com/p/7a333a8dd775) |
+| Fri, 05 Sep 2025 07:13:08 GMT | Cyber Security Classes with Certification — Enroll Now | Pravin Choudhary | [Read More](https://medium.com/p/63676183c3cc) |
+| Fri, 05 Sep 2025 07:12:44 GMT | ThunderCipher-[ThunderCart] | Bhuwan Patidar | [Read More](https://medium.com/p/65a21b25d6bb) |
+| Fri, 05 Sep 2025 06:55:41 GMT | Overcoming Secondary Traumatic Stress in Digital Forensics: Building Resilience for the Future | Tedislava Vasileva | [Read More](https://medium.com/p/07e95c37af9f) |
+| Fri, 05 Sep 2025 06:55:07 GMT | When the Back Button Becomes Dangerous: My Safari Bug Bounty Journey | Syarifsajjad | [Read More](https://medium.com/p/8b7dee70debb) |
+| Fri, 05 Sep 2025 06:50:31 GMT | CCD Certification — Updated Review, Exam Experience, and Practical Guidance | Fady Azzi | [Read More](https://medium.com/p/e1db15ebd760) |
+| Fri, 05 Sep 2025 06:50:11 GMT | Security Guard Services and the Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/fff341d249bc) |
+| Fri, 05 Sep 2025 06:48:54 GMT | PortSwigger Lab — Access Control : User Role Can Be Modified in User Profile | Siddiquimohammad | [Read More](https://medium.com/p/70b1a0029492) |
 | Fri, 05 Sep 2025 06:45:41 GMT | Cybersecurity Awareness Marketing: Why IT Companies Need It Now | Devarshi Acharya | [Read More](https://medium.com/p/40f022a06e3a) |
 | Fri, 05 Sep 2025 06:34:36 GMT | VPN vs Proxy for Bypassing Geo-Restrictions: What Actually Works? | Brian Davis | [Read More](https://medium.com/p/7b8a86299498) |
 | Fri, 05 Sep 2025 06:34:22 GMT | Building PyLog-Sentinel: My Mini-SOC Project in Python | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/f225495b9b56) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 23:29:53 GMT | Understanding Human Error in Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/33311b92d083) |
 | Thu, 04 Sep 2025 23:27:10 GMT | WHY DROSERA MATTERS | Glory Olabode | [Read More](https://medium.com/p/3df43c9b4124) |
 | Thu, 04 Sep 2025 23:17:43 GMT | Into the Breach: “Grokking” — How X’s Trusted AI Is Being Weaponized | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/6d148462e7f6) |
-| Thu, 04 Sep 2025 23:09:53 GMT | Agile Threat Modeling — A Practical, Coffee‑Chat Companion Guide | Kay Adelaja | [Read More](https://medium.com/p/7a76f3b1240c) |
-| Thu, 04 Sep 2025 23:05:28 GMT | Shadowed by ViewState: A Zero-Day Breach in Sitecore | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/c7f8fdfe481a) |
-| Thu, 04 Sep 2025 23:05:26 GMT | Cracking Open the Black Box: Understanding Model Extraction Attacks on Large Language Models (LLMs) | Zehra Arshad | [Read More](https://medium.com/p/03ce2370c82a) |
-| Thu, 04 Sep 2025 23:01:37 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/588125e7d805) |
-| Thu, 04 Sep 2025 22:53:06 GMT | Ghost Networks and Rogue Devices: A Peek Into Modern DIY Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/302691887ed3) |
-| Thu, 04 Sep 2025 22:51:10 GMT | Package Tracking Tools for OSINT Investigations | loyalonlytoday | [Read More](https://medium.com/p/7bbf25d1a62a) |
-| Thu, 04 Sep 2025 22:49:18 GMT | The AI Ransomware That Writes Itself | Aj | [Read More](https://medium.com/p/37632920ec04) |
-| Thu, 04 Sep 2025 22:49:07 GMT | Scraping Discord for Threat Intelligence Signals | Ghani Mengal | [Read More](https://medium.com/p/85b9396d14f8) |
