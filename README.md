@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 22:07:04 GMT | Server-Side Request Forgery (SSRF) (OWASP Top 10 #10) — Simplified | Chai | [Read More](https://medium.com/p/0a7ccd4448ab) |
+| Fri, 05 Sep 2025 22:03:33 GMT | 6 Common CloudTrail Pitfalls to Avoid for Secure Cloud | Mudassir Syed | [Read More](https://medium.com/p/920b261392b4) |
+| Fri, 05 Sep 2025 21:57:22 GMT | King Of The Hill CTF | Baker Womack | [Read More](https://medium.com/p/3150314ae63f) |
+| Fri, 05 Sep 2025 21:48:47 GMT | Mr Robot CTF - TryHackMe | Laach_ | [Read More](https://medium.com/p/863cca25a89b) |
+| Fri, 05 Sep 2025 21:47:51 GMT | The History of IBM and Its Role in the Development of Modern Computing | Stacklegend | [Read More](https://medium.com/p/5da23742a46c) |
+| Fri, 05 Sep 2025 21:36:49 GMT | The History and Significance of the Altair 8800 in Computing | Stacklegend | [Read More](https://medium.com/p/8197487f3b51) |
+| Fri, 05 Sep 2025 21:36:05 GMT | Your Marketing Strategy is Now a Cybersecurity Risk | Axy.digital | [Read More](https://medium.com/p/85eaf3db76e9) |
+| Fri, 05 Sep 2025 21:33:01 GMT | DevOps in 2025: A Comprehensive Guide to Modern Practices | CodeToKloud | [Read More](https://medium.com/p/22e2f0ec7eab) |
 | Fri, 05 Sep 2025 21:31:39 GMT | Cybersecurity in 2025: Is It Winning the War Yet? | Bhagya Rana | [Read More](https://medium.com/p/2d74ad11ad48) |
 | Fri, 05 Sep 2025 21:26:58 GMT | The History of Intel and Its Most Important Milestones | Stacklegend | [Read More](https://medium.com/p/8c06b73ccd1f) |
 | Fri, 05 Sep 2025 21:21:45 GMT | CyberDefenders’ 3CX Supply Chain Lab | Adewale Ayomide | [Read More](https://medium.com/p/c0edc933b914) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 16:05:35 GMT | Account Takeover via Insecure Email Change — Critical Vulnerability | alr | [Read More](https://medium.com/p/b67d44d7f600) |
 | Fri, 05 Sep 2025 16:04:37 GMT | Finding a Hidden Message in a Tiny PNG | Zulfianarahmi | [Read More](https://medium.com/p/f410d9cb4528) |
 | Fri, 05 Sep 2025 16:02:56 GMT | The Hidden Risks of Outdated Container Images: A Security Perspective | Thiago Loureiro | [Read More](https://medium.com/p/1663d52f0fd2) |
-| Fri, 05 Sep 2025 16:02:48 GMT | The Ghost of Frame 2774 | Prompted Beauty | [Read More](https://medium.com/p/8e4210ce736f) |
-| Fri, 05 Sep 2025 15:54:44 GMT | Why Fences and Automatic Gates Are Essential for Home Security | Maria ordonez | [Read More](https://medium.com/p/a6d11caa9a1c) |
-| Fri, 05 Sep 2025 15:53:02 GMT | A Pentester’s Roles and Responsibilities in an Assessment | Debjyoti Choudhury | [Read More](https://medium.com/p/6d8b8566b6f9) |
-| Fri, 05 Sep 2025 15:49:24 GMT | 8 High-Earning Job Titles That Can Make You Rich in 2025 | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/bbe6629fd243) |
-| Fri, 05 Sep 2025 15:44:35 GMT | How I Automated My Bug Bounty Recon with n8n (No Coding Required) | Sukhveer Singh | [Read More](https://medium.com/p/39f5a59209c7) |
-| Fri, 05 Sep 2025 15:44:09 GMT | Beyond PCI and HIPAA: How Feroot Powers Colorado Privacy Act (CPA) Compliance | Feroot Security | [Read More](https://medium.com/p/b56363a2b1e7) |
-| Fri, 05 Sep 2025 15:39:21 GMT | The Myth of Anonymity | USDM by Moneta Digital ~ Cardano  Stablecoin | [Read More](https://medium.com/p/490e3030e499) |
-| Fri, 05 Sep 2025 15:38:29 GMT | Ethical AI: How to Navigate Bias and Privacy Challenges in 2025 Projects | Umesh Anjula | [Read More](https://medium.com/p/5b2604d579a3) |
