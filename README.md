@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 21:01:28 GMT | Top Cybersecurity Certifications for Beginners | Digital Softlucid | [Read More](https://medium.com/p/9100a9252855) |
+| Fri, 05 Sep 2025 20:54:21 GMT | Writers learn to use punctuation ideally. Period. | Mofiyinfoluwa Joshua | [Read More](https://medium.com/p/257c0bfc734e) |
+| Fri, 05 Sep 2025 20:53:53 GMT | Pegasus, Graphite, and the Invisible War for Your Privacy, | Arthur Gonzalez | [Read More](https://medium.com/p/60628b45943d) |
+| Fri, 05 Sep 2025 20:49:01 GMT | The Future I See with Drosera Network | Ipaye Olajide | [Read More](https://medium.com/p/c3b7fd162dae) |
+| Fri, 05 Sep 2025 20:35:50 GMT | ️ My Analysis of Mexicos Cartel Hackers | V1rtu3 _h05t | [Read More](https://medium.com/p/07f733f6f1e6) |
+| Fri, 05 Sep 2025 20:30:50 GMT | Auditoria de código estático con ChatGPT | Adrian Romanov | [Read More](https://medium.com/p/4a9fc6d3e716) |
 | Fri, 05 Sep 2025 20:02:29 GMT | How i Pass SC-401 Certification Exam | Sam Watson | [Read More](https://medium.com/p/f6855b93c1b7) |
 | Fri, 05 Sep 2025 20:01:31 GMT | Console | RADIANT ROOTING | [Read More](https://medium.com/p/622d7684ce08) |
 | Fri, 05 Sep 2025 19:59:18 GMT | Does Microsoft Azure Support SAP Migration? Everything You Need to Know | Techridge Solutions | [Read More](https://medium.com/p/bf4016be041d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 15:29:30 GMT | OWASP ASVS — C’est quoi? | Patrick Boucher | [Read More](https://medium.com/p/9ffd3cb06ad9) |
 | Fri, 05 Sep 2025 15:23:42 GMT | How Smart SMBs Use Trade-In Programs to Optimize Technology Investment and Cash Flow | the PhobioSapien | [Read More](https://medium.com/p/fa2ac30bd979) |
 | Fri, 05 Sep 2025 15:23:11 GMT | Penetration Testing Exposed: A Day in the Life of a Professional Hacker (For Good) | Shahzaib | [Read More](https://medium.com/p/a2295a0dcbaf) |
-| Fri, 05 Sep 2025 15:20:48 GMT | The Therapeutic Role of Adult Sex Dolls in Post-Divorce Life | realdollbuy | [Read More](https://medium.com/p/755707603fef) |
-| Fri, 05 Sep 2025 15:19:32 GMT | Cracking Gandalf Level 5: Peeking Behind the Curtain | Kaylen Stuart | [Read More](https://medium.com/p/bcd3b0effbcf) |
-| Fri, 05 Sep 2025 15:18:26 GMT | Recon: Brute-Force Directory and Files | Taulan Zauzanov | [Read More](https://medium.com/p/304fe3a3548a) |
-| Fri, 05 Sep 2025 15:11:43 GMT | Cracking Gandalf Level 4: Outsmarting the Censor | Kaylen Stuart | [Read More](https://medium.com/p/6579a27935aa) |
-| Fri, 05 Sep 2025 15:06:39 GMT | “Day 29: The Web Cache Deception Heist — How I Stole Private Data Without Breaking a Single… | Aman Sharma | [Read More](https://medium.com/p/276b8667a4cf) |
-| Fri, 05 Sep 2025 15:05:12 GMT | How to access a cell phone without anysuspiciousnotice? - where can I find a private investigator? | Donley Mark | [Read More](https://medium.com/p/038a1b3a2ec3) |
