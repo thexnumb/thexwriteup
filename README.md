@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 17:04:00 GMT | Introduction to Splunk: A Critical Tool for SOC Analysts | Dany Christel | [Read More](https://medium.com/p/3610020b8bb5) |
+| Fri, 05 Sep 2025 17:01:40 GMT | Best Debugging Tools in Node.js: A Developer’s Guide to Finding Bugs Faster | habtesoft | [Read More](https://medium.com/p/5d29a40bbafd) |
+| Fri, 05 Sep 2025 16:59:37 GMT | The $10.5 Trillion Cybercrime Economy: How We Got Here and What’s Next | Chandhrasekhar konangi | [Read More](https://medium.com/p/abdb397c4952) |
+| Fri, 05 Sep 2025 16:56:43 GMT | Installing CrowdStrike Falcon EDR on Windows: A Complete Guide | Aryanghai | [Read More](https://medium.com/p/7766cea5a949) |
+| Fri, 05 Sep 2025 16:47:30 GMT | Boost App Security: Step-by-Step Guide to Adding OTP Verification in Apps & Websites | SANDHYA MEHTELE | [Read More](https://medium.com/p/99c09bb99abb) |
 | Fri, 05 Sep 2025 16:37:57 GMT | The Future I See with Drosera: Building Trust in Web3 | Farmersboi | [Read More](https://medium.com/p/d13a6aadee74) |
 | Fri, 05 Sep 2025 16:36:48 GMT | Cybersecurity News Review — Week 36 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/36919b37bcea) |
 | Fri, 05 Sep 2025 16:30:03 GMT | Self-Healing Honeypot on AWS | hsinaaa | [Read More](https://medium.com/p/7f84707bef01) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 12:26:34 GMT | How I Secured a Massive Codebase Automatically From Hackers Every Single Day | Deepak Arora | [Read More](https://medium.com/p/35a2cec37ba7) |
 | Fri, 05 Sep 2025 12:21:27 GMT | HackTheBox: Outbound (Easy) — Walkthrough | Binary Exploiter | [Read More](https://medium.com/p/03d954694087) |
 | Fri, 05 Sep 2025 12:09:38 GMT | 5 Ways Commercial Security Guards Protect Your Workplace | Eagleeyepro | [Read More](https://medium.com/p/dcd11b739b1f) |
-| Fri, 05 Sep 2025 12:05:53 GMT | Addressing Security in Docker: Common Vulnerabilities and Fixes | @rnab | [Read More](https://medium.com/p/3325f1a934ad) |
-| Fri, 05 Sep 2025 12:05:32 GMT | Top 10 Secure Hosting Providers for Wellness Seminars | Priya Singh | [Read More](https://medium.com/p/6e882cacfc4e) |
-| Fri, 05 Sep 2025 12:00:14 GMT | ⚠️ Data Doesn’t Get Stolen Anymore — It Gets Weaponised | Omex Oleksandr | [Read More](https://medium.com/p/312a800188b6) |
-| Fri, 05 Sep 2025 11:59:27 GMT | SVG Files Turned into Phishing Weapons: Virus Total Flags 44 Undetected Cases | Jasmitharouthu | [Read More](https://medium.com/p/3e958cad1809) |
-| Fri, 05 Sep 2025 11:48:36 GMT | How Can Security and Privacy by Design Services Reduce Business Risks? | Ziya Zoe | [Read More](https://medium.com/p/328b15e3ced6) |
