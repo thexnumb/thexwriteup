@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 01:17:36 GMT | Bandit Level 0 | Nibal marazqah | [Read More](https://medium.com/p/109146d9bffe) |
+| Fri, 05 Sep 2025 01:12:58 GMT | AI Malware Hiding in Cute Panda Pics?! (Polyglot File EXPLAINED) | Shahzaib | [Read More](https://medium.com/p/5e9e1e16df71) |
+| Fri, 05 Sep 2025 01:12:54 GMT | Stop the Cloud Chaos | Aj | [Read More](https://medium.com/p/9a697d196d3f) |
+| Fri, 05 Sep 2025 01:02:34 GMT | The Quantum Storm Is Coming and Why Post Quantum Security Matters Now | Johnson William | [Read More](https://medium.com/p/2a7dc94b571a) |
+| Fri, 05 Sep 2025 00:52:52 GMT | A Practical Guide to Endpoint Detection and Response (EDR) | Samina Perveen | [Read More](https://medium.com/p/4c55da25f9af) |
+| Fri, 05 Sep 2025 00:38:28 GMT | CORS exposes our API to attackers — It doesn’t protect it! | bektiaw | [Read More](https://medium.com/p/37356db2a598) |
+| Fri, 05 Sep 2025 00:34:47 GMT | 5 Most In-Demand Niche Cybersecurity Roles for 2025 | Mudassir Syed | [Read More](https://medium.com/p/d385079a062c) |
+| Fri, 05 Sep 2025 00:29:36 GMT | Dasar Routing dan Switching | Assep Wahid | [Read More](https://medium.com/p/ecbe8a67240a) |
+| Fri, 05 Sep 2025 00:01:36 GMT | Guía Definitiva de SQLMap: Detección y Explotación de SQL Injection | JPablo13 | [Read More](https://medium.com/p/f3b8cb20d950) |
+| Thu, 04 Sep 2025 23:58:15 GMT | Escape Characters, Not Responsibilities: An SQL Injection Primer | Sagar Pandita | [Read More](https://medium.com/p/ca581e9dde03) |
 | Thu, 04 Sep 2025 23:33:48 GMT | Micropayment Channels in the Lightning Network | Enskefuddle | [Read More](https://medium.com/p/f41882584fe1) |
 | Thu, 04 Sep 2025 23:29:53 GMT | Understanding Human Error in Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/33311b92d083) |
 | Thu, 04 Sep 2025 23:27:10 GMT | WHY DROSERA MATTERS | Glory Olabode | [Read More](https://medium.com/p/3df43c9b4124) |
@@ -104,13 +114,3 @@ Subheading: | Ehsanm135 | [Read More](https://medium.com/p/ced38b17331b) |
 | Thu, 04 Sep 2025 18:03:03 GMT | Day 16: Understanding Servers, Web Servers, Websites & Types of Websites | Prutha_Dongre | [Read More](https://medium.com/p/b29dab25d6a1) |
 | Thu, 04 Sep 2025 18:02:06 GMT | Security Should Be Baked In, Not Sprayed On | Prasad Wani | [Read More](https://medium.com/p/090ce0cd5d8e) |
 | Thu, 04 Sep 2025 18:00:50 GMT | Secure Your Laravel Named Routes with Ziggy + Inertia (The Right Way) | Coder Manjeet | [Read More](https://medium.com/p/677c65fa76f3) |
-| Thu, 04 Sep 2025 17:59:30 GMT | Network Design Demystified: Insights from a Future Cybersecurity Project Manager. | Lawson Mumbamarwo | [Read More](https://medium.com/p/43fc1866d1ec) |
-| Thu, 04 Sep 2025 17:58:46 GMT | XVS price slips after $27M Venus Protocol phishing attack | IC News | [Read More](https://medium.com/p/56aa5d026590) |
-| Thu, 04 Sep 2025 17:58:41 GMT | Egg Hunting Demystified: A Complete Guide for Exploit Developers | Pratham Shah | [Read More](https://medium.com/p/d0fa747e16f0) |
-| Thu, 04 Sep 2025 17:57:32 GMT | The dark side of smart homes: 7 privacy risks you may never have thought of | York Robert | [Read More](https://medium.com/p/8fbfe96bb9b4) |
-| Thu, 04 Sep 2025 17:45:52 GMT | How I Discovered a PII Leak in a Developer Platform | Medusa | [Read More](https://medium.com/p/d2f3e89653ce) |
-| Thu, 04 Sep 2025 17:45:37 GMT | Drosera: Why DeFi Needs Guardians, Not Just Alarms | Blessing Shodunke | [Read More](https://medium.com/p/85adc418b397) |
-| Thu, 04 Sep 2025 17:45:24 GMT | The Dark Side of Arranged Marriage: It wasn’t a wedding, it was the beginning of a nightmare. | Maria Arshad | [Read More](https://medium.com/p/82da1a664467) |
-| Thu, 04 Sep 2025 17:39:06 GMT | Trust — The Tricky Game | Kabii | [Read More](https://medium.com/p/8de85e94598d) |
-| Thu, 04 Sep 2025 17:25:27 GMT | Prompt Injection: A New Frontier in Generative AI Security Challenges | Brayan Arrieta Alfaro | [Read More](https://medium.com/p/31ec174e4639) |
-| Thu, 04 Sep 2025 17:24:15 GMT | Rubio’s Comments on U.S. Mexico Security Cooperation. | Menaliub | [Read More](https://medium.com/p/6fb63bc89308) |
