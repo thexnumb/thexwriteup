@@ -12,10 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 06:30:03 GMT | Top 10 Online Cyber Security Courses in (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/6f779ae9c94c) |
+| Fri, 05 Sep 2025 06:12:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9b5293b28ae5) |
+| Fri, 05 Sep 2025 06:08:12 GMT | The Hidden Dangers of Docker Security Nobody Warns You About | Hex Shift | [Read More](https://medium.com/p/75191a113c3f) |
+| Fri, 05 Sep 2025 06:07:13 GMT | Transforming Finance & Banking with Reliable IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/157a6dab9625) |
+| Fri, 05 Sep 2025 05:50:19 GMT | Top Benefits of Using Security Solutions in Singapore for Small Businesses | Jane Tang | [Read More](https://medium.com/p/cd1169d2a694) |
+| Fri, 05 Sep 2025 05:46:01 GMT | ☁️ Cloud Chaos: How Misconfigured Buckets Spilled Sensitive Data Everywhere | Iski | [Read More](https://medium.com/p/39f0099e1012) |
+| Fri, 05 Sep 2025 05:43:58 GMT | What is Application Security Testing & Why is it Important? | Qualysectechnologies | [Read More](https://medium.com/p/24fdb0b8a5f8) |
+| Fri, 05 Sep 2025 05:42:58 GMT | The Security Gap Most Companies Forget: Protecting Your Sensitive and Regulated Data from a Screen | Jason Sohn | [Read More](https://medium.com/p/8d890960f2fc) |
 | Fri, 05 Sep 2025 05:39:13 GMT | Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs | Monika sharma | [Read More](https://medium.com/p/ae3c3dbf462d) |
+| Fri, 05 Sep 2025 05:39:12 GMT | Why Drupal Remains the Quiet Powerhouse in Enterprise CMS | Drupart Digital | [Read More](https://medium.com/p/1886bbebed1f) |
+| Fri, 05 Sep 2025 05:38:56 GMT | Compliance Management Solutions by Palo Alto Networks Cortex Xpanse: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4bffa568b0cd) |
+| Fri, 05 Sep 2025 05:38:42 GMT | Learning SQL Injection Using Sqlmap and DVWA | Handhika Yanuar Pratama | [Read More](https://medium.com/p/97d72a2e5cf6) |
 | Fri, 05 Sep 2025 05:38:18 GMT | Intercepting Thick Client TCP and TLS Traffic | Sourav Kalal | [Read More](https://medium.com/p/72fab07fffe7) |
 | Fri, 05 Sep 2025 05:37:00 GMT | How a Simple Race Condition Vulnerability Down a SaaS Global Platform | Abhi Sharma | [Read More](https://medium.com/p/8093528b403f) |
 | Fri, 05 Sep 2025 05:36:09 GMT | Bypassing Physical Security in Red Team Engagements — 2025 | Akash Rajendra Patil | [Read More](https://medium.com/p/d284c2fc4fa8) |
+| Fri, 05 Sep 2025 05:35:49 GMT | The Daily Tech Digest: 05 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/bb16c517a980) |
 | Fri, 05 Sep 2025 05:30:21 GMT | Future: AI-Driven, Self-Healing IT Support in 2025 | Elevate | [Read More](https://medium.com/p/dc63cfd8953f) |
 | Fri, 05 Sep 2025 05:23:33 GMT | Rails Security in 2025: Automate or Get Breached | Vaishnavi Ganeshkar | [Read More](https://medium.com/p/4a1cd41c8798) |
 | Fri, 05 Sep 2025 05:17:27 GMT | Why Cost-Effective E-commerce Software with Secure Features is a Game-Changer? | Kronoryx | [Read More](https://medium.com/p/b953e7d7804b) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 22:19:13 GMT | HTB - GoodGames WriteUp | Sean Knight | [Read More](https://medium.com/p/071755ca99f4) |
 | Thu, 04 Sep 2025 22:10:10 GMT | Why Your Old Printer Might Be the Most Secure Device You Own | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f2ba1adeaf6c) |
 | Thu, 04 Sep 2025 22:08:11 GMT | What a 20-Year-Old Laptop Can Teach You About Security | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2cf3675c6061) |
-| Thu, 04 Sep 2025 22:04:25 GMT | Englisch: | Shayan Zare | [Read More](https://medium.com/p/81611c12aacf) |
-| Thu, 04 Sep 2025 21:59:17 GMT | Why Businesses Need Backup and Disaster Recovery Services | Techridge Solutions | [Read More](https://medium.com/p/10dc8792dd9c) |
-| Thu, 04 Sep 2025 21:58:11 GMT | File Permissions Starring Linux Commands! | Myshawne Stallings | [Read More](https://medium.com/p/e3dbb0c92418) |
-| Thu, 04 Sep 2025 21:39:57 GMT | Countering Chinese State‑Sponsored Actors | SIMKRA | [Read More](https://medium.com/p/af22ecb89371) |
-| Thu, 04 Sep 2025 21:36:08 GMT | Target Smarter, Move Faster: Why OSINT Is Becoming the Core of Modern Investigations | Rishisec | [Read More](https://medium.com/p/5c4f39ea07b2) |
-| Thu, 04 Sep 2025 21:29:49 GMT | This Cyberattack Was 115,000x Stronger Than Your Wi-Fi | Cyber-AppSec | [Read More](https://medium.com/p/d2a40a55e4ca) |
-| Thu, 04 Sep 2025 21:27:47 GMT | Helping Young Learners Become Comfortable with Technology | Savvy Cyber Kids | [Read More](https://medium.com/p/8c70c0ccd6fb) |
-| Thu, 04 Sep 2025 21:27:24 GMT | Screentime and Education | Savvy Cyber Kids | [Read More](https://medium.com/p/59590c936e1e) |
-| Thu, 04 Sep 2025 21:26:54 GMT | It Isn’t Just You: Meta Failed to Protect Kids Online | Savvy Cyber Kids | [Read More](https://medium.com/p/e075786c49e6) |
-| Thu, 04 Sep 2025 21:23:21 GMT | Cloud Storage of Biometric Data: What Could Go Wrong? | Kamila Monika Zu | [Read More](https://medium.com/p/1396be0c67ef) |
-| Thu, 04 Sep 2025 21:19:03 GMT | Exploiting Insecure Android WebView with JavaScript Interface | Youssefhussein | [Read More](https://medium.com/p/a4d3abf9ec09) |
-| Thu, 04 Sep 2025 21:17:54 GMT | Lone Wolves in Cyberspace Myth, Radicalization, and Reflexive Control | SIMKRA | [Read More](https://medium.com/p/4d1e78255e69) |
