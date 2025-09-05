@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Sep 2025 05:39:13 GMT | Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs | Monika sharma | [Read More](https://medium.com/p/ae3c3dbf462d) |
+| Fri, 05 Sep 2025 05:38:18 GMT | Intercepting Thick Client TCP and TLS Traffic | Sourav Kalal | [Read More](https://medium.com/p/72fab07fffe7) |
+| Fri, 05 Sep 2025 05:37:00 GMT | How a Simple Race Condition Vulnerability Down a SaaS Global Platform | Abhi Sharma | [Read More](https://medium.com/p/8093528b403f) |
+| Fri, 05 Sep 2025 05:36:09 GMT | Bypassing Physical Security in Red Team Engagements — 2025 | Akash Rajendra Patil | [Read More](https://medium.com/p/d284c2fc4fa8) |
+| Fri, 05 Sep 2025 05:30:21 GMT | Future: AI-Driven, Self-Healing IT Support in 2025 | Elevate | [Read More](https://medium.com/p/dc63cfd8953f) |
+| Fri, 05 Sep 2025 05:23:33 GMT | Rails Security in 2025: Automate or Get Breached | Vaishnavi Ganeshkar | [Read More](https://medium.com/p/4a1cd41c8798) |
+| Fri, 05 Sep 2025 05:17:27 GMT | Why Cost-Effective E-commerce Software with Secure Features is a Game-Changer? | Kronoryx | [Read More](https://medium.com/p/b953e7d7804b) |
+| Fri, 05 Sep 2025 05:16:38 GMT | Selling Making Money PayPal Transfer Cashapp Cloned Cards Zelle Passport and DL cc cvvSell Dumps… | Gonz | [Read More](https://medium.com/p/39c66a00e48d) |
+| Fri, 05 Sep 2025 05:14:06 GMT | Micro-CMS v1 | Dasmanish | [Read More](https://medium.com/p/46466e09d4e3) |
+| Fri, 05 Sep 2025 05:13:34 GMT | 11. Secrets in JS Files — And How to Find Them | Abhijeet kumawat | [Read More](https://medium.com/p/f4088cf71610) |
 | Fri, 05 Sep 2025 05:10:06 GMT | Why Big Tech Pays Millions for Bugs (And How You Can Too) | Aj | [Read More](https://medium.com/p/84d30d4b6aed) |
 | Fri, 05 Sep 2025 05:01:39 GMT | Laughter Isn’t Always the Best Medicine | Tami | [Read More](https://medium.com/p/eb01ea31c31c) |
 | Fri, 05 Sep 2025 04:57:21 GMT | Stop Hardcoding Your Secrets: A 2-Minute Guide to .env Files | Shivam - Full-Stack Developer | [Read More](https://medium.com/p/18fb4a0717f2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Sep 2025 21:23:21 GMT | Cloud Storage of Biometric Data: What Could Go Wrong? | Kamila Monika Zu | [Read More](https://medium.com/p/1396be0c67ef) |
 | Thu, 04 Sep 2025 21:19:03 GMT | Exploiting Insecure Android WebView with JavaScript Interface | Youssefhussein | [Read More](https://medium.com/p/a4d3abf9ec09) |
 | Thu, 04 Sep 2025 21:17:54 GMT | Lone Wolves in Cyberspace Myth, Radicalization, and Reflexive Control | SIMKRA | [Read More](https://medium.com/p/4d1e78255e69) |
-| Thu, 04 Sep 2025 21:16:00 GMT | Breaking In and Growing in Cyber: Lessons from WGU’s Career Quest with Dwayne Clarke | Ally's Notes | [Read More](https://medium.com/p/8cde00f87232) |
-| Thu, 04 Sep 2025 21:10:13 GMT | How a Simple PDF Generator Led Me to a Bug in Government Systems | Motoko Ayanami | [Read More](https://medium.com/p/07ac397d45e3) |
-| Thu, 04 Sep 2025 21:04:38 GMT | Generative AI Meets Identity: Deepfake Voices Cracking IAM Systems | Yashasvi Sharma | [Read More](https://medium.com/p/e971598934bf) |
-| Thu, 04 Sep 2025 20:45:12 GMT | Are Your Employees Making These 7 Common AI Phishing Mistakes? (And How to Fix Them) | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/a89912d7583d) |
-| Thu, 04 Sep 2025 20:44:02 GMT | My Cybersecurity Journey So Far | Anuu | [Read More](https://medium.com/p/c520fd453d08) |
-| Thu, 04 Sep 2025 20:42:35 GMT | Android Penetration Testing Part 2 | p4n7h3rx | [Read More](https://medium.com/p/39312a771568) |
-| Thu, 04 Sep 2025 20:33:48 GMT | Android Penetration Testing — Part 1: A Beginner’s Step-by-Step Guide | p4n7h3rx | [Read More](https://medium.com/p/1381b3d02204) |
-| Thu, 04 Sep 2025 20:25:54 GMT | You Think AI Protects Your Business? Hackers Are Already Using It Better Than You | Phil - Rentier Digital Heureux | [Read More](https://medium.com/p/e70da7480025) |
-| Thu, 04 Sep 2025 20:15:31 GMT | Artificial Intelligence in Cybersecurity: The Future of Digital Defense | IT_Engineer | [Read More](https://medium.com/p/6a00e7dcb259) |
-| Thu, 04 Sep 2025 20:11:49 GMT | SOC vs MDR: Choosing the Right Cyber Defense Strategy | SafeAeon Inc. | [Read More](https://medium.com/p/249a3cbb522e) |
