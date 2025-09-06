@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 01:21:35 GMT | The “Office Vibe” on the Beijing-Shanghai High-Speed Railway: A Glimpse into the Future of Most… | Ophaly Kate | [Read More](https://medium.com/p/524ba0408bf6) |
+| Sat, 06 Sep 2025 00:59:36 GMT | AWS Lambda Cold Starts in 2025: What Changed and How to Optimize | Rizqi Mulki | [Read More](https://medium.com/p/8965b73a37ed) |
+| Sat, 06 Sep 2025 00:51:12 GMT | After the Hack: Finding Clarity in the Chaos of Crypto Theft | Gem Pad.io | [Read More](https://medium.com/p/a150927caba7) |
+| Sat, 06 Sep 2025 00:30:02 GMT | The Power of Encryption: Securing Data at Rest and in Transit | Samina Perveen | [Read More](https://medium.com/p/60b2a994187d) |
+| Sat, 06 Sep 2025 00:24:12 GMT | What Is the Most Dangerous Python Package on Your System? | Christopher Ariza | [Read More](https://medium.com/p/03d7e3ea2000) |
+| Sat, 06 Sep 2025 00:15:22 GMT | Cracking the Code: An Introduction to Cryptography and Cryptographic Attacks | Shahzaib | [Read More](https://medium.com/p/546fb7121b18) |
+| Sat, 06 Sep 2025 00:01:41 GMT | The Ultimate SQLMap Guide: Detecting and Exploiting SQL Injection | JPablo13 | [Read More](https://medium.com/p/0499a6091022) |
+| Sat, 06 Sep 2025 00:00:30 GMT | iOS Penetration Testing — Part 2 (Advanced Guide) | p4n7h3rx | [Read More](https://medium.com/p/e769cbafcf04) |
+| Fri, 05 Sep 2025 23:52:54 GMT | PortSwigger “Forced OAuth profile linking” Lab - Çözüm & Walkthrough | Mirac Kayikci | [Read More](https://medium.com/p/1816d3382dfd) |
+| Fri, 05 Sep 2025 23:37:00 GMT | Exploiting Insecure Android WebView with setAllowUniversalAccessFromFileURLs | Youssefhussein | [Read More](https://medium.com/p/c7f4f7a8db9c) |
+| Fri, 05 Sep 2025 23:36:52 GMT | How to Pass CompTIA Security+ (SY0–701) Using pwn.guide | Nity Aananth | [Read More](https://medium.com/p/f91d010e75f5) |
 | Fri, 05 Sep 2025 23:29:01 GMT | TryHackMe Room : Blue walkthrough | Enitan Ogungbade | [Read More](https://medium.com/p/f2fb3d7b3e80) |
 | Fri, 05 Sep 2025 23:19:02 GMT | Hackers Just Turned Grok Into Their Malware Salesman | Cyber-AppSec | [Read More](https://medium.com/p/70b47fb8890c) |
 | Fri, 05 Sep 2025 23:17:54 GMT | On dismissiveness. | Apoorva Sahay | [Read More](https://medium.com/p/1e27e44e62d0) |
@@ -102,14 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 17:18:50 GMT | Day 19: Security Hardening for Production MCP Systems | Somya Golchha | [Read More](https://medium.com/p/d4ac7b93ae2c) |
 | Fri, 05 Sep 2025 17:17:57 GMT | The Leadership Collapse: Why Cybersecurity, Confidence, and Connection Are All at Risk | Michael_J_B | [Read More](https://medium.com/p/190373df709e) |
 | Fri, 05 Sep 2025 17:17:29 GMT | I Built a Free CompTIA Security+ (SY0–701) Practice Platform — Here’s Why and How You Can Use It | Khoondaniel | [Read More](https://medium.com/p/bdbc0e54652b) |
-| Fri, 05 Sep 2025 17:12:16 GMT | Traceable AI Agents in Cyber Defense: A Guide to Secure, Collaborative Operations | Valdez Ladd | [Read More](https://medium.com/p/e690b1e8823c) |
-| Fri, 05 Sep 2025 17:10:06 GMT | eMark: The Open-Source, Cross-Platform PDF Signing Solution for Developers & Businesses | Pintu Prajapati | [Read More](https://medium.com/p/c0524251f260) |
-| Fri, 05 Sep 2025 17:04:00 GMT | Introduction to Splunk: A Critical Tool for SOC Analysts | Dany Christel | [Read More](https://medium.com/p/3610020b8bb5) |
-| Fri, 05 Sep 2025 17:01:40 GMT | Best Debugging Tools in Node.js: A Developer’s Guide to Finding Bugs Faster | habtesoft | [Read More](https://medium.com/p/5d29a40bbafd) |
-| Fri, 05 Sep 2025 16:59:37 GMT | The $10.5 Trillion Cybercrime Economy: How We Got Here and What’s Next | Chandhrasekhar konangi | [Read More](https://medium.com/p/abdb397c4952) |
-| Fri, 05 Sep 2025 16:56:43 GMT | Installing CrowdStrike Falcon EDR on Windows: A Complete Guide | Aryanghai | [Read More](https://medium.com/p/7766cea5a949) |
-| Fri, 05 Sep 2025 16:47:30 GMT | Boost App Security: Step-by-Step Guide to Adding OTP Verification in Apps & Websites | SANDHYA MEHTELE | [Read More](https://medium.com/p/99c09bb99abb) |
-| Fri, 05 Sep 2025 16:37:57 GMT | The Future I See with Drosera: Building Trust in Web3 | Farmersboi | [Read More](https://medium.com/p/d13a6aadee74) |
-| Fri, 05 Sep 2025 16:36:48 GMT | Cybersecurity News Review — Week 36 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/36919b37bcea) |
-| Fri, 05 Sep 2025 16:30:03 GMT | Self-Healing Honeypot on AWS | hsinaaa | [Read More](https://medium.com/p/7f84707bef01) |
-| Fri, 05 Sep 2025 16:28:03 GMT | ️ Mastering Content Security Policy (CSP) Headers in Spring Boot Web Apps | Karuna | [Read More](https://medium.com/p/9bd0fac6c3bb) |
