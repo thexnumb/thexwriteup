@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 22:17:39 GMT | Detecting AI-Generated Phishing at Inbound Gateways | Karthikeyan Nagaraj | [Read More](https://medium.com/p/71608082aaa9) |
+| Sat, 06 Sep 2025 22:14:17 GMT | Splunk IR Lab — Website Defacement: From Signal to Root Cause | Hector M. Reyes | [Read More](https://medium.com/p/63686687b475) |
+| Sat, 06 Sep 2025 22:14:17 GMT | ALLSAFE Android App WriteUp Part 2 | Recep Emir | [Read More](https://medium.com/p/19a557740c30) |
 | Sat, 06 Sep 2025 21:51:53 GMT | A 39-Second Warning: How the UNFI Grocery Breach Signals the Next Wave of Supply-Chain Chaos | SavetyAI | [Read More](https://medium.com/p/001bd6e21962) |
 | Sat, 06 Sep 2025 21:45:01 GMT | AI Took My Job, But It Also Gave Me a Better One | Jo Arazi | [Read More](https://medium.com/p/6fc7b7774293) |
 | Sat, 06 Sep 2025 21:37:29 GMT | Telstra AU Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/2e1bc7b1e88e) |
@@ -110,6 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 15:01:39 GMT | Title: Highway 10: The Invisible Corridor Connecting Global Drug Trafficking with Europe’s Threat… | Apolítik0 | [Read More](https://medium.com/p/4ab55c9fbb94) |
 | Sat, 06 Sep 2025 15:01:04 GMT | SQL Injection Vulnerability Scanner Tools | Balki Maharaj | [Read More](https://medium.com/p/3fe93a6c9eda) |
 | Sat, 06 Sep 2025 14:59:59 GMT | Implementing Passwordless Authentication at Scale | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b4ab670b39f6) |
-| Sat, 06 Sep 2025 14:53:18 GMT | HTB Sherlocks — SmartyPants Writeup | JLBSec | [Read More](https://medium.com/p/e2423f39e3a9) |
-| Sat, 06 Sep 2025 14:48:33 GMT | The npm Package That Drained Crypto Wallets While Developers Watched | Aj | [Read More](https://medium.com/p/0251a2c01434) |
-| Sat, 06 Sep 2025 14:39:43 GMT | AI, AI, Oh My | D L Henderson | [Read More](https://medium.com/p/f165fa1b011a) |
