@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 14:33:07 GMT | When Paywall is Just a Wallpaper | Aryan Shrestha | [Read More](https://medium.com/p/81b0ed3eb9f1) |
+| Sat, 06 Sep 2025 14:28:25 GMT | My ChatGPT Chats Were on Google. Here’s How I Fixed It. | Content Creator | [Read More](https://medium.com/p/740d1a9fd119) |
+| Sat, 06 Sep 2025 14:23:44 GMT | Phishing Gotcha: Seeing Through the Lies (Before It’s Too Late) | SilentInject | [Read More](https://medium.com/p/fd64a7657ebf) |
+| Sat, 06 Sep 2025 14:21:30 GMT | ✨ Linux Persistence Techniques | Cybersecplayground | [Read More](https://medium.com/p/505c4e80bbfe) |
+| Sat, 06 Sep 2025 14:19:26 GMT | Infrastructure Trends 2025 | Milaharris | [Read More](https://medium.com/p/ab7f880bf4f7) |
 | Sat, 06 Sep 2025 14:12:45 GMT | Bugs and Sorting out | Balki Maharaj | [Read More](https://medium.com/p/d3f4f1338d76) |
 | Sat, 06 Sep 2025 13:50:17 GMT | How to Use Slither for Smart Contract Security | Régis | [Read More](https://medium.com/p/ceffbc4a41a0) |
 | Sat, 06 Sep 2025 13:34:45 GMT | What is OSINT? — An Introduction | Kavi Amudan | [Read More](https://medium.com/p/1fce37f2a514) |
@@ -108,8 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 08:17:57 GMT | Buffer Overflow Tricky Control Hijack (easy). | cyberghost | [Read More](https://medium.com/p/d2ed897c24a0) |
 | Sat, 06 Sep 2025 08:16:21 GMT | Python Programming: The Most Beginner-Friendly Language You Need to Learn | Skilldigital | [Read More](https://medium.com/p/a52e4ea23813) |
 | Sat, 06 Sep 2025 08:15:58 GMT | AI vs. AI: The Epic Battle Happening in Your Self-Driving Car | Sumit Kumar Gupta | [Read More](https://medium.com/p/24b3def31290) |
-| Sat, 06 Sep 2025 08:14:28 GMT | Reflections on My First Month of Internship. | Hitesh Said | [Read More](https://medium.com/p/8c63f0399c84) |
-| Sat, 06 Sep 2025 08:06:01 GMT | ️‍♂️ Target Analysis with OSINT: Tools and Scenarios | Esra Kayhan | [Read More](https://medium.com/p/40823a1d5c67) |
-| Sat, 06 Sep 2025 08:04:40 GMT | Bash script to get list of subdomains from “crt.sh” and check status codes | Siddharth Rose | [Read More](https://medium.com/p/cda2d4139971) |
-| Sat, 06 Sep 2025 08:02:28 GMT | Internet Operations Management by Cortex: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f68a761e0d9d) |
-| Sat, 06 Sep 2025 08:01:35 GMT | Linux Hardening: Because Your Career Depends on Not Getting Breached ️ | MayhemCode | [Read More](https://medium.com/p/6673a94583f0) |
