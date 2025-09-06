@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 21:31:56 GMT | FastAPI Security Without Slowness | Hash Block | [Read More](https://medium.com/p/b9893008216e) |
+| Sat, 06 Sep 2025 21:13:07 GMT | Auditoria automatizada de OSINT WEB con GPT-5 | Adrian Romanov | [Read More](https://medium.com/p/a90f5dfb44fd) |
 | Sat, 06 Sep 2025 21:11:15 GMT | From Locks on Doors to Locks on Data: How Security Has Evolved With Us | Haider Ali | [Read More](https://medium.com/p/054a52e573be) |
+| Sat, 06 Sep 2025 21:09:18 GMT | TryHackMe Writeup: Anonforce | Berkay AĞGÜL | [Read More](https://medium.com/p/b61083771301) |
 | Sat, 06 Sep 2025 21:06:17 GMT | I Found a Critical Security Flaw Using Only My Browser | Ibtissam hammadi | [Read More](https://medium.com/p/a49af831a499) |
 | Sat, 06 Sep 2025 20:59:27 GMT | Abdul Rehman’s First Step
 Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Rehman | [Read More](https://medium.com/p/81f198ad95fd) |
@@ -110,6 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 14:37:40 GMT | How Fresh Mint Can Keep Gnats Out of Your Home | Tiann Jackson | [Read More](https://medium.com/p/e4f21c8a5274) |
 | Sat, 06 Sep 2025 14:35:19 GMT | API Authentication Explained: API Keys, JWT, and OAuth (Without the Boring Jargon) | Rasathurai Karan | [Read More](https://medium.com/p/6952f2d08098) |
 | Sat, 06 Sep 2025 14:33:07 GMT | When Paywall is Just a Wallpaper | Aryan Shrestha | [Read More](https://medium.com/p/81b0ed3eb9f1) |
-| Sat, 06 Sep 2025 14:28:25 GMT | My ChatGPT Chats Were on Google. Here’s How I Fixed It. | Content Creator | [Read More](https://medium.com/p/740d1a9fd119) |
-| Sat, 06 Sep 2025 14:23:44 GMT | Phishing Gotcha: Seeing Through the Lies (Before It’s Too Late) | SilentInject | [Read More](https://medium.com/p/fd64a7657ebf) |
-| Sat, 06 Sep 2025 14:21:30 GMT | ✨ Linux Persistence Techniques | Cybersecplayground | [Read More](https://medium.com/p/505c4e80bbfe) |
