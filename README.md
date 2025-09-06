@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 20:30:25 GMT | The End of Data Privacy: You Already Lost the Battle | Dax | [Read More](https://medium.com/p/e5aa9bb96dbf) |
+| Sat, 06 Sep 2025 20:23:32 GMT | A SMART CONTRACT!!! WHAT IS IT? | Justann | [Read More](https://medium.com/p/bff1ba8291f5) |
+| Sat, 06 Sep 2025 20:19:07 GMT | TLS 1.3, Certificate Authorities, and the Ongoing Balance of Security | Jialei Q. | [Read More](https://medium.com/p/6ece7d3b33bd) |
+| Sat, 06 Sep 2025 20:18:16 GMT | MalDoc101 Lab - CyberDefenders | Body | [Read More](https://medium.com/p/9ce9bd74923b) |
 | Sat, 06 Sep 2025 20:14:35 GMT | Vulnerable Js Hunting | Deezacker | [Read More](https://medium.com/p/4723a3001f13) |
+| Sat, 06 Sep 2025 20:13:18 GMT | Environment Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/23bada8d48f6) |
 | Sat, 06 Sep 2025 20:09:07 GMT | Episode 3: Fundamentals Of Cybersecurity — Threats and Vulnerabilities | Yash Kitey | [Read More](https://medium.com/p/c5542a1fa5eb) |
 | Sat, 06 Sep 2025 20:07:36 GMT | Garbage In, Garbage Out: The OSINT Trap I Fell Into | Sam Galope | [Read More](https://medium.com/p/74a3a9c4b9ca) |
 | Sat, 06 Sep 2025 19:59:59 GMT | Inside the Stuxnet Attack: The Worm That Sabotaged Iran’s Natanz Nuclear Facility | Shaheryar Ali | [Read More](https://medium.com/p/0e6deacfbe5f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 13:23:34 GMT | CTFs, René Descartes and Non-Universality of Thinking | Taulan Zauzanov | [Read More](https://medium.com/p/789c50492387) |
 | Sat, 06 Sep 2025 13:22:34 GMT | How “Live Threat Intelligence” Transforms Modern Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/ad820e74eeb2) |
 | Sat, 06 Sep 2025 13:19:08 GMT | Making an Informed Choice: The Complete Guide to Sex Doll Selection | First Dolls | [Read More](https://medium.com/p/0f64a6d9aebc) |
-| Sat, 06 Sep 2025 13:13:19 GMT | Master Wi-Fi Cracking with Wifite | GMM | [Read More](https://medium.com/p/e20181aa07ff) |
-| Sat, 06 Sep 2025 13:12:38 GMT | How Blockchain Technology Enhances Cyber Security | Nagaraj | [Read More](https://medium.com/p/2268dbc609df) |
-| Sat, 06 Sep 2025 13:08:22 GMT | Building My Own ESXi Workstation | Huzairi Haril | [Read More](https://medium.com/p/b5cb5c754f43) |
-| Sat, 06 Sep 2025 13:06:50 GMT | NFS Root Squashing Privilege Escalation (Linux Priv Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/046c2cbc402f) |
-| Sat, 06 Sep 2025 13:05:10 GMT | Extra Step That Could Save Your Gmail (And Your Peace of Mind) | Senior Tech Basics | [Read More](https://medium.com/p/7bf0a829b073) |
