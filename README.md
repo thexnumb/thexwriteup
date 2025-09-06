@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 21:11:15 GMT | From Locks on Doors to Locks on Data: How Security Has Evolved With Us | Haider Ali | [Read More](https://medium.com/p/054a52e573be) |
+| Sat, 06 Sep 2025 21:06:17 GMT | I Found a Critical Security Flaw Using Only My Browser | Ibtissam hammadi | [Read More](https://medium.com/p/a49af831a499) |
+| Sat, 06 Sep 2025 20:59:27 GMT | Abdul Rehman’s First Step
+Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Rehman | [Read More](https://medium.com/p/81f198ad95fd) |
+| Sat, 06 Sep 2025 20:56:18 GMT | Old Phone, New Risks: Don’t Let Your Huawei Be a Hacker’s Playground | Authlyn | [Read More](https://medium.com/p/26b011bd1169) |
+| Sat, 06 Sep 2025 20:44:08 GMT | Hacking Gadgets — Part 1: Rubber Ducky | Juan M. Vazquez | [Read More](https://medium.com/p/d23dbd6a84f8) |
+| Sat, 06 Sep 2025 20:41:58 GMT | One Suffix to Fool Them All: A Review of Universal and Transferable Adversarial Attacks on Aligned… | GlitchQ | [Read More](https://medium.com/p/78d2f605f162) |
 | Sat, 06 Sep 2025 20:30:25 GMT | The End of Data Privacy: You Already Lost the Battle | Dax | [Read More](https://medium.com/p/e5aa9bb96dbf) |
 | Sat, 06 Sep 2025 20:23:32 GMT | A SMART CONTRACT!!! WHAT IS IT? | Justann | [Read More](https://medium.com/p/bff1ba8291f5) |
 | Sat, 06 Sep 2025 20:19:07 GMT | TLS 1.3, Certificate Authorities, and the Ongoing Balance of Security | Jialei Q. | [Read More](https://medium.com/p/6ece7d3b33bd) |
 | Sat, 06 Sep 2025 20:18:16 GMT | MalDoc101 Lab - CyberDefenders | Body | [Read More](https://medium.com/p/9ce9bd74923b) |
+| Sat, 06 Sep 2025 20:15:37 GMT | Cybersecurity Basics Cia Triad | orioninsist | [Read More](https://medium.com/p/ddd8f0721141) |
 | Sat, 06 Sep 2025 20:14:35 GMT | Vulnerable Js Hunting | Deezacker | [Read More](https://medium.com/p/4723a3001f13) |
 | Sat, 06 Sep 2025 20:13:18 GMT | Environment Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/23bada8d48f6) |
 | Sat, 06 Sep 2025 20:09:07 GMT | Episode 3: Fundamentals Of Cybersecurity — Threats and Vulnerabilities | Yash Kitey | [Read More](https://medium.com/p/c5542a1fa5eb) |
@@ -105,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 14:28:25 GMT | My ChatGPT Chats Were on Google. Here’s How I Fixed It. | Content Creator | [Read More](https://medium.com/p/740d1a9fd119) |
 | Sat, 06 Sep 2025 14:23:44 GMT | Phishing Gotcha: Seeing Through the Lies (Before It’s Too Late) | SilentInject | [Read More](https://medium.com/p/fd64a7657ebf) |
 | Sat, 06 Sep 2025 14:21:30 GMT | ✨ Linux Persistence Techniques | Cybersecplayground | [Read More](https://medium.com/p/505c4e80bbfe) |
-| Sat, 06 Sep 2025 14:19:26 GMT | Infrastructure Trends 2025 | Milaharris | [Read More](https://medium.com/p/ab7f880bf4f7) |
-| Sat, 06 Sep 2025 14:12:45 GMT | Bugs and Sorting out | Balki Maharaj | [Read More](https://medium.com/p/d3f4f1338d76) |
-| Sat, 06 Sep 2025 13:50:17 GMT | How to Use Slither for Smart Contract Security | Régis | [Read More](https://medium.com/p/ceffbc4a41a0) |
-| Sat, 06 Sep 2025 13:34:45 GMT | What is OSINT? — An Introduction | Kavi Amudan | [Read More](https://medium.com/p/1fce37f2a514) |
-| Sat, 06 Sep 2025 13:23:34 GMT | CTFs, René Descartes and Non-Universality of Thinking | Taulan Zauzanov | [Read More](https://medium.com/p/789c50492387) |
-| Sat, 06 Sep 2025 13:22:34 GMT | How “Live Threat Intelligence” Transforms Modern Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/ad820e74eeb2) |
-| Sat, 06 Sep 2025 13:19:08 GMT | Making an Informed Choice: The Complete Guide to Sex Doll Selection | First Dolls | [Read More](https://medium.com/p/0f64a6d9aebc) |
