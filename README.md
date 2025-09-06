@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 18:10:43 GMT | AI Scams Are Getting Smarter — Don’t Become the Next Victim | Madebyflorisb | [Read More](https://medium.com/p/8e4722b2466a) |
+| Sat, 06 Sep 2025 18:08:59 GMT | Is Your AI a Double Agent? | Pannag Kumaar | [Read More](https://medium.com/p/d47c95a97d1e) |
+| Sat, 06 Sep 2025 18:01:40 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/49c7f079f32c) |
+| Sat, 06 Sep 2025 17:57:17 GMT | Practical guide: detecting Nmap port scans with Wireshark | Khalil Z. | [Read More](https://medium.com/p/f50a52ac1dfd) |
+| Sat, 06 Sep 2025 17:49:19 GMT | Everything about Playbook in CyberSecurity For Security Analyst — Complete Guide | SecurewithUmer | [Read More](https://medium.com/p/f9ab23152ef5) |
+| Sat, 06 Sep 2025 17:45:49 GMT | Learning to be Vulnerable | DamnAmazon | [Read More](https://medium.com/p/315d1d3045ee) |
+| Sat, 06 Sep 2025 17:41:54 GMT | Hire A Hacker To Hack Instagram Account | Darksynthhacker | [Read More](https://medium.com/p/c95c4f710af0) |
+| Sat, 06 Sep 2025 17:38:12 GMT | Reasons Why People Choose Friends With Benefits Over Real Relationships | Maria Arshad | [Read More](https://medium.com/p/1d9fa32f24ef) |
+| Sat, 06 Sep 2025 17:35:32 GMT | How To Hire A Hacker | Darksynthhacker | [Read More](https://medium.com/p/66b2a8a6857f) |
 | Sat, 06 Sep 2025 17:22:01 GMT | Reverse Engineering solution to txrbo’s Basic Crackme 1 (.NET) | Nathan C | [Read More](https://medium.com/p/84178c973d93) |
 | Sat, 06 Sep 2025 17:21:24 GMT | CanYouSee - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/560d53bd1fe0) |
 | Sat, 06 Sep 2025 17:19:51 GMT | Alert Response Procedures: The Strategic Backbone of SOC Operations in the Age of AI | V-One Giri | [Read More](https://medium.com/p/2d613683e720) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 11:30:26 GMT | A School District’s Nightmare: How One Cyberattack Exposed 31,000 People | Pannag Kumaar | [Read More](https://medium.com/p/d8b6ce3d86b3) |
 | Sat, 06 Sep 2025 11:16:07 GMT | EgeGuard: A Python-Based Security & Network Monitoring Prototype | Egehanmacit | [Read More](https://medium.com/p/15e03dc9b7f9) |
 | Sat, 06 Sep 2025 11:13:28 GMT | Kibana ile elasticsearch bağlantısını docker üzerinden güvenlikli bir şekilde bağlanmak | Enes Tasar | [Read More](https://medium.com/p/6fc9f69b6f3e) |
-| Sat, 06 Sep 2025 11:10:12 GMT | How I Hacked All Universities in My City | Charon19d | [Read More](https://medium.com/p/d6b8e320455c) |
-| Sat, 06 Sep 2025 10:57:46 GMT | Best Ethical Hacking Training in Noida - Ducat India | Aditigupta | [Read More](https://medium.com/p/5aa33343a1e2) |
-| Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Yash Mishra | [Read More](https://medium.com/p/44923fb428ac) |
-| Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/0c01f25ef84d) |
-| Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Rajyavardhan | [Read More](https://medium.com/p/7a8409a5dfbf) |
-| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | Jeevan Samal | [Read More](https://medium.com/p/72a55725acdc) |
-| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | Shivanityagi | [Read More](https://medium.com/p/c29fae0dab9a) |
-| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | vipin | [Read More](https://medium.com/p/861aea370e62) |
-| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | skaushal974@gmail.com | [Read More](https://medium.com/p/20a95e72cc7b) |
