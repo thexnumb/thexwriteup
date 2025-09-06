@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 09:04:43 GMT | Building Threat Intelligence Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/7f84b8227494) |
+| Sat, 06 Sep 2025 09:02:33 GMT | What If Tomorrow You Woke Up and Couldn’t Access Any of Your Files? | Nalikajayarathna | [Read More](https://medium.com/p/68cf60c4abaf) |
+| Sat, 06 Sep 2025 09:02:09 GMT | How to Travel Safely in an Increasingly Volatile World | Samuel G | [Read More](https://medium.com/p/da6e4f16cba0) |
+| Sat, 06 Sep 2025 09:00:02 GMT | TryHackMe - Warzone 1— Network Alerts Walkthrough | Furkanctiner | [Read More](https://medium.com/p/e084f5b7dd9f) |
+| Sat, 06 Sep 2025 08:57:58 GMT | 5 Best IT Companies in New Zealand for Reliable Tech Support | Susan Clinton | [Read More](https://medium.com/p/89c90cf57592) |
+| Sat, 06 Sep 2025 08:52:11 GMT | Building Bella Vista: My Journey Developing an E-Commerce Web App | Viduni Hewage | [Read More](https://medium.com/p/a528903d3762) |
+| Sat, 06 Sep 2025 08:50:39 GMT | AI Safety: Image generation with nano-banana | Kahhow | [Read More](https://medium.com/p/b62ef87974df) |
+| Sat, 06 Sep 2025 08:50:18 GMT | Host Header Injection in Password Reset Function: From Header Manipulation to Account Takeover | Dgexploit | [Read More](https://medium.com/p/9572f39c6cd6) |
+| Sat, 06 Sep 2025 08:49:21 GMT | Why DevOps is Good for Cybersecurity and How Docker Enhances Secure Deployment of Node.js, | Ram Mote | [Read More](https://medium.com/p/805d7213bea5) |
+| Sat, 06 Sep 2025 08:46:50 GMT | Building a Secure E-Commerce Web Application: My Experience | Induwara Mihisara | [Read More](https://medium.com/p/02c76661b8e0) |
+| Sat, 06 Sep 2025 08:46:06 GMT | War Dialing in 2025: Why It’s Back and How to Stop It Cold | Joe Manna | [Read More](https://medium.com/p/98be9eaedc34) |
+| Sat, 06 Sep 2025 08:39:19 GMT | ️ Investigating Windows - TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/cda69f9eda5e) |
+| Sat, 06 Sep 2025 08:34:11 GMT | Top 7 Cybersecurity Threats to Watch Out for in 2025 | Nusrat Nafshi | [Read More](https://medium.com/p/b0c29359288d) |
+| Sat, 06 Sep 2025 08:32:31 GMT | Transformation der deutschen Telematikinfrastruktur zur Zero Trust Architektur | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/404f294d2958) |
 | Sat, 06 Sep 2025 08:24:55 GMT | Flatline TryHackMe Walkthrough — Complete Step-by-Step Guide to Root | Death Esther | [Read More](https://medium.com/p/4167180f1355) |
 | Sat, 06 Sep 2025 08:17:57 GMT | Buffer Overflow Tricky Control Hijack (easy). | cyberghost | [Read More](https://medium.com/p/d2ed897c24a0) |
 | Sat, 06 Sep 2025 08:16:21 GMT | Python Programming: The Most Beginner-Friendly Language You Need to Learn | Skilldigital | [Read More](https://medium.com/p/a52e4ea23813) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 01:29:30 GMT | If Anyone Notices | Haven Hartley | [Read More](https://medium.com/p/81b719946974) |
 | Sat, 06 Sep 2025 01:21:35 GMT | The “Office Vibe” on the Beijing-Shanghai High-Speed Railway: A Glimpse into the Future of Most… | Ophaly Kate | [Read More](https://medium.com/p/524ba0408bf6) |
 | Sat, 06 Sep 2025 00:59:36 GMT | AWS Lambda Cold Starts in 2025: What Changed and How to Optimize | Rizqi Mulki | [Read More](https://medium.com/p/8965b73a37ed) |
-| Sat, 06 Sep 2025 00:51:12 GMT | After the Hack: Finding Clarity in the Chaos of Crypto Theft | Gem Pad.io | [Read More](https://medium.com/p/a150927caba7) |
-| Sat, 06 Sep 2025 00:30:02 GMT | The Power of Encryption: Securing Data at Rest and in Transit | Samina Perveen | [Read More](https://medium.com/p/60b2a994187d) |
-| Sat, 06 Sep 2025 00:24:12 GMT | What Is the Most Dangerous Python Package on Your System? | Christopher Ariza | [Read More](https://medium.com/p/03d7e3ea2000) |
-| Sat, 06 Sep 2025 00:15:22 GMT | Cracking the Code: An Introduction to Cryptography and Cryptographic Attacks | Shahzaib | [Read More](https://medium.com/p/546fb7121b18) |
-| Sat, 06 Sep 2025 00:01:41 GMT | The Ultimate SQLMap Guide: Detecting and Exploiting SQL Injection | JPablo13 | [Read More](https://medium.com/p/0499a6091022) |
-| Sat, 06 Sep 2025 00:00:30 GMT | iOS Penetration Testing — Part 2 (Advanced Guide) | p4n7h3rx | [Read More](https://medium.com/p/e769cbafcf04) |
-| Fri, 05 Sep 2025 23:52:54 GMT | PortSwigger “Forced OAuth profile linking” Lab - Çözüm & Walkthrough | Mirac Kayikci | [Read More](https://medium.com/p/1816d3382dfd) |
-| Fri, 05 Sep 2025 23:37:00 GMT | Exploiting Insecure Android WebView with setAllowUniversalAccessFromFileURLs | Youssefhussein | [Read More](https://medium.com/p/c7f4f7a8db9c) |
-| Fri, 05 Sep 2025 23:36:52 GMT | How to Pass CompTIA Security+ (SY0–701) Using pwn.guide | Nity Aananth | [Read More](https://medium.com/p/f91d010e75f5) |
-| Fri, 05 Sep 2025 23:29:01 GMT | TryHackMe Room : Blue walkthrough | Enitan Ogungbade | [Read More](https://medium.com/p/f2fb3d7b3e80) |
-| Fri, 05 Sep 2025 23:19:02 GMT | Hackers Just Turned Grok Into Their Malware Salesman | Cyber-AppSec | [Read More](https://medium.com/p/70b47fb8890c) |
-| Fri, 05 Sep 2025 23:17:54 GMT | On dismissiveness. | Apoorva Sahay | [Read More](https://medium.com/p/1e27e44e62d0) |
-| Fri, 05 Sep 2025 22:59:43 GMT | Incident Response and Cybersecurity Culture – Building Resilience Through International Frameworks | David SEHYEON Baek | [Read More](https://medium.com/p/a4ba07733249) |
-| Fri, 05 Sep 2025 22:49:26 GMT | How I Found Broken Access Control -Then I Stopped Hunting | Umanhonlen Gabriel | [Read More](https://medium.com/p/a48187e8702a) |
