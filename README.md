@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 06:10:37 GMT | How I Broke Down a bitsadmin Detection Rule: A LetsDefend Challenge Walkthrough | Sohan Kanna D | [Read More](https://medium.com/p/2211b647f84d) |
+| Sat, 06 Sep 2025 06:06:06 GMT | Who Secures AI? And Why Cybersecurity Doesn’t Have to Be Complicated | Recover Right | [Read More](https://medium.com/p/1f15ed621e1e) |
+| Sat, 06 Sep 2025 06:05:52 GMT | OWASP Top 10 (2021) — Definitions Made Simple | Abhinsubej | [Read More](https://medium.com/p/fb433428e801) |
+| Sat, 06 Sep 2025 05:53:29 GMT | Ensuring Safety & Hospitality: Shopping Mall Security Guards in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/f72855cf374d) |
+| Sat, 06 Sep 2025 05:52:14 GMT | How to Discover a Website’s Hidden Origin Server | Ibtissam hammadi | [Read More](https://medium.com/p/3e3f25d5be39) |
+| Sat, 06 Sep 2025 05:40:21 GMT | What Is Mechanical Engineering?: The Definitive Guide with 7 Powerful Examples | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/df0dc9832e62) |
+| Sat, 06 Sep 2025 05:32:54 GMT | Phish and Fetch: Turning Weak Email Validations Into Full System Access | Iski | [Read More](https://medium.com/p/eb2fcd2743f2) |
+| Sat, 06 Sep 2025 05:32:23 GMT | The Fear of Catching Feelings in Modern Dating | Soren Frost | [Read More](https://medium.com/p/fa0d4eaab39e) |
 | Sat, 06 Sep 2025 05:31:56 GMT | Kerentanan RouterOS 6.40.5 - 6.44 dan 6.48.1 - 6.49.10 Terhadap Serangan DoS (Denial of Service). | M. MALIK FAJAR B | [Read More](https://medium.com/p/15b9e5b4e61a) |
 | Sat, 06 Sep 2025 05:31:39 GMT | How to Create a BAT File in Windows 11 (Step-by-Step Guide) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/72ba4372ed89) |
+| Sat, 06 Sep 2025 05:29:53 GMT | OSINT — A Beginner’s Guide to Open Source Intelligence. | S.Ali | [Read More](https://medium.com/p/a510063b9474) |
 | Sat, 06 Sep 2025 05:28:15 GMT | How Hackers Use Google Dorks to Find Secrets | Vipul Sonule | [Read More](https://medium.com/p/9130c8a8f9cc) |
 | Sat, 06 Sep 2025 05:05:20 GMT | Breaking into Steel Mountain: A Mr. Robot-Inspired Windows Pentest on TryHackMe | Roy | [Read More](https://medium.com/p/b1c96a6fa5cb) |
 | Sat, 06 Sep 2025 04:57:50 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/72b7005ee571) |
@@ -104,12 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 19:58:33 GMT | The Hidden Value of Application Support Experience in a Developer’s Career | Dagny Workman | [Read More](https://medium.com/p/810cfe9fdef7) |
 | Fri, 05 Sep 2025 19:56:44 GMT | Technological Risks of AI — The Invisible Fragility of Innovations | Alessandra Martins | [Read More](https://medium.com/p/9629d5275635) |
 | Fri, 05 Sep 2025 19:56:39 GMT | Configuring a Keystore for Android App Signing | Danford Jurvis | [Read More](https://medium.com/p/d759d699f18a) |
-| Fri, 05 Sep 2025 19:52:02 GMT | Evil Twin Wi-Fi Attacks: The Dangerous Doppelgänger of Your Network | Akshay Chauhan | [Read More](https://medium.com/p/fbab382f7b92) |
-| Fri, 05 Sep 2025 19:47:11 GMT | A quick guide to creating Docker containers for testing scripts, malware or honeypot purposes. | 4zer7y | [Read More](https://medium.com/p/44d160a7f075) |
-| Fri, 05 Sep 2025 19:45:22 GMT | Security Logging and Monitoring Failures (OWASP Top 10 #9) — Simplified | Chai | [Read More](https://medium.com/p/bef9cad1d063) |
-| Fri, 05 Sep 2025 19:40:48 GMT | LinkedIn OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/55e91e7c3d43) |
-| Fri, 05 Sep 2025 19:40:34 GMT | My Virtual HomeLab: Security — Part One | Cybersec with Hemmars | [Read More](https://medium.com/p/fda7a9f8efeb) |
-| Fri, 05 Sep 2025 19:38:10 GMT | PBO : Class & Object | Yasa Wijaya | [Read More](https://medium.com/p/8a7d8defef2b) |
-| Fri, 05 Sep 2025 19:35:00 GMT | MY DROSERA FUTURE | Midast | [Read More](https://medium.com/p/e0c283c800c9) |
-| Fri, 05 Sep 2025 19:31:04 GMT | The Identity Revolution: How UDNA Transforms Enterprise Communication from IP-Based to… | Aamir Hameed | [Read More](https://medium.com/p/de412476f0c2) |
-| Fri, 05 Sep 2025 19:29:19 GMT | The Myth of the “Unhackable” System: Lessons from Pen Tests | Aj | [Read More](https://medium.com/p/142c2d43a0ff) |
