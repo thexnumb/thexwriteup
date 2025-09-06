@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 21:51:53 GMT | A 39-Second Warning: How the UNFI Grocery Breach Signals the Next Wave of Supply-Chain Chaos | SavetyAI | [Read More](https://medium.com/p/001bd6e21962) |
+| Sat, 06 Sep 2025 21:45:01 GMT | AI Took My Job, But It Also Gave Me a Better One | Jo Arazi | [Read More](https://medium.com/p/6fc7b7774293) |
+| Sat, 06 Sep 2025 21:37:29 GMT | Telstra AU Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/2e1bc7b1e88e) |
 | Sat, 06 Sep 2025 21:31:56 GMT | FastAPI Security Without Slowness | Hash Block | [Read More](https://medium.com/p/b9893008216e) |
 | Sat, 06 Sep 2025 21:13:07 GMT | Auditoria automatizada de OSINT WEB con GPT-5 | Adrian Romanov | [Read More](https://medium.com/p/a90f5dfb44fd) |
 | Sat, 06 Sep 2025 21:11:15 GMT | From Locks on Doors to Locks on Data: How Security Has Evolved With Us | Haider Ali | [Read More](https://medium.com/p/054a52e573be) |
@@ -110,6 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 14:53:18 GMT | HTB Sherlocks — SmartyPants Writeup | JLBSec | [Read More](https://medium.com/p/e2423f39e3a9) |
 | Sat, 06 Sep 2025 14:48:33 GMT | The npm Package That Drained Crypto Wallets While Developers Watched | Aj | [Read More](https://medium.com/p/0251a2c01434) |
 | Sat, 06 Sep 2025 14:39:43 GMT | AI, AI, Oh My | D L Henderson | [Read More](https://medium.com/p/f165fa1b011a) |
-| Sat, 06 Sep 2025 14:37:40 GMT | How Fresh Mint Can Keep Gnats Out of Your Home | Tiann Jackson | [Read More](https://medium.com/p/e4f21c8a5274) |
-| Sat, 06 Sep 2025 14:35:19 GMT | API Authentication Explained: API Keys, JWT, and OAuth (Without the Boring Jargon) | Rasathurai Karan | [Read More](https://medium.com/p/6952f2d08098) |
-| Sat, 06 Sep 2025 14:33:07 GMT | When Paywall is Just a Wallpaper | Aryan Shrestha | [Read More](https://medium.com/p/81b0ed3eb9f1) |
