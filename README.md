@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 03:09:08 GMT | EP 05: Let’s Encrypt | H.W.K. Aravinda | [Read More](https://medium.com/p/aee4d9854069) |
+| Sat, 06 Sep 2025 03:05:56 GMT | Best Video Doorbell 2025? Ring vs Nest vs eufy (Full Test & Buyer Guide) | Coltonballweb | [Read More](https://medium.com/p/02ce68f55b1b) |
+| Sat, 06 Sep 2025 03:04:16 GMT | Windows Privilege Escalation with SEImpersonate Token (and when to use which Potato..) | Indigo Shadow | [Read More](https://medium.com/p/aeec79821eea) |
+| Sat, 06 Sep 2025 03:03:57 GMT | Implementing Core Security Controls in AWS | Gabriel Ejiro | [Read More](https://medium.com/p/6f1a32df924e) |
+| Sat, 06 Sep 2025 03:03:10 GMT | SOC Level 1 — Cyber Kill Chain | Gregory Dawson | [Read More](https://medium.com/p/6a5c0e5f54ee) |
+| Sat, 06 Sep 2025 03:02:52 GMT | Sweden Hit by 733 GPS Jams, Russian Interference Suspected | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7cb3163376fe) |
+| Sat, 06 Sep 2025 02:49:51 GMT | The Ethics of Scientific Advancement: Where Do We Draw the Line? | muhammad ardiansah | [Read More](https://medium.com/p/405dd215c510) |
+| Sat, 06 Sep 2025 02:48:00 GMT | SOC Level 1 — Pyramid of Pain | Gregory Dawson | [Read More](https://medium.com/p/d0971ca946c6) |
+| Sat, 06 Sep 2025 02:45:40 GMT | The Day I Hit Publish | Solene Vu | [Read More](https://medium.com/p/dd8f861bcc51) |
 | Sat, 06 Sep 2025 02:41:41 GMT | ⛩️ Spirituality in the Age of AI and Information Abundance | Chuan | [Read More](https://medium.com/p/f7d10b7ca1aa) |
 | Sat, 06 Sep 2025 02:39:09 GMT | The Race to Room-Temperature Superconductors: A New Era of Energy? | muhammad ardiansah | [Read More](https://medium.com/p/7deb09e6e101) |
+| Sat, 06 Sep 2025 02:37:34 GMT | Malware Classification - Tryhackme | Aaron | [Read More](https://medium.com/p/4075ec04b99e) |
 | Sat, 06 Sep 2025 02:27:32 GMT | The Real Key to a Lasting Marriage: Beyond Romance | anni | [Read More](https://medium.com/p/4fe938129e2d) |
 | Sat, 06 Sep 2025 02:14:48 GMT | Cybersecurity Essentials 101- Conquering the CIA Triad | St0tRaa | [Read More](https://medium.com/p/0c3e97331bd7) |
 | Sat, 06 Sep 2025 02:05:28 GMT | Transforming Businesses with Innovative IT Solutions: A Look at VTECH VISION | VTECH VISION | [Read More](https://medium.com/p/df0a3c754ca8) |
@@ -103,13 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 18:27:29 GMT | AI Cyber Attacks Are Already Here: What You Need to Know | Cyberkech | [Read More](https://medium.com/p/a4502b3c42ef) |
 | Fri, 05 Sep 2025 18:24:04 GMT | Building a Local Clipboard Logger: A Python Project for Educational Cybersecurity | Kawalostwal | [Read More](https://medium.com/p/9d611f46898d) |
 | Fri, 05 Sep 2025 18:23:24 GMT | Day 17: Apache vs Nginx → Understanding Web Servers | Prutha_Dongre | [Read More](https://medium.com/p/298caee070d8) |
-| Fri, 05 Sep 2025 18:22:38 GMT | How I Found an IDOR Vulnerability in public bug bounty program of bugcrowd and What You Can Learn… | Be nice insabat | [Read More](https://medium.com/p/a1cd3ae2d326) |
-| Fri, 05 Sep 2025 18:17:44 GMT | MSSP Cybersecurity Partnership: Why Businesses Gain More with Managed Security | SafeAeon Inc. | [Read More](https://medium.com/p/2af60b915853) |
-| Fri, 05 Sep 2025 18:14:23 GMT | Why Bad Writing Is Actually Necessary for Good Writing | Global Whirl of Wonders | [Read More](https://medium.com/p/e7afb78ad0c3) |
-| Fri, 05 Sep 2025 18:12:09 GMT | AI Security Research — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/68d4f113f931) |
-| Fri, 05 Sep 2025 18:12:01 GMT | Wiz Challenge — Contain Me If You | Daniel Dias | [Read More](https://medium.com/p/b0b47226c5eb) |
-| Fri, 05 Sep 2025 18:10:57 GMT | Web3 Phishing Explained: Real Attacks, Risks, and How to Stay Safe | Aditya Raj | [Read More](https://medium.com/p/9eb80fe80451) |
-| Fri, 05 Sep 2025 18:06:35 GMT | How to recognize phishing and Trojans — 7 warning signs you need to know | Cordula Boeck | [Read More](https://medium.com/p/2f8853065bda) |
-| Fri, 05 Sep 2025 18:04:24 GMT | How I Found an Authentication Bypass at CoinMarketCap! | 0xBartita | [Read More](https://medium.com/p/191a13fec176) |
-| Fri, 05 Sep 2025 18:04:08 GMT | How to Use Nuclei as an AppSec DAST Tool in DevSecOps | Israel Aráoz Severiche | [Read More](https://medium.com/p/90d0ab5963bb) |
-| Fri, 05 Sep 2025 18:03:53 GMT | EDR vs MDR: Which Cybersecurity Solution Fits Your Business Best? | SafeAeon Inc. | [Read More](https://medium.com/p/e31f20142734) |
