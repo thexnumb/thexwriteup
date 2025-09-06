@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 03:38:59 GMT | My Cybersecurity Journey: Why I Chose TryHackMe | FloGood | [Read More](https://medium.com/p/ed59f09c6dbd) |
+| Sat, 06 Sep 2025 03:18:06 GMT | The Silent War: Inside the AI Revolution That's Rewriting Cybersecurity Forever | Shristi Singh | [Read More](https://medium.com/p/0b52a9d72a5a) |
 | Sat, 06 Sep 2025 03:09:08 GMT | EP 05: Let’s Encrypt | H.W.K. Aravinda | [Read More](https://medium.com/p/aee4d9854069) |
 | Sat, 06 Sep 2025 03:05:56 GMT | Best Video Doorbell 2025? Ring vs Nest vs eufy (Full Test & Buyer Guide) | Coltonballweb | [Read More](https://medium.com/p/02ce68f55b1b) |
 | Sat, 06 Sep 2025 03:04:16 GMT | Windows Privilege Escalation with SEImpersonate Token (and when to use which Potato..) | Indigo Shadow | [Read More](https://medium.com/p/aeec79821eea) |
@@ -24,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 02:41:41 GMT | ⛩️ Spirituality in the Age of AI and Information Abundance | Chuan | [Read More](https://medium.com/p/f7d10b7ca1aa) |
 | Sat, 06 Sep 2025 02:39:09 GMT | The Race to Room-Temperature Superconductors: A New Era of Energy? | muhammad ardiansah | [Read More](https://medium.com/p/7deb09e6e101) |
 | Sat, 06 Sep 2025 02:37:34 GMT | Malware Classification - Tryhackme | Aaron | [Read More](https://medium.com/p/4075ec04b99e) |
+| Sat, 06 Sep 2025 02:33:53 GMT | Exploiting CCTV: RTSP Authentication Digest | Pagar Alam | [Read More](https://medium.com/p/8e8d9043c4af) |
 | Sat, 06 Sep 2025 02:27:32 GMT | The Real Key to a Lasting Marriage: Beyond Romance | anni | [Read More](https://medium.com/p/4fe938129e2d) |
 | Sat, 06 Sep 2025 02:14:48 GMT | Cybersecurity Essentials 101- Conquering the CIA Triad | St0tRaa | [Read More](https://medium.com/p/0c3e97331bd7) |
 | Sat, 06 Sep 2025 02:05:28 GMT | Transforming Businesses with Innovative IT Solutions: A Look at VTECH VISION | VTECH VISION | [Read More](https://medium.com/p/df0a3c754ca8) |
@@ -110,6 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 18:32:47 GMT | CERT-In’s New Cybersecurity Mandate for MSMEs (Sept 2025) | Sairaj Mahesh | [Read More](https://medium.com/p/cbff8a6a6eb2) |
 | Fri, 05 Sep 2025 18:31:03 GMT | White Label SOC Services: Expanding Cybersecurity Without Extra Overhead | SafeAeon Inc. | [Read More](https://medium.com/p/fa4a5cd127c5) |
 | Fri, 05 Sep 2025 18:30:59 GMT | HTB Sherlocks — PhishNet Writeup | JLBSec | [Read More](https://medium.com/p/f933b0438d48) |
-| Fri, 05 Sep 2025 18:27:29 GMT | AI Cyber Attacks Are Already Here: What You Need to Know | Cyberkech | [Read More](https://medium.com/p/a4502b3c42ef) |
-| Fri, 05 Sep 2025 18:24:04 GMT | Building a Local Clipboard Logger: A Python Project for Educational Cybersecurity | Kawalostwal | [Read More](https://medium.com/p/9d611f46898d) |
-| Fri, 05 Sep 2025 18:23:24 GMT | Day 17: Apache vs Nginx → Understanding Web Servers | Prutha_Dongre | [Read More](https://medium.com/p/298caee070d8) |
