@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 07:16:23 GMT | So You Want to Be a Hacker? Forget the RGB. | Viratavi | [Read More](https://medium.com/p/e861ea4a29d4) |
+| Sat, 06 Sep 2025 07:14:23 GMT | The VPN Guide I Wish I Had Read Before Getting Hacked | David C. | [Read More](https://medium.com/p/9627f9c51cf1) |
+| Sat, 06 Sep 2025 07:04:06 GMT | Using Win32 API with Rust: A Step-by-Step Guide | Redfox Security | [Read More](https://medium.com/p/d9ab46ce6ef3) |
+| Sat, 06 Sep 2025 06:57:14 GMT | When More Data Means Worse Decisions | Phantasm  solutions | [Read More](https://medium.com/p/d773d0f5f30e) |
+| Sat, 06 Sep 2025 06:56:04 GMT | Advanced Banner Grabbing in Python (With Multi-threading) | Shayaan Khan | [Read More](https://medium.com/p/5240165418a9) |
+| Sat, 06 Sep 2025 06:53:02 GMT | Building Security Operations for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/8dff27a250e6) |
+| Sat, 06 Sep 2025 06:50:33 GMT | API Security: The Hidden Weak Link in Modern Applications | Abida Adra | [Read More](https://medium.com/p/f61b5508d81c) |
+| Sat, 06 Sep 2025 06:49:27 GMT | Building Security Operations for Organizations | Cyber Security Research | [Read More](https://medium.com/p/218c3ea3e9b1) |
 | Sat, 06 Sep 2025 06:41:32 GMT | Day 51- Understand common hacking tools for beginners | unica 02 | [Read More](https://medium.com/p/883b2eff45e6) |
+| Sat, 06 Sep 2025 06:39:45 GMT | Top 10 Hacking Games for aspiring Ethical Hackers [2025] | Manisha Chaudhary | [Read More](https://medium.com/p/aa6cc2f40c6d) |
+| Sat, 06 Sep 2025 06:39:44 GMT | Do All Transfer PayPal TEXT : : +1(616) 202–1156 cashapp Bank western union Zelle and clone cards… | Blackbox | [Read More](https://medium.com/p/ffa9ea3ccb33) |
 | Sat, 06 Sep 2025 06:32:44 GMT | Is Your API Key Alive or Dead? — Validate in Minutes with SecurityToolkits API Key Testing Tool | Haxshadow | [Read More](https://medium.com/p/0f887686fe3c) |
 | Sat, 06 Sep 2025 06:24:55 GMT | “Day 30: The Finale — The Bug That Almost Broke the Internet (Or Just My Testing Account)” | Aman Sharma | [Read More](https://medium.com/p/d63112e13427) |
 | Sat, 06 Sep 2025 06:19:33 GMT | Replacing AWS Access Keys with OIDC in GitHub Actions — A Hands-on Guide to Zero Rotation | Kunal Parkhade | [Read More](https://medium.com/p/e528e3c06dcd) |
@@ -103,13 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 21:26:58 GMT | The History of Intel and Its Most Important Milestones | Stacklegend | [Read More](https://medium.com/p/8c06b73ccd1f) |
 | Fri, 05 Sep 2025 21:21:45 GMT | CyberDefenders’ 3CX Supply Chain Lab | Adewale Ayomide | [Read More](https://medium.com/p/c0edc933b914) |
 | Fri, 05 Sep 2025 21:19:48 GMT | AI, Geopolitics and Power | Above The Firewall | [Read More](https://medium.com/p/95b9e7361a4a) |
-| Fri, 05 Sep 2025 21:18:31 GMT | How i Got $500 From Information Disclosure By Sending a Jpeg | Mado | [Read More](https://medium.com/p/e273d1b94da1) |
-| Fri, 05 Sep 2025 21:15:11 GMT | Vulnerability Might Be Healing | edwina armstrong | [Read More](https://medium.com/p/bd9481fe6040) |
-| Fri, 05 Sep 2025 21:13:18 GMT | The Battle of Being Ourselves | Canan Gonensin | [Read More](https://medium.com/p/6c6279e87ec9) |
-| Fri, 05 Sep 2025 21:01:28 GMT | Top Cybersecurity Certifications for Beginners | Digital Softlucid | [Read More](https://medium.com/p/9100a9252855) |
-| Fri, 05 Sep 2025 20:54:21 GMT | Writers learn to use punctuation ideally. Period. | Mofiyinfoluwa Joshua | [Read More](https://medium.com/p/257c0bfc734e) |
-| Fri, 05 Sep 2025 20:53:53 GMT | Pegasus, Graphite, and the Invisible War for Your Privacy, | Arthur Gonzalez | [Read More](https://medium.com/p/60628b45943d) |
-| Fri, 05 Sep 2025 20:49:01 GMT | The Future I See with Drosera Network | Ipaye Olajide | [Read More](https://medium.com/p/c3b7fd162dae) |
-| Fri, 05 Sep 2025 20:35:50 GMT | ️ My Analysis of Mexicos Cartel Hackers | V1rtu3 _h05t | [Read More](https://medium.com/p/07f733f6f1e6) |
-| Fri, 05 Sep 2025 20:30:50 GMT | Auditoria de código estático con ChatGPT | Adrian Romanov | [Read More](https://medium.com/p/4a9fc6d3e716) |
-| Fri, 05 Sep 2025 20:02:29 GMT | How i Pass SC-401 Certification Exam | Sam Watson | [Read More](https://medium.com/p/f6855b93c1b7) |
