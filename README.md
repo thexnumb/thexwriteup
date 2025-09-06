@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 16:31:37 GMT | Injectics writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/c9bf2132aa6f) |
+| Sat, 06 Sep 2025 16:29:07 GMT | Nmap A to Z: The Complete Guide to Network Scanning | Abhinsubej | [Read More](https://medium.com/p/d5beeb4c3430) |
+| Sat, 06 Sep 2025 16:27:56 GMT | Hacking Methodology From Crash to Code | Rohit Chaudhary | [Read More](https://medium.com/p/d829559417bb) |
+| Sat, 06 Sep 2025 16:25:31 GMT | Crack the Code, Unlock a Free Book: The Hacker’s Edge Challenge! | Ryan Merket | [Read More](https://medium.com/p/e66065d18e29) |
 | Sat, 06 Sep 2025 16:14:35 GMT | Blue Team Labs- Deep Blue Investigation | Juan Alexander Alejo | [Read More](https://medium.com/p/4af189fda052) |
 | Sat, 06 Sep 2025 16:07:08 GMT | How to protect your internet-facing apps from cyber attacks ? | Janarthanan Chander | [Read More](https://medium.com/p/d7aed8ab88a8) |
 | Sat, 06 Sep 2025 16:04:45 GMT | Large Language Models Are Routine Now. But If We Don’t Harden Security, Stuff Breaks, Fast | Jaed Grande Delosa | [Read More](https://medium.com/p/239ff261c620) |
@@ -109,7 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 10:34:55 GMT | Boost Your PHP App’s Security with a Lightweight PHP TOTP Library | Hossein Hezami | [Read More](https://medium.com/p/21e899ad4b0a) |
 | Sat, 06 Sep 2025 10:30:52 GMT | Struggling to Secure Your New Product? | Sajjad Hussain | [Read More](https://medium.com/p/87a495a40792) |
 | Sat, 06 Sep 2025 10:25:27 GMT | Using Zphisher to get the victim’s username and password | Siddharth Rose | [Read More](https://medium.com/p/dd6b5a2b8bfa) |
-| Sat, 06 Sep 2025 10:24:57 GMT | XWorm Malware Evolves With New Infection Chain | SCtoCS | [Read More](https://medium.com/p/ff4b7c93418d) |
-| Sat, 06 Sep 2025 10:17:30 GMT | How to exploit? Multicast DNS (mDNS) and DNS-SD — PORT 5353/UDP | Very Lazy Tech | [Read More](https://medium.com/p/2ff73a84e16d) |
-| Sat, 06 Sep 2025 10:15:53 GMT | Bypassing CAPTCHA with No Rate Limiting potentially leads to ATO. | youssef awad | [Read More](https://medium.com/p/0a7714c9042d) |
-| Sat, 06 Sep 2025 10:15:25 GMT | Give the Gift of Accountability | Mike Sansone | [Read More](https://medium.com/p/483d2fea64e9) |
