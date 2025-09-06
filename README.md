@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 17:12:29 GMT | “ JSON POST Bodies: The Hidden Goldmine of XSS & Bug Bounties” | Zoningxtr | [Read More](https://medium.com/p/b19fb7e09e69) |
+| Sat, 06 Sep 2025 17:08:22 GMT | GXSS and KXSS: Peeking Into the Hidden Corners of the Web | Natarajan C K | [Read More](https://medium.com/p/69650dd441b7) |
+| Sat, 06 Sep 2025 17:01:43 GMT | Defang an IP Address with JavaScript (and Do It Safely) | habtesoft | [Read More](https://medium.com/p/a6315cd0c323) |
+| Sat, 06 Sep 2025 16:54:25 GMT | How to Resolve Constantly Changing and Wrong Timezone | AYOMIDE OGUNJIMI | [Read More](https://medium.com/p/e3b7dbfa13a1) |
+| Sat, 06 Sep 2025 16:46:10 GMT | Snort: Ağ Güvenliğinin Gizli Kahramanı (Nedir? Nasıl Kullanılır?) | Mustafa Salih Tatar | [Read More](https://medium.com/p/ef21b67c387a) |
 | Sat, 06 Sep 2025 16:31:37 GMT | Injectics writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/c9bf2132aa6f) |
 | Sat, 06 Sep 2025 16:29:07 GMT | Nmap A to Z: The Complete Guide to Network Scanning | Abhinsubej | [Read More](https://medium.com/p/d5beeb4c3430) |
 | Sat, 06 Sep 2025 16:27:56 GMT | Hacking Methodology From Crash to Code | Rohit Chaudhary | [Read More](https://medium.com/p/d829559417bb) |
@@ -108,8 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 10:46:29 GMT | Understanding XSS Vulnerabilities | CosmicByte | [Read More](https://medium.com/p/8ddc5aadeb37) |
 | Sat, 06 Sep 2025 10:46:19 GMT | Detection Gaps: The Hidden Enemy in SOC Threat Hunting & Detection Engineering | 0xZetss | [Read More](https://medium.com/p/764472ea975e) |
 | Sat, 06 Sep 2025 10:42:54 GMT | Linux Basics — Part 4 (Stdin, Stdout, Stderr, and Redirections) | Priyanshu Singh | [Read More](https://medium.com/p/a8c01f72004a) |
-| Sat, 06 Sep 2025 10:39:46 GMT | My PT1 Exam Experience — The Mini OSCP Adventure | therealslimshady | [Read More](https://medium.com/p/058a2c85d4d5) |
-| Sat, 06 Sep 2025 10:36:41 GMT | Secure Ports with JIT in Azure | Peta Pavan | [Read More](https://medium.com/p/f03181f63442) |
-| Sat, 06 Sep 2025 10:34:55 GMT | Boost Your PHP App’s Security with a Lightweight PHP TOTP Library | Hossein Hezami | [Read More](https://medium.com/p/21e899ad4b0a) |
-| Sat, 06 Sep 2025 10:30:52 GMT | Struggling to Secure Your New Product? | Sajjad Hussain | [Read More](https://medium.com/p/87a495a40792) |
-| Sat, 06 Sep 2025 10:25:27 GMT | Using Zphisher to get the victim’s username and password | Siddharth Rose | [Read More](https://medium.com/p/dd6b5a2b8bfa) |
