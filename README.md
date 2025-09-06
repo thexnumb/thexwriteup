@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 10:57:46 GMT | Best Ethical Hacking Training in Noida - Ducat India | Aditigupta | [Read More](https://medium.com/p/5aa33343a1e2) |
+| Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Yash Mishra | [Read More](https://medium.com/p/44923fb428ac) |
+| Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/0c01f25ef84d) |
+| Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Rajyavardhan | [Read More](https://medium.com/p/7a8409a5dfbf) |
+| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | Jeevan Samal | [Read More](https://medium.com/p/72a55725acdc) |
+| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | Shivanityagi | [Read More](https://medium.com/p/c29fae0dab9a) |
+| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | vipin | [Read More](https://medium.com/p/861aea370e62) |
+| Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | skaushal974@gmail.com | [Read More](https://medium.com/p/20a95e72cc7b) |
+| Sat, 06 Sep 2025 10:57:42 GMT | Best Ethical Hacking Training in Noida - Ducat India | Tyagipriyank | [Read More](https://medium.com/p/6cba1c03a758) |
+| Sat, 06 Sep 2025 10:57:41 GMT | Best Ethical Hacking Training in Noida - Ducat India
+In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https://medium.com/p/9ad6ae98e0a0) |
+| Sat, 06 Sep 2025 10:53:46 GMT | How Small Crypto Assets Can Make You Big Money | Gladrobert | [Read More](https://medium.com/p/cbb09a15f9c9) |
+| Sat, 06 Sep 2025 10:53:34 GMT | ⏱️ When Time Betrays You: Exploiting Race Conditions in a Global SaaS Platform | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bb524eab9fd3) |
+| Sat, 06 Sep 2025 10:51:02 GMT | SVG Smuggling: How Hidden Scripts in Clean-Looking Images Are Undermining Malware Defenses. | eL Njas!™ | [Read More](https://medium.com/p/eb666cee1862) |
+| Sat, 06 Sep 2025 10:46:29 GMT | Understanding XSS Vulnerabilities | CosmicByte | [Read More](https://medium.com/p/8ddc5aadeb37) |
+| Sat, 06 Sep 2025 10:46:19 GMT | Detection Gaps: The Hidden Enemy in SOC Threat Hunting & Detection Engineering | 0xZetss | [Read More](https://medium.com/p/764472ea975e) |
+| Sat, 06 Sep 2025 10:42:54 GMT | Linux Basics — Part 4 (Stdin, Stdout, Stderr, and Redirections) | Priyanshu Singh | [Read More](https://medium.com/p/a8c01f72004a) |
+| Sat, 06 Sep 2025 10:39:46 GMT | My PT1 Exam Experience — The Mini OSCP Adventure | therealslimshady | [Read More](https://medium.com/p/058a2c85d4d5) |
+| Sat, 06 Sep 2025 10:36:41 GMT | Secure Ports with JIT in Azure | Peta Pavan | [Read More](https://medium.com/p/f03181f63442) |
+| Sat, 06 Sep 2025 10:34:55 GMT | Boost Your PHP App’s Security with a Lightweight PHP TOTP Library | Hossein Hezami | [Read More](https://medium.com/p/21e899ad4b0a) |
 | Sat, 06 Sep 2025 10:30:52 GMT | Struggling to Secure Your New Product? | Sajjad Hussain | [Read More](https://medium.com/p/87a495a40792) |
 | Sat, 06 Sep 2025 10:25:27 GMT | Using Zphisher to get the victim’s username and password | Siddharth Rose | [Read More](https://medium.com/p/dd6b5a2b8bfa) |
 | Sat, 06 Sep 2025 10:24:57 GMT | XWorm Malware Evolves With New Infection Chain | SCtoCS | [Read More](https://medium.com/p/ff4b7c93418d) |
@@ -93,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 05:31:39 GMT | How to Create a BAT File in Windows 11 (Step-by-Step Guide) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/72ba4372ed89) |
 | Sat, 06 Sep 2025 05:29:53 GMT | OSINT — A Beginner’s Guide to Open Source Intelligence. | S.Ali | [Read More](https://medium.com/p/a510063b9474) |
 | Sat, 06 Sep 2025 05:28:15 GMT | How Hackers Use Google Dorks to Find Secrets | Vipul Sonule | [Read More](https://medium.com/p/9130c8a8f9cc) |
-| Sat, 06 Sep 2025 05:05:20 GMT | Breaking into Steel Mountain: A Mr. Robot-Inspired Windows Pentest on TryHackMe | Roy | [Read More](https://medium.com/p/b1c96a6fa5cb) |
-| Sat, 06 Sep 2025 04:57:50 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/72b7005ee571) |
-| Sat, 06 Sep 2025 04:51:36 GMT | 5 Reasons Why Smart Companies Will Choose Bugthrive for Their Bug Bounty Program Management | ProwlSec | [Read More](https://medium.com/p/0554c0ec38fc) |
-| Sat, 06 Sep 2025 04:48:10 GMT | Building a Universal Encoder/Decoder with Cryptography in Python (Tkinter + ttkbootstrap) | Farhad Habibie | [Read More](https://medium.com/p/c49af2e277a6) |
-| Sat, 06 Sep 2025 04:37:11 GMT | Complete Guide to AI-Powered Cybersecurity Certification in 2025 | sneha gaikwad | [Read More](https://medium.com/p/e9297285c48c) |
-| Sat, 06 Sep 2025 04:32:03 GMT | Jaguar Land Rover Just Got Hit by a Cyber Attack — Here’s Why It Matters | IamPreth | [Read More](https://medium.com/p/62009180eede) |
-| Sat, 06 Sep 2025 04:31:14 GMT | Apple MacBook Pro M3 Max Review: Power, Speed & Battery Life | Tassanee Charoenrat | [Read More](https://medium.com/p/6df331ffc2a7) |
-| Sat, 06 Sep 2025 04:23:01 GMT | short funny story of how I got into cybersecurity | Notfunny_nik | [Read More](https://medium.com/p/870e26c93571) |
-| Sat, 06 Sep 2025 04:14:02 GMT | The Unseen Currency: Navigating the Deeper Exchange of Vulnerability | Netta Vibes | [Read More](https://medium.com/p/273f38d8cfc0) |
-| Sat, 06 Sep 2025 04:02:21 GMT | Top Cybersecurity Threats Businesses Face in 2025 (And How to Defend Against Them) | Secventra | [Read More](https://medium.com/p/e12b6964f8ce) |
-| Sat, 06 Sep 2025 03:59:18 GMT | The Salesloft–Drift SaaS Breach: How a Chatbot Integration Led to a Massive Supply Chain Attack | Paritosh | [Read More](https://medium.com/p/a4048b27c969) |
-| Sat, 06 Sep 2025 03:47:04 GMT | Security in the Time of Agentic AI | 9purp0s3 - Steven | [Read More](https://medium.com/p/6cb43e3de73b) |
-| Sat, 06 Sep 2025 03:38:59 GMT | My Cybersecurity Journey: Why I Chose TryHackMe | FloGood | [Read More](https://medium.com/p/ed59f09c6dbd) |
-| Sat, 06 Sep 2025 03:18:06 GMT | The Silent War: Inside the AI Revolution That's Rewriting Cybersecurity Forever | Shristi Singh | [Read More](https://medium.com/p/0b52a9d72a5a) |
-| Sat, 06 Sep 2025 03:09:08 GMT | EP 05: Let’s Encrypt | H.W.K. Aravinda | [Read More](https://medium.com/p/aee4d9854069) |
-| Sat, 06 Sep 2025 03:05:56 GMT | Best Video Doorbell 2025? Ring vs Nest vs eufy (Full Test & Buyer Guide) | Coltonballweb | [Read More](https://medium.com/p/02ce68f55b1b) |
-| Sat, 06 Sep 2025 03:04:16 GMT | Windows Privilege Escalation with SEImpersonate Token (and when to use which Potato..) | Indigo Shadow | [Read More](https://medium.com/p/aeec79821eea) |
-| Sat, 06 Sep 2025 03:03:57 GMT | Implementing Core Security Controls in AWS | Gabriel Ejiro | [Read More](https://medium.com/p/6f1a32df924e) |
-| Sat, 06 Sep 2025 03:03:10 GMT | SOC Level 1 — Cyber Kill Chain | Gregory Dawson | [Read More](https://medium.com/p/6a5c0e5f54ee) |
