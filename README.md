@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 17:22:01 GMT | Reverse Engineering solution to txrbo’s Basic Crackme 1 (.NET) | Nathan C | [Read More](https://medium.com/p/84178c973d93) |
+| Sat, 06 Sep 2025 17:21:24 GMT | CanYouSee - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/560d53bd1fe0) |
+| Sat, 06 Sep 2025 17:19:51 GMT | Alert Response Procedures: The Strategic Backbone of SOC Operations in the Age of AI | V-One Giri | [Read More](https://medium.com/p/2d613683e720) |
+| Sat, 06 Sep 2025 17:18:15 GMT | SQLMAP — Medium-Level Study Note | Mushfiq.XD | [Read More](https://medium.com/p/369cddafc0dc) |
 | Sat, 06 Sep 2025 17:12:29 GMT | “ JSON POST Bodies: The Hidden Goldmine of XSS & Bug Bounties” | Zoningxtr | [Read More](https://medium.com/p/b19fb7e09e69) |
+| Sat, 06 Sep 2025 17:12:23 GMT | Why ISO 27001 Should Be Every Engineer’s Secret Weapon | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4992f248cead) |
+| Sat, 06 Sep 2025 17:09:19 GMT | Weekly Roundup — September 06 2025 | litwtch | [Read More](https://medium.com/p/cdff881bf389) |
+| Sat, 06 Sep 2025 17:09:02 GMT | Still Fucking Up at 40 | SeaGrape48 | [Read More](https://medium.com/p/35d9b00473bf) |
 | Sat, 06 Sep 2025 17:08:22 GMT | GXSS and KXSS: Peeking Into the Hidden Corners of the Web | Natarajan C K | [Read More](https://medium.com/p/69650dd441b7) |
+| Sat, 06 Sep 2025 17:04:19 GMT | How to Install Metasploitable 2 in VirtualBox (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/2c6668031a49) |
 | Sat, 06 Sep 2025 17:01:43 GMT | Defang an IP Address with JavaScript (and Do It Safely) | habtesoft | [Read More](https://medium.com/p/a6315cd0c323) |
 | Sat, 06 Sep 2025 16:54:25 GMT | How to Resolve Constantly Changing and Wrong Timezone | AYOMIDE OGUNJIMI | [Read More](https://medium.com/p/e3b7dbfa13a1) |
 | Sat, 06 Sep 2025 16:46:10 GMT | Snort: Ağ Güvenliğinin Gizli Kahramanı (Nedir? Nasıl Kullanılır?) | Mustafa Salih Tatar | [Read More](https://medium.com/p/ef21b67c387a) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | Shivanityagi | [Read More](https://medium.com/p/c29fae0dab9a) |
 | Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | vipin | [Read More](https://medium.com/p/861aea370e62) |
 | Sat, 06 Sep 2025 10:57:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | skaushal974@gmail.com | [Read More](https://medium.com/p/20a95e72cc7b) |
-| Sat, 06 Sep 2025 10:57:42 GMT | Best Ethical Hacking Training in Noida - Ducat India | Tyagipriyank | [Read More](https://medium.com/p/6cba1c03a758) |
-| Sat, 06 Sep 2025 10:57:41 GMT | Best Ethical Hacking Training in Noida - Ducat India
-In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https://medium.com/p/9ad6ae98e0a0) |
-| Sat, 06 Sep 2025 10:53:46 GMT | How Small Crypto Assets Can Make You Big Money | Gladrobert | [Read More](https://medium.com/p/cbb09a15f9c9) |
-| Sat, 06 Sep 2025 10:53:34 GMT | ⏱️ When Time Betrays You: Exploiting Race Conditions in a Global SaaS Platform | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bb524eab9fd3) |
-| Sat, 06 Sep 2025 10:51:02 GMT | SVG Smuggling: How Hidden Scripts in Clean-Looking Images Are Undermining Malware Defenses. | eL Njas!™ | [Read More](https://medium.com/p/eb666cee1862) |
-| Sat, 06 Sep 2025 10:46:29 GMT | Understanding XSS Vulnerabilities | CosmicByte | [Read More](https://medium.com/p/8ddc5aadeb37) |
-| Sat, 06 Sep 2025 10:46:19 GMT | Detection Gaps: The Hidden Enemy in SOC Threat Hunting & Detection Engineering | 0xZetss | [Read More](https://medium.com/p/764472ea975e) |
-| Sat, 06 Sep 2025 10:42:54 GMT | Linux Basics — Part 4 (Stdin, Stdout, Stderr, and Redirections) | Priyanshu Singh | [Read More](https://medium.com/p/a8c01f72004a) |
