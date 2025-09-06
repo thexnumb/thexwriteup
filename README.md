@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 04:14:02 GMT | The Unseen Currency: Navigating the Deeper Exchange of Vulnerability | Netta Vibes | [Read More](https://medium.com/p/273f38d8cfc0) |
+| Sat, 06 Sep 2025 04:02:21 GMT | Top Cybersecurity Threats Businesses Face in 2025 (And How to Defend Against Them) | Secventra | [Read More](https://medium.com/p/e12b6964f8ce) |
+| Sat, 06 Sep 2025 03:59:18 GMT | The Salesloft–Drift SaaS Breach: How a Chatbot Integration Led to a Massive Supply Chain Attack | Paritosh | [Read More](https://medium.com/p/a4048b27c969) |
+| Sat, 06 Sep 2025 03:47:04 GMT | Security in the Time of Agentic AI | 9purp0s3 - Steven | [Read More](https://medium.com/p/6cb43e3de73b) |
 | Sat, 06 Sep 2025 03:38:59 GMT | My Cybersecurity Journey: Why I Chose TryHackMe | FloGood | [Read More](https://medium.com/p/ed59f09c6dbd) |
 | Sat, 06 Sep 2025 03:18:06 GMT | The Silent War: Inside the AI Revolution That's Rewriting Cybersecurity Forever | Shristi Singh | [Read More](https://medium.com/p/0b52a9d72a5a) |
 | Sat, 06 Sep 2025 03:09:08 GMT | EP 05: Let’s Encrypt | H.W.K. Aravinda | [Read More](https://medium.com/p/aee4d9854069) |
@@ -109,7 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 18:53:23 GMT | Heaven’s Gate vs Hell’s Gate Malwared Techniques | Shahriar Galib | [Read More](https://medium.com/p/faa7a21a69d6) |
 | Fri, 05 Sep 2025 18:48:52 GMT | How I Turned My ISC2 CC Exam Failure into a Certification: In 70 Minutes Well Spent ⏳✅ | Hemanth Mouli.ch | [Read More](https://medium.com/p/a814032096bb) |
 | Fri, 05 Sep 2025 18:39:12 GMT | The Linux Security Journey — Hardened User Copy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f637f2eca69e) |
-| Fri, 05 Sep 2025 18:36:51 GMT | Family Cybersecurity Jurisprudence: A Revolutionary Vision for the Digital Age | Bourkibate Abdessamad | [Read More](https://medium.com/p/2e55f98d9607) |
-| Fri, 05 Sep 2025 18:32:47 GMT | CERT-In’s New Cybersecurity Mandate for MSMEs (Sept 2025) | Sairaj Mahesh | [Read More](https://medium.com/p/cbff8a6a6eb2) |
-| Fri, 05 Sep 2025 18:31:03 GMT | White Label SOC Services: Expanding Cybersecurity Without Extra Overhead | SafeAeon Inc. | [Read More](https://medium.com/p/fa4a5cd127c5) |
-| Fri, 05 Sep 2025 18:30:59 GMT | HTB Sherlocks — PhishNet Writeup | JLBSec | [Read More](https://medium.com/p/f933b0438d48) |
