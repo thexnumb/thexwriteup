@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 08:17:57 GMT | Buffer Overflow Tricky Control Hijack (easy). | cyberghost | [Read More](https://medium.com/p/d2ed897c24a0) |
+| Sat, 06 Sep 2025 08:14:28 GMT | Reflections on My First Month of Internship. | Hitesh Said | [Read More](https://medium.com/p/8c63f0399c84) |
+| Sat, 06 Sep 2025 08:06:01 GMT | ️‍♂️ Target Analysis with OSINT: Tools and Scenarios | Esra Kayhan | [Read More](https://medium.com/p/40823a1d5c67) |
+| Sat, 06 Sep 2025 08:04:40 GMT | Bash script to get list of subdomains from “crt.sh” and check status codes | Siddharth Rose | [Read More](https://medium.com/p/cda2d4139971) |
+| Sat, 06 Sep 2025 08:02:28 GMT | Internet Operations Management by Cortex: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f68a761e0d9d) |
+| Sat, 06 Sep 2025 08:01:35 GMT | Linux Hardening: Because Your Career Depends on Not Getting Breached ️ | MayhemCode | [Read More](https://medium.com/p/6673a94583f0) |
+| Sat, 06 Sep 2025 08:01:35 GMT | Developers Welcome: Add Leak Checks To Your Stack With A Simple API Key | Alexandre Vandamme | [Read More](https://medium.com/p/6c16e58c92e8) |
+| Sat, 06 Sep 2025 08:00:03 GMT | WhatsApp Zero-Click Spyware Explained: CVE-2025–55177 Deep Dive | Motasem Hamdan | [Read More](https://medium.com/p/be693803a73d) |
+| Sat, 06 Sep 2025 07:56:58 GMT | Stop Hardcoding API Keys — Try This Secret Instead! | Code Crack | [Read More](https://medium.com/p/b889dd4c2aae) |
+| Sat, 06 Sep 2025 07:50:59 GMT | Postbook | Dasmanish | [Read More](https://medium.com/p/be5d10b805ed) |
+| Sat, 06 Sep 2025 07:46:06 GMT | The Growing Need for Penetration Testing Services in Today’s Digital Era | CyberNX | [Read More](https://medium.com/p/f37ae2b9a49f) |
+| Sat, 06 Sep 2025 07:45:46 GMT | My Journey into Penetration Testing: How I Earned the Hackviser CAPT Certification | Prateekpulastya | [Read More](https://medium.com/p/5201307c7492) |
+| Sat, 06 Sep 2025 07:38:44 GMT | Why Orochi Network is the Backbone of Verifiable Data for RWA | MARLAND | [Read More](https://medium.com/p/02ea206087fd) |
 | Sat, 06 Sep 2025 07:31:07 GMT | When Leadership Is Missing: Lessons from Enterprise IT | Fabio Metastasio | [Read More](https://medium.com/p/1eb773324ae6) |
 | Sat, 06 Sep 2025 07:21:35 GMT | Drosera: The Future of Autonomous Blockchain Intelligence | Affanu_X | [Read More](https://medium.com/p/fcb6ffb3c353) |
 | Sat, 06 Sep 2025 07:20:20 GMT | Windows System Hardening for GRC Professionals | Abdullateef Hameed | [Read More](https://medium.com/p/cd50a6993528) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 22:49:14 GMT | Protect the Lifeblood, Your Data | David SEHYEON Baek | [Read More](https://medium.com/p/81d0d3421ced) |
 | Fri, 05 Sep 2025 22:45:46 GMT | Packing/Unpacking in Malware Analysis and Scanners | Chris Zhang | [Read More](https://medium.com/p/d9b62cd8aeb5) |
 | Fri, 05 Sep 2025 22:40:37 GMT | WICYS Target Defense Challenge 2025 — Tier 1 | Devanshi Chavda | [Read More](https://medium.com/p/bf3fd32a3bf9) |
-| Fri, 05 Sep 2025 22:39:15 GMT | Introduction to Data Engineering on GCP | Manoj Thalari | [Read More](https://medium.com/p/e1e21700ccd7) |
-| Fri, 05 Sep 2025 22:39:12 GMT | Passwords, Identities, and the Battle for Trust in the Digital Age | David SEHYEON Baek | [Read More](https://medium.com/p/93ac7d4e95e3) |
-| Fri, 05 Sep 2025 22:37:41 GMT | You Won’t Know Until You Do | Varun Dewan | [Read More](https://medium.com/p/1ed63f480aee) |
-| Fri, 05 Sep 2025 22:32:30 GMT | Azure Active Directory Vulnerability: How Credential Leaks Expose Your Cloud | Devaaravindlutukurty | [Read More](https://medium.com/p/5d022898fc5b) |
-| Fri, 05 Sep 2025 22:31:08 GMT | Drosera Network: The Immune System for Decentralized Finance
-Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
-| Fri, 05 Sep 2025 22:07:04 GMT | Server-Side Request Forgery (SSRF) (OWASP Top 10 #10) — Simplified | Chai | [Read More](https://medium.com/p/0a7ccd4448ab) |
-| Fri, 05 Sep 2025 22:03:33 GMT | 6 Common CloudTrail Pitfalls to Avoid for Secure Cloud | Mudassir Syed | [Read More](https://medium.com/p/920b261392b4) |
-| Fri, 05 Sep 2025 21:57:22 GMT | King Of The Hill CTF | Baker Womack | [Read More](https://medium.com/p/3150314ae63f) |
-| Fri, 05 Sep 2025 21:48:47 GMT | Mr Robot CTF - TryHackMe | Laach_ | [Read More](https://medium.com/p/863cca25a89b) |
-| Fri, 05 Sep 2025 21:47:51 GMT | The History of IBM and Its Role in the Development of Modern Computing | Stacklegend | [Read More](https://medium.com/p/5da23742a46c) |
-| Fri, 05 Sep 2025 21:36:49 GMT | The History and Significance of the Altair 8800 in Computing | Stacklegend | [Read More](https://medium.com/p/8197487f3b51) |
-| Fri, 05 Sep 2025 21:36:05 GMT | Your Marketing Strategy is Now a Cybersecurity Risk | Axy.digital | [Read More](https://medium.com/p/85eaf3db76e9) |
-| Fri, 05 Sep 2025 21:33:01 GMT | DevOps in 2025: A Comprehensive Guide to Modern Practices | CodeToKloud | [Read More](https://medium.com/p/22e2f0ec7eab) |
