@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 14:12:45 GMT | Bugs and Sorting out | Balki Maharaj | [Read More](https://medium.com/p/d3f4f1338d76) |
+| Sat, 06 Sep 2025 13:50:17 GMT | How to Use Slither for Smart Contract Security | Régis | [Read More](https://medium.com/p/ceffbc4a41a0) |
+| Sat, 06 Sep 2025 13:34:45 GMT | What is OSINT? — An Introduction | Kavi Amudan | [Read More](https://medium.com/p/1fce37f2a514) |
 | Sat, 06 Sep 2025 13:23:34 GMT | CTFs, René Descartes and Non-Universality of Thinking | Taulan Zauzanov | [Read More](https://medium.com/p/789c50492387) |
 | Sat, 06 Sep 2025 13:22:34 GMT | How “Live Threat Intelligence” Transforms Modern Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/ad820e74eeb2) |
 | Sat, 06 Sep 2025 13:19:08 GMT | Making an Informed Choice: The Complete Guide to Sex Doll Selection | First Dolls | [Read More](https://medium.com/p/0f64a6d9aebc) |
@@ -110,6 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 08:04:40 GMT | Bash script to get list of subdomains from “crt.sh” and check status codes | Siddharth Rose | [Read More](https://medium.com/p/cda2d4139971) |
 | Sat, 06 Sep 2025 08:02:28 GMT | Internet Operations Management by Cortex: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f68a761e0d9d) |
 | Sat, 06 Sep 2025 08:01:35 GMT | Linux Hardening: Because Your Career Depends on Not Getting Breached ️ | MayhemCode | [Read More](https://medium.com/p/6673a94583f0) |
-| Sat, 06 Sep 2025 08:01:35 GMT | Developers Welcome: Add Leak Checks To Your Stack With A Simple API Key | Alexandre Vandamme | [Read More](https://medium.com/p/6c16e58c92e8) |
-| Sat, 06 Sep 2025 08:00:03 GMT | WhatsApp Zero-Click Spyware Explained: CVE-2025–55177 Deep Dive | Motasem Hamdan | [Read More](https://medium.com/p/be693803a73d) |
-| Sat, 06 Sep 2025 07:56:58 GMT | Stop Hardcoding API Keys — Try This Secret Instead! | Code Crack | [Read More](https://medium.com/p/b889dd4c2aae) |
