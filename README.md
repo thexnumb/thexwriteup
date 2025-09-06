@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 13:23:34 GMT | CTFs, René Descartes and Non-Universality of Thinking | Taulan Zauzanov | [Read More](https://medium.com/p/789c50492387) |
+| Sat, 06 Sep 2025 13:22:34 GMT | How “Live Threat Intelligence” Transforms Modern Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/ad820e74eeb2) |
 | Sat, 06 Sep 2025 13:19:08 GMT | Making an Informed Choice: The Complete Guide to Sex Doll Selection | First Dolls | [Read More](https://medium.com/p/0f64a6d9aebc) |
 | Sat, 06 Sep 2025 13:13:19 GMT | Master Wi-Fi Cracking with Wifite | GMM | [Read More](https://medium.com/p/e20181aa07ff) |
 | Sat, 06 Sep 2025 13:12:38 GMT | How Blockchain Technology Enhances Cyber Security | Nagaraj | [Read More](https://medium.com/p/2268dbc609df) |
@@ -111,5 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 08:01:35 GMT | Developers Welcome: Add Leak Checks To Your Stack With A Simple API Key | Alexandre Vandamme | [Read More](https://medium.com/p/6c16e58c92e8) |
 | Sat, 06 Sep 2025 08:00:03 GMT | WhatsApp Zero-Click Spyware Explained: CVE-2025–55177 Deep Dive | Motasem Hamdan | [Read More](https://medium.com/p/be693803a73d) |
 | Sat, 06 Sep 2025 07:56:58 GMT | Stop Hardcoding API Keys — Try This Secret Instead! | Code Crack | [Read More](https://medium.com/p/b889dd4c2aae) |
-| Sat, 06 Sep 2025 07:50:59 GMT | Postbook | Dasmanish | [Read More](https://medium.com/p/be5d10b805ed) |
-| Sat, 06 Sep 2025 07:46:06 GMT | The Growing Need for Penetration Testing Services in Today’s Digital Era | CyberNX | [Read More](https://medium.com/p/f37ae2b9a49f) |
