@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 13:19:08 GMT | Making an Informed Choice: The Complete Guide to Sex Doll Selection | First Dolls | [Read More](https://medium.com/p/0f64a6d9aebc) |
+| Sat, 06 Sep 2025 13:13:19 GMT | Master Wi-Fi Cracking with Wifite | GMM | [Read More](https://medium.com/p/e20181aa07ff) |
+| Sat, 06 Sep 2025 13:12:38 GMT | How Blockchain Technology Enhances Cyber Security | Nagaraj | [Read More](https://medium.com/p/2268dbc609df) |
+| Sat, 06 Sep 2025 13:08:22 GMT | Building My Own ESXi Workstation | Huzairi Haril | [Read More](https://medium.com/p/b5cb5c754f43) |
+| Sat, 06 Sep 2025 13:06:50 GMT | NFS Root Squashing Privilege Escalation (Linux Priv Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/046c2cbc402f) |
+| Sat, 06 Sep 2025 13:05:10 GMT | Extra Step That Could Save Your Gmail (And Your Peace of Mind) | Senior Tech Basics | [Read More](https://medium.com/p/7bf0a829b073) |
+| Sat, 06 Sep 2025 12:52:56 GMT | What is a JWT? How OIDC Providers Like GitLab/Github Generate Tokens for Pipelines | Vijay Mourya | [Read More](https://medium.com/p/cf3cbae9fabf) |
+| Sat, 06 Sep 2025 12:48:55 GMT | Top Ethical Hacking Certifications in 2025 | 4achievers | [Read More](https://medium.com/p/9681a37201cf) |
+| Sat, 06 Sep 2025 12:45:47 GMT | How do you know when a guy truly loves you? | Abel | [Read More](https://medium.com/p/bb088ab0fe67) |
 | Sat, 06 Sep 2025 12:30:39 GMT | Trust at Scale: The Magic of Public Key Infrastructure (PKI) | TechTrellis Academy | [Read More](https://medium.com/p/ba288c1d50ea) |
 | Sat, 06 Sep 2025 12:29:08 GMT | Cracking My First Password Hashes — A Red Teaming Learning Experience | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/968b10b49ada) |
+| Sat, 06 Sep 2025 12:24:54 GMT | Massive Salesforce Data Breach Hackers Target 700 Cybersecurity Firms via Salesloft Drift | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/58aa3b1110b9) |
 | Sat, 06 Sep 2025 12:12:48 GMT | Hacking the Watchman: A Guide to EDR and Evasion | Pannag Kumaar | [Read More](https://medium.com/p/a403cd5d3f36) |
 | Sat, 06 Sep 2025 12:11:21 GMT | Drosera Network: Redefining Security in Web3 | Ismail Oladoja | [Read More](https://medium.com/p/6bd7b48af175) |
 | Sat, 06 Sep 2025 12:09:43 GMT | Payment Gateway Bypass | 7error | [Read More](https://medium.com/p/ac90c2b1d911) |
@@ -103,13 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 07:56:58 GMT | Stop Hardcoding API Keys — Try This Secret Instead! | Code Crack | [Read More](https://medium.com/p/b889dd4c2aae) |
 | Sat, 06 Sep 2025 07:50:59 GMT | Postbook | Dasmanish | [Read More](https://medium.com/p/be5d10b805ed) |
 | Sat, 06 Sep 2025 07:46:06 GMT | The Growing Need for Penetration Testing Services in Today’s Digital Era | CyberNX | [Read More](https://medium.com/p/f37ae2b9a49f) |
-| Sat, 06 Sep 2025 07:45:46 GMT | My Journey into Penetration Testing: How I Earned the Hackviser CAPT Certification | Prateekpulastya | [Read More](https://medium.com/p/5201307c7492) |
-| Sat, 06 Sep 2025 07:38:44 GMT | Why Orochi Network is the Backbone of Verifiable Data for RWA | MARLAND | [Read More](https://medium.com/p/02ea206087fd) |
-| Sat, 06 Sep 2025 07:31:07 GMT | When Leadership Is Missing: Lessons from Enterprise IT | Fabio Metastasio | [Read More](https://medium.com/p/1eb773324ae6) |
-| Sat, 06 Sep 2025 07:21:35 GMT | Drosera: The Future of Autonomous Blockchain Intelligence | Affanu_X | [Read More](https://medium.com/p/fcb6ffb3c353) |
-| Sat, 06 Sep 2025 07:20:20 GMT | Windows System Hardening for GRC Professionals | Abdullateef Hameed | [Read More](https://medium.com/p/cd50a6993528) |
-| Sat, 06 Sep 2025 07:16:23 GMT | So You Want to Be a Hacker? Forget the RGB. | Viratavi | [Read More](https://medium.com/p/e861ea4a29d4) |
-| Sat, 06 Sep 2025 07:14:31 GMT | Le Guide VPN Que J’aurais Aimé Lire Avant de Me Faire Pirater | David C. | [Read More](https://medium.com/p/ab9ccc284800) |
-| Sat, 06 Sep 2025 07:14:23 GMT | The VPN Guide I Wish I Had Read Before Getting Hacked | David C. | [Read More](https://medium.com/p/9627f9c51cf1) |
-| Sat, 06 Sep 2025 07:04:06 GMT | Using Win32 API with Rust: A Step-by-Step Guide | Redfox Security | [Read More](https://medium.com/p/d9ab46ce6ef3) |
-| Sat, 06 Sep 2025 06:57:14 GMT | When More Data Means Worse Decisions | Phantasm  solutions | [Read More](https://medium.com/p/d773d0f5f30e) |
