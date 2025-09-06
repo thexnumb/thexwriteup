@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 19:01:12 GMT | Samsung One UI 8 Stable Update Rollout Dates for Galaxy Devices Revealed | Rakesh Sahani | [Read More](https://medium.com/p/d2359a60a601) |
+| Sat, 06 Sep 2025 18:58:21 GMT | ️ Tried SecPilot’s ThreatPilot (Beta) — Pretty Impressed | Khalid Amri | [Read More](https://medium.com/p/ccfa6d06cb1e) |
+| Sat, 06 Sep 2025 18:56:51 GMT | Kali Linux vs Parrot OS: The Winner No One Told You About (Beginners, Read This First!!) | cybrNK | [Read More](https://medium.com/p/fce36863365a) |
+| Sat, 06 Sep 2025 18:53:52 GMT | ToolShell: How a hidden flaw in Microsoft SharePoint turned into a global wake-up call | O. J. Okpabi | [Read More](https://medium.com/p/dbb1e4038934) |
+| Sat, 06 Sep 2025 18:49:17 GMT | Cloudflare: 67 minutes without keys. | IsaacFabianK | [Read More](https://medium.com/p/a81e77e09fe0) |
+| Sat, 06 Sep 2025 18:47:08 GMT | Tehdit İstihbaratı (Threat Intelligence): Dijital Dünyada Güvenliğin Anahtarı | Fatih Yüksektepe | [Read More](https://medium.com/p/b05e9acb6200) |
 | Sat, 06 Sep 2025 18:36:23 GMT | Merchant Transaction Data Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/5a95f4afc59a) |
 | Sat, 06 Sep 2025 18:27:00 GMT | You’re lonely because you’re not vulnerable. | Calise | [Read More](https://medium.com/p/086ef0d9bb66) |
 | Sat, 06 Sep 2025 18:23:57 GMT | The Two Faces of Windows Power: Administrator vs SYSTEM | DuckWrites | [Read More](https://medium.com/p/6047bbb9a049) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 12:01:33 GMT | Dynamic DNS: Never Lose Your Connection to Your Own Network | Nikhilesh Singh | [Read More](https://medium.com/p/7a0666ee17c6) |
 | Sat, 06 Sep 2025 11:59:01 GMT | Kali Linux vs Parrot OS-Choosing the Right Penetration Testing Platform for Cybersecurity… | Jasmitharouthu | [Read More](https://medium.com/p/a7a724ffcac4) |
 | Sat, 06 Sep 2025 11:55:16 GMT | Slashing & Accountability in Drosera: Why It Matters | mayor. | [Read More](https://medium.com/p/6320f015ef41) |
-| Sat, 06 Sep 2025 11:41:33 GMT | The $1.7 Trillion Phish | Mohammed Brückner | [Read More](https://medium.com/p/e76ba828ccce) |
-| Sat, 06 Sep 2025 11:38:33 GMT | Do All Transfer PayPal TEXT : : +1(616) 202–1156 cashapp Bank western union Zelle and clone cards… | Gonz | [Read More](https://medium.com/p/5d440a71f5c9) |
-| Sat, 06 Sep 2025 11:37:32 GMT | Exploiting XXE (XML External Entity) Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/ee222f170661) |
-| Sat, 06 Sep 2025 11:34:46 GMT | Gaming Genius: How IT Innovations Built Immersive Worlds | Appcurators | [Read More](https://medium.com/p/7ca2d7a11a18) |
-| Sat, 06 Sep 2025 11:31:36 GMT | DockerLabs Writeup — PkgPoison (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/6343166f0d01) |
-| Sat, 06 Sep 2025 11:30:30 GMT | Malware Analysis — Zeus Banking Trojan | TraceX0 | [Read More](https://medium.com/p/b4b2152c7510) |
