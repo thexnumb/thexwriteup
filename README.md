@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 18:36:23 GMT | Merchant Transaction Data Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/5a95f4afc59a) |
+| Sat, 06 Sep 2025 18:27:00 GMT | You’re lonely because you’re not vulnerable. | Calise | [Read More](https://medium.com/p/086ef0d9bb66) |
+| Sat, 06 Sep 2025 18:23:57 GMT | The Two Faces of Windows Power: Administrator vs SYSTEM | DuckWrites | [Read More](https://medium.com/p/6047bbb9a049) |
 | Sat, 06 Sep 2025 18:10:43 GMT | AI Scams Are Getting Smarter — Don’t Become the Next Victim | Madebyflorisb | [Read More](https://medium.com/p/8e4722b2466a) |
 | Sat, 06 Sep 2025 18:08:59 GMT | Is Your AI a Double Agent? | Pannag Kumaar | [Read More](https://medium.com/p/d47c95a97d1e) |
 | Sat, 06 Sep 2025 18:01:40 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/49c7f079f32c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 11:34:46 GMT | Gaming Genius: How IT Innovations Built Immersive Worlds | Appcurators | [Read More](https://medium.com/p/7ca2d7a11a18) |
 | Sat, 06 Sep 2025 11:31:36 GMT | DockerLabs Writeup — PkgPoison (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/6343166f0d01) |
 | Sat, 06 Sep 2025 11:30:30 GMT | Malware Analysis — Zeus Banking Trojan | TraceX0 | [Read More](https://medium.com/p/b4b2152c7510) |
-| Sat, 06 Sep 2025 11:30:26 GMT | A School District’s Nightmare: How One Cyberattack Exposed 31,000 People | Pannag Kumaar | [Read More](https://medium.com/p/d8b6ce3d86b3) |
-| Sat, 06 Sep 2025 11:16:07 GMT | EgeGuard: A Python-Based Security & Network Monitoring Prototype | Egehanmacit | [Read More](https://medium.com/p/15e03dc9b7f9) |
-| Sat, 06 Sep 2025 11:13:28 GMT | Kibana ile elasticsearch bağlantısını docker üzerinden güvenlikli bir şekilde bağlanmak | Enes Tasar | [Read More](https://medium.com/p/6fc9f69b6f3e) |
