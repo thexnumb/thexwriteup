@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 12:30:39 GMT | Trust at Scale: The Magic of Public Key Infrastructure (PKI) | TechTrellis Academy | [Read More](https://medium.com/p/ba288c1d50ea) |
+| Sat, 06 Sep 2025 12:29:08 GMT | Cracking My First Password Hashes — A Red Teaming Learning Experience | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/968b10b49ada) |
+| Sat, 06 Sep 2025 12:12:48 GMT | Hacking the Watchman: A Guide to EDR and Evasion | Pannag Kumaar | [Read More](https://medium.com/p/a403cd5d3f36) |
+| Sat, 06 Sep 2025 12:11:21 GMT | Drosera Network: Redefining Security in Web3 | Ismail Oladoja | [Read More](https://medium.com/p/6bd7b48af175) |
+| Sat, 06 Sep 2025 12:09:43 GMT | Payment Gateway Bypass | 7error | [Read More](https://medium.com/p/ac90c2b1d911) |
+| Sat, 06 Sep 2025 12:08:29 GMT | From Microbes to Malware: Lessons from Kaushik Hatti’s Journey to CISO | Jagadishb | [Read More](https://medium.com/p/3290923757bd) |
+| Sat, 06 Sep 2025 12:06:15 GMT | Across Borders: Reflections on India, Sri Lanka, and Security Realities of 2014 | Cambodia UK | [Read More](https://medium.com/p/17b76f82c1f2) |
+| Sat, 06 Sep 2025 12:05:00 GMT | WordPress Security Optimization — Complete Guide to Securing Your Website | sarbdit | [Read More](https://medium.com/p/26d34545fbe1) |
+| Sat, 06 Sep 2025 12:02:37 GMT | Malware Analysis with Hybrid Analysis: A Step-by-Step Guide. | Odunlade Joshua | [Read More](https://medium.com/p/4b2b07bbb33d) |
+| Sat, 06 Sep 2025 12:01:59 GMT | Building Brands That Last: Why Design, Web, and Video Matter More Than Ever | Ansh Varshney | [Read More](https://medium.com/p/2234f081dd37) |
+| Sat, 06 Sep 2025 12:01:33 GMT | Dynamic DNS: Never Lose Your Connection to Your Own Network | Nikhilesh Singh | [Read More](https://medium.com/p/7a0666ee17c6) |
+| Sat, 06 Sep 2025 11:59:01 GMT | Kali Linux vs Parrot OS-Choosing the Right Penetration Testing Platform for Cybersecurity… | Jasmitharouthu | [Read More](https://medium.com/p/a7a724ffcac4) |
+| Sat, 06 Sep 2025 11:55:16 GMT | Slashing & Accountability in Drosera: Why It Matters | mayor. | [Read More](https://medium.com/p/6320f015ef41) |
+| Sat, 06 Sep 2025 11:41:33 GMT | The $1.7 Trillion Phish | Mohammed Brückner | [Read More](https://medium.com/p/e76ba828ccce) |
+| Sat, 06 Sep 2025 11:38:33 GMT | Do All Transfer PayPal TEXT : : +1(616) 202–1156 cashapp Bank western union Zelle and clone cards… | Gonz | [Read More](https://medium.com/p/5d440a71f5c9) |
+| Sat, 06 Sep 2025 11:37:32 GMT | Exploiting XXE (XML External Entity) Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/ee222f170661) |
+| Sat, 06 Sep 2025 11:34:46 GMT | Gaming Genius: How IT Innovations Built Immersive Worlds | Appcurators | [Read More](https://medium.com/p/7ca2d7a11a18) |
 | Sat, 06 Sep 2025 11:31:36 GMT | DockerLabs Writeup — PkgPoison (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/6343166f0d01) |
 | Sat, 06 Sep 2025 11:30:30 GMT | Malware Analysis — Zeus Banking Trojan | TraceX0 | [Read More](https://medium.com/p/b4b2152c7510) |
 | Sat, 06 Sep 2025 11:30:26 GMT | A School District’s Nightmare: How One Cyberattack Exposed 31,000 People | Pannag Kumaar | [Read More](https://medium.com/p/d8b6ce3d86b3) |
@@ -96,20 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 07:14:23 GMT | The VPN Guide I Wish I Had Read Before Getting Hacked | David C. | [Read More](https://medium.com/p/9627f9c51cf1) |
 | Sat, 06 Sep 2025 07:04:06 GMT | Using Win32 API with Rust: A Step-by-Step Guide | Redfox Security | [Read More](https://medium.com/p/d9ab46ce6ef3) |
 | Sat, 06 Sep 2025 06:57:14 GMT | When More Data Means Worse Decisions | Phantasm  solutions | [Read More](https://medium.com/p/d773d0f5f30e) |
-| Sat, 06 Sep 2025 06:56:04 GMT | Advanced Banner Grabbing in Python (With Multi-threading) | Shayaan Khan | [Read More](https://medium.com/p/5240165418a9) |
-| Sat, 06 Sep 2025 06:53:02 GMT | Building Security Operations for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/8dff27a250e6) |
-| Sat, 06 Sep 2025 06:50:33 GMT | API Security: The Hidden Weak Link in Modern Applications | Abida Adra | [Read More](https://medium.com/p/f61b5508d81c) |
-| Sat, 06 Sep 2025 06:49:27 GMT | Building Security Operations for Organizations | Cyber Security Research | [Read More](https://medium.com/p/218c3ea3e9b1) |
-| Sat, 06 Sep 2025 06:41:32 GMT | Day 51- Understand common hacking tools for beginners | unica 02 | [Read More](https://medium.com/p/883b2eff45e6) |
-| Sat, 06 Sep 2025 06:39:45 GMT | Top 10 Hacking Games for aspiring Ethical Hackers [2025] | Manisha Chaudhary | [Read More](https://medium.com/p/aa6cc2f40c6d) |
-| Sat, 06 Sep 2025 06:39:44 GMT | Do All Transfer PayPal TEXT : : +1(616) 202–1156 cashapp Bank western union Zelle and clone cards… | Blackbox | [Read More](https://medium.com/p/ffa9ea3ccb33) |
-| Sat, 06 Sep 2025 06:32:44 GMT | Is Your API Key Alive or Dead? — Validate in Minutes with SecurityToolkits API Key Testing Tool | Haxshadow | [Read More](https://medium.com/p/0f887686fe3c) |
-| Sat, 06 Sep 2025 06:24:55 GMT | “Day 30: The Finale — The Bug That Almost Broke the Internet (Or Just My Testing Account)” | Aman Sharma | [Read More](https://medium.com/p/d63112e13427) |
-| Sat, 06 Sep 2025 06:19:33 GMT | Replacing AWS Access Keys with OIDC in GitHub Actions — A Hands-on Guide to Zero Rotation | Kunal Parkhade | [Read More](https://medium.com/p/e528e3c06dcd) |
-| Sat, 06 Sep 2025 06:19:20 GMT | 5 Essential Hacking Tools Explained (For Defenders, Not Attackers) | Aj | [Read More](https://medium.com/p/7e6fc150aca4) |
-| Sat, 06 Sep 2025 06:10:37 GMT | How I Broke Down a bitsadmin Detection Rule: A LetsDefend Challenge Walkthrough | Sohan Kanna D | [Read More](https://medium.com/p/2211b647f84d) |
-| Sat, 06 Sep 2025 06:06:06 GMT | Who Secures AI? And Why Cybersecurity Doesn’t Have to Be Complicated | Recover Right | [Read More](https://medium.com/p/1f15ed621e1e) |
-| Sat, 06 Sep 2025 06:05:52 GMT | OWASP Top 10 (2021) — Definitions Made Simple | Abhinsubej | [Read More](https://medium.com/p/fb433428e801) |
-| Sat, 06 Sep 2025 05:53:29 GMT | Ensuring Safety & Hospitality: Shopping Mall Security Guards in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/f72855cf374d) |
-| Sat, 06 Sep 2025 05:52:14 GMT | How to Discover a Website’s Hidden Origin Server | Ibtissam hammadi | [Read More](https://medium.com/p/3e3f25d5be39) |
-| Sat, 06 Sep 2025 05:40:21 GMT | What Is Mechanical Engineering?: The Definitive Guide with 7 Powerful Examples | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/df0dc9832e62) |
