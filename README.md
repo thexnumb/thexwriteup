@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 04:31:14 GMT | Apple MacBook Pro M3 Max Review: Power, Speed & Battery Life | Tassanee Charoenrat | [Read More](https://medium.com/p/6df331ffc2a7) |
+| Sat, 06 Sep 2025 04:23:01 GMT | short funny story of how I got into cybersecurity | Notfunny_nik | [Read More](https://medium.com/p/870e26c93571) |
 | Sat, 06 Sep 2025 04:14:02 GMT | The Unseen Currency: Navigating the Deeper Exchange of Vulnerability | Netta Vibes | [Read More](https://medium.com/p/273f38d8cfc0) |
 | Sat, 06 Sep 2025 04:02:21 GMT | Top Cybersecurity Threats Businesses Face in 2025 (And How to Defend Against Them) | Secventra | [Read More](https://medium.com/p/e12b6964f8ce) |
 | Sat, 06 Sep 2025 03:59:18 GMT | The Salesloft–Drift SaaS Breach: How a Chatbot Integration Led to a Massive Supply Chain Attack | Paritosh | [Read More](https://medium.com/p/a4048b27c969) |
@@ -111,5 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 19:10:08 GMT | Understanding the Client-Server Model: A Beginner-Friendly Summary | Majdi Mouhssine | [Read More](https://medium.com/p/25b9260de7c9) |
 | Fri, 05 Sep 2025 19:07:26 GMT | Watcher - TryHackMe | Abdelfattah Elsabagh | [Read More](https://medium.com/p/7fcb0f313210) |
 | Fri, 05 Sep 2025 18:53:23 GMT | Heaven’s Gate vs Hell’s Gate Malwared Techniques | Shahriar Galib | [Read More](https://medium.com/p/faa7a21a69d6) |
-| Fri, 05 Sep 2025 18:48:52 GMT | How I Turned My ISC2 CC Exam Failure into a Certification: In 70 Minutes Well Spent ⏳✅ | Hemanth Mouli.ch | [Read More](https://medium.com/p/a814032096bb) |
-| Fri, 05 Sep 2025 18:39:12 GMT | The Linux Security Journey — Hardened User Copy | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f637f2eca69e) |
