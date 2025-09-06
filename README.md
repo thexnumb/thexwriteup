@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 09:21:20 GMT | When The Machine Learned To Lie: India’s New Wave Of AI-Powered Malware | O. J. Okpabi | [Read More](https://medium.com/p/9b4ceeeba2ff) |
 | Sat, 06 Sep 2025 09:04:43 GMT | Building Threat Intelligence Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/7f84b8227494) |
 | Sat, 06 Sep 2025 09:02:33 GMT | What If Tomorrow You Woke Up and Couldn’t Access Any of Your Files? | Nalikajayarathna | [Read More](https://medium.com/p/68cf60c4abaf) |
 | Sat, 06 Sep 2025 09:02:09 GMT | How to Travel Safely in an Increasingly Volatile World | Samuel G | [Read More](https://medium.com/p/da6e4f16cba0) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 01:47:28 GMT | Hammer writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/1181832bab7c) |
 | Sat, 06 Sep 2025 01:29:30 GMT | If Anyone Notices | Haven Hartley | [Read More](https://medium.com/p/81b719946974) |
 | Sat, 06 Sep 2025 01:21:35 GMT | The “Office Vibe” on the Beijing-Shanghai High-Speed Railway: A Glimpse into the Future of Most… | Ophaly Kate | [Read More](https://medium.com/p/524ba0408bf6) |
-| Sat, 06 Sep 2025 00:59:36 GMT | AWS Lambda Cold Starts in 2025: What Changed and How to Optimize | Rizqi Mulki | [Read More](https://medium.com/p/8965b73a37ed) |
