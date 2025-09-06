@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 10:30:52 GMT | Struggling to Secure Your New Product? | Sajjad Hussain | [Read More](https://medium.com/p/87a495a40792) |
+| Sat, 06 Sep 2025 10:25:27 GMT | Using Zphisher to get the victim’s username and password | Siddharth Rose | [Read More](https://medium.com/p/dd6b5a2b8bfa) |
+| Sat, 06 Sep 2025 10:24:57 GMT | XWorm Malware Evolves With New Infection Chain | SCtoCS | [Read More](https://medium.com/p/ff4b7c93418d) |
+| Sat, 06 Sep 2025 10:17:30 GMT | How to exploit? Multicast DNS (mDNS) and DNS-SD — PORT 5353/UDP | Very Lazy Tech | [Read More](https://medium.com/p/2ff73a84e16d) |
+| Sat, 06 Sep 2025 10:15:53 GMT | Bypassing CAPTCHA with No Rate Limiting potentially leads to ATO. | youssef awad | [Read More](https://medium.com/p/0a7714c9042d) |
+| Sat, 06 Sep 2025 10:15:25 GMT | Give the Gift of Accountability | Mike Sansone | [Read More](https://medium.com/p/483d2fea64e9) |
 | Sat, 06 Sep 2025 10:11:50 GMT | What New DevOps Skills Shall Accelerate Your IT Career Growth? | Mohammed Numan | [Read More](https://medium.com/p/3a63dc60b8bf) |
 | Sat, 06 Sep 2025 09:56:38 GMT | Is It Safe to Install CCTV at Home? | Smart Secures | [Read More](https://medium.com/p/b132fdc3dbeb) |
 | Sat, 06 Sep 2025 09:53:37 GMT | How to hack an AI-generated story from MSN using AI | Ouroboros DeFi "ODIE" | [Read More](https://medium.com/p/bbfe0a77412b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 03:04:16 GMT | Windows Privilege Escalation with SEImpersonate Token (and when to use which Potato..) | Indigo Shadow | [Read More](https://medium.com/p/aeec79821eea) |
 | Sat, 06 Sep 2025 03:03:57 GMT | Implementing Core Security Controls in AWS | Gabriel Ejiro | [Read More](https://medium.com/p/6f1a32df924e) |
 | Sat, 06 Sep 2025 03:03:10 GMT | SOC Level 1 — Cyber Kill Chain | Gregory Dawson | [Read More](https://medium.com/p/6a5c0e5f54ee) |
-| Sat, 06 Sep 2025 03:02:52 GMT | Sweden Hit by 733 GPS Jams, Russian Interference Suspected | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7cb3163376fe) |
-| Sat, 06 Sep 2025 02:49:51 GMT | The Ethics of Scientific Advancement: Where Do We Draw the Line? | muhammad ardiansah | [Read More](https://medium.com/p/405dd215c510) |
-| Sat, 06 Sep 2025 02:48:00 GMT | SOC Level 1 — Pyramid of Pain | Gregory Dawson | [Read More](https://medium.com/p/d0971ca946c6) |
-| Sat, 06 Sep 2025 02:45:40 GMT | The Day I Hit Publish | Solene Vu | [Read More](https://medium.com/p/dd8f861bcc51) |
-| Sat, 06 Sep 2025 02:41:41 GMT | ⛩️ Spirituality in the Age of AI and Information Abundance | Chuan | [Read More](https://medium.com/p/f7d10b7ca1aa) |
-| Sat, 06 Sep 2025 02:39:09 GMT | The Race to Room-Temperature Superconductors: A New Era of Energy? | muhammad ardiansah | [Read More](https://medium.com/p/7deb09e6e101) |
