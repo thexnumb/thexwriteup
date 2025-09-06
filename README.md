@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 06:41:32 GMT | Day 51- Understand common hacking tools for beginners | unica 02 | [Read More](https://medium.com/p/883b2eff45e6) |
+| Sat, 06 Sep 2025 06:32:44 GMT | Is Your API Key Alive or Dead? — Validate in Minutes with SecurityToolkits API Key Testing Tool | Haxshadow | [Read More](https://medium.com/p/0f887686fe3c) |
+| Sat, 06 Sep 2025 06:24:55 GMT | “Day 30: The Finale — The Bug That Almost Broke the Internet (Or Just My Testing Account)” | Aman Sharma | [Read More](https://medium.com/p/d63112e13427) |
+| Sat, 06 Sep 2025 06:19:33 GMT | Replacing AWS Access Keys with OIDC in GitHub Actions — A Hands-on Guide to Zero Rotation | Kunal Parkhade | [Read More](https://medium.com/p/e528e3c06dcd) |
+| Sat, 06 Sep 2025 06:19:20 GMT | 5 Essential Hacking Tools Explained (For Defenders, Not Attackers) | Aj | [Read More](https://medium.com/p/7e6fc150aca4) |
 | Sat, 06 Sep 2025 06:10:37 GMT | How I Broke Down a bitsadmin Detection Rule: A LetsDefend Challenge Walkthrough | Sohan Kanna D | [Read More](https://medium.com/p/2211b647f84d) |
 | Sat, 06 Sep 2025 06:06:06 GMT | Who Secures AI? And Why Cybersecurity Doesn’t Have to Be Complicated | Recover Right | [Read More](https://medium.com/p/1f15ed621e1e) |
 | Sat, 06 Sep 2025 06:05:52 GMT | OWASP Top 10 (2021) — Definitions Made Simple | Abhinsubej | [Read More](https://medium.com/p/fb433428e801) |
@@ -108,8 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 20:35:50 GMT | ️ My Analysis of Mexicos Cartel Hackers | V1rtu3 _h05t | [Read More](https://medium.com/p/07f733f6f1e6) |
 | Fri, 05 Sep 2025 20:30:50 GMT | Auditoria de código estático con ChatGPT | Adrian Romanov | [Read More](https://medium.com/p/4a9fc6d3e716) |
 | Fri, 05 Sep 2025 20:02:29 GMT | How i Pass SC-401 Certification Exam | Sam Watson | [Read More](https://medium.com/p/f6855b93c1b7) |
-| Fri, 05 Sep 2025 20:01:31 GMT | Console | RADIANT ROOTING | [Read More](https://medium.com/p/622d7684ce08) |
-| Fri, 05 Sep 2025 19:59:18 GMT | Does Microsoft Azure Support SAP Migration? Everything You Need to Know | Techridge Solutions | [Read More](https://medium.com/p/bf4016be041d) |
-| Fri, 05 Sep 2025 19:58:33 GMT | The Hidden Value of Application Support Experience in a Developer’s Career | Dagny Workman | [Read More](https://medium.com/p/810cfe9fdef7) |
-| Fri, 05 Sep 2025 19:56:44 GMT | Technological Risks of AI — The Invisible Fragility of Innovations | Alessandra Martins | [Read More](https://medium.com/p/9629d5275635) |
-| Fri, 05 Sep 2025 19:56:39 GMT | Configuring a Keystore for Android App Signing | Danford Jurvis | [Read More](https://medium.com/p/d759d699f18a) |
