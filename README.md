@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 23:30:26 GMT | The History and Technological Legacy of Microsoft in Global IT | Stacklegend | [Read More](https://medium.com/p/36df666e8b96) |
+| Sat, 06 Sep 2025 23:22:26 GMT | AI and Cybersecurity: From Pattern Recognition to Contextual Reasoning | Johnmshelly | [Read More](https://medium.com/p/6182976be24b) |
 | Sat, 06 Sep 2025 23:14:47 GMT | Automating Server Credential Management with AWS SSM and Secrets Manager | Akesh Patil | [Read More](https://medium.com/p/1f20ccec18f5) |
 | Sat, 06 Sep 2025 23:08:07 GMT | Stored XSS with Cloudflare WAF Bypass | hexaphp | [Read More](https://medium.com/p/420c99aba97b) |
+| Sat, 06 Sep 2025 23:05:56 GMT | Exploring Quantum Computing: A Beginner’s Journey | Nitesh Thali | [Read More](https://medium.com/p/540330de3484) |
 | Sat, 06 Sep 2025 22:37:36 GMT | From Theory to Practice: How Small Language Models Are Revolutionizing Cybersecurity Psychology | Giuseppe Canale | [Read More](https://medium.com/p/1a166ef58096) |
 | Sat, 06 Sep 2025 22:17:39 GMT | Detecting AI-Generated Phishing at Inbound Gateways | Karthikeyan Nagaraj | [Read More](https://medium.com/p/71608082aaa9) |
 | Sat, 06 Sep 2025 22:14:17 GMT | Splunk IR Lab — Website Defacement: From Signal to Root Cause | Hector M. Reyes | [Read More](https://medium.com/p/63686687b475) |
@@ -110,6 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 15:22:10 GMT | Cloud Computing: Merancang Arsitektur Aplikasiapp “Vidlytics” | Muhammad Surya Saputro | [Read More](https://medium.com/p/147a26fa2fc8) |
 | Sat, 06 Sep 2025 15:21:34 GMT | Vaccine — Hack The Box | R37R0 | [Read More](https://medium.com/p/965bd4d375d2) |
 | Sat, 06 Sep 2025 15:10:51 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/6cbe3dc0090a) |
-| Sat, 06 Sep 2025 15:10:12 GMT | GAMES WE PLAY 9 | The Red Beryl | [Read More](https://medium.com/p/1c6f6e6fe8ef) |
-| Sat, 06 Sep 2025 15:07:25 GMT | Pass The Hash - How Hackers Get Access Without Passwords | PARADOX | [Read More](https://medium.com/p/d1f8b4f32410) |
-| Sat, 06 Sep 2025 15:01:49 GMT | Building a Python Keylogger: A Deep Dive into Cybersecurity Education | Kawalostwal | [Read More](https://medium.com/p/19e1d22808ba) |
