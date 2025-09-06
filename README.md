@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 19:28:55 GMT | Elastic Cloud S.I.E.M Lab - Deployment and Configuration Guide | Antonio Tanco | [Read More](https://medium.com/p/96deceb96b93) |
+| Sat, 06 Sep 2025 19:23:17 GMT | DIY Cyberpunk Gadgets That Will Make Your Friends Nervous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a4839f6df1bf) |
+| Sat, 06 Sep 2025 19:22:37 GMT | Crypto Scammers on X: The Dark Side of “Giveaway” Culture | Oz Sultan | [Read More](https://medium.com/p/6479d5d86332) |
+| Sat, 06 Sep 2025 19:20:57 GMT | Demystifying Federated Identity Management (FIM) and Its Clever Use in EKS | Shaarif Khan | [Read More](https://medium.com/p/162a4dd7763f) |
+| Sat, 06 Sep 2025 19:18:26 GMT | How to Secure Your Digital Life: A 2025 Guide to Cybersecurity for Everyone | Umesh Anjula | [Read More](https://medium.com/p/304b2982f160) |
+| Sat, 06 Sep 2025 19:09:46 GMT | [Guide] Crafting a neat and valuable bug bounty report | pm | [Read More](https://medium.com/p/0bf1bc933bdc) |
 | Sat, 06 Sep 2025 19:01:12 GMT | Samsung One UI 8 Stable Update Rollout Dates for Galaxy Devices Revealed | Rakesh Sahani | [Read More](https://medium.com/p/d2359a60a601) |
 | Sat, 06 Sep 2025 18:58:21 GMT | ️ Tried SecPilot’s ThreatPilot (Beta) — Pretty Impressed | Khalid Amri | [Read More](https://medium.com/p/ccfa6d06cb1e) |
 | Sat, 06 Sep 2025 18:56:51 GMT | Kali Linux vs Parrot OS: The Winner No One Told You About (Beginners, Read This First!!) | cybrNK | [Read More](https://medium.com/p/fce36863365a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 12:09:43 GMT | Payment Gateway Bypass | 7error | [Read More](https://medium.com/p/ac90c2b1d911) |
 | Sat, 06 Sep 2025 12:08:29 GMT | From Microbes to Malware: Lessons from Kaushik Hatti’s Journey to CISO | Jagadishb | [Read More](https://medium.com/p/3290923757bd) |
 | Sat, 06 Sep 2025 12:06:15 GMT | Across Borders: Reflections on India, Sri Lanka, and Security Realities of 2014 | Cambodia UK | [Read More](https://medium.com/p/17b76f82c1f2) |
-| Sat, 06 Sep 2025 12:05:00 GMT | WordPress Security Optimization — Complete Guide to Securing Your Website | sarbdit | [Read More](https://medium.com/p/26d34545fbe1) |
-| Sat, 06 Sep 2025 12:02:37 GMT | Malware Analysis with Hybrid Analysis: A Step-by-Step Guide. | Odunlade Joshua | [Read More](https://medium.com/p/4b2b07bbb33d) |
-| Sat, 06 Sep 2025 12:01:59 GMT | Building Brands That Last: Why Design, Web, and Video Matter More Than Ever | Ansh Varshney | [Read More](https://medium.com/p/2234f081dd37) |
-| Sat, 06 Sep 2025 12:01:33 GMT | Dynamic DNS: Never Lose Your Connection to Your Own Network | Nikhilesh Singh | [Read More](https://medium.com/p/7a0666ee17c6) |
-| Sat, 06 Sep 2025 11:59:01 GMT | Kali Linux vs Parrot OS-Choosing the Right Penetration Testing Platform for Cybersecurity… | Jasmitharouthu | [Read More](https://medium.com/p/a7a724ffcac4) |
-| Sat, 06 Sep 2025 11:55:16 GMT | Slashing & Accountability in Drosera: Why It Matters | mayor. | [Read More](https://medium.com/p/6320f015ef41) |
