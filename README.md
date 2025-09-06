@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 16:14:35 GMT | Blue Team Labs- Deep Blue Investigation | Juan Alexander Alejo | [Read More](https://medium.com/p/4af189fda052) |
+| Sat, 06 Sep 2025 16:07:08 GMT | How to protect your internet-facing apps from cyber attacks ? | Janarthanan Chander | [Read More](https://medium.com/p/d7aed8ab88a8) |
+| Sat, 06 Sep 2025 16:04:45 GMT | Large Language Models Are Routine Now. But If We Don’t Harden Security, Stuff Breaks, Fast | Jaed Grande Delosa | [Read More](https://medium.com/p/239ff261c620) |
+| Sat, 06 Sep 2025 16:01:40 GMT | How I Build Custom Tools. | Mainekhacker | [Read More](https://medium.com/p/37722300a5b2) |
+| Sat, 06 Sep 2025 15:57:01 GMT | Phishing Email Detector Using Machine Learning | Akshikakapil | [Read More](https://medium.com/p/6ac5a0e49cf4) |
+| Sat, 06 Sep 2025 15:55:32 GMT | BURNS | Neeravi Sarathi | [Read More](https://medium.com/p/c3c367460b88) |
+| Sat, 06 Sep 2025 15:54:50 GMT | RAT Alert! | James N | [Read More](https://medium.com/p/30fd89a457ea) |
+| Sat, 06 Sep 2025 15:54:13 GMT | How Border0 Differs from Tailscale | Andree Toonk | [Read More](https://medium.com/p/90fbb3e6f291) |
+| Sat, 06 Sep 2025 15:50:40 GMT | Bug Bounty: The Secret Endpoint That Made Premium Free | 0xAmmar | [Read More](https://medium.com/p/71295be2dc66) |
+| Sat, 06 Sep 2025 15:50:02 GMT | Thoughts on the recent Ethereum smart contracts C2 abuse | Koifsec | [Read More](https://medium.com/p/f15d42944c7f) |
+| Sat, 06 Sep 2025 15:47:47 GMT | Cybersecurity in Australia: Key Issues and Opportunities for a Safer Digital Future | Nouman Sarfraz Haral | [Read More](https://medium.com/p/edf182bb52b8) |
+| Sat, 06 Sep 2025 15:43:48 GMT | The Quantum Time Bomb | Gaurang Katyal | [Read More](https://medium.com/p/f2edc8956974) |
+| Sat, 06 Sep 2025 15:42:59 GMT | Could the Drosera Network Have Prevented the Bybit Hack? | Samkokoroewa | [Read More](https://medium.com/p/ce8f7fdc2f0d) |
+| Sat, 06 Sep 2025 15:36:46 GMT | From Curiosity to Contribution: My Cloud Engineering Journey | Akuphe Dieudonne | [Read More](https://medium.com/p/e04b9f2309d5) |
+| Sat, 06 Sep 2025 15:33:06 GMT | Create secure and robust web-based systems | Cyber Gee | [Read More](https://medium.com/p/010afff632a4) |
+| Sat, 06 Sep 2025 15:32:37 GMT | web site security checklist | Cyber Gee | [Read More](https://medium.com/p/1654614f55d7) |
 | Sat, 06 Sep 2025 15:32:24 GMT | Offensive Security Career Coaching | Jake Mayhew | [Read More](https://medium.com/p/9144883a25f8) |
 | Sat, 06 Sep 2025 15:29:12 GMT | SOC287 — Operation ARBITRARY FILE RAID: Path Traversal Titan Breach (CVE-2024–24919) | Andrew Williams | [Read More](https://medium.com/p/62de81fef3bb) |
 | Sat, 06 Sep 2025 15:22:10 GMT | Cloud Computing: Merancang Arsitektur Aplikasiapp “Vidlytics” | Muhammad Surya Saputro | [Read More](https://medium.com/p/147a26fa2fc8) |
@@ -97,19 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 10:17:30 GMT | How to exploit? Multicast DNS (mDNS) and DNS-SD — PORT 5353/UDP | Very Lazy Tech | [Read More](https://medium.com/p/2ff73a84e16d) |
 | Sat, 06 Sep 2025 10:15:53 GMT | Bypassing CAPTCHA with No Rate Limiting potentially leads to ATO. | youssef awad | [Read More](https://medium.com/p/0a7714c9042d) |
 | Sat, 06 Sep 2025 10:15:25 GMT | Give the Gift of Accountability | Mike Sansone | [Read More](https://medium.com/p/483d2fea64e9) |
-| Sat, 06 Sep 2025 10:11:50 GMT | What New DevOps Skills Shall Accelerate Your IT Career Growth? | Mohammed Numan | [Read More](https://medium.com/p/3a63dc60b8bf) |
-| Sat, 06 Sep 2025 09:56:38 GMT | Is It Safe to Install CCTV at Home? | Smart Secures | [Read More](https://medium.com/p/b132fdc3dbeb) |
-| Sat, 06 Sep 2025 09:53:37 GMT | How to hack an AI-generated story from MSN using AI | Ouroboros DeFi "ODIE" | [Read More](https://medium.com/p/bbfe0a77412b) |
-| Sat, 06 Sep 2025 09:50:58 GMT | Exploiting SSRF in TryHackMe’s MD2PDF Room: A Hands-On Walkthrough | Uchiha Shahin | [Read More](https://medium.com/p/c7ca9151710a) |
-| Sat, 06 Sep 2025 09:47:49 GMT | Hack The Box — Environment WriteUp | Toshith | [Read More](https://medium.com/p/2c312e167be0) |
-| Sat, 06 Sep 2025 09:47:31 GMT | Improving S3 Upload Performance with Boto3: Standard, Multipart, and Acceleration | Eva Mwangi | [Read More](https://medium.com/p/5544c8b7989c) |
-| Sat, 06 Sep 2025 09:44:32 GMT | The Linux Security Journey — perf_event_paranoid | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b8c0aaabb601) |
-| Sat, 06 Sep 2025 09:42:36 GMT | 5-Minute Flutter Fixes That Actually Work | Deepak Sharma | [Read More](https://medium.com/p/359dec7ac17f) |
-| Sat, 06 Sep 2025 09:39:21 GMT | Mastering Android Background Tasks — 2025 Interview Edition | Smit Modi | [Read More](https://medium.com/p/5d8e77fc5aa3) |
-| Sat, 06 Sep 2025 09:37:43 GMT | Local File Disclosure via Path Traversal — One Workflow To Rule Them All | Siddiquimohammad | [Read More](https://medium.com/p/69dc5f1335bd) |
-| Sat, 06 Sep 2025 09:37:03 GMT | Your Ultimate Roadmap to Learning Web App Pentesting (The Right Way) | Javaria gul | [Read More](https://medium.com/p/8364b1af9785) |
-| Sat, 06 Sep 2025 09:36:59 GMT | How to Use and Analyze Data with Splunk and Create Reports | Zoltan Karpati | [Read More](https://medium.com/p/2cd35a8cbc5b) |
-| Sat, 06 Sep 2025 09:31:02 GMT | Confidential Computing: Securing the AI Revolution | Ashish Bansal | [Read More](https://medium.com/p/88602ef8e6b5) |
-| Sat, 06 Sep 2025 09:21:20 GMT | When The Machine Learned To Lie: India’s New Wave Of AI-Powered Malware | O. J. Okpabi | [Read More](https://medium.com/p/9b4ceeeba2ff) |
-| Sat, 06 Sep 2025 09:04:43 GMT | Building Threat Intelligence Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/7f84b8227494) |
-| Sat, 06 Sep 2025 09:02:33 GMT | What If Tomorrow You Woke Up and Couldn’t Access Any of Your Files? | Nalikajayarathna | [Read More](https://medium.com/p/68cf60c4abaf) |
