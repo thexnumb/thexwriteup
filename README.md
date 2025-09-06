@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 02:41:41 GMT | ⛩️ Spirituality in the Age of AI and Information Abundance | Chuan | [Read More](https://medium.com/p/f7d10b7ca1aa) |
+| Sat, 06 Sep 2025 02:39:09 GMT | The Race to Room-Temperature Superconductors: A New Era of Energy? | muhammad ardiansah | [Read More](https://medium.com/p/7deb09e6e101) |
+| Sat, 06 Sep 2025 02:27:32 GMT | The Real Key to a Lasting Marriage: Beyond Romance | anni | [Read More](https://medium.com/p/4fe938129e2d) |
+| Sat, 06 Sep 2025 02:14:48 GMT | Cybersecurity Essentials 101- Conquering the CIA Triad | St0tRaa | [Read More](https://medium.com/p/0c3e97331bd7) |
+| Sat, 06 Sep 2025 02:05:28 GMT | Transforming Businesses with Innovative IT Solutions: A Look at VTECH VISION | VTECH VISION | [Read More](https://medium.com/p/df0a3c754ca8) |
+| Sat, 06 Sep 2025 02:04:07 GMT | The $550,000 Lesson: Finding Solid Ground After the Crypto Scam Freefall | Gem Pad.io | [Read More](https://medium.com/p/a184d8bf8e12) |
+| Sat, 06 Sep 2025 02:02:21 GMT | SOC Level 1 — Junior Security Analyst Introduction | Gregory Dawson | [Read More](https://medium.com/p/1d2f83528ae3) |
+| Sat, 06 Sep 2025 02:01:44 GMT | When Supabase Api Key Misuse Turns Vibecoding Into Vibeleaking | Parth Rana | [Read More](https://medium.com/p/8cb049046135) |
+| Sat, 06 Sep 2025 01:56:50 GMT | Locked Down and Scaled Up — Automating User Access on Linux | Will A. Soto | [Read More](https://medium.com/p/8786bb15aa88) |
+| Sat, 06 Sep 2025 01:53:39 GMT | Hack Smarter: BuildingMagicAD | Ryan Yager | [Read More](https://medium.com/p/fc246e2e053a) |
+| Sat, 06 Sep 2025 01:47:28 GMT | Hammer writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/1181832bab7c) |
+| Sat, 06 Sep 2025 01:29:30 GMT | If Anyone Notices | Haven Hartley | [Read More](https://medium.com/p/81b719946974) |
 | Sat, 06 Sep 2025 01:21:35 GMT | The “Office Vibe” on the Beijing-Shanghai High-Speed Railway: A Glimpse into the Future of Most… | Ophaly Kate | [Read More](https://medium.com/p/524ba0408bf6) |
 | Sat, 06 Sep 2025 00:59:36 GMT | AWS Lambda Cold Starts in 2025: What Changed and How to Optimize | Rizqi Mulki | [Read More](https://medium.com/p/8965b73a37ed) |
 | Sat, 06 Sep 2025 00:51:12 GMT | After the Hack: Finding Clarity in the Chaos of Crypto Theft | Gem Pad.io | [Read More](https://medium.com/p/a150927caba7) |
@@ -101,15 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 18:04:24 GMT | How I Found an Authentication Bypass at CoinMarketCap! | 0xBartita | [Read More](https://medium.com/p/191a13fec176) |
 | Fri, 05 Sep 2025 18:04:08 GMT | How to Use Nuclei as an AppSec DAST Tool in DevSecOps | Israel Aráoz Severiche | [Read More](https://medium.com/p/90d0ab5963bb) |
 | Fri, 05 Sep 2025 18:03:53 GMT | EDR vs MDR: Which Cybersecurity Solution Fits Your Business Best? | SafeAeon Inc. | [Read More](https://medium.com/p/e31f20142734) |
-| Fri, 05 Sep 2025 18:01:30 GMT | Bug Bounty: NoSQL Injection: la vulnerabilidad silenciosa que muchos pasan por alto | Gorka | [Read More](https://medium.com/p/0a1b45f53bd7) |
-| Fri, 05 Sep 2025 18:01:30 GMT | 5 Portfolio Mistakes That Instantly Turn Off Hiring Managers | Niamh O'Shea | [Read More](https://medium.com/p/1f9eff048ea5) |
-| Fri, 05 Sep 2025 17:58:11 GMT | The Hidden Path to an HP Printer: A Real-World Discovery | Manav | [Read More](https://medium.com/p/4b05187a8271) |
-| Fri, 05 Sep 2025 17:57:14 GMT | Wifi Hacking — An Evil Twin Setup Guide | Rodrigocolozio | [Read More](https://medium.com/p/7969f1a27064) |
-| Fri, 05 Sep 2025 17:55:57 GMT | “No Sql Injection” Challenge | oussama | [Read More](https://medium.com/p/76357f51e2d2) |
-| Fri, 05 Sep 2025 17:41:26 GMT | DROSERA NETWORK: ETHEREUM'S IMMUNE SYSTEM | DUQAHH | [Read More](https://medium.com/p/82eb9c82e7a8) |
-| Fri, 05 Sep 2025 17:26:30 GMT | Because One Job Posting Isn’t Enough, Let’s Build Something Better (Message To My Network) | Michael_J_B | [Read More](https://medium.com/p/5b697522ef25) |
-| Fri, 05 Sep 2025 17:24:57 GMT | How to Lock Down Your WhatsApp Chats | www.OneCoolTip.com | [Read More](https://medium.com/p/f662eea72d26) |
-| Fri, 05 Sep 2025 17:23:04 GMT | I Was Just Messing Around on a WordPress Site and Found This… | 0x62616B61 | [Read More](https://medium.com/p/4b44aebac6e7) |
-| Fri, 05 Sep 2025 17:18:50 GMT | Day 19: Security Hardening for Production MCP Systems | Somya Golchha | [Read More](https://medium.com/p/d4ac7b93ae2c) |
-| Fri, 05 Sep 2025 17:17:57 GMT | The Leadership Collapse: Why Cybersecurity, Confidence, and Connection Are All at Risk | Michael_J_B | [Read More](https://medium.com/p/190373df709e) |
-| Fri, 05 Sep 2025 17:17:29 GMT | I Built a Free CompTIA Security+ (SY0–701) Practice Platform — Here’s Why and How You Can Use It | Khoondaniel | [Read More](https://medium.com/p/bdbc0e54652b) |
