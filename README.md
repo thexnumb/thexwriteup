@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 07:31:07 GMT | When Leadership Is Missing: Lessons from Enterprise IT | Fabio Metastasio | [Read More](https://medium.com/p/1eb773324ae6) |
+| Sat, 06 Sep 2025 07:21:35 GMT | Drosera: The Future of Autonomous Blockchain Intelligence | Affanu_X | [Read More](https://medium.com/p/fcb6ffb3c353) |
+| Sat, 06 Sep 2025 07:20:20 GMT | Windows System Hardening for GRC Professionals | Abdullateef Hameed | [Read More](https://medium.com/p/cd50a6993528) |
 | Sat, 06 Sep 2025 07:16:23 GMT | So You Want to Be a Hacker? Forget the RGB. | Viratavi | [Read More](https://medium.com/p/e861ea4a29d4) |
+| Sat, 06 Sep 2025 07:14:31 GMT | Le Guide VPN Que J’aurais Aimé Lire Avant de Me Faire Pirater | David C. | [Read More](https://medium.com/p/ab9ccc284800) |
 | Sat, 06 Sep 2025 07:14:23 GMT | The VPN Guide I Wish I Had Read Before Getting Hacked | David C. | [Read More](https://medium.com/p/9627f9c51cf1) |
 | Sat, 06 Sep 2025 07:04:06 GMT | Using Win32 API with Rust: A Step-by-Step Guide | Redfox Security | [Read More](https://medium.com/p/d9ab46ce6ef3) |
 | Sat, 06 Sep 2025 06:57:14 GMT | When More Data Means Worse Decisions | Phantasm  solutions | [Read More](https://medium.com/p/d773d0f5f30e) |
@@ -109,7 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 21:36:49 GMT | The History and Significance of the Altair 8800 in Computing | Stacklegend | [Read More](https://medium.com/p/8197487f3b51) |
 | Fri, 05 Sep 2025 21:36:05 GMT | Your Marketing Strategy is Now a Cybersecurity Risk | Axy.digital | [Read More](https://medium.com/p/85eaf3db76e9) |
 | Fri, 05 Sep 2025 21:33:01 GMT | DevOps in 2025: A Comprehensive Guide to Modern Practices | CodeToKloud | [Read More](https://medium.com/p/22e2f0ec7eab) |
-| Fri, 05 Sep 2025 21:31:39 GMT | Cybersecurity in 2025: Is It Winning the War Yet? | Bhagya Rana | [Read More](https://medium.com/p/2d74ad11ad48) |
-| Fri, 05 Sep 2025 21:26:58 GMT | The History of Intel and Its Most Important Milestones | Stacklegend | [Read More](https://medium.com/p/8c06b73ccd1f) |
-| Fri, 05 Sep 2025 21:21:45 GMT | CyberDefenders’ 3CX Supply Chain Lab | Adewale Ayomide | [Read More](https://medium.com/p/c0edc933b914) |
-| Fri, 05 Sep 2025 21:19:48 GMT | AI, Geopolitics and Power | Above The Firewall | [Read More](https://medium.com/p/95b9e7361a4a) |
