@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 08:24:55 GMT | Flatline TryHackMe Walkthrough — Complete Step-by-Step Guide to Root | Death Esther | [Read More](https://medium.com/p/4167180f1355) |
 | Sat, 06 Sep 2025 08:17:57 GMT | Buffer Overflow Tricky Control Hijack (easy). | cyberghost | [Read More](https://medium.com/p/d2ed897c24a0) |
+| Sat, 06 Sep 2025 08:16:21 GMT | Python Programming: The Most Beginner-Friendly Language You Need to Learn | Skilldigital | [Read More](https://medium.com/p/a52e4ea23813) |
+| Sat, 06 Sep 2025 08:15:58 GMT | AI vs. AI: The Epic Battle Happening in Your Self-Driving Car | Sumit Kumar Gupta | [Read More](https://medium.com/p/24b3def31290) |
 | Sat, 06 Sep 2025 08:14:28 GMT | Reflections on My First Month of Internship. | Hitesh Said | [Read More](https://medium.com/p/8c63f0399c84) |
 | Sat, 06 Sep 2025 08:06:01 GMT | ️‍♂️ Target Analysis with OSINT: Tools and Scenarios | Esra Kayhan | [Read More](https://medium.com/p/40823a1d5c67) |
 | Sat, 06 Sep 2025 08:04:40 GMT | Bash script to get list of subdomains from “crt.sh” and check status codes | Siddharth Rose | [Read More](https://medium.com/p/cda2d4139971) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Sep 2025 23:17:54 GMT | On dismissiveness. | Apoorva Sahay | [Read More](https://medium.com/p/1e27e44e62d0) |
 | Fri, 05 Sep 2025 22:59:43 GMT | Incident Response and Cybersecurity Culture – Building Resilience Through International Frameworks | David SEHYEON Baek | [Read More](https://medium.com/p/a4ba07733249) |
 | Fri, 05 Sep 2025 22:49:26 GMT | How I Found Broken Access Control -Then I Stopped Hunting | Umanhonlen Gabriel | [Read More](https://medium.com/p/a48187e8702a) |
-| Fri, 05 Sep 2025 22:49:14 GMT | Protect the Lifeblood, Your Data | David SEHYEON Baek | [Read More](https://medium.com/p/81d0d3421ced) |
-| Fri, 05 Sep 2025 22:45:46 GMT | Packing/Unpacking in Malware Analysis and Scanners | Chris Zhang | [Read More](https://medium.com/p/d9b62cd8aeb5) |
-| Fri, 05 Sep 2025 22:40:37 GMT | WICYS Target Defense Challenge 2025 — Tier 1 | Devanshi Chavda | [Read More](https://medium.com/p/bf3fd32a3bf9) |
