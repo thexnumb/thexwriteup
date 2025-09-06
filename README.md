@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 05:31:56 GMT | Kerentanan RouterOS 6.40.5 - 6.44 dan 6.48.1 - 6.49.10 Terhadap Serangan DoS (Denial of Service). | M. MALIK FAJAR B | [Read More](https://medium.com/p/15b9e5b4e61a) |
+| Sat, 06 Sep 2025 05:31:39 GMT | How to Create a BAT File in Windows 11 (Step-by-Step Guide) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/72ba4372ed89) |
+| Sat, 06 Sep 2025 05:28:15 GMT | How Hackers Use Google Dorks to Find Secrets | Vipul Sonule | [Read More](https://medium.com/p/9130c8a8f9cc) |
 | Sat, 06 Sep 2025 05:05:20 GMT | Breaking into Steel Mountain: A Mr. Robot-Inspired Windows Pentest on TryHackMe | Roy | [Read More](https://medium.com/p/b1c96a6fa5cb) |
 | Sat, 06 Sep 2025 04:57:50 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/72b7005ee571) |
 | Sat, 06 Sep 2025 04:51:36 GMT | 5 Reasons Why Smart Companies Will Choose Bugthrive for Their Bug Bounty Program Management | ProwlSec | [Read More](https://medium.com/p/0554c0ec38fc) |
@@ -110,6 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 19:35:00 GMT | MY DROSERA FUTURE | Midast | [Read More](https://medium.com/p/e0c283c800c9) |
 | Fri, 05 Sep 2025 19:31:04 GMT | The Identity Revolution: How UDNA Transforms Enterprise Communication from IP-Based to… | Aamir Hameed | [Read More](https://medium.com/p/de412476f0c2) |
 | Fri, 05 Sep 2025 19:29:19 GMT | The Myth of the “Unhackable” System: Lessons from Pen Tests | Aj | [Read More](https://medium.com/p/142c2d43a0ff) |
-| Fri, 05 Sep 2025 19:23:16 GMT | “spelling-quiz” Challenge | oussama | [Read More](https://medium.com/p/ed4deefe9e81) |
-| Fri, 05 Sep 2025 19:23:12 GMT | Bridging the Gap: Learning Cybersecurity From Books and Living Through Attacks | Shahzaib | [Read More](https://medium.com/p/fe4793b57066) |
-| Fri, 05 Sep 2025 19:22:12 GMT | Cybersecurity Lessons Hidden in Books And Revealed in Real Breaches | Shahzaib | [Read More](https://medium.com/p/15da4968fdef) |
