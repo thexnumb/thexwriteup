@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 10:11:50 GMT | What New DevOps Skills Shall Accelerate Your IT Career Growth? | Mohammed Numan | [Read More](https://medium.com/p/3a63dc60b8bf) |
+| Sat, 06 Sep 2025 09:56:38 GMT | Is It Safe to Install CCTV at Home? | Smart Secures | [Read More](https://medium.com/p/b132fdc3dbeb) |
+| Sat, 06 Sep 2025 09:53:37 GMT | How to hack an AI-generated story from MSN using AI | Ouroboros DeFi "ODIE" | [Read More](https://medium.com/p/bbfe0a77412b) |
+| Sat, 06 Sep 2025 09:50:58 GMT | Exploiting SSRF in TryHackMe’s MD2PDF Room: A Hands-On Walkthrough | Uchiha Shahin | [Read More](https://medium.com/p/c7ca9151710a) |
+| Sat, 06 Sep 2025 09:47:49 GMT | Hack The Box — Environment WriteUp | Toshith | [Read More](https://medium.com/p/2c312e167be0) |
+| Sat, 06 Sep 2025 09:47:31 GMT | Improving S3 Upload Performance with Boto3: Standard, Multipart, and Acceleration | Eva Mwangi | [Read More](https://medium.com/p/5544c8b7989c) |
+| Sat, 06 Sep 2025 09:44:32 GMT | The Linux Security Journey — perf_event_paranoid | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b8c0aaabb601) |
+| Sat, 06 Sep 2025 09:42:36 GMT | 5-Minute Flutter Fixes That Actually Work | Deepak Sharma | [Read More](https://medium.com/p/359dec7ac17f) |
+| Sat, 06 Sep 2025 09:39:21 GMT | Mastering Android Background Tasks — 2025 Interview Edition | Smit Modi | [Read More](https://medium.com/p/5d8e77fc5aa3) |
+| Sat, 06 Sep 2025 09:37:43 GMT | Local File Disclosure via Path Traversal — One Workflow To Rule Them All | Siddiquimohammad | [Read More](https://medium.com/p/69dc5f1335bd) |
+| Sat, 06 Sep 2025 09:37:03 GMT | Your Ultimate Roadmap to Learning Web App Pentesting (The Right Way) | Javaria gul | [Read More](https://medium.com/p/8364b1af9785) |
+| Sat, 06 Sep 2025 09:36:59 GMT | How to Use and Analyze Data with Splunk and Create Reports | Zoltan Karpati | [Read More](https://medium.com/p/2cd35a8cbc5b) |
+| Sat, 06 Sep 2025 09:31:02 GMT | Confidential Computing: Securing the AI Revolution | Ashish Bansal | [Read More](https://medium.com/p/88602ef8e6b5) |
 | Sat, 06 Sep 2025 09:21:20 GMT | When The Machine Learned To Lie: India’s New Wave Of AI-Powered Malware | O. J. Okpabi | [Read More](https://medium.com/p/9b4ceeeba2ff) |
 | Sat, 06 Sep 2025 09:04:43 GMT | Building Threat Intelligence Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/7f84b8227494) |
 | Sat, 06 Sep 2025 09:02:33 GMT | What If Tomorrow You Woke Up and Couldn’t Access Any of Your Files? | Nalikajayarathna | [Read More](https://medium.com/p/68cf60c4abaf) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 02:45:40 GMT | The Day I Hit Publish | Solene Vu | [Read More](https://medium.com/p/dd8f861bcc51) |
 | Sat, 06 Sep 2025 02:41:41 GMT | ⛩️ Spirituality in the Age of AI and Information Abundance | Chuan | [Read More](https://medium.com/p/f7d10b7ca1aa) |
 | Sat, 06 Sep 2025 02:39:09 GMT | The Race to Room-Temperature Superconductors: A New Era of Energy? | muhammad ardiansah | [Read More](https://medium.com/p/7deb09e6e101) |
-| Sat, 06 Sep 2025 02:37:34 GMT | Malware Classification - Tryhackme | Aaron | [Read More](https://medium.com/p/4075ec04b99e) |
-| Sat, 06 Sep 2025 02:33:53 GMT | Exploiting CCTV: RTSP Authentication Digest | Pagar Alam | [Read More](https://medium.com/p/8e8d9043c4af) |
-| Sat, 06 Sep 2025 02:27:32 GMT | The Real Key to a Lasting Marriage: Beyond Romance | anni | [Read More](https://medium.com/p/4fe938129e2d) |
-| Sat, 06 Sep 2025 02:14:48 GMT | Cybersecurity Essentials 101- Conquering the CIA Triad | St0tRaa | [Read More](https://medium.com/p/0c3e97331bd7) |
-| Sat, 06 Sep 2025 02:05:28 GMT | Transforming Businesses with Innovative IT Solutions: A Look at VTECH VISION | VTECH VISION | [Read More](https://medium.com/p/df0a3c754ca8) |
-| Sat, 06 Sep 2025 02:04:07 GMT | The $550,000 Lesson: Finding Solid Ground After the Crypto Scam Freefall | Gem Pad.io | [Read More](https://medium.com/p/a184d8bf8e12) |
-| Sat, 06 Sep 2025 02:02:21 GMT | SOC Level 1 — Junior Security Analyst Introduction | Gregory Dawson | [Read More](https://medium.com/p/1d2f83528ae3) |
-| Sat, 06 Sep 2025 02:01:44 GMT | When Supabase Api Key Misuse Turns Vibecoding Into Vibeleaking | Parth Rana | [Read More](https://medium.com/p/8cb049046135) |
-| Sat, 06 Sep 2025 01:56:50 GMT | Locked Down and Scaled Up — Automating User Access on Linux | Will A. Soto | [Read More](https://medium.com/p/8786bb15aa88) |
-| Sat, 06 Sep 2025 01:53:39 GMT | Hack Smarter: BuildingMagicAD | Ryan Yager | [Read More](https://medium.com/p/fc246e2e053a) |
-| Sat, 06 Sep 2025 01:47:28 GMT | Hammer writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/1181832bab7c) |
-| Sat, 06 Sep 2025 01:29:30 GMT | If Anyone Notices | Haven Hartley | [Read More](https://medium.com/p/81b719946974) |
-| Sat, 06 Sep 2025 01:21:35 GMT | The “Office Vibe” on the Beijing-Shanghai High-Speed Railway: A Glimpse into the Future of Most… | Ophaly Kate | [Read More](https://medium.com/p/524ba0408bf6) |
