@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 15:10:12 GMT | GAMES WE PLAY 9 | The Red Beryl | [Read More](https://medium.com/p/1c6f6e6fe8ef) |
+| Sat, 06 Sep 2025 15:07:25 GMT | Pass The Hash - How Hackers Get Access Without Passwords | PARADOX | [Read More](https://medium.com/p/d1f8b4f32410) |
+| Sat, 06 Sep 2025 15:01:49 GMT | Building a Python Keylogger: A Deep Dive into Cybersecurity Education | Kawalostwal | [Read More](https://medium.com/p/19e1d22808ba) |
+| Sat, 06 Sep 2025 15:01:39 GMT | Title: Highway 10: The Invisible Corridor Connecting Global Drug Trafficking with Europe’s Threat… | Apolítik0 | [Read More](https://medium.com/p/4ab55c9fbb94) |
+| Sat, 06 Sep 2025 15:01:04 GMT | SQL Injection Vulnerability Scanner Tools | Balki Maharaj | [Read More](https://medium.com/p/3fe93a6c9eda) |
+| Sat, 06 Sep 2025 14:59:59 GMT | Implementing Passwordless Authentication at Scale | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b4ab670b39f6) |
+| Sat, 06 Sep 2025 14:53:18 GMT | HTB Sherlocks — SmartyPants Writeup | JLBSec | [Read More](https://medium.com/p/e2423f39e3a9) |
+| Sat, 06 Sep 2025 14:48:33 GMT | The npm Package That Drained Crypto Wallets While Developers Watched | Aj | [Read More](https://medium.com/p/0251a2c01434) |
+| Sat, 06 Sep 2025 14:39:43 GMT | AI, AI, Oh My | D L Henderson | [Read More](https://medium.com/p/f165fa1b011a) |
+| Sat, 06 Sep 2025 14:37:40 GMT | How Fresh Mint Can Keep Gnats Out of Your Home | Tiann Jackson | [Read More](https://medium.com/p/e4f21c8a5274) |
+| Sat, 06 Sep 2025 14:35:19 GMT | API Authentication Explained: API Keys, JWT, and OAuth (Without the Boring Jargon) | Rasathurai Karan | [Read More](https://medium.com/p/6952f2d08098) |
 | Sat, 06 Sep 2025 14:33:07 GMT | When Paywall is Just a Wallpaper | Aryan Shrestha | [Read More](https://medium.com/p/81b0ed3eb9f1) |
 | Sat, 06 Sep 2025 14:28:25 GMT | My ChatGPT Chats Were on Google. Here’s How I Fixed It. | Content Creator | [Read More](https://medium.com/p/740d1a9fd119) |
 | Sat, 06 Sep 2025 14:23:44 GMT | Phishing Gotcha: Seeing Through the Lies (Before It’s Too Late) | SilentInject | [Read More](https://medium.com/p/fd64a7657ebf) |
@@ -102,14 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 08:57:58 GMT | 5 Best IT Companies in New Zealand for Reliable Tech Support | Susan Clinton | [Read More](https://medium.com/p/89c90cf57592) |
 | Sat, 06 Sep 2025 08:52:11 GMT | Building Bella Vista: My Journey Developing an E-Commerce Web App | Viduni Hewage | [Read More](https://medium.com/p/a528903d3762) |
 | Sat, 06 Sep 2025 08:50:39 GMT | AI Safety: Image generation with nano-banana | Kahhow | [Read More](https://medium.com/p/b62ef87974df) |
-| Sat, 06 Sep 2025 08:50:18 GMT | Host Header Injection in Password Reset Function: From Header Manipulation to Account Takeover | Dgexploit | [Read More](https://medium.com/p/9572f39c6cd6) |
-| Sat, 06 Sep 2025 08:49:21 GMT | Why DevOps is Good for Cybersecurity and How Docker Enhances Secure Deployment of Node.js, | Ram Mote | [Read More](https://medium.com/p/805d7213bea5) |
-| Sat, 06 Sep 2025 08:46:50 GMT | Building a Secure E-Commerce Web Application: My Experience | Induwara Mihisara | [Read More](https://medium.com/p/02c76661b8e0) |
-| Sat, 06 Sep 2025 08:46:06 GMT | War Dialing in 2025: Why It’s Back and How to Stop It Cold | Joe Manna | [Read More](https://medium.com/p/98be9eaedc34) |
-| Sat, 06 Sep 2025 08:39:19 GMT | ️ Investigating Windows - TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/cda69f9eda5e) |
-| Sat, 06 Sep 2025 08:34:11 GMT | Top 7 Cybersecurity Threats to Watch Out for in 2025 | Nusrat Nafshi | [Read More](https://medium.com/p/b0c29359288d) |
-| Sat, 06 Sep 2025 08:32:31 GMT | Transformation der deutschen Telematikinfrastruktur zur Zero Trust Architektur | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/404f294d2958) |
-| Sat, 06 Sep 2025 08:24:55 GMT | Flatline TryHackMe Walkthrough — Complete Step-by-Step Guide to Root | Death Esther | [Read More](https://medium.com/p/4167180f1355) |
-| Sat, 06 Sep 2025 08:17:57 GMT | Buffer Overflow Tricky Control Hijack (easy). | cyberghost | [Read More](https://medium.com/p/d2ed897c24a0) |
-| Sat, 06 Sep 2025 08:16:21 GMT | Python Programming: The Most Beginner-Friendly Language You Need to Learn | Skilldigital | [Read More](https://medium.com/p/a52e4ea23813) |
-| Sat, 06 Sep 2025 08:15:58 GMT | AI vs. AI: The Epic Battle Happening in Your Self-Driving Car | Sumit Kumar Gupta | [Read More](https://medium.com/p/24b3def31290) |
