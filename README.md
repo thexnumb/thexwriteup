@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 20:14:35 GMT | Vulnerable Js Hunting | Deezacker | [Read More](https://medium.com/p/4723a3001f13) |
+| Sat, 06 Sep 2025 20:09:07 GMT | Episode 3: Fundamentals Of Cybersecurity — Threats and Vulnerabilities | Yash Kitey | [Read More](https://medium.com/p/c5542a1fa5eb) |
+| Sat, 06 Sep 2025 20:07:36 GMT | Garbage In, Garbage Out: The OSINT Trap I Fell Into | Sam Galope | [Read More](https://medium.com/p/74a3a9c4b9ca) |
+| Sat, 06 Sep 2025 19:59:59 GMT | Inside the Stuxnet Attack: The Worm That Sabotaged Iran’s Natanz Nuclear Facility | Shaheryar Ali | [Read More](https://medium.com/p/0e6deacfbe5f) |
+| Sat, 06 Sep 2025 19:56:46 GMT | I Hacked My Own Network and Found Something I Wasn’t Ready For | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c64f50a28ba7) |
+| Sat, 06 Sep 2025 19:50:50 GMT | CAMM2: The Next-Gen Evolution in RAM for PCs and Beyond. | L3 SuperLayer | [Read More](https://medium.com/p/7ccf06590976) |
+| Sat, 06 Sep 2025 19:49:04 GMT | Creating Low-Cost DIY Tools for Penetration Testing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a020f0f8ff2d) |
+| Sat, 06 Sep 2025 19:46:54 GMT | The Logic Bomb in the Power Grid | Shahzaib | [Read More](https://medium.com/p/54b3e915c5d7) |
+| Sat, 06 Sep 2025 19:45:27 GMT | Secure Kubernetes Access with a Password Manager | Brendan Dalpe | [Read More](https://medium.com/p/52cd19caa7eb) |
+| Sat, 06 Sep 2025 19:43:13 GMT | How does artificial intelligence contribute to improving the field of nursing? | Sidialtos | [Read More](https://medium.com/p/10991b77772f) |
+| Sat, 06 Sep 2025 19:41:40 GMT | Rising on arXiv — 2025–09–05 | Marcelo Rinesi | [Read More](https://medium.com/p/60b56bd1fe14) |
 | Sat, 06 Sep 2025 19:28:55 GMT | Elastic Cloud S.I.E.M Lab - Deployment and Configuration Guide | Antonio Tanco | [Read More](https://medium.com/p/96deceb96b93) |
 | Sat, 06 Sep 2025 19:23:17 GMT | DIY Cyberpunk Gadgets That Will Make Your Friends Nervous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a4839f6df1bf) |
 | Sat, 06 Sep 2025 19:22:37 GMT | Crypto Scammers on X: The Dark Side of “Giveaway” Culture | Oz Sultan | [Read More](https://medium.com/p/6479d5d86332) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 13:08:22 GMT | Building My Own ESXi Workstation | Huzairi Haril | [Read More](https://medium.com/p/b5cb5c754f43) |
 | Sat, 06 Sep 2025 13:06:50 GMT | NFS Root Squashing Privilege Escalation (Linux Priv Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/046c2cbc402f) |
 | Sat, 06 Sep 2025 13:05:10 GMT | Extra Step That Could Save Your Gmail (And Your Peace of Mind) | Senior Tech Basics | [Read More](https://medium.com/p/7bf0a829b073) |
-| Sat, 06 Sep 2025 12:52:56 GMT | What is a JWT? How OIDC Providers Like GitLab/Github Generate Tokens for Pipelines | Vijay Mourya | [Read More](https://medium.com/p/cf3cbae9fabf) |
-| Sat, 06 Sep 2025 12:48:55 GMT | Top Ethical Hacking Certifications in 2025 | 4achievers | [Read More](https://medium.com/p/9681a37201cf) |
-| Sat, 06 Sep 2025 12:45:47 GMT | How do you know when a guy truly loves you? | Abel | [Read More](https://medium.com/p/bb088ab0fe67) |
-| Sat, 06 Sep 2025 12:30:39 GMT | Trust at Scale: The Magic of Public Key Infrastructure (PKI) | TechTrellis Academy | [Read More](https://medium.com/p/ba288c1d50ea) |
-| Sat, 06 Sep 2025 12:29:08 GMT | Cracking My First Password Hashes — A Red Teaming Learning Experience | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/968b10b49ada) |
-| Sat, 06 Sep 2025 12:24:54 GMT | Massive Salesforce Data Breach Hackers Target 700 Cybersecurity Firms via Salesloft Drift | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/58aa3b1110b9) |
-| Sat, 06 Sep 2025 12:12:48 GMT | Hacking the Watchman: A Guide to EDR and Evasion | Pannag Kumaar | [Read More](https://medium.com/p/a403cd5d3f36) |
-| Sat, 06 Sep 2025 12:11:21 GMT | Drosera Network: Redefining Security in Web3 | Ismail Oladoja | [Read More](https://medium.com/p/6bd7b48af175) |
-| Sat, 06 Sep 2025 12:09:43 GMT | Payment Gateway Bypass | 7error | [Read More](https://medium.com/p/ac90c2b1d911) |
-| Sat, 06 Sep 2025 12:08:29 GMT | From Microbes to Malware: Lessons from Kaushik Hatti’s Journey to CISO | Jagadishb | [Read More](https://medium.com/p/3290923757bd) |
-| Sat, 06 Sep 2025 12:06:15 GMT | Across Borders: Reflections on India, Sri Lanka, and Security Realities of 2014 | Cambodia UK | [Read More](https://medium.com/p/17b76f82c1f2) |
