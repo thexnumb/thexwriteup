@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 15:32:24 GMT | Offensive Security Career Coaching | Jake Mayhew | [Read More](https://medium.com/p/9144883a25f8) |
+| Sat, 06 Sep 2025 15:29:12 GMT | SOC287 — Operation ARBITRARY FILE RAID: Path Traversal Titan Breach (CVE-2024–24919) | Andrew Williams | [Read More](https://medium.com/p/62de81fef3bb) |
+| Sat, 06 Sep 2025 15:22:10 GMT | Cloud Computing: Merancang Arsitektur Aplikasiapp “Vidlytics” | Muhammad Surya Saputro | [Read More](https://medium.com/p/147a26fa2fc8) |
+| Sat, 06 Sep 2025 15:21:34 GMT | Vaccine — Hack The Box | R37R0 | [Read More](https://medium.com/p/965bd4d375d2) |
+| Sat, 06 Sep 2025 15:10:51 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/6cbe3dc0090a) |
 | Sat, 06 Sep 2025 15:10:12 GMT | GAMES WE PLAY 9 | The Red Beryl | [Read More](https://medium.com/p/1c6f6e6fe8ef) |
 | Sat, 06 Sep 2025 15:07:25 GMT | Pass The Hash - How Hackers Get Access Without Passwords | PARADOX | [Read More](https://medium.com/p/d1f8b4f32410) |
 | Sat, 06 Sep 2025 15:01:49 GMT | Building a Python Keylogger: A Deep Dive into Cybersecurity Education | Kawalostwal | [Read More](https://medium.com/p/19e1d22808ba) |
@@ -108,8 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 09:21:20 GMT | When The Machine Learned To Lie: India’s New Wave Of AI-Powered Malware | O. J. Okpabi | [Read More](https://medium.com/p/9b4ceeeba2ff) |
 | Sat, 06 Sep 2025 09:04:43 GMT | Building Threat Intelligence Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/7f84b8227494) |
 | Sat, 06 Sep 2025 09:02:33 GMT | What If Tomorrow You Woke Up and Couldn’t Access Any of Your Files? | Nalikajayarathna | [Read More](https://medium.com/p/68cf60c4abaf) |
-| Sat, 06 Sep 2025 09:02:09 GMT | How to Travel Safely in an Increasingly Volatile World | Samuel G | [Read More](https://medium.com/p/da6e4f16cba0) |
-| Sat, 06 Sep 2025 09:00:02 GMT | TryHackMe - Warzone 1— Network Alerts Walkthrough | Furkanctiner | [Read More](https://medium.com/p/e084f5b7dd9f) |
-| Sat, 06 Sep 2025 08:57:58 GMT | 5 Best IT Companies in New Zealand for Reliable Tech Support | Susan Clinton | [Read More](https://medium.com/p/89c90cf57592) |
-| Sat, 06 Sep 2025 08:52:11 GMT | Building Bella Vista: My Journey Developing an E-Commerce Web App | Viduni Hewage | [Read More](https://medium.com/p/a528903d3762) |
-| Sat, 06 Sep 2025 08:50:39 GMT | AI Safety: Image generation with nano-banana | Kahhow | [Read More](https://medium.com/p/b62ef87974df) |
