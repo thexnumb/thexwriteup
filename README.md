@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 11:31:36 GMT | DockerLabs Writeup — PkgPoison (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/6343166f0d01) |
+| Sat, 06 Sep 2025 11:30:30 GMT | Malware Analysis — Zeus Banking Trojan | TraceX0 | [Read More](https://medium.com/p/b4b2152c7510) |
+| Sat, 06 Sep 2025 11:30:26 GMT | A School District’s Nightmare: How One Cyberattack Exposed 31,000 People | Pannag Kumaar | [Read More](https://medium.com/p/d8b6ce3d86b3) |
+| Sat, 06 Sep 2025 11:16:07 GMT | EgeGuard: A Python-Based Security & Network Monitoring Prototype | Egehanmacit | [Read More](https://medium.com/p/15e03dc9b7f9) |
+| Sat, 06 Sep 2025 11:13:28 GMT | Kibana ile elasticsearch bağlantısını docker üzerinden güvenlikli bir şekilde bağlanmak | Enes Tasar | [Read More](https://medium.com/p/6fc9f69b6f3e) |
+| Sat, 06 Sep 2025 11:10:12 GMT | How I Hacked All Universities in My City | Charon19d | [Read More](https://medium.com/p/d6b8e320455c) |
 | Sat, 06 Sep 2025 10:57:46 GMT | Best Ethical Hacking Training in Noida - Ducat India | Aditigupta | [Read More](https://medium.com/p/5aa33343a1e2) |
 | Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Yash Mishra | [Read More](https://medium.com/p/44923fb428ac) |
 | Sat, 06 Sep 2025 10:57:45 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/0c01f25ef84d) |
@@ -107,9 +113,3 @@ In today’s digital era, cybersecurity has… | Abrar Khan | [Read More](https:
 | Sat, 06 Sep 2025 05:53:29 GMT | Ensuring Safety & Hospitality: Shopping Mall Security Guards in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/f72855cf374d) |
 | Sat, 06 Sep 2025 05:52:14 GMT | How to Discover a Website’s Hidden Origin Server | Ibtissam hammadi | [Read More](https://medium.com/p/3e3f25d5be39) |
 | Sat, 06 Sep 2025 05:40:21 GMT | What Is Mechanical Engineering?: The Definitive Guide with 7 Powerful Examples | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/df0dc9832e62) |
-| Sat, 06 Sep 2025 05:32:54 GMT | Phish and Fetch: Turning Weak Email Validations Into Full System Access | Iski | [Read More](https://medium.com/p/eb2fcd2743f2) |
-| Sat, 06 Sep 2025 05:32:23 GMT | The Fear of Catching Feelings in Modern Dating | Soren Frost | [Read More](https://medium.com/p/fa0d4eaab39e) |
-| Sat, 06 Sep 2025 05:31:56 GMT | Kerentanan RouterOS 6.40.5 - 6.44 dan 6.48.1 - 6.49.10 Terhadap Serangan DoS (Denial of Service). | M. MALIK FAJAR B | [Read More](https://medium.com/p/15b9e5b4e61a) |
-| Sat, 06 Sep 2025 05:31:39 GMT | How to Create a BAT File in Windows 11 (Step-by-Step Guide) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/72ba4372ed89) |
-| Sat, 06 Sep 2025 05:29:53 GMT | OSINT — A Beginner’s Guide to Open Source Intelligence. | S.Ali | [Read More](https://medium.com/p/a510063b9474) |
-| Sat, 06 Sep 2025 05:28:15 GMT | How Hackers Use Google Dorks to Find Secrets | Vipul Sonule | [Read More](https://medium.com/p/9130c8a8f9cc) |
