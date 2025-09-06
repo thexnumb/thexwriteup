@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Sep 2025 05:05:20 GMT | Breaking into Steel Mountain: A Mr. Robot-Inspired Windows Pentest on TryHackMe | Roy | [Read More](https://medium.com/p/b1c96a6fa5cb) |
+| Sat, 06 Sep 2025 04:57:50 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/72b7005ee571) |
+| Sat, 06 Sep 2025 04:51:36 GMT | 5 Reasons Why Smart Companies Will Choose Bugthrive for Their Bug Bounty Program Management | ProwlSec | [Read More](https://medium.com/p/0554c0ec38fc) |
+| Sat, 06 Sep 2025 04:48:10 GMT | Building a Universal Encoder/Decoder with Cryptography in Python (Tkinter + ttkbootstrap) | Farhad Habibie | [Read More](https://medium.com/p/c49af2e277a6) |
+| Sat, 06 Sep 2025 04:37:11 GMT | Complete Guide to AI-Powered Cybersecurity Certification in 2025 | sneha gaikwad | [Read More](https://medium.com/p/e9297285c48c) |
+| Sat, 06 Sep 2025 04:32:03 GMT | Jaguar Land Rover Just Got Hit by a Cyber Attack — Here’s Why It Matters | IamPreth | [Read More](https://medium.com/p/62009180eede) |
 | Sat, 06 Sep 2025 04:31:14 GMT | Apple MacBook Pro M3 Max Review: Power, Speed & Battery Life | Tassanee Charoenrat | [Read More](https://medium.com/p/6df331ffc2a7) |
 | Sat, 06 Sep 2025 04:23:01 GMT | short funny story of how I got into cybersecurity | Notfunny_nik | [Read More](https://medium.com/p/870e26c93571) |
 | Sat, 06 Sep 2025 04:14:02 GMT | The Unseen Currency: Navigating the Deeper Exchange of Vulnerability | Netta Vibes | [Read More](https://medium.com/p/273f38d8cfc0) |
@@ -107,9 +113,3 @@ Introduction | Samkokoroewa | [Read More](https://medium.com/p/5942c70254ac) |
 | Fri, 05 Sep 2025 19:23:16 GMT | “spelling-quiz” Challenge | oussama | [Read More](https://medium.com/p/ed4deefe9e81) |
 | Fri, 05 Sep 2025 19:23:12 GMT | Bridging the Gap: Learning Cybersecurity From Books and Living Through Attacks | Shahzaib | [Read More](https://medium.com/p/fe4793b57066) |
 | Fri, 05 Sep 2025 19:22:12 GMT | Cybersecurity Lessons Hidden in Books And Revealed in Real Breaches | Shahzaib | [Read More](https://medium.com/p/15da4968fdef) |
-| Fri, 05 Sep 2025 19:14:11 GMT | IPhone ALERT: WhatsApp Zero-Click Hit Selected Targets | Shahzaib | [Read More](https://medium.com/p/1ebe02fb1845) |
-| Fri, 05 Sep 2025 19:10:53 GMT | The Kasparov Fallacy: When Human Champions Underestimate Their Successors. | Berend Watchus | [Read More](https://medium.com/p/1ebdcdc11b5d) |
-| Fri, 05 Sep 2025 19:10:49 GMT | 3 Ways to Authenticate with GitHub (Explained with Examples) | Mahabub Karim | [Read More](https://medium.com/p/737c0dac8c25) |
-| Fri, 05 Sep 2025 19:10:08 GMT | Understanding the Client-Server Model: A Beginner-Friendly Summary | Majdi Mouhssine | [Read More](https://medium.com/p/25b9260de7c9) |
-| Fri, 05 Sep 2025 19:07:26 GMT | Watcher - TryHackMe | Abdelfattah Elsabagh | [Read More](https://medium.com/p/7fcb0f313210) |
-| Fri, 05 Sep 2025 18:53:23 GMT | Heaven’s Gate vs Hell’s Gate Malwared Techniques | Shahriar Galib | [Read More](https://medium.com/p/faa7a21a69d6) |
