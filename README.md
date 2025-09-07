@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 03:15:32 GMT | Testing My Prompt Injection Abilities | Nwosu Rosemary | [Read More](https://medium.com/p/cec7e4e463b3) |
 | Sun, 07 Sep 2025 02:45:57 GMT | My Journey Building a Secure Flower Shop Web App | Rashmika Nethsarani | [Read More](https://medium.com/p/0e5d1e179d68) |
 | Sun, 07 Sep 2025 02:33:56 GMT | Detecting Lateral Movement via PsExec — A SOC Analyst’s Perspective | Paritosh | [Read More](https://medium.com/p/27de26cc19ce) |
 | Sun, 07 Sep 2025 02:29:49 GMT | FACEIO: The Privacy-First Facial Recognition SDK for Password less Web Authentication | Vishal Yadav | [Read More](https://medium.com/p/b13881203cb7) |
@@ -112,4 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 16:29:07 GMT | Nmap A to Z: The Complete Guide to Network Scanning | Abhinsubej | [Read More](https://medium.com/p/d5beeb4c3430) |
 | Sat, 06 Sep 2025 16:27:56 GMT | Hacking Methodology From Crash to Code | Rohit Chaudhary | [Read More](https://medium.com/p/d829559417bb) |
 | Sat, 06 Sep 2025 16:25:31 GMT | Crack the Code, Unlock a Free Book: The Hacker’s Edge Challenge! | Ryan Merket | [Read More](https://medium.com/p/e66065d18e29) |
-| Sat, 06 Sep 2025 16:14:35 GMT | Blue Team Labs- Deep Blue Investigation | Juan Alexander Alejo | [Read More](https://medium.com/p/4af189fda052) |
