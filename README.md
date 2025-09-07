@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 08:31:42 GMT | Cryptographic Failures: The Silent Killer of Web Security | CyberSenpai | [Read More](https://medium.com/p/99476fe525a6) |
+| Sun, 07 Sep 2025 08:23:45 GMT | Write Up Lab: SQL injection attack, listing the database contents on non-Oracle databases | Velskynotfound | [Read More](https://medium.com/p/2cf88d2663f0) |
+| Sun, 07 Sep 2025 08:23:39 GMT | The Backend Behind the Agent: Seeing MCP Servers Through the Lens of Backend Security | Roy Rahamim | [Read More](https://medium.com/p/5626b85f70a6) |
+| Sun, 07 Sep 2025 08:19:21 GMT | Why Most Mobile Apps Fail Security Tests (and How to Build a Real Strategy That Actually Protects… | Sajjad Hussain | [Read More](https://medium.com/p/8136e26690b1) |
 | Sun, 07 Sep 2025 08:13:06 GMT | The Journey of an Upload: From Your Device to the Cloud | Nikhil Lad | [Read More](https://medium.com/p/e4fab7fe5698) |
 | Sun, 07 Sep 2025 08:11:13 GMT | Get Free Annual Subscriptions on Try Hack Me , Hurry Up! | Mr Horbio | [Read More](https://medium.com/p/4927da5b7bc6) |
 | Sun, 07 Sep 2025 08:10:28 GMT | RCE in React.js: How It Happens & How to Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/21d910113218) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 23:40:59 GMT | Dissecting Network Traffic: TShark Writeup for FTP CTF Challenge | Shashi Raj Jha | [Read More](https://medium.com/p/5a6245772367) |
 | Sat, 06 Sep 2025 23:30:26 GMT | The History and Technological Legacy of Microsoft in Global IT | Stacklegend | [Read More](https://medium.com/p/36df666e8b96) |
 | Sat, 06 Sep 2025 23:22:26 GMT | AI and Cybersecurity: From Pattern Recognition to Contextual Reasoning | Johnmshelly | [Read More](https://medium.com/p/6182976be24b) |
-| Sat, 06 Sep 2025 23:14:47 GMT | Automating Server Credential Management with AWS SSM and Secrets Manager | Akesh Patil | [Read More](https://medium.com/p/1f20ccec18f5) |
-| Sat, 06 Sep 2025 23:08:07 GMT | Stored XSS with Cloudflare WAF Bypass | hexaphp | [Read More](https://medium.com/p/420c99aba97b) |
-| Sat, 06 Sep 2025 23:05:56 GMT | Exploring Quantum Computing: A Beginner’s Journey | Nitesh Thali | [Read More](https://medium.com/p/540330de3484) |
-| Sat, 06 Sep 2025 22:37:36 GMT | From Theory to Practice: How Small Language Models Are Revolutionizing Cybersecurity Psychology | Giuseppe Canale | [Read More](https://medium.com/p/1a166ef58096) |
