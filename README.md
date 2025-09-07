@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 18:18:15 GMT | Beyond the Office Walls: Why Endpoint Security is Critical for a Mobile Workforce | Surojoy Gupta | [Read More](https://medium.com/p/4fe29d555547) |
+| Sun, 07 Sep 2025 18:16:42 GMT | AWS WAF Demo: Protecting Against SSRF Attacks | Cloud Security Masterclass | [Read More](https://medium.com/p/06174111c22f) |
+| Sun, 07 Sep 2025 18:16:11 GMT | PG Play — Blogger (Linux) | Lepton | [Read More](https://medium.com/p/fe3ac8b4276e) |
+| Sun, 07 Sep 2025 18:15:31 GMT | PG Practice — Pebbles (Linux) | Lepton | [Read More](https://medium.com/p/ed7b3dca5ce4) |
+| Sun, 07 Sep 2025 18:15:12 GMT | PG Pratice — Quackerjack (Linux) | Lepton | [Read More](https://medium.com/p/edad594cd5d5) |
+| Sun, 07 Sep 2025 18:12:59 GMT | Week 5 of My 90-Day Challenge: Automation and New Tools | Mike (sl0th0x87) | [Read More](https://medium.com/p/c53f81598753) |
+| Sun, 07 Sep 2025 18:12:28 GMT | Fortifying Cloud Connectivity: Private Connectivity with AWS VPC Endpoints for Enhanced Security | Cloud Security Masterclass | [Read More](https://medium.com/p/7a0fb10e3738) |
+| Sun, 07 Sep 2025 18:07:10 GMT | AWS VPC Flow Logs Explained: Security, Fields, and Analysis | Cloud Security Masterclass | [Read More](https://medium.com/p/dd0e2260635e) |
+| Sun, 07 Sep 2025 18:03:37 GMT | Ollama: Local LLM for Code Security | Ashish Bansal | [Read More](https://medium.com/p/d9694d416d14) |
+| Sun, 07 Sep 2025 18:02:05 GMT | ️‍♂️ The Dark Side of Disclosure: CVEs, Exploits, and Zero-Day Mysteries | Natarajan C K | [Read More](https://medium.com/p/4c3672aca21c) |
+| Sun, 07 Sep 2025 18:01:37 GMT | Bug Bounty: Information Disclosure: el fallo invisible que rompe sistemas | Gorka | [Read More](https://medium.com/p/7ac62023ac1c) |
+| Sun, 07 Sep 2025 17:53:10 GMT | Using Impersonation in OrderCloud: Real Use Cases and Pitfalls | Md. Zillur Rahman | [Read More](https://medium.com/p/c3b43b16fddb) |
+| Sun, 07 Sep 2025 17:52:16 GMT | Hunting Credential Dumping | Preethi Infosec | [Read More](https://medium.com/p/710f4c320c12) |
+| Sun, 07 Sep 2025 17:50:53 GMT | Big Data : Data Processing | Yasa Wijaya | [Read More](https://medium.com/p/13f68a7ae175) |
+| Sun, 07 Sep 2025 17:48:04 GMT | API Security: What It Is and Why It Matters | Vardaa Maheshwari | [Read More](https://medium.com/p/b9bcb9a49fd4) |
+| Sun, 07 Sep 2025 17:47:17 GMT | LureBox: T-Pot Honeypot Deployment on Digital Ocean and Investigation | Rishikesh Vishnu Jadhav | [Read More](https://medium.com/p/abea00d955b0) |
+| Sun, 07 Sep 2025 17:45:45 GMT | AI Security Reports — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9737f0b6f49b) |
+| Sun, 07 Sep 2025 17:43:51 GMT | Coming Soon : Tool Ghauri-GUI Easy Solution for Scann SQL Injection. | raflesia it | [Read More](https://medium.com/p/d04bdf00ea33) |
+| Sun, 07 Sep 2025 17:43:47 GMT | BloodHound & PlumHound — The Symphony of Clarity in Complexity | Eziyo | [Read More](https://medium.com/p/c0a35e653544) |
+| Sun, 07 Sep 2025 17:41:37 GMT | The Day I Fell for My Own Spear-Phish Test | Cyberkech | [Read More](https://medium.com/p/606eebafff81) |
+| Sun, 07 Sep 2025 17:40:31 GMT | Hunting Unused/Unactive Service Accounts in GCP: Practical Approaches for IAM Security | DAKSHITA Agarwal | [Read More](https://medium.com/p/ac1d3423ee38) |
+| Sun, 07 Sep 2025 17:39:00 GMT | Cross-API Vulnerability Chaining: From Misconfigured CORS to RCE via JSONWS | NDIx | [Read More](https://medium.com/p/3cea579e1c09) |
+| Sun, 07 Sep 2025 17:38:46 GMT | Top 11 cyber stories (Week: Sept 1–7, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/14affefd08d8) |
+| Sun, 07 Sep 2025 17:36:27 GMT | A primer on AWS Firewalls | Cloud Security Masterclass | [Read More](https://medium.com/p/1aab887b9abd) |
 | Sun, 07 Sep 2025 17:32:15 GMT | A Primer on AWS VPC and Connectivity Patterns | Cloud Security Masterclass | [Read More](https://medium.com/p/dae590a287f6) |
 | Sun, 07 Sep 2025 17:29:38 GMT | Building a Home SOC Lab with VirtualBox, Wazuh, and Shuffle | Pavin Das | [Read More](https://medium.com/p/58ea5fbb6cfd) |
 | Sun, 07 Sep 2025 17:25:59 GMT | From Pages to Practice: Learning Information Security Through Books | Aj | [Read More](https://medium.com/p/d856057ede0c) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 13:14:31 GMT | How Much Access is Too Much Access? | Abhang Mandwale | [Read More](https://medium.com/p/70fc5186d2eb) |
 | Sun, 07 Sep 2025 13:05:01 GMT | At 3 a.m., while most of the world sleeps, millions of machines hum in quiet. | Dear Mary | [Read More](https://medium.com/p/737e8bb1ec4a) |
 | Sun, 07 Sep 2025 13:02:17 GMT | What Do You Grab When You Don’t Know If You’re Ever Coming Back? | Farhad Ali | [Read More](https://medium.com/p/ad190731f6ea) |
-| Sun, 07 Sep 2025 12:35:37 GMT | How AI Detected 2,847 Security Vulnerabilities in Our Code That Traditional Tools Missed (Complete… | Orami | [Read More](https://medium.com/p/c36ff659c988) |
-| Sun, 07 Sep 2025 12:31:57 GMT | AI Security: Career Paths, Essential Skills & How to Future-Proof Your Cybersecurity Career | Kumar Mohit | [Read More](https://medium.com/p/7dcce9d1b0ba) |
-| Sun, 07 Sep 2025 12:12:40 GMT | Guardians of Your Peace of Mind: Top AI-Powered Smart Security Cameras for Homes in 2025 | Sohaabdullah | [Read More](https://medium.com/p/ae461ca20144) |
-| Sun, 07 Sep 2025 12:06:11 GMT | How Drosera is Set to Tackle Unforeseen Blockchain Mishaps | Sudais | [Read More](https://medium.com/p/d97ea65fcd5f) |
-| Sun, 07 Sep 2025 12:05:31 GMT | Bed Bug Reproduction Rate: More Eggs Than You Think | mohamed muneer | [Read More](https://medium.com/p/afe61a4e13b0) |
-| Sun, 07 Sep 2025 12:04:07 GMT | Secure Coding Practices in the Age of AI | Manpreet Kaur | [Read More](https://medium.com/p/b38026dd5d10) |
-| Sun, 07 Sep 2025 12:02:23 GMT | Fix QEMU/KVM doesn’t allow using mounted drives in Virt-manager on Linux. Permission Denied Error! | OctoPwn | [Read More](https://medium.com/p/916dba2c0f10) |
-| Sun, 07 Sep 2025 11:55:08 GMT | Design: Authenticator Backend — L5 (Senior / Staff-level) answer | The Abstract Engineer | [Read More](https://medium.com/p/bb1637be35c1) |
-| Sun, 07 Sep 2025 11:54:53 GMT | Brute Force (Kaba Kuvvet) Saldırısı | Mustafa Gunay | [Read More](https://medium.com/p/9c2fdd8dc29c) |
-| Sun, 07 Sep 2025 11:44:38 GMT | MOI-CTF: hireplus writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/38e74eac104d) |
-| Sun, 07 Sep 2025 11:37:41 GMT | Directory Traversal Vulnerabilities and Server File Access | Esra Kayhan | [Read More](https://medium.com/p/25bc2d724974) |
-| Sun, 07 Sep 2025 11:37:40 GMT | How I Actually Make Money Online (Other Than Cybersecurity) | Satyam Pathania | [Read More](https://medium.com/p/330e8b9e4fa3) |
-| Sun, 07 Sep 2025 11:31:40 GMT | ️ What is Cyber Threat Intelligence (CTI) and How is it Used? | Esra Kayhan | [Read More](https://medium.com/p/269afe74487c) |
-| Sun, 07 Sep 2025 11:31:29 GMT | h4cked Writeup | Wandesrtech | [Read More](https://medium.com/p/e29c95bffc32) |
-| Sun, 07 Sep 2025 11:29:05 GMT | The eJPTv2 Experience | Mustufasohail | [Read More](https://medium.com/p/e3d6e1cce162) |
-| Sun, 07 Sep 2025 11:20:32 GMT | OKUMAK HAKKINDA | Osman berkay Ercan | [Read More](https://medium.com/p/664c034b6d1f) |
-| Sun, 07 Sep 2025 11:15:01 GMT | The Hidden, Found. | D | [Read More](https://medium.com/p/c7656a36d680) |
-| Sun, 07 Sep 2025 11:11:03 GMT | The myths that make SMS phishing (smishing) scams more dangerous | Paul Walsh | [Read More](https://medium.com/p/0b83fc11e0d1) |
-| Sun, 07 Sep 2025 11:04:28 GMT | The Ghost in the Machine: How a Single Flag Can Give Attackers a Shell on Your Node.js Server | Anant Joshi | [Read More](https://medium.com/p/dfe9a6155387) |
-| Sun, 07 Sep 2025 11:00:12 GMT | NETWORKING BASICS — ALL YOU NEED TO KNOW ABOUT NETWORKING EASILY | Muhammed Afnaan | [Read More](https://medium.com/p/c058f685f970) |
-| Sun, 07 Sep 2025 10:59:39 GMT | ThunderCipher-[ | Bhuwan Patidar | [Read More](https://medium.com/p/07f38298cf0a) |
-| Sun, 07 Sep 2025 10:56:09 GMT | Sharim Solutions | Mathiaskerry | [Read More](https://medium.com/p/b23721136bd1) |
-| Sun, 07 Sep 2025 10:43:14 GMT | The Walking Woundead | Sébastien ️ | [Read More](https://medium.com/p/8ab29e934c51) |
-| Sun, 07 Sep 2025 10:33:52 GMT | ️ PS Eclipse - TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d691bf004286) |
