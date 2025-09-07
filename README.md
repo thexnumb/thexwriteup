@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 05:23:52 GMT | Resurgence of Cyberattacks on the Country’s Communication Infrastructure | Balki Maharaj | [Read More](https://medium.com/p/df5f7607ba7b) |
+| Sun, 07 Sep 2025 05:23:39 GMT | AWS IAM Session Policy: What You Need To Know | Cloud Security Masterclass | [Read More](https://medium.com/p/05b8c5208abe) |
 | Sun, 07 Sep 2025 05:17:46 GMT | The Guide to Service Control Policies (SCPs) | Cloud Security Masterclass | [Read More](https://medium.com/p/e6a23501549f) |
 | Sun, 07 Sep 2025 05:13:58 GMT | Web Design Challenges in 2025 | Rishikumar Yadav | [Read More](https://medium.com/p/6006441813a7) |
 | Sun, 07 Sep 2025 05:11:12 GMT | AWS Organizations Explained: Centralized Multi-Account Management | Cloud Security Masterclass | [Read More](https://medium.com/p/4ae9412ea2c8) |
@@ -111,5 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 17:57:17 GMT | Practical guide: detecting Nmap port scans with Wireshark | Khalil Z. | [Read More](https://medium.com/p/f50a52ac1dfd) |
 | Sat, 06 Sep 2025 17:49:19 GMT | Everything about Playbook in CyberSecurity For Security Analyst — Complete Guide | SecurewithUmer | [Read More](https://medium.com/p/f9ab23152ef5) |
 | Sat, 06 Sep 2025 17:46:59 GMT | This task is to perform FTP enumeration with Metasploit | Dharmendrakumar | [Read More](https://medium.com/p/c65f55e62581) |
-| Sat, 06 Sep 2025 17:45:49 GMT | Learning to be Vulnerable | DamnAmazon | [Read More](https://medium.com/p/315d1d3045ee) |
-| Sat, 06 Sep 2025 17:41:54 GMT | Hire A Hacker To Hack Instagram Account | Darksynthhacker | [Read More](https://medium.com/p/c95c4f710af0) |
