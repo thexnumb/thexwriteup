@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 13:05:01 GMT | At 3 a.m., while most of the world sleeps, millions of machines hum in quiet. | Dear Mary | [Read More](https://medium.com/p/737e8bb1ec4a) |
+| Sun, 07 Sep 2025 13:02:17 GMT | What Do You Grab When You Don’t Know If You’re Ever Coming Back? | Farhad Ali | [Read More](https://medium.com/p/ad190731f6ea) |
+| Sun, 07 Sep 2025 12:35:37 GMT | How AI Detected 2,847 Security Vulnerabilities in Our Code That Traditional Tools Missed (Complete… | Orami | [Read More](https://medium.com/p/c36ff659c988) |
+| Sun, 07 Sep 2025 12:31:57 GMT | AI Security: Career Paths, Essential Skills & How to Future-Proof Your Cybersecurity Career | Kumar Mohit | [Read More](https://medium.com/p/7dcce9d1b0ba) |
 | Sun, 07 Sep 2025 12:12:40 GMT | Guardians of Your Peace of Mind: Top AI-Powered Smart Security Cameras for Homes in 2025 | Sohaabdullah | [Read More](https://medium.com/p/ae461ca20144) |
 | Sun, 07 Sep 2025 12:06:11 GMT | How Drosera is Set to Tackle Unforeseen Blockchain Mishaps | Sudais | [Read More](https://medium.com/p/d97ea65fcd5f) |
 | Sun, 07 Sep 2025 12:05:31 GMT | Bed Bug Reproduction Rate: More Eggs Than You Think | mohamed muneer | [Read More](https://medium.com/p/afe61a4e13b0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 06:52:53 GMT | From Locked to Looted: My Journey of IDOR Chains to Almost-Admin Access | Iski | [Read More](https://medium.com/p/d15abf0046f9) |
 | Sun, 07 Sep 2025 06:46:10 GMT | More Than Defense: How a Proactive CISO Drives Competitive Advantage in Formula 1 | Timothy Harmon, CISSP | [Read More](https://medium.com/p/64488eb30cab) |
 | Sun, 07 Sep 2025 06:43:38 GMT | Securely Storing and Retrieving Passwords in Django | Mahmoud Barzegar | [Read More](https://medium.com/p/8fa964072a64) |
-| Sun, 07 Sep 2025 06:37:42 GMT | Record-breaking 11.5 Tbps DDoS attack | Patrik Žák | [Read More](https://medium.com/p/fd3ac7d8165a) |
-| Sun, 07 Sep 2025 06:35:27 GMT | Getting Started with Snowflake: A Beginner’s Guide | Nilesh Tantarpale | [Read More](https://medium.com/p/ca92826ef460) |
-| Sun, 07 Sep 2025 06:33:24 GMT | GetHow to Get Phone Number Details in Pakistan - Scam Protection Guide | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/021171585c4b) |
-| Sun, 07 Sep 2025 06:26:44 GMT | Why Most IoT Devices Get Hacked (and How to Build a Security Testing Strategy That Actually Works) | Sajjad Hussain | [Read More](https://medium.com/p/6756eb4d37d5) |
