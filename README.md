@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 01:27:52 GMT | From Information to Intelligence: Is It Time to Redefine “IT” in the Age of AI? | TechTunes | [Read More](https://medium.com/p/e5ea61200cc0) |
+| Sun, 07 Sep 2025 01:24:25 GMT | Why Using Temporary Email Addresses Is a Smart Move | Sarahah | [Read More](https://medium.com/p/d50737cb1eec) |
+| Sun, 07 Sep 2025 01:17:06 GMT | Session Forensics - Tryhackme | Aaron | [Read More](https://medium.com/p/c26dfef715c8) |
+| Sun, 07 Sep 2025 01:15:09 GMT | Impact of AI on the Pentesting Industry | Nexarus Security | [Read More](https://medium.com/p/0ae58c53d43d) |
+| Sun, 07 Sep 2025 00:57:47 GMT | Fundamental Security Concepts | Jacob Piloto | [Read More](https://medium.com/p/de4d535c7d39) |
+| Sun, 07 Sep 2025 00:57:46 GMT | Symmetric and Assymetric Encryption and Diffie Hellman Key Exchange | Enskefuddle | [Read More](https://medium.com/p/dd44bda74c7b) |
+| Sun, 07 Sep 2025 00:45:53 GMT | Passkeys vs Passwords in 2025: Is It Time to Ditch Your Login Struggles? | Biytelüm | [Read More](https://medium.com/p/838077965e0a) |
+| Sun, 07 Sep 2025 00:39:36 GMT | CIA Triad (CIA Üçgeni) | Mustafa Gunay | [Read More](https://medium.com/p/892ece362f01) |
+| Sun, 07 Sep 2025 00:13:25 GMT | When Windows Defender Application Control Becomes a Switch — How Attackers Abuse WDAC to Silence… | David SEHYEON Baek | [Read More](https://medium.com/p/530718aad7bf) |
+| Sat, 06 Sep 2025 23:52:06 GMT | Be Risk-Ready. Be Audit-Ready: The Ultimate Cyber Risk & Threat Catalog Toolkit | Burak DÜNDAR | [Read More](https://medium.com/p/5ed4a6da1372) |
+| Sat, 06 Sep 2025 23:49:28 GMT | The Legacy and Impact of the UNIX Operating System on Information Technology | Stacklegend | [Read More](https://medium.com/p/59126d1244ed) |
+| Sat, 06 Sep 2025 23:41:06 GMT | The History of Smartphones from Keypads to Touchscreens | Stacklegend | [Read More](https://medium.com/p/982eeba63b42) |
+| Sat, 06 Sep 2025 23:40:59 GMT | Dissecting Network Traffic: TShark Writeup for FTP CTF Challenge | Shashi Raj Jha | [Read More](https://medium.com/p/5a6245772367) |
 | Sat, 06 Sep 2025 23:30:26 GMT | The History and Technological Legacy of Microsoft in Global IT | Stacklegend | [Read More](https://medium.com/p/36df666e8b96) |
 | Sat, 06 Sep 2025 23:22:26 GMT | AI and Cybersecurity: From Pattern Recognition to Contextual Reasoning | Johnmshelly | [Read More](https://medium.com/p/6182976be24b) |
 | Sat, 06 Sep 2025 23:14:47 GMT | Automating Server Credential Management with AWS SSM and Secrets Manager | Akesh Patil | [Read More](https://medium.com/p/1f20ccec18f5) |
@@ -71,6 +84,7 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 18:01:40 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/49c7f079f32c) |
 | Sat, 06 Sep 2025 17:57:17 GMT | Practical guide: detecting Nmap port scans with Wireshark | Khalil Z. | [Read More](https://medium.com/p/f50a52ac1dfd) |
 | Sat, 06 Sep 2025 17:49:19 GMT | Everything about Playbook in CyberSecurity For Security Analyst — Complete Guide | SecurewithUmer | [Read More](https://medium.com/p/f9ab23152ef5) |
+| Sat, 06 Sep 2025 17:46:59 GMT | This task is to perform FTP enumeration with Metasploit | Dharmendrakumar | [Read More](https://medium.com/p/c65f55e62581) |
 | Sat, 06 Sep 2025 17:45:49 GMT | Learning to be Vulnerable | DamnAmazon | [Read More](https://medium.com/p/315d1d3045ee) |
 | Sat, 06 Sep 2025 17:41:54 GMT | Hire A Hacker To Hack Instagram Account | Darksynthhacker | [Read More](https://medium.com/p/c95c4f710af0) |
 | Sat, 06 Sep 2025 17:38:12 GMT | Reasons Why People Choose Friends With Benefits Over Real Relationships | Maria Arshad | [Read More](https://medium.com/p/1d9fa32f24ef) |
@@ -99,17 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 15:57:01 GMT | Phishing Email Detector Using Machine Learning | Akshikakapil | [Read More](https://medium.com/p/6ac5a0e49cf4) |
 | Sat, 06 Sep 2025 15:55:32 GMT | BURNS | Neeravi Sarathi | [Read More](https://medium.com/p/c3c367460b88) |
 | Sat, 06 Sep 2025 15:54:50 GMT | RAT Alert! | James N | [Read More](https://medium.com/p/30fd89a457ea) |
-| Sat, 06 Sep 2025 15:54:13 GMT | How Border0 Differs from Tailscale | Andree Toonk | [Read More](https://medium.com/p/90fbb3e6f291) |
-| Sat, 06 Sep 2025 15:50:40 GMT | Bug Bounty: The Secret Endpoint That Made Premium Free | 0xAmmar | [Read More](https://medium.com/p/71295be2dc66) |
-| Sat, 06 Sep 2025 15:50:02 GMT | Thoughts on the recent Ethereum smart contracts C2 abuse | Koifsec | [Read More](https://medium.com/p/f15d42944c7f) |
-| Sat, 06 Sep 2025 15:47:47 GMT | Cybersecurity in Australia: Key Issues and Opportunities for a Safer Digital Future | Nouman Sarfraz Haral | [Read More](https://medium.com/p/edf182bb52b8) |
-| Sat, 06 Sep 2025 15:43:48 GMT | The Quantum Time Bomb | Gaurang Katyal | [Read More](https://medium.com/p/f2edc8956974) |
-| Sat, 06 Sep 2025 15:42:59 GMT | Could the Drosera Network Have Prevented the Bybit Hack? | Samkokoroewa | [Read More](https://medium.com/p/ce8f7fdc2f0d) |
-| Sat, 06 Sep 2025 15:36:46 GMT | From Curiosity to Contribution: My Cloud Engineering Journey | Akuphe Dieudonne | [Read More](https://medium.com/p/e04b9f2309d5) |
-| Sat, 06 Sep 2025 15:33:06 GMT | Create secure and robust web-based systems | Cyber Gee | [Read More](https://medium.com/p/010afff632a4) |
-| Sat, 06 Sep 2025 15:32:37 GMT | web site security checklist | Cyber Gee | [Read More](https://medium.com/p/1654614f55d7) |
-| Sat, 06 Sep 2025 15:32:24 GMT | Offensive Security Career Coaching | Jake Mayhew | [Read More](https://medium.com/p/9144883a25f8) |
-| Sat, 06 Sep 2025 15:29:12 GMT | SOC287 — Operation ARBITRARY FILE RAID: Path Traversal Titan Breach (CVE-2024–24919) | Andrew Williams | [Read More](https://medium.com/p/62de81fef3bb) |
-| Sat, 06 Sep 2025 15:22:10 GMT | Cloud Computing: Merancang Arsitektur Aplikasiapp “Vidlytics” | Muhammad Surya Saputro | [Read More](https://medium.com/p/147a26fa2fc8) |
-| Sat, 06 Sep 2025 15:21:34 GMT | Vaccine — Hack The Box | R37R0 | [Read More](https://medium.com/p/965bd4d375d2) |
-| Sat, 06 Sep 2025 15:10:51 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Chengkurt 12 | [Read More](https://medium.com/p/6cbe3dc0090a) |
