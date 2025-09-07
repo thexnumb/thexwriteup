@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 15:11:11 GMT | AI in Cybersecurity Is About Discipline, Not Hype | Chidi Emetanjo | [Read More](https://medium.com/p/d7742b8de8b7) |
+| Sun, 07 Sep 2025 15:08:50 GMT | Dissecting HackTheBox Pro Labs: The Art of Attacking Enterprise Networks | 0xN1gh7xW1z4rd | [Read More](https://medium.com/p/4f4e5dd1fe42) |
+| Sun, 07 Sep 2025 15:04:35 GMT | Internal — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/064ef3016ef2) |
+| Sun, 07 Sep 2025 15:04:23 GMT | Demystifying Blockchain Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/994ac65a8ae7) |
+| Sun, 07 Sep 2025 14:57:58 GMT | Whole conclusion about Linear regression | Lantera | [Read More](https://medium.com/p/f4a9a0acb767) |
+| Sun, 07 Sep 2025 14:55:30 GMT | From Convenience to Catastrophe: A Cloud Misconfiguration Horror Story | Aj | [Read More](https://medium.com/p/bfb0639529f1) |
+| Sun, 07 Sep 2025 14:45:13 GMT | The Report — Blue Team Labs Online | Juan Alexander Alejo | [Read More](https://medium.com/p/734e1d5bc7fe) |
 | Sun, 07 Sep 2025 14:36:01 GMT | The Best Investment for the Coming Years: Guarding Your Home | Xiexiange | [Read More](https://medium.com/p/66f3d7bf45fe) |
+| Sun, 07 Sep 2025 14:34:19 GMT | Learn Sigma: LetsDefend Challenge Walkthrough | Abdülselam İsmail | [Read More](https://medium.com/p/197986f31b7e) |
 | Sun, 07 Sep 2025 14:25:34 GMT | Revolutionizing Security Incident Response: A Multi-Headed AI Approach with Continuous… | Elias Andrade | [Read More](https://medium.com/p/61bac566950d) |
 | Sun, 07 Sep 2025 14:20:56 GMT | Building TSP: Creating Self-Verifying Digital Artifacts | Vlad Dunaev | [Read More](https://medium.com/p/3b253c3d26ba) |
 | Sun, 07 Sep 2025 14:17:56 GMT | The Multi-Purpose Public/Private Person: How Google AI Spins Away Accountability | Reflections of the Count | [Read More](https://medium.com/p/9c0eefbe10b4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 08:46:02 GMT | Burger King Hack: They Heard *Everything*? | Truspex | [Read More](https://medium.com/p/6ef0c035f05a) |
 | Sun, 07 Sep 2025 08:43:52 GMT | Struggling With Web Application Security Testing? | Sajjad Hussain | [Read More](https://medium.com/p/4ab6eecd0c99) |
 | Sun, 07 Sep 2025 08:39:17 GMT | The right way to rotate JWTs for secure authentication using Axios | Sreesen | [Read More](https://medium.com/p/b8641e2f7929) |
-| Sun, 07 Sep 2025 08:31:42 GMT | Cryptographic Failures: The Silent Killer of Web Security | CyberSenpai | [Read More](https://medium.com/p/99476fe525a6) |
-| Sun, 07 Sep 2025 08:23:45 GMT | Write Up Lab: SQL injection attack, listing the database contents on non-Oracle databases | Velskynotfound | [Read More](https://medium.com/p/2cf88d2663f0) |
-| Sun, 07 Sep 2025 08:23:39 GMT | The Backend Behind the Agent: Seeing MCP Servers Through the Lens of Backend Security | Roy Rahamim | [Read More](https://medium.com/p/5626b85f70a6) |
-| Sun, 07 Sep 2025 08:19:21 GMT | Why Most Mobile Apps Fail Security Tests (and How to Build a Real Strategy That Actually Protects… | Sajjad Hussain | [Read More](https://medium.com/p/8136e26690b1) |
-| Sun, 07 Sep 2025 08:13:06 GMT | The Journey of an Upload: From Your Device to the Cloud | Nikhil Lad | [Read More](https://medium.com/p/e4fab7fe5698) |
-| Sun, 07 Sep 2025 08:11:13 GMT | Get Free Annual Subscriptions on Try Hack Me , Hurry Up! | Mr Horbio | [Read More](https://medium.com/p/4927da5b7bc6) |
-| Sun, 07 Sep 2025 08:10:28 GMT | RCE in React.js: How It Happens & How to Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/21d910113218) |
-| Sun, 07 Sep 2025 08:10:05 GMT | Advanced Ethical Hacking Course with Certification | cyber security Updates | [Read More](https://medium.com/p/25edd5a21d58) |
