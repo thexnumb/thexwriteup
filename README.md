@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 21:30:52 GMT | When Logic Meets Authentication — Orphaned Accounts to Full Control | Dr Rmdn | [Read More](https://medium.com/p/6140143e1d20) |
 | Sun, 07 Sep 2025 21:09:53 GMT | How to Find a Website’s Real IP Behind Cloudflare | Ibtissam hammadi | [Read More](https://medium.com/p/695dd179c977) |
 | Sun, 07 Sep 2025 21:04:51 GMT | My Mindset behind being an Emotionally Intelligent Woman as a College Student. | Claire.B612 | [Read More](https://medium.com/p/2829bb6d3534) |
 | Sun, 07 Sep 2025 21:02:29 GMT | ARCHITECTURES of Qradar, Splunk and Sentinel | The Commoness | [Read More](https://medium.com/p/15f0e7ae4447) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 15:51:38 GMT | The Real Answer to Love: It’s All in the Details | Austi Gene | [Read More](https://medium.com/p/5fbe5bf6f86f) |
 | Sun, 07 Sep 2025 15:51:11 GMT | Friendly3 - HackMyVM writeup | Cillia | [Read More](https://medium.com/p/ddc8be27e919) |
 | Sun, 07 Sep 2025 15:46:41 GMT | Cybersecurity, AI and Cognitive Load | Helen Patton | [Read More](https://medium.com/p/f8907df1c185) |
-| Sun, 07 Sep 2025 15:39:41 GMT | Why WordPress Security Audits Should Never Be an Afterthought | Abdul Mubin | [Read More](https://medium.com/p/5017163a88e6) |
