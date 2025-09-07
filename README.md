@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 08:13:06 GMT | The Journey of an Upload: From Your Device to the Cloud | Nikhil Lad | [Read More](https://medium.com/p/e4fab7fe5698) |
+| Sun, 07 Sep 2025 08:11:13 GMT | Get Free Annual Subscriptions on Try Hack Me , Hurry Up! | Mr Horbio | [Read More](https://medium.com/p/4927da5b7bc6) |
+| Sun, 07 Sep 2025 08:10:28 GMT | RCE in React.js: How It Happens & How to Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/21d910113218) |
+| Sun, 07 Sep 2025 08:10:05 GMT | Advanced Ethical Hacking Course with Certification | cyber security Updates | [Read More](https://medium.com/p/25edd5a21d58) |
+| Sun, 07 Sep 2025 08:06:13 GMT | The Silent Employee Trap: Why Staying Quiet at Work Can Hold You Back | Balireddy Krishna | [Read More](https://medium.com/p/e4a95d2f1e9f) |
+| Sun, 07 Sep 2025 08:05:59 GMT | System Design Mistakes That Can Ruin Your Architecture | Manish Pandey | [Read More](https://medium.com/p/81350ead990d) |
+| Sun, 07 Sep 2025 07:52:27 GMT | Someone Message me in the morning and said he is a man from Chinese and Born in USA. | Fenix Garcia | [Read More](https://medium.com/p/ac6dd67181ad) |
+| Sun, 07 Sep 2025 07:48:14 GMT | Why Your API Is Probably Insecure (and How to Build a Testing Strategy That Actually Works) | Sajjad Hussain | [Read More](https://medium.com/p/2a39bd3596b0) |
+| Sun, 07 Sep 2025 07:42:51 GMT | How to exploit? Pentesting Postgresql — PORT 5432,5433 | Very Lazy Tech | [Read More](https://medium.com/p/645c8eea8a3c) |
+| Sun, 07 Sep 2025 07:39:18 GMT | How Cloudflare Protects Millions of Websites from Cyberattacks Every Day | Isuru Prabarth | [Read More](https://medium.com/p/825e49557da4) |
+| Sun, 07 Sep 2025 07:34:21 GMT | DROSERA NETWORK FULL BREAKDOWN. | Chideramorgan | [Read More](https://medium.com/p/00f3f0430d91) |
+| Sun, 07 Sep 2025 07:31:51 GMT | WASM Sidecars: Move Work Out of the Pod | Thinking Loop | [Read More](https://medium.com/p/6be58f11ca51) |
+| Sun, 07 Sep 2025 07:31:51 GMT | Is Your Business Digitally Transformed? 7 Signs You’re Falling Behind | Karmakoders | [Read More](https://medium.com/p/e2996513e276) |
 | Sun, 07 Sep 2025 07:30:52 GMT | MOI-CTF: last key writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/be804b0ebdee) |
+| Sun, 07 Sep 2025 07:25:59 GMT | Capture The Flag Write Up — Privilege Escalation via Path Traversal | ph4se.vox | [Read More](https://medium.com/p/95d720aac38f) |
 | Sun, 07 Sep 2025 07:24:27 GMT | HackTrace — Hackviser.com (CTF Write UP) | Ziya Shalbuzov | [Read More](https://medium.com/p/a99136cbe665) |
 | Sun, 07 Sep 2025 07:23:32 GMT | Writing Your First Analytics Rules in Microsoft Sentinel | Seenu Bhupala | [Read More](https://medium.com/p/6d10a5be73e6) |
 | Sun, 07 Sep 2025 07:20:30 GMT | SSTI: When {{ 7*7 }} Isn't Enough | Sushant Kamble | [Read More](https://medium.com/p/ecde3fcdcb17) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Sep 2025 23:08:07 GMT | Stored XSS with Cloudflare WAF Bypass | hexaphp | [Read More](https://medium.com/p/420c99aba97b) |
 | Sat, 06 Sep 2025 23:05:56 GMT | Exploring Quantum Computing: A Beginner’s Journey | Nitesh Thali | [Read More](https://medium.com/p/540330de3484) |
 | Sat, 06 Sep 2025 22:37:36 GMT | From Theory to Practice: How Small Language Models Are Revolutionizing Cybersecurity Psychology | Giuseppe Canale | [Read More](https://medium.com/p/1a166ef58096) |
-| Sat, 06 Sep 2025 22:17:39 GMT | Detecting AI-Generated Phishing at Inbound Gateways | Karthikeyan Nagaraj | [Read More](https://medium.com/p/71608082aaa9) |
-| Sat, 06 Sep 2025 22:14:17 GMT | Splunk IR Lab — Website Defacement: From Signal to Root Cause | Hector M. Reyes | [Read More](https://medium.com/p/63686687b475) |
-| Sat, 06 Sep 2025 22:14:17 GMT | ALLSAFE Android App WriteUp Part 2 | Recep Emir | [Read More](https://medium.com/p/19a557740c30) |
-| Sat, 06 Sep 2025 21:51:53 GMT | A 39-Second Warning: How the UNFI Grocery Breach Signals the Next Wave of Supply-Chain Chaos | SavetyAI | [Read More](https://medium.com/p/001bd6e21962) |
-| Sat, 06 Sep 2025 21:45:01 GMT | AI Took My Job, But It Also Gave Me a Better One | Jo Arazi | [Read More](https://medium.com/p/6fc7b7774293) |
-| Sat, 06 Sep 2025 21:37:29 GMT | Telstra AU Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/2e1bc7b1e88e) |
-| Sat, 06 Sep 2025 21:31:56 GMT | FastAPI Security Without Slowness | Hash Block | [Read More](https://medium.com/p/b9893008216e) |
-| Sat, 06 Sep 2025 21:13:07 GMT | Auditoria automatizada de OSINT WEB con GPT-5 | Adrian Romanov | [Read More](https://medium.com/p/a90f5dfb44fd) |
-| Sat, 06 Sep 2025 21:11:15 GMT | From Locks on Doors to Locks on Data: How Security Has Evolved With Us | Haider Ali | [Read More](https://medium.com/p/054a52e573be) |
-| Sat, 06 Sep 2025 21:09:18 GMT | TryHackMe Writeup: Anonforce | Berkay AĞGÜL | [Read More](https://medium.com/p/b61083771301) |
-| Sat, 06 Sep 2025 21:06:17 GMT | I Found a Critical Security Flaw Using Only My Browser | Ibtissam hammadi | [Read More](https://medium.com/p/a49af831a499) |
-| Sat, 06 Sep 2025 20:59:27 GMT | Abdul Rehman’s First Step
-Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Rehman | [Read More](https://medium.com/p/81f198ad95fd) |
-| Sat, 06 Sep 2025 20:56:18 GMT | Old Phone, New Risks: Don’t Let Your Huawei Be a Hacker’s Playground | Authlyn | [Read More](https://medium.com/p/26b011bd1169) |
-| Sat, 06 Sep 2025 20:44:08 GMT | Hacking Gadgets — Part 1: Rubber Ducky | Juan M. Vazquez | [Read More](https://medium.com/p/d23dbd6a84f8) |
