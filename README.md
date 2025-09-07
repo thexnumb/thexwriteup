@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 13:32:16 GMT | When a Carriage Return Nearly Broke Git (And How You Can Stay Safe) | S.Ali | [Read More](https://medium.com/p/42bb19a3783b) |
+| Sun, 07 Sep 2025 13:31:46 GMT | Stories of Sensitive Data Exposure: What I Found as a Pentester and How You Can Prevent It: Episode… | Yamini Yadav | [Read More](https://medium.com/p/1362bdf27049) |
+| Sun, 07 Sep 2025 13:31:23 GMT | Gaining Root Access via NFS Misconfiguration | Bit_Picker | [Read More](https://medium.com/p/92d4d44f8837) |
+| Sun, 07 Sep 2025 13:29:21 GMT | Crack the 403 Code: Turn Forbidden Errors into Bug Bounty Wins | Monika sharma | [Read More](https://medium.com/p/1f5efe98b987) |
+| Sun, 07 Sep 2025 13:25:20 GMT | So You Want to Be a Penetration Tester? Here’s How to Break into Offensive Cybersecurity | Yua Mikanana | [Read More](https://medium.com/p/cffedefa9258) |
+| Sun, 07 Sep 2025 13:23:14 GMT | Event Security Companies Sacramento — All You Should Know | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/cbf956f9a47e) |
+| Sun, 07 Sep 2025 13:14:34 GMT | I Deleted My CTO Friend’s Account With a Puppy Picture | Adarsh Gupta | [Read More](https://medium.com/p/0f53ed6e6096) |
+| Sun, 07 Sep 2025 13:14:31 GMT | How Much Access is Too Much Access? | Abhang Mandwale | [Read More](https://medium.com/p/70fc5186d2eb) |
 | Sun, 07 Sep 2025 13:05:01 GMT | At 3 a.m., while most of the world sleeps, millions of machines hum in quiet. | Dear Mary | [Read More](https://medium.com/p/737e8bb1ec4a) |
 | Sun, 07 Sep 2025 13:02:17 GMT | What Do You Grab When You Don’t Know If You’re Ever Coming Back? | Farhad Ali | [Read More](https://medium.com/p/ad190731f6ea) |
 | Sun, 07 Sep 2025 12:35:37 GMT | How AI Detected 2,847 Security Vulnerabilities in Our Code That Traditional Tools Missed (Complete… | Orami | [Read More](https://medium.com/p/c36ff659c988) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 07:07:10 GMT | ️ Layered Security Architecture for Medium-Sized Enterprises: A Practical Guide | Nishok Reddy | [Read More](https://medium.com/p/d3625f1d13a2) |
 | Sun, 07 Sep 2025 07:02:42 GMT | Why Your High-Accuracy ML Model Might Be Unethical | IamFavoured | [Read More](https://medium.com/p/ff6b9cdf8e45) |
 | Sun, 07 Sep 2025 07:02:09 GMT | Fingerprint First: Secure Authentication with Jetpack Compose | Parita Dey | [Read More](https://medium.com/p/de9225470e92) |
-| Sun, 07 Sep 2025 06:57:28 GMT | Microsoft Patches BadSuccessor: A Kerberos Privilege Escalation Vulnerability You Shouldn’t Ignore | Prabha | [Read More](https://medium.com/p/c77e5a061276) |
-| Sun, 07 Sep 2025 06:56:12 GMT | صیغه یابی همسریابی تهران صیغه یابی اصفهان صیغه کرج صیغه شیراز صیغه کرمانمعرفی  خانمهای زیبا… | مهدی رضایی | [Read More](https://medium.com/p/cd46ef38da6d) |
-| Sun, 07 Sep 2025 06:56:09 GMT | Humans: The Biggest Vulnerability in Cybersecurity and How Psychology Explains It | PRANAV S V | [Read More](https://medium.com/p/ed1c33d7803f) |
-| Sun, 07 Sep 2025 06:54:36 GMT | How I Discovered Account Takeover (ATO) via IDOR lead to 500$ bounty | JEETPAL | [Read More](https://medium.com/p/537bc7ff10b8) |
-| Sun, 07 Sep 2025 06:53:21 GMT | How to Protect Yourself from Predatory Animals | Hosawi | [Read More](https://medium.com/p/31a0f5b17e4e) |
-| Sun, 07 Sep 2025 06:52:53 GMT | From Locked to Looted: My Journey of IDOR Chains to Almost-Admin Access | Iski | [Read More](https://medium.com/p/d15abf0046f9) |
-| Sun, 07 Sep 2025 06:46:10 GMT | More Than Defense: How a Proactive CISO Drives Competitive Advantage in Formula 1 | Timothy Harmon, CISSP | [Read More](https://medium.com/p/64488eb30cab) |
-| Sun, 07 Sep 2025 06:43:38 GMT | Securely Storing and Retrieving Passwords in Django | Mahmoud Barzegar | [Read More](https://medium.com/p/8fa964072a64) |
