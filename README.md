@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 07:30:52 GMT | MOI-CTF: last key writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/be804b0ebdee) |
+| Sun, 07 Sep 2025 07:24:27 GMT | HackTrace — Hackviser.com (CTF Write UP) | Ziya Shalbuzov | [Read More](https://medium.com/p/a99136cbe665) |
+| Sun, 07 Sep 2025 07:23:32 GMT | Writing Your First Analytics Rules in Microsoft Sentinel | Seenu Bhupala | [Read More](https://medium.com/p/6d10a5be73e6) |
+| Sun, 07 Sep 2025 07:20:30 GMT | SSTI: When {{ 7*7 }} Isn't Enough | Sushant Kamble | [Read More](https://medium.com/p/ecde3fcdcb17) |
 | Sun, 07 Sep 2025 07:07:10 GMT | ️ Layered Security Architecture for Medium-Sized Enterprises: A Practical Guide | Nishok Reddy | [Read More](https://medium.com/p/d3625f1d13a2) |
 | Sun, 07 Sep 2025 07:02:42 GMT | Why Your High-Accuracy ML Model Might Be Unethical | IamFavoured | [Read More](https://medium.com/p/ff6b9cdf8e45) |
 | Sun, 07 Sep 2025 07:02:09 GMT | Fingerprint First: Secure Authentication with Jetpack Compose | Parita Dey | [Read More](https://medium.com/p/de9225470e92) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Rehman | [Read More](https://medium.com/p/81f198ad95fd) |
 | Sat, 06 Sep 2025 20:56:18 GMT | Old Phone, New Risks: Don’t Let Your Huawei Be a Hacker’s Playground | Authlyn | [Read More](https://medium.com/p/26b011bd1169) |
 | Sat, 06 Sep 2025 20:44:08 GMT | Hacking Gadgets — Part 1: Rubber Ducky | Juan M. Vazquez | [Read More](https://medium.com/p/d23dbd6a84f8) |
-| Sat, 06 Sep 2025 20:41:58 GMT | One Suffix to Fool Them All: A Review of Universal and Transferable Adversarial Attacks on Aligned… | GlitchQ | [Read More](https://medium.com/p/78d2f605f162) |
-| Sat, 06 Sep 2025 20:30:25 GMT | The End of Data Privacy: You Already Lost the Battle | Dax | [Read More](https://medium.com/p/e5aa9bb96dbf) |
-| Sat, 06 Sep 2025 20:23:32 GMT | A SMART CONTRACT!!! WHAT IS IT? | Justann | [Read More](https://medium.com/p/bff1ba8291f5) |
-| Sat, 06 Sep 2025 20:19:07 GMT | TLS 1.3, Certificate Authorities, and the Ongoing Balance of Security | Jialei Q. | [Read More](https://medium.com/p/6ece7d3b33bd) |
