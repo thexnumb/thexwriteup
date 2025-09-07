@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 09:27:36 GMT | DockerLabs Writeup — WalkingCMS (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/529568743b0b) |
+| Sun, 07 Sep 2025 09:26:29 GMT | The role of Validators in blockchain security: Guardians of decentralized networks | ChainbountyX | [Read More](https://medium.com/p/d73bf950270e) |
+| Sun, 07 Sep 2025 09:21:44 GMT | 5 Cybersecurity Tools Every Beginner Should Know | Geetorus | [Read More](https://medium.com/p/d6cfdb133039) |
 | Sun, 07 Sep 2025 09:15:33 GMT | From Chemical Engineering to Cloud Security: My Career Pivot at 29 | Teererai Kagura | [Read More](https://medium.com/p/a3ef4c5e7a0b) |
 | Sun, 07 Sep 2025 09:14:00 GMT | ESP32 Review 2025–26 — Cheap Hacker Toy or Just Another Chip? | Satyam Pathania | [Read More](https://medium.com/p/85d71c68b297) |
 | Sun, 07 Sep 2025 09:12:15 GMT | Using HTTPS in Web Development: Why It’s Important | Rohit Kuwar | [Read More](https://medium.com/p/e74de15ec295) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 03:15:32 GMT | Testing My Prompt Injection Abilities | Nwosu Rosemary | [Read More](https://medium.com/p/cec7e4e463b3) |
 | Sun, 07 Sep 2025 02:45:57 GMT | My Journey Building a Secure Flower Shop Web App | Rashmika Nethsarani | [Read More](https://medium.com/p/0e5d1e179d68) |
 | Sun, 07 Sep 2025 02:33:56 GMT | Detecting Lateral Movement via PsExec — A SOC Analyst’s Perspective | Paritosh | [Read More](https://medium.com/p/27de26cc19ce) |
-| Sun, 07 Sep 2025 02:29:49 GMT | FACEIO: The Privacy-First Facial Recognition SDK for Password less Web Authentication | Vishal Yadav | [Read More](https://medium.com/p/b13881203cb7) |
-| Sun, 07 Sep 2025 02:21:38 GMT | Smarter, Deadlier: Why AI Ransomware Could Be the Next Cyber Pandemic | Wi-Fun | [Read More](https://medium.com/p/8b8c7d213255) |
-| Sun, 07 Sep 2025 02:18:56 GMT | Building a Home Splunk Lab for Cybersecurity Practice | Demetrius Smith | [Read More](https://medium.com/p/6151000da3bf) |
