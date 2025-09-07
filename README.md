@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 21:09:53 GMT | How to Find a Website’s Real IP Behind Cloudflare | Ibtissam hammadi | [Read More](https://medium.com/p/695dd179c977) |
+| Sun, 07 Sep 2025 21:04:51 GMT | My Mindset behind being an Emotionally Intelligent Woman as a College Student. | Claire.B612 | [Read More](https://medium.com/p/2829bb6d3534) |
+| Sun, 07 Sep 2025 21:02:29 GMT | ARCHITECTURES of Qradar, Splunk and Sentinel | The Commoness | [Read More](https://medium.com/p/15f0e7ae4447) |
+| Sun, 07 Sep 2025 20:58:23 GMT | SOC Level 1 — MITRE | Gregory Dawson | [Read More](https://medium.com/p/fe44d34f73ba) |
+| Sun, 07 Sep 2025 20:57:57 GMT | SOC Level 1 — Diamond Model | Gregory Dawson | [Read More](https://medium.com/p/c84f75b7b38e) |
+| Sun, 07 Sep 2025 20:57:27 GMT | SOC Level 1 — Unified Kill Chain | Gregory Dawson | [Read More](https://medium.com/p/bf6543dd9a3b) |
+| Sun, 07 Sep 2025 20:57:25 GMT | Stop Reading Love Like a Manual | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/af9564c558d1) |
+| Sun, 07 Sep 2025 20:46:58 GMT | EYCC 2025 — Web Challenges | Sama | [Read More](https://medium.com/p/ff319c7f34b9) |
 | Sun, 07 Sep 2025 20:30:10 GMT | Beyond the Uniforms (Stereotypes): Strengthening Security through Liaison and Effective… | Mohammad Faheem Khan Dawar | [Read More](https://medium.com/p/5a5693c0cd6b) |
 | Sun, 07 Sep 2025 20:25:16 GMT | Implementing Secure Mobile OTP in an ASP.NET Web API | R M Shahidul Islam Shahed | [Read More](https://medium.com/p/da56142a1701) |
 | Sun, 07 Sep 2025 20:24:32 GMT | Certified Red Team Analyst — Exam Review | The Darkarmy | [Read More](https://medium.com/p/135d4c7825bd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 15:51:11 GMT | Friendly3 - HackMyVM writeup | Cillia | [Read More](https://medium.com/p/ddc8be27e919) |
 | Sun, 07 Sep 2025 15:46:41 GMT | Cybersecurity, AI and Cognitive Load | Helen Patton | [Read More](https://medium.com/p/f8907df1c185) |
 | Sun, 07 Sep 2025 15:39:41 GMT | Why WordPress Security Audits Should Never Be an Afterthought | Abdul Mubin | [Read More](https://medium.com/p/5017163a88e6) |
-| Sun, 07 Sep 2025 15:36:42 GMT | Unlocking Secrets: Understanding and Preventing IDOR Vulnerability | Neel Sharma | [Read More](https://medium.com/p/3f73e142be3f) |
-| Sun, 07 Sep 2025 15:35:33 GMT | TryHackMe Year of the Rabbit Walkthrough: Easy CTF Guide for FTP, SSH, and Privilege Escalation | Prajwal | [Read More](https://medium.com/p/5e3217ccbfcb) |
-| Sun, 07 Sep 2025 15:33:42 GMT | Build VM Walkthrough | Spookz | [Read More](https://medium.com/p/b28c89d45c63) |
-| Sun, 07 Sep 2025 15:33:14 GMT | Environment HTB Walkthrough | Qinncade | [Read More](https://medium.com/p/a4e3d90d3a48) |
-| Sun, 07 Sep 2025 15:31:41 GMT | Fine-Grained Caching: ETags, Tokens & Trust | Thinking Loop | [Read More](https://medium.com/p/67fb87c5f498) |
-| Sun, 07 Sep 2025 15:29:10 GMT | PCRC ONDO STATE WARNS OMOYELE SOWORE: RETRACT BASELESS ALLEGATIONS OR FACE THE LAW | Ondo State Pcrc | [Read More](https://medium.com/p/6ff80fe0b47a) |
-| Sun, 07 Sep 2025 15:25:53 GMT | LocalGuard: A Plant-Inspired Immune System for Host Defense | Koshy | [Read More](https://medium.com/p/0e6e6187dd5c) |
-| Sun, 07 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 7, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/475f9327f914) |
