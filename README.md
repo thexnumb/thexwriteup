@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 04:12:36 GMT | Why Million $ Security Stack Failed Against a $45 Voice Phishing Attack | Abhinav Gupta | [Read More](https://medium.com/p/eeac9aabfe39) |
+| Sun, 07 Sep 2025 04:07:01 GMT | Critical Prompt Injection Vulnerability in Comet Browser by Perplexity AI | D09r | [Read More](https://medium.com/p/7e96991b20ba) |
+| Sun, 07 Sep 2025 04:01:39 GMT | How to Protect Your Data from Ransomware Attacks in 2025 | Secventra | [Read More](https://medium.com/p/749cb155a4e3) |
+| Sun, 07 Sep 2025 03:57:55 GMT | Zero Trust in Real Life: What It Means for Global Enterprises | Dr. Deep Pandey | [Read More](https://medium.com/p/7cba01f8e075) |
+| Sun, 07 Sep 2025 03:56:36 GMT | Hacktivist Group Claims Breach of Indian Media Outlets on Pakistan’s Defence Day | Patrick Jason | [Read More](https://medium.com/p/c7632af70bd2) |
+| Sun, 07 Sep 2025 03:47:39 GMT | Best Trade Setup Ever In Trading History | Written By Richu | [Read More](https://medium.com/p/43f831989c34) |
+| Sun, 07 Sep 2025 03:43:48 GMT | From Imposter to Expert: Building Your Cybersecurity Career Framework | Cybergilly | [Read More](https://medium.com/p/a5cc8912dc11) |
+| Sun, 07 Sep 2025 03:43:45 GMT | Hack The Box (HTB) Walkthrough Cap | Sourabh Sharma | [Read More](https://medium.com/p/92f0c6619f35) |
+| Sun, 07 Sep 2025 03:43:32 GMT | The AI Evolution in Security: Unlocking the Power of the 2025 Pulse of AI-Powered SOC… | cyber security threat ai | [Read More](https://medium.com/p/43d07cc5eae4) |
+| Sun, 07 Sep 2025 03:37:36 GMT | CRACCON CTF Qualifiers Writeups | 5h1kh4r | [Read More](https://medium.com/p/4f2b68f3f973) |
+| Sun, 07 Sep 2025 03:18:48 GMT | Bagaimana Saya Menemukan Open Redirect di Dua Subdomain detik.com? | OziXploit | [Read More](https://medium.com/p/c090bd0e0b01) |
 | Sun, 07 Sep 2025 03:15:32 GMT | Testing My Prompt Injection Abilities | Nwosu Rosemary | [Read More](https://medium.com/p/cec7e4e463b3) |
 | Sun, 07 Sep 2025 02:45:57 GMT | My Journey Building a Secure Flower Shop Web App | Rashmika Nethsarani | [Read More](https://medium.com/p/0e5d1e179d68) |
 | Sun, 07 Sep 2025 02:33:56 GMT | Detecting Lateral Movement via PsExec — A SOC Analyst’s Perspective | Paritosh | [Read More](https://medium.com/p/27de26cc19ce) |
@@ -102,14 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 17:18:15 GMT | SQLMAP — Medium-Level Study Note | Mushfiq.XD | [Read More](https://medium.com/p/369cddafc0dc) |
 | Sat, 06 Sep 2025 17:12:29 GMT | “ JSON POST Bodies: The Hidden Goldmine of XSS & Bug Bounties” | Zoningxtr | [Read More](https://medium.com/p/b19fb7e09e69) |
 | Sat, 06 Sep 2025 17:12:23 GMT | Why ISO 27001 Should Be Every Engineer’s Secret Weapon | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4992f248cead) |
-| Sat, 06 Sep 2025 17:09:19 GMT | Weekly Roundup — September 06 2025 | litwtch | [Read More](https://medium.com/p/cdff881bf389) |
-| Sat, 06 Sep 2025 17:09:02 GMT | Still Fucking Up at 40 | SeaGrape48 | [Read More](https://medium.com/p/35d9b00473bf) |
-| Sat, 06 Sep 2025 17:08:22 GMT | GXSS and KXSS: Peeking Into the Hidden Corners of the Web | Natarajan C K | [Read More](https://medium.com/p/69650dd441b7) |
-| Sat, 06 Sep 2025 17:04:19 GMT | How to Install Metasploitable 2 in VirtualBox (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/2c6668031a49) |
-| Sat, 06 Sep 2025 17:01:43 GMT | Defang an IP Address with JavaScript (and Do It Safely) | habtesoft | [Read More](https://medium.com/p/a6315cd0c323) |
-| Sat, 06 Sep 2025 16:54:25 GMT | How to Resolve Constantly Changing and Wrong Timezone | AYOMIDE OGUNJIMI | [Read More](https://medium.com/p/e3b7dbfa13a1) |
-| Sat, 06 Sep 2025 16:46:10 GMT | Snort: Ağ Güvenliğinin Gizli Kahramanı (Nedir? Nasıl Kullanılır?) | Mustafa Salih Tatar | [Read More](https://medium.com/p/ef21b67c387a) |
-| Sat, 06 Sep 2025 16:31:37 GMT | Injectics writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/c9bf2132aa6f) |
-| Sat, 06 Sep 2025 16:29:07 GMT | Nmap A to Z: The Complete Guide to Network Scanning | Abhinsubej | [Read More](https://medium.com/p/d5beeb4c3430) |
-| Sat, 06 Sep 2025 16:27:56 GMT | Hacking Methodology From Crash to Code | Rohit Chaudhary | [Read More](https://medium.com/p/d829559417bb) |
-| Sat, 06 Sep 2025 16:25:31 GMT | Crack the Code, Unlock a Free Book: The Hacker’s Edge Challenge! | Ryan Merket | [Read More](https://medium.com/p/e66065d18e29) |
