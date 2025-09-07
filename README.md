@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 14:36:01 GMT | The Best Investment for the Coming Years: Guarding Your Home | Xiexiange | [Read More](https://medium.com/p/66f3d7bf45fe) |
+| Sun, 07 Sep 2025 14:25:34 GMT | Revolutionizing Security Incident Response: A Multi-Headed AI Approach with Continuous… | Elias Andrade | [Read More](https://medium.com/p/61bac566950d) |
+| Sun, 07 Sep 2025 14:20:56 GMT | Building TSP: Creating Self-Verifying Digital Artifacts | Vlad Dunaev | [Read More](https://medium.com/p/3b253c3d26ba) |
+| Sun, 07 Sep 2025 14:17:56 GMT | The Multi-Purpose Public/Private Person: How Google AI Spins Away Accountability | Reflections of the Count | [Read More](https://medium.com/p/9c0eefbe10b4) |
 | Sun, 07 Sep 2025 14:11:31 GMT | WireShark ile Ağ Analizi: Siber Güvenlikte Güçlü Araç | idriscelik | [Read More](https://medium.com/p/b62ee64a0cbe) |
 | Sun, 07 Sep 2025 14:07:53 GMT | Vibe Hacking: The AI-Powered Cyber Threat You Need to Know About | Nkanyimalunga | [Read More](https://medium.com/p/cb35be56faa6) |
 | Sun, 07 Sep 2025 14:06:51 GMT | The ALPHV/BlackCat Ransomware Strike on Change Healthcare: A $22 Million Exit Scam Shakes U.S. | Sarfraj Ahamed S | [Read More](https://medium.com/p/886b814b6f57) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 08:11:13 GMT | Get Free Annual Subscriptions on Try Hack Me , Hurry Up! | Mr Horbio | [Read More](https://medium.com/p/4927da5b7bc6) |
 | Sun, 07 Sep 2025 08:10:28 GMT | RCE in React.js: How It Happens & How to Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/21d910113218) |
 | Sun, 07 Sep 2025 08:10:05 GMT | Advanced Ethical Hacking Course with Certification | cyber security Updates | [Read More](https://medium.com/p/25edd5a21d58) |
-| Sun, 07 Sep 2025 08:06:13 GMT | The Silent Employee Trap: Why Staying Quiet at Work Can Hold You Back | Balireddy Krishna | [Read More](https://medium.com/p/e4a95d2f1e9f) |
-| Sun, 07 Sep 2025 08:05:59 GMT | System Design Mistakes That Can Ruin Your Architecture | Manish Pandey | [Read More](https://medium.com/p/81350ead990d) |
-| Sun, 07 Sep 2025 07:52:27 GMT | Someone Message me in the morning and said he is a man from Chinese and Born in USA. | Fenix Garcia | [Read More](https://medium.com/p/ac6dd67181ad) |
-| Sun, 07 Sep 2025 07:48:14 GMT | Why Your API Is Probably Insecure (and How to Build a Testing Strategy That Actually Works) | Sajjad Hussain | [Read More](https://medium.com/p/2a39bd3596b0) |
