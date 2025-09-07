@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 05:17:46 GMT | The Guide to Service Control Policies (SCPs) | Cloud Security Masterclass | [Read More](https://medium.com/p/e6a23501549f) |
+| Sun, 07 Sep 2025 05:13:58 GMT | Web Design Challenges in 2025 | Rishikumar Yadav | [Read More](https://medium.com/p/6006441813a7) |
+| Sun, 07 Sep 2025 05:11:12 GMT | AWS Organizations Explained: Centralized Multi-Account Management | Cloud Security Masterclass | [Read More](https://medium.com/p/4ae9412ea2c8) |
+| Sun, 07 Sep 2025 04:52:41 GMT | Shodan Recon Tips | AbhirupKonwar | [Read More](https://medium.com/p/352f0d7e8fdd) |
+| Sun, 07 Sep 2025 04:46:10 GMT | Aetherius-Kranion: El Script que te Ahorra Horas en el Hacking Ético | A-01.group | [Read More](https://medium.com/p/1228e431ac07) |
 | Sun, 07 Sep 2025 04:36:58 GMT | The Dark Web: The Double-Edged Sword of Investigative Journalism | Penelope L. Gray | [Read More](https://medium.com/p/6da5a93b54eb) |
 | Sun, 07 Sep 2025 04:31:38 GMT | Secure Your APIs Like a Pro: Django REST Framework Authentication Best Practices 2025 | Monil Saraswat | [Read More](https://medium.com/p/f2a14727951e) |
 | Sun, 07 Sep 2025 04:27:09 GMT | This is how I cracked NRI FT interview | Sorbopriyo Roy | [Read More](https://medium.com/p/858c686a0eaa) |
@@ -108,8 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 17:46:59 GMT | This task is to perform FTP enumeration with Metasploit | Dharmendrakumar | [Read More](https://medium.com/p/c65f55e62581) |
 | Sat, 06 Sep 2025 17:45:49 GMT | Learning to be Vulnerable | DamnAmazon | [Read More](https://medium.com/p/315d1d3045ee) |
 | Sat, 06 Sep 2025 17:41:54 GMT | Hire A Hacker To Hack Instagram Account | Darksynthhacker | [Read More](https://medium.com/p/c95c4f710af0) |
-| Sat, 06 Sep 2025 17:38:12 GMT | Reasons Why People Choose Friends With Benefits Over Real Relationships | Maria Arshad | [Read More](https://medium.com/p/1d9fa32f24ef) |
-| Sat, 06 Sep 2025 17:35:32 GMT | How To Hire A Hacker | Darksynthhacker | [Read More](https://medium.com/p/66b2a8a6857f) |
-| Sat, 06 Sep 2025 17:22:01 GMT | Reverse Engineering solution to txrbo’s Basic Crackme 1 (.NET) | Nathan C | [Read More](https://medium.com/p/84178c973d93) |
-| Sat, 06 Sep 2025 17:21:24 GMT | CanYouSee - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/560d53bd1fe0) |
-| Sat, 06 Sep 2025 17:19:51 GMT | Alert Response Procedures: The Strategic Backbone of SOC Operations in the Age of AI | V-One Giri | [Read More](https://medium.com/p/2d613683e720) |
