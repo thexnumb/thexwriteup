@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 10:08:39 GMT | AI Agent Security Architecture: Building Trustworthy Autonomous Systems | Arpit | [Read More](https://medium.com/p/d2792e0e4f60) |
+| Sun, 07 Sep 2025 10:02:37 GMT | Black Hat USA 2025 in the Age of AI (Part 1) | VXRL | [Read More](https://medium.com/p/67070c15df4b) |
+| Sun, 07 Sep 2025 10:00:15 GMT | TryHackMe - Warzone 2 — Network Alerts Triage Walkthrough | Furkanctiner | [Read More](https://medium.com/p/f451982eace7) |
+| Sun, 07 Sep 2025 09:57:36 GMT | CVE-2025–10013: i-Educar’s Export Feature Flaw Opens Door to Unauthorized Data Access | CVEHUB | [Read More](https://medium.com/p/bcb8127d6ca8) |
+| Sun, 07 Sep 2025 09:55:28 GMT | File Hunter — Hackviser.com (CTF Write UP) | Ziya Shalbuzov | [Read More](https://medium.com/p/b43db2b0e054) |
+| Sun, 07 Sep 2025 09:49:43 GMT | TubeScribe Récap. Hebdo (31 août - 7 septembre 2025) | David C. | [Read More](https://medium.com/p/2a9cf160a934) |
+| Sun, 07 Sep 2025 09:49:36 GMT | TubeScribe Weekly Digest (August 31 — September 7, 2025) | David C. | [Read More](https://medium.com/p/57843a7fd23b) |
+| Sun, 07 Sep 2025 09:47:39 GMT | Lets Hack Machine Which Has Madness Tryhackme Walkthroughs | Mainekhacker | [Read More](https://medium.com/p/afe08cc3f2f7) |
+| Sun, 07 Sep 2025 09:44:00 GMT | Technology and Innovation: Shaping the Future of Our World | Paul Okojo Akobi | [Read More](https://medium.com/p/182c79ea821d) |
+| Sun, 07 Sep 2025 09:37:24 GMT | Müşteri Hizmetlerinde Yapay Zekanın Yarattığı Devrim | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/40050ff0cce3) |
+| Sun, 07 Sep 2025 09:36:42 GMT | TryHackMe - Malware Classification — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d5f6feba36f9) |
+| Sun, 07 Sep 2025 09:36:08 GMT | Gaining Admin Access by Modifying a Hidden Parameter in User Profile | Ali Ziro | [Read More](https://medium.com/p/c491bee0cabd) |
 | Sun, 07 Sep 2025 09:27:36 GMT | DockerLabs Writeup — WalkingCMS (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/529568743b0b) |
 | Sun, 07 Sep 2025 09:26:29 GMT | The role of Validators in blockchain security: Guardians of decentralized networks | ChainbountyX | [Read More](https://medium.com/p/d73bf950270e) |
 | Sun, 07 Sep 2025 09:21:44 GMT | 5 Cybersecurity Tools Every Beginner Should Know | Geetorus | [Read More](https://medium.com/p/d6cfdb133039) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 04:27:09 GMT | This is how I cracked NRI FT interview | Sorbopriyo Roy | [Read More](https://medium.com/p/858c686a0eaa) |
 | Sun, 07 Sep 2025 04:12:36 GMT | Why Million $ Security Stack Failed Against a $45 Voice Phishing Attack | Abhinav Gupta | [Read More](https://medium.com/p/eeac9aabfe39) |
 | Sun, 07 Sep 2025 04:07:01 GMT | Critical Prompt Injection Vulnerability in Comet Browser by Perplexity AI | D09r | [Read More](https://medium.com/p/7e96991b20ba) |
-| Sun, 07 Sep 2025 04:01:39 GMT | How to Protect Your Data from Ransomware Attacks in 2025 | Secventra | [Read More](https://medium.com/p/749cb155a4e3) |
-| Sun, 07 Sep 2025 03:57:55 GMT | Zero Trust in Real Life: What It Means for Global Enterprises | Dr. Deep Pandey | [Read More](https://medium.com/p/7cba01f8e075) |
-| Sun, 07 Sep 2025 03:56:36 GMT | Hacktivist Group Claims Breach of Indian Media Outlets on Pakistan’s Defence Day | Patrick Jason | [Read More](https://medium.com/p/c7632af70bd2) |
-| Sun, 07 Sep 2025 03:47:39 GMT | Best Trade Setup Ever In Trading History | Written By Richu | [Read More](https://medium.com/p/43f831989c34) |
-| Sun, 07 Sep 2025 03:43:48 GMT | From Imposter to Expert: Building Your Cybersecurity Career Framework | Cybergilly | [Read More](https://medium.com/p/a5cc8912dc11) |
-| Sun, 07 Sep 2025 03:43:45 GMT | Hack The Box (HTB) Walkthrough Cap | Sourabh Sharma | [Read More](https://medium.com/p/92f0c6619f35) |
-| Sun, 07 Sep 2025 03:43:32 GMT | The AI Evolution in Security: Unlocking the Power of the 2025 Pulse of AI-Powered SOC… | cyber security threat ai | [Read More](https://medium.com/p/43d07cc5eae4) |
-| Sun, 07 Sep 2025 03:37:36 GMT | CRACCON CTF Qualifiers Writeups | 5h1kh4r | [Read More](https://medium.com/p/4f2b68f3f973) |
-| Sun, 07 Sep 2025 03:18:48 GMT | Bagaimana Saya Menemukan Open Redirect di Dua Subdomain detik.com? | OziXploit | [Read More](https://medium.com/p/c090bd0e0b01) |
-| Sun, 07 Sep 2025 03:15:32 GMT | Testing My Prompt Injection Abilities | Nwosu Rosemary | [Read More](https://medium.com/p/cec7e4e463b3) |
-| Sun, 07 Sep 2025 02:45:57 GMT | My Journey Building a Secure Flower Shop Web App | Rashmika Nethsarani | [Read More](https://medium.com/p/0e5d1e179d68) |
-| Sun, 07 Sep 2025 02:33:56 GMT | Detecting Lateral Movement via PsExec — A SOC Analyst’s Perspective | Paritosh | [Read More](https://medium.com/p/27de26cc19ce) |
