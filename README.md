@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 15:25:53 GMT | LocalGuard: A Plant-Inspired Immune System for Host Defense | Koshy | [Read More](https://medium.com/p/0e6e6187dd5c) |
+| Sun, 07 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 7, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/475f9327f914) |
+| Sun, 07 Sep 2025 15:11:58 GMT | Corporate Greed Chronicles: Oracle Running Over Its Own People | Namir Sagheenanajar | [Read More](https://medium.com/p/af57c2555ce3) |
 | Sun, 07 Sep 2025 15:11:11 GMT | AI in Cybersecurity Is About Discipline, Not Hype | Chidi Emetanjo | [Read More](https://medium.com/p/d7742b8de8b7) |
 | Sun, 07 Sep 2025 15:08:50 GMT | Dissecting HackTheBox Pro Labs: The Art of Attacking Enterprise Networks | 0xN1gh7xW1z4rd | [Read More](https://medium.com/p/4f4e5dd1fe42) |
 | Sun, 07 Sep 2025 15:04:35 GMT | Internal — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/064ef3016ef2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 08:51:39 GMT | How to Write Pen-Test Reports? | Iram Jack | [Read More](https://medium.com/p/8c01dde0e275) |
 | Sun, 07 Sep 2025 08:48:15 GMT | How Cybercriminals Stole Big – Just by Knowing the Phone Number | David SEHYEON Baek | [Read More](https://medium.com/p/807de217ad52) |
 | Sun, 07 Sep 2025 08:47:06 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/ef51c26a06ce) |
-| Sun, 07 Sep 2025 08:46:02 GMT | Burger King Hack: They Heard *Everything*? | Truspex | [Read More](https://medium.com/p/6ef0c035f05a) |
-| Sun, 07 Sep 2025 08:43:52 GMT | Struggling With Web Application Security Testing? | Sajjad Hussain | [Read More](https://medium.com/p/4ab6eecd0c99) |
-| Sun, 07 Sep 2025 08:39:17 GMT | The right way to rotate JWTs for secure authentication using Axios | Sreesen | [Read More](https://medium.com/p/b8641e2f7929) |
