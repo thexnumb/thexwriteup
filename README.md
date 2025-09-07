@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 06:22:48 GMT | The Role of Threat Modeling in Application Security | Abida Adra | [Read More](https://medium.com/p/12eb3d5247c5) |
+| Sun, 07 Sep 2025 06:19:23 GMT | GZR Observer Daily — Sep 7, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/02092a19743e) |
+| Sun, 07 Sep 2025 06:17:22 GMT | 12. Broken Access Control: When the Rules Break | Abhijeet kumawat | [Read More](https://medium.com/p/0bc37a474d57) |
+| Sun, 07 Sep 2025 06:17:09 GMT | Prompt Injection: The Security Layer You Forgot About | Kashish Kumar (Kavi) | [Read More](https://medium.com/p/b7c5725b60a5) |
+| Sun, 07 Sep 2025 06:16:46 GMT | She Thought Her Boss Was Calling. It Wasn’t Even a Real Person. | Neha ravi | [Read More](https://medium.com/p/4d543c84e17f) |
+| Sun, 07 Sep 2025 06:10:23 GMT | Understanding Data Storage Devices: Types, Access Methods, and Security Concerns | Raviteja Mureboina | [Read More](https://medium.com/p/12a6aeae4b2e) |
+| Sun, 07 Sep 2025 06:09:14 GMT | Phones for Students 2025: Ultimate Buying Guide You Must Read | Ella Hall | [Read More](https://medium.com/p/7a900ab5a0c8) |
+| Sun, 07 Sep 2025 06:06:27 GMT | How to Avoid the $4.4 Billion Mistake: Cybersecurity Lessons from the MGM Resorts Hack | Sofia | [Read More](https://medium.com/p/ad646c4bd9b7) |
+| Sun, 07 Sep 2025 05:52:55 GMT | Building Zero Trust Security and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/9a3af5f98dea) |
+| Sun, 07 Sep 2025 05:49:27 GMT | Building Zero Trust Security and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/97499f4f5f4c) |
+| Sun, 07 Sep 2025 05:49:25 GMT | Mars Stealer — Malware Analiz Raporu | Semih Arda Ersöz | [Read More](https://medium.com/p/449cb0120707) |
+| Sun, 07 Sep 2025 05:45:51 GMT | Building Zero Trust Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/f012b00dee0c) |
+| Sun, 07 Sep 2025 05:45:49 GMT | Why Desktop Apps Still Get Hacked (and How to Build a Security Testing Strategy That Actually… | Sajjad Hussain | [Read More](https://medium.com/p/a07d69a28087) |
+| Sun, 07 Sep 2025 05:45:47 GMT | Phones for Students Comparison 2025: Budget vs Premium Options | Kanyarat Suksawat | [Read More](https://medium.com/p/d1b4793bd0e0) |
+| Sun, 07 Sep 2025 05:42:25 GMT | A Ruler for Consciousness: A New Theory to Finally Quantify Subjective Experience | handman | [Read More](https://medium.com/p/1fc2e7daa8ec) |
+| Sun, 07 Sep 2025 05:42:24 GMT | Building Zero Trust Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/fd7690653841) |
+| Sun, 07 Sep 2025 05:40:24 GMT | AWS Root User Security — the only guide you need | Cloud Security Masterclass | [Read More](https://medium.com/p/c8d5fc0f12ae) |
+| Sun, 07 Sep 2025 05:39:03 GMT | Building Zero Trust Security and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/4df7cdab9eff) |
+| Sun, 07 Sep 2025 05:33:42 GMT | AWS Policy Evaluation logic for the five AWS policies made simple | Cloud Security Masterclass | [Read More](https://medium.com/p/5aebcfa42506) |
 | Sun, 07 Sep 2025 05:23:52 GMT | Resurgence of Cyberattacks on the Country’s Communication Infrastructure | Balki Maharaj | [Read More](https://medium.com/p/df5f7607ba7b) |
 | Sun, 07 Sep 2025 05:23:39 GMT | AWS IAM Session Policy: What You Need To Know | Cloud Security Masterclass | [Read More](https://medium.com/p/05b8c5208abe) |
 | Sun, 07 Sep 2025 05:17:46 GMT | The Guide to Service Control Policies (SCPs) | Cloud Security Masterclass | [Read More](https://medium.com/p/e6a23501549f) |
@@ -94,22 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 19:41:40 GMT | Rising on arXiv — 2025–09–05 | Marcelo Rinesi | [Read More](https://medium.com/p/60b56bd1fe14) |
 | Sat, 06 Sep 2025 19:28:55 GMT | Elastic Cloud S.I.E.M Lab - Deployment and Configuration Guide | Antonio Tanco | [Read More](https://medium.com/p/96deceb96b93) |
 | Sat, 06 Sep 2025 19:23:17 GMT | DIY Cyberpunk Gadgets That Will Make Your Friends Nervous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a4839f6df1bf) |
-| Sat, 06 Sep 2025 19:22:37 GMT | Crypto Scammers on X: The Dark Side of “Giveaway” Culture | Oz Sultan | [Read More](https://medium.com/p/6479d5d86332) |
-| Sat, 06 Sep 2025 19:20:57 GMT | Demystifying Federated Identity Management (FIM) and Its Clever Use in EKS | Shaarif Khan | [Read More](https://medium.com/p/162a4dd7763f) |
-| Sat, 06 Sep 2025 19:18:26 GMT | How to Secure Your Digital Life: A 2025 Guide to Cybersecurity for Everyone | Umesh Anjula | [Read More](https://medium.com/p/304b2982f160) |
-| Sat, 06 Sep 2025 19:09:46 GMT | [Guide] Crafting a neat and valuable bug bounty report | pm | [Read More](https://medium.com/p/0bf1bc933bdc) |
-| Sat, 06 Sep 2025 19:01:12 GMT | Samsung One UI 8 Stable Update Rollout Dates for Galaxy Devices Revealed | Rakesh Sahani | [Read More](https://medium.com/p/d2359a60a601) |
-| Sat, 06 Sep 2025 18:58:21 GMT | ️ Tried SecPilot’s ThreatPilot (Beta) — Pretty Impressed | Khalid Amri | [Read More](https://medium.com/p/ccfa6d06cb1e) |
-| Sat, 06 Sep 2025 18:56:51 GMT | Kali Linux vs Parrot OS: The Winner No One Told You About (Beginners, Read This First!!) | cybrNK | [Read More](https://medium.com/p/fce36863365a) |
-| Sat, 06 Sep 2025 18:53:52 GMT | ToolShell: How a hidden flaw in Microsoft SharePoint turned into a global wake-up call | O. J. Okpabi | [Read More](https://medium.com/p/dbb1e4038934) |
-| Sat, 06 Sep 2025 18:49:17 GMT | Cloudflare: 67 minutes without keys. | IsaacFabianK | [Read More](https://medium.com/p/a81e77e09fe0) |
-| Sat, 06 Sep 2025 18:47:08 GMT | Tehdit İstihbaratı (Threat Intelligence): Dijital Dünyada Güvenliğin Anahtarı | Fatih Yüksektepe | [Read More](https://medium.com/p/b05e9acb6200) |
-| Sat, 06 Sep 2025 18:36:23 GMT | Merchant Transaction Data Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/5a95f4afc59a) |
-| Sat, 06 Sep 2025 18:27:00 GMT | You’re lonely because you’re not vulnerable. | Calise | [Read More](https://medium.com/p/086ef0d9bb66) |
-| Sat, 06 Sep 2025 18:23:57 GMT | The Two Faces of Windows Power: Administrator vs SYSTEM | DuckWrites | [Read More](https://medium.com/p/6047bbb9a049) |
-| Sat, 06 Sep 2025 18:10:43 GMT | AI Scams Are Getting Smarter — Don’t Become the Next Victim | Madebyflorisb | [Read More](https://medium.com/p/8e4722b2466a) |
-| Sat, 06 Sep 2025 18:08:59 GMT | Is Your AI a Double Agent? | Pannag Kumaar | [Read More](https://medium.com/p/d47c95a97d1e) |
-| Sat, 06 Sep 2025 18:01:40 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/49c7f079f32c) |
-| Sat, 06 Sep 2025 17:57:17 GMT | Practical guide: detecting Nmap port scans with Wireshark | Khalil Z. | [Read More](https://medium.com/p/f50a52ac1dfd) |
-| Sat, 06 Sep 2025 17:49:19 GMT | Everything about Playbook in CyberSecurity For Security Analyst — Complete Guide | SecurewithUmer | [Read More](https://medium.com/p/f9ab23152ef5) |
-| Sat, 06 Sep 2025 17:46:59 GMT | This task is to perform FTP enumeration with Metasploit | Dharmendrakumar | [Read More](https://medium.com/p/c65f55e62581) |
