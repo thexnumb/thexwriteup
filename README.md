@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 09:15:33 GMT | From Chemical Engineering to Cloud Security: My Career Pivot at 29 | Teererai Kagura | [Read More](https://medium.com/p/a3ef4c5e7a0b) |
+| Sun, 07 Sep 2025 09:14:00 GMT | ESP32 Review 2025–26 — Cheap Hacker Toy or Just Another Chip? | Satyam Pathania | [Read More](https://medium.com/p/85d71c68b297) |
+| Sun, 07 Sep 2025 09:12:15 GMT | Using HTTPS in Web Development: Why It’s Important | Rohit Kuwar | [Read More](https://medium.com/p/e74de15ec295) |
+| Sun, 07 Sep 2025 09:02:01 GMT | How can you tell if you love the person or love the feeling they give you? | Abel | [Read More](https://medium.com/p/e00e8258da62) |
+| Sun, 07 Sep 2025 09:00:16 GMT | Should You Cache JWT Tokens in Spring Boot? Benefits, Risks, and Detailed Insights | Anh Trần Tuấn | [Read More](https://medium.com/p/5abd197e9459) |
+| Sun, 07 Sep 2025 09:00:12 GMT | Should You Cache JWT Tokens in Spring Boot? Benefits, Risks, and Detailed Insights | Anh Trần Tuấn | [Read More](https://medium.com/p/2ccbb460324a) |
+| Sun, 07 Sep 2025 08:59:47 GMT | What’s the Difference Between Hashing, Encoding, and Encryption? | Krishnakumar Yadav | [Read More](https://medium.com/p/ea99340590d1) |
+| Sun, 07 Sep 2025 08:59:14 GMT | EVP Market Review: How I Recovered My Lost Funds. | Admid Repulsive | [Read More](https://medium.com/p/6c0e5fab5fa4) |
+| Sun, 07 Sep 2025 08:57:07 GMT | AI & Code: Trust It? Or Treat It Like a Leaky Faucet? | Authlyn | [Read More](https://medium.com/p/0177dd977b70) |
+| Sun, 07 Sep 2025 08:54:49 GMT | TryHackMe : WhyHackMe writeup | Sadineni Sai Sushanth | [Read More](https://medium.com/p/de64bddd68c8) |
+| Sun, 07 Sep 2025 08:51:39 GMT | How to Write Pen-Test Reports? | Iram Jack | [Read More](https://medium.com/p/8c01dde0e275) |
+| Sun, 07 Sep 2025 08:48:15 GMT | How Cybercriminals Stole Big – Just by Knowing the Phone Number | David SEHYEON Baek | [Read More](https://medium.com/p/807de217ad52) |
+| Sun, 07 Sep 2025 08:47:06 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/ef51c26a06ce) |
+| Sun, 07 Sep 2025 08:46:02 GMT | Burger King Hack: They Heard *Everything*? | Truspex | [Read More](https://medium.com/p/6ef0c035f05a) |
+| Sun, 07 Sep 2025 08:43:52 GMT | Struggling With Web Application Security Testing? | Sajjad Hussain | [Read More](https://medium.com/p/4ab6eecd0c99) |
+| Sun, 07 Sep 2025 08:39:17 GMT | The right way to rotate JWTs for secure authentication using Axios | Sreesen | [Read More](https://medium.com/p/b8641e2f7929) |
 | Sun, 07 Sep 2025 08:31:42 GMT | Cryptographic Failures: The Silent Killer of Web Security | CyberSenpai | [Read More](https://medium.com/p/99476fe525a6) |
 | Sun, 07 Sep 2025 08:23:45 GMT | Write Up Lab: SQL injection attack, listing the database contents on non-Oracle databases | Velskynotfound | [Read More](https://medium.com/p/2cf88d2663f0) |
 | Sun, 07 Sep 2025 08:23:39 GMT | The Backend Behind the Agent: Seeing MCP Servers Through the Lens of Backend Security | Roy Rahamim | [Read More](https://medium.com/p/5626b85f70a6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 02:29:49 GMT | FACEIO: The Privacy-First Facial Recognition SDK for Password less Web Authentication | Vishal Yadav | [Read More](https://medium.com/p/b13881203cb7) |
 | Sun, 07 Sep 2025 02:21:38 GMT | Smarter, Deadlier: Why AI Ransomware Could Be the Next Cyber Pandemic | Wi-Fun | [Read More](https://medium.com/p/8b8c7d213255) |
 | Sun, 07 Sep 2025 02:18:56 GMT | Building a Home Splunk Lab for Cybersecurity Practice | Demetrius Smith | [Read More](https://medium.com/p/6151000da3bf) |
-| Sun, 07 Sep 2025 02:10:56 GMT | Using AWS Workspace Secure browser with IAM Identity Centre | Manish Karki | [Read More](https://medium.com/p/ae81a1df3d92) |
-| Sun, 07 Sep 2025 01:27:52 GMT | From Information to Intelligence: Is It Time to Redefine “IT” in the Age of AI? | TechTunes | [Read More](https://medium.com/p/e5ea61200cc0) |
-| Sun, 07 Sep 2025 01:24:25 GMT | Why Using Temporary Email Addresses Is a Smart Move | Sarahah | [Read More](https://medium.com/p/d50737cb1eec) |
-| Sun, 07 Sep 2025 01:17:06 GMT | Session Forensics - Tryhackme | Aaron | [Read More](https://medium.com/p/c26dfef715c8) |
-| Sun, 07 Sep 2025 01:15:09 GMT | Impact of AI on the Pentesting Industry | Nexarus Security | [Read More](https://medium.com/p/0ae58c53d43d) |
-| Sun, 07 Sep 2025 00:57:47 GMT | Fundamental Security Concepts | Jacob Piloto | [Read More](https://medium.com/p/de4d535c7d39) |
-| Sun, 07 Sep 2025 00:57:46 GMT | Symmetric and Assymetric Encryption and Diffie Hellman Key Exchange | Enskefuddle | [Read More](https://medium.com/p/dd44bda74c7b) |
-| Sun, 07 Sep 2025 00:45:53 GMT | Passkeys vs Passwords in 2025: Is It Time to Ditch Your Login Struggles? | Biytelüm | [Read More](https://medium.com/p/838077965e0a) |
-| Sun, 07 Sep 2025 00:39:36 GMT | CIA Triad (CIA Üçgeni) | Mustafa Gunay | [Read More](https://medium.com/p/892ece362f01) |
-| Sun, 07 Sep 2025 00:13:25 GMT | When Windows Defender Application Control Becomes a Switch — How Attackers Abuse WDAC to Silence… | David SEHYEON Baek | [Read More](https://medium.com/p/530718aad7bf) |
-| Sat, 06 Sep 2025 23:52:06 GMT | Be Risk-Ready. Be Audit-Ready: The Ultimate Cyber Risk & Threat Catalog Toolkit | Burak DÜNDAR | [Read More](https://medium.com/p/5ed4a6da1372) |
-| Sat, 06 Sep 2025 23:49:28 GMT | The Legacy and Impact of the UNIX Operating System on Information Technology | Stacklegend | [Read More](https://medium.com/p/59126d1244ed) |
-| Sat, 06 Sep 2025 23:41:06 GMT | The History of Smartphones from Keypads to Touchscreens | Stacklegend | [Read More](https://medium.com/p/982eeba63b42) |
-| Sat, 06 Sep 2025 23:40:59 GMT | Dissecting Network Traffic: TShark Writeup for FTP CTF Challenge | Shashi Raj Jha | [Read More](https://medium.com/p/5a6245772367) |
-| Sat, 06 Sep 2025 23:30:26 GMT | The History and Technological Legacy of Microsoft in Global IT | Stacklegend | [Read More](https://medium.com/p/36df666e8b96) |
-| Sat, 06 Sep 2025 23:22:26 GMT | AI and Cybersecurity: From Pattern Recognition to Contextual Reasoning | Johnmshelly | [Read More](https://medium.com/p/6182976be24b) |
