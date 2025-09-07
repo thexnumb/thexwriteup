@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 10:25:25 GMT | 10 PostgreSQL Features You Didn’t Know You Needed in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ec1bc83de734) |
+| Sun, 07 Sep 2025 10:21:59 GMT | Why Curiosity Might Be the Missing Piece in Building Skilled Resources Today | Ajay Nawani | [Read More](https://medium.com/p/2f66a9145b32) |
+| Sun, 07 Sep 2025 10:18:11 GMT | PostgreSQL vs MongoDB in 2025: Which One is the Real Winner? | Rizqi Mulki | [Read More](https://medium.com/p/a0bac9665ed5) |
+| Sun, 07 Sep 2025 10:16:34 GMT | MX Marks the Spot: Finding Hidden Weaknesses in Your Email Infrastructure | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1cd724a529c4) |
+| Sun, 07 Sep 2025 10:15:03 GMT | Cryptographic Solutions: From Classics to the Quantum Era\_(ツ)_/ | Lawliet Vladyslav | [Read More](https://medium.com/p/d81229ce3437) |
+| Sun, 07 Sep 2025 10:14:41 GMT | Why Most Apps Aren’t Secure: The Hidden Threat in Your Dependencies | Premsuthar | [Read More](https://medium.com/p/66d085055010) |
+| Sun, 07 Sep 2025 10:14:19 GMT | Why PostgreSQL is Beating MySQL in 2025: The Surprising Truth | Rizqi Mulki | [Read More](https://medium.com/p/13cd37e4fc85) |
+| Sun, 07 Sep 2025 10:11:37 GMT | Agent Tesla—Malware Analysis | R.D.Tarun | [Read More](https://medium.com/p/f5c595c11f91) |
 | Sun, 07 Sep 2025 10:08:39 GMT | AI Agent Security Architecture: Building Trustworthy Autonomous Systems | Arpit | [Read More](https://medium.com/p/d2792e0e4f60) |
 | Sun, 07 Sep 2025 10:02:37 GMT | Black Hat USA 2025 in the Age of AI (Part 1) | VXRL | [Read More](https://medium.com/p/67070c15df4b) |
 | Sun, 07 Sep 2025 10:00:15 GMT | TryHackMe - Warzone 2 — Network Alerts Triage Walkthrough | Furkanctiner | [Read More](https://medium.com/p/f451982eace7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 05:23:39 GMT | AWS IAM Session Policy: What You Need To Know | Cloud Security Masterclass | [Read More](https://medium.com/p/05b8c5208abe) |
 | Sun, 07 Sep 2025 05:17:46 GMT | The Guide to Service Control Policies (SCPs) | Cloud Security Masterclass | [Read More](https://medium.com/p/e6a23501549f) |
 | Sun, 07 Sep 2025 05:13:58 GMT | Web Design Challenges in 2025 | Rishikumar Yadav | [Read More](https://medium.com/p/6006441813a7) |
-| Sun, 07 Sep 2025 05:11:12 GMT | AWS Organizations Explained: Centralized Multi-Account Management | Cloud Security Masterclass | [Read More](https://medium.com/p/4ae9412ea2c8) |
-| Sun, 07 Sep 2025 04:52:41 GMT | Shodan Recon Tips | AbhirupKonwar | [Read More](https://medium.com/p/352f0d7e8fdd) |
-| Sun, 07 Sep 2025 04:46:10 GMT | Aetherius-Kranion: El Script que te Ahorra Horas en el Hacking Ético | A-01.group | [Read More](https://medium.com/p/1228e431ac07) |
-| Sun, 07 Sep 2025 04:36:58 GMT | The Dark Web: The Double-Edged Sword of Investigative Journalism | Penelope L. Gray | [Read More](https://medium.com/p/6da5a93b54eb) |
-| Sun, 07 Sep 2025 04:31:38 GMT | Secure Your APIs Like a Pro: Django REST Framework Authentication Best Practices 2025 | Monil Saraswat | [Read More](https://medium.com/p/f2a14727951e) |
-| Sun, 07 Sep 2025 04:27:09 GMT | This is how I cracked NRI FT interview | Sorbopriyo Roy | [Read More](https://medium.com/p/858c686a0eaa) |
-| Sun, 07 Sep 2025 04:12:36 GMT | Why Million $ Security Stack Failed Against a $45 Voice Phishing Attack | Abhinav Gupta | [Read More](https://medium.com/p/eeac9aabfe39) |
-| Sun, 07 Sep 2025 04:07:01 GMT | Critical Prompt Injection Vulnerability in Comet Browser by Perplexity AI | D09r | [Read More](https://medium.com/p/7e96991b20ba) |
