@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 07:07:10 GMT | ️ Layered Security Architecture for Medium-Sized Enterprises: A Practical Guide | Nishok Reddy | [Read More](https://medium.com/p/d3625f1d13a2) |
+| Sun, 07 Sep 2025 07:02:42 GMT | Why Your High-Accuracy ML Model Might Be Unethical | IamFavoured | [Read More](https://medium.com/p/ff6b9cdf8e45) |
+| Sun, 07 Sep 2025 07:02:09 GMT | Fingerprint First: Secure Authentication with Jetpack Compose | Parita Dey | [Read More](https://medium.com/p/de9225470e92) |
+| Sun, 07 Sep 2025 06:57:28 GMT | Microsoft Patches BadSuccessor: A Kerberos Privilege Escalation Vulnerability You Shouldn’t Ignore | Prabha | [Read More](https://medium.com/p/c77e5a061276) |
+| Sun, 07 Sep 2025 06:56:12 GMT | صیغه یابی همسریابی تهران صیغه یابی اصفهان صیغه کرج صیغه شیراز صیغه کرمانمعرفی  خانمهای زیبا… | مهدی رضایی | [Read More](https://medium.com/p/cd46ef38da6d) |
+| Sun, 07 Sep 2025 06:56:09 GMT | Humans: The Biggest Vulnerability in Cybersecurity and How Psychology Explains It | PRANAV S V | [Read More](https://medium.com/p/ed1c33d7803f) |
+| Sun, 07 Sep 2025 06:54:36 GMT | How I Discovered Account Takeover (ATO) via IDOR lead to 500$ bounty | JEETPAL | [Read More](https://medium.com/p/537bc7ff10b8) |
+| Sun, 07 Sep 2025 06:53:21 GMT | How to Protect Yourself from Predatory Animals | Hosawi | [Read More](https://medium.com/p/31a0f5b17e4e) |
+| Sun, 07 Sep 2025 06:52:53 GMT | From Locked to Looted: My Journey of IDOR Chains to Almost-Admin Access | Iski | [Read More](https://medium.com/p/d15abf0046f9) |
+| Sun, 07 Sep 2025 06:46:10 GMT | More Than Defense: How a Proactive CISO Drives Competitive Advantage in Formula 1 | Timothy Harmon, CISSP | [Read More](https://medium.com/p/64488eb30cab) |
+| Sun, 07 Sep 2025 06:43:38 GMT | Securely Storing and Retrieving Passwords in Django | Mahmoud Barzegar | [Read More](https://medium.com/p/8fa964072a64) |
 | Sun, 07 Sep 2025 06:37:42 GMT | Record-breaking 11.5 Tbps DDoS attack | Patrik Žák | [Read More](https://medium.com/p/fd3ac7d8165a) |
 | Sun, 07 Sep 2025 06:35:27 GMT | Getting Started with Snowflake: A Beginner’s Guide | Nilesh Tantarpale | [Read More](https://medium.com/p/ca92826ef460) |
 | Sun, 07 Sep 2025 06:33:24 GMT | GetHow to Get Phone Number Details in Pakistan - Scam Protection Guide | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/021171585c4b) |
@@ -102,14 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 20:30:25 GMT | The End of Data Privacy: You Already Lost the Battle | Dax | [Read More](https://medium.com/p/e5aa9bb96dbf) |
 | Sat, 06 Sep 2025 20:23:32 GMT | A SMART CONTRACT!!! WHAT IS IT? | Justann | [Read More](https://medium.com/p/bff1ba8291f5) |
 | Sat, 06 Sep 2025 20:19:07 GMT | TLS 1.3, Certificate Authorities, and the Ongoing Balance of Security | Jialei Q. | [Read More](https://medium.com/p/6ece7d3b33bd) |
-| Sat, 06 Sep 2025 20:18:16 GMT | MalDoc101 Lab - CyberDefenders | Body | [Read More](https://medium.com/p/9ce9bd74923b) |
-| Sat, 06 Sep 2025 20:15:37 GMT | Cybersecurity Basics Cia Triad | orioninsist | [Read More](https://medium.com/p/ddd8f0721141) |
-| Sat, 06 Sep 2025 20:14:35 GMT | Vulnerable Js Hunting | Deezacker | [Read More](https://medium.com/p/4723a3001f13) |
-| Sat, 06 Sep 2025 20:13:18 GMT | Environment Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/23bada8d48f6) |
-| Sat, 06 Sep 2025 20:09:07 GMT | Episode 3: Fundamentals Of Cybersecurity — Threats and Vulnerabilities | Yash Kitey | [Read More](https://medium.com/p/c5542a1fa5eb) |
-| Sat, 06 Sep 2025 20:07:36 GMT | Garbage In, Garbage Out: The OSINT Trap I Fell Into | Sam Galope | [Read More](https://medium.com/p/74a3a9c4b9ca) |
-| Sat, 06 Sep 2025 19:59:59 GMT | Inside the Stuxnet Attack: The Worm That Sabotaged Iran’s Natanz Nuclear Facility | Shaheryar Ali | [Read More](https://medium.com/p/0e6deacfbe5f) |
-| Sat, 06 Sep 2025 19:56:46 GMT | I Hacked My Own Network and Found Something I Wasn’t Ready For | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c64f50a28ba7) |
-| Sat, 06 Sep 2025 19:50:50 GMT | CAMM2: The Next-Gen Evolution in RAM for PCs and Beyond. | L3 SuperLayer | [Read More](https://medium.com/p/7ccf06590976) |
-| Sat, 06 Sep 2025 19:49:04 GMT | Creating Low-Cost DIY Tools for Penetration Testing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a020f0f8ff2d) |
-| Sat, 06 Sep 2025 19:46:54 GMT | The Logic Bomb in the Power Grid | Shahzaib | [Read More](https://medium.com/p/54b3e915c5d7) |
