@@ -12,11 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 18:41:45 GMT | The $23 Trillion Threat: Cybercrime’s New Frontier | Max Fisher | [Read More](https://medium.com/p/68acd7fb0537) |
+| Sun, 07 Sep 2025 18:31:55 GMT | Zero Trust: The Future of Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/bdff66b76f04) |
+| Sun, 07 Sep 2025 18:31:25 GMT | Coupon Code Leakage & Response Manipulation got me 40% discount in a self hosted bug bounty company… | Be nice insabat | [Read More](https://medium.com/p/e9d5c94aafa2) |
+| Sun, 07 Sep 2025 18:29:50 GMT | Path to Becoming a DevSecOps Engineer (from Zero to Pro) | Rashadul Islam | [Read More](https://medium.com/p/04b4385dd487) |
+| Sun, 07 Sep 2025 18:29:22 GMT | AWS CloudTrail: Your One-Stop Shop for Comprehensive AWS Logging | Cloud Security Masterclass | [Read More](https://medium.com/p/87244f15fcc8) |
+| Sun, 07 Sep 2025 18:28:39 GMT | The Internet of Things (IoT): The Unseen Backdoor into Our Lives | Shahzaib | [Read More](https://medium.com/p/776ee077a1bd) |
+| Sun, 07 Sep 2025 18:27:47 GMT | Breaking Into Cybersecurity: From Zero to Your First Job | vydhi | [Read More](https://medium.com/p/84206b22ea71) |
+| Sun, 07 Sep 2025 18:27:23 GMT | That Old Program on Your Computer Isn’t Just Sleeping — It’s a Time Bomb | Aj | [Read More](https://medium.com/p/5ce30b0c2c0b) |
+| Sun, 07 Sep 2025 18:23:38 GMT | Mastering AWS KMS Grants: Benefits, Security Considerations, and a Practical Demo | Cloud Security Masterclass | [Read More](https://medium.com/p/17be5088ee6a) |
+| Sun, 07 Sep 2025 18:18:16 GMT | How to Access Your Mac Mini (and External Drives) from Anywhere — Securely! | Pawan Kumar | [Read More](https://medium.com/p/34d16b090c83) |
 | Sun, 07 Sep 2025 18:18:15 GMT | Beyond the Office Walls: Why Endpoint Security is Critical for a Mobile Workforce | Surojoy Gupta | [Read More](https://medium.com/p/4fe29d555547) |
 | Sun, 07 Sep 2025 18:16:42 GMT | AWS WAF Demo: Protecting Against SSRF Attacks | Cloud Security Masterclass | [Read More](https://medium.com/p/06174111c22f) |
 | Sun, 07 Sep 2025 18:16:11 GMT | PG Play — Blogger (Linux) | Lepton | [Read More](https://medium.com/p/fe3ac8b4276e) |
 | Sun, 07 Sep 2025 18:15:31 GMT | PG Practice — Pebbles (Linux) | Lepton | [Read More](https://medium.com/p/ed7b3dca5ce4) |
 | Sun, 07 Sep 2025 18:15:12 GMT | PG Pratice — Quackerjack (Linux) | Lepton | [Read More](https://medium.com/p/edad594cd5d5) |
+| Sun, 07 Sep 2025 18:14:17 GMT | Beyond the Endpoint: A Cloud-Native Phishing Defense Strategy | Surojoy Gupta | [Read More](https://medium.com/p/40cd6a5c5a1a) |
 | Sun, 07 Sep 2025 18:12:59 GMT | Week 5 of My 90-Day Challenge: Automation and New Tools | Mike (sl0th0x87) | [Read More](https://medium.com/p/c53f81598753) |
 | Sun, 07 Sep 2025 18:12:28 GMT | Fortifying Cloud Connectivity: Private Connectivity with AWS VPC Endpoints for Enhanced Security | Cloud Security Masterclass | [Read More](https://medium.com/p/7a0fb10e3738) |
 | Sun, 07 Sep 2025 18:07:10 GMT | AWS VPC Flow Logs Explained: Security, Fields, and Analysis | Cloud Security Masterclass | [Read More](https://medium.com/p/dd0e2260635e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 13:46:00 GMT | AWS Global Infrastructure Explained (Regions, Availability Zones, Edge Locations) | Kasungayashan | [Read More](https://medium.com/p/2173782ef949) |
 | Sun, 07 Sep 2025 13:39:53 GMT | Secure Your AWS Apps: CloudFront VPC Origins + Internal ALB Setup | Sarabpreet Singh | [Read More](https://medium.com/p/1c737de2574f) |
 | Sun, 07 Sep 2025 13:35:16 GMT | Tryhackme Snort Challenge The Basics Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/54454565a964) |
-| Sun, 07 Sep 2025 13:32:19 GMT | How Hackers Earn Passive Income With Recon | Vipul Sonule | [Read More](https://medium.com/p/5ee3fd25513d) |
-| Sun, 07 Sep 2025 13:32:16 GMT | When a Carriage Return Nearly Broke Git (And How You Can Stay Safe) | S.Ali | [Read More](https://medium.com/p/42bb19a3783b) |
-| Sun, 07 Sep 2025 13:31:46 GMT | Stories of Sensitive Data Exposure: What I Found as a Pentester and How You Can Prevent It: Episode… | Yamini Yadav | [Read More](https://medium.com/p/1362bdf27049) |
-| Sun, 07 Sep 2025 13:31:23 GMT | Gaining Root Access via NFS Misconfiguration | Bit_Picker | [Read More](https://medium.com/p/92d4d44f8837) |
-| Sun, 07 Sep 2025 13:29:21 GMT | Crack the 403 Code: Turn Forbidden Errors into Bug Bounty Wins | Monika sharma | [Read More](https://medium.com/p/1f5efe98b987) |
-| Sun, 07 Sep 2025 13:25:20 GMT | So You Want to Be a Penetration Tester? Here’s How to Break into Offensive Cybersecurity | Yua Mikanana | [Read More](https://medium.com/p/cffedefa9258) |
-| Sun, 07 Sep 2025 13:23:14 GMT | Event Security Companies Sacramento — All You Should Know | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/cbf956f9a47e) |
-| Sun, 07 Sep 2025 13:14:34 GMT | I Deleted My CTO Friend’s Account With a Puppy Picture | Adarsh Gupta | [Read More](https://medium.com/p/0f53ed6e6096) |
-| Sun, 07 Sep 2025 13:14:31 GMT | How Much Access is Too Much Access? | Abhang Mandwale | [Read More](https://medium.com/p/70fc5186d2eb) |
-| Sun, 07 Sep 2025 13:05:01 GMT | At 3 a.m., while most of the world sleeps, millions of machines hum in quiet. | Dear Mary | [Read More](https://medium.com/p/737e8bb1ec4a) |
-| Sun, 07 Sep 2025 13:02:17 GMT | What Do You Grab When You Don’t Know If You’re Ever Coming Back? | Farhad Ali | [Read More](https://medium.com/p/ad190731f6ea) |
