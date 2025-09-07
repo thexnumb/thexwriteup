@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 04:36:58 GMT | The Dark Web: The Double-Edged Sword of Investigative Journalism | Penelope L. Gray | [Read More](https://medium.com/p/6da5a93b54eb) |
+| Sun, 07 Sep 2025 04:31:38 GMT | Secure Your APIs Like a Pro: Django REST Framework Authentication Best Practices 2025 | Monil Saraswat | [Read More](https://medium.com/p/f2a14727951e) |
+| Sun, 07 Sep 2025 04:27:09 GMT | This is how I cracked NRI FT interview | Sorbopriyo Roy | [Read More](https://medium.com/p/858c686a0eaa) |
 | Sun, 07 Sep 2025 04:12:36 GMT | Why Million $ Security Stack Failed Against a $45 Voice Phishing Attack | Abhinav Gupta | [Read More](https://medium.com/p/eeac9aabfe39) |
 | Sun, 07 Sep 2025 04:07:01 GMT | Critical Prompt Injection Vulnerability in Comet Browser by Perplexity AI | D09r | [Read More](https://medium.com/p/7e96991b20ba) |
 | Sun, 07 Sep 2025 04:01:39 GMT | How to Protect Your Data from Ransomware Attacks in 2025 | Secventra | [Read More](https://medium.com/p/749cb155a4e3) |
@@ -110,6 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 17:22:01 GMT | Reverse Engineering solution to txrbo’s Basic Crackme 1 (.NET) | Nathan C | [Read More](https://medium.com/p/84178c973d93) |
 | Sat, 06 Sep 2025 17:21:24 GMT | CanYouSee - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/560d53bd1fe0) |
 | Sat, 06 Sep 2025 17:19:51 GMT | Alert Response Procedures: The Strategic Backbone of SOC Operations in the Age of AI | V-One Giri | [Read More](https://medium.com/p/2d613683e720) |
-| Sat, 06 Sep 2025 17:18:15 GMT | SQLMAP — Medium-Level Study Note | Mushfiq.XD | [Read More](https://medium.com/p/369cddafc0dc) |
-| Sat, 06 Sep 2025 17:12:29 GMT | “ JSON POST Bodies: The Hidden Goldmine of XSS & Bug Bounties” | Zoningxtr | [Read More](https://medium.com/p/b19fb7e09e69) |
-| Sat, 06 Sep 2025 17:12:23 GMT | Why ISO 27001 Should Be Every Engineer’s Secret Weapon | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4992f248cead) |
