@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 06:37:42 GMT | Record-breaking 11.5 Tbps DDoS attack | Patrik Žák | [Read More](https://medium.com/p/fd3ac7d8165a) |
+| Sun, 07 Sep 2025 06:35:27 GMT | Getting Started with Snowflake: A Beginner’s Guide | Nilesh Tantarpale | [Read More](https://medium.com/p/ca92826ef460) |
+| Sun, 07 Sep 2025 06:33:24 GMT | GetHow to Get Phone Number Details in Pakistan - Scam Protection Guide | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/021171585c4b) |
+| Sun, 07 Sep 2025 06:26:44 GMT | Why Most IoT Devices Get Hacked (and How to Build a Security Testing Strategy That Actually Works) | Sajjad Hussain | [Read More](https://medium.com/p/6756eb4d37d5) |
+| Sun, 07 Sep 2025 06:26:28 GMT | Incident Handling Process | Omarmoamen | [Read More](https://medium.com/p/f491fa410542) |
 | Sun, 07 Sep 2025 06:22:48 GMT | The Role of Threat Modeling in Application Security | Abida Adra | [Read More](https://medium.com/p/12eb3d5247c5) |
 | Sun, 07 Sep 2025 06:19:23 GMT | GZR Observer Daily — Sep 7, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/02092a19743e) |
 | Sun, 07 Sep 2025 06:17:22 GMT | 12. Broken Access Control: When the Rules Break | Abhijeet kumawat | [Read More](https://medium.com/p/0bc37a474d57) |
@@ -108,8 +113,3 @@ Abdul Rehman sat in his quiet university lab, the screen’s glow… | Abdul Reh
 | Sat, 06 Sep 2025 19:50:50 GMT | CAMM2: The Next-Gen Evolution in RAM for PCs and Beyond. | L3 SuperLayer | [Read More](https://medium.com/p/7ccf06590976) |
 | Sat, 06 Sep 2025 19:49:04 GMT | Creating Low-Cost DIY Tools for Penetration Testing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a020f0f8ff2d) |
 | Sat, 06 Sep 2025 19:46:54 GMT | The Logic Bomb in the Power Grid | Shahzaib | [Read More](https://medium.com/p/54b3e915c5d7) |
-| Sat, 06 Sep 2025 19:45:27 GMT | Secure Kubernetes Access with a Password Manager | Brendan Dalpe | [Read More](https://medium.com/p/52cd19caa7eb) |
-| Sat, 06 Sep 2025 19:43:13 GMT | How does artificial intelligence contribute to improving the field of nursing? | Sidialtos | [Read More](https://medium.com/p/10991b77772f) |
-| Sat, 06 Sep 2025 19:41:40 GMT | Rising on arXiv — 2025–09–05 | Marcelo Rinesi | [Read More](https://medium.com/p/60b56bd1fe14) |
-| Sat, 06 Sep 2025 19:28:55 GMT | Elastic Cloud S.I.E.M Lab - Deployment and Configuration Guide | Antonio Tanco | [Read More](https://medium.com/p/96deceb96b93) |
-| Sat, 06 Sep 2025 19:23:17 GMT | DIY Cyberpunk Gadgets That Will Make Your Friends Nervous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a4839f6df1bf) |
