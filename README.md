@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 14:11:31 GMT | WireShark ile Ağ Analizi: Siber Güvenlikte Güçlü Araç | idriscelik | [Read More](https://medium.com/p/b62ee64a0cbe) |
+| Sun, 07 Sep 2025 14:07:53 GMT | Vibe Hacking: The AI-Powered Cyber Threat You Need to Know About | Nkanyimalunga | [Read More](https://medium.com/p/cb35be56faa6) |
+| Sun, 07 Sep 2025 14:06:51 GMT | The ALPHV/BlackCat Ransomware Strike on Change Healthcare: A $22 Million Exit Scam Shakes U.S. | Sarfraj Ahamed S | [Read More](https://medium.com/p/886b814b6f57) |
+| Sun, 07 Sep 2025 14:05:35 GMT | Financial Literacy in the Age of AI. | Marica | [Read More](https://medium.com/p/8057b5950af4) |
+| Sun, 07 Sep 2025 14:04:54 GMT | Why IT Security & Compliance Are Critical for Modern Businesses - BhavPro | BhavPro | [Read More](https://medium.com/p/092ac9a16ebc) |
+| Sun, 07 Sep 2025 13:57:44 GMT | What is Wireshark and What Are Its Uses? | Safe Tech Hacks | [Read More](https://medium.com/p/e9d084cab622) |
+| Sun, 07 Sep 2025 13:56:49 GMT | Beyond the OWASP API Top 10 — Injection, Logging Gaps, and Business Logic Flaws | Suhel Kathi | [Read More](https://medium.com/p/14ecd8d15d29) |
+| Sun, 07 Sep 2025 13:55:20 GMT | How I Hacked An AI Based Company | Rohan_lew | [Read More](https://medium.com/p/9e190e0f5126) |
+| Sun, 07 Sep 2025 13:51:41 GMT | The Digital Guardian: Why SentryPC is the Best School Safety Software in the USA | Paul Meyer | [Read More](https://medium.com/p/c898d71bba41) |
+| Sun, 07 Sep 2025 13:46:00 GMT | AWS Global Infrastructure Explained (Regions, Availability Zones, Edge Locations) | Kasungayashan | [Read More](https://medium.com/p/2173782ef949) |
+| Sun, 07 Sep 2025 13:39:53 GMT | Secure Your AWS Apps: CloudFront VPC Origins + Internal ALB Setup | Sarabpreet Singh | [Read More](https://medium.com/p/1c737de2574f) |
+| Sun, 07 Sep 2025 13:35:16 GMT | Tryhackme Snort Challenge The Basics Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/54454565a964) |
+| Sun, 07 Sep 2025 13:32:19 GMT | How Hackers Earn Passive Income With Recon | Vipul Sonule | [Read More](https://medium.com/p/5ee3fd25513d) |
 | Sun, 07 Sep 2025 13:32:16 GMT | When a Carriage Return Nearly Broke Git (And How You Can Stay Safe) | S.Ali | [Read More](https://medium.com/p/42bb19a3783b) |
 | Sun, 07 Sep 2025 13:31:46 GMT | Stories of Sensitive Data Exposure: What I Found as a Pentester and How You Can Prevent It: Episode… | Yamini Yadav | [Read More](https://medium.com/p/1362bdf27049) |
 | Sun, 07 Sep 2025 13:31:23 GMT | Gaining Root Access via NFS Misconfiguration | Bit_Picker | [Read More](https://medium.com/p/92d4d44f8837) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 08:05:59 GMT | System Design Mistakes That Can Ruin Your Architecture | Manish Pandey | [Read More](https://medium.com/p/81350ead990d) |
 | Sun, 07 Sep 2025 07:52:27 GMT | Someone Message me in the morning and said he is a man from Chinese and Born in USA. | Fenix Garcia | [Read More](https://medium.com/p/ac6dd67181ad) |
 | Sun, 07 Sep 2025 07:48:14 GMT | Why Your API Is Probably Insecure (and How to Build a Testing Strategy That Actually Works) | Sajjad Hussain | [Read More](https://medium.com/p/2a39bd3596b0) |
-| Sun, 07 Sep 2025 07:42:51 GMT | How to exploit? Pentesting Postgresql — PORT 5432,5433 | Very Lazy Tech | [Read More](https://medium.com/p/645c8eea8a3c) |
-| Sun, 07 Sep 2025 07:39:18 GMT | How Cloudflare Protects Millions of Websites from Cyberattacks Every Day | Isuru Prabarth | [Read More](https://medium.com/p/825e49557da4) |
-| Sun, 07 Sep 2025 07:34:21 GMT | DROSERA NETWORK FULL BREAKDOWN. | Chideramorgan | [Read More](https://medium.com/p/00f3f0430d91) |
-| Sun, 07 Sep 2025 07:31:51 GMT | WASM Sidecars: Move Work Out of the Pod | Thinking Loop | [Read More](https://medium.com/p/6be58f11ca51) |
-| Sun, 07 Sep 2025 07:31:51 GMT | Is Your Business Digitally Transformed? 7 Signs You’re Falling Behind | Karmakoders | [Read More](https://medium.com/p/e2996513e276) |
-| Sun, 07 Sep 2025 07:30:52 GMT | MOI-CTF: last key writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/be804b0ebdee) |
-| Sun, 07 Sep 2025 07:25:59 GMT | Capture The Flag Write Up — Privilege Escalation via Path Traversal | ph4se.vox | [Read More](https://medium.com/p/95d720aac38f) |
-| Sun, 07 Sep 2025 07:24:27 GMT | HackTrace — Hackviser.com (CTF Write UP) | Ziya Shalbuzov | [Read More](https://medium.com/p/a99136cbe665) |
-| Sun, 07 Sep 2025 07:23:32 GMT | Writing Your First Analytics Rules in Microsoft Sentinel | Seenu Bhupala | [Read More](https://medium.com/p/6d10a5be73e6) |
-| Sun, 07 Sep 2025 07:20:30 GMT | SSTI: When {{ 7*7 }} Isn't Enough | Sushant Kamble | [Read More](https://medium.com/p/ecde3fcdcb17) |
-| Sun, 07 Sep 2025 07:07:10 GMT | ️ Layered Security Architecture for Medium-Sized Enterprises: A Practical Guide | Nishok Reddy | [Read More](https://medium.com/p/d3625f1d13a2) |
-| Sun, 07 Sep 2025 07:02:42 GMT | Why Your High-Accuracy ML Model Might Be Unethical | IamFavoured | [Read More](https://medium.com/p/ff6b9cdf8e45) |
-| Sun, 07 Sep 2025 07:02:09 GMT | Fingerprint First: Secure Authentication with Jetpack Compose | Parita Dey | [Read More](https://medium.com/p/de9225470e92) |
