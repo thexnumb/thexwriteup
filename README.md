@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 11:31:40 GMT | ️ What is Cyber Threat Intelligence (CTI) and How is it Used? | Esra Kayhan | [Read More](https://medium.com/p/269afe74487c) |
+| Sun, 07 Sep 2025 11:29:05 GMT | The eJPTv2 Experience | Mustufasohail | [Read More](https://medium.com/p/e3d6e1cce162) |
+| Sun, 07 Sep 2025 11:20:32 GMT | OKUMAK HAKKINDA | Osman berkay Ercan | [Read More](https://medium.com/p/664c034b6d1f) |
+| Sun, 07 Sep 2025 11:15:01 GMT | The Hidden, Found. | D | [Read More](https://medium.com/p/c7656a36d680) |
+| Sun, 07 Sep 2025 11:11:03 GMT | The myths that make SMS phishing (smishing) scams more dangerous | Paul Walsh | [Read More](https://medium.com/p/0b83fc11e0d1) |
 | Sun, 07 Sep 2025 11:04:28 GMT | The Ghost in the Machine: How a Single Flag Can Give Attackers a Shell on Your Node.js Server | Anant Joshi | [Read More](https://medium.com/p/dfe9a6155387) |
 | Sun, 07 Sep 2025 11:00:12 GMT | NETWORKING BASICS — ALL YOU NEED TO KNOW ABOUT NETWORKING EASILY | Muhammed Afnaan | [Read More](https://medium.com/p/c058f685f970) |
 | Sun, 07 Sep 2025 10:59:39 GMT | ThunderCipher-[ | Bhuwan Patidar | [Read More](https://medium.com/p/07f38298cf0a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 06:06:27 GMT | How to Avoid the $4.4 Billion Mistake: Cybersecurity Lessons from the MGM Resorts Hack | Sofia | [Read More](https://medium.com/p/ad646c4bd9b7) |
 | Sun, 07 Sep 2025 05:52:55 GMT | Building Zero Trust Security and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/9a3af5f98dea) |
 | Sun, 07 Sep 2025 05:49:27 GMT | Building Zero Trust Security and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/97499f4f5f4c) |
-| Sun, 07 Sep 2025 05:49:25 GMT | Mars Stealer — Malware Analiz Raporu | Semih Arda Ersöz | [Read More](https://medium.com/p/449cb0120707) |
-| Sun, 07 Sep 2025 05:45:51 GMT | Building Zero Trust Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/f012b00dee0c) |
-| Sun, 07 Sep 2025 05:45:49 GMT | Why Desktop Apps Still Get Hacked (and How to Build a Security Testing Strategy That Actually… | Sajjad Hussain | [Read More](https://medium.com/p/a07d69a28087) |
-| Sun, 07 Sep 2025 05:45:47 GMT | Phones for Students Comparison 2025: Budget vs Premium Options | Kanyarat Suksawat | [Read More](https://medium.com/p/d1b4793bd0e0) |
-| Sun, 07 Sep 2025 05:42:25 GMT | A Ruler for Consciousness: A New Theory to Finally Quantify Subjective Experience | handman | [Read More](https://medium.com/p/1fc2e7daa8ec) |
