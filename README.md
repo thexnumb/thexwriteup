@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 23:28:58 GMT | Project #7: Building An Active Directory Home Lab Using Microsoft Azure | NSESean | [Read More](https://medium.com/p/3ec1bc85cb6c) |
+| Sun, 07 Sep 2025 23:16:13 GMT | Beyond Antivirus: The Cybersecurity Layers You’re Probably Missing | Aj | [Read More](https://medium.com/p/0015c044596e) |
+| Sun, 07 Sep 2025 23:15:48 GMT | FACEIO, Privacy-First Passwordless Login, Age Verification, and Liveness Detection in One Stack | Pius Oruko | [Read More](https://medium.com/p/3fadae47cebd) |
+| Sun, 07 Sep 2025 23:13:23 GMT | Devsecu: Integrating AI, Business Strategy, and Cybersecurity for a Smarter Future | Devsecu | [Read More](https://medium.com/p/607eb3342fe8) |
 | Sun, 07 Sep 2025 23:09:50 GMT | I got 43 Questions right Out of 60 in a CompTIA A+ Core 1 Mock Test! | Eme Karen | [Read More](https://medium.com/p/4b4570141811) |
 | Sun, 07 Sep 2025 23:01:40 GMT | LetsDefend — Velociraptor Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/7e123fa6a426) |
 | Sun, 07 Sep 2025 22:57:54 GMT | One stolen password. 30,000 containers stranded. Food prices up 8%. | SavetyAI | [Read More](https://medium.com/p/2d52e49f6d20) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 16:42:51 GMT | Modern Exploit Development with ROP (Return Oriented Programming | Esra Kayhan | [Read More](https://medium.com/p/38954b7feeaa) |
 | Sun, 07 Sep 2025 16:38:56 GMT | ChatGPT Agent Mode and Connectors: A Double-Edged Sword for Security | Shane Haynes | [Read More](https://medium.com/p/abe0d8630a94) |
 | Sun, 07 Sep 2025 16:37:29 GMT | CVE-2025–43300: The Zero-Click iPhone Hack That Came From a Photo | Khaleel Khan | [Read More](https://medium.com/p/30e83d4207f8) |
-| Sun, 07 Sep 2025 16:36:53 GMT | To Catch a Cyberstalker: The Final Chapter in the Sten Molin Harassment Story | Sara Hammel | [Read More](https://medium.com/p/3c76e79ff768) |
-| Sun, 07 Sep 2025 16:35:46 GMT | Making Internal to Outbound File Transfers and Reverse Shells Effortless with Ligolo-MP Redirectors | Spiros Pitikaris @cmpspiti | [Read More](https://medium.com/p/344636e610f6) |
-| Sun, 07 Sep 2025 16:35:19 GMT | PicoCTF — Vault Door 5 | EtcSec | [Read More](https://medium.com/p/49d1f93efe24) |
-| Sun, 07 Sep 2025 16:35:15 GMT | A Developer’s Crash Course in Cryptography, Part 3: Enigma | Steinwendner Matthias | [Read More](https://medium.com/p/ada2485d4293) |
