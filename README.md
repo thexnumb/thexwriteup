@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 23:09:50 GMT | I got 43 Questions right Out of 60 in a CompTIA A+ Core 1 Mock Test! | Eme Karen | [Read More](https://medium.com/p/4b4570141811) |
+| Sun, 07 Sep 2025 23:01:40 GMT | LetsDefend — Velociraptor Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/7e123fa6a426) |
+| Sun, 07 Sep 2025 22:57:54 GMT | One stolen password. 30,000 containers stranded. Food prices up 8%. | SavetyAI | [Read More](https://medium.com/p/2d52e49f6d20) |
+| Sun, 07 Sep 2025 22:52:56 GMT | Autenticación en ZAP con Jython Scripting (parte 1) | alejandro | [Read More](https://medium.com/p/6e9615e9d258) |
+| Sun, 07 Sep 2025 22:52:41 GMT | OSINT Case #32: Tracking Clues Across the Terminal | Mångata | [Read More](https://medium.com/p/7cffd867b826) |
+| Sun, 07 Sep 2025 22:50:30 GMT | The Biggest Threat to Internet Privacy and Security is One We Don’t Have A Timeline For | Enskefuddle | [Read More](https://medium.com/p/bbb547ec2ef4) |
+| Sun, 07 Sep 2025 22:49:10 GMT | A 39-Second Warning: How the UNFI Grocery Breach Signals the Next Wave of Supply-Chain Chaos | SavetyAI | [Read More](https://medium.com/p/be7ead8d15be) |
+| Sun, 07 Sep 2025 22:47:07 GMT | The Boy Who Hoped, The Girl Who Withheld | Matthew Horan | [Read More](https://medium.com/p/75a74cf1f3d8) |
+| Sun, 07 Sep 2025 22:46:27 GMT | One stolen password. 600 GB of stolen data. £7 million to recover. | SavetyAI | [Read More](https://medium.com/p/3ba7cbb94657) |
+| Sun, 07 Sep 2025 22:39:05 GMT | AI Now Powers 40% of Cyberattacks — Are We Ready? | Akilnath Bodipudi | [Read More](https://medium.com/p/34bc7d68f206) |
 | Sun, 07 Sep 2025 22:08:59 GMT | Pickle Rick TryHackMe Walkthrough (Junior Penetration Tester — PT1) | BXPLOIT | [Read More](https://medium.com/p/2cfd8712e2f0) |
 | Sun, 07 Sep 2025 21:58:58 GMT | MOI-CTF: predictable writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/bce2fcebbc2f) |
 | Sun, 07 Sep 2025 21:44:15 GMT | Hunting Bugs, Learning Fast | Mehdi Ben Fredj | [Read More](https://medium.com/p/484feb15d4d3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 16:35:46 GMT | Making Internal to Outbound File Transfers and Reverse Shells Effortless with Ligolo-MP Redirectors | Spiros Pitikaris @cmpspiti | [Read More](https://medium.com/p/344636e610f6) |
 | Sun, 07 Sep 2025 16:35:19 GMT | PicoCTF — Vault Door 5 | EtcSec | [Read More](https://medium.com/p/49d1f93efe24) |
 | Sun, 07 Sep 2025 16:35:15 GMT | A Developer’s Crash Course in Cryptography, Part 3: Enigma | Steinwendner Matthias | [Read More](https://medium.com/p/ada2485d4293) |
-| Sun, 07 Sep 2025 16:29:24 GMT | Cybersecurity in India: From AI-Driven Attacks to the Quantum Future | Mayank Kumar | [Read More](https://medium.com/p/a70fe4000e65) |
-| Sun, 07 Sep 2025 16:28:32 GMT | Vulnerability Management Case Study: MS17–010 on Windows 7 (TryHackMe Blue) | Faysal Dhimbil | [Read More](https://medium.com/p/de51084c7345) |
-| Sun, 07 Sep 2025 16:24:10 GMT | My Journey of Finding Two P1 Vulnerabilities | Chip | [Read More](https://medium.com/p/ca9b3b4d36a4) |
-| Sun, 07 Sep 2025 16:21:38 GMT | You’re Not Unphotogenic. You’re Unwitnessed. | Rae Sutton | [Read More](https://medium.com/p/22dc0c5d8c62) |
-| Sun, 07 Sep 2025 16:10:43 GMT | SOC Reports Demystified: Types, Criteria, and Audit Roadmap | Wiran Larbi | [Read More](https://medium.com/p/b0725f9cc878) |
-| Sun, 07 Sep 2025 16:09:44 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/103cc137bcc0) |
-| Sun, 07 Sep 2025 16:03:47 GMT | [Dia 01] Hacker Fest 2019 — Walkthrough | Luan Nutels - volksec | [Read More](https://medium.com/p/9e01a7a96c11) |
-| Sun, 07 Sep 2025 15:59:12 GMT | How to Bulk Upload URLs in NotebookLM for Faster Source Collection | www.OneCoolTip.com | [Read More](https://medium.com/p/862453ba715d) |
-| Sun, 07 Sep 2025 15:57:41 GMT | Forget the 12 Words: Why Crypto Scares Users Away Instead of Drawing Them In | Mart0 | [Read More](https://medium.com/p/c9b3e5464e1f) |
-| Sun, 07 Sep 2025 15:52:47 GMT | Building Trustworthy AI: Contextual Grounding vs Automated Reasoning in Amazon Bedrock | Shailesh Kumar Mishra | [Read More](https://medium.com/p/42a0690f8da6) |
