@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 19:04:54 GMT | Threat Modeling with STRIDE: A Practical Walkthrough | Janith Malinga | [Read More](https://medium.com/p/93dfd8f23b9b) |
+| Sun, 07 Sep 2025 19:02:32 GMT | The Auth Apocalypse: Episode 5—The Cookie Thief’s Favourite Snack | Yamini Yadav | [Read More](https://medium.com/p/6b32dcc8fe6d) |
+| Sun, 07 Sep 2025 19:02:20 GMT | Why “Unhackable” Systems Don’t Exist: Lessons from the Frontlines | Aj | [Read More](https://medium.com/p/6fd517d117ba) |
+| Sun, 07 Sep 2025 18:50:49 GMT | Homoglyph Attacks: A Subtle but Dangerous Cybersecurity Threat | Aashish Baweja | [Read More](https://medium.com/p/5cf320abf955) |
+| Sun, 07 Sep 2025 18:50:06 GMT | Cracking the Case: How I Discovered an IDOR Vulnerability | Abhishek | [Read More](https://medium.com/p/10142ffb57d6) |
 | Sun, 07 Sep 2025 18:41:45 GMT | The $23 Trillion Threat: Cybercrime’s New Frontier | Max Fisher | [Read More](https://medium.com/p/68acd7fb0537) |
+| Sun, 07 Sep 2025 18:41:10 GMT | TheHackersLabs — Tortuga | APS88 | [Read More](https://medium.com/p/aa1a7610cc8f) |
 | Sun, 07 Sep 2025 18:31:55 GMT | Zero Trust: The Future of Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/bdff66b76f04) |
 | Sun, 07 Sep 2025 18:31:25 GMT | Coupon Code Leakage & Response Manipulation got me 40% discount in a self hosted bug bounty company… | Be nice insabat | [Read More](https://medium.com/p/e9d5c94aafa2) |
 | Sun, 07 Sep 2025 18:29:50 GMT | Path to Becoming a DevSecOps Engineer (from Zero to Pro) | Rashadul Islam | [Read More](https://medium.com/p/04b4385dd487) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 14:05:35 GMT | Financial Literacy in the Age of AI. | Marica | [Read More](https://medium.com/p/8057b5950af4) |
 | Sun, 07 Sep 2025 14:04:54 GMT | Why IT Security & Compliance Are Critical for Modern Businesses - BhavPro | BhavPro | [Read More](https://medium.com/p/092ac9a16ebc) |
 | Sun, 07 Sep 2025 13:57:44 GMT | What is Wireshark and What Are Its Uses? | Safe Tech Hacks | [Read More](https://medium.com/p/e9d084cab622) |
-| Sun, 07 Sep 2025 13:56:49 GMT | Beyond the OWASP API Top 10 — Injection, Logging Gaps, and Business Logic Flaws | Suhel Kathi | [Read More](https://medium.com/p/14ecd8d15d29) |
-| Sun, 07 Sep 2025 13:55:20 GMT | How I Hacked An AI Based Company | Rohan_lew | [Read More](https://medium.com/p/9e190e0f5126) |
-| Sun, 07 Sep 2025 13:51:41 GMT | The Digital Guardian: Why SentryPC is the Best School Safety Software in the USA | Paul Meyer | [Read More](https://medium.com/p/c898d71bba41) |
-| Sun, 07 Sep 2025 13:46:00 GMT | AWS Global Infrastructure Explained (Regions, Availability Zones, Edge Locations) | Kasungayashan | [Read More](https://medium.com/p/2173782ef949) |
-| Sun, 07 Sep 2025 13:39:53 GMT | Secure Your AWS Apps: CloudFront VPC Origins + Internal ALB Setup | Sarabpreet Singh | [Read More](https://medium.com/p/1c737de2574f) |
-| Sun, 07 Sep 2025 13:35:16 GMT | Tryhackme Snort Challenge The Basics Writeup | Muhammed Enes Gürkan | [Read More](https://medium.com/p/54454565a964) |
