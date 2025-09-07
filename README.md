@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 17:32:15 GMT | A Primer on AWS VPC and Connectivity Patterns | Cloud Security Masterclass | [Read More](https://medium.com/p/dae590a287f6) |
+| Sun, 07 Sep 2025 17:29:38 GMT | Building a Home SOC Lab with VirtualBox, Wazuh, and Shuffle | Pavin Das | [Read More](https://medium.com/p/58ea5fbb6cfd) |
+| Sun, 07 Sep 2025 17:25:59 GMT | From Pages to Practice: Learning Information Security Through Books | Aj | [Read More](https://medium.com/p/d856057ede0c) |
+| Sun, 07 Sep 2025 17:19:37 GMT | Why Modern Security Needs a Human Touch, Even in the Age of Artificial Intelligence | Christina Martin | [Read More](https://medium.com/p/8ba2ebef1d5e) |
 | Sun, 07 Sep 2025 17:07:35 GMT | Parameter based Access Control | Varkeythms | [Read More](https://medium.com/p/37a314d8b22e) |
 | Sun, 07 Sep 2025 17:04:45 GMT | Manual vs. Automated Web Application Penetration Testing: What’s the Difference? | Whiteknightlabs | [Read More](https://medium.com/p/34148e4bdc6a) |
 | Sun, 07 Sep 2025 17:04:34 GMT | What are Cyber Attacks? ⚠️ | Lumae | [Read More](https://medium.com/p/558d6a702f91) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 10:56:09 GMT | Sharim Solutions | Mathiaskerry | [Read More](https://medium.com/p/b23721136bd1) |
 | Sun, 07 Sep 2025 10:43:14 GMT | The Walking Woundead | Sébastien ️ | [Read More](https://medium.com/p/8ab29e934c51) |
 | Sun, 07 Sep 2025 10:33:52 GMT | ️ PS Eclipse - TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d691bf004286) |
-| Sun, 07 Sep 2025 10:33:48 GMT | Interview question: “How to Secure Android Applications and Build Apps for a Billion Users” | Mukesh Yadav | [Read More](https://medium.com/p/babdb286db13) |
-| Sun, 07 Sep 2025 10:29:18 GMT | Malware Classification — TryHackMe Walkthough | Azim Uddin | [Read More](https://medium.com/p/8894b3be46bc) |
-| Sun, 07 Sep 2025 10:25:25 GMT | 10 PostgreSQL Features You Didn’t Know You Needed in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ec1bc83de734) |
-| Sun, 07 Sep 2025 10:21:59 GMT | Why Curiosity Might Be the Missing Piece in Building Skilled Resources Today | Ajay Nawani | [Read More](https://medium.com/p/2f66a9145b32) |
