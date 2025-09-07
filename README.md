@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 16:29:24 GMT | Cybersecurity in India: From AI-Driven Attacks to the Quantum Future | Mayank Kumar | [Read More](https://medium.com/p/a70fe4000e65) |
+| Sun, 07 Sep 2025 16:28:32 GMT | Vulnerability Management Case Study: MS17–010 on Windows 7 (TryHackMe Blue) | Faysal Dhimbil | [Read More](https://medium.com/p/de51084c7345) |
+| Sun, 07 Sep 2025 16:24:10 GMT | My Journey of Finding Two P1 Vulnerabilities | Chip | [Read More](https://medium.com/p/ca9b3b4d36a4) |
+| Sun, 07 Sep 2025 16:21:38 GMT | You’re Not Unphotogenic. You’re Unwitnessed. | Rae Sutton | [Read More](https://medium.com/p/22dc0c5d8c62) |
 | Sun, 07 Sep 2025 16:10:43 GMT | SOC Reports Demystified: Types, Criteria, and Audit Roadmap | Wiran Larbi | [Read More](https://medium.com/p/b0725f9cc878) |
 | Sun, 07 Sep 2025 16:09:44 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/103cc137bcc0) |
 | Sun, 07 Sep 2025 16:03:47 GMT | [Dia 01] Hacker Fest 2019 — Walkthrough | Luan Nutels - volksec | [Read More](https://medium.com/p/9e01a7a96c11) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 09:49:43 GMT | TubeScribe Récap. Hebdo (31 août - 7 septembre 2025) | David C. | [Read More](https://medium.com/p/2a9cf160a934) |
 | Sun, 07 Sep 2025 09:49:36 GMT | TubeScribe Weekly Digest (August 31 — September 7, 2025) | David C. | [Read More](https://medium.com/p/57843a7fd23b) |
 | Sun, 07 Sep 2025 09:47:39 GMT | Lets Hack Machine Which Has Madness Tryhackme Walkthroughs | Mainekhacker | [Read More](https://medium.com/p/afe08cc3f2f7) |
-| Sun, 07 Sep 2025 09:44:00 GMT | Technology and Innovation: Shaping the Future of Our World | Paul Okojo Akobi | [Read More](https://medium.com/p/182c79ea821d) |
-| Sun, 07 Sep 2025 09:37:24 GMT | Müşteri Hizmetlerinde Yapay Zekanın Yarattığı Devrim | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/40050ff0cce3) |
-| Sun, 07 Sep 2025 09:36:42 GMT | TryHackMe - Malware Classification — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d5f6feba36f9) |
-| Sun, 07 Sep 2025 09:36:08 GMT | Gaining Admin Access by Modifying a Hidden Parameter in User Profile | Ali Ziro | [Read More](https://medium.com/p/c491bee0cabd) |
