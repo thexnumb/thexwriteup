@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 12:12:40 GMT | Guardians of Your Peace of Mind: Top AI-Powered Smart Security Cameras for Homes in 2025 | Sohaabdullah | [Read More](https://medium.com/p/ae461ca20144) |
+| Sun, 07 Sep 2025 12:06:11 GMT | How Drosera is Set to Tackle Unforeseen Blockchain Mishaps | Sudais | [Read More](https://medium.com/p/d97ea65fcd5f) |
+| Sun, 07 Sep 2025 12:05:31 GMT | Bed Bug Reproduction Rate: More Eggs Than You Think | mohamed muneer | [Read More](https://medium.com/p/afe61a4e13b0) |
+| Sun, 07 Sep 2025 12:04:07 GMT | Secure Coding Practices in the Age of AI | Manpreet Kaur | [Read More](https://medium.com/p/b38026dd5d10) |
+| Sun, 07 Sep 2025 12:02:23 GMT | Fix QEMU/KVM doesn’t allow using mounted drives in Virt-manager on Linux. Permission Denied Error! | OctoPwn | [Read More](https://medium.com/p/916dba2c0f10) |
+| Sun, 07 Sep 2025 11:55:08 GMT | Design: Authenticator Backend — L5 (Senior / Staff-level) answer | The Abstract Engineer | [Read More](https://medium.com/p/bb1637be35c1) |
+| Sun, 07 Sep 2025 11:54:53 GMT | Brute Force (Kaba Kuvvet) Saldırısı | Mustafa Gunay | [Read More](https://medium.com/p/9c2fdd8dc29c) |
+| Sun, 07 Sep 2025 11:44:38 GMT | MOI-CTF: hireplus writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/38e74eac104d) |
+| Sun, 07 Sep 2025 11:37:41 GMT | Directory Traversal Vulnerabilities and Server File Access | Esra Kayhan | [Read More](https://medium.com/p/25bc2d724974) |
+| Sun, 07 Sep 2025 11:37:40 GMT | How I Actually Make Money Online (Other Than Cybersecurity) | Satyam Pathania | [Read More](https://medium.com/p/330e8b9e4fa3) |
 | Sun, 07 Sep 2025 11:31:40 GMT | ️ What is Cyber Threat Intelligence (CTI) and How is it Used? | Esra Kayhan | [Read More](https://medium.com/p/269afe74487c) |
+| Sun, 07 Sep 2025 11:31:29 GMT | h4cked Writeup | Wandesrtech | [Read More](https://medium.com/p/e29c95bffc32) |
 | Sun, 07 Sep 2025 11:29:05 GMT | The eJPTv2 Experience | Mustufasohail | [Read More](https://medium.com/p/e3d6e1cce162) |
 | Sun, 07 Sep 2025 11:20:32 GMT | OKUMAK HAKKINDA | Osman berkay Ercan | [Read More](https://medium.com/p/664c034b6d1f) |
 | Sun, 07 Sep 2025 11:15:01 GMT | The Hidden, Found. | D | [Read More](https://medium.com/p/c7656a36d680) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 06:35:27 GMT | Getting Started with Snowflake: A Beginner’s Guide | Nilesh Tantarpale | [Read More](https://medium.com/p/ca92826ef460) |
 | Sun, 07 Sep 2025 06:33:24 GMT | GetHow to Get Phone Number Details in Pakistan - Scam Protection Guide | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/021171585c4b) |
 | Sun, 07 Sep 2025 06:26:44 GMT | Why Most IoT Devices Get Hacked (and How to Build a Security Testing Strategy That Actually Works) | Sajjad Hussain | [Read More](https://medium.com/p/6756eb4d37d5) |
-| Sun, 07 Sep 2025 06:26:28 GMT | Incident Handling Process | Omarmoamen | [Read More](https://medium.com/p/f491fa410542) |
-| Sun, 07 Sep 2025 06:22:48 GMT | The Role of Threat Modeling in Application Security | Abida Adra | [Read More](https://medium.com/p/12eb3d5247c5) |
-| Sun, 07 Sep 2025 06:19:23 GMT | GZR Observer Daily — Sep 7, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/02092a19743e) |
-| Sun, 07 Sep 2025 06:17:22 GMT | 12. Broken Access Control: When the Rules Break | Abhijeet kumawat | [Read More](https://medium.com/p/0bc37a474d57) |
-| Sun, 07 Sep 2025 06:17:09 GMT | Prompt Injection: The Security Layer You Forgot About | Kashish Kumar (Kavi) | [Read More](https://medium.com/p/b7c5725b60a5) |
-| Sun, 07 Sep 2025 06:16:46 GMT | She Thought Her Boss Was Calling. It Wasn’t Even a Real Person. | Neha ravi | [Read More](https://medium.com/p/4d543c84e17f) |
-| Sun, 07 Sep 2025 06:10:23 GMT | Understanding Data Storage Devices: Types, Access Methods, and Security Concerns | Raviteja Mureboina | [Read More](https://medium.com/p/12a6aeae4b2e) |
-| Sun, 07 Sep 2025 06:09:14 GMT | Phones for Students 2025: Ultimate Buying Guide You Must Read | Ella Hall | [Read More](https://medium.com/p/7a900ab5a0c8) |
-| Sun, 07 Sep 2025 06:06:27 GMT | How to Avoid the $4.4 Billion Mistake: Cybersecurity Lessons from the MGM Resorts Hack | Sofia | [Read More](https://medium.com/p/ad646c4bd9b7) |
-| Sun, 07 Sep 2025 05:52:55 GMT | Building Zero Trust Security and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/9a3af5f98dea) |
-| Sun, 07 Sep 2025 05:49:27 GMT | Building Zero Trust Security and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/97499f4f5f4c) |
