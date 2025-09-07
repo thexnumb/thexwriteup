@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 17:07:35 GMT | Parameter based Access Control | Varkeythms | [Read More](https://medium.com/p/37a314d8b22e) |
+| Sun, 07 Sep 2025 17:04:45 GMT | Manual vs. Automated Web Application Penetration Testing: What’s the Difference? | Whiteknightlabs | [Read More](https://medium.com/p/34148e4bdc6a) |
+| Sun, 07 Sep 2025 17:04:34 GMT | What are Cyber Attacks? ⚠️ | Lumae | [Read More](https://medium.com/p/558d6a702f91) |
+| Sun, 07 Sep 2025 17:02:39 GMT | The Ultimate API Architecture: Combining Azure Traffic Manager, Front Door, and API Management | Soe | [Read More](https://medium.com/p/db5192f1987e) |
+| Sun, 07 Sep 2025 16:56:37 GMT | Day 18: LAMP vs LEMP → Understanding Web Application Stacks | Prutha_Dongre | [Read More](https://medium.com/p/6c86c721057c) |
+| Sun, 07 Sep 2025 16:55:48 GMT | Common Attacks on REST APIs and GraphQL APIs — With Tools & Learning Resources | Aniket Das | [Read More](https://medium.com/p/3c23c364467b) |
+| Sun, 07 Sep 2025 16:46:41 GMT | How We Stopped a DDoS Attack in 10 Minutes | Let's code | [Read More](https://medium.com/p/d73f74668e52) |
+| Sun, 07 Sep 2025 16:42:51 GMT | Modern Exploit Development with ROP (Return Oriented Programming | Esra Kayhan | [Read More](https://medium.com/p/38954b7feeaa) |
+| Sun, 07 Sep 2025 16:38:56 GMT | ChatGPT Agent Mode and Connectors: A Double-Edged Sword for Security | Shane Haynes | [Read More](https://medium.com/p/abe0d8630a94) |
+| Sun, 07 Sep 2025 16:37:29 GMT | CVE-2025–43300: The Zero-Click iPhone Hack That Came From a Photo | Khaleel Khan | [Read More](https://medium.com/p/30e83d4207f8) |
+| Sun, 07 Sep 2025 16:36:53 GMT | To Catch a Cyberstalker: The Final Chapter in the Sten Molin Harassment Story | Sara Hammel | [Read More](https://medium.com/p/3c76e79ff768) |
+| Sun, 07 Sep 2025 16:35:46 GMT | Making Internal to Outbound File Transfers and Reverse Shells Effortless with Ligolo-MP Redirectors | Spiros Pitikaris @cmpspiti | [Read More](https://medium.com/p/344636e610f6) |
+| Sun, 07 Sep 2025 16:35:19 GMT | PicoCTF — Vault Door 5 | EtcSec | [Read More](https://medium.com/p/49d1f93efe24) |
+| Sun, 07 Sep 2025 16:35:15 GMT | A Developer’s Crash Course in Cryptography, Part 3: Enigma | Steinwendner Matthias | [Read More](https://medium.com/p/ada2485d4293) |
 | Sun, 07 Sep 2025 16:29:24 GMT | Cybersecurity in India: From AI-Driven Attacks to the Quantum Future | Mayank Kumar | [Read More](https://medium.com/p/a70fe4000e65) |
 | Sun, 07 Sep 2025 16:28:32 GMT | Vulnerability Management Case Study: MS17–010 on Windows 7 (TryHackMe Blue) | Faysal Dhimbil | [Read More](https://medium.com/p/de51084c7345) |
 | Sun, 07 Sep 2025 16:24:10 GMT | My Journey of Finding Two P1 Vulnerabilities | Chip | [Read More](https://medium.com/p/ca9b3b4d36a4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 10:29:18 GMT | Malware Classification — TryHackMe Walkthough | Azim Uddin | [Read More](https://medium.com/p/8894b3be46bc) |
 | Sun, 07 Sep 2025 10:25:25 GMT | 10 PostgreSQL Features You Didn’t Know You Needed in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ec1bc83de734) |
 | Sun, 07 Sep 2025 10:21:59 GMT | Why Curiosity Might Be the Missing Piece in Building Skilled Resources Today | Ajay Nawani | [Read More](https://medium.com/p/2f66a9145b32) |
-| Sun, 07 Sep 2025 10:18:11 GMT | PostgreSQL vs MongoDB in 2025: Which One is the Real Winner? | Rizqi Mulki | [Read More](https://medium.com/p/a0bac9665ed5) |
-| Sun, 07 Sep 2025 10:16:34 GMT | MX Marks the Spot: Finding Hidden Weaknesses in Your Email Infrastructure | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1cd724a529c4) |
-| Sun, 07 Sep 2025 10:15:03 GMT | Cryptographic Solutions: From Classics to the Quantum Era\_(ツ)_/ | Lawliet Vladyslav | [Read More](https://medium.com/p/d81229ce3437) |
-| Sun, 07 Sep 2025 10:14:41 GMT | Why Most Apps Aren’t Secure: The Hidden Threat in Your Dependencies | Premsuthar | [Read More](https://medium.com/p/66d085055010) |
-| Sun, 07 Sep 2025 10:14:19 GMT | Why PostgreSQL is Beating MySQL in 2025: The Surprising Truth | Rizqi Mulki | [Read More](https://medium.com/p/13cd37e4fc85) |
-| Sun, 07 Sep 2025 10:11:37 GMT | Agent Tesla—Malware Analysis | R.D.Tarun | [Read More](https://medium.com/p/f5c595c11f91) |
-| Sun, 07 Sep 2025 10:08:39 GMT | AI Agent Security Architecture: Building Trustworthy Autonomous Systems | Arpit | [Read More](https://medium.com/p/d2792e0e4f60) |
-| Sun, 07 Sep 2025 10:02:37 GMT | Black Hat USA 2025 in the Age of AI (Part 1) | VXRL | [Read More](https://medium.com/p/67070c15df4b) |
-| Sun, 07 Sep 2025 10:00:15 GMT | TryHackMe - Warzone 2 — Network Alerts Triage Walkthrough | Furkanctiner | [Read More](https://medium.com/p/f451982eace7) |
-| Sun, 07 Sep 2025 09:57:36 GMT | CVE-2025–10013: i-Educar’s Export Feature Flaw Opens Door to Unauthorized Data Access | CVEHUB | [Read More](https://medium.com/p/bcb8127d6ca8) |
-| Sun, 07 Sep 2025 09:55:28 GMT | File Hunter — Hackviser.com (CTF Write UP) | Ziya Shalbuzov | [Read More](https://medium.com/p/b43db2b0e054) |
-| Sun, 07 Sep 2025 09:49:43 GMT | TubeScribe Récap. Hebdo (31 août - 7 septembre 2025) | David C. | [Read More](https://medium.com/p/2a9cf160a934) |
-| Sun, 07 Sep 2025 09:49:36 GMT | TubeScribe Weekly Digest (August 31 — September 7, 2025) | David C. | [Read More](https://medium.com/p/57843a7fd23b) |
-| Sun, 07 Sep 2025 09:47:39 GMT | Lets Hack Machine Which Has Madness Tryhackme Walkthroughs | Mainekhacker | [Read More](https://medium.com/p/afe08cc3f2f7) |
