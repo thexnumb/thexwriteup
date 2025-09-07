@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 20:30:10 GMT | Beyond the Uniforms (Stereotypes): Strengthening Security through Liaison and Effective… | Mohammad Faheem Khan Dawar | [Read More](https://medium.com/p/5a5693c0cd6b) |
+| Sun, 07 Sep 2025 20:25:16 GMT | Implementing Secure Mobile OTP in an ASP.NET Web API | R M Shahidul Islam Shahed | [Read More](https://medium.com/p/da56142a1701) |
+| Sun, 07 Sep 2025 20:24:32 GMT | Certified Red Team Analyst — Exam Review | The Darkarmy | [Read More](https://medium.com/p/135d4c7825bd) |
+| Sun, 07 Sep 2025 20:20:32 GMT | ️ Net Sec Challenge -TryHackMe Walkthrough (Junior Penetration Tester — PT1) | BXPLOIT | [Read More](https://medium.com/p/1a09566da489) |
+| Sun, 07 Sep 2025 20:13:51 GMT | Rooting Access on HackTheBox: A Step-by-Step Walkthrough | Kaplanibrahimm | [Read More](https://medium.com/p/0e47f5e831b4) |
+| Sun, 07 Sep 2025 20:12:43 GMT | Making a Malware Analysis Environment | William Boyd | [Read More](https://medium.com/p/7bb987a0abd5) |
 | Sun, 07 Sep 2025 20:08:07 GMT | The Linux Security Journey — IPv4 RPF (Reverse Path Filtering) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/14716f219f9d) |
 | Sun, 07 Sep 2025 20:01:40 GMT | Top 5 Security Mistakes in AWS (and How to Avoid Them) | Yusuf Yücel | [Read More](https://medium.com/p/fb83a53dd20b) |
 | Sun, 07 Sep 2025 19:56:04 GMT | AI In The Security World: From Black Mirror Fears to Humanitarian Realities | Mohammad Faheem Khan Dawar | [Read More](https://medium.com/p/90ba83396073) |
+| Sun, 07 Sep 2025 19:55:51 GMT | Mastering Cybersecurity in 2025: Hands-On Skills You Need (and Where to Practice Them) | Richard Wilder | [Read More](https://medium.com/p/026a5c0b6394) |
 | Sun, 07 Sep 2025 19:55:08 GMT | MY FIRST STEPS IN CYBERSECURITY | John Mark | [Read More](https://medium.com/p/f7951052b67a) |
 | Sun, 07 Sep 2025 19:42:59 GMT | Is artificial intelligence creating a more aware or more isolated generation? | Sidialtos | [Read More](https://medium.com/p/3ad6ca6e4359) |
 | Sun, 07 Sep 2025 19:40:01 GMT | My Journey to Becoming an INE Junior Penetration Tester (eJPT) Certified️‍♂️ | Rishikesh Vishnu Jadhav | [Read More](https://medium.com/p/c1a99adcf092) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 15:29:10 GMT | PCRC ONDO STATE WARNS OMOYELE SOWORE: RETRACT BASELESS ALLEGATIONS OR FACE THE LAW | Ondo State Pcrc | [Read More](https://medium.com/p/6ff80fe0b47a) |
 | Sun, 07 Sep 2025 15:25:53 GMT | LocalGuard: A Plant-Inspired Immune System for Host Defense | Koshy | [Read More](https://medium.com/p/0e6e6187dd5c) |
 | Sun, 07 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 7, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/475f9327f914) |
-| Sun, 07 Sep 2025 15:11:58 GMT | Corporate Greed Chronicles: Oracle Running Over Its Own People | Namir Sagheenanajar | [Read More](https://medium.com/p/af57c2555ce3) |
-| Sun, 07 Sep 2025 15:11:11 GMT | AI in Cybersecurity Is About Discipline, Not Hype | Chidi Emetanjo | [Read More](https://medium.com/p/d7742b8de8b7) |
-| Sun, 07 Sep 2025 15:08:50 GMT | Dissecting HackTheBox Pro Labs: The Art of Attacking Enterprise Networks | 0xN1gh7xW1z4rd | [Read More](https://medium.com/p/4f4e5dd1fe42) |
-| Sun, 07 Sep 2025 15:04:35 GMT | Internal — TryHackMe (PT-BR) | Murilo V. N. Mazzilli | [Read More](https://medium.com/p/064ef3016ef2) |
-| Sun, 07 Sep 2025 15:04:23 GMT | Demystifying Blockchain Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/994ac65a8ae7) |
-| Sun, 07 Sep 2025 14:57:58 GMT | Whole conclusion about Linear regression | Lantera | [Read More](https://medium.com/p/f4a9a0acb767) |
-| Sun, 07 Sep 2025 14:55:30 GMT | From Convenience to Catastrophe: A Cloud Misconfiguration Horror Story | Aj | [Read More](https://medium.com/p/bfb0639529f1) |
