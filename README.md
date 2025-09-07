@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 11:04:28 GMT | The Ghost in the Machine: How a Single Flag Can Give Attackers a Shell on Your Node.js Server | Anant Joshi | [Read More](https://medium.com/p/dfe9a6155387) |
+| Sun, 07 Sep 2025 11:00:12 GMT | NETWORKING BASICS — ALL YOU NEED TO KNOW ABOUT NETWORKING EASILY | Muhammed Afnaan | [Read More](https://medium.com/p/c058f685f970) |
+| Sun, 07 Sep 2025 10:59:39 GMT | ThunderCipher-[ | Bhuwan Patidar | [Read More](https://medium.com/p/07f38298cf0a) |
+| Sun, 07 Sep 2025 10:56:09 GMT | Sharim Solutions | Mathiaskerry | [Read More](https://medium.com/p/b23721136bd1) |
+| Sun, 07 Sep 2025 10:43:14 GMT | The Walking Woundead | Sébastien ️ | [Read More](https://medium.com/p/8ab29e934c51) |
+| Sun, 07 Sep 2025 10:33:52 GMT | ️ PS Eclipse - TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d691bf004286) |
+| Sun, 07 Sep 2025 10:33:48 GMT | Interview question: “How to Secure Android Applications and Build Apps for a Billion Users” | Mukesh Yadav | [Read More](https://medium.com/p/babdb286db13) |
+| Sun, 07 Sep 2025 10:29:18 GMT | Malware Classification — TryHackMe Walkthough | Azim Uddin | [Read More](https://medium.com/p/8894b3be46bc) |
 | Sun, 07 Sep 2025 10:25:25 GMT | 10 PostgreSQL Features You Didn’t Know You Needed in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ec1bc83de734) |
 | Sun, 07 Sep 2025 10:21:59 GMT | Why Curiosity Might Be the Missing Piece in Building Skilled Resources Today | Ajay Nawani | [Read More](https://medium.com/p/2f66a9145b32) |
 | Sun, 07 Sep 2025 10:18:11 GMT | PostgreSQL vs MongoDB in 2025: Which One is the Real Winner? | Rizqi Mulki | [Read More](https://medium.com/p/a0bac9665ed5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 05:45:49 GMT | Why Desktop Apps Still Get Hacked (and How to Build a Security Testing Strategy That Actually… | Sajjad Hussain | [Read More](https://medium.com/p/a07d69a28087) |
 | Sun, 07 Sep 2025 05:45:47 GMT | Phones for Students Comparison 2025: Budget vs Premium Options | Kanyarat Suksawat | [Read More](https://medium.com/p/d1b4793bd0e0) |
 | Sun, 07 Sep 2025 05:42:25 GMT | A Ruler for Consciousness: A New Theory to Finally Quantify Subjective Experience | handman | [Read More](https://medium.com/p/1fc2e7daa8ec) |
-| Sun, 07 Sep 2025 05:42:24 GMT | Building Zero Trust Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/fd7690653841) |
-| Sun, 07 Sep 2025 05:40:24 GMT | AWS Root User Security — the only guide you need | Cloud Security Masterclass | [Read More](https://medium.com/p/c8d5fc0f12ae) |
-| Sun, 07 Sep 2025 05:39:03 GMT | Building Zero Trust Security and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/4df7cdab9eff) |
-| Sun, 07 Sep 2025 05:33:42 GMT | AWS Policy Evaluation logic for the five AWS policies made simple | Cloud Security Masterclass | [Read More](https://medium.com/p/5aebcfa42506) |
-| Sun, 07 Sep 2025 05:23:52 GMT | Resurgence of Cyberattacks on the Country’s Communication Infrastructure | Balki Maharaj | [Read More](https://medium.com/p/df5f7607ba7b) |
-| Sun, 07 Sep 2025 05:23:39 GMT | AWS IAM Session Policy: What You Need To Know | Cloud Security Masterclass | [Read More](https://medium.com/p/05b8c5208abe) |
-| Sun, 07 Sep 2025 05:17:46 GMT | The Guide to Service Control Policies (SCPs) | Cloud Security Masterclass | [Read More](https://medium.com/p/e6a23501549f) |
-| Sun, 07 Sep 2025 05:13:58 GMT | Web Design Challenges in 2025 | Rishikumar Yadav | [Read More](https://medium.com/p/6006441813a7) |
