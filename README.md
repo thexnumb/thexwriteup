@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 20:08:07 GMT | The Linux Security Journey — IPv4 RPF (Reverse Path Filtering) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/14716f219f9d) |
+| Sun, 07 Sep 2025 20:01:40 GMT | Top 5 Security Mistakes in AWS (and How to Avoid Them) | Yusuf Yücel | [Read More](https://medium.com/p/fb83a53dd20b) |
+| Sun, 07 Sep 2025 19:56:04 GMT | AI In The Security World: From Black Mirror Fears to Humanitarian Realities | Mohammad Faheem Khan Dawar | [Read More](https://medium.com/p/90ba83396073) |
+| Sun, 07 Sep 2025 19:55:08 GMT | MY FIRST STEPS IN CYBERSECURITY | John Mark | [Read More](https://medium.com/p/f7951052b67a) |
+| Sun, 07 Sep 2025 19:42:59 GMT | Is artificial intelligence creating a more aware or more isolated generation? | Sidialtos | [Read More](https://medium.com/p/3ad6ca6e4359) |
+| Sun, 07 Sep 2025 19:40:01 GMT | My Journey to Becoming an INE Junior Penetration Tester (eJPT) Certified️‍♂️ | Rishikesh Vishnu Jadhav | [Read More](https://medium.com/p/c1a99adcf092) |
 | Sun, 07 Sep 2025 19:35:56 GMT | How I Found a High-Severity IDOR Without Using Any Proxy Tools | Yusuf | [Read More](https://medium.com/p/8a6d2d09efc7) |
+| Sun, 07 Sep 2025 19:34:16 GMT | EDITOR — HTB | H3XH7WK | [Read More](https://medium.com/p/110a788eb96d) |
 | Sun, 07 Sep 2025 19:25:18 GMT | Week 8 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/77c6e4d588c5) |
 | Sun, 07 Sep 2025 19:20:08 GMT | Ghost Jobs Everywhere | Miguel Norberto | [Read More](https://medium.com/p/da133ac95acb) |
 | Sun, 07 Sep 2025 19:11:51 GMT | Hack The Box — Synced (rsync) | Adhishri Kothiyal | [Read More](https://medium.com/p/26dbb97cbfab) |
+| Sun, 07 Sep 2025 19:05:31 GMT | JWT Hacking: Broken Access Control Exploit. | Richard Ndung'u | [Read More](https://medium.com/p/6435e7855ec0) |
 | Sun, 07 Sep 2025 19:04:54 GMT | Threat Modeling with STRIDE: A Practical Walkthrough | Janith Malinga | [Read More](https://medium.com/p/93dfd8f23b9b) |
 | Sun, 07 Sep 2025 19:02:32 GMT | The Auth Apocalypse: Episode 5—The Cookie Thief’s Favourite Snack | Yamini Yadav | [Read More](https://medium.com/p/6b32dcc8fe6d) |
 | Sun, 07 Sep 2025 19:02:20 GMT | Why “Unhackable” Systems Don’t Exist: Lessons from the Frontlines | Aj | [Read More](https://medium.com/p/6fd517d117ba) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 15:04:23 GMT | Demystifying Blockchain Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/994ac65a8ae7) |
 | Sun, 07 Sep 2025 14:57:58 GMT | Whole conclusion about Linear regression | Lantera | [Read More](https://medium.com/p/f4a9a0acb767) |
 | Sun, 07 Sep 2025 14:55:30 GMT | From Convenience to Catastrophe: A Cloud Misconfiguration Horror Story | Aj | [Read More](https://medium.com/p/bfb0639529f1) |
-| Sun, 07 Sep 2025 14:45:13 GMT | The Report — Blue Team Labs Online | Juan Alexander Alejo | [Read More](https://medium.com/p/734e1d5bc7fe) |
-| Sun, 07 Sep 2025 14:36:01 GMT | The Best Investment for the Coming Years: Guarding Your Home | Xiexiange | [Read More](https://medium.com/p/66f3d7bf45fe) |
-| Sun, 07 Sep 2025 14:34:19 GMT | Learn Sigma: LetsDefend Challenge Walkthrough | Abdülselam İsmail | [Read More](https://medium.com/p/197986f31b7e) |
-| Sun, 07 Sep 2025 14:25:34 GMT | Revolutionizing Security Incident Response: A Multi-Headed AI Approach with Continuous… | Elias Andrade | [Read More](https://medium.com/p/61bac566950d) |
-| Sun, 07 Sep 2025 14:20:56 GMT | Building TSP: Creating Self-Verifying Digital Artifacts | Vlad Dunaev | [Read More](https://medium.com/p/3b253c3d26ba) |
-| Sun, 07 Sep 2025 14:17:56 GMT | The Multi-Purpose Public/Private Person: How Google AI Spins Away Accountability | Reflections of the Count | [Read More](https://medium.com/p/9c0eefbe10b4) |
-| Sun, 07 Sep 2025 14:11:31 GMT | WireShark ile Ağ Analizi: Siber Güvenlikte Güçlü Araç | idriscelik | [Read More](https://medium.com/p/b62ee64a0cbe) |
-| Sun, 07 Sep 2025 14:07:53 GMT | Vibe Hacking: The AI-Powered Cyber Threat You Need to Know About | Nkanyimalunga | [Read More](https://medium.com/p/cb35be56faa6) |
