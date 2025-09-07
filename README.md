@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 16:10:43 GMT | SOC Reports Demystified: Types, Criteria, and Audit Roadmap | Wiran Larbi | [Read More](https://medium.com/p/b0725f9cc878) |
+| Sun, 07 Sep 2025 16:09:44 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/103cc137bcc0) |
+| Sun, 07 Sep 2025 16:03:47 GMT | [Dia 01] Hacker Fest 2019 — Walkthrough | Luan Nutels - volksec | [Read More](https://medium.com/p/9e01a7a96c11) |
+| Sun, 07 Sep 2025 15:59:12 GMT | How to Bulk Upload URLs in NotebookLM for Faster Source Collection | www.OneCoolTip.com | [Read More](https://medium.com/p/862453ba715d) |
+| Sun, 07 Sep 2025 15:57:41 GMT | Forget the 12 Words: Why Crypto Scares Users Away Instead of Drawing Them In | Mart0 | [Read More](https://medium.com/p/c9b3e5464e1f) |
+| Sun, 07 Sep 2025 15:52:47 GMT | Building Trustworthy AI: Contextual Grounding vs Automated Reasoning in Amazon Bedrock | Shailesh Kumar Mishra | [Read More](https://medium.com/p/42a0690f8da6) |
+| Sun, 07 Sep 2025 15:51:38 GMT | The Real Answer to Love: It’s All in the Details | Austi Gene | [Read More](https://medium.com/p/5fbe5bf6f86f) |
+| Sun, 07 Sep 2025 15:51:11 GMT | Friendly3 - HackMyVM writeup | Cillia | [Read More](https://medium.com/p/ddc8be27e919) |
+| Sun, 07 Sep 2025 15:46:41 GMT | Cybersecurity, AI and Cognitive Load | Helen Patton | [Read More](https://medium.com/p/f8907df1c185) |
+| Sun, 07 Sep 2025 15:39:41 GMT | Why WordPress Security Audits Should Never Be an Afterthought | Abdul Mubin | [Read More](https://medium.com/p/5017163a88e6) |
+| Sun, 07 Sep 2025 15:36:42 GMT | Unlocking Secrets: Understanding and Preventing IDOR Vulnerability | Neel Sharma | [Read More](https://medium.com/p/3f73e142be3f) |
+| Sun, 07 Sep 2025 15:35:33 GMT | TryHackMe Year of the Rabbit Walkthrough: Easy CTF Guide for FTP, SSH, and Privilege Escalation | Prajwal | [Read More](https://medium.com/p/5e3217ccbfcb) |
+| Sun, 07 Sep 2025 15:33:42 GMT | Build VM Walkthrough | Spookz | [Read More](https://medium.com/p/b28c89d45c63) |
+| Sun, 07 Sep 2025 15:33:14 GMT | Environment HTB Walkthrough | Qinncade | [Read More](https://medium.com/p/a4e3d90d3a48) |
+| Sun, 07 Sep 2025 15:31:41 GMT | Fine-Grained Caching: ETags, Tokens & Trust | Thinking Loop | [Read More](https://medium.com/p/67fb87c5f498) |
+| Sun, 07 Sep 2025 15:29:10 GMT | PCRC ONDO STATE WARNS OMOYELE SOWORE: RETRACT BASELESS ALLEGATIONS OR FACE THE LAW | Ondo State Pcrc | [Read More](https://medium.com/p/6ff80fe0b47a) |
 | Sun, 07 Sep 2025 15:25:53 GMT | LocalGuard: A Plant-Inspired Immune System for Host Defense | Koshy | [Read More](https://medium.com/p/0e6e6187dd5c) |
 | Sun, 07 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 7, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/475f9327f914) |
 | Sun, 07 Sep 2025 15:11:58 GMT | Corporate Greed Chronicles: Oracle Running Over Its Own People | Namir Sagheenanajar | [Read More](https://medium.com/p/af57c2555ce3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 09:37:24 GMT | Müşteri Hizmetlerinde Yapay Zekanın Yarattığı Devrim | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/40050ff0cce3) |
 | Sun, 07 Sep 2025 09:36:42 GMT | TryHackMe - Malware Classification — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d5f6feba36f9) |
 | Sun, 07 Sep 2025 09:36:08 GMT | Gaining Admin Access by Modifying a Hidden Parameter in User Profile | Ali Ziro | [Read More](https://medium.com/p/c491bee0cabd) |
-| Sun, 07 Sep 2025 09:27:36 GMT | DockerLabs Writeup — WalkingCMS (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/529568743b0b) |
-| Sun, 07 Sep 2025 09:26:29 GMT | The role of Validators in blockchain security: Guardians of decentralized networks | ChainbountyX | [Read More](https://medium.com/p/d73bf950270e) |
-| Sun, 07 Sep 2025 09:21:44 GMT | 5 Cybersecurity Tools Every Beginner Should Know | Geetorus | [Read More](https://medium.com/p/d6cfdb133039) |
-| Sun, 07 Sep 2025 09:15:33 GMT | From Chemical Engineering to Cloud Security: My Career Pivot at 29 | Teererai Kagura | [Read More](https://medium.com/p/a3ef4c5e7a0b) |
-| Sun, 07 Sep 2025 09:14:00 GMT | ESP32 Review 2025–26 — Cheap Hacker Toy or Just Another Chip? | Satyam Pathania | [Read More](https://medium.com/p/85d71c68b297) |
-| Sun, 07 Sep 2025 09:12:15 GMT | Using HTTPS in Web Development: Why It’s Important | Rohit Kuwar | [Read More](https://medium.com/p/e74de15ec295) |
-| Sun, 07 Sep 2025 09:02:01 GMT | How can you tell if you love the person or love the feeling they give you? | Abel | [Read More](https://medium.com/p/e00e8258da62) |
-| Sun, 07 Sep 2025 09:00:16 GMT | Should You Cache JWT Tokens in Spring Boot? Benefits, Risks, and Detailed Insights | Anh Trần Tuấn | [Read More](https://medium.com/p/5abd197e9459) |
-| Sun, 07 Sep 2025 09:00:12 GMT | Should You Cache JWT Tokens in Spring Boot? Benefits, Risks, and Detailed Insights | Anh Trần Tuấn | [Read More](https://medium.com/p/2ccbb460324a) |
-| Sun, 07 Sep 2025 08:59:47 GMT | What’s the Difference Between Hashing, Encoding, and Encryption? | Krishnakumar Yadav | [Read More](https://medium.com/p/ea99340590d1) |
-| Sun, 07 Sep 2025 08:59:14 GMT | EVP Market Review: How I Recovered My Lost Funds. | Admid Repulsive | [Read More](https://medium.com/p/6c0e5fab5fa4) |
-| Sun, 07 Sep 2025 08:57:07 GMT | AI & Code: Trust It? Or Treat It Like a Leaky Faucet? | Authlyn | [Read More](https://medium.com/p/0177dd977b70) |
-| Sun, 07 Sep 2025 08:54:49 GMT | TryHackMe : WhyHackMe writeup | Sadineni Sai Sushanth | [Read More](https://medium.com/p/de64bddd68c8) |
-| Sun, 07 Sep 2025 08:51:39 GMT | How to Write Pen-Test Reports? | Iram Jack | [Read More](https://medium.com/p/8c01dde0e275) |
-| Sun, 07 Sep 2025 08:48:15 GMT | How Cybercriminals Stole Big – Just by Knowing the Phone Number | David SEHYEON Baek | [Read More](https://medium.com/p/807de217ad52) |
-| Sun, 07 Sep 2025 08:47:06 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/ef51c26a06ce) |
