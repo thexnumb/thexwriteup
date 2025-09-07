@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 19:35:56 GMT | How I Found a High-Severity IDOR Without Using Any Proxy Tools | Yusuf | [Read More](https://medium.com/p/8a6d2d09efc7) |
+| Sun, 07 Sep 2025 19:25:18 GMT | Week 8 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/77c6e4d588c5) |
+| Sun, 07 Sep 2025 19:20:08 GMT | Ghost Jobs Everywhere | Miguel Norberto | [Read More](https://medium.com/p/da133ac95acb) |
+| Sun, 07 Sep 2025 19:11:51 GMT | Hack The Box — Synced (rsync) | Adhishri Kothiyal | [Read More](https://medium.com/p/26dbb97cbfab) |
 | Sun, 07 Sep 2025 19:04:54 GMT | Threat Modeling with STRIDE: A Practical Walkthrough | Janith Malinga | [Read More](https://medium.com/p/93dfd8f23b9b) |
 | Sun, 07 Sep 2025 19:02:32 GMT | The Auth Apocalypse: Episode 5—The Cookie Thief’s Favourite Snack | Yamini Yadav | [Read More](https://medium.com/p/6b32dcc8fe6d) |
 | Sun, 07 Sep 2025 19:02:20 GMT | Why “Unhackable” Systems Don’t Exist: Lessons from the Frontlines | Aj | [Read More](https://medium.com/p/6fd517d117ba) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 14:17:56 GMT | The Multi-Purpose Public/Private Person: How Google AI Spins Away Accountability | Reflections of the Count | [Read More](https://medium.com/p/9c0eefbe10b4) |
 | Sun, 07 Sep 2025 14:11:31 GMT | WireShark ile Ağ Analizi: Siber Güvenlikte Güçlü Araç | idriscelik | [Read More](https://medium.com/p/b62ee64a0cbe) |
 | Sun, 07 Sep 2025 14:07:53 GMT | Vibe Hacking: The AI-Powered Cyber Threat You Need to Know About | Nkanyimalunga | [Read More](https://medium.com/p/cb35be56faa6) |
-| Sun, 07 Sep 2025 14:06:51 GMT | The ALPHV/BlackCat Ransomware Strike on Change Healthcare: A $22 Million Exit Scam Shakes U.S. | Sarfraj Ahamed S | [Read More](https://medium.com/p/886b814b6f57) |
-| Sun, 07 Sep 2025 14:05:35 GMT | Financial Literacy in the Age of AI. | Marica | [Read More](https://medium.com/p/8057b5950af4) |
-| Sun, 07 Sep 2025 14:04:54 GMT | Why IT Security & Compliance Are Critical for Modern Businesses - BhavPro | BhavPro | [Read More](https://medium.com/p/092ac9a16ebc) |
-| Sun, 07 Sep 2025 13:57:44 GMT | What is Wireshark and What Are Its Uses? | Safe Tech Hacks | [Read More](https://medium.com/p/e9d084cab622) |
