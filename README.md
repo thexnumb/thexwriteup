@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Sep 2025 22:08:59 GMT | Pickle Rick TryHackMe Walkthrough (Junior Penetration Tester — PT1) | BXPLOIT | [Read More](https://medium.com/p/2cfd8712e2f0) |
+| Sun, 07 Sep 2025 21:58:58 GMT | MOI-CTF: predictable writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/bce2fcebbc2f) |
+| Sun, 07 Sep 2025 21:44:15 GMT | Hunting Bugs, Learning Fast | Mehdi Ben Fredj | [Read More](https://medium.com/p/484feb15d4d3) |
 | Sun, 07 Sep 2025 21:30:52 GMT | When Logic Meets Authentication — Orphaned Accounts to Full Control | Dr Rmdn | [Read More](https://medium.com/p/6140143e1d20) |
 | Sun, 07 Sep 2025 21:09:53 GMT | How to Find a Website’s Real IP Behind Cloudflare | Ibtissam hammadi | [Read More](https://medium.com/p/695dd179c977) |
 | Sun, 07 Sep 2025 21:04:51 GMT | My Mindset behind being an Emotionally Intelligent Woman as a College Student. | Claire.B612 | [Read More](https://medium.com/p/2829bb6d3534) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 15:59:12 GMT | How to Bulk Upload URLs in NotebookLM for Faster Source Collection | www.OneCoolTip.com | [Read More](https://medium.com/p/862453ba715d) |
 | Sun, 07 Sep 2025 15:57:41 GMT | Forget the 12 Words: Why Crypto Scares Users Away Instead of Drawing Them In | Mart0 | [Read More](https://medium.com/p/c9b3e5464e1f) |
 | Sun, 07 Sep 2025 15:52:47 GMT | Building Trustworthy AI: Contextual Grounding vs Automated Reasoning in Amazon Bedrock | Shailesh Kumar Mishra | [Read More](https://medium.com/p/42a0690f8da6) |
-| Sun, 07 Sep 2025 15:51:38 GMT | The Real Answer to Love: It’s All in the Details | Austi Gene | [Read More](https://medium.com/p/5fbe5bf6f86f) |
-| Sun, 07 Sep 2025 15:51:11 GMT | Friendly3 - HackMyVM writeup | Cillia | [Read More](https://medium.com/p/ddc8be27e919) |
-| Sun, 07 Sep 2025 15:46:41 GMT | Cybersecurity, AI and Cognitive Load | Helen Patton | [Read More](https://medium.com/p/f8907df1c185) |
