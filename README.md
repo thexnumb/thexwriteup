@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 17:39:27 GMT | P.O.O — Part 2: Huh?! | XOR-Hacks | [Read More](https://medium.com/p/2bc580f60964) |
+| Mon, 08 Sep 2025 17:37:32 GMT | What the f*ck is happening with the airplanes? | Danisa Jokanovich | [Read More](https://medium.com/p/8ddb3da69a9b) |
+| Mon, 08 Sep 2025 17:33:59 GMT | Will AI Take Over Cybersecurity? Understanding the Balance Between Automation and Human Expertise | SafeAeon Inc. | [Read More](https://medium.com/p/0dd46ebd0bd5) |
+| Mon, 08 Sep 2025 17:28:31 GMT | Understanding IEEE 802 Wireless Standards and 4-way handshake in WPA/WPA-2 | Sadineni Sai Sushanth | [Read More](https://medium.com/p/ebc907d6b1e5) |
+| Mon, 08 Sep 2025 17:24:00 GMT | Basic linux command you should know !! | Cyberhamiii | [Read More](https://medium.com/p/205bf6841f07) |
+| Mon, 08 Sep 2025 17:22:27 GMT | Exploiting HTTP Parser Inconsistencies | Vaibhav Mohite | [Read More](https://medium.com/p/ab766c8a433d) |
+| Mon, 08 Sep 2025 17:20:21 GMT | My Daily Cyber Security Checklist | Tech Monk | [Read More](https://medium.com/p/27c91dda6ce9) |
+| Mon, 08 Sep 2025 17:17:56 GMT | What Is Cybersecurity? The Powerful Guide in 5 Topics | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/ff3390c6d35b) |
+| Mon, 08 Sep 2025 17:15:11 GMT | How Ransomware Targets Enterprise Networks — and How to Defend Against It | Ehsanm135 | [Read More](https://medium.com/p/77f7cd459daf) |
+| Mon, 08 Sep 2025 17:11:00 GMT | CodePartTwo — HTB | H3XH7WK | [Read More](https://medium.com/p/8d417be90299) |
 | Mon, 08 Sep 2025 17:09:17 GMT | Understanding HTTP Parser Inconsistencies: How They Can Break Your Security | Vaibhav Mohite | [Read More](https://medium.com/p/57fcf6c2f8aa) |
 | Mon, 08 Sep 2025 17:05:07 GMT | The Breach I’ll Never Forget | Shahzaib | [Read More](https://medium.com/p/dc5d04027fa2) |
 | Mon, 08 Sep 2025 17:01:09 GMT | Designing Cloud Computing Architecture for Vidlytics Applications | Zifa Tea Azzahra | [Read More](https://medium.com/p/a01552fbbe90) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 12:24:30 GMT | Von Neumann’s Prophecy and the True Nature of the Singularity | Steven De Costa | [Read More](https://medium.com/p/c0669711de8b) |
 | Mon, 08 Sep 2025 12:15:24 GMT | Not so Scary: Aotearoa’s Littlest Locals | Eli Skinner | [Read More](https://medium.com/p/5dde968171c7) |
 | Mon, 08 Sep 2025 12:13:25 GMT | Learning Basic Cryptography in Rust: Implementing Transposition Ciphers | KyungHyun | [Read More](https://medium.com/p/e62709a97f7c) |
-| Mon, 08 Sep 2025 12:03:04 GMT | iCloud Calendar Phishing: The Apple Scam You Didn’t See Coming | TheReviewHive | [Read More](https://medium.com/p/e568fcb9146d) |
-| Mon, 08 Sep 2025 12:00:21 GMT | How Cyber Security Solutions Prevent Data Breaches and Ransomware Attacks | Alex | [Read More](https://medium.com/p/7e8cf8655ed1) |
-| Mon, 08 Sep 2025 11:59:59 GMT | Prefix Code Design for a Memoryless Source via Kraft Algorithm | Leandro Rodrigues | [Read More](https://medium.com/p/7c0620a6d07b) |
-| Mon, 08 Sep 2025 11:57:36 GMT | My Dark Web Monitoring Project: Onion URL Scan | Enitan Ogungbade | [Read More](https://medium.com/p/ce52539455b1) |
-| Mon, 08 Sep 2025 11:56:13 GMT | The generative AI boom creates new privacy and security risks | Saravanan.R | [Read More](https://medium.com/p/1b5d4c42949d) |
-| Mon, 08 Sep 2025 11:53:29 GMT | Can Drosera Network make billions of users trust web3? | Cybertank | [Read More](https://medium.com/p/4090a793f150) |
-| Mon, 08 Sep 2025 11:49:29 GMT | Securing Abia’s Future: How Softicu’s Cybersecurity Course Is Leading Digital Protection | Johnmutaa | [Read More](https://medium.com/p/ac3d378df358) |
-| Mon, 08 Sep 2025 11:48:17 GMT | CVE-2025–58782: JNDI Injection in Apache Jackrabbit Opens the Door to Remote Code Execution | gm0 | [Read More](https://medium.com/p/ba6e47ae4d38) |
-| Mon, 08 Sep 2025 11:42:15 GMT | ️ Web Shells: PHP Shell Usage and Detection | Esra Kayhan | [Read More](https://medium.com/p/3388b9532c63) |
-| Mon, 08 Sep 2025 11:40:24 GMT | Colleagues, implementing a well-defined, forward-thinking career development plan can boost your… | Franklin Rhodes | [Read More](https://medium.com/p/e2cc7d993f45) |
