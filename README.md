@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 04:31:49 GMT | Django Best Practices for Scalable and Maintainable Web Applications in 2025 | Monil Saraswat | [Read More](https://medium.com/p/32ab1ed53f88) |
+| Mon, 08 Sep 2025 04:31:44 GMT | When Support Portals Bite Back: DOM-XSS in a Helpcenter | Devansh Patel | [Read More](https://medium.com/p/4ac7e154ce4e) |
+| Mon, 08 Sep 2025 04:26:55 GMT | Write Up Lab: SQL injection attack, listing the database contents on Oracle | Velskynotfound | [Read More](https://medium.com/p/9fab1f37d9c4) |
+| Mon, 08 Sep 2025 04:17:13 GMT | Certificated (ImaginaryCTF) | Michael Elfauz | [Read More](https://medium.com/p/bd1ba72c7ca1) |
 | Mon, 08 Sep 2025 04:14:23 GMT | Website Security for Small Businesses: How to Protect Your Online Presence from Cyber Attacks | Negar Rezaee Yekta | [Read More](https://medium.com/p/ba91bacca311) |
 | Mon, 08 Sep 2025 04:10:15 GMT | Cloud Security: Design Principles and Tools for a Safer Cloud | Geeky Vartika | [Read More](https://medium.com/p/5f69b803304f) |
 | Mon, 08 Sep 2025 04:01:43 GMT | Cybersecurity in the Age of Remote Work: Protecting Your Team Online (2025 Edition) | Secventra | [Read More](https://medium.com/p/71b4c70459cb) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 20:12:43 GMT | Making a Malware Analysis Environment | William Boyd | [Read More](https://medium.com/p/7bb987a0abd5) |
 | Sun, 07 Sep 2025 20:08:07 GMT | The Linux Security Journey — IPv4 RPF (Reverse Path Filtering) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/14716f219f9d) |
 | Sun, 07 Sep 2025 20:01:40 GMT | Top 5 Security Mistakes in AWS (and How to Avoid Them) | Yusuf Yücel | [Read More](https://medium.com/p/fb83a53dd20b) |
-| Sun, 07 Sep 2025 19:56:04 GMT | AI In The Security World: From Black Mirror Fears to Humanitarian Realities | Mohammad Faheem Khan Dawar | [Read More](https://medium.com/p/90ba83396073) |
-| Sun, 07 Sep 2025 19:55:51 GMT | Mastering Cybersecurity in 2025: Hands-On Skills You Need (and Where to Practice Them) | Richard Wilder | [Read More](https://medium.com/p/026a5c0b6394) |
-| Sun, 07 Sep 2025 19:55:08 GMT | MY FIRST STEPS IN CYBERSECURITY | John Mark | [Read More](https://medium.com/p/f7951052b67a) |
-| Sun, 07 Sep 2025 19:42:59 GMT | Is artificial intelligence creating a more aware or more isolated generation? | Sidialtos | [Read More](https://medium.com/p/3ad6ca6e4359) |
