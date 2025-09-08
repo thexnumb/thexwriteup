@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 22:52:04 GMT | Bluetooth Hacking | Hasanzade Hasan | [Read More](https://medium.com/p/6fa7dbf6e14e) |
+| Mon, 08 Sep 2025 22:48:15 GMT | *Packet Meditation: A Polyglot Pipeline for Network Introspection* | K.E.B | [Read More](https://medium.com/p/95eff6a6c17e) |
+| Mon, 08 Sep 2025 22:46:59 GMT | Security Alert: Massive Supply Chain Attack on npm ⚠️ | Mike (sl0th0x87) | [Read More](https://medium.com/p/a06dbfb15007) |
+| Mon, 08 Sep 2025 22:42:33 GMT | Designing Tech for Humans | Matthew.Rosenquist | [Read More](https://medium.com/p/faa5e972ed86) |
+| Mon, 08 Sep 2025 22:41:43 GMT | How to add new users to Active Directory | Ryanchanest | [Read More](https://medium.com/p/bb7d7ff613c7) |
+| Mon, 08 Sep 2025 22:34:38 GMT | Intel101 Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/2e09a0da5701) |
+| Mon, 08 Sep 2025 22:30:52 GMT | Cybersecurity Basics Everyone Should Know in 2025 | AbdelAziz Mahmud | [Read More](https://medium.com/p/8892d472d3f1) |
+| Mon, 08 Sep 2025 22:29:22 GMT | 5 VPNs You Shouldn’t Trust (and How to Spot the Red Flags) | BiyteLüm | [Read More](https://medium.com/p/2bbb45a513ea) |
 | Mon, 08 Sep 2025 22:24:57 GMT | Detecting NPM Malicious Packages in Your Local Repositories / App with Ripgrep & What To Do Upon… | Lewiswambugu | [Read More](https://medium.com/p/804f12791972) |
 | Mon, 08 Sep 2025 22:24:54 GMT | The skill of human interaction | Kattreeina | [Read More](https://medium.com/p/4f0beaa6ef54) |
 | Mon, 08 Sep 2025 22:23:55 GMT | Hijacking Windows Processes: A Step-By-Step Guide | Itz.sanskarr | [Read More](https://medium.com/p/4a1d3e234da4) |
@@ -72,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 18:48:45 GMT | Momentum2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/af4c114c9de3) |
 | Mon, 08 Sep 2025 18:47:18 GMT | Clickjacking: The Invisible Threat Hiding in Plain Sight | pratham verma | [Read More](https://medium.com/p/bb9e18a014c6) |
 | Mon, 08 Sep 2025 18:45:41 GMT | Locking Down the Smart World: Simple IoT Security Tips | Kavinda Mihiran | [Read More](https://medium.com/p/bb860890cd12) |
+| Mon, 08 Sep 2025 18:44:18 GMT | IT-Grundschutz++ vs Kompendium: BSI Modernisierung komplett erklärt | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/ec49bbc56fb9) |
 | Mon, 08 Sep 2025 18:43:31 GMT | The Linux Security Journey — Reset Attack Mitigation | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/aa704a09a706) |
 | Mon, 08 Sep 2025 18:42:06 GMT | Analisador de Dependências na sua CLI Dev: Conheça a Vulnify | giozadi | [Read More](https://medium.com/p/ffae9e1e3730) |
 | Mon, 08 Sep 2025 18:41:39 GMT | Structural Battery Composites | Lazarin Kroni | [Read More](https://medium.com/p/483612fa1136) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 17:22:27 GMT | Exploiting HTTP Parser Inconsistencies | Vaibhav Mohite | [Read More](https://medium.com/p/ab766c8a433d) |
 | Mon, 08 Sep 2025 17:20:21 GMT | My Daily Cyber Security Checklist | Tech Monk | [Read More](https://medium.com/p/27c91dda6ce9) |
 | Mon, 08 Sep 2025 17:17:56 GMT | What Is Cybersecurity? The Powerful Guide in 5 Topics | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/ff3390c6d35b) |
-| Mon, 08 Sep 2025 17:15:11 GMT | How Ransomware Targets Enterprise Networks — and How to Defend Against It | Ehsanm135 | [Read More](https://medium.com/p/77f7cd459daf) |
-| Mon, 08 Sep 2025 17:11:00 GMT | CodePartTwo — HTB | H3XH7WK | [Read More](https://medium.com/p/8d417be90299) |
-| Mon, 08 Sep 2025 17:09:17 GMT | Understanding HTTP Parser Inconsistencies: How They Can Break Your Security | Vaibhav Mohite | [Read More](https://medium.com/p/57fcf6c2f8aa) |
-| Mon, 08 Sep 2025 17:05:07 GMT | The Breach I’ll Never Forget | Shahzaib | [Read More](https://medium.com/p/dc5d04027fa2) |
-| Mon, 08 Sep 2025 17:01:09 GMT | Designing Cloud Computing Architecture for Vidlytics Applications | Zifa Tea Azzahra | [Read More](https://medium.com/p/a01552fbbe90) |
-| Mon, 08 Sep 2025 16:54:24 GMT | Will there ever be a dawn? | Thomas Anthony | [Read More](https://medium.com/p/a0ad5a433caf) |
-| Mon, 08 Sep 2025 16:39:34 GMT | Testing MAVLink: UAV Security exploitation to expose drone vulnerabilities | Txaber Trevino | [Read More](https://medium.com/p/8918518a195e) |
-| Mon, 08 Sep 2025 16:39:30 GMT | Kremlin’s Worst Cyber Nightmare Just Happened: Ukraine Shut Down Russia’s Fuel Network | Alex Parker | [Read More](https://medium.com/p/02e6c47e0e8a) |
-| Mon, 08 Sep 2025 16:38:22 GMT | Security Rule #1: Don’t Point Fingers , Patch Fingers (and Systems) Instead | Vijay Kumar Gupta | [Read More](https://medium.com/p/121a81e4e844) |
