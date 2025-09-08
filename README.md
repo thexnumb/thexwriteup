@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 22:15:32 GMT | Breaking into Active Directory: A Step-by-Step Penetration Test Walkthrough | prince singh | [Read More](https://medium.com/p/429ac9ef89ee) |
+| Mon, 08 Sep 2025 22:15:25 GMT | EtwEventWrite Abuser | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f653c79005da) |
+| Mon, 08 Sep 2025 22:00:41 GMT | HTTP Smuggler: Demystifying HTTP Request Smuggling | ekomsSavior | [Read More](https://medium.com/p/7daf32e89047) |
+| Mon, 08 Sep 2025 21:52:32 GMT | From Zero to Domain Admin: How Misconfigured Trusts Still Wreck Enterprises | Yua Mikanana | [Read More](https://medium.com/p/c682e8721d90) |
+| Mon, 08 Sep 2025 21:50:45 GMT | When We Stop Running From Pain, Life Opens Up | Judy Hansen | [Read More](https://medium.com/p/918b857c9529) |
+| Mon, 08 Sep 2025 21:35:07 GMT | TryHackMe - Content Security Policy - WriteUp | Axoloth | [Read More](https://medium.com/p/fcaf0e409fc0) |
+| Mon, 08 Sep 2025 21:29:16 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/c2af8587fdd7) |
 | Mon, 08 Sep 2025 21:27:23 GMT | Don’t Miss the Ground Floor: | Jocephus | [Read More](https://medium.com/p/dbd1912455cb) |
 | Mon, 08 Sep 2025 21:26:47 GMT | The Paradox of Accessible Information | Taulan Zauzanov | [Read More](https://medium.com/p/fb9fad2a650b) |
+| Mon, 08 Sep 2025 21:25:53 GMT | API8:2023 — Security Misconfiguration: Yanlış Yapılandırmalar API Güvenliğini Nasıl Tehlikeye… | Apifort | [Read More](https://medium.com/p/3f743749daad) |
 | Mon, 08 Sep 2025 21:12:45 GMT | PG Practice — Levram (Linux) | Lepton | [Read More](https://medium.com/p/550ddf41c414) |
 | Mon, 08 Sep 2025 21:12:34 GMT | PG Practice — AuthBy (Windows) | Lepton | [Read More](https://medium.com/p/537ea99fa136) |
 | Mon, 08 Sep 2025 21:06:12 GMT | EYCC 2025 — Forensics Challenges | Sama | [Read More](https://medium.com/p/bc43c6918a3a) |
@@ -60,6 +68,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 18:47:18 GMT | Clickjacking: The Invisible Threat Hiding in Plain Sight | pratham verma | [Read More](https://medium.com/p/bb9e18a014c6) |
 | Mon, 08 Sep 2025 18:45:41 GMT | Locking Down the Smart World: Simple IoT Security Tips | Kavinda Mihiran | [Read More](https://medium.com/p/bb860890cd12) |
 | Mon, 08 Sep 2025 18:43:31 GMT | The Linux Security Journey — Reset Attack Mitigation | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/aa704a09a706) |
+| Mon, 08 Sep 2025 18:42:06 GMT | Analisador de Dependências na sua CLI Dev: Conheça a Vulnify | giozadi | [Read More](https://medium.com/p/ffae9e1e3730) |
 | Mon, 08 Sep 2025 18:41:39 GMT | Structural Battery Composites | Lazarin Kroni | [Read More](https://medium.com/p/483612fa1136) |
 | Mon, 08 Sep 2025 18:37:18 GMT | Como Escanear Seu Primeiro Repositório Python com Vulnify CLI | giozadi | [Read More](https://medium.com/p/2022a6c79c93) |
 | Mon, 08 Sep 2025 18:36:48 GMT | Why Kali Linux Might NOT Be Your Pentesting OS | Pavel Slesinger | [Read More](https://medium.com/p/ca5608fe75a1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 16:26:46 GMT | Gollum, The Split-Brained Gatekeeper of Trust: Cybersecurity Leadership Challenges — Part 3 | checkm4te | [Read More](https://medium.com/p/bb0123e7669d) |
 | Mon, 08 Sep 2025 16:25:39 GMT | Weaponizing Automation: Crafting a custom recon pipeline for pentesters | Aenosh Rajora | [Read More](https://medium.com/p/7ca9c795a3b3) |
 | Mon, 08 Sep 2025 16:21:29 GMT | Why Delaying the Right Facility Management Decision Costs More Than You Think | EXLITY | [Read More](https://medium.com/p/5ffab3cd17b1) |
-| Mon, 08 Sep 2025 16:14:23 GMT | Cloudflare Data Breach: What Sri Lankan Users Need to Know | Kishara Jayasanka | [Read More](https://medium.com/p/c34f01d6cc4d) |
-| Mon, 08 Sep 2025 16:12:17 GMT | Why Quppy AML Bot is Essential for Safe Crypto Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/0e39616d176d) |
-| Mon, 08 Sep 2025 16:11:35 GMT | eMark — Free & Open Source PDF Digital Signature Software | Pintu Prajapati | [Read More](https://medium.com/p/5d1097f58996) |
-| Mon, 08 Sep 2025 16:08:00 GMT | Top 5 FinTech Data Protection Concerns | Priyesh | [Read More](https://medium.com/p/94de7c44d7b0) |
-| Mon, 08 Sep 2025 16:07:52 GMT | Your First Step in Cybersecurity: SOC and Certifications | orioninsist | [Read More](https://medium.com/p/f24302ea72d5) |
-| Mon, 08 Sep 2025 15:54:58 GMT | Clap On Off Switch Using Arduino — Simple IoT Project | Zifa Tea Azzahra | [Read More](https://medium.com/p/65a00a617678) |
-| Mon, 08 Sep 2025 15:53:27 GMT | From Open Redirect to Potential Account Takeover | Luciano Griffa | [Read More](https://medium.com/p/f6856c2aafe2) |
-| Mon, 08 Sep 2025 15:53:06 GMT | DSuite: Taking Back Control of Your Digital Workspace | Aliciasierra | [Read More](https://medium.com/p/5b7af8a12372) |
-| Mon, 08 Sep 2025 15:43:30 GMT | The CISO’s Impossible Task: Leading Security in an Age of Asymmetric Warfare | Eric Zietlow | [Read More](https://medium.com/p/16f67352d4ff) |
