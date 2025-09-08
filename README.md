@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 08:16:45 GMT | Yapay Zekâ ve Siber Güvenlik: Bir Dost, Bir Düşman | Hamdi Gökmen Solak | [Read More](https://medium.com/p/6284a524f10e) |
+| Mon, 08 Sep 2025 08:13:56 GMT | Beyond SPF & DKIM: How Incomplete Email Security Opens the Door to Spoofing, Phishing, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6fa9aa218eb2) |
+| Mon, 08 Sep 2025 08:09:34 GMT | Network Sniffing on Linux with Wireshark: A Beginner’s Guide to Packet Analysis and Cybersecurity | CyberShield Insights | [Read More](https://medium.com/p/ec0e30d26979) |
+| Mon, 08 Sep 2025 08:02:50 GMT | Outsmarting Passkeys: The FIDO Downgrade Attack | Ashley Dai | [Read More](https://medium.com/p/eea35a56663c) |
+| Mon, 08 Sep 2025 08:02:18 GMT | When Rules Break: The Hidden Dangers of Business Logic Flaws That Can Destroy Your App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d43732a9b234) |
+| Mon, 08 Sep 2025 07:57:40 GMT | TransUnion Data Breach 2025: Why Governance, Risk, Compliance, and HR Culture Still Define… | Jair Abrego Cubilla | [Read More](https://medium.com/p/eba38cd113f1) |
+| Mon, 08 Sep 2025 07:57:35 GMT | SMS Gateway Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/381536971d68) |
+| Mon, 08 Sep 2025 07:56:10 GMT | Podcast with Ledger, Trezor expands to Brazil and a message from our intern | Henry Windle | [Read More](https://medium.com/p/aad642bee5e1) |
+| Mon, 08 Sep 2025 07:54:48 GMT | A Complete Guide to Access Control Models: RBAC, ABAC, DAC, MAC, and Beyond | Mosarof Hossain | [Read More](https://medium.com/p/90fed4ffaf79) |
+| Mon, 08 Sep 2025 07:53:15 GMT | Understanding Content Security Policy (CSP): A Developer’s Guide to Safer Web Apps | Khushi Ahuja | [Read More](https://medium.com/p/2db597721e0d) |
+| Mon, 08 Sep 2025 07:48:51 GMT | Which Open-Source WAF Really Delivers? A Head-to-Head Benchmark | AerieWhole123 | [Read More](https://medium.com/p/37631e08fb7f) |
+| Mon, 08 Sep 2025 07:48:44 GMT | Essential Secrets Management: Beyond Vault with KMS in Pipelines | Mohamed ElEmam | [Read More](https://medium.com/p/be54f481a029) |
+| Mon, 08 Sep 2025 07:47:55 GMT | FDA 510(k) Guidance Made Easy for Medical Device Companies | Qualysec | [Read More](https://medium.com/p/734452ba3858) |
+| Mon, 08 Sep 2025 07:43:32 GMT | ประจำวันจันทร์ที่ 8 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/88e46597cfd9) |
 | Mon, 08 Sep 2025 07:37:19 GMT | H1 Thermostat | Dasmanish | [Read More](https://medium.com/p/63521d9d08d2) |
 | Mon, 08 Sep 2025 07:35:09 GMT | Implementing Rate Limiting in Express.js: A Hands-On Guide | Rishabh Sharma | [Read More](https://medium.com/p/1aac3570d53c) |
 | Mon, 08 Sep 2025 07:34:58 GMT | The Death of Passwords: Why Passkeys Are the Future of Online Security | Iqra Anwar | [Read More](https://medium.com/p/9825d5ef321d) |
 | Mon, 08 Sep 2025 07:34:28 GMT | Secure Coding : Path Traversal ( os.path.join | Siddiquimohammad | [Read More](https://medium.com/p/abf741f4059d) |
+| Mon, 08 Sep 2025 07:31:38 GMT | “Coding Is Easy!” And Other Software Development Myths We Need to Stop Believing | Karmakoders | [Read More](https://medium.com/p/b81c18af5069) |
 | Mon, 08 Sep 2025 07:31:35 GMT | Mobile Market Report Guide: What’s Driving Sales in 2025 | Ahamed Afran | [Read More](https://medium.com/p/00cd64266713) |
 | Mon, 08 Sep 2025 07:30:12 GMT | Stop Spinning Snowflake VMs: This Open-Source Tool Makes KVM Feel Like Magic | cybrNK | [Read More](https://medium.com/p/68469d717327) |
 | Mon, 08 Sep 2025 07:29:44 GMT | Is Android 14+ Really Unhackable? | Shahzaib | [Read More](https://medium.com/p/e6ab28b9c109) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 03:03:35 GMT | Superheroes Don’t Share Capes and Why You Shouldn’t Share Passwords Either | DefendPoint Security | [Read More](https://medium.com/p/d6b7168c05c4) |
 | Mon, 08 Sep 2025 03:01:40 GMT | Top Technical Skills Every Graduate Needs in 2025 to Land a Job | Daffa Ghiffary Kusuma | [Read More](https://medium.com/p/011bfe10c8e4) |
 | Mon, 08 Sep 2025 03:01:37 GMT | Trump Revives ‘Department of War’ and Cuts U.S. Military Aid to Eastern Europe | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/56f5156cbce9) |
-| Mon, 08 Sep 2025 02:54:50 GMT | The Salesloft Drift Breach: Supply Chain Attacks via SaaS | VaRiOus_CanAriEs | [Read More](https://medium.com/p/6c281a62815d) |
-| Mon, 08 Sep 2025 02:45:30 GMT | The Fifth Domain: A Comprehensive Look at Cyber Warfare and National Security | CCD-IS | [Read More](https://medium.com/p/d11258553da6) |
-| Mon, 08 Sep 2025 02:40:14 GMT | TryHackMe PWN101 Challenge2 Writeup | Krishna | [Read More](https://medium.com/p/82a31cf111af) |
-| Mon, 08 Sep 2025 02:30:19 GMT | My Journey into Mentorship: From AppSecFamily to ADPlist | Mr Madani | [Read More](https://medium.com/p/4786b2dc9b1d) |
-| Mon, 08 Sep 2025 02:25:09 GMT | How 50,000 Requests Took Down Our Entire Metrics System | Kavinpon Navapong | [Read More](https://medium.com/p/898b34973ba7) |
-| Mon, 08 Sep 2025 02:23:21 GMT | The Things I Never Say Out Loud | vydhi | [Read More](https://medium.com/p/0fc77a89c67a) |
-| Mon, 08 Sep 2025 02:08:03 GMT | When Asking For Help Feels Like Too Much | Meridian | [Read More](https://medium.com/p/b3b8748833ef) |
-| Mon, 08 Sep 2025 02:06:56 GMT | The DevOps Engineer Doesn’t Exist — It’s the Parents… | Javier Rodriguez | [Read More](https://medium.com/p/73a74ce1f3a1) |
-| Mon, 08 Sep 2025 02:06:22 GMT | When “Fuck It” Meets Productivity: Script Your Freedom | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4979fed8f376) |
-| Mon, 08 Sep 2025 02:05:55 GMT | Cyber Risk Is Now a Boardroom Issue: Why Qantas’ Decision Sets a Global Precedent | Juan Pablo Castro | [Read More](https://medium.com/p/4124ce830be5) |
-| Mon, 08 Sep 2025 02:03:17 GMT | How to enable Sysmon on Windows and Send Logs to Wazuh | Raynard Waits | [Read More](https://medium.com/p/49cd006044bb) |
-| Mon, 08 Sep 2025 01:59:57 GMT | Jaguar Land Rover Halts Production After Cyber Incident Shuts Down Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/7b3442510623) |
-| Mon, 08 Sep 2025 01:59:03 GMT | Cybersecurity in Critical Infrastructure: Power Grids, Airports, and Nuclear Plants | A-STAR7_DOCTOR | [Read More](https://medium.com/p/14aa0db0972a) |
-| Mon, 08 Sep 2025 01:57:44 GMT | South Korea Arrests Suspected Chinese Hacker in $29M Cyber Heist | SafetyDetectives Research Team | [Read More](https://medium.com/p/c5a142595c2f) |
-| Mon, 08 Sep 2025 01:37:19 GMT | Sherluck: The Smart Way to Generate Targeted Wordlists for Password Testing | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/9d3bd26831e7) |
