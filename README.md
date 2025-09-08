@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 20:35:12 GMT | SIEM LAB: Detecting Scheduled Task Abuse (T1053.005) for Persistence on Windows in Wazuh SIEM | Stevanus Banu | [Read More](https://medium.com/p/07b1bdb4db45) |
+| Mon, 08 Sep 2025 20:30:53 GMT | Academic Freedom vs. Cybersecurity: Why Universities Are Losing the Battle | Giuseppe Canale | [Read More](https://medium.com/p/0afa477bff38) |
+| Mon, 08 Sep 2025 20:29:18 GMT | The Greatest Risk to Mobile Apps? Their API’s…. | Chritzier | [Read More](https://medium.com/p/9724a791bc8a) |
+| Mon, 08 Sep 2025 20:27:34 GMT | En Popüler Portlar ve Servisler | Azra Oyku Ulukan | [Read More](https://medium.com/p/502f527686e0) |
+| Mon, 08 Sep 2025 20:26:15 GMT | The Recent NPM Supply Chain Attack: A Wake-Up Call for Developers | Umer Yousuf | [Read More](https://medium.com/p/aa8df8952d08) |
+| Mon, 08 Sep 2025 20:25:23 GMT | BUG Airdrop: Best Way to Claim BUG BUG Airdrops for Free | BUG | [Read More](https://medium.com/p/3cbb44f752df) |
+| Mon, 08 Sep 2025 20:24:02 GMT | AWS Cognito Remember Device/Device Tracking using AWS Amplify v6 Gen1 | Philip | [Read More](https://medium.com/p/40df6591e82f) |
+| Mon, 08 Sep 2025 20:22:42 GMT | Critical Infrastructure Under Siege: Why Public Safety Creates Cybersecurity Blind Spots | Giuseppe Canale | [Read More](https://medium.com/p/2c8ec8888ac9) |
+| Mon, 08 Sep 2025 20:18:27 GMT | SPARTA v3.1 — What’s New? | The Aerospace Corporation | [Read More](https://medium.com/p/58d6b91b1505) |
 | Mon, 08 Sep 2025 20:10:38 GMT | CVE-2025–24204: Apple macOS Entitlement Flaw Enables Memory Dump, Keychain Theft, and FairPlay… | gm0 | [Read More](https://medium.com/p/5bb9f86de19b) |
 | Mon, 08 Sep 2025 20:08:07 GMT | Cyber Security & Ethical Hacking Program—Shef Solutions LLC | Shef Solutions LLC | [Read More](https://medium.com/p/313a9f303ed2) |
 | Mon, 08 Sep 2025 19:59:32 GMT | Monday Cyber Brief — September 8 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/b844046d7c6a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 15:25:13 GMT | The Ultimate Step-by-Step Guide to Setting Up, Optimizing, and Maintaining Your Home Network | Paradise technologies Inc | [Read More](https://medium.com/p/bf98fcb6f520) |
 | Mon, 08 Sep 2025 15:23:21 GMT | Demystifying Cloud Security in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/9e57f1636bd4) |
 | Mon, 08 Sep 2025 15:17:23 GMT | 10 Must-Have Features in a Modern Security Camera System | Today’s Networking Solutions | [Read More](https://medium.com/p/7443cd4411d9) |
-| Mon, 08 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 8, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ad29630c79f1) |
-| Mon, 08 Sep 2025 15:15:01 GMT | Privacy Laws Demystified: GDPR, CCPA, and What They Mean for You | Arjun. S. Gaikwad | [Read More](https://medium.com/p/63cb6170b7f6) |
-| Mon, 08 Sep 2025 15:12:39 GMT | Deep Dive into Hosting (REST + WebSockets) on an Unmanaged VM (Netcup) — Securing your VM | Abhinav Kumar | [Read More](https://medium.com/p/af13cc081abe) |
-| Mon, 08 Sep 2025 15:12:32 GMT | Researchers Uncover Web Application Firewall Bypass Using JavaScript Injection and Parameter… | Jasmitharouthu | [Read More](https://medium.com/p/21da1f370ba5) |
-| Mon, 08 Sep 2025 15:11:03 GMT | Malicious Emails Targeting U.S. Organizations Highlight Growing Cybersecurity Risks | Suhas valasala | [Read More](https://medium.com/p/d991d186a8c4) |
-| Mon, 08 Sep 2025 15:11:01 GMT | Zscaler Hit in Ongoing Salesloft Drift Supply Chain Attack | Aj | [Read More](https://medium.com/p/56e2d9660cdc) |
-| Mon, 08 Sep 2025 15:02:49 GMT | The Thin Line Between Security and Overhead in Modern IT Systems | Neo | [Read More](https://medium.com/p/dec7c5641a4c) |
-| Mon, 08 Sep 2025 15:02:33 GMT | Hackers Exploit Amazon Simple Email Service to Send Over 50,000 Malicious Emails Daily | Jasmitharouthu | [Read More](https://medium.com/p/a6c61774951d) |
-| Mon, 08 Sep 2025 15:00:07 GMT | Demystifying Cloud Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/3572cc33b048) |
