@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 18:20:33 GMT | Exploiting an API endpoint using documentation | Richard Ndung'u | [Read More](https://medium.com/p/28b47d348270) |
+| Mon, 08 Sep 2025 18:17:54 GMT | MYSTERY HACKERS | StratH | [Read More](https://medium.com/p/5468ba2ec103) |
+| Mon, 08 Sep 2025 18:16:17 GMT | The Role of Zero Trust in Strengthening Cloud Security | Techridge Solutions | [Read More](https://medium.com/p/8c3e8e7f08c4) |
+| Mon, 08 Sep 2025 18:09:13 GMT | The Report II — Blue Team Labs | Juan Alexander Alejo | [Read More](https://medium.com/p/20a0886f2ed2) |
+| Mon, 08 Sep 2025 18:08:40 GMT | When Cybersecurity Companies Get Hacked: The Tenable Salesforce Breach | Teleisha Deslandes | [Read More](https://medium.com/p/bb6f4a698ab1) |
+| Mon, 08 Sep 2025 18:08:17 GMT | 445/TCP (SMB) — Ne İşe Yarar, Neden Risklidir, Nasıl Güçlendirilir? | Emre Özberk Dilek | [Read More](https://medium.com/p/375233b93b01) |
+| Mon, 08 Sep 2025 18:05:34 GMT | Broken like Hijacking earned me $150 | Canonminibeast | [Read More](https://medium.com/p/d67fc0571582) |
+| Mon, 08 Sep 2025 18:05:08 GMT | DC-2 VulnHub Walkthrough | Shahabas_ak | [Read More](https://medium.com/p/fbc60ab8c6bf) |
+| Mon, 08 Sep 2025 17:52:22 GMT | Using Tutorials To Show Exploits (Series) — Part 3 | Nwosu Rosemary | [Read More](https://medium.com/p/6396edf0042b) |
+| Mon, 08 Sep 2025 17:50:02 GMT | The Kubernetes Interview Playbook | Gaurav Agnihotri | [Read More](https://medium.com/p/4d67aa54cafb) |
+| Mon, 08 Sep 2025 17:45:40 GMT | Protecting Against Credential Threats: How Rainbow Secure Stands Guard in the Face of Modern Cyber… | Dr. Shashi Karhail | [Read More](https://medium.com/p/0ce912df8158) |
+| Mon, 08 Sep 2025 17:44:50 GMT | How to Set Up a Security Camera System at Home | Security Camera | [Read More](https://medium.com/p/85844d40d795) |
 | Mon, 08 Sep 2025 17:39:27 GMT | P.O.O — Part 2: Huh?! | XOR-Hacks | [Read More](https://medium.com/p/2bc580f60964) |
 | Mon, 08 Sep 2025 17:37:32 GMT | What the f*ck is happening with the airplanes? | Danisa Jokanovich | [Read More](https://medium.com/p/8ddb3da69a9b) |
+| Mon, 08 Sep 2025 17:34:50 GMT | SEC Approval Of Listing Standards Can Mainstream Crypto ETFs | IC News | [Read More](https://medium.com/p/6c2978680f7b) |
 | Mon, 08 Sep 2025 17:33:59 GMT | Will AI Take Over Cybersecurity? Understanding the Balance Between Automation and Human Expertise | SafeAeon Inc. | [Read More](https://medium.com/p/0dd46ebd0bd5) |
 | Mon, 08 Sep 2025 17:28:31 GMT | Understanding IEEE 802 Wireless Standards and 4-way handshake in WPA/WPA-2 | Sadineni Sai Sushanth | [Read More](https://medium.com/p/ebc907d6b1e5) |
 | Mon, 08 Sep 2025 17:24:00 GMT | Basic linux command you should know !! | Cyberhamiii | [Read More](https://medium.com/p/205bf6841f07) |
@@ -38,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 16:12:17 GMT | Why Quppy AML Bot is Essential for Safe Crypto Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/0e39616d176d) |
 | Mon, 08 Sep 2025 16:11:35 GMT | eMark — Free & Open Source PDF Digital Signature Software | Pintu Prajapati | [Read More](https://medium.com/p/5d1097f58996) |
 | Mon, 08 Sep 2025 16:08:00 GMT | Top 5 FinTech Data Protection Concerns | Priyesh | [Read More](https://medium.com/p/94de7c44d7b0) |
+| Mon, 08 Sep 2025 16:07:52 GMT | Your First Step in Cybersecurity: SOC and Certifications | orioninsist | [Read More](https://medium.com/p/f24302ea72d5) |
 | Mon, 08 Sep 2025 15:54:58 GMT | Clap On Off Switch Using Arduino — Simple IoT Project | Zifa Tea Azzahra | [Read More](https://medium.com/p/65a00a617678) |
 | Mon, 08 Sep 2025 15:53:27 GMT | From Open Redirect to Potential Account Takeover | Luciano Griffa | [Read More](https://medium.com/p/f6856c2aafe2) |
 | Mon, 08 Sep 2025 15:53:06 GMT | DSuite: Taking Back Control of Your Digital Workspace | Aliciasierra | [Read More](https://medium.com/p/5b7af8a12372) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 12:59:19 GMT | A New Lens on AI: Triangulating Internal States for Enhanced Diagnostics and Probing | Berend Watchus | [Read More](https://medium.com/p/c313eafab6ae) |
 | Mon, 08 Sep 2025 12:59:12 GMT | Sandfly: auto upgrade/update script — keep your instance up-to-date easily. | Truvis Thornton | [Read More](https://medium.com/p/4e9a685911f4) |
 | Mon, 08 Sep 2025 12:54:51 GMT | Burglars Always Look for the Weak Spot | Dalibor Zivkovic | [Read More](https://medium.com/p/b24752f4cf28) |
-| Mon, 08 Sep 2025 12:52:59 GMT | How to Use a Hardware Wallet with DeFi Platforms Securely: A Complete Guide for 2025 | Tony Philips | [Read More](https://medium.com/p/7b8991e2b262) |
-| Mon, 08 Sep 2025 12:47:33 GMT | Wednesday special Episode 7: The Signal Tightens | Shobha Pai | [Read More](https://medium.com/p/b752b2eedc8b) |
-| Mon, 08 Sep 2025 12:44:50 GMT | Building a Detection Lab That Fits in Your Laptop - Part 2: From Lab to Hunting | Joseph Gitonga | [Read More](https://medium.com/p/25b87afd1749) |
-| Mon, 08 Sep 2025 12:34:40 GMT | How to Recover a Disabled Facebook Account | M. Huzaifa | [Read More](https://medium.com/p/0fb9e316bc8b) |
-| Mon, 08 Sep 2025 12:34:34 GMT | Inorganic Growth: The CEO’s Secret Weapon for Scale, Speed & Survival | Viineet Naag (https://marketinggasoline.com/) | [Read More](https://medium.com/p/5dd15b37d6bc) |
-| Mon, 08 Sep 2025 12:31:25 GMT | How to Secure Your Startup’s Data with Zero-Trust Cybersecurity in 2025 | Umesh Anjula | [Read More](https://medium.com/p/7c0a7332437d) |
-| Mon, 08 Sep 2025 12:30:17 GMT | API Key Vs. OAuth — How to Choose the best Authentication | Reethika Moovendhan | [Read More](https://medium.com/p/10b1cce62d12) |
-| Mon, 08 Sep 2025 12:30:11 GMT | Ethical Hacking Certification — Build a Career in Cybersecurity with Expert Skills | Certocean | [Read More](https://medium.com/p/75da3a114114) |
-| Mon, 08 Sep 2025 12:28:33 GMT | EYCC — Crypto Challenges | Sama | [Read More](https://medium.com/p/a0347956f169) |
-| Mon, 08 Sep 2025 12:27:44 GMT | [Network Security] Capturing Packets with Node.js | Maria Kim | [Read More](https://medium.com/p/fa9bc7590547) |
-| Mon, 08 Sep 2025 12:27:14 GMT | GhostGPT: The AI Cybercrime Tool Changing Online Security | Prerna Shukla | [Read More](https://medium.com/p/764f8177264e) |
-| Mon, 08 Sep 2025 12:24:30 GMT | Von Neumann’s Prophecy and the True Nature of the Singularity | Steven De Costa | [Read More](https://medium.com/p/c0669711de8b) |
-| Mon, 08 Sep 2025 12:15:24 GMT | Not so Scary: Aotearoa’s Littlest Locals | Eli Skinner | [Read More](https://medium.com/p/5dde968171c7) |
-| Mon, 08 Sep 2025 12:13:25 GMT | Learning Basic Cryptography in Rust: Implementing Transposition Ciphers | KyungHyun | [Read More](https://medium.com/p/e62709a97f7c) |
