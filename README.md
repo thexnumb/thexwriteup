@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 14:33:36 GMT | Let’s philosophize un peu (1) | Irene AMEDJI | [Read More](https://medium.com/p/cd960dcee41e) |
+| Mon, 08 Sep 2025 14:31:42 GMT | Can AI Hack Your Accounts? The Truth Behind Smart Attacks — and Smarter Defenses | PromptSecAI | [Read More](https://medium.com/p/2e29429ead9f) |
 | Mon, 08 Sep 2025 14:19:49 GMT | Pandora Writeup — HTB | Txaber Trevino | [Read More](https://medium.com/p/3a2d1e67782b) |
+| Mon, 08 Sep 2025 14:19:37 GMT | Walkthrough: Exploiting DC-1 (Vulnhub) — Drupalgeddon2 to Root | Shahabas_ak | [Read More](https://medium.com/p/d8ab87187dae) |
+| Mon, 08 Sep 2025 14:18:34 GMT | Safeguarding AI-Powered Systems Why Cybersecurity Can’t Be an Afterthought | Suhas valasala | [Read More](https://medium.com/p/55a0e1addc18) |
 | Mon, 08 Sep 2025 14:11:19 GMT | Next-Gen VPS Hosting: The Road Ahead | Milaharris | [Read More](https://medium.com/p/e9e44de3a299) |
 | Mon, 08 Sep 2025 14:10:20 GMT | When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | LETCHU PKT | [Read More](https://medium.com/p/eae25a5f4f35) |
 | Mon, 08 Sep 2025 14:08:58 GMT | Blind XSS and HTML Injection Attacks in Public Swagger UIs | Balki Maharaj | [Read More](https://medium.com/p/86c9d79c5442) |
@@ -111,7 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 09:30:44 GMT | Understanding Email Spoofing Concept and Protection | Medjue Gore | [Read More](https://medium.com/p/5331358f2bb8) |
 | Mon, 08 Sep 2025 09:27:50 GMT | ️ Top 5 Cybersecurity Projects You Can Build with n8n — Free & Beginner-Friendly | Sukhveer Singh | [Read More](https://medium.com/p/270c06081558) |
 | Mon, 08 Sep 2025 09:26:36 GMT | CompTIA Security+ Certification: Pathway to Cybersecurity Skills | Shettymanishg | [Read More](https://medium.com/p/a6ee065f03ba) |
-| Mon, 08 Sep 2025 09:22:01 GMT | Flight Risk to Safety Net: The Complications of Monitoring Employee Behavior | Namir Sagheenanajar | [Read More](https://medium.com/p/2b6868deeeae) |
-| Mon, 08 Sep 2025 09:20:50 GMT | Energy Consumption Monitoring with scaphandre | Salim Amine Bou Aram | [Read More](https://medium.com/p/5244f68f74c8) |
-| Mon, 08 Sep 2025 09:14:40 GMT | Leveraging Raspberry Pi For Pentesting Dropbox: A Guide To Ethical Hacking | Redfox Security | [Read More](https://medium.com/p/5369d773fd2f) |
-| Mon, 08 Sep 2025 09:12:35 GMT | Why Automating Identity Management in Oracle E-Business Suite is a Strategic Imperative | Openiam | [Read More](https://medium.com/p/11f51458197a) |
