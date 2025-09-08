@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 20:10:38 GMT | CVE-2025–24204: Apple macOS Entitlement Flaw Enables Memory Dump, Keychain Theft, and FairPlay… | gm0 | [Read More](https://medium.com/p/5bb9f86de19b) |
+| Mon, 08 Sep 2025 20:08:07 GMT | Cyber Security & Ethical Hacking Program—Shef Solutions LLC | Shef Solutions LLC | [Read More](https://medium.com/p/313a9f303ed2) |
+| Mon, 08 Sep 2025 19:59:32 GMT | Monday Cyber Brief — September 8 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/b844046d7c6a) |
+| Mon, 08 Sep 2025 19:55:44 GMT | When does Microsoft Defender Business make sense for you and your company? | Cordula Boeck | [Read More](https://medium.com/p/37e2f2e9fc5a) |
+| Mon, 08 Sep 2025 19:54:39 GMT | Top 7 Tools Every Ethical Hacker Must Master | Smith Adams | [Read More](https://medium.com/p/eaa6c30b2361) |
+| Mon, 08 Sep 2025 19:43:29 GMT | Setting up Security Onion to Monitor/Defend my Home Network. | Michael Ising | [Read More](https://medium.com/p/5b85d62e186f) |
+| Mon, 08 Sep 2025 19:39:01 GMT | The Modern Data Scientist’s Paradox: When AI Makes the Job Harder (and Better) | Abdul Ashwaq Mohammed | [Read More](https://medium.com/p/e510d0eec37b) |
+| Mon, 08 Sep 2025 19:33:32 GMT | The Biggest npm Compromise Yet: Popular Packages Like chalk and debug Hijacked | Ajay Monga | [Read More](https://medium.com/p/dfeb7fb8e142) |
+| Mon, 08 Sep 2025 19:32:26 GMT | Who Scans the Scanner? Exploiting Trend Micro Mobile Security | Lucas | [Read More](https://medium.com/p/4bfb099d7993) |
+| Mon, 08 Sep 2025 19:31:56 GMT | Progress OpenEdge RMI Flaw Opens Door to Remote Command Execution | gm0 | [Read More](https://medium.com/p/407c978b37fb) |
 | Mon, 08 Sep 2025 19:29:06 GMT | De l’expérience d’inconfort | Akeelah ‍♀️ | [Read More](https://medium.com/p/5ce494a32ef4) |
 | Mon, 08 Sep 2025 19:28:54 GMT | Multi-Staged Pastejacking Attack: Insights and Indicators | Nihal Sadath | [Read More](https://medium.com/p/3d36bd4ec3d1) |
+| Mon, 08 Sep 2025 19:27:18 GMT | Harden What You Have — Without Rewrites: A Pragmatic Path to Safer Containers With RapidFort | Jacob Mitani | [Read More](https://medium.com/p/6cf4ca61086b) |
 | Mon, 08 Sep 2025 19:21:19 GMT | Schema Smuggling: Breaking AI Tool-Calls with Parser Quirks | Aviral Srivastava | [Read More](https://medium.com/p/c61478dc1414) |
 | Mon, 08 Sep 2025 19:18:52 GMT | MDR vs. MSS: Which Security Solution is Right for your Business | IT_Engineer | [Read More](https://medium.com/p/3823cfd36cb8) |
 | Mon, 08 Sep 2025 19:17:07 GMT | The Cost of a Wrong Word in Threat Intelligence | Rishika Desai | [Read More](https://medium.com/p/202dca1aa8fb) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 15:02:49 GMT | The Thin Line Between Security and Overhead in Modern IT Systems | Neo | [Read More](https://medium.com/p/dec7c5641a4c) |
 | Mon, 08 Sep 2025 15:02:33 GMT | Hackers Exploit Amazon Simple Email Service to Send Over 50,000 Malicious Emails Daily | Jasmitharouthu | [Read More](https://medium.com/p/a6c61774951d) |
 | Mon, 08 Sep 2025 15:00:07 GMT | Demystifying Cloud Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/3572cc33b048) |
-| Mon, 08 Sep 2025 14:58:35 GMT | CVE-2025–9636: OAuth Hijack in pgAdmin Exposes PostgreSQL Admin Interfaces to Account Takeover | gm0 | [Read More](https://medium.com/p/fa44ac3254ba) |
-| Mon, 08 Sep 2025 14:56:00 GMT | How to Change a Man: A Full-Time Mom’s Plea for Help | Poly-blang | [Read More](https://medium.com/p/de3b4bedab21) |
-| Mon, 08 Sep 2025 14:49:53 GMT | “The Emerging Threat of DNA Hacking: A Conversation on Genetic Security” | Swaminathan Murali | [Read More](https://medium.com/p/af9ba60de176) |
-| Mon, 08 Sep 2025 14:41:09 GMT | ️‍♂️ แนะนำ Detect It Easy (DIE) — เครื่องมือวิเคราะห์ไฟล์ PE/ELF/Mach-O สำหรับสาย Reverse… | Supot Sirisak | [Read More](https://medium.com/p/18d8efd2fdb0) |
-| Mon, 08 Sep 2025 14:33:36 GMT | Let’s philosophize un peu (1) | Irene AMEDJI | [Read More](https://medium.com/p/cd960dcee41e) |
-| Mon, 08 Sep 2025 14:31:42 GMT | Can AI Hack Your Accounts? The Truth Behind Smart Attacks — and Smarter Defenses | PromptSecAI | [Read More](https://medium.com/p/2e29429ead9f) |
-| Mon, 08 Sep 2025 14:19:49 GMT | Pandora Writeup — HTB | Txaber Trevino | [Read More](https://medium.com/p/3a2d1e67782b) |
-| Mon, 08 Sep 2025 14:19:37 GMT | Walkthrough: Exploiting DC-1 (Vulnhub) — Drupalgeddon2 to Root | Shahabas_ak | [Read More](https://medium.com/p/d8ab87187dae) |
-| Mon, 08 Sep 2025 14:18:34 GMT | Safeguarding AI-Powered Systems Why Cybersecurity Can’t Be an Afterthought | Suhas valasala | [Read More](https://medium.com/p/55a0e1addc18) |
-| Mon, 08 Sep 2025 14:11:19 GMT | Next-Gen VPS Hosting: The Road Ahead | Milaharris | [Read More](https://medium.com/p/e9e44de3a299) |
-| Mon, 08 Sep 2025 14:10:20 GMT | When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | LETCHU PKT | [Read More](https://medium.com/p/eae25a5f4f35) |
