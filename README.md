@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 09:40:58 GMT | Gmail Data Breach: Why 2.5 | Mo-Left | [Read More](https://medium.com/p/9dbd6e982267) |
+| Mon, 08 Sep 2025 09:40:14 GMT | Satoshi’s Shadow | Stratos Inglezakis | [Read More](https://medium.com/p/7be2967f91be) |
+| Mon, 08 Sep 2025 09:39:36 GMT | Beware of WhatsApp and
+Telegram Mods: Hidden
+Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security | [Read More](https://medium.com/p/cf2f8dcf3fbc) |
+| Mon, 08 Sep 2025 09:31:57 GMT | Compliance in Financial Web Apps: How to Build Secure, Trustworthy, and Regulation-Ready… | Amaka okoye | [Read More](https://medium.com/p/1494d33a0f0c) |
+| Mon, 08 Sep 2025 09:31:46 GMT | Drosera Network: The Future of Drosera Network published by Ekong, Deborah Usen on 8th… | Deborahekong | [Read More](https://medium.com/p/67b5ec7b6098) |
+| Mon, 08 Sep 2025 09:30:44 GMT | Understanding Email Spoofing Concept and Protection | Medjue Gore | [Read More](https://medium.com/p/5331358f2bb8) |
+| Mon, 08 Sep 2025 09:27:50 GMT | ️ Top 5 Cybersecurity Projects You Can Build with n8n — Free & Beginner-Friendly | Sukhveer Singh | [Read More](https://medium.com/p/270c06081558) |
+| Mon, 08 Sep 2025 09:26:36 GMT | CompTIA Security+ Certification: Pathway to Cybersecurity Skills | Shettymanishg | [Read More](https://medium.com/p/a6ee065f03ba) |
+| Mon, 08 Sep 2025 09:22:01 GMT | Flight Risk to Safety Net: The Complications of Monitoring Employee Behavior | Namir Sagheenanajar | [Read More](https://medium.com/p/2b6868deeeae) |
+| Mon, 08 Sep 2025 09:20:50 GMT | Energy Consumption Monitoring with scaphandre | Salim Amine Bou Aram | [Read More](https://medium.com/p/5244f68f74c8) |
 | Mon, 08 Sep 2025 09:14:40 GMT | Leveraging Raspberry Pi For Pentesting Dropbox: A Guide To Ethical Hacking | Redfox Security | [Read More](https://medium.com/p/5369d773fd2f) |
 | Mon, 08 Sep 2025 09:12:35 GMT | Why Automating Identity Management in Oracle E-Business Suite is a Strategic Imperative | Openiam | [Read More](https://medium.com/p/11f51458197a) |
 | Mon, 08 Sep 2025 09:11:13 GMT | Why reCAPTCHA Is Used in Creating an Account? | Haniakhan | [Read More](https://medium.com/p/72cf4cf9a1d8) |
@@ -102,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 04:53:00 GMT | Strengthening Cybersecurity with Penetration Testing Services: A Real-Time Example | CyberNX | [Read More](https://medium.com/p/93076b49f016) |
 | Mon, 08 Sep 2025 04:46:14 GMT | How I Traced a Phishing Campaign to Its C2 Server | Paritosh | [Read More](https://medium.com/p/df271d4f176a) |
 | Mon, 08 Sep 2025 04:43:53 GMT | Rate Limiting: A Key to Safer and Faster Systems | Ajit Sanghera | [Read More](https://medium.com/p/e09f4b672157) |
-| Mon, 08 Sep 2025 04:35:12 GMT | The Things Women Never Say Out Loud | vydhi | [Read More](https://medium.com/p/ef235d727478) |
-| Mon, 08 Sep 2025 04:31:49 GMT | Django Best Practices for Scalable and Maintainable Web Applications in 2025 | Monil Saraswat | [Read More](https://medium.com/p/32ab1ed53f88) |
-| Mon, 08 Sep 2025 04:31:44 GMT | When Support Portals Bite Back: DOM-XSS in a Helpcenter | Devansh Patel | [Read More](https://medium.com/p/4ac7e154ce4e) |
-| Mon, 08 Sep 2025 04:31:44 GMT | PicoCTF 2024: IntroToBurp — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/53b7c958601f) |
-| Mon, 08 Sep 2025 04:26:55 GMT | Write Up Lab: SQL injection attack, listing the database contents on Oracle | Velskynotfound | [Read More](https://medium.com/p/9fab1f37d9c4) |
-| Mon, 08 Sep 2025 04:17:13 GMT | Certificated (ImaginaryCTF) | Michael Elfauz | [Read More](https://medium.com/p/bd1ba72c7ca1) |
-| Mon, 08 Sep 2025 04:14:23 GMT | Website Security for Small Businesses: How to Protect Your Online Presence from Cyber Attacks | Negar Rezaee Yekta | [Read More](https://medium.com/p/ba91bacca311) |
-| Mon, 08 Sep 2025 04:10:15 GMT | Cloud Security: Design Principles and Tools for a Safer Cloud | Geeky Vartika | [Read More](https://medium.com/p/5f69b803304f) |
-| Mon, 08 Sep 2025 04:01:43 GMT | Cybersecurity in the Age of Remote Work: Protecting Your Team Online (2025 Edition) | Secventra | [Read More](https://medium.com/p/71b4c70459cb) |
-| Mon, 08 Sep 2025 03:59:18 GMT | Just Launched My First GitHub Portfolio | Punnakavyasri | [Read More](https://medium.com/p/abb3dc07d7bf) |
