@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 22:24:57 GMT | Detecting NPM Malicious Packages in Your Local Repositories / App with Ripgrep & What To Do Upon… | Lewiswambugu | [Read More](https://medium.com/p/804f12791972) |
+| Mon, 08 Sep 2025 22:24:54 GMT | The skill of human interaction | Kattreeina | [Read More](https://medium.com/p/4f0beaa6ef54) |
+| Mon, 08 Sep 2025 22:23:55 GMT | Hijacking Windows Processes: A Step-By-Step Guide | Itz.sanskarr | [Read More](https://medium.com/p/4a1d3e234da4) |
+| Mon, 08 Sep 2025 22:19:30 GMT | Is Your Website or Network Really Secure? | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/b5d0e49a18da) |
+| Mon, 08 Sep 2025 22:18:15 GMT | LockBit 3.0 (“LockBit Black”) APT High Level Profile | gm0 | [Read More](https://medium.com/p/9952b4617c1b) |
 | Mon, 08 Sep 2025 22:15:32 GMT | Breaking into Active Directory: A Step-by-Step Penetration Test Walkthrough | prince singh | [Read More](https://medium.com/p/429ac9ef89ee) |
 | Mon, 08 Sep 2025 22:15:25 GMT | EtwEventWrite Abuser | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f653c79005da) |
 | Mon, 08 Sep 2025 22:00:41 GMT | HTTP Smuggler: Demystifying HTTP Request Smuggling | ekomsSavior | [Read More](https://medium.com/p/7daf32e89047) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 16:39:34 GMT | Testing MAVLink: UAV Security exploitation to expose drone vulnerabilities | Txaber Trevino | [Read More](https://medium.com/p/8918518a195e) |
 | Mon, 08 Sep 2025 16:39:30 GMT | Kremlin’s Worst Cyber Nightmare Just Happened: Ukraine Shut Down Russia’s Fuel Network | Alex Parker | [Read More](https://medium.com/p/02e6c47e0e8a) |
 | Mon, 08 Sep 2025 16:38:22 GMT | Security Rule #1: Don’t Point Fingers , Patch Fingers (and Systems) Instead | Vijay Kumar Gupta | [Read More](https://medium.com/p/121a81e4e844) |
-| Mon, 08 Sep 2025 16:35:23 GMT | BehindTheScreens: Where AI Meets Cybersecurity — Arms Race, Co-Pilot, and the New Stack of Risk | Sam - Behind The Screens | [Read More](https://medium.com/p/dade2bf2d442) |
-| Mon, 08 Sep 2025 16:27:21 GMT | AWS Incident Response: Uploading External CloudTrail Logs to S3 for Querying in Athena | Markohalloran | [Read More](https://medium.com/p/71bf3f0e464f) |
-| Mon, 08 Sep 2025 16:26:46 GMT | Gollum, The Split-Brained Gatekeeper of Trust: Cybersecurity Leadership Challenges — Part 3 | checkm4te | [Read More](https://medium.com/p/bb0123e7669d) |
-| Mon, 08 Sep 2025 16:25:39 GMT | Weaponizing Automation: Crafting a custom recon pipeline for pentesters | Aenosh Rajora | [Read More](https://medium.com/p/7ca9c795a3b3) |
-| Mon, 08 Sep 2025 16:21:29 GMT | Why Delaying the Right Facility Management Decision Costs More Than You Think | EXLITY | [Read More](https://medium.com/p/5ffab3cd17b1) |
