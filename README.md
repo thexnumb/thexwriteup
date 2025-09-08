@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 11:05:14 GMT | A Step-by-Step Plan to Secure Web Backends with XAMPP (Part 2/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/c8800b6dbeb3) |
+| Mon, 08 Sep 2025 11:02:14 GMT | Hunting OS Command Injection | Monika sharma | [Read More](https://medium.com/p/039dbb284c7d) |
+| Mon, 08 Sep 2025 11:01:53 GMT | How I Found My First SQL Injection Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/a6ac6e1add39) |
+| Mon, 08 Sep 2025 11:01:43 GMT | Hack The Box — Synced (rsync) | Adhishri Kothiyal | [Read More](https://medium.com/p/c8cef67c795a) |
+| Mon, 08 Sep 2025 10:58:18 GMT | Half-Second Screens: A SOC Dashboard for Multi-Phase Threats | Purple Security | [Read More](https://medium.com/p/67c3c98a0440) |
+| Mon, 08 Sep 2025 10:54:07 GMT | Scope of Cyber Security Careers in India — 2025 Update | GRAStech | [Read More](https://medium.com/p/5edfdb56469d) |
+| Mon, 08 Sep 2025 10:53:10 GMT | Apache Tomcat App Manager Exploit: Operation CATTRAP | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/50fd3a0fbf7e) |
+| Mon, 08 Sep 2025 10:50:42 GMT | Continuous Threat Exposure Management: Why It Matters and How to Make It Real | Luis Abreu from Cyver | [Read More](https://medium.com/p/b91efd554ce0) |
+| Mon, 08 Sep 2025 10:49:45 GMT | TryHackMe Block — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/bbd90e149f1c) |
+| Mon, 08 Sep 2025 10:49:40 GMT | How I Hack Websites With Just HTML Injection | Ibtissam hammadi | [Read More](https://medium.com/p/9ccbc87faf47) |
+| Mon, 08 Sep 2025 10:49:33 GMT | Automated AI Hacking is Here (Demo with Claude and Metasploit) | Shahzaib | [Read More](https://medium.com/p/36b60ddbebba) |
+| Mon, 08 Sep 2025 10:48:31 GMT | WinRAR Flaw: How It Was Exploited to Spread Malware. | S.Ali | [Read More](https://medium.com/p/61088e6e9ef8) |
+| Mon, 08 Sep 2025 10:46:28 GMT | 5 Common Phone Scams to Watch Out For in 2025 (and How to Avoid Them) | Ethan Cole | [Read More](https://medium.com/p/2d6c526d4574) |
+| Mon, 08 Sep 2025 10:37:40 GMT | After Nano Banana, Can We Ever Trust a Single Pixel Again? | AI Rabbit | [Read More](https://medium.com/p/200528c7749e) |
 | Mon, 08 Sep 2025 10:35:30 GMT | LATAM Defense Market Future Business Opportunities 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/468133240b3a) |
 | Mon, 08 Sep 2025 10:32:09 GMT | Secure Your Future: Study Master’s in Cybersecurity in Canada | Shreetu Mohanty | [Read More](https://medium.com/p/1d9373b58611) |
 | Mon, 08 Sep 2025 10:31:42 GMT | ⏱️ SLA Demystified: The Promise Behind Every Service | Natarajan C K | [Read More](https://medium.com/p/87cd9f639859) |
@@ -101,17 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 06:40:10 GMT | Certificate Transparency Hunting: The Goldmine No One Talks About | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b7f5914a962c) |
 | Mon, 08 Sep 2025 06:37:08 GMT | Building a Cost-Effective Cybersecurity Testing Lab | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/99383ab2089d) |
 | Mon, 08 Sep 2025 06:35:16 GMT | DNS as an Attack Vector: How a Single Record Can Compromise an Entire Infrastructure | Narendar Battula (nArEn) | [Read More](https://medium.com/p/44c82df4fc77) |
-| Mon, 08 Sep 2025 06:34:58 GMT | Field Service Automation Software for Security System Installers: 2025 Guide | Bhargavi Halthore | [Read More](https://medium.com/p/1145705c5afd) |
-| Mon, 08 Sep 2025 06:21:55 GMT | Installing Wazuh Manager and Deploying Agents — A Step-by-step Procedure | santyhere! | [Read More](https://medium.com/p/dcaa72834a5a) |
-| Mon, 08 Sep 2025 06:18:19 GMT | File Upload Bypass with Chankro | Indigo Shadow | [Read More](https://medium.com/p/11ff0cba4f4d) |
-| Mon, 08 Sep 2025 06:16:12 GMT | The Beginner’s Handbook to Cybersecurity | Tanvi Chauhan | [Read More](https://medium.com/p/b3966286b125) |
-| Mon, 08 Sep 2025 06:13:49 GMT | Video Management Solution for New Energy Vehicle Charging Station | Alice-Daxunview | [Read More](https://medium.com/p/a672ce079b22) |
-| Mon, 08 Sep 2025 06:10:39 GMT | Security Guard Services: Strengthening Safety with Professional Security Services in India | Ciss India | [Read More](https://medium.com/p/a31c6672d21f) |
-| Mon, 08 Sep 2025 06:04:14 GMT | The Daily Tech Digest: 08 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/09eb26a92106) |
-| Mon, 08 Sep 2025 06:03:11 GMT | Secrets Management Done Right: Keeping Keys, Tokens, and Passwords Safe | Abida Adra | [Read More](https://medium.com/p/0112a843f611) |
-| Mon, 08 Sep 2025 06:01:46 GMT | Beyond the Horizon: Supercharging GuardDuty with Custom Entity Lists | Chathushka Dilhan | [Read More](https://medium.com/p/9c0a4f25f1c1) |
-| Mon, 08 Sep 2025 05:50:03 GMT | A Beginner’s Guide to OSINT: Tools and Techniques You Can Use Tonight | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3f5a7b5db2d) |
-| Mon, 08 Sep 2025 05:49:54 GMT | The Hidden Dangers of Fake Recovery Firms — How to spot scams and why firms like IAR (with no… | Jimmy Schwinger | [Read More](https://medium.com/p/86e8bc4a84af) |
-| Mon, 08 Sep 2025 05:48:33 GMT | Secrets Manager vs. Parameter Store: Which One Should You Really Use? | Ran Isenberg | [Read More](https://medium.com/p/807e5a75c4e6) |
-| Mon, 08 Sep 2025 05:47:39 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/5d3ac3caeb10) |
-| Mon, 08 Sep 2025 05:47:38 GMT | What comes after gaining a reverse shell? | st97rb0y | [Read More](https://medium.com/p/e7d11e9bc314) |
