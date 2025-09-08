@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 15:12:32 GMT | Researchers Uncover Web Application Firewall Bypass Using JavaScript Injection and Parameter… | Jasmitharouthu | [Read More](https://medium.com/p/21da1f370ba5) |
+| Mon, 08 Sep 2025 15:11:03 GMT | Malicious Emails Targeting U.S. Organizations Highlight Growing Cybersecurity Risks | Suhas valasala | [Read More](https://medium.com/p/d991d186a8c4) |
+| Mon, 08 Sep 2025 15:02:49 GMT | The Thin Line Between Security and Overhead in Modern IT Systems | Neo | [Read More](https://medium.com/p/dec7c5641a4c) |
+| Mon, 08 Sep 2025 15:02:33 GMT | Hackers Exploit Amazon Simple Email Service to Send Over 50,000 Malicious Emails Daily | Jasmitharouthu | [Read More](https://medium.com/p/a6c61774951d) |
+| Mon, 08 Sep 2025 15:00:07 GMT | Demystifying Cloud Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/3572cc33b048) |
+| Mon, 08 Sep 2025 14:58:35 GMT | CVE-2025–9636: OAuth Hijack in pgAdmin Exposes PostgreSQL Admin Interfaces to Account Takeover | gm0 | [Read More](https://medium.com/p/fa44ac3254ba) |
+| Mon, 08 Sep 2025 14:56:00 GMT | How to Change a Man: A Full-Time Mom’s Plea for Help | Poly-blang | [Read More](https://medium.com/p/de3b4bedab21) |
+| Mon, 08 Sep 2025 14:49:53 GMT | “The Emerging Threat of DNA Hacking: A Conversation on Genetic Security” | Swaminathan Murali | [Read More](https://medium.com/p/af9ba60de176) |
+| Mon, 08 Sep 2025 14:41:09 GMT | ️‍♂️ แนะนำ Detect It Easy (DIE) — เครื่องมือวิเคราะห์ไฟล์ PE/ELF/Mach-O สำหรับสาย Reverse… | Supot Sirisak | [Read More](https://medium.com/p/18d8efd2fdb0) |
 | Mon, 08 Sep 2025 14:33:36 GMT | Let’s philosophize un peu (1) | Irene AMEDJI | [Read More](https://medium.com/p/cd960dcee41e) |
 | Mon, 08 Sep 2025 14:31:42 GMT | Can AI Hack Your Accounts? The Truth Behind Smart Attacks — and Smarter Defenses | PromptSecAI | [Read More](https://medium.com/p/2e29429ead9f) |
 | Mon, 08 Sep 2025 14:19:49 GMT | Pandora Writeup — HTB | Txaber Trevino | [Read More](https://medium.com/p/3a2d1e67782b) |
@@ -104,14 +113,3 @@ BugDB v2 | Dasmanish | [Read More](https://medium.com/p/6ec6db69aa79) |
 | Mon, 08 Sep 2025 09:46:05 GMT | When Hackers Don’t Need Malware: The Rise of Invisible Attacks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/00829a875f2e) |
 | Mon, 08 Sep 2025 09:45:50 GMT | Understanding Network Security: A Guide for Students in Jalandhar | Dkvilas | [Read More](https://medium.com/p/43453f98f802) |
 | Mon, 08 Sep 2025 09:40:58 GMT | Gmail Data Breach: Why 2.5 | Mo-Left | [Read More](https://medium.com/p/9dbd6e982267) |
-| Mon, 08 Sep 2025 09:40:14 GMT | Satoshi’s Shadow | Stratos Inglezakis | [Read More](https://medium.com/p/7be2967f91be) |
-| Mon, 08 Sep 2025 09:39:36 GMT | Beware of WhatsApp and
-Telegram Mods: Hidden
-Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security | [Read More](https://medium.com/p/cf2f8dcf3fbc) |
-| Mon, 08 Sep 2025 09:38:54 GMT | Deepfake Attacks: A Deep Dive into Real Cases and Corporate Defense | Chinmayravindra | [Read More](https://medium.com/p/510245a3a959) |
-| Mon, 08 Sep 2025 09:37:38 GMT | ️ TryHackMe - Carnage Walkthrough | Furkanctiner | [Read More](https://medium.com/p/6951c3e99441) |
-| Mon, 08 Sep 2025 09:31:57 GMT | Compliance in Financial Web Apps: How to Build Secure, Trustworthy, and Regulation-Ready… | Amaka okoye | [Read More](https://medium.com/p/1494d33a0f0c) |
-| Mon, 08 Sep 2025 09:31:46 GMT | Drosera Network: The Future of Drosera Network published by Ekong, Deborah Usen on 8th… | Deborahekong | [Read More](https://medium.com/p/67b5ec7b6098) |
-| Mon, 08 Sep 2025 09:30:44 GMT | Understanding Email Spoofing Concept and Protection | Medjue Gore | [Read More](https://medium.com/p/5331358f2bb8) |
-| Mon, 08 Sep 2025 09:27:50 GMT | ️ Top 5 Cybersecurity Projects You Can Build with n8n — Free & Beginner-Friendly | Sukhveer Singh | [Read More](https://medium.com/p/270c06081558) |
-| Mon, 08 Sep 2025 09:26:36 GMT | CompTIA Security+ Certification: Pathway to Cybersecurity Skills | Shettymanishg | [Read More](https://medium.com/p/a6ee065f03ba) |
