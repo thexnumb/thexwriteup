@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 18:47:18 GMT | Clickjacking: The Invisible Threat Hiding in Plain Sight | pratham verma | [Read More](https://medium.com/p/bb9e18a014c6) |
+| Mon, 08 Sep 2025 18:43:31 GMT | The Linux Security Journey — Reset Attack Mitigation | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/aa704a09a706) |
+| Mon, 08 Sep 2025 18:41:39 GMT | Structural Battery Composites | Lazarin Kroni | [Read More](https://medium.com/p/483612fa1136) |
+| Mon, 08 Sep 2025 18:37:18 GMT | Como Escanear Seu Primeiro Repositório Python com Vulnify CLI | giozadi | [Read More](https://medium.com/p/2022a6c79c93) |
+| Mon, 08 Sep 2025 18:36:48 GMT | Why Kali Linux Might NOT Be Your Pentesting OS | Pavel Slesinger | [Read More](https://medium.com/p/ca5608fe75a1) |
+| Mon, 08 Sep 2025 18:36:37 GMT | The Psychology Behind 85% of Cyber Breaches: A Predictive Framework for Financial Services | Giuseppe Canale | [Read More](https://medium.com/p/451c07c4d4e0) |
+| Mon, 08 Sep 2025 18:35:01 GMT | Uncovering Artificial Intelligence: Its Significance for Our Future | NUR MOHAMMAD | [Read More](https://medium.com/p/5053f02324db) |
+| Mon, 08 Sep 2025 18:30:34 GMT | The Hidden Dangers of Overlooking Digital Hygiene in 2025 | Abdul Rehman Khan | [Read More](https://medium.com/p/fae7fc0de415) |
+| Mon, 08 Sep 2025 18:29:01 GMT | Unbreakable Encryption — One-Time Pad (OTP) | RuffLogix | [Read More](https://medium.com/p/272af30a7490) |
 | Mon, 08 Sep 2025 18:20:33 GMT | Exploiting an API endpoint using documentation | Richard Ndung'u | [Read More](https://medium.com/p/28b47d348270) |
+| Mon, 08 Sep 2025 18:18:40 GMT | Node.js ve Next.js Projelerinde Hosting Tuzakları: Plesk & cPanel Güvenlik Rehberi | Emre Ramazanoğlu | [Read More](https://medium.com/p/acc448f6986e) |
 | Mon, 08 Sep 2025 18:17:54 GMT | MYSTERY HACKERS | StratH | [Read More](https://medium.com/p/5468ba2ec103) |
 | Mon, 08 Sep 2025 18:16:17 GMT | The Role of Zero Trust in Strengthening Cloud Security | Techridge Solutions | [Read More](https://medium.com/p/8c3e8e7f08c4) |
 | Mon, 08 Sep 2025 18:09:13 GMT | The Report II — Blue Team Labs | Juan Alexander Alejo | [Read More](https://medium.com/p/20a0886f2ed2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 13:51:30 GMT | Passkeys: Future of Security or a Silent Lock-In? | Vipul Kumar | [Read More](https://medium.com/p/6111ce5b1a87) |
 | Mon, 08 Sep 2025 13:47:07 GMT | Blind SQL Injection Attacks | Balki Maharaj | [Read More](https://medium.com/p/46d140ac61f6) |
 | Mon, 08 Sep 2025 13:32:37 GMT | Hire A Hacker To Catch A Cheating Spouse | Darksynthhacker | [Read More](https://medium.com/p/5345a72abf07) |
-| Mon, 08 Sep 2025 13:28:53 GMT | Dark Vibes: How AI Became the New Accomplice in Cybercrime | Onur Okan | [Read More](https://medium.com/p/dffc3b281d2c) |
-| Mon, 08 Sep 2025 13:19:58 GMT | Advance Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/df92bcc13b21) |
-| Mon, 08 Sep 2025 13:10:35 GMT | How I Achieved 100 Points in OSCP in Just 3–4 Months — My 2025 Journey | Diasadin | [Read More](https://medium.com/p/795a7f6f05e5) |
-| Mon, 08 Sep 2025 13:09:09 GMT | RST TI Report Digest: 08 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/ed3b55e5aa9a) |
-| Mon, 08 Sep 2025 13:06:01 GMT | How to get a free VPS for bug hunting beginners | Ibtissam hammadi | [Read More](https://medium.com/p/d55080816470) |
-| Mon, 08 Sep 2025 13:05:46 GMT | WordPress Hack Recovery | WP HELP - LNX Servers - Page Speed - SEO - WEBDEV | [Read More](https://medium.com/p/b0f771890b24) |
-| Mon, 08 Sep 2025 13:01:50 GMT | Web Application Firewall (WAF) Bypass Techniques | Esra Kayhan | [Read More](https://medium.com/p/3f5585fc810b) |
-| Mon, 08 Sep 2025 12:59:19 GMT | A New Lens on AI: Triangulating Internal States for Enhanced Diagnostics and Probing | Berend Watchus | [Read More](https://medium.com/p/c313eafab6ae) |
-| Mon, 08 Sep 2025 12:59:12 GMT | Sandfly: auto upgrade/update script — keep your instance up-to-date easily. | Truvis Thornton | [Read More](https://medium.com/p/4e9a685911f4) |
-| Mon, 08 Sep 2025 12:54:51 GMT | Burglars Always Look for the Weak Spot | Dalibor Zivkovic | [Read More](https://medium.com/p/b24752f4cf28) |
