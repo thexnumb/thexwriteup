@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 21:12:45 GMT | PG Practice — Levram (Linux) | Lepton | [Read More](https://medium.com/p/550ddf41c414) |
+| Mon, 08 Sep 2025 21:12:34 GMT | PG Practice — AuthBy (Windows) | Lepton | [Read More](https://medium.com/p/537ea99fa136) |
+| Mon, 08 Sep 2025 21:06:12 GMT | EYCC 2025 — Forensics Challenges | Sama | [Read More](https://medium.com/p/bc43c6918a3a) |
+| Mon, 08 Sep 2025 21:02:15 GMT | Protect Your Assets with Professional Armed Security Guards in California | Salum Security | [Read More](https://medium.com/p/99e2e711d90c) |
+| Mon, 08 Sep 2025 20:55:09 GMT | Wireshark: The Basics — Wireshark —  Tryhackme Walkthrough | Dang3rXgh0st | [Read More](https://medium.com/p/2f5497b14060) |
+| Mon, 08 Sep 2025 20:51:28 GMT | Credential Fatigue: Why Passwords Are Still the Weakest Link | Akshay Chauhan | [Read More](https://medium.com/p/f7456b94ce66) |
+| Mon, 08 Sep 2025 20:38:28 GMT | Clap On Off Switch Circuit Using Arduino Praktikum IoT 3 | Muhammad Naveed Sharaheel | [Read More](https://medium.com/p/6a57e5094135) |
+| Mon, 08 Sep 2025 20:37:25 GMT | Linux Services & Daemon Exploitation | Cybersecplayground | [Read More](https://medium.com/p/e2b0ad1f05f8) |
 | Mon, 08 Sep 2025 20:35:12 GMT | SIEM LAB: Detecting Scheduled Task Abuse (T1053.005) for Persistence on Windows in Wazuh SIEM | Stevanus Banu | [Read More](https://medium.com/p/07b1bdb4db45) |
 | Mon, 08 Sep 2025 20:30:53 GMT | Academic Freedom vs. Cybersecurity: Why Universities Are Losing the Battle | Giuseppe Canale | [Read More](https://medium.com/p/0afa477bff38) |
 | Mon, 08 Sep 2025 20:29:18 GMT | The Greatest Risk to Mobile Apps? Their API’s…. | Chritzier | [Read More](https://medium.com/p/9724a791bc8a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 15:43:30 GMT | The CISO’s Impossible Task: Leading Security in an Age of Asymmetric Warfare | Eric Zietlow | [Read More](https://medium.com/p/16f67352d4ff) |
 | Mon, 08 Sep 2025 15:36:39 GMT | AWS Credentials Stolen | The UNFILTERED Draft | [Read More](https://medium.com/p/5ece9e2db604) |
 | Mon, 08 Sep 2025 15:36:36 GMT | Demystifying Cryptography That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/ae8551638c75) |
-| Mon, 08 Sep 2025 15:35:06 GMT | vulnerability is scary but that's what makes us human | Fayyaqun Amanah | [Read More](https://medium.com/p/d00105835edd) |
-| Mon, 08 Sep 2025 15:33:31 GMT | The Great Valet Key Heist: How a GitHub Breach and Rogue OAuth Tokens Led to a Massive Salesforce… | Pannag Kumaar | [Read More](https://medium.com/p/b28b71565391) |
-| Mon, 08 Sep 2025 15:32:18 GMT | ERP : Comment éviter le piège des 60% de projets qui dérapent ? | Abrennis Team | [Read More](https://medium.com/p/d8b00239cf7f) |
-| Mon, 08 Sep 2025 15:32:14 GMT | Demystifying Cryptography Step by Step | Cyber Security Research | [Read More](https://medium.com/p/23802da80877) |
-| Mon, 08 Sep 2025 15:26:44 GMT | The Dark Side of Wearables: Is Your Fitness Tracker Spying on You? | Arjun. S. Gaikwad | [Read More](https://medium.com/p/5a54f7302fd3) |
-| Mon, 08 Sep 2025 15:25:13 GMT | The Ultimate Step-by-Step Guide to Setting Up, Optimizing, and Maintaining Your Home Network | Paradise technologies Inc | [Read More](https://medium.com/p/bf98fcb6f520) |
-| Mon, 08 Sep 2025 15:23:21 GMT | Demystifying Cloud Security in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/9e57f1636bd4) |
-| Mon, 08 Sep 2025 15:17:23 GMT | 10 Must-Have Features in a Modern Security Camera System | Today’s Networking Solutions | [Read More](https://medium.com/p/7443cd4411d9) |
