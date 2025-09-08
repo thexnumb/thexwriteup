@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 14:19:49 GMT | Pandora Writeup — HTB | Txaber Trevino | [Read More](https://medium.com/p/3a2d1e67782b) |
+| Mon, 08 Sep 2025 14:11:19 GMT | Next-Gen VPS Hosting: The Road Ahead | Milaharris | [Read More](https://medium.com/p/e9e44de3a299) |
+| Mon, 08 Sep 2025 14:10:20 GMT | When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | LETCHU PKT | [Read More](https://medium.com/p/eae25a5f4f35) |
+| Mon, 08 Sep 2025 14:08:58 GMT | Blind XSS and HTML Injection Attacks in Public Swagger UIs | Balki Maharaj | [Read More](https://medium.com/p/86c9d79c5442) |
+| Mon, 08 Sep 2025 14:06:01 GMT | How AI Spots Criminals Hiding in Your Data. | The Bot Group | [Read More](https://medium.com/p/d451bf764760) |
+| Mon, 08 Sep 2025 14:04:53 GMT | แนะนำ dnSpy / dnSpyEx — .NET | Supot Sirisak | [Read More](https://medium.com/p/112e21ca2859) |
+| Mon, 08 Sep 2025 14:04:37 GMT | “DISKO 3” challenge | oussama | [Read More](https://medium.com/p/725060fc4b69) |
+| Mon, 08 Sep 2025 14:04:32 GMT | How to Evaluate Your AWS Security Posture: Stop Saying “I’ll Fix It Later” | Craftech Marketing | [Read More](https://medium.com/p/912eef4e4c39) |
+| Mon, 08 Sep 2025 14:02:10 GMT | Security Services San Francisco: Your Trusted Partner for Safety | Direct Guard Services | [Read More](https://medium.com/p/5f2ab5fe86d3) |
+| Mon, 08 Sep 2025 14:01:11 GMT | Cyber Briefing: 2025.09.08 | CyberMaterial | [Read More](https://medium.com/p/c400fc3c57e8) |
+| Mon, 08 Sep 2025 14:01:08 GMT | Inside the Ransomware Economy: The Business Behind Cybercrime | CoopSys | [Read More](https://medium.com/p/4914f743ace8) |
+| Mon, 08 Sep 2025 13:59:58 GMT | AspGoat: The First Intentionally Vulnerable modern ASP.NET Core App for OWASP Top 10 | Soham | [Read More](https://medium.com/p/d6037f7ac3f1) |
+| Mon, 08 Sep 2025 13:59:52 GMT | Catching Eddie in Hack The Box Sherlock “Unsupervised”: A Digital Forensics Walkthrough | Veronica Hannibal | [Read More](https://medium.com/p/199c67e0f01f) |
+| Mon, 08 Sep 2025 13:57:38 GMT | Supply Chain Cyber Attacks: Lessons from Recent Incidents and How to Safeguard ICS | Cyberkech | [Read More](https://medium.com/p/79233e1bb354) |
+| Mon, 08 Sep 2025 13:57:30 GMT | My SOC Roadmap — Breaking Into Cybersecurity as a Fresher | Varada Angadi | [Read More](https://medium.com/p/316e4ab7be57) |
+| Mon, 08 Sep 2025 13:56:09 GMT | Power BI Desktop’ta Rolleri Yönet (Manage Roles) | Nida | [Read More](https://medium.com/p/8e49c95e108a) |
+| Mon, 08 Sep 2025 13:51:30 GMT | Passkeys: Future of Security or a Silent Lock-In? | Vipul Kumar | [Read More](https://medium.com/p/6111ce5b1a87) |
+| Mon, 08 Sep 2025 13:47:07 GMT | Blind SQL Injection Attacks | Balki Maharaj | [Read More](https://medium.com/p/46d140ac61f6) |
+| Mon, 08 Sep 2025 13:32:37 GMT | Hire A Hacker To Catch A Cheating Spouse | Darksynthhacker | [Read More](https://medium.com/p/5345a72abf07) |
+| Mon, 08 Sep 2025 13:28:53 GMT | Dark Vibes: How AI Became the New Accomplice in Cybercrime | Onur Okan | [Read More](https://medium.com/p/dffc3b281d2c) |
 | Mon, 08 Sep 2025 13:19:58 GMT | Advance Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/df92bcc13b21) |
 | Mon, 08 Sep 2025 13:10:35 GMT | How I Achieved 100 Points in OSCP in Just 3–4 Months — My 2025 Journey | Diasadin | [Read More](https://medium.com/p/795a7f6f05e5) |
 | Mon, 08 Sep 2025 13:09:09 GMT | RST TI Report Digest: 08 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/ed3b55e5aa9a) |
@@ -95,23 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 09:20:50 GMT | Energy Consumption Monitoring with scaphandre | Salim Amine Bou Aram | [Read More](https://medium.com/p/5244f68f74c8) |
 | Mon, 08 Sep 2025 09:14:40 GMT | Leveraging Raspberry Pi For Pentesting Dropbox: A Guide To Ethical Hacking | Redfox Security | [Read More](https://medium.com/p/5369d773fd2f) |
 | Mon, 08 Sep 2025 09:12:35 GMT | Why Automating Identity Management in Oracle E-Business Suite is a Strategic Imperative | Openiam | [Read More](https://medium.com/p/11f51458197a) |
-| Mon, 08 Sep 2025 09:11:13 GMT | Why reCAPTCHA Is Used in Creating an Account? | Haniakhan | [Read More](https://medium.com/p/72cf4cf9a1d8) |
-| Mon, 08 Sep 2025 09:06:44 GMT | The Desire to Be Loved and Seen | Maaya Rive | [Read More](https://medium.com/p/89c40b81b4a9) |
-| Mon, 08 Sep 2025 09:01:48 GMT | 5 Security Questions Every Board Should Ask Quarterly | Evgeny Ermakov | [Read More](https://medium.com/p/a4057aa5f5bc) |
-| Mon, 08 Sep 2025 08:58:48 GMT | Post-Quantum Cryptography: Why Your Business Must Prepare Now | Amit Kumar Thakur | [Read More](https://medium.com/p/f41adbcd8716) |
-| Mon, 08 Sep 2025 08:50:54 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/850dae567f69) |
-| Mon, 08 Sep 2025 08:45:55 GMT | Secrets to Building PHP APIs That Never Leak Session State | Asian Digital Hub | [Read More](https://medium.com/p/e1e793732b99) |
-| Mon, 08 Sep 2025 08:45:49 GMT | Why I Made a 30 Minute poc video for Mercedes Benz | MRKNIGHT-NIDU | [Read More](https://medium.com/p/fc27195a1717) |
-| Mon, 08 Sep 2025 08:43:59 GMT | .env Nedir? Projelerde Neden ve Nasıl Kullanılır? | Rüveyda Ekiz | [Read More](https://medium.com/p/6e69799fddb6) |
-| Mon, 08 Sep 2025 08:41:07 GMT | Top Cybersecurity Companies in Singapore in 2025 | QualysecEurope | [Read More](https://medium.com/p/dbb0da9f4432) |
-| Mon, 08 Sep 2025 08:39:58 GMT | ImaginaryCTF tax-return Writeup | d4rksi3er | [Read More](https://medium.com/p/89f8259a6730) |
-| Mon, 08 Sep 2025 08:31:40 GMT | The Human Factor Isn’t Dead: Why People Still Matter in AI Security | Yash Gorasiya | [Read More](https://medium.com/p/d62e4353166f) |
-| Mon, 08 Sep 2025 08:28:11 GMT | Invisible Security Layers in PHP That Kill Most Attacks Instantly | Asian Digital Hub | [Read More](https://medium.com/p/7a7e3ecfd4d4) |
-| Mon, 08 Sep 2025 08:25:50 GMT | ESC15 (EKUwu)/CVE-2024–49019: Vulnerability in AD CS EKU Certificate Templates | CyCraft Technology Corp | [Read More](https://medium.com/p/6e4566216f4e) |
-| Mon, 08 Sep 2025 08:24:04 GMT | Vulnerability Management: Why It Matters for Every Business | Digital Defense | [Read More](https://medium.com/p/5735a94c2acf) |
-| Mon, 08 Sep 2025 08:21:20 GMT | Cybersecurity in India: Choosing the Best Degree for High-Paying Careers | Shreyashettyctr | [Read More](https://medium.com/p/8ac34e029a3b) |
-| Mon, 08 Sep 2025 08:16:45 GMT | Yapay Zekâ ve Siber Güvenlik: Bir Dost, Bir Düşman | Hamdi Gökmen Solak | [Read More](https://medium.com/p/6284a524f10e) |
-| Mon, 08 Sep 2025 08:13:56 GMT | Beyond SPF & DKIM: How Incomplete Email Security Opens the Door to Spoofing, Phishing, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6fa9aa218eb2) |
-| Mon, 08 Sep 2025 08:09:34 GMT | Network Sniffing on Linux with Wireshark: A Beginner’s Guide to Packet Analysis and Cybersecurity | CyberShield Insights | [Read More](https://medium.com/p/ec0e30d26979) |
-| Mon, 08 Sep 2025 08:02:50 GMT | Outsmarting Passkeys: The FIDO Downgrade Attack | Ashley Dai | [Read More](https://medium.com/p/eea35a56663c) |
-| Mon, 08 Sep 2025 08:02:18 GMT | When Rules Break: The Hidden Dangers of Business Logic Flaws That Can Destroy Your App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d43732a9b234) |
