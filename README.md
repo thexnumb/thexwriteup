@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 08:45:55 GMT | Secrets to Building PHP APIs That Never Leak Session State | Asian Digital Hub | [Read More](https://medium.com/p/e1e793732b99) |
+| Mon, 08 Sep 2025 08:45:49 GMT | Why I Made a 30 Minute poc video for Mercedes Benz | MRKNIGHT-NIDU | [Read More](https://medium.com/p/fc27195a1717) |
+| Mon, 08 Sep 2025 08:41:07 GMT | Top Cybersecurity Companies in Singapore in 2025 | QualysecEurope | [Read More](https://medium.com/p/dbb0da9f4432) |
+| Mon, 08 Sep 2025 08:39:58 GMT | ImaginaryCTF tax-return Writeup | d4rksi3er | [Read More](https://medium.com/p/89f8259a6730) |
+| Mon, 08 Sep 2025 08:31:40 GMT | The Human Factor Isn’t Dead: Why People Still Matter in AI Security | Yash Gorasiya | [Read More](https://medium.com/p/d62e4353166f) |
+| Mon, 08 Sep 2025 08:28:11 GMT | Invisible Security Layers in PHP That Kill Most Attacks Instantly | Asian Digital Hub | [Read More](https://medium.com/p/7a7e3ecfd4d4) |
+| Mon, 08 Sep 2025 08:25:50 GMT | ESC15 (EKUwu)/CVE-2024–49019: Vulnerability in AD CS EKU Certificate Templates | CyCraft Technology Corp | [Read More](https://medium.com/p/6e4566216f4e) |
+| Mon, 08 Sep 2025 08:24:04 GMT | Vulnerability Management: Why It Matters for Every Business | Digital Defense | [Read More](https://medium.com/p/5735a94c2acf) |
+| Mon, 08 Sep 2025 08:21:20 GMT | Cybersecurity in India: Choosing the Best Degree for High-Paying Careers | Shreyashettyctr | [Read More](https://medium.com/p/8ac34e029a3b) |
 | Mon, 08 Sep 2025 08:16:45 GMT | Yapay Zekâ ve Siber Güvenlik: Bir Dost, Bir Düşman | Hamdi Gökmen Solak | [Read More](https://medium.com/p/6284a524f10e) |
 | Mon, 08 Sep 2025 08:13:56 GMT | Beyond SPF & DKIM: How Incomplete Email Security Opens the Door to Spoofing, Phishing, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6fa9aa218eb2) |
 | Mon, 08 Sep 2025 08:09:34 GMT | Network Sniffing on Linux with Wireshark: A Beginner’s Guide to Packet Analysis and Cybersecurity | CyberShield Insights | [Read More](https://medium.com/p/ec0e30d26979) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 03:42:38 GMT | The Word Brushes Against Me And I Split Open | eiza ♡ | [Read More](https://medium.com/p/0307d883b246) |
 | Mon, 08 Sep 2025 03:32:43 GMT | Parameter Cloaking in Web Cache Poisoning Using Rails Parameter Cloaking Scanner | Bash Overflow | [Read More](https://medium.com/p/489b571587c4) |
 | Mon, 08 Sep 2025 03:31:41 GMT | 10 Best Practices for Node.js and Kafka Domain Events | Arunangshu Das | [Read More](https://medium.com/p/0f584c001f92) |
-| Mon, 08 Sep 2025 03:31:41 GMT | Defending Against CSRF Attacks with Spring Security | Dhanush K | [Read More](https://medium.com/p/b35dbbe85b69) |
-| Mon, 08 Sep 2025 03:31:41 GMT | The Digital Frontier: How AI Revolutionizes Security While Creating New Vulnerabilities | Akshat Ratanpal | [Read More](https://medium.com/p/d826b2a1ef0f) |
-| Mon, 08 Sep 2025 03:30:41 GMT | Why Silence Cuts deeper than Criticism… | Rahmatullah Majekodunmi | [Read More](https://medium.com/p/a1bf33561539) |
-| Mon, 08 Sep 2025 03:27:06 GMT | The Hidden War: How Asymmetric Warfare Is Reshaping Your Business, Politics and Daily Life | Tudor Finneran | [Read More](https://medium.com/p/2cc03a935513) |
-| Mon, 08 Sep 2025 03:18:32 GMT | CVE-2023–38646: Critical RCE Vulnerability in Metabase — What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/0c0fd5b4439e) |
-| Mon, 08 Sep 2025 03:09:57 GMT | hdfc bank se paise cut jaaye to kya karen 7389657154 अगर आपके एचडीएफ़सी बैंक खाते से पैसे कट… | gf0kqzyx7k@xkxkud.com | [Read More](https://medium.com/p/f59959b7fbdd) |
-| Mon, 08 Sep 2025 03:03:35 GMT | Superheroes Don’t Share Capes and Why You Shouldn’t Share Passwords Either | DefendPoint Security | [Read More](https://medium.com/p/d6b7168c05c4) |
-| Mon, 08 Sep 2025 03:01:40 GMT | Top Technical Skills Every Graduate Needs in 2025 to Land a Job | Daffa Ghiffary Kusuma | [Read More](https://medium.com/p/011bfe10c8e4) |
-| Mon, 08 Sep 2025 03:01:37 GMT | Trump Revives ‘Department of War’ and Cuts U.S. Military Aid to Eastern Europe | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/56f5156cbce9) |
