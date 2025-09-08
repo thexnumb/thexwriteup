@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 05:12:32 GMT | How Difficult is the CISSP Exam? | Jeffery Moore | [Read More](https://medium.com/p/52dbe0e02ef8) |
+| Mon, 08 Sep 2025 05:01:59 GMT | Data Poisoning Attacks | Tal Eliyahu | [Read More](https://medium.com/p/07d8a07f8259) |
+| Mon, 08 Sep 2025 04:53:00 GMT | Strengthening Cybersecurity with Penetration Testing Services: A Real-Time Example | CyberNX | [Read More](https://medium.com/p/93076b49f016) |
+| Mon, 08 Sep 2025 04:46:14 GMT | How I Traced a Phishing Campaign to Its C2 Server | Paritosh | [Read More](https://medium.com/p/df271d4f176a) |
+| Mon, 08 Sep 2025 04:43:53 GMT | Rate Limiting: A Key to Safer and Faster Systems | Ajit Sanghera | [Read More](https://medium.com/p/e09f4b672157) |
+| Mon, 08 Sep 2025 04:35:12 GMT | The Things Women Never Say Out Loud | vydhi | [Read More](https://medium.com/p/ef235d727478) |
 | Mon, 08 Sep 2025 04:31:49 GMT | Django Best Practices for Scalable and Maintainable Web Applications in 2025 | Monil Saraswat | [Read More](https://medium.com/p/32ab1ed53f88) |
 | Mon, 08 Sep 2025 04:31:44 GMT | When Support Portals Bite Back: DOM-XSS in a Helpcenter | Devansh Patel | [Read More](https://medium.com/p/4ac7e154ce4e) |
+| Mon, 08 Sep 2025 04:31:44 GMT | PicoCTF 2024: IntroToBurp — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/53b7c958601f) |
 | Mon, 08 Sep 2025 04:26:55 GMT | Write Up Lab: SQL injection attack, listing the database contents on Oracle | Velskynotfound | [Read More](https://medium.com/p/9fab1f37d9c4) |
 | Mon, 08 Sep 2025 04:17:13 GMT | Certificated (ImaginaryCTF) | Michael Elfauz | [Read More](https://medium.com/p/bd1ba72c7ca1) |
 | Mon, 08 Sep 2025 04:14:23 GMT | Website Security for Small Businesses: How to Protect Your Online Presence from Cyber Attacks | Negar Rezaee Yekta | [Read More](https://medium.com/p/ba91bacca311) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 20:57:25 GMT | Stop Reading Love Like a Manual | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/af9564c558d1) |
 | Sun, 07 Sep 2025 20:46:58 GMT | EYCC 2025 — Web Challenges | Sama | [Read More](https://medium.com/p/ff319c7f34b9) |
 | Sun, 07 Sep 2025 20:30:10 GMT | Beyond the Uniforms (Stereotypes): Strengthening Security through Liaison and Effective… | Mohammad Faheem Khan Dawar | [Read More](https://medium.com/p/5a5693c0cd6b) |
-| Sun, 07 Sep 2025 20:25:16 GMT | Implementing Secure Mobile OTP in an ASP.NET Web API | R M Shahidul Islam Shahed | [Read More](https://medium.com/p/da56142a1701) |
-| Sun, 07 Sep 2025 20:24:32 GMT | Certified Red Team Analyst — Exam Review | The Darkarmy | [Read More](https://medium.com/p/135d4c7825bd) |
-| Sun, 07 Sep 2025 20:20:32 GMT | ️ Net Sec Challenge -TryHackMe Walkthrough (Junior Penetration Tester — PT1) | BXPLOIT | [Read More](https://medium.com/p/1a09566da489) |
-| Sun, 07 Sep 2025 20:13:51 GMT | Rooting Access on HackTheBox: A Step-by-Step Walkthrough | Kaplanibrahimm | [Read More](https://medium.com/p/0e47f5e831b4) |
-| Sun, 07 Sep 2025 20:12:43 GMT | Making a Malware Analysis Environment | William Boyd | [Read More](https://medium.com/p/7bb987a0abd5) |
-| Sun, 07 Sep 2025 20:08:07 GMT | The Linux Security Journey — IPv4 RPF (Reverse Path Filtering) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/14716f219f9d) |
-| Sun, 07 Sep 2025 20:01:40 GMT | Top 5 Security Mistakes in AWS (and How to Avoid Them) | Yusuf Yücel | [Read More](https://medium.com/p/fb83a53dd20b) |
