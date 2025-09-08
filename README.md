@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 04:14:23 GMT | Website Security for Small Businesses: How to Protect Your Online Presence from Cyber Attacks | Negar Rezaee Yekta | [Read More](https://medium.com/p/ba91bacca311) |
+| Mon, 08 Sep 2025 04:10:15 GMT | Cloud Security: Design Principles and Tools for a Safer Cloud | Geeky Vartika | [Read More](https://medium.com/p/5f69b803304f) |
+| Mon, 08 Sep 2025 04:01:43 GMT | Cybersecurity in the Age of Remote Work: Protecting Your Team Online (2025 Edition) | Secventra | [Read More](https://medium.com/p/71b4c70459cb) |
+| Mon, 08 Sep 2025 03:59:18 GMT | Just Launched My First GitHub Portfolio | Punnakavyasri | [Read More](https://medium.com/p/abb3dc07d7bf) |
+| Mon, 08 Sep 2025 03:55:19 GMT | The Ghost in the Code: AI is a Ticking Time Bomb for Cyber-security | Johan van Niekerk | [Read More](https://medium.com/p/20c50511ee4a) |
+| Mon, 08 Sep 2025 03:52:53 GMT | SafeLine WAF: Hands-On With the Free Open Source Web Application Firewall | AerieWhole123 | [Read More](https://medium.com/p/b41afbb6fc86) |
 | Mon, 08 Sep 2025 03:49:06 GMT | ️ SSRF Odyssey: How I Pillaged Internal Systems & Bagged a Heavy Bounty | Iski | [Read More](https://medium.com/p/5f88510be2cb) |
 | Mon, 08 Sep 2025 03:47:34 GMT | The Never-Ending Party: Invite Links That Never Die | Lakshya | [Read More](https://medium.com/p/a6b000901477) |
 | Mon, 08 Sep 2025 03:42:42 GMT | Cap — Writeup | makemebetter | [Read More](https://medium.com/p/eef79490d815) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 19:55:51 GMT | Mastering Cybersecurity in 2025: Hands-On Skills You Need (and Where to Practice Them) | Richard Wilder | [Read More](https://medium.com/p/026a5c0b6394) |
 | Sun, 07 Sep 2025 19:55:08 GMT | MY FIRST STEPS IN CYBERSECURITY | John Mark | [Read More](https://medium.com/p/f7951052b67a) |
 | Sun, 07 Sep 2025 19:42:59 GMT | Is artificial intelligence creating a more aware or more isolated generation? | Sidialtos | [Read More](https://medium.com/p/3ad6ca6e4359) |
-| Sun, 07 Sep 2025 19:40:01 GMT | My Journey to Becoming an INE Junior Penetration Tester (eJPT) Certified️‍♂️ | Rishikesh Vishnu Jadhav | [Read More](https://medium.com/p/c1a99adcf092) |
-| Sun, 07 Sep 2025 19:35:56 GMT | How I Found a High-Severity IDOR Without Using Any Proxy Tools | Yusuf | [Read More](https://medium.com/p/8a6d2d09efc7) |
-| Sun, 07 Sep 2025 19:34:16 GMT | EDITOR — HTB | H3XH7WK | [Read More](https://medium.com/p/110a788eb96d) |
-| Sun, 07 Sep 2025 19:25:18 GMT | Week 8 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/77c6e4d588c5) |
-| Sun, 07 Sep 2025 19:20:08 GMT | Ghost Jobs Everywhere | Miguel Norberto | [Read More](https://medium.com/p/da133ac95acb) |
-| Sun, 07 Sep 2025 19:11:51 GMT | Hack The Box — Synced (rsync) | Adhishri Kothiyal | [Read More](https://medium.com/p/26dbb97cbfab) |
