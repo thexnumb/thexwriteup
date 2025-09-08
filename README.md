@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 02:54:50 GMT | The Salesloft Drift Breach: Supply Chain Attacks via SaaS | VaRiOus_CanAriEs | [Read More](https://medium.com/p/6c281a62815d) |
+| Mon, 08 Sep 2025 02:45:30 GMT | The Fifth Domain: A Comprehensive Look at Cyber Warfare and National Security | CCD-IS | [Read More](https://medium.com/p/d11258553da6) |
+| Mon, 08 Sep 2025 02:40:14 GMT | TryHackMe PWN101 Challenge2 Writeup | Krishna | [Read More](https://medium.com/p/82a31cf111af) |
+| Mon, 08 Sep 2025 02:30:19 GMT | My Journey into Mentorship: From AppSecFamily to ADPlist | Mr Madani | [Read More](https://medium.com/p/4786b2dc9b1d) |
+| Mon, 08 Sep 2025 02:25:09 GMT | How 50,000 Requests Took Down Our Entire Metrics System | Kavinpon Navapong | [Read More](https://medium.com/p/898b34973ba7) |
+| Mon, 08 Sep 2025 02:23:21 GMT | The Things I Never Say Out Loud | vydhi | [Read More](https://medium.com/p/0fc77a89c67a) |
+| Mon, 08 Sep 2025 02:08:03 GMT | When Asking For Help Feels Like Too Much | Meridian | [Read More](https://medium.com/p/b3b8748833ef) |
+| Mon, 08 Sep 2025 02:06:56 GMT | The DevOps Engineer Doesn’t Exist — It’s the Parents… | Javier Rodriguez | [Read More](https://medium.com/p/73a74ce1f3a1) |
+| Mon, 08 Sep 2025 02:06:22 GMT | When “Fuck It” Meets Productivity: Script Your Freedom | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4979fed8f376) |
+| Mon, 08 Sep 2025 02:05:55 GMT | Cyber Risk Is Now a Boardroom Issue: Why Qantas’ Decision Sets a Global Precedent | Juan Pablo Castro | [Read More](https://medium.com/p/4124ce830be5) |
+| Mon, 08 Sep 2025 02:03:17 GMT | How to enable Sysmon on Windows and Send Logs to Wazuh | Raynard Waits | [Read More](https://medium.com/p/49cd006044bb) |
+| Mon, 08 Sep 2025 01:59:57 GMT | Jaguar Land Rover Halts Production After Cyber Incident Shuts Down Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/7b3442510623) |
+| Mon, 08 Sep 2025 01:59:03 GMT | Cybersecurity in Critical Infrastructure: Power Grids, Airports, and Nuclear Plants | A-STAR7_DOCTOR | [Read More](https://medium.com/p/14aa0db0972a) |
+| Mon, 08 Sep 2025 01:57:44 GMT | South Korea Arrests Suspected Chinese Hacker in $29M Cyber Heist | SafetyDetectives Research Team | [Read More](https://medium.com/p/c5a142595c2f) |
+| Mon, 08 Sep 2025 01:37:19 GMT | Sherluck: The Smart Way to Generate Targeted Wordlists for Password Testing | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/9d3bd26831e7) |
 | Mon, 08 Sep 2025 01:31:39 GMT | AWS WAF for API Security: Best Practices to Protect Your Cloud APIs on Amazon Web Services —… | Swapnil Damate, PMP® | [Read More](https://medium.com/p/7c7492e682c7) |
 | Mon, 08 Sep 2025 01:31:39 GMT | CORS: Bản Chất, Hạn Chế và Best Practices | CNDvn | [Read More](https://medium.com/p/20387b48dcec) |
 | Mon, 08 Sep 2025 01:26:31 GMT | Data Redaction in LLM security | Ayush Parwal | [Read More](https://medium.com/p/925fd92a1d85) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 18:28:39 GMT | The Internet of Things (IoT): The Unseen Backdoor into Our Lives | Shahzaib | [Read More](https://medium.com/p/776ee077a1bd) |
 | Sun, 07 Sep 2025 18:27:47 GMT | Breaking Into Cybersecurity: From Zero to Your First Job | vydhi | [Read More](https://medium.com/p/84206b22ea71) |
 | Sun, 07 Sep 2025 18:27:23 GMT | That Old Program on Your Computer Isn’t Just Sleeping — It’s a Time Bomb | Aj | [Read More](https://medium.com/p/5ce30b0c2c0b) |
-| Sun, 07 Sep 2025 18:23:38 GMT | Mastering AWS KMS Grants: Benefits, Security Considerations, and a Practical Demo | Cloud Security Masterclass | [Read More](https://medium.com/p/17be5088ee6a) |
-| Sun, 07 Sep 2025 18:18:16 GMT | How to Access Your Mac Mini (and External Drives) from Anywhere — Securely! | Pawan Kumar | [Read More](https://medium.com/p/34d16b090c83) |
-| Sun, 07 Sep 2025 18:18:15 GMT | Beyond the Office Walls: Why Endpoint Security is Critical for a Mobile Workforce | Surojoy Gupta | [Read More](https://medium.com/p/4fe29d555547) |
-| Sun, 07 Sep 2025 18:16:42 GMT | AWS WAF Demo: Protecting Against SSRF Attacks | Cloud Security Masterclass | [Read More](https://medium.com/p/06174111c22f) |
-| Sun, 07 Sep 2025 18:16:11 GMT | PG Play — Blogger (Linux) | Lepton | [Read More](https://medium.com/p/fe3ac8b4276e) |
-| Sun, 07 Sep 2025 18:15:31 GMT | PG Practice — Pebbles (Linux) | Lepton | [Read More](https://medium.com/p/ed7b3dca5ce4) |
-| Sun, 07 Sep 2025 18:15:12 GMT | PG Pratice — Quackerjack (Linux) | Lepton | [Read More](https://medium.com/p/edad594cd5d5) |
-| Sun, 07 Sep 2025 18:14:17 GMT | Beyond the Endpoint: A Cloud-Native Phishing Defense Strategy | Surojoy Gupta | [Read More](https://medium.com/p/40cd6a5c5a1a) |
-| Sun, 07 Sep 2025 18:12:59 GMT | Week 5 of My 90-Day Challenge: Automation and New Tools | Mike (sl0th0x87) | [Read More](https://medium.com/p/c53f81598753) |
-| Sun, 07 Sep 2025 18:12:28 GMT | Fortifying Cloud Connectivity: Private Connectivity with AWS VPC Endpoints for Enhanced Security | Cloud Security Masterclass | [Read More](https://medium.com/p/7a0fb10e3738) |
-| Sun, 07 Sep 2025 18:07:10 GMT | AWS VPC Flow Logs Explained: Security, Fields, and Analysis | Cloud Security Masterclass | [Read More](https://medium.com/p/dd0e2260635e) |
-| Sun, 07 Sep 2025 18:03:37 GMT | Ollama: Local LLM for Code Security | Ashish Bansal | [Read More](https://medium.com/p/d9694d416d14) |
-| Sun, 07 Sep 2025 18:02:05 GMT | ️‍♂️ The Dark Side of Disclosure: CVEs, Exploits, and Zero-Day Mysteries | Natarajan C K | [Read More](https://medium.com/p/4c3672aca21c) |
-| Sun, 07 Sep 2025 18:01:37 GMT | Bug Bounty: Information Disclosure: el fallo invisible que rompe sistemas | Gorka | [Read More](https://medium.com/p/7ac62023ac1c) |
-| Sun, 07 Sep 2025 17:53:10 GMT | Using Impersonation in OrderCloud: Real Use Cases and Pitfalls | Md. Zillur Rahman | [Read More](https://medium.com/p/c3b43b16fddb) |
