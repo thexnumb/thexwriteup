@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 15:36:39 GMT | AWS Credentials Stolen | The UNFILTERED Draft | [Read More](https://medium.com/p/5ece9e2db604) |
+| Mon, 08 Sep 2025 15:35:06 GMT | vulnerability is scary but that's what makes us human | Fayyaqun Amanah | [Read More](https://medium.com/p/d00105835edd) |
+| Mon, 08 Sep 2025 15:33:31 GMT | The Great Valet Key Heist: How a GitHub Breach and Rogue OAuth Tokens Led to a Massive Salesforce… | Pannag Kumaar | [Read More](https://medium.com/p/b28b71565391) |
+| Mon, 08 Sep 2025 15:32:18 GMT | ERP : Comment éviter le piège des 60% de projets qui dérapent ? | Abrennis Team | [Read More](https://medium.com/p/d8b00239cf7f) |
+| Mon, 08 Sep 2025 15:26:44 GMT | The Dark Side of Wearables: Is Your Fitness Tracker Spying on You? | Arjun. S. Gaikwad | [Read More](https://medium.com/p/5a54f7302fd3) |
+| Mon, 08 Sep 2025 15:25:13 GMT | The Ultimate Step-by-Step Guide to Setting Up, Optimizing, and Maintaining Your Home Network | Paradise technologies Inc | [Read More](https://medium.com/p/bf98fcb6f520) |
+| Mon, 08 Sep 2025 15:23:21 GMT | Demystifying Cloud Security in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/9e57f1636bd4) |
+| Mon, 08 Sep 2025 15:17:23 GMT | 10 Must-Have Features in a Modern Security Camera System | Today’s Networking Solutions | [Read More](https://medium.com/p/7443cd4411d9) |
+| Mon, 08 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 8, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ad29630c79f1) |
+| Mon, 08 Sep 2025 15:15:01 GMT | Privacy Laws Demystified: GDPR, CCPA, and What They Mean for You | Arjun. S. Gaikwad | [Read More](https://medium.com/p/63cb6170b7f6) |
+| Mon, 08 Sep 2025 15:12:39 GMT | Deep Dive into Hosting (REST + WebSockets) on an Unmanaged VM (Netcup) — Securing your VM | Abhinav Kumar | [Read More](https://medium.com/p/af13cc081abe) |
 | Mon, 08 Sep 2025 15:12:32 GMT | Researchers Uncover Web Application Firewall Bypass Using JavaScript Injection and Parameter… | Jasmitharouthu | [Read More](https://medium.com/p/21da1f370ba5) |
 | Mon, 08 Sep 2025 15:11:03 GMT | Malicious Emails Targeting U.S. Organizations Highlight Growing Cybersecurity Risks | Suhas valasala | [Read More](https://medium.com/p/d991d186a8c4) |
+| Mon, 08 Sep 2025 15:11:01 GMT | Zscaler Hit in Ongoing Salesloft Drift Supply Chain Attack | Aj | [Read More](https://medium.com/p/56e2d9660cdc) |
 | Mon, 08 Sep 2025 15:02:49 GMT | The Thin Line Between Security and Overhead in Modern IT Systems | Neo | [Read More](https://medium.com/p/dec7c5641a4c) |
 | Mon, 08 Sep 2025 15:02:33 GMT | Hackers Exploit Amazon Simple Email Service to Send Over 50,000 Malicious Emails Daily | Jasmitharouthu | [Read More](https://medium.com/p/a6c61774951d) |
 | Mon, 08 Sep 2025 15:00:07 GMT | Demystifying Cloud Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/3572cc33b048) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 10:35:30 GMT | LATAM Defense Market Future Business Opportunities 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/468133240b3a) |
 | Mon, 08 Sep 2025 10:32:09 GMT | Secure Your Future: Study Master’s in Cybersecurity in Canada | Shreetu Mohanty | [Read More](https://medium.com/p/1d9373b58611) |
 | Mon, 08 Sep 2025 10:31:42 GMT | ⏱️ SLA Demystified: The Promise Behind Every Service | Natarajan C K | [Read More](https://medium.com/p/87cd9f639859) |
-| Mon, 08 Sep 2025 10:22:41 GMT | [Hack The Box CTF] Environment Write-Up | fnwn | [Read More](https://medium.com/p/6e6079fdd913) |
-| Mon, 08 Sep 2025 10:20:29 GMT | Identity Broker case study: How to prevent tenant isolation vulnerabilities with Okta’s Account… | Natalia Trojanowska-Korepta | [Read More](https://medium.com/p/5f91404cf9b3) |
-| Mon, 08 Sep 2025 10:16:35 GMT | Data Sprawling: The Hidden Strain of the Digital Age | Arzoo Parween | [Read More](https://medium.com/p/4f727d0e7090) |
-| Mon, 08 Sep 2025 10:06:52 GMT | A Collection of Airbnb IDORs — Worth $28,500 — Leaking Private Photos, Addresses & More | Justas_b | [Read More](https://medium.com/p/b4ef85d45c8f) |
-| Mon, 08 Sep 2025 10:05:52 GMT | 7 Server Trends You Can Not Afford To Ignore In 2026 | HostNOC | [Read More](https://medium.com/p/8cffe34266b7) |
-| Mon, 08 Sep 2025 10:01:22 GMT | Strengthen Your Cybersecurity with Advanced Penetration Testing Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/ae9d4440d342) |
-| Mon, 08 Sep 2025 09:58:56 GMT | DockerLabs Writeup — Reverse (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/5eb2c85337a4) |
-| Mon, 08 Sep 2025 09:54:56 GMT | BugDB v1 & 
-BugDB v2 | Dasmanish | [Read More](https://medium.com/p/6ec6db69aa79) |
-| Mon, 08 Sep 2025 09:54:11 GMT | Ultimate Google Dorking: A Comprehensive Guide | hxxfrd | [Read More](https://medium.com/p/098ac0a3038d) |
-| Mon, 08 Sep 2025 09:46:05 GMT | When Hackers Don’t Need Malware: The Rise of Invisible Attacks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/00829a875f2e) |
-| Mon, 08 Sep 2025 09:45:50 GMT | Understanding Network Security: A Guide for Students in Jalandhar | Dkvilas | [Read More](https://medium.com/p/43453f98f802) |
-| Mon, 08 Sep 2025 09:40:58 GMT | Gmail Data Breach: Why 2.5 | Mo-Left | [Read More](https://medium.com/p/9dbd6e982267) |
