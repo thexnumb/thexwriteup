@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 19:07:35 GMT | Hacking != Reconnaissance (real talk) | Iserjaoui | [Read More](https://medium.com/p/1ec1443e9aaf) |
+| Mon, 08 Sep 2025 19:03:36 GMT | The RAG Security Paradox: Building Trustworthy AI with the Four Pillar Framework | Vikram Samal | [Read More](https://medium.com/p/338a21d0dd26) |
+| Mon, 08 Sep 2025 19:01:41 GMT | The Day I Stopped Pretending to Be Strong | Dr. Beenish Shakeel | [Read More](https://medium.com/p/19065d673e45) |
+| Mon, 08 Sep 2025 19:00:12 GMT | Momentum1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c770f8848665) |
+| Mon, 08 Sep 2025 18:55:30 GMT | What I Learned from Mining Cybersecurity Incident Data (2024): A Practical Data Science Journey | Franzkingstein | [Read More](https://medium.com/p/404760fe96ca) |
+| Mon, 08 Sep 2025 18:51:47 GMT | The Hidden Threat Every Digital Entrepreneur and Everyday People Need to Worry About (And How to… | Pitt Tech | [Read More](https://medium.com/p/aacd9ca4ab54) |
+| Mon, 08 Sep 2025 18:48:45 GMT | Momentum2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/af4c114c9de3) |
 | Mon, 08 Sep 2025 18:47:18 GMT | Clickjacking: The Invisible Threat Hiding in Plain Sight | pratham verma | [Read More](https://medium.com/p/bb9e18a014c6) |
+| Mon, 08 Sep 2025 18:45:41 GMT | Locking Down the Smart World: Simple IoT Security Tips | Kavinda Mihiran | [Read More](https://medium.com/p/bb860890cd12) |
 | Mon, 08 Sep 2025 18:43:31 GMT | The Linux Security Journey — Reset Attack Mitigation | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/aa704a09a706) |
 | Mon, 08 Sep 2025 18:41:39 GMT | Structural Battery Composites | Lazarin Kroni | [Read More](https://medium.com/p/483612fa1136) |
 | Mon, 08 Sep 2025 18:37:18 GMT | Como Escanear Seu Primeiro Repositório Python com Vulnify CLI | giozadi | [Read More](https://medium.com/p/2022a6c79c93) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 14:02:10 GMT | Security Services San Francisco: Your Trusted Partner for Safety | Direct Guard Services | [Read More](https://medium.com/p/5f2ab5fe86d3) |
 | Mon, 08 Sep 2025 14:01:11 GMT | Cyber Briefing: 2025.09.08 | CyberMaterial | [Read More](https://medium.com/p/c400fc3c57e8) |
 | Mon, 08 Sep 2025 14:01:08 GMT | Inside the Ransomware Economy: The Business Behind Cybercrime | CoopSys | [Read More](https://medium.com/p/4914f743ace8) |
-| Mon, 08 Sep 2025 13:59:58 GMT | AspGoat: The First Intentionally Vulnerable modern ASP.NET Core App for OWASP Top 10 | Soham | [Read More](https://medium.com/p/d6037f7ac3f1) |
-| Mon, 08 Sep 2025 13:59:52 GMT | Catching Eddie in Hack The Box Sherlock “Unsupervised”: A Digital Forensics Walkthrough | Veronica Hannibal | [Read More](https://medium.com/p/199c67e0f01f) |
-| Mon, 08 Sep 2025 13:57:38 GMT | Supply Chain Cyber Attacks: Lessons from Recent Incidents and How to Safeguard ICS | Cyberkech | [Read More](https://medium.com/p/79233e1bb354) |
-| Mon, 08 Sep 2025 13:57:30 GMT | My SOC Roadmap — Breaking Into Cybersecurity as a Fresher | Varada Angadi | [Read More](https://medium.com/p/316e4ab7be57) |
-| Mon, 08 Sep 2025 13:56:09 GMT | Power BI Desktop’ta Rolleri Yönet (Manage Roles) | Nida | [Read More](https://medium.com/p/8e49c95e108a) |
-| Mon, 08 Sep 2025 13:51:30 GMT | Passkeys: Future of Security or a Silent Lock-In? | Vipul Kumar | [Read More](https://medium.com/p/6111ce5b1a87) |
-| Mon, 08 Sep 2025 13:47:07 GMT | Blind SQL Injection Attacks | Balki Maharaj | [Read More](https://medium.com/p/46d140ac61f6) |
-| Mon, 08 Sep 2025 13:32:37 GMT | Hire A Hacker To Catch A Cheating Spouse | Darksynthhacker | [Read More](https://medium.com/p/5345a72abf07) |
