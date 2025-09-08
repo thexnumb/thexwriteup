@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 16:14:23 GMT | Cloudflare Data Breach: What Sri Lankan Users Need to Know | Kishara Jayasanka | [Read More](https://medium.com/p/c34f01d6cc4d) |
+| Mon, 08 Sep 2025 16:12:17 GMT | Why Quppy AML Bot is Essential for Safe Crypto Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/0e39616d176d) |
+| Mon, 08 Sep 2025 16:11:35 GMT | eMark — Free & Open Source PDF Digital Signature Software | Pintu Prajapati | [Read More](https://medium.com/p/5d1097f58996) |
+| Mon, 08 Sep 2025 16:08:00 GMT | Top 5 FinTech Data Protection Concerns | Priyesh | [Read More](https://medium.com/p/94de7c44d7b0) |
+| Mon, 08 Sep 2025 15:54:58 GMT | Clap On Off Switch Using Arduino — Simple IoT Project | Zifa Tea Azzahra | [Read More](https://medium.com/p/65a00a617678) |
+| Mon, 08 Sep 2025 15:53:27 GMT | From Open Redirect to Potential Account Takeover | Luciano Griffa | [Read More](https://medium.com/p/f6856c2aafe2) |
+| Mon, 08 Sep 2025 15:53:06 GMT | DSuite: Taking Back Control of Your Digital Workspace | Aliciasierra | [Read More](https://medium.com/p/5b7af8a12372) |
+| Mon, 08 Sep 2025 15:43:30 GMT | The CISO’s Impossible Task: Leading Security in an Age of Asymmetric Warfare | Eric Zietlow | [Read More](https://medium.com/p/16f67352d4ff) |
 | Mon, 08 Sep 2025 15:36:39 GMT | AWS Credentials Stolen | The UNFILTERED Draft | [Read More](https://medium.com/p/5ece9e2db604) |
+| Mon, 08 Sep 2025 15:36:36 GMT | Demystifying Cryptography That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/ae8551638c75) |
 | Mon, 08 Sep 2025 15:35:06 GMT | vulnerability is scary but that's what makes us human | Fayyaqun Amanah | [Read More](https://medium.com/p/d00105835edd) |
 | Mon, 08 Sep 2025 15:33:31 GMT | The Great Valet Key Heist: How a GitHub Breach and Rogue OAuth Tokens Led to a Massive Salesforce… | Pannag Kumaar | [Read More](https://medium.com/p/b28b71565391) |
 | Mon, 08 Sep 2025 15:32:18 GMT | ERP : Comment éviter le piège des 60% de projets qui dérapent ? | Abrennis Team | [Read More](https://medium.com/p/d8b00239cf7f) |
+| Mon, 08 Sep 2025 15:32:14 GMT | Demystifying Cryptography Step by Step | Cyber Security Research | [Read More](https://medium.com/p/23802da80877) |
 | Mon, 08 Sep 2025 15:26:44 GMT | The Dark Side of Wearables: Is Your Fitness Tracker Spying on You? | Arjun. S. Gaikwad | [Read More](https://medium.com/p/5a54f7302fd3) |
 | Mon, 08 Sep 2025 15:25:13 GMT | The Ultimate Step-by-Step Guide to Setting Up, Optimizing, and Maintaining Your Home Network | Paradise technologies Inc | [Read More](https://medium.com/p/bf98fcb6f520) |
 | Mon, 08 Sep 2025 15:23:21 GMT | Demystifying Cloud Security in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/9e57f1636bd4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 10:58:18 GMT | Half-Second Screens: A SOC Dashboard for Multi-Phase Threats | Purple Security | [Read More](https://medium.com/p/67c3c98a0440) |
 | Mon, 08 Sep 2025 10:54:07 GMT | Scope of Cyber Security Careers in India — 2025 Update | GRAStech | [Read More](https://medium.com/p/5edfdb56469d) |
 | Mon, 08 Sep 2025 10:53:10 GMT | Apache Tomcat App Manager Exploit: Operation CATTRAP | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/50fd3a0fbf7e) |
-| Mon, 08 Sep 2025 10:50:42 GMT | Continuous Threat Exposure Management: Why It Matters and How to Make It Real | Luis Abreu from Cyver | [Read More](https://medium.com/p/b91efd554ce0) |
-| Mon, 08 Sep 2025 10:49:45 GMT | TryHackMe Block — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/bbd90e149f1c) |
-| Mon, 08 Sep 2025 10:49:40 GMT | How I Hack Websites With Just HTML Injection | Ibtissam hammadi | [Read More](https://medium.com/p/9ccbc87faf47) |
-| Mon, 08 Sep 2025 10:49:33 GMT | Automated AI Hacking is Here (Demo with Claude and Metasploit) | Shahzaib | [Read More](https://medium.com/p/36b60ddbebba) |
-| Mon, 08 Sep 2025 10:48:31 GMT | WinRAR Flaw: How It Was Exploited to Spread Malware. | S.Ali | [Read More](https://medium.com/p/61088e6e9ef8) |
-| Mon, 08 Sep 2025 10:46:28 GMT | 5 Common Phone Scams to Watch Out For in 2025 (and How to Avoid Them) | Ethan Cole | [Read More](https://medium.com/p/2d6c526d4574) |
-| Mon, 08 Sep 2025 10:37:40 GMT | After Nano Banana, Can We Ever Trust a Single Pixel Again? | AI Rabbit | [Read More](https://medium.com/p/200528c7749e) |
-| Mon, 08 Sep 2025 10:35:30 GMT | LATAM Defense Market Future Business Opportunities 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/468133240b3a) |
-| Mon, 08 Sep 2025 10:32:09 GMT | Secure Your Future: Study Master’s in Cybersecurity in Canada | Shreetu Mohanty | [Read More](https://medium.com/p/1d9373b58611) |
-| Mon, 08 Sep 2025 10:31:42 GMT | ⏱️ SLA Demystified: The Promise Behind Every Service | Natarajan C K | [Read More](https://medium.com/p/87cd9f639859) |
