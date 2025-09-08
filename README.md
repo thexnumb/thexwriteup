@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 13:19:58 GMT | Advance Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/df92bcc13b21) |
+| Mon, 08 Sep 2025 13:10:35 GMT | How I Achieved 100 Points in OSCP in Just 3–4 Months — My 2025 Journey | Diasadin | [Read More](https://medium.com/p/795a7f6f05e5) |
+| Mon, 08 Sep 2025 13:09:09 GMT | RST TI Report Digest: 08 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/ed3b55e5aa9a) |
+| Mon, 08 Sep 2025 13:06:01 GMT | How to get a free VPS for bug hunting beginners | Ibtissam hammadi | [Read More](https://medium.com/p/d55080816470) |
+| Mon, 08 Sep 2025 13:05:46 GMT | WordPress Hack Recovery | WP HELP - LNX Servers - Page Speed - SEO - WEBDEV | [Read More](https://medium.com/p/b0f771890b24) |
+| Mon, 08 Sep 2025 13:01:50 GMT | Web Application Firewall (WAF) Bypass Techniques | Esra Kayhan | [Read More](https://medium.com/p/3f5585fc810b) |
+| Mon, 08 Sep 2025 12:59:19 GMT | A New Lens on AI: Triangulating Internal States for Enhanced Diagnostics and Probing | Berend Watchus | [Read More](https://medium.com/p/c313eafab6ae) |
+| Mon, 08 Sep 2025 12:59:12 GMT | Sandfly: auto upgrade/update script — keep your instance up-to-date easily. | Truvis Thornton | [Read More](https://medium.com/p/4e9a685911f4) |
+| Mon, 08 Sep 2025 12:54:51 GMT | Burglars Always Look for the Weak Spot | Dalibor Zivkovic | [Read More](https://medium.com/p/b24752f4cf28) |
+| Mon, 08 Sep 2025 12:52:59 GMT | How to Use a Hardware Wallet with DeFi Platforms Securely: A Complete Guide for 2025 | Tony Philips | [Read More](https://medium.com/p/7b8991e2b262) |
+| Mon, 08 Sep 2025 12:47:33 GMT | Wednesday special Episode 7: The Signal Tightens | Shobha Pai | [Read More](https://medium.com/p/b752b2eedc8b) |
+| Mon, 08 Sep 2025 12:44:50 GMT | Building a Detection Lab That Fits in Your Laptop - Part 2: From Lab to Hunting | Joseph Gitonga | [Read More](https://medium.com/p/25b87afd1749) |
 | Mon, 08 Sep 2025 12:34:40 GMT | How to Recover a Disabled Facebook Account | M. Huzaifa | [Read More](https://medium.com/p/0fb9e316bc8b) |
+| Mon, 08 Sep 2025 12:34:34 GMT | Inorganic Growth: The CEO’s Secret Weapon for Scale, Speed & Survival | Viineet Naag (https://marketinggasoline.com/) | [Read More](https://medium.com/p/5dd15b37d6bc) |
 | Mon, 08 Sep 2025 12:31:25 GMT | How to Secure Your Startup’s Data with Zero-Trust Cybersecurity in 2025 | Umesh Anjula | [Read More](https://medium.com/p/7c0a7332437d) |
 | Mon, 08 Sep 2025 12:30:17 GMT | API Key Vs. OAuth — How to Choose the best Authentication | Reethika Moovendhan | [Read More](https://medium.com/p/10b1cce62d12) |
 | Mon, 08 Sep 2025 12:30:11 GMT | Ethical Hacking Certification — Build a Career in Cybersecurity with Expert Skills | Certocean | [Read More](https://medium.com/p/75da3a114114) |
@@ -102,16 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 08:09:34 GMT | Network Sniffing on Linux with Wireshark: A Beginner’s Guide to Packet Analysis and Cybersecurity | CyberShield Insights | [Read More](https://medium.com/p/ec0e30d26979) |
 | Mon, 08 Sep 2025 08:02:50 GMT | Outsmarting Passkeys: The FIDO Downgrade Attack | Ashley Dai | [Read More](https://medium.com/p/eea35a56663c) |
 | Mon, 08 Sep 2025 08:02:18 GMT | When Rules Break: The Hidden Dangers of Business Logic Flaws That Can Destroy Your App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d43732a9b234) |
-| Mon, 08 Sep 2025 07:57:40 GMT | TransUnion Data Breach 2025: Why Governance, Risk, Compliance, and HR Culture Still Define… | Jair Abrego Cubilla | [Read More](https://medium.com/p/eba38cd113f1) |
-| Mon, 08 Sep 2025 07:57:35 GMT | SMS Gateway Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/381536971d68) |
-| Mon, 08 Sep 2025 07:56:10 GMT | Podcast with Ledger, Trezor expands to Brazil and a message from our intern | Henry Windle | [Read More](https://medium.com/p/aad642bee5e1) |
-| Mon, 08 Sep 2025 07:54:48 GMT | A Complete Guide to Access Control Models: RBAC, ABAC, DAC, MAC, and Beyond | Mosarof Hossain | [Read More](https://medium.com/p/90fed4ffaf79) |
-| Mon, 08 Sep 2025 07:53:15 GMT | Understanding Content Security Policy (CSP): A Developer’s Guide to Safer Web Apps | Khushi Ahuja | [Read More](https://medium.com/p/2db597721e0d) |
-| Mon, 08 Sep 2025 07:48:51 GMT | Which Open-Source WAF Really Delivers? A Head-to-Head Benchmark | AerieWhole123 | [Read More](https://medium.com/p/37631e08fb7f) |
-| Mon, 08 Sep 2025 07:48:44 GMT | Essential Secrets Management: Beyond Vault with KMS in Pipelines | Mohamed ElEmam | [Read More](https://medium.com/p/be54f481a029) |
-| Mon, 08 Sep 2025 07:47:55 GMT | FDA 510(k) Guidance Made Easy for Medical Device Companies | Qualysec | [Read More](https://medium.com/p/734452ba3858) |
-| Mon, 08 Sep 2025 07:43:32 GMT | ประจำวันจันทร์ที่ 8 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/88e46597cfd9) |
-| Mon, 08 Sep 2025 07:37:19 GMT | H1 Thermostat | Dasmanish | [Read More](https://medium.com/p/63521d9d08d2) |
-| Mon, 08 Sep 2025 07:35:09 GMT | Implementing Rate Limiting in Express.js: A Hands-On Guide | Rishabh Sharma | [Read More](https://medium.com/p/1aac3570d53c) |
-| Mon, 08 Sep 2025 07:34:58 GMT | The Death of Passwords: Why Passkeys Are the Future of Online Security | Iqra Anwar | [Read More](https://medium.com/p/9825d5ef321d) |
-| Mon, 08 Sep 2025 07:34:28 GMT | Secure Coding : Path Traversal ( os.path.join | Siddiquimohammad | [Read More](https://medium.com/p/abf741f4059d) |
