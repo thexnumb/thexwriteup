@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 23:20:30 GMT | Include writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/49cddc431ab2) |
+| Mon, 08 Sep 2025 23:12:25 GMT | Environmental Security in Cyber Defense: What Every IT Pro Should Know | Kyrillos Kamal | [Read More](https://medium.com/p/3a91dd3451cb) |
+| Mon, 08 Sep 2025 23:05:46 GMT | Standar Kompetensi Developer Indonesia: Mengapa SKKNI 2016 Tidak Lagi Relevan untuk Industri Modern | Adha Wiyana | [Read More](https://medium.com/p/de3189ae3322) |
 | Mon, 08 Sep 2025 22:52:04 GMT | Bluetooth Hacking | Hasanzade Hasan | [Read More](https://medium.com/p/6fa7dbf6e14e) |
 | Mon, 08 Sep 2025 22:48:15 GMT | *Packet Meditation: A Polyglot Pipeline for Network Introspection* | K.E.B | [Read More](https://medium.com/p/95eff6a6c17e) |
+| Mon, 08 Sep 2025 22:47:45 GMT | The Endpoint Paradox: Hardware, OPSEC, and the Future of Surveillance | Jonathan Brown | [Read More](https://medium.com/p/c265044788e4) |
 | Mon, 08 Sep 2025 22:46:59 GMT | Security Alert: Massive Supply Chain Attack on npm ⚠️ | Mike (sl0th0x87) | [Read More](https://medium.com/p/a06dbfb15007) |
 | Mon, 08 Sep 2025 22:42:33 GMT | Designing Tech for Humans | Matthew.Rosenquist | [Read More](https://medium.com/p/faa5e972ed86) |
 | Mon, 08 Sep 2025 22:41:43 GMT | How to add new users to Active Directory | Ryanchanest | [Read More](https://medium.com/p/bb7d7ff613c7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 17:34:50 GMT | SEC Approval Of Listing Standards Can Mainstream Crypto ETFs | IC News | [Read More](https://medium.com/p/6c2978680f7b) |
 | Mon, 08 Sep 2025 17:33:59 GMT | Will AI Take Over Cybersecurity? Understanding the Balance Between Automation and Human Expertise | SafeAeon Inc. | [Read More](https://medium.com/p/0dd46ebd0bd5) |
 | Mon, 08 Sep 2025 17:28:31 GMT | Understanding IEEE 802 Wireless Standards and 4-way handshake in WPA/WPA-2 | Sadineni Sai Sushanth | [Read More](https://medium.com/p/ebc907d6b1e5) |
-| Mon, 08 Sep 2025 17:24:00 GMT | Basic linux command you should know !! | Cyberhamiii | [Read More](https://medium.com/p/205bf6841f07) |
-| Mon, 08 Sep 2025 17:22:27 GMT | Exploiting HTTP Parser Inconsistencies | Vaibhav Mohite | [Read More](https://medium.com/p/ab766c8a433d) |
-| Mon, 08 Sep 2025 17:20:21 GMT | My Daily Cyber Security Checklist | Tech Monk | [Read More](https://medium.com/p/27c91dda6ce9) |
-| Mon, 08 Sep 2025 17:17:56 GMT | What Is Cybersecurity? The Powerful Guide in 5 Topics | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/ff3390c6d35b) |
