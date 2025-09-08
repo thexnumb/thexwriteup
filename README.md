@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 07:37:19 GMT | H1 Thermostat | Dasmanish | [Read More](https://medium.com/p/63521d9d08d2) |
+| Mon, 08 Sep 2025 07:35:09 GMT | Implementing Rate Limiting in Express.js: A Hands-On Guide | Rishabh Sharma | [Read More](https://medium.com/p/1aac3570d53c) |
+| Mon, 08 Sep 2025 07:34:58 GMT | The Death of Passwords: Why Passkeys Are the Future of Online Security | Iqra Anwar | [Read More](https://medium.com/p/9825d5ef321d) |
+| Mon, 08 Sep 2025 07:34:28 GMT | Secure Coding : Path Traversal ( os.path.join | Siddiquimohammad | [Read More](https://medium.com/p/abf741f4059d) |
+| Mon, 08 Sep 2025 07:31:35 GMT | Mobile Market Report Guide: What’s Driving Sales in 2025 | Ahamed Afran | [Read More](https://medium.com/p/00cd64266713) |
+| Mon, 08 Sep 2025 07:30:12 GMT | Stop Spinning Snowflake VMs: This Open-Source Tool Makes KVM Feel Like Magic | cybrNK | [Read More](https://medium.com/p/68469d717327) |
+| Mon, 08 Sep 2025 07:29:44 GMT | Is Android 14+ Really Unhackable? | Shahzaib | [Read More](https://medium.com/p/e6ab28b9c109) |
+| Mon, 08 Sep 2025 07:28:31 GMT | WHAT’S NEW IN MUMU TYCOON: CITY MINING BONUS AND WITHDRAWAL FEATURE UNVEILED. | Camsy Wealth | [Read More](https://medium.com/p/ad2b84504a1b) |
+| Mon, 08 Sep 2025 07:21:51 GMT | Building a Free SIEM with ELK Stack (Elastic Stack) — Step-by-Step Guide for Beginners (CentOS… | Anivesh Mohan | [Read More](https://medium.com/p/a9e1103a28f5) |
 | Mon, 08 Sep 2025 07:16:52 GMT | The Suspicious Reviewer: [Hack The Box] | Mrinal Kumar Chandra | [Read More](https://medium.com/p/6a899762310e) |
 | Mon, 08 Sep 2025 07:16:24 GMT | The Hidden World of Emoji Smuggling: A Cybersecurity Threat You Didn’t See Coming | Devarshi Acharya | [Read More](https://medium.com/p/534c767887dc) |
 | Mon, 08 Sep 2025 07:15:11 GMT | Responsible Disclosure: Critical Vulnerability in Claude (Anthropic) — Bypassing Safety… | Tsaracex | [Read More](https://medium.com/p/d30e719f3d91) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 01:59:03 GMT | Cybersecurity in Critical Infrastructure: Power Grids, Airports, and Nuclear Plants | A-STAR7_DOCTOR | [Read More](https://medium.com/p/14aa0db0972a) |
 | Mon, 08 Sep 2025 01:57:44 GMT | South Korea Arrests Suspected Chinese Hacker in $29M Cyber Heist | SafetyDetectives Research Team | [Read More](https://medium.com/p/c5a142595c2f) |
 | Mon, 08 Sep 2025 01:37:19 GMT | Sherluck: The Smart Way to Generate Targeted Wordlists for Password Testing | AmirHossein Ahmadnejad Roudsari | [Read More](https://medium.com/p/9d3bd26831e7) |
-| Mon, 08 Sep 2025 01:31:39 GMT | AWS WAF for API Security: Best Practices to Protect Your Cloud APIs on Amazon Web Services —… | Swapnil Damate, PMP® | [Read More](https://medium.com/p/7c7492e682c7) |
-| Mon, 08 Sep 2025 01:31:39 GMT | CORS: Bản Chất, Hạn Chế và Best Practices | CNDvn | [Read More](https://medium.com/p/20387b48dcec) |
-| Mon, 08 Sep 2025 01:26:31 GMT | Data Redaction in LLM security | Ayush Parwal | [Read More](https://medium.com/p/925fd92a1d85) |
-| Mon, 08 Sep 2025 01:14:13 GMT | Aurum Fix Reviews, how to withdraw your assets. | ADMIN.Woven | [Read More](https://medium.com/p/d17276f342ed) |
-| Mon, 08 Sep 2025 01:07:30 GMT | Abandoned S3 Buckets: A Silent Cyber Threat Lurking in the Shadows | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/a1d9cf2c6eac) |
-| Mon, 08 Sep 2025 01:00:46 GMT | Why Presales Is the Unsung Hero of Sales Success | Emmanuel Bentil | [Read More](https://medium.com/p/c13406c5a98a) |
-| Mon, 08 Sep 2025 00:51:12 GMT | The Hidden Risks of Legacy Systems: How AI and Cybersecurity Are Evolving to Expose Flaws | Emmanuel Bentil | [Read More](https://medium.com/p/4ab73324e0d2) |
-| Mon, 08 Sep 2025 00:49:04 GMT | Setting up OpenVPN Access Server in Amazon VPC | Ameera Haider Rizvi | [Read More](https://medium.com/p/65e0fbb681a6) |
-| Mon, 08 Sep 2025 00:48:29 GMT | Ensuring High Availability and Disaster Recovery for Azure Virtual Machines | Divyesh | [Read More](https://medium.com/p/bbe74c665df4) |
