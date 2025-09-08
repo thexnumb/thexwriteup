@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 03:49:06 GMT | ️ SSRF Odyssey: How I Pillaged Internal Systems & Bagged a Heavy Bounty | Iski | [Read More](https://medium.com/p/5f88510be2cb) |
+| Mon, 08 Sep 2025 03:47:34 GMT | The Never-Ending Party: Invite Links That Never Die | Lakshya | [Read More](https://medium.com/p/a6b000901477) |
+| Mon, 08 Sep 2025 03:42:42 GMT | Cap — Writeup | makemebetter | [Read More](https://medium.com/p/eef79490d815) |
+| Mon, 08 Sep 2025 03:42:38 GMT | The Word Brushes Against Me And I Split Open | eiza ♡ | [Read More](https://medium.com/p/0307d883b246) |
+| Mon, 08 Sep 2025 03:32:43 GMT | Parameter Cloaking in Web Cache Poisoning Using Rails Parameter Cloaking Scanner | Bash Overflow | [Read More](https://medium.com/p/489b571587c4) |
+| Mon, 08 Sep 2025 03:31:41 GMT | 10 Best Practices for Node.js and Kafka Domain Events | Arunangshu Das | [Read More](https://medium.com/p/0f584c001f92) |
+| Mon, 08 Sep 2025 03:31:41 GMT | Defending Against CSRF Attacks with Spring Security | Dhanush K | [Read More](https://medium.com/p/b35dbbe85b69) |
+| Mon, 08 Sep 2025 03:31:41 GMT | The Digital Frontier: How AI Revolutionizes Security While Creating New Vulnerabilities | Akshat Ratanpal | [Read More](https://medium.com/p/d826b2a1ef0f) |
+| Mon, 08 Sep 2025 03:30:41 GMT | Why Silence Cuts deeper than Criticism… | Rahmatullah Majekodunmi | [Read More](https://medium.com/p/a1bf33561539) |
+| Mon, 08 Sep 2025 03:27:06 GMT | The Hidden War: How Asymmetric Warfare Is Reshaping Your Business, Politics and Daily Life | Tudor Finneran | [Read More](https://medium.com/p/2cc03a935513) |
+| Mon, 08 Sep 2025 03:18:32 GMT | CVE-2023–38646: Critical RCE Vulnerability in Metabase — What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/0c0fd5b4439e) |
+| Mon, 08 Sep 2025 03:09:57 GMT | hdfc bank se paise cut jaaye to kya karen 7389657154 अगर आपके एचडीएफ़सी बैंक खाते से पैसे कट… | gf0kqzyx7k@xkxkud.com | [Read More](https://medium.com/p/f59959b7fbdd) |
+| Mon, 08 Sep 2025 03:03:35 GMT | Superheroes Don’t Share Capes and Why You Shouldn’t Share Passwords Either | DefendPoint Security | [Read More](https://medium.com/p/d6b7168c05c4) |
+| Mon, 08 Sep 2025 03:01:40 GMT | Top Technical Skills Every Graduate Needs in 2025 to Land a Job | Daffa Ghiffary Kusuma | [Read More](https://medium.com/p/011bfe10c8e4) |
+| Mon, 08 Sep 2025 03:01:37 GMT | Trump Revives ‘Department of War’ and Cuts U.S. Military Aid to Eastern Europe | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/56f5156cbce9) |
 | Mon, 08 Sep 2025 02:54:50 GMT | The Salesloft Drift Breach: Supply Chain Attacks via SaaS | VaRiOus_CanAriEs | [Read More](https://medium.com/p/6c281a62815d) |
 | Mon, 08 Sep 2025 02:45:30 GMT | The Fifth Domain: A Comprehensive Look at Cyber Warfare and National Security | CCD-IS | [Read More](https://medium.com/p/d11258553da6) |
 | Mon, 08 Sep 2025 02:40:14 GMT | TryHackMe PWN101 Challenge2 Writeup | Krishna | [Read More](https://medium.com/p/82a31cf111af) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 19:25:18 GMT | Week 8 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/77c6e4d588c5) |
 | Sun, 07 Sep 2025 19:20:08 GMT | Ghost Jobs Everywhere | Miguel Norberto | [Read More](https://medium.com/p/da133ac95acb) |
 | Sun, 07 Sep 2025 19:11:51 GMT | Hack The Box — Synced (rsync) | Adhishri Kothiyal | [Read More](https://medium.com/p/26dbb97cbfab) |
-| Sun, 07 Sep 2025 19:05:31 GMT | JWT Hacking: Broken Access Control Exploit. | Richard Ndung'u | [Read More](https://medium.com/p/6435e7855ec0) |
-| Sun, 07 Sep 2025 19:04:54 GMT | Threat Modeling with STRIDE: A Practical Walkthrough | Janith Malinga | [Read More](https://medium.com/p/93dfd8f23b9b) |
-| Sun, 07 Sep 2025 19:02:32 GMT | The Auth Apocalypse: Episode 5—The Cookie Thief’s Favourite Snack | Yamini Yadav | [Read More](https://medium.com/p/6b32dcc8fe6d) |
-| Sun, 07 Sep 2025 19:02:20 GMT | Why “Unhackable” Systems Don’t Exist: Lessons from the Frontlines | Aj | [Read More](https://medium.com/p/6fd517d117ba) |
-| Sun, 07 Sep 2025 18:50:49 GMT | Homoglyph Attacks: A Subtle but Dangerous Cybersecurity Threat | Aashish Baweja | [Read More](https://medium.com/p/5cf320abf955) |
-| Sun, 07 Sep 2025 18:50:06 GMT | Cracking the Case: How I Discovered an IDOR Vulnerability | Abhishek | [Read More](https://medium.com/p/10142ffb57d6) |
-| Sun, 07 Sep 2025 18:41:45 GMT | The $23 Trillion Threat: Cybercrime’s New Frontier | Max Fisher | [Read More](https://medium.com/p/68acd7fb0537) |
-| Sun, 07 Sep 2025 18:41:10 GMT | TheHackersLabs — Tortuga | APS88 | [Read More](https://medium.com/p/aa1a7610cc8f) |
-| Sun, 07 Sep 2025 18:31:55 GMT | Zero Trust: The Future of Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/bdff66b76f04) |
-| Sun, 07 Sep 2025 18:31:25 GMT | Coupon Code Leakage & Response Manipulation got me 40% discount in a self hosted bug bounty company… | Be nice insabat | [Read More](https://medium.com/p/e9d5c94aafa2) |
-| Sun, 07 Sep 2025 18:29:50 GMT | Path to Becoming a DevSecOps Engineer (from Zero to Pro) | Rashadul Islam | [Read More](https://medium.com/p/04b4385dd487) |
-| Sun, 07 Sep 2025 18:29:22 GMT | AWS CloudTrail: Your One-Stop Shop for Comprehensive AWS Logging | Cloud Security Masterclass | [Read More](https://medium.com/p/87244f15fcc8) |
-| Sun, 07 Sep 2025 18:28:39 GMT | The Internet of Things (IoT): The Unseen Backdoor into Our Lives | Shahzaib | [Read More](https://medium.com/p/776ee077a1bd) |
-| Sun, 07 Sep 2025 18:27:47 GMT | Breaking Into Cybersecurity: From Zero to Your First Job | vydhi | [Read More](https://medium.com/p/84206b22ea71) |
-| Sun, 07 Sep 2025 18:27:23 GMT | That Old Program on Your Computer Isn’t Just Sleeping — It’s a Time Bomb | Aj | [Read More](https://medium.com/p/5ce30b0c2c0b) |
