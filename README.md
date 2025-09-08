@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 10:35:30 GMT | LATAM Defense Market Future Business Opportunities 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/468133240b3a) |
+| Mon, 08 Sep 2025 10:32:09 GMT | Secure Your Future: Study Master’s in Cybersecurity in Canada | Shreetu Mohanty | [Read More](https://medium.com/p/1d9373b58611) |
+| Mon, 08 Sep 2025 10:31:42 GMT | ⏱️ SLA Demystified: The Promise Behind Every Service | Natarajan C K | [Read More](https://medium.com/p/87cd9f639859) |
+| Mon, 08 Sep 2025 10:22:41 GMT | [Hack The Box CTF] Environment Write-Up | fnwn | [Read More](https://medium.com/p/6e6079fdd913) |
 | Mon, 08 Sep 2025 10:20:29 GMT | Identity Broker case study: How to prevent tenant isolation vulnerabilities with Okta’s Account… | Natalia Trojanowska-Korepta | [Read More](https://medium.com/p/5f91404cf9b3) |
+| Mon, 08 Sep 2025 10:16:35 GMT | Data Sprawling: The Hidden Strain of the Digital Age | Arzoo Parween | [Read More](https://medium.com/p/4f727d0e7090) |
 | Mon, 08 Sep 2025 10:06:52 GMT | A Collection of Airbnb IDORs — Worth $28,500 — Leaking Private Photos, Addresses & More | Justas_b | [Read More](https://medium.com/p/b4ef85d45c8f) |
 | Mon, 08 Sep 2025 10:05:52 GMT | 7 Server Trends You Can Not Afford To Ignore In 2026 | HostNOC | [Read More](https://medium.com/p/8cffe34266b7) |
 | Mon, 08 Sep 2025 10:01:22 GMT | Strengthen Your Cybersecurity with Advanced Penetration Testing Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/ae9d4440d342) |
@@ -110,8 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 05:48:33 GMT | Secrets Manager vs. Parameter Store: Which One Should You Really Use? | Ran Isenberg | [Read More](https://medium.com/p/807e5a75c4e6) |
 | Mon, 08 Sep 2025 05:47:39 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/5d3ac3caeb10) |
 | Mon, 08 Sep 2025 05:47:38 GMT | What comes after gaining a reverse shell? | st97rb0y | [Read More](https://medium.com/p/e7d11e9bc314) |
-| Mon, 08 Sep 2025 05:40:23 GMT | Why Ethical Hacking Foundation Certifications Are Crucial for Beginners | Tomcruise | [Read More](https://medium.com/p/ee689fb8b861) |
-| Mon, 08 Sep 2025 05:37:56 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/1f1554cc9d6b) |
-| Mon, 08 Sep 2025 05:34:30 GMT | Top Trends That Define The Best Security Company In Singapore Today | Jane Tang | [Read More](https://medium.com/p/f79ad1c07917) |
-| Mon, 08 Sep 2025 05:27:50 GMT | SQL Injection: Practical Step by Step Guide for Ethical Hackers | Rashadul Islam | [Read More](https://medium.com/p/10c5750a4677) |
-| Mon, 08 Sep 2025 05:24:49 GMT | Handling Large File Uploads in Node.js Without Crashing Your Server | Dipak Ahirav | [Read More](https://medium.com/p/83060dac9e59) |
