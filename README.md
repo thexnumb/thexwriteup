@@ -12,11 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 10:20:29 GMT | Identity Broker case study: How to prevent tenant isolation vulnerabilities with Okta’s Account… | Natalia Trojanowska-Korepta | [Read More](https://medium.com/p/5f91404cf9b3) |
+| Mon, 08 Sep 2025 10:06:52 GMT | A Collection of Airbnb IDORs — Worth $28,500 — Leaking Private Photos, Addresses & More | Justas_b | [Read More](https://medium.com/p/b4ef85d45c8f) |
+| Mon, 08 Sep 2025 10:05:52 GMT | 7 Server Trends You Can Not Afford To Ignore In 2026 | HostNOC | [Read More](https://medium.com/p/8cffe34266b7) |
+| Mon, 08 Sep 2025 10:01:22 GMT | Strengthen Your Cybersecurity with Advanced Penetration Testing Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/ae9d4440d342) |
+| Mon, 08 Sep 2025 09:58:56 GMT | DockerLabs Writeup — Reverse (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/5eb2c85337a4) |
+| Mon, 08 Sep 2025 09:54:56 GMT | BugDB v1 & 
+BugDB v2 | Dasmanish | [Read More](https://medium.com/p/6ec6db69aa79) |
+| Mon, 08 Sep 2025 09:54:11 GMT | Ultimate Google Dorking: A Comprehensive Guide | hxxfrd | [Read More](https://medium.com/p/098ac0a3038d) |
+| Mon, 08 Sep 2025 09:46:05 GMT | When Hackers Don’t Need Malware: The Rise of Invisible Attacks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/00829a875f2e) |
+| Mon, 08 Sep 2025 09:45:50 GMT | Understanding Network Security: A Guide for Students in Jalandhar | Dkvilas | [Read More](https://medium.com/p/43453f98f802) |
 | Mon, 08 Sep 2025 09:40:58 GMT | Gmail Data Breach: Why 2.5 | Mo-Left | [Read More](https://medium.com/p/9dbd6e982267) |
 | Mon, 08 Sep 2025 09:40:14 GMT | Satoshi’s Shadow | Stratos Inglezakis | [Read More](https://medium.com/p/7be2967f91be) |
 | Mon, 08 Sep 2025 09:39:36 GMT | Beware of WhatsApp and
 Telegram Mods: Hidden
 Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security | [Read More](https://medium.com/p/cf2f8dcf3fbc) |
+| Mon, 08 Sep 2025 09:38:54 GMT | Deepfake Attacks: A Deep Dive into Real Cases and Corporate Defense | Chinmayravindra | [Read More](https://medium.com/p/510245a3a959) |
+| Mon, 08 Sep 2025 09:37:38 GMT | ️ TryHackMe - Carnage Walkthrough | Furkanctiner | [Read More](https://medium.com/p/6951c3e99441) |
 | Mon, 08 Sep 2025 09:31:57 GMT | Compliance in Financial Web Apps: How to Build Secure, Trustworthy, and Regulation-Ready… | Amaka okoye | [Read More](https://medium.com/p/1494d33a0f0c) |
 | Mon, 08 Sep 2025 09:31:46 GMT | Drosera Network: The Future of Drosera Network published by Ekong, Deborah Usen on 8th… | Deborahekong | [Read More](https://medium.com/p/67b5ec7b6098) |
 | Mon, 08 Sep 2025 09:30:44 GMT | Understanding Email Spoofing Concept and Protection | Medjue Gore | [Read More](https://medium.com/p/5331358f2bb8) |
@@ -103,14 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 05:34:30 GMT | Top Trends That Define The Best Security Company In Singapore Today | Jane Tang | [Read More](https://medium.com/p/f79ad1c07917) |
 | Mon, 08 Sep 2025 05:27:50 GMT | SQL Injection: Practical Step by Step Guide for Ethical Hackers | Rashadul Islam | [Read More](https://medium.com/p/10c5750a4677) |
 | Mon, 08 Sep 2025 05:24:49 GMT | Handling Large File Uploads in Node.js Without Crashing Your Server | Dipak Ahirav | [Read More](https://medium.com/p/83060dac9e59) |
-| Mon, 08 Sep 2025 05:24:36 GMT | Mr-Robot GPT | Mrinal Kumar Chandra | [Read More](https://medium.com/p/f6fdb670e4fc) |
-| Mon, 08 Sep 2025 05:23:59 GMT | How Safe Is Your Online Payment? Demystifying Credit Card Security | Jacky Liu | [Read More](https://medium.com/p/b4a8455a0795) |
-| Mon, 08 Sep 2025 05:21:50 GMT | Anatomia de uma Cadeia de Ataque Complexa: Análise Detalhada do Infostealer Astaroth | byFranke | [Read More](https://medium.com/p/ae16238e0eb6) |
-| Mon, 08 Sep 2025 05:18:33 GMT | What begins as fantasy can haunt reality | Ashutosh Sharma | [Read More](https://medium.com/p/a6e3425734bf) |
-| Mon, 08 Sep 2025 05:18:32 GMT | AI Applications Across Key Domains | Maxwell Nzekwe | [Read More](https://medium.com/p/e323bd82de15) |
-| Mon, 08 Sep 2025 05:17:57 GMT | The Core Principles of Successful Incident Response | Dean | [Read More](https://medium.com/p/533634f9cb53) |
-| Mon, 08 Sep 2025 05:12:32 GMT | How Difficult is the CISSP Exam? | Jeffery Moore | [Read More](https://medium.com/p/52dbe0e02ef8) |
-| Mon, 08 Sep 2025 05:01:59 GMT | Data Poisoning Attacks | Tal Eliyahu | [Read More](https://medium.com/p/07d8a07f8259) |
-| Mon, 08 Sep 2025 04:53:00 GMT | Strengthening Cybersecurity with Penetration Testing Services: A Real-Time Example | CyberNX | [Read More](https://medium.com/p/93076b49f016) |
-| Mon, 08 Sep 2025 04:46:14 GMT | How I Traced a Phishing Campaign to Its C2 Server | Paritosh | [Read More](https://medium.com/p/df271d4f176a) |
-| Mon, 08 Sep 2025 04:43:53 GMT | Rate Limiting: A Key to Safer and Faster Systems | Ajit Sanghera | [Read More](https://medium.com/p/e09f4b672157) |
