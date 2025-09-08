@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 05:27:50 GMT | SQL Injection: Practical Step by Step Guide for Ethical Hackers | Rashadul Islam | [Read More](https://medium.com/p/10c5750a4677) |
+| Mon, 08 Sep 2025 05:24:49 GMT | Handling Large File Uploads in Node.js Without Crashing Your Server | Dipak Ahirav | [Read More](https://medium.com/p/83060dac9e59) |
+| Mon, 08 Sep 2025 05:24:36 GMT | Mr-Robot GPT | Mrinal Kumar Chandra | [Read More](https://medium.com/p/f6fdb670e4fc) |
+| Mon, 08 Sep 2025 05:23:59 GMT | How Safe Is Your Online Payment? Demystifying Credit Card Security | Jacky Liu | [Read More](https://medium.com/p/b4a8455a0795) |
+| Mon, 08 Sep 2025 05:21:50 GMT | Anatomia de uma Cadeia de Ataque Complexa: Análise Detalhada do Infostealer Astaroth | byFranke | [Read More](https://medium.com/p/ae16238e0eb6) |
+| Mon, 08 Sep 2025 05:18:33 GMT | What begins as fantasy can haunt reality | Ashutosh Sharma | [Read More](https://medium.com/p/a6e3425734bf) |
+| Mon, 08 Sep 2025 05:18:32 GMT | AI Applications Across Key Domains | Maxwell Nzekwe | [Read More](https://medium.com/p/e323bd82de15) |
+| Mon, 08 Sep 2025 05:17:57 GMT | The Core Principles of Successful Incident Response | Dean | [Read More](https://medium.com/p/533634f9cb53) |
 | Mon, 08 Sep 2025 05:12:32 GMT | How Difficult is the CISSP Exam? | Jeffery Moore | [Read More](https://medium.com/p/52dbe0e02ef8) |
 | Mon, 08 Sep 2025 05:01:59 GMT | Data Poisoning Attacks | Tal Eliyahu | [Read More](https://medium.com/p/07d8a07f8259) |
 | Mon, 08 Sep 2025 04:53:00 GMT | Strengthening Cybersecurity with Penetration Testing Services: A Real-Time Example | CyberNX | [Read More](https://medium.com/p/93076b49f016) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 21:44:15 GMT | Hunting Bugs, Learning Fast | Mehdi Ben Fredj | [Read More](https://medium.com/p/484feb15d4d3) |
 | Sun, 07 Sep 2025 21:30:52 GMT | When Logic Meets Authentication — Orphaned Accounts to Full Control | Dr Rmdn | [Read More](https://medium.com/p/6140143e1d20) |
 | Sun, 07 Sep 2025 21:09:53 GMT | How to Find a Website’s Real IP Behind Cloudflare | Ibtissam hammadi | [Read More](https://medium.com/p/695dd179c977) |
-| Sun, 07 Sep 2025 21:04:51 GMT | My Mindset behind being an Emotionally Intelligent Woman as a College Student. | Claire.B612 | [Read More](https://medium.com/p/2829bb6d3534) |
-| Sun, 07 Sep 2025 21:02:29 GMT | ARCHITECTURES of Qradar, Splunk and Sentinel | The Commoness | [Read More](https://medium.com/p/15f0e7ae4447) |
-| Sun, 07 Sep 2025 20:58:23 GMT | SOC Level 1 — MITRE | Gregory Dawson | [Read More](https://medium.com/p/fe44d34f73ba) |
-| Sun, 07 Sep 2025 20:57:57 GMT | SOC Level 1 — Diamond Model | Gregory Dawson | [Read More](https://medium.com/p/c84f75b7b38e) |
-| Sun, 07 Sep 2025 20:57:27 GMT | SOC Level 1 — Unified Kill Chain | Gregory Dawson | [Read More](https://medium.com/p/bf6543dd9a3b) |
-| Sun, 07 Sep 2025 20:57:25 GMT | Stop Reading Love Like a Manual | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/af9564c558d1) |
-| Sun, 07 Sep 2025 20:46:58 GMT | EYCC 2025 — Web Challenges | Sama | [Read More](https://medium.com/p/ff319c7f34b9) |
-| Sun, 07 Sep 2025 20:30:10 GMT | Beyond the Uniforms (Stereotypes): Strengthening Security through Liaison and Effective… | Mohammad Faheem Khan Dawar | [Read More](https://medium.com/p/5a5693c0cd6b) |
