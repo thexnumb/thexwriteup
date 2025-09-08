@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 11:22:56 GMT | Love, Safety, and Everyday Life: How OSINT Protects and Empowers Everyone | Rishisec | [Read More](https://medium.com/p/0ce13508cf51) |
+| Mon, 08 Sep 2025 11:20:11 GMT | Cybersecurity Courses: A Smart Move for Your Future | Michael Antony | [Read More](https://medium.com/p/9e804c3ef525) |
+| Mon, 08 Sep 2025 11:19:11 GMT | CySA+ Study Journey — Week 1: Security Control Types & Cybersecurity Roles | Furkanctiner | [Read More](https://medium.com/p/f262319eae04) |
+| Mon, 08 Sep 2025 11:17:37 GMT | ISO/IEC 42001: Building Trust in Artificial Intelligence | Brittney Ginther | [Read More](https://medium.com/p/564c31a5c86c) |
 | Mon, 08 Sep 2025 11:05:14 GMT | A Step-by-Step Plan to Secure Web Backends with XAMPP (Part 2/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/c8800b6dbeb3) |
 | Mon, 08 Sep 2025 11:02:14 GMT | Hunting OS Command Injection | Monika sharma | [Read More](https://medium.com/p/039dbb284c7d) |
 | Mon, 08 Sep 2025 11:01:53 GMT | How I Found My First SQL Injection Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/a6ac6e1add39) |
@@ -111,7 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 06:47:59 GMT | Tow To Buy Facebook/Meta From The Owner Without Paying Him | Afam Chukwudi | [Read More](https://medium.com/p/60959104552c) |
 | Mon, 08 Sep 2025 06:45:48 GMT | Inside the Mind of a Bug Hunter: OSINT Techniques That Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/27e18f55e4d1) |
 | Mon, 08 Sep 2025 06:45:19 GMT | Uncovering ALVIVA HOLDING: Links to Russian Shell Companies and Cybercrime | Rakesh Krishnan | [Read More](https://medium.com/p/4ac938d1e878) |
-| Mon, 08 Sep 2025 06:40:19 GMT | A single login token is not enough to secure multi-step API flows. | Amit Kumar | [Read More](https://medium.com/p/25aa3e215dc6) |
-| Mon, 08 Sep 2025 06:40:10 GMT | Certificate Transparency Hunting: The Goldmine No One Talks About | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b7f5914a962c) |
-| Mon, 08 Sep 2025 06:37:08 GMT | Building a Cost-Effective Cybersecurity Testing Lab | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/99383ab2089d) |
-| Mon, 08 Sep 2025 06:35:16 GMT | DNS as an Attack Vector: How a Single Record Can Compromise an Entire Infrastructure | Narendar Battula (nArEn) | [Read More](https://medium.com/p/44c82df4fc77) |
