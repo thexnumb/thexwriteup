@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 12:34:40 GMT | How to Recover a Disabled Facebook Account | M. Huzaifa | [Read More](https://medium.com/p/0fb9e316bc8b) |
+| Mon, 08 Sep 2025 12:31:25 GMT | How to Secure Your Startup’s Data with Zero-Trust Cybersecurity in 2025 | Umesh Anjula | [Read More](https://medium.com/p/7c0a7332437d) |
+| Mon, 08 Sep 2025 12:30:17 GMT | API Key Vs. OAuth — How to Choose the best Authentication | Reethika Moovendhan | [Read More](https://medium.com/p/10b1cce62d12) |
+| Mon, 08 Sep 2025 12:30:11 GMT | Ethical Hacking Certification — Build a Career in Cybersecurity with Expert Skills | Certocean | [Read More](https://medium.com/p/75da3a114114) |
+| Mon, 08 Sep 2025 12:28:33 GMT | EYCC — Crypto Challenges | Sama | [Read More](https://medium.com/p/a0347956f169) |
+| Mon, 08 Sep 2025 12:27:44 GMT | [Network Security] Capturing Packets with Node.js | Maria Kim | [Read More](https://medium.com/p/fa9bc7590547) |
+| Mon, 08 Sep 2025 12:27:14 GMT | GhostGPT: The AI Cybercrime Tool Changing Online Security | Prerna Shukla | [Read More](https://medium.com/p/764f8177264e) |
+| Mon, 08 Sep 2025 12:24:30 GMT | Von Neumann’s Prophecy and the True Nature of the Singularity | Steven De Costa | [Read More](https://medium.com/p/c0669711de8b) |
+| Mon, 08 Sep 2025 12:15:24 GMT | Not so Scary: Aotearoa’s Littlest Locals | Eli Skinner | [Read More](https://medium.com/p/5dde968171c7) |
+| Mon, 08 Sep 2025 12:13:25 GMT | Learning Basic Cryptography in Rust: Implementing Transposition Ciphers | KyungHyun | [Read More](https://medium.com/p/e62709a97f7c) |
+| Mon, 08 Sep 2025 12:03:04 GMT | iCloud Calendar Phishing: The Apple Scam You Didn’t See Coming | TheReviewHive | [Read More](https://medium.com/p/e568fcb9146d) |
+| Mon, 08 Sep 2025 12:00:21 GMT | How Cyber Security Solutions Prevent Data Breaches and Ransomware Attacks | Alex | [Read More](https://medium.com/p/7e8cf8655ed1) |
+| Mon, 08 Sep 2025 11:59:59 GMT | Prefix Code Design for a Memoryless Source via Kraft Algorithm | Leandro Rodrigues | [Read More](https://medium.com/p/7c0620a6d07b) |
+| Mon, 08 Sep 2025 11:57:36 GMT | My Dark Web Monitoring Project: Onion URL Scan | Enitan Ogungbade | [Read More](https://medium.com/p/ce52539455b1) |
+| Mon, 08 Sep 2025 11:56:13 GMT | The generative AI boom creates new privacy and security risks | Saravanan.R | [Read More](https://medium.com/p/1b5d4c42949d) |
+| Mon, 08 Sep 2025 11:53:29 GMT | Can Drosera Network make billions of users trust web3? | Cybertank | [Read More](https://medium.com/p/4090a793f150) |
+| Mon, 08 Sep 2025 11:49:29 GMT | Securing Abia’s Future: How Softicu’s Cybersecurity Course Is Leading Digital Protection | Johnmutaa | [Read More](https://medium.com/p/ac3d378df358) |
+| Mon, 08 Sep 2025 11:48:17 GMT | CVE-2025–58782: JNDI Injection in Apache Jackrabbit Opens the Door to Remote Code Execution | gm0 | [Read More](https://medium.com/p/ba6e47ae4d38) |
+| Mon, 08 Sep 2025 11:42:15 GMT | ️ Web Shells: PHP Shell Usage and Detection | Esra Kayhan | [Read More](https://medium.com/p/3388b9532c63) |
+| Mon, 08 Sep 2025 11:40:24 GMT | Colleagues, implementing a well-defined, forward-thinking career development plan can boost your… | Franklin Rhodes | [Read More](https://medium.com/p/e2cc7d993f45) |
+| Mon, 08 Sep 2025 11:37:37 GMT | ️ Windows Active Directory Attacks: Kerberoasting and Pass-the-Hash | Esra Kayhan | [Read More](https://medium.com/p/27961d05d9b4) |
 | Mon, 08 Sep 2025 11:22:56 GMT | Love, Safety, and Everyday Life: How OSINT Protects and Empowers Everyone | Rishisec | [Read More](https://medium.com/p/0ce13508cf51) |
 | Mon, 08 Sep 2025 11:20:11 GMT | Cybersecurity Courses: A Smart Move for Your Future | Michael Antony | [Read More](https://medium.com/p/9e804c3ef525) |
 | Mon, 08 Sep 2025 11:19:11 GMT | CySA+ Study Journey — Week 1: Security Control Types & Cybersecurity Roles | Furkanctiner | [Read More](https://medium.com/p/f262319eae04) |
@@ -94,24 +115,3 @@ Malware Risks — Sandeep Jakkoju | KLEAP Institute of Information Security 
 | Mon, 08 Sep 2025 07:35:09 GMT | Implementing Rate Limiting in Express.js: A Hands-On Guide | Rishabh Sharma | [Read More](https://medium.com/p/1aac3570d53c) |
 | Mon, 08 Sep 2025 07:34:58 GMT | The Death of Passwords: Why Passkeys Are the Future of Online Security | Iqra Anwar | [Read More](https://medium.com/p/9825d5ef321d) |
 | Mon, 08 Sep 2025 07:34:28 GMT | Secure Coding : Path Traversal ( os.path.join | Siddiquimohammad | [Read More](https://medium.com/p/abf741f4059d) |
-| Mon, 08 Sep 2025 07:31:38 GMT | “Coding Is Easy!” And Other Software Development Myths We Need to Stop Believing | Karmakoders | [Read More](https://medium.com/p/b81c18af5069) |
-| Mon, 08 Sep 2025 07:31:35 GMT | Mobile Market Report Guide: What’s Driving Sales in 2025 | Ahamed Afran | [Read More](https://medium.com/p/00cd64266713) |
-| Mon, 08 Sep 2025 07:30:12 GMT | Stop Spinning Snowflake VMs: This Open-Source Tool Makes KVM Feel Like Magic | cybrNK | [Read More](https://medium.com/p/68469d717327) |
-| Mon, 08 Sep 2025 07:29:44 GMT | Is Android 14+ Really Unhackable? | Shahzaib | [Read More](https://medium.com/p/e6ab28b9c109) |
-| Mon, 08 Sep 2025 07:28:31 GMT | WHAT’S NEW IN MUMU TYCOON: CITY MINING BONUS AND WITHDRAWAL FEATURE UNVEILED. | Camsy Wealth | [Read More](https://medium.com/p/ad2b84504a1b) |
-| Mon, 08 Sep 2025 07:21:51 GMT | Building a Free SIEM with ELK Stack (Elastic Stack) — Step-by-Step Guide for Beginners (CentOS… | Anivesh Mohan | [Read More](https://medium.com/p/a9e1103a28f5) |
-| Mon, 08 Sep 2025 07:16:52 GMT | The Suspicious Reviewer: [Hack The Box] | Mrinal Kumar Chandra | [Read More](https://medium.com/p/6a899762310e) |
-| Mon, 08 Sep 2025 07:16:24 GMT | The Hidden World of Emoji Smuggling: A Cybersecurity Threat You Didn’t See Coming | Devarshi Acharya | [Read More](https://medium.com/p/534c767887dc) |
-| Mon, 08 Sep 2025 07:15:11 GMT | Responsible Disclosure: Critical Vulnerability in Claude (Anthropic) — Bypassing Safety… | Tsaracex | [Read More](https://medium.com/p/d30e719f3d91) |
-| Mon, 08 Sep 2025 07:12:46 GMT | Top 12 Cybersecurity Tips for Businesses Using IT Services and Support | Elliman Technologies | [Read More](https://medium.com/p/7d47dd74efa2) |
-| Mon, 08 Sep 2025 07:12:31 GMT | Mobile Market Report 2025: Which Brands Lead the Industry? | Rahul Das Gupta | [Read More](https://medium.com/p/88688708fd0f) |
-| Mon, 08 Sep 2025 07:08:36 GMT | Day 52- Understanding common exploit frameworks for beginners | unica 02 | [Read More](https://medium.com/p/60a2bba29517) |
-| Mon, 08 Sep 2025 07:06:10 GMT | First Workflow in n8n: Automate Sending an Email | Rizqi Mulki | [Read More](https://medium.com/p/d27c529f99ba) |
-| Mon, 08 Sep 2025 07:05:46 GMT | Securing the Future of LLMs: Lessons from Supabase, Replit, and Emerging AI Threats | Monisha Shah | [Read More](https://medium.com/p/65450d54dd7d) |
-| Mon, 08 Sep 2025 07:00:30 GMT | Web Application and API Security (WAAS) By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c0d4b192fc2a) |
-| Mon, 08 Sep 2025 06:56:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a204b0997fbc) |
-| Mon, 08 Sep 2025 06:50:03 GMT | Petshop Pro | Dasmanish | [Read More](https://medium.com/p/98dee28b54ef) |
-| Mon, 08 Sep 2025 06:49:18 GMT | React-Native Project Setup With Zustand + React Query | Bhagatsanket | [Read More](https://medium.com/p/1eb876b03535) |
-| Mon, 08 Sep 2025 06:47:59 GMT | Tow To Buy Facebook/Meta From The Owner Without Paying Him | Afam Chukwudi | [Read More](https://medium.com/p/60959104552c) |
-| Mon, 08 Sep 2025 06:45:48 GMT | Inside the Mind of a Bug Hunter: OSINT Techniques That Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/27e18f55e4d1) |
-| Mon, 08 Sep 2025 06:45:19 GMT | Uncovering ALVIVA HOLDING: Links to Russian Shell Companies and Cybercrime | Rakesh Krishnan | [Read More](https://medium.com/p/4ac938d1e878) |
