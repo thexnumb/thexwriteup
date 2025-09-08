@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 01:31:39 GMT | AWS WAF for API Security: Best Practices to Protect Your Cloud APIs on Amazon Web Services —… | Swapnil Damate, PMP® | [Read More](https://medium.com/p/7c7492e682c7) |
+| Mon, 08 Sep 2025 01:31:39 GMT | CORS: Bản Chất, Hạn Chế và Best Practices | CNDvn | [Read More](https://medium.com/p/20387b48dcec) |
+| Mon, 08 Sep 2025 01:26:31 GMT | Data Redaction in LLM security | Ayush Parwal | [Read More](https://medium.com/p/925fd92a1d85) |
+| Mon, 08 Sep 2025 01:14:13 GMT | Aurum Fix Reviews, how to withdraw your assets. | ADMIN.Woven | [Read More](https://medium.com/p/d17276f342ed) |
+| Mon, 08 Sep 2025 01:07:30 GMT | Abandoned S3 Buckets: A Silent Cyber Threat Lurking in the Shadows | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/a1d9cf2c6eac) |
+| Mon, 08 Sep 2025 01:00:46 GMT | Why Presales Is the Unsung Hero of Sales Success | Emmanuel Bentil | [Read More](https://medium.com/p/c13406c5a98a) |
+| Mon, 08 Sep 2025 00:51:12 GMT | The Hidden Risks of Legacy Systems: How AI and Cybersecurity Are Evolving to Expose Flaws | Emmanuel Bentil | [Read More](https://medium.com/p/4ab73324e0d2) |
+| Mon, 08 Sep 2025 00:49:04 GMT | Setting up OpenVPN Access Server in Amazon VPC | Ameera Haider Rizvi | [Read More](https://medium.com/p/65e0fbb681a6) |
+| Mon, 08 Sep 2025 00:48:29 GMT | Ensuring High Availability and Disaster Recovery for Azure Virtual Machines | Divyesh | [Read More](https://medium.com/p/bbe74c665df4) |
+| Mon, 08 Sep 2025 00:28:51 GMT | A Letter to My Younger Self | Wakio Agather | [Read More](https://medium.com/p/d34c0e788ac5) |
+| Mon, 08 Sep 2025 00:26:19 GMT | 5 Free Android Apps Every Hacker Uses Daily | Shahzaib | [Read More](https://medium.com/p/706960a615e0) |
+| Mon, 08 Sep 2025 00:25:57 GMT | I Found 100 Exposed S3 Buckets This Way | Ibtissam hammadi | [Read More](https://medium.com/p/b74941efe8e2) |
+| Mon, 08 Sep 2025 00:24:31 GMT | Model Context Protocol (MCP) for AWS: AI-Powered Development Made Simple | Rizqi Mulki | [Read More](https://medium.com/p/8e4e3e217f8c) |
+| Mon, 08 Sep 2025 00:23:52 GMT | The Audition: What Vulnerability Looks Like After Burnout | Christine Lloyd-Newberry | [Read More](https://medium.com/p/fcded3392e12) |
+| Mon, 08 Sep 2025 00:21:45 GMT | AWS Graviton4 vs Traditional x86: The Real Performance Story | Rizqi Mulki | [Read More](https://medium.com/p/1a06493c04c9) |
+| Mon, 08 Sep 2025 00:21:38 GMT | Building Serverless Apps with Zero Cold Starts: 2025 Edition | Rizqi Mulki | [Read More](https://medium.com/p/b9264ceeda14) |
+| Mon, 08 Sep 2025 00:21:11 GMT | Inside the 3-Day Brute-Force Blitz Targeting Corporate Networks | Aj | [Read More](https://medium.com/p/6d2ea45465ef) |
+| Mon, 08 Sep 2025 00:20:02 GMT | AI for Small Businesses: A Powerful Ally or an Expensive Pitfall? | Roger Millar | [Read More](https://medium.com/p/b90dfbf9953e) |
+| Mon, 08 Sep 2025 00:13:33 GMT | Using Python to Hunt Malware: A Beginner’s Guide | Aj | [Read More](https://medium.com/p/7456be974257) |
+| Mon, 08 Sep 2025 00:11:19 GMT | Google Confirms Android Attacks — More Than 1 Billion Phones Left With No Fix | Muneeb Sikhani | [Read More](https://medium.com/p/5d3d6478124a) |
+| Mon, 08 Sep 2025 00:01:42 GMT | Don’t Throw Away Your Old Phones: Turn Them into Cash with This Recycling Platform | kitty | [Read More](https://medium.com/p/04fe2bee9ee3) |
+| Sun, 07 Sep 2025 23:49:40 GMT | The History of Apple and Its Path at the Forefront of the Technological Revolution | Stacklegend | [Read More](https://medium.com/p/2387ee2377cd) |
+| Sun, 07 Sep 2025 23:47:57 GMT | HackTheBox - Codify | jniket | [Read More](https://medium.com/p/27caa399f1a8) |
+| Sun, 07 Sep 2025 23:43:31 GMT | The History of the Windows Operating System from the First Versions | Stacklegend | [Read More](https://medium.com/p/c3cf3c4483ff) |
+| Sun, 07 Sep 2025 23:34:11 GMT | The History of Linux Operating Systems and the Largest Distributions | Stacklegend | [Read More](https://medium.com/p/2918e38bcc72) |
+| Sun, 07 Sep 2025 23:31:39 GMT | The World’s Largest DDoS Attack | shashika deshan | [Read More](https://medium.com/p/a9b3b89c638e) |
 | Sun, 07 Sep 2025 23:28:58 GMT | Project #7: Building An Active Directory Home Lab Using Microsoft Azure | NSESean | [Read More](https://medium.com/p/3ec1bc85cb6c) |
 | Sun, 07 Sep 2025 23:16:13 GMT | Beyond Antivirus: The Cybersecurity Layers You’re Probably Missing | Aj | [Read More](https://medium.com/p/0015c044596e) |
 | Sun, 07 Sep 2025 23:15:48 GMT | FACEIO, Privacy-First Passwordless Login, Age Verification, and Liveness Detection in One Stack | Pius Oruko | [Read More](https://medium.com/p/3fadae47cebd) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 18:02:05 GMT | ️‍♂️ The Dark Side of Disclosure: CVEs, Exploits, and Zero-Day Mysteries | Natarajan C K | [Read More](https://medium.com/p/4c3672aca21c) |
 | Sun, 07 Sep 2025 18:01:37 GMT | Bug Bounty: Information Disclosure: el fallo invisible que rompe sistemas | Gorka | [Read More](https://medium.com/p/7ac62023ac1c) |
 | Sun, 07 Sep 2025 17:53:10 GMT | Using Impersonation in OrderCloud: Real Use Cases and Pitfalls | Md. Zillur Rahman | [Read More](https://medium.com/p/c3b43b16fddb) |
-| Sun, 07 Sep 2025 17:52:16 GMT | Hunting Credential Dumping | Preethi Infosec | [Read More](https://medium.com/p/710f4c320c12) |
-| Sun, 07 Sep 2025 17:50:53 GMT | Big Data : Data Processing | Yasa Wijaya | [Read More](https://medium.com/p/13f68a7ae175) |
-| Sun, 07 Sep 2025 17:48:04 GMT | API Security: What It Is and Why It Matters | Vardaa Maheshwari | [Read More](https://medium.com/p/b9bcb9a49fd4) |
-| Sun, 07 Sep 2025 17:47:17 GMT | LureBox: T-Pot Honeypot Deployment on Digital Ocean and Investigation | Rishikesh Vishnu Jadhav | [Read More](https://medium.com/p/abea00d955b0) |
-| Sun, 07 Sep 2025 17:45:45 GMT | AI Security Reports — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9737f0b6f49b) |
-| Sun, 07 Sep 2025 17:43:51 GMT | Coming Soon : Tool Ghauri-GUI Easy Solution for Scann SQL Injection. | raflesia it | [Read More](https://medium.com/p/d04bdf00ea33) |
-| Sun, 07 Sep 2025 17:43:47 GMT | BloodHound & PlumHound — The Symphony of Clarity in Complexity | Eziyo | [Read More](https://medium.com/p/c0a35e653544) |
-| Sun, 07 Sep 2025 17:41:37 GMT | The Day I Fell for My Own Spear-Phish Test | Cyberkech | [Read More](https://medium.com/p/606eebafff81) |
-| Sun, 07 Sep 2025 17:40:31 GMT | Hunting Unused/Unactive Service Accounts in GCP: Practical Approaches for IAM Security | DAKSHITA Agarwal | [Read More](https://medium.com/p/ac1d3423ee38) |
-| Sun, 07 Sep 2025 17:39:00 GMT | Cross-API Vulnerability Chaining: From Misconfigured CORS to RCE via JSONWS | NDIx | [Read More](https://medium.com/p/3cea579e1c09) |
-| Sun, 07 Sep 2025 17:38:46 GMT | Top 11 cyber stories (Week: Sept 1–7, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/14affefd08d8) |
-| Sun, 07 Sep 2025 17:36:27 GMT | A primer on AWS Firewalls | Cloud Security Masterclass | [Read More](https://medium.com/p/1aab887b9abd) |
-| Sun, 07 Sep 2025 17:32:15 GMT | A Primer on AWS VPC and Connectivity Patterns | Cloud Security Masterclass | [Read More](https://medium.com/p/dae590a287f6) |
-| Sun, 07 Sep 2025 17:29:38 GMT | Building a Home SOC Lab with VirtualBox, Wazuh, and Shuffle | Pavin Das | [Read More](https://medium.com/p/58ea5fbb6cfd) |
-| Sun, 07 Sep 2025 17:25:59 GMT | From Pages to Practice: Learning Information Security Through Books | Aj | [Read More](https://medium.com/p/d856057ede0c) |
-| Sun, 07 Sep 2025 17:19:37 GMT | Why Modern Security Needs a Human Touch, Even in the Age of Artificial Intelligence | Christina Martin | [Read More](https://medium.com/p/8ba2ebef1d5e) |
-| Sun, 07 Sep 2025 17:07:35 GMT | Parameter based Access Control | Varkeythms | [Read More](https://medium.com/p/37a314d8b22e) |
-| Sun, 07 Sep 2025 17:04:45 GMT | Manual vs. Automated Web Application Penetration Testing: What’s the Difference? | Whiteknightlabs | [Read More](https://medium.com/p/34148e4bdc6a) |
-| Sun, 07 Sep 2025 17:04:34 GMT | What are Cyber Attacks? ⚠️ | Lumae | [Read More](https://medium.com/p/558d6a702f91) |
-| Sun, 07 Sep 2025 17:02:39 GMT | The Ultimate API Architecture: Combining Azure Traffic Manager, Front Door, and API Management | Soe | [Read More](https://medium.com/p/db5192f1987e) |
-| Sun, 07 Sep 2025 16:56:37 GMT | Day 18: LAMP vs LEMP → Understanding Web Application Stacks | Prutha_Dongre | [Read More](https://medium.com/p/6c86c721057c) |
-| Sun, 07 Sep 2025 16:55:48 GMT | Common Attacks on REST APIs and GraphQL APIs — With Tools & Learning Resources | Aniket Das | [Read More](https://medium.com/p/3c23c364467b) |
-| Sun, 07 Sep 2025 16:46:41 GMT | How We Stopped a DDoS Attack in 10 Minutes | Let's code | [Read More](https://medium.com/p/d73f74668e52) |
-| Sun, 07 Sep 2025 16:42:51 GMT | Modern Exploit Development with ROP (Return Oriented Programming | Esra Kayhan | [Read More](https://medium.com/p/38954b7feeaa) |
-| Sun, 07 Sep 2025 16:38:56 GMT | ChatGPT Agent Mode and Connectors: A Double-Edged Sword for Security | Shane Haynes | [Read More](https://medium.com/p/abe0d8630a94) |
-| Sun, 07 Sep 2025 16:37:29 GMT | CVE-2025–43300: The Zero-Click iPhone Hack That Came From a Photo | Khaleel Khan | [Read More](https://medium.com/p/30e83d4207f8) |
