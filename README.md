@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 17:09:17 GMT | Understanding HTTP Parser Inconsistencies: How They Can Break Your Security | Vaibhav Mohite | [Read More](https://medium.com/p/57fcf6c2f8aa) |
+| Mon, 08 Sep 2025 17:05:07 GMT | The Breach I’ll Never Forget | Shahzaib | [Read More](https://medium.com/p/dc5d04027fa2) |
+| Mon, 08 Sep 2025 17:01:09 GMT | Designing Cloud Computing Architecture for Vidlytics Applications | Zifa Tea Azzahra | [Read More](https://medium.com/p/a01552fbbe90) |
+| Mon, 08 Sep 2025 16:54:24 GMT | Will there ever be a dawn? | Thomas Anthony | [Read More](https://medium.com/p/a0ad5a433caf) |
+| Mon, 08 Sep 2025 16:39:34 GMT | Testing MAVLink: UAV Security exploitation to expose drone vulnerabilities | Txaber Trevino | [Read More](https://medium.com/p/8918518a195e) |
+| Mon, 08 Sep 2025 16:39:30 GMT | Kremlin’s Worst Cyber Nightmare Just Happened: Ukraine Shut Down Russia’s Fuel Network | Alex Parker | [Read More](https://medium.com/p/02e6c47e0e8a) |
 | Mon, 08 Sep 2025 16:38:22 GMT | Security Rule #1: Don’t Point Fingers , Patch Fingers (and Systems) Instead | Vijay Kumar Gupta | [Read More](https://medium.com/p/121a81e4e844) |
 | Mon, 08 Sep 2025 16:35:23 GMT | BehindTheScreens: Where AI Meets Cybersecurity — Arms Race, Co-Pilot, and the New Stack of Risk | Sam - Behind The Screens | [Read More](https://medium.com/p/dade2bf2d442) |
 | Mon, 08 Sep 2025 16:27:21 GMT | AWS Incident Response: Uploading External CloudTrail Logs to S3 for Querying in Athena | Markohalloran | [Read More](https://medium.com/p/71bf3f0e464f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 11:48:17 GMT | CVE-2025–58782: JNDI Injection in Apache Jackrabbit Opens the Door to Remote Code Execution | gm0 | [Read More](https://medium.com/p/ba6e47ae4d38) |
 | Mon, 08 Sep 2025 11:42:15 GMT | ️ Web Shells: PHP Shell Usage and Detection | Esra Kayhan | [Read More](https://medium.com/p/3388b9532c63) |
 | Mon, 08 Sep 2025 11:40:24 GMT | Colleagues, implementing a well-defined, forward-thinking career development plan can boost your… | Franklin Rhodes | [Read More](https://medium.com/p/e2cc7d993f45) |
-| Mon, 08 Sep 2025 11:37:37 GMT | ️ Windows Active Directory Attacks: Kerberoasting and Pass-the-Hash | Esra Kayhan | [Read More](https://medium.com/p/27961d05d9b4) |
-| Mon, 08 Sep 2025 11:22:56 GMT | Love, Safety, and Everyday Life: How OSINT Protects and Empowers Everyone | Rishisec | [Read More](https://medium.com/p/0ce13508cf51) |
-| Mon, 08 Sep 2025 11:20:11 GMT | Cybersecurity Courses: A Smart Move for Your Future | Michael Antony | [Read More](https://medium.com/p/9e804c3ef525) |
-| Mon, 08 Sep 2025 11:19:11 GMT | CySA+ Study Journey — Week 1: Security Control Types & Cybersecurity Roles | Furkanctiner | [Read More](https://medium.com/p/f262319eae04) |
-| Mon, 08 Sep 2025 11:17:37 GMT | ISO/IEC 42001: Building Trust in Artificial Intelligence | Brittney Ginther | [Read More](https://medium.com/p/564c31a5c86c) |
-| Mon, 08 Sep 2025 11:05:14 GMT | A Step-by-Step Plan to Secure Web Backends with XAMPP (Part 2/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/c8800b6dbeb3) |
