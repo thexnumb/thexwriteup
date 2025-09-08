@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 19:29:06 GMT | De l’expérience d’inconfort | Akeelah ‍♀️ | [Read More](https://medium.com/p/5ce494a32ef4) |
+| Mon, 08 Sep 2025 19:28:54 GMT | Multi-Staged Pastejacking Attack: Insights and Indicators | Nihal Sadath | [Read More](https://medium.com/p/3d36bd4ec3d1) |
+| Mon, 08 Sep 2025 19:21:19 GMT | Schema Smuggling: Breaking AI Tool-Calls with Parser Quirks | Aviral Srivastava | [Read More](https://medium.com/p/c61478dc1414) |
+| Mon, 08 Sep 2025 19:18:52 GMT | MDR vs. MSS: Which Security Solution is Right for your Business | IT_Engineer | [Read More](https://medium.com/p/3823cfd36cb8) |
+| Mon, 08 Sep 2025 19:17:07 GMT | The Cost of a Wrong Word in Threat Intelligence | Rishika Desai | [Read More](https://medium.com/p/202dca1aa8fb) |
+| Mon, 08 Sep 2025 19:14:53 GMT | Sandfly Linux Security: Enabling and using AI Analysis — Using Gemini (Google), OpenAI ChatGPT… | Truvis Thornton | [Read More](https://medium.com/p/90848f1bd729) |
+| Mon, 08 Sep 2025 19:13:36 GMT | Penetrasyon Testi - Post-Exploitation & Privilege Escalation | Sadıkcan Tuluk | [Read More](https://medium.com/p/17e66db1fc0a) |
+| Mon, 08 Sep 2025 19:13:04 GMT | Cybersecurity for Nonprofits: Protecting Your Mission in a Digital-First World | Gregory Pranzo | [Read More](https://medium.com/p/3ebda544d38f) |
 | Mon, 08 Sep 2025 19:07:35 GMT | Hacking != Reconnaissance (real talk) | Iserjaoui | [Read More](https://medium.com/p/1ec1443e9aaf) |
 | Mon, 08 Sep 2025 19:03:36 GMT | The RAG Security Paradox: Building Trustworthy AI with the Four Pillar Framework | Vikram Samal | [Read More](https://medium.com/p/338a21d0dd26) |
 | Mon, 08 Sep 2025 19:01:41 GMT | The Day I Stopped Pretending to Be Strong | Dr. Beenish Shakeel | [Read More](https://medium.com/p/19065d673e45) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 14:18:34 GMT | Safeguarding AI-Powered Systems Why Cybersecurity Can’t Be an Afterthought | Suhas valasala | [Read More](https://medium.com/p/55a0e1addc18) |
 | Mon, 08 Sep 2025 14:11:19 GMT | Next-Gen VPS Hosting: The Road Ahead | Milaharris | [Read More](https://medium.com/p/e9e44de3a299) |
 | Mon, 08 Sep 2025 14:10:20 GMT | When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | LETCHU PKT | [Read More](https://medium.com/p/eae25a5f4f35) |
-| Mon, 08 Sep 2025 14:08:58 GMT | Blind XSS and HTML Injection Attacks in Public Swagger UIs | Balki Maharaj | [Read More](https://medium.com/p/86c9d79c5442) |
-| Mon, 08 Sep 2025 14:06:01 GMT | How AI Spots Criminals Hiding in Your Data. | The Bot Group | [Read More](https://medium.com/p/d451bf764760) |
-| Mon, 08 Sep 2025 14:04:53 GMT | แนะนำ dnSpy / dnSpyEx — .NET | Supot Sirisak | [Read More](https://medium.com/p/112e21ca2859) |
-| Mon, 08 Sep 2025 14:04:37 GMT | “DISKO 3” challenge | oussama | [Read More](https://medium.com/p/725060fc4b69) |
-| Mon, 08 Sep 2025 14:04:32 GMT | How to Evaluate Your AWS Security Posture: Stop Saying “I’ll Fix It Later” | Craftech Marketing | [Read More](https://medium.com/p/912eef4e4c39) |
-| Mon, 08 Sep 2025 14:02:10 GMT | Security Services San Francisco: Your Trusted Partner for Safety | Direct Guard Services | [Read More](https://medium.com/p/5f2ab5fe86d3) |
-| Mon, 08 Sep 2025 14:01:11 GMT | Cyber Briefing: 2025.09.08 | CyberMaterial | [Read More](https://medium.com/p/c400fc3c57e8) |
-| Mon, 08 Sep 2025 14:01:08 GMT | Inside the Ransomware Economy: The Business Behind Cybercrime | CoopSys | [Read More](https://medium.com/p/4914f743ace8) |
