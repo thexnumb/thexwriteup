@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 06:21:55 GMT | Installing Wazuh Manager and Deploying Agents — A Step-by-step Procedure | santyhere! | [Read More](https://medium.com/p/dcaa72834a5a) |
+| Mon, 08 Sep 2025 06:18:19 GMT | File Upload Bypass with Chankro | Indigo Shadow | [Read More](https://medium.com/p/11ff0cba4f4d) |
+| Mon, 08 Sep 2025 06:16:12 GMT | The Beginner’s Handbook to Cybersecurity | Tanvi Chauhan | [Read More](https://medium.com/p/b3966286b125) |
+| Mon, 08 Sep 2025 06:13:49 GMT | Video Management Solution for New Energy Vehicle Charging Station | Alice-Daxunview | [Read More](https://medium.com/p/a672ce079b22) |
+| Mon, 08 Sep 2025 06:10:39 GMT | Security Guard Services: Strengthening Safety with Professional Security Services in India | Ciss India | [Read More](https://medium.com/p/a31c6672d21f) |
+| Mon, 08 Sep 2025 06:04:14 GMT | The Daily Tech Digest: 08 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/09eb26a92106) |
+| Mon, 08 Sep 2025 06:03:11 GMT | Secrets Management Done Right: Keeping Keys, Tokens, and Passwords Safe | Abida Adra | [Read More](https://medium.com/p/0112a843f611) |
+| Mon, 08 Sep 2025 06:01:46 GMT | Beyond the Horizon: Supercharging GuardDuty with Custom Entity Lists | Chathushka Dilhan | [Read More](https://medium.com/p/9c0a4f25f1c1) |
+| Mon, 08 Sep 2025 05:50:03 GMT | A Beginner’s Guide to OSINT: Tools and Techniques You Can Use Tonight | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3f5a7b5db2d) |
+| Mon, 08 Sep 2025 05:49:54 GMT | The Hidden Dangers of Fake Recovery Firms — How to spot scams and why firms like IAR (with no… | Jimmy Schwinger | [Read More](https://medium.com/p/86e8bc4a84af) |
+| Mon, 08 Sep 2025 05:48:33 GMT | Secrets Manager vs. Parameter Store: Which One Should You Really Use? | Ran Isenberg | [Read More](https://medium.com/p/807e5a75c4e6) |
+| Mon, 08 Sep 2025 05:47:39 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/5d3ac3caeb10) |
+| Mon, 08 Sep 2025 05:47:38 GMT | What comes after gaining a reverse shell? | st97rb0y | [Read More](https://medium.com/p/e7d11e9bc314) |
+| Mon, 08 Sep 2025 05:40:23 GMT | Why Ethical Hacking Foundation Certifications Are Crucial for Beginners | Tomcruise | [Read More](https://medium.com/p/ee689fb8b861) |
+| Mon, 08 Sep 2025 05:37:56 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/1f1554cc9d6b) |
+| Mon, 08 Sep 2025 05:34:30 GMT | Top Trends That Define The Best Security Company In Singapore Today | Jane Tang | [Read More](https://medium.com/p/f79ad1c07917) |
 | Mon, 08 Sep 2025 05:27:50 GMT | SQL Injection: Practical Step by Step Guide for Ethical Hackers | Rashadul Islam | [Read More](https://medium.com/p/10c5750a4677) |
 | Mon, 08 Sep 2025 05:24:49 GMT | Handling Large File Uploads in Node.js Without Crashing Your Server | Dipak Ahirav | [Read More](https://medium.com/p/83060dac9e59) |
 | Mon, 08 Sep 2025 05:24:36 GMT | Mr-Robot GPT | Mrinal Kumar Chandra | [Read More](https://medium.com/p/f6fdb670e4fc) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 07 Sep 2025 23:28:58 GMT | Project #7: Building An Active Directory Home Lab Using Microsoft Azure | NSESean | [Read More](https://medium.com/p/3ec1bc85cb6c) |
 | Sun, 07 Sep 2025 23:16:13 GMT | Beyond Antivirus: The Cybersecurity Layers You’re Probably Missing | Aj | [Read More](https://medium.com/p/0015c044596e) |
 | Sun, 07 Sep 2025 23:15:48 GMT | FACEIO, Privacy-First Passwordless Login, Age Verification, and Liveness Detection in One Stack | Pius Oruko | [Read More](https://medium.com/p/3fadae47cebd) |
-| Sun, 07 Sep 2025 23:13:23 GMT | Devsecu: Integrating AI, Business Strategy, and Cybersecurity for a Smarter Future | Devsecu | [Read More](https://medium.com/p/607eb3342fe8) |
-| Sun, 07 Sep 2025 23:09:50 GMT | I got 43 Questions right Out of 60 in a CompTIA A+ Core 1 Mock Test! | Eme Karen | [Read More](https://medium.com/p/4b4570141811) |
-| Sun, 07 Sep 2025 23:01:40 GMT | LetsDefend — Velociraptor Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/7e123fa6a426) |
-| Sun, 07 Sep 2025 22:57:54 GMT | One stolen password. 30,000 containers stranded. Food prices up 8%. | SavetyAI | [Read More](https://medium.com/p/2d52e49f6d20) |
-| Sun, 07 Sep 2025 22:52:56 GMT | Autenticación en ZAP con Jython Scripting (parte 1) | alejandro | [Read More](https://medium.com/p/6e9615e9d258) |
-| Sun, 07 Sep 2025 22:52:41 GMT | OSINT Case #32: Tracking Clues Across the Terminal | Mångata | [Read More](https://medium.com/p/7cffd867b826) |
-| Sun, 07 Sep 2025 22:50:30 GMT | The Biggest Threat to Internet Privacy and Security is One We Don’t Have A Timeline For | Enskefuddle | [Read More](https://medium.com/p/bbb547ec2ef4) |
-| Sun, 07 Sep 2025 22:49:10 GMT | A 39-Second Warning: How the UNFI Grocery Breach Signals the Next Wave of Supply-Chain Chaos | SavetyAI | [Read More](https://medium.com/p/be7ead8d15be) |
-| Sun, 07 Sep 2025 22:47:07 GMT | The Boy Who Hoped, The Girl Who Withheld | Matthew Horan | [Read More](https://medium.com/p/75a74cf1f3d8) |
-| Sun, 07 Sep 2025 22:46:27 GMT | One stolen password. 600 GB of stolen data. £7 million to recover. | SavetyAI | [Read More](https://medium.com/p/3ba7cbb94657) |
-| Sun, 07 Sep 2025 22:39:05 GMT | AI Now Powers 40% of Cyberattacks — Are We Ready? | Akilnath Bodipudi | [Read More](https://medium.com/p/34bc7d68f206) |
-| Sun, 07 Sep 2025 22:08:59 GMT | Pickle Rick TryHackMe Walkthrough (Junior Penetration Tester — PT1) | BXPLOIT | [Read More](https://medium.com/p/2cfd8712e2f0) |
-| Sun, 07 Sep 2025 21:58:58 GMT | MOI-CTF: predictable writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/bce2fcebbc2f) |
-| Sun, 07 Sep 2025 21:44:15 GMT | Hunting Bugs, Learning Fast | Mehdi Ben Fredj | [Read More](https://medium.com/p/484feb15d4d3) |
-| Sun, 07 Sep 2025 21:30:52 GMT | When Logic Meets Authentication — Orphaned Accounts to Full Control | Dr Rmdn | [Read More](https://medium.com/p/6140143e1d20) |
-| Sun, 07 Sep 2025 21:09:53 GMT | How to Find a Website’s Real IP Behind Cloudflare | Ibtissam hammadi | [Read More](https://medium.com/p/695dd179c977) |
