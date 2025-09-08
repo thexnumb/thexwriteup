@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 21:27:23 GMT | Don’t Miss the Ground Floor: | Jocephus | [Read More](https://medium.com/p/dbd1912455cb) |
+| Mon, 08 Sep 2025 21:26:47 GMT | The Paradox of Accessible Information | Taulan Zauzanov | [Read More](https://medium.com/p/fb9fad2a650b) |
 | Mon, 08 Sep 2025 21:12:45 GMT | PG Practice — Levram (Linux) | Lepton | [Read More](https://medium.com/p/550ddf41c414) |
 | Mon, 08 Sep 2025 21:12:34 GMT | PG Practice — AuthBy (Windows) | Lepton | [Read More](https://medium.com/p/537ea99fa136) |
 | Mon, 08 Sep 2025 21:06:12 GMT | EYCC 2025 — Forensics Challenges | Sama | [Read More](https://medium.com/p/bc43c6918a3a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 15:53:27 GMT | From Open Redirect to Potential Account Takeover | Luciano Griffa | [Read More](https://medium.com/p/f6856c2aafe2) |
 | Mon, 08 Sep 2025 15:53:06 GMT | DSuite: Taking Back Control of Your Digital Workspace | Aliciasierra | [Read More](https://medium.com/p/5b7af8a12372) |
 | Mon, 08 Sep 2025 15:43:30 GMT | The CISO’s Impossible Task: Leading Security in an Age of Asymmetric Warfare | Eric Zietlow | [Read More](https://medium.com/p/16f67352d4ff) |
-| Mon, 08 Sep 2025 15:36:39 GMT | AWS Credentials Stolen | The UNFILTERED Draft | [Read More](https://medium.com/p/5ece9e2db604) |
-| Mon, 08 Sep 2025 15:36:36 GMT | Demystifying Cryptography That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/ae8551638c75) |
