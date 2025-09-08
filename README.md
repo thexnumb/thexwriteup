@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 16:38:22 GMT | Security Rule #1: Don’t Point Fingers , Patch Fingers (and Systems) Instead | Vijay Kumar Gupta | [Read More](https://medium.com/p/121a81e4e844) |
+| Mon, 08 Sep 2025 16:35:23 GMT | BehindTheScreens: Where AI Meets Cybersecurity — Arms Race, Co-Pilot, and the New Stack of Risk | Sam - Behind The Screens | [Read More](https://medium.com/p/dade2bf2d442) |
+| Mon, 08 Sep 2025 16:27:21 GMT | AWS Incident Response: Uploading External CloudTrail Logs to S3 for Querying in Athena | Markohalloran | [Read More](https://medium.com/p/71bf3f0e464f) |
+| Mon, 08 Sep 2025 16:26:46 GMT | Gollum, The Split-Brained Gatekeeper of Trust: Cybersecurity Leadership Challenges — Part 3 | checkm4te | [Read More](https://medium.com/p/bb0123e7669d) |
+| Mon, 08 Sep 2025 16:25:39 GMT | Weaponizing Automation: Crafting a custom recon pipeline for pentesters | Aenosh Rajora | [Read More](https://medium.com/p/7ca9c795a3b3) |
+| Mon, 08 Sep 2025 16:21:29 GMT | Why Delaying the Right Facility Management Decision Costs More Than You Think | EXLITY | [Read More](https://medium.com/p/5ffab3cd17b1) |
 | Mon, 08 Sep 2025 16:14:23 GMT | Cloudflare Data Breach: What Sri Lankan Users Need to Know | Kishara Jayasanka | [Read More](https://medium.com/p/c34f01d6cc4d) |
 | Mon, 08 Sep 2025 16:12:17 GMT | Why Quppy AML Bot is Essential for Safe Crypto Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/0e39616d176d) |
 | Mon, 08 Sep 2025 16:11:35 GMT | eMark — Free & Open Source PDF Digital Signature Software | Pintu Prajapati | [Read More](https://medium.com/p/5d1097f58996) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 11:19:11 GMT | CySA+ Study Journey — Week 1: Security Control Types & Cybersecurity Roles | Furkanctiner | [Read More](https://medium.com/p/f262319eae04) |
 | Mon, 08 Sep 2025 11:17:37 GMT | ISO/IEC 42001: Building Trust in Artificial Intelligence | Brittney Ginther | [Read More](https://medium.com/p/564c31a5c86c) |
 | Mon, 08 Sep 2025 11:05:14 GMT | A Step-by-Step Plan to Secure Web Backends with XAMPP (Part 2/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/c8800b6dbeb3) |
-| Mon, 08 Sep 2025 11:02:14 GMT | Hunting OS Command Injection | Monika sharma | [Read More](https://medium.com/p/039dbb284c7d) |
-| Mon, 08 Sep 2025 11:01:53 GMT | How I Found My First SQL Injection Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/a6ac6e1add39) |
-| Mon, 08 Sep 2025 11:01:43 GMT | Hack The Box — Synced (rsync) | Adhishri Kothiyal | [Read More](https://medium.com/p/c8cef67c795a) |
-| Mon, 08 Sep 2025 10:58:18 GMT | Half-Second Screens: A SOC Dashboard for Multi-Phase Threats | Purple Security | [Read More](https://medium.com/p/67c3c98a0440) |
-| Mon, 08 Sep 2025 10:54:07 GMT | Scope of Cyber Security Careers in India — 2025 Update | GRAStech | [Read More](https://medium.com/p/5edfdb56469d) |
-| Mon, 08 Sep 2025 10:53:10 GMT | Apache Tomcat App Manager Exploit: Operation CATTRAP | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/50fd3a0fbf7e) |
