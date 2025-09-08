@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Sep 2025 09:14:40 GMT | Leveraging Raspberry Pi For Pentesting Dropbox: A Guide To Ethical Hacking | Redfox Security | [Read More](https://medium.com/p/5369d773fd2f) |
+| Mon, 08 Sep 2025 09:12:35 GMT | Why Automating Identity Management in Oracle E-Business Suite is a Strategic Imperative | Openiam | [Read More](https://medium.com/p/11f51458197a) |
+| Mon, 08 Sep 2025 09:11:13 GMT | Why reCAPTCHA Is Used in Creating an Account? | Haniakhan | [Read More](https://medium.com/p/72cf4cf9a1d8) |
+| Mon, 08 Sep 2025 09:06:44 GMT | The Desire to Be Loved and Seen | Maaya Rive | [Read More](https://medium.com/p/89c40b81b4a9) |
+| Mon, 08 Sep 2025 09:01:48 GMT | 5 Security Questions Every Board Should Ask Quarterly | Evgeny Ermakov | [Read More](https://medium.com/p/a4057aa5f5bc) |
+| Mon, 08 Sep 2025 08:58:48 GMT | Post-Quantum Cryptography: Why Your Business Must Prepare Now | Amit Kumar Thakur | [Read More](https://medium.com/p/f41adbcd8716) |
+| Mon, 08 Sep 2025 08:50:54 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in Oman | Tekshoyabeelyas | [Read More](https://medium.com/p/850dae567f69) |
 | Mon, 08 Sep 2025 08:45:55 GMT | Secrets to Building PHP APIs That Never Leak Session State | Asian Digital Hub | [Read More](https://medium.com/p/e1e793732b99) |
 | Mon, 08 Sep 2025 08:45:49 GMT | Why I Made a 30 Minute poc video for Mercedes Benz | MRKNIGHT-NIDU | [Read More](https://medium.com/p/fc27195a1717) |
+| Mon, 08 Sep 2025 08:43:59 GMT | .env Nedir? Projelerde Neden ve Nasıl Kullanılır? | Rüveyda Ekiz | [Read More](https://medium.com/p/6e69799fddb6) |
 | Mon, 08 Sep 2025 08:41:07 GMT | Top Cybersecurity Companies in Singapore in 2025 | QualysecEurope | [Read More](https://medium.com/p/dbb0da9f4432) |
 | Mon, 08 Sep 2025 08:39:58 GMT | ImaginaryCTF tax-return Writeup | d4rksi3er | [Read More](https://medium.com/p/89f8259a6730) |
 | Mon, 08 Sep 2025 08:31:40 GMT | The Human Factor Isn’t Dead: Why People Still Matter in AI Security | Yash Gorasiya | [Read More](https://medium.com/p/d62e4353166f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 04:10:15 GMT | Cloud Security: Design Principles and Tools for a Safer Cloud | Geeky Vartika | [Read More](https://medium.com/p/5f69b803304f) |
 | Mon, 08 Sep 2025 04:01:43 GMT | Cybersecurity in the Age of Remote Work: Protecting Your Team Online (2025 Edition) | Secventra | [Read More](https://medium.com/p/71b4c70459cb) |
 | Mon, 08 Sep 2025 03:59:18 GMT | Just Launched My First GitHub Portfolio | Punnakavyasri | [Read More](https://medium.com/p/abb3dc07d7bf) |
-| Mon, 08 Sep 2025 03:55:19 GMT | The Ghost in the Code: AI is a Ticking Time Bomb for Cyber-security | Johan van Niekerk | [Read More](https://medium.com/p/20c50511ee4a) |
-| Mon, 08 Sep 2025 03:52:53 GMT | SafeLine WAF: Hands-On With the Free Open Source Web Application Firewall | AerieWhole123 | [Read More](https://medium.com/p/b41afbb6fc86) |
-| Mon, 08 Sep 2025 03:49:06 GMT | ️ SSRF Odyssey: How I Pillaged Internal Systems & Bagged a Heavy Bounty | Iski | [Read More](https://medium.com/p/5f88510be2cb) |
-| Mon, 08 Sep 2025 03:47:34 GMT | The Never-Ending Party: Invite Links That Never Die | Lakshya | [Read More](https://medium.com/p/a6b000901477) |
-| Mon, 08 Sep 2025 03:42:42 GMT | Cap — Writeup | makemebetter | [Read More](https://medium.com/p/eef79490d815) |
-| Mon, 08 Sep 2025 03:42:38 GMT | The Word Brushes Against Me And I Split Open | eiza ♡ | [Read More](https://medium.com/p/0307d883b246) |
-| Mon, 08 Sep 2025 03:32:43 GMT | Parameter Cloaking in Web Cache Poisoning Using Rails Parameter Cloaking Scanner | Bash Overflow | [Read More](https://medium.com/p/489b571587c4) |
-| Mon, 08 Sep 2025 03:31:41 GMT | 10 Best Practices for Node.js and Kafka Domain Events | Arunangshu Das | [Read More](https://medium.com/p/0f584c001f92) |
