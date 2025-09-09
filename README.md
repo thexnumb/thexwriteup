@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 22:31:07 GMT | Despliegue de Nessus en Contenedores Docker para la Gestión de Vulnerabilidades | Ing. Eddy Alfaro | [Read More](https://medium.com/p/09765f0df47a) |
+| Tue, 09 Sep 2025 22:28:10 GMT | AI vs. Data Sovereignty: Who Really Holds the Power? | Emmanuel Bentil | [Read More](https://medium.com/p/5caf0f9bf739) |
+| Tue, 09 Sep 2025 22:23:19 GMT | Transitioning from Military Service to Cybersecurity: How Microsoft Learn Can Guide Veterans | Cyber Cav | [Read More](https://medium.com/p/7b9968da8ba0) |
+| Tue, 09 Sep 2025 22:20:45 GMT | How to Build GDPR & HIPAA Compliant Backends with Node.js | Somendradev | [Read More](https://medium.com/p/e68196740fd7) |
+| Tue, 09 Sep 2025 22:12:57 GMT | Proactive Threat Hunting with Google SecOps: A CIO’s Guide to Staying Ahead | Jeff | [Read More](https://medium.com/p/5b89b9d2214f) |
+| Tue, 09 Sep 2025 22:11:57 GMT | This Breach Was Preventable (and Probably in Your Code Too) | João Coelho | [Read More](https://medium.com/p/6a4045f44bed) |
 | Tue, 09 Sep 2025 22:09:15 GMT | PG Practice — Wombo (Linux) | Lepton | [Read More](https://medium.com/p/b59c8549bfc2) |
 | Tue, 09 Sep 2025 22:01:30 GMT | npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack | ASAcrew Blog | [Read More](https://medium.com/p/5cbbad57b2b3) |
 | Tue, 09 Sep 2025 21:57:45 GMT | ChatControl: can Europe legitimize mass surveillance? | Hayat Outahar | [Read More](https://medium.com/p/d966780dea36) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 16:33:02 GMT | The OSI Model Demystified: Layers, Protocols & Security Risks | Aditya Bhardwaj | [Read More](https://medium.com/p/ec01214cd192) |
 | Tue, 09 Sep 2025 16:32:19 GMT | Supply Chain Attack: How to Detect and Fix Compromised npm Packages (Step-by-Step Guide) | Eric Álvarez Chinchilla | [Read More](https://medium.com/p/bdd7b66ad905) |
 | Tue, 09 Sep 2025 16:22:30 GMT | Skipping from Pre-Seed to Series A with Dreadnode | Bryce Roberts | [Read More](https://medium.com/p/6fa30ab71c9e) |
-| Tue, 09 Sep 2025 16:21:02 GMT | HTB Vintage Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/c39008aa3e16) |
-| Tue, 09 Sep 2025 16:20:57 GMT | Basic Pentesting - THM | Peta Pavan | [Read More](https://medium.com/p/62daabc645d4) |
-| Tue, 09 Sep 2025 16:19:10 GMT | PG Practice — Bratarina (Linux) | Lepton | [Read More](https://medium.com/p/2e5349be2677) |
-| Tue, 09 Sep 2025 16:13:45 GMT | Navigating Data Privacy and Security in the Age of Generative AI | Nathan Waterman | [Read More](https://medium.com/p/2e7fc9356405) |
-| Tue, 09 Sep 2025 16:11:24 GMT | The Terrifying Takeaways from the Massive OAuth Breach | Patrick Walsh | [Read More](https://medium.com/p/52db3203ac35) |
-| Tue, 09 Sep 2025 16:08:19 GMT | “Dear Diary” challenge | oussama | [Read More](https://medium.com/p/b399803a4e04) |
