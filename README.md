@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 04:19:37 GMT | So, You Want to Get Into Cybersecurity? Here’s Where to Start | Matt Black | [Read More](https://medium.com/p/51f188337dd1) |
+| Tue, 09 Sep 2025 04:12:21 GMT | Why I Write as a Hacker on Medium: Protecting You Before Hackers Attack | Shahzaib | [Read More](https://medium.com/p/0d8c713700a6) |
+| Tue, 09 Sep 2025 04:10:58 GMT | T3 vs JAMstack: The Future of Full-Stack Development | Rizqi Mulki | [Read More](https://medium.com/p/673a036b3d8b) |
+| Tue, 09 Sep 2025 04:07:58 GMT | Unpacking the npm Supply Chain Attack: IOCs and Lessons Learned | Saimanish | [Read More](https://medium.com/p/a02bd7771482) |
+| Tue, 09 Sep 2025 04:06:35 GMT | Volatility ile Memory Dump Analizi | Barbaros | [Read More](https://medium.com/p/251e3de82841) |
+| Tue, 09 Sep 2025 04:05:06 GMT | CrowdStrike 2025 Threat Report: 7 Cybersecurity Trends That Changed Everything | Amrik Singh Hanjra | [Read More](https://medium.com/p/78ceaa5ba77b) |
+| Tue, 09 Sep 2025 04:00:50 GMT | T3 Stack vs Laravel: Which Gets You Hired Faster? | Rizqi Mulki | [Read More](https://medium.com/p/daea6e36c685) |
+| Tue, 09 Sep 2025 03:57:52 GMT | Google Pushes Two-Factor Authentication Into the Mainstream | Dave MacKinnon | [Read More](https://medium.com/p/3cdf4ba5d333) |
+| Tue, 09 Sep 2025 03:54:24 GMT | The Silent Storm: How Salt Typhoon Spied on 600 Organizations Unseen | Aj | [Read More](https://medium.com/p/3ee36eba9b2e) |
+| Tue, 09 Sep 2025 03:53:15 GMT | Cybersecurity 101: Locking the Digital World Like Your Home️ What is Cybersecurity? | Kruthik N Bharadwaj | [Read More](https://medium.com/p/7e089adfed8b) |
+| Tue, 09 Sep 2025 03:52:12 GMT | T3 Stack vs MERN: Which One Will Dominate 2025? | Rizqi Mulki | [Read More](https://medium.com/p/d74dc0f50892) |
+| Tue, 09 Sep 2025 03:49:36 GMT | Managed IT Services Austin — Empowering Businesses with Reliable Technology | Zubrix technologies | [Read More](https://medium.com/p/1bba4ea5d395) |
+| Tue, 09 Sep 2025 03:46:02 GMT | Apache RocketMQ RCE (CVE-2023–37582): Are Your Servers Still Exposed? | Quella | [Read More](https://medium.com/p/4af25357f9b4) |
 | Tue, 09 Sep 2025 03:41:30 GMT | Sunday Reflection: Gratitude, Growth & Why I Believe in a Secure Digital Future | Dr. Deep Pandey | [Read More](https://medium.com/p/dff045091bd2) |
 | Tue, 09 Sep 2025 03:38:42 GMT | Why Your Laptop Screen Deserves More Protection Than You Think | Christian Adam | [Read More](https://medium.com/p/bdc7d4ed9648) |
 | Tue, 09 Sep 2025 03:31:40 GMT | Zero-Day Chaos and AI Failures: Why 95% of Enterprise AI Projects Are Crashing | Akshat Ratanpal | [Read More](https://medium.com/p/6f3fa1339b87) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 20:10:38 GMT | CVE-2025–24204: Apple macOS Entitlement Flaw Enables Memory Dump, Keychain Theft, and FairPlay… | gm0 | [Read More](https://medium.com/p/5bb9f86de19b) |
 | Mon, 08 Sep 2025 20:08:07 GMT | Cyber Security & Ethical Hacking Program—Shef Solutions LLC | Shef Solutions LLC | [Read More](https://medium.com/p/313a9f303ed2) |
 | Mon, 08 Sep 2025 19:59:32 GMT | Monday Cyber Brief — September 8 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/b844046d7c6a) |
-| Mon, 08 Sep 2025 19:55:44 GMT | When does Microsoft Defender Business make sense for you and your company? | Cordula Boeck | [Read More](https://medium.com/p/37e2f2e9fc5a) |
-| Mon, 08 Sep 2025 19:54:39 GMT | Top 7 Tools Every Ethical Hacker Must Master | Smith Adams | [Read More](https://medium.com/p/eaa6c30b2361) |
-| Mon, 08 Sep 2025 19:43:29 GMT | Setting up Security Onion to Monitor/Defend my Home Network. | Michael Ising | [Read More](https://medium.com/p/5b85d62e186f) |
-| Mon, 08 Sep 2025 19:39:01 GMT | The Modern Data Scientist’s Paradox: When AI Makes the Job Harder (and Better) | Abdul Ashwaq Mohammed | [Read More](https://medium.com/p/e510d0eec37b) |
-| Mon, 08 Sep 2025 19:33:32 GMT | The Biggest npm Compromise Yet: Popular Packages Like chalk and debug Hijacked | Ajay Monga | [Read More](https://medium.com/p/dfeb7fb8e142) |
-| Mon, 08 Sep 2025 19:32:26 GMT | Who Scans the Scanner? Exploiting Trend Micro Mobile Security | Lucas | [Read More](https://medium.com/p/4bfb099d7993) |
-| Mon, 08 Sep 2025 19:31:56 GMT | Progress OpenEdge RMI Flaw Opens Door to Remote Command Execution | gm0 | [Read More](https://medium.com/p/407c978b37fb) |
-| Mon, 08 Sep 2025 19:29:06 GMT | De l’expérience d’inconfort | Akeelah ‍♀️ | [Read More](https://medium.com/p/5ce494a32ef4) |
-| Mon, 08 Sep 2025 19:28:54 GMT | Multi-Staged Pastejacking Attack: Insights and Indicators | Nihal Sadath | [Read More](https://medium.com/p/3d36bd4ec3d1) |
-| Mon, 08 Sep 2025 19:27:18 GMT | Harden What You Have — Without Rewrites: A Pragmatic Path to Safer Containers With RapidFort | Jacob Mitani | [Read More](https://medium.com/p/6cf4ca61086b) |
-| Mon, 08 Sep 2025 19:21:19 GMT | Schema Smuggling: Breaking AI Tool-Calls with Parser Quirks | Aviral Srivastava | [Read More](https://medium.com/p/c61478dc1414) |
-| Mon, 08 Sep 2025 19:18:52 GMT | MDR vs. MSS: Which Security Solution is Right for your Business | IT_Engineer | [Read More](https://medium.com/p/3823cfd36cb8) |
-| Mon, 08 Sep 2025 19:17:07 GMT | The Cost of a Wrong Word in Threat Intelligence | Rishika Desai | [Read More](https://medium.com/p/202dca1aa8fb) |
