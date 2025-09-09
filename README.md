@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 18:38:35 GMT | How I Build Universal CORS Exploitation Payloads (with Fetch) | Cybernerddd | [Read More](https://medium.com/p/b04d1c6705df) |
+| Tue, 09 Sep 2025 18:35:28 GMT | Novice Student Modify Tuition Payment Records | Kiran Adhikari | [Read More](https://medium.com/p/50c8a3bc19a8) |
+| Tue, 09 Sep 2025 18:33:04 GMT | Session Management THM Walkthrough | Dorukeymengormek | [Read More](https://medium.com/p/6cdceb8f4157) |
+| Tue, 09 Sep 2025 18:31:41 GMT | Cookies in the Multiverse of Madness. | Theo | [Read More](https://medium.com/p/9f9203e5b1e2) |
+| Tue, 09 Sep 2025 18:29:55 GMT | ASC War Games 2025 finals — Legacy Edition Challenge | Mahmoud Mosbah | [Read More](https://medium.com/p/440a11837322) |
 | Tue, 09 Sep 2025 18:16:01 GMT | Debugging Nightmares: How I Solved My First Real Bug | UXVerse — ◦ | [Read More](https://medium.com/p/8b751abe9191) |
 | Tue, 09 Sep 2025 18:15:58 GMT | Understanding NoSQL Injection: Exploit Techniques, Examples, and a picoCTF Challenge Walkthrough | Mohamedd Jasim Z | [Read More](https://medium.com/p/1d99dba79a58) |
 | Tue, 09 Sep 2025 18:13:04 GMT | Ethical Hacking Courses for Beginners — Start Your Cybersecurity Career with Cyberyaan | Nitin Singh | [Read More](https://medium.com/p/717cd8a464be) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 13:36:46 GMT | Running Chromium in Docker Without Selling Your Soul | Dieter S. | [Read More](https://medium.com/p/433e591802f2) |
 | Tue, 09 Sep 2025 13:32:50 GMT | Building Secure Apps in 2025: A Developer’s Guide to Cybersecurity | Umesh Anjula | [Read More](https://medium.com/p/191cf0bb2389) |
 | Tue, 09 Sep 2025 13:32:21 GMT | How to Find Hidden Web Vulnerabilities Using FFUF | Ibtissam hammadi | [Read More](https://medium.com/p/6d59d013c467) |
-| Tue, 09 Sep 2025 13:32:21 GMT | From MFA Fatigue to Deepfakes: The Next Generation of Cyber Threats Facing Mid‑Sized Businesses | CoopSys | [Read More](https://medium.com/p/9d36d4069b7d) |
-| Tue, 09 Sep 2025 13:26:56 GMT | Beginner’s Guide to Raspberry Pi Pico - PART-2 | Agape HearTs | [Read More](https://medium.com/p/c69e60b077a7) |
-| Tue, 09 Sep 2025 13:26:12 GMT | Apache HTTP Server 2.4.49/2.4.50 - CVE-2021–42013 | Özcan Ersan | [Read More](https://medium.com/p/73da98c07c6a) |
-| Tue, 09 Sep 2025 13:25:10 GMT | Architecting the Future: Building an Enterprise-Grade A/B Testing Platform with Cloudflare Workers | Srinivasa Tadipatri | [Read More](https://medium.com/p/1f6124f83b05) |
-| Tue, 09 Sep 2025 13:20:24 GMT | The Impact of AI on Jobs in 2025: Sector-Wise Insights | Awais Butt | [Read More](https://medium.com/p/d93676f26cea) |
