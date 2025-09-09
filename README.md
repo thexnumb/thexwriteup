@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 19:14:13 GMT | The Linux Process Journey — arpd (Address Resolution Protocol Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bbe313dd3258) |
+| Tue, 09 Sep 2025 19:02:21 GMT | Today’s Top Cyber Intelligence Highlights — Sep 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c96501d819dc) |
+| Tue, 09 Sep 2025 18:56:22 GMT | Beneficial Ownership in Crypto Investigations: From Wallets to Real People | Jordan J. Solomon | [Read More](https://medium.com/p/1eaad9392330) |
+| Tue, 09 Sep 2025 18:55:47 GMT | CVE-2025–57833 - Django’da FilteredRelation Alias’ları Üzerinden Potansiyel SQL Injection | Yunus Olçar | [Read More](https://medium.com/p/dceb59a94069) |
+| Tue, 09 Sep 2025 18:53:41 GMT | How I Earned $3,500 with a Simple Injection Bug (And You Can Too) | Rashadul Islam | [Read More](https://medium.com/p/deeab8941c04) |
+| Tue, 09 Sep 2025 18:50:21 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/bdd66760295a) |
+| Tue, 09 Sep 2025 18:48:24 GMT | Artificial Intelligence Used in 80% of Ransomware Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b6e4d02233ed) |
+| Tue, 09 Sep 2025 18:45:31 GMT | The future i see DroseraNetwork building in Defi | braham | [Read More](https://medium.com/p/af19c3de375b) |
 | Tue, 09 Sep 2025 18:38:35 GMT | How I Build Universal CORS Exploitation Payloads (with Fetch) | Cybernerddd | [Read More](https://medium.com/p/b04d1c6705df) |
+| Tue, 09 Sep 2025 18:36:52 GMT | Cracking the Google XSS Game: XSS in AppSec | Richard Ndung'u | [Read More](https://medium.com/p/302a96949447) |
 | Tue, 09 Sep 2025 18:35:28 GMT | Novice Student Modify Tuition Payment Records | Kiran Adhikari | [Read More](https://medium.com/p/50c8a3bc19a8) |
 | Tue, 09 Sep 2025 18:33:04 GMT | Session Management THM Walkthrough | Dorukeymengormek | [Read More](https://medium.com/p/6cdceb8f4157) |
 | Tue, 09 Sep 2025 18:31:41 GMT | Cookies in the Multiverse of Madness. | Theo | [Read More](https://medium.com/p/9f9203e5b1e2) |
@@ -37,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 17:22:48 GMT | Zoom and Beyond: Eight Vulnerabilities That Redefine Enterprise Risk | gm0 | [Read More](https://medium.com/p/1eca88240f3a) |
 | Tue, 09 Sep 2025 17:22:43 GMT | Nmap: The Essential Cybersecurity Network Mapper | Neophile | [Read More](https://medium.com/p/21669a15b726) |
 | Tue, 09 Sep 2025 17:21:58 GMT | Auto Block Website Ping Attack: Protecting Your Website from Hidden Flood Threats | SafeAeon Inc. | [Read More](https://medium.com/p/34916a4108bb) |
+| Tue, 09 Sep 2025 17:20:40 GMT | How to determine threat severity for detection rules | Tsunami | [Read More](https://medium.com/p/ddbae3bf2520) |
 | Tue, 09 Sep 2025 17:13:45 GMT | How to Reset a Garage Door Opener After Pulling the Red Cord: Step-by-Step Guide | 24H Garage Doors | [Read More](https://medium.com/p/44fcd88c0d59) |
 | Tue, 09 Sep 2025 17:13:21 GMT | The Hidden Dangers of AI Overuse: Are We Losing Our Human Touch? | Hafizbilaltariq | [Read More](https://medium.com/p/cfcc19dd2516) |
 | Tue, 09 Sep 2025 17:11:54 GMT | When a Chatbot Opens the Door to a Supply Chain Attack | TheSlic3r | [Read More](https://medium.com/p/1238d6dccbd9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 14:02:37 GMT | Mastering Modern Red Teaming Infrastructure — Part 9: SilentMind-AI-C2—Automating… | Faris Faisal 0xFF | [Read More](https://medium.com/p/e5db56c1b239) |
 | Tue, 09 Sep 2025 14:01:55 GMT | Cyber Briefing: 2025.09.09 | CyberMaterial | [Read More](https://medium.com/p/d9758561e8bf) |
 | Tue, 09 Sep 2025 14:01:54 GMT | A Practical Guide to Play Integrity API: Everything You Need to Implement Attestation on Android | Kartik Agrawal | [Read More](https://medium.com/p/c010f0fc8f09) |
-| Tue, 09 Sep 2025 13:59:29 GMT | The $2.6B npm Hack That Silently Stole Crypto: What You Need to Know | Nanthakumar | [Read More](https://medium.com/p/81e18e4f89a7) |
-| Tue, 09 Sep 2025 13:55:56 GMT | You Didn’t Get Phished-You Onboarded the Attacker | Suhas valasala | [Read More](https://medium.com/p/aa38dce3af57) |
-| Tue, 09 Sep 2025 13:53:37 GMT | From Abstract Risk to Blinking Red Light | Steve Ng | [Read More](https://medium.com/p/7d8a65469a57) |
-| Tue, 09 Sep 2025 13:46:59 GMT | Subdomain Takeover | yee-yore | [Read More](https://medium.com/p/f64fdf323852) |
-| Tue, 09 Sep 2025 13:42:24 GMT | Why Your Email is Less Secure Than a Bank Transaction (And What to Do About It) | TechEd Publishers | [Read More](https://medium.com/p/be32fe5fdec0) |
-| Tue, 09 Sep 2025 13:40:21 GMT | Password Management for Remote Teams: Challenges & Solutions | Password Manager | [Read More](https://medium.com/p/adfab9f3ff74) |
-| Tue, 09 Sep 2025 13:37:17 GMT | Exploiting RMI Services for System Domination: Operation Java Strike | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/19ceb3ce4aa1) |
-| Tue, 09 Sep 2025 13:36:46 GMT | Running Chromium in Docker Without Selling Your Soul | Dieter S. | [Read More](https://medium.com/p/433e591802f2) |
-| Tue, 09 Sep 2025 13:32:50 GMT | Building Secure Apps in 2025: A Developer’s Guide to Cybersecurity | Umesh Anjula | [Read More](https://medium.com/p/191cf0bb2389) |
-| Tue, 09 Sep 2025 13:32:21 GMT | How to Find Hidden Web Vulnerabilities Using FFUF | Ibtissam hammadi | [Read More](https://medium.com/p/6d59d013c467) |
