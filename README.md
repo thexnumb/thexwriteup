@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 10:07:36 GMT | Kali GPT: The AI Assistant That’s Revolutionizing Pentesting on Kali Linux | Inayat Hussain | [Read More](https://medium.com/p/a47cd2e9685c) |
+| Tue, 09 Sep 2025 10:07:21 GMT | Introducing SocialIntellax A Comprehensive OSINT & Threat Intelligence Framework
+By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
+| Tue, 09 Sep 2025 10:01:30 GMT | How I Accidentally Stumbled Upon a Critical Vulnerability (Exposed backup on google storage) | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/420f17004062) |
+| Tue, 09 Sep 2025 10:00:46 GMT | Stepwise Guide to Save Gmail Messages Offline and Access Anywhere | Patrick Myers | [Read More](https://medium.com/p/2b78a69bc801) |
+| Tue, 09 Sep 2025 09:55:14 GMT | The Largest npm Supply-Chain Attack to Date: A Deep Dive | Jagan Raj Raviraja | [Read More](https://medium.com/p/f3d930e7b963) |
+| Tue, 09 Sep 2025 09:53:11 GMT | Sharing personal Experience @ Reverse Engineering without assembly tools -Shell Gym Episode… | Cy3erS@up | [Read More](https://medium.com/p/70f6e22db011) |
+| Tue, 09 Sep 2025 09:52:26 GMT | DockerLabs Writeup — FindYourStyle (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/466d543adaf0) |
+| Tue, 09 Sep 2025 09:51:37 GMT | The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/7c4edcb206bd) |
+| Tue, 09 Sep 2025 09:49:04 GMT | Siber Güvenliğin İlahi Rehberi: MITRE ATT&CK’ı Tanıyalım | Cyber Web | [Read More](https://medium.com/p/d1fb2b61d148) |
+| Tue, 09 Sep 2025 09:47:38 GMT | What Is Hacking Methodology? | Mainekhacker | [Read More](https://medium.com/p/279b570bf6bc) |
+| Tue, 09 Sep 2025 09:46:33 GMT | Business Logic Flaw Lets Free Plan Add Extra Team Members | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/600581cd3205) |
+| Tue, 09 Sep 2025 09:45:02 GMT | Under the Magnifying Glass: Butterflies and The Limelight | Shy | [Read More](https://medium.com/p/40f61ab3a580) |
+| Tue, 09 Sep 2025 09:44:07 GMT | From Limited Shell to Interactive TTY Shell: A Must-Have Skill for Bug Bounty Hunters | Ali Ziro | [Read More](https://medium.com/p/b0f407897dac) |
+| Tue, 09 Sep 2025 09:44:03 GMT | Anonymous CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/c4159c8d214b) |
+| Tue, 09 Sep 2025 09:42:19 GMT | FlagYard Crypto Adventures | H3NRY B41T | [Read More](https://medium.com/p/22b09aafda77) |
+| Tue, 09 Sep 2025 09:41:48 GMT | When Ethereum Learns to React - Drosera | Blessing Shodunke | [Read More](https://medium.com/p/30757562317b) |
+| Tue, 09 Sep 2025 09:41:42 GMT | npm Nightmare: Are Your Packages Safe? | Truspex | [Read More](https://medium.com/p/25db31dc26be) |
+| Tue, 09 Sep 2025 09:41:04 GMT | Answering Your Top 5 Questions About Custom Software Solutions | Karmakoders | [Read More](https://medium.com/p/b595a51a7842) |
+| Tue, 09 Sep 2025 09:38:36 GMT | Hack The Box : ADSelfService | r03n | [Read More](https://medium.com/p/1921ae5592d7) |
+| Tue, 09 Sep 2025 09:37:10 GMT | CVE-2025–58454: SQL Injection Vulnerability in WeGIA Web Manager | Kommaumamaheswarreddy | [Read More](https://medium.com/p/5feb685d1925) |
 | Tue, 09 Sep 2025 09:33:05 GMT | Not the Clever Lion, But the Hungry Lion: The Power of Self-Learning in IT | Dilkini  Kahawalage | [Read More](https://medium.com/p/dd641b007a1d) |
 | Tue, 09 Sep 2025 09:26:24 GMT | UMInk — A Different Take on Cloud Storage: Lower Cost, Plus a Way to Earn on the Side | Almot | [Read More](https://medium.com/p/be04e950d20e) |
 | Tue, 09 Sep 2025 09:20:21 GMT | The Passwordless Future : Securing and Streamlining Operations for Businesses | FlashX Cybersecurity | [Read More](https://medium.com/p/0ee5f7d3384e) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 05:55:12 GMT | Beyond Sandboxes: Layered Security for AI Agent Infrastructure | Dave Patten | [Read More](https://medium.com/p/e9d25c8235c8) |
 | Tue, 09 Sep 2025 05:54:28 GMT | Cybersecurity in the UAE: Top Threats Businesses Face in 2025 | Reghu Mohandas | [Read More](https://medium.com/p/5ddf805e4249) |
 | Tue, 09 Sep 2025 05:49:15 GMT | KillSec: From Hacktivism to RaaS — My Perspective on an Alarming Evolution | Siddhant Mishra | [Read More](https://medium.com/p/dc3425622633) |
-| Tue, 09 Sep 2025 05:48:11 GMT | Mobile Market Report 2025: What’s Changing in the Global Market | Maya Thompson | [Read More](https://medium.com/p/d6e74be30353) |
-| Tue, 09 Sep 2025 05:45:56 GMT | Email Security Automation: Malicious URL Detection | H3NRY B41T | [Read More](https://medium.com/p/0c275a6d9fec) |
-| Tue, 09 Sep 2025 05:42:59 GMT | Reflected XSS Vulnerability Bypassing Amazon CloudFront via Safari Browser | Krishna Kumar | [Read More](https://medium.com/p/5416b5b64be2) |
-| Tue, 09 Sep 2025 05:30:28 GMT | Mobile Market Report 2025: Complete Guide to Market Shifts | Sophia Bennett | [Read More](https://medium.com/p/93bb8d60072a) |
-| Tue, 09 Sep 2025 05:26:30 GMT | Why You Should Not Use $db->quote() with sprintf() in PostgreSQL (PDO) | nowheretohide | [Read More](https://medium.com/p/c5fe9902cba2) |
-| Tue, 09 Sep 2025 05:25:43 GMT | Enterprise Risk Management: Guide to Risk and Resilience | Samyukta Roy | [Read More](https://medium.com/p/a7c1d12ee322) |
-| Tue, 09 Sep 2025 05:25:41 GMT | How DevSecOps is Transforming Application Security | Abida Adra | [Read More](https://medium.com/p/13b5fcc6b930) |
-| Tue, 09 Sep 2025 05:18:52 GMT | Hackers Target NPM Packages Affecting Billions of Downloads | Sushila Devi | [Read More](https://medium.com/p/df311ab74b24) |
-| Tue, 09 Sep 2025 05:17:52 GMT | The AI Agent Protocol Guide for Cybersecurity Leaders | Amrik Singh Hanjra | [Read More](https://medium.com/p/f8998f246ff2) |
-| Tue, 09 Sep 2025 05:14:40 GMT | 13. My First Private Program Experience (and Mistakes I Made) | Abhijeet kumawat | [Read More](https://medium.com/p/a5d8d6b325a7) |
-| Tue, 09 Sep 2025 05:13:40 GMT | Improve Web Privacy in Android Apps with Ephemeral Custom Tabs | Surendar Dharavath | [Read More](https://medium.com/p/79732b0a9b5b) |
-| Tue, 09 Sep 2025 05:13:10 GMT | The Quality Revolution: How AI-Native Agile Delivers Superior Security, Compliance, and Code… | Ivo Titscher | [Read More](https://medium.com/p/53e7d1cffe4c) |
-| Tue, 09 Sep 2025 05:13:03 GMT | Window Object Subdomain Recon Tip | AbhirupKonwar | [Read More](https://medium.com/p/cf74d746ca59) |
-| Tue, 09 Sep 2025 05:12:22 GMT | How I Discovered a Public API Data Exposure on India’s Government Website (And Got It Fixed) | Uday | [Read More](https://medium.com/p/d6d4989d486f) |
-| Tue, 09 Sep 2025 05:05:18 GMT | WIPRO, TCS, Capgemini Hexaware Technologies – Senior Java Backend Developer Interview Questions | Coding Ninja | [Read More](https://medium.com/p/c0d9c659e3a3) |
-| Tue, 09 Sep 2025 05:04:46 GMT | XSS in Google IDX Workstation → RCE! $22,500 Bounty Earned | Aditya Sunny | [Read More](https://medium.com/p/2d09f0176869) |
-| Tue, 09 Sep 2025 05:01:12 GMT | Career Growth Resources for Tech Professionals - HappyTechies | Pravallikakpd | [Read More](https://medium.com/p/97f32dc1f929) |
-| Tue, 09 Sep 2025 04:57:02 GMT | Mobile Market Report 2025: Latest Consumer Trends You Must Know | Aurora Green | [Read More](https://medium.com/p/c511193c8681) |
-| Tue, 09 Sep 2025 04:56:46 GMT | ShadowCaptcha: WordPress Hijacked for Malware Delivery | Ashley Dai | [Read More](https://medium.com/p/b791bd92fb92) |
-| Tue, 09 Sep 2025 04:49:22 GMT | Software Supply Chain Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4e6b1eb63655) |
