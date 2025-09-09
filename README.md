@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 23:06:55 GMT | Are companies underestimating the risk of OAuth token theft? | Cyber-AppSec | [Read More](https://medium.com/p/cf65469a644e) |
+| Tue, 09 Sep 2025 23:05:12 GMT | Demystifying Data Privacy in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/47b641923a0c) |
+| Tue, 09 Sep 2025 22:57:58 GMT | The Creator’s Help Desk | The Creator's Help Desk | [Read More](https://medium.com/p/d5e5a0dd9646) |
+| Tue, 09 Sep 2025 22:57:21 GMT | We live in a world where web3 is taking over gradually and innovation races ahead of security… | Kellyokuonghae | [Read More](https://medium.com/p/f58bc0269d07) |
+| Tue, 09 Sep 2025 22:53:48 GMT | An Experiment in AI for Security Operations (Part 1 — the idea) | Bill Mahony | [Read More](https://medium.com/p/76f2d2e89506) |
+| Tue, 09 Sep 2025 22:53:42 GMT | Netskope S-1 Deep Dive: $707M ARR, 118% NRR, and a Channel-Heavy Path to the Public Markets | Amar Jeer | [Read More](https://medium.com/p/b6e6b79beaef) |
+| Tue, 09 Sep 2025 22:45:13 GMT | Why Tenable Leads in Vulnerability Management: The Amit Yoran Effect | Emmanuel Bentil | [Read More](https://medium.com/p/fd466dadc766) |
+| Tue, 09 Sep 2025 22:40:45 GMT | The Phishing Email is Perfect Now. A.I. Wrote It. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/6ed0b2499aa1) |
+| Tue, 09 Sep 2025 22:39:41 GMT | How Hackers Get Stuff For Free | Ghani Mengal | [Read More](https://medium.com/p/7d07e261207a) |
 | Tue, 09 Sep 2025 22:31:07 GMT | Despliegue de Nessus en Contenedores Docker para la Gestión de Vulnerabilidades | Ing. Eddy Alfaro | [Read More](https://medium.com/p/09765f0df47a) |
 | Tue, 09 Sep 2025 22:28:10 GMT | AI vs. Data Sovereignty: Who Really Holds the Power? | Emmanuel Bentil | [Read More](https://medium.com/p/5caf0f9bf739) |
 | Tue, 09 Sep 2025 22:23:19 GMT | Transitioning from Military Service to Cybersecurity: How Microsoft Learn Can Guide Veterans | Cyber Cav | [Read More](https://medium.com/p/7b9968da8ba0) |
@@ -22,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 22:01:30 GMT | npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack | ASAcrew Blog | [Read More](https://medium.com/p/5cbbad57b2b3) |
 | Tue, 09 Sep 2025 21:57:45 GMT | ChatControl: can Europe legitimize mass surveillance? | Hayat Outahar | [Read More](https://medium.com/p/d966780dea36) |
 | Tue, 09 Sep 2025 21:57:37 GMT | Attack Disruption: Enabled by Default, but Not Complete | Cyber Cav | [Read More](https://medium.com/p/39ee8de87eb8) |
+| Tue, 09 Sep 2025 21:41:17 GMT | Nmap: Explorando redes — Guía de enumeracion para ciberseguridad. | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/f43a207ec98b) |
 | Tue, 09 Sep 2025 21:31:47 GMT | From 12 Words to Infinite Wallets: How HD Wallets Power Crypto Security | Zakhar Deyneka | [Read More](https://medium.com/p/42117700dc56) |
 | Tue, 09 Sep 2025 21:28:36 GMT | The Future I See With Drosera Network | Airdrop_dave | [Read More](https://medium.com/p/c9b7727e643c) |
 | Tue, 09 Sep 2025 21:25:25 GMT | The Largest npm Supply Chain Attack: Inside the Debug & Chalk Malicious Injection — An In-depth… | ViraSecurity | [Read More](https://medium.com/p/7d4b061ac2aa) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 17:00:28 GMT | Organising a Clickjacking Attack | Swetha | [Read More](https://medium.com/p/6f368de1567b) |
 | Tue, 09 Sep 2025 16:59:30 GMT | Xorion: Building the Blockchain of Tomorrow | Bright Mmaduabuchi | [Read More](https://medium.com/p/56acef5b078f) |
 | Tue, 09 Sep 2025 16:58:17 GMT | TryHackMe Writeup: Simple CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/f03e66c4a108) |
-| Tue, 09 Sep 2025 16:57:39 GMT | DevSecOps with Mr. Lokesh Verma — The BSides Weekly [S1E6] | Riddhikacheruku | [Read More](https://medium.com/p/5e8d1ed81c90) |
-| Tue, 09 Sep 2025 16:54:43 GMT | Ukraine Just Pulled the Plug on Russia’s Gas Pumps | Edward Harrington | [Read More](https://medium.com/p/db2161b214da) |
-| Tue, 09 Sep 2025 16:43:26 GMT | Why Cyber Strategy Matters Today: Key Issues Explained | Karl-Heinrich zu Schwarzenberg | [Read More](https://medium.com/p/dc988a81d137) |
-| Tue, 09 Sep 2025 16:39:14 GMT | The Sneakiest Phishing Trick I’ve Seen Lately — And Why Your Email Security Won’t Save You | Dean | [Read More](https://medium.com/p/6ff448d6dbdc) |
-| Tue, 09 Sep 2025 16:38:47 GMT | Towards KERI AIDs in Security Protocol Design | Michal Pietrus | [Read More](https://medium.com/p/fb0291c3cb09) |
-| Tue, 09 Sep 2025 16:34:51 GMT | Cybersecurity Tools — Selecting, Running Complex PoCs on, and Implementing | Prabhat K. Andleigh | [Read More](https://medium.com/p/5a56e198127a) |
-| Tue, 09 Sep 2025 16:33:23 GMT | Beyond the Patch: Leveraging Poisson Distribution to Transform Bug Reporting into Strategic Risk… | Patrick Lefler | [Read More](https://medium.com/p/fd67a2208335) |
-| Tue, 09 Sep 2025 16:33:02 GMT | The OSI Model Demystified: Layers, Protocols & Security Risks | Aditya Bhardwaj | [Read More](https://medium.com/p/ec01214cd192) |
-| Tue, 09 Sep 2025 16:32:19 GMT | Supply Chain Attack: How to Detect and Fix Compromised npm Packages (Step-by-Step Guide) | Eric Álvarez Chinchilla | [Read More](https://medium.com/p/bdd7b66ad905) |
-| Tue, 09 Sep 2025 16:22:30 GMT | Skipping from Pre-Seed to Series A with Dreadnode | Bryce Roberts | [Read More](https://medium.com/p/6fa30ab71c9e) |
