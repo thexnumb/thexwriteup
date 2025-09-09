@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 08:41:09 GMT | Offensive Security Intro: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/6df70164617a) |
+| Tue, 09 Sep 2025 08:39:11 GMT | 2.6 Billion Downloads, One Phishing Email: Inside the Latest NPM Supply Chain Attack | Felix Ivance Runye | [Read More](https://medium.com/p/d868dbcf6826) |
+| Tue, 09 Sep 2025 08:37:08 GMT | Vulnerability Management: A Core Pillar of Cybersecurity | Digital Defense | [Read More](https://medium.com/p/75983331ff94) |
+| Tue, 09 Sep 2025 08:36:38 GMT | MediaTek Dimensity 9500 : New Leaks Alert | Arjun Agarwal | [Read More](https://medium.com/p/44d3a69b7bb1) |
+| Tue, 09 Sep 2025 08:31:40 GMT | From Startup to Scaleup: Building Security into Growth, Not After | Evgeny Ermakov | [Read More](https://medium.com/p/ff5f65e79f74) |
+| Tue, 09 Sep 2025 08:28:31 GMT | Supply-Chain Hack Hits a Billion Downloads: Protect Your Web3 Assets Now | Safeguard Capital | [Read More](https://medium.com/p/73e2fd84bbb7) |
+| Tue, 09 Sep 2025 08:28:24 GMT | SSRF in React/Next.js: Risks & Fixes (With Code) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f8c9a521562) |
+| Tue, 09 Sep 2025 08:28:20 GMT | The House With Too Many Windows | O. J. Okpabi | [Read More](https://medium.com/p/01f459e9e2d2) |
+| Tue, 09 Sep 2025 08:27:41 GMT | Securing the Future: How Decentralized Networks Are Changing Cybersecurity | Niamh O'Shea | [Read More](https://medium.com/p/5f64770315b2) |
+| Tue, 09 Sep 2025 08:27:21 GMT | How to Forward JumpServer Logs to a Remote Syslog Server (v4.10.7 Docker Setup) | Sherif Rahim | [Read More](https://medium.com/p/ff1daeaa2ee0) |
+| Tue, 09 Sep 2025 08:17:24 GMT | Top-Rated Digital Marketing Agency in Dwarka for Business Growth | Touchstone Infotech | [Read More](https://medium.com/p/b92ec7637be8) |
 | Tue, 09 Sep 2025 08:17:15 GMT | Social Engineering for Defense: How to Train Your Employees to Be the First Line of Defense | Shahzaib | [Read More](https://medium.com/p/fa3ca2998e77) |
 | Tue, 09 Sep 2025 08:09:13 GMT | Latest Smartphone Launches 2025 — Specs, Prices & Trends in India | info@flagnews.in | [Read More](https://medium.com/p/d7b4804855fb) |
 | Tue, 09 Sep 2025 08:09:01 GMT | Convenience vs. Privacy: Is I❤️PDF Really Safe for Your Sensitive Documents? | Rohan Dalvi | [Read More](https://medium.com/p/a7810e0f61e5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 03:57:52 GMT | Google Pushes Two-Factor Authentication Into the Mainstream | Dave MacKinnon | [Read More](https://medium.com/p/3cdf4ba5d333) |
 | Tue, 09 Sep 2025 03:54:24 GMT | The Silent Storm: How Salt Typhoon Spied on 600 Organizations Unseen | Aj | [Read More](https://medium.com/p/3ee36eba9b2e) |
 | Tue, 09 Sep 2025 03:53:15 GMT | Cybersecurity 101: Locking the Digital World Like Your Home️ What is Cybersecurity? | Kruthik N Bharadwaj | [Read More](https://medium.com/p/7e089adfed8b) |
-| Tue, 09 Sep 2025 03:52:12 GMT | T3 Stack vs MERN: Which One Will Dominate 2025? | Rizqi Mulki | [Read More](https://medium.com/p/d74dc0f50892) |
-| Tue, 09 Sep 2025 03:49:36 GMT | Managed IT Services Austin — Empowering Businesses with Reliable Technology | Zubrix technologies | [Read More](https://medium.com/p/1bba4ea5d395) |
-| Tue, 09 Sep 2025 03:46:02 GMT | Apache RocketMQ RCE (CVE-2023–37582): Are Your Servers Still Exposed? | Quella | [Read More](https://medium.com/p/4af25357f9b4) |
-| Tue, 09 Sep 2025 03:41:30 GMT | Sunday Reflection: Gratitude, Growth & Why I Believe in a Secure Digital Future | Dr. Deep Pandey | [Read More](https://medium.com/p/dff045091bd2) |
-| Tue, 09 Sep 2025 03:38:42 GMT | Why Your Laptop Screen Deserves More Protection Than You Think | Christian Adam | [Read More](https://medium.com/p/bdc7d4ed9648) |
-| Tue, 09 Sep 2025 03:31:40 GMT | Zero-Day Chaos and AI Failures: Why 95% of Enterprise AI Projects Are Crashing | Akshat Ratanpal | [Read More](https://medium.com/p/6f3fa1339b87) |
-| Tue, 09 Sep 2025 03:31:39 GMT | LockBit’s New Cloak: How DLL Sideloading Makes Ransomware Look Legit | Deven Chhajed | [Read More](https://medium.com/p/f567bee8e935) |
-| Tue, 09 Sep 2025 03:31:02 GMT | The Evolution of Phishing: How Modern Kits Are Outsmarting Defenses | Dave MacKinnon | [Read More](https://medium.com/p/aa35446bf387) |
-| Tue, 09 Sep 2025 03:28:00 GMT | Largest NPM hack in history | Jaydeep Karale | [Read More](https://medium.com/p/f953acf82b76) |
-| Tue, 09 Sep 2025 03:10:16 GMT | The Rise of the Enterprise AI Browser | Mammoth Cyber | [Read More](https://medium.com/p/2fca3a093ebe) |
-| Tue, 09 Sep 2025 03:04:07 GMT | Cybersecurity Threat Detection by the Department of Homeland Security (DHS) | Amber Boone | [Read More](https://medium.com/p/b92c8ec54a97) |
