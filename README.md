@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 08:17:15 GMT | Social Engineering for Defense: How to Train Your Employees to Be the First Line of Defense | Shahzaib | [Read More](https://medium.com/p/fa3ca2998e77) |
+| Tue, 09 Sep 2025 08:09:13 GMT | Latest Smartphone Launches 2025 — Specs, Prices & Trends in India | info@flagnews.in | [Read More](https://medium.com/p/d7b4804855fb) |
+| Tue, 09 Sep 2025 08:09:01 GMT | Convenience vs. Privacy: Is I❤️PDF Really Safe for Your Sensitive Documents? | Rohan Dalvi | [Read More](https://medium.com/p/a7810e0f61e5) |
+| Tue, 09 Sep 2025 08:07:29 GMT | Top 10 AWS Security Misconfigurations and How to Avoid Them | Davebhargavi | [Read More](https://medium.com/p/774fdf3b77c5) |
+| Tue, 09 Sep 2025 08:03:50 GMT | Keep Your SaaS Safe | KnubiSoft | [Read More](https://medium.com/p/72296929de66) |
+| Tue, 09 Sep 2025 08:02:33 GMT | From Chaos to Connectivity: My SOC Lab Rebuild | Adaku Okafor | [Read More](https://medium.com/p/7bbea2e4a0ef) |
+| Tue, 09 Sep 2025 08:01:52 GMT | The Hidden War: How AI Helps Unmask Cybercriminals | Guillaume GUERARD | [Read More](https://medium.com/p/3f3e6b547301) |
+| Tue, 09 Sep 2025 08:01:48 GMT | The Firewall Mistakes That’ll Get You Fired (And How to Avoid Them) | MayhemCode | [Read More](https://medium.com/p/f9053eaad6c7) |
+| Tue, 09 Sep 2025 08:01:48 GMT | Air quotes | Abad Grueso | [Read More](https://medium.com/p/296ada7315e2) |
+| Tue, 09 Sep 2025 08:01:12 GMT | How Can Generative AI Be Used in Cybersecurity | Sekurno | [Read More](https://medium.com/p/d314ae7781a1) |
+| Tue, 09 Sep 2025 07:59:35 GMT | Tech Stack Identification: The Secret Weapon Every Penetration Tester Needs | Vivek Bhatt | [Read More](https://medium.com/p/dfc1a438c260) |
+| Tue, 09 Sep 2025 07:57:01 GMT | The Role of AI in Cybersecurity (Both Good and Bad) | Sukhveer Singh | [Read More](https://medium.com/p/65a6c0d0165a) |
+| Tue, 09 Sep 2025 07:54:10 GMT | Guarding Australia: The Hidden Costs of Cutting Corners on Security | Danny Hines | [Read More](https://medium.com/p/58f8946e9b6d) |
+| Tue, 09 Sep 2025 07:53:33 GMT | Cyber Risk Quantification: Lessons from the Qantas Cyberattack | Zeron | [Read More](https://medium.com/p/7847d001c855) |
+| Tue, 09 Sep 2025 07:52:35 GMT | Surviving the IT Job Market in Morocco: a journey that I never expected — Part 1 | MeerKat | [Read More](https://medium.com/p/39527fdd9195) |
+| Tue, 09 Sep 2025 07:51:08 GMT | Protecting Your Assets in DeFi: A Practical Security Guide | Gürkan Ezerçe | [Read More](https://medium.com/p/1492dabde193) |
+| Tue, 09 Sep 2025 07:49:33 GMT | 6 Key Reasons to Choose Informatica Services in 2025 | Cloud-rank | [Read More](https://medium.com/p/cbc6a80d29f7) |
+| Tue, 09 Sep 2025 07:48:42 GMT | Maximum Security with Road Blocker | Karen Sistem Savunma | [Read More](https://medium.com/p/811a75d00b75) |
+| Tue, 09 Sep 2025 07:48:08 GMT | How One Phishing Email Injected Crypto-Stealing Malware into Billions of NPM Downloads | Sohan Kanna D | [Read More](https://medium.com/p/0aa0ecd2ae56) |
+| Tue, 09 Sep 2025 07:47:46 GMT | BugDB v2 | Dasmanish | [Read More](https://medium.com/p/7f2b9d89869d) |
 | Tue, 09 Sep 2025 07:36:01 GMT | Kenali Ciri-Ciri Pesan Penipuan & Berbahaya ! | SIM RZ | [Read More](https://medium.com/p/cf1340fa7c91) |
 | Tue, 09 Sep 2025 07:32:08 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/e7f12dce0253) |
 | Tue, 09 Sep 2025 07:22:35 GMT | Is Your ChatGPT Chat Google Famous? (You’ll Want to Check) | Mohit Aggarwal | [Read More](https://medium.com/p/01b30fc7601f) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 03:28:00 GMT | Largest NPM hack in history | Jaydeep Karale | [Read More](https://medium.com/p/f953acf82b76) |
 | Tue, 09 Sep 2025 03:10:16 GMT | The Rise of the Enterprise AI Browser | Mammoth Cyber | [Read More](https://medium.com/p/2fca3a093ebe) |
 | Tue, 09 Sep 2025 03:04:07 GMT | Cybersecurity Threat Detection by the Department of Homeland Security (DHS) | Amber Boone | [Read More](https://medium.com/p/b92c8ec54a97) |
-| Tue, 09 Sep 2025 02:54:47 GMT | The Chalk Debacle, Unpacking a Nasty npm Supply‑Chain Attack | Ben Fairbank | [Read More](https://medium.com/p/f14910648ae5) |
-| Tue, 09 Sep 2025 02:48:39 GMT | Ghost in Your Supply Chain: Unpacking Cybersecurity Vulnerabilities in Software Supply Chain… | CyCraft Technology Corp | [Read More](https://medium.com/p/19a3950a0536) |
-| Tue, 09 Sep 2025 02:43:44 GMT | Deploying EDR Agents to 5,000 Endpoints Without Losing Your Mind | Paritosh | [Read More](https://medium.com/p/e8a655e67320) |
-| Tue, 09 Sep 2025 02:32:33 GMT | The Power and the Protocol: Securing Ethiopia’s Renaissance on the Nile | Abebebe Diro (PhD) | [Read More](https://medium.com/p/48dd3439a3ea) |
-| Tue, 09 Sep 2025 02:32:27 GMT | [EN] Exploiting CCTV: RTSP Authentication Digest | Pagar Alam | [Read More](https://medium.com/p/971569d1f201) |
-| Tue, 09 Sep 2025 02:30:10 GMT | Patroni ETCD Installation Guide for WSL (Ubuntu 24.04) | Rio Wibowo | [Read More](https://medium.com/p/535c03bef63b) |
-| Tue, 09 Sep 2025 02:28:54 GMT | Merancang Arsitektur Aplikasi Vidlytics | Akbar Indra Saputra | [Read More](https://medium.com/p/d09fd2dc9b24) |
-| Tue, 09 Sep 2025 02:26:38 GMT | SQL for Bug Bounty Hunters 2.0 | Swetha | [Read More](https://medium.com/p/f7e136c0e5c9) |
-| Tue, 09 Sep 2025 02:25:12 GMT | Why Vulnerability Feels Dangerous But Is Still Our Superpower | Pearls | [Read More](https://medium.com/p/5f4faad669a6) |
-| Tue, 09 Sep 2025 01:58:38 GMT | Hack the Box: Dog HTB Lab Walkthrough Guide | Vedant Bhalerao | [Read More](https://medium.com/p/b603fb68204c) |
-| Tue, 09 Sep 2025 01:41:24 GMT | Scaling Smart Retail — One Leap, Hop, and Wingbeat at a Time | NEXCOM 新漢 | [Read More](https://medium.com/p/969aa94d927d) |
-| Tue, 09 Sep 2025 01:32:45 GMT | [Dia 02] Exploit CVE-2017–9805 Struts S2–052 — REST Plugin XStream RCE — Walkthrough | Luan Nutels - Volk | [Read More](https://medium.com/p/12bbfba1a526) |
-| Tue, 09 Sep 2025 01:31:40 GMT | Post-Quantum Kyber: Lock Down AI APIs Now | Thinking Loop | [Read More](https://medium.com/p/43e03dc734d0) |
-| Tue, 09 Sep 2025 01:26:09 GMT | Web Cache Poisoning via Fat GET Requests: Exploiting Cache Key Flaws | Bash Overflow | [Read More](https://medium.com/p/37e8d5030a2d) |
-| Tue, 09 Sep 2025 01:11:51 GMT | The Real Reasons Developed Countries Provide Health-Related Aid | Emily Li | [Read More](https://medium.com/p/dbd7ead9081c) |
-| Tue, 09 Sep 2025 01:09:05 GMT | Reliable Security Camera Repairs: Ensuring Continuous Protection | Osamamustafa | [Read More](https://medium.com/p/67527e0fb8e3) |
-| Tue, 09 Sep 2025 01:07:44 GMT | Hack the Day: Small Wins, Big Impact | Sam Galope | [Read More](https://medium.com/p/7c6fade5083b) |
-| Tue, 09 Sep 2025 01:07:14 GMT | Who Owns the Sky? The Fight to Keep Space Safe, Open, and Sustainable | Emily Li | [Read More](https://medium.com/p/0dc1c5fc0db8) |
-| Tue, 09 Sep 2025 00:53:03 GMT | Did You Know the Average Small Business Breach Costs Over $120,000? | DefendPoint Security | [Read More](https://medium.com/p/cf8f608aec07) |
-| Tue, 09 Sep 2025 00:49:24 GMT | S1ngularity: AI Meets Supply Chain Chaos in the Nx Breach | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/5b3297943aa0) |
