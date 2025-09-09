@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 19:24:53 GMT | The Last Call | O. J. Okpabi | [Read More](https://medium.com/p/395452f169ae) |
+| Tue, 09 Sep 2025 19:21:38 GMT | CRA vs. Existing Frameworks: ISO 27001, NIS2, and GDPR — Making Sense of the Compliance Puzzle | Cyberkech | [Read More](https://medium.com/p/ffb5f10738b4) |
 | Tue, 09 Sep 2025 19:14:13 GMT | The Linux Process Journey — arpd (Address Resolution Protocol Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bbe313dd3258) |
+| Tue, 09 Sep 2025 19:05:50 GMT | HTB Sherlock: Meerkat | Serkan | [Read More](https://medium.com/p/d1dc6bbd36a8) |
 | Tue, 09 Sep 2025 19:02:21 GMT | Today’s Top Cyber Intelligence Highlights — Sep 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c96501d819dc) |
 | Tue, 09 Sep 2025 18:56:22 GMT | Beneficial Ownership in Crypto Investigations: From Wallets to Real People | Jordan J. Solomon | [Read More](https://medium.com/p/1eaad9392330) |
 | Tue, 09 Sep 2025 18:55:47 GMT | CVE-2025–57833 - Django’da FilteredRelation Alias’ları Üzerinden Potansiyel SQL Injection | Yunus Olçar | [Read More](https://medium.com/p/dceb59a94069) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 14:09:54 GMT | Largest NPM Compromise in History: Supply Chain Attack | Dhanush N | [Read More](https://medium.com/p/908c343ca1a4) |
 | Tue, 09 Sep 2025 14:05:38 GMT | A Beginner’s Tutorial: K3s on Ubuntu 24.04 for Devs and Home Labs | Milaharris | [Read More](https://medium.com/p/8cbc68dd184c) |
 | Tue, 09 Sep 2025 14:02:56 GMT | What Are VASPs and How Crypto Investigators Use Them | Jordan J. Solomon | [Read More](https://medium.com/p/05246810bb66) |
-| Tue, 09 Sep 2025 14:02:37 GMT | Mastering Modern Red Teaming Infrastructure — Part 9: SilentMind-AI-C2—Automating… | Faris Faisal 0xFF | [Read More](https://medium.com/p/e5db56c1b239) |
-| Tue, 09 Sep 2025 14:01:55 GMT | Cyber Briefing: 2025.09.09 | CyberMaterial | [Read More](https://medium.com/p/d9758561e8bf) |
-| Tue, 09 Sep 2025 14:01:54 GMT | A Practical Guide to Play Integrity API: Everything You Need to Implement Attestation on Android | Kartik Agrawal | [Read More](https://medium.com/p/c010f0fc8f09) |
