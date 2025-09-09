@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 22:09:15 GMT | PG Practice — Wombo (Linux) | Lepton | [Read More](https://medium.com/p/b59c8549bfc2) |
+| Tue, 09 Sep 2025 22:01:30 GMT | npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack | ASAcrew Blog | [Read More](https://medium.com/p/5cbbad57b2b3) |
+| Tue, 09 Sep 2025 21:57:45 GMT | ChatControl: can Europe legitimize mass surveillance? | Hayat Outahar | [Read More](https://medium.com/p/d966780dea36) |
+| Tue, 09 Sep 2025 21:57:37 GMT | Attack Disruption: Enabled by Default, but Not Complete | Cyber Cav | [Read More](https://medium.com/p/39ee8de87eb8) |
+| Tue, 09 Sep 2025 21:31:47 GMT | From 12 Words to Infinite Wallets: How HD Wallets Power Crypto Security | Zakhar Deyneka | [Read More](https://medium.com/p/42117700dc56) |
 | Tue, 09 Sep 2025 21:28:36 GMT | The Future I See With Drosera Network | Airdrop_dave | [Read More](https://medium.com/p/c9b7727e643c) |
+| Tue, 09 Sep 2025 21:25:25 GMT | The Largest npm Supply Chain Attack: Inside the Debug & Chalk Malicious Injection — An In-depth… | ViraSecurity | [Read More](https://medium.com/p/7d4b061ac2aa) |
 | Tue, 09 Sep 2025 21:23:35 GMT | From Monoliths to Microservices: Tracing the Evolution of Backend Software Development | Emmanuel Bentil | [Read More](https://medium.com/p/ea6be393c765) |
 | Tue, 09 Sep 2025 21:22:32 GMT | My eWPTXv3 Exam Review | Qais Hammad | [Read More](https://medium.com/p/098ee2a5223c) |
 | Tue, 09 Sep 2025 21:22:19 GMT | From Hardcoded Couchbase Passwords to Auto-Rotating Credentials in Node.js | Raymon Epping | [Read More](https://medium.com/p/dcf75eddc1d8) |
@@ -31,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 20:33:17 GMT | Security on Your PostgreSQL Setup: The Basics I Learned | Jose Luis Campos Bautista | [Read More](https://medium.com/p/c3d54e7054bd) |
 | Tue, 09 Sep 2025 20:31:17 GMT | 3 Ways You’re Sabotaging Your Own Security Program Without Even Knowing It | Matt Snyder | [Read More](https://medium.com/p/b2d8adcd86d2) |
 | Tue, 09 Sep 2025 20:28:28 GMT | Statik və Dinamik E-poçt Analizi | Zulaya Mahmudova | [Read More](https://medium.com/p/02cc35ffa67f) |
+| Tue, 09 Sep 2025 20:25:48 GMT | ASCWG 2025 CTF Finals — Neon Maze Challenge Writeup | Nour El Dien Bassiouny | [Read More](https://medium.com/p/7cf426672a58) |
 | Tue, 09 Sep 2025 20:18:29 GMT | Kritik Ağ Portları: Siber Güvenlik Açısından Bilmeniz Gereken 25 Port | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/90bc71be6903) |
 | Tue, 09 Sep 2025 20:16:15 GMT | PoC: Unauthenticated Remote Code Execution in SSH (Erlang/OTP) | Toshith | [Read More](https://medium.com/p/8e41c4b453eb) |
 | Tue, 09 Sep 2025 20:16:11 GMT | 7 Best Practices to Prevent Vulnerabilities When You Upload Files on a Website | Idera Dev Tools | [Read More](https://medium.com/p/4814793ab077) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 16:13:45 GMT | Navigating Data Privacy and Security in the Age of Generative AI | Nathan Waterman | [Read More](https://medium.com/p/2e7fc9356405) |
 | Tue, 09 Sep 2025 16:11:24 GMT | The Terrifying Takeaways from the Massive OAuth Breach | Patrick Walsh | [Read More](https://medium.com/p/52db3203ac35) |
 | Tue, 09 Sep 2025 16:08:19 GMT | “Dear Diary” challenge | oussama | [Read More](https://medium.com/p/b399803a4e04) |
-| Tue, 09 Sep 2025 16:07:39 GMT | Microsoft’s NLWeb Flaw Exposes the Security Risks of the Agentic Web | Yusuf Asan | [Read More](https://medium.com/p/9c0140b239e6) |
-| Tue, 09 Sep 2025 16:06:35 GMT | ARTIFICIAL — HTB | H3XH7WK | [Read More](https://medium.com/p/9946913d6cb1) |
-| Tue, 09 Sep 2025 16:05:40 GMT | Demystifying Cybersecurity with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/22bf7b36bbe1) |
-| Tue, 09 Sep 2025 16:04:23 GMT | Large-Scale npm Supply Chain Attack Targets Crypto Ecosystem but Fails to Cause Major Damage | RealSec.io | [Read More](https://medium.com/p/f43001470e9a) |
-| Tue, 09 Sep 2025 15:59:44 GMT | OpenAI is Building a LinkedIn Killer: What This Means for Your Career in 2026 | Tech With Curly Girl | [Read More](https://medium.com/p/5b6a55df8958) |
-| Tue, 09 Sep 2025 15:55:25 GMT | Document Security: 6 Risks of Using Shared Drives and How to Avoid Them | PERICENT | [Read More](https://medium.com/p/ca2064df59d6) |
-| Tue, 09 Sep 2025 15:51:12 GMT | The Bug Bounty Hunter Begins | Agentic Monarch | [Read More](https://medium.com/p/916ea2eb3f4a) |
