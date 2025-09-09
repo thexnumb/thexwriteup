@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 18:16:01 GMT | Debugging Nightmares: How I Solved My First Real Bug | UXVerse — ◦ | [Read More](https://medium.com/p/8b751abe9191) |
+| Tue, 09 Sep 2025 18:15:58 GMT | Understanding NoSQL Injection: Exploit Techniques, Examples, and a picoCTF Challenge Walkthrough | Mohamedd Jasim Z | [Read More](https://medium.com/p/1d99dba79a58) |
+| Tue, 09 Sep 2025 18:13:04 GMT | Ethical Hacking Courses for Beginners — Start Your Cybersecurity Career with Cyberyaan | Nitin Singh | [Read More](https://medium.com/p/717cd8a464be) |
+| Tue, 09 Sep 2025 18:07:18 GMT | Week 1- The journey begins… | Anwar Nagi | [Read More](https://medium.com/p/b90f713523fd) |
+| Tue, 09 Sep 2025 18:07:14 GMT | Understanding Emanation Security: How to Protect Against Invisible Threats | Raviteja Mureboina | [Read More](https://medium.com/p/f33e965705ea) |
+| Tue, 09 Sep 2025 18:01:42 GMT | Nuevo Video Bug Bounty: Hackeando Reddit Sin Filtros | Gorka | [Read More](https://medium.com/p/df82b7338145) |
+| Tue, 09 Sep 2025 18:00:57 GMT | PBICT and Net Campus Forge Strategic Partnership to Advance ICT Skills and Inclusion | Luvo Grey | [Read More](https://medium.com/p/cc062ee06036) |
+| Tue, 09 Sep 2025 17:52:30 GMT | AI and the Future of Global Infrastructure Defense : Rethinking Physical Security in a… | Leon Tyron | [Read More](https://medium.com/p/7843bd72a1d9) |
+| Tue, 09 Sep 2025 17:50:17 GMT | What Makes IoT Devices So Vulnerable to Attacks? | Vinod Kumar Gorrepati | [Read More](https://medium.com/p/9fb90e64f04b) |
+| Tue, 09 Sep 2025 17:49:41 GMT | Attackers Hijack CrushFTP Admin Accounts Using Zero-Day Vulnerability | Aj | [Read More](https://medium.com/p/5170bb4718b2) |
+| Tue, 09 Sep 2025 17:48:13 GMT | Central: The Core Infrastructure of Neowellth | Tolu Adewole | [Read More](https://medium.com/p/045b521423b6) |
+| Tue, 09 Sep 2025 17:43:20 GMT | CVE-2025–24404: XML Injection in Apache HertzBeat Opens Door to Remote Code Execution | gm0 | [Read More](https://medium.com/p/f760eb10d690) |
+| Tue, 09 Sep 2025 17:36:32 GMT | Ethical Hacking Course After 12th — Kickstart Your Cybersecurity Career with Cyberyaan | Nitin Singh | [Read More](https://medium.com/p/c2c454ee8d00) |
+| Tue, 09 Sep 2025 17:36:22 GMT | Office 365 DLP: Safeguarding Sensitive Data in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/62ee2c40f3f3) |
+| Tue, 09 Sep 2025 17:36:06 GMT | Demystifying Data Privacy Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/8a156eac268b) |
 | Tue, 09 Sep 2025 17:30:55 GMT | Secure by Default: Practical Web App Security Checklist | Tera Byte 26 | [Read More](https://medium.com/p/edcf8f77b86c) |
 | Tue, 09 Sep 2025 17:29:57 GMT | SOC Support Consulting: Strengthening Cybersecurity with Expert Guidance | SafeAeon Inc. | [Read More](https://medium.com/p/a97a6b66aef9) |
 | Tue, 09 Sep 2025 17:22:48 GMT | Zoom and Beyond: Eight Vulnerabilities That Redefine Enterprise Risk | gm0 | [Read More](https://medium.com/p/1eca88240f3a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 13:26:12 GMT | Apache HTTP Server 2.4.49/2.4.50 - CVE-2021–42013 | Özcan Ersan | [Read More](https://medium.com/p/73da98c07c6a) |
 | Tue, 09 Sep 2025 13:25:10 GMT | Architecting the Future: Building an Enterprise-Grade A/B Testing Platform with Cloudflare Workers | Srinivasa Tadipatri | [Read More](https://medium.com/p/1f6124f83b05) |
 | Tue, 09 Sep 2025 13:20:24 GMT | The Impact of AI on Jobs in 2025: Sector-Wise Insights | Awais Butt | [Read More](https://medium.com/p/d93676f26cea) |
-| Tue, 09 Sep 2025 13:19:50 GMT | Black Hat USA 2025 in the Age of AI (Part 2) | VXRL | [Read More](https://medium.com/p/92014992d311) |
-| Tue, 09 Sep 2025 13:16:54 GMT | Kybernetická bezpečnost a AI: Co je prompt injection a je vaše AI v bezpečí? | Cyber Solution | [Read More](https://medium.com/p/615eec4ecb61) |
-| Tue, 09 Sep 2025 13:12:09 GMT | The UK’s Ransomware Reality: Why Security Needs to Catch Up with Innovation | WayneReidUK | [Read More](https://medium.com/p/d39c677dc8c0) |
-| Tue, 09 Sep 2025 13:11:50 GMT | Track A Stolen Car - Tips - Recover - Hire Hacker | BlackHat | [Read More](https://medium.com/p/8470e9060cd0) |
-| Tue, 09 Sep 2025 13:11:39 GMT | DNS Exfiltration Explained | Keir Finlow-Bates | [Read More](https://medium.com/p/3e5eed50887e) |
-| Tue, 09 Sep 2025 13:11:38 GMT | Ransomware Analysis: Anatomy of a Threat ️‍♂️ | Esra Kayhan | [Read More](https://medium.com/p/9abb380fd5be) |
-| Tue, 09 Sep 2025 13:04:31 GMT | Fordefi Security Statement on the NPM supply-chain attack | Trey Archambeau | [Read More](https://medium.com/p/72f56cf26608) |
-| Tue, 09 Sep 2025 13:01:47 GMT | Amazon Users: If Your Password Is on This Site, You’re at Risk | Fortress Protocol | [Read More](https://medium.com/p/4baafb3c3aec) |
-| Tue, 09 Sep 2025 13:01:47 GMT | Day 19:- Frontend, Backend & Databases Simplified! | Prutha_Dongre | [Read More](https://medium.com/p/b020b2a53785) |
-| Tue, 09 Sep 2025 12:59:09 GMT | Why Backing Up Your Digital Life Is So Important? | Senior Tech Basics | [Read More](https://medium.com/p/b7363cc288dd) |
-| Tue, 09 Sep 2025 12:54:19 GMT | Best Ethical Hacking and Cyber Security Certifications in India (2025 Guide) | Reshmadotin | [Read More](https://medium.com/p/700016d0a2d9) |
-| Tue, 09 Sep 2025 12:53:55 GMT | Pivoting and Tunneling with Ligolo-ng (Quick Walkthrough CRTP Lab) | Kareem Mostafa | [Read More](https://medium.com/p/39e465d13dc5) |
-| Tue, 09 Sep 2025 12:53:01 GMT | Knowing the COBIT Framework for Successful IT Governance | Cyber Cops | [Read More](https://medium.com/p/f1635a219322) |
-| Tue, 09 Sep 2025 12:50:22 GMT | Power BI Service’de RLS Kullanıcı Atama (Security) | Nida | [Read More](https://medium.com/p/38ff73751f89) |
-| Tue, 09 Sep 2025 12:47:41 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | حاجی طباطبای | [Read More](https://medium.com/p/86a196c1abc2) |
