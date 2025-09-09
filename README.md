@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 06:26:20 GMT | Why Understanding Attackers is the Best Defense Strategy | Aj | [Read More](https://medium.com/p/6868736d5f40) |
+| Tue, 09 Sep 2025 06:25:38 GMT | SPARK Matrix™: DDoS Mitigation Solutions Innovation, Differentiation, and Vendor Positioning | Gargiben | [Read More](https://medium.com/p/9f76a7ac1af0) |
+| Tue, 09 Sep 2025 06:25:32 GMT | Ethical Hacking Course in Calicut — Secure Your Future | Muhammedafnan | [Read More](https://medium.com/p/85478b918c88) |
+| Tue, 09 Sep 2025 06:22:00 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/116b86ffd2fb) |
+| Tue, 09 Sep 2025 06:21:32 GMT | Driving Retail & E-Commerce Growth with Expert IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/33272f4c702c) |
+| Tue, 09 Sep 2025 06:14:05 GMT | Scan Less, Find More: DNS Deduplication for Large Scopes | 2s1one | [Read More](https://medium.com/p/efbe1cdf57e9) |
+| Tue, 09 Sep 2025 06:12:42 GMT | Why Choosing the Best Managed IT Services in India Saves Cost and Time | Juarait Digital | [Read More](https://medium.com/p/fb6e426972b7) |
+| Tue, 09 Sep 2025 06:07:16 GMT | The npm Mega-Hack: 18 Popular Packages Poisoned — What Happened, What Broke, and What You Should… | Aaron | [Read More](https://medium.com/p/852486e78f06) |
+| Tue, 09 Sep 2025 05:55:12 GMT | Beyond Sandboxes: Layered Security for AI Agent Infrastructure | Dave Patten | [Read More](https://medium.com/p/e9d25c8235c8) |
+| Tue, 09 Sep 2025 05:54:28 GMT | Cybersecurity in the UAE: Top Threats Businesses Face in 2025 | Reghu Mohandas | [Read More](https://medium.com/p/5ddf805e4249) |
+| Tue, 09 Sep 2025 05:49:15 GMT | KillSec: From Hacktivism to RaaS — My Perspective on an Alarming Evolution | Siddhant Mishra | [Read More](https://medium.com/p/dc3425622633) |
+| Tue, 09 Sep 2025 05:48:11 GMT | Mobile Market Report 2025: What’s Changing in the Global Market | Maya Thompson | [Read More](https://medium.com/p/d6e74be30353) |
+| Tue, 09 Sep 2025 05:45:56 GMT | Email Security Automation: Malicious URL Detection | H3NRY B41T | [Read More](https://medium.com/p/0c275a6d9fec) |
+| Tue, 09 Sep 2025 05:42:59 GMT | Reflected XSS Vulnerability Bypassing Amazon CloudFront via Safari Browser | Krishna Kumar | [Read More](https://medium.com/p/5416b5b64be2) |
 | Tue, 09 Sep 2025 05:30:28 GMT | Mobile Market Report 2025: Complete Guide to Market Shifts | Sophia Bennett | [Read More](https://medium.com/p/93bb8d60072a) |
 | Tue, 09 Sep 2025 05:26:30 GMT | Why You Should Not Use $db->quote() with sprintf() in PostgreSQL (PDO) | nowheretohide | [Read More](https://medium.com/p/c5fe9902cba2) |
 | Tue, 09 Sep 2025 05:25:43 GMT | Enterprise Risk Management: Guide to Risk and Resilience | Samyukta Roy | [Read More](https://medium.com/p/a7c1d12ee322) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 22:41:43 GMT | How to add new users to Active Directory | Ryanchanest | [Read More](https://medium.com/p/bb7d7ff613c7) |
 | Mon, 08 Sep 2025 22:34:38 GMT | Intel101 Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/2e09a0da5701) |
 | Mon, 08 Sep 2025 22:30:52 GMT | Cybersecurity Basics Everyone Should Know in 2025 | AbdelAziz Mahmud | [Read More](https://medium.com/p/8892d472d3f1) |
-| Mon, 08 Sep 2025 22:29:22 GMT | 5 VPNs You Shouldn’t Trust (and How to Spot the Red Flags) | BiyteLüm | [Read More](https://medium.com/p/2bbb45a513ea) |
-| Mon, 08 Sep 2025 22:24:57 GMT | Detecting NPM Malicious Packages in Your Local Repositories / App with Ripgrep & What To Do Upon… | Lewiswambugu | [Read More](https://medium.com/p/804f12791972) |
-| Mon, 08 Sep 2025 22:24:54 GMT | The skill of human interaction | Kattreeina | [Read More](https://medium.com/p/4f0beaa6ef54) |
-| Mon, 08 Sep 2025 22:23:55 GMT | Hijacking Windows Processes: A Step-By-Step Guide | Itz.sanskarr | [Read More](https://medium.com/p/4a1d3e234da4) |
-| Mon, 08 Sep 2025 22:19:30 GMT | Is Your Website or Network Really Secure? | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/b5d0e49a18da) |
-| Mon, 08 Sep 2025 22:18:15 GMT | LockBit 3.0 (“LockBit Black”) APT High Level Profile | gm0 | [Read More](https://medium.com/p/9952b4617c1b) |
-| Mon, 08 Sep 2025 22:15:32 GMT | Breaking into Active Directory: A Step-by-Step Penetration Test Walkthrough | prince singh | [Read More](https://medium.com/p/429ac9ef89ee) |
-| Mon, 08 Sep 2025 22:15:25 GMT | EtwEventWrite Abuser | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f653c79005da) |
-| Mon, 08 Sep 2025 22:00:41 GMT | HTTP Smuggler: Demystifying HTTP Request Smuggling | ekomsSavior | [Read More](https://medium.com/p/7daf32e89047) |
-| Mon, 08 Sep 2025 21:52:32 GMT | From Zero to Domain Admin: How Misconfigured Trusts Still Wreck Enterprises | Yua Mikanana | [Read More](https://medium.com/p/c682e8721d90) |
-| Mon, 08 Sep 2025 21:50:45 GMT | When We Stop Running From Pain, Life Opens Up | Judy Hansen | [Read More](https://medium.com/p/918b857c9529) |
-| Mon, 08 Sep 2025 21:35:07 GMT | TryHackMe - Content Security Policy - WriteUp | Axoloth | [Read More](https://medium.com/p/fcaf0e409fc0) |
-| Mon, 08 Sep 2025 21:29:16 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/c2af8587fdd7) |
-| Mon, 08 Sep 2025 21:27:23 GMT | Don’t Miss the Ground Floor: | Jocephus | [Read More](https://medium.com/p/dbd1912455cb) |
