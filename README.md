@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 16:43:26 GMT | Why Cyber Strategy Matters Today: Key Issues Explained | Karl-Heinrich zu Schwarzenberg | [Read More](https://medium.com/p/dc988a81d137) |
+| Tue, 09 Sep 2025 16:34:51 GMT | Cybersecurity Tools — Selecting, Running Complex PoCs on, and Implementing | Prabhat K. Andleigh | [Read More](https://medium.com/p/5a56e198127a) |
+| Tue, 09 Sep 2025 16:32:19 GMT | Supply Chain Attack: How to Detect and Fix Compromised npm Packages (Step-by-Step Guide) | Eric Álvarez Chinchilla | [Read More](https://medium.com/p/bdd7b66ad905) |
 | Tue, 09 Sep 2025 16:22:30 GMT | Skipping from Pre-Seed to Series A with Dreadnode | Bryce Roberts | [Read More](https://medium.com/p/6fa30ab71c9e) |
+| Tue, 09 Sep 2025 16:21:02 GMT | HTB Vintage Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/c39008aa3e16) |
+| Tue, 09 Sep 2025 16:20:57 GMT | Basic Pentesting - THM | Peta Pavan | [Read More](https://medium.com/p/62daabc645d4) |
 | Tue, 09 Sep 2025 16:19:10 GMT | PG Practice — Bratarina (Linux) | Lepton | [Read More](https://medium.com/p/2e5349be2677) |
 | Tue, 09 Sep 2025 16:13:45 GMT | Navigating Data Privacy and Security in the Age of Generative AI | Nathan Waterman | [Read More](https://medium.com/p/2e7fc9356405) |
 | Tue, 09 Sep 2025 16:11:24 GMT | The Terrifying Takeaways from the Massive OAuth Breach | Patrick Walsh | [Read More](https://medium.com/p/52db3203ac35) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 11:47:44 GMT | ️ OWASP Top 10: Practical Examples for Web Security | Esra Kayhan | [Read More](https://medium.com/p/b9a2ce4d087a) |
 | Tue, 09 Sep 2025 11:45:27 GMT | Why Penetration Testing Isn’t Just About Finding Flaws | Aj | [Read More](https://medium.com/p/7fe1c3e8de27) |
 | Tue, 09 Sep 2025 11:45:09 GMT | Hack The Box : Grafana | r03n | [Read More](https://medium.com/p/cf05e0bf7177) |
-| Tue, 09 Sep 2025 11:42:28 GMT | Beating the Heart of Modern Crypto Asset Flows with .NET Core | yiğit çevik | [Read More](https://medium.com/p/6468b3715170) |
-| Tue, 09 Sep 2025 11:37:14 GMT | Tenant-to-Tenant Migration for Business Restructuring & Spin-Offs | Arun Jyothi | [Read More](https://medium.com/p/83fbc5def368) |
-| Tue, 09 Sep 2025 11:37:07 GMT | External Secrets in n8n: A Complete Guide to Secure Credential Management | Sathish Thiyagarajan | [Read More](https://medium.com/p/bba3b59b0994) |
-| Tue, 09 Sep 2025 11:36:48 GMT | Best Integrated Lease Management Software in India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/5d7ad24f0de3) |
-| Tue, 09 Sep 2025 11:31:20 GMT | A Moonshot for Reversing the Ecological Crises — Phase 3 | Erik Kvam | [Read More](https://medium.com/p/90179cec17ee) |
