@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 21:14:12 GMT | Kioptrix _l Writeup — Apache mod_ssl Exploitation (OpenFuckV2) | Mahmoudelshorpagy | [Read More](https://medium.com/p/ce5efcb893dd) |
+| Tue, 09 Sep 2025 21:11:39 GMT | A Guide to Passwordless Login with Flutter Passkey Service | Tri Dev Dhm | [Read More](https://medium.com/p/b9b0cbd3e4d3) |
+| Tue, 09 Sep 2025 21:07:42 GMT | Beyond the Grind: The Cybersecurity Learning Hack That’s Not What You Think | Mister_dump | [Read More](https://medium.com/p/3a0254b0023f) |
+| Tue, 09 Sep 2025 20:56:23 GMT | The Supply Chain Security Crisis: How 2025 Became the Year of Platform Compromises | Michael Rico | [Read More](https://medium.com/p/7dede5cad25e) |
+| Tue, 09 Sep 2025 20:52:42 GMT | زنجان گیلان مرودشت | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/265132d7af94) |
+| Tue, 09 Sep 2025 20:44:09 GMT | تهران رشت | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/7109ae3f533d) |
+| Tue, 09 Sep 2025 20:42:41 GMT | 09381554690 | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/31e435a6c737) |
+| Tue, 09 Sep 2025 20:41:21 GMT | Vulnversity CTF — TryHackMe Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/15965c55dc8d) |
+| Tue, 09 Sep 2025 20:33:17 GMT | Security on Your PostgreSQL Setup: The Basics I Learned | Jose Luis Campos Bautista | [Read More](https://medium.com/p/c3d54e7054bd) |
+| Tue, 09 Sep 2025 20:31:17 GMT | 3 Ways You’re Sabotaging Your Own Security Program Without Even Knowing It | Matt Snyder | [Read More](https://medium.com/p/b2d8adcd86d2) |
 | Tue, 09 Sep 2025 20:28:28 GMT | Statik və Dinamik E-poçt Analizi | Zulaya Mahmudova | [Read More](https://medium.com/p/02cc35ffa67f) |
 | Tue, 09 Sep 2025 20:18:29 GMT | Kritik Ağ Portları: Siber Güvenlik Açısından Bilmeniz Gereken 25 Port | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/90bc71be6903) |
 | Tue, 09 Sep 2025 20:16:15 GMT | PoC: Unauthenticated Remote Code Execution in SSH (Erlang/OTP) | Toshith | [Read More](https://medium.com/p/8e41c4b453eb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 15:32:29 GMT | Bunni, Numa, Woo X: $22.7M Lost to Rounding Bugs, Forced Liquidations, and Malware | Olympix | [Read More](https://medium.com/p/cccc560e2a91) |
 | Tue, 09 Sep 2025 15:30:54 GMT | In today’s digital world, relying on a single simple password – or worse, reusing the same one… | Cordula Boeck | [Read More](https://medium.com/p/cf0ee22d7470) |
 | Tue, 09 Sep 2025 15:30:41 GMT | NanoCherryCTF Write-ups TryHackme: | MouhibMahadbi | [Read More](https://medium.com/p/ae4123bc936e) |
-| Tue, 09 Sep 2025 15:16:21 GMT | 5 ways hackers erase their footprints | Khushi Garg | [Read More](https://medium.com/p/64036dede2a8) |
-| Tue, 09 Sep 2025 15:15:17 GMT | “That One Time I Found a Golden Ticket in a Desktop App” | Aman Sharma | [Read More](https://medium.com/p/8db725c10338) |
-| Tue, 09 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c7dbd44f0e1c) |
-| Tue, 09 Sep 2025 15:12:35 GMT | NIH wasn’t the sin. Outsourcing every keystroke was. | OKcontract | [Read More](https://medium.com/p/e3fa901fdf3b) |
-| Tue, 09 Sep 2025 15:03:36 GMT | How AI is Helping Unmask the Insider Threat | Berend Watchus | [Read More](https://medium.com/p/bbe646c038ef) |
-| Tue, 09 Sep 2025 15:01:16 GMT | Ethical Hacking: Safeguarding Systems in a Digital World | Nyra | [Read More](https://medium.com/p/5e75b7ccea4e) |
-| Tue, 09 Sep 2025 14:57:39 GMT | SentryPC Parental Monitoring: Safeguarding Online Security for Kids in a Connected World | Paul Meyer | [Read More](https://medium.com/p/008beeca48af) |
-| Tue, 09 Sep 2025 14:53:32 GMT | The NPM Hack: A Wake-Up Call for Crypto Privacy and Security | SilentSwap | [Read More](https://medium.com/p/0786d9186b0d) |
-| Tue, 09 Sep 2025 14:50:33 GMT | Ethical Hacking 101: Finding Usernames in Active Directory | SilentExploit | [Read More](https://medium.com/p/7266926f2832) |
-| Tue, 09 Sep 2025 14:43:27 GMT | I Watched My Own Accounts Disappear. | Shahzaib | [Read More](https://medium.com/p/7a0198cb35ed) |
