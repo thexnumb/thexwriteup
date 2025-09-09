@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 20:28:28 GMT | Statik və Dinamik E-poçt Analizi | Zulaya Mahmudova | [Read More](https://medium.com/p/02cc35ffa67f) |
 | Tue, 09 Sep 2025 20:18:29 GMT | Kritik Ağ Portları: Siber Güvenlik Açısından Bilmeniz Gereken 25 Port | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/90bc71be6903) |
 | Tue, 09 Sep 2025 20:16:15 GMT | PoC: Unauthenticated Remote Code Execution in SSH (Erlang/OTP) | Toshith | [Read More](https://medium.com/p/8e41c4b453eb) |
 | Tue, 09 Sep 2025 20:16:11 GMT | 7 Best Practices to Prevent Vulnerabilities When You Upload Files on a Website | Idera Dev Tools | [Read More](https://medium.com/p/4814793ab077) |
@@ -92,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 16:04:23 GMT | Large-Scale npm Supply Chain Attack Targets Crypto Ecosystem but Fails to Cause Major Damage | RealSec.io | [Read More](https://medium.com/p/f43001470e9a) |
 | Tue, 09 Sep 2025 15:59:44 GMT | OpenAI is Building a LinkedIn Killer: What This Means for Your Career in 2026 | Tech With Curly Girl | [Read More](https://medium.com/p/5b6a55df8958) |
 | Tue, 09 Sep 2025 15:55:25 GMT | Document Security: 6 Risks of Using Shared Drives and How to Avoid Them | PERICENT | [Read More](https://medium.com/p/ca2064df59d6) |
+| Tue, 09 Sep 2025 15:51:12 GMT | The Bug Bounty Hunter Begins | Agentic Monarch | [Read More](https://medium.com/p/916ea2eb3f4a) |
 | Tue, 09 Sep 2025 15:44:02 GMT | Announcing My Next Challenge: A 200-Day Cybersecurity Series | Aj | [Read More](https://medium.com/p/dc95cefb6c53) |
 | Tue, 09 Sep 2025 15:40:59 GMT | EMBER2024: A New Benchmark for Holistic Malware Classification | Chris Zhang | [Read More](https://medium.com/p/62dcb260b47a) |
 | Tue, 09 Sep 2025 15:35:52 GMT | Cyber Attack on City of St. Paul Leads to Shutdown | Julio Arredondo | [Read More](https://medium.com/p/93db6757f5d0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 14:53:32 GMT | The NPM Hack: A Wake-Up Call for Crypto Privacy and Security | SilentSwap | [Read More](https://medium.com/p/0786d9186b0d) |
 | Tue, 09 Sep 2025 14:50:33 GMT | Ethical Hacking 101: Finding Usernames in Active Directory | SilentExploit | [Read More](https://medium.com/p/7266926f2832) |
 | Tue, 09 Sep 2025 14:43:27 GMT | I Watched My Own Accounts Disappear. | Shahzaib | [Read More](https://medium.com/p/7a0198cb35ed) |
-| Tue, 09 Sep 2025 14:39:00 GMT | Cracking the Code: Hashing Basics on TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/9816bdceaec8) |
-| Tue, 09 Sep 2025 14:33:55 GMT | Don’t Let Your Identity Be a Security Risk: An Introduction to IPSIE | Kunal Sinha | [Read More](https://medium.com/p/5a8bbced99bd) |
