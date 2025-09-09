@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 07:12:19 GMT | The Daily Tech Digest: 09 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/64e8fa245961) |
+| Tue, 09 Sep 2025 07:11:04 GMT | Best Beginner-Friendly WAF in 2025: Why SafeLine Outperforms Regex-Based Firewalls | Quella | [Read More](https://medium.com/p/f62db54699ec) |
+| Tue, 09 Sep 2025 07:10:20 GMT | The Information Crisis | Roland Waller | [Read More](https://medium.com/p/79314683c219) |
+| Tue, 09 Sep 2025 07:02:28 GMT | Product Security Engineering — A tiny guide to know what’s actually done | Naveen Kumar | [Read More](https://medium.com/p/93d7878f3dc6) |
+| Tue, 09 Sep 2025 06:59:48 GMT | Console Chronicles: How Browser DevTools Unlocked a $XXXX Bounty | Iski | [Read More](https://medium.com/p/2536fe09615d) |
+| Tue, 09 Sep 2025 06:59:47 GMT | Easy DNS over TLS (DoT) Setup for pfSense: A Step-by-Step Privacy Guide | Uphar | [Read More](https://medium.com/p/5b4b251c16b8) |
+| Tue, 09 Sep 2025 06:58:12 GMT | ️ Day 2 — AWS Compute | Suyash Jain | [Read More](https://medium.com/p/9549d2c39f79) |
+| Tue, 09 Sep 2025 06:52:00 GMT | npm Supply Chain Attack: chalk, debug, and 16 More Packages Compromised | Suhailnkhan | [Read More](https://medium.com/p/e3fcac1bdcdb) |
+| Tue, 09 Sep 2025 06:49:57 GMT | Wisdom of the crowd | Martin Abramov | [Read More](https://medium.com/p/b2d953f42ed0) |
+| Tue, 09 Sep 2025 06:43:00 GMT | Top 10 Ethical Hackers in India | Manisha Chaudhary | [Read More](https://medium.com/p/b17cac6c1364) |
+| Tue, 09 Sep 2025 06:42:49 GMT | SafeLine: Open-Source Security Scanning Built for Developers | Quella | [Read More](https://medium.com/p/70d51929c043) |
+| Tue, 09 Sep 2025 06:38:27 GMT | ประจำวันอังคารที่ 9 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c631c94ef614) |
+| Tue, 09 Sep 2025 06:38:21 GMT | Post-Quantum Cryptography: Readiness Checklist for 2026 | Gsinfotechvis Pvt Ltd | [Read More](https://medium.com/p/8a3cb46e9e45) |
+| Tue, 09 Sep 2025 06:38:06 GMT | Best Reliable Cloud Managed Services Providers In India - Net Access India Limited | Gowthammathiew | [Read More](https://medium.com/p/82f925b71c4d) |
+| Tue, 09 Sep 2025 06:36:57 GMT | How a Failed Payment on a Train Platform Earned Me $400 | Hackergod00001 | [Read More](https://medium.com/p/23241d204550) |
+| Tue, 09 Sep 2025 06:34:44 GMT | Cybersecurity in Banking Sector: Why Financial Institutions Are Prime Targets | Qualysec | [Read More](https://medium.com/p/9b74a2fef8f6) |
+| Tue, 09 Sep 2025 06:34:22 GMT | VPNs Explained Clearly for Everyday Internet Users | Prathik Mohan | [Read More](https://medium.com/p/8a77549d7e2f) |
+| Tue, 09 Sep 2025 06:27:40 GMT | ZeroTier and the Revolution of Peer-to-Peer Networking | Niamh O'Shea | [Read More](https://medium.com/p/3c62860a7e99) |
 | Tue, 09 Sep 2025 06:26:20 GMT | Why Understanding Attackers is the Best Defense Strategy | Aj | [Read More](https://medium.com/p/6868736d5f40) |
 | Tue, 09 Sep 2025 06:25:38 GMT | SPARK Matrix™: DDoS Mitigation Solutions Innovation, Differentiation, and Vendor Positioning | Gargiben | [Read More](https://medium.com/p/9f76a7ac1af0) |
 | Tue, 09 Sep 2025 06:25:32 GMT | Ethical Hacking Course in Calicut — Secure Your Future | Muhammedafnan | [Read More](https://medium.com/p/85478b918c88) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 00:34:38 GMT | Why Modern Relationships Feel Hard for Men and Women | Amanpreet Wadhwa | [Read More](https://medium.com/p/213526c7e65e) |
 | Tue, 09 Sep 2025 00:30:05 GMT | When People Hear “Risk,” They Panic | Teleisha Deslandes | [Read More](https://medium.com/p/fe06bb35a442) |
 | Tue, 09 Sep 2025 00:19:04 GMT | Demystifying Cryptography for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/effa492cda02) |
-| Tue, 09 Sep 2025 00:18:22 GMT | Deep Dive: The 2025 npm Supply Chain Attack — Technical Analysis and Lessons Learned | Rahaliashraf | [Read More](https://medium.com/p/edeaffc2a4ff) |
-| Tue, 09 Sep 2025 00:14:52 GMT | Casual Hackathon 5th Edition: My First DApp Recap | LXDAO | [Read More](https://medium.com/p/ee92aab85381) |
-| Tue, 09 Sep 2025 00:11:06 GMT | Demystifying Cryptography and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/417ccc93dd77) |
-| Tue, 09 Sep 2025 00:06:03 GMT | How to Stop Wasting Hours on Silent Bugs: Debugging Strategies That Actually Work | Sumit Shaw | [Read More](https://medium.com/p/9aa3ece04e9b) |
-| Tue, 09 Sep 2025 00:01:43 GMT | Dirsearch: Descubre Directorios y Archivos Ocultos como un Profesional del Bug Bounty | JPablo13 | [Read More](https://medium.com/p/75a0c556519a) |
-| Mon, 08 Sep 2025 23:57:39 GMT | 44 Malware Files Evade Every Antivirus — Using Just Pictures | Cyber-AppSec | [Read More](https://medium.com/p/4cf9c0b56329) |
-| Mon, 08 Sep 2025 23:38:59 GMT | The Technology That Powers VOXCompanies® | VOXCompanies | [Read More](https://medium.com/p/a3db4bc6753f) |
-| Mon, 08 Sep 2025 23:20:30 GMT | Include writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/49cddc431ab2) |
-| Mon, 08 Sep 2025 23:12:25 GMT | Environmental Security in Cyber Defense: What Every IT Pro Should Know | Kyrillos Kamal | [Read More](https://medium.com/p/3a91dd3451cb) |
-| Mon, 08 Sep 2025 23:05:46 GMT | Standar Kompetensi Developer Indonesia: Mengapa SKKNI 2016 Tidak Lagi Relevan untuk Industri Modern | Adha Wiyana | [Read More](https://medium.com/p/de3189ae3322) |
-| Mon, 08 Sep 2025 22:52:04 GMT | Bluetooth Hacking | Hasanzade Hasan | [Read More](https://medium.com/p/6fa7dbf6e14e) |
-| Mon, 08 Sep 2025 22:48:15 GMT | *Packet Meditation: A Polyglot Pipeline for Network Introspection* | K.E.B | [Read More](https://medium.com/p/95eff6a6c17e) |
-| Mon, 08 Sep 2025 22:47:45 GMT | The Endpoint Paradox: Hardware, OPSEC, and the Future of Surveillance | Jonathan Brown | [Read More](https://medium.com/p/c265044788e4) |
-| Mon, 08 Sep 2025 22:46:59 GMT | Security Alert: Massive Supply Chain Attack on npm ⚠️ | Mike (sl0th0x87) | [Read More](https://medium.com/p/a06dbfb15007) |
-| Mon, 08 Sep 2025 22:42:33 GMT | Designing Tech for Humans | Matthew.Rosenquist | [Read More](https://medium.com/p/faa5e972ed86) |
-| Mon, 08 Sep 2025 22:41:43 GMT | How to add new users to Active Directory | Ryanchanest | [Read More](https://medium.com/p/bb7d7ff613c7) |
-| Mon, 08 Sep 2025 22:34:38 GMT | Intel101 Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/2e09a0da5701) |
-| Mon, 08 Sep 2025 22:30:52 GMT | Cybersecurity Basics Everyone Should Know in 2025 | AbdelAziz Mahmud | [Read More](https://medium.com/p/8892d472d3f1) |
