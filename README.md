@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 15:32:39 GMT | DNS Recon: The Silent Cartographer of Your Network | KeyboardSamurai | [Read More](https://medium.com/p/07a5d92d524f) |
+| Tue, 09 Sep 2025 15:32:29 GMT | Bunni, Numa, Woo X: $22.7M Lost to Rounding Bugs, Forced Liquidations, and Malware | Olympix | [Read More](https://medium.com/p/cccc560e2a91) |
+| Tue, 09 Sep 2025 15:30:54 GMT | In today’s digital world, relying on a single simple password – or worse, reusing the same one… | Cordula Boeck | [Read More](https://medium.com/p/cf0ee22d7470) |
+| Tue, 09 Sep 2025 15:30:41 GMT | NanoCherryCTF Write-ups TryHackme: | MouhibMahadbi | [Read More](https://medium.com/p/ae4123bc936e) |
 | Tue, 09 Sep 2025 15:16:21 GMT | 5 ways hackers erase their footprints | Khushi Garg | [Read More](https://medium.com/p/64036dede2a8) |
 | Tue, 09 Sep 2025 15:15:17 GMT | “That One Time I Found a Golden Ticket in a Desktop App” | Aman Sharma | [Read More](https://medium.com/p/8db725c10338) |
 | Tue, 09 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c7dbd44f0e1c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 10:53:52 GMT | Python GUI Toolkits & Frameworks: How to Pick What Suits Your Needs | Bhavesh Rajpurohit | [Read More](https://medium.com/p/46418105fdd7) |
 | Tue, 09 Sep 2025 10:51:58 GMT | AI vs AI Security Battles: How defenders can use AI against AI-powered cybercriminals | Ambala IT | [Read More](https://medium.com/p/7ee2af8be4ff) |
 | Tue, 09 Sep 2025 10:51:49 GMT | Supply Chain Attacks: The Hidden Cost Nobody Talks About | Ajay Monga | [Read More](https://medium.com/p/d5ea31a0297f) |
-| Tue, 09 Sep 2025 10:48:16 GMT | KrakenKeylogger Lab - CyberDefenders | Abdulla Abdulrhem | [Read More](https://medium.com/p/b6a1137135bd) |
-| Tue, 09 Sep 2025 10:42:28 GMT | Finding the Culprit with git bisect | Remy Parzinski | [Read More](https://medium.com/p/a1b896a8fd0c) |
-| Tue, 09 Sep 2025 10:38:21 GMT | Digital Forensics : Recover Deleted Files Using Autopsy | Arrhenius Paelongan | [Read More](https://medium.com/p/270e1d0232d5) |
-| Tue, 09 Sep 2025 10:32:58 GMT | Plex Data Breach: Why Users Must Reset Passwords Immediately | Technijian | [Read More](https://medium.com/p/63891358c12c) |
