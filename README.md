@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 09:33:05 GMT | Not the Clever Lion, But the Hungry Lion: The Power of Self-Learning in IT | Dilkini  Kahawalage | [Read More](https://medium.com/p/dd641b007a1d) |
+| Tue, 09 Sep 2025 09:26:24 GMT | UMInk — A Different Take on Cloud Storage: Lower Cost, Plus a Way to Earn on the Side | Almot | [Read More](https://medium.com/p/be04e950d20e) |
 | Tue, 09 Sep 2025 09:20:21 GMT | The Passwordless Future : Securing and Streamlining Operations for Businesses | FlashX Cybersecurity | [Read More](https://medium.com/p/0ee5f7d3384e) |
+| Tue, 09 Sep 2025 09:20:12 GMT | Zendesk Spoofing Retrospective | Medjue Gore | [Read More](https://medium.com/p/50627eab89c1) |
+| Tue, 09 Sep 2025 09:20:03 GMT | Home Network Under Siege? They’re after more than just your WiFi password. | SilentInject | [Read More](https://medium.com/p/0f6f85d4e97d) |
 | Tue, 09 Sep 2025 09:17:31 GMT | Data, Information and Knowledge: The Trinity of the 21st Century | Enrico Bertan | [Read More](https://medium.com/p/2b8a2068a7bb) |
 | Tue, 09 Sep 2025 09:10:36 GMT | UK Intelligent Threat Security Market Size, Share, Trends and Forecast Report -2031 | Atharvaconsegicbusinessintelli | [Read More](https://medium.com/p/d695a95dba78) |
 | Tue, 09 Sep 2025 09:09:21 GMT | IoT Penetration Testing Guide for Business Leaders | CyberNX | [Read More](https://medium.com/p/1106fd461899) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 04:57:02 GMT | Mobile Market Report 2025: Latest Consumer Trends You Must Know | Aurora Green | [Read More](https://medium.com/p/c511193c8681) |
 | Tue, 09 Sep 2025 04:56:46 GMT | ShadowCaptcha: WordPress Hijacked for Malware Delivery | Ashley Dai | [Read More](https://medium.com/p/b791bd92fb92) |
 | Tue, 09 Sep 2025 04:49:22 GMT | Software Supply Chain Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4e6b1eb63655) |
-| Tue, 09 Sep 2025 04:48:22 GMT | Day 53- Understanding defense in depth in cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/58abaec53b08) |
-| Tue, 09 Sep 2025 04:37:33 GMT | How to Build an Effective Cyber Threat Intelligence Team | Dinesh | [Read More](https://medium.com/p/dc7431ee50f0) |
-| Tue, 09 Sep 2025 04:34:19 GMT | Security at Scale: Why Humans Must Evolve with AI | Omar Santos | [Read More](https://medium.com/p/981a24cdf46f) |
-| Tue, 09 Sep 2025 04:33:01 GMT | Portswigger Web Security Academy - Web Cache Deception Lab #1 | BooRuleDie | [Read More](https://medium.com/p/66d5a99e63d3) |
