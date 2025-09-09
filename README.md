@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 07:36:01 GMT | Kenali Ciri-Ciri Pesan Penipuan & Berbahaya ! | SIM RZ | [Read More](https://medium.com/p/cf1340fa7c91) |
+| Tue, 09 Sep 2025 07:32:08 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/e7f12dce0253) |
+| Tue, 09 Sep 2025 07:22:35 GMT | Is Your ChatGPT Chat Google Famous? (You’ll Want to Check) | Mohit Aggarwal | [Read More](https://medium.com/p/01b30fc7601f) |
+| Tue, 09 Sep 2025 07:21:46 GMT | The Snowflake Breach Exposed AI’s Limits: Are You Ready to Become an AI Whisperer and Lock Down… | ZENcurity | [Read More](https://medium.com/p/35ca55b4b555) |
+| Tue, 09 Sep 2025 07:21:01 GMT | The Role of CISM in Building a Zero Trust Security Culture | Dhanashri Bhale | [Read More](https://medium.com/p/f93f9dcd13ca) |
 | Tue, 09 Sep 2025 07:12:19 GMT | The Daily Tech Digest: 09 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/64e8fa245961) |
 | Tue, 09 Sep 2025 07:11:04 GMT | Best Beginner-Friendly WAF in 2025: Why SafeLine Outperforms Regex-Based Firewalls | Quella | [Read More](https://medium.com/p/f62db54699ec) |
 | Tue, 09 Sep 2025 07:10:20 GMT | The Information Crisis | Roland Waller | [Read More](https://medium.com/p/79314683c219) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 01:07:14 GMT | Who Owns the Sky? The Fight to Keep Space Safe, Open, and Sustainable | Emily Li | [Read More](https://medium.com/p/0dc1c5fc0db8) |
 | Tue, 09 Sep 2025 00:53:03 GMT | Did You Know the Average Small Business Breach Costs Over $120,000? | DefendPoint Security | [Read More](https://medium.com/p/cf8f608aec07) |
 | Tue, 09 Sep 2025 00:49:24 GMT | S1ngularity: AI Meets Supply Chain Chaos in the Nx Breach | Lyra Strix - TheRealThreatHuntress | [Read More](https://medium.com/p/5b3297943aa0) |
-| Tue, 09 Sep 2025 00:47:21 GMT | 9 Essential Skills to Become a Cybersecurity Expert | Shahzaib | [Read More](https://medium.com/p/c626d0817a43) |
-| Tue, 09 Sep 2025 00:39:02 GMT | Tuesday Morning Threat Report: Sep 9, 2025 | Mark Maguire | [Read More](https://medium.com/p/fac146d96be9) |
-| Tue, 09 Sep 2025 00:34:38 GMT | Why Modern Relationships Feel Hard for Men and Women | Amanpreet Wadhwa | [Read More](https://medium.com/p/213526c7e65e) |
-| Tue, 09 Sep 2025 00:30:05 GMT | When People Hear “Risk,” They Panic | Teleisha Deslandes | [Read More](https://medium.com/p/fe06bb35a442) |
-| Tue, 09 Sep 2025 00:19:04 GMT | Demystifying Cryptography for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/effa492cda02) |
