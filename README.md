@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 14:32:56 GMT | CloudSEK CTF Writeup 2025 | Niraj Kumar Mahto | [Read More](https://medium.com/p/1dd69d49b8f9) |
+| Tue, 09 Sep 2025 14:27:36 GMT | How to Erase Garage Door Opener Settings: Fast Tips for a Fresh Start | Up & Down Garage Door Services | [Read More](https://medium.com/p/d6a832b4de72) |
+| Tue, 09 Sep 2025 14:26:09 GMT | How Apple Ended the Zero-Day Exploit Threat | Keepnet Labs | [Read More](https://medium.com/p/476ab489ad71) |
+| Tue, 09 Sep 2025 14:19:11 GMT | THE FUTURE I SEE IN DROSERA NETWORK : BUILDING ETHEREUM’S IMMUNE SYSTEM | Aniekpeno Godwin | [Read More](https://medium.com/p/200e793dedf3) |
 | Tue, 09 Sep 2025 14:18:38 GMT | How Hackers Exploit AI Tools Like ChatGPT: What You Need to Know | Very Lazy Tech | [Read More](https://medium.com/p/eb728f9cf907) |
 | Tue, 09 Sep 2025 14:12:11 GMT | The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe | Scofield O. Idehen | [Read More](https://medium.com/p/43c879f18f4b) |
 | Tue, 09 Sep 2025 14:09:54 GMT | Largest NPM Compromise in History: Supply Chain Attack | Dhanush N | [Read More](https://medium.com/p/908c343ca1a4) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 10:07:21 GMT | Introducing SocialIntellax A Comprehensive OSINT & Threat Intelligence Framework
 By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
 | Tue, 09 Sep 2025 10:01:30 GMT | How I Accidentally Stumbled Upon a Critical Vulnerability (Exposed backup on google storage) | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/420f17004062) |
-| Tue, 09 Sep 2025 10:00:46 GMT | Stepwise Guide to Save Gmail Messages Offline and Access Anywhere | Patrick Myers | [Read More](https://medium.com/p/2b78a69bc801) |
-| Tue, 09 Sep 2025 09:55:14 GMT | The Largest npm Supply-Chain Attack to Date: A Deep Dive | Jagan Raj Raviraja | [Read More](https://medium.com/p/f3d930e7b963) |
-| Tue, 09 Sep 2025 09:53:11 GMT | Sharing personal Experience @ Reverse Engineering without assembly tools -Shell Gym Episode… | Cy3erS@up | [Read More](https://medium.com/p/70f6e22db011) |
-| Tue, 09 Sep 2025 09:52:26 GMT | DockerLabs Writeup — FindYourStyle (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/466d543adaf0) |
