@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 13:26:56 GMT | Beginner’s Guide to Raspberry Pi Pico - PART-2 | Agape HearTs | [Read More](https://medium.com/p/c69e60b077a7) |
+| Tue, 09 Sep 2025 13:25:10 GMT | Architecting the Future: Building an Enterprise-Grade A/B Testing Platform with Cloudflare Workers | Srinivasa Tadipatri | [Read More](https://medium.com/p/1f6124f83b05) |
+| Tue, 09 Sep 2025 13:20:24 GMT | The Impact of AI on Jobs in 2025: Sector-Wise Insights | Awais Butt | [Read More](https://medium.com/p/d93676f26cea) |
+| Tue, 09 Sep 2025 13:19:50 GMT | Black Hat USA 2025 in the Age of AI (Part 2) | VXRL | [Read More](https://medium.com/p/92014992d311) |
+| Tue, 09 Sep 2025 13:16:54 GMT | Kybernetická bezpečnost a AI: Co je prompt injection a je vaše AI v bezpečí? | Cyber Solution | [Read More](https://medium.com/p/615eec4ecb61) |
+| Tue, 09 Sep 2025 13:12:09 GMT | The UK’s Ransomware Reality: Why Security Needs to Catch Up with Innovation | WayneReidUK | [Read More](https://medium.com/p/d39c677dc8c0) |
+| Tue, 09 Sep 2025 13:11:50 GMT | Track A Stolen Car - Tips - Recover - Hire Hacker | BlackHat | [Read More](https://medium.com/p/8470e9060cd0) |
+| Tue, 09 Sep 2025 13:11:39 GMT | DNS Exfiltration Explained | Keir Finlow-Bates | [Read More](https://medium.com/p/3e5eed50887e) |
+| Tue, 09 Sep 2025 13:11:38 GMT | Ransomware Analysis: Anatomy of a Threat ️‍♂️ | Esra Kayhan | [Read More](https://medium.com/p/9abb380fd5be) |
+| Tue, 09 Sep 2025 13:04:31 GMT | Fordefi Security Statement on the NPM supply-chain attack | Trey Archambeau | [Read More](https://medium.com/p/72f56cf26608) |
+| Tue, 09 Sep 2025 13:01:47 GMT | Amazon Users: If Your Password Is on This Site, You’re at Risk | Fortress Protocol | [Read More](https://medium.com/p/4baafb3c3aec) |
+| Tue, 09 Sep 2025 13:01:47 GMT | Day 19:- Frontend, Backend & Databases Simplified! | Prutha_Dongre | [Read More](https://medium.com/p/b020b2a53785) |
+| Tue, 09 Sep 2025 12:59:09 GMT | Why Backing Up Your Digital Life Is So Important? | Senior Tech Basics | [Read More](https://medium.com/p/b7363cc288dd) |
+| Tue, 09 Sep 2025 12:54:19 GMT | Best Ethical Hacking and Cyber Security Certifications in India (2025 Guide) | Reshmadotin | [Read More](https://medium.com/p/700016d0a2d9) |
+| Tue, 09 Sep 2025 12:53:55 GMT | Pivoting and Tunneling with Ligolo-ng (Quick Walkthrough CRTP Lab) | Kareem Mostafa | [Read More](https://medium.com/p/39e465d13dc5) |
+| Tue, 09 Sep 2025 12:53:01 GMT | Knowing the COBIT Framework for Successful IT Governance | Cyber Cops | [Read More](https://medium.com/p/f1635a219322) |
+| Tue, 09 Sep 2025 12:50:22 GMT | Power BI Service’de RLS Kullanıcı Atama (Security) | Nida | [Read More](https://medium.com/p/38ff73751f89) |
+| Tue, 09 Sep 2025 12:47:41 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | حاجی طباطبای | [Read More](https://medium.com/p/86a196c1abc2) |
+| Tue, 09 Sep 2025 12:46:02 GMT | Secure Your Mahadev Book Account: A Safety-First Login Guide | Mahadev Book | [Read More](https://medium.com/p/52f0acb8ef34) |
+| Tue, 09 Sep 2025 12:41:18 GMT | Deepfake and cyber security | Harnoor Kaur | [Read More](https://medium.com/p/eea8273741b8) |
+| Tue, 09 Sep 2025 12:39:46 GMT | Unlocking Governance: Room 4 in HackerEscapeRoom.online | Cristhian Azuero | [Read More](https://medium.com/p/2b0e753f1be0) |
 | Tue, 09 Sep 2025 12:27:48 GMT | Google’s Embedding Gemma: A Game-Changer for On-Device AI | Roshni Savaliya | [Read More](https://medium.com/p/0e2dc7818e2d) |
 | Tue, 09 Sep 2025 12:25:48 GMT | Bengaluru Man Loses ₹5 Lakh in a Fake RTO Phishing Scam | Bhartikarnatak | [Read More](https://medium.com/p/e2c9b7798976) |
 | Tue, 09 Sep 2025 12:25:32 GMT | Cybersecurity Basics for Businesses: My Handbook for 2025 | Fiona Campbell | [Read More](https://medium.com/p/6e701df71109) |
@@ -92,24 +113,3 @@ By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
 | Tue, 09 Sep 2025 09:20:03 GMT | Home Network Under Siege? They’re after more than just your WiFi password. | SilentInject | [Read More](https://medium.com/p/0f6f85d4e97d) |
 | Tue, 09 Sep 2025 09:17:31 GMT | Data, Information and Knowledge: The Trinity of the 21st Century | Enrico Bertan | [Read More](https://medium.com/p/2b8a2068a7bb) |
 | Tue, 09 Sep 2025 09:10:36 GMT | UK Intelligent Threat Security Market Size, Share, Trends and Forecast Report -2031 | Atharvaconsegicbusinessintelli | [Read More](https://medium.com/p/d695a95dba78) |
-| Tue, 09 Sep 2025 09:09:21 GMT | IoT Penetration Testing Guide for Business Leaders | CyberNX | [Read More](https://medium.com/p/1106fd461899) |
-| Tue, 09 Sep 2025 09:08:57 GMT | PortSwigger Lab — Access Control: URL-Based Access Control Can Be Circumvented | Siddiquimohammad | [Read More](https://medium.com/p/e29c78421ef0) |
-| Tue, 09 Sep 2025 09:06:43 GMT | Mapping Causality in Neuronal Activity: Towards a Better Understanding of Brain Networks | Tokyo University of Science | [Read More](https://medium.com/p/a2209e8127a6) |
-| Tue, 09 Sep 2025 09:00:45 GMT | Massive NPM Supply Chain Attack: npm debug and chalk packages compromised | Kristiyan Velkov | [Read More](https://medium.com/p/9c7e2cad8b17) |
-| Tue, 09 Sep 2025 08:59:34 GMT | Top AI Consulting Companies in the UAE | Saurabh Sharma | [Read More](https://medium.com/p/00daf13c488d) |
-| Tue, 09 Sep 2025 08:59:07 GMT | PGDM In Information Technology - MITSDE | MIT School of Distance Education | [Read More](https://medium.com/p/3b01e9febaa3) |
-| Tue, 09 Sep 2025 08:56:04 GMT | How $600,000 Was Stolen in 10 Minutes: Why Your Ledger Won’t Save You From This Attack | LSP - Ledger Shield Pro | [Read More](https://medium.com/p/6a66a719808b) |
-| Tue, 09 Sep 2025 08:46:18 GMT | How to Reduce Payment Tracking Safely in 2025 | MelonPpang | [Read More](https://medium.com/p/17352340b5d6) |
-| Tue, 09 Sep 2025 08:41:09 GMT | Offensive Security Intro: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/6df70164617a) |
-| Tue, 09 Sep 2025 08:39:11 GMT | 2.6 Billion Downloads, One Phishing Email: Inside the Latest NPM Supply Chain Attack | Felix Ivance Runye | [Read More](https://medium.com/p/d868dbcf6826) |
-| Tue, 09 Sep 2025 08:37:08 GMT | Vulnerability Management: A Core Pillar of Cybersecurity | Digital Defense | [Read More](https://medium.com/p/75983331ff94) |
-| Tue, 09 Sep 2025 08:36:38 GMT | MediaTek Dimensity 9500 : New Leaks Alert | Arjun Agarwal | [Read More](https://medium.com/p/44d3a69b7bb1) |
-| Tue, 09 Sep 2025 08:31:40 GMT | From Startup to Scaleup: Building Security into Growth, Not After | Evgeny Ermakov | [Read More](https://medium.com/p/ff5f65e79f74) |
-| Tue, 09 Sep 2025 08:28:31 GMT | Supply-Chain Hack Hits a Billion Downloads: Protect Your Web3 Assets Now | Safeguard Capital | [Read More](https://medium.com/p/73e2fd84bbb7) |
-| Tue, 09 Sep 2025 08:28:24 GMT | SSRF in React/Next.js: Risks & Fixes (With Code) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f8c9a521562) |
-| Tue, 09 Sep 2025 08:28:20 GMT | The House With Too Many Windows | O. J. Okpabi | [Read More](https://medium.com/p/01f459e9e2d2) |
-| Tue, 09 Sep 2025 08:27:41 GMT | Securing the Future: How Decentralized Networks Are Changing Cybersecurity | Niamh O'Shea | [Read More](https://medium.com/p/5f64770315b2) |
-| Tue, 09 Sep 2025 08:27:21 GMT | How to Forward JumpServer Logs to a Remote Syslog Server (v4.10.7 Docker Setup) | Sherif Rahim | [Read More](https://medium.com/p/ff1daeaa2ee0) |
-| Tue, 09 Sep 2025 08:17:24 GMT | Top-Rated Digital Marketing Agency in Dwarka for Business Growth | Touchstone Infotech | [Read More](https://medium.com/p/b92ec7637be8) |
-| Tue, 09 Sep 2025 08:17:15 GMT | Social Engineering for Defense: How to Train Your Employees to Be the First Line of Defense | Shahzaib | [Read More](https://medium.com/p/fa3ca2998e77) |
-| Tue, 09 Sep 2025 08:09:13 GMT | Latest Smartphone Launches 2025 — Specs, Prices & Trends in India | info@flagnews.in | [Read More](https://medium.com/p/d7b4804855fb) |
