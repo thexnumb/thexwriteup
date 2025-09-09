@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 23:18:14 GMT | Weaponizing AI in Pentesting: Building Adaptive Cyber Soldiers | A-STAR7_DOCTOR | [Read More](https://medium.com/p/9f6896e103fe) |
 | Tue, 09 Sep 2025 23:06:55 GMT | Are companies underestimating the risk of OAuth token theft? | Cyber-AppSec | [Read More](https://medium.com/p/cf65469a644e) |
 | Tue, 09 Sep 2025 23:05:12 GMT | Demystifying Data Privacy in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/47b641923a0c) |
 | Tue, 09 Sep 2025 22:57:58 GMT | The Creator’s Help Desk | The Creator's Help Desk | [Read More](https://medium.com/p/d5e5a0dd9646) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 17:00:32 GMT | How a Client-Side CSRF Flaw Breaks a Core Defense | Imvkale | [Read More](https://medium.com/p/e427fca69102) |
 | Tue, 09 Sep 2025 17:00:28 GMT | Organising a Clickjacking Attack | Swetha | [Read More](https://medium.com/p/6f368de1567b) |
 | Tue, 09 Sep 2025 16:59:30 GMT | Xorion: Building the Blockchain of Tomorrow | Bright Mmaduabuchi | [Read More](https://medium.com/p/56acef5b078f) |
-| Tue, 09 Sep 2025 16:58:17 GMT | TryHackMe Writeup: Simple CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/f03e66c4a108) |
