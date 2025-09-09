@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 17:30:55 GMT | Secure by Default: Practical Web App Security Checklist | Tera Byte 26 | [Read More](https://medium.com/p/edcf8f77b86c) |
+| Tue, 09 Sep 2025 17:29:57 GMT | SOC Support Consulting: Strengthening Cybersecurity with Expert Guidance | SafeAeon Inc. | [Read More](https://medium.com/p/a97a6b66aef9) |
+| Tue, 09 Sep 2025 17:22:48 GMT | Zoom and Beyond: Eight Vulnerabilities That Redefine Enterprise Risk | gm0 | [Read More](https://medium.com/p/1eca88240f3a) |
+| Tue, 09 Sep 2025 17:22:43 GMT | Nmap: The Essential Cybersecurity Network Mapper | Neophile | [Read More](https://medium.com/p/21669a15b726) |
+| Tue, 09 Sep 2025 17:21:58 GMT | Auto Block Website Ping Attack: Protecting Your Website from Hidden Flood Threats | SafeAeon Inc. | [Read More](https://medium.com/p/34916a4108bb) |
 | Tue, 09 Sep 2025 17:13:45 GMT | How to Reset a Garage Door Opener After Pulling the Red Cord: Step-by-Step Guide | 24H Garage Doors | [Read More](https://medium.com/p/44fcd88c0d59) |
+| Tue, 09 Sep 2025 17:13:21 GMT | The Hidden Dangers of AI Overuse: Are We Losing Our Human Touch? | Hafizbilaltariq | [Read More](https://medium.com/p/cfcc19dd2516) |
+| Tue, 09 Sep 2025 17:11:54 GMT | When a Chatbot Opens the Door to a Supply Chain Attack | TheSlic3r | [Read More](https://medium.com/p/1238d6dccbd9) |
 | Tue, 09 Sep 2025 17:06:47 GMT | Three Months into Writing, and Why I Keep Going | Ava Hayes | [Read More](https://medium.com/p/06b8179da44a) |
 | Tue, 09 Sep 2025 17:01:26 GMT | Leaked Credentials: The easy way | umbraXsecure | [Read More](https://medium.com/p/051fe7bf80d4) |
 | Tue, 09 Sep 2025 17:00:32 GMT | How a Client-Side CSRF Flaw Breaks a Core Defense | Imvkale | [Read More](https://medium.com/p/e427fca69102) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 12:53:01 GMT | Knowing the COBIT Framework for Successful IT Governance | Cyber Cops | [Read More](https://medium.com/p/f1635a219322) |
 | Tue, 09 Sep 2025 12:50:22 GMT | Power BI Service’de RLS Kullanıcı Atama (Security) | Nida | [Read More](https://medium.com/p/38ff73751f89) |
 | Tue, 09 Sep 2025 12:47:41 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | حاجی طباطبای | [Read More](https://medium.com/p/86a196c1abc2) |
-| Tue, 09 Sep 2025 12:46:02 GMT | Secure Your Mahadev Book Account: A Safety-First Login Guide | Mahadev Book | [Read More](https://medium.com/p/52f0acb8ef34) |
-| Tue, 09 Sep 2025 12:41:18 GMT | Deepfake and cyber security | Harnoor Kaur | [Read More](https://medium.com/p/eea8273741b8) |
-| Tue, 09 Sep 2025 12:39:46 GMT | Unlocking Governance: Room 4 in HackerEscapeRoom.online | Cristhian Azuero | [Read More](https://medium.com/p/2b0e753f1be0) |
-| Tue, 09 Sep 2025 12:27:48 GMT | Google’s Embedding Gemma: A Game-Changer for On-Device AI | Roshni Savaliya | [Read More](https://medium.com/p/0e2dc7818e2d) |
-| Tue, 09 Sep 2025 12:25:48 GMT | Bengaluru Man Loses ₹5 Lakh in a Fake RTO Phishing Scam | Bhartikarnatak | [Read More](https://medium.com/p/e2c9b7798976) |
-| Tue, 09 Sep 2025 12:25:32 GMT | Cybersecurity Basics for Businesses: My Handbook for 2025 | Fiona Campbell | [Read More](https://medium.com/p/6e701df71109) |
-| Tue, 09 Sep 2025 12:23:45 GMT | Copilot Agents Security | Meron | [Read More](https://medium.com/p/b298fc17fc9c) |
