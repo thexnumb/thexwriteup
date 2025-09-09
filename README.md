@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 15:16:21 GMT | 5 ways hackers erase their footprints | Khushi Garg | [Read More](https://medium.com/p/64036dede2a8) |
+| Tue, 09 Sep 2025 15:15:17 GMT | “That One Time I Found a Golden Ticket in a Desktop App” | Aman Sharma | [Read More](https://medium.com/p/8db725c10338) |
+| Tue, 09 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c7dbd44f0e1c) |
+| Tue, 09 Sep 2025 15:12:35 GMT | NIH wasn’t the sin. Outsourcing every keystroke was. | OKcontract | [Read More](https://medium.com/p/e3fa901fdf3b) |
+| Tue, 09 Sep 2025 15:03:36 GMT | How AI is Helping Unmask the Insider Threat | Berend Watchus | [Read More](https://medium.com/p/bbe646c038ef) |
+| Tue, 09 Sep 2025 15:01:16 GMT | Ethical Hacking: Safeguarding Systems in a Digital World | Nyra | [Read More](https://medium.com/p/5e75b7ccea4e) |
+| Tue, 09 Sep 2025 14:57:39 GMT | SentryPC Parental Monitoring: Safeguarding Online Security for Kids in a Connected World | Paul Meyer | [Read More](https://medium.com/p/008beeca48af) |
+| Tue, 09 Sep 2025 14:53:32 GMT | The NPM Hack: A Wake-Up Call for Crypto Privacy and Security | SilentSwap | [Read More](https://medium.com/p/0786d9186b0d) |
+| Tue, 09 Sep 2025 14:50:33 GMT | Ethical Hacking 101: Finding Usernames in Active Directory | SilentExploit | [Read More](https://medium.com/p/7266926f2832) |
+| Tue, 09 Sep 2025 14:43:27 GMT | I Watched My Own Accounts Disappear. | Shahzaib | [Read More](https://medium.com/p/7a0198cb35ed) |
+| Tue, 09 Sep 2025 14:39:00 GMT | Cracking the Code: Hashing Basics on TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/9816bdceaec8) |
+| Tue, 09 Sep 2025 14:33:55 GMT | Don’t Let Your Identity Be a Security Risk: An Introduction to IPSIE | Kunal Sinha | [Read More](https://medium.com/p/5a8bbced99bd) |
+| Tue, 09 Sep 2025 14:33:15 GMT | The Silent Cloud Heist: How Exposed .env Files Invited Attackers Into Millions of AWS Environments | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/60e855997439) |
 | Tue, 09 Sep 2025 14:32:56 GMT | CloudSEK CTF Writeup 2025 | Niraj Kumar Mahto | [Read More](https://medium.com/p/1dd69d49b8f9) |
+| Tue, 09 Sep 2025 14:31:43 GMT | How to Program a Linear Garage Door Remote: Easy Setup Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/74efb7457b90) |
 | Tue, 09 Sep 2025 14:27:36 GMT | How to Erase Garage Door Opener Settings: Fast Tips for a Fresh Start | Up & Down Garage Door Services | [Read More](https://medium.com/p/d6a832b4de72) |
 | Tue, 09 Sep 2025 14:26:09 GMT | How Apple Ended the Zero-Day Exploit Threat | Keepnet Labs | [Read More](https://medium.com/p/476ab489ad71) |
 | Tue, 09 Sep 2025 14:19:11 GMT | THE FUTURE I SEE IN DROSERA NETWORK : BUILDING ETHEREUM’S IMMUNE SYSTEM | Aniekpeno Godwin | [Read More](https://medium.com/p/200e793dedf3) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 10:42:28 GMT | Finding the Culprit with git bisect | Remy Parzinski | [Read More](https://medium.com/p/a1b896a8fd0c) |
 | Tue, 09 Sep 2025 10:38:21 GMT | Digital Forensics : Recover Deleted Files Using Autopsy | Arrhenius Paelongan | [Read More](https://medium.com/p/270e1d0232d5) |
 | Tue, 09 Sep 2025 10:32:58 GMT | Plex Data Breach: Why Users Must Reset Passwords Immediately | Technijian | [Read More](https://medium.com/p/63891358c12c) |
-| Tue, 09 Sep 2025 10:32:05 GMT | TryHackMe — Splunk 2 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/5af95375cc0c) |
-| Tue, 09 Sep 2025 10:30:45 GMT | What if your elephant thinks it is bug? | Unicorn Developer | [Read More](https://medium.com/p/3364e074532c) |
-| Tue, 09 Sep 2025 10:25:07 GMT | woodtspl loan customer care helpline number☎️(7294161837)@!!@+7294.16.1837// Call now | Hira Lal Singh | [Read More](https://medium.com/p/659ae4528417) |
-| Tue, 09 Sep 2025 10:24:48 GMT | The Perceptive Dog | Melvin Dsouza | [Read More](https://medium.com/p/8fde55bdc9bf) |
-| Tue, 09 Sep 2025 10:23:33 GMT | What is Involved in an ISO 27001 Implementation | Digital Sqcindia | [Read More](https://medium.com/p/02ef5836a514) |
-| Tue, 09 Sep 2025 10:21:47 GMT | Windows Defender Hijacked: New Symlink Technique Bypasses Native Protections | gm0 | [Read More](https://medium.com/p/fcf018e9b3a8) |
-| Tue, 09 Sep 2025 10:19:47 GMT | Regardless of the advances in technology and development that may arise, | PARVIN NAHAR | [Read More](https://medium.com/p/599003fe69fc) |
-| Tue, 09 Sep 2025 10:18:16 GMT | The Borrowed Voice | O. J. Okpabi | [Read More](https://medium.com/p/8129af06f207) |
-| Tue, 09 Sep 2025 10:17:48 GMT | Top Cryptos to Invest for Maximum Growth: A Marketing & AI-Driven Perspective | Ombir Sharma | [Read More](https://medium.com/p/2b5234a953b9) |
-| Tue, 09 Sep 2025 10:16:11 GMT | Best Ethical Hacking Institute in Delhi — Your Path to Becoming a Cyber Expert | Nitin Singh | [Read More](https://medium.com/p/2559bed59651) |
-| Tue, 09 Sep 2025 10:14:01 GMT | The Psychology of Listings: Why Users Trust Some Directories More Than Others | aDirectory | [Read More](https://medium.com/p/d31ac32bc3b1) |
-| Tue, 09 Sep 2025 10:07:36 GMT | Kali GPT: The AI Assistant That’s Revolutionizing Pentesting on Kali Linux | Inayat Hussain | [Read More](https://medium.com/p/a47cd2e9685c) |
-| Tue, 09 Sep 2025 10:07:21 GMT | Introducing SocialIntellax A Comprehensive OSINT & Threat Intelligence Framework
-By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
-| Tue, 09 Sep 2025 10:01:30 GMT | How I Accidentally Stumbled Upon a Critical Vulnerability (Exposed backup on google storage) | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/420f17004062) |
