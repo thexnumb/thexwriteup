@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 16:22:30 GMT | Skipping from Pre-Seed to Series A with Dreadnode | Bryce Roberts | [Read More](https://medium.com/p/6fa30ab71c9e) |
+| Tue, 09 Sep 2025 16:19:10 GMT | PG Practice — Bratarina (Linux) | Lepton | [Read More](https://medium.com/p/2e5349be2677) |
+| Tue, 09 Sep 2025 16:13:45 GMT | Navigating Data Privacy and Security in the Age of Generative AI | Nathan Waterman | [Read More](https://medium.com/p/2e7fc9356405) |
+| Tue, 09 Sep 2025 16:11:24 GMT | The Terrifying Takeaways from the Massive OAuth Breach | Patrick Walsh | [Read More](https://medium.com/p/52db3203ac35) |
+| Tue, 09 Sep 2025 16:08:19 GMT | “Dear Diary” challenge | oussama | [Read More](https://medium.com/p/b399803a4e04) |
+| Tue, 09 Sep 2025 16:07:39 GMT | Microsoft’s NLWeb Flaw Exposes the Security Risks of the Agentic Web | Yusuf Asan | [Read More](https://medium.com/p/9c0140b239e6) |
+| Tue, 09 Sep 2025 16:06:35 GMT | ARTIFICIAL — HTB | H3XH7WK | [Read More](https://medium.com/p/9946913d6cb1) |
+| Tue, 09 Sep 2025 16:05:40 GMT | Demystifying Cybersecurity with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/22bf7b36bbe1) |
+| Tue, 09 Sep 2025 16:04:23 GMT | Large-Scale npm Supply Chain Attack Targets Crypto Ecosystem but Fails to Cause Major Damage | RealSec.io | [Read More](https://medium.com/p/f43001470e9a) |
+| Tue, 09 Sep 2025 15:59:44 GMT | OpenAI is Building a LinkedIn Killer: What This Means for Your Career in 2026 | Tech With Curly Girl | [Read More](https://medium.com/p/5b6a55df8958) |
+| Tue, 09 Sep 2025 15:55:25 GMT | Document Security: 6 Risks of Using Shared Drives and How to Avoid Them | PERICENT | [Read More](https://medium.com/p/ca2064df59d6) |
+| Tue, 09 Sep 2025 15:44:02 GMT | Announcing My Next Challenge: A 200-Day Cybersecurity Series | Aj | [Read More](https://medium.com/p/dc95cefb6c53) |
+| Tue, 09 Sep 2025 15:40:59 GMT | EMBER2024: A New Benchmark for Holistic Malware Classification | Chris Zhang | [Read More](https://medium.com/p/62dcb260b47a) |
+| Tue, 09 Sep 2025 15:35:52 GMT | Cyber Attack on City of St. Paul Leads to Shutdown | Julio Arredondo | [Read More](https://medium.com/p/93db6757f5d0) |
+| Tue, 09 Sep 2025 15:35:41 GMT | Stealer Logs in 2025: Find Exposed Employee Logins for Your Domain in 2 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/498ce4850d64) |
 | Tue, 09 Sep 2025 15:32:39 GMT | DNS Recon: The Silent Cartographer of Your Network | KeyboardSamurai | [Read More](https://medium.com/p/07a5d92d524f) |
 | Tue, 09 Sep 2025 15:32:29 GMT | Bunni, Numa, Woo X: $22.7M Lost to Rounding Bugs, Forced Liquidations, and Malware | Olympix | [Read More](https://medium.com/p/cccc560e2a91) |
 | Tue, 09 Sep 2025 15:30:54 GMT | In today’s digital world, relying on a single simple password – or worse, reusing the same one… | Cordula Boeck | [Read More](https://medium.com/p/cf0ee22d7470) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 11:37:07 GMT | External Secrets in n8n: A Complete Guide to Secure Credential Management | Sathish Thiyagarajan | [Read More](https://medium.com/p/bba3b59b0994) |
 | Tue, 09 Sep 2025 11:36:48 GMT | Best Integrated Lease Management Software in India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/5d7ad24f0de3) |
 | Tue, 09 Sep 2025 11:31:20 GMT | A Moonshot for Reversing the Ecological Crises — Phase 3 | Erik Kvam | [Read More](https://medium.com/p/90179cec17ee) |
-| Tue, 09 Sep 2025 11:30:06 GMT | Fraud Moves in Minutes. Can AI Keep Pace? | Tina Sharma | [Read More](https://medium.com/p/833fc5cce401) |
-| Tue, 09 Sep 2025 11:28:15 GMT | .NET Core ile Modern Kripto Varlık Akışlarının Kalbini Atmak | yiğit çevik | [Read More](https://medium.com/p/6a7b849460ae) |
-| Tue, 09 Sep 2025 11:24:20 GMT | From PNPT to OSCP: My Next Big Step | Manzjson | [Read More](https://medium.com/p/521d65cde403) |
-| Tue, 09 Sep 2025 11:22:16 GMT | Mom, Will I Ever Be Enough? | The Heart 's Diary | [Read More](https://medium.com/p/315cc0c695a8) |
-| Tue, 09 Sep 2025 11:21:38 GMT | 10 Best Secure Hosting Providers for Image-Heavy Blogs | Kanika Mehtah | [Read More](https://medium.com/p/7ba695ac28bf) |
-| Tue, 09 Sep 2025 11:17:41 GMT | ️‍♂️ Detecting Keylogger Software | Esra Kayhan | [Read More](https://medium.com/p/5cab4726085d) |
-| Tue, 09 Sep 2025 11:11:37 GMT | Secure Hosting for Charities | Jasmeet  Kaur | [Read More](https://medium.com/p/ce44a174b23d) |
-| Tue, 09 Sep 2025 11:07:40 GMT | The Growing Threat of Crypto Scams: What We Need to Know | Ambala IT | [Read More](https://medium.com/p/cb21f8432d93) |
-| Tue, 09 Sep 2025 11:01:53 GMT | TEEs zabezpieczone przez Ethereum | Phala Network PL | [Read More](https://medium.com/p/de728a6f146d) |
-| Tue, 09 Sep 2025 11:01:14 GMT | TryHackMe Writeup: Thompson | Berkay AĞGÜL | [Read More](https://medium.com/p/f5d14df8c117) |
-| Tue, 09 Sep 2025 10:57:18 GMT | Hack The Box : Bashed | r03n | [Read More](https://medium.com/p/2bd2fd0eb99a) |
-| Tue, 09 Sep 2025 10:54:49 GMT | Smart Alignment, Stronger Projects: The Power of Requirements Management Software | Kualitee | [Read More](https://medium.com/p/fc21b8756061) |
-| Tue, 09 Sep 2025 10:53:52 GMT | Python GUI Toolkits & Frameworks: How to Pick What Suits Your Needs | Bhavesh Rajpurohit | [Read More](https://medium.com/p/46418105fdd7) |
-| Tue, 09 Sep 2025 10:51:58 GMT | AI vs AI Security Battles: How defenders can use AI against AI-powered cybercriminals | Ambala IT | [Read More](https://medium.com/p/7ee2af8be4ff) |
-| Tue, 09 Sep 2025 10:51:49 GMT | Supply Chain Attacks: The Hidden Cost Nobody Talks About | Ajay Monga | [Read More](https://medium.com/p/d5ea31a0297f) |
