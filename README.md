@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 20:18:29 GMT | Kritik Ağ Portları: Siber Güvenlik Açısından Bilmeniz Gereken 25 Port | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/90bc71be6903) |
+| Tue, 09 Sep 2025 20:16:15 GMT | PoC: Unauthenticated Remote Code Execution in SSH (Erlang/OTP) | Toshith | [Read More](https://medium.com/p/8e41c4b453eb) |
+| Tue, 09 Sep 2025 20:16:11 GMT | 7 Best Practices to Prevent Vulnerabilities When You Upload Files on a Website | Idera Dev Tools | [Read More](https://medium.com/p/4814793ab077) |
+| Tue, 09 Sep 2025 20:14:51 GMT | Whats Your Name? writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/2ee7ecd8b4c2) |
+| Tue, 09 Sep 2025 20:01:00 GMT | HexStrike and the Next Generation of AI-Powered Exploits | Akshay Chauhan | [Read More](https://medium.com/p/c4d4f22fcd1e) |
+| Tue, 09 Sep 2025 19:54:12 GMT | Bilkent Physical Security System as Cyber Defence Center Analogy | Onurcan Genç | [Read More](https://medium.com/p/7c96d073df1e) |
+| Tue, 09 Sep 2025 19:52:14 GMT | How Hospitality Brands Can Simplify PCI DSS 6.4.3 and 11.6.1 Compliance with Feroot PaymentGuard AI | Feroot Security | [Read More](https://medium.com/p/a5e462d9c5b1) |
+| Tue, 09 Sep 2025 19:51:26 GMT | Hack the Box Digital Forensics | Luke | [Read More](https://medium.com/p/3062f4d40aa8) |
+| Tue, 09 Sep 2025 19:49:22 GMT | MOI-CTF: dash rush writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/13cafb958bc1) |
+| Tue, 09 Sep 2025 19:38:30 GMT | kioptrix level 1 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/c26e71cd2b7f) |
+| Tue, 09 Sep 2025 19:28:55 GMT | Watch-only wallet scams: when untouchable balances are used to deceive | 1inch | [Read More](https://medium.com/p/1abd707d3f4c) |
 | Tue, 09 Sep 2025 19:24:53 GMT | The Last Call | O. J. Okpabi | [Read More](https://medium.com/p/395452f169ae) |
 | Tue, 09 Sep 2025 19:21:38 GMT | CRA vs. Existing Frameworks: ISO 27001, NIS2, and GDPR — Making Sense of the Compliance Puzzle | Cyberkech | [Read More](https://medium.com/p/ffb5f10738b4) |
 | Tue, 09 Sep 2025 19:14:13 GMT | The Linux Process Journey — arpd (Address Resolution Protocol Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bbe313dd3258) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 14:43:27 GMT | I Watched My Own Accounts Disappear. | Shahzaib | [Read More](https://medium.com/p/7a0198cb35ed) |
 | Tue, 09 Sep 2025 14:39:00 GMT | Cracking the Code: Hashing Basics on TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/9816bdceaec8) |
 | Tue, 09 Sep 2025 14:33:55 GMT | Don’t Let Your Identity Be a Security Risk: An Introduction to IPSIE | Kunal Sinha | [Read More](https://medium.com/p/5a8bbced99bd) |
-| Tue, 09 Sep 2025 14:33:15 GMT | The Silent Cloud Heist: How Exposed .env Files Invited Attackers Into Millions of AWS Environments | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/60e855997439) |
-| Tue, 09 Sep 2025 14:32:56 GMT | CloudSEK CTF Writeup 2025 | Niraj Kumar Mahto | [Read More](https://medium.com/p/1dd69d49b8f9) |
-| Tue, 09 Sep 2025 14:31:43 GMT | How to Program a Linear Garage Door Remote: Easy Setup Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/74efb7457b90) |
-| Tue, 09 Sep 2025 14:27:36 GMT | How to Erase Garage Door Opener Settings: Fast Tips for a Fresh Start | Up & Down Garage Door Services | [Read More](https://medium.com/p/d6a832b4de72) |
-| Tue, 09 Sep 2025 14:26:09 GMT | How Apple Ended the Zero-Day Exploit Threat | Keepnet Labs | [Read More](https://medium.com/p/476ab489ad71) |
-| Tue, 09 Sep 2025 14:19:11 GMT | THE FUTURE I SEE IN DROSERA NETWORK : BUILDING ETHEREUM’S IMMUNE SYSTEM | Aniekpeno Godwin | [Read More](https://medium.com/p/200e793dedf3) |
-| Tue, 09 Sep 2025 14:18:38 GMT | How Hackers Exploit AI Tools Like ChatGPT: What You Need to Know | Very Lazy Tech | [Read More](https://medium.com/p/eb728f9cf907) |
-| Tue, 09 Sep 2025 14:12:11 GMT | The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe | Scofield O. Idehen | [Read More](https://medium.com/p/43c879f18f4b) |
-| Tue, 09 Sep 2025 14:09:54 GMT | Largest NPM Compromise in History: Supply Chain Attack | Dhanush N | [Read More](https://medium.com/p/908c343ca1a4) |
-| Tue, 09 Sep 2025 14:05:38 GMT | A Beginner’s Tutorial: K3s on Ubuntu 24.04 for Devs and Home Labs | Milaharris | [Read More](https://medium.com/p/8cbc68dd184c) |
-| Tue, 09 Sep 2025 14:02:56 GMT | What Are VASPs and How Crypto Investigators Use Them | Jordan J. Solomon | [Read More](https://medium.com/p/05246810bb66) |
