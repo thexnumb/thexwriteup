@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 05:30:28 GMT | Mobile Market Report 2025: Complete Guide to Market Shifts | Sophia Bennett | [Read More](https://medium.com/p/93bb8d60072a) |
+| Tue, 09 Sep 2025 05:26:30 GMT | Why You Should Not Use $db->quote() with sprintf() in PostgreSQL (PDO) | nowheretohide | [Read More](https://medium.com/p/c5fe9902cba2) |
+| Tue, 09 Sep 2025 05:25:43 GMT | Enterprise Risk Management: Guide to Risk and Resilience | Samyukta Roy | [Read More](https://medium.com/p/a7c1d12ee322) |
+| Tue, 09 Sep 2025 05:25:41 GMT | How DevSecOps is Transforming Application Security | Abida Adra | [Read More](https://medium.com/p/13b5fcc6b930) |
+| Tue, 09 Sep 2025 05:18:52 GMT | Hackers Target NPM Packages Affecting Billions of Downloads | Sushila Devi | [Read More](https://medium.com/p/df311ab74b24) |
+| Tue, 09 Sep 2025 05:17:52 GMT | The AI Agent Protocol Guide for Cybersecurity Leaders | Amrik Singh Hanjra | [Read More](https://medium.com/p/f8998f246ff2) |
 | Tue, 09 Sep 2025 05:14:40 GMT | 13. My First Private Program Experience (and Mistakes I Made) | Abhijeet kumawat | [Read More](https://medium.com/p/a5d8d6b325a7) |
+| Tue, 09 Sep 2025 05:13:40 GMT | Improve Web Privacy in Android Apps with Ephemeral Custom Tabs | Surendar Dharavath | [Read More](https://medium.com/p/79732b0a9b5b) |
 | Tue, 09 Sep 2025 05:13:10 GMT | The Quality Revolution: How AI-Native Agile Delivers Superior Security, Compliance, and Code… | Ivo Titscher | [Read More](https://medium.com/p/53e7d1cffe4c) |
 | Tue, 09 Sep 2025 05:13:03 GMT | Window Object Subdomain Recon Tip | AbhirupKonwar | [Read More](https://medium.com/p/cf74d746ca59) |
+| Tue, 09 Sep 2025 05:12:22 GMT | How I Discovered a Public API Data Exposure on India’s Government Website (And Got It Fixed) | Uday | [Read More](https://medium.com/p/d6d4989d486f) |
 | Tue, 09 Sep 2025 05:05:18 GMT | WIPRO, TCS, Capgemini Hexaware Technologies – Senior Java Backend Developer Interview Questions | Coding Ninja | [Read More](https://medium.com/p/c0d9c659e3a3) |
 | Tue, 09 Sep 2025 05:04:46 GMT | XSS in Google IDX Workstation → RCE! $22,500 Bounty Earned | Aditya Sunny | [Read More](https://medium.com/p/2d09f0176869) |
 | Tue, 09 Sep 2025 05:01:12 GMT | Career Growth Resources for Tech Professionals - HappyTechies | Pravallikakpd | [Read More](https://medium.com/p/97f32dc1f929) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 21:35:07 GMT | TryHackMe - Content Security Policy - WriteUp | Axoloth | [Read More](https://medium.com/p/fcaf0e409fc0) |
 | Mon, 08 Sep 2025 21:29:16 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/c2af8587fdd7) |
 | Mon, 08 Sep 2025 21:27:23 GMT | Don’t Miss the Ground Floor: | Jocephus | [Read More](https://medium.com/p/dbd1912455cb) |
-| Mon, 08 Sep 2025 21:26:47 GMT | The Paradox of Accessible Information | Taulan Zauzanov | [Read More](https://medium.com/p/fb9fad2a650b) |
-| Mon, 08 Sep 2025 21:25:53 GMT | API8:2023 — Security Misconfiguration: Yanlış Yapılandırmalar API Güvenliğini Nasıl Tehlikeye… | Apifort | [Read More](https://medium.com/p/3f743749daad) |
-| Mon, 08 Sep 2025 21:12:45 GMT | PG Practice — Levram (Linux) | Lepton | [Read More](https://medium.com/p/550ddf41c414) |
-| Mon, 08 Sep 2025 21:12:34 GMT | PG Practice — AuthBy (Windows) | Lepton | [Read More](https://medium.com/p/537ea99fa136) |
-| Mon, 08 Sep 2025 21:06:12 GMT | EYCC 2025 — Forensics Challenges | Sama | [Read More](https://medium.com/p/bc43c6918a3a) |
-| Mon, 08 Sep 2025 21:02:15 GMT | Protect Your Assets with Professional Armed Security Guards in California | Salum Security | [Read More](https://medium.com/p/99e2e711d90c) |
-| Mon, 08 Sep 2025 20:55:09 GMT | Wireshark: The Basics — Wireshark —  Tryhackme Walkthrough | Dang3rXgh0st | [Read More](https://medium.com/p/2f5497b14060) |
-| Mon, 08 Sep 2025 20:51:28 GMT | Credential Fatigue: Why Passwords Are Still the Weakest Link | Akshay Chauhan | [Read More](https://medium.com/p/f7456b94ce66) |
