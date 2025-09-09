@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 02:48:39 GMT | Ghost in Your Supply Chain: Unpacking Cybersecurity Vulnerabilities in Software Supply Chain… | CyCraft Technology Corp | [Read More](https://medium.com/p/19a3950a0536) |
+| Tue, 09 Sep 2025 02:43:44 GMT | Deploying EDR Agents to 5,000 Endpoints Without Losing Your Mind | Paritosh | [Read More](https://medium.com/p/e8a655e67320) |
+| Tue, 09 Sep 2025 02:32:33 GMT | The Power and the Protocol: Securing Ethiopia’s Renaissance on the Nile | Abebebe Diro (PhD) | [Read More](https://medium.com/p/48dd3439a3ea) |
+| Tue, 09 Sep 2025 02:32:27 GMT | [EN] Exploiting CCTV: RTSP Authentication Digest | Pagar Alam | [Read More](https://medium.com/p/971569d1f201) |
+| Tue, 09 Sep 2025 02:30:10 GMT | Patroni ETCD Installation Guide for WSL (Ubuntu 24.04) | Rio Wibowo | [Read More](https://medium.com/p/535c03bef63b) |
+| Tue, 09 Sep 2025 02:28:54 GMT | Merancang Arsitektur Aplikasi Vidlytics | Akbar Indra Saputra | [Read More](https://medium.com/p/d09fd2dc9b24) |
+| Tue, 09 Sep 2025 02:26:38 GMT | SQL for Bug Bounty Hunters 2.0 | Swetha | [Read More](https://medium.com/p/f7e136c0e5c9) |
+| Tue, 09 Sep 2025 02:25:12 GMT | Why Vulnerability Feels Dangerous But Is Still Our Superpower | Pearls | [Read More](https://medium.com/p/5f4faad669a6) |
+| Tue, 09 Sep 2025 01:58:38 GMT | Hack the Box: Dog HTB Lab Walkthrough Guide | Vedant Bhalerao | [Read More](https://medium.com/p/b603fb68204c) |
+| Tue, 09 Sep 2025 01:41:24 GMT | Scaling Smart Retail — One Leap, Hop, and Wingbeat at a Time | NEXCOM 新漢 | [Read More](https://medium.com/p/969aa94d927d) |
 | Tue, 09 Sep 2025 01:32:45 GMT | [Dia 02] Exploit CVE-2017–9805 Struts S2–052 — REST Plugin XStream RCE — Walkthrough | Luan Nutels - Volk | [Read More](https://medium.com/p/12bbfba1a526) |
+| Tue, 09 Sep 2025 01:31:40 GMT | Post-Quantum Kyber: Lock Down AI APIs Now | Thinking Loop | [Read More](https://medium.com/p/43e03dc734d0) |
 | Tue, 09 Sep 2025 01:26:09 GMT | Web Cache Poisoning via Fat GET Requests: Exploiting Cache Key Flaws | Bash Overflow | [Read More](https://medium.com/p/37e8d5030a2d) |
 | Tue, 09 Sep 2025 01:11:51 GMT | The Real Reasons Developed Countries Provide Health-Related Aid | Emily Li | [Read More](https://medium.com/p/dbd7ead9081c) |
 | Tue, 09 Sep 2025 01:09:05 GMT | Reliable Security Camera Repairs: Ensuring Continuous Protection | Osamamustafa | [Read More](https://medium.com/p/67527e0fb8e3) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 19:00:12 GMT | Momentum1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c770f8848665) |
 | Mon, 08 Sep 2025 18:55:30 GMT | What I Learned from Mining Cybersecurity Incident Data (2024): A Practical Data Science Journey | Franzkingstein | [Read More](https://medium.com/p/404760fe96ca) |
 | Mon, 08 Sep 2025 18:51:47 GMT | The Hidden Threat Every Digital Entrepreneur and Everyday People Need to Worry About (And How to… | Pitt Tech | [Read More](https://medium.com/p/aacd9ca4ab54) |
-| Mon, 08 Sep 2025 18:48:45 GMT | Momentum2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/af4c114c9de3) |
-| Mon, 08 Sep 2025 18:47:18 GMT | Clickjacking: The Invisible Threat Hiding in Plain Sight | pratham verma | [Read More](https://medium.com/p/bb9e18a014c6) |
-| Mon, 08 Sep 2025 18:45:41 GMT | Locking Down the Smart World: Simple IoT Security Tips | Kavinda Mihiran | [Read More](https://medium.com/p/bb860890cd12) |
-| Mon, 08 Sep 2025 18:44:18 GMT | IT-Grundschutz++ vs Kompendium: BSI Modernisierung komplett erklärt | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/ec49bbc56fb9) |
-| Mon, 08 Sep 2025 18:43:31 GMT | The Linux Security Journey — Reset Attack Mitigation | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/aa704a09a706) |
-| Mon, 08 Sep 2025 18:42:06 GMT | Analisador de Dependências na sua CLI Dev: Conheça a Vulnify | giozadi | [Read More](https://medium.com/p/ffae9e1e3730) |
-| Mon, 08 Sep 2025 18:41:39 GMT | Structural Battery Composites | Lazarin Kroni | [Read More](https://medium.com/p/483612fa1136) |
-| Mon, 08 Sep 2025 18:37:18 GMT | Como Escanear Seu Primeiro Repositório Python com Vulnify CLI | giozadi | [Read More](https://medium.com/p/2022a6c79c93) |
-| Mon, 08 Sep 2025 18:36:48 GMT | Why Kali Linux Might NOT Be Your Pentesting OS | Pavel Slesinger | [Read More](https://medium.com/p/ca5608fe75a1) |
-| Mon, 08 Sep 2025 18:36:37 GMT | The Psychology Behind 85% of Cyber Breaches: A Predictive Framework for Financial Services | Giuseppe Canale | [Read More](https://medium.com/p/451c07c4d4e0) |
-| Mon, 08 Sep 2025 18:35:01 GMT | Uncovering Artificial Intelligence: Its Significance for Our Future | NUR MOHAMMAD | [Read More](https://medium.com/p/5053f02324db) |
