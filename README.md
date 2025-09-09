@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 21:28:36 GMT | The Future I See With Drosera Network | Airdrop_dave | [Read More](https://medium.com/p/c9b7727e643c) |
+| Tue, 09 Sep 2025 21:23:35 GMT | From Monoliths to Microservices: Tracing the Evolution of Backend Software Development | Emmanuel Bentil | [Read More](https://medium.com/p/ea6be393c765) |
+| Tue, 09 Sep 2025 21:22:32 GMT | My eWPTXv3 Exam Review | Qais Hammad | [Read More](https://medium.com/p/098ee2a5223c) |
+| Tue, 09 Sep 2025 21:22:19 GMT | From Hardcoded Couchbase Passwords to Auto-Rotating Credentials in Node.js | Raymon Epping | [Read More](https://medium.com/p/dcf75eddc1d8) |
+| Tue, 09 Sep 2025 21:22:07 GMT | Dr. Roman Yampolskiy: The Future of Jobs and Humanity in the Age of Superintelligent AI | Janis Amanda Navedo | [Read More](https://medium.com/p/151edb76e6c3) |
+| Tue, 09 Sep 2025 21:18:32 GMT | Phishing in 2024: Why It’s Still One of the Costliest Cyber Threats | OxErvin | [Read More](https://medium.com/p/d5d1573266cd) |
+| Tue, 09 Sep 2025 21:15:46 GMT | TuesdayTool 34 — OSINT — Industries for Social Media and Web Monitoring | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/280a6c8503ea) |
 | Tue, 09 Sep 2025 21:14:12 GMT | Kioptrix _l Writeup — Apache mod_ssl Exploitation (OpenFuckV2) | Mahmoudelshorpagy | [Read More](https://medium.com/p/ce5efcb893dd) |
 | Tue, 09 Sep 2025 21:11:39 GMT | A Guide to Passwordless Login with Flutter Passkey Service | Tri Dev Dhm | [Read More](https://medium.com/p/b9b0cbd3e4d3) |
+| Tue, 09 Sep 2025 21:09:47 GMT | The “Half-Off Bill” Scammer Just Took My Rent Money | Jeff Murdock | [Read More](https://medium.com/p/09b65f2c1d62) |
 | Tue, 09 Sep 2025 21:07:42 GMT | Beyond the Grind: The Cybersecurity Learning Hack That’s Not What You Think | Mister_dump | [Read More](https://medium.com/p/3a0254b0023f) |
 | Tue, 09 Sep 2025 20:56:23 GMT | The Supply Chain Security Crisis: How 2025 Became the Year of Platform Compromises | Michael Rico | [Read More](https://medium.com/p/7dede5cad25e) |
 | Tue, 09 Sep 2025 20:52:42 GMT | زنجان گیلان مرودشت | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/265132d7af94) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 15:59:44 GMT | OpenAI is Building a LinkedIn Killer: What This Means for Your Career in 2026 | Tech With Curly Girl | [Read More](https://medium.com/p/5b6a55df8958) |
 | Tue, 09 Sep 2025 15:55:25 GMT | Document Security: 6 Risks of Using Shared Drives and How to Avoid Them | PERICENT | [Read More](https://medium.com/p/ca2064df59d6) |
 | Tue, 09 Sep 2025 15:51:12 GMT | The Bug Bounty Hunter Begins | Agentic Monarch | [Read More](https://medium.com/p/916ea2eb3f4a) |
-| Tue, 09 Sep 2025 15:44:02 GMT | Announcing My Next Challenge: A 200-Day Cybersecurity Series | Aj | [Read More](https://medium.com/p/dc95cefb6c53) |
-| Tue, 09 Sep 2025 15:40:59 GMT | EMBER2024: A New Benchmark for Holistic Malware Classification | Chris Zhang | [Read More](https://medium.com/p/62dcb260b47a) |
-| Tue, 09 Sep 2025 15:35:52 GMT | Cyber Attack on City of St. Paul Leads to Shutdown | Julio Arredondo | [Read More](https://medium.com/p/93db6757f5d0) |
-| Tue, 09 Sep 2025 15:35:41 GMT | Stealer Logs in 2025: Find Exposed Employee Logins for Your Domain in 2 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/498ce4850d64) |
-| Tue, 09 Sep 2025 15:32:39 GMT | DNS Recon: The Silent Cartographer of Your Network | KeyboardSamurai | [Read More](https://medium.com/p/07a5d92d524f) |
-| Tue, 09 Sep 2025 15:32:29 GMT | Bunni, Numa, Woo X: $22.7M Lost to Rounding Bugs, Forced Liquidations, and Malware | Olympix | [Read More](https://medium.com/p/cccc560e2a91) |
-| Tue, 09 Sep 2025 15:30:54 GMT | In today’s digital world, relying on a single simple password – or worse, reusing the same one… | Cordula Boeck | [Read More](https://medium.com/p/cf0ee22d7470) |
-| Tue, 09 Sep 2025 15:30:41 GMT | NanoCherryCTF Write-ups TryHackme: | MouhibMahadbi | [Read More](https://medium.com/p/ae4123bc936e) |
