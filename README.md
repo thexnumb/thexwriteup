@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 10:38:21 GMT | Digital Forensics : Recover Deleted Files Using Autopsy | Arrhenius Paelongan | [Read More](https://medium.com/p/270e1d0232d5) |
+| Tue, 09 Sep 2025 10:30:45 GMT | What if your elephant thinks it is bug? | Unicorn Developer | [Read More](https://medium.com/p/3364e074532c) |
+| Tue, 09 Sep 2025 10:25:07 GMT | woodtspl loan customer care helpline number☎️(7294161837)@!!@+7294.16.1837// Call now | Hira Lal Singh | [Read More](https://medium.com/p/659ae4528417) |
+| Tue, 09 Sep 2025 10:24:48 GMT | The Perceptive Dog | Melvin Dsouza | [Read More](https://medium.com/p/8fde55bdc9bf) |
+| Tue, 09 Sep 2025 10:23:33 GMT | What is Involved in an ISO 27001 Implementation | Digital Sqcindia | [Read More](https://medium.com/p/02ef5836a514) |
+| Tue, 09 Sep 2025 10:21:47 GMT | Windows Defender Hijacked: New Symlink Technique Bypasses Native Protections | gm0 | [Read More](https://medium.com/p/fcf018e9b3a8) |
+| Tue, 09 Sep 2025 10:19:47 GMT | Regardless of the advances in technology and development that may arise, | PARVIN NAHAR | [Read More](https://medium.com/p/599003fe69fc) |
+| Tue, 09 Sep 2025 10:18:16 GMT | The Borrowed Voice | O. J. Okpabi | [Read More](https://medium.com/p/8129af06f207) |
+| Tue, 09 Sep 2025 10:17:48 GMT | Top Cryptos to Invest for Maximum Growth: A Marketing & AI-Driven Perspective | Ombir Sharma | [Read More](https://medium.com/p/2b5234a953b9) |
+| Tue, 09 Sep 2025 10:16:11 GMT | Best Ethical Hacking Institute in Delhi — Your Path to Becoming a Cyber Expert | Nitin Singh | [Read More](https://medium.com/p/2559bed59651) |
+| Tue, 09 Sep 2025 10:14:01 GMT | The Psychology of Listings: Why Users Trust Some Directories More Than Others | aDirectory | [Read More](https://medium.com/p/d31ac32bc3b1) |
 | Tue, 09 Sep 2025 10:07:36 GMT | Kali GPT: The AI Assistant That’s Revolutionizing Pentesting on Kali Linux | Inayat Hussain | [Read More](https://medium.com/p/a47cd2e9685c) |
 | Tue, 09 Sep 2025 10:07:21 GMT | Introducing SocialIntellax A Comprehensive OSINT & Threat Intelligence Framework
 By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
@@ -102,14 +113,3 @@ By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
 | Tue, 09 Sep 2025 06:34:44 GMT | Cybersecurity in Banking Sector: Why Financial Institutions Are Prime Targets | Qualysec | [Read More](https://medium.com/p/9b74a2fef8f6) |
 | Tue, 09 Sep 2025 06:34:22 GMT | VPNs Explained Clearly for Everyday Internet Users | Prathik Mohan | [Read More](https://medium.com/p/8a77549d7e2f) |
 | Tue, 09 Sep 2025 06:27:40 GMT | ZeroTier and the Revolution of Peer-to-Peer Networking | Niamh O'Shea | [Read More](https://medium.com/p/3c62860a7e99) |
-| Tue, 09 Sep 2025 06:26:20 GMT | Why Understanding Attackers is the Best Defense Strategy | Aj | [Read More](https://medium.com/p/6868736d5f40) |
-| Tue, 09 Sep 2025 06:25:38 GMT | SPARK Matrix™: DDoS Mitigation Solutions Innovation, Differentiation, and Vendor Positioning | Gargiben | [Read More](https://medium.com/p/9f76a7ac1af0) |
-| Tue, 09 Sep 2025 06:25:32 GMT | Ethical Hacking Course in Calicut — Secure Your Future | Muhammedafnan | [Read More](https://medium.com/p/85478b918c88) |
-| Tue, 09 Sep 2025 06:22:00 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/116b86ffd2fb) |
-| Tue, 09 Sep 2025 06:21:32 GMT | Driving Retail & E-Commerce Growth with Expert IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/33272f4c702c) |
-| Tue, 09 Sep 2025 06:14:05 GMT | Scan Less, Find More: DNS Deduplication for Large Scopes | 2s1one | [Read More](https://medium.com/p/efbe1cdf57e9) |
-| Tue, 09 Sep 2025 06:12:42 GMT | Why Choosing the Best Managed IT Services in India Saves Cost and Time | Juarait Digital | [Read More](https://medium.com/p/fb6e426972b7) |
-| Tue, 09 Sep 2025 06:07:16 GMT | The npm Mega-Hack: 18 Popular Packages Poisoned — What Happened, What Broke, and What You Should… | Aaron | [Read More](https://medium.com/p/852486e78f06) |
-| Tue, 09 Sep 2025 05:55:12 GMT | Beyond Sandboxes: Layered Security for AI Agent Infrastructure | Dave Patten | [Read More](https://medium.com/p/e9d25c8235c8) |
-| Tue, 09 Sep 2025 05:54:28 GMT | Cybersecurity in the UAE: Top Threats Businesses Face in 2025 | Reghu Mohandas | [Read More](https://medium.com/p/5ddf805e4249) |
-| Tue, 09 Sep 2025 05:49:15 GMT | KillSec: From Hacktivism to RaaS — My Perspective on an Alarming Evolution | Siddhant Mishra | [Read More](https://medium.com/p/dc3425622633) |
