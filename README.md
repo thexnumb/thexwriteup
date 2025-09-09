@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 12:27:48 GMT | Google’s Embedding Gemma: A Game-Changer for On-Device AI | Roshni Savaliya | [Read More](https://medium.com/p/0e2dc7818e2d) |
+| Tue, 09 Sep 2025 12:25:48 GMT | Bengaluru Man Loses ₹5 Lakh in a Fake RTO Phishing Scam | Bhartikarnatak | [Read More](https://medium.com/p/e2c9b7798976) |
+| Tue, 09 Sep 2025 12:25:32 GMT | Cybersecurity Basics for Businesses: My Handbook for 2025 | Fiona Campbell | [Read More](https://medium.com/p/6e701df71109) |
+| Tue, 09 Sep 2025 12:23:45 GMT | Copilot Agents Security | Meron | [Read More](https://medium.com/p/b298fc17fc9c) |
+| Tue, 09 Sep 2025 12:22:51 GMT | Cracking Gandalf Level 7: The Final Test | Kaylen Stuart | [Read More](https://medium.com/p/af38098a2add) |
+| Tue, 09 Sep 2025 12:15:34 GMT | The Dawn of AI Hacking: How GenAI Is Powering Both Defense and Cyber Attack Modernization | Webelight Solutions Pvt. Ltd. | [Read More](https://medium.com/p/3454dc5668ff) |
+| Tue, 09 Sep 2025 12:13:24 GMT | TryHackMe Basic Pentesting CTF Çözümü | Sadıkcan Tuluk | [Read More](https://medium.com/p/7a0a2b791a29) |
+| Tue, 09 Sep 2025 12:10:30 GMT | The 2025 NPM Supply Chain Attack: Protecting Code and Web3 Wallets | Vidhi patel | [Read More](https://medium.com/p/422890d9390f) |
+| Tue, 09 Sep 2025 12:04:00 GMT | Quishing: QR Kod Dolandırıcılığıyla Tehlikeli Saldırı Vektörü | fscakmak | [Read More](https://medium.com/p/c630766b700f) |
+| Tue, 09 Sep 2025 12:03:49 GMT | How I lost $996,000 To A Web3 Scam | Scofield O. Idehen | [Read More](https://medium.com/p/69668a9fd21c) |
+| Tue, 09 Sep 2025 12:03:16 GMT | Fortifying AI: Understanding Prompt Attacks and Protections | Ethan DeMott | [Read More](https://medium.com/p/9e7ecd46c064) |
+| Tue, 09 Sep 2025 11:59:18 GMT | The $50 Transaction That Changed Everything | Rishisec | [Read More](https://medium.com/p/63d4b66b8f39) |
+| Tue, 09 Sep 2025 11:59:06 GMT | Belajar Cybersecurity di Indonesia: Pentingnya Praktik Langsung dengan Capture The Flag | Linuxenic Corp | [Read More](https://medium.com/p/08bc0ad50447) |
+| Tue, 09 Sep 2025 11:53:25 GMT | Saudi Aramco and Hitech Fence Strengthening Saudi Arabia’s Infrastructure and Security | Hitechfence | [Read More](https://medium.com/p/09a6a5198646) |
+| Tue, 09 Sep 2025 11:47:44 GMT | ️ OWASP Top 10: Practical Examples for Web Security | Esra Kayhan | [Read More](https://medium.com/p/b9a2ce4d087a) |
+| Tue, 09 Sep 2025 11:45:27 GMT | Why Penetration Testing Isn’t Just About Finding Flaws | Aj | [Read More](https://medium.com/p/7fe1c3e8de27) |
+| Tue, 09 Sep 2025 11:45:09 GMT | Hack The Box : Grafana | r03n | [Read More](https://medium.com/p/cf05e0bf7177) |
+| Tue, 09 Sep 2025 11:42:28 GMT | Beating the Heart of Modern Crypto Asset Flows with .NET Core | yiğit çevik | [Read More](https://medium.com/p/6468b3715170) |
+| Tue, 09 Sep 2025 11:37:14 GMT | Tenant-to-Tenant Migration for Business Restructuring & Spin-Offs | Arun Jyothi | [Read More](https://medium.com/p/83fbc5def368) |
+| Tue, 09 Sep 2025 11:37:07 GMT | External Secrets in n8n: A Complete Guide to Secure Credential Management | Sathish Thiyagarajan | [Read More](https://medium.com/p/bba3b59b0994) |
+| Tue, 09 Sep 2025 11:36:48 GMT | Best Integrated Lease Management Software in India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/5d7ad24f0de3) |
+| Tue, 09 Sep 2025 11:31:20 GMT | A Moonshot for Reversing the Ecological Crises — Phase 3 | Erik Kvam | [Read More](https://medium.com/p/90179cec17ee) |
 | Tue, 09 Sep 2025 11:30:06 GMT | Fraud Moves in Minutes. Can AI Keep Pace? | Tina Sharma | [Read More](https://medium.com/p/833fc5cce401) |
 | Tue, 09 Sep 2025 11:28:15 GMT | .NET Core ile Modern Kripto Varlık Akışlarının Kalbini Atmak | yiğit çevik | [Read More](https://medium.com/p/6a7b849460ae) |
 | Tue, 09 Sep 2025 11:24:20 GMT | From PNPT to OSCP: My Next Big Step | Manzjson | [Read More](https://medium.com/p/521d65cde403) |
@@ -91,25 +113,3 @@ By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
 | Tue, 09 Sep 2025 08:17:24 GMT | Top-Rated Digital Marketing Agency in Dwarka for Business Growth | Touchstone Infotech | [Read More](https://medium.com/p/b92ec7637be8) |
 | Tue, 09 Sep 2025 08:17:15 GMT | Social Engineering for Defense: How to Train Your Employees to Be the First Line of Defense | Shahzaib | [Read More](https://medium.com/p/fa3ca2998e77) |
 | Tue, 09 Sep 2025 08:09:13 GMT | Latest Smartphone Launches 2025 — Specs, Prices & Trends in India | info@flagnews.in | [Read More](https://medium.com/p/d7b4804855fb) |
-| Tue, 09 Sep 2025 08:09:01 GMT | Convenience vs. Privacy: Is I❤️PDF Really Safe for Your Sensitive Documents? | Rohan Dalvi | [Read More](https://medium.com/p/a7810e0f61e5) |
-| Tue, 09 Sep 2025 08:07:29 GMT | Top 10 AWS Security Misconfigurations and How to Avoid Them | Davebhargavi | [Read More](https://medium.com/p/774fdf3b77c5) |
-| Tue, 09 Sep 2025 08:03:50 GMT | Keep Your SaaS Safe | KnubiSoft | [Read More](https://medium.com/p/72296929de66) |
-| Tue, 09 Sep 2025 08:02:33 GMT | From Chaos to Connectivity: My SOC Lab Rebuild | Adaku Okafor | [Read More](https://medium.com/p/7bbea2e4a0ef) |
-| Tue, 09 Sep 2025 08:01:52 GMT | The Hidden War: How AI Helps Unmask Cybercriminals | Guillaume GUERARD | [Read More](https://medium.com/p/3f3e6b547301) |
-| Tue, 09 Sep 2025 08:01:48 GMT | The Firewall Mistakes That’ll Get You Fired (And How to Avoid Them) | MayhemCode | [Read More](https://medium.com/p/f9053eaad6c7) |
-| Tue, 09 Sep 2025 08:01:48 GMT | Air quotes | Abad Grueso | [Read More](https://medium.com/p/296ada7315e2) |
-| Tue, 09 Sep 2025 08:01:12 GMT | How Can Generative AI Be Used in Cybersecurity | Sekurno | [Read More](https://medium.com/p/d314ae7781a1) |
-| Tue, 09 Sep 2025 07:59:35 GMT | Tech Stack Identification: The Secret Weapon Every Penetration Tester Needs | Vivek Bhatt | [Read More](https://medium.com/p/dfc1a438c260) |
-| Tue, 09 Sep 2025 07:57:01 GMT | The Role of AI in Cybersecurity (Both Good and Bad) | Sukhveer Singh | [Read More](https://medium.com/p/65a6c0d0165a) |
-| Tue, 09 Sep 2025 07:54:10 GMT | Guarding Australia: The Hidden Costs of Cutting Corners on Security | Danny Hines | [Read More](https://medium.com/p/58f8946e9b6d) |
-| Tue, 09 Sep 2025 07:53:33 GMT | Cyber Risk Quantification: Lessons from the Qantas Cyberattack | Zeron | [Read More](https://medium.com/p/7847d001c855) |
-| Tue, 09 Sep 2025 07:52:35 GMT | Surviving the IT Job Market in Morocco: a journey that I never expected — Part 1 | MeerKat | [Read More](https://medium.com/p/39527fdd9195) |
-| Tue, 09 Sep 2025 07:51:08 GMT | Protecting Your Assets in DeFi: A Practical Security Guide | Gürkan Ezerçe | [Read More](https://medium.com/p/1492dabde193) |
-| Tue, 09 Sep 2025 07:49:33 GMT | 6 Key Reasons to Choose Informatica Services in 2025 | Cloud-rank | [Read More](https://medium.com/p/cbc6a80d29f7) |
-| Tue, 09 Sep 2025 07:48:42 GMT | Maximum Security with Road Blocker | Karen Sistem Savunma | [Read More](https://medium.com/p/811a75d00b75) |
-| Tue, 09 Sep 2025 07:48:08 GMT | How One Phishing Email Injected Crypto-Stealing Malware into Billions of NPM Downloads | Sohan Kanna D | [Read More](https://medium.com/p/0aa0ecd2ae56) |
-| Tue, 09 Sep 2025 07:47:46 GMT | BugDB v2 | Dasmanish | [Read More](https://medium.com/p/7f2b9d89869d) |
-| Tue, 09 Sep 2025 07:36:01 GMT | Kenali Ciri-Ciri Pesan Penipuan & Berbahaya ! | SIM RZ | [Read More](https://medium.com/p/cf1340fa7c91) |
-| Tue, 09 Sep 2025 07:32:08 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/e7f12dce0253) |
-| Tue, 09 Sep 2025 07:22:35 GMT | Is Your ChatGPT Chat Google Famous? (You’ll Want to Check) | Mohit Aggarwal | [Read More](https://medium.com/p/01b30fc7601f) |
-| Tue, 09 Sep 2025 07:21:46 GMT | The Snowflake Breach Exposed AI’s Limits: Are You Ready to Become an AI Whisperer and Lock Down… | ZENcurity | [Read More](https://medium.com/p/35ca55b4b555) |
