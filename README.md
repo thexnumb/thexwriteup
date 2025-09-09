@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 05:14:40 GMT | 13. My First Private Program Experience (and Mistakes I Made) | Abhijeet kumawat | [Read More](https://medium.com/p/a5d8d6b325a7) |
+| Tue, 09 Sep 2025 05:13:10 GMT | The Quality Revolution: How AI-Native Agile Delivers Superior Security, Compliance, and Code… | Ivo Titscher | [Read More](https://medium.com/p/53e7d1cffe4c) |
+| Tue, 09 Sep 2025 05:13:03 GMT | Window Object Subdomain Recon Tip | AbhirupKonwar | [Read More](https://medium.com/p/cf74d746ca59) |
+| Tue, 09 Sep 2025 05:05:18 GMT | WIPRO, TCS, Capgemini Hexaware Technologies – Senior Java Backend Developer Interview Questions | Coding Ninja | [Read More](https://medium.com/p/c0d9c659e3a3) |
+| Tue, 09 Sep 2025 05:04:46 GMT | XSS in Google IDX Workstation → RCE! $22,500 Bounty Earned | Aditya Sunny | [Read More](https://medium.com/p/2d09f0176869) |
+| Tue, 09 Sep 2025 05:01:12 GMT | Career Growth Resources for Tech Professionals - HappyTechies | Pravallikakpd | [Read More](https://medium.com/p/97f32dc1f929) |
+| Tue, 09 Sep 2025 04:57:02 GMT | Mobile Market Report 2025: Latest Consumer Trends You Must Know | Aurora Green | [Read More](https://medium.com/p/c511193c8681) |
+| Tue, 09 Sep 2025 04:56:46 GMT | ShadowCaptcha: WordPress Hijacked for Malware Delivery | Ashley Dai | [Read More](https://medium.com/p/b791bd92fb92) |
+| Tue, 09 Sep 2025 04:49:22 GMT | Software Supply Chain Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4e6b1eb63655) |
+| Tue, 09 Sep 2025 04:48:22 GMT | Day 53- Understanding defense in depth in cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/58abaec53b08) |
 | Tue, 09 Sep 2025 04:37:33 GMT | How to Build an Effective Cyber Threat Intelligence Team | Dinesh | [Read More](https://medium.com/p/dc7431ee50f0) |
 | Tue, 09 Sep 2025 04:34:19 GMT | Security at Scale: Why Humans Must Evolve with AI | Omar Santos | [Read More](https://medium.com/p/981a24cdf46f) |
 | Tue, 09 Sep 2025 04:33:01 GMT | Portswigger Web Security Academy - Web Cache Deception Lab #1 | BooRuleDie | [Read More](https://medium.com/p/66d5a99e63d3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 21:02:15 GMT | Protect Your Assets with Professional Armed Security Guards in California | Salum Security | [Read More](https://medium.com/p/99e2e711d90c) |
 | Mon, 08 Sep 2025 20:55:09 GMT | Wireshark: The Basics — Wireshark —  Tryhackme Walkthrough | Dang3rXgh0st | [Read More](https://medium.com/p/2f5497b14060) |
 | Mon, 08 Sep 2025 20:51:28 GMT | Credential Fatigue: Why Passwords Are Still the Weakest Link | Akshay Chauhan | [Read More](https://medium.com/p/f7456b94ce66) |
-| Mon, 08 Sep 2025 20:38:28 GMT | Clap On Off Switch Circuit Using Arduino Praktikum IoT 3 | Muhammad Naveed Sharaheel | [Read More](https://medium.com/p/6a57e5094135) |
-| Mon, 08 Sep 2025 20:37:25 GMT | Linux Services & Daemon Exploitation | Cybersecplayground | [Read More](https://medium.com/p/e2b0ad1f05f8) |
-| Mon, 08 Sep 2025 20:35:12 GMT | SIEM LAB: Detecting Scheduled Task Abuse (T1053.005) for Persistence on Windows in Wazuh SIEM | Stevanus Banu | [Read More](https://medium.com/p/07b1bdb4db45) |
-| Mon, 08 Sep 2025 20:30:53 GMT | Academic Freedom vs. Cybersecurity: Why Universities Are Losing the Battle | Giuseppe Canale | [Read More](https://medium.com/p/0afa477bff38) |
-| Mon, 08 Sep 2025 20:29:18 GMT | The Greatest Risk to Mobile Apps? Their API’s…. | Chritzier | [Read More](https://medium.com/p/9724a791bc8a) |
-| Mon, 08 Sep 2025 20:27:34 GMT | En Popüler Portlar ve Servisler | Azra Oyku Ulukan | [Read More](https://medium.com/p/502f527686e0) |
-| Mon, 08 Sep 2025 20:26:15 GMT | The Recent NPM Supply Chain Attack: A Wake-Up Call for Developers | Umer Yousuf | [Read More](https://medium.com/p/aa8df8952d08) |
-| Mon, 08 Sep 2025 20:25:23 GMT | BUG Airdrop: Best Way to Claim BUG BUG Airdrops for Free | BUG | [Read More](https://medium.com/p/3cbb44f752df) |
-| Mon, 08 Sep 2025 20:24:02 GMT | AWS Cognito Remember Device/Device Tracking using AWS Amplify v6 Gen1 | Philip | [Read More](https://medium.com/p/40df6591e82f) |
-| Mon, 08 Sep 2025 20:22:42 GMT | Critical Infrastructure Under Siege: Why Public Safety Creates Cybersecurity Blind Spots | Giuseppe Canale | [Read More](https://medium.com/p/2c8ec8888ac9) |
