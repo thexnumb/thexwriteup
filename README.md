@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 09:20:21 GMT | The Passwordless Future : Securing and Streamlining Operations for Businesses | FlashX Cybersecurity | [Read More](https://medium.com/p/0ee5f7d3384e) |
+| Tue, 09 Sep 2025 09:17:31 GMT | Data, Information and Knowledge: The Trinity of the 21st Century | Enrico Bertan | [Read More](https://medium.com/p/2b8a2068a7bb) |
+| Tue, 09 Sep 2025 09:10:36 GMT | UK Intelligent Threat Security Market Size, Share, Trends and Forecast Report -2031 | Atharvaconsegicbusinessintelli | [Read More](https://medium.com/p/d695a95dba78) |
+| Tue, 09 Sep 2025 09:09:21 GMT | IoT Penetration Testing Guide for Business Leaders | CyberNX | [Read More](https://medium.com/p/1106fd461899) |
+| Tue, 09 Sep 2025 09:08:57 GMT | PortSwigger Lab — Access Control: URL-Based Access Control Can Be Circumvented | Siddiquimohammad | [Read More](https://medium.com/p/e29c78421ef0) |
+| Tue, 09 Sep 2025 09:06:43 GMT | Mapping Causality in Neuronal Activity: Towards a Better Understanding of Brain Networks | Tokyo University of Science | [Read More](https://medium.com/p/a2209e8127a6) |
+| Tue, 09 Sep 2025 09:00:45 GMT | Massive NPM Supply Chain Attack: npm debug and chalk packages compromised | Kristiyan Velkov | [Read More](https://medium.com/p/9c7e2cad8b17) |
+| Tue, 09 Sep 2025 08:59:34 GMT | Top AI Consulting Companies in the UAE | Saurabh Sharma | [Read More](https://medium.com/p/00daf13c488d) |
+| Tue, 09 Sep 2025 08:59:07 GMT | PGDM In Information Technology - MITSDE | MIT School of Distance Education | [Read More](https://medium.com/p/3b01e9febaa3) |
+| Tue, 09 Sep 2025 08:56:04 GMT | How $600,000 Was Stolen in 10 Minutes: Why Your Ledger Won’t Save You From This Attack | LSP - Ledger Shield Pro | [Read More](https://medium.com/p/6a66a719808b) |
+| Tue, 09 Sep 2025 08:46:18 GMT | How to Reduce Payment Tracking Safely in 2025 | MelonPpang | [Read More](https://medium.com/p/17352340b5d6) |
 | Tue, 09 Sep 2025 08:41:09 GMT | Offensive Security Intro: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/6df70164617a) |
 | Tue, 09 Sep 2025 08:39:11 GMT | 2.6 Billion Downloads, One Phishing Email: Inside the Latest NPM Supply Chain Attack | Felix Ivance Runye | [Read More](https://medium.com/p/d868dbcf6826) |
 | Tue, 09 Sep 2025 08:37:08 GMT | Vulnerability Management: A Core Pillar of Cybersecurity | Digital Defense | [Read More](https://medium.com/p/75983331ff94) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 04:37:33 GMT | How to Build an Effective Cyber Threat Intelligence Team | Dinesh | [Read More](https://medium.com/p/dc7431ee50f0) |
 | Tue, 09 Sep 2025 04:34:19 GMT | Security at Scale: Why Humans Must Evolve with AI | Omar Santos | [Read More](https://medium.com/p/981a24cdf46f) |
 | Tue, 09 Sep 2025 04:33:01 GMT | Portswigger Web Security Academy - Web Cache Deception Lab #1 | BooRuleDie | [Read More](https://medium.com/p/66d5a99e63d3) |
-| Tue, 09 Sep 2025 04:22:29 GMT | These 35 questions are the difference between ₹6 LPA and ₹20 LPA in Automation Testing interviews. | Coding Ninja | [Read More](https://medium.com/p/5501207c1d96) |
-| Tue, 09 Sep 2025 04:19:37 GMT | So, You Want to Get Into Cybersecurity? Here’s Where to Start | Matt Black | [Read More](https://medium.com/p/51f188337dd1) |
-| Tue, 09 Sep 2025 04:12:21 GMT | Why I Write as a Hacker on Medium: Protecting You Before Hackers Attack | Shahzaib | [Read More](https://medium.com/p/0d8c713700a6) |
-| Tue, 09 Sep 2025 04:10:58 GMT | T3 vs JAMstack: The Future of Full-Stack Development | Rizqi Mulki | [Read More](https://medium.com/p/673a036b3d8b) |
-| Tue, 09 Sep 2025 04:07:58 GMT | Unpacking the npm Supply Chain Attack: IOCs and Lessons Learned | Saimanish | [Read More](https://medium.com/p/a02bd7771482) |
-| Tue, 09 Sep 2025 04:06:35 GMT | Volatility ile Memory Dump Analizi | Barbaros | [Read More](https://medium.com/p/251e3de82841) |
-| Tue, 09 Sep 2025 04:05:06 GMT | CrowdStrike 2025 Threat Report: 7 Cybersecurity Trends That Changed Everything | Amrik Singh Hanjra | [Read More](https://medium.com/p/78ceaa5ba77b) |
-| Tue, 09 Sep 2025 04:00:50 GMT | T3 Stack vs Laravel: Which Gets You Hired Faster? | Rizqi Mulki | [Read More](https://medium.com/p/daea6e36c685) |
-| Tue, 09 Sep 2025 03:57:52 GMT | Google Pushes Two-Factor Authentication Into the Mainstream | Dave MacKinnon | [Read More](https://medium.com/p/3cdf4ba5d333) |
-| Tue, 09 Sep 2025 03:54:24 GMT | The Silent Storm: How Salt Typhoon Spied on 600 Organizations Unseen | Aj | [Read More](https://medium.com/p/3ee36eba9b2e) |
-| Tue, 09 Sep 2025 03:53:15 GMT | Cybersecurity 101: Locking the Digital World Like Your Home️ What is Cybersecurity? | Kruthik N Bharadwaj | [Read More](https://medium.com/p/7e089adfed8b) |
