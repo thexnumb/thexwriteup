@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 11:11:37 GMT | Secure Hosting for Charities | Jasmeet  Kaur | [Read More](https://medium.com/p/ce44a174b23d) |
+| Tue, 09 Sep 2025 11:07:40 GMT | The Growing Threat of Crypto Scams: What We Need to Know | Ambala IT | [Read More](https://medium.com/p/cb21f8432d93) |
+| Tue, 09 Sep 2025 11:01:53 GMT | TEEs zabezpieczone przez Ethereum | Phala Network PL | [Read More](https://medium.com/p/de728a6f146d) |
+| Tue, 09 Sep 2025 11:01:14 GMT | TryHackMe Writeup: Thompson | Berkay AĞGÜL | [Read More](https://medium.com/p/f5d14df8c117) |
+| Tue, 09 Sep 2025 10:57:18 GMT | Hack The Box : Bashed | r03n | [Read More](https://medium.com/p/2bd2fd0eb99a) |
+| Tue, 09 Sep 2025 10:54:49 GMT | Smart Alignment, Stronger Projects: The Power of Requirements Management Software | Kualitee | [Read More](https://medium.com/p/fc21b8756061) |
+| Tue, 09 Sep 2025 10:53:52 GMT | Python GUI Toolkits & Frameworks: How to Pick What Suits Your Needs | Bhavesh Rajpurohit | [Read More](https://medium.com/p/46418105fdd7) |
+| Tue, 09 Sep 2025 10:51:58 GMT | AI vs AI Security Battles: How defenders can use AI against AI-powered cybercriminals | Ambala IT | [Read More](https://medium.com/p/7ee2af8be4ff) |
+| Tue, 09 Sep 2025 10:51:49 GMT | Supply Chain Attacks: The Hidden Cost Nobody Talks About | Ajay Monga | [Read More](https://medium.com/p/d5ea31a0297f) |
+| Tue, 09 Sep 2025 10:48:16 GMT | KrakenKeylogger Lab - CyberDefenders | Abdulla Abdulrhem | [Read More](https://medium.com/p/b6a1137135bd) |
+| Tue, 09 Sep 2025 10:42:28 GMT | Finding the Culprit with git bisect | Remy Parzinski | [Read More](https://medium.com/p/a1b896a8fd0c) |
 | Tue, 09 Sep 2025 10:38:21 GMT | Digital Forensics : Recover Deleted Files Using Autopsy | Arrhenius Paelongan | [Read More](https://medium.com/p/270e1d0232d5) |
+| Tue, 09 Sep 2025 10:32:58 GMT | Plex Data Breach: Why Users Must Reset Passwords Immediately | Technijian | [Read More](https://medium.com/p/63891358c12c) |
+| Tue, 09 Sep 2025 10:32:05 GMT | TryHackMe — Splunk 2 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/5af95375cc0c) |
 | Tue, 09 Sep 2025 10:30:45 GMT | What if your elephant thinks it is bug? | Unicorn Developer | [Read More](https://medium.com/p/3364e074532c) |
 | Tue, 09 Sep 2025 10:25:07 GMT | woodtspl loan customer care helpline number☎️(7294161837)@!!@+7294.16.1837// Call now | Hira Lal Singh | [Read More](https://medium.com/p/659ae4528417) |
 | Tue, 09 Sep 2025 10:24:48 GMT | The Perceptive Dog | Melvin Dsouza | [Read More](https://medium.com/p/8fde55bdc9bf) |
@@ -100,16 +113,3 @@ By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
 | Tue, 09 Sep 2025 07:10:20 GMT | The Information Crisis | Roland Waller | [Read More](https://medium.com/p/79314683c219) |
 | Tue, 09 Sep 2025 07:02:28 GMT | Product Security Engineering — A tiny guide to know what’s actually done | Naveen Kumar | [Read More](https://medium.com/p/93d7878f3dc6) |
 | Tue, 09 Sep 2025 06:59:48 GMT | Console Chronicles: How Browser DevTools Unlocked a $XXXX Bounty | Iski | [Read More](https://medium.com/p/2536fe09615d) |
-| Tue, 09 Sep 2025 06:59:47 GMT | Easy DNS over TLS (DoT) Setup for pfSense: A Step-by-Step Privacy Guide | Uphar | [Read More](https://medium.com/p/5b4b251c16b8) |
-| Tue, 09 Sep 2025 06:58:12 GMT | ️ Day 2 — AWS Compute | Suyash Jain | [Read More](https://medium.com/p/9549d2c39f79) |
-| Tue, 09 Sep 2025 06:52:00 GMT | npm Supply Chain Attack: chalk, debug, and 16 More Packages Compromised | Suhailnkhan | [Read More](https://medium.com/p/e3fcac1bdcdb) |
-| Tue, 09 Sep 2025 06:49:57 GMT | Wisdom of the crowd | Martin Abramov | [Read More](https://medium.com/p/b2d953f42ed0) |
-| Tue, 09 Sep 2025 06:43:00 GMT | Top 10 Ethical Hackers in India | Manisha Chaudhary | [Read More](https://medium.com/p/b17cac6c1364) |
-| Tue, 09 Sep 2025 06:42:49 GMT | SafeLine: Open-Source Security Scanning Built for Developers | Quella | [Read More](https://medium.com/p/70d51929c043) |
-| Tue, 09 Sep 2025 06:38:27 GMT | ประจำวันอังคารที่ 9 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c631c94ef614) |
-| Tue, 09 Sep 2025 06:38:21 GMT | Post-Quantum Cryptography: Readiness Checklist for 2026 | Gsinfotechvis Pvt Ltd | [Read More](https://medium.com/p/8a3cb46e9e45) |
-| Tue, 09 Sep 2025 06:38:06 GMT | Best Reliable Cloud Managed Services Providers In India - Net Access India Limited | Gowthammathiew | [Read More](https://medium.com/p/82f925b71c4d) |
-| Tue, 09 Sep 2025 06:36:57 GMT | How a Failed Payment on a Train Platform Earned Me $400 | Hackergod00001 | [Read More](https://medium.com/p/23241d204550) |
-| Tue, 09 Sep 2025 06:34:44 GMT | Cybersecurity in Banking Sector: Why Financial Institutions Are Prime Targets | Qualysec | [Read More](https://medium.com/p/9b74a2fef8f6) |
-| Tue, 09 Sep 2025 06:34:22 GMT | VPNs Explained Clearly for Everyday Internet Users | Prathik Mohan | [Read More](https://medium.com/p/8a77549d7e2f) |
-| Tue, 09 Sep 2025 06:27:40 GMT | ZeroTier and the Revolution of Peer-to-Peer Networking | Niamh O'Shea | [Read More](https://medium.com/p/3c62860a7e99) |
