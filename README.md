@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 04:37:33 GMT | How to Build an Effective Cyber Threat Intelligence Team | Dinesh | [Read More](https://medium.com/p/dc7431ee50f0) |
+| Tue, 09 Sep 2025 04:34:19 GMT | Security at Scale: Why Humans Must Evolve with AI | Omar Santos | [Read More](https://medium.com/p/981a24cdf46f) |
+| Tue, 09 Sep 2025 04:33:01 GMT | Portswigger Web Security Academy - Web Cache Deception Lab #1 | BooRuleDie | [Read More](https://medium.com/p/66d5a99e63d3) |
+| Tue, 09 Sep 2025 04:22:29 GMT | These 35 questions are the difference between ₹6 LPA and ₹20 LPA in Automation Testing interviews. | Coding Ninja | [Read More](https://medium.com/p/5501207c1d96) |
 | Tue, 09 Sep 2025 04:19:37 GMT | So, You Want to Get Into Cybersecurity? Here’s Where to Start | Matt Black | [Read More](https://medium.com/p/51f188337dd1) |
 | Tue, 09 Sep 2025 04:12:21 GMT | Why I Write as a Hacker on Medium: Protecting You Before Hackers Attack | Shahzaib | [Read More](https://medium.com/p/0d8c713700a6) |
 | Tue, 09 Sep 2025 04:10:58 GMT | T3 vs JAMstack: The Future of Full-Stack Development | Rizqi Mulki | [Read More](https://medium.com/p/673a036b3d8b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 20:25:23 GMT | BUG Airdrop: Best Way to Claim BUG BUG Airdrops for Free | BUG | [Read More](https://medium.com/p/3cbb44f752df) |
 | Mon, 08 Sep 2025 20:24:02 GMT | AWS Cognito Remember Device/Device Tracking using AWS Amplify v6 Gen1 | Philip | [Read More](https://medium.com/p/40df6591e82f) |
 | Mon, 08 Sep 2025 20:22:42 GMT | Critical Infrastructure Under Siege: Why Public Safety Creates Cybersecurity Blind Spots | Giuseppe Canale | [Read More](https://medium.com/p/2c8ec8888ac9) |
-| Mon, 08 Sep 2025 20:18:27 GMT | SPARTA v3.1 — What’s New? | The Aerospace Corporation | [Read More](https://medium.com/p/58d6b91b1505) |
-| Mon, 08 Sep 2025 20:10:38 GMT | CVE-2025–24204: Apple macOS Entitlement Flaw Enables Memory Dump, Keychain Theft, and FairPlay… | gm0 | [Read More](https://medium.com/p/5bb9f86de19b) |
-| Mon, 08 Sep 2025 20:08:07 GMT | Cyber Security & Ethical Hacking Program—Shef Solutions LLC | Shef Solutions LLC | [Read More](https://medium.com/p/313a9f303ed2) |
-| Mon, 08 Sep 2025 19:59:32 GMT | Monday Cyber Brief — September 8 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/b844046d7c6a) |
