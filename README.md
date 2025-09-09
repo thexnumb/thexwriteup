@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 17:13:45 GMT | How to Reset a Garage Door Opener After Pulling the Red Cord: Step-by-Step Guide | 24H Garage Doors | [Read More](https://medium.com/p/44fcd88c0d59) |
+| Tue, 09 Sep 2025 17:06:47 GMT | Three Months into Writing, and Why I Keep Going | Ava Hayes | [Read More](https://medium.com/p/06b8179da44a) |
+| Tue, 09 Sep 2025 17:01:26 GMT | Leaked Credentials: The easy way | umbraXsecure | [Read More](https://medium.com/p/051fe7bf80d4) |
+| Tue, 09 Sep 2025 17:00:32 GMT | How a Client-Side CSRF Flaw Breaks a Core Defense | Imvkale | [Read More](https://medium.com/p/e427fca69102) |
+| Tue, 09 Sep 2025 17:00:28 GMT | Organising a Clickjacking Attack | Swetha | [Read More](https://medium.com/p/6f368de1567b) |
+| Tue, 09 Sep 2025 16:59:30 GMT | Xorion: Building the Blockchain of Tomorrow | Bright Mmaduabuchi | [Read More](https://medium.com/p/56acef5b078f) |
+| Tue, 09 Sep 2025 16:58:17 GMT | TryHackMe Writeup: Simple CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/f03e66c4a108) |
+| Tue, 09 Sep 2025 16:57:39 GMT | DevSecOps with Mr. Lokesh Verma — The BSides Weekly [S1E6] | Riddhikacheruku | [Read More](https://medium.com/p/5e8d1ed81c90) |
+| Tue, 09 Sep 2025 16:54:43 GMT | Ukraine Just Pulled the Plug on Russia’s Gas Pumps | Edward Harrington | [Read More](https://medium.com/p/db2161b214da) |
 | Tue, 09 Sep 2025 16:43:26 GMT | Why Cyber Strategy Matters Today: Key Issues Explained | Karl-Heinrich zu Schwarzenberg | [Read More](https://medium.com/p/dc988a81d137) |
+| Tue, 09 Sep 2025 16:39:14 GMT | The Sneakiest Phishing Trick I’ve Seen Lately — And Why Your Email Security Won’t Save You | Dean | [Read More](https://medium.com/p/6ff448d6dbdc) |
+| Tue, 09 Sep 2025 16:38:47 GMT | Towards KERI AIDs in Security Protocol Design | Michal Pietrus | [Read More](https://medium.com/p/fb0291c3cb09) |
 | Tue, 09 Sep 2025 16:34:51 GMT | Cybersecurity Tools — Selecting, Running Complex PoCs on, and Implementing | Prabhat K. Andleigh | [Read More](https://medium.com/p/5a56e198127a) |
+| Tue, 09 Sep 2025 16:33:23 GMT | Beyond the Patch: Leveraging Poisson Distribution to Transform Bug Reporting into Strategic Risk… | Patrick Lefler | [Read More](https://medium.com/p/fd67a2208335) |
+| Tue, 09 Sep 2025 16:33:02 GMT | The OSI Model Demystified: Layers, Protocols & Security Risks | Aditya Bhardwaj | [Read More](https://medium.com/p/ec01214cd192) |
 | Tue, 09 Sep 2025 16:32:19 GMT | Supply Chain Attack: How to Detect and Fix Compromised npm Packages (Step-by-Step Guide) | Eric Álvarez Chinchilla | [Read More](https://medium.com/p/bdd7b66ad905) |
 | Tue, 09 Sep 2025 16:22:30 GMT | Skipping from Pre-Seed to Series A with Dreadnode | Bryce Roberts | [Read More](https://medium.com/p/6fa30ab71c9e) |
 | Tue, 09 Sep 2025 16:21:02 GMT | HTB Vintage Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/c39008aa3e16) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 12:25:48 GMT | Bengaluru Man Loses ₹5 Lakh in a Fake RTO Phishing Scam | Bhartikarnatak | [Read More](https://medium.com/p/e2c9b7798976) |
 | Tue, 09 Sep 2025 12:25:32 GMT | Cybersecurity Basics for Businesses: My Handbook for 2025 | Fiona Campbell | [Read More](https://medium.com/p/6e701df71109) |
 | Tue, 09 Sep 2025 12:23:45 GMT | Copilot Agents Security | Meron | [Read More](https://medium.com/p/b298fc17fc9c) |
-| Tue, 09 Sep 2025 12:22:51 GMT | Cracking Gandalf Level 7: The Final Test | Kaylen Stuart | [Read More](https://medium.com/p/af38098a2add) |
-| Tue, 09 Sep 2025 12:15:34 GMT | The Dawn of AI Hacking: How GenAI Is Powering Both Defense and Cyber Attack Modernization | Webelight Solutions Pvt. Ltd. | [Read More](https://medium.com/p/3454dc5668ff) |
-| Tue, 09 Sep 2025 12:13:24 GMT | TryHackMe Basic Pentesting CTF Çözümü | Sadıkcan Tuluk | [Read More](https://medium.com/p/7a0a2b791a29) |
-| Tue, 09 Sep 2025 12:10:30 GMT | The 2025 NPM Supply Chain Attack: Protecting Code and Web3 Wallets | Vidhi patel | [Read More](https://medium.com/p/422890d9390f) |
-| Tue, 09 Sep 2025 12:04:00 GMT | Quishing: QR Kod Dolandırıcılığıyla Tehlikeli Saldırı Vektörü | fscakmak | [Read More](https://medium.com/p/c630766b700f) |
-| Tue, 09 Sep 2025 12:03:49 GMT | How I lost $996,000 To A Web3 Scam | Scofield O. Idehen | [Read More](https://medium.com/p/69668a9fd21c) |
-| Tue, 09 Sep 2025 12:03:16 GMT | Fortifying AI: Understanding Prompt Attacks and Protections | Ethan DeMott | [Read More](https://medium.com/p/9e7ecd46c064) |
-| Tue, 09 Sep 2025 11:59:18 GMT | The $50 Transaction That Changed Everything | Rishisec | [Read More](https://medium.com/p/63d4b66b8f39) |
-| Tue, 09 Sep 2025 11:59:06 GMT | Belajar Cybersecurity di Indonesia: Pentingnya Praktik Langsung dengan Capture The Flag | Linuxenic Corp | [Read More](https://medium.com/p/08bc0ad50447) |
-| Tue, 09 Sep 2025 11:53:25 GMT | Saudi Aramco and Hitech Fence Strengthening Saudi Arabia’s Infrastructure and Security | Hitechfence | [Read More](https://medium.com/p/09a6a5198646) |
-| Tue, 09 Sep 2025 11:47:44 GMT | ️ OWASP Top 10: Practical Examples for Web Security | Esra Kayhan | [Read More](https://medium.com/p/b9a2ce4d087a) |
-| Tue, 09 Sep 2025 11:45:27 GMT | Why Penetration Testing Isn’t Just About Finding Flaws | Aj | [Read More](https://medium.com/p/7fe1c3e8de27) |
-| Tue, 09 Sep 2025 11:45:09 GMT | Hack The Box : Grafana | r03n | [Read More](https://medium.com/p/cf05e0bf7177) |
