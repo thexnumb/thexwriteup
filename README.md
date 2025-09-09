@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 11:30:06 GMT | Fraud Moves in Minutes. Can AI Keep Pace? | Tina Sharma | [Read More](https://medium.com/p/833fc5cce401) |
+| Tue, 09 Sep 2025 11:28:15 GMT | .NET Core ile Modern Kripto Varlık Akışlarının Kalbini Atmak | yiğit çevik | [Read More](https://medium.com/p/6a7b849460ae) |
+| Tue, 09 Sep 2025 11:24:20 GMT | From PNPT to OSCP: My Next Big Step | Manzjson | [Read More](https://medium.com/p/521d65cde403) |
+| Tue, 09 Sep 2025 11:22:16 GMT | Mom, Will I Ever Be Enough? | The Heart 's Diary | [Read More](https://medium.com/p/315cc0c695a8) |
+| Tue, 09 Sep 2025 11:21:38 GMT | 10 Best Secure Hosting Providers for Image-Heavy Blogs | Kanika Mehtah | [Read More](https://medium.com/p/7ba695ac28bf) |
+| Tue, 09 Sep 2025 11:17:41 GMT | ️‍♂️ Detecting Keylogger Software | Esra Kayhan | [Read More](https://medium.com/p/5cab4726085d) |
 | Tue, 09 Sep 2025 11:11:37 GMT | Secure Hosting for Charities | Jasmeet  Kaur | [Read More](https://medium.com/p/ce44a174b23d) |
 | Tue, 09 Sep 2025 11:07:40 GMT | The Growing Threat of Crypto Scams: What We Need to Know | Ambala IT | [Read More](https://medium.com/p/cb21f8432d93) |
 | Tue, 09 Sep 2025 11:01:53 GMT | TEEs zabezpieczone przez Ethereum | Phala Network PL | [Read More](https://medium.com/p/de728a6f146d) |
@@ -107,9 +113,3 @@ By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
 | Tue, 09 Sep 2025 07:32:08 GMT | Bug Bounty: No hay payload que sustituya a una buena intuición | Gorka | [Read More](https://medium.com/p/e7f12dce0253) |
 | Tue, 09 Sep 2025 07:22:35 GMT | Is Your ChatGPT Chat Google Famous? (You’ll Want to Check) | Mohit Aggarwal | [Read More](https://medium.com/p/01b30fc7601f) |
 | Tue, 09 Sep 2025 07:21:46 GMT | The Snowflake Breach Exposed AI’s Limits: Are You Ready to Become an AI Whisperer and Lock Down… | ZENcurity | [Read More](https://medium.com/p/35ca55b4b555) |
-| Tue, 09 Sep 2025 07:21:01 GMT | The Role of CISM in Building a Zero Trust Security Culture | Dhanashri Bhale | [Read More](https://medium.com/p/f93f9dcd13ca) |
-| Tue, 09 Sep 2025 07:12:19 GMT | The Daily Tech Digest: 09 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/64e8fa245961) |
-| Tue, 09 Sep 2025 07:11:04 GMT | Best Beginner-Friendly WAF in 2025: Why SafeLine Outperforms Regex-Based Firewalls | Quella | [Read More](https://medium.com/p/f62db54699ec) |
-| Tue, 09 Sep 2025 07:10:20 GMT | The Information Crisis | Roland Waller | [Read More](https://medium.com/p/79314683c219) |
-| Tue, 09 Sep 2025 07:02:28 GMT | Product Security Engineering — A tiny guide to know what’s actually done | Naveen Kumar | [Read More](https://medium.com/p/93d7878f3dc6) |
-| Tue, 09 Sep 2025 06:59:48 GMT | Console Chronicles: How Browser DevTools Unlocked a $XXXX Bounty | Iski | [Read More](https://medium.com/p/2536fe09615d) |
