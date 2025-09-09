@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 03:41:30 GMT | Sunday Reflection: Gratitude, Growth & Why I Believe in a Secure Digital Future | Dr. Deep Pandey | [Read More](https://medium.com/p/dff045091bd2) |
+| Tue, 09 Sep 2025 03:38:42 GMT | Why Your Laptop Screen Deserves More Protection Than You Think | Christian Adam | [Read More](https://medium.com/p/bdc7d4ed9648) |
+| Tue, 09 Sep 2025 03:31:40 GMT | Zero-Day Chaos and AI Failures: Why 95% of Enterprise AI Projects Are Crashing | Akshat Ratanpal | [Read More](https://medium.com/p/6f3fa1339b87) |
+| Tue, 09 Sep 2025 03:31:39 GMT | LockBit’s New Cloak: How DLL Sideloading Makes Ransomware Look Legit | Deven Chhajed | [Read More](https://medium.com/p/f567bee8e935) |
+| Tue, 09 Sep 2025 03:31:02 GMT | The Evolution of Phishing: How Modern Kits Are Outsmarting Defenses | Dave MacKinnon | [Read More](https://medium.com/p/aa35446bf387) |
+| Tue, 09 Sep 2025 03:28:00 GMT | Largest NPM hack in history | Jaydeep Karale | [Read More](https://medium.com/p/f953acf82b76) |
+| Tue, 09 Sep 2025 03:10:16 GMT | The Rise of the Enterprise AI Browser | Mammoth Cyber | [Read More](https://medium.com/p/2fca3a093ebe) |
+| Tue, 09 Sep 2025 03:04:07 GMT | Cybersecurity Threat Detection by the Department of Homeland Security (DHS) | Amber Boone | [Read More](https://medium.com/p/b92c8ec54a97) |
+| Tue, 09 Sep 2025 02:54:47 GMT | The Chalk Debacle, Unpacking a Nasty npm Supply‑Chain Attack | Ben Fairbank | [Read More](https://medium.com/p/f14910648ae5) |
 | Tue, 09 Sep 2025 02:48:39 GMT | Ghost in Your Supply Chain: Unpacking Cybersecurity Vulnerabilities in Software Supply Chain… | CyCraft Technology Corp | [Read More](https://medium.com/p/19a3950a0536) |
 | Tue, 09 Sep 2025 02:43:44 GMT | Deploying EDR Agents to 5,000 Endpoints Without Losing Your Mind | Paritosh | [Read More](https://medium.com/p/e8a655e67320) |
 | Tue, 09 Sep 2025 02:32:33 GMT | The Power and the Protocol: Securing Ethiopia’s Renaissance on the Nile | Abebebe Diro (PhD) | [Read More](https://medium.com/p/48dd3439a3ea) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Sep 2025 19:21:19 GMT | Schema Smuggling: Breaking AI Tool-Calls with Parser Quirks | Aviral Srivastava | [Read More](https://medium.com/p/c61478dc1414) |
 | Mon, 08 Sep 2025 19:18:52 GMT | MDR vs. MSS: Which Security Solution is Right for your Business | IT_Engineer | [Read More](https://medium.com/p/3823cfd36cb8) |
 | Mon, 08 Sep 2025 19:17:07 GMT | The Cost of a Wrong Word in Threat Intelligence | Rishika Desai | [Read More](https://medium.com/p/202dca1aa8fb) |
-| Mon, 08 Sep 2025 19:14:53 GMT | Sandfly Linux Security: Enabling and using AI Analysis — Using Gemini (Google), OpenAI ChatGPT… | Truvis Thornton | [Read More](https://medium.com/p/90848f1bd729) |
-| Mon, 08 Sep 2025 19:13:36 GMT | Penetrasyon Testi - Post-Exploitation & Privilege Escalation | Sadıkcan Tuluk | [Read More](https://medium.com/p/17e66db1fc0a) |
-| Mon, 08 Sep 2025 19:13:04 GMT | Cybersecurity for Nonprofits: Protecting Your Mission in a Digital-First World | Gregory Pranzo | [Read More](https://medium.com/p/3ebda544d38f) |
-| Mon, 08 Sep 2025 19:07:35 GMT | Hacking != Reconnaissance (real talk) | Iserjaoui | [Read More](https://medium.com/p/1ec1443e9aaf) |
-| Mon, 08 Sep 2025 19:03:36 GMT | The RAG Security Paradox: Building Trustworthy AI with the Four Pillar Framework | Vikram Samal | [Read More](https://medium.com/p/338a21d0dd26) |
-| Mon, 08 Sep 2025 19:01:41 GMT | The Day I Stopped Pretending to Be Strong | Dr. Beenish Shakeel | [Read More](https://medium.com/p/19065d673e45) |
-| Mon, 08 Sep 2025 19:00:12 GMT | Momentum1 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/c770f8848665) |
-| Mon, 08 Sep 2025 18:55:30 GMT | What I Learned from Mining Cybersecurity Incident Data (2024): A Practical Data Science Journey | Franzkingstein | [Read More](https://medium.com/p/404760fe96ca) |
-| Mon, 08 Sep 2025 18:51:47 GMT | The Hidden Threat Every Digital Entrepreneur and Everyday People Need to Worry About (And How to… | Pitt Tech | [Read More](https://medium.com/p/aacd9ca4ab54) |
