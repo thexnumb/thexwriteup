@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Sep 2025 14:18:38 GMT | How Hackers Exploit AI Tools Like ChatGPT: What You Need to Know | Very Lazy Tech | [Read More](https://medium.com/p/eb728f9cf907) |
+| Tue, 09 Sep 2025 14:12:11 GMT | The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe | Scofield O. Idehen | [Read More](https://medium.com/p/43c879f18f4b) |
+| Tue, 09 Sep 2025 14:09:54 GMT | Largest NPM Compromise in History: Supply Chain Attack | Dhanush N | [Read More](https://medium.com/p/908c343ca1a4) |
+| Tue, 09 Sep 2025 14:05:38 GMT | A Beginner’s Tutorial: K3s on Ubuntu 24.04 for Devs and Home Labs | Milaharris | [Read More](https://medium.com/p/8cbc68dd184c) |
+| Tue, 09 Sep 2025 14:02:56 GMT | What Are VASPs and How Crypto Investigators Use Them | Jordan J. Solomon | [Read More](https://medium.com/p/05246810bb66) |
+| Tue, 09 Sep 2025 14:02:37 GMT | Mastering Modern Red Teaming Infrastructure — Part 9: SilentMind-AI-C2—Automating… | Faris Faisal 0xFF | [Read More](https://medium.com/p/e5db56c1b239) |
+| Tue, 09 Sep 2025 14:01:55 GMT | Cyber Briefing: 2025.09.09 | CyberMaterial | [Read More](https://medium.com/p/d9758561e8bf) |
+| Tue, 09 Sep 2025 14:01:54 GMT | A Practical Guide to Play Integrity API: Everything You Need to Implement Attestation on Android | Kartik Agrawal | [Read More](https://medium.com/p/c010f0fc8f09) |
+| Tue, 09 Sep 2025 13:59:29 GMT | The $2.6B npm Hack That Silently Stole Crypto: What You Need to Know | Nanthakumar | [Read More](https://medium.com/p/81e18e4f89a7) |
+| Tue, 09 Sep 2025 13:55:56 GMT | You Didn’t Get Phished-You Onboarded the Attacker | Suhas valasala | [Read More](https://medium.com/p/aa38dce3af57) |
+| Tue, 09 Sep 2025 13:53:37 GMT | From Abstract Risk to Blinking Red Light | Steve Ng | [Read More](https://medium.com/p/7d8a65469a57) |
+| Tue, 09 Sep 2025 13:46:59 GMT | Subdomain Takeover | yee-yore | [Read More](https://medium.com/p/f64fdf323852) |
+| Tue, 09 Sep 2025 13:42:24 GMT | Why Your Email is Less Secure Than a Bank Transaction (And What to Do About It) | TechEd Publishers | [Read More](https://medium.com/p/be32fe5fdec0) |
+| Tue, 09 Sep 2025 13:40:21 GMT | Password Management for Remote Teams: Challenges & Solutions | Password Manager | [Read More](https://medium.com/p/adfab9f3ff74) |
+| Tue, 09 Sep 2025 13:37:17 GMT | Exploiting RMI Services for System Domination: Operation Java Strike | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/19ceb3ce4aa1) |
+| Tue, 09 Sep 2025 13:36:46 GMT | Running Chromium in Docker Without Selling Your Soul | Dieter S. | [Read More](https://medium.com/p/433e591802f2) |
+| Tue, 09 Sep 2025 13:32:50 GMT | Building Secure Apps in 2025: A Developer’s Guide to Cybersecurity | Umesh Anjula | [Read More](https://medium.com/p/191cf0bb2389) |
+| Tue, 09 Sep 2025 13:32:21 GMT | How to Find Hidden Web Vulnerabilities Using FFUF | Ibtissam hammadi | [Read More](https://medium.com/p/6d59d013c467) |
+| Tue, 09 Sep 2025 13:32:21 GMT | From MFA Fatigue to Deepfakes: The Next Generation of Cyber Threats Facing Mid‑Sized Businesses | CoopSys | [Read More](https://medium.com/p/9d36d4069b7d) |
 | Tue, 09 Sep 2025 13:26:56 GMT | Beginner’s Guide to Raspberry Pi Pico - PART-2 | Agape HearTs | [Read More](https://medium.com/p/c69e60b077a7) |
+| Tue, 09 Sep 2025 13:26:12 GMT | Apache HTTP Server 2.4.49/2.4.50 - CVE-2021–42013 | Özcan Ersan | [Read More](https://medium.com/p/73da98c07c6a) |
 | Tue, 09 Sep 2025 13:25:10 GMT | Architecting the Future: Building an Enterprise-Grade A/B Testing Platform with Cloudflare Workers | Srinivasa Tadipatri | [Read More](https://medium.com/p/1f6124f83b05) |
 | Tue, 09 Sep 2025 13:20:24 GMT | The Impact of AI on Jobs in 2025: Sector-Wise Insights | Awais Butt | [Read More](https://medium.com/p/d93676f26cea) |
 | Tue, 09 Sep 2025 13:19:50 GMT | Black Hat USA 2025 in the Age of AI (Part 2) | VXRL | [Read More](https://medium.com/p/92014992d311) |
@@ -93,23 +113,3 @@ By Inayat… | Inayat Hussain | [Read More](https://medium.com/p/313b1b8b3632) |
 | Tue, 09 Sep 2025 09:55:14 GMT | The Largest npm Supply-Chain Attack to Date: A Deep Dive | Jagan Raj Raviraja | [Read More](https://medium.com/p/f3d930e7b963) |
 | Tue, 09 Sep 2025 09:53:11 GMT | Sharing personal Experience @ Reverse Engineering without assembly tools -Shell Gym Episode… | Cy3erS@up | [Read More](https://medium.com/p/70f6e22db011) |
 | Tue, 09 Sep 2025 09:52:26 GMT | DockerLabs Writeup — FindYourStyle (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/466d543adaf0) |
-| Tue, 09 Sep 2025 09:51:37 GMT | The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/7c4edcb206bd) |
-| Tue, 09 Sep 2025 09:49:04 GMT | Siber Güvenliğin İlahi Rehberi: MITRE ATT&CK’ı Tanıyalım | Cyber Web | [Read More](https://medium.com/p/d1fb2b61d148) |
-| Tue, 09 Sep 2025 09:47:38 GMT | What Is Hacking Methodology? | Mainekhacker | [Read More](https://medium.com/p/279b570bf6bc) |
-| Tue, 09 Sep 2025 09:46:33 GMT | Business Logic Flaw Lets Free Plan Add Extra Team Members | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/600581cd3205) |
-| Tue, 09 Sep 2025 09:45:02 GMT | Under the Magnifying Glass: Butterflies and The Limelight | Shy | [Read More](https://medium.com/p/40f61ab3a580) |
-| Tue, 09 Sep 2025 09:44:07 GMT | From Limited Shell to Interactive TTY Shell: A Must-Have Skill for Bug Bounty Hunters | Ali Ziro | [Read More](https://medium.com/p/b0f407897dac) |
-| Tue, 09 Sep 2025 09:44:03 GMT | Anonymous CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/c4159c8d214b) |
-| Tue, 09 Sep 2025 09:42:19 GMT | FlagYard Crypto Adventures | H3NRY B41T | [Read More](https://medium.com/p/22b09aafda77) |
-| Tue, 09 Sep 2025 09:41:48 GMT | When Ethereum Learns to React - Drosera | Blessing Shodunke | [Read More](https://medium.com/p/30757562317b) |
-| Tue, 09 Sep 2025 09:41:42 GMT | npm Nightmare: Are Your Packages Safe? | Truspex | [Read More](https://medium.com/p/25db31dc26be) |
-| Tue, 09 Sep 2025 09:41:04 GMT | Answering Your Top 5 Questions About Custom Software Solutions | Karmakoders | [Read More](https://medium.com/p/b595a51a7842) |
-| Tue, 09 Sep 2025 09:38:36 GMT | Hack The Box : ADSelfService | r03n | [Read More](https://medium.com/p/1921ae5592d7) |
-| Tue, 09 Sep 2025 09:37:10 GMT | CVE-2025–58454: SQL Injection Vulnerability in WeGIA Web Manager | Kommaumamaheswarreddy | [Read More](https://medium.com/p/5feb685d1925) |
-| Tue, 09 Sep 2025 09:33:05 GMT | Not the Clever Lion, But the Hungry Lion: The Power of Self-Learning in IT | Dilkini  Kahawalage | [Read More](https://medium.com/p/dd641b007a1d) |
-| Tue, 09 Sep 2025 09:26:24 GMT | UMInk — A Different Take on Cloud Storage: Lower Cost, Plus a Way to Earn on the Side | Almot | [Read More](https://medium.com/p/be04e950d20e) |
-| Tue, 09 Sep 2025 09:20:21 GMT | The Passwordless Future : Securing and Streamlining Operations for Businesses | FlashX Cybersecurity | [Read More](https://medium.com/p/0ee5f7d3384e) |
-| Tue, 09 Sep 2025 09:20:12 GMT | Zendesk Spoofing Retrospective | Medjue Gore | [Read More](https://medium.com/p/50627eab89c1) |
-| Tue, 09 Sep 2025 09:20:03 GMT | Home Network Under Siege? They’re after more than just your WiFi password. | SilentInject | [Read More](https://medium.com/p/0f6f85d4e97d) |
-| Tue, 09 Sep 2025 09:17:31 GMT | Data, Information and Knowledge: The Trinity of the 21st Century | Enrico Bertan | [Read More](https://medium.com/p/2b8a2068a7bb) |
-| Tue, 09 Sep 2025 09:10:36 GMT | UK Intelligent Threat Security Market Size, Share, Trends and Forecast Report -2031 | Atharvaconsegicbusinessintelli | [Read More](https://medium.com/p/d695a95dba78) |
