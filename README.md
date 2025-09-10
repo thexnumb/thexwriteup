@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 09:33:58 GMT | Exploiting Business Logic Flaws: How I Bought Products for $1 (Ethically) in a private bug bounty… | Be nice insabat | [Read More](https://medium.com/p/6f21f883cd7a) |
+| Wed, 10 Sep 2025 09:28:00 GMT | API Gateway Security Patterns for Node.js Microservices | Somendradev | [Read More](https://medium.com/p/6bcda22ab4e5) |
+| Wed, 10 Sep 2025 09:25:45 GMT | NordVPN review 2025: Speed, security & streaming tested | Safelyo VPN | [Read More](https://medium.com/p/1fbbd31cc990) |
+| Wed, 10 Sep 2025 09:24:47 GMT | WPA/WPA2 Cracking Methods | Esra Kayhan | [Read More](https://medium.com/p/29ce4a24c448) |
+| Wed, 10 Sep 2025 09:22:45 GMT | Why Every Business Needs a Trusted PT Services Provider | CyberNX | [Read More](https://medium.com/p/3b152b90b46d) |
+| Wed, 10 Sep 2025 09:22:09 GMT | Data Lakes, Shared Clusters, and the Kyverno Advantage | Maheshkumardash | [Read More](https://medium.com/p/9f4744b51e76) |
+| Wed, 10 Sep 2025 09:20:27 GMT | In a rapidly evolving world, safety and security have become essential for individuals, businesses… | Ciss India | [Read More](https://medium.com/p/6a2af669071e) |
+| Wed, 10 Sep 2025 09:17:52 GMT | DockerLabs Writeup — Allien (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f0cbf45cfe96) |
 | Wed, 10 Sep 2025 09:06:00 GMT | From Feast or Famine to Pay Forever: The Cloud’s Origin Story | Namir Sagheenanajar | [Read More](https://medium.com/p/70323b417b07) |
 | Wed, 10 Sep 2025 09:05:28 GMT | Best AIOps Platforms Reviews 2025 | Gauri Kale | [Read More](https://medium.com/p/f300872572c1) |
 | Wed, 10 Sep 2025 08:50:42 GMT | Defensive Security Intro: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/555b22ca534d) |
@@ -106,11 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 05:03:24 GMT | iOS vs Android Security: Which Is More Secure? Europe and Australia | QualysecEurope | [Read More](https://medium.com/p/0dff5f10feab) |
 | Wed, 10 Sep 2025 05:02:06 GMT | Zero-Trust Architecture: Implementing in an AI-Heavy Hybrid Cloud Environment | Gsinfotechvis Pvt Ltd | [Read More](https://medium.com/p/6572997b02e6) |
 | Wed, 10 Sep 2025 04:59:25 GMT | How to Connect Multiple Monitors and Devices to Your Laptop | Network Interfaze | [Read More](https://medium.com/p/aa5ad636dda0) |
-| Wed, 10 Sep 2025 04:55:07 GMT | Vibe Hacking Is Here And It’s Scary | Shahzaib | [Read More](https://medium.com/p/bd1347b8eca7) |
-| Wed, 10 Sep 2025 04:53:48 GMT | Checkpoint MAESTRO HYPERSCALE ORCHESTRATOR | Univold | [Read More](https://medium.com/p/b72e3b18b5c3) |
-| Wed, 10 Sep 2025 04:53:47 GMT | Interesting OTP Validation Logic  Flaw: Registering Any Victim’s Email Without Inbox Access … | Ch4rlii | [Read More](https://medium.com/p/90f7ec989b1e) |
-| Wed, 10 Sep 2025 04:51:49 GMT | 5 Beginner Mistakes Killing Your Bug Bounty Success (Fix Them Now!) | Aj | [Read More](https://medium.com/p/4ad55128d1a9) |
-| Wed, 10 Sep 2025 04:42:04 GMT | 5 Prompt Injection Attacks You Should Actually Worry About | Civil Learning | [Read More](https://medium.com/p/f3202b7da9d0) |
-| Wed, 10 Sep 2025 04:40:41 GMT | When Trust Becomes the Weakest Link: Dissecting the September 2025 NPM Supply Chain Attack | Priyal Walpita | [Read More](https://medium.com/p/5160c7c6aea3) |
-| Wed, 10 Sep 2025 04:36:00 GMT | Detection Engineering for KillSec Ransomware: Limited Technical Analysis | Siddhant Mishra | [Read More](https://medium.com/p/a3850692403d) |
-| Wed, 10 Sep 2025 04:32:44 GMT | UI vs. UX: What Really Makes or Breaks Your Website | Karmakoders | [Read More](https://medium.com/p/1ab0a8602889) |
