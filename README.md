@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 20:12:28 GMT | TryHackMe — Nmap: The Basics - Cyber Security 101 (THM) | Dang3rXgh0st | [Read More](https://medium.com/p/9764fdb3f64d) |
+| Wed, 10 Sep 2025 20:11:29 GMT | Contra Doctrine Manual 1 (CDM-1) — Field Manual of Origin | Contra Doctrine | [Read More](https://medium.com/p/92ef9685c430) |
+| Wed, 10 Sep 2025 20:08:06 GMT | PG Practice — Internal (Windows) | Lepton | [Read More](https://medium.com/p/6b0359652791) |
+| Wed, 10 Sep 2025 20:07:32 GMT | PicoCTF-No SQL Injection- Walkthrough | Beryl | [Read More](https://medium.com/p/75dd7ee51cce) |
+| Wed, 10 Sep 2025 20:07:25 GMT | Hands‑On Email Incident Response: Phishing Attack Playbook | Kunal Nagra | [Read More](https://medium.com/p/f50103bdff9a) |
+| Wed, 10 Sep 2025 19:59:59 GMT | Intimacy is Built in the Small Things | Marie Grace, PhD | [Read More](https://medium.com/p/a7f12d8c87e2) |
+| Wed, 10 Sep 2025 19:57:11 GMT | kioptrix level 2 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/1756fea6e799) |
+| Wed, 10 Sep 2025 19:51:40 GMT | Security Questions You Should Ask Before Choosing an AI Tool | Slingshot | [Read More](https://medium.com/p/9bb61cd2ee9d) |
+| Wed, 10 Sep 2025 19:50:49 GMT | Java Deserialization Vulnerability, CVE-2015–7501 ,Tony the Tiger | Oussamahassania | [Read More](https://medium.com/p/1709ef788f01) |
+| Wed, 10 Sep 2025 19:50:36 GMT | How I Started My Cybersecurity Journey Without a Degree | vydhi | [Read More](https://medium.com/p/7ac8d720cf12) |
+| Wed, 10 Sep 2025 19:48:00 GMT | Exploiting EternalBlue (MS17–010) | Kizito Arinze Chukwu | [Read More](https://medium.com/p/d6d70476b912) |
+| Wed, 10 Sep 2025 19:44:17 GMT | GraphQL Explained Simply: Why It’s a Game-Changer for API Endpoints and Why (Bug Hunters Love… | Zoningxtr | [Read More](https://medium.com/p/9d0d8a529804) |
+| Wed, 10 Sep 2025 19:44:15 GMT | Cybersecurity Basics: 10 Cyber Hygiene Practices Every Beginner Should Adopt Today | vydhi | [Read More](https://medium.com/p/26a2227d325c) |
+| Wed, 10 Sep 2025 19:44:03 GMT | Suscripciones, datificación, secretos y abusos | Marvin G. Soto | [Read More](https://medium.com/p/dd9376ab479e) |
+| Wed, 10 Sep 2025 19:37:30 GMT | Kioptrix _l Writeup — Samba trans2open → root | Mahmoudelshorpagy | [Read More](https://medium.com/p/ac648ba5877a) |
 | Wed, 10 Sep 2025 19:26:55 GMT | Linux Container Security | Eren Cankut Uysal | [Read More](https://medium.com/p/1b5203f92af3) |
 | Wed, 10 Sep 2025 19:26:43 GMT | Issue #1 | Dan Mahoney | [Read More](https://medium.com/p/7b0f80cc65ff) |
 | Wed, 10 Sep 2025 19:26:39 GMT | Migrating Connected Apps to External Client Apps from an ISV / External App Management Perspective | Justus van den Berg | [Read More](https://medium.com/p/e155875a0974) |
@@ -98,18 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 14:55:15 GMT | Security-by-5D: A New Holistic Secure Model Approach | Odiao Pro | [Read More](https://medium.com/p/bdb677708892) |
 | Wed, 10 Sep 2025 14:53:53 GMT | When ‘Support’ Isn’t Support: Avoiding the Tech Support Scam Trap | Cyber Safety Watchdog | [Read More](https://medium.com/p/cb00848fdc98) |
 | Wed, 10 Sep 2025 14:52:47 GMT | TryHackMe: Library Writeup | Blu3J4x | [Read More](https://medium.com/p/f35be1f8a04f) |
-| Wed, 10 Sep 2025 14:48:58 GMT | The "almost" npm disaster | Tusharkadvatar | [Read More](https://medium.com/p/cc8213c5390c) |
-| Wed, 10 Sep 2025 14:44:14 GMT | Release Blackcat v0.23.0 | Rogier Dijkman | [Read More](https://medium.com/p/4cef5c1784b1) |
-| Wed, 10 Sep 2025 14:32:23 GMT | What Makes Phishing Simulation Services Essential for Business | Noahlucas | [Read More](https://medium.com/p/f88fce2fc7d9) |
-| Wed, 10 Sep 2025 14:28:48 GMT | 5 Beginner-Friendly ChatGPT Hacks That Save Me Hours (Part 1) | Azeez Ajibade ~ Distinct | [Read More](https://medium.com/p/8f0c37b88377) |
-| Wed, 10 Sep 2025 14:27:08 GMT | iPhone Air — The Return of A Single-Camera Luxury Phone | Thành Đô Nguyễn | [Read More](https://medium.com/p/13ba07e370a7) |
-| Wed, 10 Sep 2025 14:24:45 GMT | Docker API Security Under Siege: How Cybercriminals Exploit Exposed APIs Through Tor Networks | Technijian | [Read More](https://medium.com/p/d37f7bd335c7) |
-| Wed, 10 Sep 2025 14:22:09 GMT | Why I Enable Multi-Factor Authentication (MFA) for SSH on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/566d8d1d9ce4) |
-| Wed, 10 Sep 2025 14:20:49 GMT | Finding the Right Digital Marketing Partner for Your Ambattur Tech Startup | Varuthni | [Read More](https://medium.com/p/f05902c7f64e) |
-| Wed, 10 Sep 2025 14:20:29 GMT | How I “Hacked” my church’s WiFi…. and got caught | Daniel Fuster | [Read More](https://medium.com/p/c5b9539c0145) |
-| Wed, 10 Sep 2025 14:20:22 GMT | Connection Matters | Jodi Siebert Chestnut | [Read More](https://medium.com/p/f8f9dbcfa4a3) |
-| Wed, 10 Sep 2025 14:18:27 GMT | The Great Indian IT Debate: From Survival to Supremacy to a Strategic Crossroads | A Kumbhkarni | [Read More](https://medium.com/p/847bdcb087dc) |
-| Wed, 10 Sep 2025 14:14:46 GMT | The Current State of Data Scraping on the Web: AI Bots Are Not Welcome in 2025 | ImmuniWeb | [Read More](https://medium.com/p/f33a505f60b9) |
-| Wed, 10 Sep 2025 14:06:48 GMT | Generative AI: Powering the Next Trillion-Dollar Economy | Insydic | [Read More](https://medium.com/p/731e94234cb5) |
-| Wed, 10 Sep 2025 14:05:06 GMT | How I Passed the eJPT : My Journey to Becoming a Junior Penetration Tester | Umang Nayi | [Read More](https://medium.com/p/423858ceac81) |
-| Wed, 10 Sep 2025 14:04:07 GMT | ⚡ Unmasking Volt Typhoon: A SOC Analyst’s Splunk Walkthrough | Furkanctiner | [Read More](https://medium.com/p/5faeef3e2579) |
