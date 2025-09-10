@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 11:36:11 GMT | Bughuntig is going somewhere else direction | Imran Niaz | [Read More](https://medium.com/p/9852b3b72e4d) |
+| Wed, 10 Sep 2025 11:34:27 GMT | Cracking Cybersecurity: Where Do You Even Start? | Authlyn | [Read More](https://medium.com/p/3d0c91c066c7) |
+| Wed, 10 Sep 2025 11:33:51 GMT | Cyber Weapons Are the New Nuclear Threat | Hemang | [Read More](https://medium.com/p/1b6c9196bff3) |
+| Wed, 10 Sep 2025 11:31:41 GMT | The Quiet Strength of Vulnerability | Deeksha | [Read More](https://medium.com/p/ccb962557552) |
+| Wed, 10 Sep 2025 11:26:16 GMT | Why Employee Cyber Training Matters | Priyesh | [Read More](https://medium.com/p/0d1304641c3b) |
+| Wed, 10 Sep 2025 11:24:25 GMT | If You Use Telegram: Read This Now | Scofield O. Idehen | [Read More](https://medium.com/p/63f9a02a5c9c) |
+| Wed, 10 Sep 2025 11:21:40 GMT | When “Private” ChatGPT Conversations Go Public: GRC Takeaways | Brittney Ginther | [Read More](https://medium.com/p/cf8b9737c868) |
+| Wed, 10 Sep 2025 11:21:40 GMT | Malware Analysis on Linux | Esra Kayhan | [Read More](https://medium.com/p/dbdbad6c486d) |
+| Wed, 10 Sep 2025 11:21:09 GMT | Best 5 Tech Platforms for Cybersecurity Courses in Abia State | ECR Academy | [Read More](https://medium.com/p/252423b1d891) |
+| Wed, 10 Sep 2025 11:17:28 GMT | 5 Bangladeshi Companies Leading in QA Audit and Software Testing | EnosisOutsourcing | [Read More](https://medium.com/p/f1b437189e64) |
+| Wed, 10 Sep 2025 11:14:03 GMT | Mac Security Alert: Counterfeit Apps Bypass Apple Protections | Karl Buhl | [Read More](https://medium.com/p/c853aa674b86) |
 | Wed, 10 Sep 2025 11:12:11 GMT | The Importance Of Cybersecurity: Why It’s a Top Priority Today | Robindoston | [Read More](https://medium.com/p/4ded50639033) |
 | Wed, 10 Sep 2025 11:05:34 GMT | Salty2FA Phishing Kit Emerges as Major Threat to Enterprises in the US and EU | Jasmitharouthu | [Read More](https://medium.com/p/5ba8d8f2b937) |
 | Wed, 10 Sep 2025 11:04:11 GMT | Small type of Classic idor i find | Imran Niaz | [Read More](https://medium.com/p/416a11b1fe59) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 06:54:16 GMT | APSB25–88: Why Adobe Commerce Merchants Must Patch Immediately | Meetanshi | [Read More](https://medium.com/p/394a4337f58f) |
 | Wed, 10 Sep 2025 06:52:47 GMT | Side-Channel Recon: How Attackers Use Timing, Headers, and Metadata for Infiltration | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58c4428dc9fa) |
 | Wed, 10 Sep 2025 06:47:02 GMT | ✅ Securing OAuth & SSO: A Step-by-Step Guide and Checklist | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4e9390933957) |
-| Wed, 10 Sep 2025 06:46:26 GMT | Regular User Can Invite Admin — Resulting in Full Organization Compromise | 0xAmmar | [Read More](https://medium.com/p/050dd57f9e01) |
-| Wed, 10 Sep 2025 06:44:48 GMT | A Fun Proxmox Home Lab Project | Earl Yu | [Read More](https://medium.com/p/4796d41e363e) |
-| Wed, 10 Sep 2025 06:41:38 GMT | Understanding Active Directory: The Backbone of Windows Identity Management | Sulabh Prajapati | [Read More](https://medium.com/p/789954c6181d) |
-| Wed, 10 Sep 2025 06:37:54 GMT | Mobile Market Report 2025: Complete Guide for Tech Buyers | Harper Moore | [Read More](https://medium.com/p/18398b8a7949) |
-| Wed, 10 Sep 2025 06:37:11 GMT | Secure Your APIs with Apache APISIX + SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/f2e7d566e4c7) |
-| Wed, 10 Sep 2025 06:29:38 GMT | Day 54- Understand the concept of Runbooks in cybersecurity as a beginner | unica 02 | [Read More](https://medium.com/p/4befb2054bef) |
-| Wed, 10 Sep 2025 06:26:20 GMT | Interoperable Healthcare Information Technology Systems Market Set to Explode with Phenomenal… | Nitin Jetty | [Read More](https://medium.com/p/8756fc68c462) |
-| Wed, 10 Sep 2025 06:22:30 GMT | Mobile Market Report Explained: 2025 Key Insights You Need | Isabella Brown | [Read More](https://medium.com/p/afec089f166d) |
-| Wed, 10 Sep 2025 06:21:39 GMT | Top 10 XDRS in India | Manisha Chaudhary | [Read More](https://medium.com/p/b311a658d2cc) |
-| Wed, 10 Sep 2025 06:20:04 GMT | Why Developers Love SafeLine WAF (17K+ Stars and Growing) | AerieWhole123 | [Read More](https://medium.com/p/31485653068d) |
-| Wed, 10 Sep 2025 06:14:11 GMT | Minimizing Bottlenecks: The Check-in Kiosk Advantage | Rakesh | [Read More](https://medium.com/p/dcdeb5241c3c) |
