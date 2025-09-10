@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 23:13:47 GMT | Hackers Steal Crypto by Hacking npm Packages Like Chalk & Debug | Cyber-AppSec | [Read More](https://medium.com/p/06372e2909ca) |
+| Wed, 10 Sep 2025 23:01:45 GMT | Write-Up: Footprinting Hard — Hack The Box | David Weverton Da Silva Lima | [Read More](https://medium.com/p/fde6c8758146) |
+| Wed, 10 Sep 2025 22:54:34 GMT | The Future of DeFi | Nonso | [Read More](https://medium.com/p/41b122389b52) |
+| Wed, 10 Sep 2025 22:54:23 GMT | Extensions Gone Rogue: How Firefox Extensions Became Crypto Thieves | Ashley Dai | [Read More](https://medium.com/p/9c9995f03368) |
+| Wed, 10 Sep 2025 22:53:04 GMT | Threat Modeling, Explained | Chris Zhang | [Read More](https://medium.com/p/7533c54a6b28) |
+| Wed, 10 Sep 2025 22:45:19 GMT | CAPT Cross-Site Scripting (XSS) Writeup — HackViser | Sajad Abdulelah | [Read More](https://medium.com/p/a6670206aff0) |
 | Wed, 10 Sep 2025 22:22:07 GMT | The Biggest Cyber Security Threats Online for Individuals and How to Mitigate Them | Enskefuddle | [Read More](https://medium.com/p/126b64c6446e) |
 | Wed, 10 Sep 2025 22:08:51 GMT | Entropy Hacking: Measuring Chaos in Code to Outsmart Machines | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/98a61bae28ea) |
 | Wed, 10 Sep 2025 21:43:50 GMT | Codeproof vs. Jamf vs. Microsoft Intune: Which MDM Fits a Small Business Best? | Codeproof Articles | [Read More](https://medium.com/p/6a5d06337ebf) |
+| Wed, 10 Sep 2025 21:43:01 GMT | Race Conditions Are Not Just for Bypassing Plan Limits!! | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/1cd63aa0d6f7) |
 | Wed, 10 Sep 2025 21:42:40 GMT | How to Prevent Data Leaks in Node.js Applications | Somendradev | [Read More](https://medium.com/p/c27662632a28) |
 | Wed, 10 Sep 2025 21:38:12 GMT | kioptrix level 3 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/391acaf15937) |
 | Wed, 10 Sep 2025 21:37:40 GMT | When is the Right Time to Hire a CISO? | Matthew.Rosenquist | [Read More](https://medium.com/p/64e9e18a8605) |
@@ -37,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 20:31:31 GMT | The Linux Process Journey — man (Manual Pages) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/50f1145a4373) |
 | Wed, 10 Sep 2025 20:26:15 GMT | The $1 Billion AI Training Mirage: Why Reskilling Won’t Protect Your Job | J. David Smith | [Read More](https://medium.com/p/1c020e890974) |
 | Wed, 10 Sep 2025 20:20:12 GMT | SQL for Security Analysts: Filtering Login Events & Employee Data Like a Pro | Myshawne Stallings | [Read More](https://medium.com/p/a23155e45f07) |
+| Wed, 10 Sep 2025 20:19:34 GMT | Différence entre le TOP10 de l’OWASP et ASVS | Patrick Boucher | [Read More](https://medium.com/p/493b43d6ca7c) |
 | Wed, 10 Sep 2025 20:12:28 GMT | TryHackMe — Nmap: The Basics - Cyber Security 101 (THM) | Dang3rXgh0st | [Read More](https://medium.com/p/9764fdb3f64d) |
 | Wed, 10 Sep 2025 20:11:29 GMT | Contra Doctrine Manual 1 (CDM-1) — Field Manual of Origin | Contra Doctrine | [Read More](https://medium.com/p/92ef9685c430) |
 | Wed, 10 Sep 2025 20:08:06 GMT | PG Practice — Internal (Windows) | Lepton | [Read More](https://medium.com/p/6b0359652791) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 16:44:42 GMT | SOC Role in Blue Team - TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/df990a14c00b) |
 | Wed, 10 Sep 2025 16:43:35 GMT | Why SIEM Rules Sometimes Fail… and How to Fix the Game. | Maged Anas | [Read More](https://medium.com/p/91975f6ac763) |
 | Wed, 10 Sep 2025 16:42:36 GMT | Ethical Hacking Diploma Course Near Me — Kickstart a High-Paying Cybersecurity Career with… | Nitin Singh | [Read More](https://medium.com/p/0f2becacef28) |
-| Wed, 10 Sep 2025 16:41:04 GMT | How Hackers Trick AI Chatbots (and What You Can Do About It) | BillfordX | [Read More](https://medium.com/p/7fe32efac2b6) |
-| Wed, 10 Sep 2025 16:28:51 GMT | CVE-2025–54911 & CVE-2025–54912 — BitLocker’s Double Trouble | gm0 | [Read More](https://medium.com/p/ec508f9ba345) |
-| Wed, 10 Sep 2025 16:27:04 GMT | Blue Team Labs Online: Network Analysis — Malware Compromise | Juan Alexander Alejo | [Read More](https://medium.com/p/e83fb9f67ab9) |
-| Wed, 10 Sep 2025 16:22:42 GMT | Multi-Tenant AI Agent with BigQuery and Agentspace | Pat Grady | [Read More](https://medium.com/p/f3a5eeb27860) |
-| Wed, 10 Sep 2025 16:13:34 GMT | Why I Destroyed My Multi-Skill Portfolio to Start Over (And You Should Too) | Dayoisawumi | [Read More](https://medium.com/p/b3bdad631e11) |
-| Wed, 10 Sep 2025 16:10:54 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Septiembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/ef1ee040a0e3) |
-| Wed, 10 Sep 2025 16:08:51 GMT | TryHackMe - SOC Role in Blue Team - WriteUp | Axoloth | [Read More](https://medium.com/p/e998a9e9ee04) |
-| Wed, 10 Sep 2025 16:07:34 GMT | Achievement Unlocked: “Feeling Blue” Badge HackTheBox | napol | [Read More](https://medium.com/p/69c3b58ef673) |
