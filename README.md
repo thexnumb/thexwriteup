@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 19:09:28 GMT | Xmas Scans in Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/c17812fcdb2d) |
+| Wed, 10 Sep 2025 18:59:05 GMT | Embarking on a thrilling adventure! | Zainab Saeed | [Read More](https://medium.com/p/1b17a1d24803) |
+| Wed, 10 Sep 2025 18:56:33 GMT | Steganography: Definition and Practical Application Using Kali Linux | Balogun Ayomide | [Read More](https://medium.com/p/ee57356a6709) |
+| Wed, 10 Sep 2025 18:55:34 GMT | The Art of the Clone: Social Engineering Toolkit in Action | Balogun Ayomide | [Read More](https://medium.com/p/352827b54841) |
+| Wed, 10 Sep 2025 18:52:00 GMT | Key Management: Securely Managing Encryption Keys | Cyber Security Research | [Read More](https://medium.com/p/267583300c1c) |
 | Wed, 10 Sep 2025 18:41:18 GMT | The Silent Killer in Web Apps: SSRF Explained | M.sriman | [Read More](https://medium.com/p/d87649d45af0) |
 | Wed, 10 Sep 2025 18:38:37 GMT | Authentication | Jacob Piloto | [Read More](https://medium.com/p/186570c30570) |
 | Wed, 10 Sep 2025 18:37:56 GMT | Subdomain Discovery and Enumeration: From Noise to Valuable Targets | Swetha | [Read More](https://medium.com/p/bbc42b644b74) |
@@ -108,8 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 13:44:12 GMT | Completed 100 rooms in THM | St0tRaa | [Read More](https://medium.com/p/4f8819a7adf7) |
 | Wed, 10 Sep 2025 13:36:00 GMT | Zero Trust Network: How to Implement It Technically ️ | Esra Kayhan | [Read More](https://medium.com/p/e0fc5182fde5) |
 | Wed, 10 Sep 2025 13:23:56 GMT | Handling File Uploads & Downloads in Spring Boot | Ayoub Taouam | [Read More](https://medium.com/p/949442b0c268) |
-| Wed, 10 Sep 2025 13:13:21 GMT | $1.5B Gone Overnight: How Re Protocol Could Stop Web3 Disasters | Jaycee Crypt | [Read More](https://medium.com/p/489dcdbedb6f) |
-| Wed, 10 Sep 2025 13:13:19 GMT | Top 15 Best Law Firms for Data Protection and Privacy Laws | Hansen Tong | [Read More](https://medium.com/p/640b8e68b98a) |
-| Wed, 10 Sep 2025 13:11:59 GMT | Malware Explained: The Most Dangerous Types and How to Spot Them | Timónofearth | [Read More](https://medium.com/p/fc44b200648a) |
-| Wed, 10 Sep 2025 13:11:05 GMT | Strengthening Security with Extended Detection and Response (XDR) | abc | [Read More](https://medium.com/p/5b2142953b79) |
-| Wed, 10 Sep 2025 13:10:51 GMT | I Found My First Critical Bug Using SQL Injection Recon | Ibtissam hammadi | [Read More](https://medium.com/p/6a3e2f9d89f5) |
