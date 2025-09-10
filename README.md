@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 11:12:11 GMT | The Importance Of Cybersecurity: Why It’s a Top Priority Today | Robindoston | [Read More](https://medium.com/p/4ded50639033) |
+| Wed, 10 Sep 2025 11:05:34 GMT | Salty2FA Phishing Kit Emerges as Major Threat to Enterprises in the US and EU | Jasmitharouthu | [Read More](https://medium.com/p/5ba8d8f2b937) |
+| Wed, 10 Sep 2025 11:04:11 GMT | Small type of Classic idor i find | Imran Niaz | [Read More](https://medium.com/p/416a11b1fe59) |
+| Wed, 10 Sep 2025 11:01:48 GMT | Stop Indirect Prompt Injection Before It Hijacks Your Agents | Tochukwu Okonkwor | [Read More](https://medium.com/p/7a2757237e7a) |
+| Wed, 10 Sep 2025 11:01:45 GMT | Lessons Learned from Heartbreak: How Pain Became My Greatest Teacher | Her Out-of-Office Feelings | [Read More](https://medium.com/p/1dd154f92c22) |
+| Wed, 10 Sep 2025 11:01:36 GMT | The Cyber Resilience Act: A New Era of Digital Security | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/d70599650d77) |
+| Wed, 10 Sep 2025 10:58:35 GMT | “Verdammt, schon wieder IT-Sicherheit!” | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/b45251cc4414) |
+| Wed, 10 Sep 2025 10:55:28 GMT | Real-World Exploitation Gaps: For Fun and For Profit | Ajibola Lawal | [Read More](https://medium.com/p/1a64cd8e7ef8) |
+| Wed, 10 Sep 2025 10:54:30 GMT | Five free books on Cyber Threat Intelligence | Φiriki Intelligence | [Read More](https://medium.com/p/6b2384ceebef) |
+| Wed, 10 Sep 2025 10:52:43 GMT | 0 day vulnerabilities are going somewhere else | Imran Niaz | [Read More](https://medium.com/p/86436095b07b) |
+| Wed, 10 Sep 2025 10:42:54 GMT | Securing Model Context Protocol (MCP) Servers with OAuth2 -Part1 | Ranadheer pendru | [Read More](https://medium.com/p/d83795f9f92b) |
 | Wed, 10 Sep 2025 10:34:29 GMT | PBO : Enkapsulasi dan Akses Modifier | Yasa Wijaya | [Read More](https://medium.com/p/e6eef344040a) |
+| Wed, 10 Sep 2025 10:32:53 GMT | Inside SparkKitty: The Trojan Spy Proving Your Phone Isn’t Safe | Amol Rangari | [Read More](https://medium.com/p/5d8d5a22d5e4) |
 | Wed, 10 Sep 2025 10:27:16 GMT | Role-Based vs. Attribute-Based Access Control: Which One Fits Your Business? | Yuvi Aggarwal | [Read More](https://medium.com/p/11a1cf750298) |
 | Wed, 10 Sep 2025 10:23:57 GMT | How Cloud Security Is Essential for Every Business | Kartik Debnath | [Read More](https://medium.com/p/8fe27d348fbd) |
 | Wed, 10 Sep 2025 10:23:09 GMT | Responder Tool Footprints in NTLM Credential Theft | hx015 | [Read More](https://medium.com/p/6f25ec7984d3) |
@@ -100,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 06:21:39 GMT | Top 10 XDRS in India | Manisha Chaudhary | [Read More](https://medium.com/p/b311a658d2cc) |
 | Wed, 10 Sep 2025 06:20:04 GMT | Why Developers Love SafeLine WAF (17K+ Stars and Growing) | AerieWhole123 | [Read More](https://medium.com/p/31485653068d) |
 | Wed, 10 Sep 2025 06:14:11 GMT | Minimizing Bottlenecks: The Check-in Kiosk Advantage | Rakesh | [Read More](https://medium.com/p/dcdeb5241c3c) |
-| Wed, 10 Sep 2025 06:10:36 GMT | *What is a RAT?* | Hassan Ali | [Read More](https://medium.com/p/c9cef79cc85e) |
-| Wed, 10 Sep 2025 06:05:52 GMT | Why Billionaires Are Secretly Learning These 7 ‘Useless’ Skills | Manander Singh (MSD) | [Read More](https://medium.com/p/e47073f5cfaa) |
-| Wed, 10 Sep 2025 06:03:04 GMT | Mobile Market Report 2025: Latest Growth Trends Revealed | DeviceSpotSpecifications | [Read More](https://medium.com/p/44cb4b6512c2) |
-| Wed, 10 Sep 2025 06:01:59 GMT | Identity Attacks in a Passwordless World: How OAuth & SSO Flaws Are Exploited | Narendar Battula (nArEn) | [Read More](https://medium.com/p/97eabe15b64e) |
-| Wed, 10 Sep 2025 06:01:52 GMT | Cybersecurity Market Opportunities in Cloud, IoT, and AI Security | Kristinshell | [Read More](https://medium.com/p/e582eec83f86) |
-| Wed, 10 Sep 2025 06:01:49 GMT | IDOR: How I Could Delete Any Product Image on an E-Commerce Platform | Mahmoud El Manzalawy | [Read More](https://medium.com/p/8998453a50ea) |
-| Wed, 10 Sep 2025 06:01:20 GMT | The Digital Red Flags You’re Ignoring Every Day | Shahzaib | [Read More](https://medium.com/p/e0362488d33a) |
-| Wed, 10 Sep 2025 06:01:13 GMT | The Ultimate Guide to Choosing a Cloud Application Development Company in 2025 | Trajectus | [Read More](https://medium.com/p/e58a74ceff80) |
-| Wed, 10 Sep 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — Sep 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f46d55f401fd) |
-| Wed, 10 Sep 2025 06:00:27 GMT | From Legacy Systems to Autonomous Operations: Transforming Manufacturing with Technology | Hardwin Software Solutions | [Read More](https://medium.com/p/c43bdcc7f77a) |
-| Wed, 10 Sep 2025 06:00:05 GMT | Event Correlation with Wazuh + MITRE 
-ATT&CK: Detecting Tactics, Not Just 
-Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
-| Wed, 10 Sep 2025 05:59:44 GMT | When Bots Turn Malicious: The Rise of AI-Powered Credential Stuffing Attacks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2e24e658e31f) |
