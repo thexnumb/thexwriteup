@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 18:41:18 GMT | The Silent Killer in Web Apps: SSRF Explained | M.sriman | [Read More](https://medium.com/p/d87649d45af0) |
+| Wed, 10 Sep 2025 18:38:37 GMT | Authentication | Jacob Piloto | [Read More](https://medium.com/p/186570c30570) |
+| Wed, 10 Sep 2025 18:37:56 GMT | Subdomain Discovery and Enumeration: From Noise to Valuable Targets | Swetha | [Read More](https://medium.com/p/bbc42b644b74) |
+| Wed, 10 Sep 2025 18:37:19 GMT | VPN vs Proxy: The Simple Analogy That Finally Explains the Difference | Taha Yousuf Ali | [Read More](https://medium.com/p/fe3dbe3b640b) |
+| Wed, 10 Sep 2025 18:19:44 GMT | The npm Attacks That Should Terrify Every Developer (And How to Fight Back) | Swarna Ravi | [Read More](https://medium.com/p/1c6a630cda20) |
 | Wed, 10 Sep 2025 18:16:11 GMT | How to Pass the RHCSA Exam in 2025: Complete Guide + Real Exam Tips | boltx | [Read More](https://medium.com/p/85068b397e35) |
 | Wed, 10 Sep 2025 18:13:16 GMT | Cybersecurity in 2025: How to Stay Ahead of Emerging Threats | Radia 2025 | [Read More](https://medium.com/p/6eb9104bba86) |
 | Wed, 10 Sep 2025 18:09:27 GMT | SQL and Cybersecurity: Why Protecting Databases is Critical | Lumae | [Read More](https://medium.com/p/3f017eff9957) |
@@ -108,8 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 13:11:59 GMT | Malware Explained: The Most Dangerous Types and How to Spot Them | Timónofearth | [Read More](https://medium.com/p/fc44b200648a) |
 | Wed, 10 Sep 2025 13:11:05 GMT | Strengthening Security with Extended Detection and Response (XDR) | abc | [Read More](https://medium.com/p/5b2142953b79) |
 | Wed, 10 Sep 2025 13:10:51 GMT | I Found My First Critical Bug Using SQL Injection Recon | Ibtissam hammadi | [Read More](https://medium.com/p/6a3e2f9d89f5) |
-| Wed, 10 Sep 2025 13:10:12 GMT | All computers locked — what to do in the event of a ransomware attack? | Cordula Boeck | [Read More](https://medium.com/p/5ae900279824) |
-| Wed, 10 Sep 2025 13:04:40 GMT | Drupal Website Security: Best Practices for 2025 | Drupart Digital | [Read More](https://medium.com/p/fa3a58730f6c) |
-| Wed, 10 Sep 2025 13:03:35 GMT | How Event Security Services Adapt to Different Event Types | Jane Tang | [Read More](https://medium.com/p/8a3df74042d0) |
-| Wed, 10 Sep 2025 13:03:12 GMT | The Cybersecurity Job Market in 2025: Opportunities and Challenges for F-1 Students | Devaaravindlutukurty | [Read More](https://medium.com/p/7e5cec0eb4f5) |
-| Wed, 10 Sep 2025 12:58:27 GMT | I’ll Instantly Know You Don’t Understand Cybersecurity If You Say This | Rishisec | [Read More](https://medium.com/p/0b14afd5e9ba) |
