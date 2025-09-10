@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 16:42:36 GMT | Ethical Hacking Diploma Course Near Me — Kickstart a High-Paying Cybersecurity Career with… | Nitin Singh | [Read More](https://medium.com/p/0f2becacef28) |
+| Wed, 10 Sep 2025 16:41:04 GMT | How Hackers Trick AI Chatbots (and What You Can Do About It) | BillfordX | [Read More](https://medium.com/p/7fe32efac2b6) |
+| Wed, 10 Sep 2025 16:28:51 GMT | CVE-2025–54911 & CVE-2025–54912 — BitLocker’s Double Trouble | gm0 | [Read More](https://medium.com/p/ec508f9ba345) |
+| Wed, 10 Sep 2025 16:27:04 GMT | Blue Team Labs Online: Network Analysis — Malware Compromise | Juan Alexander Alejo | [Read More](https://medium.com/p/e83fb9f67ab9) |
+| Wed, 10 Sep 2025 16:22:42 GMT | Multi-Tenant AI Agent with BigQuery and Agentspace | Pat Grady | [Read More](https://medium.com/p/f3a5eeb27860) |
 | Wed, 10 Sep 2025 16:13:34 GMT | Why I Destroyed My Multi-Skill Portfolio to Start Over (And You Should Too) | Dayoisawumi | [Read More](https://medium.com/p/b3bdad631e11) |
 | Wed, 10 Sep 2025 16:10:54 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Septiembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/ef1ee040a0e3) |
 | Wed, 10 Sep 2025 16:08:51 GMT | TryHackMe - SOC Role in Blue Team - WriteUp | Axoloth | [Read More](https://medium.com/p/e998a9e9ee04) |
@@ -108,8 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 11:34:27 GMT | Cracking Cybersecurity: Where Do You Even Start? | Authlyn | [Read More](https://medium.com/p/3d0c91c066c7) |
 | Wed, 10 Sep 2025 11:33:51 GMT | Cyber Weapons Are the New Nuclear Threat | Hemang | [Read More](https://medium.com/p/1b6c9196bff3) |
 | Wed, 10 Sep 2025 11:31:41 GMT | The Quiet Strength of Vulnerability | Deeksha | [Read More](https://medium.com/p/ccb962557552) |
-| Wed, 10 Sep 2025 11:26:16 GMT | Why Employee Cyber Training Matters | Priyesh | [Read More](https://medium.com/p/0d1304641c3b) |
-| Wed, 10 Sep 2025 11:24:25 GMT | If You Use Telegram: Read This Now | Scofield O. Idehen | [Read More](https://medium.com/p/63f9a02a5c9c) |
-| Wed, 10 Sep 2025 11:21:40 GMT | When “Private” ChatGPT Conversations Go Public: GRC Takeaways | Brittney Ginther | [Read More](https://medium.com/p/cf8b9737c868) |
-| Wed, 10 Sep 2025 11:21:40 GMT | Malware Analysis on Linux | Esra Kayhan | [Read More](https://medium.com/p/dbdbad6c486d) |
-| Wed, 10 Sep 2025 11:21:09 GMT | Best 5 Tech Platforms for Cybersecurity Courses in Abia State | ECR Academy | [Read More](https://medium.com/p/252423b1d891) |
