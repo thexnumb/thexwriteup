@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 08:23:57 GMT | Advanced Paid Resources for Experienced Bug Bounty Hunters | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/3c900060bf8e) |
+| Wed, 10 Sep 2025 08:22:16 GMT | Securing Microsoft Cloud from the Ground Up: A Guide to Cloud Defense in Azure | Amrik Singh Hanjra | [Read More](https://medium.com/p/6f22524444fc) |
+| Wed, 10 Sep 2025 08:19:35 GMT | SASE Explained: The Future of Secure Networking | Natarajan C K | [Read More](https://medium.com/p/bb2099a2ad0b) |
+| Wed, 10 Sep 2025 08:17:41 GMT | Quantum-Encrypted Estates: Ultimate Privacy for the Ultra‑wealthy | Paran | [Read More](https://medium.com/p/b539bbdeba83) |
+| Wed, 10 Sep 2025 08:16:05 GMT | Optimising Cyber Resilience Using Monitoring and Response Systems | Vijilan | [Read More](https://medium.com/p/b986bcc2f0fe) |
+| Wed, 10 Sep 2025 08:12:42 GMT | Node.js ile Rate Limiting: API’lerinizi Nasıl Korursunuz? | Uygar Eren | [Read More](https://medium.com/p/1d3262b2aafa) |
+| Wed, 10 Sep 2025 08:12:18 GMT | Neither Bulletproof Nor Aloof | JC | [Read More](https://medium.com/p/d89a89f45fd1) |
+| Wed, 10 Sep 2025 08:04:44 GMT | Government and Public Sector Web Development: Why Regulations Are the Blueprint for Digital Trust | Amaka okoye | [Read More](https://medium.com/p/aae6310d8e5f) |
+| Wed, 10 Sep 2025 08:04:20 GMT | Hacking Into India’s Largest Payment Network Through a Single API Call | Monish Basaniwal | [Read More](https://medium.com/p/d42d115afa25) |
+| Wed, 10 Sep 2025 08:02:34 GMT | The Loveliest People Have Met Their Darkness | Hazrat Usman | [Read More](https://medium.com/p/dbbb1ad08154) |
+| Wed, 10 Sep 2025 08:01:49 GMT | [Part 4] 5 Real-Life AI Cyber Attacks That Shocked the World | Cyberkech | [Read More](https://medium.com/p/6e482fd6bbf4) |
+| Wed, 10 Sep 2025 08:01:43 GMT | Ephemeral, Identity-Only Secrets: SPIFFE → Vault/KMS Exchange | Mohamed ElEmam | [Read More](https://medium.com/p/026688be169b) |
+| Wed, 10 Sep 2025 08:01:43 GMT | Security Isn’t Just Firewalls and Antivirus — It’s a Whole Castle Strategy | MayhemCode | [Read More](https://medium.com/p/106c0219e534) |
+| Wed, 10 Sep 2025 07:59:26 GMT | SEC delays Bitwise Dogecoin and Grayscale Hedera ETF decisions to November | IC News | [Read More](https://medium.com/p/1244e895922d) |
+| Wed, 10 Sep 2025 07:52:53 GMT | Top Cyber Security Services Providers in Australia: Safeguarding Your Business in the Digital Age | vGics Global LLP | [Read More](https://medium.com/p/fcdf37ded74c) |
+| Wed, 10 Sep 2025 07:48:57 GMT | How to Store PII Securely: Practical Steps for Developers and Businesses | Taufik Kemal | [Read More](https://medium.com/p/5da20bc8827e) |
+| Wed, 10 Sep 2025 07:47:41 GMT | Injection Attacks: The Old but Deadly Threat That Still Haunts the Web | CyberSenpai | [Read More](https://medium.com/p/df49370ff407) |
+| Wed, 10 Sep 2025 07:42:35 GMT | When WordPress Errors Leak Too Much: Lessons From a Real-World Case | Hafsa Rehman | [Read More](https://medium.com/p/0a71f6e20887) |
+| Wed, 10 Sep 2025 07:42:34 GMT | Compare MDM Software Features & Alternatives Easily | Vantage MDM | [Read More](https://medium.com/p/a9266f95997d) |
+| Wed, 10 Sep 2025 07:39:57 GMT | PAAHIPAA Compliance in India: Protecting Patient Privacy in a Digital Age | CyberSecurity24x7 | [Read More](https://medium.com/p/a59c03bf0c58) |
+| Wed, 10 Sep 2025 07:38:53 GMT | Mobile Market Report 2025: Must-Know Data and Predictions | Alamin | [Read More](https://medium.com/p/c50163b4826b) |
+| Wed, 10 Sep 2025 07:38:26 GMT | Securing the Digital Perimeter with Zero Trust Architecture & Micro segmentation | Henmathkumar | [Read More](https://medium.com/p/5014044320e6) |
 | Wed, 10 Sep 2025 07:34:39 GMT | Day 88: Privilege Escalation Fundamentals | Nile Okomo | [Read More](https://medium.com/p/2173f84d48d2) |
+| Wed, 10 Sep 2025 07:34:36 GMT | Silent Sniper: How I Turned a Blind SSRF into a Critical AWS Infrastructure Breach | Iski | [Read More](https://medium.com/p/ae40614de53b) |
+| Wed, 10 Sep 2025 07:31:12 GMT | Automation For Contract Lifecycle Management | Gautami_Raiker | [Read More](https://medium.com/p/40d4ac1c05ae) |
 | Wed, 10 Sep 2025 07:23:25 GMT | Automation For Contract Lifecycle Management | Marketing | [Read More](https://medium.com/p/7f45ebdddde4) |
 | Wed, 10 Sep 2025 07:21:40 GMT | What is SQL Injection (SQLi)? | Dhruv | [Read More](https://medium.com/p/3833e80f3bb9) |
 | Wed, 10 Sep 2025 07:20:18 GMT | How I Got an Unexpected Bounty from REDETECT.com | MRKNIGHT-NIDU | [Read More](https://medium.com/p/5951793b1519) |
@@ -90,27 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 03:03:04 GMT | How Cybersecurity Publications Prepared Me (and Failed Me) for Real-World Attacks | Shahzaib | [Read More](https://medium.com/p/53d53d1a7b36) |
 | Wed, 10 Sep 2025 03:02:42 GMT | Demystifying Endpoint Protection and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/2bd985f2c22e) |
 | Wed, 10 Sep 2025 03:00:21 GMT | Michael William Firkus Introduces Root–Mirror–Gate: A New Philosophy of Survival-to-Authorship | USAI Insight | [Read More](https://medium.com/p/939061b30026) |
-| Wed, 10 Sep 2025 02:58:47 GMT | From Instagram Comments to AI-Generated LinkedIn Profiles: How Scammers Exploit the Holiday Season | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/7a65068bf9ea) |
-| Wed, 10 Sep 2025 02:42:08 GMT | Hacking Minds with Ansh Bhawanani— The BSides Weekly [S1E8] | Riddhikacheruku | [Read More](https://medium.com/p/69be171b58d8) |
-| Wed, 10 Sep 2025 02:33:47 GMT | A Fun and Relatively Irrelevant Win11 Kiosk Escape | Mike Manrod | [Read More](https://medium.com/p/54d591e174fb) |
-| Wed, 10 Sep 2025 02:27:07 GMT | Write Up Lab: SQL injection UNION attack, retrieving data from other tables | Velskynotfound | [Read More](https://medium.com/p/56bc8409445f) |
-| Wed, 10 Sep 2025 02:21:40 GMT | Where to Hire an Instagram Hacker - Blackhatclique.com | Donley Mark | [Read More](https://medium.com/p/49ae9a0fff1e) |
-| Wed, 10 Sep 2025 02:18:54 GMT | Mastering Bug Bounty: The Secrets of hunting bugs by Devansh Chauhan — The BSides Weekly [S1E7] | Riddhikacheruku | [Read More](https://medium.com/p/8d8932a5089a) |
-| Wed, 10 Sep 2025 02:18:42 GMT | Least Privilege Practices on AWS: DevOps Users with Minimal Rights | Nitaoktaviani | [Read More](https://medium.com/p/ca7cb908501f) |
-| Wed, 10 Sep 2025 02:15:11 GMT | URL Normalization Turns a Harmless Request into a Cache-Poisoned XSS Attack | Bash Overflow | [Read More](https://medium.com/p/57d1a68f08d2) |
-| Wed, 10 Sep 2025 02:10:35 GMT | Wi-Fi not working on Kali? Here is how to fix it! | Matheus Bitencourt | [Read More](https://medium.com/p/e654c0eb5524) |
-| Wed, 10 Sep 2025 01:59:57 GMT | Is Technology Making Us Smarter or Dumber? A Look at the Cognitive Impact | muhammad ardiansah | [Read More](https://medium.com/p/15e8bf63bc40) |
-| Wed, 10 Sep 2025 01:50:32 GMT | Demystifying Endpoint Protection and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/47e60def9408) |
-| Wed, 10 Sep 2025 01:48:14 GMT | Secrets Management in Node.js Using HashiCorp Vault | Somendradev | [Read More](https://medium.com/p/b3dfd663dc39) |
-| Wed, 10 Sep 2025 01:43:06 GMT | What If Your Boyfriend Cries in Front Of You? | Vilena Kovaleva | [Read More](https://medium.com/p/33299d323bb4) |
-| Wed, 10 Sep 2025 01:34:38 GMT | Cloudflare Mitigates Record-Breaking 11.5 Tbps DDoS Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/d7016e69e3a6) |
-| Wed, 10 Sep 2025 01:32:26 GMT | Zscaler Confirms Data Breach Linked to Salesloft Drift Compromise | SafetyDetectives Research Team | [Read More](https://medium.com/p/c209a6fbff59) |
-| Wed, 10 Sep 2025 01:28:40 GMT | Securing Remote Work: A Comprehensive Guide for Employees and Companies | Samina Perveen | [Read More](https://medium.com/p/93758935b740) |
-| Wed, 10 Sep 2025 01:22:53 GMT | It is Easy to Steal Your Passwords with innerHTML — DOM XSS | Wan-Yi Lee | [Read More](https://medium.com/p/b9f28a13f5b0) |
-| Wed, 10 Sep 2025 01:12:12 GMT | Tracing an Enterprise Breach: A Kill Chain & MITRE ATT&CK Walkthrough from Windows Logs | Kunal Nagra | [Read More](https://medium.com/p/8f12c8df4161) |
-| Wed, 10 Sep 2025 01:00:39 GMT | How to claim nexchain token presale | Bitcoinpepe | [Read More](https://medium.com/p/426c378e7269) |
-| Wed, 10 Sep 2025 00:58:37 GMT | How to participate in bitcoin penguins NFT/Airdrop Rewards 2025 | Bitcoinpepe | [Read More](https://medium.com/p/9260a543e987) |
-| Wed, 10 Sep 2025 00:57:16 GMT | How to claim. bitcoin penguins 1 BTC Giveaway 2025 | Bitcoinpepe | [Read More](https://medium.com/p/446adf65ba48) |
-| Wed, 10 Sep 2025 00:55:54 GMT | MIT Research: 95% of Enterprise AI Projects Fail — Here’s What’s Really Going Wrong | Sunil Singh | [Read More](https://medium.com/p/eef187cb5107) |
-| Wed, 10 Sep 2025 00:39:30 GMT | Rebuilding Malware Doesn’t Make It Secure | ijlal | [Read More](https://medium.com/p/5388453bec7f) |
-| Wed, 10 Sep 2025 00:31:40 GMT | Cyber Command + NSA: Why The Dual-Hat Power Play Still Rules | Cyber Cav | [Read More](https://medium.com/p/4b3229e61eda) |
