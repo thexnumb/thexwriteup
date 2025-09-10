@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 03:07:44 GMT | Breaking: npm Supply-Chain Hacker Wallet Traced to Public OpenSea Profile — Kyrgyzstan Connection… | ekomsSavior | [Read More](https://medium.com/p/7b893ef4b895) |
+| Wed, 10 Sep 2025 03:03:04 GMT | How Cybersecurity Publications Prepared Me (and Failed Me) for Real-World Attacks | Shahzaib | [Read More](https://medium.com/p/53d53d1a7b36) |
+| Wed, 10 Sep 2025 03:02:42 GMT | Demystifying Endpoint Protection and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/2bd985f2c22e) |
+| Wed, 10 Sep 2025 03:00:21 GMT | Michael William Firkus Introduces Root–Mirror–Gate: A New Philosophy of Survival-to-Authorship | USAI Insight | [Read More](https://medium.com/p/939061b30026) |
+| Wed, 10 Sep 2025 02:58:47 GMT | From Instagram Comments to AI-Generated LinkedIn Profiles: How Scammers Exploit the Holiday Season | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/7a65068bf9ea) |
 | Wed, 10 Sep 2025 02:42:08 GMT | Hacking Minds with Ansh Bhawanani— The BSides Weekly [S1E8] | Riddhikacheruku | [Read More](https://medium.com/p/69be171b58d8) |
 | Wed, 10 Sep 2025 02:33:47 GMT | A Fun and Relatively Irrelevant Win11 Kiosk Escape | Mike Manrod | [Read More](https://medium.com/p/54d591e174fb) |
 | Wed, 10 Sep 2025 02:27:07 GMT | Write Up Lab: SQL injection UNION attack, retrieving data from other tables | Velskynotfound | [Read More](https://medium.com/p/56bc8409445f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 18:53:41 GMT | How I Earned $3,500 with a Simple Injection Bug (And You Can Too) | Rashadul Islam | [Read More](https://medium.com/p/deeab8941c04) |
 | Tue, 09 Sep 2025 18:50:21 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/bdd66760295a) |
 | Tue, 09 Sep 2025 18:48:24 GMT | Artificial Intelligence Used in 80% of Ransomware Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b6e4d02233ed) |
-| Tue, 09 Sep 2025 18:45:31 GMT | The future i see DroseraNetwork building in Defi | braham | [Read More](https://medium.com/p/af19c3de375b) |
-| Tue, 09 Sep 2025 18:38:35 GMT | How I Build Universal CORS Exploitation Payloads (with Fetch) | Cybernerddd | [Read More](https://medium.com/p/b04d1c6705df) |
-| Tue, 09 Sep 2025 18:36:52 GMT | Cracking the Google XSS Game: XSS in AppSec | Richard Ndung'u | [Read More](https://medium.com/p/302a96949447) |
-| Tue, 09 Sep 2025 18:35:28 GMT | Novice Student Modify Tuition Payment Records | Kiran Adhikari | [Read More](https://medium.com/p/50c8a3bc19a8) |
-| Tue, 09 Sep 2025 18:33:04 GMT | Session Management THM Walkthrough | Dorukeymengormek | [Read More](https://medium.com/p/6cdceb8f4157) |
