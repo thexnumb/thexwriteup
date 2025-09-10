@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 15:29:13 GMT | SOC Role in Blue Team - Tryhackme | Aaron | [Read More](https://medium.com/p/e0398b30dc05) |
+| Wed, 10 Sep 2025 15:20:45 GMT | Digital Forensics Services: Unlocking Truth in the Digital Age | secureroot | [Read More](https://medium.com/p/90f56c3bf42f) |
 | Wed, 10 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5c581a31e4cc) |
 | Wed, 10 Sep 2025 15:14:29 GMT | Decision Intelligence Pro: The AI Brain Behind Your Mastercard | Bhavya Taneja | [Read More](https://medium.com/p/9f18bb7a5247) |
 | Wed, 10 Sep 2025 15:11:47 GMT | iOS and macOS users — make sure your WhatsApp is updated | Cybersectoworld | [Read More](https://medium.com/p/49788c0cae0d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 10:27:16 GMT | Role-Based vs. Attribute-Based Access Control: Which One Fits Your Business? | Yuvi Aggarwal | [Read More](https://medium.com/p/11a1cf750298) |
 | Wed, 10 Sep 2025 10:23:57 GMT | How Cloud Security Is Essential for Every Business | Kartik Debnath | [Read More](https://medium.com/p/8fe27d348fbd) |
 | Wed, 10 Sep 2025 10:23:09 GMT | Responder Tool Footprints in NTLM Credential Theft | hx015 | [Read More](https://medium.com/p/6f25ec7984d3) |
-| Wed, 10 Sep 2025 10:16:00 GMT | Cyber Security in the Age of AI Threats | Build with Qwegle | [Read More](https://medium.com/p/c32ba45710a2) |
-| Wed, 10 Sep 2025 10:09:55 GMT | Demystifying Endpoint Protection and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/6cd9e75922ab) |
