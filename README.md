@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 17:00:31 GMT | Essential Tips to Defend Against Man-in-the-Middle Attacks | Kambetastephano | [Read More](https://medium.com/p/52bc8177ab92) |
+| Wed, 10 Sep 2025 16:55:04 GMT | How Hackers Steal Your Data & How You Can Stop Them | Kambetastephano | [Read More](https://medium.com/p/0dc5fc168122) |
+| Wed, 10 Sep 2025 16:52:53 GMT | They Said XSS Was Dead… Then I Got Paid  (My First Bounty in 2025) | file.bug | [Read More](https://medium.com/p/6eb8d27c6c1a) |
+| Wed, 10 Sep 2025 16:52:10 GMT | Defensive Security Intro — Tryhackme Walkthrough | Nihir Zala | [Read More](https://medium.com/p/194e079873a6) |
+| Wed, 10 Sep 2025 16:50:29 GMT | How Hackers Hide: Using Tor on Linux Explained | kaanvardar | [Read More](https://medium.com/p/a0963f37773c) |
+| Wed, 10 Sep 2025 16:49:14 GMT | Cybersecurity 101: Blocking Hackers from Intercepting Your Data | Kambetastephano | [Read More](https://medium.com/p/499860f62e3b) |
+| Wed, 10 Sep 2025 16:48:07 GMT | A beginner's insight into hacking, VM, Linux and Networking. | ashna | [Read More](https://medium.com/p/47bdd6f653ba) |
+| Wed, 10 Sep 2025 16:44:42 GMT | SOC Role in Blue Team - TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/df990a14c00b) |
+| Wed, 10 Sep 2025 16:43:35 GMT | Why SIEM Rules Sometimes Fail… and How to Fix the Game. | Maged Anas | [Read More](https://medium.com/p/91975f6ac763) |
 | Wed, 10 Sep 2025 16:42:36 GMT | Ethical Hacking Diploma Course Near Me — Kickstart a High-Paying Cybersecurity Career with… | Nitin Singh | [Read More](https://medium.com/p/0f2becacef28) |
 | Wed, 10 Sep 2025 16:41:04 GMT | How Hackers Trick AI Chatbots (and What You Can Do About It) | BillfordX | [Read More](https://medium.com/p/7fe32efac2b6) |
 | Wed, 10 Sep 2025 16:28:51 GMT | CVE-2025–54911 & CVE-2025–54912 — BitLocker’s Double Trouble | gm0 | [Read More](https://medium.com/p/ec508f9ba345) |
@@ -104,12 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 11:51:39 GMT | I Built a Global Threat Intel Lab From Scratch (Then Deleted Half of It by Accident) | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/68ccf22fdb1c) |
 | Wed, 10 Sep 2025 11:50:18 GMT | Scamazon: Phishing Campaign Targets Amazon Prime Customers | Malvox | [Read More](https://medium.com/p/ea5c2efdddc6) |
 | Wed, 10 Sep 2025 11:49:33 GMT | Blockchain Security: Securing Decentralized Systems | Cyber Security Research | [Read More](https://medium.com/p/d2917bcf5565) |
-| Wed, 10 Sep 2025 11:42:18 GMT | The hidden power of vulnerability | Lindsey Cope | [Read More](https://medium.com/p/3929cae49320) |
-| Wed, 10 Sep 2025 11:39:36 GMT | Microsoft Issues Warning on Active Directory Domain Services Vulnerability Allowing Privilege… | Jasmitharouthu | [Read More](https://medium.com/p/675155d9925c) |
-| Wed, 10 Sep 2025 11:39:22 GMT | Why Law Enforcement Is Investing in Multipurpose Thermal Devices | Night Vision 4 Less | [Read More](https://medium.com/p/2ca02d7c1a44) |
-| Wed, 10 Sep 2025 11:38:49 GMT | Hardened Image vs  Golden Image: The Complete Guide with Real-Time Use Cases | Harikrishnan M | [Read More](https://medium.com/p/b89d273943f0) |
-| Wed, 10 Sep 2025 11:36:11 GMT | Bughuntig is going somewhere else direction | Imran Niaz | [Read More](https://medium.com/p/9852b3b72e4d) |
-| Wed, 10 Sep 2025 11:35:04 GMT | Common Phishing URL Links In Kenya. | GAITHO | [Read More](https://medium.com/p/803b52bb6db2) |
-| Wed, 10 Sep 2025 11:34:27 GMT | Cracking Cybersecurity: Where Do You Even Start? | Authlyn | [Read More](https://medium.com/p/3d0c91c066c7) |
-| Wed, 10 Sep 2025 11:33:51 GMT | Cyber Weapons Are the New Nuclear Threat | Hemang | [Read More](https://medium.com/p/1b6c9196bff3) |
-| Wed, 10 Sep 2025 11:31:41 GMT | The Quiet Strength of Vulnerability | Deeksha | [Read More](https://medium.com/p/ccb962557552) |
