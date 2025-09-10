@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 09:06:00 GMT | From Feast or Famine to Pay Forever: The Cloud’s Origin Story | Namir Sagheenanajar | [Read More](https://medium.com/p/70323b417b07) |
+| Wed, 10 Sep 2025 09:05:28 GMT | Best AIOps Platforms Reviews 2025 | Gauri Kale | [Read More](https://medium.com/p/f300872572c1) |
+| Wed, 10 Sep 2025 08:50:42 GMT | Defensive Security Intro: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/555b22ca534d) |
+| Wed, 10 Sep 2025 08:46:32 GMT | Core Networking Protocols Every Engineer Must Know | Aditya Bhardwaj | [Read More](https://medium.com/p/253ddc72371b) |
 | Wed, 10 Sep 2025 08:43:51 GMT | How to do a Static Application Security Test (SAST) test? | Maikel Mardjan | [Read More](https://medium.com/p/0125564eeaaf) |
+| Wed, 10 Sep 2025 08:42:24 GMT | Web & Mobile App Development | Herbertj J | [Read More](https://medium.com/p/63a5a6f87da1) |
+| Wed, 10 Sep 2025 08:42:03 GMT | Poland Shoots Down a Dozen Russian Drones in NATO Airspace | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b1d3795bd78a) |
 | Wed, 10 Sep 2025 08:38:36 GMT | IPv6 DNS Takeover — A Critical Security Vulnerability | Redfox Security | [Read More](https://medium.com/p/c3c6e4ab3803) |
 | Wed, 10 Sep 2025 08:34:15 GMT | Best Practices & Solutions for Enhancing Security in the Hospitality Sector | securityservices | [Read More](https://medium.com/p/f17efbc02fa5) |
 | Wed, 10 Sep 2025 08:31:42 GMT | Shuffle 2.1.0: Datastore Categories, Local AI Models and Singul | Frikky | [Read More](https://medium.com/p/0a20247a35c7) |
@@ -108,9 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 04:40:41 GMT | When Trust Becomes the Weakest Link: Dissecting the September 2025 NPM Supply Chain Attack | Priyal Walpita | [Read More](https://medium.com/p/5160c7c6aea3) |
 | Wed, 10 Sep 2025 04:36:00 GMT | Detection Engineering for KillSec Ransomware: Limited Technical Analysis | Siddhant Mishra | [Read More](https://medium.com/p/a3850692403d) |
 | Wed, 10 Sep 2025 04:32:44 GMT | UI vs. UX: What Really Makes or Breaks Your Website | Karmakoders | [Read More](https://medium.com/p/1ab0a8602889) |
-| Wed, 10 Sep 2025 04:32:21 GMT | High-Stakes Cyber Warfare: The Geopolitical Ripples You Can’t Ignore | iCONIFERz Technology News and Insights | [Read More](https://medium.com/p/0568affebab7) |
-| Wed, 10 Sep 2025 04:16:29 GMT | Chrome had an RCE?? | Pannag Kumaar | [Read More](https://medium.com/p/89efa3f364dd) |
-| Wed, 10 Sep 2025 03:58:54 GMT | Public Wi-Fi and Financial Apps: A Dangerous Convenience for the Side-Hustle Generation | Talkin Debts | [Read More](https://medium.com/p/1c0618a599c2) |
-| Wed, 10 Sep 2025 03:31:39 GMT | From GPT-5 to Password Peril: The Week That Redefined Digital Risk | Akshat Ratanpal | [Read More](https://medium.com/p/568b002593f4) |
-| Wed, 10 Sep 2025 03:31:38 GMT | Securing Dockerized Applications: User Permissions and Capabilities Explained | Vasanthan K | [Read More](https://medium.com/p/54841c5bed9e) |
-| Wed, 10 Sep 2025 03:29:00 GMT | Write Up Lab: SQL injection UNION attack, retrieving multiple values in a single column | Velskynotfound | [Read More](https://medium.com/p/b70ac5880d53) |
