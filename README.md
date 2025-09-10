@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 19:26:55 GMT | Linux Container Security | Eren Cankut Uysal | [Read More](https://medium.com/p/1b5203f92af3) |
+| Wed, 10 Sep 2025 19:26:43 GMT | Issue #1 | Dan Mahoney | [Read More](https://medium.com/p/7b0f80cc65ff) |
+| Wed, 10 Sep 2025 19:26:39 GMT | Migrating Connected Apps to External Client Apps from an ISV / External App Management Perspective | Justus van den Berg | [Read More](https://medium.com/p/e155875a0974) |
+| Wed, 10 Sep 2025 19:25:27 GMT | The Shocking Truth About AI Automation Nobody Wants to Admit | Kainat Nafees | [Read More](https://medium.com/p/76e767d72909) |
+| Wed, 10 Sep 2025 19:22:01 GMT | Web API Authentication and Authorization: A Friendly Guide with Real-Life Examples | Kshitiz Chaudhary | [Read More](https://medium.com/p/8505f40fd2c2) |
+| Wed, 10 Sep 2025 19:21:13 GMT | Born to Create: Navigating Inherited Entitlement | Tamara Alhawamdeh | [Read More](https://medium.com/p/0bac5276196e) |
+| Wed, 10 Sep 2025 19:20:25 GMT | Cybersecurity Careers: Why Ethical Hacking is the Future of IT Security | Smith Adams | [Read More](https://medium.com/p/76e1eba89049) |
+| Wed, 10 Sep 2025 19:09:41 GMT | Cryptography in Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/ec062a061109) |
 | Wed, 10 Sep 2025 19:09:28 GMT | Xmas Scans in Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/c17812fcdb2d) |
+| Wed, 10 Sep 2025 19:02:17 GMT | Hack the Memory Forensics | Luke | [Read More](https://medium.com/p/057f13aee9b4) |
 | Wed, 10 Sep 2025 18:59:05 GMT | Embarking on a thrilling adventure! | Zainab Saeed | [Read More](https://medium.com/p/1b17a1d24803) |
 | Wed, 10 Sep 2025 18:56:33 GMT | Steganography: Definition and Practical Application Using Kali Linux | Balogun Ayomide | [Read More](https://medium.com/p/ee57356a6709) |
 | Wed, 10 Sep 2025 18:55:34 GMT | The Art of the Clone: Social Engineering Toolkit in Action | Balogun Ayomide | [Read More](https://medium.com/p/352827b54841) |
@@ -104,12 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 14:06:48 GMT | Generative AI: Powering the Next Trillion-Dollar Economy | Insydic | [Read More](https://medium.com/p/731e94234cb5) |
 | Wed, 10 Sep 2025 14:05:06 GMT | How I Passed the eJPT : My Journey to Becoming a Junior Penetration Tester | Umang Nayi | [Read More](https://medium.com/p/423858ceac81) |
 | Wed, 10 Sep 2025 14:04:07 GMT | ⚡ Unmasking Volt Typhoon: A SOC Analyst’s Splunk Walkthrough | Furkanctiner | [Read More](https://medium.com/p/5faeef3e2579) |
-| Wed, 10 Sep 2025 14:02:44 GMT | Cyber Briefing: 2025.09.10 | CyberMaterial | [Read More](https://medium.com/p/edbb0d011306) |
-| Wed, 10 Sep 2025 14:02:44 GMT | How to Get Involved in the ABTU Launch | Abatis ABTU | [Read More](https://medium.com/p/07ea4640b02f) |
-| Wed, 10 Sep 2025 14:02:11 GMT | A Surprise in the Supplies! | Brooks Boyd | [Read More](https://medium.com/p/caf9db30af9d) |
-| Wed, 10 Sep 2025 14:01:42 GMT | SOC274 — Operation PAN-OS PANIC: Command Injection Titan Breach (CVE-2024–3400) | Andrew Williams | [Read More](https://medium.com/p/cf690d526c75) |
-| Wed, 10 Sep 2025 13:55:38 GMT | What Are the 10 Toughest IT Certifications in the World? | Livingston Leman | [Read More](https://medium.com/p/04ff942865d8) |
-| Wed, 10 Sep 2025 13:51:53 GMT | Effective Leadership in Organization | Bhumika Shah | [Read More](https://medium.com/p/22d6d487c825) |
-| Wed, 10 Sep 2025 13:44:12 GMT | Completed 100 rooms in THM | St0tRaa | [Read More](https://medium.com/p/4f8819a7adf7) |
-| Wed, 10 Sep 2025 13:36:00 GMT | Zero Trust Network: How to Implement It Technically ️ | Esra Kayhan | [Read More](https://medium.com/p/e0fc5182fde5) |
-| Wed, 10 Sep 2025 13:23:56 GMT | Handling File Uploads & Downloads in Spring Boot | Ayoub Taouam | [Read More](https://medium.com/p/949442b0c268) |
