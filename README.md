@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 12:41:03 GMT | CVE-2025–10099: XSS Vulnerability Plagues i-Educar Platform — Patch Now! | CVEHUB | [Read More](https://medium.com/p/610e1cf68fc9) |
+| Wed, 10 Sep 2025 12:39:31 GMT | … | TheCORALAccessories | [Read More](https://medium.com/p/0ddbd5a035c0) |
+| Wed, 10 Sep 2025 12:37:01 GMT | Android RE Capture the Flag-CTF | Devaaravindlutukurty | [Read More](https://medium.com/p/2b02c9ce936d) |
+| Wed, 10 Sep 2025 12:32:27 GMT | App Security: Can You Really Beat the System? | SilentInject | [Read More](https://medium.com/p/a708379cd704) |
+| Wed, 10 Sep 2025 12:24:57 GMT | “To Survive and To Create”: Four Papers Charting the Future of Intelligence | handman | [Read More](https://medium.com/p/ec4916211c84) |
+| Wed, 10 Sep 2025 12:21:39 GMT | 6 Unmissable AI Security Frameworks You Should Be Using Today | OAF | [Read More](https://medium.com/p/3b4c1e392c02) |
+| Wed, 10 Sep 2025 12:15:45 GMT | The Ultimate Hacker’s Bash Cheat Sheet (20+ Advanced One-Liners Inside) | Very Lazy Tech | [Read More](https://medium.com/p/418385ed1e35) |
+| Wed, 10 Sep 2025 12:15:08 GMT | Privacy Betrayed? Ex-WhatsApp Security Chief Sues. What’s Next? | Truspex | [Read More](https://medium.com/p/93989b24b5b3) |
+| Wed, 10 Sep 2025 12:14:50 GMT | (How data processed in SIEM solution?)Data Normalization and Indexing | Devaaravindlutukurty | [Read More](https://medium.com/p/7203c6ef0d16) |
+| Wed, 10 Sep 2025 12:13:07 GMT | CVE-2025–21293 — The Active Directory Time Bomb | gm0 | [Read More](https://medium.com/p/67ca33569fd8) |
+| Wed, 10 Sep 2025 12:01:49 GMT | How to Build a Secure API with Zero-Trust Principles in 2025 | Umesh Anjula | [Read More](https://medium.com/p/7c915e92a7fe) |
+| Wed, 10 Sep 2025 11:57:40 GMT | Unmasking Snake: The Russian Malware Lurking in U.S. Infrastructure for Over Two Decades | Kara Davis | [Read More](https://medium.com/p/5233baad63ed) |
+| Wed, 10 Sep 2025 11:56:47 GMT | Top 10 WordPress Hosting Providers for Medical Records | Jasmeet  Kaur | [Read More](https://medium.com/p/5cdac683a733) |
+| Wed, 10 Sep 2025 11:56:03 GMT | Adventures in AI (artificial intelligence) coding: Building Advanced Linux Displays, Color Option… | Truvis Thornton | [Read More](https://medium.com/p/51ab98d3f1c3) |
+| Wed, 10 Sep 2025 11:55:48 GMT | PT1 Exam review | Cyan | [Read More](https://medium.com/p/aac54f356fd3) |
+| Wed, 10 Sep 2025 11:51:39 GMT | I Built a Global Threat Intel Lab From Scratch (Then Deleted Half of It by Accident) | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/68ccf22fdb1c) |
+| Wed, 10 Sep 2025 11:50:18 GMT | Scamazon: Phishing Campaign Targets Amazon Prime Customers | Malvox | [Read More](https://medium.com/p/ea5c2efdddc6) |
+| Wed, 10 Sep 2025 11:49:33 GMT | Blockchain Security: Securing Decentralized Systems | Cyber Security Research | [Read More](https://medium.com/p/d2917bcf5565) |
+| Wed, 10 Sep 2025 11:42:18 GMT | The hidden power of vulnerability | Lindsey Cope | [Read More](https://medium.com/p/3929cae49320) |
+| Wed, 10 Sep 2025 11:39:36 GMT | Microsoft Issues Warning on Active Directory Domain Services Vulnerability Allowing Privilege… | Jasmitharouthu | [Read More](https://medium.com/p/675155d9925c) |
+| Wed, 10 Sep 2025 11:39:22 GMT | Why Law Enforcement Is Investing in Multipurpose Thermal Devices | Night Vision 4 Less | [Read More](https://medium.com/p/2ca02d7c1a44) |
+| Wed, 10 Sep 2025 11:38:49 GMT | Hardened Image vs  Golden Image: The Complete Guide with Real-Time Use Cases | Harikrishnan M | [Read More](https://medium.com/p/b89d273943f0) |
 | Wed, 10 Sep 2025 11:36:11 GMT | Bughuntig is going somewhere else direction | Imran Niaz | [Read More](https://medium.com/p/9852b3b72e4d) |
+| Wed, 10 Sep 2025 11:35:04 GMT | Common Phishing URL Links In Kenya. | GAITHO | [Read More](https://medium.com/p/803b52bb6db2) |
 | Wed, 10 Sep 2025 11:34:27 GMT | Cracking Cybersecurity: Where Do You Even Start? | Authlyn | [Read More](https://medium.com/p/3d0c91c066c7) |
 | Wed, 10 Sep 2025 11:33:51 GMT | Cyber Weapons Are the New Nuclear Threat | Hemang | [Read More](https://medium.com/p/1b6c9196bff3) |
 | Wed, 10 Sep 2025 11:31:41 GMT | The Quiet Strength of Vulnerability | Deeksha | [Read More](https://medium.com/p/ccb962557552) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 08:01:49 GMT | [Part 4] 5 Real-Life AI Cyber Attacks That Shocked the World | Cyberkech | [Read More](https://medium.com/p/6e482fd6bbf4) |
 | Wed, 10 Sep 2025 08:01:43 GMT | Ephemeral, Identity-Only Secrets: SPIFFE → Vault/KMS Exchange | Mohamed ElEmam | [Read More](https://medium.com/p/026688be169b) |
 | Wed, 10 Sep 2025 08:01:43 GMT | Security Isn’t Just Firewalls and Antivirus — It’s a Whole Castle Strategy | MayhemCode | [Read More](https://medium.com/p/106c0219e534) |
-| Wed, 10 Sep 2025 07:59:26 GMT | SEC delays Bitwise Dogecoin and Grayscale Hedera ETF decisions to November | IC News | [Read More](https://medium.com/p/1244e895922d) |
-| Wed, 10 Sep 2025 07:52:53 GMT | Top Cyber Security Services Providers in Australia: Safeguarding Your Business in the Digital Age | vGics Global LLP | [Read More](https://medium.com/p/fcdf37ded74c) |
-| Wed, 10 Sep 2025 07:48:57 GMT | How to Store PII Securely: Practical Steps for Developers and Businesses | Taufik Kemal | [Read More](https://medium.com/p/5da20bc8827e) |
-| Wed, 10 Sep 2025 07:47:41 GMT | Injection Attacks: The Old but Deadly Threat That Still Haunts the Web | CyberSenpai | [Read More](https://medium.com/p/df49370ff407) |
-| Wed, 10 Sep 2025 07:42:35 GMT | When WordPress Errors Leak Too Much: Lessons From a Real-World Case | Hafsa Rehman | [Read More](https://medium.com/p/0a71f6e20887) |
-| Wed, 10 Sep 2025 07:42:34 GMT | Compare MDM Software Features & Alternatives Easily | Vantage MDM | [Read More](https://medium.com/p/a9266f95997d) |
-| Wed, 10 Sep 2025 07:39:57 GMT | PAAHIPAA Compliance in India: Protecting Patient Privacy in a Digital Age | CyberSecurity24x7 | [Read More](https://medium.com/p/a59c03bf0c58) |
-| Wed, 10 Sep 2025 07:38:53 GMT | Mobile Market Report 2025: Must-Know Data and Predictions | Alamin | [Read More](https://medium.com/p/c50163b4826b) |
-| Wed, 10 Sep 2025 07:38:26 GMT | Securing the Digital Perimeter with Zero Trust Architecture & Micro segmentation | Henmathkumar | [Read More](https://medium.com/p/5014044320e6) |
-| Wed, 10 Sep 2025 07:34:39 GMT | Day 88: Privilege Escalation Fundamentals | Nile Okomo | [Read More](https://medium.com/p/2173f84d48d2) |
-| Wed, 10 Sep 2025 07:34:36 GMT | Silent Sniper: How I Turned a Blind SSRF into a Critical AWS Infrastructure Breach | Iski | [Read More](https://medium.com/p/ae40614de53b) |
-| Wed, 10 Sep 2025 07:31:12 GMT | Automation For Contract Lifecycle Management | Gautami_Raiker | [Read More](https://medium.com/p/40d4ac1c05ae) |
-| Wed, 10 Sep 2025 07:23:25 GMT | Automation For Contract Lifecycle Management | Marketing | [Read More](https://medium.com/p/7f45ebdddde4) |
-| Wed, 10 Sep 2025 07:21:40 GMT | What is SQL Injection (SQLi)? | Dhruv | [Read More](https://medium.com/p/3833e80f3bb9) |
-| Wed, 10 Sep 2025 07:20:18 GMT | How I Got an Unexpected Bounty from REDETECT.com | MRKNIGHT-NIDU | [Read More](https://medium.com/p/5951793b1519) |
-| Wed, 10 Sep 2025 07:15:41 GMT | How Hackers Bypass Two-Factor Authentication in 2025 - Salty 2FA Explained | Motasem Hamdan | [Read More](https://medium.com/p/9a30cae78797) |
-| Wed, 10 Sep 2025 07:05:53 GMT | How wars justify? How Article 51 and the Vienna Convention Justify Modern Warfare | Shabnam Memon | [Read More](https://medium.com/p/fb810876b899) |
-| Wed, 10 Sep 2025 07:00:44 GMT | Mobile Market Report Update: Shaping Smartphone Future 2025 | Abigail Lewis | [Read More](https://medium.com/p/83b492b7d435) |
-| Wed, 10 Sep 2025 06:57:56 GMT | Reconnaissance Menggunakan Magicrecon | Ginda Sundara | [Read More](https://medium.com/p/62a7b93bffaa) |
-| Wed, 10 Sep 2025 06:56:53 GMT | How to Choose the Best Security Company in Mumbai: A Complete Guide | Tanisha Singh | [Read More](https://medium.com/p/5512f329e8fb) |
-| Wed, 10 Sep 2025 06:54:16 GMT | APSB25–88: Why Adobe Commerce Merchants Must Patch Immediately | Meetanshi | [Read More](https://medium.com/p/394a4337f58f) |
-| Wed, 10 Sep 2025 06:52:47 GMT | Side-Channel Recon: How Attackers Use Timing, Headers, and Metadata for Infiltration | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58c4428dc9fa) |
-| Wed, 10 Sep 2025 06:47:02 GMT | ✅ Securing OAuth & SSO: A Step-by-Step Guide and Checklist | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4e9390933957) |
