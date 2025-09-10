@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 21:14:45 GMT | Kittens and Code: Google Dorks for Ethical Hackers | BotsiCat | [Read More](https://medium.com/p/732dcb742d57) |
+| Wed, 10 Sep 2025 21:11:38 GMT | Supercharging Pentests with Invoke-SMBScan | Mayank Sahu | [Read More](https://medium.com/p/4dc7777a5f99) |
+| Wed, 10 Sep 2025 21:01:57 GMT | Why You Need a Dedicated Password Manager | Decentr | [Read More](https://medium.com/p/82cc79a781ce) |
+| Wed, 10 Sep 2025 20:54:18 GMT | Next.js Middleware SSRF via Header Injection | Cybersecplayground | [Read More](https://medium.com/p/6cf03b58a90d) |
+| Wed, 10 Sep 2025 20:46:31 GMT | Something for the trouble for getting to this point | Sobolora doe | [Read More](https://medium.com/p/17f59c771b43) |
+| Wed, 10 Sep 2025 20:46:02 GMT | Scaling Cyber Talent with Ethical Hacking Programs | J. David Smith | [Read More](https://medium.com/p/35fa1923fccd) |
+| Wed, 10 Sep 2025 20:44:04 GMT | Introduction to Yara, Loki and Valhalla for Threat Hunting | Annie Faulkner | [Read More](https://medium.com/p/63038a0873e0) |
+| Wed, 10 Sep 2025 20:42:11 GMT | Security Architecture for a GenAI tool implementation: Applying the NIST AI RMF (Map, Measure… | Elias Nathan Hueck | [Read More](https://medium.com/p/39617e189ffe) |
 | Wed, 10 Sep 2025 20:31:49 GMT | PREVIOUS — HTB | H3XH7WK | [Read More](https://medium.com/p/911f57a8d325) |
 | Wed, 10 Sep 2025 20:31:31 GMT | The Linux Process Journey — man (Manual Pages) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/50f1145a4373) |
 | Wed, 10 Sep 2025 20:26:15 GMT | The $1 Billion AI Training Mirage: Why Reskilling Won’t Protect Your Job | J. David Smith | [Read More](https://medium.com/p/1c020e890974) |
@@ -105,11 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 15:41:01 GMT | A Web Application Security Assessment of Vuln-Bank (Part 1) | Claire Iyara | [Read More](https://medium.com/p/28b3e5b0fa5b) |
 | Wed, 10 Sep 2025 15:40:41 GMT | IP and Domain Threat Intelligence — TryHackMe ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/5bf72c2c77d0) |
 | Wed, 10 Sep 2025 15:40:04 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/a9a5e81553d3) |
-| Wed, 10 Sep 2025 15:31:46 GMT | The Enigma of External Forces | Britt Holland | [Read More](https://medium.com/p/6d470ef87269) |
-| Wed, 10 Sep 2025 15:29:13 GMT | SOC Role in Blue Team - Tryhackme | Aaron | [Read More](https://medium.com/p/e0398b30dc05) |
-| Wed, 10 Sep 2025 15:20:45 GMT | Digital Forensics Services: Unlocking Truth in the Digital Age | secureroot | [Read More](https://medium.com/p/90f56c3bf42f) |
-| Wed, 10 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5c581a31e4cc) |
-| Wed, 10 Sep 2025 15:14:29 GMT | Decision Intelligence Pro: The AI Brain Behind Your Mastercard | Bhavya Taneja | [Read More](https://medium.com/p/9f18bb7a5247) |
-| Wed, 10 Sep 2025 15:11:47 GMT | iOS and macOS users — make sure your WhatsApp is updated | Cybersectoworld | [Read More](https://medium.com/p/49788c0cae0d) |
-| Wed, 10 Sep 2025 15:07:59 GMT | “Beyond the Obvious: How a Dead-End XXE Led to a Critical SQLi Goldmine” | Aman Sharma | [Read More](https://medium.com/p/46e8d4055668) |
-| Wed, 10 Sep 2025 15:07:03 GMT | Why Risk Management Needs to Be “Risk by Design” in 2025–26 | Dr. Deep Pandey | [Read More](https://medium.com/p/bc937a318d2c) |
