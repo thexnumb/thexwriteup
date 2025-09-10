@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 02:42:08 GMT | Hacking Minds with Ansh Bhawanani— The BSides Weekly [S1E8] | Riddhikacheruku | [Read More](https://medium.com/p/69be171b58d8) |
+| Wed, 10 Sep 2025 02:33:47 GMT | A Fun and Relatively Irrelevant Win11 Kiosk Escape | Mike Manrod | [Read More](https://medium.com/p/54d591e174fb) |
+| Wed, 10 Sep 2025 02:27:07 GMT | Write Up Lab: SQL injection UNION attack, retrieving data from other tables | Velskynotfound | [Read More](https://medium.com/p/56bc8409445f) |
+| Wed, 10 Sep 2025 02:21:40 GMT | Where to Hire an Instagram Hacker - Blackhatclique.com | Donley Mark | [Read More](https://medium.com/p/49ae9a0fff1e) |
+| Wed, 10 Sep 2025 02:18:54 GMT | Mastering Bug Bounty: The Secrets of hunting bugs by Devansh Chauhan — The BSides Weekly [S1E7] | Riddhikacheruku | [Read More](https://medium.com/p/8d8932a5089a) |
+| Wed, 10 Sep 2025 02:18:42 GMT | Least Privilege Practices on AWS: DevOps Users with Minimal Rights | Nitaoktaviani | [Read More](https://medium.com/p/ca7cb908501f) |
+| Wed, 10 Sep 2025 02:15:11 GMT | URL Normalization Turns a Harmless Request into a Cache-Poisoned XSS Attack | Bash Overflow | [Read More](https://medium.com/p/57d1a68f08d2) |
+| Wed, 10 Sep 2025 02:10:35 GMT | Wi-Fi not working on Kali? Here is how to fix it! | Matheus Bitencourt | [Read More](https://medium.com/p/e654c0eb5524) |
+| Wed, 10 Sep 2025 01:59:57 GMT | Is Technology Making Us Smarter or Dumber? A Look at the Cognitive Impact | muhammad ardiansah | [Read More](https://medium.com/p/15e8bf63bc40) |
+| Wed, 10 Sep 2025 01:50:32 GMT | Demystifying Endpoint Protection and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/47e60def9408) |
+| Wed, 10 Sep 2025 01:48:14 GMT | Secrets Management in Node.js Using HashiCorp Vault | Somendradev | [Read More](https://medium.com/p/b3dfd663dc39) |
+| Wed, 10 Sep 2025 01:43:06 GMT | What If Your Boyfriend Cries in Front Of You? | Vilena Kovaleva | [Read More](https://medium.com/p/33299d323bb4) |
+| Wed, 10 Sep 2025 01:34:38 GMT | Cloudflare Mitigates Record-Breaking 11.5 Tbps DDoS Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/d7016e69e3a6) |
+| Wed, 10 Sep 2025 01:32:26 GMT | Zscaler Confirms Data Breach Linked to Salesloft Drift Compromise | SafetyDetectives Research Team | [Read More](https://medium.com/p/c209a6fbff59) |
+| Wed, 10 Sep 2025 01:28:40 GMT | Securing Remote Work: A Comprehensive Guide for Employees and Companies | Samina Perveen | [Read More](https://medium.com/p/93758935b740) |
 | Wed, 10 Sep 2025 01:22:53 GMT | It is Easy to Steal Your Passwords with innerHTML — DOM XSS | Wan-Yi Lee | [Read More](https://medium.com/p/b9f28a13f5b0) |
 | Wed, 10 Sep 2025 01:12:12 GMT | Tracing an Enterprise Breach: A Kill Chain & MITRE ATT&CK Walkthrough from Windows Logs | Kunal Nagra | [Read More](https://medium.com/p/8f12c8df4161) |
 | Wed, 10 Sep 2025 01:00:39 GMT | How to claim nexchain token presale | Bitcoinpepe | [Read More](https://medium.com/p/426c378e7269) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 18:36:52 GMT | Cracking the Google XSS Game: XSS in AppSec | Richard Ndung'u | [Read More](https://medium.com/p/302a96949447) |
 | Tue, 09 Sep 2025 18:35:28 GMT | Novice Student Modify Tuition Payment Records | Kiran Adhikari | [Read More](https://medium.com/p/50c8a3bc19a8) |
 | Tue, 09 Sep 2025 18:33:04 GMT | Session Management THM Walkthrough | Dorukeymengormek | [Read More](https://medium.com/p/6cdceb8f4157) |
-| Tue, 09 Sep 2025 18:31:41 GMT | Cookies in the Multiverse of Madness. | Theo | [Read More](https://medium.com/p/9f9203e5b1e2) |
-| Tue, 09 Sep 2025 18:29:55 GMT | ASC War Games 2025 finals — Legacy Edition Challenge | Mahmoud Mosbah | [Read More](https://medium.com/p/440a11837322) |
-| Tue, 09 Sep 2025 18:16:01 GMT | Debugging Nightmares: How I Solved My First Real Bug | UXVerse — ◦ | [Read More](https://medium.com/p/8b751abe9191) |
-| Tue, 09 Sep 2025 18:15:58 GMT | Understanding NoSQL Injection: Exploit Techniques, Examples, and a picoCTF Challenge Walkthrough | Mohamedd Jasim Z | [Read More](https://medium.com/p/1d99dba79a58) |
-| Tue, 09 Sep 2025 18:13:04 GMT | Ethical Hacking Courses for Beginners — Start Your Cybersecurity Career with Cyberyaan | Nitin Singh | [Read More](https://medium.com/p/717cd8a464be) |
-| Tue, 09 Sep 2025 18:07:18 GMT | Week 1- The journey begins… | Anwar Nagi | [Read More](https://medium.com/p/b90f713523fd) |
-| Tue, 09 Sep 2025 18:07:14 GMT | Understanding Emanation Security: How to Protect Against Invisible Threats | Raviteja Mureboina | [Read More](https://medium.com/p/f33e965705ea) |
-| Tue, 09 Sep 2025 18:01:42 GMT | Nuevo Video Bug Bounty: Hackeando Reddit Sin Filtros | Gorka | [Read More](https://medium.com/p/df82b7338145) |
-| Tue, 09 Sep 2025 18:00:57 GMT | PBICT and Net Campus Forge Strategic Partnership to Advance ICT Skills and Inclusion | Luvo Grey | [Read More](https://medium.com/p/cc062ee06036) |
-| Tue, 09 Sep 2025 17:52:30 GMT | AI and the Future of Global Infrastructure Defense : Rethinking Physical Security in a… | Leon Tyron | [Read More](https://medium.com/p/7843bd72a1d9) |
-| Tue, 09 Sep 2025 17:50:17 GMT | What Makes IoT Devices So Vulnerable to Attacks? | Vinod Kumar Gorrepati | [Read More](https://medium.com/p/9fb90e64f04b) |
-| Tue, 09 Sep 2025 17:49:41 GMT | Attackers Hijack CrushFTP Admin Accounts Using Zero-Day Vulnerability | Aj | [Read More](https://medium.com/p/5170bb4718b2) |
-| Tue, 09 Sep 2025 17:48:13 GMT | Central: The Core Infrastructure of Neowellth | Tolu Adewole | [Read More](https://medium.com/p/045b521423b6) |
-| Tue, 09 Sep 2025 17:43:20 GMT | CVE-2025–24404: XML Injection in Apache HertzBeat Opens Door to Remote Code Execution | gm0 | [Read More](https://medium.com/p/f760eb10d690) |
-| Tue, 09 Sep 2025 17:36:32 GMT | Ethical Hacking Course After 12th — Kickstart Your Cybersecurity Career with Cyberyaan | Nitin Singh | [Read More](https://medium.com/p/c2c454ee8d00) |
