@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 22:08:51 GMT | Entropy Hacking: Measuring Chaos in Code to Outsmart Machines | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/98a61bae28ea) |
+| Wed, 10 Sep 2025 21:42:40 GMT | How to Prevent Data Leaks in Node.js Applications | Somendradev | [Read More](https://medium.com/p/c27662632a28) |
+| Wed, 10 Sep 2025 21:38:12 GMT | kioptrix level 3 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/391acaf15937) |
+| Wed, 10 Sep 2025 21:37:40 GMT | When is the Right Time to Hire a CISO? | Matthew.Rosenquist | [Read More](https://medium.com/p/64e9e18a8605) |
+| Wed, 10 Sep 2025 21:35:48 GMT | OSINT 101:Stalking the Internet (Legally) | Sirjan Pun Magar | [Read More](https://medium.com/p/1c26f3ea4f31) |
 | Wed, 10 Sep 2025 21:34:46 GMT | Lesson Learned? CTF - Tryhackme Writeup | Mohamed  Elmhalawy | [Read More](https://medium.com/p/d82418af9a2b) |
 | Wed, 10 Sep 2025 21:26:24 GMT | What distinguishes a leader from a king? | Fahaz Hameed | [Read More](https://medium.com/p/b9e715527098) |
 | Wed, 10 Sep 2025 21:24:48 GMT | Why Nigeria Needs a Mosaic of Professions at the Decision Making Table | Ogunsemowo Oluwasegun Tobiloba | [Read More](https://medium.com/p/7642c8f38196) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 16:03:20 GMT | Untitled 
 Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f48cc8d82) |
 | Wed, 10 Sep 2025 16:02:36 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/af500636a779) |
-| Wed, 10 Sep 2025 16:01:48 GMT | Don’t Panic | Agile Decision Games | [Read More](https://medium.com/p/9a2406fc18ef) |
-| Wed, 10 Sep 2025 15:55:29 GMT | “Title” A Humbling (for me) AD Set | Erich Huffman | [Read More](https://medium.com/p/0b352828ff29) |
-| Wed, 10 Sep 2025 15:53:22 GMT | APISCAN: A Practical Approach to API Security Testing by Perry Mertens | Perry M | [Read More](https://medium.com/p/96b5e676c071) |
-| Wed, 10 Sep 2025 15:47:47 GMT | Hardening Windows Systems with LAPS and DNSSEC | Karthikeyan Nagaraj | [Read More](https://medium.com/p/abece93d0950) |
-| Wed, 10 Sep 2025 15:44:58 GMT | The Rise of Cloud Forensics: Uncovering Evidence in the Cloud Era | Akshay Chauhan | [Read More](https://medium.com/p/e26daa1f3866) |
