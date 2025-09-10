@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5c581a31e4cc) |
+| Wed, 10 Sep 2025 15:14:29 GMT | Decision Intelligence Pro: The AI Brain Behind Your Mastercard | Bhavya Taneja | [Read More](https://medium.com/p/9f18bb7a5247) |
+| Wed, 10 Sep 2025 15:11:47 GMT | iOS and macOS users — make sure your WhatsApp is updated | Cybersectoworld | [Read More](https://medium.com/p/49788c0cae0d) |
+| Wed, 10 Sep 2025 15:07:59 GMT | “Beyond the Obvious: How a Dead-End XXE Led to a Critical SQLi Goldmine” | Aman Sharma | [Read More](https://medium.com/p/46e8d4055668) |
+| Wed, 10 Sep 2025 15:07:03 GMT | Why Risk Management Needs to Be “Risk by Design” in 2025–26 | Dr. Deep Pandey | [Read More](https://medium.com/p/bc937a318d2c) |
+| Wed, 10 Sep 2025 15:03:11 GMT | Unity is Strength: An Ethical Hacker’s Perspective on Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/b7c0beec69f7) |
+| Wed, 10 Sep 2025 14:55:15 GMT | Security-by-5D: A New Holistic Secure Model Approach | Odiao Pro | [Read More](https://medium.com/p/bdb677708892) |
+| Wed, 10 Sep 2025 14:53:53 GMT | When ‘Support’ Isn’t Support: Avoiding the Tech Support Scam Trap | Cyber Safety Watchdog | [Read More](https://medium.com/p/cb00848fdc98) |
+| Wed, 10 Sep 2025 14:52:47 GMT | TryHackMe: Library Writeup | Blu3J4x | [Read More](https://medium.com/p/f35be1f8a04f) |
+| Wed, 10 Sep 2025 14:48:58 GMT | The "almost" npm disaster | Tusharkadvatar | [Read More](https://medium.com/p/cc8213c5390c) |
+| Wed, 10 Sep 2025 14:44:14 GMT | Release Blackcat v0.23.0 | Rogier Dijkman | [Read More](https://medium.com/p/4cef5c1784b1) |
+| Wed, 10 Sep 2025 14:32:23 GMT | What Makes Phishing Simulation Services Essential for Business | Noahlucas | [Read More](https://medium.com/p/f88fce2fc7d9) |
+| Wed, 10 Sep 2025 14:28:48 GMT | 5 Beginner-Friendly ChatGPT Hacks That Save Me Hours (Part 1) | Azeez Ajibade ~ Distinct | [Read More](https://medium.com/p/8f0c37b88377) |
 | Wed, 10 Sep 2025 14:27:08 GMT | iPhone Air — The Return of A Single-Camera Luxury Phone | Thành Đô Nguyễn | [Read More](https://medium.com/p/13ba07e370a7) |
 | Wed, 10 Sep 2025 14:24:45 GMT | Docker API Security Under Siege: How Cybercriminals Exploit Exposed APIs Through Tor Networks | Technijian | [Read More](https://medium.com/p/d37f7bd335c7) |
 | Wed, 10 Sep 2025 14:22:09 GMT | Why I Enable Multi-Factor Authentication (MFA) for SSH on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/566d8d1d9ce4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 10:23:09 GMT | Responder Tool Footprints in NTLM Credential Theft | hx015 | [Read More](https://medium.com/p/6f25ec7984d3) |
 | Wed, 10 Sep 2025 10:16:00 GMT | Cyber Security in the Age of AI Threats | Build with Qwegle | [Read More](https://medium.com/p/c32ba45710a2) |
 | Wed, 10 Sep 2025 10:09:55 GMT | Demystifying Endpoint Protection and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/6cd9e75922ab) |
-| Wed, 10 Sep 2025 10:09:00 GMT | Demystifying Endpoint Protection for Professionals | Cyber Security Research | [Read More](https://medium.com/p/7ad53d3ed38c) |
-| Wed, 10 Sep 2025 10:07:00 GMT | PR Agency Review: Boosting Async Collaboration in the Modern Workplace | Maxwell JAMES | [Read More](https://medium.com/p/4c75f8604083) |
-| Wed, 10 Sep 2025 10:03:00 GMT | Cyber Security for Small Businesses: Protecting Your Company in 2025 | thomas fitzgerald | [Read More](https://medium.com/p/1d9b2d150030) |
-| Wed, 10 Sep 2025 10:02:40 GMT | Vanta vs Sprinto: Which Compliance Tool Is the Best Fit for You? | SecureSlate | [Read More](https://medium.com/p/fd40dc4b7f3e) |
-| Wed, 10 Sep 2025 10:02:37 GMT | Analysis of SparkDEX Perpetual Exchange Hack | Amber Group | [Read More](https://medium.com/p/e931f69f4078) |
-| Wed, 10 Sep 2025 10:00:01 GMT | The Daily Tech Digest: 10 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8676b4423cc1) |
-| Wed, 10 Sep 2025 10:00:00 GMT | Trusted CCTV Installation Company in Bangladesh — Optimationbd | optimationbd | [Read More](https://medium.com/p/7521545236e9) |
-| Wed, 10 Sep 2025 09:54:03 GMT | Writing Effective Bug Reports: Tips from a Pro Bug Bounty Hunter | RafalW3bCraft | [Read More](https://medium.com/p/b2d2842129ed) |
-| Wed, 10 Sep 2025 09:52:21 GMT | How Much Does CCTV Installation Cost? A Complete Guide | Smart Secures | [Read More](https://medium.com/p/0eade06ce811) |
-| Wed, 10 Sep 2025 09:49:42 GMT | How AI Is changing the landscape of cybersecurity in app development | The Distance | [Read More](https://medium.com/p/3eefcedfc1cb) |
-| Wed, 10 Sep 2025 09:48:08 GMT | Best Managed Data Center Service Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/e9957367827b) |
-| Wed, 10 Sep 2025 09:44:09 GMT | ประจำวันพุธที่ 10 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/632dd62d25d4) |
-| Wed, 10 Sep 2025 09:41:41 GMT | 7 Psychological Tricks Hackers Use to Make You Click | Evgeny Ermakov | [Read More](https://medium.com/p/63ec4a17527d) |
