@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 20:31:49 GMT | PREVIOUS — HTB | H3XH7WK | [Read More](https://medium.com/p/911f57a8d325) |
+| Wed, 10 Sep 2025 20:31:31 GMT | The Linux Process Journey — man (Manual Pages) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/50f1145a4373) |
+| Wed, 10 Sep 2025 20:26:15 GMT | The $1 Billion AI Training Mirage: Why Reskilling Won’t Protect Your Job | J. David Smith | [Read More](https://medium.com/p/1c020e890974) |
+| Wed, 10 Sep 2025 20:20:12 GMT | SQL for Security Analysts: Filtering Login Events & Employee Data Like a Pro | Myshawne Stallings | [Read More](https://medium.com/p/a23155e45f07) |
 | Wed, 10 Sep 2025 20:12:28 GMT | TryHackMe — Nmap: The Basics - Cyber Security 101 (THM) | Dang3rXgh0st | [Read More](https://medium.com/p/9764fdb3f64d) |
 | Wed, 10 Sep 2025 20:11:29 GMT | Contra Doctrine Manual 1 (CDM-1) — Field Manual of Origin | Contra Doctrine | [Read More](https://medium.com/p/92ef9685c430) |
 | Wed, 10 Sep 2025 20:08:06 GMT | PG Practice — Internal (Windows) | Lepton | [Read More](https://medium.com/p/6b0359652791) |
@@ -109,7 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 15:11:47 GMT | iOS and macOS users — make sure your WhatsApp is updated | Cybersectoworld | [Read More](https://medium.com/p/49788c0cae0d) |
 | Wed, 10 Sep 2025 15:07:59 GMT | “Beyond the Obvious: How a Dead-End XXE Led to a Critical SQLi Goldmine” | Aman Sharma | [Read More](https://medium.com/p/46e8d4055668) |
 | Wed, 10 Sep 2025 15:07:03 GMT | Why Risk Management Needs to Be “Risk by Design” in 2025–26 | Dr. Deep Pandey | [Read More](https://medium.com/p/bc937a318d2c) |
-| Wed, 10 Sep 2025 15:03:11 GMT | Unity is Strength: An Ethical Hacker’s Perspective on Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/b7c0beec69f7) |
-| Wed, 10 Sep 2025 14:55:15 GMT | Security-by-5D: A New Holistic Secure Model Approach | Odiao Pro | [Read More](https://medium.com/p/bdb677708892) |
-| Wed, 10 Sep 2025 14:53:53 GMT | When ‘Support’ Isn’t Support: Avoiding the Tech Support Scam Trap | Cyber Safety Watchdog | [Read More](https://medium.com/p/cb00848fdc98) |
-| Wed, 10 Sep 2025 14:52:47 GMT | TryHackMe: Library Writeup | Blu3J4x | [Read More](https://medium.com/p/f35be1f8a04f) |
