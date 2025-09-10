@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 14:14:46 GMT | The Current State of Data Scraping on the Web: AI Bots Are Not Welcome in 2025 | ImmuniWeb | [Read More](https://medium.com/p/f33a505f60b9) |
+| Wed, 10 Sep 2025 14:06:48 GMT | Generative AI: Powering the Next Trillion-Dollar Economy | Insydic | [Read More](https://medium.com/p/731e94234cb5) |
+| Wed, 10 Sep 2025 14:05:06 GMT | How I Passed the eJPT : My Journey to Becoming a Junior Penetration Tester | Umang Nayi | [Read More](https://medium.com/p/423858ceac81) |
+| Wed, 10 Sep 2025 14:04:07 GMT | ⚡ Unmasking Volt Typhoon: A SOC Analyst’s Splunk Walkthrough | Furkanctiner | [Read More](https://medium.com/p/5faeef3e2579) |
+| Wed, 10 Sep 2025 14:02:44 GMT | Cyber Briefing: 2025.09.10 | CyberMaterial | [Read More](https://medium.com/p/edbb0d011306) |
+| Wed, 10 Sep 2025 14:02:44 GMT | How to Get Involved in the ABTU Launch | Abatis ABTU | [Read More](https://medium.com/p/07ea4640b02f) |
+| Wed, 10 Sep 2025 14:01:42 GMT | SOC274 — Operation PAN-OS PANIC: Command Injection Titan Breach (CVE-2024–3400) | Andrew Williams | [Read More](https://medium.com/p/cf690d526c75) |
+| Wed, 10 Sep 2025 13:55:38 GMT | What Are the 10 Toughest IT Certifications in the World? | Livingston Leman | [Read More](https://medium.com/p/04ff942865d8) |
+| Wed, 10 Sep 2025 13:51:53 GMT | Effective Leadership in Organization | Bhumika Shah | [Read More](https://medium.com/p/22d6d487c825) |
+| Wed, 10 Sep 2025 13:44:12 GMT | Completed 100 rooms in THM | St0tRaa | [Read More](https://medium.com/p/4f8819a7adf7) |
+| Wed, 10 Sep 2025 13:36:00 GMT | Zero Trust Network: How to Implement It Technically ️ | Esra Kayhan | [Read More](https://medium.com/p/e0fc5182fde5) |
 | Wed, 10 Sep 2025 13:23:56 GMT | Handling File Uploads & Downloads in Spring Boot | Ayoub Taouam | [Read More](https://medium.com/p/949442b0c268) |
 | Wed, 10 Sep 2025 13:13:21 GMT | $1.5B Gone Overnight: How Re Protocol Could Stop Web3 Disasters | Jaycee Crypt | [Read More](https://medium.com/p/489dcdbedb6f) |
 | Wed, 10 Sep 2025 13:13:19 GMT | Top 15 Best Law Firms for Data Protection and Privacy Laws | Hansen Tong | [Read More](https://medium.com/p/640b8e68b98a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 09:24:47 GMT | WPA/WPA2 Cracking Methods | Esra Kayhan | [Read More](https://medium.com/p/29ce4a24c448) |
 | Wed, 10 Sep 2025 09:22:45 GMT | Why Every Business Needs a Trusted PT Services Provider | CyberNX | [Read More](https://medium.com/p/3b152b90b46d) |
 | Wed, 10 Sep 2025 09:22:09 GMT | Data Lakes, Shared Clusters, and the Kyverno Advantage | Maheshkumardash | [Read More](https://medium.com/p/9f4744b51e76) |
-| Wed, 10 Sep 2025 09:20:27 GMT | In a rapidly evolving world, safety and security have become essential for individuals, businesses… | Ciss India | [Read More](https://medium.com/p/6a2af669071e) |
-| Wed, 10 Sep 2025 09:17:52 GMT | DockerLabs Writeup — Allien (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f0cbf45cfe96) |
-| Wed, 10 Sep 2025 09:12:35 GMT | Crea tu propia apliación Android para falsificar la localización GPS | 3z-p0wn | [Read More](https://medium.com/p/9209026a4078) |
-| Wed, 10 Sep 2025 09:06:00 GMT | From Feast or Famine to Pay Forever: The Cloud’s Origin Story | Namir Sagheenanajar | [Read More](https://medium.com/p/70323b417b07) |
-| Wed, 10 Sep 2025 09:05:28 GMT | Best AIOps Platforms Reviews 2025 | Gauri Kale | [Read More](https://medium.com/p/f300872572c1) |
-| Wed, 10 Sep 2025 08:50:42 GMT | Defensive Security Intro: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/555b22ca534d) |
-| Wed, 10 Sep 2025 08:46:32 GMT | Core Networking Protocols Every Engineer Must Know | Aditya Bhardwaj | [Read More](https://medium.com/p/253ddc72371b) |
-| Wed, 10 Sep 2025 08:43:51 GMT | How to do a Static Application Security Test (SAST) test? | Maikel Mardjan | [Read More](https://medium.com/p/0125564eeaaf) |
-| Wed, 10 Sep 2025 08:42:24 GMT | Web & Mobile App Development | Herbertj J | [Read More](https://medium.com/p/63a5a6f87da1) |
-| Wed, 10 Sep 2025 08:42:03 GMT | Poland Shoots Down a Dozen Russian Drones in NATO Airspace | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b1d3795bd78a) |
-| Wed, 10 Sep 2025 08:38:36 GMT | IPv6 DNS Takeover — A Critical Security Vulnerability | Redfox Security | [Read More](https://medium.com/p/c3c6e4ab3803) |
