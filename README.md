@@ -103,6 +103,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 09:22:09 GMT | Data Lakes, Shared Clusters, and the Kyverno Advantage | Maheshkumardash | [Read More](https://medium.com/p/9f4744b51e76) |
 | Wed, 10 Sep 2025 09:20:27 GMT | In a rapidly evolving world, safety and security have become essential for individuals, businesses… | Ciss India | [Read More](https://medium.com/p/6a2af669071e) |
 | Wed, 10 Sep 2025 09:17:52 GMT | DockerLabs Writeup — Allien (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f0cbf45cfe96) |
+| Wed, 10 Sep 2025 09:12:35 GMT | Crea tu propia apliación Android para falsificar la localización GPS | 3z-p0wn | [Read More](https://medium.com/p/9209026a4078) |
 | Wed, 10 Sep 2025 09:06:00 GMT | From Feast or Famine to Pay Forever: The Cloud’s Origin Story | Namir Sagheenanajar | [Read More](https://medium.com/p/70323b417b07) |
 | Wed, 10 Sep 2025 09:05:28 GMT | Best AIOps Platforms Reviews 2025 | Gauri Kale | [Read More](https://medium.com/p/f300872572c1) |
 | Wed, 10 Sep 2025 08:50:42 GMT | Defensive Security Intro: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/555b22ca534d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 08:42:24 GMT | Web & Mobile App Development | Herbertj J | [Read More](https://medium.com/p/63a5a6f87da1) |
 | Wed, 10 Sep 2025 08:42:03 GMT | Poland Shoots Down a Dozen Russian Drones in NATO Airspace | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b1d3795bd78a) |
 | Wed, 10 Sep 2025 08:38:36 GMT | IPv6 DNS Takeover — A Critical Security Vulnerability | Redfox Security | [Read More](https://medium.com/p/c3c6e4ab3803) |
-| Wed, 10 Sep 2025 08:34:15 GMT | Best Practices & Solutions for Enhancing Security in the Hospitality Sector | securityservices | [Read More](https://medium.com/p/f17efbc02fa5) |
