@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 18:16:11 GMT | How to Pass the RHCSA Exam in 2025: Complete Guide + Real Exam Tips | boltx | [Read More](https://medium.com/p/85068b397e35) |
+| Wed, 10 Sep 2025 18:13:16 GMT | Cybersecurity in 2025: How to Stay Ahead of Emerging Threats | Radia 2025 | [Read More](https://medium.com/p/6eb9104bba86) |
+| Wed, 10 Sep 2025 18:09:27 GMT | SQL and Cybersecurity: Why Protecting Databases is Critical | Lumae | [Read More](https://medium.com/p/3f017eff9957) |
+| Wed, 10 Sep 2025 18:07:37 GMT | PyPI Fights Back: New Anti-Phishing & Expired-Domain Safeguards Protect Your Python Packages | Er.Muruganantham | [Read More](https://medium.com/p/78ee38064376) |
+| Wed, 10 Sep 2025 18:06:45 GMT | Hackers Can Control Yamaha MusicCast Sound Systems Remotely — Like Ghosts in Your Speakers | hacker_might | [Read More](https://medium.com/p/5eb88be20ea2) |
+| Wed, 10 Sep 2025 18:06:24 GMT | How to Become an Ethical Hacker — A Step-by-Step Guide for Beginners | Nitin Singh | [Read More](https://medium.com/p/7be831f0b059) |
+| Wed, 10 Sep 2025 18:02:05 GMT | Blue Light Confessions at 2 AM | Prakruthi | [Read More](https://medium.com/p/e02cea4a2c91) |
+| Wed, 10 Sep 2025 17:59:49 GMT | Cyber-Security and Human Psychology: Why Social Engineering Hacks Humans More Then a Machine. | _gaurang06_ | [Read More](https://medium.com/p/093f86992fa1) |
+| Wed, 10 Sep 2025 17:58:19 GMT | AI Scams Are Evolving — And They’re Coming for You | Madebyflorisb | [Read More](https://medium.com/p/0929be79638b) |
+| Wed, 10 Sep 2025 17:53:43 GMT | SIEM Requirements Checklist: Building the Right Foundation for Security Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/cdea23cdc552) |
+| Wed, 10 Sep 2025 17:46:17 GMT | Growth Hacking with AI: Strategies to Accelerate Your Brand’s Success | Niamh O'Shea | [Read More](https://medium.com/p/29b12ccc500b) |
+| Wed, 10 Sep 2025 17:43:03 GMT | Why Installing Security Cameras Is a Smart Move for Any Property | Justina Ockoner | [Read More](https://medium.com/p/1554979e7fb8) |
+| Wed, 10 Sep 2025 17:42:39 GMT | Day 20: Types of Databases:- SQL vs NoSQL & Beyond! | Prutha_Dongre | [Read More](https://medium.com/p/cde51a85127a) |
+| Wed, 10 Sep 2025 17:42:04 GMT | Does your team speak their minds? | Rômulo R. Contini | [Read More](https://medium.com/p/0d5db454a0ec) |
+| Wed, 10 Sep 2025 17:34:31 GMT | The Ultimate Guide to Penetration Testing Reports -Simplified | L4V4NY4  AGR3 | [Read More](https://medium.com/p/5e32fd94a392) |
 | Wed, 10 Sep 2025 17:31:01 GMT | Beyond Tools: The Human Side of Incident Response | Dean | [Read More](https://medium.com/p/d0cf50eb1b68) |
 | Wed, 10 Sep 2025 17:28:16 GMT | CCPA Audit Checklist: Ensuring Compliance with California Privacy Laws | SafeAeon Inc. | [Read More](https://medium.com/p/dbf278fb10df) |
 | Wed, 10 Sep 2025 17:28:08 GMT | Mastering Notetaking & Organization for Penetration Testing | L4V4NY4  AGR3 | [Read More](https://medium.com/p/300af6bcf46e) |
@@ -98,18 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 13:03:35 GMT | How Event Security Services Adapt to Different Event Types | Jane Tang | [Read More](https://medium.com/p/8a3df74042d0) |
 | Wed, 10 Sep 2025 13:03:12 GMT | The Cybersecurity Job Market in 2025: Opportunities and Challenges for F-1 Students | Devaaravindlutukurty | [Read More](https://medium.com/p/7e5cec0eb4f5) |
 | Wed, 10 Sep 2025 12:58:27 GMT | I’ll Instantly Know You Don’t Understand Cybersecurity If You Say This | Rishisec | [Read More](https://medium.com/p/0b14afd5e9ba) |
-| Wed, 10 Sep 2025 12:55:05 GMT | PG Practice — BullyBox (Linux) | Lepton | [Read More](https://medium.com/p/ccf059e0b3ac) |
-| Wed, 10 Sep 2025 12:50:29 GMT | Cloudflare Messed Up Again, and now there’s NO INTERNET! | IsaacFabianK | [Read More](https://medium.com/p/dab4dadad6d4) |
-| Wed, 10 Sep 2025 12:44:18 GMT | Web Application Firewall vs. Traditional Firewalls: What’s Right for Your Business? | Rahul Singh | [Read More](https://medium.com/p/0a627545ebab) |
-| Wed, 10 Sep 2025 12:43:06 GMT | How I Discovered Hidden JSON & GraphQL Requests and Won a Bug Bounty ✨ | Zoningxtr | [Read More](https://medium.com/p/dc0d72b4aba4) |
-| Wed, 10 Sep 2025 12:42:35 GMT | CVE-2025–10100: SQL Injection Vulnerability Plagues Simple Forum Discussion System | CVEHUB | [Read More](https://medium.com/p/474998f2c726) |
-| Wed, 10 Sep 2025 12:41:03 GMT | CVE-2025–10099: XSS Vulnerability Plagues i-Educar Platform — Patch Now! | CVEHUB | [Read More](https://medium.com/p/610e1cf68fc9) |
-| Wed, 10 Sep 2025 12:39:31 GMT | … | TheCORALAccessories | [Read More](https://medium.com/p/0ddbd5a035c0) |
-| Wed, 10 Sep 2025 12:37:01 GMT | Android RE Capture the Flag-CTF | Devaaravindlutukurty | [Read More](https://medium.com/p/2b02c9ce936d) |
-| Wed, 10 Sep 2025 12:32:27 GMT | App Security: Can You Really Beat the System? | SilentInject | [Read More](https://medium.com/p/a708379cd704) |
-| Wed, 10 Sep 2025 12:24:57 GMT | “To Survive and To Create”: Four Papers Charting the Future of Intelligence | handman | [Read More](https://medium.com/p/ec4916211c84) |
-| Wed, 10 Sep 2025 12:21:39 GMT | 6 Unmissable AI Security Frameworks You Should Be Using Today | OAF | [Read More](https://medium.com/p/3b4c1e392c02) |
-| Wed, 10 Sep 2025 12:15:45 GMT | The Ultimate Hacker’s Bash Cheat Sheet (20+ Advanced One-Liners Inside) | Very Lazy Tech | [Read More](https://medium.com/p/418385ed1e35) |
-| Wed, 10 Sep 2025 12:15:08 GMT | Privacy Betrayed? Ex-WhatsApp Security Chief Sues. What’s Next? | Truspex | [Read More](https://medium.com/p/93989b24b5b3) |
-| Wed, 10 Sep 2025 12:14:50 GMT | (How data processed in SIEM solution?)Data Normalization and Indexing | Devaaravindlutukurty | [Read More](https://medium.com/p/7203c6ef0d16) |
-| Wed, 10 Sep 2025 12:13:07 GMT | CVE-2025–21293 — The Active Directory Time Bomb | gm0 | [Read More](https://medium.com/p/67ca33569fd8) |
