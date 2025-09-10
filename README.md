@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 23:32:42 GMT | How I Build Rapport with My Clients as a Freelance Business Consultant | Wellness in Cybersecurity | [Read More](https://medium.com/p/4899776097b7) |
+| Wed, 10 Sep 2025 23:29:47 GMT | TryHackMe 5-Minute Hack: TakeOver (Subdomain Enumeration) | Trixia Horner | [Read More](https://medium.com/p/03c0639169e4) |
+| Wed, 10 Sep 2025 23:16:39 GMT | Self Introduction | Justin Blake | [Read More](https://medium.com/p/ee4042dd43a3) |
 | Wed, 10 Sep 2025 23:13:47 GMT | Hackers Steal Crypto by Hacking npm Packages Like Chalk & Debug | Cyber-AppSec | [Read More](https://medium.com/p/06372e2909ca) |
 | Wed, 10 Sep 2025 23:01:45 GMT | Write-Up: Footprinting Hard — Hack The Box | David Weverton Da Silva Lima | [Read More](https://medium.com/p/fde6c8758146) |
 | Wed, 10 Sep 2025 22:54:34 GMT | The Future of DeFi | Nonso | [Read More](https://medium.com/p/41b122389b52) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 16:50:29 GMT | How Hackers Hide: Using Tor on Linux Explained | kaanvardar | [Read More](https://medium.com/p/a0963f37773c) |
 | Wed, 10 Sep 2025 16:49:14 GMT | Cybersecurity 101: Blocking Hackers from Intercepting Your Data | Kambetastephano | [Read More](https://medium.com/p/499860f62e3b) |
 | Wed, 10 Sep 2025 16:48:07 GMT | A beginner's insight into hacking, VM, Linux and Networking. | ashna | [Read More](https://medium.com/p/47bdd6f653ba) |
-| Wed, 10 Sep 2025 16:44:42 GMT | SOC Role in Blue Team - TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/df990a14c00b) |
-| Wed, 10 Sep 2025 16:43:35 GMT | Why SIEM Rules Sometimes Fail… and How to Fix the Game. | Maged Anas | [Read More](https://medium.com/p/91975f6ac763) |
-| Wed, 10 Sep 2025 16:42:36 GMT | Ethical Hacking Diploma Course Near Me — Kickstart a High-Paying Cybersecurity Career with… | Nitin Singh | [Read More](https://medium.com/p/0f2becacef28) |
