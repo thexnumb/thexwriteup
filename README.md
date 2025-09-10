@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 06:47:02 GMT | ✅ Securing OAuth & SSO: A Step-by-Step Guide and Checklist | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4e9390933957) |
+| Wed, 10 Sep 2025 06:46:26 GMT | Regular User Can Invite Admin — Resulting in Full Organization Compromise | 0xAmmar | [Read More](https://medium.com/p/050dd57f9e01) |
+| Wed, 10 Sep 2025 06:41:38 GMT | Understanding Active Directory: The Backbone of Windows Identity Management | Sulabh Prajapati | [Read More](https://medium.com/p/789954c6181d) |
+| Wed, 10 Sep 2025 06:37:11 GMT | Secure Your APIs with Apache APISIX + SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/f2e7d566e4c7) |
+| Wed, 10 Sep 2025 06:29:38 GMT | Day 54- Understand the concept of Runbooks in cybersecurity as a beginner | unica 02 | [Read More](https://medium.com/p/4befb2054bef) |
+| Wed, 10 Sep 2025 06:26:20 GMT | Interoperable Healthcare Information Technology Systems Market Set to Explode with Phenomenal… | Nitin Jetty | [Read More](https://medium.com/p/8756fc68c462) |
+| Wed, 10 Sep 2025 06:22:30 GMT | Mobile Market Report Explained: 2025 Key Insights You Need | Isabella Brown | [Read More](https://medium.com/p/afec089f166d) |
 | Wed, 10 Sep 2025 06:21:39 GMT | Top 10 XDRS in India | Manisha Chaudhary | [Read More](https://medium.com/p/b311a658d2cc) |
 | Wed, 10 Sep 2025 06:20:04 GMT | Why Developers Love SafeLine WAF (17K+ Stars and Growing) | AerieWhole123 | [Read More](https://medium.com/p/31485653068d) |
 | Wed, 10 Sep 2025 06:14:11 GMT | Minimizing Bottlenecks: The Check-in Kiosk Advantage | Rakesh | [Read More](https://medium.com/p/dcdeb5241c3c) |
@@ -107,10 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Tue, 09 Sep 2025 23:05:12 GMT | Demystifying Data Privacy in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/47b641923a0c) |
 | Tue, 09 Sep 2025 22:57:58 GMT | The Creator’s Help Desk | The Creator's Help Desk | [Read More](https://medium.com/p/d5e5a0dd9646) |
 | Tue, 09 Sep 2025 22:57:21 GMT | We live in a world where web3 is taking over gradually and innovation races ahead of security… | Kellyokuonghae | [Read More](https://medium.com/p/f58bc0269d07) |
-| Tue, 09 Sep 2025 22:53:48 GMT | An Experiment in AI for Security Operations (Part 1 — the idea) | Bill Mahony | [Read More](https://medium.com/p/76f2d2e89506) |
-| Tue, 09 Sep 2025 22:53:42 GMT | Netskope S-1 Deep Dive: $707M ARR, 118% NRR, and a Channel-Heavy Path to the Public Markets | Amar Jeer | [Read More](https://medium.com/p/b6e6b79beaef) |
-| Tue, 09 Sep 2025 22:45:13 GMT | Why Tenable Leads in Vulnerability Management: The Amit Yoran Effect | Emmanuel Bentil | [Read More](https://medium.com/p/fd466dadc766) |
-| Tue, 09 Sep 2025 22:40:45 GMT | The Phishing Email is Perfect Now. A.I. Wrote It. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/6ed0b2499aa1) |
-| Tue, 09 Sep 2025 22:39:41 GMT | How Hackers Get Stuff For Free | Ghani Mengal | [Read More](https://medium.com/p/7d07e261207a) |
-| Tue, 09 Sep 2025 22:31:07 GMT | Despliegue de Nessus en Contenedores Docker para la Gestión de Vulnerabilidades | Ing. Eddy Alfaro | [Read More](https://medium.com/p/09765f0df47a) |
-| Tue, 09 Sep 2025 22:28:10 GMT | AI vs. Data Sovereignty: Who Really Holds the Power? | Emmanuel Bentil | [Read More](https://medium.com/p/5caf0f9bf739) |
