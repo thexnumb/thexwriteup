@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 10:34:29 GMT | PBO : Enkapsulasi dan Akses Modifier | Yasa Wijaya | [Read More](https://medium.com/p/e6eef344040a) |
+| Wed, 10 Sep 2025 10:27:16 GMT | Role-Based vs. Attribute-Based Access Control: Which One Fits Your Business? | Yuvi Aggarwal | [Read More](https://medium.com/p/11a1cf750298) |
+| Wed, 10 Sep 2025 10:23:57 GMT | How Cloud Security Is Essential for Every Business | Kartik Debnath | [Read More](https://medium.com/p/8fe27d348fbd) |
+| Wed, 10 Sep 2025 10:23:09 GMT | Responder Tool Footprints in NTLM Credential Theft | hx015 | [Read More](https://medium.com/p/6f25ec7984d3) |
 | Wed, 10 Sep 2025 10:16:00 GMT | Cyber Security in the Age of AI Threats | Build with Qwegle | [Read More](https://medium.com/p/c32ba45710a2) |
 | Wed, 10 Sep 2025 10:09:55 GMT | Demystifying Endpoint Protection and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/6cd9e75922ab) |
 | Wed, 10 Sep 2025 10:09:00 GMT | Demystifying Endpoint Protection for Professionals | Cyber Security Research | [Read More](https://medium.com/p/7ad53d3ed38c) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 ATT&CK: Detecting Tactics, Not Just 
 Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 05:59:44 GMT | When Bots Turn Malicious: The Rise of AI-Powered Credential Stuffing Attacks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2e24e658e31f) |
-| Wed, 10 Sep 2025 05:57:14 GMT | Recon Beyond Robots.txt: Discovering Hidden Paths Using AI Crawlers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d988fb84c37f) |
-| Wed, 10 Sep 2025 05:51:29 GMT | Mastering the Art of Cybersecurity: 10 Critical Skills for Safeguarding Digital Assets in the Era… | Manishfiretv | [Read More](https://medium.com/p/23cc1dc945d2) |
-| Wed, 10 Sep 2025 05:49:17 GMT | How I Turned a $4 Microcontroller into a Rubber Ducky | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/65abb8c083bb) |
-| Wed, 10 Sep 2025 05:49:02 GMT | picoCTF Web Exploitation Walkthrough -Cookies. | Deepika  B | [Read More](https://medium.com/p/39752c6e1e7e) |
