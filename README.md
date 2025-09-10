@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 17:31:01 GMT | Beyond Tools: The Human Side of Incident Response | Dean | [Read More](https://medium.com/p/d0cf50eb1b68) |
+| Wed, 10 Sep 2025 17:28:16 GMT | CCPA Audit Checklist: Ensuring Compliance with California Privacy Laws | SafeAeon Inc. | [Read More](https://medium.com/p/dbf278fb10df) |
+| Wed, 10 Sep 2025 17:28:08 GMT | Mastering Notetaking & Organization for Penetration Testing | L4V4NY4  AGR3 | [Read More](https://medium.com/p/300af6bcf46e) |
+| Wed, 10 Sep 2025 17:26:37 GMT | The U.S. HIRE Act: What Indian IT and Global Businesses Must Know (2025–26 Outlook) | M S Sulthan | [Read More](https://medium.com/p/cdd20d44cbae) |
+| Wed, 10 Sep 2025 17:22:55 GMT | Impactful Google Dorking on your Target | SIDDHANT SHUKLA | [Read More](https://medium.com/p/ce2f68862ae8) |
+| Wed, 10 Sep 2025 17:22:26 GMT | Teardrop DDoS Attacks: Understanding the Fragmented Threat | SafeAeon Inc. | [Read More](https://medium.com/p/a8fac84bd769) |
+| Wed, 10 Sep 2025 17:17:33 GMT | “Nginx — SSRF Misconfiguration”Challenge | oussama | [Read More](https://medium.com/p/0e55a2650b6d) |
+| Wed, 10 Sep 2025 17:17:14 GMT | Drowning in Alerts? How to Reduce False Positives in Security Detections (With Real Examples) ⚡ | Paritosh | [Read More](https://medium.com/p/dde394ca9eff) |
 | Wed, 10 Sep 2025 17:00:31 GMT | Essential Tips to Defend Against Man-in-the-Middle Attacks | Kambetastephano | [Read More](https://medium.com/p/52bc8177ab92) |
 | Wed, 10 Sep 2025 16:55:04 GMT | How Hackers Steal Your Data & How You Can Stop Them | Kambetastephano | [Read More](https://medium.com/p/0dc5fc168122) |
 | Wed, 10 Sep 2025 16:52:53 GMT | They Said XSS Was Dead… Then I Got Paid  (My First Bounty in 2025) | file.bug | [Read More](https://medium.com/p/6eb8d27c6c1a) |
@@ -105,11 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 12:15:08 GMT | Privacy Betrayed? Ex-WhatsApp Security Chief Sues. What’s Next? | Truspex | [Read More](https://medium.com/p/93989b24b5b3) |
 | Wed, 10 Sep 2025 12:14:50 GMT | (How data processed in SIEM solution?)Data Normalization and Indexing | Devaaravindlutukurty | [Read More](https://medium.com/p/7203c6ef0d16) |
 | Wed, 10 Sep 2025 12:13:07 GMT | CVE-2025–21293 — The Active Directory Time Bomb | gm0 | [Read More](https://medium.com/p/67ca33569fd8) |
-| Wed, 10 Sep 2025 12:01:49 GMT | How to Build a Secure API with Zero-Trust Principles in 2025 | Umesh Anjula | [Read More](https://medium.com/p/7c915e92a7fe) |
-| Wed, 10 Sep 2025 11:57:40 GMT | Unmasking Snake: The Russian Malware Lurking in U.S. Infrastructure for Over Two Decades | Kara Davis | [Read More](https://medium.com/p/5233baad63ed) |
-| Wed, 10 Sep 2025 11:56:47 GMT | Top 10 WordPress Hosting Providers for Medical Records | Jasmeet  Kaur | [Read More](https://medium.com/p/5cdac683a733) |
-| Wed, 10 Sep 2025 11:56:03 GMT | Adventures in AI (artificial intelligence) coding: Building Advanced Linux Displays, Color Option… | Truvis Thornton | [Read More](https://medium.com/p/51ab98d3f1c3) |
-| Wed, 10 Sep 2025 11:55:48 GMT | PT1 Exam review | Cyan | [Read More](https://medium.com/p/aac54f356fd3) |
-| Wed, 10 Sep 2025 11:51:39 GMT | I Built a Global Threat Intel Lab From Scratch (Then Deleted Half of It by Accident) | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/68ccf22fdb1c) |
-| Wed, 10 Sep 2025 11:50:18 GMT | Scamazon: Phishing Campaign Targets Amazon Prime Customers | Malvox | [Read More](https://medium.com/p/ea5c2efdddc6) |
-| Wed, 10 Sep 2025 11:49:33 GMT | Blockchain Security: Securing Decentralized Systems | Cyber Security Research | [Read More](https://medium.com/p/d2917bcf5565) |
