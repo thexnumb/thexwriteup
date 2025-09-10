@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 13:23:56 GMT | Handling File Uploads & Downloads in Spring Boot | Ayoub Taouam | [Read More](https://medium.com/p/949442b0c268) |
+| Wed, 10 Sep 2025 13:13:21 GMT | $1.5B Gone Overnight: How Re Protocol Could Stop Web3 Disasters | Jaycee Crypt | [Read More](https://medium.com/p/489dcdbedb6f) |
+| Wed, 10 Sep 2025 13:13:19 GMT | Top 15 Best Law Firms for Data Protection and Privacy Laws | Hansen Tong | [Read More](https://medium.com/p/640b8e68b98a) |
+| Wed, 10 Sep 2025 13:11:59 GMT | Malware Explained: The Most Dangerous Types and How to Spot Them | Timónofearth | [Read More](https://medium.com/p/fc44b200648a) |
+| Wed, 10 Sep 2025 13:11:05 GMT | Strengthening Security with Extended Detection and Response (XDR) | abc | [Read More](https://medium.com/p/5b2142953b79) |
+| Wed, 10 Sep 2025 13:10:51 GMT | I Found My First Critical Bug Using SQL Injection Recon | Ibtissam hammadi | [Read More](https://medium.com/p/6a3e2f9d89f5) |
+| Wed, 10 Sep 2025 13:10:12 GMT | All computers locked — what to do in the event of a ransomware attack? | Cordula Boeck | [Read More](https://medium.com/p/5ae900279824) |
+| Wed, 10 Sep 2025 13:04:40 GMT | Drupal Website Security: Best Practices for 2025 | Drupart Digital | [Read More](https://medium.com/p/fa3a58730f6c) |
+| Wed, 10 Sep 2025 13:03:35 GMT | How Event Security Services Adapt to Different Event Types | Jane Tang | [Read More](https://medium.com/p/8a3df74042d0) |
+| Wed, 10 Sep 2025 13:03:12 GMT | The Cybersecurity Job Market in 2025: Opportunities and Challenges for F-1 Students | Devaaravindlutukurty | [Read More](https://medium.com/p/7e5cec0eb4f5) |
+| Wed, 10 Sep 2025 12:58:27 GMT | I’ll Instantly Know You Don’t Understand Cybersecurity If You Say This | Rishisec | [Read More](https://medium.com/p/0b14afd5e9ba) |
+| Wed, 10 Sep 2025 12:55:05 GMT | PG Practice — BullyBox (Linux) | Lepton | [Read More](https://medium.com/p/ccf059e0b3ac) |
+| Wed, 10 Sep 2025 12:50:29 GMT | Cloudflare Messed Up Again, and now there’s NO INTERNET! | IsaacFabianK | [Read More](https://medium.com/p/dab4dadad6d4) |
+| Wed, 10 Sep 2025 12:44:18 GMT | Web Application Firewall vs. Traditional Firewalls: What’s Right for Your Business? | Rahul Singh | [Read More](https://medium.com/p/0a627545ebab) |
+| Wed, 10 Sep 2025 12:43:06 GMT | How I Discovered Hidden JSON & GraphQL Requests and Won a Bug Bounty ✨ | Zoningxtr | [Read More](https://medium.com/p/dc0d72b4aba4) |
+| Wed, 10 Sep 2025 12:42:35 GMT | CVE-2025–10100: SQL Injection Vulnerability Plagues Simple Forum Discussion System | CVEHUB | [Read More](https://medium.com/p/474998f2c726) |
 | Wed, 10 Sep 2025 12:41:03 GMT | CVE-2025–10099: XSS Vulnerability Plagues i-Educar Platform — Patch Now! | CVEHUB | [Read More](https://medium.com/p/610e1cf68fc9) |
 | Wed, 10 Sep 2025 12:39:31 GMT | … | TheCORALAccessories | [Read More](https://medium.com/p/0ddbd5a035c0) |
 | Wed, 10 Sep 2025 12:37:01 GMT | Android RE Capture the Flag-CTF | Devaaravindlutukurty | [Read More](https://medium.com/p/2b02c9ce936d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 08:42:03 GMT | Poland Shoots Down a Dozen Russian Drones in NATO Airspace | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b1d3795bd78a) |
 | Wed, 10 Sep 2025 08:38:36 GMT | IPv6 DNS Takeover — A Critical Security Vulnerability | Redfox Security | [Read More](https://medium.com/p/c3c6e4ab3803) |
 | Wed, 10 Sep 2025 08:34:15 GMT | Best Practices & Solutions for Enhancing Security in the Hospitality Sector | securityservices | [Read More](https://medium.com/p/f17efbc02fa5) |
-| Wed, 10 Sep 2025 08:31:42 GMT | Shuffle 2.1.0: Datastore Categories, Local AI Models and Singul | Frikky | [Read More](https://medium.com/p/0a20247a35c7) |
-| Wed, 10 Sep 2025 08:31:42 GMT | The Top 5 GDPR Fines of 2025 (and What They Teach Us About Cybersecurity & Compliance) | GenZProtector | [Read More](https://medium.com/p/fb8250b7ded4) |
-| Wed, 10 Sep 2025 08:28:35 GMT | How to Implement Secure Authentication in NestJS with Stytch | Michal Miler | [Read More](https://medium.com/p/e6ca869fba0a) |
-| Wed, 10 Sep 2025 08:23:57 GMT | Advanced Paid Resources for Experienced Bug Bounty Hunters | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/3c900060bf8e) |
-| Wed, 10 Sep 2025 08:22:16 GMT | Securing Microsoft Cloud from the Ground Up: A Guide to Cloud Defense in Azure | Amrik Singh Hanjra | [Read More](https://medium.com/p/6f22524444fc) |
-| Wed, 10 Sep 2025 08:19:35 GMT | SASE Explained: The Future of Secure Networking | Natarajan C K | [Read More](https://medium.com/p/bb2099a2ad0b) |
-| Wed, 10 Sep 2025 08:17:41 GMT | Quantum-Encrypted Estates: Ultimate Privacy for the Ultra‑wealthy | Paran | [Read More](https://medium.com/p/b539bbdeba83) |
-| Wed, 10 Sep 2025 08:16:05 GMT | Optimising Cyber Resilience Using Monitoring and Response Systems | Vijilan | [Read More](https://medium.com/p/b986bcc2f0fe) |
-| Wed, 10 Sep 2025 08:12:42 GMT | Node.js ile Rate Limiting: API’lerinizi Nasıl Korursunuz? | Uygar Eren | [Read More](https://medium.com/p/1d3262b2aafa) |
-| Wed, 10 Sep 2025 08:12:18 GMT | Neither Bulletproof Nor Aloof | JC | [Read More](https://medium.com/p/d89a89f45fd1) |
-| Wed, 10 Sep 2025 08:04:44 GMT | Government and Public Sector Web Development: Why Regulations Are the Blueprint for Digital Trust | Amaka okoye | [Read More](https://medium.com/p/aae6310d8e5f) |
-| Wed, 10 Sep 2025 08:04:20 GMT | Hacking Into India’s Largest Payment Network Through a Single API Call | Monish Basaniwal | [Read More](https://medium.com/p/d42d115afa25) |
-| Wed, 10 Sep 2025 08:02:34 GMT | The Loveliest People Have Met Their Darkness | Hazrat Usman | [Read More](https://medium.com/p/dbbb1ad08154) |
-| Wed, 10 Sep 2025 08:01:49 GMT | [Part 4] 5 Real-Life AI Cyber Attacks That Shocked the World | Cyberkech | [Read More](https://medium.com/p/6e482fd6bbf4) |
-| Wed, 10 Sep 2025 08:01:43 GMT | Ephemeral, Identity-Only Secrets: SPIFFE → Vault/KMS Exchange | Mohamed ElEmam | [Read More](https://medium.com/p/026688be169b) |
-| Wed, 10 Sep 2025 08:01:43 GMT | Security Isn’t Just Firewalls and Antivirus — It’s a Whole Castle Strategy | MayhemCode | [Read More](https://medium.com/p/106c0219e534) |
