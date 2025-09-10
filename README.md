@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 01:22:53 GMT | It is Easy to Steal Your Passwords with innerHTML — DOM XSS | Wan-Yi Lee | [Read More](https://medium.com/p/b9f28a13f5b0) |
+| Wed, 10 Sep 2025 01:12:12 GMT | Tracing an Enterprise Breach: A Kill Chain & MITRE ATT&CK Walkthrough from Windows Logs | Kunal Nagra | [Read More](https://medium.com/p/8f12c8df4161) |
+| Wed, 10 Sep 2025 01:00:39 GMT | How to claim nexchain token presale | Bitcoinpepe | [Read More](https://medium.com/p/426c378e7269) |
+| Wed, 10 Sep 2025 00:58:37 GMT | How to participate in bitcoin penguins NFT/Airdrop Rewards 2025 | Bitcoinpepe | [Read More](https://medium.com/p/9260a543e987) |
+| Wed, 10 Sep 2025 00:57:16 GMT | How to claim. bitcoin penguins 1 BTC Giveaway 2025 | Bitcoinpepe | [Read More](https://medium.com/p/446adf65ba48) |
+| Wed, 10 Sep 2025 00:55:54 GMT | MIT Research: 95% of Enterprise AI Projects Fail — Here’s What’s Really Going Wrong | Sunil Singh | [Read More](https://medium.com/p/eef187cb5107) |
+| Wed, 10 Sep 2025 00:39:30 GMT | Rebuilding Malware Doesn’t Make It Secure | ijlal | [Read More](https://medium.com/p/5388453bec7f) |
+| Wed, 10 Sep 2025 00:31:40 GMT | Cyber Command + NSA: Why The Dual-Hat Power Play Still Rules | Cyber Cav | [Read More](https://medium.com/p/4b3229e61eda) |
+| Wed, 10 Sep 2025 00:31:39 GMT | How an OAuth Misconfiguration Led to Account Takeover | AIwolfie | [Read More](https://medium.com/p/b6f3e3837974) |
+| Wed, 10 Sep 2025 00:22:21 GMT | Demystifying Endpoint Protection Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/6c481bd9f0a0) |
+| Wed, 10 Sep 2025 00:22:09 GMT | Daily Pentest Labs — Day 01 — Basic Pentesting 1 — Part 01 | MichaelLearns_ | [Read More](https://medium.com/p/2f012f978529) |
+| Wed, 10 Sep 2025 00:14:09 GMT | Quantum Computing’s Breakthrough Moment: Real-World Applications in 2025 | Umesh Anjula | [Read More](https://medium.com/p/d6f0c51df762) |
+| Wed, 10 Sep 2025 00:09:31 GMT | —  … | Danyal Saleem | [Read More](https://medium.com/p/afb295f4cecc) |
+| Wed, 10 Sep 2025 00:02:18 GMT | Discover how attackers abuse clipboard paste handling to trigger Blind XSS from setup to… | JPablo13 | [Read More](https://medium.com/p/65251336bb2e) |
+| Wed, 10 Sep 2025 00:01:32 GMT | Building a Hands-On SOC Lab with Wazuh: Step-by-Step Detection of Brute Force, Port Scans, and File… | Kunal Nagra | [Read More](https://medium.com/p/ebfeba0ee66e) |
+| Tue, 09 Sep 2025 23:56:47 GMT | GenAI — Accelerate? Stall? Defend? | Vladyslav G | [Read More](https://medium.com/p/3d47aa7fecbd) |
 | Tue, 09 Sep 2025 23:18:14 GMT | Weaponizing AI in Pentesting: Building Adaptive Cyber Soldiers | A-STAR7_DOCTOR | [Read More](https://medium.com/p/9f6896e103fe) |
 | Tue, 09 Sep 2025 23:06:55 GMT | Are companies underestimating the risk of OAuth token theft? | Cyber-AppSec | [Read More](https://medium.com/p/cf65469a644e) |
 | Tue, 09 Sep 2025 23:05:12 GMT | Demystifying Data Privacy in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/47b641923a0c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 17:48:13 GMT | Central: The Core Infrastructure of Neowellth | Tolu Adewole | [Read More](https://medium.com/p/045b521423b6) |
 | Tue, 09 Sep 2025 17:43:20 GMT | CVE-2025–24404: XML Injection in Apache HertzBeat Opens Door to Remote Code Execution | gm0 | [Read More](https://medium.com/p/f760eb10d690) |
 | Tue, 09 Sep 2025 17:36:32 GMT | Ethical Hacking Course After 12th — Kickstart Your Cybersecurity Career with Cyberyaan | Nitin Singh | [Read More](https://medium.com/p/c2c454ee8d00) |
-| Tue, 09 Sep 2025 17:36:22 GMT | Office 365 DLP: Safeguarding Sensitive Data in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/62ee2c40f3f3) |
-| Tue, 09 Sep 2025 17:36:06 GMT | Demystifying Data Privacy Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/8a156eac268b) |
-| Tue, 09 Sep 2025 17:30:55 GMT | Secure by Default: Practical Web App Security Checklist | Tera Byte 26 | [Read More](https://medium.com/p/edcf8f77b86c) |
-| Tue, 09 Sep 2025 17:29:57 GMT | SOC Support Consulting: Strengthening Cybersecurity with Expert Guidance | SafeAeon Inc. | [Read More](https://medium.com/p/a97a6b66aef9) |
-| Tue, 09 Sep 2025 17:22:48 GMT | Zoom and Beyond: Eight Vulnerabilities That Redefine Enterprise Risk | gm0 | [Read More](https://medium.com/p/1eca88240f3a) |
-| Tue, 09 Sep 2025 17:22:43 GMT | Nmap: The Essential Cybersecurity Network Mapper | Neophile | [Read More](https://medium.com/p/21669a15b726) |
-| Tue, 09 Sep 2025 17:21:58 GMT | Auto Block Website Ping Attack: Protecting Your Website from Hidden Flood Threats | SafeAeon Inc. | [Read More](https://medium.com/p/34916a4108bb) |
-| Tue, 09 Sep 2025 17:20:40 GMT | How to determine threat severity for detection rules | Tsunami | [Read More](https://medium.com/p/ddbae3bf2520) |
-| Tue, 09 Sep 2025 17:13:45 GMT | How to Reset a Garage Door Opener After Pulling the Red Cord: Step-by-Step Guide | 24H Garage Doors | [Read More](https://medium.com/p/44fcd88c0d59) |
-| Tue, 09 Sep 2025 17:13:21 GMT | The Hidden Dangers of AI Overuse: Are We Losing Our Human Touch? | Hafizbilaltariq | [Read More](https://medium.com/p/cfcc19dd2516) |
-| Tue, 09 Sep 2025 17:11:54 GMT | When a Chatbot Opens the Door to a Supply Chain Attack | TheSlic3r | [Read More](https://medium.com/p/1238d6dccbd9) |
-| Tue, 09 Sep 2025 17:06:47 GMT | Three Months into Writing, and Why I Keep Going | Ava Hayes | [Read More](https://medium.com/p/06b8179da44a) |
-| Tue, 09 Sep 2025 17:01:26 GMT | Leaked Credentials: The easy way | umbraXsecure | [Read More](https://medium.com/p/051fe7bf80d4) |
-| Tue, 09 Sep 2025 17:00:32 GMT | How a Client-Side CSRF Flaw Breaks a Core Defense | Imvkale | [Read More](https://medium.com/p/e427fca69102) |
-| Tue, 09 Sep 2025 17:00:28 GMT | Organising a Clickjacking Attack | Swetha | [Read More](https://medium.com/p/6f368de1567b) |
-| Tue, 09 Sep 2025 16:59:30 GMT | Xorion: Building the Blockchain of Tomorrow | Bright Mmaduabuchi | [Read More](https://medium.com/p/56acef5b078f) |
