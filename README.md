@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 08:43:51 GMT | How to do a Static Application Security Test (SAST) test? | Maikel Mardjan | [Read More](https://medium.com/p/0125564eeaaf) |
+| Wed, 10 Sep 2025 08:38:36 GMT | IPv6 DNS Takeover — A Critical Security Vulnerability | Redfox Security | [Read More](https://medium.com/p/c3c6e4ab3803) |
+| Wed, 10 Sep 2025 08:34:15 GMT | Best Practices & Solutions for Enhancing Security in the Hospitality Sector | securityservices | [Read More](https://medium.com/p/f17efbc02fa5) |
+| Wed, 10 Sep 2025 08:31:42 GMT | Shuffle 2.1.0: Datastore Categories, Local AI Models and Singul | Frikky | [Read More](https://medium.com/p/0a20247a35c7) |
+| Wed, 10 Sep 2025 08:31:42 GMT | The Top 5 GDPR Fines of 2025 (and What They Teach Us About Cybersecurity & Compliance) | GenZProtector | [Read More](https://medium.com/p/fb8250b7ded4) |
+| Wed, 10 Sep 2025 08:28:35 GMT | How to Implement Secure Authentication in NestJS with Stytch | Michal Miler | [Read More](https://medium.com/p/e6ca869fba0a) |
 | Wed, 10 Sep 2025 08:23:57 GMT | Advanced Paid Resources for Experienced Bug Bounty Hunters | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/3c900060bf8e) |
 | Wed, 10 Sep 2025 08:22:16 GMT | Securing Microsoft Cloud from the Ground Up: A Guide to Cloud Defense in Azure | Amrik Singh Hanjra | [Read More](https://medium.com/p/6f22524444fc) |
 | Wed, 10 Sep 2025 08:19:35 GMT | SASE Explained: The Future of Secure Networking | Natarajan C K | [Read More](https://medium.com/p/bb2099a2ad0b) |
@@ -108,9 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 03:31:39 GMT | From GPT-5 to Password Peril: The Week That Redefined Digital Risk | Akshat Ratanpal | [Read More](https://medium.com/p/568b002593f4) |
 | Wed, 10 Sep 2025 03:31:38 GMT | Securing Dockerized Applications: User Permissions and Capabilities Explained | Vasanthan K | [Read More](https://medium.com/p/54841c5bed9e) |
 | Wed, 10 Sep 2025 03:29:00 GMT | Write Up Lab: SQL injection UNION attack, retrieving multiple values in a single column | Velskynotfound | [Read More](https://medium.com/p/b70ac5880d53) |
-| Wed, 10 Sep 2025 03:27:08 GMT | Security Alert: XXE Vulnerability in Weaver e-cology OA | AerieWhole123 | [Read More](https://medium.com/p/2688d4417c0c) |
-| Wed, 10 Sep 2025 03:26:15 GMT | From “Vibe Coding” to Catastrophe: The Inevitable Result of Ungoverned Speed. | Steve Ng | [Read More](https://medium.com/p/c8bbd9dfcb4a) |
-| Wed, 10 Sep 2025 03:07:44 GMT | Breaking: npm Supply-Chain Hacker Wallet Traced to Public OpenSea Profile — Kyrgyzstan Connection… | ekomsSavior | [Read More](https://medium.com/p/7b893ef4b895) |
-| Wed, 10 Sep 2025 03:03:04 GMT | How Cybersecurity Publications Prepared Me (and Failed Me) for Real-World Attacks | Shahzaib | [Read More](https://medium.com/p/53d53d1a7b36) |
-| Wed, 10 Sep 2025 03:02:42 GMT | Demystifying Endpoint Protection and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/2bd985f2c22e) |
-| Wed, 10 Sep 2025 03:00:21 GMT | Michael William Firkus Introduces Root–Mirror–Gate: A New Philosophy of Survival-to-Authorship | USAI Insight | [Read More](https://medium.com/p/939061b30026) |
