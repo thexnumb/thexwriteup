@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 05:11:19 GMT | Technical Support Fundamentals | Tara Thammasiri | [Read More](https://medium.com/p/f99d380c9fa2) |
+| Wed, 10 Sep 2025 05:09:11 GMT | Cloud Computing Demystified: Understand It in Just 10 Minutes | Jacky Liu | [Read More](https://medium.com/p/3285b843b043) |
+| Wed, 10 Sep 2025 05:08:45 GMT | Securing Angular Applications with Standalone Components & Signals | Sivaannamalai | [Read More](https://medium.com/p/990dac81f174) |
+| Wed, 10 Sep 2025 05:08:41 GMT | How to Encrypt Cloud Data Like a Pro (It’s Easier Than You Think) | Aj | [Read More](https://medium.com/p/f5da9deb06ea) |
+| Wed, 10 Sep 2025 05:07:48 GMT | The Role of Ethical Hacking in Securing Kolkata’s Digital Infrastructure | Nagaraj | [Read More](https://medium.com/p/3d050602ba14) |
+| Wed, 10 Sep 2025 05:05:12 GMT | Private Cloud: The Backbone of Secure and Scalable Enterprises | Geeky Vartika | [Read More](https://medium.com/p/f7016f993e87) |
+| Wed, 10 Sep 2025 05:03:24 GMT | iOS vs Android Security: Which Is More Secure? Europe and Australia | QualysecEurope | [Read More](https://medium.com/p/0dff5f10feab) |
+| Wed, 10 Sep 2025 05:02:06 GMT | Zero-Trust Architecture: Implementing in an AI-Heavy Hybrid Cloud Environment | Gsinfotechvis Pvt Ltd | [Read More](https://medium.com/p/6572997b02e6) |
+| Wed, 10 Sep 2025 04:59:25 GMT | How to Connect Multiple Monitors and Devices to Your Laptop | Network Interfaze | [Read More](https://medium.com/p/aa5ad636dda0) |
+| Wed, 10 Sep 2025 04:55:07 GMT | Vibe Hacking Is Here And It’s Scary | Shahzaib | [Read More](https://medium.com/p/bd1347b8eca7) |
+| Wed, 10 Sep 2025 04:53:48 GMT | Checkpoint MAESTRO HYPERSCALE ORCHESTRATOR | Univold | [Read More](https://medium.com/p/b72e3b18b5c3) |
+| Wed, 10 Sep 2025 04:53:47 GMT | Interesting OTP Validation Logic  Flaw: Registering Any Victim’s Email Without Inbox Access … | Ch4rlii | [Read More](https://medium.com/p/90f7ec989b1e) |
+| Wed, 10 Sep 2025 04:51:49 GMT | 5 Beginner Mistakes Killing Your Bug Bounty Success (Fix Them Now!) | Aj | [Read More](https://medium.com/p/4ad55128d1a9) |
+| Wed, 10 Sep 2025 04:42:04 GMT | 5 Prompt Injection Attacks You Should Actually Worry About | Civil Learning | [Read More](https://medium.com/p/f3202b7da9d0) |
+| Wed, 10 Sep 2025 04:40:41 GMT | When Trust Becomes the Weakest Link: Dissecting the September 2025 NPM Supply Chain Attack | Priyal Walpita | [Read More](https://medium.com/p/5160c7c6aea3) |
 | Wed, 10 Sep 2025 04:36:00 GMT | Detection Engineering for KillSec Ransomware: Limited Technical Analysis | Siddhant Mishra | [Read More](https://medium.com/p/a3850692403d) |
 | Wed, 10 Sep 2025 04:32:44 GMT | UI vs. UX: What Really Makes or Breaks Your Website | Karmakoders | [Read More](https://medium.com/p/1ab0a8602889) |
 | Wed, 10 Sep 2025 04:32:21 GMT | High-Stakes Cyber Warfare: The Geopolitical Ripples You Can’t Ignore | iCONIFERz Technology News and Insights | [Read More](https://medium.com/p/0568affebab7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 20:44:09 GMT | تهران رشت | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/7109ae3f533d) |
 | Tue, 09 Sep 2025 20:42:41 GMT | 09381554690 | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/31e435a6c737) |
 | Tue, 09 Sep 2025 20:41:21 GMT | Vulnversity CTF — TryHackMe Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/15965c55dc8d) |
-| Tue, 09 Sep 2025 20:33:17 GMT | Security on Your PostgreSQL Setup: The Basics I Learned | Jose Luis Campos Bautista | [Read More](https://medium.com/p/c3d54e7054bd) |
-| Tue, 09 Sep 2025 20:31:17 GMT | 3 Ways You’re Sabotaging Your Own Security Program Without Even Knowing It | Matt Snyder | [Read More](https://medium.com/p/b2d8adcd86d2) |
-| Tue, 09 Sep 2025 20:28:28 GMT | Statik və Dinamik E-poçt Analizi | Zulaya Mahmudova | [Read More](https://medium.com/p/02cc35ffa67f) |
-| Tue, 09 Sep 2025 20:25:48 GMT | ASCWG 2025 CTF Finals — Neon Maze Challenge Writeup | Nour El Dien Bassiouny | [Read More](https://medium.com/p/7cf426672a58) |
-| Tue, 09 Sep 2025 20:18:29 GMT | Kritik Ağ Portları: Siber Güvenlik Açısından Bilmeniz Gereken 25 Port | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/90bc71be6903) |
-| Tue, 09 Sep 2025 20:16:15 GMT | PoC: Unauthenticated Remote Code Execution in SSH (Erlang/OTP) | Toshith | [Read More](https://medium.com/p/8e41c4b453eb) |
-| Tue, 09 Sep 2025 20:16:11 GMT | 7 Best Practices to Prevent Vulnerabilities When You Upload Files on a Website | Idera Dev Tools | [Read More](https://medium.com/p/4814793ab077) |
-| Tue, 09 Sep 2025 20:14:51 GMT | Whats Your Name? writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/2ee7ecd8b4c2) |
-| Tue, 09 Sep 2025 20:01:00 GMT | HexStrike and the Next Generation of AI-Powered Exploits | Akshay Chauhan | [Read More](https://medium.com/p/c4d4f22fcd1e) |
-| Tue, 09 Sep 2025 19:54:12 GMT | Bilkent Physical Security System as Cyber Defence Center Analogy | Onurcan Genç | [Read More](https://medium.com/p/7c96d073df1e) |
-| Tue, 09 Sep 2025 19:52:14 GMT | How Hospitality Brands Can Simplify PCI DSS 6.4.3 and 11.6.1 Compliance with Feroot PaymentGuard AI | Feroot Security | [Read More](https://medium.com/p/a5e462d9c5b1) |
-| Tue, 09 Sep 2025 19:51:26 GMT | Hack the Box Digital Forensics | Luke | [Read More](https://medium.com/p/3062f4d40aa8) |
-| Tue, 09 Sep 2025 19:49:22 GMT | MOI-CTF: dash rush writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/13cafb958bc1) |
-| Tue, 09 Sep 2025 19:38:30 GMT | kioptrix level 1 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/c26e71cd2b7f) |
-| Tue, 09 Sep 2025 19:28:55 GMT | Watch-only wallet scams: when untouchable balances are used to deceive | 1inch | [Read More](https://medium.com/p/1abd707d3f4c) |
