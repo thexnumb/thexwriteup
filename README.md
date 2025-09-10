@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 22:22:07 GMT | The Biggest Cyber Security Threats Online for Individuals and How to Mitigate Them | Enskefuddle | [Read More](https://medium.com/p/126b64c6446e) |
 | Wed, 10 Sep 2025 22:08:51 GMT | Entropy Hacking: Measuring Chaos in Code to Outsmart Machines | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/98a61bae28ea) |
+| Wed, 10 Sep 2025 21:43:50 GMT | Codeproof vs. Jamf vs. Microsoft Intune: Which MDM Fits a Small Business Best? | Codeproof Articles | [Read More](https://medium.com/p/6a5d06337ebf) |
 | Wed, 10 Sep 2025 21:42:40 GMT | How to Prevent Data Leaks in Node.js Applications | Somendradev | [Read More](https://medium.com/p/c27662632a28) |
 | Wed, 10 Sep 2025 21:38:12 GMT | kioptrix level 3 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/391acaf15937) |
 | Wed, 10 Sep 2025 21:37:40 GMT | When is the Right Time to Hire a CISO? | Matthew.Rosenquist | [Read More](https://medium.com/p/64e9e18a8605) |
@@ -110,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 16:10:54 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Septiembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/ef1ee040a0e3) |
 | Wed, 10 Sep 2025 16:08:51 GMT | TryHackMe - SOC Role in Blue Team - WriteUp | Axoloth | [Read More](https://medium.com/p/e998a9e9ee04) |
 | Wed, 10 Sep 2025 16:07:34 GMT | Achievement Unlocked: “Feeling Blue” Badge HackTheBox | napol | [Read More](https://medium.com/p/69c3b58ef673) |
-| Wed, 10 Sep 2025 16:03:20 GMT | Untitled 
-Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f48cc8d82) |
-| Wed, 10 Sep 2025 16:02:36 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/af500636a779) |
