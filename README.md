@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 03:31:39 GMT | From GPT-5 to Password Peril: The Week That Redefined Digital Risk | Akshat Ratanpal | [Read More](https://medium.com/p/568b002593f4) |
+| Wed, 10 Sep 2025 03:31:38 GMT | Securing Dockerized Applications: User Permissions and Capabilities Explained | Vasanthan K | [Read More](https://medium.com/p/54841c5bed9e) |
+| Wed, 10 Sep 2025 03:29:00 GMT | Write Up Lab: SQL injection UNION attack, retrieving multiple values in a single column | Velskynotfound | [Read More](https://medium.com/p/b70ac5880d53) |
+| Wed, 10 Sep 2025 03:27:08 GMT | Security Alert: XXE Vulnerability in Weaver e-cology OA | AerieWhole123 | [Read More](https://medium.com/p/2688d4417c0c) |
+| Wed, 10 Sep 2025 03:26:15 GMT | From “Vibe Coding” to Catastrophe: The Inevitable Result of Ungoverned Speed. | Steve Ng | [Read More](https://medium.com/p/c8bbd9dfcb4a) |
 | Wed, 10 Sep 2025 03:07:44 GMT | Breaking: npm Supply-Chain Hacker Wallet Traced to Public OpenSea Profile — Kyrgyzstan Connection… | ekomsSavior | [Read More](https://medium.com/p/7b893ef4b895) |
 | Wed, 10 Sep 2025 03:03:04 GMT | How Cybersecurity Publications Prepared Me (and Failed Me) for Real-World Attacks | Shahzaib | [Read More](https://medium.com/p/53d53d1a7b36) |
 | Wed, 10 Sep 2025 03:02:42 GMT | Demystifying Endpoint Protection and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/2bd985f2c22e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 19:14:13 GMT | The Linux Process Journey — arpd (Address Resolution Protocol Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bbe313dd3258) |
 | Tue, 09 Sep 2025 19:05:50 GMT | HTB Sherlock: Meerkat | Serkan | [Read More](https://medium.com/p/d1dc6bbd36a8) |
 | Tue, 09 Sep 2025 19:02:21 GMT | Today’s Top Cyber Intelligence Highlights — Sep 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c96501d819dc) |
-| Tue, 09 Sep 2025 18:56:22 GMT | Beneficial Ownership in Crypto Investigations: From Wallets to Real People | Jordan J. Solomon | [Read More](https://medium.com/p/1eaad9392330) |
-| Tue, 09 Sep 2025 18:55:47 GMT | CVE-2025–57833 - Django’da FilteredRelation Alias’ları Üzerinden Potansiyel SQL Injection | Yunus Olçar | [Read More](https://medium.com/p/dceb59a94069) |
-| Tue, 09 Sep 2025 18:53:41 GMT | How I Earned $3,500 with a Simple Injection Bug (And You Can Too) | Rashadul Islam | [Read More](https://medium.com/p/deeab8941c04) |
-| Tue, 09 Sep 2025 18:50:21 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/bdd66760295a) |
-| Tue, 09 Sep 2025 18:48:24 GMT | Artificial Intelligence Used in 80% of Ransomware Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b6e4d02233ed) |
