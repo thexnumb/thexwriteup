@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 04:36:00 GMT | Detection Engineering for KillSec Ransomware: Limited Technical Analysis | Siddhant Mishra | [Read More](https://medium.com/p/a3850692403d) |
+| Wed, 10 Sep 2025 04:32:44 GMT | UI vs. UX: What Really Makes or Breaks Your Website | Karmakoders | [Read More](https://medium.com/p/1ab0a8602889) |
+| Wed, 10 Sep 2025 04:32:21 GMT | High-Stakes Cyber Warfare: The Geopolitical Ripples You Can’t Ignore | iCONIFERz Technology News and Insights | [Read More](https://medium.com/p/0568affebab7) |
 | Wed, 10 Sep 2025 04:16:29 GMT | Chrome had an RCE?? | Pannag Kumaar | [Read More](https://medium.com/p/89efa3f364dd) |
 | Wed, 10 Sep 2025 03:58:54 GMT | Public Wi-Fi and Financial Apps: A Dangerous Convenience for the Side-Hustle Generation | Talkin Debts | [Read More](https://medium.com/p/1c0618a599c2) |
 | Wed, 10 Sep 2025 03:31:39 GMT | From GPT-5 to Password Peril: The Week That Redefined Digital Risk | Akshat Ratanpal | [Read More](https://medium.com/p/568b002593f4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 19:49:22 GMT | MOI-CTF: dash rush writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/13cafb958bc1) |
 | Tue, 09 Sep 2025 19:38:30 GMT | kioptrix level 1 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/c26e71cd2b7f) |
 | Tue, 09 Sep 2025 19:28:55 GMT | Watch-only wallet scams: when untouchable balances are used to deceive | 1inch | [Read More](https://medium.com/p/1abd707d3f4c) |
-| Tue, 09 Sep 2025 19:24:53 GMT | The Last Call | O. J. Okpabi | [Read More](https://medium.com/p/395452f169ae) |
-| Tue, 09 Sep 2025 19:21:38 GMT | CRA vs. Existing Frameworks: ISO 27001, NIS2, and GDPR — Making Sense of the Compliance Puzzle | Cyberkech | [Read More](https://medium.com/p/ffb5f10738b4) |
-| Tue, 09 Sep 2025 19:14:13 GMT | The Linux Process Journey — arpd (Address Resolution Protocol Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bbe313dd3258) |
