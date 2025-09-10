@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 21:34:46 GMT | Lesson Learned? CTF - Tryhackme Writeup | Mohamed  Elmhalawy | [Read More](https://medium.com/p/d82418af9a2b) |
+| Wed, 10 Sep 2025 21:26:24 GMT | What distinguishes a leader from a king? | Fahaz Hameed | [Read More](https://medium.com/p/b9e715527098) |
+| Wed, 10 Sep 2025 21:24:48 GMT | Why Nigeria Needs a Mosaic of Professions at the Decision Making Table | Ogunsemowo Oluwasegun Tobiloba | [Read More](https://medium.com/p/7642c8f38196) |
+| Wed, 10 Sep 2025 21:24:26 GMT | Building Clothee: A Secure E-Commerce Web Application | Sanduni Ayeshika | [Read More](https://medium.com/p/8836e64d4ebf) |
+| Wed, 10 Sep 2025 21:16:05 GMT | The Evolution and Normalization of Hacktivism in Hybrid Conflict | Deniz Topaloglu | [Read More](https://medium.com/p/ae05f03db0c4) |
 | Wed, 10 Sep 2025 21:14:45 GMT | Kittens and Code: Google Dorks for Ethical Hackers | BotsiCat | [Read More](https://medium.com/p/732dcb742d57) |
+| Wed, 10 Sep 2025 21:14:39 GMT | Cross-Site Scripting (XSS) remains one of the most common and dangerous web application… | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/9b325b9b2c39) |
 | Wed, 10 Sep 2025 21:11:38 GMT | Supercharging Pentests with Invoke-SMBScan | Mayank Sahu | [Read More](https://medium.com/p/4dc7777a5f99) |
 | Wed, 10 Sep 2025 21:01:57 GMT | Why You Need a Dedicated Password Manager | Decentr | [Read More](https://medium.com/p/82cc79a781ce) |
 | Wed, 10 Sep 2025 20:54:18 GMT | Next.js Middleware SSRF via Header Injection | Cybersecplayground | [Read More](https://medium.com/p/6cf03b58a90d) |
@@ -107,9 +113,3 @@ Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f4
 | Wed, 10 Sep 2025 15:53:22 GMT | APISCAN: A Practical Approach to API Security Testing by Perry Mertens | Perry M | [Read More](https://medium.com/p/96b5e676c071) |
 | Wed, 10 Sep 2025 15:47:47 GMT | Hardening Windows Systems with LAPS and DNSSEC | Karthikeyan Nagaraj | [Read More](https://medium.com/p/abece93d0950) |
 | Wed, 10 Sep 2025 15:44:58 GMT | The Rise of Cloud Forensics: Uncovering Evidence in the Cloud Era | Akshay Chauhan | [Read More](https://medium.com/p/e26daa1f3866) |
-| Wed, 10 Sep 2025 15:43:29 GMT | Why Cloud Transformation Is the Key to Competitive Advantage | IPSpecialist | [Read More](https://medium.com/p/77c3e3f92b22) |
-| Wed, 10 Sep 2025 15:42:48 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/07c8ca5596e5) |
-| Wed, 10 Sep 2025 15:42:27 GMT | Why Data Centers Are the Crown Jewels of National Infrastructure | Leon Tyron | [Read More](https://medium.com/p/39b32e6bff94) |
-| Wed, 10 Sep 2025 15:41:01 GMT | A Web Application Security Assessment of Vuln-Bank (Part 1) | Claire Iyara | [Read More](https://medium.com/p/28b3e5b0fa5b) |
-| Wed, 10 Sep 2025 15:40:41 GMT | IP and Domain Threat Intelligence — TryHackMe ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/5bf72c2c77d0) |
-| Wed, 10 Sep 2025 15:40:04 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/a9a5e81553d3) |
