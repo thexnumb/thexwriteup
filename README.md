@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 10:16:00 GMT | Cyber Security in the Age of AI Threats | Build with Qwegle | [Read More](https://medium.com/p/c32ba45710a2) |
+| Wed, 10 Sep 2025 10:09:55 GMT | Demystifying Endpoint Protection and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/6cd9e75922ab) |
+| Wed, 10 Sep 2025 10:09:00 GMT | Demystifying Endpoint Protection for Professionals | Cyber Security Research | [Read More](https://medium.com/p/7ad53d3ed38c) |
+| Wed, 10 Sep 2025 10:07:00 GMT | PR Agency Review: Boosting Async Collaboration in the Modern Workplace | Maxwell JAMES | [Read More](https://medium.com/p/4c75f8604083) |
+| Wed, 10 Sep 2025 10:03:00 GMT | Cyber Security for Small Businesses: Protecting Your Company in 2025 | thomas fitzgerald | [Read More](https://medium.com/p/1d9b2d150030) |
+| Wed, 10 Sep 2025 10:02:40 GMT | Vanta vs Sprinto: Which Compliance Tool Is the Best Fit for You? | SecureSlate | [Read More](https://medium.com/p/fd40dc4b7f3e) |
+| Wed, 10 Sep 2025 10:02:37 GMT | Analysis of SparkDEX Perpetual Exchange Hack | Amber Group | [Read More](https://medium.com/p/e931f69f4078) |
+| Wed, 10 Sep 2025 10:00:01 GMT | The Daily Tech Digest: 10 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8676b4423cc1) |
+| Wed, 10 Sep 2025 10:00:00 GMT | Trusted CCTV Installation Company in Bangladesh — Optimationbd | optimationbd | [Read More](https://medium.com/p/7521545236e9) |
+| Wed, 10 Sep 2025 09:54:03 GMT | Writing Effective Bug Reports: Tips from a Pro Bug Bounty Hunter | RafalW3bCraft | [Read More](https://medium.com/p/b2d2842129ed) |
+| Wed, 10 Sep 2025 09:52:21 GMT | How Much Does CCTV Installation Cost? A Complete Guide | Smart Secures | [Read More](https://medium.com/p/0eade06ce811) |
+| Wed, 10 Sep 2025 09:49:42 GMT | How AI Is changing the landscape of cybersecurity in app development | The Distance | [Read More](https://medium.com/p/3eefcedfc1cb) |
+| Wed, 10 Sep 2025 09:48:08 GMT | Best Managed Data Center Service Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/e9957367827b) |
+| Wed, 10 Sep 2025 09:44:09 GMT | ประจำวันพุธที่ 10 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/632dd62d25d4) |
+| Wed, 10 Sep 2025 09:41:41 GMT | 7 Psychological Tricks Hackers Use to Make You Click | Evgeny Ermakov | [Read More](https://medium.com/p/63ec4a17527d) |
+| Wed, 10 Sep 2025 09:38:16 GMT | Who Wrote the Software Running in Your Head? | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/d3809970bc18) |
 | Wed, 10 Sep 2025 09:33:58 GMT | Exploiting Business Logic Flaws: How I Bought Products for $1 (Ethically) in a private bug bounty… | Be nice insabat | [Read More](https://medium.com/p/6f21f883cd7a) |
+| Wed, 10 Sep 2025 09:31:53 GMT | Search Skills: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/a37daf87a48d) |
 | Wed, 10 Sep 2025 09:28:00 GMT | API Gateway Security Patterns for Node.js Microservices | Somendradev | [Read More](https://medium.com/p/6bcda22ab4e5) |
 | Wed, 10 Sep 2025 09:25:45 GMT | NordVPN review 2025: Speed, security & streaming tested | Safelyo VPN | [Read More](https://medium.com/p/1fbbd31cc990) |
 | Wed, 10 Sep 2025 09:24:47 GMT | WPA/WPA2 Cracking Methods | Esra Kayhan | [Read More](https://medium.com/p/29ce4a24c448) |
@@ -97,20 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 05:51:29 GMT | Mastering the Art of Cybersecurity: 10 Critical Skills for Safeguarding Digital Assets in the Era… | Manishfiretv | [Read More](https://medium.com/p/23cc1dc945d2) |
 | Wed, 10 Sep 2025 05:49:17 GMT | How I Turned a $4 Microcontroller into a Rubber Ducky | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/65abb8c083bb) |
 | Wed, 10 Sep 2025 05:49:02 GMT | picoCTF Web Exploitation Walkthrough -Cookies. | Deepika  B | [Read More](https://medium.com/p/39752c6e1e7e) |
-| Wed, 10 Sep 2025 05:45:05 GMT | This Silent Attack Can Hijack Any Website You Trust-Here’s How It Works | Abhishek Bhujang | [Read More](https://medium.com/p/48f99fda2ef6) |
-| Wed, 10 Sep 2025 05:30:31 GMT | I Found An Unintended Solution For The XSS Lab In PortSwigger. | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/77b1f4d8512c) |
-| Wed, 10 Sep 2025 05:25:42 GMT | Forensics: Collection of Links to know | Balki Maharaj | [Read More](https://medium.com/p/ac90dcc2dabd) |
-| Wed, 10 Sep 2025 05:24:30 GMT | How a Single Phishing Email Shook the JavaScript Ecosystem | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/45984139650d) |
-| Wed, 10 Sep 2025 05:20:11 GMT | How I Got My First $250 Bug Bounty | CyberHead | [Read More](https://medium.com/p/63f500fb4bf8) |
-| Wed, 10 Sep 2025 05:14:48 GMT | Application Security Testing: SAST, DAST, and IAST Explained | Abida Adra | [Read More](https://medium.com/p/4bb6e77b6ae0) |
-| Wed, 10 Sep 2025 05:11:42 GMT | Keep Your Light Alive!! | Maria Santiago | [Read More](https://medium.com/p/daec85b5e271) |
-| Wed, 10 Sep 2025 05:11:19 GMT | Technical Support Fundamentals | Tara Thammasiri | [Read More](https://medium.com/p/f99d380c9fa2) |
-| Wed, 10 Sep 2025 05:10:31 GMT | When AI feels more Human | Deya | [Read More](https://medium.com/p/7e921c5dae2c) |
-| Wed, 10 Sep 2025 05:09:11 GMT | Cloud Computing Demystified: Understand It in Just 10 Minutes | Jacky Liu | [Read More](https://medium.com/p/3285b843b043) |
-| Wed, 10 Sep 2025 05:08:45 GMT | Securing Angular Applications with Standalone Components & Signals | Sivaannamalai | [Read More](https://medium.com/p/990dac81f174) |
-| Wed, 10 Sep 2025 05:08:41 GMT | How to Encrypt Cloud Data Like a Pro (It’s Easier Than You Think) | Aj | [Read More](https://medium.com/p/f5da9deb06ea) |
-| Wed, 10 Sep 2025 05:07:48 GMT | The Role of Ethical Hacking in Securing Kolkata’s Digital Infrastructure | Nagaraj | [Read More](https://medium.com/p/3d050602ba14) |
-| Wed, 10 Sep 2025 05:05:12 GMT | Private Cloud: The Backbone of Secure and Scalable Enterprises | Geeky Vartika | [Read More](https://medium.com/p/f7016f993e87) |
-| Wed, 10 Sep 2025 05:03:24 GMT | iOS vs Android Security: Which Is More Secure? Europe and Australia | QualysecEurope | [Read More](https://medium.com/p/0dff5f10feab) |
-| Wed, 10 Sep 2025 05:02:06 GMT | Zero-Trust Architecture: Implementing in an AI-Heavy Hybrid Cloud Environment | Gsinfotechvis Pvt Ltd | [Read More](https://medium.com/p/6572997b02e6) |
-| Wed, 10 Sep 2025 04:59:25 GMT | How to Connect Multiple Monitors and Devices to Your Laptop | Network Interfaze | [Read More](https://medium.com/p/aa5ad636dda0) |
