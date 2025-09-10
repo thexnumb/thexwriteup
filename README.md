@@ -12,7 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 06:21:39 GMT | Top 10 XDRS in India | Manisha Chaudhary | [Read More](https://medium.com/p/b311a658d2cc) |
+| Wed, 10 Sep 2025 06:20:04 GMT | Why Developers Love SafeLine WAF (17K+ Stars and Growing) | AerieWhole123 | [Read More](https://medium.com/p/31485653068d) |
+| Wed, 10 Sep 2025 06:14:11 GMT | Minimizing Bottlenecks: The Check-in Kiosk Advantage | Rakesh | [Read More](https://medium.com/p/dcdeb5241c3c) |
+| Wed, 10 Sep 2025 06:10:36 GMT | *What is a RAT?* | Hassan Ali | [Read More](https://medium.com/p/c9cef79cc85e) |
+| Wed, 10 Sep 2025 06:05:52 GMT | Why Billionaires Are Secretly Learning These 7 ‘Useless’ Skills | Manander Singh (MSD) | [Read More](https://medium.com/p/e47073f5cfaa) |
+| Wed, 10 Sep 2025 06:03:04 GMT | Mobile Market Report 2025: Latest Growth Trends Revealed | DeviceSpotSpecifications | [Read More](https://medium.com/p/44cb4b6512c2) |
+| Wed, 10 Sep 2025 06:01:59 GMT | Identity Attacks in a Passwordless World: How OAuth & SSO Flaws Are Exploited | Narendar Battula (nArEn) | [Read More](https://medium.com/p/97eabe15b64e) |
+| Wed, 10 Sep 2025 06:01:52 GMT | Cybersecurity Market Opportunities in Cloud, IoT, and AI Security | Kristinshell | [Read More](https://medium.com/p/e582eec83f86) |
+| Wed, 10 Sep 2025 06:01:49 GMT | IDOR: How I Could Delete Any Product Image on an E-Commerce Platform | Mahmoud El Manzalawy | [Read More](https://medium.com/p/8998453a50ea) |
+| Wed, 10 Sep 2025 06:01:20 GMT | The Digital Red Flags You’re Ignoring Every Day | Shahzaib | [Read More](https://medium.com/p/e0362488d33a) |
+| Wed, 10 Sep 2025 06:01:13 GMT | The Ultimate Guide to Choosing a Cloud Application Development Company in 2025 | Trajectus | [Read More](https://medium.com/p/e58a74ceff80) |
+| Wed, 10 Sep 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — Sep 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f46d55f401fd) |
+| Wed, 10 Sep 2025 06:00:27 GMT | From Legacy Systems to Autonomous Operations: Transforming Manufacturing with Technology | Hardwin Software Solutions | [Read More](https://medium.com/p/c43bdcc7f77a) |
+| Wed, 10 Sep 2025 06:00:05 GMT | Event Correlation with Wazuh + MITRE 
+ATT&CK: Detecting Tactics, Not Just 
+Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
+| Wed, 10 Sep 2025 05:59:44 GMT | When Bots Turn Malicious: The Rise of AI-Powered Credential Stuffing Attacks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2e24e658e31f) |
+| Wed, 10 Sep 2025 05:57:14 GMT | Recon Beyond Robots.txt: Discovering Hidden Paths Using AI Crawlers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d988fb84c37f) |
+| Wed, 10 Sep 2025 05:51:29 GMT | Mastering the Art of Cybersecurity: 10 Critical Skills for Safeguarding Digital Assets in the Era… | Manishfiretv | [Read More](https://medium.com/p/23cc1dc945d2) |
+| Wed, 10 Sep 2025 05:49:17 GMT | How I Turned a $4 Microcontroller into a Rubber Ducky | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/65abb8c083bb) |
+| Wed, 10 Sep 2025 05:49:02 GMT | picoCTF Web Exploitation Walkthrough -Cookies. | Deepika  B | [Read More](https://medium.com/p/39752c6e1e7e) |
+| Wed, 10 Sep 2025 05:45:05 GMT | This Silent Attack Can Hijack Any Website You Trust-Here’s How It Works | Abhishek Bhujang | [Read More](https://medium.com/p/48f99fda2ef6) |
+| Wed, 10 Sep 2025 05:30:31 GMT | I Found An Unintended Solution For The XSS Lab In PortSwigger. | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/77b1f4d8512c) |
+| Wed, 10 Sep 2025 05:25:42 GMT | Forensics: Collection of Links to know | Balki Maharaj | [Read More](https://medium.com/p/ac90dcc2dabd) |
+| Wed, 10 Sep 2025 05:24:30 GMT | How a Single Phishing Email Shook the JavaScript Ecosystem | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/45984139650d) |
+| Wed, 10 Sep 2025 05:20:11 GMT | How I Got My First $250 Bug Bounty | CyberHead | [Read More](https://medium.com/p/63f500fb4bf8) |
+| Wed, 10 Sep 2025 05:14:48 GMT | Application Security Testing: SAST, DAST, and IAST Explained | Abida Adra | [Read More](https://medium.com/p/4bb6e77b6ae0) |
+| Wed, 10 Sep 2025 05:11:42 GMT | Keep Your Light Alive!! | Maria Santiago | [Read More](https://medium.com/p/daec85b5e271) |
 | Wed, 10 Sep 2025 05:11:19 GMT | Technical Support Fundamentals | Tara Thammasiri | [Read More](https://medium.com/p/f99d380c9fa2) |
+| Wed, 10 Sep 2025 05:10:31 GMT | When AI feels more Human | Deya | [Read More](https://medium.com/p/7e921c5dae2c) |
 | Wed, 10 Sep 2025 05:09:11 GMT | Cloud Computing Demystified: Understand It in Just 10 Minutes | Jacky Liu | [Read More](https://medium.com/p/3285b843b043) |
 | Wed, 10 Sep 2025 05:08:45 GMT | Securing Angular Applications with Standalone Components & Signals | Sivaannamalai | [Read More](https://medium.com/p/990dac81f174) |
 | Wed, 10 Sep 2025 05:08:41 GMT | How to Encrypt Cloud Data Like a Pro (It’s Easier Than You Think) | Aj | [Read More](https://medium.com/p/f5da9deb06ea) |
@@ -85,30 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Sep 2025 22:39:41 GMT | How Hackers Get Stuff For Free | Ghani Mengal | [Read More](https://medium.com/p/7d07e261207a) |
 | Tue, 09 Sep 2025 22:31:07 GMT | Despliegue de Nessus en Contenedores Docker para la Gestión de Vulnerabilidades | Ing. Eddy Alfaro | [Read More](https://medium.com/p/09765f0df47a) |
 | Tue, 09 Sep 2025 22:28:10 GMT | AI vs. Data Sovereignty: Who Really Holds the Power? | Emmanuel Bentil | [Read More](https://medium.com/p/5caf0f9bf739) |
-| Tue, 09 Sep 2025 22:23:19 GMT | Transitioning from Military Service to Cybersecurity: How Microsoft Learn Can Guide Veterans | Cyber Cav | [Read More](https://medium.com/p/7b9968da8ba0) |
-| Tue, 09 Sep 2025 22:20:45 GMT | How to Build GDPR & HIPAA Compliant Backends with Node.js | Somendradev | [Read More](https://medium.com/p/e68196740fd7) |
-| Tue, 09 Sep 2025 22:12:57 GMT | Proactive Threat Hunting with Google SecOps: A CIO’s Guide to Staying Ahead | Jeff | [Read More](https://medium.com/p/5b89b9d2214f) |
-| Tue, 09 Sep 2025 22:11:57 GMT | This Breach Was Preventable (and Probably in Your Code Too) | João Coelho | [Read More](https://medium.com/p/6a4045f44bed) |
-| Tue, 09 Sep 2025 22:09:15 GMT | PG Practice — Wombo (Linux) | Lepton | [Read More](https://medium.com/p/b59c8549bfc2) |
-| Tue, 09 Sep 2025 22:01:30 GMT | npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack | ASAcrew Blog | [Read More](https://medium.com/p/5cbbad57b2b3) |
-| Tue, 09 Sep 2025 21:57:45 GMT | ChatControl: can Europe legitimize mass surveillance? | Hayat Outahar | [Read More](https://medium.com/p/d966780dea36) |
-| Tue, 09 Sep 2025 21:57:37 GMT | Attack Disruption: Enabled by Default, but Not Complete | Cyber Cav | [Read More](https://medium.com/p/39ee8de87eb8) |
-| Tue, 09 Sep 2025 21:41:17 GMT | Nmap: Explorando redes — Guía de enumeracion para ciberseguridad. | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/f43a207ec98b) |
-| Tue, 09 Sep 2025 21:31:47 GMT | From 12 Words to Infinite Wallets: How HD Wallets Power Crypto Security | Zakhar Deyneka | [Read More](https://medium.com/p/42117700dc56) |
-| Tue, 09 Sep 2025 21:28:36 GMT | The Future I See With Drosera Network | Airdrop_dave | [Read More](https://medium.com/p/c9b7727e643c) |
-| Tue, 09 Sep 2025 21:25:25 GMT | The Largest npm Supply Chain Attack: Inside the Debug & Chalk Malicious Injection — An In-depth… | ViraSecurity | [Read More](https://medium.com/p/7d4b061ac2aa) |
-| Tue, 09 Sep 2025 21:23:35 GMT | From Monoliths to Microservices: Tracing the Evolution of Backend Software Development | Emmanuel Bentil | [Read More](https://medium.com/p/ea6be393c765) |
-| Tue, 09 Sep 2025 21:22:32 GMT | My eWPTXv3 Exam Review | Qais Hammad | [Read More](https://medium.com/p/098ee2a5223c) |
-| Tue, 09 Sep 2025 21:22:19 GMT | From Hardcoded Couchbase Passwords to Auto-Rotating Credentials in Node.js | Raymon Epping | [Read More](https://medium.com/p/dcf75eddc1d8) |
-| Tue, 09 Sep 2025 21:22:07 GMT | Dr. Roman Yampolskiy: The Future of Jobs and Humanity in the Age of Superintelligent AI | Janis Amanda Navedo | [Read More](https://medium.com/p/151edb76e6c3) |
-| Tue, 09 Sep 2025 21:18:32 GMT | Phishing in 2024: Why It’s Still One of the Costliest Cyber Threats | OxErvin | [Read More](https://medium.com/p/d5d1573266cd) |
-| Tue, 09 Sep 2025 21:15:46 GMT | TuesdayTool 34 — OSINT — Industries for Social Media and Web Monitoring | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/280a6c8503ea) |
-| Tue, 09 Sep 2025 21:14:12 GMT | Kioptrix _l Writeup — Apache mod_ssl Exploitation (OpenFuckV2) | Mahmoudelshorpagy | [Read More](https://medium.com/p/ce5efcb893dd) |
-| Tue, 09 Sep 2025 21:11:39 GMT | A Guide to Passwordless Login with Flutter Passkey Service | Tri Dev Dhm | [Read More](https://medium.com/p/b9b0cbd3e4d3) |
-| Tue, 09 Sep 2025 21:09:47 GMT | The “Half-Off Bill” Scammer Just Took My Rent Money | Jeff Murdock | [Read More](https://medium.com/p/09b65f2c1d62) |
-| Tue, 09 Sep 2025 21:07:42 GMT | Beyond the Grind: The Cybersecurity Learning Hack That’s Not What You Think | Mister_dump | [Read More](https://medium.com/p/3a0254b0023f) |
-| Tue, 09 Sep 2025 20:56:23 GMT | The Supply Chain Security Crisis: How 2025 Became the Year of Platform Compromises | Michael Rico | [Read More](https://medium.com/p/7dede5cad25e) |
-| Tue, 09 Sep 2025 20:52:42 GMT | زنجان گیلان مرودشت | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/265132d7af94) |
-| Tue, 09 Sep 2025 20:44:09 GMT | تهران رشت | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/7109ae3f533d) |
-| Tue, 09 Sep 2025 20:42:41 GMT | 09381554690 | خاله تهران رشت اصفهان مرودشت خاله تبریز خاله اهواز | [Read More](https://medium.com/p/31e435a6c737) |
-| Tue, 09 Sep 2025 20:41:21 GMT | Vulnversity CTF — TryHackMe Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/15965c55dc8d) |
