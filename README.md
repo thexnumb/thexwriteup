@@ -12,12 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 14:27:08 GMT | iPhone Air — The Return of A Single-Camera Luxury Phone | Thành Đô Nguyễn | [Read More](https://medium.com/p/13ba07e370a7) |
+| Wed, 10 Sep 2025 14:24:45 GMT | Docker API Security Under Siege: How Cybercriminals Exploit Exposed APIs Through Tor Networks | Technijian | [Read More](https://medium.com/p/d37f7bd335c7) |
+| Wed, 10 Sep 2025 14:22:09 GMT | Why I Enable Multi-Factor Authentication (MFA) for SSH on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/566d8d1d9ce4) |
+| Wed, 10 Sep 2025 14:20:49 GMT | Finding the Right Digital Marketing Partner for Your Ambattur Tech Startup | Varuthni | [Read More](https://medium.com/p/f05902c7f64e) |
+| Wed, 10 Sep 2025 14:20:29 GMT | How I “Hacked” my church’s WiFi…. and got caught | Daniel Fuster | [Read More](https://medium.com/p/c5b9539c0145) |
+| Wed, 10 Sep 2025 14:20:22 GMT | Connection Matters | Jodi Siebert Chestnut | [Read More](https://medium.com/p/f8f9dbcfa4a3) |
+| Wed, 10 Sep 2025 14:18:27 GMT | The Great Indian IT Debate: From Survival to Supremacy to a Strategic Crossroads | A Kumbhkarni | [Read More](https://medium.com/p/847bdcb087dc) |
 | Wed, 10 Sep 2025 14:14:46 GMT | The Current State of Data Scraping on the Web: AI Bots Are Not Welcome in 2025 | ImmuniWeb | [Read More](https://medium.com/p/f33a505f60b9) |
 | Wed, 10 Sep 2025 14:06:48 GMT | Generative AI: Powering the Next Trillion-Dollar Economy | Insydic | [Read More](https://medium.com/p/731e94234cb5) |
 | Wed, 10 Sep 2025 14:05:06 GMT | How I Passed the eJPT : My Journey to Becoming a Junior Penetration Tester | Umang Nayi | [Read More](https://medium.com/p/423858ceac81) |
 | Wed, 10 Sep 2025 14:04:07 GMT | ⚡ Unmasking Volt Typhoon: A SOC Analyst’s Splunk Walkthrough | Furkanctiner | [Read More](https://medium.com/p/5faeef3e2579) |
 | Wed, 10 Sep 2025 14:02:44 GMT | Cyber Briefing: 2025.09.10 | CyberMaterial | [Read More](https://medium.com/p/edbb0d011306) |
 | Wed, 10 Sep 2025 14:02:44 GMT | How to Get Involved in the ABTU Launch | Abatis ABTU | [Read More](https://medium.com/p/07ea4640b02f) |
+| Wed, 10 Sep 2025 14:02:11 GMT | A Surprise in the Supplies! | Brooks Boyd | [Read More](https://medium.com/p/caf9db30af9d) |
 | Wed, 10 Sep 2025 14:01:42 GMT | SOC274 — Operation PAN-OS PANIC: Command Injection Titan Breach (CVE-2024–3400) | Andrew Williams | [Read More](https://medium.com/p/cf690d526c75) |
 | Wed, 10 Sep 2025 13:55:38 GMT | What Are the 10 Toughest IT Certifications in the World? | Livingston Leman | [Read More](https://medium.com/p/04ff942865d8) |
 | Wed, 10 Sep 2025 13:51:53 GMT | Effective Leadership in Organization | Bhumika Shah | [Read More](https://medium.com/p/22d6d487c825) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 09:48:08 GMT | Best Managed Data Center Service Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/e9957367827b) |
 | Wed, 10 Sep 2025 09:44:09 GMT | ประจำวันพุธที่ 10 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/632dd62d25d4) |
 | Wed, 10 Sep 2025 09:41:41 GMT | 7 Psychological Tricks Hackers Use to Make You Click | Evgeny Ermakov | [Read More](https://medium.com/p/63ec4a17527d) |
-| Wed, 10 Sep 2025 09:38:16 GMT | Who Wrote the Software Running in Your Head? | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/d3809970bc18) |
-| Wed, 10 Sep 2025 09:33:58 GMT | Exploiting Business Logic Flaws: How I Bought Products for $1 (Ethically) in a private bug bounty… | Be nice insabat | [Read More](https://medium.com/p/6f21f883cd7a) |
-| Wed, 10 Sep 2025 09:31:53 GMT | Search Skills: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/a37daf87a48d) |
-| Wed, 10 Sep 2025 09:28:00 GMT | API Gateway Security Patterns for Node.js Microservices | Somendradev | [Read More](https://medium.com/p/6bcda22ab4e5) |
-| Wed, 10 Sep 2025 09:25:45 GMT | NordVPN review 2025: Speed, security & streaming tested | Safelyo VPN | [Read More](https://medium.com/p/1fbbd31cc990) |
-| Wed, 10 Sep 2025 09:24:47 GMT | WPA/WPA2 Cracking Methods | Esra Kayhan | [Read More](https://medium.com/p/29ce4a24c448) |
-| Wed, 10 Sep 2025 09:22:45 GMT | Why Every Business Needs a Trusted PT Services Provider | CyberNX | [Read More](https://medium.com/p/3b152b90b46d) |
-| Wed, 10 Sep 2025 09:22:09 GMT | Data Lakes, Shared Clusters, and the Kyverno Advantage | Maheshkumardash | [Read More](https://medium.com/p/9f4744b51e76) |
