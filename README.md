@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 16:13:34 GMT | Why I Destroyed My Multi-Skill Portfolio to Start Over (And You Should Too) | Dayoisawumi | [Read More](https://medium.com/p/b3bdad631e11) |
+| Wed, 10 Sep 2025 16:10:54 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Septiembre 2025 | Tiziano Mass | [Read More](https://medium.com/p/ef1ee040a0e3) |
+| Wed, 10 Sep 2025 16:08:51 GMT | TryHackMe - SOC Role in Blue Team - WriteUp | Axoloth | [Read More](https://medium.com/p/e998a9e9ee04) |
+| Wed, 10 Sep 2025 16:07:34 GMT | Achievement Unlocked: “Feeling Blue” Badge HackTheBox | napol | [Read More](https://medium.com/p/69c3b58ef673) |
+| Wed, 10 Sep 2025 16:03:20 GMT | Untitled 
+Chapter 6 — Six Seconds | Murderspice | [Read More](https://medium.com/p/434f48cc8d82) |
+| Wed, 10 Sep 2025 16:02:36 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/af500636a779) |
+| Wed, 10 Sep 2025 16:01:48 GMT | Don’t Panic | Agile Decision Games | [Read More](https://medium.com/p/9a2406fc18ef) |
+| Wed, 10 Sep 2025 15:55:29 GMT | “Title” A Humbling (for me) AD Set | Erich Huffman | [Read More](https://medium.com/p/0b352828ff29) |
+| Wed, 10 Sep 2025 15:53:22 GMT | APISCAN: A Practical Approach to API Security Testing by Perry Mertens | Perry M | [Read More](https://medium.com/p/96b5e676c071) |
+| Wed, 10 Sep 2025 15:47:47 GMT | Hardening Windows Systems with LAPS and DNSSEC | Karthikeyan Nagaraj | [Read More](https://medium.com/p/abece93d0950) |
+| Wed, 10 Sep 2025 15:44:58 GMT | The Rise of Cloud Forensics: Uncovering Evidence in the Cloud Era | Akshay Chauhan | [Read More](https://medium.com/p/e26daa1f3866) |
+| Wed, 10 Sep 2025 15:43:29 GMT | Why Cloud Transformation Is the Key to Competitive Advantage | IPSpecialist | [Read More](https://medium.com/p/77c3e3f92b22) |
+| Wed, 10 Sep 2025 15:42:48 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/07c8ca5596e5) |
+| Wed, 10 Sep 2025 15:42:27 GMT | Why Data Centers Are the Crown Jewels of National Infrastructure | Leon Tyron | [Read More](https://medium.com/p/39b32e6bff94) |
+| Wed, 10 Sep 2025 15:41:01 GMT | A Web Application Security Assessment of Vuln-Bank (Part 1) | Claire Iyara | [Read More](https://medium.com/p/28b3e5b0fa5b) |
+| Wed, 10 Sep 2025 15:40:41 GMT | IP and Domain Threat Intelligence — TryHackMe ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/5bf72c2c77d0) |
+| Wed, 10 Sep 2025 15:40:04 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/a9a5e81553d3) |
+| Wed, 10 Sep 2025 15:31:46 GMT | The Enigma of External Forces | Britt Holland | [Read More](https://medium.com/p/6d470ef87269) |
 | Wed, 10 Sep 2025 15:29:13 GMT | SOC Role in Blue Team - Tryhackme | Aaron | [Read More](https://medium.com/p/e0398b30dc05) |
 | Wed, 10 Sep 2025 15:20:45 GMT | Digital Forensics Services: Unlocking Truth in the Digital Age | secureroot | [Read More](https://medium.com/p/90f56c3bf42f) |
 | Wed, 10 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5c581a31e4cc) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 11:21:40 GMT | When “Private” ChatGPT Conversations Go Public: GRC Takeaways | Brittney Ginther | [Read More](https://medium.com/p/cf8b9737c868) |
 | Wed, 10 Sep 2025 11:21:40 GMT | Malware Analysis on Linux | Esra Kayhan | [Read More](https://medium.com/p/dbdbad6c486d) |
 | Wed, 10 Sep 2025 11:21:09 GMT | Best 5 Tech Platforms for Cybersecurity Courses in Abia State | ECR Academy | [Read More](https://medium.com/p/252423b1d891) |
-| Wed, 10 Sep 2025 11:17:28 GMT | 5 Bangladeshi Companies Leading in QA Audit and Software Testing | EnosisOutsourcing | [Read More](https://medium.com/p/f1b437189e64) |
-| Wed, 10 Sep 2025 11:14:03 GMT | Mac Security Alert: Counterfeit Apps Bypass Apple Protections | Karl Buhl | [Read More](https://medium.com/p/c853aa674b86) |
-| Wed, 10 Sep 2025 11:12:11 GMT | The Importance Of Cybersecurity: Why It’s a Top Priority Today | Robindoston | [Read More](https://medium.com/p/4ded50639033) |
-| Wed, 10 Sep 2025 11:05:34 GMT | Salty2FA Phishing Kit Emerges as Major Threat to Enterprises in the US and EU | Jasmitharouthu | [Read More](https://medium.com/p/5ba8d8f2b937) |
-| Wed, 10 Sep 2025 11:04:11 GMT | Small type of Classic idor i find | Imran Niaz | [Read More](https://medium.com/p/416a11b1fe59) |
-| Wed, 10 Sep 2025 11:01:48 GMT | Stop Indirect Prompt Injection Before It Hijacks Your Agents | Tochukwu Okonkwor | [Read More](https://medium.com/p/7a2757237e7a) |
-| Wed, 10 Sep 2025 11:01:45 GMT | Lessons Learned from Heartbreak: How Pain Became My Greatest Teacher | Her Out-of-Office Feelings | [Read More](https://medium.com/p/1dd154f92c22) |
-| Wed, 10 Sep 2025 11:01:36 GMT | The Cyber Resilience Act: A New Era of Digital Security | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/d70599650d77) |
-| Wed, 10 Sep 2025 10:58:35 GMT | “Verdammt, schon wieder IT-Sicherheit!” | Ingenieurgesellschaft ISM mbH | [Read More](https://medium.com/p/b45251cc4414) |
-| Wed, 10 Sep 2025 10:55:28 GMT | Real-World Exploitation Gaps: For Fun and For Profit | Ajibola Lawal | [Read More](https://medium.com/p/1a64cd8e7ef8) |
-| Wed, 10 Sep 2025 10:54:30 GMT | Five free books on Cyber Threat Intelligence | Φiriki Intelligence | [Read More](https://medium.com/p/6b2384ceebef) |
-| Wed, 10 Sep 2025 10:52:43 GMT | 0 day vulnerabilities are going somewhere else | Imran Niaz | [Read More](https://medium.com/p/86436095b07b) |
-| Wed, 10 Sep 2025 10:42:54 GMT | Securing Model Context Protocol (MCP) Servers with OAuth2 -Part1 | Ranadheer pendru | [Read More](https://medium.com/p/d83795f9f92b) |
-| Wed, 10 Sep 2025 10:34:29 GMT | PBO : Enkapsulasi dan Akses Modifier | Yasa Wijaya | [Read More](https://medium.com/p/e6eef344040a) |
-| Wed, 10 Sep 2025 10:32:53 GMT | Inside SparkKitty: The Trojan Spy Proving Your Phone Isn’t Safe | Amol Rangari | [Read More](https://medium.com/p/5d8d5a22d5e4) |
-| Wed, 10 Sep 2025 10:27:16 GMT | Role-Based vs. Attribute-Based Access Control: Which One Fits Your Business? | Yuvi Aggarwal | [Read More](https://medium.com/p/11a1cf750298) |
-| Wed, 10 Sep 2025 10:23:57 GMT | How Cloud Security Is Essential for Every Business | Kartik Debnath | [Read More](https://medium.com/p/8fe27d348fbd) |
-| Wed, 10 Sep 2025 10:23:09 GMT | Responder Tool Footprints in NTLM Credential Theft | hx015 | [Read More](https://medium.com/p/6f25ec7984d3) |
