@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 07:15:41 GMT | How Hackers Bypass Two-Factor Authentication in 2025 - Salty 2FA Explained | Motasem Hamdan | [Read More](https://medium.com/p/9a30cae78797) |
+| Wed, 10 Sep 2025 07:05:53 GMT | How wars justify? How Article 51 and the Vienna Convention Justify Modern Warfare | Shabnam Memon | [Read More](https://medium.com/p/fb810876b899) |
+| Wed, 10 Sep 2025 07:00:44 GMT | Mobile Market Report Update: Shaping Smartphone Future 2025 | Abigail Lewis | [Read More](https://medium.com/p/83b492b7d435) |
+| Wed, 10 Sep 2025 06:57:56 GMT | Reconnaissance Menggunakan Magicrecon | Ginda Sundara | [Read More](https://medium.com/p/62a7b93bffaa) |
+| Wed, 10 Sep 2025 06:56:53 GMT | How to Choose the Best Security Company in Mumbai: A Complete Guide | Tanisha Singh | [Read More](https://medium.com/p/5512f329e8fb) |
+| Wed, 10 Sep 2025 06:54:16 GMT | APSB25–88: Why Adobe Commerce Merchants Must Patch Immediately | Meetanshi | [Read More](https://medium.com/p/394a4337f58f) |
+| Wed, 10 Sep 2025 06:52:47 GMT | Side-Channel Recon: How Attackers Use Timing, Headers, and Metadata for Infiltration | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58c4428dc9fa) |
 | Wed, 10 Sep 2025 06:47:02 GMT | ✅ Securing OAuth & SSO: A Step-by-Step Guide and Checklist | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4e9390933957) |
 | Wed, 10 Sep 2025 06:46:26 GMT | Regular User Can Invite Admin — Resulting in Full Organization Compromise | 0xAmmar | [Read More](https://medium.com/p/050dd57f9e01) |
+| Wed, 10 Sep 2025 06:44:48 GMT | A Fun Proxmox Home Lab Project | Earl Yu | [Read More](https://medium.com/p/4796d41e363e) |
 | Wed, 10 Sep 2025 06:41:38 GMT | Understanding Active Directory: The Backbone of Windows Identity Management | Sulabh Prajapati | [Read More](https://medium.com/p/789954c6181d) |
+| Wed, 10 Sep 2025 06:37:54 GMT | Mobile Market Report 2025: Complete Guide for Tech Buyers | Harper Moore | [Read More](https://medium.com/p/18398b8a7949) |
 | Wed, 10 Sep 2025 06:37:11 GMT | Secure Your APIs with Apache APISIX + SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/f2e7d566e4c7) |
 | Wed, 10 Sep 2025 06:29:38 GMT | Day 54- Understand the concept of Runbooks in cybersecurity as a beginner | unica 02 | [Read More](https://medium.com/p/4befb2054bef) |
 | Wed, 10 Sep 2025 06:26:20 GMT | Interoperable Healthcare Information Technology Systems Market Set to Explode with Phenomenal… | Nitin Jetty | [Read More](https://medium.com/p/8756fc68c462) |
@@ -105,12 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 00:22:21 GMT | Demystifying Endpoint Protection Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/6c481bd9f0a0) |
 | Wed, 10 Sep 2025 00:22:09 GMT | Daily Pentest Labs — Day 01 — Basic Pentesting 1 — Part 01 | MichaelLearns_ | [Read More](https://medium.com/p/2f012f978529) |
 | Wed, 10 Sep 2025 00:14:09 GMT | Quantum Computing’s Breakthrough Moment: Real-World Applications in 2025 | Umesh Anjula | [Read More](https://medium.com/p/d6f0c51df762) |
-| Wed, 10 Sep 2025 00:09:31 GMT | —  … | Danyal Saleem | [Read More](https://medium.com/p/afb295f4cecc) |
-| Wed, 10 Sep 2025 00:02:18 GMT | Discover how attackers abuse clipboard paste handling to trigger Blind XSS from setup to… | JPablo13 | [Read More](https://medium.com/p/65251336bb2e) |
-| Wed, 10 Sep 2025 00:01:32 GMT | Building a Hands-On SOC Lab with Wazuh: Step-by-Step Detection of Brute Force, Port Scans, and File… | Kunal Nagra | [Read More](https://medium.com/p/ebfeba0ee66e) |
-| Tue, 09 Sep 2025 23:56:47 GMT | GenAI — Accelerate? Stall? Defend? | Vladyslav G | [Read More](https://medium.com/p/3d47aa7fecbd) |
-| Tue, 09 Sep 2025 23:18:14 GMT | Weaponizing AI in Pentesting: Building Adaptive Cyber Soldiers | A-STAR7_DOCTOR | [Read More](https://medium.com/p/9f6896e103fe) |
-| Tue, 09 Sep 2025 23:06:55 GMT | Are companies underestimating the risk of OAuth token theft? | Cyber-AppSec | [Read More](https://medium.com/p/cf65469a644e) |
-| Tue, 09 Sep 2025 23:05:12 GMT | Demystifying Data Privacy in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/47b641923a0c) |
-| Tue, 09 Sep 2025 22:57:58 GMT | The Creator’s Help Desk | The Creator's Help Desk | [Read More](https://medium.com/p/d5e5a0dd9646) |
-| Tue, 09 Sep 2025 22:57:21 GMT | We live in a world where web3 is taking over gradually and innovation races ahead of security… | Kellyokuonghae | [Read More](https://medium.com/p/f58bc0269d07) |
