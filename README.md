@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Sep 2025 07:34:39 GMT | Day 88: Privilege Escalation Fundamentals | Nile Okomo | [Read More](https://medium.com/p/2173f84d48d2) |
+| Wed, 10 Sep 2025 07:23:25 GMT | Automation For Contract Lifecycle Management | Marketing | [Read More](https://medium.com/p/7f45ebdddde4) |
+| Wed, 10 Sep 2025 07:21:40 GMT | What is SQL Injection (SQLi)? | Dhruv | [Read More](https://medium.com/p/3833e80f3bb9) |
+| Wed, 10 Sep 2025 07:20:18 GMT | How I Got an Unexpected Bounty from REDETECT.com | MRKNIGHT-NIDU | [Read More](https://medium.com/p/5951793b1519) |
 | Wed, 10 Sep 2025 07:15:41 GMT | How Hackers Bypass Two-Factor Authentication in 2025 - Salty 2FA Explained | Motasem Hamdan | [Read More](https://medium.com/p/9a30cae78797) |
 | Wed, 10 Sep 2025 07:05:53 GMT | How wars justify? How Article 51 and the Vienna Convention Justify Modern Warfare | Shabnam Memon | [Read More](https://medium.com/p/fb810876b899) |
 | Wed, 10 Sep 2025 07:00:44 GMT | Mobile Market Report Update: Shaping Smartphone Future 2025 | Abigail Lewis | [Read More](https://medium.com/p/83b492b7d435) |
@@ -110,7 +114,3 @@ Techniques | Ismael Barrantes | [Read More](https://medium.com/p/b086bb2582e2) |
 | Wed, 10 Sep 2025 00:55:54 GMT | MIT Research: 95% of Enterprise AI Projects Fail — Here’s What’s Really Going Wrong | Sunil Singh | [Read More](https://medium.com/p/eef187cb5107) |
 | Wed, 10 Sep 2025 00:39:30 GMT | Rebuilding Malware Doesn’t Make It Secure | ijlal | [Read More](https://medium.com/p/5388453bec7f) |
 | Wed, 10 Sep 2025 00:31:40 GMT | Cyber Command + NSA: Why The Dual-Hat Power Play Still Rules | Cyber Cav | [Read More](https://medium.com/p/4b3229e61eda) |
-| Wed, 10 Sep 2025 00:31:39 GMT | How an OAuth Misconfiguration Led to Account Takeover | AIwolfie | [Read More](https://medium.com/p/b6f3e3837974) |
-| Wed, 10 Sep 2025 00:22:21 GMT | Demystifying Endpoint Protection Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/6c481bd9f0a0) |
-| Wed, 10 Sep 2025 00:22:09 GMT | Daily Pentest Labs — Day 01 — Basic Pentesting 1 — Part 01 | MichaelLearns_ | [Read More](https://medium.com/p/2f012f978529) |
-| Wed, 10 Sep 2025 00:14:09 GMT | Quantum Computing’s Breakthrough Moment: Real-World Applications in 2025 | Umesh Anjula | [Read More](https://medium.com/p/d6f0c51df762) |
