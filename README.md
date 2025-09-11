@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 04:20:45 GMT | Cisco + Splunk recently announced a major upgrade for Security Operations Center (SOC) teams using… | Pk Atwork | [Read More](https://medium.com/p/3c4fadf17505) |
+| Thu, 11 Sep 2025 04:10:16 GMT | Patch Management: Applying Security Updates | Cyber Security Research | [Read More](https://medium.com/p/31537e28e5cd) |
+| Thu, 11 Sep 2025 04:07:44 GMT | Why Blockchain Security Is a National Priority for the U.S. Economy | Nasir Naqvi | [Read More](https://medium.com/p/5f149d83567d) |
+| Thu, 11 Sep 2025 04:05:18 GMT | Configuration Management: Ensuring Consistent Security Settings | Cyber Security Research | [Read More](https://medium.com/p/c3fdde189221) |
+| Thu, 11 Sep 2025 03:59:19 GMT | YOU ARE HACKED! | Shimonto Chowdhury | [Read More](https://medium.com/p/00668cb8c356) |
+| Thu, 11 Sep 2025 03:57:27 GMT | SafeLine WAF Hands-On: The Free Security Tool You Didn’t Know You Needed | Quella | [Read More](https://medium.com/p/438047b5d4b2) |
+| Thu, 11 Sep 2025 03:53:33 GMT | EC2 Network Security | Rick Yang | [Read More](https://medium.com/p/208de05935a8) |
 | Thu, 11 Sep 2025 03:33:41 GMT | Millions of Travel Records Leaked: Navan’s Website Dangerous Vulnerability” | Halalalimii | [Read More](https://medium.com/p/538464bd366c) |
 | Thu, 11 Sep 2025 03:31:42 GMT | Cyber & AI Nexus: JLR Hacked, Apple & Google Unite, and the Future of Medicine | Akshat Ratanpal | [Read More](https://medium.com/p/7be68879d828) |
 | Thu, 11 Sep 2025 03:31:42 GMT | 10 Common Mistakes in Node.js Deserialization Security | Arunangshu Das | [Read More](https://medium.com/p/3399fb38fab0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 19:26:39 GMT | Migrating Connected Apps to External Client Apps from an ISV / External App Management Perspective | Justus van den Berg | [Read More](https://medium.com/p/e155875a0974) |
 | Wed, 10 Sep 2025 19:25:27 GMT | The Shocking Truth About AI Automation Nobody Wants to Admit | Kainat Nafees | [Read More](https://medium.com/p/76e767d72909) |
 | Wed, 10 Sep 2025 19:22:01 GMT | Web API Authentication and Authorization: A Friendly Guide with Real-Life Examples | Kshitiz Chaudhary | [Read More](https://medium.com/p/8505f40fd2c2) |
-| Wed, 10 Sep 2025 19:21:13 GMT | Born to Create: Navigating Inherited Entitlement | Tamara Alhawamdeh | [Read More](https://medium.com/p/0bac5276196e) |
-| Wed, 10 Sep 2025 19:20:25 GMT | Cybersecurity Careers: Why Ethical Hacking is the Future of IT Security | Smith Adams | [Read More](https://medium.com/p/76e1eba89049) |
-| Wed, 10 Sep 2025 19:09:41 GMT | Cryptography in Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/ec062a061109) |
-| Wed, 10 Sep 2025 19:09:28 GMT | Xmas Scans in Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/c17812fcdb2d) |
-| Wed, 10 Sep 2025 19:02:17 GMT | Hack the Memory Forensics | Luke | [Read More](https://medium.com/p/057f13aee9b4) |
-| Wed, 10 Sep 2025 18:59:05 GMT | Embarking on a thrilling adventure! | Zainab Saeed | [Read More](https://medium.com/p/1b17a1d24803) |
-| Wed, 10 Sep 2025 18:56:33 GMT | Steganography: Definition and Practical Application Using Kali Linux | Balogun Ayomide | [Read More](https://medium.com/p/ee57356a6709) |
