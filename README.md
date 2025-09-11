@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 08:39:26 GMT | Digisol DG-GR1321: Plaintext Password Storage Vulnerability (CVE-2024–4232) | Redfox Security | [Read More](https://medium.com/p/7a870f8243b8) |
+| Thu, 11 Sep 2025 08:26:12 GMT | Why Third-Party Risk Management Can No Longer Be Ignored | Prerna Shukla | [Read More](https://medium.com/p/0f75cd304d09) |
+| Thu, 11 Sep 2025 08:23:23 GMT | npm Hacked, Millions Affected | S.Ali | [Read More](https://medium.com/p/b422114fd8e9) |
+| Thu, 11 Sep 2025 08:23:20 GMT | From My eBook “Stop Spam Calls & Texts”: The Simple System to Take Back Your Phone | Ethan Cole | [Read More](https://medium.com/p/b06029189f4e) |
 | Thu, 11 Sep 2025 08:20:51 GMT | Best IT Consulting, Web & Mobile App Development in India | Pentoz | [Read More](https://medium.com/p/abbe229b139a) |
 | Thu, 11 Sep 2025 08:18:01 GMT | Kioptrix: Level 1 (#1) | DAZ00X | [Read More](https://medium.com/p/0a9beb51ea53) |
 | Thu, 11 Sep 2025 08:16:13 GMT | Which certification is best for networking? | cyber security Updates | [Read More](https://medium.com/p/ec010e8c40a0) |
+| Thu, 11 Sep 2025 08:13:44 GMT | ประจำวันพฤหัสบดีที่ 11 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/250a8f6302f4) |
 | Thu, 11 Sep 2025 08:13:43 GMT | AI and Cybersecurity Risks and Protection in 2025 | Macromodule Technologies | [Read More](https://medium.com/p/596d0039fbdd) |
 | Thu, 11 Sep 2025 08:11:17 GMT | Open Source AI: Savior or Security Nightmare? | R A N A   A H M A D | [Read More](https://medium.com/p/39b97752c86c) |
 | Thu, 11 Sep 2025 08:10:18 GMT | Enough AI Already | William Essex | [Read More](https://medium.com/p/d409359a0001) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 02:29:06 GMT | I Opened the Windows Registry — And It Told Me Who Did It | Paritosh | [Read More](https://medium.com/p/796c232da43f) |
 | Thu, 11 Sep 2025 02:28:32 GMT | Strix: Open-Source AI Hackers for Your Apps | CodeBun | [Read More](https://medium.com/p/26cfb9a8c036) |
 | Thu, 11 Sep 2025 02:05:01 GMT | Playing Around with Wireshark: My Basic Practice | Zulfianarahmi | [Read More](https://medium.com/p/6e905eacd5d3) |
-| Thu, 11 Sep 2025 01:42:02 GMT | TryHackMe Writeup: GoldenEye | Berkay AĞGÜL | [Read More](https://medium.com/p/68bc8fef8c07) |
-| Thu, 11 Sep 2025 01:31:40 GMT | “Beyond ‘Slow to Warm Up’: Understanding Your Strong Self-Protection Mechanism” | Hanpis | [Read More](https://medium.com/p/0a43f6f50c11) |
-| Thu, 11 Sep 2025 01:27:01 GMT | Spaces in FinderBee: Organized, Secure AI Service Management | Ritheesh Reddy | [Read More](https://medium.com/p/996315bc6bfc) |
-| Thu, 11 Sep 2025 01:18:35 GMT | Integrating Dockerized Wazuh with Slack | Mw3ndwa Victor | [Read More](https://medium.com/p/be7a65ec3998) |
-| Thu, 11 Sep 2025 01:07:44 GMT | I Googled My Own Name and What I Found Will Terrify You! | Tasmia Sharmin | [Read More](https://medium.com/p/af7926d67574) |
