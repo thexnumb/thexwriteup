@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 07:13:21 GMT | Day 55- Understanding the basics of forensics in cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/fde8077085e5) |
+| Thu, 11 Sep 2025 07:13:07 GMT | notepad — Web— PicoCTF | TraceX0 | [Read More](https://medium.com/p/799552ea6dea) |
+| Thu, 11 Sep 2025 07:11:24 GMT | How to Increase Website Traffic: Practical Strategies That Deliver | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/e7774fbcbb42) |
+| Thu, 11 Sep 2025 07:07:07 GMT | Cortex Incident Case Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9dedbfd02090) |
+| Thu, 11 Sep 2025 07:01:08 GMT | The Hidden Power of SafeLine WAF: Load Balancing & Failover on Top of Security | Quella | [Read More](https://medium.com/p/058453422b04) |
+| Thu, 11 Sep 2025 06:48:29 GMT | Top 5 AI-cybersecurity Tools | Umang Nayi | [Read More](https://medium.com/p/ca175f9e599d) |
+| Thu, 11 Sep 2025 06:41:18 GMT | ️‍♂️ Forgotten But Dangerous: How an Old Staging Domain Handed Me Production Secrets | Iski | [Read More](https://medium.com/p/ced7be8dcd2f) |
+| Thu, 11 Sep 2025 06:39:03 GMT | Top 10 Ethical Hacking E-books 2026 - Beginners to Advanced | Manisha Chaudhary | [Read More](https://medium.com/p/40f77ea9b89b) |
+| Thu, 11 Sep 2025 06:33:45 GMT | Mobile Device Management Tools That Don’t Slow Down Employees | Lanvaus | [Read More](https://medium.com/p/33e8eafa93a6) |
+| Thu, 11 Sep 2025 06:31:44 GMT | flood situation in PAKISTAN ……… | Preety Girl | [Read More](https://medium.com/p/0206ea7d2913) |
+| Thu, 11 Sep 2025 06:30:31 GMT | Cyber Risk Frameworks for Resilient Digital Operations | Ishaan Nair | [Read More](https://medium.com/p/a39f78446e26) |
+| Thu, 11 Sep 2025 06:29:08 GMT | Nano-Bots | Balki Maharaj | [Read More](https://medium.com/p/ab9a270ce8f5) |
 | Thu, 11 Sep 2025 06:27:17 GMT | TO BECOME A SOC EXPERT | vulnhunter | [Read More](https://medium.com/p/23df20bd7cfe) |
+| Thu, 11 Sep 2025 06:21:24 GMT | AI: Job Killer or Industry Game-Changer? Understanding the Future of IT | V Amarnath Reddy | [Read More](https://medium.com/p/b3b8d43162a7) |
 | Thu, 11 Sep 2025 06:21:18 GMT | XXE Injection in React Apps: Risks & Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/7f027b676d94) |
 | Thu, 11 Sep 2025 06:18:54 GMT | Apple’s Anti-Spyware Breakthrough: iOS Strikes Back at Pegasus | Nanthakumar | [Read More](https://medium.com/p/252df911d666) |
 | Thu, 11 Sep 2025 06:17:50 GMT | PicoCTF Web Exploitation Walkthrough -Scavenger Hunt | Deepika  B | [Read More](https://medium.com/p/31e8005202e4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 22:53:04 GMT | Threat Modeling, Explained | Chris Zhang | [Read More](https://medium.com/p/7533c54a6b28) |
 | Wed, 10 Sep 2025 22:45:19 GMT | CAPT Cross-Site Scripting (XSS) Writeup — HackViser | Sajad Abdulelah | [Read More](https://medium.com/p/a6670206aff0) |
 | Wed, 10 Sep 2025 22:22:07 GMT | The Biggest Cyber Security Threats Online for Individuals and How to Mitigate Them | Enskefuddle | [Read More](https://medium.com/p/126b64c6446e) |
-| Wed, 10 Sep 2025 22:08:51 GMT | Entropy Hacking: Measuring Chaos in Code to Outsmart Machines | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/98a61bae28ea) |
-| Wed, 10 Sep 2025 21:43:50 GMT | Codeproof vs. Jamf vs. Microsoft Intune: Which MDM Fits a Small Business Best? | Codeproof Articles | [Read More](https://medium.com/p/6a5d06337ebf) |
-| Wed, 10 Sep 2025 21:43:01 GMT | Race Conditions Are Not Just for Bypassing Plan Limits!! | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/1cd63aa0d6f7) |
-| Wed, 10 Sep 2025 21:42:40 GMT | How to Prevent Data Leaks in Node.js Applications | Somendradev | [Read More](https://medium.com/p/c27662632a28) |
-| Wed, 10 Sep 2025 21:38:12 GMT | kioptrix level 3 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/391acaf15937) |
-| Wed, 10 Sep 2025 21:37:40 GMT | When is the Right Time to Hire a CISO? | Matthew.Rosenquist | [Read More](https://medium.com/p/64e9e18a8605) |
-| Wed, 10 Sep 2025 21:35:48 GMT | OSINT 101:Stalking the Internet (Legally) | Sirjan Pun Magar | [Read More](https://medium.com/p/1c26f3ea4f31) |
-| Wed, 10 Sep 2025 21:34:46 GMT | Lesson Learned? CTF - Tryhackme Writeup | Mohamed  Elmhalawy | [Read More](https://medium.com/p/d82418af9a2b) |
-| Wed, 10 Sep 2025 21:26:24 GMT | What distinguishes a leader from a king? | Fahaz Hameed | [Read More](https://medium.com/p/b9e715527098) |
-| Wed, 10 Sep 2025 21:24:48 GMT | Why Nigeria Needs a Mosaic of Professions at the Decision Making Table | Ogunsemowo Oluwasegun Tobiloba | [Read More](https://medium.com/p/7642c8f38196) |
-| Wed, 10 Sep 2025 21:24:26 GMT | Building Clothee: A Secure E-Commerce Web Application | Sanduni Ayeshika | [Read More](https://medium.com/p/8836e64d4ebf) |
-| Wed, 10 Sep 2025 21:16:05 GMT | The Evolution and Normalization of Hacktivism in Hybrid Conflict | Deniz Topaloglu | [Read More](https://medium.com/p/ae05f03db0c4) |
-| Wed, 10 Sep 2025 21:14:45 GMT | Kittens and Code: Google Dorks for Ethical Hackers | BotsiCat | [Read More](https://medium.com/p/732dcb742d57) |
