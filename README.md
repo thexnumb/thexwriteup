@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 15:30:31 GMT | Secure Code with Generative AI | Girish Dhamane | [Read More](https://medium.com/p/cfb8f395758b) |
+| Thu, 11 Sep 2025 15:20:41 GMT | Oracle’s Historic Day: Why This 36% Stock Jump Could Change Your Fintech App Forever | Tech With Curly Girl | [Read More](https://medium.com/p/fcefcfd8e7ed) |
+| Thu, 11 Sep 2025 15:19:33 GMT | Progressive Sign-Up and SSO — Cutting Steps Without Losing Security | ALMAX Design and Development Agency | [Read More](https://medium.com/p/111773b31299) |
+| Thu, 11 Sep 2025 15:18:46 GMT | Building RAG Applications with Amazon Bedrock and Knowledge Bases | Rizqi Mulki | [Read More](https://medium.com/p/a135f104b443) |
+| Thu, 11 Sep 2025 15:17:40 GMT | Why Your Smart Home Is Spying On You (And How to Stop It) | The Bot Group | [Read More](https://medium.com/p/f536ce3e556d) |
 | Thu, 11 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 11, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ee0cb7546ae7) |
 | Thu, 11 Sep 2025 15:05:51 GMT | 63% Orgs Say Quantum Computing Will Shift Cyber Risks, Yet Only 5% Actively Plan | Ahazzadnan | [Read More](https://medium.com/p/513a8ddd82f7) |
 | Thu, 11 Sep 2025 15:03:31 GMT | The First Steps to Configuring Your Dedicated Server | Milaharris | [Read More](https://medium.com/p/b65a3dada11c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 10:33:31 GMT | AI-Driven Cyber Attacks: How Deepfakes, AI Malware, and Automated Phishing Are Reshaping… | Ambala IT | [Read More](https://medium.com/p/773cd23a5143) |
 | Thu, 11 Sep 2025 10:31:58 GMT | MFA (Multi Factor Authentication) | Saksham Singh | [Read More](https://medium.com/p/458794da5c23) |
 | Thu, 11 Sep 2025 10:31:00 GMT | ️ SIEM in Action: How It Spots Hackers Before You Do | Natarajan C K | [Read More](https://medium.com/p/d289261a6ffc) |
-| Thu, 11 Sep 2025 10:31:00 GMT | Evil Twin Access Point Attacks | Esra Kayhan | [Read More](https://medium.com/p/ec09bfa3812b) |
-| Thu, 11 Sep 2025 10:30:41 GMT | Mobile Market Report 2025: Must-Know Data and Predictions | Rahul Das Gupta | [Read More](https://medium.com/p/a5f0d51a3a8f) |
-| Thu, 11 Sep 2025 10:19:43 GMT | Mobile Market Report Trends: What’s Driving 2025 Growth | Ahamed Afran | [Read More](https://medium.com/p/3e27d01465da) |
-| Thu, 11 Sep 2025 10:19:32 GMT | Cyberattacks | Gobinda Nandi | [Read More](https://medium.com/p/eeb4fc75effd) |
-| Thu, 11 Sep 2025 10:19:20 GMT | The Role of a Security Dashboard in Monitoring Account Safety | Password Manager | [Read More](https://medium.com/p/7ef08878e14b) |
