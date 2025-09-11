@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 16:31:39 GMT | Dockerfile Security for Data Science Teams | Nikulsinh Rajput | [Read More](https://medium.com/p/1f78219f02f4) |
+| Thu, 11 Sep 2025 16:25:16 GMT | Welcome to My Cybersecurity Blog: Trends, Pentesting & Ethical Hacking | Harbeer Singh | [Read More](https://medium.com/p/fd8f59170433) |
+| Thu, 11 Sep 2025 16:24:11 GMT | The Dark Side of Digital Forensic Education in India | Vijay Kumar Gupta | [Read More](https://medium.com/p/6e9ed5aacb4b) |
 | Thu, 11 Sep 2025 16:16:59 GMT | How to Start a Cybersecurity Career When getting out of the Military | Cyber Cav | [Read More](https://medium.com/p/78cdf2a6a55d) |
 | Thu, 11 Sep 2025 16:16:52 GMT | Why You Should Disable Bluetooth on Linux (and How to Do It) | Citadel Cybersec | [Read More](https://medium.com/p/814d95846a58) |
 | Thu, 11 Sep 2025 16:15:36 GMT | Security vs Development. Ruby on Rails and CSP Nonce | Mariia Radzhapova | [Read More](https://medium.com/p/24d8052bf260) |
@@ -19,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 16:11:19 GMT | Quranium Launches $QRN Public Pre-Sale on Republic | Bright Mmaduabuchi | [Read More](https://medium.com/p/4adc158872b0) |
 | Thu, 11 Sep 2025 16:11:03 GMT | When it comes to protecting our digital lives, password managers are often presented as the “holy… | Cordula Boeck | [Read More](https://medium.com/p/9017688ad0e4) |
 | Thu, 11 Sep 2025 16:08:45 GMT | Security vs Development. Ruby on Rails and CSP Nonce | Mariia Radzhapova | [Read More](https://medium.com/p/9c2638048b28) |
+| Thu, 11 Sep 2025 16:03:55 GMT | Understanding SSL/TLS Certificates: Your Website’s Digital Passport | Dineshraj Anandan | [Read More](https://medium.com/p/a4614998e0ce) |
 | Thu, 11 Sep 2025 16:03:17 GMT | Malware Development Technique Database | S12 - 0x12Dark Development | [Read More](https://medium.com/p/20948167a2bf) |
 | Thu, 11 Sep 2025 16:02:27 GMT | Cryptocurrency Theft Is Skyrocketing — Secure Your Assets Now | Generational Wealth | [Read More](https://medium.com/p/1b125d4b3d21) |
 | Thu, 11 Sep 2025 15:58:11 GMT | Securing the Digital Citadel: Building the SSL/TLS Drawbridge for Java and Mainframes | Eskindir Abebe Geda | [Read More](https://medium.com/p/9e28e16cee61) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 11:37:35 GMT | The Five Stages of Security Maturity: Where Does Your Organization Stand? | Skysecure Technologies | [Read More](https://medium.com/p/8ccac4000ce4) |
 | Thu, 11 Sep 2025 11:34:57 GMT | The 5 Linux Commands Every Bug Bounty Hunter Should Master (and How I Chain Them for Faster Recon) | Kumar Mohit | [Read More](https://medium.com/p/cef0b5cbc8f8) |
 | Thu, 11 Sep 2025 11:28:54 GMT | When to Use Each: Managed Identity vs. Service Principal vs. Service Connector in Microsoft Azure | Mohamed Taman | [Read More](https://medium.com/p/89e762cbf0a1) |
-| Thu, 11 Sep 2025 11:27:43 GMT | ️ How Do C2 (Command and Control) Servers Work? | Esra Kayhan | [Read More](https://medium.com/p/24e27e0ec0df) |
-| Thu, 11 Sep 2025 11:21:55 GMT | When Trust Collapses: The Blockchain Security Crisis and the Path to a New Architecture | X1 EcoChain | [Read More](https://medium.com/p/7a731d678dcb) |
-| Thu, 11 Sep 2025 11:14:48 GMT | What is User Entity and Behavior Analytics? | Stellar Cyber | [Read More](https://medium.com/p/784073852195) |
-| Thu, 11 Sep 2025 11:09:32 GMT | ️ TryHackMe SOC Role in Blue Team — Walkthrough & Lessons Learned | Furkanctiner | [Read More](https://medium.com/p/2ece9f4c5ae4) |
