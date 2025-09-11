@@ -12,12 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 05:16:47 GMT | Portswigger Web Security Academy - NoSQL injection Lab #1 | BooRuleDie | [Read More](https://medium.com/p/c02384c24fcb) |
+| Thu, 11 Sep 2025 05:14:33 GMT | Emerging AI Concepts Set to Redefine Technology in 2025 | cisprotraining | [Read More](https://medium.com/p/f1074f201110) |
+| Thu, 11 Sep 2025 05:06:56 GMT | The Language of Embrace | Mardiana Ayu | [Read More](https://medium.com/p/33a6beb330f9) |
+| Thu, 11 Sep 2025 04:51:08 GMT | The AI Models: From Academic Labs to Real-World Impact | RafalW3bCraft | [Read More](https://medium.com/p/d5a3fc270100) |
+| Thu, 11 Sep 2025 04:39:49 GMT | Subdomain Takeover: Quick-Check Cheat sheet for Security Testing | MkNayek | [Read More](https://medium.com/p/a42409cd405d) |
 | Thu, 11 Sep 2025 04:30:32 GMT | Konsep Komponen Sistem Komputer | Stevany Siregar | [Read More](https://medium.com/p/a8e8e26376b7) |
 | Thu, 11 Sep 2025 04:28:47 GMT | Security Automation: Automating Security Tasks | Cyber Security Research | [Read More](https://medium.com/p/998f416a91d1) |
 | Thu, 11 Sep 2025 04:27:08 GMT | Belajar Analisis PCAP: Dari HTTPS Sampai Dridex Malware | Zulfianarahmi | [Read More](https://medium.com/p/fd43e5d94b92) |
 | Thu, 11 Sep 2025 04:24:54 GMT | OSINT: The Weaponization of Public Data | Anushka Rodrigo | [Read More](https://medium.com/p/e1626533ca02) |
 | Thu, 11 Sep 2025 04:20:45 GMT | Cisco + Splunk recently announced a major upgrade for Security Operations Center (SOC) teams using… | Pk Atwork | [Read More](https://medium.com/p/3c4fadf17505) |
 | Thu, 11 Sep 2025 04:14:58 GMT | Log Management: Collecting and Analyzing Security Logs | Cyber Security Research | [Read More](https://medium.com/p/43cb056716e0) |
+| Thu, 11 Sep 2025 04:10:22 GMT | Alcance en Auditorías de Pentesting: Tres Variables Clave | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/e882ba91990b) |
 | Thu, 11 Sep 2025 04:10:16 GMT | Patch Management: Applying Security Updates | Cyber Security Research | [Read More](https://medium.com/p/31537e28e5cd) |
 | Thu, 11 Sep 2025 04:07:44 GMT | Why Blockchain Security Is a National Priority for the U.S. Economy | Nasir Naqvi | [Read More](https://medium.com/p/5f149d83567d) |
 | Thu, 11 Sep 2025 04:05:18 GMT | Configuration Management: Ensuring Consistent Security Settings | Cyber Security Research | [Read More](https://medium.com/p/c3fdde189221) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 19:57:11 GMT | kioptrix level 2 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/1756fea6e799) |
 | Wed, 10 Sep 2025 19:51:40 GMT | Security Questions You Should Ask Before Choosing an AI Tool | Slingshot | [Read More](https://medium.com/p/9bb61cd2ee9d) |
 | Wed, 10 Sep 2025 19:50:49 GMT | Java Deserialization Vulnerability, CVE-2015–7501 ,Tony the Tiger | Oussamahassania | [Read More](https://medium.com/p/1709ef788f01) |
-| Wed, 10 Sep 2025 19:50:36 GMT | How I Started My Cybersecurity Journey Without a Degree | vydhi | [Read More](https://medium.com/p/7ac8d720cf12) |
-| Wed, 10 Sep 2025 19:48:00 GMT | Exploiting EternalBlue (MS17–010) | Kizito Arinze Chukwu | [Read More](https://medium.com/p/d6d70476b912) |
-| Wed, 10 Sep 2025 19:44:17 GMT | GraphQL Explained Simply: Why It’s a Game-Changer for API Endpoints and Why (Bug Hunters Love… | Zoningxtr | [Read More](https://medium.com/p/9d0d8a529804) |
-| Wed, 10 Sep 2025 19:44:15 GMT | Cybersecurity Basics: 10 Cyber Hygiene Practices Every Beginner Should Adopt Today | vydhi | [Read More](https://medium.com/p/26a2227d325c) |
-| Wed, 10 Sep 2025 19:44:03 GMT | Suscripciones, datificación, secretos y abusos | Marvin G. Soto | [Read More](https://medium.com/p/dd9376ab479e) |
-| Wed, 10 Sep 2025 19:37:30 GMT | Kioptrix _l Writeup — Samba trans2open → root | Mahmoudelshorpagy | [Read More](https://medium.com/p/ac648ba5877a) |
