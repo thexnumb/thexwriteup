@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 22:31:46 GMT | The Hidden Costs of Social Media Bans: Slow Apps, Risky VPNs, Hackers Watching… A case study of… | Elizabeth A. Mallya. | [Read More](https://medium.com/p/d8b4d9db5fc4) |
+| Thu, 11 Sep 2025 22:29:39 GMT | An Experiment in AI for Security Operations (Part 2— the build) | Bill Mahony | [Read More](https://medium.com/p/f19a86821487) |
+| Thu, 11 Sep 2025 22:22:23 GMT | Password Security in 2025: Why Argon2id is the Standard You Should Use | Suman Bhadra | [Read More](https://medium.com/p/7c0797349836) |
+| Thu, 11 Sep 2025 22:21:28 GMT | An Introduction to Penetration Testing for Beginners | vydhi | [Read More](https://medium.com/p/954417b9cd02) |
+| Thu, 11 Sep 2025 22:21:09 GMT | 5 Everyday Practices to Make Your Digital Life Safer | vydhi | [Read More](https://medium.com/p/070db2b53fab) |
+| Thu, 11 Sep 2025 22:20:14 GMT | It’s Coming: DorkFi Delivers PreFi Rewards Surge | Haroof | [Read More](https://medium.com/p/3634e5bfec7c) |
+| Thu, 11 Sep 2025 22:12:34 GMT | ️‍♂️ TryHackMe Team | Redcell | [Read More](https://medium.com/p/ec6ca0b7f869) |
 | Thu, 11 Sep 2025 22:11:33 GMT | Server-Side Request Forgery (SSRF) Explained: From Basics to Advanced Attacks | Mazen Elsayed | [Read More](https://medium.com/p/771aef68b415) |
 | Thu, 11 Sep 2025 22:04:57 GMT | Shadow AI Is Not Your Enemy. It Is Your Unmanaged Colleague. | Joao Silva | [Read More](https://medium.com/p/f2bf6655000e) |
 | Thu, 11 Sep 2025 22:02:33 GMT | Outbound Sales Metrics That Actually Predict Revenue Growth | Brian A. Wilson | [Read More](https://medium.com/p/87dde4fbcf8a) |
@@ -107,10 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 16:41:18 GMT | “WebNet1" challenge | oussama | [Read More](https://medium.com/p/621e4ee1a24c) |
 | Thu, 11 Sep 2025 16:40:21 GMT | Prontuários expostos: caso MedicSolutions+ | Albertbacelar | [Read More](https://medium.com/p/50d91d66c1d6) |
 | Thu, 11 Sep 2025 16:38:39 GMT | Red Teaming for Beginners: How to Get Started | Vijay Sistla | [Read More](https://medium.com/p/0a80d782739d) |
-| Thu, 11 Sep 2025 16:31:39 GMT | Dockerfile Security for Data Science Teams | Nikulsinh Rajput | [Read More](https://medium.com/p/1f78219f02f4) |
-| Thu, 11 Sep 2025 16:25:16 GMT | Welcome to My Cybersecurity Blog: Trends, Pentesting & Ethical Hacking | Harbeer Singh | [Read More](https://medium.com/p/fd8f59170433) |
-| Thu, 11 Sep 2025 16:24:11 GMT | The Dark Side of Digital Forensic Education in India | Vijay Kumar Gupta | [Read More](https://medium.com/p/6e9ed5aacb4b) |
-| Thu, 11 Sep 2025 16:16:59 GMT | How to Start a Cybersecurity Career When getting out of the Military | Cyber Cav | [Read More](https://medium.com/p/78cdf2a6a55d) |
-| Thu, 11 Sep 2025 16:16:52 GMT | Why You Should Disable Bluetooth on Linux (and How to Do It) | Citadel Cybersec | [Read More](https://medium.com/p/814d95846a58) |
-| Thu, 11 Sep 2025 16:15:36 GMT | Security vs Development. Ruby on Rails and CSP Nonce | Mariia Radzhapova | [Read More](https://medium.com/p/24d8052bf260) |
-| Thu, 11 Sep 2025 16:13:22 GMT | Case-Sensitivity Display name is worth 150$ bounty | mohaned haron | [Read More](https://medium.com/p/6871aab8a39c) |
