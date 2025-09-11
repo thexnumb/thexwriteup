@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 10:10:56 GMT | DockerLabs Writeup — MyBB (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/335a05d4b41a) |
+| Thu, 11 Sep 2025 10:07:45 GMT | Anatomy of a Billion-download compromise: The NPM chalk and debug Supply Chain Attack | Joe Shenouda | [Read More](https://medium.com/p/416faebccfc5) |
+| Thu, 11 Sep 2025 10:07:33 GMT | Best Endpoint Security Service Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/c8c510b20ac5) |
+| Thu, 11 Sep 2025 09:58:24 GMT | Shadow IT : The Hidden Cybersecurity Threat Lurking Inside Every Company | Leon Tyron | [Read More](https://medium.com/p/02bb325e3ef3) |
+| Thu, 11 Sep 2025 09:57:39 GMT | AI-Driven Phishing & Deepfake Scams: The Rising Cybersecurity Threat in 2025 | Ambala IT | [Read More](https://medium.com/p/53abd2f4d77e) |
+| Thu, 11 Sep 2025 09:56:44 GMT | Security Profiles | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/2f4585404a5d) |
+| Thu, 11 Sep 2025 09:47:39 GMT | Cybersecurity Without a CISO: Is It Possible for SMEs? | Evgeny Ermakov | [Read More](https://medium.com/p/de1773a4a5cc) |
+| Thu, 11 Sep 2025 09:40:14 GMT | When Ransomware Goes Cloud-Native: Lessons from the Storm-0501 Attack | Tomasz Brzoza | [Read More](https://medium.com/p/ccedaaa7d1d1) |
 | Thu, 11 Sep 2025 09:37:13 GMT | Mastering Vulnerability Management: Why Context Is Everything | Lovelesh Gangil | [Read More](https://medium.com/p/3e87116e0174) |
+| Thu, 11 Sep 2025 09:36:32 GMT | The Four Main Types of Access Control Explained for Better Workplace Security | Joven A Rodrigues | [Read More](https://medium.com/p/8f910be01987) |
 | Thu, 11 Sep 2025 09:32:32 GMT | My Journey to Earning the Certified Associate Penetration Tester (CAPT) Certification | anonymous.gharti | [Read More](https://medium.com/p/5169cd7cc739) |
 | Thu, 11 Sep 2025 09:32:15 GMT | 7 FastAPI Security Moves That Ship | Bhagya Rana | [Read More](https://medium.com/p/21510086b22b) |
 | Thu, 11 Sep 2025 09:32:15 GMT | How I Accidentally Leaked Keys in CI — The Fix That Should Be Standard | Techno Diaries | [Read More](https://medium.com/p/4231a5c6a7cc) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 04:30:32 GMT | Konsep Komponen Sistem Komputer | Stevany Siregar | [Read More](https://medium.com/p/a8e8e26376b7) |
 | Thu, 11 Sep 2025 04:28:47 GMT | Security Automation: Automating Security Tasks | Cyber Security Research | [Read More](https://medium.com/p/998f416a91d1) |
 | Thu, 11 Sep 2025 04:27:08 GMT | Belajar Analisis PCAP: Dari HTTPS Sampai Dridex Malware | Zulfianarahmi | [Read More](https://medium.com/p/fd43e5d94b92) |
-| Thu, 11 Sep 2025 04:24:54 GMT | OSINT: The Weaponization of Public Data | Anushka Rodrigo | [Read More](https://medium.com/p/e1626533ca02) |
-| Thu, 11 Sep 2025 04:20:45 GMT | Cisco + Splunk recently announced a major upgrade for Security Operations Center (SOC) teams using… | Pk Atwork | [Read More](https://medium.com/p/3c4fadf17505) |
-| Thu, 11 Sep 2025 04:14:58 GMT | Log Management: Collecting and Analyzing Security Logs | Cyber Security Research | [Read More](https://medium.com/p/43cb056716e0) |
-| Thu, 11 Sep 2025 04:10:22 GMT | Alcance en Auditorías de Pentesting: Tres Variables Clave | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/e882ba91990b) |
-| Thu, 11 Sep 2025 04:10:16 GMT | Patch Management: Applying Security Updates | Cyber Security Research | [Read More](https://medium.com/p/31537e28e5cd) |
-| Thu, 11 Sep 2025 04:07:44 GMT | Why Blockchain Security Is a National Priority for the U.S. Economy | Nasir Naqvi | [Read More](https://medium.com/p/5f149d83567d) |
-| Thu, 11 Sep 2025 04:05:18 GMT | Configuration Management: Ensuring Consistent Security Settings | Cyber Security Research | [Read More](https://medium.com/p/c3fdde189221) |
-| Thu, 11 Sep 2025 03:59:19 GMT | YOU ARE HACKED! | Shimonto Chowdhury | [Read More](https://medium.com/p/00668cb8c356) |
-| Thu, 11 Sep 2025 03:57:27 GMT | SafeLine WAF Hands-On: The Free Security Tool You Didn’t Know You Needed | Quella | [Read More](https://medium.com/p/438047b5d4b2) |
