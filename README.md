@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 01:18:35 GMT | Integrating Dockerized Wazuh with Slack | Mw3ndwa Victor | [Read More](https://medium.com/p/be7a65ec3998) |
+| Thu, 11 Sep 2025 01:07:44 GMT | I Googled My Own Name and What I Found Will Terrify You! | Tasmia Sharmin | [Read More](https://medium.com/p/af7926d67574) |
+| Thu, 11 Sep 2025 00:53:01 GMT | Salesforce Drift OAuth Breach: When Tokens Become Skeleton Keys | Rue | [Read More](https://medium.com/p/f1eb5929b5d9) |
+| Thu, 11 Sep 2025 00:52:16 GMT | The 12 Most Useful AI Prompting Laws for MSP Go-To-Market | Nikolay Gul | [Read More](https://medium.com/p/8e9b2c99e729) |
+| Thu, 11 Sep 2025 00:51:06 GMT | Cybersecurity Lessons from VOXCompanies®’s Infrastructure | VOXCompanies | [Read More](https://medium.com/p/32f508097dbe) |
+| Thu, 11 Sep 2025 00:50:40 GMT | Securing the AI Goldrush: A Cybersecurity Professional’s View | Shae Turner | [Read More](https://medium.com/p/eb839e10bf07) |
+| Thu, 11 Sep 2025 00:45:47 GMT | Allsafe — Android Writeup | Aybora Ünveren | [Read More](https://medium.com/p/1053e444ff67) |
+| Thu, 11 Sep 2025 00:43:15 GMT | Building a Secure Software Development Lifecycle (SDLC) | Samina Perveen | [Read More](https://medium.com/p/dc0f3bab57ee) |
+| Thu, 11 Sep 2025 00:32:09 GMT | Home Lab Setup for SOC101 | Justin Blake | [Read More](https://medium.com/p/98b9b7289526) |
+| Thu, 11 Sep 2025 00:31:02 GMT | The SmartVoiceNotes Build Series: 9 Lessons From Security, SaaS, and Solo Building | Shae Turner | [Read More](https://medium.com/p/0fd7b524622a) |
+| Thu, 11 Sep 2025 00:28:55 GMT | Linux Rootkit Detection and Removal | Eren Cankut Uysal | [Read More](https://medium.com/p/786ebbb1222a) |
+| Thu, 11 Sep 2025 00:23:37 GMT | Linux System Hardening Checklist | Eren Cankut Uysal | [Read More](https://medium.com/p/4d8a395fe263) |
+| Thu, 11 Sep 2025 00:18:19 GMT | Linux Intrusion Detection Systems (IDS) | Eren Cankut Uysal | [Read More](https://medium.com/p/978a2f097dad) |
+| Thu, 11 Sep 2025 00:12:23 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/27e41ffc002c) |
+| Thu, 11 Sep 2025 00:07:05 GMT | Security Procedures: Implementing Security Controls | Cyber Security Research | [Read More](https://medium.com/p/e7f485825fe7) |
+| Thu, 11 Sep 2025 00:06:29 GMT | Developing Secure Authentication Solutions with NextAuth.js | @rnab | [Read More](https://medium.com/p/4646b496fb7b) |
+| Thu, 11 Sep 2025 00:00:14 GMT | 5 ChatGPT Prompts To Create Content No One Can Steal | Nauman khan | [Read More](https://medium.com/p/77cbd9216802) |
+| Wed, 10 Sep 2025 23:53:15 GMT | Public Key Infrastructure (PKI): Managing Digital Identities | Cyber Security Research | [Read More](https://medium.com/p/806d6282599c) |
+| Wed, 10 Sep 2025 23:49:29 GMT | seven ways to secure your Node.js | Suraj Khonde | [Read More](https://medium.com/p/2e0a48db5fcd) |
 | Wed, 10 Sep 2025 23:32:42 GMT | How I Build Rapport with My Clients as a Freelance Business Consultant | Wellness in Cybersecurity | [Read More](https://medium.com/p/4899776097b7) |
 | Wed, 10 Sep 2025 23:29:47 GMT | TryHackMe 5-Minute Hack: TakeOver (Subdomain Enumeration) | Trixia Horner | [Read More](https://medium.com/p/03c0639169e4) |
 | Wed, 10 Sep 2025 23:16:39 GMT | Self Introduction | Justin Blake | [Read More](https://medium.com/p/ee4042dd43a3) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 17:58:19 GMT | AI Scams Are Evolving — And They’re Coming for You | Madebyflorisb | [Read More](https://medium.com/p/0929be79638b) |
 | Wed, 10 Sep 2025 17:53:43 GMT | SIEM Requirements Checklist: Building the Right Foundation for Security Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/cdea23cdc552) |
 | Wed, 10 Sep 2025 17:46:17 GMT | Growth Hacking with AI: Strategies to Accelerate Your Brand’s Success | Niamh O'Shea | [Read More](https://medium.com/p/29b12ccc500b) |
-| Wed, 10 Sep 2025 17:43:03 GMT | Why Installing Security Cameras Is a Smart Move for Any Property | Justina Ockoner | [Read More](https://medium.com/p/1554979e7fb8) |
-| Wed, 10 Sep 2025 17:42:39 GMT | Day 20: Types of Databases:- SQL vs NoSQL & Beyond! | Prutha_Dongre | [Read More](https://medium.com/p/cde51a85127a) |
-| Wed, 10 Sep 2025 17:42:04 GMT | Does your team speak their minds? | Rômulo R. Contini | [Read More](https://medium.com/p/0d5db454a0ec) |
-| Wed, 10 Sep 2025 17:34:31 GMT | The Ultimate Guide to Penetration Testing Reports -Simplified | L4V4NY4  AGR3 | [Read More](https://medium.com/p/5e32fd94a392) |
-| Wed, 10 Sep 2025 17:31:01 GMT | Beyond Tools: The Human Side of Incident Response | Dean | [Read More](https://medium.com/p/d0cf50eb1b68) |
-| Wed, 10 Sep 2025 17:28:16 GMT | CCPA Audit Checklist: Ensuring Compliance with California Privacy Laws | SafeAeon Inc. | [Read More](https://medium.com/p/dbf278fb10df) |
-| Wed, 10 Sep 2025 17:28:08 GMT | Mastering Notetaking & Organization for Penetration Testing | L4V4NY4  AGR3 | [Read More](https://medium.com/p/300af6bcf46e) |
-| Wed, 10 Sep 2025 17:26:37 GMT | The U.S. HIRE Act: What Indian IT and Global Businesses Must Know (2025–26 Outlook) | M S Sulthan | [Read More](https://medium.com/p/cdd20d44cbae) |
-| Wed, 10 Sep 2025 17:22:55 GMT | Impactful Google Dorking on your Target | SIDDHANT SHUKLA | [Read More](https://medium.com/p/ce2f68862ae8) |
-| Wed, 10 Sep 2025 17:22:26 GMT | Teardrop DDoS Attacks: Understanding the Fragmented Threat | SafeAeon Inc. | [Read More](https://medium.com/p/a8fac84bd769) |
-| Wed, 10 Sep 2025 17:17:33 GMT | “Nginx — SSRF Misconfiguration”Challenge | oussama | [Read More](https://medium.com/p/0e55a2650b6d) |
-| Wed, 10 Sep 2025 17:17:14 GMT | Drowning in Alerts? How to Reduce False Positives in Security Detections (With Real Examples) ⚡ | Paritosh | [Read More](https://medium.com/p/dde394ca9eff) |
-| Wed, 10 Sep 2025 17:00:31 GMT | Essential Tips to Defend Against Man-in-the-Middle Attacks | Kambetastephano | [Read More](https://medium.com/p/52bc8177ab92) |
-| Wed, 10 Sep 2025 16:55:04 GMT | How Hackers Steal Your Data & How You Can Stop Them | Kambetastephano | [Read More](https://medium.com/p/0dc5fc168122) |
-| Wed, 10 Sep 2025 16:52:53 GMT | They Said XSS Was Dead… Then I Got Paid  (My First Bounty in 2025) | file.bug | [Read More](https://medium.com/p/6eb8d27c6c1a) |
-| Wed, 10 Sep 2025 16:52:10 GMT | Defensive Security Intro — Tryhackme Walkthrough | Nihir Zala | [Read More](https://medium.com/p/194e079873a6) |
-| Wed, 10 Sep 2025 16:50:29 GMT | How Hackers Hide: Using Tor on Linux Explained | kaanvardar | [Read More](https://medium.com/p/a0963f37773c) |
-| Wed, 10 Sep 2025 16:49:14 GMT | Cybersecurity 101: Blocking Hackers from Intercepting Your Data | Kambetastephano | [Read More](https://medium.com/p/499860f62e3b) |
-| Wed, 10 Sep 2025 16:48:07 GMT | A beginner's insight into hacking, VM, Linux and Networking. | ashna | [Read More](https://medium.com/p/47bdd6f653ba) |
