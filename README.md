@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 11:09:32 GMT | ️ TryHackMe SOC Role in Blue Team — Walkthrough & Lessons Learned | Furkanctiner | [Read More](https://medium.com/p/2ece9f4c5ae4) |
+| Thu, 11 Sep 2025 11:07:22 GMT | How I Landed My First Bug Bounty From a Basic XSS (Yes, Really) | Dhruvdeep Singh | [Read More](https://medium.com/p/b48fce3379d6) |
+| Thu, 11 Sep 2025 11:02:45 GMT | How I Hacked a Server Protected by a Goat: A Kioptrix Level 3 Walkthrough | MazenTurky | [Read More](https://medium.com/p/9de58c0936ce) |
+| Thu, 11 Sep 2025 11:02:40 GMT | Kioptrix Level 3 Writeup (SQLMap Edition) | Mahmoudelshorpagy | [Read More](https://medium.com/p/2a2de8a23f32) |
+| Thu, 11 Sep 2025 11:01:58 GMT | When Strength Becomes a Wall | Her Out-of-Office Feelings | [Read More](https://medium.com/p/c676a638fb29) |
+| Thu, 11 Sep 2025 11:01:41 GMT | Security Fundamentals for Beginners | Saurabh Jain | [Read More](https://medium.com/p/8a673e6bfe8b) |
+| Thu, 11 Sep 2025 10:55:42 GMT | Analysis With Wireshark | Zoltan Karpati | [Read More](https://medium.com/p/9b1ed2ec3b10) |
+| Thu, 11 Sep 2025 10:49:21 GMT | Penetration Testing, Beginners To Expert! | Krishna Kumar | [Read More](https://medium.com/p/8378f9169160) |
+| Thu, 11 Sep 2025 10:48:14 GMT | Website Security Secrets Every Business Should Know | Ozrit | [Read More](https://medium.com/p/e70e61f60719) |
+| Thu, 11 Sep 2025 10:39:57 GMT | Hunting Shadows: Geopolitics and the Rise of Nation-State Cyber Threats | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/44bc0f36c79c) |
 | Thu, 11 Sep 2025 10:39:20 GMT | 81 flaws fixed. 8 critical. | TheReviewHive | [Read More](https://medium.com/p/40e6b845b898) |
 | Thu, 11 Sep 2025 10:38:44 GMT | The OSINT Tools Everyone Should Know: A Personal Safety Guide for the Digital Age | Rishisec | [Read More](https://medium.com/p/7b7e7667060e) |
 | Thu, 11 Sep 2025 10:37:32 GMT | Fake Browser Extensions Hijack Meta Business Accounts Through Madgicx Plus and Social Metrics | Jasmitharouthu | [Read More](https://medium.com/p/2833aeb66521) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 06:11:17 GMT | Zero Trust Architecture: Secure, Proactive Cyber Defense | Anjali Moitra Roy | [Read More](https://medium.com/p/c61ff0351e1e) |
 | Thu, 11 Sep 2025 06:08:14 GMT | Active Directory: Security Gaps and the Silent Risks You Can’t Ignore | Linda A. Ivri | [Read More](https://medium.com/p/a8fc666794de) |
 | Thu, 11 Sep 2025 06:01:43 GMT | Cyber Attacks as Silent Wars: The New Battlefield Is Digital | Universal Peace Federation - Africa | [Read More](https://medium.com/p/9f5ec5c2b3b4) |
-| Thu, 11 Sep 2025 06:00:44 GMT | A Supersized Lapse In Security: How A Misconfig Cooked the Golden Arches | Linda A. Ivri | [Read More](https://medium.com/p/8cebf68c7a89) |
-| Thu, 11 Sep 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — Sep 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/76bb0aec7c96) |
-| Thu, 11 Sep 2025 05:58:39 GMT | Why Startups Are Prime Targets for Cyberattacks (and How to Defend Yourself) | Jay C Roberts | [Read More](https://medium.com/p/3c3a5731c124) |
-| Thu, 11 Sep 2025 05:57:56 GMT | SSI IT Cyber Security Expert Munich | SSI IT Solutions | [Read More](https://medium.com/p/51bb5a4ec2ec) |
-| Thu, 11 Sep 2025 05:50:21 GMT | 7 AI Terms You Need to Know in 2025 | Dumindu Jayasekara | [Read More](https://medium.com/p/1bb0d4918a31) |
-| Thu, 11 Sep 2025 05:48:53 GMT | Cyber Nation Rising: Why U.S. Agencies Must Train the Next Wave of Defenders | Cyber Cav | [Read More](https://medium.com/p/d53f89b20e8d) |
-| Thu, 11 Sep 2025 05:42:53 GMT | Understanding Client-Based Systems and Mobile Code: A Guide to Applets, JavaScript, and Security… | Raviteja Mureboina | [Read More](https://medium.com/p/13202f963877) |
-| Thu, 11 Sep 2025 05:41:48 GMT | ️ My Cybersecurity Roadmap: From Curious Beginner to Ethical Hacker | SmartDaily | [Read More](https://medium.com/p/7a58d37a51ef) |
-| Thu, 11 Sep 2025 05:40:15 GMT | Advanced Free Resources for Bug Bounty Hunters | Rashadul Islam | [Read More](https://medium.com/p/b830c4a99e2f) |
-| Thu, 11 Sep 2025 05:33:42 GMT | What Types of Bugs Show Up in Fall? | Rayan Eashan | [Read More](https://medium.com/p/ff4e9f79ab98) |
