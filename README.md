@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 17:27:29 GMT | Exposed: 38 terabytes of private data from Azure! | IsaacFabianK | [Read More](https://medium.com/p/e968a454995c) |
+| Thu, 11 Sep 2025 17:27:24 GMT | BLE Penetration Testing-1 | Theo | [Read More](https://medium.com/p/1e4c57f47fcc) |
+| Thu, 11 Sep 2025 17:23:37 GMT | Shadow AI: The Unauthorized Security Risk Hiding in Plain Sight | Eric Zietlow | [Read More](https://medium.com/p/ff1767b98085) |
+| Thu, 11 Sep 2025 17:21:03 GMT | Cracking Open IDOR: My First Hands-On with Broken Access Control | Esom Eze | [Read More](https://medium.com/p/d3d253f6bf63) |
+| Thu, 11 Sep 2025 17:18:47 GMT | Deploying Active Passive High Availability for Palo Alto VM-Series Firewalls in AWS | Adhiraj Jarwal | [Read More](https://medium.com/p/671358783deb) |
+| Thu, 11 Sep 2025 17:08:52 GMT | Right Time to Hire a CISO? | Matthew.Rosenquist | [Read More](https://medium.com/p/b84ba851a94c) |
 | Thu, 11 Sep 2025 17:07:18 GMT | The Future of Learning: How Cybersecurity Education Will Become a Core Subject | Xaltius | [Read More](https://medium.com/p/4e1b1217ee3a) |
 | Thu, 11 Sep 2025 17:02:24 GMT | The Ultimate IT Security Checklist for Enterprise Networks
 Subheading:
@@ -108,9 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 12:22:26 GMT | How to protect your computer from viruses and hackers? | Anisha Carvalho | [Read More](https://medium.com/p/6f08e12442c7) |
 | Thu, 11 Sep 2025 12:22:22 GMT | A Jobsworth’s Doing | Imani Hekima | [Read More](https://medium.com/p/166433c665c6) |
 | Thu, 11 Sep 2025 12:20:45 GMT | What is OWASP, and the OWASP Top 10 | Samita | [Read More](https://medium.com/p/d9fe25471385) |
-| Thu, 11 Sep 2025 12:16:43 GMT | Inside the Hacker’s Playbook (Part 2): The Advanced Stuff Nobody Talks About | Mohamed.cybersec | [Read More](https://medium.com/p/3b262941accc) |
-| Thu, 11 Sep 2025 12:15:43 GMT | Compromising Healthcare Security: A Threat Modeling Case Study on HCS | Shaistha Khanum | [Read More](https://medium.com/p/25fa684a1882) |
-| Thu, 11 Sep 2025 12:12:32 GMT | The first AI ransomware is here, but the real threat is AI-written pretexts | Saravanan.R | [Read More](https://medium.com/p/80ce5d306655) |
-| Thu, 11 Sep 2025 12:10:33 GMT | AppSec in 2025: Rising Challenges, Smart Campaigns, and AI-Driven Opportunities | MrGood | [Read More](https://medium.com/p/c9038bc46b23) |
-| Thu, 11 Sep 2025 12:08:33 GMT | CVE-2025–59046: Critical Command Injection Vulnerability Found in Popular Git CLI Tool | gm0 | [Read More](https://medium.com/p/746faefaf5f7) |
-| Thu, 11 Sep 2025 12:01:44 GMT | How to Secure Your Startup Against AI-Driven Cyber Threats in 2025 (How-To Guide) | Umesh Anjula | [Read More](https://medium.com/p/85f825e41186) |
