@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 19:29:06 GMT | iPhone 17: Ultra-thin, but never have to turn your phone again | Bastian | [Read More](https://medium.com/p/ef4719f62576) |
+| Thu, 11 Sep 2025 19:28:19 GMT | Google Dorking Tricks: Uncovering Hidden Risks on the Web | SafeAeon Inc. | [Read More](https://medium.com/p/71d8f140ba29) |
+| Thu, 11 Sep 2025 19:18:04 GMT | SQL Injection: The Silent Threat Undermining Web Security | SafeAeon Inc. | [Read More](https://medium.com/p/d2e7ce06e13a) |
+| Thu, 11 Sep 2025 19:15:56 GMT | Reducing the manual process of looking for XSS with dursgo/dalfox/nuclei. | KreSec | [Read More](https://medium.com/p/f3b3e6b19234) |
 | Thu, 11 Sep 2025 19:11:41 GMT | Why Is Quantum Computing Becoming a Game-Changer for Cybersecurity Strategies? | Dhananjay D | [Read More](https://medium.com/p/b10e93d1ad93) |
 | Thu, 11 Sep 2025 19:08:52 GMT | From Click to Compromise: Inside the Axios Phishing Campaign | Ashley Dai | [Read More](https://medium.com/p/962c0db85434) |
 | Thu, 11 Sep 2025 19:04:59 GMT | Protecting Data Submitted to AI Models | Teri Radichel | [Read More](https://medium.com/p/ae9e9b268b6a) |
@@ -110,7 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 14:11:55 GMT | ~~Human Error~~ AI Error : When Automation Goes Too Far - AI’s Unseen Errors | Manojna C | [Read More](https://medium.com/p/410283879993) |
 | Thu, 11 Sep 2025 14:11:00 GMT | TryHackMe #3 - Careers in Cyber | 0xGroot | [Read More](https://medium.com/p/c2806622570f) |
 | Thu, 11 Sep 2025 14:10:58 GMT | The vulnerable and the fragile: The Fey People | Janice Taylor | [Read More](https://medium.com/p/83821f10db2c) |
-| Thu, 11 Sep 2025 14:06:01 GMT | TryHackMe #2 - Defensive Security Intro | 0xGroot | [Read More](https://medium.com/p/961ec4faa734) |
-| Thu, 11 Sep 2025 14:01:47 GMT | Cyber Briefing: 2025.09.11 | CyberMaterial | [Read More](https://medium.com/p/0cb5793f2b57) |
-| Thu, 11 Sep 2025 14:01:47 GMT | What Is Abatis? A 20-Year Journey to Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/f0d82a0f1c9d) |
-| Thu, 11 Sep 2025 14:01:44 GMT | TryHackMe #1 - Offensive Security Intro | 0xGroot | [Read More](https://medium.com/p/a3ad60daef2f) |
