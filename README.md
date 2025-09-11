@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 09:13:01 GMT | Mastering Misconfigured NFS, SMB, and FTP Shares: Step-by-Step Pentesting Guide for IT… | Very Lazy Tech | [Read More](https://medium.com/p/99e2cf769748) |
+| Thu, 11 Sep 2025 09:12:38 GMT | The Role of Cybersecurity in Protecting Digital Payments | Muhammedafnan | [Read More](https://medium.com/p/41e8365837be) |
+| Thu, 11 Sep 2025 09:08:42 GMT | Agentic AI — The Beginning of a Larger Story | CloudifyOps | [Read More](https://medium.com/p/fdc3506bbad4) |
+| Thu, 11 Sep 2025 09:07:02 GMT | Help Desk Blues? Escape the Inevitable. | Authlyn | [Read More](https://medium.com/p/1984e55cb848) |
+| Thu, 11 Sep 2025 09:02:31 GMT | Ping Pong — A Kioptrix Level 2 Post-Mortem | MazenTurky | [Read More](https://medium.com/p/7146af69448f) |
+| Thu, 11 Sep 2025 09:02:15 GMT | Diary of a Career Changer: Deciding on the New Career Path | Cyber I AM | [Read More](https://medium.com/p/35a73263701f) |
+| Thu, 11 Sep 2025 08:58:21 GMT | LLM-D for Proactive Cybersecurity: Scaling Intelligence on Kubernetes | Srinivas Chandupatla | [Read More](https://medium.com/p/9cfcca3549d5) |
+| Thu, 11 Sep 2025 08:57:08 GMT | Security That Thinks for Itself | Presslink Media | [Read More](https://medium.com/p/00a72715fc22) |
+| Thu, 11 Sep 2025 08:55:27 GMT | Log Ingestion, Time Synchronization, and Logging Levels: Core Principles of Security Operations | Alicybersec | [Read More](https://medium.com/p/3475b1162bb8) |
+| Thu, 11 Sep 2025 08:44:33 GMT | Burp Suite: The Basics - THM | Isiah | [Read More](https://medium.com/p/27e2627e0205) |
+| Thu, 11 Sep 2025 08:42:25 GMT | TCM Security-PSAA(Practical SOC Analyst Associate):SOC實作分析師認證 | segalee | [Read More](https://medium.com/p/8c4dd32319d8) |
 | Thu, 11 Sep 2025 08:39:26 GMT | Digisol DG-GR1321: Plaintext Password Storage Vulnerability (CVE-2024–4232) | Redfox Security | [Read More](https://medium.com/p/7a870f8243b8) |
 | Thu, 11 Sep 2025 08:26:12 GMT | Why Third-Party Risk Management Can No Longer Be Ignored | Prerna Shukla | [Read More](https://medium.com/p/0f75cd304d09) |
 | Thu, 11 Sep 2025 08:23:23 GMT | npm Hacked, Millions Affected | S.Ali | [Read More](https://medium.com/p/b422114fd8e9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 03:31:42 GMT | Cyber & AI Nexus: JLR Hacked, Apple & Google Unite, and the Future of Medicine | Akshat Ratanpal | [Read More](https://medium.com/p/7be68879d828) |
 | Thu, 11 Sep 2025 03:31:42 GMT | 10 Common Mistakes in Node.js Deserialization Security | Arunangshu Das | [Read More](https://medium.com/p/3399fb38fab0) |
 | Thu, 11 Sep 2025 03:17:48 GMT | How to Install Burp Suite in Kali Linux (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/00b19b25f803) |
-| Thu, 11 Sep 2025 03:15:07 GMT | Critical SQL Injection Vulnerability in Weaver e-cology OA: What You Need to Know | Quella | [Read More](https://medium.com/p/8a48e1dfea4e) |
-| Thu, 11 Sep 2025 03:14:42 GMT | Race Condition in OTP Generation: How I Took Over Accounts by Timing Two Logins | Mr.Javed | [Read More](https://medium.com/p/ddaeeac9c36d) |
-| Thu, 11 Sep 2025 03:01:46 GMT | Russia Could Hit Europe by 2030 with $1.2 Trillion Arsenal | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7688719311ba) |
-| Thu, 11 Sep 2025 02:40:38 GMT | Information Hazards: When Knowledge Becomes a Threat | Riza bloomer | [Read More](https://medium.com/p/d8af402fa917) |
-| Thu, 11 Sep 2025 02:39:01 GMT | Mapping Threat Infrastructures Identified Through Criminal IP’s Top 10 Search Keywords | Criminal IP | [Read More](https://medium.com/p/7cde698999d1) |
-| Thu, 11 Sep 2025 02:38:14 GMT | How I Passed the PNPT: A Personal Journey into Real-World Penetration Testing | Timothy Grant | [Read More](https://medium.com/p/8e86e1ab2c4c) |
-| Thu, 11 Sep 2025 02:35:40 GMT | My iPhone Was Sold To An Eco-ATM | Iza Moon | [Read More](https://medium.com/p/4e80d7391484) |
-| Thu, 11 Sep 2025 02:30:15 GMT | Race Condition in Team Invitations Vulnerability | Lakshya | [Read More](https://medium.com/p/cc088303d5f8) |
-| Thu, 11 Sep 2025 02:29:06 GMT | I Opened the Windows Registry — And It Told Me Who Did It | Paritosh | [Read More](https://medium.com/p/796c232da43f) |
-| Thu, 11 Sep 2025 02:28:32 GMT | Strix: Open-Source AI Hackers for Your Apps | CodeBun | [Read More](https://medium.com/p/26cfb9a8c036) |
-| Thu, 11 Sep 2025 02:05:01 GMT | Playing Around with Wireshark: My Basic Practice | Zulfianarahmi | [Read More](https://medium.com/p/6e905eacd5d3) |
