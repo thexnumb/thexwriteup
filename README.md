@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 18:32:20 GMT | One Shot, 200 Yards: The Assassination of Charlie Kirk and America’s New Age of Political Violence | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/3345b88e944c) |
+| Thu, 11 Sep 2025 18:31:11 GMT | HACKERS TRIED TO STEAL CRYPTO THROUGH NPM. HERE’S WHY FLAMINGO FINANCE WAS UNTOUCHED. | Duke Okutama | [Read More](https://medium.com/p/b5b46b26d369) |
+| Thu, 11 Sep 2025 18:28:29 GMT | Kioptrix: Level 1 (#1) | d4vnull | [Read More](https://medium.com/p/e0daacbd2488) |
+| Thu, 11 Sep 2025 18:27:12 GMT | Beyond the Firewall: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/343ae140f43e) |
+| Thu, 11 Sep 2025 18:26:10 GMT | Part 3: The MCP Supply Chain Nightmare | Dr. Cesar Guzman | [Read More](https://medium.com/p/720c19e2124f) |
+| Thu, 11 Sep 2025 18:25:45 GMT | Cyberhygiene Tips Everyone Should Follow: Digital Safety Routine | Bhushan | [Read More](https://medium.com/p/54ae30bb3326) |
+| Thu, 11 Sep 2025 18:25:18 GMT | Breaking Into Tech Without a Security+ | Cyber Cav | [Read More](https://medium.com/p/cc64c14d9f35) |
+| Thu, 11 Sep 2025 18:24:53 GMT | Autonomous Cybersecurity: AI’s Role in Protecting Enterprises | planck_deeptech | [Read More](https://medium.com/p/dfa3b61e93b6) |
+| Thu, 11 Sep 2025 18:23:18 GMT | Why Every Developer Should Understand PKI (And How It Actually Works) | Mohammadreza Ashouri | [Read More](https://medium.com/p/a33dbe551aa8) |
+| Thu, 11 Sep 2025 18:22:27 GMT | Candidates’ Experience Management: Shaping the Future of Hiring | Bhushan | [Read More](https://medium.com/p/c3d0c8eef356) |
+| Thu, 11 Sep 2025 18:21:36 GMT | Kioptrix: Level 1.1 (#2) | d4vnull | [Read More](https://medium.com/p/716cd76c3572) |
 | Thu, 11 Sep 2025 18:18:20 GMT | PG Play — FunboxEasyEnum (Linux) | Lepton | [Read More](https://medium.com/p/2c6120bcf512) |
 | Thu, 11 Sep 2025 18:18:08 GMT | Safe by Default: Building a Minimal, Rootless Sandbox on Linux | Trevor Woollacott | [Read More](https://medium.com/p/4fcc02d9bed0) |
 | Thu, 11 Sep 2025 18:16:52 GMT | The Cyber Security Details Handbook | Cyber Security Research | [Read More](https://medium.com/p/3858ed529cb5) |
@@ -103,14 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 13:19:08 GMT | How Flash Loans Enabled Scammers Steal $13.3M From BetterBank & Bunni v2 | Scofield O. Idehen | [Read More](https://medium.com/p/c02ba0eb53ff) |
 | Thu, 11 Sep 2025 13:17:03 GMT | Find 10x More Bugs With These 3 Free Extensions | Ibtissam hammadi | [Read More](https://medium.com/p/d052fdc18ded) |
 | Thu, 11 Sep 2025 13:16:46 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/2aab7f42fa73) |
-| Thu, 11 Sep 2025 13:11:08 GMT | PG Practice — SpiderSociety (Linux) | Lepton | [Read More](https://medium.com/p/957ae1de0184) |
-| Thu, 11 Sep 2025 13:09:35 GMT | Secure Payment Integrations: Best Practices for SaaS Startups | KodekX | [Read More](https://medium.com/p/2255ed59b5e1) |
-| Thu, 11 Sep 2025 13:07:01 GMT | Footprinting Lab (Hard) — Full Write-up | Mohamed hossam | [Read More](https://medium.com/p/b0340b5ff6a0) |
-| Thu, 11 Sep 2025 13:06:06 GMT | Vibe Coding: Part 2 — The Debugging Disco | Muhammad Talha Khan | [Read More](https://medium.com/p/7f3891f31099) |
-| Thu, 11 Sep 2025 13:05:17 GMT | iPhone 17 Is the Most Secure Smartphone You Can Buy Today | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/9fed85e5f8ef) |
-| Thu, 11 Sep 2025 13:04:09 GMT | My First Hands-On Penetration Test: A Beginner’s Story With Metasploit & Meterpreter | Waeeh | [Read More](https://medium.com/p/08c5d194cabb) |
-| Thu, 11 Sep 2025 13:02:22 GMT | QANplatform and SignQuantum provide Quantum-Resistant security for Ueno Bank’s 2.2M Customers | QANplatform | [Read More](https://medium.com/p/646d0aa3227a) |
-| Thu, 11 Sep 2025 13:01:42 GMT | Why Sharing Your Creative Work Is Scarier Than Creating It | Threads & Tangents | [Read More](https://medium.com/p/f3599aad0bbc) |
-| Thu, 11 Sep 2025 13:01:42 GMT | Notes on Red Teaming AI | Danish | [Read More](https://medium.com/p/2126be1cb445) |
-| Thu, 11 Sep 2025 12:58:14 GMT | Instagram Hacking Guide: How to Hack an Account from Instagram? | Sandra Thomson | [Read More](https://medium.com/p/a7b00105bfe7) |
-| Thu, 11 Sep 2025 12:58:12 GMT | Cut AI Hallucinations in 30 Minutes: Ask, Ground, Decide. | Tochukwu Okonkwor | [Read More](https://medium.com/p/4be1f1dc62bb) |
