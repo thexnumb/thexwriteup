@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 20:16:13 GMT | What’s CIAAN, CIA Triad Brother? | Kurnia Cantra | [Read More](https://medium.com/p/0953226684c2) |
+| Thu, 11 Sep 2025 20:12:50 GMT | The Linux Security Journey — Guard Pages | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/47b04586a68e) |
+| Thu, 11 Sep 2025 20:11:07 GMT | Apple’s New Memory Integrity Enforcement: A Game Changer for iPhone Security (but not invincible) | Macoy Gehrke | [Read More](https://medium.com/p/2ac2846b1031) |
+| Thu, 11 Sep 2025 20:06:30 GMT | Maximizing Web App Security with NextAuth.js and Advanced Techniques | @rnab | [Read More](https://medium.com/p/5003e4d7b7a5) |
+| Thu, 11 Sep 2025 20:03:16 GMT | Phishlets.site: Taking the Hassle Out of Evilginx Phishlet Creation | Donschulz | [Read More](https://medium.com/p/5896d819923f) |
+| Thu, 11 Sep 2025 20:00:04 GMT | Several teachers and professors have been fired across the US after posts celebrating the tragedy… | Dr. Seabelo Chabo John, Ed.D. | [Read More](https://medium.com/p/6f84eca23e9f) |
+| Thu, 11 Sep 2025 19:58:46 GMT | npm Supply Chain Attack — IoCs, Detection & Remediation | Aditya Bhatt | [Read More](https://medium.com/p/815eefdb0ee2) |
+| Thu, 11 Sep 2025 19:55:26 GMT | Web Zafiyetleri Serisi #1 | Didem Kış | [Read More](https://medium.com/p/d2c955c544d9) |
+| Thu, 11 Sep 2025 19:49:08 GMT | Run Kali safely on your computer with this easy VirtualBox setup | Akshay | [Read More](https://medium.com/p/6a05edadbe92) |
+| Thu, 11 Sep 2025 19:47:29 GMT | Why Emotional Regulation Is the Secret Ingredient to a Healthy Relationship | Joanna Ashley - | [Read More](https://medium.com/p/72194722a271) |
+| Thu, 11 Sep 2025 19:41:57 GMT | How I Bypassed a 403 Forbidden WAF Protection (and What I Learned) | samael0x4 | [Read More](https://medium.com/p/b2bb859eddaf) |
+| Thu, 11 Sep 2025 19:41:41 GMT | Smol TryHackMe Walkthrough — WordPress Plugin Exploit & Privilege Escalation Guide | Death Esther | [Read More](https://medium.com/p/c62d758eb898) |
+| Thu, 11 Sep 2025 19:34:18 GMT | How Hackers Hijacked a Local Café to Mine Crypto — And Nobody Noticed for Weeks | Noel | [Read More](https://medium.com/p/4ed15456d910) |
+| Thu, 11 Sep 2025 19:34:09 GMT | Collection of the Best Contact Information Search Tools For OSINT | loyalonlytoday | [Read More](https://medium.com/p/e008c94f0716) |
+| Thu, 11 Sep 2025 19:34:00 GMT | The Dark Side of Bug Bounties: Burnout & Ethical Dilemmas | Aj | [Read More](https://medium.com/p/55e7d99ee9d3) |
+| Thu, 11 Sep 2025 19:32:51 GMT | When Love Feels Like a Bad Login | Teleisha Deslandes | [Read More](https://medium.com/p/4ddf39f73473) |
+| Thu, 11 Sep 2025 19:29:43 GMT | ML Security: How to Stop Hackers from Teaching Your AI Bad Habits (And Other Nightmares) | Prusov Sergei | [Read More](https://medium.com/p/d7b384607ab9) |
 | Thu, 11 Sep 2025 19:29:06 GMT | iPhone 17: Ultra-thin, but never have to turn your phone again | Bastian | [Read More](https://medium.com/p/ef4719f62576) |
 | Thu, 11 Sep 2025 19:28:19 GMT | Google Dorking Tricks: Uncovering Hidden Risks on the Web | SafeAeon Inc. | [Read More](https://medium.com/p/71d8f140ba29) |
 | Thu, 11 Sep 2025 19:18:04 GMT | SQL Injection: The Silent Threat Undermining Web Security | SafeAeon Inc. | [Read More](https://medium.com/p/d2e7ce06e13a) |
@@ -97,20 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 15:17:40 GMT | Why Your Smart Home Is Spying On You (And How to Stop It) | The Bot Group | [Read More](https://medium.com/p/f536ce3e556d) |
 | Thu, 11 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 11, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ee0cb7546ae7) |
 | Thu, 11 Sep 2025 15:05:51 GMT | 63% Orgs Say Quantum Computing Will Shift Cyber Risks, Yet Only 5% Actively Plan | Ahazzadnan | [Read More](https://medium.com/p/513a8ddd82f7) |
-| Thu, 11 Sep 2025 15:03:31 GMT | The First Steps to Configuring Your Dedicated Server | Milaharris | [Read More](https://medium.com/p/b65a3dada11c) |
-| Thu, 11 Sep 2025 14:57:42 GMT | SOC2, ISO27001 and how to meet security | Juan Matías de la Cámara Beovide | [Read More](https://medium.com/p/05e3b1c28a8b) |
-| Thu, 11 Sep 2025 14:54:30 GMT | Building the Guardrails: A Cybersecurity Pioneer’s Pivot to the AI Frontier | Vibhanshu Jain | [Read More](https://medium.com/p/cef1e68f7328) |
-| Thu, 11 Sep 2025 14:50:27 GMT | Complete Guide to Burglar Alarm System Manhattan - SafeZone Professional Security Installer | Exploring Cleaning, Security and Crypto | [Read More](https://medium.com/p/336381f79290) |
-| Thu, 11 Sep 2025 14:47:41 GMT | Space IoT: Under Siege. | Wes Young | [Read More](https://medium.com/p/c69345790b0d) |
-| Thu, 11 Sep 2025 14:46:30 GMT | NVIDIA NVDebug Tool Vulnerability Exposes Systems to Privilege Escalation | Chetan Seripally | [Read More](https://medium.com/p/735cb420cfa1) |
-| Thu, 11 Sep 2025 14:38:22 GMT | “Beyond the Obvious: How a Dead-End XXE Led to a Critical SQLi Goldmine” | Aman Sharma | [Read More](https://medium.com/p/d368f5ddaadc) |
-| Thu, 11 Sep 2025 14:31:23 GMT | Capgemini - Wipro - Mphasis Automation Testing Interview – 8 Years Experience (Shared by a… | Coding Ninja | [Read More](https://medium.com/p/b08ae2b7e435) |
-| Thu, 11 Sep 2025 14:29:49 GMT | Industry 4.0 and Cybersecurity: The Hidden Battle Behind the Smart Factory Revolution | Pavlović Goran | [Read More](https://medium.com/p/bb33dc4acb78) |
-| Thu, 11 Sep 2025 14:25:17 GMT | HTB pro lab Offshore review | real redinna | [Read More](https://medium.com/p/fa0381be9e3a) |
-| Thu, 11 Sep 2025 14:24:27 GMT | Operations Security (OPSEC): From Civilian Privacy to Red Team Operations | Lord Murak | [Read More](https://medium.com/p/0e946690cbe1) |
-| Thu, 11 Sep 2025 14:22:34 GMT | Adaptixc2 Seen In Real Attacks | Yaniv | [Read More](https://medium.com/p/4f25260cee80) |
-| Thu, 11 Sep 2025 14:20:17 GMT | Model Inversion Attack (MIA) | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/2a446ae220b7) |
-| Thu, 11 Sep 2025 14:15:58 GMT | Cybersecurity Roles: C-Level Executives(C-Suite) | Habyaad | [Read More](https://medium.com/p/a0a1f42e3ce4) |
-| Thu, 11 Sep 2025 14:11:55 GMT | ~~Human Error~~ AI Error : When Automation Goes Too Far - AI’s Unseen Errors | Manojna C | [Read More](https://medium.com/p/410283879993) |
-| Thu, 11 Sep 2025 14:11:00 GMT | TryHackMe #3 - Careers in Cyber | 0xGroot | [Read More](https://medium.com/p/c2806622570f) |
-| Thu, 11 Sep 2025 14:10:58 GMT | The vulnerable and the fragile: The Fey People | Janice Taylor | [Read More](https://medium.com/p/83821f10db2c) |
