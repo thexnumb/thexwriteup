@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 06:27:17 GMT | TO BECOME A SOC EXPERT | vulnhunter | [Read More](https://medium.com/p/23df20bd7cfe) |
+| Thu, 11 Sep 2025 06:21:18 GMT | XXE Injection in React Apps: Risks & Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/7f027b676d94) |
+| Thu, 11 Sep 2025 06:18:54 GMT | Apple’s Anti-Spyware Breakthrough: iOS Strikes Back at Pegasus | Nanthakumar | [Read More](https://medium.com/p/252df911d666) |
+| Thu, 11 Sep 2025 06:17:50 GMT | PicoCTF Web Exploitation Walkthrough -Scavenger Hunt | Deepika  B | [Read More](https://medium.com/p/31e8005202e4) |
+| Thu, 11 Sep 2025 06:11:17 GMT | Zero Trust Architecture: Secure, Proactive Cyber Defense | Anjali Moitra Roy | [Read More](https://medium.com/p/c61ff0351e1e) |
+| Thu, 11 Sep 2025 06:08:14 GMT | Active Directory: Security Gaps and the Silent Risks You Can’t Ignore | Linda A. Ivri | [Read More](https://medium.com/p/a8fc666794de) |
+| Thu, 11 Sep 2025 06:01:43 GMT | Cyber Attacks as Silent Wars: The New Battlefield Is Digital | Universal Peace Federation - Africa | [Read More](https://medium.com/p/9f5ec5c2b3b4) |
+| Thu, 11 Sep 2025 06:00:44 GMT | A Supersized Lapse In Security: How A Misconfig Cooked the Golden Arches | Linda A. Ivri | [Read More](https://medium.com/p/8cebf68c7a89) |
+| Thu, 11 Sep 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — Sep 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/76bb0aec7c96) |
+| Thu, 11 Sep 2025 05:58:39 GMT | Why Startups Are Prime Targets for Cyberattacks (and How to Defend Yourself) | Jay C Roberts | [Read More](https://medium.com/p/3c3a5731c124) |
+| Thu, 11 Sep 2025 05:57:56 GMT | SSI IT Cyber Security Expert Munich | SSI IT Solutions | [Read More](https://medium.com/p/51bb5a4ec2ec) |
+| Thu, 11 Sep 2025 05:50:21 GMT | 7 AI Terms You Need to Know in 2025 | Dumindu Jayasekara | [Read More](https://medium.com/p/1bb0d4918a31) |
+| Thu, 11 Sep 2025 05:48:53 GMT | Cyber Nation Rising: Why U.S. Agencies Must Train the Next Wave of Defenders | Cyber Cav | [Read More](https://medium.com/p/d53f89b20e8d) |
+| Thu, 11 Sep 2025 05:42:53 GMT | Understanding Client-Based Systems and Mobile Code: A Guide to Applets, JavaScript, and Security… | Raviteja Mureboina | [Read More](https://medium.com/p/13202f963877) |
+| Thu, 11 Sep 2025 05:41:48 GMT | ️ My Cybersecurity Roadmap: From Curious Beginner to Ethical Hacker | SmartDaily | [Read More](https://medium.com/p/7a58d37a51ef) |
+| Thu, 11 Sep 2025 05:40:15 GMT | Advanced Free Resources for Bug Bounty Hunters | Rashadul Islam | [Read More](https://medium.com/p/b830c4a99e2f) |
 | Thu, 11 Sep 2025 05:33:42 GMT | What Types of Bugs Show Up in Fall? | Rayan Eashan | [Read More](https://medium.com/p/ff4e9f79ab98) |
 | Thu, 11 Sep 2025 05:31:44 GMT | The OAuth Security Flaw That Every Developer Ignores (Until They Get Hacked) | Sohail Saifi | [Read More](https://medium.com/p/cbb0dc7aac98) |
 | Thu, 11 Sep 2025 05:30:24 GMT | Why “Failing” a Pen Test is Actually Your Best Outcome | Aj | [Read More](https://medium.com/p/5ed52a4bd3b0) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 21:24:26 GMT | Building Clothee: A Secure E-Commerce Web Application | Sanduni Ayeshika | [Read More](https://medium.com/p/8836e64d4ebf) |
 | Wed, 10 Sep 2025 21:16:05 GMT | The Evolution and Normalization of Hacktivism in Hybrid Conflict | Deniz Topaloglu | [Read More](https://medium.com/p/ae05f03db0c4) |
 | Wed, 10 Sep 2025 21:14:45 GMT | Kittens and Code: Google Dorks for Ethical Hackers | BotsiCat | [Read More](https://medium.com/p/732dcb742d57) |
-| Wed, 10 Sep 2025 21:14:39 GMT | Cross-Site Scripting (XSS) remains one of the most common and dangerous web application… | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/9b325b9b2c39) |
-| Wed, 10 Sep 2025 21:11:38 GMT | Supercharging Pentests with Invoke-SMBScan | Mayank Sahu | [Read More](https://medium.com/p/4dc7777a5f99) |
-| Wed, 10 Sep 2025 21:01:57 GMT | Why You Need a Dedicated Password Manager | Decentr | [Read More](https://medium.com/p/82cc79a781ce) |
-| Wed, 10 Sep 2025 20:54:18 GMT | Next.js Middleware SSRF via Header Injection | Cybersecplayground | [Read More](https://medium.com/p/6cf03b58a90d) |
-| Wed, 10 Sep 2025 20:46:31 GMT | Something for the trouble for getting to this point | Sobolora doe | [Read More](https://medium.com/p/17f59c771b43) |
-| Wed, 10 Sep 2025 20:46:02 GMT | Scaling Cyber Talent with Ethical Hacking Programs | J. David Smith | [Read More](https://medium.com/p/35fa1923fccd) |
-| Wed, 10 Sep 2025 20:44:04 GMT | Introduction to Yara, Loki and Valhalla for Threat Hunting | Annie Faulkner | [Read More](https://medium.com/p/63038a0873e0) |
-| Wed, 10 Sep 2025 20:42:11 GMT | Security Architecture for a GenAI tool implementation: Applying the NIST AI RMF (Map, Measure… | Elias Nathan Hueck | [Read More](https://medium.com/p/39617e189ffe) |
-| Wed, 10 Sep 2025 20:31:49 GMT | PREVIOUS — HTB | H3XH7WK | [Read More](https://medium.com/p/911f57a8d325) |
-| Wed, 10 Sep 2025 20:31:31 GMT | The Linux Process Journey — man (Manual Pages) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/50f1145a4373) |
-| Wed, 10 Sep 2025 20:26:15 GMT | The $1 Billion AI Training Mirage: Why Reskilling Won’t Protect Your Job | J. David Smith | [Read More](https://medium.com/p/1c020e890974) |
-| Wed, 10 Sep 2025 20:20:12 GMT | SQL for Security Analysts: Filtering Login Events & Employee Data Like a Pro | Myshawne Stallings | [Read More](https://medium.com/p/a23155e45f07) |
-| Wed, 10 Sep 2025 20:19:34 GMT | Différence entre le TOP10 de l’OWASP et ASVS | Patrick Boucher | [Read More](https://medium.com/p/493b43d6ca7c) |
-| Wed, 10 Sep 2025 20:12:28 GMT | TryHackMe — Nmap: The Basics - Cyber Security 101 (THM) | Dang3rXgh0st | [Read More](https://medium.com/p/9764fdb3f64d) |
-| Wed, 10 Sep 2025 20:11:29 GMT | Contra Doctrine Manual 1 (CDM-1) — Field Manual of Origin | Contra Doctrine | [Read More](https://medium.com/p/92ef9685c430) |
-| Wed, 10 Sep 2025 20:08:06 GMT | PG Practice — Internal (Windows) | Lepton | [Read More](https://medium.com/p/6b0359652791) |
