@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 11:21:55 GMT | When Trust Collapses: The Blockchain Security Crisis and the Path to a New Architecture | X1 EcoChain | [Read More](https://medium.com/p/7a731d678dcb) |
+| Thu, 11 Sep 2025 11:14:48 GMT | What is User Entity and Behavior Analytics? | Stellar Cyber | [Read More](https://medium.com/p/784073852195) |
 | Thu, 11 Sep 2025 11:09:32 GMT | ️ TryHackMe SOC Role in Blue Team — Walkthrough & Lessons Learned | Furkanctiner | [Read More](https://medium.com/p/2ece9f4c5ae4) |
 | Thu, 11 Sep 2025 11:07:22 GMT | How I Landed My First Bug Bounty From a Basic XSS (Yes, Really) | Dhruvdeep Singh | [Read More](https://medium.com/p/b48fce3379d6) |
 | Thu, 11 Sep 2025 11:02:45 GMT | How I Hacked a Server Protected by a Goat: A Kioptrix Level 3 Walkthrough | MazenTurky | [Read More](https://medium.com/p/9de58c0936ce) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 06:18:54 GMT | Apple’s Anti-Spyware Breakthrough: iOS Strikes Back at Pegasus | Nanthakumar | [Read More](https://medium.com/p/252df911d666) |
 | Thu, 11 Sep 2025 06:17:50 GMT | PicoCTF Web Exploitation Walkthrough -Scavenger Hunt | Deepika  B | [Read More](https://medium.com/p/31e8005202e4) |
 | Thu, 11 Sep 2025 06:11:17 GMT | Zero Trust Architecture: Secure, Proactive Cyber Defense | Anjali Moitra Roy | [Read More](https://medium.com/p/c61ff0351e1e) |
-| Thu, 11 Sep 2025 06:08:14 GMT | Active Directory: Security Gaps and the Silent Risks You Can’t Ignore | Linda A. Ivri | [Read More](https://medium.com/p/a8fc666794de) |
-| Thu, 11 Sep 2025 06:01:43 GMT | Cyber Attacks as Silent Wars: The New Battlefield Is Digital | Universal Peace Federation - Africa | [Read More](https://medium.com/p/9f5ec5c2b3b4) |
