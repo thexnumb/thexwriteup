@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 17:07:18 GMT | The Future of Learning: How Cybersecurity Education Will Become a Core Subject | Xaltius | [Read More](https://medium.com/p/4e1b1217ee3a) |
+| Thu, 11 Sep 2025 17:02:24 GMT | The Ultimate IT Security Checklist for Enterprise Networks
+Subheading:
+A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/204906bb6c04) |
+| Thu, 11 Sep 2025 16:57:40 GMT | How to Add a Linux User with a Unique UID and Custom Home Directory — kodekloud task | Md Mehedi Hasan Asif | [Read More](https://medium.com/p/8f96c771cd72) |
+| Thu, 11 Sep 2025 16:56:48 GMT | ChatGPT in the Wrong Hands: Social Engineering Attacks Explained | Andrei Ivan | [Read More](https://medium.com/p/0fa8a6424171) |
+| Thu, 11 Sep 2025 16:46:54 GMT | Why AI-Powered Phishing is Every Beginner’s Nightmare (And How to Spot It) | Andrei Ivan | [Read More](https://medium.com/p/94bb3a30e0a3) |
+| Thu, 11 Sep 2025 16:41:18 GMT | “WebNet1" challenge | oussama | [Read More](https://medium.com/p/621e4ee1a24c) |
+| Thu, 11 Sep 2025 16:40:21 GMT | Prontuários expostos: caso MedicSolutions+ | Albertbacelar | [Read More](https://medium.com/p/50d91d66c1d6) |
+| Thu, 11 Sep 2025 16:38:39 GMT | Red Teaming for Beginners: How to Get Started | Vijay Sistla | [Read More](https://medium.com/p/0a80d782739d) |
 | Thu, 11 Sep 2025 16:31:39 GMT | Dockerfile Security for Data Science Teams | Nikulsinh Rajput | [Read More](https://medium.com/p/1f78219f02f4) |
 | Thu, 11 Sep 2025 16:25:16 GMT | Welcome to My Cybersecurity Blog: Trends, Pentesting & Ethical Hacking | Harbeer Singh | [Read More](https://medium.com/p/fd8f59170433) |
 | Thu, 11 Sep 2025 16:24:11 GMT | The Dark Side of Digital Forensic Education in India | Vijay Kumar Gupta | [Read More](https://medium.com/p/6e9ed5aacb4b) |
@@ -104,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 12:10:33 GMT | AppSec in 2025: Rising Challenges, Smart Campaigns, and AI-Driven Opportunities | MrGood | [Read More](https://medium.com/p/c9038bc46b23) |
 | Thu, 11 Sep 2025 12:08:33 GMT | CVE-2025–59046: Critical Command Injection Vulnerability Found in Popular Git CLI Tool | gm0 | [Read More](https://medium.com/p/746faefaf5f7) |
 | Thu, 11 Sep 2025 12:01:44 GMT | How to Secure Your Startup Against AI-Driven Cyber Threats in 2025 (How-To Guide) | Umesh Anjula | [Read More](https://medium.com/p/85f825e41186) |
-| Thu, 11 Sep 2025 11:57:12 GMT | Exploiting IDOR: The Hidden Door to Sensitive Data | EL_Cazad0r | [Read More](https://medium.com/p/c45555fdf22c) |
-| Thu, 11 Sep 2025 11:51:17 GMT | How Pattern Recognition Led to a Critical IDOR in a Public Portal | Naeemj | [Read More](https://medium.com/p/248ad26f7914) |
-| Thu, 11 Sep 2025 11:47:53 GMT | Tcache Poisoning Made Simple | Zeyad Salah | [Read More](https://medium.com/p/4d5ce0484893) |
-| Thu, 11 Sep 2025 11:44:24 GMT | Keyloggers: Friend or Foe? | SilentInject | [Read More](https://medium.com/p/7ab7d9666c55) |
-| Thu, 11 Sep 2025 11:42:47 GMT | Top 5 Free Cybersecurity Courses Online (2025) | ECR Academy | [Read More](https://medium.com/p/2c5dd31135d7) |
-| Thu, 11 Sep 2025 11:37:35 GMT | The Five Stages of Security Maturity: Where Does Your Organization Stand? | Skysecure Technologies | [Read More](https://medium.com/p/8ccac4000ce4) |
-| Thu, 11 Sep 2025 11:34:57 GMT | The 5 Linux Commands Every Bug Bounty Hunter Should Master (and How I Chain Them for Faster Recon) | Kumar Mohit | [Read More](https://medium.com/p/cef0b5cbc8f8) |
-| Thu, 11 Sep 2025 11:28:54 GMT | When to Use Each: Managed Identity vs. Service Principal vs. Service Connector in Microsoft Azure | Mohamed Taman | [Read More](https://medium.com/p/89e762cbf0a1) |
