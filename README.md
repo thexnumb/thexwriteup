@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 03:33:41 GMT | Millions of Travel Records Leaked: Navan’s Website Dangerous Vulnerability” | Halalalimii | [Read More](https://medium.com/p/538464bd366c) |
+| Thu, 11 Sep 2025 03:31:42 GMT | Cyber & AI Nexus: JLR Hacked, Apple & Google Unite, and the Future of Medicine | Akshat Ratanpal | [Read More](https://medium.com/p/7be68879d828) |
+| Thu, 11 Sep 2025 03:31:42 GMT | 10 Common Mistakes in Node.js Deserialization Security | Arunangshu Das | [Read More](https://medium.com/p/3399fb38fab0) |
+| Thu, 11 Sep 2025 03:17:48 GMT | How to Install Burp Suite in Kali Linux (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/00b19b25f803) |
+| Thu, 11 Sep 2025 03:15:07 GMT | Critical SQL Injection Vulnerability in Weaver e-cology OA: What You Need to Know | Quella | [Read More](https://medium.com/p/8a48e1dfea4e) |
+| Thu, 11 Sep 2025 03:14:42 GMT | Race Condition in OTP Generation: How I Took Over Accounts by Timing Two Logins | Mr.Javed | [Read More](https://medium.com/p/ddaeeac9c36d) |
+| Thu, 11 Sep 2025 03:01:46 GMT | Russia Could Hit Europe by 2030 with $1.2 Trillion Arsenal | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7688719311ba) |
 | Thu, 11 Sep 2025 02:40:38 GMT | Information Hazards: When Knowledge Becomes a Threat | Riza bloomer | [Read More](https://medium.com/p/d8af402fa917) |
 | Thu, 11 Sep 2025 02:39:01 GMT | Mapping Threat Infrastructures Identified Through Criminal IP’s Top 10 Search Keywords | Criminal IP | [Read More](https://medium.com/p/7cde698999d1) |
 | Thu, 11 Sep 2025 02:38:14 GMT | How I Passed the PNPT: A Personal Journey into Real-World Penetration Testing | Timothy Grant | [Read More](https://medium.com/p/8e86e1ab2c4c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 19:02:17 GMT | Hack the Memory Forensics | Luke | [Read More](https://medium.com/p/057f13aee9b4) |
 | Wed, 10 Sep 2025 18:59:05 GMT | Embarking on a thrilling adventure! | Zainab Saeed | [Read More](https://medium.com/p/1b17a1d24803) |
 | Wed, 10 Sep 2025 18:56:33 GMT | Steganography: Definition and Practical Application Using Kali Linux | Balogun Ayomide | [Read More](https://medium.com/p/ee57356a6709) |
-| Wed, 10 Sep 2025 18:55:34 GMT | The Art of the Clone: Social Engineering Toolkit in Action | Balogun Ayomide | [Read More](https://medium.com/p/352827b54841) |
-| Wed, 10 Sep 2025 18:52:00 GMT | Key Management: Securely Managing Encryption Keys | Cyber Security Research | [Read More](https://medium.com/p/267583300c1c) |
-| Wed, 10 Sep 2025 18:41:18 GMT | The Silent Killer in Web Apps: SSRF Explained | M.sriman | [Read More](https://medium.com/p/d87649d45af0) |
-| Wed, 10 Sep 2025 18:38:37 GMT | Authentication | Jacob Piloto | [Read More](https://medium.com/p/186570c30570) |
-| Wed, 10 Sep 2025 18:37:56 GMT | Subdomain Discovery and Enumeration: From Noise to Valuable Targets | Swetha | [Read More](https://medium.com/p/bbc42b644b74) |
-| Wed, 10 Sep 2025 18:37:19 GMT | VPN vs Proxy: The Simple Analogy That Finally Explains the Difference | Taha Yousuf Ali | [Read More](https://medium.com/p/fe3dbe3b640b) |
-| Wed, 10 Sep 2025 18:19:44 GMT | The npm Attacks That Should Terrify Every Developer (And How to Fight Back) | Swarna Ravi | [Read More](https://medium.com/p/1c6a630cda20) |
