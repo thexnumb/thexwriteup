@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 14:31:23 GMT | Capgemini - Wipro - Mphasis Automation Testing Interview – 8 Years Experience (Shared by a… | Coding Ninja | [Read More](https://medium.com/p/b08ae2b7e435) |
+| Thu, 11 Sep 2025 14:29:49 GMT | Industry 4.0 and Cybersecurity: The Hidden Battle Behind the Smart Factory Revolution | Pavlović Goran | [Read More](https://medium.com/p/bb33dc4acb78) |
+| Thu, 11 Sep 2025 14:25:17 GMT | HTB pro lab Offshore review | real redinna | [Read More](https://medium.com/p/fa0381be9e3a) |
+| Thu, 11 Sep 2025 14:24:27 GMT | Operations Security (OPSEC): From Civilian Privacy to Red Team Operations | Lord Murak | [Read More](https://medium.com/p/0e946690cbe1) |
+| Thu, 11 Sep 2025 14:22:34 GMT | Adaptixc2 Seen In Real Attacks | Yaniv | [Read More](https://medium.com/p/4f25260cee80) |
+| Thu, 11 Sep 2025 14:20:17 GMT | Model Inversion Attack (MIA) | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/2a446ae220b7) |
+| Thu, 11 Sep 2025 14:15:58 GMT | Cybersecurity Roles: C-Level Executives(C-Suite) | Habyaad | [Read More](https://medium.com/p/a0a1f42e3ce4) |
 | Thu, 11 Sep 2025 14:11:55 GMT | ~~Human Error~~ AI Error : When Automation Goes Too Far - AI’s Unseen Errors | Manojna C | [Read More](https://medium.com/p/410283879993) |
 | Thu, 11 Sep 2025 14:11:00 GMT | TryHackMe #3 - Careers in Cyber | 0xGroot | [Read More](https://medium.com/p/c2806622570f) |
+| Thu, 11 Sep 2025 14:10:58 GMT | The vulnerable and the fragile: The Fey People | Janice Taylor | [Read More](https://medium.com/p/83821f10db2c) |
 | Thu, 11 Sep 2025 14:06:01 GMT | TryHackMe #2 - Defensive Security Intro | 0xGroot | [Read More](https://medium.com/p/961ec4faa734) |
 | Thu, 11 Sep 2025 14:01:47 GMT | Cyber Briefing: 2025.09.11 | CyberMaterial | [Read More](https://medium.com/p/0cb5793f2b57) |
 | Thu, 11 Sep 2025 14:01:47 GMT | What Is Abatis? A 20-Year Journey to Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/f0d82a0f1c9d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 09:57:39 GMT | AI-Driven Phishing & Deepfake Scams: The Rising Cybersecurity Threat in 2025 | Ambala IT | [Read More](https://medium.com/p/53abd2f4d77e) |
 | Thu, 11 Sep 2025 09:56:44 GMT | Security Profiles | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/2f4585404a5d) |
 | Thu, 11 Sep 2025 09:47:39 GMT | Cybersecurity Without a CISO: Is It Possible for SMEs? | Evgeny Ermakov | [Read More](https://medium.com/p/de1773a4a5cc) |
-| Thu, 11 Sep 2025 09:40:14 GMT | When Ransomware Goes Cloud-Native: Lessons from the Storm-0501 Attack | Tomasz Brzoza | [Read More](https://medium.com/p/ccedaaa7d1d1) |
-| Thu, 11 Sep 2025 09:37:13 GMT | Mastering Vulnerability Management: Why Context Is Everything | Lovelesh Gangil | [Read More](https://medium.com/p/3e87116e0174) |
-| Thu, 11 Sep 2025 09:36:32 GMT | The Four Main Types of Access Control Explained for Better Workplace Security | Joven A Rodrigues | [Read More](https://medium.com/p/8f910be01987) |
-| Thu, 11 Sep 2025 09:32:32 GMT | My Journey to Earning the Certified Associate Penetration Tester (CAPT) Certification | anonymous.gharti | [Read More](https://medium.com/p/5169cd7cc739) |
-| Thu, 11 Sep 2025 09:32:15 GMT | 7 FastAPI Security Moves That Ship | Bhagya Rana | [Read More](https://medium.com/p/21510086b22b) |
-| Thu, 11 Sep 2025 09:32:15 GMT | How I Accidentally Leaked Keys in CI — The Fix That Should Be Standard | Techno Diaries | [Read More](https://medium.com/p/4231a5c6a7cc) |
-| Thu, 11 Sep 2025 09:18:49 GMT | Cloud Native Application Security (CNAPP): A Game Changer In Cybersecurity | Cloud Kinetics | [Read More](https://medium.com/p/0ad120791b26) |
-| Thu, 11 Sep 2025 09:13:01 GMT | Mastering Misconfigured NFS, SMB, and FTP Shares: Step-by-Step Pentesting Guide for IT… | Very Lazy Tech | [Read More](https://medium.com/p/99e2cf769748) |
