@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 19:11:41 GMT | Why Is Quantum Computing Becoming a Game-Changer for Cybersecurity Strategies? | Dhananjay D | [Read More](https://medium.com/p/b10e93d1ad93) |
+| Thu, 11 Sep 2025 19:08:52 GMT | From Click to Compromise: Inside the Axios Phishing Campaign | Ashley Dai | [Read More](https://medium.com/p/962c0db85434) |
+| Thu, 11 Sep 2025 19:04:59 GMT | Protecting Data Submitted to AI Models | Teri Radichel | [Read More](https://medium.com/p/ae9e9b268b6a) |
+| Thu, 11 Sep 2025 18:59:50 GMT | Fantom chat. Direct P2P TCP chat using IPv6 and C++ | Emil Erofeevskiy | [Read More](https://medium.com/p/9d36ca5c076d) |
+| Thu, 11 Sep 2025 18:57:04 GMT | New iPhones: The 17th generation’s batteries have this much juice. | Bastian | [Read More](https://medium.com/p/a8f33e687c57) |
+| Thu, 11 Sep 2025 18:57:03 GMT | Demystifying JSON Web Tokens (JWT) | Lince Mathew | [Read More](https://medium.com/p/99db07bf5b2d) |
+| Thu, 11 Sep 2025 18:53:57 GMT | How to Become a Security Guard in Chicago | Alpha Koncepts | [Read More](https://medium.com/p/d3413f6b8a06) |
+| Thu, 11 Sep 2025 18:52:12 GMT | Building Your Own YARA Alternative: A Machine Learning Malware Classifier in Python | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/f0010369fed4) |
+| Thu, 11 Sep 2025 18:51:11 GMT | HTB GettingStarted Writeup (CPTS) | Armando Bueno | [Read More](https://medium.com/p/35855c48f5ec) |
+| Thu, 11 Sep 2025 18:50:36 GMT | Securing AWS Resources: IAM Groups, Policies, and RDS Permissions | DarkoTechOps | [Read More](https://medium.com/p/e85c99986f82) |
+| Thu, 11 Sep 2025 18:45:56 GMT | Installing Kali Linux on Qubes OS: A Quick Guide | Glenn Sorrentino | [Read More](https://medium.com/p/3ead42579c04) |
+| Thu, 11 Sep 2025 18:41:41 GMT | Cyber security interview questions (part 3) | The Commoness | [Read More](https://medium.com/p/6dd5327b832c) |
+| Thu, 11 Sep 2025 18:33:06 GMT | Fresh Start | JesseCodes | [Read More](https://medium.com/p/6d8ad7121d4b) |
+| Thu, 11 Sep 2025 18:32:21 GMT | The Hacker Who Pretended to Be My Best Friend | Shahzaib | [Read More](https://medium.com/p/523cda8bc966) |
 | Thu, 11 Sep 2025 18:32:20 GMT | One Shot, 200 Yards: The Assassination of Charlie Kirk and America’s New Age of Political Violence | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/3345b88e944c) |
 | Thu, 11 Sep 2025 18:31:11 GMT | HACKERS TRIED TO STEAL CRYPTO THROUGH NPM. HERE’S WHY FLAMINGO FINANCE WAS UNTOUCHED. | Duke Okutama | [Read More](https://medium.com/p/b5b46b26d369) |
 | Thu, 11 Sep 2025 18:28:29 GMT | Kioptrix: Level 1 (#1) | d4vnull | [Read More](https://medium.com/p/e0daacbd2488) |
@@ -100,17 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 14:01:47 GMT | Cyber Briefing: 2025.09.11 | CyberMaterial | [Read More](https://medium.com/p/0cb5793f2b57) |
 | Thu, 11 Sep 2025 14:01:47 GMT | What Is Abatis? A 20-Year Journey to Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/f0d82a0f1c9d) |
 | Thu, 11 Sep 2025 14:01:44 GMT | TryHackMe #1 - Offensive Security Intro | 0xGroot | [Read More](https://medium.com/p/a3ad60daef2f) |
-| Thu, 11 Sep 2025 14:00:57 GMT | I Typed Something Random… and Walked Into an Admin Panel | 0x62616B61 | [Read More](https://medium.com/p/99478f118a5f) |
-| Thu, 11 Sep 2025 13:59:07 GMT | The Future of Phishing: Deepfakes and Personalized Attacks | Naman Barola | [Read More](https://medium.com/p/2f4f566a4b33) |
-| Thu, 11 Sep 2025 13:57:21 GMT | How AI Is Quietly Rewriting the Rules of Tech, And Why Most People Don’t See It Coming | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/4cb2af7390dd) |
-| Thu, 11 Sep 2025 13:46:42 GMT | GitLab Under Fire: Four Vulnerabilities Threaten CI/CD Stability and Data Integrity | gm0 | [Read More](https://medium.com/p/da42bbb46f78) |
-| Thu, 11 Sep 2025 13:46:28 GMT | Building Suspicious Login Investigation Workflow Rapid7 InsightConnect Workflow | James | [Read More](https://medium.com/p/710bc820590e) |
-| Thu, 11 Sep 2025 13:41:42 GMT | Deactivate Your Garage Door Opener: Quick Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/55abba34200f) |
-| Thu, 11 Sep 2025 13:34:36 GMT | [TryHackMe] Expose | digistam | [Read More](https://medium.com/p/34472b462b82) |
-| Thu, 11 Sep 2025 13:31:41 GMT | Internal Audits and Cybersecurity: The Overlooked Risk in Mid‑Sized Businesses | CoopSys | [Read More](https://medium.com/p/ff2054394e2e) |
-| Thu, 11 Sep 2025 13:29:29 GMT | How I Escalated a Navigation Bug Into Trusted-Origin File Downloads | MostReal | [Read More](https://medium.com/p/0dca4c38d896) |
-| Thu, 11 Sep 2025 13:22:58 GMT | Broken Access Control And Portswigger Solved Labs | babambabam | [Read More](https://medium.com/p/460c209834e4) |
-| Thu, 11 Sep 2025 13:20:16 GMT | Why Cyber Security is the Hottest Career Choice in the Coming Years? | Veridical Technologies | [Read More](https://medium.com/p/dbc01bcc0877) |
-| Thu, 11 Sep 2025 13:19:08 GMT | How Flash Loans Enabled Scammers Steal $13.3M From BetterBank & Bunni v2 | Scofield O. Idehen | [Read More](https://medium.com/p/c02ba0eb53ff) |
-| Thu, 11 Sep 2025 13:17:03 GMT | Find 10x More Bugs With These 3 Free Extensions | Ibtissam hammadi | [Read More](https://medium.com/p/d052fdc18ded) |
-| Thu, 11 Sep 2025 13:16:46 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/2aab7f42fa73) |
