@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 23:22:13 GMT | The Anatomy of a Breach: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/c2d0e0c7e4d8) |
+| Thu, 11 Sep 2025 23:17:39 GMT | So Many Questions; U.S. Airstrikes, the Caribbean Battlefield, and the Future of International Law. | N H Medina | [Read More](https://medium.com/p/4aa1099b1155) |
+| Thu, 11 Sep 2025 23:17:19 GMT | Integrating Chrome Enterprise Premium for a Unified Zero-Trust Security Posture | Jeff | [Read More](https://medium.com/p/b73a737d6426) |
+| Thu, 11 Sep 2025 23:17:02 GMT | Cyber Security Details: A Hacker’s Perspective | Cyber Security Research | [Read More](https://medium.com/p/ea7c2229d103) |
 | Thu, 11 Sep 2025 23:07:42 GMT | When the Breach Hits: Preparing for Disasters Before They Happen | Sam Galope | [Read More](https://medium.com/p/a59730a203c2) |
 | Thu, 11 Sep 2025 22:47:11 GMT | You’re Logged In. But Are You Really You? | Adewale Ayomide | [Read More](https://medium.com/p/344855a7de45) |
 | Thu, 11 Sep 2025 22:46:46 GMT | Open Source Maintainers Are Being Exploited, Not Celebrated | Noah Byteforge | [Read More](https://medium.com/p/45a70c6000fc) |
@@ -108,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 17:18:47 GMT | Deploying Active Passive High Availability for Palo Alto VM-Series Firewalls in AWS | Adhiraj Jarwal | [Read More](https://medium.com/p/671358783deb) |
 | Thu, 11 Sep 2025 17:08:52 GMT | Right Time to Hire a CISO? | Matthew.Rosenquist | [Read More](https://medium.com/p/b84ba851a94c) |
 | Thu, 11 Sep 2025 17:07:18 GMT | The Future of Learning: How Cybersecurity Education Will Become a Core Subject | Xaltius | [Read More](https://medium.com/p/4e1b1217ee3a) |
-| Thu, 11 Sep 2025 17:02:24 GMT | The Ultimate IT Security Checklist for Enterprise Networks
-Subheading:
-A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/204906bb6c04) |
-| Thu, 11 Sep 2025 16:57:40 GMT | How to Add a Linux User with a Unique UID and Custom Home Directory — kodekloud task | Md Mehedi Hasan Asif | [Read More](https://medium.com/p/8f96c771cd72) |
-| Thu, 11 Sep 2025 16:56:48 GMT | ChatGPT in the Wrong Hands: Social Engineering Attacks Explained | Andrei Ivan | [Read More](https://medium.com/p/0fa8a6424171) |
-| Thu, 11 Sep 2025 16:46:54 GMT | Why AI-Powered Phishing is Every Beginner’s Nightmare (And How to Spot It) | Andrei Ivan | [Read More](https://medium.com/p/94bb3a30e0a3) |
