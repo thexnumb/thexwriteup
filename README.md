@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 13:19:08 GMT | How Flash Loans Enabled Scammers Steal $13.3M From BetterBank & Bunni v2 | Scofield O. Idehen | [Read More](https://medium.com/p/c02ba0eb53ff) |
+| Thu, 11 Sep 2025 13:17:03 GMT | Find 10x More Bugs With These 3 Free Extensions | Ibtissam hammadi | [Read More](https://medium.com/p/d052fdc18ded) |
+| Thu, 11 Sep 2025 13:16:46 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/2aab7f42fa73) |
+| Thu, 11 Sep 2025 13:11:08 GMT | PG Practice — SpiderSociety (Linux) | Lepton | [Read More](https://medium.com/p/957ae1de0184) |
+| Thu, 11 Sep 2025 13:09:35 GMT | Secure Payment Integrations: Best Practices for SaaS Startups | KodekX | [Read More](https://medium.com/p/2255ed59b5e1) |
+| Thu, 11 Sep 2025 13:07:01 GMT | Footprinting Lab (Hard) — Full Write-up | Mohamed hossam | [Read More](https://medium.com/p/b0340b5ff6a0) |
+| Thu, 11 Sep 2025 13:06:06 GMT | Vibe Coding: Part 2 — The Debugging Disco | Muhammad Talha Khan | [Read More](https://medium.com/p/7f3891f31099) |
+| Thu, 11 Sep 2025 13:05:17 GMT | iPhone 17 Is the Most Secure Smartphone You Can Buy Today | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/9fed85e5f8ef) |
+| Thu, 11 Sep 2025 13:04:09 GMT | My First Hands-On Penetration Test: A Beginner’s Story With Metasploit & Meterpreter | Waeeh | [Read More](https://medium.com/p/08c5d194cabb) |
+| Thu, 11 Sep 2025 13:02:22 GMT | QANplatform and SignQuantum provide Quantum-Resistant security for Ueno Bank’s 2.2M Customers | QANplatform | [Read More](https://medium.com/p/646d0aa3227a) |
+| Thu, 11 Sep 2025 13:01:42 GMT | Why Sharing Your Creative Work Is Scarier Than Creating It | Threads & Tangents | [Read More](https://medium.com/p/f3599aad0bbc) |
+| Thu, 11 Sep 2025 13:01:42 GMT | Notes on Red Teaming AI | Danish | [Read More](https://medium.com/p/2126be1cb445) |
+| Thu, 11 Sep 2025 12:58:14 GMT | Instagram Hacking Guide: How to Hack an Account from Instagram? | Sandra Thomson | [Read More](https://medium.com/p/a7b00105bfe7) |
+| Thu, 11 Sep 2025 12:58:12 GMT | Cut AI Hallucinations in 30 Minutes: Ask, Ground, Decide. | Tochukwu Okonkwor | [Read More](https://medium.com/p/4be1f1dc62bb) |
+| Thu, 11 Sep 2025 12:57:55 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/067822d80767) |
+| Thu, 11 Sep 2025 12:55:24 GMT | From Paper to Practice: Building My First Email Phishing Classifier | Rebecca Ssesanga | [Read More](https://medium.com/p/588f347709d7) |
+| Thu, 11 Sep 2025 12:51:35 GMT | ️ How to Upgrade Your Kubernetes Cluster (Step by Step Guide) | CodeGenitor | [Read More](https://medium.com/p/a2b027002865) |
+| Thu, 11 Sep 2025 12:40:39 GMT | How the Tea Dating App Leaked 1.1M Messages, and Why It Still Ranks Top 3 | Laura Mat | [Read More](https://medium.com/p/62472f39416f) |
+| Thu, 11 Sep 2025 12:35:09 GMT | Introduction | Fss | [Read More](https://medium.com/p/5c559ceae18a) |
 | Thu, 11 Sep 2025 12:31:40 GMT | Search Exploit Like Real Hackers.. | Mainekhacker | [Read More](https://medium.com/p/082d762abf0a) |
 | Thu, 11 Sep 2025 12:29:59 GMT | CVE-2025–55145, CVE-2025–55147, CVE-2025–55148, CVE-2025–55141, and CVE-2025–55142: Ivanti Remote… | gm0 | [Read More](https://medium.com/p/8a4a2703dc72) |
 | Thu, 11 Sep 2025 12:29:28 GMT | AWS Digital Sovereignty Solution: Executive Summary | Cesar Schneider | [Read More](https://medium.com/p/b645e73dff5d) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 08:18:01 GMT | Kioptrix: Level 1 (#1) | DAZ00X | [Read More](https://medium.com/p/0a9beb51ea53) |
 | Thu, 11 Sep 2025 08:16:13 GMT | Which certification is best for networking? | cyber security Updates | [Read More](https://medium.com/p/ec010e8c40a0) |
 | Thu, 11 Sep 2025 08:13:44 GMT | ประจำวันพฤหัสบดีที่ 11 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/250a8f6302f4) |
-| Thu, 11 Sep 2025 08:13:43 GMT | AI and Cybersecurity Risks and Protection in 2025 | Macromodule Technologies | [Read More](https://medium.com/p/596d0039fbdd) |
-| Thu, 11 Sep 2025 08:11:17 GMT | Open Source AI: Savior or Security Nightmare? | R A N A   A H M A D | [Read More](https://medium.com/p/39b97752c86c) |
-| Thu, 11 Sep 2025 08:10:18 GMT | Enough AI Already | William Essex | [Read More](https://medium.com/p/d409359a0001) |
-| Thu, 11 Sep 2025 08:09:16 GMT | Weaponizing Automation: Crafting a custom recon pipeline for pentesters | Aenosh Rajora | [Read More](https://medium.com/p/cdfeaa1f1887) |
-| Thu, 11 Sep 2025 08:08:09 GMT | is hydraulic fluid flammable | Whyps | [Read More](https://medium.com/p/572fa7ac692e) |
-| Thu, 11 Sep 2025 08:02:22 GMT | Critical Malicious Packages Spread via NPM: September 8, 2025 Incident | irem ozyurt | [Read More](https://medium.com/p/166b50baa76d) |
-| Thu, 11 Sep 2025 08:01:52 GMT | 10-Minute Vendor Exposure Audit: Check Your Supplier List for Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/218605ff2dd8) |
-| Thu, 11 Sep 2025 08:01:38 GMT | 5 Key Benefits of Adversary Simulation for Businesses | DL Info Shield | [Read More](https://medium.com/p/8bdb2b0cf1a8) |
-| Thu, 11 Sep 2025 07:52:23 GMT | Kioptrix Level 2 Writeup — SQLi → Command Injection → Root | Mahmoudelshorpagy | [Read More](https://medium.com/p/d1519d5fa099) |
-| Thu, 11 Sep 2025 07:47:17 GMT | How to Start Bug Hunting: Your Path to Earning Cash for Code Flaws | Aj | [Read More](https://medium.com/p/39df2d33407b) |
-| Thu, 11 Sep 2025 07:45:42 GMT | Growth Mindset vs Fixed Mindset in Facility Management | EXLITY | [Read More](https://medium.com/p/24678a849438) |
-| Thu, 11 Sep 2025 07:44:51 GMT | I Wrote One Affirmation for 3 Days and Forgot About It.15 Days Later, $500 Showed Up | Mansi golecha | [Read More](https://medium.com/p/6501bdb18292) |
-| Thu, 11 Sep 2025 07:41:46 GMT | [번역] npm debug 및 chalk 패키지 손상 | Nayounsang | [Read More](https://medium.com/p/bcba92cfb951) |
-| Thu, 11 Sep 2025 07:39:05 GMT | Major cybersecurity firms outsourcing their cyberattack/hacking capabilities from India in 2025 | Techtrekkertech | [Read More](https://medium.com/p/5e07c04be622) |
-| Thu, 11 Sep 2025 07:34:28 GMT | 30 Pen Testing Experts in Dubai You Should Know (2025 Guide) | Qualysec | [Read More](https://medium.com/p/bab890220700) |
-| Thu, 11 Sep 2025 07:33:33 GMT | The Daily Tech Digest: 11 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/472937f4a0cf) |
-| Thu, 11 Sep 2025 07:31:42 GMT | How to change IP every 5 seconds — Total Anonymity | Aadarsh Nagrath | [Read More](https://medium.com/p/5d98091f4657) |
-| Thu, 11 Sep 2025 07:27:37 GMT | GDPR Compliance: Building Websites That Comply with European Data Protection Laws | Amaka okoye | [Read More](https://medium.com/p/da178787c3ab) |
-| Thu, 11 Sep 2025 07:23:34 GMT | How can you select the optimal MVP development approach for your 2025 startup? | Jeeva akash | [Read More](https://medium.com/p/42b0d68d1d0b) |
