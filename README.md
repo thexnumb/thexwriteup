@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 05:33:42 GMT | What Types of Bugs Show Up in Fall? | Rayan Eashan | [Read More](https://medium.com/p/ff4e9f79ab98) |
+| Thu, 11 Sep 2025 05:31:44 GMT | The OAuth Security Flaw That Every Developer Ignores (Until They Get Hacked) | Sohail Saifi | [Read More](https://medium.com/p/cbb0dc7aac98) |
+| Thu, 11 Sep 2025 05:30:24 GMT | Why “Failing” a Pen Test is Actually Your Best Outcome | Aj | [Read More](https://medium.com/p/5ed52a4bd3b0) |
+| Thu, 11 Sep 2025 05:30:09 GMT | NetHunter Pro: The Phone That’s Not a Phone | Nabharaj Sawant | [Read More](https://medium.com/p/31ffa2b00805) |
 | Thu, 11 Sep 2025 05:16:47 GMT | Portswigger Web Security Academy - NoSQL injection Lab #1 | BooRuleDie | [Read More](https://medium.com/p/c02384c24fcb) |
 | Thu, 11 Sep 2025 05:14:33 GMT | Emerging AI Concepts Set to Redefine Technology in 2025 | cisprotraining | [Read More](https://medium.com/p/f1074f201110) |
+| Thu, 11 Sep 2025 05:13:12 GMT | When Antivirus Remnants Clash: Resolving High CPU Usage in Sophos Endpoint | Kiell Tampubolon | [Read More](https://medium.com/p/d3085435f0be) |
+| Thu, 11 Sep 2025 05:07:44 GMT | What Is a Thermal Printer and What Are Its Uses? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/58b96f42e62e) |
 | Thu, 11 Sep 2025 05:06:56 GMT | The Language of Embrace | Mardiana Ayu | [Read More](https://medium.com/p/33a6beb330f9) |
 | Thu, 11 Sep 2025 04:51:08 GMT | The AI Models: From Academic Labs to Real-World Impact | RafalW3bCraft | [Read More](https://medium.com/p/d5a3fc270100) |
 | Thu, 11 Sep 2025 04:39:49 GMT | Subdomain Takeover: Quick-Check Cheat sheet for Security Testing | MkNayek | [Read More](https://medium.com/p/a42409cd405d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 20:12:28 GMT | TryHackMe — Nmap: The Basics - Cyber Security 101 (THM) | Dang3rXgh0st | [Read More](https://medium.com/p/9764fdb3f64d) |
 | Wed, 10 Sep 2025 20:11:29 GMT | Contra Doctrine Manual 1 (CDM-1) — Field Manual of Origin | Contra Doctrine | [Read More](https://medium.com/p/92ef9685c430) |
 | Wed, 10 Sep 2025 20:08:06 GMT | PG Practice — Internal (Windows) | Lepton | [Read More](https://medium.com/p/6b0359652791) |
-| Wed, 10 Sep 2025 20:07:32 GMT | PicoCTF-No SQL Injection- Walkthrough | Beryl | [Read More](https://medium.com/p/75dd7ee51cce) |
-| Wed, 10 Sep 2025 20:07:25 GMT | Hands‑On Email Incident Response: Phishing Attack Playbook | Kunal Nagra | [Read More](https://medium.com/p/f50103bdff9a) |
-| Wed, 10 Sep 2025 19:59:59 GMT | Intimacy is Built in the Small Things | Marie Grace, PhD | [Read More](https://medium.com/p/a7f12d8c87e2) |
-| Wed, 10 Sep 2025 19:57:11 GMT | kioptrix level 2 WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/1756fea6e799) |
-| Wed, 10 Sep 2025 19:51:40 GMT | Security Questions You Should Ask Before Choosing an AI Tool | Slingshot | [Read More](https://medium.com/p/9bb61cd2ee9d) |
-| Wed, 10 Sep 2025 19:50:49 GMT | Java Deserialization Vulnerability, CVE-2015–7501 ,Tony the Tiger | Oussamahassania | [Read More](https://medium.com/p/1709ef788f01) |
