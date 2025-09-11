@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 22:11:33 GMT | Server-Side Request Forgery (SSRF) Explained: From Basics to Advanced Attacks | Mazen Elsayed | [Read More](https://medium.com/p/771aef68b415) |
+| Thu, 11 Sep 2025 22:04:57 GMT | Shadow AI Is Not Your Enemy. It Is Your Unmanaged Colleague. | Joao Silva | [Read More](https://medium.com/p/f2bf6655000e) |
+| Thu, 11 Sep 2025 22:02:33 GMT | Outbound Sales Metrics That Actually Predict Revenue Growth | Brian A. Wilson | [Read More](https://medium.com/p/87dde4fbcf8a) |
+| Thu, 11 Sep 2025 22:00:56 GMT | Integrating TOGAF and AI for Risk-Responsive Business Models | Dr. Prashant Sawant | [Read More](https://medium.com/p/4b9b383ca90d) |
+| Thu, 11 Sep 2025 21:56:46 GMT | How Smart CISOs Are Finally Winning the Cybersecurity Budget Battle | Cyber-AppSec | [Read More](https://medium.com/p/31887529359d) |
+| Thu, 11 Sep 2025 21:53:36 GMT | From Trial-and-Error to Tactical Precision: PhantomShift in Action | Sophia Martinez | [Read More](https://medium.com/p/18b574858808) |
+| Thu, 11 Sep 2025 21:34:48 GMT | Warn the Stars | Elijah Thomas | [Read More](https://medium.com/p/438783cebe15) |
 | Thu, 11 Sep 2025 21:31:46 GMT | PG Play — Gaara (Linux) | Lepton | [Read More](https://medium.com/p/3089b0354a76) |
+| Thu, 11 Sep 2025 21:30:01 GMT | Reflections in the Coffee Spoon | Pamala | [Read More](https://medium.com/p/343edf86546b) |
 | Thu, 11 Sep 2025 21:23:51 GMT | Cephalus Ransomware: A Dive into a Modern Ransomware Threat | Shivam Kanodia | [Read More](https://medium.com/p/90f09b9519f4) |
 | Thu, 11 Sep 2025 21:06:06 GMT | Warn the stars | Elijah Thomas | [Read More](https://medium.com/p/ff4dd8c85719) |
 | Thu, 11 Sep 2025 21:03:25 GMT | Reactive vs. Proactive Security ️ | Htut Aung Hlaing | [Read More](https://medium.com/p/6e4ad3333b6a) |
@@ -106,11 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 16:16:52 GMT | Why You Should Disable Bluetooth on Linux (and How to Do It) | Citadel Cybersec | [Read More](https://medium.com/p/814d95846a58) |
 | Thu, 11 Sep 2025 16:15:36 GMT | Security vs Development. Ruby on Rails and CSP Nonce | Mariia Radzhapova | [Read More](https://medium.com/p/24d8052bf260) |
 | Thu, 11 Sep 2025 16:13:22 GMT | Case-Sensitivity Display name is worth 150$ bounty | mohaned haron | [Read More](https://medium.com/p/6871aab8a39c) |
-| Thu, 11 Sep 2025 16:11:19 GMT | Quranium Launches $QRN Public Pre-Sale on Republic | Bright Mmaduabuchi | [Read More](https://medium.com/p/4adc158872b0) |
-| Thu, 11 Sep 2025 16:11:03 GMT | When it comes to protecting our digital lives, password managers are often presented as the “holy… | Cordula Boeck | [Read More](https://medium.com/p/9017688ad0e4) |
-| Thu, 11 Sep 2025 16:08:45 GMT | Security vs Development. Ruby on Rails and CSP Nonce | Mariia Radzhapova | [Read More](https://medium.com/p/9c2638048b28) |
-| Thu, 11 Sep 2025 16:03:55 GMT | Understanding SSL/TLS Certificates: Your Website’s Digital Passport | Dineshraj Anandan | [Read More](https://medium.com/p/a4614998e0ce) |
-| Thu, 11 Sep 2025 16:03:17 GMT | Malware Development Technique Database | S12 - 0x12Dark Development | [Read More](https://medium.com/p/20948167a2bf) |
-| Thu, 11 Sep 2025 16:02:27 GMT | Cryptocurrency Theft Is Skyrocketing — Secure Your Assets Now | Generational Wealth | [Read More](https://medium.com/p/1b125d4b3d21) |
-| Thu, 11 Sep 2025 15:58:11 GMT | Securing the Digital Citadel: Building the SSL/TLS Drawbridge for Java and Mainframes | Eskindir Abebe Geda | [Read More](https://medium.com/p/9e28e16cee61) |
-| Thu, 11 Sep 2025 15:51:04 GMT | When Security Software Becomes the Enemy | Aj | [Read More](https://medium.com/p/b76b7951bf8a) |
