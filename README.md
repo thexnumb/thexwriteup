@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 07:34:28 GMT | 30 Pen Testing Experts in Dubai You Should Know (2025 Guide) | Qualysec | [Read More](https://medium.com/p/bab890220700) |
+| Thu, 11 Sep 2025 07:33:33 GMT | The Daily Tech Digest: 11 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/472937f4a0cf) |
+| Thu, 11 Sep 2025 07:31:42 GMT | How to change IP every 5 seconds — Total Anonymity | Aadarsh Nagrath | [Read More](https://medium.com/p/5d98091f4657) |
+| Thu, 11 Sep 2025 07:27:37 GMT | GDPR Compliance: Building Websites That Comply with European Data Protection Laws | Amaka okoye | [Read More](https://medium.com/p/da178787c3ab) |
+| Thu, 11 Sep 2025 07:23:34 GMT | How can you select the optimal MVP development approach for your 2025 startup? | Jeeva akash | [Read More](https://medium.com/p/42b0d68d1d0b) |
+| Thu, 11 Sep 2025 07:21:50 GMT | Best IT Digital Transformation Services and Solutions | Juarait Digital | [Read More](https://medium.com/p/0362af1a03b5) |
+| Thu, 11 Sep 2025 07:20:07 GMT | Biometric Authentication in 2025: Why It Might Be the End of “Fingerprint Security” | Recon Cyber Security | [Read More](https://medium.com/p/0118fbe4205d) |
+| Thu, 11 Sep 2025 07:17:10 GMT | I Wanted Privacy… So I Built My Own Browser (Here’s What Happened) | Pannag Kumaar | [Read More](https://medium.com/p/3d9e05def4e8) |
+| Thu, 11 Sep 2025 07:14:21 GMT | “Digitalization in India- The Rise of UPI “ | Saurabh | [Read More](https://medium.com/p/414221e98e13) |
+| Thu, 11 Sep 2025 07:13:42 GMT | Kioptrix Level 1 :Because Sometimes, Old Boxes Need Love Too | MazenTurky | [Read More](https://medium.com/p/c02fd258951b) |
 | Thu, 11 Sep 2025 07:13:21 GMT | Day 55- Understanding the basics of forensics in cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/fde8077085e5) |
 | Thu, 11 Sep 2025 07:13:07 GMT | notepad — Web— PicoCTF | TraceX0 | [Read More](https://medium.com/p/799552ea6dea) |
 | Thu, 11 Sep 2025 07:11:24 GMT | How to Increase Website Traffic: Practical Strategies That Deliver | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/e7774fbcbb42) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 00:00:14 GMT | 5 ChatGPT Prompts To Create Content No One Can Steal | Nauman khan | [Read More](https://medium.com/p/77cbd9216802) |
 | Wed, 10 Sep 2025 23:53:15 GMT | Public Key Infrastructure (PKI): Managing Digital Identities | Cyber Security Research | [Read More](https://medium.com/p/806d6282599c) |
 | Wed, 10 Sep 2025 23:49:29 GMT | seven ways to secure your Node.js | Suraj Khonde | [Read More](https://medium.com/p/2e0a48db5fcd) |
-| Wed, 10 Sep 2025 23:32:42 GMT | How I Build Rapport with My Clients as a Freelance Business Consultant | Wellness in Cybersecurity | [Read More](https://medium.com/p/4899776097b7) |
-| Wed, 10 Sep 2025 23:29:47 GMT | TryHackMe 5-Minute Hack: TakeOver (Subdomain Enumeration) | Trixia Horner | [Read More](https://medium.com/p/03c0639169e4) |
-| Wed, 10 Sep 2025 23:16:39 GMT | Self Introduction | Justin Blake | [Read More](https://medium.com/p/ee4042dd43a3) |
-| Wed, 10 Sep 2025 23:13:47 GMT | Hackers Steal Crypto by Hacking npm Packages Like Chalk & Debug | Cyber-AppSec | [Read More](https://medium.com/p/06372e2909ca) |
-| Wed, 10 Sep 2025 23:01:45 GMT | Write-Up: Footprinting Hard — Hack The Box | David Weverton Da Silva Lima | [Read More](https://medium.com/p/fde6c8758146) |
-| Wed, 10 Sep 2025 22:54:34 GMT | The Future of DeFi | Nonso | [Read More](https://medium.com/p/41b122389b52) |
-| Wed, 10 Sep 2025 22:54:23 GMT | Extensions Gone Rogue: How Firefox Extensions Became Crypto Thieves | Ashley Dai | [Read More](https://medium.com/p/9c9995f03368) |
-| Wed, 10 Sep 2025 22:53:04 GMT | Threat Modeling, Explained | Chris Zhang | [Read More](https://medium.com/p/7533c54a6b28) |
-| Wed, 10 Sep 2025 22:45:19 GMT | CAPT Cross-Site Scripting (XSS) Writeup — HackViser | Sajad Abdulelah | [Read More](https://medium.com/p/a6670206aff0) |
-| Wed, 10 Sep 2025 22:22:07 GMT | The Biggest Cyber Security Threats Online for Individuals and How to Mitigate Them | Enskefuddle | [Read More](https://medium.com/p/126b64c6446e) |
