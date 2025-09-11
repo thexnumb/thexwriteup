@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 12:31:40 GMT | Search Exploit Like Real Hackers.. | Mainekhacker | [Read More](https://medium.com/p/082d762abf0a) |
+| Thu, 11 Sep 2025 12:29:59 GMT | CVE-2025–55145, CVE-2025–55147, CVE-2025–55148, CVE-2025–55141, and CVE-2025–55142: Ivanti Remote… | gm0 | [Read More](https://medium.com/p/8a4a2703dc72) |
+| Thu, 11 Sep 2025 12:29:28 GMT | AWS Digital Sovereignty Solution: Executive Summary | Cesar Schneider | [Read More](https://medium.com/p/b645e73dff5d) |
+| Thu, 11 Sep 2025 12:28:26 GMT | AI Is Reshaping Careers, Not Replacing Them | Alireza Ghahrood | [Read More](https://medium.com/p/839d1b8746a6) |
+| Thu, 11 Sep 2025 12:25:51 GMT | What is Python? A Beginner’s Complete Guide | Nishubirla | [Read More](https://medium.com/p/57eb61f93254) |
+| Thu, 11 Sep 2025 12:22:26 GMT | How to protect your computer from viruses and hackers? | Anisha Carvalho | [Read More](https://medium.com/p/6f08e12442c7) |
+| Thu, 11 Sep 2025 12:22:22 GMT | A Jobsworth’s Doing | Imani Hekima | [Read More](https://medium.com/p/166433c665c6) |
+| Thu, 11 Sep 2025 12:20:45 GMT | What is OWASP, and the OWASP Top 10 | Samita | [Read More](https://medium.com/p/d9fe25471385) |
+| Thu, 11 Sep 2025 12:16:43 GMT | Inside the Hacker’s Playbook (Part 2): The Advanced Stuff Nobody Talks About | Mohamed.cybersec | [Read More](https://medium.com/p/3b262941accc) |
+| Thu, 11 Sep 2025 12:15:43 GMT | Compromising Healthcare Security: A Threat Modeling Case Study on HCS | Shaistha Khanum | [Read More](https://medium.com/p/25fa684a1882) |
+| Thu, 11 Sep 2025 12:12:32 GMT | The first AI ransomware is here, but the real threat is AI-written pretexts | Saravanan.R | [Read More](https://medium.com/p/80ce5d306655) |
+| Thu, 11 Sep 2025 12:10:33 GMT | AppSec in 2025: Rising Challenges, Smart Campaigns, and AI-Driven Opportunities | MrGood | [Read More](https://medium.com/p/c9038bc46b23) |
+| Thu, 11 Sep 2025 12:08:33 GMT | CVE-2025–59046: Critical Command Injection Vulnerability Found in Popular Git CLI Tool | gm0 | [Read More](https://medium.com/p/746faefaf5f7) |
+| Thu, 11 Sep 2025 12:01:44 GMT | How to Secure Your Startup Against AI-Driven Cyber Threats in 2025 (How-To Guide) | Umesh Anjula | [Read More](https://medium.com/p/85f825e41186) |
+| Thu, 11 Sep 2025 11:57:12 GMT | Exploiting IDOR: The Hidden Door to Sensitive Data | EL_Cazad0r | [Read More](https://medium.com/p/c45555fdf22c) |
+| Thu, 11 Sep 2025 11:51:17 GMT | How Pattern Recognition Led to a Critical IDOR in a Public Portal | Naeemj | [Read More](https://medium.com/p/248ad26f7914) |
+| Thu, 11 Sep 2025 11:47:53 GMT | Tcache Poisoning Made Simple | Zeyad Salah | [Read More](https://medium.com/p/4d5ce0484893) |
+| Thu, 11 Sep 2025 11:44:24 GMT | Keyloggers: Friend or Foe? | SilentInject | [Read More](https://medium.com/p/7ab7d9666c55) |
+| Thu, 11 Sep 2025 11:42:47 GMT | Top 5 Free Cybersecurity Courses Online (2025) | ECR Academy | [Read More](https://medium.com/p/2c5dd31135d7) |
+| Thu, 11 Sep 2025 11:37:35 GMT | The Five Stages of Security Maturity: Where Does Your Organization Stand? | Skysecure Technologies | [Read More](https://medium.com/p/8ccac4000ce4) |
+| Thu, 11 Sep 2025 11:34:57 GMT | The 5 Linux Commands Every Bug Bounty Hunter Should Master (and How I Chain Them for Faster Recon) | Kumar Mohit | [Read More](https://medium.com/p/cef0b5cbc8f8) |
+| Thu, 11 Sep 2025 11:28:54 GMT | When to Use Each: Managed Identity vs. Service Principal vs. Service Connector in Microsoft Azure | Mohamed Taman | [Read More](https://medium.com/p/89e762cbf0a1) |
+| Thu, 11 Sep 2025 11:27:43 GMT | ️ How Do C2 (Command and Control) Servers Work? | Esra Kayhan | [Read More](https://medium.com/p/24e27e0ec0df) |
 | Thu, 11 Sep 2025 11:21:55 GMT | When Trust Collapses: The Blockchain Security Crisis and the Path to a New Architecture | X1 EcoChain | [Read More](https://medium.com/p/7a731d678dcb) |
 | Thu, 11 Sep 2025 11:14:48 GMT | What is User Entity and Behavior Analytics? | Stellar Cyber | [Read More](https://medium.com/p/784073852195) |
 | Thu, 11 Sep 2025 11:09:32 GMT | ️ TryHackMe SOC Role in Blue Team — Walkthrough & Lessons Learned | Furkanctiner | [Read More](https://medium.com/p/2ece9f4c5ae4) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 07:31:42 GMT | How to change IP every 5 seconds — Total Anonymity | Aadarsh Nagrath | [Read More](https://medium.com/p/5d98091f4657) |
 | Thu, 11 Sep 2025 07:27:37 GMT | GDPR Compliance: Building Websites That Comply with European Data Protection Laws | Amaka okoye | [Read More](https://medium.com/p/da178787c3ab) |
 | Thu, 11 Sep 2025 07:23:34 GMT | How can you select the optimal MVP development approach for your 2025 startup? | Jeeva akash | [Read More](https://medium.com/p/42b0d68d1d0b) |
-| Thu, 11 Sep 2025 07:21:50 GMT | Best IT Digital Transformation Services and Solutions | Juarait Digital | [Read More](https://medium.com/p/0362af1a03b5) |
-| Thu, 11 Sep 2025 07:20:07 GMT | Biometric Authentication in 2025: Why It Might Be the End of “Fingerprint Security” | Recon Cyber Security | [Read More](https://medium.com/p/0118fbe4205d) |
-| Thu, 11 Sep 2025 07:17:10 GMT | I Wanted Privacy… So I Built My Own Browser (Here’s What Happened) | Pannag Kumaar | [Read More](https://medium.com/p/3d9e05def4e8) |
-| Thu, 11 Sep 2025 07:14:21 GMT | “Digitalization in India- The Rise of UPI “ | Saurabh | [Read More](https://medium.com/p/414221e98e13) |
-| Thu, 11 Sep 2025 07:13:42 GMT | Kioptrix Level 1 :Because Sometimes, Old Boxes Need Love Too | MazenTurky | [Read More](https://medium.com/p/c02fd258951b) |
-| Thu, 11 Sep 2025 07:13:21 GMT | Day 55- Understanding the basics of forensics in cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/fde8077085e5) |
-| Thu, 11 Sep 2025 07:13:07 GMT | notepad — Web— PicoCTF | TraceX0 | [Read More](https://medium.com/p/799552ea6dea) |
-| Thu, 11 Sep 2025 07:11:24 GMT | How to Increase Website Traffic: Practical Strategies That Deliver | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/e7774fbcbb42) |
-| Thu, 11 Sep 2025 07:07:07 GMT | Cortex Incident Case Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9dedbfd02090) |
-| Thu, 11 Sep 2025 07:01:08 GMT | The Hidden Power of SafeLine WAF: Load Balancing & Failover on Top of Security | Quella | [Read More](https://medium.com/p/058453422b04) |
-| Thu, 11 Sep 2025 06:48:29 GMT | Top 5 AI-cybersecurity Tools | Umang Nayi | [Read More](https://medium.com/p/ca175f9e599d) |
-| Thu, 11 Sep 2025 06:41:18 GMT | ️‍♂️ Forgotten But Dangerous: How an Old Staging Domain Handed Me Production Secrets | Iski | [Read More](https://medium.com/p/ced7be8dcd2f) |
-| Thu, 11 Sep 2025 06:39:03 GMT | Top 10 Ethical Hacking E-books 2026 - Beginners to Advanced | Manisha Chaudhary | [Read More](https://medium.com/p/40f77ea9b89b) |
-| Thu, 11 Sep 2025 06:33:45 GMT | Mobile Device Management Tools That Don’t Slow Down Employees | Lanvaus | [Read More](https://medium.com/p/33e8eafa93a6) |
-| Thu, 11 Sep 2025 06:31:44 GMT | flood situation in PAKISTAN ……… | Preety Girl | [Read More](https://medium.com/p/0206ea7d2913) |
-| Thu, 11 Sep 2025 06:30:31 GMT | Cyber Risk Frameworks for Resilient Digital Operations | Ishaan Nair | [Read More](https://medium.com/p/a39f78446e26) |
-| Thu, 11 Sep 2025 06:29:08 GMT | Nano-Bots | Balki Maharaj | [Read More](https://medium.com/p/ab9a270ce8f5) |
-| Thu, 11 Sep 2025 06:27:17 GMT | TO BECOME A SOC EXPERT | vulnhunter | [Read More](https://medium.com/p/23df20bd7cfe) |
-| Thu, 11 Sep 2025 06:21:24 GMT | AI: Job Killer or Industry Game-Changer? Understanding the Future of IT | V Amarnath Reddy | [Read More](https://medium.com/p/b3b8d43162a7) |
-| Thu, 11 Sep 2025 06:21:18 GMT | XXE Injection in React Apps: Risks & Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/7f027b676d94) |
-| Thu, 11 Sep 2025 06:18:54 GMT | Apple’s Anti-Spyware Breakthrough: iOS Strikes Back at Pegasus | Nanthakumar | [Read More](https://medium.com/p/252df911d666) |
-| Thu, 11 Sep 2025 06:17:50 GMT | PicoCTF Web Exploitation Walkthrough -Scavenger Hunt | Deepika  B | [Read More](https://medium.com/p/31e8005202e4) |
-| Thu, 11 Sep 2025 06:11:17 GMT | Zero Trust Architecture: Secure, Proactive Cyber Defense | Anjali Moitra Roy | [Read More](https://medium.com/p/c61ff0351e1e) |
