@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 21:06:06 GMT | Warn the stars | Elijah Thomas | [Read More](https://medium.com/p/ff4dd8c85719) |
+| Thu, 11 Sep 2025 20:53:44 GMT | Over 40% of AI agent projects will be cancelled by the end of 2027 | Sidialtos | [Read More](https://medium.com/p/294bbc0a41bf) |
+| Thu, 11 Sep 2025 20:51:35 GMT | The Largest Supply Chain Attack to Hit JavaScript: What You Need to Know | Dennis Terna | [Read More](https://medium.com/p/7706447fe20f) |
+| Thu, 11 Sep 2025 20:47:00 GMT | Applying Scrum to Management Communication: Lessons from Elisha | Matthew Magelitz | [Read More](https://medium.com/p/ec5e3905140d) |
+| Thu, 11 Sep 2025 20:43:25 GMT | Choosing the Right Cybersecurity Service Provider: What You Need to Know | Akshay Chauhan | [Read More](https://medium.com/p/55350a52e0e1) |
+| Thu, 11 Sep 2025 20:38:04 GMT | Can Quantum Computers Really Crack Any Password in Seconds | Harish K | [Read More](https://medium.com/p/bb6a65712f75) |
 | Thu, 11 Sep 2025 20:27:48 GMT | The Two Paths of Future Intelligence: A Report by Jigar Joshi | Jigarjoshi | [Read More](https://medium.com/p/5939a50c6881) |
 | Thu, 11 Sep 2025 20:17:06 GMT | IT Security Audits: Strengthening Your Business Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/175ef4f33655) |
 | Thu, 11 Sep 2025 20:16:13 GMT | What’s CIAAN, CIA Triad Brother? | Kurnia Cantra | [Read More](https://medium.com/p/0953226684c2) |
@@ -108,9 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 15:49:13 GMT | From Zero to $100K: How to Become an AI Hacker in 6 Months (While Everyone Else Missed the Boat) | Qasim Mahmood Khalid | [Read More](https://medium.com/p/cdc9788d2003) |
 | Thu, 11 Sep 2025 15:47:52 GMT | Scaling Skills Development Programs in South Africa | Mr Welcome Magagula | [Read More](https://medium.com/p/c63ff56b55cb) |
 | Thu, 11 Sep 2025 15:44:57 GMT | Understanding Pre-Loading strategies in angular | Rajkamal MM | [Read More](https://medium.com/p/4f9a783bfe3c) |
-| Thu, 11 Sep 2025 15:39:59 GMT | How i tricked AI to leak personal data | William Peltomäki | [Read More](https://medium.com/p/bb709a801138) |
-| Thu, 11 Sep 2025 15:30:31 GMT | Secure Code with Generative AI | Girish Dhamane | [Read More](https://medium.com/p/cfb8f395758b) |
-| Thu, 11 Sep 2025 15:20:41 GMT | Oracle’s Historic Day: Why This 36% Stock Jump Could Change Your Fintech App Forever | Tech With Curly Girl | [Read More](https://medium.com/p/fcefcfd8e7ed) |
-| Thu, 11 Sep 2025 15:19:33 GMT | Progressive Sign-Up and SSO — Cutting Steps Without Losing Security | ALMAX Design and Development Agency | [Read More](https://medium.com/p/111773b31299) |
-| Thu, 11 Sep 2025 15:18:46 GMT | Building RAG Applications with Amazon Bedrock and Knowledge Bases | Rizqi Mulki | [Read More](https://medium.com/p/a135f104b443) |
-| Thu, 11 Sep 2025 15:17:40 GMT | Why Your Smart Home Is Spying On You (And How to Stop It) | The Bot Group | [Read More](https://medium.com/p/f536ce3e556d) |
