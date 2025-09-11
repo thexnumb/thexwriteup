@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 10:39:20 GMT | 81 flaws fixed. 8 critical. | TheReviewHive | [Read More](https://medium.com/p/40e6b845b898) |
+| Thu, 11 Sep 2025 10:38:44 GMT | The OSINT Tools Everyone Should Know: A Personal Safety Guide for the Digital Age | Rishisec | [Read More](https://medium.com/p/7b7e7667060e) |
+| Thu, 11 Sep 2025 10:37:32 GMT | Fake Browser Extensions Hijack Meta Business Accounts Through Madgicx Plus and Social Metrics | Jasmitharouthu | [Read More](https://medium.com/p/2833aeb66521) |
+| Thu, 11 Sep 2025 10:33:31 GMT | AI-Driven Cyber Attacks: How Deepfakes, AI Malware, and Automated Phishing Are Reshaping… | Ambala IT | [Read More](https://medium.com/p/773cd23a5143) |
+| Thu, 11 Sep 2025 10:31:58 GMT | MFA (Multi Factor Authentication) | Saksham Singh | [Read More](https://medium.com/p/458794da5c23) |
+| Thu, 11 Sep 2025 10:31:00 GMT | ️ SIEM in Action: How It Spots Hackers Before You Do | Natarajan C K | [Read More](https://medium.com/p/d289261a6ffc) |
+| Thu, 11 Sep 2025 10:31:00 GMT | Evil Twin Access Point Attacks | Esra Kayhan | [Read More](https://medium.com/p/ec09bfa3812b) |
+| Thu, 11 Sep 2025 10:30:41 GMT | Mobile Market Report 2025: Must-Know Data and Predictions | Rahul Das Gupta | [Read More](https://medium.com/p/a5f0d51a3a8f) |
+| Thu, 11 Sep 2025 10:19:43 GMT | Mobile Market Report Trends: What’s Driving 2025 Growth | Ahamed Afran | [Read More](https://medium.com/p/3e27d01465da) |
+| Thu, 11 Sep 2025 10:19:32 GMT | Cyberattacks | Gobinda Nandi | [Read More](https://medium.com/p/eeb4fc75effd) |
+| Thu, 11 Sep 2025 10:19:20 GMT | The Role of a Security Dashboard in Monitoring Account Safety | Password Manager | [Read More](https://medium.com/p/7ef08878e14b) |
 | Thu, 11 Sep 2025 10:10:56 GMT | DockerLabs Writeup — MyBB (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/335a05d4b41a) |
+| Thu, 11 Sep 2025 10:08:06 GMT | Inter-Head Instability: A Signal of Attention Disagreement in LLMs | g4m817 | [Read More](https://medium.com/p/fa5682745491) |
 | Thu, 11 Sep 2025 10:07:45 GMT | Anatomy of a Billion-download compromise: The NPM chalk and debug Supply Chain Attack | Joe Shenouda | [Read More](https://medium.com/p/416faebccfc5) |
+| Thu, 11 Sep 2025 10:07:36 GMT | ForceX Security Services — A Trusted Security Guard Company You Can Rely On | Fss | [Read More](https://medium.com/p/2c09c4de05ba) |
 | Thu, 11 Sep 2025 10:07:33 GMT | Best Endpoint Security Service Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/c8c510b20ac5) |
 | Thu, 11 Sep 2025 09:58:24 GMT | Shadow IT : The Hidden Cybersecurity Threat Lurking Inside Every Company | Leon Tyron | [Read More](https://medium.com/p/02bb325e3ef3) |
 | Thu, 11 Sep 2025 09:57:39 GMT | AI-Driven Phishing & Deepfake Scams: The Rising Cybersecurity Threat in 2025 | Ambala IT | [Read More](https://medium.com/p/53abd2f4d77e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 05:41:48 GMT | ️ My Cybersecurity Roadmap: From Curious Beginner to Ethical Hacker | SmartDaily | [Read More](https://medium.com/p/7a58d37a51ef) |
 | Thu, 11 Sep 2025 05:40:15 GMT | Advanced Free Resources for Bug Bounty Hunters | Rashadul Islam | [Read More](https://medium.com/p/b830c4a99e2f) |
 | Thu, 11 Sep 2025 05:33:42 GMT | What Types of Bugs Show Up in Fall? | Rayan Eashan | [Read More](https://medium.com/p/ff4e9f79ab98) |
-| Thu, 11 Sep 2025 05:31:44 GMT | The OAuth Security Flaw That Every Developer Ignores (Until They Get Hacked) | Sohail Saifi | [Read More](https://medium.com/p/cbb0dc7aac98) |
-| Thu, 11 Sep 2025 05:30:24 GMT | Why “Failing” a Pen Test is Actually Your Best Outcome | Aj | [Read More](https://medium.com/p/5ed52a4bd3b0) |
-| Thu, 11 Sep 2025 05:30:09 GMT | NetHunter Pro: The Phone That’s Not a Phone | Nabharaj Sawant | [Read More](https://medium.com/p/31ffa2b00805) |
-| Thu, 11 Sep 2025 05:16:47 GMT | Portswigger Web Security Academy - NoSQL injection Lab #1 | BooRuleDie | [Read More](https://medium.com/p/c02384c24fcb) |
-| Thu, 11 Sep 2025 05:14:33 GMT | Emerging AI Concepts Set to Redefine Technology in 2025 | cisprotraining | [Read More](https://medium.com/p/f1074f201110) |
-| Thu, 11 Sep 2025 05:13:12 GMT | When Antivirus Remnants Clash: Resolving High CPU Usage in Sophos Endpoint | Kiell Tampubolon | [Read More](https://medium.com/p/d3085435f0be) |
-| Thu, 11 Sep 2025 05:07:44 GMT | What Is a Thermal Printer and What Are Its Uses? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/58b96f42e62e) |
-| Thu, 11 Sep 2025 05:06:56 GMT | The Language of Embrace | Mardiana Ayu | [Read More](https://medium.com/p/33a6beb330f9) |
-| Thu, 11 Sep 2025 04:51:08 GMT | The AI Models: From Academic Labs to Real-World Impact | RafalW3bCraft | [Read More](https://medium.com/p/d5a3fc270100) |
-| Thu, 11 Sep 2025 04:39:49 GMT | Subdomain Takeover: Quick-Check Cheat sheet for Security Testing | MkNayek | [Read More](https://medium.com/p/a42409cd405d) |
-| Thu, 11 Sep 2025 04:30:32 GMT | Konsep Komponen Sistem Komputer | Stevany Siregar | [Read More](https://medium.com/p/a8e8e26376b7) |
-| Thu, 11 Sep 2025 04:28:47 GMT | Security Automation: Automating Security Tasks | Cyber Security Research | [Read More](https://medium.com/p/998f416a91d1) |
-| Thu, 11 Sep 2025 04:27:08 GMT | Belajar Analisis PCAP: Dari HTTPS Sampai Dridex Malware | Zulfianarahmi | [Read More](https://medium.com/p/fd43e5d94b92) |
