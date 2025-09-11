@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 20:27:48 GMT | The Two Paths of Future Intelligence: A Report by Jigar Joshi | Jigarjoshi | [Read More](https://medium.com/p/5939a50c6881) |
+| Thu, 11 Sep 2025 20:17:06 GMT | IT Security Audits: Strengthening Your Business Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/175ef4f33655) |
 | Thu, 11 Sep 2025 20:16:13 GMT | What’s CIAAN, CIA Triad Brother? | Kurnia Cantra | [Read More](https://medium.com/p/0953226684c2) |
 | Thu, 11 Sep 2025 20:12:50 GMT | The Linux Security Journey — Guard Pages | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/47b04586a68e) |
 | Thu, 11 Sep 2025 20:11:07 GMT | Apple’s New Memory Integrity Enforcement: A Game Changer for iPhone Security (but not invincible) | Macoy Gehrke | [Read More](https://medium.com/p/2ac2846b1031) |
@@ -112,5 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 15:19:33 GMT | Progressive Sign-Up and SSO — Cutting Steps Without Losing Security | ALMAX Design and Development Agency | [Read More](https://medium.com/p/111773b31299) |
 | Thu, 11 Sep 2025 15:18:46 GMT | Building RAG Applications with Amazon Bedrock and Knowledge Bases | Rizqi Mulki | [Read More](https://medium.com/p/a135f104b443) |
 | Thu, 11 Sep 2025 15:17:40 GMT | Why Your Smart Home Is Spying On You (And How to Stop It) | The Bot Group | [Read More](https://medium.com/p/f536ce3e556d) |
-| Thu, 11 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 11, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ee0cb7546ae7) |
-| Thu, 11 Sep 2025 15:05:51 GMT | 63% Orgs Say Quantum Computing Will Shift Cyber Risks, Yet Only 5% Actively Plan | Ahazzadnan | [Read More](https://medium.com/p/513a8ddd82f7) |
