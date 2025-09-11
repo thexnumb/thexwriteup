@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 13:34:36 GMT | [TryHackMe] Expose | digistam | [Read More](https://medium.com/p/34472b462b82) |
+| Thu, 11 Sep 2025 13:29:29 GMT | How I Escalated a Navigation Bug Into Trusted-Origin File Downloads | MostReal | [Read More](https://medium.com/p/0dca4c38d896) |
+| Thu, 11 Sep 2025 13:22:58 GMT | Broken Access Control And Portswigger Solved Labs | babambabam | [Read More](https://medium.com/p/460c209834e4) |
+| Thu, 11 Sep 2025 13:20:16 GMT | Why Cyber Security is the Hottest Career Choice in the Coming Years? | Veridical Technologies | [Read More](https://medium.com/p/dbc01bcc0877) |
 | Thu, 11 Sep 2025 13:19:08 GMT | How Flash Loans Enabled Scammers Steal $13.3M From BetterBank & Bunni v2 | Scofield O. Idehen | [Read More](https://medium.com/p/c02ba0eb53ff) |
 | Thu, 11 Sep 2025 13:17:03 GMT | Find 10x More Bugs With These 3 Free Extensions | Ibtissam hammadi | [Read More](https://medium.com/p/d052fdc18ded) |
 | Thu, 11 Sep 2025 13:16:46 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/2aab7f42fa73) |
@@ -27,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 12:58:14 GMT | Instagram Hacking Guide: How to Hack an Account from Instagram? | Sandra Thomson | [Read More](https://medium.com/p/a7b00105bfe7) |
 | Thu, 11 Sep 2025 12:58:12 GMT | Cut AI Hallucinations in 30 Minutes: Ask, Ground, Decide. | Tochukwu Okonkwor | [Read More](https://medium.com/p/4be1f1dc62bb) |
 | Thu, 11 Sep 2025 12:57:55 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/067822d80767) |
+| Thu, 11 Sep 2025 12:57:06 GMT | 4 Dimensions of AI Governance Every Enterprise Must Get Right | Verma Niraj K | [Read More](https://medium.com/p/79e0e5e31c89) |
 | Thu, 11 Sep 2025 12:55:24 GMT | From Paper to Practice: Building My First Email Phishing Classifier | Rebecca Ssesanga | [Read More](https://medium.com/p/588f347709d7) |
 | Thu, 11 Sep 2025 12:51:35 GMT | ️ How to Upgrade Your Kubernetes Cluster (Step by Step Guide) | CodeGenitor | [Read More](https://medium.com/p/a2b027002865) |
 | Thu, 11 Sep 2025 12:40:39 GMT | How the Tea Dating App Leaked 1.1M Messages, and Why It Still Ranks Top 3 | Laura Mat | [Read More](https://medium.com/p/62472f39416f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 08:39:26 GMT | Digisol DG-GR1321: Plaintext Password Storage Vulnerability (CVE-2024–4232) | Redfox Security | [Read More](https://medium.com/p/7a870f8243b8) |
 | Thu, 11 Sep 2025 08:26:12 GMT | Why Third-Party Risk Management Can No Longer Be Ignored | Prerna Shukla | [Read More](https://medium.com/p/0f75cd304d09) |
 | Thu, 11 Sep 2025 08:23:23 GMT | npm Hacked, Millions Affected | S.Ali | [Read More](https://medium.com/p/b422114fd8e9) |
-| Thu, 11 Sep 2025 08:23:20 GMT | From My eBook “Stop Spam Calls & Texts”: The Simple System to Take Back Your Phone | Ethan Cole | [Read More](https://medium.com/p/b06029189f4e) |
-| Thu, 11 Sep 2025 08:20:51 GMT | Best IT Consulting, Web & Mobile App Development in India | Pentoz | [Read More](https://medium.com/p/abbe229b139a) |
-| Thu, 11 Sep 2025 08:18:01 GMT | Kioptrix: Level 1 (#1) | DAZ00X | [Read More](https://medium.com/p/0a9beb51ea53) |
-| Thu, 11 Sep 2025 08:16:13 GMT | Which certification is best for networking? | cyber security Updates | [Read More](https://medium.com/p/ec010e8c40a0) |
-| Thu, 11 Sep 2025 08:13:44 GMT | ประจำวันพฤหัสบดีที่ 11 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/250a8f6302f4) |
