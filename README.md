@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 09:37:13 GMT | Mastering Vulnerability Management: Why Context Is Everything | Lovelesh Gangil | [Read More](https://medium.com/p/3e87116e0174) |
+| Thu, 11 Sep 2025 09:32:32 GMT | My Journey to Earning the Certified Associate Penetration Tester (CAPT) Certification | anonymous.gharti | [Read More](https://medium.com/p/5169cd7cc739) |
+| Thu, 11 Sep 2025 09:32:15 GMT | 7 FastAPI Security Moves That Ship | Bhagya Rana | [Read More](https://medium.com/p/21510086b22b) |
+| Thu, 11 Sep 2025 09:32:15 GMT | How I Accidentally Leaked Keys in CI — The Fix That Should Be Standard | Techno Diaries | [Read More](https://medium.com/p/4231a5c6a7cc) |
+| Thu, 11 Sep 2025 09:18:49 GMT | Cloud Native Application Security (CNAPP): A Game Changer In Cybersecurity | Cloud Kinetics | [Read More](https://medium.com/p/0ad120791b26) |
 | Thu, 11 Sep 2025 09:13:01 GMT | Mastering Misconfigured NFS, SMB, and FTP Shares: Step-by-Step Pentesting Guide for IT… | Very Lazy Tech | [Read More](https://medium.com/p/99e2cf769748) |
 | Thu, 11 Sep 2025 09:12:38 GMT | The Role of Cybersecurity in Protecting Digital Payments | Muhammedafnan | [Read More](https://medium.com/p/41e8365837be) |
 | Thu, 11 Sep 2025 09:08:42 GMT | Agentic AI — The Beginning of a Larger Story | CloudifyOps | [Read More](https://medium.com/p/fdc3506bbad4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 04:05:18 GMT | Configuration Management: Ensuring Consistent Security Settings | Cyber Security Research | [Read More](https://medium.com/p/c3fdde189221) |
 | Thu, 11 Sep 2025 03:59:19 GMT | YOU ARE HACKED! | Shimonto Chowdhury | [Read More](https://medium.com/p/00668cb8c356) |
 | Thu, 11 Sep 2025 03:57:27 GMT | SafeLine WAF Hands-On: The Free Security Tool You Didn’t Know You Needed | Quella | [Read More](https://medium.com/p/438047b5d4b2) |
-| Thu, 11 Sep 2025 03:53:33 GMT | EC2 Network Security | Rick Yang | [Read More](https://medium.com/p/208de05935a8) |
-| Thu, 11 Sep 2025 03:33:41 GMT | Millions of Travel Records Leaked: Navan’s Website Dangerous Vulnerability” | Halalalimii | [Read More](https://medium.com/p/538464bd366c) |
-| Thu, 11 Sep 2025 03:31:42 GMT | Cyber & AI Nexus: JLR Hacked, Apple & Google Unite, and the Future of Medicine | Akshat Ratanpal | [Read More](https://medium.com/p/7be68879d828) |
-| Thu, 11 Sep 2025 03:31:42 GMT | 10 Common Mistakes in Node.js Deserialization Security | Arunangshu Das | [Read More](https://medium.com/p/3399fb38fab0) |
-| Thu, 11 Sep 2025 03:17:48 GMT | How to Install Burp Suite in Kali Linux (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/00b19b25f803) |
