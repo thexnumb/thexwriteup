@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 18:18:20 GMT | PG Play — FunboxEasyEnum (Linux) | Lepton | [Read More](https://medium.com/p/2c6120bcf512) |
+| Thu, 11 Sep 2025 18:18:08 GMT | Safe by Default: Building a Minimal, Rootless Sandbox on Linux | Trevor Woollacott | [Read More](https://medium.com/p/4fcc02d9bed0) |
+| Thu, 11 Sep 2025 18:16:52 GMT | The Cyber Security Details Handbook | Cyber Security Research | [Read More](https://medium.com/p/3858ed529cb5) |
+| Thu, 11 Sep 2025 18:11:44 GMT | Decoding Cyber Security: A Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/7263a32358e1) |
+| Thu, 11 Sep 2025 18:02:16 GMT | One Click Account Takeover: how an insecure password-reset flow + mass assignment leads to full… | القنصل | [Read More](https://medium.com/p/62f1bf17821d) |
+| Thu, 11 Sep 2025 18:02:01 GMT | El mejor camino para entrar es entender por qué otros no lo ven | Gorka | [Read More](https://medium.com/p/87c051c7011c) |
+| Thu, 11 Sep 2025 18:00:38 GMT | *The Evolution of Cybersecurity: Protecting Our Digital Future* | Iliya Kulaha | [Read More](https://medium.com/p/3e7e1a1231fa) |
+| Thu, 11 Sep 2025 17:57:03 GMT | Why GRC Engineering Is The Future Of Governance, Risk & Compliance | Taimur Ijlal | [Read More](https://medium.com/p/91a1b06980ed) |
+| Thu, 11 Sep 2025 17:56:15 GMT | Telegram @ablertgonzalez Earn Via PayPal cashapp Bank ccEarn 2500 dollars daily via PayPal cashapp… | Blackbox | [Read More](https://medium.com/p/4ff31594d57a) |
+| Thu, 11 Sep 2025 17:53:56 GMT | Brutus write-up [auth.log & wtmp] | Cy3erS@up | [Read More](https://medium.com/p/5e5567d07e5e) |
+| Thu, 11 Sep 2025 17:53:37 GMT | SCHS: The Security System That Heals, Shields, and Verifies | Tolu Adewole | [Read More](https://medium.com/p/af5e631c6deb) |
+| Thu, 11 Sep 2025 17:47:23 GMT | Phishing & Social Engineering Campaign Simulation | Muse Abdulrahmon | [Read More](https://medium.com/p/1167dded7063) |
+| Thu, 11 Sep 2025 17:45:57 GMT | Why Your Personal Data Is Worth More Than Gold | Soban Majeed | [Read More](https://medium.com/p/17f253071ac6) |
+| Thu, 11 Sep 2025 17:34:45 GMT | The Day I Stopped Saying “I’m Fine” | Darpan Murly | [Read More](https://medium.com/p/7722667b4d3a) |
 | Thu, 11 Sep 2025 17:27:29 GMT | Exposed: 38 terabytes of private data from Azure! | IsaacFabianK | [Read More](https://medium.com/p/e968a454995c) |
 | Thu, 11 Sep 2025 17:27:24 GMT | BLE Penetration Testing-1 | Theo | [Read More](https://medium.com/p/1e4c57f47fcc) |
 | Thu, 11 Sep 2025 17:23:37 GMT | Shadow AI: The Unauthorized Security Risk Hiding in Plain Sight | Eric Zietlow | [Read More](https://medium.com/p/ff1767b98085) |
@@ -100,17 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 13:01:42 GMT | Notes on Red Teaming AI | Danish | [Read More](https://medium.com/p/2126be1cb445) |
 | Thu, 11 Sep 2025 12:58:14 GMT | Instagram Hacking Guide: How to Hack an Account from Instagram? | Sandra Thomson | [Read More](https://medium.com/p/a7b00105bfe7) |
 | Thu, 11 Sep 2025 12:58:12 GMT | Cut AI Hallucinations in 30 Minutes: Ask, Ground, Decide. | Tochukwu Okonkwor | [Read More](https://medium.com/p/4be1f1dc62bb) |
-| Thu, 11 Sep 2025 12:57:55 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/067822d80767) |
-| Thu, 11 Sep 2025 12:57:06 GMT | 4 Dimensions of AI Governance Every Enterprise Must Get Right | Verma Niraj K | [Read More](https://medium.com/p/79e0e5e31c89) |
-| Thu, 11 Sep 2025 12:55:24 GMT | From Paper to Practice: Building My First Email Phishing Classifier | Rebecca Ssesanga | [Read More](https://medium.com/p/588f347709d7) |
-| Thu, 11 Sep 2025 12:51:35 GMT | ️ How to Upgrade Your Kubernetes Cluster (Step by Step Guide) | CodeGenitor | [Read More](https://medium.com/p/a2b027002865) |
-| Thu, 11 Sep 2025 12:40:39 GMT | How the Tea Dating App Leaked 1.1M Messages, and Why It Still Ranks Top 3 | Laura Mat | [Read More](https://medium.com/p/62472f39416f) |
-| Thu, 11 Sep 2025 12:35:09 GMT | Introduction | Fss | [Read More](https://medium.com/p/5c559ceae18a) |
-| Thu, 11 Sep 2025 12:31:40 GMT | Search Exploit Like Real Hackers.. | Mainekhacker | [Read More](https://medium.com/p/082d762abf0a) |
-| Thu, 11 Sep 2025 12:29:59 GMT | CVE-2025–55145, CVE-2025–55147, CVE-2025–55148, CVE-2025–55141, and CVE-2025–55142: Ivanti Remote… | gm0 | [Read More](https://medium.com/p/8a4a2703dc72) |
-| Thu, 11 Sep 2025 12:29:28 GMT | AWS Digital Sovereignty Solution: Executive Summary | Cesar Schneider | [Read More](https://medium.com/p/b645e73dff5d) |
-| Thu, 11 Sep 2025 12:28:26 GMT | AI Is Reshaping Careers, Not Replacing Them | Alireza Ghahrood | [Read More](https://medium.com/p/839d1b8746a6) |
-| Thu, 11 Sep 2025 12:25:51 GMT | What is Python? A Beginner’s Complete Guide | Nishubirla | [Read More](https://medium.com/p/57eb61f93254) |
-| Thu, 11 Sep 2025 12:22:26 GMT | How to protect your computer from viruses and hackers? | Anisha Carvalho | [Read More](https://medium.com/p/6f08e12442c7) |
-| Thu, 11 Sep 2025 12:22:22 GMT | A Jobsworth’s Doing | Imani Hekima | [Read More](https://medium.com/p/166433c665c6) |
-| Thu, 11 Sep 2025 12:20:45 GMT | What is OWASP, and the OWASP Top 10 | Samita | [Read More](https://medium.com/p/d9fe25471385) |
