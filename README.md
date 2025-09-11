@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 04:30:32 GMT | Konsep Komponen Sistem Komputer | Stevany Siregar | [Read More](https://medium.com/p/a8e8e26376b7) |
+| Thu, 11 Sep 2025 04:28:47 GMT | Security Automation: Automating Security Tasks | Cyber Security Research | [Read More](https://medium.com/p/998f416a91d1) |
+| Thu, 11 Sep 2025 04:27:08 GMT | Belajar Analisis PCAP: Dari HTTPS Sampai Dridex Malware | Zulfianarahmi | [Read More](https://medium.com/p/fd43e5d94b92) |
+| Thu, 11 Sep 2025 04:24:54 GMT | OSINT: The Weaponization of Public Data | Anushka Rodrigo | [Read More](https://medium.com/p/e1626533ca02) |
 | Thu, 11 Sep 2025 04:20:45 GMT | Cisco + Splunk recently announced a major upgrade for Security Operations Center (SOC) teams using… | Pk Atwork | [Read More](https://medium.com/p/3c4fadf17505) |
+| Thu, 11 Sep 2025 04:14:58 GMT | Log Management: Collecting and Analyzing Security Logs | Cyber Security Research | [Read More](https://medium.com/p/43cb056716e0) |
 | Thu, 11 Sep 2025 04:10:16 GMT | Patch Management: Applying Security Updates | Cyber Security Research | [Read More](https://medium.com/p/31537e28e5cd) |
 | Thu, 11 Sep 2025 04:07:44 GMT | Why Blockchain Security Is a National Priority for the U.S. Economy | Nasir Naqvi | [Read More](https://medium.com/p/5f149d83567d) |
 | Thu, 11 Sep 2025 04:05:18 GMT | Configuration Management: Ensuring Consistent Security Settings | Cyber Security Research | [Read More](https://medium.com/p/c3fdde189221) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 19:44:15 GMT | Cybersecurity Basics: 10 Cyber Hygiene Practices Every Beginner Should Adopt Today | vydhi | [Read More](https://medium.com/p/26a2227d325c) |
 | Wed, 10 Sep 2025 19:44:03 GMT | Suscripciones, datificación, secretos y abusos | Marvin G. Soto | [Read More](https://medium.com/p/dd9376ab479e) |
 | Wed, 10 Sep 2025 19:37:30 GMT | Kioptrix _l Writeup — Samba trans2open → root | Mahmoudelshorpagy | [Read More](https://medium.com/p/ac648ba5877a) |
-| Wed, 10 Sep 2025 19:26:55 GMT | Linux Container Security | Eren Cankut Uysal | [Read More](https://medium.com/p/1b5203f92af3) |
-| Wed, 10 Sep 2025 19:26:43 GMT | Issue #1 | Dan Mahoney | [Read More](https://medium.com/p/7b0f80cc65ff) |
-| Wed, 10 Sep 2025 19:26:39 GMT | Migrating Connected Apps to External Client Apps from an ISV / External App Management Perspective | Justus van den Berg | [Read More](https://medium.com/p/e155875a0974) |
-| Wed, 10 Sep 2025 19:25:27 GMT | The Shocking Truth About AI Automation Nobody Wants to Admit | Kainat Nafees | [Read More](https://medium.com/p/76e767d72909) |
-| Wed, 10 Sep 2025 19:22:01 GMT | Web API Authentication and Authorization: A Friendly Guide with Real-Life Examples | Kshitiz Chaudhary | [Read More](https://medium.com/p/8505f40fd2c2) |
