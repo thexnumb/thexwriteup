@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 11, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ee0cb7546ae7) |
+| Thu, 11 Sep 2025 15:05:51 GMT | 63% Orgs Say Quantum Computing Will Shift Cyber Risks, Yet Only 5% Actively Plan | Ahazzadnan | [Read More](https://medium.com/p/513a8ddd82f7) |
+| Thu, 11 Sep 2025 15:03:31 GMT | The First Steps to Configuring Your Dedicated Server | Milaharris | [Read More](https://medium.com/p/b65a3dada11c) |
+| Thu, 11 Sep 2025 14:57:42 GMT | SOC2, ISO27001 and how to meet security | Juan Matías de la Cámara Beovide | [Read More](https://medium.com/p/05e3b1c28a8b) |
+| Thu, 11 Sep 2025 14:54:30 GMT | Building the Guardrails: A Cybersecurity Pioneer’s Pivot to the AI Frontier | Vibhanshu Jain | [Read More](https://medium.com/p/cef1e68f7328) |
+| Thu, 11 Sep 2025 14:50:27 GMT | Complete Guide to Burglar Alarm System Manhattan - SafeZone Professional Security Installer | Exploring Cleaning, Security and Crypto | [Read More](https://medium.com/p/336381f79290) |
+| Thu, 11 Sep 2025 14:47:41 GMT | Space IoT: Under Siege. | Wes Young | [Read More](https://medium.com/p/c69345790b0d) |
+| Thu, 11 Sep 2025 14:46:30 GMT | NVIDIA NVDebug Tool Vulnerability Exposes Systems to Privilege Escalation | Chetan Seripally | [Read More](https://medium.com/p/735cb420cfa1) |
+| Thu, 11 Sep 2025 14:38:22 GMT | “Beyond the Obvious: How a Dead-End XXE Led to a Critical SQLi Goldmine” | Aman Sharma | [Read More](https://medium.com/p/d368f5ddaadc) |
 | Thu, 11 Sep 2025 14:31:23 GMT | Capgemini - Wipro - Mphasis Automation Testing Interview – 8 Years Experience (Shared by a… | Coding Ninja | [Read More](https://medium.com/p/b08ae2b7e435) |
 | Thu, 11 Sep 2025 14:29:49 GMT | Industry 4.0 and Cybersecurity: The Hidden Battle Behind the Smart Factory Revolution | Pavlović Goran | [Read More](https://medium.com/p/bb33dc4acb78) |
 | Thu, 11 Sep 2025 14:25:17 GMT | HTB pro lab Offshore review | real redinna | [Read More](https://medium.com/p/fa0381be9e3a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 10:19:43 GMT | Mobile Market Report Trends: What’s Driving 2025 Growth | Ahamed Afran | [Read More](https://medium.com/p/3e27d01465da) |
 | Thu, 11 Sep 2025 10:19:32 GMT | Cyberattacks | Gobinda Nandi | [Read More](https://medium.com/p/eeb4fc75effd) |
 | Thu, 11 Sep 2025 10:19:20 GMT | The Role of a Security Dashboard in Monitoring Account Safety | Password Manager | [Read More](https://medium.com/p/7ef08878e14b) |
-| Thu, 11 Sep 2025 10:10:56 GMT | DockerLabs Writeup — MyBB (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/335a05d4b41a) |
-| Thu, 11 Sep 2025 10:08:06 GMT | Inter-Head Instability: A Signal of Attention Disagreement in LLMs | g4m817 | [Read More](https://medium.com/p/fa5682745491) |
-| Thu, 11 Sep 2025 10:07:45 GMT | Anatomy of a Billion-download compromise: The NPM chalk and debug Supply Chain Attack | Joe Shenouda | [Read More](https://medium.com/p/416faebccfc5) |
-| Thu, 11 Sep 2025 10:07:36 GMT | ForceX Security Services — A Trusted Security Guard Company You Can Rely On | Fss | [Read More](https://medium.com/p/2c09c4de05ba) |
-| Thu, 11 Sep 2025 10:07:33 GMT | Best Endpoint Security Service Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/c8c510b20ac5) |
-| Thu, 11 Sep 2025 09:58:24 GMT | Shadow IT : The Hidden Cybersecurity Threat Lurking Inside Every Company | Leon Tyron | [Read More](https://medium.com/p/02bb325e3ef3) |
-| Thu, 11 Sep 2025 09:57:39 GMT | AI-Driven Phishing & Deepfake Scams: The Rising Cybersecurity Threat in 2025 | Ambala IT | [Read More](https://medium.com/p/53abd2f4d77e) |
-| Thu, 11 Sep 2025 09:56:44 GMT | Security Profiles | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/2f4585404a5d) |
-| Thu, 11 Sep 2025 09:47:39 GMT | Cybersecurity Without a CISO: Is It Possible for SMEs? | Evgeny Ermakov | [Read More](https://medium.com/p/de1773a4a5cc) |
