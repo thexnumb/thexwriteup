@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 08:20:51 GMT | Best IT Consulting, Web & Mobile App Development in India | Pentoz | [Read More](https://medium.com/p/abbe229b139a) |
+| Thu, 11 Sep 2025 08:18:01 GMT | Kioptrix: Level 1 (#1) | DAZ00X | [Read More](https://medium.com/p/0a9beb51ea53) |
+| Thu, 11 Sep 2025 08:16:13 GMT | Which certification is best for networking? | cyber security Updates | [Read More](https://medium.com/p/ec010e8c40a0) |
+| Thu, 11 Sep 2025 08:13:43 GMT | AI and Cybersecurity Risks and Protection in 2025 | Macromodule Technologies | [Read More](https://medium.com/p/596d0039fbdd) |
+| Thu, 11 Sep 2025 08:11:17 GMT | Open Source AI: Savior or Security Nightmare? | R A N A   A H M A D | [Read More](https://medium.com/p/39b97752c86c) |
+| Thu, 11 Sep 2025 08:10:18 GMT | Enough AI Already | William Essex | [Read More](https://medium.com/p/d409359a0001) |
+| Thu, 11 Sep 2025 08:09:16 GMT | Weaponizing Automation: Crafting a custom recon pipeline for pentesters | Aenosh Rajora | [Read More](https://medium.com/p/cdfeaa1f1887) |
+| Thu, 11 Sep 2025 08:08:09 GMT | is hydraulic fluid flammable | Whyps | [Read More](https://medium.com/p/572fa7ac692e) |
+| Thu, 11 Sep 2025 08:02:22 GMT | Critical Malicious Packages Spread via NPM: September 8, 2025 Incident | irem ozyurt | [Read More](https://medium.com/p/166b50baa76d) |
+| Thu, 11 Sep 2025 08:01:52 GMT | 10-Minute Vendor Exposure Audit: Check Your Supplier List for Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/218605ff2dd8) |
+| Thu, 11 Sep 2025 08:01:38 GMT | 5 Key Benefits of Adversary Simulation for Businesses | DL Info Shield | [Read More](https://medium.com/p/8bdb2b0cf1a8) |
+| Thu, 11 Sep 2025 07:52:23 GMT | Kioptrix Level 2 Writeup — SQLi → Command Injection → Root | Mahmoudelshorpagy | [Read More](https://medium.com/p/d1519d5fa099) |
+| Thu, 11 Sep 2025 07:47:17 GMT | How to Start Bug Hunting: Your Path to Earning Cash for Code Flaws | Aj | [Read More](https://medium.com/p/39df2d33407b) |
+| Thu, 11 Sep 2025 07:45:42 GMT | Growth Mindset vs Fixed Mindset in Facility Management | EXLITY | [Read More](https://medium.com/p/24678a849438) |
+| Thu, 11 Sep 2025 07:44:51 GMT | I Wrote One Affirmation for 3 Days and Forgot About It.15 Days Later, $500 Showed Up | Mansi golecha | [Read More](https://medium.com/p/6501bdb18292) |
+| Thu, 11 Sep 2025 07:41:46 GMT | [번역] npm debug 및 chalk 패키지 손상 | Nayounsang | [Read More](https://medium.com/p/bcba92cfb951) |
+| Thu, 11 Sep 2025 07:39:05 GMT | Major cybersecurity firms outsourcing their cyberattack/hacking capabilities from India in 2025 | Techtrekkertech | [Read More](https://medium.com/p/5e07c04be622) |
 | Thu, 11 Sep 2025 07:34:28 GMT | 30 Pen Testing Experts in Dubai You Should Know (2025 Guide) | Qualysec | [Read More](https://medium.com/p/bab890220700) |
 | Thu, 11 Sep 2025 07:33:33 GMT | The Daily Tech Digest: 11 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/472937f4a0cf) |
 | Thu, 11 Sep 2025 07:31:42 GMT | How to change IP every 5 seconds — Total Anonymity | Aadarsh Nagrath | [Read More](https://medium.com/p/5d98091f4657) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 01:27:01 GMT | Spaces in FinderBee: Organized, Secure AI Service Management | Ritheesh Reddy | [Read More](https://medium.com/p/996315bc6bfc) |
 | Thu, 11 Sep 2025 01:18:35 GMT | Integrating Dockerized Wazuh with Slack | Mw3ndwa Victor | [Read More](https://medium.com/p/be7a65ec3998) |
 | Thu, 11 Sep 2025 01:07:44 GMT | I Googled My Own Name and What I Found Will Terrify You! | Tasmia Sharmin | [Read More](https://medium.com/p/af7926d67574) |
-| Thu, 11 Sep 2025 00:53:01 GMT | Salesforce Drift OAuth Breach: When Tokens Become Skeleton Keys | Rue | [Read More](https://medium.com/p/f1eb5929b5d9) |
-| Thu, 11 Sep 2025 00:52:16 GMT | The 12 Most Useful AI Prompting Laws for MSP Go-To-Market | Nikolay Gul | [Read More](https://medium.com/p/8e9b2c99e729) |
-| Thu, 11 Sep 2025 00:51:06 GMT | Cybersecurity Lessons from VOXCompanies®’s Infrastructure | VOXCompanies | [Read More](https://medium.com/p/32f508097dbe) |
-| Thu, 11 Sep 2025 00:50:40 GMT | Securing the AI Goldrush: A Cybersecurity Professional’s View | Shae Turner | [Read More](https://medium.com/p/eb839e10bf07) |
-| Thu, 11 Sep 2025 00:45:47 GMT | Allsafe — Android Writeup | Aybora Ünveren | [Read More](https://medium.com/p/1053e444ff67) |
-| Thu, 11 Sep 2025 00:43:15 GMT | Building a Secure Software Development Lifecycle (SDLC) | Samina Perveen | [Read More](https://medium.com/p/dc0f3bab57ee) |
-| Thu, 11 Sep 2025 00:32:09 GMT | Home Lab Setup for SOC101 | Justin Blake | [Read More](https://medium.com/p/98b9b7289526) |
-| Thu, 11 Sep 2025 00:31:02 GMT | The SmartVoiceNotes Build Series: 9 Lessons From Security, SaaS, and Solo Building | Shae Turner | [Read More](https://medium.com/p/0fd7b524622a) |
-| Thu, 11 Sep 2025 00:28:55 GMT | Linux Rootkit Detection and Removal | Eren Cankut Uysal | [Read More](https://medium.com/p/786ebbb1222a) |
-| Thu, 11 Sep 2025 00:23:37 GMT | Linux System Hardening Checklist | Eren Cankut Uysal | [Read More](https://medium.com/p/4d8a395fe263) |
-| Thu, 11 Sep 2025 00:18:19 GMT | Linux Intrusion Detection Systems (IDS) | Eren Cankut Uysal | [Read More](https://medium.com/p/978a2f097dad) |
-| Thu, 11 Sep 2025 00:12:23 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/27e41ffc002c) |
-| Thu, 11 Sep 2025 00:07:05 GMT | Security Procedures: Implementing Security Controls | Cyber Security Research | [Read More](https://medium.com/p/e7f485825fe7) |
-| Thu, 11 Sep 2025 00:06:29 GMT | Developing Secure Authentication Solutions with NextAuth.js | @rnab | [Read More](https://medium.com/p/4646b496fb7b) |
-| Thu, 11 Sep 2025 00:00:14 GMT | 5 ChatGPT Prompts To Create Content No One Can Steal | Nauman khan | [Read More](https://medium.com/p/77cbd9216802) |
-| Wed, 10 Sep 2025 23:53:15 GMT | Public Key Infrastructure (PKI): Managing Digital Identities | Cyber Security Research | [Read More](https://medium.com/p/806d6282599c) |
-| Wed, 10 Sep 2025 23:49:29 GMT | seven ways to secure your Node.js | Suraj Khonde | [Read More](https://medium.com/p/2e0a48db5fcd) |
