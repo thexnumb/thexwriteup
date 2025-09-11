@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 21:31:46 GMT | PG Play — Gaara (Linux) | Lepton | [Read More](https://medium.com/p/3089b0354a76) |
+| Thu, 11 Sep 2025 21:23:51 GMT | Cephalus Ransomware: A Dive into a Modern Ransomware Threat | Shivam Kanodia | [Read More](https://medium.com/p/90f09b9519f4) |
 | Thu, 11 Sep 2025 21:06:06 GMT | Warn the stars | Elijah Thomas | [Read More](https://medium.com/p/ff4dd8c85719) |
+| Thu, 11 Sep 2025 21:03:25 GMT | Reactive vs. Proactive Security ️ | Htut Aung Hlaing | [Read More](https://medium.com/p/6e4ad3333b6a) |
 | Thu, 11 Sep 2025 20:53:44 GMT | Over 40% of AI agent projects will be cancelled by the end of 2027 | Sidialtos | [Read More](https://medium.com/p/294bbc0a41bf) |
 | Thu, 11 Sep 2025 20:51:35 GMT | The Largest Supply Chain Attack to Hit JavaScript: What You Need to Know | Dennis Terna | [Read More](https://medium.com/p/7706447fe20f) |
 | Thu, 11 Sep 2025 20:47:00 GMT | Applying Scrum to Management Communication: Lessons from Elisha | Matthew Magelitz | [Read More](https://medium.com/p/ec5e3905140d) |
@@ -111,6 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 16:02:27 GMT | Cryptocurrency Theft Is Skyrocketing — Secure Your Assets Now | Generational Wealth | [Read More](https://medium.com/p/1b125d4b3d21) |
 | Thu, 11 Sep 2025 15:58:11 GMT | Securing the Digital Citadel: Building the SSL/TLS Drawbridge for Java and Mainframes | Eskindir Abebe Geda | [Read More](https://medium.com/p/9e28e16cee61) |
 | Thu, 11 Sep 2025 15:51:04 GMT | When Security Software Becomes the Enemy | Aj | [Read More](https://medium.com/p/b76b7951bf8a) |
-| Thu, 11 Sep 2025 15:49:13 GMT | From Zero to $100K: How to Become an AI Hacker in 6 Months (While Everyone Else Missed the Boat) | Qasim Mahmood Khalid | [Read More](https://medium.com/p/cdc9788d2003) |
-| Thu, 11 Sep 2025 15:47:52 GMT | Scaling Skills Development Programs in South Africa | Mr Welcome Magagula | [Read More](https://medium.com/p/c63ff56b55cb) |
-| Thu, 11 Sep 2025 15:44:57 GMT | Understanding Pre-Loading strategies in angular | Rajkamal MM | [Read More](https://medium.com/p/4f9a783bfe3c) |
