@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 16:16:59 GMT | How to Start a Cybersecurity Career When getting out of the Military | Cyber Cav | [Read More](https://medium.com/p/78cdf2a6a55d) |
+| Thu, 11 Sep 2025 16:16:52 GMT | Why You Should Disable Bluetooth on Linux (and How to Do It) | Citadel Cybersec | [Read More](https://medium.com/p/814d95846a58) |
+| Thu, 11 Sep 2025 16:15:36 GMT | Security vs Development. Ruby on Rails and CSP Nonce | Mariia Radzhapova | [Read More](https://medium.com/p/24d8052bf260) |
+| Thu, 11 Sep 2025 16:13:22 GMT | Case-Sensitivity Display name is worth 150$ bounty | mohaned haron | [Read More](https://medium.com/p/6871aab8a39c) |
+| Thu, 11 Sep 2025 16:11:19 GMT | Quranium Launches $QRN Public Pre-Sale on Republic | Bright Mmaduabuchi | [Read More](https://medium.com/p/4adc158872b0) |
+| Thu, 11 Sep 2025 16:11:03 GMT | When it comes to protecting our digital lives, password managers are often presented as the “holy… | Cordula Boeck | [Read More](https://medium.com/p/9017688ad0e4) |
+| Thu, 11 Sep 2025 16:08:45 GMT | Security vs Development. Ruby on Rails and CSP Nonce | Mariia Radzhapova | [Read More](https://medium.com/p/9c2638048b28) |
+| Thu, 11 Sep 2025 16:03:17 GMT | Malware Development Technique Database | S12 - 0x12Dark Development | [Read More](https://medium.com/p/20948167a2bf) |
+| Thu, 11 Sep 2025 16:02:27 GMT | Cryptocurrency Theft Is Skyrocketing — Secure Your Assets Now | Generational Wealth | [Read More](https://medium.com/p/1b125d4b3d21) |
+| Thu, 11 Sep 2025 15:58:11 GMT | Securing the Digital Citadel: Building the SSL/TLS Drawbridge for Java and Mainframes | Eskindir Abebe Geda | [Read More](https://medium.com/p/9e28e16cee61) |
+| Thu, 11 Sep 2025 15:51:04 GMT | When Security Software Becomes the Enemy | Aj | [Read More](https://medium.com/p/b76b7951bf8a) |
+| Thu, 11 Sep 2025 15:49:13 GMT | From Zero to $100K: How to Become an AI Hacker in 6 Months (While Everyone Else Missed the Boat) | Qasim Mahmood Khalid | [Read More](https://medium.com/p/cdc9788d2003) |
+| Thu, 11 Sep 2025 15:47:52 GMT | Scaling Skills Development Programs in South Africa | Mr Welcome Magagula | [Read More](https://medium.com/p/c63ff56b55cb) |
+| Thu, 11 Sep 2025 15:44:57 GMT | Understanding Pre-Loading strategies in angular | Rajkamal MM | [Read More](https://medium.com/p/4f9a783bfe3c) |
+| Thu, 11 Sep 2025 15:39:59 GMT | How i tricked AI to leak personal data | William Peltomäki | [Read More](https://medium.com/p/bb709a801138) |
 | Thu, 11 Sep 2025 15:30:31 GMT | Secure Code with Generative AI | Girish Dhamane | [Read More](https://medium.com/p/cfb8f395758b) |
 | Thu, 11 Sep 2025 15:20:41 GMT | Oracle’s Historic Day: Why This 36% Stock Jump Could Change Your Fintech App Forever | Tech With Curly Girl | [Read More](https://medium.com/p/fcefcfd8e7ed) |
 | Thu, 11 Sep 2025 15:19:33 GMT | Progressive Sign-Up and SSO — Cutting Steps Without Losing Security | ALMAX Design and Development Agency | [Read More](https://medium.com/p/111773b31299) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 11:21:55 GMT | When Trust Collapses: The Blockchain Security Crisis and the Path to a New Architecture | X1 EcoChain | [Read More](https://medium.com/p/7a731d678dcb) |
 | Thu, 11 Sep 2025 11:14:48 GMT | What is User Entity and Behavior Analytics? | Stellar Cyber | [Read More](https://medium.com/p/784073852195) |
 | Thu, 11 Sep 2025 11:09:32 GMT | ️ TryHackMe SOC Role in Blue Team — Walkthrough & Lessons Learned | Furkanctiner | [Read More](https://medium.com/p/2ece9f4c5ae4) |
-| Thu, 11 Sep 2025 11:07:22 GMT | How I Landed My First Bug Bounty From a Basic XSS (Yes, Really) | Dhruvdeep Singh | [Read More](https://medium.com/p/b48fce3379d6) |
-| Thu, 11 Sep 2025 11:02:45 GMT | How I Hacked a Server Protected by a Goat: A Kioptrix Level 3 Walkthrough | MazenTurky | [Read More](https://medium.com/p/9de58c0936ce) |
-| Thu, 11 Sep 2025 11:02:40 GMT | Kioptrix Level 3 Writeup (SQLMap Edition) | Mahmoudelshorpagy | [Read More](https://medium.com/p/2a2de8a23f32) |
-| Thu, 11 Sep 2025 11:01:58 GMT | When Strength Becomes a Wall | Her Out-of-Office Feelings | [Read More](https://medium.com/p/c676a638fb29) |
-| Thu, 11 Sep 2025 11:01:41 GMT | Security Fundamentals for Beginners | Saurabh Jain | [Read More](https://medium.com/p/8a673e6bfe8b) |
-| Thu, 11 Sep 2025 10:55:42 GMT | Analysis With Wireshark | Zoltan Karpati | [Read More](https://medium.com/p/9b1ed2ec3b10) |
-| Thu, 11 Sep 2025 10:49:21 GMT | Penetration Testing, Beginners To Expert! | Krishna Kumar | [Read More](https://medium.com/p/8378f9169160) |
-| Thu, 11 Sep 2025 10:48:14 GMT | Website Security Secrets Every Business Should Know | Ozrit | [Read More](https://medium.com/p/e70e61f60719) |
-| Thu, 11 Sep 2025 10:39:57 GMT | Hunting Shadows: Geopolitics and the Rise of Nation-State Cyber Threats | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/44bc0f36c79c) |
-| Thu, 11 Sep 2025 10:39:20 GMT | 81 flaws fixed. 8 critical. | TheReviewHive | [Read More](https://medium.com/p/40e6b845b898) |
-| Thu, 11 Sep 2025 10:38:44 GMT | The OSINT Tools Everyone Should Know: A Personal Safety Guide for the Digital Age | Rishisec | [Read More](https://medium.com/p/7b7e7667060e) |
-| Thu, 11 Sep 2025 10:37:32 GMT | Fake Browser Extensions Hijack Meta Business Accounts Through Madgicx Plus and Social Metrics | Jasmitharouthu | [Read More](https://medium.com/p/2833aeb66521) |
-| Thu, 11 Sep 2025 10:33:31 GMT | AI-Driven Cyber Attacks: How Deepfakes, AI Malware, and Automated Phishing Are Reshaping… | Ambala IT | [Read More](https://medium.com/p/773cd23a5143) |
-| Thu, 11 Sep 2025 10:31:58 GMT | MFA (Multi Factor Authentication) | Saksham Singh | [Read More](https://medium.com/p/458794da5c23) |
-| Thu, 11 Sep 2025 10:31:00 GMT | ️ SIEM in Action: How It Spots Hackers Before You Do | Natarajan C K | [Read More](https://medium.com/p/d289261a6ffc) |
