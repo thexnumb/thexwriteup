@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 23:07:42 GMT | When the Breach Hits: Preparing for Disasters Before They Happen | Sam Galope | [Read More](https://medium.com/p/a59730a203c2) |
+| Thu, 11 Sep 2025 22:47:11 GMT | You’re Logged In. But Are You Really You? | Adewale Ayomide | [Read More](https://medium.com/p/344855a7de45) |
+| Thu, 11 Sep 2025 22:46:46 GMT | Open Source Maintainers Are Being Exploited, Not Celebrated | Noah Byteforge | [Read More](https://medium.com/p/45a70c6000fc) |
 | Thu, 11 Sep 2025 22:31:46 GMT | The Hidden Costs of Social Media Bans: Slow Apps, Risky VPNs, Hackers Watching… A case study of… | Elizabeth A. Mallya. | [Read More](https://medium.com/p/d8b4d9db5fc4) |
 | Thu, 11 Sep 2025 22:29:39 GMT | An Experiment in AI for Security Operations (Part 2— the build) | Bill Mahony | [Read More](https://medium.com/p/f19a86821487) |
 | Thu, 11 Sep 2025 22:22:23 GMT | Password Security in 2025: Why Argon2id is the Standard You Should Use | Suman Bhadra | [Read More](https://medium.com/p/7c0797349836) |
@@ -111,6 +114,3 @@ A practical checklist every… | Ehsanm135 | [Read More](https://medium.com/p/20
 | Thu, 11 Sep 2025 16:57:40 GMT | How to Add a Linux User with a Unique UID and Custom Home Directory — kodekloud task | Md Mehedi Hasan Asif | [Read More](https://medium.com/p/8f96c771cd72) |
 | Thu, 11 Sep 2025 16:56:48 GMT | ChatGPT in the Wrong Hands: Social Engineering Attacks Explained | Andrei Ivan | [Read More](https://medium.com/p/0fa8a6424171) |
 | Thu, 11 Sep 2025 16:46:54 GMT | Why AI-Powered Phishing is Every Beginner’s Nightmare (And How to Spot It) | Andrei Ivan | [Read More](https://medium.com/p/94bb3a30e0a3) |
-| Thu, 11 Sep 2025 16:41:18 GMT | “WebNet1" challenge | oussama | [Read More](https://medium.com/p/621e4ee1a24c) |
-| Thu, 11 Sep 2025 16:40:21 GMT | Prontuários expostos: caso MedicSolutions+ | Albertbacelar | [Read More](https://medium.com/p/50d91d66c1d6) |
-| Thu, 11 Sep 2025 16:38:39 GMT | Red Teaming for Beginners: How to Get Started | Vijay Sistla | [Read More](https://medium.com/p/0a80d782739d) |
