@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 14:11:55 GMT | ~~Human Error~~ AI Error : When Automation Goes Too Far - AI’s Unseen Errors | Manojna C | [Read More](https://medium.com/p/410283879993) |
+| Thu, 11 Sep 2025 14:11:00 GMT | TryHackMe #3 - Careers in Cyber | 0xGroot | [Read More](https://medium.com/p/c2806622570f) |
+| Thu, 11 Sep 2025 14:06:01 GMT | TryHackMe #2 - Defensive Security Intro | 0xGroot | [Read More](https://medium.com/p/961ec4faa734) |
+| Thu, 11 Sep 2025 14:01:47 GMT | Cyber Briefing: 2025.09.11 | CyberMaterial | [Read More](https://medium.com/p/0cb5793f2b57) |
+| Thu, 11 Sep 2025 14:01:47 GMT | What Is Abatis? A 20-Year Journey to Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/f0d82a0f1c9d) |
+| Thu, 11 Sep 2025 14:01:44 GMT | TryHackMe #1 - Offensive Security Intro | 0xGroot | [Read More](https://medium.com/p/a3ad60daef2f) |
+| Thu, 11 Sep 2025 14:00:57 GMT | I Typed Something Random… and Walked Into an Admin Panel | 0x62616B61 | [Read More](https://medium.com/p/99478f118a5f) |
+| Thu, 11 Sep 2025 13:59:07 GMT | The Future of Phishing: Deepfakes and Personalized Attacks | Naman Barola | [Read More](https://medium.com/p/2f4f566a4b33) |
+| Thu, 11 Sep 2025 13:57:21 GMT | How AI Is Quietly Rewriting the Rules of Tech, And Why Most People Don’t See It Coming | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/4cb2af7390dd) |
+| Thu, 11 Sep 2025 13:46:42 GMT | GitLab Under Fire: Four Vulnerabilities Threaten CI/CD Stability and Data Integrity | gm0 | [Read More](https://medium.com/p/da42bbb46f78) |
+| Thu, 11 Sep 2025 13:46:28 GMT | Building Suspicious Login Investigation Workflow Rapid7 InsightConnect Workflow | James | [Read More](https://medium.com/p/710bc820590e) |
+| Thu, 11 Sep 2025 13:41:42 GMT | Deactivate Your Garage Door Opener: Quick Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/55abba34200f) |
 | Thu, 11 Sep 2025 13:34:36 GMT | [TryHackMe] Expose | digistam | [Read More](https://medium.com/p/34472b462b82) |
+| Thu, 11 Sep 2025 13:31:41 GMT | Internal Audits and Cybersecurity: The Overlooked Risk in Mid‑Sized Businesses | CoopSys | [Read More](https://medium.com/p/ff2054394e2e) |
 | Thu, 11 Sep 2025 13:29:29 GMT | How I Escalated a Navigation Bug Into Trusted-Origin File Downloads | MostReal | [Read More](https://medium.com/p/0dca4c38d896) |
 | Thu, 11 Sep 2025 13:22:58 GMT | Broken Access Control And Portswigger Solved Labs | babambabam | [Read More](https://medium.com/p/460c209834e4) |
 | Thu, 11 Sep 2025 13:20:16 GMT | Why Cyber Security is the Hottest Career Choice in the Coming Years? | Veridical Technologies | [Read More](https://medium.com/p/dbc01bcc0877) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 09:32:15 GMT | How I Accidentally Leaked Keys in CI — The Fix That Should Be Standard | Techno Diaries | [Read More](https://medium.com/p/4231a5c6a7cc) |
 | Thu, 11 Sep 2025 09:18:49 GMT | Cloud Native Application Security (CNAPP): A Game Changer In Cybersecurity | Cloud Kinetics | [Read More](https://medium.com/p/0ad120791b26) |
 | Thu, 11 Sep 2025 09:13:01 GMT | Mastering Misconfigured NFS, SMB, and FTP Shares: Step-by-Step Pentesting Guide for IT… | Very Lazy Tech | [Read More](https://medium.com/p/99e2cf769748) |
-| Thu, 11 Sep 2025 09:12:38 GMT | The Role of Cybersecurity in Protecting Digital Payments | Muhammedafnan | [Read More](https://medium.com/p/41e8365837be) |
-| Thu, 11 Sep 2025 09:08:42 GMT | Agentic AI — The Beginning of a Larger Story | CloudifyOps | [Read More](https://medium.com/p/fdc3506bbad4) |
-| Thu, 11 Sep 2025 09:07:02 GMT | Help Desk Blues? Escape the Inevitable. | Authlyn | [Read More](https://medium.com/p/1984e55cb848) |
-| Thu, 11 Sep 2025 09:02:31 GMT | Ping Pong — A Kioptrix Level 2 Post-Mortem | MazenTurky | [Read More](https://medium.com/p/7146af69448f) |
-| Thu, 11 Sep 2025 09:02:15 GMT | Diary of a Career Changer: Deciding on the New Career Path | Cyber I AM | [Read More](https://medium.com/p/35a73263701f) |
-| Thu, 11 Sep 2025 08:58:21 GMT | LLM-D for Proactive Cybersecurity: Scaling Intelligence on Kubernetes | Srinivas Chandupatla | [Read More](https://medium.com/p/9cfcca3549d5) |
-| Thu, 11 Sep 2025 08:57:08 GMT | Security That Thinks for Itself | Presslink Media | [Read More](https://medium.com/p/00a72715fc22) |
-| Thu, 11 Sep 2025 08:55:27 GMT | Log Ingestion, Time Synchronization, and Logging Levels: Core Principles of Security Operations | Alicybersec | [Read More](https://medium.com/p/3475b1162bb8) |
-| Thu, 11 Sep 2025 08:44:33 GMT | Burp Suite: The Basics - THM | Isiah | [Read More](https://medium.com/p/27e2627e0205) |
-| Thu, 11 Sep 2025 08:42:25 GMT | TCM Security-PSAA(Practical SOC Analyst Associate):SOC實作分析師認證 | segalee | [Read More](https://medium.com/p/8c4dd32319d8) |
-| Thu, 11 Sep 2025 08:39:26 GMT | Digisol DG-GR1321: Plaintext Password Storage Vulnerability (CVE-2024–4232) | Redfox Security | [Read More](https://medium.com/p/7a870f8243b8) |
-| Thu, 11 Sep 2025 08:26:12 GMT | Why Third-Party Risk Management Can No Longer Be Ignored | Prerna Shukla | [Read More](https://medium.com/p/0f75cd304d09) |
-| Thu, 11 Sep 2025 08:23:23 GMT | npm Hacked, Millions Affected | S.Ali | [Read More](https://medium.com/p/b422114fd8e9) |
