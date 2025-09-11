@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Sep 2025 02:40:38 GMT | Information Hazards: When Knowledge Becomes a Threat | Riza bloomer | [Read More](https://medium.com/p/d8af402fa917) |
+| Thu, 11 Sep 2025 02:39:01 GMT | Mapping Threat Infrastructures Identified Through Criminal IP’s Top 10 Search Keywords | Criminal IP | [Read More](https://medium.com/p/7cde698999d1) |
+| Thu, 11 Sep 2025 02:38:14 GMT | How I Passed the PNPT: A Personal Journey into Real-World Penetration Testing | Timothy Grant | [Read More](https://medium.com/p/8e86e1ab2c4c) |
+| Thu, 11 Sep 2025 02:35:40 GMT | My iPhone Was Sold To An Eco-ATM | Iza Moon | [Read More](https://medium.com/p/4e80d7391484) |
+| Thu, 11 Sep 2025 02:30:15 GMT | Race Condition in Team Invitations Vulnerability | Lakshya | [Read More](https://medium.com/p/cc088303d5f8) |
+| Thu, 11 Sep 2025 02:29:06 GMT | I Opened the Windows Registry — And It Told Me Who Did It | Paritosh | [Read More](https://medium.com/p/796c232da43f) |
+| Thu, 11 Sep 2025 02:28:32 GMT | Strix: Open-Source AI Hackers for Your Apps | CodeBun | [Read More](https://medium.com/p/26cfb9a8c036) |
+| Thu, 11 Sep 2025 02:05:01 GMT | Playing Around with Wireshark: My Basic Practice | Zulfianarahmi | [Read More](https://medium.com/p/6e905eacd5d3) |
+| Thu, 11 Sep 2025 01:42:02 GMT | TryHackMe Writeup: GoldenEye | Berkay AĞGÜL | [Read More](https://medium.com/p/68bc8fef8c07) |
+| Thu, 11 Sep 2025 01:31:40 GMT | “Beyond ‘Slow to Warm Up’: Understanding Your Strong Self-Protection Mechanism” | Hanpis | [Read More](https://medium.com/p/0a43f6f50c11) |
+| Thu, 11 Sep 2025 01:27:01 GMT | Spaces in FinderBee: Organized, Secure AI Service Management | Ritheesh Reddy | [Read More](https://medium.com/p/996315bc6bfc) |
 | Thu, 11 Sep 2025 01:18:35 GMT | Integrating Dockerized Wazuh with Slack | Mw3ndwa Victor | [Read More](https://medium.com/p/be7a65ec3998) |
 | Thu, 11 Sep 2025 01:07:44 GMT | I Googled My Own Name and What I Found Will Terrify You! | Tasmia Sharmin | [Read More](https://medium.com/p/af7926d67574) |
 | Thu, 11 Sep 2025 00:53:01 GMT | Salesforce Drift OAuth Breach: When Tokens Become Skeleton Keys | Rue | [Read More](https://medium.com/p/f1eb5929b5d9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Sep 2025 18:37:56 GMT | Subdomain Discovery and Enumeration: From Noise to Valuable Targets | Swetha | [Read More](https://medium.com/p/bbc42b644b74) |
 | Wed, 10 Sep 2025 18:37:19 GMT | VPN vs Proxy: The Simple Analogy That Finally Explains the Difference | Taha Yousuf Ali | [Read More](https://medium.com/p/fe3dbe3b640b) |
 | Wed, 10 Sep 2025 18:19:44 GMT | The npm Attacks That Should Terrify Every Developer (And How to Fight Back) | Swarna Ravi | [Read More](https://medium.com/p/1c6a630cda20) |
-| Wed, 10 Sep 2025 18:16:11 GMT | How to Pass the RHCSA Exam in 2025: Complete Guide + Real Exam Tips | boltx | [Read More](https://medium.com/p/85068b397e35) |
-| Wed, 10 Sep 2025 18:13:16 GMT | Cybersecurity in 2025: How to Stay Ahead of Emerging Threats | Radia 2025 | [Read More](https://medium.com/p/6eb9104bba86) |
-| Wed, 10 Sep 2025 18:09:27 GMT | SQL and Cybersecurity: Why Protecting Databases is Critical | Lumae | [Read More](https://medium.com/p/3f017eff9957) |
-| Wed, 10 Sep 2025 18:07:37 GMT | PyPI Fights Back: New Anti-Phishing & Expired-Domain Safeguards Protect Your Python Packages | Er.Muruganantham | [Read More](https://medium.com/p/78ee38064376) |
-| Wed, 10 Sep 2025 18:06:45 GMT | Hackers Can Control Yamaha MusicCast Sound Systems Remotely — Like Ghosts in Your Speakers | hacker_might | [Read More](https://medium.com/p/5eb88be20ea2) |
-| Wed, 10 Sep 2025 18:06:24 GMT | How to Become an Ethical Hacker — A Step-by-Step Guide for Beginners | Nitin Singh | [Read More](https://medium.com/p/7be831f0b059) |
-| Wed, 10 Sep 2025 18:02:05 GMT | Blue Light Confessions at 2 AM | Prakruthi | [Read More](https://medium.com/p/e02cea4a2c91) |
-| Wed, 10 Sep 2025 17:59:49 GMT | Cyber-Security and Human Psychology: Why Social Engineering Hacks Humans More Then a Machine. | _gaurang06_ | [Read More](https://medium.com/p/093f86992fa1) |
-| Wed, 10 Sep 2025 17:58:19 GMT | AI Scams Are Evolving — And They’re Coming for You | Madebyflorisb | [Read More](https://medium.com/p/0929be79638b) |
-| Wed, 10 Sep 2025 17:53:43 GMT | SIEM Requirements Checklist: Building the Right Foundation for Security Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/cdea23cdc552) |
-| Wed, 10 Sep 2025 17:46:17 GMT | Growth Hacking with AI: Strategies to Accelerate Your Brand’s Success | Niamh O'Shea | [Read More](https://medium.com/p/29b12ccc500b) |
