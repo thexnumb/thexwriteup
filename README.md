@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 03:02:20 GMT | PCI DSS & Digital Payments — Protecting Trust in a Cashless World | Dr. Deep Pandey | [Read More](https://medium.com/p/ab7576c87237) |
+| Fri, 12 Sep 2025 03:01:28 GMT | The Essential Security Checklist for Your AI-Built MVP | DataScience Nexus | [Read More](https://medium.com/p/8ecd80152b25) |
 | Fri, 12 Sep 2025 02:33:06 GMT | How I Almost Got Pwned — A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong | Dale Nguyen | [Read More](https://medium.com/p/e68caca1f246) |
 | Fri, 12 Sep 2025 02:17:34 GMT | Install and Explore Kali Linux | Muhambiphares | [Read More](https://medium.com/p/8e47b876104c) |
 | Fri, 12 Sep 2025 02:05:28 GMT | Ducat: The Stablecoin Bitcoin Has Been Waiting For | Blessing Shodunke | [Read More](https://medium.com/p/bf87c58c2d27) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 18:31:11 GMT | HACKERS TRIED TO STEAL CRYPTO THROUGH NPM. HERE’S WHY FLAMINGO FINANCE WAS UNTOUCHED. | Duke Okutama | [Read More](https://medium.com/p/b5b46b26d369) |
 | Thu, 11 Sep 2025 18:28:29 GMT | Kioptrix: Level 1 (#1) | d4vnull | [Read More](https://medium.com/p/e0daacbd2488) |
 | Thu, 11 Sep 2025 18:27:12 GMT | Beyond the Firewall: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/343ae140f43e) |
-| Thu, 11 Sep 2025 18:26:10 GMT | Part 3: The MCP Supply Chain Nightmare | Dr. Cesar Guzman | [Read More](https://medium.com/p/720c19e2124f) |
-| Thu, 11 Sep 2025 18:25:45 GMT | Cyberhygiene Tips Everyone Should Follow: Digital Safety Routine | Bhushan | [Read More](https://medium.com/p/54ae30bb3326) |
