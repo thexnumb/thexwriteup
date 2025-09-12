@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 16:15:17 GMT | Quick Free Methods to Import Access Database to SQL Server | Simran Bhatia | [Read More](https://medium.com/p/221ecbb3c296) |
+| Fri, 12 Sep 2025 16:13:24 GMT | How to Track a Live Phone by IMEI Number (Ethically) | Mr. MOM | [Read More](https://medium.com/p/0458a0bbe786) |
+| Fri, 12 Sep 2025 16:12:19 GMT | 5 Ways Custom Cloth Wristbands Enhance Event Security | Arnett Credentials | [Read More](https://medium.com/p/e0cfdd3e10c2) |
+| Fri, 12 Sep 2025 16:09:40 GMT | Your Crypto Swap is a Hunt for the Perfect Sneakers | Web3 Itagi | [Read More](https://medium.com/p/3d52eda323ea) |
+| Fri, 12 Sep 2025 16:06:16 GMT | Making Sure Your Money Is Safe | Defi Monk | [Read More](https://medium.com/p/0f199b57727f) |
+| Fri, 12 Sep 2025 16:04:04 GMT | The Unbreakable System: Finding the Flaws No One Else Can See | Samina Perveen | [Read More](https://medium.com/p/448cac06bfed) |
+| Fri, 12 Sep 2025 16:01:30 GMT | Boiler CTF Walkthrough: Medium TryHackMe Challenge with Joomla Exploit & Privilege Escalation | Prajwal | [Read More](https://medium.com/p/d044ff1e1038) |
+| Fri, 12 Sep 2025 16:00:18 GMT | HTB Sherlock:Operation Blackout 2025: Phantom Check | Serkan | [Read More](https://medium.com/p/5d499f2ae764) |
+| Fri, 12 Sep 2025 15:54:01 GMT | Bug Bounty : How an OTP Bypass Got Me in the Hall of Fame | Arrhenius Paelongan | [Read More](https://medium.com/p/5db11bb34e2c) |
+| Fri, 12 Sep 2025 15:48:34 GMT | Master Real-World Web App Enumeration with Curl, Wget, and Bash: A Step-by-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/5f74ab34e795) |
+| Fri, 12 Sep 2025 15:47:26 GMT | The MOVEit Supply Chain Breach: How Clop Ransomware Shook the Digital World | NineTales | [Read More](https://medium.com/p/5c6147a2ff37) |
+| Fri, 12 Sep 2025 15:42:49 GMT | Your First Step into Ethical Hacking with Concepts, Lab Setup, and Key Skills. | Zeeshan Masood Keyani | [Read More](https://medium.com/p/430225177260) |
+| Fri, 12 Sep 2025 15:41:21 GMT | Salesforce: Sécuriser les Connected Apps (obligatoire dès sept 2025) | Nicolas Vuillamy | [Read More](https://medium.com/p/843a825b0fd0) |
+| Fri, 12 Sep 2025 15:39:56 GMT | How Burnr Changes Privacy in a World of Digital Permanence: Share Once, Leave No Trace | Burnr | [Read More](https://medium.com/p/ef1821ad0d88) |
 | Fri, 12 Sep 2025 15:36:26 GMT | What is Ethical Hacking? | Aryan Satam | [Read More](https://medium.com/p/bf5a8e2106ab) |
 | Fri, 12 Sep 2025 15:35:37 GMT | Fewer Claims, Bigger Losses: Ransomware’s Changing Role in UK Cyber Insurance | CyberSure | [Read More](https://medium.com/p/50311a56c321) |
 | Fri, 12 Sep 2025 15:32:07 GMT | The Future Is in the Cloud: What Every Business Needs to Know | Elijah Swanson | [Read More](https://medium.com/p/126265c53e09) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 12:17:35 GMT | AI-Powered Self-Healing IT Support in Brisbane | Elevate | [Read More](https://medium.com/p/064332f2e14b) |
 | Fri, 12 Sep 2025 12:11:21 GMT | When a $10 Donation Becomes a $15,000 Nightmare: Chicago Street Fraud on the Rise | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/7cd54c8f6df7) |
 | Fri, 12 Sep 2025 12:07:44 GMT | SalineBreeze-1: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/e46a47a0d7d0) |
-| Fri, 12 Sep 2025 12:01:47 GMT | Gregor Samsa Goes To Therapy | Nina Sharma | [Read More](https://medium.com/p/069967dcb5fd) |
-| Fri, 12 Sep 2025 12:01:46 GMT | AI-Powered Cybersecurity: How Zero-Trust Models Are Shaping 2025 Security Strategies | Umesh Anjula | [Read More](https://medium.com/p/7b06a27c8bc0) |
-| Fri, 12 Sep 2025 12:00:21 GMT | A new Android banking trojan is making headlines — and it’s built to steal. | TheReviewHive | [Read More](https://medium.com/p/55d6f6c8df90) |
-| Fri, 12 Sep 2025 11:58:44 GMT | SSI IT Cyber Security Services | SSI IT Solutions | [Read More](https://medium.com/p/a127090da41a) |
-| Fri, 12 Sep 2025 11:51:57 GMT | Understanding CVE-2022–26923: A Vulnerability in Active Directory Certificate Services | Mainekhacker | [Read More](https://medium.com/p/118e9d2de2ce) |
-| Fri, 12 Sep 2025 11:43:14 GMT | Why RFID Kiosks Are a Game-Changer for Modern Healthcare Facilities | Rakesh | [Read More](https://medium.com/p/ddfe6ec117ed) |
-| Fri, 12 Sep 2025 11:34:15 GMT | Kioptrix Level 2 | Mostafa Ahmed | [Read More](https://medium.com/p/54617906d64c) |
-| Fri, 12 Sep 2025 11:32:25 GMT | How to Set Up SSL on Apache Ubuntu 22.04 | Smit Pipaliya | [Read More](https://medium.com/p/85d5f8f51f0d) |
-| Fri, 12 Sep 2025 11:29:39 GMT | Maritime Cybersecurity Market Forecast 2025–2032: Protecting the Digital Seas | snsinsider05 | [Read More](https://medium.com/p/175b7d8ea0f2) |
-| Fri, 12 Sep 2025 11:28:47 GMT | Unauthenticated Deletion of Critical SSO Configuration Attributes | ehsameer | [Read More](https://medium.com/p/e3bc56c258a8) |
-| Fri, 12 Sep 2025 11:24:58 GMT | IT Recruitment Consultancy in Delhi NCR, Building the Future of Tech Teams | Job24by7 | [Read More](https://medium.com/p/9905f524a69a) |
-| Fri, 12 Sep 2025 11:20:45 GMT | High-Severity Vulnerabilities and Espionage Operations Drive The Week | Loginsoft | [Read More](https://medium.com/p/03371903a14e) |
-| Fri, 12 Sep 2025 11:19:12 GMT | Cybersecurity in 2025: Combating AI Threats, Ransomware, and Digital Risks | Bandari Rushika | [Read More](https://medium.com/p/5c4001cdb3e0) |
-| Fri, 12 Sep 2025 11:16:15 GMT | The Summer I Turned Myself | Alyssa Mullett | [Read More](https://medium.com/p/9da77ab33331) |
