@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 10:36:04 GMT | MERN vs Laravel: Which One Wins for Startups? | Rizqi Mulki | [Read More](https://medium.com/p/ac7f9266781f) |
+| Fri, 12 Sep 2025 10:33:08 GMT | Why You Should Never Hardcode Secrets in Your Code | Prasanth Rao | [Read More](https://medium.com/p/775e7dae3652) |
+| Fri, 12 Sep 2025 10:29:19 GMT | MERN vs MEVN: Which Is Still Relevant in 2025? | Rizqi Mulki | [Read More](https://medium.com/p/6f3c14e7c008) |
+| Fri, 12 Sep 2025 10:28:35 GMT | The Top Features of Oman Mobile App Development Services for Enterprises | Five Programmers | [Read More](https://medium.com/p/3a94f624666a) |
+| Fri, 12 Sep 2025 10:28:08 GMT | 10 Best Cheap Hosting Providers for Medical Records (Reliable & Secure) | Kanika Mehtah | [Read More](https://medium.com/p/f6e3fe186386) |
+| Fri, 12 Sep 2025 10:26:16 GMT | The Hidden Dangers of Default Credentials in Enterprise Systems | Rizqi Mulki | [Read More](https://medium.com/p/02863d7abb91) |
+| Fri, 12 Sep 2025 10:25:15 GMT | How AI-Powered Hoaxes Threw U.S. Campuses into Chaos | Motasem Hamdan | [Read More](https://medium.com/p/b2670d5c71f3) |
+| Fri, 12 Sep 2025 10:19:05 GMT | Apple Just Made Spyware Companies’ Worst Nightmare Come True | h@shtalk | [Read More](https://medium.com/p/b6432d19f297) |
+| Fri, 12 Sep 2025 10:19:05 GMT | Soupedecode01- THM Walkthrough | Nihir Zala | [Read More](https://medium.com/p/029005cf9872) |
 | Fri, 12 Sep 2025 10:17:49 GMT | Firewall Failures: Four Windows Defender Vulnerabilities Open Door to SYSTEM-Level Compromise | gm0 | [Read More](https://medium.com/p/a4c46ad26fa9) |
 | Fri, 12 Sep 2025 10:12:02 GMT | When AI Turns Against AI: The Rise of AI Cyberattacks | Brillica Services | [Read More](https://medium.com/p/607eb6cc008c) |
 | Fri, 12 Sep 2025 10:01:21 GMT | How I Learned That AI Can Be Accidentally Biased(And What You Can Do About It) | Myra Jarenga | [Read More](https://medium.com/p/fb5579369eed) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 05:38:45 GMT | Cracking Forensics CTFs 1.0 — picoCTF | Swetha | [Read More](https://medium.com/p/8b143d12b615) |
 | Fri, 12 Sep 2025 05:34:33 GMT | Code Review : SSRF | AbhirupKonwar | [Read More](https://medium.com/p/f4cefb331a17) |
 | Fri, 12 Sep 2025 05:33:36 GMT | Dick Size: When Is Too Big? | Lovemysteries | [Read More](https://medium.com/p/ee00a2c69159) |
-| Fri, 12 Sep 2025 05:33:01 GMT | Guardians of the Network: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/f0880daba1d9) |
-| Fri, 12 Sep 2025 05:31:53 GMT | picoCTF 2024: Trickster | GlitchNox | [Read More](https://medium.com/p/3b0e35200406) |
-| Fri, 12 Sep 2025 05:31:39 GMT | 10 JS Security Wins Without Slowing Your Site | Bhagya Rana | [Read More](https://medium.com/p/fa795af9eeca) |
-| Fri, 12 Sep 2025 05:30:53 GMT | Deploying EpicBook on AWS: Secure Full-Stack Deployment with EC2, Nginx & RDS (MySQL) | Lalit Kumar | [Read More](https://medium.com/p/912d74423ad1) |
-| Fri, 12 Sep 2025 05:26:35 GMT | The Devil in the Details: Cyber Security | Cyber Security Research | [Read More](https://medium.com/p/42ff921051a5) |
-| Fri, 12 Sep 2025 05:25:52 GMT | DAST vs Pen Testing: What Do You Need for Your Organization? | CyberNX | [Read More](https://medium.com/p/685eb55083d7) |
-| Fri, 12 Sep 2025 05:21:47 GMT | SMS vs Authenticator App: Which One Should You Choose for Two-Factor Authentication? | Dhanush N | [Read More](https://medium.com/p/7236d897d705) |
-| Fri, 12 Sep 2025 05:20:36 GMT | How Hackers Turn Upload Files For Gaining System Access | Handhika Yanuar Pratama | [Read More](https://medium.com/p/1728eac12b71) |
-| Fri, 12 Sep 2025 05:20:27 GMT | I Bypassed a Login Page With a Single Request | Ibtissam hammadi | [Read More](https://medium.com/p/cf7b415b2423) |
