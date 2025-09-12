@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 13:36:33 GMT | DC: 1 Walkthrough | areej | [Read More](https://medium.com/p/9090a62e585b) |
+| Fri, 12 Sep 2025 13:33:15 GMT | I Found 100+ API Keys in My JS Files in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/b78a1cad1dda) |
+| Fri, 12 Sep 2025 13:28:53 GMT | AI Hacked My House: The day My Smart Home Went Rogue | Sandeep Sengupta | [Read More](https://medium.com/p/c3dbb8bd7411) |
+| Fri, 12 Sep 2025 13:28:51 GMT | Kick ’Em Off: The Scary Simple Wi-Fi Attack Anyone Can Do (And How to Stop It) | Santhosh Kumar | [Read More](https://medium.com/p/9b2bc4d495e8) |
+| Fri, 12 Sep 2025 13:27:29 GMT | Linux Capability-Based Security | Eren Cankut Uysal | [Read More](https://medium.com/p/836726326359) |
 | Fri, 12 Sep 2025 13:25:48 GMT | Day 21:- Understanding Proxy Servers → The Invisible Middleman of the Internet | Prutha_Dongre | [Read More](https://medium.com/p/93ad030dcc36) |
+| Fri, 12 Sep 2025 13:24:25 GMT | Data Privacy Compliance Checklist for SaaS Applications | KodekX | [Read More](https://medium.com/p/0bdc851e5acc) |
+| Fri, 12 Sep 2025 13:22:08 GMT | Linux Security Contexts (SELinux, AppArmor) Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/adcd2451edb6) |
+| Fri, 12 Sep 2025 13:20:40 GMT | The Proactive Agent Reloaded: Slack and Symfony for Real-Time Communications | Matt Mochalkin | [Read More](https://medium.com/p/cecfa117e626) |
+| Fri, 12 Sep 2025 13:17:00 GMT | Beyond Encryption: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/a4703904ffe4) |
 | Fri, 12 Sep 2025 13:09:46 GMT | ️ Windows 11’s September 2025 Security Update: More Personal, More Private | GROWAI_EDTECH | [Read More](https://medium.com/p/0e0e94a68d3c) |
 | Fri, 12 Sep 2025 13:05:59 GMT | WordPress Security and Performance Optimization Guide | Gettech Infinite | [Read More](https://medium.com/p/a3e8d1613636) |
 | Fri, 12 Sep 2025 13:03:44 GMT | How Pentesting with Kali Linux Helped Me Win My First $1300 Bug Bounty | Joseph jr | [Read More](https://medium.com/p/90bcf6564073) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 09:04:45 GMT | Choosing Between Rapid7 and ZeroThreat: What DevSecOps Teams Must Know | Sam Bishop | [Read More](https://medium.com/p/292046e7de29) |
 | Fri, 12 Sep 2025 09:01:48 GMT | Breaking RSA with Partial Prime Information — CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/c0b11d3ec935) |
 | Fri, 12 Sep 2025 09:01:46 GMT | When AI Tools Leak Data: The Hidden Risk of Copy-Paste into Chatbots | Evgeny Ermakov | [Read More](https://medium.com/p/4c65f2129150) |
-| Fri, 12 Sep 2025 08:59:18 GMT | The Phantom Menace: A Story of a State-Sponsored APT | Shahzaib | [Read More](https://medium.com/p/51d8b867297d) |
-| Fri, 12 Sep 2025 08:49:50 GMT | THERE'S A NEW ABDUCTION / K!DNAP FORMAT IN UYO, AKWA IBOM STATE. | Ajax Castleton | [Read More](https://medium.com/p/1d88fb6372da) |
-| Fri, 12 Sep 2025 08:46:22 GMT | Principaux Risques Globaux 2025 : Cyberattaques, Interruptions d’Activité et Défis Émergents | PÉRICOLOGIE | [Read More](https://medium.com/p/d85a28f4eb93) |
-| Fri, 12 Sep 2025 08:41:26 GMT | Top 5 Gaming Tablets for Ultimate Performance | Tech News | [Read More](https://medium.com/p/ffc7ff9c65da) |
-| Fri, 12 Sep 2025 08:40:01 GMT | CCTV Installation: A Smart Step Towards Security | Nestrondigitalhub | [Read More](https://medium.com/p/14c2d9a6f671) |
-| Fri, 12 Sep 2025 08:39:14 GMT | How to Migrate Your Vite + React + TypeScript Project from npm to Yarn (The Clean Way) | AIAlchemist_Ab1r | [Read More](https://medium.com/p/051001020f36) |
-| Fri, 12 Sep 2025 08:38:23 GMT | When Your AI Assistant Becomes Your Biggest Security Risk | Paul Sherman | [Read More](https://medium.com/p/7f0476820982) |
-| Fri, 12 Sep 2025 08:34:53 GMT | Digisol DG-GR1321 Router Vulnerability: Improper Access Control (CVE-2024–4231) | Redfox Security | [Read More](https://medium.com/p/c70455b6606f) |
-| Fri, 12 Sep 2025 08:27:50 GMT | CVE-2025–56426: Upcoming Cart Price Manipulation Vulnerability | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/468b72311969) |
