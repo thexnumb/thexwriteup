@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 07:16:51 GMT | Authentication with OpenID Connect & OAuth2 in .NET | Karthikeyan NS | [Read More](https://medium.com/p/1eb24b4a09a3) |
+| Fri, 12 Sep 2025 07:12:58 GMT | Meet Ghauri GUI v1 — Streamlined SQLi Scans on Windows | raflesia it | [Read More](https://medium.com/p/5bb383b9f7ff) |
+| Fri, 12 Sep 2025 07:12:24 GMT | DVWA Modules:- walkthrough, Sqlmap | Aashish Vishwakarma | [Read More](https://medium.com/p/69760533d20b) |
+| Fri, 12 Sep 2025 07:12:24 GMT | SMB Signing Not Enabled – Exploitation and Remediation | Durayamithiran G | [Read More](https://medium.com/p/c4845c89f7c6) |
+| Fri, 12 Sep 2025 07:09:29 GMT | Rilis: Ghauri GUI v1 — Cara cepat menjalankan SQLi scan di Windows | raflesia it | [Read More](https://medium.com/p/9a02bb3ec7b3) |
+| Fri, 12 Sep 2025 07:08:13 GMT | From Beers to Business: Reinventing Digital Signage with Raspberry Pi and Zero-Touch Provisioning | Kyrian Arensman | [Read More](https://medium.com/p/675cae040cf9) |
+| Fri, 12 Sep 2025 07:04:32 GMT | Top 10 Reasons Why Python is the Best for Beginners | Nishubirla | [Read More](https://medium.com/p/570ead976023) |
+| Fri, 12 Sep 2025 07:03:46 GMT | ประจำวันศุกร์ที่ 12 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bfb89491db51) |
+| Fri, 12 Sep 2025 07:01:47 GMT | Stop Credential Stuffing Before It Starts: Monitor Plain Text Leaks and Auto Flag Risky Logins | Alexandre Vandamme | [Read More](https://medium.com/p/3f4537592368) |
+| Fri, 12 Sep 2025 06:46:50 GMT | Server Management: Definition, Types, Advantages, and Disadvantages | Bitrix Infotech Pvt Ltd | [Read More](https://medium.com/p/d9197eca5b9d) |
 | Fri, 12 Sep 2025 06:43:05 GMT | XSS in 2025: Why It Still Matters — and How to Defend Against It | AerieWhole123 | [Read More](https://medium.com/p/dfd4e2067bb4) |
 | Fri, 12 Sep 2025 06:34:05 GMT | Today, one iPhone costs 0.01 BTC — the only information you need to know from today’s Apple drop | Balki Maharaj | [Read More](https://medium.com/p/1dc56a04ffdf) |
 | Fri, 12 Sep 2025 06:33:47 GMT | The Invisible Thread: How a GitHub Breach Unraveled a Supply Chain | Aj | [Read More](https://medium.com/p/7ec4a2bb3eee) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 00:12:41 GMT | Linux firewall setup | Linux Details | [Read More](https://medium.com/p/8bb739260407) |
 | Fri, 12 Sep 2025 00:01:44 GMT | Wfuzz: Fuzzing Web para Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/81723a6b0d16) |
 | Fri, 12 Sep 2025 00:00:58 GMT | El Bandito writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a071cfb0fb2a) |
-| Thu, 11 Sep 2025 23:22:13 GMT | The Anatomy of a Breach: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/c2d0e0c7e4d8) |
-| Thu, 11 Sep 2025 23:17:39 GMT | So Many Questions; U.S. Airstrikes, the Caribbean Battlefield, and the Future of International Law. | N H Medina | [Read More](https://medium.com/p/4aa1099b1155) |
-| Thu, 11 Sep 2025 23:17:19 GMT | Integrating Chrome Enterprise Premium for a Unified Zero-Trust Security Posture | Jeff | [Read More](https://medium.com/p/b73a737d6426) |
-| Thu, 11 Sep 2025 23:17:02 GMT | Cyber Security Details: A Hacker’s Perspective | Cyber Security Research | [Read More](https://medium.com/p/ea7c2229d103) |
-| Thu, 11 Sep 2025 23:07:42 GMT | When the Breach Hits: Preparing for Disasters Before They Happen | Sam Galope | [Read More](https://medium.com/p/a59730a203c2) |
-| Thu, 11 Sep 2025 22:47:11 GMT | You’re Logged In. But Are You Really You? | Adewale Ayomide | [Read More](https://medium.com/p/344855a7de45) |
-| Thu, 11 Sep 2025 22:46:46 GMT | Open Source Maintainers Are Being Exploited, Not Celebrated | Noah Byteforge | [Read More](https://medium.com/p/45a70c6000fc) |
-| Thu, 11 Sep 2025 22:31:46 GMT | The Hidden Costs of Social Media Bans: Slow Apps, Risky VPNs, Hackers Watching… A case study of… | Elizabeth A. Mallya. | [Read More](https://medium.com/p/d8b4d9db5fc4) |
-| Thu, 11 Sep 2025 22:29:39 GMT | An Experiment in AI for Security Operations (Part 2— the build) | Bill Mahony | [Read More](https://medium.com/p/f19a86821487) |
-| Thu, 11 Sep 2025 22:22:23 GMT | Password Security in 2025: Why Argon2id is the Standard You Should Use | Suman Bhadra | [Read More](https://medium.com/p/7c0797349836) |
