@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 05:33:36 GMT | Dick Size: When Is Too Big? | Lovemysteries | [Read More](https://medium.com/p/ee00a2c69159) |
+| Fri, 12 Sep 2025 05:31:53 GMT | picoCTF 2024: Trickster | GlitchNox | [Read More](https://medium.com/p/3b0e35200406) |
+| Fri, 12 Sep 2025 05:31:39 GMT | 10 JS Security Wins Without Slowing Your Site | Bhagya Rana | [Read More](https://medium.com/p/fa795af9eeca) |
+| Fri, 12 Sep 2025 05:26:35 GMT | The Devil in the Details: Cyber Security | Cyber Security Research | [Read More](https://medium.com/p/42ff921051a5) |
+| Fri, 12 Sep 2025 05:25:52 GMT | DAST vs Pen Testing: What Do You Need for Your Organization? | CyberNX | [Read More](https://medium.com/p/685eb55083d7) |
+| Fri, 12 Sep 2025 05:21:47 GMT | SMS vs Authenticator App: Which One Should You Choose for Two-Factor Authentication? | Dhanush N | [Read More](https://medium.com/p/7236d897d705) |
+| Fri, 12 Sep 2025 05:20:36 GMT | How Hackers Turn Upload Files For Gaining System Access | Handhika Yanuar Pratama | [Read More](https://medium.com/p/1728eac12b71) |
+| Fri, 12 Sep 2025 05:20:27 GMT | I Bypassed a Login Page With a Single Request | Ibtissam hammadi | [Read More](https://medium.com/p/cf7b415b2423) |
 | Fri, 12 Sep 2025 05:16:46 GMT | Cyber Security Details: Cryptography Demystified | Cyber Security Research | [Read More](https://medium.com/p/2f10e9030d82) |
+| Fri, 12 Sep 2025 05:11:27 GMT | The Silent War: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/57db6b5bbec9) |
 | Fri, 12 Sep 2025 05:11:00 GMT | Top Up Coming New Generation Technologies Is Here️ | Techsankar | [Read More](https://medium.com/p/26233cf42cfc) |
 | Fri, 12 Sep 2025 05:09:40 GMT | Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in 2025 | Monika sharma | [Read More](https://medium.com/p/6218e1adc444) |
 | Fri, 12 Sep 2025 05:09:21 GMT | Trend Report of Ransomware Activities in 2024 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/dae7246cc48f) |
+| Fri, 12 Sep 2025 05:09:08 GMT | Remote Monitoring — How Perth Business Owners Watch Their Property Anywhere | Securitec Security | [Read More](https://medium.com/p/ff925cedd96b) |
 | Fri, 12 Sep 2025 05:07:44 GMT | India post payment Bank se paise cut Jaaye To Kya Karen ☎️6266384374 ☎️बैंक से पैसे कट जाए तो क्या… | India post payment Bank se paise cut Jaaye To Kya | [Read More](https://medium.com/p/f174352c0e45) |
 | Fri, 12 Sep 2025 05:06:00 GMT | Cyber Security Details: Incident Response Strategies | Cyber Security Research | [Read More](https://medium.com/p/cc8f778fe136) |
 | Fri, 12 Sep 2025 05:04:18 GMT | kioptrix level 1 | Mostafa Ahmed | [Read More](https://medium.com/p/24841c948a30) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 20:27:48 GMT | The Two Paths of Future Intelligence: A Report by Jigar Joshi | Jigarjoshi | [Read More](https://medium.com/p/5939a50c6881) |
 | Thu, 11 Sep 2025 20:17:06 GMT | IT Security Audits: Strengthening Your Business Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/175ef4f33655) |
 | Thu, 11 Sep 2025 20:16:13 GMT | What’s CIAAN, CIA Triad Brother? | Kurnia Cantra | [Read More](https://medium.com/p/0953226684c2) |
-| Thu, 11 Sep 2025 20:12:50 GMT | The Linux Security Journey — Guard Pages | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/47b04586a68e) |
-| Thu, 11 Sep 2025 20:11:07 GMT | Apple’s New Memory Integrity Enforcement: A Game Changer for iPhone Security (but not invincible) | Macoy Gehrke | [Read More](https://medium.com/p/2ac2846b1031) |
-| Thu, 11 Sep 2025 20:06:30 GMT | Maximizing Web App Security with NextAuth.js and Advanced Techniques | @rnab | [Read More](https://medium.com/p/5003e4d7b7a5) |
-| Thu, 11 Sep 2025 20:03:16 GMT | Phishlets.site: Taking the Hassle Out of Evilginx Phishlet Creation | Donschulz | [Read More](https://medium.com/p/5896d819923f) |
-| Thu, 11 Sep 2025 20:00:04 GMT | Several teachers and professors have been fired across the US after posts celebrating the tragedy… | Dr. Seabelo Chabo John, Ed.D. | [Read More](https://medium.com/p/6f84eca23e9f) |
-| Thu, 11 Sep 2025 19:58:46 GMT | npm Supply Chain Attack — IoCs, Detection & Remediation | Aditya Bhatt | [Read More](https://medium.com/p/815eefdb0ee2) |
-| Thu, 11 Sep 2025 19:55:26 GMT | Web Zafiyetleri Serisi #1 | Didem Kış | [Read More](https://medium.com/p/d2c955c544d9) |
-| Thu, 11 Sep 2025 19:49:08 GMT | Run Kali safely on your computer with this easy VirtualBox setup | Akshay | [Read More](https://medium.com/p/6a05edadbe92) |
-| Thu, 11 Sep 2025 19:47:29 GMT | Why Emotional Regulation Is the Secret Ingredient to a Healthy Relationship | Joanna Ashley - | [Read More](https://medium.com/p/72194722a271) |
-| Thu, 11 Sep 2025 19:41:57 GMT | How I Bypassed a 403 Forbidden WAF Protection (and What I Learned) | samael0x4 | [Read More](https://medium.com/p/b2bb859eddaf) |
