@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 16:34:36 GMT | THE BEST RECOVERY AGENT | Bob Gartland | [Read More](https://medium.com/p/02ece433a7de) |
+| Fri, 12 Sep 2025 16:33:32 GMT | Bug Bazaar Vulnerablities — Writeups | spidey | [Read More](https://medium.com/p/054ce1313f44) |
+| Fri, 12 Sep 2025 16:32:17 GMT | XSS (Cross-Site Scripting) | Zulfianarahmi | [Read More](https://medium.com/p/301c04086885) |
+| Fri, 12 Sep 2025 16:31:51 GMT | Portswigger DOM-based vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/e7cbf1cec680) |
+| Fri, 12 Sep 2025 16:31:36 GMT | Why I Was Wrong About Omniston: From Suspicion to Security | Zayad Of web3 | [Read More](https://medium.com/p/e71ad71ae9c0) |
+| Fri, 12 Sep 2025 16:28:00 GMT | The Cybercrime Domino Effect: How One Breach Can Cripple The Entire Organization | Gunjan | [Read More](https://medium.com/p/bfafd7aa8b3a) |
+| Fri, 12 Sep 2025 16:26:18 GMT | TryHackMe - Detecting Web Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/fa1cce2e2d60) |
+| Fri, 12 Sep 2025 16:17:59 GMT | Stepping into Ethical Hacking — Day 3: Installing Attacker Machine | Nitin Kudal | [Read More](https://medium.com/p/5af81d3982ad) |
+| Fri, 12 Sep 2025 16:16:32 GMT | Bulut Güvenliği: Şifreleme ve Veri Sızıntılarına Karşı Önlemler | Mustafa Caliskan | [Read More](https://medium.com/p/c74130a765ee) |
 | Fri, 12 Sep 2025 16:15:17 GMT | Quick Free Methods to Import Access Database to SQL Server | Simran Bhatia | [Read More](https://medium.com/p/221ecbb3c296) |
 | Fri, 12 Sep 2025 16:13:24 GMT | How to Track a Live Phone by IMEI Number (Ethically) | Mr. MOM | [Read More](https://medium.com/p/0458a0bbe786) |
 | Fri, 12 Sep 2025 16:12:19 GMT | 5 Ways Custom Cloth Wristbands Enhance Event Security | Arnett Credentials | [Read More](https://medium.com/p/e0cfdd3e10c2) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 12:39:12 GMT | The Strength in Feeling Your Emotions | Modern Muse Energy | [Read More](https://medium.com/p/2efd2ee07bcf) |
 | Fri, 12 Sep 2025 12:37:38 GMT | How to Get Into the Red Team: Complete Cybersecurity Career Roadmap (2025 Guide) | Joseph jr | [Read More](https://medium.com/p/699066f78d13) |
 | Fri, 12 Sep 2025 12:35:02 GMT | Rate Limiting vs Throttling: The Secret to Stable APIs | TechVest Blueprint | [Read More](https://medium.com/p/44853d77a55d) |
-| Fri, 12 Sep 2025 12:32:20 GMT | How to Become a Blue Team Analyst: Training, Skills, and Jobs Explained | Joseph jr | [Read More](https://medium.com/p/2e8272dd07cc) |
-| Fri, 12 Sep 2025 12:32:15 GMT | The Only JavaScript Security Guide You Need: Stopping XSS and CSRF | SnehaTech | [Read More](https://medium.com/p/8a8a4349773b) |
-| Fri, 12 Sep 2025 12:25:54 GMT | Wireless Penetration Testing: A Step-by-Step WiFi Hacking Guide | Craw Cyber Security | [Read More](https://medium.com/p/dffa0855b6c4) |
-| Fri, 12 Sep 2025 12:21:48 GMT | The Secret Sauce of Secure APIs | TechVest Blueprint | [Read More](https://medium.com/p/ec35183be803) |
-| Fri, 12 Sep 2025 12:18:10 GMT | Is Going Offline the Only Way to Stay Safe? | Your's Nightmare | [Read More](https://medium.com/p/5051736946c7) |
-| Fri, 12 Sep 2025 12:18:06 GMT | Are We Letting Social Media Raise Our Children? | Your's Nightmare | [Read More](https://medium.com/p/00850f50157d) |
-| Fri, 12 Sep 2025 12:17:35 GMT | AI-Powered Self-Healing IT Support in Brisbane | Elevate | [Read More](https://medium.com/p/064332f2e14b) |
-| Fri, 12 Sep 2025 12:11:21 GMT | When a $10 Donation Becomes a $15,000 Nightmare: Chicago Street Fraud on the Rise | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/7cd54c8f6df7) |
-| Fri, 12 Sep 2025 12:07:44 GMT | SalineBreeze-1: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/e46a47a0d7d0) |
