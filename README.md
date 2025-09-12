@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 18:21:59 GMT | Kioptrix Level 3 Walkthrough — From SQL Injection to Root | Ahmed Shawky | [Read More](https://medium.com/p/782d4f9685b5) |
+| Fri, 12 Sep 2025 18:21:39 GMT | Compliance Management System: Building Trust and Reducing Risk | SafeAeon Inc. | [Read More](https://medium.com/p/5c4521c0268e) |
+| Fri, 12 Sep 2025 18:17:41 GMT | Microsoft’s Cable Crisis Highlights Turkey’s Next Strategic Frontier | Amir Imam | [Read More](https://medium.com/p/2cda87aa6109) |
+| Fri, 12 Sep 2025 18:16:10 GMT | Hacking the Past: Why WEP Failed and WPA3 Leads the Future | Natarajan C K | [Read More](https://medium.com/p/23032a2ccf50) |
+| Fri, 12 Sep 2025 18:10:08 GMT | The FAFSA Hustle: How Kenyan Youth Got Entangled in a Billion-Dollar U.S. Student Aid Fraud | ngugi | [Read More](https://medium.com/p/fa3d0b73f7df) |
+| Fri, 12 Sep 2025 18:05:35 GMT | What is CIA Triad? | Dhruv | [Read More](https://medium.com/p/850ac55315c1) |
+| Fri, 12 Sep 2025 18:02:57 GMT | Kioptrix — Level 3 | Midoabdellah | [Read More](https://medium.com/p/10d11c051e17) |
+| Fri, 12 Sep 2025 18:02:18 GMT | Search Results that Steal your Paycheck | Ashley Dai | [Read More](https://medium.com/p/ea26bfd2aa24) |
+| Fri, 12 Sep 2025 18:01:42 GMT | RCE realista basado en un caso real pagado con $30,000 | Gorka | [Read More](https://medium.com/p/a9a5412ee14d) |
+| Fri, 12 Sep 2025 17:58:44 GMT | How to Set Up a Homelab to Practice Penetration Testing at Home | SafeAeon Inc. | [Read More](https://medium.com/p/50e231ea11f4) |
+| Fri, 12 Sep 2025 17:57:42 GMT | Portswigger Web Cache Poisoning Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/99981f73622c) |
+| Fri, 12 Sep 2025 17:55:43 GMT | Bulenox reviews 2025: red flags to look out | Jack Benson | [Read More](https://medium.com/p/9e8514f20908) |
+| Fri, 12 Sep 2025 17:52:18 GMT | VPNs for Environmental Causes: How Privacy Tech Supports Digital Activism | Novix VPN | [Read More](https://medium.com/p/b4f0fb5c6ef0) |
+| Fri, 12 Sep 2025 17:49:36 GMT | A Calculated Provocation: Why Ukraine, Not Russia, May Be Behind the Polish Drone Incident | Lorant Komjathy | [Read More](https://medium.com/p/e564cbad94c4) |
+| Fri, 12 Sep 2025 17:46:44 GMT | Day 1 : Getting Into Cybersecurity | BoboExploits | [Read More](https://medium.com/p/dc32fa389ff5) |
+| Fri, 12 Sep 2025 17:46:11 GMT | Novix VPN — Fast, Secure & Free Trial | Novix VPN | [Read More](https://medium.com/p/bcada330ced6) |
+| Fri, 12 Sep 2025 17:44:28 GMT | I Was Shocked When My ChatGPT Coughed! -The Blurring Lines Between Reality and Deepfakes | Shefali Gokarn | [Read More](https://medium.com/p/c7252c15db28) |
+| Fri, 12 Sep 2025 17:42:44 GMT | Ethical Hacking and Cyber Security | Shaher bano | [Read More](https://medium.com/p/2cb13a228789) |
+| Fri, 12 Sep 2025 17:41:22 GMT | Two-Factor Authentication (2FA) in Laravel Starter Kits: A Practical Guide | Sadique Ali | [Read More](https://medium.com/p/a68e4e8356b0) |
 | Fri, 12 Sep 2025 17:36:37 GMT | Vulnerability Management as a Service: A Smarter Way to Stay Secure | SafeAeon Inc. | [Read More](https://medium.com/p/798860f4a0f7) |
+| Fri, 12 Sep 2025 17:35:29 GMT | hacking code | Omegartyson | [Read More](https://medium.com/p/591fed35c084) |
+| Fri, 12 Sep 2025 17:33:42 GMT | I found two security issues on my college blog website | Alanbiju | [Read More](https://medium.com/p/ad372666f30d) |
+| Fri, 12 Sep 2025 17:31:28 GMT | Your Project Deserves a Safe Home; Harden Your Linux Server First | Yannik Zeyer | [Read More](https://medium.com/p/9954fe4174a3) |
 | Fri, 12 Sep 2025 17:26:55 GMT | SWIFT Incident Response 2026 Mandate For Bank Cybersecurity | M. Ben | [Read More](https://medium.com/p/abcb621541c9) |
 | Fri, 12 Sep 2025 17:12:39 GMT | Tia’s Affection 4 Internet Protection | Tia B | [Read More](https://medium.com/p/3b5815b88475) |
 | Fri, 12 Sep 2025 17:08:18 GMT | Working with insecure domains on dev machines (localhost) | Rohit Shirke | [Read More](https://medium.com/p/c1f32256a6ea) |
@@ -91,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 14:05:52 GMT | Shocking cybersecurity blind spot: exposed by time sync | STR4T0TT0 | [Read More](https://medium.com/p/9a3af342aca4) |
 | Fri, 12 Sep 2025 14:05:32 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | مهدی رضایی | [Read More](https://medium.com/p/912ba003d317) |
 | Fri, 12 Sep 2025 14:04:09 GMT | DeOWASP top 10 for web application security. | Dhruv | [Read More](https://medium.com/p/8112fc51ba46) |
-| Fri, 12 Sep 2025 14:01:48 GMT | Why Web3 Security Needs Attention at the Pre-Foundational Level | Abatis ABTU | [Read More](https://medium.com/p/607005be6e08) |
-| Fri, 12 Sep 2025 14:01:48 GMT | Cyber Briefing: 2025.09.12 | CyberMaterial | [Read More](https://medium.com/p/afa9ad51b186) |
-| Fri, 12 Sep 2025 14:01:44 GMT | My Cloud Security Journey Continues: Conquering the AZ-900 | Ejike Etolue | [Read More](https://medium.com/p/ecb33fe7b21e) |
-| Fri, 12 Sep 2025 13:59:53 GMT | How to Import Your Credentials into All Pass Hub: A Step-by-Step Guide | Password Manager | [Read More](https://medium.com/p/c02117b32fd9) |
-| Fri, 12 Sep 2025 13:54:21 GMT | TryHackMe Corridor CTF Walkthrough: IDOR Vulnerability | Trixia Horner | [Read More](https://medium.com/p/3ce5a2746ef2) |
-| Fri, 12 Sep 2025 13:46:46 GMT | Zast.ai now can find 0-day in Python code with ZERO false positives | ZAST AI | [Read More](https://medium.com/p/0cd20c6ff313) |
-| Fri, 12 Sep 2025 13:46:41 GMT | Active Directory (AD) Basics | Suhel Kathi | [Read More](https://medium.com/p/6b3bcaaf3f20) |
-| Fri, 12 Sep 2025 13:44:03 GMT | Linux Auditing System Configuration | Eren Cankut Uysal | [Read More](https://medium.com/p/36c5c71454b1) |
-| Fri, 12 Sep 2025 13:40:00 GMT | Why I’m Bullish on Drosera: Ethereum’s Missing Piece for Autonomy | 0xysad | [Read More](https://medium.com/p/bcd03ab06706) |
-| Fri, 12 Sep 2025 13:39:47 GMT | Scaling security testing: lessons from launching a public bug bounty at Bolt | Allar Lauk | [Read More](https://medium.com/p/1061326fa6a5) |
-| Fri, 12 Sep 2025 13:38:53 GMT | Linux Discretionary Access Control (DAC) | Eren Cankut Uysal | [Read More](https://medium.com/p/8a8e172be1d6) |
-| Fri, 12 Sep 2025 13:37:49 GMT | How Mass Drones and AI Will Destroy Personal Security | ORPHEUS | [Read More](https://medium.com/p/eb7b9ffc39e6) |
-| Fri, 12 Sep 2025 13:36:33 GMT | DC: 1 Walkthrough | areej | [Read More](https://medium.com/p/9090a62e585b) |
-| Fri, 12 Sep 2025 13:33:56 GMT | Linux Mandatory Access Control (MAC) | Eren Cankut Uysal | [Read More](https://medium.com/p/82b6589e9bca) |
-| Fri, 12 Sep 2025 13:33:15 GMT | I Found 100+ API Keys in My JS Files in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/b78a1cad1dda) |
-| Fri, 12 Sep 2025 13:28:53 GMT | AI Hacked My House: The day My Smart Home Went Rogue | Sandeep Sengupta | [Read More](https://medium.com/p/c3dbb8bd7411) |
-| Fri, 12 Sep 2025 13:28:51 GMT | Kick ’Em Off: The Scary Simple Wi-Fi Attack Anyone Can Do (And How to Stop It) | Santhosh Kumar | [Read More](https://medium.com/p/9b2bc4d495e8) |
-| Fri, 12 Sep 2025 13:27:29 GMT | Linux Capability-Based Security | Eren Cankut Uysal | [Read More](https://medium.com/p/836726326359) |
-| Fri, 12 Sep 2025 13:25:48 GMT | Day 21:- Understanding Proxy Servers → The Invisible Middleman of the Internet | Prutha_Dongre | [Read More](https://medium.com/p/93ad030dcc36) |
-| Fri, 12 Sep 2025 13:24:25 GMT | Data Privacy Compliance Checklist for SaaS Applications | KodekX | [Read More](https://medium.com/p/0bdc851e5acc) |
-| Fri, 12 Sep 2025 13:22:08 GMT | Linux Security Contexts (SELinux, AppArmor) Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/adcd2451edb6) |
-| Fri, 12 Sep 2025 13:20:40 GMT | The Proactive Agent Reloaded: Slack and Symfony for Real-Time Communications | Matt Mochalkin | [Read More](https://medium.com/p/cecfa117e626) |
