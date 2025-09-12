@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 01:18:16 GMT | The Psychology of Problem-Solving in IT | Bonomi Tharinda | [Read More](https://medium.com/p/ca16e22d5ce5) |
+| Fri, 12 Sep 2025 01:18:10 GMT | Anonymous Introduction: The Future of Trustworthy, Private Connections in a Surveillance World | Aamir Hameed | [Read More](https://medium.com/p/70145a8a7140) |
+| Fri, 12 Sep 2025 01:01:44 GMT | Why “Lack of Capability or Robustness” Is the Default Weakness in AI Systems. | Adetutu Ogunsowo | [Read More](https://medium.com/p/a270c5ab8dc7) |
+| Fri, 12 Sep 2025 01:01:23 GMT | BITCOIN : A SAFE HAVEN | Lovyn Orizu | [Read More](https://medium.com/p/22f3aab32787) |
+| Fri, 12 Sep 2025 00:58:13 GMT | Why Should You Use ECDH for Key Exchange in Modern Cryptography? | Swapnil Damate, PMP® | [Read More](https://medium.com/p/fc284ba2763d) |
+| Fri, 12 Sep 2025 00:55:45 GMT | 5 Crucial Pen Testing Steps Most Teams Overlook | Aj | [Read More](https://medium.com/p/23fb842b5d6f) |
+| Fri, 12 Sep 2025 00:55:08 GMT | Securely Access AWS DynamoDB Using an SSH Tunnel | Kavindu Gunathilake | [Read More](https://medium.com/p/765122426ac7) |
+| Fri, 12 Sep 2025 00:53:52 GMT | Securing Your GitHub Codebase: 6 Essential Tools Every Developer Must Know | Vedant Vartak | [Read More](https://medium.com/p/7589e3c87962) |
+| Fri, 12 Sep 2025 00:53:42 GMT | Top 3 Must-Have Tools for Web Security Testing | Shahzaib | [Read More](https://medium.com/p/1b04d490f1e0) |
+| Fri, 12 Sep 2025 00:51:34 GMT | remembering real designers | Michael Darius | [Read More](https://medium.com/p/bbf9193f3b80) |
+| Fri, 12 Sep 2025 00:49:48 GMT | Operation Sindoor and the Future of Warfare: India’s Lessons in Narrative, Deterrence, and Global… | Igniting Minds | [Read More](https://medium.com/p/bfd6bfea9b6c) |
+| Fri, 12 Sep 2025 00:41:38 GMT | The Best Antivirus and Endpoint Protection for 2025 | Samina Perveen | [Read More](https://medium.com/p/aad657308dd8) |
+| Fri, 12 Sep 2025 00:25:41 GMT | The NPM Supply Chain Attack and the Odd Choice of Wallet Hijacking | littlewing | [Read More](https://medium.com/p/66cacad4637b) |
+| Fri, 12 Sep 2025 00:22:03 GMT | Linux AppArmor profile management | Linux Details | [Read More](https://medium.com/p/434a6b87d1e2) |
+| Fri, 12 Sep 2025 00:20:57 GMT | زاهدان زابل | خاله تهران رشت اهواز خاله گرگان | [Read More](https://medium.com/p/135655beecf6) |
+| Fri, 12 Sep 2025 00:16:12 GMT | RomCom — Digital Forensics (DFIR) | Tiziano Mass | [Read More](https://medium.com/p/e289b90391af) |
+| Fri, 12 Sep 2025 00:12:41 GMT | Linux firewall setup | Linux Details | [Read More](https://medium.com/p/8bb739260407) |
+| Fri, 12 Sep 2025 00:01:44 GMT | Wfuzz: Fuzzing Web para Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/81723a6b0d16) |
+| Fri, 12 Sep 2025 00:00:58 GMT | El Bandito writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a071cfb0fb2a) |
 | Thu, 11 Sep 2025 23:22:13 GMT | The Anatomy of a Breach: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/c2d0e0c7e4d8) |
 | Thu, 11 Sep 2025 23:17:39 GMT | So Many Questions; U.S. Airstrikes, the Caribbean Battlefield, and the Future of International Law. | N H Medina | [Read More](https://medium.com/p/4aa1099b1155) |
 | Thu, 11 Sep 2025 23:17:19 GMT | Integrating Chrome Enterprise Premium for a Unified Zero-Trust Security Posture | Jeff | [Read More](https://medium.com/p/b73a737d6426) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 18:21:36 GMT | Kioptrix: Level 1.1 (#2) | d4vnull | [Read More](https://medium.com/p/716cd76c3572) |
 | Thu, 11 Sep 2025 18:18:20 GMT | PG Play — FunboxEasyEnum (Linux) | Lepton | [Read More](https://medium.com/p/2c6120bcf512) |
 | Thu, 11 Sep 2025 18:18:08 GMT | Safe by Default: Building a Minimal, Rootless Sandbox on Linux | Trevor Woollacott | [Read More](https://medium.com/p/4fcc02d9bed0) |
-| Thu, 11 Sep 2025 18:16:52 GMT | The Cyber Security Details Handbook | Cyber Security Research | [Read More](https://medium.com/p/3858ed529cb5) |
-| Thu, 11 Sep 2025 18:11:44 GMT | Decoding Cyber Security: A Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/7263a32358e1) |
-| Thu, 11 Sep 2025 18:02:16 GMT | One Click Account Takeover: how an insecure password-reset flow + mass assignment leads to full… | القنصل | [Read More](https://medium.com/p/62f1bf17821d) |
-| Thu, 11 Sep 2025 18:02:01 GMT | El mejor camino para entrar es entender por qué otros no lo ven | Gorka | [Read More](https://medium.com/p/87c051c7011c) |
-| Thu, 11 Sep 2025 18:00:38 GMT | *The Evolution of Cybersecurity: Protecting Our Digital Future* | Iliya Kulaha | [Read More](https://medium.com/p/3e7e1a1231fa) |
-| Thu, 11 Sep 2025 17:57:03 GMT | Why GRC Engineering Is The Future Of Governance, Risk & Compliance | Taimur Ijlal | [Read More](https://medium.com/p/91a1b06980ed) |
-| Thu, 11 Sep 2025 17:56:15 GMT | Telegram @ablertgonzalez Earn Via PayPal cashapp Bank ccEarn 2500 dollars daily via PayPal cashapp… | Blackbox | [Read More](https://medium.com/p/4ff31594d57a) |
-| Thu, 11 Sep 2025 17:53:56 GMT | Brutus write-up [auth.log & wtmp] | Cy3erS@up | [Read More](https://medium.com/p/5e5567d07e5e) |
-| Thu, 11 Sep 2025 17:53:37 GMT | SCHS: The Security System That Heals, Shields, and Verifies | Tolu Adewole | [Read More](https://medium.com/p/af5e631c6deb) |
-| Thu, 11 Sep 2025 17:47:23 GMT | Phishing & Social Engineering Campaign Simulation | Muse Abdulrahmon | [Read More](https://medium.com/p/1167dded7063) |
-| Thu, 11 Sep 2025 17:45:57 GMT | Why Your Personal Data Is Worth More Than Gold | Soban Majeed | [Read More](https://medium.com/p/17f253071ac6) |
-| Thu, 11 Sep 2025 17:34:45 GMT | The Day I Stopped Saying “I’m Fine” | Darpan Murly | [Read More](https://medium.com/p/7722667b4d3a) |
-| Thu, 11 Sep 2025 17:27:29 GMT | Exposed: 38 terabytes of private data from Azure! | IsaacFabianK | [Read More](https://medium.com/p/e968a454995c) |
-| Thu, 11 Sep 2025 17:27:24 GMT | BLE Penetration Testing-1 | Theo | [Read More](https://medium.com/p/1e4c57f47fcc) |
-| Thu, 11 Sep 2025 17:23:37 GMT | Shadow AI: The Unauthorized Security Risk Hiding in Plain Sight | Eric Zietlow | [Read More](https://medium.com/p/ff1767b98085) |
-| Thu, 11 Sep 2025 17:21:03 GMT | Cracking Open IDOR: My First Hands-On with Broken Access Control | Esom Eze | [Read More](https://medium.com/p/d3d253f6bf63) |
-| Thu, 11 Sep 2025 17:18:47 GMT | Deploying Active Passive High Availability for Palo Alto VM-Series Firewalls in AWS | Adhiraj Jarwal | [Read More](https://medium.com/p/671358783deb) |
-| Thu, 11 Sep 2025 17:08:52 GMT | Right Time to Hire a CISO? | Matthew.Rosenquist | [Read More](https://medium.com/p/b84ba851a94c) |
-| Thu, 11 Sep 2025 17:07:18 GMT | The Future of Learning: How Cybersecurity Education Will Become a Core Subject | Xaltius | [Read More](https://medium.com/p/4e1b1217ee3a) |
