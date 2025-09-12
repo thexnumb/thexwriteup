@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 08:40:01 GMT | CCTV Installation: A Smart Step Towards Security | Nestrondigitalhub | [Read More](https://medium.com/p/14c2d9a6f671) |
+| Fri, 12 Sep 2025 08:39:14 GMT | How to Migrate Your Vite + React + TypeScript Project from npm to Yarn (The Clean Way) | AIAlchemist_Ab1r | [Read More](https://medium.com/p/051001020f36) |
+| Fri, 12 Sep 2025 08:38:23 GMT | When Your AI Assistant Becomes Your Biggest Security Risk | Paul Sherman | [Read More](https://medium.com/p/7f0476820982) |
+| Fri, 12 Sep 2025 08:34:53 GMT | Digisol DG-GR1321 Router Vulnerability: Improper Access Control (CVE-2024–4231) | Redfox Security | [Read More](https://medium.com/p/c70455b6606f) |
+| Fri, 12 Sep 2025 08:27:50 GMT | CVE-2025–56426: Upcoming Cart Price Manipulation Vulnerability | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/468b72311969) |
+| Fri, 12 Sep 2025 08:23:50 GMT | DVWA Modules:- walkthrough, Brute Force Attack (Hydra…..) | Aashish Vishwakarma | [Read More](https://medium.com/p/e85e40d2fd1a) |
+| Fri, 12 Sep 2025 08:23:45 GMT | The September 2025 NPM Compromise: How 25 Popular Packages Were Weaponised and What We Built to… | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/033d7a537fe9) |
+| Fri, 12 Sep 2025 08:21:24 GMT | Best mini e-pump 2025 | Thefccracing | [Read More](https://medium.com/p/998e9eefc40e) |
 | Fri, 12 Sep 2025 08:21:01 GMT | DockerLabs Writeup — HiddenCat (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e05ad2c93701) |
+| Fri, 12 Sep 2025 08:17:44 GMT | Between Instagram and Reality: Emotions, Fears, and the Desire for More | Geanina-Ligia Pârvan | [Read More](https://medium.com/p/9a638000e08f) |
 | Fri, 12 Sep 2025 08:10:12 GMT | Successfully Completing the “Introduction to Cybersecurity” Course from Cisco Networking Academy | Kizito Arinze Chukwu | [Read More](https://medium.com/p/63177381deec) |
 | Fri, 12 Sep 2025 08:05:00 GMT | DECODE 2025: Maximize Momentum | Muriell Maza | [Read More](https://medium.com/p/20fba8f059b5) |
 | Fri, 12 Sep 2025 08:03:35 GMT | Compliance-Ready PHP → Tips for GDPR, HIPAA, and Beyond | Asian Digital Hub | [Read More](https://medium.com/p/fc64144cae6a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 02:53:47 GMT | Join the SubHub Content Bounty: 500,000 $SUBHUB Scores + NFTs Up for Grabs | SubHub | [Read More](https://medium.com/p/34b3f4d5650b) |
 | Fri, 12 Sep 2025 02:33:06 GMT | How I Almost Got Pwned — A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong | Dale Nguyen | [Read More](https://medium.com/p/e68caca1f246) |
 | Fri, 12 Sep 2025 02:17:34 GMT | Install and Explore Kali Linux | Muhambiphares | [Read More](https://medium.com/p/8e47b876104c) |
-| Fri, 12 Sep 2025 02:05:28 GMT | Ducat: The Stablecoin Bitcoin Has Been Waiting For | Blessing Shodunke | [Read More](https://medium.com/p/bf87c58c2d27) |
-| Fri, 12 Sep 2025 01:48:36 GMT | The Test I Keep Giving | Adedolapo Olisa | [Read More](https://medium.com/p/95e23cabda95) |
-| Fri, 12 Sep 2025 01:44:14 GMT | WhatsApp Zero-Day Chained With Apple Flaw in Sophisticated iPhone Attacks | SafetyDetectives Research Team | [Read More](https://medium.com/p/5fab783e95f9) |
-| Fri, 12 Sep 2025 01:41:30 GMT | Ukrainian Networks Linked to Large-Scale Brute-Force Attacks on VPN and RDP Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/b30f0cf6d534) |
-| Fri, 12 Sep 2025 01:30:07 GMT | Avoid Confusing Digital Transformation with Tool Modernization -Especially in the AI Era | Milan's Outlook | [Read More](https://medium.com/p/b167122cd072) |
-| Fri, 12 Sep 2025 01:18:16 GMT | The Psychology of Problem-Solving in IT | Bonomi Tharinda | [Read More](https://medium.com/p/ca16e22d5ce5) |
-| Fri, 12 Sep 2025 01:18:10 GMT | Anonymous Introduction: The Future of Trustworthy, Private Connections in a Surveillance World | Aamir Hameed | [Read More](https://medium.com/p/70145a8a7140) |
-| Fri, 12 Sep 2025 01:01:44 GMT | Why “Lack of Capability or Robustness” Is the Default Weakness in AI Systems. | Adetutu Ogunsowo | [Read More](https://medium.com/p/a270c5ab8dc7) |
-| Fri, 12 Sep 2025 01:01:23 GMT | BITCOIN : A SAFE HAVEN | Lovyn Orizu | [Read More](https://medium.com/p/22f3aab32787) |
