@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 22:07:42 GMT | TryHackMe #7 - Packets & Frames | 0xGroot | [Read More](https://medium.com/p/582c2ee5a6a6) |
+| Fri, 12 Sep 2025 22:06:29 GMT | Advanced Techniques for Optimizing Authentication in Next.js Applications | @rnab | [Read More](https://medium.com/p/2dad0c003ba5) |
+| Fri, 12 Sep 2025 22:01:45 GMT | TryHackMe #6 - OSI Model | 0xGroot | [Read More](https://medium.com/p/c4223efb5662) |
+| Fri, 12 Sep 2025 21:50:19 GMT | Hackers Hate These 3 API Defenses | Cyber-AppSec | [Read More](https://medium.com/p/6d863a795c6f) |
+| Fri, 12 Sep 2025 21:45:37 GMT | Who’s Selling the Keys to Your Digital Kingdom? Understanding IABs — Initial Access Brokers | Chris Zhang | [Read More](https://medium.com/p/3696dcd2dbce) |
+| Fri, 12 Sep 2025 21:43:28 GMT | CyberDefenders — Amadey Lab | jon | [Read More](https://medium.com/p/4643d1a17911) |
 | Fri, 12 Sep 2025 21:30:55 GMT | The Value of Participating in the Microsoft Tech Community | Cyber Cav | [Read More](https://medium.com/p/bf5f2ad7dcf7) |
 | Fri, 12 Sep 2025 21:25:27 GMT | The Delivery Leaders Economic Edge: Reading the Job Market to Run Better Projects, Programs and… | Santhush | [Read More](https://medium.com/p/03103c4e2d5e) |
 | Fri, 12 Sep 2025 21:24:27 GMT | Decryptify writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a48e1547dcff) |
 | Fri, 12 Sep 2025 21:21:47 GMT | The Role of AI and Automation in Smart Home Security Systems | CSI Security | [Read More](https://medium.com/p/75b8dbed51d2) |
+| Fri, 12 Sep 2025 20:59:40 GMT | From Crack to Crown: Mapping the Red Team Kill Chain in Active Directory | Jonathan Brown | [Read More](https://medium.com/p/f847bea763b9) |
 | Fri, 12 Sep 2025 20:57:19 GMT | Data Sovereignty vs. Storage Autonomy: 
 The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5a636e4d5b) |
 | Fri, 12 Sep 2025 20:45:02 GMT | BSides Belfast 2025 — My experience. | JD | [Read More](https://medium.com/p/f97d5659e166) |
@@ -106,10 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 16:06:16 GMT | Making Sure Your Money Is Safe | Defi Monk | [Read More](https://medium.com/p/0f199b57727f) |
 | Fri, 12 Sep 2025 16:04:04 GMT | The Unbreakable System: Finding the Flaws No One Else Can See | Samina Perveen | [Read More](https://medium.com/p/448cac06bfed) |
 | Fri, 12 Sep 2025 16:01:30 GMT | Boiler CTF Walkthrough: Medium TryHackMe Challenge with Joomla Exploit & Privilege Escalation | Prajwal | [Read More](https://medium.com/p/d044ff1e1038) |
-| Fri, 12 Sep 2025 16:00:18 GMT | HTB Sherlock:Operation Blackout 2025: Phantom Check | Serkan | [Read More](https://medium.com/p/5d499f2ae764) |
-| Fri, 12 Sep 2025 15:54:01 GMT | Bug Bounty : How an OTP Bypass Got Me in the Hall of Fame | Arrhenius Paelongan | [Read More](https://medium.com/p/5db11bb34e2c) |
-| Fri, 12 Sep 2025 15:48:34 GMT | Master Real-World Web App Enumeration with Curl, Wget, and Bash: A Step-by-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/5f74ab34e795) |
-| Fri, 12 Sep 2025 15:47:26 GMT | The MOVEit Supply Chain Breach: How Clop Ransomware Shook the Digital World | NineTales | [Read More](https://medium.com/p/5c6147a2ff37) |
-| Fri, 12 Sep 2025 15:42:49 GMT | Your First Step into Ethical Hacking with Concepts, Lab Setup, and Key Skills. | Zeeshan Masood Keyani | [Read More](https://medium.com/p/430225177260) |
-| Fri, 12 Sep 2025 15:41:21 GMT | Salesforce: Sécuriser les Connected Apps (obligatoire dès sept 2025) | Nicolas Vuillamy | [Read More](https://medium.com/p/843a825b0fd0) |
-| Fri, 12 Sep 2025 15:39:56 GMT | How Burnr Changes Privacy in a World of Digital Permanence: Share Once, Leave No Trace | Burnr | [Read More](https://medium.com/p/ef1821ad0d88) |
