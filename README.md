@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 11:11:42 GMT | Developer Loadout: How Simple Tools Build a Smart, Efficient Team | Namir Sagheenanajar | [Read More](https://medium.com/p/af70cee32cac) |
+| Fri, 12 Sep 2025 11:10:24 GMT | Where can I just click EVERYTHING at once? | Balki Maharaj | [Read More](https://medium.com/p/20bcb968db24) |
+| Fri, 12 Sep 2025 11:01:00 GMT | تهران زنجان | ‏شماره داف شماره خاله سکس حضوری شماره خاله واقعی ش | [Read More](https://medium.com/p/85e5d190c325) |
+| Fri, 12 Sep 2025 10:59:06 GMT | Single-Vendor SASE vs. Universal SASE: Which Model Fits Your Enterprise? | Shailendra Prajapati | [Read More](https://medium.com/p/2f76809ecac7) |
+| Fri, 12 Sep 2025 10:53:19 GMT | Building My Future in Technology | Cpdumalagan | [Read More](https://medium.com/p/0fbbfa18c796) |
+| Fri, 12 Sep 2025 10:52:39 GMT | Why Your PostgreSQL Queries Are 10x Slower on Kubernetes (and How to Fix It) | Rizqi Mulki | [Read More](https://medium.com/p/77e48d8d802f) |
+| Fri, 12 Sep 2025 10:49:37 GMT | Stop Burning Cloud Credits: Optimize PostgreSQL Before It’s Too Late | Rizqi Mulki | [Read More](https://medium.com/p/d18732aa3214) |
+| Fri, 12 Sep 2025 10:48:44 GMT | 14. How to Write a Perfect Vulnerability Report | Abhijeet kumawat | [Read More](https://medium.com/p/f07c8a02fc45) |
+| Fri, 12 Sep 2025 10:41:05 GMT | Laravel vs Symfony: The 2025 PHP Showdown | Rizqi Mulki | [Read More](https://medium.com/p/3560ddd0a2da) |
+| Fri, 12 Sep 2025 10:37:46 GMT | Kioptrix: Level 1.2 (#3) | d4vnull | [Read More](https://medium.com/p/404b9aa90f44) |
+| Fri, 12 Sep 2025 10:37:41 GMT | Bluetooth Hacking: BlueBorne Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/d82dfa6dc1b8) |
+| Fri, 12 Sep 2025 10:37:16 GMT | Kioptrix Level 1 Walkthrough — Exploiting Apache mod_ssl & Privilege Escalation | Ahmed Shawky | [Read More](https://medium.com/p/66bba328b349) |
 | Fri, 12 Sep 2025 10:36:04 GMT | MERN vs Laravel: Which One Wins for Startups? | Rizqi Mulki | [Read More](https://medium.com/p/ac7f9266781f) |
 | Fri, 12 Sep 2025 10:33:08 GMT | Why You Should Never Hardcode Secrets in Your Code | Prasanth Rao | [Read More](https://medium.com/p/775e7dae3652) |
 | Fri, 12 Sep 2025 10:29:19 GMT | MERN vs MEVN: Which Is Still Relevant in 2025? | Rizqi Mulki | [Read More](https://medium.com/p/6f3c14e7c008) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 06:22:26 GMT | Siber Güvenlikte En Çok Kullanılan Araçlar: Ağ, Uygulama, Bulut ve Olay Yönetimi | murat yayla | [Read More](https://medium.com/p/c73c0a3fc84a) |
 | Fri, 12 Sep 2025 06:20:22 GMT | CN-Series Container Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/396a2ec2de69) |
 | Fri, 12 Sep 2025 06:17:54 GMT | How I Protect 6 Apps for $0/Month with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/18b2eb6e172d) |
-| Fri, 12 Sep 2025 06:17:30 GMT | Artificial Intelligence | G6 Technology | [Read More](https://medium.com/p/50de97e8286f) |
-| Fri, 12 Sep 2025 06:09:32 GMT | Top 50 Ethical Hacking Interview Questions and Answers for Freshers (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/73fd73bed381) |
-| Fri, 12 Sep 2025 06:04:10 GMT | DNS Security and it’s Impact on Your Network | Rashadul Islam | [Read More](https://medium.com/p/1946e85c1237) |
-| Fri, 12 Sep 2025 06:00:43 GMT | Today’s Top Cyber Intelligence Highlights — Sep 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/288bee3a4f2a) |
-| Fri, 12 Sep 2025 06:00:10 GMT | The GRC Wire, August 2025: Automation with context: Smarter, not just faster | Scrut Automation | [Read More](https://medium.com/p/6bba8641df1f) |
-| Fri, 12 Sep 2025 05:55:03 GMT | QBER: Turning Risk Alignment Into Strategy | Zeron | [Read More](https://medium.com/p/acc451b99ec7) |
-| Fri, 12 Sep 2025 05:53:08 GMT | Difference Between DVR and NVR: A Complete Guide | Smart Secures | [Read More](https://medium.com/p/185143bdce46) |
-| Fri, 12 Sep 2025 05:45:05 GMT | I Thought He Was Helping Me: He Was Hacking Me | Shahzaib | [Read More](https://medium.com/p/f8a2f11f1b73) |
-| Fri, 12 Sep 2025 05:42:12 GMT | ZIP Slip Surprise: How I Turned a File Upload into Remote Code Execution | Iski | [Read More](https://medium.com/p/1cdad896c54c) |
-| Fri, 12 Sep 2025 05:38:45 GMT | Cracking Forensics CTFs 1.0 — picoCTF | Swetha | [Read More](https://medium.com/p/8b143d12b615) |
-| Fri, 12 Sep 2025 05:34:33 GMT | Code Review : SSRF | AbhirupKonwar | [Read More](https://medium.com/p/f4cefb331a17) |
-| Fri, 12 Sep 2025 05:33:36 GMT | Dick Size: When Is Too Big? | Lovemysteries | [Read More](https://medium.com/p/ee00a2c69159) |
