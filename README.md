@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 17:36:37 GMT | Vulnerability Management as a Service: A Smarter Way to Stay Secure | SafeAeon Inc. | [Read More](https://medium.com/p/798860f4a0f7) |
+| Fri, 12 Sep 2025 17:26:55 GMT | SWIFT Incident Response 2026 Mandate For Bank Cybersecurity | M. Ben | [Read More](https://medium.com/p/abcb621541c9) |
 | Fri, 12 Sep 2025 17:12:39 GMT | Tia’s Affection 4 Internet Protection | Tia B | [Read More](https://medium.com/p/3b5815b88475) |
 | Fri, 12 Sep 2025 17:08:18 GMT | Working with insecure domains on dev machines (localhost) | Rohit Shirke | [Read More](https://medium.com/p/c1f32256a6ea) |
 | Fri, 12 Sep 2025 17:06:19 GMT | Confused About Cybersecurity Certs? Here Are the 12 That Actually Count | Faraz Weerabangsa | [Read More](https://medium.com/p/c36fd282d81b) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 13:24:25 GMT | Data Privacy Compliance Checklist for SaaS Applications | KodekX | [Read More](https://medium.com/p/0bdc851e5acc) |
 | Fri, 12 Sep 2025 13:22:08 GMT | Linux Security Contexts (SELinux, AppArmor) Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/adcd2451edb6) |
 | Fri, 12 Sep 2025 13:20:40 GMT | The Proactive Agent Reloaded: Slack and Symfony for Real-Time Communications | Matt Mochalkin | [Read More](https://medium.com/p/cecfa117e626) |
-| Fri, 12 Sep 2025 13:17:00 GMT | Beyond Encryption: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/a4703904ffe4) |
-| Fri, 12 Sep 2025 13:09:46 GMT | ️ Windows 11’s September 2025 Security Update: More Personal, More Private | GROWAI_EDTECH | [Read More](https://medium.com/p/0e0e94a68d3c) |
