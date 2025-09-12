@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 02:33:06 GMT | How I Almost Got Pwned — A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong | Dale Nguyen | [Read More](https://medium.com/p/e68caca1f246) |
+| Fri, 12 Sep 2025 02:17:34 GMT | Install and Explore Kali Linux | Muhambiphares | [Read More](https://medium.com/p/8e47b876104c) |
+| Fri, 12 Sep 2025 02:05:28 GMT | Ducat: The Stablecoin Bitcoin Has Been Waiting For | Blessing Shodunke | [Read More](https://medium.com/p/bf87c58c2d27) |
+| Fri, 12 Sep 2025 01:48:36 GMT | The Test I Keep Giving | Adedolapo Olisa | [Read More](https://medium.com/p/95e23cabda95) |
+| Fri, 12 Sep 2025 01:44:14 GMT | WhatsApp Zero-Day Chained With Apple Flaw in Sophisticated iPhone Attacks | SafetyDetectives Research Team | [Read More](https://medium.com/p/5fab783e95f9) |
+| Fri, 12 Sep 2025 01:41:30 GMT | Ukrainian Networks Linked to Large-Scale Brute-Force Attacks on VPN and RDP Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/b30f0cf6d534) |
+| Fri, 12 Sep 2025 01:30:07 GMT | Avoid Confusing Digital Transformation with Tool Modernization -Especially in the AI Era | Milan's Outlook | [Read More](https://medium.com/p/b167122cd072) |
 | Fri, 12 Sep 2025 01:18:16 GMT | The Psychology of Problem-Solving in IT | Bonomi Tharinda | [Read More](https://medium.com/p/ca16e22d5ce5) |
 | Fri, 12 Sep 2025 01:18:10 GMT | Anonymous Introduction: The Future of Trustworthy, Private Connections in a Surveillance World | Aamir Hameed | [Read More](https://medium.com/p/70145a8a7140) |
 | Fri, 12 Sep 2025 01:01:44 GMT | Why “Lack of Capability or Robustness” Is the Default Weakness in AI Systems. | Adetutu Ogunsowo | [Read More](https://medium.com/p/a270c5ab8dc7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 18:27:12 GMT | Beyond the Firewall: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/343ae140f43e) |
 | Thu, 11 Sep 2025 18:26:10 GMT | Part 3: The MCP Supply Chain Nightmare | Dr. Cesar Guzman | [Read More](https://medium.com/p/720c19e2124f) |
 | Thu, 11 Sep 2025 18:25:45 GMT | Cyberhygiene Tips Everyone Should Follow: Digital Safety Routine | Bhushan | [Read More](https://medium.com/p/54ae30bb3326) |
-| Thu, 11 Sep 2025 18:25:18 GMT | Breaking Into Tech Without a Security+ | Cyber Cav | [Read More](https://medium.com/p/cc64c14d9f35) |
-| Thu, 11 Sep 2025 18:24:53 GMT | Autonomous Cybersecurity: AI’s Role in Protecting Enterprises | planck_deeptech | [Read More](https://medium.com/p/dfa3b61e93b6) |
-| Thu, 11 Sep 2025 18:23:18 GMT | Why Every Developer Should Understand PKI (And How It Actually Works) | Mohammadreza Ashouri | [Read More](https://medium.com/p/a33dbe551aa8) |
-| Thu, 11 Sep 2025 18:22:27 GMT | Candidates’ Experience Management: Shaping the Future of Hiring | Bhushan | [Read More](https://medium.com/p/c3d0c8eef356) |
-| Thu, 11 Sep 2025 18:21:36 GMT | Kioptrix: Level 1.1 (#2) | d4vnull | [Read More](https://medium.com/p/716cd76c3572) |
-| Thu, 11 Sep 2025 18:18:20 GMT | PG Play — FunboxEasyEnum (Linux) | Lepton | [Read More](https://medium.com/p/2c6120bcf512) |
-| Thu, 11 Sep 2025 18:18:08 GMT | Safe by Default: Building a Minimal, Rootless Sandbox on Linux | Trevor Woollacott | [Read More](https://medium.com/p/4fcc02d9bed0) |
