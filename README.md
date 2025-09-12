@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 23:16:09 GMT | The Insider Threat: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/01d734d97bfd) |
+| Fri, 12 Sep 2025 22:30:43 GMT | Do you ever feel the pressure to know everything in cybersecurity? | Cybergilly | [Read More](https://medium.com/p/3de67637a5b0) |
 | Fri, 12 Sep 2025 22:22:34 GMT | The Inferno Below the Ice | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/79ff02255bd9) |
 | Fri, 12 Sep 2025 22:11:42 GMT | TryHackMe #8 - Extending Your Network | 0xGroot | [Read More](https://medium.com/p/f6b646103cd5) |
 | Fri, 12 Sep 2025 22:11:41 GMT | CVE-2025–56448: Replay Attack Vulnerability in Positron PX360BT Car Alarm System | Wagner Alves | [Read More](https://medium.com/p/c9f1ccea6ebe) |
@@ -111,5 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 16:16:32 GMT | Bulut Güvenliği: Şifreleme ve Veri Sızıntılarına Karşı Önlemler | Mustafa Caliskan | [Read More](https://medium.com/p/c74130a765ee) |
 | Fri, 12 Sep 2025 16:15:17 GMT | Quick Free Methods to Import Access Database to SQL Server | Simran Bhatia | [Read More](https://medium.com/p/221ecbb3c296) |
 | Fri, 12 Sep 2025 16:13:24 GMT | How to Track a Live Phone by IMEI Number (Ethically) | Mr. MOM | [Read More](https://medium.com/p/0458a0bbe786) |
-| Fri, 12 Sep 2025 16:12:19 GMT | 5 Ways Custom Cloth Wristbands Enhance Event Security | Arnett Credentials | [Read More](https://medium.com/p/e0cfdd3e10c2) |
-| Fri, 12 Sep 2025 16:09:40 GMT | Your Crypto Swap is a Hunt for the Perfect Sneakers | Web3 Itagi | [Read More](https://medium.com/p/3d52eda323ea) |
