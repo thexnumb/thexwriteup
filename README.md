@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 04:02:21 GMT | How Quantum Computing Affects Blockchain Security | Dukerearing | [Read More](https://medium.com/p/7efac20eac67) |
+| Fri, 12 Sep 2025 03:55:55 GMT | ImportSnare: Directed “Code Manual” Hijacking in Retrieval-Augmented Code Generation (ImportSnare… | YouShin kim | [Read More](https://medium.com/p/cff99216ef2b) |
+| Fri, 12 Sep 2025 03:48:59 GMT | Why Identity Security Is the Future of Cybersecurity | Abhinav Biju | [Read More](https://medium.com/p/4d285a300e74) |
+| Fri, 12 Sep 2025 03:48:20 GMT | Reviving a classic Korean online puzzle videogame — TwinHexa Arcade | Renzo Pigliacampo | [Read More](https://medium.com/p/0892a569abea) |
+| Fri, 12 Sep 2025 03:38:51 GMT | Night Theft at Car Dealerships: Deterred by Portable Surveillance Trailers | IVIS Security | [Read More](https://medium.com/p/9c3d77e8b1b3) |
 | Fri, 12 Sep 2025 03:38:43 GMT | Smartbi RCE Vulnerability: Patch Fast Before Hackers Do | AerieWhole123 | [Read More](https://medium.com/p/8e20424ab59c) |
 | Fri, 12 Sep 2025 03:31:59 GMT | The Double-Edged Sword: AI’s Rise and Cybersecurity’s New Battleground | Akshat Ratanpal | [Read More](https://medium.com/p/3827213e4fe4) |
 | Fri, 12 Sep 2025 03:02:20 GMT | PCI DSS & Digital Payments — Protecting Trust in a Cashless World | Dr. Deep Pandey | [Read More](https://medium.com/p/ab7576c87237) |
 | Fri, 12 Sep 2025 03:01:28 GMT | The Essential Security Checklist for Your AI-Built MVP | DataScience Nexus | [Read More](https://medium.com/p/8ecd80152b25) |
+| Fri, 12 Sep 2025 02:53:47 GMT | Join the SubHub Content Bounty: 500,000 $SUBHUB Scores + NFTs Up for Grabs | SubHub | [Read More](https://medium.com/p/34b3f4d5650b) |
 | Fri, 12 Sep 2025 02:33:06 GMT | How I Almost Got Pwned — A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong | Dale Nguyen | [Read More](https://medium.com/p/e68caca1f246) |
 | Fri, 12 Sep 2025 02:17:34 GMT | Install and Explore Kali Linux | Muhambiphares | [Read More](https://medium.com/p/8e47b876104c) |
 | Fri, 12 Sep 2025 02:05:28 GMT | Ducat: The Stablecoin Bitcoin Has Been Waiting For | Blessing Shodunke | [Read More](https://medium.com/p/bf87c58c2d27) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 18:52:12 GMT | Building Your Own YARA Alternative: A Machine Learning Malware Classifier in Python | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/f0010369fed4) |
 | Thu, 11 Sep 2025 18:51:11 GMT | HTB GettingStarted Writeup (CPTS) | Armando Bueno | [Read More](https://medium.com/p/35855c48f5ec) |
 | Thu, 11 Sep 2025 18:50:36 GMT | Securing AWS Resources: IAM Groups, Policies, and RDS Permissions | DarkoTechOps | [Read More](https://medium.com/p/e85c99986f82) |
-| Thu, 11 Sep 2025 18:45:56 GMT | Installing Kali Linux on Qubes OS: A Quick Guide | Glenn Sorrentino | [Read More](https://medium.com/p/3ead42579c04) |
-| Thu, 11 Sep 2025 18:41:41 GMT | Cyber security interview questions (part 3) | The Commoness | [Read More](https://medium.com/p/6dd5327b832c) |
-| Thu, 11 Sep 2025 18:33:06 GMT | Fresh Start | JesseCodes | [Read More](https://medium.com/p/6d8ad7121d4b) |
-| Thu, 11 Sep 2025 18:32:21 GMT | The Hacker Who Pretended to Be My Best Friend | Shahzaib | [Read More](https://medium.com/p/523cda8bc966) |
-| Thu, 11 Sep 2025 18:32:20 GMT | One Shot, 200 Yards: The Assassination of Charlie Kirk and America’s New Age of Political Violence | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/3345b88e944c) |
-| Thu, 11 Sep 2025 18:31:11 GMT | HACKERS TRIED TO STEAL CRYPTO THROUGH NPM. HERE’S WHY FLAMINGO FINANCE WAS UNTOUCHED. | Duke Okutama | [Read More](https://medium.com/p/b5b46b26d369) |
