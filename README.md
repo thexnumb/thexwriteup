@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 19:22:16 GMT | Ransomware Evolution: From Locking Files to Double Extortion | Sukhveer Singh | [Read More](https://medium.com/p/c1e84d4f250f) |
+| Fri, 12 Sep 2025 19:21:46 GMT | The Recursive Trap: Reentrancy Attacks Made Simple | Aditya Raj | [Read More](https://medium.com/p/d444309b9e93) |
+| Fri, 12 Sep 2025 19:19:29 GMT | The Backbone Under Attack: Why Telecommunications Psychology Creates National Security Blind Spots | Giuseppe Canale | [Read More](https://medium.com/p/22e8834dc246) |
+| Fri, 12 Sep 2025 19:18:55 GMT | OSINT: Cheater CTF Connectors | amer7x | [Read More](https://medium.com/p/50ec790f0d86) |
+| Fri, 12 Sep 2025 19:13:23 GMT | Quick Locksmith — Professional Locksmith Services by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/0d8207c24626) |
+| Fri, 12 Sep 2025 19:12:12 GMT | AI Security 101: How Hackers Trick Chatbots (And Why You Should Care) | Mehmet Özel | [Read More](https://medium.com/p/afb00e7977c9) |
 | Fri, 12 Sep 2025 18:58:30 GMT | CYBER SECURITY | Bushrafaisal | [Read More](https://medium.com/p/554c46ce4b79) |
 | Fri, 12 Sep 2025 18:57:59 GMT | Stop Buying DevOps Tools Before You Even Know What Problem You’re Solving | Zudonu Osomudeya | [Read More](https://medium.com/p/1e68eeed2490) |
 | Fri, 12 Sep 2025 18:56:21 GMT | PG Play — BBScute (Linux) | Lepton | [Read More](https://medium.com/p/eea6c914b5a6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 14:56:46 GMT | OpenNMS Horizon 34.0, trying out the new release in practice. | Andrey | [Read More](https://medium.com/p/7cc41a33ba70) |
 | Fri, 12 Sep 2025 14:52:54 GMT | NPM The Largest npm Supply Chain Attack in History: How 2.6 | Aniket Gupta | [Read More](https://medium.com/p/7fc87233603a) |
 | Fri, 12 Sep 2025 14:52:40 GMT | Attacks, Defenses, and Discoveries: How Cybersecurity Publications Shaped My Journey | Shahzaib | [Read More](https://medium.com/p/94687e3bf78b) |
-| Fri, 12 Sep 2025 14:51:45 GMT | how I made 6 figures in my first year in bug bounty: my experiences | furkan | [Read More](https://medium.com/p/b6c2ec914a2a) |
-| Fri, 12 Sep 2025 14:51:42 GMT | Identifying Your Soulmate: 3 Feelings That Signal You’ve Found the Right Person | Lilyana | [Read More](https://medium.com/p/1a488bde4233) |
-| Fri, 12 Sep 2025 14:48:14 GMT | Dependency Confusion Attacks — How Malicious Packages Threaten Your Software Supply Chain | vishal kumar | [Read More](https://medium.com/p/339f59142e62) |
-| Fri, 12 Sep 2025 14:46:17 GMT | XWorm Malware Analysis: SOC & IR Perspective on Persistence, C2, and Anti-Analysis Tactics | Zyad Waleed Elzyat | [Read More](https://medium.com/p/ed41d335b2ce) |
-| Fri, 12 Sep 2025 14:45:57 GMT | The Samsung Galaxy S26 Pro is said to look like this. | Bastian | [Read More](https://medium.com/p/417df880aa66) |
-| Fri, 12 Sep 2025 14:43:19 GMT | Mini-Guide: The OSI and TCP/IP Model(>ᴗ•) | VLADYSLA✓ | [Read More](https://medium.com/p/ac20332a74d2) |
