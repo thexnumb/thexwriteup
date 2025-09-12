@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 09:12:24 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Constructing Your Home Lab From Scratch | Abeera Mehtab | [Read More](https://medium.com/p/c1a227f923b6) |
+| Fri, 12 Sep 2025 09:12:06 GMT | A New Era of Trust: Omani Data Center Security in Focus | Tekshoyabeelyas | [Read More](https://medium.com/p/fd700026ff27) |
+| Fri, 12 Sep 2025 09:09:09 GMT | 2025 Guide to the Top 20 Penetration Testing Services in Saudi Arabia | Qualysec | [Read More](https://medium.com/p/bfd6bdd0d9ee) |
+| Fri, 12 Sep 2025 09:04:45 GMT | Choosing Between Rapid7 and ZeroThreat: What DevSecOps Teams Must Know | Sam Bishop | [Read More](https://medium.com/p/292046e7de29) |
+| Fri, 12 Sep 2025 09:01:48 GMT | Breaking RSA with Partial Prime Information — CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/c0b11d3ec935) |
+| Fri, 12 Sep 2025 09:01:46 GMT | When AI Tools Leak Data: The Hidden Risk of Copy-Paste into Chatbots | Evgeny Ermakov | [Read More](https://medium.com/p/4c65f2129150) |
+| Fri, 12 Sep 2025 08:59:18 GMT | The Phantom Menace: A Story of a State-Sponsored APT | Shahzaib | [Read More](https://medium.com/p/51d8b867297d) |
+| Fri, 12 Sep 2025 08:49:50 GMT | THERE'S A NEW ABDUCTION / K!DNAP FORMAT IN UYO, AKWA IBOM STATE. | Ajax Castleton | [Read More](https://medium.com/p/1d88fb6372da) |
+| Fri, 12 Sep 2025 08:46:22 GMT | Principaux Risques Globaux 2025 : Cyberattaques, Interruptions d’Activité et Défis Émergents | PÉRICOLOGIE | [Read More](https://medium.com/p/d85a28f4eb93) |
+| Fri, 12 Sep 2025 08:41:26 GMT | Top 5 Gaming Tablets for Ultimate Performance | Tech News | [Read More](https://medium.com/p/ffc7ff9c65da) |
 | Fri, 12 Sep 2025 08:40:01 GMT | CCTV Installation: A Smart Step Towards Security | Nestrondigitalhub | [Read More](https://medium.com/p/14c2d9a6f671) |
 | Fri, 12 Sep 2025 08:39:14 GMT | How to Migrate Your Vite + React + TypeScript Project from npm to Yarn (The Clean Way) | AIAlchemist_Ab1r | [Read More](https://medium.com/p/051001020f36) |
 | Fri, 12 Sep 2025 08:38:23 GMT | When Your AI Assistant Becomes Your Biggest Security Risk | Paul Sherman | [Read More](https://medium.com/p/7f0476820982) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 04:20:12 GMT | stage app customer care number✅/ 9238652455 ✅//7389657154 ✅//स्टेज ऐप कस्टमर केयर नंबर✅//9238652455… | stage app customer care number✅/ 9238652455 ✅//738 | [Read More](https://medium.com/p/dd9f0412cf71) |
 | Fri, 12 Sep 2025 04:02:21 GMT | How Quantum Computing Affects Blockchain Security | Dukerearing | [Read More](https://medium.com/p/7efac20eac67) |
 | Fri, 12 Sep 2025 03:55:55 GMT | ImportSnare: Directed “Code Manual” Hijacking in Retrieval-Augmented Code Generation (ImportSnare… | YouShin kim | [Read More](https://medium.com/p/cff99216ef2b) |
-| Fri, 12 Sep 2025 03:48:59 GMT | Why Identity Security Is the Future of Cybersecurity | Abhinav Biju | [Read More](https://medium.com/p/4d285a300e74) |
-| Fri, 12 Sep 2025 03:48:20 GMT | Reviving a classic Korean online puzzle videogame — TwinHexa Arcade | Renzo Pigliacampo | [Read More](https://medium.com/p/0892a569abea) |
-| Fri, 12 Sep 2025 03:38:51 GMT | Night Theft at Car Dealerships: Deterred by Portable Surveillance Trailers | IVIS Security | [Read More](https://medium.com/p/9c3d77e8b1b3) |
-| Fri, 12 Sep 2025 03:38:43 GMT | Smartbi RCE Vulnerability: Patch Fast Before Hackers Do | AerieWhole123 | [Read More](https://medium.com/p/8e20424ab59c) |
-| Fri, 12 Sep 2025 03:31:59 GMT | The Double-Edged Sword: AI’s Rise and Cybersecurity’s New Battleground | Akshat Ratanpal | [Read More](https://medium.com/p/3827213e4fe4) |
-| Fri, 12 Sep 2025 03:02:20 GMT | PCI DSS & Digital Payments — Protecting Trust in a Cashless World | Dr. Deep Pandey | [Read More](https://medium.com/p/ab7576c87237) |
-| Fri, 12 Sep 2025 03:01:28 GMT | The Essential Security Checklist for Your AI-Built MVP | DataScience Nexus | [Read More](https://medium.com/p/8ecd80152b25) |
-| Fri, 12 Sep 2025 02:53:47 GMT | Join the SubHub Content Bounty: 500,000 $SUBHUB Scores + NFTs Up for Grabs | SubHub | [Read More](https://medium.com/p/34b3f4d5650b) |
-| Fri, 12 Sep 2025 02:33:06 GMT | How I Almost Got Pwned — A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong | Dale Nguyen | [Read More](https://medium.com/p/e68caca1f246) |
-| Fri, 12 Sep 2025 02:17:34 GMT | Install and Explore Kali Linux | Muhambiphares | [Read More](https://medium.com/p/8e47b876104c) |
