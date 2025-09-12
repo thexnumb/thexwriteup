@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 20:57:19 GMT | Data Sovereignty vs. Storage Autonomy: 
+The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5a636e4d5b) |
+| Fri, 12 Sep 2025 20:45:02 GMT | BSides Belfast 2025 — My experience. | JD | [Read More](https://medium.com/p/f97d5659e166) |
+| Fri, 12 Sep 2025 20:43:59 GMT | Humans as a Cybersecurity Strength | Matthew.Rosenquist | [Read More](https://medium.com/p/02dee964cf02) |
 | Fri, 12 Sep 2025 20:38:21 GMT | The Double-Edged Sword: When AI Becomes a Tool for Fraud | Mohd Yaseen Khan | [Read More](https://medium.com/p/57a1891075e4) |
 | Fri, 12 Sep 2025 20:37:54 GMT | Formjacking Explained: How Hackers Steal Data Through Online Forms | Akshay Chauhan | [Read More](https://medium.com/p/b9a086411e26) |
 | Fri, 12 Sep 2025 20:00:35 GMT | Case de Sucesso: Conectividade Inteligente com Wi-Fi como Serviço na Caixa Asset | L3TI Soluções em Tecnologia | [Read More](https://medium.com/p/e881da8daf7d) |
@@ -109,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 15:35:37 GMT | Fewer Claims, Bigger Losses: Ransomware’s Changing Role in UK Cyber Insurance | CyberSure | [Read More](https://medium.com/p/50311a56c321) |
 | Fri, 12 Sep 2025 15:32:07 GMT | The Future Is in the Cloud: What Every Business Needs to Know | Elijah Swanson | [Read More](https://medium.com/p/126265c53e09) |
 | Fri, 12 Sep 2025 15:30:18 GMT | Internet Trolls are No Laughing Matter | Michele Cambardella | [Read More](https://medium.com/p/dc79b0f13851) |
-| Fri, 12 Sep 2025 15:27:51 GMT | Scammers Are Using TON to Steal on Telegram | Scofield O. Idehen | [Read More](https://medium.com/p/6cd1bb9a14bf) |
-| Fri, 12 Sep 2025 15:18:26 GMT | How to Troubleshoot Domain Reputation and Email Delivery Issues | r00tb33r | [Read More](https://medium.com/p/7b166f46f85e) |
-| Fri, 12 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/686b82f44d96) |
