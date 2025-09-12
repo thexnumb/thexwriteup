@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 05:16:46 GMT | Cyber Security Details: Cryptography Demystified | Cyber Security Research | [Read More](https://medium.com/p/2f10e9030d82) |
+| Fri, 12 Sep 2025 05:11:00 GMT | Top Up Coming New Generation Technologies Is Here️ | Techsankar | [Read More](https://medium.com/p/26233cf42cfc) |
+| Fri, 12 Sep 2025 05:09:40 GMT | Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in 2025 | Monika sharma | [Read More](https://medium.com/p/6218e1adc444) |
+| Fri, 12 Sep 2025 05:09:21 GMT | Trend Report of Ransomware Activities in 2024 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/dae7246cc48f) |
+| Fri, 12 Sep 2025 05:07:44 GMT | India post payment Bank se paise cut Jaaye To Kya Karen ☎️6266384374 ☎️बैंक से पैसे कट जाए तो क्या… | India post payment Bank se paise cut Jaaye To Kya | [Read More](https://medium.com/p/f174352c0e45) |
+| Fri, 12 Sep 2025 05:06:00 GMT | Cyber Security Details: Incident Response Strategies | Cyber Security Research | [Read More](https://medium.com/p/cc8f778fe136) |
+| Fri, 12 Sep 2025 05:04:18 GMT | kioptrix level 1 | Mostafa Ahmed | [Read More](https://medium.com/p/24841c948a30) |
+| Fri, 12 Sep 2025 05:02:13 GMT | The Future Belongs to Cybersecurity: Here’s How to Get Started | Haniakhan | [Read More](https://medium.com/p/9b7bbda56b2e) |
+| Fri, 12 Sep 2025 05:00:25 GMT | The Language of Exploits: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/e246129a15d9) |
+| Fri, 12 Sep 2025 04:59:30 GMT | The Only JavaScript Security Guide You Need: Stop XSS and CSRF | Quantum Tricks | [Read More](https://medium.com/p/b99630854cd0) |
+| Fri, 12 Sep 2025 04:55:05 GMT | Cyber Security Details: Risk Management Essentials | Cyber Security Research | [Read More](https://medium.com/p/23e22a569c38) |
+| Fri, 12 Sep 2025 04:54:10 GMT | Navid Mowri Bazofti: A Coding Prodigy HomeHackersNavid Kenzul: A Coding Prodigy | Cyber News | [Read More](https://medium.com/p/dfccc51a8d15) |
+| Fri, 12 Sep 2025 04:46:42 GMT | Securing the Future: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/0884484bca05) |
 | Fri, 12 Sep 2025 04:38:47 GMT | Cybercrime Awareness Tips Inspired by a 16-year-old | Ishani Sharma | [Read More](https://medium.com/p/41e43eee73ba) |
 | Fri, 12 Sep 2025 04:30:31 GMT | The Art of Deception: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/2b208feb88b9) |
 | Fri, 12 Sep 2025 04:29:44 GMT | Is It Worth Running Your Own Email Server? | DumpBox | [Read More](https://medium.com/p/6a36ab1fc2f0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 19:49:08 GMT | Run Kali safely on your computer with this easy VirtualBox setup | Akshay | [Read More](https://medium.com/p/6a05edadbe92) |
 | Thu, 11 Sep 2025 19:47:29 GMT | Why Emotional Regulation Is the Secret Ingredient to a Healthy Relationship | Joanna Ashley - | [Read More](https://medium.com/p/72194722a271) |
 | Thu, 11 Sep 2025 19:41:57 GMT | How I Bypassed a 403 Forbidden WAF Protection (and What I Learned) | samael0x4 | [Read More](https://medium.com/p/b2bb859eddaf) |
-| Thu, 11 Sep 2025 19:41:41 GMT | Smol TryHackMe Walkthrough — WordPress Plugin Exploit & Privilege Escalation Guide | Death Esther | [Read More](https://medium.com/p/c62d758eb898) |
-| Thu, 11 Sep 2025 19:34:18 GMT | How Hackers Hijacked a Local Café to Mine Crypto — And Nobody Noticed for Weeks | Noel | [Read More](https://medium.com/p/4ed15456d910) |
-| Thu, 11 Sep 2025 19:34:09 GMT | Collection of the Best Contact Information Search Tools For OSINT | loyalonlytoday | [Read More](https://medium.com/p/e008c94f0716) |
-| Thu, 11 Sep 2025 19:34:00 GMT | The Dark Side of Bug Bounties: Burnout & Ethical Dilemmas | Aj | [Read More](https://medium.com/p/55e7d99ee9d3) |
-| Thu, 11 Sep 2025 19:32:51 GMT | When Love Feels Like a Bad Login | Teleisha Deslandes | [Read More](https://medium.com/p/4ddf39f73473) |
-| Thu, 11 Sep 2025 19:29:43 GMT | ML Security: How to Stop Hackers from Teaching Your AI Bad Habits (And Other Nightmares) | Prusov Sergei | [Read More](https://medium.com/p/d7b384607ab9) |
-| Thu, 11 Sep 2025 19:29:06 GMT | iPhone 17: Ultra-thin, but never have to turn your phone again | Bastian | [Read More](https://medium.com/p/ef4719f62576) |
-| Thu, 11 Sep 2025 19:28:19 GMT | Google Dorking Tricks: Uncovering Hidden Risks on the Web | SafeAeon Inc. | [Read More](https://medium.com/p/71d8f140ba29) |
-| Thu, 11 Sep 2025 19:18:04 GMT | SQL Injection: The Silent Threat Undermining Web Security | SafeAeon Inc. | [Read More](https://medium.com/p/d2e7ce06e13a) |
-| Thu, 11 Sep 2025 19:15:56 GMT | Reducing the manual process of looking for XSS with dursgo/dalfox/nuclei. | KreSec | [Read More](https://medium.com/p/f3b3e6b19234) |
-| Thu, 11 Sep 2025 19:11:41 GMT | Why Is Quantum Computing Becoming a Game-Changer for Cybersecurity Strategies? | Dhananjay D | [Read More](https://medium.com/p/b10e93d1ad93) |
-| Thu, 11 Sep 2025 19:08:52 GMT | From Click to Compromise: Inside the Axios Phishing Campaign | Ashley Dai | [Read More](https://medium.com/p/962c0db85434) |
-| Thu, 11 Sep 2025 19:04:59 GMT | Protecting Data Submitted to AI Models | Teri Radichel | [Read More](https://medium.com/p/ae9e9b268b6a) |
