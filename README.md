@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 14:05:52 GMT | Shocking cybersecurity blind spot: exposed by time sync | STR4T0TT0 | [Read More](https://medium.com/p/9a3af342aca4) |
+| Fri, 12 Sep 2025 14:01:48 GMT | Why Web3 Security Needs Attention at the Pre-Foundational Level | Abatis ABTU | [Read More](https://medium.com/p/607005be6e08) |
+| Fri, 12 Sep 2025 14:01:48 GMT | Cyber Briefing: 2025.09.12 | CyberMaterial | [Read More](https://medium.com/p/afa9ad51b186) |
+| Fri, 12 Sep 2025 14:01:44 GMT | My Cloud Security Journey Continues: Conquering the AZ-900 | Ejike Etolue | [Read More](https://medium.com/p/ecb33fe7b21e) |
+| Fri, 12 Sep 2025 13:59:53 GMT | How to Import Your Credentials into All Pass Hub: A Step-by-Step Guide | Password Manager | [Read More](https://medium.com/p/c02117b32fd9) |
+| Fri, 12 Sep 2025 13:54:21 GMT | TryHackMe Corridor CTF Walkthrough: IDOR Vulnerability | Trixia Horner | [Read More](https://medium.com/p/3ce5a2746ef2) |
+| Fri, 12 Sep 2025 13:46:46 GMT | Zast.ai now can find 0-day in Python code with ZERO false positives | ZAST AI | [Read More](https://medium.com/p/0cd20c6ff313) |
+| Fri, 12 Sep 2025 13:46:41 GMT | Active Directory (AD) Basics | Suhel Kathi | [Read More](https://medium.com/p/6b3bcaaf3f20) |
+| Fri, 12 Sep 2025 13:44:03 GMT | Linux Auditing System Configuration | Eren Cankut Uysal | [Read More](https://medium.com/p/36c5c71454b1) |
+| Fri, 12 Sep 2025 13:40:00 GMT | Why I’m Bullish on Drosera: Ethereum’s Missing Piece for Autonomy | 0xysad | [Read More](https://medium.com/p/bcd03ab06706) |
+| Fri, 12 Sep 2025 13:39:47 GMT | Scaling security testing: lessons from launching a public bug bounty at Bolt | Allar Lauk | [Read More](https://medium.com/p/1061326fa6a5) |
+| Fri, 12 Sep 2025 13:38:53 GMT | Linux Discretionary Access Control (DAC) | Eren Cankut Uysal | [Read More](https://medium.com/p/8a8e172be1d6) |
+| Fri, 12 Sep 2025 13:37:49 GMT | How Mass Drones and AI Will Destroy Personal Security | ORPHEUS | [Read More](https://medium.com/p/eb7b9ffc39e6) |
 | Fri, 12 Sep 2025 13:36:33 GMT | DC: 1 Walkthrough | areej | [Read More](https://medium.com/p/9090a62e585b) |
+| Fri, 12 Sep 2025 13:33:56 GMT | Linux Mandatory Access Control (MAC) | Eren Cankut Uysal | [Read More](https://medium.com/p/82b6589e9bca) |
 | Fri, 12 Sep 2025 13:33:15 GMT | I Found 100+ API Keys in My JS Files in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/b78a1cad1dda) |
 | Fri, 12 Sep 2025 13:28:53 GMT | AI Hacked My House: The day My Smart Home Went Rogue | Sandeep Sengupta | [Read More](https://medium.com/p/c3dbb8bd7411) |
 | Fri, 12 Sep 2025 13:28:51 GMT | Kick ’Em Off: The Scary Simple Wi-Fi Attack Anyone Can Do (And How to Stop It) | Santhosh Kumar | [Read More](https://medium.com/p/9b2bc4d495e8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 09:41:34 GMT | How Forgetting a Simple Wallet Seed Phrase Could Cost You Millions | Bobby Andrews | [Read More](https://medium.com/p/7432d47acfe5) |
 | Fri, 12 Sep 2025 09:41:04 GMT | Best Managed Data Center Service Provider In India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/c6d362e0355d) |
 | Fri, 12 Sep 2025 09:31:43 GMT | 7 Biggest IT Asset Management Challenges (+ How to Fix Them) | Yuvi Aggarwal | [Read More](https://medium.com/p/6cd90f43a859) |
-| Fri, 12 Sep 2025 09:31:16 GMT | Deonics - Pay&Lock — UPI AutoPay & Recurring Payments Platform | Digitaldepartment | [Read More](https://medium.com/p/037491cb6d5c) |
-| Fri, 12 Sep 2025 09:30:32 GMT | AI Personalization in SaaS - 2025 Trends & Implementation Guide | Orbix Studio | [Read More](https://medium.com/p/ac8d76119a65) |
-| Fri, 12 Sep 2025 09:30:20 GMT | OWASP Top 10 for Machine Learning Security: Protecting AI from Modern Threats | Ashwini Puranik | [Read More](https://medium.com/p/e7e0b34bc71b) |
-| Fri, 12 Sep 2025 09:27:30 GMT | 2fa bypass through session through failure in session invalidation | Yukesh | [Read More](https://medium.com/p/ca9f328d2cec) |
-| Fri, 12 Sep 2025 09:24:54 GMT | What More Than 10 Years Working with INTERPOL Taught Me About Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/945051d0020f) |
-| Fri, 12 Sep 2025 09:20:13 GMT | CVE-2025–59052: Angular SSR Race Condition Exposes Cross-Request Data in High-Risk Vulnerability | gm0 | [Read More](https://medium.com/p/9d0ec4169fbf) |
-| Fri, 12 Sep 2025 09:19:55 GMT | This Burp Intruder Automation will get you Bounties | Jeosantos | [Read More](https://medium.com/p/6897a53bafc6) |
-| Fri, 12 Sep 2025 09:16:19 GMT | Russia Tests NATO: 19 Drones in Poland, Bases in Belarus | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/cdf90dfecd0c) |
-| Fri, 12 Sep 2025 09:12:24 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Constructing Your Home Lab From Scratch | Abeera Mehtab | [Read More](https://medium.com/p/c1a227f923b6) |
-| Fri, 12 Sep 2025 09:12:06 GMT | A New Era of Trust: Omani Data Center Security in Focus | Tekshoyabeelyas | [Read More](https://medium.com/p/fd700026ff27) |
-| Fri, 12 Sep 2025 09:09:09 GMT | 2025 Guide to the Top 20 Penetration Testing Services in Saudi Arabia | Qualysec | [Read More](https://medium.com/p/bfd6bdd0d9ee) |
-| Fri, 12 Sep 2025 09:04:45 GMT | Choosing Between Rapid7 and ZeroThreat: What DevSecOps Teams Must Know | Sam Bishop | [Read More](https://medium.com/p/292046e7de29) |
-| Fri, 12 Sep 2025 09:01:48 GMT | Breaking RSA with Partial Prime Information — CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/c0b11d3ec935) |
-| Fri, 12 Sep 2025 09:01:46 GMT | When AI Tools Leak Data: The Hidden Risk of Copy-Paste into Chatbots | Evgeny Ermakov | [Read More](https://medium.com/p/4c65f2129150) |
