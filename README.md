@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 06:43:05 GMT | XSS in 2025: Why It Still Matters — and How to Defend Against It | AerieWhole123 | [Read More](https://medium.com/p/dfd4e2067bb4) |
+| Fri, 12 Sep 2025 06:34:05 GMT | Today, one iPhone costs 0.01 BTC — the only information you need to know from today’s Apple drop | Balki Maharaj | [Read More](https://medium.com/p/1dc56a04ffdf) |
+| Fri, 12 Sep 2025 06:33:47 GMT | The Invisible Thread: How a GitHub Breach Unraveled a Supply Chain | Aj | [Read More](https://medium.com/p/7ec4a2bb3eee) |
+| Fri, 12 Sep 2025 06:31:57 GMT | Let’s Talk About Charlie Kirk’s Security And His Assassinations Biggest Winner (Trump) | Lisa Thinks… | [Read More](https://medium.com/p/fbfa358a255f) |
+| Fri, 12 Sep 2025 06:31:11 GMT | The Corix Partners Friday Reading List — September 12, 2025 | JC Gaillard | [Read More](https://medium.com/p/59efbaed0ed3) |
+| Fri, 12 Sep 2025 06:31:08 GMT | The Daily Tech Digest: 12 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6b97afbaef7) |
+| Fri, 12 Sep 2025 06:31:01 GMT | Best IT Company in India — How to Choose the Right Partner | Snehanayal | [Read More](https://medium.com/p/47734351d6aa) |
 | Fri, 12 Sep 2025 06:26:48 GMT | The Risks of Mobile Banking: What You Need to Know | Abida Adra | [Read More](https://medium.com/p/602850245935) |
 | Fri, 12 Sep 2025 06:22:26 GMT | Siber Güvenlikte En Çok Kullanılan Araçlar: Ağ, Uygulama, Bulut ve Olay Yönetimi | murat yayla | [Read More](https://medium.com/p/c73c0a3fc84a) |
 | Fri, 12 Sep 2025 06:20:22 GMT | CN-Series Container Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/396a2ec2de69) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 22:31:46 GMT | The Hidden Costs of Social Media Bans: Slow Apps, Risky VPNs, Hackers Watching… A case study of… | Elizabeth A. Mallya. | [Read More](https://medium.com/p/d8b4d9db5fc4) |
 | Thu, 11 Sep 2025 22:29:39 GMT | An Experiment in AI for Security Operations (Part 2— the build) | Bill Mahony | [Read More](https://medium.com/p/f19a86821487) |
 | Thu, 11 Sep 2025 22:22:23 GMT | Password Security in 2025: Why Argon2id is the Standard You Should Use | Suman Bhadra | [Read More](https://medium.com/p/7c0797349836) |
-| Thu, 11 Sep 2025 22:21:28 GMT | An Introduction to Penetration Testing for Beginners | vydhi | [Read More](https://medium.com/p/954417b9cd02) |
-| Thu, 11 Sep 2025 22:21:09 GMT | 5 Everyday Practices to Make Your Digital Life Safer | vydhi | [Read More](https://medium.com/p/070db2b53fab) |
-| Thu, 11 Sep 2025 22:20:14 GMT | It’s Coming: DorkFi Delivers PreFi Rewards Surge | Haroof | [Read More](https://medium.com/p/3634e5bfec7c) |
-| Thu, 11 Sep 2025 22:12:34 GMT | ️‍♂️ TryHackMe Team | Redcell | [Read More](https://medium.com/p/ec6ca0b7f869) |
-| Thu, 11 Sep 2025 22:11:33 GMT | Server-Side Request Forgery (SSRF) Explained: From Basics to Advanced Attacks | Mazen Elsayed | [Read More](https://medium.com/p/771aef68b415) |
-| Thu, 11 Sep 2025 22:04:57 GMT | Shadow AI Is Not Your Enemy. It Is Your Unmanaged Colleague. | Joao Silva | [Read More](https://medium.com/p/f2bf6655000e) |
-| Thu, 11 Sep 2025 22:02:33 GMT | Outbound Sales Metrics That Actually Predict Revenue Growth | Brian A. Wilson | [Read More](https://medium.com/p/87dde4fbcf8a) |
