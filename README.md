@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 11:34:15 GMT | Kioptrix Level 2 | Mostafa Ahmed | [Read More](https://medium.com/p/54617906d64c) |
+| Fri, 12 Sep 2025 11:32:25 GMT | How to Set Up SSL on Apache Ubuntu 22.04 | Smit Pipaliya | [Read More](https://medium.com/p/85d5f8f51f0d) |
+| Fri, 12 Sep 2025 11:29:39 GMT | Maritime Cybersecurity Market Forecast 2025–2032: Protecting the Digital Seas | snsinsider05 | [Read More](https://medium.com/p/175b7d8ea0f2) |
+| Fri, 12 Sep 2025 11:28:47 GMT | Unauthenticated Deletion of Critical SSO Configuration Attributes | ehsameer | [Read More](https://medium.com/p/e3bc56c258a8) |
+| Fri, 12 Sep 2025 11:24:58 GMT | IT Recruitment Consultancy in Delhi NCR, Building the Future of Tech Teams | Job24by7 | [Read More](https://medium.com/p/9905f524a69a) |
+| Fri, 12 Sep 2025 11:20:45 GMT | High-Severity Vulnerabilities and Espionage Operations Drive The Week | Loginsoft | [Read More](https://medium.com/p/03371903a14e) |
+| Fri, 12 Sep 2025 11:19:12 GMT | Cybersecurity in 2025: Combating AI Threats, Ransomware, and Digital Risks | Bandari Rushika | [Read More](https://medium.com/p/5c4001cdb3e0) |
+| Fri, 12 Sep 2025 11:16:15 GMT | The Summer I Turned Myself | Alyssa Mullett | [Read More](https://medium.com/p/9da77ab33331) |
 | Fri, 12 Sep 2025 11:11:42 GMT | Developer Loadout: How Simple Tools Build a Smart, Efficient Team | Namir Sagheenanajar | [Read More](https://medium.com/p/af70cee32cac) |
+| Fri, 12 Sep 2025 11:11:18 GMT | Fundamentals of Ethical Hacking: Principles, Frameworks, and Methods | Ebad Yousuf | [Read More](https://medium.com/p/27498da45239) |
 | Fri, 12 Sep 2025 11:10:24 GMT | Where can I just click EVERYTHING at once? | Balki Maharaj | [Read More](https://medium.com/p/20bcb968db24) |
+| Fri, 12 Sep 2025 11:01:41 GMT | Google Cloud BugSWAT: What 91 Vulnerabilities Teach Us About Risk and Cloud Security | Brittney Ginther | [Read More](https://medium.com/p/a3dd8258a951) |
 | Fri, 12 Sep 2025 11:01:00 GMT | تهران زنجان | ‏شماره داف شماره خاله سکس حضوری شماره خاله واقعی ش | [Read More](https://medium.com/p/85e5d190c325) |
 | Fri, 12 Sep 2025 10:59:06 GMT | Single-Vendor SASE vs. Universal SASE: Which Model Fits Your Enterprise? | Shailendra Prajapati | [Read More](https://medium.com/p/2f76809ecac7) |
 | Fri, 12 Sep 2025 10:53:19 GMT | Building My Future in Technology | Cpdumalagan | [Read More](https://medium.com/p/0fbbfa18c796) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 07:01:47 GMT | Stop Credential Stuffing Before It Starts: Monitor Plain Text Leaks and Auto Flag Risky Logins | Alexandre Vandamme | [Read More](https://medium.com/p/3f4537592368) |
 | Fri, 12 Sep 2025 06:46:50 GMT | Server Management: Definition, Types, Advantages, and Disadvantages | Bitrix Infotech Pvt Ltd | [Read More](https://medium.com/p/d9197eca5b9d) |
 | Fri, 12 Sep 2025 06:43:05 GMT | XSS in 2025: Why It Still Matters — and How to Defend Against It | AerieWhole123 | [Read More](https://medium.com/p/dfd4e2067bb4) |
-| Fri, 12 Sep 2025 06:34:05 GMT | Today, one iPhone costs 0.01 BTC — the only information you need to know from today’s Apple drop | Balki Maharaj | [Read More](https://medium.com/p/1dc56a04ffdf) |
-| Fri, 12 Sep 2025 06:33:47 GMT | The Invisible Thread: How a GitHub Breach Unraveled a Supply Chain | Aj | [Read More](https://medium.com/p/7ec4a2bb3eee) |
-| Fri, 12 Sep 2025 06:31:57 GMT | Let’s Talk About Charlie Kirk’s Security And His Assassinations Biggest Winner (Trump) | Lisa Thinks… | [Read More](https://medium.com/p/fbfa358a255f) |
-| Fri, 12 Sep 2025 06:31:11 GMT | The Corix Partners Friday Reading List — September 12, 2025 | JC Gaillard | [Read More](https://medium.com/p/59efbaed0ed3) |
-| Fri, 12 Sep 2025 06:31:08 GMT | The Daily Tech Digest: 12 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6b97afbaef7) |
-| Fri, 12 Sep 2025 06:31:01 GMT | Best IT Company in India — How to Choose the Right Partner | Snehanayal | [Read More](https://medium.com/p/47734351d6aa) |
-| Fri, 12 Sep 2025 06:26:48 GMT | The Risks of Mobile Banking: What You Need to Know | Abida Adra | [Read More](https://medium.com/p/602850245935) |
-| Fri, 12 Sep 2025 06:22:26 GMT | Siber Güvenlikte En Çok Kullanılan Araçlar: Ağ, Uygulama, Bulut ve Olay Yönetimi | murat yayla | [Read More](https://medium.com/p/c73c0a3fc84a) |
-| Fri, 12 Sep 2025 06:20:22 GMT | CN-Series Container Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/396a2ec2de69) |
-| Fri, 12 Sep 2025 06:17:54 GMT | How I Protect 6 Apps for $0/Month with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/18b2eb6e172d) |
