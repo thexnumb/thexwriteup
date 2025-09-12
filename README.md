@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 04:38:47 GMT | Cybercrime Awareness Tips Inspired by a 16-year-old | Ishani Sharma | [Read More](https://medium.com/p/41e43eee73ba) |
+| Fri, 12 Sep 2025 04:30:31 GMT | The Art of Deception: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/2b208feb88b9) |
+| Fri, 12 Sep 2025 04:29:44 GMT | Is It Worth Running Your Own Email Server? | DumpBox | [Read More](https://medium.com/p/6a36ab1fc2f0) |
+| Fri, 12 Sep 2025 04:27:48 GMT | Oman School Buses: Prioritizing Student Safety with Smart Fleet Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/ce3cd209d599) |
+| Fri, 12 Sep 2025 04:27:40 GMT | The quiet strength in beginning again | Davemoore Edoho | [Read More](https://medium.com/p/b101110469f5) |
+| Fri, 12 Sep 2025 04:25:09 GMT | From Cell Phones to Drones: Why Layer 2 Countermeasures Could Become the FCC’s Next Prison Defense… | Robert Schryvers ChT | [Read More](https://medium.com/p/de0ef2aed141) |
+| Fri, 12 Sep 2025 04:20:12 GMT | stage app customer care number✅/ 9238652455 ✅//7389657154 ✅//स्टेज ऐप कस्टमर केयर नंबर✅//9238652455… | stage app customer care number✅/ 9238652455 ✅//738 | [Read More](https://medium.com/p/dd9f0412cf71) |
 | Fri, 12 Sep 2025 04:02:21 GMT | How Quantum Computing Affects Blockchain Security | Dukerearing | [Read More](https://medium.com/p/7efac20eac67) |
 | Fri, 12 Sep 2025 03:55:55 GMT | ImportSnare: Directed “Code Manual” Hijacking in Retrieval-Augmented Code Generation (ImportSnare… | YouShin kim | [Read More](https://medium.com/p/cff99216ef2b) |
 | Fri, 12 Sep 2025 03:48:59 GMT | Why Identity Security Is the Future of Cybersecurity | Abhinav Biju | [Read More](https://medium.com/p/4d285a300e74) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 19:11:41 GMT | Why Is Quantum Computing Becoming a Game-Changer for Cybersecurity Strategies? | Dhananjay D | [Read More](https://medium.com/p/b10e93d1ad93) |
 | Thu, 11 Sep 2025 19:08:52 GMT | From Click to Compromise: Inside the Axios Phishing Campaign | Ashley Dai | [Read More](https://medium.com/p/962c0db85434) |
 | Thu, 11 Sep 2025 19:04:59 GMT | Protecting Data Submitted to AI Models | Teri Radichel | [Read More](https://medium.com/p/ae9e9b268b6a) |
-| Thu, 11 Sep 2025 18:59:50 GMT | Fantom chat. Direct P2P TCP chat using IPv6 and C++ | Emil Erofeevskiy | [Read More](https://medium.com/p/9d36ca5c076d) |
-| Thu, 11 Sep 2025 18:57:04 GMT | New iPhones: The 17th generation’s batteries have this much juice. | Bastian | [Read More](https://medium.com/p/a8f33e687c57) |
-| Thu, 11 Sep 2025 18:57:03 GMT | Demystifying JSON Web Tokens (JWT) | Lince Mathew | [Read More](https://medium.com/p/99db07bf5b2d) |
-| Thu, 11 Sep 2025 18:53:57 GMT | How to Become a Security Guard in Chicago | Alpha Koncepts | [Read More](https://medium.com/p/d3413f6b8a06) |
-| Thu, 11 Sep 2025 18:52:12 GMT | Building Your Own YARA Alternative: A Machine Learning Malware Classifier in Python | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/f0010369fed4) |
-| Thu, 11 Sep 2025 18:51:11 GMT | HTB GettingStarted Writeup (CPTS) | Armando Bueno | [Read More](https://medium.com/p/35855c48f5ec) |
-| Thu, 11 Sep 2025 18:50:36 GMT | Securing AWS Resources: IAM Groups, Policies, and RDS Permissions | DarkoTechOps | [Read More](https://medium.com/p/e85c99986f82) |
