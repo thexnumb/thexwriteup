@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 08:21:01 GMT | DockerLabs Writeup — HiddenCat (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e05ad2c93701) |
+| Fri, 12 Sep 2025 08:10:12 GMT | Successfully Completing the “Introduction to Cybersecurity” Course from Cisco Networking Academy | Kizito Arinze Chukwu | [Read More](https://medium.com/p/63177381deec) |
+| Fri, 12 Sep 2025 08:05:00 GMT | DECODE 2025: Maximize Momentum | Muriell Maza | [Read More](https://medium.com/p/20fba8f059b5) |
+| Fri, 12 Sep 2025 08:03:35 GMT | Compliance-Ready PHP → Tips for GDPR, HIPAA, and Beyond | Asian Digital Hub | [Read More](https://medium.com/p/fc64144cae6a) |
+| Fri, 12 Sep 2025 08:02:47 GMT | Why Password Management Tools Are Key to Digital Security | Renaissance Computer Services Limited | [Read More](https://medium.com/p/7bf4e8d1ba24) |
+| Fri, 12 Sep 2025 07:52:26 GMT | Linux Essentials: Latest Exam Questions and Answers | cyber security Updates | [Read More](https://medium.com/p/c2574bc297f6) |
+| Fri, 12 Sep 2025 07:38:04 GMT | What Every Small Business Should Cover in Penetration Tests | Renaissance Computer Services Limited | [Read More](https://medium.com/p/db6e9ff14f68) |
+| Fri, 12 Sep 2025 07:37:23 GMT | Humans as Attack Vectors | Peta Pavan | [Read More](https://medium.com/p/2a5ccabfc9d6) |
 | Fri, 12 Sep 2025 07:31:31 GMT | Diagnosing Cloudflare Security Events with CRS Rule Intelligence: A Developer’s Journey | Bijodev | [Read More](https://medium.com/p/e61b583b56b0) |
 | Fri, 12 Sep 2025 07:26:35 GMT | DVWA Modules:- walkthrough, XSS (Reflected & Stored) | Aashish Vishwakarma | [Read More](https://medium.com/p/4cbd06945788) |
 | Fri, 12 Sep 2025 07:25:38 GMT | The Growing Need For Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/7fb19da5bdbf) |
@@ -19,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 07:19:18 GMT | MDM Software Use Cases Across Key Industries | Vantage MDM | [Read More](https://medium.com/p/7ebe328f196e) |
 | Fri, 12 Sep 2025 07:16:51 GMT | Authentication with OpenID Connect & OAuth2 in .NET | Karthikeyan NS | [Read More](https://medium.com/p/1eb24b4a09a3) |
 | Fri, 12 Sep 2025 07:14:14 GMT | From XSS to RCE: Critical Vulnerability Chain in Anthropic MCP Inspector(CVE-2025–58444) | Qubit | [Read More](https://medium.com/p/7092ba4ac442) |
+| Fri, 12 Sep 2025 07:13:23 GMT | Crypto Airdrops vs. Bounty Programs in 2025: What’s the Best? | PromoJ Crypto Marketing Agency | [Read More](https://medium.com/p/9351ddb2ec38) |
 | Fri, 12 Sep 2025 07:12:58 GMT | Meet Ghauri GUI v1 — Streamlined SQLi Scans on Windows | raflesia it | [Read More](https://medium.com/p/5bb383b9f7ff) |
 | Fri, 12 Sep 2025 07:12:24 GMT | DVWA Modules:- walkthrough, Sqlmap | Aashish Vishwakarma | [Read More](https://medium.com/p/69760533d20b) |
 | Fri, 12 Sep 2025 07:12:24 GMT | SMB Signing Not Enabled – Exploitation and Remediation | Durayamithiran G | [Read More](https://medium.com/p/c4845c89f7c6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 01:18:10 GMT | Anonymous Introduction: The Future of Trustworthy, Private Connections in a Surveillance World | Aamir Hameed | [Read More](https://medium.com/p/70145a8a7140) |
 | Fri, 12 Sep 2025 01:01:44 GMT | Why “Lack of Capability or Robustness” Is the Default Weakness in AI Systems. | Adetutu Ogunsowo | [Read More](https://medium.com/p/a270c5ab8dc7) |
 | Fri, 12 Sep 2025 01:01:23 GMT | BITCOIN : A SAFE HAVEN | Lovyn Orizu | [Read More](https://medium.com/p/22f3aab32787) |
-| Fri, 12 Sep 2025 00:58:13 GMT | Why Should You Use ECDH for Key Exchange in Modern Cryptography? | Swapnil Damate, PMP® | [Read More](https://medium.com/p/fc284ba2763d) |
-| Fri, 12 Sep 2025 00:55:45 GMT | 5 Crucial Pen Testing Steps Most Teams Overlook | Aj | [Read More](https://medium.com/p/23fb842b5d6f) |
-| Fri, 12 Sep 2025 00:55:08 GMT | Securely Access AWS DynamoDB Using an SSH Tunnel | Kavindu Gunathilake | [Read More](https://medium.com/p/765122426ac7) |
-| Fri, 12 Sep 2025 00:53:52 GMT | Securing Your GitHub Codebase: 6 Essential Tools Every Developer Must Know | Vedant Vartak | [Read More](https://medium.com/p/7589e3c87962) |
-| Fri, 12 Sep 2025 00:53:42 GMT | Top 3 Must-Have Tools for Web Security Testing | Shahzaib | [Read More](https://medium.com/p/1b04d490f1e0) |
-| Fri, 12 Sep 2025 00:51:34 GMT | remembering real designers | Michael Darius | [Read More](https://medium.com/p/bbf9193f3b80) |
-| Fri, 12 Sep 2025 00:49:48 GMT | Operation Sindoor and the Future of Warfare: India’s Lessons in Narrative, Deterrence, and Global… | Igniting Minds | [Read More](https://medium.com/p/bfd6bfea9b6c) |
-| Fri, 12 Sep 2025 00:41:38 GMT | The Best Antivirus and Endpoint Protection for 2025 | Samina Perveen | [Read More](https://medium.com/p/aad657308dd8) |
-| Fri, 12 Sep 2025 00:25:41 GMT | The NPM Supply Chain Attack and the Odd Choice of Wallet Hijacking | littlewing | [Read More](https://medium.com/p/66cacad4637b) |
