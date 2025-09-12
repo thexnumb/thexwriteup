@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 17:12:39 GMT | Tia’s Affection 4 Internet Protection | Tia B | [Read More](https://medium.com/p/3b5815b88475) |
+| Fri, 12 Sep 2025 17:08:18 GMT | Working with insecure domains on dev machines (localhost) | Rohit Shirke | [Read More](https://medium.com/p/c1f32256a6ea) |
+| Fri, 12 Sep 2025 17:06:19 GMT | Confused About Cybersecurity Certs? Here Are the 12 That Actually Count | Faraz Weerabangsa | [Read More](https://medium.com/p/c36fd282d81b) |
+| Fri, 12 Sep 2025 17:05:44 GMT | Baptism Of Fire — The Story of Every On-Call Engineer | Hamed Silatani | [Read More](https://medium.com/p/bd3555e8e821) |
+| Fri, 12 Sep 2025 17:05:01 GMT | The $370 Million Bug: How the Ariane 5 Rocket Exploded Just 37 Seconds After Launch | Abdullah Saifullah | [Read More](https://medium.com/p/cbafd55acaf9) |
+| Fri, 12 Sep 2025 17:04:11 GMT | Stop Trusting Model Names: Fix the AI Supply Chain Today (AI Security Tips 2025) | Tochukwu Okonkwor | [Read More](https://medium.com/p/0b01ee3941e2) |
+| Fri, 12 Sep 2025 17:01:45 GMT | The USB-C of AI: Model Context Protocol (MCP) Tutorial + Security Playbook (Python) | Tarun Singh | [Read More](https://medium.com/p/d14a9132b828) |
+| Fri, 12 Sep 2025 16:59:08 GMT | Presto-Chango, Where’d My Crypto Go? Making Sure That Which Could Have Been Won’t Be | Conceal, Inc. | [Read More](https://medium.com/p/9cbf793a0d13) |
+| Fri, 12 Sep 2025 16:58:32 GMT | Kioptrix — Level 2 | Midoabdellah | [Read More](https://medium.com/p/76cab9e0aa1e) |
+| Fri, 12 Sep 2025 16:58:04 GMT | Cybersecurity in Orbit: How Space is becomithe Next Cyber Battlefield | Adam DArcy | [Read More](https://medium.com/p/77a315814d46) |
+| Fri, 12 Sep 2025 16:51:27 GMT | Rethinking Humans in Cybernetics | Taulan Zauzanov | [Read More](https://medium.com/p/fc22bb4470fc) |
+| Fri, 12 Sep 2025 16:50:54 GMT | The Ebola Freezer in Reedley | Crystal Clear | [Read More](https://medium.com/p/5879432d6679) |
+| Fri, 12 Sep 2025 16:40:17 GMT | The un-hackable database | Jules May | [Read More](https://medium.com/p/ad2140dc550b) |
 | Fri, 12 Sep 2025 16:34:36 GMT | THE BEST RECOVERY AGENT | Bob Gartland | [Read More](https://medium.com/p/02ece433a7de) |
 | Fri, 12 Sep 2025 16:33:32 GMT | Bug Bazaar Vulnerablities — Writeups | spidey | [Read More](https://medium.com/p/054ce1313f44) |
 | Fri, 12 Sep 2025 16:32:17 GMT | XSS (Cross-Site Scripting) | Zulfianarahmi | [Read More](https://medium.com/p/301c04086885) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 13:20:40 GMT | The Proactive Agent Reloaded: Slack and Symfony for Real-Time Communications | Matt Mochalkin | [Read More](https://medium.com/p/cecfa117e626) |
 | Fri, 12 Sep 2025 13:17:00 GMT | Beyond Encryption: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/a4703904ffe4) |
 | Fri, 12 Sep 2025 13:09:46 GMT | ️ Windows 11’s September 2025 Security Update: More Personal, More Private | GROWAI_EDTECH | [Read More](https://medium.com/p/0e0e94a68d3c) |
-| Fri, 12 Sep 2025 13:05:59 GMT | WordPress Security and Performance Optimization Guide | Gettech Infinite | [Read More](https://medium.com/p/a3e8d1613636) |
-| Fri, 12 Sep 2025 13:03:44 GMT | How Pentesting with Kali Linux Helped Me Win My First $1300 Bug Bounty | Joseph jr | [Read More](https://medium.com/p/90bcf6564073) |
-| Fri, 12 Sep 2025 13:01:38 GMT | Kioptrix — Level 1 | Midoabdellah | [Read More](https://medium.com/p/fa0a7bb2d41c) |
-| Fri, 12 Sep 2025 13:01:28 GMT | Why I Always Use chattr to Protect Critical Linux Files | Faruk Ahmed | [Read More](https://medium.com/p/550524b94d7b) |
-| Fri, 12 Sep 2025 12:56:38 GMT | Strengthening Business Cybersecurity: Essential Roles of IT Company Experts | Linda Holland | [Read More](https://medium.com/p/653a45fb9a1d) |
-| Fri, 12 Sep 2025 12:55:27 GMT | SOC-in-a-Box -How I created this project. | Jagjeetspace | [Read More](https://medium.com/p/258733b859be) |
-| Fri, 12 Sep 2025 12:53:49 GMT | How to Recognize an AI-Generated Phishing Email in Just a Few Seconds | Cordula Boeck | [Read More](https://medium.com/p/b7ee482a3b59) |
-| Fri, 12 Sep 2025 12:53:40 GMT | Snort [SOC] (basic) - challenge #4 | D4m.sh | [Read More](https://medium.com/p/c85306370f8d) |
-| Fri, 12 Sep 2025 12:49:59 GMT | Cybersecurity Market Outlook Highlights Cloud Security, AI, and Zero-Trust Adoption Through 2032 | Neha Patil | [Read More](https://medium.com/p/955c8a5ab280) |
-| Fri, 12 Sep 2025 12:49:27 GMT | The Nocebo Effect: How Your Brain Manufactures the Reality You Fear Most | Juan Carlos Velasco | [Read More](https://medium.com/p/81b4dca86b21) |
-| Fri, 12 Sep 2025 12:39:12 GMT | The Strength in Feeling Your Emotions | Modern Muse Energy | [Read More](https://medium.com/p/2efd2ee07bcf) |
-| Fri, 12 Sep 2025 12:37:38 GMT | How to Get Into the Red Team: Complete Cybersecurity Career Roadmap (2025 Guide) | Joseph jr | [Read More](https://medium.com/p/699066f78d13) |
-| Fri, 12 Sep 2025 12:35:02 GMT | Rate Limiting vs Throttling: The Secret to Stable APIs | TechVest Blueprint | [Read More](https://medium.com/p/44853d77a55d) |
