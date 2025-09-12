@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 18:37:50 GMT | Ethical Hacker Training Online — Learn Cybersecurity Anytime, Anywhere | Nitin Singh | [Read More](https://medium.com/p/65540e9d731b) |
+| Fri, 12 Sep 2025 18:33:28 GMT | NPM Supply-Chain Attack Campaign — Anthrax the treasure? | Φiriki Intelligence | [Read More](https://medium.com/p/abe9212d6594) |
+| Fri, 12 Sep 2025 18:33:21 GMT | EchoLeak: How a Zero-Click Flaw in MS 365 Copilot Redefined Enterprise AI Risk | Valdez Ladd | [Read More](https://medium.com/p/f979cc1b1e52) |
+| Fri, 12 Sep 2025 18:27:42 GMT | Why Your Boss Will Fall for a Phishing Email Before You Do | Cyberkech | [Read More](https://medium.com/p/d807c9dc2d97) |
+| Fri, 12 Sep 2025 18:27:31 GMT | Dirtypipe — which gives you a special “geass” power | Hritom Bhattacharya | [Read More](https://medium.com/p/50e06be0875b) |
 | Fri, 12 Sep 2025 18:21:59 GMT | Kioptrix Level 3 Walkthrough — From SQL Injection to Root | Ahmed Shawky | [Read More](https://medium.com/p/782d4f9685b5) |
 | Fri, 12 Sep 2025 18:21:39 GMT | Compliance Management System: Building Trust and Reducing Risk | SafeAeon Inc. | [Read More](https://medium.com/p/5c4521c0268e) |
 | Fri, 12 Sep 2025 18:17:41 GMT | Microsoft’s Cable Crisis Highlights Turkey’s Next Strategic Frontier | Amir Imam | [Read More](https://medium.com/p/2cda87aa6109) |
@@ -107,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 14:22:45 GMT | How The Web Works [Part 1] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/d52fe179760c) |
 | Fri, 12 Sep 2025 14:18:13 GMT | Beyond PCI and HIPAA: How Feroot Powers Connecticut Data Privacy Act (CDPA) Compliance | Feroot Security | [Read More](https://medium.com/p/c03ff5170e89) |
 | Fri, 12 Sep 2025 14:13:08 GMT | ️ AI and Privacy in India: What Citizens Should Know About Data, Consent, and Surveillance | Succedence | [Read More](https://medium.com/p/4006d1a07552) |
-| Fri, 12 Sep 2025 14:10:20 GMT | We Had a Breach: How Anonymization Saved My Project | Hareem Fatima | [Read More](https://medium.com/p/45ee10cd1def) |
-| Fri, 12 Sep 2025 14:09:10 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
-صیغه کرج… | مهدی رضایی | [Read More](https://medium.com/p/0519f97faeb2) |
-| Fri, 12 Sep 2025 14:05:52 GMT | Shocking cybersecurity blind spot: exposed by time sync | STR4T0TT0 | [Read More](https://medium.com/p/9a3af342aca4) |
-| Fri, 12 Sep 2025 14:05:32 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | مهدی رضایی | [Read More](https://medium.com/p/912ba003d317) |
-| Fri, 12 Sep 2025 14:04:09 GMT | DeOWASP top 10 for web application security. | Dhruv | [Read More](https://medium.com/p/8112fc51ba46) |
