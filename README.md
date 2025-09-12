@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 03:38:43 GMT | Smartbi RCE Vulnerability: Patch Fast Before Hackers Do | AerieWhole123 | [Read More](https://medium.com/p/8e20424ab59c) |
+| Fri, 12 Sep 2025 03:31:59 GMT | The Double-Edged Sword: AI’s Rise and Cybersecurity’s New Battleground | Akshat Ratanpal | [Read More](https://medium.com/p/3827213e4fe4) |
 | Fri, 12 Sep 2025 03:02:20 GMT | PCI DSS & Digital Payments — Protecting Trust in a Cashless World | Dr. Deep Pandey | [Read More](https://medium.com/p/ab7576c87237) |
 | Fri, 12 Sep 2025 03:01:28 GMT | The Essential Security Checklist for Your AI-Built MVP | DataScience Nexus | [Read More](https://medium.com/p/8ecd80152b25) |
 | Fri, 12 Sep 2025 02:33:06 GMT | How I Almost Got Pwned — A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong | Dale Nguyen | [Read More](https://medium.com/p/e68caca1f246) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 18:32:21 GMT | The Hacker Who Pretended to Be My Best Friend | Shahzaib | [Read More](https://medium.com/p/523cda8bc966) |
 | Thu, 11 Sep 2025 18:32:20 GMT | One Shot, 200 Yards: The Assassination of Charlie Kirk and America’s New Age of Political Violence | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/3345b88e944c) |
 | Thu, 11 Sep 2025 18:31:11 GMT | HACKERS TRIED TO STEAL CRYPTO THROUGH NPM. HERE’S WHY FLAMINGO FINANCE WAS UNTOUCHED. | Duke Okutama | [Read More](https://medium.com/p/b5b46b26d369) |
-| Thu, 11 Sep 2025 18:28:29 GMT | Kioptrix: Level 1 (#1) | d4vnull | [Read More](https://medium.com/p/e0daacbd2488) |
-| Thu, 11 Sep 2025 18:27:12 GMT | Beyond the Firewall: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/343ae140f43e) |
