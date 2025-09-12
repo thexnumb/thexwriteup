@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 20:38:21 GMT | The Double-Edged Sword: When AI Becomes a Tool for Fraud | Mohd Yaseen Khan | [Read More](https://medium.com/p/57a1891075e4) |
+| Fri, 12 Sep 2025 20:37:54 GMT | Formjacking Explained: How Hackers Steal Data Through Online Forms | Akshay Chauhan | [Read More](https://medium.com/p/b9a086411e26) |
 | Fri, 12 Sep 2025 20:00:35 GMT | Case de Sucesso: Conectividade Inteligente com Wi-Fi como Serviço na Caixa Asset | L3TI Soluções em Tecnologia | [Read More](https://medium.com/p/e881da8daf7d) |
 | Fri, 12 Sep 2025 19:52:17 GMT | Unlock Hidden Information with Professional OSINT Investigation | Rakib Hasan Akas | [Read More](https://medium.com/p/66f00710f54d) |
 | Fri, 12 Sep 2025 19:51:54 GMT | The Bug That Only Appeared on Phones in Airplane Mode | Dax | [Read More](https://medium.com/p/1c541414a4da) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 15:27:51 GMT | Scammers Are Using TON to Steal on Telegram | Scofield O. Idehen | [Read More](https://medium.com/p/6cd1bb9a14bf) |
 | Fri, 12 Sep 2025 15:18:26 GMT | How to Troubleshoot Domain Reputation and Email Delivery Issues | r00tb33r | [Read More](https://medium.com/p/7b166f46f85e) |
 | Fri, 12 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/686b82f44d96) |
-| Fri, 12 Sep 2025 15:13:01 GMT | Del dato venimos, al dato vamos | vincenzopedro | [Read More](https://medium.com/p/9ab32e225ade) |
-| Fri, 12 Sep 2025 15:10:16 GMT | Lab: Reflected XSS into a JavaScript string with single quote and backslash escaped | Chirag Vyas | [Read More](https://medium.com/p/856ceba44a4b) |
