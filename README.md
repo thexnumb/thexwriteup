@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 09:30:32 GMT | AI Personalization in SaaS - 2025 Trends & Implementation Guide | Orbix Studio | [Read More](https://medium.com/p/ac8d76119a65) |
+| Fri, 12 Sep 2025 09:30:20 GMT | OWASP Top 10 for Machine Learning Security: Protecting AI from Modern Threats | Ashwini Puranik | [Read More](https://medium.com/p/e7e0b34bc71b) |
+| Fri, 12 Sep 2025 09:27:30 GMT | 2fa bypass through session through failure in session invalidation | Yukesh | [Read More](https://medium.com/p/ca9f328d2cec) |
+| Fri, 12 Sep 2025 09:24:54 GMT | What More Than 10 Years Working with INTERPOL Taught Me About Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/945051d0020f) |
+| Fri, 12 Sep 2025 09:20:13 GMT | CVE-2025–59052: Angular SSR Race Condition Exposes Cross-Request Data in High-Risk Vulnerability | gm0 | [Read More](https://medium.com/p/9d0ec4169fbf) |
+| Fri, 12 Sep 2025 09:19:55 GMT | This Burp Intruder Automation will get you Bounties | Jeosantos | [Read More](https://medium.com/p/6897a53bafc6) |
+| Fri, 12 Sep 2025 09:16:19 GMT | Russia Tests NATO: 19 Drones in Poland, Bases in Belarus | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/cdf90dfecd0c) |
 | Fri, 12 Sep 2025 09:12:24 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Constructing Your Home Lab From Scratch | Abeera Mehtab | [Read More](https://medium.com/p/c1a227f923b6) |
 | Fri, 12 Sep 2025 09:12:06 GMT | A New Era of Trust: Omani Data Center Security in Focus | Tekshoyabeelyas | [Read More](https://medium.com/p/fd700026ff27) |
 | Fri, 12 Sep 2025 09:09:09 GMT | 2025 Guide to the Top 20 Penetration Testing Services in Saudi Arabia | Qualysec | [Read More](https://medium.com/p/bfd6bdd0d9ee) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 04:46:42 GMT | Securing the Future: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/0884484bca05) |
 | Fri, 12 Sep 2025 04:38:47 GMT | Cybercrime Awareness Tips Inspired by a 16-year-old | Ishani Sharma | [Read More](https://medium.com/p/41e43eee73ba) |
 | Fri, 12 Sep 2025 04:30:31 GMT | The Art of Deception: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/2b208feb88b9) |
-| Fri, 12 Sep 2025 04:29:44 GMT | Is It Worth Running Your Own Email Server? | DumpBox | [Read More](https://medium.com/p/6a36ab1fc2f0) |
-| Fri, 12 Sep 2025 04:27:48 GMT | Oman School Buses: Prioritizing Student Safety with Smart Fleet Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/ce3cd209d599) |
-| Fri, 12 Sep 2025 04:27:40 GMT | The quiet strength in beginning again | Davemoore Edoho | [Read More](https://medium.com/p/b101110469f5) |
-| Fri, 12 Sep 2025 04:25:09 GMT | From Cell Phones to Drones: Why Layer 2 Countermeasures Could Become the FCC’s Next Prison Defense… | Robert Schryvers ChT | [Read More](https://medium.com/p/de0ef2aed141) |
-| Fri, 12 Sep 2025 04:20:12 GMT | stage app customer care number✅/ 9238652455 ✅//7389657154 ✅//स्टेज ऐप कस्टमर केयर नंबर✅//9238652455… | stage app customer care number✅/ 9238652455 ✅//738 | [Read More](https://medium.com/p/dd9f0412cf71) |
-| Fri, 12 Sep 2025 04:02:21 GMT | How Quantum Computing Affects Blockchain Security | Dukerearing | [Read More](https://medium.com/p/7efac20eac67) |
-| Fri, 12 Sep 2025 03:55:55 GMT | ImportSnare: Directed “Code Manual” Hijacking in Retrieval-Augmented Code Generation (ImportSnare… | YouShin kim | [Read More](https://medium.com/p/cff99216ef2b) |
