@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 12:39:12 GMT | The Strength in Feeling Your Emotions | Modern Muse Energy | [Read More](https://medium.com/p/2efd2ee07bcf) |
+| Fri, 12 Sep 2025 12:37:38 GMT | How to Get Into the Red Team: Complete Cybersecurity Career Roadmap (2025 Guide) | Joseph jr | [Read More](https://medium.com/p/699066f78d13) |
+| Fri, 12 Sep 2025 12:32:20 GMT | How to Become a Blue Team Analyst: Training, Skills, and Jobs Explained | Joseph jr | [Read More](https://medium.com/p/2e8272dd07cc) |
+| Fri, 12 Sep 2025 12:25:54 GMT | Wireless Penetration Testing: A Step-by-Step WiFi Hacking Guide | Craw Cyber Security | [Read More](https://medium.com/p/dffa0855b6c4) |
+| Fri, 12 Sep 2025 12:21:48 GMT | The Secret Sauce of Secure APIs | TechVest Blueprint | [Read More](https://medium.com/p/ec35183be803) |
+| Fri, 12 Sep 2025 12:18:10 GMT | Is Going Offline the Only Way to Stay Safe? | Your's Nightmare | [Read More](https://medium.com/p/5051736946c7) |
+| Fri, 12 Sep 2025 12:18:06 GMT | Are We Letting Social Media Raise Our Children? | Your's Nightmare | [Read More](https://medium.com/p/00850f50157d) |
+| Fri, 12 Sep 2025 12:17:35 GMT | AI-Powered Self-Healing IT Support in Brisbane | Elevate | [Read More](https://medium.com/p/064332f2e14b) |
+| Fri, 12 Sep 2025 12:11:21 GMT | When a $10 Donation Becomes a $15,000 Nightmare: Chicago Street Fraud on the Rise | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/7cd54c8f6df7) |
+| Fri, 12 Sep 2025 12:07:44 GMT | SalineBreeze-1: Hack The Box Sherlock Write-Up | Deven Chhajed | [Read More](https://medium.com/p/e46a47a0d7d0) |
+| Fri, 12 Sep 2025 12:01:47 GMT | Gregor Samsa Goes To Therapy | Nina Sharma | [Read More](https://medium.com/p/069967dcb5fd) |
+| Fri, 12 Sep 2025 12:01:46 GMT | AI-Powered Cybersecurity: How Zero-Trust Models Are Shaping 2025 Security Strategies | Umesh Anjula | [Read More](https://medium.com/p/7b06a27c8bc0) |
+| Fri, 12 Sep 2025 12:00:21 GMT | A new Android banking trojan is making headlines — and it’s built to steal. | TheReviewHive | [Read More](https://medium.com/p/55d6f6c8df90) |
+| Fri, 12 Sep 2025 11:58:44 GMT | SSI IT Cyber Security Services | SSI IT Solutions | [Read More](https://medium.com/p/a127090da41a) |
+| Fri, 12 Sep 2025 11:51:57 GMT | Understanding CVE-2022–26923: A Vulnerability in Active Directory Certificate Services | Mainekhacker | [Read More](https://medium.com/p/118e9d2de2ce) |
+| Fri, 12 Sep 2025 11:43:14 GMT | Why RFID Kiosks Are a Game-Changer for Modern Healthcare Facilities | Rakesh | [Read More](https://medium.com/p/ddfe6ec117ed) |
 | Fri, 12 Sep 2025 11:34:15 GMT | Kioptrix Level 2 | Mostafa Ahmed | [Read More](https://medium.com/p/54617906d64c) |
 | Fri, 12 Sep 2025 11:32:25 GMT | How to Set Up SSL on Apache Ubuntu 22.04 | Smit Pipaliya | [Read More](https://medium.com/p/85d5f8f51f0d) |
 | Fri, 12 Sep 2025 11:29:39 GMT | Maritime Cybersecurity Market Forecast 2025–2032: Protecting the Digital Seas | snsinsider05 | [Read More](https://medium.com/p/175b7d8ea0f2) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 07:37:23 GMT | Humans as Attack Vectors | Peta Pavan | [Read More](https://medium.com/p/2a5ccabfc9d6) |
 | Fri, 12 Sep 2025 07:31:31 GMT | Diagnosing Cloudflare Security Events with CRS Rule Intelligence: A Developer’s Journey | Bijodev | [Read More](https://medium.com/p/e61b583b56b0) |
 | Fri, 12 Sep 2025 07:26:35 GMT | DVWA Modules:- walkthrough, XSS (Reflected & Stored) | Aashish Vishwakarma | [Read More](https://medium.com/p/4cbd06945788) |
-| Fri, 12 Sep 2025 07:25:38 GMT | The Growing Need For Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/7fb19da5bdbf) |
-| Fri, 12 Sep 2025 07:19:32 GMT | Industry-Specific Data Security: Protecting Sensitive Data Before It’s Too Late | Amaka okoye | [Read More](https://medium.com/p/bdaefae96ab4) |
-| Fri, 12 Sep 2025 07:19:18 GMT | MDM Software Use Cases Across Key Industries | Vantage MDM | [Read More](https://medium.com/p/7ebe328f196e) |
-| Fri, 12 Sep 2025 07:16:51 GMT | Authentication with OpenID Connect & OAuth2 in .NET | Karthikeyan NS | [Read More](https://medium.com/p/1eb24b4a09a3) |
-| Fri, 12 Sep 2025 07:14:14 GMT | From XSS to RCE: Critical Vulnerability Chain in Anthropic MCP Inspector(CVE-2025–58444) | Qubit | [Read More](https://medium.com/p/7092ba4ac442) |
-| Fri, 12 Sep 2025 07:13:23 GMT | Crypto Airdrops vs. Bounty Programs in 2025: What’s the Best? | PromoJ Crypto Marketing Agency | [Read More](https://medium.com/p/9351ddb2ec38) |
-| Fri, 12 Sep 2025 07:12:58 GMT | Meet Ghauri GUI v1 — Streamlined SQLi Scans on Windows | raflesia it | [Read More](https://medium.com/p/5bb383b9f7ff) |
-| Fri, 12 Sep 2025 07:12:24 GMT | DVWA Modules:- walkthrough, Sqlmap | Aashish Vishwakarma | [Read More](https://medium.com/p/69760533d20b) |
-| Fri, 12 Sep 2025 07:12:24 GMT | SMB Signing Not Enabled – Exploitation and Remediation | Durayamithiran G | [Read More](https://medium.com/p/c4845c89f7c6) |
-| Fri, 12 Sep 2025 07:09:29 GMT | Rilis: Ghauri GUI v1 — Cara cepat menjalankan SQLi scan di Windows | raflesia it | [Read More](https://medium.com/p/9a02bb3ec7b3) |
-| Fri, 12 Sep 2025 07:08:13 GMT | From Beers to Business: Reinventing Digital Signage with Raspberry Pi and Zero-Touch Provisioning | Kyrian Arensman | [Read More](https://medium.com/p/675cae040cf9) |
-| Fri, 12 Sep 2025 07:04:32 GMT | Top 10 Reasons Why Python is the Best for Beginners | Nishubirla | [Read More](https://medium.com/p/570ead976023) |
-| Fri, 12 Sep 2025 07:03:46 GMT | ประจำวันศุกร์ที่ 12 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bfb89491db51) |
-| Fri, 12 Sep 2025 07:01:47 GMT | Stop Credential Stuffing Before It Starts: Monitor Plain Text Leaks and Auto Flag Risky Logins | Alexandre Vandamme | [Read More](https://medium.com/p/3f4537592368) |
-| Fri, 12 Sep 2025 06:46:50 GMT | Server Management: Definition, Types, Advantages, and Disadvantages | Bitrix Infotech Pvt Ltd | [Read More](https://medium.com/p/d9197eca5b9d) |
-| Fri, 12 Sep 2025 06:43:05 GMT | XSS in 2025: Why It Still Matters — and How to Defend Against It | AerieWhole123 | [Read More](https://medium.com/p/dfd4e2067bb4) |
