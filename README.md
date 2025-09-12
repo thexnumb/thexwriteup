@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 20:00:35 GMT | Case de Sucesso: Conectividade Inteligente com Wi-Fi como Serviço na Caixa Asset | L3TI Soluções em Tecnologia | [Read More](https://medium.com/p/e881da8daf7d) |
+| Fri, 12 Sep 2025 19:52:17 GMT | Unlock Hidden Information with Professional OSINT Investigation | Rakib Hasan Akas | [Read More](https://medium.com/p/66f00710f54d) |
+| Fri, 12 Sep 2025 19:51:54 GMT | The Bug That Only Appeared on Phones in Airplane Mode | Dax | [Read More](https://medium.com/p/1c541414a4da) |
+| Fri, 12 Sep 2025 19:48:37 GMT | Pasif Bilgi Toplama | Ömer Kaan Kurt | [Read More](https://medium.com/p/f9434c2e3048) |
+| Fri, 12 Sep 2025 19:47:23 GMT | L1 SOC Automation Workflow | Sneh bavarva | [Read More](https://medium.com/p/471902a3940f) |
+| Fri, 12 Sep 2025 19:43:38 GMT | Breaking Digital Barriers Through Amnezia WireGuard’s Deep Packet Inspection Obfuscation | Utso Csekuet | [Read More](https://medium.com/p/045a538e2e70) |
+| Fri, 12 Sep 2025 19:42:55 GMT | From Recon to Results: A Beginner’s Guide to Nmap | OxErvin | [Read More](https://medium.com/p/7f0faf37d411) |
+| Fri, 12 Sep 2025 19:37:15 GMT | The $1000 Critical Bug: Unauthorised Access Leading to Support Admin Panel Takeover | V3D | [Read More](https://medium.com/p/572d687566cd) |
+| Fri, 12 Sep 2025 19:36:48 GMT | Here’s how i recover my money from Bulenox | James | [Read More](https://medium.com/p/eaa05a868fa9) |
+| Fri, 12 Sep 2025 19:33:14 GMT | DFIR digital forensics CTF Connectors | amer7x | [Read More](https://medium.com/p/99513f4c09a9) |
+| Fri, 12 Sep 2025 19:25:12 GMT | CyberDefenders — Volatility Traces Lab | jon | [Read More](https://medium.com/p/b9e77d56dc98) |
 | Fri, 12 Sep 2025 19:22:16 GMT | Ransomware Evolution: From Locking Files to Double Extortion | Sukhveer Singh | [Read More](https://medium.com/p/c1e84d4f250f) |
 | Fri, 12 Sep 2025 19:21:46 GMT | The Recursive Trap: Reentrancy Attacks Made Simple | Aditya Raj | [Read More](https://medium.com/p/d444309b9e93) |
 | Fri, 12 Sep 2025 19:19:29 GMT | The Backbone Under Attack: Why Telecommunications Psychology Creates National Security Blind Spots | Giuseppe Canale | [Read More](https://medium.com/p/22e8834dc246) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/686b82f44d96) |
 | Fri, 12 Sep 2025 15:13:01 GMT | Del dato venimos, al dato vamos | vincenzopedro | [Read More](https://medium.com/p/9ab32e225ade) |
 | Fri, 12 Sep 2025 15:10:16 GMT | Lab: Reflected XSS into a JavaScript string with single quote and backslash escaped | Chirag Vyas | [Read More](https://medium.com/p/856ceba44a4b) |
-| Fri, 12 Sep 2025 15:09:48 GMT | Ehxb - Year of the Fox CTF TryHackMe WriteUp | Ehxb | [Read More](https://medium.com/p/2229a64793df) |
-| Fri, 12 Sep 2025 15:07:17 GMT | Cybersecurity SOAR EDR Project | Suhailmalik | [Read More](https://medium.com/p/ed598e2aebc1) |
-| Fri, 12 Sep 2025 15:06:01 GMT | TryHackMe #5 - Intro to LAN | 0xGroot | [Read More](https://medium.com/p/5c933eb6da2f) |
-| Fri, 12 Sep 2025 15:02:37 GMT | The 13 Tech Shifts McKinsey Says Will Define 2025 — and Why They Matter | Malik | [Read More](https://medium.com/p/09b9baeb5d07) |
-| Fri, 12 Sep 2025 15:02:11 GMT | Divide and rule in Incident Response | Dean | [Read More](https://medium.com/p/18e17829452c) |
-| Fri, 12 Sep 2025 15:01:49 GMT | TryHackMe #4 - What is Networking? | 0xGroot | [Read More](https://medium.com/p/4d4499c99f26) |
-| Fri, 12 Sep 2025 15:01:03 GMT | Recon II: Fuzzing GET Parameter | Taulan Zauzanov | [Read More](https://medium.com/p/ba33a865e899) |
-| Fri, 12 Sep 2025 14:57:56 GMT | Metasploit: Introduction — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/76ba496fe000) |
-| Fri, 12 Sep 2025 14:56:46 GMT | OpenNMS Horizon 34.0, trying out the new release in practice. | Andrey | [Read More](https://medium.com/p/7cc41a33ba70) |
-| Fri, 12 Sep 2025 14:52:54 GMT | NPM The Largest npm Supply Chain Attack in History: How 2.6 | Aniket Gupta | [Read More](https://medium.com/p/7fc87233603a) |
-| Fri, 12 Sep 2025 14:52:40 GMT | Attacks, Defenses, and Discoveries: How Cybersecurity Publications Shaped My Journey | Shahzaib | [Read More](https://medium.com/p/94687e3bf78b) |
