@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 07:31:31 GMT | Diagnosing Cloudflare Security Events with CRS Rule Intelligence: A Developer’s Journey | Bijodev | [Read More](https://medium.com/p/e61b583b56b0) |
+| Fri, 12 Sep 2025 07:26:35 GMT | DVWA Modules:- walkthrough, XSS (Reflected & Stored) | Aashish Vishwakarma | [Read More](https://medium.com/p/4cbd06945788) |
+| Fri, 12 Sep 2025 07:25:38 GMT | The Growing Need For Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/7fb19da5bdbf) |
+| Fri, 12 Sep 2025 07:19:32 GMT | Industry-Specific Data Security: Protecting Sensitive Data Before It’s Too Late | Amaka okoye | [Read More](https://medium.com/p/bdaefae96ab4) |
+| Fri, 12 Sep 2025 07:19:18 GMT | MDM Software Use Cases Across Key Industries | Vantage MDM | [Read More](https://medium.com/p/7ebe328f196e) |
 | Fri, 12 Sep 2025 07:16:51 GMT | Authentication with OpenID Connect & OAuth2 in .NET | Karthikeyan NS | [Read More](https://medium.com/p/1eb24b4a09a3) |
+| Fri, 12 Sep 2025 07:14:14 GMT | From XSS to RCE: Critical Vulnerability Chain in Anthropic MCP Inspector(CVE-2025–58444) | Qubit | [Read More](https://medium.com/p/7092ba4ac442) |
 | Fri, 12 Sep 2025 07:12:58 GMT | Meet Ghauri GUI v1 — Streamlined SQLi Scans on Windows | raflesia it | [Read More](https://medium.com/p/5bb383b9f7ff) |
 | Fri, 12 Sep 2025 07:12:24 GMT | DVWA Modules:- walkthrough, Sqlmap | Aashish Vishwakarma | [Read More](https://medium.com/p/69760533d20b) |
 | Fri, 12 Sep 2025 07:12:24 GMT | SMB Signing Not Enabled – Exploitation and Remediation | Durayamithiran G | [Read More](https://medium.com/p/c4845c89f7c6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 00:49:48 GMT | Operation Sindoor and the Future of Warfare: India’s Lessons in Narrative, Deterrence, and Global… | Igniting Minds | [Read More](https://medium.com/p/bfd6bfea9b6c) |
 | Fri, 12 Sep 2025 00:41:38 GMT | The Best Antivirus and Endpoint Protection for 2025 | Samina Perveen | [Read More](https://medium.com/p/aad657308dd8) |
 | Fri, 12 Sep 2025 00:25:41 GMT | The NPM Supply Chain Attack and the Odd Choice of Wallet Hijacking | littlewing | [Read More](https://medium.com/p/66cacad4637b) |
-| Fri, 12 Sep 2025 00:22:03 GMT | Linux AppArmor profile management | Linux Details | [Read More](https://medium.com/p/434a6b87d1e2) |
-| Fri, 12 Sep 2025 00:20:57 GMT | زاهدان زابل | خاله تهران رشت اهواز خاله گرگان | [Read More](https://medium.com/p/135655beecf6) |
-| Fri, 12 Sep 2025 00:16:12 GMT | RomCom — Digital Forensics (DFIR) | Tiziano Mass | [Read More](https://medium.com/p/e289b90391af) |
-| Fri, 12 Sep 2025 00:12:41 GMT | Linux firewall setup | Linux Details | [Read More](https://medium.com/p/8bb739260407) |
-| Fri, 12 Sep 2025 00:01:44 GMT | Wfuzz: Fuzzing Web para Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/81723a6b0d16) |
-| Fri, 12 Sep 2025 00:00:58 GMT | El Bandito writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a071cfb0fb2a) |
