@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 14:36:25 GMT | Why Open-Source Hardware Wallets Are Often Safer: 7 Concrete Reasons | Tony Philips | [Read More](https://medium.com/p/a4027cbece3e) |
+| Fri, 12 Sep 2025 14:36:21 GMT | What Are Flash Loans? | Scofield O. Idehen | [Read More](https://medium.com/p/3c4fff3242e0) |
+| Fri, 12 Sep 2025 14:34:35 GMT | India Becomes Global Malware Target as AI-Driven Ransomware Escalates | Suhas Valasala | [Read More](https://medium.com/p/5083b5a7920e) |
+| Fri, 12 Sep 2025 14:28:49 GMT | The Role of Cybersecurity in Restoring Trust in Crypto Exchanges | Frank Maree | [Read More](https://medium.com/p/a1d65d65d680) |
+| Fri, 12 Sep 2025 14:22:45 GMT | How The Web Works [Part 1] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/d52fe179760c) |
+| Fri, 12 Sep 2025 14:18:13 GMT | Beyond PCI and HIPAA: How Feroot Powers Connecticut Data Privacy Act (CDPA) Compliance | Feroot Security | [Read More](https://medium.com/p/c03ff5170e89) |
+| Fri, 12 Sep 2025 14:13:08 GMT | ️ AI and Privacy in India: What Citizens Should Know About Data, Consent, and Surveillance | Succedence | [Read More](https://medium.com/p/4006d1a07552) |
+| Fri, 12 Sep 2025 14:10:20 GMT | We Had a Breach: How Anonymization Saved My Project | Hareem Fatima | [Read More](https://medium.com/p/45ee10cd1def) |
+| Fri, 12 Sep 2025 14:09:10 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
+صیغه کرج… | مهدی رضایی | [Read More](https://medium.com/p/0519f97faeb2) |
 | Fri, 12 Sep 2025 14:05:52 GMT | Shocking cybersecurity blind spot: exposed by time sync | STR4T0TT0 | [Read More](https://medium.com/p/9a3af342aca4) |
+| Fri, 12 Sep 2025 14:05:32 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | مهدی رضایی | [Read More](https://medium.com/p/912ba003d317) |
+| Fri, 12 Sep 2025 14:04:09 GMT | DeOWASP top 10 for web application security. | Dhruv | [Read More](https://medium.com/p/8112fc51ba46) |
 | Fri, 12 Sep 2025 14:01:48 GMT | Why Web3 Security Needs Attention at the Pre-Foundational Level | Abatis ABTU | [Read More](https://medium.com/p/607005be6e08) |
 | Fri, 12 Sep 2025 14:01:48 GMT | Cyber Briefing: 2025.09.12 | CyberMaterial | [Read More](https://medium.com/p/afa9ad51b186) |
 | Fri, 12 Sep 2025 14:01:44 GMT | My Cloud Security Journey Continues: Conquering the AZ-900 | Ejike Etolue | [Read More](https://medium.com/p/ecb33fe7b21e) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 10:01:21 GMT | How I Learned That AI Can Be Accidentally Biased(And What You Can Do About It) | Myra Jarenga | [Read More](https://medium.com/p/fb5579369eed) |
 | Fri, 12 Sep 2025 09:59:21 GMT | Artificial Intelligence: Mapping the Future of Human Potential | Sunailnadirkhan | [Read More](https://medium.com/p/e90cfad5ac4c) |
 | Fri, 12 Sep 2025 09:56:18 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/a642bc535b48) |
-| Fri, 12 Sep 2025 09:55:38 GMT | The Linux Process Journey — colord (Color Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9e718013c679) |
-| Fri, 12 Sep 2025 09:54:46 GMT | Beginner’s Guide to Ethical Hacking | Nagaraj | [Read More](https://medium.com/p/888866969d8f) |
-| Fri, 12 Sep 2025 09:54:19 GMT | A Schoolboy’s Dream Behind Glass Walls (Part 2) | Manish Pandey | [Read More](https://medium.com/p/1f8023776776) |
-| Fri, 12 Sep 2025 09:53:34 GMT | ETHICAL HACKING & INFORMATION SECURITY | Alian Rafiq | [Read More](https://medium.com/p/11eb2d17cf4e) |
-| Fri, 12 Sep 2025 09:52:07 GMT | The Evolving Role of Ethical Hackers in Modern Cybersecurity | Hammad | [Read More](https://medium.com/p/cc8a402110e2) |
-| Fri, 12 Sep 2025 09:51:41 GMT | Security for AI: Protecting the Foundations of Trust in the Age of Intelligent Systems | Yulevo | [Read More](https://medium.com/p/e4b8f6872aad) |
-| Fri, 12 Sep 2025 09:42:59 GMT | How to Detect Phishing Emails in 5 Simple Steps | Afzan | [Read More](https://medium.com/p/2428af82965e) |
-| Fri, 12 Sep 2025 09:41:41 GMT | The Future of Security Training: Inside ICORP Active Workforce Pro Platform | ICORP Security | [Read More](https://medium.com/p/2c9e51bf2717) |
-| Fri, 12 Sep 2025 09:41:34 GMT | How Forgetting a Simple Wallet Seed Phrase Could Cost You Millions | Bobby Andrews | [Read More](https://medium.com/p/7432d47acfe5) |
-| Fri, 12 Sep 2025 09:41:04 GMT | Best Managed Data Center Service Provider In India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/c6d362e0355d) |
-| Fri, 12 Sep 2025 09:31:43 GMT | 7 Biggest IT Asset Management Challenges (+ How to Fix Them) | Yuvi Aggarwal | [Read More](https://medium.com/p/6cd90f43a859) |
