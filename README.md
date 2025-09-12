@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 13:25:48 GMT | Day 21:- Understanding Proxy Servers → The Invisible Middleman of the Internet | Prutha_Dongre | [Read More](https://medium.com/p/93ad030dcc36) |
+| Fri, 12 Sep 2025 13:09:46 GMT | ️ Windows 11’s September 2025 Security Update: More Personal, More Private | GROWAI_EDTECH | [Read More](https://medium.com/p/0e0e94a68d3c) |
+| Fri, 12 Sep 2025 13:05:59 GMT | WordPress Security and Performance Optimization Guide | Gettech Infinite | [Read More](https://medium.com/p/a3e8d1613636) |
+| Fri, 12 Sep 2025 13:03:44 GMT | How Pentesting with Kali Linux Helped Me Win My First $1300 Bug Bounty | Joseph jr | [Read More](https://medium.com/p/90bcf6564073) |
+| Fri, 12 Sep 2025 13:01:38 GMT | Kioptrix — Level 1 | Midoabdellah | [Read More](https://medium.com/p/fa0a7bb2d41c) |
+| Fri, 12 Sep 2025 13:01:28 GMT | Why I Always Use chattr to Protect Critical Linux Files | Faruk Ahmed | [Read More](https://medium.com/p/550524b94d7b) |
+| Fri, 12 Sep 2025 12:56:38 GMT | Strengthening Business Cybersecurity: Essential Roles of IT Company Experts | Linda Holland | [Read More](https://medium.com/p/653a45fb9a1d) |
+| Fri, 12 Sep 2025 12:55:27 GMT | SOC-in-a-Box -How I created this project. | Jagjeetspace | [Read More](https://medium.com/p/258733b859be) |
+| Fri, 12 Sep 2025 12:53:49 GMT | How to Recognize an AI-Generated Phishing Email in Just a Few Seconds | Cordula Boeck | [Read More](https://medium.com/p/b7ee482a3b59) |
+| Fri, 12 Sep 2025 12:53:40 GMT | Snort [SOC] (basic) - challenge #4 | D4m.sh | [Read More](https://medium.com/p/c85306370f8d) |
+| Fri, 12 Sep 2025 12:49:59 GMT | Cybersecurity Market Outlook Highlights Cloud Security, AI, and Zero-Trust Adoption Through 2032 | Neha Patil | [Read More](https://medium.com/p/955c8a5ab280) |
+| Fri, 12 Sep 2025 12:49:27 GMT | The Nocebo Effect: How Your Brain Manufactures the Reality You Fear Most | Juan Carlos Velasco | [Read More](https://medium.com/p/81b4dca86b21) |
 | Fri, 12 Sep 2025 12:39:12 GMT | The Strength in Feeling Your Emotions | Modern Muse Energy | [Read More](https://medium.com/p/2efd2ee07bcf) |
 | Fri, 12 Sep 2025 12:37:38 GMT | How to Get Into the Red Team: Complete Cybersecurity Career Roadmap (2025 Guide) | Joseph jr | [Read More](https://medium.com/p/699066f78d13) |
+| Fri, 12 Sep 2025 12:35:02 GMT | Rate Limiting vs Throttling: The Secret to Stable APIs | TechVest Blueprint | [Read More](https://medium.com/p/44853d77a55d) |
 | Fri, 12 Sep 2025 12:32:20 GMT | How to Become a Blue Team Analyst: Training, Skills, and Jobs Explained | Joseph jr | [Read More](https://medium.com/p/2e8272dd07cc) |
+| Fri, 12 Sep 2025 12:32:15 GMT | The Only JavaScript Security Guide You Need: Stopping XSS and CSRF | SnehaTech | [Read More](https://medium.com/p/8a8a4349773b) |
 | Fri, 12 Sep 2025 12:25:54 GMT | Wireless Penetration Testing: A Step-by-Step WiFi Hacking Guide | Craw Cyber Security | [Read More](https://medium.com/p/dffa0855b6c4) |
 | Fri, 12 Sep 2025 12:21:48 GMT | The Secret Sauce of Secure APIs | TechVest Blueprint | [Read More](https://medium.com/p/ec35183be803) |
 | Fri, 12 Sep 2025 12:18:10 GMT | Is Going Offline the Only Way to Stay Safe? | Your's Nightmare | [Read More](https://medium.com/p/5051736946c7) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 08:38:23 GMT | When Your AI Assistant Becomes Your Biggest Security Risk | Paul Sherman | [Read More](https://medium.com/p/7f0476820982) |
 | Fri, 12 Sep 2025 08:34:53 GMT | Digisol DG-GR1321 Router Vulnerability: Improper Access Control (CVE-2024–4231) | Redfox Security | [Read More](https://medium.com/p/c70455b6606f) |
 | Fri, 12 Sep 2025 08:27:50 GMT | CVE-2025–56426: Upcoming Cart Price Manipulation Vulnerability | Rudransh Singh Rajpurohit | [Read More](https://medium.com/p/468b72311969) |
-| Fri, 12 Sep 2025 08:23:50 GMT | DVWA Modules:- walkthrough, Brute Force Attack (Hydra…..) | Aashish Vishwakarma | [Read More](https://medium.com/p/e85e40d2fd1a) |
-| Fri, 12 Sep 2025 08:23:45 GMT | The September 2025 NPM Compromise: How 25 Popular Packages Were Weaponised and What We Built to… | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/033d7a537fe9) |
-| Fri, 12 Sep 2025 08:21:24 GMT | Best mini e-pump 2025 | Thefccracing | [Read More](https://medium.com/p/998e9eefc40e) |
-| Fri, 12 Sep 2025 08:21:01 GMT | DockerLabs Writeup — HiddenCat (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e05ad2c93701) |
-| Fri, 12 Sep 2025 08:17:44 GMT | Between Instagram and Reality: Emotions, Fears, and the Desire for More | Geanina-Ligia Pârvan | [Read More](https://medium.com/p/9a638000e08f) |
-| Fri, 12 Sep 2025 08:10:12 GMT | Successfully Completing the “Introduction to Cybersecurity” Course from Cisco Networking Academy | Kizito Arinze Chukwu | [Read More](https://medium.com/p/63177381deec) |
-| Fri, 12 Sep 2025 08:05:00 GMT | DECODE 2025: Maximize Momentum | Muriell Maza | [Read More](https://medium.com/p/20fba8f059b5) |
-| Fri, 12 Sep 2025 08:03:35 GMT | Compliance-Ready PHP → Tips for GDPR, HIPAA, and Beyond | Asian Digital Hub | [Read More](https://medium.com/p/fc64144cae6a) |
-| Fri, 12 Sep 2025 08:02:47 GMT | Why Password Management Tools Are Key to Digital Security | Renaissance Computer Services Limited | [Read More](https://medium.com/p/7bf4e8d1ba24) |
-| Fri, 12 Sep 2025 07:52:26 GMT | Linux Essentials: Latest Exam Questions and Answers | cyber security Updates | [Read More](https://medium.com/p/c2574bc297f6) |
-| Fri, 12 Sep 2025 07:38:04 GMT | What Every Small Business Should Cover in Penetration Tests | Renaissance Computer Services Limited | [Read More](https://medium.com/p/db6e9ff14f68) |
-| Fri, 12 Sep 2025 07:37:23 GMT | Humans as Attack Vectors | Peta Pavan | [Read More](https://medium.com/p/2a5ccabfc9d6) |
-| Fri, 12 Sep 2025 07:31:31 GMT | Diagnosing Cloudflare Security Events with CRS Rule Intelligence: A Developer’s Journey | Bijodev | [Read More](https://medium.com/p/e61b583b56b0) |
-| Fri, 12 Sep 2025 07:26:35 GMT | DVWA Modules:- walkthrough, XSS (Reflected & Stored) | Aashish Vishwakarma | [Read More](https://medium.com/p/4cbd06945788) |
