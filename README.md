@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 15:10:16 GMT | Lab: Reflected XSS into a JavaScript string with single quote and backslash escaped | Chirag Vyas | [Read More](https://medium.com/p/856ceba44a4b) |
+| Fri, 12 Sep 2025 15:02:37 GMT | The 13 Tech Shifts McKinsey Says Will Define 2025 — and Why They Matter | Malik | [Read More](https://medium.com/p/09b9baeb5d07) |
+| Fri, 12 Sep 2025 15:02:11 GMT | Divide and rule in Incident Response | Dean | [Read More](https://medium.com/p/18e17829452c) |
+| Fri, 12 Sep 2025 15:01:49 GMT | TryHackMe #4 - What is Networking? | 0xGroot | [Read More](https://medium.com/p/4d4499c99f26) |
+| Fri, 12 Sep 2025 15:01:03 GMT | Recon II: Fuzzing GET Parameter | Taulan Zauzanov | [Read More](https://medium.com/p/ba33a865e899) |
+| Fri, 12 Sep 2025 14:57:56 GMT | Metasploit: Introduction — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/76ba496fe000) |
+| Fri, 12 Sep 2025 14:56:46 GMT | OpenNMS Horizon 34.0, trying out the new release in practice. | Andrey | [Read More](https://medium.com/p/7cc41a33ba70) |
+| Fri, 12 Sep 2025 14:52:54 GMT | NPM The Largest npm Supply Chain Attack in History: How 2.6 | Aniket Gupta | [Read More](https://medium.com/p/7fc87233603a) |
+| Fri, 12 Sep 2025 14:52:40 GMT | Attacks, Defenses, and Discoveries: How Cybersecurity Publications Shaped My Journey | Shahzaib | [Read More](https://medium.com/p/94687e3bf78b) |
+| Fri, 12 Sep 2025 14:51:45 GMT | how I made 6 figures in my first year in bug bounty: my experiences | furkan | [Read More](https://medium.com/p/b6c2ec914a2a) |
+| Fri, 12 Sep 2025 14:51:42 GMT | Identifying Your Soulmate: 3 Feelings That Signal You’ve Found the Right Person | Lilyana | [Read More](https://medium.com/p/1a488bde4233) |
+| Fri, 12 Sep 2025 14:48:14 GMT | Dependency Confusion Attacks — How Malicious Packages Threaten Your Software Supply Chain | vishal kumar | [Read More](https://medium.com/p/339f59142e62) |
+| Fri, 12 Sep 2025 14:46:17 GMT | XWorm Malware Analysis: SOC & IR Perspective on Persistence, C2, and Anti-Analysis Tactics | Zyad Waleed Elzyat | [Read More](https://medium.com/p/ed41d335b2ce) |
+| Fri, 12 Sep 2025 14:45:57 GMT | The Samsung Galaxy S26 Pro is said to look like this. | Bastian | [Read More](https://medium.com/p/417df880aa66) |
+| Fri, 12 Sep 2025 14:43:19 GMT | Mini-Guide: The OSI and TCP/IP Model(>ᴗ•) | VLADYSLA✓ | [Read More](https://medium.com/p/ac20332a74d2) |
+| Fri, 12 Sep 2025 14:42:34 GMT | Hacking Jira | Mohammed Hassan | [Read More](https://medium.com/p/f4d2081c7513) |
+| Fri, 12 Sep 2025 14:37:42 GMT | I Can Crack Your Password in Minutes: A Look Inside the Hacker’s Toolkit | Santhosh Kumar | [Read More](https://medium.com/p/b7fbdddd2178) |
 | Fri, 12 Sep 2025 14:36:25 GMT | Why Open-Source Hardware Wallets Are Often Safer: 7 Concrete Reasons | Tony Philips | [Read More](https://medium.com/p/a4027cbece3e) |
 | Fri, 12 Sep 2025 14:36:21 GMT | What Are Flash Loans? | Scofield O. Idehen | [Read More](https://medium.com/p/3c4fff3242e0) |
 | Fri, 12 Sep 2025 14:34:35 GMT | India Becomes Global Malware Target as AI-Driven Ransomware Escalates | Suhas Valasala | [Read More](https://medium.com/p/5083b5a7920e) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 10:49:37 GMT | Stop Burning Cloud Credits: Optimize PostgreSQL Before It’s Too Late | Rizqi Mulki | [Read More](https://medium.com/p/d18732aa3214) |
 | Fri, 12 Sep 2025 10:48:44 GMT | 14. How to Write a Perfect Vulnerability Report | Abhijeet kumawat | [Read More](https://medium.com/p/f07c8a02fc45) |
 | Fri, 12 Sep 2025 10:41:05 GMT | Laravel vs Symfony: The 2025 PHP Showdown | Rizqi Mulki | [Read More](https://medium.com/p/3560ddd0a2da) |
-| Fri, 12 Sep 2025 10:37:46 GMT | Kioptrix: Level 1.2 (#3) | d4vnull | [Read More](https://medium.com/p/404b9aa90f44) |
-| Fri, 12 Sep 2025 10:37:41 GMT | Bluetooth Hacking: BlueBorne Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/d82dfa6dc1b8) |
-| Fri, 12 Sep 2025 10:37:16 GMT | Kioptrix Level 1 Walkthrough — Exploiting Apache mod_ssl & Privilege Escalation | Ahmed Shawky | [Read More](https://medium.com/p/66bba328b349) |
-| Fri, 12 Sep 2025 10:36:04 GMT | MERN vs Laravel: Which One Wins for Startups? | Rizqi Mulki | [Read More](https://medium.com/p/ac7f9266781f) |
-| Fri, 12 Sep 2025 10:33:08 GMT | Why You Should Never Hardcode Secrets in Your Code | Prasanth Rao | [Read More](https://medium.com/p/775e7dae3652) |
-| Fri, 12 Sep 2025 10:29:19 GMT | MERN vs MEVN: Which Is Still Relevant in 2025? | Rizqi Mulki | [Read More](https://medium.com/p/6f3c14e7c008) |
-| Fri, 12 Sep 2025 10:28:35 GMT | The Top Features of Oman Mobile App Development Services for Enterprises | Five Programmers | [Read More](https://medium.com/p/3a94f624666a) |
-| Fri, 12 Sep 2025 10:28:08 GMT | 10 Best Cheap Hosting Providers for Medical Records (Reliable & Secure) | Kanika Mehtah | [Read More](https://medium.com/p/f6e3fe186386) |
-| Fri, 12 Sep 2025 10:26:16 GMT | The Hidden Dangers of Default Credentials in Enterprise Systems | Rizqi Mulki | [Read More](https://medium.com/p/02863d7abb91) |
-| Fri, 12 Sep 2025 10:25:15 GMT | How AI-Powered Hoaxes Threw U.S. Campuses into Chaos | Motasem Hamdan | [Read More](https://medium.com/p/b2670d5c71f3) |
-| Fri, 12 Sep 2025 10:19:05 GMT | Apple Just Made Spyware Companies’ Worst Nightmare Come True | h@shtalk | [Read More](https://medium.com/p/b6432d19f297) |
-| Fri, 12 Sep 2025 10:19:05 GMT | Soupedecode01- THM Walkthrough | Nihir Zala | [Read More](https://medium.com/p/029005cf9872) |
-| Fri, 12 Sep 2025 10:17:49 GMT | Firewall Failures: Four Windows Defender Vulnerabilities Open Door to SYSTEM-Level Compromise | gm0 | [Read More](https://medium.com/p/a4c46ad26fa9) |
-| Fri, 12 Sep 2025 10:12:02 GMT | When AI Turns Against AI: The Rise of AI Cyberattacks | Brillica Services | [Read More](https://medium.com/p/607eb6cc008c) |
-| Fri, 12 Sep 2025 10:01:21 GMT | How I Learned That AI Can Be Accidentally Biased(And What You Can Do About It) | Myra Jarenga | [Read More](https://medium.com/p/fb5579369eed) |
-| Fri, 12 Sep 2025 09:59:21 GMT | Artificial Intelligence: Mapping the Future of Human Potential | Sunailnadirkhan | [Read More](https://medium.com/p/e90cfad5ac4c) |
-| Fri, 12 Sep 2025 09:56:18 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/a642bc535b48) |
