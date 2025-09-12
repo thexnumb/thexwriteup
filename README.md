@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 23:29:25 GMT | My EWPTX Exam Experience: A Practical Guide for Future Test Takers | Omnia Mohamed | [Read More](https://medium.com/p/4c5cef752d25) |
+| Fri, 12 Sep 2025 23:29:11 GMT | Staying Ahead of the Curve: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5c86195b81fa) |
+| Fri, 12 Sep 2025 23:22:06 GMT | Snipe-IT CSV Import: How I Survived My First Big Upload | Aeden | [Read More](https://medium.com/p/4880bb327149) |
 | Fri, 12 Sep 2025 23:16:09 GMT | The Insider Threat: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/01d734d97bfd) |
 | Fri, 12 Sep 2025 22:30:43 GMT | Do you ever feel the pressure to know everything in cybersecurity? | Cybergilly | [Read More](https://medium.com/p/3de67637a5b0) |
 | Fri, 12 Sep 2025 22:22:34 GMT | The Inferno Below the Ice | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/79ff02255bd9) |
@@ -110,6 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 16:28:00 GMT | The Cybercrime Domino Effect: How One Breach Can Cripple The Entire Organization | Gunjan | [Read More](https://medium.com/p/bfafd7aa8b3a) |
 | Fri, 12 Sep 2025 16:26:18 GMT | TryHackMe - Detecting Web Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/fa1cce2e2d60) |
 | Fri, 12 Sep 2025 16:17:59 GMT | Stepping into Ethical Hacking — Day 3: Installing Attacker Machine | Nitin Kudal | [Read More](https://medium.com/p/5af81d3982ad) |
-| Fri, 12 Sep 2025 16:16:32 GMT | Bulut Güvenliği: Şifreleme ve Veri Sızıntılarına Karşı Önlemler | Mustafa Caliskan | [Read More](https://medium.com/p/c74130a765ee) |
-| Fri, 12 Sep 2025 16:15:17 GMT | Quick Free Methods to Import Access Database to SQL Server | Simran Bhatia | [Read More](https://medium.com/p/221ecbb3c296) |
-| Fri, 12 Sep 2025 16:13:24 GMT | How to Track a Live Phone by IMEI Number (Ethically) | Mr. MOM | [Read More](https://medium.com/p/0458a0bbe786) |
