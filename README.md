@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 22:22:34 GMT | The Inferno Below the Ice | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/79ff02255bd9) |
+| Fri, 12 Sep 2025 22:11:42 GMT | TryHackMe #8 - Extending Your Network | 0xGroot | [Read More](https://medium.com/p/f6b646103cd5) |
+| Fri, 12 Sep 2025 22:11:41 GMT | CVE-2025–56448: Replay Attack Vulnerability in Positron PX360BT Car Alarm System | Wagner Alves | [Read More](https://medium.com/p/c9f1ccea6ebe) |
 | Fri, 12 Sep 2025 22:07:42 GMT | TryHackMe #7 - Packets & Frames | 0xGroot | [Read More](https://medium.com/p/582c2ee5a6a6) |
 | Fri, 12 Sep 2025 22:06:29 GMT | Advanced Techniques for Optimizing Authentication in Next.js Applications | @rnab | [Read More](https://medium.com/p/2dad0c003ba5) |
 | Fri, 12 Sep 2025 22:01:45 GMT | TryHackMe #6 - OSI Model | 0xGroot | [Read More](https://medium.com/p/c4223efb5662) |
@@ -110,6 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 16:13:24 GMT | How to Track a Live Phone by IMEI Number (Ethically) | Mr. MOM | [Read More](https://medium.com/p/0458a0bbe786) |
 | Fri, 12 Sep 2025 16:12:19 GMT | 5 Ways Custom Cloth Wristbands Enhance Event Security | Arnett Credentials | [Read More](https://medium.com/p/e0cfdd3e10c2) |
 | Fri, 12 Sep 2025 16:09:40 GMT | Your Crypto Swap is a Hunt for the Perfect Sneakers | Web3 Itagi | [Read More](https://medium.com/p/3d52eda323ea) |
-| Fri, 12 Sep 2025 16:06:16 GMT | Making Sure Your Money Is Safe | Defi Monk | [Read More](https://medium.com/p/0f199b57727f) |
-| Fri, 12 Sep 2025 16:04:04 GMT | The Unbreakable System: Finding the Flaws No One Else Can See | Samina Perveen | [Read More](https://medium.com/p/448cac06bfed) |
-| Fri, 12 Sep 2025 16:01:30 GMT | Boiler CTF Walkthrough: Medium TryHackMe Challenge with Joomla Exploit & Privilege Escalation | Prajwal | [Read More](https://medium.com/p/d044ff1e1038) |
