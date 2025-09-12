@@ -12,9 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 06:26:48 GMT | The Risks of Mobile Banking: What You Need to Know | Abida Adra | [Read More](https://medium.com/p/602850245935) |
+| Fri, 12 Sep 2025 06:22:26 GMT | Siber Güvenlikte En Çok Kullanılan Araçlar: Ağ, Uygulama, Bulut ve Olay Yönetimi | murat yayla | [Read More](https://medium.com/p/c73c0a3fc84a) |
+| Fri, 12 Sep 2025 06:20:22 GMT | CN-Series Container Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/396a2ec2de69) |
+| Fri, 12 Sep 2025 06:17:54 GMT | How I Protect 6 Apps for $0/Month with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/18b2eb6e172d) |
+| Fri, 12 Sep 2025 06:17:30 GMT | Artificial Intelligence | G6 Technology | [Read More](https://medium.com/p/50de97e8286f) |
+| Fri, 12 Sep 2025 06:09:32 GMT | Top 50 Ethical Hacking Interview Questions and Answers for Freshers (2025–2026) | Manisha Chaudhary | [Read More](https://medium.com/p/73fd73bed381) |
+| Fri, 12 Sep 2025 06:04:10 GMT | DNS Security and it’s Impact on Your Network | Rashadul Islam | [Read More](https://medium.com/p/1946e85c1237) |
+| Fri, 12 Sep 2025 06:00:43 GMT | Today’s Top Cyber Intelligence Highlights — Sep 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/288bee3a4f2a) |
+| Fri, 12 Sep 2025 06:00:10 GMT | The GRC Wire, August 2025: Automation with context: Smarter, not just faster | Scrut Automation | [Read More](https://medium.com/p/6bba8641df1f) |
+| Fri, 12 Sep 2025 05:55:03 GMT | QBER: Turning Risk Alignment Into Strategy | Zeron | [Read More](https://medium.com/p/acc451b99ec7) |
+| Fri, 12 Sep 2025 05:53:08 GMT | Difference Between DVR and NVR: A Complete Guide | Smart Secures | [Read More](https://medium.com/p/185143bdce46) |
+| Fri, 12 Sep 2025 05:45:05 GMT | I Thought He Was Helping Me: He Was Hacking Me | Shahzaib | [Read More](https://medium.com/p/f8a2f11f1b73) |
+| Fri, 12 Sep 2025 05:42:12 GMT | ZIP Slip Surprise: How I Turned a File Upload into Remote Code Execution | Iski | [Read More](https://medium.com/p/1cdad896c54c) |
+| Fri, 12 Sep 2025 05:38:45 GMT | Cracking Forensics CTFs 1.0 — picoCTF | Swetha | [Read More](https://medium.com/p/8b143d12b615) |
+| Fri, 12 Sep 2025 05:34:33 GMT | Code Review : SSRF | AbhirupKonwar | [Read More](https://medium.com/p/f4cefb331a17) |
 | Fri, 12 Sep 2025 05:33:36 GMT | Dick Size: When Is Too Big? | Lovemysteries | [Read More](https://medium.com/p/ee00a2c69159) |
+| Fri, 12 Sep 2025 05:33:01 GMT | Guardians of the Network: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/f0880daba1d9) |
 | Fri, 12 Sep 2025 05:31:53 GMT | picoCTF 2024: Trickster | GlitchNox | [Read More](https://medium.com/p/3b0e35200406) |
 | Fri, 12 Sep 2025 05:31:39 GMT | 10 JS Security Wins Without Slowing Your Site | Bhagya Rana | [Read More](https://medium.com/p/fa795af9eeca) |
+| Fri, 12 Sep 2025 05:30:53 GMT | Deploying EpicBook on AWS: Secure Full-Stack Deployment with EC2, Nginx & RDS (MySQL) | Lalit Kumar | [Read More](https://medium.com/p/912d74423ad1) |
 | Fri, 12 Sep 2025 05:26:35 GMT | The Devil in the Details: Cyber Security | Cyber Security Research | [Read More](https://medium.com/p/42ff921051a5) |
 | Fri, 12 Sep 2025 05:25:52 GMT | DAST vs Pen Testing: What Do You Need for Your Organization? | CyberNX | [Read More](https://medium.com/p/685eb55083d7) |
 | Fri, 12 Sep 2025 05:21:47 GMT | SMS vs Authenticator App: Which One Should You Choose for Two-Factor Authentication? | Dhanush N | [Read More](https://medium.com/p/7236d897d705) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Sep 2025 22:11:33 GMT | Server-Side Request Forgery (SSRF) Explained: From Basics to Advanced Attacks | Mazen Elsayed | [Read More](https://medium.com/p/771aef68b415) |
 | Thu, 11 Sep 2025 22:04:57 GMT | Shadow AI Is Not Your Enemy. It Is Your Unmanaged Colleague. | Joao Silva | [Read More](https://medium.com/p/f2bf6655000e) |
 | Thu, 11 Sep 2025 22:02:33 GMT | Outbound Sales Metrics That Actually Predict Revenue Growth | Brian A. Wilson | [Read More](https://medium.com/p/87dde4fbcf8a) |
-| Thu, 11 Sep 2025 22:00:56 GMT | Integrating TOGAF and AI for Risk-Responsive Business Models | Dr. Prashant Sawant | [Read More](https://medium.com/p/4b9b383ca90d) |
-| Thu, 11 Sep 2025 21:56:46 GMT | How Smart CISOs Are Finally Winning the Cybersecurity Budget Battle | Cyber-AppSec | [Read More](https://medium.com/p/31887529359d) |
-| Thu, 11 Sep 2025 21:53:36 GMT | From Trial-and-Error to Tactical Precision: PhantomShift in Action | Sophia Martinez | [Read More](https://medium.com/p/18b574858808) |
-| Thu, 11 Sep 2025 21:34:48 GMT | Warn the Stars | Elijah Thomas | [Read More](https://medium.com/p/438783cebe15) |
-| Thu, 11 Sep 2025 21:31:46 GMT | PG Play — Gaara (Linux) | Lepton | [Read More](https://medium.com/p/3089b0354a76) |
-| Thu, 11 Sep 2025 21:30:01 GMT | Reflections in the Coffee Spoon | Pamala | [Read More](https://medium.com/p/343edf86546b) |
-| Thu, 11 Sep 2025 21:23:51 GMT | Cephalus Ransomware: A Dive into a Modern Ransomware Threat | Shivam Kanodia | [Read More](https://medium.com/p/90f09b9519f4) |
-| Thu, 11 Sep 2025 21:06:06 GMT | Warn the stars | Elijah Thomas | [Read More](https://medium.com/p/ff4dd8c85719) |
-| Thu, 11 Sep 2025 21:03:25 GMT | Reactive vs. Proactive Security ️ | Htut Aung Hlaing | [Read More](https://medium.com/p/6e4ad3333b6a) |
-| Thu, 11 Sep 2025 20:53:44 GMT | Over 40% of AI agent projects will be cancelled by the end of 2027 | Sidialtos | [Read More](https://medium.com/p/294bbc0a41bf) |
-| Thu, 11 Sep 2025 20:51:35 GMT | The Largest Supply Chain Attack to Hit JavaScript: What You Need to Know | Dennis Terna | [Read More](https://medium.com/p/7706447fe20f) |
-| Thu, 11 Sep 2025 20:47:00 GMT | Applying Scrum to Management Communication: Lessons from Elisha | Matthew Magelitz | [Read More](https://medium.com/p/ec5e3905140d) |
-| Thu, 11 Sep 2025 20:43:25 GMT | Choosing the Right Cybersecurity Service Provider: What You Need to Know | Akshay Chauhan | [Read More](https://medium.com/p/55350a52e0e1) |
-| Thu, 11 Sep 2025 20:38:04 GMT | Can Quantum Computers Really Crack Any Password in Seconds | Harish K | [Read More](https://medium.com/p/bb6a65712f75) |
-| Thu, 11 Sep 2025 20:27:48 GMT | The Two Paths of Future Intelligence: A Report by Jigar Joshi | Jigarjoshi | [Read More](https://medium.com/p/5939a50c6881) |
-| Thu, 11 Sep 2025 20:17:06 GMT | IT Security Audits: Strengthening Your Business Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/175ef4f33655) |
-| Thu, 11 Sep 2025 20:16:13 GMT | What’s CIAAN, CIA Triad Brother? | Kurnia Cantra | [Read More](https://medium.com/p/0953226684c2) |
