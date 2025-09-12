@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 18:58:30 GMT | CYBER SECURITY | Bushrafaisal | [Read More](https://medium.com/p/554c46ce4b79) |
+| Fri, 12 Sep 2025 18:57:59 GMT | Stop Buying DevOps Tools Before You Even Know What Problem You’re Solving | Zudonu Osomudeya | [Read More](https://medium.com/p/1e68eeed2490) |
+| Fri, 12 Sep 2025 18:56:21 GMT | PG Play — BBScute (Linux) | Lepton | [Read More](https://medium.com/p/eea6c914b5a6) |
+| Fri, 12 Sep 2025 18:53:23 GMT | The Future of Ethical Hacking: AI, Cloud, and the Evolving Defender’s Role | Smith Adams | [Read More](https://medium.com/p/0b61ce8428f1) |
+| Fri, 12 Sep 2025 18:51:25 GMT | Cybersecurity News Review — Week 37 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/a5e695ce2f95) |
+| Fri, 12 Sep 2025 18:51:00 GMT | Implementando um Firewall simples no VirtualBox | Mardson Diego | [Read More](https://medium.com/p/5614e1caac7f) |
+| Fri, 12 Sep 2025 18:42:51 GMT | AI in Security vs Security in AI | Beril Dindar | [Read More](https://medium.com/p/47e0ac19b133) |
+| Fri, 12 Sep 2025 18:41:46 GMT | When Zero Trust Meets a Hacker: 3 Hours to Failure | echosso | [Read More](https://medium.com/p/a5706880930c) |
+| Fri, 12 Sep 2025 18:40:26 GMT | CONNECTORS CTF Cheater Challenge writeup | Abdallah Safan | [Read More](https://medium.com/p/01b41121598e) |
 | Fri, 12 Sep 2025 18:37:50 GMT | Ethical Hacker Training Online — Learn Cybersecurity Anytime, Anywhere | Nitin Singh | [Read More](https://medium.com/p/65540e9d731b) |
 | Fri, 12 Sep 2025 18:33:28 GMT | NPM Supply-Chain Attack Campaign — Anthrax the treasure? | Φiriki Intelligence | [Read More](https://medium.com/p/abe9212d6594) |
 | Fri, 12 Sep 2025 18:33:21 GMT | EchoLeak: How a Zero-Click Flaw in MS 365 Copilot Redefined Enterprise AI Risk | Valdez Ladd | [Read More](https://medium.com/p/f979cc1b1e52) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 14:46:17 GMT | XWorm Malware Analysis: SOC & IR Perspective on Persistence, C2, and Anti-Analysis Tactics | Zyad Waleed Elzyat | [Read More](https://medium.com/p/ed41d335b2ce) |
 | Fri, 12 Sep 2025 14:45:57 GMT | The Samsung Galaxy S26 Pro is said to look like this. | Bastian | [Read More](https://medium.com/p/417df880aa66) |
 | Fri, 12 Sep 2025 14:43:19 GMT | Mini-Guide: The OSI and TCP/IP Model(>ᴗ•) | VLADYSLA✓ | [Read More](https://medium.com/p/ac20332a74d2) |
-| Fri, 12 Sep 2025 14:42:34 GMT | Hacking Jira | Mohammed Hassan | [Read More](https://medium.com/p/f4d2081c7513) |
-| Fri, 12 Sep 2025 14:37:42 GMT | I Can Crack Your Password in Minutes: A Look Inside the Hacker’s Toolkit | Santhosh Kumar | [Read More](https://medium.com/p/b7fbdddd2178) |
-| Fri, 12 Sep 2025 14:36:25 GMT | Why Open-Source Hardware Wallets Are Often Safer: 7 Concrete Reasons | Tony Philips | [Read More](https://medium.com/p/a4027cbece3e) |
-| Fri, 12 Sep 2025 14:36:21 GMT | What Are Flash Loans? | Scofield O. Idehen | [Read More](https://medium.com/p/3c4fff3242e0) |
-| Fri, 12 Sep 2025 14:34:35 GMT | India Becomes Global Malware Target as AI-Driven Ransomware Escalates | Suhas Valasala | [Read More](https://medium.com/p/5083b5a7920e) |
-| Fri, 12 Sep 2025 14:28:49 GMT | The Role of Cybersecurity in Restoring Trust in Crypto Exchanges | Frank Maree | [Read More](https://medium.com/p/a1d65d65d680) |
-| Fri, 12 Sep 2025 14:22:45 GMT | How The Web Works [Part 1] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/d52fe179760c) |
-| Fri, 12 Sep 2025 14:18:13 GMT | Beyond PCI and HIPAA: How Feroot Powers Connecticut Data Privacy Act (CDPA) Compliance | Feroot Security | [Read More](https://medium.com/p/c03ff5170e89) |
-| Fri, 12 Sep 2025 14:13:08 GMT | ️ AI and Privacy in India: What Citizens Should Know About Data, Consent, and Surveillance | Succedence | [Read More](https://medium.com/p/4006d1a07552) |
