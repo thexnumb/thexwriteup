@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 15:36:26 GMT | What is Ethical Hacking? | Aryan Satam | [Read More](https://medium.com/p/bf5a8e2106ab) |
+| Fri, 12 Sep 2025 15:35:37 GMT | Fewer Claims, Bigger Losses: Ransomware’s Changing Role in UK Cyber Insurance | CyberSure | [Read More](https://medium.com/p/50311a56c321) |
+| Fri, 12 Sep 2025 15:32:07 GMT | The Future Is in the Cloud: What Every Business Needs to Know | Elijah Swanson | [Read More](https://medium.com/p/126265c53e09) |
+| Fri, 12 Sep 2025 15:30:18 GMT | Internet Trolls are No Laughing Matter | Michele Cambardella | [Read More](https://medium.com/p/dc79b0f13851) |
+| Fri, 12 Sep 2025 15:27:51 GMT | Scammers Are Using TON to Steal on Telegram | Scofield O. Idehen | [Read More](https://medium.com/p/6cd1bb9a14bf) |
+| Fri, 12 Sep 2025 15:18:26 GMT | How to Troubleshoot Domain Reputation and Email Delivery Issues | r00tb33r | [Read More](https://medium.com/p/7b166f46f85e) |
+| Fri, 12 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/686b82f44d96) |
+| Fri, 12 Sep 2025 15:13:01 GMT | Del dato venimos, al dato vamos | vincenzopedro | [Read More](https://medium.com/p/9ab32e225ade) |
 | Fri, 12 Sep 2025 15:10:16 GMT | Lab: Reflected XSS into a JavaScript string with single quote and backslash escaped | Chirag Vyas | [Read More](https://medium.com/p/856ceba44a4b) |
+| Fri, 12 Sep 2025 15:09:48 GMT | Ehxb - Year of the Fox CTF TryHackMe WriteUp | Ehxb | [Read More](https://medium.com/p/2229a64793df) |
+| Fri, 12 Sep 2025 15:07:17 GMT | Cybersecurity SOAR EDR Project | Suhailmalik | [Read More](https://medium.com/p/ed598e2aebc1) |
+| Fri, 12 Sep 2025 15:06:01 GMT | TryHackMe #5 - Intro to LAN | 0xGroot | [Read More](https://medium.com/p/5c933eb6da2f) |
 | Fri, 12 Sep 2025 15:02:37 GMT | The 13 Tech Shifts McKinsey Says Will Define 2025 — and Why They Matter | Malik | [Read More](https://medium.com/p/09b9baeb5d07) |
 | Fri, 12 Sep 2025 15:02:11 GMT | Divide and rule in Incident Response | Dean | [Read More](https://medium.com/p/18e17829452c) |
 | Fri, 12 Sep 2025 15:01:49 GMT | TryHackMe #4 - What is Networking? | 0xGroot | [Read More](https://medium.com/p/4d4499c99f26) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 11:20:45 GMT | High-Severity Vulnerabilities and Espionage Operations Drive The Week | Loginsoft | [Read More](https://medium.com/p/03371903a14e) |
 | Fri, 12 Sep 2025 11:19:12 GMT | Cybersecurity in 2025: Combating AI Threats, Ransomware, and Digital Risks | Bandari Rushika | [Read More](https://medium.com/p/5c4001cdb3e0) |
 | Fri, 12 Sep 2025 11:16:15 GMT | The Summer I Turned Myself | Alyssa Mullett | [Read More](https://medium.com/p/9da77ab33331) |
-| Fri, 12 Sep 2025 11:11:42 GMT | Developer Loadout: How Simple Tools Build a Smart, Efficient Team | Namir Sagheenanajar | [Read More](https://medium.com/p/af70cee32cac) |
-| Fri, 12 Sep 2025 11:11:18 GMT | Fundamentals of Ethical Hacking: Principles, Frameworks, and Methods | Ebad Yousuf | [Read More](https://medium.com/p/27498da45239) |
-| Fri, 12 Sep 2025 11:10:24 GMT | Where can I just click EVERYTHING at once? | Balki Maharaj | [Read More](https://medium.com/p/20bcb968db24) |
-| Fri, 12 Sep 2025 11:01:41 GMT | Google Cloud BugSWAT: What 91 Vulnerabilities Teach Us About Risk and Cloud Security | Brittney Ginther | [Read More](https://medium.com/p/a3dd8258a951) |
-| Fri, 12 Sep 2025 11:01:00 GMT | تهران زنجان | ‏شماره داف شماره خاله سکس حضوری شماره خاله واقعی ش | [Read More](https://medium.com/p/85e5d190c325) |
-| Fri, 12 Sep 2025 10:59:06 GMT | Single-Vendor SASE vs. Universal SASE: Which Model Fits Your Enterprise? | Shailendra Prajapati | [Read More](https://medium.com/p/2f76809ecac7) |
-| Fri, 12 Sep 2025 10:53:19 GMT | Building My Future in Technology | Cpdumalagan | [Read More](https://medium.com/p/0fbbfa18c796) |
-| Fri, 12 Sep 2025 10:52:39 GMT | Why Your PostgreSQL Queries Are 10x Slower on Kubernetes (and How to Fix It) | Rizqi Mulki | [Read More](https://medium.com/p/77e48d8d802f) |
-| Fri, 12 Sep 2025 10:49:37 GMT | Stop Burning Cloud Credits: Optimize PostgreSQL Before It’s Too Late | Rizqi Mulki | [Read More](https://medium.com/p/d18732aa3214) |
-| Fri, 12 Sep 2025 10:48:44 GMT | 14. How to Write a Perfect Vulnerability Report | Abhijeet kumawat | [Read More](https://medium.com/p/f07c8a02fc45) |
-| Fri, 12 Sep 2025 10:41:05 GMT | Laravel vs Symfony: The 2025 PHP Showdown | Rizqi Mulki | [Read More](https://medium.com/p/3560ddd0a2da) |
