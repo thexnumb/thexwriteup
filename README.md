@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Sep 2025 21:30:55 GMT | The Value of Participating in the Microsoft Tech Community | Cyber Cav | [Read More](https://medium.com/p/bf5f2ad7dcf7) |
+| Fri, 12 Sep 2025 21:25:27 GMT | The Delivery Leaders Economic Edge: Reading the Job Market to Run Better Projects, Programs and… | Santhush | [Read More](https://medium.com/p/03103c4e2d5e) |
+| Fri, 12 Sep 2025 21:24:27 GMT | Decryptify writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a48e1547dcff) |
+| Fri, 12 Sep 2025 21:21:47 GMT | The Role of AI and Automation in Smart Home Security Systems | CSI Security | [Read More](https://medium.com/p/75b8dbed51d2) |
 | Fri, 12 Sep 2025 20:57:19 GMT | Data Sovereignty vs. Storage Autonomy: 
 The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5a636e4d5b) |
 | Fri, 12 Sep 2025 20:45:02 GMT | BSides Belfast 2025 — My experience. | JD | [Read More](https://medium.com/p/f97d5659e166) |
@@ -109,7 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 15:42:49 GMT | Your First Step into Ethical Hacking with Concepts, Lab Setup, and Key Skills. | Zeeshan Masood Keyani | [Read More](https://medium.com/p/430225177260) |
 | Fri, 12 Sep 2025 15:41:21 GMT | Salesforce: Sécuriser les Connected Apps (obligatoire dès sept 2025) | Nicolas Vuillamy | [Read More](https://medium.com/p/843a825b0fd0) |
 | Fri, 12 Sep 2025 15:39:56 GMT | How Burnr Changes Privacy in a World of Digital Permanence: Share Once, Leave No Trace | Burnr | [Read More](https://medium.com/p/ef1821ad0d88) |
-| Fri, 12 Sep 2025 15:36:26 GMT | What is Ethical Hacking? | Aryan Satam | [Read More](https://medium.com/p/bf5a8e2106ab) |
-| Fri, 12 Sep 2025 15:35:37 GMT | Fewer Claims, Bigger Losses: Ransomware’s Changing Role in UK Cyber Insurance | CyberSure | [Read More](https://medium.com/p/50311a56c321) |
-| Fri, 12 Sep 2025 15:32:07 GMT | The Future Is in the Cloud: What Every Business Needs to Know | Elijah Swanson | [Read More](https://medium.com/p/126265c53e09) |
-| Fri, 12 Sep 2025 15:30:18 GMT | Internet Trolls are No Laughing Matter | Michele Cambardella | [Read More](https://medium.com/p/dc79b0f13851) |
