@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 14:01:43 GMT | ABTU = Utility, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/f8c2b4848d1f) |
+| Sat, 13 Sep 2025 14:01:02 GMT | I met someone | Stephanie Khobe | [Read More](https://medium.com/p/2478c872a6a7) |
+| Sat, 13 Sep 2025 13:56:37 GMT | Nmap vs Wireshark Choosing the Right Tool for Network Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/b414ff18a1b5) |
+| Sat, 13 Sep 2025 13:54:26 GMT | Invisible by Design: A Practical Guide to Online Privacy | Kenny Wolf | [Read More](https://medium.com/p/0f8230f3059e) |
+| Sat, 13 Sep 2025 13:48:44 GMT | DC: 2 VulnHub - Walkthrough [by Rikin] | Rikin | [Read More](https://medium.com/p/e1ec74d3cbe2) |
+| Sat, 13 Sep 2025 13:46:19 GMT | Detecting Web Attacks on TryHackMe: A Complete Walkthrough for Log & Network-Based Threat Hunting | Visir | [Read More](https://medium.com/p/fd041916a035) |
+| Sat, 13 Sep 2025 13:43:14 GMT | Kiba - Tryhackme | Redcell | [Read More](https://medium.com/p/519f621b4eee) |
+| Sat, 13 Sep 2025 13:40:36 GMT | Assassination of Charlie Kirk Timeline, Reactions and Implications | SIMKRA | [Read More](https://medium.com/p/a0a4cd8b3912) |
+| Sat, 13 Sep 2025 13:40:27 GMT | Malware Analysis : WannaCry | Chito Oda | [Read More](https://medium.com/p/e39d0d26e80b) |
+| Sat, 13 Sep 2025 13:39:47 GMT | Climate Change and Pakistan’s Vulnerability | bisma seo | [Read More](https://medium.com/p/a909a86f101b) |
+| Sat, 13 Sep 2025 13:39:35 GMT | Nym in August 2025: বিকেন্দ্রীকৃত গোপনীয়তার পথে আরেক ধাপ অগ্রগতি | Rabib Bin Nur | [Read More](https://medium.com/p/7aa9e32db29b) |
+| Sat, 13 Sep 2025 13:37:41 GMT | $1,500 Bounty: Business Logic Flaw in Project Secrets Management | Abhi Sharma | [Read More](https://medium.com/p/4b985175071e) |
 | Sat, 13 Sep 2025 13:29:33 GMT | JANGOW 1.0.1 VULNHUB | Qargi | [Read More](https://medium.com/p/d3cfccf078d3) |
 | Sat, 13 Sep 2025 13:29:32 GMT | Cybersecurity & Digital Privacy: Staying Safe in the Digital Age | Yashika | [Read More](https://medium.com/p/af5bf6920dec) |
 | Sat, 13 Sep 2025 13:26:03 GMT | Secure Your CI/CD Pipeline with AI: A 2025 Developer’s Guide | Umesh Anjula | [Read More](https://medium.com/p/5965e3b79a61) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 08:48:07 GMT | VulnHub Kioptrix Level 1 CTF Walkthrough -- Writeup | Amr Eid | [Read More](https://medium.com/p/7dbeead68e75) |
 | Sat, 13 Sep 2025 08:46:40 GMT | The Emotional Firewall | Laurent Balmelli | [Read More](https://medium.com/p/7e6daa98c74c) |
 | Sat, 13 Sep 2025 08:43:18 GMT | PicoCTF Web Exploitation Walkthrough -dont-use-client-side | Deepika  B | [Read More](https://medium.com/p/760b224df44f) |
-| Sat, 13 Sep 2025 08:32:47 GMT | Palo Alto Networks PA-450R Firewalls: Rugged Enterprise-Grade Security | Juara IT Solutions | [Read More](https://medium.com/p/de4257c2f863) |
-| Sat, 13 Sep 2025 08:32:22 GMT | picoCTF2025 — n0s4n1ty 1 | TNTRenjin | [Read More](https://medium.com/p/1da4af9e665e) |
-| Sat, 13 Sep 2025 08:31:41 GMT | How I Made $4,200 Last Month While Working Full-Time | Asma | [Read More](https://medium.com/p/07711f658e5c) |
-| Sat, 13 Sep 2025 08:30:07 GMT | Architecting Intelligence: Building End-to-End Machine Learning Solutions on Azure | Bibhu Ashish Panda | [Read More](https://medium.com/p/a805dce67b90) |
-| Sat, 13 Sep 2025 08:27:59 GMT | Bun vs Node.js: The Runtime Battle of 2025 | Rizqi Mulki | [Read More](https://medium.com/p/78522a3f6d8d) |
-| Sat, 13 Sep 2025 08:20:02 GMT | The Kids Who Hacked the CIA | Maaz Shaikh | [Read More](https://medium.com/p/0b29355265d0) |
-| Sat, 13 Sep 2025 08:18:54 GMT | “Invite-Only” room TryHackMe Writeup | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/d70cae161940) |
-| Sat, 13 Sep 2025 08:14:54 GMT | The Shocking Truth About PostgreSQL Locks (PostgreSQL documentation won’t tell you) | Rizqi Mulki | [Read More](https://medium.com/p/340c220734f1) |
-| Sat, 13 Sep 2025 08:07:53 GMT | How IT Lifecycle Management Can Strengthen Cybersecurity in Your Business | Yuvi Aggarwal | [Read More](https://medium.com/p/ffc5e8054e48) |
-| Sat, 13 Sep 2025 08:04:00 GMT | PostgreSQL vs Vector Databases: Who Wins the Speed War in 2025? | Rizqi Mulki | [Read More](https://medium.com/p/e812559acd95) |
-| Sat, 13 Sep 2025 08:01:45 GMT | Stop Copy-Pasting Commands Like a Caveman: Master Bash Variables & Command Magic | MayhemCode | [Read More](https://medium.com/p/8d2db290af93) |
-| Sat, 13 Sep 2025 07:58:11 GMT | Intro to SQL Injection | Swetha | [Read More](https://medium.com/p/26d25c52ff55) |
