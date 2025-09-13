@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 05:33:38 GMT | Biometric Security: Next-Gen Authentication and Emerging Risks | Tarush Sharma | [Read More](https://medium.com/p/2a42a57ec897) |
+| Sat, 13 Sep 2025 05:20:33 GMT | Cyber Security Details: Threat Hunting Methodologies | Cyber Security Research | [Read More](https://medium.com/p/46674b9fbfc3) |
+| Sat, 13 Sep 2025 05:16:10 GMT | How to Fix React Native’s Most Annoying Error | Devansh Tiwari | [Read More](https://medium.com/p/b5fe8c8871fa) |
+| Sat, 13 Sep 2025 05:14:36 GMT | Securing the Remote Workforce: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5f17a15f72c8) |
 | Sat, 13 Sep 2025 05:07:23 GMT | Cyber Security Details: DevSecOps Implementation | Cyber Security Research | [Read More](https://medium.com/p/fcf5e93176ba) |
 | Sat, 13 Sep 2025 05:00:41 GMT | The Psychology of Cyber Security: Details | Cyber Security Research | [Read More](https://medium.com/p/c6cce1c17112) |
 | Sat, 13 Sep 2025 04:54:56 GMT | Cyber Security Details: Network Segmentation Strategies | Cyber Security Research | [Read More](https://medium.com/p/36e1ae5a5b95) |
@@ -111,7 +115,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 18:21:59 GMT | Kioptrix Level 3 Walkthrough — From SQL Injection to Root | Ahmed Shawky | [Read More](https://medium.com/p/782d4f9685b5) |
 | Fri, 12 Sep 2025 18:21:39 GMT | Compliance Management System: Building Trust and Reducing Risk | SafeAeon Inc. | [Read More](https://medium.com/p/5c4521c0268e) |
 | Fri, 12 Sep 2025 18:17:41 GMT | Microsoft’s Cable Crisis Highlights Turkey’s Next Strategic Frontier | Amir Imam | [Read More](https://medium.com/p/2cda87aa6109) |
-| Fri, 12 Sep 2025 18:16:10 GMT | Hacking the Past: Why WEP Failed and WPA3 Leads the Future | Natarajan C K | [Read More](https://medium.com/p/23032a2ccf50) |
-| Fri, 12 Sep 2025 18:10:08 GMT | The FAFSA Hustle: How Kenyan Youth Got Entangled in a Billion-Dollar U.S. Student Aid Fraud | ngugi | [Read More](https://medium.com/p/fa3d0b73f7df) |
-| Fri, 12 Sep 2025 18:05:35 GMT | What is CIA Triad? | Dhruv | [Read More](https://medium.com/p/850ac55315c1) |
-| Fri, 12 Sep 2025 18:02:57 GMT | Kioptrix — Level 3 | Midoabdellah | [Read More](https://medium.com/p/10d11c051e17) |
