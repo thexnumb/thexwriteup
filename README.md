@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 04:03:02 GMT | Trump’s Keystone Kops Diplomacy is Driven by Pure Ego | James Louis Bruno | [Read More](https://medium.com/p/9277331b657d) |
+| Sat, 13 Sep 2025 03:56:12 GMT | Bug Bounty: Focus And Blind Spots | smilemil | [Read More](https://medium.com/p/e1498838379e) |
+| Sat, 13 Sep 2025 03:54:16 GMT | The Ghosts in the Machine: How Chinese Hackers Lived Undetected for Years | Aj | [Read More](https://medium.com/p/3498c950d600) |
+| Sat, 13 Sep 2025 03:31:43 GMT | Key Management: The Unsung Hero of PKI | TechTrellis | [Read More](https://medium.com/p/8c99b7b97910) |
 | Sat, 13 Sep 2025 03:25:47 GMT | Automating IDOR Fuzzing with Caido | Trixia Horner | [Read More](https://medium.com/p/b6d894228bb0) |
 | Sat, 13 Sep 2025 03:19:41 GMT | Detecting Web Attacks - Tryhackme | Aaron | [Read More](https://medium.com/p/202922adc012) |
 | Sat, 13 Sep 2025 03:01:43 GMT | Understanding CORS | Auriga Aristo | [Read More](https://medium.com/p/fd0c54984a67) |
@@ -109,7 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 17:46:44 GMT | Day 1 : Getting Into Cybersecurity | BoboExploits | [Read More](https://medium.com/p/dc32fa389ff5) |
 | Fri, 12 Sep 2025 17:46:11 GMT | Novix VPN — Fast, Secure & Free Trial | Novix VPN | [Read More](https://medium.com/p/bcada330ced6) |
 | Fri, 12 Sep 2025 17:44:28 GMT | I Was Shocked When My ChatGPT Coughed! -The Blurring Lines Between Reality and Deepfakes | Shefali Gokarn | [Read More](https://medium.com/p/c7252c15db28) |
-| Fri, 12 Sep 2025 17:42:44 GMT | Ethical Hacking and Cyber Security | Shaher bano | [Read More](https://medium.com/p/2cb13a228789) |
-| Fri, 12 Sep 2025 17:41:22 GMT | Two-Factor Authentication (2FA) in Laravel Starter Kits: A Practical Guide | Sadique Ali | [Read More](https://medium.com/p/a68e4e8356b0) |
-| Fri, 12 Sep 2025 17:36:37 GMT | Vulnerability Management as a Service: A Smarter Way to Stay Secure | SafeAeon Inc. | [Read More](https://medium.com/p/798860f4a0f7) |
-| Fri, 12 Sep 2025 17:35:29 GMT | hacking code | Omegartyson | [Read More](https://medium.com/p/591fed35c084) |
