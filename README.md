@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 23:01:53 GMT | AI: Your New Best Friend or the Cyber Villain in a Lab Coat? | Kieran Wadforth | [Read More](https://medium.com/p/6d460cadb79c) |
+| Sat, 13 Sep 2025 22:51:23 GMT | CyberDefenders — VaultBreak Lab | jon | [Read More](https://medium.com/p/985b0413fa4b) |
+| Sat, 13 Sep 2025 22:36:36 GMT | PrintNightmare (CVE-2021–34527) | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/67863d6134c7) |
+| Sat, 13 Sep 2025 22:35:11 GMT | What Makes aarnâ Vaults Different | Patowrld | [Read More](https://medium.com/p/52c3d4202415) |
 | Sat, 13 Sep 2025 21:56:56 GMT | PortSwigger “File path traversal, validation of file extension with null byte bypass” Lab — Çözüm… | Mirac Kayikci | [Read More](https://medium.com/p/7339434ee48e) |
 | Sat, 13 Sep 2025 21:54:34 GMT | Start Journey of Learning Network Security | Kiranjeetkour | [Read More](https://medium.com/p/03bee833b658) |
 | Sat, 13 Sep 2025 21:37:53 GMT | CyberDefenders — DarkCrystal Lab | jon | [Read More](https://medium.com/p/49cfe090927f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 14:24:12 GMT | MindGTC: The Story of the Ultimate Passion Project | MindGTC the next gen. Software Wallet | [Read More](https://medium.com/p/b23b21067826) |
 | Sat, 13 Sep 2025 14:17:42 GMT | Sometimes I Want to be Famous | Ember Forrest | [Read More](https://medium.com/p/cda62026f931) |
 | Sat, 13 Sep 2025 14:17:35 GMT | “ NEVER BE TOO SECURE “ | Chike Umeuduji | [Read More](https://medium.com/p/1102a9ee9bb9) |
-| Sat, 13 Sep 2025 14:10:34 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and… | Chirag Vyas | [Read More](https://medium.com/p/b299ab47692c) |
-| Sat, 13 Sep 2025 14:08:55 GMT | How I Made Learning Cryptography Simpler | Nastaran Nikzad | [Read More](https://medium.com/p/054f7ba7b33c) |
-| Sat, 13 Sep 2025 14:08:44 GMT | Uncovering Windows Endpoint Artifacts: A Deep Dive into $MFT Analysis | Allen Ace | [Read More](https://medium.com/p/37a7aad780fb) |
-| Sat, 13 Sep 2025 14:05:57 GMT | Connectors CTF Python Sucks | BANKA | [Read More](https://medium.com/p/72260486e021) |
