@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 11:02:52 GMT | Why DForms Could Change the Way We Collect Data | Aliciasierra | [Read More](https://medium.com/p/1fc85c338a9d) |
+| Sat, 13 Sep 2025 11:02:06 GMT | DVWA Modules:- walkthrough, File Upload | Aashish Vishwakarma | [Read More](https://medium.com/p/2f4ab22610b0) |
+| Sat, 13 Sep 2025 10:57:32 GMT | Cyber Security Training — Your Future Starts Here! | Pravin Choudhary | [Read More](https://medium.com/p/e4ecff6e8cb2) |
+| Sat, 13 Sep 2025 10:54:21 GMT | Current Cybercrime Trends & Their Impact on Forensic Investigations | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/73b984792b16) |
+| Sat, 13 Sep 2025 10:50:25 GMT | Cyber Security Details: Security Automation Techniques | Cyber Security Research | [Read More](https://medium.com/p/03f6a908d85b) |
+| Sat, 13 Sep 2025 10:46:18 GMT | AI Powered Tools: HexStrike AI | Archa Anil | [Read More](https://medium.com/p/4305a0d46e56) |
+| Sat, 13 Sep 2025 10:43:26 GMT | Understanding Exploit Kits: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/c3718a71f160) |
+| Sat, 13 Sep 2025 10:41:43 GMT | NFC Attacks and Security Risks | Esra Kayhan | [Read More](https://medium.com/p/d80d9a2b97ae) |
+| Sat, 13 Sep 2025 10:41:05 GMT | DIY AI Face Tracker for the Streets: Build Your Own Watcher | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/751dd445c0f3) |
 | Sat, 13 Sep 2025 10:37:49 GMT | Smol - TryHackMe | Gerald | [Read More](https://medium.com/p/f29a75cb5bd0) |
+| Sat, 13 Sep 2025 10:37:33 GMT | Cyber Security Details: Data Loss Prevention (DLP) Strategies | Cyber Security Research | [Read More](https://medium.com/p/6927816606fc) |
 | Sat, 13 Sep 2025 10:31:42 GMT | When URLs Betray You: The Security Risk of IDOR | Natarajan C K | [Read More](https://medium.com/p/b329ac843335) |
 | Sat, 13 Sep 2025 10:31:41 GMT | I Wasn’t Trying to Hack Them, But I Did: A Beginner’s Story of Finding Major Security Flaws | 0x62616B61 | [Read More](https://medium.com/p/9a3710dcb441) |
 | Sat, 13 Sep 2025 10:31:39 GMT | The Blockchain Security Imperative: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8328ed5018ab) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 04:35:46 GMT | Why Agentic AI Needs a New Security Model in 2025 and Beyond | Taimur Ijlal | [Read More](https://medium.com/p/5e42211e2fbe) |
 | Sat, 13 Sep 2025 04:32:06 GMT | The Inevitability of Charlie Kirk’s Death and What It Reveals About America | Nicholas Riding | [Read More](https://medium.com/p/52e405a0af2e) |
 | Sat, 13 Sep 2025 04:31:46 GMT | 7 AI Hacks That Saved Me 40 Hours This Week | Asma | [Read More](https://medium.com/p/ce36ee1fcc7d) |
-| Sat, 13 Sep 2025 04:22:38 GMT | Why Shopify Stores Are Easy Targets for Malware Attacks (and How to Stay Safe) | Tycoonstories | [Read More](https://medium.com/p/6c0a61ee8bb4) |
-| Sat, 13 Sep 2025 04:03:02 GMT | Trump’s Keystone Kops Diplomacy is Driven by Pure Ego | James Louis Bruno | [Read More](https://medium.com/p/9277331b657d) |
-| Sat, 13 Sep 2025 03:56:12 GMT | Bug Bounty: Focus And Blind Spots | smilemil | [Read More](https://medium.com/p/e1498838379e) |
-| Sat, 13 Sep 2025 03:54:16 GMT | The Ghosts in the Machine: How Chinese Hackers Lived Undetected for Years | Aj | [Read More](https://medium.com/p/3498c950d600) |
-| Sat, 13 Sep 2025 03:31:43 GMT | Key Management: The Unsung Hero of PKI | TechTrellis | [Read More](https://medium.com/p/8c99b7b97910) |
-| Sat, 13 Sep 2025 03:25:47 GMT | Automating IDOR Fuzzing with Caido | Trixia Horner | [Read More](https://medium.com/p/b6d894228bb0) |
-| Sat, 13 Sep 2025 03:19:41 GMT | Detecting Web Attacks - Tryhackme | Aaron | [Read More](https://medium.com/p/202922adc012) |
-| Sat, 13 Sep 2025 03:01:43 GMT | Understanding CORS | Auriga Aristo | [Read More](https://medium.com/p/fd0c54984a67) |
-| Sat, 13 Sep 2025 03:01:43 GMT | How to Reset a Keypad Door Lock: Simple Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/0b00aaafa113) |
-| Sat, 13 Sep 2025 02:48:22 GMT | How to Make mspaint Say “Meow”: A Playful Guide to DLL Injection | Itz.sanskarr | [Read More](https://medium.com/p/edf748eb9558) |
