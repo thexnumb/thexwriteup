@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 12:27:47 GMT | The Evolution of Malware: An In-Depth Look at Polymorphic and Metamorphic Threats | Giorgi Akhobadze | [Read More](https://medium.com/p/2a8fc872fbc5) |
+| Sat, 13 Sep 2025 12:27:30 GMT | Beyond Passwords: A Comprehensive Guide to Modern Multi-Factor Authentication Methods | Giorgi Akhobadze | [Read More](https://medium.com/p/f2deb07985db) |
+| Sat, 13 Sep 2025 12:26:56 GMT | A Complete Guide to Network Forensics: Investigating and Analyzing Network Traffic for Intrusions | Giorgi Akhobadze | [Read More](https://medium.com/p/ea0ce35a7c6b) |
+| Sat, 13 Sep 2025 12:20:54 GMT | The Sound Of Clicking Keys | O. J. Okpabi | [Read More](https://medium.com/p/f393e3bcfa19) |
+| Sat, 13 Sep 2025 12:20:06 GMT | A Critical Review of Some Cybersecurity Frameworks: OWASP COMPASS, MITRE ATLAS | noailabs | [Read More](https://medium.com/p/065aee439ac8) |
+| Sat, 13 Sep 2025 12:16:49 GMT | Seamless Server Uplift From Shared To VPS | Milaharris | [Read More](https://medium.com/p/bb5cb2e9eed0) |
+| Sat, 13 Sep 2025 12:15:30 GMT | What Seymour Hersh Gets Right (and Wrong) About AI’s “Secret Backers” — and What Real Safety Would… | Dr Rita Pal | [Read More](https://medium.com/p/5315206fd123) |
+| Sat, 13 Sep 2025 12:13:39 GMT | Exposed API Endpoints: The Silent Killer for Startups. A Founder’s Security Checklist | Zubair Usman | [Read More](https://medium.com/p/a9e41239572f) |
+| Sat, 13 Sep 2025 12:12:56 GMT | Hunting API Keys in JavaScript Files: A Bug Hunter’s Guide | Medusa | [Read More](https://medium.com/p/01940b7dd6ef) |
+| Sat, 13 Sep 2025 12:08:48 GMT | The Library Of Promises | O. J. Okpabi | [Read More](https://medium.com/p/b25c1aeb7937) |
+| Sat, 13 Sep 2025 12:08:37 GMT | LD_PRELOAD Privilege Escalation (Linux Priv Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/c8abdf1a9bec) |
+| Sat, 13 Sep 2025 12:06:25 GMT | From Discovery to Defense: Finishing a Penetration Testing Project on Metasploitable2 | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/5a4cc2377dc7) |
+| Sat, 13 Sep 2025 12:05:24 GMT | How to Set Up SSL on Nginx Ubuntu 22.04 | Smit Pipaliya | [Read More](https://medium.com/p/1eb5dd0ea2f1) |
+| Sat, 13 Sep 2025 12:05:18 GMT | Reverse Engineering solution to MajorOzzy’s Beginner Crackme (.NET) | Nathan C | [Read More](https://medium.com/p/45a775dce170) |
+| Sat, 13 Sep 2025 12:04:45 GMT | Day 89: Post-exploitation file transfer | Nile Okomo | [Read More](https://medium.com/p/6fe9ded3f752) |
+| Sat, 13 Sep 2025 12:02:23 GMT | The Rise of Generative AI in Software Development & Why IT Jobs Are Changing Forever | PRATHMESH BADHE | [Read More](https://medium.com/p/242d3f41633b) |
+| Sat, 13 Sep 2025 11:52:55 GMT | The Insides of a SIEM | Chris Jordan | [Read More](https://medium.com/p/0b96d15bea43) |
+| Sat, 13 Sep 2025 11:50:06 GMT | How I Discovered a Reflected XSS on the MOD UK Police Website (WAF Bypass) | Hassan Ali Arshad | [Read More](https://medium.com/p/5a29627333c3) |
+| Sat, 13 Sep 2025 11:49:55 GMT | What is Cybersecurity? Understanding the Blue Team vs Red Team | MouhibMahadbi | [Read More](https://medium.com/p/eec656ff40ce) |
+| Sat, 13 Sep 2025 11:47:39 GMT | Understanding AI: 5 Things You Actually Need to Know | Ghani Mengal | [Read More](https://medium.com/p/4a7e9033c196) |
+| Sat, 13 Sep 2025 11:47:37 GMT | Breaking Down the Castle Walls: Building a Zero-Trust WireGuard VPN That Actually Works | Joel Wembo | [Read More](https://medium.com/p/fb257de775e9) |
+| Sat, 13 Sep 2025 11:41:50 GMT | Urgent Locksmith — Fast & Reliable Locksmith Services by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/2c61fa8d406f) |
+| Sat, 13 Sep 2025 11:36:01 GMT | DockerLabs Writeup — Pinguinazo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/83e895fdbfe1) |
 | Sat, 13 Sep 2025 11:31:42 GMT | Secure Your Accounts with a Strong Password Generator | WP HELP - LNX Servers - Page Speed - SEO - WEBDEV | [Read More](https://medium.com/p/c60367aa5143) |
+| Sat, 13 Sep 2025 11:30:28 GMT | Cyber Security Training with 100% Job Guarantee! | SoftApp Technologies | [Read More](https://medium.com/p/c37474fc77cb) |
 | Sat, 13 Sep 2025 11:20:10 GMT | The Victory I Didn’t Feel | Exploring, Growing, Evolving: My Life in Action | [Read More](https://medium.com/p/463b595025fa) |
 | Sat, 13 Sep 2025 11:15:45 GMT | I Built a Device That Screams When Suspicious Network Activity Appears | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/26a13c07f662) |
 | Sat, 13 Sep 2025 11:09:31 GMT | Linux Security Architecture: The Blueprint | Eren Cankut Uysal | [Read More](https://medium.com/p/d97defe44c21) |
@@ -88,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 06:47:54 GMT | The Overlooked Risk: Why IoT Devices Need Security Audits | Recover Right | [Read More](https://medium.com/p/e8930ddbdf37) |
 | Sat, 13 Sep 2025 06:46:02 GMT | Best Cyber Risk Consulting Firms in Canada (2025 Edition) | Brigient | [Read More](https://medium.com/p/9794b4611306) |
 | Sat, 13 Sep 2025 06:45:40 GMT | Keys to the Kingdom: How I Hacked a Fortune 500 Company Through Their Mobile App | Iski | [Read More](https://medium.com/p/e26debedd3f3) |
-| Sat, 13 Sep 2025 06:39:42 GMT | Securing CI/CD Through Offensive Testing | @SecBySheikh | [Read More](https://medium.com/p/d35fdffe8b2e) |
-| Sat, 13 Sep 2025 06:38:38 GMT | OTP BYPASS TECHNIQUE | Mr Horbio | [Read More](https://medium.com/p/508e20a599e8) |
-| Sat, 13 Sep 2025 06:37:29 GMT | Cybersecurity & Secure Coding Practices: Why Your Code Is the First Line of Defense | Ankit Singh | [Read More](https://medium.com/p/5d8f3fb24a5c) |
-| Sat, 13 Sep 2025 06:35:04 GMT | SailPoint & Success Story | Shara | [Read More](https://medium.com/p/13d21aaa52be) |
-| Sat, 13 Sep 2025 06:31:43 GMT | Firewalls in Cybersecurity: The First Line of Defense | Sulabh Prajapati | [Read More](https://medium.com/p/9921ea349845) |
-| Sat, 13 Sep 2025 06:23:15 GMT | Is Your Code Secure by Design? | Pawan Wagh | [Read More](https://medium.com/p/72b10f070a67) |
-| Sat, 13 Sep 2025 06:20:29 GMT | Linux vulnerability management | Linux Details | [Read More](https://medium.com/p/84e148677671) |
-| Sat, 13 Sep 2025 06:14:33 GMT | Linux security scanning | Linux Details | [Read More](https://medium.com/p/2d202ae76549) |
-| Sat, 13 Sep 2025 06:08:43 GMT | The Fine Line Between Curiosity and Crime in Hacking | Shahzaib | [Read More](https://medium.com/p/f082e9b1ee61) |
-| Sat, 13 Sep 2025 06:07:06 GMT | LGDroid Lab - CyberDefenders | Anas404 | [Read More](https://medium.com/p/f5865bf2fa24) |
-| Sat, 13 Sep 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — Sep 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0cb995eca0c9) |
-| Sat, 13 Sep 2025 05:45:24 GMT | “Breaking Down the NIST Cybersecurity Framework (CSF): Core Functions & Tiers” (Part -1 ) | Pragati gupta | [Read More](https://medium.com/p/e9a29743cf7a) |
-| Sat, 13 Sep 2025 05:42:05 GMT | Web Shells 101: Your First Step into Digital Backdoors (and How Not to Get Pwned!) | Evilfeonix | [Read More](https://medium.com/p/fefe57808fcd) |
-| Sat, 13 Sep 2025 05:39:19 GMT | Are Your Mobile Permissions Putting You at Risk? | Abida Adra | [Read More](https://medium.com/p/ab5d15a12f29) |
-| Sat, 13 Sep 2025 05:33:38 GMT | Biometric Security: Next-Gen Authentication and Emerging Risks | Tarush Sharma | [Read More](https://medium.com/p/2a42a57ec897) |
-| Sat, 13 Sep 2025 05:31:56 GMT | The Silent Threat in Your Home Network | Aj | [Read More](https://medium.com/p/c3690adec81d) |
-| Sat, 13 Sep 2025 05:20:33 GMT | Cyber Security Details: Threat Hunting Methodologies | Cyber Security Research | [Read More](https://medium.com/p/46674b9fbfc3) |
-| Sat, 13 Sep 2025 05:16:10 GMT | How to Fix React Native’s Most Annoying Error | Devansh Tiwari | [Read More](https://medium.com/p/b5fe8c8871fa) |
-| Sat, 13 Sep 2025 05:14:36 GMT | Securing the Remote Workforce: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5f17a15f72c8) |
-| Sat, 13 Sep 2025 05:07:23 GMT | Cyber Security Details: DevSecOps Implementation | Cyber Security Research | [Read More](https://medium.com/p/fcf5e93176ba) |
-| Sat, 13 Sep 2025 05:00:41 GMT | The Psychology of Cyber Security: Details | Cyber Security Research | [Read More](https://medium.com/p/c6cce1c17112) |
-| Sat, 13 Sep 2025 04:54:56 GMT | Cyber Security Details: Network Segmentation Strategies | Cyber Security Research | [Read More](https://medium.com/p/36e1ae5a5b95) |
-| Sat, 13 Sep 2025 04:46:16 GMT | Scope, Legality, and Ethics of Ethical Hacking
-‎
-‎*Scope of Ethical Hacking:* ‎- Ethical hacking is… | Ümãïr | [Read More](https://medium.com/p/1c3e63442810) |
-| Sat, 13 Sep 2025 04:41:42 GMT | Discovering Insecure-by-Default Control in Unitree ROS2: A Deep Dive into Attack Chains and… | Ravi Kumar E | [Read More](https://medium.com/p/0cd47ddcef42) |
