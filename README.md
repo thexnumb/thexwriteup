@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 07:37:23 GMT | Defense Built on the Reliability of Code: Software Quality Assurance with AQAP-2210 | Umut Akbulut | [Read More](https://medium.com/p/cbe5db03278b) |
+| Sat, 13 Sep 2025 07:27:16 GMT | PicoCTF Web Exploitation Walkthrough -GET aHEAD | Deepika  B | [Read More](https://medium.com/p/618bd6b383fb) |
+| Sat, 13 Sep 2025 07:21:09 GMT | Top Ransomware Recovery Services for Canadian Organizations in 2025 | Brigient | [Read More](https://medium.com/p/770b614d236c) |
+| Sat, 13 Sep 2025 07:18:09 GMT | Tryhackme - Invite Only walkthrough | Aryan Shrestha | [Read More](https://medium.com/p/20be48cfb6e4) |
 | Sat, 13 Sep 2025 07:02:33 GMT | Top 10 Cyber Security Experts in India 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/4e3bbb29a0cd) |
 | Sat, 13 Sep 2025 07:01:46 GMT | Ship Leak Alerts to Slack, Email or Webhooks in Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/712559e75022) |
 | Sat, 13 Sep 2025 06:56:29 GMT | The Growing Threat of API Security Vulnerabilities | Cybersecurity Umbrella | [Read More](https://medium.com/p/cdd4e6ebd3d2) |
@@ -111,7 +115,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 19:43:38 GMT | Breaking Digital Barriers Through Amnezia WireGuard’s Deep Packet Inspection Obfuscation | Utso Csekuet | [Read More](https://medium.com/p/045a538e2e70) |
 | Fri, 12 Sep 2025 19:42:55 GMT | From Recon to Results: A Beginner’s Guide to Nmap | OxErvin | [Read More](https://medium.com/p/7f0faf37d411) |
 | Fri, 12 Sep 2025 19:37:15 GMT | The $1000 Critical Bug: Unauthorised Access Leading to Support Admin Panel Takeover | V3D | [Read More](https://medium.com/p/572d687566cd) |
-| Fri, 12 Sep 2025 19:36:48 GMT | Here’s how i recover my money from Bulenox | James | [Read More](https://medium.com/p/eaa05a868fa9) |
-| Fri, 12 Sep 2025 19:33:14 GMT | DFIR digital forensics CTF Connectors | amer7x | [Read More](https://medium.com/p/99513f4c09a9) |
-| Fri, 12 Sep 2025 19:25:12 GMT | CyberDefenders — Volatility Traces Lab | jon | [Read More](https://medium.com/p/b9e77d56dc98) |
-| Fri, 12 Sep 2025 19:22:16 GMT | Ransomware Evolution: From Locking Files to Double Extortion | Sukhveer Singh | [Read More](https://medium.com/p/c1e84d4f250f) |
