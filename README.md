@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 15:29:53 GMT | The Largest Supply Chain Attack in Open Source History: NPM Compromise Shakes the Software World | Sajjad Asaad | [Read More](https://medium.com/p/dc0f11c9c5c5) |
+| Sat, 13 Sep 2025 15:23:38 GMT | The Invisible Prison: How Society’s “Man Box” Traps Urban Men | Randhir Jha | [Read More](https://medium.com/p/ba4d2d85c424) |
+| Sat, 13 Sep 2025 15:20:42 GMT | symfonos: 1 - VulnHub - Walkthrough [by Rikin] | Rikin | [Read More](https://medium.com/p/78224e35d04c) |
+| Sat, 13 Sep 2025 15:16:58 GMT | Stop Leaking Your DNS Records: Mastering AXFR Zone Transfers. | M. Thibaut | [Read More](https://medium.com/p/02faf11dc3c8) |
 | Sat, 13 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/7f63fe2aa1b1) |
 | Sat, 13 Sep 2025 15:12:52 GMT | “ NEVER BE TOO SECURE “ | Chike Umeuduji | [Read More](https://medium.com/p/e3bd8f7a4401) |
 | Sat, 13 Sep 2025 15:09:18 GMT | Kali Linux: The Ultimate Tool for Ethical Hacking and Cybersecurity | cybertec8 | [Read More](https://medium.com/p/31aba772dd40) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 10:15:41 GMT | Is It Just Me or Am I Just Crazy? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/0a914e60b3a1) |
 | Sat, 13 Sep 2025 10:10:29 GMT | Do Security Guards Carry Guns in Washington? Laws, Training, and Services Explained | Liam Truth | [Read More](https://medium.com/p/8b7eb0ce49fc) |
 | Sat, 13 Sep 2025 10:06:17 GMT | 24/7 Ransomware Consulting & Recovery Services in Canada (2025 Edition) | One arrow consulting inc | [Read More](https://medium.com/p/e02581e9afb7) |
-| Sat, 13 Sep 2025 10:01:54 GMT | Top Cybersecurity Investments Canadian Companies Are Making in 2025 | One arrow consulting inc | [Read More](https://medium.com/p/bb5988f52ae4) |
-| Sat, 13 Sep 2025 10:01:43 GMT | Your Brain on Breaking News | Jud Brewer MD PhD | [Read More](https://medium.com/p/fddf0ec65602) |
-| Sat, 13 Sep 2025 09:50:01 GMT | MultiVerse — Forensics - BlackHat MEA Quals 2025 | Hamza Haroon | [Read More](https://medium.com/p/d6b2632195a9) |
-| Sat, 13 Sep 2025 09:49:59 GMT | 5 Fun and Creative RAG Projects Every Beginner Should Try | Prashik Hingaspure | [Read More](https://medium.com/p/7851873d9a43) |
