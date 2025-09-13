@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 18:12:29 GMT | How AI Is Reshaping the Future of Search: From Keywords to Personal Experience | MARYAM NOUWARY | [Read More](https://medium.com/p/7891fc27f30a) |
+| Sat, 13 Sep 2025 18:01:45 GMT | Bug Bounty: Lo que se automatiza sin entender, no se encuentra de verdad | Gorka | [Read More](https://medium.com/p/a713ea45f1c7) |
+| Sat, 13 Sep 2025 17:58:15 GMT | kioptrix L1 the simplest walk-through | Azaleas | [Read More](https://medium.com/p/b9d67a68e484) |
+| Sat, 13 Sep 2025 17:51:44 GMT | What CISOs Can Learn from Europe’s DORA Regulation | Dr. Deep Pandey | [Read More](https://medium.com/p/b33fed11b076) |
+| Sat, 13 Sep 2025 17:44:24 GMT | The CA and ca_svc — explained in simple terms For Active Directory | Raja | [Read More](https://medium.com/p/1019dc8c7053) |
+| Sat, 13 Sep 2025 17:39:52 GMT | Installing CSI Linux on an External Drive: My Setup Journey (and Lessons Learned) | Michael Lasley | [Read More](https://medium.com/p/2a51c38f18a9) |
+| Sat, 13 Sep 2025 17:33:05 GMT | Tortuga [The Hackers Labs] — Easy | ManuM0re | [Read More](https://medium.com/p/9d7cb6890c97) |
 | Sat, 13 Sep 2025 17:31:42 GMT | Who Wrote This? The Ethics of AI Code | Nexumo | [Read More](https://medium.com/p/4b6b9b76f39f) |
 | Sat, 13 Sep 2025 17:31:42 GMT | The Doomsday Clock is at 89 Seconds to Midnight, and AI is responsible for it? | Nowshin Jahan Jhelek | [Read More](https://medium.com/p/ca7a03748d6a) |
 | Sat, 13 Sep 2025 17:27:09 GMT | Ice - TryHackMe writeup | Cillia | [Read More](https://medium.com/p/794d0521cc28) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 12:13:39 GMT | Exposed API Endpoints: The Silent Killer for Startups. A Founder’s Security Checklist | Zubair Usman | [Read More](https://medium.com/p/a9e41239572f) |
 | Sat, 13 Sep 2025 12:12:56 GMT | Hunting API Keys in JavaScript Files: A Bug Hunter’s Guide | Medusa | [Read More](https://medium.com/p/01940b7dd6ef) |
 | Sat, 13 Sep 2025 12:08:48 GMT | The Library Of Promises | O. J. Okpabi | [Read More](https://medium.com/p/b25c1aeb7937) |
-| Sat, 13 Sep 2025 12:08:37 GMT | LD_PRELOAD Privilege Escalation (Linux Priv Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/c8abdf1a9bec) |
-| Sat, 13 Sep 2025 12:06:25 GMT | From Discovery to Defense: Finishing a Penetration Testing Project on Metasploitable2 | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/5a4cc2377dc7) |
-| Sat, 13 Sep 2025 12:05:24 GMT | How to Set Up SSL on Nginx Ubuntu 22.04 | Smit Pipaliya | [Read More](https://medium.com/p/1eb5dd0ea2f1) |
-| Sat, 13 Sep 2025 12:05:18 GMT | Reverse Engineering solution to MajorOzzy’s Beginner Crackme (.NET) | Nathan C | [Read More](https://medium.com/p/45a775dce170) |
-| Sat, 13 Sep 2025 12:04:45 GMT | Day 89: Post-exploitation file transfer | Nile Okomo | [Read More](https://medium.com/p/6fe9ded3f752) |
-| Sat, 13 Sep 2025 12:02:23 GMT | The Rise of Generative AI in Software Development & Why IT Jobs Are Changing Forever | PRATHMESH BADHE | [Read More](https://medium.com/p/242d3f41633b) |
-| Sat, 13 Sep 2025 11:52:55 GMT | The Insides of a SIEM | Chris Jordan | [Read More](https://medium.com/p/0b96d15bea43) |
