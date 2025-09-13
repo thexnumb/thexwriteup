@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 08:32:47 GMT | Palo Alto Networks PA-450R Firewalls: Rugged Enterprise-Grade Security | Juara IT Solutions | [Read More](https://medium.com/p/de4257c2f863) |
+| Sat, 13 Sep 2025 08:30:07 GMT | Architecting Intelligence: Building End-to-End Machine Learning Solutions on Azure | Bibhu Ashish Panda | [Read More](https://medium.com/p/a805dce67b90) |
+| Sat, 13 Sep 2025 08:27:59 GMT | Bun vs Node.js: The Runtime Battle of 2025 | Rizqi Mulki | [Read More](https://medium.com/p/78522a3f6d8d) |
+| Sat, 13 Sep 2025 08:20:02 GMT | The Kids Who Hacked the CIA | Maaz Shaikh | [Read More](https://medium.com/p/0b29355265d0) |
+| Sat, 13 Sep 2025 08:18:54 GMT | “Invite-Only” room TryHackMe Writeup | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/d70cae161940) |
 | Sat, 13 Sep 2025 08:14:54 GMT | The Shocking Truth About PostgreSQL Locks (PostgreSQL documentation won’t tell you) | Rizqi Mulki | [Read More](https://medium.com/p/340c220734f1) |
 | Sat, 13 Sep 2025 08:07:53 GMT | How IT Lifecycle Management Can Strengthen Cybersecurity in Your Business | Yuvi Aggarwal | [Read More](https://medium.com/p/ffc5e8054e48) |
 | Sat, 13 Sep 2025 08:04:00 GMT | PostgreSQL vs Vector Databases: Who Wins the Speed War in 2025? | Rizqi Mulki | [Read More](https://medium.com/p/e812559acd95) |
@@ -109,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 21:25:27 GMT | The Delivery Leaders Economic Edge: Reading the Job Market to Run Better Projects, Programs and… | Santhush | [Read More](https://medium.com/p/03103c4e2d5e) |
 | Fri, 12 Sep 2025 21:24:27 GMT | Decryptify writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a48e1547dcff) |
 | Fri, 12 Sep 2025 21:21:47 GMT | The Role of AI and Automation in Smart Home Security Systems | CSI Security | [Read More](https://medium.com/p/75b8dbed51d2) |
-| Fri, 12 Sep 2025 20:59:40 GMT | From Crack to Crown: Mapping the Red Team Kill Chain in Active Directory | Jonathan Brown | [Read More](https://medium.com/p/f847bea763b9) |
-| Fri, 12 Sep 2025 20:57:19 GMT | Data Sovereignty vs. Storage Autonomy: 
-The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5a636e4d5b) |
-| Fri, 12 Sep 2025 20:45:02 GMT | BSides Belfast 2025 — My experience. | JD | [Read More](https://medium.com/p/f97d5659e166) |
-| Fri, 12 Sep 2025 20:43:59 GMT | Humans as a Cybersecurity Strength | Matthew.Rosenquist | [Read More](https://medium.com/p/02dee964cf02) |
-| Fri, 12 Sep 2025 20:38:21 GMT | The Double-Edged Sword: When AI Becomes a Tool for Fraud | Mohd Yaseen Khan | [Read More](https://medium.com/p/57a1891075e4) |
