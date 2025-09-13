@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 06:23:15 GMT | Is Your Code Secure by Design? | Pawan Wagh | [Read More](https://medium.com/p/72b10f070a67) |
+| Sat, 13 Sep 2025 06:14:33 GMT | Linux security scanning | Linux Details | [Read More](https://medium.com/p/2d202ae76549) |
+| Sat, 13 Sep 2025 06:08:43 GMT | The Fine Line Between Curiosity and Crime in Hacking | Shahzaib | [Read More](https://medium.com/p/f082e9b1ee61) |
+| Sat, 13 Sep 2025 06:07:06 GMT | LGDroid Lab - CyberDefenders | Anas404 | [Read More](https://medium.com/p/f5865bf2fa24) |
+| Sat, 13 Sep 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — Sep 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0cb995eca0c9) |
+| Sat, 13 Sep 2025 05:45:24 GMT | “Breaking Down the NIST Cybersecurity Framework (CSF): Core Functions & Tiers” (Part -1 ) | Pragati gupta | [Read More](https://medium.com/p/e9a29743cf7a) |
+| Sat, 13 Sep 2025 05:42:05 GMT | Web Shells 101: Your First Step into Digital Backdoors (and How Not to Get Pwned!) | Evilfeonix | [Read More](https://medium.com/p/fefe57808fcd) |
+| Sat, 13 Sep 2025 05:39:19 GMT | Are Your Mobile Permissions Putting You at Risk? | Abida Adra | [Read More](https://medium.com/p/ab5d15a12f29) |
 | Sat, 13 Sep 2025 05:33:38 GMT | Biometric Security: Next-Gen Authentication and Emerging Risks | Tarush Sharma | [Read More](https://medium.com/p/2a42a57ec897) |
+| Sat, 13 Sep 2025 05:31:56 GMT | The Silent Threat in Your Home Network | Aj | [Read More](https://medium.com/p/c3690adec81d) |
 | Sat, 13 Sep 2025 05:20:33 GMT | Cyber Security Details: Threat Hunting Methodologies | Cyber Security Research | [Read More](https://medium.com/p/46674b9fbfc3) |
 | Sat, 13 Sep 2025 05:16:10 GMT | How to Fix React Native’s Most Annoying Error | Devansh Tiwari | [Read More](https://medium.com/p/b5fe8c8871fa) |
 | Sat, 13 Sep 2025 05:14:36 GMT | Securing the Remote Workforce: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5f17a15f72c8) |
@@ -106,12 +115,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 18:51:00 GMT | Implementando um Firewall simples no VirtualBox | Mardson Diego | [Read More](https://medium.com/p/5614e1caac7f) |
 | Fri, 12 Sep 2025 18:42:51 GMT | AI in Security vs Security in AI | Beril Dindar | [Read More](https://medium.com/p/47e0ac19b133) |
 | Fri, 12 Sep 2025 18:41:46 GMT | When Zero Trust Meets a Hacker: 3 Hours to Failure | echosso | [Read More](https://medium.com/p/a5706880930c) |
-| Fri, 12 Sep 2025 18:40:26 GMT | CONNECTORS CTF Cheater Challenge writeup | Abdallah Safan | [Read More](https://medium.com/p/01b41121598e) |
-| Fri, 12 Sep 2025 18:37:50 GMT | Ethical Hacker Training Online — Learn Cybersecurity Anytime, Anywhere | Nitin Singh | [Read More](https://medium.com/p/65540e9d731b) |
-| Fri, 12 Sep 2025 18:33:28 GMT | NPM Supply-Chain Attack Campaign — Anthrax the treasure? | Φiriki Intelligence | [Read More](https://medium.com/p/abe9212d6594) |
-| Fri, 12 Sep 2025 18:33:21 GMT | EchoLeak: How a Zero-Click Flaw in MS 365 Copilot Redefined Enterprise AI Risk | Valdez Ladd | [Read More](https://medium.com/p/f979cc1b1e52) |
-| Fri, 12 Sep 2025 18:27:42 GMT | Why Your Boss Will Fall for a Phishing Email Before You Do | Cyberkech | [Read More](https://medium.com/p/d807c9dc2d97) |
-| Fri, 12 Sep 2025 18:27:31 GMT | Dirtypipe — which gives you a special “geass” power | Hritom Bhattacharya | [Read More](https://medium.com/p/50e06be0875b) |
-| Fri, 12 Sep 2025 18:21:59 GMT | Kioptrix Level 3 Walkthrough — From SQL Injection to Root | Ahmed Shawky | [Read More](https://medium.com/p/782d4f9685b5) |
-| Fri, 12 Sep 2025 18:21:39 GMT | Compliance Management System: Building Trust and Reducing Risk | SafeAeon Inc. | [Read More](https://medium.com/p/5c4521c0268e) |
-| Fri, 12 Sep 2025 18:17:41 GMT | Microsoft’s Cable Crisis Highlights Turkey’s Next Strategic Frontier | Amir Imam | [Read More](https://medium.com/p/2cda87aa6109) |
