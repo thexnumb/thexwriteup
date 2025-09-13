@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 10:37:49 GMT | Smol - TryHackMe | Gerald | [Read More](https://medium.com/p/f29a75cb5bd0) |
+| Sat, 13 Sep 2025 10:31:42 GMT | When URLs Betray You: The Security Risk of IDOR | Natarajan C K | [Read More](https://medium.com/p/b329ac843335) |
+| Sat, 13 Sep 2025 10:31:41 GMT | I Wasn’t Trying to Hack Them, But I Did: A Beginner’s Story of Finding Major Security Flaws | 0x62616B61 | [Read More](https://medium.com/p/9a3710dcb441) |
+| Sat, 13 Sep 2025 10:31:39 GMT | The Blockchain Security Imperative: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8328ed5018ab) |
+| Sat, 13 Sep 2025 10:26:50 GMT | Lessons Learned from Coordinating Security Across Care Teams | Abdullateef Hameed | [Read More](https://medium.com/p/826a6d9008e6) |
+| Sat, 13 Sep 2025 10:25:19 GMT | India AI Mission: IT Infrastructure and Its Impact on Digital Transformation | Nishaverma | [Read More](https://medium.com/p/a476890317c5) |
+| Sat, 13 Sep 2025 10:15:41 GMT | Is It Just Me or Am I Just Crazy? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/0a914e60b3a1) |
 | Sat, 13 Sep 2025 10:10:29 GMT | Do Security Guards Carry Guns in Washington? Laws, Training, and Services Explained | Liam Truth | [Read More](https://medium.com/p/8b7eb0ce49fc) |
 | Sat, 13 Sep 2025 10:06:17 GMT | 24/7 Ransomware Consulting & Recovery Services in Canada (2025 Edition) | One arrow consulting inc | [Read More](https://medium.com/p/e02581e9afb7) |
 | Sat, 13 Sep 2025 10:01:54 GMT | Top Cybersecurity Investments Canadian Companies Are Making in 2025 | One arrow consulting inc | [Read More](https://medium.com/p/bb5988f52ae4) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 03:01:43 GMT | Understanding CORS | Auriga Aristo | [Read More](https://medium.com/p/fd0c54984a67) |
 | Sat, 13 Sep 2025 03:01:43 GMT | How to Reset a Keypad Door Lock: Simple Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/0b00aaafa113) |
 | Sat, 13 Sep 2025 02:48:22 GMT | How to Make mspaint Say “Meow”: A Playful Guide to DLL Injection | Itz.sanskarr | [Read More](https://medium.com/p/edf748eb9558) |
-| Sat, 13 Sep 2025 02:35:13 GMT | From Compliance to Capability: Making RMF Agile | Prashanth Chandika | [Read More](https://medium.com/p/6925dd733311) |
-| Sat, 13 Sep 2025 02:26:08 GMT | 10 Essential Construction Site Security Tips | Ivis Constructionsurveillance | [Read More](https://medium.com/p/434a939d21a5) |
-| Sat, 13 Sep 2025 02:13:45 GMT | Race Condition in OTP Request — Unlimited SMS Bombing | Cybermotive | [Read More](https://medium.com/p/685b554d9bd3) |
-| Sat, 13 Sep 2025 02:13:00 GMT | Do Women Like When Somebody Stares at Their Cleavage | 1000% Human Written✍️ | [Read More](https://medium.com/p/54def53bfb54) |
-| Sat, 13 Sep 2025 02:11:42 GMT | SIEM from Scratch: How to Set Up Splunk, Manage Log Ingestion, and Build Scalable Storage Policies | Paritosh | [Read More](https://medium.com/p/43cedb9ec48e) |
-| Sat, 13 Sep 2025 02:07:32 GMT | Write-up PicoCTF (Capture The Flag) — Don't you love banners | Sérgio Corrêa | [Read More](https://medium.com/p/5c9b04227101) |
-| Sat, 13 Sep 2025 02:07:32 GMT | Snowflake External OAuth: Authorization Code flow (+PKCE) | Mike Mitrowski | [Read More](https://medium.com/p/de30533d0072) |
