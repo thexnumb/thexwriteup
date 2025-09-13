@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 03:01:43 GMT | Understanding CORS | Auriga Aristo | [Read More](https://medium.com/p/fd0c54984a67) |
+| Sat, 13 Sep 2025 03:01:43 GMT | How to Reset a Keypad Door Lock: Simple Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/0b00aaafa113) |
+| Sat, 13 Sep 2025 02:48:22 GMT | How to Make mspaint Say “Meow”: A Playful Guide to DLL Injection | Itz.sanskarr | [Read More](https://medium.com/p/edf748eb9558) |
+| Sat, 13 Sep 2025 02:35:13 GMT | From Compliance to Capability: Making RMF Agile | Prashanth Chandika | [Read More](https://medium.com/p/6925dd733311) |
 | Sat, 13 Sep 2025 02:26:08 GMT | 10 Essential Construction Site Security Tips | Ivis Constructionsurveillance | [Read More](https://medium.com/p/434a939d21a5) |
 | Sat, 13 Sep 2025 02:13:45 GMT | Race Condition in OTP Request — Unlimited SMS Bombing | Cybermotive | [Read More](https://medium.com/p/685b554d9bd3) |
 | Sat, 13 Sep 2025 02:13:00 GMT | Do Women Like When Somebody Stares at Their Cleavage | 1000% Human Written✍️ | [Read More](https://medium.com/p/54def53bfb54) |
@@ -109,7 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 17:35:29 GMT | hacking code | Omegartyson | [Read More](https://medium.com/p/591fed35c084) |
 | Fri, 12 Sep 2025 17:33:42 GMT | I found two security issues on my college blog website | Alanbiju | [Read More](https://medium.com/p/ad372666f30d) |
 | Fri, 12 Sep 2025 17:31:28 GMT | Your Project Deserves a Safe Home; Harden Your Linux Server First | Yannik Zeyer | [Read More](https://medium.com/p/9954fe4174a3) |
-| Fri, 12 Sep 2025 17:26:55 GMT | SWIFT Incident Response 2026 Mandate For Bank Cybersecurity | M. Ben | [Read More](https://medium.com/p/abcb621541c9) |
-| Fri, 12 Sep 2025 17:12:39 GMT | Tia’s Affection 4 Internet Protection | Tia B | [Read More](https://medium.com/p/3b5815b88475) |
-| Fri, 12 Sep 2025 17:08:18 GMT | Working with insecure domains on dev machines (localhost) | Rohit Shirke | [Read More](https://medium.com/p/c1f32256a6ea) |
-| Fri, 12 Sep 2025 17:06:19 GMT | Confused About Cybersecurity Certs? Here Are the 12 That Actually Count | Faraz Weerabangsa | [Read More](https://medium.com/p/c36fd282d81b) |
