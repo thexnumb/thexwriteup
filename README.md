@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 05:07:23 GMT | Cyber Security Details: DevSecOps Implementation | Cyber Security Research | [Read More](https://medium.com/p/fcf5e93176ba) |
+| Sat, 13 Sep 2025 05:00:41 GMT | The Psychology of Cyber Security: Details | Cyber Security Research | [Read More](https://medium.com/p/c6cce1c17112) |
+| Sat, 13 Sep 2025 04:54:56 GMT | Cyber Security Details: Network Segmentation Strategies | Cyber Security Research | [Read More](https://medium.com/p/36e1ae5a5b95) |
+| Sat, 13 Sep 2025 04:46:16 GMT | Scope, Legality, and Ethics of Ethical Hacking
+‎
+‎*Scope of Ethical Hacking:* ‎- Ethical hacking is… | Ümãïr | [Read More](https://medium.com/p/1c3e63442810) |
+| Sat, 13 Sep 2025 04:41:42 GMT | Discovering Insecure-by-Default Control in Unitree ROS2: A Deep Dive into Attack Chains and… | Ravi Kumar E | [Read More](https://medium.com/p/0cd47ddcef42) |
+| Sat, 13 Sep 2025 04:36:13 GMT | Enterprise Data Protection & Privacy Framework: A Practical Guide for Boards, DPOs, CISOs, and… | Arvind Mehrotra | [Read More](https://medium.com/p/e6667c9fc451) |
 | Sat, 13 Sep 2025 04:35:46 GMT | Why Agentic AI Needs a New Security Model in 2025 and Beyond | Taimur Ijlal | [Read More](https://medium.com/p/5e42211e2fbe) |
 | Sat, 13 Sep 2025 04:32:06 GMT | The Inevitability of Charlie Kirk’s Death and What It Reveals About America | Nicholas Riding | [Read More](https://medium.com/p/52e405a0af2e) |
 | Sat, 13 Sep 2025 04:31:46 GMT | 7 AI Hacks That Saved Me 40 Hours This Week | Asma | [Read More](https://medium.com/p/ce36ee1fcc7d) |
@@ -107,9 +115,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 18:10:08 GMT | The FAFSA Hustle: How Kenyan Youth Got Entangled in a Billion-Dollar U.S. Student Aid Fraud | ngugi | [Read More](https://medium.com/p/fa3d0b73f7df) |
 | Fri, 12 Sep 2025 18:05:35 GMT | What is CIA Triad? | Dhruv | [Read More](https://medium.com/p/850ac55315c1) |
 | Fri, 12 Sep 2025 18:02:57 GMT | Kioptrix — Level 3 | Midoabdellah | [Read More](https://medium.com/p/10d11c051e17) |
-| Fri, 12 Sep 2025 18:02:18 GMT | Search Results that Steal your Paycheck | Ashley Dai | [Read More](https://medium.com/p/ea26bfd2aa24) |
-| Fri, 12 Sep 2025 18:01:42 GMT | RCE realista basado en un caso real pagado con $30,000 | Gorka | [Read More](https://medium.com/p/a9a5412ee14d) |
-| Fri, 12 Sep 2025 17:58:44 GMT | How to Set Up a Homelab to Practice Penetration Testing at Home | SafeAeon Inc. | [Read More](https://medium.com/p/50e231ea11f4) |
-| Fri, 12 Sep 2025 17:57:42 GMT | Portswigger Web Cache Poisoning Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/99981f73622c) |
-| Fri, 12 Sep 2025 17:55:43 GMT | Bulenox reviews 2025: red flags to look out | Jack Benson | [Read More](https://medium.com/p/9e8514f20908) |
-| Fri, 12 Sep 2025 17:52:18 GMT | VPNs for Environmental Causes: How Privacy Tech Supports Digital Activism | Novix VPN | [Read More](https://medium.com/p/b4f0fb5c6ef0) |
