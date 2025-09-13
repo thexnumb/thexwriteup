@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 16:13:52 GMT | TryHackMe Writeup: Mr Robot CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/a7b8223d12fb) |
+| Sat, 13 Sep 2025 16:10:20 GMT | Samsung Patches Zero-Day Actively Exploited in WhatsApp-Reported Attack | Suhas Valasala | [Read More](https://medium.com/p/6bceff88f9cf) |
+| Sat, 13 Sep 2025 16:06:45 GMT | From “Is This You?” to “Access Granted”: A Practical HMAC Deep-Dive for .NET APIs | Brian Mora | [Read More](https://medium.com/p/ce19e4dce182) |
+| Sat, 13 Sep 2025 15:57:37 GMT | The StrawHat Hackers Architecture | Lumir | [Read More](https://medium.com/p/d2b5ae78ea48) |
+| Sat, 13 Sep 2025 15:55:57 GMT | 7 Essential Cyber Security Tips for Everyone | Tech Master | [Read More](https://medium.com/p/ac9e71a87f31) |
+| Sat, 13 Sep 2025 15:49:51 GMT | CRTP vs CRTE: Mastering Active Directory | MalwareBro | [Read More](https://medium.com/p/b45e5490277f) |
+| Sat, 13 Sep 2025 15:47:32 GMT | FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks | Suhas Valasala | [Read More](https://medium.com/p/5950681281d1) |
+| Sat, 13 Sep 2025 15:43:24 GMT | Supporting Cloud and Hybrid Infrastructure at Scale | Ron | [Read More](https://medium.com/p/b70c9738fdd6) |
+| Sat, 13 Sep 2025 15:38:11 GMT | 10 airport luggage mistakes to avoid flying with | qroco.app | [Read More](https://medium.com/p/5fed6146fe76) |
+| Sat, 13 Sep 2025 15:37:05 GMT | Legacy Systems and CVEs: The Unseen Threat to Ghana’s Digital Landscape | Glenn Rodney | [Read More](https://medium.com/p/5deaab4b2383) |
+| Sat, 13 Sep 2025 15:33:11 GMT | Understanding JWT: A Beginner-Friendly Guide with Python | Maaz Bin Mustaqeem | [Read More](https://medium.com/p/71b29953f3ab) |
 | Sat, 13 Sep 2025 15:29:53 GMT | The Largest Supply Chain Attack in Open Source History: NPM Compromise Shakes the Software World | Sajjad Asaad | [Read More](https://medium.com/p/dc0f11c9c5c5) |
 | Sat, 13 Sep 2025 15:23:38 GMT | The Invisible Prison: How Society’s “Man Box” Traps Urban Men | Randhir Jha | [Read More](https://medium.com/p/ba4d2d85c424) |
 | Sat, 13 Sep 2025 15:20:42 GMT | symfonos: 1 - VulnHub - Walkthrough [by Rikin] | Rikin | [Read More](https://medium.com/p/78224e35d04c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 10:46:18 GMT | AI Powered Tools: HexStrike AI | Archa Anil | [Read More](https://medium.com/p/4305a0d46e56) |
 | Sat, 13 Sep 2025 10:43:26 GMT | Understanding Exploit Kits: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/c3718a71f160) |
 | Sat, 13 Sep 2025 10:41:43 GMT | NFC Attacks and Security Risks | Esra Kayhan | [Read More](https://medium.com/p/d80d9a2b97ae) |
-| Sat, 13 Sep 2025 10:41:05 GMT | DIY AI Face Tracker for the Streets: Build Your Own Watcher | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/751dd445c0f3) |
-| Sat, 13 Sep 2025 10:37:49 GMT | Smol - TryHackMe | Gerald | [Read More](https://medium.com/p/f29a75cb5bd0) |
-| Sat, 13 Sep 2025 10:37:33 GMT | Cyber Security Details: Data Loss Prevention (DLP) Strategies | Cyber Security Research | [Read More](https://medium.com/p/6927816606fc) |
-| Sat, 13 Sep 2025 10:31:42 GMT | When URLs Betray You: The Security Risk of IDOR | Natarajan C K | [Read More](https://medium.com/p/b329ac843335) |
-| Sat, 13 Sep 2025 10:31:41 GMT | I Wasn’t Trying to Hack Them, But I Did: A Beginner’s Story of Finding Major Security Flaws | 0x62616B61 | [Read More](https://medium.com/p/9a3710dcb441) |
-| Sat, 13 Sep 2025 10:31:39 GMT | The Blockchain Security Imperative: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8328ed5018ab) |
-| Sat, 13 Sep 2025 10:26:50 GMT | Lessons Learned from Coordinating Security Across Care Teams | Abdullateef Hameed | [Read More](https://medium.com/p/826a6d9008e6) |
-| Sat, 13 Sep 2025 10:25:19 GMT | India AI Mission: IT Infrastructure and Its Impact on Digital Transformation | Nishaverma | [Read More](https://medium.com/p/a476890317c5) |
-| Sat, 13 Sep 2025 10:15:41 GMT | Is It Just Me or Am I Just Crazy? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/0a914e60b3a1) |
-| Sat, 13 Sep 2025 10:10:29 GMT | Do Security Guards Carry Guns in Washington? Laws, Training, and Services Explained | Liam Truth | [Read More](https://medium.com/p/8b7eb0ce49fc) |
-| Sat, 13 Sep 2025 10:06:17 GMT | 24/7 Ransomware Consulting & Recovery Services in Canada (2025 Edition) | One arrow consulting inc | [Read More](https://medium.com/p/e02581e9afb7) |
