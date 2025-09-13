@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 01:08:45 GMT | Second Path, First step: Pre Security Recap | FloGood | [Read More](https://medium.com/p/c5ac27e4c9a8) |
+| Sat, 13 Sep 2025 00:50:50 GMT | The Upside-Down Mouse A Lesson in Troubleshooting 101 | SoloIT | [Read More](https://medium.com/p/623614746dc1) |
+| Sat, 13 Sep 2025 00:49:46 GMT | Why Your Security Team and Employees Are Living in Different Worlds (And It’s Not What You Think) | Giuseppe Canale | [Read More](https://medium.com/p/c1e5ba7038f7) |
+| Sat, 13 Sep 2025 00:26:44 GMT | “Security teams spend more time sorting vulnerabilities than fixing them.” | Pratip Dasgupta | [Read More](https://medium.com/p/f42c62a8cec0) |
+| Sat, 13 Sep 2025 00:01:44 GMT | Wfuzz: Fuzzing Web for Pentesting and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/06eb43124603) |
+| Sat, 13 Sep 2025 00:00:08 GMT | CSCE 439 Topic 1 | Raj Nallanthighal | [Read More](https://medium.com/p/ee556e183a75) |
+| Fri, 12 Sep 2025 23:50:46 GMT | Scam Call Centers: A Hidden Global Threat | livemari | [Read More](https://medium.com/p/7757e1b652fc) |
+| Fri, 12 Sep 2025 23:41:58 GMT | The Dark Web Exposed: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5ac09094f09f) |
+| Fri, 12 Sep 2025 23:35:06 GMT | Cyber Security Details: Compliance and Governance | Cyber Security Research | [Read More](https://medium.com/p/b5a6b32c73d6) |
 | Fri, 12 Sep 2025 23:29:25 GMT | My EWPTX Exam Experience: A Practical Guide for Future Test Takers | Omnia Mohamed | [Read More](https://medium.com/p/4c5cef752d25) |
 | Fri, 12 Sep 2025 23:29:11 GMT | Staying Ahead of the Curve: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5c86195b81fa) |
 | Fri, 12 Sep 2025 23:22:06 GMT | Snipe-IT CSV Import: How I Survived My First Big Upload | Aeden | [Read More](https://medium.com/p/4880bb327149) |
@@ -104,12 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 16:58:04 GMT | Cybersecurity in Orbit: How Space is becomithe Next Cyber Battlefield | Adam DArcy | [Read More](https://medium.com/p/77a315814d46) |
 | Fri, 12 Sep 2025 16:51:27 GMT | Rethinking Humans in Cybernetics | Taulan Zauzanov | [Read More](https://medium.com/p/fc22bb4470fc) |
 | Fri, 12 Sep 2025 16:50:54 GMT | The Ebola Freezer in Reedley | Crystal Clear | [Read More](https://medium.com/p/5879432d6679) |
-| Fri, 12 Sep 2025 16:40:17 GMT | The un-hackable database | Jules May | [Read More](https://medium.com/p/ad2140dc550b) |
-| Fri, 12 Sep 2025 16:34:36 GMT | THE BEST RECOVERY AGENT | Bob Gartland | [Read More](https://medium.com/p/02ece433a7de) |
-| Fri, 12 Sep 2025 16:33:32 GMT | Bug Bazaar Vulnerablities — Writeups | spidey | [Read More](https://medium.com/p/054ce1313f44) |
-| Fri, 12 Sep 2025 16:32:17 GMT | XSS (Cross-Site Scripting) | Zulfianarahmi | [Read More](https://medium.com/p/301c04086885) |
-| Fri, 12 Sep 2025 16:31:51 GMT | Portswigger DOM-based vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/e7cbf1cec680) |
-| Fri, 12 Sep 2025 16:31:36 GMT | Why I Was Wrong About Omniston: From Suspicion to Security | Zayad Of web3 | [Read More](https://medium.com/p/e71ad71ae9c0) |
-| Fri, 12 Sep 2025 16:28:00 GMT | The Cybercrime Domino Effect: How One Breach Can Cripple The Entire Organization | Gunjan | [Read More](https://medium.com/p/bfafd7aa8b3a) |
-| Fri, 12 Sep 2025 16:26:18 GMT | TryHackMe - Detecting Web Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/fa1cce2e2d60) |
-| Fri, 12 Sep 2025 16:17:59 GMT | Stepping into Ethical Hacking — Day 3: Installing Attacker Machine | Nitin Kudal | [Read More](https://medium.com/p/5af81d3982ad) |
