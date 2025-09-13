@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 02:26:08 GMT | 10 Essential Construction Site Security Tips | Ivis Constructionsurveillance | [Read More](https://medium.com/p/434a939d21a5) |
+| Sat, 13 Sep 2025 02:13:45 GMT | Race Condition in OTP Request — Unlimited SMS Bombing | Cybermotive | [Read More](https://medium.com/p/685b554d9bd3) |
+| Sat, 13 Sep 2025 02:13:00 GMT | Do Women Like When Somebody Stares at Their Cleavage | 1000% Human Written✍️ | [Read More](https://medium.com/p/54def53bfb54) |
+| Sat, 13 Sep 2025 02:11:42 GMT | SIEM from Scratch: How to Set Up Splunk, Manage Log Ingestion, and Build Scalable Storage Policies | Paritosh | [Read More](https://medium.com/p/43cedb9ec48e) |
+| Sat, 13 Sep 2025 02:07:32 GMT | Write-up PicoCTF (Capture The Flag) — Don't you love banners | Sérgio Corrêa | [Read More](https://medium.com/p/5c9b04227101) |
+| Sat, 13 Sep 2025 02:07:32 GMT | Snowflake External OAuth: Authorization Code flow (+PKCE) | Mike Mitrowski | [Read More](https://medium.com/p/de30533d0072) |
+| Sat, 13 Sep 2025 02:02:53 GMT | CyberDefenders — ELPACO-team Lab | jon | [Read More](https://medium.com/p/203458bfbad5) |
+| Sat, 13 Sep 2025 01:29:46 GMT | How to Integrate VOXCompanies® Tech Into Your Workflow | VOXCompanies | [Read More](https://medium.com/p/427fc7ed4a55) |
+| Sat, 13 Sep 2025 01:29:41 GMT | Challenges VOXCompanies® Faces in Global Tech Expansion | VOXCompanies | [Read More](https://medium.com/p/eef4fa318d2e) |
 | Sat, 13 Sep 2025 01:08:45 GMT | Second Path, First step: Pre Security Recap | FloGood | [Read More](https://medium.com/p/c5ac27e4c9a8) |
 | Sat, 13 Sep 2025 00:50:50 GMT | The Upside-Down Mouse A Lesson in Troubleshooting 101 | SoloIT | [Read More](https://medium.com/p/623614746dc1) |
 | Sat, 13 Sep 2025 00:49:46 GMT | Why Your Security Team and Employees Are Living in Different Worlds (And It’s Not What You Think) | Giuseppe Canale | [Read More](https://medium.com/p/c1e5ba7038f7) |
@@ -104,12 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 17:12:39 GMT | Tia’s Affection 4 Internet Protection | Tia B | [Read More](https://medium.com/p/3b5815b88475) |
 | Fri, 12 Sep 2025 17:08:18 GMT | Working with insecure domains on dev machines (localhost) | Rohit Shirke | [Read More](https://medium.com/p/c1f32256a6ea) |
 | Fri, 12 Sep 2025 17:06:19 GMT | Confused About Cybersecurity Certs? Here Are the 12 That Actually Count | Faraz Weerabangsa | [Read More](https://medium.com/p/c36fd282d81b) |
-| Fri, 12 Sep 2025 17:05:44 GMT | Baptism Of Fire — The Story of Every On-Call Engineer | Hamed Silatani | [Read More](https://medium.com/p/bd3555e8e821) |
-| Fri, 12 Sep 2025 17:05:01 GMT | The $370 Million Bug: How the Ariane 5 Rocket Exploded Just 37 Seconds After Launch | Abdullah Saifullah | [Read More](https://medium.com/p/cbafd55acaf9) |
-| Fri, 12 Sep 2025 17:04:11 GMT | Stop Trusting Model Names: Fix the AI Supply Chain Today (AI Security Tips 2025) | Tochukwu Okonkwor | [Read More](https://medium.com/p/0b01ee3941e2) |
-| Fri, 12 Sep 2025 17:01:45 GMT | The USB-C of AI: Model Context Protocol (MCP) Tutorial + Security Playbook (Python) | Tarun Singh | [Read More](https://medium.com/p/d14a9132b828) |
-| Fri, 12 Sep 2025 16:59:08 GMT | Presto-Chango, Where’d My Crypto Go? Making Sure That Which Could Have Been Won’t Be | Conceal, Inc. | [Read More](https://medium.com/p/9cbf793a0d13) |
-| Fri, 12 Sep 2025 16:58:32 GMT | Kioptrix — Level 2 | Midoabdellah | [Read More](https://medium.com/p/76cab9e0aa1e) |
-| Fri, 12 Sep 2025 16:58:04 GMT | Cybersecurity in Orbit: How Space is becomithe Next Cyber Battlefield | Adam DArcy | [Read More](https://medium.com/p/77a315814d46) |
-| Fri, 12 Sep 2025 16:51:27 GMT | Rethinking Humans in Cybernetics | Taulan Zauzanov | [Read More](https://medium.com/p/fc22bb4470fc) |
-| Fri, 12 Sep 2025 16:50:54 GMT | The Ebola Freezer in Reedley | Crystal Clear | [Read More](https://medium.com/p/5879432d6679) |
