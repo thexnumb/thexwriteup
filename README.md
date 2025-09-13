@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 04:35:46 GMT | Why Agentic AI Needs a New Security Model in 2025 and Beyond | Taimur Ijlal | [Read More](https://medium.com/p/5e42211e2fbe) |
+| Sat, 13 Sep 2025 04:32:06 GMT | The Inevitability of Charlie Kirk’s Death and What It Reveals About America | Nicholas Riding | [Read More](https://medium.com/p/52e405a0af2e) |
+| Sat, 13 Sep 2025 04:31:46 GMT | 7 AI Hacks That Saved Me 40 Hours This Week | Asma | [Read More](https://medium.com/p/ce36ee1fcc7d) |
+| Sat, 13 Sep 2025 04:22:38 GMT | Why Shopify Stores Are Easy Targets for Malware Attacks (and How to Stay Safe) | Tycoonstories | [Read More](https://medium.com/p/6c0a61ee8bb4) |
 | Sat, 13 Sep 2025 04:03:02 GMT | Trump’s Keystone Kops Diplomacy is Driven by Pure Ego | James Louis Bruno | [Read More](https://medium.com/p/9277331b657d) |
 | Sat, 13 Sep 2025 03:56:12 GMT | Bug Bounty: Focus And Blind Spots | smilemil | [Read More](https://medium.com/p/e1498838379e) |
 | Sat, 13 Sep 2025 03:54:16 GMT | The Ghosts in the Machine: How Chinese Hackers Lived Undetected for Years | Aj | [Read More](https://medium.com/p/3498c950d600) |
@@ -109,7 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 17:57:42 GMT | Portswigger Web Cache Poisoning Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/99981f73622c) |
 | Fri, 12 Sep 2025 17:55:43 GMT | Bulenox reviews 2025: red flags to look out | Jack Benson | [Read More](https://medium.com/p/9e8514f20908) |
 | Fri, 12 Sep 2025 17:52:18 GMT | VPNs for Environmental Causes: How Privacy Tech Supports Digital Activism | Novix VPN | [Read More](https://medium.com/p/b4f0fb5c6ef0) |
-| Fri, 12 Sep 2025 17:49:36 GMT | A Calculated Provocation: Why Ukraine, Not Russia, May Be Behind the Polish Drone Incident | Lorant Komjathy | [Read More](https://medium.com/p/e564cbad94c4) |
-| Fri, 12 Sep 2025 17:46:44 GMT | Day 1 : Getting Into Cybersecurity | BoboExploits | [Read More](https://medium.com/p/dc32fa389ff5) |
-| Fri, 12 Sep 2025 17:46:11 GMT | Novix VPN — Fast, Secure & Free Trial | Novix VPN | [Read More](https://medium.com/p/bcada330ced6) |
-| Fri, 12 Sep 2025 17:44:28 GMT | I Was Shocked When My ChatGPT Coughed! -The Blurring Lines Between Reality and Deepfakes | Shefali Gokarn | [Read More](https://medium.com/p/c7252c15db28) |
