@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 16:27:17 GMT | Stealth Mode for Your Servers: Securing Services with Dynamic Port Knocking and TOTP | Trevor Woollacott | [Read More](https://medium.com/p/bfba43f77413) |
 | Sat, 13 Sep 2025 16:13:52 GMT | TryHackMe Writeup: Mr Robot CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/a7b8223d12fb) |
 | Sat, 13 Sep 2025 16:10:20 GMT | Samsung Patches Zero-Day Actively Exploited in WhatsApp-Reported Attack | Suhas Valasala | [Read More](https://medium.com/p/6bceff88f9cf) |
 | Sat, 13 Sep 2025 16:06:45 GMT | From “Is This You?” to “Access Granted”: A Practical HMAC Deep-Dive for .NET APIs | Brian Mora | [Read More](https://medium.com/p/ce19e4dce182) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 10:50:25 GMT | Cyber Security Details: Security Automation Techniques | Cyber Security Research | [Read More](https://medium.com/p/03f6a908d85b) |
 | Sat, 13 Sep 2025 10:46:18 GMT | AI Powered Tools: HexStrike AI | Archa Anil | [Read More](https://medium.com/p/4305a0d46e56) |
 | Sat, 13 Sep 2025 10:43:26 GMT | Understanding Exploit Kits: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/c3718a71f160) |
-| Sat, 13 Sep 2025 10:41:43 GMT | NFC Attacks and Security Risks | Esra Kayhan | [Read More](https://medium.com/p/d80d9a2b97ae) |
