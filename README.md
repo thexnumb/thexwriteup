@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 13:16:58 GMT | Limitations | Lucien Michaux | [Read More](https://medium.com/p/ad8b6b0a3532) |
+| Sat, 13 Sep 2025 13:08:23 GMT | The Linux Process Journey — xiccd (X Color Management Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bd7964618afe) |
+| Sat, 13 Sep 2025 12:51:40 GMT | SQL Injection in 2025: Still the Silent System Killer | Rizqi Mulki | [Read More](https://medium.com/p/87139f3e0133) |
+| Sat, 13 Sep 2025 12:51:11 GMT | The Sound That Was Never There | O. J. Okpabi | [Read More](https://medium.com/p/ce6f54b8fcf7) |
+| Sat, 13 Sep 2025 12:41:29 GMT | The House That Was Never Rebuilt | O. J. Okpabi | [Read More](https://medium.com/p/58cd335778be) |
+| Sat, 13 Sep 2025 12:39:54 GMT | Parking Lot CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/6b2320487286) |
+| Sat, 13 Sep 2025 12:34:39 GMT | The Obsidian Shores of Varyon | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/a9f86fb53266) |
+| Sat, 13 Sep 2025 12:30:52 GMT | The Night The Engines Held Their Breath | O. J. Okpabi | [Read More](https://medium.com/p/79482c5d9ded) |
 | Sat, 13 Sep 2025 12:27:47 GMT | The Evolution of Malware: An In-Depth Look at Polymorphic and Metamorphic Threats | Giorgi Akhobadze | [Read More](https://medium.com/p/2a8fc872fbc5) |
 | Sat, 13 Sep 2025 12:27:30 GMT | Beyond Passwords: A Comprehensive Guide to Modern Multi-Factor Authentication Methods | Giorgi Akhobadze | [Read More](https://medium.com/p/f2deb07985db) |
 | Sat, 13 Sep 2025 12:26:56 GMT | A Complete Guide to Network Forensics: Investigating and Analyzing Network Traffic for Intrusions | Giorgi Akhobadze | [Read More](https://medium.com/p/ea0ce35a7c6b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 07:31:41 GMT | Extract — Load — Upload - A $20000 File Read Bug POC Methodology | It4chis3c | [Read More](https://medium.com/p/931383c987b2) |
 | Sat, 13 Sep 2025 07:27:16 GMT | PicoCTF Web Exploitation Walkthrough -GET aHEAD | Deepika  B | [Read More](https://medium.com/p/618bd6b383fb) |
 | Sat, 13 Sep 2025 07:21:09 GMT | Top Ransomware Recovery Services for Canadian Organizations in 2025 | Brigient | [Read More](https://medium.com/p/770b614d236c) |
-| Sat, 13 Sep 2025 07:18:09 GMT | Tryhackme - Invite Only walkthrough | Aryan Shrestha | [Read More](https://medium.com/p/20be48cfb6e4) |
-| Sat, 13 Sep 2025 07:02:33 GMT | Top 10 Cyber Security Experts in India 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/4e3bbb29a0cd) |
-| Sat, 13 Sep 2025 07:01:46 GMT | Ship Leak Alerts to Slack, Email or Webhooks in Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/712559e75022) |
-| Sat, 13 Sep 2025 06:56:29 GMT | The Growing Threat of API Security Vulnerabilities | Cybersecurity Umbrella | [Read More](https://medium.com/p/cdd4e6ebd3d2) |
-| Sat, 13 Sep 2025 06:51:24 GMT | Smart Rupiya Loan App Customer” Care Helpline Number©️))✅+91(6266384374✅((6266384374 )) ✅Call me.Sma | Smart Rupiya Loan App Customer” Care Helpline Numb | [Read More](https://medium.com/p/3140af37e351) |
-| Sat, 13 Sep 2025 06:47:54 GMT | The Overlooked Risk: Why IoT Devices Need Security Audits | Recover Right | [Read More](https://medium.com/p/e8930ddbdf37) |
-| Sat, 13 Sep 2025 06:46:02 GMT | Best Cyber Risk Consulting Firms in Canada (2025 Edition) | Brigient | [Read More](https://medium.com/p/9794b4611306) |
-| Sat, 13 Sep 2025 06:45:40 GMT | Keys to the Kingdom: How I Hacked a Fortune 500 Company Through Their Mobile App | Iski | [Read More](https://medium.com/p/e26debedd3f3) |
