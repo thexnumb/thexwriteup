@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 19:32:26 GMT | Understanding Authentication and Authorization: The Backbone of Modern Security | Monil Jain | [Read More](https://medium.com/p/1d675ac6de68) |
+| Sat, 13 Sep 2025 19:22:09 GMT | XRP Tundra Security: How Multiple Audits and Team Verification Build Unshakeable Trust | XRP Tundra | [Read More](https://medium.com/p/a3f9f2af94c7) |
 | Sat, 13 Sep 2025 19:10:45 GMT | OWASP Juice Shop Challenge : 1— Scoreboard Discovery | theOrthodox | [Read More](https://medium.com/p/ff6348952002) |
+| Sat, 13 Sep 2025 19:09:01 GMT | PG Play — GlasgowSmile (Linux) | Lepton | [Read More](https://medium.com/p/2e081b407456) |
+| Sat, 13 Sep 2025 19:08:57 GMT | PortSwigger Lab: Basic Origin Reflection Attack (CORS) | M. Mustafa Hussaini | [Read More](https://medium.com/p/cbb5d24ca4c3) |
 | Sat, 13 Sep 2025 18:57:47 GMT | How I hacked the Placement portal of my college to leak the entire SQL database | Adithya M S | [Read More](https://medium.com/p/b424269916db) |
 | Sat, 13 Sep 2025 18:50:43 GMT | Forensic Insights: How the NTFS USN Journal ($J) Reveals System Activity | Allen Ace | [Read More](https://medium.com/p/1e8afe4e337b) |
 | Sat, 13 Sep 2025 18:43:55 GMT | How I Found a Critical IDOR Leading to Full Account Takeover and Data Leakage | Andrey Dolya | [Read More](https://medium.com/p/39c3d85c8ecd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 13:21:19 GMT | State Police in Nigeria: Solution, Illusion, or Wrong Timing? | Olushola Oludotun | [Read More](https://medium.com/p/c1c06baa4f28) |
 | Sat, 13 Sep 2025 13:16:58 GMT | Limitations | Lucien Michaux | [Read More](https://medium.com/p/ad8b6b0a3532) |
 | Sat, 13 Sep 2025 13:08:23 GMT | The Linux Process Journey — xiccd (X Color Management Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bd7964618afe) |
-| Sat, 13 Sep 2025 12:51:40 GMT | SQL Injection in 2025: Still the Silent System Killer | Rizqi Mulki | [Read More](https://medium.com/p/87139f3e0133) |
-| Sat, 13 Sep 2025 12:51:11 GMT | The Sound That Was Never There | O. J. Okpabi | [Read More](https://medium.com/p/ce6f54b8fcf7) |
-| Sat, 13 Sep 2025 12:41:29 GMT | The House That Was Never Rebuilt | O. J. Okpabi | [Read More](https://medium.com/p/58cd335778be) |
-| Sat, 13 Sep 2025 12:39:54 GMT | Parking Lot CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/6b2320487286) |
