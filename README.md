@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 18:31:55 GMT | kioptrix L1 the simplest walk-through part2….! | Azaleas | [Read More](https://medium.com/p/a615096ec0ac) |
+| Sat, 13 Sep 2025 18:28:32 GMT | Introducing MOLE (Mass Open Links Extension) | Emma Waterman | [Read More](https://medium.com/p/eab7af3fb597) |
+| Sat, 13 Sep 2025 18:24:44 GMT | SIN #5 - The Sin of Playing Small in Testing: Wasting Tools, Wasting Talent | InnernetWorld - The Voice of HimanShunya | [Read More](https://medium.com/p/1884d711b1cf) |
+| Sat, 13 Sep 2025 18:23:11 GMT | If you are IT student, this is for you | Ahamed Rimshan | [Read More](https://medium.com/p/de2d7adbbf72) |
 | Sat, 13 Sep 2025 18:12:29 GMT | How AI Is Reshaping the Future of Search: From Keywords to Personal Experience | MARYAM NOUWARY | [Read More](https://medium.com/p/7891fc27f30a) |
 | Sat, 13 Sep 2025 18:01:45 GMT | Bug Bounty: Lo que se automatiza sin entender, no se encuentra de verdad | Gorka | [Read More](https://medium.com/p/a713ea45f1c7) |
 | Sat, 13 Sep 2025 17:58:15 GMT | kioptrix L1 the simplest walk-through | Azaleas | [Read More](https://medium.com/p/b9d67a68e484) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 12:20:54 GMT | The Sound Of Clicking Keys | O. J. Okpabi | [Read More](https://medium.com/p/f393e3bcfa19) |
 | Sat, 13 Sep 2025 12:20:06 GMT | A Critical Review of Some Cybersecurity Frameworks: OWASP COMPASS, MITRE ATLAS | noailabs | [Read More](https://medium.com/p/065aee439ac8) |
 | Sat, 13 Sep 2025 12:16:49 GMT | Seamless Server Uplift From Shared To VPS | Milaharris | [Read More](https://medium.com/p/bb5cb2e9eed0) |
-| Sat, 13 Sep 2025 12:15:30 GMT | What Seymour Hersh Gets Right (and Wrong) About AI’s “Secret Backers” — and What Real Safety Would… | Dr Rita Pal | [Read More](https://medium.com/p/5315206fd123) |
-| Sat, 13 Sep 2025 12:13:39 GMT | Exposed API Endpoints: The Silent Killer for Startups. A Founder’s Security Checklist | Zubair Usman | [Read More](https://medium.com/p/a9e41239572f) |
-| Sat, 13 Sep 2025 12:12:56 GMT | Hunting API Keys in JavaScript Files: A Bug Hunter’s Guide | Medusa | [Read More](https://medium.com/p/01940b7dd6ef) |
-| Sat, 13 Sep 2025 12:08:48 GMT | The Library Of Promises | O. J. Okpabi | [Read More](https://medium.com/p/b25c1aeb7937) |
