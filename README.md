@@ -13,6 +13,9 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sat, 13 Sep 2025 20:17:18 GMT | Supercharge Your Bug Bounty Toolkit: API Testing, DTO Validation, and Tree-sitter Analysis | BugHunteroX | [Read More](https://medium.com/p/a51cf74e6f1b) |
+| Sat, 13 Sep 2025 20:16:58 GMT | DNS, DHCP, IP, MAC, TCP, ARP, etc. — Broken Down into Bits! | Mahad Aqeel | [Read More](https://medium.com/p/53ca88ed5b2a) |
+| Sat, 13 Sep 2025 20:12:50 GMT | Analysis: Qilin Ransomware Group | Deniz Topaloglu | [Read More](https://medium.com/p/1a4b9e28f4c7) |
+| Sat, 13 Sep 2025 20:09:37 GMT | What it takes to be a Hacker — The Absolute Beginning | David Barrineau | [Read More](https://medium.com/p/16f7cf7094a0) |
 | Sat, 13 Sep 2025 20:07:44 GMT | My CEH v13 Journey: Module 4 — Scanning Networks | Rohan Pandey | [Read More](https://medium.com/p/38ee023fd107) |
 | Sat, 13 Sep 2025 19:57:08 GMT | Let me help you | notawriter | [Read More](https://medium.com/p/59f1525543b1) |
 | Sat, 13 Sep 2025 19:48:16 GMT | Balancing Compliance and Risk: The Influence of Regulatory Requirements on Information Assurance… | Motta | [Read More](https://medium.com/p/d14bf8c1b252) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 13:43:14 GMT | Kiba - Tryhackme | Redcell | [Read More](https://medium.com/p/519f621b4eee) |
 | Sat, 13 Sep 2025 13:40:36 GMT | Assassination of Charlie Kirk Timeline, Reactions and Implications | SIMKRA | [Read More](https://medium.com/p/a0a4cd8b3912) |
 | Sat, 13 Sep 2025 13:40:27 GMT | Malware Analysis : WannaCry | Chito Oda | [Read More](https://medium.com/p/e39d0d26e80b) |
-| Sat, 13 Sep 2025 13:39:47 GMT | Climate Change and Pakistan’s Vulnerability | bisma seo | [Read More](https://medium.com/p/a909a86f101b) |
-| Sat, 13 Sep 2025 13:39:35 GMT | Nym in August 2025: বিকেন্দ্রীকৃত গোপনীয়তার পথে আরেক ধাপ অগ্রগতি | Rabib Bin Nur | [Read More](https://medium.com/p/7aa9e32db29b) |
-| Sat, 13 Sep 2025 13:37:41 GMT | $1,500 Bounty: Business Logic Flaw in Project Secrets Management | Abhi Sharma | [Read More](https://medium.com/p/4b985175071e) |
