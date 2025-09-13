@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 10:10:29 GMT | Do Security Guards Carry Guns in Washington? Laws, Training, and Services Explained | Liam Truth | [Read More](https://medium.com/p/8b7eb0ce49fc) |
+| Sat, 13 Sep 2025 10:06:17 GMT | 24/7 Ransomware Consulting & Recovery Services in Canada (2025 Edition) | One arrow consulting inc | [Read More](https://medium.com/p/e02581e9afb7) |
+| Sat, 13 Sep 2025 10:01:54 GMT | Top Cybersecurity Investments Canadian Companies Are Making in 2025 | One arrow consulting inc | [Read More](https://medium.com/p/bb5988f52ae4) |
+| Sat, 13 Sep 2025 10:01:43 GMT | Your Brain on Breaking News | Jud Brewer MD PhD | [Read More](https://medium.com/p/fddf0ec65602) |
+| Sat, 13 Sep 2025 09:50:01 GMT | MultiVerse — Forensics - BlackHat MEA Quals 2025 | Hamza Haroon | [Read More](https://medium.com/p/d6b2632195a9) |
+| Sat, 13 Sep 2025 09:49:59 GMT | 5 Fun and Creative RAG Projects Every Beginner Should Try | Prashik Hingaspure | [Read More](https://medium.com/p/7851873d9a43) |
+| Sat, 13 Sep 2025 09:49:37 GMT | How the Charlie Kirk Assassination Hoax Exposed AI’s Misinformation Problem | Sevenfeeds | [Read More](https://medium.com/p/661623c1d289) |
+| Sat, 13 Sep 2025 09:34:32 GMT | Secure Boot Bypassed? What You Need to Know About UEFI Ransomware | Truspex | [Read More](https://medium.com/p/3cf3dd2fcbd7) |
+| Sat, 13 Sep 2025 09:32:39 GMT | Top 10 Highest Paying IT Certification Programs in 2025 | Evision Technoserve | [Read More](https://medium.com/p/41f9c601df8a) |
+| Sat, 13 Sep 2025 09:31:49 GMT | Assighment:1 | Sidra tul muntaha | [Read More](https://medium.com/p/a3c409247615) |
 | Sat, 13 Sep 2025 09:27:27 GMT | I Made a Fake Tech Startup That Got Real Job Applications | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ce3f23c00408) |
 | Sat, 13 Sep 2025 09:23:11 GMT | Security Documentation as a Competitive Advantage | Abdullateef Hameed | [Read More](https://medium.com/p/af187e622518) |
 | Sat, 13 Sep 2025 09:23:08 GMT | China unveils AI 100 times faster than traditional models | Ilyassbourich | [Read More](https://medium.com/p/e3278fe02b0e) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 02:11:42 GMT | SIEM from Scratch: How to Set Up Splunk, Manage Log Ingestion, and Build Scalable Storage Policies | Paritosh | [Read More](https://medium.com/p/43cedb9ec48e) |
 | Sat, 13 Sep 2025 02:07:32 GMT | Write-up PicoCTF (Capture The Flag) — Don't you love banners | Sérgio Corrêa | [Read More](https://medium.com/p/5c9b04227101) |
 | Sat, 13 Sep 2025 02:07:32 GMT | Snowflake External OAuth: Authorization Code flow (+PKCE) | Mike Mitrowski | [Read More](https://medium.com/p/de30533d0072) |
-| Sat, 13 Sep 2025 02:02:53 GMT | CyberDefenders — ELPACO-team Lab | jon | [Read More](https://medium.com/p/203458bfbad5) |
-| Sat, 13 Sep 2025 01:29:46 GMT | How to Integrate VOXCompanies® Tech Into Your Workflow | VOXCompanies | [Read More](https://medium.com/p/427fc7ed4a55) |
-| Sat, 13 Sep 2025 01:29:41 GMT | Challenges VOXCompanies® Faces in Global Tech Expansion | VOXCompanies | [Read More](https://medium.com/p/eef4fa318d2e) |
-| Sat, 13 Sep 2025 01:08:45 GMT | Second Path, First step: Pre Security Recap | FloGood | [Read More](https://medium.com/p/c5ac27e4c9a8) |
-| Sat, 13 Sep 2025 00:50:50 GMT | The Upside-Down Mouse A Lesson in Troubleshooting 101 | SoloIT | [Read More](https://medium.com/p/623614746dc1) |
-| Sat, 13 Sep 2025 00:49:46 GMT | Why Your Security Team and Employees Are Living in Different Worlds (And It’s Not What You Think) | Giuseppe Canale | [Read More](https://medium.com/p/c1e5ba7038f7) |
-| Sat, 13 Sep 2025 00:26:44 GMT | “Security teams spend more time sorting vulnerabilities than fixing them.” | Pratip Dasgupta | [Read More](https://medium.com/p/f42c62a8cec0) |
-| Sat, 13 Sep 2025 00:01:44 GMT | Wfuzz: Fuzzing Web for Pentesting and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/06eb43124603) |
-| Sat, 13 Sep 2025 00:00:08 GMT | CSCE 439 Topic 1 | Raj Nallanthighal | [Read More](https://medium.com/p/ee556e183a75) |
-| Fri, 12 Sep 2025 23:50:46 GMT | Scam Call Centers: A Hidden Global Threat | livemari | [Read More](https://medium.com/p/7757e1b652fc) |
