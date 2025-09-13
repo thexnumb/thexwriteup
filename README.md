@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 17:07:41 GMT | Actuator Endpoints Exposed? You Might Be Leaking Everything | Ujjawal Rohra | [Read More](https://medium.com/p/12ca735a8aa2) |
+| Sat, 13 Sep 2025 17:02:47 GMT | Top 10 AI Vulnerabilities Hackers Are Exploiting — What Every Cybersecurity Pro Must Know | Pratham Shah | [Read More](https://medium.com/p/1225382143bf) |
+| Sat, 13 Sep 2025 17:00:48 GMT | The Hacktivist with a Paycheck: When Your Beliefs and Your Skills Align | Samina Perveen | [Read More](https://medium.com/p/7fc228e7ce3f) |
+| Sat, 13 Sep 2025 16:58:55 GMT | How did i “Hacked” Nasa without go to the jail | Antonio Rivera Poblete | [Read More](https://medium.com/p/4bf0eebc934b) |
+| Sat, 13 Sep 2025 16:55:13 GMT | Supply chain attack | Petr Roupec | [Read More](https://medium.com/p/3c88b42ab698) |
+| Sat, 13 Sep 2025 16:49:05 GMT | Day 56- Basics and concepts of threat hunting for beginners | unica 02 | [Read More](https://medium.com/p/39244b7a8592) |
+| Sat, 13 Sep 2025 16:46:58 GMT | Log Analysis: Privilege Escalation | Joseph A. M. | [Read More](https://medium.com/p/ef4add041b2e) |
+| Sat, 13 Sep 2025 16:45:52 GMT | UART, U-Boot, and Secrets: Live Analysis of a Hikvision IoT Camera | Aaronjjose | [Read More](https://medium.com/p/7d579c492c92) |
 | Sat, 13 Sep 2025 16:27:17 GMT | Stealth Mode for Your Servers: Securing Services with Dynamic Port Knocking and TOTP | Trevor Woollacott | [Read More](https://medium.com/p/bfba43f77413) |
 | Sat, 13 Sep 2025 16:13:52 GMT | TryHackMe Writeup: Mr Robot CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/a7b8223d12fb) |
 | Sat, 13 Sep 2025 16:10:20 GMT | Samsung Patches Zero-Day Actively Exploited in WhatsApp-Reported Attack | Suhas Valasala | [Read More](https://medium.com/p/6bceff88f9cf) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 11:30:28 GMT | Cyber Security Training with 100% Job Guarantee! | SoftApp Technologies | [Read More](https://medium.com/p/c37474fc77cb) |
 | Sat, 13 Sep 2025 11:20:10 GMT | The Victory I Didn’t Feel | Exploring, Growing, Evolving: My Life in Action | [Read More](https://medium.com/p/463b595025fa) |
 | Sat, 13 Sep 2025 11:15:45 GMT | I Built a Device That Screams When Suspicious Network Activity Appears | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/26a13c07f662) |
-| Sat, 13 Sep 2025 11:09:31 GMT | Linux Security Architecture: The Blueprint | Eren Cankut Uysal | [Read More](https://medium.com/p/d97defe44c21) |
-| Sat, 13 Sep 2025 11:02:52 GMT | Why DForms Could Change the Way We Collect Data | Aliciasierra | [Read More](https://medium.com/p/1fc85c338a9d) |
-| Sat, 13 Sep 2025 11:02:06 GMT | DVWA Modules:- walkthrough, File Upload | Aashish Vishwakarma | [Read More](https://medium.com/p/2f4ab22610b0) |
-| Sat, 13 Sep 2025 10:57:32 GMT | Cyber Security Training — Your Future Starts Here! | Pravin Choudhary | [Read More](https://medium.com/p/e4ecff6e8cb2) |
-| Sat, 13 Sep 2025 10:54:21 GMT | Current Cybercrime Trends & Their Impact on Forensic Investigations | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/73b984792b16) |
-| Sat, 13 Sep 2025 10:50:25 GMT | Cyber Security Details: Security Automation Techniques | Cyber Security Research | [Read More](https://medium.com/p/03f6a908d85b) |
-| Sat, 13 Sep 2025 10:46:18 GMT | AI Powered Tools: HexStrike AI | Archa Anil | [Read More](https://medium.com/p/4305a0d46e56) |
-| Sat, 13 Sep 2025 10:43:26 GMT | Understanding Exploit Kits: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/c3718a71f160) |
