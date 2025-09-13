@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 11:31:42 GMT | Secure Your Accounts with a Strong Password Generator | WP HELP - LNX Servers - Page Speed - SEO - WEBDEV | [Read More](https://medium.com/p/c60367aa5143) |
+| Sat, 13 Sep 2025 11:20:10 GMT | The Victory I Didn’t Feel | Exploring, Growing, Evolving: My Life in Action | [Read More](https://medium.com/p/463b595025fa) |
+| Sat, 13 Sep 2025 11:15:45 GMT | I Built a Device That Screams When Suspicious Network Activity Appears | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/26a13c07f662) |
+| Sat, 13 Sep 2025 11:09:31 GMT | Linux Security Architecture: The Blueprint | Eren Cankut Uysal | [Read More](https://medium.com/p/d97defe44c21) |
 | Sat, 13 Sep 2025 11:02:52 GMT | Why DForms Could Change the Way We Collect Data | Aliciasierra | [Read More](https://medium.com/p/1fc85c338a9d) |
 | Sat, 13 Sep 2025 11:02:06 GMT | DVWA Modules:- walkthrough, File Upload | Aashish Vishwakarma | [Read More](https://medium.com/p/2f4ab22610b0) |
 | Sat, 13 Sep 2025 10:57:32 GMT | Cyber Security Training — Your Future Starts Here! | Pravin Choudhary | [Read More](https://medium.com/p/e4ecff6e8cb2) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 ‎
 ‎*Scope of Ethical Hacking:* ‎- Ethical hacking is… | Ümãïr | [Read More](https://medium.com/p/1c3e63442810) |
 | Sat, 13 Sep 2025 04:41:42 GMT | Discovering Insecure-by-Default Control in Unitree ROS2: A Deep Dive into Attack Chains and… | Ravi Kumar E | [Read More](https://medium.com/p/0cd47ddcef42) |
-| Sat, 13 Sep 2025 04:36:13 GMT | Enterprise Data Protection & Privacy Framework: A Practical Guide for Boards, DPOs, CISOs, and… | Arvind Mehrotra | [Read More](https://medium.com/p/e6667c9fc451) |
-| Sat, 13 Sep 2025 04:35:46 GMT | Why Agentic AI Needs a New Security Model in 2025 and Beyond | Taimur Ijlal | [Read More](https://medium.com/p/5e42211e2fbe) |
-| Sat, 13 Sep 2025 04:32:06 GMT | The Inevitability of Charlie Kirk’s Death and What It Reveals About America | Nicholas Riding | [Read More](https://medium.com/p/52e405a0af2e) |
-| Sat, 13 Sep 2025 04:31:46 GMT | 7 AI Hacks That Saved Me 40 Hours This Week | Asma | [Read More](https://medium.com/p/ce36ee1fcc7d) |
