@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 06:39:42 GMT | Securing CI/CD Through Offensive Testing | @SecBySheikh | [Read More](https://medium.com/p/d35fdffe8b2e) |
+| Sat, 13 Sep 2025 06:38:38 GMT | OTP BYPASS TECHNIQUE | Mr Horbio | [Read More](https://medium.com/p/508e20a599e8) |
+| Sat, 13 Sep 2025 06:37:29 GMT | Cybersecurity & Secure Coding Practices: Why Your Code Is the First Line of Defense | Ankit Singh | [Read More](https://medium.com/p/5d8f3fb24a5c) |
+| Sat, 13 Sep 2025 06:35:04 GMT | SailPoint & Success Story | Shara | [Read More](https://medium.com/p/13d21aaa52be) |
+| Sat, 13 Sep 2025 06:31:43 GMT | Firewalls in Cybersecurity: The First Line of Defense | Sulabh Prajapati | [Read More](https://medium.com/p/9921ea349845) |
 | Sat, 13 Sep 2025 06:23:15 GMT | Is Your Code Secure by Design? | Pawan Wagh | [Read More](https://medium.com/p/72b10f070a67) |
+| Sat, 13 Sep 2025 06:20:29 GMT | Linux vulnerability management | Linux Details | [Read More](https://medium.com/p/84e148677671) |
 | Sat, 13 Sep 2025 06:14:33 GMT | Linux security scanning | Linux Details | [Read More](https://medium.com/p/2d202ae76549) |
 | Sat, 13 Sep 2025 06:08:43 GMT | The Fine Line Between Curiosity and Crime in Hacking | Shahzaib | [Read More](https://medium.com/p/f082e9b1ee61) |
 | Sat, 13 Sep 2025 06:07:06 GMT | LGDroid Lab - CyberDefenders | Anas404 | [Read More](https://medium.com/p/f5865bf2fa24) |
@@ -109,9 +115,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 19:12:12 GMT | AI Security 101: How Hackers Trick Chatbots (And Why You Should Care) | Mehmet Özel | [Read More](https://medium.com/p/afb00e7977c9) |
 | Fri, 12 Sep 2025 18:58:30 GMT | CYBER SECURITY | Bushrafaisal | [Read More](https://medium.com/p/554c46ce4b79) |
 | Fri, 12 Sep 2025 18:57:59 GMT | Stop Buying DevOps Tools Before You Even Know What Problem You’re Solving | Zudonu Osomudeya | [Read More](https://medium.com/p/1e68eeed2490) |
-| Fri, 12 Sep 2025 18:56:21 GMT | PG Play — BBScute (Linux) | Lepton | [Read More](https://medium.com/p/eea6c914b5a6) |
-| Fri, 12 Sep 2025 18:53:23 GMT | The Future of Ethical Hacking: AI, Cloud, and the Evolving Defender’s Role | Smith Adams | [Read More](https://medium.com/p/0b61ce8428f1) |
-| Fri, 12 Sep 2025 18:51:25 GMT | Cybersecurity News Review — Week 37 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/a5e695ce2f95) |
-| Fri, 12 Sep 2025 18:51:00 GMT | Implementando um Firewall simples no VirtualBox | Mardson Diego | [Read More](https://medium.com/p/5614e1caac7f) |
-| Fri, 12 Sep 2025 18:42:51 GMT | AI in Security vs Security in AI | Beril Dindar | [Read More](https://medium.com/p/47e0ac19b133) |
-| Fri, 12 Sep 2025 18:41:46 GMT | When Zero Trust Meets a Hacker: 3 Hours to Failure | echosso | [Read More](https://medium.com/p/a5706880930c) |
