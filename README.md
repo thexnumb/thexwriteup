@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 21:05:54 GMT | How I Found 5 Cache Flaws in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/b47dee54d267) |
+| Sat, 13 Sep 2025 20:51:54 GMT | Penetration Testing Methods: A Beginner-Friendly Guide to Securing Your Systems | Hemant Patkar, CISSP | [Read More](https://medium.com/p/708e5f4fa7b9) |
+| Sat, 13 Sep 2025 20:34:31 GMT | TLS 1.3: Lessons on Speed and Security Through 0 RTT Replay Attacks | Ishika Khokhani | [Read More](https://medium.com/p/5d2971d2e559) |
+| Sat, 13 Sep 2025 20:34:28 GMT | — How you can… | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/951304a1974e) |
 | Sat, 13 Sep 2025 20:17:18 GMT | Supercharge Your Bug Bounty Toolkit: API Testing, DTO Validation, and Tree-sitter Analysis | BugHunteroX | [Read More](https://medium.com/p/a51cf74e6f1b) |
 | Sat, 13 Sep 2025 20:16:58 GMT | DNS, DHCP, IP, MAC, TCP, ARP, etc. — Broken Down into Bits! | Mahad Aqeel | [Read More](https://medium.com/p/53ca88ed5b2a) |
 | Sat, 13 Sep 2025 20:12:50 GMT | Analysis: Qilin Ransomware Group | Deniz Topaloglu | [Read More](https://medium.com/p/1a4b9e28f4c7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 13:56:37 GMT | Nmap vs Wireshark Choosing the Right Tool for Network Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/b414ff18a1b5) |
 | Sat, 13 Sep 2025 13:54:26 GMT | Invisible by Design: A Practical Guide to Online Privacy | Kenny Wolf | [Read More](https://medium.com/p/0f8230f3059e) |
 | Sat, 13 Sep 2025 13:48:44 GMT | DC: 2 VulnHub - Walkthrough [by Rikin] | Rikin | [Read More](https://medium.com/p/e1ec74d3cbe2) |
-| Sat, 13 Sep 2025 13:46:19 GMT | Detecting Web Attacks on TryHackMe: A Complete Walkthrough for Log & Network-Based Threat Hunting | Visir | [Read More](https://medium.com/p/fd041916a035) |
-| Sat, 13 Sep 2025 13:43:14 GMT | Kiba - Tryhackme | Redcell | [Read More](https://medium.com/p/519f621b4eee) |
-| Sat, 13 Sep 2025 13:40:36 GMT | Assassination of Charlie Kirk Timeline, Reactions and Implications | SIMKRA | [Read More](https://medium.com/p/a0a4cd8b3912) |
-| Sat, 13 Sep 2025 13:40:27 GMT | Malware Analysis : WannaCry | Chito Oda | [Read More](https://medium.com/p/e39d0d26e80b) |
