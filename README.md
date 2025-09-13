@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/7f63fe2aa1b1) |
+| Sat, 13 Sep 2025 15:12:52 GMT | “ NEVER BE TOO SECURE “ | Chike Umeuduji | [Read More](https://medium.com/p/e3bd8f7a4401) |
+| Sat, 13 Sep 2025 15:09:18 GMT | Kali Linux: The Ultimate Tool for Ethical Hacking and Cybersecurity | cybertec8 | [Read More](https://medium.com/p/31aba772dd40) |
+| Sat, 13 Sep 2025 15:05:31 GMT | Walkthrough THM Voyage | Telynor | [Read More](https://medium.com/p/2ba840d5082b) |
+| Sat, 13 Sep 2025 15:05:22 GMT | Authorization Explained 0 to 1: When to Use RBAC, ABAC, ACL & More | NewMan_Vinay | [Read More](https://medium.com/p/4f759b122479) |
+| Sat, 13 Sep 2025 15:02:22 GMT | to love at all is to be vulnerable (?) | quincy | [Read More](https://medium.com/p/0ecb81a57e22) |
+| Sat, 13 Sep 2025 15:00:55 GMT | AI Powered Cybercrime: How Agentic AI is Changing the Threat Landscape | Enrique Olmo | [Read More](https://medium.com/p/a59a62dea71c) |
+| Sat, 13 Sep 2025 14:58:33 GMT | Blockchain and AI Integration in Financial Services: Implications for Trust, Auditability, and Risk… | Mohamed H. Husain | [Read More](https://medium.com/p/f0c30613e2cf) |
+| Sat, 13 Sep 2025 14:57:41 GMT | Navigating the Digital Playground: SentryPC is Your Ultimate Partner for Internet Safety for Kids | Paul Meyer | [Read More](https://medium.com/p/4e00efc872fd) |
+| Sat, 13 Sep 2025 14:48:23 GMT | 0-P: The Phantom of Quantum Exploitation | cyberbreakseconds | [Read More](https://medium.com/p/69cbed99a7bc) |
+| Sat, 13 Sep 2025 14:47:43 GMT | Bridging the Gap: My Journey with copilot-security-instructions | Jay Simmons | [Read More](https://medium.com/p/182bac3d5fb9) |
+| Sat, 13 Sep 2025 14:44:11 GMT | Is Specialized Security Software Really Needed for AI Agents? | tikenari | [Read More](https://medium.com/p/204fa5de3176) |
 | Sat, 13 Sep 2025 14:31:59 GMT | Let Hack Website Tryhackme Walkthrough Team | Mainekhacker | [Read More](https://medium.com/p/5d6ecd8a777c) |
+| Sat, 13 Sep 2025 14:29:12 GMT | Title: The Silent Architect: How I Built a Cyber Defense Ecosystem That Thinks Like an Adversary… | Lazyown Redteam | [Read More](https://medium.com/p/74cbea1e032d) |
 | Sat, 13 Sep 2025 14:24:12 GMT | MindGTC: The Story of the Ultimate Passion Project | MindGTC the next gen. Software Wallet | [Read More](https://medium.com/p/b23b21067826) |
 | Sat, 13 Sep 2025 14:17:42 GMT | Sometimes I Want to be Famous | Ember Forrest | [Read More](https://medium.com/p/cda62026f931) |
 | Sat, 13 Sep 2025 14:17:35 GMT | “ NEVER BE TOO SECURE “ | Chike Umeuduji | [Read More](https://medium.com/p/1102a9ee9bb9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 10:01:43 GMT | Your Brain on Breaking News | Jud Brewer MD PhD | [Read More](https://medium.com/p/fddf0ec65602) |
 | Sat, 13 Sep 2025 09:50:01 GMT | MultiVerse — Forensics - BlackHat MEA Quals 2025 | Hamza Haroon | [Read More](https://medium.com/p/d6b2632195a9) |
 | Sat, 13 Sep 2025 09:49:59 GMT | 5 Fun and Creative RAG Projects Every Beginner Should Try | Prashik Hingaspure | [Read More](https://medium.com/p/7851873d9a43) |
-| Sat, 13 Sep 2025 09:49:37 GMT | How the Charlie Kirk Assassination Hoax Exposed AI’s Misinformation Problem | Sevenfeeds | [Read More](https://medium.com/p/661623c1d289) |
-| Sat, 13 Sep 2025 09:34:32 GMT | Secure Boot Bypassed? What You Need to Know About UEFI Ransomware | Truspex | [Read More](https://medium.com/p/3cf3dd2fcbd7) |
-| Sat, 13 Sep 2025 09:32:39 GMT | Top 10 Highest Paying IT Certification Programs in 2025 | Evision Technoserve | [Read More](https://medium.com/p/41f9c601df8a) |
-| Sat, 13 Sep 2025 09:31:49 GMT | Assighment:1 | Sidra tul muntaha | [Read More](https://medium.com/p/a3c409247615) |
-| Sat, 13 Sep 2025 09:27:27 GMT | I Made a Fake Tech Startup That Got Real Job Applications | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ce3f23c00408) |
-| Sat, 13 Sep 2025 09:23:11 GMT | Security Documentation as a Competitive Advantage | Abdullateef Hameed | [Read More](https://medium.com/p/af187e622518) |
-| Sat, 13 Sep 2025 09:23:08 GMT | China unveils AI 100 times faster than traditional models | Ilyassbourich | [Read More](https://medium.com/p/e3278fe02b0e) |
-| Sat, 13 Sep 2025 09:22:06 GMT | How GPS Tracking Transforms the Security of Cargo Transportation | Sahaya Prawin | [Read More](https://medium.com/p/5d8a40b5e2cb) |
-| Sat, 13 Sep 2025 09:21:52 GMT | SQL Injection: The 20-Year-Old Bug That Still Haunts the Web | Allwyn Vincent | [Read More](https://medium.com/p/7f808bd07ad8) |
-| Sat, 13 Sep 2025 09:14:06 GMT | Windshield Tags: More Than Meets the Eye? | SilentInject | [Read More](https://medium.com/p/e903493a2ff0) |
-| Sat, 13 Sep 2025 09:13:56 GMT | Audit Trails in Web Applications: Why Detailed Logs Are Your Silent Guardian | Amaka okoye | [Read More](https://medium.com/p/2e58a17dcc83) |
-| Sat, 13 Sep 2025 09:13:54 GMT | The Confidence Trick That Got a Town to Help | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/28e2ee9b9cc5) |
-| Sat, 13 Sep 2025 09:13:45 GMT | THM - ItsyBitsy | Francesco Pastore | [Read More](https://medium.com/p/cdd303e5e40d) |
