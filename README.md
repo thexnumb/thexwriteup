@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 21:31:23 GMT | Why ESG Isn’t a Checkbox — It’s a Growth Strategy | the PhobioSapien | [Read More](https://medium.com/p/84410299deaf) |
+| Sat, 13 Sep 2025 21:23:04 GMT | Sam Altman, Elon Musk, and the Whistleblower: The Controversy Over Suchir Balaji’s Death | Aaron | [Read More](https://medium.com/p/50306daa0abe) |
 | Sat, 13 Sep 2025 21:05:54 GMT | How I Found 5 Cache Flaws in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/b47dee54d267) |
 | Sat, 13 Sep 2025 20:51:54 GMT | Penetration Testing Methods: A Beginner-Friendly Guide to Securing Your Systems | Hemant Patkar, CISSP | [Read More](https://medium.com/p/708e5f4fa7b9) |
 | Sat, 13 Sep 2025 20:34:31 GMT | TLS 1.3: Lessons on Speed and Security Through 0 RTT Replay Attacks | Ishika Khokhani | [Read More](https://medium.com/p/5d2971d2e559) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 14:01:43 GMT | ABTU = Utility, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/f8c2b4848d1f) |
 | Sat, 13 Sep 2025 14:01:02 GMT | I met someone | Stephanie Khobe | [Read More](https://medium.com/p/2478c872a6a7) |
 | Sat, 13 Sep 2025 13:56:37 GMT | Nmap vs Wireshark Choosing the Right Tool for Network Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/b414ff18a1b5) |
-| Sat, 13 Sep 2025 13:54:26 GMT | Invisible by Design: A Practical Guide to Online Privacy | Kenny Wolf | [Read More](https://medium.com/p/0f8230f3059e) |
-| Sat, 13 Sep 2025 13:48:44 GMT | DC: 2 VulnHub - Walkthrough [by Rikin] | Rikin | [Read More](https://medium.com/p/e1ec74d3cbe2) |
