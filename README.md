@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 23:32:00 GMT | TryHackMe #9 - DNS in Detail | 0xGroot | [Read More](https://medium.com/p/4a657367054f) |
+| Sat, 13 Sep 2025 23:22:53 GMT | That QR Code Is a TRAP! Don’t Scan It Until You Read This. | Santhosh Kumar | [Read More](https://medium.com/p/e3e6fcf0d8eb) |
+| Sat, 13 Sep 2025 23:21:32 GMT | The Zombie Apocalypse for Your Accounts Is HERE. Is Your Password DEAD or ALIVE? ‍♀️ | Santhosh Kumar | [Read More](https://medium.com/p/11f0e29b44c5) |
 | Sat, 13 Sep 2025 23:01:53 GMT | AI: Your New Best Friend or the Cyber Villain in a Lab Coat? | Kieran Wadforth | [Read More](https://medium.com/p/6d460cadb79c) |
 | Sat, 13 Sep 2025 22:51:23 GMT | CyberDefenders — VaultBreak Lab | jon | [Read More](https://medium.com/p/985b0413fa4b) |
 | Sat, 13 Sep 2025 22:36:36 GMT | PrintNightmare (CVE-2021–34527) | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/67863d6134c7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 14:44:11 GMT | Is Specialized Security Software Really Needed for AI Agents? | tikenari | [Read More](https://medium.com/p/204fa5de3176) |
 | Sat, 13 Sep 2025 14:31:59 GMT | Let Hack Website Tryhackme Walkthrough Team | Mainekhacker | [Read More](https://medium.com/p/5d6ecd8a777c) |
 | Sat, 13 Sep 2025 14:29:12 GMT | Title: The Silent Architect: How I Built a Cyber Defense Ecosystem That Thinks Like an Adversary… | Lazyown Redteam | [Read More](https://medium.com/p/74cbea1e032d) |
-| Sat, 13 Sep 2025 14:24:12 GMT | MindGTC: The Story of the Ultimate Passion Project | MindGTC the next gen. Software Wallet | [Read More](https://medium.com/p/b23b21067826) |
-| Sat, 13 Sep 2025 14:17:42 GMT | Sometimes I Want to be Famous | Ember Forrest | [Read More](https://medium.com/p/cda62026f931) |
-| Sat, 13 Sep 2025 14:17:35 GMT | “ NEVER BE TOO SECURE “ | Chike Umeuduji | [Read More](https://medium.com/p/1102a9ee9bb9) |
