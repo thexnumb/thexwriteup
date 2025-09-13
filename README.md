@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 09:14:06 GMT | Windshield Tags: More Than Meets the Eye? | SilentInject | [Read More](https://medium.com/p/e903493a2ff0) |
+| Sat, 13 Sep 2025 09:13:54 GMT | The Confidence Trick That Got a Town to Help | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/28e2ee9b9cc5) |
+| Sat, 13 Sep 2025 09:13:45 GMT | THM - ItsyBitsy | Francesco Pastore | [Read More](https://medium.com/p/cdd303e5e40d) |
+| Sat, 13 Sep 2025 09:11:49 GMT | Red Flags? A stranger, a request, a border… | ItWasDeserved | [Read More](https://medium.com/p/5455beb8c084) |
+| Sat, 13 Sep 2025 09:02:50 GMT | Breaking the Web (Part 1): Introduction to Web Application Security | Mohammed Fahad | [Read More](https://medium.com/p/56438d4ce8d7) |
+| Sat, 13 Sep 2025 08:57:40 GMT | The Smartest People I Know Are Obsessed With a Skill Many Were Told Is Useless | Vijay Kumar Gupta | [Read More](https://medium.com/p/f316acc0da66) |
+| Sat, 13 Sep 2025 08:57:20 GMT | Hacking the Signal: AI-Powered SDR Recon Kit | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/67d3d463dee9) |
+| Sat, 13 Sep 2025 08:50:06 GMT | Compare the security mechanisms in Django (CSRF, XSS protection) with Flask. | Bhanuloya | [Read More](https://medium.com/p/cdd5a0c663e1) |
+| Sat, 13 Sep 2025 08:49:05 GMT | Step-By-Step Roadmap to Become a SOC Analyst | Rashadul Islam | [Read More](https://medium.com/p/77e0dd0264b2) |
+| Sat, 13 Sep 2025 08:48:07 GMT | VulnHub Kioptrix Level 1 CTF Walkthrough -- Writeup | Amr Eid | [Read More](https://medium.com/p/7dbeead68e75) |
+| Sat, 13 Sep 2025 08:46:40 GMT | The Emotional Firewall | Laurent Balmelli | [Read More](https://medium.com/p/7e6daa98c74c) |
+| Sat, 13 Sep 2025 08:43:18 GMT | PicoCTF Web Exploitation Walkthrough -dont-use-client-side | Deepika  B | [Read More](https://medium.com/p/760b224df44f) |
 | Sat, 13 Sep 2025 08:32:47 GMT | Palo Alto Networks PA-450R Firewalls: Rugged Enterprise-Grade Security | Juara IT Solutions | [Read More](https://medium.com/p/de4257c2f863) |
+| Sat, 13 Sep 2025 08:32:22 GMT | picoCTF2025 — n0s4n1ty 1 | TNTRenjin | [Read More](https://medium.com/p/1da4af9e665e) |
+| Sat, 13 Sep 2025 08:31:41 GMT | How I Made $4,200 Last Month While Working Full-Time | Asma | [Read More](https://medium.com/p/07711f658e5c) |
 | Sat, 13 Sep 2025 08:30:07 GMT | Architecting Intelligence: Building End-to-End Machine Learning Solutions on Azure | Bibhu Ashish Panda | [Read More](https://medium.com/p/a805dce67b90) |
 | Sat, 13 Sep 2025 08:27:59 GMT | Bun vs Node.js: The Runtime Battle of 2025 | Rizqi Mulki | [Read More](https://medium.com/p/78522a3f6d8d) |
 | Sat, 13 Sep 2025 08:20:02 GMT | The Kids Who Hacked the CIA | Maaz Shaikh | [Read More](https://medium.com/p/0b29355265d0) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Sep 2025 23:29:11 GMT | Staying Ahead of the Curve: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5c86195b81fa) |
 | Fri, 12 Sep 2025 23:22:06 GMT | Snipe-IT CSV Import: How I Survived My First Big Upload | Aeden | [Read More](https://medium.com/p/4880bb327149) |
 | Fri, 12 Sep 2025 23:16:09 GMT | The Insider Threat: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/01d734d97bfd) |
-| Fri, 12 Sep 2025 22:30:43 GMT | Do you ever feel the pressure to know everything in cybersecurity? | Cybergilly | [Read More](https://medium.com/p/3de67637a5b0) |
-| Fri, 12 Sep 2025 22:22:34 GMT | The Inferno Below the Ice | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/79ff02255bd9) |
-| Fri, 12 Sep 2025 22:11:42 GMT | TryHackMe #8 - Extending Your Network | 0xGroot | [Read More](https://medium.com/p/f6b646103cd5) |
-| Fri, 12 Sep 2025 22:11:41 GMT | CVE-2025–56448: Replay Attack Vulnerability in Positron PX360BT Car Alarm System | Wagner Alves | [Read More](https://medium.com/p/c9f1ccea6ebe) |
-| Fri, 12 Sep 2025 22:07:42 GMT | TryHackMe #7 - Packets & Frames | 0xGroot | [Read More](https://medium.com/p/582c2ee5a6a6) |
-| Fri, 12 Sep 2025 22:06:29 GMT | Advanced Techniques for Optimizing Authentication in Next.js Applications | @rnab | [Read More](https://medium.com/p/2dad0c003ba5) |
-| Fri, 12 Sep 2025 22:01:45 GMT | TryHackMe #6 - OSI Model | 0xGroot | [Read More](https://medium.com/p/c4223efb5662) |
-| Fri, 12 Sep 2025 21:50:19 GMT | Hackers Hate These 3 API Defenses | Cyber-AppSec | [Read More](https://medium.com/p/6d863a795c6f) |
-| Fri, 12 Sep 2025 21:45:37 GMT | Who’s Selling the Keys to Your Digital Kingdom? Understanding IABs — Initial Access Brokers | Chris Zhang | [Read More](https://medium.com/p/3696dcd2dbce) |
-| Fri, 12 Sep 2025 21:43:28 GMT | CyberDefenders — Amadey Lab | jon | [Read More](https://medium.com/p/4643d1a17911) |
-| Fri, 12 Sep 2025 21:30:55 GMT | The Value of Participating in the Microsoft Tech Community | Cyber Cav | [Read More](https://medium.com/p/bf5f2ad7dcf7) |
-| Fri, 12 Sep 2025 21:25:27 GMT | The Delivery Leaders Economic Edge: Reading the Job Market to Run Better Projects, Programs and… | Santhush | [Read More](https://medium.com/p/03103c4e2d5e) |
-| Fri, 12 Sep 2025 21:24:27 GMT | Decryptify writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a48e1547dcff) |
-| Fri, 12 Sep 2025 21:21:47 GMT | The Role of AI and Automation in Smart Home Security Systems | CSI Security | [Read More](https://medium.com/p/75b8dbed51d2) |
