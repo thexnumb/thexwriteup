@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 21:56:56 GMT | PortSwigger “File path traversal, validation of file extension with null byte bypass” Lab — Çözüm… | Mirac Kayikci | [Read More](https://medium.com/p/7339434ee48e) |
+| Sat, 13 Sep 2025 21:54:34 GMT | Start Journey of Learning Network Security | Kiranjeetkour | [Read More](https://medium.com/p/03bee833b658) |
+| Sat, 13 Sep 2025 21:37:53 GMT | CyberDefenders — DarkCrystal Lab | jon | [Read More](https://medium.com/p/49cfe090927f) |
+| Sat, 13 Sep 2025 21:37:50 GMT | How I set up a SIEM home lab | Martin Yordanov | [Read More](https://medium.com/p/910b5503f0f8) |
 | Sat, 13 Sep 2025 21:31:23 GMT | Why ESG Isn’t a Checkbox — It’s a Growth Strategy | the PhobioSapien | [Read More](https://medium.com/p/84410299deaf) |
 | Sat, 13 Sep 2025 21:23:04 GMT | Sam Altman, Elon Musk, and the Whistleblower: The Controversy Over Suchir Balaji’s Death | Aaron | [Read More](https://medium.com/p/50306daa0abe) |
 | Sat, 13 Sep 2025 21:05:54 GMT | How I Found 5 Cache Flaws in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/b47dee54d267) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 14:08:55 GMT | How I Made Learning Cryptography Simpler | Nastaran Nikzad | [Read More](https://medium.com/p/054f7ba7b33c) |
 | Sat, 13 Sep 2025 14:08:44 GMT | Uncovering Windows Endpoint Artifacts: A Deep Dive into $MFT Analysis | Allen Ace | [Read More](https://medium.com/p/37a7aad780fb) |
 | Sat, 13 Sep 2025 14:05:57 GMT | Connectors CTF Python Sucks | BANKA | [Read More](https://medium.com/p/72260486e021) |
-| Sat, 13 Sep 2025 14:04:14 GMT | Cyber Security Details: Secure Coding Practices | Cyber Security Research | [Read More](https://medium.com/p/1558ed580ab7) |
-| Sat, 13 Sep 2025 14:01:43 GMT | ABTU = Utility, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/f8c2b4848d1f) |
-| Sat, 13 Sep 2025 14:01:02 GMT | I met someone | Stephanie Khobe | [Read More](https://medium.com/p/2478c872a6a7) |
-| Sat, 13 Sep 2025 13:56:37 GMT | Nmap vs Wireshark Choosing the Right Tool for Network Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/b414ff18a1b5) |
