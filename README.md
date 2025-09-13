@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 17:31:42 GMT | Who Wrote This? The Ethics of AI Code | Nexumo | [Read More](https://medium.com/p/4b6b9b76f39f) |
+| Sat, 13 Sep 2025 17:31:42 GMT | The Doomsday Clock is at 89 Seconds to Midnight, and AI is responsible for it? | Nowshin Jahan Jhelek | [Read More](https://medium.com/p/ca7a03748d6a) |
+| Sat, 13 Sep 2025 17:27:09 GMT | Ice - TryHackMe writeup | Cillia | [Read More](https://medium.com/p/794d0521cc28) |
+| Sat, 13 Sep 2025 17:23:57 GMT | Zero-Log Checker: Automating Log Absence Detection in Wazuh | Kurniawanhanif | [Read More](https://medium.com/p/b8e1e86b488e) |
+| Sat, 13 Sep 2025 17:18:34 GMT | Name: Muhammad Awais | Muhammad Awais | [Read More](https://medium.com/p/ec0311332c9b) |
+| Sat, 13 Sep 2025 17:14:32 GMT | How a Personal Security Guard Helps Protect Your Lifestyle, Assets, and Family? | Corporate Security | [Read More](https://medium.com/p/a875ee488ebc) |
+| Sat, 13 Sep 2025 17:12:18 GMT | “Investigative Reversing 1” challenge | oussama | [Read More](https://medium.com/p/5c07897efa43) |
+| Sat, 13 Sep 2025 17:09:57 GMT | How Investigators Recover Deleted Files Using Autopsy | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/c105ae750c13) |
+| Sat, 13 Sep 2025 17:09:21 GMT | Blockchain-Enabled Supply Chain Security: A Framework for Integrity and Trust | Rahul Balaskandan | [Read More](https://medium.com/p/a53d4da37239) |
 | Sat, 13 Sep 2025 17:07:41 GMT | Actuator Endpoints Exposed? You Might Be Leaking Everything | Ujjawal Rohra | [Read More](https://medium.com/p/12ca735a8aa2) |
 | Sat, 13 Sep 2025 17:02:47 GMT | Top 10 AI Vulnerabilities Hackers Are Exploiting — What Every Cybersecurity Pro Must Know | Pratham Shah | [Read More](https://medium.com/p/1225382143bf) |
+| Sat, 13 Sep 2025 17:02:31 GMT | GANDALF-MindfulChat | restdone | [Read More](https://medium.com/p/3d1a67c1a50f) |
 | Sat, 13 Sep 2025 17:00:48 GMT | The Hacktivist with a Paycheck: When Your Beliefs and Your Skills Align | Samina Perveen | [Read More](https://medium.com/p/7fc228e7ce3f) |
 | Sat, 13 Sep 2025 16:58:55 GMT | How did i “Hacked” Nasa without go to the jail | Antonio Rivera Poblete | [Read More](https://medium.com/p/4bf0eebc934b) |
 | Sat, 13 Sep 2025 16:55:13 GMT | Supply chain attack | Petr Roupec | [Read More](https://medium.com/p/3c88b42ab698) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 12:04:45 GMT | Day 89: Post-exploitation file transfer | Nile Okomo | [Read More](https://medium.com/p/6fe9ded3f752) |
 | Sat, 13 Sep 2025 12:02:23 GMT | The Rise of Generative AI in Software Development & Why IT Jobs Are Changing Forever | PRATHMESH BADHE | [Read More](https://medium.com/p/242d3f41633b) |
 | Sat, 13 Sep 2025 11:52:55 GMT | The Insides of a SIEM | Chris Jordan | [Read More](https://medium.com/p/0b96d15bea43) |
-| Sat, 13 Sep 2025 11:50:06 GMT | How I Discovered a Reflected XSS on the MOD UK Police Website (WAF Bypass) | Hassan Ali Arshad | [Read More](https://medium.com/p/5a29627333c3) |
-| Sat, 13 Sep 2025 11:49:55 GMT | What is Cybersecurity? Understanding the Blue Team vs Red Team | MouhibMahadbi | [Read More](https://medium.com/p/eec656ff40ce) |
-| Sat, 13 Sep 2025 11:47:39 GMT | Understanding AI: 5 Things You Actually Need to Know | Ghani Mengal | [Read More](https://medium.com/p/4a7e9033c196) |
-| Sat, 13 Sep 2025 11:47:37 GMT | Breaking Down the Castle Walls: Building a Zero-Trust WireGuard VPN That Actually Works | Joel Wembo | [Read More](https://medium.com/p/fb257de775e9) |
-| Sat, 13 Sep 2025 11:41:50 GMT | Urgent Locksmith — Fast & Reliable Locksmith Services by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/2c61fa8d406f) |
-| Sat, 13 Sep 2025 11:36:01 GMT | DockerLabs Writeup — Pinguinazo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/83e895fdbfe1) |
-| Sat, 13 Sep 2025 11:31:42 GMT | Secure Your Accounts with a Strong Password Generator | WP HELP - LNX Servers - Page Speed - SEO - WEBDEV | [Read More](https://medium.com/p/c60367aa5143) |
-| Sat, 13 Sep 2025 11:30:28 GMT | Cyber Security Training with 100% Job Guarantee! | SoftApp Technologies | [Read More](https://medium.com/p/c37474fc77cb) |
-| Sat, 13 Sep 2025 11:20:10 GMT | The Victory I Didn’t Feel | Exploring, Growing, Evolving: My Life in Action | [Read More](https://medium.com/p/463b595025fa) |
-| Sat, 13 Sep 2025 11:15:45 GMT | I Built a Device That Screams When Suspicious Network Activity Appears | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/26a13c07f662) |
