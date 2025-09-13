@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 07:02:33 GMT | Top 10 Cyber Security Experts in India 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/4e3bbb29a0cd) |
+| Sat, 13 Sep 2025 07:01:46 GMT | Ship Leak Alerts to Slack, Email or Webhooks in Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/712559e75022) |
+| Sat, 13 Sep 2025 06:56:29 GMT | The Growing Threat of API Security Vulnerabilities | Cybersecurity Umbrella | [Read More](https://medium.com/p/cdd4e6ebd3d2) |
+| Sat, 13 Sep 2025 06:51:24 GMT | Smart Rupiya Loan App Customer” Care Helpline Number©️))✅+91(6266384374✅((6266384374 )) ✅Call me.Sma | Smart Rupiya Loan App Customer” Care Helpline Numb | [Read More](https://medium.com/p/3140af37e351) |
+| Sat, 13 Sep 2025 06:47:54 GMT | The Overlooked Risk: Why IoT Devices Need Security Audits | Recover Right | [Read More](https://medium.com/p/e8930ddbdf37) |
+| Sat, 13 Sep 2025 06:46:02 GMT | Best Cyber Risk Consulting Firms in Canada (2025 Edition) | Brigient | [Read More](https://medium.com/p/9794b4611306) |
+| Sat, 13 Sep 2025 06:45:40 GMT | Keys to the Kingdom: How I Hacked a Fortune 500 Company Through Their Mobile App | Iski | [Read More](https://medium.com/p/e26debedd3f3) |
 | Sat, 13 Sep 2025 06:39:42 GMT | Securing CI/CD Through Offensive Testing | @SecBySheikh | [Read More](https://medium.com/p/d35fdffe8b2e) |
 | Sat, 13 Sep 2025 06:38:38 GMT | OTP BYPASS TECHNIQUE | Mr Horbio | [Read More](https://medium.com/p/508e20a599e8) |
 | Sat, 13 Sep 2025 06:37:29 GMT | Cybersecurity & Secure Coding Practices: Why Your Code Is the First Line of Defense | Ankit Singh | [Read More](https://medium.com/p/5d8f3fb24a5c) |
@@ -108,10 +115,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 19:33:14 GMT | DFIR digital forensics CTF Connectors | amer7x | [Read More](https://medium.com/p/99513f4c09a9) |
 | Fri, 12 Sep 2025 19:25:12 GMT | CyberDefenders — Volatility Traces Lab | jon | [Read More](https://medium.com/p/b9e77d56dc98) |
 | Fri, 12 Sep 2025 19:22:16 GMT | Ransomware Evolution: From Locking Files to Double Extortion | Sukhveer Singh | [Read More](https://medium.com/p/c1e84d4f250f) |
-| Fri, 12 Sep 2025 19:21:46 GMT | The Recursive Trap: Reentrancy Attacks Made Simple | Aditya Raj | [Read More](https://medium.com/p/d444309b9e93) |
-| Fri, 12 Sep 2025 19:19:29 GMT | The Backbone Under Attack: Why Telecommunications Psychology Creates National Security Blind Spots | Giuseppe Canale | [Read More](https://medium.com/p/22e8834dc246) |
-| Fri, 12 Sep 2025 19:18:55 GMT | OSINT: Cheater CTF Connectors | amer7x | [Read More](https://medium.com/p/50ec790f0d86) |
-| Fri, 12 Sep 2025 19:13:23 GMT | Quick Locksmith — Professional Locksmith Services by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/0d8207c24626) |
-| Fri, 12 Sep 2025 19:12:12 GMT | AI Security 101: How Hackers Trick Chatbots (And Why You Should Care) | Mehmet Özel | [Read More](https://medium.com/p/afb00e7977c9) |
-| Fri, 12 Sep 2025 18:58:30 GMT | CYBER SECURITY | Bushrafaisal | [Read More](https://medium.com/p/554c46ce4b79) |
-| Fri, 12 Sep 2025 18:57:59 GMT | Stop Buying DevOps Tools Before You Even Know What Problem You’re Solving | Zudonu Osomudeya | [Read More](https://medium.com/p/1e68eeed2490) |
