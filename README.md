@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 19:10:45 GMT | OWASP Juice Shop Challenge : 1— Scoreboard Discovery | theOrthodox | [Read More](https://medium.com/p/ff6348952002) |
+| Sat, 13 Sep 2025 18:57:47 GMT | How I hacked the Placement portal of my college to leak the entire SQL database | Adithya M S | [Read More](https://medium.com/p/b424269916db) |
+| Sat, 13 Sep 2025 18:50:43 GMT | Forensic Insights: How the NTFS USN Journal ($J) Reveals System Activity | Allen Ace | [Read More](https://medium.com/p/1e8afe4e337b) |
+| Sat, 13 Sep 2025 18:43:55 GMT | How I Found a Critical IDOR Leading to Full Account Takeover and Data Leakage | Andrey Dolya | [Read More](https://medium.com/p/39c3d85c8ecd) |
+| Sat, 13 Sep 2025 18:43:40 GMT | Designing a Antivirus System | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6d5cd127e0a3) |
+| Sat, 13 Sep 2025 18:42:32 GMT | Is there anything that cannot hack you? | Ruveyda | [Read More](https://medium.com/p/e0ae6f7ec564) |
+| Sat, 13 Sep 2025 18:42:23 GMT | Unlock Einstein AI for Salesforce Magic | Salesforce BLOG | [Read More](https://medium.com/p/725bac32f0d1) |
+| Sat, 13 Sep 2025 18:39:18 GMT | Hack The Box — Environment wolkthrough | SubhaDip | [Read More](https://medium.com/p/6a9af5281de0) |
 | Sat, 13 Sep 2025 18:31:55 GMT | kioptrix L1 the simplest walk-through part2….! | Azaleas | [Read More](https://medium.com/p/a615096ec0ac) |
 | Sat, 13 Sep 2025 18:28:32 GMT | Introducing MOLE (Mass Open Links Extension) | Emma Waterman | [Read More](https://medium.com/p/eab7af3fb597) |
 | Sat, 13 Sep 2025 18:24:44 GMT | SIN #5 - The Sin of Playing Small in Testing: Wasting Tools, Wasting Talent | InnernetWorld - The Voice of HimanShunya | [Read More](https://medium.com/p/1884d711b1cf) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 12:51:11 GMT | The Sound That Was Never There | O. J. Okpabi | [Read More](https://medium.com/p/ce6f54b8fcf7) |
 | Sat, 13 Sep 2025 12:41:29 GMT | The House That Was Never Rebuilt | O. J. Okpabi | [Read More](https://medium.com/p/58cd335778be) |
 | Sat, 13 Sep 2025 12:39:54 GMT | Parking Lot CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/6b2320487286) |
-| Sat, 13 Sep 2025 12:34:39 GMT | The Obsidian Shores of Varyon | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/a9f86fb53266) |
-| Sat, 13 Sep 2025 12:30:52 GMT | The Night The Engines Held Their Breath | O. J. Okpabi | [Read More](https://medium.com/p/79482c5d9ded) |
-| Sat, 13 Sep 2025 12:27:47 GMT | The Evolution of Malware: An In-Depth Look at Polymorphic and Metamorphic Threats | Giorgi Akhobadze | [Read More](https://medium.com/p/2a8fc872fbc5) |
-| Sat, 13 Sep 2025 12:27:30 GMT | Beyond Passwords: A Comprehensive Guide to Modern Multi-Factor Authentication Methods | Giorgi Akhobadze | [Read More](https://medium.com/p/f2deb07985db) |
-| Sat, 13 Sep 2025 12:26:56 GMT | A Complete Guide to Network Forensics: Investigating and Analyzing Network Traffic for Intrusions | Giorgi Akhobadze | [Read More](https://medium.com/p/ea0ce35a7c6b) |
-| Sat, 13 Sep 2025 12:20:54 GMT | The Sound Of Clicking Keys | O. J. Okpabi | [Read More](https://medium.com/p/f393e3bcfa19) |
-| Sat, 13 Sep 2025 12:20:06 GMT | A Critical Review of Some Cybersecurity Frameworks: OWASP COMPASS, MITRE ATLAS | noailabs | [Read More](https://medium.com/p/065aee439ac8) |
-| Sat, 13 Sep 2025 12:16:49 GMT | Seamless Server Uplift From Shared To VPS | Milaharris | [Read More](https://medium.com/p/bb5cb2e9eed0) |
