@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 09:27:27 GMT | I Made a Fake Tech Startup That Got Real Job Applications | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ce3f23c00408) |
+| Sat, 13 Sep 2025 09:23:11 GMT | Security Documentation as a Competitive Advantage | Abdullateef Hameed | [Read More](https://medium.com/p/af187e622518) |
+| Sat, 13 Sep 2025 09:23:08 GMT | China unveils AI 100 times faster than traditional models | Ilyassbourich | [Read More](https://medium.com/p/e3278fe02b0e) |
+| Sat, 13 Sep 2025 09:22:06 GMT | How GPS Tracking Transforms the Security of Cargo Transportation | Sahaya Prawin | [Read More](https://medium.com/p/5d8a40b5e2cb) |
+| Sat, 13 Sep 2025 09:21:52 GMT | SQL Injection: The 20-Year-Old Bug That Still Haunts the Web | Allwyn Vincent | [Read More](https://medium.com/p/7f808bd07ad8) |
 | Sat, 13 Sep 2025 09:14:06 GMT | Windshield Tags: More Than Meets the Eye? | SilentInject | [Read More](https://medium.com/p/e903493a2ff0) |
+| Sat, 13 Sep 2025 09:13:56 GMT | Audit Trails in Web Applications: Why Detailed Logs Are Your Silent Guardian | Amaka okoye | [Read More](https://medium.com/p/2e58a17dcc83) |
 | Sat, 13 Sep 2025 09:13:54 GMT | The Confidence Trick That Got a Town to Help | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/28e2ee9b9cc5) |
 | Sat, 13 Sep 2025 09:13:45 GMT | THM - ItsyBitsy | Francesco Pastore | [Read More](https://medium.com/p/cdd303e5e40d) |
 | Sat, 13 Sep 2025 09:11:49 GMT | Red Flags? A stranger, a request, a border… | ItWasDeserved | [Read More](https://medium.com/p/5455beb8c084) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 00:01:44 GMT | Wfuzz: Fuzzing Web for Pentesting and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/06eb43124603) |
 | Sat, 13 Sep 2025 00:00:08 GMT | CSCE 439 Topic 1 | Raj Nallanthighal | [Read More](https://medium.com/p/ee556e183a75) |
 | Fri, 12 Sep 2025 23:50:46 GMT | Scam Call Centers: A Hidden Global Threat | livemari | [Read More](https://medium.com/p/7757e1b652fc) |
-| Fri, 12 Sep 2025 23:41:58 GMT | The Dark Web Exposed: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5ac09094f09f) |
-| Fri, 12 Sep 2025 23:35:06 GMT | Cyber Security Details: Compliance and Governance | Cyber Security Research | [Read More](https://medium.com/p/b5a6b32c73d6) |
-| Fri, 12 Sep 2025 23:29:25 GMT | My EWPTX Exam Experience: A Practical Guide for Future Test Takers | Omnia Mohamed | [Read More](https://medium.com/p/4c5cef752d25) |
-| Fri, 12 Sep 2025 23:29:11 GMT | Staying Ahead of the Curve: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/5c86195b81fa) |
-| Fri, 12 Sep 2025 23:22:06 GMT | Snipe-IT CSV Import: How I Survived My First Big Upload | Aeden | [Read More](https://medium.com/p/4880bb327149) |
-| Fri, 12 Sep 2025 23:16:09 GMT | The Insider Threat: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/01d734d97bfd) |
