@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 03:25:47 GMT | Automating IDOR Fuzzing with Caido | Trixia Horner | [Read More](https://medium.com/p/b6d894228bb0) |
+| Sat, 13 Sep 2025 03:19:41 GMT | Detecting Web Attacks - Tryhackme | Aaron | [Read More](https://medium.com/p/202922adc012) |
 | Sat, 13 Sep 2025 03:01:43 GMT | Understanding CORS | Auriga Aristo | [Read More](https://medium.com/p/fd0c54984a67) |
 | Sat, 13 Sep 2025 03:01:43 GMT | How to Reset a Keypad Door Lock: Simple Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/0b00aaafa113) |
 | Sat, 13 Sep 2025 02:48:22 GMT | How to Make mspaint Say “Meow”: A Playful Guide to DLL Injection | Itz.sanskarr | [Read More](https://medium.com/p/edf748eb9558) |
@@ -111,5 +113,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 17:41:22 GMT | Two-Factor Authentication (2FA) in Laravel Starter Kits: A Practical Guide | Sadique Ali | [Read More](https://medium.com/p/a68e4e8356b0) |
 | Fri, 12 Sep 2025 17:36:37 GMT | Vulnerability Management as a Service: A Smarter Way to Stay Secure | SafeAeon Inc. | [Read More](https://medium.com/p/798860f4a0f7) |
 | Fri, 12 Sep 2025 17:35:29 GMT | hacking code | Omegartyson | [Read More](https://medium.com/p/591fed35c084) |
-| Fri, 12 Sep 2025 17:33:42 GMT | I found two security issues on my college blog website | Alanbiju | [Read More](https://medium.com/p/ad372666f30d) |
-| Fri, 12 Sep 2025 17:31:28 GMT | Your Project Deserves a Safe Home; Harden Your Linux Server First | Yannik Zeyer | [Read More](https://medium.com/p/9954fe4174a3) |
