@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 08:14:54 GMT | The Shocking Truth About PostgreSQL Locks (PostgreSQL documentation won’t tell you) | Rizqi Mulki | [Read More](https://medium.com/p/340c220734f1) |
+| Sat, 13 Sep 2025 08:07:53 GMT | How IT Lifecycle Management Can Strengthen Cybersecurity in Your Business | Yuvi Aggarwal | [Read More](https://medium.com/p/ffc5e8054e48) |
+| Sat, 13 Sep 2025 08:04:00 GMT | PostgreSQL vs Vector Databases: Who Wins the Speed War in 2025? | Rizqi Mulki | [Read More](https://medium.com/p/e812559acd95) |
+| Sat, 13 Sep 2025 08:01:45 GMT | Stop Copy-Pasting Commands Like a Caveman: Master Bash Variables & Command Magic | MayhemCode | [Read More](https://medium.com/p/8d2db290af93) |
+| Sat, 13 Sep 2025 07:58:11 GMT | Intro to SQL Injection | Swetha | [Read More](https://medium.com/p/26d25c52ff55) |
+| Sat, 13 Sep 2025 07:56:18 GMT | PostgreSQL Autovacuum Horror Stories (and How to Survive Them) | Rizqi Mulki | [Read More](https://medium.com/p/8be0a5e2f6a8) |
+| Sat, 13 Sep 2025 07:37:49 GMT | Cybersecurity Crisis: The Urgent Boardroom Priority for Australian Business | FUZN | [Read More](https://medium.com/p/d8aae6dcdef4) |
 | Sat, 13 Sep 2025 07:37:23 GMT | Defense Built on the Reliability of Code: Software Quality Assurance with AQAP-2210 | Umut Akbulut | [Read More](https://medium.com/p/cbe5db03278b) |
+| Sat, 13 Sep 2025 07:35:56 GMT | Safe Edges, Indian Smart Contract Firm, Completes Another High-Profile Audit for Podha Protocol | Piyush shukla | [Read More](https://medium.com/p/e5d3f9faadb5) |
+| Sat, 13 Sep 2025 07:31:41 GMT | Extract — Load — Upload - A $20000 File Read Bug POC Methodology | It4chis3c | [Read More](https://medium.com/p/931383c987b2) |
 | Sat, 13 Sep 2025 07:27:16 GMT | PicoCTF Web Exploitation Walkthrough -GET aHEAD | Deepika  B | [Read More](https://medium.com/p/618bd6b383fb) |
 | Sat, 13 Sep 2025 07:21:09 GMT | Top Ransomware Recovery Services for Canadian Organizations in 2025 | Brigient | [Read More](https://medium.com/p/770b614d236c) |
 | Sat, 13 Sep 2025 07:18:09 GMT | Tryhackme - Invite Only walkthrough | Aryan Shrestha | [Read More](https://medium.com/p/20be48cfb6e4) |
@@ -106,12 +115,3 @@ The Security Leader’s Dilemma | Graylog | [Read More](https://medium.com/p/7b5
 | Fri, 12 Sep 2025 20:45:02 GMT | BSides Belfast 2025 — My experience. | JD | [Read More](https://medium.com/p/f97d5659e166) |
 | Fri, 12 Sep 2025 20:43:59 GMT | Humans as a Cybersecurity Strength | Matthew.Rosenquist | [Read More](https://medium.com/p/02dee964cf02) |
 | Fri, 12 Sep 2025 20:38:21 GMT | The Double-Edged Sword: When AI Becomes a Tool for Fraud | Mohd Yaseen Khan | [Read More](https://medium.com/p/57a1891075e4) |
-| Fri, 12 Sep 2025 20:37:54 GMT | Formjacking Explained: How Hackers Steal Data Through Online Forms | Akshay Chauhan | [Read More](https://medium.com/p/b9a086411e26) |
-| Fri, 12 Sep 2025 20:00:35 GMT | Case de Sucesso: Conectividade Inteligente com Wi-Fi como Serviço na Caixa Asset | L3TI Soluções em Tecnologia | [Read More](https://medium.com/p/e881da8daf7d) |
-| Fri, 12 Sep 2025 19:52:17 GMT | Unlock Hidden Information with Professional OSINT Investigation | Rakib Hasan Akas | [Read More](https://medium.com/p/66f00710f54d) |
-| Fri, 12 Sep 2025 19:51:54 GMT | The Bug That Only Appeared on Phones in Airplane Mode | Dax | [Read More](https://medium.com/p/1c541414a4da) |
-| Fri, 12 Sep 2025 19:48:37 GMT | Pasif Bilgi Toplama | Ömer Kaan Kurt | [Read More](https://medium.com/p/f9434c2e3048) |
-| Fri, 12 Sep 2025 19:47:23 GMT | L1 SOC Automation Workflow | Sneh bavarva | [Read More](https://medium.com/p/471902a3940f) |
-| Fri, 12 Sep 2025 19:43:38 GMT | Breaking Digital Barriers Through Amnezia WireGuard’s Deep Packet Inspection Obfuscation | Utso Csekuet | [Read More](https://medium.com/p/045a538e2e70) |
-| Fri, 12 Sep 2025 19:42:55 GMT | From Recon to Results: A Beginner’s Guide to Nmap | OxErvin | [Read More](https://medium.com/p/7f0faf37d411) |
-| Fri, 12 Sep 2025 19:37:15 GMT | The $1000 Critical Bug: Unauthorised Access Leading to Support Admin Panel Takeover | V3D | [Read More](https://medium.com/p/572d687566cd) |
