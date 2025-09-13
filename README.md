@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 14:31:59 GMT | Let Hack Website Tryhackme Walkthrough Team | Mainekhacker | [Read More](https://medium.com/p/5d6ecd8a777c) |
+| Sat, 13 Sep 2025 14:24:12 GMT | MindGTC: The Story of the Ultimate Passion Project | MindGTC the next gen. Software Wallet | [Read More](https://medium.com/p/b23b21067826) |
+| Sat, 13 Sep 2025 14:17:42 GMT | Sometimes I Want to be Famous | Ember Forrest | [Read More](https://medium.com/p/cda62026f931) |
+| Sat, 13 Sep 2025 14:17:35 GMT | “ NEVER BE TOO SECURE “ | Chike Umeuduji | [Read More](https://medium.com/p/1102a9ee9bb9) |
+| Sat, 13 Sep 2025 14:10:34 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and… | Chirag Vyas | [Read More](https://medium.com/p/b299ab47692c) |
+| Sat, 13 Sep 2025 14:08:55 GMT | How I Made Learning Cryptography Simpler | Nastaran Nikzad | [Read More](https://medium.com/p/054f7ba7b33c) |
+| Sat, 13 Sep 2025 14:08:44 GMT | Uncovering Windows Endpoint Artifacts: A Deep Dive into $MFT Analysis | Allen Ace | [Read More](https://medium.com/p/37a7aad780fb) |
+| Sat, 13 Sep 2025 14:05:57 GMT | Connectors CTF Python Sucks | BANKA | [Read More](https://medium.com/p/72260486e021) |
+| Sat, 13 Sep 2025 14:04:14 GMT | Cyber Security Details: Secure Coding Practices | Cyber Security Research | [Read More](https://medium.com/p/1558ed580ab7) |
 | Sat, 13 Sep 2025 14:01:43 GMT | ABTU = Utility, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/f8c2b4848d1f) |
 | Sat, 13 Sep 2025 14:01:02 GMT | I met someone | Stephanie Khobe | [Read More](https://medium.com/p/2478c872a6a7) |
 | Sat, 13 Sep 2025 13:56:37 GMT | Nmap vs Wireshark Choosing the Right Tool for Network Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/b414ff18a1b5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 09:13:56 GMT | Audit Trails in Web Applications: Why Detailed Logs Are Your Silent Guardian | Amaka okoye | [Read More](https://medium.com/p/2e58a17dcc83) |
 | Sat, 13 Sep 2025 09:13:54 GMT | The Confidence Trick That Got a Town to Help | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/28e2ee9b9cc5) |
 | Sat, 13 Sep 2025 09:13:45 GMT | THM - ItsyBitsy | Francesco Pastore | [Read More](https://medium.com/p/cdd303e5e40d) |
-| Sat, 13 Sep 2025 09:11:49 GMT | Red Flags? A stranger, a request, a border… | ItWasDeserved | [Read More](https://medium.com/p/5455beb8c084) |
-| Sat, 13 Sep 2025 09:02:50 GMT | Breaking the Web (Part 1): Introduction to Web Application Security | Mohammed Fahad | [Read More](https://medium.com/p/56438d4ce8d7) |
-| Sat, 13 Sep 2025 08:57:40 GMT | The Smartest People I Know Are Obsessed With a Skill Many Were Told Is Useless | Vijay Kumar Gupta | [Read More](https://medium.com/p/f316acc0da66) |
-| Sat, 13 Sep 2025 08:57:20 GMT | Hacking the Signal: AI-Powered SDR Recon Kit | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/67d3d463dee9) |
-| Sat, 13 Sep 2025 08:50:06 GMT | Compare the security mechanisms in Django (CSRF, XSS protection) with Flask. | Bhanuloya | [Read More](https://medium.com/p/cdd5a0c663e1) |
-| Sat, 13 Sep 2025 08:49:05 GMT | Step-By-Step Roadmap to Become a SOC Analyst | Rashadul Islam | [Read More](https://medium.com/p/77e0dd0264b2) |
-| Sat, 13 Sep 2025 08:48:07 GMT | VulnHub Kioptrix Level 1 CTF Walkthrough -- Writeup | Amr Eid | [Read More](https://medium.com/p/7dbeead68e75) |
-| Sat, 13 Sep 2025 08:46:40 GMT | The Emotional Firewall | Laurent Balmelli | [Read More](https://medium.com/p/7e6daa98c74c) |
-| Sat, 13 Sep 2025 08:43:18 GMT | PicoCTF Web Exploitation Walkthrough -dont-use-client-side | Deepika  B | [Read More](https://medium.com/p/760b224df44f) |
