@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 13:29:33 GMT | JANGOW 1.0.1 VULNHUB | Qargi | [Read More](https://medium.com/p/d3cfccf078d3) |
+| Sat, 13 Sep 2025 13:29:32 GMT | Cybersecurity & Digital Privacy: Staying Safe in the Digital Age | Yashika | [Read More](https://medium.com/p/af5bf6920dec) |
+| Sat, 13 Sep 2025 13:26:03 GMT | Secure Your CI/CD Pipeline with AI: A 2025 Developer’s Guide | Umesh Anjula | [Read More](https://medium.com/p/5965e3b79a61) |
+| Sat, 13 Sep 2025 13:23:00 GMT | TO BECOME A SOC EXPERT | vulnhunter | [Read More](https://medium.com/p/7a628a1e65fb) |
+| Sat, 13 Sep 2025 13:22:22 GMT | Reverse Engineer Solution to hex0rc1st’s Unpack Reactor | Nathan C | [Read More](https://medium.com/p/d65f23bc6915) |
+| Sat, 13 Sep 2025 13:22:09 GMT | Day 75 — Pausing Natas at Level 12 | Jinay | [Read More](https://medium.com/p/49ca3beca998) |
+| Sat, 13 Sep 2025 13:21:19 GMT | State Police in Nigeria: Solution, Illusion, or Wrong Timing? | Olushola Oludotun | [Read More](https://medium.com/p/c1c06baa4f28) |
 | Sat, 13 Sep 2025 13:16:58 GMT | Limitations | Lucien Michaux | [Read More](https://medium.com/p/ad8b6b0a3532) |
 | Sat, 13 Sep 2025 13:08:23 GMT | The Linux Process Journey — xiccd (X Color Management Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bd7964618afe) |
 | Sat, 13 Sep 2025 12:51:40 GMT | SQL Injection in 2025: Still the Silent System Killer | Rizqi Mulki | [Read More](https://medium.com/p/87139f3e0133) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 08:04:00 GMT | PostgreSQL vs Vector Databases: Who Wins the Speed War in 2025? | Rizqi Mulki | [Read More](https://medium.com/p/e812559acd95) |
 | Sat, 13 Sep 2025 08:01:45 GMT | Stop Copy-Pasting Commands Like a Caveman: Master Bash Variables & Command Magic | MayhemCode | [Read More](https://medium.com/p/8d2db290af93) |
 | Sat, 13 Sep 2025 07:58:11 GMT | Intro to SQL Injection | Swetha | [Read More](https://medium.com/p/26d25c52ff55) |
-| Sat, 13 Sep 2025 07:56:18 GMT | PostgreSQL Autovacuum Horror Stories (and How to Survive Them) | Rizqi Mulki | [Read More](https://medium.com/p/8be0a5e2f6a8) |
-| Sat, 13 Sep 2025 07:37:49 GMT | Cybersecurity Crisis: The Urgent Boardroom Priority for Australian Business | FUZN | [Read More](https://medium.com/p/d8aae6dcdef4) |
-| Sat, 13 Sep 2025 07:37:23 GMT | Defense Built on the Reliability of Code: Software Quality Assurance with AQAP-2210 | Umut Akbulut | [Read More](https://medium.com/p/cbe5db03278b) |
-| Sat, 13 Sep 2025 07:35:56 GMT | Safe Edges, Indian Smart Contract Firm, Completes Another High-Profile Audit for Podha Protocol | Piyush shukla | [Read More](https://medium.com/p/e5d3f9faadb5) |
-| Sat, 13 Sep 2025 07:31:41 GMT | Extract — Load — Upload - A $20000 File Read Bug POC Methodology | It4chis3c | [Read More](https://medium.com/p/931383c987b2) |
-| Sat, 13 Sep 2025 07:27:16 GMT | PicoCTF Web Exploitation Walkthrough -GET aHEAD | Deepika  B | [Read More](https://medium.com/p/618bd6b383fb) |
-| Sat, 13 Sep 2025 07:21:09 GMT | Top Ransomware Recovery Services for Canadian Organizations in 2025 | Brigient | [Read More](https://medium.com/p/770b614d236c) |
