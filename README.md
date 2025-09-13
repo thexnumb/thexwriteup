@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Sep 2025 20:17:18 GMT | Supercharge Your Bug Bounty Toolkit: API Testing, DTO Validation, and Tree-sitter Analysis | BugHunteroX | [Read More](https://medium.com/p/a51cf74e6f1b) |
+| Sat, 13 Sep 2025 20:07:44 GMT | My CEH v13 Journey: Module 4 — Scanning Networks | Rohan Pandey | [Read More](https://medium.com/p/38ee023fd107) |
+| Sat, 13 Sep 2025 19:57:08 GMT | Let me help you | notawriter | [Read More](https://medium.com/p/59f1525543b1) |
+| Sat, 13 Sep 2025 19:48:16 GMT | Balancing Compliance and Risk: The Influence of Regulatory Requirements on Information Assurance… | Motta | [Read More](https://medium.com/p/d14bf8c1b252) |
+| Sat, 13 Sep 2025 19:47:14 GMT | “The Password is Dying — What Comes Next?” | Hiya Sharma | [Read More](https://medium.com/p/4e0ae3e33806) |
+| Sat, 13 Sep 2025 19:46:13 GMT | From Bug to Browser: How I Turned Breaking Things Into Building Something Better | Viratavi | [Read More](https://medium.com/p/5400275383e4) |
+| Sat, 13 Sep 2025 19:44:36 GMT | Linux Capabilities & Exploitation (Beyond SUID) | Cybersecplayground | [Read More](https://medium.com/p/1b79f51f5204) |
+| Sat, 13 Sep 2025 19:40:40 GMT | UUIDs: The Secret Identity Cards of the Digital World | Lince Mathew | [Read More](https://medium.com/p/2fa4f901ae0d) |
+| Sat, 13 Sep 2025 19:36:57 GMT | Planning Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/25720a1d21a0) |
 | Sat, 13 Sep 2025 19:32:26 GMT | Understanding Authentication and Authorization: The Backbone of Modern Security | Monil Jain | [Read More](https://medium.com/p/1d675ac6de68) |
 | Sat, 13 Sep 2025 19:22:09 GMT | XRP Tundra Security: How Multiple Audits and Team Verification Build Unshakeable Trust | XRP Tundra | [Read More](https://medium.com/p/a3f9f2af94c7) |
 | Sat, 13 Sep 2025 19:10:45 GMT | OWASP Juice Shop Challenge : 1— Scoreboard Discovery | theOrthodox | [Read More](https://medium.com/p/ff6348952002) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 13:39:47 GMT | Climate Change and Pakistan’s Vulnerability | bisma seo | [Read More](https://medium.com/p/a909a86f101b) |
 | Sat, 13 Sep 2025 13:39:35 GMT | Nym in August 2025: বিকেন্দ্রীকৃত গোপনীয়তার পথে আরেক ধাপ অগ্রগতি | Rabib Bin Nur | [Read More](https://medium.com/p/7aa9e32db29b) |
 | Sat, 13 Sep 2025 13:37:41 GMT | $1,500 Bounty: Business Logic Flaw in Project Secrets Management | Abhi Sharma | [Read More](https://medium.com/p/4b985175071e) |
-| Sat, 13 Sep 2025 13:29:33 GMT | JANGOW 1.0.1 VULNHUB | Qargi | [Read More](https://medium.com/p/d3cfccf078d3) |
-| Sat, 13 Sep 2025 13:29:32 GMT | Cybersecurity & Digital Privacy: Staying Safe in the Digital Age | Yashika | [Read More](https://medium.com/p/af5bf6920dec) |
-| Sat, 13 Sep 2025 13:26:03 GMT | Secure Your CI/CD Pipeline with AI: A 2025 Developer’s Guide | Umesh Anjula | [Read More](https://medium.com/p/5965e3b79a61) |
-| Sat, 13 Sep 2025 13:23:00 GMT | TO BECOME A SOC EXPERT | vulnhunter | [Read More](https://medium.com/p/7a628a1e65fb) |
-| Sat, 13 Sep 2025 13:22:22 GMT | Reverse Engineer Solution to hex0rc1st’s Unpack Reactor | Nathan C | [Read More](https://medium.com/p/d65f23bc6915) |
-| Sat, 13 Sep 2025 13:22:09 GMT | Day 75 — Pausing Natas at Level 12 | Jinay | [Read More](https://medium.com/p/49ca3beca998) |
-| Sat, 13 Sep 2025 13:21:19 GMT | State Police in Nigeria: Solution, Illusion, or Wrong Timing? | Olushola Oludotun | [Read More](https://medium.com/p/c1c06baa4f28) |
-| Sat, 13 Sep 2025 13:16:58 GMT | Limitations | Lucien Michaux | [Read More](https://medium.com/p/ad8b6b0a3532) |
-| Sat, 13 Sep 2025 13:08:23 GMT | The Linux Process Journey — xiccd (X Color Management Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bd7964618afe) |
