@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 07:01:49 GMT | Add a Credential Leak Check to Your App with One API Key | Alexandre Vandamme | [Read More](https://medium.com/p/d35745f8dab3) |
+| Sun, 14 Sep 2025 06:48:54 GMT | Worried About Rug Pulls in Crypto? Here’s How to Protect Your Token | Solana Token Creator | [Read More](https://medium.com/p/1eabe0f197c5) |
+| Sun, 14 Sep 2025 06:48:02 GMT | Will AI replace cybersecurity roles? Short answer: AI replaces tasks before it replaces titles. | Roger Millar | [Read More](https://medium.com/p/760bdc19c6b6) |
+| Sun, 14 Sep 2025 06:39:04 GMT | The Dark Side of AI Productivity Hacks: Are We Burning Out Faster? | Naila Ahsan | [Read More](https://medium.com/p/fa863bb278fb) |
 | Sun, 14 Sep 2025 06:32:44 GMT | Android vs iOS Security: Which Is Really Safer? | Abida Adra | [Read More](https://medium.com/p/c2688ddb2e2a) |
 | Sun, 14 Sep 2025 06:08:46 GMT | picoCTF basic-mod2 | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/e093286e3b18) |
 | Sun, 14 Sep 2025 06:01:57 GMT | I Built My Own PC Vulnerability Scanner (and You Can Too!) | VidyaRao008 | [Read More](https://medium.com/p/2be4a67c91d1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 18:42:23 GMT | Unlock Einstein AI for Salesforce Magic | Salesforce BLOG | [Read More](https://medium.com/p/725bac32f0d1) |
 | Sat, 13 Sep 2025 18:39:18 GMT | Hack The Box — Environment wolkthrough | SubhaDip | [Read More](https://medium.com/p/6a9af5281de0) |
 | Sat, 13 Sep 2025 18:31:55 GMT | kioptrix L1 the simplest walk-through part2….! | Azaleas | [Read More](https://medium.com/p/a615096ec0ac) |
-| Sat, 13 Sep 2025 18:28:32 GMT | Introducing MOLE (Mass Open Links Extension) | Emma Waterman | [Read More](https://medium.com/p/eab7af3fb597) |
-| Sat, 13 Sep 2025 18:24:44 GMT | SIN #5 - The Sin of Playing Small in Testing: Wasting Tools, Wasting Talent | InnernetWorld - The Voice of HimanShunya | [Read More](https://medium.com/p/1884d711b1cf) |
-| Sat, 13 Sep 2025 18:23:11 GMT | If you are IT student, this is for you | Ahamed Rimshan | [Read More](https://medium.com/p/de2d7adbbf72) |
-| Sat, 13 Sep 2025 18:12:29 GMT | How AI Is Reshaping the Future of Search: From Keywords to Personal Experience | MARYAM NOUWARY | [Read More](https://medium.com/p/7891fc27f30a) |
