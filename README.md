@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 20:58:34 GMT | Think Like a Hacker: Strengthening Security Through Penetration Testing | Asmaahardawa | [Read More](https://medium.com/p/4c7da95a868d) |
+| Sun, 14 Sep 2025 20:50:41 GMT | SIGNS TO SPOT A CELEBRITY SCAMMER AND IMPOSTER | Zabra | [Read More](https://medium.com/p/922bce38cef1) |
+| Sun, 14 Sep 2025 20:45:37 GMT | No One Ever Expects the Security Inquisition | TD | [Read More](https://medium.com/p/9749c898ed91) |
+| Sun, 14 Sep 2025 20:43:12 GMT | My Mind Is Blown: Is Eye-Tracking the Next Big Thing? | Kajal Khatri | [Read More](https://medium.com/p/73eae11ba731) |
+| Sun, 14 Sep 2025 20:37:33 GMT | When Basic Discovery Commands Signal Trouble | Raynard Waits | [Read More](https://medium.com/p/fe716a6deaf0) |
+| Sun, 14 Sep 2025 20:34:31 GMT | BankingTroubles Lab-CyberDefender-SOC-Analyst-Tier 3 | Suuaad | [Read More](https://medium.com/p/6b4c076b7b8b) |
 | Sun, 14 Sep 2025 20:24:50 GMT | Protégez l’IA des pirates : anticipez leurs attaques efficacement | L'ABESTIT | [Read More](https://medium.com/p/77eb714288e1) |
 | Sun, 14 Sep 2025 20:22:10 GMT | Largest npm Hack in History: 2 Billion Weekly Downloads Compromised in Critical Supply Chain Attack | Hamza Khalid | [Read More](https://medium.com/p/ea3bfe0065e6) |
 | Sun, 14 Sep 2025 20:22:03 GMT | How Hackers and Investigators Use OSINT to Gather Information | Prem Prasad Pradhan | [Read More](https://medium.com/p/090af25129d4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 14:53:26 GMT | The Bug Behind the Delete Button: How I Found a Critical IDOR | Antonio Rivera Poblete | [Read More](https://medium.com/p/2ea938226f7b) |
 | Sun, 14 Sep 2025 14:53:16 GMT | Kerberos Unlocked (Part 1): The Flow of Authentication | Beacon Bytes | [Read More](https://medium.com/p/d6566405f563) |
 | Sun, 14 Sep 2025 14:49:01 GMT | The Strength of Authentic Vulnerability | José Andrés Olivera Amato | [Read More](https://medium.com/p/2870af84ae3c) |
-| Sun, 14 Sep 2025 14:48:38 GMT | Zero Trust + AI = The Future OEMs Must Build For | Dr. Deep Pandey | [Read More](https://medium.com/p/f2a6e80ee724) |
-| Sun, 14 Sep 2025 14:48:16 GMT | Hack This Site — Basic | xecureyan | [Read More](https://medium.com/p/df0ba91fe2de) |
-| Sun, 14 Sep 2025 14:45:43 GMT | Best Practices for AWS DevOps in 2025: How AI + GitOps + Safer Infrastructure Saved My Skin After… | AbdulRahman Mostafa | [Read More](https://medium.com/p/265916ac739e) |
-| Sun, 14 Sep 2025 14:44:21 GMT | Break the Limits: How to Bypass API Rate Limits for Big Bounty Wins | Monika sharma | [Read More](https://medium.com/p/11d07a7afaf2) |
-| Sun, 14 Sep 2025 14:40:51 GMT | Environment — Linux · Medium | Mkirahmet | [Read More](https://medium.com/p/e3b91969de52) |
-| Sun, 14 Sep 2025 14:34:31 GMT | AI Security 2025: Promptware, Indirect Prompt Injection & the First “AI Worms” (with a Python… | Tarun Singh | [Read More](https://medium.com/p/c432b668b1a2) |
