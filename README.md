@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 07:21:18 GMT | Prompts to learn Secure Code Review | AbhirupKonwar | [Read More](https://medium.com/p/010a0a20c55c) |
+| Sun, 14 Sep 2025 07:18:34 GMT | How to Get Started in Cybersecurity, Even If You Know Nothing About It | Fateyaly | [Read More](https://medium.com/p/e8027233bfdb) |
+| Sun, 14 Sep 2025 07:14:36 GMT | CCTV Camera Installation at Babor Road, Mohammadpur Residential Building — Optimationbd’s… | optimationbd | [Read More](https://medium.com/p/6f1755670e47) |
+| Sun, 14 Sep 2025 07:09:28 GMT | “บัญชีม้า“ = เส้นเลือดใหญ่ของอาชญากรรมออนไลน์ และโจทย์ใหญ่ที่สังคมไทยต้องแก้ให้ได้ | "วันละเรื่องสองเรื่อง" (Two Stories a Day) | [Read More](https://medium.com/p/56faa07df91a) |
 | Sun, 14 Sep 2025 07:01:49 GMT | Add a Credential Leak Check to Your App with One API Key | Alexandre Vandamme | [Read More](https://medium.com/p/d35745f8dab3) |
 | Sun, 14 Sep 2025 06:48:54 GMT | Worried About Rug Pulls in Crypto? Here’s How to Protect Your Token | Solana Token Creator | [Read More](https://medium.com/p/1eabe0f197c5) |
 | Sun, 14 Sep 2025 06:48:02 GMT | Will AI replace cybersecurity roles? Short answer: AI replaces tasks before it replaces titles. | Roger Millar | [Read More](https://medium.com/p/760bdc19c6b6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 18:50:43 GMT | Forensic Insights: How the NTFS USN Journal ($J) Reveals System Activity | Allen Ace | [Read More](https://medium.com/p/1e8afe4e337b) |
 | Sat, 13 Sep 2025 18:43:55 GMT | How I Found a Critical IDOR Leading to Full Account Takeover and Data Leakage | Andrey Dolya | [Read More](https://medium.com/p/39c3d85c8ecd) |
 | Sat, 13 Sep 2025 18:43:40 GMT | Designing a Antivirus System | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6d5cd127e0a3) |
-| Sat, 13 Sep 2025 18:42:32 GMT | Is there anything that cannot hack you? | Ruveyda | [Read More](https://medium.com/p/e0ae6f7ec564) |
-| Sat, 13 Sep 2025 18:42:23 GMT | Unlock Einstein AI for Salesforce Magic | Salesforce BLOG | [Read More](https://medium.com/p/725bac32f0d1) |
-| Sat, 13 Sep 2025 18:39:18 GMT | Hack The Box — Environment wolkthrough | SubhaDip | [Read More](https://medium.com/p/6a9af5281de0) |
-| Sat, 13 Sep 2025 18:31:55 GMT | kioptrix L1 the simplest walk-through part2….! | Azaleas | [Read More](https://medium.com/p/a615096ec0ac) |
