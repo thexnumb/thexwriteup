@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 22:01:02 GMT | How Docker Turned My Repetitive OSINT Tasks Into a One-Click Workflow | Sam Galope | [Read More](https://medium.com/p/d54559d891cd) |
+| Sun, 14 Sep 2025 21:48:35 GMT | Fixing Broken Phishing Datasets | Tal Eliyahu | [Read More](https://medium.com/p/e1e7ee71c0b1) |
+| Sun, 14 Sep 2025 21:43:02 GMT | TryHackMe Writeup: Dav | Berkay AĞGÜL | [Read More](https://medium.com/p/02f2beff8f8c) |
+| Sun, 14 Sep 2025 21:42:57 GMT | Maximize Your Passive Income with BUG BUG | BUG | [Read More](https://medium.com/p/efa493396608) |
+| Sun, 14 Sep 2025 21:32:25 GMT | TryHackMe W1seGuy: XOR Challenge Walkthrough | Trixia Horner | [Read More](https://medium.com/p/35fa3f36b7c3) |
 | Sun, 14 Sep 2025 21:32:00 GMT | The Future of AI in Penetration Testing: From Assistant to Autonomous Hacker | Taha Ex | [Read More](https://medium.com/p/54eea700ea0a) |
 | Sun, 14 Sep 2025 21:25:58 GMT | Remote Shell Walkthrough on Kioptrix & Blue Windows (Lab Practice) | ishaq Jafar | [Read More](https://medium.com/p/432cce485361) |
 | Sun, 14 Sep 2025 21:19:19 GMT | I Built a Simple POC That Earned a $10,000 Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/0eed90c9ccce) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 15:58:04 GMT | OverTheWire Bandit Solutions (Levels 0–15) | Regaan | [Read More](https://medium.com/p/ee378a842fb1) |
 | Sun, 14 Sep 2025 15:42:23 GMT | Securing AI Systems: Detecting Adversarial Attacks with Explainable AI | Prakashraam | [Read More](https://medium.com/p/0d8bce53e39b) |
 | Sun, 14 Sep 2025 15:42:01 GMT | Assessment Methodologies: Information Gathering CTF 1 Writeup | Xnirkun | [Read More](https://medium.com/p/af5d37aa6db6) |
-| Sun, 14 Sep 2025 15:41:08 GMT | Debunking the Myth: Does TPM Really Slow Down Your File Downloads? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/af90c5dc2755) |
-| Sun, 14 Sep 2025 15:34:11 GMT | How to Extract Information from Websites: Automated OSINT Techniques and Tools | Vijay Kumar Gupta | [Read More](https://medium.com/p/dea18e3b7114) |
-| Sun, 14 Sep 2025 15:32:14 GMT | DROSERA, ITS TRAPS, AND THE POTENTIAL REAL-WORLD APPLICATIONS : | MAVERICK | [Read More](https://medium.com/p/734d82b0666c) |
-| Sun, 14 Sep 2025 15:31:41 GMT | Your ChatGPT Secrets Could Testify Against You: Here’s the Proof | Mohamed Bakry | [Read More](https://medium.com/p/8dc2c4af631b) |
-| Sun, 14 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 14, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d11114ce8709) |
