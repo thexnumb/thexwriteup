@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 17:01:46 GMT | Advanced Node.js Series (Part 5): Securing Your Node.js Applications | habtesoft | [Read More](https://medium.com/p/fe30a2208bb9) |
+| Sun, 14 Sep 2025 17:01:46 GMT | How I Recovered From a Data Breach — Step by Humbling Step | Cyberkech | [Read More](https://medium.com/p/f39c476b8be9) |
+| Sun, 14 Sep 2025 17:01:46 GMT | LetsDefend — Disclose The Agent Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/f86b4905891a) |
+| Sun, 14 Sep 2025 16:57:04 GMT | Chrome Remote Code Execution Vulnerability: A Call for Immediate Action | Chetan Seripally | [Read More](https://medium.com/p/e74b8b707b6c) |
+| Sun, 14 Sep 2025 16:55:50 GMT | OWASP Top Ten 2025: A Complete Guide for Web Application Security | Jyoti Joshi | [Read More](https://medium.com/p/90c937c41a29) |
+| Sun, 14 Sep 2025 16:53:10 GMT | How to Refine Your Web Application Testing Methodology for Effective Attacks | Sam Hilliard | [Read More](https://medium.com/p/06c4c5afdc1c) |
+| Sun, 14 Sep 2025 16:49:06 GMT | How a 10-Minute Phone Call Brought Down MGM: The $100 Million Lesson in Workplace Security | Maxime Siffert | [Read More](https://medium.com/p/072c39603f69) |
+| Sun, 14 Sep 2025 16:48:06 GMT | Reverse Engineering solution to thed0ublec’s CrazyCrackMe | Nathan C | [Read More](https://medium.com/p/0ff5817ebd83) |
+| Sun, 14 Sep 2025 16:46:11 GMT | The Mcfaddens | GOSSIP BY COMING UP 4 AIR | [Read More](https://medium.com/p/7e9e35f4d863) |
 | Sun, 14 Sep 2025 16:34:07 GMT | Your Car Needs a Cyber Certification — Not Just CrashTest Star Rating | Amrik  Hanjra | [Read More](https://medium.com/p/e39ce9fdf6f6) |
 | Sun, 14 Sep 2025 16:31:54 GMT | Kerberos Server Setup on Ubuntu | Jobin J | [Read More](https://medium.com/p/55b4251003ee) |
 | Sun, 14 Sep 2025 16:31:43 GMT | Data Drift Is Inevitable How to Detect and Respond Effectively | Niamh O'Shea | [Read More](https://medium.com/p/2021f1088180) |
+| Sun, 14 Sep 2025 16:28:49 GMT | Building a Next-Generation SIEM Architecture | Helmiriahi | [Read More](https://medium.com/p/6a42c44a0dc2) |
 | Sun, 14 Sep 2025 16:19:00 GMT | TryHackMe Writeup: UltraTech | Berkay AĞGÜL | [Read More](https://medium.com/p/0202be6f5e78) |
 | Sun, 14 Sep 2025 16:18:28 GMT | Connectors CTF All web challenges | Karim Mohamed | [Read More](https://medium.com/p/921beb9dc16e) |
 | Sun, 14 Sep 2025 16:08:23 GMT | Checkpoints on the Web: Understanding Web Application Firewalls (WAFs) | Natarajan C K | [Read More](https://medium.com/p/7de96cd8b789) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 11:06:34 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/fcec95a8e8c8) |
 | Sun, 14 Sep 2025 11:02:28 GMT | I Forgot How to Code: A Letter to My Formerly Syntactically Superior Self | Jaelyn Denise | [Read More](https://medium.com/p/7d3d7c7048a5) |
 | Sun, 14 Sep 2025 11:01:44 GMT | The Courage to Admit I Want to Be Cared For | Her Out-of-Office Feelings | [Read More](https://medium.com/p/916608ebe13f) |
-| Sun, 14 Sep 2025 10:57:42 GMT | 95% of Companies Get Hacked Because of This ONE Training Mistake | GenZProtector | [Read More](https://medium.com/p/a38cf1b35c66) |
-| Sun, 14 Sep 2025 10:54:11 GMT | Prompt Engineering for Filmmakers: Turning AI Into Your Post-Production Security Co-Pilot | Joseph Desmond Cruel | [Read More](https://medium.com/p/22dee0bf019e) |
-| Sun, 14 Sep 2025 10:47:51 GMT | What is Networking? | Hassan Muhammad | [Read More](https://medium.com/p/a601920dfeac) |
-| Sun, 14 Sep 2025 10:47:43 GMT | Monitoring Cybersecurity Events with Splunk | Esra Kayhan | [Read More](https://medium.com/p/f73094b4d01b) |
-| Sun, 14 Sep 2025 10:45:31 GMT | Crackmes.de: Plain Sight | Sourav Bose | [Read More](https://medium.com/p/b503f8eab949) |
-| Sun, 14 Sep 2025 10:44:29 GMT | Hack-Resilient by Design: A Code-First Guide to Web App Security (Attack → Fix) | AIAlchemist_Ab1r | [Read More](https://medium.com/p/a23d84e2e0ca) |
-| Sun, 14 Sep 2025 10:43:14 GMT | Brute Me — A Walkthrough of the Brute Me Lab by NixSecura | Vaibhav | [Read More](https://medium.com/p/24f0ab7bf4d7) |
-| Sun, 14 Sep 2025 10:41:34 GMT | Your Biggest Cybersecurity Risk Is Sitting at Your Keyboard | Shahzaib | [Read More](https://medium.com/p/afd801121893) |
-| Sun, 14 Sep 2025 10:39:46 GMT | Understanding Hacking: Types, Methods, and How to Stay Protected | amir Roshanzamir | [Read More](https://medium.com/p/bc63325410a4) |
-| Sun, 14 Sep 2025 10:38:54 GMT | Walkthrough THM Tech supp0rt 1 | Telynor | [Read More](https://medium.com/p/29b1f59eec4e) |
