@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 22:25:43 GMT | Automating Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/15544c7fc069) |
+| Sun, 14 Sep 2025 22:11:54 GMT | How Freestyle Thinks About Security, Auditing, and Best Practices for Isolated AI Code Execution | Benjamin Swerdlow | [Read More](https://medium.com/p/416a7b3512d9) |
 | Sun, 14 Sep 2025 22:01:02 GMT | How Docker Turned My Repetitive OSINT Tasks Into a One-Click Workflow | Sam Galope | [Read More](https://medium.com/p/d54559d891cd) |
 | Sun, 14 Sep 2025 21:48:35 GMT | Fixing Broken Phishing Datasets | Tal Eliyahu | [Read More](https://medium.com/p/e1e7ee71c0b1) |
 | Sun, 14 Sep 2025 21:43:02 GMT | TryHackMe Writeup: Dav | Berkay AĞGÜL | [Read More](https://medium.com/p/02f2beff8f8c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 15:59:32 GMT | Unveiling the Umbrella Intelligence Platform Backend: Executive Security at Your Fingertips | Somak Somanchi | [Read More](https://medium.com/p/9fee561fdecc) |
 | Sun, 14 Sep 2025 15:58:21 GMT | eSIM Market Size, Share & Industry Analysis: A Comprehensive 2024–2032 Outlook | Rahul Ankush Salunkhe | [Read More](https://medium.com/p/f8517297f795) |
 | Sun, 14 Sep 2025 15:58:04 GMT | OverTheWire Bandit Solutions (Levels 0–15) | Regaan | [Read More](https://medium.com/p/ee378a842fb1) |
-| Sun, 14 Sep 2025 15:42:23 GMT | Securing AI Systems: Detecting Adversarial Attacks with Explainable AI | Prakashraam | [Read More](https://medium.com/p/0d8bce53e39b) |
-| Sun, 14 Sep 2025 15:42:01 GMT | Assessment Methodologies: Information Gathering CTF 1 Writeup | Xnirkun | [Read More](https://medium.com/p/af5d37aa6db6) |
