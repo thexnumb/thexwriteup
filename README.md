@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 09:11:25 GMT | Zolatron homebrew micro: VIA-based user ports and printer interface | Mansfield-Devine | [Read More](https://medium.com/p/79f95fde5f42) |
+| Sun, 14 Sep 2025 09:08:06 GMT | Tests Are Cheaper Than Breaches | Coding Creed Technologies | [Read More](https://medium.com/p/809d6490b498) |
+| Sun, 14 Sep 2025 09:06:34 GMT | OWASP API Security Top 10–1 | Ankit Dhaka | [Read More](https://medium.com/p/bc8f14f13008) |
+| Sun, 14 Sep 2025 09:02:28 GMT | How I Found XCSSET Malware in 40 Public GitHub Repositories Using Github Dorking | Mayank Joshi | [Read More](https://medium.com/p/2ba7a93f3e70) |
+| Sun, 14 Sep 2025 08:57:04 GMT | From Curiosity to Chaos: True Stories of Hackers Who Accidentally Made Headlines | Shahzaib | [Read More](https://medium.com/p/e307dcd2fef4) |
+| Sun, 14 Sep 2025 08:49:26 GMT | I hate it here so I will go to
+secret gardens in my mind
+: People need a key to get to, The only… | by dhany | [Read More](https://medium.com/p/d89fe27ad1d2) |
+| Sun, 14 Sep 2025 08:44:59 GMT | Pickle Rick — TryHackMe CTF Walkthrough (Beginner-friendly) | Himanshu | [Read More](https://medium.com/p/112d3609f802) |
 | Sun, 14 Sep 2025 08:37:03 GMT | Best Cybersecurity Course in Vikaspuri | Anas | [Read More](https://medium.com/p/1a1333fb902f) |
 | Sun, 14 Sep 2025 08:34:50 GMT | ECB vs CBC vs GCM: A Complete Guide to AES Encryption Modes | chandan gupta | [Read More](https://medium.com/p/6920219d604c) |
+| Sun, 14 Sep 2025 08:30:33 GMT | OSCP 我失敗了，接下來呢? | CL | [Read More](https://medium.com/p/0a60845b50db) |
 | Sun, 14 Sep 2025 08:23:36 GMT | Linux Fundamentals Part 1: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/5c512068b67b) |
 | Sun, 14 Sep 2025 08:14:01 GMT | Pixel-Perfect Phishing: The Subtle Art of Domain Impersonation using IDN homographic attack | Sachin      Verlekar | [Read More](https://medium.com/p/06bd727cf5ba) |
 | Sun, 14 Sep 2025 08:13:11 GMT | Why Most Companies Get Application Security Wrong and How to Fix It | 0xiMAK | [Read More](https://medium.com/p/dc9702dc38de) |
@@ -104,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 20:51:54 GMT | Penetration Testing Methods: A Beginner-Friendly Guide to Securing Your Systems | Hemant Patkar, CISSP | [Read More](https://medium.com/p/708e5f4fa7b9) |
 | Sat, 13 Sep 2025 20:34:31 GMT | TLS 1.3: Lessons on Speed and Security Through 0 RTT Replay Attacks | Ishika Khokhani | [Read More](https://medium.com/p/5d2971d2e559) |
 | Sat, 13 Sep 2025 20:34:28 GMT | — How you can… | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/951304a1974e) |
-| Sat, 13 Sep 2025 20:17:18 GMT | Supercharge Your Bug Bounty Toolkit: API Testing, DTO Validation, and Tree-sitter Analysis | BugHunteroX | [Read More](https://medium.com/p/a51cf74e6f1b) |
-| Sat, 13 Sep 2025 20:16:58 GMT | DNS, DHCP, IP, MAC, TCP, ARP, etc. — Broken Down into Bits! | Mahad Aqeel | [Read More](https://medium.com/p/53ca88ed5b2a) |
-| Sat, 13 Sep 2025 20:12:50 GMT | Analysis: Qilin Ransomware Group | Deniz Topaloglu | [Read More](https://medium.com/p/1a4b9e28f4c7) |
-| Sat, 13 Sep 2025 20:09:37 GMT | What it takes to be a Hacker — The Absolute Beginning | David Barrineau | [Read More](https://medium.com/p/16f7cf7094a0) |
-| Sat, 13 Sep 2025 20:07:44 GMT | My CEH v13 Journey: Module 4 — Scanning Networks | Rohan Pandey | [Read More](https://medium.com/p/38ee023fd107) |
-| Sat, 13 Sep 2025 19:57:08 GMT | Let me help you | notawriter | [Read More](https://medium.com/p/59f1525543b1) |
-| Sat, 13 Sep 2025 19:48:16 GMT | Balancing Compliance and Risk: The Influence of Regulatory Requirements on Information Assurance… | Motta | [Read More](https://medium.com/p/d14bf8c1b252) |
-| Sat, 13 Sep 2025 19:47:14 GMT | “The Password is Dying — What Comes Next?” | Hiya Sharma | [Read More](https://medium.com/p/4e0ae3e33806) |
