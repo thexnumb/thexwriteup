@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 20:12:18 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It | Daniel Lozovsky | [Read More](https://medium.com/p/818aadeef688) |
+| Sun, 14 Sep 2025 20:07:10 GMT | BlackHat MEA Qualification CTF 2025 — Web Challenge: Cute_CSP | Mostafa Rashidy | [Read More](https://medium.com/p/646810ca794f) |
+| Sun, 14 Sep 2025 20:03:09 GMT | Trust Us, You’re the Product: The Battle Over Privacy in Artificial Intelligence | Jonathan Brown | [Read More](https://medium.com/p/643080b6c445) |
+| Sun, 14 Sep 2025 19:59:34 GMT | Smiling Faces, Leaking Secrets (OSINT and Employer Branding) | Mostafa Ibrahim | [Read More](https://medium.com/p/69a5c8b7011a) |
+| Sun, 14 Sep 2025 19:58:55 GMT | Mastering Nmap (Part 4) in 2025:: Output Formats & Reporting | appsecvenue | [Read More](https://medium.com/p/a75d0501eada) |
+| Sun, 14 Sep 2025 19:55:32 GMT | PICOCTF WALKTHROUGH: NOSQL INJECTION. | Regina ngunjiri | [Read More](https://medium.com/p/6a012310810f) |
+| Sun, 14 Sep 2025 19:54:27 GMT | Sunnystation walk-through: Traffic Analysis for Windows-based mass distribution malware (Emotet… | Cybill383 | [Read More](https://medium.com/p/0b3b5ab12043) |
+| Sun, 14 Sep 2025 19:53:37 GMT | Boost Your Earnings with BUG BUG Yield Strategies | BUG | [Read More](https://medium.com/p/e447501d9e85) |
+| Sun, 14 Sep 2025 19:52:07 GMT | Why Some People Fear Intimacy | Soren Frost | [Read More](https://medium.com/p/9e1ed3b6f0df) |
+| Sun, 14 Sep 2025 19:49:07 GMT | How I found Critical Bugs Easily on GitHub | mohamed metwally | [Read More](https://medium.com/p/48ee78c9ab3d) |
+| Sun, 14 Sep 2025 19:34:52 GMT | New Android Trojan Hacks Your Phone’s NFC!!! | cybrNK | [Read More](https://medium.com/p/53ade3e113d8) |
+| Sun, 14 Sep 2025 19:32:30 GMT | Understanding AI Prompt Injections: The Hidden Security Risk | r00tb33r | [Read More](https://medium.com/p/791f11de64e0) |
+| Sun, 14 Sep 2025 19:30:35 GMT | Cross-site scripting | Usama Hanif | [Read More](https://medium.com/p/d4e55949be48) |
 | Sun, 14 Sep 2025 19:23:21 GMT | Maybe this year will just be a year. | Love, Yechi. | [Read More](https://medium.com/p/8c8230de87fe) |
 | Sun, 14 Sep 2025 19:21:36 GMT | OSINT: 07CTF Cookies | amer7x | [Read More](https://medium.com/p/17d24d5e5240) |
 | Sun, 14 Sep 2025 19:21:12 GMT | OSINT: Endless 07CTF | amer7x | [Read More](https://medium.com/p/89ae943c34b2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 14:27:52 GMT | How to Learn Cybersecurity Step by Step: The Roadmap I Wish I Had | Fateyaly | [Read More](https://medium.com/p/83be28e4a431) |
 | Sun, 14 Sep 2025 14:18:56 GMT | Hybrid Encryption: The Perfect Marriage of RSA and AES for Secure Data Transmission | chandan gupta | [Read More](https://medium.com/p/399cdb95924e) |
 | Sun, 14 Sep 2025 14:17:54 GMT | Zero Trust in Practice: A Blueprint for Architecting a Truly Defensible Network | Giorgi Akhobadze | [Read More](https://medium.com/p/208dc27e2f24) |
-| Sun, 14 Sep 2025 14:13:24 GMT | Invisible Battles: Struggles No One Sees | vydhi | [Read More](https://medium.com/p/bc4bade49bb1) |
-| Sun, 14 Sep 2025 14:12:43 GMT | Wireshark: The Essential Tool for Network Analysis and Cybersecurity | Ujjavalsolanki | [Read More](https://medium.com/p/1b3cdcf0e8c7) |
-| Sun, 14 Sep 2025 14:10:48 GMT | The Quiet Collapse: When Everything Feels Like Too Much | vydhi | [Read More](https://medium.com/p/4dea366b49b2) |
-| Sun, 14 Sep 2025 14:10:35 GMT | When I Just Want One Person to Say, “You’re Doing Right” | Ink Within | [Read More](https://medium.com/p/923e082a5ca8) |
-| Sun, 14 Sep 2025 14:10:27 GMT | Can Bug Bounty Hunting Make One A Millionaire? | Rehan Sohail | [Read More](https://medium.com/p/d8fef40820e9) |
-| Sun, 14 Sep 2025 14:09:44 GMT | The Art of Secure, User-Friendly Login Portals | Tusharpuri | [Read More](https://medium.com/p/14479d8c10e1) |
-| Sun, 14 Sep 2025 14:01:51 GMT | The Roadmap: Where ABTU Is Going (2025–2027) | Abatis ABTU | [Read More](https://medium.com/p/0213c87eee81) |
-| Sun, 14 Sep 2025 14:01:49 GMT | The Father-Child Bond: How Your Relationship with Dad Shapes Your Social Connections and Inner… | Xiexiange | [Read More](https://medium.com/p/a570ffce9a3e) |
-| Sun, 14 Sep 2025 13:50:41 GMT | Linux PAM: Pluggable Authentication Modules | Eren Cankut Uysal | [Read More](https://medium.com/p/ead2e254483e) |
-| Sun, 14 Sep 2025 13:48:30 GMT | Ransomware Network Analysis -BTLO | Juan Alexander Alejo | [Read More](https://medium.com/p/78e11195fb38) |
-| Sun, 14 Sep 2025 13:46:26 GMT | Day 2 — The Token Bugs Nobody Talks About | Viratavi | [Read More](https://medium.com/p/8c411e30c452) |
-| Sun, 14 Sep 2025 13:46:05 GMT | Case Study “Fictitious”- Reflexive Control, Online Radicalization and the Way Out of the “Lone… | SIMKRA | [Read More](https://medium.com/p/f2a2d7d6e973) |
-| Sun, 14 Sep 2025 13:44:41 GMT | Your Password Just Got HACKED by a GLITCH in the System! | Santhosh Kumar | [Read More](https://medium.com/p/b57e9649011a) |
