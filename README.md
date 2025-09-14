@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 19:23:21 GMT | Maybe this year will just be a year. | Love, Yechi. | [Read More](https://medium.com/p/8c8230de87fe) |
+| Sun, 14 Sep 2025 19:21:36 GMT | OSINT: 07CTF Cookies | amer7x | [Read More](https://medium.com/p/17d24d5e5240) |
+| Sun, 14 Sep 2025 19:21:12 GMT | OSINT: Endless 07CTF | amer7x | [Read More](https://medium.com/p/89ae943c34b2) |
+| Sun, 14 Sep 2025 19:14:40 GMT | Linux Firewalls: iptables and nftables Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/c5bf4ce818a4) |
 | Sun, 14 Sep 2025 19:09:44 GMT | Week 6 of My 90-Day Challenge: Halfway and a Readjustment | Mike (sl0th0x87) | [Read More](https://medium.com/p/bd0f948d7dcb) |
 | Sun, 14 Sep 2025 19:06:41 GMT | Linux AppArmor: Confined Execution | Eren Cankut Uysal | [Read More](https://medium.com/p/65a9f9d2f49b) |
 | Sun, 14 Sep 2025 19:05:48 GMT | Bug Bounty Goldmine: Hidden Inputs in AJAX, JSON & GraphQL — Where Hunters Strike Gold | Zoningxtr | [Read More](https://medium.com/p/cb2936addf57) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 13:46:26 GMT | Day 2 — The Token Bugs Nobody Talks About | Viratavi | [Read More](https://medium.com/p/8c411e30c452) |
 | Sun, 14 Sep 2025 13:46:05 GMT | Case Study “Fictitious”- Reflexive Control, Online Radicalization and the Way Out of the “Lone… | SIMKRA | [Read More](https://medium.com/p/f2a2d7d6e973) |
 | Sun, 14 Sep 2025 13:44:41 GMT | Your Password Just Got HACKED by a GLITCH in the System! | Santhosh Kumar | [Read More](https://medium.com/p/b57e9649011a) |
-| Sun, 14 Sep 2025 13:41:56 GMT | Linux Security Modules: Extending Security Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/34a6b109c332) |
-| Sun, 14 Sep 2025 13:40:01 GMT | Strategic Tech Stack Selection: Building Robust Projects Without Costly Missteps | Vignaraj Ravi | [Read More](https://medium.com/p/4b445195f69f) |
-| Sun, 14 Sep 2025 13:31:39 GMT | Relearning the Essentials: Windows ISO Downloads & Server VM Startup | Tyrik Emptage | [Read More](https://medium.com/p/b1050f7ff340) |
-| Sun, 14 Sep 2025 13:29:26 GMT | Quantum Computing Breakthroughs of 2025: What They Mean for Developers | Umesh Anjula | [Read More](https://medium.com/p/7db647bc375a) |
