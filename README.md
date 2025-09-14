@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 23:25:42 GMT | Top 11 cyber stories (Week: Sept 8–7, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/0b5a6416bcb0) |
 | Sun, 14 Sep 2025 22:59:17 GMT | 1Password vs Bitwarden in 2025: Which Password Manager Should You Trust? | BiyteLüm | [Read More](https://medium.com/p/ef2e1efeeaa2) |
 | Sun, 14 Sep 2025 22:56:18 GMT | 4 Startup Websites That Will Get You a Feature in TechCrunch | Alpha Design Global | [Read More](https://medium.com/p/b23ad030e1fa) |
 | Sun, 14 Sep 2025 22:43:20 GMT | The Compliance Certificate Illusion : Why SOC 2 and ISO 27001 Won’t Protect You From Third-Party… | Akilnath Bodipudi | [Read More](https://medium.com/p/dd7c9f660dbb) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 16:19:00 GMT | TryHackMe Writeup: UltraTech | Berkay AĞGÜL | [Read More](https://medium.com/p/0202be6f5e78) |
 | Sun, 14 Sep 2025 16:18:28 GMT | Connectors CTF All web challenges | Karim Mohamed | [Read More](https://medium.com/p/921beb9dc16e) |
 | Sun, 14 Sep 2025 16:08:23 GMT | Checkpoints on the Web: Understanding Web Application Firewalls (WAFs) | Natarajan C K | [Read More](https://medium.com/p/7de96cd8b789) |
-| Sun, 14 Sep 2025 16:07:29 GMT | Why I Stopped Writing Code Manually — and Why You Might Too | K.E.B | [Read More](https://medium.com/p/0f2c5aad8a21) |
