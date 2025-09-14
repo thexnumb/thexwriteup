@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 10:16:45 GMT | A Hacker’s Toolkit: 10 Essential Tools for Ethical Cybersecurity | eRRoR | [Read More](https://medium.com/p/97d80c5d8a43) |
+| Sun, 14 Sep 2025 10:06:08 GMT | Blood and Banners: Unpacking the Transatlantic Rage — Kirk’s Death and the ‘Unite the Kingdom’… | Prof. Tahir Abbas | [Read More](https://medium.com/p/c804892aa82a) |
+| Sun, 14 Sep 2025 10:00:25 GMT | DockerLabs Writeup — 404-not-found (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ac5e5ca9b07) |
+| Sun, 14 Sep 2025 09:52:52 GMT | OWASP Mobile Top 10 — M4: Insufficient Input/Output Validation (“If you eat junk without checking… | bithowl | [Read More](https://medium.com/p/460bfbf59e13) |
+| Sun, 14 Sep 2025 09:48:17 GMT | How a Simple IDOR Earned Me $500 | Karthikeyan | [Read More](https://medium.com/p/79802371a565) |
+| Sun, 14 Sep 2025 09:46:44 GMT | SSRF Symphony: How I Turned a PDF Generator Into an Internal Network Spy | Iski | [Read More](https://medium.com/p/0d085a9c1c9e) |
+| Sun, 14 Sep 2025 09:39:27 GMT | Quantum Computing vs. Cybersecurity: The Digital Arms Race of the Future | Pranav Agarwal | [Read More](https://medium.com/p/4d1af51d4366) |
+| Sun, 14 Sep 2025 09:31:11 GMT | Narcissism in the Dark Triad: Professional Impact - Part 1 - Lumir | Lumirism | [Read More](https://medium.com/p/46bad253353a) |
 | Sun, 14 Sep 2025 09:11:25 GMT | Zolatron homebrew micro: VIA-based user ports and printer interface | Mansfield-Devine | [Read More](https://medium.com/p/79f95fde5f42) |
 | Sun, 14 Sep 2025 09:08:06 GMT | Tests Are Cheaper Than Breaches | Coding Creed Technologies | [Read More](https://medium.com/p/809d6490b498) |
 | Sun, 14 Sep 2025 09:06:34 GMT | OWASP API Security Top 10–1 | Ankit Dhaka | [Read More](https://medium.com/p/bc8f14f13008) |
@@ -106,11 +114,3 @@ secret gardens in my mind
 | Sat, 13 Sep 2025 22:35:11 GMT | What Makes aarnâ Vaults Different | Patowrld | [Read More](https://medium.com/p/52c3d4202415) |
 | Sat, 13 Sep 2025 21:56:56 GMT | PortSwigger “File path traversal, validation of file extension with null byte bypass” Lab — Çözüm… | Mirac Kayikci | [Read More](https://medium.com/p/7339434ee48e) |
 | Sat, 13 Sep 2025 21:54:34 GMT | Start Journey of Learning Network Security | Kiranjeetkour | [Read More](https://medium.com/p/03bee833b658) |
-| Sat, 13 Sep 2025 21:37:53 GMT | CyberDefenders — DarkCrystal Lab | jon | [Read More](https://medium.com/p/49cfe090927f) |
-| Sat, 13 Sep 2025 21:37:50 GMT | How I set up a SIEM home lab | Martin Yordanov | [Read More](https://medium.com/p/910b5503f0f8) |
-| Sat, 13 Sep 2025 21:31:23 GMT | Why ESG Isn’t a Checkbox — It’s a Growth Strategy | the PhobioSapien | [Read More](https://medium.com/p/84410299deaf) |
-| Sat, 13 Sep 2025 21:23:04 GMT | Sam Altman, Elon Musk, and the Whistleblower: The Controversy Over Suchir Balaji’s Death | Aaron | [Read More](https://medium.com/p/50306daa0abe) |
-| Sat, 13 Sep 2025 21:05:54 GMT | How I Found 5 Cache Flaws in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/b47dee54d267) |
-| Sat, 13 Sep 2025 20:51:54 GMT | Penetration Testing Methods: A Beginner-Friendly Guide to Securing Your Systems | Hemant Patkar, CISSP | [Read More](https://medium.com/p/708e5f4fa7b9) |
-| Sat, 13 Sep 2025 20:34:31 GMT | TLS 1.3: Lessons on Speed and Security Through 0 RTT Replay Attacks | Ishika Khokhani | [Read More](https://medium.com/p/5d2971d2e559) |
-| Sat, 13 Sep 2025 20:34:28 GMT | — How you can… | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/951304a1974e) |
