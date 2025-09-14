@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 11:06:58 GMT | PG Practice — Nibbles (Linux) | Lepton | [Read More](https://medium.com/p/a68ef4c6b938) |
+| Sun, 14 Sep 2025 11:06:34 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/fcec95a8e8c8) |
+| Sun, 14 Sep 2025 11:02:28 GMT | I Forgot How to Code: A Letter to My Formerly Syntactically Superior Self | Jaelyn Denise | [Read More](https://medium.com/p/7d3d7c7048a5) |
+| Sun, 14 Sep 2025 11:01:44 GMT | The Courage to Admit I Want to Be Cared For | Her Out-of-Office Feelings | [Read More](https://medium.com/p/916608ebe13f) |
+| Sun, 14 Sep 2025 10:57:42 GMT | 95% of Companies Get Hacked Because of This ONE Training Mistake | GenZProtector | [Read More](https://medium.com/p/a38cf1b35c66) |
+| Sun, 14 Sep 2025 10:54:11 GMT | Prompt Engineering for Filmmakers: Turning AI Into Your Post-Production Security Co-Pilot | Joseph Desmond Cruel | [Read More](https://medium.com/p/22dee0bf019e) |
+| Sun, 14 Sep 2025 10:47:51 GMT | What is Networking? | Hassan Muhammad | [Read More](https://medium.com/p/a601920dfeac) |
+| Sun, 14 Sep 2025 10:47:43 GMT | Monitoring Cybersecurity Events with Splunk | Esra Kayhan | [Read More](https://medium.com/p/f73094b4d01b) |
+| Sun, 14 Sep 2025 10:45:31 GMT | Crackmes.de: Plain Sight | Sourav Bose | [Read More](https://medium.com/p/b503f8eab949) |
+| Sun, 14 Sep 2025 10:44:29 GMT | Hack-Resilient by Design: A Code-First Guide to Web App Security (Attack → Fix) | AIAlchemist_Ab1r | [Read More](https://medium.com/p/a23d84e2e0ca) |
+| Sun, 14 Sep 2025 10:43:14 GMT | Brute Me — A Walkthrough of the Brute Me Lab by NixSecura | Vaibhav | [Read More](https://medium.com/p/24f0ab7bf4d7) |
+| Sun, 14 Sep 2025 10:41:34 GMT | Your Biggest Cybersecurity Risk Is Sitting at Your Keyboard | Shahzaib | [Read More](https://medium.com/p/afd801121893) |
+| Sun, 14 Sep 2025 10:39:46 GMT | Understanding Hacking: Types, Methods, and How to Stay Protected | amir Roshanzamir | [Read More](https://medium.com/p/bc63325410a4) |
+| Sun, 14 Sep 2025 10:38:54 GMT | Walkthrough THM Tech supp0rt 1 | Telynor | [Read More](https://medium.com/p/29b1f59eec4e) |
+| Sun, 14 Sep 2025 10:31:46 GMT | Wallet Setup 101: Secure Your Crypto Like a Pro in 2025 | IvanDTzar | [Read More](https://medium.com/p/48c3c629266b) |
 | Sun, 14 Sep 2025 10:16:45 GMT | A Hacker’s Toolkit: 10 Essential Tools for Ethical Cybersecurity | eRRoR | [Read More](https://medium.com/p/97d80c5d8a43) |
 | Sun, 14 Sep 2025 10:06:08 GMT | Blood and Banners: Unpacking the Transatlantic Rage — Kirk’s Death and the ‘Unite the Kingdom’… | Prof. Tahir Abbas | [Read More](https://medium.com/p/c804892aa82a) |
 | Sun, 14 Sep 2025 10:00:25 GMT | DockerLabs Writeup — 404-not-found (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ac5e5ca9b07) |
@@ -33,6 +48,7 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 08:34:50 GMT | ECB vs CBC vs GCM: A Complete Guide to AES Encryption Modes | chandan gupta | [Read More](https://medium.com/p/6920219d604c) |
 | Sun, 14 Sep 2025 08:30:33 GMT | OSCP 我失敗了，接下來呢? | CL | [Read More](https://medium.com/p/0a60845b50db) |
 | Sun, 14 Sep 2025 08:23:36 GMT | Linux Fundamentals Part 1: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/5c512068b67b) |
+| Sun, 14 Sep 2025 08:22:11 GMT | CVE-2025–57833: Deep Dive into Django ORM FilteredRelation Alias Handling Vulnerability | Balki Maharaj | [Read More](https://medium.com/p/a046f7f4318b) |
 | Sun, 14 Sep 2025 08:14:01 GMT | Pixel-Perfect Phishing: The Subtle Art of Domain Impersonation using IDN homographic attack | Sachin      Verlekar | [Read More](https://medium.com/p/06bd727cf5ba) |
 | Sun, 14 Sep 2025 08:13:11 GMT | Why Most Companies Get Application Security Wrong and How to Fix It | 0xiMAK | [Read More](https://medium.com/p/dc9702dc38de) |
 | Sun, 14 Sep 2025 07:58:41 GMT | Introduction to Classic Cryptography | Karthik S | [Read More](https://medium.com/p/73ea3fa86a56) |
@@ -98,19 +114,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 00:41:29 GMT | ️When Loss Wakes Us Up️ | Susana | [Read More](https://medium.com/p/fb0d1c098247) |
 | Sun, 14 Sep 2025 00:41:24 GMT | Automating Windows Security Baselines with PowerShell | Navneetbhogal | [Read More](https://medium.com/p/8f06995cb01b) |
 | Sun, 14 Sep 2025 00:26:56 GMT | The Fear of Vulnerability | Edge Coaching | [Read More](https://medium.com/p/70e087c6caff) |
-| Sun, 14 Sep 2025 00:03:36 GMT | EP147 — Vibe Insecurity | Hormigas Agilistas Podcast | [Read More](https://medium.com/p/8e5d1cf48e78) |
-| Sat, 13 Sep 2025 23:58:29 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/d677aea63c2c) |
-| Sat, 13 Sep 2025 23:47:42 GMT | TryHackMe #12 - Putting it all together | 0xGroot | [Read More](https://medium.com/p/eb12682b082c) |
-| Sat, 13 Sep 2025 23:43:22 GMT | Anon.Cat: Free, Anonymous, and Secure File Uploads | anon | [Read More](https://medium.com/p/365f8f74e012) |
-| Sat, 13 Sep 2025 23:41:43 GMT | TryHackMe #11 - How Websites Work | 0xGroot | [Read More](https://medium.com/p/1fc91bbc9986) |
-| Sat, 13 Sep 2025 23:37:42 GMT | TryHackMe #10 - HTTP in Detail | 0xGroot | [Read More](https://medium.com/p/b0b77ad92cb2) |
-| Sat, 13 Sep 2025 23:32:00 GMT | TryHackMe #9 - DNS in Detail | 0xGroot | [Read More](https://medium.com/p/4a657367054f) |
-| Sat, 13 Sep 2025 23:31:02 GMT | TryHackMe Net Sec Challenge - Write-Up | be.light | [Read More](https://medium.com/p/6cba5dc29c79) |
-| Sat, 13 Sep 2025 23:22:53 GMT | That QR Code Is a TRAP! Don’t Scan It Until You Read This. | Santhosh Kumar | [Read More](https://medium.com/p/e3e6fcf0d8eb) |
-| Sat, 13 Sep 2025 23:21:32 GMT | The Zombie Apocalypse for Your Accounts Is HERE. Is Your Password DEAD or ALIVE? ‍♀️ | Santhosh Kumar | [Read More](https://medium.com/p/11f0e29b44c5) |
-| Sat, 13 Sep 2025 23:01:53 GMT | AI: Your New Best Friend or the Cyber Villain in a Lab Coat? | Kieran Wadforth | [Read More](https://medium.com/p/6d460cadb79c) |
-| Sat, 13 Sep 2025 22:51:23 GMT | CyberDefenders — VaultBreak Lab | jon | [Read More](https://medium.com/p/985b0413fa4b) |
-| Sat, 13 Sep 2025 22:36:36 GMT | PrintNightmare (CVE-2021–34527) | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/67863d6134c7) |
-| Sat, 13 Sep 2025 22:35:11 GMT | What Makes aarnâ Vaults Different | Patowrld | [Read More](https://medium.com/p/52c3d4202415) |
-| Sat, 13 Sep 2025 21:56:56 GMT | PortSwigger “File path traversal, validation of file extension with null byte bypass” Lab — Çözüm… | Mirac Kayikci | [Read More](https://medium.com/p/7339434ee48e) |
-| Sat, 13 Sep 2025 21:54:34 GMT | Start Journey of Learning Network Security | Kiranjeetkour | [Read More](https://medium.com/p/03bee833b658) |
