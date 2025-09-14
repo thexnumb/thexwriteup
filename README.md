@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 18:26:20 GMT | 70+ Labs I Solved for OSCP and Which Ones You Should Focus On | Diasadin | [Read More](https://medium.com/p/cab3c7c8583f) |
+| Sun, 14 Sep 2025 18:25:21 GMT | Cyber Security Details: Navigating the Legal Landscape | Cyber Security Research | [Read More](https://medium.com/p/1937594352b8) |
+| Sun, 14 Sep 2025 18:23:53 GMT | How DRM Safeguards Streaming Platforms like Netflix & Prime Video | Kanishk Srivastava | [Read More](https://medium.com/p/b75b4bce9f94) |
+| Sun, 14 Sep 2025 18:16:21 GMT | SQL Injection: An Old but Still Dangerous Threat to Web Applications | Lumae | [Read More](https://medium.com/p/00feeeea473c) |
 | Sun, 14 Sep 2025 18:14:51 GMT | Understanding Cross-Site Scripting (XSS) Vulnerabilities | Vaibhav Tiwari | [Read More](https://medium.com/p/5a49375867f1) |
 | Sun, 14 Sep 2025 18:09:27 GMT | The Linux Security Journey — Use Virtually Mapped Stack with Guard Pages | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0e723f5132ba) |
 | Sun, 14 Sep 2025 18:05:50 GMT | What is Directory Traversal / Path Traversal Attacks. | The Darkarmy | [Read More](https://medium.com/p/2c547c77fa66) |
@@ -21,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 18:02:00 GMT | Bug Bounty: Open Redirect: el fallo que nadie respeta… pero todos deberíamos temer | Gorka | [Read More](https://medium.com/p/a414059a53ad) |
 | Sun, 14 Sep 2025 17:54:53 GMT | Deployment Of Network Communication Control In Oracle Cloud Infrastructure With Virtual Cloud… | Kolotcholoman Kone | [Read More](https://medium.com/p/2fa212dd2413) |
 | Sun, 14 Sep 2025 17:54:35 GMT | Default Page to Admin Paths Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/1d5709b3725b) |
+| Sun, 14 Sep 2025 17:47:40 GMT | Praktikum Internet of Things (Tugas): Instalasi Arduino IDE & Uji Koneksi Board Arduino | Muhammad Surya Saputro | [Read More](https://medium.com/p/88ba133f6d6a) |
 | Sun, 14 Sep 2025 17:46:12 GMT | Praktikum Internet of Things : Instalasi Arduino IDE & Uji Koneksi Board Arduino | Muhammad Surya Saputro | [Read More](https://medium.com/p/a95167f7de92) |
 | Sun, 14 Sep 2025 17:38:52 GMT | XOXO from Prague attacks LockBit again | Patrik Žák | [Read More](https://medium.com/p/f1aaa620bf5c) |
 | Sun, 14 Sep 2025 17:38:27 GMT | The Secret Playbook: How Bug Hunters Spot Vulnerabilities Before Anyone Else | Sukhveer Singh | [Read More](https://medium.com/p/a74f2e65709b) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 12:45:09 GMT | جهت صیغه موقت ودائم تلگرام پیام بدهید(09915528413)ویا باشماره (09364608280)
 صیغه بهبهان صیغه مشگین… | مهدی رضایی | [Read More](https://medium.com/p/0f4607c5554b) |
 | Sun, 14 Sep 2025 12:43:39 GMT | Vulnerability Is Power: Building Brave Communities, One Story at   a Time | Vulnerability Is Power Community Ke | [Read More](https://medium.com/p/5b42879aaffd) |
-| Sun, 14 Sep 2025 12:42:56 GMT | The DMZ Explained: Your Network’s Frontline Defense | Ahmed Maher | [Read More](https://medium.com/p/0a8d1c1ebbee) |
-| Sun, 14 Sep 2025 12:42:54 GMT | My House Was Wasting a Staggering Amount of Money. | R A N A   A H M A D | [Read More](https://medium.com/p/5ea1e8dd2f1d) |
-| Sun, 14 Sep 2025 12:40:05 GMT | How to Find WhatsApp Call IP in 1 Minute | Hack Storage | [Read More](https://medium.com/p/2163a73372e3) |
-| Sun, 14 Sep 2025 12:38:06 GMT | Your npm install might be stealing your crypto | Hamza Dastagir | [Read More](https://medium.com/p/3f6803f251fb) |
-| Sun, 14 Sep 2025 12:37:52 GMT | Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts | Suhas Valasala | [Read More](https://medium.com/p/50a432ef87a2) |
