@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 14, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d11114ce8709) |
 | Sun, 14 Sep 2025 15:04:07 GMT | PG Practice — Slort (Windows) | Lepton | [Read More](https://medium.com/p/9a92539c85f5) |
 | Sun, 14 Sep 2025 14:56:44 GMT | Lattice-Based Cryptography: Can It Save Us From Quantum Computers? | Soumyashree Sahoo | [Read More](https://medium.com/p/f49d280cc50a) |
 | Sun, 14 Sep 2025 14:53:26 GMT | The Bug Behind the Delete Button: How I Found a Critical IDOR | Antonio Rivera Poblete | [Read More](https://medium.com/p/2ea938226f7b) |
@@ -114,4 +115,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 08:44:59 GMT | Pickle Rick — TryHackMe CTF Walkthrough (Beginner-friendly) | Himanshu | [Read More](https://medium.com/p/112d3609f802) |
 | Sun, 14 Sep 2025 08:37:03 GMT | Best Cybersecurity Course in Vikaspuri | Anas | [Read More](https://medium.com/p/1a1333fb902f) |
 | Sun, 14 Sep 2025 08:34:50 GMT | ECB vs CBC vs GCM: A Complete Guide to AES Encryption Modes | chandan gupta | [Read More](https://medium.com/p/6920219d604c) |
-| Sun, 14 Sep 2025 08:30:33 GMT | OSCP 我失敗了，接下來呢? | CL | [Read More](https://medium.com/p/0a60845b50db) |
