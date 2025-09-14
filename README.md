@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 18:14:51 GMT | Understanding Cross-Site Scripting (XSS) Vulnerabilities | Vaibhav Tiwari | [Read More](https://medium.com/p/5a49375867f1) |
+| Sun, 14 Sep 2025 18:09:27 GMT | The Linux Security Journey — Use Virtually Mapped Stack with Guard Pages | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0e723f5132ba) |
+| Sun, 14 Sep 2025 18:05:50 GMT | What is Directory Traversal / Path Traversal Attacks. | The Darkarmy | [Read More](https://medium.com/p/2c547c77fa66) |
+| Sun, 14 Sep 2025 18:04:44 GMT | Understanding the Backbone: Servers, Domain Controllers, and Active Directory | Florence Nwizugbe | [Read More](https://medium.com/p/7939ccb76740) |
+| Sun, 14 Sep 2025 18:03:54 GMT | THREAT BRIEF (HIGH): Adobe Commerce Flaw Lets Hackers Take Over Customer Accounts | Kavya Ganesan | [Read More](https://medium.com/p/0c55ad34219e) |
+| Sun, 14 Sep 2025 18:02:59 GMT | The Vulnerability Chronicles: Why I Went No Contact With My Parents | DamnAmazon | [Read More](https://medium.com/p/e3c381a4fb02) |
+| Sun, 14 Sep 2025 18:02:00 GMT | Bug Bounty: Open Redirect: el fallo que nadie respeta… pero todos deberíamos temer | Gorka | [Read More](https://medium.com/p/a414059a53ad) |
+| Sun, 14 Sep 2025 17:54:53 GMT | Deployment Of Network Communication Control In Oracle Cloud Infrastructure With Virtual Cloud… | Kolotcholoman Kone | [Read More](https://medium.com/p/2fa212dd2413) |
+| Sun, 14 Sep 2025 17:54:35 GMT | Default Page to Admin Paths Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/1d5709b3725b) |
+| Sun, 14 Sep 2025 17:46:12 GMT | Praktikum Internet of Things : Instalasi Arduino IDE & Uji Koneksi Board Arduino | Muhammad Surya Saputro | [Read More](https://medium.com/p/a95167f7de92) |
+| Sun, 14 Sep 2025 17:38:52 GMT | XOXO from Prague attacks LockBit again | Patrik Žák | [Read More](https://medium.com/p/f1aaa620bf5c) |
+| Sun, 14 Sep 2025 17:38:27 GMT | The Secret Playbook: How Bug Hunters Spot Vulnerabilities Before Anyone Else | Sukhveer Singh | [Read More](https://medium.com/p/a74f2e65709b) |
 | Sun, 14 Sep 2025 17:27:18 GMT | Week 9— Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/dea9932c4a0f) |
 | Sun, 14 Sep 2025 17:23:19 GMT | Hacker101- H1 Thermostat-CTF | nightbird | [Read More](https://medium.com/p/f1060fcc1a86) |
 | Sun, 14 Sep 2025 17:22:27 GMT | Every bugfix should be a refactor | Juro Uhlar | [Read More](https://medium.com/p/7e667fceeb6d) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 12:40:05 GMT | How to Find WhatsApp Call IP in 1 Minute | Hack Storage | [Read More](https://medium.com/p/2163a73372e3) |
 | Sun, 14 Sep 2025 12:38:06 GMT | Your npm install might be stealing your crypto | Hamza Dastagir | [Read More](https://medium.com/p/3f6803f251fb) |
 | Sun, 14 Sep 2025 12:37:52 GMT | Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts | Suhas Valasala | [Read More](https://medium.com/p/50a432ef87a2) |
-| Sun, 14 Sep 2025 12:37:46 GMT | The Man Who Told Me I Saved His Life | Sable North | [Read More](https://medium.com/p/30647d93675f) |
-| Sun, 14 Sep 2025 12:29:52 GMT | The Hidden Cost of LocalStorage: Security and Smarter Alternatives | Siddhesh Y. | [Read More](https://medium.com/p/f8e58fc1d219) |
-| Sun, 14 Sep 2025 12:20:56 GMT | Big Zip - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/f783d1352acc) |
-| Sun, 14 Sep 2025 12:14:37 GMT | How to Install an SSL Certificate on Your Web Server: A Step-by-Step Guide | Rashadul Islam | [Read More](https://medium.com/p/19571e312dd9) |
-| Sun, 14 Sep 2025 11:57:53 GMT | Auth Attacks Part | Balki Maharaj | [Read More](https://medium.com/p/f14b227ac1c1) |
-| Sun, 14 Sep 2025 11:43:00 GMT | Project PANOPTIC (Room 641A) | Cyrus King | [Read More](https://medium.com/p/727d91cbc08d) |
-| Sun, 14 Sep 2025 11:40:49 GMT | Breaking the "KPMG CTF 2025 Hardest Mobile Challenge": A Deep Dive into VaultPass v2 | Stalin Prevan Crasta | [Read More](https://medium.com/p/94bb61f409fb) |
-| Sun, 14 Sep 2025 11:33:40 GMT | B - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/a7318f6ddd23) |
-| Sun, 14 Sep 2025 11:30:38 GMT | Building an On-Premise Active Directory Infrastructure from Scratch (Part 1: Introduction & Lab… | Florence Nwizugbe | [Read More](https://medium.com/p/abecb7d0b5c4) |
-| Sun, 14 Sep 2025 11:27:27 GMT | UNLOCKED! The 2025 Method: Your FREE Stuff Internet Goldmine! | Trick Star | [Read More](https://medium.com/p/90b6119be3a8) |
-| Sun, 14 Sep 2025 11:18:31 GMT | Bookmarklet - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/522d8eabc9d3) |
-| Sun, 14 Sep 2025 11:14:46 GMT | When Energy AI Quantum and Cyber Threats Collide | David SEHYEON Baek | [Read More](https://medium.com/p/fb9092de6a37) |
