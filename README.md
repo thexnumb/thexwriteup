@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 16:34:07 GMT | Your Car Needs a Cyber Certification — Not Just CrashTest Star Rating | Amrik  Hanjra | [Read More](https://medium.com/p/e39ce9fdf6f6) |
+| Sun, 14 Sep 2025 16:31:54 GMT | Kerberos Server Setup on Ubuntu | Jobin J | [Read More](https://medium.com/p/55b4251003ee) |
+| Sun, 14 Sep 2025 16:31:43 GMT | Data Drift Is Inevitable How to Detect and Respond Effectively | Niamh O'Shea | [Read More](https://medium.com/p/2021f1088180) |
+| Sun, 14 Sep 2025 16:19:00 GMT | TryHackMe Writeup: UltraTech | Berkay AĞGÜL | [Read More](https://medium.com/p/0202be6f5e78) |
 | Sun, 14 Sep 2025 16:18:28 GMT | Connectors CTF All web challenges | Karim Mohamed | [Read More](https://medium.com/p/921beb9dc16e) |
 | Sun, 14 Sep 2025 16:08:23 GMT | Checkpoints on the Web: Understanding Web Application Firewalls (WAFs) | Natarajan C K | [Read More](https://medium.com/p/7de96cd8b789) |
 | Sun, 14 Sep 2025 16:07:29 GMT | Why I Stopped Writing Code Manually — and Why You Might Too | K.E.B | [Read More](https://medium.com/p/0f2c5aad8a21) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 10:41:34 GMT | Your Biggest Cybersecurity Risk Is Sitting at Your Keyboard | Shahzaib | [Read More](https://medium.com/p/afd801121893) |
 | Sun, 14 Sep 2025 10:39:46 GMT | Understanding Hacking: Types, Methods, and How to Stay Protected | amir Roshanzamir | [Read More](https://medium.com/p/bc63325410a4) |
 | Sun, 14 Sep 2025 10:38:54 GMT | Walkthrough THM Tech supp0rt 1 | Telynor | [Read More](https://medium.com/p/29b1f59eec4e) |
-| Sun, 14 Sep 2025 10:31:46 GMT | Wallet Setup 101: Secure Your Crypto Like a Pro in 2025 | IvanDTzar | [Read More](https://medium.com/p/48c3c629266b) |
-| Sun, 14 Sep 2025 10:16:45 GMT | A Hacker’s Toolkit: 10 Essential Tools for Ethical Cybersecurity | eRRoR | [Read More](https://medium.com/p/97d80c5d8a43) |
-| Sun, 14 Sep 2025 10:06:08 GMT | Blood and Banners: Unpacking the Transatlantic Rage — Kirk’s Death and the ‘Unite the Kingdom’… | Prof. Tahir Abbas | [Read More](https://medium.com/p/c804892aa82a) |
-| Sun, 14 Sep 2025 10:00:25 GMT | DockerLabs Writeup — 404-not-found (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ac5e5ca9b07) |
