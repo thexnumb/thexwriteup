@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 22:59:17 GMT | 1Password vs Bitwarden in 2025: Which Password Manager Should You Trust? | BiyteLüm | [Read More](https://medium.com/p/ef2e1efeeaa2) |
+| Sun, 14 Sep 2025 22:56:18 GMT | 4 Startup Websites That Will Get You a Feature in TechCrunch | Alpha Design Global | [Read More](https://medium.com/p/b23ad030e1fa) |
+| Sun, 14 Sep 2025 22:43:20 GMT | The Compliance Certificate Illusion : Why SOC 2 and ISO 27001 Won’t Protect You From Third-Party… | Akilnath Bodipudi | [Read More](https://medium.com/p/dd7c9f660dbb) |
+| Sun, 14 Sep 2025 22:41:53 GMT | Decompose human risk factors | Matthew.Rosenquist | [Read More](https://medium.com/p/45fe3d902694) |
+| Sun, 14 Sep 2025 22:34:52 GMT | The Role of AI in Cybersecurity: Why AI Should Be Your New Best Friend in Cybersecurity | Ebenezer | [Read More](https://medium.com/p/e06b7f83433c) |
 | Sun, 14 Sep 2025 22:25:43 GMT | Automating Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/15544c7fc069) |
 | Sun, 14 Sep 2025 22:11:54 GMT | How Freestyle Thinks About Security, Auditing, and Best Practices for Isolated AI Code Execution | Benjamin Swerdlow | [Read More](https://medium.com/p/416a7b3512d9) |
 | Sun, 14 Sep 2025 22:01:02 GMT | How Docker Turned My Repetitive OSINT Tasks Into a One-Click Workflow | Sam Galope | [Read More](https://medium.com/p/d54559d891cd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 16:18:28 GMT | Connectors CTF All web challenges | Karim Mohamed | [Read More](https://medium.com/p/921beb9dc16e) |
 | Sun, 14 Sep 2025 16:08:23 GMT | Checkpoints on the Web: Understanding Web Application Firewalls (WAFs) | Natarajan C K | [Read More](https://medium.com/p/7de96cd8b789) |
 | Sun, 14 Sep 2025 16:07:29 GMT | Why I Stopped Writing Code Manually — and Why You Might Too | K.E.B | [Read More](https://medium.com/p/0f2c5aad8a21) |
-| Sun, 14 Sep 2025 16:01:59 GMT | Beyond the Digital Casino: Building an Unbreakable Economic Network with Physics | kami lepallec | [Read More](https://medium.com/p/e357c653fc5d) |
-| Sun, 14 Sep 2025 16:01:41 GMT | Microsoft’s September Patch Tuesday: 86 Vulnerabilities Fixed, 2 Zero-Days Addressed | Chetan Seripally | [Read More](https://medium.com/p/a3aba5cf15de) |
-| Sun, 14 Sep 2025 15:59:32 GMT | Unveiling the Umbrella Intelligence Platform Backend: Executive Security at Your Fingertips | Somak Somanchi | [Read More](https://medium.com/p/9fee561fdecc) |
-| Sun, 14 Sep 2025 15:58:21 GMT | eSIM Market Size, Share & Industry Analysis: A Comprehensive 2024–2032 Outlook | Rahul Ankush Salunkhe | [Read More](https://medium.com/p/f8517297f795) |
-| Sun, 14 Sep 2025 15:58:04 GMT | OverTheWire Bandit Solutions (Levels 0–15) | Regaan | [Read More](https://medium.com/p/ee378a842fb1) |
