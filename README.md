@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 11:18:31 GMT | Bookmarklet - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/522d8eabc9d3) |
+| Sun, 14 Sep 2025 11:14:46 GMT | When Energy AI Quantum and Cyber Threats Collide | David SEHYEON Baek | [Read More](https://medium.com/p/fb9092de6a37) |
 | Sun, 14 Sep 2025 11:06:58 GMT | PG Practice — Nibbles (Linux) | Lepton | [Read More](https://medium.com/p/a68ef4c6b938) |
 | Sun, 14 Sep 2025 11:06:34 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/fcec95a8e8c8) |
 | Sun, 14 Sep 2025 11:02:28 GMT | I Forgot How to Code: A Letter to My Formerly Syntactically Superior Self | Jaelyn Denise | [Read More](https://medium.com/p/7d3d7c7048a5) |
@@ -112,5 +114,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 01:14:48 GMT | Connectors CTF “Locked Out” challenge | mostafa mahmoud | [Read More](https://medium.com/p/ba3a53bec15e) |
 | Sun, 14 Sep 2025 01:11:42 GMT | The Impact of Your Relationship with Your Father on Your Intimate Relationships | Xiexiange | [Read More](https://medium.com/p/02787ac7fecf) |
 | Sun, 14 Sep 2025 00:41:29 GMT | ️When Loss Wakes Us Up️ | Susana | [Read More](https://medium.com/p/fb0d1c098247) |
-| Sun, 14 Sep 2025 00:41:24 GMT | Automating Windows Security Baselines with PowerShell | Navneetbhogal | [Read More](https://medium.com/p/8f06995cb01b) |
-| Sun, 14 Sep 2025 00:26:56 GMT | The Fear of Vulnerability | Edge Coaching | [Read More](https://medium.com/p/70e087c6caff) |
