@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 02:52:39 GMT | Web3 Security Issues and the Role of Drosera in Building a Resilient Blockchain Ecosystem | Charliewonders | [Read More](https://medium.com/p/074b17c6f22f) |
+| Sun, 14 Sep 2025 02:47:22 GMT | Memahami “Scope” dalam CVSS v3.1 Menurut NIST | raflesia it | [Read More](https://medium.com/p/2956350a172e) |
+| Sun, 14 Sep 2025 02:41:12 GMT | Linux Kernel Hacking: Modifying the Core | Eren Cankut Uysal | [Read More](https://medium.com/p/54f8e2834745) |
+| Sun, 14 Sep 2025 02:31:43 GMT | AI Agents for Security: The Sidekicks Every Bug Hunter Needs | Sukhveer Singh | [Read More](https://medium.com/p/8db4312266b4) |
+| Sun, 14 Sep 2025 02:25:16 GMT | The Courage in Being Seen: How Embracing Vulnerability Can Inspire Others | vydhi | [Read More](https://medium.com/p/99d0e03ad232) |
+| Sun, 14 Sep 2025 02:09:43 GMT | Inside Russia’s Digital Playbook: From Election Meddling to AI-Powered Propaganda | Reid Madduxx | [Read More](https://medium.com/p/96fcc13feefa) |
+| Sun, 14 Sep 2025 02:06:37 GMT | Statement on the Curators of Amnesia and the Intended Effect on the Attacks on the World Trade… | Michael Darius | [Read More](https://medium.com/p/29825bac846c) |
+| Sun, 14 Sep 2025 02:03:49 GMT | The Phishing Pandemic: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8db82e07e38d) |
+| Sun, 14 Sep 2025 02:03:00 GMT | Envelope Encryption with AWS KMS: Secure Keys, Scalable Trust | Aditya Prakash | [Read More](https://medium.com/p/a635145064b3) |
+| Sun, 14 Sep 2025 01:58:27 GMT | Cyber Security Details: Password Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/0d29b97166f8) |
+| Sun, 14 Sep 2025 01:53:08 GMT | Securing Your Smart Home: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/7401b19dfb8c) |
+| Sun, 14 Sep 2025 01:47:02 GMT | Cyber Security Details: Mobile Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/074a956eb851) |
 | Sun, 14 Sep 2025 01:39:30 GMT | Pickle Rick — TryHackMe Walkthrough | James Rawlings | [Read More](https://medium.com/p/4f8cf21ddf2a) |
 | Sun, 14 Sep 2025 01:35:17 GMT | Basic Pentesting — TryHackMe Walkthrough | James Rawlings | [Read More](https://medium.com/p/180a1ef1af73) |
 | Sun, 14 Sep 2025 01:19:59 GMT | Perancangan Topologi Jaringan Komputer di Rumah Sakit #1 | Zurichsabil | [Read More](https://medium.com/p/e15c6ed5d119) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 16:27:17 GMT | Stealth Mode for Your Servers: Securing Services with Dynamic Port Knocking and TOTP | Trevor Woollacott | [Read More](https://medium.com/p/bfba43f77413) |
 | Sat, 13 Sep 2025 16:13:52 GMT | TryHackMe Writeup: Mr Robot CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/a7b8223d12fb) |
 | Sat, 13 Sep 2025 16:10:20 GMT | Samsung Patches Zero-Day Actively Exploited in WhatsApp-Reported Attack | Suhas Valasala | [Read More](https://medium.com/p/6bceff88f9cf) |
-| Sat, 13 Sep 2025 16:06:45 GMT | From “Is This You?” to “Access Granted”: A Practical HMAC Deep-Dive for .NET APIs | Brian Mora | [Read More](https://medium.com/p/ce19e4dce182) |
-| Sat, 13 Sep 2025 15:57:37 GMT | The StrawHat Hackers Architecture | Lumir | [Read More](https://medium.com/p/d2b5ae78ea48) |
-| Sat, 13 Sep 2025 15:55:57 GMT | 7 Essential Cyber Security Tips for Everyone | Tech Master | [Read More](https://medium.com/p/ac9e71a87f31) |
-| Sat, 13 Sep 2025 15:49:51 GMT | CRTP vs CRTE: Mastering Active Directory | MalwareBro | [Read More](https://medium.com/p/b45e5490277f) |
-| Sat, 13 Sep 2025 15:47:32 GMT | FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks | Suhas Valasala | [Read More](https://medium.com/p/5950681281d1) |
-| Sat, 13 Sep 2025 15:47:11 GMT | How I Found 4 Bugs in a NASA Scope | @0xuserm9 | [Read More](https://medium.com/p/4446fd45a074) |
-| Sat, 13 Sep 2025 15:43:24 GMT | Supporting Cloud and Hybrid Infrastructure at Scale | Ron | [Read More](https://medium.com/p/b70c9738fdd6) |
-| Sat, 13 Sep 2025 15:38:11 GMT | 10 airport luggage mistakes to avoid flying with | qroco.app | [Read More](https://medium.com/p/5fed6146fe76) |
-| Sat, 13 Sep 2025 15:37:05 GMT | Legacy Systems and CVEs: The Unseen Threat to Ghana’s Digital Landscape | Glenn Rodney | [Read More](https://medium.com/p/5deaab4b2383) |
-| Sat, 13 Sep 2025 15:33:11 GMT | Understanding JWT: A Beginner-Friendly Guide with Python | Maaz Bin Mustaqeem | [Read More](https://medium.com/p/71b29953f3ab) |
-| Sat, 13 Sep 2025 15:29:53 GMT | The Largest Supply Chain Attack in Open Source History: NPM Compromise Shakes the Software World | Sajjad Asaad | [Read More](https://medium.com/p/dc0f11c9c5c5) |
-| Sat, 13 Sep 2025 15:23:38 GMT | The Invisible Prison: How Society’s “Man Box” Traps Urban Men | Randhir Jha | [Read More](https://medium.com/p/ba4d2d85c424) |
