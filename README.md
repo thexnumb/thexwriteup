@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 19:09:44 GMT | Week 6 of My 90-Day Challenge: Halfway and a Readjustment | Mike (sl0th0x87) | [Read More](https://medium.com/p/bd0f948d7dcb) |
+| Sun, 14 Sep 2025 19:06:41 GMT | Linux AppArmor: Confined Execution | Eren Cankut Uysal | [Read More](https://medium.com/p/65a9f9d2f49b) |
+| Sun, 14 Sep 2025 19:05:48 GMT | Bug Bounty Goldmine: Hidden Inputs in AJAX, JSON & GraphQL — Where Hunters Strike Gold | Zoningxtr | [Read More](https://medium.com/p/cb2936addf57) |
+| Sun, 14 Sep 2025 18:58:57 GMT | Linux SELinux: Mandatory Access Control | Eren Cankut Uysal | [Read More](https://medium.com/p/195bfdb420f4) |
+| Sun, 14 Sep 2025 18:57:48 GMT | Writing Your First Custom C2 Implant in a Memory-Safe Language (Go/Rust) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/a46296ad0425) |
+| Sun, 14 Sep 2025 18:54:46 GMT | “B1g_Mac” challenge | oussama | [Read More](https://medium.com/p/b55ac498ba41) |
+| Sun, 14 Sep 2025 18:51:37 GMT | Hedef Sertifikalar | Gokhan Can | [Read More](https://medium.com/p/5534981b9543) |
+| Sun, 14 Sep 2025 18:51:36 GMT | ERASR: The Quiet Upgrade That Makes India’s Seas Safer | Gaurav Das | [Read More](https://medium.com/p/7bbca1cacd5b) |
+| Sun, 14 Sep 2025 18:51:33 GMT | Why Blue Teamers Should Play Offensive CTFs — Wicys member experience | lyna Ben yakoub | [Read More](https://medium.com/p/0371e167ea13) |
+| Sun, 14 Sep 2025 18:51:23 GMT | Cyber Security Details: From Novice to Expert | Cyber Security Research | [Read More](https://medium.com/p/e582985ef0eb) |
+| Sun, 14 Sep 2025 18:49:04 GMT | Achieving SOC Excellence: From Self-Assessment to Continuous Improvement | Sebastian Kandler | [Read More](https://medium.com/p/5ad72a5aca4f) |
+| Sun, 14 Sep 2025 18:44:51 GMT | The Ultimate Cyber Security Details Checklist | Cyber Security Research | [Read More](https://medium.com/p/c273488377d6) |
+| Sun, 14 Sep 2025 18:39:05 GMT | A Developer’s Crash Course in Cryptography, Part 4: Information Theory and the Digital Revolution | Steinwendner Matthias | [Read More](https://medium.com/p/a799bb6064a9) |
+| Sun, 14 Sep 2025 18:38:39 GMT | Cyber Security Details: Staying Informed About New Threats | Cyber Security Research | [Read More](https://medium.com/p/f1bb6f596744) |
+| Sun, 14 Sep 2025 18:32:39 GMT | From “What the heck is Microservices?” to Google Pay Scale — My DevOps Learner Journey | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/65c3fa5ff0dd) |
+| Sun, 14 Sep 2025 18:31:26 GMT | The Ethics of Cyber Security: Details | Cyber Security Research | [Read More](https://medium.com/p/1c5fb9329ff8) |
 | Sun, 14 Sep 2025 18:26:20 GMT | 70+ Labs I Solved for OSCP and Which Ones You Should Focus On | Diasadin | [Read More](https://medium.com/p/cab3c7c8583f) |
 | Sun, 14 Sep 2025 18:25:21 GMT | Cyber Security Details: Navigating the Legal Landscape | Cyber Security Research | [Read More](https://medium.com/p/1937594352b8) |
 | Sun, 14 Sep 2025 18:23:53 GMT | How DRM Safeguards Streaming Platforms like Netflix & Prime Video | Kanishk Srivastava | [Read More](https://medium.com/p/b75b4bce9f94) |
@@ -25,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 18:02:00 GMT | Bug Bounty: Open Redirect: el fallo que nadie respeta… pero todos deberíamos temer | Gorka | [Read More](https://medium.com/p/a414059a53ad) |
 | Sun, 14 Sep 2025 17:54:53 GMT | Deployment Of Network Communication Control In Oracle Cloud Infrastructure With Virtual Cloud… | Kolotcholoman Kone | [Read More](https://medium.com/p/2fa212dd2413) |
 | Sun, 14 Sep 2025 17:54:35 GMT | Default Page to Admin Paths Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/1d5709b3725b) |
+| Sun, 14 Sep 2025 17:49:12 GMT | Praktikum Internet of Things: Pemrograman Dasar Mikrokontroler | Muhammad Surya Saputro | [Read More](https://medium.com/p/503ec054007f) |
 | Sun, 14 Sep 2025 17:47:40 GMT | Praktikum Internet of Things (Tugas): Instalasi Arduino IDE & Uji Koneksi Board Arduino | Muhammad Surya Saputro | [Read More](https://medium.com/p/88ba133f6d6a) |
 | Sun, 14 Sep 2025 17:46:12 GMT | Praktikum Internet of Things : Instalasi Arduino IDE & Uji Koneksi Board Arduino | Muhammad Surya Saputro | [Read More](https://medium.com/p/a95167f7de92) |
 | Sun, 14 Sep 2025 17:38:52 GMT | XOXO from Prague attacks LockBit again | Patrik Žák | [Read More](https://medium.com/p/f1aaa620bf5c) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 13:40:01 GMT | Strategic Tech Stack Selection: Building Robust Projects Without Costly Missteps | Vignaraj Ravi | [Read More](https://medium.com/p/4b445195f69f) |
 | Sun, 14 Sep 2025 13:31:39 GMT | Relearning the Essentials: Windows ISO Downloads & Server VM Startup | Tyrik Emptage | [Read More](https://medium.com/p/b1050f7ff340) |
 | Sun, 14 Sep 2025 13:29:26 GMT | Quantum Computing Breakthroughs of 2025: What They Mean for Developers | Umesh Anjula | [Read More](https://medium.com/p/7db647bc375a) |
-| Sun, 14 Sep 2025 13:19:46 GMT | I Didn’t Disappear. I Downloaded Myself. | Imanologya | [Read More](https://medium.com/p/bb489bf28e31) |
-| Sun, 14 Sep 2025 13:15:30 GMT | The Future of Anti-Virus Software: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8bb697888531) |
-| Sun, 14 Sep 2025 13:15:16 GMT | The Rise of Agentic AI: How Autonomous Systems Are Redefining Work in 2025 | Umesh Anjula | [Read More](https://medium.com/p/287bc89896a0) |
-| Sun, 14 Sep 2025 13:11:41 GMT | SOLD to the highest bidder — your personal information! | Vi Sing | [Read More](https://medium.com/p/2bb5001a03d0) |
-| Sun, 14 Sep 2025 13:11:26 GMT | Mebucorp Softwares: Shaping the Future of Tech in Cameroon and Beyond | the Cypher | [Read More](https://medium.com/p/890e56c4644b) |
-| Sun, 14 Sep 2025 13:09:37 GMT | Cyber Security Details: Reporting Cyber Security Incidents | Cyber Security Research | [Read More](https://medium.com/p/707d93829ac4) |
-| Sun, 14 Sep 2025 13:06:53 GMT | Frontend Security 101: What Every Engineer Should Know | Aanchalgoel | [Read More](https://medium.com/p/222ae7202afb) |
-| Sun, 14 Sep 2025 13:06:37 GMT | Reflexive Control in Islamist Terrorism and Three Examples — Afghanistan, Gaza, Syria | SIMKRA | [Read More](https://medium.com/p/2bf41477c0e2) |
-| Sun, 14 Sep 2025 13:01:43 GMT | Documento de Alcance Técnico del Pentesting (Scope of Work — SOW) | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/2019097c807b) |
-| Sun, 14 Sep 2025 12:57:13 GMT | What AI Knows About You Is Scarier Than You Think | Taruna Thakur | [Read More](https://medium.com/p/96f13ea11e5c) |
-| Sun, 14 Sep 2025 12:56:20 GMT | Cyber Security Details: Career Paths in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/dbf1bba27405) |
-| Sun, 14 Sep 2025 12:54:17 GMT | Locked Out? Here’s How I Recovered My Old Laptop without Losing Data  — Utilman Trick | Abhiram (Ram) Krishnakumar Nair | [Read More](https://medium.com/p/23ee23ac53f3) |
-| Sun, 14 Sep 2025 12:50:44 GMT | HackTheBox: Planning (writeup) | SilentExploit | [Read More](https://medium.com/p/058615f438e4) |
-| Sun, 14 Sep 2025 12:50:37 GMT | Do You Know How Strong You Have to Be | Sable North | [Read More](https://medium.com/p/9aeed1bf4615) |
-| Sun, 14 Sep 2025 12:50:08 GMT | The Legality of Ethical Hacking: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/17aa8a015257) |
-| Sun, 14 Sep 2025 12:45:09 GMT | جهت صیغه موقت ودائم تلگرام پیام بدهید(09915528413)ویا باشماره (09364608280)
-صیغه بهبهان صیغه مشگین… | مهدی رضایی | [Read More](https://medium.com/p/0f4607c5554b) |
-| Sun, 14 Sep 2025 12:43:39 GMT | Vulnerability Is Power: Building Brave Communities, One Story at   a Time | Vulnerability Is Power Community Ke | [Read More](https://medium.com/p/5b42879aaffd) |
