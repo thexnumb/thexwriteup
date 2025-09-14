@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 14:10:27 GMT | Can Bug Bounty Hunting Make One A Millionaire? | Rehan Sohail | [Read More](https://medium.com/p/d8fef40820e9) |
+| Sun, 14 Sep 2025 14:09:44 GMT | The Art of Secure, User-Friendly Login Portals | Tusharpuri | [Read More](https://medium.com/p/14479d8c10e1) |
+| Sun, 14 Sep 2025 14:01:51 GMT | The Roadmap: Where ABTU Is Going (2025–2027) | Abatis ABTU | [Read More](https://medium.com/p/0213c87eee81) |
+| Sun, 14 Sep 2025 14:01:49 GMT | The Father-Child Bond: How Your Relationship with Dad Shapes Your Social Connections and Inner… | Xiexiange | [Read More](https://medium.com/p/a570ffce9a3e) |
+| Sun, 14 Sep 2025 13:50:41 GMT | Linux PAM: Pluggable Authentication Modules | Eren Cankut Uysal | [Read More](https://medium.com/p/ead2e254483e) |
+| Sun, 14 Sep 2025 13:48:30 GMT | Ransomware Network Analysis -BTLO | Juan Alexander Alejo | [Read More](https://medium.com/p/78e11195fb38) |
+| Sun, 14 Sep 2025 13:46:26 GMT | Day 2 — The Token Bugs Nobody Talks About | Viratavi | [Read More](https://medium.com/p/8c411e30c452) |
+| Sun, 14 Sep 2025 13:46:05 GMT | Case Study “Fictitious”- Reflexive Control, Online Radicalization and the Way Out of the “Lone… | SIMKRA | [Read More](https://medium.com/p/f2a2d7d6e973) |
+| Sun, 14 Sep 2025 13:44:41 GMT | Your Password Just Got HACKED by a GLITCH in the System! | Santhosh Kumar | [Read More](https://medium.com/p/b57e9649011a) |
+| Sun, 14 Sep 2025 13:41:56 GMT | Linux Security Modules: Extending Security Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/34a6b109c332) |
+| Sun, 14 Sep 2025 13:40:01 GMT | Strategic Tech Stack Selection: Building Robust Projects Without Costly Missteps | Vignaraj Ravi | [Read More](https://medium.com/p/4b445195f69f) |
 | Sun, 14 Sep 2025 13:31:39 GMT | Relearning the Essentials: Windows ISO Downloads & Server VM Startup | Tyrik Emptage | [Read More](https://medium.com/p/b1050f7ff340) |
+| Sun, 14 Sep 2025 13:29:26 GMT | Quantum Computing Breakthroughs of 2025: What They Mean for Developers | Umesh Anjula | [Read More](https://medium.com/p/7db647bc375a) |
 | Sun, 14 Sep 2025 13:19:46 GMT | I Didn’t Disappear. I Downloaded Myself. | Imanologya | [Read More](https://medium.com/p/bb489bf28e31) |
 | Sun, 14 Sep 2025 13:15:30 GMT | The Future of Anti-Virus Software: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8bb697888531) |
 | Sun, 14 Sep 2025 13:15:16 GMT | The Rise of Agentic AI: How Autonomous Systems Are Redefining Work in 2025 | Umesh Anjula | [Read More](https://medium.com/p/287bc89896a0) |
@@ -103,15 +115,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 06:48:54 GMT | Worried About Rug Pulls in Crypto? Here’s How to Protect Your Token | Solana Token Creator | [Read More](https://medium.com/p/1eabe0f197c5) |
 | Sun, 14 Sep 2025 06:48:02 GMT | Will AI replace cybersecurity roles? Short answer: AI replaces tasks before it replaces titles. | Roger Millar | [Read More](https://medium.com/p/760bdc19c6b6) |
 | Sun, 14 Sep 2025 06:39:04 GMT | The Dark Side of AI Productivity Hacks: Are We Burning Out Faster? | Naila Ahsan | [Read More](https://medium.com/p/fa863bb278fb) |
-| Sun, 14 Sep 2025 06:32:44 GMT | Android vs iOS Security: Which Is Really Safer? | Abida Adra | [Read More](https://medium.com/p/c2688ddb2e2a) |
-| Sun, 14 Sep 2025 06:08:46 GMT | picoCTF basic-mod2 | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/e093286e3b18) |
-| Sun, 14 Sep 2025 06:01:57 GMT | I Built My Own PC Vulnerability Scanner (and You Can Too!) | VidyaRao008 | [Read More](https://medium.com/p/2be4a67c91d1) |
-| Sun, 14 Sep 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Sep 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/db0aa8c2047b) |
-| Sun, 14 Sep 2025 05:57:26 GMT | Understanding & Configuring CORS in ASP.NET Core | Ajit Sanghera | [Read More](https://medium.com/p/c8222f27df39) |
-| Sun, 14 Sep 2025 05:16:04 GMT | Cloud Incident Response: A Practical Guide to Handling Security Incidents in AWS, Azure, and GCP | Paritosh | [Read More](https://medium.com/p/a7e8c3ea2323) |
-| Sun, 14 Sep 2025 04:54:07 GMT | Pandit Surya ji Top/Best Indian Astrologer Psychic Spiritualist Vashikaran Expert Provided… | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/396ad382aa03) |
-| Sun, 14 Sep 2025 04:52:55 GMT | A Bug in The System: The One line of code That Gave me Free Pro Account | Error404 | [Read More](https://medium.com/p/6237a838b333) |
-| Sun, 14 Sep 2025 04:41:02 GMT | UART Shell Privilege Escalation - KPMG CTF 2025 Writeup | Sheldon Menezes | [Read More](https://medium.com/p/8ce322de8d63) |
-| Sun, 14 Sep 2025 04:40:54 GMT | The Courage to Keep Coming: Reflections on My Tenth Metaversary | Ketan Vinay Gulati | [Read More](https://medium.com/p/8d7b6e865fda) |
-| Sun, 14 Sep 2025 04:31:44 GMT | How I Made a Passive Travelling Bot In Torn | Faheem Anis | [Read More](https://medium.com/p/debb7683bd00) |
-| Sun, 14 Sep 2025 04:29:22 GMT | Invite Only - TryHackMe | Samuel McLamb | [Read More](https://medium.com/p/7e539cb9b0bb) |
