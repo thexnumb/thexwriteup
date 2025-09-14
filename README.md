@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 21:32:00 GMT | The Future of AI in Penetration Testing: From Assistant to Autonomous Hacker | Taha Ex | [Read More](https://medium.com/p/54eea700ea0a) |
+| Sun, 14 Sep 2025 21:25:58 GMT | Remote Shell Walkthrough on Kioptrix & Blue Windows (Lab Practice) | ishaq Jafar | [Read More](https://medium.com/p/432cce485361) |
+| Sun, 14 Sep 2025 21:19:19 GMT | I Built a Simple POC That Earned a $10,000 Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/0eed90c9ccce) |
+| Sun, 14 Sep 2025 21:18:35 GMT | O básico de segurança de APIs em .NET Core com JSON Web Tokens (JWT) | Lucas Camanducci | [Read More](https://medium.com/p/5799653bc218) |
+| Sun, 14 Sep 2025 21:15:29 GMT | Mr.Robot WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/e2f772bde713) |
 | Sun, 14 Sep 2025 20:58:34 GMT | Think Like a Hacker: Strengthening Security Through Penetration Testing | Asmaahardawa | [Read More](https://medium.com/p/4c7da95a868d) |
 | Sun, 14 Sep 2025 20:50:41 GMT | SIGNS TO SPOT A CELEBRITY SCAMMER AND IMPOSTER | Zabra | [Read More](https://medium.com/p/922bce38cef1) |
 | Sun, 14 Sep 2025 20:45:37 GMT | No One Ever Expects the Security Inquisition | TD | [Read More](https://medium.com/p/9749c898ed91) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 15:32:14 GMT | DROSERA, ITS TRAPS, AND THE POTENTIAL REAL-WORLD APPLICATIONS : | MAVERICK | [Read More](https://medium.com/p/734d82b0666c) |
 | Sun, 14 Sep 2025 15:31:41 GMT | Your ChatGPT Secrets Could Testify Against You: Here’s the Proof | Mohamed Bakry | [Read More](https://medium.com/p/8dc2c4af631b) |
 | Sun, 14 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 14, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d11114ce8709) |
-| Sun, 14 Sep 2025 15:04:07 GMT | PG Practice — Slort (Windows) | Lepton | [Read More](https://medium.com/p/9a92539c85f5) |
-| Sun, 14 Sep 2025 14:56:44 GMT | Lattice-Based Cryptography: Can It Save Us From Quantum Computers? | Soumyashree Sahoo | [Read More](https://medium.com/p/f49d280cc50a) |
-| Sun, 14 Sep 2025 14:53:26 GMT | The Bug Behind the Delete Button: How I Found a Critical IDOR | Antonio Rivera Poblete | [Read More](https://medium.com/p/2ea938226f7b) |
-| Sun, 14 Sep 2025 14:53:16 GMT | Kerberos Unlocked (Part 1): The Flow of Authentication | Beacon Bytes | [Read More](https://medium.com/p/d6566405f563) |
-| Sun, 14 Sep 2025 14:49:01 GMT | The Strength of Authentic Vulnerability | José Andrés Olivera Amato | [Read More](https://medium.com/p/2870af84ae3c) |
