@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 17:27:18 GMT | Week 9— Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/dea9932c4a0f) |
+| Sun, 14 Sep 2025 17:23:19 GMT | Hacker101- H1 Thermostat-CTF | nightbird | [Read More](https://medium.com/p/f1060fcc1a86) |
+| Sun, 14 Sep 2025 17:22:27 GMT | Every bugfix should be a refactor | Juro Uhlar | [Read More](https://medium.com/p/7e667fceeb6d) |
+| Sun, 14 Sep 2025 17:15:01 GMT | Life After Graduation: The Unspoken Struggle of a “No Experience” BSIT Graduate | Zilli | [Read More](https://medium.com/p/b01111c4febd) |
 | Sun, 14 Sep 2025 17:01:46 GMT | Advanced Node.js Series (Part 5): Securing Your Node.js Applications | habtesoft | [Read More](https://medium.com/p/fe30a2208bb9) |
 | Sun, 14 Sep 2025 17:01:46 GMT | How I Recovered From a Data Breach — Step by Humbling Step | Cyberkech | [Read More](https://medium.com/p/f39c476b8be9) |
 | Sun, 14 Sep 2025 17:01:46 GMT | LetsDefend — Disclose The Agent Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/f86b4905891a) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 11:27:27 GMT | UNLOCKED! The 2025 Method: Your FREE Stuff Internet Goldmine! | Trick Star | [Read More](https://medium.com/p/90b6119be3a8) |
 | Sun, 14 Sep 2025 11:18:31 GMT | Bookmarklet - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/522d8eabc9d3) |
 | Sun, 14 Sep 2025 11:14:46 GMT | When Energy AI Quantum and Cyber Threats Collide | David SEHYEON Baek | [Read More](https://medium.com/p/fb9092de6a37) |
-| Sun, 14 Sep 2025 11:06:58 GMT | PG Practice — Nibbles (Linux) | Lepton | [Read More](https://medium.com/p/a68ef4c6b938) |
-| Sun, 14 Sep 2025 11:06:34 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/fcec95a8e8c8) |
-| Sun, 14 Sep 2025 11:02:28 GMT | I Forgot How to Code: A Letter to My Formerly Syntactically Superior Self | Jaelyn Denise | [Read More](https://medium.com/p/7d3d7c7048a5) |
-| Sun, 14 Sep 2025 11:01:44 GMT | The Courage to Admit I Want to Be Cared For | Her Out-of-Office Feelings | [Read More](https://medium.com/p/916608ebe13f) |
