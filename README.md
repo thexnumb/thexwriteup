@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 16:18:28 GMT | Connectors CTF All web challenges | Karim Mohamed | [Read More](https://medium.com/p/921beb9dc16e) |
+| Sun, 14 Sep 2025 16:08:23 GMT | Checkpoints on the Web: Understanding Web Application Firewalls (WAFs) | Natarajan C K | [Read More](https://medium.com/p/7de96cd8b789) |
+| Sun, 14 Sep 2025 16:07:29 GMT | Why I Stopped Writing Code Manually — and Why You Might Too | K.E.B | [Read More](https://medium.com/p/0f2c5aad8a21) |
+| Sun, 14 Sep 2025 16:01:59 GMT | Beyond the Digital Casino: Building an Unbreakable Economic Network with Physics | kami lepallec | [Read More](https://medium.com/p/e357c653fc5d) |
+| Sun, 14 Sep 2025 16:01:41 GMT | Microsoft’s September Patch Tuesday: 86 Vulnerabilities Fixed, 2 Zero-Days Addressed | Chetan Seripally | [Read More](https://medium.com/p/a3aba5cf15de) |
+| Sun, 14 Sep 2025 15:59:32 GMT | Unveiling the Umbrella Intelligence Platform Backend: Executive Security at Your Fingertips | Somak Somanchi | [Read More](https://medium.com/p/9fee561fdecc) |
+| Sun, 14 Sep 2025 15:58:21 GMT | eSIM Market Size, Share & Industry Analysis: A Comprehensive 2024–2032 Outlook | Rahul Ankush Salunkhe | [Read More](https://medium.com/p/f8517297f795) |
+| Sun, 14 Sep 2025 15:58:04 GMT | OverTheWire Bandit Solutions (Levels 0–15) | Regaan | [Read More](https://medium.com/p/ee378a842fb1) |
+| Sun, 14 Sep 2025 15:42:23 GMT | Securing AI Systems: Detecting Adversarial Attacks with Explainable AI | Prakashraam | [Read More](https://medium.com/p/0d8bce53e39b) |
+| Sun, 14 Sep 2025 15:42:01 GMT | Assessment Methodologies: Information Gathering CTF 1 Writeup | Xnirkun | [Read More](https://medium.com/p/af5d37aa6db6) |
+| Sun, 14 Sep 2025 15:41:08 GMT | Debunking the Myth: Does TPM Really Slow Down Your File Downloads? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/af90c5dc2755) |
+| Sun, 14 Sep 2025 15:34:11 GMT | How to Extract Information from Websites: Automated OSINT Techniques and Tools | Vijay Kumar Gupta | [Read More](https://medium.com/p/dea18e3b7114) |
+| Sun, 14 Sep 2025 15:32:14 GMT | DROSERA, ITS TRAPS, AND THE POTENTIAL REAL-WORLD APPLICATIONS : | MAVERICK | [Read More](https://medium.com/p/734d82b0666c) |
+| Sun, 14 Sep 2025 15:31:41 GMT | Your ChatGPT Secrets Could Testify Against You: Here’s the Proof | Mohamed Bakry | [Read More](https://medium.com/p/8dc2c4af631b) |
 | Sun, 14 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 14, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d11114ce8709) |
 | Sun, 14 Sep 2025 15:04:07 GMT | PG Practice — Slort (Windows) | Lepton | [Read More](https://medium.com/p/9a92539c85f5) |
 | Sun, 14 Sep 2025 14:56:44 GMT | Lattice-Based Cryptography: Can It Save Us From Quantum Computers? | Soumyashree Sahoo | [Read More](https://medium.com/p/f49d280cc50a) |
@@ -99,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 10:16:45 GMT | A Hacker’s Toolkit: 10 Essential Tools for Ethical Cybersecurity | eRRoR | [Read More](https://medium.com/p/97d80c5d8a43) |
 | Sun, 14 Sep 2025 10:06:08 GMT | Blood and Banners: Unpacking the Transatlantic Rage — Kirk’s Death and the ‘Unite the Kingdom’… | Prof. Tahir Abbas | [Read More](https://medium.com/p/c804892aa82a) |
 | Sun, 14 Sep 2025 10:00:25 GMT | DockerLabs Writeup — 404-not-found (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3ac5e5ca9b07) |
-| Sun, 14 Sep 2025 09:52:52 GMT | OWASP Mobile Top 10 — M4: Insufficient Input/Output Validation (“If you eat junk without checking… | bithowl | [Read More](https://medium.com/p/460bfbf59e13) |
-| Sun, 14 Sep 2025 09:48:17 GMT | How a Simple IDOR Earned Me $500 | Karthikeyan | [Read More](https://medium.com/p/79802371a565) |
-| Sun, 14 Sep 2025 09:46:44 GMT | SSRF Symphony: How I Turned a PDF Generator Into an Internal Network Spy | Iski | [Read More](https://medium.com/p/0d085a9c1c9e) |
-| Sun, 14 Sep 2025 09:39:27 GMT | Quantum Computing vs. Cybersecurity: The Digital Arms Race of the Future | Pranav Agarwal | [Read More](https://medium.com/p/4d1af51d4366) |
-| Sun, 14 Sep 2025 09:31:11 GMT | Narcissism in the Dark Triad: Professional Impact - Part 1 - Lumir | Lumirism | [Read More](https://medium.com/p/46bad253353a) |
-| Sun, 14 Sep 2025 09:11:25 GMT | Zolatron homebrew micro: VIA-based user ports and printer interface | Mansfield-Devine | [Read More](https://medium.com/p/79f95fde5f42) |
-| Sun, 14 Sep 2025 09:08:06 GMT | Tests Are Cheaper Than Breaches | Coding Creed Technologies | [Read More](https://medium.com/p/809d6490b498) |
-| Sun, 14 Sep 2025 09:06:34 GMT | OWASP API Security Top 10–1 | Ankit Dhaka | [Read More](https://medium.com/p/bc8f14f13008) |
-| Sun, 14 Sep 2025 09:02:28 GMT | How I Found XCSSET Malware in 40 Public GitHub Repositories Using Github Dorking | Mayank Joshi | [Read More](https://medium.com/p/2ba7a93f3e70) |
-| Sun, 14 Sep 2025 08:57:04 GMT | From Curiosity to Chaos: True Stories of Hackers Who Accidentally Made Headlines | Shahzaib | [Read More](https://medium.com/p/e307dcd2fef4) |
-| Sun, 14 Sep 2025 08:49:26 GMT | I hate it here so I will go to
-secret gardens in my mind
-: People need a key to get to, The only… | by dhany | [Read More](https://medium.com/p/d89fe27ad1d2) |
-| Sun, 14 Sep 2025 08:44:59 GMT | Pickle Rick — TryHackMe CTF Walkthrough (Beginner-friendly) | Himanshu | [Read More](https://medium.com/p/112d3609f802) |
-| Sun, 14 Sep 2025 08:37:03 GMT | Best Cybersecurity Course in Vikaspuri | Anas | [Read More](https://medium.com/p/1a1333fb902f) |
-| Sun, 14 Sep 2025 08:34:50 GMT | ECB vs CBC vs GCM: A Complete Guide to AES Encryption Modes | chandan gupta | [Read More](https://medium.com/p/6920219d604c) |
