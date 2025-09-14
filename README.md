@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 03:39:05 GMT | Master Protection vs. Traditional Security: Which One Is Right for You? | Mindfully SEO | [Read More](https://medium.com/p/e5e958e7b3ce) |
+| Sun, 14 Sep 2025 03:31:53 GMT | The Calendar Invite That Could Hijack Your AI: Inside Gemini’s Hidden Vulnerability | Deven Chhajed | [Read More](https://medium.com/p/4d929f3e415f) |
+| Sun, 14 Sep 2025 03:31:01 GMT | The $10.5 Trillion Cybercrime Economy: How We Got Here and What’s Next | Chandhrasekhar konangi | [Read More](https://medium.com/p/4408d7aa29a7) |
+| Sun, 14 Sep 2025 03:25:47 GMT | Top AI-Based Fraud Systems: What They Mean for Cybersecurity in 2025 | Ambala IT | [Read More](https://medium.com/p/4ba489c98610) |
+| Sun, 14 Sep 2025 03:12:58 GMT | Pins, Certs, and Renewals: The SSL Story in Android | Parita Dey | [Read More](https://medium.com/p/622289ef12a7) |
+| Sun, 14 Sep 2025 03:11:17 GMT | The Phish That Fueled an Energy Crisis | Aj | [Read More](https://medium.com/p/3d3b839243b4) |
+| Sun, 14 Sep 2025 03:04:50 GMT | Businesses, Take These Simple Yet Effective Precautions: Why Neglecting Basics Leads to Breaches… | Jigarjoshi | [Read More](https://medium.com/p/bb50cecb4eef) |
+| Sun, 14 Sep 2025 02:58:01 GMT | Why You Should Think Twice Before Using Zoom | Denys Deputatov | [Read More](https://medium.com/p/4e81d194f378) |
 | Sun, 14 Sep 2025 02:52:39 GMT | Web3 Security Issues and the Role of Drosera in Building a Resilient Blockchain Ecosystem | Charliewonders | [Read More](https://medium.com/p/074b17c6f22f) |
 | Sun, 14 Sep 2025 02:47:22 GMT | Memahami “Scope” dalam CVSS v3.1 Menurut NIST | raflesia it | [Read More](https://medium.com/p/2956350a172e) |
 | Sun, 14 Sep 2025 02:41:12 GMT | Linux Kernel Hacking: Modifying the Core | Eren Cankut Uysal | [Read More](https://medium.com/p/54f8e2834745) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 17:02:47 GMT | Top 10 AI Vulnerabilities Hackers Are Exploiting — What Every Cybersecurity Pro Must Know | Pratham Shah | [Read More](https://medium.com/p/1225382143bf) |
 | Sat, 13 Sep 2025 17:02:31 GMT | GANDALF-MindfulChat | restdone | [Read More](https://medium.com/p/3d1a67c1a50f) |
 | Sat, 13 Sep 2025 17:00:48 GMT | The Hacktivist with a Paycheck: When Your Beliefs and Your Skills Align | Samina Perveen | [Read More](https://medium.com/p/7fc228e7ce3f) |
-| Sat, 13 Sep 2025 16:58:55 GMT | How did i “Hacked” Nasa without go to the jail | Antonio Rivera Poblete | [Read More](https://medium.com/p/4bf0eebc934b) |
-| Sat, 13 Sep 2025 16:55:13 GMT | Supply chain attack | Petr Roupec | [Read More](https://medium.com/p/3c88b42ab698) |
-| Sat, 13 Sep 2025 16:49:05 GMT | Day 56- Basics and concepts of threat hunting for beginners | unica 02 | [Read More](https://medium.com/p/39244b7a8592) |
-| Sat, 13 Sep 2025 16:46:58 GMT | Log Analysis: Privilege Escalation | Joseph A. M. | [Read More](https://medium.com/p/ef4add041b2e) |
-| Sat, 13 Sep 2025 16:45:52 GMT | UART, U-Boot, and Secrets: Live Analysis of a Hikvision IoT Camera | Aaronjjose | [Read More](https://medium.com/p/7d579c492c92) |
-| Sat, 13 Sep 2025 16:27:17 GMT | Stealth Mode for Your Servers: Securing Services with Dynamic Port Knocking and TOTP | Trevor Woollacott | [Read More](https://medium.com/p/bfba43f77413) |
-| Sat, 13 Sep 2025 16:13:52 GMT | TryHackMe Writeup: Mr Robot CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/a7b8223d12fb) |
-| Sat, 13 Sep 2025 16:10:20 GMT | Samsung Patches Zero-Day Actively Exploited in WhatsApp-Reported Attack | Suhas Valasala | [Read More](https://medium.com/p/6bceff88f9cf) |
