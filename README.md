@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 13:31:39 GMT | Relearning the Essentials: Windows ISO Downloads & Server VM Startup | Tyrik Emptage | [Read More](https://medium.com/p/b1050f7ff340) |
+| Sun, 14 Sep 2025 13:19:46 GMT | I Didn’t Disappear. I Downloaded Myself. | Imanologya | [Read More](https://medium.com/p/bb489bf28e31) |
 | Sun, 14 Sep 2025 13:15:30 GMT | The Future of Anti-Virus Software: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8bb697888531) |
+| Sun, 14 Sep 2025 13:15:16 GMT | The Rise of Agentic AI: How Autonomous Systems Are Redefining Work in 2025 | Umesh Anjula | [Read More](https://medium.com/p/287bc89896a0) |
+| Sun, 14 Sep 2025 13:11:41 GMT | SOLD to the highest bidder — your personal information! | Vi Sing | [Read More](https://medium.com/p/2bb5001a03d0) |
+| Sun, 14 Sep 2025 13:11:26 GMT | Mebucorp Softwares: Shaping the Future of Tech in Cameroon and Beyond | the Cypher | [Read More](https://medium.com/p/890e56c4644b) |
 | Sun, 14 Sep 2025 13:09:37 GMT | Cyber Security Details: Reporting Cyber Security Incidents | Cyber Security Research | [Read More](https://medium.com/p/707d93829ac4) |
 | Sun, 14 Sep 2025 13:06:53 GMT | Frontend Security 101: What Every Engineer Should Know | Aanchalgoel | [Read More](https://medium.com/p/222ae7202afb) |
 | Sun, 14 Sep 2025 13:06:37 GMT | Reflexive Control in Islamist Terrorism and Three Examples — Afghanistan, Gaza, Syria | SIMKRA | [Read More](https://medium.com/p/2bf41477c0e2) |
@@ -110,8 +115,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 04:40:54 GMT | The Courage to Keep Coming: Reflections on My Tenth Metaversary | Ketan Vinay Gulati | [Read More](https://medium.com/p/8d7b6e865fda) |
 | Sun, 14 Sep 2025 04:31:44 GMT | How I Made a Passive Travelling Bot In Torn | Faheem Anis | [Read More](https://medium.com/p/debb7683bd00) |
 | Sun, 14 Sep 2025 04:29:22 GMT | Invite Only - TryHackMe | Samuel McLamb | [Read More](https://medium.com/p/7e539cb9b0bb) |
-| Sun, 14 Sep 2025 04:25:55 GMT | Secured-core Server Architecture: Building Resilience from Silicon to SIEM | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/2a0beff3b4c9) |
-| Sun, 14 Sep 2025 04:22:25 GMT | Prompt Engineering for SOC Analysts: A Practical Guide to Boost Your Cybersecurity Game | Paritosh | [Read More](https://medium.com/p/5cb0fcc81145) |
-| Sun, 14 Sep 2025 04:17:01 GMT | Powershell For Hackers | AbhirupKonwar | [Read More](https://medium.com/p/b4dd7a0da52b) |
-| Sun, 14 Sep 2025 04:10:37 GMT | Detecting Malicious Dependencies with Behavioral + SLM Scans | Parminder Singh | [Read More](https://medium.com/p/7041221bf1e9) |
-| Sun, 14 Sep 2025 04:00:21 GMT | What If You Saw the Worst Ten Minutes of My Week? | Jamie Shaw | [Read More](https://medium.com/p/63e888d4b645) |
