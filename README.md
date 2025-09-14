@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 20:24:50 GMT | Protégez l’IA des pirates : anticipez leurs attaques efficacement | L'ABESTIT | [Read More](https://medium.com/p/77eb714288e1) |
+| Sun, 14 Sep 2025 20:22:10 GMT | Largest npm Hack in History: 2 Billion Weekly Downloads Compromised in Critical Supply Chain Attack | Hamza Khalid | [Read More](https://medium.com/p/ea3bfe0065e6) |
+| Sun, 14 Sep 2025 20:22:03 GMT | How Hackers and Investigators Use OSINT to Gather Information | Prem Prasad Pradhan | [Read More](https://medium.com/p/090af25129d4) |
+| Sun, 14 Sep 2025 20:22:00 GMT | The Indexing Bug That Only Shows Up in Rust Database Layers | TheOpinionatedDev | [Read More](https://medium.com/p/7b62d08ef9a8) |
+| Sun, 14 Sep 2025 20:17:06 GMT | PicoCTF — Vault Door 6 | EtcSec | [Read More](https://medium.com/p/c78725524123) |
 | Sun, 14 Sep 2025 20:12:18 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It | Daniel Lozovsky | [Read More](https://medium.com/p/818aadeef688) |
 | Sun, 14 Sep 2025 20:07:10 GMT | BlackHat MEA Qualification CTF 2025 — Web Challenge: Cute_CSP | Mostafa Rashidy | [Read More](https://medium.com/p/646810ca794f) |
 | Sun, 14 Sep 2025 20:03:09 GMT | Trust Us, You’re the Product: The Battle Over Privacy in Artificial Intelligence | Jonathan Brown | [Read More](https://medium.com/p/643080b6c445) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 14:44:21 GMT | Break the Limits: How to Bypass API Rate Limits for Big Bounty Wins | Monika sharma | [Read More](https://medium.com/p/11d07a7afaf2) |
 | Sun, 14 Sep 2025 14:40:51 GMT | Environment — Linux · Medium | Mkirahmet | [Read More](https://medium.com/p/e3b91969de52) |
 | Sun, 14 Sep 2025 14:34:31 GMT | AI Security 2025: Promptware, Indirect Prompt Injection & the First “AI Worms” (with a Python… | Tarun Singh | [Read More](https://medium.com/p/c432b668b1a2) |
-| Sun, 14 Sep 2025 14:34:23 GMT | Hacroo Technologies: Making Technology, Learning and Security Accessible to Everyone | Hacroo Technologies | [Read More](https://medium.com/p/880e47b2770f) |
-| Sun, 14 Sep 2025 14:31:41 GMT | Lookup Machine Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/13613ae2ef28) |
-| Sun, 14 Sep 2025 14:27:52 GMT | How to Learn Cybersecurity Step by Step: The Roadmap I Wish I Had | Fateyaly | [Read More](https://medium.com/p/83be28e4a431) |
-| Sun, 14 Sep 2025 14:18:56 GMT | Hybrid Encryption: The Perfect Marriage of RSA and AES for Secure Data Transmission | chandan gupta | [Read More](https://medium.com/p/399cdb95924e) |
-| Sun, 14 Sep 2025 14:17:54 GMT | Zero Trust in Practice: A Blueprint for Architecting a Truly Defensible Network | Giorgi Akhobadze | [Read More](https://medium.com/p/208dc27e2f24) |
