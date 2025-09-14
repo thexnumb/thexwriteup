@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 08:14:01 GMT | Pixel-Perfect Phishing: The Subtle Art of Domain Impersonation using IDN homographic attack | Sachin      Verlekar | [Read More](https://medium.com/p/06bd727cf5ba) |
+| Sun, 14 Sep 2025 07:58:41 GMT | Introduction to Classic Cryptography | Karthik S | [Read More](https://medium.com/p/73ea3fa86a56) |
+| Sun, 14 Sep 2025 07:58:08 GMT | Wanted Privacy… So I Built My Own Browser (Here’s how I did it ) | Pannag Kumaar | [Read More](https://medium.com/p/e5b02705f123) |
+| Sun, 14 Sep 2025 07:55:54 GMT | “Stop Being a Script Kiddie: Rethink Your Recon” | DOD cyber solutions | [Read More](https://medium.com/p/a3a63c4dc62a) |
+| Sun, 14 Sep 2025 07:49:26 GMT | Encryption Vs Hashing Vs Encoding | chandan gupta | [Read More](https://medium.com/p/d973b2a3c541) |
+| Sun, 14 Sep 2025 07:48:30 GMT | Your Dockerfile is Bad. Your Production is Even Worse. | Benoit Lefebvre | [Read More](https://medium.com/p/834b5b5eab6e) |
+| Sun, 14 Sep 2025 07:48:00 GMT | 5 Future-Proof Tech Skills You’ll Still Need in 2030 | iswarya writes | [Read More](https://medium.com/p/4dc0e022552a) |
+| Sun, 14 Sep 2025 07:45:24 GMT | Passive Recon — How I Map Targets Without Touching Them | Amrit Sinha | [Read More](https://medium.com/p/e163c310b05f) |
+| Sun, 14 Sep 2025 07:29:18 GMT | Learn Cybersecurity with Microsoft: A Gateway to High-Demand Skills | Nilvicbrinrase | [Read More](https://medium.com/p/9e8e646e2249) |
 | Sun, 14 Sep 2025 07:21:18 GMT | Prompts to learn Secure Code Review | AbhirupKonwar | [Read More](https://medium.com/p/010a0a20c55c) |
 | Sun, 14 Sep 2025 07:18:34 GMT | How to Get Started in Cybersecurity, Even If You Know Nothing About It | Fateyaly | [Read More](https://medium.com/p/e8027233bfdb) |
 | Sun, 14 Sep 2025 07:14:36 GMT | CCTV Camera Installation at Babor Road, Mohammadpur Residential Building — Optimationbd’s… | optimationbd | [Read More](https://medium.com/p/6f1755670e47) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 19:44:36 GMT | Linux Capabilities & Exploitation (Beyond SUID) | Cybersecplayground | [Read More](https://medium.com/p/1b79f51f5204) |
 | Sat, 13 Sep 2025 19:40:40 GMT | UUIDs: The Secret Identity Cards of the Digital World | Lince Mathew | [Read More](https://medium.com/p/2fa4f901ae0d) |
 | Sat, 13 Sep 2025 19:36:57 GMT | Planning Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/25720a1d21a0) |
-| Sat, 13 Sep 2025 19:32:26 GMT | Understanding Authentication and Authorization: The Backbone of Modern Security | Monil Jain | [Read More](https://medium.com/p/1d675ac6de68) |
-| Sat, 13 Sep 2025 19:22:09 GMT | XRP Tundra Security: How Multiple Audits and Team Verification Build Unshakeable Trust | XRP Tundra | [Read More](https://medium.com/p/a3f9f2af94c7) |
-| Sat, 13 Sep 2025 19:10:45 GMT | OWASP Juice Shop Challenge : 1— Scoreboard Discovery | theOrthodox | [Read More](https://medium.com/p/ff6348952002) |
-| Sat, 13 Sep 2025 19:09:01 GMT | PG Play — GlasgowSmile (Linux) | Lepton | [Read More](https://medium.com/p/2e081b407456) |
-| Sat, 13 Sep 2025 19:08:57 GMT | PortSwigger Lab: Basic Origin Reflection Attack (CORS) | M. Mustafa Hussaini | [Read More](https://medium.com/p/cbb5d24ca4c3) |
-| Sat, 13 Sep 2025 18:57:47 GMT | How I hacked the Placement portal of my college to leak the entire SQL database | Adithya M S | [Read More](https://medium.com/p/b424269916db) |
-| Sat, 13 Sep 2025 18:50:43 GMT | Forensic Insights: How the NTFS USN Journal ($J) Reveals System Activity | Allen Ace | [Read More](https://medium.com/p/1e8afe4e337b) |
-| Sat, 13 Sep 2025 18:43:55 GMT | How I Found a Critical IDOR Leading to Full Account Takeover and Data Leakage | Andrey Dolya | [Read More](https://medium.com/p/39c3d85c8ecd) |
-| Sat, 13 Sep 2025 18:43:40 GMT | Designing a Antivirus System | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6d5cd127e0a3) |
