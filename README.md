@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 13:15:30 GMT | The Future of Anti-Virus Software: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8bb697888531) |
+| Sun, 14 Sep 2025 13:09:37 GMT | Cyber Security Details: Reporting Cyber Security Incidents | Cyber Security Research | [Read More](https://medium.com/p/707d93829ac4) |
+| Sun, 14 Sep 2025 13:06:53 GMT | Frontend Security 101: What Every Engineer Should Know | Aanchalgoel | [Read More](https://medium.com/p/222ae7202afb) |
+| Sun, 14 Sep 2025 13:06:37 GMT | Reflexive Control in Islamist Terrorism and Three Examples — Afghanistan, Gaza, Syria | SIMKRA | [Read More](https://medium.com/p/2bf41477c0e2) |
+| Sun, 14 Sep 2025 13:01:43 GMT | Documento de Alcance Técnico del Pentesting (Scope of Work — SOW) | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/2019097c807b) |
+| Sun, 14 Sep 2025 12:57:13 GMT | What AI Knows About You Is Scarier Than You Think | Taruna Thakur | [Read More](https://medium.com/p/96f13ea11e5c) |
+| Sun, 14 Sep 2025 12:56:20 GMT | Cyber Security Details: Career Paths in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/dbf1bba27405) |
+| Sun, 14 Sep 2025 12:54:17 GMT | Locked Out? Here’s How I Recovered My Old Laptop without Losing Data  — Utilman Trick | Abhiram (Ram) Krishnakumar Nair | [Read More](https://medium.com/p/23ee23ac53f3) |
+| Sun, 14 Sep 2025 12:50:44 GMT | HackTheBox: Planning (writeup) | SilentExploit | [Read More](https://medium.com/p/058615f438e4) |
+| Sun, 14 Sep 2025 12:50:37 GMT | Do You Know How Strong You Have to Be | Sable North | [Read More](https://medium.com/p/9aeed1bf4615) |
+| Sun, 14 Sep 2025 12:50:08 GMT | The Legality of Ethical Hacking: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/17aa8a015257) |
+| Sun, 14 Sep 2025 12:45:09 GMT | جهت صیغه موقت ودائم تلگرام پیام بدهید(09915528413)ویا باشماره (09364608280)
+صیغه بهبهان صیغه مشگین… | مهدی رضایی | [Read More](https://medium.com/p/0f4607c5554b) |
+| Sun, 14 Sep 2025 12:43:39 GMT | Vulnerability Is Power: Building Brave Communities, One Story at   a Time | Vulnerability Is Power Community Ke | [Read More](https://medium.com/p/5b42879aaffd) |
+| Sun, 14 Sep 2025 12:42:56 GMT | The DMZ Explained: Your Network’s Frontline Defense | Ahmed Maher | [Read More](https://medium.com/p/0a8d1c1ebbee) |
+| Sun, 14 Sep 2025 12:42:54 GMT | My House Was Wasting a Staggering Amount of Money. | R A N A   A H M A D | [Read More](https://medium.com/p/5ea1e8dd2f1d) |
+| Sun, 14 Sep 2025 12:40:05 GMT | How to Find WhatsApp Call IP in 1 Minute | Hack Storage | [Read More](https://medium.com/p/2163a73372e3) |
+| Sun, 14 Sep 2025 12:38:06 GMT | Your npm install might be stealing your crypto | Hamza Dastagir | [Read More](https://medium.com/p/3f6803f251fb) |
+| Sun, 14 Sep 2025 12:37:52 GMT | Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts | Suhas Valasala | [Read More](https://medium.com/p/50a432ef87a2) |
+| Sun, 14 Sep 2025 12:37:46 GMT | The Man Who Told Me I Saved His Life | Sable North | [Read More](https://medium.com/p/30647d93675f) |
+| Sun, 14 Sep 2025 12:29:52 GMT | The Hidden Cost of LocalStorage: Security and Smarter Alternatives | Siddhesh Y. | [Read More](https://medium.com/p/f8e58fc1d219) |
 | Sun, 14 Sep 2025 12:20:56 GMT | Big Zip - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/f783d1352acc) |
 | Sun, 14 Sep 2025 12:14:37 GMT | How to Install an SSL Certificate on Your Web Server: A Step-by-Step Guide | Rashadul Islam | [Read More](https://medium.com/p/19571e312dd9) |
 | Sun, 14 Sep 2025 11:57:53 GMT | Auth Attacks Part | Balki Maharaj | [Read More](https://medium.com/p/f14b227ac1c1) |
@@ -94,23 +115,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 04:17:01 GMT | Powershell For Hackers | AbhirupKonwar | [Read More](https://medium.com/p/b4dd7a0da52b) |
 | Sun, 14 Sep 2025 04:10:37 GMT | Detecting Malicious Dependencies with Behavioral + SLM Scans | Parminder Singh | [Read More](https://medium.com/p/7041221bf1e9) |
 | Sun, 14 Sep 2025 04:00:21 GMT | What If You Saw the Worst Ten Minutes of My Week? | Jamie Shaw | [Read More](https://medium.com/p/63e888d4b645) |
-| Sun, 14 Sep 2025 03:46:53 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/4191fafd2d45) |
-| Sun, 14 Sep 2025 03:39:05 GMT | Master Protection vs. Traditional Security: Which One Is Right for You? | Mindfully SEO | [Read More](https://medium.com/p/e5e958e7b3ce) |
-| Sun, 14 Sep 2025 03:36:18 GMT | How Capture the Flag (CTF) Prepares You for Bug Bounty Hunting | 127.0.0.1 | [Read More](https://medium.com/p/f62e9c2b7595) |
-| Sun, 14 Sep 2025 03:31:53 GMT | The Calendar Invite That Could Hijack Your AI: Inside Gemini’s Hidden Vulnerability | Deven Chhajed | [Read More](https://medium.com/p/4d929f3e415f) |
-| Sun, 14 Sep 2025 03:31:01 GMT | The $10.5 Trillion Cybercrime Economy: How We Got Here and What’s Next | Chandhrasekhar konangi | [Read More](https://medium.com/p/4408d7aa29a7) |
-| Sun, 14 Sep 2025 03:25:47 GMT | Top AI-Based Fraud Systems: What They Mean for Cybersecurity in 2025 | Ambala IT | [Read More](https://medium.com/p/4ba489c98610) |
-| Sun, 14 Sep 2025 03:12:58 GMT | Pins, Certs, and Renewals: The SSL Story in Android | Parita Dey | [Read More](https://medium.com/p/622289ef12a7) |
-| Sun, 14 Sep 2025 03:11:17 GMT | The Phish That Fueled an Energy Crisis | Aj | [Read More](https://medium.com/p/3d3b839243b4) |
-| Sun, 14 Sep 2025 03:04:50 GMT | Businesses, Take These Simple Yet Effective Precautions: Why Neglecting Basics Leads to Breaches… | Jigarjoshi | [Read More](https://medium.com/p/bb50cecb4eef) |
-| Sun, 14 Sep 2025 02:58:01 GMT | Why You Should Think Twice Before Using Zoom | Denys Deputatov | [Read More](https://medium.com/p/4e81d194f378) |
-| Sun, 14 Sep 2025 02:52:39 GMT | Web3 Security Issues and the Role of Drosera in Building a Resilient Blockchain Ecosystem | Charliewonders | [Read More](https://medium.com/p/074b17c6f22f) |
-| Sun, 14 Sep 2025 02:47:22 GMT | Memahami “Scope” dalam CVSS v3.1 Menurut NIST | raflesia it | [Read More](https://medium.com/p/2956350a172e) |
-| Sun, 14 Sep 2025 02:41:12 GMT | Linux Kernel Hacking: Modifying the Core | Eren Cankut Uysal | [Read More](https://medium.com/p/54f8e2834745) |
-| Sun, 14 Sep 2025 02:31:43 GMT | AI Agents for Security: The Sidekicks Every Bug Hunter Needs | Sukhveer Singh | [Read More](https://medium.com/p/8db4312266b4) |
-| Sun, 14 Sep 2025 02:25:16 GMT | The Courage in Being Seen: How Embracing Vulnerability Can Inspire Others | vydhi | [Read More](https://medium.com/p/99d0e03ad232) |
-| Sun, 14 Sep 2025 02:09:43 GMT | Inside Russia’s Digital Playbook: From Election Meddling to AI-Powered Propaganda | Reid Madduxx | [Read More](https://medium.com/p/96fcc13feefa) |
-| Sun, 14 Sep 2025 02:06:37 GMT | Statement on the Curators of Amnesia and the Intended Effect on the Attacks on the World Trade… | Michael Darius | [Read More](https://medium.com/p/29825bac846c) |
-| Sun, 14 Sep 2025 02:03:49 GMT | The Phishing Pandemic: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8db82e07e38d) |
-| Sun, 14 Sep 2025 02:03:00 GMT | Envelope Encryption with AWS KMS: Secure Keys, Scalable Trust | Aditya Prakash | [Read More](https://medium.com/p/a635145064b3) |
-| Sun, 14 Sep 2025 01:58:27 GMT | Cyber Security Details: Password Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/0d29b97166f8) |
