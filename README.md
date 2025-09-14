@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 14:27:52 GMT | How to Learn Cybersecurity Step by Step: The Roadmap I Wish I Had | Fateyaly | [Read More](https://medium.com/p/83be28e4a431) |
+| Sun, 14 Sep 2025 14:18:56 GMT | Hybrid Encryption: The Perfect Marriage of RSA and AES for Secure Data Transmission | chandan gupta | [Read More](https://medium.com/p/399cdb95924e) |
+| Sun, 14 Sep 2025 14:17:54 GMT | Zero Trust in Practice: A Blueprint for Architecting a Truly Defensible Network | Giorgi Akhobadze | [Read More](https://medium.com/p/208dc27e2f24) |
+| Sun, 14 Sep 2025 14:13:24 GMT | Invisible Battles: Struggles No One Sees | vydhi | [Read More](https://medium.com/p/bc4bade49bb1) |
+| Sun, 14 Sep 2025 14:12:43 GMT | Wireshark: The Essential Tool for Network Analysis and Cybersecurity | Ujjavalsolanki | [Read More](https://medium.com/p/1b3cdcf0e8c7) |
+| Sun, 14 Sep 2025 14:10:48 GMT | The Quiet Collapse: When Everything Feels Like Too Much | vydhi | [Read More](https://medium.com/p/4dea366b49b2) |
+| Sun, 14 Sep 2025 14:10:35 GMT | When I Just Want One Person to Say, “You’re Doing Right” | Ink Within | [Read More](https://medium.com/p/923e082a5ca8) |
 | Sun, 14 Sep 2025 14:10:27 GMT | Can Bug Bounty Hunting Make One A Millionaire? | Rehan Sohail | [Read More](https://medium.com/p/d8fef40820e9) |
 | Sun, 14 Sep 2025 14:09:44 GMT | The Art of Secure, User-Friendly Login Portals | Tusharpuri | [Read More](https://medium.com/p/14479d8c10e1) |
 | Sun, 14 Sep 2025 14:01:51 GMT | The Roadmap: Where ABTU Is Going (2025–2027) | Abatis ABTU | [Read More](https://medium.com/p/0213c87eee81) |
@@ -108,10 +115,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 07:45:24 GMT | Passive Recon — How I Map Targets Without Touching Them | Amrit Sinha | [Read More](https://medium.com/p/e163c310b05f) |
 | Sun, 14 Sep 2025 07:29:18 GMT | Learn Cybersecurity with Microsoft: A Gateway to High-Demand Skills | Nilvicbrinrase | [Read More](https://medium.com/p/9e8e646e2249) |
 | Sun, 14 Sep 2025 07:21:18 GMT | Prompts to learn Secure Code Review | AbhirupKonwar | [Read More](https://medium.com/p/010a0a20c55c) |
-| Sun, 14 Sep 2025 07:18:34 GMT | How to Get Started in Cybersecurity, Even If You Know Nothing About It | Fateyaly | [Read More](https://medium.com/p/e8027233bfdb) |
-| Sun, 14 Sep 2025 07:14:36 GMT | CCTV Camera Installation at Babor Road, Mohammadpur Residential Building — Optimationbd’s… | optimationbd | [Read More](https://medium.com/p/6f1755670e47) |
-| Sun, 14 Sep 2025 07:09:28 GMT | “บัญชีม้า“ = เส้นเลือดใหญ่ของอาชญากรรมออนไลน์ และโจทย์ใหญ่ที่สังคมไทยต้องแก้ให้ได้ | "วันละเรื่องสองเรื่อง" (Two Stories a Day) | [Read More](https://medium.com/p/56faa07df91a) |
-| Sun, 14 Sep 2025 07:01:49 GMT | Add a Credential Leak Check to Your App with One API Key | Alexandre Vandamme | [Read More](https://medium.com/p/d35745f8dab3) |
-| Sun, 14 Sep 2025 06:48:54 GMT | Worried About Rug Pulls in Crypto? Here’s How to Protect Your Token | Solana Token Creator | [Read More](https://medium.com/p/1eabe0f197c5) |
-| Sun, 14 Sep 2025 06:48:02 GMT | Will AI replace cybersecurity roles? Short answer: AI replaces tasks before it replaces titles. | Roger Millar | [Read More](https://medium.com/p/760bdc19c6b6) |
-| Sun, 14 Sep 2025 06:39:04 GMT | The Dark Side of AI Productivity Hacks: Are We Burning Out Faster? | Naila Ahsan | [Read More](https://medium.com/p/fa863bb278fb) |
