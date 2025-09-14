@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 04:54:07 GMT | Pandit Surya ji Top/Best Indian Astrologer Psychic Spiritualist Vashikaran Expert Provided… | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/396ad382aa03) |
+| Sun, 14 Sep 2025 04:52:55 GMT | A Bug in The System: The One line of code That Gave me Free Pro Account | Error404 | [Read More](https://medium.com/p/6237a838b333) |
+| Sun, 14 Sep 2025 04:41:02 GMT | UART Shell Privilege Escalation - KPMG CTF 2025 Writeup | Sheldon Menezes | [Read More](https://medium.com/p/8ce322de8d63) |
+| Sun, 14 Sep 2025 04:40:54 GMT | The Courage to Keep Coming: Reflections on My Tenth Metaversary | Ketan Vinay Gulati | [Read More](https://medium.com/p/8d7b6e865fda) |
 | Sun, 14 Sep 2025 04:31:44 GMT | How I Made a Passive Travelling Bot In Torn | Faheem Anis | [Read More](https://medium.com/p/debb7683bd00) |
 | Sun, 14 Sep 2025 04:29:22 GMT | Invite Only - TryHackMe | Samuel McLamb | [Read More](https://medium.com/p/7e539cb9b0bb) |
 | Sun, 14 Sep 2025 04:25:55 GMT | Secured-core Server Architecture: Building Resilience from Silicon to SIEM | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/2a0beff3b4c9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 17:44:24 GMT | The CA and ca_svc — explained in simple terms For Active Directory | Raja | [Read More](https://medium.com/p/1019dc8c7053) |
 | Sat, 13 Sep 2025 17:39:52 GMT | Installing CSI Linux on an External Drive: My Setup Journey (and Lessons Learned) | Michael Lasley | [Read More](https://medium.com/p/2a51c38f18a9) |
 | Sat, 13 Sep 2025 17:33:05 GMT | Tortuga [The Hackers Labs] — Easy | ManuM0re | [Read More](https://medium.com/p/9d7cb6890c97) |
-| Sat, 13 Sep 2025 17:31:42 GMT | Who Wrote This? The Ethics of AI Code | Nexumo | [Read More](https://medium.com/p/4b6b9b76f39f) |
-| Sat, 13 Sep 2025 17:31:42 GMT | The Doomsday Clock is at 89 Seconds to Midnight, and AI is responsible for it? | Nowshin Jahan Jhelek | [Read More](https://medium.com/p/ca7a03748d6a) |
-| Sat, 13 Sep 2025 17:27:09 GMT | Ice - TryHackMe writeup | Cillia | [Read More](https://medium.com/p/794d0521cc28) |
-| Sat, 13 Sep 2025 17:23:57 GMT | Zero-Log Checker: Automating Log Absence Detection in Wazuh | Kurniawanhanif | [Read More](https://medium.com/p/b8e1e86b488e) |
