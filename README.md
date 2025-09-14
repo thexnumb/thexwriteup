@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 08:37:03 GMT | Best Cybersecurity Course in Vikaspuri | Anas | [Read More](https://medium.com/p/1a1333fb902f) |
+| Sun, 14 Sep 2025 08:34:50 GMT | ECB vs CBC vs GCM: A Complete Guide to AES Encryption Modes | chandan gupta | [Read More](https://medium.com/p/6920219d604c) |
+| Sun, 14 Sep 2025 08:23:36 GMT | Linux Fundamentals Part 1: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/5c512068b67b) |
 | Sun, 14 Sep 2025 08:14:01 GMT | Pixel-Perfect Phishing: The Subtle Art of Domain Impersonation using IDN homographic attack | Sachin      Verlekar | [Read More](https://medium.com/p/06bd727cf5ba) |
+| Sun, 14 Sep 2025 08:13:11 GMT | Why Most Companies Get Application Security Wrong and How to Fix It | 0xiMAK | [Read More](https://medium.com/p/dc9702dc38de) |
 | Sun, 14 Sep 2025 07:58:41 GMT | Introduction to Classic Cryptography | Karthik S | [Read More](https://medium.com/p/73ea3fa86a56) |
 | Sun, 14 Sep 2025 07:58:08 GMT | Wanted Privacy… So I Built My Own Browser (Here’s how I did it ) | Pannag Kumaar | [Read More](https://medium.com/p/e5b02705f123) |
 | Sun, 14 Sep 2025 07:55:54 GMT | “Stop Being a Script Kiddie: Rethink Your Recon” | DOD cyber solutions | [Read More](https://medium.com/p/a3a63c4dc62a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 19:57:08 GMT | Let me help you | notawriter | [Read More](https://medium.com/p/59f1525543b1) |
 | Sat, 13 Sep 2025 19:48:16 GMT | Balancing Compliance and Risk: The Influence of Regulatory Requirements on Information Assurance… | Motta | [Read More](https://medium.com/p/d14bf8c1b252) |
 | Sat, 13 Sep 2025 19:47:14 GMT | “The Password is Dying — What Comes Next?” | Hiya Sharma | [Read More](https://medium.com/p/4e0ae3e33806) |
-| Sat, 13 Sep 2025 19:46:13 GMT | From Bug to Browser: How I Turned Breaking Things Into Building Something Better | Viratavi | [Read More](https://medium.com/p/5400275383e4) |
-| Sat, 13 Sep 2025 19:44:36 GMT | Linux Capabilities & Exploitation (Beyond SUID) | Cybersecplayground | [Read More](https://medium.com/p/1b79f51f5204) |
-| Sat, 13 Sep 2025 19:40:40 GMT | UUIDs: The Secret Identity Cards of the Digital World | Lince Mathew | [Read More](https://medium.com/p/2fa4f901ae0d) |
-| Sat, 13 Sep 2025 19:36:57 GMT | Planning Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/25720a1d21a0) |
