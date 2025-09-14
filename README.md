@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 06:32:44 GMT | Android vs iOS Security: Which Is Really Safer? | Abida Adra | [Read More](https://medium.com/p/c2688ddb2e2a) |
 | Sun, 14 Sep 2025 06:08:46 GMT | picoCTF basic-mod2 | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/e093286e3b18) |
 | Sun, 14 Sep 2025 06:01:57 GMT | I Built My Own PC Vulnerability Scanner (and You Can Too!) | VidyaRao008 | [Read More](https://medium.com/p/2be4a67c91d1) |
 | Sun, 14 Sep 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Sep 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/db0aa8c2047b) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 18:24:44 GMT | SIN #5 - The Sin of Playing Small in Testing: Wasting Tools, Wasting Talent | InnernetWorld - The Voice of HimanShunya | [Read More](https://medium.com/p/1884d711b1cf) |
 | Sat, 13 Sep 2025 18:23:11 GMT | If you are IT student, this is for you | Ahamed Rimshan | [Read More](https://medium.com/p/de2d7adbbf72) |
 | Sat, 13 Sep 2025 18:12:29 GMT | How AI Is Reshaping the Future of Search: From Keywords to Personal Experience | MARYAM NOUWARY | [Read More](https://medium.com/p/7891fc27f30a) |
-| Sat, 13 Sep 2025 18:01:45 GMT | Bug Bounty: Lo que se automatiza sin entender, no se encuentra de verdad | Gorka | [Read More](https://medium.com/p/a713ea45f1c7) |
