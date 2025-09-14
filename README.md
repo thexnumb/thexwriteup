@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 01:39:30 GMT | Pickle Rick — TryHackMe Walkthrough | James Rawlings | [Read More](https://medium.com/p/4f8cf21ddf2a) |
+| Sun, 14 Sep 2025 01:35:17 GMT | Basic Pentesting — TryHackMe Walkthrough | James Rawlings | [Read More](https://medium.com/p/180a1ef1af73) |
+| Sun, 14 Sep 2025 01:19:59 GMT | Perancangan Topologi Jaringan Komputer di Rumah Sakit #1 | Zurichsabil | [Read More](https://medium.com/p/e15c6ed5d119) |
+| Sun, 14 Sep 2025 01:14:48 GMT | Connectors CTF “Locked Out” challenge | mostafa mahmoud | [Read More](https://medium.com/p/ba3a53bec15e) |
+| Sun, 14 Sep 2025 01:11:42 GMT | The Impact of Your Relationship with Your Father on Your Intimate Relationships | Xiexiange | [Read More](https://medium.com/p/02787ac7fecf) |
+| Sun, 14 Sep 2025 00:41:29 GMT | ️When Loss Wakes Us Up️ | Susana | [Read More](https://medium.com/p/fb0d1c098247) |
+| Sun, 14 Sep 2025 00:41:24 GMT | Automating Windows Security Baselines with PowerShell | Navneetbhogal | [Read More](https://medium.com/p/8f06995cb01b) |
+| Sun, 14 Sep 2025 00:26:56 GMT | The Fear of Vulnerability | Edge Coaching | [Read More](https://medium.com/p/70e087c6caff) |
+| Sun, 14 Sep 2025 00:03:36 GMT | EP147 — Vibe Insecurity | Hormigas Agilistas Podcast | [Read More](https://medium.com/p/8e5d1cf48e78) |
+| Sat, 13 Sep 2025 23:58:29 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/d677aea63c2c) |
+| Sat, 13 Sep 2025 23:47:42 GMT | TryHackMe #12 - Putting it all together | 0xGroot | [Read More](https://medium.com/p/eb12682b082c) |
+| Sat, 13 Sep 2025 23:43:22 GMT | Anon.Cat: Free, Anonymous, and Secure File Uploads | anon | [Read More](https://medium.com/p/365f8f74e012) |
+| Sat, 13 Sep 2025 23:41:43 GMT | TryHackMe #11 - How Websites Work | 0xGroot | [Read More](https://medium.com/p/1fc91bbc9986) |
+| Sat, 13 Sep 2025 23:37:42 GMT | TryHackMe #10 - HTTP in Detail | 0xGroot | [Read More](https://medium.com/p/b0b77ad92cb2) |
 | Sat, 13 Sep 2025 23:32:00 GMT | TryHackMe #9 - DNS in Detail | 0xGroot | [Read More](https://medium.com/p/4a657367054f) |
+| Sat, 13 Sep 2025 23:31:02 GMT | TryHackMe Net Sec Challenge - Write-Up | be.light | [Read More](https://medium.com/p/6cba5dc29c79) |
 | Sat, 13 Sep 2025 23:22:53 GMT | That QR Code Is a TRAP! Don’t Scan It Until You Read This. | Santhosh Kumar | [Read More](https://medium.com/p/e3e6fcf0d8eb) |
 | Sat, 13 Sep 2025 23:21:32 GMT | The Zombie Apocalypse for Your Accounts Is HERE. Is Your Password DEAD or ALIVE? ‍♀️ | Santhosh Kumar | [Read More](https://medium.com/p/11f0e29b44c5) |
 | Sat, 13 Sep 2025 23:01:53 GMT | AI: Your New Best Friend or the Cyber Villain in a Lab Coat? | Kieran Wadforth | [Read More](https://medium.com/p/6d460cadb79c) |
@@ -90,25 +105,10 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 15:55:57 GMT | 7 Essential Cyber Security Tips for Everyone | Tech Master | [Read More](https://medium.com/p/ac9e71a87f31) |
 | Sat, 13 Sep 2025 15:49:51 GMT | CRTP vs CRTE: Mastering Active Directory | MalwareBro | [Read More](https://medium.com/p/b45e5490277f) |
 | Sat, 13 Sep 2025 15:47:32 GMT | FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks | Suhas Valasala | [Read More](https://medium.com/p/5950681281d1) |
+| Sat, 13 Sep 2025 15:47:11 GMT | How I Found 4 Bugs in a NASA Scope | @0xuserm9 | [Read More](https://medium.com/p/4446fd45a074) |
 | Sat, 13 Sep 2025 15:43:24 GMT | Supporting Cloud and Hybrid Infrastructure at Scale | Ron | [Read More](https://medium.com/p/b70c9738fdd6) |
 | Sat, 13 Sep 2025 15:38:11 GMT | 10 airport luggage mistakes to avoid flying with | qroco.app | [Read More](https://medium.com/p/5fed6146fe76) |
 | Sat, 13 Sep 2025 15:37:05 GMT | Legacy Systems and CVEs: The Unseen Threat to Ghana’s Digital Landscape | Glenn Rodney | [Read More](https://medium.com/p/5deaab4b2383) |
 | Sat, 13 Sep 2025 15:33:11 GMT | Understanding JWT: A Beginner-Friendly Guide with Python | Maaz Bin Mustaqeem | [Read More](https://medium.com/p/71b29953f3ab) |
 | Sat, 13 Sep 2025 15:29:53 GMT | The Largest Supply Chain Attack in Open Source History: NPM Compromise Shakes the Software World | Sajjad Asaad | [Read More](https://medium.com/p/dc0f11c9c5c5) |
 | Sat, 13 Sep 2025 15:23:38 GMT | The Invisible Prison: How Society’s “Man Box” Traps Urban Men | Randhir Jha | [Read More](https://medium.com/p/ba4d2d85c424) |
-| Sat, 13 Sep 2025 15:20:42 GMT | symfonos: 1 - VulnHub - Walkthrough [by Rikin] | Rikin | [Read More](https://medium.com/p/78224e35d04c) |
-| Sat, 13 Sep 2025 15:16:58 GMT | Stop Leaking Your DNS Records: Mastering AXFR Zone Transfers. | M. Thibaut | [Read More](https://medium.com/p/02faf11dc3c8) |
-| Sat, 13 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/7f63fe2aa1b1) |
-| Sat, 13 Sep 2025 15:12:52 GMT | “ NEVER BE TOO SECURE “ | Chike Umeuduji | [Read More](https://medium.com/p/e3bd8f7a4401) |
-| Sat, 13 Sep 2025 15:09:18 GMT | Kali Linux: The Ultimate Tool for Ethical Hacking and Cybersecurity | cybertec8 | [Read More](https://medium.com/p/31aba772dd40) |
-| Sat, 13 Sep 2025 15:05:31 GMT | Walkthrough THM Voyage | Telynor | [Read More](https://medium.com/p/2ba840d5082b) |
-| Sat, 13 Sep 2025 15:05:22 GMT | Authorization Explained 0 to 1: When to Use RBAC, ABAC, ACL & More | NewMan_Vinay | [Read More](https://medium.com/p/4f759b122479) |
-| Sat, 13 Sep 2025 15:02:22 GMT | to love at all is to be vulnerable (?) | quincy | [Read More](https://medium.com/p/0ecb81a57e22) |
-| Sat, 13 Sep 2025 15:00:55 GMT | AI Powered Cybercrime: How Agentic AI is Changing the Threat Landscape | Enrique Olmo | [Read More](https://medium.com/p/a59a62dea71c) |
-| Sat, 13 Sep 2025 14:58:33 GMT | Blockchain and AI Integration in Financial Services: Implications for Trust, Auditability, and Risk… | Mohamed H. Husain | [Read More](https://medium.com/p/f0c30613e2cf) |
-| Sat, 13 Sep 2025 14:57:41 GMT | Navigating the Digital Playground: SentryPC is Your Ultimate Partner for Internet Safety for Kids | Paul Meyer | [Read More](https://medium.com/p/4e00efc872fd) |
-| Sat, 13 Sep 2025 14:48:23 GMT | 0-P: The Phantom of Quantum Exploitation | cyberbreakseconds | [Read More](https://medium.com/p/69cbed99a7bc) |
-| Sat, 13 Sep 2025 14:47:43 GMT | Bridging the Gap: My Journey with copilot-security-instructions | Jay Simmons | [Read More](https://medium.com/p/182bac3d5fb9) |
-| Sat, 13 Sep 2025 14:44:11 GMT | Is Specialized Security Software Really Needed for AI Agents? | tikenari | [Read More](https://medium.com/p/204fa5de3176) |
-| Sat, 13 Sep 2025 14:31:59 GMT | Let Hack Website Tryhackme Walkthrough Team | Mainekhacker | [Read More](https://medium.com/p/5d6ecd8a777c) |
-| Sat, 13 Sep 2025 14:29:12 GMT | Title: The Silent Architect: How I Built a Cyber Defense Ecosystem That Thinks Like an Adversary… | Lazyown Redteam | [Read More](https://medium.com/p/74cbea1e032d) |
