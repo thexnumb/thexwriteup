@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 12:20:56 GMT | Big Zip - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/f783d1352acc) |
+| Sun, 14 Sep 2025 12:14:37 GMT | How to Install an SSL Certificate on Your Web Server: A Step-by-Step Guide | Rashadul Islam | [Read More](https://medium.com/p/19571e312dd9) |
+| Sun, 14 Sep 2025 11:57:53 GMT | Auth Attacks Part | Balki Maharaj | [Read More](https://medium.com/p/f14b227ac1c1) |
+| Sun, 14 Sep 2025 11:43:00 GMT | Project PANOPTIC (Room 641A) | Cyrus King | [Read More](https://medium.com/p/727d91cbc08d) |
+| Sun, 14 Sep 2025 11:40:49 GMT | Breaking the "KPMG CTF 2025 Hardest Mobile Challenge": A Deep Dive into VaultPass v2 | Stalin Prevan Crasta | [Read More](https://medium.com/p/94bb61f409fb) |
+| Sun, 14 Sep 2025 11:33:40 GMT | B - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/a7318f6ddd23) |
+| Sun, 14 Sep 2025 11:30:38 GMT | Building an On-Premise Active Directory Infrastructure from Scratch (Part 1: Introduction & Lab… | Florence Nwizugbe | [Read More](https://medium.com/p/abecb7d0b5c4) |
+| Sun, 14 Sep 2025 11:27:27 GMT | UNLOCKED! The 2025 Method: Your FREE Stuff Internet Goldmine! | Trick Star | [Read More](https://medium.com/p/90b6119be3a8) |
 | Sun, 14 Sep 2025 11:18:31 GMT | Bookmarklet - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/522d8eabc9d3) |
 | Sun, 14 Sep 2025 11:14:46 GMT | When Energy AI Quantum and Cyber Threats Collide | David SEHYEON Baek | [Read More](https://medium.com/p/fb9092de6a37) |
 | Sun, 14 Sep 2025 11:06:58 GMT | PG Practice — Nibbles (Linux) | Lepton | [Read More](https://medium.com/p/a68ef4c6b938) |
@@ -106,11 +114,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 02:03:49 GMT | The Phishing Pandemic: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/8db82e07e38d) |
 | Sun, 14 Sep 2025 02:03:00 GMT | Envelope Encryption with AWS KMS: Secure Keys, Scalable Trust | Aditya Prakash | [Read More](https://medium.com/p/a635145064b3) |
 | Sun, 14 Sep 2025 01:58:27 GMT | Cyber Security Details: Password Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/0d29b97166f8) |
-| Sun, 14 Sep 2025 01:53:08 GMT | Securing Your Smart Home: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/7401b19dfb8c) |
-| Sun, 14 Sep 2025 01:47:02 GMT | Cyber Security Details: Mobile Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/074a956eb851) |
-| Sun, 14 Sep 2025 01:39:30 GMT | Pickle Rick — TryHackMe Walkthrough | James Rawlings | [Read More](https://medium.com/p/4f8cf21ddf2a) |
-| Sun, 14 Sep 2025 01:35:17 GMT | Basic Pentesting — TryHackMe Walkthrough | James Rawlings | [Read More](https://medium.com/p/180a1ef1af73) |
-| Sun, 14 Sep 2025 01:19:59 GMT | Perancangan Topologi Jaringan Komputer di Rumah Sakit #1 | Zurichsabil | [Read More](https://medium.com/p/e15c6ed5d119) |
-| Sun, 14 Sep 2025 01:14:48 GMT | Connectors CTF “Locked Out” challenge | mostafa mahmoud | [Read More](https://medium.com/p/ba3a53bec15e) |
-| Sun, 14 Sep 2025 01:11:42 GMT | The Impact of Your Relationship with Your Father on Your Intimate Relationships | Xiexiange | [Read More](https://medium.com/p/02787ac7fecf) |
-| Sun, 14 Sep 2025 00:41:29 GMT | ️When Loss Wakes Us Up️ | Susana | [Read More](https://medium.com/p/fb0d1c098247) |
