@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 04:22:25 GMT | Prompt Engineering for SOC Analysts: A Practical Guide to Boost Your Cybersecurity Game | Paritosh | [Read More](https://medium.com/p/5cb0fcc81145) |
+| Sun, 14 Sep 2025 04:17:01 GMT | Powershell For Hackers | AbhirupKonwar | [Read More](https://medium.com/p/b4dd7a0da52b) |
+| Sun, 14 Sep 2025 04:10:37 GMT | Detecting Malicious Dependencies with Behavioral + SLM Scans | Parminder Singh | [Read More](https://medium.com/p/7041221bf1e9) |
+| Sun, 14 Sep 2025 04:00:21 GMT | What If You Saw the Worst Ten Minutes of My Week? | Jamie Shaw | [Read More](https://medium.com/p/63e888d4b645) |
+| Sun, 14 Sep 2025 03:46:53 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/4191fafd2d45) |
 | Sun, 14 Sep 2025 03:39:05 GMT | Master Protection vs. Traditional Security: Which One Is Right for You? | Mindfully SEO | [Read More](https://medium.com/p/e5e958e7b3ce) |
+| Sun, 14 Sep 2025 03:36:18 GMT | How Capture the Flag (CTF) Prepares You for Bug Bounty Hunting | 127.0.0.1 | [Read More](https://medium.com/p/f62e9c2b7595) |
 | Sun, 14 Sep 2025 03:31:53 GMT | The Calendar Invite That Could Hijack Your AI: Inside Gemini’s Hidden Vulnerability | Deven Chhajed | [Read More](https://medium.com/p/4d929f3e415f) |
 | Sun, 14 Sep 2025 03:31:01 GMT | The $10.5 Trillion Cybercrime Economy: How We Got Here and What’s Next | Chandhrasekhar konangi | [Read More](https://medium.com/p/4408d7aa29a7) |
 | Sun, 14 Sep 2025 03:25:47 GMT | Top AI-Based Fraud Systems: What They Mean for Cybersecurity in 2025 | Ambala IT | [Read More](https://medium.com/p/4ba489c98610) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 17:18:34 GMT | Name: Muhammad Awais | Muhammad Awais | [Read More](https://medium.com/p/ec0311332c9b) |
 | Sat, 13 Sep 2025 17:14:32 GMT | How a Personal Security Guard Helps Protect Your Lifestyle, Assets, and Family? | Corporate Security | [Read More](https://medium.com/p/a875ee488ebc) |
 | Sat, 13 Sep 2025 17:12:18 GMT | “Investigative Reversing 1” challenge | oussama | [Read More](https://medium.com/p/5c07897efa43) |
-| Sat, 13 Sep 2025 17:09:57 GMT | How Investigators Recover Deleted Files Using Autopsy | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/c105ae750c13) |
-| Sat, 13 Sep 2025 17:09:21 GMT | Blockchain-Enabled Supply Chain Security: A Framework for Integrity and Trust | Rahul Balaskandan | [Read More](https://medium.com/p/a53d4da37239) |
-| Sat, 13 Sep 2025 17:07:41 GMT | Actuator Endpoints Exposed? You Might Be Leaking Everything | Ujjawal Rohra | [Read More](https://medium.com/p/12ca735a8aa2) |
-| Sat, 13 Sep 2025 17:02:47 GMT | Top 10 AI Vulnerabilities Hackers Are Exploiting — What Every Cybersecurity Pro Must Know | Pratham Shah | [Read More](https://medium.com/p/1225382143bf) |
-| Sat, 13 Sep 2025 17:02:31 GMT | GANDALF-MindfulChat | restdone | [Read More](https://medium.com/p/3d1a67c1a50f) |
-| Sat, 13 Sep 2025 17:00:48 GMT | The Hacktivist with a Paycheck: When Your Beliefs and Your Skills Align | Samina Perveen | [Read More](https://medium.com/p/7fc228e7ce3f) |
