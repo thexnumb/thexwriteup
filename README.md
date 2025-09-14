@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 15:04:07 GMT | PG Practice — Slort (Windows) | Lepton | [Read More](https://medium.com/p/9a92539c85f5) |
+| Sun, 14 Sep 2025 14:56:44 GMT | Lattice-Based Cryptography: Can It Save Us From Quantum Computers? | Soumyashree Sahoo | [Read More](https://medium.com/p/f49d280cc50a) |
+| Sun, 14 Sep 2025 14:53:26 GMT | The Bug Behind the Delete Button: How I Found a Critical IDOR | Antonio Rivera Poblete | [Read More](https://medium.com/p/2ea938226f7b) |
+| Sun, 14 Sep 2025 14:53:16 GMT | Kerberos Unlocked (Part 1): The Flow of Authentication | Beacon Bytes | [Read More](https://medium.com/p/d6566405f563) |
+| Sun, 14 Sep 2025 14:49:01 GMT | The Strength of Authentic Vulnerability | José Andrés Olivera Amato | [Read More](https://medium.com/p/2870af84ae3c) |
+| Sun, 14 Sep 2025 14:48:38 GMT | Zero Trust + AI = The Future OEMs Must Build For | Dr. Deep Pandey | [Read More](https://medium.com/p/f2a6e80ee724) |
+| Sun, 14 Sep 2025 14:48:16 GMT | Hack This Site — Basic | xecureyan | [Read More](https://medium.com/p/df0ba91fe2de) |
+| Sun, 14 Sep 2025 14:45:43 GMT | Best Practices for AWS DevOps in 2025: How AI + GitOps + Safer Infrastructure Saved My Skin After… | AbdulRahman Mostafa | [Read More](https://medium.com/p/265916ac739e) |
+| Sun, 14 Sep 2025 14:44:21 GMT | Break the Limits: How to Bypass API Rate Limits for Big Bounty Wins | Monika sharma | [Read More](https://medium.com/p/11d07a7afaf2) |
+| Sun, 14 Sep 2025 14:40:51 GMT | Environment — Linux · Medium | Mkirahmet | [Read More](https://medium.com/p/e3b91969de52) |
+| Sun, 14 Sep 2025 14:34:31 GMT | AI Security 2025: Promptware, Indirect Prompt Injection & the First “AI Worms” (with a Python… | Tarun Singh | [Read More](https://medium.com/p/c432b668b1a2) |
+| Sun, 14 Sep 2025 14:34:23 GMT | Hacroo Technologies: Making Technology, Learning and Security Accessible to Everyone | Hacroo Technologies | [Read More](https://medium.com/p/880e47b2770f) |
+| Sun, 14 Sep 2025 14:31:41 GMT | Lookup Machine Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/13613ae2ef28) |
 | Sun, 14 Sep 2025 14:27:52 GMT | How to Learn Cybersecurity Step by Step: The Roadmap I Wish I Had | Fateyaly | [Read More](https://medium.com/p/83be28e4a431) |
 | Sun, 14 Sep 2025 14:18:56 GMT | Hybrid Encryption: The Perfect Marriage of RSA and AES for Secure Data Transmission | chandan gupta | [Read More](https://medium.com/p/399cdb95924e) |
 | Sun, 14 Sep 2025 14:17:54 GMT | Zero Trust in Practice: A Blueprint for Architecting a Truly Defensible Network | Giorgi Akhobadze | [Read More](https://medium.com/p/208dc27e2f24) |
@@ -102,16 +115,3 @@ secret gardens in my mind
 | Sun, 14 Sep 2025 08:37:03 GMT | Best Cybersecurity Course in Vikaspuri | Anas | [Read More](https://medium.com/p/1a1333fb902f) |
 | Sun, 14 Sep 2025 08:34:50 GMT | ECB vs CBC vs GCM: A Complete Guide to AES Encryption Modes | chandan gupta | [Read More](https://medium.com/p/6920219d604c) |
 | Sun, 14 Sep 2025 08:30:33 GMT | OSCP 我失敗了，接下來呢? | CL | [Read More](https://medium.com/p/0a60845b50db) |
-| Sun, 14 Sep 2025 08:23:36 GMT | Linux Fundamentals Part 1: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/5c512068b67b) |
-| Sun, 14 Sep 2025 08:22:11 GMT | CVE-2025–57833: Deep Dive into Django ORM FilteredRelation Alias Handling Vulnerability | Balki Maharaj | [Read More](https://medium.com/p/a046f7f4318b) |
-| Sun, 14 Sep 2025 08:14:01 GMT | Pixel-Perfect Phishing: The Subtle Art of Domain Impersonation using IDN homographic attack | Sachin      Verlekar | [Read More](https://medium.com/p/06bd727cf5ba) |
-| Sun, 14 Sep 2025 08:13:11 GMT | Why Most Companies Get Application Security Wrong and How to Fix It | 0xiMAK | [Read More](https://medium.com/p/dc9702dc38de) |
-| Sun, 14 Sep 2025 07:58:41 GMT | Introduction to Classic Cryptography | Karthik S | [Read More](https://medium.com/p/73ea3fa86a56) |
-| Sun, 14 Sep 2025 07:58:08 GMT | Wanted Privacy… So I Built My Own Browser (Here’s how I did it ) | Pannag Kumaar | [Read More](https://medium.com/p/e5b02705f123) |
-| Sun, 14 Sep 2025 07:55:54 GMT | “Stop Being a Script Kiddie: Rethink Your Recon” | DOD cyber solutions | [Read More](https://medium.com/p/a3a63c4dc62a) |
-| Sun, 14 Sep 2025 07:49:26 GMT | Encryption Vs Hashing Vs Encoding | chandan gupta | [Read More](https://medium.com/p/d973b2a3c541) |
-| Sun, 14 Sep 2025 07:48:30 GMT | Your Dockerfile is Bad. Your Production is Even Worse. | Benoit Lefebvre | [Read More](https://medium.com/p/834b5b5eab6e) |
-| Sun, 14 Sep 2025 07:48:00 GMT | 5 Future-Proof Tech Skills You’ll Still Need in 2030 | iswarya writes | [Read More](https://medium.com/p/4dc0e022552a) |
-| Sun, 14 Sep 2025 07:45:24 GMT | Passive Recon — How I Map Targets Without Touching Them | Amrit Sinha | [Read More](https://medium.com/p/e163c310b05f) |
-| Sun, 14 Sep 2025 07:29:18 GMT | Learn Cybersecurity with Microsoft: A Gateway to High-Demand Skills | Nilvicbrinrase | [Read More](https://medium.com/p/9e8e646e2249) |
-| Sun, 14 Sep 2025 07:21:18 GMT | Prompts to learn Secure Code Review | AbhirupKonwar | [Read More](https://medium.com/p/010a0a20c55c) |
