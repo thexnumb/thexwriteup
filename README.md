@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Sep 2025 04:31:44 GMT | How I Made a Passive Travelling Bot In Torn | Faheem Anis | [Read More](https://medium.com/p/debb7683bd00) |
+| Sun, 14 Sep 2025 04:29:22 GMT | Invite Only - TryHackMe | Samuel McLamb | [Read More](https://medium.com/p/7e539cb9b0bb) |
+| Sun, 14 Sep 2025 04:25:55 GMT | Secured-core Server Architecture: Building Resilience from Silicon to SIEM | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/2a0beff3b4c9) |
 | Sun, 14 Sep 2025 04:22:25 GMT | Prompt Engineering for SOC Analysts: A Practical Guide to Boost Your Cybersecurity Game | Paritosh | [Read More](https://medium.com/p/5cb0fcc81145) |
 | Sun, 14 Sep 2025 04:17:01 GMT | Powershell For Hackers | AbhirupKonwar | [Read More](https://medium.com/p/b4dd7a0da52b) |
 | Sun, 14 Sep 2025 04:10:37 GMT | Detecting Malicious Dependencies with Behavioral + SLM Scans | Parminder Singh | [Read More](https://medium.com/p/7041221bf1e9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Sep 2025 17:31:42 GMT | The Doomsday Clock is at 89 Seconds to Midnight, and AI is responsible for it? | Nowshin Jahan Jhelek | [Read More](https://medium.com/p/ca7a03748d6a) |
 | Sat, 13 Sep 2025 17:27:09 GMT | Ice - TryHackMe writeup | Cillia | [Read More](https://medium.com/p/794d0521cc28) |
 | Sat, 13 Sep 2025 17:23:57 GMT | Zero-Log Checker: Automating Log Absence Detection in Wazuh | Kurniawanhanif | [Read More](https://medium.com/p/b8e1e86b488e) |
-| Sat, 13 Sep 2025 17:18:34 GMT | Name: Muhammad Awais | Muhammad Awais | [Read More](https://medium.com/p/ec0311332c9b) |
-| Sat, 13 Sep 2025 17:14:32 GMT | How a Personal Security Guard Helps Protect Your Lifestyle, Assets, and Family? | Corporate Security | [Read More](https://medium.com/p/a875ee488ebc) |
-| Sat, 13 Sep 2025 17:12:18 GMT | “Investigative Reversing 1” challenge | oussama | [Read More](https://medium.com/p/5c07897efa43) |
