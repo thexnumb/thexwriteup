@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 19:21:25 GMT | The Linux Process Journey — depmod (Dependency Modules) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1fbedae1dec) |
+| Mon, 15 Sep 2025 19:19:38 GMT | Access Token ve Refresh Token | Uygar Eren | [Read More](https://medium.com/p/9d4f29870027) |
+| Mon, 15 Sep 2025 19:19:11 GMT | The $10 USB Kill Switch That Saves Your Gear | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/916821eee8ac) |
+| Mon, 15 Sep 2025 19:18:31 GMT | TryHackMe — Retro | Cyber Anom | [Read More](https://medium.com/p/872a0a30c8ff) |
+| Mon, 15 Sep 2025 19:14:27 GMT | Why I Love Writing About the Messy and Traumatic Parts of Life | Brook Johansen | [Read More](https://medium.com/p/37e5bb36689f) |
+| Mon, 15 Sep 2025 19:13:50 GMT | Three recent articles about AI | Stephen Thursby | [Read More](https://medium.com/p/3cad8c595954) |
 | Mon, 15 Sep 2025 19:04:53 GMT | Your Cybersecurity Skills Won’t Make You Rich — But This Quiet Side System Will | EHxAnomity | [Read More](https://medium.com/p/f43ea5c0c56d) |
 | Mon, 15 Sep 2025 19:01:30 GMT | ISO27001 — Pas de développement logiciel, voici la liste des contrôles non applicables | Patrick Boucher | [Read More](https://medium.com/p/549c48221398) |
 | Mon, 15 Sep 2025 18:59:20 GMT | How I Hacked My ISP’s IPTV Set-Top Box? | Madari | [Read More](https://medium.com/p/f1c6f49dab01) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 14:42:58 GMT | I missed a big opportunity today! | Chy Writes | [Read More](https://medium.com/p/f2eb85fa3685) |
 | Mon, 15 Sep 2025 14:40:31 GMT | How SOC Teams Detect Web Attacks - TryHackMe Detecting Web Attacks Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/777b9c4a12cd) |
 | Mon, 15 Sep 2025 14:39:57 GMT | Cybersecurity in Finance: Building the Digital Fort Knox | Amrik  Hanjra | [Read More](https://medium.com/p/e48cc684f745) |
-| Mon, 15 Sep 2025 14:39:43 GMT | ConfigMaps and Secrets: Managing Configuration in Kubernetes | Claudio Masolo | [Read More](https://medium.com/p/a7920816a97f) |
-| Mon, 15 Sep 2025 14:39:17 GMT | Data Governance is the Secret Weapon for Business Growth | Haider Ali Sukhera | [Read More](https://medium.com/p/4b9162c5f0cb) |
-| Mon, 15 Sep 2025 14:31:44 GMT | Women: Build Your Support System for a Resilient Life | Dancemi Clare | [Read More](https://medium.com/p/173ec7a86e9b) |
-| Mon, 15 Sep 2025 14:29:34 GMT | Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single… | Chirag Vyas | [Read More](https://medium.com/p/cace8aba35c2) |
-| Mon, 15 Sep 2025 14:22:21 GMT | The Streaming Revolution: Unpacking the Over The Top (OTT) Services Market Size, Share & Industry… | techmarketinsights | [Read More](https://medium.com/p/604ca0e96799) |
-| Mon, 15 Sep 2025 14:20:05 GMT | Go 1.25.1 Dropped — The Patch Every Dev Must Install Now | Concurrent Mind | [Read More](https://medium.com/p/1722461d990d) |
