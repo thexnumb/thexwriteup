@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 21:11:13 GMT | From Audit to Active Defense: Complete Smart Contract Security with Guardrail | Officer's Notes | [Read More](https://medium.com/p/ecb41ac68f1b) |
+| Mon, 15 Sep 2025 21:07:26 GMT | TryHackMe — Anthem | Cyber Anom | [Read More](https://medium.com/p/8f70e184231c) |
+| Mon, 15 Sep 2025 21:04:21 GMT | Tech Certs are Still Very In : Tips on the AWS Solutions Architect Associate | Shiko | [Read More](https://medium.com/p/61efc8a8eddb) |
+| Mon, 15 Sep 2025 21:03:38 GMT | Unstoppable.money: The Ultimate Crypto Wallet for Privacy and Security | Officer's Notes | [Read More](https://medium.com/p/94763e573e6b) |
+| Mon, 15 Sep 2025 21:02:01 GMT | Rebase Tokens, Rounding Errors & DoS Attacks: Unraveling the Mystery | Officer's Notes | [Read More](https://medium.com/p/e9a3f6b4a963) |
+| Mon, 15 Sep 2025 20:55:32 GMT | How I Got My First Valid Bug (and Yes, It Was Just a ') | Harshilsecops | [Read More](https://medium.com/p/7347f5d2a120) |
+| Mon, 15 Sep 2025 20:50:09 GMT | Mastering Kubernetes Multi-Tenancy: From Namespaces to Virtual Clusters | Salwan Mohamed | [Read More](https://medium.com/p/491205d3e909) |
+| Mon, 15 Sep 2025 20:48:09 GMT | The Zero-Day Heist: A Technical Breakdown of a Fictional Cyber Attack | Shahzaib | [Read More](https://medium.com/p/09bb928206b6) |
+| Mon, 15 Sep 2025 20:48:09 GMT | Top Thought Leading Cybersecurity Companies in 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/2603406b8e71) |
+| Mon, 15 Sep 2025 20:48:01 GMT | How Pen Testers Really Break In: The Methodology Behind the Breach | Aj | [Read More](https://medium.com/p/6ed525492048) |
+| Mon, 15 Sep 2025 20:47:56 GMT | Expert Search Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/c713230545bc) |
+| Mon, 15 Sep 2025 20:42:31 GMT | The CVE CNA 72 Hour Rules are Insane | Jonathan Leitschuh | [Read More](https://medium.com/p/50b7e2ec5045) |
 | Mon, 15 Sep 2025 20:34:40 GMT | The Zero-Trust Revolution: Why Traditional Network Security is Dead (And What Replaced It) | Abdul Hannan | [Read More](https://medium.com/p/c54651e6dbca) |
 | Mon, 15 Sep 2025 20:20:34 GMT | The Elephant in The Biz: outsourcing of critical IT and cybersecurity functions risks UK economic… | Kevin Beaumont | [Read More](https://medium.com/p/96205e0585bf) |
 | Mon, 15 Sep 2025 20:18:40 GMT | The Illusion of Deletion: Why Your “Deleted” Data Never Really Disappears | DataDreamer7 | [Read More](https://medium.com/p/ffaaeb0933d1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 15:39:38 GMT | Why Crying in the Bathroom is a Universal Female Experience | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/3bb6416e8dce) |
 | Mon, 15 Sep 2025 15:38:55 GMT | K8s Container Security anywhere | Antonella Blasetti | [Read More](https://medium.com/p/c71397dd1d0e) |
 | Mon, 15 Sep 2025 15:33:08 GMT | Pasif Bilgi Toplama ve Wayback Machine Gücü | Berat Ünal | [Read More](https://medium.com/p/70d3afdf6071) |
-| Mon, 15 Sep 2025 15:31:12 GMT | Cybersecurity in Outsourcing: 10 Companies Setting the Benchmark | EnosisOutsourcing | [Read More](https://medium.com/p/6b495f4b7a49) |
-| Mon, 15 Sep 2025 15:30:13 GMT | Common Smart Contract Vulnerabilities in 2025: Reviewing Recent Vulnerabilities & How to Stay Safe | Bitium Blog | [Read More](https://medium.com/p/4eaec1526c9d) |
-| Mon, 15 Sep 2025 15:26:11 GMT | The Streaming Revolution: Unpacking the Over The Top (OTT) Services Market Size, Share & Industry… | smartitinsights | [Read More](https://medium.com/p/c8048300bdc7) |
-| Mon, 15 Sep 2025 15:25:38 GMT | 5 Must-Have Tech Gadgets at Walmart You Didn’t Know You Needed | Naya Miller | [Read More](https://medium.com/p/3d8948913199) |
-| Mon, 15 Sep 2025 15:23:32 GMT | I Let AI Create A Discord Bot | JesseCodes | [Read More](https://medium.com/p/5044cf5f6120) |
-| Mon, 15 Sep 2025 15:19:27 GMT | Tech Jobs Everyone Should Know About in 2025 | Tech Master | [Read More](https://medium.com/p/bea760124b49) |
-| Mon, 15 Sep 2025 15:15:06 GMT | GZR Observer Daily — Sep 15, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c1df674c62d7) |
-| Mon, 15 Sep 2025 15:14:28 GMT | Advance Your Networking & Cybersecurity Skills with Cisco Training | Aaqib Rajput | [Read More](https://medium.com/p/9aff36ebde44) |
-| Mon, 15 Sep 2025 15:13:42 GMT | [Sneak Peek] ZAST EXPRESS is Almost Here! | ZAST AI | [Read More](https://medium.com/p/71dc5e0c888c) |
-| Mon, 15 Sep 2025 15:11:25 GMT | “The Lazy Hacker’s Guide to $500 Information Disclosure Bugs” | Aman Sharma | [Read More](https://medium.com/p/b45f9472725e) |
-| Mon, 15 Sep 2025 15:11:03 GMT | You Don’t Need More Time To Learn. You Need a Learning System | Vijay Kumar Gupta | [Read More](https://medium.com/p/519b77eab97d) |
-| Mon, 15 Sep 2025 15:08:05 GMT | Why Ecosystem-Based Cybersecurity Works | Priyesh | [Read More](https://medium.com/p/1c8a5cd30833) |
