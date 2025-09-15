@@ -12,9 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 16:24:11 GMT | Best Treasury Management Systems for Banks: Features, Security, and Compliance | Kosh AI | [Read More](https://medium.com/p/973668b25e34) |
+| Mon, 15 Sep 2025 16:18:15 GMT | ✨ I’m pleased to share an exciting milestone. | Ray Islam, PhD | [Read More](https://medium.com/p/ee9c38c79553) |
+| Mon, 15 Sep 2025 16:16:09 GMT | How I’m Coding With AI for Free Right Now (Because Paying Isn’t Always an Option) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c85176c8029c) |
+| Mon, 15 Sep 2025 16:15:52 GMT | Protecting Digital Identities in the AI Era: How Rainbow Secure IAM is Raising the Bar | Dr. Shashi Karhail | [Read More](https://medium.com/p/58d0ff0ee806) |
+| Mon, 15 Sep 2025 16:11:26 GMT | “Sum-O-Primes” challenge | oussama | [Read More](https://medium.com/p/cf44a35446aa) |
+| Mon, 15 Sep 2025 16:03:47 GMT | ️ The Ultimate Security Engineer’s Survival Guide: Decoding Cybersecurity’s Alphabet Soup… | Sumant Khapre | [Read More](https://medium.com/p/3ea789ab5123) |
+| Mon, 15 Sep 2025 16:02:18 GMT | Data Security Standards In-Depth Description, Use and Comparisons | Prabhat K. Andleigh | [Read More](https://medium.com/p/424218587585) |
+| Mon, 15 Sep 2025 16:01:45 GMT | The Rise of the AI Red Team: Proactively Hacking Your Own AI for Security and Trust | ODSC - Open Data Science | [Read More](https://medium.com/p/276535085e98) |
+| Mon, 15 Sep 2025 15:59:51 GMT | AI Regulation Reality Check: Why ISO 42001 Isn’t Just Another Compliance Checkbox | Cathal Devilly | [Read More](https://medium.com/p/66374c65b9a4) |
+| Mon, 15 Sep 2025 15:56:47 GMT | Configuring Wazuh Agents, Groups, and Vulnerability Detection | Arfan Abid | [Read More](https://medium.com/p/7db429836d8b) |
+| Mon, 15 Sep 2025 15:55:02 GMT | How a Shared Upload URL Let Me Take Over qaAccounts | Abhishek sharma | [Read More](https://medium.com/p/9298be10e342) |
+| Mon, 15 Sep 2025 15:54:22 GMT | How To Protect Your Data From Hackers | ranjan niskrity | [Read More](https://medium.com/p/54be84119f5f) |
+| Mon, 15 Sep 2025 15:48:58 GMT | VEAMOS COMO SE COMPONEN EL HARDWARE Y SOFTWARE… | Recordemoslahistoria | [Read More](https://medium.com/p/3883b54da91b) |
+| Mon, 15 Sep 2025 15:48:21 GMT | Alondra-504022 | Lo Cotidiano en el Futuro | [Read More](https://medium.com/p/7b1bdc73b43f) |
+| Mon, 15 Sep 2025 15:44:30 GMT | Malware in IoT Devices: Hidden Risks Lurking in Your Smart Home | vydhi | [Read More](https://medium.com/p/435ef5d02ac4) |
+| Mon, 15 Sep 2025 15:43:04 GMT | What is Ethical Hacking and Why IT Professionals Need to Learn It | Varshika S | [Read More](https://medium.com/p/fefd0dd11948) |
+| Mon, 15 Sep 2025 15:42:52 GMT | Breaking Hardened Runtime | Karol Mazurek | [Read More](https://medium.com/p/e2a210d10e88) |
+| Mon, 15 Sep 2025 15:41:24 GMT | Introduction | Rahul Salunkhe | [Read More](https://medium.com/p/27696b4a296c) |
 | Mon, 15 Sep 2025 15:39:38 GMT | Why Crying in the Bathroom is a Universal Female Experience | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/3bb6416e8dce) |
+| Mon, 15 Sep 2025 15:38:55 GMT | K8s Container Security anywhere | Antonella Blasetti | [Read More](https://medium.com/p/c71397dd1d0e) |
 | Mon, 15 Sep 2025 15:33:08 GMT | Pasif Bilgi Toplama ve Wayback Machine Gücü | Berat Ünal | [Read More](https://medium.com/p/70d3afdf6071) |
 | Mon, 15 Sep 2025 15:31:12 GMT | Cybersecurity in Outsourcing: 10 Companies Setting the Benchmark | EnosisOutsourcing | [Read More](https://medium.com/p/6b495f4b7a49) |
+| Mon, 15 Sep 2025 15:30:13 GMT | Common Smart Contract Vulnerabilities in 2025: Reviewing Recent Vulnerabilities & How to Stay Safe | Bitium Blog | [Read More](https://medium.com/p/4eaec1526c9d) |
 | Mon, 15 Sep 2025 15:26:11 GMT | The Streaming Revolution: Unpacking the Over The Top (OTT) Services Market Size, Share & Industry… | smartitinsights | [Read More](https://medium.com/p/c8048300bdc7) |
 | Mon, 15 Sep 2025 15:25:38 GMT | 5 Must-Have Tech Gadgets at Walmart You Didn’t Know You Needed | Naya Miller | [Read More](https://medium.com/p/3d8948913199) |
 | Mon, 15 Sep 2025 15:23:32 GMT | I Let AI Create A Discord Bot | JesseCodes | [Read More](https://medium.com/p/5044cf5f6120) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 12:44:34 GMT | Intro Rey | Biellreyluchaa | [Read More](https://medium.com/p/b022fc9b0fb5) |
 | Mon, 15 Sep 2025 12:43:19 GMT | Why ServiceNow integration is critical for future-proofing your it operation | Alex s | [Read More](https://medium.com/p/077fc63245d0) |
 | Mon, 15 Sep 2025 12:38:19 GMT | What is Cryptojacking ? — Dude Earned 48,000$ with NOTHING? | Hack Storage | [Read More](https://medium.com/p/07cd05bb34f7) |
-| Mon, 15 Sep 2025 12:37:19 GMT | Every Hacker Has a Story—This Is Mine | Shahzaib | [Read More](https://medium.com/p/240bd13c6a73) |
-| Mon, 15 Sep 2025 12:33:49 GMT | HexStrike: Yapay Zeka Destekli Otomatik Red-Teaming ve Zafiyet Keşfi | asliulusoy | [Read More](https://medium.com/p/f5cc26581b1e) |
-| Mon, 15 Sep 2025 12:31:43 GMT | The Ache Beneath the Armor | Aaron Pace | [Read More](https://medium.com/p/83667cd8846d) |
-| Mon, 15 Sep 2025 12:31:26 GMT | The Hacker’s Mindset — No Butter, Just Strategy | GABBYTECH | [Read More](https://medium.com/p/dadd5e0b831c) |
-| Mon, 15 Sep 2025 12:26:05 GMT | ISO 9001 or ISO 27001? How to Choose the Right Standard for Your Business | Hicomply | [Read More](https://medium.com/p/8795e5ffa013) |
-| Mon, 15 Sep 2025 12:20:25 GMT | Best Institute for Penetration Testing Course in Singapore | Craw Cyber Security | [Read More](https://medium.com/p/556ac63c02cb) |
-| Mon, 15 Sep 2025 12:19:33 GMT | Spookifier - HTB Walkthrough | Simi | [Read More](https://medium.com/p/4814d18ef53f) |
-| Mon, 15 Sep 2025 12:15:23 GMT | Implementing Zero Trust Security in Dubai’s Smart City Infrastructure: A Cybersecurity Roadmap for… | Anupamatiwarii | [Read More](https://medium.com/p/94fb1a7c45c3) |
-| Mon, 15 Sep 2025 12:11:38 GMT | Enterprise Multi-Site Network Lab with VLAN Segmentation, Inter-VLAN Routing, OSPF Dynamic Routing… | Aribo Ifeoluwa | [Read More](https://medium.com/p/6f46078faaba) |
-| Mon, 15 Sep 2025 11:58:45 GMT | In Praise of Resilience: Why We Invested in Hopper Security | Liron Azrielant | [Read More](https://medium.com/p/bcd940d8c2a1) |
-| Mon, 15 Sep 2025 11:56:49 GMT | The Juris Agency Journals | Trev Reacts | [Read More](https://medium.com/p/93d4b1613fc5) |
-| Mon, 15 Sep 2025 11:56:08 GMT | HTB Academy: Attacking common applications: Content Management Systems (CMS) — Joomla | Babatunde Ojo | [Read More](https://medium.com/p/3cfc49dbb21e) |
-| Mon, 15 Sep 2025 11:49:24 GMT | AI Powered Villager Pen Testing Tool Raises Concerns After 11,000 PyPI Downloads | Jasmitharouthu | [Read More](https://medium.com/p/b0d9a5fe0d4d) |
-| Mon, 15 Sep 2025 11:46:17 GMT | HTB Planning Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/b0a1393b93ac) |
-| Mon, 15 Sep 2025 11:42:03 GMT | How I Passed the OSCP+ on My First Attempt as an AppSec Engineer | Vahagn Israelian | [Read More](https://medium.com/p/c448ac15170f) |
-| Mon, 15 Sep 2025 11:39:34 GMT | BurpSuite vs Caido: Rethinking Proxy Tools for Bug Hunters | Ehtesham Ul Haq | [Read More](https://medium.com/p/52d1a7ac832c) |
-| Mon, 15 Sep 2025 11:38:25 GMT | How Will AI in Cybersecurity Market Transform Threat Detection by 2033? | Samuel Cooper | [Read More](https://medium.com/p/50818740f5d3) |
-| Mon, 15 Sep 2025 11:35:01 GMT | Crypto Crime in 2025: From Police Badge to Crypto Heist — Why Privacy and Protection Are Essential | Ventus Partners | [Read More](https://medium.com/p/b489029f9ed0) |
-| Mon, 15 Sep 2025 11:33:48 GMT | Privacy Implications and Mitigation Strategies in Transformer-Based Architectures | Omar Ali | [Read More](https://medium.com/p/68f1f4066311) |
-| Mon, 15 Sep 2025 11:32:52 GMT | The Lost Glitches: A Cyberpunk TCG Where Real Hacking Culture Bleeds Into the Cards | Motoko Iwakura | [Read More](https://medium.com/p/74e2e032077e) |
