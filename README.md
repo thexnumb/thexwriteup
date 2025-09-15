@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 09:16:21 GMT | AWS Cloud: Balancing Cost and Security for Modern Businesses | Patrick Oh | [Read More](https://medium.com/p/d3ed4f773ace) |
+| Mon, 15 Sep 2025 09:12:44 GMT | Cybersecurity Lessons from Popular Movies and TV Shows | vydhi | [Read More](https://medium.com/p/e41a7e145a79) |
+| Mon, 15 Sep 2025 09:11:56 GMT | How Burnout Hit Me While Learning Security — and the Routine That Saved Me | Dhruvdeep Singh | [Read More](https://medium.com/p/f66b45f4dbc4) |
+| Mon, 15 Sep 2025 09:11:29 GMT | The New Hire Who Never Existed | Aj | [Read More](https://medium.com/p/1e29a125369f) |
+| Mon, 15 Sep 2025 09:11:04 GMT | 10-Point Penetration Testing Contract Checklist for Every Business | CyberNX | [Read More](https://medium.com/p/cda04eb7bc04) |
+| Mon, 15 Sep 2025 09:11:01 GMT | The Psychology of Phishing: Why We Click | vydhi | [Read More](https://medium.com/p/190c57f5cd07) |
+| Mon, 15 Sep 2025 09:05:59 GMT | Upgrade Skills with Best Cyber Security Course in Hyderabad | Pravin Choudhary | [Read More](https://medium.com/p/79c8fbda5e7f) |
+| Mon, 15 Sep 2025 09:05:24 GMT | Future-Ready Enterprises Choose the Best IoT Services | Juarait Digital | [Read More](https://medium.com/p/598b01ce3b7a) |
+| Mon, 15 Sep 2025 09:05:12 GMT | Fiverr or Upwork Account hacked?Freelancer’s 2025 survivalGuide | Cyber Safety Zone | [Read More](https://medium.com/p/4db5399ed22a) |
+| Mon, 15 Sep 2025 08:58:45 GMT | Rogue AI Explained: Risks, Real Examples, and What Businesses Can Do | Satyam Pathania | [Read More](https://medium.com/p/18843f4c9b82) |
+| Mon, 15 Sep 2025 08:58:41 GMT | DockerLabs Writeup — NodeClimb (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/10b9b9b23d30) |
+| Mon, 15 Sep 2025 08:56:42 GMT | A Complete Guide to the Latest ZoomEye Search Syntax | Inter3209 | [Read More](https://medium.com/p/b4513e716288) |
 | Mon, 15 Sep 2025 08:45:27 GMT | Challenges Faced by CCTV Professionals | Nestrondigitalhub | [Read More](https://medium.com/p/0c8e7a1afceb) |
 | Mon, 15 Sep 2025 08:40:38 GMT | Are CBDCs dead? Or not yet? | MR. CIP | [Read More](https://medium.com/p/0b06e9e66124) |
+| Mon, 15 Sep 2025 08:36:38 GMT | How to Stop Bots Effectively: SafeLine WAF’s Smart Rate Limiting | Quella | [Read More](https://medium.com/p/4e6183f9f253) |
 | Mon, 15 Sep 2025 08:32:20 GMT | SPARK Matrix™: Strategic Insights into eCommerce Fraud Prevention Technologies | Gargiben | [Read More](https://medium.com/p/5ce299efd48d) |
 | Mon, 15 Sep 2025 08:31:23 GMT | Digisol DG-GR1321 Password Policy Bypass Vulnerability (CVE-2024–2257)​ | Redfox Security | [Read More](https://medium.com/p/a969426b1a90) |
 | Mon, 15 Sep 2025 08:23:14 GMT | Lakshay Security: The Role of Professional Security Services in Modern Society | Lakshay Security | [Read More](https://medium.com/p/e9c552a97c76) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 03:51:56 GMT | 0day Vulnerability Found in nginxWebUI: Remote Code Execution (RCE) Exploit | AerieWhole123 | [Read More](https://medium.com/p/04ded20f090f) |
 | Mon, 15 Sep 2025 03:32:01 GMT | The Digital Frontier: Navigating AI Advancements and Cybersecurity Threats | Akshat Ratanpal | [Read More](https://medium.com/p/17b4ba61f8d3) |
 | Mon, 15 Sep 2025 03:32:00 GMT | 6 Common JWT Token Theft Risks and Solutions | Arunangshu Das | [Read More](https://medium.com/p/1a918b61cdeb) |
-| Mon, 15 Sep 2025 03:32:00 GMT | When Smart Buses Get Hacked: The Hidden Risks Behind Connected Transport Systems | Deven Chhajed | [Read More](https://medium.com/p/e1cfe55d8c20) |
-| Mon, 15 Sep 2025 03:30:16 GMT | The Image That Executes: SVG as a Covert Application and Passport to Evade Defenses | Rodrigo Gutierrez | [Read More](https://medium.com/p/318b62844207) |
-| Mon, 15 Sep 2025 03:28:37 GMT | Analysis of rar file leads to a phishing site and two vulnerabilities | Shubho57 | [Read More](https://medium.com/p/02eb9ae30688) |
-| Mon, 15 Sep 2025 03:14:06 GMT | Jangan Takut Dulu, Cybersecurity Bukan Cara Jadi Hacker Jahat! | Jadi Hacker | [Read More](https://medium.com/p/95cb6ec6c508) |
-| Mon, 15 Sep 2025 03:02:00 GMT | WEEK 2 of 100DaysOfHacking | John Mark | [Read More](https://medium.com/p/698ca2664909) |
-| Mon, 15 Sep 2025 03:00:36 GMT | The Pixel Phone Just Broke the iPhone vs. Android Debate | @pixel10propix | [Read More](https://medium.com/p/aa53a4079634) |
-| Mon, 15 Sep 2025 02:58:15 GMT | Rooting Blackfield on Hack The Box — Active Directory from SMB to Domain Admin | Kaplanibrahimm | [Read More](https://medium.com/p/ef931a36da60) |
-| Mon, 15 Sep 2025 02:55:20 GMT | An Experiment in AI for Security Operations (Part 3— the results) | Bill Mahony | [Read More](https://medium.com/p/5aad494acc17) |
-| Mon, 15 Sep 2025 02:47:42 GMT | Forget the Board Seat: The CISO’s Real Power Is Unfiltered Access | Hardik T | [Read More](https://medium.com/p/7dd97990d7fa) |
-| Mon, 15 Sep 2025 02:43:23 GMT | New warfare in 21th Century: Softwar Warfare | Deric Lee | [Read More](https://medium.com/p/a35d10aeffb4) |
-| Mon, 15 Sep 2025 02:37:11 GMT | 7 Cyber Attacks That Could Happen to You Right Now (And How to Stay Safe) | Paritosh | [Read More](https://medium.com/p/1119cba7b4f1) |
-| Mon, 15 Sep 2025 02:24:42 GMT | Iranian Hackers Exploit Omani Mailbox in Global Spear-Phishing Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/373aef21e7c2) |
-| Mon, 15 Sep 2025 02:21:42 GMT | The New Castle in the Malware Kingdom | Aj | [Read More](https://medium.com/p/59e6c0909131) |
