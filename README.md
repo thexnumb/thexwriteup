@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 09:39:28 GMT | Top 10 Tech Jobs Employers Can’t Stop Searching For in 2025 | Intellitron Genesis | [Read More](https://medium.com/p/36c411f11b61) |
+| Mon, 15 Sep 2025 09:38:47 GMT | Untold Mind | nisavian | [Read More](https://medium.com/p/493c307ec0af) |
+| Mon, 15 Sep 2025 09:35:32 GMT | Enkapsulasi dan Modifier | Hammam Al Rosyid Mudhoffar | [Read More](https://medium.com/p/5c449e4d5521) |
+| Mon, 15 Sep 2025 09:30:27 GMT | Strengthening Your Single-Page Application Against XSS and Other Threats | Bhavesh Rajpurohit | [Read More](https://medium.com/p/0a529cf67939) |
+| Mon, 15 Sep 2025 09:26:21 GMT | The Daily Tech Digest: 15 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/129bfd8da824) |
+| Mon, 15 Sep 2025 09:24:02 GMT | End-to-End Encryption in Node.js: ECDH + AES/3DH Explained Simply | Usama Saleem | [Read More](https://medium.com/p/a571308d2071) |
+| Mon, 15 Sep 2025 09:23:01 GMT | Zero Trust Architecture: Why “Never Trust, Always Verify” is the New Security Paradigm | Pavan Patil | [Read More](https://medium.com/p/ce8d42b02adf) |
+| Mon, 15 Sep 2025 09:21:28 GMT | Generative AI for Cybersecurity: Roles, Responsibilities & Skills | Medora Grasser | [Read More](https://medium.com/p/14bad3d619e4) |
 | Mon, 15 Sep 2025 09:16:21 GMT | AWS Cloud: Balancing Cost and Security for Modern Businesses | Patrick Oh | [Read More](https://medium.com/p/d3ed4f773ace) |
 | Mon, 15 Sep 2025 09:12:44 GMT | Cybersecurity Lessons from Popular Movies and TV Shows | vydhi | [Read More](https://medium.com/p/e41a7e145a79) |
 | Mon, 15 Sep 2025 09:11:56 GMT | How Burnout Hit Me While Learning Security — and the Routine That Saved Me | Dhruvdeep Singh | [Read More](https://medium.com/p/f66b45f4dbc4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 04:41:19 GMT | Reflections of Doom: How a Tiny DOM XSS Turned Into Complete Account Takeover | Iski | [Read More](https://medium.com/p/2318f116f257) |
 | Mon, 15 Sep 2025 04:31:31 GMT | Beginner’s Guide: API Pentesting with Postman + Burp | Blue_eye | [Read More](https://medium.com/p/fc2417b0c50a) |
 | Mon, 15 Sep 2025 04:16:45 GMT | You Searched for a Dev Tool. Google Served You Malware. | Aj | [Read More](https://medium.com/p/c2e3da8cd421) |
-| Mon, 15 Sep 2025 04:13:01 GMT | Systems Development & Methodologies | Sylvia Cycil | [Read More](https://medium.com/p/c04f4312a2a1) |
-| Mon, 15 Sep 2025 04:10:20 GMT | RST TI Report Digest: 15 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/a8c929c12fb6) |
-| Mon, 15 Sep 2025 03:59:44 GMT | Day 57- False Positives vs False Negatives in cybersecurity | unica 02 | [Read More](https://medium.com/p/fafd66a50bdd) |
-| Mon, 15 Sep 2025 03:55:49 GMT | Why It’s Okay to Feel Dumb While Learning Programming | Abhijit Dutta | [Read More](https://medium.com/p/e469e8236e5a) |
-| Mon, 15 Sep 2025 03:53:00 GMT | What is Identity Access Management (IAM)? A Beginner’s Guide | Ashwini Bhat S | [Read More](https://medium.com/p/6d312a4b8712) |
-| Mon, 15 Sep 2025 03:51:56 GMT | 0day Vulnerability Found in nginxWebUI: Remote Code Execution (RCE) Exploit | AerieWhole123 | [Read More](https://medium.com/p/04ded20f090f) |
-| Mon, 15 Sep 2025 03:32:01 GMT | The Digital Frontier: Navigating AI Advancements and Cybersecurity Threats | Akshat Ratanpal | [Read More](https://medium.com/p/17b4ba61f8d3) |
-| Mon, 15 Sep 2025 03:32:00 GMT | 6 Common JWT Token Theft Risks and Solutions | Arunangshu Das | [Read More](https://medium.com/p/1a918b61cdeb) |
