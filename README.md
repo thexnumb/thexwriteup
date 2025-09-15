@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 08:45:27 GMT | Challenges Faced by CCTV Professionals | Nestrondigitalhub | [Read More](https://medium.com/p/0c8e7a1afceb) |
+| Mon, 15 Sep 2025 08:40:38 GMT | Are CBDCs dead? Or not yet? | MR. CIP | [Read More](https://medium.com/p/0b06e9e66124) |
+| Mon, 15 Sep 2025 08:32:20 GMT | SPARK Matrix™: Strategic Insights into eCommerce Fraud Prevention Technologies | Gargiben | [Read More](https://medium.com/p/5ce299efd48d) |
+| Mon, 15 Sep 2025 08:31:23 GMT | Digisol DG-GR1321 Password Policy Bypass Vulnerability (CVE-2024–2257)​ | Redfox Security | [Read More](https://medium.com/p/a969426b1a90) |
 | Mon, 15 Sep 2025 08:23:14 GMT | Lakshay Security: The Role of Professional Security Services in Modern Society | Lakshay Security | [Read More](https://medium.com/p/e9c552a97c76) |
 | Mon, 15 Sep 2025 08:14:07 GMT | The Defence Trilemma | Jeegar Kakkad | [Read More](https://medium.com/p/319821dcafa4) |
 | Mon, 15 Sep 2025 08:12:37 GMT | Cybersecurity Best Practices: How to Protect Your Business from Threats | SalesMark Global | [Read More](https://medium.com/p/d0c4c4e6afdf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 02:37:11 GMT | 7 Cyber Attacks That Could Happen to You Right Now (And How to Stay Safe) | Paritosh | [Read More](https://medium.com/p/1119cba7b4f1) |
 | Mon, 15 Sep 2025 02:24:42 GMT | Iranian Hackers Exploit Omani Mailbox in Global Spear-Phishing Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/373aef21e7c2) |
 | Mon, 15 Sep 2025 02:21:42 GMT | The New Castle in the Malware Kingdom | Aj | [Read More](https://medium.com/p/59e6c0909131) |
-| Mon, 15 Sep 2025 02:21:23 GMT | Hackers Exploit Windows Defender Policies to Disable EDR Agents | SafetyDetectives Research Team | [Read More](https://medium.com/p/37361ba2e04a) |
-| Mon, 15 Sep 2025 02:15:29 GMT | Hackers Are Stealing Salesforce Data — The FBI Just Raised the Alarm | Dhruvdeep Singh | [Read More](https://medium.com/p/8c7838ad19dc) |
-| Mon, 15 Sep 2025 02:13:50 GMT | Why SpamGPT Is Reshaping the Future of Phishing Attacks (And How Ethical Hackers Are Fighting Back) | EhxAnomity | [Read More](https://medium.com/p/849bddc5a70b) |
-| Mon, 15 Sep 2025 02:13:38 GMT | Beyond the Scan: The Human Element of Penetration Testing | Aj | [Read More](https://medium.com/p/6bf5d3b0e5a3) |
