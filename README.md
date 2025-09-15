@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 03:00:36 GMT | The Pixel Phone Just Broke the iPhone vs. Android Debate | @pixel10propix | [Read More](https://medium.com/p/aa53a4079634) |
+| Mon, 15 Sep 2025 02:58:15 GMT | Rooting Blackfield on Hack The Box — Active Directory from SMB to Domain Admin | Kaplanibrahimm | [Read More](https://medium.com/p/ef931a36da60) |
+| Mon, 15 Sep 2025 02:55:20 GMT | An Experiment in AI for Security Operations (Part 3— the results) | Bill Mahony | [Read More](https://medium.com/p/5aad494acc17) |
+| Mon, 15 Sep 2025 02:47:42 GMT | Forget the Board Seat: The CISO’s Real Power Is Unfiltered Access | Hardik T | [Read More](https://medium.com/p/7dd97990d7fa) |
+| Mon, 15 Sep 2025 02:43:23 GMT | New warfare in 21th Century: Softwar Warfare | Deric Lee | [Read More](https://medium.com/p/a35d10aeffb4) |
+| Mon, 15 Sep 2025 02:37:11 GMT | 7 Cyber Attacks That Could Happen to You Right Now (And How to Stay Safe) | Paritosh | [Read More](https://medium.com/p/1119cba7b4f1) |
+| Mon, 15 Sep 2025 02:24:42 GMT | Iranian Hackers Exploit Omani Mailbox in Global Spear-Phishing Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/373aef21e7c2) |
+| Mon, 15 Sep 2025 02:21:42 GMT | The New Castle in the Malware Kingdom | Aj | [Read More](https://medium.com/p/59e6c0909131) |
+| Mon, 15 Sep 2025 02:21:23 GMT | Hackers Exploit Windows Defender Policies to Disable EDR Agents | SafetyDetectives Research Team | [Read More](https://medium.com/p/37361ba2e04a) |
+| Mon, 15 Sep 2025 02:15:29 GMT | Hackers Are Stealing Salesforce Data — The FBI Just Raised the Alarm | Dhruvdeep Singh | [Read More](https://medium.com/p/8c7838ad19dc) |
+| Mon, 15 Sep 2025 02:13:50 GMT | Why SpamGPT Is Reshaping the Future of Phishing Attacks (And How Ethical Hackers Are Fighting Back) | EhxAnomity | [Read More](https://medium.com/p/849bddc5a70b) |
+| Mon, 15 Sep 2025 02:13:38 GMT | Beyond the Scan: The Human Element of Penetration Testing | Aj | [Read More](https://medium.com/p/6bf5d3b0e5a3) |
+| Mon, 15 Sep 2025 02:00:27 GMT | Hacking Activities of Pro-Russian Cyber Crime Group Targeting Korean Companies | NSHC ThreatRecon Team | [Read More](https://medium.com/p/8e349ae90401) |
 | Mon, 15 Sep 2025 01:34:56 GMT | ️ Secure Your Flutter App Like a Pro (Without Falling Asleep) | Cloderaldo Morales Pampanga III | [Read More](https://medium.com/p/4421559329e0) |
 | Mon, 15 Sep 2025 01:31:44 GMT | 5 Signs It’s Time to Upgrade Your Legacy System | Wistkey | [Read More](https://medium.com/p/e033c02091e2) |
 | Mon, 15 Sep 2025 01:25:14 GMT | Client vs Server-Side Encryption: The Real Meaning of End-to-End Security | Samuel Owolabi | [Read More](https://medium.com/p/19b2f5158dbd) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 18:09:27 GMT | The Linux Security Journey — Use Virtually Mapped Stack with Guard Pages | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0e723f5132ba) |
 | Sun, 14 Sep 2025 18:05:50 GMT | What is Directory Traversal / Path Traversal Attacks. | The Darkarmy | [Read More](https://medium.com/p/2c547c77fa66) |
 | Sun, 14 Sep 2025 18:04:44 GMT | Understanding the Backbone: Servers, Domain Controllers, and Active Directory | Florence Nwizugbe | [Read More](https://medium.com/p/7939ccb76740) |
-| Sun, 14 Sep 2025 18:03:54 GMT | THREAT BRIEF (HIGH): Adobe Commerce Flaw Lets Hackers Take Over Customer Accounts | Kavya Ganesan | [Read More](https://medium.com/p/0c55ad34219e) |
-| Sun, 14 Sep 2025 18:02:59 GMT | The Vulnerability Chronicles: Why I Went No Contact With My Parents | DamnAmazon | [Read More](https://medium.com/p/e3c381a4fb02) |
-| Sun, 14 Sep 2025 18:02:00 GMT | Bug Bounty: Open Redirect: el fallo que nadie respeta… pero todos deberíamos temer | Gorka | [Read More](https://medium.com/p/a414059a53ad) |
-| Sun, 14 Sep 2025 17:54:53 GMT | Deployment Of Network Communication Control In Oracle Cloud Infrastructure With Virtual Cloud… | Kolotcholoman Kone | [Read More](https://medium.com/p/2fa212dd2413) |
-| Sun, 14 Sep 2025 17:54:35 GMT | Default Page to Admin Paths Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/1d5709b3725b) |
-| Sun, 14 Sep 2025 17:49:12 GMT | Praktikum Internet of Things: Pemrograman Dasar Mikrokontroler | Muhammad Surya Saputro | [Read More](https://medium.com/p/503ec054007f) |
-| Sun, 14 Sep 2025 17:47:40 GMT | Praktikum Internet of Things (Tugas): Instalasi Arduino IDE & Uji Koneksi Board Arduino | Muhammad Surya Saputro | [Read More](https://medium.com/p/88ba133f6d6a) |
-| Sun, 14 Sep 2025 17:46:12 GMT | Praktikum Internet of Things : Instalasi Arduino IDE & Uji Koneksi Board Arduino | Muhammad Surya Saputro | [Read More](https://medium.com/p/a95167f7de92) |
-| Sun, 14 Sep 2025 17:38:52 GMT | XOXO from Prague attacks LockBit again | Patrik Žák | [Read More](https://medium.com/p/f1aaa620bf5c) |
-| Sun, 14 Sep 2025 17:38:27 GMT | The Secret Playbook: How Bug Hunters Spot Vulnerabilities Before Anyone Else | Sukhveer Singh | [Read More](https://medium.com/p/a74f2e65709b) |
-| Sun, 14 Sep 2025 17:27:18 GMT | Week 9— Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/dea9932c4a0f) |
-| Sun, 14 Sep 2025 17:23:19 GMT | Hacker101- H1 Thermostat-CTF | nightbird | [Read More](https://medium.com/p/f1060fcc1a86) |
-| Sun, 14 Sep 2025 17:22:27 GMT | Every bugfix should be a refactor | Juro Uhlar | [Read More](https://medium.com/p/7e667fceeb6d) |
