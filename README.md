@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 17:08:01 GMT | 3D Motion Capturing System Market: Size, Share & Growth Drivers (2025–2032) | smartitinsights | [Read More](https://medium.com/p/e6e519b1c6fd) |
+| Mon, 15 Sep 2025 17:06:45 GMT | The Art of Running a Lean, Efficient IT Team | Ron | [Read More](https://medium.com/p/8208cafda958) |
+| Mon, 15 Sep 2025 17:06:11 GMT | Cyberattacks: What They Are, What They Target, and How They Impact Businesses | Jyoti Joshi | [Read More](https://medium.com/p/15445247445b) |
+| Mon, 15 Sep 2025 17:00:48 GMT | I Cracked a JWT Secret and Became Admin | Humairah Adamu Sidi | [Read More](https://medium.com/p/cef26dca3b39) |
+| Mon, 15 Sep 2025 16:59:21 GMT | A Web Application Security Assessment of Vuln-Bank (Part 2) | Claire Iyara | [Read More](https://medium.com/p/0327ca14790c) |
+| Mon, 15 Sep 2025 16:55:02 GMT | Managing File Permissions in Linux Using chmod | Citadel Cybersec | [Read More](https://medium.com/p/f9e8ec7da248) |
+| Mon, 15 Sep 2025 16:51:15 GMT | (Tryhackme)- Rate Limits, OTPs, and JWTs — Breaking the Hammer CTF | Dair H | [Read More](https://medium.com/p/f1473194a089) |
+| Mon, 15 Sep 2025 16:49:27 GMT | HTB Sherlock:Pikaptcha | Serkan | [Read More](https://medium.com/p/fe30cc806ef2) |
+| Mon, 15 Sep 2025 16:44:59 GMT | Make CYBERSECURITY your ADDITION | ZEOS | [Read More](https://medium.com/p/bce958b55329) |
+| Mon, 15 Sep 2025 16:43:28 GMT | Cybersecurity in Pediatrics in 2025 | Gianluca Mondillo | [Read More](https://medium.com/p/727c14e1454c) |
+| Mon, 15 Sep 2025 16:41:30 GMT | Cybersecurity is personal. Make it your business. | Katie Moscoso | [Read More](https://medium.com/p/53363dc04c71) |
 | Mon, 15 Sep 2025 16:39:47 GMT | Her Şey Injection — SQLi | Metin Ahmet Erkeleş | [Read More](https://medium.com/p/03519854162e) |
 | Mon, 15 Sep 2025 16:37:44 GMT | ISO 27000 vs. NIST CSF — Which Framework is Right for Your Cybersecurity? | Mike (sl0th0x87) | [Read More](https://medium.com/p/a2fc8a185724) |
 | Mon, 15 Sep 2025 16:36:34 GMT | Fixing the Git fatal: unable to access Error: SSL Certificate Problem (Self-Signed Certificate in… | Luca Berton | [Read More](https://medium.com/p/a5ad77cc78f7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 13:25:21 GMT | Corporate Greed Chronicles: ConocoPhillips’ Altar of Greed Sacrifices Workers | Namir Sagheenanajar | [Read More](https://medium.com/p/4c61ecf0c043) |
 | Mon, 15 Sep 2025 13:24:31 GMT | Critical LangChainGo Vulnerability Let Attackers Access Sensitive Files by Injecting Malicious… | Jasmitharouthu | [Read More](https://medium.com/p/98f194cfc17d) |
 | Mon, 15 Sep 2025 13:24:09 GMT | Looking for secure options to move over $6,000 in USDT from OKX wallet — what do you suggest? | Joelle luxer | [Read More](https://medium.com/p/8cf8c652e7fa) |
-| Mon, 15 Sep 2025 13:20:19 GMT | The Salesforce Supply Chain Breach: When One Weak Link Shatters Global Trust | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ecc1b633e1d7) |
-| Mon, 15 Sep 2025 13:18:03 GMT | How Scammers Drain Bank Accounts | Internet Exposed | [Read More](https://medium.com/p/92d3f2d78b40) |
-| Mon, 15 Sep 2025 13:13:07 GMT | SOC Roles In Blue Team Explained: L1, L2 Analyst - TryHackMe | Visir | [Read More](https://medium.com/p/f28d62cb89e2) |
-| Mon, 15 Sep 2025 13:12:58 GMT | P.O.O — Part 3: BackTrack | XOR-Hacks | [Read More](https://medium.com/p/f7c3e65eb51c) |
-| Mon, 15 Sep 2025 13:08:54 GMT | ️ App Development Roadmap 2025 — What are the 4 proven ways to turn your idea into a… | Smira | [Read More](https://medium.com/p/4d2be515a63a) |
-| Mon, 15 Sep 2025 13:07:29 GMT | No, AI Won’t Steal Your Credit Card Number — But the Company Behind It Stores Everything You Say | Nicholas Borg | [Read More](https://medium.com/p/f6acf51b04ec) |
-| Mon, 15 Sep 2025 13:05:16 GMT | How the Human Element Impacts Cybersecurity Effectiveness | Renaissance Computer Services Limited | [Read More](https://medium.com/p/0d63893b42a7) |
-| Mon, 15 Sep 2025 13:01:56 GMT | How I Found My First Critical Security Flaw in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/cf597b1e42fb) |
-| Mon, 15 Sep 2025 13:01:46 GMT | Rules of Engagement (RoE) para Pentesting Interno en Clínica SanaVida | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/1eda30e88dc9) |
-| Mon, 15 Sep 2025 13:01:00 GMT | My thoughts on free SOC training (and how I’m gearing up for Singtel’s MSSP SOC) | Rohit | [Read More](https://medium.com/p/ab8e61a28cd1) |
-| Mon, 15 Sep 2025 12:59:11 GMT | Introduction to Cybersecurity — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/f1739a34dd65) |
