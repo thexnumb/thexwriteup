@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 22:15:49 GMT | Proyecto Escuelas y Bitcoin recibe el apoyo de Paystand.org | ONG Bitcoin Argentina | [Read More](https://medium.com/p/b048e4b8417a) |
+| Mon, 15 Sep 2025 22:03:28 GMT | How DMARC Protects Against Phishing and Email Fraud | Keepnet Labs | [Read More](https://medium.com/p/35569b60155d) |
+| Mon, 15 Sep 2025 22:00:27 GMT | Malware: Common Types and Terms | Enskefuddle | [Read More](https://medium.com/p/99bbcd7c0bea) |
+| Mon, 15 Sep 2025 21:58:16 GMT | Rooting HTB Blackfield — CPTS Prep Pt.1 | Joseph Jung | [Read More](https://medium.com/p/2cbf9cd40a74) |
+| Mon, 15 Sep 2025 21:55:08 GMT | Phishing Attacks: Techniques and Prevention Strategies | Shourya Kakkar | [Read More](https://medium.com/p/42c4a4c5c0fc) |
+| Mon, 15 Sep 2025 21:50:31 GMT | Slack, Zoom, Google Drive: Are Your Collaboration Tools Putting You Out of Compliance? | BiyteLüm | [Read More](https://medium.com/p/1ffbe4fa55fb) |
+| Mon, 15 Sep 2025 21:46:41 GMT | Conti Ransomware Source Code Released: What It Means for Cybersecurity | Keepnet Labs | [Read More](https://medium.com/p/ae8666a066da) |
+| Mon, 15 Sep 2025 21:42:59 GMT | CyberDefenders — HireMe Lab | Jose Chaves | [Read More](https://medium.com/p/898a6e56d002) |
+| Mon, 15 Sep 2025 21:41:51 GMT | WinAPI Wrapper for Import Address Table Evasion | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6e5a13f24599) |
+| Mon, 15 Sep 2025 21:39:20 GMT | Packet Crafting with Scapy | Berat Ünal | [Read More](https://medium.com/p/0cc8accaef08) |
+| Mon, 15 Sep 2025 21:38:19 GMT | The War That Starts at 3 A.M. | hexa | [Read More](https://medium.com/p/ad0b3ad66b69) |
+| Mon, 15 Sep 2025 21:34:57 GMT | Cloudflare Thwarts Largest DDoS Attack in History | Aj | [Read More](https://medium.com/p/6a1faca6416d) |
+| Mon, 15 Sep 2025 21:34:21 GMT | Violent Attack Vectors in Web3: A Detailed Review | Officer's Notes | [Read More](https://medium.com/p/46afb031fe2d) |
+| Mon, 15 Sep 2025 21:31:33 GMT | What Data Infostealers Revealed About North Korea’s Cyber Warriors | David SEHYEON Baek | [Read More](https://medium.com/p/07809b7a598a) |
 | Mon, 15 Sep 2025 21:27:47 GMT | Top 5 Secure Phones to Consider in 2025: A Comprehensive Guide to Privacy & Safety | Officer's Notes | [Read More](https://medium.com/p/1988e18f945d) |
 | Mon, 15 Sep 2025 21:27:32 GMT | Hacker-Proof Your Home Lab Without Breaking the Bank | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/023b8b31bf01) |
 | Mon, 15 Sep 2025 21:21:45 GMT | Security, Scams, and Signals Etiquette | Jack Reddington | [Read More](https://medium.com/p/832a81667037) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 16:24:11 GMT | Best Treasury Management Systems for Banks: Features, Security, and Compliance | Kosh AI | [Read More](https://medium.com/p/973668b25e34) |
 | Mon, 15 Sep 2025 16:18:15 GMT | ✨ I’m pleased to share an exciting milestone. | Ray Islam, PhD | [Read More](https://medium.com/p/ee9c38c79553) |
 | Mon, 15 Sep 2025 16:16:09 GMT | How I’m Coding With AI for Free Right Now (Because Paying Isn’t Always an Option) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c85176c8029c) |
-| Mon, 15 Sep 2025 16:15:52 GMT | Protecting Digital Identities in the AI Era: How Rainbow Secure IAM is Raising the Bar | Dr. Shashi Karhail | [Read More](https://medium.com/p/58d0ff0ee806) |
-| Mon, 15 Sep 2025 16:11:26 GMT | “Sum-O-Primes” challenge | oussama | [Read More](https://medium.com/p/cf44a35446aa) |
-| Mon, 15 Sep 2025 16:03:47 GMT | ️ The Ultimate Security Engineer’s Survival Guide: Decoding Cybersecurity’s Alphabet Soup… | Sumant Khapre | [Read More](https://medium.com/p/3ea789ab5123) |
-| Mon, 15 Sep 2025 16:02:18 GMT | Data Security Standards In-Depth Description, Use and Comparisons | Prabhat K. Andleigh | [Read More](https://medium.com/p/424218587585) |
-| Mon, 15 Sep 2025 16:01:45 GMT | The Rise of the AI Red Team: Proactively Hacking Your Own AI for Security and Trust | ODSC - Open Data Science | [Read More](https://medium.com/p/276535085e98) |
-| Mon, 15 Sep 2025 15:59:51 GMT | AI Regulation Reality Check: Why ISO 42001 Isn’t Just Another Compliance Checkbox | Cathal Devilly | [Read More](https://medium.com/p/66374c65b9a4) |
-| Mon, 15 Sep 2025 15:56:47 GMT | Configuring Wazuh Agents, Groups, and Vulnerability Detection | Arfan Abid | [Read More](https://medium.com/p/7db429836d8b) |
-| Mon, 15 Sep 2025 15:55:02 GMT | How a Shared Upload URL Let Me Take Over qaAccounts | Abhishek sharma | [Read More](https://medium.com/p/9298be10e342) |
-| Mon, 15 Sep 2025 15:54:22 GMT | How To Protect Your Data From Hackers | ranjan niskrity | [Read More](https://medium.com/p/54be84119f5f) |
-| Mon, 15 Sep 2025 15:48:58 GMT | VEAMOS COMO SE COMPONEN EL HARDWARE Y SOFTWARE… | Recordemoslahistoria | [Read More](https://medium.com/p/3883b54da91b) |
-| Mon, 15 Sep 2025 15:48:21 GMT | Alondra-504022 | Lo Cotidiano en el Futuro | [Read More](https://medium.com/p/7b1bdc73b43f) |
-| Mon, 15 Sep 2025 15:44:30 GMT | Malware in IoT Devices: Hidden Risks Lurking in Your Smart Home | vydhi | [Read More](https://medium.com/p/435ef5d02ac4) |
-| Mon, 15 Sep 2025 15:43:04 GMT | What is Ethical Hacking and Why IT Professionals Need to Learn It | Varshika S | [Read More](https://medium.com/p/fefd0dd11948) |
-| Mon, 15 Sep 2025 15:42:52 GMT | Breaking Hardened Runtime | Karol Mazurek | [Read More](https://medium.com/p/e2a210d10e88) |
