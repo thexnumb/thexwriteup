@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 03:32:01 GMT | The Digital Frontier: Navigating AI Advancements and Cybersecurity Threats | Akshat Ratanpal | [Read More](https://medium.com/p/17b4ba61f8d3) |
+| Mon, 15 Sep 2025 03:32:00 GMT | 6 Common JWT Token Theft Risks and Solutions | Arunangshu Das | [Read More](https://medium.com/p/1a918b61cdeb) |
+| Mon, 15 Sep 2025 03:32:00 GMT | When Smart Buses Get Hacked: The Hidden Risks Behind Connected Transport Systems | Deven Chhajed | [Read More](https://medium.com/p/e1cfe55d8c20) |
+| Mon, 15 Sep 2025 03:30:16 GMT | The Image That Executes: SVG as a Covert Application and Passport to Evade Defenses | Rodrigo Gutierrez | [Read More](https://medium.com/p/318b62844207) |
+| Mon, 15 Sep 2025 03:14:06 GMT | Jangan Takut Dulu, Cybersecurity Bukan Cara Jadi Hacker Jahat! | Jadi Hacker | [Read More](https://medium.com/p/95cb6ec6c508) |
+| Mon, 15 Sep 2025 03:02:00 GMT | WEEK 2 of 100DaysOfHacking | John Mark | [Read More](https://medium.com/p/698ca2664909) |
 | Mon, 15 Sep 2025 03:00:36 GMT | The Pixel Phone Just Broke the iPhone vs. Android Debate | @pixel10propix | [Read More](https://medium.com/p/aa53a4079634) |
 | Mon, 15 Sep 2025 02:58:15 GMT | Rooting Blackfield on Hack The Box — Active Directory from SMB to Domain Admin | Kaplanibrahimm | [Read More](https://medium.com/p/ef931a36da60) |
 | Mon, 15 Sep 2025 02:55:20 GMT | An Experiment in AI for Security Operations (Part 3— the results) | Bill Mahony | [Read More](https://medium.com/p/5aad494acc17) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 18:31:26 GMT | The Ethics of Cyber Security: Details | Cyber Security Research | [Read More](https://medium.com/p/1c5fb9329ff8) |
 | Sun, 14 Sep 2025 18:26:20 GMT | 70+ Labs I Solved for OSCP and Which Ones You Should Focus On | Diasadin | [Read More](https://medium.com/p/cab3c7c8583f) |
 | Sun, 14 Sep 2025 18:25:21 GMT | Cyber Security Details: Navigating the Legal Landscape | Cyber Security Research | [Read More](https://medium.com/p/1937594352b8) |
-| Sun, 14 Sep 2025 18:23:53 GMT | How DRM Safeguards Streaming Platforms like Netflix & Prime Video | Kanishk Srivastava | [Read More](https://medium.com/p/b75b4bce9f94) |
-| Sun, 14 Sep 2025 18:16:21 GMT | SQL Injection: An Old but Still Dangerous Threat to Web Applications | Lumae | [Read More](https://medium.com/p/00feeeea473c) |
-| Sun, 14 Sep 2025 18:14:51 GMT | Understanding Cross-Site Scripting (XSS) Vulnerabilities | Vaibhav Tiwari | [Read More](https://medium.com/p/5a49375867f1) |
-| Sun, 14 Sep 2025 18:09:27 GMT | The Linux Security Journey — Use Virtually Mapped Stack with Guard Pages | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0e723f5132ba) |
-| Sun, 14 Sep 2025 18:05:50 GMT | What is Directory Traversal / Path Traversal Attacks. | The Darkarmy | [Read More](https://medium.com/p/2c547c77fa66) |
-| Sun, 14 Sep 2025 18:04:44 GMT | Understanding the Backbone: Servers, Domain Controllers, and Active Directory | Florence Nwizugbe | [Read More](https://medium.com/p/7939ccb76740) |
