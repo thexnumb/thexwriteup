@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 07:37:51 GMT | What is Ethical Hacking?: A Beginner’s Guide to Penetration Testing | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/ab6dfa977205) |
+| Mon, 15 Sep 2025 07:31:43 GMT | AI-Powered Cybersecurity | Riya Sharma | [Read More](https://medium.com/p/1503ed6b38d8) |
+| Mon, 15 Sep 2025 07:31:25 GMT | What Is Outsourced Product Development and Why Does It Matter Today | Cannyfore Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/9b4b235f54e7) |
+| Mon, 15 Sep 2025 07:29:46 GMT | The Best Law Firms for Privacy & Data Security in the U.S. | Hansen Tong | [Read More](https://medium.com/p/b371eba5cc10) |
+| Mon, 15 Sep 2025 07:28:10 GMT | How I Lost €400,000 to a “Legit” Crypto Platform, and What I Learned | Marco Filmworks | [Read More](https://medium.com/p/7b8e58343ec8) |
+| Mon, 15 Sep 2025 07:27:50 GMT | Cybersecurity Innovations: How New Technologies Are Redefining Digital Safety for the World | Securis360 Inc. | [Read More](https://medium.com/p/abb3f33b23ed) |
+| Mon, 15 Sep 2025 07:22:03 GMT | Fun Malware Analysis | Mina Ghaly | [Read More](https://medium.com/p/4034cdc26e8e) |
 | Mon, 15 Sep 2025 07:17:23 GMT | The US-UK Digital Alliance: A New Era for Cybersecurity and AI Stocks | The Thematic Investor | [Read More](https://medium.com/p/14e4a1fa17b9) |
 | Mon, 15 Sep 2025 07:09:27 GMT | Top 5 SSL issues to understand (and avoid) | Smit Pipaliya | [Read More](https://medium.com/p/30a47d351607) |
 | Mon, 15 Sep 2025 07:08:42 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a2e7fbcba072) |
@@ -73,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 03:32:00 GMT | 6 Common JWT Token Theft Risks and Solutions | Arunangshu Das | [Read More](https://medium.com/p/1a918b61cdeb) |
 | Mon, 15 Sep 2025 03:32:00 GMT | When Smart Buses Get Hacked: The Hidden Risks Behind Connected Transport Systems | Deven Chhajed | [Read More](https://medium.com/p/e1cfe55d8c20) |
 | Mon, 15 Sep 2025 03:30:16 GMT | The Image That Executes: SVG as a Covert Application and Passport to Evade Defenses | Rodrigo Gutierrez | [Read More](https://medium.com/p/318b62844207) |
+| Mon, 15 Sep 2025 03:28:37 GMT | Analysis of rar file leads to a phishing site and two vulnerabilities | Shubho57 | [Read More](https://medium.com/p/02eb9ae30688) |
 | Mon, 15 Sep 2025 03:14:06 GMT | Jangan Takut Dulu, Cybersecurity Bukan Cara Jadi Hacker Jahat! | Jadi Hacker | [Read More](https://medium.com/p/95cb6ec6c508) |
 | Mon, 15 Sep 2025 03:02:00 GMT | WEEK 2 of 100DaysOfHacking | John Mark | [Read More](https://medium.com/p/698ca2664909) |
 | Mon, 15 Sep 2025 03:00:36 GMT | The Pixel Phone Just Broke the iPhone vs. Android Debate | @pixel10propix | [Read More](https://medium.com/p/aa53a4079634) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 00:29:01 GMT | The Interrelationship of Science, Technology, and Society | muhammad ardiansah | [Read More](https://medium.com/p/b20327dc019f) |
 | Mon, 15 Sep 2025 00:21:14 GMT | Pentathon-Chaat/07CTF-Chatroom Writeup | Bhavya Gupta | [Read More](https://medium.com/p/1c8bcf562a1d) |
 | Mon, 15 Sep 2025 00:04:50 GMT | The Hacker’s Mind: What I Learned from Psychology (and How It Helps Me Hack — and Defend) | Wsuits6 | [Read More](https://medium.com/p/7da301f75390) |
-| Sun, 14 Sep 2025 23:59:00 GMT | The Scientific Search for Extraterrestrial Life: Are We Alone? | muhammad ardiansah | [Read More](https://medium.com/p/0b2d93d35254) |
-| Sun, 14 Sep 2025 23:25:42 GMT | Top 11 cyber stories (Week: Sept 8–7, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/0b5a6416bcb0) |
-| Sun, 14 Sep 2025 22:59:17 GMT | 1Password vs Bitwarden in 2025: Which Password Manager Should You Trust? | BiyteLüm | [Read More](https://medium.com/p/ef2e1efeeaa2) |
-| Sun, 14 Sep 2025 22:56:18 GMT | 4 Startup Websites That Will Get You a Feature in TechCrunch | Alpha Design Global | [Read More](https://medium.com/p/b23ad030e1fa) |
-| Sun, 14 Sep 2025 22:43:20 GMT | The Compliance Certificate Illusion : Why SOC 2 and ISO 27001 Won’t Protect You From Third-Party… | Akilnath Bodipudi | [Read More](https://medium.com/p/dd7c9f660dbb) |
-| Sun, 14 Sep 2025 22:41:53 GMT | Decompose human risk factors | Matthew.Rosenquist | [Read More](https://medium.com/p/45fe3d902694) |
-| Sun, 14 Sep 2025 22:34:52 GMT | The Role of AI in Cybersecurity: Why AI Should Be Your New Best Friend in Cybersecurity | Ebenezer | [Read More](https://medium.com/p/e06b7f83433c) |
-| Sun, 14 Sep 2025 22:25:43 GMT | Automating Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/15544c7fc069) |
