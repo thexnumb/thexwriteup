@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 15:14:28 GMT | Advance Your Networking & Cybersecurity Skills with Cisco Training | Aaqib Rajput | [Read More](https://medium.com/p/9aff36ebde44) |
+| Mon, 15 Sep 2025 15:11:25 GMT | “The Lazy Hacker’s Guide to $500 Information Disclosure Bugs” | Aman Sharma | [Read More](https://medium.com/p/b45f9472725e) |
+| Mon, 15 Sep 2025 15:11:03 GMT | You Don’t Need More Time To Learn. You Need a Learning System | Vijay Kumar Gupta | [Read More](https://medium.com/p/519b77eab97d) |
+| Mon, 15 Sep 2025 15:06:01 GMT | Modern Challenges and Risks for Symmetric and Asymmetric Encryption and Authentication in… | Igor Yanovskiy | [Read More](https://medium.com/p/7911900cb302) |
+| Mon, 15 Sep 2025 15:02:09 GMT | Ingress SSL Communication Patterns in Kubernetes | Sowmya | [Read More](https://medium.com/p/cf6509978f06) |
+| Mon, 15 Sep 2025 14:53:41 GMT | Pre-9/11 Skies: How Did We Ever Fly So Carelessly? | MythsAndMaybeNots | [Read More](https://medium.com/p/44d8b5f25aaa) |
+| Mon, 15 Sep 2025 14:48:36 GMT | Why Does Finding a Spouse Feel Harder Than Ever for Muslims Today? | NikahOne | [Read More](https://medium.com/p/2dcc26f2a80f) |
+| Mon, 15 Sep 2025 14:47:22 GMT | The $50K Email API Nightmare: Why Your “Simple” Gmail Integration Just Became a Compliance Hell | Dipali Shimpi | [Read More](https://medium.com/p/6071300b09b4) |
+| Mon, 15 Sep 2025 14:47:20 GMT | Cybersecurity Zero to Hero? Map Your Rise. | Authlyn | [Read More](https://medium.com/p/96564ef516ec) |
+| Mon, 15 Sep 2025 14:46:01 GMT | Best Parental Control Tool SentryPC: Empowering Online Security for Kids | Paul Meyer | [Read More](https://medium.com/p/3c911a97eb75) |
+| Mon, 15 Sep 2025 14:45:37 GMT | Day 3 — My Browser Engine Just Spoke to Google | Viratavi | [Read More](https://medium.com/p/4b652864f67c) |
+| Mon, 15 Sep 2025 14:45:03 GMT | Email Security: SPF, DKIM, DMARC? Explained Simply. | Truspex | [Read More](https://medium.com/p/3d60b06c7266) |
+| Mon, 15 Sep 2025 14:42:58 GMT | I missed a big opportunity today! | Chy Writes | [Read More](https://medium.com/p/f2eb85fa3685) |
+| Mon, 15 Sep 2025 14:40:31 GMT | How SOC Teams Detect Web Attacks - TryHackMe Detecting Web Attacks Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/777b9c4a12cd) |
+| Mon, 15 Sep 2025 14:39:57 GMT | Cybersecurity in Finance: Building the Digital Fort Knox | Amrik  Hanjra | [Read More](https://medium.com/p/e48cc684f745) |
+| Mon, 15 Sep 2025 14:39:43 GMT | ConfigMaps and Secrets: Managing Configuration in Kubernetes | Claudio Masolo | [Read More](https://medium.com/p/a7920816a97f) |
+| Mon, 15 Sep 2025 14:39:17 GMT | Data Governance is the Secret Weapon for Business Growth | Haider Ali Sukhera | [Read More](https://medium.com/p/4b9162c5f0cb) |
+| Mon, 15 Sep 2025 14:31:44 GMT | Women: Build Your Support System for a Resilient Life | Dancemi Clare | [Read More](https://medium.com/p/173ec7a86e9b) |
 | Mon, 15 Sep 2025 14:29:34 GMT | Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single… | Chirag Vyas | [Read More](https://medium.com/p/cace8aba35c2) |
 | Mon, 15 Sep 2025 14:22:21 GMT | The Streaming Revolution: Unpacking the Over The Top (OTT) Services Market Size, Share & Industry… | techmarketinsights | [Read More](https://medium.com/p/604ca0e96799) |
 | Mon, 15 Sep 2025 14:20:05 GMT | Go 1.25.1 Dropped — The Patch Every Dev Must Install Now | Concurrent Mind | [Read More](https://medium.com/p/1722461d990d) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 11:11:43 GMT | Uncloaking VoidProxy: What GRC Leaders Need to Know | Brittney Ginther | [Read More](https://medium.com/p/a8b549fa8101) |
 | Mon, 15 Sep 2025 11:03:29 GMT | TryHackMe: Squid Game — Attacker 2 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/b09f22ffb066) |
 | Mon, 15 Sep 2025 10:59:51 GMT | How Cybersecurity Monitoring & Alerting Services Prevent Digital Threats | Vijilan | [Read More](https://medium.com/p/2ecd8b4d61b1) |
-| Mon, 15 Sep 2025 10:54:11 GMT | TryHackMe: Squid Game — Attacker 1 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/bd080fd3ebb3) |
-| Mon, 15 Sep 2025 10:51:43 GMT | ☸️ Kubernetes Security Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/0ba4aca089f3) |
-| Mon, 15 Sep 2025 10:46:58 GMT | When Trends Turn Treacherous | Functioning Media University | [Read More](https://medium.com/p/c322d55a490e) |
-| Mon, 15 Sep 2025 10:41:40 GMT | Perpetual Inflation Won’t Save Your Blockchain | Christopher Bendiksen | [Read More](https://medium.com/p/b281705d50c8) |
-| Mon, 15 Sep 2025 10:38:19 GMT | Your First Client is a Gold Mine: How to Land Freelance Cybersecurity Work | Samina Perveen | [Read More](https://medium.com/p/3f7130ea9851) |
-| Mon, 15 Sep 2025 10:37:04 GMT | Multi-Layered Cybersecurity: From Remediation Services to Advanced XDR Solutions | Vijilan | [Read More](https://medium.com/p/f1a149ed0e4a) |
-| Mon, 15 Sep 2025 10:33:04 GMT | How VAPT Strengthens Cloud Network Security: Best Practices and Risks | West Advanced Technologies Inc | [Read More](https://medium.com/p/ed81e2c1cd9f) |
-| Mon, 15 Sep 2025 10:31:44 GMT | AI vs AI: The Security Arms Race Defining Mobile in 2025 | Abhii Dabas | [Read More](https://medium.com/p/90bfffeedfb2) |
-| Mon, 15 Sep 2025 10:29:17 GMT | Invite Only - TryHackMe | Sh3llsh0ck | [Read More](https://medium.com/p/d6dcb5d12617) |
-| Mon, 15 Sep 2025 10:22:19 GMT | ¿Y si la IA ya sabe engañar mejor que un humano? | Cyber-G | [Read More](https://medium.com/p/eaa79be6ed37) |
-| Mon, 15 Sep 2025 10:22:01 GMT | Commercial Fixed Gas Detector Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/873c8b2f4000) |
-| Mon, 15 Sep 2025 10:19:19 GMT | Hidden PHP Session Settings That Kill Stealth Leaks | Asian Digital Hub | [Read More](https://medium.com/p/25bec51051fb) |
-| Mon, 15 Sep 2025 10:17:53 GMT | Stop Treating Session Security Like an Afterthought in PHP | Asian Digital Hub | [Read More](https://medium.com/p/042da92ca29c) |
-| Mon, 15 Sep 2025 10:15:32 GMT | How AI Will Eliminate Human Error in Physical Security Architecture | Crystal Security | [Read More](https://medium.com/p/7dbff84d724f) |
-| Mon, 15 Sep 2025 10:14:50 GMT | Best IT Infrastructure Management Services In India - Optimize Your IT Operations | Gowthammathiew | [Read More](https://medium.com/p/1bb799a4da9a) |
-| Mon, 15 Sep 2025 10:13:19 GMT | What SMEs Need to Know About Ransomware in 2025 | Gaudell | [Read More](https://medium.com/p/07f4eb0981de) |
-| Mon, 15 Sep 2025 10:09:42 GMT | The State of Web Application Development in 2025 | Titanmecorp | [Read More](https://medium.com/p/464182dfa2d4) |
-| Mon, 15 Sep 2025 10:07:58 GMT | Secret ChatGPT Prompts That 10x My Bug Bounty Success Rate ⚡ | Qasim Mahmood Khalid | [Read More](https://medium.com/p/44b10dd0e662) |
