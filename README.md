@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 14:29:34 GMT | Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single… | Chirag Vyas | [Read More](https://medium.com/p/cace8aba35c2) |
+| Mon, 15 Sep 2025 14:22:21 GMT | The Streaming Revolution: Unpacking the Over The Top (OTT) Services Market Size, Share & Industry… | techmarketinsights | [Read More](https://medium.com/p/604ca0e96799) |
+| Mon, 15 Sep 2025 14:20:05 GMT | Go 1.25.1 Dropped — The Patch Every Dev Must Install Now | Concurrent Mind | [Read More](https://medium.com/p/1722461d990d) |
+| Mon, 15 Sep 2025 14:19:49 GMT | 07CTF Write-up: The Legend of the No Ordinary Mountain | Nikhil Chaudhari | [Read More](https://medium.com/p/a0b6984a732d) |
+| Mon, 15 Sep 2025 14:17:33 GMT | LIBRARY-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/59fe781d5397) |
 | Mon, 15 Sep 2025 14:13:42 GMT | “I Got In!” Now What? Real Talk About Next Steps | SilentInject | [Read More](https://medium.com/p/e9628500ed1b) |
 | Mon, 15 Sep 2025 14:11:43 GMT | How to Install a Keyless Door Lock: Easy Installation Tips for a Secure Home | Sure Lock & Key LLC | [Read More](https://medium.com/p/a1407df06b53) |
 | Mon, 15 Sep 2025 14:11:43 GMT | Our ‘Temporary Hack’ Scaled Better Than Our Official Architecture | Byte Me Daily | [Read More](https://medium.com/p/832bbbe08d83) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 10:13:19 GMT | What SMEs Need to Know About Ransomware in 2025 | Gaudell | [Read More](https://medium.com/p/07f4eb0981de) |
 | Mon, 15 Sep 2025 10:09:42 GMT | The State of Web Application Development in 2025 | Titanmecorp | [Read More](https://medium.com/p/464182dfa2d4) |
 | Mon, 15 Sep 2025 10:07:58 GMT | Secret ChatGPT Prompts That 10x My Bug Bounty Success Rate ⚡ | Qasim Mahmood Khalid | [Read More](https://medium.com/p/44b10dd0e662) |
-| Mon, 15 Sep 2025 10:06:55 GMT | AI Fraud Detection: Safeguarding Your Bank Account in Real Time | R A N A   A H M A D | [Read More](https://medium.com/p/6385a0b4b2cb) |
-| Mon, 15 Sep 2025 10:06:52 GMT | Cyber Security Institute in India for a Future-ready Career | Rextonitsolutions | [Read More](https://medium.com/p/51515dec772c) |
-| Mon, 15 Sep 2025 10:06:09 GMT | Netcracker - Telecom Security Visionaries and Key Customers Join Netcracker to Discuss… | Netcracker Marketing | [Read More](https://medium.com/p/337467b2dd09) |
-| Mon, 15 Sep 2025 10:02:45 GMT | The Genius of the Heart | Evelyn Foreman | [Read More](https://medium.com/p/c67d01639db6) |
-| Mon, 15 Sep 2025 09:58:03 GMT | Advanced Security Scanning: How Protect AI Platform and Semgrep Code Deliver AI-Enhanced Defence… | Iliya Garakh | [Read More](https://medium.com/p/e7639a1e8b2e) |
