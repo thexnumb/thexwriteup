@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 10:19:19 GMT | Hidden PHP Session Settings That Kill Stealth Leaks | Asian Digital Hub | [Read More](https://medium.com/p/25bec51051fb) |
+| Mon, 15 Sep 2025 10:17:53 GMT | Stop Treating Session Security Like an Afterthought in PHP | Asian Digital Hub | [Read More](https://medium.com/p/042da92ca29c) |
+| Mon, 15 Sep 2025 10:14:50 GMT | Best IT Infrastructure Management Services In India - Optimize Your IT Operations | Gowthammathiew | [Read More](https://medium.com/p/1bb799a4da9a) |
+| Mon, 15 Sep 2025 10:13:19 GMT | What SMEs Need to Know About Ransomware in 2025 | Gaudell | [Read More](https://medium.com/p/07f4eb0981de) |
+| Mon, 15 Sep 2025 10:09:42 GMT | The State of Web Application Development in 2025 | Titanmecorp | [Read More](https://medium.com/p/464182dfa2d4) |
+| Mon, 15 Sep 2025 10:07:58 GMT | Secret ChatGPT Prompts That 10x My Bug Bounty Success Rate ⚡ | Qasim Mahmood Khalid | [Read More](https://medium.com/p/44b10dd0e662) |
+| Mon, 15 Sep 2025 10:06:55 GMT | AI Fraud Detection: Safeguarding Your Bank Account in Real Time | R A N A   A H M A D | [Read More](https://medium.com/p/6385a0b4b2cb) |
+| Mon, 15 Sep 2025 10:06:52 GMT | Cyber Security Institute in India for a Future-ready Career | Rextonitsolutions | [Read More](https://medium.com/p/51515dec772c) |
+| Mon, 15 Sep 2025 10:06:09 GMT | Netcracker - Telecom Security Visionaries and Key Customers Join Netcracker to Discuss… | Netcracker Marketing | [Read More](https://medium.com/p/337467b2dd09) |
+| Mon, 15 Sep 2025 10:02:45 GMT | The Genius of the Heart | Evelyn Foreman | [Read More](https://medium.com/p/c67d01639db6) |
+| Mon, 15 Sep 2025 09:58:03 GMT | Advanced Security Scanning: How Protect AI Platform and Semgrep Code Deliver AI-Enhanced Defence… | Iliya Garakh | [Read More](https://medium.com/p/e7639a1e8b2e) |
+| Mon, 15 Sep 2025 09:57:41 GMT | From SOPs to AI agents: The evolution of risk decision-making | SIRV - AI to help manage threats and disruption | [Read More](https://medium.com/p/76c903e85a74) |
+| Mon, 15 Sep 2025 09:56:58 GMT | The Future of Service Delivery: How Self-Service Kiosk Machines Are Transforming Industries | Rakesh | [Read More](https://medium.com/p/02b85533b955) |
+| Mon, 15 Sep 2025 09:56:01 GMT | Next-Generation Software Delivery: Mastering Harness AI-Native, Modal Serverless Compute, and… | Iliya Garakh | [Read More](https://medium.com/p/44004cd1b9b0) |
+| Mon, 15 Sep 2025 09:55:53 GMT | The One-Page Security Checklist for Small Teams | Evgeny Ermakov | [Read More](https://medium.com/p/03e16c5c04ee) |
+| Mon, 15 Sep 2025 09:54:47 GMT | Kubernetes and DevOps AI Assistants: Seamless Container Migration, Conversational Automation, and… | Iliya Garakh | [Read More](https://medium.com/p/b8210e500e65) |
+| Mon, 15 Sep 2025 09:53:32 GMT | AI DevOps Revolution: How Spacelift Saturnhead AI, LambdaTest KaneAI, and SRE.ai | Iliya Garakh | [Read More](https://medium.com/p/774e6f465ddf) |
+| Mon, 15 Sep 2025 09:49:05 GMT | Risk Management Hacks: Simple Moves to Protect Your Business Fast | SecureSlate | [Read More](https://medium.com/p/76b51cbd2a89) |
+| Mon, 15 Sep 2025 09:43:24 GMT | Why Hackers Are Targeting the World’s Shipping Industry | Mr Orion | [Read More](https://medium.com/p/b03001ec2db2) |
 | Mon, 15 Sep 2025 09:39:28 GMT | Top 10 Tech Jobs Employers Can’t Stop Searching For in 2025 | Intellitron Genesis | [Read More](https://medium.com/p/36c411f11b61) |
 | Mon, 15 Sep 2025 09:38:47 GMT | Untold Mind | nisavian | [Read More](https://medium.com/p/493c307ec0af) |
 | Mon, 15 Sep 2025 09:35:32 GMT | Enkapsulasi dan Modifier | Hammam Al Rosyid Mudhoffar | [Read More](https://medium.com/p/5c449e4d5521) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Sep 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6b42801cbe11) |
 | Mon, 15 Sep 2025 05:58:36 GMT | IAM, MFA, and SSO: The Triple Shield Your Digital Security Needs | John | [Read More](https://medium.com/p/80b68a93f73e) |
 | Mon, 15 Sep 2025 05:57:48 GMT | How AI Will Shape the Future of Hospitals in the Next Decade | Zuraiz Khan | [Read More](https://medium.com/p/af7a34edb376) |
-| Mon, 15 Sep 2025 05:56:48 GMT | The Trade-Off Between Convenience and Data Security: Why Privacy can Sometimes Come at a Cost | FrostByte | [Read More](https://medium.com/p/f7946a791fb6) |
-| Mon, 15 Sep 2025 05:53:35 GMT | Google’s VaultGemma Proves Privacy Doesn’t Mean Compromise, Rewrites the Rules for Secure Language… | Cogni Down Under | [Read More](https://medium.com/p/54423786b9be) |
-| Mon, 15 Sep 2025 05:53:11 GMT | Why App Store Reviews Can’t Always Save You from Malware | Abida Adra | [Read More](https://medium.com/p/fb0a85904fb7) |
-| Mon, 15 Sep 2025 05:45:30 GMT | Ransomware, Malware, and Intrusions: A Step-by-Step Analysis Methodology | Dean | [Read More](https://medium.com/p/d785bf409f14) |
-| Mon, 15 Sep 2025 05:40:15 GMT | Certified Ethical Hacker Course — Everything You Need to Know in 2025 | Nitin Singh | [Read More](https://medium.com/p/5972b9e6b214) |
-| Mon, 15 Sep 2025 05:29:10 GMT | The Linux Starter Pack: Everything You Need to Begin | Tanvi Chauhan | [Read More](https://medium.com/p/6d2a10b5c7c6) |
-| Mon, 15 Sep 2025 05:26:04 GMT | IT Support Services in Education Industries: Driving Digital Learning Success | POONAM KASAT | [Read More](https://medium.com/p/858bb71f2837) |
-| Mon, 15 Sep 2025 05:25:33 GMT | Why Every Business Needs Endpoint Security That Goes Beyond Antivirus | Kachi Akoma | [Read More](https://medium.com/p/df8cf845649c) |
-| Mon, 15 Sep 2025 05:14:34 GMT | Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File | Bassemwanies | [Read More](https://medium.com/p/51656593bbb9) |
-| Mon, 15 Sep 2025 05:14:24 GMT | Bug Bounty: Finding the testing focus by filtering for the amount of URL paths | smilemil | [Read More](https://medium.com/p/46eb7d65f8f0) |
-| Mon, 15 Sep 2025 05:08:18 GMT | 15. Bug Bounty Mindset: How to Think Like a Hacker | Abhijeet kumawat | [Read More](https://medium.com/p/9d3e413be5ab) |
-| Mon, 15 Sep 2025 05:07:05 GMT | top application security risks startups overlook and how to fix them | Techugo46 | [Read More](https://medium.com/p/219c0d52ca32) |
-| Mon, 15 Sep 2025 05:04:25 GMT | Deepfake Scams Are Getting Smarter: Can You Trust Your Eyes and Ears Anymore? | IamPreth | [Read More](https://medium.com/p/8c7fced43e4a) |
-| Mon, 15 Sep 2025 04:53:04 GMT | Your AI Agent Is an Open Door for Attackers | Mohit Soni | [Read More](https://medium.com/p/df2307d77910) |
-| Mon, 15 Sep 2025 04:47:41 GMT | TO BECOME A SOC EXPERT(DAY-3) | vulnhunter | [Read More](https://medium.com/p/9b19398926e0) |
-| Mon, 15 Sep 2025 04:42:34 GMT | Java Security Best Practices For Developers | Brilworks Software | [Read More](https://medium.com/p/51cca700200d) |
-| Mon, 15 Sep 2025 04:41:19 GMT | Reflections of Doom: How a Tiny DOM XSS Turned Into Complete Account Takeover | Iski | [Read More](https://medium.com/p/2318f116f257) |
-| Mon, 15 Sep 2025 04:31:31 GMT | Beginner’s Guide: API Pentesting with Postman + Burp | Blue_eye | [Read More](https://medium.com/p/fc2417b0c50a) |
-| Mon, 15 Sep 2025 04:16:45 GMT | You Searched for a Dev Tool. Google Served You Malware. | Aj | [Read More](https://medium.com/p/c2e3da8cd421) |
