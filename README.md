@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 01:34:56 GMT | ️ Secure Your Flutter App Like a Pro (Without Falling Asleep) | Cloderaldo Morales Pampanga III | [Read More](https://medium.com/p/4421559329e0) |
+| Mon, 15 Sep 2025 01:31:44 GMT | 5 Signs It’s Time to Upgrade Your Legacy System | Wistkey | [Read More](https://medium.com/p/e033c02091e2) |
+| Mon, 15 Sep 2025 01:25:14 GMT | Client vs Server-Side Encryption: The Real Meaning of End-to-End Security | Samuel Owolabi | [Read More](https://medium.com/p/19b2f5158dbd) |
+| Mon, 15 Sep 2025 01:20:06 GMT | Network Protocols You Must Know for Cybersecurity | Shahzaib | [Read More](https://medium.com/p/d3b2542b6e3c) |
+| Mon, 15 Sep 2025 01:11:42 GMT | TryHackMe #15 - Linux Fundamentals Part 3 | 0xGroot | [Read More](https://medium.com/p/3558545fdfb5) |
+| Mon, 15 Sep 2025 01:07:53 GMT | HackTheBox - Pilgrimage | jniket | [Read More](https://medium.com/p/ae6533d425d5) |
+| Mon, 15 Sep 2025 01:07:43 GMT | TryHackMe #14 - Linux Fundamentals Part 2 | 0xGroot | [Read More](https://medium.com/p/7bf9affa92f2) |
+| Mon, 15 Sep 2025 01:05:21 GMT | The Essentials of Digital Forensics: Investigating a Cyberattack | Samina Perveen | [Read More](https://medium.com/p/13f000dcc639) |
+| Mon, 15 Sep 2025 01:05:11 GMT | PyPI Users Beware! | Faisal haque | [Read More](https://medium.com/p/c03c20db9509) |
+| Mon, 15 Sep 2025 01:02:01 GMT | TryHackMe #13 - Linux Fundamentals Part 1 | 0xGroot | [Read More](https://medium.com/p/44c9b33e4fb3) |
+| Mon, 15 Sep 2025 00:58:28 GMT | Python Decorators Explained: From Basics to Advanced Use Cases | Rizqi Mulki | [Read More](https://medium.com/p/f30e944562c9) |
+| Mon, 15 Sep 2025 00:49:44 GMT | COMING OF AGE WITH IT | Joseph "Aud" Drawns | [Read More](https://medium.com/p/2740104d00e3) |
+| Mon, 15 Sep 2025 00:45:18 GMT | Wavlink WN530GA Command Injection, Firewall Page | ice-wzl | [Read More](https://medium.com/p/90865803cfd6) |
+| Mon, 15 Sep 2025 00:29:01 GMT | The Interrelationship of Science, Technology, and Society | muhammad ardiansah | [Read More](https://medium.com/p/b20327dc019f) |
+| Mon, 15 Sep 2025 00:21:14 GMT | Pentathon-Chaat/07CTF-Chatroom Writeup | Bhavya Gupta | [Read More](https://medium.com/p/1c8bcf562a1d) |
+| Mon, 15 Sep 2025 00:04:50 GMT | The Hacker’s Mind: What I Learned from Psychology (and How It Helps Me Hack — and Defend) | Wsuits6 | [Read More](https://medium.com/p/7da301f75390) |
+| Sun, 14 Sep 2025 23:59:00 GMT | The Scientific Search for Extraterrestrial Life: Are We Alone? | muhammad ardiansah | [Read More](https://medium.com/p/0b2d93d35254) |
 | Sun, 14 Sep 2025 23:25:42 GMT | Top 11 cyber stories (Week: Sept 8–7, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/0b5a6416bcb0) |
 | Sun, 14 Sep 2025 22:59:17 GMT | 1Password vs Bitwarden in 2025: Which Password Manager Should You Trust? | BiyteLüm | [Read More](https://medium.com/p/ef2e1efeeaa2) |
 | Sun, 14 Sep 2025 22:56:18 GMT | 4 Startup Websites That Will Get You a Feature in TechCrunch | Alpha Design Global | [Read More](https://medium.com/p/b23ad030e1fa) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 17:27:18 GMT | Week 9— Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/dea9932c4a0f) |
 | Sun, 14 Sep 2025 17:23:19 GMT | Hacker101- H1 Thermostat-CTF | nightbird | [Read More](https://medium.com/p/f1060fcc1a86) |
 | Sun, 14 Sep 2025 17:22:27 GMT | Every bugfix should be a refactor | Juro Uhlar | [Read More](https://medium.com/p/7e667fceeb6d) |
-| Sun, 14 Sep 2025 17:15:01 GMT | Life After Graduation: The Unspoken Struggle of a “No Experience” BSIT Graduate | Zilli | [Read More](https://medium.com/p/b01111c4febd) |
-| Sun, 14 Sep 2025 17:01:46 GMT | Advanced Node.js Series (Part 5): Securing Your Node.js Applications | habtesoft | [Read More](https://medium.com/p/fe30a2208bb9) |
-| Sun, 14 Sep 2025 17:01:46 GMT | How I Recovered From a Data Breach — Step by Humbling Step | Cyberkech | [Read More](https://medium.com/p/f39c476b8be9) |
-| Sun, 14 Sep 2025 17:01:46 GMT | LetsDefend — Disclose The Agent Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/f86b4905891a) |
-| Sun, 14 Sep 2025 16:57:04 GMT | Chrome Remote Code Execution Vulnerability: A Call for Immediate Action | Chetan Seripally | [Read More](https://medium.com/p/e74b8b707b6c) |
-| Sun, 14 Sep 2025 16:55:50 GMT | OWASP Top Ten 2025: A Complete Guide for Web Application Security | Jyoti Joshi | [Read More](https://medium.com/p/90c937c41a29) |
-| Sun, 14 Sep 2025 16:53:10 GMT | How to Refine Your Web Application Testing Methodology for Effective Attacks | Sam Hilliard | [Read More](https://medium.com/p/06c4c5afdc1c) |
-| Sun, 14 Sep 2025 16:49:06 GMT | How a 10-Minute Phone Call Brought Down MGM: The $100 Million Lesson in Workplace Security | Maxime Siffert | [Read More](https://medium.com/p/072c39603f69) |
-| Sun, 14 Sep 2025 16:48:06 GMT | Reverse Engineering solution to thed0ublec’s CrazyCrackMe | Nathan C | [Read More](https://medium.com/p/0ff5817ebd83) |
-| Sun, 14 Sep 2025 16:46:11 GMT | The Mcfaddens | GOSSIP BY COMING UP 4 AIR | [Read More](https://medium.com/p/7e9e35f4d863) |
-| Sun, 14 Sep 2025 16:34:07 GMT | Your Car Needs a Cyber Certification — Not Just CrashTest Star Rating | Amrik  Hanjra | [Read More](https://medium.com/p/e39ce9fdf6f6) |
-| Sun, 14 Sep 2025 16:31:54 GMT | Kerberos Server Setup on Ubuntu | Jobin J | [Read More](https://medium.com/p/55b4251003ee) |
-| Sun, 14 Sep 2025 16:31:43 GMT | Data Drift Is Inevitable How to Detect and Respond Effectively | Niamh O'Shea | [Read More](https://medium.com/p/2021f1088180) |
-| Sun, 14 Sep 2025 16:28:49 GMT | Building a Next-Generation SIEM Architecture | Helmiriahi | [Read More](https://medium.com/p/6a42c44a0dc2) |
-| Sun, 14 Sep 2025 16:19:00 GMT | TryHackMe Writeup: UltraTech | Berkay AĞGÜL | [Read More](https://medium.com/p/0202be6f5e78) |
-| Sun, 14 Sep 2025 16:18:28 GMT | Connectors CTF All web challenges | Karim Mohamed | [Read More](https://medium.com/p/921beb9dc16e) |
-| Sun, 14 Sep 2025 16:08:23 GMT | Checkpoints on the Web: Understanding Web Application Firewalls (WAFs) | Natarajan C K | [Read More](https://medium.com/p/7de96cd8b789) |
