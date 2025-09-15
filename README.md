@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 12:37:19 GMT | Every Hacker Has a Story—This Is Mine | Shahzaib | [Read More](https://medium.com/p/240bd13c6a73) |
+| Mon, 15 Sep 2025 12:33:49 GMT | HexStrike: Yapay Zeka Destekli Otomatik Red-Teaming ve Zafiyet Keşfi | asliulusoy | [Read More](https://medium.com/p/f5cc26581b1e) |
+| Mon, 15 Sep 2025 12:31:26 GMT | The Hacker’s Mindset — No Butter, Just Strategy | GABBYTECH | [Read More](https://medium.com/p/dadd5e0b831c) |
+| Mon, 15 Sep 2025 12:26:05 GMT | ISO 9001 or ISO 27001? How to Choose the Right Standard for Your Business | Hicomply | [Read More](https://medium.com/p/8795e5ffa013) |
+| Mon, 15 Sep 2025 12:20:25 GMT | Best Institute for Penetration Testing Course in Singapore | Craw Cyber Security | [Read More](https://medium.com/p/556ac63c02cb) |
+| Mon, 15 Sep 2025 12:19:33 GMT | Spookifier - HTB Walkthrough | Simi | [Read More](https://medium.com/p/4814d18ef53f) |
+| Mon, 15 Sep 2025 12:15:23 GMT | Implementing Zero Trust Security in Dubai’s Smart City Infrastructure: A Cybersecurity Roadmap for… | Anupamatiwarii | [Read More](https://medium.com/p/94fb1a7c45c3) |
+| Mon, 15 Sep 2025 12:11:38 GMT | Enterprise Multi-Site Network Lab with VLAN Segmentation, Inter-VLAN Routing, OSPF Dynamic Routing… | Aribo Ifeoluwa | [Read More](https://medium.com/p/6f46078faaba) |
+| Mon, 15 Sep 2025 11:58:45 GMT | In Praise of Resilience: Why We Invested in Hopper Security | Liron Azrielant | [Read More](https://medium.com/p/bcd940d8c2a1) |
+| Mon, 15 Sep 2025 11:56:49 GMT | The Juris Agency Journals | Trev Reacts | [Read More](https://medium.com/p/93d4b1613fc5) |
+| Mon, 15 Sep 2025 11:56:08 GMT | HTB Academy: Attacking common applications: Content Management Systems (CMS) — Joomla | Babatunde Ojo | [Read More](https://medium.com/p/3cfc49dbb21e) |
+| Mon, 15 Sep 2025 11:49:24 GMT | AI Powered Villager Pen Testing Tool Raises Concerns After 11,000 PyPI Downloads | Jasmitharouthu | [Read More](https://medium.com/p/b0d9a5fe0d4d) |
+| Mon, 15 Sep 2025 11:46:17 GMT | HTB Planning Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/b0a1393b93ac) |
+| Mon, 15 Sep 2025 11:42:03 GMT | How I Passed the OSCP+ on My First Attempt as an AppSec Engineer | Vahagn Israelian | [Read More](https://medium.com/p/c448ac15170f) |
+| Mon, 15 Sep 2025 11:39:34 GMT | BurpSuite vs Caido: Rethinking Proxy Tools for Bug Hunters | Ehtesham Ul Haq | [Read More](https://medium.com/p/52d1a7ac832c) |
+| Mon, 15 Sep 2025 11:38:25 GMT | How Will AI in Cybersecurity Market Transform Threat Detection by 2033? | Samuel Cooper | [Read More](https://medium.com/p/50818740f5d3) |
+| Mon, 15 Sep 2025 11:35:01 GMT | Crypto Crime in 2025: From Police Badge to Crypto Heist — Why Privacy and Protection Are Essential | Ventus Partners | [Read More](https://medium.com/p/b489029f9ed0) |
 | Mon, 15 Sep 2025 11:33:48 GMT | Privacy Implications and Mitigation Strategies in Transformer-Based Architectures | Omar Ali | [Read More](https://medium.com/p/68f1f4066311) |
+| Mon, 15 Sep 2025 11:32:52 GMT | The Lost Glitches: A Cyberpunk TCG Where Real Hacking Culture Bleeds Into the Cards | Motoko Iwakura | [Read More](https://medium.com/p/74e2e032077e) |
 | Mon, 15 Sep 2025 11:30:07 GMT | APK Scams on the Rise: Why Every Indian Smartphone User is at Risk | Taiyab Lokhandwala | [Read More](https://medium.com/p/25a321f7584d) |
 | Mon, 15 Sep 2025 11:27:57 GMT | 10 Things You Should Never Tell Artificial Intelligence (AI) | Ilyassbourich | [Read More](https://medium.com/p/e74a0aa33101) |
 | Mon, 15 Sep 2025 11:25:08 GMT | Future-Proof Your Smart Home: A Simple Guide to Cat6 Wiring & High-Capacity Streaming | digital immersive | [Read More](https://medium.com/p/6a69ccc838ad) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 07:46:25 GMT | Case Study: How Cyber Security Saved a Dubai Business from a Major Breach | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/0b88498bd190) |
 | Mon, 15 Sep 2025 07:46:24 GMT | Quickly Integrate SafeLine WAF with Apache APISIX: A Step-by-Step Guide | AerieWhole123 | [Read More](https://medium.com/p/a0e4171dd1a9) |
 | Mon, 15 Sep 2025 07:39:42 GMT | Advanced MDM Software Guide: Deep Dive into Features | Vantage MDM | [Read More](https://medium.com/p/e1447ee10b98) |
-| Mon, 15 Sep 2025 07:38:26 GMT | ประจำวันจันทร์ที่ 15 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/9b39d0d16355) |
-| Mon, 15 Sep 2025 07:37:51 GMT | What is Ethical Hacking?: A Beginner’s Guide to Penetration Testing | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/ab6dfa977205) |
-| Mon, 15 Sep 2025 07:34:55 GMT | Where is Python Programming mainly used for? | cyber security Updates | [Read More](https://medium.com/p/0baaf114ab83) |
-| Mon, 15 Sep 2025 07:31:43 GMT | AI-Powered Cybersecurity | Riya Sharma | [Read More](https://medium.com/p/1503ed6b38d8) |
-| Mon, 15 Sep 2025 07:31:25 GMT | What Is Outsourced Product Development and Why Does It Matter Today | Cannyfore Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/9b4b235f54e7) |
-| Mon, 15 Sep 2025 07:29:46 GMT | The Best Law Firms for Privacy & Data Security in the U.S. | Hansen Tong | [Read More](https://medium.com/p/b371eba5cc10) |
-| Mon, 15 Sep 2025 07:28:10 GMT | How I Lost €400,000 to a “Legit” Crypto Platform, and What I Learned | Marco Filmworks | [Read More](https://medium.com/p/7b8e58343ec8) |
-| Mon, 15 Sep 2025 07:27:50 GMT | Cybersecurity Innovations: How New Technologies Are Redefining Digital Safety for the World | Securis360 Inc. | [Read More](https://medium.com/p/abb3f33b23ed) |
-| Mon, 15 Sep 2025 07:22:03 GMT | Fun Malware Analysis | Mina Ghaly | [Read More](https://medium.com/p/4034cdc26e8e) |
-| Mon, 15 Sep 2025 07:17:23 GMT | The US-UK Digital Alliance: A New Era for Cybersecurity and AI Stocks | The Thematic Investor | [Read More](https://medium.com/p/14e4a1fa17b9) |
-| Mon, 15 Sep 2025 07:09:27 GMT | Top 5 SSL issues to understand (and avoid) | Smit Pipaliya | [Read More](https://medium.com/p/30a47d351607) |
-| Mon, 15 Sep 2025 07:08:42 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a2e7fbcba072) |
-| Mon, 15 Sep 2025 07:06:43 GMT | Palo Alto Networks PA-560: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5438b218afd9) |
-| Mon, 15 Sep 2025 07:04:16 GMT | How I Solved picoCTF “logon” — SQLi + Cookie Tampering Walkthrough | Deepika  B | [Read More](https://medium.com/p/d4c64fa1dd7e) |
-| Mon, 15 Sep 2025 07:03:48 GMT | The Journey Begins: 14 Days of Bug Bounty Learning | LIKITH GAJULA | [Read More](https://medium.com/p/e30c23a51d3d) |
-| Mon, 15 Sep 2025 07:01:44 GMT | Found Your Domain in Leaks Today? A 24-Hour Response Playbook | Alexandre Vandamme | [Read More](https://medium.com/p/3a397467edf7) |
-| Mon, 15 Sep 2025 06:57:44 GMT | VMWARE WORKSPACE SEC VDI AUDIT WITH HORIZON SUBSCRIPTION CORE | Sonicomp | [Read More](https://medium.com/p/11112611bcb7) |
-| Mon, 15 Sep 2025 06:54:35 GMT | Introducing ARMchain Beta: Entering the Quantum-Secure Future | Bahloul.arm | [Read More](https://medium.com/p/65ebd6aa4359) |
