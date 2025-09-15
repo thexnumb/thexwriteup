@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 13:27:37 GMT | Cyber Security Training & Placement — Swhizz Technologies | Swhizztechnlogies | [Read More](https://medium.com/p/56fb473894d1) |
+| Mon, 15 Sep 2025 13:25:21 GMT | Corporate Greed Chronicles: ConocoPhillips’ Altar of Greed Sacrifices Workers | Namir Sagheenanajar | [Read More](https://medium.com/p/4c61ecf0c043) |
+| Mon, 15 Sep 2025 13:24:09 GMT | Looking for secure options to move over $6,000 in USDT from OKX wallet — what do you suggest? | Joelle luxer | [Read More](https://medium.com/p/8cf8c652e7fa) |
+| Mon, 15 Sep 2025 13:20:19 GMT | The Salesforce Supply Chain Breach: When One Weak Link Shatters Global Trust | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ecc1b633e1d7) |
+| Mon, 15 Sep 2025 13:18:03 GMT | How Scammers Drain Bank Accounts | Internet Exposed | [Read More](https://medium.com/p/92d3f2d78b40) |
+| Mon, 15 Sep 2025 13:13:07 GMT | SOC Roles In Blue Team Explained: L1, L2 Analyst - TryHackMe | Visir | [Read More](https://medium.com/p/f28d62cb89e2) |
+| Mon, 15 Sep 2025 13:12:58 GMT | P.O.O — Part 3: BackTrack | XOR-Hacks | [Read More](https://medium.com/p/f7c3e65eb51c) |
+| Mon, 15 Sep 2025 13:08:54 GMT | ️ App Development Roadmap 2025 — What are the 4 proven ways to turn your idea into a… | Smira | [Read More](https://medium.com/p/4d2be515a63a) |
+| Mon, 15 Sep 2025 13:07:29 GMT | No, AI Won’t Steal Your Credit Card Number — But the Company Behind It Stores Everything You Say | Nicholas Borg | [Read More](https://medium.com/p/f6acf51b04ec) |
+| Mon, 15 Sep 2025 13:05:16 GMT | How the Human Element Impacts Cybersecurity Effectiveness | Renaissance Computer Services Limited | [Read More](https://medium.com/p/0d63893b42a7) |
+| Mon, 15 Sep 2025 13:01:56 GMT | How I Found My First Critical Security Flaw in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/cf597b1e42fb) |
+| Mon, 15 Sep 2025 13:01:00 GMT | My thoughts on free SOC training (and how I’m gearing up for Singtel’s MSSP SOC) | Rohit | [Read More](https://medium.com/p/ab8e61a28cd1) |
+| Mon, 15 Sep 2025 12:59:11 GMT | Introduction to Cybersecurity — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/f1739a34dd65) |
+| Mon, 15 Sep 2025 12:53:44 GMT | The Future of Cybersecurity Jobs: Top Skills You’ll Need to Thrive in 2030 | vydhi | [Read More](https://medium.com/p/48dcc9f59642) |
+| Mon, 15 Sep 2025 12:52:08 GMT | Why I Don’t Trust Default Firewall Rules on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/307be2417f9c) |
+| Mon, 15 Sep 2025 12:51:51 GMT | How to Protect Yourself From Clipboard Hijacking | BELDEX | [Read More](https://medium.com/p/4aaf9e7de48f) |
+| Mon, 15 Sep 2025 12:44:34 GMT | Intro Rey | Biellreyluchaa | [Read More](https://medium.com/p/b022fc9b0fb5) |
+| Mon, 15 Sep 2025 12:43:19 GMT | Why ServiceNow integration is critical for future-proofing your it operation | Alex s | [Read More](https://medium.com/p/077fc63245d0) |
+| Mon, 15 Sep 2025 12:38:19 GMT | What is Cryptojacking ? — Dude Earned 48,000$ with NOTHING? | Hack Storage | [Read More](https://medium.com/p/07cd05bb34f7) |
 | Mon, 15 Sep 2025 12:37:19 GMT | Every Hacker Has a Story—This Is Mine | Shahzaib | [Read More](https://medium.com/p/240bd13c6a73) |
 | Mon, 15 Sep 2025 12:33:49 GMT | HexStrike: Yapay Zeka Destekli Otomatik Red-Teaming ve Zafiyet Keşfi | asliulusoy | [Read More](https://medium.com/p/f5cc26581b1e) |
+| Mon, 15 Sep 2025 12:31:43 GMT | The Ache Beneath the Armor | Aaron Pace | [Read More](https://medium.com/p/83667cd8846d) |
 | Mon, 15 Sep 2025 12:31:26 GMT | The Hacker’s Mindset — No Butter, Just Strategy | GABBYTECH | [Read More](https://medium.com/p/dadd5e0b831c) |
 | Mon, 15 Sep 2025 12:26:05 GMT | ISO 9001 or ISO 27001? How to Choose the Right Standard for Your Business | Hicomply | [Read More](https://medium.com/p/8795e5ffa013) |
 | Mon, 15 Sep 2025 12:20:25 GMT | Best Institute for Penetration Testing Course in Singapore | Craw Cyber Security | [Read More](https://medium.com/p/556ac63c02cb) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 08:58:45 GMT | Rogue AI Explained: Risks, Real Examples, and What Businesses Can Do | Satyam Pathania | [Read More](https://medium.com/p/18843f4c9b82) |
 | Mon, 15 Sep 2025 08:58:41 GMT | DockerLabs Writeup — NodeClimb (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/10b9b9b23d30) |
 | Mon, 15 Sep 2025 08:56:42 GMT | A Complete Guide to the Latest ZoomEye Search Syntax | Inter3209 | [Read More](https://medium.com/p/b4513e716288) |
-| Mon, 15 Sep 2025 08:45:27 GMT | Challenges Faced by CCTV Professionals | Nestrondigitalhub | [Read More](https://medium.com/p/0c8e7a1afceb) |
-| Mon, 15 Sep 2025 08:40:38 GMT | Are CBDCs dead? Or not yet? | MR. CIP | [Read More](https://medium.com/p/0b06e9e66124) |
-| Mon, 15 Sep 2025 08:36:38 GMT | How to Stop Bots Effectively: SafeLine WAF’s Smart Rate Limiting | Quella | [Read More](https://medium.com/p/4e6183f9f253) |
-| Mon, 15 Sep 2025 08:32:20 GMT | SPARK Matrix™: Strategic Insights into eCommerce Fraud Prevention Technologies | Gargiben | [Read More](https://medium.com/p/5ce299efd48d) |
-| Mon, 15 Sep 2025 08:31:23 GMT | Digisol DG-GR1321 Password Policy Bypass Vulnerability (CVE-2024–2257)​ | Redfox Security | [Read More](https://medium.com/p/a969426b1a90) |
-| Mon, 15 Sep 2025 08:23:14 GMT | Lakshay Security: The Role of Professional Security Services in Modern Society | Lakshay Security | [Read More](https://medium.com/p/e9c552a97c76) |
-| Mon, 15 Sep 2025 08:14:07 GMT | The Defence Trilemma | Jeegar Kakkad | [Read More](https://medium.com/p/319821dcafa4) |
-| Mon, 15 Sep 2025 08:12:37 GMT | Cybersecurity Best Practices: How to Protect Your Business from Threats | SalesMark Global | [Read More](https://medium.com/p/d0c4c4e6afdf) |
-| Mon, 15 Sep 2025 08:09:14 GMT | Choosing the Right Cybersecurity Services Provider: A Complete Guide | Quadrant IT Services | [Read More](https://medium.com/p/743e8faec9b9) |
-| Mon, 15 Sep 2025 08:05:13 GMT | Skill Up and Study at RIC: Your Path to IT & Leadership Success | royalinternational | [Read More](https://medium.com/p/47f824f95619) |
-| Mon, 15 Sep 2025 08:03:08 GMT | How to Set Up a File Manager in WordPress [Step-by-Step] | Hamza Hanif | [Read More](https://medium.com/p/ce285ea38bfe) |
-| Mon, 15 Sep 2025 08:02:54 GMT | 5 Key Benefits of IT Management Platforms for Healthcare Providers | Yuvi Aggarwal | [Read More](https://medium.com/p/0008fd2a11ca) |
-| Mon, 15 Sep 2025 08:02:02 GMT | Why Smart Developers Create Their Own Commands (And How Subshells Save Your Bacon) | MayhemCode | [Read More](https://medium.com/p/c471a4f22e57) |
-| Mon, 15 Sep 2025 07:57:17 GMT | PostgreSQL Index Bloat: The Silent Killer of Performance | Rizqi Mulki | [Read More](https://medium.com/p/cc199470774f) |
-| Mon, 15 Sep 2025 07:55:58 GMT | How I Got Scammed by Abra.com — And Recovered My Funds with Roselanegp.com | Admin | [Read More](https://medium.com/p/4bc91b4ceb45) |
-| Mon, 15 Sep 2025 07:53:02 GMT | Cybersecurity Market Is Booming — The Future Is Unstoppable! | Sneha's Market Research | [Read More](https://medium.com/p/790e31d9245c) |
-| Mon, 15 Sep 2025 07:50:40 GMT | How to Cut PostgreSQL Costs by 60% with One Tuning Change | Rizqi Mulki | [Read More](https://medium.com/p/00f87bac5b2c) |
-| Mon, 15 Sep 2025 07:46:25 GMT | Case Study: How Cyber Security Saved a Dubai Business from a Major Breach | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/0b88498bd190) |
-| Mon, 15 Sep 2025 07:46:24 GMT | Quickly Integrate SafeLine WAF with Apache APISIX: A Step-by-Step Guide | AerieWhole123 | [Read More](https://medium.com/p/a0e4171dd1a9) |
-| Mon, 15 Sep 2025 07:39:42 GMT | Advanced MDM Software Guide: Deep Dive into Features | Vantage MDM | [Read More](https://medium.com/p/e1447ee10b98) |
