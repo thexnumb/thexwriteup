@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 23:09:57 GMT | 40 Days SOC Analyst Challenge | Zainab in Tech | [Read More](https://medium.com/p/dab1e558a0b6) |
+| Mon, 15 Sep 2025 23:09:39 GMT | Dr. Bryson Payne: Lifetime Cybersecurity Achievement Award | Tyler Wall | [Read More](https://medium.com/p/47387b529fa1) |
+| Mon, 15 Sep 2025 23:06:06 GMT | I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  (5 Bugs… | K4r33m | [Read More](https://medium.com/p/cfc87f105144) |
+| Mon, 15 Sep 2025 22:55:47 GMT | First Blood in Cyshield CTF (Helwan University ) —  OS Command Injection → flag (only solve ) | Zeyad Karim | [Read More](https://medium.com/p/73ba55b83df1) |
+| Mon, 15 Sep 2025 22:48:43 GMT | Alpine Linux + Docker on Proxmox: Lightweight DVWA Lab Setup for Web Security | Farhan Ahmed | [Read More](https://medium.com/p/a934c6bf73a0) |
+| Mon, 15 Sep 2025 22:47:37 GMT | Hack the Box — Forest — WriteUp | Emre A. | [Read More](https://medium.com/p/543b44c34bff) |
+| Mon, 15 Sep 2025 22:40:45 GMT | Generative AI Is Fueling the Next Big Scam Wave | Amanda Marangu | [Read More](https://medium.com/p/2595a6c5901b) |
+| Mon, 15 Sep 2025 22:40:06 GMT | Hackers Leverage Raw Disk Reads to Bypass EDR Solutions and Access Highly Sensitive Files | David SEHYEON Baek | [Read More](https://medium.com/p/7fa58190ef2f) |
+| Mon, 15 Sep 2025 22:35:30 GMT | The $8,000 Bootcamp DevOps Learning Trap and How to Escape It | Zudonu Osomudeya | [Read More](https://medium.com/p/13f0436473fe) |
 | Mon, 15 Sep 2025 22:17:13 GMT | I am new here! | Ispolin08 | [Read More](https://medium.com/p/c189ea702a5d) |
 | Mon, 15 Sep 2025 22:15:49 GMT | Proyecto Escuelas y Bitcoin recibe el apoyo de Paystand.org | ONG Bitcoin Argentina | [Read More](https://medium.com/p/b048e4b8417a) |
 | Mon, 15 Sep 2025 22:03:28 GMT | How DMARC Protects Against Phishing and Email Fraud | Keepnet Labs | [Read More](https://medium.com/p/35569b60155d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 16:49:27 GMT | HTB Sherlock:Pikaptcha | Serkan | [Read More](https://medium.com/p/fe30cc806ef2) |
 | Mon, 15 Sep 2025 16:44:59 GMT | Make CYBERSECURITY your ADDITION | ZEOS | [Read More](https://medium.com/p/bce958b55329) |
 | Mon, 15 Sep 2025 16:43:28 GMT | Cybersecurity in Pediatrics in 2025 | Gianluca Mondillo | [Read More](https://medium.com/p/727c14e1454c) |
-| Mon, 15 Sep 2025 16:41:30 GMT | Cybersecurity is personal. Make it your business. | Katie Moscoso | [Read More](https://medium.com/p/53363dc04c71) |
-| Mon, 15 Sep 2025 16:39:47 GMT | Her Şey Injection — SQLi | Metin Ahmet Erkeleş | [Read More](https://medium.com/p/03519854162e) |
-| Mon, 15 Sep 2025 16:37:44 GMT | ISO 27000 vs. NIST CSF — Which Framework is Right for Your Cybersecurity? | Mike (sl0th0x87) | [Read More](https://medium.com/p/a2fc8a185724) |
-| Mon, 15 Sep 2025 16:36:34 GMT | Fixing the Git fatal: unable to access Error: SSL Certificate Problem (Self-Signed Certificate in… | Luca Berton | [Read More](https://medium.com/p/a5ad77cc78f7) |
-| Mon, 15 Sep 2025 16:31:37 GMT | Here’s what ISO 27001 Is — and Why You Should Care About Your Data Security | Josh Lee | [Read More](https://medium.com/p/2bc8fd59b1d0) |
-| Mon, 15 Sep 2025 16:30:01 GMT | Global EMC Filtration Market: Size, Share & Growth Trends (2025–2032) | smartitinsights | [Read More](https://medium.com/p/83f02ec34e77) |
-| Mon, 15 Sep 2025 16:24:27 GMT | Bypassing WAFs Like a Hacker‍♂️: Tricks Hackers Use | Vipul Sonule | [Read More](https://medium.com/p/be293c699af6) |
-| Mon, 15 Sep 2025 16:24:11 GMT | Best Treasury Management Systems for Banks: Features, Security, and Compliance | Kosh AI | [Read More](https://medium.com/p/973668b25e34) |
-| Mon, 15 Sep 2025 16:18:15 GMT | ✨ I’m pleased to share an exciting milestone. | Ray Islam, PhD | [Read More](https://medium.com/p/ee9c38c79553) |
