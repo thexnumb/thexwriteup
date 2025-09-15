@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 06:31:06 GMT | Advantages of Using Video Surveillance and Cameras in Construction Sites | sweetydahiyaa146 | [Read More](https://medium.com/p/e2bd95fb6c3f) |
+| Mon, 15 Sep 2025 06:25:42 GMT | Why Kubernetes Security Matters for Pentesters (and How I’m Preparing for CKS) | Anvar | [Read More](https://medium.com/p/a15b769dab2e) |
+| Mon, 15 Sep 2025 06:21:19 GMT | Leading Against the Odds: Our Journey to 4th Place at the Dubai Cyber Challenge | Anvar | [Read More](https://medium.com/p/c8e99d89b54e) |
+| Mon, 15 Sep 2025 06:17:40 GMT | Web Zafiyetleri Serisi #2 | Didem Kış | [Read More](https://medium.com/p/6d3d85d01489) |
+| Mon, 15 Sep 2025 06:10:32 GMT | Automating Microsoft Graph Deployments Using Azure DevOps | Brian Veldman | [Read More](https://medium.com/p/9c9939e32c28) |
+| Mon, 15 Sep 2025 06:07:21 GMT | Cracking JWTs: From None Algorithm to Key Confusion | Anvar | [Read More](https://medium.com/p/60fbf89dfcdd) |
+| Mon, 15 Sep 2025 06:06:29 GMT | Ensuring Security in Docker Containers: Essential Practices | @rnab | [Read More](https://medium.com/p/4c3332d73aef) |
+| Mon, 15 Sep 2025 06:04:36 GMT | Healthcheck in the Wild — How an Unauthenticated Endpoint Leaked Internal Server Details | Bassemwanies | [Read More](https://medium.com/p/0d4d4a3374ea) |
+| Mon, 15 Sep 2025 06:03:50 GMT | Your Dev Server Is Not Safe: The Hidden Danger of CSRF on Localhost | InstaTunnel | [Read More](https://medium.com/p/36fed5cf0e38) |
+| Mon, 15 Sep 2025 06:02:19 GMT | Sliding Screen Door Repair Tips for Fixing Common Problems | Gold Coast Security Screens | [Read More](https://medium.com/p/4af07b14aaf4) |
+| Mon, 15 Sep 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Sep 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6b42801cbe11) |
+| Mon, 15 Sep 2025 05:58:36 GMT | IAM, MFA, and SSO: The Triple Shield Your Digital Security Needs | John | [Read More](https://medium.com/p/80b68a93f73e) |
+| Mon, 15 Sep 2025 05:57:48 GMT | How AI Will Shape the Future of Hospitals in the Next Decade | Zuraiz Khan | [Read More](https://medium.com/p/af7a34edb376) |
+| Mon, 15 Sep 2025 05:56:48 GMT | The Trade-Off Between Convenience and Data Security: Why Privacy can Sometimes Come at a Cost | FrostByte | [Read More](https://medium.com/p/f7946a791fb6) |
+| Mon, 15 Sep 2025 05:53:35 GMT | Google’s VaultGemma Proves Privacy Doesn’t Mean Compromise, Rewrites the Rules for Secure Language… | Cogni Down Under | [Read More](https://medium.com/p/54423786b9be) |
+| Mon, 15 Sep 2025 05:53:11 GMT | Why App Store Reviews Can’t Always Save You from Malware | Abida Adra | [Read More](https://medium.com/p/fb0a85904fb7) |
+| Mon, 15 Sep 2025 05:45:30 GMT | Ransomware, Malware, and Intrusions: A Step-by-Step Analysis Methodology | Dean | [Read More](https://medium.com/p/d785bf409f14) |
+| Mon, 15 Sep 2025 05:40:15 GMT | Certified Ethical Hacker Course — Everything You Need to Know in 2025 | Nitin Singh | [Read More](https://medium.com/p/5972b9e6b214) |
 | Mon, 15 Sep 2025 05:29:10 GMT | The Linux Starter Pack: Everything You Need to Begin | Tanvi Chauhan | [Read More](https://medium.com/p/6d2a10b5c7c6) |
 | Mon, 15 Sep 2025 05:26:04 GMT | IT Support Services in Education Industries: Driving Digital Learning Success | POONAM KASAT | [Read More](https://medium.com/p/858bb71f2837) |
 | Mon, 15 Sep 2025 05:25:33 GMT | Why Every Business Needs Endpoint Security That Goes Beyond Antivirus | Kachi Akoma | [Read More](https://medium.com/p/df8cf845649c) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 20:34:31 GMT | BankingTroubles Lab-CyberDefender-SOC-Analyst-Tier 3 | Suuaad | [Read More](https://medium.com/p/6b4c076b7b8b) |
 | Sun, 14 Sep 2025 20:24:50 GMT | Protégez l’IA des pirates : anticipez leurs attaques efficacement | L'ABESTIT | [Read More](https://medium.com/p/77eb714288e1) |
 | Sun, 14 Sep 2025 20:22:10 GMT | Largest npm Hack in History: 2 Billion Weekly Downloads Compromised in Critical Supply Chain Attack | Hamza Khalid | [Read More](https://medium.com/p/ea3bfe0065e6) |
-| Sun, 14 Sep 2025 20:22:03 GMT | How Hackers and Investigators Use OSINT to Gather Information | Prem Prasad Pradhan | [Read More](https://medium.com/p/090af25129d4) |
-| Sun, 14 Sep 2025 20:22:00 GMT | The Indexing Bug That Only Shows Up in Rust Database Layers | TheOpinionatedDev | [Read More](https://medium.com/p/7b62d08ef9a8) |
-| Sun, 14 Sep 2025 20:17:06 GMT | PicoCTF — Vault Door 6 | EtcSec | [Read More](https://medium.com/p/c78725524123) |
-| Sun, 14 Sep 2025 20:12:18 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It | Daniel Lozovsky | [Read More](https://medium.com/p/818aadeef688) |
-| Sun, 14 Sep 2025 20:07:10 GMT | BlackHat MEA Qualification CTF 2025 — Web Challenge: Cute_CSP | Mostafa Rashidy | [Read More](https://medium.com/p/646810ca794f) |
-| Sun, 14 Sep 2025 20:03:09 GMT | Trust Us, You’re the Product: The Battle Over Privacy in Artificial Intelligence | Jonathan Brown | [Read More](https://medium.com/p/643080b6c445) |
-| Sun, 14 Sep 2025 19:59:34 GMT | Smiling Faces, Leaking Secrets (OSINT and Employer Branding) | Mostafa Ibrahim | [Read More](https://medium.com/p/69a5c8b7011a) |
-| Sun, 14 Sep 2025 19:58:55 GMT | Mastering Nmap (Part 4) in 2025:: Output Formats & Reporting | appsecvenue | [Read More](https://medium.com/p/a75d0501eada) |
-| Sun, 14 Sep 2025 19:55:32 GMT | PICOCTF WALKTHROUGH: NOSQL INJECTION. | Regina ngunjiri | [Read More](https://medium.com/p/6a012310810f) |
-| Sun, 14 Sep 2025 19:54:27 GMT | Sunnystation walk-through: Traffic Analysis for Windows-based mass distribution malware (Emotet… | Cybill383 | [Read More](https://medium.com/p/0b3b5ab12043) |
-| Sun, 14 Sep 2025 19:53:37 GMT | Boost Your Earnings with BUG BUG Yield Strategies | BUG | [Read More](https://medium.com/p/e447501d9e85) |
-| Sun, 14 Sep 2025 19:52:07 GMT | Why Some People Fear Intimacy | Soren Frost | [Read More](https://medium.com/p/9e1ed3b6f0df) |
-| Sun, 14 Sep 2025 19:49:07 GMT | How I found Critical Bugs Easily on GitHub | mohamed metwally | [Read More](https://medium.com/p/48ee78c9ab3d) |
-| Sun, 14 Sep 2025 19:34:52 GMT | New Android Trojan Hacks Your Phone’s NFC!!! | cybrNK | [Read More](https://medium.com/p/53ade3e113d8) |
-| Sun, 14 Sep 2025 19:32:30 GMT | Understanding AI Prompt Injections: The Hidden Security Risk | r00tb33r | [Read More](https://medium.com/p/791f11de64e0) |
-| Sun, 14 Sep 2025 19:30:35 GMT | Cross-site scripting | Usama Hanif | [Read More](https://medium.com/p/d4e55949be48) |
-| Sun, 14 Sep 2025 19:23:21 GMT | Maybe this year will just be a year. | Love, Yechi. | [Read More](https://medium.com/p/8c8230de87fe) |
-| Sun, 14 Sep 2025 19:21:36 GMT | OSINT: 07CTF Cookies | amer7x | [Read More](https://medium.com/p/17d24d5e5240) |
