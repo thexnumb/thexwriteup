@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 13:39:15 GMT | The Future of Web Development: Trends to Watch in 2025 | Alpha Array Technologies | [Read More](https://medium.com/p/4620f044e14f) |
+| Mon, 15 Sep 2025 13:36:31 GMT | How to install disabled tamper.dev chrome extension V2 | Jigyarth Joshi | [Read More](https://medium.com/p/493038879a3a) |
+| Mon, 15 Sep 2025 13:36:01 GMT | How ChatGPT Could Leak Your Private Email Data | Jim Clyde Monge | [Read More](https://medium.com/p/411a293d5d01) |
+| Mon, 15 Sep 2025 13:34:38 GMT | 2023 — Quntam Computer in your home? | Shailendra Jain | [Read More](https://medium.com/p/915322889522) |
+| Mon, 15 Sep 2025 13:34:16 GMT | 5 Data Visualization Techniques Every Finance Professional Must Know | Tanzila Tanjim | [Read More](https://medium.com/p/b0bfea944493) |
 | Mon, 15 Sep 2025 13:27:37 GMT | Cyber Security Training & Placement — Swhizz Technologies | Swhizztechnlogies | [Read More](https://medium.com/p/56fb473894d1) |
+| Mon, 15 Sep 2025 13:26:46 GMT | Microsoft September Updates Break SMBv1 Shares | Suhas Valasala | [Read More](https://medium.com/p/7d2cea3adbe4) |
 | Mon, 15 Sep 2025 13:25:21 GMT | Corporate Greed Chronicles: ConocoPhillips’ Altar of Greed Sacrifices Workers | Namir Sagheenanajar | [Read More](https://medium.com/p/4c61ecf0c043) |
+| Mon, 15 Sep 2025 13:24:31 GMT | Critical LangChainGo Vulnerability Let Attackers Access Sensitive Files by Injecting Malicious… | Jasmitharouthu | [Read More](https://medium.com/p/98f194cfc17d) |
 | Mon, 15 Sep 2025 13:24:09 GMT | Looking for secure options to move over $6,000 in USDT from OKX wallet — what do you suggest? | Joelle luxer | [Read More](https://medium.com/p/8cf8c652e7fa) |
 | Mon, 15 Sep 2025 13:20:19 GMT | The Salesforce Supply Chain Breach: When One Weak Link Shatters Global Trust | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ecc1b633e1d7) |
 | Mon, 15 Sep 2025 13:18:03 GMT | How Scammers Drain Bank Accounts | Internet Exposed | [Read More](https://medium.com/p/92d3f2d78b40) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 09:11:56 GMT | How Burnout Hit Me While Learning Security — and the Routine That Saved Me | Dhruvdeep Singh | [Read More](https://medium.com/p/f66b45f4dbc4) |
 | Mon, 15 Sep 2025 09:11:29 GMT | The New Hire Who Never Existed | Aj | [Read More](https://medium.com/p/1e29a125369f) |
 | Mon, 15 Sep 2025 09:11:04 GMT | 10-Point Penetration Testing Contract Checklist for Every Business | CyberNX | [Read More](https://medium.com/p/cda04eb7bc04) |
-| Mon, 15 Sep 2025 09:11:01 GMT | The Psychology of Phishing: Why We Click | vydhi | [Read More](https://medium.com/p/190c57f5cd07) |
-| Mon, 15 Sep 2025 09:05:59 GMT | Upgrade Skills with Best Cyber Security Course in Hyderabad | Pravin Choudhary | [Read More](https://medium.com/p/79c8fbda5e7f) |
-| Mon, 15 Sep 2025 09:05:24 GMT | Future-Ready Enterprises Choose the Best IoT Services | Juarait Digital | [Read More](https://medium.com/p/598b01ce3b7a) |
-| Mon, 15 Sep 2025 09:05:12 GMT | Fiverr or Upwork Account hacked?Freelancer’s 2025 survivalGuide | Cyber Safety Zone | [Read More](https://medium.com/p/4db5399ed22a) |
-| Mon, 15 Sep 2025 08:58:45 GMT | Rogue AI Explained: Risks, Real Examples, and What Businesses Can Do | Satyam Pathania | [Read More](https://medium.com/p/18843f4c9b82) |
-| Mon, 15 Sep 2025 08:58:41 GMT | DockerLabs Writeup — NodeClimb (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/10b9b9b23d30) |
-| Mon, 15 Sep 2025 08:56:42 GMT | A Complete Guide to the Latest ZoomEye Search Syntax | Inter3209 | [Read More](https://medium.com/p/b4513e716288) |
