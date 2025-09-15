@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 15:39:38 GMT | Why Crying in the Bathroom is a Universal Female Experience | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/3bb6416e8dce) |
+| Mon, 15 Sep 2025 15:33:08 GMT | Pasif Bilgi Toplama ve Wayback Machine Gücü | Berat Ünal | [Read More](https://medium.com/p/70d3afdf6071) |
+| Mon, 15 Sep 2025 15:31:12 GMT | Cybersecurity in Outsourcing: 10 Companies Setting the Benchmark | EnosisOutsourcing | [Read More](https://medium.com/p/6b495f4b7a49) |
+| Mon, 15 Sep 2025 15:26:11 GMT | The Streaming Revolution: Unpacking the Over The Top (OTT) Services Market Size, Share & Industry… | smartitinsights | [Read More](https://medium.com/p/c8048300bdc7) |
+| Mon, 15 Sep 2025 15:25:38 GMT | 5 Must-Have Tech Gadgets at Walmart You Didn’t Know You Needed | Naya Miller | [Read More](https://medium.com/p/3d8948913199) |
+| Mon, 15 Sep 2025 15:23:32 GMT | I Let AI Create A Discord Bot | JesseCodes | [Read More](https://medium.com/p/5044cf5f6120) |
+| Mon, 15 Sep 2025 15:19:27 GMT | Tech Jobs Everyone Should Know About in 2025 | Tech Master | [Read More](https://medium.com/p/bea760124b49) |
+| Mon, 15 Sep 2025 15:15:06 GMT | GZR Observer Daily — Sep 15, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c1df674c62d7) |
 | Mon, 15 Sep 2025 15:14:28 GMT | Advance Your Networking & Cybersecurity Skills with Cisco Training | Aaqib Rajput | [Read More](https://medium.com/p/9aff36ebde44) |
+| Mon, 15 Sep 2025 15:13:42 GMT | [Sneak Peek] ZAST EXPRESS is Almost Here! | ZAST AI | [Read More](https://medium.com/p/71dc5e0c888c) |
 | Mon, 15 Sep 2025 15:11:25 GMT | “The Lazy Hacker’s Guide to $500 Information Disclosure Bugs” | Aman Sharma | [Read More](https://medium.com/p/b45f9472725e) |
 | Mon, 15 Sep 2025 15:11:03 GMT | You Don’t Need More Time To Learn. You Need a Learning System | Vijay Kumar Gupta | [Read More](https://medium.com/p/519b77eab97d) |
+| Mon, 15 Sep 2025 15:08:05 GMT | Why Ecosystem-Based Cybersecurity Works | Priyesh | [Read More](https://medium.com/p/1c8a5cd30833) |
 | Mon, 15 Sep 2025 15:06:01 GMT | Modern Challenges and Risks for Symmetric and Asymmetric Encryption and Authentication in… | Igor Yanovskiy | [Read More](https://medium.com/p/7911900cb302) |
 | Mon, 15 Sep 2025 15:02:09 GMT | Ingress SSL Communication Patterns in Kubernetes | Sowmya | [Read More](https://medium.com/p/cf6509978f06) |
 | Mon, 15 Sep 2025 14:53:41 GMT | Pre-9/11 Skies: How Did We Ever Fly So Carelessly? | MythsAndMaybeNots | [Read More](https://medium.com/p/44d8b5f25aaa) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 11:35:01 GMT | Crypto Crime in 2025: From Police Badge to Crypto Heist — Why Privacy and Protection Are Essential | Ventus Partners | [Read More](https://medium.com/p/b489029f9ed0) |
 | Mon, 15 Sep 2025 11:33:48 GMT | Privacy Implications and Mitigation Strategies in Transformer-Based Architectures | Omar Ali | [Read More](https://medium.com/p/68f1f4066311) |
 | Mon, 15 Sep 2025 11:32:52 GMT | The Lost Glitches: A Cyberpunk TCG Where Real Hacking Culture Bleeds Into the Cards | Motoko Iwakura | [Read More](https://medium.com/p/74e2e032077e) |
-| Mon, 15 Sep 2025 11:30:07 GMT | APK Scams on the Rise: Why Every Indian Smartphone User is at Risk | Taiyab Lokhandwala | [Read More](https://medium.com/p/25a321f7584d) |
-| Mon, 15 Sep 2025 11:27:57 GMT | 10 Things You Should Never Tell Artificial Intelligence (AI) | Ilyassbourich | [Read More](https://medium.com/p/e74a0aa33101) |
-| Mon, 15 Sep 2025 11:25:08 GMT | Future-Proof Your Smart Home: A Simple Guide to Cat6 Wiring & High-Capacity Streaming | digital immersive | [Read More](https://medium.com/p/6a69ccc838ad) |
-| Mon, 15 Sep 2025 11:15:29 GMT | The List of Things I Almost Said | A.J. Selim | [Read More](https://medium.com/p/b3409c3f849c) |
-| Mon, 15 Sep 2025 11:14:33 GMT | Chain Link Fence in Saudi Arabia A Durable and Cost-Effective Security Solution | Hitechfence | [Read More](https://medium.com/p/51f32db62b58) |
-| Mon, 15 Sep 2025 11:14:25 GMT | Cyber Security Market: Strengthening Risk Management in Saudi Arabia | Sonu mark spark solutions | [Read More](https://medium.com/p/2d2e74cf751f) |
-| Mon, 15 Sep 2025 11:12:33 GMT | TryHackMe: Squid Game — Attacker 3 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/68bd357f6cb0) |
-| Mon, 15 Sep 2025 11:11:43 GMT | Uncloaking VoidProxy: What GRC Leaders Need to Know | Brittney Ginther | [Read More](https://medium.com/p/a8b549fa8101) |
-| Mon, 15 Sep 2025 11:03:29 GMT | TryHackMe: Squid Game — Attacker 2 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/b09f22ffb066) |
-| Mon, 15 Sep 2025 10:59:51 GMT | How Cybersecurity Monitoring & Alerting Services Prevent Digital Threats | Vijilan | [Read More](https://medium.com/p/2ecd8b4d61b1) |
