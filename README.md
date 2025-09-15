@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 14:13:42 GMT | “I Got In!” Now What? Real Talk About Next Steps | SilentInject | [Read More](https://medium.com/p/e9628500ed1b) |
+| Mon, 15 Sep 2025 14:11:43 GMT | How to Install a Keyless Door Lock: Easy Installation Tips for a Secure Home | Sure Lock & Key LLC | [Read More](https://medium.com/p/a1407df06b53) |
+| Mon, 15 Sep 2025 14:11:43 GMT | Our ‘Temporary Hack’ Scaled Better Than Our Official Architecture | Byte Me Daily | [Read More](https://medium.com/p/832bbbe08d83) |
+| Mon, 15 Sep 2025 14:05:55 GMT | c0c0n CTF 2025 Writeup | Sheldon Menezes | [Read More](https://medium.com/p/97d6c66026f7) |
+| Mon, 15 Sep 2025 14:01:48 GMT | Converging IT and OT Security: Building a Unified Defense Strategy | Cyberkech | [Read More](https://medium.com/p/9ea73699c359) |
+| Mon, 15 Sep 2025 14:01:45 GMT | Cyber Briefing: 2025.09.15 | CyberMaterial | [Read More](https://medium.com/p/af99c05faab4) |
+| Mon, 15 Sep 2025 14:01:45 GMT | Guardians of Web3: The Movement Behind ABTU | Abatis ABTU | [Read More](https://medium.com/p/76946b259594) |
+| Mon, 15 Sep 2025 14:01:45 GMT | The Compiler Hack That Made AI Possible | The Cache Cowgirl | [Read More](https://medium.com/p/b1e438d4b10a) |
+| Mon, 15 Sep 2025 14:00:53 GMT | Gmail OAuth Enforcement Bypass 100$ deal. | Lakshya | [Read More](https://medium.com/p/4644a9a3ebe6) |
+| Mon, 15 Sep 2025 13:57:02 GMT | From Zero To Burp Suite Certified Practitioner aka BSCP : My journey and my tips ⚡ | JAIME | [Read More](https://medium.com/p/acbfc9dab8ab) |
+| Mon, 15 Sep 2025 13:54:42 GMT | Edge AI Unleashed: Real-Time Intelligence for IoT and Beyond in 2025 | Umesh Anjula | [Read More](https://medium.com/p/575dc1475556) |
+| Mon, 15 Sep 2025 13:52:06 GMT | Don’t Waste Your Time on Social Media or Fake Online Course!: | The Secret Researcher | [Read More](https://medium.com/p/febfc9cb21e4) |
+| Mon, 15 Sep 2025 13:50:00 GMT | How Smart Accounts and Account Abstraction Fit Together | Nilmi Sugandhika879 | [Read More](https://medium.com/p/11592ddfceb1) |
+| Mon, 15 Sep 2025 13:49:20 GMT | Zafiyet Yönetimi 101: Tespit, Analiz ve Önceliklendirme | Aykut Bayram | [Read More](https://medium.com/p/41dd66b1423b) |
+| Mon, 15 Sep 2025 13:49:15 GMT | How Frequently Should You Train Staff in Cybersecurity? | Renaissance Computer Services Limited | [Read More](https://medium.com/p/e819b8fe27bd) |
+| Mon, 15 Sep 2025 13:46:13 GMT | Blockchain Mixers Explained | AML You | [Read More](https://medium.com/p/4444fcce2f27) |
+| Mon, 15 Sep 2025 13:44:24 GMT | U.S. Senator Accuses Microsoft of Gross Cybersecurity Negligence | Suhas Valasala | [Read More](https://medium.com/p/d82239465cdd) |
+| Mon, 15 Sep 2025 13:43:27 GMT | Earn Buy PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc atm | Blackbox | [Read More](https://medium.com/p/bcea510f4b42) |
 | Mon, 15 Sep 2025 13:39:15 GMT | The Future of Web Development: Trends to Watch in 2025 | Alpha Array Technologies | [Read More](https://medium.com/p/4620f044e14f) |
+| Mon, 15 Sep 2025 13:39:06 GMT | Why Small Businesses Are Prime Targets for Cybercriminals | Cybersecurity Umbrella | [Read More](https://medium.com/p/840e1533098f) |
+| Mon, 15 Sep 2025 13:37:42 GMT | Threat Model: Malicious Packages | Danny | [Read More](https://medium.com/p/4f2840e56337) |
 | Mon, 15 Sep 2025 13:36:31 GMT | How to install disabled tamper.dev chrome extension V2 | Jigyarth Joshi | [Read More](https://medium.com/p/493038879a3a) |
 | Mon, 15 Sep 2025 13:36:01 GMT | How ChatGPT Could Leak Your Private Email Data | Jim Clyde Monge | [Read More](https://medium.com/p/411a293d5d01) |
 | Mon, 15 Sep 2025 13:34:38 GMT | 2023 — Quntam Computer in your home? | Shailendra Jain | [Read More](https://medium.com/p/915322889522) |
@@ -30,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 13:07:29 GMT | No, AI Won’t Steal Your Credit Card Number — But the Company Behind It Stores Everything You Say | Nicholas Borg | [Read More](https://medium.com/p/f6acf51b04ec) |
 | Mon, 15 Sep 2025 13:05:16 GMT | How the Human Element Impacts Cybersecurity Effectiveness | Renaissance Computer Services Limited | [Read More](https://medium.com/p/0d63893b42a7) |
 | Mon, 15 Sep 2025 13:01:56 GMT | How I Found My First Critical Security Flaw in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/cf597b1e42fb) |
+| Mon, 15 Sep 2025 13:01:46 GMT | Rules of Engagement (RoE) para Pentesting Interno en Clínica SanaVida | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/1eda30e88dc9) |
 | Mon, 15 Sep 2025 13:01:00 GMT | My thoughts on free SOC training (and how I’m gearing up for Singtel’s MSSP SOC) | Rohit | [Read More](https://medium.com/p/ab8e61a28cd1) |
 | Mon, 15 Sep 2025 12:59:11 GMT | Introduction to Cybersecurity — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/f1739a34dd65) |
 | Mon, 15 Sep 2025 12:53:44 GMT | The Future of Cybersecurity Jobs: Top Skills You’ll Need to Thrive in 2030 | vydhi | [Read More](https://medium.com/p/48dcc9f59642) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 10:06:09 GMT | Netcracker - Telecom Security Visionaries and Key Customers Join Netcracker to Discuss… | Netcracker Marketing | [Read More](https://medium.com/p/337467b2dd09) |
 | Mon, 15 Sep 2025 10:02:45 GMT | The Genius of the Heart | Evelyn Foreman | [Read More](https://medium.com/p/c67d01639db6) |
 | Mon, 15 Sep 2025 09:58:03 GMT | Advanced Security Scanning: How Protect AI Platform and Semgrep Code Deliver AI-Enhanced Defence… | Iliya Garakh | [Read More](https://medium.com/p/e7639a1e8b2e) |
-| Mon, 15 Sep 2025 09:57:41 GMT | From SOPs to AI agents: The evolution of risk decision-making | SIRV - AI to help manage threats and disruption | [Read More](https://medium.com/p/76c903e85a74) |
-| Mon, 15 Sep 2025 09:56:58 GMT | The Future of Service Delivery: How Self-Service Kiosk Machines Are Transforming Industries | Rakesh | [Read More](https://medium.com/p/02b85533b955) |
-| Mon, 15 Sep 2025 09:56:01 GMT | Next-Generation Software Delivery: Mastering Harness AI-Native, Modal Serverless Compute, and… | Iliya Garakh | [Read More](https://medium.com/p/44004cd1b9b0) |
-| Mon, 15 Sep 2025 09:55:53 GMT | The One-Page Security Checklist for Small Teams | Evgeny Ermakov | [Read More](https://medium.com/p/03e16c5c04ee) |
-| Mon, 15 Sep 2025 09:54:47 GMT | Kubernetes and DevOps AI Assistants: Seamless Container Migration, Conversational Automation, and… | Iliya Garakh | [Read More](https://medium.com/p/b8210e500e65) |
-| Mon, 15 Sep 2025 09:53:32 GMT | AI DevOps Revolution: How Spacelift Saturnhead AI, LambdaTest KaneAI, and SRE.ai | Iliya Garakh | [Read More](https://medium.com/p/774e6f465ddf) |
-| Mon, 15 Sep 2025 09:49:05 GMT | Risk Management Hacks: Simple Moves to Protect Your Business Fast | SecureSlate | [Read More](https://medium.com/p/76b51cbd2a89) |
-| Mon, 15 Sep 2025 09:43:24 GMT | Why Hackers Are Targeting the World’s Shipping Industry | Mr Orion | [Read More](https://medium.com/p/b03001ec2db2) |
-| Mon, 15 Sep 2025 09:39:28 GMT | Top 10 Tech Jobs Employers Can’t Stop Searching For in 2025 | Intellitron Genesis | [Read More](https://medium.com/p/36c411f11b61) |
-| Mon, 15 Sep 2025 09:38:47 GMT | Untold Mind | nisavian | [Read More](https://medium.com/p/493c307ec0af) |
-| Mon, 15 Sep 2025 09:35:32 GMT | Enkapsulasi dan Modifier | Hammam Al Rosyid Mudhoffar | [Read More](https://medium.com/p/5c449e4d5521) |
-| Mon, 15 Sep 2025 09:30:27 GMT | Strengthening Your Single-Page Application Against XSS and Other Threats | Bhavesh Rajpurohit | [Read More](https://medium.com/p/0a529cf67939) |
-| Mon, 15 Sep 2025 09:26:21 GMT | The Daily Tech Digest: 15 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/129bfd8da824) |
-| Mon, 15 Sep 2025 09:24:02 GMT | End-to-End Encryption in Node.js: ECDH + AES/3DH Explained Simply | Usama Saleem | [Read More](https://medium.com/p/a571308d2071) |
-| Mon, 15 Sep 2025 09:23:01 GMT | Zero Trust Architecture: Why “Never Trust, Always Verify” is the New Security Paradigm | Pavan Patil | [Read More](https://medium.com/p/ce8d42b02adf) |
-| Mon, 15 Sep 2025 09:21:28 GMT | Generative AI for Cybersecurity: Roles, Responsibilities & Skills | Medora Grasser | [Read More](https://medium.com/p/14bad3d619e4) |
-| Mon, 15 Sep 2025 09:16:21 GMT | AWS Cloud: Balancing Cost and Security for Modern Businesses | Patrick Oh | [Read More](https://medium.com/p/d3ed4f773ace) |
-| Mon, 15 Sep 2025 09:12:44 GMT | Cybersecurity Lessons from Popular Movies and TV Shows | vydhi | [Read More](https://medium.com/p/e41a7e145a79) |
-| Mon, 15 Sep 2025 09:11:56 GMT | How Burnout Hit Me While Learning Security — and the Routine That Saved Me | Dhruvdeep Singh | [Read More](https://medium.com/p/f66b45f4dbc4) |
-| Mon, 15 Sep 2025 09:11:29 GMT | The New Hire Who Never Existed | Aj | [Read More](https://medium.com/p/1e29a125369f) |
-| Mon, 15 Sep 2025 09:11:04 GMT | 10-Point Penetration Testing Contract Checklist for Every Business | CyberNX | [Read More](https://medium.com/p/cda04eb7bc04) |
