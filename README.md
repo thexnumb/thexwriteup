@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 11:33:48 GMT | Privacy Implications and Mitigation Strategies in Transformer-Based Architectures | Omar Ali | [Read More](https://medium.com/p/68f1f4066311) |
+| Mon, 15 Sep 2025 11:30:07 GMT | APK Scams on the Rise: Why Every Indian Smartphone User is at Risk | Taiyab Lokhandwala | [Read More](https://medium.com/p/25a321f7584d) |
+| Mon, 15 Sep 2025 11:27:57 GMT | 10 Things You Should Never Tell Artificial Intelligence (AI) | Ilyassbourich | [Read More](https://medium.com/p/e74a0aa33101) |
+| Mon, 15 Sep 2025 11:25:08 GMT | Future-Proof Your Smart Home: A Simple Guide to Cat6 Wiring & High-Capacity Streaming | digital immersive | [Read More](https://medium.com/p/6a69ccc838ad) |
+| Mon, 15 Sep 2025 11:15:29 GMT | The List of Things I Almost Said | A.J. Selim | [Read More](https://medium.com/p/b3409c3f849c) |
+| Mon, 15 Sep 2025 11:14:33 GMT | Chain Link Fence in Saudi Arabia A Durable and Cost-Effective Security Solution | Hitechfence | [Read More](https://medium.com/p/51f32db62b58) |
+| Mon, 15 Sep 2025 11:14:25 GMT | Cyber Security Market: Strengthening Risk Management in Saudi Arabia | Sonu mark spark solutions | [Read More](https://medium.com/p/2d2e74cf751f) |
+| Mon, 15 Sep 2025 11:12:33 GMT | TryHackMe: Squid Game — Attacker 3 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/68bd357f6cb0) |
+| Mon, 15 Sep 2025 11:11:43 GMT | Uncloaking VoidProxy: What GRC Leaders Need to Know | Brittney Ginther | [Read More](https://medium.com/p/a8b549fa8101) |
 | Mon, 15 Sep 2025 11:03:29 GMT | TryHackMe: Squid Game — Attacker 2 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/b09f22ffb066) |
 | Mon, 15 Sep 2025 10:59:51 GMT | How Cybersecurity Monitoring & Alerting Services Prevent Digital Threats | Vijilan | [Read More](https://medium.com/p/2ecd8b4d61b1) |
 | Mon, 15 Sep 2025 10:54:11 GMT | TryHackMe: Squid Game — Attacker 1 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/bd080fd3ebb3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 07:01:44 GMT | Found Your Domain in Leaks Today? A 24-Hour Response Playbook | Alexandre Vandamme | [Read More](https://medium.com/p/3a397467edf7) |
 | Mon, 15 Sep 2025 06:57:44 GMT | VMWARE WORKSPACE SEC VDI AUDIT WITH HORIZON SUBSCRIPTION CORE | Sonicomp | [Read More](https://medium.com/p/11112611bcb7) |
 | Mon, 15 Sep 2025 06:54:35 GMT | Introducing ARMchain Beta: Entering the Quantum-Secure Future | Bahloul.arm | [Read More](https://medium.com/p/65ebd6aa4359) |
-| Mon, 15 Sep 2025 06:52:49 GMT | TryHackMe: Skynet Walkthrough | Sondip Roy | [Read More](https://medium.com/p/ea6da3cdbf9e) |
-| Mon, 15 Sep 2025 06:52:11 GMT | ️ Stay Secure. | Legalmunshi | [Read More](https://medium.com/p/823a670bcb16) |
-| Mon, 15 Sep 2025 06:46:42 GMT | ⌛ Pending Invite Hijack — Takeover via Improper Identity Linking | Bassemwanies | [Read More](https://medium.com/p/905619fff772) |
-| Mon, 15 Sep 2025 06:43:39 GMT | Bug Bounty for Nuclei Template Contribution | AbhirupKonwar | [Read More](https://medium.com/p/f7cdb38c2436) |
-| Mon, 15 Sep 2025 06:41:19 GMT | The Fall of Flat Networks: Engineering Isolation for Security in a Connected World | Eric Howard, Ph. D. | [Read More](https://medium.com/p/dc170e85f416) |
-| Mon, 15 Sep 2025 06:41:08 GMT | Trumph’s New “Hire” Law: Alarm Call for Indian IT Outsourcing | Jeyram | [Read More](https://medium.com/p/97aee6f0d60f) |
-| Mon, 15 Sep 2025 06:40:39 GMT | Web Application Penetration Testing for Vulnerability Detection- Singapore | QualysecEurope | [Read More](https://medium.com/p/bf29fc42f435) |
-| Mon, 15 Sep 2025 06:34:02 GMT | Active Directory & Attactive Directory CTF Walkthrough:Explained | Okan | [Read More](https://medium.com/p/314f13e00975) |
-| Mon, 15 Sep 2025 06:31:46 GMT | I Had a Dream | Shownzy | [Read More](https://medium.com/p/af593b3cdb98) |
