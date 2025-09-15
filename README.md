@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 05:14:34 GMT | Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File | Bassemwanies | [Read More](https://medium.com/p/51656593bbb9) |
+| Mon, 15 Sep 2025 05:08:18 GMT | 15. Bug Bounty Mindset: How to Think Like a Hacker | Abhijeet kumawat | [Read More](https://medium.com/p/9d3e413be5ab) |
+| Mon, 15 Sep 2025 05:07:05 GMT | top application security risks startups overlook and how to fix them | Techugo46 | [Read More](https://medium.com/p/219c0d52ca32) |
+| Mon, 15 Sep 2025 05:04:25 GMT | Deepfake Scams Are Getting Smarter: Can You Trust Your Eyes and Ears Anymore? | IamPreth | [Read More](https://medium.com/p/8c7fced43e4a) |
+| Mon, 15 Sep 2025 04:53:04 GMT | Your AI Agent Is an Open Door for Attackers | Mohit Soni | [Read More](https://medium.com/p/df2307d77910) |
+| Mon, 15 Sep 2025 04:47:41 GMT | TO BECOME A SOC EXPERT(DAY-3) | vulnhunter | [Read More](https://medium.com/p/9b19398926e0) |
+| Mon, 15 Sep 2025 04:42:34 GMT | Java Security Best Practices For Developers | Brilworks Software | [Read More](https://medium.com/p/51cca700200d) |
 | Mon, 15 Sep 2025 04:41:19 GMT | Reflections of Doom: How a Tiny DOM XSS Turned Into Complete Account Takeover | Iski | [Read More](https://medium.com/p/2318f116f257) |
 | Mon, 15 Sep 2025 04:31:31 GMT | Beginner’s Guide: API Pentesting with Postman + Burp | Blue_eye | [Read More](https://medium.com/p/fc2417b0c50a) |
 | Mon, 15 Sep 2025 04:16:45 GMT | You Searched for a Dev Tool. Google Served You Malware. | Aj | [Read More](https://medium.com/p/c2e3da8cd421) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 19:14:40 GMT | Linux Firewalls: iptables and nftables Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/c5bf4ce818a4) |
 | Sun, 14 Sep 2025 19:09:44 GMT | Week 6 of My 90-Day Challenge: Halfway and a Readjustment | Mike (sl0th0x87) | [Read More](https://medium.com/p/bd0f948d7dcb) |
 | Sun, 14 Sep 2025 19:06:41 GMT | Linux AppArmor: Confined Execution | Eren Cankut Uysal | [Read More](https://medium.com/p/65a9f9d2f49b) |
-| Sun, 14 Sep 2025 19:05:48 GMT | Bug Bounty Goldmine: Hidden Inputs in AJAX, JSON & GraphQL — Where Hunters Strike Gold | Zoningxtr | [Read More](https://medium.com/p/cb2936addf57) |
-| Sun, 14 Sep 2025 18:58:57 GMT | Linux SELinux: Mandatory Access Control | Eren Cankut Uysal | [Read More](https://medium.com/p/195bfdb420f4) |
-| Sun, 14 Sep 2025 18:57:48 GMT | Writing Your First Custom C2 Implant in a Memory-Safe Language (Go/Rust) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/a46296ad0425) |
-| Sun, 14 Sep 2025 18:54:46 GMT | “B1g_Mac” challenge | oussama | [Read More](https://medium.com/p/b55ac498ba41) |
-| Sun, 14 Sep 2025 18:51:37 GMT | Hedef Sertifikalar | Gokhan Can | [Read More](https://medium.com/p/5534981b9543) |
-| Sun, 14 Sep 2025 18:51:36 GMT | ERASR: The Quiet Upgrade That Makes India’s Seas Safer | Gaurav Das | [Read More](https://medium.com/p/7bbca1cacd5b) |
-| Sun, 14 Sep 2025 18:51:33 GMT | Why Blue Teamers Should Play Offensive CTFs — Wicys member experience | lyna Ben yakoub | [Read More](https://medium.com/p/0371e167ea13) |
