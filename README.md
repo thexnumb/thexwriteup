@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 07:17:23 GMT | The US-UK Digital Alliance: A New Era for Cybersecurity and AI Stocks | The Thematic Investor | [Read More](https://medium.com/p/14e4a1fa17b9) |
+| Mon, 15 Sep 2025 07:09:27 GMT | Top 5 SSL issues to understand (and avoid) | Smit Pipaliya | [Read More](https://medium.com/p/30a47d351607) |
+| Mon, 15 Sep 2025 07:08:42 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a2e7fbcba072) |
+| Mon, 15 Sep 2025 07:06:43 GMT | Palo Alto Networks PA-560: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5438b218afd9) |
+| Mon, 15 Sep 2025 07:04:16 GMT | How I Solved picoCTF “logon” — SQLi + Cookie Tampering Walkthrough | Deepika  B | [Read More](https://medium.com/p/d4c64fa1dd7e) |
+| Mon, 15 Sep 2025 07:03:48 GMT | The Journey Begins: 14 Days of Bug Bounty Learning | LIKITH GAJULA | [Read More](https://medium.com/p/e30c23a51d3d) |
+| Mon, 15 Sep 2025 07:01:44 GMT | Found Your Domain in Leaks Today? A 24-Hour Response Playbook | Alexandre Vandamme | [Read More](https://medium.com/p/3a397467edf7) |
+| Mon, 15 Sep 2025 06:57:44 GMT | VMWARE WORKSPACE SEC VDI AUDIT WITH HORIZON SUBSCRIPTION CORE | Sonicomp | [Read More](https://medium.com/p/11112611bcb7) |
+| Mon, 15 Sep 2025 06:54:35 GMT | Introducing ARMchain Beta: Entering the Quantum-Secure Future | Bahloul.arm | [Read More](https://medium.com/p/65ebd6aa4359) |
+| Mon, 15 Sep 2025 06:52:49 GMT | TryHackMe: Skynet Walkthrough | Sondip Roy | [Read More](https://medium.com/p/ea6da3cdbf9e) |
+| Mon, 15 Sep 2025 06:52:11 GMT | ️ Stay Secure. | Legalmunshi | [Read More](https://medium.com/p/823a670bcb16) |
+| Mon, 15 Sep 2025 06:46:42 GMT | ⌛ Pending Invite Hijack — Takeover via Improper Identity Linking | Bassemwanies | [Read More](https://medium.com/p/905619fff772) |
+| Mon, 15 Sep 2025 06:43:39 GMT | Bug Bounty for Nuclei Template Contribution | AbhirupKonwar | [Read More](https://medium.com/p/f7cdb38c2436) |
+| Mon, 15 Sep 2025 06:41:19 GMT | The Fall of Flat Networks: Engineering Isolation for Security in a Connected World | Eric Howard, Ph. D. | [Read More](https://medium.com/p/dc170e85f416) |
+| Mon, 15 Sep 2025 06:41:08 GMT | Trumph’s New “Hire” Law: Alarm Call for Indian IT Outsourcing | Jeyram | [Read More](https://medium.com/p/97aee6f0d60f) |
+| Mon, 15 Sep 2025 06:40:39 GMT | Web Application Penetration Testing for Vulnerability Detection- Singapore | QualysecEurope | [Read More](https://medium.com/p/bf29fc42f435) |
+| Mon, 15 Sep 2025 06:34:02 GMT | Active Directory & Attactive Directory CTF Walkthrough:Explained | Okan | [Read More](https://medium.com/p/314f13e00975) |
+| Mon, 15 Sep 2025 06:31:46 GMT | I Had a Dream | Shownzy | [Read More](https://medium.com/p/af593b3cdb98) |
+| Mon, 15 Sep 2025 06:31:15 GMT | My Journey to OSCP/OSCP+ exam | Bikram kharal | [Read More](https://medium.com/p/8f1b046f0edd) |
 | Mon, 15 Sep 2025 06:31:06 GMT | Advantages of Using Video Surveillance and Cameras in Construction Sites | sweetydahiyaa146 | [Read More](https://medium.com/p/e2bd95fb6c3f) |
 | Mon, 15 Sep 2025 06:25:42 GMT | Why Kubernetes Security Matters for Pentesters (and How I’m Preparing for CKS) | Anvar | [Read More](https://medium.com/p/a15b769dab2e) |
 | Mon, 15 Sep 2025 06:21:19 GMT | Leading Against the Odds: Our Journey to 4th Place at the Dubai Cyber Challenge | Anvar | [Read More](https://medium.com/p/c8e99d89b54e) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 22:41:53 GMT | Decompose human risk factors | Matthew.Rosenquist | [Read More](https://medium.com/p/45fe3d902694) |
 | Sun, 14 Sep 2025 22:34:52 GMT | The Role of AI in Cybersecurity: Why AI Should Be Your New Best Friend in Cybersecurity | Ebenezer | [Read More](https://medium.com/p/e06b7f83433c) |
 | Sun, 14 Sep 2025 22:25:43 GMT | Automating Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/15544c7fc069) |
-| Sun, 14 Sep 2025 22:11:54 GMT | How Freestyle Thinks About Security, Auditing, and Best Practices for Isolated AI Code Execution | Benjamin Swerdlow | [Read More](https://medium.com/p/416a7b3512d9) |
-| Sun, 14 Sep 2025 22:01:02 GMT | How Docker Turned My Repetitive OSINT Tasks Into a One-Click Workflow | Sam Galope | [Read More](https://medium.com/p/d54559d891cd) |
-| Sun, 14 Sep 2025 21:48:35 GMT | Fixing Broken Phishing Datasets | Tal Eliyahu | [Read More](https://medium.com/p/e1e7ee71c0b1) |
-| Sun, 14 Sep 2025 21:43:02 GMT | TryHackMe Writeup: Dav | Berkay AĞGÜL | [Read More](https://medium.com/p/02f2beff8f8c) |
-| Sun, 14 Sep 2025 21:42:57 GMT | Maximize Your Passive Income with BUG BUG | BUG | [Read More](https://medium.com/p/efa493396608) |
-| Sun, 14 Sep 2025 21:32:25 GMT | TryHackMe W1seGuy: XOR Challenge Walkthrough | Trixia Horner | [Read More](https://medium.com/p/35fa3f36b7c3) |
-| Sun, 14 Sep 2025 21:32:00 GMT | The Future of AI in Penetration Testing: From Assistant to Autonomous Hacker | Taha Ex | [Read More](https://medium.com/p/54eea700ea0a) |
-| Sun, 14 Sep 2025 21:25:58 GMT | Remote Shell Walkthrough on Kioptrix & Blue Windows (Lab Practice) | ishaq Jafar | [Read More](https://medium.com/p/432cce485361) |
-| Sun, 14 Sep 2025 21:19:19 GMT | I Built a Simple POC That Earned a $10,000 Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/0eed90c9ccce) |
-| Sun, 14 Sep 2025 21:18:35 GMT | O básico de segurança de APIs em .NET Core com JSON Web Tokens (JWT) | Lucas Camanducci | [Read More](https://medium.com/p/5799653bc218) |
-| Sun, 14 Sep 2025 21:15:29 GMT | Mr.Robot WalkThrough | Sameh Elhosary | [Read More](https://medium.com/p/e2f772bde713) |
-| Sun, 14 Sep 2025 20:58:34 GMT | Think Like a Hacker: Strengthening Security Through Penetration Testing | Asmaahardawa | [Read More](https://medium.com/p/4c7da95a868d) |
-| Sun, 14 Sep 2025 20:50:41 GMT | SIGNS TO SPOT A CELEBRITY SCAMMER AND IMPOSTER | Zabra | [Read More](https://medium.com/p/922bce38cef1) |
-| Sun, 14 Sep 2025 20:45:37 GMT | No One Ever Expects the Security Inquisition | TD | [Read More](https://medium.com/p/9749c898ed91) |
-| Sun, 14 Sep 2025 20:43:12 GMT | My Mind Is Blown: Is Eye-Tracking the Next Big Thing? | Kajal Khatri | [Read More](https://medium.com/p/73eae11ba731) |
-| Sun, 14 Sep 2025 20:37:33 GMT | When Basic Discovery Commands Signal Trouble | Raynard Waits | [Read More](https://medium.com/p/fe716a6deaf0) |
-| Sun, 14 Sep 2025 20:34:31 GMT | BankingTroubles Lab-CyberDefender-SOC-Analyst-Tier 3 | Suuaad | [Read More](https://medium.com/p/6b4c076b7b8b) |
-| Sun, 14 Sep 2025 20:24:50 GMT | Protégez l’IA des pirates : anticipez leurs attaques efficacement | L'ABESTIT | [Read More](https://medium.com/p/77eb714288e1) |
-| Sun, 14 Sep 2025 20:22:10 GMT | Largest npm Hack in History: 2 Billion Weekly Downloads Compromised in Critical Supply Chain Attack | Hamza Khalid | [Read More](https://medium.com/p/ea3bfe0065e6) |
