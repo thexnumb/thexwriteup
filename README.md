@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 18:23:27 GMT | The Price of Fame: How Fake Meta Verified Extensions Hijack Accounts | Ashley Dai | [Read More](https://medium.com/p/663aa4507bbc) |
+| Mon, 15 Sep 2025 18:17:19 GMT | This Week’s Cyber Unraveling | Aj | [Read More](https://medium.com/p/a86aa33db688) |
+| Mon, 15 Sep 2025 18:16:40 GMT | Key Implementation Challenges in Deploying Zero Trust Network Access | James Das | [Read More](https://medium.com/p/aae2980560aa) |
+| Mon, 15 Sep 2025 18:15:23 GMT | Monero’s Battle: The Fortress of Privacy Under Siege | KeyboardSamurai | [Read More](https://medium.com/p/756cf65b31b2) |
+| Mon, 15 Sep 2025 18:12:26 GMT | AI for Cybersecurity: The Attacker Has an AI. Do You? | noailabs | [Read More](https://medium.com/p/4849b515aa70) |
+| Mon, 15 Sep 2025 18:11:40 GMT | Praktikum Internet of Things (Tugas): Pemrograman Dasar Mikrokontroler | Muhammad Surya Saputro | [Read More](https://medium.com/p/3d86c896144f) |
+| Mon, 15 Sep 2025 18:02:01 GMT | Account Takeover vía endpoint de reset password: cuando el sistema te regala el acceso | Gorka | [Read More](https://medium.com/p/2f5b619edfb8) |
+| Mon, 15 Sep 2025 18:01:10 GMT | Malicious Mcp Servers Used In Supply-chain Attacks | Yaniv | [Read More](https://medium.com/p/ad1ea33a7781) |
+| Mon, 15 Sep 2025 17:55:52 GMT | Cara Cepat Pasang Arduino IDE & Buat LED Berkelip: Panduan Praktikum yang Mudah | Zifa Tea Azzahra | [Read More](https://medium.com/p/5f4f639ffba5) |
+| Mon, 15 Sep 2025 17:46:33 GMT | Crackmes.de: Beginner Friendly | Sourav Bose | [Read More](https://medium.com/p/f19883c787ec) |
+| Mon, 15 Sep 2025 17:45:36 GMT | Post Quantum Computing -Future of Cryptography and Quantum-Resistant Security | SUMIT BHARDWAJ | [Read More](https://medium.com/p/01e0eca94bde) |
+| Mon, 15 Sep 2025 17:45:32 GMT | How Synthetic Identity Fraud Became Insurance’s Most Sophisticated Threat | Rishisec | [Read More](https://medium.com/p/10f73e4c6ad9) |
+| Mon, 15 Sep 2025 17:45:02 GMT | Building An Offensive Security AI Agent - Part 2 | OTR | [Read More](https://medium.com/p/d3fa197c4d20) |
 | Mon, 15 Sep 2025 17:36:22 GMT | Putin’s Democracy DDoSed: How Ukraine Hacked Russia’s Election Nerve Center | Emily Rhodes | [Read More](https://medium.com/p/c5f17279b6c5) |
 | Mon, 15 Sep 2025 17:31:12 GMT | NetSupport RAT analysis and with a path of Fake Captcha | Nirajbagde | [Read More](https://medium.com/p/dd9a4b67fcef) |
 | Mon, 15 Sep 2025 17:28:06 GMT | How to achieve your CEH Certification in first attempt. ‍ | Ebullient | [Read More](https://medium.com/p/ac774744d596) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 14:00:53 GMT | Gmail OAuth Enforcement Bypass 100$ deal. | Lakshya | [Read More](https://medium.com/p/4644a9a3ebe6) |
 | Mon, 15 Sep 2025 13:57:02 GMT | From Zero To Burp Suite Certified Practitioner aka BSCP : My journey and my tips ⚡ | JAIME | [Read More](https://medium.com/p/acbfc9dab8ab) |
 | Mon, 15 Sep 2025 13:54:42 GMT | Edge AI Unleashed: Real-Time Intelligence for IoT and Beyond in 2025 | Umesh Anjula | [Read More](https://medium.com/p/575dc1475556) |
-| Mon, 15 Sep 2025 13:52:06 GMT | Don’t Waste Your Time on Social Media or Fake Online Course!: | The Secret Researcher | [Read More](https://medium.com/p/febfc9cb21e4) |
-| Mon, 15 Sep 2025 13:50:00 GMT | How Smart Accounts and Account Abstraction Fit Together | Nilmi Sugandhika879 | [Read More](https://medium.com/p/11592ddfceb1) |
-| Mon, 15 Sep 2025 13:49:20 GMT | Zafiyet Yönetimi 101: Tespit, Analiz ve Önceliklendirme | Aykut Bayram | [Read More](https://medium.com/p/41dd66b1423b) |
-| Mon, 15 Sep 2025 13:49:15 GMT | How Frequently Should You Train Staff in Cybersecurity? | Renaissance Computer Services Limited | [Read More](https://medium.com/p/e819b8fe27bd) |
-| Mon, 15 Sep 2025 13:46:13 GMT | Blockchain Mixers Explained | AML You | [Read More](https://medium.com/p/4444fcce2f27) |
-| Mon, 15 Sep 2025 13:44:24 GMT | U.S. Senator Accuses Microsoft of Gross Cybersecurity Negligence | Suhas Valasala | [Read More](https://medium.com/p/d82239465cdd) |
-| Mon, 15 Sep 2025 13:43:27 GMT | Earn Buy PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc atm | Blackbox | [Read More](https://medium.com/p/bcea510f4b42) |
-| Mon, 15 Sep 2025 13:39:15 GMT | The Future of Web Development: Trends to Watch in 2025 | Alpha Array Technologies | [Read More](https://medium.com/p/4620f044e14f) |
-| Mon, 15 Sep 2025 13:39:06 GMT | Why Small Businesses Are Prime Targets for Cybercriminals | Cybersecurity Umbrella | [Read More](https://medium.com/p/840e1533098f) |
-| Mon, 15 Sep 2025 13:37:42 GMT | Threat Model: Malicious Packages | Danny | [Read More](https://medium.com/p/4f2840e56337) |
-| Mon, 15 Sep 2025 13:36:31 GMT | How to install disabled tamper.dev chrome extension V2 | Jigyarth Joshi | [Read More](https://medium.com/p/493038879a3a) |
-| Mon, 15 Sep 2025 13:36:01 GMT | How ChatGPT Could Leak Your Private Email Data | Jim Clyde Monge | [Read More](https://medium.com/p/411a293d5d01) |
-| Mon, 15 Sep 2025 13:34:38 GMT | 2023 — Quntam Computer in your home? | Shailendra Jain | [Read More](https://medium.com/p/915322889522) |
