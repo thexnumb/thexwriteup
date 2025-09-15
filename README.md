@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 11:03:29 GMT | TryHackMe: Squid Game — Attacker 2 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/b09f22ffb066) |
+| Mon, 15 Sep 2025 10:59:51 GMT | How Cybersecurity Monitoring & Alerting Services Prevent Digital Threats | Vijilan | [Read More](https://medium.com/p/2ecd8b4d61b1) |
+| Mon, 15 Sep 2025 10:54:11 GMT | TryHackMe: Squid Game — Attacker 1 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/bd080fd3ebb3) |
+| Mon, 15 Sep 2025 10:51:43 GMT | ☸️ Kubernetes Security Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/0ba4aca089f3) |
+| Mon, 15 Sep 2025 10:46:58 GMT | When Trends Turn Treacherous | Functioning Media University | [Read More](https://medium.com/p/c322d55a490e) |
+| Mon, 15 Sep 2025 10:41:40 GMT | Perpetual Inflation Won’t Save Your Blockchain | Christopher Bendiksen | [Read More](https://medium.com/p/b281705d50c8) |
+| Mon, 15 Sep 2025 10:38:19 GMT | Your First Client is a Gold Mine: How to Land Freelance Cybersecurity Work | Samina Perveen | [Read More](https://medium.com/p/3f7130ea9851) |
+| Mon, 15 Sep 2025 10:37:04 GMT | Multi-Layered Cybersecurity: From Remediation Services to Advanced XDR Solutions | Vijilan | [Read More](https://medium.com/p/f1a149ed0e4a) |
 | Mon, 15 Sep 2025 10:33:04 GMT | How VAPT Strengthens Cloud Network Security: Best Practices and Risks | West Advanced Technologies Inc | [Read More](https://medium.com/p/ed81e2c1cd9f) |
 | Mon, 15 Sep 2025 10:31:44 GMT | AI vs AI: The Security Arms Race Defining Mobile in 2025 | Abhii Dabas | [Read More](https://medium.com/p/90bfffeedfb2) |
 | Mon, 15 Sep 2025 10:29:17 GMT | Invite Only - TryHackMe | Sh3llsh0ck | [Read More](https://medium.com/p/d6dcb5d12617) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 06:40:39 GMT | Web Application Penetration Testing for Vulnerability Detection- Singapore | QualysecEurope | [Read More](https://medium.com/p/bf29fc42f435) |
 | Mon, 15 Sep 2025 06:34:02 GMT | Active Directory & Attactive Directory CTF Walkthrough:Explained | Okan | [Read More](https://medium.com/p/314f13e00975) |
 | Mon, 15 Sep 2025 06:31:46 GMT | I Had a Dream | Shownzy | [Read More](https://medium.com/p/af593b3cdb98) |
-| Mon, 15 Sep 2025 06:31:15 GMT | My Journey to OSCP/OSCP+ exam | Bikram kharal | [Read More](https://medium.com/p/8f1b046f0edd) |
-| Mon, 15 Sep 2025 06:31:06 GMT | Advantages of Using Video Surveillance and Cameras in Construction Sites | sweetydahiyaa146 | [Read More](https://medium.com/p/e2bd95fb6c3f) |
-| Mon, 15 Sep 2025 06:25:42 GMT | Why Kubernetes Security Matters for Pentesters (and How I’m Preparing for CKS) | Anvar | [Read More](https://medium.com/p/a15b769dab2e) |
-| Mon, 15 Sep 2025 06:21:19 GMT | Leading Against the Odds: Our Journey to 4th Place at the Dubai Cyber Challenge | Anvar | [Read More](https://medium.com/p/c8e99d89b54e) |
-| Mon, 15 Sep 2025 06:17:40 GMT | Web Zafiyetleri Serisi #2 | Didem Kış | [Read More](https://medium.com/p/6d3d85d01489) |
-| Mon, 15 Sep 2025 06:10:32 GMT | Automating Microsoft Graph Deployments Using Azure DevOps | Brian Veldman | [Read More](https://medium.com/p/9c9939e32c28) |
-| Mon, 15 Sep 2025 06:07:21 GMT | Cracking JWTs: From None Algorithm to Key Confusion | Anvar | [Read More](https://medium.com/p/60fbf89dfcdd) |
-| Mon, 15 Sep 2025 06:06:29 GMT | Ensuring Security in Docker Containers: Essential Practices | @rnab | [Read More](https://medium.com/p/4c3332d73aef) |
