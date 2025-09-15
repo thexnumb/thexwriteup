@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 19:04:53 GMT | Your Cybersecurity Skills Won’t Make You Rich — But This Quiet Side System Will | EHxAnomity | [Read More](https://medium.com/p/f43ea5c0c56d) |
+| Mon, 15 Sep 2025 19:01:30 GMT | ISO27001 — Pas de développement logiciel, voici la liste des contrôles non applicables | Patrick Boucher | [Read More](https://medium.com/p/549c48221398) |
+| Mon, 15 Sep 2025 18:59:20 GMT | How I Hacked My ISP’s IPTV Set-Top Box? | Madari | [Read More](https://medium.com/p/f1c6f49dab01) |
+| Mon, 15 Sep 2025 18:57:19 GMT | Bilgi Toplama | Ömer Kaan Kurt | [Read More](https://medium.com/p/092e5cef5745) |
+| Mon, 15 Sep 2025 18:54:05 GMT | Ethical hacking - penetration testing — Roadmap | Iserjaoui | [Read More](https://medium.com/p/a8a1e13021f4) |
+| Mon, 15 Sep 2025 18:50:12 GMT | RustyKey | Toshith | [Read More](https://medium.com/p/57951be30ed2) |
+| Mon, 15 Sep 2025 18:47:47 GMT | ISO 27000 vs. BSI IT-Grundschutz — Which Framework for Your Information Security? | Mike (sl0th0x87) | [Read More](https://medium.com/p/d440c61390f2) |
 | Mon, 15 Sep 2025 18:41:56 GMT | A Pesty Pest If There Ever Was One | Bruce Stambaugh | [Read More](https://medium.com/p/36494ca16c26) |
 | Mon, 15 Sep 2025 18:38:56 GMT | OSINT: What It Is and Why You Might Need It | Shohel Rana | [Read More](https://medium.com/p/0dc52c6facf1) |
 | Mon, 15 Sep 2025 18:38:52 GMT | Guide to Setup Android Pentesting Lab without a Physical Device | Arnav Vaidya | [Read More](https://medium.com/p/0e01b210446b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 14:29:34 GMT | Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single… | Chirag Vyas | [Read More](https://medium.com/p/cace8aba35c2) |
 | Mon, 15 Sep 2025 14:22:21 GMT | The Streaming Revolution: Unpacking the Over The Top (OTT) Services Market Size, Share & Industry… | techmarketinsights | [Read More](https://medium.com/p/604ca0e96799) |
 | Mon, 15 Sep 2025 14:20:05 GMT | Go 1.25.1 Dropped — The Patch Every Dev Must Install Now | Concurrent Mind | [Read More](https://medium.com/p/1722461d990d) |
-| Mon, 15 Sep 2025 14:19:49 GMT | 07CTF Write-up: The Legend of the No Ordinary Mountain | Nikhil Chaudhari | [Read More](https://medium.com/p/a0b6984a732d) |
-| Mon, 15 Sep 2025 14:17:33 GMT | LIBRARY-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/59fe781d5397) |
-| Mon, 15 Sep 2025 14:13:42 GMT | “I Got In!” Now What? Real Talk About Next Steps | SilentInject | [Read More](https://medium.com/p/e9628500ed1b) |
-| Mon, 15 Sep 2025 14:11:43 GMT | How to Install a Keyless Door Lock: Easy Installation Tips for a Secure Home | Sure Lock & Key LLC | [Read More](https://medium.com/p/a1407df06b53) |
-| Mon, 15 Sep 2025 14:11:43 GMT | Our ‘Temporary Hack’ Scaled Better Than Our Official Architecture | Byte Me Daily | [Read More](https://medium.com/p/832bbbe08d83) |
-| Mon, 15 Sep 2025 14:05:55 GMT | c0c0n CTF 2025 Writeup | Sheldon Menezes | [Read More](https://medium.com/p/97d6c66026f7) |
-| Mon, 15 Sep 2025 14:01:48 GMT | Converging IT and OT Security: Building a Unified Defense Strategy | Cyberkech | [Read More](https://medium.com/p/9ea73699c359) |
