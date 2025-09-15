@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 21:27:47 GMT | Top 5 Secure Phones to Consider in 2025: A Comprehensive Guide to Privacy & Safety | Officer's Notes | [Read More](https://medium.com/p/1988e18f945d) |
+| Mon, 15 Sep 2025 21:27:32 GMT | Hacker-Proof Your Home Lab Without Breaking the Bank | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/023b8b31bf01) |
+| Mon, 15 Sep 2025 21:21:45 GMT | Security, Scams, and Signals Etiquette | Jack Reddington | [Read More](https://medium.com/p/832a81667037) |
+| Mon, 15 Sep 2025 21:13:42 GMT | TryHackMe — Thompson | MD Shohanur Rahman | [Read More](https://medium.com/p/a9689ea52446) |
 | Mon, 15 Sep 2025 21:11:13 GMT | From Audit to Active Defense: Complete Smart Contract Security with Guardrail | Officer's Notes | [Read More](https://medium.com/p/ecb41ac68f1b) |
 | Mon, 15 Sep 2025 21:07:26 GMT | TryHackMe — Anthem | Cyber Anom | [Read More](https://medium.com/p/8f70e184231c) |
 | Mon, 15 Sep 2025 21:04:21 GMT | Tech Certs are Still Very In : Tips on the AWS Solutions Architect Associate | Shiko | [Read More](https://medium.com/p/61efc8a8eddb) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 15:44:30 GMT | Malware in IoT Devices: Hidden Risks Lurking in Your Smart Home | vydhi | [Read More](https://medium.com/p/435ef5d02ac4) |
 | Mon, 15 Sep 2025 15:43:04 GMT | What is Ethical Hacking and Why IT Professionals Need to Learn It | Varshika S | [Read More](https://medium.com/p/fefd0dd11948) |
 | Mon, 15 Sep 2025 15:42:52 GMT | Breaking Hardened Runtime | Karol Mazurek | [Read More](https://medium.com/p/e2a210d10e88) |
-| Mon, 15 Sep 2025 15:41:24 GMT | Introduction | Rahul Salunkhe | [Read More](https://medium.com/p/27696b4a296c) |
-| Mon, 15 Sep 2025 15:39:38 GMT | Why Crying in the Bathroom is a Universal Female Experience | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/3bb6416e8dce) |
-| Mon, 15 Sep 2025 15:38:55 GMT | K8s Container Security anywhere | Antonella Blasetti | [Read More](https://medium.com/p/c71397dd1d0e) |
-| Mon, 15 Sep 2025 15:33:08 GMT | Pasif Bilgi Toplama ve Wayback Machine Gücü | Berat Ünal | [Read More](https://medium.com/p/70d3afdf6071) |
