@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 20:08:53 GMT | My Virtual Cybersecurity Internship Experience with Datacom | Mateo Flores | [Read More](https://medium.com/p/acf180b57ed7) |
+| Mon, 15 Sep 2025 20:08:01 GMT | Cheese CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/85a52f661f9f) |
+| Mon, 15 Sep 2025 20:05:42 GMT | Swiss IKT Minimal Standard vs. FISMA — A Transatlantic Comparison of Cybersecurity Frameworks | Mike (sl0th0x87) | [Read More](https://medium.com/p/c8131db7fa51) |
+| Mon, 15 Sep 2025 19:59:14 GMT | 15 Cybersecurity Conferences in Hong Kong | Tal Eliyahu | [Read More](https://medium.com/p/6cb1b8cf7ef7) |
+| Mon, 15 Sep 2025 19:55:42 GMT | Monday Cyber Brief — September 15 2025 | Keaton (File Under Risk) | [Read More](https://medium.com/p/9bcf8571654a) |
+| Mon, 15 Sep 2025 19:51:35 GMT | Earn More with BUG BUG by following this step-by-step guide. | BUG | [Read More](https://medium.com/p/6209d158c1c5) |
+| Mon, 15 Sep 2025 19:51:21 GMT | WAF Bypass + XSS + Business Logic Flaw = Account Takeover | Ali Hussain | [Read More](https://medium.com/p/04577cb53b18) |
+| Mon, 15 Sep 2025 19:35:39 GMT | How Hackers Study Companies Before They Attack | Chris Zhang | [Read More](https://medium.com/p/c0b3e61317c3) |
+| Mon, 15 Sep 2025 19:32:29 GMT | Understanding OWASP Cloud-Native Top 10 | Shreya Watane | [Read More](https://medium.com/p/989c4702b708) |
 | Mon, 15 Sep 2025 19:21:25 GMT | The Linux Process Journey — depmod (Dependency Modules) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1fbedae1dec) |
 | Mon, 15 Sep 2025 19:19:38 GMT | Access Token ve Refresh Token | Uygar Eren | [Read More](https://medium.com/p/9d4f29870027) |
 | Mon, 15 Sep 2025 19:19:11 GMT | The $10 USB Kill Switch That Saves Your Gear | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/916821eee8ac) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 15:06:01 GMT | Modern Challenges and Risks for Symmetric and Asymmetric Encryption and Authentication in… | Igor Yanovskiy | [Read More](https://medium.com/p/7911900cb302) |
 | Mon, 15 Sep 2025 15:02:09 GMT | Ingress SSL Communication Patterns in Kubernetes | Sowmya | [Read More](https://medium.com/p/cf6509978f06) |
 | Mon, 15 Sep 2025 14:53:41 GMT | Pre-9/11 Skies: How Did We Ever Fly So Carelessly? | MythsAndMaybeNots | [Read More](https://medium.com/p/44d8b5f25aaa) |
-| Mon, 15 Sep 2025 14:48:36 GMT | Why Does Finding a Spouse Feel Harder Than Ever for Muslims Today? | NikahOne | [Read More](https://medium.com/p/2dcc26f2a80f) |
-| Mon, 15 Sep 2025 14:47:22 GMT | The $50K Email API Nightmare: Why Your “Simple” Gmail Integration Just Became a Compliance Hell | Dipali Shimpi | [Read More](https://medium.com/p/6071300b09b4) |
-| Mon, 15 Sep 2025 14:47:20 GMT | Cybersecurity Zero to Hero? Map Your Rise. | Authlyn | [Read More](https://medium.com/p/96564ef516ec) |
-| Mon, 15 Sep 2025 14:46:01 GMT | Best Parental Control Tool SentryPC: Empowering Online Security for Kids | Paul Meyer | [Read More](https://medium.com/p/3c911a97eb75) |
-| Mon, 15 Sep 2025 14:45:37 GMT | Day 3 — My Browser Engine Just Spoke to Google | Viratavi | [Read More](https://medium.com/p/4b652864f67c) |
-| Mon, 15 Sep 2025 14:45:03 GMT | Email Security: SPF, DKIM, DMARC? Explained Simply. | Truspex | [Read More](https://medium.com/p/3d60b06c7266) |
-| Mon, 15 Sep 2025 14:42:58 GMT | I missed a big opportunity today! | Chy Writes | [Read More](https://medium.com/p/f2eb85fa3685) |
-| Mon, 15 Sep 2025 14:40:31 GMT | How SOC Teams Detect Web Attacks - TryHackMe Detecting Web Attacks Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/777b9c4a12cd) |
-| Mon, 15 Sep 2025 14:39:57 GMT | Cybersecurity in Finance: Building the Digital Fort Knox | Amrik  Hanjra | [Read More](https://medium.com/p/e48cc684f745) |
