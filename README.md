@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 04:41:19 GMT | Reflections of Doom: How a Tiny DOM XSS Turned Into Complete Account Takeover | Iski | [Read More](https://medium.com/p/2318f116f257) |
+| Mon, 15 Sep 2025 04:31:31 GMT | Beginner’s Guide: API Pentesting with Postman + Burp | Blue_eye | [Read More](https://medium.com/p/fc2417b0c50a) |
 | Mon, 15 Sep 2025 04:16:45 GMT | You Searched for a Dev Tool. Google Served You Malware. | Aj | [Read More](https://medium.com/p/c2e3da8cd421) |
 | Mon, 15 Sep 2025 04:13:01 GMT | Systems Development & Methodologies | Sylvia Cycil | [Read More](https://medium.com/p/c04f4312a2a1) |
 | Mon, 15 Sep 2025 04:10:20 GMT | RST TI Report Digest: 15 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/a8c929c12fb6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 18:51:37 GMT | Hedef Sertifikalar | Gokhan Can | [Read More](https://medium.com/p/5534981b9543) |
 | Sun, 14 Sep 2025 18:51:36 GMT | ERASR: The Quiet Upgrade That Makes India’s Seas Safer | Gaurav Das | [Read More](https://medium.com/p/7bbca1cacd5b) |
 | Sun, 14 Sep 2025 18:51:33 GMT | Why Blue Teamers Should Play Offensive CTFs — Wicys member experience | lyna Ben yakoub | [Read More](https://medium.com/p/0371e167ea13) |
-| Sun, 14 Sep 2025 18:51:23 GMT | Cyber Security Details: From Novice to Expert | Cyber Security Research | [Read More](https://medium.com/p/e582985ef0eb) |
-| Sun, 14 Sep 2025 18:49:04 GMT | Achieving SOC Excellence: From Self-Assessment to Continuous Improvement | Sebastian Kandler | [Read More](https://medium.com/p/5ad72a5aca4f) |
