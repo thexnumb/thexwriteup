@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 05:29:10 GMT | The Linux Starter Pack: Everything You Need to Begin | Tanvi Chauhan | [Read More](https://medium.com/p/6d2a10b5c7c6) |
+| Mon, 15 Sep 2025 05:26:04 GMT | IT Support Services in Education Industries: Driving Digital Learning Success | POONAM KASAT | [Read More](https://medium.com/p/858bb71f2837) |
+| Mon, 15 Sep 2025 05:25:33 GMT | Why Every Business Needs Endpoint Security That Goes Beyond Antivirus | Kachi Akoma | [Read More](https://medium.com/p/df8cf845649c) |
 | Mon, 15 Sep 2025 05:14:34 GMT | Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File | Bassemwanies | [Read More](https://medium.com/p/51656593bbb9) |
+| Mon, 15 Sep 2025 05:14:24 GMT | Bug Bounty: Finding the testing focus by filtering for the amount of URL paths | smilemil | [Read More](https://medium.com/p/46eb7d65f8f0) |
 | Mon, 15 Sep 2025 05:08:18 GMT | 15. Bug Bounty Mindset: How to Think Like a Hacker | Abhijeet kumawat | [Read More](https://medium.com/p/9d3e413be5ab) |
 | Mon, 15 Sep 2025 05:07:05 GMT | top application security risks startups overlook and how to fix them | Techugo46 | [Read More](https://medium.com/p/219c0d52ca32) |
 | Mon, 15 Sep 2025 05:04:25 GMT | Deepfake Scams Are Getting Smarter: Can You Trust Your Eyes and Ears Anymore? | IamPreth | [Read More](https://medium.com/p/8c7fced43e4a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 19:30:35 GMT | Cross-site scripting | Usama Hanif | [Read More](https://medium.com/p/d4e55949be48) |
 | Sun, 14 Sep 2025 19:23:21 GMT | Maybe this year will just be a year. | Love, Yechi. | [Read More](https://medium.com/p/8c8230de87fe) |
 | Sun, 14 Sep 2025 19:21:36 GMT | OSINT: 07CTF Cookies | amer7x | [Read More](https://medium.com/p/17d24d5e5240) |
-| Sun, 14 Sep 2025 19:21:12 GMT | OSINT: Endless 07CTF | amer7x | [Read More](https://medium.com/p/89ae943c34b2) |
-| Sun, 14 Sep 2025 19:14:40 GMT | Linux Firewalls: iptables and nftables Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/c5bf4ce818a4) |
-| Sun, 14 Sep 2025 19:09:44 GMT | Week 6 of My 90-Day Challenge: Halfway and a Readjustment | Mike (sl0th0x87) | [Read More](https://medium.com/p/bd0f948d7dcb) |
-| Sun, 14 Sep 2025 19:06:41 GMT | Linux AppArmor: Confined Execution | Eren Cankut Uysal | [Read More](https://medium.com/p/65a9f9d2f49b) |
