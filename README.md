@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 17:36:22 GMT | Putin’s Democracy DDoSed: How Ukraine Hacked Russia’s Election Nerve Center | Emily Rhodes | [Read More](https://medium.com/p/c5f17279b6c5) |
+| Mon, 15 Sep 2025 17:31:12 GMT | NetSupport RAT analysis and with a path of Fake Captcha | Nirajbagde | [Read More](https://medium.com/p/dd9a4b67fcef) |
+| Mon, 15 Sep 2025 17:28:06 GMT | How to achieve your CEH Certification in first attempt. ‍ | Ebullient | [Read More](https://medium.com/p/ac774744d596) |
+| Mon, 15 Sep 2025 17:17:44 GMT | Why Senior Developers Always Validate Input (And How They Do It Right) | Syarif | [Read More](https://medium.com/p/eaf8e7a11050) |
+| Mon, 15 Sep 2025 17:11:59 GMT | How I Evaluate Cyber Security Consultants After 500+ Assessments: The UK Business Owner’s Reality… | Paul Reynolds | [Read More](https://medium.com/p/96e3fe0cb342) |
+| Mon, 15 Sep 2025 17:08:52 GMT | Sunday Reflection: A Personal Story on Why Compliance Without Culture Fails | Dr. Deep Pandey | [Read More](https://medium.com/p/19d8231099d5) |
 | Mon, 15 Sep 2025 17:08:01 GMT | 3D Motion Capturing System Market: Size, Share & Growth Drivers (2025–2032) | smartitinsights | [Read More](https://medium.com/p/e6e519b1c6fd) |
 | Mon, 15 Sep 2025 17:06:45 GMT | The Art of Running a Lean, Efficient IT Team | Ron | [Read More](https://medium.com/p/8208cafda958) |
 | Mon, 15 Sep 2025 17:06:11 GMT | Cyberattacks: What They Are, What They Target, and How They Impact Businesses | Jyoti Joshi | [Read More](https://medium.com/p/15445247445b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 13:36:31 GMT | How to install disabled tamper.dev chrome extension V2 | Jigyarth Joshi | [Read More](https://medium.com/p/493038879a3a) |
 | Mon, 15 Sep 2025 13:36:01 GMT | How ChatGPT Could Leak Your Private Email Data | Jim Clyde Monge | [Read More](https://medium.com/p/411a293d5d01) |
 | Mon, 15 Sep 2025 13:34:38 GMT | 2023 — Quntam Computer in your home? | Shailendra Jain | [Read More](https://medium.com/p/915322889522) |
-| Mon, 15 Sep 2025 13:34:16 GMT | 5 Data Visualization Techniques Every Finance Professional Must Know | Tanzila Tanjim | [Read More](https://medium.com/p/b0bfea944493) |
-| Mon, 15 Sep 2025 13:27:37 GMT | Cyber Security Training & Placement — Swhizz Technologies | Swhizztechnlogies | [Read More](https://medium.com/p/56fb473894d1) |
-| Mon, 15 Sep 2025 13:26:46 GMT | Microsoft September Updates Break SMBv1 Shares | Suhas Valasala | [Read More](https://medium.com/p/7d2cea3adbe4) |
-| Mon, 15 Sep 2025 13:25:21 GMT | Corporate Greed Chronicles: ConocoPhillips’ Altar of Greed Sacrifices Workers | Namir Sagheenanajar | [Read More](https://medium.com/p/4c61ecf0c043) |
-| Mon, 15 Sep 2025 13:24:31 GMT | Critical LangChainGo Vulnerability Let Attackers Access Sensitive Files by Injecting Malicious… | Jasmitharouthu | [Read More](https://medium.com/p/98f194cfc17d) |
-| Mon, 15 Sep 2025 13:24:09 GMT | Looking for secure options to move over $6,000 in USDT from OKX wallet — what do you suggest? | Joelle luxer | [Read More](https://medium.com/p/8cf8c652e7fa) |
