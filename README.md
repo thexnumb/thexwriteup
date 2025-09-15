@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 18:41:56 GMT | A Pesty Pest If There Ever Was One | Bruce Stambaugh | [Read More](https://medium.com/p/36494ca16c26) |
+| Mon, 15 Sep 2025 18:38:56 GMT | OSINT: What It Is and Why You Might Need It | Shohel Rana | [Read More](https://medium.com/p/0dc52c6facf1) |
+| Mon, 15 Sep 2025 18:38:52 GMT | Guide to Setup Android Pentesting Lab without a Physical Device | Arnav Vaidya | [Read More](https://medium.com/p/0e01b210446b) |
+| Mon, 15 Sep 2025 18:30:25 GMT | Learning Bug Bounty — Day 4: Exploring Burp Suite | Vikram Budania | [Read More](https://medium.com/p/aafb27c9b63b) |
+| Mon, 15 Sep 2025 18:26:54 GMT | Unlocking Your Digital Shield: The Ultimate Guide to a Cybersecurity and Ethical Hacking Course | Nitin Singh | [Read More](https://medium.com/p/8ef3d95598d7) |
+| Mon, 15 Sep 2025 18:26:50 GMT | Behind the Screens: My Journey Completing OSINT Projects on Fiverr $260 | Shohel Rana | [Read More](https://medium.com/p/f612b616b503) |
 | Mon, 15 Sep 2025 18:23:27 GMT | The Price of Fame: How Fake Meta Verified Extensions Hijack Accounts | Ashley Dai | [Read More](https://medium.com/p/663aa4507bbc) |
 | Mon, 15 Sep 2025 18:17:19 GMT | This Week’s Cyber Unraveling | Aj | [Read More](https://medium.com/p/a86aa33db688) |
 | Mon, 15 Sep 2025 18:16:40 GMT | Key Implementation Challenges in Deploying Zero Trust Network Access | James Das | [Read More](https://medium.com/p/aae2980560aa) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 14:11:43 GMT | Our ‘Temporary Hack’ Scaled Better Than Our Official Architecture | Byte Me Daily | [Read More](https://medium.com/p/832bbbe08d83) |
 | Mon, 15 Sep 2025 14:05:55 GMT | c0c0n CTF 2025 Writeup | Sheldon Menezes | [Read More](https://medium.com/p/97d6c66026f7) |
 | Mon, 15 Sep 2025 14:01:48 GMT | Converging IT and OT Security: Building a Unified Defense Strategy | Cyberkech | [Read More](https://medium.com/p/9ea73699c359) |
-| Mon, 15 Sep 2025 14:01:45 GMT | Cyber Briefing: 2025.09.15 | CyberMaterial | [Read More](https://medium.com/p/af99c05faab4) |
-| Mon, 15 Sep 2025 14:01:45 GMT | Guardians of Web3: The Movement Behind ABTU | Abatis ABTU | [Read More](https://medium.com/p/76946b259594) |
-| Mon, 15 Sep 2025 14:01:45 GMT | The Compiler Hack That Made AI Possible | The Cache Cowgirl | [Read More](https://medium.com/p/b1e438d4b10a) |
-| Mon, 15 Sep 2025 14:00:53 GMT | Gmail OAuth Enforcement Bypass 100$ deal. | Lakshya | [Read More](https://medium.com/p/4644a9a3ebe6) |
-| Mon, 15 Sep 2025 13:57:02 GMT | From Zero To Burp Suite Certified Practitioner aka BSCP : My journey and my tips ⚡ | JAIME | [Read More](https://medium.com/p/acbfc9dab8ab) |
-| Mon, 15 Sep 2025 13:54:42 GMT | Edge AI Unleashed: Real-Time Intelligence for IoT and Beyond in 2025 | Umesh Anjula | [Read More](https://medium.com/p/575dc1475556) |
