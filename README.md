@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 20:34:40 GMT | The Zero-Trust Revolution: Why Traditional Network Security is Dead (And What Replaced It) | Abdul Hannan | [Read More](https://medium.com/p/c54651e6dbca) |
+| Mon, 15 Sep 2025 20:20:34 GMT | The Elephant in The Biz: outsourcing of critical IT and cybersecurity functions risks UK economic… | Kevin Beaumont | [Read More](https://medium.com/p/96205e0585bf) |
+| Mon, 15 Sep 2025 20:18:40 GMT | The Illusion of Deletion: Why Your “Deleted” Data Never Really Disappears | DataDreamer7 | [Read More](https://medium.com/p/ffaaeb0933d1) |
 | Mon, 15 Sep 2025 20:08:53 GMT | My Virtual Cybersecurity Internship Experience with Datacom | Mateo Flores | [Read More](https://medium.com/p/acf180b57ed7) |
 | Mon, 15 Sep 2025 20:08:01 GMT | Cheese CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/85a52f661f9f) |
 | Mon, 15 Sep 2025 20:05:42 GMT | Swiss IKT Minimal Standard vs. FISMA — A Transatlantic Comparison of Cybersecurity Frameworks | Mike (sl0th0x87) | [Read More](https://medium.com/p/c8131db7fa51) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 15:11:25 GMT | “The Lazy Hacker’s Guide to $500 Information Disclosure Bugs” | Aman Sharma | [Read More](https://medium.com/p/b45f9472725e) |
 | Mon, 15 Sep 2025 15:11:03 GMT | You Don’t Need More Time To Learn. You Need a Learning System | Vijay Kumar Gupta | [Read More](https://medium.com/p/519b77eab97d) |
 | Mon, 15 Sep 2025 15:08:05 GMT | Why Ecosystem-Based Cybersecurity Works | Priyesh | [Read More](https://medium.com/p/1c8a5cd30833) |
-| Mon, 15 Sep 2025 15:06:01 GMT | Modern Challenges and Risks for Symmetric and Asymmetric Encryption and Authentication in… | Igor Yanovskiy | [Read More](https://medium.com/p/7911900cb302) |
-| Mon, 15 Sep 2025 15:02:09 GMT | Ingress SSL Communication Patterns in Kubernetes | Sowmya | [Read More](https://medium.com/p/cf6509978f06) |
-| Mon, 15 Sep 2025 14:53:41 GMT | Pre-9/11 Skies: How Did We Ever Fly So Carelessly? | MythsAndMaybeNots | [Read More](https://medium.com/p/44d8b5f25aaa) |
