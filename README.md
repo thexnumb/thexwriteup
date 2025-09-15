@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 04:16:45 GMT | You Searched for a Dev Tool. Google Served You Malware. | Aj | [Read More](https://medium.com/p/c2e3da8cd421) |
+| Mon, 15 Sep 2025 04:13:01 GMT | Systems Development & Methodologies | Sylvia Cycil | [Read More](https://medium.com/p/c04f4312a2a1) |
+| Mon, 15 Sep 2025 04:10:20 GMT | RST TI Report Digest: 15 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/a8c929c12fb6) |
+| Mon, 15 Sep 2025 03:59:44 GMT | Day 57- False Positives vs False Negatives in cybersecurity | unica 02 | [Read More](https://medium.com/p/fafd66a50bdd) |
+| Mon, 15 Sep 2025 03:55:49 GMT | Why It’s Okay to Feel Dumb While Learning Programming | Abhijit Dutta | [Read More](https://medium.com/p/e469e8236e5a) |
+| Mon, 15 Sep 2025 03:53:00 GMT | What is Identity Access Management (IAM)? A Beginner’s Guide | Ashwini Bhat S | [Read More](https://medium.com/p/6d312a4b8712) |
+| Mon, 15 Sep 2025 03:51:56 GMT | 0day Vulnerability Found in nginxWebUI: Remote Code Execution (RCE) Exploit | AerieWhole123 | [Read More](https://medium.com/p/04ded20f090f) |
 | Mon, 15 Sep 2025 03:32:01 GMT | The Digital Frontier: Navigating AI Advancements and Cybersecurity Threats | Akshat Ratanpal | [Read More](https://medium.com/p/17b4ba61f8d3) |
 | Mon, 15 Sep 2025 03:32:00 GMT | 6 Common JWT Token Theft Risks and Solutions | Arunangshu Das | [Read More](https://medium.com/p/1a918b61cdeb) |
 | Mon, 15 Sep 2025 03:32:00 GMT | When Smart Buses Get Hacked: The Hidden Risks Behind Connected Transport Systems | Deven Chhajed | [Read More](https://medium.com/p/e1cfe55d8c20) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Sep 2025 18:51:33 GMT | Why Blue Teamers Should Play Offensive CTFs — Wicys member experience | lyna Ben yakoub | [Read More](https://medium.com/p/0371e167ea13) |
 | Sun, 14 Sep 2025 18:51:23 GMT | Cyber Security Details: From Novice to Expert | Cyber Security Research | [Read More](https://medium.com/p/e582985ef0eb) |
 | Sun, 14 Sep 2025 18:49:04 GMT | Achieving SOC Excellence: From Self-Assessment to Continuous Improvement | Sebastian Kandler | [Read More](https://medium.com/p/5ad72a5aca4f) |
-| Sun, 14 Sep 2025 18:44:51 GMT | The Ultimate Cyber Security Details Checklist | Cyber Security Research | [Read More](https://medium.com/p/c273488377d6) |
-| Sun, 14 Sep 2025 18:39:05 GMT | A Developer’s Crash Course in Cryptography, Part 4: Information Theory and the Digital Revolution | Steinwendner Matthias | [Read More](https://medium.com/p/a799bb6064a9) |
-| Sun, 14 Sep 2025 18:38:39 GMT | Cyber Security Details: Staying Informed About New Threats | Cyber Security Research | [Read More](https://medium.com/p/f1bb6f596744) |
-| Sun, 14 Sep 2025 18:32:39 GMT | From “What the heck is Microservices?” to Google Pay Scale — My DevOps Learner Journey | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/65c3fa5ff0dd) |
-| Sun, 14 Sep 2025 18:31:26 GMT | The Ethics of Cyber Security: Details | Cyber Security Research | [Read More](https://medium.com/p/1c5fb9329ff8) |
-| Sun, 14 Sep 2025 18:26:20 GMT | 70+ Labs I Solved for OSCP and Which Ones You Should Focus On | Diasadin | [Read More](https://medium.com/p/cab3c7c8583f) |
-| Sun, 14 Sep 2025 18:25:21 GMT | Cyber Security Details: Navigating the Legal Landscape | Cyber Security Research | [Read More](https://medium.com/p/1937594352b8) |
