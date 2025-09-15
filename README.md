@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 23:27:05 GMT | Microsoft to force install the Microsoft 365 Copilot app in October | Bruno Agostinho | [Read More](https://medium.com/p/4bb5800459cd) |
+| Mon, 15 Sep 2025 23:21:36 GMT | SOC164 — Suspicious Mshta Behavior | Harshprajapati | [Read More](https://medium.com/p/9028527e3ac2) |
 | Mon, 15 Sep 2025 23:09:57 GMT | 40 Days SOC Analyst Challenge | Zainab in Tech | [Read More](https://medium.com/p/dab1e558a0b6) |
 | Mon, 15 Sep 2025 23:09:39 GMT | Dr. Bryson Payne: Lifetime Cybersecurity Achievement Award | Tyler Wall | [Read More](https://medium.com/p/47387b529fa1) |
 | Mon, 15 Sep 2025 23:06:06 GMT | I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  (5 Bugs… | K4r33m | [Read More](https://medium.com/p/cfc87f105144) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 16:55:02 GMT | Managing File Permissions in Linux Using chmod | Citadel Cybersec | [Read More](https://medium.com/p/f9e8ec7da248) |
 | Mon, 15 Sep 2025 16:51:15 GMT | (Tryhackme)- Rate Limits, OTPs, and JWTs — Breaking the Hammer CTF | Dair H | [Read More](https://medium.com/p/f1473194a089) |
 | Mon, 15 Sep 2025 16:49:27 GMT | HTB Sherlock:Pikaptcha | Serkan | [Read More](https://medium.com/p/fe30cc806ef2) |
-| Mon, 15 Sep 2025 16:44:59 GMT | Make CYBERSECURITY your ADDITION | ZEOS | [Read More](https://medium.com/p/bce958b55329) |
-| Mon, 15 Sep 2025 16:43:28 GMT | Cybersecurity in Pediatrics in 2025 | Gianluca Mondillo | [Read More](https://medium.com/p/727c14e1454c) |
