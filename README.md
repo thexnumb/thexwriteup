@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 16:39:47 GMT | Her Şey Injection — SQLi | Metin Ahmet Erkeleş | [Read More](https://medium.com/p/03519854162e) |
+| Mon, 15 Sep 2025 16:37:44 GMT | ISO 27000 vs. NIST CSF — Which Framework is Right for Your Cybersecurity? | Mike (sl0th0x87) | [Read More](https://medium.com/p/a2fc8a185724) |
+| Mon, 15 Sep 2025 16:36:34 GMT | Fixing the Git fatal: unable to access Error: SSL Certificate Problem (Self-Signed Certificate in… | Luca Berton | [Read More](https://medium.com/p/a5ad77cc78f7) |
+| Mon, 15 Sep 2025 16:31:37 GMT | Here’s what ISO 27001 Is — and Why You Should Care About Your Data Security | Josh Lee | [Read More](https://medium.com/p/2bc8fd59b1d0) |
+| Mon, 15 Sep 2025 16:30:01 GMT | Global EMC Filtration Market: Size, Share & Growth Trends (2025–2032) | smartitinsights | [Read More](https://medium.com/p/83f02ec34e77) |
+| Mon, 15 Sep 2025 16:24:27 GMT | Bypassing WAFs Like a Hacker‍♂️: Tricks Hackers Use | Vipul Sonule | [Read More](https://medium.com/p/be293c699af6) |
 | Mon, 15 Sep 2025 16:24:11 GMT | Best Treasury Management Systems for Banks: Features, Security, and Compliance | Kosh AI | [Read More](https://medium.com/p/973668b25e34) |
 | Mon, 15 Sep 2025 16:18:15 GMT | ✨ I’m pleased to share an exciting milestone. | Ray Islam, PhD | [Read More](https://medium.com/p/ee9c38c79553) |
 | Mon, 15 Sep 2025 16:16:09 GMT | How I’m Coding With AI for Free Right Now (Because Paying Isn’t Always an Option) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c85176c8029c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 13:01:46 GMT | Rules of Engagement (RoE) para Pentesting Interno en Clínica SanaVida | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/1eda30e88dc9) |
 | Mon, 15 Sep 2025 13:01:00 GMT | My thoughts on free SOC training (and how I’m gearing up for Singtel’s MSSP SOC) | Rohit | [Read More](https://medium.com/p/ab8e61a28cd1) |
 | Mon, 15 Sep 2025 12:59:11 GMT | Introduction to Cybersecurity — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/f1739a34dd65) |
-| Mon, 15 Sep 2025 12:53:44 GMT | The Future of Cybersecurity Jobs: Top Skills You’ll Need to Thrive in 2030 | vydhi | [Read More](https://medium.com/p/48dcc9f59642) |
-| Mon, 15 Sep 2025 12:52:08 GMT | Why I Don’t Trust Default Firewall Rules on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/307be2417f9c) |
-| Mon, 15 Sep 2025 12:51:51 GMT | How to Protect Yourself From Clipboard Hijacking | BELDEX | [Read More](https://medium.com/p/4aaf9e7de48f) |
-| Mon, 15 Sep 2025 12:44:34 GMT | Intro Rey | Biellreyluchaa | [Read More](https://medium.com/p/b022fc9b0fb5) |
-| Mon, 15 Sep 2025 12:43:19 GMT | Why ServiceNow integration is critical for future-proofing your it operation | Alex s | [Read More](https://medium.com/p/077fc63245d0) |
-| Mon, 15 Sep 2025 12:38:19 GMT | What is Cryptojacking ? — Dude Earned 48,000$ with NOTHING? | Hack Storage | [Read More](https://medium.com/p/07cd05bb34f7) |
