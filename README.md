@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Sep 2025 10:33:04 GMT | How VAPT Strengthens Cloud Network Security: Best Practices and Risks | West Advanced Technologies Inc | [Read More](https://medium.com/p/ed81e2c1cd9f) |
+| Mon, 15 Sep 2025 10:31:44 GMT | AI vs AI: The Security Arms Race Defining Mobile in 2025 | Abhii Dabas | [Read More](https://medium.com/p/90bfffeedfb2) |
+| Mon, 15 Sep 2025 10:29:17 GMT | Invite Only - TryHackMe | Sh3llsh0ck | [Read More](https://medium.com/p/d6dcb5d12617) |
+| Mon, 15 Sep 2025 10:22:19 GMT | ¿Y si la IA ya sabe engañar mejor que un humano? | Cyber-G | [Read More](https://medium.com/p/eaa79be6ed37) |
+| Mon, 15 Sep 2025 10:22:01 GMT | Commercial Fixed Gas Detector Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/873c8b2f4000) |
 | Mon, 15 Sep 2025 10:19:19 GMT | Hidden PHP Session Settings That Kill Stealth Leaks | Asian Digital Hub | [Read More](https://medium.com/p/25bec51051fb) |
 | Mon, 15 Sep 2025 10:17:53 GMT | Stop Treating Session Security Like an Afterthought in PHP | Asian Digital Hub | [Read More](https://medium.com/p/042da92ca29c) |
+| Mon, 15 Sep 2025 10:15:32 GMT | How AI Will Eliminate Human Error in Physical Security Architecture | Crystal Security | [Read More](https://medium.com/p/7dbff84d724f) |
 | Mon, 15 Sep 2025 10:14:50 GMT | Best IT Infrastructure Management Services In India - Optimize Your IT Operations | Gowthammathiew | [Read More](https://medium.com/p/1bb799a4da9a) |
 | Mon, 15 Sep 2025 10:13:19 GMT | What SMEs Need to Know About Ransomware in 2025 | Gaudell | [Read More](https://medium.com/p/07f4eb0981de) |
 | Mon, 15 Sep 2025 10:09:42 GMT | The State of Web Application Development in 2025 | Titanmecorp | [Read More](https://medium.com/p/464182dfa2d4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 06:10:32 GMT | Automating Microsoft Graph Deployments Using Azure DevOps | Brian Veldman | [Read More](https://medium.com/p/9c9939e32c28) |
 | Mon, 15 Sep 2025 06:07:21 GMT | Cracking JWTs: From None Algorithm to Key Confusion | Anvar | [Read More](https://medium.com/p/60fbf89dfcdd) |
 | Mon, 15 Sep 2025 06:06:29 GMT | Ensuring Security in Docker Containers: Essential Practices | @rnab | [Read More](https://medium.com/p/4c3332d73aef) |
-| Mon, 15 Sep 2025 06:04:36 GMT | Healthcheck in the Wild — How an Unauthenticated Endpoint Leaked Internal Server Details | Bassemwanies | [Read More](https://medium.com/p/0d4d4a3374ea) |
-| Mon, 15 Sep 2025 06:03:50 GMT | Your Dev Server Is Not Safe: The Hidden Danger of CSRF on Localhost | InstaTunnel | [Read More](https://medium.com/p/36fed5cf0e38) |
-| Mon, 15 Sep 2025 06:02:19 GMT | Sliding Screen Door Repair Tips for Fixing Common Problems | Gold Coast Security Screens | [Read More](https://medium.com/p/4af07b14aaf4) |
-| Mon, 15 Sep 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Sep 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6b42801cbe11) |
-| Mon, 15 Sep 2025 05:58:36 GMT | IAM, MFA, and SSO: The Triple Shield Your Digital Security Needs | John | [Read More](https://medium.com/p/80b68a93f73e) |
-| Mon, 15 Sep 2025 05:57:48 GMT | How AI Will Shape the Future of Hospitals in the Next Decade | Zuraiz Khan | [Read More](https://medium.com/p/af7a34edb376) |
