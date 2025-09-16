@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 01:18:34 GMT | What Led Me From Military Service and Entrepreneurship Into Technology | Eric Odom | [Read More](https://medium.com/p/a2a3fe118824) |
+| Tue, 16 Sep 2025 01:17:43 GMT | Perbedaan WiFi dan Data Seluler | Alzar Mahira | [Read More](https://medium.com/p/6970a754ca91) |
+| Tue, 16 Sep 2025 00:53:19 GMT | HTB: EscapeTwo | Ross Andrews | [Read More](https://medium.com/p/66b20fe52979) |
+| Tue, 16 Sep 2025 00:51:43 GMT | Malware Development with NIM — Process Hollowing (or the Art of Soul Transplant) | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/30326e0a2b5c) |
+| Tue, 16 Sep 2025 00:35:22 GMT | Tuesday Morning Threat Report: Sept 16, 2025 | Mark Maguire | [Read More](https://medium.com/p/68727cd37fa8) |
+| Tue, 16 Sep 2025 00:27:46 GMT | Apple Vision Pro and the Realities of EdTech “Revolutions” | Jagath Jayaprakash | [Read More](https://medium.com/p/4ad2056825b7) |
+| Tue, 16 Sep 2025 00:11:27 GMT | Make $50 Fast | Nate Bind | [Read More](https://medium.com/p/713d893bcfdc) |
+| Mon, 15 Sep 2025 23:47:29 GMT | Monsoon Whispers: Part 2 | Akshat Mittal | [Read More](https://medium.com/p/17bcc3e49a3b) |
+| Mon, 15 Sep 2025 23:37:22 GMT | Torch Search Engine: What It Is, How It Works, and Is It Safe? | Akshay Chauhan | [Read More](https://medium.com/p/fa1c8eda1eb8) |
+| Mon, 15 Sep 2025 23:31:45 GMT | Authentication and Authorization | TechieBot | [Read More](https://medium.com/p/2e8941ee1992) |
 | Mon, 15 Sep 2025 23:27:05 GMT | Microsoft to force install the Microsoft 365 Copilot app in October | Bruno Agostinho | [Read More](https://medium.com/p/4bb5800459cd) |
 | Mon, 15 Sep 2025 23:21:36 GMT | SOC164 — Suspicious Mshta Behavior | Harshprajapati | [Read More](https://medium.com/p/9028527e3ac2) |
 | Mon, 15 Sep 2025 23:09:57 GMT | 40 Days SOC Analyst Challenge | Zainab in Tech | [Read More](https://medium.com/p/dab1e558a0b6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 17:31:12 GMT | NetSupport RAT analysis and with a path of Fake Captcha | Nirajbagde | [Read More](https://medium.com/p/dd9a4b67fcef) |
 | Mon, 15 Sep 2025 17:28:06 GMT | How to achieve your CEH Certification in first attempt. ‍ | Ebullient | [Read More](https://medium.com/p/ac774744d596) |
 | Mon, 15 Sep 2025 17:17:44 GMT | Why Senior Developers Always Validate Input (And How They Do It Right) | Syarif | [Read More](https://medium.com/p/eaf8e7a11050) |
-| Mon, 15 Sep 2025 17:11:59 GMT | How I Evaluate Cyber Security Consultants After 500+ Assessments: The UK Business Owner’s Reality… | Paul Reynolds | [Read More](https://medium.com/p/96e3fe0cb342) |
-| Mon, 15 Sep 2025 17:08:52 GMT | Sunday Reflection: A Personal Story on Why Compliance Without Culture Fails | Dr. Deep Pandey | [Read More](https://medium.com/p/19d8231099d5) |
-| Mon, 15 Sep 2025 17:08:01 GMT | 3D Motion Capturing System Market: Size, Share & Growth Drivers (2025–2032) | smartitinsights | [Read More](https://medium.com/p/e6e519b1c6fd) |
-| Mon, 15 Sep 2025 17:06:45 GMT | The Art of Running a Lean, Efficient IT Team | Ron | [Read More](https://medium.com/p/8208cafda958) |
-| Mon, 15 Sep 2025 17:06:11 GMT | Cyberattacks: What They Are, What They Target, and How They Impact Businesses | Jyoti Joshi | [Read More](https://medium.com/p/15445247445b) |
-| Mon, 15 Sep 2025 17:00:48 GMT | I Cracked a JWT Secret and Became Admin | Humairah Adamu Sidi | [Read More](https://medium.com/p/cef26dca3b39) |
-| Mon, 15 Sep 2025 16:59:21 GMT | A Web Application Security Assessment of Vuln-Bank (Part 2) | Claire Iyara | [Read More](https://medium.com/p/0327ca14790c) |
-| Mon, 15 Sep 2025 16:55:02 GMT | Managing File Permissions in Linux Using chmod | Citadel Cybersec | [Read More](https://medium.com/p/f9e8ec7da248) |
-| Mon, 15 Sep 2025 16:51:15 GMT | (Tryhackme)- Rate Limits, OTPs, and JWTs — Breaking the Hammer CTF | Dair H | [Read More](https://medium.com/p/f1473194a089) |
-| Mon, 15 Sep 2025 16:49:27 GMT | HTB Sherlock:Pikaptcha | Serkan | [Read More](https://medium.com/p/fe30cc806ef2) |
