@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 15:08:06 GMT | Game Over? Nope. Instant Replay, Anyone? | SilentInject | [Read More](https://medium.com/p/f6a6c65d10ff) |
+| Tue, 16 Sep 2025 15:07:39 GMT | The Weight of an Unsent Message | Heart Letters from Akanksha | [Read More](https://medium.com/p/4ae8f61f799c) |
+| Tue, 16 Sep 2025 15:05:25 GMT | Build Dynamic Image Transformations with Filestack | Idera Dev Tools | [Read More](https://medium.com/p/d0489268ab08) |
+| Tue, 16 Sep 2025 15:04:42 GMT | AI pentesting from robo burglar tactics to cyber red teaming | Berend Watchus | [Read More](https://medium.com/p/b0be60441f93) |
+| Tue, 16 Sep 2025 15:04:38 GMT | Vulnerability | RADIANT ROOTING | [Read More](https://medium.com/p/1cdd731dcb1b) |
+| Tue, 16 Sep 2025 15:04:25 GMT | Your Smart Home Is a Hacker’s Open Door! | Santhosh Kumar | [Read More](https://medium.com/p/03ecdb781c8f) |
+| Tue, 16 Sep 2025 15:02:54 GMT | Drive-Thrus, Kitchens & AI: How Quick Service Restaurants Are Raising the Bar on Safety | Tec-Tel Communications | [Read More](https://medium.com/p/97e2c6acd933) |
+| Tue, 16 Sep 2025 14:59:31 GMT | This Is Why Hackers Fear the Spring Security FilterChain | PraveenCodes | [Read More](https://medium.com/p/0b7be02e92b7) |
+| Tue, 16 Sep 2025 14:59:25 GMT | From Pixels to Privacy: Using OCR + Microsoft Presidio to Redact Sensitive Data in ID Cards | Kiell Tampubolon | [Read More](https://medium.com/p/e46df9fce26b) |
+| Tue, 16 Sep 2025 14:52:22 GMT | 2025년 4월 SK텔레콤 침해사고 | Crowndaisy | [Read More](https://medium.com/p/6bb0e78acdd7) |
+| Tue, 16 Sep 2025 14:50:40 GMT | CraxsRat latest version 7.7 download link | CraxsRat | [Read More](https://medium.com/p/70e346367760) |
+| Tue, 16 Sep 2025 14:48:32 GMT | The rise of biometric spoofing: How hackers fool your fingerprint. | Blandin Joseph | [Read More](https://medium.com/p/01e12cb148b6) |
+| Tue, 16 Sep 2025 14:46:43 GMT | The Curse of Knowledge: The Danger of Studying Too Much | Vijay Kumar Gupta | [Read More](https://medium.com/p/3d85aaacc0df) |
+| Tue, 16 Sep 2025 14:45:41 GMT | The Night, a Single Click Nearly ruined my Career — Why Every Journalist should have a VPN by 2025. | rohan kumar | [Read More](https://medium.com/p/ecf48d61612b) |
+| Tue, 16 Sep 2025 14:44:23 GMT | ISO 27001 for Startups: How to Know When It’s Time to Get Certified | Hicomply | [Read More](https://medium.com/p/619cdcbb6677) |
 | Tue, 16 Sep 2025 14:39:23 GMT | Big Data : Instalasi Apache Hadoop dan Apache Spark | Yasa Wijaya | [Read More](https://medium.com/p/bf231723e7fc) |
 | Tue, 16 Sep 2025 14:36:56 GMT | Zero Trust? More Like Zero Understanding. | Truspex | [Read More](https://medium.com/p/a28435738c5b) |
 | Tue, 16 Sep 2025 14:36:07 GMT | No, I’m not a Human best Indie, Simulation Game For Windows | Saifalrehmans | [Read More](https://medium.com/p/2ec376c53008) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 11:05:12 GMT | The Next 3 Years in Cybersecurity: What’s Changing Fast (2025–2028) | Naved Anjum | [Read More](https://medium.com/p/a9b20cb4ec51) |
 | Tue, 16 Sep 2025 11:04:35 GMT | What Linux File Permissions Really Mean (A Practical Guide) | Pratham Deora | [Read More](https://medium.com/p/7e84adabb0a7) |
 | Tue, 16 Sep 2025 11:03:45 GMT | HTTP in Detail | Hassan Muhammad | [Read More](https://medium.com/p/b3cb2ebf3f85) |
-| Tue, 16 Sep 2025 11:01:44 GMT | Apple iPhone 17 and iPhone Air: Security Gets a Boost | Brittney Ginther | [Read More](https://medium.com/p/d6a3d6a0bfb6) |
-| Tue, 16 Sep 2025 10:58:26 GMT | Zivver, “Zero-Knowledge” en de Kiteworks-overname: wat klopt er echt? | V.A. (Victor) Angelier BSc. pre-MSc. | [Read More](https://medium.com/p/23892803201a) |
-| Tue, 16 Sep 2025 10:57:44 GMT | ☁️ Cloud Security: Vulnerabilities on AWS | Esra Kayhan | [Read More](https://medium.com/p/4fc452636762) |
-| Tue, 16 Sep 2025 10:55:57 GMT | Nessus vs Metasploit A Practical Comparison for Vulnerability Assessment and Exploitation | Jasmitharouthu | [Read More](https://medium.com/p/4d5a7497c0cf) |
-| Tue, 16 Sep 2025 10:52:07 GMT | The Biggest Cyber Mistakes People Make Daily | Nagaraj | [Read More](https://medium.com/p/1cf99420859a) |
-| Tue, 16 Sep 2025 10:51:38 GMT | My Experience at The Hackers Meetup: WordPress Security | St0tRaa | [Read More](https://medium.com/p/8ffe86b5e380) |
-| Tue, 16 Sep 2025 10:47:42 GMT | From 2GB Bloat to 150MB Beast: The Docker Multi-Stage Revolution You’re Missing | Shekharsomani | [Read More](https://medium.com/p/99719c480f86) |
-| Tue, 16 Sep 2025 10:46:54 GMT | The AI Memory Bleed: 12 Proofs That Can’t Be Ignored | Damian Ketting | [Read More](https://medium.com/p/ed9329f75ef6) |
-| Tue, 16 Sep 2025 10:46:13 GMT | Ligolo-ng: The Art of Presence Rather Than Being Present. | Eziyo | [Read More](https://medium.com/p/cfb122d69704) |
-| Tue, 16 Sep 2025 10:41:34 GMT | So You Think Red Teaming Wins? Why Purple Teaming Actually Pays the Bills | Yua Mikanana | [Read More](https://medium.com/p/a994fba0bbce) |
-| Tue, 16 Sep 2025 10:40:20 GMT | How a Smart Kiosk Machine Boosts Efficiency Across Multiple Sectors | Rakesh | [Read More](https://medium.com/p/fe56e980a8c3) |
-| Tue, 16 Sep 2025 10:35:37 GMT | DockerLabs Writeup — File (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fab12e43e5cd) |
-| Tue, 16 Sep 2025 10:23:17 GMT | The Cloud is More Than Storage: A Guide for Aussie Businesses to Unlock Strategic Growth | Secure Nerds | [Read More](https://medium.com/p/413bfeb5046d) |
-| Tue, 16 Sep 2025 10:21:25 GMT | Syndika x QuillAudits: Building a Secure Foundation for Web3 Startups | Syndika | [Read More](https://medium.com/p/2ff49dfd4b3d) |
-| Tue, 16 Sep 2025 10:19:32 GMT | 30-day Windows 10 exit plan: inventory, prioritize, secure, migrate | Pentest_Testing_Corp | [Read More](https://medium.com/p/bfef5520ad0e) |
