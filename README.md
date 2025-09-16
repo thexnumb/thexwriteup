@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 20:40:03 GMT | The Night a $60 Million Bug Changed How I Code Forever | David Eugene | [Read More](https://medium.com/p/e817277ccc3b) |
+| Tue, 16 Sep 2025 20:33:41 GMT | Stop Calling Offensive Security Professionals “Hackers” | Onurcan Genç | [Read More](https://medium.com/p/8ca2f3b7eacc) |
+| Tue, 16 Sep 2025 20:32:20 GMT | The $689K American Wake-Up Call: How a Former Employee Exposed Financial Giant’s Darkest Security… | Cyber Summaries | [Read More](https://medium.com/p/8211fdb58bf0) |
+| Tue, 16 Sep 2025 20:25:27 GMT | How Blind XSS Leading to Sensitive Token Disclosure | Yahia Ibrahim khamis | [Read More](https://medium.com/p/813c6c6a48d6) |
 | Tue, 16 Sep 2025 20:12:04 GMT | Building an On-Premise Active Directory Infrastructure from Scratch(Part 3: Organizing Your Domain… | Florence Nwizugbe | [Read More](https://medium.com/p/f51a89220574) |
 | Tue, 16 Sep 2025 20:05:07 GMT | How to Analyze Phishing Emails: Headers, Content & URLs (Beginner’s Guide) | LinAs | [Read More](https://medium.com/p/4727cdb6b344) |
 | Tue, 16 Sep 2025 19:58:54 GMT | MostereRAT: The Trojan That Turns One Click Into Full System Control | Ashley Dai | [Read More](https://medium.com/p/1c97c41b35fe) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 15:22:12 GMT | ANN Search: The Hidden Accelerator of AI Hallucinations | Elad Golan | [Read More](https://medium.com/p/c033e7ca32bb) |
 | Tue, 16 Sep 2025 15:17:43 GMT | “NIST CSF in Practice: Integration, Resources & Risk Communication (Part-2)” | Pragati gupta | [Read More](https://medium.com/p/ad6e6daef628) |
 | Tue, 16 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/fcc68dcff954) |
-| Tue, 16 Sep 2025 15:08:06 GMT | Game Over? Nope. Instant Replay, Anyone? | SilentInject | [Read More](https://medium.com/p/f6a6c65d10ff) |
-| Tue, 16 Sep 2025 15:07:39 GMT | The Weight of an Unsent Message | Heart Letters from Akanksha | [Read More](https://medium.com/p/4ae8f61f799c) |
-| Tue, 16 Sep 2025 15:05:25 GMT | Build Dynamic Image Transformations with Filestack | Idera Dev Tools | [Read More](https://medium.com/p/d0489268ab08) |
-| Tue, 16 Sep 2025 15:04:42 GMT | AI pentesting from robo burglar tactics to cyber red teaming | Berend Watchus | [Read More](https://medium.com/p/b0be60441f93) |
