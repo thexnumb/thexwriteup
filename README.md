@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 17:15:16 GMT | AWS S3 Presigned URLs vs Multer: A Developer’s Guide to Efficient File Uploads | Samuel Ndubuisi | [Read More](https://medium.com/p/d094f7388e27) |
+| Tue, 16 Sep 2025 17:08:34 GMT | Still Worried About Trust When Outsourcing Errands? | Errandaar | [Read More](https://medium.com/p/f17c240afb9f) |
+| Tue, 16 Sep 2025 17:03:41 GMT | E-mail from Amazon.ca | Bob Malin | [Read More](https://medium.com/p/4ff9965dc498) |
+| Tue, 16 Sep 2025 17:02:28 GMT | Building Your First Cybersecurity Lab A Hacker’s Playground | Fateyaly | [Read More](https://medium.com/p/a217a2301a99) |
+| Tue, 16 Sep 2025 17:01:49 GMT | How Smartechor Builds Secure and Scalable Applications | Smartechor | [Read More](https://medium.com/p/35bc2e3d22f5) |
+| Tue, 16 Sep 2025 16:57:55 GMT | From Subdomain Scan to Hall of Fame | Anupam Masih | [Read More](https://medium.com/p/1542f20c78e4) |
+| Tue, 16 Sep 2025 16:54:50 GMT | The Future of Cybersecurity, IT, GRC, and Project Management Roles (2025–2045) | David ONeal | [Read More](https://medium.com/p/2c250506fa06) |
+| Tue, 16 Sep 2025 16:53:01 GMT | Exploiting Zero-Day (CVE-2025–9961) in the TP-Link AX10 Router | David | [Read More](https://medium.com/p/8745f9af9c46) |
+| Tue, 16 Sep 2025 16:43:38 GMT | Biggest Crypto Hacks of 2025 (So Far) | Krypto Insides | [Read More](https://medium.com/p/9d1f58590c32) |
+| Tue, 16 Sep 2025 16:41:34 GMT | Email from “Social Security Administration” with a reply back to an email at the University of… | Bob Malin | [Read More](https://medium.com/p/1144bb2799c2) |
 | Tue, 16 Sep 2025 16:36:42 GMT | ️ HIDS Uncovered: The Security Guard Living Inside Your Computer | Natarajan C K | [Read More](https://medium.com/p/1b260749d875) |
 | Tue, 16 Sep 2025 16:30:43 GMT | The Masks We Wear | Varnika | [Read More](https://medium.com/p/dfba441e677a) |
 | Tue, 16 Sep 2025 16:27:01 GMT | Life as an MSc Cybersecurity Student at NCI, Ireland: My Journey & Reflections | Prateekpulastya | [Read More](https://medium.com/p/58298dcf7a69) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 13:05:41 GMT | C0c0n CTF 2025 Writeup | Fathijem | [Read More](https://medium.com/p/a7ad0ea45cbc) |
 | Tue, 16 Sep 2025 13:04:36 GMT | The Future of Doors: Will Keys Exist in 2030? | Discreet solution Pvt ltd | [Read More](https://medium.com/p/d96e1b756434) |
 | Tue, 16 Sep 2025 13:03:46 GMT | Dead Reset Fight Zombies in Apocalyptic World | Saifalrehmans | [Read More](https://medium.com/p/178f0de1198d) |
-| Tue, 16 Sep 2025 13:01:57 GMT | 5 Non‑Negotiable Laravel Security Practices Developers Must Follow | Coder Manjeet | [Read More](https://medium.com/p/35b9c29e70df) |
-| Tue, 16 Sep 2025 13:01:53 GMT | Zapad 2025 — Russia and Belarus Flex Military Muscle | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/d354452c6201) |
-| Tue, 16 Sep 2025 13:00:46 GMT | Manage Secrets of Your Kubernetes Platform at Scale with GitOps | S3CloudHub | [Read More](https://medium.com/p/d0f7d2ac973d) |
-| Tue, 16 Sep 2025 12:55:44 GMT | OffSec: Hokkaido— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/f17d2a59e505) |
-| Tue, 16 Sep 2025 12:53:44 GMT | INE-eCTHPv3 (Certified Threat Hunting Professional)證照心得分享 | segalee | [Read More](https://medium.com/p/c908f05c132b) |
-| Tue, 16 Sep 2025 12:51:45 GMT | Two Books, One Lesson: Building a GenAI Brand That Lasts | Tola Bavery | [Read More](https://medium.com/p/bfd3c719f2b1) |
-| Tue, 16 Sep 2025 12:42:21 GMT | Benchmarking Against ZTA, CIS, and NIST Standards: How to Get Started. | Skysecure Technologies | [Read More](https://medium.com/p/e2a3b1a7974a) |
-| Tue, 16 Sep 2025 12:36:42 GMT | Day-4 How I got a 9.8 CVSS score for a 4.4 bug — the power of presentation | Viratavi | [Read More](https://medium.com/p/4cd9f4dd4173) |
-| Tue, 16 Sep 2025 12:28:07 GMT | How Smart Accounts Are Reinventing The Web3 Wallet | Lahiru890 | [Read More](https://medium.com/p/174364b1f038) |
-| Tue, 16 Sep 2025 12:24:53 GMT | When Defense Becomes the Target: The Alarming Rise of Multi-Billion Packet DDoS Attacks | Technijian | [Read More](https://medium.com/p/76ffe3153240) |
