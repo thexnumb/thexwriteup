@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 16:26:18 GMT | Mr. Robot: Hacking the System, Hacking the Self | Tugrul Cavusoglu | [Read More](https://medium.com/p/18858bcbdd85) |
+| Tue, 16 Sep 2025 16:24:20 GMT | Hack the Box — Union — WriteUp | Emre A. | [Read More](https://medium.com/p/f88e8721739c) |
+| Tue, 16 Sep 2025 16:23:42 GMT | VPN Explained: What It Is and Why You Should Use One | VS Writes | [Read More](https://medium.com/p/e34ef97f9d4e) |
+| Tue, 16 Sep 2025 16:20:48 GMT | Cybersecurity Compliance: What It Means for UK Businesses | CyberSure | [Read More](https://medium.com/p/55e82c1e8ad1) |
+| Tue, 16 Sep 2025 16:12:43 GMT | Deepsearch & Reliable AI Agents Under Pressure : Operational recipes to build failure‑resilient AI… | Florian PERROT | [Read More](https://medium.com/p/5e003a60f94f) |
+| Tue, 16 Sep 2025 16:08:33 GMT | The Hack That Stole 147 Million Identities: Equifax’s 2017 Nightmare | Umesh Anjula | [Read More](https://medium.com/p/cfb0da7b61dd) |
+| Tue, 16 Sep 2025 16:07:11 GMT | Unified AI Frameworks: The Next Leap in Creative Collaboration (2025) | Arpit Kumawat | [Read More](https://medium.com/p/e251cabe3566) |
+| Tue, 16 Sep 2025 16:03:05 GMT | The Quiet Click: When Trust Turns Against You | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/67af817a0ec4) |
+| Tue, 16 Sep 2025 16:01:59 GMT | Back on Track: Diving Deep into macOS and iOS Security | Junior Mateus | [Read More](https://medium.com/p/59a4fed31aea) |
+| Tue, 16 Sep 2025 15:58:13 GMT | Cracking the OWASP Juice Shop — My Story of Finding Vulnerabilities | Abdullah Al Ahad | [Read More](https://medium.com/p/b3797fc3eae4) |
+| Tue, 16 Sep 2025 15:51:58 GMT | Understanding Active Directory Architecture — Explained with Mumbai Local Trains | Suhel Kathi | [Read More](https://medium.com/p/ff5fd8e60e7c) |
+| Tue, 16 Sep 2025 15:51:00 GMT | The Role of Employee Awareness in Successful Cybersecurity Strategies | Ehsanm135 | [Read More](https://medium.com/p/2c4c6ef62486) |
+| Tue, 16 Sep 2025 15:49:06 GMT | TryHackMe: Simple CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/77f52d168c46) |
+| Tue, 16 Sep 2025 15:46:07 GMT | Pemrograman Dasar Mikrokontroler: Laporan | Zifa Tea Azzahra | [Read More](https://medium.com/p/91348cefe95d) |
 | Tue, 16 Sep 2025 15:33:01 GMT | The Day JavaScript’s Package Manager Was Hijacked | Tushar Kanjariya | [Read More](https://medium.com/p/f120fc681d72) |
 | Tue, 16 Sep 2025 15:32:11 GMT | HIRE A HACKER FOR CRYPTO SCAM RECOVERY SERVICES, CALL MALICE CYBER RECOVERY THEY CAN HELP | Andreas Muller | [Read More](https://medium.com/p/6500fe2a50de) |
 | Tue, 16 Sep 2025 15:29:26 GMT | WARNING: Your Phone Just Got Kidnapped! Is YOUR Data Being Held for Ransom? | Santhosh Kumar | [Read More](https://medium.com/p/34aef70d6686) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 12:11:45 GMT | Microsoft Under Fire: Senator Demands FTC Investigation Over Security Failures | Technijian | [Read More](https://medium.com/p/9da7881df8d1) |
 | Tue, 16 Sep 2025 12:10:51 GMT | WinHub-Controller | Root | [Read More](https://medium.com/p/a63969bef5bb) |
 | Tue, 16 Sep 2025 12:09:18 GMT | The Future of Outsourced Software Development Services in 2025 | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dbbe50fe5a8e) |
-| Tue, 16 Sep 2025 12:00:57 GMT | Best Web Hosting for Government Websites in 2025 | Arshdeep Kaur | [Read More](https://medium.com/p/aa3f89d47da7) |
-| Tue, 16 Sep 2025 11:57:22 GMT | UNITED STATES DISTRICT COURT NORTHERN DISTRICT OF CALIFORNIA SAN JOSE DIVISION | Kristaps Upenieks | [Read More](https://medium.com/p/8bdfa70d70a7) |
-| Tue, 16 Sep 2025 11:57:02 GMT | Why Cybersecurity Matters in 2025 | The Cyber Ledger | [Read More](https://medium.com/p/dfbba94bd2a0) |
-| Tue, 16 Sep 2025 11:55:05 GMT | Digital Privacy in the Modern Age: Why Protecting Your Data Matters | Hugo Daniel Schuartzman - הוגו דניאל שוורצמן | [Read More](https://medium.com/p/d2f217cb576d) |
-| Tue, 16 Sep 2025 11:54:29 GMT | Hackers + AI: The Unholy Alliance That’s Already Here | Ch4lkP0wd3r | [Read More](https://medium.com/p/9f2fb626d4a0) |
-| Tue, 16 Sep 2025 11:52:21 GMT | Indonesia at 80: Free Meals Today, Strength Tomorrow? | Denny Simanjuntak | [Read More](https://medium.com/p/0b2a95a810ef) |
-| Tue, 16 Sep 2025 11:51:08 GMT | Beautiful Benevolence | Malcolm Cox | [Read More](https://medium.com/p/bc79a04898cc) |
-| Tue, 16 Sep 2025 11:44:29 GMT | All You Need to Know About the DPDP Act 2025 - Indian Data Privacy Act | The Quiet Hacker | [Read More](https://medium.com/p/2a3ae7f8a128) |
-| Tue, 16 Sep 2025 11:38:37 GMT | Chris Ruden — Inspiring Change Management Speaker | Chrisruden | [Read More](https://medium.com/p/cb20014ffc63) |
-| Tue, 16 Sep 2025 11:34:24 GMT | Why Ethical AI Is Impossible | ethX | [Read More](https://medium.com/p/9f70d62c73ae) |
-| Tue, 16 Sep 2025 11:33:34 GMT | Inventing a moonshot enterprise for reversing the ecological crises | Erik Kvam | [Read More](https://medium.com/p/470b7960b503) |
-| Tue, 16 Sep 2025 11:33:31 GMT | The Unfiltered 2025 Guide to Web Pentesting & Bug Bounties: From Zero to Hired | Saumadip Mandal | [Read More](https://medium.com/p/24b3ffb10bc9) |
-| Tue, 16 Sep 2025 11:28:45 GMT | Visitor Management at Scale: Fixing Security Gaps in Corporate HQs | Joven A Rodrigues | [Read More](https://medium.com/p/29b8b90d38a0) |
-| Tue, 16 Sep 2025 11:28:43 GMT | Best AI Startup Ideas to Run a Profitable Business in 2025 | ai business ideas | [Read More](https://medium.com/p/29107d818c0c) |
