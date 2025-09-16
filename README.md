@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 13:46:06 GMT | Unlocking the Lock: Access Control Vulnerabilities in Smart Contracts | ZerΔch | [Read More](https://medium.com/p/efd2953810d8) |
+| Tue, 16 Sep 2025 13:44:47 GMT | The Hidden Access Crisis in SaaS & AI: Key Insights from CloudEagle’s Latest Webinar | CloudEagle | [Read More](https://medium.com/p/184d9b9a68e3) |
+| Tue, 16 Sep 2025 13:37:22 GMT | Complete Guide to File Uploads in Next.js — AWS S3, Presigned URLs & Dropzone | Supun jayalath | [Read More](https://medium.com/p/adb7a60d318c) |
+| Tue, 16 Sep 2025 13:33:45 GMT | Smart Contract Post-exploit Analysis: How to find what happened, how and why | Joe LeFever | [Read More](https://medium.com/p/9e4e5bc6a30b) |
+| Tue, 16 Sep 2025 13:31:45 GMT | How to Program a Garage Door Remote to a Car: Quick Step-by-Step Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/4c846d486b8e) |
+| Tue, 16 Sep 2025 13:30:36 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/d0a34535a354) |
 | Tue, 16 Sep 2025 13:24:43 GMT | One Number, One Change: How I Took Over an Account Using Local Storage | eSecForte Technologies | [Read More](https://medium.com/p/afe59c5d2f7e) |
+| Tue, 16 Sep 2025 13:23:38 GMT | Top Software Development Services in 2025 | Macromodule Technologies | [Read More](https://medium.com/p/d5ba9a8db269) |
 | Tue, 16 Sep 2025 13:21:31 GMT | Heads Up: Hunting a Malicious Discord Invite Only — TryHackMe — Walkthrough️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/07cb9d74027a) |
 | Tue, 16 Sep 2025 13:21:22 GMT | Why MDR is Crucial for Modern Cybersecurity | Lipika | [Read More](https://medium.com/p/bc334ce4ec92) |
 | Tue, 16 Sep 2025 13:20:58 GMT | How All Pass Hub’s Audit Trails Strengthen Security & Collaboration | Password Manager | [Read More](https://medium.com/p/b83fb59303ee) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 09:16:33 GMT | How Telecoms Can Accelerate Innovation with DevSecOps and AI | Practical DevSecOps | [Read More](https://medium.com/p/6504a2306d65) |
 | Tue, 16 Sep 2025 09:15:15 GMT | What Are Passkeys | EOLO | [Read More](https://medium.com/p/3f6303b62a88) |
 | Tue, 16 Sep 2025 09:08:58 GMT | Day 9 — Opening the Gates: Port Forwarding, Triggering & DMZ for Hackers | Priyansh | [Read More](https://medium.com/p/8636e19cbca6) |
-| Tue, 16 Sep 2025 09:02:29 GMT | Think Your Patient Data Is Safe? Think Again. | Redfox Security | [Read More](https://medium.com/p/d609f18430cd) |
-| Tue, 16 Sep 2025 09:01:49 GMT | The AI Arms Race in Your Supply Chain: How Artificial Intelligence is Weaponising Trust | Paul Sherman | [Read More](https://medium.com/p/ea6e5fd0d59a) |
-| Tue, 16 Sep 2025 08:58:12 GMT | Google’s Law Enforcement Portal Breach: A Wake-Up Call for Digital Security in the Modern Age | Cyber Summaries | [Read More](https://medium.com/p/696c7fb33154) |
-| Tue, 16 Sep 2025 08:55:41 GMT | AI-Powered Cyber Security Courses: The Digital Guardians of Tomorrow | Marketerjoseph | [Read More](https://medium.com/p/d83ba627f626) |
-| Tue, 16 Sep 2025 08:43:19 GMT | Data Encryption : securing your data | Georges Awono | [Read More](https://medium.com/p/0d3d39ec9814) |
-| Tue, 16 Sep 2025 08:36:36 GMT | Bug Bounty: Bypass — Forgot Password Verification | Defidev | [Read More](https://medium.com/p/69bb8935fb98) |
-| Tue, 16 Sep 2025 08:33:18 GMT | What I Learned From a Bug That Fixed Itself (and Why You Should Take More Breaks) | Ravi Savaliya | [Read More](https://medium.com/p/dd17f862cb22) |
