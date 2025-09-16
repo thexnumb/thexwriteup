@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 15:33:01 GMT | The Day JavaScript’s Package Manager Was Hijacked | Tushar Kanjariya | [Read More](https://medium.com/p/f120fc681d72) |
+| Tue, 16 Sep 2025 15:32:11 GMT | HIRE A HACKER FOR CRYPTO SCAM RECOVERY SERVICES, CALL MALICE CYBER RECOVERY THEY CAN HELP | Andreas Muller | [Read More](https://medium.com/p/6500fe2a50de) |
+| Tue, 16 Sep 2025 15:29:26 GMT | WARNING: Your Phone Just Got Kidnapped! Is YOUR Data Being Held for Ransom? | Santhosh Kumar | [Read More](https://medium.com/p/34aef70d6686) |
+| Tue, 16 Sep 2025 15:27:28 GMT | AI on the Line: How Smart Safety Is Transforming Modern Manufacturing | Tec-Tel Communications | [Read More](https://medium.com/p/fc9a582773a8) |
+| Tue, 16 Sep 2025 15:25:49 GMT | Microsoft’s September Patch Tuesday 86 Vulnerabilities: Why You Need to Patch Now | IT_Engineer | [Read More](https://medium.com/p/b4f8367b9f29) |
+| Tue, 16 Sep 2025 15:24:17 GMT | Největší hrozbou jsou obyčejné podvody: phishing a sociální inženýrství! | Cyber Solution | [Read More](https://medium.com/p/47d62fd44870) |
+| Tue, 16 Sep 2025 15:22:12 GMT | ANN Search: The Hidden Accelerator of AI Hallucinations | Elad Golan | [Read More](https://medium.com/p/c033e7ca32bb) |
+| Tue, 16 Sep 2025 15:17:43 GMT | “NIST CSF in Practice: Integration, Resources & Risk Communication (Part-2)” | Pragati gupta | [Read More](https://medium.com/p/ad6e6daef628) |
+| Tue, 16 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/fcc68dcff954) |
 | Tue, 16 Sep 2025 15:08:06 GMT | Game Over? Nope. Instant Replay, Anyone? | SilentInject | [Read More](https://medium.com/p/f6a6c65d10ff) |
 | Tue, 16 Sep 2025 15:07:39 GMT | The Weight of an Unsent Message | Heart Letters from Akanksha | [Read More](https://medium.com/p/4ae8f61f799c) |
 | Tue, 16 Sep 2025 15:05:25 GMT | Build Dynamic Image Transformations with Filestack | Idera Dev Tools | [Read More](https://medium.com/p/d0489268ab08) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 11:33:31 GMT | The Unfiltered 2025 Guide to Web Pentesting & Bug Bounties: From Zero to Hired | Saumadip Mandal | [Read More](https://medium.com/p/24b3ffb10bc9) |
 | Tue, 16 Sep 2025 11:28:45 GMT | Visitor Management at Scale: Fixing Security Gaps in Corporate HQs | Joven A Rodrigues | [Read More](https://medium.com/p/29b8b90d38a0) |
 | Tue, 16 Sep 2025 11:28:43 GMT | Best AI Startup Ideas to Run a Profitable Business in 2025 | ai business ideas | [Read More](https://medium.com/p/29107d818c0c) |
-| Tue, 16 Sep 2025 11:18:05 GMT | How to Renew an SSL Certificate for Your Website | Smit Pipaliya | [Read More](https://medium.com/p/ff59a183e620) |
-| Tue, 16 Sep 2025 11:17:59 GMT | Beyond the Datasheet: What UART and Firmware Revealed Inside a Hikvision IoT Camera | Aaronjjose | [Read More](https://medium.com/p/66503173027d) |
-| Tue, 16 Sep 2025 11:17:54 GMT | TryHackMe: Squid Game — Attacker 5 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/6e90d335fc82) |
-| Tue, 16 Sep 2025 11:17:05 GMT | TryHackMe: Squid Game — Attacker 4 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d8452d52554a) |
-| Tue, 16 Sep 2025 11:14:35 GMT | Kubernetes Taints & Tolerations — The Gatekeepers of Scheduling | Ankitha Rao | [Read More](https://medium.com/p/043230bfe2f6) |
-| Tue, 16 Sep 2025 11:09:29 GMT | WhatsApp Chat: Is It Really Private? Messenger App Safety in 2025: What You Should Know | Bobby Andrews | [Read More](https://medium.com/p/41a263e1dd17) |
-| Tue, 16 Sep 2025 11:05:12 GMT | The Next 3 Years in Cybersecurity: What’s Changing Fast (2025–2028) | Naved Anjum | [Read More](https://medium.com/p/a9b20cb4ec51) |
-| Tue, 16 Sep 2025 11:04:35 GMT | What Linux File Permissions Really Mean (A Practical Guide) | Pratham Deora | [Read More](https://medium.com/p/7e84adabb0a7) |
-| Tue, 16 Sep 2025 11:03:45 GMT | HTTP in Detail | Hassan Muhammad | [Read More](https://medium.com/p/b3cb2ebf3f85) |
