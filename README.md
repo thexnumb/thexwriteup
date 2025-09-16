@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 03:18:58 GMT | The Conscience of a Diplomat: To Serve or Not to Serve a Tyrannical Leader | James Louis Bruno | [Read More](https://medium.com/p/97348fe8dbb0) |
+| Tue, 16 Sep 2025 03:16:22 GMT | TryHackMe - AppSec IR | Samuel McLamb | [Read More](https://medium.com/p/df83753fdff0) |
+| Tue, 16 Sep 2025 03:04:46 GMT | The Secret Python Trick That Made My Machine Learning Models 10x Faster | Rizqi Mulki | [Read More](https://medium.com/p/a2b930d0c227) |
+| Tue, 16 Sep 2025 03:02:38 GMT | Day 58- Raising Awareness: Why my company using Internet Explorer mode which could be dangerous | unica 02 | [Read More](https://medium.com/p/4753424304c2) |
+| Tue, 16 Sep 2025 03:01:51 GMT | Kubilius Warns Russia Could Strike Within 3–4 Years, Drone Attacks Expose NATO Gaps | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/dce370f22b03) |
+| Tue, 16 Sep 2025 02:56:50 GMT | The iPad Was Free — So Was Access to My Data | Sriman Swarup, MD, MBA | [Read More](https://medium.com/p/3094e825f152) |
+| Tue, 16 Sep 2025 02:49:49 GMT | PostgreSQL vs DuckDB: Surprising Performance Results in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/92751716b359) |
+| Tue, 16 Sep 2025 02:46:23 GMT | Locked Out of the Future: | Thomas Holt Russell, III | [Read More](https://medium.com/p/67be486ff2cf) |
 | Tue, 16 Sep 2025 02:43:51 GMT | 5 Reasons MySQL Is No Longer Worth Using in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/0e73e167ab04) |
+| Tue, 16 Sep 2025 02:43:30 GMT | Apple’s War Against Spyware | Izaak Maine | [Read More](https://medium.com/p/f0ee74b40c21) |
 | Tue, 16 Sep 2025 02:36:24 GMT | MariaDB 10x Faster Than MySQL? Truth or Hype? | Rizqi Mulki | [Read More](https://medium.com/p/8b04ec2c7a14) |
 | Tue, 16 Sep 2025 02:31:45 GMT | Inside a SOC: 15 Real Attacks Analysts Stop Every Single Day | Paritosh | [Read More](https://medium.com/p/83d5b1abf0ee) |
 | Tue, 16 Sep 2025 02:31:27 GMT | Is MySQL Dead? Why Everyone Is Moving to MariaDB | Rizqi Mulki | [Read More](https://medium.com/p/b06d09f6dc57) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 18:38:52 GMT | Guide to Setup Android Pentesting Lab without a Physical Device | Arnav Vaidya | [Read More](https://medium.com/p/0e01b210446b) |
 | Mon, 15 Sep 2025 18:30:25 GMT | Learning Bug Bounty — Day 4: Exploring Burp Suite | Vikram Budania | [Read More](https://medium.com/p/aafb27c9b63b) |
 | Mon, 15 Sep 2025 18:26:54 GMT | Unlocking Your Digital Shield: The Ultimate Guide to a Cybersecurity and Ethical Hacking Course | Nitin Singh | [Read More](https://medium.com/p/8ef3d95598d7) |
-| Mon, 15 Sep 2025 18:26:50 GMT | Behind the Screens: My Journey Completing OSINT Projects on Fiverr $260 | Shohel Rana | [Read More](https://medium.com/p/f612b616b503) |
-| Mon, 15 Sep 2025 18:23:27 GMT | The Price of Fame: How Fake Meta Verified Extensions Hijack Accounts | Ashley Dai | [Read More](https://medium.com/p/663aa4507bbc) |
-| Mon, 15 Sep 2025 18:17:19 GMT | This Week’s Cyber Unraveling | Aj | [Read More](https://medium.com/p/a86aa33db688) |
-| Mon, 15 Sep 2025 18:16:40 GMT | Key Implementation Challenges in Deploying Zero Trust Network Access | James Das | [Read More](https://medium.com/p/aae2980560aa) |
-| Mon, 15 Sep 2025 18:15:23 GMT | Monero’s Battle: The Fortress of Privacy Under Siege | KeyboardSamurai | [Read More](https://medium.com/p/756cf65b31b2) |
-| Mon, 15 Sep 2025 18:12:26 GMT | AI for Cybersecurity: The Attacker Has an AI. Do You? | noailabs | [Read More](https://medium.com/p/4849b515aa70) |
-| Mon, 15 Sep 2025 18:11:40 GMT | Praktikum Internet of Things (Tugas): Pemrograman Dasar Mikrokontroler | Muhammad Surya Saputro | [Read More](https://medium.com/p/3d86c896144f) |
-| Mon, 15 Sep 2025 18:02:01 GMT | Account Takeover vía endpoint de reset password: cuando el sistema te regala el acceso | Gorka | [Read More](https://medium.com/p/2f5b619edfb8) |
-| Mon, 15 Sep 2025 18:01:10 GMT | Malicious Mcp Servers Used In Supply-chain Attacks | Yaniv | [Read More](https://medium.com/p/ad1ea33a7781) |
