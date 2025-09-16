@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 06:28:31 GMT | India’s Alarming Rise of ‘Digital Arrest’ Scams: A Multi-Billion Rupee Cyber Threat | Athishsagarkishan | [Read More](https://medium.com/p/1f1b844dc4d8) |
+| Tue, 16 Sep 2025 06:25:48 GMT | Smartbi Login Bypass Vulnerability — Patch Now Before RCE Risks | Quella | [Read More](https://medium.com/p/965fc0826a9d) |
+| Tue, 16 Sep 2025 06:22:50 GMT | Top 5 Domain and IP Intelligence Tools in OSINT | Inter3209 | [Read More](https://medium.com/p/79a21f517f1f) |
+| Tue, 16 Sep 2025 06:17:59 GMT | Linux Security Exploitation: Understanding Vulnerabilities | Eren Cankut Uysal | [Read More](https://medium.com/p/1f7532925860) |
+| Tue, 16 Sep 2025 06:15:39 GMT | How to Perform Web Application Penetration Testing in 2025 | Qualysec | [Read More](https://medium.com/p/0bdd09ae089c) |
+| Tue, 16 Sep 2025 06:11:09 GMT | The Daily Tech Digest: 16 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/756fd53ead3e) |
+| Tue, 16 Sep 2025 06:07:39 GMT | Battery Health Management — The Longevity Code | ppy-co | [Read More](https://medium.com/p/905a8f72aba4) |
+| Tue, 16 Sep 2025 06:02:11 GMT | Open-Source S3 Alternatives- Introduction To MinIO | Prince Krampah | [Read More](https://medium.com/p/3e55571eeffb) |
+| Tue, 16 Sep 2025 06:01:47 GMT | Rust’s Big Moment: 5 Reasons Tech Titans Switched | Syntal | [Read More](https://medium.com/p/1c8ca4ed7836) |
+| Tue, 16 Sep 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Sep 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4c023b4f1f54) |
+| Tue, 16 Sep 2025 05:54:33 GMT | Code Your Future: Data Science vs. Cybersecurity | Eimtonline | [Read More](https://medium.com/p/f0f8f208f8cc) |
+| Tue, 16 Sep 2025 05:53:04 GMT | Stop Common SSH Mistakes: Hardening Tips for Every Linux Sysadmin | Pawan Natekar | [Read More](https://medium.com/p/3da4013e59e1) |
+| Tue, 16 Sep 2025 05:50:38 GMT | Maintain Secure Online with Proxy Servers for Cybersecurity | swiftproxy | [Read More](https://medium.com/p/722d4a72038f) |
+| Tue, 16 Sep 2025 05:48:50 GMT | Memory Forensics: A Step-by-Step Methodology | Dean | [Read More](https://medium.com/p/4d6ac8aeeef2) |
 | Tue, 16 Sep 2025 05:36:23 GMT | The Future of Passwordless Authentication in 2025 | Techlio | [Read More](https://medium.com/p/2cda986fbe80) |
 | Tue, 16 Sep 2025 05:32:45 GMT | Cyber Security Details: Managing Digital Identities | Cyber Security Research | [Read More](https://medium.com/p/3be078739a02) |
 | Tue, 16 Sep 2025 05:32:42 GMT | The Anatomy of a Ransomware Attack: Details | Cyber Security Research | [Read More](https://medium.com/p/010c385ac0d6) |
@@ -23,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 05:31:11 GMT | The Importance of Threat Intelligence: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/eb4fb535a54b) |
 | Tue, 16 Sep 2025 05:31:08 GMT | Cyber Security Details: Protecting Intellectual Property | Cyber Security Research | [Read More](https://medium.com/p/d9bb4817d288) |
 | Tue, 16 Sep 2025 05:31:05 GMT | The Cybersecurity Details Guide for Beginners | Cyber Security Research | [Read More](https://medium.com/p/a4f8690557ee) |
+| Tue, 16 Sep 2025 05:30:52 GMT | Cyber Security Details: Investigating Cyber Crimes | Cyber Security Research | [Read More](https://medium.com/p/fe5a4e80c836) |
 | Tue, 16 Sep 2025 05:06:28 GMT | PaloAlto Firewall Course — Configure, Automate & Secure Hybrid Networks | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/bddfd1755c38) |
 | Tue, 16 Sep 2025 04:53:44 GMT | Web shell upload via path traversal (Portswigger Lab Walkthrough) | Cybernerddd | [Read More](https://medium.com/p/dc009a66c350) |
 | Tue, 16 Sep 2025 04:50:37 GMT | TO BECOME A SOC EXPERT(DAY-4) | vulnhunter | [Read More](https://medium.com/p/54d9ba95acee) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 21:34:57 GMT | Cloudflare Thwarts Largest DDoS Attack in History | Aj | [Read More](https://medium.com/p/6a1faca6416d) |
 | Mon, 15 Sep 2025 21:34:21 GMT | Violent Attack Vectors in Web3: A Detailed Review | Officer's Notes | [Read More](https://medium.com/p/46afb031fe2d) |
 | Mon, 15 Sep 2025 21:31:33 GMT | What Data Infostealers Revealed About North Korea’s Cyber Warriors | David SEHYEON Baek | [Read More](https://medium.com/p/07809b7a598a) |
-| Mon, 15 Sep 2025 21:27:47 GMT | Top 5 Secure Phones to Consider in 2025: A Comprehensive Guide to Privacy & Safety | Officer's Notes | [Read More](https://medium.com/p/1988e18f945d) |
-| Mon, 15 Sep 2025 21:27:32 GMT | Hacker-Proof Your Home Lab Without Breaking the Bank | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/023b8b31bf01) |
-| Mon, 15 Sep 2025 21:21:45 GMT | Security, Scams, and Signals Etiquette | Jack Reddington | [Read More](https://medium.com/p/832a81667037) |
-| Mon, 15 Sep 2025 21:13:42 GMT | TryHackMe — Thompson | MD Shohanur Rahman | [Read More](https://medium.com/p/a9689ea52446) |
-| Mon, 15 Sep 2025 21:11:13 GMT | From Audit to Active Defense: Complete Smart Contract Security with Guardrail | Officer's Notes | [Read More](https://medium.com/p/ecb41ac68f1b) |
-| Mon, 15 Sep 2025 21:07:26 GMT | TryHackMe — Anthem | Cyber Anom | [Read More](https://medium.com/p/8f70e184231c) |
-| Mon, 15 Sep 2025 21:04:21 GMT | Tech Certs are Still Very In : Tips on the AWS Solutions Architect Associate | Shiko | [Read More](https://medium.com/p/61efc8a8eddb) |
-| Mon, 15 Sep 2025 21:03:38 GMT | Unstoppable.money: The Ultimate Crypto Wallet for Privacy and Security | Officer's Notes | [Read More](https://medium.com/p/94763e573e6b) |
-| Mon, 15 Sep 2025 21:02:01 GMT | Rebase Tokens, Rounding Errors & DoS Attacks: Unraveling the Mystery | Officer's Notes | [Read More](https://medium.com/p/e9a3f6b4a963) |
-| Mon, 15 Sep 2025 20:55:32 GMT | How I Got My First Valid Bug (and Yes, It Was Just a ') | Harshilsecops | [Read More](https://medium.com/p/7347f5d2a120) |
-| Mon, 15 Sep 2025 20:50:09 GMT | Mastering Kubernetes Multi-Tenancy: From Namespaces to Virtual Clusters | Salwan Mohamed | [Read More](https://medium.com/p/491205d3e909) |
-| Mon, 15 Sep 2025 20:48:09 GMT | The Zero-Day Heist: A Technical Breakdown of a Fictional Cyber Attack | Shahzaib | [Read More](https://medium.com/p/09bb928206b6) |
-| Mon, 15 Sep 2025 20:48:09 GMT | Top Thought Leading Cybersecurity Companies in 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/2603406b8e71) |
-| Mon, 15 Sep 2025 20:48:01 GMT | How Pen Testers Really Break In: The Methodology Behind the Breach | Aj | [Read More](https://medium.com/p/6ed525492048) |
-| Mon, 15 Sep 2025 20:47:56 GMT | Expert Search Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/c713230545bc) |
