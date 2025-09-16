@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 09:28:39 GMT | Letters to the Fear That Fell Asleep on My Desk | SuccessBlueprints.Org | [Read More](https://medium.com/p/2231ff297ec8) |
+| Tue, 16 Sep 2025 09:27:04 GMT | Deep Dive into ClickFix Attack Chain | Ophelia | [Read More](https://medium.com/p/769f42b66c26) |
+| Tue, 16 Sep 2025 09:26:44 GMT | From Gmail to Gmàil: How a Tiny Dot Led to complete account takeover | Muhammad Saad KHAN | [Read More](https://medium.com/p/3abd2565047f) |
+| Tue, 16 Sep 2025 09:23:41 GMT | The Digital Fortress: A Modern Aussie Business’s Guide to Cybersecurity in the Cloud | Geeks Sydney | [Read More](https://medium.com/p/6876b2595587) |
+| Tue, 16 Sep 2025 09:18:15 GMT | Post-Quantum Cryptography: Preparing Your Applications for the Quantum Future | Orami | [Read More](https://medium.com/p/1952efb85412) |
 | Tue, 16 Sep 2025 09:16:45 GMT | Why AI Security Needs Continuous Red Teaming | Practical DevSecOps | [Read More](https://medium.com/p/98f65e1e047b) |
 | Tue, 16 Sep 2025 09:16:33 GMT | How Telecoms Can Accelerate Innovation with DevSecOps and AI | Practical DevSecOps | [Read More](https://medium.com/p/6504a2306d65) |
 | Tue, 16 Sep 2025 09:15:15 GMT | What Are Passkeys | EOLO | [Read More](https://medium.com/p/3f6303b62a88) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 04:14:40 GMT | Shodan vs ZoomEye Query Syntax Comparison | Inter3209 | [Read More](https://medium.com/p/91fb1d54b6d1) |
 | Tue, 16 Sep 2025 04:08:58 GMT | Gemini Pro’s Student Verification Loophole: A Bug, or a Feature? | Skjasimuddin | [Read More](https://medium.com/p/f2d425d33925) |
 | Tue, 16 Sep 2025 03:58:08 GMT | What Anxiety Taught Me About Being Human: A Journey of Self-Discovery | Senorita Eugenia | [Read More](https://medium.com/p/45d99a125fb8) |
-| Tue, 16 Sep 2025 03:57:38 GMT | Stop Writing Tests (Do This Instead for 10x Results) | Coding Ninja | [Read More](https://medium.com/p/1935bde0cdd7) |
-| Tue, 16 Sep 2025 03:52:48 GMT | What Three Attempts at the OSCP Taught Me | Liam Huynh | [Read More](https://medium.com/p/a67c436ae9ee) |
-| Tue, 16 Sep 2025 03:39:31 GMT | Cybersecurity in 2025: Why German Businesses Still Face Critical IT Security Challenges | Sarmin Islam | [Read More](https://medium.com/p/31f2c11dd915) |
-| Tue, 16 Sep 2025 03:37:34 GMT | Weekly Cyber Intelligence Brief Global Threats & Breaches | Finstein.ai | [Read More](https://medium.com/p/7db98fa56ac6) |
-| Tue, 16 Sep 2025 03:32:30 GMT | VexTrio Exposed: How a 15-Year-Old Operation Hijacks Everyday Browsing | Deven Chhajed | [Read More](https://medium.com/p/698bf9566e71) |
