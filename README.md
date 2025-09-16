@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 19:31:03 GMT | TryHackMe’s What Is Networking Write-Up | Paulo Melo | [Read More](https://medium.com/p/ebf0b9a15010) |
+| Tue, 16 Sep 2025 19:27:42 GMT | [Part 5] Top 10 Cyber Resilience Act Compliance Challenges (and How to Overcome Them) | Cyberkech | [Read More](https://medium.com/p/085f539788c6) |
+| Tue, 16 Sep 2025 19:21:31 GMT | Climbing the Pyramid of Pain: Turning Cyber Threats Into Attacker Headaches | Amrik  Hanjra | [Read More](https://medium.com/p/86ade5cea9a5) |
+| Tue, 16 Sep 2025 19:15:42 GMT | The Sneaky Threat You Haven’t Heard Of: Chain-of-Thought Transfer Attacks | Deepanshu | [Read More](https://medium.com/p/281152ed52d1) |
 | Tue, 16 Sep 2025 19:13:27 GMT | First Time Blue Team Con? Here’s What I Learned (Round 2) | Nico | [Read More](https://medium.com/p/c4ec9352ef30) |
 | Tue, 16 Sep 2025 19:09:00 GMT | OWASP Top 10 for LLM Apps (2025) — Survival Guide for Builders & Blue Teams ⚡ | Aditya Bhatt | [Read More](https://medium.com/p/a1bf83cb0bf4) |
 | Tue, 16 Sep 2025 19:01:48 GMT | An Expert Analysis of the Parallels Between Agentic AI and Cobrowse | SamesurfAI | [Read More](https://medium.com/p/ceb10f392115) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 14:46:43 GMT | The Curse of Knowledge: The Danger of Studying Too Much | Vijay Kumar Gupta | [Read More](https://medium.com/p/3d85aaacc0df) |
 | Tue, 16 Sep 2025 14:45:41 GMT | The Night, a Single Click Nearly ruined my Career — Why Every Journalist should have a VPN by 2025. | rohan kumar | [Read More](https://medium.com/p/ecf48d61612b) |
 | Tue, 16 Sep 2025 14:44:23 GMT | ISO 27001 for Startups: How to Know When It’s Time to Get Certified | Hicomply | [Read More](https://medium.com/p/619cdcbb6677) |
-| Tue, 16 Sep 2025 14:39:23 GMT | Big Data : Instalasi Apache Hadoop dan Apache Spark | Yasa Wijaya | [Read More](https://medium.com/p/bf231723e7fc) |
-| Tue, 16 Sep 2025 14:36:56 GMT | Zero Trust? More Like Zero Understanding. | Truspex | [Read More](https://medium.com/p/a28435738c5b) |
-| Tue, 16 Sep 2025 14:36:07 GMT | No, I’m not a Human best Indie, Simulation Game For Windows | Saifalrehmans | [Read More](https://medium.com/p/2ec376c53008) |
-| Tue, 16 Sep 2025 14:36:00 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and “PromptLock: The World’s First AI-Powered… | Nitin Garg | [Read More](https://medium.com/p/66df979afe0f) |
