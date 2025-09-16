@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 20:12:04 GMT | Building an On-Premise Active Directory Infrastructure from Scratch(Part 3: Organizing Your Domain… | Florence Nwizugbe | [Read More](https://medium.com/p/f51a89220574) |
+| Tue, 16 Sep 2025 20:05:07 GMT | How to Analyze Phishing Emails: Headers, Content & URLs (Beginner’s Guide) | LinAs | [Read More](https://medium.com/p/4727cdb6b344) |
+| Tue, 16 Sep 2025 19:58:54 GMT | MostereRAT: The Trojan That Turns One Click Into Full System Control | Ashley Dai | [Read More](https://medium.com/p/1c97c41b35fe) |
+| Tue, 16 Sep 2025 19:52:10 GMT | Think Alexa Isn’t Listening? Think Again | Your's Nightmare | [Read More](https://medium.com/p/38476cf0fde3) |
+| Tue, 16 Sep 2025 19:48:52 GMT | What is a data diode? | Petr Roupec | [Read More](https://medium.com/p/231084f1d359) |
+| Tue, 16 Sep 2025 19:46:26 GMT | How AI Chat Bot Help Me To Hack The Website | Yahia Ibrahim khamis | [Read More](https://medium.com/p/632e6afd1b35) |
+| Tue, 16 Sep 2025 19:45:26 GMT | Why I’m Launching My Own Cybersecurity Academy and Moving Away From Udemy | Taimur Ijlal | [Read More](https://medium.com/p/f0470da28339) |
+| Tue, 16 Sep 2025 19:44:59 GMT | Ransomware (Fidye Yazılımları) Nedir, Nasıl Korunulur? | Gökçe köknel | [Read More](https://medium.com/p/91228d10fa17) |
+| Tue, 16 Sep 2025 19:43:18 GMT | “ Investigative Reversing 2 “ challenge | oussama | [Read More](https://medium.com/p/08fa110c7f89) |
+| Tue, 16 Sep 2025 19:43:01 GMT | The Spark: When a Simple Question Met My First ML Model | Ninshuti | [Read More](https://medium.com/p/da709ed55a71) |
+| Tue, 16 Sep 2025 19:39:27 GMT | How to build a bank p1: Intro | Logan Elkins | [Read More](https://medium.com/p/4df9e10f2cf6) |
 | Tue, 16 Sep 2025 19:31:03 GMT | TryHackMe’s What Is Networking Write-Up | Paulo Melo | [Read More](https://medium.com/p/ebf0b9a15010) |
 | Tue, 16 Sep 2025 19:27:42 GMT | [Part 5] Top 10 Cyber Resilience Act Compliance Challenges (and How to Overcome Them) | Cyberkech | [Read More](https://medium.com/p/085f539788c6) |
 | Tue, 16 Sep 2025 19:21:31 GMT | Climbing the Pyramid of Pain: Turning Cyber Threats Into Attacker Headaches | Amrik  Hanjra | [Read More](https://medium.com/p/86ade5cea9a5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 15:07:39 GMT | The Weight of an Unsent Message | Heart Letters from Akanksha | [Read More](https://medium.com/p/4ae8f61f799c) |
 | Tue, 16 Sep 2025 15:05:25 GMT | Build Dynamic Image Transformations with Filestack | Idera Dev Tools | [Read More](https://medium.com/p/d0489268ab08) |
 | Tue, 16 Sep 2025 15:04:42 GMT | AI pentesting from robo burglar tactics to cyber red teaming | Berend Watchus | [Read More](https://medium.com/p/b0be60441f93) |
-| Tue, 16 Sep 2025 15:04:38 GMT | Vulnerability | RADIANT ROOTING | [Read More](https://medium.com/p/1cdd731dcb1b) |
-| Tue, 16 Sep 2025 15:04:25 GMT | Your Smart Home Is a Hacker’s Open Door! | Santhosh Kumar | [Read More](https://medium.com/p/03ecdb781c8f) |
-| Tue, 16 Sep 2025 15:02:54 GMT | Drive-Thrus, Kitchens & AI: How Quick Service Restaurants Are Raising the Bar on Safety | Tec-Tel Communications | [Read More](https://medium.com/p/97e2c6acd933) |
-| Tue, 16 Sep 2025 14:59:31 GMT | This Is Why Hackers Fear the Spring Security FilterChain | PraveenCodes | [Read More](https://medium.com/p/0b7be02e92b7) |
-| Tue, 16 Sep 2025 14:59:25 GMT | From Pixels to Privacy: Using OCR + Microsoft Presidio to Redact Sensitive Data in ID Cards | Kiell Tampubolon | [Read More](https://medium.com/p/e46df9fce26b) |
-| Tue, 16 Sep 2025 14:52:22 GMT | 2025년 4월 SK텔레콤 침해사고 | Crowndaisy | [Read More](https://medium.com/p/6bb0e78acdd7) |
-| Tue, 16 Sep 2025 14:50:40 GMT | CraxsRat latest version 7.7 download link | CraxsRat | [Read More](https://medium.com/p/70e346367760) |
-| Tue, 16 Sep 2025 14:48:32 GMT | The rise of biometric spoofing: How hackers fool your fingerprint. | Blandin Joseph | [Read More](https://medium.com/p/01e12cb148b6) |
-| Tue, 16 Sep 2025 14:46:43 GMT | The Curse of Knowledge: The Danger of Studying Too Much | Vijay Kumar Gupta | [Read More](https://medium.com/p/3d85aaacc0df) |
-| Tue, 16 Sep 2025 14:45:41 GMT | The Night, a Single Click Nearly ruined my Career — Why Every Journalist should have a VPN by 2025. | rohan kumar | [Read More](https://medium.com/p/ecf48d61612b) |
-| Tue, 16 Sep 2025 14:44:23 GMT | ISO 27001 for Startups: How to Know When It’s Time to Get Certified | Hicomply | [Read More](https://medium.com/p/619cdcbb6677) |
