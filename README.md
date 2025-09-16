@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 19:13:27 GMT | First Time Blue Team Con? Here’s What I Learned (Round 2) | Nico | [Read More](https://medium.com/p/c4ec9352ef30) |
+| Tue, 16 Sep 2025 19:09:00 GMT | OWASP Top 10 for LLM Apps (2025) — Survival Guide for Builders & Blue Teams ⚡ | Aditya Bhatt | [Read More](https://medium.com/p/a1bf83cb0bf4) |
+| Tue, 16 Sep 2025 19:01:48 GMT | An Expert Analysis of the Parallels Between Agentic AI and Cobrowse | SamesurfAI | [Read More](https://medium.com/p/ceb10f392115) |
+| Tue, 16 Sep 2025 18:58:55 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/ab572db3aece) |
+| Tue, 16 Sep 2025 18:56:09 GMT | The 11 Ways Hackers Break Into Systems (and How to Block Them) | Chris Zhang | [Read More](https://medium.com/p/a59aebfa63ec) |
+| Tue, 16 Sep 2025 18:47:06 GMT | Ladybug 1200 Uncovered: A Multi-Layered Stego & Crypto Walkthrough — 07CTF | Shoaib Bin Rashid | [Read More](https://medium.com/p/76a96989a6fe) |
+| Tue, 16 Sep 2025 18:45:42 GMT | On the Game of Eyes | Prix☆ | [Read More](https://medium.com/p/005f3878b6cd) |
 | Tue, 16 Sep 2025 18:44:00 GMT | How I Cleared CompTIA Security+ (SY0–701): My Study Journey & Resources | Surya Raja | [Read More](https://medium.com/p/07ec7f6bc4bc) |
+| Tue, 16 Sep 2025 18:42:42 GMT | Escalating LFI/SSRF via Linux Local Processes Enumeration | RandomFlawsFinder | [Read More](https://medium.com/p/e522d0ffd6df) |
 | Tue, 16 Sep 2025 18:42:30 GMT | How a Single Server Mistake Broke Our CORS Policy | Yahia Ibrahim khamis | [Read More](https://medium.com/p/27e24b7c4eb7) |
 | Tue, 16 Sep 2025 18:41:33 GMT | What is a terminal? Xterm? The command line? | Seven | [Read More](https://medium.com/p/9d4072e29dc0) |
 | Tue, 16 Sep 2025 18:38:49 GMT | How to Know if You’ve Been Hacked: A Comprehensive Scientific Guide | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/d04a5871b3cf) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 14:36:56 GMT | Zero Trust? More Like Zero Understanding. | Truspex | [Read More](https://medium.com/p/a28435738c5b) |
 | Tue, 16 Sep 2025 14:36:07 GMT | No, I’m not a Human best Indie, Simulation Game For Windows | Saifalrehmans | [Read More](https://medium.com/p/2ec376c53008) |
 | Tue, 16 Sep 2025 14:36:00 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and “PromptLock: The World’s First AI-Powered… | Nitin Garg | [Read More](https://medium.com/p/66df979afe0f) |
-| Tue, 16 Sep 2025 14:34:39 GMT | The Day the World Crashed: Unpacking the 2024 CrowdStrike Outage That Grounded Planes and Froze… | Umesh Anjula | [Read More](https://medium.com/p/9173afcae1a7) |
-| Tue, 16 Sep 2025 14:33:48 GMT | RAM: Random Access Mayhem Download For PC & Windows | Saifalrehmans | [Read More](https://medium.com/p/931e550d1d05) |
-| Tue, 16 Sep 2025 14:31:42 GMT | Lets Hacks Printers Now!! | Mainekhacker | [Read More](https://medium.com/p/b087dac760b3) |
-| Tue, 16 Sep 2025 14:31:39 GMT | Your Vector Databases Aren’t Safe Anymore | Cybersecurity Umbrella | [Read More](https://medium.com/p/fc85d95d4db3) |
-| Tue, 16 Sep 2025 14:31:18 GMT | Lab: Reflected XSS into a template literal with angle brackets, single, double quotes, backslash… | Chirag Vyas | [Read More](https://medium.com/p/01839a1fbbe4) |
-| Tue, 16 Sep 2025 14:28:58 GMT | Implementing Authentication in React with JWT & Refresh Tokens | Karthikeyan NS | [Read More](https://medium.com/p/f9815c665e5f) |
-| Tue, 16 Sep 2025 14:26:04 GMT | The CTF That Broke Me | Daniel's journey | [Read More](https://medium.com/p/e47769b954dc) |
-| Tue, 16 Sep 2025 14:25:57 GMT | CREATIVITY AND CYBERSECURITY | Adeleke Theophilus | [Read More](https://medium.com/p/4964c1f90d67) |
