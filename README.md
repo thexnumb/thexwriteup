@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 10:15:09 GMT | Bluechip Computer Systems LLC’s Role in Delivering Cybersecurity Excellence in the UAE | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/da46ca5df190) |
+| Tue, 16 Sep 2025 10:08:19 GMT | Data Protection Solutions — NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/67a890a307ce) |
+| Tue, 16 Sep 2025 10:06:13 GMT | Best Network Management Service Provider In India - Optimize Your Network Operations | Gowthammathiew | [Read More](https://medium.com/p/93c51efe3992) |
+| Tue, 16 Sep 2025 10:05:48 GMT | Fix Common MDM Software Problems Easily | Vantage MDM | [Read More](https://medium.com/p/3989a16b179b) |
+| Tue, 16 Sep 2025 10:05:39 GMT | Why a Bachelor’s Degree in Cybersecurity Is a Smart Career Move in 2025 | Shreyashettyctr | [Read More](https://medium.com/p/878b08c6d709) |
+| Tue, 16 Sep 2025 10:04:16 GMT | Write-up Internal Selection HCS CTF 2025 | Axel | [Read More](https://medium.com/p/9a97f1a77ff3) |
+| Tue, 16 Sep 2025 10:03:05 GMT | The Real Reason Swimming Can Be Scary for Women | thisaraa | [Read More](https://medium.com/p/5b6fcc636d10) |
+| Tue, 16 Sep 2025 10:02:22 GMT | Zero Trust Cloud Security: Strengthen Cybersecurity & Safeguard Valuable Assets | Cloud Kinetics | [Read More](https://medium.com/p/f6357784a9f8) |
+| Tue, 16 Sep 2025 10:01:16 GMT | iOS 18.7 Update: The Unseen Armor Your iPhone Just Received | Rahul Jawahar | [Read More](https://medium.com/p/c02f751c3f36) |
+| Tue, 16 Sep 2025 10:00:15 GMT | Don’t Take the Bait: The Ultimate Guide to Smishing and Protecting Your Business in 2025 | Geeks Melbourne | [Read More](https://medium.com/p/9b4f1bf10e74) |
+| Tue, 16 Sep 2025 09:56:03 GMT | The Day I Learned Even Sunshine Has a Shadow | SuccessBlueprints.Org | [Read More](https://medium.com/p/00a22bca5813) |
+| Tue, 16 Sep 2025 09:55:49 GMT | The Ghosts of Privacy: From Epstein’s Emails to China’s Digital Backdoors | Yusuf Asan | [Read More](https://medium.com/p/39bea572ff35) |
+| Tue, 16 Sep 2025 09:54:49 GMT | 10 Reasons Law Firms Choose IT Management Platforms to Secure Client Data | Yuvi Aggarwal | [Read More](https://medium.com/p/a2683b6e2621) |
+| Tue, 16 Sep 2025 09:49:29 GMT | My horrendous AlphaGrep’s internship experience. | eternal_blizzard | [Read More](https://medium.com/p/a318fcb1bdc9) |
+| Tue, 16 Sep 2025 09:44:15 GMT | Project Jupiter: Why I’m Building a Self-Hosted, AI-Assisted Security Platform | Soldier0x00 | [Read More](https://medium.com/p/9bbf8d06c4e1) |
+| Tue, 16 Sep 2025 09:42:25 GMT | Intro 1 : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/15ca6368e6ae) |
+| Tue, 16 Sep 2025 09:38:23 GMT | Dear Diary, I Lost Myself Yesterday. I Might Lose You, Too. | SuccessBlueprints.Org | [Read More](https://medium.com/p/ef912a12ea98) |
+| Tue, 16 Sep 2025 09:35:13 GMT | Building an AI Red Team vs Blue Team Simulation with n8n: A Complete Guide | SR | [Read More](https://medium.com/p/5d28abca4ccb) |
 | Tue, 16 Sep 2025 09:28:39 GMT | Letters to the Fear That Fell Asleep on My Desk | SuccessBlueprints.Org | [Read More](https://medium.com/p/2231ff297ec8) |
 | Tue, 16 Sep 2025 09:27:04 GMT | Deep Dive into ClickFix Attack Chain | Ophelia | [Read More](https://medium.com/p/769f42b66c26) |
 | Tue, 16 Sep 2025 09:26:44 GMT | From Gmail to Gmàil: How a Tiny Dot Led to complete account takeover | Muhammad Saad KHAN | [Read More](https://medium.com/p/3abd2565047f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 05:32:39 GMT | Cyber Security Details: Security Orchestration and Automation (SOAR) | Cyber Security Research | [Read More](https://medium.com/p/47211230a591) |
 | Tue, 16 Sep 2025 05:32:33 GMT | Securing the Edge: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/d1663e8fe253) |
 | Tue, 16 Sep 2025 05:32:31 GMT | Cyber Security Details: Advanced Persistent Threats (APTs) | Cyber Security Research | [Read More](https://medium.com/p/326d8890d9cf) |
-| Tue, 16 Sep 2025 05:32:28 GMT | The Battle Against Botnets: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/b06d7f46098e) |
-| Tue, 16 Sep 2025 05:31:11 GMT | Cyber Security Details: Security Incident Management | Cyber Security Research | [Read More](https://medium.com/p/5743b15913d6) |
-| Tue, 16 Sep 2025 05:31:11 GMT | The Importance of Threat Intelligence: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/eb4fb535a54b) |
-| Tue, 16 Sep 2025 05:31:08 GMT | Cyber Security Details: Protecting Intellectual Property | Cyber Security Research | [Read More](https://medium.com/p/d9bb4817d288) |
-| Tue, 16 Sep 2025 05:31:05 GMT | The Cybersecurity Details Guide for Beginners | Cyber Security Research | [Read More](https://medium.com/p/a4f8690557ee) |
-| Tue, 16 Sep 2025 05:30:52 GMT | Cyber Security Details: Investigating Cyber Crimes | Cyber Security Research | [Read More](https://medium.com/p/fe5a4e80c836) |
-| Tue, 16 Sep 2025 05:06:28 GMT | PaloAlto Firewall Course — Configure, Automate & Secure Hybrid Networks | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/bddfd1755c38) |
-| Tue, 16 Sep 2025 04:53:44 GMT | Web shell upload via path traversal (Portswigger Lab Walkthrough) | Cybernerddd | [Read More](https://medium.com/p/dc009a66c350) |
-| Tue, 16 Sep 2025 04:50:37 GMT | TO BECOME A SOC EXPERT(DAY-4) | vulnhunter | [Read More](https://medium.com/p/54d9ba95acee) |
-| Tue, 16 Sep 2025 04:31:44 GMT | When a Chatbot Becomes an Impostor | Devansh Patel | [Read More](https://medium.com/p/736eedb29373) |
-| Tue, 16 Sep 2025 04:31:20 GMT | Why Learning in 2025 Feels Both Easier and Harder | Tanzila Tanjim | [Read More](https://medium.com/p/f63abcab8ee8) |
-| Tue, 16 Sep 2025 04:26:47 GMT | “The Role of AI in Recruitment and Resume Screening” | Tarush Sharma | [Read More](https://medium.com/p/afbc95d8539d) |
-| Tue, 16 Sep 2025 04:26:35 GMT | How Mobile App Sandboxing Protects (and Sometimes Fails) You | Abida Adra | [Read More](https://medium.com/p/838adc5cf956) |
-| Tue, 16 Sep 2025 04:26:03 GMT | Securing Agentic AI: Why Persona Definitions Are the Next Frontier | Sudheendra Gururaj | [Read More](https://medium.com/p/10945b4fe37a) |
-| Tue, 16 Sep 2025 04:16:45 GMT | ️ Ghost Subdomain: How I Became an Accidental Cloud Landlord Through Abandoned DNS Records | Iski | [Read More](https://medium.com/p/23e18afaa087) |
-| Tue, 16 Sep 2025 04:14:40 GMT | Shodan vs ZoomEye Query Syntax Comparison | Inter3209 | [Read More](https://medium.com/p/91fb1d54b6d1) |
-| Tue, 16 Sep 2025 04:08:58 GMT | Gemini Pro’s Student Verification Loophole: A Bug, or a Feature? | Skjasimuddin | [Read More](https://medium.com/p/f2d425d33925) |
-| Tue, 16 Sep 2025 03:58:08 GMT | What Anxiety Taught Me About Being Human: A Journey of Self-Discovery | Senorita Eugenia | [Read More](https://medium.com/p/45d99a125fb8) |
