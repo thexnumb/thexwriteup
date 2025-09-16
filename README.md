@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 13:24:43 GMT | One Number, One Change: How I Took Over an Account Using Local Storage | eSecForte Technologies | [Read More](https://medium.com/p/afe59c5d2f7e) |
+| Tue, 16 Sep 2025 13:21:31 GMT | Heads Up: Hunting a Malicious Discord Invite Only — TryHackMe — Walkthrough️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/07cb9d74027a) |
+| Tue, 16 Sep 2025 13:21:22 GMT | Why MDR is Crucial for Modern Cybersecurity | Lipika | [Read More](https://medium.com/p/bc334ce4ec92) |
+| Tue, 16 Sep 2025 13:20:58 GMT | How All Pass Hub’s Audit Trails Strengthen Security & Collaboration | Password Manager | [Read More](https://medium.com/p/b83fb59303ee) |
+| Tue, 16 Sep 2025 13:20:13 GMT | Drosera: Guarding DeFi with Smart Traps & Trustless Ops | npccrypto | [Read More](https://medium.com/p/d9ebdf4cfccf) |
+| Tue, 16 Sep 2025 13:16:28 GMT | What is Cyber Security: A Complete Guide | gadget4tool | [Read More](https://medium.com/p/2fb55a7913f0) |
+| Tue, 16 Sep 2025 13:11:17 GMT | Hardware Security Modules Market Size, Trends, Share, Analysis 2034 | Tripathiraju | [Read More](https://medium.com/p/4947010914ab) |
+| Tue, 16 Sep 2025 13:06:01 GMT | Discover The Internet’s Hidden Secrets With Shodan | Ibtissam hammadi | [Read More](https://medium.com/p/8ff1d4caf63f) |
+| Tue, 16 Sep 2025 13:05:41 GMT | C0c0n CTF 2025 Writeup | Fathijem | [Read More](https://medium.com/p/a7ad0ea45cbc) |
+| Tue, 16 Sep 2025 13:04:36 GMT | The Future of Doors: Will Keys Exist in 2030? | Discreet solution Pvt ltd | [Read More](https://medium.com/p/d96e1b756434) |
+| Tue, 16 Sep 2025 13:03:46 GMT | Dead Reset Fight Zombies in Apocalyptic World | Saifalrehmans | [Read More](https://medium.com/p/178f0de1198d) |
+| Tue, 16 Sep 2025 13:01:57 GMT | 5 Non‑Negotiable Laravel Security Practices Developers Must Follow | Coder Manjeet | [Read More](https://medium.com/p/35b9c29e70df) |
+| Tue, 16 Sep 2025 13:01:53 GMT | Zapad 2025 — Russia and Belarus Flex Military Muscle | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/d354452c6201) |
+| Tue, 16 Sep 2025 13:00:46 GMT | Manage Secrets of Your Kubernetes Platform at Scale with GitOps | S3CloudHub | [Read More](https://medium.com/p/d0f7d2ac973d) |
+| Tue, 16 Sep 2025 12:55:44 GMT | OffSec: Hokkaido— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/f17d2a59e505) |
+| Tue, 16 Sep 2025 12:53:44 GMT | INE-eCTHPv3 (Certified Threat Hunting Professional)證照心得分享 | segalee | [Read More](https://medium.com/p/c908f05c132b) |
+| Tue, 16 Sep 2025 12:51:45 GMT | Two Books, One Lesson: Building a GenAI Brand That Lasts | Tola Bavery | [Read More](https://medium.com/p/bfd3c719f2b1) |
+| Tue, 16 Sep 2025 12:42:21 GMT | Benchmarking Against ZTA, CIS, and NIST Standards: How to Get Started. | Skysecure Technologies | [Read More](https://medium.com/p/e2a3b1a7974a) |
 | Tue, 16 Sep 2025 12:36:42 GMT | Day-4 How I got a 9.8 CVSS score for a 4.4 bug — the power of presentation | Viratavi | [Read More](https://medium.com/p/4cd9f4dd4173) |
 | Tue, 16 Sep 2025 12:28:07 GMT | How Smart Accounts Are Reinventing The Web3 Wallet | Lahiru890 | [Read More](https://medium.com/p/174364b1f038) |
 | Tue, 16 Sep 2025 12:24:53 GMT | When Defense Becomes the Target: The Alarming Rise of Multi-Billion Packet DDoS Attacks | Technijian | [Read More](https://medium.com/p/76ffe3153240) |
@@ -44,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 11:04:35 GMT | What Linux File Permissions Really Mean (A Practical Guide) | Pratham Deora | [Read More](https://medium.com/p/7e84adabb0a7) |
 | Tue, 16 Sep 2025 11:03:45 GMT | HTTP in Detail | Hassan Muhammad | [Read More](https://medium.com/p/b3cb2ebf3f85) |
 | Tue, 16 Sep 2025 11:01:44 GMT | Apple iPhone 17 and iPhone Air: Security Gets a Boost | Brittney Ginther | [Read More](https://medium.com/p/d6a3d6a0bfb6) |
+| Tue, 16 Sep 2025 10:58:26 GMT | Zivver, “Zero-Knowledge” en de Kiteworks-overname: wat klopt er echt? | V.A. (Victor) Angelier BSc. pre-MSc. | [Read More](https://medium.com/p/23892803201a) |
 | Tue, 16 Sep 2025 10:57:44 GMT | ☁️ Cloud Security: Vulnerabilities on AWS | Esra Kayhan | [Read More](https://medium.com/p/4fc452636762) |
 | Tue, 16 Sep 2025 10:55:57 GMT | Nessus vs Metasploit A Practical Comparison for Vulnerability Assessment and Exploitation | Jasmitharouthu | [Read More](https://medium.com/p/4d5a7497c0cf) |
 | Tue, 16 Sep 2025 10:52:07 GMT | The Biggest Cyber Mistakes People Make Daily | Nagaraj | [Read More](https://medium.com/p/1cf99420859a) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 08:43:19 GMT | Data Encryption : securing your data | Georges Awono | [Read More](https://medium.com/p/0d3d39ec9814) |
 | Tue, 16 Sep 2025 08:36:36 GMT | Bug Bounty: Bypass — Forgot Password Verification | Defidev | [Read More](https://medium.com/p/69bb8935fb98) |
 | Tue, 16 Sep 2025 08:33:18 GMT | What I Learned From a Bug That Fixed Itself (and Why You Should Take More Breaks) | Ravi Savaliya | [Read More](https://medium.com/p/dd17f862cb22) |
-| Tue, 16 Sep 2025 08:33:10 GMT | MIND GAMES: “THE SPY TRADECRAFT THEY DON’T PUT IN THE MOVIES(PART 3) | Ghost | [Read More](https://medium.com/p/e90eea0e3d9e) |
-| Tue, 16 Sep 2025 08:32:32 GMT | Subdomain Takeover | Saksham Singh | [Read More](https://medium.com/p/aa39585575c6) |
-| Tue, 16 Sep 2025 08:28:22 GMT | HTB Soulmate Write-up — Türkçe | Nethereral | [Read More](https://medium.com/p/2922d44873e6) |
-| Tue, 16 Sep 2025 08:22:15 GMT | 6 Things That Make Endpoint Security Fail (and How to Fix Them) | Yvonne Ugbor | [Read More](https://medium.com/p/36d11973f2f4) |
-| Tue, 16 Sep 2025 08:22:06 GMT | The Simple Device That’s Revolutionizing Vehicle Security | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/c248aee2f5ab) |
-| Tue, 16 Sep 2025 08:15:47 GMT | Defenders Need to Think Like Attackers: 5 Key Hacking Tools Explained | ɴᴀᴊᴇᴇʙ ᴡᴇᴇʀᴀʙᴀɴɢꜱᴀ | [Read More](https://medium.com/p/3330d3c899b3) |
-| Tue, 16 Sep 2025 08:11:33 GMT | SafeLine WAF: The Free Web Firewall Protecting 300K+ Websites in 2025 | AerieWhole123 | [Read More](https://medium.com/p/11a80ff35597) |
-| Tue, 16 Sep 2025 08:10:47 GMT | Ethical Hacking Certification: A Smart Career Move for College Students | Connecting Cyber Networks | [Read More](https://medium.com/p/c53a0b11064e) |
-| Tue, 16 Sep 2025 08:09:33 GMT | Evidence Mapping for Compliance: The Secret Weapon in Data Security Audits | SecureSlate | [Read More](https://medium.com/p/56f11468327a) |
-| Tue, 16 Sep 2025 08:08:14 GMT | GitHub Actions Security & Permissions — A Beginner’s Guide | Pravin More | [Read More](https://medium.com/p/4b5f1f86a321) |
-| Tue, 16 Sep 2025 08:07:18 GMT | Security in PostgreSQL | Tomasz Gintowt | [Read More](https://medium.com/p/ffe75ec677e7) |
-| Tue, 16 Sep 2025 08:02:52 GMT | AI and the Future of SOCs: How My AI-Powered SOC Automation System is Changing the Game | Anel Graph | [Read More](https://medium.com/p/a1078add46d2) |
-| Tue, 16 Sep 2025 08:02:47 GMT | VPNs vs. Zero Trust: Which Approach Fits Your Organization? | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/dad38e7f345d) |
-| Tue, 16 Sep 2025 08:01:47 GMT | Why Smart Developers Never Check 50 Servers Manually — Bash Automations | MayhemCode | [Read More](https://medium.com/p/532d09805f5c) |
-| Tue, 16 Sep 2025 08:01:44 GMT | AI vs. Hackers: Can Smart Machines Keep Us Safe? | Guillaume GUERARD | [Read More](https://medium.com/p/23534bd6946f) |
-| Tue, 16 Sep 2025 08:00:16 GMT | The Most Popular Cyberspace Search Engine — ZoomEye | Liuliuliusq | [Read More](https://medium.com/p/c682b292ea72) |
-| Tue, 16 Sep 2025 07:59:28 GMT | Why Information Gathering Is the Most Important Step in a Pentest | Vivek Bhatt | [Read More](https://medium.com/p/b67d5f7ea6bc) |
-| Tue, 16 Sep 2025 07:56:27 GMT | 5 Key Benefits When You Hire Certified Ethical Hackers for Instagram | Jessi Rogers | [Read More](https://medium.com/p/ade2fedfa117) |
-| Tue, 16 Sep 2025 07:53:46 GMT | Learn How to Search Hidden Web Pages with TryHackMe | Zulfianarahmi | [Read More](https://medium.com/p/5287f445f7b1) |
