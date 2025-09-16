@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 21:14:33 GMT | Kubernetes Security: Best Practices to Protect Your Cluster | Dmitry Protsenko | [Read More](https://medium.com/p/7c1a2efca0fe) |
+| Tue, 16 Sep 2025 21:13:24 GMT | Iranian Hackers Launch Global Spear-Phishing Blitz Using Hijacked Diplomatic Email | Aj | [Read More](https://medium.com/p/ec6e553750b8) |
+| Tue, 16 Sep 2025 21:13:10 GMT | The Social Engineer’s Playbook: A Step-by-Step Narrative of a Corporate Breach | Shahzaib | [Read More](https://medium.com/p/bb1eaf94499c) |
+| Tue, 16 Sep 2025 20:59:20 GMT | Hack the Box Triage in Forensics | Luke | [Read More](https://medium.com/p/be77d14d4f93) |
+| Tue, 16 Sep 2025 20:55:59 GMT | The Ultimate Cybersecurity Guide to SS7: The Internet’s Secret Backdoor | Cybersecplayground | [Read More](https://medium.com/p/35c1b085c5b1) |
+| Tue, 16 Sep 2025 20:53:41 GMT | An Introduction to Computer Science | Eva Varona | [Read More](https://medium.com/p/5ec8d095ed0b) |
+| Tue, 16 Sep 2025 20:52:48 GMT | Privacy Matters: Cloud Storage Alternatives to Google… Drive? | Sam Writes Security | [Read More](https://medium.com/p/d2000cbfcfd4) |
+| Tue, 16 Sep 2025 20:49:29 GMT | File Path Traversal — Why a one-pass ../ filter fails and how to fix it | Siddiquimohammad | [Read More](https://medium.com/p/0dcfe4f11521) |
 | Tue, 16 Sep 2025 20:40:03 GMT | The Night a $60 Million Bug Changed How I Code Forever | David Eugene | [Read More](https://medium.com/p/e817277ccc3b) |
 | Tue, 16 Sep 2025 20:33:41 GMT | Stop Calling Offensive Security Professionals “Hackers” | Onurcan Genç | [Read More](https://medium.com/p/8ca2f3b7eacc) |
 | Tue, 16 Sep 2025 20:32:20 GMT | The $689K American Wake-Up Call: How a Former Employee Exposed Financial Giant’s Darkest Security… | Cyber Summaries | [Read More](https://medium.com/p/8211fdb58bf0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 15:49:06 GMT | TryHackMe: Simple CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/77f52d168c46) |
 | Tue, 16 Sep 2025 15:46:07 GMT | Pemrograman Dasar Mikrokontroler: Laporan | Zifa Tea Azzahra | [Read More](https://medium.com/p/91348cefe95d) |
 | Tue, 16 Sep 2025 15:33:01 GMT | The Day JavaScript’s Package Manager Was Hijacked | Tushar Kanjariya | [Read More](https://medium.com/p/f120fc681d72) |
-| Tue, 16 Sep 2025 15:32:11 GMT | HIRE A HACKER FOR CRYPTO SCAM RECOVERY SERVICES, CALL MALICE CYBER RECOVERY THEY CAN HELP | Andreas Muller | [Read More](https://medium.com/p/6500fe2a50de) |
-| Tue, 16 Sep 2025 15:29:26 GMT | WARNING: Your Phone Just Got Kidnapped! Is YOUR Data Being Held for Ransom? | Santhosh Kumar | [Read More](https://medium.com/p/34aef70d6686) |
-| Tue, 16 Sep 2025 15:27:28 GMT | AI on the Line: How Smart Safety Is Transforming Modern Manufacturing | Tec-Tel Communications | [Read More](https://medium.com/p/fc9a582773a8) |
-| Tue, 16 Sep 2025 15:25:49 GMT | Microsoft’s September Patch Tuesday 86 Vulnerabilities: Why You Need to Patch Now | IT_Engineer | [Read More](https://medium.com/p/b4f8367b9f29) |
-| Tue, 16 Sep 2025 15:24:17 GMT | Největší hrozbou jsou obyčejné podvody: phishing a sociální inženýrství! | Cyber Solution | [Read More](https://medium.com/p/47d62fd44870) |
-| Tue, 16 Sep 2025 15:22:12 GMT | ANN Search: The Hidden Accelerator of AI Hallucinations | Elad Golan | [Read More](https://medium.com/p/c033e7ca32bb) |
-| Tue, 16 Sep 2025 15:17:43 GMT | “NIST CSF in Practice: Integration, Resources & Risk Communication (Part-2)” | Pragati gupta | [Read More](https://medium.com/p/ad6e6daef628) |
-| Tue, 16 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/fcc68dcff954) |
