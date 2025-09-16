@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 22:20:05 GMT | When “Delete for Everyone” Doesn’t Delete: My Experience Reporting a Vulnerability in WhatsApp Web | Bruzistico | [Read More](https://medium.com/p/7e9d86e74134) |
+| Tue, 16 Sep 2025 22:17:51 GMT | Securing Remote Services: Linux | Ross Andrews | [Read More](https://medium.com/p/9eaaae4e9b29) |
+| Tue, 16 Sep 2025 22:09:26 GMT | Web Security 101: Web Security Threats Every Developer Should Know | Ong Si Ci | [Read More](https://medium.com/p/9d109886dec4) |
 | Tue, 16 Sep 2025 22:07:44 GMT | The Tricky WebView Bug: Fixing a Cut-Off Screen on iOS 16 | Jerry PM | [Read More](https://medium.com/p/47dfcf80abd2) |
 | Tue, 16 Sep 2025 22:04:37 GMT | Cybersicherheits-GRC-Framework: NIST, ISO27001, ISF (Digitaler Download) | Ajansistan Etsy | [Read More](https://medium.com/p/c9f260259fc9) |
 | Tue, 16 Sep 2025 22:01:27 GMT | Cyber Security GRC Framework: NIST, ISO27001, ISF (Digital Download) | Ajansistan Etsy | [Read More](https://medium.com/p/100480d11304) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 16:24:20 GMT | Hack the Box — Union — WriteUp | Emre A. | [Read More](https://medium.com/p/f88e8721739c) |
 | Tue, 16 Sep 2025 16:23:42 GMT | VPN Explained: What It Is and Why You Should Use One | VS Writes | [Read More](https://medium.com/p/e34ef97f9d4e) |
 | Tue, 16 Sep 2025 16:20:48 GMT | Cybersecurity Compliance: What It Means for UK Businesses | CyberSure | [Read More](https://medium.com/p/55e82c1e8ad1) |
-| Tue, 16 Sep 2025 16:20:05 GMT | 10 Cloud Security Best Practices Every Small Business Must Follow | Techridge Solutions | [Read More](https://medium.com/p/0b47e769d49e) |
-| Tue, 16 Sep 2025 16:12:43 GMT | Deepsearch & Reliable AI Agents Under Pressure : Operational recipes to build failure‑resilient AI… | Florian PERROT | [Read More](https://medium.com/p/5e003a60f94f) |
-| Tue, 16 Sep 2025 16:08:33 GMT | The Hack That Stole 147 Million Identities: Equifax’s 2017 Nightmare | Umesh Anjula | [Read More](https://medium.com/p/cfb0da7b61dd) |
