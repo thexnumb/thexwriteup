@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 21:27:12 GMT | Cyber Threat Intelligence: Turning Hidden Clues into Cybersecurity Power | Akshay Chauhan | [Read More](https://medium.com/p/a16e0ed1f553) |
+| Tue, 16 Sep 2025 21:23:56 GMT | How I built a Cyber Security project with Convolutional Neural Network and Autoencoders | Deluwar Hussen Tanvir | [Read More](https://medium.com/p/162743587b1f) |
+| Tue, 16 Sep 2025 21:20:37 GMT | Cloud Security in 2025: Why Runtime Visibility is the Game-Changer | Cyber-AppSec | [Read More](https://medium.com/p/cb9ccddaf14b) |
 | Tue, 16 Sep 2025 21:14:33 GMT | Kubernetes Security: Best Practices to Protect Your Cluster | Dmitry Protsenko | [Read More](https://medium.com/p/7c1a2efca0fe) |
 | Tue, 16 Sep 2025 21:13:24 GMT | Iranian Hackers Launch Global Spear-Phishing Blitz Using Hijacked Diplomatic Email | Aj | [Read More](https://medium.com/p/ec6e553750b8) |
 | Tue, 16 Sep 2025 21:13:10 GMT | The Social Engineer’s Playbook: A Step-by-Step Narrative of a Corporate Breach | Shahzaib | [Read More](https://medium.com/p/bb1eaf94499c) |
+| Tue, 16 Sep 2025 21:09:41 GMT | The Comfortable Cage of Isolation. | EstNotes | [Read More](https://medium.com/p/ed9baab16115) |
 | Tue, 16 Sep 2025 20:59:20 GMT | Hack the Box Triage in Forensics | Luke | [Read More](https://medium.com/p/be77d14d4f93) |
 | Tue, 16 Sep 2025 20:55:59 GMT | The Ultimate Cybersecurity Guide to SS7: The Internet’s Secret Backdoor | Cybersecplayground | [Read More](https://medium.com/p/35c1b085c5b1) |
 | Tue, 16 Sep 2025 20:53:41 GMT | An Introduction to Computer Science | Eva Varona | [Read More](https://medium.com/p/5ec8d095ed0b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 16:01:59 GMT | Back on Track: Diving Deep into macOS and iOS Security | Junior Mateus | [Read More](https://medium.com/p/59a4fed31aea) |
 | Tue, 16 Sep 2025 15:58:13 GMT | Cracking the OWASP Juice Shop — My Story of Finding Vulnerabilities | Abdullah Al Ahad | [Read More](https://medium.com/p/b3797fc3eae4) |
 | Tue, 16 Sep 2025 15:51:58 GMT | Understanding Active Directory Architecture — Explained with Mumbai Local Trains | Suhel Kathi | [Read More](https://medium.com/p/ff5fd8e60e7c) |
-| Tue, 16 Sep 2025 15:51:00 GMT | The Role of Employee Awareness in Successful Cybersecurity Strategies | Ehsanm135 | [Read More](https://medium.com/p/2c4c6ef62486) |
-| Tue, 16 Sep 2025 15:49:06 GMT | TryHackMe: Simple CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/77f52d168c46) |
-| Tue, 16 Sep 2025 15:46:07 GMT | Pemrograman Dasar Mikrokontroler: Laporan | Zifa Tea Azzahra | [Read More](https://medium.com/p/91348cefe95d) |
-| Tue, 16 Sep 2025 15:33:01 GMT | The Day JavaScript’s Package Manager Was Hijacked | Tushar Kanjariya | [Read More](https://medium.com/p/f120fc681d72) |
