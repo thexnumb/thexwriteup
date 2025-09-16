@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 05:06:28 GMT | PaloAlto Firewall Course — Configure, Automate & Secure Hybrid Networks | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/bddfd1755c38) |
+| Tue, 16 Sep 2025 04:53:44 GMT | Web shell upload via path traversal (Portswigger Lab Walkthrough) | Cybernerddd | [Read More](https://medium.com/p/dc009a66c350) |
+| Tue, 16 Sep 2025 04:50:37 GMT | TO BECOME A SOC EXPERT(DAY-4) | vulnhunter | [Read More](https://medium.com/p/54d9ba95acee) |
 | Tue, 16 Sep 2025 04:31:44 GMT | When a Chatbot Becomes an Impostor | Devansh Patel | [Read More](https://medium.com/p/736eedb29373) |
+| Tue, 16 Sep 2025 04:31:20 GMT | Why Learning in 2025 Feels Both Easier and Harder | Tanzila Tanjim | [Read More](https://medium.com/p/f63abcab8ee8) |
 | Tue, 16 Sep 2025 04:26:47 GMT | “The Role of AI in Recruitment and Resume Screening” | Tarush Sharma | [Read More](https://medium.com/p/afbc95d8539d) |
 | Tue, 16 Sep 2025 04:26:35 GMT | How Mobile App Sandboxing Protects (and Sometimes Fails) You | Abida Adra | [Read More](https://medium.com/p/838adc5cf956) |
 | Tue, 16 Sep 2025 04:26:03 GMT | Securing Agentic AI: Why Persona Definitions Are the Next Frontier | Sudheendra Gururaj | [Read More](https://medium.com/p/10945b4fe37a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 19:55:42 GMT | Monday Cyber Brief — September 15 2025 | Keaton (File Under Risk) | [Read More](https://medium.com/p/9bcf8571654a) |
 | Mon, 15 Sep 2025 19:51:35 GMT | Earn More with BUG BUG by following this step-by-step guide. | BUG | [Read More](https://medium.com/p/6209d158c1c5) |
 | Mon, 15 Sep 2025 19:51:21 GMT | WAF Bypass + XSS + Business Logic Flaw = Account Takeover | Ali Hussain | [Read More](https://medium.com/p/04577cb53b18) |
-| Mon, 15 Sep 2025 19:35:39 GMT | How Hackers Study Companies Before They Attack | Chris Zhang | [Read More](https://medium.com/p/c0b3e61317c3) |
-| Mon, 15 Sep 2025 19:32:29 GMT | Understanding OWASP Cloud-Native Top 10 | Shreya Watane | [Read More](https://medium.com/p/989c4702b708) |
-| Mon, 15 Sep 2025 19:21:25 GMT | The Linux Process Journey — depmod (Dependency Modules) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1fbedae1dec) |
-| Mon, 15 Sep 2025 19:19:38 GMT | Access Token ve Refresh Token | Uygar Eren | [Read More](https://medium.com/p/9d4f29870027) |
