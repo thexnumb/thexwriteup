@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 22:07:44 GMT | The Tricky WebView Bug: Fixing a Cut-Off Screen on iOS 16 | Jerry PM | [Read More](https://medium.com/p/47dfcf80abd2) |
+| Tue, 16 Sep 2025 22:04:37 GMT | Cybersicherheits-GRC-Framework: NIST, ISO27001, ISF (Digitaler Download) | Ajansistan Etsy | [Read More](https://medium.com/p/c9f260259fc9) |
+| Tue, 16 Sep 2025 22:01:27 GMT | Cyber Security GRC Framework: NIST, ISO27001, ISF (Digital Download) | Ajansistan Etsy | [Read More](https://medium.com/p/100480d11304) |
+| Tue, 16 Sep 2025 21:49:11 GMT | Am I hacked? How to Tell If Your Site Is Compromised — 7 Quick Signs (2025) | Spyros Zoup | [Read More](https://medium.com/p/411b9ffe9ffa) |
+| Tue, 16 Sep 2025 21:46:40 GMT | Empowering Compassionate Care: The Role of Information Technology in Hospice Expansion | Barry Woodly | [Read More](https://medium.com/p/bfe9b6e1601e) |
 | Tue, 16 Sep 2025 21:27:12 GMT | Cyber Threat Intelligence: Turning Hidden Clues into Cybersecurity Power | Akshay Chauhan | [Read More](https://medium.com/p/a16e0ed1f553) |
 | Tue, 16 Sep 2025 21:23:56 GMT | How I built a Cyber Security project with Convolutional Neural Network and Autoencoders | Deluwar Hussen Tanvir | [Read More](https://medium.com/p/162743587b1f) |
 | Tue, 16 Sep 2025 21:20:37 GMT | Cloud Security in 2025: Why Runtime Visibility is the Game-Changer | Cyber-AppSec | [Read More](https://medium.com/p/cb9ccddaf14b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 16:20:05 GMT | 10 Cloud Security Best Practices Every Small Business Must Follow | Techridge Solutions | [Read More](https://medium.com/p/0b47e769d49e) |
 | Tue, 16 Sep 2025 16:12:43 GMT | Deepsearch & Reliable AI Agents Under Pressure : Operational recipes to build failure‑resilient AI… | Florian PERROT | [Read More](https://medium.com/p/5e003a60f94f) |
 | Tue, 16 Sep 2025 16:08:33 GMT | The Hack That Stole 147 Million Identities: Equifax’s 2017 Nightmare | Umesh Anjula | [Read More](https://medium.com/p/cfb0da7b61dd) |
-| Tue, 16 Sep 2025 16:07:11 GMT | Unified AI Frameworks: The Next Leap in Creative Collaboration (2025) | Arpit Kumawat | [Read More](https://medium.com/p/e251cabe3566) |
-| Tue, 16 Sep 2025 16:03:05 GMT | The Quiet Click: When Trust Turns Against You | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/67af817a0ec4) |
-| Tue, 16 Sep 2025 16:01:59 GMT | Back on Track: Diving Deep into macOS and iOS Security | Junior Mateus | [Read More](https://medium.com/p/59a4fed31aea) |
-| Tue, 16 Sep 2025 15:58:13 GMT | Cracking the OWASP Juice Shop — My Story of Finding Vulnerabilities | Abdullah Al Ahad | [Read More](https://medium.com/p/b3797fc3eae4) |
-| Tue, 16 Sep 2025 15:51:58 GMT | Understanding Active Directory Architecture — Explained with Mumbai Local Trains | Suhel Kathi | [Read More](https://medium.com/p/ff5fd8e60e7c) |
