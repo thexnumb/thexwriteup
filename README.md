@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 12:36:42 GMT | Day-4 How I got a 9.8 CVSS score for a 4.4 bug — the power of presentation | Viratavi | [Read More](https://medium.com/p/4cd9f4dd4173) |
+| Tue, 16 Sep 2025 12:28:07 GMT | How Smart Accounts Are Reinventing The Web3 Wallet | Lahiru890 | [Read More](https://medium.com/p/174364b1f038) |
+| Tue, 16 Sep 2025 12:24:53 GMT | When Defense Becomes the Target: The Alarming Rise of Multi-Billion Packet DDoS Attacks | Technijian | [Read More](https://medium.com/p/76ffe3153240) |
+| Tue, 16 Sep 2025 12:20:10 GMT | Why Seniors Shouldn’t Ignore Antivirus Software | Senior Tech Basics | [Read More](https://medium.com/p/6631386fd6c6) |
+| Tue, 16 Sep 2025 12:17:02 GMT | PR 360 Podcast: How AI Is Revolutionizing Cybersecurity | Grcdigitalusa | [Read More](https://medium.com/p/30dce07c27d3) |
+| Tue, 16 Sep 2025 12:11:45 GMT | Microsoft Under Fire: Senator Demands FTC Investigation Over Security Failures | Technijian | [Read More](https://medium.com/p/9da7881df8d1) |
+| Tue, 16 Sep 2025 12:10:51 GMT | WinHub-Controller | Root | [Read More](https://medium.com/p/a63969bef5bb) |
+| Tue, 16 Sep 2025 12:09:18 GMT | The Future of Outsourced Software Development Services in 2025 | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dbbe50fe5a8e) |
+| Tue, 16 Sep 2025 12:00:57 GMT | Best Web Hosting for Government Websites in 2025 | Arshdeep Kaur | [Read More](https://medium.com/p/aa3f89d47da7) |
+| Tue, 16 Sep 2025 11:57:22 GMT | UNITED STATES DISTRICT COURT NORTHERN DISTRICT OF CALIFORNIA SAN JOSE DIVISION | Kristaps Upenieks | [Read More](https://medium.com/p/8bdfa70d70a7) |
+| Tue, 16 Sep 2025 11:57:02 GMT | Why Cybersecurity Matters in 2025 | The Cyber Ledger | [Read More](https://medium.com/p/dfbba94bd2a0) |
+| Tue, 16 Sep 2025 11:55:05 GMT | Digital Privacy in the Modern Age: Why Protecting Your Data Matters | Hugo Daniel Schuartzman - הוגו דניאל שוורצמן | [Read More](https://medium.com/p/d2f217cb576d) |
+| Tue, 16 Sep 2025 11:54:29 GMT | Hackers + AI: The Unholy Alliance That’s Already Here | Ch4lkP0wd3r | [Read More](https://medium.com/p/9f2fb626d4a0) |
+| Tue, 16 Sep 2025 11:52:21 GMT | Indonesia at 80: Free Meals Today, Strength Tomorrow? | Denny Simanjuntak | [Read More](https://medium.com/p/0b2a95a810ef) |
+| Tue, 16 Sep 2025 11:51:08 GMT | Beautiful Benevolence | Malcolm Cox | [Read More](https://medium.com/p/bc79a04898cc) |
+| Tue, 16 Sep 2025 11:44:29 GMT | All You Need to Know About the DPDP Act 2025 - Indian Data Privacy Act | The Quiet Hacker | [Read More](https://medium.com/p/2a3ae7f8a128) |
+| Tue, 16 Sep 2025 11:38:37 GMT | Chris Ruden — Inspiring Change Management Speaker | Chrisruden | [Read More](https://medium.com/p/cb20014ffc63) |
+| Tue, 16 Sep 2025 11:34:24 GMT | Why Ethical AI Is Impossible | ethX | [Read More](https://medium.com/p/9f70d62c73ae) |
+| Tue, 16 Sep 2025 11:33:34 GMT | Inventing a moonshot enterprise for reversing the ecological crises | Erik Kvam | [Read More](https://medium.com/p/470b7960b503) |
 | Tue, 16 Sep 2025 11:33:31 GMT | The Unfiltered 2025 Guide to Web Pentesting & Bug Bounties: From Zero to Hired | Saumadip Mandal | [Read More](https://medium.com/p/24b3ffb10bc9) |
 | Tue, 16 Sep 2025 11:28:45 GMT | Visitor Management at Scale: Fixing Security Gaps in Corporate HQs | Joven A Rodrigues | [Read More](https://medium.com/p/29b8b90d38a0) |
 | Tue, 16 Sep 2025 11:28:43 GMT | Best AI Startup Ideas to Run a Profitable Business in 2025 | ai business ideas | [Read More](https://medium.com/p/29107d818c0c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 07:59:28 GMT | Why Information Gathering Is the Most Important Step in a Pentest | Vivek Bhatt | [Read More](https://medium.com/p/b67d5f7ea6bc) |
 | Tue, 16 Sep 2025 07:56:27 GMT | 5 Key Benefits When You Hire Certified Ethical Hackers for Instagram | Jessi Rogers | [Read More](https://medium.com/p/ade2fedfa117) |
 | Tue, 16 Sep 2025 07:53:46 GMT | Learn How to Search Hidden Web Pages with TryHackMe | Zulfianarahmi | [Read More](https://medium.com/p/5287f445f7b1) |
-| Tue, 16 Sep 2025 07:50:17 GMT | Device Security Nightmare-Busting MDM Features | Vichitra Godamunne | [Read More](https://medium.com/p/ee95ed57a281) |
-| Tue, 16 Sep 2025 07:49:45 GMT | Cracking the iOS App Store’s Version Barrier: From IPA Extraction to Execution | Aman Banga | [Read More](https://medium.com/p/1f641da0e94a) |
-| Tue, 16 Sep 2025 07:48:34 GMT | I, Robot + NIST AI RMF = Complete Guide on Preventing Robot Rebellion | Netlas.io | [Read More](https://medium.com/p/ad620c675e2e) |
-| Tue, 16 Sep 2025 07:29:31 GMT | How Hackers Technically Get Anything For Free (demo) | Jackson Mittag | [Read More](https://medium.com/p/6eb0ee3d45e5) |
-| Tue, 16 Sep 2025 07:27:55 GMT | Mastering AWS IAM: Best Practices for Secure Cloud Access(Beginner) | Emmanuel Odhiambo | [Read More](https://medium.com/p/ef9050a4629a) |
-| Tue, 16 Sep 2025 07:27:43 GMT | Incident Response Steps and Practical Examples | Esra Kayhan | [Read More](https://medium.com/p/26e4c56be00d) |
-| Tue, 16 Sep 2025 07:21:58 GMT | E-commerce Security Best Practices: Protecting Your Store from Cyber Threats | Ambala IT | [Read More](https://medium.com/p/69d455d458a2) |
-| Tue, 16 Sep 2025 07:21:02 GMT | ADK Agents with Agentspace Authenticated Datastores | Olejniczak Lukasz | [Read More](https://medium.com/p/64a49466074d) |
-| Tue, 16 Sep 2025 07:19:18 GMT | How to Supercharge your Yields with BUG: A Guide to Maximizing Your BUG Yield Rewards | BUG | [Read More](https://medium.com/p/3c86efa63277) |
-| Tue, 16 Sep 2025 07:19:13 GMT | 3 Simple Reasons Why Agile/Scrum Beats Waterfall Methodology | Mir Hassan | [Read More](https://medium.com/p/6ca760c15360) |
-| Tue, 16 Sep 2025 07:18:20 GMT | Cloud Ransomware Campaign Codefinger: Abusing AWS for S3 Encryption | Vinicius Egerland | [Read More](https://medium.com/p/e45948049b4e) |
-| Tue, 16 Sep 2025 07:17:46 GMT | AI security and data science: Why data scientists are the first line of defense | Reza Sahraeian | [Read More](https://medium.com/p/50655e5348f5) |
-| Tue, 16 Sep 2025 07:14:04 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a28b332fd475) |
-| Tue, 16 Sep 2025 07:03:21 GMT | How 24/7 Managed Detection and Response (MDR) Protects Against Ransomware | Reghu Mohandas | [Read More](https://medium.com/p/d1df5d41f724) |
-| Tue, 16 Sep 2025 07:02:01 GMT | The Real Cost of One Reused Password vs a Year of Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/c9b74286e1ca) |
-| Tue, 16 Sep 2025 07:01:57 GMT | The Person Does Not Exist, Yet GAN Creates Their Face | Suhail R. Ahmad | [Read More](https://medium.com/p/407ce8243482) |
-| Tue, 16 Sep 2025 07:00:56 GMT | The Darkcloud — Chapter III | Potech | [Read More](https://medium.com/p/098322b4ded7) |
-| Tue, 16 Sep 2025 06:55:51 GMT | Stop Paying for Cloud WAFs — Protect Your Apps with SafeLine | Quella | [Read More](https://medium.com/p/1fd20140d0fe) |
-| Tue, 16 Sep 2025 06:50:44 GMT | Metasploit Made Simple: How Hackers Think, How Defenders React | Shahzaib | [Read More](https://medium.com/p/f9dbd85a6b10) |
