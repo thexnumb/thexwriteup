@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 03:39:31 GMT | Cybersecurity in 2025: Why German Businesses Still Face Critical IT Security Challenges | Sarmin Islam | [Read More](https://medium.com/p/31f2c11dd915) |
+| Tue, 16 Sep 2025 03:37:34 GMT | Weekly Cyber Intelligence Brief Global Threats & Breaches | Finstein.ai | [Read More](https://medium.com/p/7db98fa56ac6) |
+| Tue, 16 Sep 2025 03:32:30 GMT | VexTrio Exposed: How a 15-Year-Old Operation Hijacks Everyday Browsing | Deven Chhajed | [Read More](https://medium.com/p/698bf9566e71) |
+| Tue, 16 Sep 2025 03:32:29 GMT | 5 Essential Guards for Node.js Aggregate Protection | Arunangshu Das | [Read More](https://medium.com/p/f8b4b0dcd5e8) |
+| Tue, 16 Sep 2025 03:32:29 GMT | The Double-Edged Sword: Navigating the Intersection of Cybersecurity and Generative AI | Akshat Ratanpal | [Read More](https://medium.com/p/0d0daddee685) |
+| Tue, 16 Sep 2025 03:20:12 GMT | I forgot how a Kerberos works | Rikwith | [Read More](https://medium.com/p/733d5f1ade41) |
 | Tue, 16 Sep 2025 03:18:58 GMT | The Conscience of a Diplomat: To Serve or Not to Serve a Tyrannical Leader | James Louis Bruno | [Read More](https://medium.com/p/97348fe8dbb0) |
 | Tue, 16 Sep 2025 03:16:22 GMT | TryHackMe - AppSec IR | Samuel McLamb | [Read More](https://medium.com/p/df83753fdff0) |
 | Tue, 16 Sep 2025 03:04:46 GMT | The Secret Python Trick That Made My Machine Learning Models 10x Faster | Rizqi Mulki | [Read More](https://medium.com/p/a2b930d0c227) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 18:57:19 GMT | Bilgi Toplama | Ömer Kaan Kurt | [Read More](https://medium.com/p/092e5cef5745) |
 | Mon, 15 Sep 2025 18:54:05 GMT | Ethical hacking - penetration testing — Roadmap | Iserjaoui | [Read More](https://medium.com/p/a8a1e13021f4) |
 | Mon, 15 Sep 2025 18:50:12 GMT | RustyKey | Toshith | [Read More](https://medium.com/p/57951be30ed2) |
-| Mon, 15 Sep 2025 18:47:47 GMT | ISO 27000 vs. BSI IT-Grundschutz — Which Framework for Your Information Security? | Mike (sl0th0x87) | [Read More](https://medium.com/p/d440c61390f2) |
-| Mon, 15 Sep 2025 18:41:56 GMT | A Pesty Pest If There Ever Was One | Bruce Stambaugh | [Read More](https://medium.com/p/36494ca16c26) |
-| Mon, 15 Sep 2025 18:38:56 GMT | OSINT: What It Is and Why You Might Need It | Shohel Rana | [Read More](https://medium.com/p/0dc52c6facf1) |
-| Mon, 15 Sep 2025 18:38:52 GMT | Guide to Setup Android Pentesting Lab without a Physical Device | Arnav Vaidya | [Read More](https://medium.com/p/0e01b210446b) |
-| Mon, 15 Sep 2025 18:30:25 GMT | Learning Bug Bounty — Day 4: Exploring Burp Suite | Vikram Budania | [Read More](https://medium.com/p/aafb27c9b63b) |
-| Mon, 15 Sep 2025 18:26:54 GMT | Unlocking Your Digital Shield: The Ultimate Guide to a Cybersecurity and Ethical Hacking Course | Nitin Singh | [Read More](https://medium.com/p/8ef3d95598d7) |
