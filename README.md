@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 16:36:42 GMT | ️ HIDS Uncovered: The Security Guard Living Inside Your Computer | Natarajan C K | [Read More](https://medium.com/p/1b260749d875) |
+| Tue, 16 Sep 2025 16:30:43 GMT | The Masks We Wear | Varnika | [Read More](https://medium.com/p/dfba441e677a) |
+| Tue, 16 Sep 2025 16:27:01 GMT | Life as an MSc Cybersecurity Student at NCI, Ireland: My Journey & Reflections | Prateekpulastya | [Read More](https://medium.com/p/58298dcf7a69) |
 | Tue, 16 Sep 2025 16:26:18 GMT | Mr. Robot: Hacking the System, Hacking the Self | Tugrul Cavusoglu | [Read More](https://medium.com/p/18858bcbdd85) |
+| Tue, 16 Sep 2025 16:25:56 GMT | Pemrograman Dasar Mikrokontroler: Latihan / Tugas | Zifa Tea Azzahra | [Read More](https://medium.com/p/95b59005bcbe) |
 | Tue, 16 Sep 2025 16:24:20 GMT | Hack the Box — Union — WriteUp | Emre A. | [Read More](https://medium.com/p/f88e8721739c) |
 | Tue, 16 Sep 2025 16:23:42 GMT | VPN Explained: What It Is and Why You Should Use One | VS Writes | [Read More](https://medium.com/p/e34ef97f9d4e) |
 | Tue, 16 Sep 2025 16:20:48 GMT | Cybersecurity Compliance: What It Means for UK Businesses | CyberSure | [Read More](https://medium.com/p/55e82c1e8ad1) |
+| Tue, 16 Sep 2025 16:20:05 GMT | 10 Cloud Security Best Practices Every Small Business Must Follow | Techridge Solutions | [Read More](https://medium.com/p/0b47e769d49e) |
 | Tue, 16 Sep 2025 16:12:43 GMT | Deepsearch & Reliable AI Agents Under Pressure : Operational recipes to build failure‑resilient AI… | Florian PERROT | [Read More](https://medium.com/p/5e003a60f94f) |
 | Tue, 16 Sep 2025 16:08:33 GMT | The Hack That Stole 147 Million Identities: Equifax’s 2017 Nightmare | Umesh Anjula | [Read More](https://medium.com/p/cfb0da7b61dd) |
 | Tue, 16 Sep 2025 16:07:11 GMT | Unified AI Frameworks: The Next Leap in Creative Collaboration (2025) | Arpit Kumawat | [Read More](https://medium.com/p/e251cabe3566) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 12:36:42 GMT | Day-4 How I got a 9.8 CVSS score for a 4.4 bug — the power of presentation | Viratavi | [Read More](https://medium.com/p/4cd9f4dd4173) |
 | Tue, 16 Sep 2025 12:28:07 GMT | How Smart Accounts Are Reinventing The Web3 Wallet | Lahiru890 | [Read More](https://medium.com/p/174364b1f038) |
 | Tue, 16 Sep 2025 12:24:53 GMT | When Defense Becomes the Target: The Alarming Rise of Multi-Billion Packet DDoS Attacks | Technijian | [Read More](https://medium.com/p/76ffe3153240) |
-| Tue, 16 Sep 2025 12:20:10 GMT | Why Seniors Shouldn’t Ignore Antivirus Software | Senior Tech Basics | [Read More](https://medium.com/p/6631386fd6c6) |
-| Tue, 16 Sep 2025 12:17:02 GMT | PR 360 Podcast: How AI Is Revolutionizing Cybersecurity | Grcdigitalusa | [Read More](https://medium.com/p/30dce07c27d3) |
-| Tue, 16 Sep 2025 12:11:45 GMT | Microsoft Under Fire: Senator Demands FTC Investigation Over Security Failures | Technijian | [Read More](https://medium.com/p/9da7881df8d1) |
-| Tue, 16 Sep 2025 12:10:51 GMT | WinHub-Controller | Root | [Read More](https://medium.com/p/a63969bef5bb) |
-| Tue, 16 Sep 2025 12:09:18 GMT | The Future of Outsourced Software Development Services in 2025 | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dbbe50fe5a8e) |
