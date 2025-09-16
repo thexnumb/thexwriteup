@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 23:05:22 GMT | How Bug Hunters Can Find Off-Platform Apps — Privately, Ethically, and Legally — and Get to the… | rezasafarzade | [Read More](https://medium.com/p/6e0feabf25e9) |
+| Tue, 16 Sep 2025 23:04:41 GMT | CrowdStrike Under Attack? When Security Tools Become the Target. | Truspex | [Read More](https://medium.com/p/c77f69640a19) |
 | Tue, 16 Sep 2025 22:20:05 GMT | When “Delete for Everyone” Doesn’t Delete: My Experience Reporting a Vulnerability in WhatsApp Web | Bruzistico | [Read More](https://medium.com/p/7e9d86e74134) |
 | Tue, 16 Sep 2025 22:17:51 GMT | Securing Remote Services: Linux | Ross Andrews | [Read More](https://medium.com/p/9eaaae4e9b29) |
 | Tue, 16 Sep 2025 22:09:26 GMT | Web Security 101: Web Security Threats Every Developer Should Know | Ong Si Ci | [Read More](https://medium.com/p/9d109886dec4) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 16:26:18 GMT | Mr. Robot: Hacking the System, Hacking the Self | Tugrul Cavusoglu | [Read More](https://medium.com/p/18858bcbdd85) |
 | Tue, 16 Sep 2025 16:25:56 GMT | Pemrograman Dasar Mikrokontroler: Latihan / Tugas | Zifa Tea Azzahra | [Read More](https://medium.com/p/95b59005bcbe) |
 | Tue, 16 Sep 2025 16:24:20 GMT | Hack the Box — Union — WriteUp | Emre A. | [Read More](https://medium.com/p/f88e8721739c) |
-| Tue, 16 Sep 2025 16:23:42 GMT | VPN Explained: What It Is and Why You Should Use One | VS Writes | [Read More](https://medium.com/p/e34ef97f9d4e) |
-| Tue, 16 Sep 2025 16:20:48 GMT | Cybersecurity Compliance: What It Means for UK Businesses | CyberSure | [Read More](https://medium.com/p/55e82c1e8ad1) |
