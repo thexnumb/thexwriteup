@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 05:36:23 GMT | The Future of Passwordless Authentication in 2025 | Techlio | [Read More](https://medium.com/p/2cda986fbe80) |
+| Tue, 16 Sep 2025 05:32:45 GMT | Cyber Security Details: Managing Digital Identities | Cyber Security Research | [Read More](https://medium.com/p/3be078739a02) |
+| Tue, 16 Sep 2025 05:32:42 GMT | The Anatomy of a Ransomware Attack: Details | Cyber Security Research | [Read More](https://medium.com/p/010c385ac0d6) |
+| Tue, 16 Sep 2025 05:32:39 GMT | Cyber Security Details: Security Orchestration and Automation (SOAR) | Cyber Security Research | [Read More](https://medium.com/p/47211230a591) |
+| Tue, 16 Sep 2025 05:32:33 GMT | Securing the Edge: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/d1663e8fe253) |
+| Tue, 16 Sep 2025 05:32:31 GMT | Cyber Security Details: Advanced Persistent Threats (APTs) | Cyber Security Research | [Read More](https://medium.com/p/326d8890d9cf) |
+| Tue, 16 Sep 2025 05:32:28 GMT | The Battle Against Botnets: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/b06d7f46098e) |
+| Tue, 16 Sep 2025 05:31:11 GMT | Cyber Security Details: Security Incident Management | Cyber Security Research | [Read More](https://medium.com/p/5743b15913d6) |
+| Tue, 16 Sep 2025 05:31:11 GMT | The Importance of Threat Intelligence: Cyber Security Details | Cyber Security Research | [Read More](https://medium.com/p/eb4fb535a54b) |
+| Tue, 16 Sep 2025 05:31:08 GMT | Cyber Security Details: Protecting Intellectual Property | Cyber Security Research | [Read More](https://medium.com/p/d9bb4817d288) |
+| Tue, 16 Sep 2025 05:31:05 GMT | The Cybersecurity Details Guide for Beginners | Cyber Security Research | [Read More](https://medium.com/p/a4f8690557ee) |
 | Tue, 16 Sep 2025 05:06:28 GMT | PaloAlto Firewall Course — Configure, Automate & Secure Hybrid Networks | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/bddfd1755c38) |
 | Tue, 16 Sep 2025 04:53:44 GMT | Web shell upload via path traversal (Portswigger Lab Walkthrough) | Cybernerddd | [Read More](https://medium.com/p/dc009a66c350) |
 | Tue, 16 Sep 2025 04:50:37 GMT | TO BECOME A SOC EXPERT(DAY-4) | vulnhunter | [Read More](https://medium.com/p/54d9ba95acee) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 20:48:09 GMT | Top Thought Leading Cybersecurity Companies in 2025 | Matthew.Rosenquist | [Read More](https://medium.com/p/2603406b8e71) |
 | Mon, 15 Sep 2025 20:48:01 GMT | How Pen Testers Really Break In: The Methodology Behind the Breach | Aj | [Read More](https://medium.com/p/6ed525492048) |
 | Mon, 15 Sep 2025 20:47:56 GMT | Expert Search Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/c713230545bc) |
-| Mon, 15 Sep 2025 20:42:31 GMT | The CVE CNA 72 Hour Rules are Insane | Jonathan Leitschuh | [Read More](https://medium.com/p/50b7e2ec5045) |
-| Mon, 15 Sep 2025 20:34:40 GMT | The Zero-Trust Revolution: Why Traditional Network Security is Dead (And What Replaced It) | Abdul Hannan | [Read More](https://medium.com/p/c54651e6dbca) |
-| Mon, 15 Sep 2025 20:20:34 GMT | The Elephant in The Biz: outsourcing of critical IT and cybersecurity functions risks UK economic… | Kevin Beaumont | [Read More](https://medium.com/p/96205e0585bf) |
-| Mon, 15 Sep 2025 20:18:40 GMT | The Illusion of Deletion: Why Your “Deleted” Data Never Really Disappears | DataDreamer7 | [Read More](https://medium.com/p/ffaaeb0933d1) |
-| Mon, 15 Sep 2025 20:08:53 GMT | My Virtual Cybersecurity Internship Experience with Datacom | Mateo Flores | [Read More](https://medium.com/p/acf180b57ed7) |
-| Mon, 15 Sep 2025 20:08:01 GMT | Cheese CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/85a52f661f9f) |
-| Mon, 15 Sep 2025 20:05:42 GMT | Swiss IKT Minimal Standard vs. FISMA — A Transatlantic Comparison of Cybersecurity Frameworks | Mike (sl0th0x87) | [Read More](https://medium.com/p/c8131db7fa51) |
-| Mon, 15 Sep 2025 19:59:14 GMT | 15 Cybersecurity Conferences in Hong Kong | Tal Eliyahu | [Read More](https://medium.com/p/6cb1b8cf7ef7) |
-| Mon, 15 Sep 2025 19:55:42 GMT | Monday Cyber Brief — September 15 2025 | Keaton (File Under Risk) | [Read More](https://medium.com/p/9bcf8571654a) |
-| Mon, 15 Sep 2025 19:51:35 GMT | Earn More with BUG BUG by following this step-by-step guide. | BUG | [Read More](https://medium.com/p/6209d158c1c5) |
-| Mon, 15 Sep 2025 19:51:21 GMT | WAF Bypass + XSS + Business Logic Flaw = Account Takeover | Ali Hussain | [Read More](https://medium.com/p/04577cb53b18) |
