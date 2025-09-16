@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 11:33:31 GMT | The Unfiltered 2025 Guide to Web Pentesting & Bug Bounties: From Zero to Hired | Saumadip Mandal | [Read More](https://medium.com/p/24b3ffb10bc9) |
+| Tue, 16 Sep 2025 11:28:45 GMT | Visitor Management at Scale: Fixing Security Gaps in Corporate HQs | Joven A Rodrigues | [Read More](https://medium.com/p/29b8b90d38a0) |
+| Tue, 16 Sep 2025 11:28:43 GMT | Best AI Startup Ideas to Run a Profitable Business in 2025 | ai business ideas | [Read More](https://medium.com/p/29107d818c0c) |
+| Tue, 16 Sep 2025 11:18:05 GMT | How to Renew an SSL Certificate for Your Website | Smit Pipaliya | [Read More](https://medium.com/p/ff59a183e620) |
+| Tue, 16 Sep 2025 11:17:59 GMT | Beyond the Datasheet: What UART and Firmware Revealed Inside a Hikvision IoT Camera | Aaronjjose | [Read More](https://medium.com/p/66503173027d) |
+| Tue, 16 Sep 2025 11:17:54 GMT | TryHackMe: Squid Game — Attacker 5 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/6e90d335fc82) |
+| Tue, 16 Sep 2025 11:17:05 GMT | TryHackMe: Squid Game — Attacker 4 Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d8452d52554a) |
+| Tue, 16 Sep 2025 11:14:35 GMT | Kubernetes Taints & Tolerations — The Gatekeepers of Scheduling | Ankitha Rao | [Read More](https://medium.com/p/043230bfe2f6) |
+| Tue, 16 Sep 2025 11:09:29 GMT | WhatsApp Chat: Is It Really Private? Messenger App Safety in 2025: What You Should Know | Bobby Andrews | [Read More](https://medium.com/p/41a263e1dd17) |
 | Tue, 16 Sep 2025 11:05:12 GMT | The Next 3 Years in Cybersecurity: What’s Changing Fast (2025–2028) | Naved Anjum | [Read More](https://medium.com/p/a9b20cb4ec51) |
 | Tue, 16 Sep 2025 11:04:35 GMT | What Linux File Permissions Really Mean (A Practical Guide) | Pratham Deora | [Read More](https://medium.com/p/7e84adabb0a7) |
 | Tue, 16 Sep 2025 11:03:45 GMT | HTTP in Detail | Hassan Muhammad | [Read More](https://medium.com/p/b3cb2ebf3f85) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 07:00:56 GMT | The Darkcloud — Chapter III | Potech | [Read More](https://medium.com/p/098322b4ded7) |
 | Tue, 16 Sep 2025 06:55:51 GMT | Stop Paying for Cloud WAFs — Protect Your Apps with SafeLine | Quella | [Read More](https://medium.com/p/1fd20140d0fe) |
 | Tue, 16 Sep 2025 06:50:44 GMT | Metasploit Made Simple: How Hackers Think, How Defenders React | Shahzaib | [Read More](https://medium.com/p/f9dbd85a6b10) |
-| Tue, 16 Sep 2025 06:49:12 GMT | OWASP Top 10 — DevOps & Cloud Security 2025 | Prasanna Kumar Yempada | [Read More](https://medium.com/p/86c97678fcb9) |
-| Tue, 16 Sep 2025 06:43:26 GMT | Earn Buy PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc atm | Blackbox | [Read More](https://medium.com/p/5d7c6f34486f) |
-| Tue, 16 Sep 2025 06:43:14 GMT | Hack The Box — Jingle Bell | R3db1t | [Read More](https://medium.com/p/ae920af4b4d5) |
-| Tue, 16 Sep 2025 06:42:40 GMT | CVE Deep Dive : CVE-2025–32462 | Optimus_Blue | [Read More](https://medium.com/p/b2d90ea240b4) |
-| Tue, 16 Sep 2025 06:40:12 GMT | Palo Alto Networks PA-415–5G: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/dabf83f63552) |
-| Tue, 16 Sep 2025 06:37:08 GMT | Cybersecurity Awareness: A Complete Guide to Stay Safe Online | Allen Joseph | [Read More](https://medium.com/p/3b6e2a80bb16) |
-| Tue, 16 Sep 2025 06:30:23 GMT | Stealthy Credential Harvesting via Exchange: A JavaScript Backdoor Scenario | Patek Philippe | [Read More](https://medium.com/p/c5edbb0e78b4) |
-| Tue, 16 Sep 2025 06:30:05 GMT | Why Flipped Chat Is the Privacy-First Choice for AI Dating | Flipped Chat | [Read More](https://medium.com/p/669c8c1bf579) |
-| Tue, 16 Sep 2025 06:28:31 GMT | India’s Alarming Rise of ‘Digital Arrest’ Scams: A Multi-Billion Rupee Cyber Threat | Athishsagarkishan | [Read More](https://medium.com/p/1f1b844dc4d8) |
