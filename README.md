@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 04:31:44 GMT | When a Chatbot Becomes an Impostor | Devansh Patel | [Read More](https://medium.com/p/736eedb29373) |
+| Tue, 16 Sep 2025 04:26:47 GMT | “The Role of AI in Recruitment and Resume Screening” | Tarush Sharma | [Read More](https://medium.com/p/afbc95d8539d) |
+| Tue, 16 Sep 2025 04:26:35 GMT | How Mobile App Sandboxing Protects (and Sometimes Fails) You | Abida Adra | [Read More](https://medium.com/p/838adc5cf956) |
+| Tue, 16 Sep 2025 04:26:03 GMT | Securing Agentic AI: Why Persona Definitions Are the Next Frontier | Sudheendra Gururaj | [Read More](https://medium.com/p/10945b4fe37a) |
+| Tue, 16 Sep 2025 04:16:45 GMT | ️ Ghost Subdomain: How I Became an Accidental Cloud Landlord Through Abandoned DNS Records | Iski | [Read More](https://medium.com/p/23e18afaa087) |
+| Tue, 16 Sep 2025 04:14:40 GMT | Shodan vs ZoomEye Query Syntax Comparison | Inter3209 | [Read More](https://medium.com/p/91fb1d54b6d1) |
 | Tue, 16 Sep 2025 04:08:58 GMT | Gemini Pro’s Student Verification Loophole: A Bug, or a Feature? | Skjasimuddin | [Read More](https://medium.com/p/f2d425d33925) |
 | Tue, 16 Sep 2025 03:58:08 GMT | What Anxiety Taught Me About Being Human: A Journey of Self-Discovery | Senorita Eugenia | [Read More](https://medium.com/p/45d99a125fb8) |
 | Tue, 16 Sep 2025 03:57:38 GMT | Stop Writing Tests (Do This Instead for 10x Results) | Coding Ninja | [Read More](https://medium.com/p/1935bde0cdd7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 19:32:29 GMT | Understanding OWASP Cloud-Native Top 10 | Shreya Watane | [Read More](https://medium.com/p/989c4702b708) |
 | Mon, 15 Sep 2025 19:21:25 GMT | The Linux Process Journey — depmod (Dependency Modules) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1fbedae1dec) |
 | Mon, 15 Sep 2025 19:19:38 GMT | Access Token ve Refresh Token | Uygar Eren | [Read More](https://medium.com/p/9d4f29870027) |
-| Mon, 15 Sep 2025 19:19:11 GMT | The $10 USB Kill Switch That Saves Your Gear | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/916821eee8ac) |
-| Mon, 15 Sep 2025 19:18:31 GMT | TryHackMe — Retro | Cyber Anom | [Read More](https://medium.com/p/872a0a30c8ff) |
-| Mon, 15 Sep 2025 19:14:27 GMT | Why I Love Writing About the Messy and Traumatic Parts of Life | Brook Johansen | [Read More](https://medium.com/p/37e5bb36689f) |
-| Mon, 15 Sep 2025 19:13:50 GMT | Three recent articles about AI | Stephen Thursby | [Read More](https://medium.com/p/3cad8c595954) |
-| Mon, 15 Sep 2025 19:04:53 GMT | Your Cybersecurity Skills Won’t Make You Rich — But This Quiet Side System Will | EHxAnomity | [Read More](https://medium.com/p/f43ea5c0c56d) |
-| Mon, 15 Sep 2025 19:01:30 GMT | ISO27001 — Pas de développement logiciel, voici la liste des contrôles non applicables | Patrick Boucher | [Read More](https://medium.com/p/549c48221398) |
