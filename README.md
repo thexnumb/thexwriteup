@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 18:44:00 GMT | How I Cleared CompTIA Security+ (SY0–701): My Study Journey & Resources | Surya Raja | [Read More](https://medium.com/p/07ec7f6bc4bc) |
+| Tue, 16 Sep 2025 18:42:30 GMT | How a Single Server Mistake Broke Our CORS Policy | Yahia Ibrahim khamis | [Read More](https://medium.com/p/27e24b7c4eb7) |
+| Tue, 16 Sep 2025 18:41:33 GMT | What is a terminal? Xterm? The command line? | Seven | [Read More](https://medium.com/p/9d4072e29dc0) |
+| Tue, 16 Sep 2025 18:38:49 GMT | How to Know if You’ve Been Hacked: A Comprehensive Scientific Guide | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/d04a5871b3cf) |
+| Tue, 16 Sep 2025 18:34:16 GMT | What to Do If You Get Hacked: Immediate Actions and Security Recovery | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/7308751b9edc) |
+| Tue, 16 Sep 2025 18:31:51 GMT | Fileless Malware: Attacks That Leave No Trace | Andrei Ivan | [Read More](https://medium.com/p/b16540e03851) |
+| Tue, 16 Sep 2025 18:31:46 GMT | CTF → Pentest: Translating CTF Patterns into Real-World Exploits | Aditya Bhatt | [Read More](https://medium.com/p/c74ba79dcf4e) |
 | Tue, 16 Sep 2025 18:22:39 GMT | Never Trust Always Verify!! | Anam Khan | [Read More](https://medium.com/p/c3436819d3a2) |
 | Tue, 16 Sep 2025 18:22:31 GMT | Level Up Your Career: Why an Ethical Hacking Course with Placement is Your Ticket to the Top of… | Nitin Singh | [Read More](https://medium.com/p/38dbd8d6a793) |
 | Tue, 16 Sep 2025 18:18:22 GMT | Securing Systems | Anam Khan | [Read More](https://medium.com/p/61e0330ce2aa) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 14:28:58 GMT | Implementing Authentication in React with JWT & Refresh Tokens | Karthikeyan NS | [Read More](https://medium.com/p/f9815c665e5f) |
 | Tue, 16 Sep 2025 14:26:04 GMT | The CTF That Broke Me | Daniel's journey | [Read More](https://medium.com/p/e47769b954dc) |
 | Tue, 16 Sep 2025 14:25:57 GMT | CREATIVITY AND CYBERSECURITY | Adeleke Theophilus | [Read More](https://medium.com/p/4964c1f90d67) |
-| Tue, 16 Sep 2025 14:17:24 GMT | Log4j | Crowndaisy | [Read More](https://medium.com/p/2af2e2436fea) |
-| Tue, 16 Sep 2025 14:14:03 GMT | Python : Operasi Logika, Komparasi logika, dan Elif | Cahyoadi | [Read More](https://medium.com/p/32cffdb59e6b) |
-| Tue, 16 Sep 2025 14:13:26 GMT | CodeTwo Write-up Hack The Box | Jules | [Read More](https://medium.com/p/4e62d1a96d49) |
-| Tue, 16 Sep 2025 14:11:01 GMT | Blind XSS with AI | Harshad Shah | [Read More](https://medium.com/p/6daff41b807f) |
-| Tue, 16 Sep 2025 14:11:01 GMT | 10 Things You Didn’t Know About Security Companies in Ventura County | Direct Guard Services | [Read More](https://medium.com/p/7d540532c6fb) |
-| Tue, 16 Sep 2025 14:08:14 GMT | Why companies are paying hackers ? Everything about Bug Bounties— for enthusiasts students! | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/63170920ffb9) |
-| Tue, 16 Sep 2025 14:06:29 GMT | Developing Secure Authentication Systems with NextAuth.js: Latest Techniques | @rnab | [Read More](https://medium.com/p/7c0458d9de22) |
