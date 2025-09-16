@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 09:16:45 GMT | Why AI Security Needs Continuous Red Teaming | Practical DevSecOps | [Read More](https://medium.com/p/98f65e1e047b) |
+| Tue, 16 Sep 2025 09:16:33 GMT | How Telecoms Can Accelerate Innovation with DevSecOps and AI | Practical DevSecOps | [Read More](https://medium.com/p/6504a2306d65) |
+| Tue, 16 Sep 2025 09:15:15 GMT | What Are Passkeys | EOLO | [Read More](https://medium.com/p/3f6303b62a88) |
+| Tue, 16 Sep 2025 09:08:58 GMT | Day 9 — Opening the Gates: Port Forwarding, Triggering & DMZ for Hackers | Priyansh | [Read More](https://medium.com/p/8636e19cbca6) |
+| Tue, 16 Sep 2025 09:02:29 GMT | Think Your Patient Data Is Safe? Think Again. | Redfox Security | [Read More](https://medium.com/p/d609f18430cd) |
+| Tue, 16 Sep 2025 09:01:49 GMT | The AI Arms Race in Your Supply Chain: How Artificial Intelligence is Weaponising Trust | Paul Sherman | [Read More](https://medium.com/p/ea6e5fd0d59a) |
+| Tue, 16 Sep 2025 08:58:12 GMT | Google’s Law Enforcement Portal Breach: A Wake-Up Call for Digital Security in the Modern Age | Cyber Summaries | [Read More](https://medium.com/p/696c7fb33154) |
+| Tue, 16 Sep 2025 08:55:41 GMT | AI-Powered Cyber Security Courses: The Digital Guardians of Tomorrow | Marketerjoseph | [Read More](https://medium.com/p/d83ba627f626) |
+| Tue, 16 Sep 2025 08:43:19 GMT | Data Encryption : securing your data | Georges Awono | [Read More](https://medium.com/p/0d3d39ec9814) |
 | Tue, 16 Sep 2025 08:36:36 GMT | Bug Bounty: Bypass — Forgot Password Verification | Defidev | [Read More](https://medium.com/p/69bb8935fb98) |
 | Tue, 16 Sep 2025 08:33:18 GMT | What I Learned From a Bug That Fixed Itself (and Why You Should Take More Breaks) | Ravi Savaliya | [Read More](https://medium.com/p/dd17f862cb22) |
 | Tue, 16 Sep 2025 08:33:10 GMT | MIND GAMES: “THE SPY TRADECRAFT THEY DON’T PUT IN THE MOVIES(PART 3) | Ghost | [Read More](https://medium.com/p/e90eea0e3d9e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 03:39:31 GMT | Cybersecurity in 2025: Why German Businesses Still Face Critical IT Security Challenges | Sarmin Islam | [Read More](https://medium.com/p/31f2c11dd915) |
 | Tue, 16 Sep 2025 03:37:34 GMT | Weekly Cyber Intelligence Brief Global Threats & Breaches | Finstein.ai | [Read More](https://medium.com/p/7db98fa56ac6) |
 | Tue, 16 Sep 2025 03:32:30 GMT | VexTrio Exposed: How a 15-Year-Old Operation Hijacks Everyday Browsing | Deven Chhajed | [Read More](https://medium.com/p/698bf9566e71) |
-| Tue, 16 Sep 2025 03:32:29 GMT | 5 Essential Guards for Node.js Aggregate Protection | Arunangshu Das | [Read More](https://medium.com/p/f8b4b0dcd5e8) |
-| Tue, 16 Sep 2025 03:32:29 GMT | The Double-Edged Sword: Navigating the Intersection of Cybersecurity and Generative AI | Akshat Ratanpal | [Read More](https://medium.com/p/0d0daddee685) |
-| Tue, 16 Sep 2025 03:20:12 GMT | I forgot how a Kerberos works | Rikwith | [Read More](https://medium.com/p/733d5f1ade41) |
-| Tue, 16 Sep 2025 03:18:58 GMT | The Conscience of a Diplomat: To Serve or Not to Serve a Tyrannical Leader | James Louis Bruno | [Read More](https://medium.com/p/97348fe8dbb0) |
-| Tue, 16 Sep 2025 03:16:22 GMT | TryHackMe - AppSec IR | Samuel McLamb | [Read More](https://medium.com/p/df83753fdff0) |
-| Tue, 16 Sep 2025 03:04:46 GMT | The Secret Python Trick That Made My Machine Learning Models 10x Faster | Rizqi Mulki | [Read More](https://medium.com/p/a2b930d0c227) |
-| Tue, 16 Sep 2025 03:02:38 GMT | Day 58- Raising Awareness: Why my company using Internet Explorer mode which could be dangerous | unica 02 | [Read More](https://medium.com/p/4753424304c2) |
-| Tue, 16 Sep 2025 03:01:51 GMT | Kubilius Warns Russia Could Strike Within 3–4 Years, Drone Attacks Expose NATO Gaps | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/dce370f22b03) |
-| Tue, 16 Sep 2025 02:56:50 GMT | The iPad Was Free — So Was Access to My Data | Sriman Swarup, MD, MBA | [Read More](https://medium.com/p/3094e825f152) |
