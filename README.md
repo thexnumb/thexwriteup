@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 14:14:03 GMT | Python : Operasi Logika, Komparasi logika, dan Elif | Cahyoadi | [Read More](https://medium.com/p/32cffdb59e6b) |
+| Tue, 16 Sep 2025 14:13:26 GMT | CodeTwo Write-up Hack The Box | Jules | [Read More](https://medium.com/p/4e62d1a96d49) |
+| Tue, 16 Sep 2025 14:11:01 GMT | Blind XSS with AI | Harshad Shah | [Read More](https://medium.com/p/6daff41b807f) |
+| Tue, 16 Sep 2025 14:11:01 GMT | 10 Things You Didn’t Know About Security Companies in Ventura County | Direct Guard Services | [Read More](https://medium.com/p/7d540532c6fb) |
+| Tue, 16 Sep 2025 14:08:14 GMT | Why companies are paying hackers ? Everything about Bug Bounties— for enthusiasts students! | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/63170920ffb9) |
+| Tue, 16 Sep 2025 14:06:29 GMT | Developing Secure Authentication Systems with NextAuth.js: Latest Techniques | @rnab | [Read More](https://medium.com/p/7c0458d9de22) |
+| Tue, 16 Sep 2025 14:05:53 GMT | Play_Session_Injection — Walkthrough | Mohamed Hassan | [Read More](https://medium.com/p/5968189ef269) |
+| Tue, 16 Sep 2025 14:01:53 GMT | How to Deactivate a Garage Door Opener: Secure and Simple Methods | 24H Garage Doors | [Read More](https://medium.com/p/8b3d5802415d) |
+| Tue, 16 Sep 2025 14:01:51 GMT | Cyber Briefing: 2025.09.16 | CyberMaterial | [Read More](https://medium.com/p/dfc711492e2c) |
+| Tue, 16 Sep 2025 13:55:24 GMT | How AI is Altering the Game in Cybersecurity | Pavan Patil | [Read More](https://medium.com/p/afac87671b40) |
+| Tue, 16 Sep 2025 13:51:44 GMT | Protecting Your AI Side Hustle: Simple Steps to Guard Against Data Theft and Scams | vydhi | [Read More](https://medium.com/p/7e80f8d3eb2f) |
+| Tue, 16 Sep 2025 13:51:15 GMT | Microsoft Edge DLL Hijack | David Mendes | [Read More](https://medium.com/p/1ecb0cd5ae85) |
+| Tue, 16 Sep 2025 13:49:46 GMT | Reputation & Safety Review of the Imo Video Chat Service (imo.io) | Obivan Kenoby | [Read More](https://medium.com/p/8462dd5abd55) |
+| Tue, 16 Sep 2025 13:49:29 GMT | The Log Paradox: Swimming in Data, Starving for Intelligence | Eric Zietlow | [Read More](https://medium.com/p/7301519c74cd) |
 | Tue, 16 Sep 2025 13:46:06 GMT | Unlocking the Lock: Access Control Vulnerabilities in Smart Contracts | ZerΔch | [Read More](https://medium.com/p/efd2953810d8) |
 | Tue, 16 Sep 2025 13:44:47 GMT | The Hidden Access Crisis in SaaS & AI: Key Insights from CloudEagle’s Latest Webinar | CloudEagle | [Read More](https://medium.com/p/184d9b9a68e3) |
+| Tue, 16 Sep 2025 13:41:32 GMT | The Role of Files and Folders in Operating Systems — okcomputers | okcomputerstechnology | [Read More](https://medium.com/p/c8873deacf5f) |
+| Tue, 16 Sep 2025 13:38:50 GMT | Who Owns Security in a 20-Person Company? | Evgeny Ermakov | [Read More](https://medium.com/p/f2000d78043f) |
 | Tue, 16 Sep 2025 13:37:22 GMT | Complete Guide to File Uploads in Next.js — AWS S3, Presigned URLs & Dropzone | Supun jayalath | [Read More](https://medium.com/p/adb7a60d318c) |
 | Tue, 16 Sep 2025 13:33:45 GMT | Smart Contract Post-exploit Analysis: How to find what happened, how and why | Joe LeFever | [Read More](https://medium.com/p/9e4e5bc6a30b) |
 | Tue, 16 Sep 2025 13:31:45 GMT | How to Program a Garage Door Remote to a Car: Quick Step-by-Step Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/4c846d486b8e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 10:01:16 GMT | iOS 18.7 Update: The Unseen Armor Your iPhone Just Received | Rahul Jawahar | [Read More](https://medium.com/p/c02f751c3f36) |
 | Tue, 16 Sep 2025 10:00:15 GMT | Don’t Take the Bait: The Ultimate Guide to Smishing and Protecting Your Business in 2025 | Geeks Melbourne | [Read More](https://medium.com/p/9b4f1bf10e74) |
 | Tue, 16 Sep 2025 09:56:03 GMT | The Day I Learned Even Sunshine Has a Shadow | SuccessBlueprints.Org | [Read More](https://medium.com/p/00a22bca5813) |
-| Tue, 16 Sep 2025 09:55:49 GMT | The Ghosts of Privacy: From Epstein’s Emails to China’s Digital Backdoors | Yusuf Asan | [Read More](https://medium.com/p/39bea572ff35) |
-| Tue, 16 Sep 2025 09:54:49 GMT | 10 Reasons Law Firms Choose IT Management Platforms to Secure Client Data | Yuvi Aggarwal | [Read More](https://medium.com/p/a2683b6e2621) |
-| Tue, 16 Sep 2025 09:49:29 GMT | My horrendous AlphaGrep’s internship experience. | eternal_blizzard | [Read More](https://medium.com/p/a318fcb1bdc9) |
-| Tue, 16 Sep 2025 09:44:15 GMT | Project Jupiter: Why I’m Building a Self-Hosted, AI-Assisted Security Platform | Soldier0x00 | [Read More](https://medium.com/p/9bbf8d06c4e1) |
-| Tue, 16 Sep 2025 09:42:25 GMT | Intro 1 : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/15ca6368e6ae) |
-| Tue, 16 Sep 2025 09:38:23 GMT | Dear Diary, I Lost Myself Yesterday. I Might Lose You, Too. | SuccessBlueprints.Org | [Read More](https://medium.com/p/ef912a12ea98) |
-| Tue, 16 Sep 2025 09:35:13 GMT | Building an AI Red Team vs Blue Team Simulation with n8n: A Complete Guide | SR | [Read More](https://medium.com/p/5d28abca4ccb) |
-| Tue, 16 Sep 2025 09:28:39 GMT | Letters to the Fear That Fell Asleep on My Desk | SuccessBlueprints.Org | [Read More](https://medium.com/p/2231ff297ec8) |
-| Tue, 16 Sep 2025 09:27:04 GMT | Deep Dive into ClickFix Attack Chain | Ophelia | [Read More](https://medium.com/p/769f42b66c26) |
-| Tue, 16 Sep 2025 09:26:44 GMT | From Gmail to Gmàil: How a Tiny Dot Led to complete account takeover | Muhammad Saad KHAN | [Read More](https://medium.com/p/3abd2565047f) |
-| Tue, 16 Sep 2025 09:23:41 GMT | The Digital Fortress: A Modern Aussie Business’s Guide to Cybersecurity in the Cloud | Geeks Sydney | [Read More](https://medium.com/p/6876b2595587) |
-| Tue, 16 Sep 2025 09:18:15 GMT | Post-Quantum Cryptography: Preparing Your Applications for the Quantum Future | Orami | [Read More](https://medium.com/p/1952efb85412) |
-| Tue, 16 Sep 2025 09:16:45 GMT | Why AI Security Needs Continuous Red Teaming | Practical DevSecOps | [Read More](https://medium.com/p/98f65e1e047b) |
-| Tue, 16 Sep 2025 09:16:33 GMT | How Telecoms Can Accelerate Innovation with DevSecOps and AI | Practical DevSecOps | [Read More](https://medium.com/p/6504a2306d65) |
-| Tue, 16 Sep 2025 09:15:15 GMT | What Are Passkeys | EOLO | [Read More](https://medium.com/p/3f6303b62a88) |
-| Tue, 16 Sep 2025 09:08:58 GMT | Day 9 — Opening the Gates: Port Forwarding, Triggering & DMZ for Hackers | Priyansh | [Read More](https://medium.com/p/8636e19cbca6) |
