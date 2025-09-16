@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 17:29:12 GMT | PG Practice — Payday (Linux) | Lepton | [Read More](https://medium.com/p/473d320d687f) |
+| Tue, 16 Sep 2025 17:24:15 GMT | Web Zafiyetleri Serisi #3 | Didem Kış | [Read More](https://medium.com/p/5bb9dbe464ce) |
+| Tue, 16 Sep 2025 17:24:01 GMT | Privacy is Luxury | Nidhi Chaurasia | [Read More](https://medium.com/p/80ffbba5d693) |
+| Tue, 16 Sep 2025 17:19:57 GMT | 7 Signs Your Business Needs Managed Cloud Services Right Now | Anas Imtiaz | [Read More](https://medium.com/p/801893bd0379) |
+| Tue, 16 Sep 2025 17:17:21 GMT | Abusing ADODB.Recordset for Arbitrary Downloads Without MOTW (Part 1 Non Tech) | IUnknown* pUnk | [Read More](https://medium.com/p/355eca1575c6) |
 | Tue, 16 Sep 2025 17:15:16 GMT | AWS S3 Presigned URLs vs Multer: A Developer’s Guide to Efficient File Uploads | Samuel Ndubuisi | [Read More](https://medium.com/p/d094f7388e27) |
 | Tue, 16 Sep 2025 17:08:34 GMT | Still Worried About Trust When Outsourcing Errands? | Errandaar | [Read More](https://medium.com/p/f17c240afb9f) |
 | Tue, 16 Sep 2025 17:03:41 GMT | E-mail from Amazon.ca | Bob Malin | [Read More](https://medium.com/p/4ff9965dc498) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 13:20:58 GMT | How All Pass Hub’s Audit Trails Strengthen Security & Collaboration | Password Manager | [Read More](https://medium.com/p/b83fb59303ee) |
 | Tue, 16 Sep 2025 13:20:13 GMT | Drosera: Guarding DeFi with Smart Traps & Trustless Ops | npccrypto | [Read More](https://medium.com/p/d9ebdf4cfccf) |
 | Tue, 16 Sep 2025 13:16:28 GMT | What is Cyber Security: A Complete Guide | gadget4tool | [Read More](https://medium.com/p/2fb55a7913f0) |
-| Tue, 16 Sep 2025 13:11:17 GMT | Hardware Security Modules Market Size, Trends, Share, Analysis 2034 | Tripathiraju | [Read More](https://medium.com/p/4947010914ab) |
-| Tue, 16 Sep 2025 13:06:01 GMT | Discover The Internet’s Hidden Secrets With Shodan | Ibtissam hammadi | [Read More](https://medium.com/p/8ff1d4caf63f) |
-| Tue, 16 Sep 2025 13:05:41 GMT | C0c0n CTF 2025 Writeup | Fathijem | [Read More](https://medium.com/p/a7ad0ea45cbc) |
-| Tue, 16 Sep 2025 13:04:36 GMT | The Future of Doors: Will Keys Exist in 2030? | Discreet solution Pvt ltd | [Read More](https://medium.com/p/d96e1b756434) |
-| Tue, 16 Sep 2025 13:03:46 GMT | Dead Reset Fight Zombies in Apocalyptic World | Saifalrehmans | [Read More](https://medium.com/p/178f0de1198d) |
