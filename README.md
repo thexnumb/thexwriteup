@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 07:18:20 GMT | Cloud Ransomware Campaign Codefinger: Abusing AWS for S3 Encryption | Vinicius Egerland | [Read More](https://medium.com/p/e45948049b4e) |
+| Tue, 16 Sep 2025 07:14:04 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a28b332fd475) |
+| Tue, 16 Sep 2025 07:03:21 GMT | How 24/7 Managed Detection and Response (MDR) Protects Against Ransomware | Reghu Mohandas | [Read More](https://medium.com/p/d1df5d41f724) |
+| Tue, 16 Sep 2025 07:02:01 GMT | The Real Cost of One Reused Password vs a Year of Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/c9b74286e1ca) |
+| Tue, 16 Sep 2025 07:01:57 GMT | The Person Does Not Exist, Yet GAN Creates Their Face | Suhail R. Ahmad | [Read More](https://medium.com/p/407ce8243482) |
+| Tue, 16 Sep 2025 07:00:56 GMT | The Darkcloud — Chapter III | Potech | [Read More](https://medium.com/p/098322b4ded7) |
+| Tue, 16 Sep 2025 06:55:51 GMT | Stop Paying for Cloud WAFs — Protect Your Apps with SafeLine | Quella | [Read More](https://medium.com/p/1fd20140d0fe) |
+| Tue, 16 Sep 2025 06:50:44 GMT | Metasploit Made Simple: How Hackers Think, How Defenders React | Shahzaib | [Read More](https://medium.com/p/f9dbd85a6b10) |
+| Tue, 16 Sep 2025 06:49:12 GMT | OWASP Top 10 — DevOps & Cloud Security 2025 | Prasanna Kumar Yempada | [Read More](https://medium.com/p/86c97678fcb9) |
+| Tue, 16 Sep 2025 06:43:26 GMT | Earn Buy PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc atm | Blackbox | [Read More](https://medium.com/p/5d7c6f34486f) |
+| Tue, 16 Sep 2025 06:43:14 GMT | Hack The Box — Jingle Bell | R3db1t | [Read More](https://medium.com/p/ae920af4b4d5) |
+| Tue, 16 Sep 2025 06:42:40 GMT | CVE Deep Dive : CVE-2025–32462 | Optimus_Blue | [Read More](https://medium.com/p/b2d90ea240b4) |
+| Tue, 16 Sep 2025 06:40:12 GMT | Palo Alto Networks PA-415–5G: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/dabf83f63552) |
+| Tue, 16 Sep 2025 06:37:08 GMT | Cybersecurity Awareness: A Complete Guide to Stay Safe Online | Allen Joseph | [Read More](https://medium.com/p/3b6e2a80bb16) |
+| Tue, 16 Sep 2025 06:30:23 GMT | Stealthy Credential Harvesting via Exchange: A JavaScript Backdoor Scenario | Patek Philippe | [Read More](https://medium.com/p/c5edbb0e78b4) |
+| Tue, 16 Sep 2025 06:30:05 GMT | Why Flipped Chat Is the Privacy-First Choice for AI Dating | Flipped Chat | [Read More](https://medium.com/p/669c8c1bf579) |
 | Tue, 16 Sep 2025 06:28:31 GMT | India’s Alarming Rise of ‘Digital Arrest’ Scams: A Multi-Billion Rupee Cyber Threat | Athishsagarkishan | [Read More](https://medium.com/p/1f1b844dc4d8) |
 | Tue, 16 Sep 2025 06:25:48 GMT | Smartbi Login Bypass Vulnerability — Patch Now Before RCE Risks | Quella | [Read More](https://medium.com/p/965fc0826a9d) |
 | Tue, 16 Sep 2025 06:22:50 GMT | Top 5 Domain and IP Intelligence Tools in OSINT | Inter3209 | [Read More](https://medium.com/p/79a21f517f1f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 22:47:37 GMT | Hack the Box — Forest — WriteUp | Emre A. | [Read More](https://medium.com/p/543b44c34bff) |
 | Mon, 15 Sep 2025 22:40:45 GMT | Generative AI Is Fueling the Next Big Scam Wave | Amanda Marangu | [Read More](https://medium.com/p/2595a6c5901b) |
 | Mon, 15 Sep 2025 22:40:06 GMT | Hackers Leverage Raw Disk Reads to Bypass EDR Solutions and Access Highly Sensitive Files | David SEHYEON Baek | [Read More](https://medium.com/p/7fa58190ef2f) |
-| Mon, 15 Sep 2025 22:35:30 GMT | The $8,000 Bootcamp DevOps Learning Trap and How to Escape It | Zudonu Osomudeya | [Read More](https://medium.com/p/13f0436473fe) |
-| Mon, 15 Sep 2025 22:17:13 GMT | I am new here! | Ispolin08 | [Read More](https://medium.com/p/c189ea702a5d) |
-| Mon, 15 Sep 2025 22:15:49 GMT | Proyecto Escuelas y Bitcoin recibe el apoyo de Paystand.org | ONG Bitcoin Argentina | [Read More](https://medium.com/p/b048e4b8417a) |
-| Mon, 15 Sep 2025 22:03:28 GMT | How DMARC Protects Against Phishing and Email Fraud | Keepnet Labs | [Read More](https://medium.com/p/35569b60155d) |
-| Mon, 15 Sep 2025 22:00:27 GMT | Malware: Common Types and Terms | Enskefuddle | [Read More](https://medium.com/p/99bbcd7c0bea) |
-| Mon, 15 Sep 2025 21:58:16 GMT | Rooting HTB Blackfield — CPTS Prep Pt.1 | Joseph Jung | [Read More](https://medium.com/p/2cbf9cd40a74) |
-| Mon, 15 Sep 2025 21:55:08 GMT | Phishing Attacks: Techniques and Prevention Strategies | Shourya Kakkar | [Read More](https://medium.com/p/42c4a4c5c0fc) |
-| Mon, 15 Sep 2025 21:50:31 GMT | Slack, Zoom, Google Drive: Are Your Collaboration Tools Putting You Out of Compliance? | BiyteLüm | [Read More](https://medium.com/p/1ffbe4fa55fb) |
-| Mon, 15 Sep 2025 21:46:41 GMT | Conti Ransomware Source Code Released: What It Means for Cybersecurity | Keepnet Labs | [Read More](https://medium.com/p/ae8666a066da) |
-| Mon, 15 Sep 2025 21:42:59 GMT | CyberDefenders — HireMe Lab | Jose Chaves | [Read More](https://medium.com/p/898a6e56d002) |
-| Mon, 15 Sep 2025 21:41:51 GMT | WinAPI Wrapper for Import Address Table Evasion | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6e5a13f24599) |
-| Mon, 15 Sep 2025 21:39:20 GMT | Packet Crafting with Scapy | Berat Ünal | [Read More](https://medium.com/p/0cc8accaef08) |
-| Mon, 15 Sep 2025 21:38:19 GMT | The War That Starts at 3 A.M. | hexa | [Read More](https://medium.com/p/ad0b3ad66b69) |
-| Mon, 15 Sep 2025 21:34:57 GMT | Cloudflare Thwarts Largest DDoS Attack in History | Aj | [Read More](https://medium.com/p/6a1faca6416d) |
-| Mon, 15 Sep 2025 21:34:21 GMT | Violent Attack Vectors in Web3: A Detailed Review | Officer's Notes | [Read More](https://medium.com/p/46afb031fe2d) |
-| Mon, 15 Sep 2025 21:31:33 GMT | What Data Infostealers Revealed About North Korea’s Cyber Warriors | David SEHYEON Baek | [Read More](https://medium.com/p/07809b7a598a) |
