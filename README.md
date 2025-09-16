@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 08:36:36 GMT | Bug Bounty: Bypass — Forgot Password Verification | Defidev | [Read More](https://medium.com/p/69bb8935fb98) |
+| Tue, 16 Sep 2025 08:33:18 GMT | What I Learned From a Bug That Fixed Itself (and Why You Should Take More Breaks) | Ravi Savaliya | [Read More](https://medium.com/p/dd17f862cb22) |
+| Tue, 16 Sep 2025 08:33:10 GMT | MIND GAMES: “THE SPY TRADECRAFT THEY DON’T PUT IN THE MOVIES(PART 3) | Ghost | [Read More](https://medium.com/p/e90eea0e3d9e) |
+| Tue, 16 Sep 2025 08:32:32 GMT | Subdomain Takeover | Saksham Singh | [Read More](https://medium.com/p/aa39585575c6) |
+| Tue, 16 Sep 2025 08:28:22 GMT | HTB Soulmate Write-up — Türkçe | Nethereral | [Read More](https://medium.com/p/2922d44873e6) |
 | Tue, 16 Sep 2025 08:22:15 GMT | 6 Things That Make Endpoint Security Fail (and How to Fix Them) | Yvonne Ugbor | [Read More](https://medium.com/p/36d11973f2f4) |
 | Tue, 16 Sep 2025 08:22:06 GMT | The Simple Device That’s Revolutionizing Vehicle Security | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/c248aee2f5ab) |
 | Tue, 16 Sep 2025 08:15:47 GMT | Defenders Need to Think Like Attackers: 5 Key Hacking Tools Explained | ɴᴀᴊᴇᴇʙ ᴡᴇᴇʀᴀʙᴀɴɢꜱᴀ | [Read More](https://medium.com/p/3330d3c899b3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 03:02:38 GMT | Day 58- Raising Awareness: Why my company using Internet Explorer mode which could be dangerous | unica 02 | [Read More](https://medium.com/p/4753424304c2) |
 | Tue, 16 Sep 2025 03:01:51 GMT | Kubilius Warns Russia Could Strike Within 3–4 Years, Drone Attacks Expose NATO Gaps | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/dce370f22b03) |
 | Tue, 16 Sep 2025 02:56:50 GMT | The iPad Was Free — So Was Access to My Data | Sriman Swarup, MD, MBA | [Read More](https://medium.com/p/3094e825f152) |
-| Tue, 16 Sep 2025 02:49:49 GMT | PostgreSQL vs DuckDB: Surprising Performance Results in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/92751716b359) |
-| Tue, 16 Sep 2025 02:46:23 GMT | Locked Out of the Future: | Thomas Holt Russell, III | [Read More](https://medium.com/p/67be486ff2cf) |
-| Tue, 16 Sep 2025 02:43:51 GMT | 5 Reasons MySQL Is No Longer Worth Using in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/0e73e167ab04) |
-| Tue, 16 Sep 2025 02:43:30 GMT | Apple’s War Against Spyware | Izaak Maine | [Read More](https://medium.com/p/f0ee74b40c21) |
-| Tue, 16 Sep 2025 02:36:24 GMT | MariaDB 10x Faster Than MySQL? Truth or Hype? | Rizqi Mulki | [Read More](https://medium.com/p/8b04ec2c7a14) |
