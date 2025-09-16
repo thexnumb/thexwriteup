@@ -12,12 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 08:22:15 GMT | 6 Things That Make Endpoint Security Fail (and How to Fix Them) | Yvonne Ugbor | [Read More](https://medium.com/p/36d11973f2f4) |
+| Tue, 16 Sep 2025 08:22:06 GMT | The Simple Device That’s Revolutionizing Vehicle Security | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/c248aee2f5ab) |
+| Tue, 16 Sep 2025 08:15:47 GMT | Defenders Need to Think Like Attackers: 5 Key Hacking Tools Explained | ɴᴀᴊᴇᴇʙ ᴡᴇᴇʀᴀʙᴀɴɢꜱᴀ | [Read More](https://medium.com/p/3330d3c899b3) |
+| Tue, 16 Sep 2025 08:11:33 GMT | SafeLine WAF: The Free Web Firewall Protecting 300K+ Websites in 2025 | AerieWhole123 | [Read More](https://medium.com/p/11a80ff35597) |
+| Tue, 16 Sep 2025 08:10:47 GMT | Ethical Hacking Certification: A Smart Career Move for College Students | Connecting Cyber Networks | [Read More](https://medium.com/p/c53a0b11064e) |
+| Tue, 16 Sep 2025 08:09:33 GMT | Evidence Mapping for Compliance: The Secret Weapon in Data Security Audits | SecureSlate | [Read More](https://medium.com/p/56f11468327a) |
+| Tue, 16 Sep 2025 08:08:14 GMT | GitHub Actions Security & Permissions — A Beginner’s Guide | Pravin More | [Read More](https://medium.com/p/4b5f1f86a321) |
+| Tue, 16 Sep 2025 08:07:18 GMT | Security in PostgreSQL | Tomasz Gintowt | [Read More](https://medium.com/p/ffe75ec677e7) |
+| Tue, 16 Sep 2025 08:02:52 GMT | AI and the Future of SOCs: How My AI-Powered SOC Automation System is Changing the Game | Anel Graph | [Read More](https://medium.com/p/a1078add46d2) |
+| Tue, 16 Sep 2025 08:02:47 GMT | VPNs vs. Zero Trust: Which Approach Fits Your Organization? | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/dad38e7f345d) |
+| Tue, 16 Sep 2025 08:01:47 GMT | Why Smart Developers Never Check 50 Servers Manually — Bash Automations | MayhemCode | [Read More](https://medium.com/p/532d09805f5c) |
+| Tue, 16 Sep 2025 08:01:44 GMT | AI vs. Hackers: Can Smart Machines Keep Us Safe? | Guillaume GUERARD | [Read More](https://medium.com/p/23534bd6946f) |
+| Tue, 16 Sep 2025 08:00:16 GMT | The Most Popular Cyberspace Search Engine — ZoomEye | Liuliuliusq | [Read More](https://medium.com/p/c682b292ea72) |
+| Tue, 16 Sep 2025 07:59:28 GMT | Why Information Gathering Is the Most Important Step in a Pentest | Vivek Bhatt | [Read More](https://medium.com/p/b67d5f7ea6bc) |
+| Tue, 16 Sep 2025 07:56:27 GMT | 5 Key Benefits When You Hire Certified Ethical Hackers for Instagram | Jessi Rogers | [Read More](https://medium.com/p/ade2fedfa117) |
+| Tue, 16 Sep 2025 07:53:46 GMT | Learn How to Search Hidden Web Pages with TryHackMe | Zulfianarahmi | [Read More](https://medium.com/p/5287f445f7b1) |
+| Tue, 16 Sep 2025 07:50:17 GMT | Device Security Nightmare-Busting MDM Features | Vichitra Godamunne | [Read More](https://medium.com/p/ee95ed57a281) |
+| Tue, 16 Sep 2025 07:49:45 GMT | Cracking the iOS App Store’s Version Barrier: From IPA Extraction to Execution | Aman Banga | [Read More](https://medium.com/p/1f641da0e94a) |
+| Tue, 16 Sep 2025 07:48:34 GMT | I, Robot + NIST AI RMF = Complete Guide on Preventing Robot Rebellion | Netlas.io | [Read More](https://medium.com/p/ad620c675e2e) |
 | Tue, 16 Sep 2025 07:29:31 GMT | How Hackers Technically Get Anything For Free (demo) | Jackson Mittag | [Read More](https://medium.com/p/6eb0ee3d45e5) |
 | Tue, 16 Sep 2025 07:27:55 GMT | Mastering AWS IAM: Best Practices for Secure Cloud Access(Beginner) | Emmanuel Odhiambo | [Read More](https://medium.com/p/ef9050a4629a) |
 | Tue, 16 Sep 2025 07:27:43 GMT | Incident Response Steps and Practical Examples | Esra Kayhan | [Read More](https://medium.com/p/26e4c56be00d) |
 | Tue, 16 Sep 2025 07:21:58 GMT | E-commerce Security Best Practices: Protecting Your Store from Cyber Threats | Ambala IT | [Read More](https://medium.com/p/69d455d458a2) |
 | Tue, 16 Sep 2025 07:21:02 GMT | ADK Agents with Agentspace Authenticated Datastores | Olejniczak Lukasz | [Read More](https://medium.com/p/64a49466074d) |
 | Tue, 16 Sep 2025 07:19:18 GMT | How to Supercharge your Yields with BUG: A Guide to Maximizing Your BUG Yield Rewards | BUG | [Read More](https://medium.com/p/3c86efa63277) |
+| Tue, 16 Sep 2025 07:19:13 GMT | 3 Simple Reasons Why Agile/Scrum Beats Waterfall Methodology | Mir Hassan | [Read More](https://medium.com/p/6ca760c15360) |
 | Tue, 16 Sep 2025 07:18:20 GMT | Cloud Ransomware Campaign Codefinger: Abusing AWS for S3 Encryption | Vinicius Egerland | [Read More](https://medium.com/p/e45948049b4e) |
 | Tue, 16 Sep 2025 07:17:46 GMT | AI security and data science: Why data scientists are the first line of defense | Reza Sahraeian | [Read More](https://medium.com/p/50655e5348f5) |
 | Tue, 16 Sep 2025 07:14:04 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a28b332fd475) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 02:43:51 GMT | 5 Reasons MySQL Is No Longer Worth Using in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/0e73e167ab04) |
 | Tue, 16 Sep 2025 02:43:30 GMT | Apple’s War Against Spyware | Izaak Maine | [Read More](https://medium.com/p/f0ee74b40c21) |
 | Tue, 16 Sep 2025 02:36:24 GMT | MariaDB 10x Faster Than MySQL? Truth or Hype? | Rizqi Mulki | [Read More](https://medium.com/p/8b04ec2c7a14) |
-| Tue, 16 Sep 2025 02:31:45 GMT | Inside a SOC: 15 Real Attacks Analysts Stop Every Single Day | Paritosh | [Read More](https://medium.com/p/83d5b1abf0ee) |
-| Tue, 16 Sep 2025 02:31:27 GMT | Is MySQL Dead? Why Everyone Is Moving to MariaDB | Rizqi Mulki | [Read More](https://medium.com/p/b06d09f6dc57) |
-| Tue, 16 Sep 2025 02:24:04 GMT | What is the internet? Here’s how it works in simple terms. | pribadi jujep | [Read More](https://medium.com/p/d6dc5aef1923) |
-| Tue, 16 Sep 2025 02:19:22 GMT | Data-Driven Security: How Big Data & Machine Learning Are Transforming Cyber Defense | Henry William | [Read More](https://medium.com/p/2e4463346d8b) |
-| Tue, 16 Sep 2025 02:12:35 GMT | Internal Security Audit — Botium Toys (Portfolio Sample) | Sameera Nazneen | [Read More](https://medium.com/p/2e79733058d5) |
-| Tue, 16 Sep 2025 02:01:56 GMT | SAML 2.0 Demystified: What Every Enterprise Worker Should Know | Kunal Sinha | [Read More](https://medium.com/p/f7dcac6c86f4) |
-| Tue, 16 Sep 2025 01:55:49 GMT | Let’s Hack a Wifi Network, or Why You Need a Better Password | Glenn Sorrentino | [Read More](https://medium.com/p/8c197f9ccc84) |
-| Tue, 16 Sep 2025 01:18:34 GMT | What Led Me From Military Service and Entrepreneurship Into Technology | Eric Odom | [Read More](https://medium.com/p/a2a3fe118824) |
-| Tue, 16 Sep 2025 01:17:43 GMT | Perbedaan WiFi dan Data Seluler | Alzar Mahira | [Read More](https://medium.com/p/6970a754ca91) |
-| Tue, 16 Sep 2025 00:53:19 GMT | HTB: EscapeTwo | Ross Andrews | [Read More](https://medium.com/p/66b20fe52979) |
-| Tue, 16 Sep 2025 00:51:43 GMT | Malware Development with NIM — Process Hollowing (or the Art of Soul Transplant) | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/30326e0a2b5c) |
-| Tue, 16 Sep 2025 00:35:22 GMT | Tuesday Morning Threat Report: Sept 16, 2025 | Mark Maguire | [Read More](https://medium.com/p/68727cd37fa8) |
-| Tue, 16 Sep 2025 00:27:46 GMT | Apple Vision Pro and the Realities of EdTech “Revolutions” | Jagath Jayaprakash | [Read More](https://medium.com/p/4ad2056825b7) |
-| Tue, 16 Sep 2025 00:11:27 GMT | Make $50 Fast | Nate Bind | [Read More](https://medium.com/p/713d893bcfdc) |
-| Mon, 15 Sep 2025 23:47:29 GMT | Monsoon Whispers: Part 2 | Akshat Mittal | [Read More](https://medium.com/p/17bcc3e49a3b) |
-| Mon, 15 Sep 2025 23:37:22 GMT | Torch Search Engine: What It Is, How It Works, and Is It Safe? | Akshay Chauhan | [Read More](https://medium.com/p/fa1c8eda1eb8) |
-| Mon, 15 Sep 2025 23:31:45 GMT | Authentication and Authorization | TechieBot | [Read More](https://medium.com/p/2e8941ee1992) |
-| Mon, 15 Sep 2025 23:27:05 GMT | Microsoft to force install the Microsoft 365 Copilot app in October | Bruno Agostinho | [Read More](https://medium.com/p/4bb5800459cd) |
-| Mon, 15 Sep 2025 23:21:36 GMT | SOC164 — Suspicious Mshta Behavior | Harshprajapati | [Read More](https://medium.com/p/9028527e3ac2) |
-| Mon, 15 Sep 2025 23:09:57 GMT | 40 Days SOC Analyst Challenge | Zainab in Tech | [Read More](https://medium.com/p/dab1e558a0b6) |
