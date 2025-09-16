@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 07:29:31 GMT | How Hackers Technically Get Anything For Free (demo) | Jackson Mittag | [Read More](https://medium.com/p/6eb0ee3d45e5) |
+| Tue, 16 Sep 2025 07:27:55 GMT | Mastering AWS IAM: Best Practices for Secure Cloud Access(Beginner) | Emmanuel Odhiambo | [Read More](https://medium.com/p/ef9050a4629a) |
+| Tue, 16 Sep 2025 07:27:43 GMT | Incident Response Steps and Practical Examples | Esra Kayhan | [Read More](https://medium.com/p/26e4c56be00d) |
+| Tue, 16 Sep 2025 07:21:58 GMT | E-commerce Security Best Practices: Protecting Your Store from Cyber Threats | Ambala IT | [Read More](https://medium.com/p/69d455d458a2) |
+| Tue, 16 Sep 2025 07:21:02 GMT | ADK Agents with Agentspace Authenticated Datastores | Olejniczak Lukasz | [Read More](https://medium.com/p/64a49466074d) |
+| Tue, 16 Sep 2025 07:19:18 GMT | How to Supercharge your Yields with BUG: A Guide to Maximizing Your BUG Yield Rewards | BUG | [Read More](https://medium.com/p/3c86efa63277) |
 | Tue, 16 Sep 2025 07:18:20 GMT | Cloud Ransomware Campaign Codefinger: Abusing AWS for S3 Encryption | Vinicius Egerland | [Read More](https://medium.com/p/e45948049b4e) |
+| Tue, 16 Sep 2025 07:17:46 GMT | AI security and data science: Why data scientists are the first line of defense | Reza Sahraeian | [Read More](https://medium.com/p/50655e5348f5) |
 | Tue, 16 Sep 2025 07:14:04 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a28b332fd475) |
 | Tue, 16 Sep 2025 07:03:21 GMT | How 24/7 Managed Detection and Response (MDR) Protects Against Ransomware | Reghu Mohandas | [Read More](https://medium.com/p/d1df5d41f724) |
 | Tue, 16 Sep 2025 07:02:01 GMT | The Real Cost of One Reused Password vs a Year of Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/c9b74286e1ca) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 23:27:05 GMT | Microsoft to force install the Microsoft 365 Copilot app in October | Bruno Agostinho | [Read More](https://medium.com/p/4bb5800459cd) |
 | Mon, 15 Sep 2025 23:21:36 GMT | SOC164 — Suspicious Mshta Behavior | Harshprajapati | [Read More](https://medium.com/p/9028527e3ac2) |
 | Mon, 15 Sep 2025 23:09:57 GMT | 40 Days SOC Analyst Challenge | Zainab in Tech | [Read More](https://medium.com/p/dab1e558a0b6) |
-| Mon, 15 Sep 2025 23:09:39 GMT | Dr. Bryson Payne: Lifetime Cybersecurity Achievement Award | Tyler Wall | [Read More](https://medium.com/p/47387b529fa1) |
-| Mon, 15 Sep 2025 23:06:06 GMT | I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  (5 Bugs… | K4r33m | [Read More](https://medium.com/p/cfc87f105144) |
-| Mon, 15 Sep 2025 22:55:47 GMT | First Blood in Cyshield CTF (Helwan University ) —  OS Command Injection → flag (only solve ) | Zeyad Karim | [Read More](https://medium.com/p/73ba55b83df1) |
-| Mon, 15 Sep 2025 22:48:43 GMT | Alpine Linux + Docker on Proxmox: Lightweight DVWA Lab Setup for Web Security | Farhan Ahmed | [Read More](https://medium.com/p/a934c6bf73a0) |
-| Mon, 15 Sep 2025 22:47:37 GMT | Hack the Box — Forest — WriteUp | Emre A. | [Read More](https://medium.com/p/543b44c34bff) |
-| Mon, 15 Sep 2025 22:40:45 GMT | Generative AI Is Fueling the Next Big Scam Wave | Amanda Marangu | [Read More](https://medium.com/p/2595a6c5901b) |
-| Mon, 15 Sep 2025 22:40:06 GMT | Hackers Leverage Raw Disk Reads to Bypass EDR Solutions and Access Highly Sensitive Files | David SEHYEON Baek | [Read More](https://medium.com/p/7fa58190ef2f) |
