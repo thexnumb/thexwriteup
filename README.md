@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 04:08:58 GMT | Gemini Pro’s Student Verification Loophole: A Bug, or a Feature? | Skjasimuddin | [Read More](https://medium.com/p/f2d425d33925) |
+| Tue, 16 Sep 2025 03:58:08 GMT | What Anxiety Taught Me About Being Human: A Journey of Self-Discovery | Senorita Eugenia | [Read More](https://medium.com/p/45d99a125fb8) |
+| Tue, 16 Sep 2025 03:57:38 GMT | Stop Writing Tests (Do This Instead for 10x Results) | Coding Ninja | [Read More](https://medium.com/p/1935bde0cdd7) |
+| Tue, 16 Sep 2025 03:52:48 GMT | What Three Attempts at the OSCP Taught Me | Liam Huynh | [Read More](https://medium.com/p/a67c436ae9ee) |
 | Tue, 16 Sep 2025 03:39:31 GMT | Cybersecurity in 2025: Why German Businesses Still Face Critical IT Security Challenges | Sarmin Islam | [Read More](https://medium.com/p/31f2c11dd915) |
 | Tue, 16 Sep 2025 03:37:34 GMT | Weekly Cyber Intelligence Brief Global Threats & Breaches | Finstein.ai | [Read More](https://medium.com/p/7db98fa56ac6) |
 | Tue, 16 Sep 2025 03:32:30 GMT | VexTrio Exposed: How a 15-Year-Old Operation Hijacks Everyday Browsing | Deven Chhajed | [Read More](https://medium.com/p/698bf9566e71) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 19:13:50 GMT | Three recent articles about AI | Stephen Thursby | [Read More](https://medium.com/p/3cad8c595954) |
 | Mon, 15 Sep 2025 19:04:53 GMT | Your Cybersecurity Skills Won’t Make You Rich — But This Quiet Side System Will | EHxAnomity | [Read More](https://medium.com/p/f43ea5c0c56d) |
 | Mon, 15 Sep 2025 19:01:30 GMT | ISO27001 — Pas de développement logiciel, voici la liste des contrôles non applicables | Patrick Boucher | [Read More](https://medium.com/p/549c48221398) |
-| Mon, 15 Sep 2025 18:59:20 GMT | How I Hacked My ISP’s IPTV Set-Top Box? | Madari | [Read More](https://medium.com/p/f1c6f49dab01) |
-| Mon, 15 Sep 2025 18:57:19 GMT | Bilgi Toplama | Ömer Kaan Kurt | [Read More](https://medium.com/p/092e5cef5745) |
-| Mon, 15 Sep 2025 18:54:05 GMT | Ethical hacking - penetration testing — Roadmap | Iserjaoui | [Read More](https://medium.com/p/a8a1e13021f4) |
-| Mon, 15 Sep 2025 18:50:12 GMT | RustyKey | Toshith | [Read More](https://medium.com/p/57951be30ed2) |
