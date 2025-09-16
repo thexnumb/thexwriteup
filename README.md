@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 23:19:36 GMT | “DeepTrace” Forensics Challenge in Connectors CTF Qualifications by Connectors Team | Mohamed Ramadan | [Read More](https://medium.com/p/284304950704) |
+| Tue, 16 Sep 2025 23:15:29 GMT | Red Team 101: Aktif Bilgi Toplama NMAP kullanımı & Zafiyet Tespiti - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/e28d5793f22f) |
 | Tue, 16 Sep 2025 23:05:22 GMT | How Bug Hunters Can Find Off-Platform Apps — Privately, Ethically, and Legally — and Get to the… | rezasafarzade | [Read More](https://medium.com/p/6e0feabf25e9) |
 | Tue, 16 Sep 2025 23:04:41 GMT | CrowdStrike Under Attack? When Security Tools Become the Target. | Truspex | [Read More](https://medium.com/p/c77f69640a19) |
 | Tue, 16 Sep 2025 22:20:05 GMT | When “Delete for Everyone” Doesn’t Delete: My Experience Reporting a Vulnerability in WhatsApp Web | Bruzistico | [Read More](https://medium.com/p/7e9d86e74134) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 16:30:43 GMT | The Masks We Wear | Varnika | [Read More](https://medium.com/p/dfba441e677a) |
 | Tue, 16 Sep 2025 16:27:01 GMT | Life as an MSc Cybersecurity Student at NCI, Ireland: My Journey & Reflections | Prateekpulastya | [Read More](https://medium.com/p/58298dcf7a69) |
 | Tue, 16 Sep 2025 16:26:18 GMT | Mr. Robot: Hacking the System, Hacking the Self | Tugrul Cavusoglu | [Read More](https://medium.com/p/18858bcbdd85) |
-| Tue, 16 Sep 2025 16:25:56 GMT | Pemrograman Dasar Mikrokontroler: Latihan / Tugas | Zifa Tea Azzahra | [Read More](https://medium.com/p/95b59005bcbe) |
-| Tue, 16 Sep 2025 16:24:20 GMT | Hack the Box — Union — WriteUp | Emre A. | [Read More](https://medium.com/p/f88e8721739c) |
