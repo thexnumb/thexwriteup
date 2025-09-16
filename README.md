@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 14:39:23 GMT | Big Data : Instalasi Apache Hadoop dan Apache Spark | Yasa Wijaya | [Read More](https://medium.com/p/bf231723e7fc) |
+| Tue, 16 Sep 2025 14:36:56 GMT | Zero Trust? More Like Zero Understanding. | Truspex | [Read More](https://medium.com/p/a28435738c5b) |
+| Tue, 16 Sep 2025 14:36:07 GMT | No, I’m not a Human best Indie, Simulation Game For Windows | Saifalrehmans | [Read More](https://medium.com/p/2ec376c53008) |
+| Tue, 16 Sep 2025 14:36:00 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and “PromptLock: The World’s First AI-Powered… | Nitin Garg | [Read More](https://medium.com/p/66df979afe0f) |
+| Tue, 16 Sep 2025 14:34:39 GMT | The Day the World Crashed: Unpacking the 2024 CrowdStrike Outage That Grounded Planes and Froze… | Umesh Anjula | [Read More](https://medium.com/p/9173afcae1a7) |
+| Tue, 16 Sep 2025 14:33:48 GMT | RAM: Random Access Mayhem Download For PC & Windows | Saifalrehmans | [Read More](https://medium.com/p/931e550d1d05) |
+| Tue, 16 Sep 2025 14:31:42 GMT | Lets Hacks Printers Now!! | Mainekhacker | [Read More](https://medium.com/p/b087dac760b3) |
+| Tue, 16 Sep 2025 14:31:39 GMT | Your Vector Databases Aren’t Safe Anymore | Cybersecurity Umbrella | [Read More](https://medium.com/p/fc85d95d4db3) |
+| Tue, 16 Sep 2025 14:31:18 GMT | Lab: Reflected XSS into a template literal with angle brackets, single, double quotes, backslash… | Chirag Vyas | [Read More](https://medium.com/p/01839a1fbbe4) |
+| Tue, 16 Sep 2025 14:28:58 GMT | Implementing Authentication in React with JWT & Refresh Tokens | Karthikeyan NS | [Read More](https://medium.com/p/f9815c665e5f) |
+| Tue, 16 Sep 2025 14:26:04 GMT | The CTF That Broke Me | Daniel's journey | [Read More](https://medium.com/p/e47769b954dc) |
+| Tue, 16 Sep 2025 14:25:57 GMT | CREATIVITY AND CYBERSECURITY | Adeleke Theophilus | [Read More](https://medium.com/p/4964c1f90d67) |
+| Tue, 16 Sep 2025 14:17:24 GMT | Log4j | Crowndaisy | [Read More](https://medium.com/p/2af2e2436fea) |
 | Tue, 16 Sep 2025 14:14:03 GMT | Python : Operasi Logika, Komparasi logika, dan Elif | Cahyoadi | [Read More](https://medium.com/p/32cffdb59e6b) |
 | Tue, 16 Sep 2025 14:13:26 GMT | CodeTwo Write-up Hack The Box | Jules | [Read More](https://medium.com/p/4e62d1a96d49) |
 | Tue, 16 Sep 2025 14:11:01 GMT | Blind XSS with AI | Harshad Shah | [Read More](https://medium.com/p/6daff41b807f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 10:23:17 GMT | The Cloud is More Than Storage: A Guide for Aussie Businesses to Unlock Strategic Growth | Secure Nerds | [Read More](https://medium.com/p/413bfeb5046d) |
 | Tue, 16 Sep 2025 10:21:25 GMT | Syndika x QuillAudits: Building a Secure Foundation for Web3 Startups | Syndika | [Read More](https://medium.com/p/2ff49dfd4b3d) |
 | Tue, 16 Sep 2025 10:19:32 GMT | 30-day Windows 10 exit plan: inventory, prioritize, secure, migrate | Pentest_Testing_Corp | [Read More](https://medium.com/p/bfef5520ad0e) |
-| Tue, 16 Sep 2025 10:17:06 GMT | Secure Your Business Future with ISO 27001 in Al Murqab, Kuwait | SIS Certifications | [Read More](https://medium.com/p/57004af4c5b5) |
-| Tue, 16 Sep 2025 10:15:09 GMT | Bluechip Computer Systems LLC’s Role in Delivering Cybersecurity Excellence in the UAE | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/da46ca5df190) |
-| Tue, 16 Sep 2025 10:14:09 GMT | Packing Feelings Into Meta Tags: A Modern Tragedy | SuccessBlueprints.Org | [Read More](https://medium.com/p/b9facd6ab735) |
-| Tue, 16 Sep 2025 10:08:19 GMT | Data Protection Solutions — NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/67a890a307ce) |
-| Tue, 16 Sep 2025 10:06:13 GMT | Best Network Management Service Provider In India - Optimize Your Network Operations | Gowthammathiew | [Read More](https://medium.com/p/93c51efe3992) |
-| Tue, 16 Sep 2025 10:05:48 GMT | Fix Common MDM Software Problems Easily | Vantage MDM | [Read More](https://medium.com/p/3989a16b179b) |
-| Tue, 16 Sep 2025 10:05:39 GMT | Why a Bachelor’s Degree in Cybersecurity Is a Smart Career Move in 2025 | Shreyashettyctr | [Read More](https://medium.com/p/878b08c6d709) |
-| Tue, 16 Sep 2025 10:04:16 GMT | Write-up Internal Selection HCS CTF 2025 | Axel | [Read More](https://medium.com/p/9a97f1a77ff3) |
-| Tue, 16 Sep 2025 10:03:05 GMT | The Real Reason Swimming Can Be Scary for Women | thisaraa | [Read More](https://medium.com/p/5b6fcc636d10) |
-| Tue, 16 Sep 2025 10:02:22 GMT | Zero Trust Cloud Security: Strengthen Cybersecurity & Safeguard Valuable Assets | Cloud Kinetics | [Read More](https://medium.com/p/f6357784a9f8) |
-| Tue, 16 Sep 2025 10:01:16 GMT | iOS 18.7 Update: The Unseen Armor Your iPhone Just Received | Rahul Jawahar | [Read More](https://medium.com/p/c02f751c3f36) |
-| Tue, 16 Sep 2025 10:00:15 GMT | Don’t Take the Bait: The Ultimate Guide to Smishing and Protecting Your Business in 2025 | Geeks Melbourne | [Read More](https://medium.com/p/9b4f1bf10e74) |
-| Tue, 16 Sep 2025 09:56:03 GMT | The Day I Learned Even Sunshine Has a Shadow | SuccessBlueprints.Org | [Read More](https://medium.com/p/00a22bca5813) |
