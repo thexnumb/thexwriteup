@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 18:22:39 GMT | Never Trust Always Verify!! | Anam Khan | [Read More](https://medium.com/p/c3436819d3a2) |
+| Tue, 16 Sep 2025 18:22:31 GMT | Level Up Your Career: Why an Ethical Hacking Course with Placement is Your Ticket to the Top of… | Nitin Singh | [Read More](https://medium.com/p/38dbd8d6a793) |
+| Tue, 16 Sep 2025 18:18:22 GMT | Securing Systems | Anam Khan | [Read More](https://medium.com/p/61e0330ce2aa) |
+| Tue, 16 Sep 2025 18:18:03 GMT | HTB: Cicada | Ross Andrews | [Read More](https://medium.com/p/1048fbf199ce) |
+| Tue, 16 Sep 2025 18:16:30 GMT | Ethical Hacking Bootcamps: Are They Worth It? | Smith Adams | [Read More](https://medium.com/p/dd4f3a55b76d) |
+| Tue, 16 Sep 2025 18:15:43 GMT | Drosera: Building Ethereum’s Nervous System | Ifeoluwakareem | [Read More](https://medium.com/p/3e57d786bf1e) |
+| Tue, 16 Sep 2025 18:11:04 GMT | TryHackMe’s Defensive Security Intro’s Write-Up | Paulo Melo | [Read More](https://medium.com/p/05c1580b00db) |
+| Tue, 16 Sep 2025 18:10:48 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/444b72943b2c) |
+| Tue, 16 Sep 2025 18:08:38 GMT | TryHackMe Writeup: HA Joker CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/d9db37f94da5) |
+| Tue, 16 Sep 2025 18:06:05 GMT | AWSDoor A New Persistence Technique Threatening Cloud Security | Chetan Seripally | [Read More](https://medium.com/p/287861b38277) |
+| Tue, 16 Sep 2025 18:04:39 GMT | AI in Cybersecurity: The Arms Race of Autonomous Attacks and Defensive AI | Varun Raj | [Read More](https://medium.com/p/e9ed9b527a63) |
+| Tue, 16 Sep 2025 18:03:20 GMT | Deep Dive into Web Security: A Practical Guide for Django Developers | Jose Daniel García Suero | [Read More](https://medium.com/p/75dd2ef388b0) |
+| Tue, 16 Sep 2025 18:01:53 GMT | AWS S3 Presigned URLs vs Multer: A Developer’s Guide to Efficient File Uploads | Samuel Ndubuisi | [Read More](https://medium.com/p/60326a7dfdd5) |
+| Tue, 16 Sep 2025 18:01:44 GMT | Bug Bounty Explotando el CVE-2025–29927: middleware vulnerable paso a paso | Gorka | [Read More](https://medium.com/p/1a36f9478fe6) |
+| Tue, 16 Sep 2025 18:00:08 GMT | Exploiting CVE-2024–9264: Anatomy of the Grafana 11.0.0 Remote Exploit | Raj Kumar M | [Read More](https://medium.com/p/fa66aaf90e7a) |
+| Tue, 16 Sep 2025 17:58:36 GMT | Why Event Security is Crucial for Large Gatherings | Nimra Sheikh | [Read More](https://medium.com/p/4110476fcc39) |
+| Tue, 16 Sep 2025 17:56:02 GMT | TryHackMe - AppSec IR - WriteUp | Axoloth | [Read More](https://medium.com/p/edabafca3c03) |
+| Tue, 16 Sep 2025 17:53:33 GMT | The Vulnerability Chronicles: Addicted to Not Being In Pain | DamnAmazon | [Read More](https://medium.com/p/38304a9d374a) |
+| Tue, 16 Sep 2025 17:53:14 GMT | A New Day, a New Security Attack on npm… | Joaquin Diaz | [Read More](https://medium.com/p/5684b7933e2b) |
+| Tue, 16 Sep 2025 17:40:27 GMT | Kerberos Authentication Process | SeverSerenity | [Read More](https://medium.com/p/b9c7db481c56) |
+| Tue, 16 Sep 2025 17:39:40 GMT | The Lifelong Learner: Vulnerability and Continuous Development | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/c3fa1068a853) |
+| Tue, 16 Sep 2025 17:36:10 GMT | Dina (VulnHub) Walkthrough — Step by Step to Root | DHAYAN BALAGOPAL | [Read More](https://medium.com/p/21af7594647c) |
 | Tue, 16 Sep 2025 17:29:12 GMT | PG Practice — Payday (Linux) | Lepton | [Read More](https://medium.com/p/473d320d687f) |
+| Tue, 16 Sep 2025 17:27:16 GMT | Security in AI Coding: Can AI Really Detect Exploits? | Seedify | [Read More](https://medium.com/p/1295c7f050f0) |
 | Tue, 16 Sep 2025 17:24:15 GMT | Web Zafiyetleri Serisi #3 | Didem Kış | [Read More](https://medium.com/p/5bb9dbe464ce) |
 | Tue, 16 Sep 2025 17:24:01 GMT | Privacy is Luxury | Nidhi Chaurasia | [Read More](https://medium.com/p/80ffbba5d693) |
 | Tue, 16 Sep 2025 17:19:57 GMT | 7 Signs Your Business Needs Managed Cloud Services Right Now | Anas Imtiaz | [Read More](https://medium.com/p/801893bd0379) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 14:11:01 GMT | 10 Things You Didn’t Know About Security Companies in Ventura County | Direct Guard Services | [Read More](https://medium.com/p/7d540532c6fb) |
 | Tue, 16 Sep 2025 14:08:14 GMT | Why companies are paying hackers ? Everything about Bug Bounties— for enthusiasts students! | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/63170920ffb9) |
 | Tue, 16 Sep 2025 14:06:29 GMT | Developing Secure Authentication Systems with NextAuth.js: Latest Techniques | @rnab | [Read More](https://medium.com/p/7c0458d9de22) |
-| Tue, 16 Sep 2025 14:05:53 GMT | Play_Session_Injection — Walkthrough | Mohamed Hassan | [Read More](https://medium.com/p/5968189ef269) |
-| Tue, 16 Sep 2025 14:01:53 GMT | How to Deactivate a Garage Door Opener: Secure and Simple Methods | 24H Garage Doors | [Read More](https://medium.com/p/8b3d5802415d) |
-| Tue, 16 Sep 2025 14:01:51 GMT | Cyber Briefing: 2025.09.16 | CyberMaterial | [Read More](https://medium.com/p/dfc711492e2c) |
-| Tue, 16 Sep 2025 13:55:24 GMT | How AI is Altering the Game in Cybersecurity | Pavan Patil | [Read More](https://medium.com/p/afac87671b40) |
-| Tue, 16 Sep 2025 13:51:44 GMT | Protecting Your AI Side Hustle: Simple Steps to Guard Against Data Theft and Scams | vydhi | [Read More](https://medium.com/p/7e80f8d3eb2f) |
-| Tue, 16 Sep 2025 13:51:15 GMT | Microsoft Edge DLL Hijack | David Mendes | [Read More](https://medium.com/p/1ecb0cd5ae85) |
-| Tue, 16 Sep 2025 13:49:46 GMT | Reputation & Safety Review of the Imo Video Chat Service (imo.io) | Obivan Kenoby | [Read More](https://medium.com/p/8462dd5abd55) |
-| Tue, 16 Sep 2025 13:49:29 GMT | The Log Paradox: Swimming in Data, Starving for Intelligence | Eric Zietlow | [Read More](https://medium.com/p/7301519c74cd) |
-| Tue, 16 Sep 2025 13:46:06 GMT | Unlocking the Lock: Access Control Vulnerabilities in Smart Contracts | ZerΔch | [Read More](https://medium.com/p/efd2953810d8) |
-| Tue, 16 Sep 2025 13:44:47 GMT | The Hidden Access Crisis in SaaS & AI: Key Insights from CloudEagle’s Latest Webinar | CloudEagle | [Read More](https://medium.com/p/184d9b9a68e3) |
-| Tue, 16 Sep 2025 13:41:32 GMT | The Role of Files and Folders in Operating Systems — okcomputers | okcomputerstechnology | [Read More](https://medium.com/p/c8873deacf5f) |
-| Tue, 16 Sep 2025 13:38:50 GMT | Who Owns Security in a 20-Person Company? | Evgeny Ermakov | [Read More](https://medium.com/p/f2000d78043f) |
-| Tue, 16 Sep 2025 13:37:22 GMT | Complete Guide to File Uploads in Next.js — AWS S3, Presigned URLs & Dropzone | Supun jayalath | [Read More](https://medium.com/p/adb7a60d318c) |
-| Tue, 16 Sep 2025 13:33:45 GMT | Smart Contract Post-exploit Analysis: How to find what happened, how and why | Joe LeFever | [Read More](https://medium.com/p/9e4e5bc6a30b) |
-| Tue, 16 Sep 2025 13:31:45 GMT | How to Program a Garage Door Remote to a Car: Quick Step-by-Step Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/4c846d486b8e) |
-| Tue, 16 Sep 2025 13:30:36 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/d0a34535a354) |
-| Tue, 16 Sep 2025 13:24:43 GMT | One Number, One Change: How I Took Over an Account Using Local Storage | eSecForte Technologies | [Read More](https://medium.com/p/afe59c5d2f7e) |
-| Tue, 16 Sep 2025 13:23:38 GMT | Top Software Development Services in 2025 | Macromodule Technologies | [Read More](https://medium.com/p/d5ba9a8db269) |
-| Tue, 16 Sep 2025 13:21:31 GMT | Heads Up: Hunting a Malicious Discord Invite Only — TryHackMe — Walkthrough️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/07cb9d74027a) |
-| Tue, 16 Sep 2025 13:21:22 GMT | Why MDR is Crucial for Modern Cybersecurity | Lipika | [Read More](https://medium.com/p/bc334ce4ec92) |
-| Tue, 16 Sep 2025 13:20:58 GMT | How All Pass Hub’s Audit Trails Strengthen Security & Collaboration | Password Manager | [Read More](https://medium.com/p/b83fb59303ee) |
-| Tue, 16 Sep 2025 13:20:13 GMT | Drosera: Guarding DeFi with Smart Traps & Trustless Ops | npccrypto | [Read More](https://medium.com/p/d9ebdf4cfccf) |
-| Tue, 16 Sep 2025 13:16:28 GMT | What is Cyber Security: A Complete Guide | gadget4tool | [Read More](https://medium.com/p/2fb55a7913f0) |
