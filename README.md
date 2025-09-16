@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Sep 2025 02:43:51 GMT | 5 Reasons MySQL Is No Longer Worth Using in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/0e73e167ab04) |
+| Tue, 16 Sep 2025 02:36:24 GMT | MariaDB 10x Faster Than MySQL? Truth or Hype? | Rizqi Mulki | [Read More](https://medium.com/p/8b04ec2c7a14) |
+| Tue, 16 Sep 2025 02:31:45 GMT | Inside a SOC: 15 Real Attacks Analysts Stop Every Single Day | Paritosh | [Read More](https://medium.com/p/83d5b1abf0ee) |
+| Tue, 16 Sep 2025 02:31:27 GMT | Is MySQL Dead? Why Everyone Is Moving to MariaDB | Rizqi Mulki | [Read More](https://medium.com/p/b06d09f6dc57) |
+| Tue, 16 Sep 2025 02:24:04 GMT | What is the internet? Here’s how it works in simple terms. | pribadi jujep | [Read More](https://medium.com/p/d6dc5aef1923) |
+| Tue, 16 Sep 2025 02:19:22 GMT | Data-Driven Security: How Big Data & Machine Learning Are Transforming Cyber Defense | Henry William | [Read More](https://medium.com/p/2e4463346d8b) |
+| Tue, 16 Sep 2025 02:12:35 GMT | Internal Security Audit — Botium Toys (Portfolio Sample) | Sameera Nazneen | [Read More](https://medium.com/p/2e79733058d5) |
+| Tue, 16 Sep 2025 02:01:56 GMT | SAML 2.0 Demystified: What Every Enterprise Worker Should Know | Kunal Sinha | [Read More](https://medium.com/p/f7dcac6c86f4) |
+| Tue, 16 Sep 2025 01:55:49 GMT | Let’s Hack a Wifi Network, or Why You Need a Better Password | Glenn Sorrentino | [Read More](https://medium.com/p/8c197f9ccc84) |
 | Tue, 16 Sep 2025 01:18:34 GMT | What Led Me From Military Service and Entrepreneurship Into Technology | Eric Odom | [Read More](https://medium.com/p/a2a3fe118824) |
 | Tue, 16 Sep 2025 01:17:43 GMT | Perbedaan WiFi dan Data Seluler | Alzar Mahira | [Read More](https://medium.com/p/6970a754ca91) |
 | Tue, 16 Sep 2025 00:53:19 GMT | HTB: EscapeTwo | Ross Andrews | [Read More](https://medium.com/p/66b20fe52979) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Sep 2025 18:11:40 GMT | Praktikum Internet of Things (Tugas): Pemrograman Dasar Mikrokontroler | Muhammad Surya Saputro | [Read More](https://medium.com/p/3d86c896144f) |
 | Mon, 15 Sep 2025 18:02:01 GMT | Account Takeover vía endpoint de reset password: cuando el sistema te regala el acceso | Gorka | [Read More](https://medium.com/p/2f5b619edfb8) |
 | Mon, 15 Sep 2025 18:01:10 GMT | Malicious Mcp Servers Used In Supply-chain Attacks | Yaniv | [Read More](https://medium.com/p/ad1ea33a7781) |
-| Mon, 15 Sep 2025 17:55:52 GMT | Cara Cepat Pasang Arduino IDE & Buat LED Berkelip: Panduan Praktikum yang Mudah | Zifa Tea Azzahra | [Read More](https://medium.com/p/5f4f639ffba5) |
-| Mon, 15 Sep 2025 17:46:33 GMT | Crackmes.de: Beginner Friendly | Sourav Bose | [Read More](https://medium.com/p/f19883c787ec) |
-| Mon, 15 Sep 2025 17:45:36 GMT | Post Quantum Computing -Future of Cryptography and Quantum-Resistant Security | SUMIT BHARDWAJ | [Read More](https://medium.com/p/01e0eca94bde) |
-| Mon, 15 Sep 2025 17:45:32 GMT | How Synthetic Identity Fraud Became Insurance’s Most Sophisticated Threat | Rishisec | [Read More](https://medium.com/p/10f73e4c6ad9) |
-| Mon, 15 Sep 2025 17:45:02 GMT | Building An Offensive Security AI Agent - Part 2 | OTR | [Read More](https://medium.com/p/d3fa197c4d20) |
-| Mon, 15 Sep 2025 17:36:22 GMT | Putin’s Democracy DDoSed: How Ukraine Hacked Russia’s Election Nerve Center | Emily Rhodes | [Read More](https://medium.com/p/c5f17279b6c5) |
-| Mon, 15 Sep 2025 17:31:12 GMT | NetSupport RAT analysis and with a path of Fake Captcha | Nirajbagde | [Read More](https://medium.com/p/dd9a4b67fcef) |
-| Mon, 15 Sep 2025 17:28:06 GMT | How to achieve your CEH Certification in first attempt. ‍ | Ebullient | [Read More](https://medium.com/p/ac774744d596) |
-| Mon, 15 Sep 2025 17:17:44 GMT | Why Senior Developers Always Validate Input (And How They Do It Right) | Syarif | [Read More](https://medium.com/p/eaf8e7a11050) |
