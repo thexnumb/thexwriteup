@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 08:22:03 GMT | Red Team 101+: Zafiyet Tespiti — Payload & Exploit Kullanımı - TalentCoders Siber Güvenlik Yaz… | Hakan ÇEVİK | [Read More](https://medium.com/p/d29751b2ccd1) |
+| Wed, 17 Sep 2025 08:19:30 GMT | EDRmetry Matrix — Your Comprehensive Hands-On Linux Attack TTPs Catalog For Download / Self-Hosted | Leszek Mis @ Defensive-Security.com | [Read More](https://medium.com/p/9ad237dd8d95) |
+| Wed, 17 Sep 2025 08:16:04 GMT | 30 Common Security Incidents SOC Analysts Handle Every Day | Mohammed Danish | [Read More](https://medium.com/p/ecd31906eabc) |
+| Wed, 17 Sep 2025 08:13:16 GMT | DockerLabs Writeup — DevTools (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8390a6fb008d) |
+| Wed, 17 Sep 2025 08:12:28 GMT | 5 Immediate Steps to Protect Yourself From Deepfake Scams | Mudassir Khan | [Read More](https://medium.com/p/de3abe15cc94) |
+| Wed, 17 Sep 2025 08:10:17 GMT | Drosera: the security automation layer for Ethereum | 0xMaax | [Read More](https://medium.com/p/3ad57e1e378b) |
+| Wed, 17 Sep 2025 08:06:47 GMT | Booking a Trip? Watch Out for These Risky Scams | Dalibor Zivkovic | [Read More](https://medium.com/p/ff0cb27b8dd6) |
+| Wed, 17 Sep 2025 08:06:01 GMT | TryHackMe #20 - Active Directory Basics | 0xGroot | [Read More](https://medium.com/p/66e52e563656) |
+| Wed, 17 Sep 2025 08:04:58 GMT | Top 5 Cybersecurity Search Engines: Strengths and Weaknesses | Liuliuliusq | [Read More](https://medium.com/p/bb7624be74b3) |
+| Wed, 17 Sep 2025 08:01:57 GMT | [Part 5] AI Tools Anyone Can Use to Improve Personal Cybersecurity (Free & Simple) | Cyberkech | [Read More](https://medium.com/p/b11c1f14b886) |
+| Wed, 17 Sep 2025 08:01:56 GMT | TryHackMe #19 - Search Skills | 0xGroot | [Read More](https://medium.com/p/30e760f0ffea) |
+| Wed, 17 Sep 2025 08:01:43 GMT | What Businesses Can Learn from the Jaguar Land Rover Cybæer-attack in 2025 | Bobby Andrews | [Read More](https://medium.com/p/158ad964151f) |
+| Wed, 17 Sep 2025 07:57:25 GMT | Industrial Cybersecurity Market: Securing Manufacturing in Digital Era | Upasanapradhan | [Read More](https://medium.com/p/184a4331c255) |
+| Wed, 17 Sep 2025 07:53:21 GMT | The Pension Revolution: How American Companies Are Reshaping Retirement Security | Arunkumar | [Read More](https://medium.com/p/37d346d53a09) |
+| Wed, 17 Sep 2025 07:49:09 GMT | Memahami Model Layanan Cloud: laaS, PaaS, dan SaaS | Zifa Tea Azzahra | [Read More](https://medium.com/p/af637216b9ea) |
+| Wed, 17 Sep 2025 07:47:53 GMT | Web Cache Poisoning to Exploit a DOM Vulnerability via a Cache With Strict Cacheability Criteria | Bash Overflow | [Read More](https://medium.com/p/a357c62bba7d) |
+| Wed, 17 Sep 2025 07:39:08 GMT | Upload File ด้วย Playwright แบบ Page Object Model (POM) | Nuttawut Inpeng | [Read More](https://medium.com/p/4b78700c07e2) |
+| Wed, 17 Sep 2025 07:34:43 GMT | The New Gold King A few days ago, I stumbled upon some jaw-dropping news about gold exports that’ll… | thai politics | [Read More](https://medium.com/p/45304e3bbe69) |
+| Wed, 17 Sep 2025 07:34:42 GMT | Building Your First Machine Learning Model with Scikit-Learn: A Complete Guide | Rizqi Mulki | [Read More](https://medium.com/p/b1eb91418f53) |
 | Wed, 17 Sep 2025 07:32:23 GMT | Directory Traversal Attacks: When File Systems Become Your Enemy | Rizqi Mulki | [Read More](https://medium.com/p/0511c78d4b62) |
 | Wed, 17 Sep 2025 07:32:15 GMT | Threat Hunting: Searching for Malicious Activity on the Network | Esra Kayhan | [Read More](https://medium.com/p/0512149c857a) |
 | Wed, 17 Sep 2025 07:32:15 GMT | How to use language models securely | Jonathan Davis | [Read More](https://medium.com/p/12013a03c28b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 03:13:33 GMT | Protect your properties and clients from cyber threats using next-gen AI. ALFOX.AI | Vsgangaraju | [Read More](https://medium.com/p/44260b0ed8b1) |
 | Wed, 17 Sep 2025 03:03:19 GMT | Faith Over Fear | Gianna Judkins | [Read More](https://medium.com/p/78a62f2493ba) |
 | Wed, 17 Sep 2025 03:01:46 GMT | Germany’s Draft Is Back — Who Will Serve, and How? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/352c4a409f3e) |
-| Wed, 17 Sep 2025 02:56:17 GMT | Openfire Admin Console Auth Bypass (CVE-2023–32315) — From Path Traversal to RCE | AerieWhole123 | [Read More](https://medium.com/p/8661247ec509) |
-| Wed, 17 Sep 2025 02:39:33 GMT | HTB Pro Lab: Dante — Review, Wrecks & Lessons | Nicholas D'Acri | [Read More](https://medium.com/p/02ca78c1e26e) |
-| Wed, 17 Sep 2025 02:31:45 GMT | Easiest Account Lockout Bypass | Manav | [Read More](https://medium.com/p/ea2c82fb66c6) |
-| Wed, 17 Sep 2025 02:31:45 GMT | 7 Costly Mistakes Businesses Make With Their Website (And How to Fix Them) | DevOrbit | [Read More](https://medium.com/p/d51d6bf32d3d) |
-| Wed, 17 Sep 2025 02:31:15 GMT | Connection Types and their function | w4llnut_ | [Read More](https://medium.com/p/3f651f3a40e8) |
-| Wed, 17 Sep 2025 02:28:28 GMT | Airplane writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/599bf07e7330) |
-| Wed, 17 Sep 2025 02:25:37 GMT | Day 59- True Positive vs True Negative in cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/606c88ccd1e0) |
-| Wed, 17 Sep 2025 01:59:43 GMT | Alternative Scenarios for U.S. Cyber Force Development: Beyond the Binary Choice | CCD-IS | [Read More](https://medium.com/p/8cf8ab676a32) |
-| Wed, 17 Sep 2025 01:56:51 GMT | The Hidden Dangers of Sharing Family Photos on Social Media: Why You Should Think Twice | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4943a8494d90) |
-| Wed, 17 Sep 2025 01:49:58 GMT | Google Chrome 140 Fixes Critical Remote Code Execution Vulnerability | SafetyDetectives Research Team | [Read More](https://medium.com/p/0cdeb03fd321) |
-| Wed, 17 Sep 2025 01:46:19 GMT | Hackers Exploit Windows Defender Policies to Disable EDR Agents | SafetyDetectives Research Team | [Read More](https://medium.com/p/3e4d12e5fe0c) |
-| Wed, 17 Sep 2025 01:44:21 GMT | SNMP v1 and v2c exploitation | CO0L7 | [Read More](https://medium.com/p/a10862d6c373) |
-| Wed, 17 Sep 2025 01:43:19 GMT | CISA Warns of Critical SunPower Flaw Allowing Full Device Takeover | SafetyDetectives Research Team | [Read More](https://medium.com/p/7702641c476e) |
-| Wed, 17 Sep 2025 01:29:13 GMT | The Psychology of Technology Addiction | muhammad ardiansah | [Read More](https://medium.com/p/710b87b17f42) |
-| Wed, 17 Sep 2025 01:27:09 GMT | How to get started with CTFs? | jui kalan | [Read More](https://medium.com/p/45223f92f180) |
-| Wed, 17 Sep 2025 01:09:19 GMT | Supply Chain Security: Why It Matters More Than Ever | anotherik | [Read More](https://medium.com/p/5c0139834a4d) |
-| Wed, 17 Sep 2025 01:08:26 GMT | What is Defensive Security? — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/7971bb838d38) |
-| Wed, 17 Sep 2025 00:59:52 GMT | Spring Security Core Modules Explained: Protect Your Java Apps the Right Way | Maneesha Indrachapa | [Read More](https://medium.com/p/d185bb31f861) |
-| Wed, 17 Sep 2025 00:51:58 GMT | SOAR + EDR Emulation | Sneh bavarva | [Read More](https://medium.com/p/0ddd956eaa28) |
