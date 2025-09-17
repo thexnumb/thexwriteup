@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 20:19:59 GMT | Anti-Bot Evasion | Yüksel Coşgun | [Read More](https://medium.com/p/41ddba70434b) |
+| Wed, 17 Sep 2025 20:15:43 GMT | AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns | Ryan Cronin | [Read More](https://medium.com/p/3f487643bab6) |
+| Wed, 17 Sep 2025 20:10:42 GMT | Why Quantum Computing makes Cybersecurity more important than ever before. | Matthew Winn | [Read More](https://medium.com/p/1dca51549d73) |
+| Wed, 17 Sep 2025 19:44:42 GMT | The Role of Security Guards in Business Protection | Nimra Sheikh | [Read More](https://medium.com/p/293caa977c39) |
+| Wed, 17 Sep 2025 19:43:06 GMT | The Best Free Learning Resources for New Bug Hunters | Andrei Ivan | [Read More](https://medium.com/p/a0498ed19e72) |
+| Wed, 17 Sep 2025 19:41:43 GMT | How to Conduct a Cybersecurity Risk Assessment for Industrial Control Systems (ICS) | Cyberkech | [Read More](https://medium.com/p/ba31e7a4e9e4) |
+| Wed, 17 Sep 2025 19:34:03 GMT | TryHackMe - Linux Logging Writeup | Samuel McLamb | [Read More](https://medium.com/p/1a33d3be6c18) |
+| Wed, 17 Sep 2025 19:32:20 GMT | Zero-Days on the Loose: When Hackers Strike Before the Patch | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/1b6f163b422b) |
 | Wed, 17 Sep 2025 19:31:42 GMT | Native Apps Reimagined: Why Tauri, Rust, and Svelte is My Go-To Stack in 2025 | Puneet | [Read More](https://medium.com/p/209f5b2937a1) |
+| Wed, 17 Sep 2025 19:24:17 GMT | SMB Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/6a7573858f9e) |
 | Wed, 17 Sep 2025 19:23:54 GMT | The Biometric Fortress: Securely Storing and Retrieving Data in Swift with Keychain and the Secure… | ElAmir Mansour | [Read More](https://medium.com/p/299254399d97) |
 | Wed, 17 Sep 2025 19:21:12 GMT | OWASP Juice Shop Challenge : Zero Rating | theOrthodox | [Read More](https://medium.com/p/cc4ff83629f2) |
 | Wed, 17 Sep 2025 19:20:32 GMT | How to Implement Network Security Protocols | Hum Ble | [Read More](https://medium.com/p/9b437208ef7e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 15:04:07 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/fd9ee49d6701) |
 | Wed, 17 Sep 2025 15:01:44 GMT | Rust Devs Are Landing $200K+ Jobs (Here’s Why) | Asma | [Read More](https://medium.com/p/4b37537c1377) |
 | Wed, 17 Sep 2025 14:56:18 GMT | My First Steps Into Cybersecurity | Himanshu Parate | [Read More](https://medium.com/p/21e2a14e06a4) |
-| Wed, 17 Sep 2025 14:55:41 GMT | How Websites Work | Hassan Muhammad | [Read More](https://medium.com/p/ff1cc1905181) |
-| Wed, 17 Sep 2025 14:52:30 GMT | Top Benefits of Hiring a Power BI Dashboard Setup Service | Techridge Solutions | [Read More](https://medium.com/p/d407c37a2a83) |
-| Wed, 17 Sep 2025 14:46:26 GMT | KYC 2.0: How AI and APIs Are Transforming Identity Verification | Aymane Bt | [Read More](https://medium.com/p/3795c4860711) |
-| Wed, 17 Sep 2025 14:39:44 GMT | Honeypots: Traps for Hackers | Hirad Showghi | [Read More](https://medium.com/p/14635d8042f5) |
-| Wed, 17 Sep 2025 14:32:14 GMT | Why I Always Disable Unused Linux Services After Installation | Faruk Ahmed | [Read More](https://medium.com/p/d99b931a866f) |
-| Wed, 17 Sep 2025 14:30:25 GMT | N2SF | Crowndaisy | [Read More](https://medium.com/p/5f78408d46f8) |
-| Wed, 17 Sep 2025 14:28:35 GMT | PG Practice — Walla (Linux) | Lepton | [Read More](https://medium.com/p/0150cc51bc74) |
-| Wed, 17 Sep 2025 14:27:44 GMT | U.A. High School TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/983e3d71e2ef) |
-| Wed, 17 Sep 2025 14:22:25 GMT | Become a Professional Ethical Hacker: A Comprehensive Curriculum | Md Shahnoor Ansari | [Read More](https://medium.com/p/3cbdfde72166) |
