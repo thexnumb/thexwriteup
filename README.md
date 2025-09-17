@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 18:41:26 GMT | Think Before You Click: That FREE MOD file will be Tracking You | Alham Rizvi | [Read More](https://medium.com/p/d67192ab098e) |
+| Wed, 17 Sep 2025 18:41:03 GMT | Day 23: Amazon Machine Image (AMI): A Complete Guide | Prutha_Dongre | [Read More](https://medium.com/p/6b29f0889eba) |
+| Wed, 17 Sep 2025 18:40:43 GMT | Do You Own Your Data Anymore? | Adarsh Kumar | [Read More](https://medium.com/p/cf734a063988) |
+| Wed, 17 Sep 2025 18:32:07 GMT | AI-Generated Malware: The Next Cybersecurity Nightmare | Akshay Chauhan | [Read More](https://medium.com/p/57951006b19b) |
+| Wed, 17 Sep 2025 18:31:35 GMT | Anti-Bot Evasion | Yüksel Coşgun | [Read More](https://medium.com/p/59b71109a170) |
+| Wed, 17 Sep 2025 18:25:26 GMT | Authorization bypass — Low-privileged user can view organization members and user details | Ahmed Mahmoud | [Read More](https://medium.com/p/f0953dc9c51c) |
+| Wed, 17 Sep 2025 18:24:35 GMT | Breaking Down the npm Supply Chain Attack (September 2025) | Garv Kamra | [Read More](https://medium.com/p/0a06293bcdce) |
 | Wed, 17 Sep 2025 18:23:44 GMT | Hacking for Good: The Ultimate Guide on How to Become an Ethical Hacker | Nitin Singh | [Read More](https://medium.com/p/58da6ac9694f) |
+| Wed, 17 Sep 2025 18:20:11 GMT | Hack the Box — Active — WriteUp | Emre A. | [Read More](https://medium.com/p/02c2444c544e) |
 | Wed, 17 Sep 2025 18:07:42 GMT | Galaxy AI Feature Spotlight: One UI 8 & What New AI Functions Samsung Is Bringing — Use Them for… | LokieGamer | [Read More](https://medium.com/p/221f8e1bac5a) |
 | Wed, 17 Sep 2025 17:55:13 GMT | Making sure your PDF compliance and privacy requirements are met with JoyDoc | John Pagley | [Read More](https://medium.com/p/bc8771d78fb4) |
 | Wed, 17 Sep 2025 17:52:46 GMT | Mastering Kubernetes Network Policies: A DevOps Engineer’s Complete Guide to Zero-Trust Security | Salwan Mohamed | [Read More](https://medium.com/p/fb21da247ed6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 13:33:20 GMT | ZAST.AI discovered vulnerabilities in Node-formidable | ZAST AI | [Read More](https://medium.com/p/cc194083a535) |
 | Wed, 17 Sep 2025 13:33:06 GMT | What to Do If Your Data Gets Hacked | Dkvilas | [Read More](https://medium.com/p/b45b754092b2) |
 | Wed, 17 Sep 2025 13:32:43 GMT | Redefining Collective Defense: Cyber Conflict in the Hybrid War Era | National Security Institute | [Read More](https://medium.com/p/f71b768ca478) |
-| Wed, 17 Sep 2025 13:27:43 GMT | I am a full stack web developer with experience in Python, with quadrennial expertise in bot… | Freddiesam | [Read More](https://medium.com/p/323d3af1bf57) |
-| Wed, 17 Sep 2025 13:27:01 GMT | Phishing Through Cloudflare R2: Breaking Down a Fake Adobe Login Attack | Saimanish | [Read More](https://medium.com/p/2375a22ae8c2) |
-| Wed, 17 Sep 2025 13:26:43 GMT | Cohesity and Semperis Announce Groundbreaking Offering that Unifies Data and Identity Resilience | Louise Rolfe | [Read More](https://medium.com/p/4bbe27af62e2) |
-| Wed, 17 Sep 2025 13:25:08 GMT | Conti on Exchange — TryHackMe Walkthrough (Splunk + IR style) | Furkanctiner | [Read More](https://medium.com/p/45d00995d200) |
-| Wed, 17 Sep 2025 13:22:53 GMT | AI-Powered Threats in Cybersecurity: Leaders Must Wake Up to the New Reality | Victor Hu-Rivera | [Read More](https://medium.com/p/2d7c10a64398) |
-| Wed, 17 Sep 2025 13:22:34 GMT | Lean Startup vs. Agile: Untangling the Two Most Powerful (and Misunderstood) Ideas in Tech | Gulshan N | [Read More](https://medium.com/p/0db6a3e4f5f3) |
-| Wed, 17 Sep 2025 13:22:00 GMT | What Happens to Your Azza Wallet If You Lose Your WhatsApp Number? | Gloria C. Chimelu | [Read More](https://medium.com/p/99241df86032) |
-| Wed, 17 Sep 2025 13:20:47 GMT | TO BECOME A SOC EXPERT(DAY-5) | vulnhunter | [Read More](https://medium.com/p/7aa65ed6da5d) |
