@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 05:32:50 GMT | Are you really paying Google to use your information? | Rabia Riaz | [Read More](https://medium.com/p/7d75b89a26b2) |
+| Wed, 17 Sep 2025 05:32:33 GMT | 16. Real Bug Bounty Stories (from My Reports) | Abhijeet kumawat | [Read More](https://medium.com/p/52e1f7535ef7) |
+| Wed, 17 Sep 2025 05:32:26 GMT | Understanding Cyber Security Certification Cost: Key Factors and Planning | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/7fb380088186) |
+| Wed, 17 Sep 2025 05:29:44 GMT | End-to-End Encryption: Why Platforms Can’t Read Your Messages | Ravikumar Makwana | [Read More](https://medium.com/p/c71117ff08f2) |
+| Wed, 17 Sep 2025 05:26:41 GMT | Portswigger Web Security Academy - XSS Lab #1 | BooRuleDie | [Read More](https://medium.com/p/7b41218cf355) |
+| Wed, 17 Sep 2025 05:19:31 GMT | Manned Guarding Services Dubai: Top Choices for Reliable Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/65f8da2d8ece) |
 | Wed, 17 Sep 2025 05:14:09 GMT | Passkeys vs Passwords — What Are They, And Which Is Better? | Hamza Hanif | [Read More](https://medium.com/p/3601665e8282) |
 | Wed, 17 Sep 2025 05:07:29 GMT | How to Recover a Hacked WordPress Site (Step-by-Step Guide) | 79mplus | [Read More](https://medium.com/p/69e0a1cf9511) |
 | Wed, 17 Sep 2025 05:04:58 GMT | Samsung Galaxy S2 Ultimate Guide: Specs, Features, and History | Sienna Lewis | [Read More](https://medium.com/p/8273f36c0a41) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 19:48:52 GMT | What is a data diode? | Petr Roupec | [Read More](https://medium.com/p/231084f1d359) |
 | Tue, 16 Sep 2025 19:46:26 GMT | How AI Chat Bot Help Me To Hack The Website | Yahia Ibrahim khamis | [Read More](https://medium.com/p/632e6afd1b35) |
 | Tue, 16 Sep 2025 19:45:26 GMT | Why I’m Launching My Own Cybersecurity Academy and Moving Away From Udemy | Taimur Ijlal | [Read More](https://medium.com/p/f0470da28339) |
-| Tue, 16 Sep 2025 19:44:59 GMT | Ransomware (Fidye Yazılımları) Nedir, Nasıl Korunulur? | Gökçe köknel | [Read More](https://medium.com/p/91228d10fa17) |
-| Tue, 16 Sep 2025 19:43:18 GMT | “ Investigative Reversing 2 “ challenge | oussama | [Read More](https://medium.com/p/08fa110c7f89) |
-| Tue, 16 Sep 2025 19:43:01 GMT | The Spark: When a Simple Question Met My First ML Model | Ninshuti | [Read More](https://medium.com/p/da709ed55a71) |
-| Tue, 16 Sep 2025 19:39:27 GMT | How to build a bank p1: Intro | Logan Elkins | [Read More](https://medium.com/p/4df9e10f2cf6) |
-| Tue, 16 Sep 2025 19:31:03 GMT | TryHackMe’s What Is Networking Write-Up | Paulo Melo | [Read More](https://medium.com/p/ebf0b9a15010) |
-| Tue, 16 Sep 2025 19:27:42 GMT | [Part 5] Top 10 Cyber Resilience Act Compliance Challenges (and How to Overcome Them) | Cyberkech | [Read More](https://medium.com/p/085f539788c6) |
