@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 03:13:33 GMT | Protect your properties and clients from cyber threats using next-gen AI. ALFOX.AI | Vsgangaraju | [Read More](https://medium.com/p/44260b0ed8b1) |
+| Wed, 17 Sep 2025 03:03:19 GMT | Faith Over Fear | Gianna Judkins | [Read More](https://medium.com/p/78a62f2493ba) |
+| Wed, 17 Sep 2025 03:01:46 GMT | Germany’s Draft Is Back — Who Will Serve, and How? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/352c4a409f3e) |
+| Wed, 17 Sep 2025 02:56:17 GMT | Openfire Admin Console Auth Bypass (CVE-2023–32315) — From Path Traversal to RCE | AerieWhole123 | [Read More](https://medium.com/p/8661247ec509) |
+| Wed, 17 Sep 2025 02:39:33 GMT | HTB Pro Lab: Dante — Review, Wrecks & Lessons | Nicholas D'Acri | [Read More](https://medium.com/p/02ca78c1e26e) |
 | Wed, 17 Sep 2025 02:31:45 GMT | Easiest Account Lockout Bypass | Manav | [Read More](https://medium.com/p/ea2c82fb66c6) |
 | Wed, 17 Sep 2025 02:31:45 GMT | 7 Costly Mistakes Businesses Make With Their Website (And How to Fix Them) | DevOrbit | [Read More](https://medium.com/p/d51d6bf32d3d) |
 | Wed, 17 Sep 2025 02:31:15 GMT | Connection Types and their function | w4llnut_ | [Read More](https://medium.com/p/3f651f3a40e8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 18:16:30 GMT | Ethical Hacking Bootcamps: Are They Worth It? | Smith Adams | [Read More](https://medium.com/p/dd4f3a55b76d) |
 | Tue, 16 Sep 2025 18:15:43 GMT | Drosera: Building Ethereum’s Nervous System | Ifeoluwakareem | [Read More](https://medium.com/p/3e57d786bf1e) |
 | Tue, 16 Sep 2025 18:11:04 GMT | TryHackMe’s Defensive Security Intro’s Write-Up | Paulo Melo | [Read More](https://medium.com/p/05c1580b00db) |
-| Tue, 16 Sep 2025 18:10:48 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/444b72943b2c) |
-| Tue, 16 Sep 2025 18:08:38 GMT | TryHackMe Writeup: HA Joker CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/d9db37f94da5) |
-| Tue, 16 Sep 2025 18:06:05 GMT | AWSDoor A New Persistence Technique Threatening Cloud Security | Chetan Seripally | [Read More](https://medium.com/p/287861b38277) |
-| Tue, 16 Sep 2025 18:04:39 GMT | AI in Cybersecurity: The Arms Race of Autonomous Attacks and Defensive AI | Varun Raj | [Read More](https://medium.com/p/e9ed9b527a63) |
-| Tue, 16 Sep 2025 18:03:20 GMT | Deep Dive into Web Security: A Practical Guide for Django Developers | Jose Daniel García Suero | [Read More](https://medium.com/p/75dd2ef388b0) |
