@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 15:12:56 GMT | Cloud-Based Access Control for Small Business Offices | Tec-Tel Communications | [Read More](https://medium.com/p/b4568653a6f3) |
+| Wed, 17 Sep 2025 15:12:21 GMT | How I Discovered a Website’s Hidden Origin IP | Ibtissam hammadi | [Read More](https://medium.com/p/6f29301abc93) |
+| Wed, 17 Sep 2025 15:10:40 GMT | Best Practices for Securing Commercial Parking Lots with AI Cameras | Tec-Tel Communications | [Read More](https://medium.com/p/9f88105a6509) |
+| Wed, 17 Sep 2025 15:09:56 GMT | Salvage, Solder, Survive: Building Battery Packs from Scavenged Bits | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/421cdb168ccc) |
+| Wed, 17 Sep 2025 15:09:49 GMT | The Hacker’s Pursuit of “Enough”: Finding Fulfillment in a World of Infinite Goals | Vijay Kumar Gupta | [Read More](https://medium.com/p/16dc7fd2dfe0) |
+| Wed, 17 Sep 2025 15:06:15 GMT | Monero’s 18-Block Reorg: A Wake-Up Call for Decentralization | Andy Zonana | [Read More](https://medium.com/p/3345cd9d8cf1) |
+| Wed, 17 Sep 2025 15:04:07 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/fd9ee49d6701) |
+| Wed, 17 Sep 2025 15:01:44 GMT | Rust Devs Are Landing $200K+ Jobs (Here’s Why) | Asma | [Read More](https://medium.com/p/4b37537c1377) |
+| Wed, 17 Sep 2025 14:56:18 GMT | My First Steps Into Cybersecurity | Himanshu Parate | [Read More](https://medium.com/p/21e2a14e06a4) |
+| Wed, 17 Sep 2025 14:55:41 GMT | How Websites Work | Hassan Muhammad | [Read More](https://medium.com/p/ff1cc1905181) |
+| Wed, 17 Sep 2025 14:52:30 GMT | Top Benefits of Hiring a Power BI Dashboard Setup Service | Techridge Solutions | [Read More](https://medium.com/p/d407c37a2a83) |
+| Wed, 17 Sep 2025 14:46:26 GMT | KYC 2.0: How AI and APIs Are Transforming Identity Verification | Aymane Bt | [Read More](https://medium.com/p/3795c4860711) |
 | Wed, 17 Sep 2025 14:39:44 GMT | Honeypots: Traps for Hackers | Hirad Showghi | [Read More](https://medium.com/p/14635d8042f5) |
 | Wed, 17 Sep 2025 14:32:14 GMT | Why I Always Disable Unused Linux Services After Installation | Faruk Ahmed | [Read More](https://medium.com/p/d99b931a866f) |
+| Wed, 17 Sep 2025 14:30:25 GMT | N2SF | Crowndaisy | [Read More](https://medium.com/p/5f78408d46f8) |
 | Wed, 17 Sep 2025 14:28:35 GMT | PG Practice — Walla (Linux) | Lepton | [Read More](https://medium.com/p/0150cc51bc74) |
 | Wed, 17 Sep 2025 14:27:44 GMT | U.A. High School TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/983e3d71e2ef) |
 | Wed, 17 Sep 2025 14:22:25 GMT | Become a Professional Ethical Hacker: A Comprehensive Curriculum | Md Shahnoor Ansari | [Read More](https://medium.com/p/3cbdfde72166) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 10:32:56 GMT | Proving Grounds Practice: workaholic | AzureWolf | [Read More](https://medium.com/p/ee1ffc500172) |
 | Wed, 17 Sep 2025 10:32:49 GMT | Penetration Testing Phoenix: Your First Step Toward Stronger Cybersecurity | DL Info Shield | [Read More](https://medium.com/p/05b9c3ada53a) |
 | Wed, 17 Sep 2025 10:31:45 GMT | The Great Code Exodus: Why Seasoned Developers Are Logging Off for Good | Namir Sagheenanajar | [Read More](https://medium.com/p/b345d52d35f4) |
-| Wed, 17 Sep 2025 10:26:52 GMT | Secure Code Review: Automated and Manual Analysis Techniques | Andrei Ivan | [Read More](https://medium.com/p/7b60ae49106c) |
-| Wed, 17 Sep 2025 10:26:51 GMT | What is VAPT Testing? A Beginner’s Guide for Businesses | Jay C Roberts | [Read More](https://medium.com/p/0a7b669bea66) |
-| Wed, 17 Sep 2025 10:26:45 GMT | NVIDIA: Tech Superstar or Another Bubble Waiting to Burst? | Himani Garg | [Read More](https://medium.com/p/06aedf8f45fa) |
-| Wed, 17 Sep 2025 10:25:00 GMT | doAccessibility First: Designing Kiosks for Everyone | Rakesh | [Read More](https://medium.com/p/cbe5c3c01a44) |
-| Wed, 17 Sep 2025 10:21:39 GMT | Why Most GRC Reports Fail (And How to Fix Them Fast) | SecureSlate | [Read More](https://medium.com/p/45a25f0a373a) |
-| Wed, 17 Sep 2025 10:21:24 GMT | Why Cybersecurity Matters: Steps Website Owners Should Take | Swapnil S. | [Read More](https://medium.com/p/6e5488d35a15) |
-| Wed, 17 Sep 2025 10:10:09 GMT | CVE-2025–10491: MongoDB Windows Install Flaw Opens Door to DLL Hijacking! | CVEHUB | [Read More](https://medium.com/p/feb01431f985) |
-| Wed, 17 Sep 2025 10:09:50 GMT | Salesforce AI Changes CRM Forever | Salesforce BLOG | [Read More](https://medium.com/p/06d96a8c6cb9) |
-| Wed, 17 Sep 2025 10:09:08 GMT | File Upload Restriction Bypass Extension Checklist | Sle3pyHead ‍ | [Read More](https://medium.com/p/b113cef1a205) |
-| Wed, 17 Sep 2025 10:09:02 GMT | Hashing in Cybersecurity: A Beginner’s Guide to Digital Fingerprints | Krishnakaiwartya | [Read More](https://medium.com/p/85ab6033dffb) |
-| Wed, 17 Sep 2025 10:02:57 GMT | Where Are Your Screenshots Really Going? | thedigitaldetective | [Read More](https://medium.com/p/762497d105be) |
-| Wed, 17 Sep 2025 09:59:50 GMT | In a world full of Chocolate Fudge, be my Tiramisu. | The Heart 's Diary | [Read More](https://medium.com/p/c5236f9b4947) |
-| Wed, 17 Sep 2025 09:58:15 GMT | Simple Security Wins: Overlooked control stops real attacks? | Truspex | [Read More](https://medium.com/p/ccccdcb7c2cd) |
