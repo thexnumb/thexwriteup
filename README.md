@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 07:05:02 GMT | MariaDB Safer Than MySQL? The Truth Will Shock You | Rizqi Mulki | [Read More](https://medium.com/p/6173aa9ebe13) |
+| Wed, 17 Sep 2025 06:59:04 GMT | How AI Phishing Detection Tools Secure Your Ecommerce Business | snehal deore | [Read More](https://medium.com/p/8514f43580b5) |
+| Wed, 17 Sep 2025 06:56:50 GMT | Why Databases Are the Weakest Link in Cybersecurity | Rizqi Mulki | [Read More](https://medium.com/p/2c63af56da29) |
+| Wed, 17 Sep 2025 06:56:31 GMT | SafeLine vs AWS WAF: The Web Security Showdown | Loria | [Read More](https://medium.com/p/5342da61e0f2) |
+| Wed, 17 Sep 2025 06:49:18 GMT | The Top 5 Zero-Trust Security Tools You Need in 2025 | Techlio | [Read More](https://medium.com/p/987ca067fa5a) |
+| Wed, 17 Sep 2025 06:48:37 GMT | Linux System Integrity Monitoring: Detecting Changes | Eren Cankut Uysal | [Read More](https://medium.com/p/22cebfe953dd) |
+| Wed, 17 Sep 2025 06:48:24 GMT | How CCTV Monitoring Services Keep Your Singapore Business Safe | Marcela John | [Read More](https://medium.com/p/6edfb8566124) |
+| Wed, 17 Sep 2025 06:48:07 GMT | Why Senior Developers Hate Serverless | Rizqi Mulki | [Read More](https://medium.com/p/27e355caa86b) |
+| Wed, 17 Sep 2025 06:46:29 GMT | ️ The Broken Link Jackpot: How a 404 Can Become a Security Goldmine! | NadSec | [Read More](https://medium.com/p/16ac517fccda) |
+| Wed, 17 Sep 2025 06:46:19 GMT | When AI Is the Thief at the Door — and the Guard You Hire | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/6e9976850095) |
+| Wed, 17 Sep 2025 06:41:38 GMT | Linux Kernel Lockdown: Restricting Kernel Access | Eren Cankut Uysal | [Read More](https://medium.com/p/b0301bb1a670) |
+| Wed, 17 Sep 2025 06:36:01 GMT | 15 Hidden Degrees of Freedom in Solving Technology Problems | Marc Fletcher | [Read More](https://medium.com/p/0123eea45eda) |
+| Wed, 17 Sep 2025 06:35:37 GMT | Understanding Mobile Device Encryption in Simple Terms | Abida Adra | [Read More](https://medium.com/p/538dbd02de42) |
+| Wed, 17 Sep 2025 06:34:32 GMT | ️ Windows Secrets Exposed: How to Investigate RunMRU Like a Digital Detective | Paritosh | [Read More](https://medium.com/p/876fd3e8411f) |
+| Wed, 17 Sep 2025 06:33:18 GMT | Linux Hardened Kernels: Enhanced Security Features | Eren Cankut Uysal | [Read More](https://medium.com/p/fbaf54bf545d) |
+| Wed, 17 Sep 2025 06:27:37 GMT | Don’t Get Hacked: Essential Steps to Secure Your Enterprise Wireless LAN | Dcsme | [Read More](https://medium.com/p/37056691f7ef) |
+| Wed, 17 Sep 2025 06:26:52 GMT | Linux Security Frameworks: Implementing Security Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/8c1fb2eae0df) |
+| Wed, 17 Sep 2025 06:23:02 GMT | Top 10 Cyber Security Training Institute in India | Manisha Chaudhary | [Read More](https://medium.com/p/01ad57fe9742) |
+| Wed, 17 Sep 2025 06:21:54 GMT | Why SafeLine WAF Feels Like a Cheat Code for Web Security | Loria | [Read More](https://medium.com/p/d02bac79a5b3) |
+| Wed, 17 Sep 2025 06:20:24 GMT | Linux Full Disk Encryption: Protecting Data at Rest | Eren Cankut Uysal | [Read More](https://medium.com/p/79dd9189a7a2) |
+| Wed, 17 Sep 2025 06:20:22 GMT | Securing On-Prem LLM Platforms: Key Requirements for Air-Gapped Deployments | Tatiele Freitas | [Read More](https://medium.com/p/8eb9f280448b) |
 | Wed, 17 Sep 2025 06:14:39 GMT | Securing Your Kubernetes Cluster — A Practical Guide for DevOps Engineers | Ankitha Rao | [Read More](https://medium.com/p/7e7f3e8bad9c) |
 | Wed, 17 Sep 2025 06:13:56 GMT | Cybersecurity Metrics: Measuring Security Performance | Cyber Security Research | [Read More](https://medium.com/p/fcc3bd07072e) |
 | Wed, 17 Sep 2025 06:07:39 GMT | Threat Intelligence: Gathering and Analyzing Data | Cyber Security Research | [Read More](https://medium.com/p/203c6b6e7880) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 00:06:25 GMT | Vibe Coding Is Great — Until It Isn’t: Why Security Matters | Rafter | [Read More](https://medium.com/p/09cfdd018df8) |
 | Wed, 17 Sep 2025 00:02:03 GMT | Complete Guide to Masscan: High-Speed Port Scanning for Cybersecurity Professionals | JPablo13 | [Read More](https://medium.com/p/9bb4f61c6173) |
 | Tue, 16 Sep 2025 23:43:58 GMT | The Hidden Risks of Public Wi-Fi (Explained Simply) | AbdelAziz Mahmud | [Read More](https://medium.com/p/21b7a80896ca) |
-| Tue, 16 Sep 2025 23:36:24 GMT | The Contribution Of Tech Startups To Employment In Nigeria | Karen Shokunbi | [Read More](https://medium.com/p/2f12c5f9813d) |
-| Tue, 16 Sep 2025 23:25:09 GMT | Why There Is No Trace of Hacking on Your Servers But Still You Got Hacked | David SEHYEON Baek | [Read More](https://medium.com/p/203aa6c96161) |
-| Tue, 16 Sep 2025 23:19:36 GMT | “DeepTrace” Forensics Challenge in Connectors CTF Qualifications by Connectors Team | Mohamed Ramadan | [Read More](https://medium.com/p/284304950704) |
-| Tue, 16 Sep 2025 23:15:29 GMT | Red Team 101: Aktif Bilgi Toplama NMAP kullanımı & Zafiyet Tespiti - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/e28d5793f22f) |
-| Tue, 16 Sep 2025 23:05:22 GMT | How Bug Hunters Can Find Off-Platform Apps — Privately, Ethically, and Legally — and Get to the… | rezasafarzade | [Read More](https://medium.com/p/6e0feabf25e9) |
-| Tue, 16 Sep 2025 23:04:41 GMT | CrowdStrike Under Attack? When Security Tools Become the Target. | Truspex | [Read More](https://medium.com/p/c77f69640a19) |
-| Tue, 16 Sep 2025 22:20:05 GMT | When “Delete for Everyone” Doesn’t Delete: My Experience Reporting a Vulnerability in WhatsApp Web | Bruzistico | [Read More](https://medium.com/p/7e9d86e74134) |
-| Tue, 16 Sep 2025 22:17:51 GMT | Securing Remote Services: Linux | Ross Andrews | [Read More](https://medium.com/p/9eaaae4e9b29) |
-| Tue, 16 Sep 2025 22:09:26 GMT | Web Security 101: Web Security Threats Every Developer Should Know | Ong Si Ci | [Read More](https://medium.com/p/9d109886dec4) |
-| Tue, 16 Sep 2025 22:07:44 GMT | The Tricky WebView Bug: Fixing a Cut-Off Screen on iOS 16 | Jerry PM | [Read More](https://medium.com/p/47dfcf80abd2) |
-| Tue, 16 Sep 2025 22:04:37 GMT | Cybersicherheits-GRC-Framework: NIST, ISO27001, ISF (Digitaler Download) | Ajansistan Etsy | [Read More](https://medium.com/p/c9f260259fc9) |
-| Tue, 16 Sep 2025 22:01:27 GMT | Cyber Security GRC Framework: NIST, ISO27001, ISF (Digital Download) | Ajansistan Etsy | [Read More](https://medium.com/p/100480d11304) |
-| Tue, 16 Sep 2025 21:49:11 GMT | Am I hacked? How to Tell If Your Site Is Compromised — 7 Quick Signs (2025) | Spyros Zoup | [Read More](https://medium.com/p/411b9ffe9ffa) |
-| Tue, 16 Sep 2025 21:46:40 GMT | Empowering Compassionate Care: The Role of Information Technology in Hospice Expansion | Barry Woodly | [Read More](https://medium.com/p/bfe9b6e1601e) |
-| Tue, 16 Sep 2025 21:27:12 GMT | Cyber Threat Intelligence: Turning Hidden Clues into Cybersecurity Power | Akshay Chauhan | [Read More](https://medium.com/p/a16e0ed1f553) |
-| Tue, 16 Sep 2025 21:23:56 GMT | How I built a Cyber Security project with Convolutional Neural Network and Autoencoders | Deluwar Hussen Tanvir | [Read More](https://medium.com/p/162743587b1f) |
-| Tue, 16 Sep 2025 21:20:37 GMT | Cloud Security in 2025: Why Runtime Visibility is the Game-Changer | Cyber-AppSec | [Read More](https://medium.com/p/cb9ccddaf14b) |
-| Tue, 16 Sep 2025 21:14:33 GMT | Kubernetes Security: Best Practices to Protect Your Cluster | Dmitry Protsenko | [Read More](https://medium.com/p/7c1a2efca0fe) |
-| Tue, 16 Sep 2025 21:13:24 GMT | Iranian Hackers Launch Global Spear-Phishing Blitz Using Hijacked Diplomatic Email | Aj | [Read More](https://medium.com/p/ec6e553750b8) |
-| Tue, 16 Sep 2025 21:13:10 GMT | The Social Engineer’s Playbook: A Step-by-Step Narrative of a Corporate Breach | Shahzaib | [Read More](https://medium.com/p/bb1eaf94499c) |
-| Tue, 16 Sep 2025 21:09:41 GMT | The Comfortable Cage of Isolation. | EstNotes | [Read More](https://medium.com/p/ed9baab16115) |
