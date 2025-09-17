@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 16:18:16 GMT | Ethical Hacking and Penetration Testing | Cyber Security Research | [Read More](https://medium.com/p/1ca2e5b128a9) |
+| Wed, 17 Sep 2025 16:14:39 GMT | Issue #243 — Terraform Remote Code Execution, “resource must be replaced”, Designing Terraform… | Anton Babenko | [Read More](https://medium.com/p/6d6822ef5e0a) |
+| Wed, 17 Sep 2025 16:12:09 GMT | Cloud Security Challenges and Solutions | Cyber Security Research | [Read More](https://medium.com/p/b8b5197a32e0) |
+| Wed, 17 Sep 2025 16:11:01 GMT | How I Lost $4,000 to a Crypto Scam: A Hard-Learned Lesson for the Community | cooper | [Read More](https://medium.com/p/e882981cfa5a) |
+| Wed, 17 Sep 2025 16:08:04 GMT | Insecure Design Explained: How Poor Planning Creates Massive Security Risks | CyberSenpai | [Read More](https://medium.com/p/5a029209f1aa) |
+| Wed, 17 Sep 2025 16:05:50 GMT | The Future of Zero Trust Architecture | Cyber Security Research | [Read More](https://medium.com/p/00a791ab5e7b) |
+| Wed, 17 Sep 2025 16:04:55 GMT | Privacy Alert for ChatGPT Users: Delete Old Share Links & Clear Cached Chats | Shah kaif | [Read More](https://medium.com/p/271219d78535) |
+| Wed, 17 Sep 2025 16:02:55 GMT | Chaining Vulnerabilities Tryhackme Writeups | Jawstar | [Read More](https://medium.com/p/327b8c2f827d) |
+| Wed, 17 Sep 2025 16:01:44 GMT | Facilitator’s Notes — Don’t Panic | Agile Decision Games | [Read More](https://medium.com/p/3d54aca8d045) |
+| Wed, 17 Sep 2025 15:58:04 GMT | 5 Warning Signs of Insider Threats | Priyesh | [Read More](https://medium.com/p/b987f734ecc8) |
+| Wed, 17 Sep 2025 15:57:44 GMT | Managing Digital Employees: From API to Agent | Josh Cunningham | [Read More](https://medium.com/p/c446a5d00b7b) |
+| Wed, 17 Sep 2025 15:48:50 GMT | pnpm Just Got Smarter: Delay Risky Installs and Hunt Dependencies Like a Pro | Rakesh Kumar | [Read More](https://medium.com/p/dc62f5e06485) |
+| Wed, 17 Sep 2025 15:41:57 GMT | Ancient Aliens and Cybersecurity: Why Weird Ideas Can Save You | Nicholas D'Acri | [Read More](https://medium.com/p/2f1baf56e0ee) |
+| Wed, 17 Sep 2025 15:41:52 GMT | DePIN and Solana: A Blueprint for Pakistan’s Physical-Infrastructure Revolution | Shayan Saqib | [Read More](https://medium.com/p/2338a1d0ad72) |
+| Wed, 17 Sep 2025 15:39:19 GMT | Goodbye, Service Account Keys! | Saloni Patidar | [Read More](https://medium.com/p/e009f3b8ffef) |
+| Wed, 17 Sep 2025 15:39:18 GMT | My TryHackMe Journey: Turning Hands-On Labs Into Real-World Cybersecurity Skills | Ashutosh Shukla | [Read More](https://medium.com/p/1b344ddcec53) |
+| Wed, 17 Sep 2025 15:38:28 GMT | The P99 Metrics That Cost Amazon $107 Million (And How to Avoid the Same Fate) | King D. | [Read More](https://medium.com/p/d7706b427fa8) |
+| Wed, 17 Sep 2025 15:38:27 GMT | Analog Ghosts: A Hacker’s Guide to CRT Resurrection | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d40616f153d6) |
+| Wed, 17 Sep 2025 15:35:53 GMT | A Practical OSINT Methodology — Tools, Notes, and Workflow | Ahmed Mohammed | [Read More](https://medium.com/p/fbf027fdc0bc) |
 | Wed, 17 Sep 2025 15:35:14 GMT | “How I Bank $1k+ a Month Finding Bugs Everyone Ignores” | Aman Sharma | [Read More](https://medium.com/p/499a6d2cd1cb) |
 | Wed, 17 Sep 2025 15:35:11 GMT | Write Up Lab: Blind SQL injection with conditional responses | Velskynotfound | [Read More](https://medium.com/p/f6069abfd590) |
+| Wed, 17 Sep 2025 15:30:31 GMT | AppSec IR Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/ac7b78338ccb) |
 | Wed, 17 Sep 2025 15:27:06 GMT | AWS Single-Sign-On (SSO) Using the CLI and Temporary Credentials | Andrew Blooman | [Read More](https://medium.com/p/d4840608380f) |
 | Wed, 17 Sep 2025 15:24:27 GMT | Secret Rotation as Code | Raymon Epping | [Read More](https://medium.com/p/9a1729ab7740) |
 | Wed, 17 Sep 2025 15:21:28 GMT | Amazon Bedrock 2025: How AI Agents, Blockchain, and Bitcoin Are Shaping Law, Politics, and… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/964dd95c287a) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 12:00:34 GMT | Day 5: I Hacked My Way Into Any Kubernetes App (And So Can You)-The Security Nightmare Every Dev… | Mahimagarg | [Read More](https://medium.com/p/88f83c58334a) |
 | Wed, 17 Sep 2025 11:56:11 GMT | Rs 125 Only on TheSpark Shop Batman Style Wireless BT Earbuds | PIJUS MAITY | [Read More](https://medium.com/p/901fa6c39950) |
 | Wed, 17 Sep 2025 11:50:45 GMT | A Step-by-Step Approach to Building a Strong Cybersecurity Strategy with Vulnerability Management… | Digital Defense | [Read More](https://medium.com/p/1a611e68abbc) |
-| Wed, 17 Sep 2025 11:48:37 GMT | Ramnit Lab — CyberDefenders | M Haq | [Read More](https://medium.com/p/e4a6d0dbf06d) |
-| Wed, 17 Sep 2025 11:47:46 GMT | Cross-Tenant Payment Method Manipulation via IDOR | 0xBruno | [Read More](https://medium.com/p/88c909f60632) |
-| Wed, 17 Sep 2025 11:46:54 GMT | Unauthorized Configuration Deletion via CORS Misconfiguration on an Industrial Platform | 0xBruno | [Read More](https://medium.com/p/40ff6528d099) |
-| Wed, 17 Sep 2025 11:46:23 GMT | Cutting Operational Costs with Self-Service Kiosk Solutions | Rakesh | [Read More](https://medium.com/p/26318d7b6878) |
-| Wed, 17 Sep 2025 11:45:16 GMT | Web Application Pentesting- Authentication -Enumeration & Brute Force -THM | Deepika  B | [Read More](https://medium.com/p/de8f1e414aa4) |
-| Wed, 17 Sep 2025 11:35:00 GMT | Database Activity Monitoring (DAM), An introduction for Developers & DBAs | Preethi Infosec | [Read More](https://medium.com/p/5fb3c3ac0cc1) |
-| Wed, 17 Sep 2025 11:34:48 GMT | Microsoft and Cloudflare Shut Down RaccoonO365: A Major Blow to Phishing-as-a-Service | IamPreth | [Read More](https://medium.com/p/a494e1a14e05) |
-| Wed, 17 Sep 2025 11:29:16 GMT | Best Speech Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/1c8ad25b8494) |
-| Wed, 17 Sep 2025 11:28:28 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/aa055df53d06) |
-| Wed, 17 Sep 2025 11:25:27 GMT | Spring Security: Role-Based Authorization with Method Level Security | Ayoub Taouam | [Read More](https://medium.com/p/1702e7c3720c) |
-| Wed, 17 Sep 2025 11:22:01 GMT | Day 5: How to Hunt Bugs Efficiently (and Actually Level Up) | Viratavi | [Read More](https://medium.com/p/dd7802f7cad8) |
-| Wed, 17 Sep 2025 11:17:44 GMT | Luxury Brands, Priceless Lessons: GRC Takeaways from the Kerig Data Breach | Brittney Ginther | [Read More](https://medium.com/p/ee123d8deacc) |
-| Wed, 17 Sep 2025 11:14:39 GMT | How Phishing Attack Simulation Service Secures Indian Firms | Noahlucas | [Read More](https://medium.com/p/c0086325d34e) |
-| Wed, 17 Sep 2025 11:08:15 GMT | Best Managed Cybersecurity Services In India - Protect Your Organization | Gowthammathiew | [Read More](https://medium.com/p/7de538860cec) |
-| Wed, 17 Sep 2025 11:08:03 GMT | 12 Apps That Power My Nerdy (and Awesome) Digital Life | MARLON MUTIANGPILI | [Read More](https://medium.com/p/1afe5303d0ef) |
-| Wed, 17 Sep 2025 11:07:50 GMT | A password manager that does not store passwords | Denis Tulupov | [Read More](https://medium.com/p/c3f845c55e10) |
-| Wed, 17 Sep 2025 11:06:31 GMT | What is LLM Security? Top 10 Risks and 5 Best Practices in 2025 | QualysecEurope | [Read More](https://medium.com/p/0156b3d28882) |
-| Wed, 17 Sep 2025 11:02:19 GMT | Did you know that the average cost of a data breach in the United States has surpassed $10.22 | Qualysec | [Read More](https://medium.com/p/f02c08ef56d1) |
-| Wed, 17 Sep 2025 10:59:29 GMT | Manuel Kontrolleri Bırakın: Eksik Güvenlik Ajanlarının Takibini Otomatize Edin | Tolga Akalın | [Read More](https://medium.com/p/b272a2ebf273) |
-| Wed, 17 Sep 2025 10:56:24 GMT | Avoiding Burnout: How I Stay Motivated After Endless N/A and Duplicates | hxxfrd | [Read More](https://medium.com/p/6647756b71ff) |
