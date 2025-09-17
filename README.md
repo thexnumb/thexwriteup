@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 19:13:50 GMT | How to Start Bug Bounty Learning Journey with Hack The Box | Rashadul Islam | [Read More](https://medium.com/p/277f92d8150e) |
+| Wed, 17 Sep 2025 19:10:59 GMT | iPhone 17 Pro Max Test | Julia Ahrens | [Read More](https://medium.com/p/8ab840f43ecd) |
+| Wed, 17 Sep 2025 19:07:33 GMT | Your Data, Their Commodity: The Economics of the Dark Web | Shahzaib | [Read More](https://medium.com/p/a151ec221f8d) |
+| Wed, 17 Sep 2025 18:59:21 GMT | Oops | Mr_Nobody | [Read More](https://medium.com/p/b78db4a8a093) |
+| Wed, 17 Sep 2025 18:58:55 GMT | SOULMATE — HTB | H3XH7WK | [Read More](https://medium.com/p/98eec9a4e64b) |
+| Wed, 17 Sep 2025 18:57:11 GMT | FileFix: The Next Evolution of ClickFix Attacks | Ashley Dai | [Read More](https://medium.com/p/279e6f0439b6) |
 | Wed, 17 Sep 2025 18:41:26 GMT | Think Before You Click: That FREE MOD file will be Tracking You | Alham Rizvi | [Read More](https://medium.com/p/d67192ab098e) |
 | Wed, 17 Sep 2025 18:41:03 GMT | Day 23: Amazon Machine Image (AMI): A Complete Guide | Prutha_Dongre | [Read More](https://medium.com/p/6b29f0889eba) |
 | Wed, 17 Sep 2025 18:40:43 GMT | Do You Own Your Data Anymore? | Adarsh Kumar | [Read More](https://medium.com/p/cf734a063988) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 13:56:44 GMT | Apple releases macOS Tahoe 26 and iOS 26 with more than fifty security upgrades. | Bastian | [Read More](https://medium.com/p/7714db4b5393) |
 | Wed, 17 Sep 2025 13:54:54 GMT | VPNs: How Do They Work? | Hirad Showghi | [Read More](https://medium.com/p/3f0d0499036c) |
 | Wed, 17 Sep 2025 13:44:54 GMT | Understanding Stack-Based Buffer Overflow | ret2sugar | [Read More](https://medium.com/p/b6dd93d34f6a) |
-| Wed, 17 Sep 2025 13:41:57 GMT | React Hook Form with Zod Validation: A Complete Guide with TypeScript | Toukir Ahamed Pigeon | [Read More](https://medium.com/p/aacbcb370a8b) |
-| Wed, 17 Sep 2025 13:41:27 GMT | The $2.9 Billion Email Scam Problem and Why Only AI Can Fix It | Faraz Weerabangsa | [Read More](https://medium.com/p/5450c47f9b16) |
-| Wed, 17 Sep 2025 13:40:53 GMT | ️ TryHackMe: New Hire Old Artifacts — Splunk Forensics Adventure | Furkanctiner | [Read More](https://medium.com/p/d099eb88d01f) |
-| Wed, 17 Sep 2025 13:33:20 GMT | ZAST.AI discovered vulnerabilities in Node-formidable | ZAST AI | [Read More](https://medium.com/p/cc194083a535) |
-| Wed, 17 Sep 2025 13:33:06 GMT | What to Do If Your Data Gets Hacked | Dkvilas | [Read More](https://medium.com/p/b45b754092b2) |
-| Wed, 17 Sep 2025 13:32:43 GMT | Redefining Collective Defense: Cyber Conflict in the Hybrid War Era | National Security Institute | [Read More](https://medium.com/p/f71b768ca478) |
