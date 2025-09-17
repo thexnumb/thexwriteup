@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 06:14:39 GMT | Securing Your Kubernetes Cluster — A Practical Guide for DevOps Engineers | Ankitha Rao | [Read More](https://medium.com/p/7e7f3e8bad9c) |
+| Wed, 17 Sep 2025 06:13:56 GMT | Cybersecurity Metrics: Measuring Security Performance | Cyber Security Research | [Read More](https://medium.com/p/fcc3bd07072e) |
+| Wed, 17 Sep 2025 06:07:39 GMT | Threat Intelligence: Gathering and Analyzing Data | Cyber Security Research | [Read More](https://medium.com/p/203c6b6e7880) |
+| Wed, 17 Sep 2025 06:00:53 GMT | Today’s Top Cyber Intelligence Highlights — Sep 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/beed98a731e0) |
+| Wed, 17 Sep 2025 06:00:24 GMT | Dark Web Monitoring: Tracking Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/70e76cc2cfb2) |
+| Wed, 17 Sep 2025 05:59:16 GMT | Why Your REST API Sucks (And How to Fix It) | Malik Saad Hayat | [Read More](https://medium.com/p/7a466b49fadd) |
+| Wed, 17 Sep 2025 05:56:45 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/3f4e82de45e3) |
+| Wed, 17 Sep 2025 05:53:44 GMT | The Psychology of Cybersecurity: Human Factors | Cyber Security Research | [Read More](https://medium.com/p/48681c95b072) |
+| Wed, 17 Sep 2025 05:50:35 GMT | TryHackMe Second Day | Eric Rubalcaba | [Read More](https://medium.com/p/ff62e8c327eb) |
+| Wed, 17 Sep 2025 05:47:28 GMT | OPA : Policy-as-Code for Smarter Cloud Security | Narendra Sai Srinivasula | [Read More](https://medium.com/p/4c6afbddc027) |
+| Wed, 17 Sep 2025 05:47:28 GMT | The Daily Tech Digest: 17 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7a36c7b3f615) |
+| Wed, 17 Sep 2025 05:44:21 GMT | Zero-Trust Architecture: Why It’s Going Mainstream | Aj | [Read More](https://medium.com/p/edc937397ed7) |
+| Wed, 17 Sep 2025 05:43:52 GMT | “AI in Healthcare 2025: Wearables, Fitness Apps & Medical Imaging for Smarter Health Tracking” | Tarush Sharma | [Read More](https://medium.com/p/fae381006df4) |
+| Wed, 17 Sep 2025 05:43:29 GMT | Keeping Data Centers Secure with Smarter Surveillance and Access Control | Gsinfotechvis Pvt Ltd | [Read More](https://medium.com/p/06ef6af6ddcb) |
+| Wed, 17 Sep 2025 05:38:19 GMT | WARNING: That Online Romance Isn’t Love, It’s a Slaughterhouse | Santhosh Kumar | [Read More](https://medium.com/p/cb9a40879fbc) |
+| Wed, 17 Sep 2025 05:36:01 GMT | Brand Monitoring and Digital Asset Protection: Beyond Social Media and Into the Threat Landscape | Cytrusst | [Read More](https://medium.com/p/6202e6c21467) |
 | Wed, 17 Sep 2025 05:32:50 GMT | Are you really paying Google to use your information? | Rabia Riaz | [Read More](https://medium.com/p/7d75b89a26b2) |
 | Wed, 17 Sep 2025 05:32:33 GMT | 16. Real Bug Bounty Stories (from My Reports) | Abhijeet kumawat | [Read More](https://medium.com/p/52e1f7535ef7) |
 | Wed, 17 Sep 2025 05:32:26 GMT | Understanding Cyber Security Certification Cost: Key Factors and Planning | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/7fb380088186) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 21:13:24 GMT | Iranian Hackers Launch Global Spear-Phishing Blitz Using Hijacked Diplomatic Email | Aj | [Read More](https://medium.com/p/ec6e553750b8) |
 | Tue, 16 Sep 2025 21:13:10 GMT | The Social Engineer’s Playbook: A Step-by-Step Narrative of a Corporate Breach | Shahzaib | [Read More](https://medium.com/p/bb1eaf94499c) |
 | Tue, 16 Sep 2025 21:09:41 GMT | The Comfortable Cage of Isolation. | EstNotes | [Read More](https://medium.com/p/ed9baab16115) |
-| Tue, 16 Sep 2025 20:59:20 GMT | Hack the Box Triage in Forensics | Luke | [Read More](https://medium.com/p/be77d14d4f93) |
-| Tue, 16 Sep 2025 20:55:59 GMT | The Ultimate Cybersecurity Guide to SS7: The Internet’s Secret Backdoor | Cybersecplayground | [Read More](https://medium.com/p/35c1b085c5b1) |
-| Tue, 16 Sep 2025 20:53:41 GMT | An Introduction to Computer Science | Eva Varona | [Read More](https://medium.com/p/5ec8d095ed0b) |
-| Tue, 16 Sep 2025 20:52:48 GMT | Privacy Matters: Cloud Storage Alternatives to Google… Drive? | Sam Writes Security | [Read More](https://medium.com/p/d2000cbfcfd4) |
-| Tue, 16 Sep 2025 20:49:29 GMT | File Path Traversal — Why a one-pass ../ filter fails and how to fix it | Siddiquimohammad | [Read More](https://medium.com/p/0dcfe4f11521) |
-| Tue, 16 Sep 2025 20:40:03 GMT | The Night a $60 Million Bug Changed How I Code Forever | David Eugene | [Read More](https://medium.com/p/e817277ccc3b) |
-| Tue, 16 Sep 2025 20:33:41 GMT | Stop Calling Offensive Security Professionals “Hackers” | Onurcan Genç | [Read More](https://medium.com/p/8ca2f3b7eacc) |
-| Tue, 16 Sep 2025 20:32:20 GMT | The $689K American Wake-Up Call: How a Former Employee Exposed Financial Giant’s Darkest Security… | Cyber Summaries | [Read More](https://medium.com/p/8211fdb58bf0) |
-| Tue, 16 Sep 2025 20:25:27 GMT | How Blind XSS Leading to Sensitive Token Disclosure | Yahia Ibrahim khamis | [Read More](https://medium.com/p/813c6c6a48d6) |
-| Tue, 16 Sep 2025 20:12:04 GMT | Building an On-Premise Active Directory Infrastructure from Scratch(Part 3: Organizing Your Domain… | Florence Nwizugbe | [Read More](https://medium.com/p/f51a89220574) |
-| Tue, 16 Sep 2025 20:05:07 GMT | How to Analyze Phishing Emails: Headers, Content & URLs (Beginner’s Guide) | LinAs | [Read More](https://medium.com/p/4727cdb6b344) |
-| Tue, 16 Sep 2025 19:58:54 GMT | MostereRAT: The Trojan That Turns One Click Into Full System Control | Ashley Dai | [Read More](https://medium.com/p/1c97c41b35fe) |
-| Tue, 16 Sep 2025 19:52:10 GMT | Think Alexa Isn’t Listening? Think Again | Your's Nightmare | [Read More](https://medium.com/p/38476cf0fde3) |
-| Tue, 16 Sep 2025 19:48:52 GMT | What is a data diode? | Petr Roupec | [Read More](https://medium.com/p/231084f1d359) |
-| Tue, 16 Sep 2025 19:46:26 GMT | How AI Chat Bot Help Me To Hack The Website | Yahia Ibrahim khamis | [Read More](https://medium.com/p/632e6afd1b35) |
-| Tue, 16 Sep 2025 19:45:26 GMT | Why I’m Launching My Own Cybersecurity Academy and Moving Away From Udemy | Taimur Ijlal | [Read More](https://medium.com/p/f0470da28339) |
