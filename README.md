@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 17:10:51 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/7d073dceeb93) |
+| Wed, 17 Sep 2025 17:04:46 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/a799aedd9973) |
+| Wed, 17 Sep 2025 17:03:31 GMT | How to build a bank p2: The firewall | Logan Elkins | [Read More](https://medium.com/p/199ff2bc9e8f) |
+| Wed, 17 Sep 2025 16:56:54 GMT | ️ Part 12 — Lock It Down Without Slowing It Down: Security & Governance That Scale | Sonal Sadafal | [Read More](https://medium.com/p/4df5223a63d7) |
+| Wed, 17 Sep 2025 16:56:31 GMT | Edge Manageability Framework —Improved On-Prem User Experience with Trusted Certificates | Russel Callen | [Read More](https://medium.com/p/7c05f8dbb17d) |
+| Wed, 17 Sep 2025 16:53:21 GMT | Think Your Credit Card Is Safe? Dangerous Truth Exposed | Dalibor Zivkovic | [Read More](https://medium.com/p/2af7a8303a80) |
+| Wed, 17 Sep 2025 16:52:47 GMT | What is the difference between smoke testing and sanity testing? | Richa Ghosh | [Read More](https://medium.com/p/813e4d86aefb) |
+| Wed, 17 Sep 2025 16:50:13 GMT | Your Work Laptop Is a Data Leaker: The “Burn After Reading” Disaster Awaits! ⚠️ | Santhosh Kumar | [Read More](https://medium.com/p/6e301d3ccdee) |
+| Wed, 17 Sep 2025 16:48:48 GMT | Building a Secure Fortress within AI: A Developer’s Guide to Full-Stack Security | Jonathan Vila | [Read More](https://medium.com/p/08006b01192b) |
 | Wed, 17 Sep 2025 16:40:42 GMT | Hey Everyone this my first medium post. | Zaki | [Read More](https://medium.com/p/2f45e5dadc8d) |
+| Wed, 17 Sep 2025 16:40:00 GMT | Managers, Don’t Make It Awkward: Be Kind When Employees Ask for Recommendation Letters | Charukshi Wijesinghe | [Read More](https://medium.com/p/2041f11e6e02) |
+| Wed, 17 Sep 2025 16:39:22 GMT | Mastering Kubernetes Secrets: The DevOps Engineer’s Complete Guide to Secure Container… | Salwan Mohamed | [Read More](https://medium.com/p/c546183451b8) |
 | Wed, 17 Sep 2025 16:30:53 GMT | Transforming Care: How Modernized Healthcare IT & Managed Services Are Redefining Patient Outcomes | Teona | [Read More](https://medium.com/p/f3c98139f5a1) |
 | Wed, 17 Sep 2025 16:30:43 GMT | AppSec IR - Tryhackme | Aaron | [Read More](https://medium.com/p/efc05fdd97f5) |
 | Wed, 17 Sep 2025 16:29:53 GMT | The Questions We’re Afraid to Ask | Ava Hayes | [Read More](https://medium.com/p/e45cc8bfd878) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 13:01:46 GMT | AI in Anomaly Detection: Protecting Financial Data from Hidden Threats | AIFintechPro | [Read More](https://medium.com/p/eaba1d4c135e) |
 | Wed, 17 Sep 2025 12:57:42 GMT | The Beautiful Madness of Loving the Monster You Created | SuccessBlueprints.Org | [Read More](https://medium.com/p/f2171f454fb7) |
 | Wed, 17 Sep 2025 12:54:03 GMT | Post-Quantum Cryptography: The Future of Security in a World of Uncrackable Codes | Shivansh Midha | [Read More](https://medium.com/p/2909bc9f137a) |
-| Wed, 17 Sep 2025 12:48:04 GMT | Magento Security Fix: SessionReaper (CVE-2025–54236) — What You Need to Know | On Tap | [Read More](https://medium.com/p/4ecf9be028d5) |
-| Wed, 17 Sep 2025 12:47:21 GMT | TryHackMe — LazyAdmin CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/24561635ae13) |
-| Wed, 17 Sep 2025 12:39:17 GMT | Jojo’s Hospital - KC7 Walkthrough | PhishMonger | [Read More](https://medium.com/p/fdd36d1becc4) |
-| Wed, 17 Sep 2025 12:36:19 GMT | Hack the Box — Soccer — WriteUp | Emre A. | [Read More](https://medium.com/p/16a8eb046ceb) |
-| Wed, 17 Sep 2025 12:30:56 GMT | Why Should UK Startups Choose Offshore Mobile Developers | Alice Williams | [Read More](https://medium.com/p/9adccce81f28) |
-| Wed, 17 Sep 2025 12:30:35 GMT | Ağ Analizinde Verimlilik için İşe Yarar Wireshark Filtreleri ve Öneriler | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/a4bf64495f60) |
-| Wed, 17 Sep 2025 12:24:35 GMT | Understanding the Importance of Cyber Security Services-Digitdefence | Anask Khan | [Read More](https://medium.com/p/f2eaa5612d1e) |
-| Wed, 17 Sep 2025 12:20:42 GMT | Cyber Security Services: Protecting Your Digital World with Cyber Cops | Cyber Cops | [Read More](https://medium.com/p/12cd0c4b3459) |
-| Wed, 17 Sep 2025 12:18:04 GMT | Exploiting server-side parameter pollution in a REST URL — Api Testing | Nitish Agrawal | [Read More](https://medium.com/p/23a305752929) |
-| Wed, 17 Sep 2025 12:14:14 GMT | Testing effectiveness of Metasploit Payloads with my Custom PE Loader: Endpoint Security Research | LearnWinternal | [Read More](https://medium.com/p/d1ba89db08ac) |
-| Wed, 17 Sep 2025 12:13:40 GMT | TikTok Deal: US, China Seal Framework After Madrid Talks | WisePol | [Read More](https://medium.com/p/3dc67ad22063) |
