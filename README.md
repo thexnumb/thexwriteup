@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 04:32:27 GMT | Building My First Cybersecurity Home Lab: Virtual Box, Windows Server, and Kali Linux | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/4fb961afed42) |
+| Wed, 17 Sep 2025 04:27:42 GMT | TryHackMe — Gaming Server CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/f67cd5bfda94) |
+| Wed, 17 Sep 2025 04:23:22 GMT | Evolvedge Technology Solutions Offers Specialized Training in OT/ICS Cybersecurity and DCS | TheEvolvEdge | [Read More](https://medium.com/p/e8e5afcb465a) |
 | Wed, 17 Sep 2025 04:06:31 GMT | India Tops Global Malware Chart as AI Fuels Ransomware Surge: A Wake-Up Call for Enterprises | Athishsagarkishan | [Read More](https://medium.com/p/795fa59fef68) |
 | Wed, 17 Sep 2025 04:05:04 GMT | Google Model Armor as Layer 8 Firewall | Alex Maclinovsky (Google) | [Read More](https://medium.com/p/1b096158689f) |
 | Wed, 17 Sep 2025 04:01:45 GMT | Fear of Vulnerability: Why Opening Up Feels So Risky | Novadatingapp | [Read More](https://medium.com/p/302d8069b125) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 18:58:55 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/ab572db3aece) |
 | Tue, 16 Sep 2025 18:56:09 GMT | The 11 Ways Hackers Break Into Systems (and How to Block Them) | Chris Zhang | [Read More](https://medium.com/p/a59aebfa63ec) |
 | Tue, 16 Sep 2025 18:47:06 GMT | Ladybug 1200 Uncovered: A Multi-Layered Stego & Crypto Walkthrough — 07CTF | Shoaib Bin Rashid | [Read More](https://medium.com/p/76a96989a6fe) |
-| Tue, 16 Sep 2025 18:45:42 GMT | On the Game of Eyes | Prix☆ | [Read More](https://medium.com/p/005f3878b6cd) |
-| Tue, 16 Sep 2025 18:44:00 GMT | How I Cleared CompTIA Security+ (SY0–701): My Study Journey & Resources | Surya Raja | [Read More](https://medium.com/p/07ec7f6bc4bc) |
-| Tue, 16 Sep 2025 18:42:42 GMT | Escalating LFI/SSRF via Linux Local Processes Enumeration | RandomFlawsFinder | [Read More](https://medium.com/p/e522d0ffd6df) |
