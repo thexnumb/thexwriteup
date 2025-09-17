@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 14:07:20 GMT | AI Insider Threats: When Your Security System Becomes the Weak Link | Ryan Cronin | [Read More](https://medium.com/p/3c9e1abec1b8) |
+| Wed, 17 Sep 2025 13:58:57 GMT | How We Built a Secure Data Wiping and Certification Tool for IT Asset Recycling | Sujal Sokande | [Read More](https://medium.com/p/d33020e605f9) |
+| Wed, 17 Sep 2025 13:56:44 GMT | Apple releases macOS Tahoe 26 and iOS 26 with more than fifty security upgrades. | Bastian | [Read More](https://medium.com/p/7714db4b5393) |
+| Wed, 17 Sep 2025 13:54:54 GMT | VPNs: How Do They Work? | Hirad Showghi | [Read More](https://medium.com/p/3f0d0499036c) |
+| Wed, 17 Sep 2025 13:44:54 GMT | Understanding Stack-Based Buffer Overflow | ret2sugar | [Read More](https://medium.com/p/b6dd93d34f6a) |
 | Wed, 17 Sep 2025 13:41:57 GMT | React Hook Form with Zod Validation: A Complete Guide with TypeScript | Toukir Ahamed Pigeon | [Read More](https://medium.com/p/aacbcb370a8b) |
+| Wed, 17 Sep 2025 13:41:27 GMT | The $2.9 Billion Email Scam Problem and Why Only AI Can Fix It | Faraz Weerabangsa | [Read More](https://medium.com/p/5450c47f9b16) |
+| Wed, 17 Sep 2025 13:40:53 GMT | ️ TryHackMe: New Hire Old Artifacts — Splunk Forensics Adventure | Furkanctiner | [Read More](https://medium.com/p/d099eb88d01f) |
 | Wed, 17 Sep 2025 13:33:20 GMT | ZAST.AI discovered vulnerabilities in Node-formidable | ZAST AI | [Read More](https://medium.com/p/cc194083a535) |
 | Wed, 17 Sep 2025 13:33:06 GMT | What to Do If Your Data Gets Hacked | Dkvilas | [Read More](https://medium.com/p/b45b754092b2) |
 | Wed, 17 Sep 2025 13:32:43 GMT | Redefining Collective Defense: Cyber Conflict in the Hybrid War Era | National Security Institute | [Read More](https://medium.com/p/f71b768ca478) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 09:42:36 GMT | crackmes.one: easyAF | Sourav Bose | [Read More](https://medium.com/p/482c9ed6ed4e) |
 | Wed, 17 Sep 2025 09:40:50 GMT | Flying Secure- A Comprehensive Guide to the Nabhyaan Drone | Redfox Security | [Read More](https://medium.com/p/f9787f93f21c) |
 | Wed, 17 Sep 2025 09:40:17 GMT | When “unsafe-inline” in CSP Isn’t the End of the World: What Helps, What’s Overhyped | Neeraj Singh | [Read More](https://medium.com/p/4fbec8710f55) |
-| Wed, 17 Sep 2025 09:38:46 GMT | On-Prem to the Cloud — From Challenge to Opportunity | Timo | [Read More](https://medium.com/p/2da360e7b058) |
-| Wed, 17 Sep 2025 09:35:09 GMT | Your WhatsApp Photo and Name Are Not as Private as You Think — Here’s How to Protect Them | fadili d | [Read More](https://medium.com/p/7e5720d707f5) |
-| Wed, 17 Sep 2025 09:34:19 GMT | 5 Security Habits Everyone Should Adopt Immediately | John Okwuose | [Read More](https://medium.com/p/c894b7f7c5ed) |
-| Wed, 17 Sep 2025 09:30:39 GMT | Mon ami de poche | Florent M | [Read More](https://medium.com/p/e88a5ac1dec5) |
-| Wed, 17 Sep 2025 09:23:54 GMT | ️ Fundamentals of Thinking as a Cybersecurity Practitioner | Biellreyluchaa | [Read More](https://medium.com/p/445d9dda347b) |
-| Wed, 17 Sep 2025 09:22:00 GMT | The Weight of Information | Alex Insouratselou | [Read More](https://medium.com/p/ec97070c7d3a) |
-| Wed, 17 Sep 2025 09:17:53 GMT | What Are the Best Ways to Be More Resilient? | FK! | [Read More](https://medium.com/p/a992647a6791) |
