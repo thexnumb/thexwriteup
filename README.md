@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 23:01:46 GMT | Designing for trust in generative AI products | DiUS | [Read More](https://medium.com/p/af0d97bd4a48) |
+| Wed, 17 Sep 2025 22:52:50 GMT | Touch-Screen MacBook Pro Rumors: What to Expect | Trendy String | [Read More](https://medium.com/p/dfa4ba1b4a9e) |
+| Wed, 17 Sep 2025 22:43:41 GMT | Cookie Shadowing and CSP bypass to read httpOnly cookie— Way too easy (CONCTF finals) | Kalawy | [Read More](https://medium.com/p/0de7dda28ee6) |
+| Wed, 17 Sep 2025 22:37:35 GMT | Chili Palmer’s Guard House | The Blessed Meathead | [Read More](https://medium.com/p/1fe04b9a2d78) |
 | Wed, 17 Sep 2025 22:23:04 GMT | Autenticação no API Gateway | Lucas Rosa | [Read More](https://medium.com/p/d81f83219b50) |
 | Wed, 17 Sep 2025 21:57:23 GMT | Metasploit Unpacked — A Beginner-Friendly Guide to Exploitation (Lab-Only Learning) | OxErvin | [Read More](https://medium.com/p/15015523d963) |
 | Wed, 17 Sep 2025 21:52:37 GMT | 6 Browser-Based Cyber Attacks Exploding in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/aa63980c6fd3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 15:41:57 GMT | Ancient Aliens and Cybersecurity: Why Weird Ideas Can Save You | Nicholas D'Acri | [Read More](https://medium.com/p/2f1baf56e0ee) |
 | Wed, 17 Sep 2025 15:41:52 GMT | DePIN and Solana: A Blueprint for Pakistan’s Physical-Infrastructure Revolution | Shayan Saqib | [Read More](https://medium.com/p/2338a1d0ad72) |
 | Wed, 17 Sep 2025 15:39:19 GMT | Goodbye, Service Account Keys! | Saloni Patidar | [Read More](https://medium.com/p/e009f3b8ffef) |
-| Wed, 17 Sep 2025 15:39:18 GMT | My TryHackMe Journey: Turning Hands-On Labs Into Real-World Cybersecurity Skills | Ashutosh Shukla | [Read More](https://medium.com/p/1b344ddcec53) |
-| Wed, 17 Sep 2025 15:38:28 GMT | The P99 Metrics That Cost Amazon $107 Million (And How to Avoid the Same Fate) | King D. | [Read More](https://medium.com/p/d7706b427fa8) |
-| Wed, 17 Sep 2025 15:38:27 GMT | Analog Ghosts: A Hacker’s Guide to CRT Resurrection | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d40616f153d6) |
-| Wed, 17 Sep 2025 15:35:53 GMT | A Practical OSINT Methodology — Tools, Notes, and Workflow | Ahmed Mohammed | [Read More](https://medium.com/p/fbf027fdc0bc) |
