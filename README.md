@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 07:32:23 GMT | Directory Traversal Attacks: When File Systems Become Your Enemy | Rizqi Mulki | [Read More](https://medium.com/p/0511c78d4b62) |
+| Wed, 17 Sep 2025 07:32:15 GMT | Threat Hunting: Searching for Malicious Activity on the Network | Esra Kayhan | [Read More](https://medium.com/p/0512149c857a) |
+| Wed, 17 Sep 2025 07:32:15 GMT | How to use language models securely | Jonathan Davis | [Read More](https://medium.com/p/12013a03c28b) |
+| Wed, 17 Sep 2025 07:29:32 GMT | Flexible Online, Offline, and Hybrid Courses for Global Learners | SkillWint | [Read More](https://medium.com/p/9e82fed5e486) |
+| Wed, 17 Sep 2025 07:26:22 GMT | Visualizing XGBoost Malware Detection | J Xie | [Read More](https://medium.com/p/ed3c9bacc1d3) |
+| Wed, 17 Sep 2025 07:22:47 GMT | Palo Alto Networks Medical Device Security: A Comprenshive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d2a44a7ed7c1) |
+| Wed, 17 Sep 2025 07:22:27 GMT | The Dark Truth About Cybersecurity Nobody Wants You to Know | Rizqi Mulki | [Read More](https://medium.com/p/aee81289e331) |
+| Wed, 17 Sep 2025 07:18:10 GMT | A Comparative Analysis of LLM Security Architectures: How a Casual Experiment Led to a Systemic… | Jan Kowalski | [Read More](https://medium.com/p/cc93794b9c90) |
+| Wed, 17 Sep 2025 07:14:23 GMT | NIST Password Guidelines 2025: Why Longer Beats Stronger | Amrik  Hanjra | [Read More](https://medium.com/p/9bb26b047be7) |
+| Wed, 17 Sep 2025 07:07:45 GMT | Why AI Still Needs Engineers | Pranav Gupta | [Read More](https://medium.com/p/2775f87ac3e5) |
+| Wed, 17 Sep 2025 07:07:36 GMT | The Most Secure Operating System in the World | Shahzaib | [Read More](https://medium.com/p/7c89002bd009) |
 | Wed, 17 Sep 2025 07:05:02 GMT | MariaDB Safer Than MySQL? The Truth Will Shock You | Rizqi Mulki | [Read More](https://medium.com/p/6173aa9ebe13) |
 | Wed, 17 Sep 2025 06:59:04 GMT | How AI Phishing Detection Tools Secure Your Ecommerce Business | snehal deore | [Read More](https://medium.com/p/8514f43580b5) |
 | Wed, 17 Sep 2025 06:56:50 GMT | Why Databases Are the Weakest Link in Cybersecurity | Rizqi Mulki | [Read More](https://medium.com/p/2c63af56da29) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 01:08:26 GMT | What is Defensive Security? — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/7971bb838d38) |
 | Wed, 17 Sep 2025 00:59:52 GMT | Spring Security Core Modules Explained: Protect Your Java Apps the Right Way | Maneesha Indrachapa | [Read More](https://medium.com/p/d185bb31f861) |
 | Wed, 17 Sep 2025 00:51:58 GMT | SOAR + EDR Emulation | Sneh bavarva | [Read More](https://medium.com/p/0ddd956eaa28) |
-| Wed, 17 Sep 2025 00:49:42 GMT | Packet Detective: A Beginner’s Wireshark Guide — Capture, Filter, and Find What Matters | OxErvin | [Read More](https://medium.com/p/0c1d234939f9) |
-| Wed, 17 Sep 2025 00:49:11 GMT | Stolen Data Is Never “Old” on the Dark Web | David SEHYEON Baek | [Read More](https://medium.com/p/05691f665eac) |
-| Wed, 17 Sep 2025 00:31:43 GMT | Gotta Be Phreaking Kidding Me! | Quentin Wallace | [Read More](https://medium.com/p/46d01d9babfb) |
-| Wed, 17 Sep 2025 00:27:50 GMT | Switching from Banking Fraud to Blockchain Forensics | artofblockchain.club | [Read More](https://medium.com/p/93d50db3402b) |
-| Wed, 17 Sep 2025 00:21:48 GMT | There Is Such a Thing as Anti-Climb Paint | Daniel Ganninger | [Read More](https://medium.com/p/8e2a39816f58) |
-| Wed, 17 Sep 2025 00:20:45 GMT | Old or Unused Breached Data Can Still Complete Full Profiles of Potential Attack Targets | David SEHYEON Baek | [Read More](https://medium.com/p/459e47ac8418) |
-| Wed, 17 Sep 2025 00:18:48 GMT | How a Single Malicious Cookie Led to Root: Dissecting the CVE-2024–3400 Exploit | Sohan Kanna D | [Read More](https://medium.com/p/307c8706e82f) |
-| Wed, 17 Sep 2025 00:16:59 GMT | $10,0000 AUTHENTIC PAYPAY DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Blackbox77 | [Read More](https://medium.com/p/1778a75b57ff) |
-| Wed, 17 Sep 2025 00:06:25 GMT | Vibe Coding Is Great — Until It Isn’t: Why Security Matters | Rafter | [Read More](https://medium.com/p/09cfdd018df8) |
-| Wed, 17 Sep 2025 00:02:03 GMT | Complete Guide to Masscan: High-Speed Port Scanning for Cybersecurity Professionals | JPablo13 | [Read More](https://medium.com/p/9bb4f61c6173) |
-| Tue, 16 Sep 2025 23:43:58 GMT | The Hidden Risks of Public Wi-Fi (Explained Simply) | AbdelAziz Mahmud | [Read More](https://medium.com/p/21b7a80896ca) |
