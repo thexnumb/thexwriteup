@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 04:06:31 GMT | India Tops Global Malware Chart as AI Fuels Ransomware Surge: A Wake-Up Call for Enterprises | Athishsagarkishan | [Read More](https://medium.com/p/795fa59fef68) |
+| Wed, 17 Sep 2025 04:05:04 GMT | Google Model Armor as Layer 8 Firewall | Alex Maclinovsky (Google) | [Read More](https://medium.com/p/1b096158689f) |
+| Wed, 17 Sep 2025 04:01:45 GMT | Fear of Vulnerability: Why Opening Up Feels So Risky | Novadatingapp | [Read More](https://medium.com/p/302d8069b125) |
+| Wed, 17 Sep 2025 03:50:10 GMT | Expert Cyber Security Services Norwest - Protect Your Business & Data with D Global | D Global | [Read More](https://medium.com/p/97abd3d868e4) |
+| Wed, 17 Sep 2025 03:49:25 GMT | From Intent to Authorization: Inside Google’s Agent Payments Protocol (AP2) | Dinmay kumar Brahma | [Read More](https://medium.com/p/6fc41aad576a) |
+| Wed, 17 Sep 2025 03:40:51 GMT | The Secret to Stable Multi-Account Management: Fingerprint Browsers + Residential Proxies | Add | [Read More](https://medium.com/p/d0145598f994) |
 | Wed, 17 Sep 2025 03:36:37 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/5da4fe85d53a) |
+| Wed, 17 Sep 2025 03:35:23 GMT | AI Guardrails in Cybersecurity — Why They Matter More Than Ever | Dr. Deep Pandey | [Read More](https://medium.com/p/faf42774aa4b) |
 | Wed, 17 Sep 2025 03:32:24 GMT | Phishing Simulation vs. Live Training: Which Is Better For Your Team’s Cybersecurity? | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/5bb5d8812fd4) |
 | Wed, 17 Sep 2025 03:32:02 GMT | When Trust Becomes a Threat: How Hackers Exploit Legitimate Drivers to Kill Antivirus | Deven Chhajed | [Read More](https://medium.com/p/369e447c10cb) |
 | Wed, 17 Sep 2025 03:32:02 GMT | The Ripple Effect: Diving into the Salesloft Drift Supply Chain Attack | Akshat Ratanpal | [Read More](https://medium.com/p/ec81e6ed9761) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 18:45:42 GMT | On the Game of Eyes | Prix☆ | [Read More](https://medium.com/p/005f3878b6cd) |
 | Tue, 16 Sep 2025 18:44:00 GMT | How I Cleared CompTIA Security+ (SY0–701): My Study Journey & Resources | Surya Raja | [Read More](https://medium.com/p/07ec7f6bc4bc) |
 | Tue, 16 Sep 2025 18:42:42 GMT | Escalating LFI/SSRF via Linux Local Processes Enumeration | RandomFlawsFinder | [Read More](https://medium.com/p/e522d0ffd6df) |
-| Tue, 16 Sep 2025 18:42:30 GMT | How a Single Server Mistake Broke Our CORS Policy | Yahia Ibrahim khamis | [Read More](https://medium.com/p/27e24b7c4eb7) |
-| Tue, 16 Sep 2025 18:41:33 GMT | What is a terminal? Xterm? The command line? | Seven | [Read More](https://medium.com/p/9d4072e29dc0) |
-| Tue, 16 Sep 2025 18:38:49 GMT | How to Know if You’ve Been Hacked: A Comprehensive Scientific Guide | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/d04a5871b3cf) |
-| Tue, 16 Sep 2025 18:34:16 GMT | What to Do If You Get Hacked: Immediate Actions and Security Recovery | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/7308751b9edc) |
-| Tue, 16 Sep 2025 18:31:51 GMT | Fileless Malware: Attacks That Leave No Trace | Andrei Ivan | [Read More](https://medium.com/p/b16540e03851) |
-| Tue, 16 Sep 2025 18:31:46 GMT | CTF → Pentest: Translating CTF Patterns into Real-World Exploits | Aditya Bhatt | [Read More](https://medium.com/p/c74ba79dcf4e) |
-| Tue, 16 Sep 2025 18:22:39 GMT | Never Trust Always Verify!! | Anam Khan | [Read More](https://medium.com/p/c3436819d3a2) |
