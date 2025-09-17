@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 20:29:50 GMT | “Some Assembly Required 3” challenge | oussama | [Read More](https://medium.com/p/1a954e53fb51) |
 | Wed, 17 Sep 2025 20:19:59 GMT | Anti-Bot Evasion | Yüksel Coşgun | [Read More](https://medium.com/p/41ddba70434b) |
 | Wed, 17 Sep 2025 20:15:43 GMT | AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns | Ryan Cronin | [Read More](https://medium.com/p/3f487643bab6) |
 | Wed, 17 Sep 2025 20:10:42 GMT | Why Quantum Computing makes Cybersecurity more important than ever before. | Matthew Winn | [Read More](https://medium.com/p/1dca51549d73) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 15:06:15 GMT | Monero’s 18-Block Reorg: A Wake-Up Call for Decentralization | Andy Zonana | [Read More](https://medium.com/p/3345cd9d8cf1) |
 | Wed, 17 Sep 2025 15:04:07 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/fd9ee49d6701) |
 | Wed, 17 Sep 2025 15:01:44 GMT | Rust Devs Are Landing $200K+ Jobs (Here’s Why) | Asma | [Read More](https://medium.com/p/4b37537c1377) |
-| Wed, 17 Sep 2025 14:56:18 GMT | My First Steps Into Cybersecurity | Himanshu Parate | [Read More](https://medium.com/p/21e2a14e06a4) |
