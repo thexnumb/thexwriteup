@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 10:09:50 GMT | Salesforce AI Changes CRM Forever | Salesforce BLOG | [Read More](https://medium.com/p/06d96a8c6cb9) |
+| Wed, 17 Sep 2025 10:09:08 GMT | File Upload Restriction Bypass Extension Checklist | Sle3pyHead ‍ | [Read More](https://medium.com/p/b113cef1a205) |
+| Wed, 17 Sep 2025 10:02:57 GMT | Where Are Your Screenshots Really Going? | thedigitaldetective | [Read More](https://medium.com/p/762497d105be) |
+| Wed, 17 Sep 2025 09:59:50 GMT | In a world full of Chocolate Fudge, be my Tiramisu. | The Heart 's Diary | [Read More](https://medium.com/p/c5236f9b4947) |
+| Wed, 17 Sep 2025 09:58:15 GMT | Simple Security Wins: Overlooked control stops real attacks? | Truspex | [Read More](https://medium.com/p/ccccdcb7c2cd) |
+| Wed, 17 Sep 2025 09:48:08 GMT | Integrating AI into Cybersecurity: Where We Are and Where We’re Going | Abdullateef Hameed | [Read More](https://medium.com/p/1b7c35854730) |
+| Wed, 17 Sep 2025 09:47:44 GMT | Why We Built DeviceLab: From Enterprise to SaaS | Om Narayan | [Read More](https://medium.com/p/db59523a428e) |
+| Wed, 17 Sep 2025 09:47:24 GMT | Security Leadership: Who’s Your Cyber Headhunter Dream Team? | Authlyn | [Read More](https://medium.com/p/db5f3347d9d6) |
+| Wed, 17 Sep 2025 09:45:49 GMT | Top 5 Technical Asset Discovery Tools in OSINT | Inter3209 | [Read More](https://medium.com/p/b4381390daa5) |
+| Wed, 17 Sep 2025 09:42:36 GMT | crackmes.one: easyAF | Sourav Bose | [Read More](https://medium.com/p/482c9ed6ed4e) |
+| Wed, 17 Sep 2025 09:40:50 GMT | Flying Secure- A Comprehensive Guide to the Nabhyaan Drone | Redfox Security | [Read More](https://medium.com/p/f9787f93f21c) |
+| Wed, 17 Sep 2025 09:40:17 GMT | When “unsafe-inline” in CSP Isn’t the End of the World: What Helps, What’s Overhyped | Neeraj Singh | [Read More](https://medium.com/p/4fbec8710f55) |
+| Wed, 17 Sep 2025 09:38:46 GMT | On-Prem to the Cloud — From Challenge to Opportunity | Timo | [Read More](https://medium.com/p/2da360e7b058) |
 | Wed, 17 Sep 2025 09:35:09 GMT | Your WhatsApp Photo and Name Are Not as Private as You Think — Here’s How to Protect Them | fadili d | [Read More](https://medium.com/p/7e5720d707f5) |
 | Wed, 17 Sep 2025 09:34:19 GMT | 5 Security Habits Everyone Should Adopt Immediately | John Okwuose | [Read More](https://medium.com/p/c894b7f7c5ed) |
 | Wed, 17 Sep 2025 09:30:39 GMT | Mon ami de poche | Florent M | [Read More](https://medium.com/p/e88a5ac1dec5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 05:47:28 GMT | The Daily Tech Digest: 17 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7a36c7b3f615) |
 | Wed, 17 Sep 2025 05:44:21 GMT | Zero-Trust Architecture: Why It’s Going Mainstream | Aj | [Read More](https://medium.com/p/edc937397ed7) |
 | Wed, 17 Sep 2025 05:43:52 GMT | “AI in Healthcare 2025: Wearables, Fitness Apps & Medical Imaging for Smarter Health Tracking” | Tarush Sharma | [Read More](https://medium.com/p/fae381006df4) |
-| Wed, 17 Sep 2025 05:43:29 GMT | Keeping Data Centers Secure with Smarter Surveillance and Access Control | Gsinfotechvis Pvt Ltd | [Read More](https://medium.com/p/06ef6af6ddcb) |
-| Wed, 17 Sep 2025 05:38:19 GMT | WARNING: That Online Romance Isn’t Love, It’s a Slaughterhouse | Santhosh Kumar | [Read More](https://medium.com/p/cb9a40879fbc) |
-| Wed, 17 Sep 2025 05:36:01 GMT | Brand Monitoring and Digital Asset Protection: Beyond Social Media and Into the Threat Landscape | Cytrusst | [Read More](https://medium.com/p/6202e6c21467) |
-| Wed, 17 Sep 2025 05:32:50 GMT | Are you really paying Google to use your information? | Rabia Riaz | [Read More](https://medium.com/p/7d75b89a26b2) |
-| Wed, 17 Sep 2025 05:32:33 GMT | 16. Real Bug Bounty Stories (from My Reports) | Abhijeet kumawat | [Read More](https://medium.com/p/52e1f7535ef7) |
-| Wed, 17 Sep 2025 05:32:26 GMT | Understanding Cyber Security Certification Cost: Key Factors and Planning | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/7fb380088186) |
-| Wed, 17 Sep 2025 05:29:44 GMT | End-to-End Encryption: Why Platforms Can’t Read Your Messages | Ravikumar Makwana | [Read More](https://medium.com/p/c71117ff08f2) |
-| Wed, 17 Sep 2025 05:26:41 GMT | Portswigger Web Security Academy - XSS Lab #1 | BooRuleDie | [Read More](https://medium.com/p/7b41218cf355) |
-| Wed, 17 Sep 2025 05:19:31 GMT | Manned Guarding Services Dubai: Top Choices for Reliable Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/65f8da2d8ece) |
-| Wed, 17 Sep 2025 05:14:09 GMT | Passkeys vs Passwords — What Are They, And Which Is Better? | Hamza Hanif | [Read More](https://medium.com/p/3601665e8282) |
-| Wed, 17 Sep 2025 05:07:29 GMT | How to Recover a Hacked WordPress Site (Step-by-Step Guide) | 79mplus | [Read More](https://medium.com/p/69e0a1cf9511) |
-| Wed, 17 Sep 2025 05:04:58 GMT | Samsung Galaxy S2 Ultimate Guide: Specs, Features, and History | Sienna Lewis | [Read More](https://medium.com/p/8273f36c0a41) |
-| Wed, 17 Sep 2025 04:51:15 GMT | Walkthrough: Assessment Methodologies — Footprinting and Scanning CTF 1 | Xnirkun | [Read More](https://medium.com/p/b56e06a51f18) |
