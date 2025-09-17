@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 19:31:42 GMT | Native Apps Reimagined: Why Tauri, Rust, and Svelte is My Go-To Stack in 2025 | Puneet | [Read More](https://medium.com/p/209f5b2937a1) |
+| Wed, 17 Sep 2025 19:23:54 GMT | The Biometric Fortress: Securely Storing and Retrieving Data in Swift with Keychain and the Secure… | ElAmir Mansour | [Read More](https://medium.com/p/299254399d97) |
+| Wed, 17 Sep 2025 19:21:12 GMT | OWASP Juice Shop Challenge : Zero Rating | theOrthodox | [Read More](https://medium.com/p/cc4ff83629f2) |
+| Wed, 17 Sep 2025 19:20:32 GMT | How to Implement Network Security Protocols | Hum Ble | [Read More](https://medium.com/p/9b437208ef7e) |
+| Wed, 17 Sep 2025 19:18:46 GMT | How to Survive the Next Wave of Cybersecurity Layoffs | Taimur Ijlal | [Read More](https://medium.com/p/1d9e9a9d0ac4) |
 | Wed, 17 Sep 2025 19:13:50 GMT | How to Start Bug Bounty Learning Journey with Hack The Box | Rashadul Islam | [Read More](https://medium.com/p/277f92d8150e) |
+| Wed, 17 Sep 2025 19:11:45 GMT | The Portfolio That Got Me Hired at FAANG: A Breakdown | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/589df50dac6d) |
 | Wed, 17 Sep 2025 19:10:59 GMT | iPhone 17 Pro Max Test | Julia Ahrens | [Read More](https://medium.com/p/8ab840f43ecd) |
 | Wed, 17 Sep 2025 19:07:33 GMT | Your Data, Their Commodity: The Economics of the Dark Web | Shahzaib | [Read More](https://medium.com/p/a151ec221f8d) |
+| Wed, 17 Sep 2025 19:02:43 GMT | The Upside of Vulnerability | John Clark - The Voice of Courage | [Read More](https://medium.com/p/e66a22afae5e) |
 | Wed, 17 Sep 2025 18:59:21 GMT | Oops | Mr_Nobody | [Read More](https://medium.com/p/b78db4a8a093) |
 | Wed, 17 Sep 2025 18:58:55 GMT | SOULMATE — HTB | H3XH7WK | [Read More](https://medium.com/p/98eec9a4e64b) |
 | Wed, 17 Sep 2025 18:57:11 GMT | FileFix: The Next Evolution of ClickFix Attacks | Ashley Dai | [Read More](https://medium.com/p/279e6f0439b6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 14:28:35 GMT | PG Practice — Walla (Linux) | Lepton | [Read More](https://medium.com/p/0150cc51bc74) |
 | Wed, 17 Sep 2025 14:27:44 GMT | U.A. High School TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/983e3d71e2ef) |
 | Wed, 17 Sep 2025 14:22:25 GMT | Become a Professional Ethical Hacker: A Comprehensive Curriculum | Md Shahnoor Ansari | [Read More](https://medium.com/p/3cbdfde72166) |
-| Wed, 17 Sep 2025 14:18:24 GMT | Friendly Fire (the Good Kind) | Kacie Hankins | [Read More](https://medium.com/p/506cc3d58c40) |
-| Wed, 17 Sep 2025 14:17:18 GMT | TryHackMe — Smol Challenge Wolkthrough | SubhaDip | [Read More](https://medium.com/p/e96879b825ac) |
-| Wed, 17 Sep 2025 14:07:20 GMT | AI Insider Threats: When Your Security System Becomes the Weak Link | Ryan Cronin | [Read More](https://medium.com/p/3c9e1abec1b8) |
-| Wed, 17 Sep 2025 13:58:57 GMT | How We Built a Secure Data Wiping and Certification Tool for IT Asset Recycling | Sujal Sokande | [Read More](https://medium.com/p/d33020e605f9) |
-| Wed, 17 Sep 2025 13:56:44 GMT | Apple releases macOS Tahoe 26 and iOS 26 with more than fifty security upgrades. | Bastian | [Read More](https://medium.com/p/7714db4b5393) |
-| Wed, 17 Sep 2025 13:54:54 GMT | VPNs: How Do They Work? | Hirad Showghi | [Read More](https://medium.com/p/3f0d0499036c) |
-| Wed, 17 Sep 2025 13:44:54 GMT | Understanding Stack-Based Buffer Overflow | ret2sugar | [Read More](https://medium.com/p/b6dd93d34f6a) |
