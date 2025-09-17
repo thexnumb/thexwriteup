@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 14:39:44 GMT | Honeypots: Traps for Hackers | Hirad Showghi | [Read More](https://medium.com/p/14635d8042f5) |
+| Wed, 17 Sep 2025 14:32:14 GMT | Why I Always Disable Unused Linux Services After Installation | Faruk Ahmed | [Read More](https://medium.com/p/d99b931a866f) |
+| Wed, 17 Sep 2025 14:28:35 GMT | PG Practice — Walla (Linux) | Lepton | [Read More](https://medium.com/p/0150cc51bc74) |
+| Wed, 17 Sep 2025 14:27:44 GMT | U.A. High School TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/983e3d71e2ef) |
+| Wed, 17 Sep 2025 14:22:25 GMT | Become a Professional Ethical Hacker: A Comprehensive Curriculum | Md Shahnoor Ansari | [Read More](https://medium.com/p/3cbdfde72166) |
+| Wed, 17 Sep 2025 14:18:24 GMT | Friendly Fire (the Good Kind) | Kacie Hankins | [Read More](https://medium.com/p/506cc3d58c40) |
+| Wed, 17 Sep 2025 14:17:18 GMT | TryHackMe — Smol Challenge Wolkthrough | SubhaDip | [Read More](https://medium.com/p/e96879b825ac) |
 | Wed, 17 Sep 2025 14:07:20 GMT | AI Insider Threats: When Your Security System Becomes the Weak Link | Ryan Cronin | [Read More](https://medium.com/p/3c9e1abec1b8) |
 | Wed, 17 Sep 2025 13:58:57 GMT | How We Built a Secure Data Wiping and Certification Tool for IT Asset Recycling | Sujal Sokande | [Read More](https://medium.com/p/d33020e605f9) |
 | Wed, 17 Sep 2025 13:56:44 GMT | Apple releases macOS Tahoe 26 and iOS 26 with more than fifty security upgrades. | Bastian | [Read More](https://medium.com/p/7714db4b5393) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 10:02:57 GMT | Where Are Your Screenshots Really Going? | thedigitaldetective | [Read More](https://medium.com/p/762497d105be) |
 | Wed, 17 Sep 2025 09:59:50 GMT | In a world full of Chocolate Fudge, be my Tiramisu. | The Heart 's Diary | [Read More](https://medium.com/p/c5236f9b4947) |
 | Wed, 17 Sep 2025 09:58:15 GMT | Simple Security Wins: Overlooked control stops real attacks? | Truspex | [Read More](https://medium.com/p/ccccdcb7c2cd) |
-| Wed, 17 Sep 2025 09:48:08 GMT | Integrating AI into Cybersecurity: Where We Are and Where We’re Going | Abdullateef Hameed | [Read More](https://medium.com/p/1b7c35854730) |
-| Wed, 17 Sep 2025 09:47:44 GMT | Why We Built DeviceLab: From Enterprise to SaaS | Om Narayan | [Read More](https://medium.com/p/db59523a428e) |
-| Wed, 17 Sep 2025 09:47:24 GMT | Security Leadership: Who’s Your Cyber Headhunter Dream Team? | Authlyn | [Read More](https://medium.com/p/db5f3347d9d6) |
-| Wed, 17 Sep 2025 09:45:49 GMT | Top 5 Technical Asset Discovery Tools in OSINT | Inter3209 | [Read More](https://medium.com/p/b4381390daa5) |
-| Wed, 17 Sep 2025 09:42:36 GMT | crackmes.one: easyAF | Sourav Bose | [Read More](https://medium.com/p/482c9ed6ed4e) |
-| Wed, 17 Sep 2025 09:40:50 GMT | Flying Secure- A Comprehensive Guide to the Nabhyaan Drone | Redfox Security | [Read More](https://medium.com/p/f9787f93f21c) |
-| Wed, 17 Sep 2025 09:40:17 GMT | When “unsafe-inline” in CSP Isn’t the End of the World: What Helps, What’s Overhyped | Neeraj Singh | [Read More](https://medium.com/p/4fbec8710f55) |
