@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 01:09:19 GMT | Supply Chain Security: Why It Matters More Than Ever | anotherik | [Read More](https://medium.com/p/5c0139834a4d) |
+| Wed, 17 Sep 2025 01:08:26 GMT | What is Defensive Security? — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/7971bb838d38) |
+| Wed, 17 Sep 2025 00:59:52 GMT | Spring Security Core Modules Explained: Protect Your Java Apps the Right Way | Maneesha Indrachapa | [Read More](https://medium.com/p/d185bb31f861) |
+| Wed, 17 Sep 2025 00:51:58 GMT | SOAR + EDR Emulation | Sneh bavarva | [Read More](https://medium.com/p/0ddd956eaa28) |
+| Wed, 17 Sep 2025 00:49:42 GMT | Packet Detective: A Beginner’s Wireshark Guide — Capture, Filter, and Find What Matters | OxErvin | [Read More](https://medium.com/p/0c1d234939f9) |
+| Wed, 17 Sep 2025 00:49:11 GMT | Stolen Data Is Never “Old” on the Dark Web | David SEHYEON Baek | [Read More](https://medium.com/p/05691f665eac) |
+| Wed, 17 Sep 2025 00:31:43 GMT | Gotta Be Phreaking Kidding Me! | Quentin Wallace | [Read More](https://medium.com/p/46d01d9babfb) |
+| Wed, 17 Sep 2025 00:27:50 GMT | Switching from Banking Fraud to Blockchain Forensics | artofblockchain.club | [Read More](https://medium.com/p/93d50db3402b) |
+| Wed, 17 Sep 2025 00:21:48 GMT | There Is Such a Thing as Anti-Climb Paint | Daniel Ganninger | [Read More](https://medium.com/p/8e2a39816f58) |
+| Wed, 17 Sep 2025 00:20:45 GMT | Old or Unused Breached Data Can Still Complete Full Profiles of Potential Attack Targets | David SEHYEON Baek | [Read More](https://medium.com/p/459e47ac8418) |
+| Wed, 17 Sep 2025 00:18:48 GMT | How a Single Malicious Cookie Led to Root: Dissecting the CVE-2024–3400 Exploit | Sohan Kanna D | [Read More](https://medium.com/p/307c8706e82f) |
+| Wed, 17 Sep 2025 00:16:59 GMT | $10,0000 AUTHENTIC PAYPAY DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Blackbox77 | [Read More](https://medium.com/p/1778a75b57ff) |
+| Wed, 17 Sep 2025 00:06:25 GMT | Vibe Coding Is Great — Until It Isn’t: Why Security Matters | Rafter | [Read More](https://medium.com/p/09cfdd018df8) |
+| Wed, 17 Sep 2025 00:02:03 GMT | Complete Guide to Masscan: High-Speed Port Scanning for Cybersecurity Professionals | JPablo13 | [Read More](https://medium.com/p/9bb4f61c6173) |
+| Tue, 16 Sep 2025 23:43:58 GMT | The Hidden Risks of Public Wi-Fi (Explained Simply) | AbdelAziz Mahmud | [Read More](https://medium.com/p/21b7a80896ca) |
+| Tue, 16 Sep 2025 23:36:24 GMT | The Contribution Of Tech Startups To Employment In Nigeria | Karen Shokunbi | [Read More](https://medium.com/p/2f12c5f9813d) |
+| Tue, 16 Sep 2025 23:25:09 GMT | Why There Is No Trace of Hacking on Your Servers But Still You Got Hacked | David SEHYEON Baek | [Read More](https://medium.com/p/203aa6c96161) |
 | Tue, 16 Sep 2025 23:19:36 GMT | “DeepTrace” Forensics Challenge in Connectors CTF Qualifications by Connectors Team | Mohamed Ramadan | [Read More](https://medium.com/p/284304950704) |
 | Tue, 16 Sep 2025 23:15:29 GMT | Red Team 101: Aktif Bilgi Toplama NMAP kullanımı & Zafiyet Tespiti - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/e28d5793f22f) |
 | Tue, 16 Sep 2025 23:05:22 GMT | How Bug Hunters Can Find Off-Platform Apps — Privately, Ethically, and Legally — and Get to the… | rezasafarzade | [Read More](https://medium.com/p/6e0feabf25e9) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 17:29:12 GMT | PG Practice — Payday (Linux) | Lepton | [Read More](https://medium.com/p/473d320d687f) |
 | Tue, 16 Sep 2025 17:27:16 GMT | Security in AI Coding: Can AI Really Detect Exploits? | Seedify | [Read More](https://medium.com/p/1295c7f050f0) |
 | Tue, 16 Sep 2025 17:24:15 GMT | Web Zafiyetleri Serisi #3 | Didem Kış | [Read More](https://medium.com/p/5bb9dbe464ce) |
-| Tue, 16 Sep 2025 17:24:01 GMT | Privacy is Luxury | Nidhi Chaurasia | [Read More](https://medium.com/p/80ffbba5d693) |
-| Tue, 16 Sep 2025 17:19:57 GMT | 7 Signs Your Business Needs Managed Cloud Services Right Now | Anas Imtiaz | [Read More](https://medium.com/p/801893bd0379) |
-| Tue, 16 Sep 2025 17:17:21 GMT | Abusing ADODB.Recordset for Arbitrary Downloads Without MOTW (Part 1 Non Tech) | IUnknown* pUnk | [Read More](https://medium.com/p/355eca1575c6) |
-| Tue, 16 Sep 2025 17:15:16 GMT | AWS S3 Presigned URLs vs Multer: A Developer’s Guide to Efficient File Uploads | Samuel Ndubuisi | [Read More](https://medium.com/p/d094f7388e27) |
-| Tue, 16 Sep 2025 17:08:34 GMT | Still Worried About Trust When Outsourcing Errands? | Errandaar | [Read More](https://medium.com/p/f17c240afb9f) |
-| Tue, 16 Sep 2025 17:03:41 GMT | E-mail from Amazon.ca | Bob Malin | [Read More](https://medium.com/p/4ff9965dc498) |
-| Tue, 16 Sep 2025 17:02:28 GMT | Building Your First Cybersecurity Lab A Hacker’s Playground | Fateyaly | [Read More](https://medium.com/p/a217a2301a99) |
-| Tue, 16 Sep 2025 17:01:49 GMT | How Smartechor Builds Secure and Scalable Applications | Smartechor | [Read More](https://medium.com/p/35bc2e3d22f5) |
-| Tue, 16 Sep 2025 16:57:55 GMT | From Subdomain Scan to Hall of Fame | Anupam Masih | [Read More](https://medium.com/p/1542f20c78e4) |
-| Tue, 16 Sep 2025 16:54:50 GMT | The Future of Cybersecurity, IT, GRC, and Project Management Roles (2025–2045) | David ONeal | [Read More](https://medium.com/p/2c250506fa06) |
-| Tue, 16 Sep 2025 16:53:01 GMT | Exploiting Zero-Day (CVE-2025–9961) in the TP-Link AX10 Router | David | [Read More](https://medium.com/p/8745f9af9c46) |
-| Tue, 16 Sep 2025 16:43:38 GMT | Biggest Crypto Hacks of 2025 (So Far) | Krypto Insides | [Read More](https://medium.com/p/9d1f58590c32) |
-| Tue, 16 Sep 2025 16:41:34 GMT | Email from “Social Security Administration” with a reply back to an email at the University of… | Bob Malin | [Read More](https://medium.com/p/1144bb2799c2) |
-| Tue, 16 Sep 2025 16:36:42 GMT | ️ HIDS Uncovered: The Security Guard Living Inside Your Computer | Natarajan C K | [Read More](https://medium.com/p/1b260749d875) |
-| Tue, 16 Sep 2025 16:30:43 GMT | The Masks We Wear | Varnika | [Read More](https://medium.com/p/dfba441e677a) |
-| Tue, 16 Sep 2025 16:27:01 GMT | Life as an MSc Cybersecurity Student at NCI, Ireland: My Journey & Reflections | Prateekpulastya | [Read More](https://medium.com/p/58298dcf7a69) |
-| Tue, 16 Sep 2025 16:26:18 GMT | Mr. Robot: Hacking the System, Hacking the Self | Tugrul Cavusoglu | [Read More](https://medium.com/p/18858bcbdd85) |
