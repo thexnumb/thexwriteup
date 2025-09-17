@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 12:39:17 GMT | Jojo’s Hospital - KC7 Walkthrough | PhishMonger | [Read More](https://medium.com/p/fdd36d1becc4) |
+| Wed, 17 Sep 2025 12:30:56 GMT | Why Should UK Startups Choose Offshore Mobile Developers | Alice Williams | [Read More](https://medium.com/p/9adccce81f28) |
+| Wed, 17 Sep 2025 12:30:35 GMT | Ağ Analizinde Verimlilik için İşe Yarar Wireshark Filtreleri ve Öneriler | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/a4bf64495f60) |
+| Wed, 17 Sep 2025 12:24:35 GMT | Understanding the Importance of Cyber Security Services-Digitdefence | Anask Khan | [Read More](https://medium.com/p/f2eaa5612d1e) |
+| Wed, 17 Sep 2025 12:20:42 GMT | Cyber Security Services: Protecting Your Digital World with Cyber Cops | Cyber Cops | [Read More](https://medium.com/p/12cd0c4b3459) |
+| Wed, 17 Sep 2025 12:18:04 GMT | Exploiting server-side parameter pollution in a REST URL — Api Testing | Nitish Agrawal | [Read More](https://medium.com/p/23a305752929) |
+| Wed, 17 Sep 2025 12:14:14 GMT | Testing effectiveness of Metasploit Payloads with my Custom PE Loader: Endpoint Security Research | LearnWinternal | [Read More](https://medium.com/p/d1ba89db08ac) |
+| Wed, 17 Sep 2025 12:13:40 GMT | TikTok Deal: US, China Seal Framework After Madrid Talks | WisePol | [Read More](https://medium.com/p/3dc67ad22063) |
+| Wed, 17 Sep 2025 12:09:28 GMT | How to Stop AI Tracking Scripts from Following You Online in 2025 | Cyber Safety Zone | [Read More](https://medium.com/p/a84ab599b701) |
+| Wed, 17 Sep 2025 12:07:02 GMT | Emerging Yurei Ransomware – The Ghost of Open-Source Cybercrime | David SEHYEON Baek | [Read More](https://medium.com/p/990f613035ab) |
+| Wed, 17 Sep 2025 12:01:56 GMT | Don’t Trust the Scroll: Stop AI Agents from Running Code | Tochukwu Okonkwor | [Read More](https://medium.com/p/77908fbedf11) |
+| Wed, 17 Sep 2025 12:01:50 GMT | The World-Class Talent of Making You Miserable at Airport Security | fmi A. | [Read More](https://medium.com/p/1d9477551bc0) |
+| Wed, 17 Sep 2025 12:00:57 GMT | Your App’s Source Code Is Completely Exposed (And You Don’t Even Know It) | Mutasim Billah Toha | [Read More](https://medium.com/p/022d9214edc5) |
+| Wed, 17 Sep 2025 12:00:34 GMT | Day 5: I Hacked My Way Into Any Kubernetes App (And So Can You)-The Security Nightmare Every Dev… | Mahimagarg | [Read More](https://medium.com/p/88f83c58334a) |
+| Wed, 17 Sep 2025 11:56:11 GMT | Rs 125 Only on TheSpark Shop Batman Style Wireless BT Earbuds | PIJUS MAITY | [Read More](https://medium.com/p/901fa6c39950) |
+| Wed, 17 Sep 2025 11:50:45 GMT | A Step-by-Step Approach to Building a Strong Cybersecurity Strategy with Vulnerability Management… | Digital Defense | [Read More](https://medium.com/p/1a611e68abbc) |
+| Wed, 17 Sep 2025 11:48:37 GMT | Ramnit Lab — CyberDefenders | M Haq | [Read More](https://medium.com/p/e4a6d0dbf06d) |
+| Wed, 17 Sep 2025 11:47:46 GMT | Cross-Tenant Payment Method Manipulation via IDOR | 0xBruno | [Read More](https://medium.com/p/88c909f60632) |
+| Wed, 17 Sep 2025 11:46:54 GMT | Unauthorized Configuration Deletion via CORS Misconfiguration on an Industrial Platform | 0xBruno | [Read More](https://medium.com/p/40ff6528d099) |
+| Wed, 17 Sep 2025 11:46:23 GMT | Cutting Operational Costs with Self-Service Kiosk Solutions | Rakesh | [Read More](https://medium.com/p/26318d7b6878) |
+| Wed, 17 Sep 2025 11:45:16 GMT | Web Application Pentesting- Authentication -Enumeration & Brute Force -THM | Deepika  B | [Read More](https://medium.com/p/de8f1e414aa4) |
+| Wed, 17 Sep 2025 11:35:00 GMT | Database Activity Monitoring (DAM), An introduction for Developers & DBAs | Preethi Infosec | [Read More](https://medium.com/p/5fb3c3ac0cc1) |
+| Wed, 17 Sep 2025 11:34:48 GMT | Microsoft and Cloudflare Shut Down RaccoonO365: A Major Blow to Phishing-as-a-Service | IamPreth | [Read More](https://medium.com/p/a494e1a14e05) |
 | Wed, 17 Sep 2025 11:29:16 GMT | Best Speech Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/1c8ad25b8494) |
 | Wed, 17 Sep 2025 11:28:28 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/aa055df53d06) |
 | Wed, 17 Sep 2025 11:25:27 GMT | Spring Security: Role-Based Authorization with Method Level Security | Ayoub Taouam | [Read More](https://medium.com/p/1702e7c3720c) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 08:04:58 GMT | Top 5 Cybersecurity Search Engines: Strengths and Weaknesses | Liuliuliusq | [Read More](https://medium.com/p/bb7624be74b3) |
 | Wed, 17 Sep 2025 08:01:57 GMT | [Part 5] AI Tools Anyone Can Use to Improve Personal Cybersecurity (Free & Simple) | Cyberkech | [Read More](https://medium.com/p/b11c1f14b886) |
 | Wed, 17 Sep 2025 08:01:56 GMT | TryHackMe #19 - Search Skills | 0xGroot | [Read More](https://medium.com/p/30e760f0ffea) |
-| Wed, 17 Sep 2025 08:01:43 GMT | What Businesses Can Learn from the Jaguar Land Rover Cybæer-attack in 2025 | Bobby Andrews | [Read More](https://medium.com/p/158ad964151f) |
-| Wed, 17 Sep 2025 07:57:25 GMT | Industrial Cybersecurity Market: Securing Manufacturing in Digital Era | Upasanapradhan | [Read More](https://medium.com/p/184a4331c255) |
-| Wed, 17 Sep 2025 07:53:21 GMT | The Pension Revolution: How American Companies Are Reshaping Retirement Security | Arunkumar | [Read More](https://medium.com/p/37d346d53a09) |
-| Wed, 17 Sep 2025 07:49:09 GMT | Memahami Model Layanan Cloud: laaS, PaaS, dan SaaS | Zifa Tea Azzahra | [Read More](https://medium.com/p/af637216b9ea) |
-| Wed, 17 Sep 2025 07:47:53 GMT | Web Cache Poisoning to Exploit a DOM Vulnerability via a Cache With Strict Cacheability Criteria | Bash Overflow | [Read More](https://medium.com/p/a357c62bba7d) |
-| Wed, 17 Sep 2025 07:39:08 GMT | Upload File ด้วย Playwright แบบ Page Object Model (POM) | Nuttawut Inpeng | [Read More](https://medium.com/p/4b78700c07e2) |
-| Wed, 17 Sep 2025 07:34:43 GMT | The New Gold King A few days ago, I stumbled upon some jaw-dropping news about gold exports that’ll… | thai politics | [Read More](https://medium.com/p/45304e3bbe69) |
-| Wed, 17 Sep 2025 07:34:42 GMT | Building Your First Machine Learning Model with Scikit-Learn: A Complete Guide | Rizqi Mulki | [Read More](https://medium.com/p/b1eb91418f53) |
-| Wed, 17 Sep 2025 07:32:23 GMT | Directory Traversal Attacks: When File Systems Become Your Enemy | Rizqi Mulki | [Read More](https://medium.com/p/0511c78d4b62) |
-| Wed, 17 Sep 2025 07:32:15 GMT | Threat Hunting: Searching for Malicious Activity on the Network | Esra Kayhan | [Read More](https://medium.com/p/0512149c857a) |
-| Wed, 17 Sep 2025 07:32:15 GMT | How to use language models securely | Jonathan Davis | [Read More](https://medium.com/p/12013a03c28b) |
-| Wed, 17 Sep 2025 07:29:32 GMT | Flexible Online, Offline, and Hybrid Courses for Global Learners | SkillWint | [Read More](https://medium.com/p/9e82fed5e486) |
-| Wed, 17 Sep 2025 07:26:22 GMT | Visualizing XGBoost Malware Detection | J Xie | [Read More](https://medium.com/p/ed3c9bacc1d3) |
-| Wed, 17 Sep 2025 07:22:47 GMT | Palo Alto Networks Medical Device Security: A Comprenshive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d2a44a7ed7c1) |
-| Wed, 17 Sep 2025 07:22:27 GMT | The Dark Truth About Cybersecurity Nobody Wants You to Know | Rizqi Mulki | [Read More](https://medium.com/p/aee81289e331) |
-| Wed, 17 Sep 2025 07:18:10 GMT | A Comparative Analysis of LLM Security Architectures: How a Casual Experiment Led to a Systemic… | Jan Kowalski | [Read More](https://medium.com/p/cc93794b9c90) |
-| Wed, 17 Sep 2025 07:14:23 GMT | NIST Password Guidelines 2025: Why Longer Beats Stronger | Amrik  Hanjra | [Read More](https://medium.com/p/9bb26b047be7) |
-| Wed, 17 Sep 2025 07:07:45 GMT | Why AI Still Needs Engineers | Pranav Gupta | [Read More](https://medium.com/p/2775f87ac3e5) |
-| Wed, 17 Sep 2025 07:07:36 GMT | The Most Secure Operating System in the World | Shahzaib | [Read More](https://medium.com/p/7c89002bd009) |
-| Wed, 17 Sep 2025 07:05:02 GMT | MariaDB Safer Than MySQL? The Truth Will Shock You | Rizqi Mulki | [Read More](https://medium.com/p/6173aa9ebe13) |
-| Wed, 17 Sep 2025 06:59:04 GMT | How AI Phishing Detection Tools Secure Your Ecommerce Business | snehal deore | [Read More](https://medium.com/p/8514f43580b5) |
-| Wed, 17 Sep 2025 06:56:50 GMT | Why Databases Are the Weakest Link in Cybersecurity | Rizqi Mulki | [Read More](https://medium.com/p/2c63af56da29) |
-| Wed, 17 Sep 2025 06:56:31 GMT | SafeLine vs AWS WAF: The Web Security Showdown | Loria | [Read More](https://medium.com/p/5342da61e0f2) |
