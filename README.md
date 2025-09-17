@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 02:31:45 GMT | Easiest Account Lockout Bypass | Manav | [Read More](https://medium.com/p/ea2c82fb66c6) |
+| Wed, 17 Sep 2025 02:31:45 GMT | 7 Costly Mistakes Businesses Make With Their Website (And How to Fix Them) | DevOrbit | [Read More](https://medium.com/p/d51d6bf32d3d) |
+| Wed, 17 Sep 2025 02:31:15 GMT | Connection Types and their function | w4llnut_ | [Read More](https://medium.com/p/3f651f3a40e8) |
+| Wed, 17 Sep 2025 02:28:28 GMT | Airplane writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/599bf07e7330) |
+| Wed, 17 Sep 2025 02:25:37 GMT | Day 59- True Positive vs True Negative in cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/606c88ccd1e0) |
+| Wed, 17 Sep 2025 01:59:43 GMT | Alternative Scenarios for U.S. Cyber Force Development: Beyond the Binary Choice | CCD-IS | [Read More](https://medium.com/p/8cf8ab676a32) |
+| Wed, 17 Sep 2025 01:56:51 GMT | The Hidden Dangers of Sharing Family Photos on Social Media: Why You Should Think Twice | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4943a8494d90) |
+| Wed, 17 Sep 2025 01:49:58 GMT | Google Chrome 140 Fixes Critical Remote Code Execution Vulnerability | SafetyDetectives Research Team | [Read More](https://medium.com/p/0cdeb03fd321) |
+| Wed, 17 Sep 2025 01:46:19 GMT | Hackers Exploit Windows Defender Policies to Disable EDR Agents | SafetyDetectives Research Team | [Read More](https://medium.com/p/3e4d12e5fe0c) |
+| Wed, 17 Sep 2025 01:44:21 GMT | SNMP v1 and v2c exploitation | CO0L7 | [Read More](https://medium.com/p/a10862d6c373) |
+| Wed, 17 Sep 2025 01:43:19 GMT | CISA Warns of Critical SunPower Flaw Allowing Full Device Takeover | SafetyDetectives Research Team | [Read More](https://medium.com/p/7702641c476e) |
+| Wed, 17 Sep 2025 01:29:13 GMT | The Psychology of Technology Addiction | muhammad ardiansah | [Read More](https://medium.com/p/710b87b17f42) |
+| Wed, 17 Sep 2025 01:27:09 GMT | How to get started with CTFs? | jui kalan | [Read More](https://medium.com/p/45223f92f180) |
 | Wed, 17 Sep 2025 01:09:19 GMT | Supply Chain Security: Why It Matters More Than Ever | anotherik | [Read More](https://medium.com/p/5c0139834a4d) |
 | Wed, 17 Sep 2025 01:08:26 GMT | What is Defensive Security? — Make it Simple! | Biellreyluchaa | [Read More](https://medium.com/p/7971bb838d38) |
 | Wed, 17 Sep 2025 00:59:52 GMT | Spring Security Core Modules Explained: Protect Your Java Apps the Right Way | Maneesha Indrachapa | [Read More](https://medium.com/p/d185bb31f861) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 18:06:05 GMT | AWSDoor A New Persistence Technique Threatening Cloud Security | Chetan Seripally | [Read More](https://medium.com/p/287861b38277) |
 | Tue, 16 Sep 2025 18:04:39 GMT | AI in Cybersecurity: The Arms Race of Autonomous Attacks and Defensive AI | Varun Raj | [Read More](https://medium.com/p/e9ed9b527a63) |
 | Tue, 16 Sep 2025 18:03:20 GMT | Deep Dive into Web Security: A Practical Guide for Django Developers | Jose Daniel García Suero | [Read More](https://medium.com/p/75dd2ef388b0) |
-| Tue, 16 Sep 2025 18:01:53 GMT | AWS S3 Presigned URLs vs Multer: A Developer’s Guide to Efficient File Uploads | Samuel Ndubuisi | [Read More](https://medium.com/p/60326a7dfdd5) |
-| Tue, 16 Sep 2025 18:01:44 GMT | Bug Bounty Explotando el CVE-2025–29927: middleware vulnerable paso a paso | Gorka | [Read More](https://medium.com/p/1a36f9478fe6) |
-| Tue, 16 Sep 2025 18:00:08 GMT | Exploiting CVE-2024–9264: Anatomy of the Grafana 11.0.0 Remote Exploit | Raj Kumar M | [Read More](https://medium.com/p/fa66aaf90e7a) |
-| Tue, 16 Sep 2025 17:58:36 GMT | Why Event Security is Crucial for Large Gatherings | Nimra Sheikh | [Read More](https://medium.com/p/4110476fcc39) |
-| Tue, 16 Sep 2025 17:56:02 GMT | TryHackMe - AppSec IR - WriteUp | Axoloth | [Read More](https://medium.com/p/edabafca3c03) |
-| Tue, 16 Sep 2025 17:53:33 GMT | The Vulnerability Chronicles: Addicted to Not Being In Pain | DamnAmazon | [Read More](https://medium.com/p/38304a9d374a) |
-| Tue, 16 Sep 2025 17:53:14 GMT | A New Day, a New Security Attack on npm… | Joaquin Diaz | [Read More](https://medium.com/p/5684b7933e2b) |
-| Tue, 16 Sep 2025 17:40:27 GMT | Kerberos Authentication Process | SeverSerenity | [Read More](https://medium.com/p/b9c7db481c56) |
-| Tue, 16 Sep 2025 17:39:40 GMT | The Lifelong Learner: Vulnerability and Continuous Development | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/c3fa1068a853) |
-| Tue, 16 Sep 2025 17:36:10 GMT | Dina (VulnHub) Walkthrough — Step by Step to Root | DHAYAN BALAGOPAL | [Read More](https://medium.com/p/21af7594647c) |
-| Tue, 16 Sep 2025 17:29:12 GMT | PG Practice — Payday (Linux) | Lepton | [Read More](https://medium.com/p/473d320d687f) |
-| Tue, 16 Sep 2025 17:27:16 GMT | Security in AI Coding: Can AI Really Detect Exploits? | Seedify | [Read More](https://medium.com/p/1295c7f050f0) |
-| Tue, 16 Sep 2025 17:24:15 GMT | Web Zafiyetleri Serisi #3 | Didem Kış | [Read More](https://medium.com/p/5bb9dbe464ce) |
