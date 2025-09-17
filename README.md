@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 16:40:42 GMT | Hey Everyone this my first medium post. | Zaki | [Read More](https://medium.com/p/2f45e5dadc8d) |
+| Wed, 17 Sep 2025 16:30:53 GMT | Transforming Care: How Modernized Healthcare IT & Managed Services Are Redefining Patient Outcomes | Teona | [Read More](https://medium.com/p/f3c98139f5a1) |
+| Wed, 17 Sep 2025 16:30:43 GMT | AppSec IR - Tryhackme | Aaron | [Read More](https://medium.com/p/efc05fdd97f5) |
+| Wed, 17 Sep 2025 16:29:53 GMT | The Questions We’re Afraid to Ask | Ava Hayes | [Read More](https://medium.com/p/e45cc8bfd878) |
+| Wed, 17 Sep 2025 16:29:23 GMT | ️ Spidering in Cybersecurity: How Hackers Crawl the Web Like Spiders | Natarajan C K | [Read More](https://medium.com/p/d5b62d8463f8) |
+| Wed, 17 Sep 2025 16:24:34 GMT | Incident Response Best Practices | Cyber Security Research | [Read More](https://medium.com/p/9114931be2b8) |
+| Wed, 17 Sep 2025 16:23:08 GMT | The Definitive Guide to Android App Pentesting: From Fundamentals to Professional Reporting | Jai Bhattachhary | [Read More](https://medium.com/p/78679afe56bd) |
 | Wed, 17 Sep 2025 16:18:16 GMT | Ethical Hacking and Penetration Testing | Cyber Security Research | [Read More](https://medium.com/p/1ca2e5b128a9) |
+| Wed, 17 Sep 2025 16:16:11 GMT | Crypto and the Comeback of Hostage Capitalism | Perimeter Lab | [Read More](https://medium.com/p/1cc456053d9b) |
 | Wed, 17 Sep 2025 16:14:39 GMT | Issue #243 — Terraform Remote Code Execution, “resource must be replaced”, Designing Terraform… | Anton Babenko | [Read More](https://medium.com/p/6d6822ef5e0a) |
 | Wed, 17 Sep 2025 16:12:09 GMT | Cloud Security Challenges and Solutions | Cyber Security Research | [Read More](https://medium.com/p/b8b5197a32e0) |
 | Wed, 17 Sep 2025 16:11:01 GMT | How I Lost $4,000 to a Crypto Scam: A Hard-Learned Lesson for the Community | cooper | [Read More](https://medium.com/p/e882981cfa5a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 12:18:04 GMT | Exploiting server-side parameter pollution in a REST URL — Api Testing | Nitish Agrawal | [Read More](https://medium.com/p/23a305752929) |
 | Wed, 17 Sep 2025 12:14:14 GMT | Testing effectiveness of Metasploit Payloads with my Custom PE Loader: Endpoint Security Research | LearnWinternal | [Read More](https://medium.com/p/d1ba89db08ac) |
 | Wed, 17 Sep 2025 12:13:40 GMT | TikTok Deal: US, China Seal Framework After Madrid Talks | WisePol | [Read More](https://medium.com/p/3dc67ad22063) |
-| Wed, 17 Sep 2025 12:09:28 GMT | How to Stop AI Tracking Scripts from Following You Online in 2025 | Cyber Safety Zone | [Read More](https://medium.com/p/a84ab599b701) |
-| Wed, 17 Sep 2025 12:07:02 GMT | Emerging Yurei Ransomware – The Ghost of Open-Source Cybercrime | David SEHYEON Baek | [Read More](https://medium.com/p/990f613035ab) |
-| Wed, 17 Sep 2025 12:01:56 GMT | Don’t Trust the Scroll: Stop AI Agents from Running Code | Tochukwu Okonkwor | [Read More](https://medium.com/p/77908fbedf11) |
-| Wed, 17 Sep 2025 12:01:50 GMT | The World-Class Talent of Making You Miserable at Airport Security | fmi A. | [Read More](https://medium.com/p/1d9477551bc0) |
-| Wed, 17 Sep 2025 12:00:57 GMT | Your App’s Source Code Is Completely Exposed (And You Don’t Even Know It) | Mutasim Billah Toha | [Read More](https://medium.com/p/022d9214edc5) |
-| Wed, 17 Sep 2025 12:00:34 GMT | Day 5: I Hacked My Way Into Any Kubernetes App (And So Can You)-The Security Nightmare Every Dev… | Mahimagarg | [Read More](https://medium.com/p/88f83c58334a) |
-| Wed, 17 Sep 2025 11:56:11 GMT | Rs 125 Only on TheSpark Shop Batman Style Wireless BT Earbuds | PIJUS MAITY | [Read More](https://medium.com/p/901fa6c39950) |
-| Wed, 17 Sep 2025 11:50:45 GMT | A Step-by-Step Approach to Building a Strong Cybersecurity Strategy with Vulnerability Management… | Digital Defense | [Read More](https://medium.com/p/1a611e68abbc) |
