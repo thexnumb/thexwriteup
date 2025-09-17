@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 21:32:03 GMT | Mammoth Enterprise AI Browser: Redefining Secure, AI-Powered Browsing for the Modern Enterprise | Mammoth Cyber | [Read More](https://medium.com/p/1847e2f11f4c) |
+| Wed, 17 Sep 2025 21:31:24 GMT | Building a Strong Security Culture | Cyber Security Research | [Read More](https://medium.com/p/071c6b1ccfff) |
+| Wed, 17 Sep 2025 21:29:05 GMT | Mydata ransomware attacks the gas company Zeta Group, Mexico | chum1ng0 | [Read More](https://medium.com/p/f2eb69a32214) |
+| Wed, 17 Sep 2025 21:17:10 GMT | Update on Cybersecurity and AI | Mike Temkin | [Read More](https://medium.com/p/506eee67b808) |
+| Wed, 17 Sep 2025 21:11:25 GMT | Because life, despite all the weeds, only sprouts when watered. | Mevsim | [Read More](https://medium.com/p/a941ae9d8212) |
 | Wed, 17 Sep 2025 21:04:32 GMT | When Intruders Sneak In, EDR Is the Watchdog That Never Sleeps | Chris Zhang | [Read More](https://medium.com/p/494efa55f789) |
 | Wed, 17 Sep 2025 20:51:45 GMT | Zero Trust Network Architecture: A New Paradigm for Modern Security | Esra Kayhan | [Read More](https://medium.com/p/641c9b2ea0bd) |
 | Wed, 17 Sep 2025 20:41:46 GMT | ☁️ Google Cloud Platform Security: Risks and Mitigations in Modern Cloud Environments | Esra Kayhan | [Read More](https://medium.com/p/7b74f889afa7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 15:20:44 GMT | “Locked Out” — 2nd Digital Forensics Challenge in ConnectorsCTF Qualifications by Connectors Team | Mohamed Ramadan | [Read More](https://medium.com/p/ab105e1d7c75) |
 | Wed, 17 Sep 2025 15:18:34 GMT | Please don’t hold my hand | Priyanshi Krishna | [Read More](https://medium.com/p/07d71981176b) |
 | Wed, 17 Sep 2025 15:17:45 GMT | Hack Your Learning: 5 Fun Ways to Soak Up Cybersecurity Daily | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/e04058c5bd7a) |
-| Wed, 17 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 17, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/a393b5f7ff42) |
-| Wed, 17 Sep 2025 15:12:56 GMT | Cloud-Based Access Control for Small Business Offices | Tec-Tel Communications | [Read More](https://medium.com/p/b4568653a6f3) |
-| Wed, 17 Sep 2025 15:12:21 GMT | How I Discovered a Website’s Hidden Origin IP | Ibtissam hammadi | [Read More](https://medium.com/p/6f29301abc93) |
-| Wed, 17 Sep 2025 15:10:40 GMT | Best Practices for Securing Commercial Parking Lots with AI Cameras | Tec-Tel Communications | [Read More](https://medium.com/p/9f88105a6509) |
-| Wed, 17 Sep 2025 15:09:56 GMT | Salvage, Solder, Survive: Building Battery Packs from Scavenged Bits | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/421cdb168ccc) |
