@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 11:29:16 GMT | Best Speech Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/1c8ad25b8494) |
+| Wed, 17 Sep 2025 11:28:28 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/aa055df53d06) |
+| Wed, 17 Sep 2025 11:25:27 GMT | Spring Security: Role-Based Authorization with Method Level Security | Ayoub Taouam | [Read More](https://medium.com/p/1702e7c3720c) |
+| Wed, 17 Sep 2025 11:22:01 GMT | Day 5: How to Hunt Bugs Efficiently (and Actually Level Up) | Viratavi | [Read More](https://medium.com/p/dd7802f7cad8) |
+| Wed, 17 Sep 2025 11:17:44 GMT | Luxury Brands, Priceless Lessons: GRC Takeaways from the Kerig Data Breach | Brittney Ginther | [Read More](https://medium.com/p/ee123d8deacc) |
+| Wed, 17 Sep 2025 11:14:39 GMT | How Phishing Attack Simulation Service Secures Indian Firms | Noahlucas | [Read More](https://medium.com/p/c0086325d34e) |
+| Wed, 17 Sep 2025 11:08:15 GMT | Best Managed Cybersecurity Services In India - Protect Your Organization | Gowthammathiew | [Read More](https://medium.com/p/7de538860cec) |
+| Wed, 17 Sep 2025 11:08:03 GMT | 12 Apps That Power My Nerdy (and Awesome) Digital Life | MARLON MUTIANGPILI | [Read More](https://medium.com/p/1afe5303d0ef) |
 | Wed, 17 Sep 2025 11:07:50 GMT | A password manager that does not store passwords | Denis Tulupov | [Read More](https://medium.com/p/c3f845c55e10) |
 | Wed, 17 Sep 2025 11:06:31 GMT | What is LLM Security? Top 10 Risks and 5 Best Practices in 2025 | QualysecEurope | [Read More](https://medium.com/p/0156b3d28882) |
 | Wed, 17 Sep 2025 11:02:19 GMT | Did you know that the average cost of a data breach in the United States has surpassed $10.22 | Qualysec | [Read More](https://medium.com/p/f02c08ef56d1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 06:59:04 GMT | How AI Phishing Detection Tools Secure Your Ecommerce Business | snehal deore | [Read More](https://medium.com/p/8514f43580b5) |
 | Wed, 17 Sep 2025 06:56:50 GMT | Why Databases Are the Weakest Link in Cybersecurity | Rizqi Mulki | [Read More](https://medium.com/p/2c63af56da29) |
 | Wed, 17 Sep 2025 06:56:31 GMT | SafeLine vs AWS WAF: The Web Security Showdown | Loria | [Read More](https://medium.com/p/5342da61e0f2) |
-| Wed, 17 Sep 2025 06:49:18 GMT | The Top 5 Zero-Trust Security Tools You Need in 2025 | Techlio | [Read More](https://medium.com/p/987ca067fa5a) |
-| Wed, 17 Sep 2025 06:48:37 GMT | Linux System Integrity Monitoring: Detecting Changes | Eren Cankut Uysal | [Read More](https://medium.com/p/22cebfe953dd) |
-| Wed, 17 Sep 2025 06:48:24 GMT | How CCTV Monitoring Services Keep Your Singapore Business Safe | Marcela John | [Read More](https://medium.com/p/6edfb8566124) |
-| Wed, 17 Sep 2025 06:48:07 GMT | Why Senior Developers Hate Serverless | Rizqi Mulki | [Read More](https://medium.com/p/27e355caa86b) |
-| Wed, 17 Sep 2025 06:46:29 GMT | ️ The Broken Link Jackpot: How a 404 Can Become a Security Goldmine! | NadSec | [Read More](https://medium.com/p/16ac517fccda) |
-| Wed, 17 Sep 2025 06:46:19 GMT | When AI Is the Thief at the Door — and the Guard You Hire | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/6e9976850095) |
-| Wed, 17 Sep 2025 06:41:38 GMT | Linux Kernel Lockdown: Restricting Kernel Access | Eren Cankut Uysal | [Read More](https://medium.com/p/b0301bb1a670) |
-| Wed, 17 Sep 2025 06:36:01 GMT | 15 Hidden Degrees of Freedom in Solving Technology Problems | Marc Fletcher | [Read More](https://medium.com/p/0123eea45eda) |
