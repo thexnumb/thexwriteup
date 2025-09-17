@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 15:35:14 GMT | “How I Bank $1k+ a Month Finding Bugs Everyone Ignores” | Aman Sharma | [Read More](https://medium.com/p/499a6d2cd1cb) |
+| Wed, 17 Sep 2025 15:35:11 GMT | Write Up Lab: Blind SQL injection with conditional responses | Velskynotfound | [Read More](https://medium.com/p/f6069abfd590) |
+| Wed, 17 Sep 2025 15:27:06 GMT | AWS Single-Sign-On (SSO) Using the CLI and Temporary Credentials | Andrew Blooman | [Read More](https://medium.com/p/d4840608380f) |
+| Wed, 17 Sep 2025 15:24:27 GMT | Secret Rotation as Code | Raymon Epping | [Read More](https://medium.com/p/9a1729ab7740) |
+| Wed, 17 Sep 2025 15:21:28 GMT | Amazon Bedrock 2025: How AI Agents, Blockchain, and Bitcoin Are Shaping Law, Politics, and… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/964dd95c287a) |
+| Wed, 17 Sep 2025 15:20:44 GMT | “Locked Out” — 2nd Digital Forensics Challenge in ConnectorsCTF Qualifications by Connectors Team | Mohamed Ramadan | [Read More](https://medium.com/p/ab105e1d7c75) |
+| Wed, 17 Sep 2025 15:18:34 GMT | Please don’t hold my hand | Priyanshi Krishna | [Read More](https://medium.com/p/07d71981176b) |
+| Wed, 17 Sep 2025 15:17:45 GMT | Hack Your Learning: 5 Fun Ways to Soak Up Cybersecurity Daily | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/e04058c5bd7a) |
+| Wed, 17 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 17, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/a393b5f7ff42) |
 | Wed, 17 Sep 2025 15:12:56 GMT | Cloud-Based Access Control for Small Business Offices | Tec-Tel Communications | [Read More](https://medium.com/p/b4568653a6f3) |
 | Wed, 17 Sep 2025 15:12:21 GMT | How I Discovered a Website’s Hidden Origin IP | Ibtissam hammadi | [Read More](https://medium.com/p/6f29301abc93) |
 | Wed, 17 Sep 2025 15:10:40 GMT | Best Practices for Securing Commercial Parking Lots with AI Cameras | Tec-Tel Communications | [Read More](https://medium.com/p/9f88105a6509) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 11:02:19 GMT | Did you know that the average cost of a data breach in the United States has surpassed $10.22 | Qualysec | [Read More](https://medium.com/p/f02c08ef56d1) |
 | Wed, 17 Sep 2025 10:59:29 GMT | Manuel Kontrolleri Bırakın: Eksik Güvenlik Ajanlarının Takibini Otomatize Edin | Tolga Akalın | [Read More](https://medium.com/p/b272a2ebf273) |
 | Wed, 17 Sep 2025 10:56:24 GMT | Avoiding Burnout: How I Stay Motivated After Endless N/A and Duplicates | hxxfrd | [Read More](https://medium.com/p/6647756b71ff) |
-| Wed, 17 Sep 2025 10:56:02 GMT | - | Uttam Patel | [Read More](https://medium.com/p/1486a37d657f) |
-| Wed, 17 Sep 2025 10:54:22 GMT | Web Application Development Company in Bangalore: Summitpeak Software! | Summitpeak Software Pvt Ltd | [Read More](https://medium.com/p/c6c2409c2fc7) |
-| Wed, 17 Sep 2025 10:51:32 GMT | Building Secure Authentication: Django + Next.js with CSRF Protection | Yevhen Balahutrak | [Read More](https://medium.com/p/ebbd096dfaa5) |
-| Wed, 17 Sep 2025 10:48:53 GMT | Not the onion you know — TOR in a nutshell | Rizki Dwi Rahmawan | [Read More](https://medium.com/p/2613f11ff00f) |
-| Wed, 17 Sep 2025 10:48:24 GMT | Support Ends for Windows 10 on October 14th — Don’t Ignore the Risks | Karl Buhl | [Read More](https://medium.com/p/5fccc933f76c) |
-| Wed, 17 Sep 2025 10:37:09 GMT | How to Choose Your Next Target: A Data-Driven Approach for Bug Hunters | hxxfrd | [Read More](https://medium.com/p/98a0bff6c4dc) |
-| Wed, 17 Sep 2025 10:32:56 GMT | Proving Grounds Practice: workaholic | AzureWolf | [Read More](https://medium.com/p/ee1ffc500172) |
-| Wed, 17 Sep 2025 10:32:49 GMT | Penetration Testing Phoenix: Your First Step Toward Stronger Cybersecurity | DL Info Shield | [Read More](https://medium.com/p/05b9c3ada53a) |
-| Wed, 17 Sep 2025 10:31:45 GMT | The Great Code Exodus: Why Seasoned Developers Are Logging Off for Good | Namir Sagheenanajar | [Read More](https://medium.com/p/b345d52d35f4) |
