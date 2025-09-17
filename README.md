@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 08:36:05 GMT | Practical Android Hacking Tutorial | Cyber Gita | [Read More](https://medium.com/p/ce810e8971dc) |
+| Wed, 17 Sep 2025 08:31:56 GMT | Setting Up HTTPS on Kubernetes with cert-manager and Let’s Encrypt | Aadarsh Nagrath | [Read More](https://medium.com/p/fedae9456ab9) |
 | Wed, 17 Sep 2025 08:22:03 GMT | Red Team 101+: Zafiyet Tespiti — Payload & Exploit Kullanımı - TalentCoders Siber Güvenlik Yaz… | Hakan ÇEVİK | [Read More](https://medium.com/p/d29751b2ccd1) |
 | Wed, 17 Sep 2025 08:19:30 GMT | EDRmetry Matrix — Your Comprehensive Hands-On Linux Attack TTPs Catalog For Download / Self-Hosted | Leszek Mis @ Defensive-Security.com | [Read More](https://medium.com/p/9ad237dd8d95) |
 | Wed, 17 Sep 2025 08:16:04 GMT | 30 Common Security Incidents SOC Analysts Handle Every Day | Mohammed Danish | [Read More](https://medium.com/p/ecd31906eabc) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 03:32:02 GMT | SOLID Principles and Security Practices for Frontend Developers: The Beginner’s Playbook | Sanjeevani Bhandari | [Read More](https://medium.com/p/7b50ba18e51a) |
 | Wed, 17 Sep 2025 03:19:31 GMT | Why Every Developer Needs a Free Open-Source WAF in 2025 | Quella | [Read More](https://medium.com/p/29d346e4ee96) |
 | Wed, 17 Sep 2025 03:13:33 GMT | Protect your properties and clients from cyber threats using next-gen AI. ALFOX.AI | Vsgangaraju | [Read More](https://medium.com/p/44260b0ed8b1) |
-| Wed, 17 Sep 2025 03:03:19 GMT | Faith Over Fear | Gianna Judkins | [Read More](https://medium.com/p/78a62f2493ba) |
-| Wed, 17 Sep 2025 03:01:46 GMT | Germany’s Draft Is Back — Who Will Serve, and How? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/352c4a409f3e) |
