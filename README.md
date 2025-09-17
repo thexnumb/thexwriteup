@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 11:07:50 GMT | A password manager that does not store passwords | Denis Tulupov | [Read More](https://medium.com/p/c3f845c55e10) |
+| Wed, 17 Sep 2025 11:06:31 GMT | What is LLM Security? Top 10 Risks and 5 Best Practices in 2025 | QualysecEurope | [Read More](https://medium.com/p/0156b3d28882) |
+| Wed, 17 Sep 2025 11:02:19 GMT | Did you know that the average cost of a data breach in the United States has surpassed $10.22 | Qualysec | [Read More](https://medium.com/p/f02c08ef56d1) |
+| Wed, 17 Sep 2025 10:59:29 GMT | Manuel Kontrolleri Bırakın: Eksik Güvenlik Ajanlarının Takibini Otomatize Edin | Tolga Akalın | [Read More](https://medium.com/p/b272a2ebf273) |
+| Wed, 17 Sep 2025 10:56:24 GMT | Avoiding Burnout: How I Stay Motivated After Endless N/A and Duplicates | hxxfrd | [Read More](https://medium.com/p/6647756b71ff) |
+| Wed, 17 Sep 2025 10:56:02 GMT | - | Uttam Patel | [Read More](https://medium.com/p/1486a37d657f) |
+| Wed, 17 Sep 2025 10:54:22 GMT | Web Application Development Company in Bangalore: Summitpeak Software! | Summitpeak Software Pvt Ltd | [Read More](https://medium.com/p/c6c2409c2fc7) |
+| Wed, 17 Sep 2025 10:51:32 GMT | Building Secure Authentication: Django + Next.js with CSRF Protection | Yevhen Balahutrak | [Read More](https://medium.com/p/ebbd096dfaa5) |
+| Wed, 17 Sep 2025 10:48:53 GMT | Not the onion you know — TOR in a nutshell | Rizki Dwi Rahmawan | [Read More](https://medium.com/p/2613f11ff00f) |
+| Wed, 17 Sep 2025 10:48:24 GMT | Support Ends for Windows 10 on October 14th — Don’t Ignore the Risks | Karl Buhl | [Read More](https://medium.com/p/5fccc933f76c) |
 | Wed, 17 Sep 2025 10:37:09 GMT | How to Choose Your Next Target: A Data-Driven Approach for Bug Hunters | hxxfrd | [Read More](https://medium.com/p/98a0bff6c4dc) |
 | Wed, 17 Sep 2025 10:32:56 GMT | Proving Grounds Practice: workaholic | AzureWolf | [Read More](https://medium.com/p/ee1ffc500172) |
+| Wed, 17 Sep 2025 10:32:49 GMT | Penetration Testing Phoenix: Your First Step Toward Stronger Cybersecurity | DL Info Shield | [Read More](https://medium.com/p/05b9c3ada53a) |
 | Wed, 17 Sep 2025 10:31:45 GMT | The Great Code Exodus: Why Seasoned Developers Are Logging Off for Good | Namir Sagheenanajar | [Read More](https://medium.com/p/b345d52d35f4) |
 | Wed, 17 Sep 2025 10:26:52 GMT | Secure Code Review: Automated and Manual Analysis Techniques | Andrei Ivan | [Read More](https://medium.com/p/7b60ae49106c) |
 | Wed, 17 Sep 2025 10:26:51 GMT | What is VAPT Testing? A Beginner’s Guide for Businesses | Jay C Roberts | [Read More](https://medium.com/p/0a7b669bea66) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 06:46:19 GMT | When AI Is the Thief at the Door — and the Guard You Hire | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/6e9976850095) |
 | Wed, 17 Sep 2025 06:41:38 GMT | Linux Kernel Lockdown: Restricting Kernel Access | Eren Cankut Uysal | [Read More](https://medium.com/p/b0301bb1a670) |
 | Wed, 17 Sep 2025 06:36:01 GMT | 15 Hidden Degrees of Freedom in Solving Technology Problems | Marc Fletcher | [Read More](https://medium.com/p/0123eea45eda) |
-| Wed, 17 Sep 2025 06:35:37 GMT | Understanding Mobile Device Encryption in Simple Terms | Abida Adra | [Read More](https://medium.com/p/538dbd02de42) |
-| Wed, 17 Sep 2025 06:34:32 GMT | ️ Windows Secrets Exposed: How to Investigate RunMRU Like a Digital Detective | Paritosh | [Read More](https://medium.com/p/876fd3e8411f) |
-| Wed, 17 Sep 2025 06:33:18 GMT | Linux Hardened Kernels: Enhanced Security Features | Eren Cankut Uysal | [Read More](https://medium.com/p/fbaf54bf545d) |
-| Wed, 17 Sep 2025 06:27:37 GMT | Don’t Get Hacked: Essential Steps to Secure Your Enterprise Wireless LAN | Dcsme | [Read More](https://medium.com/p/37056691f7ef) |
-| Wed, 17 Sep 2025 06:26:52 GMT | Linux Security Frameworks: Implementing Security Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/8c1fb2eae0df) |
-| Wed, 17 Sep 2025 06:23:02 GMT | Top 10 Cyber Security Training Institute in India | Manisha Chaudhary | [Read More](https://medium.com/p/01ad57fe9742) |
-| Wed, 17 Sep 2025 06:21:54 GMT | Why SafeLine WAF Feels Like a Cheat Code for Web Security | Loria | [Read More](https://medium.com/p/d02bac79a5b3) |
-| Wed, 17 Sep 2025 06:20:24 GMT | Linux Full Disk Encryption: Protecting Data at Rest | Eren Cankut Uysal | [Read More](https://medium.com/p/79dd9189a7a2) |
-| Wed, 17 Sep 2025 06:20:22 GMT | Securing On-Prem LLM Platforms: Key Requirements for Air-Gapped Deployments | Tatiele Freitas | [Read More](https://medium.com/p/8eb9f280448b) |
-| Wed, 17 Sep 2025 06:14:39 GMT | Securing Your Kubernetes Cluster — A Practical Guide for DevOps Engineers | Ankitha Rao | [Read More](https://medium.com/p/7e7f3e8bad9c) |
-| Wed, 17 Sep 2025 06:13:56 GMT | Cybersecurity Metrics: Measuring Security Performance | Cyber Security Research | [Read More](https://medium.com/p/fcc3bd07072e) |
