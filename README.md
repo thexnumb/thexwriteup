@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 09:17:06 GMT | Passive vs Active Information Gathering: What to Collect and Why | Vivek Bhatt | [Read More](https://medium.com/p/d0c85730e32b) |
+| Wed, 17 Sep 2025 09:12:15 GMT | X Followers Gone Wild: Bots or Just Bad Luck? | GirlSaidWhat | [Read More](https://medium.com/p/f709a699ce22) |
+| Wed, 17 Sep 2025 09:11:45 GMT | Guardians of the Digital Age: The Crucial Role of Cybersecurity Knowledge for the Next Generation | Girls Into Coding | [Read More](https://medium.com/p/f9ae70be8711) |
+| Wed, 17 Sep 2025 09:11:42 GMT | TryHackMe #23 - Linux Shells | 0xGroot | [Read More](https://medium.com/p/354dbbdbafd0) |
+| Wed, 17 Sep 2025 09:11:42 GMT | Breaking the Silence Sparks Courage and Action in Reporting Breaches | Isaac Muendo | [Read More](https://medium.com/p/8dd1326f3cd7) |
+| Wed, 17 Sep 2025 09:10:36 GMT | Blue Team Approach - TalentCoders Siber Güvenlik Yaz Kampı Günlüğü #12 | Hakan ÇEVİK | [Read More](https://medium.com/p/ed82a3239716) |
+| Wed, 17 Sep 2025 09:09:43 GMT | Passwords You Don’t Need to Remember: The Visual Approach to Security | Perrony | [Read More](https://medium.com/p/8aec5a17cf83) |
+| Wed, 17 Sep 2025 09:06:01 GMT | TryHackMe #22 - Windows PowerShell | 0xGroot | [Read More](https://medium.com/p/f9eae4234c30) |
+| Wed, 17 Sep 2025 09:04:01 GMT | Practical Implementation Of ISO 27001 Annex Control A5.1 Using ServiceNow | Peace | [Read More](https://medium.com/p/6a22d7d026ad) |
+| Wed, 17 Sep 2025 09:01:43 GMT | TryHackMe #21 - Windows Command Line | 0xGroot | [Read More](https://medium.com/p/dfb184ed7570) |
+| Wed, 17 Sep 2025 09:01:01 GMT | Intro 2 : OWASP Juice Shop | 4th3n4x | [Read More](https://medium.com/p/d4a9329ffc1d) |
+| Wed, 17 Sep 2025 08:55:30 GMT | The Art of Digital Invisibility: User-Mode Hooking and Detection | Nakkouch Tarek | [Read More](https://medium.com/p/22d9bc461db8) |
+| Wed, 17 Sep 2025 08:53:49 GMT | Emerging Cyber Threats in Africa, Trends to Watch in 2025 and Beyond | ED-360 AFRICA | [Read More](https://medium.com/p/ba70dbe97ad2) |
+| Wed, 17 Sep 2025 08:49:03 GMT | Why Self-Service Kiosks Are a Competitive Advantage for Businesses | Rakesh | [Read More](https://medium.com/p/0ba5a7fe65e4) |
+| Wed, 17 Sep 2025 08:47:56 GMT | How to Explain Pen Test Results to Your CEO (And Get Budget!) | Aj | [Read More](https://medium.com/p/baa97289bbe2) |
 | Wed, 17 Sep 2025 08:36:05 GMT | Practical Android Hacking Tutorial | Cyber Gita | [Read More](https://medium.com/p/ce810e8971dc) |
 | Wed, 17 Sep 2025 08:31:56 GMT | Setting Up HTTPS on Kubernetes with cert-manager and Let’s Encrypt | Aadarsh Nagrath | [Read More](https://medium.com/p/fedae9456ab9) |
 | Wed, 17 Sep 2025 08:22:03 GMT | Red Team 101+: Zafiyet Tespiti — Payload & Exploit Kullanımı - TalentCoders Siber Güvenlik Yaz… | Hakan ÇEVİK | [Read More](https://medium.com/p/d29751b2ccd1) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 04:37:09 GMT | The Truth About Might: It Starts with “I Don’t Know” | Novena's Pulse | [Read More](https://medium.com/p/91cf43a4a0fd) |
 | Wed, 17 Sep 2025 04:32:27 GMT | Building My First Cybersecurity Home Lab: Virtual Box, Windows Server, and Kali Linux | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/4fb961afed42) |
 | Wed, 17 Sep 2025 04:27:42 GMT | TryHackMe — Gaming Server CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/f67cd5bfda94) |
-| Wed, 17 Sep 2025 04:23:22 GMT | Evolvedge Technology Solutions Offers Specialized Training in OT/ICS Cybersecurity and DCS | TheEvolvEdge | [Read More](https://medium.com/p/e8e5afcb465a) |
-| Wed, 17 Sep 2025 04:06:31 GMT | India Tops Global Malware Chart as AI Fuels Ransomware Surge: A Wake-Up Call for Enterprises | Athishsagarkishan | [Read More](https://medium.com/p/795fa59fef68) |
-| Wed, 17 Sep 2025 04:05:04 GMT | Google Model Armor as Layer 8 Firewall | Alex Maclinovsky (Google) | [Read More](https://medium.com/p/1b096158689f) |
-| Wed, 17 Sep 2025 04:01:45 GMT | Fear of Vulnerability: Why Opening Up Feels So Risky | Novadatingapp | [Read More](https://medium.com/p/302d8069b125) |
-| Wed, 17 Sep 2025 03:50:10 GMT | Expert Cyber Security Services Norwest - Protect Your Business & Data with D Global | D Global | [Read More](https://medium.com/p/97abd3d868e4) |
-| Wed, 17 Sep 2025 03:49:25 GMT | From Intent to Authorization: Inside Google’s Agent Payments Protocol (AP2) | Dinmay kumar Brahma | [Read More](https://medium.com/p/6fc41aad576a) |
-| Wed, 17 Sep 2025 03:40:51 GMT | The Secret to Stable Multi-Account Management: Fingerprint Browsers + Residential Proxies | Add | [Read More](https://medium.com/p/d0145598f994) |
-| Wed, 17 Sep 2025 03:36:37 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/5da4fe85d53a) |
-| Wed, 17 Sep 2025 03:35:23 GMT | AI Guardrails in Cybersecurity — Why They Matter More Than Ever | Dr. Deep Pandey | [Read More](https://medium.com/p/faf42774aa4b) |
-| Wed, 17 Sep 2025 03:32:24 GMT | Phishing Simulation vs. Live Training: Which Is Better For Your Team’s Cybersecurity? | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/5bb5d8812fd4) |
-| Wed, 17 Sep 2025 03:32:02 GMT | When Trust Becomes a Threat: How Hackers Exploit Legitimate Drivers to Kill Antivirus | Deven Chhajed | [Read More](https://medium.com/p/369e447c10cb) |
-| Wed, 17 Sep 2025 03:32:02 GMT | The Ripple Effect: Diving into the Salesloft Drift Supply Chain Attack | Akshat Ratanpal | [Read More](https://medium.com/p/ec81e6ed9761) |
-| Wed, 17 Sep 2025 03:32:02 GMT | SOLID Principles and Security Practices for Frontend Developers: The Beginner’s Playbook | Sanjeevani Bhandari | [Read More](https://medium.com/p/7b50ba18e51a) |
-| Wed, 17 Sep 2025 03:19:31 GMT | Why Every Developer Needs a Free Open-Source WAF in 2025 | Quella | [Read More](https://medium.com/p/29d346e4ee96) |
-| Wed, 17 Sep 2025 03:13:33 GMT | Protect your properties and clients from cyber threats using next-gen AI. ALFOX.AI | Vsgangaraju | [Read More](https://medium.com/p/44260b0ed8b1) |
