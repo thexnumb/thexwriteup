@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 18:23:44 GMT | Hacking for Good: The Ultimate Guide on How to Become an Ethical Hacker | Nitin Singh | [Read More](https://medium.com/p/58da6ac9694f) |
+| Wed, 17 Sep 2025 18:07:42 GMT | Galaxy AI Feature Spotlight: One UI 8 & What New AI Functions Samsung Is Bringing — Use Them for… | LokieGamer | [Read More](https://medium.com/p/221f8e1bac5a) |
+| Wed, 17 Sep 2025 17:55:13 GMT | Making sure your PDF compliance and privacy requirements are met with JoyDoc | John Pagley | [Read More](https://medium.com/p/bc8771d78fb4) |
+| Wed, 17 Sep 2025 17:52:46 GMT | Mastering Kubernetes Network Policies: A DevOps Engineer’s Complete Guide to Zero-Trust Security | Salwan Mohamed | [Read More](https://medium.com/p/fb21da247ed6) |
+| Wed, 17 Sep 2025 17:50:34 GMT | Must-Have PC Utilities to Boost Speed & Security in 2025 | digihub-central | [Read More](https://medium.com/p/cf174458ebf9) |
+| Wed, 17 Sep 2025 17:44:54 GMT | HackTheBox (Active) — Active Directory Series | SilentExploit | [Read More](https://medium.com/p/971bfaa40d39) |
+| Wed, 17 Sep 2025 17:33:20 GMT | How to create secure passwords that are extremely difficult to crack | Cordula Boeck | [Read More](https://medium.com/p/5a4648f046aa) |
+| Wed, 17 Sep 2025 17:31:07 GMT | Investigating LSASS Access with Sysmon Event ID 10 - HTB Soc Analyst | Emmanuel Ukpong | [Read More](https://medium.com/p/44030618cee4) |
 | Wed, 17 Sep 2025 17:27:43 GMT | Lumo is becoming my favorite AI Agent | Jeferson Moura | [Read More](https://medium.com/p/f2b7b1c15f93) |
 | Wed, 17 Sep 2025 17:26:39 GMT | UUIDv1 And Sandwich Attacks | Diman | [Read More](https://medium.com/p/2ab3d69cffdd) |
 | Wed, 17 Sep 2025 17:23:02 GMT | Navigating My Cybersecurity Journey: A Beginner’s Perspective (day-1) | Sadina Upreti | [Read More](https://medium.com/p/f62fda6f7995) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 13:22:34 GMT | Lean Startup vs. Agile: Untangling the Two Most Powerful (and Misunderstood) Ideas in Tech | Gulshan N | [Read More](https://medium.com/p/0db6a3e4f5f3) |
 | Wed, 17 Sep 2025 13:22:00 GMT | What Happens to Your Azza Wallet If You Lose Your WhatsApp Number? | Gloria C. Chimelu | [Read More](https://medium.com/p/99241df86032) |
 | Wed, 17 Sep 2025 13:20:47 GMT | TO BECOME A SOC EXPERT(DAY-5) | vulnhunter | [Read More](https://medium.com/p/7aa65ed6da5d) |
-| Wed, 17 Sep 2025 13:19:19 GMT | Packet Sniffing 101 | Don the sniff3r | [Read More](https://medium.com/p/1ef44d023706) |
-| Wed, 17 Sep 2025 13:14:57 GMT | CompTIA PenTest+: Why Ethical Hacking Skills Matter More Than Ever | Joshuaa Smi | [Read More](https://medium.com/p/e4bd0c442594) |
-| Wed, 17 Sep 2025 13:13:57 GMT | The Sandworm Has Arrived: Why The Shai-Hulud Attack Is A New Nightmare For Companies | Hardik Thaker | [Read More](https://medium.com/p/ad78c40cbb91) |
-| Wed, 17 Sep 2025 13:13:10 GMT | How Haowang Used Telegram to Run a $27B Scam Empire for 5 Years | Scofield O. Idehen | [Read More](https://medium.com/p/0ecc2e2b6e06) |
-| Wed, 17 Sep 2025 13:12:56 GMT | From Engineering to Cybersecurity | Don the sniff3r | [Read More](https://medium.com/p/365249a6d7eb) |
-| Wed, 17 Sep 2025 13:11:34 GMT | Tax Stamp and Traceability Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/8baf82a807ed) |
-| Wed, 17 Sep 2025 13:11:20 GMT | Implementing Page-Level Security in Power BI | Fatima Qayyum | [Read More](https://medium.com/p/10c6ae8ea914) |
-| Wed, 17 Sep 2025 13:08:13 GMT | What We Protect and Why It Matters | SecOps | [Read More](https://medium.com/p/529aea1f4494) |
