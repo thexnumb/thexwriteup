@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 21:04:32 GMT | When Intruders Sneak In, EDR Is the Watchdog That Never Sleeps | Chris Zhang | [Read More](https://medium.com/p/494efa55f789) |
+| Wed, 17 Sep 2025 20:51:45 GMT | Zero Trust Network Architecture: A New Paradigm for Modern Security | Esra Kayhan | [Read More](https://medium.com/p/641c9b2ea0bd) |
+| Wed, 17 Sep 2025 20:41:46 GMT | ☁️ Google Cloud Platform Security: Risks and Mitigations in Modern Cloud Environments | Esra Kayhan | [Read More](https://medium.com/p/7b74f889afa7) |
+| Wed, 17 Sep 2025 20:36:21 GMT | I Built My Own Vulnerability Scanner (And Made It Pink) | Devanshi Chavda | [Read More](https://medium.com/p/247aa602cd4c) |
 | Wed, 17 Sep 2025 20:29:50 GMT | “Some Assembly Required 3” challenge | oussama | [Read More](https://medium.com/p/1a954e53fb51) |
 | Wed, 17 Sep 2025 20:19:59 GMT | Anti-Bot Evasion | Yüksel Coşgun | [Read More](https://medium.com/p/41ddba70434b) |
 | Wed, 17 Sep 2025 20:15:43 GMT | AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns | Ryan Cronin | [Read More](https://medium.com/p/3f487643bab6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 15:12:21 GMT | How I Discovered a Website’s Hidden Origin IP | Ibtissam hammadi | [Read More](https://medium.com/p/6f29301abc93) |
 | Wed, 17 Sep 2025 15:10:40 GMT | Best Practices for Securing Commercial Parking Lots with AI Cameras | Tec-Tel Communications | [Read More](https://medium.com/p/9f88105a6509) |
 | Wed, 17 Sep 2025 15:09:56 GMT | Salvage, Solder, Survive: Building Battery Packs from Scavenged Bits | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/421cdb168ccc) |
-| Wed, 17 Sep 2025 15:09:49 GMT | The Hacker’s Pursuit of “Enough”: Finding Fulfillment in a World of Infinite Goals | Vijay Kumar Gupta | [Read More](https://medium.com/p/16dc7fd2dfe0) |
-| Wed, 17 Sep 2025 15:06:15 GMT | Monero’s 18-Block Reorg: A Wake-Up Call for Decentralization | Andy Zonana | [Read More](https://medium.com/p/3345cd9d8cf1) |
-| Wed, 17 Sep 2025 15:04:07 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/fd9ee49d6701) |
-| Wed, 17 Sep 2025 15:01:44 GMT | Rust Devs Are Landing $200K+ Jobs (Here’s Why) | Asma | [Read More](https://medium.com/p/4b37537c1377) |
