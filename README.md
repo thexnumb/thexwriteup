@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 05:14:09 GMT | Passkeys vs Passwords — What Are They, And Which Is Better? | Hamza Hanif | [Read More](https://medium.com/p/3601665e8282) |
+| Wed, 17 Sep 2025 05:07:29 GMT | How to Recover a Hacked WordPress Site (Step-by-Step Guide) | 79mplus | [Read More](https://medium.com/p/69e0a1cf9511) |
+| Wed, 17 Sep 2025 05:04:58 GMT | Samsung Galaxy S2 Ultimate Guide: Specs, Features, and History | Sienna Lewis | [Read More](https://medium.com/p/8273f36c0a41) |
+| Wed, 17 Sep 2025 04:51:15 GMT | Walkthrough: Assessment Methodologies — Footprinting and Scanning CTF 1 | Xnirkun | [Read More](https://medium.com/p/b56e06a51f18) |
+| Wed, 17 Sep 2025 04:48:13 GMT | THE DANCE BETWEEN TRAPPERS AND OPERATORS | slyraksduer | [Read More](https://medium.com/p/b7b39643975e) |
+| Wed, 17 Sep 2025 04:47:29 GMT | Absence of Evidence Isn’t Evidence of Absence — Lessons for Business and IT | Victor Yan | [Read More](https://medium.com/p/b43f17f03840) |
+| Wed, 17 Sep 2025 04:45:07 GMT | Cyber Security: A Journey | Tony T | [Read More](https://medium.com/p/1742a38bc2b0) |
+| Wed, 17 Sep 2025 04:37:09 GMT | The Truth About Might: It Starts with “I Don’t Know” | Novena's Pulse | [Read More](https://medium.com/p/91cf43a4a0fd) |
 | Wed, 17 Sep 2025 04:32:27 GMT | Building My First Cybersecurity Home Lab: Virtual Box, Windows Server, and Kali Linux | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/4fb961afed42) |
 | Wed, 17 Sep 2025 04:27:42 GMT | TryHackMe — Gaming Server CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/f67cd5bfda94) |
 | Wed, 17 Sep 2025 04:23:22 GMT | Evolvedge Technology Solutions Offers Specialized Training in OT/ICS Cybersecurity and DCS | TheEvolvEdge | [Read More](https://medium.com/p/e8e5afcb465a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 19:39:27 GMT | How to build a bank p1: Intro | Logan Elkins | [Read More](https://medium.com/p/4df9e10f2cf6) |
 | Tue, 16 Sep 2025 19:31:03 GMT | TryHackMe’s What Is Networking Write-Up | Paulo Melo | [Read More](https://medium.com/p/ebf0b9a15010) |
 | Tue, 16 Sep 2025 19:27:42 GMT | [Part 5] Top 10 Cyber Resilience Act Compliance Challenges (and How to Overcome Them) | Cyberkech | [Read More](https://medium.com/p/085f539788c6) |
-| Tue, 16 Sep 2025 19:21:31 GMT | Climbing the Pyramid of Pain: Turning Cyber Threats Into Attacker Headaches | Amrik  Hanjra | [Read More](https://medium.com/p/86ade5cea9a5) |
-| Tue, 16 Sep 2025 19:15:42 GMT | The Sneaky Threat You Haven’t Heard Of: Chain-of-Thought Transfer Attacks | Deepanshu | [Read More](https://medium.com/p/281152ed52d1) |
-| Tue, 16 Sep 2025 19:13:27 GMT | First Time Blue Team Con? Here’s What I Learned (Round 2) | Nico | [Read More](https://medium.com/p/c4ec9352ef30) |
-| Tue, 16 Sep 2025 19:09:00 GMT | OWASP Top 10 for LLM Apps (2025) — Survival Guide for Builders & Blue Teams ⚡ | Aditya Bhatt | [Read More](https://medium.com/p/a1bf83cb0bf4) |
-| Tue, 16 Sep 2025 19:01:48 GMT | An Expert Analysis of the Parallels Between Agentic AI and Cobrowse | SamesurfAI | [Read More](https://medium.com/p/ceb10f392115) |
-| Tue, 16 Sep 2025 18:58:55 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/ab572db3aece) |
-| Tue, 16 Sep 2025 18:56:09 GMT | The 11 Ways Hackers Break Into Systems (and How to Block Them) | Chris Zhang | [Read More](https://medium.com/p/a59aebfa63ec) |
-| Tue, 16 Sep 2025 18:47:06 GMT | Ladybug 1200 Uncovered: A Multi-Layered Stego & Crypto Walkthrough — 07CTF | Shoaib Bin Rashid | [Read More](https://medium.com/p/76a96989a6fe) |
