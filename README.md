@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 10:37:09 GMT | How to Choose Your Next Target: A Data-Driven Approach for Bug Hunters | hxxfrd | [Read More](https://medium.com/p/98a0bff6c4dc) |
+| Wed, 17 Sep 2025 10:32:56 GMT | Proving Grounds Practice: workaholic | AzureWolf | [Read More](https://medium.com/p/ee1ffc500172) |
+| Wed, 17 Sep 2025 10:31:45 GMT | The Great Code Exodus: Why Seasoned Developers Are Logging Off for Good | Namir Sagheenanajar | [Read More](https://medium.com/p/b345d52d35f4) |
+| Wed, 17 Sep 2025 10:26:52 GMT | Secure Code Review: Automated and Manual Analysis Techniques | Andrei Ivan | [Read More](https://medium.com/p/7b60ae49106c) |
+| Wed, 17 Sep 2025 10:26:51 GMT | What is VAPT Testing? A Beginner’s Guide for Businesses | Jay C Roberts | [Read More](https://medium.com/p/0a7b669bea66) |
+| Wed, 17 Sep 2025 10:26:45 GMT | NVIDIA: Tech Superstar or Another Bubble Waiting to Burst? | Himani Garg | [Read More](https://medium.com/p/06aedf8f45fa) |
+| Wed, 17 Sep 2025 10:25:00 GMT | doAccessibility First: Designing Kiosks for Everyone | Rakesh | [Read More](https://medium.com/p/cbe5c3c01a44) |
+| Wed, 17 Sep 2025 10:21:39 GMT | Why Most GRC Reports Fail (And How to Fix Them Fast) | SecureSlate | [Read More](https://medium.com/p/45a25f0a373a) |
+| Wed, 17 Sep 2025 10:21:24 GMT | Why Cybersecurity Matters: Steps Website Owners Should Take | Swapnil S. | [Read More](https://medium.com/p/6e5488d35a15) |
+| Wed, 17 Sep 2025 10:10:09 GMT | CVE-2025–10491: MongoDB Windows Install Flaw Opens Door to DLL Hijacking! | CVEHUB | [Read More](https://medium.com/p/feb01431f985) |
 | Wed, 17 Sep 2025 10:09:50 GMT | Salesforce AI Changes CRM Forever | Salesforce BLOG | [Read More](https://medium.com/p/06d96a8c6cb9) |
 | Wed, 17 Sep 2025 10:09:08 GMT | File Upload Restriction Bypass Extension Checklist | Sle3pyHead ‍ | [Read More](https://medium.com/p/b113cef1a205) |
+| Wed, 17 Sep 2025 10:09:02 GMT | Hashing in Cybersecurity: A Beginner’s Guide to Digital Fingerprints | Krishnakaiwartya | [Read More](https://medium.com/p/85ab6033dffb) |
 | Wed, 17 Sep 2025 10:02:57 GMT | Where Are Your Screenshots Really Going? | thedigitaldetective | [Read More](https://medium.com/p/762497d105be) |
 | Wed, 17 Sep 2025 09:59:50 GMT | In a world full of Chocolate Fudge, be my Tiramisu. | The Heart 's Diary | [Read More](https://medium.com/p/c5236f9b4947) |
 | Wed, 17 Sep 2025 09:58:15 GMT | Simple Security Wins: Overlooked control stops real attacks? | Truspex | [Read More](https://medium.com/p/ccccdcb7c2cd) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 06:20:22 GMT | Securing On-Prem LLM Platforms: Key Requirements for Air-Gapped Deployments | Tatiele Freitas | [Read More](https://medium.com/p/8eb9f280448b) |
 | Wed, 17 Sep 2025 06:14:39 GMT | Securing Your Kubernetes Cluster — A Practical Guide for DevOps Engineers | Ankitha Rao | [Read More](https://medium.com/p/7e7f3e8bad9c) |
 | Wed, 17 Sep 2025 06:13:56 GMT | Cybersecurity Metrics: Measuring Security Performance | Cyber Security Research | [Read More](https://medium.com/p/fcc3bd07072e) |
-| Wed, 17 Sep 2025 06:07:39 GMT | Threat Intelligence: Gathering and Analyzing Data | Cyber Security Research | [Read More](https://medium.com/p/203c6b6e7880) |
-| Wed, 17 Sep 2025 06:00:53 GMT | Today’s Top Cyber Intelligence Highlights — Sep 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/beed98a731e0) |
-| Wed, 17 Sep 2025 06:00:24 GMT | Dark Web Monitoring: Tracking Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/70e76cc2cfb2) |
-| Wed, 17 Sep 2025 05:59:16 GMT | Why Your REST API Sucks (And How to Fix It) | Malik Saad Hayat | [Read More](https://medium.com/p/7a466b49fadd) |
-| Wed, 17 Sep 2025 05:56:45 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/3f4e82de45e3) |
-| Wed, 17 Sep 2025 05:53:44 GMT | The Psychology of Cybersecurity: Human Factors | Cyber Security Research | [Read More](https://medium.com/p/48681c95b072) |
-| Wed, 17 Sep 2025 05:50:35 GMT | TryHackMe Second Day | Eric Rubalcaba | [Read More](https://medium.com/p/ff62e8c327eb) |
-| Wed, 17 Sep 2025 05:47:28 GMT | OPA : Policy-as-Code for Smarter Cloud Security | Narendra Sai Srinivasula | [Read More](https://medium.com/p/4c6afbddc027) |
-| Wed, 17 Sep 2025 05:47:28 GMT | The Daily Tech Digest: 17 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7a36c7b3f615) |
-| Wed, 17 Sep 2025 05:44:21 GMT | Zero-Trust Architecture: Why It’s Going Mainstream | Aj | [Read More](https://medium.com/p/edc937397ed7) |
-| Wed, 17 Sep 2025 05:43:52 GMT | “AI in Healthcare 2025: Wearables, Fitness Apps & Medical Imaging for Smarter Health Tracking” | Tarush Sharma | [Read More](https://medium.com/p/fae381006df4) |
