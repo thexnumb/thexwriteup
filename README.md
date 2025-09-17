@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 13:27:43 GMT | I am a full stack web developer with experience in Python, with quadrennial expertise in bot… | Freddiesam | [Read More](https://medium.com/p/323d3af1bf57) |
+| Wed, 17 Sep 2025 13:27:01 GMT | Phishing Through Cloudflare R2: Breaking Down a Fake Adobe Login Attack | Saimanish | [Read More](https://medium.com/p/2375a22ae8c2) |
+| Wed, 17 Sep 2025 13:25:08 GMT | Conti on Exchange — TryHackMe Walkthrough (Splunk + IR style) | Furkanctiner | [Read More](https://medium.com/p/45d00995d200) |
+| Wed, 17 Sep 2025 13:22:53 GMT | AI-Powered Threats in Cybersecurity: Leaders Must Wake Up to the New Reality | Victor Hu-Rivera | [Read More](https://medium.com/p/2d7c10a64398) |
+| Wed, 17 Sep 2025 13:22:34 GMT | Lean Startup vs. Agile: Untangling the Two Most Powerful (and Misunderstood) Ideas in Tech | Gulshan N | [Read More](https://medium.com/p/0db6a3e4f5f3) |
+| Wed, 17 Sep 2025 13:22:00 GMT | What Happens to Your Azza Wallet If You Lose Your WhatsApp Number? | Gloria C. Chimelu | [Read More](https://medium.com/p/99241df86032) |
+| Wed, 17 Sep 2025 13:20:47 GMT | TO BECOME A SOC EXPERT(DAY-5) | vulnhunter | [Read More](https://medium.com/p/7aa65ed6da5d) |
+| Wed, 17 Sep 2025 13:19:19 GMT | Packet Sniffing 101 | Don the sniff3r | [Read More](https://medium.com/p/1ef44d023706) |
+| Wed, 17 Sep 2025 13:14:57 GMT | CompTIA PenTest+: Why Ethical Hacking Skills Matter More Than Ever | Joshuaa Smi | [Read More](https://medium.com/p/e4bd0c442594) |
+| Wed, 17 Sep 2025 13:13:57 GMT | The Sandworm Has Arrived: Why The Shai-Hulud Attack Is A New Nightmare For Companies | Hardik Thaker | [Read More](https://medium.com/p/ad78c40cbb91) |
+| Wed, 17 Sep 2025 13:13:10 GMT | How Haowang Used Telegram to Run a $27B Scam Empire for 5 Years | Scofield O. Idehen | [Read More](https://medium.com/p/0ecc2e2b6e06) |
+| Wed, 17 Sep 2025 13:12:56 GMT | From Engineering to Cybersecurity | Don the sniff3r | [Read More](https://medium.com/p/365249a6d7eb) |
+| Wed, 17 Sep 2025 13:11:34 GMT | Tax Stamp and Traceability Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/8baf82a807ed) |
+| Wed, 17 Sep 2025 13:11:20 GMT | Implementing Page-Level Security in Power BI | Fatima Qayyum | [Read More](https://medium.com/p/10c6ae8ea914) |
+| Wed, 17 Sep 2025 13:08:13 GMT | What We Protect and Why It Matters | SecOps | [Read More](https://medium.com/p/529aea1f4494) |
+| Wed, 17 Sep 2025 13:07:20 GMT | Finding and exploiting an unused API endpoint. — API Testing | Nitish Agrawal | [Read More](https://medium.com/p/05a520d1c1eb) |
+| Wed, 17 Sep 2025 13:06:29 GMT | Protecting Your Website with DNSSEC and WAF | Milaharris | [Read More](https://medium.com/p/55156e03a8a8) |
+| Wed, 17 Sep 2025 13:01:46 GMT | AI in Anomaly Detection: Protecting Financial Data from Hidden Threats | AIFintechPro | [Read More](https://medium.com/p/eaba1d4c135e) |
+| Wed, 17 Sep 2025 12:57:42 GMT | The Beautiful Madness of Loving the Monster You Created | SuccessBlueprints.Org | [Read More](https://medium.com/p/f2171f454fb7) |
+| Wed, 17 Sep 2025 12:54:03 GMT | Post-Quantum Cryptography: The Future of Security in a World of Uncrackable Codes | Shivansh Midha | [Read More](https://medium.com/p/2909bc9f137a) |
+| Wed, 17 Sep 2025 12:48:04 GMT | Magento Security Fix: SessionReaper (CVE-2025–54236) — What You Need to Know | On Tap | [Read More](https://medium.com/p/4ecf9be028d5) |
+| Wed, 17 Sep 2025 12:47:21 GMT | TryHackMe — LazyAdmin CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/24561635ae13) |
 | Wed, 17 Sep 2025 12:39:17 GMT | Jojo’s Hospital - KC7 Walkthrough | PhishMonger | [Read More](https://medium.com/p/fdd36d1becc4) |
+| Wed, 17 Sep 2025 12:36:19 GMT | Hack the Box — Soccer — WriteUp | Emre A. | [Read More](https://medium.com/p/16a8eb046ceb) |
 | Wed, 17 Sep 2025 12:30:56 GMT | Why Should UK Startups Choose Offshore Mobile Developers | Alice Williams | [Read More](https://medium.com/p/9adccce81f28) |
 | Wed, 17 Sep 2025 12:30:35 GMT | Ağ Analizinde Verimlilik için İşe Yarar Wireshark Filtreleri ve Öneriler | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/a4bf64495f60) |
 | Wed, 17 Sep 2025 12:24:35 GMT | Understanding the Importance of Cyber Security Services-Digitdefence | Anask Khan | [Read More](https://medium.com/p/f2eaa5612d1e) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 09:11:45 GMT | Guardians of the Digital Age: The Crucial Role of Cybersecurity Knowledge for the Next Generation | Girls Into Coding | [Read More](https://medium.com/p/f9ae70be8711) |
 | Wed, 17 Sep 2025 09:11:42 GMT | TryHackMe #23 - Linux Shells | 0xGroot | [Read More](https://medium.com/p/354dbbdbafd0) |
 | Wed, 17 Sep 2025 09:11:42 GMT | Breaking the Silence Sparks Courage and Action in Reporting Breaches | Isaac Muendo | [Read More](https://medium.com/p/8dd1326f3cd7) |
-| Wed, 17 Sep 2025 09:10:36 GMT | Blue Team Approach - TalentCoders Siber Güvenlik Yaz Kampı Günlüğü #12 | Hakan ÇEVİK | [Read More](https://medium.com/p/ed82a3239716) |
-| Wed, 17 Sep 2025 09:09:43 GMT | Passwords You Don’t Need to Remember: The Visual Approach to Security | Perrony | [Read More](https://medium.com/p/8aec5a17cf83) |
-| Wed, 17 Sep 2025 09:06:01 GMT | TryHackMe #22 - Windows PowerShell | 0xGroot | [Read More](https://medium.com/p/f9eae4234c30) |
-| Wed, 17 Sep 2025 09:04:01 GMT | Practical Implementation Of ISO 27001 Annex Control A5.1 Using ServiceNow | Peace | [Read More](https://medium.com/p/6a22d7d026ad) |
-| Wed, 17 Sep 2025 09:01:43 GMT | TryHackMe #21 - Windows Command Line | 0xGroot | [Read More](https://medium.com/p/dfb184ed7570) |
-| Wed, 17 Sep 2025 09:01:01 GMT | Intro 2 : OWASP Juice Shop | 4th3n4x | [Read More](https://medium.com/p/d4a9329ffc1d) |
-| Wed, 17 Sep 2025 08:55:30 GMT | The Art of Digital Invisibility: User-Mode Hooking and Detection | Nakkouch Tarek | [Read More](https://medium.com/p/22d9bc461db8) |
-| Wed, 17 Sep 2025 08:53:49 GMT | Emerging Cyber Threats in Africa, Trends to Watch in 2025 and Beyond | ED-360 AFRICA | [Read More](https://medium.com/p/ba70dbe97ad2) |
-| Wed, 17 Sep 2025 08:49:03 GMT | Why Self-Service Kiosks Are a Competitive Advantage for Businesses | Rakesh | [Read More](https://medium.com/p/0ba5a7fe65e4) |
-| Wed, 17 Sep 2025 08:47:56 GMT | How to Explain Pen Test Results to Your CEO (And Get Budget!) | Aj | [Read More](https://medium.com/p/baa97289bbe2) |
-| Wed, 17 Sep 2025 08:36:05 GMT | Practical Android Hacking Tutorial | Cyber Gita | [Read More](https://medium.com/p/ce810e8971dc) |
-| Wed, 17 Sep 2025 08:31:56 GMT | Setting Up HTTPS on Kubernetes with cert-manager and Let’s Encrypt | Aadarsh Nagrath | [Read More](https://medium.com/p/fedae9456ab9) |
-| Wed, 17 Sep 2025 08:22:03 GMT | Red Team 101+: Zafiyet Tespiti — Payload & Exploit Kullanımı - TalentCoders Siber Güvenlik Yaz… | Hakan ÇEVİK | [Read More](https://medium.com/p/d29751b2ccd1) |
-| Wed, 17 Sep 2025 08:19:30 GMT | EDRmetry Matrix — Your Comprehensive Hands-On Linux Attack TTPs Catalog For Download / Self-Hosted | Leszek Mis @ Defensive-Security.com | [Read More](https://medium.com/p/9ad237dd8d95) |
-| Wed, 17 Sep 2025 08:16:04 GMT | 30 Common Security Incidents SOC Analysts Handle Every Day | Mohammed Danish | [Read More](https://medium.com/p/ecd31906eabc) |
-| Wed, 17 Sep 2025 08:13:16 GMT | DockerLabs Writeup — DevTools (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8390a6fb008d) |
-| Wed, 17 Sep 2025 08:12:28 GMT | 5 Immediate Steps to Protect Yourself From Deepfake Scams | Mudassir Khan | [Read More](https://medium.com/p/de3abe15cc94) |
-| Wed, 17 Sep 2025 08:10:17 GMT | Drosera: the security automation layer for Ethereum | 0xMaax | [Read More](https://medium.com/p/3ad57e1e378b) |
-| Wed, 17 Sep 2025 08:06:47 GMT | Booking a Trip? Watch Out for These Risky Scams | Dalibor Zivkovic | [Read More](https://medium.com/p/ff0cb27b8dd6) |
-| Wed, 17 Sep 2025 08:06:01 GMT | TryHackMe #20 - Active Directory Basics | 0xGroot | [Read More](https://medium.com/p/66e52e563656) |
-| Wed, 17 Sep 2025 08:04:58 GMT | Top 5 Cybersecurity Search Engines: Strengths and Weaknesses | Liuliuliusq | [Read More](https://medium.com/p/bb7624be74b3) |
-| Wed, 17 Sep 2025 08:01:57 GMT | [Part 5] AI Tools Anyone Can Use to Improve Personal Cybersecurity (Free & Simple) | Cyberkech | [Read More](https://medium.com/p/b11c1f14b886) |
-| Wed, 17 Sep 2025 08:01:56 GMT | TryHackMe #19 - Search Skills | 0xGroot | [Read More](https://medium.com/p/30e760f0ffea) |
