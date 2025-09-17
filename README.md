@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 23:23:23 GMT | Lab 1: Web cache poisoning with an unkeyed header | Nitika | [Read More](https://medium.com/p/71edcc7006cd) |
+| Wed, 17 Sep 2025 23:10:35 GMT | [TR] Invite Only - TryHackMe | Güven Emre Keskin | [Read More](https://medium.com/p/550b2b48d1c9) |
+| Wed, 17 Sep 2025 23:10:22 GMT | YARA Cheatsheet — Essential reference for malware hunters | Khalil Z. | [Read More](https://medium.com/p/bd5f6fdb312b) |
 | Wed, 17 Sep 2025 23:01:46 GMT | Designing for trust in generative AI products | DiUS | [Read More](https://medium.com/p/af0d97bd4a48) |
 | Wed, 17 Sep 2025 22:52:50 GMT | Touch-Screen MacBook Pro Rumors: What to Expect | Trendy String | [Read More](https://medium.com/p/dfa4ba1b4a9e) |
 | Wed, 17 Sep 2025 22:43:41 GMT | Cookie Shadowing and CSP bypass to read httpOnly cookie— Way too easy (CONCTF finals) | Kalawy | [Read More](https://medium.com/p/0de7dda28ee6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 15:58:04 GMT | 5 Warning Signs of Insider Threats | Priyesh | [Read More](https://medium.com/p/b987f734ecc8) |
 | Wed, 17 Sep 2025 15:57:44 GMT | Managing Digital Employees: From API to Agent | Josh Cunningham | [Read More](https://medium.com/p/c446a5d00b7b) |
 | Wed, 17 Sep 2025 15:48:50 GMT | pnpm Just Got Smarter: Delay Risky Installs and Hunt Dependencies Like a Pro | Rakesh Kumar | [Read More](https://medium.com/p/dc62f5e06485) |
-| Wed, 17 Sep 2025 15:41:57 GMT | Ancient Aliens and Cybersecurity: Why Weird Ideas Can Save You | Nicholas D'Acri | [Read More](https://medium.com/p/2f1baf56e0ee) |
-| Wed, 17 Sep 2025 15:41:52 GMT | DePIN and Solana: A Blueprint for Pakistan’s Physical-Infrastructure Revolution | Shayan Saqib | [Read More](https://medium.com/p/2338a1d0ad72) |
-| Wed, 17 Sep 2025 15:39:19 GMT | Goodbye, Service Account Keys! | Saloni Patidar | [Read More](https://medium.com/p/e009f3b8ffef) |
