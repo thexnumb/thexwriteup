@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 17:27:43 GMT | Lumo is becoming my favorite AI Agent | Jeferson Moura | [Read More](https://medium.com/p/f2b7b1c15f93) |
+| Wed, 17 Sep 2025 17:26:39 GMT | UUIDv1 And Sandwich Attacks | Diman | [Read More](https://medium.com/p/2ab3d69cffdd) |
+| Wed, 17 Sep 2025 17:23:02 GMT | Navigating My Cybersecurity Journey: A Beginner’s Perspective (day-1) | Sadina Upreti | [Read More](https://medium.com/p/f62fda6f7995) |
+| Wed, 17 Sep 2025 17:18:45 GMT | AS-REP Roasting | SeverSerenity | [Read More](https://medium.com/p/1f83be96e736) |
 | Wed, 17 Sep 2025 17:10:51 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/7d073dceeb93) |
+| Wed, 17 Sep 2025 17:06:51 GMT | STEP BY STEP PROCESS ON HOW I WAS ABLE TO GAIN A REMOTE SHELL IN MY KIOPTRIX LEVEL 1 MACHINE | Favour Fidelis | [Read More](https://medium.com/p/49383516d26a) |
 | Wed, 17 Sep 2025 17:04:46 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/a799aedd9973) |
 | Wed, 17 Sep 2025 17:03:31 GMT | How to build a bank p2: The firewall | Logan Elkins | [Read More](https://medium.com/p/199ff2bc9e8f) |
 | Wed, 17 Sep 2025 16:56:54 GMT | ️ Part 12 — Lock It Down Without Slowing It Down: Security & Governance That Scale | Sonal Sadafal | [Read More](https://medium.com/p/4df5223a63d7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 13:11:34 GMT | Tax Stamp and Traceability Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/8baf82a807ed) |
 | Wed, 17 Sep 2025 13:11:20 GMT | Implementing Page-Level Security in Power BI | Fatima Qayyum | [Read More](https://medium.com/p/10c6ae8ea914) |
 | Wed, 17 Sep 2025 13:08:13 GMT | What We Protect and Why It Matters | SecOps | [Read More](https://medium.com/p/529aea1f4494) |
-| Wed, 17 Sep 2025 13:07:20 GMT | Finding and exploiting an unused API endpoint. — API Testing | Nitish Agrawal | [Read More](https://medium.com/p/05a520d1c1eb) |
-| Wed, 17 Sep 2025 13:06:29 GMT | Protecting Your Website with DNSSEC and WAF | Milaharris | [Read More](https://medium.com/p/55156e03a8a8) |
-| Wed, 17 Sep 2025 13:01:46 GMT | AI in Anomaly Detection: Protecting Financial Data from Hidden Threats | AIFintechPro | [Read More](https://medium.com/p/eaba1d4c135e) |
-| Wed, 17 Sep 2025 12:57:42 GMT | The Beautiful Madness of Loving the Monster You Created | SuccessBlueprints.Org | [Read More](https://medium.com/p/f2171f454fb7) |
-| Wed, 17 Sep 2025 12:54:03 GMT | Post-Quantum Cryptography: The Future of Security in a World of Uncrackable Codes | Shivansh Midha | [Read More](https://medium.com/p/2909bc9f137a) |
