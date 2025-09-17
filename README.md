@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 09:35:09 GMT | Your WhatsApp Photo and Name Are Not as Private as You Think — Here’s How to Protect Them | fadili d | [Read More](https://medium.com/p/7e5720d707f5) |
+| Wed, 17 Sep 2025 09:34:19 GMT | 5 Security Habits Everyone Should Adopt Immediately | John Okwuose | [Read More](https://medium.com/p/c894b7f7c5ed) |
+| Wed, 17 Sep 2025 09:30:39 GMT | Mon ami de poche | Florent M | [Read More](https://medium.com/p/e88a5ac1dec5) |
+| Wed, 17 Sep 2025 09:23:54 GMT | ️ Fundamentals of Thinking as a Cybersecurity Practitioner | Biellreyluchaa | [Read More](https://medium.com/p/445d9dda347b) |
+| Wed, 17 Sep 2025 09:22:00 GMT | The Weight of Information | Alex Insouratselou | [Read More](https://medium.com/p/ec97070c7d3a) |
+| Wed, 17 Sep 2025 09:17:53 GMT | What Are the Best Ways to Be More Resilient? | FK! | [Read More](https://medium.com/p/a992647a6791) |
 | Wed, 17 Sep 2025 09:17:06 GMT | Passive vs Active Information Gathering: What to Collect and Why | Vivek Bhatt | [Read More](https://medium.com/p/d0c85730e32b) |
 | Wed, 17 Sep 2025 09:12:15 GMT | X Followers Gone Wild: Bots or Just Bad Luck? | GirlSaidWhat | [Read More](https://medium.com/p/f709a699ce22) |
 | Wed, 17 Sep 2025 09:11:45 GMT | Guardians of the Digital Age: The Crucial Role of Cybersecurity Knowledge for the Next Generation | Girls Into Coding | [Read More](https://medium.com/p/f9ae70be8711) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 05:07:29 GMT | How to Recover a Hacked WordPress Site (Step-by-Step Guide) | 79mplus | [Read More](https://medium.com/p/69e0a1cf9511) |
 | Wed, 17 Sep 2025 05:04:58 GMT | Samsung Galaxy S2 Ultimate Guide: Specs, Features, and History | Sienna Lewis | [Read More](https://medium.com/p/8273f36c0a41) |
 | Wed, 17 Sep 2025 04:51:15 GMT | Walkthrough: Assessment Methodologies — Footprinting and Scanning CTF 1 | Xnirkun | [Read More](https://medium.com/p/b56e06a51f18) |
-| Wed, 17 Sep 2025 04:48:13 GMT | THE DANCE BETWEEN TRAPPERS AND OPERATORS | slyraksduer | [Read More](https://medium.com/p/b7b39643975e) |
-| Wed, 17 Sep 2025 04:47:29 GMT | Absence of Evidence Isn’t Evidence of Absence — Lessons for Business and IT | Victor Yan | [Read More](https://medium.com/p/b43f17f03840) |
-| Wed, 17 Sep 2025 04:45:07 GMT | Cyber Security: A Journey | Tony T | [Read More](https://medium.com/p/1742a38bc2b0) |
-| Wed, 17 Sep 2025 04:37:09 GMT | The Truth About Might: It Starts with “I Don’t Know” | Novena's Pulse | [Read More](https://medium.com/p/91cf43a4a0fd) |
-| Wed, 17 Sep 2025 04:32:27 GMT | Building My First Cybersecurity Home Lab: Virtual Box, Windows Server, and Kali Linux | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/4fb961afed42) |
-| Wed, 17 Sep 2025 04:27:42 GMT | TryHackMe — Gaming Server CTF Walkthrough | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/f67cd5bfda94) |
