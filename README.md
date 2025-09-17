@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 03:36:37 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Rocky | [Read More](https://medium.com/p/5da4fe85d53a) |
+| Wed, 17 Sep 2025 03:32:24 GMT | Phishing Simulation vs. Live Training: Which Is Better For Your Team’s Cybersecurity? | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/5bb5d8812fd4) |
+| Wed, 17 Sep 2025 03:32:02 GMT | When Trust Becomes a Threat: How Hackers Exploit Legitimate Drivers to Kill Antivirus | Deven Chhajed | [Read More](https://medium.com/p/369e447c10cb) |
+| Wed, 17 Sep 2025 03:32:02 GMT | The Ripple Effect: Diving into the Salesloft Drift Supply Chain Attack | Akshat Ratanpal | [Read More](https://medium.com/p/ec81e6ed9761) |
+| Wed, 17 Sep 2025 03:32:02 GMT | SOLID Principles and Security Practices for Frontend Developers: The Beginner’s Playbook | Sanjeevani Bhandari | [Read More](https://medium.com/p/7b50ba18e51a) |
+| Wed, 17 Sep 2025 03:19:31 GMT | Why Every Developer Needs a Free Open-Source WAF in 2025 | Quella | [Read More](https://medium.com/p/29d346e4ee96) |
 | Wed, 17 Sep 2025 03:13:33 GMT | Protect your properties and clients from cyber threats using next-gen AI. ALFOX.AI | Vsgangaraju | [Read More](https://medium.com/p/44260b0ed8b1) |
 | Wed, 17 Sep 2025 03:03:19 GMT | Faith Over Fear | Gianna Judkins | [Read More](https://medium.com/p/78a62f2493ba) |
 | Wed, 17 Sep 2025 03:01:46 GMT | Germany’s Draft Is Back — Who Will Serve, and How? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/352c4a409f3e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 16 Sep 2025 18:31:51 GMT | Fileless Malware: Attacks That Leave No Trace | Andrei Ivan | [Read More](https://medium.com/p/b16540e03851) |
 | Tue, 16 Sep 2025 18:31:46 GMT | CTF → Pentest: Translating CTF Patterns into Real-World Exploits | Aditya Bhatt | [Read More](https://medium.com/p/c74ba79dcf4e) |
 | Tue, 16 Sep 2025 18:22:39 GMT | Never Trust Always Verify!! | Anam Khan | [Read More](https://medium.com/p/c3436819d3a2) |
-| Tue, 16 Sep 2025 18:22:31 GMT | Level Up Your Career: Why an Ethical Hacking Course with Placement is Your Ticket to the Top of… | Nitin Singh | [Read More](https://medium.com/p/38dbd8d6a793) |
-| Tue, 16 Sep 2025 18:18:22 GMT | Securing Systems | Anam Khan | [Read More](https://medium.com/p/61e0330ce2aa) |
-| Tue, 16 Sep 2025 18:18:03 GMT | HTB: Cicada | Ross Andrews | [Read More](https://medium.com/p/1048fbf199ce) |
-| Tue, 16 Sep 2025 18:16:30 GMT | Ethical Hacking Bootcamps: Are They Worth It? | Smith Adams | [Read More](https://medium.com/p/dd4f3a55b76d) |
-| Tue, 16 Sep 2025 18:15:43 GMT | Drosera: Building Ethereum’s Nervous System | Ifeoluwakareem | [Read More](https://medium.com/p/3e57d786bf1e) |
-| Tue, 16 Sep 2025 18:11:04 GMT | TryHackMe’s Defensive Security Intro’s Write-Up | Paulo Melo | [Read More](https://medium.com/p/05c1580b00db) |
