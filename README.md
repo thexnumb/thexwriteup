@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Sep 2025 13:41:57 GMT | React Hook Form with Zod Validation: A Complete Guide with TypeScript | Toukir Ahamed Pigeon | [Read More](https://medium.com/p/aacbcb370a8b) |
+| Wed, 17 Sep 2025 13:33:20 GMT | ZAST.AI discovered vulnerabilities in Node-formidable | ZAST AI | [Read More](https://medium.com/p/cc194083a535) |
+| Wed, 17 Sep 2025 13:33:06 GMT | What to Do If Your Data Gets Hacked | Dkvilas | [Read More](https://medium.com/p/b45b754092b2) |
+| Wed, 17 Sep 2025 13:32:43 GMT | Redefining Collective Defense: Cyber Conflict in the Hybrid War Era | National Security Institute | [Read More](https://medium.com/p/f71b768ca478) |
 | Wed, 17 Sep 2025 13:27:43 GMT | I am a full stack web developer with experience in Python, with quadrennial expertise in bot… | Freddiesam | [Read More](https://medium.com/p/323d3af1bf57) |
 | Wed, 17 Sep 2025 13:27:01 GMT | Phishing Through Cloudflare R2: Breaking Down a Fake Adobe Login Attack | Saimanish | [Read More](https://medium.com/p/2375a22ae8c2) |
+| Wed, 17 Sep 2025 13:26:43 GMT | Cohesity and Semperis Announce Groundbreaking Offering that Unifies Data and Identity Resilience | Louise Rolfe | [Read More](https://medium.com/p/4bbe27af62e2) |
 | Wed, 17 Sep 2025 13:25:08 GMT | Conti on Exchange — TryHackMe Walkthrough (Splunk + IR style) | Furkanctiner | [Read More](https://medium.com/p/45d00995d200) |
 | Wed, 17 Sep 2025 13:22:53 GMT | AI-Powered Threats in Cybersecurity: Leaders Must Wake Up to the New Reality | Victor Hu-Rivera | [Read More](https://medium.com/p/2d7c10a64398) |
 | Wed, 17 Sep 2025 13:22:34 GMT | Lean Startup vs. Agile: Untangling the Two Most Powerful (and Misunderstood) Ideas in Tech | Gulshan N | [Read More](https://medium.com/p/0db6a3e4f5f3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 09:23:54 GMT | ️ Fundamentals of Thinking as a Cybersecurity Practitioner | Biellreyluchaa | [Read More](https://medium.com/p/445d9dda347b) |
 | Wed, 17 Sep 2025 09:22:00 GMT | The Weight of Information | Alex Insouratselou | [Read More](https://medium.com/p/ec97070c7d3a) |
 | Wed, 17 Sep 2025 09:17:53 GMT | What Are the Best Ways to Be More Resilient? | FK! | [Read More](https://medium.com/p/a992647a6791) |
-| Wed, 17 Sep 2025 09:17:06 GMT | Passive vs Active Information Gathering: What to Collect and Why | Vivek Bhatt | [Read More](https://medium.com/p/d0c85730e32b) |
-| Wed, 17 Sep 2025 09:12:15 GMT | X Followers Gone Wild: Bots or Just Bad Luck? | GirlSaidWhat | [Read More](https://medium.com/p/f709a699ce22) |
-| Wed, 17 Sep 2025 09:11:45 GMT | Guardians of the Digital Age: The Crucial Role of Cybersecurity Knowledge for the Next Generation | Girls Into Coding | [Read More](https://medium.com/p/f9ae70be8711) |
-| Wed, 17 Sep 2025 09:11:42 GMT | TryHackMe #23 - Linux Shells | 0xGroot | [Read More](https://medium.com/p/354dbbdbafd0) |
-| Wed, 17 Sep 2025 09:11:42 GMT | Breaking the Silence Sparks Courage and Action in Reporting Breaches | Isaac Muendo | [Read More](https://medium.com/p/8dd1326f3cd7) |
