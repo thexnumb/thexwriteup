@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 05:30:05 GMT | DOUBLEWIN189 | Melianiimelda | [Read More](https://medium.com/p/8a869a106af6) |
+| Thu, 18 Sep 2025 05:21:44 GMT | What Is the Difference Between Laser and Inkjet Printers? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/fa7ceb134ef3) |
+| Thu, 18 Sep 2025 05:18:54 GMT | How Server Location Affects Website Performance | HostNOC | [Read More](https://medium.com/p/159536b00570) |
+| Thu, 18 Sep 2025 05:13:25 GMT | Portswigger Web Security Academy - CSRF Lab #1 | BooRuleDie | [Read More](https://medium.com/p/9e6772f8f070) |
 | Thu, 18 Sep 2025 05:10:25 GMT | Building a Home SOC Lab with Wazuh, Kali, and Windows | Rohit | [Read More](https://medium.com/p/cf28f3848542) |
 | Thu, 18 Sep 2025 05:01:50 GMT | The Post-Quantum Migration: How Blockchains are Preparing for a Quantum Future | Farhad Ali | [Read More](https://medium.com/p/f166ee1f9849) |
 | Thu, 18 Sep 2025 04:48:02 GMT | The QR Code Conundrum: To Trust or Not to Trust? | Marko | [Read More](https://medium.com/p/03f80c409174) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 19:13:50 GMT | How to Start Bug Bounty Learning Journey with Hack The Box | Rashadul Islam | [Read More](https://medium.com/p/277f92d8150e) |
 | Wed, 17 Sep 2025 19:11:45 GMT | The Portfolio That Got Me Hired at FAANG: A Breakdown | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/589df50dac6d) |
 | Wed, 17 Sep 2025 19:10:59 GMT | iPhone 17 Pro Max Test | Julia Ahrens | [Read More](https://medium.com/p/8ab840f43ecd) |
-| Wed, 17 Sep 2025 19:07:33 GMT | Your Data, Their Commodity: The Economics of the Dark Web | Shahzaib | [Read More](https://medium.com/p/a151ec221f8d) |
-| Wed, 17 Sep 2025 19:02:43 GMT | The Upside of Vulnerability | John Clark - The Voice of Courage | [Read More](https://medium.com/p/e66a22afae5e) |
-| Wed, 17 Sep 2025 18:59:21 GMT | Oops | Mr_Nobody | [Read More](https://medium.com/p/b78db4a8a093) |
-| Wed, 17 Sep 2025 18:58:55 GMT | SOULMATE — HTB | H3XH7WK | [Read More](https://medium.com/p/98eec9a4e64b) |
