@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 07:18:18 GMT | QR Code IDOR Vulnerability in Razorpay | Narayanan M | [Read More](https://medium.com/p/af1396dbf2af) |
+| Thu, 18 Sep 2025 07:14:20 GMT | Tales of an Internet Addict #006 | Urgent Privacy | [Read More](https://medium.com/p/51cd09d11f85) |
+| Thu, 18 Sep 2025 07:13:45 GMT | Top 10 Cyber Security News Channels in India | Manisha Chaudhary | [Read More](https://medium.com/p/00c0dee01c72) |
+| Thu, 18 Sep 2025 07:13:05 GMT | A golden Code for Automated Recon — Bug Bounty | Swetha | [Read More](https://medium.com/p/c97e28ae4e59) |
+| Thu, 18 Sep 2025 07:08:06 GMT | The 10 Most Highly Demanding Businesses in 2026 | SmartNest | [Read More](https://medium.com/p/09bad0ef0651) |
+| Thu, 18 Sep 2025 07:04:16 GMT | Control Flow in Python: If, Loops, and Functions | Nishubirla | [Read More](https://medium.com/p/366dbca345aa) |
+| Thu, 18 Sep 2025 07:03:10 GMT | How I get 1000$ bounty for Discovering Account Takeover in Android Application | TEAM DH49 | [Read More](https://medium.com/p/34562fadc469) |
+| Thu, 18 Sep 2025 06:55:03 GMT | Hacktoberfest 2025: Start Your Open Source Journey with Open-Source-Playground | Shakeel Khuhro | [Read More](https://medium.com/p/891fa7240ac4) |
+| Thu, 18 Sep 2025 06:54:07 GMT | CI/CD Pipeline Best PracticesCI/CD Pipeline Best Practices for 2025: Building Resilient, Secure… | Divesh Rajput | [Read More](https://medium.com/p/9bbac7f3b2cb) |
+| Thu, 18 Sep 2025 06:52:23 GMT | Why Gaming Is the Gateway to Learning Programming Skills? | Kia Moore | [Read More](https://medium.com/p/af4fb91e92e8) |
 | Thu, 18 Sep 2025 06:40:17 GMT | Remote Controlling Android via Wireless ADB Debugging | Rohan Pawar | [Read More](https://medium.com/p/9409a48c0297) |
 | Thu, 18 Sep 2025 06:37:07 GMT | The Hacker’s Playbook vs. SafeLine WAF: Who Wins? | AerieWhole123 | [Read More](https://medium.com/p/6149feb41233) |
 | Thu, 18 Sep 2025 06:36:31 GMT | Netskope IPO Prices at $19, Raises $908M Despite Losses | Finomics Edge | [Read More](https://medium.com/p/48c37ae4bee3) |
@@ -37,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 05:52:06 GMT | From POC to Production: Hardening Your BIM Microservices Architecture | AlterSquare | [Read More](https://medium.com/p/636e94b7e64e) |
 | Thu, 18 Sep 2025 05:49:51 GMT | Realme P4 and P4 Pro 5G Launch 2025: Everything We Know | Alice Doyle | [Read More](https://medium.com/p/d1f28ec61759) |
 | Thu, 18 Sep 2025 05:47:09 GMT | Meta Pool’s NEAR Contract Passes Resonance Review | metapool.near | [Read More](https://medium.com/p/569f70f7d89f) |
+| Thu, 18 Sep 2025 05:45:26 GMT | Data Accuracy in Directory Websites: Why Clean Listings = Loyal Users | aDirectory | [Read More](https://medium.com/p/264e2bf0e38c) |
 | Thu, 18 Sep 2025 05:45:14 GMT | Indiluck Game customer care helpline number❌ 9238652455 ☑️✔️ call me — indiluck गेम कस्टमर केयर… | Indiluck Game customer care helpline number❌ 923 | [Read More](https://medium.com/p/e2f0fc6443e1) |
 | Thu, 18 Sep 2025 05:43:55 GMT | Manipulating Access Tokens: How Adversaries Leverage Windows Security Contexts | Itz.sanskarr | [Read More](https://medium.com/p/2bf7ed38e55f) |
 | Thu, 18 Sep 2025 05:41:44 GMT | Why Do Computer Bugs Get Called ‘Bugs’? The Strange Origin Story | Developer Hub | [Read More](https://medium.com/p/12c3ede24471) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 23:23:23 GMT | Lab 1: Web cache poisoning with an unkeyed header | Nitika | [Read More](https://medium.com/p/71edcc7006cd) |
 | Wed, 17 Sep 2025 23:10:35 GMT | [TR] Invite Only - TryHackMe | Güven Emre Keskin | [Read More](https://medium.com/p/550b2b48d1c9) |
 | Wed, 17 Sep 2025 23:10:22 GMT | YARA Cheatsheet — Essential reference for malware hunters | Khalil Z. | [Read More](https://medium.com/p/bd5f6fdb312b) |
-| Wed, 17 Sep 2025 23:01:46 GMT | Designing for trust in generative AI products | DiUS | [Read More](https://medium.com/p/af0d97bd4a48) |
-| Wed, 17 Sep 2025 22:53:56 GMT | Chaining Vulnerabilities TryHackMe | Hydsec | [Read More](https://medium.com/p/f6205fa3a44f) |
-| Wed, 17 Sep 2025 22:52:50 GMT | Touch-Screen MacBook Pro Rumors: What to Expect | Trendy String | [Read More](https://medium.com/p/dfa4ba1b4a9e) |
-| Wed, 17 Sep 2025 22:43:41 GMT | Cookie Shadowing and CSP bypass to read httpOnly cookie— Way too easy (CONCTF finals) | Kalawy | [Read More](https://medium.com/p/0de7dda28ee6) |
-| Wed, 17 Sep 2025 22:37:35 GMT | Chili Palmer’s Guard House | The Blessed Meathead | [Read More](https://medium.com/p/1fe04b9a2d78) |
-| Wed, 17 Sep 2025 22:23:04 GMT | Autenticação no API Gateway | Lucas Rosa | [Read More](https://medium.com/p/d81f83219b50) |
-| Wed, 17 Sep 2025 21:57:23 GMT | Metasploit Unpacked — A Beginner-Friendly Guide to Exploitation (Lab-Only Learning) | OxErvin | [Read More](https://medium.com/p/15015523d963) |
-| Wed, 17 Sep 2025 21:52:37 GMT | 6 Browser-Based Cyber Attacks Exploding in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/aa63980c6fd3) |
-| Wed, 17 Sep 2025 21:51:46 GMT | You’ll Keep Getting Ignored Unless You Start Picking the Right Projects. | Ian Kiprono | [Read More](https://medium.com/p/d7fe8fc66c8c) |
-| Wed, 17 Sep 2025 21:50:46 GMT | When to Push, When to Pause: The Hidden Skill in Cyber Work | Sam Galope | [Read More](https://medium.com/p/51aa9c95f309) |
-| Wed, 17 Sep 2025 21:50:45 GMT | The Role of Machine Learning in Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/074714255549) |
