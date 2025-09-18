@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 17:09:49 GMT | Not Using Multi-Factor Authentication (MFA)Subheading: Relying on passwords alone leaves… | Ehsanm135 | [Read More](https://medium.com/p/84ed94711605) |
+| Thu, 18 Sep 2025 17:02:19 GMT | The Strike That Wiped the Smile Off Putin’s Face | Alfred James | [Read More](https://medium.com/p/39a43f2b7726) |
+| Thu, 18 Sep 2025 16:59:50 GMT | Web3 Safety Playbook — AEO + GEO Optimized Article | Mohammad Abir Abbas | [Read More](https://medium.com/p/d0a3df1d08c2) |
+| Thu, 18 Sep 2025 16:59:40 GMT | ShinyHunters Strikes Again: Massive Salesforce Data Breach Exposes 1.5 Billion Records | Technijian | [Read More](https://medium.com/p/97b8b034d98b) |
+| Thu, 18 Sep 2025 16:51:10 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART II | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/8047923c8ab3) |
+| Thu, 18 Sep 2025 16:48:06 GMT | 180+ NPM Packages Hit in Major Supply Chain Attack | ASAcrew Blog | [Read More](https://medium.com/p/01c2f6cb87a7) |
+| Thu, 18 Sep 2025 16:47:14 GMT | “ Investigative Reversing 3 ” challenge | oussama | [Read More](https://medium.com/p/253f0d48f01a) |
 | Thu, 18 Sep 2025 16:31:22 GMT | [TR]-Siber Güvenlik Odaklı Kariyer Yolunu Çiz! | Aybala Sevinc | [Read More](https://medium.com/p/852fd8e6eadd) |
+| Thu, 18 Sep 2025 16:25:05 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART I | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/73db7333b4af) |
 | Thu, 18 Sep 2025 16:24:44 GMT | SpringBoot Interface Security: Current Limiting, Replay Attacks, and Signature Mechanism Analysis | Umesh Kumar Yadav | [Read More](https://medium.com/p/687a5cee7424) |
 | Thu, 18 Sep 2025 16:20:22 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Blackbox77 | [Read More](https://medium.com/p/72ee6591735c) |
 | Thu, 18 Sep 2025 16:18:59 GMT | Who Needs Admin Rights When You’ve Got Bugs? | #$ubh@nk@r | [Read More](https://medium.com/p/ee71611b8bae) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 12:17:52 GMT | Valley (Easy) CTF — TryHackMe Writeup | Error | [Read More](https://medium.com/p/42f81a032083) |
 | Thu, 18 Sep 2025 12:16:18 GMT | TryHackMe #27 - Networking Secure Protocols | 0xGroot | [Read More](https://medium.com/p/41e631e75c4d) |
 | Thu, 18 Sep 2025 12:12:59 GMT | MistTrack: Free AML Screening for USDT and Other Cryptocurrencies | Andrew Stocktan | [Read More](https://medium.com/p/9dd9b1eb0686) |
-| Thu, 18 Sep 2025 12:12:57 GMT | Every Dangerous AI-Powered Hacking Tool Explained | Shahzaib | [Read More](https://medium.com/p/4d09bed45cea) |
-| Thu, 18 Sep 2025 12:11:50 GMT | TryHackMe #26 - Networking Core Protocols | 0xGroot | [Read More](https://medium.com/p/8a351c0a3861) |
-| Thu, 18 Sep 2025 12:08:29 GMT | Yurei Ransomware: A Technical Breakdown of the Emerging Double-Extortion Threat | Rue | [Read More](https://medium.com/p/e19f641dfd33) |
-| Thu, 18 Sep 2025 12:08:16 GMT | Fun in DEFCON 33 | VXRL | [Read More](https://medium.com/p/cc193d10c078) |
-| Thu, 18 Sep 2025 12:07:43 GMT | TryHackMe #25 - Networking Essentials | 0xGroot | [Read More](https://medium.com/p/daabf97773a1) |
-| Thu, 18 Sep 2025 12:04:49 GMT | Как компании теряют миллионы из-за DDoS-атак и что реально работает для защиты | Julia Smirnova | [Read More](https://medium.com/p/3b8f451e6f84) |
-| Thu, 18 Sep 2025 12:02:59 GMT | Joomla 4.2.7 RCE: Administrator Dashboard ile Reverse Shell Rehberi | Emirhan Özgen | [Read More](https://medium.com/p/77c2884d563c) |
-| Thu, 18 Sep 2025 12:01:50 GMT | TryHackMe #24 - Networking Concepts | 0xGroot | [Read More](https://medium.com/p/c28a5a792d5d) |
