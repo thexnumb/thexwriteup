@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 16:31:22 GMT | [TR]-Siber Güvenlik Odaklı Kariyer Yolunu Çiz! | Aybala Sevinc | [Read More](https://medium.com/p/852fd8e6eadd) |
+| Thu, 18 Sep 2025 16:24:44 GMT | SpringBoot Interface Security: Current Limiting, Replay Attacks, and Signature Mechanism Analysis | Umesh Kumar Yadav | [Read More](https://medium.com/p/687a5cee7424) |
+| Thu, 18 Sep 2025 16:20:22 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Blackbox77 | [Read More](https://medium.com/p/72ee6591735c) |
+| Thu, 18 Sep 2025 16:18:59 GMT | Who Needs Admin Rights When You’ve Got Bugs? | #$ubh@nk@r | [Read More](https://medium.com/p/ee71611b8bae) |
+| Thu, 18 Sep 2025 16:16:59 GMT | The Biggest Crypto Risk of 2025: Unpacking the NPM Supply Chain Attack | Kalariya Het | [Read More](https://medium.com/p/bc5f9feab716) |
 | Thu, 18 Sep 2025 16:15:07 GMT | AI Browsers: Convenience or Critical Security Blind Spot? | Graylog | [Read More](https://medium.com/p/da8be6c0edd3) |
 | Thu, 18 Sep 2025 16:11:39 GMT | Chainguard: Container Image Security | W. Jenks Gibbons | [Read More](https://medium.com/p/2972055be20c) |
 | Thu, 18 Sep 2025 16:07:03 GMT | How a WhatsApp Message Travels from Your Phone to Theirs | Richa Gautam | [Read More](https://medium.com/p/9373d18498de) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 12:04:49 GMT | Как компании теряют миллионы из-за DDoS-атак и что реально работает для защиты | Julia Smirnova | [Read More](https://medium.com/p/3b8f451e6f84) |
 | Thu, 18 Sep 2025 12:02:59 GMT | Joomla 4.2.7 RCE: Administrator Dashboard ile Reverse Shell Rehberi | Emirhan Özgen | [Read More](https://medium.com/p/77c2884d563c) |
 | Thu, 18 Sep 2025 12:01:50 GMT | TryHackMe #24 - Networking Concepts | 0xGroot | [Read More](https://medium.com/p/c28a5a792d5d) |
-| Thu, 18 Sep 2025 11:59:12 GMT | Lessons Learned from the Massive npm Supply-Chain Attack Using the “Shai-Hulud” Self-Replicating… | gm0 | [Read More](https://medium.com/p/e6a3eb1120ca) |
-| Thu, 18 Sep 2025 11:54:10 GMT | Allowlist Bypass : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/2e4511a2bbff) |
-| Thu, 18 Sep 2025 11:52:49 GMT | HTTP-Header XSS : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/76abd609e879) |
-| Thu, 18 Sep 2025 11:47:21 GMT | Mastering Reconnaissance Techniques: A Step-by-Step Guide to Uncovering Digital Assets | BHUWAM DIXIT | [Read More](https://medium.com/p/04d6a1535676) |
-| Thu, 18 Sep 2025 11:42:55 GMT | Unpacking TLS: A Deep Dive into TLS Record | Techleadgurdeepgill | [Read More](https://medium.com/p/35fe130adc80) |
