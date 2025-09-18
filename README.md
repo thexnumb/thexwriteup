@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 19:32:54 GMT | CodePartTwo-Hack The Box CTF | Zhoussama | [Read More](https://medium.com/p/4176f578bec3) |
+| Thu, 18 Sep 2025 19:16:54 GMT | [Tob] WEB challenge — Helwan CTF | Adhamkhairy | [Read More](https://medium.com/p/2609d0359784) |
 | Thu, 18 Sep 2025 19:08:46 GMT | Why K–12 Cybersecurity Education Needs DNS | Enrique Somoza | [Read More](https://medium.com/p/6b996ae70fd1) |
 | Thu, 18 Sep 2025 19:01:38 GMT | Top Free Cybersecurity Courses for Beginners | Rashadul Islam | [Read More](https://medium.com/p/3a749039d25b) |
 | Thu, 18 Sep 2025 18:58:14 GMT | The Hidden Cost of Incomplete Security: Why Your Liability Waiver Won’t Protect You | Symmetric IT Group | [Read More](https://medium.com/p/2d538f36d369) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 13:40:28 GMT | Using OTP (One-Time Password) and Security Management in MetaTrader 5 | KursatOzdemir | [Read More](https://medium.com/p/097ac1e24e91) |
 | Thu, 18 Sep 2025 13:40:13 GMT | 10 Life Hacks (and Lessons) People Actually Lived Through. | Favvyy | [Read More](https://medium.com/p/98fa30394f39) |
 | Thu, 18 Sep 2025 13:39:18 GMT | TC-ACN Incident Mapper Tool | cub01d5 | [Read More](https://medium.com/p/50b878fb047d) |
-| Thu, 18 Sep 2025 13:38:21 GMT | Shellshock (CVE-2014–6271) | Crowndaisy | [Read More](https://medium.com/p/21fcbc78a2b4) |
-| Thu, 18 Sep 2025 13:38:19 GMT | When the System Fails: How to Navigate Investment Fraud in the Real World | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/6889217b3bfb) |
