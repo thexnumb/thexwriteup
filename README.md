@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 13:26:50 GMT | Day 5: Nmap 101 — Let’s Knock on Some Digital Doors | Viratavi | [Read More](https://medium.com/p/e7bbb712a9ea) |
+| Thu, 18 Sep 2025 13:20:29 GMT | Cybersecurity News TL;DR — 09/18/2025 | Chandler Williams | [Read More](https://medium.com/p/68420164f2c9) |
+| Thu, 18 Sep 2025 13:14:22 GMT | Strange Antiquities Download | Saifalrehmans | [Read More](https://medium.com/p/6c2ad2c706d9) |
+| Thu, 18 Sep 2025 13:14:16 GMT | Port Scan Activity (EN) | xwxrtxn | [Read More](https://medium.com/p/4c7e14928c1e) |
+| Thu, 18 Sep 2025 13:13:18 GMT | Is Your LLM Application Safe? Don’t Ship Until You Read This | S3CloudHub | [Read More](https://medium.com/p/0aeed7d2ea03) |
+| Thu, 18 Sep 2025 13:08:16 GMT | How Security Guards Identify Threats: What They’re Trained To Spot | Sentrysofficers | [Read More](https://medium.com/p/496a70628cb5) |
+| Thu, 18 Sep 2025 13:07:38 GMT | 人工智能新时代：代理、自主与治理 | Jiyao Weng | [Read More](https://medium.com/p/c062569107cf) |
+| Thu, 18 Sep 2025 13:05:49 GMT | AI’s New Era: Agency, Autonomy, and Governance | Jiyao Weng | [Read More](https://medium.com/p/68d12d7eda01) |
+| Thu, 18 Sep 2025 13:04:16 GMT | India will sign a trade deal with the EU, on its own terms | Jack Rees | [Read More](https://medium.com/p/f810268e164c) |
+| Thu, 18 Sep 2025 13:02:11 GMT | I Went on the Dark Web and Barely Escaped with My Sanity | Prity Kumari | [Read More](https://medium.com/p/95a9815547ee) |
+| Thu, 18 Sep 2025 13:02:06 GMT | 5 Red Flags That a Crypto Project Might Be a Scam | Farhad Ali | [Read More](https://medium.com/p/b3a845479a14) |
+| Thu, 18 Sep 2025 13:01:52 GMT | Protecting OpenSearch: Essential Security Practices for Ubuntu | Milaharris | [Read More](https://medium.com/p/dcecd9146389) |
+| Thu, 18 Sep 2025 13:00:48 GMT | Deep Dive into Mobile App Security: Analyzing APK Defense Mechanisms Against Root Detection… | Max Muxammil | [Read More](https://medium.com/p/23ac37a81e7c) |
+| Thu, 18 Sep 2025 12:54:52 GMT | Day 2 of 100 Days in Cybersecurity: SOC Fundamentals & Splunk Exploration… | Denise Sophy | [Read More](https://medium.com/p/864d7b7ae88e) |
+| Thu, 18 Sep 2025 12:51:13 GMT | If You Have a Single Mum — Read This | Scofield O. Idehen | [Read More](https://medium.com/p/02562f4a2ea5) |
+| Thu, 18 Sep 2025 12:48:16 GMT | Scam — Casio G-SHOCK “Sale” by SM City North EDSA | c1Tz3n | [Read More](https://medium.com/p/f77650ec9647) |
+| Thu, 18 Sep 2025 12:47:03 GMT | Missed Call Services Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/94e207fce668) |
+| Thu, 18 Sep 2025 12:36:10 GMT | How to Train Any Sales Team to Sell Cybersecurity in 1 Hour (Even If They Don’t Speak Tech) | Florian Henrion | [Read More](https://medium.com/p/fd58d6c73402) |
+| Thu, 18 Sep 2025 12:32:51 GMT | Sistem Web dan Seluler (Mobile) Lanjut: Rancangan Arsitektur Baru Aplikasi “Kopi Ceria” | Muhammad Surya Saputro | [Read More](https://medium.com/p/5b8cbb2e7fdb) |
+| Thu, 18 Sep 2025 12:32:26 GMT | Compliance in Private Security Services: Why It Matters | Sentrysofficers | [Read More](https://medium.com/p/b8fb0867d041) |
 | Thu, 18 Sep 2025 12:24:17 GMT | CISSP Training Online at Cybernous: Your Gateway to Global Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/bf9f787ef86e) |
 | Thu, 18 Sep 2025 12:23:25 GMT | APT Down – An Analytical Examination of the Kimsuky Leak | David SEHYEON Baek | [Read More](https://medium.com/p/3eabb18e0683) |
 | Thu, 18 Sep 2025 12:22:43 GMT | Hypothesis: White Holes as Invisible Engines of Cosmic Regeneration | Zayn shadow | [Read More](https://medium.com/p/4dbd8c512c78) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 09:29:48 GMT | Why Your GRC Tool Shouldn’t Hold Your Keys? How CISOGenie is changing the game? | Cisogenemarketing | [Read More](https://medium.com/p/c48e0fafba96) |
 | Thu, 18 Sep 2025 09:28:10 GMT | Bounty Lab 2 - Writeup by InferiorAK - RCSC | InferiorAK | [Read More](https://medium.com/p/6d31cb644411) |
 | Thu, 18 Sep 2025 09:25:49 GMT | Worst Way to Die | Md Shaw Nawaz Reall | [Read More](https://medium.com/p/f44b935ee11b) |
-| Thu, 18 Sep 2025 09:24:04 GMT | Exfiltrated CMS Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/6a22f0655cae) |
-| Thu, 18 Sep 2025 09:16:52 GMT | Critical Flaw Hits Samsung Galaxy Phones | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/5e133489fae7) |
-| Thu, 18 Sep 2025 09:13:37 GMT | Sea CTF Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/d55e52b37efc) |
-| Thu, 18 Sep 2025 09:13:27 GMT | PWN/Binary Exploitation HIDC 2025 | xpl0dec | [Read More](https://medium.com/p/ab3569e3e3b9) |
-| Thu, 18 Sep 2025 09:10:36 GMT | Can You Make Money Selling Your Own Data (Yourself) on the Dark Web? | Navkiran Dhaliwal | [Read More](https://medium.com/p/5015e00e8c37) |
-| Thu, 18 Sep 2025 09:09:39 GMT | Vulnerability Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/880f3897e194) |
-| Thu, 18 Sep 2025 09:08:00 GMT | Apple MDM Software vs Intune: Which Wins? | Vantage MDM | [Read More](https://medium.com/p/022116c8cdd5) |
-| Thu, 18 Sep 2025 09:07:51 GMT | HackTheBox: Previous (Medium) — Walkthrough | Binary Exploiter | [Read More](https://medium.com/p/ae3d2e29b333) |
-| Thu, 18 Sep 2025 09:07:42 GMT | End of Static Security : Agentic AI Security That Never Sleeps | AIsha NEO | [Read More](https://medium.com/p/6bf9c86c7ab1) |
-| Thu, 18 Sep 2025 09:06:30 GMT | Setting up Cowrie Honeypot | Beryl | [Read More](https://medium.com/p/aef050546364) |
-| Thu, 18 Sep 2025 09:06:04 GMT | How to Protect Your Banking Apps from Phishing Attacks in 2025 | Scrolling world | [Read More](https://medium.com/p/4aa265fc9f14) |
-| Thu, 18 Sep 2025 09:03:09 GMT | Cybersecurity Skills in High Demand | Cyber Security Research | [Read More](https://medium.com/p/371f5d7cabe9) |
-| Thu, 18 Sep 2025 09:01:51 GMT | Diary of a Career Changer: Taking a Pay Cut & Reframing It as a Launchpad | Cyber I AM | [Read More](https://medium.com/p/b890a9a8fdcb) |
-| Thu, 18 Sep 2025 08:58:51 GMT | The Myth of “Safe” Platforms: What You Need to Know | The Curious Culture Muffin | [Read More](https://medium.com/p/48e469920e39) |
-| Thu, 18 Sep 2025 08:58:13 GMT | Tryhackme Poster Walk-through | Shobinmendez | [Read More](https://medium.com/p/b8ad3c70e188) |
-| Thu, 18 Sep 2025 08:57:00 GMT | Building Trust Infrastructure: How to Add Governance to Any Agent Payment Protocol with ASAT | AstraSync AI | [Read More](https://medium.com/p/412f2900dca9) |
-| Thu, 18 Sep 2025 08:56:33 GMT | Regulatory Compliance in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/2d8ee5a6f1ad) |
-| Thu, 18 Sep 2025 08:54:09 GMT | AI in Cybersecurity: Stop 90% of Cyber Attacks Before They Even Start | SecureSlate | [Read More](https://medium.com/p/ba545936cba5) |
-| Thu, 18 Sep 2025 08:52:22 GMT | CCTV Camera Installation Service in Humayun Road, Mohammadpur Dhaka | optimationbd | [Read More](https://medium.com/p/f19a289b8ebe) |
-| Thu, 18 Sep 2025 08:51:49 GMT | How PASETO Could Save Your PHP API from the Next Breach | Asian Digital Hub | [Read More](https://medium.com/p/7bd50d24facb) |
