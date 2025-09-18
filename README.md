@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 18:25:50 GMT | How I Built My First SIEM Detections | Garv Kamra | [Read More](https://medium.com/p/7de341cd4d36) |
+| Thu, 18 Sep 2025 18:22:30 GMT | The Forgotten Art of Password Management: Why We’re Still Getting It Wrong | Tim_Idd | [Read More](https://medium.com/p/92ec5d8eefbb) |
+| Thu, 18 Sep 2025 18:21:44 GMT | How do I use git? | Seven | [Read More](https://medium.com/p/b1aef614dfc8) |
+| Thu, 18 Sep 2025 18:21:00 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART IV | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/f5e8801c0c9a) |
+| Thu, 18 Sep 2025 18:20:17 GMT | Melt into You | WinterWindow | [Read More](https://medium.com/p/ae1105daaa68) |
+| Thu, 18 Sep 2025 18:11:27 GMT | How a PID Manipulation Flaw in Sephora Brazil Led to Free High-Value Products | Breno Felipe | [Read More](https://medium.com/p/a14cbd4b444f) |
+| Thu, 18 Sep 2025 18:05:30 GMT | When Your Car Becomes a Hacker’s Gateway to Your Phone | Anas Al Rawi | [Read More](https://medium.com/p/329019178dc8) |
+| Thu, 18 Sep 2025 18:01:46 GMT | $5,000 por este RCE en Netflix: subida de PHP camuflado como GIF | Gorka | [Read More](https://medium.com/p/cfaec6c75683) |
+| Thu, 18 Sep 2025 18:01:46 GMT | 10 Blockchain Failures I Learned the Hard Way | Bhagya Rana | [Read More](https://medium.com/p/893bfc4051e7) |
+| Thu, 18 Sep 2025 17:57:57 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART… | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/21dca35a86c2) |
+| Thu, 18 Sep 2025 17:57:40 GMT | Complete Guide to Qubes OS: The World’s Most Secure Operating System | Technology Diaries | [Read More](https://medium.com/p/53153398bad0) |
+| Thu, 18 Sep 2025 17:56:07 GMT | $6,500+: How a Business Logic Flaw in an API Can Yield Big Rewards | Breno Felipe | [Read More](https://medium.com/p/312b1981ae3a) |
+| Thu, 18 Sep 2025 17:54:23 GMT | Splunk Enterprise Security (ES): A Powerful Ally for Analysts | Dany Christel | [Read More](https://medium.com/p/20f71be0b968) |
+| Thu, 18 Sep 2025 17:53:57 GMT | How Women Can Still Keep Their Privacy | Lamis | [Read More](https://medium.com/p/acd25e18d2a9) |
+| Thu, 18 Sep 2025 17:47:26 GMT | Learn “Cryptographic Failure Attack” — OWASP Top 10 (Position #2) | Rashadul Islam | [Read More](https://medium.com/p/ad3c7d5bee4e) |
+| Thu, 18 Sep 2025 17:38:29 GMT | Underground AI Credentials Market: Over 1 Million Stolen ChatGPT Accounts and Counting | Arpit | [Read More](https://medium.com/p/38c17846a5ad) |
 | Thu, 18 Sep 2025 17:26:45 GMT | The Internet Connected Us, Ethereum Empowered Us, Drosera Will Automate Us | Rubynaruto | [Read More](https://medium.com/p/cd1f7cc07550) |
 | Thu, 18 Sep 2025 17:24:31 GMT | Building your Idea — No Stopping Yet | Tolulope Arobieke | [Read More](https://medium.com/p/d14b4895fdbf) |
 | Thu, 18 Sep 2025 17:23:21 GMT | “5 real world problems and how a GRC professional will solve them” (part 1) | Pragati gupta | [Read More](https://medium.com/p/73abac560991) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 13:13:18 GMT | Is Your LLM Application Safe? Don’t Ship Until You Read This | S3CloudHub | [Read More](https://medium.com/p/0aeed7d2ea03) |
 | Thu, 18 Sep 2025 13:08:16 GMT | How Security Guards Identify Threats: What They’re Trained To Spot | Sentrysofficers | [Read More](https://medium.com/p/496a70628cb5) |
 | Thu, 18 Sep 2025 13:07:38 GMT | 人工智能新时代：代理、自主与治理 | Jiyao Weng | [Read More](https://medium.com/p/c062569107cf) |
-| Thu, 18 Sep 2025 13:05:49 GMT | AI’s New Era: Agency, Autonomy, and Governance | Jiyao Weng | [Read More](https://medium.com/p/68d12d7eda01) |
-| Thu, 18 Sep 2025 13:04:16 GMT | India will sign a trade deal with the EU, on its own terms | Jack Rees | [Read More](https://medium.com/p/f810268e164c) |
-| Thu, 18 Sep 2025 13:02:11 GMT | I Went on the Dark Web and Barely Escaped with My Sanity | Prity Kumari | [Read More](https://medium.com/p/95a9815547ee) |
-| Thu, 18 Sep 2025 13:02:06 GMT | 5 Red Flags That a Crypto Project Might Be a Scam | Farhad Ali | [Read More](https://medium.com/p/b3a845479a14) |
-| Thu, 18 Sep 2025 13:01:52 GMT | Protecting OpenSearch: Essential Security Practices for Ubuntu | Milaharris | [Read More](https://medium.com/p/dcecd9146389) |
-| Thu, 18 Sep 2025 13:00:48 GMT | Deep Dive into Mobile App Security: Analyzing APK Defense Mechanisms Against Root Detection… | Max Muxammil | [Read More](https://medium.com/p/23ac37a81e7c) |
-| Thu, 18 Sep 2025 12:54:52 GMT | Day 2 of 100 Days in Cybersecurity: SOC Fundamentals & Splunk Exploration… | Denise Sophy | [Read More](https://medium.com/p/864d7b7ae88e) |
-| Thu, 18 Sep 2025 12:51:13 GMT | If You Have a Single Mum — Read This | Scofield O. Idehen | [Read More](https://medium.com/p/02562f4a2ea5) |
-| Thu, 18 Sep 2025 12:48:16 GMT | Scam — Casio G-SHOCK “Sale” by SM City North EDSA | c1Tz3n | [Read More](https://medium.com/p/f77650ec9647) |
-| Thu, 18 Sep 2025 12:47:03 GMT | Missed Call Services Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/94e207fce668) |
-| Thu, 18 Sep 2025 12:36:10 GMT | How to Train Any Sales Team to Sell Cybersecurity in 1 Hour (Even If They Don’t Speak Tech) | Florian Henrion | [Read More](https://medium.com/p/fd58d6c73402) |
-| Thu, 18 Sep 2025 12:32:51 GMT | Sistem Web dan Seluler (Mobile) Lanjut: Rancangan Arsitektur Baru Aplikasi “Kopi Ceria” | Muhammad Surya Saputro | [Read More](https://medium.com/p/5b8cbb2e7fdb) |
-| Thu, 18 Sep 2025 12:32:26 GMT | Compliance in Private Security Services: Why It Matters | Sentrysofficers | [Read More](https://medium.com/p/b8fb0867d041) |
-| Thu, 18 Sep 2025 12:24:17 GMT | CISSP Training Online at Cybernous: Your Gateway to Global Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/bf9f787ef86e) |
-| Thu, 18 Sep 2025 12:23:25 GMT | APT Down – An Analytical Examination of the Kimsuky Leak | David SEHYEON Baek | [Read More](https://medium.com/p/3eabb18e0683) |
-| Thu, 18 Sep 2025 12:22:43 GMT | Hypothesis: White Holes as Invisible Engines of Cosmic Regeneration | Zayn shadow | [Read More](https://medium.com/p/4dbd8c512c78) |
