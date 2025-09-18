@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 23:09:03 GMT | LockBit Malware: The Ransomware Empire Threatening Businesses Everywhere | Akshay Chauhan | [Read More](https://medium.com/p/693db3e00c97) |
+| Thu, 18 Sep 2025 23:00:42 GMT | Eternal Wight Certificate | Jor El | [Read More](https://medium.com/p/03535bbe0555) |
+| Thu, 18 Sep 2025 22:57:29 GMT | How to Build a Bulletproof Smart Contract Security Pipeline | Officer's Notes | [Read More](https://medium.com/p/9a7cb40ec949) |
+| Thu, 18 Sep 2025 22:49:13 GMT | 2000 Years of Passwords And No More to Come | Sarthak Sinha | [Read More](https://medium.com/p/be34028ab10c) |
 | Thu, 18 Sep 2025 22:32:02 GMT | Testing Antivirus Detection Levels on Ghostly Hollowing Crypter | S12 - 0x12Dark Development | [Read More](https://medium.com/p/087cdc2d9025) |
 | Thu, 18 Sep 2025 22:25:34 GMT | The Digital Ghost in the Machine: How a Small Business Fought Back Against Cyber Threats | Youssef EL-OUARDI | [Read More](https://medium.com/p/bc92a7fb2b98) |
 | Thu, 18 Sep 2025 22:13:22 GMT | Bugs v/s Errors | Vivek Yadav | [Read More](https://medium.com/p/369c9475b443) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 15:36:35 GMT | Introducing the First Public Leaderboard for LLM Watermarking | Kiel Dang | [Read More](https://medium.com/p/d8016acd1265) |
 | Thu, 18 Sep 2025 15:22:50 GMT | Money Laundering as a Service: How Scammers Siphon Your Money | Vijay Kumar Gupta | [Read More](https://medium.com/p/7540c01c7a89) |
 | Thu, 18 Sep 2025 15:17:45 GMT | Use Shodan Like A Hacker! | Mainekhacker | [Read More](https://medium.com/p/21aae8b37975) |
-| Thu, 18 Sep 2025 15:15:29 GMT | “Unearthing Digital Gold: A Practical Guide to Finding Bugs in JavaScript Files” | Aman Sharma | [Read More](https://medium.com/p/1e6338c73899) |
-| Thu, 18 Sep 2025 15:15:20 GMT | Why Non-Determinism Strengthens Network and Application Security | Laura Garcia | [Read More](https://medium.com/p/641f061184f9) |
-| Thu, 18 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 18, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/690a25d8bb88) |
-| Thu, 18 Sep 2025 15:07:23 GMT | Cyber Security and Data Confidentiality Digital Observation & Copyright Hacking | Aijaz Hussain | [Read More](https://medium.com/p/b7acc1c6ca56) |
