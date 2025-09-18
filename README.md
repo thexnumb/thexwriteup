@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 06:40:17 GMT | Remote Controlling Android via Wireless ADB Debugging | Rohan Pawar | [Read More](https://medium.com/p/9409a48c0297) |
+| Thu, 18 Sep 2025 06:37:07 GMT | The Hacker’s Playbook vs. SafeLine WAF: Who Wins? | AerieWhole123 | [Read More](https://medium.com/p/6149feb41233) |
+| Thu, 18 Sep 2025 06:36:31 GMT | Netskope IPO Prices at $19, Raises $908M Despite Losses | Finomics Edge | [Read More](https://medium.com/p/48c37ae4bee3) |
+| Thu, 18 Sep 2025 06:36:26 GMT | Unlocking the Full Potential of Red Team Assessments: Tips and Best Practices | Qualysec | [Read More](https://medium.com/p/2fb4fe0b7e68) |
+| Thu, 18 Sep 2025 06:32:08 GMT | Top Security Services in Gwalior: Why Professional Protection Matters | Somtagroup | [Read More](https://medium.com/p/8404104f5fc4) |
+| Thu, 18 Sep 2025 06:30:20 GMT | The Dark Side of APKs: Risks of Sideloading Apps on Android | Abida Adra | [Read More](https://medium.com/p/d7545211c28e) |
+| Thu, 18 Sep 2025 06:29:03 GMT | Your Selfie Is Now AI’s Plaything: Nano Banana Craze | Sorab Ghaswalla | [Read More](https://medium.com/p/a2a94d13beaa) |
+| Thu, 18 Sep 2025 06:20:31 GMT | 100+ Creative Business Name Ideas That Stand Out in the UK Market | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/22b135ab5b81) |
+| Thu, 18 Sep 2025 06:18:45 GMT | Open Source Tools & Technologies | Balki Maharaj | [Read More](https://medium.com/p/1119b147ae56) |
 | Thu, 18 Sep 2025 06:13:25 GMT | I Developed an Algorithm for Vulnerability | Kratagya Tripathi | [Read More](https://medium.com/p/5589fddb3583) |
 | Thu, 18 Sep 2025 06:13:02 GMT | Google is Under Fire, and No One can Find an Extinguisher | Shamim Rajani | [Read More](https://medium.com/p/9ee536360a47) |
 | Thu, 18 Sep 2025 06:11:45 GMT | Generative AI use case for Penetration Testing | cyber_pix | [Read More](https://medium.com/p/ec06d43c4377) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 21:51:46 GMT | You’ll Keep Getting Ignored Unless You Start Picking the Right Projects. | Ian Kiprono | [Read More](https://medium.com/p/d7fe8fc66c8c) |
 | Wed, 17 Sep 2025 21:50:46 GMT | When to Push, When to Pause: The Hidden Skill in Cyber Work | Sam Galope | [Read More](https://medium.com/p/51aa9c95f309) |
 | Wed, 17 Sep 2025 21:50:45 GMT | The Role of Machine Learning in Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/074714255549) |
-| Wed, 17 Sep 2025 21:46:40 GMT | Breaking AI to make IT safer | Pratip Dasgupta | [Read More](https://medium.com/p/cbe09007fb15) |
-| Wed, 17 Sep 2025 21:44:22 GMT | Cybersecurity for Remote Workforces | Cyber Security Research | [Read More](https://medium.com/p/0239076d84fe) |
-| Wed, 17 Sep 2025 21:38:09 GMT | Insider Threats: Detection and Prevention | Cyber Security Research | [Read More](https://medium.com/p/6581e7190064) |
-| Wed, 17 Sep 2025 21:32:03 GMT | Mammoth Enterprise AI Browser: Redefining Secure, AI-Powered Browsing for the Modern Enterprise | Mammoth Cyber | [Read More](https://medium.com/p/1847e2f11f4c) |
-| Wed, 17 Sep 2025 21:31:24 GMT | Building a Strong Security Culture | Cyber Security Research | [Read More](https://medium.com/p/071c6b1ccfff) |
-| Wed, 17 Sep 2025 21:29:05 GMT | Mydata ransomware attacks the gas company Zeta Group, Mexico | chum1ng0 | [Read More](https://medium.com/p/f2eb69a32214) |
-| Wed, 17 Sep 2025 21:17:10 GMT | Update on Cybersecurity and AI | Mike Temkin | [Read More](https://medium.com/p/506eee67b808) |
-| Wed, 17 Sep 2025 21:11:25 GMT | Because life, despite all the weeds, only sprouts when watered. | Mevsim | [Read More](https://medium.com/p/a941ae9d8212) |
-| Wed, 17 Sep 2025 21:04:32 GMT | When Intruders Sneak In, EDR Is the Watchdog That Never Sleeps | Chris Zhang | [Read More](https://medium.com/p/494efa55f789) |
