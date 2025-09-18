@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 22:32:02 GMT | Testing Antivirus Detection Levels on Ghostly Hollowing Crypter | S12 - 0x12Dark Development | [Read More](https://medium.com/p/087cdc2d9025) |
+| Thu, 18 Sep 2025 22:25:34 GMT | The Digital Ghost in the Machine: How a Small Business Fought Back Against Cyber Threats | Youssef EL-OUARDI | [Read More](https://medium.com/p/bc92a7fb2b98) |
+| Thu, 18 Sep 2025 22:13:22 GMT | Bugs v/s Errors | Vivek Yadav | [Read More](https://medium.com/p/369c9475b443) |
+| Thu, 18 Sep 2025 22:10:02 GMT | Insightful words from my AI | Diary Of A Nigerian University Student | [Read More](https://medium.com/p/e922386a90af) |
 | Thu, 18 Sep 2025 21:54:31 GMT | I Tried Building Something Without Writing Any Code — Just Using AI Tools. The Result? | 0xNerix | [Read More](https://medium.com/p/e911fce9f5a6) |
 | Thu, 18 Sep 2025 21:47:40 GMT | The Vulnerability Chronicles: Self Pleasure and Mastering Being Alone | DamnAmazon | [Read More](https://medium.com/p/c981d919bb0f) |
 | Thu, 18 Sep 2025 21:31:11 GMT | What is an Operating System? | Atakan Bitim | [Read More](https://medium.com/p/c3fed1004046) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 15:15:20 GMT | Why Non-Determinism Strengthens Network and Application Security | Laura Garcia | [Read More](https://medium.com/p/641f061184f9) |
 | Thu, 18 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 18, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/690a25d8bb88) |
 | Thu, 18 Sep 2025 15:07:23 GMT | Cyber Security and Data Confidentiality Digital Observation & Copyright Hacking | Aijaz Hussain | [Read More](https://medium.com/p/b7acc1c6ca56) |
-| Thu, 18 Sep 2025 15:06:01 GMT | Discover How to Access Emails Without Any Password | Ibtissam hammadi | [Read More](https://medium.com/p/5004e7be1fbd) |
-| Thu, 18 Sep 2025 15:02:23 GMT | From Hacking Systems for Fun to Securing Millions: My Journey Through Both Sides of the Firewall | Anurag Mewar | [Read More](https://medium.com/p/60c842120797) |
-| Thu, 18 Sep 2025 15:01:18 GMT | From Abstract Terms to Acumen: SEO Poisoning | Cyb3rhawk | [Read More](https://medium.com/p/b4152ee21594) |
-| Thu, 18 Sep 2025 14:53:12 GMT | TryHackMe - Invite Only - WriteUp | Axoloth | [Read More](https://medium.com/p/37ed04d13043) |
