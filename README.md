@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 14:14:06 GMT | MCP Servers Are the New Shadow APIs | Rajesh Devadasan | [Read More](https://medium.com/p/e24a6a598b4b) |
+| Thu, 18 Sep 2025 14:13:58 GMT | Is AI Going to Take Over the World? | O Código Futuro | [Read More](https://medium.com/p/4eeb170fd0dd) |
+| Thu, 18 Sep 2025 14:11:48 GMT | Public Safety Communications Market Deep Research with Forecast By 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/23b4ed12da7d) |
+| Thu, 18 Sep 2025 14:06:45 GMT | The $50M Security Hole in Your CI/CD Pipeline (And How to Fix It Before Attackers Find It) | Heinancabouly | [Read More](https://medium.com/p/9a1308fbb3dc) |
+| Thu, 18 Sep 2025 14:02:42 GMT | Top 5 Workplace Safety Fails from TV: How Tec-Tel’s AI Tech Would Have Saved the Day | Tec-Tel Communications | [Read More](https://medium.com/p/ab3103f3fc04) |
+| Thu, 18 Sep 2025 14:01:52 GMT | The Strength I Never Wanted | TheWanderingMind | [Read More](https://medium.com/p/26499fbb1d03) |
+| Thu, 18 Sep 2025 14:01:52 GMT | Tender | Kevin David Crowley | [Read More](https://medium.com/p/0e372bd8c3a7) |
+| Thu, 18 Sep 2025 14:01:51 GMT | Cyber Briefing: 2025.09.18 | CyberMaterial | [Read More](https://medium.com/p/8f44af871817) |
+| Thu, 18 Sep 2025 13:58:46 GMT | Vertical Runner — Releasing My Cyberdeck to the World | James Reeves | [Read More](https://medium.com/p/2a9f9434b350) |
+| Thu, 18 Sep 2025 13:52:03 GMT | How to Reengage a Garage Door Remote After a Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/d16bc641817e) |
+| Thu, 18 Sep 2025 13:51:57 GMT | PrintNightmare, again! | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/64560e69b867) |
+| Thu, 18 Sep 2025 13:50:07 GMT | Radar Security Market Set for Significant Growth by 2031 | Nileshprajapati | [Read More](https://medium.com/p/e98444481515) |
+| Thu, 18 Sep 2025 13:46:45 GMT | ⚠️ Altered Security — Introduction to Azure Red Teaming | Senuk Dias | [Read More](https://medium.com/p/080813088eae) |
+| Thu, 18 Sep 2025 13:40:28 GMT | Using OTP (One-Time Password) and Security Management in MetaTrader 5 | KursatOzdemir | [Read More](https://medium.com/p/097ac1e24e91) |
 | Thu, 18 Sep 2025 13:40:13 GMT | 10 Life Hacks (and Lessons) People Actually Lived Through. | Favvyy | [Read More](https://medium.com/p/98fa30394f39) |
+| Thu, 18 Sep 2025 13:39:18 GMT | TC-ACN Incident Mapper Tool | cub01d5 | [Read More](https://medium.com/p/50b878fb047d) |
+| Thu, 18 Sep 2025 13:38:21 GMT | Shellshock (CVE-2014–6271) | Crowndaisy | [Read More](https://medium.com/p/21fcbc78a2b4) |
 | Thu, 18 Sep 2025 13:38:19 GMT | When the System Fails: How to Navigate Investment Fraud in the Real World | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/6889217b3bfb) |
 | Thu, 18 Sep 2025 13:36:21 GMT | Therapy Only Works If You Show Up Fully | Joanna Ashley - | [Read More](https://medium.com/p/cdb022626827) |
 | Thu, 18 Sep 2025 13:36:12 GMT | Walkthrough — get aHEAD (picoCTF) | CryptViper | [Read More](https://medium.com/p/7dcdaff51099) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 10:33:47 GMT | How Cyber Security Training Can Boost Your Career Field | Win In Life Academy | [Read More](https://medium.com/p/d2a377730e4d) |
 | Thu, 18 Sep 2025 10:33:24 GMT | HeartBleed | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/af71afec9fc3) |
 | Thu, 18 Sep 2025 10:32:15 GMT | Jenkins Under Fire: The Quiet Trio of CVEs That Could Undermine Your CI/CD Pipeline | gm0 | [Read More](https://medium.com/p/9fdd3452a065) |
-| Thu, 18 Sep 2025 10:31:27 GMT | The Beginner’s Guide to BUG BUG for Maximum Gains | BUG | [Read More](https://medium.com/p/e76ddf836e29) |
-| Thu, 18 Sep 2025 10:31:16 GMT | SQL Server’da Sunucu Seviyesinde Yetkiler ve Anlamları | Emrah SEMİZ | [Read More](https://medium.com/p/e923a95c3c57) |
-| Thu, 18 Sep 2025 10:29:18 GMT | How I Simulated an RDP Brute-Force Attack and Responded — A Beginner’s Lab Guide | Yeswanth Boddeda | [Read More](https://medium.com/p/8e00e29301ee) |
-| Thu, 18 Sep 2025 10:26:56 GMT | CTF Competitions: The Battleground Where Hackers Train Legally | Shahzaib | [Read More](https://medium.com/p/9966cccc1103) |
-| Thu, 18 Sep 2025 10:24:43 GMT | The TryHackMe PT1 Journey: Is the Junior Pen Tester Exam Really for Beginners? | Toheeb Kayode Adisa | [Read More](https://medium.com/p/9ce34d942c73) |
-| Thu, 18 Sep 2025 10:17:26 GMT | How SSL/TLS Works: Why Your Browser Shows the Lock Icon | Prajwal Ahluwalia | [Read More](https://medium.com/p/46caacd82589) |
-| Thu, 18 Sep 2025 10:15:08 GMT | Home Security Cameras In Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/a870731b4916) |
-| Thu, 18 Sep 2025 10:12:29 GMT | DockerLabs Writeup — Picadilly (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9a0c58126ca5) |
-| Thu, 18 Sep 2025 10:07:28 GMT | 10 Years of Expertise: How UAS Secures Major Events in France | UNION ACCESS SECURITY | [Read More](https://medium.com/p/8493a86b1a3b) |
-| Thu, 18 Sep 2025 10:07:25 GMT | How Microsoft Uses AI For Cybersecurity | nodi | [Read More](https://medium.com/p/1b17cd724fb1) |
-| Thu, 18 Sep 2025 10:07:06 GMT | Wazuh Installation Guide — Using Installation Assistant | Enes Ismaili | [Read More](https://medium.com/p/38453b5115d1) |
-| Thu, 18 Sep 2025 10:07:01 GMT | Understanding Vulnerability Management: A Key to Robust Cybersecurity | Digital Defense | [Read More](https://medium.com/p/6de8fdaf61ad) |
-| Thu, 18 Sep 2025 10:02:59 GMT | NPM packages compromised | Neha Sawant | [Read More](https://medium.com/p/6194f615920d) |
-| Thu, 18 Sep 2025 09:58:41 GMT | How Key-Drop Kiosks Strengthen Customer Trust | Rakesh | [Read More](https://medium.com/p/ff98c8dc2e18) |
-| Thu, 18 Sep 2025 09:58:22 GMT | How We Got 2,000 Builders+ Without Spending on Ads | Akshay | [Read More](https://medium.com/p/f4c7b57e4630) |
-| Thu, 18 Sep 2025 09:53:46 GMT | Haven1: The Future of Real-World DeFi | Bantin | [Read More](https://medium.com/p/ef92a211d65c) |
