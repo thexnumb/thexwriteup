@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 08:44:18 GMT | Anthropic substituted my chats and stigmatised me as a person with mental disorders, which I do not… | Mila Rada | [Read More](https://medium.com/p/4d6d79c8d9d7) |
+| Thu, 18 Sep 2025 08:43:55 GMT | MPC Doesn’t Save You From Your Private API | OKcontract | [Read More](https://medium.com/p/a6a540275d17) |
+| Thu, 18 Sep 2025 08:42:41 GMT | Security Advisory — Multiple Vulnerabilities in LB-link BL-W1210M Router ​ | Redfox Security | [Read More](https://medium.com/p/572a45142212) |
+| Thu, 18 Sep 2025 08:38:09 GMT | CyberSecurity Home Lab for Penetration Testing | Tazbik Islam | [Read More](https://medium.com/p/e8fdd4292670) |
+| Thu, 18 Sep 2025 08:34:53 GMT | Cybersecurity Education in Nigerian Secondary Schools. | Sarah Atuaka | [Read More](https://medium.com/p/dd9e3ee17c19) |
+| Thu, 18 Sep 2025 08:31:07 GMT | SSI IT Cyber Security Specialists Barcelona - Expert IT Protection & Consulting Services | Public | [Read More](https://medium.com/p/eae58730b3d7) |
+| Thu, 18 Sep 2025 08:29:54 GMT | AdminPanel CTF Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/353b02f33973) |
 | Thu, 18 Sep 2025 08:13:38 GMT | I Almost Lost My Dream Job Because I Didn’t Know Ethical Hacking — Here’s How I Turned It Around | JetkingChandigarh | [Read More](https://medium.com/p/58c076737ff3) |
 | Thu, 18 Sep 2025 08:11:17 GMT | Mastering Virtualisation: A Comprehensive Guide to Building Your Cybersecurity Lab | Harry Ouaida | [Read More](https://medium.com/p/612e0e9d08de) |
 | Thu, 18 Sep 2025 08:09:32 GMT | ประจำวันพฤหัสบดีที่ 18 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/03d1c55a1f8d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 03:13:49 GMT | Top 5 Threats CISOs Must Prepare for in the Next 12 Months | Dr. Deep Pandey | [Read More](https://medium.com/p/5eb99af5d953) |
 | Thu, 18 Sep 2025 03:03:49 GMT | Securing Internet of Things Devices | Cyber Security Research | [Read More](https://medium.com/p/98f0fa40c210) |
 | Thu, 18 Sep 2025 03:02:05 GMT | Ledger — TryHackMe Walkthrough | NTHSec | [Read More](https://medium.com/p/21d6013ec761) |
-| Thu, 18 Sep 2025 02:55:14 GMT | CyberDefenders — Fog Ransomware Lab | jon | [Read More](https://medium.com/p/5959307a32af) |
-| Thu, 18 Sep 2025 02:49:21 GMT | How to Start a Career in Cybersecurity in 2025 | EHxAnomity | [Read More](https://medium.com/p/87941eab5447) |
-| Thu, 18 Sep 2025 02:47:20 GMT | I HACKED testphp.vulnweb.com #CyberKalki #infosec | Krivadna | [Read More](https://medium.com/p/212ae043e8e8) |
-| Thu, 18 Sep 2025 02:44:52 GMT | From Pods to Privilege Escalation: My Journey with the K8s-RTA Certification | Tariqalabdullah | [Read More](https://medium.com/p/6220ace5c70f) |
-| Thu, 18 Sep 2025 02:24:06 GMT | Why Europeans Are Obsessed with VPNs for Streaming (The Real Story Behind the Numbers) | rohan kumar | [Read More](https://medium.com/p/ad5a1f0285cf) |
-| Thu, 18 Sep 2025 02:21:28 GMT | Social Engineering and Insider Threats: What’s the Difference? | Elizabeth Ogbeche | [Read More](https://medium.com/p/2f13de3e8d61) |
-| Thu, 18 Sep 2025 02:16:05 GMT | The State of Modern AI: Where We Are and Where We’re Headed — Sanjay Ravigopal | Sanjay Ravigopal | [Read More](https://medium.com/p/eb8395caa2ec) |
