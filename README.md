@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 01:16:23 GMT | Stop Using 777! Learn Linux Permissions the Right Way | Md. Moinul Islam | [Read More](https://medium.com/p/b5d0759700e5) |
+| Thu, 18 Sep 2025 01:11:12 GMT | Oracle WebLogic Remote Code Execution Vulnerability (CVE-2017–10271) | Criminal IP | [Read More](https://medium.com/p/44582a104f72) |
+| Thu, 18 Sep 2025 01:08:24 GMT | Comprehensive Guide to Cybersecurity Frameworks: Insights and Implementation (September 2025) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/a130e33a97e9) |
+| Thu, 18 Sep 2025 01:02:20 GMT | Port Scan Activity | xwxrtxn | [Read More](https://medium.com/p/ee5cd19df604) |
+| Thu, 18 Sep 2025 00:55:59 GMT | Building an Intelligent and Multi-textual NLP Cybersecurity Event Analyzer | Elias Andrade | [Read More](https://medium.com/p/d2f3c75e4e41) |
+| Thu, 18 Sep 2025 00:52:28 GMT | Is AI the New Tower: The Age of god-Makers, Folder-Holders, and the Death of Consensus | Nikki L Russell | [Read More](https://medium.com/p/c91f8006a1a4) |
+| Thu, 18 Sep 2025 00:40:53 GMT | Shai-Hulud: A Self-Replicating Worm Targeting the npm Ecosystem | RealSec.io | [Read More](https://medium.com/p/4dfccd8b3404) |
+| Wed, 17 Sep 2025 23:44:08 GMT | Tired of Forgotten Passwords? The Laziest Guide to Getting Un-Hackable | Udit Narayan (BlogOQA) | [Read More](https://medium.com/p/f798784129b2) |
+| Wed, 17 Sep 2025 23:38:27 GMT | SmartCoder-R1: 보안 인식 그룹 상대 정책 최적화를 통한 안전하고 설명 가능한 스마트 컨트랙트 생성 (SmartCoder-R1: Towards Secure and… | YouShin kim | [Read More](https://medium.com/p/ec27fb873026) |
 | Wed, 17 Sep 2025 23:23:23 GMT | Lab 1: Web cache poisoning with an unkeyed header | Nitika | [Read More](https://medium.com/p/71edcc7006cd) |
 | Wed, 17 Sep 2025 23:10:35 GMT | [TR] Invite Only - TryHackMe | Güven Emre Keskin | [Read More](https://medium.com/p/550b2b48d1c9) |
 | Wed, 17 Sep 2025 23:10:22 GMT | YARA Cheatsheet — Essential reference for malware hunters | Khalil Z. | [Read More](https://medium.com/p/bd5f6fdb312b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 16:16:11 GMT | Crypto and the Comeback of Hostage Capitalism | Perimeter Lab | [Read More](https://medium.com/p/1cc456053d9b) |
 | Wed, 17 Sep 2025 16:14:39 GMT | Issue #243 — Terraform Remote Code Execution, “resource must be replaced”, Designing Terraform… | Anton Babenko | [Read More](https://medium.com/p/6d6822ef5e0a) |
 | Wed, 17 Sep 2025 16:12:09 GMT | Cloud Security Challenges and Solutions | Cyber Security Research | [Read More](https://medium.com/p/b8b5197a32e0) |
-| Wed, 17 Sep 2025 16:11:01 GMT | How I Lost $4,000 to a Crypto Scam: A Hard-Learned Lesson for the Community | cooper | [Read More](https://medium.com/p/e882981cfa5a) |
-| Wed, 17 Sep 2025 16:08:04 GMT | Insecure Design Explained: How Poor Planning Creates Massive Security Risks | CyberSenpai | [Read More](https://medium.com/p/5a029209f1aa) |
-| Wed, 17 Sep 2025 16:05:50 GMT | The Future of Zero Trust Architecture | Cyber Security Research | [Read More](https://medium.com/p/00a791ab5e7b) |
-| Wed, 17 Sep 2025 16:04:55 GMT | Privacy Alert for ChatGPT Users: Delete Old Share Links & Clear Cached Chats | Shah kaif | [Read More](https://medium.com/p/271219d78535) |
-| Wed, 17 Sep 2025 16:02:55 GMT | Chaining Vulnerabilities Tryhackme Writeups | Jawstar | [Read More](https://medium.com/p/327b8c2f827d) |
-| Wed, 17 Sep 2025 16:01:44 GMT | Facilitator’s Notes — Don’t Panic | Agile Decision Games | [Read More](https://medium.com/p/3d54aca8d045) |
-| Wed, 17 Sep 2025 15:58:04 GMT | 5 Warning Signs of Insider Threats | Priyesh | [Read More](https://medium.com/p/b987f734ecc8) |
-| Wed, 17 Sep 2025 15:57:44 GMT | Managing Digital Employees: From API to Agent | Josh Cunningham | [Read More](https://medium.com/p/c446a5d00b7b) |
-| Wed, 17 Sep 2025 15:48:50 GMT | pnpm Just Got Smarter: Delay Risky Installs and Hunt Dependencies Like a Pro | Rakesh Kumar | [Read More](https://medium.com/p/dc62f5e06485) |
