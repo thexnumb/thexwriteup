@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 11:30:01 GMT | This skill is a two-way street. | Martin Abramov | [Read More](https://medium.com/p/a7f5f4455439) |
+| Thu, 18 Sep 2025 11:27:02 GMT | Why Should You Choose a Cybersecurity Course in Kolkata? | Boston Institute kolkata | [Read More](https://medium.com/p/ca5163c9244f) |
+| Thu, 18 Sep 2025 11:23:55 GMT | The “Verified Extension” Illusion: Inside the July 2025 VSCode Flaw That EDR Missed | DarkLayer Security | [Read More](https://medium.com/p/1113801f4717) |
+| Thu, 18 Sep 2025 11:17:10 GMT | How Educational Institutions Benefit from Information Kiosks | Rakesh | [Read More](https://medium.com/p/cca2688d6d82) |
+| Thu, 18 Sep 2025 11:16:16 GMT | How IoT is Transforming Office Security & Access Management | Joven A Rodrigues | [Read More](https://medium.com/p/13ca6864ab10) |
 | Thu, 18 Sep 2025 11:15:15 GMT | Why VAPT is Crucial for Financial Services and Banks | Samita | [Read More](https://medium.com/p/967358bddee2) |
+| Thu, 18 Sep 2025 11:12:19 GMT | Akun Sosial-Media Aman dari Hacker | Syafrizal S Ardiansyah | [Read More](https://medium.com/p/6be1ce850028) |
+| Thu, 18 Sep 2025 11:11:54 GMT | CVE-2025–59050: Exploiting WM_COPYDATA in Greenshot for Local Code Execution | gm0 | [Read More](https://medium.com/p/7ab756372501) |
 | Thu, 18 Sep 2025 11:11:50 GMT | Home Security Cameras In Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/b428d8409ff6) |
 | Thu, 18 Sep 2025 11:10:27 GMT | Kubernetes API Server Security: A Complete Guide for DevOps Engineers | Salwan Mohamed | [Read More](https://medium.com/p/f41943387450) |
+| Thu, 18 Sep 2025 11:09:56 GMT | The Entra ID Flaw That Let Apps Impersonate Anyone, Anywhere | SecurityScout | [Read More](https://medium.com/p/e4de02d65910) |
+| Thu, 18 Sep 2025 11:07:47 GMT | SpamGPT: How AI Is Supercharging Phishing Campaigns | Brittney Ginther | [Read More](https://medium.com/p/c0baa0f03441) |
 | Thu, 18 Sep 2025 11:04:55 GMT | Why is a Night Security Guard Necessary in Gurgaon | Pinki Chauhan | [Read More](https://medium.com/p/9409305e629d) |
 | Thu, 18 Sep 2025 11:04:48 GMT | The World War Q | ComsignTrust LTD | [Read More](https://medium.com/p/d6d089de40ed) |
 | Thu, 18 Sep 2025 11:01:45 GMT | Viren, Trojaner, Ransomware — so schützen Sie Ihre IT - norix.at | Norix IT-Support & Webdesign | [Read More](https://medium.com/p/76d0f0976b80) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 08:01:52 GMT | Identification and Authentication Failures: Why Weak Logins Still Break Security | CyberSenpai | [Read More](https://medium.com/p/343fa9135639) |
 | Thu, 18 Sep 2025 08:01:48 GMT | The Secret Weapons That Separate Bash Beginners from Command Line Legends | MayhemCode | [Read More](https://medium.com/p/063c17ec72c5) |
 | Thu, 18 Sep 2025 07:53:36 GMT | Zero-Day AI Attacks Are Coming: How Startups Must Prepare Now | Startuped | [Read More](https://medium.com/p/afcb30766efb) |
-| Thu, 18 Sep 2025 07:44:17 GMT | Stopping NPM Supply Chain Attacks: How AI Can Help | Ayan Ghoshal | [Read More](https://medium.com/p/992a9a9cf54d) |
-| Thu, 18 Sep 2025 07:41:49 GMT | You’re using GPT-5 wrong for hacking. Here’s how to be ahead of 99% of bug hunters | Satyam Pathania | [Read More](https://medium.com/p/db96ee3587e7) |
-| Thu, 18 Sep 2025 07:40:56 GMT | Is Your Digital Life Ready for the Quantum Shake-Up? What People Need to Know in 2025 | Bobby Andrews | [Read More](https://medium.com/p/bf4ef9dd5928) |
-| Thu, 18 Sep 2025 07:40:21 GMT | Do You Really Need Coding for Cybersecurity? | Muhammad Haider Tallal | [Read More](https://medium.com/p/3f63ee79a54f) |
-| Thu, 18 Sep 2025 07:39:21 GMT | Cracking Forensics CTFs 2.0 — picoCTF | Swetha | [Read More](https://medium.com/p/c2ee4c9cb462) |
-| Thu, 18 Sep 2025 07:38:59 GMT | Broken JWTs, Open Doors: How I Turned ‘None’ Algorithm into Full Admin Access | Iski | [Read More](https://medium.com/p/d78113df7ef5) |
-| Thu, 18 Sep 2025 07:37:45 GMT | Log Forensics in Cyber Incidents: The Art of Tracing Evidence | Esra Kayhan | [Read More](https://medium.com/p/c866011fda9a) |
-| Thu, 18 Sep 2025 07:33:20 GMT | Hacking in 2025: Inside the Human Arms Race of Cyber Attacks and Defense — By VIEH Security… | VIEH Security Research Team | [Read More](https://medium.com/p/ee544322fa0b) |
-| Thu, 18 Sep 2025 07:26:22 GMT | How I Went From Script Kiddie to Security Engineer: My Hacking Journey | Aj | [Read More](https://medium.com/p/b34292143d79) |
