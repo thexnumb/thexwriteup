@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 14:36:32 GMT | Kerberoasting | SeverSerenity | [Read More](https://medium.com/p/c7b6ff3f8925) |
+| Thu, 18 Sep 2025 14:25:20 GMT | How I Recovered My Company’s Compromised AWS Account | Prabhash Umesha | [Read More](https://medium.com/p/5ed12a459bbe) |
+| Thu, 18 Sep 2025 14:22:53 GMT | The Restaking Revolution: EigenLayer Boosting Yield & Security | Ancilar Technologies | [Read More](https://medium.com/p/8c4a8c5f3a03) |
+| Thu, 18 Sep 2025 14:20:52 GMT | From Drift to Defense: A Practical Guide to Immutable Infrastructure | Udit Narayan (BlogOQA) | [Read More](https://medium.com/p/f6c99e32fb32) |
 | Thu, 18 Sep 2025 14:14:06 GMT | MCP Servers Are the New Shadow APIs | Rajesh Devadasan | [Read More](https://medium.com/p/e24a6a598b4b) |
 | Thu, 18 Sep 2025 14:13:58 GMT | Is AI Going to Take Over the World? | O Código Futuro | [Read More](https://medium.com/p/4eeb170fd0dd) |
+| Thu, 18 Sep 2025 14:12:11 GMT | Emotionally Stable Women: Nurtured by a Harmonious Family Atmosphere | Fower Leo | [Read More](https://medium.com/p/d33d10ce39fd) |
 | Thu, 18 Sep 2025 14:11:48 GMT | Public Safety Communications Market Deep Research with Forecast By 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/23b4ed12da7d) |
+| Thu, 18 Sep 2025 14:10:07 GMT | Oski Lab — Walkthrough | Nitish Agrawal | [Read More](https://medium.com/p/0c981453ab38) |
+| Thu, 18 Sep 2025 14:08:37 GMT | Exploiting a mass assignment vulnerability. — Api Testing | Nitish Agrawal | [Read More](https://medium.com/p/41e2b87e55e3) |
+| Thu, 18 Sep 2025 14:07:24 GMT | SANS FOR610: My Personal Notes | Emad Abedini | [Read More](https://medium.com/p/17314993f92b) |
 | Thu, 18 Sep 2025 14:06:45 GMT | The $50M Security Hole in Your CI/CD Pipeline (And How to Fix It Before Attackers Find It) | Heinancabouly | [Read More](https://medium.com/p/9a1308fbb3dc) |
 | Thu, 18 Sep 2025 14:02:42 GMT | Top 5 Workplace Safety Fails from TV: How Tec-Tel’s AI Tech Would Have Saved the Day | Tec-Tel Communications | [Read More](https://medium.com/p/ab3103f3fc04) |
 | Thu, 18 Sep 2025 14:01:52 GMT | The Strength I Never Wanted | TheWanderingMind | [Read More](https://medium.com/p/26499fbb1d03) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 10:47:57 GMT | From the Altar to the Cloud: A Timeless Guide to Handling Human Error | Shimon Rothschild CISSP | [Read More](https://medium.com/p/acc76e195b5e) |
 | Thu, 18 Sep 2025 10:46:02 GMT | Best Field Force Management Software In India - Track Your Field Operations | Gowthammathiew | [Read More](https://medium.com/p/e278d861b940) |
 | Thu, 18 Sep 2025 10:43:50 GMT | WiFi vs Data Seluler, Mana yang Lebih Cocok untuk Kebutuhanmu? | Alzar Mahira Muhamad Nur Imansyah | [Read More](https://medium.com/p/2fab4600d050) |
-| Thu, 18 Sep 2025 10:40:46 GMT | URGENT SECURITY ALERT: Critical Vulnerability in Adobe Commerce & Magento Open Source Platforms | i95Dev | [Read More](https://medium.com/p/0fb952bcd496) |
-| Thu, 18 Sep 2025 10:38:24 GMT | Hidden, Persistent Editor: a business-logic flaw I love. | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/25a742f4d6c3) |
-| Thu, 18 Sep 2025 10:38:03 GMT | From Casual Scrolling to Bug Bounty: My Unexpected Instagram Bug | errorsec_ | [Read More](https://medium.com/p/960f76383f72) |
-| Thu, 18 Sep 2025 10:37:39 GMT | Privilege Escalation (Viewer → Owner) — Bypass of Their Fix | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/ad59a1a12fd6) |
-| Thu, 18 Sep 2025 10:36:51 GMT | Exposed CI/CD Secrets: How Leaked Tokens Can Poison the Software Supply Chain | Vaishnav Gnair | [Read More](https://medium.com/p/452817720fb8) |
-| Thu, 18 Sep 2025 10:33:47 GMT | How Cyber Security Training Can Boost Your Career Field | Win In Life Academy | [Read More](https://medium.com/p/d2a377730e4d) |
-| Thu, 18 Sep 2025 10:33:24 GMT | HeartBleed | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/af71afec9fc3) |
-| Thu, 18 Sep 2025 10:32:15 GMT | Jenkins Under Fire: The Quiet Trio of CVEs That Could Undermine Your CI/CD Pipeline | gm0 | [Read More](https://medium.com/p/9fdd3452a065) |
