@@ -12,11 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 18:40:06 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART V | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/db0355cae9af) |
+| Thu, 18 Sep 2025 18:40:00 GMT | Vanguard Security Alert: Critical Microsoft Office for Mac Vulnerability (CVE-2025–54910) | Cloudonomics | [Read More](https://medium.com/p/e453769d1d33) |
+| Thu, 18 Sep 2025 18:39:49 GMT | Hunting Threats in the Software Supply Chain: A Practical Guide | f0xy_pr0xy | [Read More](https://medium.com/p/b8a15b1fb36b) |
+| Thu, 18 Sep 2025 18:38:28 GMT | Double Trouble: How Two September Attacks (Including the “Shai-Hulud” Worm) Compromised 500+ NPM… | Sanket Chaudhari | [Read More](https://medium.com/p/c906b661ff4f) |
+| Thu, 18 Sep 2025 18:33:10 GMT | OWASP Juice Shop Challenge : Confidential Document | theOrthodox | [Read More](https://medium.com/p/a23f6693f571) |
+| Thu, 18 Sep 2025 18:30:38 GMT | Why Local Hosting in Romania Could Be Your Hidden Advantage in the Digital Era | MioriticHost | [Read More](https://medium.com/p/8c790f8610af) |
+| Thu, 18 Sep 2025 18:30:08 GMT | Free Burgers or Millions Protected? How a Password Reset Bug Put Millions at Risk | Ahmad Mansour | [Read More](https://medium.com/p/4a4de39ffbae) |
 | Thu, 18 Sep 2025 18:25:50 GMT | How I Built My First SIEM Detections | Garv Kamra | [Read More](https://medium.com/p/7de341cd4d36) |
 | Thu, 18 Sep 2025 18:22:30 GMT | The Forgotten Art of Password Management: Why We’re Still Getting It Wrong | Tim_Idd | [Read More](https://medium.com/p/92ec5d8eefbb) |
 | Thu, 18 Sep 2025 18:21:44 GMT | How do I use git? | Seven | [Read More](https://medium.com/p/b1aef614dfc8) |
 | Thu, 18 Sep 2025 18:21:00 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART IV | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/f5e8801c0c9a) |
 | Thu, 18 Sep 2025 18:20:17 GMT | Melt into You | WinterWindow | [Read More](https://medium.com/p/ae1105daaa68) |
+| Thu, 18 Sep 2025 18:18:59 GMT | Day 24: Deep Dive into Amazon Elastic Block Store (EBS) | Prutha_Dongre | [Read More](https://medium.com/p/e69ffd728f8c) |
 | Thu, 18 Sep 2025 18:11:27 GMT | How a PID Manipulation Flaw in Sephora Brazil Led to Free High-Value Products | Breno Felipe | [Read More](https://medium.com/p/a14cbd4b444f) |
 | Thu, 18 Sep 2025 18:05:30 GMT | When Your Car Becomes a Hacker’s Gateway to Your Phone | Anas Al Rawi | [Read More](https://medium.com/p/329019178dc8) |
 | Thu, 18 Sep 2025 18:01:46 GMT | $5,000 por este RCE en Netflix: subida de PHP camuflado como GIF | Gorka | [Read More](https://medium.com/p/cfaec6c75683) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 13:32:03 GMT | Why Nuclear Security is Important in an Industry | Wem'Afrika | [Read More](https://medium.com/p/8d876cc5bc6d) |
 | Thu, 18 Sep 2025 13:31:25 GMT | The Role of Ethical Hackers in Modern Organizations | Nagaraj | [Read More](https://medium.com/p/a6e159e9a99e) |
 | Thu, 18 Sep 2025 13:27:50 GMT | The Hidden Battle | OEE IntelliSuite | [Read More](https://medium.com/p/96f069f943b7) |
-| Thu, 18 Sep 2025 13:27:34 GMT | PG Practice — ZenPhoto (Linux) | Lepton | [Read More](https://medium.com/p/bf6cdf2f56c0) |
-| Thu, 18 Sep 2025 13:26:50 GMT | Day 5: Nmap 101 — Let’s Knock on Some Digital Doors | Viratavi | [Read More](https://medium.com/p/e7bbb712a9ea) |
-| Thu, 18 Sep 2025 13:20:29 GMT | Cybersecurity News TL;DR — 09/18/2025 | Chandler Williams | [Read More](https://medium.com/p/68420164f2c9) |
-| Thu, 18 Sep 2025 13:14:22 GMT | Strange Antiquities Download | Saifalrehmans | [Read More](https://medium.com/p/6c2ad2c706d9) |
-| Thu, 18 Sep 2025 13:14:16 GMT | Port Scan Activity (EN) | xwxrtxn | [Read More](https://medium.com/p/4c7e14928c1e) |
-| Thu, 18 Sep 2025 13:13:18 GMT | Is Your LLM Application Safe? Don’t Ship Until You Read This | S3CloudHub | [Read More](https://medium.com/p/0aeed7d2ea03) |
-| Thu, 18 Sep 2025 13:08:16 GMT | How Security Guards Identify Threats: What They’re Trained To Spot | Sentrysofficers | [Read More](https://medium.com/p/496a70628cb5) |
-| Thu, 18 Sep 2025 13:07:38 GMT | 人工智能新时代：代理、自主与治理 | Jiyao Weng | [Read More](https://medium.com/p/c062569107cf) |
