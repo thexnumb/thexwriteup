@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 12:24:17 GMT | CISSP Training Online at Cybernous: Your Gateway to Global Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/bf9f787ef86e) |
+| Thu, 18 Sep 2025 12:23:25 GMT | APT Down – An Analytical Examination of the Kimsuky Leak | David SEHYEON Baek | [Read More](https://medium.com/p/3eabb18e0683) |
+| Thu, 18 Sep 2025 12:22:43 GMT | Hypothesis: White Holes as Invisible Engines of Cosmic Regeneration | Zayn shadow | [Read More](https://medium.com/p/4dbd8c512c78) |
+| Thu, 18 Sep 2025 12:21:15 GMT | Cron Jobs Gone Wild II | Dharmendrakumar | [Read More](https://medium.com/p/f4b4acaef158) |
+| Thu, 18 Sep 2025 12:17:52 GMT | Valley (Easy) CTF — TryHackMe Writeup | Error | [Read More](https://medium.com/p/42f81a032083) |
+| Thu, 18 Sep 2025 12:16:18 GMT | TryHackMe #27 - Networking Secure Protocols | 0xGroot | [Read More](https://medium.com/p/41e631e75c4d) |
+| Thu, 18 Sep 2025 12:12:59 GMT | MistTrack: Free AML Screening for USDT and Other Cryptocurrencies | Andrew Stocktan | [Read More](https://medium.com/p/9dd9b1eb0686) |
+| Thu, 18 Sep 2025 12:12:57 GMT | Every Dangerous AI-Powered Hacking Tool Explained | Shahzaib | [Read More](https://medium.com/p/4d09bed45cea) |
+| Thu, 18 Sep 2025 12:11:50 GMT | TryHackMe #26 - Networking Core Protocols | 0xGroot | [Read More](https://medium.com/p/8a351c0a3861) |
+| Thu, 18 Sep 2025 12:08:29 GMT | Yurei Ransomware: A Technical Breakdown of the Emerging Double-Extortion Threat | Rue | [Read More](https://medium.com/p/e19f641dfd33) |
+| Thu, 18 Sep 2025 12:08:16 GMT | Fun in DEFCON 33 | VXRL | [Read More](https://medium.com/p/cc193d10c078) |
+| Thu, 18 Sep 2025 12:07:43 GMT | TryHackMe #25 - Networking Essentials | 0xGroot | [Read More](https://medium.com/p/daabf97773a1) |
+| Thu, 18 Sep 2025 12:04:49 GMT | Как компании теряют миллионы из-за DDoS-атак и что реально работает для защиты | Julia Smirnova | [Read More](https://medium.com/p/3b8f451e6f84) |
+| Thu, 18 Sep 2025 12:02:59 GMT | Joomla 4.2.7 RCE: Administrator Dashboard ile Reverse Shell Rehberi | Emirhan Özgen | [Read More](https://medium.com/p/77c2884d563c) |
+| Thu, 18 Sep 2025 12:01:50 GMT | TryHackMe #24 - Networking Concepts | 0xGroot | [Read More](https://medium.com/p/c28a5a792d5d) |
+| Thu, 18 Sep 2025 11:59:12 GMT | Lessons Learned from the Massive npm Supply-Chain Attack Using the “Shai-Hulud” Self-Replicating… | gm0 | [Read More](https://medium.com/p/e6a3eb1120ca) |
+| Thu, 18 Sep 2025 11:54:10 GMT | Allowlist Bypass : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/2e4511a2bbff) |
+| Thu, 18 Sep 2025 11:52:49 GMT | HTTP-Header XSS : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/76abd609e879) |
+| Thu, 18 Sep 2025 11:47:21 GMT | Mastering Reconnaissance Techniques: A Step-by-Step Guide to Uncovering Digital Assets | BHUWAM DIXIT | [Read More](https://medium.com/p/04d6a1535676) |
+| Thu, 18 Sep 2025 11:42:55 GMT | Unpacking TLS: A Deep Dive into TLS Record | Techleadgurdeepgill | [Read More](https://medium.com/p/35fe130adc80) |
+| Thu, 18 Sep 2025 11:42:21 GMT | Why Some Men Need to Stop Sending DMs to Women They Don’t Know | Dr. Pamela Ramirez, PsyD, PhD, MD | [Read More](https://medium.com/p/239f820407f0) |
+| Thu, 18 Sep 2025 11:41:15 GMT | OWASP Juice Shop: Broken Access Control-Finding the Web3 Sandbox Path | Risskian | [Read More](https://medium.com/p/32db7cf04851) |
+| Thu, 18 Sep 2025 11:41:04 GMT | Real-Time Security Insights: How Report Analytics Transforms Smarter, Safer Decisions | ICORP Security | [Read More](https://medium.com/p/69218812ef47) |
 | Thu, 18 Sep 2025 11:30:01 GMT | This skill is a two-way street. | Martin Abramov | [Read More](https://medium.com/p/a7f5f4455439) |
 | Thu, 18 Sep 2025 11:27:02 GMT | Why Should You Choose a Cybersecurity Course in Kolkata? | Boston Institute kolkata | [Read More](https://medium.com/p/ca5163c9244f) |
 | Thu, 18 Sep 2025 11:23:55 GMT | The “Verified Extension” Illusion: Inside the July 2025 VSCode Flaw That EDR Missed | DarkLayer Security | [Read More](https://medium.com/p/1113801f4717) |
@@ -73,6 +96,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 09:16:52 GMT | Critical Flaw Hits Samsung Galaxy Phones | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/5e133489fae7) |
 | Thu, 18 Sep 2025 09:13:37 GMT | Sea CTF Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/d55e52b37efc) |
 | Thu, 18 Sep 2025 09:13:27 GMT | PWN/Binary Exploitation HIDC 2025 | xpl0dec | [Read More](https://medium.com/p/ab3569e3e3b9) |
+| Thu, 18 Sep 2025 09:10:36 GMT | Can You Make Money Selling Your Own Data (Yourself) on the Dark Web? | Navkiran Dhaliwal | [Read More](https://medium.com/p/5015e00e8c37) |
 | Thu, 18 Sep 2025 09:09:39 GMT | Vulnerability Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/880f3897e194) |
 | Thu, 18 Sep 2025 09:08:00 GMT | Apple MDM Software vs Intune: Which Wins? | Vantage MDM | [Read More](https://medium.com/p/022116c8cdd5) |
 | Thu, 18 Sep 2025 09:07:51 GMT | HackTheBox: Previous (Medium) — Walkthrough | Binary Exploiter | [Read More](https://medium.com/p/ae3d2e29b333) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 08:54:09 GMT | AI in Cybersecurity: Stop 90% of Cyber Attacks Before They Even Start | SecureSlate | [Read More](https://medium.com/p/ba545936cba5) |
 | Thu, 18 Sep 2025 08:52:22 GMT | CCTV Camera Installation Service in Humayun Road, Mohammadpur Dhaka | optimationbd | [Read More](https://medium.com/p/f19a289b8ebe) |
 | Thu, 18 Sep 2025 08:51:49 GMT | How PASETO Could Save Your PHP API from the Next Breach | Asian Digital Hub | [Read More](https://medium.com/p/7bd50d24facb) |
-| Thu, 18 Sep 2025 08:51:17 GMT | crackmes.one: Simple crackme | Sourav Bose | [Read More](https://medium.com/p/478224f6cc3a) |
-| Thu, 18 Sep 2025 08:50:28 GMT | Data Privacy in the Modern World | Cyber Security Research | [Read More](https://medium.com/p/09bf4873e498) |
-| Thu, 18 Sep 2025 08:50:27 GMT | PHP Auth Without Cookies Is the Future Nobody Saw Coming | Asian Digital Hub | [Read More](https://medium.com/p/8e532d15e6c8) |
-| Thu, 18 Sep 2025 08:48:19 GMT | The Story of My BSIT Student years at TUPT: Learning, Hardships and Development. | Ian Gabriel Calica | [Read More](https://medium.com/p/9f178ecf5fd1) |
-| Thu, 18 Sep 2025 08:44:18 GMT | Anthropic substituted my chats and stigmatised me as a person with mental disorders, which I do not… | Mila Rada | [Read More](https://medium.com/p/4d6d79c8d9d7) |
-| Thu, 18 Sep 2025 08:43:59 GMT | I forgot my MacBook password before a meeting-this is how to recover it fast | Olena Khodos | [Read More](https://medium.com/p/6327f5f393f3) |
-| Thu, 18 Sep 2025 08:43:55 GMT | MPC Doesn’t Save You From Your Private API | OKcontract | [Read More](https://medium.com/p/a6a540275d17) |
-| Thu, 18 Sep 2025 08:43:40 GMT | Blockchain and Cybersecurity Applications | Cyber Security Research | [Read More](https://medium.com/p/b1a6fd2df88c) |
-| Thu, 18 Sep 2025 08:42:41 GMT | Security Advisory — Multiple Vulnerabilities in LB-link BL-W1210M Router ​ | Redfox Security | [Read More](https://medium.com/p/572a45142212) |
-| Thu, 18 Sep 2025 08:41:58 GMT | Hack iCloud - Tips - Apple - Hacking Services | BlackHat | [Read More](https://medium.com/p/987c6c7d8393) |
-| Thu, 18 Sep 2025 08:38:09 GMT | CyberSecurity Home Lab for Penetration Testing | Tazbik Islam | [Read More](https://medium.com/p/e8fdd4292670) |
-| Thu, 18 Sep 2025 08:36:49 GMT | Plastic Bullets Market to Expand by 2031 Amid Rising Security Demands | devin smith | [Read More](https://medium.com/p/253459ee217c) |
-| Thu, 18 Sep 2025 08:34:53 GMT | Cybersecurity Education in Nigerian Secondary Schools. | Sarah Atuaka | [Read More](https://medium.com/p/dd9e3ee17c19) |
-| Thu, 18 Sep 2025 08:31:07 GMT | SSI IT Cyber Security Specialists Barcelona - Expert IT Protection & Consulting Services | Public | [Read More](https://medium.com/p/eae58730b3d7) |
-| Thu, 18 Sep 2025 08:29:54 GMT | AdminPanel CTF Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/353b02f33973) |
-| Thu, 18 Sep 2025 08:13:38 GMT | I Almost Lost My Dream Job Because I Didn’t Know Ethical Hacking — Here’s How I Turned It Around | JetkingChandigarh | [Read More](https://medium.com/p/58c076737ff3) |
-| Thu, 18 Sep 2025 08:11:17 GMT | Mastering Virtualisation: A Comprehensive Guide to Building Your Cybersecurity Lab | Harry Ouaida | [Read More](https://medium.com/p/612e0e9d08de) |
-| Thu, 18 Sep 2025 08:09:32 GMT | ประจำวันพฤหัสบดีที่ 18 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/03d1c55a1f8d) |
-| Thu, 18 Sep 2025 08:05:44 GMT | Bandit Walkthrough Level 0 | Hardik Ghuge | [Read More](https://medium.com/p/ddfe14762f79) |
-| Thu, 18 Sep 2025 08:04:07 GMT | Linux Security Tricks Everyone Should Know | Frost | [Read More](https://medium.com/p/c2ac27d9d7e6) |
-| Thu, 18 Sep 2025 08:02:25 GMT | Trojan Models: when a “helpful” public model hides a backdoor | Avinash Kumar | [Read More](https://medium.com/p/8e0e69b86508) |
-| Thu, 18 Sep 2025 08:01:52 GMT | Identification and Authentication Failures: Why Weak Logins Still Break Security | CyberSenpai | [Read More](https://medium.com/p/343fa9135639) |
-| Thu, 18 Sep 2025 08:01:48 GMT | The Secret Weapons That Separate Bash Beginners from Command Line Legends | MayhemCode | [Read More](https://medium.com/p/063c17ec72c5) |
-| Thu, 18 Sep 2025 07:53:36 GMT | Zero-Day AI Attacks Are Coming: How Startups Must Prepare Now | Startuped | [Read More](https://medium.com/p/afcb30766efb) |
