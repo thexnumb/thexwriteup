@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 06:13:25 GMT | I Developed an Algorithm for Vulnerability | Kratagya Tripathi | [Read More](https://medium.com/p/5589fddb3583) |
+| Thu, 18 Sep 2025 06:13:02 GMT | Google is Under Fire, and No One can Find an Extinguisher | Shamim Rajani | [Read More](https://medium.com/p/9ee536360a47) |
+| Thu, 18 Sep 2025 06:11:45 GMT | Generative AI use case for Penetration Testing | cyber_pix | [Read More](https://medium.com/p/ec06d43c4377) |
+| Thu, 18 Sep 2025 06:01:03 GMT | Bell Launches Bell Cyber With AI-Powered Security Operations | SafetyDetectives Research Team | [Read More](https://medium.com/p/f1bf8f4c22eb) |
+| Thu, 18 Sep 2025 06:00:48 GMT | Custom Software Development: Why It’s the Smarter Choice for Modern Businesses | Innerworks International | [Read More](https://medium.com/p/e78b9247829c) |
+| Thu, 18 Sep 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Sep 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0315e0231949) |
+| Thu, 18 Sep 2025 06:00:27 GMT | The Windows Process Journey — vmms.exe (Hyper-V Virtual Machine Management Service) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6089ef800a92) |
+| Thu, 18 Sep 2025 05:59:03 GMT | CVE-2025–55912 — ClipBucket ≤ 5.5.0 — Unauthenticated Arbitrary File Upload → RCE | Mukundsinh Solanki | [Read More](https://medium.com/p/720c0c0fbc58) |
+| Thu, 18 Sep 2025 05:58:05 GMT | Senator Wyden Urges FTC to Probe Microsoft Over Ransomware Breach | SafetyDetectives Research Team | [Read More](https://medium.com/p/c50f6ed7f968) |
+| Thu, 18 Sep 2025 05:58:02 GMT | How to Read WHOIS Data for Recon | Vivek Bhatt | [Read More](https://medium.com/p/7e544f509473) |
+| Thu, 18 Sep 2025 05:57:05 GMT | Why Leading CISOs Choose BUFFERZONE® for Advanced Endpoint Protection | Loren Rozenbloom | [Read More](https://medium.com/p/cb61fdec2eea) |
+| Thu, 18 Sep 2025 05:56:04 GMT | Ex-WhatsApp Security Chief Sues Meta Over Alleged User Data Risks | SafetyDetectives Research Team | [Read More](https://medium.com/p/7542802f0843) |
+| Thu, 18 Sep 2025 05:54:32 GMT | CyberQuizPro.com: Making Learning Fun Again | Endrit Saiti | [Read More](https://medium.com/p/fc5cf9dec72e) |
+| Thu, 18 Sep 2025 05:52:06 GMT | From POC to Production: Hardening Your BIM Microservices Architecture | AlterSquare | [Read More](https://medium.com/p/636e94b7e64e) |
+| Thu, 18 Sep 2025 05:49:51 GMT | Realme P4 and P4 Pro 5G Launch 2025: Everything We Know | Alice Doyle | [Read More](https://medium.com/p/d1f28ec61759) |
+| Thu, 18 Sep 2025 05:47:09 GMT | Meta Pool’s NEAR Contract Passes Resonance Review | metapool.near | [Read More](https://medium.com/p/569f70f7d89f) |
+| Thu, 18 Sep 2025 05:45:14 GMT | Indiluck Game customer care helpline number❌ 9238652455 ☑️✔️ call me — indiluck गेम कस्टमर केयर… | Indiluck Game customer care helpline number❌ 923 | [Read More](https://medium.com/p/e2f0fc6443e1) |
+| Thu, 18 Sep 2025 05:43:55 GMT | Manipulating Access Tokens: How Adversaries Leverage Windows Security Contexts | Itz.sanskarr | [Read More](https://medium.com/p/2bf7ed38e55f) |
+| Thu, 18 Sep 2025 05:41:44 GMT | Why Do Computer Bugs Get Called ‘Bugs’? The Strange Origin Story | Developer Hub | [Read More](https://medium.com/p/12c3ede24471) |
+| Thu, 18 Sep 2025 05:41:19 GMT | CVE-2025–55911 — ClipBucket 5.5.2 Build #90 — SSRF via upload/actions/file_downloader.php | Mukundsinh Solanki | [Read More](https://medium.com/p/eb49dc02bd6f) |
+| Thu, 18 Sep 2025 05:40:54 GMT | OWASP Broken Access Control Room Walkthrough - TryHackMe | ClaudioXXX | [Read More](https://medium.com/p/01128c11ad04) |
 | Thu, 18 Sep 2025 05:30:05 GMT | DOUBLEWIN189 | Melianiimelda | [Read More](https://medium.com/p/8a869a106af6) |
 | Thu, 18 Sep 2025 05:21:44 GMT | What Is the Difference Between Laser and Inkjet Printers? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/fa7ceb134ef3) |
 | Thu, 18 Sep 2025 05:18:54 GMT | How Server Location Affects Website Performance | HostNOC | [Read More](https://medium.com/p/159536b00570) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 21:17:10 GMT | Update on Cybersecurity and AI | Mike Temkin | [Read More](https://medium.com/p/506eee67b808) |
 | Wed, 17 Sep 2025 21:11:25 GMT | Because life, despite all the weeds, only sprouts when watered. | Mevsim | [Read More](https://medium.com/p/a941ae9d8212) |
 | Wed, 17 Sep 2025 21:04:32 GMT | When Intruders Sneak In, EDR Is the Watchdog That Never Sleeps | Chris Zhang | [Read More](https://medium.com/p/494efa55f789) |
-| Wed, 17 Sep 2025 20:51:45 GMT | Zero Trust Network Architecture: A New Paradigm for Modern Security | Esra Kayhan | [Read More](https://medium.com/p/641c9b2ea0bd) |
-| Wed, 17 Sep 2025 20:41:46 GMT | ☁️ Google Cloud Platform Security: Risks and Mitigations in Modern Cloud Environments | Esra Kayhan | [Read More](https://medium.com/p/7b74f889afa7) |
-| Wed, 17 Sep 2025 20:36:21 GMT | I Built My Own Vulnerability Scanner (And Made It Pink) | Devanshi Chavda | [Read More](https://medium.com/p/247aa602cd4c) |
-| Wed, 17 Sep 2025 20:29:50 GMT | “Some Assembly Required 3” challenge | oussama | [Read More](https://medium.com/p/1a954e53fb51) |
-| Wed, 17 Sep 2025 20:19:59 GMT | Anti-Bot Evasion | Yüksel Coşgun | [Read More](https://medium.com/p/41ddba70434b) |
-| Wed, 17 Sep 2025 20:15:43 GMT | AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns | Ryan Cronin | [Read More](https://medium.com/p/3f487643bab6) |
-| Wed, 17 Sep 2025 20:10:42 GMT | Why Quantum Computing makes Cybersecurity more important than ever before. | Matthew Winn | [Read More](https://medium.com/p/1dca51549d73) |
-| Wed, 17 Sep 2025 19:44:42 GMT | The Role of Security Guards in Business Protection | Nimra Sheikh | [Read More](https://medium.com/p/293caa977c39) |
-| Wed, 17 Sep 2025 19:43:06 GMT | The Best Free Learning Resources for New Bug Hunters | Andrei Ivan | [Read More](https://medium.com/p/a0498ed19e72) |
-| Wed, 17 Sep 2025 19:41:43 GMT | How to Conduct a Cybersecurity Risk Assessment for Industrial Control Systems (ICS) | Cyberkech | [Read More](https://medium.com/p/ba31e7a4e9e4) |
-| Wed, 17 Sep 2025 19:34:03 GMT | TryHackMe - Linux Logging Writeup | Samuel McLamb | [Read More](https://medium.com/p/1a33d3be6c18) |
-| Wed, 17 Sep 2025 19:32:20 GMT | Zero-Days on the Loose: When Hackers Strike Before the Patch | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/1b6f163b422b) |
-| Wed, 17 Sep 2025 19:31:42 GMT | Native Apps Reimagined: Why Tauri, Rust, and Svelte is My Go-To Stack in 2025 | Puneet | [Read More](https://medium.com/p/209f5b2937a1) |
-| Wed, 17 Sep 2025 19:24:17 GMT | SMB Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/6a7573858f9e) |
-| Wed, 17 Sep 2025 19:23:54 GMT | The Biometric Fortress: Securely Storing and Retrieving Data in Swift with Keychain and the Secure… | ElAmir Mansour | [Read More](https://medium.com/p/299254399d97) |
-| Wed, 17 Sep 2025 19:21:12 GMT | OWASP Juice Shop Challenge : Zero Rating | theOrthodox | [Read More](https://medium.com/p/cc4ff83629f2) |
-| Wed, 17 Sep 2025 19:20:32 GMT | How to Implement Network Security Protocols | Hum Ble | [Read More](https://medium.com/p/9b437208ef7e) |
-| Wed, 17 Sep 2025 19:18:46 GMT | How to Survive the Next Wave of Cybersecurity Layoffs | Taimur Ijlal | [Read More](https://medium.com/p/1d9e9a9d0ac4) |
-| Wed, 17 Sep 2025 19:13:50 GMT | How to Start Bug Bounty Learning Journey with Hack The Box | Rashadul Islam | [Read More](https://medium.com/p/277f92d8150e) |
-| Wed, 17 Sep 2025 19:11:45 GMT | The Portfolio That Got Me Hired at FAANG: A Breakdown | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/589df50dac6d) |
-| Wed, 17 Sep 2025 19:10:59 GMT | iPhone 17 Pro Max Test | Julia Ahrens | [Read More](https://medium.com/p/8ab840f43ecd) |
