@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 20:28:23 GMT | Advanced OAuth Secrets Leads To Account Takeover(ATO) | Mado | [Read More](https://medium.com/p/42ff288a7763) |
+| Thu, 18 Sep 2025 20:23:02 GMT | AI in Cybersecurity Is Neither a Differentiator nor a Game Changer — It’s Simply a Must-Have | David SEHYEON Baek | [Read More](https://medium.com/p/7cd392bd0f90) |
+| Thu, 18 Sep 2025 20:20:12 GMT | SPF, Sandboxes, and Security Guards: The 4 Ways We Fight Phishing Now | Chris Zhang | [Read More](https://medium.com/p/ad045e8e273a) |
+| Thu, 18 Sep 2025 20:16:01 GMT | Exploring Microsoft Sentinel: Enhancing Your Security with Threat Intelligence | Vedant Tapdiya | [Read More](https://medium.com/p/b1a3787a17fe) |
 | Thu, 18 Sep 2025 20:04:06 GMT | Smart Contract Security Analysis: Technical Workflow and Methodologies | SR | [Read More](https://medium.com/p/6a8e62ca9040) |
 | Thu, 18 Sep 2025 20:02:03 GMT | Build Your Ultimate Bug Bounty Recon Server for FREE with Oracle Cloud | Shubham Khanna | [Read More](https://medium.com/p/7b51d0cc2440) |
 | Thu, 18 Sep 2025 19:50:10 GMT | Zero to Hacker: How a Cybersecurity Bootcamp Can Change Your Career | Smith Adams | [Read More](https://medium.com/p/8db6e33c171c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 14:08:37 GMT | Exploiting a mass assignment vulnerability. — Api Testing | Nitish Agrawal | [Read More](https://medium.com/p/41e2b87e55e3) |
 | Thu, 18 Sep 2025 14:07:24 GMT | SANS FOR610: My Personal Notes | Emad Abedini | [Read More](https://medium.com/p/17314993f92b) |
 | Thu, 18 Sep 2025 14:06:45 GMT | The $50M Security Hole in Your CI/CD Pipeline (And How to Fix It Before Attackers Find It) | Heinancabouly | [Read More](https://medium.com/p/9a1308fbb3dc) |
-| Thu, 18 Sep 2025 14:02:42 GMT | Top 5 Workplace Safety Fails from TV: How Tec-Tel’s AI Tech Would Have Saved the Day | Tec-Tel Communications | [Read More](https://medium.com/p/ab3103f3fc04) |
-| Thu, 18 Sep 2025 14:01:52 GMT | The Strength I Never Wanted | TheWanderingMind | [Read More](https://medium.com/p/26499fbb1d03) |
-| Thu, 18 Sep 2025 14:01:52 GMT | Tender | Kevin David Crowley | [Read More](https://medium.com/p/0e372bd8c3a7) |
-| Thu, 18 Sep 2025 14:01:51 GMT | Cyber Briefing: 2025.09.18 | CyberMaterial | [Read More](https://medium.com/p/8f44af871817) |
