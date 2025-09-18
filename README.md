@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 20:04:06 GMT | Smart Contract Security Analysis: Technical Workflow and Methodologies | SR | [Read More](https://medium.com/p/6a8e62ca9040) |
+| Thu, 18 Sep 2025 20:02:03 GMT | Build Your Ultimate Bug Bounty Recon Server for FREE with Oracle Cloud | Shubham Khanna | [Read More](https://medium.com/p/7b51d0cc2440) |
+| Thu, 18 Sep 2025 19:50:10 GMT | Zero to Hacker: How a Cybersecurity Bootcamp Can Change Your Career | Smith Adams | [Read More](https://medium.com/p/8db6e33c171c) |
+| Thu, 18 Sep 2025 19:49:24 GMT | Why is AI making us bad engineers? — Senior Software Engineer talks | Zeesh | [Read More](https://medium.com/p/4fb601d88c25) |
+| Thu, 18 Sep 2025 19:44:54 GMT | This is how TCP sequence and acknowledgement number ensures reliable data transfer | Ataur Rahman | [Read More](https://medium.com/p/af048210c972) |
+| Thu, 18 Sep 2025 19:44:32 GMT | Stored HTML Injection in Emails | Sarv3shxploit | [Read More](https://medium.com/p/fdfa0a8524fe) |
+| Thu, 18 Sep 2025 19:40:09 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Lizzy Johnson | [Read More](https://medium.com/p/2b4c6f03204e) |
+| Thu, 18 Sep 2025 19:36:00 GMT | Cybersecurity vs IT Support: Why Employees Get Stuck in the “Which Team Do I Call?” Dilemma | Steve Matindi | [Read More](https://medium.com/p/63cdb3697e86) |
 | Thu, 18 Sep 2025 19:32:54 GMT | CodePartTwo-Hack The Box CTF | Zhoussama | [Read More](https://medium.com/p/4176f578bec3) |
 | Thu, 18 Sep 2025 19:16:54 GMT | [Tob] WEB challenge — Helwan CTF | Adhamkhairy | [Read More](https://medium.com/p/2609d0359784) |
 | Thu, 18 Sep 2025 19:08:46 GMT | Why K–12 Cybersecurity Education Needs DNS | Enrique Somoza | [Read More](https://medium.com/p/6b996ae70fd1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 14:01:52 GMT | The Strength I Never Wanted | TheWanderingMind | [Read More](https://medium.com/p/26499fbb1d03) |
 | Thu, 18 Sep 2025 14:01:52 GMT | Tender | Kevin David Crowley | [Read More](https://medium.com/p/0e372bd8c3a7) |
 | Thu, 18 Sep 2025 14:01:51 GMT | Cyber Briefing: 2025.09.18 | CyberMaterial | [Read More](https://medium.com/p/8f44af871817) |
-| Thu, 18 Sep 2025 13:58:46 GMT | Vertical Runner — Releasing My Cyberdeck to the World | James Reeves | [Read More](https://medium.com/p/2a9f9434b350) |
-| Thu, 18 Sep 2025 13:52:03 GMT | How to Reengage a Garage Door Remote After a Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/d16bc641817e) |
-| Thu, 18 Sep 2025 13:51:57 GMT | PrintNightmare, again! | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/64560e69b867) |
-| Thu, 18 Sep 2025 13:50:07 GMT | Radar Security Market Set for Significant Growth by 2031 | Nileshprajapati | [Read More](https://medium.com/p/e98444481515) |
-| Thu, 18 Sep 2025 13:46:45 GMT | ⚠️ Altered Security — Introduction to Azure Red Teaming | Senuk Dias | [Read More](https://medium.com/p/080813088eae) |
-| Thu, 18 Sep 2025 13:40:28 GMT | Using OTP (One-Time Password) and Security Management in MetaTrader 5 | KursatOzdemir | [Read More](https://medium.com/p/097ac1e24e91) |
-| Thu, 18 Sep 2025 13:40:13 GMT | 10 Life Hacks (and Lessons) People Actually Lived Through. | Favvyy | [Read More](https://medium.com/p/98fa30394f39) |
-| Thu, 18 Sep 2025 13:39:18 GMT | TC-ACN Incident Mapper Tool | cub01d5 | [Read More](https://medium.com/p/50b878fb047d) |
