@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 15:39:17 GMT | String Me Along: How a Single Quote Unraveled a Site’s Security | Buffer | [Read More](https://medium.com/p/2e71ec4534e6) |
+| Thu, 18 Sep 2025 15:22:50 GMT | Money Laundering as a Service: How Scammers Siphon Your Money | Vijay Kumar Gupta | [Read More](https://medium.com/p/7540c01c7a89) |
+| Thu, 18 Sep 2025 15:17:45 GMT | Use Shodan Like A Hacker! | Mainekhacker | [Read More](https://medium.com/p/21aae8b37975) |
+| Thu, 18 Sep 2025 15:15:29 GMT | “Unearthing Digital Gold: A Practical Guide to Finding Bugs in JavaScript Files” | Aman Sharma | [Read More](https://medium.com/p/1e6338c73899) |
+| Thu, 18 Sep 2025 15:15:20 GMT | Why Non-Determinism Strengthens Network and Application Security | Laura Garcia | [Read More](https://medium.com/p/641f061184f9) |
+| Thu, 18 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 18, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/690a25d8bb88) |
 | Thu, 18 Sep 2025 15:07:23 GMT | Cyber Security and Data Confidentiality Digital Observation & Copyright Hacking | Aijaz Hussain | [Read More](https://medium.com/p/b7acc1c6ca56) |
 | Thu, 18 Sep 2025 15:06:01 GMT | Discover How to Access Emails Without Any Password | Ibtissam hammadi | [Read More](https://medium.com/p/5004e7be1fbd) |
 | Thu, 18 Sep 2025 15:02:23 GMT | From Hacking Systems for Fun to Securing Millions: My Journey Through Both Sides of the Firewall | Anurag Mewar | [Read More](https://medium.com/p/60c842120797) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 11:17:10 GMT | How Educational Institutions Benefit from Information Kiosks | Rakesh | [Read More](https://medium.com/p/cca2688d6d82) |
 | Thu, 18 Sep 2025 11:16:16 GMT | How IoT is Transforming Office Security & Access Management | Joven A Rodrigues | [Read More](https://medium.com/p/13ca6864ab10) |
 | Thu, 18 Sep 2025 11:15:15 GMT | Why VAPT is Crucial for Financial Services and Banks | Samita | [Read More](https://medium.com/p/967358bddee2) |
-| Thu, 18 Sep 2025 11:12:19 GMT | Akun Sosial-Media Aman dari Hacker | Syafrizal S Ardiansyah | [Read More](https://medium.com/p/6be1ce850028) |
-| Thu, 18 Sep 2025 11:11:54 GMT | CVE-2025–59050: Exploiting WM_COPYDATA in Greenshot for Local Code Execution | gm0 | [Read More](https://medium.com/p/7ab756372501) |
-| Thu, 18 Sep 2025 11:11:50 GMT | Home Security Cameras In Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/b428d8409ff6) |
-| Thu, 18 Sep 2025 11:10:27 GMT | Kubernetes API Server Security: A Complete Guide for DevOps Engineers | Salwan Mohamed | [Read More](https://medium.com/p/f41943387450) |
-| Thu, 18 Sep 2025 11:09:56 GMT | The Entra ID Flaw That Let Apps Impersonate Anyone, Anywhere | SecurityScout | [Read More](https://medium.com/p/e4de02d65910) |
-| Thu, 18 Sep 2025 11:07:47 GMT | SpamGPT: How AI Is Supercharging Phishing Campaigns | Brittney Ginther | [Read More](https://medium.com/p/c0baa0f03441) |
