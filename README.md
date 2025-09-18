@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 21:02:00 GMT | ⚙️ What is DevSecOps and How to Implement It? | Esra Kayhan | [Read More](https://medium.com/p/592ed205e8ea) |
+| Thu, 18 Sep 2025 20:58:43 GMT | What are Negotiable Debt Securities? | discovery2.0 | [Read More](https://medium.com/p/402e67bda6ce) |
+| Thu, 18 Sep 2025 20:57:16 GMT | Hack the Box — Administrator — WriteUp | Emre A. | [Read More](https://medium.com/p/958daa331982) |
+| Thu, 18 Sep 2025 20:56:12 GMT | Mobile, HTTPS & Security 2025: Mobile‑First UX, Full HTTPS, Essential Security Headers | Mr_gym | [Read More](https://medium.com/p/2f28ab044f17) |
+| Thu, 18 Sep 2025 20:52:25 GMT | A small intro to the world of infrastructure and Active Directory | Imane Abasalah | [Read More](https://medium.com/p/ac26a5bdcb82) |
+| Thu, 18 Sep 2025 20:49:53 GMT | Automatic Logout in Spring Boot After Idle Time | Alexander Obregon | [Read More](https://medium.com/p/37501105daf0) |
+| Thu, 18 Sep 2025 20:43:40 GMT | Loop Marketing in Cybersecurity — A Story of Expressing, Tailoring, Amplifying and Evolving | David SEHYEON Baek | [Read More](https://medium.com/p/e9ee367f2295) |
+| Thu, 18 Sep 2025 20:37:55 GMT | TryHackMe: Brains Lab Walkthrough Guide | Vedant Bhalerao | [Read More](https://medium.com/p/55a43ea9f19c) |
+| Thu, 18 Sep 2025 20:37:03 GMT | The Rise of Agentic AI in Cybersecurity: A New Era of Autonomous Defense | noailabs | [Read More](https://medium.com/p/899c9dd46481) |
 | Thu, 18 Sep 2025 20:28:23 GMT | Advanced OAuth Secrets Leads To Account Takeover(ATO) | Mado | [Read More](https://medium.com/p/42ff288a7763) |
 | Thu, 18 Sep 2025 20:23:02 GMT | AI in Cybersecurity Is Neither a Differentiator nor a Game Changer — It’s Simply a Must-Have | David SEHYEON Baek | [Read More](https://medium.com/p/7cd392bd0f90) |
 | Thu, 18 Sep 2025 20:20:12 GMT | SPF, Sandboxes, and Security Guards: The 4 Ways We Fight Phishing Now | Chris Zhang | [Read More](https://medium.com/p/ad045e8e273a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 14:33:25 GMT | I WANT TO BE VULNERABLE BUT I DON’T TRUST HUMANS | Goody | [Read More](https://medium.com/p/8f311636c2d7) |
 | Thu, 18 Sep 2025 14:25:20 GMT | How I Recovered My Company’s Compromised AWS Account | Prabhash Umesha | [Read More](https://medium.com/p/5ed12a459bbe) |
 | Thu, 18 Sep 2025 14:22:53 GMT | The Restaking Revolution: EigenLayer Boosting Yield & Security | Ancilar Technologies | [Read More](https://medium.com/p/8c4a8c5f3a03) |
-| Thu, 18 Sep 2025 14:20:52 GMT | From Drift to Defense: A Practical Guide to Immutable Infrastructure | Udit Narayan (BlogOQA) | [Read More](https://medium.com/p/f6c99e32fb32) |
-| Thu, 18 Sep 2025 14:14:06 GMT | MCP Servers Are the New Shadow APIs | Rajesh Devadasan | [Read More](https://medium.com/p/e24a6a598b4b) |
-| Thu, 18 Sep 2025 14:13:58 GMT | Is AI Going to Take Over the World? | O Código Futuro | [Read More](https://medium.com/p/4eeb170fd0dd) |
-| Thu, 18 Sep 2025 14:12:11 GMT | Emotionally Stable Women: Nurtured by a Harmonious Family Atmosphere | Fower Leo | [Read More](https://medium.com/p/d33d10ce39fd) |
-| Thu, 18 Sep 2025 14:11:48 GMT | Public Safety Communications Market Deep Research with Forecast By 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/23b4ed12da7d) |
-| Thu, 18 Sep 2025 14:10:07 GMT | Oski Lab — Walkthrough | Nitish Agrawal | [Read More](https://medium.com/p/0c981453ab38) |
-| Thu, 18 Sep 2025 14:08:37 GMT | Exploiting a mass assignment vulnerability. — Api Testing | Nitish Agrawal | [Read More](https://medium.com/p/41e2b87e55e3) |
-| Thu, 18 Sep 2025 14:07:24 GMT | SANS FOR610: My Personal Notes | Emad Abedini | [Read More](https://medium.com/p/17314993f92b) |
-| Thu, 18 Sep 2025 14:06:45 GMT | The $50M Security Hole in Your CI/CD Pipeline (And How to Fix It Before Attackers Find It) | Heinancabouly | [Read More](https://medium.com/p/9a1308fbb3dc) |
