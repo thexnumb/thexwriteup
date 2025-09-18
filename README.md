@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 05:10:25 GMT | Building a Home SOC Lab with Wazuh, Kali, and Windows | Rohit | [Read More](https://medium.com/p/cf28f3848542) |
+| Thu, 18 Sep 2025 05:01:50 GMT | The Post-Quantum Migration: How Blockchains are Preparing for a Quantum Future | Farhad Ali | [Read More](https://medium.com/p/f166ee1f9849) |
+| Thu, 18 Sep 2025 04:48:02 GMT | The QR Code Conundrum: To Trust or Not to Trust? | Marko | [Read More](https://medium.com/p/03f80c409174) |
+| Thu, 18 Sep 2025 04:44:18 GMT | Cybersecurity Engineer in Australia — The Most In-Demand IT Career Path | cdr australia writer | [Read More](https://medium.com/p/54122f0e515e) |
 | Thu, 18 Sep 2025 04:15:46 GMT | How to Capture Evidence in Penetration Testing: A Practical Guide for Pentesters | Vivek Bhatt | [Read More](https://medium.com/p/0ea84e030c7f) |
 | Thu, 18 Sep 2025 04:02:31 GMT | MT - W01 - What is Testing all about? | Bugs Bunny | [Read More](https://medium.com/p/4a433e439c21) |
 | Thu, 18 Sep 2025 04:02:28 GMT | Find Your Most Powerful Self in Your Deepest Insecurities | The Inflection | [Read More](https://medium.com/p/0b7787ba3b9f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 19:02:43 GMT | The Upside of Vulnerability | John Clark - The Voice of Courage | [Read More](https://medium.com/p/e66a22afae5e) |
 | Wed, 17 Sep 2025 18:59:21 GMT | Oops | Mr_Nobody | [Read More](https://medium.com/p/b78db4a8a093) |
 | Wed, 17 Sep 2025 18:58:55 GMT | SOULMATE — HTB | H3XH7WK | [Read More](https://medium.com/p/98eec9a4e64b) |
-| Wed, 17 Sep 2025 18:57:11 GMT | FileFix: The Next Evolution of ClickFix Attacks | Ashley Dai | [Read More](https://medium.com/p/279e6f0439b6) |
-| Wed, 17 Sep 2025 18:41:26 GMT | Think Before You Click: That FREE MOD file will be Tracking You | Alham Rizvi | [Read More](https://medium.com/p/d67192ab098e) |
-| Wed, 17 Sep 2025 18:41:03 GMT | Day 23: Amazon Machine Image (AMI): A Complete Guide | Prutha_Dongre | [Read More](https://medium.com/p/6b29f0889eba) |
-| Wed, 17 Sep 2025 18:40:43 GMT | Do You Own Your Data Anymore? | Adarsh Kumar | [Read More](https://medium.com/p/cf734a063988) |
