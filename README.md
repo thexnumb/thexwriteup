@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 04:15:46 GMT | How to Capture Evidence in Penetration Testing: A Practical Guide for Pentesters | Vivek Bhatt | [Read More](https://medium.com/p/0ea84e030c7f) |
+| Thu, 18 Sep 2025 04:02:31 GMT | MT - W01 - What is Testing all about? | Bugs Bunny | [Read More](https://medium.com/p/4a433e439c21) |
+| Thu, 18 Sep 2025 04:02:28 GMT | Find Your Most Powerful Self in Your Deepest Insecurities | The Inflection | [Read More](https://medium.com/p/0b7787ba3b9f) |
+| Thu, 18 Sep 2025 04:01:06 GMT | Can a Free WAF Really Compete? My Hands-On with SafeLine | AerieWhole123 | [Read More](https://medium.com/p/1b3917e3f7ed) |
+| Thu, 18 Sep 2025 03:59:03 GMT | CyberDefenders: Ramnit Lab Walkthrough | Michael Jan Tangalin | [Read More](https://medium.com/p/fa92a6672688) |
+| Thu, 18 Sep 2025 03:51:21 GMT | The Role of Licensing in Cybersecurity Compliance | Ornobg | [Read More](https://medium.com/p/5466957dea61) |
+| Thu, 18 Sep 2025 03:49:16 GMT | CyberDefenders — Andromeda Bot Lab | jon | [Read More](https://medium.com/p/0e754c6ba581) |
+| Thu, 18 Sep 2025 03:48:30 GMT | More Than a Wallet, It’s Your Digital World Passport: How Digital Shield Reshapes Sovereignty… | Digital Shield Offcial | [Read More](https://medium.com/p/94f484e0a7fa) |
+| Thu, 18 Sep 2025 03:48:10 GMT | Documenting my Experiences with the 2025 WiCyS Security Training Scholarship Program — Part 3… | Crislana Rafael | [Read More](https://medium.com/p/d82ab266b777) |
+| Thu, 18 Sep 2025 03:47:44 GMT | The Security of Last Resort: Implementing Effective Hardware Write-Protection in Hostile… | Lance Harvie | [Read More](https://medium.com/p/542252ea47bc) |
+| Thu, 18 Sep 2025 03:43:37 GMT | The War for Digital Sovereignty: Under the Neon Lights of Hong Kong, How Digital Shield Forges an… | Digital Shield Offcial | [Read More](https://medium.com/p/bf8072dc017b) |
+| Thu, 18 Sep 2025 03:40:37 GMT | Guarding Digital Sovereignty: How Digital Shield Forges an Offline, Multi-Chain Asset Management… | Digital Shield Offcial | [Read More](https://medium.com/p/33228e12fcb6) |
+| Thu, 18 Sep 2025 03:37:20 GMT | Critical SQL Injection in Chanjet T+ ERP Could Lead to RCE | AerieWhole123 | [Read More](https://medium.com/p/ff60f473abbb) |
+| Thu, 18 Sep 2025 03:32:32 GMT | Part 3: ☁️ Getting Started with AWS: Monitoring, Messaging, Amplify & Scaling Beyond Serverless | Kavindya Kariyawasam | [Read More](https://medium.com/p/7d97c1ab7000) |
+| Thu, 18 Sep 2025 03:31:45 GMT | Top 5 Data Minimization Patterns for Safer Prompting | Hash Block | [Read More](https://medium.com/p/b6814bfb1726) |
+| Thu, 18 Sep 2025 03:31:45 GMT | Charon Ransomware: DLL Sideloading and Anti-EDR Tactics in the Middle East | Deven Chhajed | [Read More](https://medium.com/p/8673278cef4c) |
+| Thu, 18 Sep 2025 03:31:44 GMT | The Sentinel’s Ledger: Navigating the Crossroads of Cyber Threats and AI’s Dawn | Akshat Ratanpal | [Read More](https://medium.com/p/b6d76f01f848) |
 | Thu, 18 Sep 2025 03:17:24 GMT | Explotando Vulnerabilidades XSS y IDOR en la Plataforma OpenEnglish, Divulgación Responsable | Time_Clocker/Hack_and_Learn | [Read More](https://medium.com/p/0815032198e4) |
 | Thu, 18 Sep 2025 03:13:49 GMT | Top 5 Threats CISOs Must Prepare for in the Next 12 Months | Dr. Deep Pandey | [Read More](https://medium.com/p/5eb99af5d953) |
 | Thu, 18 Sep 2025 03:03:49 GMT | Securing Internet of Things Devices | Cyber Security Research | [Read More](https://medium.com/p/98f0fa40c210) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 18:41:26 GMT | Think Before You Click: That FREE MOD file will be Tracking You | Alham Rizvi | [Read More](https://medium.com/p/d67192ab098e) |
 | Wed, 17 Sep 2025 18:41:03 GMT | Day 23: Amazon Machine Image (AMI): A Complete Guide | Prutha_Dongre | [Read More](https://medium.com/p/6b29f0889eba) |
 | Wed, 17 Sep 2025 18:40:43 GMT | Do You Own Your Data Anymore? | Adarsh Kumar | [Read More](https://medium.com/p/cf734a063988) |
-| Wed, 17 Sep 2025 18:32:07 GMT | AI-Generated Malware: The Next Cybersecurity Nightmare | Akshay Chauhan | [Read More](https://medium.com/p/57951006b19b) |
-| Wed, 17 Sep 2025 18:31:35 GMT | Anti-Bot Evasion | Yüksel Coşgun | [Read More](https://medium.com/p/59b71109a170) |
-| Wed, 17 Sep 2025 18:25:26 GMT | Authorization bypass — Low-privileged user can view organization members and user details | Ahmed Mahmoud | [Read More](https://medium.com/p/f0953dc9c51c) |
-| Wed, 17 Sep 2025 18:24:35 GMT | Breaking Down the npm Supply Chain Attack (September 2025) | Garv Kamra | [Read More](https://medium.com/p/0a06293bcdce) |
-| Wed, 17 Sep 2025 18:23:44 GMT | Hacking for Good: The Ultimate Guide on How to Become an Ethical Hacker | Nitin Singh | [Read More](https://medium.com/p/58da6ac9694f) |
-| Wed, 17 Sep 2025 18:20:11 GMT | Hack the Box — Active — WriteUp | Emre A. | [Read More](https://medium.com/p/02c2444c544e) |
-| Wed, 17 Sep 2025 18:07:42 GMT | Galaxy AI Feature Spotlight: One UI 8 & What New AI Functions Samsung Is Bringing — Use Them for… | LokieGamer | [Read More](https://medium.com/p/221f8e1bac5a) |
-| Wed, 17 Sep 2025 17:55:13 GMT | Making sure your PDF compliance and privacy requirements are met with JoyDoc | John Pagley | [Read More](https://medium.com/p/bc8771d78fb4) |
-| Wed, 17 Sep 2025 17:52:46 GMT | Mastering Kubernetes Network Policies: A DevOps Engineer’s Complete Guide to Zero-Trust Security | Salwan Mohamed | [Read More](https://medium.com/p/fb21da247ed6) |
-| Wed, 17 Sep 2025 17:50:34 GMT | Must-Have PC Utilities to Boost Speed & Security in 2025 | digihub-central | [Read More](https://medium.com/p/cf174458ebf9) |
-| Wed, 17 Sep 2025 17:44:54 GMT | HackTheBox (Active) — Active Directory Series | SilentExploit | [Read More](https://medium.com/p/971bfaa40d39) |
-| Wed, 17 Sep 2025 17:33:20 GMT | How to create secure passwords that are extremely difficult to crack | Cordula Boeck | [Read More](https://medium.com/p/5a4648f046aa) |
-| Wed, 17 Sep 2025 17:31:07 GMT | Investigating LSASS Access with Sysmon Event ID 10 - HTB Soc Analyst | Emmanuel Ukpong | [Read More](https://medium.com/p/44030618cee4) |
-| Wed, 17 Sep 2025 17:27:43 GMT | Lumo is becoming my favorite AI Agent | Jeferson Moura | [Read More](https://medium.com/p/f2b7b1c15f93) |
-| Wed, 17 Sep 2025 17:26:39 GMT | UUIDv1 And Sandwich Attacks | Diman | [Read More](https://medium.com/p/2ab3d69cffdd) |
-| Wed, 17 Sep 2025 17:23:02 GMT | Navigating My Cybersecurity Journey: A Beginner’s Perspective (day-1) | Sadina Upreti | [Read More](https://medium.com/p/f62fda6f7995) |
-| Wed, 17 Sep 2025 17:18:45 GMT | AS-REP Roasting | SeverSerenity | [Read More](https://medium.com/p/1f83be96e736) |
