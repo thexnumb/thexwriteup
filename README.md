@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 09:33:18 GMT | Achieving Network Security Compliance with VAPT: A Smart Approach for Businesses | Jay C Roberts | [Read More](https://medium.com/p/e998d0ab24b8) |
+| Thu, 18 Sep 2025 09:32:25 GMT | Create More, Scroll Less: Why I Quit Most Social Media (Except Two) | Farah Deeva | [Read More](https://medium.com/p/5d23cbd56aa8) |
+| Thu, 18 Sep 2025 09:30:50 GMT | Day 6: The Insider Threat That Made Sarah Rethink Everything | Mahimagarg | [Read More](https://medium.com/p/8be080eb88a9) |
+| Thu, 18 Sep 2025 09:30:01 GMT | Bandit Walkthrough Level 0 → Level 1 | Hardik Ghuge | [Read More](https://medium.com/p/c10ee8ae6f0f) |
+| Thu, 18 Sep 2025 09:29:48 GMT | Why Your GRC Tool Shouldn’t Hold Your Keys? How CISOGenie is changing the game? | Cisogenemarketing | [Read More](https://medium.com/p/c48e0fafba96) |
+| Thu, 18 Sep 2025 09:28:10 GMT | Bounty Lab 2 - Writeup by InferiorAK - RCSC | InferiorAK | [Read More](https://medium.com/p/6d31cb644411) |
+| Thu, 18 Sep 2025 09:25:49 GMT | Worst Way to Die | Md Shaw Nawaz Reall | [Read More](https://medium.com/p/f44b935ee11b) |
+| Thu, 18 Sep 2025 09:24:04 GMT | Exfiltrated CMS Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/6a22f0655cae) |
 | Thu, 18 Sep 2025 09:16:52 GMT | Critical Flaw Hits Samsung Galaxy Phones | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/5e133489fae7) |
 | Thu, 18 Sep 2025 09:13:37 GMT | Sea CTF Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/d55e52b37efc) |
 | Thu, 18 Sep 2025 09:13:27 GMT | PWN/Binary Exploitation HIDC 2025 | xpl0dec | [Read More](https://medium.com/p/ab3569e3e3b9) |
+| Thu, 18 Sep 2025 09:09:39 GMT | Vulnerability Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/880f3897e194) |
+| Thu, 18 Sep 2025 09:08:00 GMT | Apple MDM Software vs Intune: Which Wins? | Vantage MDM | [Read More](https://medium.com/p/022116c8cdd5) |
 | Thu, 18 Sep 2025 09:07:51 GMT | HackTheBox: Previous (Medium) — Walkthrough | Binary Exploiter | [Read More](https://medium.com/p/ae3d2e29b333) |
 | Thu, 18 Sep 2025 09:07:42 GMT | End of Static Security : Agentic AI Security That Never Sleeps | AIsha NEO | [Read More](https://medium.com/p/6bf9c86c7ab1) |
 | Thu, 18 Sep 2025 09:06:30 GMT | Setting up Cowrie Honeypot | Beryl | [Read More](https://medium.com/p/aef050546364) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 05:49:51 GMT | Realme P4 and P4 Pro 5G Launch 2025: Everything We Know | Alice Doyle | [Read More](https://medium.com/p/d1f28ec61759) |
 | Thu, 18 Sep 2025 05:47:09 GMT | Meta Pool’s NEAR Contract Passes Resonance Review | metapool.near | [Read More](https://medium.com/p/569f70f7d89f) |
 | Thu, 18 Sep 2025 05:45:26 GMT | Data Accuracy in Directory Websites: Why Clean Listings = Loyal Users | aDirectory | [Read More](https://medium.com/p/264e2bf0e38c) |
-| Thu, 18 Sep 2025 05:45:14 GMT | Indiluck Game customer care helpline number❌ 9238652455 ☑️✔️ call me — indiluck गेम कस्टमर केयर… | Indiluck Game customer care helpline number❌ 923 | [Read More](https://medium.com/p/e2f0fc6443e1) |
-| Thu, 18 Sep 2025 05:43:55 GMT | Manipulating Access Tokens: How Adversaries Leverage Windows Security Contexts | Itz.sanskarr | [Read More](https://medium.com/p/2bf7ed38e55f) |
-| Thu, 18 Sep 2025 05:41:44 GMT | Why Do Computer Bugs Get Called ‘Bugs’? The Strange Origin Story | Developer Hub | [Read More](https://medium.com/p/12c3ede24471) |
-| Thu, 18 Sep 2025 05:41:19 GMT | CVE-2025–55911 — ClipBucket 5.5.2 Build #90 — SSRF via upload/actions/file_downloader.php | Mukundsinh Solanki | [Read More](https://medium.com/p/eb49dc02bd6f) |
-| Thu, 18 Sep 2025 05:40:54 GMT | OWASP Broken Access Control Room Walkthrough - TryHackMe | ClaudioXXX | [Read More](https://medium.com/p/01128c11ad04) |
-| Thu, 18 Sep 2025 05:30:05 GMT | DOUBLEWIN189 | Melianiimelda | [Read More](https://medium.com/p/8a869a106af6) |
-| Thu, 18 Sep 2025 05:21:44 GMT | What Is the Difference Between Laser and Inkjet Printers? | Niloufar Mesgarzadeh | [Read More](https://medium.com/p/fa7ceb134ef3) |
-| Thu, 18 Sep 2025 05:18:54 GMT | How Server Location Affects Website Performance | HostNOC | [Read More](https://medium.com/p/159536b00570) |
-| Thu, 18 Sep 2025 05:13:25 GMT | Portswigger Web Security Academy - CSRF Lab #1 | BooRuleDie | [Read More](https://medium.com/p/9e6772f8f070) |
-| Thu, 18 Sep 2025 05:10:25 GMT | Building a Home SOC Lab with Wazuh, Kali, and Windows | Rohit | [Read More](https://medium.com/p/cf28f3848542) |
