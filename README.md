@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 10:33:47 GMT | How Cyber Security Training Can Boost Your Career Field | Win In Life Academy | [Read More](https://medium.com/p/d2a377730e4d) |
+| Thu, 18 Sep 2025 10:33:24 GMT | HeartBleed | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/af71afec9fc3) |
+| Thu, 18 Sep 2025 10:32:15 GMT | Jenkins Under Fire: The Quiet Trio of CVEs That Could Undermine Your CI/CD Pipeline | gm0 | [Read More](https://medium.com/p/9fdd3452a065) |
+| Thu, 18 Sep 2025 10:31:27 GMT | The Beginner’s Guide to BUG BUG for Maximum Gains | BUG | [Read More](https://medium.com/p/e76ddf836e29) |
+| Thu, 18 Sep 2025 10:29:18 GMT | How I Simulated an RDP Brute-Force Attack and Responded — A Beginner’s Lab Guide | Yeswanth Boddeda | [Read More](https://medium.com/p/8e00e29301ee) |
+| Thu, 18 Sep 2025 10:26:56 GMT | CTF Competitions: The Battleground Where Hackers Train Legally | Shahzaib | [Read More](https://medium.com/p/9966cccc1103) |
+| Thu, 18 Sep 2025 10:24:43 GMT | The TryHackMe PT1 Journey: Is the Junior Pen Tester Exam Really for Beginners? | Toheeb Kayode Adisa | [Read More](https://medium.com/p/9ce34d942c73) |
 | Thu, 18 Sep 2025 10:17:26 GMT | How SSL/TLS Works: Why Your Browser Shows the Lock Icon | Prajwal Ahluwalia | [Read More](https://medium.com/p/46caacd82589) |
+| Thu, 18 Sep 2025 10:15:08 GMT | Home Security Cameras In Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/a870731b4916) |
 | Thu, 18 Sep 2025 10:12:29 GMT | DockerLabs Writeup — Picadilly (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9a0c58126ca5) |
 | Thu, 18 Sep 2025 10:07:28 GMT | 10 Years of Expertise: How UAS Secures Major Events in France | UNION ACCESS SECURITY | [Read More](https://medium.com/p/8493a86b1a3b) |
 | Thu, 18 Sep 2025 10:07:25 GMT | How Microsoft Uses AI For Cybersecurity | nodi | [Read More](https://medium.com/p/1b17cd724fb1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 06:36:26 GMT | Unlocking the Full Potential of Red Team Assessments: Tips and Best Practices | Qualysec | [Read More](https://medium.com/p/2fb4fe0b7e68) |
 | Thu, 18 Sep 2025 06:32:08 GMT | Top Security Services in Gwalior: Why Professional Protection Matters | Somtagroup | [Read More](https://medium.com/p/8404104f5fc4) |
 | Thu, 18 Sep 2025 06:30:20 GMT | The Dark Side of APKs: Risks of Sideloading Apps on Android | Abida Adra | [Read More](https://medium.com/p/d7545211c28e) |
-| Thu, 18 Sep 2025 06:29:03 GMT | Your Selfie Is Now AI’s Plaything: Nano Banana Craze | Sorab Ghaswalla | [Read More](https://medium.com/p/a2a94d13beaa) |
-| Thu, 18 Sep 2025 06:20:31 GMT | 100+ Creative Business Name Ideas That Stand Out in the UK Market | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/22b135ab5b81) |
-| Thu, 18 Sep 2025 06:18:45 GMT | Open Source Tools & Technologies | Balki Maharaj | [Read More](https://medium.com/p/1119b147ae56) |
-| Thu, 18 Sep 2025 06:13:25 GMT | I Developed an Algorithm for Vulnerability | Kratagya Tripathi | [Read More](https://medium.com/p/5589fddb3583) |
-| Thu, 18 Sep 2025 06:13:02 GMT | Google is Under Fire, and No One can Find an Extinguisher | Shamim Rajani | [Read More](https://medium.com/p/9ee536360a47) |
-| Thu, 18 Sep 2025 06:11:45 GMT | Generative AI use case for Penetration Testing | cyber_pix | [Read More](https://medium.com/p/ec06d43c4377) |
-| Thu, 18 Sep 2025 06:01:03 GMT | Bell Launches Bell Cyber With AI-Powered Security Operations | SafetyDetectives Research Team | [Read More](https://medium.com/p/f1bf8f4c22eb) |
-| Thu, 18 Sep 2025 06:00:48 GMT | Custom Software Development: Why It’s the Smarter Choice for Modern Businesses | Innerworks International | [Read More](https://medium.com/p/e78b9247829c) |
