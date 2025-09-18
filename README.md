@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 08:13:38 GMT | I Almost Lost My Dream Job Because I Didn’t Know Ethical Hacking — Here’s How I Turned It Around | JetkingChandigarh | [Read More](https://medium.com/p/58c076737ff3) |
+| Thu, 18 Sep 2025 08:11:17 GMT | Mastering Virtualisation: A Comprehensive Guide to Building Your Cybersecurity Lab | Harry Ouaida | [Read More](https://medium.com/p/612e0e9d08de) |
+| Thu, 18 Sep 2025 08:09:32 GMT | ประจำวันพฤหัสบดีที่ 18 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/03d1c55a1f8d) |
+| Thu, 18 Sep 2025 08:05:44 GMT | Bandit Walkthrough Level 0 | Hardik Ghuge | [Read More](https://medium.com/p/ddfe14762f79) |
+| Thu, 18 Sep 2025 08:04:07 GMT | Linux Security Tricks Everyone Should Know | Frost | [Read More](https://medium.com/p/c2ac27d9d7e6) |
+| Thu, 18 Sep 2025 08:02:25 GMT | Trojan Models: when a “helpful” public model hides a backdoor | Avinash Kumar | [Read More](https://medium.com/p/8e0e69b86508) |
+| Thu, 18 Sep 2025 08:01:52 GMT | Identification and Authentication Failures: Why Weak Logins Still Break Security | CyberSenpai | [Read More](https://medium.com/p/343fa9135639) |
+| Thu, 18 Sep 2025 08:01:48 GMT | The Secret Weapons That Separate Bash Beginners from Command Line Legends | MayhemCode | [Read More](https://medium.com/p/063c17ec72c5) |
+| Thu, 18 Sep 2025 07:53:36 GMT | Zero-Day AI Attacks Are Coming: How Startups Must Prepare Now | Startuped | [Read More](https://medium.com/p/afcb30766efb) |
+| Thu, 18 Sep 2025 07:44:17 GMT | Stopping NPM Supply Chain Attacks: How AI Can Help | Ayan Ghoshal | [Read More](https://medium.com/p/992a9a9cf54d) |
+| Thu, 18 Sep 2025 07:41:49 GMT | You’re using GPT-5 wrong for hacking. Here’s how to be ahead of 99% of bug hunters | Satyam Pathania | [Read More](https://medium.com/p/db96ee3587e7) |
+| Thu, 18 Sep 2025 07:40:56 GMT | Is Your Digital Life Ready for the Quantum Shake-Up? What People Need to Know in 2025 | Bobby Andrews | [Read More](https://medium.com/p/bf4ef9dd5928) |
+| Thu, 18 Sep 2025 07:40:21 GMT | Do You Really Need Coding for Cybersecurity? | Muhammad Haider Tallal | [Read More](https://medium.com/p/3f63ee79a54f) |
+| Thu, 18 Sep 2025 07:39:21 GMT | Cracking Forensics CTFs 2.0 — picoCTF | Swetha | [Read More](https://medium.com/p/c2ee4c9cb462) |
+| Thu, 18 Sep 2025 07:38:59 GMT | Broken JWTs, Open Doors: How I Turned ‘None’ Algorithm into Full Admin Access | Iski | [Read More](https://medium.com/p/d78113df7ef5) |
+| Thu, 18 Sep 2025 07:37:45 GMT | Log Forensics in Cyber Incidents: The Art of Tracing Evidence | Esra Kayhan | [Read More](https://medium.com/p/c866011fda9a) |
 | Thu, 18 Sep 2025 07:33:20 GMT | Hacking in 2025: Inside the Human Arms Race of Cyber Attacks and Defense — By VIEH Security… | VIEH Security Research Team | [Read More](https://medium.com/p/ee544322fa0b) |
 | Thu, 18 Sep 2025 07:26:22 GMT | How I Went From Script Kiddie to Security Engineer: My Hacking Journey | Aj | [Read More](https://medium.com/p/b34292143d79) |
 | Thu, 18 Sep 2025 07:21:53 GMT | Fancy Bear’s Evolving Arsenal: A Comprehensive Threat Intelligence Report on APT28’s Advanced… | Viehgroup | [Read More](https://medium.com/p/3f44bc3ce360) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 02:24:06 GMT | Why Europeans Are Obsessed with VPNs for Streaming (The Real Story Behind the Numbers) | rohan kumar | [Read More](https://medium.com/p/ad5a1f0285cf) |
 | Thu, 18 Sep 2025 02:21:28 GMT | Social Engineering and Insider Threats: What’s the Difference? | Elizabeth Ogbeche | [Read More](https://medium.com/p/2f13de3e8d61) |
 | Thu, 18 Sep 2025 02:16:05 GMT | The State of Modern AI: Where We Are and Where We’re Headed — Sanjay Ravigopal | Sanjay Ravigopal | [Read More](https://medium.com/p/eb8395caa2ec) |
-| Thu, 18 Sep 2025 02:11:43 GMT | Cybersecurity Interview question (part 4) | The Commoness | [Read More](https://medium.com/p/527850d65892) |
-| Thu, 18 Sep 2025 02:11:20 GMT | Connectors CTF 2025 — DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/6d66c31cce9a) |
-| Thu, 18 Sep 2025 01:58:29 GMT | AI-Enhanced Home Security: Facial Recognition and Anomaly Detection | R A N A   A H M A D | [Read More](https://medium.com/p/20d3c25d70e2) |
-| Thu, 18 Sep 2025 01:57:48 GMT | Vulnhub Mercury Walkthrough and Assessment | Luke Gearty | [Read More](https://medium.com/p/b60e9ae36985) |
-| Thu, 18 Sep 2025 01:57:46 GMT | Part I — From Orbit to Exploit: A Controlled Satellite Attack Emulation Inspired by Viasat | PWNSAT | [Read More](https://medium.com/p/bd97e5e5d2f9) |
-| Thu, 18 Sep 2025 01:56:19 GMT | Why People Dare to Bully You: Three Mistakes You’re Making | Austi Gene | [Read More](https://medium.com/p/7325335ab956) |
-| Thu, 18 Sep 2025 01:54:25 GMT | Zero-Trust Security on AWS: A Practical Implementation Guide | Rizqi Mulki | [Read More](https://medium.com/p/42553cbeb92b) |
-| Thu, 18 Sep 2025 01:51:35 GMT | ChatGPT-5 is a Pro Hacker! | Shahzaib | [Read More](https://medium.com/p/56ac9cbc9ead) |
-| Thu, 18 Sep 2025 01:51:07 GMT | AWS Savings Plans 2025: New Options and Optimization Strategies | Rizqi Mulki | [Read More](https://medium.com/p/88d0ede2bfc6) |
-| Thu, 18 Sep 2025 01:45:08 GMT | Prompt Engineering: Mastering the Art of Conversation with AI | Read. Teach. Post. Do. | [Read More](https://medium.com/p/64f348e03fca) |
-| Thu, 18 Sep 2025 01:27:44 GMT | Top Tech Careers in 2025 — High-Paying Jobs & In-Demand Skills | Jaytech | [Read More](https://medium.com/p/0f366ee81fad) |
-| Thu, 18 Sep 2025 01:16:23 GMT | Stop Using 777! Learn Linux Permissions the Right Way | Md. Moinul Islam | [Read More](https://medium.com/p/b5d0759700e5) |
-| Thu, 18 Sep 2025 01:11:12 GMT | Oracle WebLogic Remote Code Execution Vulnerability (CVE-2017–10271) | Criminal IP | [Read More](https://medium.com/p/44582a104f72) |
-| Thu, 18 Sep 2025 01:08:24 GMT | Comprehensive Guide to Cybersecurity Frameworks: Insights and Implementation (September 2025) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/a130e33a97e9) |
-| Thu, 18 Sep 2025 01:02:20 GMT | Port Scan Activity | xwxrtxn | [Read More](https://medium.com/p/ee5cd19df604) |
-| Thu, 18 Sep 2025 00:55:59 GMT | Building an Intelligent and Multi-textual NLP Cybersecurity Event Analyzer | Elias Andrade | [Read More](https://medium.com/p/d2f3c75e4e41) |
