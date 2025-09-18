@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 10:17:26 GMT | How SSL/TLS Works: Why Your Browser Shows the Lock Icon | Prajwal Ahluwalia | [Read More](https://medium.com/p/46caacd82589) |
+| Thu, 18 Sep 2025 10:12:29 GMT | DockerLabs Writeup — Picadilly (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9a0c58126ca5) |
+| Thu, 18 Sep 2025 10:07:28 GMT | 10 Years of Expertise: How UAS Secures Major Events in France | UNION ACCESS SECURITY | [Read More](https://medium.com/p/8493a86b1a3b) |
+| Thu, 18 Sep 2025 10:07:25 GMT | How Microsoft Uses AI For Cybersecurity | nodi | [Read More](https://medium.com/p/1b17cd724fb1) |
+| Thu, 18 Sep 2025 10:07:06 GMT | Wazuh Installation Guide — Using Installation Assistant | Enes Ismaili | [Read More](https://medium.com/p/38453b5115d1) |
+| Thu, 18 Sep 2025 10:07:01 GMT | Understanding Vulnerability Management: A Key to Robust Cybersecurity | Digital Defense | [Read More](https://medium.com/p/6de8fdaf61ad) |
+| Thu, 18 Sep 2025 10:02:59 GMT | NPM packages compromised | Neha Sawant | [Read More](https://medium.com/p/6194f615920d) |
+| Thu, 18 Sep 2025 09:58:41 GMT | How Key-Drop Kiosks Strengthen Customer Trust | Rakesh | [Read More](https://medium.com/p/ff98c8dc2e18) |
+| Thu, 18 Sep 2025 09:58:22 GMT | How We Got 2,000 Builders+ Without Spending on Ads | Akshay | [Read More](https://medium.com/p/f4c7b57e4630) |
+| Thu, 18 Sep 2025 09:53:46 GMT | Haven1: The Future of Real-World DeFi | Bantin | [Read More](https://medium.com/p/ef92a211d65c) |
+| Thu, 18 Sep 2025 09:50:56 GMT | My First CTF | Kadek Fajar Pramartha Yasodana | [Read More](https://medium.com/p/c1b19d82f13f) |
+| Thu, 18 Sep 2025 09:44:43 GMT | CVE-2025-5115: When HTTP/2 Becomes a Weapon | gm0 | [Read More](https://medium.com/p/d78c221648f7) |
 | Thu, 18 Sep 2025 09:33:18 GMT | Achieving Network Security Compliance with VAPT: A Smart Approach for Businesses | Jay C Roberts | [Read More](https://medium.com/p/e998d0ab24b8) |
 | Thu, 18 Sep 2025 09:32:25 GMT | Create More, Scroll Less: Why I Quit Most Social Media (Except Two) | Farah Deeva | [Read More](https://medium.com/p/5d23cbd56aa8) |
 | Thu, 18 Sep 2025 09:30:50 GMT | Day 6: The Insider Threat That Made Sarah Rethink Everything | Mahimagarg | [Read More](https://medium.com/p/8be080eb88a9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 06:11:45 GMT | Generative AI use case for Penetration Testing | cyber_pix | [Read More](https://medium.com/p/ec06d43c4377) |
 | Thu, 18 Sep 2025 06:01:03 GMT | Bell Launches Bell Cyber With AI-Powered Security Operations | SafetyDetectives Research Team | [Read More](https://medium.com/p/f1bf8f4c22eb) |
 | Thu, 18 Sep 2025 06:00:48 GMT | Custom Software Development: Why It’s the Smarter Choice for Modern Businesses | Innerworks International | [Read More](https://medium.com/p/e78b9247829c) |
-| Thu, 18 Sep 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Sep 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0315e0231949) |
-| Thu, 18 Sep 2025 06:00:27 GMT | The Windows Process Journey — vmms.exe (Hyper-V Virtual Machine Management Service) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6089ef800a92) |
-| Thu, 18 Sep 2025 05:59:03 GMT | CVE-2025–55912 — ClipBucket ≤ 5.5.0 — Unauthenticated Arbitrary File Upload → RCE | Mukundsinh Solanki | [Read More](https://medium.com/p/720c0c0fbc58) |
-| Thu, 18 Sep 2025 05:58:05 GMT | Senator Wyden Urges FTC to Probe Microsoft Over Ransomware Breach | SafetyDetectives Research Team | [Read More](https://medium.com/p/c50f6ed7f968) |
-| Thu, 18 Sep 2025 05:58:02 GMT | How to Read WHOIS Data for Recon | Vivek Bhatt | [Read More](https://medium.com/p/7e544f509473) |
-| Thu, 18 Sep 2025 05:57:05 GMT | Why Leading CISOs Choose BUFFERZONE® for Advanced Endpoint Protection | Loren Rozenbloom | [Read More](https://medium.com/p/cb61fdec2eea) |
-| Thu, 18 Sep 2025 05:56:04 GMT | Ex-WhatsApp Security Chief Sues Meta Over Alleged User Data Risks | SafetyDetectives Research Team | [Read More](https://medium.com/p/7542802f0843) |
-| Thu, 18 Sep 2025 05:54:32 GMT | CyberQuizPro.com: Making Learning Fun Again | Endrit Saiti | [Read More](https://medium.com/p/fc5cf9dec72e) |
-| Thu, 18 Sep 2025 05:52:06 GMT | From POC to Production: Hardening Your BIM Microservices Architecture | AlterSquare | [Read More](https://medium.com/p/636e94b7e64e) |
-| Thu, 18 Sep 2025 05:49:51 GMT | Realme P4 and P4 Pro 5G Launch 2025: Everything We Know | Alice Doyle | [Read More](https://medium.com/p/d1f28ec61759) |
-| Thu, 18 Sep 2025 05:47:09 GMT | Meta Pool’s NEAR Contract Passes Resonance Review | metapool.near | [Read More](https://medium.com/p/569f70f7d89f) |
-| Thu, 18 Sep 2025 05:45:26 GMT | Data Accuracy in Directory Websites: Why Clean Listings = Loyal Users | aDirectory | [Read More](https://medium.com/p/264e2bf0e38c) |
