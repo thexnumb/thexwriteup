@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 07:33:20 GMT | Hacking in 2025: Inside the Human Arms Race of Cyber Attacks and Defense — By VIEH Security… | VIEH Security Research Team | [Read More](https://medium.com/p/ee544322fa0b) |
+| Thu, 18 Sep 2025 07:26:22 GMT | How I Went From Script Kiddie to Security Engineer: My Hacking Journey | Aj | [Read More](https://medium.com/p/b34292143d79) |
+| Thu, 18 Sep 2025 07:21:53 GMT | Fancy Bear’s Evolving Arsenal: A Comprehensive Threat Intelligence Report on APT28’s Advanced… | Viehgroup | [Read More](https://medium.com/p/3f44bc3ce360) |
+| Thu, 18 Sep 2025 07:19:59 GMT | Palo Alto Networks Enterprise Device Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/58395b1a27e7) |
+| Thu, 18 Sep 2025 07:18:58 GMT | NTFS $UsnJrnl Journal Artifacts- Uncover Ransomware Activity | whoami | [Read More](https://medium.com/p/156fdc0c085d) |
 | Thu, 18 Sep 2025 07:18:18 GMT | QR Code IDOR Vulnerability in Razorpay | Narayanan M | [Read More](https://medium.com/p/af1396dbf2af) |
+| Thu, 18 Sep 2025 07:17:42 GMT | My approach of subdomain takeover that pointing to Fastly (DNS Hijacking) | Nishan Faiyaz | [Read More](https://medium.com/p/6e6bdda84d7c) |
+| Thu, 18 Sep 2025 07:16:24 GMT | AI Integration in IT and Software: Ensuring Reliability Through Human Oversight | Best Virtual Specialist | [Read More](https://medium.com/p/7614d476c1f3) |
 | Thu, 18 Sep 2025 07:14:20 GMT | Tales of an Internet Addict #006 | Urgent Privacy | [Read More](https://medium.com/p/51cd09d11f85) |
 | Thu, 18 Sep 2025 07:13:45 GMT | Top 10 Cyber Security News Channels in India | Manisha Chaudhary | [Read More](https://medium.com/p/00c0dee01c72) |
 | Thu, 18 Sep 2025 07:13:05 GMT | A golden Code for Automated Recon — Bug Bounty | Swetha | [Read More](https://medium.com/p/c97e28ae4e59) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 01:08:24 GMT | Comprehensive Guide to Cybersecurity Frameworks: Insights and Implementation (September 2025) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/a130e33a97e9) |
 | Thu, 18 Sep 2025 01:02:20 GMT | Port Scan Activity | xwxrtxn | [Read More](https://medium.com/p/ee5cd19df604) |
 | Thu, 18 Sep 2025 00:55:59 GMT | Building an Intelligent and Multi-textual NLP Cybersecurity Event Analyzer | Elias Andrade | [Read More](https://medium.com/p/d2f3c75e4e41) |
-| Thu, 18 Sep 2025 00:52:28 GMT | Is AI the New Tower: The Age of god-Makers, Folder-Holders, and the Death of Consensus | Nikki L Russell | [Read More](https://medium.com/p/c91f8006a1a4) |
-| Thu, 18 Sep 2025 00:40:53 GMT | Shai-Hulud: A Self-Replicating Worm Targeting the npm Ecosystem | RealSec.io | [Read More](https://medium.com/p/4dfccd8b3404) |
-| Wed, 17 Sep 2025 23:44:08 GMT | Tired of Forgotten Passwords? The Laziest Guide to Getting Un-Hackable | Udit Narayan (BlogOQA) | [Read More](https://medium.com/p/f798784129b2) |
-| Wed, 17 Sep 2025 23:38:27 GMT | SmartCoder-R1: 보안 인식 그룹 상대 정책 최적화를 통한 안전하고 설명 가능한 스마트 컨트랙트 생성 (SmartCoder-R1: Towards Secure and… | YouShin kim | [Read More](https://medium.com/p/ec27fb873026) |
-| Wed, 17 Sep 2025 23:23:23 GMT | Lab 1: Web cache poisoning with an unkeyed header | Nitika | [Read More](https://medium.com/p/71edcc7006cd) |
-| Wed, 17 Sep 2025 23:10:35 GMT | [TR] Invite Only - TryHackMe | Güven Emre Keskin | [Read More](https://medium.com/p/550b2b48d1c9) |
-| Wed, 17 Sep 2025 23:10:22 GMT | YARA Cheatsheet — Essential reference for malware hunters | Khalil Z. | [Read More](https://medium.com/p/bd5f6fdb312b) |
