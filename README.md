@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 21:31:11 GMT | What is an Operating System? | Atakan Bitim | [Read More](https://medium.com/p/c3fed1004046) |
+| Thu, 18 Sep 2025 21:31:08 GMT | İşletim Sistemi Nedir? | Atakan Bitim | [Read More](https://medium.com/p/72ac604242be) |
+| Thu, 18 Sep 2025 21:28:18 GMT | How the vulnerable are easily manipulated. | Amirah Rajasegaram | [Read More](https://medium.com/p/91d0b4f2a8bc) |
+| Thu, 18 Sep 2025 21:25:36 GMT | Analysis of the ROGUE Agent-Based Automated Web Testing System (Part-1) SxipherAI | Vladimir Shebuniayeu(Sxipher) | [Read More](https://medium.com/p/c0db79a33473) |
+| Thu, 18 Sep 2025 21:24:17 GMT | Why Caching Bugs Are the Hardest to Debug | ArchitectOfExperience | [Read More](https://medium.com/p/6e3484409abb) |
+| Thu, 18 Sep 2025 21:23:01 GMT | Purulia, West Bengal - In today's fast-paced digital era, millions of people struggle with online… | #BKP | [Read More](https://medium.com/p/666dbacc7eaf) |
+| Thu, 18 Sep 2025 21:17:21 GMT | Don’t Wrap Me in Gentle Words | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/b709dce06262) |
 | Thu, 18 Sep 2025 21:02:00 GMT | ⚙️ What is DevSecOps and How to Implement It? | Esra Kayhan | [Read More](https://medium.com/p/592ed205e8ea) |
 | Thu, 18 Sep 2025 20:58:43 GMT | What are Negotiable Debt Securities? | discovery2.0 | [Read More](https://medium.com/p/402e67bda6ce) |
 | Thu, 18 Sep 2025 20:57:16 GMT | Hack the Box — Administrator — WriteUp | Emre A. | [Read More](https://medium.com/p/958daa331982) |
@@ -54,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 18:21:00 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART IV | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/f5e8801c0c9a) |
 | Thu, 18 Sep 2025 18:20:17 GMT | Melt into You | WinterWindow | [Read More](https://medium.com/p/ae1105daaa68) |
 | Thu, 18 Sep 2025 18:18:59 GMT | Day 24: Deep Dive into Amazon Elastic Block Store (EBS) | Prutha_Dongre | [Read More](https://medium.com/p/e69ffd728f8c) |
+| Thu, 18 Sep 2025 18:18:19 GMT | CEH Sertifikasına Hazırlanırken Edindiklerim-1: Bilgi Güvenliği ve Hacking Kavramları | Ali Umut Soran | [Read More](https://medium.com/p/62a94b2fd678) |
 | Thu, 18 Sep 2025 18:11:27 GMT | How a PID Manipulation Flaw in Sephora Brazil Led to Free High-Value Products | Breno Felipe | [Read More](https://medium.com/p/a14cbd4b444f) |
 | Thu, 18 Sep 2025 18:05:30 GMT | When Your Car Becomes a Hacker’s Gateway to Your Phone | Anas Al Rawi | [Read More](https://medium.com/p/329019178dc8) |
 | Thu, 18 Sep 2025 18:01:46 GMT | $5,000 por este RCE en Netflix: subida de PHP camuflado como GIF | Gorka | [Read More](https://medium.com/p/cfaec6c75683) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 14:53:12 GMT | TryHackMe - Invite Only - WriteUp | Axoloth | [Read More](https://medium.com/p/37ed04d13043) |
 | Thu, 18 Sep 2025 14:51:45 GMT | Privilege Escalation Techniques Every Penetration Tester Must Know | Rizqi Mulki | [Read More](https://medium.com/p/c2f59627a5d5) |
 | Thu, 18 Sep 2025 14:50:05 GMT | Top 16 Cybersecurity Skills in High Demand | Champlain College Online | [Read More](https://medium.com/p/92b1847ff8e5) |
-| Thu, 18 Sep 2025 14:47:44 GMT | SteganoAmor: TA558’s image-hidden malware targets oil, gas & maritime | Wes Young | [Read More](https://medium.com/p/1865d034c89f) |
-| Thu, 18 Sep 2025 14:47:43 GMT | Smartphone security: Protecting your digital identity in 2025 | Spokeo People Search | [Read More](https://medium.com/p/5d212da51e86) |
-| Thu, 18 Sep 2025 14:41:45 GMT | Your Vulnerability Is Y | Nikhil Lodha | [Read More](https://medium.com/p/05087fd0a7d4) |
-| Thu, 18 Sep 2025 14:36:32 GMT | Kerberoasting | SeverSerenity | [Read More](https://medium.com/p/c7b6ff3f8925) |
-| Thu, 18 Sep 2025 14:36:15 GMT | Sysmon Config and Sending Logs to Wazuh: Enhancing Endpoint Visibility | Arfan Abid | [Read More](https://medium.com/p/ee2ef3ad5e96) |
-| Thu, 18 Sep 2025 14:33:25 GMT | I WANT TO BE VULNERABLE BUT I DON’T TRUST HUMANS | Goody | [Read More](https://medium.com/p/8f311636c2d7) |
-| Thu, 18 Sep 2025 14:25:20 GMT | How I Recovered My Company’s Compromised AWS Account | Prabhash Umesha | [Read More](https://medium.com/p/5ed12a459bbe) |
-| Thu, 18 Sep 2025 14:22:53 GMT | The Restaking Revolution: EigenLayer Boosting Yield & Security | Ancilar Technologies | [Read More](https://medium.com/p/8c4a8c5f3a03) |
