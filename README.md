@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 13:40:13 GMT | 10 Life Hacks (and Lessons) People Actually Lived Through. | Favvyy | [Read More](https://medium.com/p/98fa30394f39) |
+| Thu, 18 Sep 2025 13:38:19 GMT | When the System Fails: How to Navigate Investment Fraud in the Real World | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/6889217b3bfb) |
+| Thu, 18 Sep 2025 13:36:21 GMT | Therapy Only Works If You Show Up Fully | Joanna Ashley - | [Read More](https://medium.com/p/cdb022626827) |
+| Thu, 18 Sep 2025 13:36:12 GMT | Walkthrough — get aHEAD (picoCTF) | CryptViper | [Read More](https://medium.com/p/7dcdaff51099) |
+| Thu, 18 Sep 2025 13:32:03 GMT | Checklist Técnico Previo y Formulario de Contexto Inicial | Ing. Alejandro Cervantes | [Read More](https://medium.com/p/93b7a9279e8f) |
+| Thu, 18 Sep 2025 13:32:03 GMT | Why Nuclear Security is Important in an Industry | Wem'Afrika | [Read More](https://medium.com/p/8d876cc5bc6d) |
+| Thu, 18 Sep 2025 13:31:25 GMT | The Role of Ethical Hackers in Modern Organizations | Nagaraj | [Read More](https://medium.com/p/a6e159e9a99e) |
+| Thu, 18 Sep 2025 13:27:50 GMT | The Hidden Battle | OEE IntelliSuite | [Read More](https://medium.com/p/96f069f943b7) |
+| Thu, 18 Sep 2025 13:27:34 GMT | PG Practice — ZenPhoto (Linux) | Lepton | [Read More](https://medium.com/p/bf6cdf2f56c0) |
 | Thu, 18 Sep 2025 13:26:50 GMT | Day 5: Nmap 101 — Let’s Knock on Some Digital Doors | Viratavi | [Read More](https://medium.com/p/e7bbb712a9ea) |
 | Thu, 18 Sep 2025 13:20:29 GMT | Cybersecurity News TL;DR — 09/18/2025 | Chandler Williams | [Read More](https://medium.com/p/68420164f2c9) |
 | Thu, 18 Sep 2025 13:14:22 GMT | Strange Antiquities Download | Saifalrehmans | [Read More](https://medium.com/p/6c2ad2c706d9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 09:58:41 GMT | How Key-Drop Kiosks Strengthen Customer Trust | Rakesh | [Read More](https://medium.com/p/ff98c8dc2e18) |
 | Thu, 18 Sep 2025 09:58:22 GMT | How We Got 2,000 Builders+ Without Spending on Ads | Akshay | [Read More](https://medium.com/p/f4c7b57e4630) |
 | Thu, 18 Sep 2025 09:53:46 GMT | Haven1: The Future of Real-World DeFi | Bantin | [Read More](https://medium.com/p/ef92a211d65c) |
-| Thu, 18 Sep 2025 09:50:56 GMT | My First CTF | Kadek Fajar Pramartha Yasodana | [Read More](https://medium.com/p/c1b19d82f13f) |
-| Thu, 18 Sep 2025 09:44:43 GMT | CVE-2025-5115: When HTTP/2 Becomes a Weapon | gm0 | [Read More](https://medium.com/p/d78c221648f7) |
-| Thu, 18 Sep 2025 09:33:18 GMT | Achieving Network Security Compliance with VAPT: A Smart Approach for Businesses | Jay C Roberts | [Read More](https://medium.com/p/e998d0ab24b8) |
-| Thu, 18 Sep 2025 09:32:25 GMT | Create More, Scroll Less: Why I Quit Most Social Media (Except Two) | Farah Deeva | [Read More](https://medium.com/p/5d23cbd56aa8) |
-| Thu, 18 Sep 2025 09:30:50 GMT | Day 6: The Insider Threat That Made Sarah Rethink Everything | Mahimagarg | [Read More](https://medium.com/p/8be080eb88a9) |
-| Thu, 18 Sep 2025 09:30:01 GMT | Bandit Walkthrough Level 0 → Level 1 | Hardik Ghuge | [Read More](https://medium.com/p/c10ee8ae6f0f) |
-| Thu, 18 Sep 2025 09:29:48 GMT | Why Your GRC Tool Shouldn’t Hold Your Keys? How CISOGenie is changing the game? | Cisogenemarketing | [Read More](https://medium.com/p/c48e0fafba96) |
-| Thu, 18 Sep 2025 09:28:10 GMT | Bounty Lab 2 - Writeup by InferiorAK - RCSC | InferiorAK | [Read More](https://medium.com/p/6d31cb644411) |
-| Thu, 18 Sep 2025 09:25:49 GMT | Worst Way to Die | Md Shaw Nawaz Reall | [Read More](https://medium.com/p/f44b935ee11b) |
