@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 21:54:31 GMT | I Tried Building Something Without Writing Any Code — Just Using AI Tools. The Result? | 0xNerix | [Read More](https://medium.com/p/e911fce9f5a6) |
+| Thu, 18 Sep 2025 21:47:40 GMT | The Vulnerability Chronicles: Self Pleasure and Mastering Being Alone | DamnAmazon | [Read More](https://medium.com/p/c981d919bb0f) |
 | Thu, 18 Sep 2025 21:31:11 GMT | What is an Operating System? | Atakan Bitim | [Read More](https://medium.com/p/c3fed1004046) |
 | Thu, 18 Sep 2025 21:31:08 GMT | İşletim Sistemi Nedir? | Atakan Bitim | [Read More](https://medium.com/p/72ac604242be) |
 | Thu, 18 Sep 2025 21:28:18 GMT | How the vulnerable are easily manipulated. | Amirah Rajasegaram | [Read More](https://medium.com/p/91d0b4f2a8bc) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 15:02:23 GMT | From Hacking Systems for Fun to Securing Millions: My Journey Through Both Sides of the Firewall | Anurag Mewar | [Read More](https://medium.com/p/60c842120797) |
 | Thu, 18 Sep 2025 15:01:18 GMT | From Abstract Terms to Acumen: SEO Poisoning | Cyb3rhawk | [Read More](https://medium.com/p/b4152ee21594) |
 | Thu, 18 Sep 2025 14:53:12 GMT | TryHackMe - Invite Only - WriteUp | Axoloth | [Read More](https://medium.com/p/37ed04d13043) |
-| Thu, 18 Sep 2025 14:51:45 GMT | Privilege Escalation Techniques Every Penetration Tester Must Know | Rizqi Mulki | [Read More](https://medium.com/p/c2f59627a5d5) |
-| Thu, 18 Sep 2025 14:50:05 GMT | Top 16 Cybersecurity Skills in High Demand | Champlain College Online | [Read More](https://medium.com/p/92b1847ff8e5) |
