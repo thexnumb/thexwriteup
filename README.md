@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 17:26:45 GMT | The Internet Connected Us, Ethereum Empowered Us, Drosera Will Automate Us | Rubynaruto | [Read More](https://medium.com/p/cd1f7cc07550) |
+| Thu, 18 Sep 2025 17:24:31 GMT | Building your Idea — No Stopping Yet | Tolulope Arobieke | [Read More](https://medium.com/p/d14b4895fdbf) |
+| Thu, 18 Sep 2025 17:23:21 GMT | “5 real world problems and how a GRC professional will solve them” (part 1) | Pragati gupta | [Read More](https://medium.com/p/73abac560991) |
+| Thu, 18 Sep 2025 17:12:11 GMT | The Digital Breadcrumb: How OSINT Solved a Case No One Could Crack | Rishisec | [Read More](https://medium.com/p/c024c7b9ab98) |
 | Thu, 18 Sep 2025 17:09:49 GMT | Not Using Multi-Factor Authentication (MFA)Subheading: Relying on passwords alone leaves… | Ehsanm135 | [Read More](https://medium.com/p/84ed94711605) |
 | Thu, 18 Sep 2025 17:02:19 GMT | The Strike That Wiped the Smile Off Putin’s Face | Alfred James | [Read More](https://medium.com/p/39a43f2b7726) |
 | Thu, 18 Sep 2025 16:59:50 GMT | Web3 Safety Playbook — AEO + GEO Optimized Article | Mohammad Abir Abbas | [Read More](https://medium.com/p/d0a3df1d08c2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 12:24:17 GMT | CISSP Training Online at Cybernous: Your Gateway to Global Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/bf9f787ef86e) |
 | Thu, 18 Sep 2025 12:23:25 GMT | APT Down – An Analytical Examination of the Kimsuky Leak | David SEHYEON Baek | [Read More](https://medium.com/p/3eabb18e0683) |
 | Thu, 18 Sep 2025 12:22:43 GMT | Hypothesis: White Holes as Invisible Engines of Cosmic Regeneration | Zayn shadow | [Read More](https://medium.com/p/4dbd8c512c78) |
-| Thu, 18 Sep 2025 12:21:15 GMT | Cron Jobs Gone Wild II | Dharmendrakumar | [Read More](https://medium.com/p/f4b4acaef158) |
-| Thu, 18 Sep 2025 12:17:52 GMT | Valley (Easy) CTF — TryHackMe Writeup | Error | [Read More](https://medium.com/p/42f81a032083) |
-| Thu, 18 Sep 2025 12:16:18 GMT | TryHackMe #27 - Networking Secure Protocols | 0xGroot | [Read More](https://medium.com/p/41e631e75c4d) |
-| Thu, 18 Sep 2025 12:12:59 GMT | MistTrack: Free AML Screening for USDT and Other Cryptocurrencies | Andrew Stocktan | [Read More](https://medium.com/p/9dd9b1eb0686) |
