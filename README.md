@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 15:07:23 GMT | Cyber Security and Data Confidentiality Digital Observation & Copyright Hacking | Aijaz Hussain | [Read More](https://medium.com/p/b7acc1c6ca56) |
+| Thu, 18 Sep 2025 15:06:01 GMT | Discover How to Access Emails Without Any Password | Ibtissam hammadi | [Read More](https://medium.com/p/5004e7be1fbd) |
+| Thu, 18 Sep 2025 15:02:23 GMT | From Hacking Systems for Fun to Securing Millions: My Journey Through Both Sides of the Firewall | Anurag Mewar | [Read More](https://medium.com/p/60c842120797) |
+| Thu, 18 Sep 2025 15:01:18 GMT | From Abstract Terms to Acumen: SEO Poisoning | Cyb3rhawk | [Read More](https://medium.com/p/b4152ee21594) |
+| Thu, 18 Sep 2025 14:53:12 GMT | TryHackMe - Invite Only - WriteUp | Axoloth | [Read More](https://medium.com/p/37ed04d13043) |
+| Thu, 18 Sep 2025 14:51:45 GMT | Privilege Escalation Techniques Every Penetration Tester Must Know | Rizqi Mulki | [Read More](https://medium.com/p/c2f59627a5d5) |
+| Thu, 18 Sep 2025 14:50:05 GMT | Top 16 Cybersecurity Skills in High Demand | Champlain College Online | [Read More](https://medium.com/p/92b1847ff8e5) |
+| Thu, 18 Sep 2025 14:47:44 GMT | SteganoAmor: TA558’s image-hidden malware targets oil, gas & maritime | Wes Young | [Read More](https://medium.com/p/1865d034c89f) |
+| Thu, 18 Sep 2025 14:47:43 GMT | Smartphone security: Protecting your digital identity in 2025 | Spokeo People Search | [Read More](https://medium.com/p/5d212da51e86) |
+| Thu, 18 Sep 2025 14:41:45 GMT | Your Vulnerability Is Y | Nikhil Lodha | [Read More](https://medium.com/p/05087fd0a7d4) |
 | Thu, 18 Sep 2025 14:36:32 GMT | Kerberoasting | SeverSerenity | [Read More](https://medium.com/p/c7b6ff3f8925) |
+| Thu, 18 Sep 2025 14:36:15 GMT | Sysmon Config and Sending Logs to Wazuh: Enhancing Endpoint Visibility | Arfan Abid | [Read More](https://medium.com/p/ee2ef3ad5e96) |
+| Thu, 18 Sep 2025 14:33:25 GMT | I WANT TO BE VULNERABLE BUT I DON’T TRUST HUMANS | Goody | [Read More](https://medium.com/p/8f311636c2d7) |
 | Thu, 18 Sep 2025 14:25:20 GMT | How I Recovered My Company’s Compromised AWS Account | Prabhash Umesha | [Read More](https://medium.com/p/5ed12a459bbe) |
 | Thu, 18 Sep 2025 14:22:53 GMT | The Restaking Revolution: EigenLayer Boosting Yield & Security | Ancilar Technologies | [Read More](https://medium.com/p/8c4a8c5f3a03) |
 | Thu, 18 Sep 2025 14:20:52 GMT | From Drift to Defense: A Practical Guide to Immutable Infrastructure | Udit Narayan (BlogOQA) | [Read More](https://medium.com/p/f6c99e32fb32) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 11:10:27 GMT | Kubernetes API Server Security: A Complete Guide for DevOps Engineers | Salwan Mohamed | [Read More](https://medium.com/p/f41943387450) |
 | Thu, 18 Sep 2025 11:09:56 GMT | The Entra ID Flaw That Let Apps Impersonate Anyone, Anywhere | SecurityScout | [Read More](https://medium.com/p/e4de02d65910) |
 | Thu, 18 Sep 2025 11:07:47 GMT | SpamGPT: How AI Is Supercharging Phishing Campaigns | Brittney Ginther | [Read More](https://medium.com/p/c0baa0f03441) |
-| Thu, 18 Sep 2025 11:04:55 GMT | Why is a Night Security Guard Necessary in Gurgaon | Pinki Chauhan | [Read More](https://medium.com/p/9409305e629d) |
-| Thu, 18 Sep 2025 11:04:48 GMT | The World War Q | ComsignTrust LTD | [Read More](https://medium.com/p/d6d089de40ed) |
-| Thu, 18 Sep 2025 11:01:45 GMT | Viren, Trojaner, Ransomware — so schützen Sie Ihre IT - norix.at | Norix IT-Support & Webdesign | [Read More](https://medium.com/p/76d0f0976b80) |
-| Thu, 18 Sep 2025 11:01:09 GMT | Blockchain’s Role in the Future of Digital Identity Management | Angel Singh | [Read More](https://medium.com/p/5cf2c9cd086a) |
-| Thu, 18 Sep 2025 11:00:07 GMT | Arena: digital. Pieces: code. King: trust. Put identity, signatures, and PKI first. | ComsignTrust LTD | [Read More](https://medium.com/p/b8944bb3a7ea) |
-| Thu, 18 Sep 2025 10:59:15 GMT | “Gorkha Intelligence Security: Discipline, Trust & Protection You Can Rely On” | Asfaque | [Read More](https://medium.com/p/23aac4a23d39) |
-| Thu, 18 Sep 2025 10:58:07 GMT | Best Mobile Application Security Course | cyber security Updates | [Read More](https://medium.com/p/19dcb20ba945) |
-| Thu, 18 Sep 2025 10:56:53 GMT | Android Sept ’25 Zero-Days: What to Patch Now | Pentest_Testing_Corp | [Read More](https://medium.com/p/4206d41fa8e2) |
-| Thu, 18 Sep 2025 10:54:26 GMT | Cisco Packet Tracer : Small Network model with Public Services | redskull | [Read More](https://medium.com/p/311ef374cd5f) |
-| Thu, 18 Sep 2025 10:47:57 GMT | From the Altar to the Cloud: A Timeless Guide to Handling Human Error | Shimon Rothschild CISSP | [Read More](https://medium.com/p/acc76e195b5e) |
-| Thu, 18 Sep 2025 10:46:02 GMT | Best Field Force Management Software In India - Track Your Field Operations | Gowthammathiew | [Read More](https://medium.com/p/e278d861b940) |
-| Thu, 18 Sep 2025 10:43:50 GMT | WiFi vs Data Seluler, Mana yang Lebih Cocok untuk Kebutuhanmu? | Alzar Mahira Muhamad Nur Imansyah | [Read More](https://medium.com/p/2fab4600d050) |
