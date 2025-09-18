@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 23:23:06 GMT | How Does Public Key Cryptography Work? | DumpBox | [Read More](https://medium.com/p/a8b766070ee6) |
+| Thu, 18 Sep 2025 23:21:44 GMT | Gaining Remote Access on Blue Windows (CTF Walkthrough) | ishaq Jafar | [Read More](https://medium.com/p/968e4599a069) |
 | Thu, 18 Sep 2025 23:09:03 GMT | LockBit Malware: The Ransomware Empire Threatening Businesses Everywhere | Akshay Chauhan | [Read More](https://medium.com/p/693db3e00c97) |
 | Thu, 18 Sep 2025 23:00:42 GMT | Eternal Wight Certificate | Jor El | [Read More](https://medium.com/p/03535bbe0555) |
 | Thu, 18 Sep 2025 22:57:29 GMT | How to Build a Bulletproof Smart Contract Security Pipeline | Officer's Notes | [Read More](https://medium.com/p/9a7cb40ec949) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 15:46:20 GMT | Is Antivirus Software Sufficient Protection Against Ransomware? The Shocking Truth for SMEs | Cordula Boeck | [Read More](https://medium.com/p/28345dacdfc4) |
 | Thu, 18 Sep 2025 15:39:17 GMT | String Me Along: How a Single Quote Unraveled a Site’s Security | Buffer | [Read More](https://medium.com/p/2e71ec4534e6) |
 | Thu, 18 Sep 2025 15:36:35 GMT | Introducing the First Public Leaderboard for LLM Watermarking | Kiel Dang | [Read More](https://medium.com/p/d8016acd1265) |
-| Thu, 18 Sep 2025 15:22:50 GMT | Money Laundering as a Service: How Scammers Siphon Your Money | Vijay Kumar Gupta | [Read More](https://medium.com/p/7540c01c7a89) |
-| Thu, 18 Sep 2025 15:17:45 GMT | Use Shodan Like A Hacker! | Mainekhacker | [Read More](https://medium.com/p/21aae8b37975) |
