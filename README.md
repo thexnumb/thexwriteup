@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 02:24:06 GMT | Why Europeans Are Obsessed with VPNs for Streaming (The Real Story Behind the Numbers) | rohan kumar | [Read More](https://medium.com/p/ad5a1f0285cf) |
+| Thu, 18 Sep 2025 02:21:28 GMT | Social Engineering and Insider Threats: What’s the Difference? | Elizabeth Ogbeche | [Read More](https://medium.com/p/2f13de3e8d61) |
+| Thu, 18 Sep 2025 02:16:05 GMT | The State of Modern AI: Where We Are and Where We’re Headed — Sanjay Ravigopal | Sanjay Ravigopal | [Read More](https://medium.com/p/eb8395caa2ec) |
+| Thu, 18 Sep 2025 02:11:43 GMT | Cybersecurity Interview question (part 4) | The Commoness | [Read More](https://medium.com/p/527850d65892) |
+| Thu, 18 Sep 2025 02:11:20 GMT | Connectors CTF 2025 — DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/6d66c31cce9a) |
+| Thu, 18 Sep 2025 01:58:29 GMT | AI-Enhanced Home Security: Facial Recognition and Anomaly Detection | R A N A   A H M A D | [Read More](https://medium.com/p/20d3c25d70e2) |
+| Thu, 18 Sep 2025 01:57:48 GMT | Vulnhub Mercury Walkthrough and Assessment | Luke Gearty | [Read More](https://medium.com/p/b60e9ae36985) |
+| Thu, 18 Sep 2025 01:57:46 GMT | Part I — From Orbit to Exploit: A Controlled Satellite Attack Emulation Inspired by Viasat | PWNSAT | [Read More](https://medium.com/p/bd97e5e5d2f9) |
+| Thu, 18 Sep 2025 01:56:19 GMT | Why People Dare to Bully You: Three Mistakes You’re Making | Austi Gene | [Read More](https://medium.com/p/7325335ab956) |
+| Thu, 18 Sep 2025 01:54:25 GMT | Zero-Trust Security on AWS: A Practical Implementation Guide | Rizqi Mulki | [Read More](https://medium.com/p/42553cbeb92b) |
+| Thu, 18 Sep 2025 01:51:35 GMT | ChatGPT-5 is a Pro Hacker! | Shahzaib | [Read More](https://medium.com/p/56ac9cbc9ead) |
+| Thu, 18 Sep 2025 01:51:07 GMT | AWS Savings Plans 2025: New Options and Optimization Strategies | Rizqi Mulki | [Read More](https://medium.com/p/88d0ede2bfc6) |
+| Thu, 18 Sep 2025 01:45:08 GMT | Prompt Engineering: Mastering the Art of Conversation with AI | Read. Teach. Post. Do. | [Read More](https://medium.com/p/64f348e03fca) |
+| Thu, 18 Sep 2025 01:27:44 GMT | Top Tech Careers in 2025 — High-Paying Jobs & In-Demand Skills | Jaytech | [Read More](https://medium.com/p/0f366ee81fad) |
 | Thu, 18 Sep 2025 01:16:23 GMT | Stop Using 777! Learn Linux Permissions the Right Way | Md. Moinul Islam | [Read More](https://medium.com/p/b5d0759700e5) |
 | Thu, 18 Sep 2025 01:11:12 GMT | Oracle WebLogic Remote Code Execution Vulnerability (CVE-2017–10271) | Criminal IP | [Read More](https://medium.com/p/44582a104f72) |
 | Thu, 18 Sep 2025 01:08:24 GMT | Comprehensive Guide to Cybersecurity Frameworks: Insights and Implementation (September 2025) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/a130e33a97e9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 16:53:21 GMT | Think Your Credit Card Is Safe? Dangerous Truth Exposed | Dalibor Zivkovic | [Read More](https://medium.com/p/2af7a8303a80) |
 | Wed, 17 Sep 2025 16:52:47 GMT | What is the difference between smoke testing and sanity testing? | Richa Ghosh | [Read More](https://medium.com/p/813e4d86aefb) |
 | Wed, 17 Sep 2025 16:50:13 GMT | Your Work Laptop Is a Data Leaker: The “Burn After Reading” Disaster Awaits! ⚠️ | Santhosh Kumar | [Read More](https://medium.com/p/6e301d3ccdee) |
-| Wed, 17 Sep 2025 16:48:48 GMT | Building a Secure Fortress within AI: A Developer’s Guide to Full-Stack Security | Jonathan Vila | [Read More](https://medium.com/p/08006b01192b) |
-| Wed, 17 Sep 2025 16:40:42 GMT | Hey Everyone this my first medium post. | Zaki | [Read More](https://medium.com/p/2f45e5dadc8d) |
-| Wed, 17 Sep 2025 16:40:00 GMT | Managers, Don’t Make It Awkward: Be Kind When Employees Ask for Recommendation Letters | Charukshi Wijesinghe | [Read More](https://medium.com/p/2041f11e6e02) |
-| Wed, 17 Sep 2025 16:39:22 GMT | Mastering Kubernetes Secrets: The DevOps Engineer’s Complete Guide to Secure Container… | Salwan Mohamed | [Read More](https://medium.com/p/c546183451b8) |
-| Wed, 17 Sep 2025 16:30:53 GMT | Transforming Care: How Modernized Healthcare IT & Managed Services Are Redefining Patient Outcomes | Teona | [Read More](https://medium.com/p/f3c98139f5a1) |
-| Wed, 17 Sep 2025 16:30:43 GMT | AppSec IR - Tryhackme | Aaron | [Read More](https://medium.com/p/efc05fdd97f5) |
-| Wed, 17 Sep 2025 16:29:53 GMT | The Questions We’re Afraid to Ask | Ava Hayes | [Read More](https://medium.com/p/e45cc8bfd878) |
-| Wed, 17 Sep 2025 16:29:23 GMT | ️ Spidering in Cybersecurity: How Hackers Crawl the Web Like Spiders | Natarajan C K | [Read More](https://medium.com/p/d5b62d8463f8) |
-| Wed, 17 Sep 2025 16:24:34 GMT | Incident Response Best Practices | Cyber Security Research | [Read More](https://medium.com/p/9114931be2b8) |
-| Wed, 17 Sep 2025 16:23:08 GMT | The Definitive Guide to Android App Pentesting: From Fundamentals to Professional Reporting | Jai Bhattachhary | [Read More](https://medium.com/p/78679afe56bd) |
-| Wed, 17 Sep 2025 16:18:16 GMT | Ethical Hacking and Penetration Testing | Cyber Security Research | [Read More](https://medium.com/p/1ca2e5b128a9) |
-| Wed, 17 Sep 2025 16:16:11 GMT | Crypto and the Comeback of Hostage Capitalism | Perimeter Lab | [Read More](https://medium.com/p/1cc456053d9b) |
-| Wed, 17 Sep 2025 16:14:39 GMT | Issue #243 — Terraform Remote Code Execution, “resource must be replaced”, Designing Terraform… | Anton Babenko | [Read More](https://medium.com/p/6d6822ef5e0a) |
-| Wed, 17 Sep 2025 16:12:09 GMT | Cloud Security Challenges and Solutions | Cyber Security Research | [Read More](https://medium.com/p/b8b5197a32e0) |
