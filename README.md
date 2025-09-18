@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 03:17:24 GMT | Explotando Vulnerabilidades XSS y IDOR en la Plataforma OpenEnglish, Divulgación Responsable | Time_Clocker/Hack_and_Learn | [Read More](https://medium.com/p/0815032198e4) |
+| Thu, 18 Sep 2025 03:13:49 GMT | Top 5 Threats CISOs Must Prepare for in the Next 12 Months | Dr. Deep Pandey | [Read More](https://medium.com/p/5eb99af5d953) |
+| Thu, 18 Sep 2025 03:03:49 GMT | Securing Internet of Things Devices | Cyber Security Research | [Read More](https://medium.com/p/98f0fa40c210) |
+| Thu, 18 Sep 2025 03:02:05 GMT | Ledger — TryHackMe Walkthrough | NTHSec | [Read More](https://medium.com/p/21d6013ec761) |
+| Thu, 18 Sep 2025 02:55:14 GMT | CyberDefenders — Fog Ransomware Lab | jon | [Read More](https://medium.com/p/5959307a32af) |
+| Thu, 18 Sep 2025 02:49:21 GMT | How to Start a Career in Cybersecurity in 2025 | EHxAnomity | [Read More](https://medium.com/p/87941eab5447) |
+| Thu, 18 Sep 2025 02:47:20 GMT | I HACKED testphp.vulnweb.com #CyberKalki #infosec | Krivadna | [Read More](https://medium.com/p/212ae043e8e8) |
+| Thu, 18 Sep 2025 02:44:52 GMT | From Pods to Privilege Escalation: My Journey with the K8s-RTA Certification | Tariqalabdullah | [Read More](https://medium.com/p/6220ace5c70f) |
 | Thu, 18 Sep 2025 02:24:06 GMT | Why Europeans Are Obsessed with VPNs for Streaming (The Real Story Behind the Numbers) | rohan kumar | [Read More](https://medium.com/p/ad5a1f0285cf) |
 | Thu, 18 Sep 2025 02:21:28 GMT | Social Engineering and Insider Threats: What’s the Difference? | Elizabeth Ogbeche | [Read More](https://medium.com/p/2f13de3e8d61) |
 | Thu, 18 Sep 2025 02:16:05 GMT | The State of Modern AI: Where We Are and Where We’re Headed — Sanjay Ravigopal | Sanjay Ravigopal | [Read More](https://medium.com/p/eb8395caa2ec) |
@@ -39,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 23:10:35 GMT | [TR] Invite Only - TryHackMe | Güven Emre Keskin | [Read More](https://medium.com/p/550b2b48d1c9) |
 | Wed, 17 Sep 2025 23:10:22 GMT | YARA Cheatsheet — Essential reference for malware hunters | Khalil Z. | [Read More](https://medium.com/p/bd5f6fdb312b) |
 | Wed, 17 Sep 2025 23:01:46 GMT | Designing for trust in generative AI products | DiUS | [Read More](https://medium.com/p/af0d97bd4a48) |
+| Wed, 17 Sep 2025 22:53:56 GMT | Chaining Vulnerabilities TryHackMe | Hydsec | [Read More](https://medium.com/p/f6205fa3a44f) |
 | Wed, 17 Sep 2025 22:52:50 GMT | Touch-Screen MacBook Pro Rumors: What to Expect | Trendy String | [Read More](https://medium.com/p/dfa4ba1b4a9e) |
 | Wed, 17 Sep 2025 22:43:41 GMT | Cookie Shadowing and CSP bypass to read httpOnly cookie— Way too easy (CONCTF finals) | Kalawy | [Read More](https://medium.com/p/0de7dda28ee6) |
 | Wed, 17 Sep 2025 22:37:35 GMT | Chili Palmer’s Guard House | The Blessed Meathead | [Read More](https://medium.com/p/1fe04b9a2d78) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Sep 2025 17:26:39 GMT | UUIDv1 And Sandwich Attacks | Diman | [Read More](https://medium.com/p/2ab3d69cffdd) |
 | Wed, 17 Sep 2025 17:23:02 GMT | Navigating My Cybersecurity Journey: A Beginner’s Perspective (day-1) | Sadina Upreti | [Read More](https://medium.com/p/f62fda6f7995) |
 | Wed, 17 Sep 2025 17:18:45 GMT | AS-REP Roasting | SeverSerenity | [Read More](https://medium.com/p/1f83be96e736) |
-| Wed, 17 Sep 2025 17:10:51 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/7d073dceeb93) |
-| Wed, 17 Sep 2025 17:06:51 GMT | STEP BY STEP PROCESS ON HOW I WAS ABLE TO GAIN A REMOTE SHELL IN MY KIOPTRIX LEVEL 1 MACHINE | Favour Fidelis | [Read More](https://medium.com/p/49383516d26a) |
-| Wed, 17 Sep 2025 17:04:46 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/a799aedd9973) |
-| Wed, 17 Sep 2025 17:03:31 GMT | How to build a bank p2: The firewall | Logan Elkins | [Read More](https://medium.com/p/199ff2bc9e8f) |
-| Wed, 17 Sep 2025 16:56:54 GMT | ️ Part 12 — Lock It Down Without Slowing It Down: Security & Governance That Scale | Sonal Sadafal | [Read More](https://medium.com/p/4df5223a63d7) |
-| Wed, 17 Sep 2025 16:56:31 GMT | Edge Manageability Framework —Improved On-Prem User Experience with Trusted Certificates | Russel Callen | [Read More](https://medium.com/p/7c05f8dbb17d) |
-| Wed, 17 Sep 2025 16:53:21 GMT | Think Your Credit Card Is Safe? Dangerous Truth Exposed | Dalibor Zivkovic | [Read More](https://medium.com/p/2af7a8303a80) |
-| Wed, 17 Sep 2025 16:52:47 GMT | What is the difference between smoke testing and sanity testing? | Richa Ghosh | [Read More](https://medium.com/p/813e4d86aefb) |
-| Wed, 17 Sep 2025 16:50:13 GMT | Your Work Laptop Is a Data Leaker: The “Burn After Reading” Disaster Awaits! ⚠️ | Santhosh Kumar | [Read More](https://medium.com/p/6e301d3ccdee) |
