@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Sep 2025 16:15:07 GMT | AI Browsers: Convenience or Critical Security Blind Spot? | Graylog | [Read More](https://medium.com/p/da8be6c0edd3) |
+| Thu, 18 Sep 2025 16:11:39 GMT | Chainguard: Container Image Security | W. Jenks Gibbons | [Read More](https://medium.com/p/2972055be20c) |
+| Thu, 18 Sep 2025 16:07:03 GMT | How a WhatsApp Message Travels from Your Phone to Theirs | Richa Gautam | [Read More](https://medium.com/p/9373d18498de) |
+| Thu, 18 Sep 2025 15:58:34 GMT | Mojí fotovoltaiku číňan nevypne (snad) | Jiri Stepan | [Read More](https://medium.com/p/405d98d63319) |
+| Thu, 18 Sep 2025 15:56:55 GMT | Advanced SOLID & Security Practices in Real Frontend Code | Sanjeevani Bhandari | [Read More](https://medium.com/p/b618f030c85c) |
+| Thu, 18 Sep 2025 15:52:30 GMT | Engineering Decisions That Don’t Follow the Rules (And How to Explain Them) | Marta Bencomo | [Read More](https://medium.com/p/1aabbc056e1e) |
+| Thu, 18 Sep 2025 15:50:12 GMT | ️ Lazy Loading in Web Applications: Serving Only When You Ask | Natarajan C K | [Read More](https://medium.com/p/ac66a1977d14) |
+| Thu, 18 Sep 2025 15:46:20 GMT | Is Antivirus Software Sufficient Protection Against Ransomware? The Shocking Truth for SMEs | Cordula Boeck | [Read More](https://medium.com/p/28345dacdfc4) |
 | Thu, 18 Sep 2025 15:39:17 GMT | String Me Along: How a Single Quote Unraveled a Site’s Security | Buffer | [Read More](https://medium.com/p/2e71ec4534e6) |
+| Thu, 18 Sep 2025 15:36:35 GMT | Introducing the First Public Leaderboard for LLM Watermarking | Kiel Dang | [Read More](https://medium.com/p/d8016acd1265) |
 | Thu, 18 Sep 2025 15:22:50 GMT | Money Laundering as a Service: How Scammers Siphon Your Money | Vijay Kumar Gupta | [Read More](https://medium.com/p/7540c01c7a89) |
 | Thu, 18 Sep 2025 15:17:45 GMT | Use Shodan Like A Hacker! | Mainekhacker | [Read More](https://medium.com/p/21aae8b37975) |
 | Thu, 18 Sep 2025 15:15:29 GMT | “Unearthing Digital Gold: A Practical Guide to Finding Bugs in JavaScript Files” | Aman Sharma | [Read More](https://medium.com/p/1e6338c73899) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 11:52:49 GMT | HTTP-Header XSS : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/76abd609e879) |
 | Thu, 18 Sep 2025 11:47:21 GMT | Mastering Reconnaissance Techniques: A Step-by-Step Guide to Uncovering Digital Assets | BHUWAM DIXIT | [Read More](https://medium.com/p/04d6a1535676) |
 | Thu, 18 Sep 2025 11:42:55 GMT | Unpacking TLS: A Deep Dive into TLS Record | Techleadgurdeepgill | [Read More](https://medium.com/p/35fe130adc80) |
-| Thu, 18 Sep 2025 11:42:21 GMT | Why Some Men Need to Stop Sending DMs to Women They Don’t Know | Dr. Pamela Ramirez, PsyD, PhD, MD | [Read More](https://medium.com/p/239f820407f0) |
-| Thu, 18 Sep 2025 11:41:15 GMT | OWASP Juice Shop: Broken Access Control-Finding the Web3 Sandbox Path | Risskian | [Read More](https://medium.com/p/32db7cf04851) |
-| Thu, 18 Sep 2025 11:41:04 GMT | Real-Time Security Insights: How Report Analytics Transforms Smarter, Safer Decisions | ICORP Security | [Read More](https://medium.com/p/69218812ef47) |
-| Thu, 18 Sep 2025 11:30:01 GMT | This skill is a two-way street. | Martin Abramov | [Read More](https://medium.com/p/a7f5f4455439) |
-| Thu, 18 Sep 2025 11:27:02 GMT | Why Should You Choose a Cybersecurity Course in Kolkata? | Boston Institute kolkata | [Read More](https://medium.com/p/ca5163c9244f) |
-| Thu, 18 Sep 2025 11:23:55 GMT | The “Verified Extension” Illusion: Inside the July 2025 VSCode Flaw That EDR Missed | DarkLayer Security | [Read More](https://medium.com/p/1113801f4717) |
-| Thu, 18 Sep 2025 11:17:10 GMT | How Educational Institutions Benefit from Information Kiosks | Rakesh | [Read More](https://medium.com/p/cca2688d6d82) |
-| Thu, 18 Sep 2025 11:16:16 GMT | How IoT is Transforming Office Security & Access Management | Joven A Rodrigues | [Read More](https://medium.com/p/13ca6864ab10) |
-| Thu, 18 Sep 2025 11:15:15 GMT | Why VAPT is Crucial for Financial Services and Banks | Samita | [Read More](https://medium.com/p/967358bddee2) |
