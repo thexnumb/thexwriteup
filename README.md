@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 09:36:24 GMT | When Grief Shows Up at My Door: Burnout, menopause, and the ghostly weight of evenings. | Eleanorkojan | [Read More](https://medium.com/p/9a8a88a3ea98) |
+| Fri, 19 Sep 2025 09:32:13 GMT | Why Enterprises Are Quietly Ditching Dedicated Servers | Rizqi Mulki | [Read More](https://medium.com/p/1f4972dd6311) |
+| Fri, 19 Sep 2025 09:26:57 GMT | Navigating the Evolving Threat Landscape: A Weekly Briefing —VIEH Security Research Team | VIEH Security Research Team | [Read More](https://medium.com/p/6d6330447956) |
+| Fri, 19 Sep 2025 09:26:53 GMT | Exploring Reflected XSS Vulnerabilities in Educational Platforms | Yaliyanto | [Read More](https://medium.com/p/2f134f96cb03) |
+| Fri, 19 Sep 2025 09:26:03 GMT | Linux Intrusion Detection Systems Advanced: Snort, Suricata, and More | Eren Cankut Uysal | [Read More](https://medium.com/p/506066004a2e) |
+| Fri, 19 Sep 2025 09:25:03 GMT | How I Uncovered an IDOR That Exposed Other Employee’s Personal Data | Hari Kishore | [Read More](https://medium.com/p/4ab9a85b9579) |
+| Fri, 19 Sep 2025 09:23:51 GMT | “1000 Apps, No Job?” IT Vets, You’re Not Alone. Here’s Why & How to Fix It. | Truspex | [Read More](https://medium.com/p/cb11e5a0196d) |
+| Fri, 19 Sep 2025 09:23:30 GMT | ISO/IEC 27001/27002: Transforming Information Security into a Process Discipline | Umut Akbulut | [Read More](https://medium.com/p/06bf1a9325cf) |
 | Fri, 19 Sep 2025 09:22:05 GMT | Home Security Cameras In Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/cb27a0301efb) |
 | Fri, 19 Sep 2025 09:21:54 GMT | Orochi: Igniting the Future of Finance with Verifiable RWA Data | Yuglathiya | [Read More](https://medium.com/p/315058e2b95b) |
+| Fri, 19 Sep 2025 09:21:36 GMT | 10 Python Tricks That Will Make You a More Efficient Developer in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/599874bbf478) |
 | Fri, 19 Sep 2025 09:15:24 GMT | The Robot Revolution: How AI-Powered Security is Transforming Data Centers | Arunkumar | [Read More](https://medium.com/p/d1f70c0388bc) |
 | Fri, 19 Sep 2025 09:14:57 GMT | Engineering Trust: The Security and Scalability Architecture Behind VERAXIS Global Business School… | VERAXIS Global Business School（VRXS） | [Read More](https://medium.com/p/132be7373351) |
 | Fri, 19 Sep 2025 09:11:03 GMT | Cyber Threat Intelligence: How to Investigate IPs and Domains - TryHackMe Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/f5747bc05734) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 04:30:38 GMT | Data Center Perimeter Security Video Analytics in Kuwait | Tekshoyabeelyas | [Read More](https://medium.com/p/b958f7ab31de) |
 | Fri, 19 Sep 2025 04:30:37 GMT | Email Injection Madness: Spoofing the CEO With a Single Payload! | Iski | [Read More](https://medium.com/p/1b97fba50ade) |
 | Fri, 19 Sep 2025 04:27:54 GMT | The Beginner’s Guide to Strong Passwords (And Why Yours Is Probably Weak) | Aj | [Read More](https://medium.com/p/ea3d69961f36) |
-| Fri, 19 Sep 2025 04:24:41 GMT | From Query Param to Cookie Poisoning: How WAFs Fail at Security | Sarthak Saxena | [Read More](https://medium.com/p/69f784822635) |
-| Fri, 19 Sep 2025 04:12:46 GMT | SQL Injection pada aplikasi Sistem Informasi Manajemen UPNVJ | Rico Andreas | [Read More](https://medium.com/p/88ba5169f6bf) |
-| Fri, 19 Sep 2025 04:05:32 GMT | Guía Completa de Kubernetes NetworkPolicies: Protege tu Cluster Como un Experto | Giovanny Orjuela | [Read More](https://medium.com/p/0eecf608498f) |
-| Fri, 19 Sep 2025 03:49:50 GMT | Quantum Threats and the Future of Blockchain Security | Dukerearing | [Read More](https://medium.com/p/5fac93ed609e) |
-| Fri, 19 Sep 2025 03:46:56 GMT | CCNA Learning Journey — Part 01 | Ivan gammanpila | [Read More](https://medium.com/p/17987726732e) |
-| Fri, 19 Sep 2025 03:45:59 GMT | Why “MTTD Drift” Is Your Next Cybersecurity KRI | Dr. Deep Pandey | [Read More](https://medium.com/p/18678d0159c7) |
-| Fri, 19 Sep 2025 03:32:21 GMT | A Wake-Up Call for Platform Security | Akshat Ratanpal | [Read More](https://medium.com/p/cd1215374cda) |
-| Fri, 19 Sep 2025 03:32:20 GMT | SmartLoader Malware Masquerades as Legitimate GitHub Projects to Spread Infostealers | Deven Chhajed | [Read More](https://medium.com/p/3ad98f119cb7) |
-| Fri, 19 Sep 2025 03:28:02 GMT | The Future of Work: How AI Will Change Your Job and How to Adapt | Ayesha Rasheed Rajpoot | [Read More](https://medium.com/p/561795ee6322) |
