@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 23:14:02 GMT | TLDR; The Online Safety Act | Its Not Nicole | [Read More](https://medium.com/p/085aca328d88) |
+| Fri, 19 Sep 2025 23:06:15 GMT | Contrabando writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/b3b966ea51b0) |
+| Fri, 19 Sep 2025 23:06:11 GMT | Mobile App Security Compliance AI Prompts Pack | Mohammad Abir Abbas | [Read More](https://medium.com/p/b50588700113) |
+| Fri, 19 Sep 2025 22:56:19 GMT | User Credentials : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/f6a98a29e663) |
+| Fri, 19 Sep 2025 22:56:15 GMT | Why Most Capture The Flag Challenges Focus on Misconfigurations, Not Tools | Onurcan Genç | [Read More](https://medium.com/p/d015f8acfeda) |
+| Fri, 19 Sep 2025 22:52:31 GMT | An Open Letter to all Cybersecurity Enthusiasts | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/3b20b0e5ccb1) |
+| Fri, 19 Sep 2025 22:44:02 GMT | CyberDefenders: WebStrike Lab | Rahaliashraf | [Read More](https://medium.com/p/e452c9f6597b) |
 | Fri, 19 Sep 2025 22:35:23 GMT | Balancing Security & Productivity | Matthew.Rosenquist | [Read More](https://medium.com/p/df955570bcd5) |
 | Fri, 19 Sep 2025 22:15:21 GMT | DANABOT. The Tale of A DDoS Attack. | Adewale Ayomide | [Read More](https://medium.com/p/630ce77a1cd4) |
 | Fri, 19 Sep 2025 22:10:17 GMT | Your Emotions Aren’t the Enemy | The Inflection | [Read More](https://medium.com/p/087c8f87364d) |
@@ -106,10 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 16:42:00 GMT | Assessment Methodologies: Enumeration CTF 1 | Xnirkun | [Read More](https://medium.com/p/7fb372c84055) |
 | Fri, 19 Sep 2025 16:41:57 GMT | 7 AI + LLM Project Ideas Every Security Professional Should Try in 2025 | Paritosh | [Read More](https://medium.com/p/abc154cebeb4) |
 | Fri, 19 Sep 2025 16:35:04 GMT | The AI Runway: Why Foundational IT Still Matters in an AI-First World | Nichele Dudley | [Read More](https://medium.com/p/400c4f2ccdc9) |
-| Fri, 19 Sep 2025 16:35:03 GMT | Cybersecurity in the Age of AI: Battling Smarter Threats with Smarter Defenses | Prav | [Read More](https://medium.com/p/f342e8caa91a) |
-| Fri, 19 Sep 2025 16:30:15 GMT | Account Takeover via Unicode-Encoded Email | BAPPAYNE | [Read More](https://medium.com/p/d22c8febc274) |
-| Fri, 19 Sep 2025 16:24:41 GMT | What’s Your Biggest Struggle With Consistency? | Aliyu Ibrahim | [Read More](https://medium.com/p/db3d4768c46c) |
-| Fri, 19 Sep 2025 16:23:44 GMT | Managed Security Services: Protecting Businesses in the Digital Age | secureroot | [Read More](https://medium.com/p/2d9f24a1fbeb) |
-| Fri, 19 Sep 2025 16:17:57 GMT | Man Enough to Cry | Yul In Da Cloud | [Read More](https://medium.com/p/bf426c9d789e) |
-| Fri, 19 Sep 2025 16:02:31 GMT | What I Learned About Linux: A Beginner’s Guide to Its History, Uses, and Importance - Sayanth | Sayanth | [Read More](https://medium.com/p/315022402079) |
-| Fri, 19 Sep 2025 16:02:02 GMT | Day 7: The 3 AM Slack Message That Exposed Every Password in Production | Mahimagarg | [Read More](https://medium.com/p/9bcd3e42b93c) |
