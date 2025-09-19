@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 22:35:23 GMT | Balancing Security & Productivity | Matthew.Rosenquist | [Read More](https://medium.com/p/df955570bcd5) |
+| Fri, 19 Sep 2025 22:15:21 GMT | DANABOT. The Tale of A DDoS Attack. | Adewale Ayomide | [Read More](https://medium.com/p/630ce77a1cd4) |
+| Fri, 19 Sep 2025 22:10:17 GMT | Your Emotions Aren’t the Enemy | The Inflection | [Read More](https://medium.com/p/087c8f87364d) |
 | Fri, 19 Sep 2025 22:02:29 GMT | ZT-Lite: Building a Zero Trust Simulation in Azure Free Tier | Hemavarna Sundar | [Read More](https://medium.com/p/7cb169d80764) |
 | Fri, 19 Sep 2025 21:54:11 GMT | SonicWall Breach: Why Even Encrypted Backups Aren’t Safe Anymore | Cyber-AppSec | [Read More](https://medium.com/p/82bf19fc1b1b) |
 | Fri, 19 Sep 2025 21:51:59 GMT | Artificial intelligence .. And interesting details of one day from the life of a journalist in 2027 | Sidialtos | [Read More](https://medium.com/p/c91972159e96) |
@@ -110,6 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 16:17:57 GMT | Man Enough to Cry | Yul In Da Cloud | [Read More](https://medium.com/p/bf426c9d789e) |
 | Fri, 19 Sep 2025 16:02:31 GMT | What I Learned About Linux: A Beginner’s Guide to Its History, Uses, and Importance - Sayanth | Sayanth | [Read More](https://medium.com/p/315022402079) |
 | Fri, 19 Sep 2025 16:02:02 GMT | Day 7: The 3 AM Slack Message That Exposed Every Password in Production | Mahimagarg | [Read More](https://medium.com/p/9bcd3e42b93c) |
-| Fri, 19 Sep 2025 16:01:47 GMT | The Ultimate Guide to Spotting and Avoiding Survey Scams | Stephon Anderson | [Read More](https://medium.com/p/f8635d4c9535) |
-| Fri, 19 Sep 2025 16:01:03 GMT | NPM Supply Chain Attack: How I Checked My Code After Breach | Hareem Fatima | [Read More](https://medium.com/p/9bb18f8c8ca7) |
-| Fri, 19 Sep 2025 16:00:55 GMT | Copilots are powerful, but don’t let them expose your credentials | Anas Anjaria | [Read More](https://medium.com/p/c2ab9308bd96) |
