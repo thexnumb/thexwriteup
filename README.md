@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 18:18:14 GMT | Beyond Compliance: How AI Video Helps Keep Employees Safe and Supported | Tec-Tel Communications | [Read More](https://medium.com/p/77ba74058a22) |
+| Fri, 19 Sep 2025 18:15:43 GMT | Day 7: How a 13-Year-Old Kid Found a Bug in Google | Viratavi | [Read More](https://medium.com/p/086fcd84227a) |
+| Fri, 19 Sep 2025 18:13:52 GMT | School Safety, Upgraded: How AI Cameras Help Keep Students and Staff Protected | Tec-Tel Communications | [Read More](https://medium.com/p/b5a0c962df41) |
+| Fri, 19 Sep 2025 18:12:19 GMT | Deep Web: O Lado Oculto da Internet que Poucos Conhecem | Cantinho Binário | [Read More](https://medium.com/p/eaa90b6a734d) |
+| Fri, 19 Sep 2025 18:07:53 GMT | Day 4 — Password Cracking Essentials: John the Ripper & Hashcat | OxErvin | [Read More](https://medium.com/p/3348cdb2a01d) |
+| Fri, 19 Sep 2025 18:07:37 GMT | Zeek “Exercises” [SOC] — writeup #5 | D4m.sh | [Read More](https://medium.com/p/8de8aaef43b6) |
+| Fri, 19 Sep 2025 18:05:26 GMT | eBPF and Security — Watching Over the Kernel | Samiksha Khadka | [Read More](https://medium.com/p/9e8c24e7dac5) |
+| Fri, 19 Sep 2025 18:04:23 GMT | When AI and Robotics Know Too Much: Why You Can’t Give Away Everything | Pitt Tech | [Read More](https://medium.com/p/ea9e246062f0) |
+| Fri, 19 Sep 2025 17:58:27 GMT | Phishing’s Frankenstein: QR-Based BiTM | Ashley Dai | [Read More](https://medium.com/p/cace1b6143da) |
+| Fri, 19 Sep 2025 17:58:12 GMT | Chaining Vulnerabilities - Tryhackme | Aaron | [Read More](https://medium.com/p/9e2ab6d5da5b) |
+| Fri, 19 Sep 2025 17:53:35 GMT | Stored XSS in Email Notifications on Insightly CRM | Regan Temudo | [Read More](https://medium.com/p/8088ab4eaa2c) |
+| Fri, 19 Sep 2025 17:53:14 GMT | Lookup Try Hack Me Walkthrough | NourInTech | [Read More](https://medium.com/p/797dd5f62832) |
+| Fri, 19 Sep 2025 17:41:15 GMT | How to Choose the Right Server Support Partner - Expert Guide 2025 | Ecasys | [Read More](https://medium.com/p/68f0bc211003) |
 | Fri, 19 Sep 2025 17:35:21 GMT | How Developers Are Using Apple’s Local AI Models in iOS 26 | Aaron | [Read More](https://medium.com/p/4068bdc4b27e) |
 | Fri, 19 Sep 2025 17:34:08 GMT | Adding Intelligence to the Firewalls | Samratthsingh | [Read More](https://medium.com/p/18e30b422beb) |
+| Fri, 19 Sep 2025 17:33:20 GMT | ⚠️ The NewJeans Hack - What Can We Uncover | R4shSec | [Read More](https://medium.com/p/677e4cd398b0) |
 | Fri, 19 Sep 2025 17:30:15 GMT | 5 Easy Cybersecurity Tasks That Can Pay Your Rent | vydhi | [Read More](https://medium.com/p/159432b2d71a) |
 | Fri, 19 Sep 2025 17:29:19 GMT | Why I Moved My Home Lab from VMware to KVM + Cockpit | Sreeraj K | [Read More](https://medium.com/p/91505a167e45) |
 | Fri, 19 Sep 2025 17:25:26 GMT | When Reading Wasn’t Enough: My First Encounter With a Real Cyber Threat | Shahzaib | [Read More](https://medium.com/p/09918ed21fbf) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 13:47:45 GMT | TryHackMe #28 - Wireshark: The Basics | 0xGroot | [Read More](https://medium.com/p/a63e71e7e6f0) |
 | Fri, 19 Sep 2025 13:41:28 GMT | HTB — Baby (Easy) Walkthrough | Shnogeorgiev | [Read More](https://medium.com/p/4d044656b9fc) |
 | Fri, 19 Sep 2025 13:33:06 GMT | The Pivot Method: Technical Moves for Bug Hunters in Progress | Vicricsec | [Read More](https://medium.com/p/b767bcee8911) |
-| Fri, 19 Sep 2025 13:27:10 GMT | Part 26: Authorization With Ash Policies (Part 2/2) | Kamaro Lambert | [Read More](https://medium.com/p/60f2a00e35f2) |
-| Fri, 19 Sep 2025 13:19:29 GMT | The Deepfake Arms Race: Can We Still Trust What We See? | Sathish Thiyagarajan | [Read More](https://medium.com/p/fa1e94f3e027) |
-| Fri, 19 Sep 2025 13:17:45 GMT | The Adult’s Greatest Clarity: Excel at Work, Cherish Family, and Live for Yourself | kitty | [Read More](https://medium.com/p/2f9e41ac1592) |
-| Fri, 19 Sep 2025 13:17:45 GMT | Bypassing Complicated WiFi Security In Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/4d412dc77bd9) |
-| Fri, 19 Sep 2025 13:17:45 GMT | Cross-Site Scripting: How XSS Attacks Exploit Modern Web Applications | Rizqi Mulki | [Read More](https://medium.com/p/79f92a9e5bf5) |
-| Fri, 19 Sep 2025 13:11:27 GMT | OAuth vs JWT: Which Authentication Method Should You Use? | Ragul Rasalingam | [Read More](https://medium.com/p/4c832a3802d6) |
-| Fri, 19 Sep 2025 13:10:17 GMT | From Silos to Synergy: The Rise of SecOps in Enterprise Security | Saloni | [Read More](https://medium.com/p/b725a3daeb4b) |
-| Fri, 19 Sep 2025 13:08:33 GMT | Cybersecurity News TL;DR — 09/19/25 | Chandler Williams | [Read More](https://medium.com/p/717459f701b8) |
-| Fri, 19 Sep 2025 13:06:39 GMT | CVE-2025–55241: The Actor Token Apocalypse | gm0 | [Read More](https://medium.com/p/6486b6912a00) |
-| Fri, 19 Sep 2025 13:06:19 GMT | Mastering the Metasploit Framework: Your Guide to Penetration Testing | Krishnakaiwartya | [Read More](https://medium.com/p/5c64ce04da73) |
-| Fri, 19 Sep 2025 13:05:35 GMT | H I J A X: Demystifying Session Hijacking | ekomsSavior | [Read More](https://medium.com/p/03ad0e70406b) |
-| Fri, 19 Sep 2025 13:03:31 GMT | 100 user streaming server resources | Streamer Device | [Read More](https://medium.com/p/564528c35e31) |
-| Fri, 19 Sep 2025 13:01:45 GMT | Active Directory Setup with PowerShell on a Windows Server VM: A Step-by-Step Refresher | Tyrik Emptage | [Read More](https://medium.com/p/2adeb259eba1) |
-| Fri, 19 Sep 2025 12:58:35 GMT | Ring Security Cameras Compared: Which One Is Right for Your Home? | Essential Tech Accesories | [Read More](https://medium.com/p/96ce91627c01) |
