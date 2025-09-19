@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 20:05:35 GMT | CVE-2025–10585: The Chrome V8 Zero-Day You Need to Patch Today ⚔️️ | Aditya Bhatt | [Read More](https://medium.com/p/8168aa7f79cd) |
+| Fri, 19 Sep 2025 20:02:13 GMT | Guarding our democracy:
+The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma | [Read More](https://medium.com/p/d5719d1dd3d8) |
+| Fri, 19 Sep 2025 20:01:31 GMT | For enterprise environments requiring strong hardware-backed authentication, pam_pkcs11 enables… | Cyber Security Research | [Read More](https://medium.com/p/137741c36ad9) |
+| Fri, 19 Sep 2025 19:57:14 GMT | First Principle Thinking While Building a Secure Product — Part 1 | Juhie Chandra | [Read More](https://medium.com/p/552f1a16247b) |
+| Fri, 19 Sep 2025 19:55:00 GMT | Digital Transformation and Cybersecurity Risks | Cyber Security Research | [Read More](https://medium.com/p/fe115f831d7c) |
+| Fri, 19 Sep 2025 19:49:38 GMT | API Security Best Practices | Cyber Security Research | [Read More](https://medium.com/p/4416f584ff9f) |
+| Fri, 19 Sep 2025 19:49:31 GMT | CyberDefenders — MeteorHit Lab | jon | [Read More](https://medium.com/p/455fd4347d85) |
+| Fri, 19 Sep 2025 19:43:03 GMT | Securing Serverless Architectures | Cyber Security Research | [Read More](https://medium.com/p/53514803c01a) |
+| Fri, 19 Sep 2025 19:42:44 GMT | TryHackMe — Jack-of-All-Trades Walkthrough/Write-Up | Vedant Bhalerao | [Read More](https://medium.com/p/a56cb9bf2ec6) |
+| Fri, 19 Sep 2025 19:41:43 GMT | Strategic Moves for OT and ICS Cyber-Security Vendors to Turbocharge Growth | Nicolas Mialaret | [Read More](https://medium.com/p/c7645ab216b1) |
+| Fri, 19 Sep 2025 19:37:11 GMT | The Dark Side of Deepfakes | Cyber Security Research | [Read More](https://medium.com/p/a707ce9ae185) |
 | Fri, 19 Sep 2025 19:33:53 GMT | LLNMR Poisoning (Active Directory and Windows Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/fd9bd9c2d0d9) |
+| Fri, 19 Sep 2025 19:31:39 GMT | Python language Instagram follower increase tool | Wahyu Haxor | [Read More](https://medium.com/p/f38cf3ca3fc6) |
 | Fri, 19 Sep 2025 19:22:06 GMT | Introduction: The Automation of Threat | Michael Weinberger | [Read More](https://medium.com/p/0c2c407ffbb9) |
 | Fri, 19 Sep 2025 19:20:13 GMT | Detecting a SYN Flood Attack | Javier | [Read More](https://medium.com/p/db93d89564bb) |
 | Fri, 19 Sep 2025 19:02:54 GMT | Why ORDER BY Didn’t Actually Order My Results? | Marwa Shahid | [Read More](https://medium.com/p/57302ebba5cf) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 15:05:10 GMT | What is the Best PCI DSS Compliance Software for 6.4.3 and 11.6.1? | Feroot Security | [Read More](https://medium.com/p/68735ad4f7c5) |
 | Fri, 19 Sep 2025 15:04:48 GMT | Your Money Is Their Target: How to Spot & Stop Online Scams Like a Cybersecurity Pro | Vijay Kumar Gupta | [Read More](https://medium.com/p/6a72e415379d) |
 | Fri, 19 Sep 2025 15:04:33 GMT | Inside WeChat’s iOS Architecture: Media, Location, Transactions, and XML Explained | Travis Murphy | [Read More](https://medium.com/p/59a5842b24aa) |
-| Fri, 19 Sep 2025 15:04:27 GMT | CVE-2025–10035: License to Inject | gm0 | [Read More](https://medium.com/p/5739cb89ca46) |
-| Fri, 19 Sep 2025 14:59:11 GMT | Hack the Box — Delivery — WriteUp | Emre A. | [Read More](https://medium.com/p/85c81f82a8c7) |
-| Fri, 19 Sep 2025 14:56:29 GMT | The Open Backdoor in Your Android App (and how to lock it) | Wafa | [Read More](https://medium.com/p/0b9b78c49098) |
-| Fri, 19 Sep 2025 14:53:47 GMT | All Pass Hub: Enterprise-Grade Password Security Without the Hassle | Password Manager | [Read More](https://medium.com/p/1398e2e5720c) |
-| Fri, 19 Sep 2025 14:52:33 GMT | 8 Years Later: An Open Letter to Myself | Stories Underneath | [Read More](https://medium.com/p/ff4abfec8085) |
-| Fri, 19 Sep 2025 14:51:53 GMT | Shifting Security Left: Why DevSecOps Is No Longer Optional | Opsidian | [Read More](https://medium.com/p/96ad7f71d307) |
-| Fri, 19 Sep 2025 14:47:50 GMT | In Plain Sight: Safely Store Secrets By Hiding One Image Inside Another | Brandon Anderson | [Read More](https://medium.com/p/942fd23ef418) |
-| Fri, 19 Sep 2025 14:43:41 GMT | The Accidental Apostrophe- RCE - SQLI - Bihar Govt Portal | Ayush | [Read More](https://medium.com/p/fe4a5ef88f30) |
-| Fri, 19 Sep 2025 14:42:53 GMT | CAPTCHAaggedon is Here! | Brez | [Read More](https://medium.com/p/d7cf14fe07c9) |
-| Fri, 19 Sep 2025 14:38:00 GMT | crackmes.one: PieIsMyFav | Sourav Bose | [Read More](https://medium.com/p/b708befe5ce0) |
-| Fri, 19 Sep 2025 14:36:51 GMT | Subdomain Enumeration Techniques | Subhadeep Pramanik | [Read More](https://medium.com/p/94e3ae5348ef) |
-| Fri, 19 Sep 2025 14:33:11 GMT | Journey to Earning the Certified AppSec Practitioner (CAP) Certification ️ | Kali Vignesh S M | [Read More](https://medium.com/p/a5df7354cd84) |
