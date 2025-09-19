@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 18:40:34 GMT | Exploiting Remote code execution via polygot web shell upload | Cybernerddd | [Read More](https://medium.com/p/7dd574751f3b) |
+| Fri, 19 Sep 2025 18:38:47 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/1627f6c92d4a) |
+| Fri, 19 Sep 2025 18:36:46 GMT | Unlock Your Career: A Comprehensive Guide to a Diploma in Ethical Hacking and Cybersecurity | Nitin Singh | [Read More](https://medium.com/p/9ba90dbcae53) |
+| Fri, 19 Sep 2025 18:31:44 GMT | Smishing: The Text Message Scam That Can Bankrupt You | Cyberkech | [Read More](https://medium.com/p/c8d24cf9d96a) |
+| Fri, 19 Sep 2025 18:31:35 GMT | Microsoft’s Cloud-First Strategy and Data Privacy | Yusuf Talha ARABACI | [Read More](https://medium.com/p/98d85c6cb860) |
+| Fri, 19 Sep 2025 18:28:51 GMT | VIP Event Security Services UK — Elite Protection & Seamless Coordination | waeventservices.co.uk/ | [Read More](https://medium.com/p/4aeec6905160) |
 | Fri, 19 Sep 2025 18:18:14 GMT | Beyond Compliance: How AI Video Helps Keep Employees Safe and Supported | Tec-Tel Communications | [Read More](https://medium.com/p/77ba74058a22) |
 | Fri, 19 Sep 2025 18:15:43 GMT | Day 7: How a 13-Year-Old Kid Found a Bug in Google | Viratavi | [Read More](https://medium.com/p/086fcd84227a) |
 | Fri, 19 Sep 2025 18:13:52 GMT | School Safety, Upgraded: How AI Cameras Help Keep Students and Staff Protected | Tec-Tel Communications | [Read More](https://medium.com/p/b5a0c962df41) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 13:55:11 GMT | Top 4 Software Development Trends in Healthcare | Keepnet Labs | [Read More](https://medium.com/p/c4748ed0b8fd) |
 | Fri, 19 Sep 2025 13:53:07 GMT | Why You Need Life Insurance and Which Type Is Right for You - Integrity Advantage Group | Scott Reinhart | [Read More](https://medium.com/p/b2d91ac7c745) |
 | Fri, 19 Sep 2025 13:52:03 GMT | ️‍♂️Investigating Windows 3.x — TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/17a1737b801a) |
-| Fri, 19 Sep 2025 13:51:44 GMT | TryHackMe #29 - Tcpdump: The Basics | 0xGroot | [Read More](https://medium.com/p/30b83420e68a) |
-| Fri, 19 Sep 2025 13:51:37 GMT | I’m Angry Because My Heart Is Broken | menda's here | [Read More](https://medium.com/p/88c3e7e5a7dd) |
-| Fri, 19 Sep 2025 13:47:45 GMT | Threat intelligence sharing has become the backbone of modern cybersecurity defense, and frankly… | Cloud4C Services | [Read More](https://medium.com/p/a529e1558050) |
-| Fri, 19 Sep 2025 13:47:45 GMT | TryHackMe #28 - Wireshark: The Basics | 0xGroot | [Read More](https://medium.com/p/a63e71e7e6f0) |
-| Fri, 19 Sep 2025 13:41:28 GMT | HTB — Baby (Easy) Walkthrough | Shnogeorgiev | [Read More](https://medium.com/p/4d044656b9fc) |
-| Fri, 19 Sep 2025 13:33:06 GMT | The Pivot Method: Technical Moves for Bug Hunters in Progress | Vicricsec | [Read More](https://medium.com/p/b767bcee8911) |
