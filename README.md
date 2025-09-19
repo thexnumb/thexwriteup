@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 17:35:21 GMT | How Developers Are Using Apple’s Local AI Models in iOS 26 | Aaron | [Read More](https://medium.com/p/4068bdc4b27e) |
+| Fri, 19 Sep 2025 17:34:08 GMT | Adding Intelligence to the Firewalls | Samratthsingh | [Read More](https://medium.com/p/18e30b422beb) |
+| Fri, 19 Sep 2025 17:30:15 GMT | 5 Easy Cybersecurity Tasks That Can Pay Your Rent | vydhi | [Read More](https://medium.com/p/159432b2d71a) |
+| Fri, 19 Sep 2025 17:29:19 GMT | Why I Moved My Home Lab from VMware to KVM + Cockpit | Sreeraj K | [Read More](https://medium.com/p/91505a167e45) |
+| Fri, 19 Sep 2025 17:25:26 GMT | When Reading Wasn’t Enough: My First Encounter With a Real Cyber Threat | Shahzaib | [Read More](https://medium.com/p/09918ed21fbf) |
+| Fri, 19 Sep 2025 17:19:21 GMT | The Unseen Cyber Wars — Told by 4 Must-Read Books | Aj | [Read More](https://medium.com/p/20a3c3bcbb09) |
+| Fri, 19 Sep 2025 17:12:08 GMT | CVE-2025–57833 - Potential SQL Injection via FilteredRelation Aliases in Django | Yunus Olçar | [Read More](https://medium.com/p/1470fccab153) |
 | Fri, 19 Sep 2025 17:11:40 GMT | MCP vs Select AI in Oracle’s Ecosystem: Competition or Complement? | Cristina Varas Menadas | [Read More](https://medium.com/p/7de07f342d0c) |
+| Fri, 19 Sep 2025 17:11:31 GMT | Suspicious Domain: Alex Morgan’s Online Reviews Campaign ctf | adce626 | [Read More](https://medium.com/p/0765eede8bef) |
+| Fri, 19 Sep 2025 17:09:49 GMT | The God Mode Vulnerability That Should Kill “Trust Microsoft” Forever | Tide Foundation | [Read More](https://medium.com/p/f83b8fe6e909) |
 | Fri, 19 Sep 2025 17:02:54 GMT | 用比喻看Subnet 和 Segment 分別 | 思維舞步 MindSteps,  Choreographed by Alex | [Read More](https://medium.com/p/4e279db9ea5e) |
 | Fri, 19 Sep 2025 17:01:46 GMT | Bug Bounty Bootcamp — Chapter 4 | C. Oscar Lawshea | [Read More](https://medium.com/p/653b232a34d6) |
 | Fri, 19 Sep 2025 17:01:46 GMT | What Is SOX Compliance and How to Make Sure You’re Cloud Compliant | Josh Lee | [Read More](https://medium.com/p/fcb5fdb6b472) |
@@ -48,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 15:30:36 GMT | In Demand & Innovating: The Most Sought-After IT Services Shaping 2025’s Technology Landscape | Teona | [Read More](https://medium.com/p/e58d77574ba4) |
 | Fri, 19 Sep 2025 15:29:57 GMT | The One Cybersecurity Plan Your Business Can’t Afford to Skip | Paradise technologies Inc | [Read More](https://medium.com/p/ed9b31caf008) |
 | Fri, 19 Sep 2025 15:29:03 GMT | The AI-powered Villager Penetration Testing Tool has surpassed 11,000 downloads on PyPI, raising… | SCtoCS | [Read More](https://medium.com/p/3e7f7609e8c5) |
+| Fri, 19 Sep 2025 15:21:05 GMT | Avenir du CVE : la CISA envisage de nouvelles sources de financement | Marc Barbezat | [Read More](https://medium.com/p/1153eacac7bd) |
 | Fri, 19 Sep 2025 15:16:54 GMT | AI for Quantum Computing in Cybersecurity Market Value Hits USD 1,995.3 | Dhananjay P Sns | [Read More](https://medium.com/p/9c157b9acd66) |
 | Fri, 19 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f147766acbab) |
 | Fri, 19 Sep 2025 15:05:44 GMT | API Discovery for Modern Distributed Architecture: Do’s and Don’ts | Supratip Banerjee | [Read More](https://medium.com/p/b0ab71ee270f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 13:03:31 GMT | 100 user streaming server resources | Streamer Device | [Read More](https://medium.com/p/564528c35e31) |
 | Fri, 19 Sep 2025 13:01:45 GMT | Active Directory Setup with PowerShell on a Windows Server VM: A Step-by-Step Refresher | Tyrik Emptage | [Read More](https://medium.com/p/2adeb259eba1) |
 | Fri, 19 Sep 2025 12:58:35 GMT | Ring Security Cameras Compared: Which One Is Right for Your Home? | Essential Tech Accesories | [Read More](https://medium.com/p/96ce91627c01) |
-| Fri, 19 Sep 2025 12:56:52 GMT | The Linux Log Hackers Hope You Never Check | Faruk Ahmed | [Read More](https://medium.com/p/74f854610a53) |
-| Fri, 19 Sep 2025 12:56:50 GMT | How The Web Works [Part 2] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/bf7517bb1ed5) |
-| Fri, 19 Sep 2025 12:56:15 GMT | How to build a strong Cyber Security Culture in the age of NIS2 | Dziugas John Vaisvila | [Read More](https://medium.com/p/70f25827a9d5) |
-| Fri, 19 Sep 2025 12:47:34 GMT | Best Cloud Security Solutions- Cloud Security Services In Germany | QualysecEurope | [Read More](https://medium.com/p/2b9f4cd282ea) |
-| Fri, 19 Sep 2025 12:42:18 GMT | Agents that can pay: Inside Google’s AP2 trust layer | Alvis Ng | [Read More](https://medium.com/p/b47d0a334c69) |
-| Fri, 19 Sep 2025 12:41:34 GMT | The Future of Cybersecurity: Guarding the Digital Frontier | Inayat Hussain | [Read More](https://medium.com/p/07c89e6a9df0) |
-| Fri, 19 Sep 2025 12:41:32 GMT | Chain Link Fence in Saudi Arabia: Durable, Affordable, and Reliable Security Solution | Hitechfence | [Read More](https://medium.com/p/e83695b9ab39) |
-| Fri, 19 Sep 2025 12:34:32 GMT | Why Professional Event Security Services Are Essential for a Safe Gathering | Fss | [Read More](https://medium.com/p/a7e77ff5b128) |
-| Fri, 19 Sep 2025 12:28:53 GMT | A Practitioner’s Guide to Implementing AI in CTI: 2025 Edition | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/af07b9356882) |
-| Fri, 19 Sep 2025 12:25:49 GMT | FERC focuses on security, reliability, and forecasting large loads | Kennedy Maize | [Read More](https://medium.com/p/1d8644ec76a6) |
