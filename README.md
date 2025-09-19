@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 19:33:53 GMT | LLNMR Poisoning (Active Directory and Windows Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/fd9bd9c2d0d9) |
+| Fri, 19 Sep 2025 19:22:06 GMT | Introduction: The Automation of Threat | Michael Weinberger | [Read More](https://medium.com/p/0c2c407ffbb9) |
+| Fri, 19 Sep 2025 19:20:13 GMT | Detecting a SYN Flood Attack | Javier | [Read More](https://medium.com/p/db93d89564bb) |
 | Fri, 19 Sep 2025 19:02:54 GMT | Why ORDER BY Didn’t Actually Order My Results? | Marwa Shahid | [Read More](https://medium.com/p/57302ebba5cf) |
 | Fri, 19 Sep 2025 19:01:04 GMT | From Kibana Frustration to Splunk Success | Garv Kamra | [Read More](https://medium.com/p/6749a6c5e7b9) |
 | Fri, 19 Sep 2025 18:54:55 GMT | CyberDefenders — MinerHunt Lab | jon | [Read More](https://medium.com/p/99c0295a1d90) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 14:38:00 GMT | crackmes.one: PieIsMyFav | Sourav Bose | [Read More](https://medium.com/p/b708befe5ce0) |
 | Fri, 19 Sep 2025 14:36:51 GMT | Subdomain Enumeration Techniques | Subhadeep Pramanik | [Read More](https://medium.com/p/94e3ae5348ef) |
 | Fri, 19 Sep 2025 14:33:11 GMT | Journey to Earning the Certified AppSec Practitioner (CAP) Certification ️ | Kali Vignesh S M | [Read More](https://medium.com/p/a5df7354cd84) |
-| Fri, 19 Sep 2025 14:31:45 GMT | How to Remove a Door Lock Cylinder: A Quick Step-by-Step Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/955cedc113f6) |
-| Fri, 19 Sep 2025 14:28:54 GMT | Building a Zero Trust Framework: The 5-Step Blueprint for Businesses | IT_Engineer | [Read More](https://medium.com/p/ec4410440382) |
-| Fri, 19 Sep 2025 14:24:42 GMT | My Journey into Cybersecurity | Arti Sandip Jadhav | [Read More](https://medium.com/p/2afd0247698d) |
