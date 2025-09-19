@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 05:28:36 GMT | Smallpdf Redact Step‑by‑Step Guide | Phillip R. Nakata | [Read More](https://medium.com/p/042cd91f7823) |
 | Fri, 19 Sep 2025 05:12:25 GMT | Easily Remove Sensitive Data using AI with the PDF Redaction API | Mykola Melnyk | [Read More](https://medium.com/p/f9345838b1e0) |
 | Fri, 19 Sep 2025 05:01:43 GMT | Detecting Web DDoS | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b20acc116f26) |
 | Fri, 19 Sep 2025 04:42:43 GMT | The Beginner’s Guide to Faster, Safer Browsing with VPNs | Cloudbric VPN | [Read More](https://medium.com/p/a875c6290c9f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 18:30:38 GMT | Why Local Hosting in Romania Could Be Your Hidden Advantage in the Digital Era | MioriticHost | [Read More](https://medium.com/p/8c790f8610af) |
 | Thu, 18 Sep 2025 18:30:08 GMT | Free Burgers or Millions Protected? How a Password Reset Bug Put Millions at Risk | Ahmad Mansour | [Read More](https://medium.com/p/4a4de39ffbae) |
 | Thu, 18 Sep 2025 18:25:50 GMT | How I Built My First SIEM Detections | Garv Kamra | [Read More](https://medium.com/p/7de341cd4d36) |
-| Thu, 18 Sep 2025 18:22:30 GMT | The Forgotten Art of Password Management: Why We’re Still Getting It Wrong | Tim_Idd | [Read More](https://medium.com/p/92ec5d8eefbb) |
