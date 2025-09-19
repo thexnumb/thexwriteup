@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 08:13:17 GMT | Challenge: “Log Labyrinth” | Joeycadieux | [Read More](https://medium.com/p/1a07e347edb0) |
+| Fri, 19 Sep 2025 08:13:03 GMT | Why is ZoomEye considered the best cyberspace search engine? | Liuliuliusq | [Read More](https://medium.com/p/1fdb49c51ee6) |
+| Fri, 19 Sep 2025 08:03:17 GMT | Building a Real-World SOC Lab: Integrating Suricata IDS with Splunk SIEM | Punnakavyasri | [Read More](https://medium.com/p/a3e8dac4f911) |
+| Fri, 19 Sep 2025 08:01:50 GMT | DNS Recon for Pentesters: Records Every Tester Should Know | Vivek Bhatt | [Read More](https://medium.com/p/f16e43e3319d) |
+| Fri, 19 Sep 2025 08:00:54 GMT | 17. My Favorite Bug Classes (and Why They Work) | Abhijeet kumawat | [Read More](https://medium.com/p/b67a03ab8c43) |
+| Fri, 19 Sep 2025 07:54:06 GMT | HTB: Baby | Ross Andrews | [Read More](https://medium.com/p/0fb72ebe0bb4) |
+| Fri, 19 Sep 2025 07:48:54 GMT | Top 5 Penetration Testing Methodologies Every Ethical Hacker Should Know | cyber security Updates | [Read More](https://medium.com/p/aa7996989889) |
+| Fri, 19 Sep 2025 07:46:10 GMT | ประจำวันศุกร์ที่ 19 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/a36d1976bbeb) |
+| Fri, 19 Sep 2025 07:44:51 GMT | Why Hiring a Professional Security Guard Company Ensures Complete Safety | Fss | [Read More](https://medium.com/p/a0486ceac9e1) |
+| Fri, 19 Sep 2025 07:44:14 GMT | SPARK Matrix™: In-App Protection Key Market Insights and Strategic Assessment | Gargiben | [Read More](https://medium.com/p/6b7a16c9dc7d) |
+| Fri, 19 Sep 2025 07:40:16 GMT | How I Tracked Our Clients’ Device Versions Without Direct Reporting | Zhiwen Liu | [Read More](https://medium.com/p/9ec36ed79711) |
 | Fri, 19 Sep 2025 07:22:25 GMT | Taming Production Bugs with Correlation IDs | Brahmananda Sahoo | [Read More](https://medium.com/p/49f73bbdddaa) |
 | Fri, 19 Sep 2025 07:20:34 GMT | I Dedicated 365 Days In Learning Cybersecurity — Here’s How It Changed My Life | JetkingChandigarh | [Read More](https://medium.com/p/d3836f6c710a) |
 | Fri, 19 Sep 2025 07:19:19 GMT | I Wish I Had This Secret Guide When I First Bought My PC | VipLuv | [Read More](https://medium.com/p/79eea85e596b) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 22:49:13 GMT | 2000 Years of Passwords And No More to Come | Sarthak Sinha | [Read More](https://medium.com/p/be34028ab10c) |
 | Thu, 18 Sep 2025 22:32:02 GMT | Testing Antivirus Detection Levels on Ghostly Hollowing Crypter | S12 - 0x12Dark Development | [Read More](https://medium.com/p/087cdc2d9025) |
 | Thu, 18 Sep 2025 22:25:34 GMT | The Digital Ghost in the Machine: How a Small Business Fought Back Against Cyber Threats | Youssef EL-OUARDI | [Read More](https://medium.com/p/bc92a7fb2b98) |
-| Thu, 18 Sep 2025 22:13:22 GMT | Bugs v/s Errors | Vivek Yadav | [Read More](https://medium.com/p/369c9475b443) |
-| Thu, 18 Sep 2025 22:10:02 GMT | Insightful words from my AI | Diary Of A Nigerian University Student | [Read More](https://medium.com/p/e922386a90af) |
-| Thu, 18 Sep 2025 21:54:31 GMT | I Tried Building Something Without Writing Any Code — Just Using AI Tools. The Result? | 0xNerix | [Read More](https://medium.com/p/e911fce9f5a6) |
-| Thu, 18 Sep 2025 21:47:40 GMT | The Vulnerability Chronicles: Self Pleasure and Mastering Being Alone | DamnAmazon | [Read More](https://medium.com/p/c981d919bb0f) |
-| Thu, 18 Sep 2025 21:31:11 GMT | What is an Operating System? | Atakan Bitim | [Read More](https://medium.com/p/c3fed1004046) |
-| Thu, 18 Sep 2025 21:31:08 GMT | İşletim Sistemi Nedir? | Atakan Bitim | [Read More](https://medium.com/p/72ac604242be) |
-| Thu, 18 Sep 2025 21:28:18 GMT | How the vulnerable are easily manipulated. | Amirah Rajasegaram | [Read More](https://medium.com/p/91d0b4f2a8bc) |
-| Thu, 18 Sep 2025 21:25:36 GMT | Analysis of the ROGUE Agent-Based Automated Web Testing System (Part-1) SxipherAI | Vladimir Shebuniayeu(Sxipher) | [Read More](https://medium.com/p/c0db79a33473) |
-| Thu, 18 Sep 2025 21:24:17 GMT | Why Caching Bugs Are the Hardest to Debug | ArchitectOfExperience | [Read More](https://medium.com/p/6e3484409abb) |
-| Thu, 18 Sep 2025 21:23:01 GMT | Purulia, West Bengal - In today's fast-paced digital era, millions of people struggle with online… | #BKP | [Read More](https://medium.com/p/666dbacc7eaf) |
-| Thu, 18 Sep 2025 21:17:21 GMT | Don’t Wrap Me in Gentle Words | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/b709dce06262) |
