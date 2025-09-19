@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 02:51:47 GMT | Umbrella Corp — Time Tracking (TryHackMe) Write-up | spdr0x | [Read More](https://medium.com/p/b808993e7481) |
+| Fri, 19 Sep 2025 02:24:43 GMT | The Cybernetic Subversion of Exoatmospheric Assets: 0-P’s Space Hacking of Orbital Command and… | Cybersec News | [Read More](https://medium.com/p/7b54f318e399) |
+| Fri, 19 Sep 2025 02:19:11 GMT | Beyond Mimikatz: The Art of Developing Custom LSASS Dumpers | Itz.sanskarr | [Read More](https://medium.com/p/d43b276985af) |
 | Fri, 19 Sep 2025 01:28:15 GMT | Intro to Car Hacking: Setting Up Your Own Vehicle Hacking Lab (No Real Car Needed) | Sagar patel | [Read More](https://medium.com/p/466f8020b3e8) |
+| Fri, 19 Sep 2025 01:26:19 GMT | How to Have a Healthy Relationship When You Feel Unloved | Ophaly Kate | [Read More](https://medium.com/p/79141820dea5) |
 | Fri, 19 Sep 2025 01:03:38 GMT | Cybersecurity Careers in the Age of AI | Matthew.Rosenquist | [Read More](https://medium.com/p/8678e3eb66ce) |
 | Fri, 19 Sep 2025 01:01:47 GMT | Should you give up on privacy in 2025? | Urgent Privacy | [Read More](https://medium.com/p/0b0d7b039952) |
 | Fri, 19 Sep 2025 00:51:43 GMT | The Hidden Password Cracking Tool That Every Cybersecurity Expert Uses (But Never Talks About)… | Qasim Mahmood Khalid | [Read More](https://medium.com/p/896af2d8fa2b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 16:59:40 GMT | ShinyHunters Strikes Again: Massive Salesforce Data Breach Exposes 1.5 Billion Records | Technijian | [Read More](https://medium.com/p/97b8b034d98b) |
 | Thu, 18 Sep 2025 16:51:10 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART II | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/8047923c8ab3) |
 | Thu, 18 Sep 2025 16:48:06 GMT | 180+ NPM Packages Hit in Major Supply Chain Attack | ASAcrew Blog | [Read More](https://medium.com/p/01c2f6cb87a7) |
-| Thu, 18 Sep 2025 16:47:14 GMT | “ Investigative Reversing 3 ” challenge | oussama | [Read More](https://medium.com/p/253f0d48f01a) |
-| Thu, 18 Sep 2025 16:31:22 GMT | [TR]-Siber Güvenlik Odaklı Kariyer Yolunu Çiz! | Aybala Sevinc | [Read More](https://medium.com/p/852fd8e6eadd) |
-| Thu, 18 Sep 2025 16:25:05 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART I | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/73db7333b4af) |
-| Thu, 18 Sep 2025 16:24:44 GMT | SpringBoot Interface Security: Current Limiting, Replay Attacks, and Signature Mechanism Analysis | Umesh Kumar Yadav | [Read More](https://medium.com/p/687a5cee7424) |
