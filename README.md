@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 10:16:08 GMT | Boost Your Tech Skills with a Certified Cybersecurity Course in Nepal | tech innovation | [Read More](https://medium.com/p/8dc6c27e9301) |
+| Fri, 19 Sep 2025 10:14:18 GMT | Unveiling the Windows Registry: The Hidden Heart of the OS | Allen Ace | [Read More](https://medium.com/p/133091f13b6e) |
+| Fri, 19 Sep 2025 10:12:16 GMT | Best VAPT Companies In India - Information Security Audit Services | Gowthammathiew | [Read More](https://medium.com/p/cba5e60513b4) |
+| Fri, 19 Sep 2025 10:10:27 GMT | Hidden Power of Race Conditions in Web Apps | Monika sharma | [Read More](https://medium.com/p/f5633ba3463c) |
+| Fri, 19 Sep 2025 10:06:51 GMT | Do You Know a ‘Fearless’ Person Who Can’t Swim? | Fidelis Kayode Fadoju | [Read More](https://medium.com/p/579b9ce857df) |
+| Fri, 19 Sep 2025 09:59:25 GMT | CVE-2025–10598: SQL Injection Vulnerability Plagues SourceCodester Pet Grooming Software | CVEHUB | [Read More](https://medium.com/p/9eda156b6224) |
+| Fri, 19 Sep 2025 09:58:17 GMT | The PostgreSQL Config Tweaks That Scaled to 1M Users | Rizqi Mulki | [Read More](https://medium.com/p/6129d4813882) |
+| Fri, 19 Sep 2025 09:57:47 GMT | CVE-2025–10597: SQL Injection Vulnerability in kidaze CourseSelectionSystem | CVEHUB | [Read More](https://medium.com/p/499081e0afef) |
+| Fri, 19 Sep 2025 09:53:11 GMT | How to Integrate Vulnerability Management with Threat Intelligence Solutions for Proactive Cyber… | Digital Defense | [Read More](https://medium.com/p/c0e06171b645) |
+| Fri, 19 Sep 2025 09:52:50 GMT | BlackEnergy Lab — CyberDefenders Lab Write-Up | Mirage43 | [Read More](https://medium.com/p/b8e306afcf94) |
+| Fri, 19 Sep 2025 09:51:50 GMT | PostgreSQL Replication Lag: The Silent Performance Killer You’re Ignoring | Rizqi Mulki | [Read More](https://medium.com/p/2cc49b71ee56) |
+| Fri, 19 Sep 2025 09:51:44 GMT | Security · Freedom · Multi-Chain: How Digital Shield is Leading a Revolution in Web3 Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/c5c61f6d8248) |
+| Fri, 19 Sep 2025 09:46:54 GMT | Why Big Startups Are Quietly Abandoning MySQL | Rizqi Mulki | [Read More](https://medium.com/p/8fc4a30fa02c) |
+| Fri, 19 Sep 2025 09:44:52 GMT | DHCP (Dynamic Host Configuration Protocol): DORA Akışıyla A’dan Z’ye | murat yayla | [Read More](https://medium.com/p/7cfef50f5e43) |
+| Fri, 19 Sep 2025 09:42:05 GMT | Hackerman or Code Wizard? Skillset for Pen Testing Success | SilentInject | [Read More](https://medium.com/p/fa6a0a0c30f5) |
+| Fri, 19 Sep 2025 09:41:43 GMT | Shadow IT: How to Spot Tools Your Teams Are Using Without Approval | Evgeny Ermakov | [Read More](https://medium.com/p/19c3e45a150e) |
 | Fri, 19 Sep 2025 09:36:24 GMT | When Grief Shows Up at My Door: Burnout, menopause, and the ghostly weight of evenings. | Eleanorkojan | [Read More](https://medium.com/p/9a8a88a3ea98) |
 | Fri, 19 Sep 2025 09:32:13 GMT | Why Enterprises Are Quietly Ditching Dedicated Servers | Rizqi Mulki | [Read More](https://medium.com/p/1f4972dd6311) |
 | Fri, 19 Sep 2025 09:26:57 GMT | Navigating the Evolving Threat Landscape: A Weekly Briefing —VIEH Security Research Team | VIEH Security Research Team | [Read More](https://medium.com/p/6d6330447956) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 06:00:45 GMT | Plex Alerts Users of Security Breach, Urges Immediate Password Reset | SafetyDetectives Research Team | [Read More](https://medium.com/p/19f2c996d340) |
 | Fri, 19 Sep 2025 05:59:43 GMT | Mobile Malware: The Rising Threat in 2025 | Abida Adra | [Read More](https://medium.com/p/17de3a2190e6) |
 | Fri, 19 Sep 2025 05:55:27 GMT | India Is Ready to Protect Your Digital Data: New Rules Are Coming | AADI | [Read More](https://medium.com/p/6d4cabab19aa) |
-| Fri, 19 Sep 2025 05:53:45 GMT | ForceX Security Services — A Trusted Security Guard Company for Complete Protection | Fss | [Read More](https://medium.com/p/852322f8f3a7) |
-| Fri, 19 Sep 2025 05:50:03 GMT | Never Entrust Your Defense to Others | Muhammad Mohsin Iqbal | [Read More](https://medium.com/p/9152a2786b31) |
-| Fri, 19 Sep 2025 05:49:18 GMT | Building Google SecOps YARA-L Rules From FBI Threat Intelligence | Jay Aware | [Read More](https://medium.com/p/f5c2cfd390e1) |
-| Fri, 19 Sep 2025 05:46:20 GMT | TO BECOME A SOC EXPERT(DAY-6) | vulnhunter | [Read More](https://medium.com/p/e8f880df0e48) |
-| Fri, 19 Sep 2025 05:28:36 GMT | Smallpdf Redact Step‑by‑Step Guide | Phillip R. Nakata | [Read More](https://medium.com/p/042cd91f7823) |
-| Fri, 19 Sep 2025 05:12:25 GMT | Easily Remove Sensitive Data using AI with the PDF Redaction API | Mykola Melnyk | [Read More](https://medium.com/p/f9345838b1e0) |
-| Fri, 19 Sep 2025 05:01:43 GMT | Detecting Web DDoS | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b20acc116f26) |
-| Fri, 19 Sep 2025 04:42:43 GMT | The Beginner’s Guide to Faster, Safer Browsing with VPNs | Cloudbric VPN | [Read More](https://medium.com/p/a875c6290c9f) |
-| Fri, 19 Sep 2025 04:40:45 GMT | Building Engaging Digital Experiences Through Innovation and Technology | Macrobian games | [Read More](https://medium.com/p/42797c69f8e8) |
-| Fri, 19 Sep 2025 04:39:44 GMT | Black Magic & Evil Eye Removal in Fiji – Master Surya Ji, Trusted Indian Astrologer | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/c8fd3707f84e) |
-| Fri, 19 Sep 2025 04:39:14 GMT | ✨ MASTER SURYA JI – FIJI’S MOST GENUINE INDIAN VEDIC ASTROLOGER ✨ | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/01e7fa7bc781) |
-| Fri, 19 Sep 2025 04:39:09 GMT | How to Install DalFox and What It Is Used For | Abhinsubej | [Read More](https://medium.com/p/fc2ebad523f2) |
-| Fri, 19 Sep 2025 04:36:00 GMT | Top 5 Secure Messaging Apps for Privacy in 2025 | Techlio | [Read More](https://medium.com/p/fd7d4c5f2ebc) |
-| Fri, 19 Sep 2025 04:30:38 GMT | Data Center Perimeter Security Video Analytics in Kuwait | Tekshoyabeelyas | [Read More](https://medium.com/p/b958f7ab31de) |
-| Fri, 19 Sep 2025 04:30:37 GMT | Email Injection Madness: Spoofing the CEO With a Single Payload! | Iski | [Read More](https://medium.com/p/1b97fba50ade) |
-| Fri, 19 Sep 2025 04:27:54 GMT | The Beginner’s Guide to Strong Passwords (And Why Yours Is Probably Weak) | Aj | [Read More](https://medium.com/p/ea3d69961f36) |
