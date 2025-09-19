@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 07:13:44 GMT | Recap of Our “Passkeys Pwned” Talk at DEF CON | SquareX | [Read More](https://medium.com/p/2a56356e3835) |
+| Fri, 19 Sep 2025 07:13:11 GMT | When a Trojan Turned My Coding Afternoon Into a Hard Lesson | Johnson Adeuga ✍️ | [Read More](https://medium.com/p/84dc279e721a) |
+| Fri, 19 Sep 2025 07:11:35 GMT | Our Services at a Glance — How Deonics Powers Businesses | Digitaldepartment | [Read More](https://medium.com/p/42ae19295b7e) |
+| Fri, 19 Sep 2025 07:03:53 GMT | What Are the Most Common Passwords That the World Is Using? | Rashadul Islam | [Read More](https://medium.com/p/c2551f83799a) |
+| Fri, 19 Sep 2025 07:01:44 GMT | Identity as a Body in the Rain | Łukasz Ratajczak | [Read More](https://medium.com/p/16111f1bcb0c) |
+| Fri, 19 Sep 2025 07:01:13 GMT | Splunk Hands-On: Building an SSH Security Dashboard | Yeswanth Boddeda | [Read More](https://medium.com/p/306950a4ca3d) |
+| Fri, 19 Sep 2025 07:00:53 GMT | Boost Your Career with the Right Cyber Security Course | Anshinfotech | [Read More](https://medium.com/p/8ae1717af118) |
+| Fri, 19 Sep 2025 07:00:47 GMT | Top Proxy Promotions: Best Deals & Discounts on Proxy Services | TechieCoupons | [Read More](https://medium.com/p/3783f71797a5) |
+| Fri, 19 Sep 2025 06:52:26 GMT | Shellbags Forensics 2025: The Hidden Windows Artifact Every Investigator Must Master! | Paritosh | [Read More](https://medium.com/p/454ba13832d5) |
+| Fri, 19 Sep 2025 06:49:53 GMT | Making Festivals Smarter with Self-Service Kiosk Machines | Rakesh | [Read More](https://medium.com/p/ce5131410242) |
 | Fri, 19 Sep 2025 06:44:51 GMT | ISO/IEC 27001/27002: Bilgi Güvenliğini Bir Süreç Disiplinine Dönüştürmek | Umut Akbulut | [Read More](https://medium.com/p/c5e5308ea62d) |
 | Fri, 19 Sep 2025 06:43:21 GMT | The Corix Partners Friday Reading List — September 19, 2025 | JC Gaillard | [Read More](https://medium.com/p/2444036aa48f) |
 | Fri, 19 Sep 2025 06:35:44 GMT | Cybersecurity Mistakes We All Make (And Hackers Love) | Shahzaib | [Read More](https://medium.com/p/165ffe170083) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 20:58:43 GMT | What are Negotiable Debt Securities? | discovery2.0 | [Read More](https://medium.com/p/402e67bda6ce) |
 | Thu, 18 Sep 2025 20:57:16 GMT | Hack the Box — Administrator — WriteUp | Emre A. | [Read More](https://medium.com/p/958daa331982) |
 | Thu, 18 Sep 2025 20:56:12 GMT | Mobile, HTTPS & Security 2025: Mobile‑First UX, Full HTTPS, Essential Security Headers | Mr_gym | [Read More](https://medium.com/p/2f28ab044f17) |
-| Thu, 18 Sep 2025 20:52:25 GMT | A small intro to the world of infrastructure and Active Directory | Imane Abasalah | [Read More](https://medium.com/p/ac26a5bdcb82) |
-| Thu, 18 Sep 2025 20:49:53 GMT | Automatic Logout in Spring Boot After Idle Time | Alexander Obregon | [Read More](https://medium.com/p/37501105daf0) |
-| Thu, 18 Sep 2025 20:43:40 GMT | Loop Marketing in Cybersecurity — A Story of Expressing, Tailoring, Amplifying and Evolving | David SEHYEON Baek | [Read More](https://medium.com/p/e9ee367f2295) |
-| Thu, 18 Sep 2025 20:37:55 GMT | TryHackMe: Brains Lab Walkthrough Guide | Vedant Bhalerao | [Read More](https://medium.com/p/55a43ea9f19c) |
-| Thu, 18 Sep 2025 20:37:03 GMT | The Rise of Agentic AI in Cybersecurity: A New Era of Autonomous Defense | noailabs | [Read More](https://medium.com/p/899c9dd46481) |
-| Thu, 18 Sep 2025 20:28:23 GMT | Advanced OAuth Secrets Leads To Account Takeover(ATO) | Mado | [Read More](https://medium.com/p/42ff288a7763) |
-| Thu, 18 Sep 2025 20:23:02 GMT | AI in Cybersecurity Is Neither a Differentiator nor a Game Changer — It’s Simply a Must-Have | David SEHYEON Baek | [Read More](https://medium.com/p/7cd392bd0f90) |
-| Thu, 18 Sep 2025 20:20:12 GMT | SPF, Sandboxes, and Security Guards: The 4 Ways We Fight Phishing Now | Chris Zhang | [Read More](https://medium.com/p/ad045e8e273a) |
-| Thu, 18 Sep 2025 20:16:01 GMT | Exploring Microsoft Sentinel: Enhancing Your Security with Threat Intelligence | Vedant Tapdiya | [Read More](https://medium.com/p/b1a3787a17fe) |
-| Thu, 18 Sep 2025 20:04:06 GMT | Smart Contract Security Analysis: Technical Workflow and Methodologies | SR | [Read More](https://medium.com/p/6a8e62ca9040) |
