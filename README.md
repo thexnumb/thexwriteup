@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 23:17:32 GMT | What is the difference between TP / TN / FP / FN and Noise in SOC? | BnHany | [Read More](https://medium.com/p/e5305e2d4a57) |
+| Fri, 19 Sep 2025 23:16:54 GMT | Brave vs Firefox (2025): Straight Talk on Privacy, Speed & The Best Secure Browser | Ghulam Mohiuddin | [Read More](https://medium.com/p/6a6b65863628) |
 | Fri, 19 Sep 2025 23:14:02 GMT | TLDR; The Online Safety Act | Its Not Nicole | [Read More](https://medium.com/p/085aca328d88) |
 | Fri, 19 Sep 2025 23:06:15 GMT | Contrabando writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/b3b966ea51b0) |
 | Fri, 19 Sep 2025 23:06:11 GMT | Mobile App Security Compliance AI Prompts Pack | Mohammad Abir Abbas | [Read More](https://medium.com/p/b50588700113) |
@@ -111,5 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 16:46:42 GMT | The Ultimate Cybersecurity Command Line Cheat Sheet | eRRoR | [Read More](https://medium.com/p/4c98d71d990d) |
 | Fri, 19 Sep 2025 16:43:48 GMT | 3 months of self-taught ethical hacking — progress update | Abdullah Mina | [Read More](https://medium.com/p/857c0d557381) |
 | Fri, 19 Sep 2025 16:42:00 GMT | Assessment Methodologies: Enumeration CTF 1 | Xnirkun | [Read More](https://medium.com/p/7fb372c84055) |
-| Fri, 19 Sep 2025 16:41:57 GMT | 7 AI + LLM Project Ideas Every Security Professional Should Try in 2025 | Paritosh | [Read More](https://medium.com/p/abc154cebeb4) |
-| Fri, 19 Sep 2025 16:35:04 GMT | The AI Runway: Why Foundational IT Still Matters in an AI-First World | Nichele Dudley | [Read More](https://medium.com/p/400c4f2ccdc9) |
