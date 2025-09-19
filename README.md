@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 20:35:09 GMT | Siber Güvenlik Yol Haritası | Ertuğrul Gülmez | [Read More](https://medium.com/p/e650ae305baf) |
+| Fri, 19 Sep 2025 20:34:33 GMT | A Story of Collection, Compliance, and the Power Platform Gap | Mario Kresnadi | [Read More](https://medium.com/p/ad7393cd7321) |
+| Fri, 19 Sep 2025 20:33:11 GMT | Remote Browser Isolation (RBI): A Shield Against Drive-By Downloads and Phishing | Chris Zhang | [Read More](https://medium.com/p/1df3d05714e2) |
+| Fri, 19 Sep 2025 20:27:40 GMT | Welcome to Washington, D.C., — | Nikki L Russell | [Read More](https://medium.com/p/37fdc5d2559a) |
+| Fri, 19 Sep 2025 20:26:51 GMT | Cybersecurity Job Market: Honest Reality | Luke | [Read More](https://medium.com/p/2698454a602e) |
 | Fri, 19 Sep 2025 20:05:35 GMT | CVE-2025–10585: The Chrome V8 Zero-Day You Need to Patch Today ⚔️️ | Aditya Bhatt | [Read More](https://medium.com/p/8168aa7f79cd) |
 | Fri, 19 Sep 2025 20:02:13 GMT | Guarding our democracy:
 The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma | [Read More](https://medium.com/p/d5719d1dd3d8) |
@@ -108,8 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 15:29:03 GMT | The AI-powered Villager Penetration Testing Tool has surpassed 11,000 downloads on PyPI, raising… | SCtoCS | [Read More](https://medium.com/p/3e7f7609e8c5) |
 | Fri, 19 Sep 2025 15:21:05 GMT | Avenir du CVE : la CISA envisage de nouvelles sources de financement | Marc Barbezat | [Read More](https://medium.com/p/1153eacac7bd) |
 | Fri, 19 Sep 2025 15:16:54 GMT | AI for Quantum Computing in Cybersecurity Market Value Hits USD 1,995.3 | Dhananjay P Sns | [Read More](https://medium.com/p/9c157b9acd66) |
-| Fri, 19 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f147766acbab) |
-| Fri, 19 Sep 2025 15:05:44 GMT | API Discovery for Modern Distributed Architecture: Do’s and Don’ts | Supratip Banerjee | [Read More](https://medium.com/p/b0ab71ee270f) |
-| Fri, 19 Sep 2025 15:05:10 GMT | What is the Best PCI DSS Compliance Software for 6.4.3 and 11.6.1? | Feroot Security | [Read More](https://medium.com/p/68735ad4f7c5) |
-| Fri, 19 Sep 2025 15:04:48 GMT | Your Money Is Their Target: How to Spot & Stop Online Scams Like a Cybersecurity Pro | Vijay Kumar Gupta | [Read More](https://medium.com/p/6a72e415379d) |
-| Fri, 19 Sep 2025 15:04:33 GMT | Inside WeChat’s iOS Architecture: Media, Location, Transactions, and XML Explained | Travis Murphy | [Read More](https://medium.com/p/59a5842b24aa) |
