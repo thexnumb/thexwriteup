@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 22:02:29 GMT | ZT-Lite: Building a Zero Trust Simulation in Azure Free Tier | Hemavarna Sundar | [Read More](https://medium.com/p/7cb169d80764) |
+| Fri, 19 Sep 2025 21:54:11 GMT | SonicWall Breach: Why Even Encrypted Backups Aren’t Safe Anymore | Cyber-AppSec | [Read More](https://medium.com/p/82bf19fc1b1b) |
+| Fri, 19 Sep 2025 21:51:59 GMT | Artificial intelligence .. And interesting details of one day from the life of a journalist in 2027 | Sidialtos | [Read More](https://medium.com/p/c91972159e96) |
+| Fri, 19 Sep 2025 21:50:08 GMT | Weaponizing Burp Intruder: Credential Stuffing done Right | Dr1nCtrl | [Read More](https://medium.com/p/f91fa3121bb9) |
+| Fri, 19 Sep 2025 21:46:02 GMT | How I Turned Forgotten Internet Archives into a Critical Account Takeover Vulnerability | Ahmed Nasser | [Read More](https://medium.com/p/9cfc846f0685) |
+| Fri, 19 Sep 2025 21:43:25 GMT | Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction | Keerthana Purushotham | [Read More](https://medium.com/p/d4bafd9cec1b) |
+| Fri, 19 Sep 2025 21:41:44 GMT | Launch an AI Product in 10 Minutes With Zero Code Using Vercel | Evan - AI for Growth | [Read More](https://medium.com/p/d9e6def1b597) |
+| Fri, 19 Sep 2025 21:40:14 GMT | Drosera: A New Kind Of Digital Security | Ardeni | [Read More](https://medium.com/p/750081a258bf) |
 | Fri, 19 Sep 2025 21:29:33 GMT | A Beginner’s Guide to Bitwarden Sends: Securely Share Sensitive Information | Tim_Idd | [Read More](https://medium.com/p/4c65ca8a8ac4) |
+| Fri, 19 Sep 2025 21:26:18 GMT | Terraform Policy Enforcement: A Practical Guide to Sentinel and OPA | Ting Li | [Read More](https://medium.com/p/3407d496bc83) |
 | Fri, 19 Sep 2025 21:09:32 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/0afcd64a3a58) |
 | Fri, 19 Sep 2025 21:08:00 GMT | Fundamentals of Secure Communication (2025) | Kish Galappatti | [Read More](https://medium.com/p/6fea5852b09d) |
 | Fri, 19 Sep 2025 21:00:32 GMT | Hack the Box — Remote — WriteUp | Emre A. | [Read More](https://medium.com/p/46cfdc541ea8) |
@@ -104,12 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 16:01:47 GMT | The Ultimate Guide to Spotting and Avoiding Survey Scams | Stephon Anderson | [Read More](https://medium.com/p/f8635d4c9535) |
 | Fri, 19 Sep 2025 16:01:03 GMT | NPM Supply Chain Attack: How I Checked My Code After Breach | Hareem Fatima | [Read More](https://medium.com/p/9bb18f8c8ca7) |
 | Fri, 19 Sep 2025 16:00:55 GMT | Copilots are powerful, but don’t let them expose your credentials | Anas Anjaria | [Read More](https://medium.com/p/c2ab9308bd96) |
-| Fri, 19 Sep 2025 16:00:10 GMT | First Blood: Running Your First Real Attack (Safely) | Fateyaly | [Read More](https://medium.com/p/5101d0fc8dd8) |
-| Fri, 19 Sep 2025 15:59:32 GMT | How to Specialize in API Bug Hunting: A Beginner’s Roadmap | Andrei Ivan | [Read More](https://medium.com/p/e26e87204c8b) |
-| Fri, 19 Sep 2025 15:57:44 GMT | Top Security Concerns Every Business Owner Needs to Face | Vlad Koval | [Read More](https://medium.com/p/9cdf97789e62) |
-| Fri, 19 Sep 2025 15:47:02 GMT | /Path/Pentesting/✌ | Satyabrata Das | [Read More](https://medium.com/p/1f9b6ba21c4e) |
-| Fri, 19 Sep 2025 15:46:42 GMT | HackNet Write Up — Hack The Box | Toshith | [Read More](https://medium.com/p/77514e8f7849) |
-| Fri, 19 Sep 2025 15:45:50 GMT | Breaking News — Three Russian MiG-31s Invade Estonian Airspace for 12 Minutes | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7474502abbd0) |
-| Fri, 19 Sep 2025 15:44:35 GMT | Cracking SQL Injection: What I Learned from a Cisco Security Lab | Cyber Timi | [Read More](https://medium.com/p/5aa2c3bc8523) |
-| Fri, 19 Sep 2025 15:42:23 GMT | Comprehensive Analysis: Sri Lanka’s National Cybersecurity Strategy (2025-2029) vs. | Erica Jayasundera | [Read More](https://medium.com/p/1596fe8c3249) |
-| Fri, 19 Sep 2025 15:36:03 GMT | TryHackMe - Chaining Vulnerabilities - WriteUp | Axoloth | [Read More](https://medium.com/p/0a3728abb1f8) |
