@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 05:12:25 GMT | Easily Remove Sensitive Data using AI with the PDF Redaction API | Mykola Melnyk | [Read More](https://medium.com/p/f9345838b1e0) |
+| Fri, 19 Sep 2025 05:01:43 GMT | Detecting Web DDoS | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b20acc116f26) |
+| Fri, 19 Sep 2025 04:42:43 GMT | The Beginner’s Guide to Faster, Safer Browsing with VPNs | Cloudbric VPN | [Read More](https://medium.com/p/a875c6290c9f) |
+| Fri, 19 Sep 2025 04:40:45 GMT | Building Engaging Digital Experiences Through Innovation and Technology | Macrobian games | [Read More](https://medium.com/p/42797c69f8e8) |
+| Fri, 19 Sep 2025 04:39:44 GMT | Black Magic & Evil Eye Removal in Fiji – Master Surya Ji, Trusted Indian Astrologer | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/c8fd3707f84e) |
+| Fri, 19 Sep 2025 04:39:14 GMT | ✨ MASTER SURYA JI – FIJI’S MOST GENUINE INDIAN VEDIC ASTROLOGER ✨ | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/01e7fa7bc781) |
+| Fri, 19 Sep 2025 04:39:09 GMT | How to Install DalFox and What It Is Used For | Abhinsubej | [Read More](https://medium.com/p/fc2ebad523f2) |
+| Fri, 19 Sep 2025 04:36:00 GMT | Top 5 Secure Messaging Apps for Privacy in 2025 | Techlio | [Read More](https://medium.com/p/fd7d4c5f2ebc) |
+| Fri, 19 Sep 2025 04:30:38 GMT | Data Center Perimeter Security Video Analytics in Kuwait | Tekshoyabeelyas | [Read More](https://medium.com/p/b958f7ab31de) |
 | Fri, 19 Sep 2025 04:30:37 GMT | Email Injection Madness: Spoofing the CEO With a Single Payload! | Iski | [Read More](https://medium.com/p/1b97fba50ade) |
 | Fri, 19 Sep 2025 04:27:54 GMT | The Beginner’s Guide to Strong Passwords (And Why Yours Is Probably Weak) | Aj | [Read More](https://medium.com/p/ea3d69961f36) |
 | Fri, 19 Sep 2025 04:24:41 GMT | From Query Param to Cookie Poisoning: How WAFs Fail at Security | Sarthak Saxena | [Read More](https://medium.com/p/69f784822635) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 18:30:08 GMT | Free Burgers or Millions Protected? How a Password Reset Bug Put Millions at Risk | Ahmad Mansour | [Read More](https://medium.com/p/4a4de39ffbae) |
 | Thu, 18 Sep 2025 18:25:50 GMT | How I Built My First SIEM Detections | Garv Kamra | [Read More](https://medium.com/p/7de341cd4d36) |
 | Thu, 18 Sep 2025 18:22:30 GMT | The Forgotten Art of Password Management: Why We’re Still Getting It Wrong | Tim_Idd | [Read More](https://medium.com/p/92ec5d8eefbb) |
-| Thu, 18 Sep 2025 18:21:44 GMT | How do I use git? | Seven | [Read More](https://medium.com/p/b1aef614dfc8) |
-| Thu, 18 Sep 2025 18:21:00 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART IV | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/f5e8801c0c9a) |
-| Thu, 18 Sep 2025 18:20:17 GMT | Melt into You | WinterWindow | [Read More](https://medium.com/p/ae1105daaa68) |
-| Thu, 18 Sep 2025 18:18:59 GMT | Day 24: Deep Dive into Amazon Elastic Block Store (EBS) | Prutha_Dongre | [Read More](https://medium.com/p/e69ffd728f8c) |
-| Thu, 18 Sep 2025 18:18:19 GMT | CEH Sertifikasına Hazırlanırken Edindiklerim-1: Bilgi Güvenliği ve Hacking Kavramları | Ali Umut Soran | [Read More](https://medium.com/p/62a94b2fd678) |
-| Thu, 18 Sep 2025 18:11:27 GMT | How a PID Manipulation Flaw in Sephora Brazil Led to Free High-Value Products | Breno Felipe | [Read More](https://medium.com/p/a14cbd4b444f) |
-| Thu, 18 Sep 2025 18:05:30 GMT | When Your Car Becomes a Hacker’s Gateway to Your Phone | Anas Al Rawi | [Read More](https://medium.com/p/329019178dc8) |
-| Thu, 18 Sep 2025 18:01:46 GMT | $5,000 por este RCE en Netflix: subida de PHP camuflado como GIF | Gorka | [Read More](https://medium.com/p/cfaec6c75683) |
-| Thu, 18 Sep 2025 18:01:46 GMT | 10 Blockchain Failures I Learned the Hard Way | Bhagya Rana | [Read More](https://medium.com/p/893bfc4051e7) |
