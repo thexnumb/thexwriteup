@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 15:16:54 GMT | AI for Quantum Computing in Cybersecurity Market Value Hits USD 1,995.3 | Dhananjay P Sns | [Read More](https://medium.com/p/9c157b9acd66) |
+| Fri, 19 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f147766acbab) |
+| Fri, 19 Sep 2025 15:05:44 GMT | API Discovery for Modern Distributed Architecture: Do’s and Don’ts | Supratip Banerjee | [Read More](https://medium.com/p/b0ab71ee270f) |
+| Fri, 19 Sep 2025 15:05:10 GMT | What is the Best PCI DSS Compliance Software for 6.4.3 and 11.6.1? | Feroot Security | [Read More](https://medium.com/p/68735ad4f7c5) |
+| Fri, 19 Sep 2025 15:04:48 GMT | Your Money Is Their Target: How to Spot & Stop Online Scams Like a Cybersecurity Pro | Vijay Kumar Gupta | [Read More](https://medium.com/p/6a72e415379d) |
+| Fri, 19 Sep 2025 15:04:33 GMT | Inside WeChat’s iOS Architecture: Media, Location, Transactions, and XML Explained | Travis Murphy | [Read More](https://medium.com/p/59a5842b24aa) |
+| Fri, 19 Sep 2025 15:04:27 GMT | CVE-2025–10035: License to Inject | gm0 | [Read More](https://medium.com/p/5739cb89ca46) |
+| Fri, 19 Sep 2025 14:59:11 GMT | Hack the Box — Delivery — WriteUp | Emre A. | [Read More](https://medium.com/p/85c81f82a8c7) |
+| Fri, 19 Sep 2025 14:56:29 GMT | The Open Backdoor in Your Android App (and how to lock it) | Wafa | [Read More](https://medium.com/p/0b9b78c49098) |
+| Fri, 19 Sep 2025 14:53:47 GMT | All Pass Hub: Enterprise-Grade Password Security Without the Hassle | Password Manager | [Read More](https://medium.com/p/1398e2e5720c) |
+| Fri, 19 Sep 2025 14:52:33 GMT | 8 Years Later: An Open Letter to Myself | Stories Underneath | [Read More](https://medium.com/p/ff4abfec8085) |
+| Fri, 19 Sep 2025 14:51:53 GMT | Shifting Security Left: Why DevSecOps Is No Longer Optional | Opsidian | [Read More](https://medium.com/p/96ad7f71d307) |
+| Fri, 19 Sep 2025 14:47:50 GMT | In Plain Sight: Safely Store Secrets By Hiding One Image Inside Another | Brandon Anderson | [Read More](https://medium.com/p/942fd23ef418) |
+| Fri, 19 Sep 2025 14:43:41 GMT | The Accidental Apostrophe- RCE - SQLI - Bihar Govt Portal | Ayush | [Read More](https://medium.com/p/fe4a5ef88f30) |
+| Fri, 19 Sep 2025 14:42:53 GMT | CAPTCHAaggedon is Here! | Brez | [Read More](https://medium.com/p/d7cf14fe07c9) |
 | Fri, 19 Sep 2025 14:38:00 GMT | crackmes.one: PieIsMyFav | Sourav Bose | [Read More](https://medium.com/p/b708befe5ce0) |
 | Fri, 19 Sep 2025 14:36:51 GMT | Subdomain Enumeration Techniques | Subhadeep Pramanik | [Read More](https://medium.com/p/94e3ae5348ef) |
 | Fri, 19 Sep 2025 14:33:11 GMT | Journey to Earning the Certified AppSec Practitioner (CAP) Certification ️ | Kali Vignesh S M | [Read More](https://medium.com/p/a5df7354cd84) |
+| Fri, 19 Sep 2025 14:31:45 GMT | How to Remove a Door Lock Cylinder: A Quick Step-by-Step Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/955cedc113f6) |
 | Fri, 19 Sep 2025 14:28:54 GMT | Building a Zero Trust Framework: The 5-Step Blueprint for Businesses | IT_Engineer | [Read More](https://medium.com/p/ec4410440382) |
 | Fri, 19 Sep 2025 14:24:42 GMT | My Journey into Cybersecurity | Arti Sandip Jadhav | [Read More](https://medium.com/p/2afd0247698d) |
 | Fri, 19 Sep 2025 14:22:24 GMT | The Complete Guide to Network Security: From Fundamentals to Advanced Defense Strategies | Introvertdeveloper | [Read More](https://medium.com/p/434d8da0b0e5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 10:35:00 GMT | These 4 Simple Tool Sites Attract 16M+ Visits Every Month | Evan - AI for Growth | [Read More](https://medium.com/p/8c1829f053df) |
 | Fri, 19 Sep 2025 10:34:09 GMT | Fork Bombs: How pipes, backgrounding and recursive calls can crash a system | Ata Can Yaymacı | [Read More](https://medium.com/p/ef562d532fc9) |
 | Fri, 19 Sep 2025 10:32:21 GMT | Why Tech Companies Should Prioritise Regulatory Compliance Early On | Abdullateef Hameed | [Read More](https://medium.com/p/0eb9ac45d301) |
-| Fri, 19 Sep 2025 10:29:22 GMT | Snowflake Security & Access Patterns Basic → Advanced [From Snowpro Core Certified] | Iqra Anwar | [Read More](https://medium.com/p/5f83ac73bb03) |
-| Fri, 19 Sep 2025 10:29:19 GMT | Reconnaissance in Penetration Testing: Techniques and Tools | Robinson Israel Uche | [Read More](https://medium.com/p/3489feaacbb7) |
-| Fri, 19 Sep 2025 10:27:21 GMT | Whitepaper: Advanced Banking Use Case Detection Beyond Traditional Monitoring | Abdul | [Read More](https://medium.com/p/c64391295f6e) |
-| Fri, 19 Sep 2025 10:23:54 GMT | PG Practice — Sorcerer (Linux) | Lepton | [Read More](https://medium.com/p/4d1a243d2aa2) |
-| Fri, 19 Sep 2025 10:16:08 GMT | Boost Your Tech Skills with a Certified Cybersecurity Course in Nepal | tech innovation | [Read More](https://medium.com/p/8dc6c27e9301) |
-| Fri, 19 Sep 2025 10:14:18 GMT | Unveiling the Windows Registry: The Hidden Heart of the OS | Allen Ace | [Read More](https://medium.com/p/133091f13b6e) |
-| Fri, 19 Sep 2025 10:12:16 GMT | Best VAPT Companies In India - Information Security Audit Services | Gowthammathiew | [Read More](https://medium.com/p/cba5e60513b4) |
-| Fri, 19 Sep 2025 10:10:27 GMT | Hidden Power of Race Conditions in Web Apps | Monika sharma | [Read More](https://medium.com/p/f5633ba3463c) |
-| Fri, 19 Sep 2025 10:06:51 GMT | Do You Know a ‘Fearless’ Person Who Can’t Swim? | Fidelis Kayode Fadoju | [Read More](https://medium.com/p/579b9ce857df) |
-| Fri, 19 Sep 2025 09:59:25 GMT | CVE-2025–10598: SQL Injection Vulnerability Plagues SourceCodester Pet Grooming Software | CVEHUB | [Read More](https://medium.com/p/9eda156b6224) |
-| Fri, 19 Sep 2025 09:58:17 GMT | The PostgreSQL Config Tweaks That Scaled to 1M Users | Rizqi Mulki | [Read More](https://medium.com/p/6129d4813882) |
-| Fri, 19 Sep 2025 09:57:47 GMT | CVE-2025–10597: SQL Injection Vulnerability in kidaze CourseSelectionSystem | CVEHUB | [Read More](https://medium.com/p/499081e0afef) |
-| Fri, 19 Sep 2025 09:53:11 GMT | How to Integrate Vulnerability Management with Threat Intelligence Solutions for Proactive Cyber… | Digital Defense | [Read More](https://medium.com/p/c0e06171b645) |
-| Fri, 19 Sep 2025 09:52:50 GMT | BlackEnergy Lab — CyberDefenders Lab Write-Up | Mirage43 | [Read More](https://medium.com/p/b8e306afcf94) |
-| Fri, 19 Sep 2025 09:51:50 GMT | PostgreSQL Replication Lag: The Silent Performance Killer You’re Ignoring | Rizqi Mulki | [Read More](https://medium.com/p/2cc49b71ee56) |
-| Fri, 19 Sep 2025 09:51:44 GMT | Security · Freedom · Multi-Chain: How Digital Shield is Leading a Revolution in Web3 Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/c5c61f6d8248) |
