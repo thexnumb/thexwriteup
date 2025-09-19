@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 13:41:28 GMT | HTB — Baby (Easy) Walkthrough | Shnogeorgiev | [Read More](https://medium.com/p/4d044656b9fc) |
+| Fri, 19 Sep 2025 13:33:06 GMT | The Pivot Method: Technical Moves for Bug Hunters in Progress | Vicricsec | [Read More](https://medium.com/p/b767bcee8911) |
+| Fri, 19 Sep 2025 13:27:10 GMT | Part 26: Authorization With Ash Policies (Part 2/2) | Kamaro Lambert | [Read More](https://medium.com/p/60f2a00e35f2) |
+| Fri, 19 Sep 2025 13:19:29 GMT | The Deepfake Arms Race: Can We Still Trust What We See? | Sathish Thiyagarajan | [Read More](https://medium.com/p/fa1e94f3e027) |
 | Fri, 19 Sep 2025 13:17:45 GMT | The Adult’s Greatest Clarity: Excel at Work, Cherish Family, and Live for Yourself | kitty | [Read More](https://medium.com/p/2f9e41ac1592) |
 | Fri, 19 Sep 2025 13:17:45 GMT | Bypassing Complicated WiFi Security In Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/4d412dc77bd9) |
 | Fri, 19 Sep 2025 13:17:45 GMT | Cross-Site Scripting: How XSS Attacks Exploit Modern Web Applications | Rizqi Mulki | [Read More](https://medium.com/p/79f92a9e5bf5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 09:08:52 GMT | Which AI Security Role Could Be Your Future Career? | Taimur Ijlal | [Read More](https://medium.com/p/058ba4caa40b) |
 | Fri, 19 Sep 2025 09:07:34 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/c3ce1ec2444a) |
 | Fri, 19 Sep 2025 09:01:48 GMT | Trail Cam Drama: Is My Neighbor *Really* My Business? | Lawnline | [Read More](https://medium.com/p/57526f0c8de3) |
-| Fri, 19 Sep 2025 09:01:45 GMT | ️ Forensic Analysis with Windows Event Logs | Esra Kayhan | [Read More](https://medium.com/p/0daab88be396) |
-| Fri, 19 Sep 2025 08:59:40 GMT | The Power of Open Source: This Week’s Critical Intelligence Wins with OSINT Techniques — VIEH… | VIEH Security Research Team | [Read More](https://medium.com/p/f1302bb9e01e) |
-| Fri, 19 Sep 2025 08:56:08 GMT | OWASP Juice Shop: Broken Access Control — Admin Panel Access | Risskian | [Read More](https://medium.com/p/ee8d7af11cee) |
-| Fri, 19 Sep 2025 08:52:53 GMT | Satellite Hacking (Pentesting ?): Guide with Practical Steps, Commands, and Image Downloading | Akshit Pal | [Read More](https://medium.com/p/96f4cfc361b5) |
