@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 19:02:54 GMT | Why ORDER BY Didn’t Actually Order My Results? | Marwa Shahid | [Read More](https://medium.com/p/57302ebba5cf) |
+| Fri, 19 Sep 2025 19:01:04 GMT | From Kibana Frustration to Splunk Success | Garv Kamra | [Read More](https://medium.com/p/6749a6c5e7b9) |
+| Fri, 19 Sep 2025 18:54:55 GMT | CyberDefenders — MinerHunt Lab | jon | [Read More](https://medium.com/p/99c0295a1d90) |
+| Fri, 19 Sep 2025 18:53:13 GMT | BIOGRAPHY OF A BEAST: The Engineering of Monsters | Ghost | [Read More](https://medium.com/p/fd85718b4162) |
+| Fri, 19 Sep 2025 18:50:21 GMT | PromptJacked: The Silent Cyber Threat Hiding Inside Your Chatbot | Noel | [Read More](https://medium.com/p/0746ea81e88f) |
+| Fri, 19 Sep 2025 18:50:15 GMT | This Small Business Lost $75K to a QR Code Hack — Here’s the Shocking Story | Noel | [Read More](https://medium.com/p/6db2df06475b) |
+| Fri, 19 Sep 2025 18:49:36 GMT | HOW TO START BUG BOUNTY? ‍ A ROADMAP FOR ETHICAL HACKERS | Lumae | [Read More](https://medium.com/p/f26363317205) |
+| Fri, 19 Sep 2025 18:49:20 GMT | Advanced Bug Hunting: Tips, Tricks and Methodology | Monika sharma | [Read More](https://medium.com/p/9962b05ee740) |
+| Fri, 19 Sep 2025 18:47:54 GMT | The Password Paradox | Michael Huff — Writer of Stuff | [Read More](https://medium.com/p/eaa3d732d7b0) |
+| Fri, 19 Sep 2025 18:45:12 GMT | Exploiting IoT Devices With Just Google & Shodan | Vipul Sonule | [Read More](https://medium.com/p/b487ea635f6a) |
+| Fri, 19 Sep 2025 18:45:04 GMT | Detecting Web DDoS - Tryhackme | Aaron | [Read More](https://medium.com/p/13797738a463) |
+| Fri, 19 Sep 2025 18:44:55 GMT | The Windows Security Journey — Azure Arc | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d7a2782d961) |
+| Fri, 19 Sep 2025 18:43:31 GMT | SOC Role in Blue Team - TryHackMe Room Walkthrough | Samriddhi | [Read More](https://medium.com/p/cc5e83f521e7) |
 | Fri, 19 Sep 2025 18:40:34 GMT | Exploiting Remote code execution via polygot web shell upload | Cybernerddd | [Read More](https://medium.com/p/7dd574751f3b) |
 | Fri, 19 Sep 2025 18:38:47 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/1627f6c92d4a) |
 | Fri, 19 Sep 2025 18:36:46 GMT | Unlock Your Career: A Comprehensive Guide to a Diploma in Ethical Hacking and Cybersecurity | Nitin Singh | [Read More](https://medium.com/p/9ba90dbcae53) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 14:31:45 GMT | How to Remove a Door Lock Cylinder: A Quick Step-by-Step Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/955cedc113f6) |
 | Fri, 19 Sep 2025 14:28:54 GMT | Building a Zero Trust Framework: The 5-Step Blueprint for Businesses | IT_Engineer | [Read More](https://medium.com/p/ec4410440382) |
 | Fri, 19 Sep 2025 14:24:42 GMT | My Journey into Cybersecurity | Arti Sandip Jadhav | [Read More](https://medium.com/p/2afd0247698d) |
-| Fri, 19 Sep 2025 14:22:24 GMT | The Complete Guide to Network Security: From Fundamentals to Advanced Defense Strategies | Introvertdeveloper | [Read More](https://medium.com/p/434d8da0b0e5) |
-| Fri, 19 Sep 2025 14:21:01 GMT | Behavioral Analytics in Security | Cyber Security Research | [Read More](https://medium.com/p/0064b5f278fe) |
-| Fri, 19 Sep 2025 14:14:55 GMT | Fast TCP Port Scanning in Go: A Deep Dive into pscanner | Alireza Nezami | [Read More](https://medium.com/p/df6ccd1bb162) |
-| Fri, 19 Sep 2025 14:12:56 GMT | CVE-2025–59340: Jinjava’s Sandbox Escape | gm0 | [Read More](https://medium.com/p/ac055eb64f51) |
-| Fri, 19 Sep 2025 14:08:40 GMT | Cybersecurity Challenges in 5G Networks | Cyber Security Research | [Read More](https://medium.com/p/6d92221cdc05) |
-| Fri, 19 Sep 2025 14:02:52 GMT | Open Source Security Management | Cyber Security Research | [Read More](https://medium.com/p/b7b9bd6b2e76) |
-| Fri, 19 Sep 2025 14:02:33 GMT | When AI Uses Your Face Without Permission: The Horror of AI Misuse | Kiran Moazza | [Read More](https://medium.com/p/b94f4a9b4d23) |
-| Fri, 19 Sep 2025 14:02:08 GMT | Cyber Briefing: 2025.09.19 | CyberMaterial | [Read More](https://medium.com/p/a2c354d49db2) |
-| Fri, 19 Sep 2025 13:59:20 GMT | Windows 10: Why Sticking With It Is a Security Risk for SMEs | Cordula Boeck | [Read More](https://medium.com/p/32357ef296de) |
-| Fri, 19 Sep 2025 13:57:43 GMT | TryHackMe #30 - Nmap: The Basics | 0xGroot | [Read More](https://medium.com/p/1e7c4cbbe5cf) |
-| Fri, 19 Sep 2025 13:55:11 GMT | Top 4 Software Development Trends in Healthcare | Keepnet Labs | [Read More](https://medium.com/p/c4748ed0b8fd) |
-| Fri, 19 Sep 2025 13:53:07 GMT | Why You Need Life Insurance and Which Type Is Right for You - Integrity Advantage Group | Scott Reinhart | [Read More](https://medium.com/p/b2d91ac7c745) |
-| Fri, 19 Sep 2025 13:52:03 GMT | ️‍♂️Investigating Windows 3.x — TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/17a1737b801a) |
