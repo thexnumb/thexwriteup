@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 01:28:15 GMT | Intro to Car Hacking: Setting Up Your Own Vehicle Hacking Lab (No Real Car Needed) | Sagar patel | [Read More](https://medium.com/p/466f8020b3e8) |
+| Fri, 19 Sep 2025 01:03:38 GMT | Cybersecurity Careers in the Age of AI | Matthew.Rosenquist | [Read More](https://medium.com/p/8678e3eb66ce) |
+| Fri, 19 Sep 2025 01:01:47 GMT | Should you give up on privacy in 2025? | Urgent Privacy | [Read More](https://medium.com/p/0b0d7b039952) |
+| Fri, 19 Sep 2025 00:51:43 GMT | The Hidden Password Cracking Tool That Every Cybersecurity Expert Uses (But Never Talks About)… | Qasim Mahmood Khalid | [Read More](https://medium.com/p/896af2d8fa2b) |
+| Fri, 19 Sep 2025 00:32:25 GMT | It’s 0630 Zulu. Do you know where your drones are? | Brian C. Hart, Ph.D. | [Read More](https://medium.com/p/50666cb71f67) |
+| Fri, 19 Sep 2025 00:29:26 GMT | Why Most AI Security Tools Are Useless | Cyber-AppSec | [Read More](https://medium.com/p/71461e3eae08) |
+| Fri, 19 Sep 2025 00:28:45 GMT | $TRIAS MIGRATION TO $NETX | Bitcoinpepe | [Read More](https://medium.com/p/ee678fc794f2) |
+| Fri, 19 Sep 2025 00:20:28 GMT | Omni rebrands to Nomina with new identity, token migration, and refreshed vision | Bitcoinpepe | [Read More](https://medium.com/p/5200b4ec3818) |
+| Fri, 19 Sep 2025 00:02:31 GMT | Women’s Fashion & Lifestyle – Elegance with Modesty | Muhammad Abid | [Read More](https://medium.com/p/8e841fe7cae8) |
+| Fri, 19 Sep 2025 00:01:50 GMT | Domina WPScan en Bug Bounty: Guía esencial para el escaneo de vulnerabilidades | JPablo13 | [Read More](https://medium.com/p/2d78e5003351) |
+| Fri, 19 Sep 2025 00:01:46 GMT | Geopolitics Rundown: This Week’s Flashpoints | Money, Guns & Oil | [Read More](https://medium.com/p/c0d6e1f00575) |
+| Thu, 18 Sep 2025 23:58:26 GMT | Zero Trust | Crowndaisy | [Read More](https://medium.com/p/209b98cf7ecc) |
+| Thu, 18 Sep 2025 23:38:01 GMT | New Dawn: The Saudi-Pakistan Defense Pact and Its Ripple Across the World | Solenne | [Read More](https://medium.com/p/8966d0c7afbb) |
 | Thu, 18 Sep 2025 23:23:06 GMT | How Does Public Key Cryptography Work? | DumpBox | [Read More](https://medium.com/p/a8b766070ee6) |
 | Thu, 18 Sep 2025 23:21:44 GMT | Gaining Remote Access on Blue Windows (CTF Walkthrough) | ishaq Jafar | [Read More](https://medium.com/p/968e4599a069) |
 | Thu, 18 Sep 2025 23:09:03 GMT | LockBit Malware: The Ransomware Empire Threatening Businesses Everywhere | Akshay Chauhan | [Read More](https://medium.com/p/693db3e00c97) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 16:31:22 GMT | [TR]-Siber Güvenlik Odaklı Kariyer Yolunu Çiz! | Aybala Sevinc | [Read More](https://medium.com/p/852fd8e6eadd) |
 | Thu, 18 Sep 2025 16:25:05 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART I | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/73db7333b4af) |
 | Thu, 18 Sep 2025 16:24:44 GMT | SpringBoot Interface Security: Current Limiting, Replay Attacks, and Signature Mechanism Analysis | Umesh Kumar Yadav | [Read More](https://medium.com/p/687a5cee7424) |
-| Thu, 18 Sep 2025 16:20:22 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Blackbox77 | [Read More](https://medium.com/p/72ee6591735c) |
-| Thu, 18 Sep 2025 16:18:59 GMT | Who Needs Admin Rights When You’ve Got Bugs? | #$ubh@nk@r | [Read More](https://medium.com/p/ee71611b8bae) |
-| Thu, 18 Sep 2025 16:16:59 GMT | The Biggest Crypto Risk of 2025: Unpacking the NPM Supply Chain Attack | Kalariya Het | [Read More](https://medium.com/p/bc5f9feab716) |
-| Thu, 18 Sep 2025 16:15:07 GMT | AI Browsers: Convenience or Critical Security Blind Spot? | Graylog | [Read More](https://medium.com/p/da8be6c0edd3) |
-| Thu, 18 Sep 2025 16:11:39 GMT | Chainguard: Container Image Security | W. Jenks Gibbons | [Read More](https://medium.com/p/2972055be20c) |
-| Thu, 18 Sep 2025 16:07:03 GMT | How a WhatsApp Message Travels from Your Phone to Theirs | Richa Gautam | [Read More](https://medium.com/p/9373d18498de) |
-| Thu, 18 Sep 2025 15:58:34 GMT | Mojí fotovoltaiku číňan nevypne (snad) | Jiri Stepan | [Read More](https://medium.com/p/405d98d63319) |
-| Thu, 18 Sep 2025 15:56:55 GMT | Advanced SOLID & Security Practices in Real Frontend Code | Sanjeevani Bhandari | [Read More](https://medium.com/p/b618f030c85c) |
-| Thu, 18 Sep 2025 15:52:30 GMT | Engineering Decisions That Don’t Follow the Rules (And How to Explain Them) | Marta Bencomo | [Read More](https://medium.com/p/1aabbc056e1e) |
-| Thu, 18 Sep 2025 15:50:12 GMT | ️ Lazy Loading in Web Applications: Serving Only When You Ask | Natarajan C K | [Read More](https://medium.com/p/ac66a1977d14) |
-| Thu, 18 Sep 2025 15:46:20 GMT | Is Antivirus Software Sufficient Protection Against Ransomware? The Shocking Truth for SMEs | Cordula Boeck | [Read More](https://medium.com/p/28345dacdfc4) |
-| Thu, 18 Sep 2025 15:39:17 GMT | String Me Along: How a Single Quote Unraveled a Site’s Security | Buffer | [Read More](https://medium.com/p/2e71ec4534e6) |
-| Thu, 18 Sep 2025 15:36:35 GMT | Introducing the First Public Leaderboard for LLM Watermarking | Kiel Dang | [Read More](https://medium.com/p/d8016acd1265) |
