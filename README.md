@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 07:22:25 GMT | Taming Production Bugs with Correlation IDs | Brahmananda Sahoo | [Read More](https://medium.com/p/49f73bbdddaa) |
+| Fri, 19 Sep 2025 07:20:34 GMT | I Dedicated 365 Days In Learning Cybersecurity — Here’s How It Changed My Life | JetkingChandigarh | [Read More](https://medium.com/p/d3836f6c710a) |
+| Fri, 19 Sep 2025 07:19:19 GMT | I Wish I Had This Secret Guide When I First Bought My PC | VipLuv | [Read More](https://medium.com/p/79eea85e596b) |
+| Fri, 19 Sep 2025 07:15:57 GMT | Indoor vs. Outdoor Camera Placement: Getting It Right | Acfalarm | [Read More](https://medium.com/p/b52a77dbf84d) |
 | Fri, 19 Sep 2025 07:13:44 GMT | Recap of Our “Passkeys Pwned” Talk at DEF CON | SquareX | [Read More](https://medium.com/p/2a56356e3835) |
 | Fri, 19 Sep 2025 07:13:11 GMT | When a Trojan Turned My Coding Afternoon Into a Hard Lesson | Johnson Adeuga ✍️ | [Read More](https://medium.com/p/84dc279e721a) |
 | Fri, 19 Sep 2025 07:11:35 GMT | Our Services at a Glance — How Deonics Powers Businesses | Digitaldepartment | [Read More](https://medium.com/p/42ae19295b7e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 21:24:17 GMT | Why Caching Bugs Are the Hardest to Debug | ArchitectOfExperience | [Read More](https://medium.com/p/6e3484409abb) |
 | Thu, 18 Sep 2025 21:23:01 GMT | Purulia, West Bengal - In today's fast-paced digital era, millions of people struggle with online… | #BKP | [Read More](https://medium.com/p/666dbacc7eaf) |
 | Thu, 18 Sep 2025 21:17:21 GMT | Don’t Wrap Me in Gentle Words | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/b709dce06262) |
-| Thu, 18 Sep 2025 21:02:00 GMT | ⚙️ What is DevSecOps and How to Implement It? | Esra Kayhan | [Read More](https://medium.com/p/592ed205e8ea) |
-| Thu, 18 Sep 2025 20:58:43 GMT | What are Negotiable Debt Securities? | discovery2.0 | [Read More](https://medium.com/p/402e67bda6ce) |
-| Thu, 18 Sep 2025 20:57:16 GMT | Hack the Box — Administrator — WriteUp | Emre A. | [Read More](https://medium.com/p/958daa331982) |
-| Thu, 18 Sep 2025 20:56:12 GMT | Mobile, HTTPS & Security 2025: Mobile‑First UX, Full HTTPS, Essential Security Headers | Mr_gym | [Read More](https://medium.com/p/2f28ab044f17) |
