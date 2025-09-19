@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 03:45:59 GMT | Why “MTTD Drift” Is Your Next Cybersecurity KRI | Dr. Deep Pandey | [Read More](https://medium.com/p/18678d0159c7) |
+| Fri, 19 Sep 2025 03:32:21 GMT | A Wake-Up Call for Platform Security | Akshat Ratanpal | [Read More](https://medium.com/p/cd1215374cda) |
+| Fri, 19 Sep 2025 03:32:20 GMT | SmartLoader Malware Masquerades as Legitimate GitHub Projects to Spread Infostealers | Deven Chhajed | [Read More](https://medium.com/p/3ad98f119cb7) |
+| Fri, 19 Sep 2025 03:28:02 GMT | The Future of Work: How AI Will Change Your Job and How to Adapt | Ayesha Rasheed Rajpoot | [Read More](https://medium.com/p/561795ee6322) |
+| Fri, 19 Sep 2025 03:06:35 GMT | DoS vs. DoW in LLMs: Breaking Systems vs. Breaking Budgets | BlueTeam Bytes | [Read More](https://medium.com/p/c9783ddd4d80) |
+| Fri, 19 Sep 2025 03:04:19 GMT | Shai-Hulud: A Self-Propagating Worm Cripples npm — Stealing Secrets, Credentials & Trust in ­­the… | eL Njas!™ | [Read More](https://medium.com/p/7f8f379f3fd1) |
+| Fri, 19 Sep 2025 03:02:09 GMT | Africa’s Rising Jihad: How ISIS and Al-Qaeda Are Turning the Continent into the World’s Deadliest… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c7a1dcc1d823) |
+| Fri, 19 Sep 2025 03:02:09 GMT | Taiwan Rejects Surrender Rumors Amid China Threat | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a7bab76de70c) |
+| Fri, 19 Sep 2025 03:02:04 GMT | Encrypting & Decrypting URL Parameters in ASP.NET MVC: Best Practices & Implementation Guide | AsmaK9 | [Read More](https://medium.com/p/3dc52c0f7030) |
+| Fri, 19 Sep 2025 03:00:39 GMT | Prototype Pollution in Pentesting — (Part 1) | Indigo Shadow | [Read More](https://medium.com/p/0606220e8a0c) |
 | Fri, 19 Sep 2025 02:51:47 GMT | Umbrella Corp — Time Tracking (TryHackMe) Write-up | spdr0x | [Read More](https://medium.com/p/b808993e7481) |
 | Fri, 19 Sep 2025 02:24:43 GMT | The Cybernetic Subversion of Exoatmospheric Assets: 0-P’s Space Hacking of Orbital Command and… | Cybersec News | [Read More](https://medium.com/p/7b54f318e399) |
 | Fri, 19 Sep 2025 02:19:11 GMT | Beyond Mimikatz: The Art of Developing Custom LSASS Dumpers | Itz.sanskarr | [Read More](https://medium.com/p/d43b276985af) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 17:53:57 GMT | How Women Can Still Keep Their Privacy | Lamis | [Read More](https://medium.com/p/acd25e18d2a9) |
 | Thu, 18 Sep 2025 17:47:26 GMT | Learn “Cryptographic Failure Attack” — OWASP Top 10 (Position #2) | Rashadul Islam | [Read More](https://medium.com/p/ad3c7d5bee4e) |
 | Thu, 18 Sep 2025 17:38:29 GMT | Underground AI Credentials Market: Over 1 Million Stolen ChatGPT Accounts and Counting | Arpit | [Read More](https://medium.com/p/38c17846a5ad) |
-| Thu, 18 Sep 2025 17:26:45 GMT | The Internet Connected Us, Ethereum Empowered Us, Drosera Will Automate Us | Rubynaruto | [Read More](https://medium.com/p/cd1f7cc07550) |
-| Thu, 18 Sep 2025 17:24:31 GMT | Building your Idea — No Stopping Yet | Tolulope Arobieke | [Read More](https://medium.com/p/d14b4895fdbf) |
-| Thu, 18 Sep 2025 17:23:21 GMT | “5 real world problems and how a GRC professional will solve them” (part 1) | Pragati gupta | [Read More](https://medium.com/p/73abac560991) |
-| Thu, 18 Sep 2025 17:12:11 GMT | The Digital Breadcrumb: How OSINT Solved a Case No One Could Crack | Rishisec | [Read More](https://medium.com/p/c024c7b9ab98) |
-| Thu, 18 Sep 2025 17:09:49 GMT | Not Using Multi-Factor Authentication (MFA)Subheading: Relying on passwords alone leaves… | Ehsanm135 | [Read More](https://medium.com/p/84ed94711605) |
-| Thu, 18 Sep 2025 17:02:19 GMT | The Strike That Wiped the Smile Off Putin’s Face | Alfred James | [Read More](https://medium.com/p/39a43f2b7726) |
-| Thu, 18 Sep 2025 16:59:50 GMT | Web3 Safety Playbook — AEO + GEO Optimized Article | Mohammad Abir Abbas | [Read More](https://medium.com/p/d0a3df1d08c2) |
-| Thu, 18 Sep 2025 16:59:40 GMT | ShinyHunters Strikes Again: Massive Salesforce Data Breach Exposes 1.5 Billion Records | Technijian | [Read More](https://medium.com/p/97b8b034d98b) |
-| Thu, 18 Sep 2025 16:51:10 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART II | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/8047923c8ab3) |
-| Thu, 18 Sep 2025 16:48:06 GMT | 180+ NPM Packages Hit in Major Supply Chain Attack | ASAcrew Blog | [Read More](https://medium.com/p/01c2f6cb87a7) |
