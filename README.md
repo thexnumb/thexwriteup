@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 04:30:37 GMT | Email Injection Madness: Spoofing the CEO With a Single Payload! | Iski | [Read More](https://medium.com/p/1b97fba50ade) |
+| Fri, 19 Sep 2025 04:27:54 GMT | The Beginner’s Guide to Strong Passwords (And Why Yours Is Probably Weak) | Aj | [Read More](https://medium.com/p/ea3d69961f36) |
+| Fri, 19 Sep 2025 04:24:41 GMT | From Query Param to Cookie Poisoning: How WAFs Fail at Security | Sarthak Saxena | [Read More](https://medium.com/p/69f784822635) |
 | Fri, 19 Sep 2025 04:12:46 GMT | SQL Injection pada aplikasi Sistem Informasi Manajemen UPNVJ | Rico Andreas | [Read More](https://medium.com/p/88ba5169f6bf) |
 | Fri, 19 Sep 2025 04:05:32 GMT | Guía Completa de Kubernetes NetworkPolicies: Protege tu Cluster Como un Experto | Giovanny Orjuela | [Read More](https://medium.com/p/0eecf608498f) |
 | Fri, 19 Sep 2025 03:49:50 GMT | Quantum Threats and the Future of Blockchain Security | Dukerearing | [Read More](https://medium.com/p/5fac93ed609e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 18:05:30 GMT | When Your Car Becomes a Hacker’s Gateway to Your Phone | Anas Al Rawi | [Read More](https://medium.com/p/329019178dc8) |
 | Thu, 18 Sep 2025 18:01:46 GMT | $5,000 por este RCE en Netflix: subida de PHP camuflado como GIF | Gorka | [Read More](https://medium.com/p/cfaec6c75683) |
 | Thu, 18 Sep 2025 18:01:46 GMT | 10 Blockchain Failures I Learned the Hard Way | Bhagya Rana | [Read More](https://medium.com/p/893bfc4051e7) |
-| Thu, 18 Sep 2025 17:57:57 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART… | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/21dca35a86c2) |
-| Thu, 18 Sep 2025 17:57:40 GMT | Complete Guide to Qubes OS: The World’s Most Secure Operating System | Technology Diaries | [Read More](https://medium.com/p/53153398bad0) |
-| Thu, 18 Sep 2025 17:56:07 GMT | $6,500+: How a Business Logic Flaw in an API Can Yield Big Rewards | Breno Felipe | [Read More](https://medium.com/p/312b1981ae3a) |
