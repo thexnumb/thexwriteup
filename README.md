@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 08:38:45 GMT | OWASP juice Shop: SQL Injection — Bypassing Admin Login | Risskian | [Read More](https://medium.com/p/ca8febf70d0d) |
+| Fri, 19 Sep 2025 08:37:51 GMT | Why Professionals Are Choosing MBA in Information Technology in 2025 | SICSR Pune | [Read More](https://medium.com/p/72fe44652aa3) |
+| Fri, 19 Sep 2025 08:36:43 GMT | Cybersecurity Myths Every Student Should Stop Believing | Connecting Cyber Networks | [Read More](https://medium.com/p/bef9afc69965) |
+| Fri, 19 Sep 2025 08:33:07 GMT | Smap Network Scanner — a lightweight, passive cyber-scan with Grafana | Antoine Cichowicz | [Read More](https://medium.com/p/88e0ad351d54) |
+| Fri, 19 Sep 2025 08:32:36 GMT | Cybersecurity in Financial Services | Cyber Security Research | [Read More](https://medium.com/p/f3d5c0a9114f) |
+| Fri, 19 Sep 2025 08:29:18 GMT | Critical File Upload Vulnerability in Yonyou U8 Cloud (IPFxxFileService) | AerieWhole123 | [Read More](https://medium.com/p/57fbde3aa652) |
+| Fri, 19 Sep 2025 08:28:03 GMT | The Rise of “HybridPetya” Ransomware: When Old Nightmares Learn New Tricks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/e2e8c73ed3aa) |
+| Fri, 19 Sep 2025 08:25:46 GMT | Industrial Control System Security | Cyber Security Research | [Read More](https://medium.com/p/682be63fcb30) |
 | Fri, 19 Sep 2025 08:13:17 GMT | Challenge: “Log Labyrinth” | Joeycadieux | [Read More](https://medium.com/p/1a07e347edb0) |
 | Fri, 19 Sep 2025 08:13:03 GMT | Why is ZoomEye considered the best cyberspace search engine? | Liuliuliusq | [Read More](https://medium.com/p/1fdb49c51ee6) |
 | Fri, 19 Sep 2025 08:03:17 GMT | Building a Real-World SOC Lab: Integrating Suricata IDS with Splunk SIEM | Punnakavyasri | [Read More](https://medium.com/p/a3e8dac4f911) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 00:01:46 GMT | Geopolitics Rundown: This Week’s Flashpoints | Money, Guns & Oil | [Read More](https://medium.com/p/c0d6e1f00575) |
 | Thu, 18 Sep 2025 23:58:26 GMT | Zero Trust | Crowndaisy | [Read More](https://medium.com/p/209b98cf7ecc) |
 | Thu, 18 Sep 2025 23:38:01 GMT | New Dawn: The Saudi-Pakistan Defense Pact and Its Ripple Across the World | Solenne | [Read More](https://medium.com/p/8966d0c7afbb) |
-| Thu, 18 Sep 2025 23:23:06 GMT | How Does Public Key Cryptography Work? | DumpBox | [Read More](https://medium.com/p/a8b766070ee6) |
-| Thu, 18 Sep 2025 23:21:44 GMT | Gaining Remote Access on Blue Windows (CTF Walkthrough) | ishaq Jafar | [Read More](https://medium.com/p/968e4599a069) |
-| Thu, 18 Sep 2025 23:09:03 GMT | LockBit Malware: The Ransomware Empire Threatening Businesses Everywhere | Akshay Chauhan | [Read More](https://medium.com/p/693db3e00c97) |
-| Thu, 18 Sep 2025 23:00:42 GMT | Eternal Wight Certificate | Jor El | [Read More](https://medium.com/p/03535bbe0555) |
-| Thu, 18 Sep 2025 22:57:29 GMT | How to Build a Bulletproof Smart Contract Security Pipeline | Officer's Notes | [Read More](https://medium.com/p/9a7cb40ec949) |
-| Thu, 18 Sep 2025 22:49:13 GMT | 2000 Years of Passwords And No More to Come | Sarthak Sinha | [Read More](https://medium.com/p/be34028ab10c) |
-| Thu, 18 Sep 2025 22:32:02 GMT | Testing Antivirus Detection Levels on Ghostly Hollowing Crypter | S12 - 0x12Dark Development | [Read More](https://medium.com/p/087cdc2d9025) |
-| Thu, 18 Sep 2025 22:25:34 GMT | The Digital Ghost in the Machine: How a Small Business Fought Back Against Cyber Threats | Youssef EL-OUARDI | [Read More](https://medium.com/p/bc92a7fb2b98) |
