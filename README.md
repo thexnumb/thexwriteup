@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 10:40:11 GMT | Quantum Computing and Its Impact on Payment Security | Mahavir Pratap | [Read More](https://medium.com/p/2cc9e890949b) |
+| Fri, 19 Sep 2025 10:35:00 GMT | These 4 Simple Tool Sites Attract 16M+ Visits Every Month | Evan - AI for Growth | [Read More](https://medium.com/p/8c1829f053df) |
+| Fri, 19 Sep 2025 10:32:21 GMT | Why Tech Companies Should Prioritise Regulatory Compliance Early On | Abdullateef Hameed | [Read More](https://medium.com/p/0eb9ac45d301) |
+| Fri, 19 Sep 2025 10:29:22 GMT | Snowflake Security & Access Patterns Basic → Advanced [From Snowpro Core Certified] | Iqra Anwar | [Read More](https://medium.com/p/5f83ac73bb03) |
+| Fri, 19 Sep 2025 10:29:19 GMT | Reconnaissance in Penetration Testing: Techniques and Tools | Robinson Israel Uche | [Read More](https://medium.com/p/3489feaacbb7) |
+| Fri, 19 Sep 2025 10:27:21 GMT | Whitepaper: Advanced Banking Use Case Detection Beyond Traditional Monitoring | Abdul | [Read More](https://medium.com/p/c64391295f6e) |
+| Fri, 19 Sep 2025 10:23:54 GMT | PG Practice — Sorcerer (Linux) | Lepton | [Read More](https://medium.com/p/4d1a243d2aa2) |
 | Fri, 19 Sep 2025 10:16:08 GMT | Boost Your Tech Skills with a Certified Cybersecurity Course in Nepal | tech innovation | [Read More](https://medium.com/p/8dc6c27e9301) |
 | Fri, 19 Sep 2025 10:14:18 GMT | Unveiling the Windows Registry: The Hidden Heart of the OS | Allen Ace | [Read More](https://medium.com/p/133091f13b6e) |
 | Fri, 19 Sep 2025 10:12:16 GMT | Best VAPT Companies In India - Information Security Audit Services | Gowthammathiew | [Read More](https://medium.com/p/cba5e60513b4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 06:15:49 GMT | The Daily Tech Digest: 19 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/fa9ad084a1db) |
 | Fri, 19 Sep 2025 06:15:12 GMT | AI Red Teaming CTF: [ai_gon3_rogu3] - HTB Write-up | SIGKILLers | [Read More](https://medium.com/p/8571b23dc152) |
 | Fri, 19 Sep 2025 06:14:37 GMT | The Secret Life of Subdomains : From Takeover to $$$ Bounties | Vipul Sonule | [Read More](https://medium.com/p/24498e87f6c4) |
-| Fri, 19 Sep 2025 06:12:57 GMT | From Recon to Root ⚡: A Beginner’s Journey Into CTF Hacking | Vipul Sonule | [Read More](https://medium.com/p/575374698b02) |
-| Fri, 19 Sep 2025 06:07:54 GMT | The Importance of Secure & Encrypted Business Communication | Aao Chat | [Read More](https://medium.com/p/c919a9dff2a4) |
-| Fri, 19 Sep 2025 06:02:17 GMT | The Exciting Race to Build a Secure OS Without C | John Boero | [Read More](https://medium.com/p/69fcc3aeeabc) |
-| Fri, 19 Sep 2025 06:00:46 GMT | Today’s Top Cyber Intelligence Highlights — Sep 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5cbef6709c65) |
-| Fri, 19 Sep 2025 06:00:45 GMT | Plex Alerts Users of Security Breach, Urges Immediate Password Reset | SafetyDetectives Research Team | [Read More](https://medium.com/p/19f2c996d340) |
-| Fri, 19 Sep 2025 05:59:43 GMT | Mobile Malware: The Rising Threat in 2025 | Abida Adra | [Read More](https://medium.com/p/17de3a2190e6) |
-| Fri, 19 Sep 2025 05:55:27 GMT | India Is Ready to Protect Your Digital Data: New Rules Are Coming | AADI | [Read More](https://medium.com/p/6d4cabab19aa) |
