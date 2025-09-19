@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 09:22:05 GMT | Home Security Cameras In Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/cb27a0301efb) |
+| Fri, 19 Sep 2025 09:21:54 GMT | Orochi: Igniting the Future of Finance with Verifiable RWA Data | Yuglathiya | [Read More](https://medium.com/p/315058e2b95b) |
+| Fri, 19 Sep 2025 09:15:24 GMT | The Robot Revolution: How AI-Powered Security is Transforming Data Centers | Arunkumar | [Read More](https://medium.com/p/d1f70c0388bc) |
+| Fri, 19 Sep 2025 09:14:57 GMT | Engineering Trust: The Security and Scalability Architecture Behind VERAXIS Global Business School… | VERAXIS Global Business School（VRXS） | [Read More](https://medium.com/p/132be7373351) |
+| Fri, 19 Sep 2025 09:11:03 GMT | Cyber Threat Intelligence: How to Investigate IPs and Domains - TryHackMe Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/f5747bc05734) |
+| Fri, 19 Sep 2025 09:09:08 GMT | Creepy Online? Your Data’s Trail is Longer Than You Think | Authlyn | [Read More](https://medium.com/p/b27ea9d07112) |
+| Fri, 19 Sep 2025 09:08:52 GMT | Which AI Security Role Could Be Your Future Career? | Taimur Ijlal | [Read More](https://medium.com/p/058ba4caa40b) |
+| Fri, 19 Sep 2025 09:07:34 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/c3ce1ec2444a) |
+| Fri, 19 Sep 2025 09:01:48 GMT | Trail Cam Drama: Is My Neighbor *Really* My Business? | Lawnline | [Read More](https://medium.com/p/57526f0c8de3) |
+| Fri, 19 Sep 2025 09:01:45 GMT | ️ Forensic Analysis with Windows Event Logs | Esra Kayhan | [Read More](https://medium.com/p/0daab88be396) |
+| Fri, 19 Sep 2025 08:59:40 GMT | The Power of Open Source: This Week’s Critical Intelligence Wins with OSINT Techniques — VIEH… | VIEH Security Research Team | [Read More](https://medium.com/p/f1302bb9e01e) |
+| Fri, 19 Sep 2025 08:56:08 GMT | OWASP Juice Shop: Broken Access Control — Admin Panel Access | Risskian | [Read More](https://medium.com/p/ee8d7af11cee) |
+| Fri, 19 Sep 2025 08:52:53 GMT | Satellite Hacking (Pentesting ?): Guide with Practical Steps, Commands, and Image Downloading | Akshit Pal | [Read More](https://medium.com/p/96f4cfc361b5) |
+| Fri, 19 Sep 2025 08:52:06 GMT | Domain Trusts: An Exploitation Playbook | Redfox Security | [Read More](https://medium.com/p/10b46d903c73) |
+| Fri, 19 Sep 2025 08:51:16 GMT | AI 2025: How Algorithms Will Change Your Everyday Life (A Simple Guide for Everyone) | MARYAM NOUWARY | [Read More](https://medium.com/p/f3cec5affa8e) |
+| Fri, 19 Sep 2025 08:51:04 GMT | Keeping Hybrid Events Safe: A Human Guide to Cybersecurity in 2025 | Mikha Piregu | [Read More](https://medium.com/p/27a93a714d28) |
+| Fri, 19 Sep 2025 08:50:49 GMT | Shadow IT and Security Risks | Cyber Security Research | [Read More](https://medium.com/p/7bbf1a0b131b) |
+| Fri, 19 Sep 2025 08:49:25 GMT | How a Telecom Operator Transformed Threat Intelligence with IP Asset Data in 2025 | Zhiwen Liu | [Read More](https://medium.com/p/a8f62458a009) |
+| Fri, 19 Sep 2025 08:46:27 GMT | Securing the CI/CD Pipeline with Chainguard: Why Modern DevOps Needs a Built‑In Trust Layer | Hazem | [Read More](https://medium.com/p/8d201d3a19dd) |
+| Fri, 19 Sep 2025 08:44:46 GMT | The Rise of Cyber Insurance | Cyber Security Research | [Read More](https://medium.com/p/89474bb1c84f) |
+| Fri, 19 Sep 2025 08:38:51 GMT | DDoS Attack Mitigation Strategies | Cyber Security Research | [Read More](https://medium.com/p/30c81416e285) |
 | Fri, 19 Sep 2025 08:38:45 GMT | OWASP juice Shop: SQL Injection — Bypassing Admin Login | Risskian | [Read More](https://medium.com/p/ca8febf70d0d) |
+| Fri, 19 Sep 2025 08:38:30 GMT | From Chaos to Command Center: The Birth Story of PentoraSec | Pentora Security | [Read More](https://medium.com/p/e102f7f59794) |
 | Fri, 19 Sep 2025 08:37:51 GMT | Why Professionals Are Choosing MBA in Information Technology in 2025 | SICSR Pune | [Read More](https://medium.com/p/72fe44652aa3) |
 | Fri, 19 Sep 2025 08:36:43 GMT | Cybersecurity Myths Every Student Should Stop Believing | Connecting Cyber Networks | [Read More](https://medium.com/p/bef9afc69965) |
 | Fri, 19 Sep 2025 08:33:07 GMT | Smap Network Scanner — a lightweight, passive cyber-scan with Grafana | Antoine Cichowicz | [Read More](https://medium.com/p/88e0ad351d54) |
@@ -31,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 07:44:51 GMT | Why Hiring a Professional Security Guard Company Ensures Complete Safety | Fss | [Read More](https://medium.com/p/a0486ceac9e1) |
 | Fri, 19 Sep 2025 07:44:14 GMT | SPARK Matrix™: In-App Protection Key Market Insights and Strategic Assessment | Gargiben | [Read More](https://medium.com/p/6b7a16c9dc7d) |
 | Fri, 19 Sep 2025 07:40:16 GMT | How I Tracked Our Clients’ Device Versions Without Direct Reporting | Zhiwen Liu | [Read More](https://medium.com/p/9ec36ed79711) |
+| Fri, 19 Sep 2025 07:26:49 GMT | Next-Generation Application Testing: Mastering Invicti, Bright Security DAST, Beagle Security, and… | Iliya Garakh | [Read More](https://medium.com/p/688a6ddf6aaf) |
 | Fri, 19 Sep 2025 07:22:25 GMT | Taming Production Bugs with Correlation IDs | Brahmananda Sahoo | [Read More](https://medium.com/p/49f73bbdddaa) |
 | Fri, 19 Sep 2025 07:20:34 GMT | I Dedicated 365 Days In Learning Cybersecurity — Here’s How It Changed My Life | JetkingChandigarh | [Read More](https://medium.com/p/d3836f6c710a) |
 | Fri, 19 Sep 2025 07:19:19 GMT | I Wish I Had This Secret Guide When I First Bought My PC | VipLuv | [Read More](https://medium.com/p/79eea85e596b) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 03:32:21 GMT | A Wake-Up Call for Platform Security | Akshat Ratanpal | [Read More](https://medium.com/p/cd1215374cda) |
 | Fri, 19 Sep 2025 03:32:20 GMT | SmartLoader Malware Masquerades as Legitimate GitHub Projects to Spread Infostealers | Deven Chhajed | [Read More](https://medium.com/p/3ad98f119cb7) |
 | Fri, 19 Sep 2025 03:28:02 GMT | The Future of Work: How AI Will Change Your Job and How to Adapt | Ayesha Rasheed Rajpoot | [Read More](https://medium.com/p/561795ee6322) |
-| Fri, 19 Sep 2025 03:06:35 GMT | DoS vs. DoW in LLMs: Breaking Systems vs. Breaking Budgets | BlueTeam Bytes | [Read More](https://medium.com/p/c9783ddd4d80) |
-| Fri, 19 Sep 2025 03:04:19 GMT | Shai-Hulud: A Self-Propagating Worm Cripples npm — Stealing Secrets, Credentials & Trust in ­­the… | eL Njas!™ | [Read More](https://medium.com/p/7f8f379f3fd1) |
-| Fri, 19 Sep 2025 03:02:09 GMT | Africa’s Rising Jihad: How ISIS and Al-Qaeda Are Turning the Continent into the World’s Deadliest… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c7a1dcc1d823) |
-| Fri, 19 Sep 2025 03:02:09 GMT | Taiwan Rejects Surrender Rumors Amid China Threat | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a7bab76de70c) |
-| Fri, 19 Sep 2025 03:02:04 GMT | Encrypting & Decrypting URL Parameters in ASP.NET MVC: Best Practices & Implementation Guide | AsmaK9 | [Read More](https://medium.com/p/3dc52c0f7030) |
-| Fri, 19 Sep 2025 03:00:39 GMT | Prototype Pollution in Pentesting — (Part 1) | Indigo Shadow | [Read More](https://medium.com/p/0606220e8a0c) |
-| Fri, 19 Sep 2025 02:51:47 GMT | Umbrella Corp — Time Tracking (TryHackMe) Write-up | spdr0x | [Read More](https://medium.com/p/b808993e7481) |
-| Fri, 19 Sep 2025 02:24:43 GMT | The Cybernetic Subversion of Exoatmospheric Assets: 0-P’s Space Hacking of Orbital Command and… | Cybersec News | [Read More](https://medium.com/p/7b54f318e399) |
-| Fri, 19 Sep 2025 02:19:11 GMT | Beyond Mimikatz: The Art of Developing Custom LSASS Dumpers | Itz.sanskarr | [Read More](https://medium.com/p/d43b276985af) |
-| Fri, 19 Sep 2025 01:28:15 GMT | Intro to Car Hacking: Setting Up Your Own Vehicle Hacking Lab (No Real Car Needed) | Sagar patel | [Read More](https://medium.com/p/466f8020b3e8) |
-| Fri, 19 Sep 2025 01:26:19 GMT | How to Have a Healthy Relationship When You Feel Unloved | Ophaly Kate | [Read More](https://medium.com/p/79141820dea5) |
-| Fri, 19 Sep 2025 01:03:38 GMT | Cybersecurity Careers in the Age of AI | Matthew.Rosenquist | [Read More](https://medium.com/p/8678e3eb66ce) |
-| Fri, 19 Sep 2025 01:01:47 GMT | Should you give up on privacy in 2025? | Urgent Privacy | [Read More](https://medium.com/p/0b0d7b039952) |
-| Fri, 19 Sep 2025 00:51:43 GMT | The Hidden Password Cracking Tool That Every Cybersecurity Expert Uses (But Never Talks About)… | Qasim Mahmood Khalid | [Read More](https://medium.com/p/896af2d8fa2b) |
-| Fri, 19 Sep 2025 00:32:25 GMT | It’s 0630 Zulu. Do you know where your drones are? | Brian C. Hart, Ph.D. | [Read More](https://medium.com/p/50666cb71f67) |
-| Fri, 19 Sep 2025 00:29:26 GMT | Why Most AI Security Tools Are Useless | Cyber-AppSec | [Read More](https://medium.com/p/71461e3eae08) |
-| Fri, 19 Sep 2025 00:28:45 GMT | $TRIAS MIGRATION TO $NETX | Bitcoinpepe | [Read More](https://medium.com/p/ee678fc794f2) |
-| Fri, 19 Sep 2025 00:20:28 GMT | Omni rebrands to Nomina with new identity, token migration, and refreshed vision | Bitcoinpepe | [Read More](https://medium.com/p/5200b4ec3818) |
-| Fri, 19 Sep 2025 00:02:31 GMT | Women’s Fashion & Lifestyle – Elegance with Modesty | Muhammad Abid | [Read More](https://medium.com/p/8e841fe7cae8) |
-| Fri, 19 Sep 2025 00:01:50 GMT | Domina WPScan en Bug Bounty: Guía esencial para el escaneo de vulnerabilidades | JPablo13 | [Read More](https://medium.com/p/2d78e5003351) |
-| Fri, 19 Sep 2025 00:01:46 GMT | Geopolitics Rundown: This Week’s Flashpoints | Money, Guns & Oil | [Read More](https://medium.com/p/c0d6e1f00575) |
-| Thu, 18 Sep 2025 23:58:26 GMT | Zero Trust | Crowndaisy | [Read More](https://medium.com/p/209b98cf7ecc) |
-| Thu, 18 Sep 2025 23:38:01 GMT | New Dawn: The Saudi-Pakistan Defense Pact and Its Ripple Across the World | Solenne | [Read More](https://medium.com/p/8966d0c7afbb) |
