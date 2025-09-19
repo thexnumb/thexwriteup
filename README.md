@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 21:29:33 GMT | A Beginner’s Guide to Bitwarden Sends: Securely Share Sensitive Information | Tim_Idd | [Read More](https://medium.com/p/4c65ca8a8ac4) |
+| Fri, 19 Sep 2025 21:09:32 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/0afcd64a3a58) |
+| Fri, 19 Sep 2025 21:08:00 GMT | Fundamentals of Secure Communication (2025) | Kish Galappatti | [Read More](https://medium.com/p/6fea5852b09d) |
 | Fri, 19 Sep 2025 21:00:32 GMT | Hack the Box — Remote — WriteUp | Emre A. | [Read More](https://medium.com/p/46cfdc541ea8) |
 | Fri, 19 Sep 2025 20:48:29 GMT | Incident Report -PsExec Lateral Movement (CyberDefenders Lab) | Saeed Elfiky | [Read More](https://medium.com/p/208b1ace276e) |
 | Fri, 19 Sep 2025 20:47:42 GMT | The One Password to Rule Them All | Michael Huff — Writer of Stuff | [Read More](https://medium.com/p/ce0a6dedeea4) |
@@ -110,6 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 15:44:35 GMT | Cracking SQL Injection: What I Learned from a Cisco Security Lab | Cyber Timi | [Read More](https://medium.com/p/5aa2c3bc8523) |
 | Fri, 19 Sep 2025 15:42:23 GMT | Comprehensive Analysis: Sri Lanka’s National Cybersecurity Strategy (2025-2029) vs. | Erica Jayasundera | [Read More](https://medium.com/p/1596fe8c3249) |
 | Fri, 19 Sep 2025 15:36:03 GMT | TryHackMe - Chaining Vulnerabilities - WriteUp | Axoloth | [Read More](https://medium.com/p/0a3728abb1f8) |
-| Fri, 19 Sep 2025 15:34:03 GMT | CISA has identified a critical vulnerability ,CVE-2025–5086, in DELMIA Apriso software, which… | SCtoCS | [Read More](https://medium.com/p/bec5831da221) |
-| Fri, 19 Sep 2025 15:31:45 GMT | “Beyond the Obvious: Unearthing Hidden Subdomains for Better Bounties” | Aman Sharma | [Read More](https://medium.com/p/1692e32e0aab) |
-| Fri, 19 Sep 2025 15:30:36 GMT | In Demand & Innovating: The Most Sought-After IT Services Shaping 2025’s Technology Landscape | Teona | [Read More](https://medium.com/p/e58d77574ba4) |
