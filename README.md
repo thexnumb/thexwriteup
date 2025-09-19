@@ -12,10 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 21:00:32 GMT | Hack the Box — Remote — WriteUp | Emre A. | [Read More](https://medium.com/p/46cfdc541ea8) |
+| Fri, 19 Sep 2025 20:48:29 GMT | Incident Report -PsExec Lateral Movement (CyberDefenders Lab) | Saeed Elfiky | [Read More](https://medium.com/p/208b1ace276e) |
+| Fri, 19 Sep 2025 20:47:42 GMT | The One Password to Rule Them All | Michael Huff — Writer of Stuff | [Read More](https://medium.com/p/ce0a6dedeea4) |
 | Fri, 19 Sep 2025 20:35:09 GMT | Siber Güvenlik Yol Haritası | Ertuğrul Gülmez | [Read More](https://medium.com/p/e650ae305baf) |
 | Fri, 19 Sep 2025 20:34:33 GMT | A Story of Collection, Compliance, and the Power Platform Gap | Mario Kresnadi | [Read More](https://medium.com/p/ad7393cd7321) |
 | Fri, 19 Sep 2025 20:33:11 GMT | Remote Browser Isolation (RBI): A Shield Against Drive-By Downloads and Phishing | Chris Zhang | [Read More](https://medium.com/p/1df3d05714e2) |
 | Fri, 19 Sep 2025 20:27:40 GMT | Welcome to Washington, D.C., — | Nikki L Russell | [Read More](https://medium.com/p/37fdc5d2559a) |
+| Fri, 19 Sep 2025 20:27:35 GMT | Gmail Veri Sızıntısı | Ertuğrul Gülmez | [Read More](https://medium.com/p/90ccb57c78f7) |
 | Fri, 19 Sep 2025 20:26:51 GMT | Cybersecurity Job Market: Honest Reality | Luke | [Read More](https://medium.com/p/2698454a602e) |
 | Fri, 19 Sep 2025 20:05:35 GMT | CVE-2025–10585: The Chrome V8 Zero-Day You Need to Patch Today ⚔️️ | Aditya Bhatt | [Read More](https://medium.com/p/8168aa7f79cd) |
 | Fri, 19 Sep 2025 20:02:13 GMT | Guarding our democracy:
@@ -109,7 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 15:34:03 GMT | CISA has identified a critical vulnerability ,CVE-2025–5086, in DELMIA Apriso software, which… | SCtoCS | [Read More](https://medium.com/p/bec5831da221) |
 | Fri, 19 Sep 2025 15:31:45 GMT | “Beyond the Obvious: Unearthing Hidden Subdomains for Better Bounties” | Aman Sharma | [Read More](https://medium.com/p/1692e32e0aab) |
 | Fri, 19 Sep 2025 15:30:36 GMT | In Demand & Innovating: The Most Sought-After IT Services Shaping 2025’s Technology Landscape | Teona | [Read More](https://medium.com/p/e58d77574ba4) |
-| Fri, 19 Sep 2025 15:29:57 GMT | The One Cybersecurity Plan Your Business Can’t Afford to Skip | Paradise technologies Inc | [Read More](https://medium.com/p/ed9b31caf008) |
-| Fri, 19 Sep 2025 15:29:03 GMT | The AI-powered Villager Penetration Testing Tool has surpassed 11,000 downloads on PyPI, raising… | SCtoCS | [Read More](https://medium.com/p/3e7f7609e8c5) |
-| Fri, 19 Sep 2025 15:21:05 GMT | Avenir du CVE : la CISA envisage de nouvelles sources de financement | Marc Barbezat | [Read More](https://medium.com/p/1153eacac7bd) |
-| Fri, 19 Sep 2025 15:16:54 GMT | AI for Quantum Computing in Cybersecurity Market Value Hits USD 1,995.3 | Dhananjay P Sns | [Read More](https://medium.com/p/9c157b9acd66) |
