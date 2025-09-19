@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 11:33:02 GMT | Automotive Hacking Exposed: Car Companies Don’t Want You to Know | Xaar The Educator | [Read More](https://medium.com/p/650536958934) |
+| Fri, 19 Sep 2025 11:32:54 GMT | North Korean Hackers ChatGPT Phishing: What It Means for Cybersecurity | TheReviewHive | [Read More](https://medium.com/p/331d0b23be2a) |
+| Fri, 19 Sep 2025 11:20:09 GMT | Can Meta Read WhatsApp? What the Lawsuit Alleges | Shahzaib | [Read More](https://medium.com/p/d78e5c80ac16) |
+| Fri, 19 Sep 2025 11:14:29 GMT | How Japan DMC Services Enhance Travel Safety & Security | Iconiq Travels | [Read More](https://medium.com/p/2f26fbbc0494) |
 | Fri, 19 Sep 2025 11:10:51 GMT | Zero-Day Exploits and Ransomware Attacks Intensify | Loginsoft | [Read More](https://medium.com/p/3ced82afe885) |
+| Fri, 19 Sep 2025 11:10:08 GMT | Surprising breakthrough: how AP2 unlocks safer payments | STR4T0TT0 | [Read More](https://medium.com/p/aa9fe0f34705) |
+| Fri, 19 Sep 2025 11:09:33 GMT | Surviving the IT Job Market: A journey that I never expected — part 3 | MeerKat | [Read More](https://medium.com/p/d0378da4b5e2) |
 | Fri, 19 Sep 2025 11:02:30 GMT | Can You Capture Your Car Key Signal with an ESP? | Ata Can Yaymacı | [Read More](https://medium.com/p/eb2871078d64) |
 | Fri, 19 Sep 2025 11:01:14 GMT | Keystroke Dynamics — how it works and how it can be used for surveillance? | Kamila Monika Zu | [Read More](https://medium.com/p/9710247d81ca) |
 | Fri, 19 Sep 2025 10:52:20 GMT | Beyond the Firewall: The Death of Perimeter-Based Security | Karl-Heinrich zu Schwarzenberg | [Read More](https://medium.com/p/f36bae33f7d4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 07:13:44 GMT | Recap of Our “Passkeys Pwned” Talk at DEF CON | SquareX | [Read More](https://medium.com/p/2a56356e3835) |
 | Fri, 19 Sep 2025 07:13:11 GMT | When a Trojan Turned My Coding Afternoon Into a Hard Lesson | Johnson Adeuga ✍️ | [Read More](https://medium.com/p/84dc279e721a) |
 | Fri, 19 Sep 2025 07:11:35 GMT | Our Services at a Glance — How Deonics Powers Businesses | Digitaldepartment | [Read More](https://medium.com/p/42ae19295b7e) |
-| Fri, 19 Sep 2025 07:03:53 GMT | What Are the Most Common Passwords That the World Is Using? | Rashadul Islam | [Read More](https://medium.com/p/c2551f83799a) |
-| Fri, 19 Sep 2025 07:01:44 GMT | Identity as a Body in the Rain | Łukasz Ratajczak | [Read More](https://medium.com/p/16111f1bcb0c) |
-| Fri, 19 Sep 2025 07:01:13 GMT | Splunk Hands-On: Building an SSH Security Dashboard | Yeswanth Boddeda | [Read More](https://medium.com/p/306950a4ca3d) |
-| Fri, 19 Sep 2025 07:00:53 GMT | Boost Your Career with the Right Cyber Security Course | Anshinfotech | [Read More](https://medium.com/p/8ae1717af118) |
-| Fri, 19 Sep 2025 07:00:47 GMT | Top Proxy Promotions: Best Deals & Discounts on Proxy Services | TechieCoupons | [Read More](https://medium.com/p/3783f71797a5) |
-| Fri, 19 Sep 2025 06:52:26 GMT | Shellbags Forensics 2025: The Hidden Windows Artifact Every Investigator Must Master! | Paritosh | [Read More](https://medium.com/p/454ba13832d5) |
