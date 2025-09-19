@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 17:11:40 GMT | MCP vs Select AI in Oracle’s Ecosystem: Competition or Complement? | Cristina Varas Menadas | [Read More](https://medium.com/p/7de07f342d0c) |
+| Fri, 19 Sep 2025 17:02:54 GMT | 用比喻看Subnet 和 Segment 分別 | 思維舞步 MindSteps,  Choreographed by Alex | [Read More](https://medium.com/p/4e279db9ea5e) |
+| Fri, 19 Sep 2025 17:01:46 GMT | Bug Bounty Bootcamp — Chapter 4 | C. Oscar Lawshea | [Read More](https://medium.com/p/653b232a34d6) |
+| Fri, 19 Sep 2025 17:01:46 GMT | What Is SOX Compliance and How to Make Sure You’re Cloud Compliant | Josh Lee | [Read More](https://medium.com/p/fcb5fdb6b472) |
+| Fri, 19 Sep 2025 16:53:15 GMT | Top 7 DMARC Providers for Enterprise & Mid-market email authentication and enforcement (2025) | Red Sift | [Read More](https://medium.com/p/6afd9dd652dd) |
+| Fri, 19 Sep 2025 16:49:59 GMT | Social Media Investigation Hub: My OSINT Journey with hack the box | adce626 | [Read More](https://medium.com/p/48e7b957312c) |
+| Fri, 19 Sep 2025 16:47:54 GMT | The Day I Finally Mastered Python Decorators | Kainat Nafees | [Read More](https://medium.com/p/8f25899eef43) |
+| Fri, 19 Sep 2025 16:46:42 GMT | The Ultimate Cybersecurity Command Line Cheat Sheet | eRRoR | [Read More](https://medium.com/p/4c98d71d990d) |
+| Fri, 19 Sep 2025 16:43:48 GMT | 3 months of self-taught ethical hacking — progress update | Abdullah Mina | [Read More](https://medium.com/p/857c0d557381) |
+| Fri, 19 Sep 2025 16:42:00 GMT | Assessment Methodologies: Enumeration CTF 1 | Xnirkun | [Read More](https://medium.com/p/7fb372c84055) |
 | Fri, 19 Sep 2025 16:41:57 GMT | 7 AI + LLM Project Ideas Every Security Professional Should Try in 2025 | Paritosh | [Read More](https://medium.com/p/abc154cebeb4) |
+| Fri, 19 Sep 2025 16:35:04 GMT | The AI Runway: Why Foundational IT Still Matters in an AI-First World | Nichele Dudley | [Read More](https://medium.com/p/400c4f2ccdc9) |
 | Fri, 19 Sep 2025 16:35:03 GMT | Cybersecurity in the Age of AI: Battling Smarter Threats with Smarter Defenses | Prav | [Read More](https://medium.com/p/f342e8caa91a) |
 | Fri, 19 Sep 2025 16:30:15 GMT | Account Takeover via Unicode-Encoded Email | BAPPAYNE | [Read More](https://medium.com/p/d22c8febc274) |
 | Fri, 19 Sep 2025 16:24:41 GMT | What’s Your Biggest Struggle With Consistency? | Aliyu Ibrahim | [Read More](https://medium.com/p/db3d4768c46c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 12:34:32 GMT | Why Professional Event Security Services Are Essential for a Safe Gathering | Fss | [Read More](https://medium.com/p/a7e77ff5b128) |
 | Fri, 19 Sep 2025 12:28:53 GMT | A Practitioner’s Guide to Implementing AI in CTI: 2025 Edition | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/af07b9356882) |
 | Fri, 19 Sep 2025 12:25:49 GMT | FERC focuses on security, reliability, and forecasting large loads | Kennedy Maize | [Read More](https://medium.com/p/1d8644ec76a6) |
-| Fri, 19 Sep 2025 12:22:01 GMT | The Future of Information Security Training in the Workplace | Eliana | [Read More](https://medium.com/p/97e01175e3dc) |
-| Fri, 19 Sep 2025 12:14:50 GMT | Why Cyber Security Is the Ideal Career Path for Veterans | Shreyashettyctr | [Read More](https://medium.com/p/c5e652baa540) |
-| Fri, 19 Sep 2025 12:14:49 GMT | DevSecOps i praksis | Agustina | [Read More](https://medium.com/p/59e2b3f1bf61) |
-| Fri, 19 Sep 2025 12:11:57 GMT | How Our White-Label CRM Complements Real Estate Marketing Tools Like WhatsApp, Email, and Ads | Brokersaathi | [Read More](https://medium.com/p/4c763a2b9b52) |
-| Fri, 19 Sep 2025 12:10:54 GMT | Every Lock Has a Key | Akshatdwivedi | [Read More](https://medium.com/p/6529fd4d160e) |
-| Fri, 19 Sep 2025 12:07:44 GMT | Microsoft’s Windows 10 Retirement Could Expose Millions of Aussies to Cyber Threats | Kalpi Prasad - Renown Lending | [Read More](https://medium.com/p/d6d9664f7902) |
-| Fri, 19 Sep 2025 12:05:46 GMT | Privilege Escalation 101: The Exploit Every Beginner Should Try | Aj | [Read More](https://medium.com/p/597cb49f392b) |
-| Fri, 19 Sep 2025 12:05:27 GMT | If The Avengers Were Cyber Defenders: Cybersecurity Lessons from Earth’s Mightiest Heroes️ | Varunthangavelu | [Read More](https://medium.com/p/d154f2abbe9d) |
-| Fri, 19 Sep 2025 12:03:04 GMT | Top Cybersecurity Firms in Noida (2025): Why NMT Security Leads the Way | Neha Maheshwari | [Read More](https://medium.com/p/12a4db7c7f23) |
-| Fri, 19 Sep 2025 12:02:34 GMT | 7 Realistic Digital Forensics Interview Questions with Answers (Part 1) | CyberSenpai | [Read More](https://medium.com/p/49b86588f772) |
-| Fri, 19 Sep 2025 11:58:46 GMT | Phishing Emails: How to Spot Them Before You Click | Aj | [Read More](https://medium.com/p/c749384cd095) |
