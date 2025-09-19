@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 06:27:22 GMT | Top 10 Web Hosting Trends for 2026 | HostNOC | [Read More](https://medium.com/p/3167b60f5547) |
+| Fri, 19 Sep 2025 06:25:04 GMT | CVE-2025–57644 — Remote Code Execution & SSRF in Accela | Anvar | [Read More](https://medium.com/p/eedc6bc4adfb) |
+| Fri, 19 Sep 2025 06:22:37 GMT | Top 10 Youngest Ethical Hackers in India | Manisha Chaudhary | [Read More](https://medium.com/p/9d3c24a15b58) |
+| Fri, 19 Sep 2025 06:15:49 GMT | The Daily Tech Digest: 19 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/fa9ad084a1db) |
+| Fri, 19 Sep 2025 06:15:12 GMT | AI Red Teaming CTF: [ai_gon3_rogu3] - HTB Write-up | SIGKILLers | [Read More](https://medium.com/p/8571b23dc152) |
+| Fri, 19 Sep 2025 06:14:37 GMT | The Secret Life of Subdomains : From Takeover to $$$ Bounties | Vipul Sonule | [Read More](https://medium.com/p/24498e87f6c4) |
+| Fri, 19 Sep 2025 06:12:57 GMT | From Recon to Root ⚡: A Beginner’s Journey Into CTF Hacking | Vipul Sonule | [Read More](https://medium.com/p/575374698b02) |
+| Fri, 19 Sep 2025 06:07:54 GMT | The Importance of Secure & Encrypted Business Communication | Aao Chat | [Read More](https://medium.com/p/c919a9dff2a4) |
+| Fri, 19 Sep 2025 06:02:17 GMT | The Exciting Race to Build a Secure OS Without C | John Boero | [Read More](https://medium.com/p/69fcc3aeeabc) |
+| Fri, 19 Sep 2025 06:00:46 GMT | Today’s Top Cyber Intelligence Highlights — Sep 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5cbef6709c65) |
+| Fri, 19 Sep 2025 06:00:45 GMT | Plex Alerts Users of Security Breach, Urges Immediate Password Reset | SafetyDetectives Research Team | [Read More](https://medium.com/p/19f2c996d340) |
+| Fri, 19 Sep 2025 05:59:43 GMT | Mobile Malware: The Rising Threat in 2025 | Abida Adra | [Read More](https://medium.com/p/17de3a2190e6) |
+| Fri, 19 Sep 2025 05:55:27 GMT | India Is Ready to Protect Your Digital Data: New Rules Are Coming | AADI | [Read More](https://medium.com/p/6d4cabab19aa) |
+| Fri, 19 Sep 2025 05:53:45 GMT | ForceX Security Services — A Trusted Security Guard Company for Complete Protection | Fss | [Read More](https://medium.com/p/852322f8f3a7) |
+| Fri, 19 Sep 2025 05:50:03 GMT | Never Entrust Your Defense to Others | Muhammad Mohsin Iqbal | [Read More](https://medium.com/p/9152a2786b31) |
+| Fri, 19 Sep 2025 05:49:18 GMT | Building Google SecOps YARA-L Rules From FBI Threat Intelligence | Jay Aware | [Read More](https://medium.com/p/f5c2cfd390e1) |
+| Fri, 19 Sep 2025 05:46:20 GMT | TO BECOME A SOC EXPERT(DAY-6) | vulnhunter | [Read More](https://medium.com/p/e8f880df0e48) |
 | Fri, 19 Sep 2025 05:28:36 GMT | Smallpdf Redact Step‑by‑Step Guide | Phillip R. Nakata | [Read More](https://medium.com/p/042cd91f7823) |
 | Fri, 19 Sep 2025 05:12:25 GMT | Easily Remove Sensitive Data using AI with the PDF Redaction API | Mykola Melnyk | [Read More](https://medium.com/p/f9345838b1e0) |
 | Fri, 19 Sep 2025 05:01:43 GMT | Detecting Web DDoS | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/b20acc116f26) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 19:44:54 GMT | This is how TCP sequence and acknowledgement number ensures reliable data transfer | Ataur Rahman | [Read More](https://medium.com/p/af048210c972) |
 | Thu, 18 Sep 2025 19:44:32 GMT | Stored HTML Injection in Emails | Sarv3shxploit | [Read More](https://medium.com/p/fdfa0a8524fe) |
 | Thu, 18 Sep 2025 19:40:09 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Lizzy Johnson | [Read More](https://medium.com/p/2b4c6f03204e) |
-| Thu, 18 Sep 2025 19:36:00 GMT | Cybersecurity vs IT Support: Why Employees Get Stuck in the “Which Team Do I Call?” Dilemma | Steve Matindi | [Read More](https://medium.com/p/63cdb3697e86) |
-| Thu, 18 Sep 2025 19:32:54 GMT | CodePartTwo-Hack The Box CTF | Zhoussama | [Read More](https://medium.com/p/4176f578bec3) |
-| Thu, 18 Sep 2025 19:16:54 GMT | [Tob] WEB challenge — Helwan CTF | Adhamkhairy | [Read More](https://medium.com/p/2609d0359784) |
-| Thu, 18 Sep 2025 19:08:46 GMT | Why K–12 Cybersecurity Education Needs DNS | Enrique Somoza | [Read More](https://medium.com/p/6b996ae70fd1) |
-| Thu, 18 Sep 2025 19:01:38 GMT | Top Free Cybersecurity Courses for Beginners | Rashadul Islam | [Read More](https://medium.com/p/3a749039d25b) |
-| Thu, 18 Sep 2025 18:58:14 GMT | The Hidden Cost of Incomplete Security: Why Your Liability Waiver Won’t Protect You | Symmetric IT Group | [Read More](https://medium.com/p/2d538f36d369) |
-| Thu, 18 Sep 2025 18:54:39 GMT | You didn’t read this :) | Ronit Sanghai | [Read More](https://medium.com/p/8995334791d7) |
-| Thu, 18 Sep 2025 18:54:27 GMT | 10 Affordable Cybersecurity Solutions for Solo Entrepreneurs | Cyber Safety Zone | [Read More](https://medium.com/p/5cc9c1c89f20) |
-| Thu, 18 Sep 2025 18:52:38 GMT | Vidar: The Infostealer That Won’t Go Away | Ashley Dai | [Read More](https://medium.com/p/0e4e5be0b908) |
-| Thu, 18 Sep 2025 18:40:06 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART V | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/db0355cae9af) |
-| Thu, 18 Sep 2025 18:40:00 GMT | Vanguard Security Alert: Critical Microsoft Office for Mac Vulnerability (CVE-2025–54910) | Cloudonomics | [Read More](https://medium.com/p/e453769d1d33) |
-| Thu, 18 Sep 2025 18:39:49 GMT | Hunting Threats in the Software Supply Chain: A Practical Guide | f0xy_pr0xy | [Read More](https://medium.com/p/b8a15b1fb36b) |
-| Thu, 18 Sep 2025 18:38:28 GMT | Double Trouble: How Two September Attacks (Including the “Shai-Hulud” Worm) Compromised 500+ NPM… | Sanket Chaudhari | [Read More](https://medium.com/p/c906b661ff4f) |
-| Thu, 18 Sep 2025 18:33:10 GMT | OWASP Juice Shop Challenge : Confidential Document | theOrthodox | [Read More](https://medium.com/p/a23f6693f571) |
-| Thu, 18 Sep 2025 18:30:38 GMT | Why Local Hosting in Romania Could Be Your Hidden Advantage in the Digital Era | MioriticHost | [Read More](https://medium.com/p/8c790f8610af) |
-| Thu, 18 Sep 2025 18:30:08 GMT | Free Burgers or Millions Protected? How a Password Reset Bug Put Millions at Risk | Ahmad Mansour | [Read More](https://medium.com/p/4a4de39ffbae) |
-| Thu, 18 Sep 2025 18:25:50 GMT | How I Built My First SIEM Detections | Garv Kamra | [Read More](https://medium.com/p/7de341cd4d36) |
