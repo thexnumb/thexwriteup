@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 15:36:03 GMT | TryHackMe - Chaining Vulnerabilities - WriteUp | Axoloth | [Read More](https://medium.com/p/0a3728abb1f8) |
+| Fri, 19 Sep 2025 15:34:03 GMT | CISA has identified a critical vulnerability ,CVE-2025–5086, in DELMIA Apriso software, which… | SCtoCS | [Read More](https://medium.com/p/bec5831da221) |
+| Fri, 19 Sep 2025 15:31:45 GMT | “Beyond the Obvious: Unearthing Hidden Subdomains for Better Bounties” | Aman Sharma | [Read More](https://medium.com/p/1692e32e0aab) |
+| Fri, 19 Sep 2025 15:30:36 GMT | In Demand & Innovating: The Most Sought-After IT Services Shaping 2025’s Technology Landscape | Teona | [Read More](https://medium.com/p/e58d77574ba4) |
+| Fri, 19 Sep 2025 15:29:57 GMT | The One Cybersecurity Plan Your Business Can’t Afford to Skip | Paradise technologies Inc | [Read More](https://medium.com/p/ed9b31caf008) |
+| Fri, 19 Sep 2025 15:29:03 GMT | The AI-powered Villager Penetration Testing Tool has surpassed 11,000 downloads on PyPI, raising… | SCtoCS | [Read More](https://medium.com/p/3e7f7609e8c5) |
 | Fri, 19 Sep 2025 15:16:54 GMT | AI for Quantum Computing in Cybersecurity Market Value Hits USD 1,995.3 | Dhananjay P Sns | [Read More](https://medium.com/p/9c157b9acd66) |
 | Fri, 19 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f147766acbab) |
 | Fri, 19 Sep 2025 15:05:44 GMT | API Discovery for Modern Distributed Architecture: Do’s and Don’ts | Supratip Banerjee | [Read More](https://medium.com/p/b0ab71ee270f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 10:47:50 GMT | CTF para Iniciantes: Um Guia Completo para Comecar no Mundo dos Capture The Flag | Maxwell Ferreira | [Read More](https://medium.com/p/9339ca9bb161) |
 | Fri, 19 Sep 2025 10:47:26 GMT | Walkthrough Fish Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/70c837d5d83c) |
 | Fri, 19 Sep 2025 10:47:21 GMT | The Missed Potential of SIEM: Why Vendors Are Failing to Evolve | Abdul | [Read More](https://medium.com/p/e8f5911e6390) |
-| Fri, 19 Sep 2025 10:46:08 GMT | DockerLabs Writeup — WhereIsMyWebShell (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d6cf9d70a05a) |
-| Fri, 19 Sep 2025 10:40:11 GMT | Quantum Computing and Its Impact on Payment Security | Mahavir Pratap | [Read More](https://medium.com/p/2cc9e890949b) |
-| Fri, 19 Sep 2025 10:36:19 GMT | DockerLabs — SpiderRoot [Write-Up] | APS88 | [Read More](https://medium.com/p/0430b7762b5c) |
-| Fri, 19 Sep 2025 10:35:00 GMT | These 4 Simple Tool Sites Attract 16M+ Visits Every Month | Evan - AI for Growth | [Read More](https://medium.com/p/8c1829f053df) |
-| Fri, 19 Sep 2025 10:34:09 GMT | Fork Bombs: How pipes, backgrounding and recursive calls can crash a system | Ata Can Yaymacı | [Read More](https://medium.com/p/ef562d532fc9) |
-| Fri, 19 Sep 2025 10:32:21 GMT | Why Tech Companies Should Prioritise Regulatory Compliance Early On | Abdullateef Hameed | [Read More](https://medium.com/p/0eb9ac45d301) |
