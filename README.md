@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 14:38:00 GMT | crackmes.one: PieIsMyFav | Sourav Bose | [Read More](https://medium.com/p/b708befe5ce0) |
+| Fri, 19 Sep 2025 14:36:51 GMT | Subdomain Enumeration Techniques | Subhadeep Pramanik | [Read More](https://medium.com/p/94e3ae5348ef) |
+| Fri, 19 Sep 2025 14:33:11 GMT | Journey to Earning the Certified AppSec Practitioner (CAP) Certification ️ | Kali Vignesh S M | [Read More](https://medium.com/p/a5df7354cd84) |
+| Fri, 19 Sep 2025 14:28:54 GMT | Building a Zero Trust Framework: The 5-Step Blueprint for Businesses | IT_Engineer | [Read More](https://medium.com/p/ec4410440382) |
+| Fri, 19 Sep 2025 14:24:42 GMT | My Journey into Cybersecurity | Arti Sandip Jadhav | [Read More](https://medium.com/p/2afd0247698d) |
+| Fri, 19 Sep 2025 14:22:24 GMT | The Complete Guide to Network Security: From Fundamentals to Advanced Defense Strategies | Introvertdeveloper | [Read More](https://medium.com/p/434d8da0b0e5) |
+| Fri, 19 Sep 2025 14:21:01 GMT | Behavioral Analytics in Security | Cyber Security Research | [Read More](https://medium.com/p/0064b5f278fe) |
 | Fri, 19 Sep 2025 14:14:55 GMT | Fast TCP Port Scanning in Go: A Deep Dive into pscanner | Alireza Nezami | [Read More](https://medium.com/p/df6ccd1bb162) |
 | Fri, 19 Sep 2025 14:12:56 GMT | CVE-2025–59340: Jinjava’s Sandbox Escape | gm0 | [Read More](https://medium.com/p/ac055eb64f51) |
 | Fri, 19 Sep 2025 14:08:40 GMT | Cybersecurity Challenges in 5G Networks | Cyber Security Research | [Read More](https://medium.com/p/6d92221cdc05) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 09:52:50 GMT | BlackEnergy Lab — CyberDefenders Lab Write-Up | Mirage43 | [Read More](https://medium.com/p/b8e306afcf94) |
 | Fri, 19 Sep 2025 09:51:50 GMT | PostgreSQL Replication Lag: The Silent Performance Killer You’re Ignoring | Rizqi Mulki | [Read More](https://medium.com/p/2cc49b71ee56) |
 | Fri, 19 Sep 2025 09:51:44 GMT | Security · Freedom · Multi-Chain: How Digital Shield is Leading a Revolution in Web3 Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/c5c61f6d8248) |
-| Fri, 19 Sep 2025 09:46:54 GMT | Why Big Startups Are Quietly Abandoning MySQL | Rizqi Mulki | [Read More](https://medium.com/p/8fc4a30fa02c) |
-| Fri, 19 Sep 2025 09:44:52 GMT | DHCP (Dynamic Host Configuration Protocol): DORA Akışıyla A’dan Z’ye | murat yayla | [Read More](https://medium.com/p/7cfef50f5e43) |
-| Fri, 19 Sep 2025 09:42:05 GMT | Hackerman or Code Wizard? Skillset for Pen Testing Success | SilentInject | [Read More](https://medium.com/p/fa6a0a0c30f5) |
-| Fri, 19 Sep 2025 09:41:43 GMT | Shadow IT: How to Spot Tools Your Teams Are Using Without Approval | Evgeny Ermakov | [Read More](https://medium.com/p/19c3e45a150e) |
-| Fri, 19 Sep 2025 09:36:24 GMT | When Grief Shows Up at My Door: Burnout, menopause, and the ghostly weight of evenings. | Eleanorkojan | [Read More](https://medium.com/p/9a8a88a3ea98) |
-| Fri, 19 Sep 2025 09:32:13 GMT | Why Enterprises Are Quietly Ditching Dedicated Servers | Rizqi Mulki | [Read More](https://medium.com/p/1f4972dd6311) |
-| Fri, 19 Sep 2025 09:26:57 GMT | Navigating the Evolving Threat Landscape: A Weekly Briefing —VIEH Security Research Team | VIEH Security Research Team | [Read More](https://medium.com/p/6d6330447956) |
