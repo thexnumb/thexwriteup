@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 16:41:57 GMT | 7 AI + LLM Project Ideas Every Security Professional Should Try in 2025 | Paritosh | [Read More](https://medium.com/p/abc154cebeb4) |
+| Fri, 19 Sep 2025 16:35:03 GMT | Cybersecurity in the Age of AI: Battling Smarter Threats with Smarter Defenses | Prav | [Read More](https://medium.com/p/f342e8caa91a) |
+| Fri, 19 Sep 2025 16:30:15 GMT | Account Takeover via Unicode-Encoded Email | BAPPAYNE | [Read More](https://medium.com/p/d22c8febc274) |
+| Fri, 19 Sep 2025 16:24:41 GMT | What’s Your Biggest Struggle With Consistency? | Aliyu Ibrahim | [Read More](https://medium.com/p/db3d4768c46c) |
+| Fri, 19 Sep 2025 16:23:44 GMT | Managed Security Services: Protecting Businesses in the Digital Age | secureroot | [Read More](https://medium.com/p/2d9f24a1fbeb) |
+| Fri, 19 Sep 2025 16:17:57 GMT | Man Enough to Cry | Yul In Da Cloud | [Read More](https://medium.com/p/bf426c9d789e) |
 | Fri, 19 Sep 2025 16:02:31 GMT | What I Learned About Linux: A Beginner’s Guide to Its History, Uses, and Importance - Sayanth | Sayanth | [Read More](https://medium.com/p/315022402079) |
 | Fri, 19 Sep 2025 16:02:02 GMT | Day 7: The 3 AM Slack Message That Exposed Every Password in Production | Mahimagarg | [Read More](https://medium.com/p/9bcd3e42b93c) |
 | Fri, 19 Sep 2025 16:01:47 GMT | The Ultimate Guide to Spotting and Avoiding Survey Scams | Stephon Anderson | [Read More](https://medium.com/p/f8635d4c9535) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 12:03:04 GMT | Top Cybersecurity Firms in Noida (2025): Why NMT Security Leads the Way | Neha Maheshwari | [Read More](https://medium.com/p/12a4db7c7f23) |
 | Fri, 19 Sep 2025 12:02:34 GMT | 7 Realistic Digital Forensics Interview Questions with Answers (Part 1) | CyberSenpai | [Read More](https://medium.com/p/49b86588f772) |
 | Fri, 19 Sep 2025 11:58:46 GMT | Phishing Emails: How to Spot Them Before You Click | Aj | [Read More](https://medium.com/p/c749384cd095) |
-| Fri, 19 Sep 2025 11:49:12 GMT | The Skills That Matter in an AI-Driven Workplace | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/2e7da1938ef8) |
-| Fri, 19 Sep 2025 11:41:02 GMT | Building the Infrastructure Layer for Institutional Finance and Decentralized AI | Hilal Agil | [Read More](https://medium.com/p/5e8631b0ebb1) |
-| Fri, 19 Sep 2025 11:36:30 GMT | Securing Flutter Apps: A Guide to Static Analysis with MobSF | Mohammad Abureesh | [Read More](https://medium.com/p/aec22c8cb926) |
-| Fri, 19 Sep 2025 11:33:02 GMT | Automotive Hacking Exposed: Car Companies Don’t Want You to Know | Xaar The Educator | [Read More](https://medium.com/p/650536958934) |
-| Fri, 19 Sep 2025 11:32:54 GMT | North Korean Hackers ChatGPT Phishing: What It Means for Cybersecurity | TheReviewHive | [Read More](https://medium.com/p/331d0b23be2a) |
-| Fri, 19 Sep 2025 11:20:09 GMT | Can Meta Read WhatsApp? What the Lawsuit Alleges | Shahzaib | [Read More](https://medium.com/p/d78e5c80ac16) |
