@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 04:12:46 GMT | SQL Injection pada aplikasi Sistem Informasi Manajemen UPNVJ | Rico Andreas | [Read More](https://medium.com/p/88ba5169f6bf) |
+| Fri, 19 Sep 2025 04:05:32 GMT | Guía Completa de Kubernetes NetworkPolicies: Protege tu Cluster Como un Experto | Giovanny Orjuela | [Read More](https://medium.com/p/0eecf608498f) |
+| Fri, 19 Sep 2025 03:49:50 GMT | Quantum Threats and the Future of Blockchain Security | Dukerearing | [Read More](https://medium.com/p/5fac93ed609e) |
+| Fri, 19 Sep 2025 03:46:56 GMT | CCNA Learning Journey — Part 01 | Ivan gammanpila | [Read More](https://medium.com/p/17987726732e) |
 | Fri, 19 Sep 2025 03:45:59 GMT | Why “MTTD Drift” Is Your Next Cybersecurity KRI | Dr. Deep Pandey | [Read More](https://medium.com/p/18678d0159c7) |
 | Fri, 19 Sep 2025 03:32:21 GMT | A Wake-Up Call for Platform Security | Akshat Ratanpal | [Read More](https://medium.com/p/cd1215374cda) |
 | Fri, 19 Sep 2025 03:32:20 GMT | SmartLoader Malware Masquerades as Legitimate GitHub Projects to Spread Infostealers | Deven Chhajed | [Read More](https://medium.com/p/3ad98f119cb7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 17:57:57 GMT | SCREENING PROCESSES FOR MILITARY, LAW ENFORCEMENT, RESCUE UNITS, FIRST RESPONDERS, OTHERS — PART… | Visionary Entrepreneurship LLC | [Read More](https://medium.com/p/21dca35a86c2) |
 | Thu, 18 Sep 2025 17:57:40 GMT | Complete Guide to Qubes OS: The World’s Most Secure Operating System | Technology Diaries | [Read More](https://medium.com/p/53153398bad0) |
 | Thu, 18 Sep 2025 17:56:07 GMT | $6,500+: How a Business Logic Flaw in an API Can Yield Big Rewards | Breno Felipe | [Read More](https://medium.com/p/312b1981ae3a) |
-| Thu, 18 Sep 2025 17:54:23 GMT | Splunk Enterprise Security (ES): A Powerful Ally for Analysts | Dany Christel | [Read More](https://medium.com/p/20f71be0b968) |
-| Thu, 18 Sep 2025 17:53:57 GMT | How Women Can Still Keep Their Privacy | Lamis | [Read More](https://medium.com/p/acd25e18d2a9) |
-| Thu, 18 Sep 2025 17:47:26 GMT | Learn “Cryptographic Failure Attack” — OWASP Top 10 (Position #2) | Rashadul Islam | [Read More](https://medium.com/p/ad3c7d5bee4e) |
-| Thu, 18 Sep 2025 17:38:29 GMT | Underground AI Credentials Market: Over 1 Million Stolen ChatGPT Accounts and Counting | Arpit | [Read More](https://medium.com/p/38c17846a5ad) |
