@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 11:10:51 GMT | Zero-Day Exploits and Ransomware Attacks Intensify | Loginsoft | [Read More](https://medium.com/p/3ced82afe885) |
+| Fri, 19 Sep 2025 11:02:30 GMT | Can You Capture Your Car Key Signal with an ESP? | Ata Can Yaymacı | [Read More](https://medium.com/p/eb2871078d64) |
+| Fri, 19 Sep 2025 11:01:14 GMT | Keystroke Dynamics — how it works and how it can be used for surveillance? | Kamila Monika Zu | [Read More](https://medium.com/p/9710247d81ca) |
+| Fri, 19 Sep 2025 10:52:20 GMT | Beyond the Firewall: The Death of Perimeter-Based Security | Karl-Heinrich zu Schwarzenberg | [Read More](https://medium.com/p/f36bae33f7d4) |
+| Fri, 19 Sep 2025 10:51:48 GMT | Neurotechnology in the Workplace: A Brave New Boost or Orwellian Nightmare? | Namir Sagheenanajar | [Read More](https://medium.com/p/9f12eebc1691) |
+| Fri, 19 Sep 2025 10:49:19 GMT | Trezor Suite Download App — Secure & Easy Crypto Wallet | Trezor suite | [Read More](https://medium.com/p/4640d4e594e3) |
+| Fri, 19 Sep 2025 10:48:16 GMT | Proving Grounds “Internal” Machine: A Complete Walkthrough for CTF Beginners | Maxwell Ferreira | [Read More](https://medium.com/p/328454e3fe62) |
+| Fri, 19 Sep 2025 10:47:50 GMT | CTF para Iniciantes: Um Guia Completo para Comecar no Mundo dos Capture The Flag | Maxwell Ferreira | [Read More](https://medium.com/p/9339ca9bb161) |
+| Fri, 19 Sep 2025 10:47:26 GMT | Walkthrough Fish Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/70c837d5d83c) |
+| Fri, 19 Sep 2025 10:47:21 GMT | The Missed Potential of SIEM: Why Vendors Are Failing to Evolve | Abdul | [Read More](https://medium.com/p/e8f5911e6390) |
+| Fri, 19 Sep 2025 10:46:08 GMT | DockerLabs Writeup — WhereIsMyWebShell (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d6cf9d70a05a) |
 | Fri, 19 Sep 2025 10:40:11 GMT | Quantum Computing and Its Impact on Payment Security | Mahavir Pratap | [Read More](https://medium.com/p/2cc9e890949b) |
+| Fri, 19 Sep 2025 10:36:19 GMT | DockerLabs — SpiderRoot [Write-Up] | APS88 | [Read More](https://medium.com/p/0430b7762b5c) |
 | Fri, 19 Sep 2025 10:35:00 GMT | These 4 Simple Tool Sites Attract 16M+ Visits Every Month | Evan - AI for Growth | [Read More](https://medium.com/p/8c1829f053df) |
+| Fri, 19 Sep 2025 10:34:09 GMT | Fork Bombs: How pipes, backgrounding and recursive calls can crash a system | Ata Can Yaymacı | [Read More](https://medium.com/p/ef562d532fc9) |
 | Fri, 19 Sep 2025 10:32:21 GMT | Why Tech Companies Should Prioritise Regulatory Compliance Early On | Abdullateef Hameed | [Read More](https://medium.com/p/0eb9ac45d301) |
 | Fri, 19 Sep 2025 10:29:22 GMT | Snowflake Security & Access Patterns Basic → Advanced [From Snowpro Core Certified] | Iqra Anwar | [Read More](https://medium.com/p/5f83ac73bb03) |
 | Fri, 19 Sep 2025 10:29:19 GMT | Reconnaissance in Penetration Testing: Techniques and Tools | Robinson Israel Uche | [Read More](https://medium.com/p/3489feaacbb7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 07:00:53 GMT | Boost Your Career with the Right Cyber Security Course | Anshinfotech | [Read More](https://medium.com/p/8ae1717af118) |
 | Fri, 19 Sep 2025 07:00:47 GMT | Top Proxy Promotions: Best Deals & Discounts on Proxy Services | TechieCoupons | [Read More](https://medium.com/p/3783f71797a5) |
 | Fri, 19 Sep 2025 06:52:26 GMT | Shellbags Forensics 2025: The Hidden Windows Artifact Every Investigator Must Master! | Paritosh | [Read More](https://medium.com/p/454ba13832d5) |
-| Fri, 19 Sep 2025 06:49:53 GMT | Making Festivals Smarter with Self-Service Kiosk Machines | Rakesh | [Read More](https://medium.com/p/ce5131410242) |
-| Fri, 19 Sep 2025 06:44:51 GMT | ISO/IEC 27001/27002: Bilgi Güvenliğini Bir Süreç Disiplinine Dönüştürmek | Umut Akbulut | [Read More](https://medium.com/p/c5e5308ea62d) |
-| Fri, 19 Sep 2025 06:43:21 GMT | The Corix Partners Friday Reading List — September 19, 2025 | JC Gaillard | [Read More](https://medium.com/p/2444036aa48f) |
-| Fri, 19 Sep 2025 06:35:44 GMT | Cybersecurity Mistakes We All Make (And Hackers Love) | Shahzaib | [Read More](https://medium.com/p/165ffe170083) |
-| Fri, 19 Sep 2025 06:27:22 GMT | Top 10 Web Hosting Trends for 2026 | HostNOC | [Read More](https://medium.com/p/3167b60f5547) |
-| Fri, 19 Sep 2025 06:26:32 GMT | How the Right Tools Help Pass Cybersecurity Compliance Audits | Lanvaus | [Read More](https://medium.com/p/7c4fe6a5dcae) |
-| Fri, 19 Sep 2025 06:25:04 GMT | CVE-2025–57644 — Remote Code Execution & SSRF in Accela | Anvar | [Read More](https://medium.com/p/eedc6bc4adfb) |
-| Fri, 19 Sep 2025 06:22:37 GMT | Top 10 Youngest Ethical Hackers in India | Manisha Chaudhary | [Read More](https://medium.com/p/9d3c24a15b58) |
-| Fri, 19 Sep 2025 06:21:22 GMT | ISO/IEC 15408: Common Criteria — Not a Claim of Security, but Its Proof | Umut Akbulut | [Read More](https://medium.com/p/3b52d3658f69) |
-| Fri, 19 Sep 2025 06:19:30 GMT | ISO/IEC 15408 —  Common Criteria — Güvenliğin Beyanı Değil, Kanıtı | Umut Akbulut | [Read More](https://medium.com/p/3bccab7defa2) |
-| Fri, 19 Sep 2025 06:15:49 GMT | The Daily Tech Digest: 19 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/fa9ad084a1db) |
-| Fri, 19 Sep 2025 06:15:12 GMT | AI Red Teaming CTF: [ai_gon3_rogu3] - HTB Write-up | SIGKILLers | [Read More](https://medium.com/p/8571b23dc152) |
-| Fri, 19 Sep 2025 06:14:37 GMT | The Secret Life of Subdomains : From Takeover to $$$ Bounties | Vipul Sonule | [Read More](https://medium.com/p/24498e87f6c4) |
