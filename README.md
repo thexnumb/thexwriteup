@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 12:28:53 GMT | A Practitioner’s Guide to Implementing AI in CTI: 2025 Edition | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/af07b9356882) |
+| Fri, 19 Sep 2025 12:25:49 GMT | FERC focuses on security, reliability, and forecasting large loads | Kennedy Maize | [Read More](https://medium.com/p/1d8644ec76a6) |
+| Fri, 19 Sep 2025 12:22:01 GMT | The Future of Information Security Training in the Workplace | Eliana | [Read More](https://medium.com/p/97e01175e3dc) |
+| Fri, 19 Sep 2025 12:14:50 GMT | Why Cyber Security Is the Ideal Career Path for Veterans | Shreyashettyctr | [Read More](https://medium.com/p/c5e652baa540) |
+| Fri, 19 Sep 2025 12:14:49 GMT | DevSecOps i praksis | Agustina | [Read More](https://medium.com/p/59e2b3f1bf61) |
+| Fri, 19 Sep 2025 12:11:57 GMT | How Our White-Label CRM Complements Real Estate Marketing Tools Like WhatsApp, Email, and Ads | Brokersaathi | [Read More](https://medium.com/p/4c763a2b9b52) |
+| Fri, 19 Sep 2025 12:10:54 GMT | Every Lock Has a Key | Akshatdwivedi | [Read More](https://medium.com/p/6529fd4d160e) |
+| Fri, 19 Sep 2025 12:07:44 GMT | Microsoft’s Windows 10 Retirement Could Expose Millions of Aussies to Cyber Threats | Kalpi Prasad - Renown Lending | [Read More](https://medium.com/p/d6d9664f7902) |
+| Fri, 19 Sep 2025 12:05:46 GMT | Privilege Escalation 101: The Exploit Every Beginner Should Try | Aj | [Read More](https://medium.com/p/597cb49f392b) |
+| Fri, 19 Sep 2025 12:05:27 GMT | If The Avengers Were Cyber Defenders: Cybersecurity Lessons from Earth’s Mightiest Heroes️ | Varunthangavelu | [Read More](https://medium.com/p/d154f2abbe9d) |
+| Fri, 19 Sep 2025 12:03:04 GMT | Top Cybersecurity Firms in Noida (2025): Why NMT Security Leads the Way | Neha Maheshwari | [Read More](https://medium.com/p/12a4db7c7f23) |
+| Fri, 19 Sep 2025 12:02:34 GMT | 7 Realistic Digital Forensics Interview Questions with Answers (Part 1) | CyberSenpai | [Read More](https://medium.com/p/49b86588f772) |
+| Fri, 19 Sep 2025 11:58:46 GMT | Phishing Emails: How to Spot Them Before You Click | Aj | [Read More](https://medium.com/p/c749384cd095) |
+| Fri, 19 Sep 2025 11:49:12 GMT | The Skills That Matter in an AI-Driven Workplace | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/2e7da1938ef8) |
+| Fri, 19 Sep 2025 11:41:02 GMT | Building the Infrastructure Layer for Institutional Finance and Decentralized AI | Hilal Agil | [Read More](https://medium.com/p/5e8631b0ebb1) |
+| Fri, 19 Sep 2025 11:36:30 GMT | Securing Flutter Apps: A Guide to Static Analysis with MobSF | Mohammad Abureesh | [Read More](https://medium.com/p/aec22c8cb926) |
 | Fri, 19 Sep 2025 11:33:02 GMT | Automotive Hacking Exposed: Car Companies Don’t Want You to Know | Xaar The Educator | [Read More](https://medium.com/p/650536958934) |
 | Fri, 19 Sep 2025 11:32:54 GMT | North Korean Hackers ChatGPT Phishing: What It Means for Cybersecurity | TheReviewHive | [Read More](https://medium.com/p/331d0b23be2a) |
 | Fri, 19 Sep 2025 11:20:09 GMT | Can Meta Read WhatsApp? What the Lawsuit Alleges | Shahzaib | [Read More](https://medium.com/p/d78e5c80ac16) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 08:13:17 GMT | Challenge: “Log Labyrinth” | Joeycadieux | [Read More](https://medium.com/p/1a07e347edb0) |
 | Fri, 19 Sep 2025 08:13:03 GMT | Why is ZoomEye considered the best cyberspace search engine? | Liuliuliusq | [Read More](https://medium.com/p/1fdb49c51ee6) |
 | Fri, 19 Sep 2025 08:03:17 GMT | Building a Real-World SOC Lab: Integrating Suricata IDS with Splunk SIEM | Punnakavyasri | [Read More](https://medium.com/p/a3e8dac4f911) |
-| Fri, 19 Sep 2025 08:01:50 GMT | DNS Recon for Pentesters: Records Every Tester Should Know | Vivek Bhatt | [Read More](https://medium.com/p/f16e43e3319d) |
-| Fri, 19 Sep 2025 08:00:54 GMT | 17. My Favorite Bug Classes (and Why They Work) | Abhijeet kumawat | [Read More](https://medium.com/p/b67a03ab8c43) |
-| Fri, 19 Sep 2025 07:54:06 GMT | HTB: Baby | Ross Andrews | [Read More](https://medium.com/p/0fb72ebe0bb4) |
-| Fri, 19 Sep 2025 07:48:54 GMT | Top 5 Penetration Testing Methodologies Every Ethical Hacker Should Know | cyber security Updates | [Read More](https://medium.com/p/aa7996989889) |
-| Fri, 19 Sep 2025 07:46:10 GMT | ประจำวันศุกร์ที่ 19 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/a36d1976bbeb) |
-| Fri, 19 Sep 2025 07:44:51 GMT | Why Hiring a Professional Security Guard Company Ensures Complete Safety | Fss | [Read More](https://medium.com/p/a0486ceac9e1) |
-| Fri, 19 Sep 2025 07:44:14 GMT | SPARK Matrix™: In-App Protection Key Market Insights and Strategic Assessment | Gargiben | [Read More](https://medium.com/p/6b7a16c9dc7d) |
-| Fri, 19 Sep 2025 07:40:16 GMT | How I Tracked Our Clients’ Device Versions Without Direct Reporting | Zhiwen Liu | [Read More](https://medium.com/p/9ec36ed79711) |
-| Fri, 19 Sep 2025 07:26:49 GMT | Next-Generation Application Testing: Mastering Invicti, Bright Security DAST, Beagle Security, and… | Iliya Garakh | [Read More](https://medium.com/p/688a6ddf6aaf) |
-| Fri, 19 Sep 2025 07:22:25 GMT | Taming Production Bugs with Correlation IDs | Brahmananda Sahoo | [Read More](https://medium.com/p/49f73bbdddaa) |
-| Fri, 19 Sep 2025 07:20:34 GMT | I Dedicated 365 Days In Learning Cybersecurity — Here’s How It Changed My Life | JetkingChandigarh | [Read More](https://medium.com/p/d3836f6c710a) |
-| Fri, 19 Sep 2025 07:19:19 GMT | I Wish I Had This Secret Guide When I First Bought My PC | VipLuv | [Read More](https://medium.com/p/79eea85e596b) |
-| Fri, 19 Sep 2025 07:15:57 GMT | Indoor vs. Outdoor Camera Placement: Getting It Right | Acfalarm | [Read More](https://medium.com/p/b52a77dbf84d) |
-| Fri, 19 Sep 2025 07:13:44 GMT | Recap of Our “Passkeys Pwned” Talk at DEF CON | SquareX | [Read More](https://medium.com/p/2a56356e3835) |
-| Fri, 19 Sep 2025 07:13:11 GMT | When a Trojan Turned My Coding Afternoon Into a Hard Lesson | Johnson Adeuga ✍️ | [Read More](https://medium.com/p/84dc279e721a) |
-| Fri, 19 Sep 2025 07:11:35 GMT | Our Services at a Glance — How Deonics Powers Businesses | Digitaldepartment | [Read More](https://medium.com/p/42ae19295b7e) |
