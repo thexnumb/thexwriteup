@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 06:44:51 GMT | ISO/IEC 27001/27002: Bilgi Güvenliğini Bir Süreç Disiplinine Dönüştürmek | Umut Akbulut | [Read More](https://medium.com/p/c5e5308ea62d) |
+| Fri, 19 Sep 2025 06:43:21 GMT | The Corix Partners Friday Reading List — September 19, 2025 | JC Gaillard | [Read More](https://medium.com/p/2444036aa48f) |
+| Fri, 19 Sep 2025 06:35:44 GMT | Cybersecurity Mistakes We All Make (And Hackers Love) | Shahzaib | [Read More](https://medium.com/p/165ffe170083) |
 | Fri, 19 Sep 2025 06:27:22 GMT | Top 10 Web Hosting Trends for 2026 | HostNOC | [Read More](https://medium.com/p/3167b60f5547) |
+| Fri, 19 Sep 2025 06:26:32 GMT | How the Right Tools Help Pass Cybersecurity Compliance Audits | Lanvaus | [Read More](https://medium.com/p/7c4fe6a5dcae) |
 | Fri, 19 Sep 2025 06:25:04 GMT | CVE-2025–57644 — Remote Code Execution & SSRF in Accela | Anvar | [Read More](https://medium.com/p/eedc6bc4adfb) |
 | Fri, 19 Sep 2025 06:22:37 GMT | Top 10 Youngest Ethical Hackers in India | Manisha Chaudhary | [Read More](https://medium.com/p/9d3c24a15b58) |
+| Fri, 19 Sep 2025 06:21:22 GMT | ISO/IEC 15408: Common Criteria — Not a Claim of Security, but Its Proof | Umut Akbulut | [Read More](https://medium.com/p/3b52d3658f69) |
+| Fri, 19 Sep 2025 06:19:30 GMT | ISO/IEC 15408 —  Common Criteria — Güvenliğin Beyanı Değil, Kanıtı | Umut Akbulut | [Read More](https://medium.com/p/3bccab7defa2) |
 | Fri, 19 Sep 2025 06:15:49 GMT | The Daily Tech Digest: 19 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/fa9ad084a1db) |
 | Fri, 19 Sep 2025 06:15:12 GMT | AI Red Teaming CTF: [ai_gon3_rogu3] - HTB Write-up | SIGKILLers | [Read More](https://medium.com/p/8571b23dc152) |
 | Fri, 19 Sep 2025 06:14:37 GMT | The Secret Life of Subdomains : From Takeover to $$$ Bounties | Vipul Sonule | [Read More](https://medium.com/p/24498e87f6c4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Sep 2025 20:20:12 GMT | SPF, Sandboxes, and Security Guards: The 4 Ways We Fight Phishing Now | Chris Zhang | [Read More](https://medium.com/p/ad045e8e273a) |
 | Thu, 18 Sep 2025 20:16:01 GMT | Exploring Microsoft Sentinel: Enhancing Your Security with Threat Intelligence | Vedant Tapdiya | [Read More](https://medium.com/p/b1a3787a17fe) |
 | Thu, 18 Sep 2025 20:04:06 GMT | Smart Contract Security Analysis: Technical Workflow and Methodologies | SR | [Read More](https://medium.com/p/6a8e62ca9040) |
-| Thu, 18 Sep 2025 20:02:03 GMT | Build Your Ultimate Bug Bounty Recon Server for FREE with Oracle Cloud | Shubham Khanna | [Read More](https://medium.com/p/7b51d0cc2440) |
-| Thu, 18 Sep 2025 19:50:10 GMT | Zero to Hacker: How a Cybersecurity Bootcamp Can Change Your Career | Smith Adams | [Read More](https://medium.com/p/8db6e33c171c) |
-| Thu, 18 Sep 2025 19:49:24 GMT | Why is AI making us bad engineers? — Senior Software Engineer talks | Zeesh | [Read More](https://medium.com/p/4fb601d88c25) |
-| Thu, 18 Sep 2025 19:44:54 GMT | This is how TCP sequence and acknowledgement number ensures reliable data transfer | Ataur Rahman | [Read More](https://medium.com/p/af048210c972) |
-| Thu, 18 Sep 2025 19:44:32 GMT | Stored HTML Injection in Emails | Sarv3shxploit | [Read More](https://medium.com/p/fdfa0a8524fe) |
-| Thu, 18 Sep 2025 19:40:09 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu Zelle Venmo transfer CASH… | Lizzy Johnson | [Read More](https://medium.com/p/2b4c6f03204e) |
