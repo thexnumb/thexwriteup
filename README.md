@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 14:14:55 GMT | Fast TCP Port Scanning in Go: A Deep Dive into pscanner | Alireza Nezami | [Read More](https://medium.com/p/df6ccd1bb162) |
+| Fri, 19 Sep 2025 14:12:56 GMT | CVE-2025–59340: Jinjava’s Sandbox Escape | gm0 | [Read More](https://medium.com/p/ac055eb64f51) |
+| Fri, 19 Sep 2025 14:08:40 GMT | Cybersecurity Challenges in 5G Networks | Cyber Security Research | [Read More](https://medium.com/p/6d92221cdc05) |
+| Fri, 19 Sep 2025 14:02:52 GMT | Open Source Security Management | Cyber Security Research | [Read More](https://medium.com/p/b7b9bd6b2e76) |
+| Fri, 19 Sep 2025 14:02:33 GMT | When AI Uses Your Face Without Permission: The Horror of AI Misuse | Kiran Moazza | [Read More](https://medium.com/p/b94f4a9b4d23) |
+| Fri, 19 Sep 2025 14:02:08 GMT | Cyber Briefing: 2025.09.19 | CyberMaterial | [Read More](https://medium.com/p/a2c354d49db2) |
+| Fri, 19 Sep 2025 13:59:20 GMT | Windows 10: Why Sticking With It Is a Security Risk for SMEs | Cordula Boeck | [Read More](https://medium.com/p/32357ef296de) |
+| Fri, 19 Sep 2025 13:57:43 GMT | TryHackMe #30 - Nmap: The Basics | 0xGroot | [Read More](https://medium.com/p/1e7c4cbbe5cf) |
+| Fri, 19 Sep 2025 13:55:11 GMT | Top 4 Software Development Trends in Healthcare | Keepnet Labs | [Read More](https://medium.com/p/c4748ed0b8fd) |
+| Fri, 19 Sep 2025 13:53:07 GMT | Why You Need Life Insurance and Which Type Is Right for You - Integrity Advantage Group | Scott Reinhart | [Read More](https://medium.com/p/b2d91ac7c745) |
+| Fri, 19 Sep 2025 13:52:03 GMT | ️‍♂️Investigating Windows 3.x — TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/17a1737b801a) |
+| Fri, 19 Sep 2025 13:51:44 GMT | TryHackMe #29 - Tcpdump: The Basics | 0xGroot | [Read More](https://medium.com/p/30b83420e68a) |
+| Fri, 19 Sep 2025 13:51:37 GMT | I’m Angry Because My Heart Is Broken | menda's here | [Read More](https://medium.com/p/88c3e7e5a7dd) |
+| Fri, 19 Sep 2025 13:47:45 GMT | Threat intelligence sharing has become the backbone of modern cybersecurity defense, and frankly… | Cloud4C Services | [Read More](https://medium.com/p/a529e1558050) |
+| Fri, 19 Sep 2025 13:47:45 GMT | TryHackMe #28 - Wireshark: The Basics | 0xGroot | [Read More](https://medium.com/p/a63e71e7e6f0) |
 | Fri, 19 Sep 2025 13:41:28 GMT | HTB — Baby (Easy) Walkthrough | Shnogeorgiev | [Read More](https://medium.com/p/4d044656b9fc) |
 | Fri, 19 Sep 2025 13:33:06 GMT | The Pivot Method: Technical Moves for Bug Hunters in Progress | Vicricsec | [Read More](https://medium.com/p/b767bcee8911) |
 | Fri, 19 Sep 2025 13:27:10 GMT | Part 26: Authorization With Ash Policies (Part 2/2) | Kamaro Lambert | [Read More](https://medium.com/p/60f2a00e35f2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 09:36:24 GMT | When Grief Shows Up at My Door: Burnout, menopause, and the ghostly weight of evenings. | Eleanorkojan | [Read More](https://medium.com/p/9a8a88a3ea98) |
 | Fri, 19 Sep 2025 09:32:13 GMT | Why Enterprises Are Quietly Ditching Dedicated Servers | Rizqi Mulki | [Read More](https://medium.com/p/1f4972dd6311) |
 | Fri, 19 Sep 2025 09:26:57 GMT | Navigating the Evolving Threat Landscape: A Weekly Briefing —VIEH Security Research Team | VIEH Security Research Team | [Read More](https://medium.com/p/6d6330447956) |
-| Fri, 19 Sep 2025 09:26:53 GMT | Exploring Reflected XSS Vulnerabilities in Educational Platforms | Yaliyanto | [Read More](https://medium.com/p/2f134f96cb03) |
-| Fri, 19 Sep 2025 09:26:03 GMT | Linux Intrusion Detection Systems Advanced: Snort, Suricata, and More | Eren Cankut Uysal | [Read More](https://medium.com/p/506066004a2e) |
-| Fri, 19 Sep 2025 09:25:03 GMT | How I Uncovered an IDOR That Exposed Other Employee’s Personal Data | Hari Kishore | [Read More](https://medium.com/p/4ab9a85b9579) |
-| Fri, 19 Sep 2025 09:23:51 GMT | “1000 Apps, No Job?” IT Vets, You’re Not Alone. Here’s Why & How to Fix It. | Truspex | [Read More](https://medium.com/p/cb11e5a0196d) |
-| Fri, 19 Sep 2025 09:23:30 GMT | ISO/IEC 27001/27002: Transforming Information Security into a Process Discipline | Umut Akbulut | [Read More](https://medium.com/p/06bf1a9325cf) |
-| Fri, 19 Sep 2025 09:22:05 GMT | Home Security Cameras In Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/cb27a0301efb) |
-| Fri, 19 Sep 2025 09:21:54 GMT | Orochi: Igniting the Future of Finance with Verifiable RWA Data | Yuglathiya | [Read More](https://medium.com/p/315058e2b95b) |
-| Fri, 19 Sep 2025 09:21:36 GMT | 10 Python Tricks That Will Make You a More Efficient Developer in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/599874bbf478) |
-| Fri, 19 Sep 2025 09:15:24 GMT | The Robot Revolution: How AI-Powered Security is Transforming Data Centers | Arunkumar | [Read More](https://medium.com/p/d1f70c0388bc) |
-| Fri, 19 Sep 2025 09:14:57 GMT | Engineering Trust: The Security and Scalability Architecture Behind VERAXIS Global Business School… | VERAXIS Global Business School（VRXS） | [Read More](https://medium.com/p/132be7373351) |
-| Fri, 19 Sep 2025 09:11:03 GMT | Cyber Threat Intelligence: How to Investigate IPs and Domains - TryHackMe Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/f5747bc05734) |
-| Fri, 19 Sep 2025 09:09:08 GMT | Creepy Online? Your Data’s Trail is Longer Than You Think | Authlyn | [Read More](https://medium.com/p/b27ea9d07112) |
-| Fri, 19 Sep 2025 09:08:52 GMT | Which AI Security Role Could Be Your Future Career? | Taimur Ijlal | [Read More](https://medium.com/p/058ba4caa40b) |
-| Fri, 19 Sep 2025 09:07:34 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/c3ce1ec2444a) |
-| Fri, 19 Sep 2025 09:01:48 GMT | Trail Cam Drama: Is My Neighbor *Really* My Business? | Lawnline | [Read More](https://medium.com/p/57526f0c8de3) |
