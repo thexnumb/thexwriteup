@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Sep 2025 16:02:31 GMT | What I Learned About Linux: A Beginner’s Guide to Its History, Uses, and Importance - Sayanth | Sayanth | [Read More](https://medium.com/p/315022402079) |
+| Fri, 19 Sep 2025 16:02:02 GMT | Day 7: The 3 AM Slack Message That Exposed Every Password in Production | Mahimagarg | [Read More](https://medium.com/p/9bcd3e42b93c) |
+| Fri, 19 Sep 2025 16:01:47 GMT | The Ultimate Guide to Spotting and Avoiding Survey Scams | Stephon Anderson | [Read More](https://medium.com/p/f8635d4c9535) |
+| Fri, 19 Sep 2025 16:01:03 GMT | NPM Supply Chain Attack: How I Checked My Code After Breach | Hareem Fatima | [Read More](https://medium.com/p/9bb18f8c8ca7) |
+| Fri, 19 Sep 2025 16:00:55 GMT | Copilots are powerful, but don’t let them expose your credentials | Anas Anjaria | [Read More](https://medium.com/p/c2ab9308bd96) |
+| Fri, 19 Sep 2025 16:00:10 GMT | First Blood: Running Your First Real Attack (Safely) | Fateyaly | [Read More](https://medium.com/p/5101d0fc8dd8) |
+| Fri, 19 Sep 2025 15:59:32 GMT | How to Specialize in API Bug Hunting: A Beginner’s Roadmap | Andrei Ivan | [Read More](https://medium.com/p/e26e87204c8b) |
+| Fri, 19 Sep 2025 15:57:44 GMT | Top Security Concerns Every Business Owner Needs to Face | Vlad Koval | [Read More](https://medium.com/p/9cdf97789e62) |
+| Fri, 19 Sep 2025 15:47:02 GMT | /Path/Pentesting/✌ | Satyabrata Das | [Read More](https://medium.com/p/1f9b6ba21c4e) |
+| Fri, 19 Sep 2025 15:46:42 GMT | HackNet Write Up — Hack The Box | Toshith | [Read More](https://medium.com/p/77514e8f7849) |
+| Fri, 19 Sep 2025 15:45:50 GMT | Breaking News — Three Russian MiG-31s Invade Estonian Airspace for 12 Minutes | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7474502abbd0) |
+| Fri, 19 Sep 2025 15:44:35 GMT | Cracking SQL Injection: What I Learned from a Cisco Security Lab | Cyber Timi | [Read More](https://medium.com/p/5aa2c3bc8523) |
+| Fri, 19 Sep 2025 15:42:23 GMT | Comprehensive Analysis: Sri Lanka’s National Cybersecurity Strategy (2025-2029) vs. | Erica Jayasundera | [Read More](https://medium.com/p/1596fe8c3249) |
 | Fri, 19 Sep 2025 15:36:03 GMT | TryHackMe - Chaining Vulnerabilities - WriteUp | Axoloth | [Read More](https://medium.com/p/0a3728abb1f8) |
 | Fri, 19 Sep 2025 15:34:03 GMT | CISA has identified a critical vulnerability ,CVE-2025–5086, in DELMIA Apriso software, which… | SCtoCS | [Read More](https://medium.com/p/bec5831da221) |
 | Fri, 19 Sep 2025 15:31:45 GMT | “Beyond the Obvious: Unearthing Hidden Subdomains for Better Bounties” | Aman Sharma | [Read More](https://medium.com/p/1692e32e0aab) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 11:33:02 GMT | Automotive Hacking Exposed: Car Companies Don’t Want You to Know | Xaar The Educator | [Read More](https://medium.com/p/650536958934) |
 | Fri, 19 Sep 2025 11:32:54 GMT | North Korean Hackers ChatGPT Phishing: What It Means for Cybersecurity | TheReviewHive | [Read More](https://medium.com/p/331d0b23be2a) |
 | Fri, 19 Sep 2025 11:20:09 GMT | Can Meta Read WhatsApp? What the Lawsuit Alleges | Shahzaib | [Read More](https://medium.com/p/d78e5c80ac16) |
-| Fri, 19 Sep 2025 11:14:29 GMT | How Japan DMC Services Enhance Travel Safety & Security | Iconiq Travels | [Read More](https://medium.com/p/2f26fbbc0494) |
-| Fri, 19 Sep 2025 11:10:51 GMT | Zero-Day Exploits and Ransomware Attacks Intensify | Loginsoft | [Read More](https://medium.com/p/3ced82afe885) |
-| Fri, 19 Sep 2025 11:10:08 GMT | Surprising breakthrough: how AP2 unlocks safer payments | STR4T0TT0 | [Read More](https://medium.com/p/aa9fe0f34705) |
-| Fri, 19 Sep 2025 11:09:33 GMT | Surviving the IT Job Market: A journey that I never expected — part 3 | MeerKat | [Read More](https://medium.com/p/d0378da4b5e2) |
-| Fri, 19 Sep 2025 11:02:30 GMT | Can You Capture Your Car Key Signal with an ESP? | Ata Can Yaymacı | [Read More](https://medium.com/p/eb2871078d64) |
-| Fri, 19 Sep 2025 11:01:14 GMT | Keystroke Dynamics — how it works and how it can be used for surveillance? | Kamila Monika Zu | [Read More](https://medium.com/p/9710247d81ca) |
-| Fri, 19 Sep 2025 10:52:20 GMT | Beyond the Firewall: The Death of Perimeter-Based Security | Karl-Heinrich zu Schwarzenberg | [Read More](https://medium.com/p/f36bae33f7d4) |
-| Fri, 19 Sep 2025 10:51:48 GMT | Neurotechnology in the Workplace: A Brave New Boost or Orwellian Nightmare? | Namir Sagheenanajar | [Read More](https://medium.com/p/9f12eebc1691) |
-| Fri, 19 Sep 2025 10:49:19 GMT | Trezor Suite Download App — Secure & Easy Crypto Wallet | Trezor suite | [Read More](https://medium.com/p/4640d4e594e3) |
-| Fri, 19 Sep 2025 10:48:16 GMT | Proving Grounds “Internal” Machine: A Complete Walkthrough for CTF Beginners | Maxwell Ferreira | [Read More](https://medium.com/p/328454e3fe62) |
-| Fri, 19 Sep 2025 10:47:50 GMT | CTF para Iniciantes: Um Guia Completo para Comecar no Mundo dos Capture The Flag | Maxwell Ferreira | [Read More](https://medium.com/p/9339ca9bb161) |
-| Fri, 19 Sep 2025 10:47:26 GMT | Walkthrough Fish Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/70c837d5d83c) |
-| Fri, 19 Sep 2025 10:47:21 GMT | The Missed Potential of SIEM: Why Vendors Are Failing to Evolve | Abdul | [Read More](https://medium.com/p/e8f5911e6390) |
