@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 10:54:15 GMT | Ashmirror Hollow | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/60dd38922b2e) |
+| Sat, 20 Sep 2025 10:53:26 GMT | Proactive IT Maintenance: An In-Depth Overview for Modern Organizations | Fiona Campbell | [Read More](https://medium.com/p/0cc5c37b1646) |
+| Sat, 20 Sep 2025 10:36:59 GMT | BOLA (Broken Object Level Authentication) in Connected Cars | BaudSkidNinja | [Read More](https://medium.com/p/5cc0264d53b4) |
 | Sat, 20 Sep 2025 10:28:35 GMT | AI: The Comeback Kid of Tech | Ankit Patel | [Read More](https://medium.com/p/82455e847602) |
 | Sat, 20 Sep 2025 10:27:06 GMT | THM - Invite Only | Francesco Pastore | [Read More](https://medium.com/p/5d7ed396fbf8) |
 | Sat, 20 Sep 2025 10:22:25 GMT | The Ultimate Guide to Building Wealth with Side Hustles in 2025 | A Corporate Artist | [Read More](https://medium.com/p/035202582d50) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 02:20:18 GMT | Configure ECMP Load Balancing on FortiGate | DuyThanhCCIE | [Read More](https://medium.com/p/cd89b2402e1e) |
 | Sat, 20 Sep 2025 02:02:36 GMT | AS-REP Roasting | 5p1d4r | [Read More](https://medium.com/p/c0fe08052258) |
 | Sat, 20 Sep 2025 01:59:20 GMT | 22 Cybersecurity Conferences in Canada | Tal Eliyahu | [Read More](https://medium.com/p/f029e10b3c40) |
-| Sat, 20 Sep 2025 01:46:36 GMT | Penetration Testing vs Ethical Hacking: What’s the Difference? | Harbeer Singh | [Read More](https://medium.com/p/ce64ba0e52f6) |
-| Sat, 20 Sep 2025 01:07:01 GMT | TryHackMe Blue - walkthrough | be.light | [Read More](https://medium.com/p/b7092ab7427c) |
-| Sat, 20 Sep 2025 01:01:44 GMT | ⏱ Sync or Sink: How NTP Appliances Prevent IT Chaos | MARLON MUTIANGPILI | [Read More](https://medium.com/p/0edec30649b9) |
