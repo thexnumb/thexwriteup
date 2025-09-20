@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 09:11:48 GMT | Step-by-Step Guide: How to Encrypt Your Files in 2025 (Stay Safe Online) | Techlio | [Read More](https://medium.com/p/c1d90449909d) |
+| Sat, 20 Sep 2025 09:11:39 GMT | Top Information Technology Courses in Pakistan by IPEI | IPEI | [Read More](https://medium.com/p/1963ca525349) |
+| Sat, 20 Sep 2025 09:10:56 GMT | DROSERA (DEFI’S SECURITY GUARD) | Ife.10x | [Read More](https://medium.com/p/9b02060db0f7) |
+| Sat, 20 Sep 2025 09:04:42 GMT | How Do Earphones Work?(Everyday Electronics Simplified- Blog 2) | Aditya Zagade | [Read More](https://medium.com/p/6fd36b509db5) |
+| Sat, 20 Sep 2025 09:01:43 GMT | Linux Forensics: Log and Process Analysis | Esra Kayhan | [Read More](https://medium.com/p/c9f55d2c37bf) |
+| Sat, 20 Sep 2025 08:59:22 GMT | “Why I Built My Own Firewall (and What I Learned Along the Way)” | Mehmet Zeki Özkaplan | [Read More](https://medium.com/p/39888fd03b6c) |
+| Sat, 20 Sep 2025 08:57:05 GMT | Why Security Matters More Than Ever in Crypto Trading | Abdulmutiu onimisi - Onimycin | [Read More](https://medium.com/p/638babb0be33) |
+| Sat, 20 Sep 2025 08:54:57 GMT | TO BECOME A SOC EXPERT(DAY-7) | vulnhunter | [Read More](https://medium.com/p/d03b2bf9d0db) |
+| Sat, 20 Sep 2025 08:50:52 GMT | Make ServiceNow Your Identity Engine with OpenIAM | Openiam | [Read More](https://medium.com/p/e8ea68aa5549) |
+| Sat, 20 Sep 2025 08:48:19 GMT | Cybersecurity Services That Safeguard Data, Networks and Cloud Systems | Juarait Digital | [Read More](https://medium.com/p/fecf900510a9) |
+| Sat, 20 Sep 2025 08:48:02 GMT | No NTLM, No Problem: Hacking Vintage (Hard) on HackTheBox Abusing Kerberos & RBCD | Joseph Jung | [Read More](https://medium.com/p/06c006ea726d) |
+| Sat, 20 Sep 2025 08:44:19 GMT | Playing your "Dead Man's Hand" during the OSCP exam. | Seccult | [Read More](https://medium.com/p/274f1e87c310) |
 | Sat, 20 Sep 2025 08:38:49 GMT | From Certification to Implementation: Why Endpoint Admins Should Consider the Microsoft 365… | Praz Timsina | [Read More](https://medium.com/p/7f4bf24f174c) |
 | Sat, 20 Sep 2025 08:38:00 GMT | Communicating Cybersecurity risks effectively to top management using business-centric language . | Bona Karides | [Read More](https://medium.com/p/8db045d6de1f) |
 | Sat, 20 Sep 2025 08:33:13 GMT | Day 1(20/09/25): The Art of Digital Illusion — Hunting Clickjacking Vulnerabilities | Amandogra | [Read More](https://medium.com/p/4fb772b7f919) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 22:15:21 GMT | DANABOT. The Tale of A DDoS Attack. | Adewale Ayomide | [Read More](https://medium.com/p/630ce77a1cd4) |
 | Fri, 19 Sep 2025 22:10:17 GMT | Your Emotions Aren’t the Enemy | The Inflection | [Read More](https://medium.com/p/087c8f87364d) |
 | Fri, 19 Sep 2025 22:02:29 GMT | ZT-Lite: Building a Zero Trust Simulation in Azure Free Tier | Hemavarna Sundar | [Read More](https://medium.com/p/7cb169d80764) |
-| Fri, 19 Sep 2025 21:54:11 GMT | SonicWall Breach: Why Even Encrypted Backups Aren’t Safe Anymore | Cyber-AppSec | [Read More](https://medium.com/p/82bf19fc1b1b) |
-| Fri, 19 Sep 2025 21:51:59 GMT | Artificial intelligence .. And interesting details of one day from the life of a journalist in 2027 | Sidialtos | [Read More](https://medium.com/p/c91972159e96) |
-| Fri, 19 Sep 2025 21:50:08 GMT | Weaponizing Burp Intruder: Credential Stuffing done Right | Dr1nCtrl | [Read More](https://medium.com/p/f91fa3121bb9) |
-| Fri, 19 Sep 2025 21:46:02 GMT | How I Turned Forgotten Internet Archives into a Critical Account Takeover Vulnerability | Ahmed Nasser | [Read More](https://medium.com/p/9cfc846f0685) |
-| Fri, 19 Sep 2025 21:43:25 GMT | Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction | Keerthana Purushotham | [Read More](https://medium.com/p/d4bafd9cec1b) |
-| Fri, 19 Sep 2025 21:41:44 GMT | Launch an AI Product in 10 Minutes With Zero Code Using Vercel | Evan - AI for Growth | [Read More](https://medium.com/p/d9e6def1b597) |
-| Fri, 19 Sep 2025 21:40:14 GMT | Drosera: A New Kind Of Digital Security | Ardeni | [Read More](https://medium.com/p/750081a258bf) |
-| Fri, 19 Sep 2025 21:29:33 GMT | A Beginner’s Guide to Bitwarden Sends: Securely Share Sensitive Information | Tim_Idd | [Read More](https://medium.com/p/4c65ca8a8ac4) |
-| Fri, 19 Sep 2025 21:26:18 GMT | Terraform Policy Enforcement: A Practical Guide to Sentinel and OPA | Ting Li | [Read More](https://medium.com/p/3407d496bc83) |
-| Fri, 19 Sep 2025 21:09:32 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/0afcd64a3a58) |
-| Fri, 19 Sep 2025 21:08:00 GMT | Fundamentals of Secure Communication (2025) | Kish Galappatti | [Read More](https://medium.com/p/6fea5852b09d) |
-| Fri, 19 Sep 2025 21:00:32 GMT | Hack the Box — Remote — WriteUp | Emre A. | [Read More](https://medium.com/p/46cfdc541ea8) |
