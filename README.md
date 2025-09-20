@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 23:33:18 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/1f2ebe194382) |
 | Sat, 20 Sep 2025 23:15:44 GMT | The CIA of Cybersecurity | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/7076bd04ee2c) |
 | Sat, 20 Sep 2025 23:04:36 GMT | Hack the Box Explore CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/8488eb1bf71e) |
 | Sat, 20 Sep 2025 22:52:34 GMT | “API — Mass Assignment” challenge | oussama | [Read More](https://medium.com/p/33a4cc8b2c26) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 20, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/4d11c8d589b2) |
 | Sat, 20 Sep 2025 15:14:24 GMT | AI Won’t Replace You. But If You Don’t Evolve, Someone Who Knows AI Will. | Vijay Kumar Gupta | [Read More](https://medium.com/p/e5053ced8fea) |
 | Sat, 20 Sep 2025 15:14:02 GMT | Windows Run Keys — What They Are and Why They Matter | Allen Ace | [Read More](https://medium.com/p/c488306dbd0e) |
-| Sat, 20 Sep 2025 15:09:57 GMT | HTB Fluffy Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/96703a596d54) |
