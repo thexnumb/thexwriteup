@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 09:31:44 GMT | The Complete Guide to Auditing WPA2 Security: A Hands-On Lab -4 | Biplove Yadav | [Read More](https://medium.com/p/245f7c522723) |
+| Sat, 20 Sep 2025 09:21:44 GMT | Command Injection Flaws: Turning User Input into System Control (Educational Only) | Rizqi Mulki | [Read More](https://medium.com/p/7d3b931d6968) |
+| Sat, 20 Sep 2025 09:19:28 GMT | Stealc: The All-in-One Information Stealer | Rahaliashraf | [Read More](https://medium.com/p/afb855793aa2) |
+| Sat, 20 Sep 2025 09:18:53 GMT | crackmes.one: PrettyDamnEasy | Sourav Bose | [Read More](https://medium.com/p/dcd4ee4bb76f) |
+| Sat, 20 Sep 2025 09:17:43 GMT | Anatomy of a Hack: My Breakdown of a Simulated Log4j Attack | Sohan Kanna D | [Read More](https://medium.com/p/fe04303e3d25) |
+| Sat, 20 Sep 2025 09:15:26 GMT | CyberDefenders: OskiLab | Rahaliashraf | [Read More](https://medium.com/p/2dbebde071ef) |
+| Sat, 20 Sep 2025 09:13:08 GMT | Essential Eight — Security Foundation Every Organisation Should Start With | Ramesh Babu | [Read More](https://medium.com/p/d35379391936) |
+| Sat, 20 Sep 2025 09:12:51 GMT | Threat Hunting with Firewalls Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/0a27c813da8d) |
 | Sat, 20 Sep 2025 09:11:48 GMT | Step-by-Step Guide: How to Encrypt Your Files in 2025 (Stay Safe Online) | Techlio | [Read More](https://medium.com/p/c1d90449909d) |
 | Sat, 20 Sep 2025 09:11:39 GMT | Top Information Technology Courses in Pakistan by IPEI | IPEI | [Read More](https://medium.com/p/1963ca525349) |
 | Sat, 20 Sep 2025 09:10:56 GMT | DROSERA (DEFI’S SECURITY GUARD) | Ife.10x | [Read More](https://medium.com/p/9b02060db0f7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 23:14:02 GMT | TLDR; The Online Safety Act | Its Not Nicole | [Read More](https://medium.com/p/085aca328d88) |
 | Fri, 19 Sep 2025 23:06:15 GMT | Contrabando writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/b3b966ea51b0) |
 | Fri, 19 Sep 2025 23:06:11 GMT | Mobile App Security Compliance AI Prompts Pack | Mohammad Abir Abbas | [Read More](https://medium.com/p/b50588700113) |
-| Fri, 19 Sep 2025 22:56:19 GMT | User Credentials : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/f6a98a29e663) |
-| Fri, 19 Sep 2025 22:56:15 GMT | Why Most Capture The Flag Challenges Focus on Misconfigurations, Not Tools | Onurcan Genç | [Read More](https://medium.com/p/d015f8acfeda) |
-| Fri, 19 Sep 2025 22:52:31 GMT | An Open Letter to all Cybersecurity Enthusiasts | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/3b20b0e5ccb1) |
-| Fri, 19 Sep 2025 22:44:02 GMT | CyberDefenders: WebStrike Lab | Rahaliashraf | [Read More](https://medium.com/p/e452c9f6597b) |
-| Fri, 19 Sep 2025 22:35:23 GMT | Balancing Security & Productivity | Matthew.Rosenquist | [Read More](https://medium.com/p/df955570bcd5) |
-| Fri, 19 Sep 2025 22:15:21 GMT | DANABOT. The Tale of A DDoS Attack. | Adewale Ayomide | [Read More](https://medium.com/p/630ce77a1cd4) |
-| Fri, 19 Sep 2025 22:10:17 GMT | Your Emotions Aren’t the Enemy | The Inflection | [Read More](https://medium.com/p/087c8f87364d) |
-| Fri, 19 Sep 2025 22:02:29 GMT | ZT-Lite: Building a Zero Trust Simulation in Azure Free Tier | Hemavarna Sundar | [Read More](https://medium.com/p/7cb169d80764) |
