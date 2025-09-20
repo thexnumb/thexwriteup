@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 16:57:19 GMT | The Security Challenges of 5G Networks | Samina Perveen | [Read More](https://medium.com/p/6ec712e5e1ed) |
+| Sat, 20 Sep 2025 16:57:06 GMT | How to Secure Your Startup’s Data with Zero-Trust Architecture in 2025 | Umesh Anjula | [Read More](https://medium.com/p/8771740dcbc5) |
+| Sat, 20 Sep 2025 16:56:58 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/34b3ad8a015f) |
+| Sat, 20 Sep 2025 16:53:08 GMT | The Time Traveler’s Heist: Your Encrypted Data Is Already Stolen | Sandesh - DevOps - AWS - K8 - Dev | [Read More](https://medium.com/p/44170f96ad5b) |
+| Sat, 20 Sep 2025 16:52:11 GMT | How to Stay Safe in a World of Digital Arrests and Cyber Crimes | Shunyo Osho | [Read More](https://medium.com/p/f601a39e2395) |
+| Sat, 20 Sep 2025 16:48:10 GMT | Cross-Site Scripting (XSS): what it is, why it’s dangerous, and how to stop it | Lalit Mehra | [Read More](https://medium.com/p/0ad2963145a0) |
+| Sat, 20 Sep 2025 16:48:01 GMT | Shai-Hulud: The Self-Replicating NPM Worm That Compromised 180+ Packages | Sachin Kasana | [Read More](https://medium.com/p/10a83dc8f167) |
+| Sat, 20 Sep 2025 16:36:26 GMT | [FFRI × NFLabs. CTF]Shell4Solr | Yzazaki | [Read More](https://medium.com/p/e6423af9eaa2) |
+| Sat, 20 Sep 2025 16:31:53 GMT | Giving Back Love, Standing in a Relationship | Jessica Isaac | [Read More](https://medium.com/p/fc4f435b2c42) |
 | Sat, 20 Sep 2025 16:29:13 GMT | Server-Side Parameter Pollution from a Different Perspective | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/46bb18369557) |
 | Sat, 20 Sep 2025 16:24:23 GMT | Your Node.js Project is Not Safe (Trust Me, It’s Not) | Samrat Dutta | [Read More](https://medium.com/p/0144ac3e3ab2) |
 | Sat, 20 Sep 2025 16:23:39 GMT | Offloading Server Management with a PaaS | Manish Shivanandhan | [Read More](https://medium.com/p/3e68be0ac827) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 09:38:05 GMT | OWASP Juice Shop Challenge : Missing Encoding | theOrthodox | [Read More](https://medium.com/p/813519d7416c) |
 | Sat, 20 Sep 2025 09:31:44 GMT | The Complete Guide to Auditing WPA2 Security: A Hands-On Lab -4 | Biplove Yadav | [Read More](https://medium.com/p/245f7c522723) |
 | Sat, 20 Sep 2025 09:30:37 GMT | ️ AegisAI: AI-Powered VAPT for the Modern Web | T Jai Surya Prasad | [Read More](https://medium.com/p/eb7df8884401) |
-| Sat, 20 Sep 2025 09:30:17 GMT | Anonymous Playground Tryhackme | St3mw4s | [Read More](https://medium.com/p/357287197a3f) |
-| Sat, 20 Sep 2025 09:27:44 GMT | Car Hacking- The New Frontier In Cybersecurity | Redfox Security | [Read More](https://medium.com/p/73edee79341b) |
-| Sat, 20 Sep 2025 09:21:44 GMT | Command Injection Flaws: Turning User Input into System Control (Educational Only) | Rizqi Mulki | [Read More](https://medium.com/p/7d3b931d6968) |
-| Sat, 20 Sep 2025 09:19:28 GMT | Stealc: The All-in-One Information Stealer | Rahaliashraf | [Read More](https://medium.com/p/afb855793aa2) |
-| Sat, 20 Sep 2025 09:18:53 GMT | crackmes.one: PrettyDamnEasy | Sourav Bose | [Read More](https://medium.com/p/dcd4ee4bb76f) |
-| Sat, 20 Sep 2025 09:17:43 GMT | Anatomy of a Hack: My Breakdown of a Simulated Log4j Attack | Sohan Kanna D | [Read More](https://medium.com/p/fe04303e3d25) |
-| Sat, 20 Sep 2025 09:15:26 GMT | CyberDefenders: OskiLab | Rahaliashraf | [Read More](https://medium.com/p/2dbebde071ef) |
-| Sat, 20 Sep 2025 09:13:08 GMT | Essential Eight — Security Foundation Every Organisation Should Start With | Ramesh Babu | [Read More](https://medium.com/p/d35379391936) |
-| Sat, 20 Sep 2025 09:12:51 GMT | Threat Hunting with Firewalls Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/0a27c813da8d) |
