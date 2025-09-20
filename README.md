@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 06:24:01 GMT | What Is Hacking Really? Breaking the Myths and Movies | Aj | [Read More](https://medium.com/p/198ca6b8c7b7) |
+| Sat, 20 Sep 2025 06:13:00 GMT | Tuning containerd Snapshotters for Real-World Performance | Hex Shift | [Read More](https://medium.com/p/86bb10ba74f3) |
+| Sat, 20 Sep 2025 06:04:46 GMT | Need to Learn Data Packet Analysis For Cybersecurity? Here’s How To Learn It Fast. (And free) | LM Calvert | [Read More](https://medium.com/p/ea17e3c4e629) |
+| Sat, 20 Sep 2025 06:04:40 GMT | Changing the Dynamics Around Cybersecurity Awareness | JC Gaillard | [Read More](https://medium.com/p/e3a44eabb2e6) |
+| Sat, 20 Sep 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Sep 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7534561dec8d) |
+| Sat, 20 Sep 2025 06:00:20 GMT | Why Small Businesses Are the #1 Target for Hackers in 2025 | Pynesec | [Read More](https://medium.com/p/868d65ea1a24) |
+| Sat, 20 Sep 2025 05:55:58 GMT | Bibliography, Citations, Sources | Rhiannon Williams | [Read More](https://medium.com/p/f0954fcb4778) |
+| Sat, 20 Sep 2025 05:50:18 GMT | List of all Articles | Rhiannon Williams | [Read More](https://medium.com/p/5ddcd490761e) |
+| Sat, 20 Sep 2025 05:48:41 GMT | The Silent Risks We Forget: Why Cybersecurity Is More Than Just Passwords | Recover Right | [Read More](https://medium.com/p/f0e50950c71a) |
+| Sat, 20 Sep 2025 05:46:55 GMT | SSRF TO RCE | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/916fdc104ad0) |
+| Sat, 20 Sep 2025 05:46:40 GMT | Laravel’s Str::mask: Elegant String Masking Made Simple | Sadique Ali | [Read More](https://medium.com/p/a9d3e98c1db9) |
+| Sat, 20 Sep 2025 05:39:53 GMT | How SIM Swapping Attacks Work — and How to Prevent Them | Abida Adra | [Read More](https://medium.com/p/9bc294ae57f4) |
 | Sat, 20 Sep 2025 05:26:39 GMT | Sample Blog | Rhiannon Williams | [Read More](https://medium.com/p/cf05bd67ec18) |
 | Sat, 20 Sep 2025 05:20:57 GMT | You’re Not a Man, You’re a Statue: Why Your Pride Is a Coffin | Randhir Jha | [Read More](https://medium.com/p/887a63356aaf) |
 | Sat, 20 Sep 2025 05:16:56 GMT | Best Security Cameras for Austin Construction | Birdseyesurveillancetx | [Read More](https://medium.com/p/efe58b67003f) |
@@ -101,15 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 19:01:04 GMT | From Kibana Frustration to Splunk Success | Garv Kamra | [Read More](https://medium.com/p/6749a6c5e7b9) |
 | Fri, 19 Sep 2025 18:54:55 GMT | CyberDefenders — MinerHunt Lab | jon | [Read More](https://medium.com/p/99c0295a1d90) |
 | Fri, 19 Sep 2025 18:53:13 GMT | BIOGRAPHY OF A BEAST: The Engineering of Monsters | Ghost | [Read More](https://medium.com/p/fd85718b4162) |
-| Fri, 19 Sep 2025 18:50:21 GMT | PromptJacked: The Silent Cyber Threat Hiding Inside Your Chatbot | Noel | [Read More](https://medium.com/p/0746ea81e88f) |
-| Fri, 19 Sep 2025 18:50:15 GMT | This Small Business Lost $75K to a QR Code Hack — Here’s the Shocking Story | Noel | [Read More](https://medium.com/p/6db2df06475b) |
-| Fri, 19 Sep 2025 18:49:36 GMT | HOW TO START BUG BOUNTY? ‍ A ROADMAP FOR ETHICAL HACKERS | Lumae | [Read More](https://medium.com/p/f26363317205) |
-| Fri, 19 Sep 2025 18:49:20 GMT | Advanced Bug Hunting: Tips, Tricks and Methodology | Monika sharma | [Read More](https://medium.com/p/9962b05ee740) |
-| Fri, 19 Sep 2025 18:47:54 GMT | The Password Paradox | Michael Huff — Writer of Stuff | [Read More](https://medium.com/p/eaa3d732d7b0) |
-| Fri, 19 Sep 2025 18:45:12 GMT | Exploiting IoT Devices With Just Google & Shodan | Vipul Sonule | [Read More](https://medium.com/p/b487ea635f6a) |
-| Fri, 19 Sep 2025 18:45:04 GMT | Detecting Web DDoS - Tryhackme | Aaron | [Read More](https://medium.com/p/13797738a463) |
-| Fri, 19 Sep 2025 18:44:55 GMT | The Windows Security Journey — Azure Arc | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d7a2782d961) |
-| Fri, 19 Sep 2025 18:43:31 GMT | SOC Role in Blue Team - TryHackMe Room Walkthrough | Samriddhi | [Read More](https://medium.com/p/cc5e83f521e7) |
-| Fri, 19 Sep 2025 18:40:34 GMT | Exploiting Remote code execution via polygot web shell upload | Cybernerddd | [Read More](https://medium.com/p/7dd574751f3b) |
-| Fri, 19 Sep 2025 18:38:47 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/1627f6c92d4a) |
-| Fri, 19 Sep 2025 18:36:46 GMT | Unlock Your Career: A Comprehensive Guide to a Diploma in Ethical Hacking and Cybersecurity | Nitin Singh | [Read More](https://medium.com/p/9ba90dbcae53) |
