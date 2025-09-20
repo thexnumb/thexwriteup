@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 08:38:49 GMT | From Certification to Implementation: Why Endpoint Admins Should Consider the Microsoft 365… | Praz Timsina | [Read More](https://medium.com/p/7f4bf24f174c) |
+| Sat, 20 Sep 2025 08:38:00 GMT | Communicating Cybersecurity risks effectively to top management using business-centric language . | Bona Karides | [Read More](https://medium.com/p/8db045d6de1f) |
+| Sat, 20 Sep 2025 08:33:13 GMT | Day 1(20/09/25): The Art of Digital Illusion — Hunting Clickjacking Vulnerabilities | Amandogra | [Read More](https://medium.com/p/4fb772b7f919) |
+| Sat, 20 Sep 2025 08:21:44 GMT | “Upcoming Webinar: Cloud Native Automation and DevSecOps — Building Secure, Scalable Systems in… | Kazeem mohammed | [Read More](https://medium.com/p/8d85ec579de5) |
+| Sat, 20 Sep 2025 08:14:38 GMT | Why Security in Digital Payments Matters | Digitaldepartment | [Read More](https://medium.com/p/a3ad8a3b44b0) |
+| Sat, 20 Sep 2025 08:10:57 GMT | This one sentence by my mother changed my life. | Munira Hussain | [Read More](https://medium.com/p/a934e7ae6947) |
 | Sat, 20 Sep 2025 08:08:44 GMT | DRAFT - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/41a72c206cb0) |
 | Sat, 20 Sep 2025 08:03:49 GMT | HTTP vs HTTPS — Why That Extra ‘S’ is a Game-Changer | Syed Aaqib Hussain | [Read More](https://medium.com/p/32a19e7161b4) |
 | Sat, 20 Sep 2025 07:54:23 GMT | Cheapest VPS for Bug Bounty & Pentesting | Saumadip Mandal | [Read More](https://medium.com/p/fc6686572ee3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 21:09:32 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/0afcd64a3a58) |
 | Fri, 19 Sep 2025 21:08:00 GMT | Fundamentals of Secure Communication (2025) | Kish Galappatti | [Read More](https://medium.com/p/6fea5852b09d) |
 | Fri, 19 Sep 2025 21:00:32 GMT | Hack the Box — Remote — WriteUp | Emre A. | [Read More](https://medium.com/p/46cfdc541ea8) |
-| Fri, 19 Sep 2025 20:48:29 GMT | Incident Report -PsExec Lateral Movement (CyberDefenders Lab) | Saeed Elfiky | [Read More](https://medium.com/p/208b1ace276e) |
-| Fri, 19 Sep 2025 20:47:42 GMT | The One Password to Rule Them All | Michael Huff — Writer of Stuff | [Read More](https://medium.com/p/ce0a6dedeea4) |
-| Fri, 19 Sep 2025 20:35:09 GMT | Siber Güvenlik Yol Haritası | Ertuğrul Gülmez | [Read More](https://medium.com/p/e650ae305baf) |
-| Fri, 19 Sep 2025 20:34:33 GMT | A Story of Collection, Compliance, and the Power Platform Gap | Mario Kresnadi | [Read More](https://medium.com/p/ad7393cd7321) |
-| Fri, 19 Sep 2025 20:33:11 GMT | Remote Browser Isolation (RBI): A Shield Against Drive-By Downloads and Phishing | Chris Zhang | [Read More](https://medium.com/p/1df3d05714e2) |
-| Fri, 19 Sep 2025 20:27:40 GMT | Welcome to Washington, D.C., — | Nikki L Russell | [Read More](https://medium.com/p/37fdc5d2559a) |
