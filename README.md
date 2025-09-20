@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 10:04:13 GMT | CVE-2023–29489 in Much Marcle Parish Council GOV.UK Website: A Cross-Site Scripting Vulnerability | Hassan Ali Arshad | [Read More](https://medium.com/p/45830b223c13) |
+| Sat, 20 Sep 2025 09:55:07 GMT | Saudi Defence Pact Strengthens Strategic Ties with Pakistan | WisePol | [Read More](https://medium.com/p/109fa209bbe2) |
+| Sat, 20 Sep 2025 09:52:19 GMT | Lessons from the SOC | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/04d395c195c7) |
+| Sat, 20 Sep 2025 09:38:21 GMT | What GPT Doesn’t Know It Doesn’t Know | Neha ravi | [Read More](https://medium.com/p/255f401981b1) |
+| Sat, 20 Sep 2025 09:38:05 GMT | OWASP Juice Shop Challenge : Missing Encoding | theOrthodox | [Read More](https://medium.com/p/813519d7416c) |
 | Sat, 20 Sep 2025 09:31:44 GMT | The Complete Guide to Auditing WPA2 Security: A Hands-On Lab -4 | Biplove Yadav | [Read More](https://medium.com/p/245f7c522723) |
+| Sat, 20 Sep 2025 09:30:37 GMT | ️ AegisAI: AI-Powered VAPT for the Modern Web | T Jai Surya Prasad | [Read More](https://medium.com/p/eb7df8884401) |
+| Sat, 20 Sep 2025 09:30:17 GMT | Anonymous Playground Tryhackme | St3mw4s | [Read More](https://medium.com/p/357287197a3f) |
+| Sat, 20 Sep 2025 09:27:44 GMT | Car Hacking- The New Frontier In Cybersecurity | Redfox Security | [Read More](https://medium.com/p/73edee79341b) |
 | Sat, 20 Sep 2025 09:21:44 GMT | Command Injection Flaws: Turning User Input into System Control (Educational Only) | Rizqi Mulki | [Read More](https://medium.com/p/7d3b931d6968) |
 | Sat, 20 Sep 2025 09:19:28 GMT | Stealc: The All-in-One Information Stealer | Rahaliashraf | [Read More](https://medium.com/p/afb855793aa2) |
 | Sat, 20 Sep 2025 09:18:53 GMT | crackmes.one: PrettyDamnEasy | Sourav Bose | [Read More](https://medium.com/p/dcd4ee4bb76f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 00:24:02 GMT | How I got access into National Testing Agency(NTA) and Achieved Full Database Access | ARoy | [Read More](https://medium.com/p/86f8695f61c6) |
 | Sat, 20 Sep 2025 00:01:47 GMT | Master WPScan in Bug Bounty: Essential Guide to Vulnerability Scanning | JPablo13 | [Read More](https://medium.com/p/6c68a4a19b3a) |
 | Sat, 20 Sep 2025 00:00:52 GMT | Why Security Due Diligence is the Silent Killer of SaaS Sales | Zenks | [Read More](https://medium.com/p/3980ca0d4fb9) |
-| Fri, 19 Sep 2025 23:48:02 GMT | Introducing AppsIndex.db: New Windows 11 Artifact for Tracking Start Menu Application Execution | thedigitaldetective | [Read More](https://medium.com/p/b294c8e764fa) |
-| Fri, 19 Sep 2025 23:41:36 GMT | Cybersecurity News Review — Week 38 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/8b7e8bb563a1) |
-| Fri, 19 Sep 2025 23:23:20 GMT | CyberDefenders — Memory Forensic Labs Part 1 | Jaws | [Read More](https://medium.com/p/8f264a05ad78) |
-| Fri, 19 Sep 2025 23:17:32 GMT | What is the difference between TP / TN / FP / FN and Noise in SOC? | BnHany | [Read More](https://medium.com/p/e5305e2d4a57) |
-| Fri, 19 Sep 2025 23:16:54 GMT | Brave vs Firefox (2025): Straight Talk on Privacy, Speed & The Best Secure Browser | Ghulam Mohiuddin | [Read More](https://medium.com/p/6a6b65863628) |
-| Fri, 19 Sep 2025 23:14:02 GMT | TLDR; The Online Safety Act | Its Not Nicole | [Read More](https://medium.com/p/085aca328d88) |
-| Fri, 19 Sep 2025 23:06:15 GMT | Contrabando writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/b3b966ea51b0) |
-| Fri, 19 Sep 2025 23:06:11 GMT | Mobile App Security Compliance AI Prompts Pack | Mohammad Abir Abbas | [Read More](https://medium.com/p/b50588700113) |
