@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 19:04:41 GMT | Logical 2FA / Email Verification Bypass via Pre-2FA JWT Acceptance | Mahmoud Gamal | [Read More](https://medium.com/p/49f6b129fd32) |
+| Sat, 20 Sep 2025 18:55:24 GMT | CyberDefenders — Beta Gamer Lab | jon | [Read More](https://medium.com/p/784ed63bf624) |
+| Sat, 20 Sep 2025 18:52:29 GMT | EYCC 2025 — OSINT Challenges (onsite-round) | Sama | [Read More](https://medium.com/p/c11312bafdf7) |
+| Sat, 20 Sep 2025 18:51:51 GMT | Introduction to Networking: A Beginner’s Guide You’ll Actually Enjoy! | Araiz Naqvi | [Read More](https://medium.com/p/064ec4036b98) |
+| Sat, 20 Sep 2025 18:47:42 GMT | Would You Like Some Identity Theft On Your Salad? | Greg Fazekas | [Read More](https://medium.com/p/0240be7062a9) |
+| Sat, 20 Sep 2025 18:46:18 GMT | The AI Nexus — “Cybersecurity” (September 2025) | Franklin Rhodes | [Read More](https://medium.com/p/30f826d074a4) |
+| Sat, 20 Sep 2025 18:41:36 GMT | Quantum-Resistant Encryption: Preparing for the Next Era of Cybersecurity | Prakashraam | [Read More](https://medium.com/p/57363ae8731e) |
+| Sat, 20 Sep 2025 18:36:31 GMT | সুরক্ষা নাকি গোপনীয়তা? Clearview AI, Palantir এবং আমাদের ভবিষ্যৎ | Rabib Bin Nur | [Read More](https://medium.com/p/fab165af1125) |
+| Sat, 20 Sep 2025 18:36:21 GMT | 4 Ways AI is Quietly Revolutionizing Cybersecurity (And It’s Not What You Think) | Ujjwal Sinha | [Read More](https://medium.com/p/bc76e0401e19) |
 | Sat, 20 Sep 2025 18:21:42 GMT | Threat Modeling Methodologies | Cyber Security Research | [Read More](https://medium.com/p/5d20a889c1b6) |
 | Sat, 20 Sep 2025 18:19:52 GMT | SOAR as a Dating App | Serhan Eraslan | [Read More](https://medium.com/p/efccab01e7ef) |
 | Sat, 20 Sep 2025 18:15:51 GMT | Cybersecurity for Autonomous Vehicles | Cyber Security Research | [Read More](https://medium.com/p/06647af263a0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 12:30:35 GMT | Drosera: A Safety Net for Newcomers in Web3 | Benzchristo | [Read More](https://medium.com/p/8a6f561510c4) |
 | Sat, 20 Sep 2025 12:29:29 GMT | Critical Security Controls Frameworks | Cyber Security Research | [Read More](https://medium.com/p/6959411a56ab) |
 | Sat, 20 Sep 2025 12:29:19 GMT | Effortless Large File Uploads to AWS S3 with Laravel & JavaScript | Gagandeep Singh | [Read More](https://medium.com/p/ea68b470c7ab) |
-| Sat, 20 Sep 2025 12:28:25 GMT | Breaking into Cybersecurity: Top Certifications That Got Me Started | Abdullateef Hameed | [Read More](https://medium.com/p/52575c6c4248) |
-| Sat, 20 Sep 2025 12:26:44 GMT | A Short History of AI: From Turing to Transformers | Mike | [Read More](https://medium.com/p/25741bcdb002) |
-| Sat, 20 Sep 2025 12:22:10 GMT | The Role of CISOs in Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/6bdac6e94ac4) |
-| Sat, 20 Sep 2025 12:15:24 GMT | Top 10 Cybersecurity Awareness Strategies: A Comprehensive Guide for Businesses | Craw Cyber Security | [Read More](https://medium.com/p/d2be4246992f) |
-| Sat, 20 Sep 2025 12:10:11 GMT | DockerLabs Writeup — Domain (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/900f412f5078) |
-| Sat, 20 Sep 2025 11:54:22 GMT | TryHackMe — TechSupp0rt1 Walkthrough - Full Step-by-Step Guide | Death Esther | [Read More](https://medium.com/p/db0758109ad9) |
-| Sat, 20 Sep 2025 11:48:17 GMT | NotPetya (2017): A Global Cyberattack That Shattered Businesses Overnight | Shraddhakaveri H | [Read More](https://medium.com/p/8241e4d3b05f) |
-| Sat, 20 Sep 2025 11:44:47 GMT | The Great Pivot: How H-1B Changes and Outsourcing Tariffs Could Reshape India-US Tech Relations | Mahak Goyal | [Read More](https://medium.com/p/42bded280b54) |
-| Sat, 20 Sep 2025 11:43:07 GMT | The Drone That Gave Away Its Secrets! | Pipeline | [Read More](https://medium.com/p/47a322549ad4) |
