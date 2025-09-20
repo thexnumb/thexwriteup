@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 23:15:44 GMT | The CIA of Cybersecurity | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/7076bd04ee2c) |
+| Sat, 20 Sep 2025 23:04:36 GMT | Hack the Box Explore CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/8488eb1bf71e) |
+| Sat, 20 Sep 2025 22:52:34 GMT | “API — Mass Assignment” challenge | oussama | [Read More](https://medium.com/p/33a4cc8b2c26) |
+| Sat, 20 Sep 2025 22:38:58 GMT | IEEE ManSB CTF 2025 — DFIR writeup | Loay Salah | [Read More](https://medium.com/p/3b49a1afe7f6) |
 | Sat, 20 Sep 2025 22:27:31 GMT | Quishing: The QR Code Threat Everyone Is Ignoring | Samriddhi | [Read More](https://medium.com/p/f03abf17a34a) |
 | Sat, 20 Sep 2025 22:09:54 GMT | RootMe CTF Walkthrough — TryHackMe | Kumari Amita Kishore | [Read More](https://medium.com/p/3a78a71a9f0a) |
 | Sat, 20 Sep 2025 21:52:48 GMT | Hack the Box — Access — WriteUp | Emre A. | [Read More](https://medium.com/p/da15693a4285) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 15:14:24 GMT | AI Won’t Replace You. But If You Don’t Evolve, Someone Who Knows AI Will. | Vijay Kumar Gupta | [Read More](https://medium.com/p/e5053ced8fea) |
 | Sat, 20 Sep 2025 15:14:02 GMT | Windows Run Keys — What They Are and Why They Matter | Allen Ace | [Read More](https://medium.com/p/c488306dbd0e) |
 | Sat, 20 Sep 2025 15:09:57 GMT | HTB Fluffy Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/96703a596d54) |
-| Sat, 20 Sep 2025 15:09:00 GMT | 6 Common Wi-Fi Attacks Every Cybersecurity Professional Must Know | Genrunic | [Read More](https://medium.com/p/ae2f4426abc4) |
-| Sat, 20 Sep 2025 15:04:57 GMT | Security as a Culture: Why It’s Everyone’s Job | Ajay Monga | [Read More](https://medium.com/p/6a737f143df0) |
-| Sat, 20 Sep 2025 14:47:45 GMT | TryHackMe #34 - John the Ripper: The Basics | 0xGroot | [Read More](https://medium.com/p/b8be01c665ce) |
-| Sat, 20 Sep 2025 14:42:19 GMT | ⚡ Fast, But Safe: How to Secure Caches Without Sacrificing Performance | Chaos To Clarity | [Read More](https://medium.com/p/a53858ee18ec) |
