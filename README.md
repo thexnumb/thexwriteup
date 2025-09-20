@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 04:07:04 GMT | ️ Why I Built My Own Cybersecurity Lab (Cyber Range) | Meet Patel | [Read More](https://medium.com/p/6b21699ed730) |
+| Sat, 20 Sep 2025 04:06:08 GMT | “AI for Daily Nudging: How Micro-Behavior Recommendations Are Transforming Health, Finance &… | Tarush Sharma | [Read More](https://medium.com/p/5fc69aae5c17) |
+| Sat, 20 Sep 2025 04:05:51 GMT | The Right Way to Upload Files to S3 from a Serverless Backend | Sazzadur Rahman | [Read More](https://medium.com/p/613c7b19bf82) |
+| Sat, 20 Sep 2025 03:55:46 GMT | Secure Coding Practices in Go and How Attackers Exploit Them | Aris Haryanto | [Read More](https://medium.com/p/a6485f62a420) |
+| Sat, 20 Sep 2025 03:48:36 GMT | The WEP Autopsy: Why Wi-Fi’s First Guardian Failed & How to Crack It (Full Lab Guide) LAB-3 | Biplove Yadav | [Read More](https://medium.com/p/6fdf56844736) |
 | Sat, 20 Sep 2025 03:40:43 GMT | OWASP Juice Shop: Broken Access Control — View Basket | Risskian | [Read More](https://medium.com/p/a7cc37a108ca) |
 | Sat, 20 Sep 2025 03:37:45 GMT | The VPN Industry Is the Biggest Fraud in Cybersecurity | Logic Over Latte | [Read More](https://medium.com/p/fe10c3716761) |
 | Sat, 20 Sep 2025 03:31:46 GMT | Understanding the Basics of Cyber Security | Talent Bridge | [Read More](https://medium.com/p/ee5bf998e5d7) |
@@ -108,8 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 18:13:52 GMT | School Safety, Upgraded: How AI Cameras Help Keep Students and Staff Protected | Tec-Tel Communications | [Read More](https://medium.com/p/b5a0c962df41) |
 | Fri, 19 Sep 2025 18:12:19 GMT | Deep Web: O Lado Oculto da Internet que Poucos Conhecem | Cantinho Binário | [Read More](https://medium.com/p/eaa90b6a734d) |
 | Fri, 19 Sep 2025 18:07:53 GMT | Day 4 — Password Cracking Essentials: John the Ripper & Hashcat | OxErvin | [Read More](https://medium.com/p/3348cdb2a01d) |
-| Fri, 19 Sep 2025 18:07:37 GMT | Zeek “Exercises” [SOC] — writeup #5 | D4m.sh | [Read More](https://medium.com/p/8de8aaef43b6) |
-| Fri, 19 Sep 2025 18:05:26 GMT | eBPF and Security — Watching Over the Kernel | Samiksha Khadka | [Read More](https://medium.com/p/9e8c24e7dac5) |
-| Fri, 19 Sep 2025 18:04:23 GMT | When AI and Robotics Know Too Much: Why You Can’t Give Away Everything | Pitt Tech | [Read More](https://medium.com/p/ea9e246062f0) |
-| Fri, 19 Sep 2025 17:58:27 GMT | Phishing’s Frankenstein: QR-Based BiTM | Ashley Dai | [Read More](https://medium.com/p/cace1b6143da) |
-| Fri, 19 Sep 2025 17:58:12 GMT | Chaining Vulnerabilities - Tryhackme | Aaron | [Read More](https://medium.com/p/9e2ab6d5da5b) |
