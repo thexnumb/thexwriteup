@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sat, 20 Sep 2025 18:21:42 GMT | Threat Modeling Methodologies | Cyber Security Research | [Read More](https://medium.com/p/5d20a889c1b6) |
+| Sat, 20 Sep 2025 18:19:52 GMT | SOAR as a Dating App | Serhan Eraslan | [Read More](https://medium.com/p/efccab01e7ef) |
 | Sat, 20 Sep 2025 18:15:51 GMT | Cybersecurity for Autonomous Vehicles | Cyber Security Research | [Read More](https://medium.com/p/06647af263a0) |
 | Sat, 20 Sep 2025 18:13:26 GMT | Mastering Vulnerability Scanning: A Deep Dive into vuln-checker 0.5.2 | Skm248 | [Read More](https://medium.com/p/471d8cddb5c0) |
 | Sat, 20 Sep 2025 18:11:58 GMT | How to create Cyber Security Culture in your company ? 3 best models to use it. | Dziugas John Vaisvila | [Read More](https://medium.com/p/5c7c4c2b5e87) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 11:48:17 GMT | NotPetya (2017): A Global Cyberattack That Shattered Businesses Overnight | Shraddhakaveri H | [Read More](https://medium.com/p/8241e4d3b05f) |
 | Sat, 20 Sep 2025 11:44:47 GMT | The Great Pivot: How H-1B Changes and Outsourcing Tariffs Could Reshape India-US Tech Relations | Mahak Goyal | [Read More](https://medium.com/p/42bded280b54) |
 | Sat, 20 Sep 2025 11:43:07 GMT | The Drone That Gave Away Its Secrets! | Pipeline | [Read More](https://medium.com/p/47a322549ad4) |
-| Sat, 20 Sep 2025 11:42:42 GMT | Dependency Confusion: The Supply Chain Attack You Probably Didn’t See Coming | Vaishnav Gnair | [Read More](https://medium.com/p/ef028fc1cae0) |
