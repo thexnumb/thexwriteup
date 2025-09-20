@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 20:26:44 GMT | Cisco Catalyst 3560V1 Firmware Yedeklemesi-Güncellemesi ve Wireshark Analizi | Hakan ÇEVİK | [Read More](https://medium.com/p/b88f13210839) |
+| Sat, 20 Sep 2025 20:20:40 GMT | Guide to Security Governance | Jeffery Moore | [Read More](https://medium.com/p/e9c3fd18214e) |
 | Sat, 20 Sep 2025 20:13:14 GMT | Introducing Wazuh SCA & Vulnerability Overview Dashboards in CoPilot | SOCFortress | [Read More](https://medium.com/p/44e1968d0734) |
 | Sat, 20 Sep 2025 20:12:39 GMT | TryHackMe — Road Writeup | Mazenalbaz | [Read More](https://medium.com/p/78de993142f8) |
 | Sat, 20 Sep 2025 20:11:16 GMT | From Queries to Visuals: Day 8 of My Cybersecurity Challenge | Garv Kamra | [Read More](https://medium.com/p/9f01d8cbe4c0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 14:06:26 GMT | This Is Where the Internet Lives | Shahzaib | [Read More](https://medium.com/p/c6f59910a37f) |
 | Sat, 20 Sep 2025 13:59:43 GMT | The Emergence of Cybersecurity in the Era of AI: How Companies can remain on Top of an… | Sehar Gull | [Read More](https://medium.com/p/aad306cc5c80) |
 | Sat, 20 Sep 2025 13:59:00 GMT | Cybersecurity Through the Lens of Object-Oriented Programming | Wajiullah | [Read More](https://medium.com/p/645ce8ee7e89) |
-| Sat, 20 Sep 2025 13:49:55 GMT | The complete guide to LLM security: from jailbreaks to Enterprise defense | Nicolasseverino | [Read More](https://medium.com/p/7861178048fc) |
-| Sat, 20 Sep 2025 13:48:35 GMT | System Binary Search | Cahyoadi | [Read More](https://medium.com/p/f8870a417a89) |
