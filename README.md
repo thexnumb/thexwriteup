@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 05:26:39 GMT | Sample Blog | Rhiannon Williams | [Read More](https://medium.com/p/cf05bd67ec18) |
+| Sat, 20 Sep 2025 05:20:57 GMT | You’re Not a Man, You’re a Statue: Why Your Pride Is a Coffin | Randhir Jha | [Read More](https://medium.com/p/887a63356aaf) |
+| Sat, 20 Sep 2025 05:16:56 GMT | Best Security Cameras for Austin Construction | Birdseyesurveillancetx | [Read More](https://medium.com/p/efe58b67003f) |
 | Sat, 20 Sep 2025 05:09:03 GMT | Supply Chain Attacks Are the New Ransomware — Here’s Why | Paritosh | [Read More](https://medium.com/p/914050b26161) |
 | Sat, 20 Sep 2025 05:02:48 GMT | PHP Secrets Management Tricks That Don’t Rely on Vaults | Asian Digital Hub | [Read More](https://medium.com/p/63bb76393d73) |
 | Sat, 20 Sep 2025 05:01:16 GMT | Tips for Building PHP Apps With Tamper-Proof Event Logs | Asian Digital Hub | [Read More](https://medium.com/p/d6f017658c52) |
@@ -110,6 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 18:40:34 GMT | Exploiting Remote code execution via polygot web shell upload | Cybernerddd | [Read More](https://medium.com/p/7dd574751f3b) |
 | Fri, 19 Sep 2025 18:38:47 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/1627f6c92d4a) |
 | Fri, 19 Sep 2025 18:36:46 GMT | Unlock Your Career: A Comprehensive Guide to a Diploma in Ethical Hacking and Cybersecurity | Nitin Singh | [Read More](https://medium.com/p/9ba90dbcae53) |
-| Fri, 19 Sep 2025 18:31:44 GMT | Smishing: The Text Message Scam That Can Bankrupt You | Cyberkech | [Read More](https://medium.com/p/c8d24cf9d96a) |
-| Fri, 19 Sep 2025 18:31:35 GMT | Microsoft’s Cloud-First Strategy and Data Privacy | Yusuf Talha ARABACI | [Read More](https://medium.com/p/98d85c6cb860) |
-| Fri, 19 Sep 2025 18:28:51 GMT | VIP Event Security Services UK — Elite Protection & Seamless Coordination | waeventservices.co.uk/ | [Read More](https://medium.com/p/4aeec6905160) |
