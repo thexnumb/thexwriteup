@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 14:06:26 GMT | This Is Where the Internet Lives | Shahzaib | [Read More](https://medium.com/p/c6f59910a37f) |
+| Sat, 20 Sep 2025 13:59:43 GMT | The Emergence of Cybersecurity in the Era of AI: How Companies can remain on Top of an… | Sehar Gull | [Read More](https://medium.com/p/aad306cc5c80) |
+| Sat, 20 Sep 2025 13:59:00 GMT | Cybersecurity Through the Lens of Object-Oriented Programming | Wajiullah | [Read More](https://medium.com/p/645ce8ee7e89) |
+| Sat, 20 Sep 2025 13:49:55 GMT | The complete guide to LLM security: from jailbreaks to Enterprise defense | Nicolasseverino | [Read More](https://medium.com/p/7861178048fc) |
+| Sat, 20 Sep 2025 13:48:35 GMT | System Binary Search | Cahyoadi | [Read More](https://medium.com/p/f8870a417a89) |
+| Sat, 20 Sep 2025 13:41:07 GMT | BobaCat Migration | Slerf coin | [Read More](https://medium.com/p/bc41145cd421) |
+| Sat, 20 Sep 2025 13:38:49 GMT | Bandit Walkthrough Level 3 → Level 4 | Hardik Ghuge | [Read More](https://medium.com/p/2ecf6d353367) |
+| Sat, 20 Sep 2025 13:37:44 GMT | When Microsoft Copilot Went Silent: A Conversation with Zack Korman | cybergriotz | [Read More](https://medium.com/p/339ec71c27d4) |
+| Sat, 20 Sep 2025 13:31:38 GMT | The book begins by introducing the unusual Tuvache family and their business: The Suicide Shop. | hannaneh._.lorpour | [Read More](https://medium.com/p/e3675635100d) |
 | Sat, 20 Sep 2025 13:19:09 GMT | El orden se convierte en poder. | Javier Treviño | [Read More](https://medium.com/p/d5d7ebf6a483) |
 | Sat, 20 Sep 2025 13:16:44 GMT | Critical Microsoft SMB Vulnerability - CVE-2025–55234 Explained | Motasem Hamdan | [Read More](https://medium.com/p/6e346db4cc96) |
 | Sat, 20 Sep 2025 12:55:44 GMT | Become an Expert with USCSI® Cybersecurity Certifications in 2026 | Lucia Adams | [Read More](https://medium.com/p/039b0b90a5cd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 06:34:19 GMT | FortiGate SSL VPN | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/ada51ab0d83f) |
 | Sat, 20 Sep 2025 06:29:35 GMT | Day 60- How email security gaps lead to false positives and false negatives with a real world case… | unica 02 | [Read More](https://medium.com/p/607abf709651) |
 | Sat, 20 Sep 2025 06:28:58 GMT | Best Managed VPS Hosting Providers in 2025 for Performance and Security | Ann Taylor | [Read More](https://medium.com/p/2759f84eee0a) |
-| Sat, 20 Sep 2025 06:28:23 GMT | The Windows Concept Journey — PC Health Check | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5e0edc4b8c7d) |
-| Sat, 20 Sep 2025 06:24:01 GMT | What Is Hacking Really? Breaking the Myths and Movies | Aj | [Read More](https://medium.com/p/198ca6b8c7b7) |
-| Sat, 20 Sep 2025 06:13:00 GMT | Tuning containerd Snapshotters for Real-World Performance | Hex Shift | [Read More](https://medium.com/p/86bb10ba74f3) |
-| Sat, 20 Sep 2025 06:04:46 GMT | Need to Learn Data Packet Analysis For Cybersecurity? Here’s How To Learn It Fast. (And free) | LM Calvert | [Read More](https://medium.com/p/ea17e3c4e629) |
-| Sat, 20 Sep 2025 06:04:40 GMT | Changing the Dynamics Around Cybersecurity Awareness | JC Gaillard | [Read More](https://medium.com/p/e3a44eabb2e6) |
-| Sat, 20 Sep 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Sep 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7534561dec8d) |
-| Sat, 20 Sep 2025 06:00:20 GMT | Why Small Businesses Are the #1 Target for Hackers in 2025 | Pynesec | [Read More](https://medium.com/p/868d65ea1a24) |
-| Sat, 20 Sep 2025 05:55:58 GMT | Bibliography, Citations, Sources | Rhiannon Williams | [Read More](https://medium.com/p/f0954fcb4778) |
-| Sat, 20 Sep 2025 05:50:18 GMT | List of all Articles | Rhiannon Williams | [Read More](https://medium.com/p/5ddcd490761e) |
