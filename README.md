@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 15:14:02 GMT | Windows Run Keys — What They Are and Why They Matter | Allen Ace | [Read More](https://medium.com/p/c488306dbd0e) |
+| Sat, 20 Sep 2025 15:09:57 GMT | HTB Fluffy Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/96703a596d54) |
+| Sat, 20 Sep 2025 15:09:00 GMT | 6 Common Wi-Fi Attacks Every Cybersecurity Professional Must Know | Genrunic | [Read More](https://medium.com/p/ae2f4426abc4) |
+| Sat, 20 Sep 2025 15:04:57 GMT | Security as a Culture: Why It’s Everyone’s Job | Ajay Monga | [Read More](https://medium.com/p/6a737f143df0) |
+| Sat, 20 Sep 2025 14:47:45 GMT | TryHackMe #34 - John the Ripper: The Basics | 0xGroot | [Read More](https://medium.com/p/b8be01c665ce) |
+| Sat, 20 Sep 2025 14:42:19 GMT | ⚡ Fast, But Safe: How to Secure Caches Without Sacrificing Performance | Chaos To Clarity | [Read More](https://medium.com/p/a53858ee18ec) |
+| Sat, 20 Sep 2025 14:41:46 GMT | TryHackMe #33 - Hashing Basics | 0xGroot | [Read More](https://medium.com/p/a52947416c35) |
+| Sat, 20 Sep 2025 14:36:01 GMT | TryHackMe #32 - Public Key Cryptography Basics | 0xGroot | [Read More](https://medium.com/p/ce783729da11) |
+| Sat, 20 Sep 2025 14:32:32 GMT | Ready to go from cloud enthusiast to cloud security PRO? ️ | Morteza saberikamarposhti | [Read More](https://medium.com/p/5fd3a792a557) |
+| Sat, 20 Sep 2025 14:31:47 GMT | 10 Codex Backend Prompts That Just Work | Bhagya Rana | [Read More](https://medium.com/p/e7b5c6924e00) |
+| Sat, 20 Sep 2025 14:31:47 GMT | TryHackMe #31 - Cryptography Basics | 0xGroot | [Read More](https://medium.com/p/4dc260bd8934) |
 | Sat, 20 Sep 2025 14:25:38 GMT | Monero Under Attack: How the Community Responds to Selfish Mining Attacks | @EddieOz | [Read More](https://medium.com/p/f25aae8e7d3d) |
+| Sat, 20 Sep 2025 14:25:32 GMT | Lose Millions If You Ignore These 6 AI Security Threats | Pur4v | [Read More](https://medium.com/p/feda1dc1da98) |
+| Sat, 20 Sep 2025 14:25:11 GMT | What’s CORS? - Connecting with Frontend (I)- Spring Boot Learning Day 20- 0.2% | Kenuka Karunakaran | [Read More](https://medium.com/p/c9a453ec92cf) |
 | Sat, 20 Sep 2025 14:23:58 GMT | Kerentanan Information Sensitive/disclosure (git exposure) pada Website Mabes TNI | alfarisyx | [Read More](https://medium.com/p/479ca4d067e3) |
 | Sat, 20 Sep 2025 14:06:26 GMT | This Is Where the Internet Lives | Shahzaib | [Read More](https://medium.com/p/c6f59910a37f) |
 | Sat, 20 Sep 2025 13:59:43 GMT | The Emergence of Cybersecurity in the Era of AI: How Companies can remain on Top of an… | Sehar Gull | [Read More](https://medium.com/p/aad306cc5c80) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 07:54:23 GMT | Cheapest VPS for Bug Bounty & Pentesting | Saumadip Mandal | [Read More](https://medium.com/p/fc6686572ee3) |
 | Sat, 20 Sep 2025 07:51:29 GMT | Cortex XSOAR Incident Case Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/fd25ab7e6991) |
 | Sat, 20 Sep 2025 07:41:26 GMT | How i Bypass Subscription Limits by race condition vulnerability | Abhishek sharma | [Read More](https://medium.com/p/cecfaacd07e7) |
-| Sat, 20 Sep 2025 07:38:03 GMT | New iPhone? Move All Your Contacts Fast | Tsumit | [Read More](https://medium.com/p/f9b2126e1702) |
-| Sat, 20 Sep 2025 07:35:59 GMT | Wazuh Active Response with Virustotal | Bishu Biswas | [Read More](https://medium.com/p/e40fa525b406) |
-| Sat, 20 Sep 2025 07:21:10 GMT | I Asked AI “Do you hate human?” And This Is The Answer What Make Me Feared | black shade | [Read More](https://medium.com/p/d53eccdaba94) |
-| Sat, 20 Sep 2025 07:14:38 GMT | Django vs FastAPI: Which Python Stack Wins? | Rizqi Mulki | [Read More](https://medium.com/p/42b6deaa778d) |
-| Sat, 20 Sep 2025 07:04:46 GMT | All Web & MISC Challenges IEEE CTF | 00xCanelo | [Read More](https://medium.com/p/8d8b9aea09e6) |
-| Sat, 20 Sep 2025 07:04:30 GMT | 5 Real SQL Injection Cases That Destroyed Businesses | Rizqi Mulki | [Read More](https://medium.com/p/b679d493f7b9) |
-| Sat, 20 Sep 2025 07:00:53 GMT | Is Shared Hosting the Biggest Scam in Web Hosting? | Rizqi Mulki | [Read More](https://medium.com/p/11f6b5c42d37) |
-| Sat, 20 Sep 2025 06:56:52 GMT | Why Do So Many Servers Crash During Viral Traffic? | Rizqi Mulki | [Read More](https://medium.com/p/f5df98d19451) |
-| Sat, 20 Sep 2025 06:50:07 GMT | Trump’s $100K Annual Fee on H-1B Visas: Overhaul, Impacts & Controversies | Techie Arbaaz | [Read More](https://medium.com/p/0b46488f99ff) |
-| Sat, 20 Sep 2025 06:45:42 GMT | The Phantom Mainainer — IEEE CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/81a062628d70) |
-| Sat, 20 Sep 2025 06:44:14 GMT | Unraveling the Mystery — IEEE CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/2847bf0d8b39) |
-| Sat, 20 Sep 2025 06:37:56 GMT | Shai-Hulud : The Self-Replicating Worm Exploiting NPM and Supply Chains | Sharat Nautiyal | [Read More](https://medium.com/p/2c8da9c1d790) |
-| Sat, 20 Sep 2025 06:34:19 GMT | FortiGate SSL VPN | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/ada51ab0d83f) |
