@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 02:20:18 GMT | Configure ECMP Load Balancing on FortiGate | DuyThanhCCIE | [Read More](https://medium.com/p/cd89b2402e1e) |
+| Sat, 20 Sep 2025 02:02:36 GMT | AS-REP Roasting | 5p1d4r | [Read More](https://medium.com/p/c0fe08052258) |
+| Sat, 20 Sep 2025 01:59:20 GMT | 22 Cybersecurity Conferences in Canada | Tal Eliyahu | [Read More](https://medium.com/p/f029e10b3c40) |
+| Sat, 20 Sep 2025 01:46:36 GMT | Penetration Testing vs Ethical Hacking: What’s the Difference? | Harbeer Singh | [Read More](https://medium.com/p/ce64ba0e52f6) |
 | Sat, 20 Sep 2025 01:07:01 GMT | TryHackMe Blue - walkthrough | be.light | [Read More](https://medium.com/p/b7092ab7427c) |
 | Sat, 20 Sep 2025 01:01:44 GMT | ⏱ Sync or Sink: How NTP Appliances Prevent IT Chaos | MARLON MUTIANGPILI | [Read More](https://medium.com/p/0edec30649b9) |
 | Sat, 20 Sep 2025 00:55:59 GMT | My CTF Polyglot File Story | Zulfianarahmi | [Read More](https://medium.com/p/87eee03c1dd8) |
@@ -109,7 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 17:34:08 GMT | Adding Intelligence to the Firewalls | Samratthsingh | [Read More](https://medium.com/p/18e30b422beb) |
 | Fri, 19 Sep 2025 17:33:20 GMT | ⚠️ The NewJeans Hack - What Can We Uncover | R4shSec | [Read More](https://medium.com/p/677e4cd398b0) |
 | Fri, 19 Sep 2025 17:30:15 GMT | 5 Easy Cybersecurity Tasks That Can Pay Your Rent | vydhi | [Read More](https://medium.com/p/159432b2d71a) |
-| Fri, 19 Sep 2025 17:29:19 GMT | Why I Moved My Home Lab from VMware to KVM + Cockpit | Sreeraj K | [Read More](https://medium.com/p/91505a167e45) |
-| Fri, 19 Sep 2025 17:25:26 GMT | When Reading Wasn’t Enough: My First Encounter With a Real Cyber Threat | Shahzaib | [Read More](https://medium.com/p/09918ed21fbf) |
-| Fri, 19 Sep 2025 17:19:21 GMT | The Unseen Cyber Wars — Told by 4 Must-Read Books | Aj | [Read More](https://medium.com/p/20a3c3bcbb09) |
-| Fri, 19 Sep 2025 17:12:08 GMT | CVE-2025–57833 - Potential SQL Injection via FilteredRelation Aliases in Django | Yunus Olçar | [Read More](https://medium.com/p/1470fccab153) |
