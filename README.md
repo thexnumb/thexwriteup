@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 22:27:31 GMT | Quishing: The QR Code Threat Everyone Is Ignoring | Samriddhi | [Read More](https://medium.com/p/f03abf17a34a) |
 | Sat, 20 Sep 2025 22:09:54 GMT | RootMe CTF Walkthrough — TryHackMe | Kumari Amita Kishore | [Read More](https://medium.com/p/3a78a71a9f0a) |
 | Sat, 20 Sep 2025 21:52:48 GMT | Hack the Box — Access — WriteUp | Emre A. | [Read More](https://medium.com/p/da15693a4285) |
 | Sat, 20 Sep 2025 21:51:32 GMT | Technical Write-Up: Identifying the Root Cause of a Sophisticated System Attack using Microsoft… | Sarah Beth Thompson | [Read More](https://medium.com/p/ae67bdfeccd1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 15:04:57 GMT | Security as a Culture: Why It’s Everyone’s Job | Ajay Monga | [Read More](https://medium.com/p/6a737f143df0) |
 | Sat, 20 Sep 2025 14:47:45 GMT | TryHackMe #34 - John the Ripper: The Basics | 0xGroot | [Read More](https://medium.com/p/b8be01c665ce) |
 | Sat, 20 Sep 2025 14:42:19 GMT | ⚡ Fast, But Safe: How to Secure Caches Without Sacrificing Performance | Chaos To Clarity | [Read More](https://medium.com/p/a53858ee18ec) |
-| Sat, 20 Sep 2025 14:41:46 GMT | TryHackMe #33 - Hashing Basics | 0xGroot | [Read More](https://medium.com/p/a52947416c35) |
