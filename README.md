@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 20:13:14 GMT | Introducing Wazuh SCA & Vulnerability Overview Dashboards in CoPilot | SOCFortress | [Read More](https://medium.com/p/44e1968d0734) |
+| Sat, 20 Sep 2025 20:12:39 GMT | TryHackMe — Road Writeup | Mazenalbaz | [Read More](https://medium.com/p/78de993142f8) |
+| Sat, 20 Sep 2025 20:11:16 GMT | From Queries to Visuals: Day 8 of My Cybersecurity Challenge | Garv Kamra | [Read More](https://medium.com/p/9f01d8cbe4c0) |
+| Sat, 20 Sep 2025 20:06:40 GMT | 2025 Target Cyber Defense Challenge: When All Exits Are Blocked, Go Underground | Aeronique | [Read More](https://medium.com/p/3b0dd997cf09) |
+| Sat, 20 Sep 2025 19:57:34 GMT | The AAA Framework: How Cybersecurity Decides Who Gets In (and What They Do) | Sruthi Punugu | [Read More](https://medium.com/p/f543758ddb38) |
+| Sat, 20 Sep 2025 19:56:51 GMT | LUCIFER’S GHOST | Ghost | [Read More](https://medium.com/p/b092a1a67851) |
+| Sat, 20 Sep 2025 19:52:35 GMT | When Life’s a Mess You Can’t Quite Untangle | rain | [Read More](https://medium.com/p/00d8696bd0cb) |
+| Sat, 20 Sep 2025 19:41:07 GMT | ShieldPoint: Turning Cybersecurity Policies Into Actionable Awareness | Akesh Chandrasiri | [Read More](https://medium.com/p/49756766f476) |
+| Sat, 20 Sep 2025 19:35:46 GMT | Python Developers Beware: These Innocent PyPI Packages Secretly Hijack Your System with Deadly RAT! | cybrNK | [Read More](https://medium.com/p/e46bc5a77b5b) |
 | Sat, 20 Sep 2025 19:27:23 GMT | The accidental fortress. | New Internet Media | [Read More](https://medium.com/p/3f40f1832032) |
 | Sat, 20 Sep 2025 19:26:52 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/a2cf291d493b) |
 | Sat, 20 Sep 2025 19:21:12 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/f58fa698fe82) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 13:59:00 GMT | Cybersecurity Through the Lens of Object-Oriented Programming | Wajiullah | [Read More](https://medium.com/p/645ce8ee7e89) |
 | Sat, 20 Sep 2025 13:49:55 GMT | The complete guide to LLM security: from jailbreaks to Enterprise defense | Nicolasseverino | [Read More](https://medium.com/p/7861178048fc) |
 | Sat, 20 Sep 2025 13:48:35 GMT | System Binary Search | Cahyoadi | [Read More](https://medium.com/p/f8870a417a89) |
-| Sat, 20 Sep 2025 13:41:07 GMT | BobaCat Migration | Slerf coin | [Read More](https://medium.com/p/bc41145cd421) |
-| Sat, 20 Sep 2025 13:38:49 GMT | Bandit Walkthrough Level 3 → Level 4 | Hardik Ghuge | [Read More](https://medium.com/p/2ecf6d353367) |
-| Sat, 20 Sep 2025 13:37:44 GMT | When Microsoft Copilot Went Silent: A Conversation with Zack Korman | cybergriotz | [Read More](https://medium.com/p/339ec71c27d4) |
-| Sat, 20 Sep 2025 13:31:38 GMT | The book begins by introducing the unusual Tuvache family and their business: The Suicide Shop. | hannaneh._.lorpour | [Read More](https://medium.com/p/e3675635100d) |
-| Sat, 20 Sep 2025 13:19:09 GMT | El orden se convierte en poder. | Javier Treviño | [Read More](https://medium.com/p/d5d7ebf6a483) |
-| Sat, 20 Sep 2025 13:16:44 GMT | Critical Microsoft SMB Vulnerability - CVE-2025–55234 Explained | Motasem Hamdan | [Read More](https://medium.com/p/6e346db4cc96) |
-| Sat, 20 Sep 2025 12:55:44 GMT | Become an Expert with USCSI® Cybersecurity Certifications in 2026 | Lucia Adams | [Read More](https://medium.com/p/039b0b90a5cd) |
-| Sat, 20 Sep 2025 12:50:53 GMT | The Vulnerability Chronicles: When Staff Has Time to Lean, They have Time to be Mean | DamnAmazon | [Read More](https://medium.com/p/70877194b8d8) |
-| Sat, 20 Sep 2025 12:44:52 GMT | Cyber Attack Causes Delays at Heathrow and Other European Airports | Mr Orion | [Read More](https://medium.com/p/01fd4a59f7b2) |
