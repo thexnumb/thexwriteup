@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 21:22:47 GMT | Cybersecurity Career Paths: From Beginner to CISO, GRC, or CTO | Digital & Spiritual | [Read More](https://medium.com/p/391d82f4f70b) |
 | Sat, 20 Sep 2025 21:13:10 GMT | Buffer Overflow: An Introduction to One of the Oldest Yet Deadliest Exploits | Beri Contraster | [Read More](https://medium.com/p/6d133685c3e7) |
 | Sat, 20 Sep 2025 21:09:27 GMT | The Bone Orchard Pact | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/2b875c14d81d) |
 | Sat, 20 Sep 2025 21:07:46 GMT | I Found A Security Flaw Just By Reading JavaScript Files | Ibtissam hammadi | [Read More](https://medium.com/p/71c0be5b28d5) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 14:25:38 GMT | Monero Under Attack: How the Community Responds to Selfish Mining Attacks | @EddieOz | [Read More](https://medium.com/p/f25aae8e7d3d) |
 | Sat, 20 Sep 2025 14:25:32 GMT | Lose Millions If You Ignore These 6 AI Security Threats | Pur4v | [Read More](https://medium.com/p/feda1dc1da98) |
 | Sat, 20 Sep 2025 14:25:11 GMT | What’s CORS? - Connecting with Frontend (I)- Spring Boot Learning Day 20- 0.2% | Kenuka Karunakaran | [Read More](https://medium.com/p/c9a453ec92cf) |
-| Sat, 20 Sep 2025 14:23:58 GMT | Kerentanan Information Sensitive/disclosure (git exposure) pada Website Mabes TNI | alfarisyx | [Read More](https://medium.com/p/479ca4d067e3) |
