@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 01:07:01 GMT | TryHackMe Blue - walkthrough | be.light | [Read More](https://medium.com/p/b7092ab7427c) |
+| Sat, 20 Sep 2025 01:01:44 GMT | ⏱ Sync or Sink: How NTP Appliances Prevent IT Chaos | MARLON MUTIANGPILI | [Read More](https://medium.com/p/0edec30649b9) |
+| Sat, 20 Sep 2025 00:55:59 GMT | My CTF Polyglot File Story | Zulfianarahmi | [Read More](https://medium.com/p/87eee03c1dd8) |
+| Sat, 20 Sep 2025 00:31:19 GMT | New AI attack uses hidden prompts in images to steal user data | Shubham Kumar | [Read More](https://medium.com/p/38cf789ecfdc) |
+| Sat, 20 Sep 2025 00:28:40 GMT | The world is flawed, I knew that yet I never could accept it . | Storiews | [Read More](https://medium.com/p/c3d9b3b42eb5) |
+| Sat, 20 Sep 2025 00:25:44 GMT | How to use FindAnyFil3 & why | Snooptsz | [Read More](https://medium.com/p/eb7654d0f19d) |
+| Sat, 20 Sep 2025 00:24:02 GMT | How I got access into National Testing Agency(NTA) and Achieved Full Database Access | ARoy | [Read More](https://medium.com/p/86f8695f61c6) |
+| Sat, 20 Sep 2025 00:01:47 GMT | Master WPScan in Bug Bounty: Essential Guide to Vulnerability Scanning | JPablo13 | [Read More](https://medium.com/p/6c68a4a19b3a) |
+| Sat, 20 Sep 2025 00:00:52 GMT | Why Security Due Diligence is the Silent Killer of SaaS Sales | Zenks | [Read More](https://medium.com/p/3980ca0d4fb9) |
+| Fri, 19 Sep 2025 23:48:02 GMT | Introducing AppsIndex.db: New Windows 11 Artifact for Tracking Start Menu Application Execution | thedigitaldetective | [Read More](https://medium.com/p/b294c8e764fa) |
+| Fri, 19 Sep 2025 23:41:36 GMT | Cybersecurity News Review — Week 38 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/8b7e8bb563a1) |
+| Fri, 19 Sep 2025 23:23:20 GMT | CyberDefenders — Memory Forensic Labs Part 1 | Jaws | [Read More](https://medium.com/p/8f264a05ad78) |
 | Fri, 19 Sep 2025 23:17:32 GMT | What is the difference between TP / TN / FP / FN and Noise in SOC? | BnHany | [Read More](https://medium.com/p/e5305e2d4a57) |
 | Fri, 19 Sep 2025 23:16:54 GMT | Brave vs Firefox (2025): Straight Talk on Privacy, Speed & The Best Secure Browser | Ghulam Mohiuddin | [Read More](https://medium.com/p/6a6b65863628) |
 | Fri, 19 Sep 2025 23:14:02 GMT | TLDR; The Online Safety Act | Its Not Nicole | [Read More](https://medium.com/p/085aca328d88) |
@@ -101,15 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 17:25:26 GMT | When Reading Wasn’t Enough: My First Encounter With a Real Cyber Threat | Shahzaib | [Read More](https://medium.com/p/09918ed21fbf) |
 | Fri, 19 Sep 2025 17:19:21 GMT | The Unseen Cyber Wars — Told by 4 Must-Read Books | Aj | [Read More](https://medium.com/p/20a3c3bcbb09) |
 | Fri, 19 Sep 2025 17:12:08 GMT | CVE-2025–57833 - Potential SQL Injection via FilteredRelation Aliases in Django | Yunus Olçar | [Read More](https://medium.com/p/1470fccab153) |
-| Fri, 19 Sep 2025 17:11:40 GMT | MCP vs Select AI in Oracle’s Ecosystem: Competition or Complement? | Cristina Varas Menadas | [Read More](https://medium.com/p/7de07f342d0c) |
-| Fri, 19 Sep 2025 17:11:31 GMT | Suspicious Domain: Alex Morgan’s Online Reviews Campaign ctf | adce626 | [Read More](https://medium.com/p/0765eede8bef) |
-| Fri, 19 Sep 2025 17:09:49 GMT | The God Mode Vulnerability That Should Kill “Trust Microsoft” Forever | Tide Foundation | [Read More](https://medium.com/p/f83b8fe6e909) |
-| Fri, 19 Sep 2025 17:02:54 GMT | 用比喻看Subnet 和 Segment 分別 | 思維舞步 MindSteps,  Choreographed by Alex | [Read More](https://medium.com/p/4e279db9ea5e) |
-| Fri, 19 Sep 2025 17:01:46 GMT | Bug Bounty Bootcamp — Chapter 4 | C. Oscar Lawshea | [Read More](https://medium.com/p/653b232a34d6) |
-| Fri, 19 Sep 2025 17:01:46 GMT | What Is SOX Compliance and How to Make Sure You’re Cloud Compliant | Josh Lee | [Read More](https://medium.com/p/fcb5fdb6b472) |
-| Fri, 19 Sep 2025 16:53:15 GMT | Top 7 DMARC Providers for Enterprise & Mid-market email authentication and enforcement (2025) | Red Sift | [Read More](https://medium.com/p/6afd9dd652dd) |
-| Fri, 19 Sep 2025 16:49:59 GMT | Social Media Investigation Hub: My OSINT Journey with hack the box | adce626 | [Read More](https://medium.com/p/48e7b957312c) |
-| Fri, 19 Sep 2025 16:47:54 GMT | The Day I Finally Mastered Python Decorators | Kainat Nafees | [Read More](https://medium.com/p/8f25899eef43) |
-| Fri, 19 Sep 2025 16:46:42 GMT | The Ultimate Cybersecurity Command Line Cheat Sheet | eRRoR | [Read More](https://medium.com/p/4c98d71d990d) |
-| Fri, 19 Sep 2025 16:43:48 GMT | 3 months of self-taught ethical hacking — progress update | Abdullah Mina | [Read More](https://medium.com/p/857c0d557381) |
-| Fri, 19 Sep 2025 16:42:00 GMT | Assessment Methodologies: Enumeration CTF 1 | Xnirkun | [Read More](https://medium.com/p/7fb372c84055) |
