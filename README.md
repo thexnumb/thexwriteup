@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 15:25:45 GMT | How I Built My Personal Ethical Hacking Lab and Started Breaking Into My Own Network | Michael Preston | [Read More](https://medium.com/p/e81c11403486) |
+| Sat, 20 Sep 2025 15:25:29 GMT | Fluffy Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/f5d460be3312) |
+| Sat, 20 Sep 2025 15:21:13 GMT | Cyber Storm Rising: Flights Grounded, Europe Exposed, More to Come | Carsten Stöcker | [Read More](https://medium.com/p/4661c2590496) |
+| Sat, 20 Sep 2025 15:18:37 GMT | How Attackers Steal Access to Your Phone: What I’ve Seen So Far | Hitesh Said | [Read More](https://medium.com/p/19e4861e2aa1) |
+| Sat, 20 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 20, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/4d11c8d589b2) |
+| Sat, 20 Sep 2025 15:14:24 GMT | AI Won’t Replace You. But If You Don’t Evolve, Someone Who Knows AI Will. | Vijay Kumar Gupta | [Read More](https://medium.com/p/e5053ced8fea) |
 | Sat, 20 Sep 2025 15:14:02 GMT | Windows Run Keys — What They Are and Why They Matter | Allen Ace | [Read More](https://medium.com/p/c488306dbd0e) |
 | Sat, 20 Sep 2025 15:09:57 GMT | HTB Fluffy Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/96703a596d54) |
 | Sat, 20 Sep 2025 15:09:00 GMT | 6 Common Wi-Fi Attacks Every Cybersecurity Professional Must Know | Genrunic | [Read More](https://medium.com/p/ae2f4426abc4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 08:33:13 GMT | Day 1(20/09/25): The Art of Digital Illusion — Hunting Clickjacking Vulnerabilities | Amandogra | [Read More](https://medium.com/p/4fb772b7f919) |
 | Sat, 20 Sep 2025 08:21:44 GMT | “Upcoming Webinar: Cloud Native Automation and DevSecOps — Building Secure, Scalable Systems in… | Kazeem mohammed | [Read More](https://medium.com/p/8d85ec579de5) |
 | Sat, 20 Sep 2025 08:14:38 GMT | Why Security in Digital Payments Matters | Digitaldepartment | [Read More](https://medium.com/p/a3ad8a3b44b0) |
-| Sat, 20 Sep 2025 08:10:57 GMT | This one sentence by my mother changed my life. | Munira Hussain | [Read More](https://medium.com/p/a934e7ae6947) |
-| Sat, 20 Sep 2025 08:08:44 GMT | DRAFT - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/41a72c206cb0) |
-| Sat, 20 Sep 2025 08:03:49 GMT | HTTP vs HTTPS — Why That Extra ‘S’ is a Game-Changer | Syed Aaqib Hussain | [Read More](https://medium.com/p/32a19e7161b4) |
-| Sat, 20 Sep 2025 07:54:23 GMT | Cheapest VPS for Bug Bounty & Pentesting | Saumadip Mandal | [Read More](https://medium.com/p/fc6686572ee3) |
-| Sat, 20 Sep 2025 07:51:29 GMT | Cortex XSOAR Incident Case Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/fd25ab7e6991) |
-| Sat, 20 Sep 2025 07:41:26 GMT | How i Bypass Subscription Limits by race condition vulnerability | Abhishek sharma | [Read More](https://medium.com/p/cecfaacd07e7) |
