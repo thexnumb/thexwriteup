@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 16:08:54 GMT | Fraud. How does financial fraud persist? | Vani Agarwal | [Read More](https://medium.com/p/0407f44fc290) |
+| Sat, 20 Sep 2025 16:07:19 GMT | The Silent Killer of App Security: Broken Access Controls:An Advanced Bug Hunter’s Guide | Sh0X01 | [Read More](https://medium.com/p/faabdb8ba36b) |
+| Sat, 20 Sep 2025 16:02:09 GMT | Building My Own File Encryption Tool: A Practical Dive into AES-CTR + HMAC | Shehan_Gunathilaka | [Read More](https://medium.com/p/37d93f424c48) |
+| Sat, 20 Sep 2025 16:00:48 GMT | Generative AI: Security Risks of Prompt Engineering | Logixacademy | [Read More](https://medium.com/p/8abce07d469e) |
+| Sat, 20 Sep 2025 15:50:43 GMT | Avoiding Hidden Costs When Buying a Cheap MikroTik VPS (Bandwidth, Licenses, IPs) | John Greene | [Read More](https://medium.com/p/d1e0bf3b1267) |
+| Sat, 20 Sep 2025 15:48:30 GMT | Maximize Your Digital Wealth with BUG Strategies | BUG | [Read More](https://medium.com/p/fd14c3daa96c) |
+| Sat, 20 Sep 2025 15:44:54 GMT | OSINT (Open-Source Intelligence) 2026 | BinaryShield | [Read More](https://medium.com/p/d1bd41a06025) |
+| Sat, 20 Sep 2025 15:44:09 GMT | Unlocked Doors & Digital Dangers: Understanding Cyber Risk | Divya Priya Venkatesan | [Read More](https://medium.com/p/a550ca6d174a) |
+| Sat, 20 Sep 2025 15:41:45 GMT | What No One Admits About Healthy Love: Insecurity Never Fully Leaves | Syntax Of Us | [Read More](https://medium.com/p/682191f84e0c) |
+| Sat, 20 Sep 2025 15:41:13 GMT | PBO : Inheritance | Yasa Wijaya | [Read More](https://medium.com/p/7581e279f4e4) |
+| Sat, 20 Sep 2025 15:39:19 GMT | Why Cyber Security Matters at 30,000 Feet | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/3398f3c4efb1) |
+| Sat, 20 Sep 2025 15:30:43 GMT | The Lazy Person’s Guide to Unstoppable Drive: Embracing Vulnerability for Personal Growth | Jordan Davis | [Read More](https://medium.com/p/908d46ab6833) |
+| Sat, 20 Sep 2025 15:29:56 GMT | HackTheBox - Puppy | Hexshubz | [Read More](https://medium.com/p/2b8488c39f9b) |
+| Sat, 20 Sep 2025 15:28:04 GMT | RisingAttacK: A New Adversarial Threat That Can Control What AI Vision Systems “See” | Mustapha Aitigunaoun | [Read More](https://medium.com/p/584c8d04fceb) |
 | Sat, 20 Sep 2025 15:25:45 GMT | How I Built My Personal Ethical Hacking Lab and Started Breaking Into My Own Network | Michael Preston | [Read More](https://medium.com/p/e81c11403486) |
 | Sat, 20 Sep 2025 15:25:29 GMT | Fluffy Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/f5d460be3312) |
 | Sat, 20 Sep 2025 15:21:13 GMT | Cyber Storm Rising: Flights Grounded, Europe Exposed, More to Come | Carsten Stöcker | [Read More](https://medium.com/p/4661c2590496) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 09:11:48 GMT | Step-by-Step Guide: How to Encrypt Your Files in 2025 (Stay Safe Online) | Techlio | [Read More](https://medium.com/p/c1d90449909d) |
 | Sat, 20 Sep 2025 09:11:39 GMT | Top Information Technology Courses in Pakistan by IPEI | IPEI | [Read More](https://medium.com/p/1963ca525349) |
 | Sat, 20 Sep 2025 09:10:56 GMT | DROSERA (DEFI’S SECURITY GUARD) | Ife.10x | [Read More](https://medium.com/p/9b02060db0f7) |
-| Sat, 20 Sep 2025 09:04:42 GMT | How Do Earphones Work?(Everyday Electronics Simplified- Blog 2) | Aditya Zagade | [Read More](https://medium.com/p/6fd36b509db5) |
-| Sat, 20 Sep 2025 09:01:43 GMT | Linux Forensics: Log and Process Analysis | Esra Kayhan | [Read More](https://medium.com/p/c9f55d2c37bf) |
-| Sat, 20 Sep 2025 08:59:22 GMT | “Why I Built My Own Firewall (and What I Learned Along the Way)” | Mehmet Zeki Özkaplan | [Read More](https://medium.com/p/39888fd03b6c) |
-| Sat, 20 Sep 2025 08:57:05 GMT | Why Security Matters More Than Ever in Crypto Trading | Abdulmutiu onimisi - Onimycin | [Read More](https://medium.com/p/638babb0be33) |
-| Sat, 20 Sep 2025 08:54:57 GMT | TO BECOME A SOC EXPERT(DAY-7) | vulnhunter | [Read More](https://medium.com/p/d03b2bf9d0db) |
-| Sat, 20 Sep 2025 08:50:52 GMT | Make ServiceNow Your Identity Engine with OpenIAM | Openiam | [Read More](https://medium.com/p/e8ea68aa5549) |
-| Sat, 20 Sep 2025 08:48:19 GMT | Cybersecurity Services That Safeguard Data, Networks and Cloud Systems | Juarait Digital | [Read More](https://medium.com/p/fecf900510a9) |
-| Sat, 20 Sep 2025 08:48:02 GMT | No NTLM, No Problem: Hacking Vintage (Hard) on HackTheBox Abusing Kerberos & RBCD | Joseph Jung | [Read More](https://medium.com/p/06c006ea726d) |
-| Sat, 20 Sep 2025 08:44:19 GMT | Playing your "Dead Man's Hand" during the OSCP exam. | Seccult | [Read More](https://medium.com/p/274f1e87c310) |
-| Sat, 20 Sep 2025 08:38:49 GMT | From Certification to Implementation: Why Endpoint Admins Should Consider the Microsoft 365… | Praz Timsina | [Read More](https://medium.com/p/7f4bf24f174c) |
-| Sat, 20 Sep 2025 08:38:00 GMT | Communicating Cybersecurity risks effectively to top management using business-centric language . | Bona Karides | [Read More](https://medium.com/p/8db045d6de1f) |
-| Sat, 20 Sep 2025 08:33:13 GMT | Day 1(20/09/25): The Art of Digital Illusion — Hunting Clickjacking Vulnerabilities | Amandogra | [Read More](https://medium.com/p/4fb772b7f919) |
-| Sat, 20 Sep 2025 08:21:44 GMT | “Upcoming Webinar: Cloud Native Automation and DevSecOps — Building Secure, Scalable Systems in… | Kazeem mohammed | [Read More](https://medium.com/p/8d85ec579de5) |
-| Sat, 20 Sep 2025 08:14:38 GMT | Why Security in Digital Payments Matters | Digitaldepartment | [Read More](https://medium.com/p/a3ad8a3b44b0) |
