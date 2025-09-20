@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 03:21:54 GMT | Why Do Data Leaks Happen, and Why Is Safe Data Important? | Rutiktarle | [Read More](https://medium.com/p/97019e66185b) |
+| Sat, 20 Sep 2025 02:56:07 GMT | Drosera Network: The Decentralized Guardian Redefining Web3 Security | KeesKrypt | [Read More](https://medium.com/p/e38f06ce13b0) |
 | Sat, 20 Sep 2025 02:20:18 GMT | Configure ECMP Load Balancing on FortiGate | DuyThanhCCIE | [Read More](https://medium.com/p/cd89b2402e1e) |
 | Sat, 20 Sep 2025 02:02:36 GMT | AS-REP Roasting | 5p1d4r | [Read More](https://medium.com/p/c0fe08052258) |
 | Sat, 20 Sep 2025 01:59:20 GMT | 22 Cybersecurity Conferences in Canada | Tal Eliyahu | [Read More](https://medium.com/p/f029e10b3c40) |
@@ -111,5 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 17:41:15 GMT | How to Choose the Right Server Support Partner - Expert Guide 2025 | Ecasys | [Read More](https://medium.com/p/68f0bc211003) |
 | Fri, 19 Sep 2025 17:35:21 GMT | How Developers Are Using Apple’s Local AI Models in iOS 26 | Aaron | [Read More](https://medium.com/p/4068bdc4b27e) |
 | Fri, 19 Sep 2025 17:34:08 GMT | Adding Intelligence to the Firewalls | Samratthsingh | [Read More](https://medium.com/p/18e30b422beb) |
-| Fri, 19 Sep 2025 17:33:20 GMT | ⚠️ The NewJeans Hack - What Can We Uncover | R4shSec | [Read More](https://medium.com/p/677e4cd398b0) |
-| Fri, 19 Sep 2025 17:30:15 GMT | 5 Easy Cybersecurity Tasks That Can Pay Your Rent | vydhi | [Read More](https://medium.com/p/159432b2d71a) |
