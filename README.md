@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 22:09:54 GMT | RootMe CTF Walkthrough — TryHackMe | Kumari Amita Kishore | [Read More](https://medium.com/p/3a78a71a9f0a) |
+| Sat, 20 Sep 2025 21:52:48 GMT | Hack the Box — Access — WriteUp | Emre A. | [Read More](https://medium.com/p/da15693a4285) |
+| Sat, 20 Sep 2025 21:51:32 GMT | Technical Write-Up: Identifying the Root Cause of a Sophisticated System Attack using Microsoft… | Sarah Beth Thompson | [Read More](https://medium.com/p/ae67bdfeccd1) |
+| Sat, 20 Sep 2025 21:46:49 GMT | Why Retail Stores Need Professional Security Guards | Nimra Sheikh | [Read More](https://medium.com/p/4a60dcbfce4b) |
+| Sat, 20 Sep 2025 21:43:41 GMT | Event Security: Why Safety Matters for Every Gathering | Nimra Sheikh | [Read More](https://medium.com/p/bd336d41d41c) |
+| Sat, 20 Sep 2025 21:41:46 GMT | Phishing and how to spot it | Jacob Piloto | [Read More](https://medium.com/p/214baedd6a7d) |
+| Sat, 20 Sep 2025 21:39:39 GMT | Writeup: HTB Web Challenge — The JavaScript Labyrinth | Joey Cadieux | [Read More](https://medium.com/p/c302fd5e0555) |
 | Sat, 20 Sep 2025 21:22:47 GMT | Cybersecurity Career Paths: From Beginner to CISO, GRC, or CTO | Digital & Spiritual | [Read More](https://medium.com/p/391d82f4f70b) |
 | Sat, 20 Sep 2025 21:13:10 GMT | Buffer Overflow: An Introduction to One of the Oldest Yet Deadliest Exploits | Beri Contraster | [Read More](https://medium.com/p/6d133685c3e7) |
 | Sat, 20 Sep 2025 21:09:27 GMT | The Bone Orchard Pact | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/2b875c14d81d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 14:47:45 GMT | TryHackMe #34 - John the Ripper: The Basics | 0xGroot | [Read More](https://medium.com/p/b8be01c665ce) |
 | Sat, 20 Sep 2025 14:42:19 GMT | ⚡ Fast, But Safe: How to Secure Caches Without Sacrificing Performance | Chaos To Clarity | [Read More](https://medium.com/p/a53858ee18ec) |
 | Sat, 20 Sep 2025 14:41:46 GMT | TryHackMe #33 - Hashing Basics | 0xGroot | [Read More](https://medium.com/p/a52947416c35) |
-| Sat, 20 Sep 2025 14:36:01 GMT | TryHackMe #32 - Public Key Cryptography Basics | 0xGroot | [Read More](https://medium.com/p/ce783729da11) |
-| Sat, 20 Sep 2025 14:32:32 GMT | Ready to go from cloud enthusiast to cloud security PRO? ️ | Morteza saberikamarposhti | [Read More](https://medium.com/p/5fd3a792a557) |
-| Sat, 20 Sep 2025 14:31:47 GMT | 10 Codex Backend Prompts That Just Work | Bhagya Rana | [Read More](https://medium.com/p/e7b5c6924e00) |
-| Sat, 20 Sep 2025 14:31:47 GMT | TryHackMe #31 - Cryptography Basics | 0xGroot | [Read More](https://medium.com/p/4dc260bd8934) |
-| Sat, 20 Sep 2025 14:25:38 GMT | Monero Under Attack: How the Community Responds to Selfish Mining Attacks | @EddieOz | [Read More](https://medium.com/p/f25aae8e7d3d) |
-| Sat, 20 Sep 2025 14:25:32 GMT | Lose Millions If You Ignore These 6 AI Security Threats | Pur4v | [Read More](https://medium.com/p/feda1dc1da98) |
-| Sat, 20 Sep 2025 14:25:11 GMT | What’s CORS? - Connecting with Frontend (I)- Spring Boot Learning Day 20- 0.2% | Kenuka Karunakaran | [Read More](https://medium.com/p/c9a453ec92cf) |
