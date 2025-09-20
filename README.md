@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 12:30:35 GMT | Drosera: A Safety Net for Newcomers in Web3 | Benzchristo | [Read More](https://medium.com/p/8a6f561510c4) |
+| Sat, 20 Sep 2025 12:29:29 GMT | Critical Security Controls Frameworks | Cyber Security Research | [Read More](https://medium.com/p/6959411a56ab) |
+| Sat, 20 Sep 2025 12:29:19 GMT | Effortless Large File Uploads to AWS S3 with Laravel & JavaScript | Gagandeep Singh | [Read More](https://medium.com/p/ea68b470c7ab) |
+| Sat, 20 Sep 2025 12:22:10 GMT | The Role of CISOs in Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/6bdac6e94ac4) |
+| Sat, 20 Sep 2025 12:15:24 GMT | Top 10 Cybersecurity Awareness Strategies: A Comprehensive Guide for Businesses | Craw Cyber Security | [Read More](https://medium.com/p/d2be4246992f) |
+| Sat, 20 Sep 2025 12:10:11 GMT | DockerLabs Writeup — Domain (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/900f412f5078) |
+| Sat, 20 Sep 2025 11:54:22 GMT | TryHackMe — TechSupp0rt1 Walkthrough - Full Step-by-Step Guide | Death Esther | [Read More](https://medium.com/p/db0758109ad9) |
+| Sat, 20 Sep 2025 11:48:17 GMT | NotPetya (2017): A Global Cyberattack That Shattered Businesses Overnight | Shraddhakaveri H | [Read More](https://medium.com/p/8241e4d3b05f) |
+| Sat, 20 Sep 2025 11:44:47 GMT | The Great Pivot: How H-1B Changes and Outsourcing Tariffs Could Reshape India-US Tech Relations | Mahak Goyal | [Read More](https://medium.com/p/42bded280b54) |
+| Sat, 20 Sep 2025 11:43:07 GMT | The Drone That Gave Away Its Secrets! | Pipeline | [Read More](https://medium.com/p/47a322549ad4) |
+| Sat, 20 Sep 2025 11:42:42 GMT | Dependency Confusion: The Supply Chain Attack You Probably Didn’t See Coming | Vaishnav Gnair | [Read More](https://medium.com/p/ef028fc1cae0) |
+| Sat, 20 Sep 2025 11:40:17 GMT | The Complete JavaScript Security Playbook: Protecting Your Applications from Modern Threats | Orami | [Read More](https://medium.com/p/9b26a044b367) |
+| Sat, 20 Sep 2025 11:38:25 GMT | TLS — The Back Bone of Secure Internet Communication | Priyanshu Singh | [Read More](https://medium.com/p/3cd5e3be23af) |
+| Sat, 20 Sep 2025 11:31:23 GMT | Drosera Network: The Bodyguard Web3 Has Been Waiting For: | thatboy moh | [Read More](https://medium.com/p/f54c5681dc88) |
+| Sat, 20 Sep 2025 11:31:01 GMT | 10 FastAPI JWT Patterns That Just Work | Bhagya Rana | [Read More](https://medium.com/p/6adbdf8ef3a6) |
 | Sat, 20 Sep 2025 11:27:34 GMT | Walkthrough sshcontrol Proving Grounds | Maxwell Ferreira | [Read More](https://medium.com/p/d17553952b38) |
 | Sat, 20 Sep 2025 11:27:22 GMT | Mice Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/84b3a05edb6a) |
 | Sat, 20 Sep 2025 11:25:21 GMT | Fake Repositories Target macOS Users with Atomic Infostealer | Jasmitharouthu | [Read More](https://medium.com/p/a424eb6b9eac) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 05:26:39 GMT | Sample Blog | Rhiannon Williams | [Read More](https://medium.com/p/cf05bd67ec18) |
 | Sat, 20 Sep 2025 05:20:57 GMT | You’re Not a Man, You’re a Statue: Why Your Pride Is a Coffin | Randhir Jha | [Read More](https://medium.com/p/887a63356aaf) |
 | Sat, 20 Sep 2025 05:16:56 GMT | Best Security Cameras for Austin Construction | Birdseyesurveillancetx | [Read More](https://medium.com/p/efe58b67003f) |
-| Sat, 20 Sep 2025 05:09:03 GMT | Supply Chain Attacks Are the New Ransomware — Here’s Why | Paritosh | [Read More](https://medium.com/p/914050b26161) |
-| Sat, 20 Sep 2025 05:02:48 GMT | PHP Secrets Management Tricks That Don’t Rely on Vaults | Asian Digital Hub | [Read More](https://medium.com/p/63bb76393d73) |
-| Sat, 20 Sep 2025 05:01:16 GMT | Tips for Building PHP Apps With Tamper-Proof Event Logs | Asian Digital Hub | [Read More](https://medium.com/p/d6f017658c52) |
-| Sat, 20 Sep 2025 04:28:51 GMT | I Tried Clarity Check After a Scam Call Here’s What Happened | Isabella Smith | [Read More](https://medium.com/p/4fbec7c971b0) |
-| Sat, 20 Sep 2025 04:20:53 GMT | DNS Explained: The Internet’s Phonebook and How It Works | VS Writes | [Read More](https://medium.com/p/097aa75061c8) |
-| Sat, 20 Sep 2025 04:07:04 GMT | ️ Why I Built My Own Cybersecurity Lab (Cyber Range) | Meet Patel | [Read More](https://medium.com/p/6b21699ed730) |
-| Sat, 20 Sep 2025 04:06:08 GMT | “AI for Daily Nudging: How Micro-Behavior Recommendations Are Transforming Health, Finance &… | Tarush Sharma | [Read More](https://medium.com/p/5fc69aae5c17) |
-| Sat, 20 Sep 2025 04:05:51 GMT | The Right Way to Upload Files to S3 from a Serverless Backend | Sazzadur Rahman | [Read More](https://medium.com/p/613c7b19bf82) |
-| Sat, 20 Sep 2025 03:55:46 GMT | Secure Coding Practices in Go and How Attackers Exploit Them | Aris Haryanto | [Read More](https://medium.com/p/a6485f62a420) |
-| Sat, 20 Sep 2025 03:48:36 GMT | The WEP Autopsy: Why Wi-Fi’s First Guardian Failed & How to Crack It (Full Lab Guide) LAB-3 | Biplove Yadav | [Read More](https://medium.com/p/6fdf56844736) |
-| Sat, 20 Sep 2025 03:40:43 GMT | OWASP Juice Shop: Broken Access Control — View Basket | Risskian | [Read More](https://medium.com/p/a7cc37a108ca) |
-| Sat, 20 Sep 2025 03:37:45 GMT | The VPN Industry Is the Biggest Fraud in Cybersecurity | Logic Over Latte | [Read More](https://medium.com/p/fe10c3716761) |
-| Sat, 20 Sep 2025 03:31:46 GMT | Understanding the Basics of Cyber Security | Talent Bridge | [Read More](https://medium.com/p/ee5bf998e5d7) |
-| Sat, 20 Sep 2025 03:31:45 GMT | Key Management: The Unsung Hero of PKI | TechTrellis | [Read More](https://medium.com/p/87527cbef5ed) |
-| Sat, 20 Sep 2025 03:31:45 GMT | The New Face of Phishing: How Hackers Downgrade FIDO Passkeys | Deven Chhajed | [Read More](https://medium.com/p/154eaf04e5c1) |
