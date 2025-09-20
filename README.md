@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 17:22:34 GMT | Have You Tried This Method Before? | Aliyu Ibrahim | [Read More](https://medium.com/p/a8aa523ac25c) |
+| Sat, 20 Sep 2025 17:17:13 GMT | The Pain That Made Me Softer | Isla Handrics | [Read More](https://medium.com/p/80258be429f0) |
+| Sat, 20 Sep 2025 17:15:56 GMT | Fluffy — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5833b084b0e5) |
 | Sat, 20 Sep 2025 16:57:19 GMT | The Security Challenges of 5G Networks | Samina Perveen | [Read More](https://medium.com/p/6ec712e5e1ed) |
 | Sat, 20 Sep 2025 16:57:06 GMT | How to Secure Your Startup’s Data with Zero-Trust Architecture in 2025 | Umesh Anjula | [Read More](https://medium.com/p/8771740dcbc5) |
 | Sat, 20 Sep 2025 16:56:58 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/34b3ad8a015f) |
@@ -73,6 +76,8 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 12:55:44 GMT | Become an Expert with USCSI® Cybersecurity Certifications in 2026 | Lucia Adams | [Read More](https://medium.com/p/039b0b90a5cd) |
 | Sat, 20 Sep 2025 12:50:53 GMT | The Vulnerability Chronicles: When Staff Has Time to Lean, They have Time to be Mean | DamnAmazon | [Read More](https://medium.com/p/70877194b8d8) |
 | Sat, 20 Sep 2025 12:44:52 GMT | Cyber Attack Causes Delays at Heathrow and Other European Airports | Mr Orion | [Read More](https://medium.com/p/01fd4a59f7b2) |
+| Sat, 20 Sep 2025 12:41:01 GMT | The Future of Cybersecurity Regulations | Cyber Security Research | [Read More](https://medium.com/p/8e7b647ef919) |
+| Sat, 20 Sep 2025 12:35:10 GMT | Email Security and Anti-Phishing Tools | Cyber Security Research | [Read More](https://medium.com/p/20208b3d1fda) |
 | Sat, 20 Sep 2025 12:30:35 GMT | Drosera: A Safety Net for Newcomers in Web3 | Benzchristo | [Read More](https://medium.com/p/8a6f561510c4) |
 | Sat, 20 Sep 2025 12:29:29 GMT | Critical Security Controls Frameworks | Cyber Security Research | [Read More](https://medium.com/p/6959411a56ab) |
 | Sat, 20 Sep 2025 12:29:19 GMT | Effortless Large File Uploads to AWS S3 with Laravel & JavaScript | Gagandeep Singh | [Read More](https://medium.com/p/ea68b470c7ab) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 10:15:28 GMT | Cyber Forensics Careers: Skills, Roles, and Opportunities | cyber security Updates | [Read More](https://medium.com/p/37e7b776a169) |
 | Sat, 20 Sep 2025 10:04:13 GMT | CVE-2023–29489 in Much Marcle Parish Council GOV.UK Website: A Cross-Site Scripting Vulnerability | Hassan Ali Arshad | [Read More](https://medium.com/p/45830b223c13) |
 | Sat, 20 Sep 2025 09:55:07 GMT | Saudi Defence Pact Strengthens Strategic Ties with Pakistan | WisePol | [Read More](https://medium.com/p/109fa209bbe2) |
-| Sat, 20 Sep 2025 09:52:19 GMT | Lessons from the SOC | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/04d395c195c7) |
-| Sat, 20 Sep 2025 09:38:21 GMT | What GPT Doesn’t Know It Doesn’t Know | Neha ravi | [Read More](https://medium.com/p/255f401981b1) |
-| Sat, 20 Sep 2025 09:38:05 GMT | OWASP Juice Shop Challenge : Missing Encoding | theOrthodox | [Read More](https://medium.com/p/813519d7416c) |
-| Sat, 20 Sep 2025 09:31:44 GMT | The Complete Guide to Auditing WPA2 Security: A Hands-On Lab -4 | Biplove Yadav | [Read More](https://medium.com/p/245f7c522723) |
-| Sat, 20 Sep 2025 09:30:37 GMT | ️ AegisAI: AI-Powered VAPT for the Modern Web | T Jai Surya Prasad | [Read More](https://medium.com/p/eb7df8884401) |
