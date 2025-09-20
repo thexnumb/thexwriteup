@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 07:21:10 GMT | I Asked AI “Do you hate human?” And This Is The Answer What Make Me Feared | black shade | [Read More](https://medium.com/p/d53eccdaba94) |
 | Sat, 20 Sep 2025 07:14:38 GMT | Django vs FastAPI: Which Python Stack Wins? | Rizqi Mulki | [Read More](https://medium.com/p/42b6deaa778d) |
 | Sat, 20 Sep 2025 07:04:46 GMT | All Web & MISC Challenges IEEE CTF | 00xCanelo | [Read More](https://medium.com/p/8d8b9aea09e6) |
 | Sat, 20 Sep 2025 07:04:30 GMT | 5 Real SQL Injection Cases That Destroyed Businesses | Rizqi Mulki | [Read More](https://medium.com/p/b679d493f7b9) |
@@ -112,4 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 20:01:31 GMT | For enterprise environments requiring strong hardware-backed authentication, pam_pkcs11 enables… | Cyber Security Research | [Read More](https://medium.com/p/137741c36ad9) |
 | Fri, 19 Sep 2025 19:57:14 GMT | First Principle Thinking While Building a Secure Product — Part 1 | Juhie Chandra | [Read More](https://medium.com/p/552f1a16247b) |
 | Fri, 19 Sep 2025 19:55:00 GMT | Digital Transformation and Cybersecurity Risks | Cyber Security Research | [Read More](https://medium.com/p/fe115f831d7c) |
-| Fri, 19 Sep 2025 19:49:38 GMT | API Security Best Practices | Cyber Security Research | [Read More](https://medium.com/p/4416f584ff9f) |
