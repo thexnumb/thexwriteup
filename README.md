@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 08:08:44 GMT | DRAFT - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/41a72c206cb0) |
+| Sat, 20 Sep 2025 08:03:49 GMT | HTTP vs HTTPS — Why That Extra ‘S’ is a Game-Changer | Syed Aaqib Hussain | [Read More](https://medium.com/p/32a19e7161b4) |
+| Sat, 20 Sep 2025 07:54:23 GMT | Cheapest VPS for Bug Bounty & Pentesting | Saumadip Mandal | [Read More](https://medium.com/p/fc6686572ee3) |
+| Sat, 20 Sep 2025 07:51:29 GMT | Cortex XSOAR Incident Case Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/fd25ab7e6991) |
+| Sat, 20 Sep 2025 07:41:26 GMT | How i Bypass Subscription Limits by race condition vulnerability | Abhishek sharma | [Read More](https://medium.com/p/cecfaacd07e7) |
+| Sat, 20 Sep 2025 07:38:03 GMT | New iPhone? Move All Your Contacts Fast | Tsumit | [Read More](https://medium.com/p/f9b2126e1702) |
+| Sat, 20 Sep 2025 07:35:59 GMT | Wazuh Active Response with Virustotal | Bishu Biswas | [Read More](https://medium.com/p/e40fa525b406) |
 | Sat, 20 Sep 2025 07:21:10 GMT | I Asked AI “Do you hate human?” And This Is The Answer What Make Me Feared | black shade | [Read More](https://medium.com/p/d53eccdaba94) |
 | Sat, 20 Sep 2025 07:14:38 GMT | Django vs FastAPI: Which Python Stack Wins? | Rizqi Mulki | [Read More](https://medium.com/p/42b6deaa778d) |
 | Sat, 20 Sep 2025 07:04:46 GMT | All Web & MISC Challenges IEEE CTF | 00xCanelo | [Read More](https://medium.com/p/8d8b9aea09e6) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Sep 2025 20:34:33 GMT | A Story of Collection, Compliance, and the Power Platform Gap | Mario Kresnadi | [Read More](https://medium.com/p/ad7393cd7321) |
 | Fri, 19 Sep 2025 20:33:11 GMT | Remote Browser Isolation (RBI): A Shield Against Drive-By Downloads and Phishing | Chris Zhang | [Read More](https://medium.com/p/1df3d05714e2) |
 | Fri, 19 Sep 2025 20:27:40 GMT | Welcome to Washington, D.C., — | Nikki L Russell | [Read More](https://medium.com/p/37fdc5d2559a) |
-| Fri, 19 Sep 2025 20:27:35 GMT | Gmail Veri Sızıntısı | Ertuğrul Gülmez | [Read More](https://medium.com/p/90ccb57c78f7) |
-| Fri, 19 Sep 2025 20:26:51 GMT | Cybersecurity Job Market: Honest Reality | Luke | [Read More](https://medium.com/p/2698454a602e) |
-| Fri, 19 Sep 2025 20:05:35 GMT | CVE-2025–10585: The Chrome V8 Zero-Day You Need to Patch Today ⚔️️ | Aditya Bhatt | [Read More](https://medium.com/p/8168aa7f79cd) |
-| Fri, 19 Sep 2025 20:02:13 GMT | Guarding our democracy:
-The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma | [Read More](https://medium.com/p/d5719d1dd3d8) |
-| Fri, 19 Sep 2025 20:01:31 GMT | For enterprise environments requiring strong hardware-backed authentication, pam_pkcs11 enables… | Cyber Security Research | [Read More](https://medium.com/p/137741c36ad9) |
-| Fri, 19 Sep 2025 19:57:14 GMT | First Principle Thinking While Building a Secure Product — Part 1 | Juhie Chandra | [Read More](https://medium.com/p/552f1a16247b) |
-| Fri, 19 Sep 2025 19:55:00 GMT | Digital Transformation and Cybersecurity Risks | Cyber Security Research | [Read More](https://medium.com/p/fe115f831d7c) |
