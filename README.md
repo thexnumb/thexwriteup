@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 21:13:10 GMT | Buffer Overflow: An Introduction to One of the Oldest Yet Deadliest Exploits | Beri Contraster | [Read More](https://medium.com/p/6d133685c3e7) |
+| Sat, 20 Sep 2025 21:09:27 GMT | The Bone Orchard Pact | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/2b875c14d81d) |
+| Sat, 20 Sep 2025 21:07:46 GMT | I Found A Security Flaw Just By Reading JavaScript Files | Ibtissam hammadi | [Read More](https://medium.com/p/71c0be5b28d5) |
 | Sat, 20 Sep 2025 20:26:44 GMT | Cisco Catalyst 3560V1 Firmware Yedeklemesi-Güncellemesi ve Wireshark Analizi | Hakan ÇEVİK | [Read More](https://medium.com/p/b88f13210839) |
 | Sat, 20 Sep 2025 20:20:40 GMT | Guide to Security Governance | Jeffery Moore | [Read More](https://medium.com/p/e9c3fd18214e) |
 | Sat, 20 Sep 2025 20:13:14 GMT | Introducing Wazuh SCA & Vulnerability Overview Dashboards in CoPilot | SOCFortress | [Read More](https://medium.com/p/44e1968d0734) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 14:25:32 GMT | Lose Millions If You Ignore These 6 AI Security Threats | Pur4v | [Read More](https://medium.com/p/feda1dc1da98) |
 | Sat, 20 Sep 2025 14:25:11 GMT | What’s CORS? - Connecting with Frontend (I)- Spring Boot Learning Day 20- 0.2% | Kenuka Karunakaran | [Read More](https://medium.com/p/c9a453ec92cf) |
 | Sat, 20 Sep 2025 14:23:58 GMT | Kerentanan Information Sensitive/disclosure (git exposure) pada Website Mabes TNI | alfarisyx | [Read More](https://medium.com/p/479ca4d067e3) |
-| Sat, 20 Sep 2025 14:06:26 GMT | This Is Where the Internet Lives | Shahzaib | [Read More](https://medium.com/p/c6f59910a37f) |
-| Sat, 20 Sep 2025 13:59:43 GMT | The Emergence of Cybersecurity in the Era of AI: How Companies can remain on Top of an… | Sehar Gull | [Read More](https://medium.com/p/aad306cc5c80) |
-| Sat, 20 Sep 2025 13:59:00 GMT | Cybersecurity Through the Lens of Object-Oriented Programming | Wajiullah | [Read More](https://medium.com/p/645ce8ee7e89) |
