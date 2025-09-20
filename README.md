@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 16:29:13 GMT | Server-Side Parameter Pollution from a Different Perspective | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/46bb18369557) |
+| Sat, 20 Sep 2025 16:24:23 GMT | Your Node.js Project is Not Safe (Trust Me, It’s Not) | Samrat Dutta | [Read More](https://medium.com/p/0144ac3e3ab2) |
+| Sat, 20 Sep 2025 16:23:39 GMT | Offloading Server Management with a PaaS | Manish Shivanandhan | [Read More](https://medium.com/p/3e68be0ac827) |
 | Sat, 20 Sep 2025 16:08:54 GMT | Fraud. How does financial fraud persist? | Vani Agarwal | [Read More](https://medium.com/p/0407f44fc290) |
 | Sat, 20 Sep 2025 16:07:19 GMT | The Silent Killer of App Security: Broken Access Controls:An Advanced Bug Hunter’s Guide | Sh0X01 | [Read More](https://medium.com/p/faabdb8ba36b) |
 | Sat, 20 Sep 2025 16:02:09 GMT | Building My Own File Encryption Tool: A Practical Dive into AES-CTR + HMAC | Shehan_Gunathilaka | [Read More](https://medium.com/p/37d93f424c48) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 09:15:26 GMT | CyberDefenders: OskiLab | Rahaliashraf | [Read More](https://medium.com/p/2dbebde071ef) |
 | Sat, 20 Sep 2025 09:13:08 GMT | Essential Eight — Security Foundation Every Organisation Should Start With | Ramesh Babu | [Read More](https://medium.com/p/d35379391936) |
 | Sat, 20 Sep 2025 09:12:51 GMT | Threat Hunting with Firewalls Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/0a27c813da8d) |
-| Sat, 20 Sep 2025 09:11:48 GMT | Step-by-Step Guide: How to Encrypt Your Files in 2025 (Stay Safe Online) | Techlio | [Read More](https://medium.com/p/c1d90449909d) |
-| Sat, 20 Sep 2025 09:11:39 GMT | Top Information Technology Courses in Pakistan by IPEI | IPEI | [Read More](https://medium.com/p/1963ca525349) |
-| Sat, 20 Sep 2025 09:10:56 GMT | DROSERA (DEFI’S SECURITY GUARD) | Ife.10x | [Read More](https://medium.com/p/9b02060db0f7) |
