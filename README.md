@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 03:40:43 GMT | OWASP Juice Shop: Broken Access Control — View Basket | Risskian | [Read More](https://medium.com/p/a7cc37a108ca) |
+| Sat, 20 Sep 2025 03:37:45 GMT | The VPN Industry Is the Biggest Fraud in Cybersecurity | Logic Over Latte | [Read More](https://medium.com/p/fe10c3716761) |
+| Sat, 20 Sep 2025 03:31:46 GMT | Understanding the Basics of Cyber Security | Talent Bridge | [Read More](https://medium.com/p/ee5bf998e5d7) |
+| Sat, 20 Sep 2025 03:31:45 GMT | Key Management: The Unsung Hero of PKI | TechTrellis | [Read More](https://medium.com/p/87527cbef5ed) |
+| Sat, 20 Sep 2025 03:31:45 GMT | The New Face of Phishing: How Hackers Downgrade FIDO Passkeys | Deven Chhajed | [Read More](https://medium.com/p/154eaf04e5c1) |
 | Sat, 20 Sep 2025 03:21:54 GMT | Why Do Data Leaks Happen, and Why Is Safe Data Important? | Rutiktarle | [Read More](https://medium.com/p/97019e66185b) |
 | Sat, 20 Sep 2025 02:56:07 GMT | Drosera Network: The Decentralized Guardian Redefining Web3 Security | KeesKrypt | [Read More](https://medium.com/p/e38f06ce13b0) |
 | Sat, 20 Sep 2025 02:20:18 GMT | Configure ECMP Load Balancing on FortiGate | DuyThanhCCIE | [Read More](https://medium.com/p/cd89b2402e1e) |
@@ -108,8 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 18:04:23 GMT | When AI and Robotics Know Too Much: Why You Can’t Give Away Everything | Pitt Tech | [Read More](https://medium.com/p/ea9e246062f0) |
 | Fri, 19 Sep 2025 17:58:27 GMT | Phishing’s Frankenstein: QR-Based BiTM | Ashley Dai | [Read More](https://medium.com/p/cace1b6143da) |
 | Fri, 19 Sep 2025 17:58:12 GMT | Chaining Vulnerabilities - Tryhackme | Aaron | [Read More](https://medium.com/p/9e2ab6d5da5b) |
-| Fri, 19 Sep 2025 17:53:35 GMT | Stored XSS in Email Notifications on Insightly CRM | Regan Temudo | [Read More](https://medium.com/p/8088ab4eaa2c) |
-| Fri, 19 Sep 2025 17:53:14 GMT | Lookup Try Hack Me Walkthrough | NourInTech | [Read More](https://medium.com/p/797dd5f62832) |
-| Fri, 19 Sep 2025 17:41:15 GMT | How to Choose the Right Server Support Partner - Expert Guide 2025 | Ecasys | [Read More](https://medium.com/p/68f0bc211003) |
-| Fri, 19 Sep 2025 17:35:21 GMT | How Developers Are Using Apple’s Local AI Models in iOS 26 | Aaron | [Read More](https://medium.com/p/4068bdc4b27e) |
-| Fri, 19 Sep 2025 17:34:08 GMT | Adding Intelligence to the Firewalls | Samratthsingh | [Read More](https://medium.com/p/18e30b422beb) |
