@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sat, 20 Sep 2025 13:19:09 GMT | El orden se convierte en poder. | Javier Treviño | [Read More](https://medium.com/p/d5d7ebf6a483) |
+| Sat, 20 Sep 2025 13:16:44 GMT | Critical Microsoft SMB Vulnerability - CVE-2025–55234 Explained | Motasem Hamdan | [Read More](https://medium.com/p/6e346db4cc96) |
 | Sat, 20 Sep 2025 12:55:44 GMT | Become an Expert with USCSI® Cybersecurity Certifications in 2026 | Lucia Adams | [Read More](https://medium.com/p/039b0b90a5cd) |
 | Sat, 20 Sep 2025 12:50:53 GMT | The Vulnerability Chronicles: When Staff Has Time to Lean, They have Time to be Mean | DamnAmazon | [Read More](https://medium.com/p/70877194b8d8) |
 | Sat, 20 Sep 2025 12:44:52 GMT | Cyber Attack Causes Delays at Heathrow and Other European Airports | Mr Orion | [Read More](https://medium.com/p/01fd4a59f7b2) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 06:00:20 GMT | Why Small Businesses Are the #1 Target for Hackers in 2025 | Pynesec | [Read More](https://medium.com/p/868d65ea1a24) |
 | Sat, 20 Sep 2025 05:55:58 GMT | Bibliography, Citations, Sources | Rhiannon Williams | [Read More](https://medium.com/p/f0954fcb4778) |
 | Sat, 20 Sep 2025 05:50:18 GMT | List of all Articles | Rhiannon Williams | [Read More](https://medium.com/p/5ddcd490761e) |
-| Sat, 20 Sep 2025 05:48:41 GMT | The Silent Risks We Forget: Why Cybersecurity Is More Than Just Passwords | Recover Right | [Read More](https://medium.com/p/f0e50950c71a) |
