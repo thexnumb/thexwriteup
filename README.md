@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 11:27:34 GMT | Walkthrough sshcontrol Proving Grounds | Maxwell Ferreira | [Read More](https://medium.com/p/d17553952b38) |
+| Sat, 20 Sep 2025 11:27:22 GMT | Mice Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/84b3a05edb6a) |
+| Sat, 20 Sep 2025 11:25:21 GMT | Fake Repositories Target macOS Users with Atomic Infostealer | Jasmitharouthu | [Read More](https://medium.com/p/a424eb6b9eac) |
+| Sat, 20 Sep 2025 11:23:58 GMT | Cybersecurity as a Boardroom Priority: Moving Beyond Compliance | Taiyab Lokhandwala | [Read More](https://medium.com/p/76c30678c0bd) |
+| Sat, 20 Sep 2025 11:23:09 GMT | Plantar Warts vs Corns: How to Tell the Difference | Wartattack | [Read More](https://medium.com/p/ee65bc0062a8) |
 | Sat, 20 Sep 2025 10:54:15 GMT | Ashmirror Hollow | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/60dd38922b2e) |
 | Sat, 20 Sep 2025 10:53:26 GMT | Proactive IT Maintenance: An In-Depth Overview for Modern Organizations | Fiona Campbell | [Read More](https://medium.com/p/0cc5c37b1646) |
 | Sat, 20 Sep 2025 10:36:59 GMT | BOLA (Broken Object Level Authentication) in Connected Cars | BaudSkidNinja | [Read More](https://medium.com/p/5cc0264d53b4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 03:31:46 GMT | Understanding the Basics of Cyber Security | Talent Bridge | [Read More](https://medium.com/p/ee5bf998e5d7) |
 | Sat, 20 Sep 2025 03:31:45 GMT | Key Management: The Unsung Hero of PKI | TechTrellis | [Read More](https://medium.com/p/87527cbef5ed) |
 | Sat, 20 Sep 2025 03:31:45 GMT | The New Face of Phishing: How Hackers Downgrade FIDO Passkeys | Deven Chhajed | [Read More](https://medium.com/p/154eaf04e5c1) |
-| Sat, 20 Sep 2025 03:21:54 GMT | Why Do Data Leaks Happen, and Why Is Safe Data Important? | Rutiktarle | [Read More](https://medium.com/p/97019e66185b) |
-| Sat, 20 Sep 2025 02:56:07 GMT | Drosera Network: The Decentralized Guardian Redefining Web3 Security | KeesKrypt | [Read More](https://medium.com/p/e38f06ce13b0) |
-| Sat, 20 Sep 2025 02:20:18 GMT | Configure ECMP Load Balancing on FortiGate | DuyThanhCCIE | [Read More](https://medium.com/p/cd89b2402e1e) |
-| Sat, 20 Sep 2025 02:02:36 GMT | AS-REP Roasting | 5p1d4r | [Read More](https://medium.com/p/c0fe08052258) |
-| Sat, 20 Sep 2025 01:59:20 GMT | 22 Cybersecurity Conferences in Canada | Tal Eliyahu | [Read More](https://medium.com/p/f029e10b3c40) |
