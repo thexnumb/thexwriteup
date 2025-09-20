@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 06:37:56 GMT | Shai-Hulud : The Self-Replicating Worm Exploiting NPM and Supply Chains | Sharat Nautiyal | [Read More](https://medium.com/p/2c8da9c1d790) |
+| Sat, 20 Sep 2025 06:34:19 GMT | FortiGate SSL VPN | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/ada51ab0d83f) |
+| Sat, 20 Sep 2025 06:29:35 GMT | Day 60- How email security gaps lead to false positives and false negatives with a real world case… | unica 02 | [Read More](https://medium.com/p/607abf709651) |
+| Sat, 20 Sep 2025 06:28:58 GMT | Best Managed VPS Hosting Providers in 2025 for Performance and Security | Ann Taylor | [Read More](https://medium.com/p/2759f84eee0a) |
+| Sat, 20 Sep 2025 06:28:23 GMT | The Windows Concept Journey — PC Health Check | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5e0edc4b8c7d) |
 | Sat, 20 Sep 2025 06:24:01 GMT | What Is Hacking Really? Breaking the Myths and Movies | Aj | [Read More](https://medium.com/p/198ca6b8c7b7) |
 | Sat, 20 Sep 2025 06:13:00 GMT | Tuning containerd Snapshotters for Real-World Performance | Hex Shift | [Read More](https://medium.com/p/86bb10ba74f3) |
 | Sat, 20 Sep 2025 06:04:46 GMT | Need to Learn Data Packet Analysis For Cybersecurity? Here’s How To Learn It Fast. (And free) | LM Calvert | [Read More](https://medium.com/p/ea17e3c4e629) |
@@ -108,8 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 19:33:53 GMT | LLNMR Poisoning (Active Directory and Windows Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/fd9bd9c2d0d9) |
 | Fri, 19 Sep 2025 19:31:39 GMT | Python language Instagram follower increase tool | Wahyu Haxor | [Read More](https://medium.com/p/f38cf3ca3fc6) |
 | Fri, 19 Sep 2025 19:22:06 GMT | Introduction: The Automation of Threat | Michael Weinberger | [Read More](https://medium.com/p/0c2c407ffbb9) |
-| Fri, 19 Sep 2025 19:20:13 GMT | Detecting a SYN Flood Attack | Javier | [Read More](https://medium.com/p/db93d89564bb) |
-| Fri, 19 Sep 2025 19:02:54 GMT | Why ORDER BY Didn’t Actually Order My Results? | Marwa Shahid | [Read More](https://medium.com/p/57302ebba5cf) |
-| Fri, 19 Sep 2025 19:01:04 GMT | From Kibana Frustration to Splunk Success | Garv Kamra | [Read More](https://medium.com/p/6749a6c5e7b9) |
-| Fri, 19 Sep 2025 18:54:55 GMT | CyberDefenders — MinerHunt Lab | jon | [Read More](https://medium.com/p/99c0295a1d90) |
-| Fri, 19 Sep 2025 18:53:13 GMT | BIOGRAPHY OF A BEAST: The Engineering of Monsters | Ghost | [Read More](https://medium.com/p/fd85718b4162) |
