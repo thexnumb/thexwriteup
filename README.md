@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 13:19:09 GMT | El orden se convierte en poder. | Javier Treviño | [Read More](https://medium.com/p/d5d7ebf6a483) |
+| Sat, 20 Sep 2025 12:55:44 GMT | Become an Expert with USCSI® Cybersecurity Certifications in 2026 | Lucia Adams | [Read More](https://medium.com/p/039b0b90a5cd) |
+| Sat, 20 Sep 2025 12:50:53 GMT | The Vulnerability Chronicles: When Staff Has Time to Lean, They have Time to be Mean | DamnAmazon | [Read More](https://medium.com/p/70877194b8d8) |
+| Sat, 20 Sep 2025 12:44:52 GMT | Cyber Attack Causes Delays at Heathrow and Other European Airports | Mr Orion | [Read More](https://medium.com/p/01fd4a59f7b2) |
 | Sat, 20 Sep 2025 12:30:35 GMT | Drosera: A Safety Net for Newcomers in Web3 | Benzchristo | [Read More](https://medium.com/p/8a6f561510c4) |
 | Sat, 20 Sep 2025 12:29:29 GMT | Critical Security Controls Frameworks | Cyber Security Research | [Read More](https://medium.com/p/6959411a56ab) |
 | Sat, 20 Sep 2025 12:29:19 GMT | Effortless Large File Uploads to AWS S3 with Laravel & JavaScript | Gagandeep Singh | [Read More](https://medium.com/p/ea68b470c7ab) |
+| Sat, 20 Sep 2025 12:28:25 GMT | Breaking into Cybersecurity: Top Certifications That Got Me Started | Abdullateef Hameed | [Read More](https://medium.com/p/52575c6c4248) |
+| Sat, 20 Sep 2025 12:26:44 GMT | A Short History of AI: From Turing to Transformers | Mike | [Read More](https://medium.com/p/25741bcdb002) |
 | Sat, 20 Sep 2025 12:22:10 GMT | The Role of CISOs in Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/6bdac6e94ac4) |
 | Sat, 20 Sep 2025 12:15:24 GMT | Top 10 Cybersecurity Awareness Strategies: A Comprehensive Guide for Businesses | Craw Cyber Security | [Read More](https://medium.com/p/d2be4246992f) |
 | Sat, 20 Sep 2025 12:10:11 GMT | DockerLabs Writeup — Domain (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/900f412f5078) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 05:55:58 GMT | Bibliography, Citations, Sources | Rhiannon Williams | [Read More](https://medium.com/p/f0954fcb4778) |
 | Sat, 20 Sep 2025 05:50:18 GMT | List of all Articles | Rhiannon Williams | [Read More](https://medium.com/p/5ddcd490761e) |
 | Sat, 20 Sep 2025 05:48:41 GMT | The Silent Risks We Forget: Why Cybersecurity Is More Than Just Passwords | Recover Right | [Read More](https://medium.com/p/f0e50950c71a) |
-| Sat, 20 Sep 2025 05:46:55 GMT | SSRF TO RCE | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/916fdc104ad0) |
-| Sat, 20 Sep 2025 05:46:40 GMT | Laravel’s Str::mask: Elegant String Masking Made Simple | Sadique Ali | [Read More](https://medium.com/p/a9d3e98c1db9) |
-| Sat, 20 Sep 2025 05:39:53 GMT | How SIM Swapping Attacks Work — and How to Prevent Them | Abida Adra | [Read More](https://medium.com/p/9bc294ae57f4) |
-| Sat, 20 Sep 2025 05:26:39 GMT | Sample Blog | Rhiannon Williams | [Read More](https://medium.com/p/cf05bd67ec18) |
-| Sat, 20 Sep 2025 05:20:57 GMT | You’re Not a Man, You’re a Statue: Why Your Pride Is a Coffin | Randhir Jha | [Read More](https://medium.com/p/887a63356aaf) |
-| Sat, 20 Sep 2025 05:16:56 GMT | Best Security Cameras for Austin Construction | Birdseyesurveillancetx | [Read More](https://medium.com/p/efe58b67003f) |
