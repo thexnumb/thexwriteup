@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 10:28:35 GMT | AI: The Comeback Kid of Tech | Ankit Patel | [Read More](https://medium.com/p/82455e847602) |
+| Sat, 20 Sep 2025 10:27:06 GMT | THM - Invite Only | Francesco Pastore | [Read More](https://medium.com/p/5d7ed396fbf8) |
+| Sat, 20 Sep 2025 10:22:25 GMT | The Ultimate Guide to Building Wealth with Side Hustles in 2025 | A Corporate Artist | [Read More](https://medium.com/p/035202582d50) |
+| Sat, 20 Sep 2025 10:20:55 GMT | Instalasi Dan Konfigurasi Hadoop pada Ubuntu Linux | Zurichsabil | [Read More](https://medium.com/p/98c4faf57a69) |
+| Sat, 20 Sep 2025 10:19:26 GMT | Why Every Developer Should Care About the OWASP Top 10 | Aditya K | [Read More](https://medium.com/p/3466bd2a534f) |
+| Sat, 20 Sep 2025 10:18:38 GMT | How AI is Changing Jobs in 2025: What You Need to Know | A Corporate Artist | [Read More](https://medium.com/p/614837a96876) |
+| Sat, 20 Sep 2025 10:15:28 GMT | Cyber Forensics Careers: Skills, Roles, and Opportunities | cyber security Updates | [Read More](https://medium.com/p/37e7b776a169) |
 | Sat, 20 Sep 2025 10:04:13 GMT | CVE-2023–29489 in Much Marcle Parish Council GOV.UK Website: A Cross-Site Scripting Vulnerability | Hassan Ali Arshad | [Read More](https://medium.com/p/45830b223c13) |
 | Sat, 20 Sep 2025 09:55:07 GMT | Saudi Defence Pact Strengthens Strategic Ties with Pakistan | WisePol | [Read More](https://medium.com/p/109fa209bbe2) |
 | Sat, 20 Sep 2025 09:52:19 GMT | Lessons from the SOC | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/04d395c195c7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 01:46:36 GMT | Penetration Testing vs Ethical Hacking: What’s the Difference? | Harbeer Singh | [Read More](https://medium.com/p/ce64ba0e52f6) |
 | Sat, 20 Sep 2025 01:07:01 GMT | TryHackMe Blue - walkthrough | be.light | [Read More](https://medium.com/p/b7092ab7427c) |
 | Sat, 20 Sep 2025 01:01:44 GMT | ⏱ Sync or Sink: How NTP Appliances Prevent IT Chaos | MARLON MUTIANGPILI | [Read More](https://medium.com/p/0edec30649b9) |
-| Sat, 20 Sep 2025 00:55:59 GMT | My CTF Polyglot File Story | Zulfianarahmi | [Read More](https://medium.com/p/87eee03c1dd8) |
-| Sat, 20 Sep 2025 00:31:19 GMT | New AI attack uses hidden prompts in images to steal user data | Shubham Kumar | [Read More](https://medium.com/p/38cf789ecfdc) |
-| Sat, 20 Sep 2025 00:28:40 GMT | The world is flawed, I knew that yet I never could accept it . | Storiews | [Read More](https://medium.com/p/c3d9b3b42eb5) |
-| Sat, 20 Sep 2025 00:25:44 GMT | How to use FindAnyFil3 & why | Snooptsz | [Read More](https://medium.com/p/eb7654d0f19d) |
-| Sat, 20 Sep 2025 00:24:02 GMT | How I got access into National Testing Agency(NTA) and Achieved Full Database Access | ARoy | [Read More](https://medium.com/p/86f8695f61c6) |
-| Sat, 20 Sep 2025 00:01:47 GMT | Master WPScan in Bug Bounty: Essential Guide to Vulnerability Scanning | JPablo13 | [Read More](https://medium.com/p/6c68a4a19b3a) |
-| Sat, 20 Sep 2025 00:00:52 GMT | Why Security Due Diligence is the Silent Killer of SaaS Sales | Zenks | [Read More](https://medium.com/p/3980ca0d4fb9) |
