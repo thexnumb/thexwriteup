@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 14:25:38 GMT | Monero Under Attack: How the Community Responds to Selfish Mining Attacks | @EddieOz | [Read More](https://medium.com/p/f25aae8e7d3d) |
+| Sat, 20 Sep 2025 14:23:58 GMT | Kerentanan Information Sensitive/disclosure (git exposure) pada Website Mabes TNI | alfarisyx | [Read More](https://medium.com/p/479ca4d067e3) |
 | Sat, 20 Sep 2025 14:06:26 GMT | This Is Where the Internet Lives | Shahzaib | [Read More](https://medium.com/p/c6f59910a37f) |
 | Sat, 20 Sep 2025 13:59:43 GMT | The Emergence of Cybersecurity in the Era of AI: How Companies can remain on Top of an… | Sehar Gull | [Read More](https://medium.com/p/aad306cc5c80) |
 | Sat, 20 Sep 2025 13:59:00 GMT | Cybersecurity Through the Lens of Object-Oriented Programming | Wajiullah | [Read More](https://medium.com/p/645ce8ee7e89) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 06:44:14 GMT | Unraveling the Mystery — IEEE CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/2847bf0d8b39) |
 | Sat, 20 Sep 2025 06:37:56 GMT | Shai-Hulud : The Self-Replicating Worm Exploiting NPM and Supply Chains | Sharat Nautiyal | [Read More](https://medium.com/p/2c8da9c1d790) |
 | Sat, 20 Sep 2025 06:34:19 GMT | FortiGate SSL VPN | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/ada51ab0d83f) |
-| Sat, 20 Sep 2025 06:29:35 GMT | Day 60- How email security gaps lead to false positives and false negatives with a real world case… | unica 02 | [Read More](https://medium.com/p/607abf709651) |
-| Sat, 20 Sep 2025 06:28:58 GMT | Best Managed VPS Hosting Providers in 2025 for Performance and Security | Ann Taylor | [Read More](https://medium.com/p/2759f84eee0a) |
