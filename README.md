@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 07:14:38 GMT | Django vs FastAPI: Which Python Stack Wins? | Rizqi Mulki | [Read More](https://medium.com/p/42b6deaa778d) |
+| Sat, 20 Sep 2025 07:04:46 GMT | All Web & MISC Challenges IEEE CTF | 00xCanelo | [Read More](https://medium.com/p/8d8b9aea09e6) |
+| Sat, 20 Sep 2025 07:04:30 GMT | 5 Real SQL Injection Cases That Destroyed Businesses | Rizqi Mulki | [Read More](https://medium.com/p/b679d493f7b9) |
+| Sat, 20 Sep 2025 07:00:53 GMT | Is Shared Hosting the Biggest Scam in Web Hosting? | Rizqi Mulki | [Read More](https://medium.com/p/11f6b5c42d37) |
+| Sat, 20 Sep 2025 06:56:52 GMT | Why Do So Many Servers Crash During Viral Traffic? | Rizqi Mulki | [Read More](https://medium.com/p/f5df98d19451) |
+| Sat, 20 Sep 2025 06:50:07 GMT | Trump’s $100K Annual Fee on H-1B Visas: Overhaul, Impacts & Controversies | Techie Arbaaz | [Read More](https://medium.com/p/0b46488f99ff) |
+| Sat, 20 Sep 2025 06:45:42 GMT | The Phantom Mainainer — IEEE CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/81a062628d70) |
+| Sat, 20 Sep 2025 06:44:14 GMT | Unraveling the Mystery — IEEE CTF | Ahmed Elsayyad | [Read More](https://medium.com/p/2847bf0d8b39) |
 | Sat, 20 Sep 2025 06:37:56 GMT | Shai-Hulud : The Self-Replicating Worm Exploiting NPM and Supply Chains | Sharat Nautiyal | [Read More](https://medium.com/p/2c8da9c1d790) |
 | Sat, 20 Sep 2025 06:34:19 GMT | FortiGate SSL VPN | Mehmet Akif Dadaşoğlu | [Read More](https://medium.com/p/ada51ab0d83f) |
 | Sat, 20 Sep 2025 06:29:35 GMT | Day 60- How email security gaps lead to false positives and false negatives with a real world case… | unica 02 | [Read More](https://medium.com/p/607abf709651) |
@@ -105,11 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 19:57:14 GMT | First Principle Thinking While Building a Secure Product — Part 1 | Juhie Chandra | [Read More](https://medium.com/p/552f1a16247b) |
 | Fri, 19 Sep 2025 19:55:00 GMT | Digital Transformation and Cybersecurity Risks | Cyber Security Research | [Read More](https://medium.com/p/fe115f831d7c) |
 | Fri, 19 Sep 2025 19:49:38 GMT | API Security Best Practices | Cyber Security Research | [Read More](https://medium.com/p/4416f584ff9f) |
-| Fri, 19 Sep 2025 19:49:31 GMT | CyberDefenders — MeteorHit Lab | jon | [Read More](https://medium.com/p/455fd4347d85) |
-| Fri, 19 Sep 2025 19:43:03 GMT | Securing Serverless Architectures | Cyber Security Research | [Read More](https://medium.com/p/53514803c01a) |
-| Fri, 19 Sep 2025 19:42:44 GMT | TryHackMe — Jack-of-All-Trades Walkthrough/Write-Up | Vedant Bhalerao | [Read More](https://medium.com/p/a56cb9bf2ec6) |
-| Fri, 19 Sep 2025 19:41:43 GMT | Strategic Moves for OT and ICS Cyber-Security Vendors to Turbocharge Growth | Nicolas Mialaret | [Read More](https://medium.com/p/c7645ab216b1) |
-| Fri, 19 Sep 2025 19:37:11 GMT | The Dark Side of Deepfakes | Cyber Security Research | [Read More](https://medium.com/p/a707ce9ae185) |
-| Fri, 19 Sep 2025 19:33:53 GMT | LLNMR Poisoning (Active Directory and Windows Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/fd9bd9c2d0d9) |
-| Fri, 19 Sep 2025 19:31:39 GMT | Python language Instagram follower increase tool | Wahyu Haxor | [Read More](https://medium.com/p/f38cf3ca3fc6) |
-| Fri, 19 Sep 2025 19:22:06 GMT | Introduction: The Automation of Threat | Michael Weinberger | [Read More](https://medium.com/p/0c2c407ffbb9) |
