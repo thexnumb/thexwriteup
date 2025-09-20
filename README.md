@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 05:09:03 GMT | Supply Chain Attacks Are the New Ransomware — Here’s Why | Paritosh | [Read More](https://medium.com/p/914050b26161) |
+| Sat, 20 Sep 2025 05:02:48 GMT | PHP Secrets Management Tricks That Don’t Rely on Vaults | Asian Digital Hub | [Read More](https://medium.com/p/63bb76393d73) |
+| Sat, 20 Sep 2025 05:01:16 GMT | Tips for Building PHP Apps With Tamper-Proof Event Logs | Asian Digital Hub | [Read More](https://medium.com/p/d6f017658c52) |
 | Sat, 20 Sep 2025 04:28:51 GMT | I Tried Clarity Check After a Scam Call Here’s What Happened | Isabella Smith | [Read More](https://medium.com/p/4fbec7c971b0) |
 | Sat, 20 Sep 2025 04:20:53 GMT | DNS Explained: The Internet’s Phonebook and How It Works | VS Writes | [Read More](https://medium.com/p/097aa75061c8) |
 | Sat, 20 Sep 2025 04:07:04 GMT | ️ Why I Built My Own Cybersecurity Lab (Cyber Range) | Meet Patel | [Read More](https://medium.com/p/6b21699ed730) |
@@ -110,6 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 18:31:44 GMT | Smishing: The Text Message Scam That Can Bankrupt You | Cyberkech | [Read More](https://medium.com/p/c8d24cf9d96a) |
 | Fri, 19 Sep 2025 18:31:35 GMT | Microsoft’s Cloud-First Strategy and Data Privacy | Yusuf Talha ARABACI | [Read More](https://medium.com/p/98d85c6cb860) |
 | Fri, 19 Sep 2025 18:28:51 GMT | VIP Event Security Services UK — Elite Protection & Seamless Coordination | waeventservices.co.uk/ | [Read More](https://medium.com/p/4aeec6905160) |
-| Fri, 19 Sep 2025 18:18:14 GMT | Beyond Compliance: How AI Video Helps Keep Employees Safe and Supported | Tec-Tel Communications | [Read More](https://medium.com/p/77ba74058a22) |
-| Fri, 19 Sep 2025 18:15:43 GMT | Day 7: How a 13-Year-Old Kid Found a Bug in Google | Viratavi | [Read More](https://medium.com/p/086fcd84227a) |
-| Fri, 19 Sep 2025 18:13:52 GMT | School Safety, Upgraded: How AI Cameras Help Keep Students and Staff Protected | Tec-Tel Communications | [Read More](https://medium.com/p/b5a0c962df41) |
