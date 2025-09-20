@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 19:27:23 GMT | The accidental fortress. | New Internet Media | [Read More](https://medium.com/p/3f40f1832032) |
+| Sat, 20 Sep 2025 19:26:52 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/a2cf291d493b) |
+| Sat, 20 Sep 2025 19:21:12 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/f58fa698fe82) |
+| Sat, 20 Sep 2025 19:20:40 GMT | TEAM DARK NOOR AGENTS — PART OF BENX COM | Law By Roshan | [Read More](https://medium.com/p/afa576d57736) |
 | Sat, 20 Sep 2025 19:04:41 GMT | Logical 2FA / Email Verification Bypass via Pre-2FA JWT Acceptance | Mahmoud Gamal | [Read More](https://medium.com/p/49f6b129fd32) |
+| Sat, 20 Sep 2025 19:01:21 GMT | CSRF : {THM} | Intelithics | [Read More](https://medium.com/p/087a1d78753b) |
 | Sat, 20 Sep 2025 18:55:24 GMT | CyberDefenders — Beta Gamer Lab | jon | [Read More](https://medium.com/p/784ed63bf624) |
 | Sat, 20 Sep 2025 18:52:29 GMT | EYCC 2025 — OSINT Challenges (onsite-round) | Sama | [Read More](https://medium.com/p/c11312bafdf7) |
 | Sat, 20 Sep 2025 18:51:51 GMT | Introduction to Networking: A Beginner’s Guide You’ll Actually Enjoy! | Araiz Naqvi | [Read More](https://medium.com/p/064ec4036b98) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 12:55:44 GMT | Become an Expert with USCSI® Cybersecurity Certifications in 2026 | Lucia Adams | [Read More](https://medium.com/p/039b0b90a5cd) |
 | Sat, 20 Sep 2025 12:50:53 GMT | The Vulnerability Chronicles: When Staff Has Time to Lean, They have Time to be Mean | DamnAmazon | [Read More](https://medium.com/p/70877194b8d8) |
 | Sat, 20 Sep 2025 12:44:52 GMT | Cyber Attack Causes Delays at Heathrow and Other European Airports | Mr Orion | [Read More](https://medium.com/p/01fd4a59f7b2) |
-| Sat, 20 Sep 2025 12:41:01 GMT | The Future of Cybersecurity Regulations | Cyber Security Research | [Read More](https://medium.com/p/8e7b647ef919) |
-| Sat, 20 Sep 2025 12:35:10 GMT | Email Security and Anti-Phishing Tools | Cyber Security Research | [Read More](https://medium.com/p/20208b3d1fda) |
-| Sat, 20 Sep 2025 12:30:35 GMT | Drosera: A Safety Net for Newcomers in Web3 | Benzchristo | [Read More](https://medium.com/p/8a6f561510c4) |
-| Sat, 20 Sep 2025 12:29:29 GMT | Critical Security Controls Frameworks | Cyber Security Research | [Read More](https://medium.com/p/6959411a56ab) |
-| Sat, 20 Sep 2025 12:29:19 GMT | Effortless Large File Uploads to AWS S3 with Laravel & JavaScript | Gagandeep Singh | [Read More](https://medium.com/p/ea68b470c7ab) |
