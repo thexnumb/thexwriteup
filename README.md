@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 18:21:42 GMT | Threat Modeling Methodologies | Cyber Security Research | [Read More](https://medium.com/p/5d20a889c1b6) |
+| Sat, 20 Sep 2025 18:15:51 GMT | Cybersecurity for Autonomous Vehicles | Cyber Security Research | [Read More](https://medium.com/p/06647af263a0) |
+| Sat, 20 Sep 2025 18:13:26 GMT | Mastering Vulnerability Scanning: A Deep Dive into vuln-checker 0.5.2 | Skm248 | [Read More](https://medium.com/p/471d8cddb5c0) |
+| Sat, 20 Sep 2025 18:11:58 GMT | How to create Cyber Security Culture in your company ? 3 best models to use it. | Dziugas John Vaisvila | [Read More](https://medium.com/p/5c7c4c2b5e87) |
+| Sat, 20 Sep 2025 18:10:08 GMT | Reverse DNS Explained: Finding Names from Numbers | Natarajan C K | [Read More](https://medium.com/p/09a2388f704a) |
+| Sat, 20 Sep 2025 18:09:34 GMT | Bug Bounty Programs and Responsible Disclosure | Cyber Security Research | [Read More](https://medium.com/p/0bc18bf6c64f) |
+| Sat, 20 Sep 2025 18:04:15 GMT | The Python Time Machine: How I Learned to Bend Time in My Programs | Kainat Nafees | [Read More](https://medium.com/p/da1fa62b999e) |
+| Sat, 20 Sep 2025 18:03:31 GMT | Ethics in Cybersecurity Research | Cyber Security Research | [Read More](https://medium.com/p/4d97f6f164c8) |
+| Sat, 20 Sep 2025 18:02:01 GMT | Hack The Box - Fluffy Machine Walkthrough | SubhaDip | [Read More](https://medium.com/p/fa005e25af31) |
+| Sat, 20 Sep 2025 18:01:47 GMT | CVE-2025–29927: Explotando un middleware vulnerable paso a paso | Gorka | [Read More](https://medium.com/p/e65a2a58f735) |
+| Sat, 20 Sep 2025 18:01:23 GMT | Discovering Vulnerabilities Made Easy: Introducing vuln-checker | Skm248 | [Read More](https://medium.com/p/2719b8b9ebff) |
+| Sat, 20 Sep 2025 17:59:24 GMT | Linux Logging for SOC - Tryhackme | Aaron | [Read More](https://medium.com/p/9a38b82f51ba) |
+| Sat, 20 Sep 2025 17:58:45 GMT | A Comprehensive TryHackMe Roadmap: From Beginner to Pro | eRRoR | [Read More](https://medium.com/p/3f2ac84151ed) |
+| Sat, 20 Sep 2025 17:57:01 GMT | Security Implications of Social Media | Cyber Security Research | [Read More](https://medium.com/p/0d6a4407838b) |
+| Sat, 20 Sep 2025 17:56:01 GMT | OSCP Exam Secrets: Avoiding Rabbit Holes and Staying on Track | Diasadin | [Read More](https://medium.com/p/514d79adb214) |
+| Sat, 20 Sep 2025 17:55:21 GMT | Security-First API Documentation: Your Secret Weapon for Developer Trust & Adoption | Udit Narayan (BlogOQA) | [Read More](https://medium.com/p/e2b343f4343b) |
+| Sat, 20 Sep 2025 17:55:05 GMT | How I Passed the eWPT in 1.5 Months: Study Strategy + Exam Tips | T. Thirupathi | [Read More](https://medium.com/p/bc3ef417f28d) |
+| Sat, 20 Sep 2025 17:47:50 GMT | Would Your AI Save You? Loyalty and Sacrifice in LLM Moral Choices | Sems Kurtoglu | [Read More](https://medium.com/p/92390a993459) |
+| Sat, 20 Sep 2025 17:42:15 GMT | Network Security and Cyber Security: Key Differences, Importance, and Best Practices | Jazz Cyber Shield | [Read More](https://medium.com/p/310bc2e7a848) |
+| Sat, 20 Sep 2025 17:40:57 GMT | Day 8: The $10 Million Live Demo -Building a Complete Blog Platform from Zero to Production | Mahimagarg | [Read More](https://medium.com/p/3a060710afae) |
+| Sat, 20 Sep 2025 17:33:33 GMT | Combining Web Cache Poisoning with X-Forwarded-Host and X-Original-URL Headers | Bash Overflow | [Read More](https://medium.com/p/6d71d8d1f1f7) |
 | Sat, 20 Sep 2025 17:22:34 GMT | Have You Tried This Method Before? | Aliyu Ibrahim | [Read More](https://medium.com/p/a8aa523ac25c) |
 | Sat, 20 Sep 2025 17:17:13 GMT | The Pain That Made Me Softer | Isla Handrics | [Read More](https://medium.com/p/80258be429f0) |
 | Sat, 20 Sep 2025 17:15:56 GMT | Fluffy — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5833b084b0e5) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 11:44:47 GMT | The Great Pivot: How H-1B Changes and Outsourcing Tariffs Could Reshape India-US Tech Relations | Mahak Goyal | [Read More](https://medium.com/p/42bded280b54) |
 | Sat, 20 Sep 2025 11:43:07 GMT | The Drone That Gave Away Its Secrets! | Pipeline | [Read More](https://medium.com/p/47a322549ad4) |
 | Sat, 20 Sep 2025 11:42:42 GMT | Dependency Confusion: The Supply Chain Attack You Probably Didn’t See Coming | Vaishnav Gnair | [Read More](https://medium.com/p/ef028fc1cae0) |
-| Sat, 20 Sep 2025 11:40:17 GMT | The Complete JavaScript Security Playbook: Protecting Your Applications from Modern Threats | Orami | [Read More](https://medium.com/p/9b26a044b367) |
-| Sat, 20 Sep 2025 11:38:25 GMT | TLS — The Back Bone of Secure Internet Communication | Priyanshu Singh | [Read More](https://medium.com/p/3cd5e3be23af) |
-| Sat, 20 Sep 2025 11:31:23 GMT | Drosera Network: The Bodyguard Web3 Has Been Waiting For: | thatboy moh | [Read More](https://medium.com/p/f54c5681dc88) |
-| Sat, 20 Sep 2025 11:31:01 GMT | 10 FastAPI JWT Patterns That Just Work | Bhagya Rana | [Read More](https://medium.com/p/6adbdf8ef3a6) |
-| Sat, 20 Sep 2025 11:27:34 GMT | Walkthrough sshcontrol Proving Grounds | Maxwell Ferreira | [Read More](https://medium.com/p/d17553952b38) |
-| Sat, 20 Sep 2025 11:27:22 GMT | Mice Walkthrough PGP | Maxwell Ferreira | [Read More](https://medium.com/p/84b3a05edb6a) |
-| Sat, 20 Sep 2025 11:25:21 GMT | Fake Repositories Target macOS Users with Atomic Infostealer | Jasmitharouthu | [Read More](https://medium.com/p/a424eb6b9eac) |
-| Sat, 20 Sep 2025 11:23:58 GMT | Cybersecurity as a Boardroom Priority: Moving Beyond Compliance | Taiyab Lokhandwala | [Read More](https://medium.com/p/76c30678c0bd) |
-| Sat, 20 Sep 2025 11:23:09 GMT | Plantar Warts vs Corns: How to Tell the Difference | Wartattack | [Read More](https://medium.com/p/ee65bc0062a8) |
-| Sat, 20 Sep 2025 10:54:15 GMT | Ashmirror Hollow | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/60dd38922b2e) |
-| Sat, 20 Sep 2025 10:53:26 GMT | Proactive IT Maintenance: An In-Depth Overview for Modern Organizations | Fiona Campbell | [Read More](https://medium.com/p/0cc5c37b1646) |
-| Sat, 20 Sep 2025 10:36:59 GMT | BOLA (Broken Object Level Authentication) in Connected Cars | BaudSkidNinja | [Read More](https://medium.com/p/5cc0264d53b4) |
-| Sat, 20 Sep 2025 10:28:35 GMT | AI: The Comeback Kid of Tech | Ankit Patel | [Read More](https://medium.com/p/82455e847602) |
-| Sat, 20 Sep 2025 10:27:06 GMT | THM - Invite Only | Francesco Pastore | [Read More](https://medium.com/p/5d7ed396fbf8) |
-| Sat, 20 Sep 2025 10:22:25 GMT | The Ultimate Guide to Building Wealth with Side Hustles in 2025 | A Corporate Artist | [Read More](https://medium.com/p/035202582d50) |
-| Sat, 20 Sep 2025 10:20:55 GMT | Instalasi Dan Konfigurasi Hadoop pada Ubuntu Linux | Zurichsabil | [Read More](https://medium.com/p/98c4faf57a69) |
-| Sat, 20 Sep 2025 10:19:26 GMT | Why Every Developer Should Care About the OWASP Top 10 | Aditya K | [Read More](https://medium.com/p/3466bd2a534f) |
-| Sat, 20 Sep 2025 10:18:38 GMT | How AI is Changing Jobs in 2025: What You Need to Know | A Corporate Artist | [Read More](https://medium.com/p/614837a96876) |
-| Sat, 20 Sep 2025 10:15:28 GMT | Cyber Forensics Careers: Skills, Roles, and Opportunities | cyber security Updates | [Read More](https://medium.com/p/37e7b776a169) |
-| Sat, 20 Sep 2025 10:04:13 GMT | CVE-2023–29489 in Much Marcle Parish Council GOV.UK Website: A Cross-Site Scripting Vulnerability | Hassan Ali Arshad | [Read More](https://medium.com/p/45830b223c13) |
-| Sat, 20 Sep 2025 09:55:07 GMT | Saudi Defence Pact Strengthens Strategic Ties with Pakistan | WisePol | [Read More](https://medium.com/p/109fa209bbe2) |
