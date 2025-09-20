@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Sep 2025 04:28:51 GMT | I Tried Clarity Check After a Scam Call Here’s What Happened | Isabella Smith | [Read More](https://medium.com/p/4fbec7c971b0) |
+| Sat, 20 Sep 2025 04:20:53 GMT | DNS Explained: The Internet’s Phonebook and How It Works | VS Writes | [Read More](https://medium.com/p/097aa75061c8) |
 | Sat, 20 Sep 2025 04:07:04 GMT | ️ Why I Built My Own Cybersecurity Lab (Cyber Range) | Meet Patel | [Read More](https://medium.com/p/6b21699ed730) |
 | Sat, 20 Sep 2025 04:06:08 GMT | “AI for Daily Nudging: How Micro-Behavior Recommendations Are Transforming Health, Finance &… | Tarush Sharma | [Read More](https://medium.com/p/5fc69aae5c17) |
 | Sat, 20 Sep 2025 04:05:51 GMT | The Right Way to Upload Files to S3 from a Serverless Backend | Sazzadur Rahman | [Read More](https://medium.com/p/613c7b19bf82) |
@@ -111,5 +113,3 @@ The Cybersecurity Threat of Misinformation During Malawi's Elections | nafe.mma 
 | Fri, 19 Sep 2025 18:18:14 GMT | Beyond Compliance: How AI Video Helps Keep Employees Safe and Supported | Tec-Tel Communications | [Read More](https://medium.com/p/77ba74058a22) |
 | Fri, 19 Sep 2025 18:15:43 GMT | Day 7: How a 13-Year-Old Kid Found a Bug in Google | Viratavi | [Read More](https://medium.com/p/086fcd84227a) |
 | Fri, 19 Sep 2025 18:13:52 GMT | School Safety, Upgraded: How AI Cameras Help Keep Students and Staff Protected | Tec-Tel Communications | [Read More](https://medium.com/p/b5a0c962df41) |
-| Fri, 19 Sep 2025 18:12:19 GMT | Deep Web: O Lado Oculto da Internet que Poucos Conhecem | Cantinho Binário | [Read More](https://medium.com/p/eaa90b6a734d) |
-| Fri, 19 Sep 2025 18:07:53 GMT | Day 4 — Password Cracking Essentials: John the Ripper & Hashcat | OxErvin | [Read More](https://medium.com/p/3348cdb2a01d) |
