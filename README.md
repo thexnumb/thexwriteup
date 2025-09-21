@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 22:36:02 GMT | Installing Parallels Tools on macOS Monterey VM for OffSec 312 | Junior Mateus | [Read More](https://medium.com/p/6554d5d5e632) |
+| Sun, 21 Sep 2025 22:35:16 GMT | Cybersecurity on a budget: essential steps every small business should take | xornam.io | [Read More](https://medium.com/p/457f0874404b) |
+| Sun, 21 Sep 2025 22:34:44 GMT | Weird Endpoint Behavior — What it tells you | Cybersecplayground | [Read More](https://medium.com/p/b1be8200480e) |
+| Sun, 21 Sep 2025 22:32:18 GMT | From Guardrails to Growth: The ROI of Agentic Policy Enforcement | Jaz Lin | [Read More](https://medium.com/p/c15045d13fa6) |
+| Sun, 21 Sep 2025 22:31:30 GMT | “ scrambled-bytes “ challenge | oussama | [Read More](https://medium.com/p/9e57ba9d1bc9) |
+| Sun, 21 Sep 2025 22:28:26 GMT | Turning an Old PC Into a Security Operations Center | Benjamin Taylor | [Read More](https://medium.com/p/6ffe7dc4795d) |
+| Sun, 21 Sep 2025 22:28:22 GMT | Codexity | Rana Fahad Aman | [Read More](https://medium.com/p/311850756fdf) |
+| Sun, 21 Sep 2025 22:22:15 GMT | Staying Alert in the Digital Era: The Rising Threat of Hackers | LSC | [Read More](https://medium.com/p/24b7e7bbb14b) |
+| Sun, 21 Sep 2025 22:22:07 GMT | Rails CSRF Internals Uncovered — And a Real-World Bug We Faced | Striker | [Read More](https://medium.com/p/ffcb4ce8c52e) |
 | Sun, 21 Sep 2025 22:14:10 GMT | MINDUPLOAD TECH IS REAL. | Nabil Hamidi | [Read More](https://medium.com/p/2daedd061f87) |
+| Sun, 21 Sep 2025 22:13:31 GMT | Running AIDE on Ubuntu EC2 Micro Instances: What to Expect | Luca Berton | [Read More](https://medium.com/p/d9e1d7014a2b) |
 | Sun, 21 Sep 2025 22:06:43 GMT | Creating a Keylogger in Python | Corey Farley | [Read More](https://medium.com/p/bc12710a3f2d) |
 | Sun, 21 Sep 2025 21:39:44 GMT | CyberDefenders: The Crime | Rahaliashraf | [Read More](https://medium.com/p/18e70d936b93) |
 | Sun, 21 Sep 2025 21:39:32 GMT | DLL Sideloading: A technical overview | Shivam Kanodia | [Read More](https://medium.com/p/6cb3949df95f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 15:51:59 GMT | It Felt Safe, Until the Last Click️ | Zoningxtr | [Read More](https://medium.com/p/d1d75d0f1fcd) |
 | Sun, 21 Sep 2025 15:45:33 GMT | Heathrow Faces Second Day of Disruption After Major Cyber Attack | Mr Orion | [Read More](https://medium.com/p/5d8c6c9c0961) |
 | Sun, 21 Sep 2025 15:40:56 GMT | AI Jadi Senjata Hacker: Seberapa Siap Indonesia Menghadapinya? | Handev Code | [Read More](https://medium.com/p/007106122bcd) |
-| Sun, 21 Sep 2025 15:31:46 GMT | TryHackMe #39 - Blue | 0xGroot | [Read More](https://medium.com/p/caac903d9f12) |
-| Sun, 21 Sep 2025 15:31:46 GMT | School Security Software SentryPC: Revolutionizing Safety and Monitoring in Educational… | Paul Meyer | [Read More](https://medium.com/p/7f66b0434010) |
-| Sun, 21 Sep 2025 15:31:34 GMT | Why MITRE ATLAS is a Game-Changer for Adversarial Machine Learning | Rohit Ranjan | [Read More](https://medium.com/p/a5d2c707f417) |
-| Sun, 21 Sep 2025 15:30:03 GMT | Why Hackers Love Manufacturers: The 4 Weak Spots They Can’t Resist | Pipeline | [Read More](https://medium.com/p/9b6e7125bd3b) |
-| Sun, 21 Sep 2025 15:28:41 GMT | Toughen Up. Open Your Heart. | Dani Jones | [Read More](https://medium.com/p/3de971cab781) |
-| Sun, 21 Sep 2025 15:27:46 GMT | TryHackMe #38 - Metasploit: Meterpreter | 0xGroot | [Read More](https://medium.com/p/1490a8df454e) |
-| Sun, 21 Sep 2025 15:27:08 GMT | PRIVACY IN THE DIGITAL ERA. | Purva Ware | [Read More](https://medium.com/p/da4391834b9c) |
-| Sun, 21 Sep 2025 15:22:27 GMT | Tech Trends of September 2025 You Need to Know | Rathodsudhir64 | [Read More](https://medium.com/p/079de0964991) |
-| Sun, 21 Sep 2025 15:21:45 GMT | TryHackMe #37 - Metasploit: Exploitation | 0xGroot | [Read More](https://medium.com/p/28e0c1090a62) |
-| Sun, 21 Sep 2025 15:17:47 GMT | TryHackMe #36 - Metasploit: Introduction | 0xGroot | [Read More](https://medium.com/p/5c559b9edd42) |
