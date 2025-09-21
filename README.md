@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 04:18:41 GMT | Collins Aerospace Cyberattack Disrupts European Air Travel | Φiriki Intelligence | [Read More](https://medium.com/p/c0b15b3c37d3) |
 | Sun, 21 Sep 2025 04:06:58 GMT | AI Red Teaming CTF-HackerOne | Marshalpmathew | [Read More](https://medium.com/p/38d8bd54a782) |
 | Sun, 21 Sep 2025 04:06:45 GMT | Grounded by Hackers: How Cyber Attacks Are Delaying European Flights | alikhan | [Read More](https://medium.com/p/161463d3bc15) |
 | Sun, 21 Sep 2025 04:01:47 GMT | The Final Chapter: A Complete Guide to Auditing WPA2-Enterprise (Professional Edition) | Biplove Yadav | [Read More](https://medium.com/p/7a0ce2dd31a5) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 18:02:01 GMT | Hack The Box - Fluffy Machine Walkthrough | SubhaDip | [Read More](https://medium.com/p/fa005e25af31) |
 | Sat, 20 Sep 2025 18:01:47 GMT | CVE-2025–29927: Explotando un middleware vulnerable paso a paso | Gorka | [Read More](https://medium.com/p/e65a2a58f735) |
 | Sat, 20 Sep 2025 18:01:23 GMT | Discovering Vulnerabilities Made Easy: Introducing vuln-checker | Skm248 | [Read More](https://medium.com/p/2719b8b9ebff) |
-| Sat, 20 Sep 2025 17:59:24 GMT | Linux Logging for SOC - Tryhackme | Aaron | [Read More](https://medium.com/p/9a38b82f51ba) |
