@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 06:08:45 GMT | One Of The Best Cybersecurity Companies In The United States And Their Benefits — Blackhatclique.com | Donley Mark | [Read More](https://medium.com/p/3dd9adc9ac2e) |
+| Sun, 21 Sep 2025 06:05:37 GMT | HTB Fluffy — Medium Walkthrough | Ram Kansal | [Read More](https://medium.com/p/a4545690643b) |
+| Sun, 21 Sep 2025 06:04:42 GMT | Designing a Serverless Event-Driven Workflow for Image Uploads at Scale | Uriel Bitton | [Read More](https://medium.com/p/091fed900e9c) |
+| Sun, 21 Sep 2025 06:04:25 GMT | How I Cleared eJPT on My First Attempt in Just 14 Hours.. | Shivprasad Lavhat | [Read More](https://medium.com/p/3bb13b1bc507) |
+| Sun, 21 Sep 2025 06:02:49 GMT | Hunting For TamperedChef Infostealer | Ameer Mane | [Read More](https://medium.com/p/825dc94cee00) |
+| Sun, 21 Sep 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — Sep 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/53dcfac6c0ef) |
+| Sun, 21 Sep 2025 05:59:14 GMT | IEEE Quals Official RE Write-ups | K1r1too | [Read More](https://medium.com/p/a0139cf17aac) |
+| Sun, 21 Sep 2025 05:54:29 GMT | How to Recover Lost Money from Online Scammers in 2026 – The Fastest Method | Cyberwise | [Read More](https://medium.com/p/c2808e72cae9) |
+| Sun, 21 Sep 2025 05:51:27 GMT | The Hidden Python Library That’s Making OpenAI Engineers Jealous | Rizqi Mulki | [Read More](https://medium.com/p/eda41281fc26) |
+| Sun, 21 Sep 2025 05:46:37 GMT | Installation Steps for Volatility 2 on Apple M series chip | Cataholic | [Read More](https://medium.com/p/ff15afeb9d8d) |
+| Sun, 21 Sep 2025 05:46:10 GMT | Securing a Kali Linux VM on Hyper-V (ARM64): From Frustration to Full GUI + Hardened Setup | LobaMegaTON | [Read More](https://medium.com/p/26092c14ae73) |
 | Sun, 21 Sep 2025 05:23:19 GMT | Rust in the Kernel: From Niche to Necessary | Modexa | [Read More](https://medium.com/p/7a04f2cc5b91) |
 | Sun, 21 Sep 2025 05:21:04 GMT | Exploiting LLM APIs with excessive agency | Nitish Agrawal | [Read More](https://medium.com/p/97db9a17a294) |
 | Sun, 21 Sep 2025 05:20:54 GMT | The Romance Scam That Stole My Aunt’s Heart and Her Savings | Shahzaib | [Read More](https://medium.com/p/e09e41c6b876) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 19:26:52 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/a2cf291d493b) |
 | Sat, 20 Sep 2025 19:21:12 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/f58fa698fe82) |
 | Sat, 20 Sep 2025 19:20:40 GMT | TEAM DARK NOOR AGENTS — PART OF BENX COM | Law By Roshan | [Read More](https://medium.com/p/afa576d57736) |
-| Sat, 20 Sep 2025 19:04:41 GMT | Logical 2FA / Email Verification Bypass via Pre-2FA JWT Acceptance | Mahmoud Gamal | [Read More](https://medium.com/p/49f6b129fd32) |
-| Sat, 20 Sep 2025 19:01:21 GMT | CSRF : {THM} | Intelithics | [Read More](https://medium.com/p/087a1d78753b) |
-| Sat, 20 Sep 2025 18:55:24 GMT | CyberDefenders — Beta Gamer Lab | jon | [Read More](https://medium.com/p/784ed63bf624) |
-| Sat, 20 Sep 2025 18:52:29 GMT | EYCC 2025 — OSINT Challenges (onsite-round) | Sama | [Read More](https://medium.com/p/c11312bafdf7) |
-| Sat, 20 Sep 2025 18:51:51 GMT | Introduction to Networking: A Beginner’s Guide You’ll Actually Enjoy! | Araiz Naqvi | [Read More](https://medium.com/p/064ec4036b98) |
-| Sat, 20 Sep 2025 18:47:42 GMT | Would You Like Some Identity Theft On Your Salad? | Greg Fazekas | [Read More](https://medium.com/p/0240be7062a9) |
-| Sat, 20 Sep 2025 18:46:18 GMT | The AI Nexus — “Cybersecurity” (September 2025) | Franklin Rhodes | [Read More](https://medium.com/p/30f826d074a4) |
-| Sat, 20 Sep 2025 18:41:36 GMT | Quantum-Resistant Encryption: Preparing for the Next Era of Cybersecurity | Prakashraam | [Read More](https://medium.com/p/57363ae8731e) |
-| Sat, 20 Sep 2025 18:36:31 GMT | সুরক্ষা নাকি গোপনীয়তা? Clearview AI, Palantir এবং আমাদের ভবিষ্যৎ | Rabib Bin Nur | [Read More](https://medium.com/p/fab165af1125) |
-| Sat, 20 Sep 2025 18:36:21 GMT | 4 Ways AI is Quietly Revolutionizing Cybersecurity (And It’s Not What You Think) | Ujjwal Sinha | [Read More](https://medium.com/p/bc76e0401e19) |
-| Sat, 20 Sep 2025 18:21:42 GMT | Threat Modeling Methodologies | Cyber Security Research | [Read More](https://medium.com/p/5d20a889c1b6) |
