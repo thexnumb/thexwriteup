@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 17:07:44 GMT | PG Practice — Craft (Windows) | Lepton | [Read More](https://medium.com/p/6bc81e86c65a) |
+| Sun, 21 Sep 2025 17:04:22 GMT | SUPPLY CHAIN ATTACKS IN DOCKER IMAGES: THE SILENT THREAT LURKING IN YOUR CONTAINERS | Ashwini Puranik | [Read More](https://medium.com/p/818dc04ab501) |
+| Sun, 21 Sep 2025 17:03:37 GMT | Mastering Nmap (Part 5) in 2025: Timing & Performance Optimization | appsecvenue | [Read More](https://medium.com/p/a2b98f187e0c) |
+| Sun, 21 Sep 2025 17:02:22 GMT | Why Most Cybersecurity Awareness Trainings Are a Joke | Cyberkech | [Read More](https://medium.com/p/a8dd953d8cf1) |
+| Sun, 21 Sep 2025 16:56:32 GMT | The Vulnerability Chronicles: My Finances and | DamnAmazon | [Read More](https://medium.com/p/ee4f13355d7c) |
+| Sun, 21 Sep 2025 16:50:46 GMT | Scaling Information Security: From One to Eighteen | Adish Jain | [Read More](https://medium.com/p/4bced52e9434) |
+| Sun, 21 Sep 2025 16:38:30 GMT | Week 7 of My 90-Day Challenge: The Calm Before the Storm? | Mike (sl0th0x87) | [Read More](https://medium.com/p/74bc4dea3231) |
+| Sun, 21 Sep 2025 16:31:46 GMT | 7 FastAPI Security Patterns That Don’t Slow Throughput | Bhagya Rana | [Read More](https://medium.com/p/9ba16483b288) |
 | Sun, 21 Sep 2025 16:23:39 GMT | DPRK Hackers Exploit Fake Job Interviews to Deploy BeaverTail Malware | Suhas Valasala | [Read More](https://medium.com/p/c0a21a2d8944) |
 | Sun, 21 Sep 2025 16:19:29 GMT | Why Modern Security Teams Need AI-Powered Analysts, Not Just More Tools❗ | SupportXDR | [Read More](https://medium.com/p/df2375f29c3e) |
 | Sun, 21 Sep 2025 16:14:57 GMT | Compliance Consulting Services in India | Lumiversesolution | [Read More](https://medium.com/p/692ee04979a5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 11:29:29 GMT | From Exploit to Awareness: Understanding Enterprise Framework Risks | Yashraj Sinha | [Read More](https://medium.com/p/a99912f149a3) |
 | Sun, 21 Sep 2025 11:24:27 GMT | Is TryHackMe worth it? | ZeakPeak | [Read More](https://medium.com/p/2bffb0d71316) |
 | Sun, 21 Sep 2025 11:23:06 GMT | Trump’s H-1B Fee Hike: How to Lose Friends and Empower Competitors | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/42ab1ac9765d) |
-| Sun, 21 Sep 2025 11:21:37 GMT | Threat Intelligence-Driven Security Operations: Part 1 | Daniel | [Read More](https://medium.com/p/6551aa0c85d8) |
-| Sun, 21 Sep 2025 11:18:47 GMT | Detecting Web DDoS-TryHackMe | MouhibMahadbi | [Read More](https://medium.com/p/1bb8a16d4800) |
-| Sun, 21 Sep 2025 11:08:08 GMT | Role Of Genuine Software In Cybersecurity: Why It Matters More Than You Think | hasib | [Read More](https://medium.com/p/ddda8daafa40) |
-| Sun, 21 Sep 2025 11:05:12 GMT | Invisible Networks, Visible Risks: Tracking Devices and Emerging Threats | Safa PAKSU | [Read More](https://medium.com/p/e3dac56880f2) |
-| Sun, 21 Sep 2025 10:56:27 GMT | MiddleMayhem SOC Investigation | shadowdust5 | [Read More](https://medium.com/p/17428f74d996) |
-| Sun, 21 Sep 2025 10:54:58 GMT | Superhero 1- Dragonflies | Nonjabulo Matomela | [Read More](https://medium.com/p/b19ccd2b66fb) |
-| Sun, 21 Sep 2025 10:47:28 GMT | Why Small Businesses in Bangladesh Are the Prime Targets for Cyber Attacks in 2025 | Cyber Bangla Ltd. | [Read More](https://medium.com/p/affac73730d6) |
-| Sun, 21 Sep 2025 10:45:27 GMT | Optimationbd Trusted CCTV Camera Provider for Residential and Commercial Projects in Bangladesh | optimationbd | [Read More](https://medium.com/p/073875f8d840) |
