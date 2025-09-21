@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 03:43:53 GMT | Recon III: JavaScript Secret | Taulan Zauzanov | [Read More](https://medium.com/p/67782e2ec1f8) |
+| Sun, 21 Sep 2025 03:31:28 GMT | Loving Someone Isn’t Always Easy | Monch | [Read More](https://medium.com/p/c56fdd60957a) |
+| Sun, 21 Sep 2025 03:27:38 GMT | AppSec IR Room - TryHackMe | ClaudioXXX | [Read More](https://medium.com/p/6614f2b203eb) |
+| Sun, 21 Sep 2025 03:19:19 GMT | Portswigger walkthrough(Apprentice) | The Commoness | [Read More](https://medium.com/p/761164bed221) |
+| Sun, 21 Sep 2025 03:17:34 GMT | The Python Framework That’s Quietly Revolutionizing AI Development | Rizqi Mulki | [Read More](https://medium.com/p/3462fd024060) |
+| Sun, 21 Sep 2025 03:16:22 GMT | Securing the Internet of Things (IoT): From Smart Homes to Industrial Control | Samina Perveen | [Read More](https://medium.com/p/882d2c2ee019) |
+| Sun, 21 Sep 2025 03:03:59 GMT | Prototype Pollution in Pentesting — (Part 2) | Indigo Shadow | [Read More](https://medium.com/p/aa30d3e4c32a) |
+| Sun, 21 Sep 2025 03:01:55 GMT | Configuration is Destiny: The DevOps Missteps Driving Modern Breaches | Akilnath Bodipudi | [Read More](https://medium.com/p/cd90d04ed0e8) |
 | Sun, 21 Sep 2025 02:54:11 GMT | Portswigger walkthrough(JWT)(apprentice) | The Commoness | [Read More](https://medium.com/p/bb795fee3181) |
 | Sun, 21 Sep 2025 02:34:38 GMT | The September 2025 NPM Attacks: 5 Lessons We Can’t Afford to Ignore | RayRay | [Read More](https://medium.com/p/8ecb7c0849fe) |
 | Sun, 21 Sep 2025 02:31:46 GMT | How Does the Internet Actually work?(Networking Series Part 1) | Thegreatpayload | [Read More](https://medium.com/p/abe51d8eaac4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 17:47:50 GMT | Would Your AI Save You? Loyalty and Sacrifice in LLM Moral Choices | Sems Kurtoglu | [Read More](https://medium.com/p/92390a993459) |
 | Sat, 20 Sep 2025 17:42:15 GMT | Network Security and Cyber Security: Key Differences, Importance, and Best Practices | Jazz Cyber Shield | [Read More](https://medium.com/p/310bc2e7a848) |
 | Sat, 20 Sep 2025 17:40:57 GMT | Day 8: The $10 Million Live Demo -Building a Complete Blog Platform from Zero to Production | Mahimagarg | [Read More](https://medium.com/p/3a060710afae) |
-| Sat, 20 Sep 2025 17:33:33 GMT | Combining Web Cache Poisoning with X-Forwarded-Host and X-Original-URL Headers | Bash Overflow | [Read More](https://medium.com/p/6d71d8d1f1f7) |
-| Sat, 20 Sep 2025 17:22:34 GMT | Have You Tried This Method Before? | Aliyu Ibrahim | [Read More](https://medium.com/p/a8aa523ac25c) |
-| Sat, 20 Sep 2025 17:17:13 GMT | The Pain That Made Me Softer | Isla Handrics | [Read More](https://medium.com/p/80258be429f0) |
-| Sat, 20 Sep 2025 17:15:56 GMT | Fluffy — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/5833b084b0e5) |
-| Sat, 20 Sep 2025 16:57:19 GMT | The Security Challenges of 5G Networks | Samina Perveen | [Read More](https://medium.com/p/6ec712e5e1ed) |
-| Sat, 20 Sep 2025 16:57:06 GMT | How to Secure Your Startup’s Data with Zero-Trust Architecture in 2025 | Umesh Anjula | [Read More](https://medium.com/p/8771740dcbc5) |
-| Sat, 20 Sep 2025 16:56:58 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/34b3ad8a015f) |
-| Sat, 20 Sep 2025 16:53:08 GMT | The Time Traveler’s Heist: Your Encrypted Data Is Already Stolen | Sandesh - DevOps - AWS - K8 - Dev | [Read More](https://medium.com/p/44170f96ad5b) |
