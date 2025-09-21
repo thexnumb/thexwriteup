@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 09:17:43 GMT | Why PostgreSQL Costs Explode on Cloud (and How to Stop It) | Rizqi Mulki | [Read More](https://medium.com/p/cd0d47b8d16f) |
+| Sun, 21 Sep 2025 09:15:35 GMT | Simon Wardley says AI is coming for you | Mohammed Brückner | [Read More](https://medium.com/p/deca945fcb9b) |
+| Sun, 21 Sep 2025 09:07:54 GMT | Hacking Flutter Apps, network interception technique for iOS and Android applications | Suprit Pandurangi | [Read More](https://medium.com/p/4f79d065fb29) |
+| Sun, 21 Sep 2025 09:07:41 GMT | Micro-Isolation Hacks That Protect PHP APIs From Side Attacks | Asian Digital Hub | [Read More](https://medium.com/p/ae06b3af73a4) |
+| Sun, 21 Sep 2025 08:58:25 GMT | The Invisible Highways Beneath the Waves: Securing the Future of Undersea Internet Cables | SATYASRI AKULA | [Read More](https://medium.com/p/f378ad756daf) |
+| Sun, 21 Sep 2025 08:58:07 GMT | Preventing a Rosh Hashanah Massacre | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a0731b38f934) |
+| Sun, 21 Sep 2025 08:57:22 GMT | End-to-End PHP Security Tips That Don’t Depend on Frameworks | Asian Digital Hub | [Read More](https://medium.com/p/9ab4331b2ac0) |
+| Sun, 21 Sep 2025 08:41:21 GMT | OSCP Preparation Series — Access | Ahsan Ali Khan | [Read More](https://medium.com/p/ff98144fcc8e) |
 | Sun, 21 Sep 2025 08:25:37 GMT | AI-Driven Phishing Website Detection with Python: 2025 Insights for Ethical Hackers | Muhammad Abdullah Arif | [Read More](https://medium.com/p/dc634b88cf9a) |
 | Sun, 21 Sep 2025 08:20:25 GMT | AI Hallucinations —  Why Blind Trust Can Backfire | Nazish Marvi | [Read More](https://medium.com/p/1d0526a0056a) |
 | Sun, 21 Sep 2025 08:04:55 GMT | {THM} Gallery — writeup | Nihat Rashidli | [Read More](https://medium.com/p/6f88a771bb3c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 23:39:22 GMT | Mobile Application Security Testing | Cyber Security Research | [Read More](https://medium.com/p/c352227c3f68) |
 | Sat, 20 Sep 2025 23:33:18 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/1f2ebe194382) |
 | Sat, 20 Sep 2025 23:15:44 GMT | The CIA of Cybersecurity | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/7076bd04ee2c) |
-| Sat, 20 Sep 2025 23:04:36 GMT | Hack the Box Explore CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/8488eb1bf71e) |
-| Sat, 20 Sep 2025 22:52:34 GMT | “API — Mass Assignment” challenge | oussama | [Read More](https://medium.com/p/33a4cc8b2c26) |
-| Sat, 20 Sep 2025 22:38:58 GMT | IEEE ManSB CTF 2025 — DFIR writeup | Loay Salah | [Read More](https://medium.com/p/3b49a1afe7f6) |
-| Sat, 20 Sep 2025 22:27:31 GMT | Quishing: The QR Code Threat Everyone Is Ignoring | Samriddhi | [Read More](https://medium.com/p/f03abf17a34a) |
-| Sat, 20 Sep 2025 22:09:54 GMT | RootMe CTF Walkthrough — TryHackMe | Kumari Amita Kishore | [Read More](https://medium.com/p/3a78a71a9f0a) |
-| Sat, 20 Sep 2025 21:52:48 GMT | Hack the Box — Access — WriteUp | Emre A. | [Read More](https://medium.com/p/da15693a4285) |
-| Sat, 20 Sep 2025 21:51:32 GMT | Technical Write-Up: Identifying the Root Cause of a Sophisticated System Attack using Microsoft… | Sarah Beth Thompson | [Read More](https://medium.com/p/ae67bdfeccd1) |
-| Sat, 20 Sep 2025 21:46:49 GMT | Why Retail Stores Need Professional Security Guards | Nimra Sheikh | [Read More](https://medium.com/p/4a60dcbfce4b) |
