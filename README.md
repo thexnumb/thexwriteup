@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 05:15:55 GMT | Detecting Web DDoS - TryHackMe | Samuel McLamb | [Read More](https://medium.com/p/0ce96e38eca2) |
+| Sun, 21 Sep 2025 05:11:04 GMT | The Quickest route to hack Flutter based Applications | Suprit Pandurangi | [Read More](https://medium.com/p/4dab215f6a00) |
+| Sun, 21 Sep 2025 05:09:49 GMT | Quantum Finance: How Quantum Computing Threatens and Revamps Financial Security?? | Parth Karwa | [Read More](https://medium.com/p/35f413a2393c) |
+| Sun, 21 Sep 2025 05:07:43 GMT | Google Pixel 10 Series Comparison: Pro vs Standard Explained | Diya Afrin | [Read More](https://medium.com/p/48e4d57e4764) |
+| Sun, 21 Sep 2025 05:01:47 GMT | My $1300 Cloud Security Playground | Imam Bashir Abdulwahab (twenty4) | [Read More](https://medium.com/p/f0c877c82e31) |
+| Sun, 21 Sep 2025 04:47:08 GMT | O Código Gerado por IA é Seguro? | Airton R Junior | [Read More](https://medium.com/p/3e30c485493c) |
 | Sun, 21 Sep 2025 04:18:41 GMT | Collins Aerospace Cyberattack Disrupts European Air Travel | Φiriki Intelligence | [Read More](https://medium.com/p/c0b15b3c37d3) |
 | Sun, 21 Sep 2025 04:06:58 GMT | AI Red Teaming CTF-HackerOne | Marshalpmathew | [Read More](https://medium.com/p/38d8bd54a782) |
 | Sun, 21 Sep 2025 04:06:45 GMT | Grounded by Hackers: How Cyber Attacks Are Delaying European Flights | alikhan | [Read More](https://medium.com/p/161463d3bc15) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 18:13:26 GMT | Mastering Vulnerability Scanning: A Deep Dive into vuln-checker 0.5.2 | Skm248 | [Read More](https://medium.com/p/471d8cddb5c0) |
 | Sat, 20 Sep 2025 18:11:58 GMT | How to create Cyber Security Culture in your company ? 3 best models to use it. | Dziugas John Vaisvila | [Read More](https://medium.com/p/5c7c4c2b5e87) |
 | Sat, 20 Sep 2025 18:10:08 GMT | Reverse DNS Explained: Finding Names from Numbers | Natarajan C K | [Read More](https://medium.com/p/09a2388f704a) |
-| Sat, 20 Sep 2025 18:09:34 GMT | Bug Bounty Programs and Responsible Disclosure | Cyber Security Research | [Read More](https://medium.com/p/0bc18bf6c64f) |
-| Sat, 20 Sep 2025 18:04:15 GMT | The Python Time Machine: How I Learned to Bend Time in My Programs | Kainat Nafees | [Read More](https://medium.com/p/da1fa62b999e) |
-| Sat, 20 Sep 2025 18:03:31 GMT | Ethics in Cybersecurity Research | Cyber Security Research | [Read More](https://medium.com/p/4d97f6f164c8) |
-| Sat, 20 Sep 2025 18:02:01 GMT | Hack The Box - Fluffy Machine Walkthrough | SubhaDip | [Read More](https://medium.com/p/fa005e25af31) |
-| Sat, 20 Sep 2025 18:01:47 GMT | CVE-2025–29927: Explotando un middleware vulnerable paso a paso | Gorka | [Read More](https://medium.com/p/e65a2a58f735) |
-| Sat, 20 Sep 2025 18:01:23 GMT | Discovering Vulnerabilities Made Easy: Introducing vuln-checker | Skm248 | [Read More](https://medium.com/p/2719b8b9ebff) |
