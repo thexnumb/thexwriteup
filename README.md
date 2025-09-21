@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 07:25:06 GMT | Professional Vulnerability & Bug Report Writing | BinaryShield | [Read More](https://medium.com/p/2cbd1ec5d31e) |
+| Sun, 21 Sep 2025 07:12:24 GMT | ️ Case Study: Flipkart Big Billion Days Phishing Scam on Cloudflare Pages | LETCHU PKT | [Read More](https://medium.com/p/044c355642e1) |
 | Sun, 21 Sep 2025 07:02:30 GMT | Affordable but Vulnerable? The Cybersecurity Side of CMORE HMI | Azim Uddin | [Read More](https://medium.com/p/4bf59134b78a) |
 | Sun, 21 Sep 2025 07:00:44 GMT | Saudi Arabia: Diplomat Rent a Car, its files were exposed without security…… | chum1ng0 | [Read More](https://medium.com/p/820f2e860a44) |
 | Sun, 21 Sep 2025 06:59:55 GMT | All About SSL/TLS Security: A Complete Beginner-to-Expert Guide | Immadisetty Anvith | [Read More](https://medium.com/p/37c9ed453df2) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 21:22:47 GMT | Cybersecurity Career Paths: From Beginner to CISO, GRC, or CTO | Digital & Spiritual | [Read More](https://medium.com/p/391d82f4f70b) |
 | Sat, 20 Sep 2025 21:13:10 GMT | Buffer Overflow: An Introduction to One of the Oldest Yet Deadliest Exploits | Beri Contraster | [Read More](https://medium.com/p/6d133685c3e7) |
 | Sat, 20 Sep 2025 21:09:27 GMT | The Bone Orchard Pact | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/2b875c14d81d) |
-| Sat, 20 Sep 2025 21:07:46 GMT | I Found A Security Flaw Just By Reading JavaScript Files | Ibtissam hammadi | [Read More](https://medium.com/p/71c0be5b28d5) |
-| Sat, 20 Sep 2025 20:26:44 GMT | Cisco Catalyst 3560V1 Firmware Yedeklemesi-Güncellemesi ve Wireshark Analizi | Hakan ÇEVİK | [Read More](https://medium.com/p/b88f13210839) |
