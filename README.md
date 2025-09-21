@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 17:27:58 GMT | Lab: Exploiting origin server normalization for web cache deception | Viodex | [Read More](https://medium.com/p/f9b38b46c9f0) |
+| Sun, 21 Sep 2025 17:23:13 GMT | Week 10—Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/1638b6b19c84) |
+| Sun, 21 Sep 2025 17:08:29 GMT | ‍☠️ CTF 101: A Beginner’s Guide to Cybersecurity Challenges | Abilash B | [Read More](https://medium.com/p/1542df8c7d68) |
+| Sun, 21 Sep 2025 17:08:21 GMT | From Zero to GenAI Security Hero: The Ultimate Guide That’ll Save Your Career (And Maybe Your… | Sumant Khapre | [Read More](https://medium.com/p/b4e37a1614e2) |
 | Sun, 21 Sep 2025 17:07:44 GMT | PG Practice — Craft (Windows) | Lepton | [Read More](https://medium.com/p/6bc81e86c65a) |
 | Sun, 21 Sep 2025 17:04:22 GMT | SUPPLY CHAIN ATTACKS IN DOCKER IMAGES: THE SILENT THREAT LURKING IN YOUR CONTAINERS | Ashwini Puranik | [Read More](https://medium.com/p/818dc04ab501) |
 | Sun, 21 Sep 2025 17:03:37 GMT | Mastering Nmap (Part 5) in 2025: Timing & Performance Optimization | appsecvenue | [Read More](https://medium.com/p/a2b98f187e0c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 11:46:56 GMT | Ransomware Has Evolved, And It’s Not Just About Locked Files Anymore | Vaibhav Tiwari | [Read More](https://medium.com/p/3b2ea0f1a6c6) |
 | Sun, 21 Sep 2025 11:44:17 GMT | A $100,000 H-1B Fee: A Turning Point in Global Tech Hiring | Shahnawaz Khan | [Read More](https://medium.com/p/08c0e3133ba8) |
 | Sun, 21 Sep 2025 11:38:53 GMT | History and Methods of a modern Cyber threat actor : APT28 | Martin Hell | [Read More](https://medium.com/p/304d7783eb25) |
-| Sun, 21 Sep 2025 11:35:06 GMT | AI Answers Got Worse — Here’s The Proof | Somanathdiksangi | [Read More](https://medium.com/p/a85a66869b9c) |
-| Sun, 21 Sep 2025 11:29:29 GMT | From Exploit to Awareness: Understanding Enterprise Framework Risks | Yashraj Sinha | [Read More](https://medium.com/p/a99912f149a3) |
-| Sun, 21 Sep 2025 11:24:27 GMT | Is TryHackMe worth it? | ZeakPeak | [Read More](https://medium.com/p/2bffb0d71316) |
-| Sun, 21 Sep 2025 11:23:06 GMT | Trump’s H-1B Fee Hike: How to Lose Friends and Empower Competitors | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/42ab1ac9765d) |
