@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 07:02:30 GMT | Affordable but Vulnerable? The Cybersecurity Side of CMORE HMI | Azim Uddin | [Read More](https://medium.com/p/4bf59134b78a) |
+| Sun, 21 Sep 2025 07:00:44 GMT | Saudi Arabia: Diplomat Rent a Car, its files were exposed without security…… | chum1ng0 | [Read More](https://medium.com/p/820f2e860a44) |
+| Sun, 21 Sep 2025 06:59:55 GMT | All About SSL/TLS Security: A Complete Beginner-to-Expert Guide | Immadisetty Anvith | [Read More](https://medium.com/p/37c9ed453df2) |
+| Sun, 21 Sep 2025 06:57:02 GMT | Ethical Hacking Explained in Plain English | Aj | [Read More](https://medium.com/p/8bdc9ada39aa) |
+| Sun, 21 Sep 2025 06:50:54 GMT | Why Love Feels Like War | Monch | [Read More](https://medium.com/p/457822826d53) |
 | Sun, 21 Sep 2025 06:46:07 GMT | Beginner’s Guide to Ethical Hacking: Tools, Mindset and First Steps | Shahzaib | [Read More](https://medium.com/p/c6a2895d3c90) |
 | Sun, 21 Sep 2025 06:45:53 GMT | Top 5 Recon Tools Every Hacker Should Master | Aj | [Read More](https://medium.com/p/730dc7da2bca) |
+| Sun, 21 Sep 2025 06:45:36 GMT | Best Practices for SSH Key Management in Ansible (From Lab to 10,000 Nodes) | Lalit Kumar | [Read More](https://medium.com/p/bcb50324b272) |
 | Sun, 21 Sep 2025 06:42:57 GMT | The One AWS S3 Misconfiguration That Exposed Our Data | Ibtissam hammadi | [Read More](https://medium.com/p/36e93ca2fbc1) |
 | Sun, 21 Sep 2025 06:38:00 GMT | EC2 instance successfully assume the IAM role to S3 bucket | Dimple Patel | [Read More](https://medium.com/p/2f6565c258fa) |
+| Sun, 21 Sep 2025 06:37:45 GMT | Insecure logging in the DIVA-Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/cb8ed0104ad5) |
 | Sun, 21 Sep 2025 06:36:34 GMT | CrowdStrike npm Packages Compromised:- A Deep Dive into the Latest Supply Chain Attack | Rue | [Read More](https://medium.com/p/e9b2ab912712) |
 | Sun, 21 Sep 2025 06:31:38 GMT | Why Your Smartphone is the New Favorite Target for Phishing Attacks | Abida Adra | [Read More](https://medium.com/p/1b3a56a4765a) |
 | Sun, 21 Sep 2025 06:27:55 GMT | The Night That Changed Everything : A Child’s First Encounter with Technology in Rural Bangladesh | MD. HABIBULLAH SHARIF | [Read More](https://medium.com/p/1006abb49821) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 21:09:27 GMT | The Bone Orchard Pact | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/2b875c14d81d) |
 | Sat, 20 Sep 2025 21:07:46 GMT | I Found A Security Flaw Just By Reading JavaScript Files | Ibtissam hammadi | [Read More](https://medium.com/p/71c0be5b28d5) |
 | Sat, 20 Sep 2025 20:26:44 GMT | Cisco Catalyst 3560V1 Firmware Yedeklemesi-Güncellemesi ve Wireshark Analizi | Hakan ÇEVİK | [Read More](https://medium.com/p/b88f13210839) |
-| Sat, 20 Sep 2025 20:20:40 GMT | Guide to Security Governance | Jeffery Moore | [Read More](https://medium.com/p/e9c3fd18214e) |
-| Sat, 20 Sep 2025 20:13:14 GMT | Introducing Wazuh SCA & Vulnerability Overview Dashboards in CoPilot | SOCFortress | [Read More](https://medium.com/p/44e1968d0734) |
-| Sat, 20 Sep 2025 20:12:39 GMT | TryHackMe — Road Writeup | Mazenalbaz | [Read More](https://medium.com/p/78de993142f8) |
-| Sat, 20 Sep 2025 20:11:16 GMT | From Queries to Visuals: Day 8 of My Cybersecurity Challenge | Garv Kamra | [Read More](https://medium.com/p/9f01d8cbe4c0) |
-| Sat, 20 Sep 2025 20:06:40 GMT | 2025 Target Cyber Defense Challenge: When All Exits Are Blocked, Go Underground | Aeronique | [Read More](https://medium.com/p/3b0dd997cf09) |
-| Sat, 20 Sep 2025 19:57:34 GMT | The AAA Framework: How Cybersecurity Decides Who Gets In (and What They Do) | Sruthi Punugu | [Read More](https://medium.com/p/f543758ddb38) |
-| Sat, 20 Sep 2025 19:56:51 GMT | LUCIFER’S GHOST | Ghost | [Read More](https://medium.com/p/b092a1a67851) |
