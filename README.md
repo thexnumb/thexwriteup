@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 09:27:37 GMT | The JavaScript Feature That Makes Senior Developers Quit Their Jobs | Rizqi Mulki | [Read More](https://medium.com/p/4c0cc94840e5) |
 | Sun, 21 Sep 2025 09:17:43 GMT | Why PostgreSQL Costs Explode on Cloud (and How to Stop It) | Rizqi Mulki | [Read More](https://medium.com/p/cd0d47b8d16f) |
 | Sun, 21 Sep 2025 09:15:35 GMT | Simon Wardley says AI is coming for you | Mohammed Brückner | [Read More](https://medium.com/p/deca945fcb9b) |
+| Sun, 21 Sep 2025 09:13:48 GMT | “The Hacker’s Rosetta Stone: Decoding HTTP to Unlock Critical Vulnerabilities” | Aman Sharma | [Read More](https://medium.com/p/e8c4301404cf) |
+| Sun, 21 Sep 2025 09:12:03 GMT | ️ Detecting Malware with YARA Rules | Esra Kayhan | [Read More](https://medium.com/p/5982542325e6) |
+| Sun, 21 Sep 2025 09:07:59 GMT | Designing Rails Systems for Sensitive Data | Mahmoud Ali | [Read More](https://medium.com/p/473319fb97a1) |
 | Sun, 21 Sep 2025 09:07:54 GMT | Hacking Flutter Apps, network interception technique for iOS and Android applications | Suprit Pandurangi | [Read More](https://medium.com/p/4f79d065fb29) |
 | Sun, 21 Sep 2025 09:07:41 GMT | Micro-Isolation Hacks That Protect PHP APIs From Side Attacks | Asian Digital Hub | [Read More](https://medium.com/p/ae06b3af73a4) |
 | Sun, 21 Sep 2025 08:58:25 GMT | The Invisible Highways Beneath the Waves: Securing the Future of Undersea Internet Cables | SATYASRI AKULA | [Read More](https://medium.com/p/f378ad756daf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 00:13:10 GMT | Chainguard: Secure Images and You, Better Together | W. Jenks Gibbons | [Read More](https://medium.com/p/86c228afd1c0) |
 | Sat, 20 Sep 2025 23:58:37 GMT | Security Challenges of Smart Homes | Cyber Security Research | [Read More](https://medium.com/p/78e1e8a4e4c5) |
 | Sat, 20 Sep 2025 23:52:09 GMT | AI-Powered Cybersecurity Defense Systems | Cyber Security Research | [Read More](https://medium.com/p/776b235dc6c4) |
-| Sat, 20 Sep 2025 23:45:18 GMT | Cybersecurity for Critical National Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/049239097525) |
-| Sat, 20 Sep 2025 23:39:22 GMT | Mobile Application Security Testing | Cyber Security Research | [Read More](https://medium.com/p/c352227c3f68) |
-| Sat, 20 Sep 2025 23:33:18 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/1f2ebe194382) |
-| Sat, 20 Sep 2025 23:15:44 GMT | The CIA of Cybersecurity | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/7076bd04ee2c) |
