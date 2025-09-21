@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 19:03:27 GMT | Exploring Wazuh and TheHive Lab: A Beginner’s Journey - PART 1 | Arshathhaq | [Read More](https://medium.com/p/b68c46cf1634) |
+| Sun, 21 Sep 2025 18:59:32 GMT | Zero to Mastery in Cybersecurity — A Personal Career Development Plan. | Hartej Lehal | [Read More](https://medium.com/p/4950539300e4) |
+| Sun, 21 Sep 2025 18:50:27 GMT | You’ve Never Lived in Full Sound | H. | [Read More](https://medium.com/p/5cc72e811725) |
+| Sun, 21 Sep 2025 18:49:06 GMT | Information Technology: Developing the Digital Future | Career With Technoglobe | [Read More](https://medium.com/p/759c89bc5725) |
+| Sun, 21 Sep 2025 18:48:57 GMT | Boost Your BUG BUG Strategy with These Expert Tips | BUG | [Read More](https://medium.com/p/5edebb8359bf) |
 | Sun, 21 Sep 2025 18:37:09 GMT | The 10-Minute Token: Replay-Proof Your API with Time-Based Authentication | Kory Becker | [Read More](https://medium.com/p/54fcd706f5e5) |
 | Sun, 21 Sep 2025 18:33:19 GMT | Why Every AI Agent Needs a Sandbox | Yassine | [Read More](https://medium.com/p/bf760e0c70a1) |
 | Sun, 21 Sep 2025 18:29:02 GMT | Deep Dive into WebSocket Hijacking Vulnerability | Ahmed Muhammed | [Read More](https://medium.com/p/42d8c5773944) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 13:08:47 GMT | Risk-Based Vulnerability Management | Cyber Security Research | [Read More](https://medium.com/p/fe86a63bc5e9) |
 | Sun, 21 Sep 2025 13:08:44 GMT | Parameter Pollution Party: How Duplicate Keys Crashed the API & Spilled All the Secrets | Iski | [Read More](https://medium.com/p/f2352d6620ab) |
 | Sun, 21 Sep 2025 13:06:31 GMT | Firefighting to Foresight: Using Google’s NotebookLM in IT & Cybersecurity | Amrik  Hanjra | [Read More](https://medium.com/p/5f7ca27aace5) |
-| Sun, 21 Sep 2025 13:04:17 GMT | How Quantum Error Correction Could Save the Universe | Beyond the Horizon | [Read More](https://medium.com/p/89509f3f5498) |
-| Sun, 21 Sep 2025 13:02:05 GMT | The Role of Honeypots in Cyber Defense | Cyber Security Research | [Read More](https://medium.com/p/7d4bc58095b6) |
-| Sun, 21 Sep 2025 12:59:38 GMT | Shared Libraries in Engineering: Blessing or Bottleneck? | Abdussamad Olaiya | [Read More](https://medium.com/p/56b34c80e688) |
-| Sun, 21 Sep 2025 12:55:51 GMT | Threat Hunting Techniques | Cyber Security Research | [Read More](https://medium.com/p/3c802ef6b65e) |
-| Sun, 21 Sep 2025 12:50:41 GMT | Ready to Become a Cyber Guardian? Why You Need an Ethical Hacking Course in Delhi | Nitin Singh | [Read More](https://medium.com/p/b355d3d989c1) |
