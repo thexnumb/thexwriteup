@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 14:32:58 GMT | Prompt Injection: The AI Security Threat Everyone Overlooks | Phanindra Baddula | [Read More](https://medium.com/p/5017ddbad23e) |
+| Sun, 21 Sep 2025 14:30:43 GMT | Fluffy [Easy] — Hack The Box Walkthrough | Sneh bavarva | [Read More](https://medium.com/p/9fa90a3f40ae) |
+| Sun, 21 Sep 2025 14:29:13 GMT | Deep Web vs Dark Web — What’s Real and What’s Myth? | Mohamed.cybersec | [Read More](https://medium.com/p/228608aced86) |
+| Sun, 21 Sep 2025 14:26:45 GMT | We Didn’t Win, But We Broke the Model: Our Journey in OpenAI’s Largest AI Red Teaming Challenge | Sabermohamed | [Read More](https://medium.com/p/4dea1431106f) |
+| Sun, 21 Sep 2025 14:23:32 GMT | : | Reporter do dc ( Discord ) | [Read More](https://medium.com/p/1bbd08240e3c) |
+| Sun, 21 Sep 2025 14:15:53 GMT | Writing, Receiving, Reviewing: My Take on Penetration Test Reports | Adan | [Read More](https://medium.com/p/f13230517de9) |
+| Sun, 21 Sep 2025 14:07:45 GMT | The AI Tool That Made Me Question My Own Job | Cyberkech | [Read More](https://medium.com/p/eb9b70784f20) |
 | Sun, 21 Sep 2025 14:03:03 GMT | Your First Ransomware Case: A TryHackMe REvil Corp — Walkthrough️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/5da782a75c11) |
 | Sun, 21 Sep 2025 14:01:51 GMT | What Is Prompt Injections Attacks? | Mainekhacker | [Read More](https://medium.com/p/723bbd5fd6f0) |
 | Sun, 21 Sep 2025 14:00:21 GMT | Cybersecurity Assessment Services in India | Lumiversesolution | [Read More](https://medium.com/p/57d09ea50495) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 07:55:34 GMT | Typosquatting in Package Managers: The Attack That Preys on a Single Keystroke | InstaTunnel | [Read More](https://medium.com/p/39588b832390) |
 | Sun, 21 Sep 2025 07:50:10 GMT | Beware of Mobile-Only Fake/Phishing Pages! | VENUKAMATCHI P | [Read More](https://medium.com/p/2141298529b6) |
 | Sun, 21 Sep 2025 07:25:06 GMT | Professional Vulnerability & Bug Report Writing | BinaryShield | [Read More](https://medium.com/p/2cbd1ec5d31e) |
-| Sun, 21 Sep 2025 07:12:24 GMT | ️ Case Study: Flipkart Big Billion Days Phishing Scam on Cloudflare Pages | LETCHU PKT | [Read More](https://medium.com/p/044c355642e1) |
-| Sun, 21 Sep 2025 07:02:30 GMT | Affordable but Vulnerable? The Cybersecurity Side of CMORE HMI | Azim Uddin | [Read More](https://medium.com/p/4bf59134b78a) |
-| Sun, 21 Sep 2025 07:00:44 GMT | Saudi Arabia: Diplomat Rent a Car, its files were exposed without security…… | chum1ng0 | [Read More](https://medium.com/p/820f2e860a44) |
-| Sun, 21 Sep 2025 06:59:55 GMT | All About SSL/TLS Security: A Complete Beginner-to-Expert Guide | Immadisetty Anvith | [Read More](https://medium.com/p/37c9ed453df2) |
-| Sun, 21 Sep 2025 06:57:02 GMT | Ethical Hacking Explained in Plain English | Aj | [Read More](https://medium.com/p/8bdc9ada39aa) |
-| Sun, 21 Sep 2025 06:50:54 GMT | Why Love Feels Like War | Monch | [Read More](https://medium.com/p/457822826d53) |
-| Sun, 21 Sep 2025 06:46:07 GMT | Beginner’s Guide to Ethical Hacking: Tools, Mindset and First Steps | Shahzaib | [Read More](https://medium.com/p/c6a2895d3c90) |
