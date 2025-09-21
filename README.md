@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 11:29:29 GMT | From Exploit to Awareness: Understanding Enterprise Framework Risks | Yashraj Sinha | [Read More](https://medium.com/p/a99912f149a3) |
+| Sun, 21 Sep 2025 11:24:27 GMT | Is TryHackMe worth it? | ZeakPeak | [Read More](https://medium.com/p/2bffb0d71316) |
+| Sun, 21 Sep 2025 11:23:06 GMT | Trump’s H-1B Fee Hike: How to Lose Friends and Empower Competitors | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/42ab1ac9765d) |
+| Sun, 21 Sep 2025 11:21:37 GMT | Threat Intelligence-Driven Security Operations: Part 1 | Daniel | [Read More](https://medium.com/p/6551aa0c85d8) |
+| Sun, 21 Sep 2025 11:18:47 GMT | Detecting Web DDoS-TryHackMe | MouhibMahadbi | [Read More](https://medium.com/p/1bb8a16d4800) |
+| Sun, 21 Sep 2025 11:08:08 GMT | Role Of Genuine Software In Cybersecurity: Why It Matters More Than You Think | hasib | [Read More](https://medium.com/p/ddda8daafa40) |
+| Sun, 21 Sep 2025 11:05:12 GMT | Invisible Networks, Visible Risks: Tracking Devices and Emerging Threats | Safa PAKSU | [Read More](https://medium.com/p/e3dac56880f2) |
 | Sun, 21 Sep 2025 10:56:27 GMT | MiddleMayhem SOC Investigation | shadowdust5 | [Read More](https://medium.com/p/17428f74d996) |
 | Sun, 21 Sep 2025 10:54:58 GMT | Superhero 1- Dragonflies | Nonjabulo Matomela | [Read More](https://medium.com/p/b19ccd2b66fb) |
 | Sun, 21 Sep 2025 10:47:28 GMT | Why Small Businesses in Bangladesh Are the Prime Targets for Cyber Attacks in 2025 | Cyber Bangla Ltd. | [Read More](https://medium.com/p/affac73730d6) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 03:19:19 GMT | Portswigger walkthrough(Apprentice) | The Commoness | [Read More](https://medium.com/p/761164bed221) |
 | Sun, 21 Sep 2025 03:17:34 GMT | The Python Framework That’s Quietly Revolutionizing AI Development | Rizqi Mulki | [Read More](https://medium.com/p/3462fd024060) |
 | Sun, 21 Sep 2025 03:16:22 GMT | Securing the Internet of Things (IoT): From Smart Homes to Industrial Control | Samina Perveen | [Read More](https://medium.com/p/882d2c2ee019) |
-| Sun, 21 Sep 2025 03:03:59 GMT | Prototype Pollution in Pentesting — (Part 2) | Indigo Shadow | [Read More](https://medium.com/p/aa30d3e4c32a) |
-| Sun, 21 Sep 2025 03:01:55 GMT | Configuration is Destiny: The DevOps Missteps Driving Modern Breaches | Akilnath Bodipudi | [Read More](https://medium.com/p/cd90d04ed0e8) |
-| Sun, 21 Sep 2025 02:54:11 GMT | Portswigger walkthrough(JWT)(apprentice) | The Commoness | [Read More](https://medium.com/p/bb795fee3181) |
-| Sun, 21 Sep 2025 02:34:38 GMT | The September 2025 NPM Attacks: 5 Lessons We Can’t Afford to Ignore | RayRay | [Read More](https://medium.com/p/8ecb7c0849fe) |
-| Sun, 21 Sep 2025 02:31:46 GMT | How Does the Internet Actually work?(Networking Series Part 1) | Thegreatpayload | [Read More](https://medium.com/p/abe51d8eaac4) |
-| Sun, 21 Sep 2025 02:19:34 GMT | The Gmail Bounce That Led Me Down a Phishing Rabbit Hole: Dissecting a Sophisticated Phishing Email… | Parth Parmar | [Read More](https://medium.com/p/5bbe41ec989b) |
-| Sun, 21 Sep 2025 02:10:52 GMT | AuditSec Intel: How Predictive Auditing Can Transform GRC | Dr. Deep Pandey | [Read More](https://medium.com/p/4397a40827a8) |
