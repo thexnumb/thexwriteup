@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 21:09:01 GMT | TryHackMe — Sequence Walkthrough/Write-up | Ruszkai Dávid | [Read More](https://medium.com/p/c2d1267544cb) |
+| Sun, 21 Sep 2025 21:00:03 GMT | Part 1: Foundation — Hardware, Networking, and Proxmox | 0x1kp | [Read More](https://medium.com/p/8c7fbb24feec) |
+| Sun, 21 Sep 2025 20:53:22 GMT | eJPT — 3.1 CTF 2System/Host Based Attacks | Dharmendrakumar | [Read More](https://medium.com/p/cfc71a09f369) |
+| Sun, 21 Sep 2025 20:50:57 GMT | Cyber Threat Intelligence Communication & Reporting Techniques | Bank Security | [Read More](https://medium.com/p/75ec41a0a098) |
+| Sun, 21 Sep 2025 20:47:38 GMT | Troubleshooting audisp-remote.conf Configuration Errors in Linux Auditd | Luca Berton | [Read More](https://medium.com/p/f428370eb22b) |
 | Sun, 21 Sep 2025 20:33:08 GMT | Qwiet AI and the Dawn of Autonomous DevSecOps | S Ashwin Kashyap | [Read More](https://medium.com/p/7ce923d34bcf) |
 | Sun, 21 Sep 2025 20:29:33 GMT | Cloudflare Warp: The Next-Generation Internet Shield | Emre Özel | [Read More](https://medium.com/p/9ea7be634e0d) |
 | Sun, 21 Sep 2025 20:27:55 GMT | The VPN Illusion: When Security Becomes the Weak Link | David SEHYEON Baek | [Read More](https://medium.com/p/61005e86d824) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 14:47:26 GMT | ALL About CORS (Cross-Origin Resource Sharing) | Mr Horbio | [Read More](https://medium.com/p/44eda3a5c54d) |
 | Sun, 21 Sep 2025 14:47:26 GMT | The Hidden Hurt Behind Hyper-Independence | Da Mar | [Read More](https://medium.com/p/1f90793460f8) |
 | Sun, 21 Sep 2025 14:45:25 GMT | What it takes to be a Hacker — Networking 1 — The Fundamentals | David Barrineau | [Read More](https://medium.com/p/5cd89602c218) |
-| Sun, 21 Sep 2025 14:32:58 GMT | Prompt Injection: The AI Security Threat Everyone Overlooks | Phanindra Baddula | [Read More](https://medium.com/p/5017ddbad23e) |
-| Sun, 21 Sep 2025 14:30:43 GMT | Fluffy [Easy] — Hack The Box Walkthrough | Sneh bavarva | [Read More](https://medium.com/p/9fa90a3f40ae) |
-| Sun, 21 Sep 2025 14:30:31 GMT | Jounory of CEv13 | Kalash Kundaliya | [Read More](https://medium.com/p/9c34c3b3f706) |
-| Sun, 21 Sep 2025 14:29:13 GMT | Deep Web vs Dark Web — What’s Real and What’s Myth? | Mohamed.cybersec | [Read More](https://medium.com/p/228608aced86) |
-| Sun, 21 Sep 2025 14:26:45 GMT | We Didn’t Win, But We Broke the Model: Our Journey in OpenAI’s Largest AI Red Teaming Challenge | Sabermohamed | [Read More](https://medium.com/p/4dea1431106f) |
