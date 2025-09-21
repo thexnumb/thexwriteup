@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 20:06:29 GMT | Addressing Security Vulnerabilities in Docker: What to Know | @rnab | [Read More](https://medium.com/p/e40cf80196a6) |
+| Sun, 21 Sep 2025 20:06:21 GMT | I Hacked Gmail With ChatGPT: Here’s What Happened | Yatin | [Read More](https://medium.com/p/6c88c3af3bca) |
+| Sun, 21 Sep 2025 19:56:03 GMT | America’s Cyber Firms Need a New Base Layer | Derek Wayne Bailey | [Read More](https://medium.com/p/a95acf7f91c3) |
+| Sun, 21 Sep 2025 19:54:10 GMT | Control EVERY Computer on Your Desk and Stop Juggling Hardware | Jannis | [Read More](https://medium.com/p/050f42c079e6) |
+| Sun, 21 Sep 2025 19:39:40 GMT | Why Learning Assembly Makes You a Better Hacker & Coder | Beri Contraster | [Read More](https://medium.com/p/933a8e102b52) |
+| Sun, 21 Sep 2025 19:39:08 GMT | Image OSINT (IMINT):Full practical write-up with real examples & practices | Intelithics | [Read More](https://medium.com/p/fd8be88b7c75) |
+| Sun, 21 Sep 2025 19:34:07 GMT | Secure File Sharing Platforms That Keep Your Data 100% Safe | The Daily Technology | [Read More](https://medium.com/p/50c1d86f9f27) |
 | Sun, 21 Sep 2025 19:30:31 GMT | Common Cyber Threats in 2025 and How to Stay Safe — Protect Yourself Now | The Daily Technology | [Read More](https://medium.com/p/a7156faa6008) |
 | Sun, 21 Sep 2025 19:29:50 GMT | Why Privacy-First Development is the Only Way Forward in 2025 | Abdul Rehman Khan | [Read More](https://medium.com/p/f9a1a4db9ff2) |
 | Sun, 21 Sep 2025 19:28:22 GMT | Cybercrime in Nigeria: How Scammers Think, What They Do, and How You Can Protect Yourself | Udemchinelo | [Read More](https://medium.com/p/9bc2af11d2fc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 14:03:03 GMT | Your First Ransomware Case: A TryHackMe REvil Corp — Walkthrough️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/5da782a75c11) |
 | Sun, 21 Sep 2025 14:01:51 GMT | What Is Prompt Injections Attacks? | Mainekhacker | [Read More](https://medium.com/p/723bbd5fd6f0) |
 | Sun, 21 Sep 2025 14:00:21 GMT | Cybersecurity Assessment Services in India | Lumiversesolution | [Read More](https://medium.com/p/57d09ea50495) |
-| Sun, 21 Sep 2025 13:52:20 GMT | TEMPEST CTF 2025 - DropCTF x STH Final - Write-up | pipe2bot | [Read More](https://medium.com/p/2ec7ce968ba2) |
-| Sun, 21 Sep 2025 13:51:27 GMT | DLL Hijacking Nedir? | Busra | [Read More](https://medium.com/p/b9cd4be5588e) |
-| Sun, 21 Sep 2025 13:44:39 GMT | PG Practice — XposedAPI (Linux) | Lepton | [Read More](https://medium.com/p/165b2d8fecba) |
-| Sun, 21 Sep 2025 13:40:47 GMT | Bug Bounty as a Beginner: My 14-Day Struggle, Progress, and First Steps | LIKITH GAJULA | [Read More](https://medium.com/p/cca8b34973cb) |
-| Sun, 21 Sep 2025 13:30:38 GMT | Cyberresilienz für KMU stärken: Wie der CyberRisikoCheck den Anfang erleichtert | Arpad Vasarhelyi | [Read More](https://medium.com/p/90cf104dbd0e) |
-| Sun, 21 Sep 2025 13:28:57 GMT | OWASP Top 10 Nedir? | hadi cicek | [Read More](https://medium.com/p/81d41c1c4bad) |
-| Sun, 21 Sep 2025 13:25:56 GMT | Why I Use Cold Backups Instead of Relying Only on Snapshots | Faruk Ahmed | [Read More](https://medium.com/p/a4c22c6c4a50) |
