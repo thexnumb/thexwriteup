@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 05:23:19 GMT | Rust in the Kernel: From Niche to Necessary | Modexa | [Read More](https://medium.com/p/7a04f2cc5b91) |
+| Sun, 21 Sep 2025 05:21:04 GMT | Exploiting LLM APIs with excessive agency | Nitish Agrawal | [Read More](https://medium.com/p/97db9a17a294) |
+| Sun, 21 Sep 2025 05:20:54 GMT | The Romance Scam That Stole My Aunt’s Heart and Her Savings | Shahzaib | [Read More](https://medium.com/p/e09e41c6b876) |
+| Sun, 21 Sep 2025 05:20:51 GMT | Advent of Cyber ’24 Side Quest - TryHackMe | Dhruv | [Read More](https://medium.com/p/74960d917fd0) |
 | Sun, 21 Sep 2025 05:15:55 GMT | Detecting Web DDoS - TryHackMe | Samuel McLamb | [Read More](https://medium.com/p/0ce96e38eca2) |
 | Sun, 21 Sep 2025 05:11:04 GMT | The Quickest route to hack Flutter based Applications | Suprit Pandurangi | [Read More](https://medium.com/p/4dab215f6a00) |
 | Sun, 21 Sep 2025 05:09:49 GMT | Quantum Finance: How Quantum Computing Threatens and Revamps Financial Security?? | Parth Karwa | [Read More](https://medium.com/p/35f413a2393c) |
@@ -63,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 00:13:10 GMT | Chainguard: Secure Images and You, Better Together | W. Jenks Gibbons | [Read More](https://medium.com/p/86c228afd1c0) |
 | Sat, 20 Sep 2025 23:58:37 GMT | Security Challenges of Smart Homes | Cyber Security Research | [Read More](https://medium.com/p/78e1e8a4e4c5) |
 | Sat, 20 Sep 2025 23:52:09 GMT | AI-Powered Cybersecurity Defense Systems | Cyber Security Research | [Read More](https://medium.com/p/776b235dc6c4) |
+| Sat, 20 Sep 2025 23:45:18 GMT | Cybersecurity for Critical National Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/049239097525) |
 | Sat, 20 Sep 2025 23:39:22 GMT | Mobile Application Security Testing | Cyber Security Research | [Read More](https://medium.com/p/c352227c3f68) |
 | Sat, 20 Sep 2025 23:33:18 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/1f2ebe194382) |
 | Sat, 20 Sep 2025 23:15:44 GMT | The CIA of Cybersecurity | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/7076bd04ee2c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 18:36:31 GMT | সুরক্ষা নাকি গোপনীয়তা? Clearview AI, Palantir এবং আমাদের ভবিষ্যৎ | Rabib Bin Nur | [Read More](https://medium.com/p/fab165af1125) |
 | Sat, 20 Sep 2025 18:36:21 GMT | 4 Ways AI is Quietly Revolutionizing Cybersecurity (And It’s Not What You Think) | Ujjwal Sinha | [Read More](https://medium.com/p/bc76e0401e19) |
 | Sat, 20 Sep 2025 18:21:42 GMT | Threat Modeling Methodologies | Cyber Security Research | [Read More](https://medium.com/p/5d20a889c1b6) |
-| Sat, 20 Sep 2025 18:19:52 GMT | SOAR as a Dating App | Serhan Eraslan | [Read More](https://medium.com/p/efccab01e7ef) |
-| Sat, 20 Sep 2025 18:15:51 GMT | Cybersecurity for Autonomous Vehicles | Cyber Security Research | [Read More](https://medium.com/p/06647af263a0) |
-| Sat, 20 Sep 2025 18:13:26 GMT | Mastering Vulnerability Scanning: A Deep Dive into vuln-checker 0.5.2 | Skm248 | [Read More](https://medium.com/p/471d8cddb5c0) |
-| Sat, 20 Sep 2025 18:11:58 GMT | How to create Cyber Security Culture in your company ? 3 best models to use it. | Dziugas John Vaisvila | [Read More](https://medium.com/p/5c7c4c2b5e87) |
-| Sat, 20 Sep 2025 18:10:08 GMT | Reverse DNS Explained: Finding Names from Numbers | Natarajan C K | [Read More](https://medium.com/p/09a2388f704a) |
