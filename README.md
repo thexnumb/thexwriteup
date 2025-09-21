@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 04:06:58 GMT | AI Red Teaming CTF-HackerOne | Marshalpmathew | [Read More](https://medium.com/p/38d8bd54a782) |
+| Sun, 21 Sep 2025 04:06:45 GMT | Grounded by Hackers: How Cyber Attacks Are Delaying European Flights | alikhan | [Read More](https://medium.com/p/161463d3bc15) |
+| Sun, 21 Sep 2025 04:01:47 GMT | The Final Chapter: A Complete Guide to Auditing WPA2-Enterprise (Professional Edition) | Biplove Yadav | [Read More](https://medium.com/p/7a0ce2dd31a5) |
+| Sun, 21 Sep 2025 04:00:49 GMT | NPM Supply Chain Attack: Understanding ‘Shai-Hulud’ and How to Protect Yourself | Code Wiz | [Read More](https://medium.com/p/6eaa3fd89cf5) |
+| Sun, 21 Sep 2025 03:55:56 GMT | Is it easy to discover a critical vulnerability [P1] ? | Suprit Pandurangi | [Read More](https://medium.com/p/e68c76974124) |
+| Sun, 21 Sep 2025 03:54:11 GMT | Act. Now. Peace: Reflections on International Day of Peace 2025 | Joanne Bruce | [Read More](https://medium.com/p/18b29041df18) |
+| Sun, 21 Sep 2025 03:51:44 GMT | OWASP ZAP + Playwright: Automating Penetration Testing for Modern Web Apps | Mohamed Said Ibrahim | [Read More](https://medium.com/p/e0e817bdc29c) |
+| Sun, 21 Sep 2025 03:49:17 GMT | When LLMs Obey Too Much: Playing with Prompt Injection Defenses | Pratip Dasgupta | [Read More](https://medium.com/p/fea39993c292) |
 | Sun, 21 Sep 2025 03:43:53 GMT | Recon III: JavaScript Secret | Taulan Zauzanov | [Read More](https://medium.com/p/67782e2ec1f8) |
 | Sun, 21 Sep 2025 03:31:28 GMT | Loving Someone Isn’t Always Easy | Monch | [Read More](https://medium.com/p/c56fdd60957a) |
 | Sun, 21 Sep 2025 03:27:38 GMT | AppSec IR Room - TryHackMe | ClaudioXXX | [Read More](https://medium.com/p/6614f2b203eb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 18:01:47 GMT | CVE-2025–29927: Explotando un middleware vulnerable paso a paso | Gorka | [Read More](https://medium.com/p/e65a2a58f735) |
 | Sat, 20 Sep 2025 18:01:23 GMT | Discovering Vulnerabilities Made Easy: Introducing vuln-checker | Skm248 | [Read More](https://medium.com/p/2719b8b9ebff) |
 | Sat, 20 Sep 2025 17:59:24 GMT | Linux Logging for SOC - Tryhackme | Aaron | [Read More](https://medium.com/p/9a38b82f51ba) |
-| Sat, 20 Sep 2025 17:58:45 GMT | A Comprehensive TryHackMe Roadmap: From Beginner to Pro | eRRoR | [Read More](https://medium.com/p/3f2ac84151ed) |
-| Sat, 20 Sep 2025 17:57:01 GMT | Security Implications of Social Media | Cyber Security Research | [Read More](https://medium.com/p/0d6a4407838b) |
-| Sat, 20 Sep 2025 17:56:01 GMT | OSCP Exam Secrets: Avoiding Rabbit Holes and Staying on Track | Diasadin | [Read More](https://medium.com/p/514d79adb214) |
-| Sat, 20 Sep 2025 17:55:21 GMT | Security-First API Documentation: Your Secret Weapon for Developer Trust & Adoption | Udit Narayan (BlogOQA) | [Read More](https://medium.com/p/e2b343f4343b) |
-| Sat, 20 Sep 2025 17:55:05 GMT | How I Passed the eWPT in 1.5 Months: Study Strategy + Exam Tips | T. Thirupathi | [Read More](https://medium.com/p/bc3ef417f28d) |
-| Sat, 20 Sep 2025 17:47:50 GMT | Would Your AI Save You? Loyalty and Sacrifice in LLM Moral Choices | Sems Kurtoglu | [Read More](https://medium.com/p/92390a993459) |
-| Sat, 20 Sep 2025 17:42:15 GMT | Network Security and Cyber Security: Key Differences, Importance, and Best Practices | Jazz Cyber Shield | [Read More](https://medium.com/p/310bc2e7a848) |
-| Sat, 20 Sep 2025 17:40:57 GMT | Day 8: The $10 Million Live Demo -Building a Complete Blog Platform from Zero to Production | Mahimagarg | [Read More](https://medium.com/p/3a060710afae) |
