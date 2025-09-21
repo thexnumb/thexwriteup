@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 12:31:56 GMT | Ethical Hacking Course in Coimbatore | Mahaalakshmisakthivel | [Read More](https://medium.com/p/c6432c5a2987) |
+| Sun, 21 Sep 2025 12:24:52 GMT | The Ethical hacking course for bright future | Mahaalakshmisakthivel | [Read More](https://medium.com/p/966b514ad8b1) |
+| Sun, 21 Sep 2025 12:21:49 GMT | What I Wish I Knew When I Started Bug Bounty | 0xBruno | [Read More](https://medium.com/p/b5ed4e50b912) |
+| Sun, 21 Sep 2025 12:15:59 GMT | AI is gonna nuke us one day, BY MISTAKE! | NK FELIX | [Read More](https://medium.com/p/18ffa477656f) |
+| Sun, 21 Sep 2025 12:15:31 GMT | Threat Hunting with SIEM Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/84114373900e) |
+| Sun, 21 Sep 2025 12:05:32 GMT | Detecting Web DDos Attacks — TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/415575ae36c0) |
+| Sun, 21 Sep 2025 12:03:14 GMT | TCP/IP vs OSI Model Explained | Mahidul Haque | [Read More](https://medium.com/p/cf8d355b85a9) |
+| Sun, 21 Sep 2025 12:01:51 GMT | The Fallacy of Representation: When Visibility Misleads Understanding | Tom Luu | [Read More](https://medium.com/p/95299aba829c) |
+| Sun, 21 Sep 2025 12:01:36 GMT | Process Injection 101 to Advanced (Part — 1) | zerOiQ | [Read More](https://medium.com/p/ead719f31a7f) |
+| Sun, 21 Sep 2025 12:00:27 GMT | Top-Rated Web Application Security Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/9d7794c24aa1) |
+| Sun, 21 Sep 2025 11:57:12 GMT | AI driven Activity monitoring — Docker AI models & Spring framework | Patroclos Lemoniatis | [Read More](https://medium.com/p/efe3793c982d) |
+| Sun, 21 Sep 2025 11:46:56 GMT | Ransomware Has Evolved, And It’s Not Just About Locked Files Anymore | Vaibhav Tiwari | [Read More](https://medium.com/p/3b2ea0f1a6c6) |
+| Sun, 21 Sep 2025 11:44:17 GMT | A $100,000 H-1B Fee: A Turning Point in Global Tech Hiring | Shahnawaz Khan | [Read More](https://medium.com/p/08c0e3133ba8) |
+| Sun, 21 Sep 2025 11:38:53 GMT | History and Methods of a modern Cyber threat actor : APT28 | Martin Hell | [Read More](https://medium.com/p/304d7783eb25) |
+| Sun, 21 Sep 2025 11:35:06 GMT | AI Answers Got Worse — Here’s The Proof | Somanathdiksangi | [Read More](https://medium.com/p/a85a66869b9c) |
 | Sun, 21 Sep 2025 11:29:29 GMT | From Exploit to Awareness: Understanding Enterprise Framework Risks | Yashraj Sinha | [Read More](https://medium.com/p/a99912f149a3) |
 | Sun, 21 Sep 2025 11:24:27 GMT | Is TryHackMe worth it? | ZeakPeak | [Read More](https://medium.com/p/2bffb0d71316) |
 | Sun, 21 Sep 2025 11:23:06 GMT | Trump’s H-1B Fee Hike: How to Lose Friends and Empower Competitors | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/42ab1ac9765d) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 05:07:43 GMT | Google Pixel 10 Series Comparison: Pro vs Standard Explained | Diya Afrin | [Read More](https://medium.com/p/48e4d57e4764) |
 | Sun, 21 Sep 2025 05:01:47 GMT | My $1300 Cloud Security Playground | Imam Bashir Abdulwahab (twenty4) | [Read More](https://medium.com/p/f0c877c82e31) |
 | Sun, 21 Sep 2025 04:47:08 GMT | O Código Gerado por IA é Seguro? | Airton R Junior | [Read More](https://medium.com/p/3e30c485493c) |
-| Sun, 21 Sep 2025 04:18:41 GMT | Collins Aerospace Cyberattack Disrupts European Air Travel | Φiriki Intelligence | [Read More](https://medium.com/p/c0b15b3c37d3) |
-| Sun, 21 Sep 2025 04:06:58 GMT | AI Red Teaming CTF-HackerOne | Marshalpmathew | [Read More](https://medium.com/p/38d8bd54a782) |
-| Sun, 21 Sep 2025 04:06:45 GMT | Grounded by Hackers: How Cyber Attacks Are Delaying European Flights | alikhan | [Read More](https://medium.com/p/161463d3bc15) |
-| Sun, 21 Sep 2025 04:01:47 GMT | The Final Chapter: A Complete Guide to Auditing WPA2-Enterprise (Professional Edition) | Biplove Yadav | [Read More](https://medium.com/p/7a0ce2dd31a5) |
-| Sun, 21 Sep 2025 04:00:49 GMT | NPM Supply Chain Attack: Understanding ‘Shai-Hulud’ and How to Protect Yourself | Code Wiz | [Read More](https://medium.com/p/6eaa3fd89cf5) |
-| Sun, 21 Sep 2025 03:55:56 GMT | Is it easy to discover a critical vulnerability [P1] ? | Suprit Pandurangi | [Read More](https://medium.com/p/e68c76974124) |
-| Sun, 21 Sep 2025 03:54:11 GMT | Act. Now. Peace: Reflections on International Day of Peace 2025 | Joanne Bruce | [Read More](https://medium.com/p/18b29041df18) |
-| Sun, 21 Sep 2025 03:51:44 GMT | OWASP ZAP + Playwright: Automating Penetration Testing for Modern Web Apps | Mohamed Said Ibrahim | [Read More](https://medium.com/p/e0e817bdc29c) |
-| Sun, 21 Sep 2025 03:49:17 GMT | When LLMs Obey Too Much: Playing with Prompt Injection Defenses | Pratip Dasgupta | [Read More](https://medium.com/p/fea39993c292) |
-| Sun, 21 Sep 2025 03:43:53 GMT | Recon III: JavaScript Secret | Taulan Zauzanov | [Read More](https://medium.com/p/67782e2ec1f8) |
-| Sun, 21 Sep 2025 03:31:28 GMT | Loving Someone Isn’t Always Easy | Monch | [Read More](https://medium.com/p/c56fdd60957a) |
-| Sun, 21 Sep 2025 03:27:38 GMT | AppSec IR Room - TryHackMe | ClaudioXXX | [Read More](https://medium.com/p/6614f2b203eb) |
-| Sun, 21 Sep 2025 03:19:19 GMT | Portswigger walkthrough(Apprentice) | The Commoness | [Read More](https://medium.com/p/761164bed221) |
-| Sun, 21 Sep 2025 03:17:34 GMT | The Python Framework That’s Quietly Revolutionizing AI Development | Rizqi Mulki | [Read More](https://medium.com/p/3462fd024060) |
-| Sun, 21 Sep 2025 03:16:22 GMT | Securing the Internet of Things (IoT): From Smart Homes to Industrial Control | Samina Perveen | [Read More](https://medium.com/p/882d2c2ee019) |
