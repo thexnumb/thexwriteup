@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 10:32:41 GMT | We’re Living Closer to I, Robot Than We Think | Carang | [Read More](https://medium.com/p/8f03c0cb9a86) |
+| Sun, 21 Sep 2025 10:30:20 GMT | Comment optimiser vos images docker ? | Guillaume David | [Read More](https://medium.com/p/c0a1e2bd4340) |
+| Sun, 21 Sep 2025 10:26:24 GMT | The Benefits of Hiring the Best Security Patrol Services in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/f8e8ca9bbbb0) |
+| Sun, 21 Sep 2025 10:26:24 GMT | The First Casualty of Cyber War-19 | MSBJ | [Read More](https://medium.com/p/3d12c172f3f8) |
+| Sun, 21 Sep 2025 10:25:35 GMT | ARP Spoofing Explained — An Educational Lab for Detection & Defense | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/6c2fa58a527b) |
+| Sun, 21 Sep 2025 10:19:57 GMT | The Check-In Goes Dark In September 2025 | O. J. Okpabi | [Read More](https://medium.com/p/697563c090c2) |
+| Sun, 21 Sep 2025 10:19:44 GMT | Inside Cipher Anti-Drain | Llama | [Read More](https://medium.com/p/5b1261e0364f) |
+| Sun, 21 Sep 2025 10:17:18 GMT | DockerLabs Writeup — ConsoleLog (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9f6b5224c926) |
+| Sun, 21 Sep 2025 10:16:12 GMT | How AWS WAF and API Gateway Stop Botnets Like Mirai | Alan Leong | [Read More](https://medium.com/p/b1b7226640ba) |
+| Sun, 21 Sep 2025 10:05:57 GMT | xss0r ULTIMATE GIVEAWAY 
+  Win 1 Year of the xss0r Plan + Free VPS Setup | xss0r | [Read More](https://medium.com/p/2ebc49896a66) |
 | Sun, 21 Sep 2025 09:58:41 GMT | CWES Review — Certified Web Exploitation Specialist 2025 | eldeim | [Read More](https://medium.com/p/a78ce1ef8ef5) |
 | Sun, 21 Sep 2025 09:55:16 GMT | Bus Pirate with an ESP32 Heart | Andrei | [Read More](https://medium.com/p/b2dd38895b5b) |
 | Sun, 21 Sep 2025 09:47:43 GMT | crackmes.one: vvsc | Sourav Bose | [Read More](https://medium.com/p/a4167d666a71) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 01:53:04 GMT | The legal challenges of artificial intelligence in data protection | Zafee Chowdhury | [Read More](https://medium.com/p/01f468d68601) |
 | Sun, 21 Sep 2025 01:51:58 GMT | Hacked Hiring: Why Cyber Threats Surge While Jobs and Experts Languish | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e006d248434b) |
 | Sun, 21 Sep 2025 01:50:50 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/9e9804339ca1) |
-| Sun, 21 Sep 2025 01:46:33 GMT | How to Send Large Files for Free: 4 Secure Tools Without Size Limits or Registration | ByteSwift Digital pro | [Read More](https://medium.com/p/325d4d9c1710) |
-| Sun, 21 Sep 2025 01:44:57 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/e9693993ce2d) |
-| Sun, 21 Sep 2025 01:39:33 GMT | CyberDefenders — IcedID 2 Lab | jon | [Read More](https://medium.com/p/65b224a7930e) |
-| Sun, 21 Sep 2025 01:29:19 GMT | Inside a Hack: How Supply Chain Attacks Really Happen (and Why You Might Be Next) | Tina Ginn | [Read More](https://medium.com/p/1c6bb819f636) |
-| Sun, 21 Sep 2025 01:23:09 GMT | Rejection Sensitivity in Romantic Life | Soren Frost | [Read More](https://medium.com/p/0f63a779e0c3) |
-| Sun, 21 Sep 2025 01:16:53 GMT | The legal challenges of artificial intelligence in data protection | Zafee Chowdhury | [Read More](https://medium.com/p/a0b9032d1dc3) |
-| Sun, 21 Sep 2025 01:06:58 GMT | A Deep Dive into the OWASP GenAI Top 10 | Naman Jain | [Read More](https://medium.com/p/97a96aae874f) |
-| Sun, 21 Sep 2025 00:52:24 GMT | Linux and the Internet of Things Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/9ddeebd13670) |
-| Sun, 21 Sep 2025 00:39:28 GMT | Linux Security Cookbook Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/a24acec966f9) |
-| Sun, 21 Sep 2025 00:18:47 GMT | My $$$$$ Blind Xss Tips. | Vedavyasan S (@ved4vyasan) | [Read More](https://medium.com/p/481aa48d9651) |
