@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 22:14:10 GMT | MINDUPLOAD TECH IS REAL. | Nabil Hamidi | [Read More](https://medium.com/p/2daedd061f87) |
+| Sun, 21 Sep 2025 22:06:43 GMT | Creating a Keylogger in Python | Corey Farley | [Read More](https://medium.com/p/bc12710a3f2d) |
+| Sun, 21 Sep 2025 21:39:44 GMT | CyberDefenders: The Crime | Rahaliashraf | [Read More](https://medium.com/p/18e70d936b93) |
+| Sun, 21 Sep 2025 21:39:32 GMT | DLL Sideloading: A technical overview | Shivam Kanodia | [Read More](https://medium.com/p/6cb3949df95f) |
+| Sun, 21 Sep 2025 21:36:05 GMT | My First Bug: Email Enumeration via Password Reset | Zouhair Ake | [Read More](https://medium.com/p/9a6341a9fff3) |
 | Sun, 21 Sep 2025 21:30:01 GMT | Episode 4: Fundamentals Of Cybersecurity — AAA Security | Yash Kitey | [Read More](https://medium.com/p/f006a169402a) |
 | Sun, 21 Sep 2025 21:20:30 GMT | Cyberecology | Nembirowsir | [Read More](https://medium.com/p/7024452e025b) |
 | Sun, 21 Sep 2025 21:19:50 GMT | Recognizing Catfish & Romance Scams in the Age of False Persona | Reclamation Nation | [Read More](https://medium.com/p/61d08d24d973) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 15:22:27 GMT | Tech Trends of September 2025 You Need to Know | Rathodsudhir64 | [Read More](https://medium.com/p/079de0964991) |
 | Sun, 21 Sep 2025 15:21:45 GMT | TryHackMe #37 - Metasploit: Exploitation | 0xGroot | [Read More](https://medium.com/p/28e0c1090a62) |
 | Sun, 21 Sep 2025 15:17:47 GMT | TryHackMe #36 - Metasploit: Introduction | 0xGroot | [Read More](https://medium.com/p/5c559b9edd42) |
-| Sun, 21 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/3630a6c41ac2) |
-| Sun, 21 Sep 2025 15:11:46 GMT | TryHackMe #35 - Moniker Link (CVE-2024–21413) | 0xGroot | [Read More](https://medium.com/p/dae45f3bf61d) |
-| Sun, 21 Sep 2025 15:07:33 GMT | Mengapa Aku Menolak Bermain Roblox | Hartzel | [Read More](https://medium.com/p/9c59e24c6875) |
-| Sun, 21 Sep 2025 14:57:27 GMT | Kerberos Delegations | SeverSerenity | [Read More](https://medium.com/p/700e1e3cc5b5) |
-| Sun, 21 Sep 2025 14:56:41 GMT | The Rise of Content Creators and Influencers: Shaping Modern Communication | AYOADE Ibrahim | [Read More](https://medium.com/p/fee915dbb726) |
