@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 08:04:55 GMT | {THM} Gallery — writeup | Nihat Rashidli | [Read More](https://medium.com/p/6f88a771bb3c) |
+| Sun, 21 Sep 2025 07:55:41 GMT | OWASP Juice Shop: Broken Access Control — Five-Star Feedback | Risskian | [Read More](https://medium.com/p/efd8c573f173) |
+| Sun, 21 Sep 2025 07:55:34 GMT | Typosquatting in Package Managers: The Attack That Preys on a Single Keystroke | InstaTunnel | [Read More](https://medium.com/p/39588b832390) |
+| Sun, 21 Sep 2025 07:50:10 GMT | Beware of Mobile-Only Fake/Phishing Pages! | VENUKAMATCHI P | [Read More](https://medium.com/p/2141298529b6) |
 | Sun, 21 Sep 2025 07:25:06 GMT | Professional Vulnerability & Bug Report Writing | BinaryShield | [Read More](https://medium.com/p/2cbd1ec5d31e) |
 | Sun, 21 Sep 2025 07:12:24 GMT | ️ Case Study: Flipkart Big Billion Days Phishing Scam on Cloudflare Pages | LETCHU PKT | [Read More](https://medium.com/p/044c355642e1) |
 | Sun, 21 Sep 2025 07:02:30 GMT | Affordable but Vulnerable? The Cybersecurity Side of CMORE HMI | Azim Uddin | [Read More](https://medium.com/p/4bf59134b78a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 21:46:49 GMT | Why Retail Stores Need Professional Security Guards | Nimra Sheikh | [Read More](https://medium.com/p/4a60dcbfce4b) |
 | Sat, 20 Sep 2025 21:43:41 GMT | Event Security: Why Safety Matters for Every Gathering | Nimra Sheikh | [Read More](https://medium.com/p/bd336d41d41c) |
 | Sat, 20 Sep 2025 21:41:46 GMT | Phishing and how to spot it | Jacob Piloto | [Read More](https://medium.com/p/214baedd6a7d) |
-| Sat, 20 Sep 2025 21:39:39 GMT | Writeup: HTB Web Challenge — The JavaScript Labyrinth | Joey Cadieux | [Read More](https://medium.com/p/c302fd5e0555) |
-| Sat, 20 Sep 2025 21:22:47 GMT | Cybersecurity Career Paths: From Beginner to CISO, GRC, or CTO | Digital & Spiritual | [Read More](https://medium.com/p/391d82f4f70b) |
-| Sat, 20 Sep 2025 21:13:10 GMT | Buffer Overflow: An Introduction to One of the Oldest Yet Deadliest Exploits | Beri Contraster | [Read More](https://medium.com/p/6d133685c3e7) |
-| Sat, 20 Sep 2025 21:09:27 GMT | The Bone Orchard Pact | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/2b875c14d81d) |
