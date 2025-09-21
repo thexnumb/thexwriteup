@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 01:29:19 GMT | Inside a Hack: How Supply Chain Attacks Really Happen (and Why You Might Be Next) | Tina Ginn | [Read More](https://medium.com/p/1c6bb819f636) |
+| Sun, 21 Sep 2025 01:23:09 GMT | Rejection Sensitivity in Romantic Life | Soren Frost | [Read More](https://medium.com/p/0f63a779e0c3) |
+| Sun, 21 Sep 2025 01:16:53 GMT | The legal challenges of artificial intelligence in data protection | Zafee Chowdhury | [Read More](https://medium.com/p/a0b9032d1dc3) |
+| Sun, 21 Sep 2025 01:06:58 GMT | A Deep Dive into the OWASP GenAI Top 10 | Naman Jain | [Read More](https://medium.com/p/97a96aae874f) |
+| Sun, 21 Sep 2025 00:52:24 GMT | Linux and the Internet of Things Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/9ddeebd13670) |
+| Sun, 21 Sep 2025 00:39:28 GMT | Linux Security Cookbook Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/a24acec966f9) |
+| Sun, 21 Sep 2025 00:18:47 GMT | My $$$$$ Blind Xss Tips. | Vedavyasan S (@ved4vyasan) | [Read More](https://medium.com/p/481aa48d9651) |
+| Sun, 21 Sep 2025 00:17:24 GMT | CyberDefenders — QBot Lab | jon | [Read More](https://medium.com/p/ed79f8827d93) |
+| Sun, 21 Sep 2025 00:14:00 GMT | Can Synthetic Data Help Bridge the Psychology-Cybersecurity Gap? | Giuseppe Canale | [Read More](https://medium.com/p/4aebc0fce777) |
+| Sun, 21 Sep 2025 00:13:10 GMT | Chainguard: Secure Images and You, Better Together | W. Jenks Gibbons | [Read More](https://medium.com/p/86c228afd1c0) |
+| Sat, 20 Sep 2025 23:58:37 GMT | Security Challenges of Smart Homes | Cyber Security Research | [Read More](https://medium.com/p/78e1e8a4e4c5) |
+| Sat, 20 Sep 2025 23:52:09 GMT | AI-Powered Cybersecurity Defense Systems | Cyber Security Research | [Read More](https://medium.com/p/776b235dc6c4) |
+| Sat, 20 Sep 2025 23:39:22 GMT | Mobile Application Security Testing | Cyber Security Research | [Read More](https://medium.com/p/c352227c3f68) |
 | Sat, 20 Sep 2025 23:33:18 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/1f2ebe194382) |
 | Sat, 20 Sep 2025 23:15:44 GMT | The CIA of Cybersecurity | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/7076bd04ee2c) |
 | Sat, 20 Sep 2025 23:04:36 GMT | Hack the Box Explore CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/8488eb1bf71e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 15:48:30 GMT | Maximize Your Digital Wealth with BUG Strategies | BUG | [Read More](https://medium.com/p/fd14c3daa96c) |
 | Sat, 20 Sep 2025 15:44:54 GMT | OSINT (Open-Source Intelligence) 2026 | BinaryShield | [Read More](https://medium.com/p/d1bd41a06025) |
 | Sat, 20 Sep 2025 15:44:09 GMT | Unlocked Doors & Digital Dangers: Understanding Cyber Risk | Divya Priya Venkatesan | [Read More](https://medium.com/p/a550ca6d174a) |
-| Sat, 20 Sep 2025 15:41:45 GMT | What No One Admits About Healthy Love: Insecurity Never Fully Leaves | Syntax Of Us | [Read More](https://medium.com/p/682191f84e0c) |
-| Sat, 20 Sep 2025 15:41:13 GMT | PBO : Inheritance | Yasa Wijaya | [Read More](https://medium.com/p/7581e279f4e4) |
-| Sat, 20 Sep 2025 15:39:19 GMT | Why Cyber Security Matters at 30,000 Feet | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/3398f3c4efb1) |
-| Sat, 20 Sep 2025 15:30:43 GMT | The Lazy Person’s Guide to Unstoppable Drive: Embracing Vulnerability for Personal Growth | Jordan Davis | [Read More](https://medium.com/p/908d46ab6833) |
-| Sat, 20 Sep 2025 15:29:56 GMT | HackTheBox - Puppy | Hexshubz | [Read More](https://medium.com/p/2b8488c39f9b) |
-| Sat, 20 Sep 2025 15:28:04 GMT | RisingAttacK: A New Adversarial Threat That Can Control What AI Vision Systems “See” | Mustapha Aitigunaoun | [Read More](https://medium.com/p/584c8d04fceb) |
-| Sat, 20 Sep 2025 15:25:45 GMT | How I Built My Personal Ethical Hacking Lab and Started Breaking Into My Own Network | Michael Preston | [Read More](https://medium.com/p/e81c11403486) |
-| Sat, 20 Sep 2025 15:25:29 GMT | Fluffy Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/f5d460be3312) |
-| Sat, 20 Sep 2025 15:21:13 GMT | Cyber Storm Rising: Flights Grounded, Europe Exposed, More to Come | Carsten Stöcker | [Read More](https://medium.com/p/4661c2590496) |
-| Sat, 20 Sep 2025 15:18:37 GMT | How Attackers Steal Access to Your Phone: What I’ve Seen So Far | Hitesh Said | [Read More](https://medium.com/p/19e4861e2aa1) |
-| Sat, 20 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 20, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/4d11c8d589b2) |
-| Sat, 20 Sep 2025 15:14:24 GMT | AI Won’t Replace You. But If You Don’t Evolve, Someone Who Knows AI Will. | Vijay Kumar Gupta | [Read More](https://medium.com/p/e5053ced8fea) |
-| Sat, 20 Sep 2025 15:14:02 GMT | Windows Run Keys — What They Are and Why They Matter | Allen Ace | [Read More](https://medium.com/p/c488306dbd0e) |
