@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 09:58:41 GMT | CWES Review — Certified Web Exploitation Specialist 2025 | eldeim | [Read More](https://medium.com/p/a78ce1ef8ef5) |
+| Sun, 21 Sep 2025 09:55:16 GMT | Bus Pirate with an ESP32 Heart | Andrei | [Read More](https://medium.com/p/b2dd38895b5b) |
+| Sun, 21 Sep 2025 09:47:43 GMT | crackmes.one: vvsc | Sourav Bose | [Read More](https://medium.com/p/a4167d666a71) |
+| Sun, 21 Sep 2025 09:36:49 GMT | Encryption in Cyber Security | Roshinni Gandhi | [Read More](https://medium.com/p/50cafba49caf) |
 | Sun, 21 Sep 2025 09:27:37 GMT | The JavaScript Feature That Makes Senior Developers Quit Their Jobs | Rizqi Mulki | [Read More](https://medium.com/p/4c0cc94840e5) |
 | Sun, 21 Sep 2025 09:17:43 GMT | Why PostgreSQL Costs Explode on Cloud (and How to Stop It) | Rizqi Mulki | [Read More](https://medium.com/p/cd0d47b8d16f) |
 | Sun, 21 Sep 2025 09:15:35 GMT | Simon Wardley says AI is coming for you | Mohammed Brückner | [Read More](https://medium.com/p/deca945fcb9b) |
@@ -23,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 08:58:25 GMT | The Invisible Highways Beneath the Waves: Securing the Future of Undersea Internet Cables | SATYASRI AKULA | [Read More](https://medium.com/p/f378ad756daf) |
 | Sun, 21 Sep 2025 08:58:07 GMT | Preventing a Rosh Hashanah Massacre | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a0731b38f934) |
 | Sun, 21 Sep 2025 08:57:22 GMT | End-to-End PHP Security Tips That Don’t Depend on Frameworks | Asian Digital Hub | [Read More](https://medium.com/p/9ab4331b2ac0) |
+| Sun, 21 Sep 2025 08:56:50 GMT | Güvenlik Operasyon Merkezi (SOC) Nedir ve Neden Önemlidir? | Nazlıcan Tokal | [Read More](https://medium.com/p/a67047259e9b) |
 | Sun, 21 Sep 2025 08:41:21 GMT | OSCP Preparation Series — Access | Ahsan Ali Khan | [Read More](https://medium.com/p/ff98144fcc8e) |
 | Sun, 21 Sep 2025 08:25:37 GMT | AI-Driven Phishing Website Detection with Python: 2025 Insights for Ethical Hackers | Muhammad Abdullah Arif | [Read More](https://medium.com/p/dc634b88cf9a) |
 | Sun, 21 Sep 2025 08:20:25 GMT | AI Hallucinations —  Why Blind Trust Can Backfire | Nazish Marvi | [Read More](https://medium.com/p/1d0526a0056a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 00:52:24 GMT | Linux and the Internet of Things Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/9ddeebd13670) |
 | Sun, 21 Sep 2025 00:39:28 GMT | Linux Security Cookbook Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/a24acec966f9) |
 | Sun, 21 Sep 2025 00:18:47 GMT | My $$$$$ Blind Xss Tips. | Vedavyasan S (@ved4vyasan) | [Read More](https://medium.com/p/481aa48d9651) |
-| Sun, 21 Sep 2025 00:17:24 GMT | CyberDefenders — QBot Lab | jon | [Read More](https://medium.com/p/ed79f8827d93) |
-| Sun, 21 Sep 2025 00:14:00 GMT | Can Synthetic Data Help Bridge the Psychology-Cybersecurity Gap? | Giuseppe Canale | [Read More](https://medium.com/p/4aebc0fce777) |
-| Sun, 21 Sep 2025 00:13:10 GMT | Chainguard: Secure Images and You, Better Together | W. Jenks Gibbons | [Read More](https://medium.com/p/86c228afd1c0) |
-| Sat, 20 Sep 2025 23:58:37 GMT | Security Challenges of Smart Homes | Cyber Security Research | [Read More](https://medium.com/p/78e1e8a4e4c5) |
-| Sat, 20 Sep 2025 23:52:09 GMT | AI-Powered Cybersecurity Defense Systems | Cyber Security Research | [Read More](https://medium.com/p/776b235dc6c4) |
