@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 13:17:46 GMT | Buffer Overflow Vulnerabilities: A Deep Dive into Memory Corruption | Rizqi Mulki | [Read More](https://medium.com/p/9811a309538e) |
+| Sun, 21 Sep 2025 13:17:42 GMT | Why cloud-native pentest platforms are changing the game | Luis Abreu from Cyver | [Read More](https://medium.com/p/f491c2527b2f) |
+| Sun, 21 Sep 2025 13:14:27 GMT | Privacy Enhancing Technologies | Cyber Security Research | [Read More](https://medium.com/p/4e193d3b5c2a) |
+| Sun, 21 Sep 2025 13:13:59 GMT | All About Prompt Injection: How Attackers Trick AI | Xcheater | [Read More](https://medium.com/p/56ef7e9baa06) |
+| Sun, 21 Sep 2025 13:08:47 GMT | Risk-Based Vulnerability Management | Cyber Security Research | [Read More](https://medium.com/p/fe86a63bc5e9) |
+| Sun, 21 Sep 2025 13:08:44 GMT | Parameter Pollution Party: How Duplicate Keys Crashed the API & Spilled All the Secrets | Iski | [Read More](https://medium.com/p/f2352d6620ab) |
+| Sun, 21 Sep 2025 13:06:31 GMT | Firefighting to Foresight: Using Google’s NotebookLM in IT & Cybersecurity | Amrik  Hanjra | [Read More](https://medium.com/p/5f7ca27aace5) |
+| Sun, 21 Sep 2025 13:04:17 GMT | How Quantum Error Correction Could Save the Universe | Beyond the Horizon | [Read More](https://medium.com/p/89509f3f5498) |
+| Sun, 21 Sep 2025 13:02:05 GMT | The Role of Honeypots in Cyber Defense | Cyber Security Research | [Read More](https://medium.com/p/7d4bc58095b6) |
+| Sun, 21 Sep 2025 12:59:38 GMT | Shared Libraries in Engineering: Blessing or Bottleneck? | Abdussamad Olaiya | [Read More](https://medium.com/p/56b34c80e688) |
+| Sun, 21 Sep 2025 12:55:51 GMT | Threat Hunting Techniques | Cyber Security Research | [Read More](https://medium.com/p/3c802ef6b65e) |
+| Sun, 21 Sep 2025 12:50:41 GMT | Ready to Become a Cyber Guardian? Why You Need an Ethical Hacking Course in Delhi | Nitin Singh | [Read More](https://medium.com/p/b355d3d989c1) |
+| Sun, 21 Sep 2025 12:48:28 GMT | The Human Factor in Cybersecurity Breaches | Cyber Security Research | [Read More](https://medium.com/p/e389fcef0ccd) |
+| Sun, 21 Sep 2025 12:37:44 GMT | As For You | Mayukh Sarma | [Read More](https://medium.com/p/eda555767f4f) |
+| Sun, 21 Sep 2025 12:37:44 GMT | Browsers Beware: When Your Browser Predicts You | R. Thompson (PhD) | [Read More](https://medium.com/p/9c6cd9990938) |
+| Sun, 21 Sep 2025 12:37:39 GMT | Five Security Items Unresolved By GSMA or 3GPP Security Group | Josue Martins | [Read More](https://medium.com/p/7df3c25b8d40) |
+| Sun, 21 Sep 2025 12:36:05 GMT | NMap: The Powerful Tool | Arti Sandip Jadhav | [Read More](https://medium.com/p/576486cbb4fc) |
 | Sun, 21 Sep 2025 12:31:56 GMT | Ethical Hacking Course in Coimbatore | Mahaalakshmisakthivel | [Read More](https://medium.com/p/c6432c5a2987) |
 | Sun, 21 Sep 2025 12:24:52 GMT | The Ethical hacking course for bright future | Mahaalakshmisakthivel | [Read More](https://medium.com/p/966b514ad8b1) |
 | Sun, 21 Sep 2025 12:21:49 GMT | What I Wish I Knew When I Started Bug Bounty | 0xBruno | [Read More](https://medium.com/p/b5ed4e50b912) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 06:05:37 GMT | HTB Fluffy — Medium Walkthrough | Ram Kansal | [Read More](https://medium.com/p/a4545690643b) |
 | Sun, 21 Sep 2025 06:04:42 GMT | Designing a Serverless Event-Driven Workflow for Image Uploads at Scale | Uriel Bitton | [Read More](https://medium.com/p/091fed900e9c) |
 | Sun, 21 Sep 2025 06:04:25 GMT | How I Cleared eJPT on My First Attempt in Just 14 Hours.. | Shivprasad Lavhat | [Read More](https://medium.com/p/3bb13b1bc507) |
-| Sun, 21 Sep 2025 06:02:49 GMT | Hunting For TamperedChef Infostealer | Ameer Mane | [Read More](https://medium.com/p/825dc94cee00) |
-| Sun, 21 Sep 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — Sep 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/53dcfac6c0ef) |
-| Sun, 21 Sep 2025 05:59:14 GMT | IEEE Quals Official RE Write-ups | K1r1too | [Read More](https://medium.com/p/a0139cf17aac) |
-| Sun, 21 Sep 2025 05:54:29 GMT | How to Recover Lost Money from Online Scammers in 2026 – The Fastest Method | Cyberwise | [Read More](https://medium.com/p/c2808e72cae9) |
-| Sun, 21 Sep 2025 05:51:27 GMT | The Hidden Python Library That’s Making OpenAI Engineers Jealous | Rizqi Mulki | [Read More](https://medium.com/p/eda41281fc26) |
-| Sun, 21 Sep 2025 05:46:37 GMT | Installation Steps for Volatility 2 on Apple M series chip | Cataholic | [Read More](https://medium.com/p/ff15afeb9d8d) |
-| Sun, 21 Sep 2025 05:46:10 GMT | Securing a Kali Linux VM on Hyper-V (ARM64): From Frustration to Full GUI + Hardened Setup | LobaMegaTON | [Read More](https://medium.com/p/26092c14ae73) |
-| Sun, 21 Sep 2025 05:23:19 GMT | Rust in the Kernel: From Niche to Necessary | Modexa | [Read More](https://medium.com/p/7a04f2cc5b91) |
-| Sun, 21 Sep 2025 05:21:04 GMT | Exploiting LLM APIs with excessive agency | Nitish Agrawal | [Read More](https://medium.com/p/97db9a17a294) |
-| Sun, 21 Sep 2025 05:20:54 GMT | The Romance Scam That Stole My Aunt’s Heart and Her Savings | Shahzaib | [Read More](https://medium.com/p/e09e41c6b876) |
-| Sun, 21 Sep 2025 05:20:51 GMT | Advent of Cyber ’24 Side Quest - TryHackMe | Dhruv | [Read More](https://medium.com/p/74960d917fd0) |
-| Sun, 21 Sep 2025 05:15:55 GMT | Detecting Web DDoS - TryHackMe | Samuel McLamb | [Read More](https://medium.com/p/0ce96e38eca2) |
-| Sun, 21 Sep 2025 05:11:04 GMT | The Quickest route to hack Flutter based Applications | Suprit Pandurangi | [Read More](https://medium.com/p/4dab215f6a00) |
-| Sun, 21 Sep 2025 05:09:49 GMT | Quantum Finance: How Quantum Computing Threatens and Revamps Financial Security?? | Parth Karwa | [Read More](https://medium.com/p/35f413a2393c) |
-| Sun, 21 Sep 2025 05:07:43 GMT | Google Pixel 10 Series Comparison: Pro vs Standard Explained | Diya Afrin | [Read More](https://medium.com/p/48e4d57e4764) |
-| Sun, 21 Sep 2025 05:01:47 GMT | My $1300 Cloud Security Playground | Imam Bashir Abdulwahab (twenty4) | [Read More](https://medium.com/p/f0c877c82e31) |
-| Sun, 21 Sep 2025 04:47:08 GMT | O Código Gerado por IA é Seguro? | Airton R Junior | [Read More](https://medium.com/p/3e30c485493c) |
