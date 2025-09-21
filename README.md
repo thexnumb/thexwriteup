@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 19:30:31 GMT | Common Cyber Threats in 2025 and How to Stay Safe — Protect Yourself Now | The Daily Technology | [Read More](https://medium.com/p/a7156faa6008) |
+| Sun, 21 Sep 2025 19:29:50 GMT | Why Privacy-First Development is the Only Way Forward in 2025 | Abdul Rehman Khan | [Read More](https://medium.com/p/f9a1a4db9ff2) |
+| Sun, 21 Sep 2025 19:28:22 GMT | Cybercrime in Nigeria: How Scammers Think, What They Do, and How You Can Protect Yourself | Udemchinelo | [Read More](https://medium.com/p/9bc2af11d2fc) |
+| Sun, 21 Sep 2025 19:27:26 GMT | Voice over IP: İnternet Üzerinden İletişimin Detayları | enes mercan | [Read More](https://medium.com/p/28af4a51137b) |
+| Sun, 21 Sep 2025 19:26:52 GMT | Distributed Identity: the Next Frontier of Corporate Cybersecurity | Rodrigo Gutierrez | [Read More](https://medium.com/p/4d429ddac333) |
+| Sun, 21 Sep 2025 19:22:39 GMT | A Night In Poland’s Digital Siege 2025 | O. J. Okpabi | [Read More](https://medium.com/p/8ebef62e02ff) |
+| Sun, 21 Sep 2025 19:18:33 GMT | Wazuh API Integration with Slack: A Step-by-Step Guide for Real-Time Security Alerting. | Enitan Ogungbade | [Read More](https://medium.com/p/b0c1f06facc7) |
+| Sun, 21 Sep 2025 19:17:46 GMT | The Ultimate Windows CMD Cheat Sheet for Blue & Red Teams | eRRoR | [Read More](https://medium.com/p/fad774f7482c) |
+| Sun, 21 Sep 2025 19:08:07 GMT | How Malware Binding Works: Defensive Insights for SOC Analysts ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/c241adcf2e12) |
 | Sun, 21 Sep 2025 19:03:27 GMT | Exploring Wazuh and TheHive Lab: A Beginner’s Journey - PART 1 | Arshathhaq | [Read More](https://medium.com/p/b68c46cf1634) |
 | Sun, 21 Sep 2025 18:59:32 GMT | Zero to Mastery in Cybersecurity — A Personal Career Development Plan. | Hartej Lehal | [Read More](https://medium.com/p/4950539300e4) |
 | Sun, 21 Sep 2025 18:50:27 GMT | You’ve Never Lived in Full Sound | H. | [Read More](https://medium.com/p/5cc72e811725) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 13:30:38 GMT | Cyberresilienz für KMU stärken: Wie der CyberRisikoCheck den Anfang erleichtert | Arpad Vasarhelyi | [Read More](https://medium.com/p/90cf104dbd0e) |
 | Sun, 21 Sep 2025 13:28:57 GMT | OWASP Top 10 Nedir? | hadi cicek | [Read More](https://medium.com/p/81d41c1c4bad) |
 | Sun, 21 Sep 2025 13:25:56 GMT | Why I Use Cold Backups Instead of Relying Only on Snapshots | Faruk Ahmed | [Read More](https://medium.com/p/a4c22c6c4a50) |
-| Sun, 21 Sep 2025 13:24:54 GMT | CyberDefenders: Amadey Lab | Rahaliashraf | [Read More](https://medium.com/p/80007dcb7d51) |
-| Sun, 21 Sep 2025 13:22:24 GMT | A Comprehensive Framework for Secure Code Review in Go and TypeScript | Greg Lusk | [Read More](https://medium.com/p/7aa7afd0adaa) |
-| Sun, 21 Sep 2025 13:17:46 GMT | Buffer Overflow Vulnerabilities: A Deep Dive into Memory Corruption | Rizqi Mulki | [Read More](https://medium.com/p/9811a309538e) |
-| Sun, 21 Sep 2025 13:17:42 GMT | Why cloud-native pentest platforms are changing the game | Luis Abreu from Cyver | [Read More](https://medium.com/p/f491c2527b2f) |
-| Sun, 21 Sep 2025 13:14:27 GMT | Privacy Enhancing Technologies | Cyber Security Research | [Read More](https://medium.com/p/4e193d3b5c2a) |
-| Sun, 21 Sep 2025 13:13:59 GMT | All About Prompt Injection: How Attackers Trick AI | Xcheater | [Read More](https://medium.com/p/56ef7e9baa06) |
-| Sun, 21 Sep 2025 13:08:47 GMT | Risk-Based Vulnerability Management | Cyber Security Research | [Read More](https://medium.com/p/fe86a63bc5e9) |
-| Sun, 21 Sep 2025 13:08:44 GMT | Parameter Pollution Party: How Duplicate Keys Crashed the API & Spilled All the Secrets | Iski | [Read More](https://medium.com/p/f2352d6620ab) |
-| Sun, 21 Sep 2025 13:06:31 GMT | Firefighting to Foresight: Using Google’s NotebookLM in IT & Cybersecurity | Amrik  Hanjra | [Read More](https://medium.com/p/5f7ca27aace5) |
