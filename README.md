@@ -12,12 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 16:23:39 GMT | DPRK Hackers Exploit Fake Job Interviews to Deploy BeaverTail Malware | Suhas Valasala | [Read More](https://medium.com/p/c0a21a2d8944) |
 | Sun, 21 Sep 2025 16:19:29 GMT | Why Modern Security Teams Need AI-Powered Analysts, Not Just More Tools❗ | SupportXDR | [Read More](https://medium.com/p/df2375f29c3e) |
 | Sun, 21 Sep 2025 16:14:57 GMT | Compliance Consulting Services in India | Lumiversesolution | [Read More](https://medium.com/p/692ee04979a5) |
 | Sun, 21 Sep 2025 16:13:01 GMT | Uncovering Local File Inclusion Vulnerabilities: A Practical Approach to Path Traversal Hunting | Kocheengtom | [Read More](https://medium.com/p/f59fb9538f2e) |
 | Sun, 21 Sep 2025 16:11:24 GMT | Why Choose a Security Company for Office Buildings Miami You Can Trust | Onyx Protective Services | [Read More](https://medium.com/p/8ba1276f66c8) |
 | Sun, 21 Sep 2025 16:08:12 GMT | Canada Dismantles TradeOgre Crypto Exchange, Seizes $40 Million | Suhas Valasala | [Read More](https://medium.com/p/275a686f5cda) |
 | Sun, 21 Sep 2025 16:05:55 GMT | Why School Security Guard Services Georgia Are Vital for Campus Safety | Onyx Protective Services | [Read More](https://medium.com/p/7df586cbaf0f) |
+| Sun, 21 Sep 2025 16:05:34 GMT | Descubriendo Puertas Ocultas: Guía Enumeración Web con Dirb, Gobuster y FFUF en Metasploitable 2 | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/daf175b4e7d3) |
 | Sun, 21 Sep 2025 16:04:10 GMT | Navigating User Privacy in the Age of Generative AI | Rohit Ranjan | [Read More](https://medium.com/p/5ddc9f69258c) |
 | Sun, 21 Sep 2025 16:02:57 GMT | Supply-Chain Cybersecurity: The Hidden Weak Link in Aviation | Nakul Srivastava | [Read More](https://medium.com/p/39be91ada46e) |
 | Sun, 21 Sep 2025 16:01:08 GMT | Mentorship in the age of AI: Why people will still matter | Pablo Vergara | [Read More](https://medium.com/p/d048df8c009f) |
@@ -26,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 15:52:11 GMT | The Ghost in the Machine: How a 1980s Flaw Could Bring Our World to a Screeching Halt | Yusuf Asan | [Read More](https://medium.com/p/7409733ba6b7) |
 | Sun, 21 Sep 2025 15:51:59 GMT | It Felt Safe, Until the Last Click️ | Zoningxtr | [Read More](https://medium.com/p/d1d75d0f1fcd) |
 | Sun, 21 Sep 2025 15:45:33 GMT | Heathrow Faces Second Day of Disruption After Major Cyber Attack | Mr Orion | [Read More](https://medium.com/p/5d8c6c9c0961) |
+| Sun, 21 Sep 2025 15:40:56 GMT | AI Jadi Senjata Hacker: Seberapa Siap Indonesia Menghadapinya? | Handev Code | [Read More](https://medium.com/p/007106122bcd) |
 | Sun, 21 Sep 2025 15:31:46 GMT | TryHackMe #39 - Blue | 0xGroot | [Read More](https://medium.com/p/caac903d9f12) |
 | Sun, 21 Sep 2025 15:31:46 GMT | School Security Software SentryPC: Revolutionizing Safety and Monitoring in Educational… | Paul Meyer | [Read More](https://medium.com/p/7f66b0434010) |
 | Sun, 21 Sep 2025 15:31:34 GMT | Why MITRE ATLAS is a Game-Changer for Adversarial Machine Learning | Rohit Ranjan | [Read More](https://medium.com/p/a5d2c707f417) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 10:54:58 GMT | Superhero 1- Dragonflies | Nonjabulo Matomela | [Read More](https://medium.com/p/b19ccd2b66fb) |
 | Sun, 21 Sep 2025 10:47:28 GMT | Why Small Businesses in Bangladesh Are the Prime Targets for Cyber Attacks in 2025 | Cyber Bangla Ltd. | [Read More](https://medium.com/p/affac73730d6) |
 | Sun, 21 Sep 2025 10:45:27 GMT | Optimationbd Trusted CCTV Camera Provider for Residential and Commercial Projects in Bangladesh | optimationbd | [Read More](https://medium.com/p/073875f8d840) |
-| Sun, 21 Sep 2025 10:41:37 GMT | What’s happening in the SOC? Crazy. | Tyler Wall | [Read More](https://medium.com/p/ce5bb5036534) |
-| Sun, 21 Sep 2025 10:40:47 GMT | Let Me Lie to Myself | Rani | [Read More](https://medium.com/p/69f308086cf2) |
-| Sun, 21 Sep 2025 10:40:15 GMT | OTP Bypass | Cyber Bangla Ltd. | [Read More](https://medium.com/p/fd17e8fdef60) |
