@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 16:19:29 GMT | Why Modern Security Teams Need AI-Powered Analysts, Not Just More Tools❗ | SupportXDR | [Read More](https://medium.com/p/df2375f29c3e) |
+| Sun, 21 Sep 2025 16:14:57 GMT | Compliance Consulting Services in India | Lumiversesolution | [Read More](https://medium.com/p/692ee04979a5) |
+| Sun, 21 Sep 2025 16:13:01 GMT | Uncovering Local File Inclusion Vulnerabilities: A Practical Approach to Path Traversal Hunting | Kocheengtom | [Read More](https://medium.com/p/f59fb9538f2e) |
+| Sun, 21 Sep 2025 16:11:24 GMT | Why Choose a Security Company for Office Buildings Miami You Can Trust | Onyx Protective Services | [Read More](https://medium.com/p/8ba1276f66c8) |
+| Sun, 21 Sep 2025 16:08:12 GMT | Canada Dismantles TradeOgre Crypto Exchange, Seizes $40 Million | Suhas Valasala | [Read More](https://medium.com/p/275a686f5cda) |
+| Sun, 21 Sep 2025 16:05:55 GMT | Why School Security Guard Services Georgia Are Vital for Campus Safety | Onyx Protective Services | [Read More](https://medium.com/p/7df586cbaf0f) |
+| Sun, 21 Sep 2025 16:04:10 GMT | Navigating User Privacy in the Age of Generative AI | Rohit Ranjan | [Read More](https://medium.com/p/5ddc9f69258c) |
+| Sun, 21 Sep 2025 16:02:57 GMT | Supply-Chain Cybersecurity: The Hidden Weak Link in Aviation | Nakul Srivastava | [Read More](https://medium.com/p/39be91ada46e) |
+| Sun, 21 Sep 2025 16:01:08 GMT | Mentorship in the age of AI: Why people will still matter | Pablo Vergara | [Read More](https://medium.com/p/d048df8c009f) |
+| Sun, 21 Sep 2025 16:00:36 GMT | OSINT: The Art of Finding What’s Hidden in Plain Sight | Hjsingh | [Read More](https://medium.com/p/f64e7e099f4c) |
+| Sun, 21 Sep 2025 15:57:57 GMT | Beyond Flags and Footprints | Mark Nall | [Read More](https://medium.com/p/a6f13e15f8bd) |
+| Sun, 21 Sep 2025 15:52:11 GMT | The Ghost in the Machine: How a 1980s Flaw Could Bring Our World to a Screeching Halt | Yusuf Asan | [Read More](https://medium.com/p/7409733ba6b7) |
+| Sun, 21 Sep 2025 15:51:59 GMT | It Felt Safe, Until the Last Click️ | Zoningxtr | [Read More](https://medium.com/p/d1d75d0f1fcd) |
+| Sun, 21 Sep 2025 15:45:33 GMT | Heathrow Faces Second Day of Disruption After Major Cyber Attack | Mr Orion | [Read More](https://medium.com/p/5d8c6c9c0961) |
 | Sun, 21 Sep 2025 15:31:46 GMT | TryHackMe #39 - Blue | 0xGroot | [Read More](https://medium.com/p/caac903d9f12) |
+| Sun, 21 Sep 2025 15:31:46 GMT | School Security Software SentryPC: Revolutionizing Safety and Monitoring in Educational… | Paul Meyer | [Read More](https://medium.com/p/7f66b0434010) |
 | Sun, 21 Sep 2025 15:31:34 GMT | Why MITRE ATLAS is a Game-Changer for Adversarial Machine Learning | Rohit Ranjan | [Read More](https://medium.com/p/a5d2c707f417) |
 | Sun, 21 Sep 2025 15:30:03 GMT | Why Hackers Love Manufacturers: The 4 Weak Spots They Can’t Resist | Pipeline | [Read More](https://medium.com/p/9b6e7125bd3b) |
+| Sun, 21 Sep 2025 15:28:41 GMT | Toughen Up. Open Your Heart. | Dani Jones | [Read More](https://medium.com/p/3de971cab781) |
 | Sun, 21 Sep 2025 15:27:46 GMT | TryHackMe #38 - Metasploit: Meterpreter | 0xGroot | [Read More](https://medium.com/p/1490a8df454e) |
 | Sun, 21 Sep 2025 15:27:08 GMT | PRIVACY IN THE DIGITAL ERA. | Purva Ware | [Read More](https://medium.com/p/da4391834b9c) |
 | Sun, 21 Sep 2025 15:22:27 GMT | Tech Trends of September 2025 You Need to Know | Rathodsudhir64 | [Read More](https://medium.com/p/079de0964991) |
@@ -32,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 14:45:25 GMT | What it takes to be a Hacker — Networking 1 — The Fundamentals | David Barrineau | [Read More](https://medium.com/p/5cd89602c218) |
 | Sun, 21 Sep 2025 14:32:58 GMT | Prompt Injection: The AI Security Threat Everyone Overlooks | Phanindra Baddula | [Read More](https://medium.com/p/5017ddbad23e) |
 | Sun, 21 Sep 2025 14:30:43 GMT | Fluffy [Easy] — Hack The Box Walkthrough | Sneh bavarva | [Read More](https://medium.com/p/9fa90a3f40ae) |
+| Sun, 21 Sep 2025 14:30:31 GMT | Jounory of CEv13 | Kalash Kundaliya | [Read More](https://medium.com/p/9c34c3b3f706) |
 | Sun, 21 Sep 2025 14:29:13 GMT | Deep Web vs Dark Web — What’s Real and What’s Myth? | Mohamed.cybersec | [Read More](https://medium.com/p/228608aced86) |
 | Sun, 21 Sep 2025 14:26:45 GMT | We Didn’t Win, But We Broke the Model: Our Journey in OpenAI’s Largest AI Red Teaming Challenge | Sabermohamed | [Read More](https://medium.com/p/4dea1431106f) |
 | Sun, 21 Sep 2025 14:23:32 GMT | : | Reporter do dc ( Discord ) | [Read More](https://medium.com/p/1bbd08240e3c) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 10:41:37 GMT | What’s happening in the SOC? Crazy. | Tyler Wall | [Read More](https://medium.com/p/ce5bb5036534) |
 | Sun, 21 Sep 2025 10:40:47 GMT | Let Me Lie to Myself | Rani | [Read More](https://medium.com/p/69f308086cf2) |
 | Sun, 21 Sep 2025 10:40:15 GMT | OTP Bypass | Cyber Bangla Ltd. | [Read More](https://medium.com/p/fd17e8fdef60) |
-| Sun, 21 Sep 2025 10:39:03 GMT | Mr Robot CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/3c1e20679c3e) |
-| Sun, 21 Sep 2025 10:36:39 GMT | Prompting Your Digital Fortress: AI Prompts for Smarter Cybersecurity Operations | Ashwini Puranik | [Read More](https://medium.com/p/a49d9416e8f2) |
-| Sun, 21 Sep 2025 10:32:41 GMT | We’re Living Closer to I, Robot Than We Think | Carang | [Read More](https://medium.com/p/8f03c0cb9a86) |
-| Sun, 21 Sep 2025 10:30:20 GMT | Comment optimiser vos images docker ? | Guillaume David | [Read More](https://medium.com/p/c0a1e2bd4340) |
-| Sun, 21 Sep 2025 10:26:24 GMT | The Benefits of Hiring the Best Security Patrol Services in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/f8e8ca9bbbb0) |
-| Sun, 21 Sep 2025 10:26:24 GMT | The First Casualty of Cyber War-19 | MSBJ | [Read More](https://medium.com/p/3d12c172f3f8) |
-| Sun, 21 Sep 2025 10:25:35 GMT | ARP Spoofing Explained — An Educational Lab for Detection & Defense | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/6c2fa58a527b) |
-| Sun, 21 Sep 2025 10:19:57 GMT | The Check-In Goes Dark In September 2025 | O. J. Okpabi | [Read More](https://medium.com/p/697563c090c2) |
-| Sun, 21 Sep 2025 10:19:44 GMT | Inside Cipher Anti-Drain | Llama | [Read More](https://medium.com/p/5b1261e0364f) |
-| Sun, 21 Sep 2025 10:17:18 GMT | DockerLabs Writeup — ConsoleLog (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9f6b5224c926) |
-| Sun, 21 Sep 2025 10:16:12 GMT | How AWS WAF and API Gateway Stop Botnets Like Mirai | Alan Leong | [Read More](https://medium.com/p/b1b7226640ba) |
-| Sun, 21 Sep 2025 10:05:57 GMT | xss0r ULTIMATE GIVEAWAY 
-  Win 1 Year of the xss0r Plan + Free VPS Setup | xss0r | [Read More](https://medium.com/p/2ebc49896a66) |
-| Sun, 21 Sep 2025 09:58:41 GMT | CWES Review — Certified Web Exploitation Specialist 2025 | eldeim | [Read More](https://medium.com/p/a78ce1ef8ef5) |
-| Sun, 21 Sep 2025 09:55:16 GMT | Bus Pirate with an ESP32 Heart | Andrei | [Read More](https://medium.com/p/b2dd38895b5b) |
-| Sun, 21 Sep 2025 09:47:43 GMT | crackmes.one: vvsc | Sourav Bose | [Read More](https://medium.com/p/a4167d666a71) |
-| Sun, 21 Sep 2025 09:36:49 GMT | Encryption in Cyber Security | Roshinni Gandhi | [Read More](https://medium.com/p/50cafba49caf) |
-| Sun, 21 Sep 2025 09:27:37 GMT | The JavaScript Feature That Makes Senior Developers Quit Their Jobs | Rizqi Mulki | [Read More](https://medium.com/p/4c0cc94840e5) |
