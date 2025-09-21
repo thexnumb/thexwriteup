@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 15:31:46 GMT | TryHackMe #39 - Blue | 0xGroot | [Read More](https://medium.com/p/caac903d9f12) |
+| Sun, 21 Sep 2025 15:31:34 GMT | Why MITRE ATLAS is a Game-Changer for Adversarial Machine Learning | Rohit Ranjan | [Read More](https://medium.com/p/a5d2c707f417) |
+| Sun, 21 Sep 2025 15:30:03 GMT | Why Hackers Love Manufacturers: The 4 Weak Spots They Can’t Resist | Pipeline | [Read More](https://medium.com/p/9b6e7125bd3b) |
+| Sun, 21 Sep 2025 15:27:46 GMT | TryHackMe #38 - Metasploit: Meterpreter | 0xGroot | [Read More](https://medium.com/p/1490a8df454e) |
+| Sun, 21 Sep 2025 15:27:08 GMT | PRIVACY IN THE DIGITAL ERA. | Purva Ware | [Read More](https://medium.com/p/da4391834b9c) |
+| Sun, 21 Sep 2025 15:22:27 GMT | Tech Trends of September 2025 You Need to Know | Rathodsudhir64 | [Read More](https://medium.com/p/079de0964991) |
+| Sun, 21 Sep 2025 15:21:45 GMT | TryHackMe #37 - Metasploit: Exploitation | 0xGroot | [Read More](https://medium.com/p/28e0c1090a62) |
+| Sun, 21 Sep 2025 15:17:47 GMT | TryHackMe #36 - Metasploit: Introduction | 0xGroot | [Read More](https://medium.com/p/5c559b9edd42) |
+| Sun, 21 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/3630a6c41ac2) |
+| Sun, 21 Sep 2025 15:11:46 GMT | TryHackMe #35 - Moniker Link (CVE-2024–21413) | 0xGroot | [Read More](https://medium.com/p/dae45f3bf61d) |
+| Sun, 21 Sep 2025 15:07:33 GMT | Mengapa Aku Menolak Bermain Roblox | Hartzel | [Read More](https://medium.com/p/9c59e24c6875) |
 | Sun, 21 Sep 2025 14:57:27 GMT | Kerberos Delegations | SeverSerenity | [Read More](https://medium.com/p/700e1e3cc5b5) |
 | Sun, 21 Sep 2025 14:56:41 GMT | The Rise of Content Creators and Influencers: Shaping Modern Communication | AYOADE Ibrahim | [Read More](https://medium.com/p/fee915dbb726) |
 | Sun, 21 Sep 2025 14:54:30 GMT | The Art of Not Making a Decision | Vijay Kumar Gupta | [Read More](https://medium.com/p/db7232f04d1f) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 09:47:43 GMT | crackmes.one: vvsc | Sourav Bose | [Read More](https://medium.com/p/a4167d666a71) |
 | Sun, 21 Sep 2025 09:36:49 GMT | Encryption in Cyber Security | Roshinni Gandhi | [Read More](https://medium.com/p/50cafba49caf) |
 | Sun, 21 Sep 2025 09:27:37 GMT | The JavaScript Feature That Makes Senior Developers Quit Their Jobs | Rizqi Mulki | [Read More](https://medium.com/p/4c0cc94840e5) |
-| Sun, 21 Sep 2025 09:17:43 GMT | Why PostgreSQL Costs Explode on Cloud (and How to Stop It) | Rizqi Mulki | [Read More](https://medium.com/p/cd0d47b8d16f) |
-| Sun, 21 Sep 2025 09:15:35 GMT | Simon Wardley says AI is coming for you | Mohammed Brückner | [Read More](https://medium.com/p/deca945fcb9b) |
-| Sun, 21 Sep 2025 09:13:48 GMT | “The Hacker’s Rosetta Stone: Decoding HTTP to Unlock Critical Vulnerabilities” | Aman Sharma | [Read More](https://medium.com/p/e8c4301404cf) |
-| Sun, 21 Sep 2025 09:12:03 GMT | ️ Detecting Malware with YARA Rules | Esra Kayhan | [Read More](https://medium.com/p/5982542325e6) |
-| Sun, 21 Sep 2025 09:07:59 GMT | Designing Rails Systems for Sensitive Data | Mahmoud Ali | [Read More](https://medium.com/p/473319fb97a1) |
-| Sun, 21 Sep 2025 09:07:54 GMT | Hacking Flutter Apps, network interception technique for iOS and Android applications | Suprit Pandurangi | [Read More](https://medium.com/p/4f79d065fb29) |
-| Sun, 21 Sep 2025 09:07:41 GMT | Micro-Isolation Hacks That Protect PHP APIs From Side Attacks | Asian Digital Hub | [Read More](https://medium.com/p/ae06b3af73a4) |
-| Sun, 21 Sep 2025 08:58:25 GMT | The Invisible Highways Beneath the Waves: Securing the Future of Undersea Internet Cables | SATYASRI AKULA | [Read More](https://medium.com/p/f378ad756daf) |
-| Sun, 21 Sep 2025 08:58:07 GMT | Preventing a Rosh Hashanah Massacre | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a0731b38f934) |
-| Sun, 21 Sep 2025 08:57:22 GMT | End-to-End PHP Security Tips That Don’t Depend on Frameworks | Asian Digital Hub | [Read More](https://medium.com/p/9ab4331b2ac0) |
-| Sun, 21 Sep 2025 08:56:50 GMT | Güvenlik Operasyon Merkezi (SOC) Nedir ve Neden Önemlidir? | Nazlıcan Tokal | [Read More](https://medium.com/p/a67047259e9b) |
