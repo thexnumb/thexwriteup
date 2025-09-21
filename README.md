@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 20:33:08 GMT | Qwiet AI and the Dawn of Autonomous DevSecOps | S Ashwin Kashyap | [Read More](https://medium.com/p/7ce923d34bcf) |
+| Sun, 21 Sep 2025 20:29:33 GMT | Cloudflare Warp: The Next-Generation Internet Shield | Emre Özel | [Read More](https://medium.com/p/9ea7be634e0d) |
+| Sun, 21 Sep 2025 20:27:55 GMT | The VPN Illusion: When Security Becomes the Weak Link | David SEHYEON Baek | [Read More](https://medium.com/p/61005e86d824) |
+| Sun, 21 Sep 2025 20:26:10 GMT | When My SonarQube Crashed, I Learned Backups the Hard Way | Trahulprabhu38 | [Read More](https://medium.com/p/9c42caed9aeb) |
+| Sun, 21 Sep 2025 20:19:44 GMT | Most Paid Subscriptions Are Useless — These 5 Actually Help Me as a Staff Engineer in 2025 | Observability Guy | [Read More](https://medium.com/p/ffb4870b4661) |
+| Sun, 21 Sep 2025 20:18:22 GMT | Tor: The Tech Behind Onion Routing explained | sound_of_silence | [Read More](https://medium.com/p/49e39132327f) |
 | Sun, 21 Sep 2025 20:06:29 GMT | Addressing Security Vulnerabilities in Docker: What to Know | @rnab | [Read More](https://medium.com/p/e40cf80196a6) |
 | Sun, 21 Sep 2025 20:06:21 GMT | I Hacked Gmail With ChatGPT: Here’s What Happened | Yatin | [Read More](https://medium.com/p/6c88c3af3bca) |
 | Sun, 21 Sep 2025 19:56:03 GMT | America’s Cyber Firms Need a New Base Layer | Derek Wayne Bailey | [Read More](https://medium.com/p/a95acf7f91c3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 14:30:31 GMT | Jounory of CEv13 | Kalash Kundaliya | [Read More](https://medium.com/p/9c34c3b3f706) |
 | Sun, 21 Sep 2025 14:29:13 GMT | Deep Web vs Dark Web — What’s Real and What’s Myth? | Mohamed.cybersec | [Read More](https://medium.com/p/228608aced86) |
 | Sun, 21 Sep 2025 14:26:45 GMT | We Didn’t Win, But We Broke the Model: Our Journey in OpenAI’s Largest AI Red Teaming Challenge | Sabermohamed | [Read More](https://medium.com/p/4dea1431106f) |
-| Sun, 21 Sep 2025 14:23:32 GMT | : | Reporter do dc ( Discord ) | [Read More](https://medium.com/p/1bbd08240e3c) |
-| Sun, 21 Sep 2025 14:15:53 GMT | Writing, Receiving, Reviewing: My Take on Penetration Test Reports | Adan | [Read More](https://medium.com/p/f13230517de9) |
-| Sun, 21 Sep 2025 14:07:45 GMT | The AI Tool That Made Me Question My Own Job | Cyberkech | [Read More](https://medium.com/p/eb9b70784f20) |
-| Sun, 21 Sep 2025 14:03:03 GMT | Your First Ransomware Case: A TryHackMe REvil Corp — Walkthrough️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/5da782a75c11) |
-| Sun, 21 Sep 2025 14:01:51 GMT | What Is Prompt Injections Attacks? | Mainekhacker | [Read More](https://medium.com/p/723bbd5fd6f0) |
-| Sun, 21 Sep 2025 14:00:21 GMT | Cybersecurity Assessment Services in India | Lumiversesolution | [Read More](https://medium.com/p/57d09ea50495) |
