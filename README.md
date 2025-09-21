@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 14:57:27 GMT | Kerberos Delegations | SeverSerenity | [Read More](https://medium.com/p/700e1e3cc5b5) |
+| Sun, 21 Sep 2025 14:56:41 GMT | The Rise of Content Creators and Influencers: Shaping Modern Communication | AYOADE Ibrahim | [Read More](https://medium.com/p/fee915dbb726) |
+| Sun, 21 Sep 2025 14:54:30 GMT | The Art of Not Making a Decision | Vijay Kumar Gupta | [Read More](https://medium.com/p/db7232f04d1f) |
+| Sun, 21 Sep 2025 14:48:40 GMT | A Perfect Getaway: Enhancing Your Holiday with a Sex Doll | realdollbuy | [Read More](https://medium.com/p/c29f6e41ee2d) |
+| Sun, 21 Sep 2025 14:47:26 GMT | ALL About CORS (Cross-Origin Resource Sharing) | Mr Horbio | [Read More](https://medium.com/p/44eda3a5c54d) |
+| Sun, 21 Sep 2025 14:47:26 GMT | The Hidden Hurt Behind Hyper-Independence | Da Mar | [Read More](https://medium.com/p/1f90793460f8) |
+| Sun, 21 Sep 2025 14:45:25 GMT | What it takes to be a Hacker — Networking 1 — The Fundamentals | David Barrineau | [Read More](https://medium.com/p/5cd89602c218) |
 | Sun, 21 Sep 2025 14:32:58 GMT | Prompt Injection: The AI Security Threat Everyone Overlooks | Phanindra Baddula | [Read More](https://medium.com/p/5017ddbad23e) |
 | Sun, 21 Sep 2025 14:30:43 GMT | Fluffy [Easy] — Hack The Box Walkthrough | Sneh bavarva | [Read More](https://medium.com/p/9fa90a3f40ae) |
 | Sun, 21 Sep 2025 14:29:13 GMT | Deep Web vs Dark Web — What’s Real and What’s Myth? | Mohamed.cybersec | [Read More](https://medium.com/p/228608aced86) |
@@ -75,6 +82,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 10:47:28 GMT | Why Small Businesses in Bangladesh Are the Prime Targets for Cyber Attacks in 2025 | Cyber Bangla Ltd. | [Read More](https://medium.com/p/affac73730d6) |
 | Sun, 21 Sep 2025 10:45:27 GMT | Optimationbd Trusted CCTV Camera Provider for Residential and Commercial Projects in Bangladesh | optimationbd | [Read More](https://medium.com/p/073875f8d840) |
 | Sun, 21 Sep 2025 10:41:37 GMT | What’s happening in the SOC? Crazy. | Tyler Wall | [Read More](https://medium.com/p/ce5bb5036534) |
+| Sun, 21 Sep 2025 10:40:47 GMT | Let Me Lie to Myself | Rani | [Read More](https://medium.com/p/69f308086cf2) |
 | Sun, 21 Sep 2025 10:40:15 GMT | OTP Bypass | Cyber Bangla Ltd. | [Read More](https://medium.com/p/fd17e8fdef60) |
 | Sun, 21 Sep 2025 10:39:03 GMT | Mr Robot CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/3c1e20679c3e) |
 | Sun, 21 Sep 2025 10:36:39 GMT | Prompting Your Digital Fortress: AI Prompts for Smarter Cybersecurity Operations | Ashwini Puranik | [Read More](https://medium.com/p/a49d9416e8f2) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 08:58:07 GMT | Preventing a Rosh Hashanah Massacre | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a0731b38f934) |
 | Sun, 21 Sep 2025 08:57:22 GMT | End-to-End PHP Security Tips That Don’t Depend on Frameworks | Asian Digital Hub | [Read More](https://medium.com/p/9ab4331b2ac0) |
 | Sun, 21 Sep 2025 08:56:50 GMT | Güvenlik Operasyon Merkezi (SOC) Nedir ve Neden Önemlidir? | Nazlıcan Tokal | [Read More](https://medium.com/p/a67047259e9b) |
-| Sun, 21 Sep 2025 08:41:21 GMT | OSCP Preparation Series — Access | Ahsan Ali Khan | [Read More](https://medium.com/p/ff98144fcc8e) |
-| Sun, 21 Sep 2025 08:25:37 GMT | AI-Driven Phishing Website Detection with Python: 2025 Insights for Ethical Hackers | Muhammad Abdullah Arif | [Read More](https://medium.com/p/dc634b88cf9a) |
-| Sun, 21 Sep 2025 08:20:25 GMT | AI Hallucinations —  Why Blind Trust Can Backfire | Nazish Marvi | [Read More](https://medium.com/p/1d0526a0056a) |
-| Sun, 21 Sep 2025 08:04:55 GMT | {THM} Gallery — writeup | Nihat Rashidli | [Read More](https://medium.com/p/6f88a771bb3c) |
-| Sun, 21 Sep 2025 07:55:41 GMT | OWASP Juice Shop: Broken Access Control — Five-Star Feedback | Risskian | [Read More](https://medium.com/p/efd8c573f173) |
-| Sun, 21 Sep 2025 07:55:34 GMT | Typosquatting in Package Managers: The Attack That Preys on a Single Keystroke | InstaTunnel | [Read More](https://medium.com/p/39588b832390) |
-| Sun, 21 Sep 2025 07:50:10 GMT | Beware of Mobile-Only Fake/Phishing Pages! | VENUKAMATCHI P | [Read More](https://medium.com/p/2141298529b6) |
-| Sun, 21 Sep 2025 07:25:06 GMT | Professional Vulnerability & Bug Report Writing | BinaryShield | [Read More](https://medium.com/p/2cbd1ec5d31e) |
