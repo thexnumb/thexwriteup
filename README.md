@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 14:03:03 GMT | Your First Ransomware Case: A TryHackMe REvil Corp — Walkthrough️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/5da782a75c11) |
+| Sun, 21 Sep 2025 14:01:51 GMT | What Is Prompt Injections Attacks? | Mainekhacker | [Read More](https://medium.com/p/723bbd5fd6f0) |
+| Sun, 21 Sep 2025 14:00:21 GMT | Cybersecurity Assessment Services in India | Lumiversesolution | [Read More](https://medium.com/p/57d09ea50495) |
+| Sun, 21 Sep 2025 13:52:20 GMT | TEMPEST CTF 2025 - DropCTF x STH Final - Write-up | pipe2bot | [Read More](https://medium.com/p/2ec7ce968ba2) |
+| Sun, 21 Sep 2025 13:51:27 GMT | DLL Hijacking Nedir? | Busra | [Read More](https://medium.com/p/b9cd4be5588e) |
+| Sun, 21 Sep 2025 13:44:39 GMT | PG Practice — XposedAPI (Linux) | Lepton | [Read More](https://medium.com/p/165b2d8fecba) |
+| Sun, 21 Sep 2025 13:40:47 GMT | Bug Bounty as a Beginner: My 14-Day Struggle, Progress, and First Steps | LIKITH GAJULA | [Read More](https://medium.com/p/cca8b34973cb) |
 | Sun, 21 Sep 2025 13:30:38 GMT | Cyberresilienz für KMU stärken: Wie der CyberRisikoCheck den Anfang erleichtert | Arpad Vasarhelyi | [Read More](https://medium.com/p/90cf104dbd0e) |
 | Sun, 21 Sep 2025 13:28:57 GMT | OWASP Top 10 Nedir? | hadi cicek | [Read More](https://medium.com/p/81d41c1c4bad) |
 | Sun, 21 Sep 2025 13:25:56 GMT | Why I Use Cold Backups Instead of Relying Only on Snapshots | Faruk Ahmed | [Read More](https://medium.com/p/a4c22c6c4a50) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 06:57:02 GMT | Ethical Hacking Explained in Plain English | Aj | [Read More](https://medium.com/p/8bdc9ada39aa) |
 | Sun, 21 Sep 2025 06:50:54 GMT | Why Love Feels Like War | Monch | [Read More](https://medium.com/p/457822826d53) |
 | Sun, 21 Sep 2025 06:46:07 GMT | Beginner’s Guide to Ethical Hacking: Tools, Mindset and First Steps | Shahzaib | [Read More](https://medium.com/p/c6a2895d3c90) |
-| Sun, 21 Sep 2025 06:45:53 GMT | Top 5 Recon Tools Every Hacker Should Master | Aj | [Read More](https://medium.com/p/730dc7da2bca) |
-| Sun, 21 Sep 2025 06:45:36 GMT | Best Practices for SSH Key Management in Ansible (From Lab to 10,000 Nodes) | Lalit Kumar | [Read More](https://medium.com/p/bcb50324b272) |
-| Sun, 21 Sep 2025 06:42:57 GMT | The One AWS S3 Misconfiguration That Exposed Our Data | Ibtissam hammadi | [Read More](https://medium.com/p/36e93ca2fbc1) |
-| Sun, 21 Sep 2025 06:38:00 GMT | EC2 instance successfully assume the IAM role to S3 bucket | Dimple Patel | [Read More](https://medium.com/p/2f6565c258fa) |
-| Sun, 21 Sep 2025 06:37:45 GMT | Insecure logging in the DIVA-Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/cb8ed0104ad5) |
-| Sun, 21 Sep 2025 06:36:34 GMT | CrowdStrike npm Packages Compromised:- A Deep Dive into the Latest Supply Chain Attack | Rue | [Read More](https://medium.com/p/e9b2ab912712) |
-| Sun, 21 Sep 2025 06:31:38 GMT | Why Your Smartphone is the New Favorite Target for Phishing Attacks | Abida Adra | [Read More](https://medium.com/p/1b3a56a4765a) |
