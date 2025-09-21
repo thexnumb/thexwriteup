@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 18:07:14 GMT | Why You Need to Enable Audit Logs in Google Cloud | Allan Alfonso | [Read More](https://medium.com/p/0c31578cd4f1) |
+| Sun, 21 Sep 2025 18:04:05 GMT | “6G and the Rise of Internet Everywhere: How the Next Generation Network Will Transform Our World” | Tarush Sharma | [Read More](https://medium.com/p/9f28bf211309) |
+| Sun, 21 Sep 2025 18:02:57 GMT | Boas Práticas na Criação de Roles e Policies na AWS | Vanderson dos Santos | [Read More](https://medium.com/p/6418192580a9) |
+| Sun, 21 Sep 2025 18:01:46 GMT | Nueva comunidad en Discord para Bug Bounty y Pentesting | Gorka | [Read More](https://medium.com/p/49f8f0a14a56) |
+| Sun, 21 Sep 2025 18:00:40 GMT | Beginner’s Guide to Packaging and Distributing Dockerized Apps Across Major Linux Distributions | Martian | [Read More](https://medium.com/p/fcc13f0e2679) |
+| Sun, 21 Sep 2025 17:57:16 GMT | From Social Media to Cybersecurity: | thedigitalmira | [Read More](https://medium.com/p/f59394c0ebbc) |
+| Sun, 21 Sep 2025 17:51:08 GMT | Data Privacy for Digital Nomads: Keep Your Info SafeBeing a digital nomad means relying on public… | Paran | [Read More](https://medium.com/p/4f9fbd358c5e) |
+| Sun, 21 Sep 2025 17:50:46 GMT | Demystifying Prompt Injection: Why AI Security Experts Care | Om Sahare | [Read More](https://medium.com/p/df41f1ae2c14) |
+| Sun, 21 Sep 2025 17:42:16 GMT | ☁️ The Invisible Engine Behind Modern Life: How Cloud Computing Runs Everything | David Obi | [Read More](https://medium.com/p/134eeaec5d11) |
+| Sun, 21 Sep 2025 17:40:24 GMT | What Legislative Package Should We Develop to Keep Pace with the AI Revolution? | Madlin Alshilli | [Read More](https://medium.com/p/ed7043db072f) |
 | Sun, 21 Sep 2025 17:27:58 GMT | Lab: Exploiting origin server normalization for web cache deception | Viodex | [Read More](https://medium.com/p/f9b38b46c9f0) |
 | Sun, 21 Sep 2025 17:23:13 GMT | Week 10—Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/1638b6b19c84) |
 | Sun, 21 Sep 2025 17:08:29 GMT | ‍☠️ CTF 101: A Beginner’s Guide to Cybersecurity Challenges | Abilash B | [Read More](https://medium.com/p/1542df8c7d68) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 12:24:52 GMT | The Ethical hacking course for bright future | Mahaalakshmisakthivel | [Read More](https://medium.com/p/966b514ad8b1) |
 | Sun, 21 Sep 2025 12:21:49 GMT | What I Wish I Knew When I Started Bug Bounty | 0xBruno | [Read More](https://medium.com/p/b5ed4e50b912) |
 | Sun, 21 Sep 2025 12:15:59 GMT | AI is gonna nuke us one day, BY MISTAKE! | NK FELIX | [Read More](https://medium.com/p/18ffa477656f) |
-| Sun, 21 Sep 2025 12:15:31 GMT | Threat Hunting with SIEM Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/84114373900e) |
-| Sun, 21 Sep 2025 12:05:32 GMT | Detecting Web DDos Attacks — TryHackMe — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/415575ae36c0) |
-| Sun, 21 Sep 2025 12:03:14 GMT | TCP/IP vs OSI Model Explained | Mahidul Haque | [Read More](https://medium.com/p/cf8d355b85a9) |
-| Sun, 21 Sep 2025 12:01:51 GMT | The Fallacy of Representation: When Visibility Misleads Understanding | Tom Luu | [Read More](https://medium.com/p/95299aba829c) |
-| Sun, 21 Sep 2025 12:01:36 GMT | Process Injection 101 to Advanced (Part — 1) | zerOiQ | [Read More](https://medium.com/p/ead719f31a7f) |
-| Sun, 21 Sep 2025 12:00:27 GMT | Top-Rated Web Application Security Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/9d7794c24aa1) |
-| Sun, 21 Sep 2025 11:57:12 GMT | AI driven Activity monitoring — Docker AI models & Spring framework | Patroclos Lemoniatis | [Read More](https://medium.com/p/efe3793c982d) |
-| Sun, 21 Sep 2025 11:46:56 GMT | Ransomware Has Evolved, And It’s Not Just About Locked Files Anymore | Vaibhav Tiwari | [Read More](https://medium.com/p/3b2ea0f1a6c6) |
-| Sun, 21 Sep 2025 11:44:17 GMT | A $100,000 H-1B Fee: A Turning Point in Global Tech Hiring | Shahnawaz Khan | [Read More](https://medium.com/p/08c0e3133ba8) |
-| Sun, 21 Sep 2025 11:38:53 GMT | History and Methods of a modern Cyber threat actor : APT28 | Martin Hell | [Read More](https://medium.com/p/304d7783eb25) |
