@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 13:30:38 GMT | Cyberresilienz für KMU stärken: Wie der CyberRisikoCheck den Anfang erleichtert | Arpad Vasarhelyi | [Read More](https://medium.com/p/90cf104dbd0e) |
+| Sun, 21 Sep 2025 13:28:57 GMT | OWASP Top 10 Nedir? | hadi cicek | [Read More](https://medium.com/p/81d41c1c4bad) |
+| Sun, 21 Sep 2025 13:25:56 GMT | Why I Use Cold Backups Instead of Relying Only on Snapshots | Faruk Ahmed | [Read More](https://medium.com/p/a4c22c6c4a50) |
+| Sun, 21 Sep 2025 13:24:54 GMT | CyberDefenders: Amadey Lab | Rahaliashraf | [Read More](https://medium.com/p/80007dcb7d51) |
+| Sun, 21 Sep 2025 13:22:24 GMT | A Comprehensive Framework for Secure Code Review in Go and TypeScript | Greg Lusk | [Read More](https://medium.com/p/7aa7afd0adaa) |
 | Sun, 21 Sep 2025 13:17:46 GMT | Buffer Overflow Vulnerabilities: A Deep Dive into Memory Corruption | Rizqi Mulki | [Read More](https://medium.com/p/9811a309538e) |
 | Sun, 21 Sep 2025 13:17:42 GMT | Why cloud-native pentest platforms are changing the game | Luis Abreu from Cyver | [Read More](https://medium.com/p/f491c2527b2f) |
 | Sun, 21 Sep 2025 13:14:27 GMT | Privacy Enhancing Technologies | Cyber Security Research | [Read More](https://medium.com/p/4e193d3b5c2a) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 06:37:45 GMT | Insecure logging in the DIVA-Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/cb8ed0104ad5) |
 | Sun, 21 Sep 2025 06:36:34 GMT | CrowdStrike npm Packages Compromised:- A Deep Dive into the Latest Supply Chain Attack | Rue | [Read More](https://medium.com/p/e9b2ab912712) |
 | Sun, 21 Sep 2025 06:31:38 GMT | Why Your Smartphone is the New Favorite Target for Phishing Attacks | Abida Adra | [Read More](https://medium.com/p/1b3a56a4765a) |
-| Sun, 21 Sep 2025 06:27:55 GMT | The Night That Changed Everything : A Child’s First Encounter with Technology in Rural Bangladesh | MD. HABIBULLAH SHARIF | [Read More](https://medium.com/p/1006abb49821) |
-| Sun, 21 Sep 2025 06:08:45 GMT | One Of The Best Cybersecurity Companies In The United States And Their Benefits — Blackhatclique.com | Donley Mark | [Read More](https://medium.com/p/3dd9adc9ac2e) |
-| Sun, 21 Sep 2025 06:05:37 GMT | HTB Fluffy — Medium Walkthrough | Ram Kansal | [Read More](https://medium.com/p/a4545690643b) |
-| Sun, 21 Sep 2025 06:04:42 GMT | Designing a Serverless Event-Driven Workflow for Image Uploads at Scale | Uriel Bitton | [Read More](https://medium.com/p/091fed900e9c) |
-| Sun, 21 Sep 2025 06:04:25 GMT | How I Cleared eJPT on My First Attempt in Just 14 Hours.. | Shivprasad Lavhat | [Read More](https://medium.com/p/3bb13b1bc507) |
