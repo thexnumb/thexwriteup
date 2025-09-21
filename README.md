@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 21:30:01 GMT | Episode 4: Fundamentals Of Cybersecurity — AAA Security | Yash Kitey | [Read More](https://medium.com/p/f006a169402a) |
+| Sun, 21 Sep 2025 21:20:30 GMT | Cyberecology | Nembirowsir | [Read More](https://medium.com/p/7024452e025b) |
+| Sun, 21 Sep 2025 21:19:50 GMT | Recognizing Catfish & Romance Scams in the Age of False Persona | Reclamation Nation | [Read More](https://medium.com/p/61d08d24d973) |
+| Sun, 21 Sep 2025 21:16:22 GMT | My Bug In Deleted Files Made Me $47,500 | Ibtissam hammadi | [Read More](https://medium.com/p/e1f144981757) |
 | Sun, 21 Sep 2025 21:09:01 GMT | TryHackMe — Sequence Walkthrough/Write-up | Ruszkai Dávid | [Read More](https://medium.com/p/c2d1267544cb) |
+| Sun, 21 Sep 2025 21:07:50 GMT | DPRK Hack Grubu “ClickFix” ile Zararlı Yazılım Yaymaya Başladı | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/0a77a24a75ca) |
 | Sun, 21 Sep 2025 21:00:03 GMT | Part 1: Foundation — Hardware, Networking, and Proxmox | 0x1kp | [Read More](https://medium.com/p/8c7fbb24feec) |
 | Sun, 21 Sep 2025 20:53:22 GMT | eJPT — 3.1 CTF 2System/Host Based Attacks | Dharmendrakumar | [Read More](https://medium.com/p/cfc71a09f369) |
 | Sun, 21 Sep 2025 20:50:57 GMT | Cyber Threat Intelligence Communication & Reporting Techniques | Bank Security | [Read More](https://medium.com/p/75ec41a0a098) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 15:07:33 GMT | Mengapa Aku Menolak Bermain Roblox | Hartzel | [Read More](https://medium.com/p/9c59e24c6875) |
 | Sun, 21 Sep 2025 14:57:27 GMT | Kerberos Delegations | SeverSerenity | [Read More](https://medium.com/p/700e1e3cc5b5) |
 | Sun, 21 Sep 2025 14:56:41 GMT | The Rise of Content Creators and Influencers: Shaping Modern Communication | AYOADE Ibrahim | [Read More](https://medium.com/p/fee915dbb726) |
-| Sun, 21 Sep 2025 14:54:30 GMT | The Art of Not Making a Decision | Vijay Kumar Gupta | [Read More](https://medium.com/p/db7232f04d1f) |
-| Sun, 21 Sep 2025 14:48:40 GMT | A Perfect Getaway: Enhancing Your Holiday with a Sex Doll | realdollbuy | [Read More](https://medium.com/p/c29f6e41ee2d) |
-| Sun, 21 Sep 2025 14:47:26 GMT | ALL About CORS (Cross-Origin Resource Sharing) | Mr Horbio | [Read More](https://medium.com/p/44eda3a5c54d) |
-| Sun, 21 Sep 2025 14:47:26 GMT | The Hidden Hurt Behind Hyper-Independence | Da Mar | [Read More](https://medium.com/p/1f90793460f8) |
-| Sun, 21 Sep 2025 14:45:25 GMT | What it takes to be a Hacker — Networking 1 — The Fundamentals | David Barrineau | [Read More](https://medium.com/p/5cd89602c218) |
