@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 10:56:27 GMT | MiddleMayhem SOC Investigation | shadowdust5 | [Read More](https://medium.com/p/17428f74d996) |
+| Sun, 21 Sep 2025 10:54:58 GMT | Superhero 1- Dragonflies | Nonjabulo Matomela | [Read More](https://medium.com/p/b19ccd2b66fb) |
+| Sun, 21 Sep 2025 10:47:28 GMT | Why Small Businesses in Bangladesh Are the Prime Targets for Cyber Attacks in 2025 | Cyber Bangla Ltd. | [Read More](https://medium.com/p/affac73730d6) |
+| Sun, 21 Sep 2025 10:45:27 GMT | Optimationbd Trusted CCTV Camera Provider for Residential and Commercial Projects in Bangladesh | optimationbd | [Read More](https://medium.com/p/073875f8d840) |
+| Sun, 21 Sep 2025 10:41:37 GMT | What’s happening in the SOC? Crazy. | Tyler Wall | [Read More](https://medium.com/p/ce5bb5036534) |
+| Sun, 21 Sep 2025 10:40:15 GMT | OTP Bypass | Cyber Bangla Ltd. | [Read More](https://medium.com/p/fd17e8fdef60) |
+| Sun, 21 Sep 2025 10:39:03 GMT | Mr Robot CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/3c1e20679c3e) |
+| Sun, 21 Sep 2025 10:36:39 GMT | Prompting Your Digital Fortress: AI Prompts for Smarter Cybersecurity Operations | Ashwini Puranik | [Read More](https://medium.com/p/a49d9416e8f2) |
 | Sun, 21 Sep 2025 10:32:41 GMT | We’re Living Closer to I, Robot Than We Think | Carang | [Read More](https://medium.com/p/8f03c0cb9a86) |
 | Sun, 21 Sep 2025 10:30:20 GMT | Comment optimiser vos images docker ? | Guillaume David | [Read More](https://medium.com/p/c0a1e2bd4340) |
 | Sun, 21 Sep 2025 10:26:24 GMT | The Benefits of Hiring the Best Security Patrol Services in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/f8e8ca9bbbb0) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 02:31:46 GMT | How Does the Internet Actually work?(Networking Series Part 1) | Thegreatpayload | [Read More](https://medium.com/p/abe51d8eaac4) |
 | Sun, 21 Sep 2025 02:19:34 GMT | The Gmail Bounce That Led Me Down a Phishing Rabbit Hole: Dissecting a Sophisticated Phishing Email… | Parth Parmar | [Read More](https://medium.com/p/5bbe41ec989b) |
 | Sun, 21 Sep 2025 02:10:52 GMT | AuditSec Intel: How Predictive Auditing Can Transform GRC | Dr. Deep Pandey | [Read More](https://medium.com/p/4397a40827a8) |
-| Sun, 21 Sep 2025 02:08:43 GMT | Vulnerability: Where the Light Enters You | Tara Barghamadi | [Read More](https://medium.com/p/e075981b127d) |
-| Sun, 21 Sep 2025 02:08:28 GMT | How a 2-Minute Check Could Have Stopped a $400,000 Scam | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/93411d6e3f3f) |
-| Sun, 21 Sep 2025 02:02:31 GMT | MalTerminal: The Dawn of AI‑Driven Malware | David SEHYEON Baek | [Read More](https://medium.com/p/d9bddbca733e) |
-| Sun, 21 Sep 2025 02:02:09 GMT | Unauthorized Unsubscription and Message of Employee | SIDDHANT SHUKLA | [Read More](https://medium.com/p/bf36d81e3e8d) |
-| Sun, 21 Sep 2025 01:56:54 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/2d7799cc0a51) |
-| Sun, 21 Sep 2025 01:53:04 GMT | The legal challenges of artificial intelligence in data protection | Zafee Chowdhury | [Read More](https://medium.com/p/01f468d68601) |
-| Sun, 21 Sep 2025 01:51:58 GMT | Hacked Hiring: Why Cyber Threats Surge While Jobs and Experts Languish | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e006d248434b) |
-| Sun, 21 Sep 2025 01:50:50 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/9e9804339ca1) |
