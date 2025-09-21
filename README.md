@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 02:54:11 GMT | Portswigger walkthrough(JWT)(apprentice) | The Commoness | [Read More](https://medium.com/p/bb795fee3181) |
+| Sun, 21 Sep 2025 02:34:38 GMT | The September 2025 NPM Attacks: 5 Lessons We Can’t Afford to Ignore | RayRay | [Read More](https://medium.com/p/8ecb7c0849fe) |
+| Sun, 21 Sep 2025 02:31:46 GMT | How Does the Internet Actually work?(Networking Series Part 1) | Thegreatpayload | [Read More](https://medium.com/p/abe51d8eaac4) |
+| Sun, 21 Sep 2025 02:19:34 GMT | The Gmail Bounce That Led Me Down a Phishing Rabbit Hole: Dissecting a Sophisticated Phishing Email… | Parth Parmar | [Read More](https://medium.com/p/5bbe41ec989b) |
+| Sun, 21 Sep 2025 02:10:52 GMT | AuditSec Intel: How Predictive Auditing Can Transform GRC | Dr. Deep Pandey | [Read More](https://medium.com/p/4397a40827a8) |
+| Sun, 21 Sep 2025 02:08:43 GMT | Vulnerability: Where the Light Enters You | Tara Barghamadi | [Read More](https://medium.com/p/e075981b127d) |
+| Sun, 21 Sep 2025 02:08:28 GMT | How a 2-Minute Check Could Have Stopped a $400,000 Scam | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/93411d6e3f3f) |
+| Sun, 21 Sep 2025 02:02:31 GMT | MalTerminal: The Dawn of AI‑Driven Malware | David SEHYEON Baek | [Read More](https://medium.com/p/d9bddbca733e) |
+| Sun, 21 Sep 2025 02:02:09 GMT | Unauthorized Unsubscription and Message of Employee | SIDDHANT SHUKLA | [Read More](https://medium.com/p/bf36d81e3e8d) |
+| Sun, 21 Sep 2025 01:56:54 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/2d7799cc0a51) |
+| Sun, 21 Sep 2025 01:53:04 GMT | The legal challenges of artificial intelligence in data protection | Zafee Chowdhury | [Read More](https://medium.com/p/01f468d68601) |
+| Sun, 21 Sep 2025 01:51:58 GMT | Hacked Hiring: Why Cyber Threats Surge While Jobs and Experts Languish | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e006d248434b) |
+| Sun, 21 Sep 2025 01:50:50 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/9e9804339ca1) |
+| Sun, 21 Sep 2025 01:46:33 GMT | How to Send Large Files for Free: 4 Secure Tools Without Size Limits or Registration | ByteSwift Digital pro | [Read More](https://medium.com/p/325d4d9c1710) |
+| Sun, 21 Sep 2025 01:44:57 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/e9693993ce2d) |
+| Sun, 21 Sep 2025 01:39:33 GMT | CyberDefenders — IcedID 2 Lab | jon | [Read More](https://medium.com/p/65b224a7930e) |
 | Sun, 21 Sep 2025 01:29:19 GMT | Inside a Hack: How Supply Chain Attacks Really Happen (and Why You Might Be Next) | Tina Ginn | [Read More](https://medium.com/p/1c6bb819f636) |
 | Sun, 21 Sep 2025 01:23:09 GMT | Rejection Sensitivity in Romantic Life | Soren Frost | [Read More](https://medium.com/p/0f63a779e0c3) |
 | Sun, 21 Sep 2025 01:16:53 GMT | The legal challenges of artificial intelligence in data protection | Zafee Chowdhury | [Read More](https://medium.com/p/a0b9032d1dc3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 16:57:06 GMT | How to Secure Your Startup’s Data with Zero-Trust Architecture in 2025 | Umesh Anjula | [Read More](https://medium.com/p/8771740dcbc5) |
 | Sat, 20 Sep 2025 16:56:58 GMT | Top Free IT Tools | Dayakumar | [Read More](https://medium.com/p/34b3ad8a015f) |
 | Sat, 20 Sep 2025 16:53:08 GMT | The Time Traveler’s Heist: Your Encrypted Data Is Already Stolen | Sandesh - DevOps - AWS - K8 - Dev | [Read More](https://medium.com/p/44170f96ad5b) |
-| Sat, 20 Sep 2025 16:52:11 GMT | How to Stay Safe in a World of Digital Arrests and Cyber Crimes | Shunyo Osho | [Read More](https://medium.com/p/f601a39e2395) |
-| Sat, 20 Sep 2025 16:48:10 GMT | Cross-Site Scripting (XSS): what it is, why it’s dangerous, and how to stop it | Lalit Mehra | [Read More](https://medium.com/p/0ad2963145a0) |
-| Sat, 20 Sep 2025 16:48:01 GMT | Shai-Hulud: The Self-Replicating NPM Worm That Compromised 180+ Packages | Sachin Kasana | [Read More](https://medium.com/p/10a83dc8f167) |
-| Sat, 20 Sep 2025 16:36:26 GMT | [FFRI × NFLabs. CTF]Shell4Solr | Yzazaki | [Read More](https://medium.com/p/e6423af9eaa2) |
-| Sat, 20 Sep 2025 16:31:53 GMT | Giving Back Love, Standing in a Relationship | Jessica Isaac | [Read More](https://medium.com/p/fc4f435b2c42) |
-| Sat, 20 Sep 2025 16:29:13 GMT | Server-Side Parameter Pollution from a Different Perspective | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/46bb18369557) |
-| Sat, 20 Sep 2025 16:24:23 GMT | Your Node.js Project is Not Safe (Trust Me, It’s Not) | Samrat Dutta | [Read More](https://medium.com/p/0144ac3e3ab2) |
-| Sat, 20 Sep 2025 16:23:39 GMT | Offloading Server Management with a PaaS | Manish Shivanandhan | [Read More](https://medium.com/p/3e68be0ac827) |
-| Sat, 20 Sep 2025 16:08:54 GMT | Fraud. How does financial fraud persist? | Vani Agarwal | [Read More](https://medium.com/p/0407f44fc290) |
-| Sat, 20 Sep 2025 16:07:19 GMT | The Silent Killer of App Security: Broken Access Controls:An Advanced Bug Hunter’s Guide | Sh0X01 | [Read More](https://medium.com/p/faabdb8ba36b) |
-| Sat, 20 Sep 2025 16:02:09 GMT | Building My Own File Encryption Tool: A Practical Dive into AES-CTR + HMAC | Shehan_Gunathilaka | [Read More](https://medium.com/p/37d93f424c48) |
-| Sat, 20 Sep 2025 16:00:48 GMT | Generative AI: Security Risks of Prompt Engineering | Logixacademy | [Read More](https://medium.com/p/8abce07d469e) |
-| Sat, 20 Sep 2025 15:50:43 GMT | Avoiding Hidden Costs When Buying a Cheap MikroTik VPS (Bandwidth, Licenses, IPs) | John Greene | [Read More](https://medium.com/p/d1e0bf3b1267) |
-| Sat, 20 Sep 2025 15:48:30 GMT | Maximize Your Digital Wealth with BUG Strategies | BUG | [Read More](https://medium.com/p/fd14c3daa96c) |
-| Sat, 20 Sep 2025 15:44:54 GMT | OSINT (Open-Source Intelligence) 2026 | BinaryShield | [Read More](https://medium.com/p/d1bd41a06025) |
-| Sat, 20 Sep 2025 15:44:09 GMT | Unlocked Doors & Digital Dangers: Understanding Cyber Risk | Divya Priya Venkatesan | [Read More](https://medium.com/p/a550ca6d174a) |
