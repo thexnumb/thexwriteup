@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 23:04:45 GMT | Effective Vulnerability Management for PCI Compliance in Cloud-First Startups | Davids Olumide Michael | [Read More](https://medium.com/p/4c26f1736058) |
+| Sun, 21 Sep 2025 23:03:45 GMT | Everybody Wants to Taste Your Weak Spot | 007 | [Read More](https://medium.com/p/e8ef5fa883de) |
+| Sun, 21 Sep 2025 23:02:16 GMT | Why Security Teams Can’t Live Without SIEMs | Keren N Oduro | [Read More](https://medium.com/p/7c32b09681d0) |
+| Sun, 21 Sep 2025 23:02:05 GMT | LetsDefend — Samba Spy Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/158bb9260caa) |
+| Sun, 21 Sep 2025 22:54:11 GMT | CyberDefenders — Trigona Ransomware Lab | jon | [Read More](https://medium.com/p/7ffb0a26cbfe) |
+| Sun, 21 Sep 2025 22:46:56 GMT | HOW TO GET BACK STOLEN CRYPTOCURRENY/HIRE A HACKER CALL MALICE CYBER RECOVERY | Luca Bianchi | [Read More](https://medium.com/p/21f30206ee56) |
+| Sun, 21 Sep 2025 22:43:50 GMT | No Free Lunch in Privacy — Why Free VPNs Can Be Dangerous | David SEHYEON Baek | [Read More](https://medium.com/p/1a5b7deeee5f) |
+| Sun, 21 Sep 2025 22:40:18 GMT | Proving Grounds - Nukem | jniket | [Read More](https://medium.com/p/395e1e74e70f) |
 | Sun, 21 Sep 2025 22:36:02 GMT | Installing Parallels Tools on macOS Monterey VM for OffSec 312 | Junior Mateus | [Read More](https://medium.com/p/6554d5d5e632) |
 | Sun, 21 Sep 2025 22:35:16 GMT | Cybersecurity on a budget: essential steps every small business should take | xornam.io | [Read More](https://medium.com/p/457f0874404b) |
 | Sun, 21 Sep 2025 22:34:44 GMT | Weird Endpoint Behavior — What it tells you | Cybersecplayground | [Read More](https://medium.com/p/b1be8200480e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 16:05:55 GMT | Why School Security Guard Services Georgia Are Vital for Campus Safety | Onyx Protective Services | [Read More](https://medium.com/p/7df586cbaf0f) |
 | Sun, 21 Sep 2025 16:05:34 GMT | Descubriendo Puertas Ocultas: Guía Enumeración Web con Dirb, Gobuster y FFUF en Metasploitable 2 | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/daf175b4e7d3) |
 | Sun, 21 Sep 2025 16:04:10 GMT | Navigating User Privacy in the Age of Generative AI | Rohit Ranjan | [Read More](https://medium.com/p/5ddc9f69258c) |
-| Sun, 21 Sep 2025 16:02:57 GMT | Supply-Chain Cybersecurity: The Hidden Weak Link in Aviation | Nakul Srivastava | [Read More](https://medium.com/p/39be91ada46e) |
-| Sun, 21 Sep 2025 16:01:08 GMT | Mentorship in the age of AI: Why people will still matter | Pablo Vergara | [Read More](https://medium.com/p/d048df8c009f) |
-| Sun, 21 Sep 2025 16:00:36 GMT | OSINT: The Art of Finding What’s Hidden in Plain Sight | Hjsingh | [Read More](https://medium.com/p/f64e7e099f4c) |
-| Sun, 21 Sep 2025 15:57:57 GMT | Beyond Flags and Footprints | Mark Nall | [Read More](https://medium.com/p/a6f13e15f8bd) |
-| Sun, 21 Sep 2025 15:52:11 GMT | The Ghost in the Machine: How a 1980s Flaw Could Bring Our World to a Screeching Halt | Yusuf Asan | [Read More](https://medium.com/p/7409733ba6b7) |
-| Sun, 21 Sep 2025 15:51:59 GMT | It Felt Safe, Until the Last Click️ | Zoningxtr | [Read More](https://medium.com/p/d1d75d0f1fcd) |
-| Sun, 21 Sep 2025 15:45:33 GMT | Heathrow Faces Second Day of Disruption After Major Cyber Attack | Mr Orion | [Read More](https://medium.com/p/5d8c6c9c0961) |
-| Sun, 21 Sep 2025 15:40:56 GMT | AI Jadi Senjata Hacker: Seberapa Siap Indonesia Menghadapinya? | Handev Code | [Read More](https://medium.com/p/007106122bcd) |
