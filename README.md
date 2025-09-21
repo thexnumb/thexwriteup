@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 06:46:07 GMT | Beginner’s Guide to Ethical Hacking: Tools, Mindset and First Steps | Shahzaib | [Read More](https://medium.com/p/c6a2895d3c90) |
+| Sun, 21 Sep 2025 06:45:53 GMT | Top 5 Recon Tools Every Hacker Should Master | Aj | [Read More](https://medium.com/p/730dc7da2bca) |
+| Sun, 21 Sep 2025 06:42:57 GMT | The One AWS S3 Misconfiguration That Exposed Our Data | Ibtissam hammadi | [Read More](https://medium.com/p/36e93ca2fbc1) |
+| Sun, 21 Sep 2025 06:38:00 GMT | EC2 instance successfully assume the IAM role to S3 bucket | Dimple Patel | [Read More](https://medium.com/p/2f6565c258fa) |
+| Sun, 21 Sep 2025 06:36:34 GMT | CrowdStrike npm Packages Compromised:- A Deep Dive into the Latest Supply Chain Attack | Rue | [Read More](https://medium.com/p/e9b2ab912712) |
+| Sun, 21 Sep 2025 06:31:38 GMT | Why Your Smartphone is the New Favorite Target for Phishing Attacks | Abida Adra | [Read More](https://medium.com/p/1b3a56a4765a) |
+| Sun, 21 Sep 2025 06:27:55 GMT | The Night That Changed Everything : A Child’s First Encounter with Technology in Rural Bangladesh | MD. HABIBULLAH SHARIF | [Read More](https://medium.com/p/1006abb49821) |
 | Sun, 21 Sep 2025 06:08:45 GMT | One Of The Best Cybersecurity Companies In The United States And Their Benefits — Blackhatclique.com | Donley Mark | [Read More](https://medium.com/p/3dd9adc9ac2e) |
 | Sun, 21 Sep 2025 06:05:37 GMT | HTB Fluffy — Medium Walkthrough | Ram Kansal | [Read More](https://medium.com/p/a4545690643b) |
 | Sun, 21 Sep 2025 06:04:42 GMT | Designing a Serverless Event-Driven Workflow for Image Uploads at Scale | Uriel Bitton | [Read More](https://medium.com/p/091fed900e9c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 20:06:40 GMT | 2025 Target Cyber Defense Challenge: When All Exits Are Blocked, Go Underground | Aeronique | [Read More](https://medium.com/p/3b0dd997cf09) |
 | Sat, 20 Sep 2025 19:57:34 GMT | The AAA Framework: How Cybersecurity Decides Who Gets In (and What They Do) | Sruthi Punugu | [Read More](https://medium.com/p/f543758ddb38) |
 | Sat, 20 Sep 2025 19:56:51 GMT | LUCIFER’S GHOST | Ghost | [Read More](https://medium.com/p/b092a1a67851) |
-| Sat, 20 Sep 2025 19:52:35 GMT | When Life’s a Mess You Can’t Quite Untangle | rain | [Read More](https://medium.com/p/00d8696bd0cb) |
-| Sat, 20 Sep 2025 19:41:07 GMT | ShieldPoint: Turning Cybersecurity Policies Into Actionable Awareness | Akesh Chandrasiri | [Read More](https://medium.com/p/49756766f476) |
-| Sat, 20 Sep 2025 19:35:46 GMT | Python Developers Beware: These Innocent PyPI Packages Secretly Hijack Your System with Deadly RAT! | cybrNK | [Read More](https://medium.com/p/e46bc5a77b5b) |
-| Sat, 20 Sep 2025 19:27:23 GMT | The accidental fortress. | New Internet Media | [Read More](https://medium.com/p/3f40f1832032) |
-| Sat, 20 Sep 2025 19:26:52 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/a2cf291d493b) |
-| Sat, 20 Sep 2025 19:21:12 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/f58fa698fe82) |
-| Sat, 20 Sep 2025 19:20:40 GMT | TEAM DARK NOOR AGENTS — PART OF BENX COM | Law By Roshan | [Read More](https://medium.com/p/afa576d57736) |
