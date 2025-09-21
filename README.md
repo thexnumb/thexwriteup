@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 08:25:37 GMT | AI-Driven Phishing Website Detection with Python: 2025 Insights for Ethical Hackers | Muhammad Abdullah Arif | [Read More](https://medium.com/p/dc634b88cf9a) |
+| Sun, 21 Sep 2025 08:20:25 GMT | AI Hallucinations —  Why Blind Trust Can Backfire | Nazish Marvi | [Read More](https://medium.com/p/1d0526a0056a) |
 | Sun, 21 Sep 2025 08:04:55 GMT | {THM} Gallery — writeup | Nihat Rashidli | [Read More](https://medium.com/p/6f88a771bb3c) |
 | Sun, 21 Sep 2025 07:55:41 GMT | OWASP Juice Shop: Broken Access Control — Five-Star Feedback | Risskian | [Read More](https://medium.com/p/efd8c573f173) |
 | Sun, 21 Sep 2025 07:55:34 GMT | Typosquatting in Package Managers: The Attack That Preys on a Single Keystroke | InstaTunnel | [Read More](https://medium.com/p/39588b832390) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Sep 2025 21:52:48 GMT | Hack the Box — Access — WriteUp | Emre A. | [Read More](https://medium.com/p/da15693a4285) |
 | Sat, 20 Sep 2025 21:51:32 GMT | Technical Write-Up: Identifying the Root Cause of a Sophisticated System Attack using Microsoft… | Sarah Beth Thompson | [Read More](https://medium.com/p/ae67bdfeccd1) |
 | Sat, 20 Sep 2025 21:46:49 GMT | Why Retail Stores Need Professional Security Guards | Nimra Sheikh | [Read More](https://medium.com/p/4a60dcbfce4b) |
-| Sat, 20 Sep 2025 21:43:41 GMT | Event Security: Why Safety Matters for Every Gathering | Nimra Sheikh | [Read More](https://medium.com/p/bd336d41d41c) |
-| Sat, 20 Sep 2025 21:41:46 GMT | Phishing and how to spot it | Jacob Piloto | [Read More](https://medium.com/p/214baedd6a7d) |
