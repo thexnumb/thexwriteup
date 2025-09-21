@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 21 Sep 2025 18:37:09 GMT | The 10-Minute Token: Replay-Proof Your API with Time-Based Authentication | Kory Becker | [Read More](https://medium.com/p/54fcd706f5e5) |
+| Sun, 21 Sep 2025 18:33:19 GMT | Why Every AI Agent Needs a Sandbox | Yassine | [Read More](https://medium.com/p/bf760e0c70a1) |
+| Sun, 21 Sep 2025 18:29:02 GMT | Deep Dive into WebSocket Hijacking Vulnerability | Ahmed Muhammed | [Read More](https://medium.com/p/42d8c5773944) |
+| Sun, 21 Sep 2025 18:27:16 GMT | The Tech Scene in 2025: What’s Actually Shaping Our World? | GOPAL | [Read More](https://medium.com/p/98bc2500fe39) |
+| Sun, 21 Sep 2025 18:27:00 GMT | CPTS vs OSCP | Ahmad Allobani | [Read More](https://medium.com/p/b757b4cb9ade) |
+| Sun, 21 Sep 2025 18:25:46 GMT | Cyber Security: The Protection of the Digital World | Career With Technoglobe | [Read More](https://medium.com/p/0fc400bde823) |
+| Sun, 21 Sep 2025 18:24:42 GMT | Why Security and Quality Should Be Built Into the Software Development Life Cycle | Bhaktikishor | [Read More](https://medium.com/p/42925ba9ed17) |
+| Sun, 21 Sep 2025 18:24:21 GMT | Using Ubuntu’s unattended-upgrades package | Marcell Dietl | [Read More](https://medium.com/p/e8e247aa3886) |
+| Sun, 21 Sep 2025 18:22:41 GMT | Reading Between the Lines — Making Sense of SIEM Alerts | Raynard Waits | [Read More](https://medium.com/p/bbaa4d13408b) |
 | Sun, 21 Sep 2025 18:07:14 GMT | Why You Need to Enable Audit Logs in Google Cloud | Allan Alfonso | [Read More](https://medium.com/p/0c31578cd4f1) |
 | Sun, 21 Sep 2025 18:04:05 GMT | “6G and the Rise of Internet Everywhere: How the Next Generation Network Will Transform Our World” | Tarush Sharma | [Read More](https://medium.com/p/9f28bf211309) |
 | Sun, 21 Sep 2025 18:02:57 GMT | Boas Práticas na Criação de Roles e Policies na AWS | Vanderson dos Santos | [Read More](https://medium.com/p/6418192580a9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 12:59:38 GMT | Shared Libraries in Engineering: Blessing or Bottleneck? | Abdussamad Olaiya | [Read More](https://medium.com/p/56b34c80e688) |
 | Sun, 21 Sep 2025 12:55:51 GMT | Threat Hunting Techniques | Cyber Security Research | [Read More](https://medium.com/p/3c802ef6b65e) |
 | Sun, 21 Sep 2025 12:50:41 GMT | Ready to Become a Cyber Guardian? Why You Need an Ethical Hacking Course in Delhi | Nitin Singh | [Read More](https://medium.com/p/b355d3d989c1) |
-| Sun, 21 Sep 2025 12:48:28 GMT | The Human Factor in Cybersecurity Breaches | Cyber Security Research | [Read More](https://medium.com/p/e389fcef0ccd) |
-| Sun, 21 Sep 2025 12:37:44 GMT | As For You | Mayukh Sarma | [Read More](https://medium.com/p/eda555767f4f) |
-| Sun, 21 Sep 2025 12:37:44 GMT | Browsers Beware: When Your Browser Predicts You | R. Thompson (PhD) | [Read More](https://medium.com/p/9c6cd9990938) |
-| Sun, 21 Sep 2025 12:37:39 GMT | Five Security Items Unresolved By GSMA or 3GPP Security Group | Josue Martins | [Read More](https://medium.com/p/7df3c25b8d40) |
-| Sun, 21 Sep 2025 12:36:05 GMT | NMap: The Powerful Tool | Arti Sandip Jadhav | [Read More](https://medium.com/p/576486cbb4fc) |
-| Sun, 21 Sep 2025 12:31:56 GMT | Ethical Hacking Course in Coimbatore | Mahaalakshmisakthivel | [Read More](https://medium.com/p/c6432c5a2987) |
-| Sun, 21 Sep 2025 12:24:52 GMT | The Ethical hacking course for bright future | Mahaalakshmisakthivel | [Read More](https://medium.com/p/966b514ad8b1) |
-| Sun, 21 Sep 2025 12:21:49 GMT | What I Wish I Knew When I Started Bug Bounty | 0xBruno | [Read More](https://medium.com/p/b5ed4e50b912) |
-| Sun, 21 Sep 2025 12:15:59 GMT | AI is gonna nuke us one day, BY MISTAKE! | NK FELIX | [Read More](https://medium.com/p/18ffa477656f) |
