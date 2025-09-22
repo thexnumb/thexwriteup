@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 20:32:06 GMT | Elliot Alderson in Mr. Robot: Hero, Antihero, or Villain? | HexFlicks - Movies, Books & Gaming | [Read More](https://medium.com/p/91f8e6cd2be4) |
+| Mon, 22 Sep 2025 20:27:26 GMT | Airport offline: How vulnerable our systems really are | Cordula Boeck | [Read More](https://medium.com/p/4d898e4ed77c) |
+| Mon, 22 Sep 2025 20:21:23 GMT | Cybersecurity Truths: Brutal takes you won’t hear anywhere else | Truspex | [Read More](https://medium.com/p/8bce1217d0b1) |
 | Mon, 22 Sep 2025 20:12:30 GMT | Improve your Privacy using Tor | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e3b61fbf3c65) |
 | Mon, 22 Sep 2025 20:10:04 GMT | How I Found My First Flag in Terrier Cyber Quest CTF | KURAPATI HONEY KUSHANTH | [Read More](https://medium.com/p/796ffed00913) |
 | Mon, 22 Sep 2025 20:08:45 GMT | Top 5 Programming Languages that Every Ethical Hacker Should Learn | Smith Adams | [Read More](https://medium.com/p/10021056a42f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 15:33:44 GMT | Cybersecurity for Manufacturing Industries | Cyber Security Research | [Read More](https://medium.com/p/745096924aa9) |
 | Mon, 22 Sep 2025 15:32:56 GMT | CVE-2025–10585: Type Confusion in Chrome’s V8 Engine | gm0 | [Read More](https://medium.com/p/8e71175b23f3) |
 | Mon, 22 Sep 2025 15:27:41 GMT | Remote Work Security Policies | Cyber Security Research | [Read More](https://medium.com/p/8b09a7a011c1) |
-| Mon, 22 Sep 2025 15:22:30 GMT | How to Get the Most From Your Push Notifications: 11 Strategies for Success | Build Me App (BMA) | [Read More](https://medium.com/p/04ad55990cdf) |
-| Mon, 22 Sep 2025 15:21:28 GMT | Crewctf_Proxies | phisher | [Read More](https://medium.com/p/09da80f22665) |
-| Mon, 22 Sep 2025 15:21:26 GMT | Security Implications of Edge Computing | Cyber Security Research | [Read More](https://medium.com/p/cd44ab5287a4) |
