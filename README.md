@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 05:08:18 GMT | CyberSecurity In The Age of AI | Sarthak Sinha | [Read More](https://medium.com/p/4d391034e2a7) |
+| Mon, 22 Sep 2025 05:07:20 GMT | Transforming Retail E-Commerce with Advanced IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/40e15b9f25f8) |
+| Mon, 22 Sep 2025 05:06:01 GMT | My OSWE Journey — Madhavan Maniyarasu | Madhavan M | [Read More](https://medium.com/p/b36091a291b5) |
+| Mon, 22 Sep 2025 05:04:01 GMT | How to Perform Mobile App Penetration Testing — Singapore Expert Guide | QualysecEurope | [Read More](https://medium.com/p/59cdeaa31547) |
+| Mon, 22 Sep 2025 04:54:06 GMT | Breaking the Web (Part 2): SQL Injection — The King of Vulnerabilities | Mohammed Fahad | [Read More](https://medium.com/p/af8bebeed21e) |
+| Mon, 22 Sep 2025 04:52:47 GMT | Introducing Tenzro TCE: AI That Learns and Predicts Keeping Data Confidential | Tenzro | [Read More](https://medium.com/p/c94536b4b4ca) |
+| Mon, 22 Sep 2025 04:38:45 GMT | Pod Hardening Starts Here: A Deep Dive into Kubernetes Security Context | Hardik Patel | [Read More](https://medium.com/p/1d347e800e38) |
 | Mon, 22 Sep 2025 04:36:10 GMT | Why is it essential to have a strong password? and what makes you think that your device is secure? | Aniket Walia | [Read More](https://medium.com/p/9ad16818b511) |
 | Mon, 22 Sep 2025 04:27:56 GMT | Basic Things to Check When Hiring Armed Security Guards in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/323298b6d7cb) |
 | Mon, 22 Sep 2025 04:27:15 GMT | Introduction to Browser Forensics (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/55d141b3dbf0) |
@@ -20,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 04:20:16 GMT | Incident Response & Forensics with Splunk SIEM: A Step-by-Step Guide | Sadashiv_Pole | [Read More](https://medium.com/p/7b8b4644fa74) |
 | Mon, 22 Sep 2025 04:17:47 GMT | Silly Doors Cyber Talents CTF Solution Writeup | MehediSec | [Read More](https://medium.com/p/c2f5913e6a4a) |
 | Mon, 22 Sep 2025 04:15:56 GMT | Detecting DLL Hijacking using Sysmon | k1ndlov3r | [Read More](https://medium.com/p/a552f59117c1) |
+| Mon, 22 Sep 2025 04:12:17 GMT | Praktikum Internet of Things (Tugas): Digital Input | Muhammad Surya Saputro | [Read More](https://medium.com/p/14799d9c8f7d) |
 | Mon, 22 Sep 2025 03:59:12 GMT | Deep Dive into Linux Security | Eren Cankut Uysal | [Read More](https://medium.com/p/d6022b0a9f79) |
 | Mon, 22 Sep 2025 03:36:38 GMT | Conquering Assessment Methodologies: Vulnerability Assessment CTF 1; A Step-by-Step Guide | Xnirkun | [Read More](https://medium.com/p/f57381d01218) |
 | Mon, 22 Sep 2025 03:32:09 GMT | Why Low-Profile Operators Win More | Sam Galope | [Read More](https://medium.com/p/896bb0369bce) |
@@ -29,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 03:25:59 GMT | Analytics Gone Wild: How I Turned a Tracking Pixel Into a User Data Firehose | Iski | [Read More](https://medium.com/p/f178d83a1f75) |
 | Mon, 22 Sep 2025 03:24:08 GMT | 15 Costly AI-Based Cyberattacks, What Was Lost, Cost Paid, And What Could Have Prevented Them | Roger Millar | [Read More](https://medium.com/p/f6099c800b1a) |
 | Mon, 22 Sep 2025 03:20:32 GMT | How Free Antivirus Leaves Your Digital Life Exposed — The Illusion of Protection | David SEHYEON Baek | [Read More](https://medium.com/p/857892a0f4ea) |
+| Mon, 22 Sep 2025 03:19:47 GMT | Praktikum Internet of Things: Digital Input | Muhammad Surya Saputro | [Read More](https://medium.com/p/72f98f12fe26) |
 | Mon, 22 Sep 2025 03:19:13 GMT | Linux Security Exploits and Mitigation | Eren Cankut Uysal | [Read More](https://medium.com/p/04c948a138dd) |
 | Mon, 22 Sep 2025 03:14:21 GMT | Zambia Moves to Boost Digital Services and Strengthen Cybersecurity | Chipo Banda | [Read More](https://medium.com/p/a5c91670229c) |
 | Mon, 22 Sep 2025 03:13:13 GMT | Securing Wireless Networks | Jon Wick | [Read More](https://medium.com/p/6885314feca1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 20:53:22 GMT | eJPT — 3.1 CTF 2System/Host Based Attacks | Dharmendrakumar | [Read More](https://medium.com/p/cfc71a09f369) |
 | Sun, 21 Sep 2025 20:50:57 GMT | Cyber Threat Intelligence Communication & Reporting Techniques | Bank Security | [Read More](https://medium.com/p/75ec41a0a098) |
 | Sun, 21 Sep 2025 20:47:38 GMT | Troubleshooting audisp-remote.conf Configuration Errors in Linux Auditd | Luca Berton | [Read More](https://medium.com/p/f428370eb22b) |
-| Sun, 21 Sep 2025 20:33:08 GMT | Qwiet AI and the Dawn of Autonomous DevSecOps | S Ashwin Kashyap | [Read More](https://medium.com/p/7ce923d34bcf) |
-| Sun, 21 Sep 2025 20:29:33 GMT | Cloudflare Warp: The Next-Generation Internet Shield | Emre Özel | [Read More](https://medium.com/p/9ea7be634e0d) |
-| Sun, 21 Sep 2025 20:27:55 GMT | The VPN Illusion: When Security Becomes the Weak Link | David SEHYEON Baek | [Read More](https://medium.com/p/61005e86d824) |
-| Sun, 21 Sep 2025 20:26:10 GMT | When My SonarQube Crashed, I Learned Backups the Hard Way | Trahulprabhu38 | [Read More](https://medium.com/p/9c42caed9aeb) |
-| Sun, 21 Sep 2025 20:19:44 GMT | Most Paid Subscriptions Are Useless — These 5 Actually Help Me as a Staff Engineer in 2025 | Observability Guy | [Read More](https://medium.com/p/ffb4870b4661) |
-| Sun, 21 Sep 2025 20:18:22 GMT | Tor: The Tech Behind Onion Routing explained | sound_of_silence | [Read More](https://medium.com/p/49e39132327f) |
-| Sun, 21 Sep 2025 20:06:29 GMT | Addressing Security Vulnerabilities in Docker: What to Know | @rnab | [Read More](https://medium.com/p/e40cf80196a6) |
-| Sun, 21 Sep 2025 20:06:21 GMT | I Hacked Gmail With ChatGPT: Here’s What Happened | Yatin | [Read More](https://medium.com/p/6c88c3af3bca) |
-| Sun, 21 Sep 2025 19:56:03 GMT | America’s Cyber Firms Need a New Base Layer | Derek Wayne Bailey | [Read More](https://medium.com/p/a95acf7f91c3) |
