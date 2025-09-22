@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 19:11:44 GMT | Horny, Not Hopeless | Lina wilde | [Read More](https://medium.com/p/34fee97d3647) |
+| Mon, 22 Sep 2025 19:07:04 GMT | Security matters for hyperlinks as well | Eligijus Petrikonis | [Read More](https://medium.com/p/f3e062872bc2) |
+| Mon, 22 Sep 2025 19:02:54 GMT | Nmap Cheat Sheet: Essential Commands for Effective Scanning | Horrow | [Read More](https://medium.com/p/b8e3be190c5a) |
+| Mon, 22 Sep 2025 19:02:54 GMT | The  H1B Visa vs  UK Global Talent Visa | Taimur Ijlal | [Read More](https://medium.com/p/5e0de99f068d) |
+| Mon, 22 Sep 2025 19:01:12 GMT | Where Do We Even Start With “Finding Yourself”? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/2c5f4efdb227) |
+| Mon, 22 Sep 2025 19:00:56 GMT | AI Models That Might Refuse to Shut Down: What Safety Experts Are Warning Us About | LokieGamer | [Read More](https://medium.com/p/7d1ba4cdb9c2) |
+| Mon, 22 Sep 2025 18:57:33 GMT | Linux Logging for SOC: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/ca73c670214d) |
+| Mon, 22 Sep 2025 18:53:22 GMT | Empowering Businesses with Connectivity, Security, and Compliance | Defend My Business | [Read More](https://medium.com/p/1335ac3a6744) |
+| Mon, 22 Sep 2025 18:46:22 GMT | ️Secure Your Go Code: Top 10 Security Mistakes and How to Fix Them Effectively️ | Puneet | [Read More](https://medium.com/p/49cdb1c457d7) |
+| Mon, 22 Sep 2025 18:45:53 GMT | CyberSpec.pro — The Future of Cybersecurity Monitoring | Mayank | [Read More](https://medium.com/p/27ab0debd319) |
 | Mon, 22 Sep 2025 18:40:57 GMT | Hands-On Cybersecurity: Deploying Web Server and Monitoring with Wazuh SIEM | Solomon Yaoh | [Read More](https://medium.com/p/ad568295e8e9) |
+| Mon, 22 Sep 2025 18:40:00 GMT | Projects | Mansfield-Devine | [Read More](https://medium.com/p/8e22f6bb804c) |
+| Mon, 22 Sep 2025 18:34:20 GMT | OWASP Top 10: The Most Critical Web Vulnerabilities in Cybersecurity | Lumae | [Read More](https://medium.com/p/7d1fa856ad2f) |
 | Mon, 22 Sep 2025 18:33:11 GMT | THM - Sequence | Francesco Pastore | [Read More](https://medium.com/p/ef029c3e54c0) |
 | Mon, 22 Sep 2025 18:29:50 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2e6e5d3900d1) |
 | Mon, 22 Sep 2025 18:29:48 GMT | How I Hacked My Friends Portfolio (Clickjacking Exploit) | 693 Varad Bandekar | [Read More](https://medium.com/p/7b5b2c5936e5) |
@@ -78,11 +90,14 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 15:45:32 GMT | Chagu at Node2025: Defending Generative AI with Graphs (some ideas we will discuss). | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/6bdeb28b53cf) |
 | Mon, 22 Sep 2025 15:41:20 GMT | How ChatGPT is Changing Cybersecurity: Red Team, Blue Team, and Beyond | Rajkumar Kumawat | [Read More](https://medium.com/p/19ce0a7bf9c2) |
 | Mon, 22 Sep 2025 15:39:41 GMT | IoT Botnets and Mitigation Techniques | Cyber Security Research | [Read More](https://medium.com/p/61baa81c7d84) |
+| Mon, 22 Sep 2025 15:33:44 GMT | Cybersecurity for Manufacturing Industries | Cyber Security Research | [Read More](https://medium.com/p/745096924aa9) |
 | Mon, 22 Sep 2025 15:32:56 GMT | CVE-2025–10585: Type Confusion in Chrome’s V8 Engine | gm0 | [Read More](https://medium.com/p/8e71175b23f3) |
+| Mon, 22 Sep 2025 15:27:41 GMT | Remote Work Security Policies | Cyber Security Research | [Read More](https://medium.com/p/8b09a7a011c1) |
 | Mon, 22 Sep 2025 15:22:30 GMT | How to Get the Most From Your Push Notifications: 11 Strategies for Success | Build Me App (BMA) | [Read More](https://medium.com/p/04ad55990cdf) |
 | Mon, 22 Sep 2025 15:21:28 GMT | Crewctf_Proxies | phisher | [Read More](https://medium.com/p/09da80f22665) |
 | Mon, 22 Sep 2025 15:21:26 GMT | Security Implications of Edge Computing | Cyber Security Research | [Read More](https://medium.com/p/cd44ab5287a4) |
 | Mon, 22 Sep 2025 15:19:17 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/803845d21947) |
+| Mon, 22 Sep 2025 15:15:33 GMT | Reconciliation Automation Tools for Banks: Enhancing Security and Compliance | Kosh AI | [Read More](https://medium.com/p/9b560a9c018f) |
 | Mon, 22 Sep 2025 15:15:28 GMT | An Overview of Kali Linux for Security Professionals | SDNTechForum | [Read More](https://medium.com/p/dfd23e694681) |
 | Mon, 22 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 22, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/a297a1d68c8c) |
 | Mon, 22 Sep 2025 15:01:49 GMT | Operational Resilience in 2025: Lessons from DORA and Global Cybersecurity Frameworks | Lester Davila Escobedo | [Read More](https://medium.com/p/049656e5617a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 14:45:48 GMT | The Power and Limits of Common Knowledge | Lior Gd | [Read More](https://medium.com/p/5d08442499a3) |
 | Mon, 22 Sep 2025 14:41:22 GMT | Unlocking the Secrets: My Biohazard CTF Adventure Part 2 | Adwaith S | [Read More](https://medium.com/p/5d8a234f6316) |
 | Mon, 22 Sep 2025 14:31:46 GMT | You Are Sharing | Nikhil Lodha | [Read More](https://medium.com/p/f408f36f49c7) |
-| Mon, 22 Sep 2025 14:31:45 GMT | From Dorcha to Saoirse: Why Irish Words Guide Our AI Security Mission | Chelsea Mac | [Read More](https://medium.com/p/0d31c26fc62b) |
-| Mon, 22 Sep 2025 14:31:07 GMT | Walkthrough: CyberDefenders WebStrike Lab | Dean Talbot | [Read More](https://medium.com/p/d1eddc15b045) |
-| Mon, 22 Sep 2025 14:29:16 GMT | P.O.O — Part 4: Foothold | XOR-Hacks | [Read More](https://medium.com/p/be3089fedaa0) |
-| Mon, 22 Sep 2025 14:27:58 GMT | Ransomware Disrupts European Airports | CyberSamm | [Read More](https://medium.com/p/24112b1d001d) |
-| Mon, 22 Sep 2025 14:27:29 GMT | SIEM for lean teams: How to do more with less | Graylog | [Read More](https://medium.com/p/f5499000f712) |
-| Mon, 22 Sep 2025 14:25:58 GMT | PicoCTF Challenge :  Collaborative Development Solved | Nanda Aditya Putra | [Read More](https://medium.com/p/4fb720e17254) |
-| Mon, 22 Sep 2025 14:24:48 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/72fe9bb9a7b7) |
-| Mon, 22 Sep 2025 14:22:00 GMT | Session 1: Introduction & Topology Setup (Kali VM ↔ Windows Host) | Axel Liang Gono | [Read More](https://medium.com/p/7ac22806e1eb) |
-| Mon, 22 Sep 2025 14:20:11 GMT | Memahami Konsep Inheritance dalam Pemrograman Berorientasi Objek dengan Java | Yofi Widiyanto | [Read More](https://medium.com/p/a5c0241cb28b) |
-| Mon, 22 Sep 2025 14:17:54 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/9bd44b6cc52d) |
-| Mon, 22 Sep 2025 14:13:43 GMT | Proactive Cybersecurity Services by Tudip Technologies: | Debasis Rath | [Read More](https://medium.com/p/910a56dffa67) |
-| Mon, 22 Sep 2025 14:13:37 GMT | SpamGPT: the CRM-for-cybercriminals turning phishing into an industrialized business. | eL Njas!™ | [Read More](https://medium.com/p/389003369088) |
-| Mon, 22 Sep 2025 14:11:49 GMT | Best Cyber Security Institute in Bangalore: What Makes the Right Training Partner? | Sureshnextwebi | [Read More](https://medium.com/p/359e4ad53823) |
-| Mon, 22 Sep 2025 14:08:49 GMT | The AI Therapist: Would You Confess Your Secrets to a Machine? | Travis Ray Caverhill | [Read More](https://medium.com/p/59d5e6606539) |
-| Mon, 22 Sep 2025 14:06:02 GMT | Understanding ICS Threat Actors: From Nation-States to Cybercriminals | Cyberkech | [Read More](https://medium.com/p/88a0ea9dd894) |
