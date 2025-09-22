@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 15:32:56 GMT | CVE-2025–10585: Type Confusion in Chrome’s V8 Engine | gm0 | [Read More](https://medium.com/p/8e71175b23f3) |
+| Mon, 22 Sep 2025 15:22:30 GMT | How to Get the Most From Your Push Notifications: 11 Strategies for Success | Build Me App (BMA) | [Read More](https://medium.com/p/04ad55990cdf) |
+| Mon, 22 Sep 2025 15:21:28 GMT | Crewctf_Proxies | phisher | [Read More](https://medium.com/p/09da80f22665) |
 | Mon, 22 Sep 2025 15:21:26 GMT | Security Implications of Edge Computing | Cyber Security Research | [Read More](https://medium.com/p/cd44ab5287a4) |
+| Mon, 22 Sep 2025 15:19:17 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/803845d21947) |
 | Mon, 22 Sep 2025 15:15:28 GMT | An Overview of Kali Linux for Security Professionals | SDNTechForum | [Read More](https://medium.com/p/dfd23e694681) |
 | Mon, 22 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 22, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/a297a1d68c8c) |
 | Mon, 22 Sep 2025 15:01:49 GMT | Operational Resilience in 2025: Lessons from DORA and Global Cybersecurity Frameworks | Lester Davila Escobedo | [Read More](https://medium.com/p/049656e5617a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 10:37:53 GMT | Job Guaranteed Courses in Bangalore — Placement Assured Training Programs | Evision Technoserve | [Read More](https://medium.com/p/8a6aead9f164) |
 | Mon, 22 Sep 2025 10:37:19 GMT | Why onUploadProgress shows 100% too early in dev mood | Amrou Hichem Zorgani | [Read More](https://medium.com/p/6107871499fb) |
 | Mon, 22 Sep 2025 10:32:42 GMT | How to Prepare for a PCI DSS Audit: Advice from a Security Analyst | Abdullateef Hameed | [Read More](https://medium.com/p/3ad848ddc770) |
-| Mon, 22 Sep 2025 10:25:24 GMT | Anatomy of The 2025 npm Worm - The Largest Supply Chain Hack | Motasem Hamdan | [Read More](https://medium.com/p/3a64560d5c8f) |
-| Mon, 22 Sep 2025 10:24:16 GMT | OSI Model | Goutam Yadav | [Read More](https://medium.com/p/6cd788cc214f) |
-| Mon, 22 Sep 2025 10:21:08 GMT | How I Earned $3,300 in Bug Bounties Using ASN Reconnaissance | Ahmadzuriqi | [Read More](https://medium.com/p/3464bb23bafa) |
-| Mon, 22 Sep 2025 10:20:44 GMT | How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization - Bug… | Ph.Hitachi | [Read More](https://medium.com/p/8bc189b37704) |
