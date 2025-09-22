@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 10:21:08 GMT | How I Earned $3,300 in Bug Bounties Using ASN Reconnaissance | Ahmadzuriqi | [Read More](https://medium.com/p/3464bb23bafa) |
+| Mon, 22 Sep 2025 10:08:11 GMT | Path Traversal – PortSwigger Walk through | Kumari Amita Kishore | [Read More](https://medium.com/p/abb95887e1bc) |
+| Mon, 22 Sep 2025 10:02:22 GMT | The Hunter Behind the Hacker | Inter3209 | [Read More](https://medium.com/p/cb996c3e4a78) |
+| Mon, 22 Sep 2025 10:01:32 GMT | Dark Fiber Market Growth, Demand, Opportunities and Future Outlook 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/ba0390b3c322) |
+| Mon, 22 Sep 2025 09:58:21 GMT | AI Governance Market Trends, Size, Share and Forecast Analysis 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/c1c363a69109) |
+| Mon, 22 Sep 2025 09:57:26 GMT | Top 10 Benefits of Regular VAPT Services for Businesses | Jay C Roberts | [Read More](https://medium.com/p/b6840b199d8d) |
+| Mon, 22 Sep 2025 09:53:20 GMT | 24/7 Security Guard Services in Los Angeles: Keeping You Safe Around the Clock | uk service | [Read More](https://medium.com/p/b87c68333827) |
+| Mon, 22 Sep 2025 09:46:05 GMT | How to Avoid Online Scams and Phishing Attacks | Kartik Debnath | [Read More](https://medium.com/p/4978684ff7f2) |
+| Mon, 22 Sep 2025 09:45:27 GMT | The Future of Digital Security: An Examination of Quantum Teleportation | Prinstonpalmer | [Read More](https://medium.com/p/eb7ec8bbce23) |
 | Mon, 22 Sep 2025 09:36:53 GMT | Data Security Posture Management (DSPM): Controlling Cloud Sprawl in a Data-Everywhere World | Jackdavis Iap | [Read More](https://medium.com/p/3ea867981509) |
 | Mon, 22 Sep 2025 09:32:19 GMT | CyberTalent : Easy Message | Mostafa Ahmed | [Read More](https://medium.com/p/b36da29bc06f) |
 | Mon, 22 Sep 2025 09:28:42 GMT | Zerologon (CVE-2020–1472): Pwn the Domain with Zero Effort | MITRE Doggy | [Read More](https://medium.com/p/17d5df35c42a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 05:11:25 GMT | Cyber Security Consultation Explained: What It Is and How It Shields You from Cyber Threats | Prismatic Holdings | [Read More](https://medium.com/p/329564c7e0b9) |
 | Mon, 22 Sep 2025 05:10:08 GMT | How Network security impacts everyday internet users | Nagaraj | [Read More](https://medium.com/p/a8acf7c132f6) |
 | Mon, 22 Sep 2025 05:08:18 GMT | CyberSecurity In The Age of AI | Sarthak Sinha | [Read More](https://medium.com/p/4d391034e2a7) |
-| Mon, 22 Sep 2025 05:07:20 GMT | Transforming Retail E-Commerce with Advanced IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/40e15b9f25f8) |
-| Mon, 22 Sep 2025 05:06:01 GMT | My OSWE Journey — Madhavan Maniyarasu | Madhavan M | [Read More](https://medium.com/p/b36091a291b5) |
-| Mon, 22 Sep 2025 05:04:01 GMT | How to Perform Mobile App Penetration Testing — Singapore Expert Guide | QualysecEurope | [Read More](https://medium.com/p/59cdeaa31547) |
-| Mon, 22 Sep 2025 04:54:06 GMT | Breaking the Web (Part 2): SQL Injection — The King of Vulnerabilities | Mohammed Fahad | [Read More](https://medium.com/p/af8bebeed21e) |
-| Mon, 22 Sep 2025 04:52:47 GMT | Introducing Tenzro TCE: AI That Learns and Predicts Keeping Data Confidential | Tenzro | [Read More](https://medium.com/p/c94536b4b4ca) |
-| Mon, 22 Sep 2025 04:38:45 GMT | Pod Hardening Starts Here: A Deep Dive into Kubernetes Security Context | Hardik Patel | [Read More](https://medium.com/p/1d347e800e38) |
-| Mon, 22 Sep 2025 04:36:10 GMT | Why is it essential to have a strong password? and what makes you think that your device is secure? | Aniket Walia | [Read More](https://medium.com/p/9ad16818b511) |
-| Mon, 22 Sep 2025 04:27:56 GMT | Basic Things to Check When Hiring Armed Security Guards in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/323298b6d7cb) |
-| Mon, 22 Sep 2025 04:27:15 GMT | Introduction to Browser Forensics (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/55d141b3dbf0) |
