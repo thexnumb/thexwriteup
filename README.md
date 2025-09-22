@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 09:18:50 GMT | Top Ethical Hacking Course in Trivandrum | Dotinfida | [Read More](https://medium.com/p/79a6a2e20b09) |
+| Mon, 22 Sep 2025 09:14:09 GMT | DockerLabs Writeup — AnonymousPingu (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fa2e2f01a0af) |
+| Mon, 22 Sep 2025 09:08:28 GMT | Chain Link Fence in Saudi Arabia: A Smart Choice for Security, Climate, and Value (سياج شبكي) | Hitechfence | [Read More](https://medium.com/p/762843a86b7a) |
+| Mon, 22 Sep 2025 08:59:46 GMT | The S1ngularity/nx Attackers Just Struck Again, And You’re Not Ready | SecureSlate | [Read More](https://medium.com/p/2f6714f5505c) |
+| Mon, 22 Sep 2025 08:57:31 GMT | The Most Thankless Job in Tech: Software Project Management | Fahad Habib | [Read More](https://medium.com/p/008ee3a65e18) |
+| Mon, 22 Sep 2025 08:56:56 GMT | SPARK Matrix™: Key Technology Trends in Insider Risk Management | Gargiben | [Read More](https://medium.com/p/0cdab344defd) |
+| Mon, 22 Sep 2025 08:52:12 GMT | IT Security in Germany: The Persistent Cyber Challenge for Businesses in 2026 | Mindfully SEO | [Read More](https://medium.com/p/99faf66a0cfe) |
+| Mon, 22 Sep 2025 08:47:34 GMT | Why Secure SDLC fails in real life (and How to fix it) | Artem Lvov | [Read More](https://medium.com/p/8a8623dc5376) |
 | Mon, 22 Sep 2025 08:45:12 GMT | Active Directory Exploitation in CTF Challenges: A Beginner’s Guide | Maxwell Ferreira | [Read More](https://medium.com/p/4cb733d977f0) |
 | Mon, 22 Sep 2025 08:35:45 GMT | Race Condition Vulnerabilities: The Timing Attack You’re Missing | Rizqi Mulki | [Read More](https://medium.com/p/0860f2a02bf0) |
 | Mon, 22 Sep 2025 08:35:20 GMT | Proving Grounds — AuthBy Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/4f12b0bb3d2a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 04:17:47 GMT | Silly Doors Cyber Talents CTF Solution Writeup | MehediSec | [Read More](https://medium.com/p/c2f5913e6a4a) |
 | Mon, 22 Sep 2025 04:15:56 GMT | Detecting DLL Hijacking using Sysmon | k1ndlov3r | [Read More](https://medium.com/p/a552f59117c1) |
 | Mon, 22 Sep 2025 04:12:17 GMT | Praktikum Internet of Things (Tugas): Digital Input | Muhammad Surya Saputro | [Read More](https://medium.com/p/14799d9c8f7d) |
-| Mon, 22 Sep 2025 03:59:12 GMT | Deep Dive into Linux Security | Eren Cankut Uysal | [Read More](https://medium.com/p/d6022b0a9f79) |
-| Mon, 22 Sep 2025 03:36:38 GMT | Conquering Assessment Methodologies: Vulnerability Assessment CTF 1; A Step-by-Step Guide | Xnirkun | [Read More](https://medium.com/p/f57381d01218) |
-| Mon, 22 Sep 2025 03:32:09 GMT | Why Low-Profile Operators Win More | Sam Galope | [Read More](https://medium.com/p/896bb0369bce) |
-| Mon, 22 Sep 2025 03:31:47 GMT | How I Hacked My Way to TryHackMe’s Top 5% in 3 Weeks (Spoiler: No Black Hoodies Required) | Rahul Arun | [Read More](https://medium.com/p/e1dae5cc2524) |
-| Mon, 22 Sep 2025 03:31:10 GMT | I Thought My Passwords Were Safe, Until a Hacker Proved Me Wrong | Arfa | [Read More](https://medium.com/p/7205bb5e6e8b) |
-| Mon, 22 Sep 2025 03:29:04 GMT | Solving the 0x41haz Challenge on TryHackMe: A Step-by-Step Reversing Walkthrough | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/2c9ef807e6d3) |
-| Mon, 22 Sep 2025 03:25:59 GMT | Analytics Gone Wild: How I Turned a Tracking Pixel Into a User Data Firehose | Iski | [Read More](https://medium.com/p/f178d83a1f75) |
-| Mon, 22 Sep 2025 03:24:08 GMT | 15 Costly AI-Based Cyberattacks, What Was Lost, Cost Paid, And What Could Have Prevented Them | Roger Millar | [Read More](https://medium.com/p/f6099c800b1a) |
