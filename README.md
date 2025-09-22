@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 06:30:39 GMT | The Philosophy of Tech | CodeZen | [Read More](https://medium.com/p/9dad937ea9c3) |
+| Mon, 22 Sep 2025 06:19:03 GMT | What an IP Address Really Reveals About Your Visitors | Fraudo.io | [Read More](https://medium.com/p/5b81485dc9a1) |
+| Mon, 22 Sep 2025 06:18:59 GMT | Static Proxy IPs: Building Security, Stability, and Compliance Into Enterprise Networks | Blanche X | [Read More](https://medium.com/p/9994abcc63e2) |
+| Mon, 22 Sep 2025 06:14:25 GMT | Strengthening Cyber Defences: The Rising Demand for Penetration Testing | snsinsider05 | [Read More](https://medium.com/p/a531b2ec3cc0) |
+| Mon, 22 Sep 2025 06:11:57 GMT | HackTheBox : ExpressWay (Easy) | Binary Exploiter | [Read More](https://medium.com/p/8914414d13ff) |
+| Mon, 22 Sep 2025 06:10:02 GMT | Understanding Generative AI Security: A Guide to the Key Risks | CyDhaal | [Read More](https://medium.com/p/91b372691776) |
+| Mon, 22 Sep 2025 06:09:59 GMT | Why Cybersecurity Education Needs More Storytelling | Shahzaib | [Read More](https://medium.com/p/b220b4e04712) |
+| Mon, 22 Sep 2025 06:09:43 GMT | Top 10 Smallest Hacker Gadgets and Their Ethical Uses in Pen Testing | Manisha Chaudhary | [Read More](https://medium.com/p/03ec302bd68a) |
+| Mon, 22 Sep 2025 06:06:26 GMT | DC-2 Walkthrough Vulnhub | Ankit Dhaka | [Read More](https://medium.com/p/06bea3bd16ed) |
+| Mon, 22 Sep 2025 06:04:05 GMT | Quantum-Proof Encryption, Now — Not Later | Modexa | [Read More](https://medium.com/p/cc025b9e8a6f) |
+| Mon, 22 Sep 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Sep 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/334e9192d31e) |
+| Mon, 22 Sep 2025 05:57:20 GMT | Breaking into Cybersecurity in India: A 2025 Overview | Mainekhacker | [Read More](https://medium.com/p/11d37c3e4590) |
+| Mon, 22 Sep 2025 05:57:04 GMT | How Does a Simple Drone Become Military-Grade? From backyard to battlefield, a blog series | Pipeline | [Read More](https://medium.com/p/988b5be0d2c8) |
+| Mon, 22 Sep 2025 05:56:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | shruti mishra | [Read More](https://medium.com/p/6428cdde840c) |
+| Mon, 22 Sep 2025 05:56:32 GMT | Best Ethical Hacking Training in Noida - Ducat India | Pooja Hemant Jadon | [Read More](https://medium.com/p/b1986efaac50) |
+| Mon, 22 Sep 2025 05:56:31 GMT | Best Ethical Hacking Training in Noida - Ducat India | Priyaanshichaudhary | [Read More](https://medium.com/p/435de2e3017d) |
+| Mon, 22 Sep 2025 05:56:27 GMT | Best Ethical Hacking Training in Noida - Ducat India | Rohiit07 | [Read More](https://medium.com/p/cd4a50f4445c) |
+| Mon, 22 Sep 2025 05:56:23 GMT | Best Ethical Hacking Training in Noida - Ducat India | Zaidchaudhary | [Read More](https://medium.com/p/a2664b83f428) |
+| Mon, 22 Sep 2025 05:56:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Gulfisha Khan | [Read More](https://medium.com/p/6afeba85c374) |
+| Mon, 22 Sep 2025 05:56:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Jatinchoudhary | [Read More](https://medium.com/p/9c0a9aa6a769) |
+| Mon, 22 Sep 2025 05:56:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | Namanv225@gmail.com | [Read More](https://medium.com/p/b78b28ff4c77) |
+| Mon, 22 Sep 2025 05:56:11 GMT | Best Ethical Hacking Training in Noida - Ducat India | Pavvi Agarwal | [Read More](https://medium.com/p/9ed3aabae234) |
+| Mon, 22 Sep 2025 05:54:59 GMT | We are Free | Robert Roth | [Read More](https://medium.com/p/357a4f8c32cd) |
+| Mon, 22 Sep 2025 05:53:03 GMT | How a Well-Built Website Impacts User Trust and Conversions | Webcart | [Read More](https://medium.com/p/d9ef054bb500) |
+| Mon, 22 Sep 2025 05:51:47 GMT | SOC + AI: What agents can we use? | Pk Atwork | [Read More](https://medium.com/p/186be975f39f) |
+| Mon, 22 Sep 2025 05:46:36 GMT | Cross-Site Scripting (XSS): Still Alive in 2025 | Hinan Mohamed | [Read More](https://medium.com/p/37d68eb91da3) |
 | Mon, 22 Sep 2025 05:27:46 GMT | HTTP vs HTTPS: What’s the Difference and Why It Matters | Techie Arbaaz | [Read More](https://medium.com/p/3d2264cecdca) |
 | Mon, 22 Sep 2025 05:23:11 GMT | Linux Fundamentals Part 2: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/20cc1d36374b) |
 | Mon, 22 Sep 2025 05:14:50 GMT | Mobile Ransomware: Could Hackers Lock Your Phone? | Abida Adra | [Read More](https://medium.com/p/63c5b964f0fb) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 23:25:57 GMT | Security Interview Prep Series — 21. Penetration Testing | Shraddha M. | [Read More](https://medium.com/p/b91a70a8c6f2) |
 | Sun, 21 Sep 2025 23:04:45 GMT | Effective Vulnerability Management for PCI Compliance in Cloud-First Startups | Davids Olumide Michael | [Read More](https://medium.com/p/4c26f1736058) |
 | Sun, 21 Sep 2025 23:03:45 GMT | Everybody Wants to Taste Your Weak Spot | 007 | [Read More](https://medium.com/p/e8ef5fa883de) |
-| Sun, 21 Sep 2025 23:02:16 GMT | Why Security Teams Can’t Live Without SIEMs | Keren N Oduro | [Read More](https://medium.com/p/7c32b09681d0) |
-| Sun, 21 Sep 2025 23:02:05 GMT | LetsDefend — Samba Spy Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/158bb9260caa) |
-| Sun, 21 Sep 2025 22:54:11 GMT | CyberDefenders — Trigona Ransomware Lab | jon | [Read More](https://medium.com/p/7ffb0a26cbfe) |
-| Sun, 21 Sep 2025 22:46:56 GMT | HOW TO GET BACK STOLEN CRYPTOCURRENY/HIRE A HACKER CALL MALICE CYBER RECOVERY | Luca Bianchi | [Read More](https://medium.com/p/21f30206ee56) |
-| Sun, 21 Sep 2025 22:43:50 GMT | No Free Lunch in Privacy — Why Free VPNs Can Be Dangerous | David SEHYEON Baek | [Read More](https://medium.com/p/1a5b7deeee5f) |
-| Sun, 21 Sep 2025 22:40:18 GMT | Proving Grounds - Nukem | jniket | [Read More](https://medium.com/p/395e1e74e70f) |
-| Sun, 21 Sep 2025 22:36:02 GMT | Installing Parallels Tools on macOS Monterey VM for OffSec 312 | Junior Mateus | [Read More](https://medium.com/p/6554d5d5e632) |
-| Sun, 21 Sep 2025 22:35:16 GMT | Cybersecurity on a budget: essential steps every small business should take | xornam.io | [Read More](https://medium.com/p/457f0874404b) |
-| Sun, 21 Sep 2025 22:34:44 GMT | Weird Endpoint Behavior — What it tells you | Cybersecplayground | [Read More](https://medium.com/p/b1be8200480e) |
-| Sun, 21 Sep 2025 22:32:18 GMT | From Guardrails to Growth: The ROI of Agentic Policy Enforcement | Jaz Lin | [Read More](https://medium.com/p/c15045d13fa6) |
-| Sun, 21 Sep 2025 22:31:30 GMT | “ scrambled-bytes “ challenge | oussama | [Read More](https://medium.com/p/9e57ba9d1bc9) |
-| Sun, 21 Sep 2025 22:28:26 GMT | Turning an Old PC Into a Security Operations Center | Benjamin Taylor | [Read More](https://medium.com/p/6ffe7dc4795d) |
-| Sun, 21 Sep 2025 22:28:22 GMT | Codexity | Rana Fahad Aman | [Read More](https://medium.com/p/311850756fdf) |
-| Sun, 21 Sep 2025 22:22:15 GMT | Staying Alert in the Digital Era: The Rising Threat of Hackers | LSC | [Read More](https://medium.com/p/24b7e7bbb14b) |
-| Sun, 21 Sep 2025 22:22:07 GMT | Rails CSRF Internals Uncovered — And a Real-World Bug We Faced | Striker | [Read More](https://medium.com/p/ffcb4ce8c52e) |
-| Sun, 21 Sep 2025 22:14:10 GMT | MINDUPLOAD TECH IS REAL. | Nabil Hamidi | [Read More](https://medium.com/p/2daedd061f87) |
-| Sun, 21 Sep 2025 22:13:31 GMT | Running AIDE on Ubuntu EC2 Micro Instances: What to Expect | Luca Berton | [Read More](https://medium.com/p/d9e1d7014a2b) |
-| Sun, 21 Sep 2025 22:06:43 GMT | Creating a Keylogger in Python | Corey Farley | [Read More](https://medium.com/p/bc12710a3f2d) |
-| Sun, 21 Sep 2025 21:39:44 GMT | CyberDefenders: The Crime | Rahaliashraf | [Read More](https://medium.com/p/18e70d936b93) |
-| Sun, 21 Sep 2025 21:39:32 GMT | DLL Sideloading: A technical overview | Shivam Kanodia | [Read More](https://medium.com/p/6cb3949df95f) |
-| Sun, 21 Sep 2025 21:36:05 GMT | My First Bug: Email Enumeration via Password Reset | Zouhair Ake | [Read More](https://medium.com/p/9a6341a9fff3) |
-| Sun, 21 Sep 2025 21:30:01 GMT | Episode 4: Fundamentals Of Cybersecurity — AAA Security | Yash Kitey | [Read More](https://medium.com/p/f006a169402a) |
-| Sun, 21 Sep 2025 21:20:30 GMT | Cyberecology | Nembirowsir | [Read More](https://medium.com/p/7024452e025b) |
-| Sun, 21 Sep 2025 21:19:50 GMT | Recognizing Catfish & Romance Scams in the Age of False Persona | Reclamation Nation | [Read More](https://medium.com/p/61d08d24d973) |
-| Sun, 21 Sep 2025 21:16:22 GMT | My Bug In Deleted Files Made Me $47,500 | Ibtissam hammadi | [Read More](https://medium.com/p/e1f144981757) |
-| Sun, 21 Sep 2025 21:09:01 GMT | TryHackMe — Sequence Walkthrough/Write-up | Ruszkai Dávid | [Read More](https://medium.com/p/c2d1267544cb) |
