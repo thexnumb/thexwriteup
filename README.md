@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 03:36:38 GMT | Conquering Assessment Methodologies: Vulnerability Assessment CTF 1; A Step-by-Step Guide | Xnirkun | [Read More](https://medium.com/p/f57381d01218) |
+| Mon, 22 Sep 2025 03:32:09 GMT | Why Low-Profile Operators Win More | Sam Galope | [Read More](https://medium.com/p/896bb0369bce) |
+| Mon, 22 Sep 2025 03:31:47 GMT | How I Hacked My Way to TryHackMe’s Top 5% in 3 Weeks (Spoiler: No Black Hoodies Required) | Rahul Arun | [Read More](https://medium.com/p/e1dae5cc2524) |
+| Mon, 22 Sep 2025 03:31:10 GMT | I Thought My Passwords Were Safe, Until a Hacker Proved Me Wrong | Arfa | [Read More](https://medium.com/p/7205bb5e6e8b) |
+| Mon, 22 Sep 2025 03:29:04 GMT | Solving the 0x41haz Challenge on TryHackMe: A Step-by-Step Reversing Walkthrough | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/2c9ef807e6d3) |
+| Mon, 22 Sep 2025 03:25:59 GMT | Analytics Gone Wild: How I Turned a Tracking Pixel Into a User Data Firehose | Iski | [Read More](https://medium.com/p/f178d83a1f75) |
+| Mon, 22 Sep 2025 03:24:08 GMT | 15 Costly AI-Based Cyberattacks, What Was Lost, Cost Paid, And What Could Have Prevented Them | Roger Millar | [Read More](https://medium.com/p/f6099c800b1a) |
+| Mon, 22 Sep 2025 03:20:32 GMT | How Free Antivirus Leaves Your Digital Life Exposed — The Illusion of Protection | David SEHYEON Baek | [Read More](https://medium.com/p/857892a0f4ea) |
+| Mon, 22 Sep 2025 03:19:13 GMT | Linux Security Exploits and Mitigation | Eren Cankut Uysal | [Read More](https://medium.com/p/04c948a138dd) |
+| Mon, 22 Sep 2025 03:14:21 GMT | Zambia Moves to Boost Digital Services and Strengthen Cybersecurity | Chipo Banda | [Read More](https://medium.com/p/a5c91670229c) |
+| Mon, 22 Sep 2025 03:13:13 GMT | Securing Wireless Networks | Jon Wick | [Read More](https://medium.com/p/6885314feca1) |
 | Mon, 22 Sep 2025 03:04:56 GMT | Install or Update New Version Ghauri in WSL for testing SQL Injection | raflesia it | [Read More](https://medium.com/p/0f626a218190) |
 | Mon, 22 Sep 2025 03:01:50 GMT | U.S. Moves to Counter China’s Global Port Dominance | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/1d667e760773) |
 | Mon, 22 Sep 2025 02:59:41 GMT | AI and Adversarial Attacks | Cyber Security Research | [Read More](https://medium.com/p/52b87c37b9d7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 19:28:22 GMT | Cybercrime in Nigeria: How Scammers Think, What They Do, and How You Can Protect Yourself | Udemchinelo | [Read More](https://medium.com/p/9bc2af11d2fc) |
 | Sun, 21 Sep 2025 19:27:26 GMT | Voice over IP: İnternet Üzerinden İletişimin Detayları | enes mercan | [Read More](https://medium.com/p/28af4a51137b) |
 | Sun, 21 Sep 2025 19:26:52 GMT | Distributed Identity: the Next Frontier of Corporate Cybersecurity | Rodrigo Gutierrez | [Read More](https://medium.com/p/4d429ddac333) |
-| Sun, 21 Sep 2025 19:22:39 GMT | A Night In Poland’s Digital Siege 2025 | O. J. Okpabi | [Read More](https://medium.com/p/8ebef62e02ff) |
-| Sun, 21 Sep 2025 19:18:33 GMT | Wazuh API Integration with Slack: A Step-by-Step Guide for Real-Time Security Alerting. | Enitan Ogungbade | [Read More](https://medium.com/p/b0c1f06facc7) |
-| Sun, 21 Sep 2025 19:17:46 GMT | The Ultimate Windows CMD Cheat Sheet for Blue & Red Teams | eRRoR | [Read More](https://medium.com/p/fad774f7482c) |
-| Sun, 21 Sep 2025 19:08:07 GMT | How Malware Binding Works: Defensive Insights for SOC Analysts ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/c241adcf2e12) |
-| Sun, 21 Sep 2025 19:03:27 GMT | Exploring Wazuh and TheHive Lab: A Beginner’s Journey - PART 1 | Arshathhaq | [Read More](https://medium.com/p/b68c46cf1634) |
-| Sun, 21 Sep 2025 18:59:32 GMT | Zero to Mastery in Cybersecurity — A Personal Career Development Plan. | Hartej Lehal | [Read More](https://medium.com/p/4950539300e4) |
-| Sun, 21 Sep 2025 18:50:27 GMT | You’ve Never Lived in Full Sound | H. | [Read More](https://medium.com/p/5cc72e811725) |
-| Sun, 21 Sep 2025 18:49:06 GMT | Information Technology: Developing the Digital Future | Career With Technoglobe | [Read More](https://medium.com/p/759c89bc5725) |
-| Sun, 21 Sep 2025 18:48:57 GMT | Boost Your BUG BUG Strategy with These Expert Tips | BUG | [Read More](https://medium.com/p/5edebb8359bf) |
-| Sun, 21 Sep 2025 18:37:09 GMT | The 10-Minute Token: Replay-Proof Your API with Time-Based Authentication | Kory Becker | [Read More](https://medium.com/p/54fcd706f5e5) |
-| Sun, 21 Sep 2025 18:33:19 GMT | Why Every AI Agent Needs a Sandbox | Yassine | [Read More](https://medium.com/p/bf760e0c70a1) |
