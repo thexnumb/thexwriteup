@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 20:12:30 GMT | Improve your Privacy using Tor | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e3b61fbf3c65) |
+| Mon, 22 Sep 2025 20:10:04 GMT | How I Found My First Flag in Terrier Cyber Quest CTF | KURAPATI HONEY KUSHANTH | [Read More](https://medium.com/p/796ffed00913) |
+| Mon, 22 Sep 2025 20:08:45 GMT | Top 5 Programming Languages that Every Ethical Hacker Should Learn | Smith Adams | [Read More](https://medium.com/p/10021056a42f) |
+| Mon, 22 Sep 2025 20:03:27 GMT | Algorithmic Stalking , hidden surveillance technology. | Daretoexpose | [Read More](https://medium.com/p/dc14d27d70ef) |
+| Mon, 22 Sep 2025 20:02:27 GMT | Silicon Valley C-Level Leadership Summit | Matthew.Rosenquist | [Read More](https://medium.com/p/ab4ef12aa70e) |
+| Mon, 22 Sep 2025 20:00:34 GMT | The Terminal Survival Kit: Commands Every Developer Must Master Before Disaster Strikes | CodeGenitor | [Read More](https://medium.com/p/951b21f9bab7) |
+| Mon, 22 Sep 2025 19:43:11 GMT | Threat Hunters vs. Cyber Risk Hunters: Two Sides of Modern Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/af1d86937304) |
+| Mon, 22 Sep 2025 19:39:38 GMT | EchoLeak (CVE-2025–32711): The Zero-Click Prompt Injection Exploit in Microsoft 365 Copilot | Yashasvi Sharma | [Read More](https://medium.com/p/816532224919) |
 | Mon, 22 Sep 2025 19:34:40 GMT | How does AI know what it’s seeing? | Seven | [Read More](https://medium.com/p/58ad3b54ac9b) |
 | Mon, 22 Sep 2025 19:33:49 GMT | How I’m Creating My Cybersecurity Career from a Place of Flow vs. Force Part 2 | Wellness in Cybersecurity | [Read More](https://medium.com/p/883e9ad43ec2) |
 | Mon, 22 Sep 2025 19:32:03 GMT | Passwordless, Finally? | Modexa | [Read More](https://medium.com/p/3a6373d31b8c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 15:22:30 GMT | How to Get the Most From Your Push Notifications: 11 Strategies for Success | Build Me App (BMA) | [Read More](https://medium.com/p/04ad55990cdf) |
 | Mon, 22 Sep 2025 15:21:28 GMT | Crewctf_Proxies | phisher | [Read More](https://medium.com/p/09da80f22665) |
 | Mon, 22 Sep 2025 15:21:26 GMT | Security Implications of Edge Computing | Cyber Security Research | [Read More](https://medium.com/p/cd44ab5287a4) |
-| Mon, 22 Sep 2025 15:19:17 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/803845d21947) |
-| Mon, 22 Sep 2025 15:15:33 GMT | Reconciliation Automation Tools for Banks: Enhancing Security and Compliance | Kosh AI | [Read More](https://medium.com/p/9b560a9c018f) |
-| Mon, 22 Sep 2025 15:15:28 GMT | An Overview of Kali Linux for Security Professionals | SDNTechForum | [Read More](https://medium.com/p/dfd23e694681) |
-| Mon, 22 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 22, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/a297a1d68c8c) |
-| Mon, 22 Sep 2025 15:01:49 GMT | Operational Resilience in 2025: Lessons from DORA and Global Cybersecurity Frameworks | Lester Davila Escobedo | [Read More](https://medium.com/p/049656e5617a) |
-| Mon, 22 Sep 2025 15:01:48 GMT | Walkthrough: CyberDefenders Oski Lab | Dean Talbot | [Read More](https://medium.com/p/2742b706e067) |
-| Mon, 22 Sep 2025 14:59:11 GMT | Radare2 : A Practical Toolkit for Deconstructing Any Binary | Lord Murak | [Read More](https://medium.com/p/4f130d0457bf) |
-| Mon, 22 Sep 2025 14:58:51 GMT | Building a secure AI tool with Lovable, Gemini API and Cloudflare Workers | h@shtalk | [Read More](https://medium.com/p/eba940189c1e) |
