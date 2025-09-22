@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 14:13:43 GMT | Proactive Cybersecurity Services by Tudip Technologies: | Debasis Rath | [Read More](https://medium.com/p/910a56dffa67) |
+| Mon, 22 Sep 2025 14:13:37 GMT | SpamGPT: the CRM-for-cybercriminals turning phishing into an industrialized business. | eL Njas!™ | [Read More](https://medium.com/p/389003369088) |
+| Mon, 22 Sep 2025 14:11:49 GMT | Best Cyber Security Institute in Bangalore: What Makes the Right Training Partner? | Sureshnextwebi | [Read More](https://medium.com/p/359e4ad53823) |
+| Mon, 22 Sep 2025 14:08:49 GMT | The AI Therapist: Would You Confess Your Secrets to a Machine? | Travis Ray Caverhill | [Read More](https://medium.com/p/59d5e6606539) |
+| Mon, 22 Sep 2025 14:06:02 GMT | Understanding ICS Threat Actors: From Nation-States to Cybercriminals | Cyberkech | [Read More](https://medium.com/p/88a0ea9dd894) |
+| Mon, 22 Sep 2025 14:01:49 GMT | How to Change a Door Lock Cylinder: Easy Lock Replacement | Sure Lock & Key LLC | [Read More](https://medium.com/p/7adc2118aeaa) |
+| Mon, 22 Sep 2025 14:01:48 GMT | Microsoft Fabric Security and Governance | Sridhar | [Read More](https://medium.com/p/458585cbc48a) |
+| Mon, 22 Sep 2025 14:01:48 GMT | Cyber Briefing: 2025.09.22 | CyberMaterial | [Read More](https://medium.com/p/d439201cc799) |
+| Mon, 22 Sep 2025 14:00:24 GMT | Why Drosera Puts Security First in DeFi ? | npccrypto | [Read More](https://medium.com/p/b69ae5f1c6e1) |
+| Mon, 22 Sep 2025 13:52:44 GMT | Fewer Dependencies, Stronger Software: A Practical Guide to Reducing Supply Chain Risk | Deepak Mardi | [Read More](https://medium.com/p/f3f513c2e0e4) |
+| Mon, 22 Sep 2025 13:51:42 GMT | I Spent 30 Minutes on the Dark Web. It Was 29 Minutes Too Long. | Content Creator | [Read More](https://medium.com/p/fce3185847d3) |
+| Mon, 22 Sep 2025 13:51:16 GMT | The Cloud Security Crisis of 2025: Misconfigurations, IAM Abuse, and Data Leaks | Paritosh | [Read More](https://medium.com/p/26bef7b08d87) |
 | Mon, 22 Sep 2025 13:45:39 GMT | Leveling the Field: Legislation to Tame Corporate Greed’s Wanderlust | Namir Sagheenanajar | [Read More](https://medium.com/p/68683ce912b0) |
 | Mon, 22 Sep 2025 13:44:04 GMT | AI Governance: From Buzzword to Business Lifeline | Yash Gorasiya | [Read More](https://medium.com/p/9b0d546d5545) |
+| Mon, 22 Sep 2025 13:43:50 GMT | crackmes.one: crackme1 | Sourav Bose | [Read More](https://medium.com/p/43ded3cc60d4) |
 | Mon, 22 Sep 2025 13:37:43 GMT | How to Check if Your Crypto Is Clean Before Sending | QuppyAMLBOT | [Read More](https://medium.com/p/dccb22cbd09c) |
 | Mon, 22 Sep 2025 13:37:21 GMT | Breaking down CVE-2025–59052: Angular’s Race Condition Rumble | Hayden Baillio | [Read More](https://medium.com/p/e9dbdef61755) |
 | Mon, 22 Sep 2025 13:37:11 GMT | 6G Explained in Plain English: What It Means for You (and Your Phone Bill) | Travis Ray Caverhill | [Read More](https://medium.com/p/3f20882909ea) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 08:59:46 GMT | The S1ngularity/nx Attackers Just Struck Again, And You’re Not Ready | SecureSlate | [Read More](https://medium.com/p/2f6714f5505c) |
 | Mon, 22 Sep 2025 08:57:31 GMT | The Most Thankless Job in Tech: Software Project Management | Fahad Habib | [Read More](https://medium.com/p/008ee3a65e18) |
 | Mon, 22 Sep 2025 08:56:56 GMT | SPARK Matrix™: Key Technology Trends in Insider Risk Management | Gargiben | [Read More](https://medium.com/p/0cdab344defd) |
-| Mon, 22 Sep 2025 08:52:12 GMT | IT Security in Germany: The Persistent Cyber Challenge for Businesses in 2026 | Mindfully SEO | [Read More](https://medium.com/p/99faf66a0cfe) |
-| Mon, 22 Sep 2025 08:47:34 GMT | Why Secure SDLC fails in real life (and How to fix it) | Artem Lvov | [Read More](https://medium.com/p/8a8623dc5376) |
-| Mon, 22 Sep 2025 08:45:12 GMT | Active Directory Exploitation in CTF Challenges: A Beginner’s Guide | Maxwell Ferreira | [Read More](https://medium.com/p/4cb733d977f0) |
-| Mon, 22 Sep 2025 08:35:45 GMT | Race Condition Vulnerabilities: The Timing Attack You’re Missing | Rizqi Mulki | [Read More](https://medium.com/p/0860f2a02bf0) |
-| Mon, 22 Sep 2025 08:35:20 GMT | Proving Grounds — AuthBy Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/4f12b0bb3d2a) |
-| Mon, 22 Sep 2025 08:33:00 GMT | ¿Por qué el Oso Grizzly? | Francisco Perezballadares | [Read More](https://medium.com/p/2f3e489a5f06) |
-| Mon, 22 Sep 2025 08:30:04 GMT | When My Brother Found Out His Online Girlfriend Never Existed | Shahzaib | [Read More](https://medium.com/p/77260ad74bd1) |
-| Mon, 22 Sep 2025 08:16:38 GMT | How Strategic VAPT Certification Secures Organizations and Builds Digital Trust | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/be84bc08b9a8) |
-| Mon, 22 Sep 2025 08:15:26 GMT | ประจำวันจันทร์ที่ 22 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/a947d6bc0e78) |
-| Mon, 22 Sep 2025 08:13:01 GMT | Deepfakes and Cybersecurity: Why I No Longer Trust What I See Online | Alex Hughes | [Read More](https://medium.com/p/0e9c2e5cfe22) |
-| Mon, 22 Sep 2025 08:07:11 GMT | You wound me and I fall silent, yet I worry that my silence has wounded you | WillowFaye | [Read More](https://medium.com/p/9fac96f460be) |
-| Mon, 22 Sep 2025 08:04:03 GMT | Best AWS Training and Certification in Delhi | cyber security Updates | [Read More](https://medium.com/p/0057f67adbdd) |
-| Mon, 22 Sep 2025 08:03:39 GMT | Converting a Hexadecimal Number to Binary | Michael | [Read More](https://medium.com/p/89db221b5fc2) |
