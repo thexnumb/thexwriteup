@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 05:27:46 GMT | HTTP vs HTTPS: What’s the Difference and Why It Matters | Techie Arbaaz | [Read More](https://medium.com/p/3d2264cecdca) |
+| Mon, 22 Sep 2025 05:23:11 GMT | Linux Fundamentals Part 2: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/20cc1d36374b) |
+| Mon, 22 Sep 2025 05:14:50 GMT | Mobile Ransomware: Could Hackers Lock Your Phone? | Abida Adra | [Read More](https://medium.com/p/63c5b964f0fb) |
+| Mon, 22 Sep 2025 05:11:25 GMT | Cyber Security Consultation Explained: What It Is and How It Shields You from Cyber Threats | Prismatic Holdings | [Read More](https://medium.com/p/329564c7e0b9) |
+| Mon, 22 Sep 2025 05:10:08 GMT | How Network security impacts everyday internet users | Nagaraj | [Read More](https://medium.com/p/a8acf7c132f6) |
 | Mon, 22 Sep 2025 05:08:18 GMT | CyberSecurity In The Age of AI | Sarthak Sinha | [Read More](https://medium.com/p/4d391034e2a7) |
 | Mon, 22 Sep 2025 05:07:20 GMT | Transforming Retail E-Commerce with Advanced IT Support Services | POONAM KASAT | [Read More](https://medium.com/p/40e15b9f25f8) |
 | Mon, 22 Sep 2025 05:06:01 GMT | My OSWE Journey — Madhavan Maniyarasu | Madhavan M | [Read More](https://medium.com/p/b36091a291b5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 21:19:50 GMT | Recognizing Catfish & Romance Scams in the Age of False Persona | Reclamation Nation | [Read More](https://medium.com/p/61d08d24d973) |
 | Sun, 21 Sep 2025 21:16:22 GMT | My Bug In Deleted Files Made Me $47,500 | Ibtissam hammadi | [Read More](https://medium.com/p/e1f144981757) |
 | Sun, 21 Sep 2025 21:09:01 GMT | TryHackMe — Sequence Walkthrough/Write-up | Ruszkai Dávid | [Read More](https://medium.com/p/c2d1267544cb) |
-| Sun, 21 Sep 2025 21:07:50 GMT | DPRK Hack Grubu “ClickFix” ile Zararlı Yazılım Yaymaya Başladı | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/0a77a24a75ca) |
-| Sun, 21 Sep 2025 21:00:03 GMT | Part 1: Foundation — Hardware, Networking, and Proxmox | 0x1kp | [Read More](https://medium.com/p/8c7fbb24feec) |
-| Sun, 21 Sep 2025 20:53:22 GMT | eJPT — 3.1 CTF 2System/Host Based Attacks | Dharmendrakumar | [Read More](https://medium.com/p/cfc71a09f369) |
-| Sun, 21 Sep 2025 20:50:57 GMT | Cyber Threat Intelligence Communication & Reporting Techniques | Bank Security | [Read More](https://medium.com/p/75ec41a0a098) |
-| Sun, 21 Sep 2025 20:47:38 GMT | Troubleshooting audisp-remote.conf Configuration Errors in Linux Auditd | Luca Berton | [Read More](https://medium.com/p/f428370eb22b) |
