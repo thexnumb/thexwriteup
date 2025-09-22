@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 21:31:39 GMT | Nmap Essentials | Shawn | [Read More](https://medium.com/p/43e8f0b6c0f1) |
+| Mon, 22 Sep 2025 21:29:14 GMT | “Harvest Now, Decrypt Later”: The Quiet Data War You’re Not Supposed to Notice | Greg Unger | [Read More](https://medium.com/p/1d9c5211ff23) |
+| Mon, 22 Sep 2025 21:28:59 GMT | Road to Cloud | Terry Cundiff | [Read More](https://medium.com/p/1ae9fca1369d) |
+| Mon, 22 Sep 2025 21:25:55 GMT | PortSwigger “Offline password cracking” Lab — Çözüm & Walkthrough | Mirac Kayikci | [Read More](https://medium.com/p/e347b7c3e28c) |
+| Mon, 22 Sep 2025 21:24:59 GMT | The Security Vulnerabilities That Can Kill Your Startup | Aboyeji Emmanuel Olusola | [Read More](https://medium.com/p/d2266454f9ac) |
+| Mon, 22 Sep 2025 21:22:13 GMT | Looking for(ward to the) work | Shivinaa | [Read More](https://medium.com/p/dec79d27574f) |
+| Mon, 22 Sep 2025 21:21:39 GMT | Automating Wazuh Deployments with 
+Docker and Terraform: From Lab to 
+Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d5ba450b1b9) |
+| Mon, 22 Sep 2025 21:12:27 GMT | My PJPT Review: How I Passed the Practical Junior Penetration Tester Exam | bhavesh sharma | [Read More](https://medium.com/p/c9b07d0ee5c6) |
+| Mon, 22 Sep 2025 21:10:26 GMT | Hacking Images: Extracting Hidden Data from Photos | Shawn | [Read More](https://medium.com/p/8a532818fe0d) |
+| Mon, 22 Sep 2025 21:09:14 GMT | What is a vCIO (Virtual CIO / Fractional CIO) and Does Your Business Need One? | Anthony J. Biondo Jr. | [Read More](https://medium.com/p/93b392f905b4) |
+| Mon, 22 Sep 2025 21:06:25 GMT | 5G and Mobile Security: What Changes with Faster Networks? | Abida Adra | [Read More](https://medium.com/p/b6cc43b25422) |
 | Mon, 22 Sep 2025 20:55:43 GMT | The New Rules of GovCon: FAR Overhauls, Executive Orders, and a Marketplace in Motion | Mindset | [Read More](https://medium.com/p/2d5228464149) |
 | Mon, 22 Sep 2025 20:54:23 GMT | Solución Torjan 000.exe | Elvis Millares | [Read More](https://medium.com/p/a7387b99bb54) |
 | Mon, 22 Sep 2025 20:53:09 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/eea1c64f5527) |
@@ -101,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 16:31:45 GMT | When Your Fridge Spies on You | Modexa | [Read More](https://medium.com/p/5ed0a192e8c1) |
 | Mon, 22 Sep 2025 16:25:41 GMT | Bypassing heavy SSRF protection — AppSecMaster challenge writeup | 0xMyth | [Read More](https://medium.com/p/8624e0ceed61) |
 | Mon, 22 Sep 2025 16:22:44 GMT | Attending DEF CON 33 as a novice in 2025 | VXRL | [Read More](https://medium.com/p/e23f2fc1f74a) |
-| Mon, 22 Sep 2025 16:18:01 GMT | MalBuster — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/4a24c95086f6) |
-| Mon, 22 Sep 2025 16:17:58 GMT | Network Security: Protecting Your Digital Infrastructure | secureroot | [Read More](https://medium.com/p/3766024bb6a6) |
-| Mon, 22 Sep 2025 16:16:56 GMT | That Useless Kid Who’s On a Mission to Make People Useful | Vijay Kumar Gupta | [Read More](https://medium.com/p/7353afcd4d84) |
-| Mon, 22 Sep 2025 16:15:17 GMT | 1 + 1 != 2 | Pseudonotes | [Read More](https://medium.com/p/8ea3079d48ee) |
-| Mon, 22 Sep 2025 16:10:36 GMT | Summary Paper of the PANOPTIC™ Privacy Threat Model | Oliver Stutz | [Read More](https://medium.com/p/e237f15cd9df) |
-| Mon, 22 Sep 2025 16:09:47 GMT | Sequence THM - Writeup | Domon | [Read More](https://medium.com/p/f7cfe3c5d954) |
-| Mon, 22 Sep 2025 16:03:56 GMT | Will DOGE Redefine How U.S. Government Tech Functions Moving Forward? | David Stevenson | [Read More](https://medium.com/p/7ff2c82265b3) |
-| Mon, 22 Sep 2025 16:01:06 GMT | A Participant’s Guide: How to Protect Your Privacy While Cashing In on Surveys | Stephon Anderson | [Read More](https://medium.com/p/2827508a2aa3) |
-| Mon, 22 Sep 2025 15:58:45 GMT | University of the People — September 2025 Data Breach Incident | Francis Fitch | [Read More](https://medium.com/p/fd9b8f803194) |
-| Mon, 22 Sep 2025 15:58:17 GMT | Walkthrough: CyberDefenders Poisoned Credentials Lab | Dean Talbot | [Read More](https://medium.com/p/e04e8ad0b89a) |
-| Mon, 22 Sep 2025 15:57:39 GMT | CVE-2025–21624: Unrestricted File Upload in ClipBucket V5 | gm0 | [Read More](https://medium.com/p/f74359e39c90) |
