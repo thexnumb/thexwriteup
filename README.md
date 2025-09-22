@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 07:31:48 GMT | Ethical Hacking 2025: From Bounties to AI Pentests | Modexa | [Read More](https://medium.com/p/03a1edf078c1) |
+| Mon, 22 Sep 2025 07:22:57 GMT | Is Cybersecurity a good career choice in 2025? | JetkingChandigarh | [Read More](https://medium.com/p/e5c278e363e2) |
 | Mon, 22 Sep 2025 07:16:33 GMT | Palitra AI: Turning AI Confidentiality Into a Living Game | Palitra.ai | [Read More](https://medium.com/p/035ac05e9efc) |
+| Mon, 22 Sep 2025 07:10:02 GMT | Next-Level Yields with BUG | BUG | [Read More](https://medium.com/p/e01678238afe) |
 | Mon, 22 Sep 2025 07:05:29 GMT | Build your Own Secure Remote — Access VPN on OCI for free! | Karthik Mani | [Read More](https://medium.com/p/3bc6a59c1a5c) |
 | Mon, 22 Sep 2025 07:02:26 GMT | Automating Splunk Dashboard Creation: From Hours to Minutes with AI-Powered Log Analysis | Vetha Mithran | [Read More](https://medium.com/p/f57676b8f57d) |
 | Mon, 22 Sep 2025 07:02:19 GMT | ABOUT UI/UX | Li Shen | [Read More](https://medium.com/p/23938f24d032) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 02:23:09 GMT | The Role of Cybersecurity OEMs in Building Trust in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/e3cf1d9da879) |
 | Mon, 22 Sep 2025 02:23:00 GMT | Securing Virtual Reality Platforms | Cyber Security Research | [Read More](https://medium.com/p/1d3796b354a0) |
 | Mon, 22 Sep 2025 02:15:53 GMT | Cloud Security Posture Management | Cyber Security Research | [Read More](https://medium.com/p/6d68f1813cf8) |
-| Mon, 22 Sep 2025 02:09:53 GMT | Network Segmentation for Security | Cyber Security Research | [Read More](https://medium.com/p/79f46638aff2) |
-| Mon, 22 Sep 2025 02:04:40 GMT | Shai-Hulud Worm Compromises 180+ NPM Packages: Steals Secrets via GitHub Actions | SafetyDetectives Research Team | [Read More](https://medium.com/p/70475109afa7) |
-| Mon, 22 Sep 2025 01:56:28 GMT | China to Enforce One-Hour Deadline for Reporting Serious Cyber Incidents | SafetyDetectives Research Team | [Read More](https://medium.com/p/3f026a155814) |
