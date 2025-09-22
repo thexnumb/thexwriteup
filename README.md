@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 11:13:34 GMT | Seamless Email Migration Services in UAE for Businesses | Cost To Cost | [Read More](https://medium.com/p/870da181e216) |
+| Mon, 22 Sep 2025 11:03:18 GMT | Decoding Linux Logs: A SOC Analyst’s Guide to the TryHackMe Room | Furkanctiner | [Read More](https://medium.com/p/6cf3432f0047) |
+| Mon, 22 Sep 2025 11:01:47 GMT | Microsoft Mandates MFA for Azure Users: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/4c53379988a6) |
+| Mon, 22 Sep 2025 11:00:39 GMT | The Telco AI Big Bang: Time to Shift from Traffic to Strategic Advantage | Ali Elmalı | [Read More](https://medium.com/p/c372838bed78) |
+| Mon, 22 Sep 2025 10:59:34 GMT | Deonics Fintech Solutions: Redefining Digital Finance’s Future | Deonics tevhnologies Pvt.Ltd | [Read More](https://medium.com/p/c2f85228242e) |
+| Mon, 22 Sep 2025 10:58:44 GMT | BUG Airdrop: BUG Airdrop BUG – Full Checklist to Claim Rewards | BUG | [Read More](https://medium.com/p/8868d05d3b0e) |
+| Mon, 22 Sep 2025 10:57:18 GMT | Event Security Management: Ensuring Safety with Securycor | Travel time | [Read More](https://medium.com/p/2a4891f254d4) |
+| Mon, 22 Sep 2025 10:47:41 GMT | Embedded Security Market Size, Share, Key Players and Industry Forecast 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/0c88a8ced3eb) |
+| Mon, 22 Sep 2025 10:45:37 GMT | TryHack-me Sequence | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/ab4c37081499) |
 | Mon, 22 Sep 2025 10:43:01 GMT | How Changing a Single ID Turned Into $$$ | Antonio Rivera Poblete | [Read More](https://medium.com/p/e0550f168cc5) |
 | Mon, 22 Sep 2025 10:38:50 GMT | A Practical Guide to Linux Security and OS Hardening | Pradyumn Yadav | [Read More](https://medium.com/p/948edda2965c) |
 | Mon, 22 Sep 2025 10:37:53 GMT | Job Guaranteed Courses in Bangalore — Placement Assured Training Programs | Evision Technoserve | [Read More](https://medium.com/p/8a6aead9f164) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 06:06:26 GMT | DC-2 Walkthrough Vulnhub | Ankit Dhaka | [Read More](https://medium.com/p/06bea3bd16ed) |
 | Mon, 22 Sep 2025 06:04:05 GMT | Quantum-Proof Encryption, Now — Not Later | Modexa | [Read More](https://medium.com/p/cc025b9e8a6f) |
 | Mon, 22 Sep 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Sep 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/334e9192d31e) |
-| Mon, 22 Sep 2025 05:57:20 GMT | Breaking into Cybersecurity in India: A 2025 Overview | Mainekhacker | [Read More](https://medium.com/p/11d37c3e4590) |
-| Mon, 22 Sep 2025 05:57:04 GMT | How Does a Simple Drone Become Military-Grade? From backyard to battlefield, a blog series | Pipeline | [Read More](https://medium.com/p/988b5be0d2c8) |
-| Mon, 22 Sep 2025 05:56:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | shruti mishra | [Read More](https://medium.com/p/6428cdde840c) |
-| Mon, 22 Sep 2025 05:56:32 GMT | Best Ethical Hacking Training in Noida - Ducat India | Pooja Hemant Jadon | [Read More](https://medium.com/p/b1986efaac50) |
-| Mon, 22 Sep 2025 05:56:31 GMT | Best Ethical Hacking Training in Noida - Ducat India | Priyaanshichaudhary | [Read More](https://medium.com/p/435de2e3017d) |
-| Mon, 22 Sep 2025 05:56:27 GMT | Best Ethical Hacking Training in Noida - Ducat India | Rohiit07 | [Read More](https://medium.com/p/cd4a50f4445c) |
-| Mon, 22 Sep 2025 05:56:23 GMT | Best Ethical Hacking Training in Noida - Ducat India | Zaidchaudhary | [Read More](https://medium.com/p/a2664b83f428) |
-| Mon, 22 Sep 2025 05:56:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Gulfisha Khan | [Read More](https://medium.com/p/6afeba85c374) |
-| Mon, 22 Sep 2025 05:56:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Jatinchoudhary | [Read More](https://medium.com/p/9c0a9aa6a769) |
