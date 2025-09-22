@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 09:36:53 GMT | Data Security Posture Management (DSPM): Controlling Cloud Sprawl in a Data-Everywhere World | Jackdavis Iap | [Read More](https://medium.com/p/3ea867981509) |
+| Mon, 22 Sep 2025 09:32:19 GMT | CyberTalent : Easy Message | Mostafa Ahmed | [Read More](https://medium.com/p/b36da29bc06f) |
+| Mon, 22 Sep 2025 09:28:42 GMT | Zerologon (CVE-2020–1472): Pwn the Domain with Zero Effort | MITRE Doggy | [Read More](https://medium.com/p/17d5df35c42a) |
+| Mon, 22 Sep 2025 09:24:42 GMT | The Role of Ethical Hackers in Cybersecurity | Hackers King | [Read More](https://medium.com/p/49c0b458b35d) |
+| Mon, 22 Sep 2025 09:19:44 GMT | #09361284665#دختر_#حضوری_#دخترحضوری_#دختر ایرانی_#برنامه حضوری_#دخی بلا_#دختر خوشگل_#دختر… | Nazi | [Read More](https://medium.com/p/0c9c3accb040) |
 | Mon, 22 Sep 2025 09:18:50 GMT | Top Ethical Hacking Course in Trivandrum | Dotinfida | [Read More](https://medium.com/p/79a6a2e20b09) |
+| Mon, 22 Sep 2025 09:17:45 GMT | Docker Security Vulnerabilities and Container Breakout | Esra Kayhan | [Read More](https://medium.com/p/5629ae8f6543) |
 | Mon, 22 Sep 2025 09:14:09 GMT | DockerLabs Writeup — AnonymousPingu (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fa2e2f01a0af) |
 | Mon, 22 Sep 2025 09:08:28 GMT | Chain Link Fence in Saudi Arabia: A Smart Choice for Security, Climate, and Value (سياج شبكي) | Hitechfence | [Read More](https://medium.com/p/762843a86b7a) |
 | Mon, 22 Sep 2025 08:59:46 GMT | The S1ngularity/nx Attackers Just Struck Again, And You’re Not Ready | SecureSlate | [Read More](https://medium.com/p/2f6714f5505c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 04:36:10 GMT | Why is it essential to have a strong password? and what makes you think that your device is secure? | Aniket Walia | [Read More](https://medium.com/p/9ad16818b511) |
 | Mon, 22 Sep 2025 04:27:56 GMT | Basic Things to Check When Hiring Armed Security Guards in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/323298b6d7cb) |
 | Mon, 22 Sep 2025 04:27:15 GMT | Introduction to Browser Forensics (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/55d141b3dbf0) |
-| Mon, 22 Sep 2025 04:24:21 GMT | Data Exfiltration via HTTP, DNS, NC & ICMP Protocols | Lareb | [Read More](https://medium.com/p/fe1b8bfab487) |
-| Mon, 22 Sep 2025 04:22:42 GMT | Supply Chain Attack Compromises @ctrl/tinycolor and Dozens of NPM Packages | Raj (CISSP - CCSP - CISA - CRISC - ISO- PMP-AWS) | [Read More](https://medium.com/p/fa968c3faede) |
-| Mon, 22 Sep 2025 04:20:16 GMT | Incident Response & Forensics with Splunk SIEM: A Step-by-Step Guide | Sadashiv_Pole | [Read More](https://medium.com/p/7b8b4644fa74) |
-| Mon, 22 Sep 2025 04:17:47 GMT | Silly Doors Cyber Talents CTF Solution Writeup | MehediSec | [Read More](https://medium.com/p/c2f5913e6a4a) |
-| Mon, 22 Sep 2025 04:15:56 GMT | Detecting DLL Hijacking using Sysmon | k1ndlov3r | [Read More](https://medium.com/p/a552f59117c1) |
-| Mon, 22 Sep 2025 04:12:17 GMT | Praktikum Internet of Things (Tugas): Digital Input | Muhammad Surya Saputro | [Read More](https://medium.com/p/14799d9c8f7d) |
