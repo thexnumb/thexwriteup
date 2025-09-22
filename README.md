@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 19:34:40 GMT | How does AI know what it’s seeing? | Seven | [Read More](https://medium.com/p/58ad3b54ac9b) |
+| Mon, 22 Sep 2025 19:33:49 GMT | How I’m Creating My Cybersecurity Career from a Place of Flow vs. Force Part 2 | Wellness in Cybersecurity | [Read More](https://medium.com/p/883e9ad43ec2) |
+| Mon, 22 Sep 2025 19:32:03 GMT | Passwordless, Finally? | Modexa | [Read More](https://medium.com/p/3a6373d31b8c) |
+| Mon, 22 Sep 2025 19:32:03 GMT | Zero Trust, Zero Breaches? | Nexumo | [Read More](https://medium.com/p/8e86107aeb54) |
+| Mon, 22 Sep 2025 19:27:37 GMT | The BIG Takeover | Liam Goddard | [Read More](https://medium.com/p/ad97404a04e7) |
+| Mon, 22 Sep 2025 19:26:06 GMT | From Logs to Leads: A Practical Cyber Investigation of the Brutus Sherlock | Adam Goss | [Read More](https://medium.com/p/d7972af0aa61) |
+| Mon, 22 Sep 2025 19:22:30 GMT | Laptop slower than your Monday mood? | mainitsol | [Read More](https://medium.com/p/1efcb6951667) |
 | Mon, 22 Sep 2025 19:11:44 GMT | Horny, Not Hopeless | Lina wilde | [Read More](https://medium.com/p/34fee97d3647) |
 | Mon, 22 Sep 2025 19:07:04 GMT | Security matters for hyperlinks as well | Eligijus Petrikonis | [Read More](https://medium.com/p/f3e062872bc2) |
+| Mon, 22 Sep 2025 19:05:30 GMT | AI Security Risks: How Smart Tech Can Be a Threat | Maryam Irfan | [Read More](https://medium.com/p/d6b31136a3ee) |
 | Mon, 22 Sep 2025 19:02:54 GMT | Nmap Cheat Sheet: Essential Commands for Effective Scanning | Horrow | [Read More](https://medium.com/p/b8e3be190c5a) |
 | Mon, 22 Sep 2025 19:02:54 GMT | The  H1B Visa vs  UK Global Talent Visa | Taimur Ijlal | [Read More](https://medium.com/p/5e0de99f068d) |
 | Mon, 22 Sep 2025 19:01:12 GMT | Where Do We Even Start With “Finding Yourself”? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/2c5f4efdb227) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 15:01:48 GMT | Walkthrough: CyberDefenders Oski Lab | Dean Talbot | [Read More](https://medium.com/p/2742b706e067) |
 | Mon, 22 Sep 2025 14:59:11 GMT | Radare2 : A Practical Toolkit for Deconstructing Any Binary | Lord Murak | [Read More](https://medium.com/p/4f130d0457bf) |
 | Mon, 22 Sep 2025 14:58:51 GMT | Building a secure AI tool with Lovable, Gemini API and Cloudflare Workers | h@shtalk | [Read More](https://medium.com/p/eba940189c1e) |
-| Mon, 22 Sep 2025 14:57:46 GMT | Understanding SSL/TLS Protocols: How Encrypted Communication Works Online | CapitalCoin | [Read More](https://medium.com/p/9bf4dc3ca6e0) |
-| Mon, 22 Sep 2025 14:55:22 GMT | Prompt Your Way to Safer Code: Web App Security with Cursor, Lovable & Claude | Mohammad Abir Abbas | [Read More](https://medium.com/p/e8ea4c3d93ba) |
-| Mon, 22 Sep 2025 14:54:53 GMT | Cybersecurity in Age of Generative AI Threat | Girish Dhamane | [Read More](https://medium.com/p/da78eed96107) |
-| Mon, 22 Sep 2025 14:47:35 GMT | Ransomware pada Smartphone: Mekanisme Serangan, Dampak, dan Strategi Pencegahan | Ahdan Firdaus | [Read More](https://medium.com/p/552b4b60a7fc) |
-| Mon, 22 Sep 2025 14:47:16 GMT | “The Directory Bruteforcer That Found a Fortune: Mastering Gobuster” | Aman Sharma | [Read More](https://medium.com/p/2f8dae97bfc7) |
-| Mon, 22 Sep 2025 14:45:48 GMT | The Power and Limits of Common Knowledge | Lior Gd | [Read More](https://medium.com/p/5d08442499a3) |
-| Mon, 22 Sep 2025 14:41:22 GMT | Unlocking the Secrets: My Biohazard CTF Adventure Part 2 | Adwaith S | [Read More](https://medium.com/p/5d8a234f6316) |
-| Mon, 22 Sep 2025 14:31:46 GMT | You Are Sharing | Nikhil Lodha | [Read More](https://medium.com/p/f408f36f49c7) |
