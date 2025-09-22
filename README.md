@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 23:32:32 GMT | Why Your Hacking Articles Never Trend (But Dev Projects Always Do) | Alex Grande | [Read More](https://medium.com/p/7f2ef232c06a) |
+| Mon, 22 Sep 2025 23:31:41 GMT | Your AI ‘Student’ Could Be Leaking Company Secrets | Scott Huang | [Read More](https://medium.com/p/0ba501305077) |
+| Mon, 22 Sep 2025 23:31:11 GMT | Lookback writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9d5f10a62eb7) |
+| Mon, 22 Sep 2025 23:23:13 GMT | About Me | J Linton | [Read More](https://medium.com/p/47da7184564c) |
+| Mon, 22 Sep 2025 23:17:54 GMT | SSTI — Django QuerySets | Lucas V. Marangoni | [Read More](https://medium.com/p/bbb8b0912de6) |
+| Mon, 22 Sep 2025 23:17:26 GMT | Why Reverse Video Search is Becoming Essential for Content Creators | Reversevideosearch.app | [Read More](https://medium.com/p/64ff03314d2f) |
+| Mon, 22 Sep 2025 23:08:22 GMT | Finding the “Unknown Unknowns” in Cybersecurity | Jeffrey Sam | [Read More](https://medium.com/p/7fdc6a63652d) |
 | Mon, 22 Sep 2025 22:59:25 GMT | Nigeria’s Security Crisis: Reforming Intelligence, Collaboration, and ECOWAS Policies. | Mohammed Santuraki | [Read More](https://medium.com/p/3b19d601fcf5) |
 | Mon, 22 Sep 2025 22:52:20 GMT | Forget Nigerian Princes. The New Phishing Emails Are Written by AI. | Chris Zhang | [Read More](https://medium.com/p/63811d6b82c2) |
 | Mon, 22 Sep 2025 22:45:11 GMT | Part 1 : From backyard to battlefield. | Pipeline | [Read More](https://medium.com/p/574e8720244d) |
@@ -107,10 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 17:08:04 GMT | Demystifying the OSI Model: A Beginner’s Guide to Networking | Sumit Sah | [Read More](https://medium.com/p/72b7a9d36132) |
 | Mon, 22 Sep 2025 17:05:21 GMT | Phishing 2.0: QR Codes and Deepfakes Are the New Frontline | Jimi Newlander | [Read More](https://medium.com/p/d01d6a7cf294) |
 | Mon, 22 Sep 2025 17:03:00 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/755a122ad097) |
-| Mon, 22 Sep 2025 17:02:34 GMT | Keep your data as safe as the nation writes that your fingers are. | Andrew Hodel | [Read More](https://medium.com/p/ece896785c10) |
-| Mon, 22 Sep 2025 16:57:12 GMT | Africa, Invest in Yourself: Lessons from Victor Zhikai Gao at the ISCA in Rwanda | Nokwanda Makubalo | [Read More](https://medium.com/p/2cd0c1649bed) |
-| Mon, 22 Sep 2025 16:56:49 GMT | The Ghost in the Keystroke : How Your Typing Rhythm is Becoming the Ultimate Password ! | SUBHADEEP SASMAL | [Read More](https://medium.com/p/6faeffe3e5ce) |
-| Mon, 22 Sep 2025 16:54:45 GMT | When “not perfect” is better than nothing at all | Raleigh Guevarra | [Read More](https://medium.com/p/0a1dce6decd0) |
-| Mon, 22 Sep 2025 16:52:13 GMT | How Hackers Actually Break Into Accounts (Explained Simply) | Aj | [Read More](https://medium.com/p/60fe6dc74130) |
-| Mon, 22 Sep 2025 16:51:44 GMT | Extract THM — Write Up | Thefrust | [Read More](https://medium.com/p/e55a460926b4) |
-| Mon, 22 Sep 2025 16:49:55 GMT | IEEE Mansoura CTF Qualifications 2025— Web(Snacks-Disapproved-VOID) | Abdelrahman Radwan | [Read More](https://medium.com/p/8967b31fe083) |
