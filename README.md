@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 16:18:01 GMT | MalBuster — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/4a24c95086f6) |
+| Mon, 22 Sep 2025 16:17:58 GMT | Network Security: Protecting Your Digital Infrastructure | secureroot | [Read More](https://medium.com/p/3766024bb6a6) |
+| Mon, 22 Sep 2025 16:16:56 GMT | That Useless Kid Who’s On a Mission to Make People Useful | Vijay Kumar Gupta | [Read More](https://medium.com/p/7353afcd4d84) |
+| Mon, 22 Sep 2025 16:15:17 GMT | 1 + 1 != 2 | Pseudonotes | [Read More](https://medium.com/p/8ea3079d48ee) |
+| Mon, 22 Sep 2025 16:10:36 GMT | Summary Paper of the PANOPTIC™ Privacy Threat Model | Oliver Stutz | [Read More](https://medium.com/p/e237f15cd9df) |
+| Mon, 22 Sep 2025 16:09:47 GMT | Sequence THM - Writeup | Domon | [Read More](https://medium.com/p/f7cfe3c5d954) |
+| Mon, 22 Sep 2025 16:03:56 GMT | Will DOGE Redefine How U.S. Government Tech Functions Moving Forward? | David Stevenson | [Read More](https://medium.com/p/7ff2c82265b3) |
+| Mon, 22 Sep 2025 16:01:06 GMT | A Participant’s Guide: How to Protect Your Privacy While Cashing In on Surveys | Stephon Anderson | [Read More](https://medium.com/p/2827508a2aa3) |
+| Mon, 22 Sep 2025 15:58:45 GMT | University of the People — September 2025 Data Breach Incident | Francis Fitch | [Read More](https://medium.com/p/fd9b8f803194) |
+| Mon, 22 Sep 2025 15:58:17 GMT | Walkthrough: CyberDefenders Poisoned Credentials Lab | Dean Talbot | [Read More](https://medium.com/p/e04e8ad0b89a) |
+| Mon, 22 Sep 2025 15:57:39 GMT | CVE-2025–21624: Unrestricted File Upload in ClipBucket V5 | gm0 | [Read More](https://medium.com/p/f74359e39c90) |
+| Mon, 22 Sep 2025 15:52:57 GMT | Breaking Down the Phases of Incident Response: A Beginner’s Perspective | zeepy | [Read More](https://medium.com/p/54de0ed396da) |
+| Mon, 22 Sep 2025 15:51:45 GMT | After the Silence | Saavan | [Read More](https://medium.com/p/0b0cc8843b1a) |
+| Mon, 22 Sep 2025 15:50:30 GMT | Authorizing AWS Principals on Azure | Jonathan Merlevede | [Read More](https://medium.com/p/2a9353a3f97f) |
+| Mon, 22 Sep 2025 15:49:41 GMT | The First Step to Becoming a Cybersecurity Pro: Lessons from My Home Lab | vydhi | [Read More](https://medium.com/p/722b551e22ae) |
+| Mon, 22 Sep 2025 15:47:35 GMT | The Role of Threat Intelligence Sharing | Cyber Security Research | [Read More](https://medium.com/p/9176ec5f6b83) |
+| Mon, 22 Sep 2025 15:45:32 GMT | Chagu at Node2025: Defending Generative AI with Graphs (some ideas we will discuss). | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/6bdeb28b53cf) |
+| Mon, 22 Sep 2025 15:41:20 GMT | How ChatGPT is Changing Cybersecurity: Red Team, Blue Team, and Beyond | Rajkumar Kumawat | [Read More](https://medium.com/p/19ce0a7bf9c2) |
+| Mon, 22 Sep 2025 15:39:41 GMT | IoT Botnets and Mitigation Techniques | Cyber Security Research | [Read More](https://medium.com/p/61baa81c7d84) |
 | Mon, 22 Sep 2025 15:32:56 GMT | CVE-2025–10585: Type Confusion in Chrome’s V8 Engine | gm0 | [Read More](https://medium.com/p/8e71175b23f3) |
 | Mon, 22 Sep 2025 15:22:30 GMT | How to Get the Most From Your Push Notifications: 11 Strategies for Success | Build Me App (BMA) | [Read More](https://medium.com/p/04ad55990cdf) |
 | Mon, 22 Sep 2025 15:21:28 GMT | Crewctf_Proxies | phisher | [Read More](https://medium.com/p/09da80f22665) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 11:57:31 GMT | Tryhackme — Thompson writeup | Siaka | [Read More](https://medium.com/p/703878ab3231) |
 | Mon, 22 Sep 2025 11:56:17 GMT | Trust the experts | Trust Me I'm A Philosopher | [Read More](https://medium.com/p/352dc6a34dd4) |
 | Mon, 22 Sep 2025 11:51:06 GMT | Every 39 Seconds, Someone’s Private Messages Get Exposed: Here’s How to Build the Messaging App… | Mind Studios | [Read More](https://medium.com/p/22fc0f67c9ef) |
-| Mon, 22 Sep 2025 11:43:00 GMT | IMaiL™: Redefining Communication Metrics in the AI Age | Stephen Pettifor | [Read More](https://medium.com/p/8d2cb4280389) |
-| Mon, 22 Sep 2025 11:35:12 GMT | Deploying Wazuh Agent on Windows | Enes Ismaili | [Read More](https://medium.com/p/57c55fe09203) |
-| Mon, 22 Sep 2025 11:31:18 GMT | How Secrets Leak in Docker — I Tested This on AWS and Was Shocked! | Ihsandmrci | [Read More](https://medium.com/p/2d5a97986f72) |
-| Mon, 22 Sep 2025 11:29:40 GMT | Rest Assured: Love that Makes You Feel Safe, Seen, and Cherished | mari | [Read More](https://medium.com/p/ed87804db9e2) |
-| Mon, 22 Sep 2025 11:17:42 GMT | OLED Display Materials Market: Lighting the Future of Displays | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/2ed1783e6f30) |
-| Mon, 22 Sep 2025 11:13:34 GMT | Seamless Email Migration Services in UAE for Businesses | Cost To Cost | [Read More](https://medium.com/p/870da181e216) |
-| Mon, 22 Sep 2025 11:03:18 GMT | Decoding Linux Logs: A SOC Analyst’s Guide to the TryHackMe Room | Furkanctiner | [Read More](https://medium.com/p/6cf3432f0047) |
-| Mon, 22 Sep 2025 11:01:47 GMT | Microsoft Mandates MFA for Azure Users: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/4c53379988a6) |
-| Mon, 22 Sep 2025 11:00:39 GMT | The Telco AI Big Bang: Time to Shift from Traffic to Strategic Advantage | Ali Elmalı | [Read More](https://medium.com/p/c372838bed78) |
-| Mon, 22 Sep 2025 10:59:34 GMT | Deonics Fintech Solutions: Redefining Digital Finance’s Future | Deonics tevhnologies Pvt.Ltd | [Read More](https://medium.com/p/c2f85228242e) |
-| Mon, 22 Sep 2025 10:58:44 GMT | BUG Airdrop: BUG Airdrop BUG – Full Checklist to Claim Rewards | BUG | [Read More](https://medium.com/p/8868d05d3b0e) |
-| Mon, 22 Sep 2025 10:57:18 GMT | Event Security Management: Ensuring Safety with Securycor | Travel time | [Read More](https://medium.com/p/2a4891f254d4) |
-| Mon, 22 Sep 2025 10:47:41 GMT | Embedded Security Market Size, Share, Key Players and Industry Forecast 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/0c88a8ced3eb) |
-| Mon, 22 Sep 2025 10:45:37 GMT | TryHack-me Sequence | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/ab4c37081499) |
-| Mon, 22 Sep 2025 10:43:01 GMT | How Changing a Single ID Turned Into $$$ | Antonio Rivera Poblete | [Read More](https://medium.com/p/e0550f168cc5) |
-| Mon, 22 Sep 2025 10:38:50 GMT | A Practical Guide to Linux Security and OS Hardening | Pradyumn Yadav | [Read More](https://medium.com/p/948edda2965c) |
-| Mon, 22 Sep 2025 10:37:53 GMT | Job Guaranteed Courses in Bangalore — Placement Assured Training Programs | Evision Technoserve | [Read More](https://medium.com/p/8a6aead9f164) |
-| Mon, 22 Sep 2025 10:37:19 GMT | Why onUploadProgress shows 100% too early in dev mood | Amrou Hichem Zorgani | [Read More](https://medium.com/p/6107871499fb) |
-| Mon, 22 Sep 2025 10:32:42 GMT | How to Prepare for a PCI DSS Audit: Advice from a Security Analyst | Abdullateef Hameed | [Read More](https://medium.com/p/3ad848ddc770) |
