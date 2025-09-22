@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 20:55:43 GMT | The New Rules of GovCon: FAR Overhauls, Executive Orders, and a Marketplace in Motion | Mindset | [Read More](https://medium.com/p/2d5228464149) |
+| Mon, 22 Sep 2025 20:54:23 GMT | Solución Torjan 000.exe | Elvis Millares | [Read More](https://medium.com/p/a7387b99bb54) |
+| Mon, 22 Sep 2025 20:53:09 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/eea1c64f5527) |
+| Mon, 22 Sep 2025 20:50:12 GMT | TryHackMe ToolsRUs Room — Complete Walkthrough | Ronit Singh | [Read More](https://medium.com/p/6b5d5991338b) |
+| Mon, 22 Sep 2025 20:47:40 GMT | Virus Melissa | Ldzinn | [Read More](https://medium.com/p/1efc5b2ee938) |
+| Mon, 22 Sep 2025 20:45:09 GMT | Trojan Desktop Puzzle | Starcapbreaker | [Read More](https://medium.com/p/d2096c09bdad) |
+| Mon, 22 Sep 2025 20:43:04 GMT | Malware Analysis : HTB Sherlocks Writeup- Loggy | KanakSasak | [Read More](https://medium.com/p/c0c4da49f68d) |
+| Mon, 22 Sep 2025 20:41:56 GMT | Day 6 — Splunk for Beginners: From Raw Logs to Dashboards | OxErvin | [Read More](https://medium.com/p/d4e5e7be83c7) |
+| Mon, 22 Sep 2025 20:41:43 GMT | The $0 Bug That Turned Into a Career-Changing Opportunity | Aj | [Read More](https://medium.com/p/be976f0b7d3f) |
+| Mon, 22 Sep 2025 20:37:49 GMT | Sherlock OSINT Tool - Find Social Media Accounts! | Shahzaib | [Read More](https://medium.com/p/3153c3bfeae3) |
+| Mon, 22 Sep 2025 20:37:13 GMT | Top 11 cyber stories (Week: Sept 15–21, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/ca20f08689ba) |
 | Mon, 22 Sep 2025 20:32:06 GMT | Elliot Alderson in Mr. Robot: Hero, Antihero, or Villain? | HexFlicks - Movies, Books & Gaming | [Read More](https://medium.com/p/91f8e6cd2be4) |
 | Mon, 22 Sep 2025 20:27:26 GMT | Airport offline: How vulnerable our systems really are | Cordula Boeck | [Read More](https://medium.com/p/4d898e4ed77c) |
 | Mon, 22 Sep 2025 20:21:23 GMT | Cybersecurity Truths: Brutal takes you won’t hear anywhere else | Truspex | [Read More](https://medium.com/p/8bce1217d0b1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 15:58:45 GMT | University of the People — September 2025 Data Breach Incident | Francis Fitch | [Read More](https://medium.com/p/fd9b8f803194) |
 | Mon, 22 Sep 2025 15:58:17 GMT | Walkthrough: CyberDefenders Poisoned Credentials Lab | Dean Talbot | [Read More](https://medium.com/p/e04e8ad0b89a) |
 | Mon, 22 Sep 2025 15:57:39 GMT | CVE-2025–21624: Unrestricted File Upload in ClipBucket V5 | gm0 | [Read More](https://medium.com/p/f74359e39c90) |
-| Mon, 22 Sep 2025 15:52:57 GMT | Breaking Down the Phases of Incident Response: A Beginner’s Perspective | zeepy | [Read More](https://medium.com/p/54de0ed396da) |
-| Mon, 22 Sep 2025 15:51:45 GMT | After the Silence | Saavan | [Read More](https://medium.com/p/0b0cc8843b1a) |
-| Mon, 22 Sep 2025 15:50:30 GMT | Authorizing AWS Principals on Azure | Jonathan Merlevede | [Read More](https://medium.com/p/2a9353a3f97f) |
-| Mon, 22 Sep 2025 15:49:41 GMT | The First Step to Becoming a Cybersecurity Pro: Lessons from My Home Lab | vydhi | [Read More](https://medium.com/p/722b551e22ae) |
-| Mon, 22 Sep 2025 15:47:35 GMT | The Role of Threat Intelligence Sharing | Cyber Security Research | [Read More](https://medium.com/p/9176ec5f6b83) |
-| Mon, 22 Sep 2025 15:45:32 GMT | Chagu at Node2025: Defending Generative AI with Graphs (some ideas we will discuss). | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/6bdeb28b53cf) |
-| Mon, 22 Sep 2025 15:41:20 GMT | How ChatGPT is Changing Cybersecurity: Red Team, Blue Team, and Beyond | Rajkumar Kumawat | [Read More](https://medium.com/p/19ce0a7bf9c2) |
-| Mon, 22 Sep 2025 15:39:41 GMT | IoT Botnets and Mitigation Techniques | Cyber Security Research | [Read More](https://medium.com/p/61baa81c7d84) |
-| Mon, 22 Sep 2025 15:33:44 GMT | Cybersecurity for Manufacturing Industries | Cyber Security Research | [Read More](https://medium.com/p/745096924aa9) |
-| Mon, 22 Sep 2025 15:32:56 GMT | CVE-2025–10585: Type Confusion in Chrome’s V8 Engine | gm0 | [Read More](https://medium.com/p/8e71175b23f3) |
-| Mon, 22 Sep 2025 15:27:41 GMT | Remote Work Security Policies | Cyber Security Research | [Read More](https://medium.com/p/8b09a7a011c1) |
