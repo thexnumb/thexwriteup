@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 04:22:42 GMT | Supply Chain Attack Compromises @ctrl/tinycolor and Dozens of NPM Packages | Raj (CISSP - CCSP - CISA - CRISC - ISO- PMP-AWS) | [Read More](https://medium.com/p/fa968c3faede) |
+| Mon, 22 Sep 2025 04:20:16 GMT | Incident Response & Forensics with Splunk SIEM: A Step-by-Step Guide | Sadashiv_Pole | [Read More](https://medium.com/p/7b8b4644fa74) |
+| Mon, 22 Sep 2025 04:17:47 GMT | Silly Doors Cyber Talents CTF Solution Writeup | MehediSec | [Read More](https://medium.com/p/c2f5913e6a4a) |
+| Mon, 22 Sep 2025 04:15:56 GMT | Detecting DLL Hijacking using Sysmon | k1ndlov3r | [Read More](https://medium.com/p/a552f59117c1) |
+| Mon, 22 Sep 2025 03:59:12 GMT | Deep Dive into Linux Security | Eren Cankut Uysal | [Read More](https://medium.com/p/d6022b0a9f79) |
 | Mon, 22 Sep 2025 03:36:38 GMT | Conquering Assessment Methodologies: Vulnerability Assessment CTF 1; A Step-by-Step Guide | Xnirkun | [Read More](https://medium.com/p/f57381d01218) |
 | Mon, 22 Sep 2025 03:32:09 GMT | Why Low-Profile Operators Win More | Sam Galope | [Read More](https://medium.com/p/896bb0369bce) |
 | Mon, 22 Sep 2025 03:31:47 GMT | How I Hacked My Way to TryHackMe’s Top 5% in 3 Weeks (Spoiler: No Black Hoodies Required) | Rahul Arun | [Read More](https://medium.com/p/e1dae5cc2524) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 19:39:40 GMT | Why Learning Assembly Makes You a Better Hacker & Coder | Beri Contraster | [Read More](https://medium.com/p/933a8e102b52) |
 | Sun, 21 Sep 2025 19:39:08 GMT | Image OSINT (IMINT):Full practical write-up with real examples & practices | Intelithics | [Read More](https://medium.com/p/fd8be88b7c75) |
 | Sun, 21 Sep 2025 19:34:07 GMT | Secure File Sharing Platforms That Keep Your Data 100% Safe | The Daily Technology | [Read More](https://medium.com/p/50c1d86f9f27) |
-| Sun, 21 Sep 2025 19:30:31 GMT | Common Cyber Threats in 2025 and How to Stay Safe — Protect Yourself Now | The Daily Technology | [Read More](https://medium.com/p/a7156faa6008) |
-| Sun, 21 Sep 2025 19:29:50 GMT | Why Privacy-First Development is the Only Way Forward in 2025 | Abdul Rehman Khan | [Read More](https://medium.com/p/f9a1a4db9ff2) |
-| Sun, 21 Sep 2025 19:28:22 GMT | Cybercrime in Nigeria: How Scammers Think, What They Do, and How You Can Protect Yourself | Udemchinelo | [Read More](https://medium.com/p/9bc2af11d2fc) |
-| Sun, 21 Sep 2025 19:27:26 GMT | Voice over IP: İnternet Üzerinden İletişimin Detayları | enes mercan | [Read More](https://medium.com/p/28af4a51137b) |
-| Sun, 21 Sep 2025 19:26:52 GMT | Distributed Identity: the Next Frontier of Corporate Cybersecurity | Rodrigo Gutierrez | [Read More](https://medium.com/p/4d429ddac333) |
