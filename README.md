@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 18:24:15 GMT | Recon Like a Pro: Manual + Automated for the Best of Both Worlds | Viratavi | [Read More](https://medium.com/p/2e3845f1b661) |
+| Mon, 22 Sep 2025 18:17:06 GMT | Monday Cyber Brief — September 22 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/71615f21170a) |
+| Mon, 22 Sep 2025 18:16:57 GMT | Taking a step back… | OluwapelumiOyerinde | [Read More](https://medium.com/p/5847a1aee71d) |
+| Mon, 22 Sep 2025 18:14:25 GMT | Digital Forensic Report of M57-Jean — A single disk scenario involving the exfiltration of… | GAITHO | [Read More](https://medium.com/p/6270aee14366) |
+| Mon, 22 Sep 2025 18:08:48 GMT | NodeJS backdoors delivering proxyware and monetization schemes | Jason Reaves | [Read More](https://medium.com/p/1562917ed107) |
+| Mon, 22 Sep 2025 18:08:00 GMT | ️ What is Cybersecurity? A Beginner’s Guide to Staying Safe Online | Cyber Defender | [Read More](https://medium.com/p/d97d70e5d464) |
+| Mon, 22 Sep 2025 18:02:39 GMT | 9 Security Practices Dev Teams Fake but Never Do | Dax | [Read More](https://medium.com/p/43975d69f7c7) |
+| Mon, 22 Sep 2025 18:02:16 GMT | Game Testing Techniques: How to Find and Fix Bugs Fast ⚡ | ATNO For Game Developer | [Read More](https://medium.com/p/0195b39ced3e) |
+| Mon, 22 Sep 2025 18:01:47 GMT | LFI + RCE en Node.js, Python y PHP — Nuevo vídeo este martes 23 | Gorka | [Read More](https://medium.com/p/370c1a0e84d9) |
+| Mon, 22 Sep 2025 18:01:47 GMT | Why Everyone’s Wrong About API Key Security Being “Too Simple” | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/1440895936ee) |
+| Mon, 22 Sep 2025 18:00:29 GMT | CORS Explained: Why Your API Calls Fail in the Browser (But Work in Postman) | Yash | [Read More](https://medium.com/p/46c7ca06e9d6) |
+| Mon, 22 Sep 2025 17:56:28 GMT | ️ A Methodical Approach to Web Application API Testing: Beyond Burp’s Active Scanner | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/793d064e2b15) |
+| Mon, 22 Sep 2025 17:52:49 GMT | Step Out of the Boat: Embracing Discomfort to Grow in Cybersecurity and Life | David ONeal | [Read More](https://medium.com/p/fcf81113c4e1) |
+| Mon, 22 Sep 2025 17:47:32 GMT | AI/LLM Hacking-Part 3 -Sensitive Data Disclosure | Darshan Naresh Naik | [Read More](https://medium.com/p/5417f57b778b) |
+| Mon, 22 Sep 2025 17:47:09 GMT | THM - AppSec IR | Francesco Pastore | [Read More](https://medium.com/p/74d1f4802c38) |
 | Mon, 22 Sep 2025 17:34:21 GMT | Cybersecurity for Normal People: 10 Simple Ways to Stay Safe Online | Aj | [Read More](https://medium.com/p/289b34cbb042) |
 | Mon, 22 Sep 2025 17:17:38 GMT | Stronger Infrastructure, Stronger Hackers: Build Resilience to Build Skill | Iserjaoui | [Read More](https://medium.com/p/b1584db39c44) |
 | Mon, 22 Sep 2025 17:14:44 GMT | Necromancer VM Walkthrough | Spookz | [Read More](https://medium.com/p/67034e8c28b3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 14:01:48 GMT | Cyber Briefing: 2025.09.22 | CyberMaterial | [Read More](https://medium.com/p/d439201cc799) |
 | Mon, 22 Sep 2025 14:00:24 GMT | Why Drosera Puts Security First in DeFi ? | npccrypto | [Read More](https://medium.com/p/b69ae5f1c6e1) |
 | Mon, 22 Sep 2025 13:52:44 GMT | Fewer Dependencies, Stronger Software: A Practical Guide to Reducing Supply Chain Risk | Deepak Mardi | [Read More](https://medium.com/p/f3f513c2e0e4) |
-| Mon, 22 Sep 2025 13:51:42 GMT | I Spent 30 Minutes on the Dark Web. It Was 29 Minutes Too Long. | Content Creator | [Read More](https://medium.com/p/fce3185847d3) |
-| Mon, 22 Sep 2025 13:51:16 GMT | The Cloud Security Crisis of 2025: Misconfigurations, IAM Abuse, and Data Leaks | Paritosh | [Read More](https://medium.com/p/26bef7b08d87) |
-| Mon, 22 Sep 2025 13:45:39 GMT | Leveling the Field: Legislation to Tame Corporate Greed’s Wanderlust | Namir Sagheenanajar | [Read More](https://medium.com/p/68683ce912b0) |
-| Mon, 22 Sep 2025 13:44:04 GMT | AI Governance: From Buzzword to Business Lifeline | Yash Gorasiya | [Read More](https://medium.com/p/9b0d546d5545) |
-| Mon, 22 Sep 2025 13:43:50 GMT | crackmes.one: crackme1 | Sourav Bose | [Read More](https://medium.com/p/43ded3cc60d4) |
-| Mon, 22 Sep 2025 13:37:43 GMT | How to Check if Your Crypto Is Clean Before Sending | QuppyAMLBOT | [Read More](https://medium.com/p/dccb22cbd09c) |
-| Mon, 22 Sep 2025 13:37:21 GMT | Breaking down CVE-2025–59052: Angular’s Race Condition Rumble | Hayden Baillio | [Read More](https://medium.com/p/e9dbdef61755) |
-| Mon, 22 Sep 2025 13:37:11 GMT | 6G Explained in Plain English: What It Means for You (and Your Phone Bill) | Travis Ray Caverhill | [Read More](https://medium.com/p/3f20882909ea) |
-| Mon, 22 Sep 2025 13:36:18 GMT | EXPLICATION SAST, SCA & CONTAINER SCAN | dassimanuel000 | [Read More](https://medium.com/p/d4136960cdd3) |
-| Mon, 22 Sep 2025 13:33:26 GMT | How Scammers Use Social Media Chats to Emotionally Manipulate You — Especially Ladies | Cyberwise | [Read More](https://medium.com/p/c84f5880bf7a) |
-| Mon, 22 Sep 2025 13:31:47 GMT | I Discovered An Admin Panel Security Flaw | Ibtissam hammadi | [Read More](https://medium.com/p/22274482e2cd) |
-| Mon, 22 Sep 2025 13:31:46 GMT | Deepfakes Everywhere: Can Tech Save Us? | Modexa | [Read More](https://medium.com/p/d6f358c098e5) |
-| Mon, 22 Sep 2025 13:27:25 GMT | Built a Python Tool to Automate Email Security Audits | Saurabh Jain | [Read More](https://medium.com/p/c639d2affe88) |
-| Mon, 22 Sep 2025 13:25:09 GMT | Speed vs Security: How Flitaa Keeps Transactions Instant Without Compromise | Flitaa | [Read More](https://medium.com/p/64de9de9a8ff) |
-| Mon, 22 Sep 2025 13:20:17 GMT | From Web2 to Web3: How the Internet Is Becoming User-Owned | Vignesh Selvaraj | [Read More](https://medium.com/p/474cbcf5cc17) |
