@@ -12,17 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 10:43:01 GMT | How Changing a Single ID Turned Into $$$ | Antonio Rivera Poblete | [Read More](https://medium.com/p/e0550f168cc5) |
+| Mon, 22 Sep 2025 10:38:50 GMT | A Practical Guide to Linux Security and OS Hardening | Pradyumn Yadav | [Read More](https://medium.com/p/948edda2965c) |
+| Mon, 22 Sep 2025 10:37:53 GMT | Job Guaranteed Courses in Bangalore — Placement Assured Training Programs | Evision Technoserve | [Read More](https://medium.com/p/8a6aead9f164) |
+| Mon, 22 Sep 2025 10:37:19 GMT | Why onUploadProgress shows 100% too early in dev mood | Amrou Hichem Zorgani | [Read More](https://medium.com/p/6107871499fb) |
+| Mon, 22 Sep 2025 10:32:42 GMT | How to Prepare for a PCI DSS Audit: Advice from a Security Analyst | Abdullateef Hameed | [Read More](https://medium.com/p/3ad848ddc770) |
+| Mon, 22 Sep 2025 10:25:24 GMT | Anatomy of The 2025 npm Worm - The Largest Supply Chain Hack | Motasem Hamdan | [Read More](https://medium.com/p/3a64560d5c8f) |
+| Mon, 22 Sep 2025 10:24:16 GMT | OSI Model | Goutam Yadav | [Read More](https://medium.com/p/6cd788cc214f) |
 | Mon, 22 Sep 2025 10:21:08 GMT | How I Earned $3,300 in Bug Bounties Using ASN Reconnaissance | Ahmadzuriqi | [Read More](https://medium.com/p/3464bb23bafa) |
+| Mon, 22 Sep 2025 10:20:44 GMT | How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization - Bug… | Ph.Hitachi | [Read More](https://medium.com/p/8bc189b37704) |
+| Mon, 22 Sep 2025 10:20:24 GMT | KARANLIK BİR ÇAĞ | Osman berkay Ercan | [Read More](https://medium.com/p/2ce998fc359d) |
 | Mon, 22 Sep 2025 10:08:11 GMT | Path Traversal – PortSwigger Walk through | Kumari Amita Kishore | [Read More](https://medium.com/p/abb95887e1bc) |
 | Mon, 22 Sep 2025 10:02:22 GMT | The Hunter Behind the Hacker | Inter3209 | [Read More](https://medium.com/p/cb996c3e4a78) |
 | Mon, 22 Sep 2025 10:01:32 GMT | Dark Fiber Market Growth, Demand, Opportunities and Future Outlook 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/ba0390b3c322) |
 | Mon, 22 Sep 2025 09:58:21 GMT | AI Governance Market Trends, Size, Share and Forecast Analysis 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/c1c363a69109) |
 | Mon, 22 Sep 2025 09:57:26 GMT | Top 10 Benefits of Regular VAPT Services for Businesses | Jay C Roberts | [Read More](https://medium.com/p/b6840b199d8d) |
 | Mon, 22 Sep 2025 09:53:20 GMT | 24/7 Security Guard Services in Los Angeles: Keeping You Safe Around the Clock | uk service | [Read More](https://medium.com/p/b87c68333827) |
+| Mon, 22 Sep 2025 09:46:11 GMT | Mastering AI Governance: Practical DevOps Solutions with Credo AI, Regology & Risk Cognizance | Iliya Garakh | [Read More](https://medium.com/p/e21dec51c918) |
 | Mon, 22 Sep 2025 09:46:05 GMT | How to Avoid Online Scams and Phishing Attacks | Kartik Debnath | [Read More](https://medium.com/p/4978684ff7f2) |
 | Mon, 22 Sep 2025 09:45:27 GMT | The Future of Digital Security: An Examination of Quantum Teleportation | Prinstonpalmer | [Read More](https://medium.com/p/eb7ec8bbce23) |
 | Mon, 22 Sep 2025 09:36:53 GMT | Data Security Posture Management (DSPM): Controlling Cloud Sprawl in a Data-Everywhere World | Jackdavis Iap | [Read More](https://medium.com/p/3ea867981509) |
+| Mon, 22 Sep 2025 09:36:51 GMT | Runtime Application Protection: How AppSealing’s AI-Powered RASP Defends Mobile Apps in Real-Time… | Iliya Garakh | [Read More](https://medium.com/p/dc3bfcbd4b05) |
 | Mon, 22 Sep 2025 09:32:19 GMT | CyberTalent : Easy Message | Mostafa Ahmed | [Read More](https://medium.com/p/b36da29bc06f) |
+| Mon, 22 Sep 2025 09:28:58 GMT | AI-Powered Penetration Testing: Mastering PentestGPT, Horizon3.ai | Iliya Garakh | [Read More](https://medium.com/p/4555f3757b9c) |
 | Mon, 22 Sep 2025 09:28:42 GMT | Zerologon (CVE-2020–1472): Pwn the Domain with Zero Effort | MITRE Doggy | [Read More](https://medium.com/p/17d5df35c42a) |
 | Mon, 22 Sep 2025 09:24:42 GMT | The Role of Ethical Hackers in Cybersecurity | Hackers King | [Read More](https://medium.com/p/49c0b458b35d) |
 | Mon, 22 Sep 2025 09:19:44 GMT | #09361284665#دختر_#حضوری_#دخترحضوری_#دختر ایرانی_#برنامه حضوری_#دخی بلا_#دختر خوشگل_#دختر… | Nazi | [Read More](https://medium.com/p/0c9c3accb040) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 05:56:23 GMT | Best Ethical Hacking Training in Noida - Ducat India | Zaidchaudhary | [Read More](https://medium.com/p/a2664b83f428) |
 | Mon, 22 Sep 2025 05:56:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Gulfisha Khan | [Read More](https://medium.com/p/6afeba85c374) |
 | Mon, 22 Sep 2025 05:56:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Jatinchoudhary | [Read More](https://medium.com/p/9c0a9aa6a769) |
-| Mon, 22 Sep 2025 05:56:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | Namanv225@gmail.com | [Read More](https://medium.com/p/b78b28ff4c77) |
-| Mon, 22 Sep 2025 05:56:11 GMT | Best Ethical Hacking Training in Noida - Ducat India | Pavvi Agarwal | [Read More](https://medium.com/p/9ed3aabae234) |
-| Mon, 22 Sep 2025 05:54:59 GMT | We are Free | Robert Roth | [Read More](https://medium.com/p/357a4f8c32cd) |
-| Mon, 22 Sep 2025 05:53:03 GMT | How a Well-Built Website Impacts User Trust and Conversions | Webcart | [Read More](https://medium.com/p/d9ef054bb500) |
-| Mon, 22 Sep 2025 05:51:47 GMT | SOC + AI: What agents can we use? | Pk Atwork | [Read More](https://medium.com/p/186be975f39f) |
-| Mon, 22 Sep 2025 05:46:36 GMT | Cross-Site Scripting (XSS): Still Alive in 2025 | Hinan Mohamed | [Read More](https://medium.com/p/37d68eb91da3) |
-| Mon, 22 Sep 2025 05:27:46 GMT | HTTP vs HTTPS: What’s the Difference and Why It Matters | Techie Arbaaz | [Read More](https://medium.com/p/3d2264cecdca) |
-| Mon, 22 Sep 2025 05:23:11 GMT | Linux Fundamentals Part 2: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/20cc1d36374b) |
-| Mon, 22 Sep 2025 05:14:50 GMT | Mobile Ransomware: Could Hackers Lock Your Phone? | Abida Adra | [Read More](https://medium.com/p/63c5b964f0fb) |
-| Mon, 22 Sep 2025 05:11:25 GMT | Cyber Security Consultation Explained: What It Is and How It Shields You from Cyber Threats | Prismatic Holdings | [Read More](https://medium.com/p/329564c7e0b9) |
-| Mon, 22 Sep 2025 05:10:08 GMT | How Network security impacts everyday internet users | Nagaraj | [Read More](https://medium.com/p/a8acf7c132f6) |
-| Mon, 22 Sep 2025 05:08:18 GMT | CyberSecurity In The Age of AI | Sarthak Sinha | [Read More](https://medium.com/p/4d391034e2a7) |
