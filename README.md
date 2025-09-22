@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 15:21:26 GMT | Security Implications of Edge Computing | Cyber Security Research | [Read More](https://medium.com/p/cd44ab5287a4) |
+| Mon, 22 Sep 2025 15:15:28 GMT | An Overview of Kali Linux for Security Professionals | SDNTechForum | [Read More](https://medium.com/p/dfd23e694681) |
+| Mon, 22 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 22, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/a297a1d68c8c) |
+| Mon, 22 Sep 2025 15:01:49 GMT | Operational Resilience in 2025: Lessons from DORA and Global Cybersecurity Frameworks | Lester Davila Escobedo | [Read More](https://medium.com/p/049656e5617a) |
+| Mon, 22 Sep 2025 15:01:48 GMT | Walkthrough: CyberDefenders Oski Lab | Dean Talbot | [Read More](https://medium.com/p/2742b706e067) |
+| Mon, 22 Sep 2025 14:59:11 GMT | Radare2 : A Practical Toolkit for Deconstructing Any Binary | Lord Murak | [Read More](https://medium.com/p/4f130d0457bf) |
+| Mon, 22 Sep 2025 14:58:51 GMT | Building a secure AI tool with Lovable, Gemini API and Cloudflare Workers | h@shtalk | [Read More](https://medium.com/p/eba940189c1e) |
+| Mon, 22 Sep 2025 14:57:46 GMT | Understanding SSL/TLS Protocols: How Encrypted Communication Works Online | CapitalCoin | [Read More](https://medium.com/p/9bf4dc3ca6e0) |
+| Mon, 22 Sep 2025 14:55:22 GMT | Prompt Your Way to Safer Code: Web App Security with Cursor, Lovable & Claude | Mohammad Abir Abbas | [Read More](https://medium.com/p/e8ea4c3d93ba) |
+| Mon, 22 Sep 2025 14:54:53 GMT | Cybersecurity in Age of Generative AI Threat | Girish Dhamane | [Read More](https://medium.com/p/da78eed96107) |
+| Mon, 22 Sep 2025 14:47:35 GMT | Ransomware pada Smartphone: Mekanisme Serangan, Dampak, dan Strategi Pencegahan | Ahdan Firdaus | [Read More](https://medium.com/p/552b4b60a7fc) |
+| Mon, 22 Sep 2025 14:47:16 GMT | “The Directory Bruteforcer That Found a Fortune: Mastering Gobuster” | Aman Sharma | [Read More](https://medium.com/p/2f8dae97bfc7) |
+| Mon, 22 Sep 2025 14:45:48 GMT | The Power and Limits of Common Knowledge | Lior Gd | [Read More](https://medium.com/p/5d08442499a3) |
+| Mon, 22 Sep 2025 14:41:22 GMT | Unlocking the Secrets: My Biohazard CTF Adventure Part 2 | Adwaith S | [Read More](https://medium.com/p/5d8a234f6316) |
+| Mon, 22 Sep 2025 14:31:46 GMT | You Are Sharing | Nikhil Lodha | [Read More](https://medium.com/p/f408f36f49c7) |
 | Mon, 22 Sep 2025 14:31:45 GMT | From Dorcha to Saoirse: Why Irish Words Guide Our AI Security Mission | Chelsea Mac | [Read More](https://medium.com/p/0d31c26fc62b) |
 | Mon, 22 Sep 2025 14:31:07 GMT | Walkthrough: CyberDefenders WebStrike Lab | Dean Talbot | [Read More](https://medium.com/p/d1eddc15b045) |
 | Mon, 22 Sep 2025 14:29:16 GMT | P.O.O — Part 4: Foothold | XOR-Hacks | [Read More](https://medium.com/p/be3089fedaa0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 10:24:16 GMT | OSI Model | Goutam Yadav | [Read More](https://medium.com/p/6cd788cc214f) |
 | Mon, 22 Sep 2025 10:21:08 GMT | How I Earned $3,300 in Bug Bounties Using ASN Reconnaissance | Ahmadzuriqi | [Read More](https://medium.com/p/3464bb23bafa) |
 | Mon, 22 Sep 2025 10:20:44 GMT | How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization - Bug… | Ph.Hitachi | [Read More](https://medium.com/p/8bc189b37704) |
-| Mon, 22 Sep 2025 10:20:24 GMT | KARANLIK BİR ÇAĞ | Osman berkay Ercan | [Read More](https://medium.com/p/2ce998fc359d) |
-| Mon, 22 Sep 2025 10:08:11 GMT | Path Traversal – PortSwigger Walk through | Kumari Amita Kishore | [Read More](https://medium.com/p/abb95887e1bc) |
-| Mon, 22 Sep 2025 10:02:22 GMT | The Hunter Behind the Hacker | Inter3209 | [Read More](https://medium.com/p/cb996c3e4a78) |
-| Mon, 22 Sep 2025 10:01:32 GMT | Dark Fiber Market Growth, Demand, Opportunities and Future Outlook 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/ba0390b3c322) |
-| Mon, 22 Sep 2025 09:58:21 GMT | AI Governance Market Trends, Size, Share and Forecast Analysis 2025–2035 | rahul salunkhe | [Read More](https://medium.com/p/c1c363a69109) |
-| Mon, 22 Sep 2025 09:57:26 GMT | Top 10 Benefits of Regular VAPT Services for Businesses | Jay C Roberts | [Read More](https://medium.com/p/b6840b199d8d) |
-| Mon, 22 Sep 2025 09:53:20 GMT | 24/7 Security Guard Services in Los Angeles: Keeping You Safe Around the Clock | uk service | [Read More](https://medium.com/p/b87c68333827) |
-| Mon, 22 Sep 2025 09:46:11 GMT | Mastering AI Governance: Practical DevOps Solutions with Credo AI, Regology & Risk Cognizance | Iliya Garakh | [Read More](https://medium.com/p/e21dec51c918) |
-| Mon, 22 Sep 2025 09:46:05 GMT | How to Avoid Online Scams and Phishing Attacks | Kartik Debnath | [Read More](https://medium.com/p/4978684ff7f2) |
-| Mon, 22 Sep 2025 09:45:27 GMT | The Future of Digital Security: An Examination of Quantum Teleportation | Prinstonpalmer | [Read More](https://medium.com/p/eb7ec8bbce23) |
-| Mon, 22 Sep 2025 09:36:53 GMT | Data Security Posture Management (DSPM): Controlling Cloud Sprawl in a Data-Everywhere World | Jackdavis Iap | [Read More](https://medium.com/p/3ea867981509) |
-| Mon, 22 Sep 2025 09:36:51 GMT | Runtime Application Protection: How AppSealing’s AI-Powered RASP Defends Mobile Apps in Real-Time… | Iliya Garakh | [Read More](https://medium.com/p/dc3bfcbd4b05) |
-| Mon, 22 Sep 2025 09:32:19 GMT | CyberTalent : Easy Message | Mostafa Ahmed | [Read More](https://medium.com/p/b36da29bc06f) |
-| Mon, 22 Sep 2025 09:28:58 GMT | AI-Powered Penetration Testing: Mastering PentestGPT, Horizon3.ai | Iliya Garakh | [Read More](https://medium.com/p/4555f3757b9c) |
-| Mon, 22 Sep 2025 09:28:42 GMT | Zerologon (CVE-2020–1472): Pwn the Domain with Zero Effort | MITRE Doggy | [Read More](https://medium.com/p/17d5df35c42a) |
