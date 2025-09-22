@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 22:33:04 GMT | Why CISOs Fail at AI Governance | Cyber-AppSec | [Read More](https://medium.com/p/9e01100be9fb) |
+| Mon, 22 Sep 2025 22:31:01 GMT | ویژگی‌های فنی و کاربردهای سرور ML اچ پی | mona hashemi | [Read More](https://medium.com/p/258f1fa3a7a0) |
+| Mon, 22 Sep 2025 22:25:03 GMT | Who Reads You? | Agnes | [Read More](https://medium.com/p/4b6cf51839cb) |
+| Mon, 22 Sep 2025 22:18:07 GMT | The Software Security Vulnerabilities Brought by the World of Agentic AI | Akvardarbugra | [Read More](https://medium.com/p/bda41da7387f) |
+| Mon, 22 Sep 2025 22:12:10 GMT | Nevada’s Ransomware Wake-Up Call: What Every Organization Must Learn | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/bd927b8f2c18) |
 | Mon, 22 Sep 2025 21:47:29 GMT | Notes of a 17-Year-Old Starting with Agentic AI and Network Security | Akvardarbugra | [Read More](https://medium.com/p/4e51fbb4f264) |
 | Mon, 22 Sep 2025 21:42:14 GMT | Anton’s Security Blog Quarterly Q3 2025 | Anton Chuvakin | [Read More](https://medium.com/p/74fc422be3d3) |
 | Mon, 22 Sep 2025 21:36:02 GMT | Cisco Catalyst 3560V1 Switch Temel Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/a9da7e98bbb2) |
@@ -109,8 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 16:49:30 GMT | Linux Security Hardening: Advanced Methods | Eren Cankut Uysal | [Read More](https://medium.com/p/0f719e746257) |
 | Mon, 22 Sep 2025 16:45:11 GMT | SOC170 — Passwd Found in Requested URL — Possible LFI Attack | Cyber Burrito | [Read More](https://medium.com/p/447926de99ea) |
 | Mon, 22 Sep 2025 16:45:03 GMT | Securing WordPress in 2025 with Rainbow Secure: Smarter MFA & SSO | Dr. Shashi Karhail | [Read More](https://medium.com/p/f709387a5e1c) |
-| Mon, 22 Sep 2025 16:41:39 GMT | Your VPN Could Be Slowing You Down — Here’s How to Fix It Instantly | Mr Technology | [Read More](https://medium.com/p/9aa80caf87a6) |
-| Mon, 22 Sep 2025 16:38:17 GMT | Failing to Update Systems and Software | Ehsanm135 | [Read More](https://medium.com/p/15cb6a31c754) |
-| Mon, 22 Sep 2025 16:35:31 GMT | Linux Kernel Hacking: A Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/a28aaecf2fd0) |
-| Mon, 22 Sep 2025 16:34:54 GMT | Cybersecurity is often associated with advanced technologies — SIEMs, AI-driven detection systems… | MANDAR GANGURDE | [Read More](https://medium.com/p/61b0a5cec614) |
-| Mon, 22 Sep 2025 16:31:45 GMT | RaaS, Inc.: How Cybercrime Turned Into a SaaS Business | Nexumo | [Read More](https://medium.com/p/0401f1fb18db) |
