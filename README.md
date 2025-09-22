@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 11:31:18 GMT | How Secrets Leak in Docker — I Tested This on AWS and Was Shocked! | Ihsandmrci | [Read More](https://medium.com/p/2d5a97986f72) |
+| Mon, 22 Sep 2025 11:17:42 GMT | OLED Display Materials Market: Lighting the Future of Displays | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/2ed1783e6f30) |
 | Mon, 22 Sep 2025 11:13:34 GMT | Seamless Email Migration Services in UAE for Businesses | Cost To Cost | [Read More](https://medium.com/p/870da181e216) |
 | Mon, 22 Sep 2025 11:03:18 GMT | Decoding Linux Logs: A SOC Analyst’s Guide to the TryHackMe Room | Furkanctiner | [Read More](https://medium.com/p/6cf3432f0047) |
 | Mon, 22 Sep 2025 11:01:47 GMT | Microsoft Mandates MFA for Azure Users: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/4c53379988a6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 06:09:59 GMT | Why Cybersecurity Education Needs More Storytelling | Shahzaib | [Read More](https://medium.com/p/b220b4e04712) |
 | Mon, 22 Sep 2025 06:09:43 GMT | Top 10 Smallest Hacker Gadgets and Their Ethical Uses in Pen Testing | Manisha Chaudhary | [Read More](https://medium.com/p/03ec302bd68a) |
 | Mon, 22 Sep 2025 06:06:26 GMT | DC-2 Walkthrough Vulnhub | Ankit Dhaka | [Read More](https://medium.com/p/06bea3bd16ed) |
-| Mon, 22 Sep 2025 06:04:05 GMT | Quantum-Proof Encryption, Now — Not Later | Modexa | [Read More](https://medium.com/p/cc025b9e8a6f) |
-| Mon, 22 Sep 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Sep 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/334e9192d31e) |
