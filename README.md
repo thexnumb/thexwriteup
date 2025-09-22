@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 04:36:10 GMT | Why is it essential to have a strong password? and what makes you think that your device is secure? | Aniket Walia | [Read More](https://medium.com/p/9ad16818b511) |
+| Mon, 22 Sep 2025 04:27:56 GMT | Basic Things to Check When Hiring Armed Security Guards in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/323298b6d7cb) |
+| Mon, 22 Sep 2025 04:27:15 GMT | Introduction to Browser Forensics (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/55d141b3dbf0) |
+| Mon, 22 Sep 2025 04:24:21 GMT | Data Exfiltration via HTTP, DNS, NC & ICMP Protocols | Lareb | [Read More](https://medium.com/p/fe1b8bfab487) |
 | Mon, 22 Sep 2025 04:22:42 GMT | Supply Chain Attack Compromises @ctrl/tinycolor and Dozens of NPM Packages | Raj (CISSP - CCSP - CISA - CRISC - ISO- PMP-AWS) | [Read More](https://medium.com/p/fa968c3faede) |
 | Mon, 22 Sep 2025 04:20:16 GMT | Incident Response & Forensics with Splunk SIEM: A Step-by-Step Guide | Sadashiv_Pole | [Read More](https://medium.com/p/7b8b4644fa74) |
 | Mon, 22 Sep 2025 04:17:47 GMT | Silly Doors Cyber Talents CTF Solution Writeup | MehediSec | [Read More](https://medium.com/p/c2f5913e6a4a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 20:06:29 GMT | Addressing Security Vulnerabilities in Docker: What to Know | @rnab | [Read More](https://medium.com/p/e40cf80196a6) |
 | Sun, 21 Sep 2025 20:06:21 GMT | I Hacked Gmail With ChatGPT: Here’s What Happened | Yatin | [Read More](https://medium.com/p/6c88c3af3bca) |
 | Sun, 21 Sep 2025 19:56:03 GMT | America’s Cyber Firms Need a New Base Layer | Derek Wayne Bailey | [Read More](https://medium.com/p/a95acf7f91c3) |
-| Sun, 21 Sep 2025 19:54:10 GMT | Control EVERY Computer on Your Desk and Stop Juggling Hardware | Jannis | [Read More](https://medium.com/p/050f42c079e6) |
-| Sun, 21 Sep 2025 19:39:40 GMT | Why Learning Assembly Makes You a Better Hacker & Coder | Beri Contraster | [Read More](https://medium.com/p/933a8e102b52) |
-| Sun, 21 Sep 2025 19:39:08 GMT | Image OSINT (IMINT):Full practical write-up with real examples & practices | Intelithics | [Read More](https://medium.com/p/fd8be88b7c75) |
-| Sun, 21 Sep 2025 19:34:07 GMT | Secure File Sharing Platforms That Keep Your Data 100% Safe | The Daily Technology | [Read More](https://medium.com/p/50c1d86f9f27) |
