@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 03:04:56 GMT | Install or Update New Version Ghauri in WSL for testing SQL Injection | raflesia it | [Read More](https://medium.com/p/0f626a218190) |
+| Mon, 22 Sep 2025 03:01:50 GMT | U.S. Moves to Counter China’s Global Port Dominance | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/1d667e760773) |
+| Mon, 22 Sep 2025 02:59:41 GMT | AI and Adversarial Attacks | Cyber Security Research | [Read More](https://medium.com/p/52b87c37b9d7) |
+| Mon, 22 Sep 2025 02:54:00 GMT | The Future of Biometric Spoofing | Cyber Security Research | [Read More](https://medium.com/p/80784bae5eb2) |
+| Mon, 22 Sep 2025 02:52:09 GMT | Static Proxy IPs: A Technical Foundation for Enterprise Security and Compliance | Novada | [Read More](https://medium.com/p/d859112bba25) |
+| Mon, 22 Sep 2025 02:50:23 GMT | WinR(M), WinR(M), Chicken Dinner!: My notes for TryHackMe’s “Directory” challenge room (Part 1) | A Learner | [Read More](https://medium.com/p/674125d78144) |
+| Mon, 22 Sep 2025 02:49:15 GMT | What Does it Mean when an HPC Cluster or Workstation is Turnkey? | Emma Lyons | [Read More](https://medium.com/p/d8fffef0531d) |
+| Mon, 22 Sep 2025 02:47:58 GMT | Insider Threat Case Studies | Cyber Security Research | [Read More](https://medium.com/p/813965ffd298) |
+| Mon, 22 Sep 2025 02:45:35 GMT | Resonant Flow Detector: | Ceo Darkbot | [Read More](https://medium.com/p/c891f19c8363) |
+| Mon, 22 Sep 2025 02:41:13 GMT | The European Airport Cyberattack | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/95f761185033) |
+| Mon, 22 Sep 2025 02:34:46 GMT | The Role of Standards in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/ddec008a2159) |
+| Mon, 22 Sep 2025 02:28:50 GMT | Security in Agile Development Lifecycles | Cyber Security Research | [Read More](https://medium.com/p/449cd6a500e0) |
+| Mon, 22 Sep 2025 02:27:02 GMT | ️ How to Hunt Living-off-the-Land Attacks Like a Pro (Before They Hunt You) | Paritosh | [Read More](https://medium.com/p/545ed594f579) |
+| Mon, 22 Sep 2025 02:24:14 GMT | Day 5 — Burp Suite Essentials: Intercept, Manipulate, and Test Web Apps | OxErvin | [Read More](https://medium.com/p/6d87225a091a) |
+| Mon, 22 Sep 2025 02:23:09 GMT | The Role of Cybersecurity OEMs in Building Trust in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/e3cf1d9da879) |
+| Mon, 22 Sep 2025 02:23:00 GMT | Securing Virtual Reality Platforms | Cyber Security Research | [Read More](https://medium.com/p/1d3796b354a0) |
+| Mon, 22 Sep 2025 02:15:53 GMT | Cloud Security Posture Management | Cyber Security Research | [Read More](https://medium.com/p/6d68f1813cf8) |
+| Mon, 22 Sep 2025 02:09:53 GMT | Network Segmentation for Security | Cyber Security Research | [Read More](https://medium.com/p/79f46638aff2) |
+| Mon, 22 Sep 2025 02:04:40 GMT | Shai-Hulud Worm Compromises 180+ NPM Packages: Steals Secrets via GitHub Actions | SafetyDetectives Research Team | [Read More](https://medium.com/p/70475109afa7) |
+| Mon, 22 Sep 2025 01:56:28 GMT | China to Enforce One-Hour Deadline for Reporting Serious Cyber Incidents | SafetyDetectives Research Team | [Read More](https://medium.com/p/3f026a155814) |
+| Mon, 22 Sep 2025 01:48:02 GMT | The Hidden Architecture of Trust: Why Cybersecurity Is Really About Human Faith | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/58ac2102576f) |
+| Mon, 22 Sep 2025 01:44:43 GMT | The Celebrity Who Never Existed. | Parinitha N | [Read More](https://medium.com/p/a430d132f13a) |
 | Mon, 22 Sep 2025 01:36:23 GMT | Uvalde CISD to Resume Classes After Ransomware Attack Disrupts Critical Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/820dcf6463fa) |
 | Mon, 22 Sep 2025 01:27:44 GMT | 20+ cURL Hacks That Will Make You a Bug Bounty Pro | Qasim Mahmood Khalid | [Read More](https://medium.com/p/186ecc51bff5) |
 | Mon, 22 Sep 2025 01:18:59 GMT | The Planet’s Prestige - Write-Up - Blue Team Labs Online | Harshal | [Read More](https://medium.com/p/2509180753cc) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 18:48:57 GMT | Boost Your BUG BUG Strategy with These Expert Tips | BUG | [Read More](https://medium.com/p/5edebb8359bf) |
 | Sun, 21 Sep 2025 18:37:09 GMT | The 10-Minute Token: Replay-Proof Your API with Time-Based Authentication | Kory Becker | [Read More](https://medium.com/p/54fcd706f5e5) |
 | Sun, 21 Sep 2025 18:33:19 GMT | Why Every AI Agent Needs a Sandbox | Yassine | [Read More](https://medium.com/p/bf760e0c70a1) |
-| Sun, 21 Sep 2025 18:29:02 GMT | Deep Dive into WebSocket Hijacking Vulnerability | Ahmed Muhammed | [Read More](https://medium.com/p/42d8c5773944) |
-| Sun, 21 Sep 2025 18:27:16 GMT | The Tech Scene in 2025: What’s Actually Shaping Our World? | GOPAL | [Read More](https://medium.com/p/98bc2500fe39) |
-| Sun, 21 Sep 2025 18:27:00 GMT | CPTS vs OSCP | Ahmad Allobani | [Read More](https://medium.com/p/b757b4cb9ade) |
-| Sun, 21 Sep 2025 18:25:46 GMT | Cyber Security: The Protection of the Digital World | Career With Technoglobe | [Read More](https://medium.com/p/0fc400bde823) |
-| Sun, 21 Sep 2025 18:24:42 GMT | Why Security and Quality Should Be Built Into the Software Development Life Cycle | Bhaktikishor | [Read More](https://medium.com/p/42925ba9ed17) |
-| Sun, 21 Sep 2025 18:24:21 GMT | Using Ubuntu’s unattended-upgrades package | Marcell Dietl | [Read More](https://medium.com/p/e8e247aa3886) |
-| Sun, 21 Sep 2025 18:22:41 GMT | Reading Between the Lines — Making Sense of SIEM Alerts | Raynard Waits | [Read More](https://medium.com/p/bbaa4d13408b) |
-| Sun, 21 Sep 2025 18:07:14 GMT | Why You Need to Enable Audit Logs in Google Cloud | Allan Alfonso | [Read More](https://medium.com/p/0c31578cd4f1) |
-| Sun, 21 Sep 2025 18:04:05 GMT | “6G and the Rise of Internet Everywhere: How the Next Generation Network Will Transform Our World” | Tarush Sharma | [Read More](https://medium.com/p/9f28bf211309) |
-| Sun, 21 Sep 2025 18:02:57 GMT | Boas Práticas na Criação de Roles e Policies na AWS | Vanderson dos Santos | [Read More](https://medium.com/p/6418192580a9) |
-| Sun, 21 Sep 2025 18:01:46 GMT | Nueva comunidad en Discord para Bug Bounty y Pentesting | Gorka | [Read More](https://medium.com/p/49f8f0a14a56) |
-| Sun, 21 Sep 2025 18:00:40 GMT | Beginner’s Guide to Packaging and Distributing Dockerized Apps Across Major Linux Distributions | Martian | [Read More](https://medium.com/p/fcc13f0e2679) |
-| Sun, 21 Sep 2025 17:57:16 GMT | From Social Media to Cybersecurity: | thedigitalmira | [Read More](https://medium.com/p/f59394c0ebbc) |
-| Sun, 21 Sep 2025 17:51:08 GMT | Data Privacy for Digital Nomads: Keep Your Info SafeBeing a digital nomad means relying on public… | Paran | [Read More](https://medium.com/p/4f9fbd358c5e) |
-| Sun, 21 Sep 2025 17:50:46 GMT | Demystifying Prompt Injection: Why AI Security Experts Care | Om Sahare | [Read More](https://medium.com/p/df41f1ae2c14) |
-| Sun, 21 Sep 2025 17:42:16 GMT | ☁️ The Invisible Engine Behind Modern Life: How Cloud Computing Runs Everything | David Obi | [Read More](https://medium.com/p/134eeaec5d11) |
-| Sun, 21 Sep 2025 17:40:24 GMT | What Legislative Package Should We Develop to Keep Pace with the AI Revolution? | Madlin Alshilli | [Read More](https://medium.com/p/ed7043db072f) |
-| Sun, 21 Sep 2025 17:27:58 GMT | Lab: Exploiting origin server normalization for web cache deception | Viodex | [Read More](https://medium.com/p/f9b38b46c9f0) |
-| Sun, 21 Sep 2025 17:23:13 GMT | Week 10—Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/1638b6b19c84) |
-| Sun, 21 Sep 2025 17:08:29 GMT | ‍☠️ CTF 101: A Beginner’s Guide to Cybersecurity Challenges | Abilash B | [Read More](https://medium.com/p/1542df8c7d68) |
-| Sun, 21 Sep 2025 17:08:21 GMT | From Zero to GenAI Security Hero: The Ultimate Guide That’ll Save Your Career (And Maybe Your… | Sumant Khapre | [Read More](https://medium.com/p/b4e37a1614e2) |
-| Sun, 21 Sep 2025 17:07:44 GMT | PG Practice — Craft (Windows) | Lepton | [Read More](https://medium.com/p/6bc81e86c65a) |
