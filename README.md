@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 17:34:21 GMT | Cybersecurity for Normal People: 10 Simple Ways to Stay Safe Online | Aj | [Read More](https://medium.com/p/289b34cbb042) |
+| Mon, 22 Sep 2025 17:17:38 GMT | Stronger Infrastructure, Stronger Hackers: Build Resilience to Build Skill | Iserjaoui | [Read More](https://medium.com/p/b1584db39c44) |
+| Mon, 22 Sep 2025 17:14:44 GMT | Necromancer VM Walkthrough | Spookz | [Read More](https://medium.com/p/67034e8c28b3) |
+| Mon, 22 Sep 2025 17:14:07 GMT | Apply Filters to SQL Queries: A Cybersecurity Use Case | Citadel Cybersec | [Read More](https://medium.com/p/6c92bef5f944) |
 | Mon, 22 Sep 2025 17:13:54 GMT | Haunted Console - The Persistence You Can’t Detect | Mahdi Hamedani | [Read More](https://medium.com/p/5468ec92b4cd) |
+| Mon, 22 Sep 2025 17:12:43 GMT | Vulnversity — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/632e2e6a3a54) |
+| Mon, 22 Sep 2025 17:09:55 GMT | The Use of Deadly Force Against Drug Smuggling Vessels: A Legal Analysis | Centre for International and Defence Policy | [Read More](https://medium.com/p/f3b16ee470e9) |
+| Mon, 22 Sep 2025 17:08:04 GMT | Demystifying the OSI Model: A Beginner’s Guide to Networking | Sumit Sah | [Read More](https://medium.com/p/72b7a9d36132) |
 | Mon, 22 Sep 2025 17:05:21 GMT | Phishing 2.0: QR Codes and Deepfakes Are the New Frontline | Jimi Newlander | [Read More](https://medium.com/p/d01d6a7cf294) |
 | Mon, 22 Sep 2025 17:03:00 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/755a122ad097) |
 | Mon, 22 Sep 2025 17:02:34 GMT | Keep your data as safe as the nation writes that your fingers are. | Andrew Hodel | [Read More](https://medium.com/p/ece896785c10) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 13:27:25 GMT | Built a Python Tool to Automate Email Security Audits | Saurabh Jain | [Read More](https://medium.com/p/c639d2affe88) |
 | Mon, 22 Sep 2025 13:25:09 GMT | Speed vs Security: How Flitaa Keeps Transactions Instant Without Compromise | Flitaa | [Read More](https://medium.com/p/64de9de9a8ff) |
 | Mon, 22 Sep 2025 13:20:17 GMT | From Web2 to Web3: How the Internet Is Becoming User-Owned | Vignesh Selvaraj | [Read More](https://medium.com/p/474cbcf5cc17) |
-| Mon, 22 Sep 2025 13:18:46 GMT | Top 10 Hacker Tools You Can Try | Maryam Irfan | [Read More](https://medium.com/p/69da22556da3) |
-| Mon, 22 Sep 2025 13:15:02 GMT | Cyber Attack Disrupts Flights Across Europe | Abhishek Kumar | [Read More](https://medium.com/p/02af1c6e431b) |
-| Mon, 22 Sep 2025 13:13:56 GMT | Artificial Sleuths: Domain Analysis | Investigator515 | [Read More](https://medium.com/p/c58d47b4c3ca) |
-| Mon, 22 Sep 2025 13:13:23 GMT | How To Hide Secrets & Exe Payloads In Images (Guide) | Scofield O. Idehen | [Read More](https://medium.com/p/8fb0510ed06f) |
-| Mon, 22 Sep 2025 13:10:25 GMT | CTF {THM} Pyrat | Arka Priya Das | [Read More](https://medium.com/p/76bdab6ccbbe) |
-| Mon, 22 Sep 2025 13:09:44 GMT | Silence Is Glass: The Cost of Bottled Emotions | Yami05 | [Read More](https://medium.com/p/e123a22488a3) |
-| Mon, 22 Sep 2025 13:06:02 GMT | Security Review of the Orb | Pornsook Kornkitichai | [Read More](https://medium.com/p/6e0402e4d6bd) |
