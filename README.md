@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 14:31:45 GMT | From Dorcha to Saoirse: Why Irish Words Guide Our AI Security Mission | Chelsea Mac | [Read More](https://medium.com/p/0d31c26fc62b) |
+| Mon, 22 Sep 2025 14:31:07 GMT | Walkthrough: CyberDefenders WebStrike Lab | Dean Talbot | [Read More](https://medium.com/p/d1eddc15b045) |
+| Mon, 22 Sep 2025 14:29:16 GMT | P.O.O — Part 4: Foothold | XOR-Hacks | [Read More](https://medium.com/p/be3089fedaa0) |
+| Mon, 22 Sep 2025 14:27:58 GMT | Ransomware Disrupts European Airports | CyberSamm | [Read More](https://medium.com/p/24112b1d001d) |
+| Mon, 22 Sep 2025 14:27:29 GMT | SIEM for lean teams: How to do more with less | Graylog | [Read More](https://medium.com/p/f5499000f712) |
+| Mon, 22 Sep 2025 14:25:58 GMT | PicoCTF Challenge :  Collaborative Development Solved | Nanda Aditya Putra | [Read More](https://medium.com/p/4fb720e17254) |
+| Mon, 22 Sep 2025 14:24:48 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/72fe9bb9a7b7) |
+| Mon, 22 Sep 2025 14:22:00 GMT | Session 1: Introduction & Topology Setup (Kali VM ↔ Windows Host) | Axel Liang Gono | [Read More](https://medium.com/p/7ac22806e1eb) |
+| Mon, 22 Sep 2025 14:17:54 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/9bd44b6cc52d) |
 | Mon, 22 Sep 2025 14:13:43 GMT | Proactive Cybersecurity Services by Tudip Technologies: | Debasis Rath | [Read More](https://medium.com/p/910a56dffa67) |
 | Mon, 22 Sep 2025 14:13:37 GMT | SpamGPT: the CRM-for-cybercriminals turning phishing into an industrialized business. | eL Njas!™ | [Read More](https://medium.com/p/389003369088) |
 | Mon, 22 Sep 2025 14:11:49 GMT | Best Cyber Security Institute in Bangalore: What Makes the Right Training Partner? | Sureshnextwebi | [Read More](https://medium.com/p/359e4ad53823) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 09:32:19 GMT | CyberTalent : Easy Message | Mostafa Ahmed | [Read More](https://medium.com/p/b36da29bc06f) |
 | Mon, 22 Sep 2025 09:28:58 GMT | AI-Powered Penetration Testing: Mastering PentestGPT, Horizon3.ai | Iliya Garakh | [Read More](https://medium.com/p/4555f3757b9c) |
 | Mon, 22 Sep 2025 09:28:42 GMT | Zerologon (CVE-2020–1472): Pwn the Domain with Zero Effort | MITRE Doggy | [Read More](https://medium.com/p/17d5df35c42a) |
-| Mon, 22 Sep 2025 09:24:42 GMT | The Role of Ethical Hackers in Cybersecurity | Hackers King | [Read More](https://medium.com/p/49c0b458b35d) |
-| Mon, 22 Sep 2025 09:19:44 GMT | #09361284665#دختر_#حضوری_#دخترحضوری_#دختر ایرانی_#برنامه حضوری_#دخی بلا_#دختر خوشگل_#دختر… | Nazi | [Read More](https://medium.com/p/0c9c3accb040) |
-| Mon, 22 Sep 2025 09:18:50 GMT | Top Ethical Hacking Course in Trivandrum | Dotinfida | [Read More](https://medium.com/p/79a6a2e20b09) |
-| Mon, 22 Sep 2025 09:17:45 GMT | Docker Security Vulnerabilities and Container Breakout | Esra Kayhan | [Read More](https://medium.com/p/5629ae8f6543) |
-| Mon, 22 Sep 2025 09:14:09 GMT | DockerLabs Writeup — AnonymousPingu (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fa2e2f01a0af) |
-| Mon, 22 Sep 2025 09:08:28 GMT | Chain Link Fence in Saudi Arabia: A Smart Choice for Security, Climate, and Value (سياج شبكي) | Hitechfence | [Read More](https://medium.com/p/762843a86b7a) |
-| Mon, 22 Sep 2025 08:59:46 GMT | The S1ngularity/nx Attackers Just Struck Again, And You’re Not Ready | SecureSlate | [Read More](https://medium.com/p/2f6714f5505c) |
-| Mon, 22 Sep 2025 08:57:31 GMT | The Most Thankless Job in Tech: Software Project Management | Fahad Habib | [Read More](https://medium.com/p/008ee3a65e18) |
-| Mon, 22 Sep 2025 08:56:56 GMT | SPARK Matrix™: Key Technology Trends in Insider Risk Management | Gargiben | [Read More](https://medium.com/p/0cdab344defd) |
