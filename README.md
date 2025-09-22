@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 17:13:54 GMT | Haunted Console - The Persistence You Can’t Detect | Mahdi Hamedani | [Read More](https://medium.com/p/5468ec92b4cd) |
+| Mon, 22 Sep 2025 17:05:21 GMT | Phishing 2.0: QR Codes and Deepfakes Are the New Frontline | Jimi Newlander | [Read More](https://medium.com/p/d01d6a7cf294) |
+| Mon, 22 Sep 2025 17:03:00 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/755a122ad097) |
+| Mon, 22 Sep 2025 17:02:34 GMT | Keep your data as safe as the nation writes that your fingers are. | Andrew Hodel | [Read More](https://medium.com/p/ece896785c10) |
+| Mon, 22 Sep 2025 16:57:12 GMT | Africa, Invest in Yourself: Lessons from Victor Zhikai Gao at the ISCA in Rwanda | Nokwanda Makubalo | [Read More](https://medium.com/p/2cd0c1649bed) |
+| Mon, 22 Sep 2025 16:56:49 GMT | The Ghost in the Keystroke : How Your Typing Rhythm is Becoming the Ultimate Password ! | SUBHADEEP SASMAL | [Read More](https://medium.com/p/6faeffe3e5ce) |
+| Mon, 22 Sep 2025 16:54:45 GMT | When “not perfect” is better than nothing at all | Raleigh Guevarra | [Read More](https://medium.com/p/0a1dce6decd0) |
+| Mon, 22 Sep 2025 16:52:13 GMT | How Hackers Actually Break Into Accounts (Explained Simply) | Aj | [Read More](https://medium.com/p/60fe6dc74130) |
+| Mon, 22 Sep 2025 16:51:44 GMT | Extract THM — Write Up | Thefrust | [Read More](https://medium.com/p/e55a460926b4) |
+| Mon, 22 Sep 2025 16:49:55 GMT | IEEE Mansoura CTF Qualifications 2025— Web(Snacks-Disapproved-VOID) | Abdelrahman Radwan | [Read More](https://medium.com/p/8967b31fe083) |
+| Mon, 22 Sep 2025 16:49:30 GMT | Linux Security Hardening: Advanced Methods | Eren Cankut Uysal | [Read More](https://medium.com/p/0f719e746257) |
+| Mon, 22 Sep 2025 16:45:11 GMT | SOC170 — Passwd Found in Requested URL — Possible LFI Attack | Cyber Burrito | [Read More](https://medium.com/p/447926de99ea) |
+| Mon, 22 Sep 2025 16:45:03 GMT | Securing WordPress in 2025 with Rainbow Secure: Smarter MFA & SSO | Dr. Shashi Karhail | [Read More](https://medium.com/p/f709387a5e1c) |
+| Mon, 22 Sep 2025 16:41:39 GMT | Your VPN Could Be Slowing You Down — Here’s How to Fix It Instantly | Mr Technology | [Read More](https://medium.com/p/9aa80caf87a6) |
 | Mon, 22 Sep 2025 16:38:17 GMT | Failing to Update Systems and Software | Ehsanm135 | [Read More](https://medium.com/p/15cb6a31c754) |
 | Mon, 22 Sep 2025 16:35:31 GMT | Linux Kernel Hacking: A Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/a28aaecf2fd0) |
 | Mon, 22 Sep 2025 16:34:54 GMT | Cybersecurity is often associated with advanced technologies — SIEMs, AI-driven detection systems… | MANDAR GANGURDE | [Read More](https://medium.com/p/61b0a5cec614) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 13:10:25 GMT | CTF {THM} Pyrat | Arka Priya Das | [Read More](https://medium.com/p/76bdab6ccbbe) |
 | Mon, 22 Sep 2025 13:09:44 GMT | Silence Is Glass: The Cost of Bottled Emotions | Yami05 | [Read More](https://medium.com/p/e123a22488a3) |
 | Mon, 22 Sep 2025 13:06:02 GMT | Security Review of the Orb | Pornsook Kornkitichai | [Read More](https://medium.com/p/6e0402e4d6bd) |
-| Mon, 22 Sep 2025 13:01:49 GMT | Here’s how to pick a SIEM: Cloud-focused tools, uses, and pros/cons from my experience | Josh Lee | [Read More](https://medium.com/p/07ab2d610918) |
-| Mon, 22 Sep 2025 13:01:46 GMT | The Quiet Courage of Being Vulnerable | Evelyn Foreman | [Read More](https://medium.com/p/9e1af575181f) |
-| Mon, 22 Sep 2025 13:01:03 GMT | The Definitive Guide to API Rate Limiting | Ragul Rasalingam | [Read More](https://medium.com/p/eec36179983f) |
-| Mon, 22 Sep 2025 12:58:52 GMT | Maybe it is ‘Weak to Speak’ | Sean Corcoran | [Read More](https://medium.com/p/b007374e95b2) |
-| Mon, 22 Sep 2025 12:57:27 GMT | Connecting the Dots: A ProcDOT Guide to the DunkleMaterie Ransomware Room | Furkanctiner | [Read More](https://medium.com/p/03c62c612676) |
-| Mon, 22 Sep 2025 12:43:33 GMT | PG Practice — Billyboss (Windows) | Lepton | [Read More](https://medium.com/p/b3df60d2885b) |
-| Mon, 22 Sep 2025 12:41:47 GMT | Hardcoding Issues – Part 1 Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/4e6ac416bd4d) |
-| Mon, 22 Sep 2025 12:36:12 GMT | crackmes.one: eyecandylocked | Sourav Bose | [Read More](https://medium.com/p/145171816397) |
-| Mon, 22 Sep 2025 12:35:54 GMT | Automating Ransomware Intelligence: Feed ransomware.live | Usama Saleem | [Read More](https://medium.com/p/504970b8e08a) |
-| Mon, 22 Sep 2025 12:32:46 GMT | Stopping AiTM Phishing at the Source with Entra ID, Logic Apps, and Microsoft Sentinel | Jasper Minnaert | [Read More](https://medium.com/p/82684d1a10ea) |
-| Mon, 22 Sep 2025 12:30:44 GMT | Why Are Small Businesses Adopting Advanced IT Solutions in India? | Noahlucas | [Read More](https://medium.com/p/22837484138f) |
-| Mon, 22 Sep 2025 12:23:22 GMT | ️The dark art of homoglyph attacks. ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/48cbb6e19409) |
-| Mon, 22 Sep 2025 12:22:21 GMT | Security Officer Application — Steps, Requirements & Career Tips | NJ SORA Professionals | [Read More](https://medium.com/p/42c1554b8893) |
-| Mon, 22 Sep 2025 12:15:43 GMT | Gmail Hack - Requirements - Hire Hacker | BlackHat | [Read More](https://medium.com/p/59c59c648e82) |
