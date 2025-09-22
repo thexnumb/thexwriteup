@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 08:45:12 GMT | Active Directory Exploitation in CTF Challenges: A Beginner’s Guide | Maxwell Ferreira | [Read More](https://medium.com/p/4cb733d977f0) |
+| Mon, 22 Sep 2025 08:35:45 GMT | Race Condition Vulnerabilities: The Timing Attack You’re Missing | Rizqi Mulki | [Read More](https://medium.com/p/0860f2a02bf0) |
+| Mon, 22 Sep 2025 08:35:20 GMT | Proving Grounds — AuthBy Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/4f12b0bb3d2a) |
+| Mon, 22 Sep 2025 08:33:00 GMT | ¿Por qué el Oso Grizzly? | Francisco Perezballadares | [Read More](https://medium.com/p/2f3e489a5f06) |
+| Mon, 22 Sep 2025 08:30:04 GMT | When My Brother Found Out His Online Girlfriend Never Existed | Shahzaib | [Read More](https://medium.com/p/77260ad74bd1) |
 | Mon, 22 Sep 2025 08:16:38 GMT | How Strategic VAPT Certification Secures Organizations and Builds Digital Trust | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/be84bc08b9a8) |
 | Mon, 22 Sep 2025 08:15:26 GMT | ประจำวันจันทร์ที่ 22 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/a947d6bc0e78) |
 | Mon, 22 Sep 2025 08:13:01 GMT | Deepfakes and Cybersecurity: Why I No Longer Trust What I See Online | Alex Hughes | [Read More](https://medium.com/p/0e9c2e5cfe22) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 03:29:04 GMT | Solving the 0x41haz Challenge on TryHackMe: A Step-by-Step Reversing Walkthrough | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/2c9ef807e6d3) |
 | Mon, 22 Sep 2025 03:25:59 GMT | Analytics Gone Wild: How I Turned a Tracking Pixel Into a User Data Firehose | Iski | [Read More](https://medium.com/p/f178d83a1f75) |
 | Mon, 22 Sep 2025 03:24:08 GMT | 15 Costly AI-Based Cyberattacks, What Was Lost, Cost Paid, And What Could Have Prevented Them | Roger Millar | [Read More](https://medium.com/p/f6099c800b1a) |
-| Mon, 22 Sep 2025 03:20:32 GMT | How Free Antivirus Leaves Your Digital Life Exposed — The Illusion of Protection | David SEHYEON Baek | [Read More](https://medium.com/p/857892a0f4ea) |
-| Mon, 22 Sep 2025 03:19:47 GMT | Praktikum Internet of Things: Digital Input | Muhammad Surya Saputro | [Read More](https://medium.com/p/72f98f12fe26) |
-| Mon, 22 Sep 2025 03:19:13 GMT | Linux Security Exploits and Mitigation | Eren Cankut Uysal | [Read More](https://medium.com/p/04c948a138dd) |
-| Mon, 22 Sep 2025 03:14:21 GMT | Zambia Moves to Boost Digital Services and Strengthen Cybersecurity | Chipo Banda | [Read More](https://medium.com/p/a5c91670229c) |
-| Mon, 22 Sep 2025 03:13:13 GMT | Securing Wireless Networks | Jon Wick | [Read More](https://medium.com/p/6885314feca1) |
