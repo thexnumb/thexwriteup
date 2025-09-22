@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 16:38:17 GMT | Failing to Update Systems and Software | Ehsanm135 | [Read More](https://medium.com/p/15cb6a31c754) |
+| Mon, 22 Sep 2025 16:35:31 GMT | Linux Kernel Hacking: A Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/a28aaecf2fd0) |
+| Mon, 22 Sep 2025 16:34:54 GMT | Cybersecurity is often associated with advanced technologies — SIEMs, AI-driven detection systems… | MANDAR GANGURDE | [Read More](https://medium.com/p/61b0a5cec614) |
+| Mon, 22 Sep 2025 16:31:45 GMT | RaaS, Inc.: How Cybercrime Turned Into a SaaS Business | Nexumo | [Read More](https://medium.com/p/0401f1fb18db) |
+| Mon, 22 Sep 2025 16:31:45 GMT | When Your Fridge Spies on You | Modexa | [Read More](https://medium.com/p/5ed0a192e8c1) |
+| Mon, 22 Sep 2025 16:25:41 GMT | Bypassing heavy SSRF protection — AppSecMaster challenge writeup | 0xMyth | [Read More](https://medium.com/p/8624e0ceed61) |
+| Mon, 22 Sep 2025 16:22:44 GMT | Attending DEF CON 33 as a novice in 2025 | VXRL | [Read More](https://medium.com/p/e23f2fc1f74a) |
 | Mon, 22 Sep 2025 16:18:01 GMT | MalBuster — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/4a24c95086f6) |
 | Mon, 22 Sep 2025 16:17:58 GMT | Network Security: Protecting Your Digital Infrastructure | secureroot | [Read More](https://medium.com/p/3766024bb6a6) |
 | Mon, 22 Sep 2025 16:16:56 GMT | That Useless Kid Who’s On a Mission to Make People Useful | Vijay Kumar Gupta | [Read More](https://medium.com/p/7353afcd4d84) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 12:23:22 GMT | ️The dark art of homoglyph attacks. ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/48cbb6e19409) |
 | Mon, 22 Sep 2025 12:22:21 GMT | Security Officer Application — Steps, Requirements & Career Tips | NJ SORA Professionals | [Read More](https://medium.com/p/42c1554b8893) |
 | Mon, 22 Sep 2025 12:15:43 GMT | Gmail Hack - Requirements - Hire Hacker | BlackHat | [Read More](https://medium.com/p/59c59c648e82) |
-| Mon, 22 Sep 2025 12:14:01 GMT | How to Balance Performance and Privacy with AI-based Surveillance? | sanya | [Read More](https://medium.com/p/b4732f3704f5) |
-| Mon, 22 Sep 2025 12:09:54 GMT | Enhancing Cybersecurity with AI-Driven SOC Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/0b8b14eaf843) |
-| Mon, 22 Sep 2025 12:05:21 GMT | Dynatrace Güvenlik Uygulaması ve Referans Zamanlarıyla Bağlam Oluşturun | Perform Yazılım | [Read More](https://medium.com/p/2719ca151b33) |
-| Mon, 22 Sep 2025 11:58:08 GMT | Rapid Response with Cybersecurity Remediation and Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/bc74a77a40a2) |
-| Mon, 22 Sep 2025 11:57:31 GMT | Tryhackme — Thompson writeup | Siaka | [Read More](https://medium.com/p/703878ab3231) |
-| Mon, 22 Sep 2025 11:56:17 GMT | Trust the experts | Trust Me I'm A Philosopher | [Read More](https://medium.com/p/352dc6a34dd4) |
-| Mon, 22 Sep 2025 11:51:06 GMT | Every 39 Seconds, Someone’s Private Messages Get Exposed: Here’s How to Build the Messaging App… | Mind Studios | [Read More](https://medium.com/p/22fc0f67c9ef) |
