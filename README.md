@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 12:32:46 GMT | Stopping AiTM Phishing at the Source with Entra ID, Logic Apps, and Microsoft Sentinel | Jasper Minnaert | [Read More](https://medium.com/p/82684d1a10ea) |
+| Mon, 22 Sep 2025 12:30:44 GMT | Why Are Small Businesses Adopting Advanced IT Solutions in India? | Noahlucas | [Read More](https://medium.com/p/22837484138f) |
+| Mon, 22 Sep 2025 12:23:22 GMT | ️The dark art of homoglyph attacks. ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/48cbb6e19409) |
+| Mon, 22 Sep 2025 12:22:21 GMT | Security Officer Application — Steps, Requirements & Career Tips | NJ SORA Professionals | [Read More](https://medium.com/p/42c1554b8893) |
+| Mon, 22 Sep 2025 12:15:43 GMT | Gmail Hack - Requirements - Hire Hacker | BlackHat | [Read More](https://medium.com/p/59c59c648e82) |
+| Mon, 22 Sep 2025 12:14:01 GMT | How to Balance Performance and Privacy with AI-based Surveillance? | sanya | [Read More](https://medium.com/p/b4732f3704f5) |
+| Mon, 22 Sep 2025 12:09:54 GMT | Enhancing Cybersecurity with AI-Driven SOC Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/0b8b14eaf843) |
+| Mon, 22 Sep 2025 12:05:21 GMT | Dynatrace Güvenlik Uygulaması ve Referans Zamanlarıyla Bağlam Oluşturun | Perform Yazılım | [Read More](https://medium.com/p/2719ca151b33) |
+| Mon, 22 Sep 2025 11:58:08 GMT | Rapid Response with Cybersecurity Remediation and Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/bc74a77a40a2) |
+| Mon, 22 Sep 2025 11:56:17 GMT | Trust the experts | Trust Me I'm A Philosopher | [Read More](https://medium.com/p/352dc6a34dd4) |
+| Mon, 22 Sep 2025 11:51:06 GMT | Every 39 Seconds, Someone’s Private Messages Get Exposed: Here’s How to Build the Messaging App… | Mind Studios | [Read More](https://medium.com/p/22fc0f67c9ef) |
+| Mon, 22 Sep 2025 11:43:00 GMT | IMaiL™: Redefining Communication Metrics in the AI Age | Stephen Pettifor | [Read More](https://medium.com/p/8d2cb4280389) |
+| Mon, 22 Sep 2025 11:35:12 GMT | Deploying Wazuh Agent on Windows | Enes Ismaili | [Read More](https://medium.com/p/57c55fe09203) |
 | Mon, 22 Sep 2025 11:31:18 GMT | How Secrets Leak in Docker — I Tested This on AWS and Was Shocked! | Ihsandmrci | [Read More](https://medium.com/p/2d5a97986f72) |
+| Mon, 22 Sep 2025 11:29:40 GMT | Rest Assured: Love that Makes You Feel Safe, Seen, and Cherished | mari | [Read More](https://medium.com/p/ed87804db9e2) |
 | Mon, 22 Sep 2025 11:17:42 GMT | OLED Display Materials Market: Lighting the Future of Displays | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/2ed1783e6f30) |
 | Mon, 22 Sep 2025 11:13:34 GMT | Seamless Email Migration Services in UAE for Businesses | Cost To Cost | [Read More](https://medium.com/p/870da181e216) |
 | Mon, 22 Sep 2025 11:03:18 GMT | Decoding Linux Logs: A SOC Analyst’s Guide to the TryHackMe Room | Furkanctiner | [Read More](https://medium.com/p/6cf3432f0047) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 06:44:06 GMT | How AI is Changing Cybersecurity in 2025 | ZoneTechAi | [Read More](https://medium.com/p/6eee061f7045) |
 | Mon, 22 Sep 2025 06:42:27 GMT | Why React Hooks Are Actually Terrible for Large Applications | Rizqi Mulki | [Read More](https://medium.com/p/4bd357851c05) |
 | Mon, 22 Sep 2025 06:42:09 GMT | A Guide to the Top 10 Cybersecurity Service Providers | Quadrant IT Services | [Read More](https://medium.com/p/9543a55a6a5b) |
-| Mon, 22 Sep 2025 06:41:36 GMT | Top 10 Data Privacy Laws Every Business Should Know | Hansen Tong | [Read More](https://medium.com/p/525d3fd20237) |
-| Mon, 22 Sep 2025 06:35:20 GMT | Keep Hackers Out with Multi-User Authorization for Azure Backups | Brian Veldman | [Read More](https://medium.com/p/dd4d7c0d3257) |
-| Mon, 22 Sep 2025 06:31:46 GMT | 8 Key Features of Advanced JWT Security for Node.js | Arunangshu Das | [Read More](https://medium.com/p/a489559eb88e) |
-| Mon, 22 Sep 2025 06:30:39 GMT | The Philosophy of Tech | CodeZen | [Read More](https://medium.com/p/9dad937ea9c3) |
-| Mon, 22 Sep 2025 06:30:19 GMT | SQL Injection UNION Attack — Determining the Number of Columns Returned By Query | Bash Overflow | [Read More](https://medium.com/p/d12ad1117cb9) |
-| Mon, 22 Sep 2025 06:27:59 GMT | The Weird Signup Bug That Let Me Delete Anyone’s Account | CyberHead | [Read More](https://medium.com/p/ce3945ed91af) |
-| Mon, 22 Sep 2025 06:19:03 GMT | What an IP Address Really Reveals About Your Visitors | Fraudo.io | [Read More](https://medium.com/p/5b81485dc9a1) |
-| Mon, 22 Sep 2025 06:18:59 GMT | Static Proxy IPs: Building Security, Stability, and Compliance Into Enterprise Networks | Blanche X | [Read More](https://medium.com/p/9994abcc63e2) |
-| Mon, 22 Sep 2025 06:14:25 GMT | Strengthening Cyber Defences: The Rising Demand for Penetration Testing | snsinsider05 | [Read More](https://medium.com/p/a531b2ec3cc0) |
-| Mon, 22 Sep 2025 06:11:57 GMT | HackTheBox : ExpressWay (Easy) | Binary Exploiter | [Read More](https://medium.com/p/8914414d13ff) |
-| Mon, 22 Sep 2025 06:10:02 GMT | Understanding Generative AI Security: A Guide to the Key Risks | CyDhaal | [Read More](https://medium.com/p/91b372691776) |
-| Mon, 22 Sep 2025 06:09:59 GMT | Why Cybersecurity Education Needs More Storytelling | Shahzaib | [Read More](https://medium.com/p/b220b4e04712) |
-| Mon, 22 Sep 2025 06:09:43 GMT | Top 10 Smallest Hacker Gadgets and Their Ethical Uses in Pen Testing | Manisha Chaudhary | [Read More](https://medium.com/p/03ec302bd68a) |
-| Mon, 22 Sep 2025 06:06:26 GMT | DC-2 Walkthrough Vulnhub | Ankit Dhaka | [Read More](https://medium.com/p/06bea3bd16ed) |
