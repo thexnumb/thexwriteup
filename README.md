@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 08:16:38 GMT | How Strategic VAPT Certification Secures Organizations and Builds Digital Trust | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/be84bc08b9a8) |
+| Mon, 22 Sep 2025 08:15:26 GMT | ประจำวันจันทร์ที่ 22 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/a947d6bc0e78) |
+| Mon, 22 Sep 2025 08:13:01 GMT | Deepfakes and Cybersecurity: Why I No Longer Trust What I See Online | Alex Hughes | [Read More](https://medium.com/p/0e9c2e5cfe22) |
+| Mon, 22 Sep 2025 08:07:11 GMT | You wound me and I fall silent, yet I worry that my silence has wounded you | WillowFaye | [Read More](https://medium.com/p/9fac96f460be) |
+| Mon, 22 Sep 2025 08:04:03 GMT | Best AWS Training and Certification in Delhi | cyber security Updates | [Read More](https://medium.com/p/0057f67adbdd) |
+| Mon, 22 Sep 2025 08:03:39 GMT | Converting a Hexadecimal Number to Binary | Michael | [Read More](https://medium.com/p/89db221b5fc2) |
+| Mon, 22 Sep 2025 08:03:33 GMT | Melek Digital di Era Disrupsi | Lingkar Literasi Mahasiswa | [Read More](https://medium.com/p/c787fcf3625a) |
+| Mon, 22 Sep 2025 08:01:52 GMT | OIDC-Only Terraform: Deploy from GitHub/GitLab Without Static Keys | Mohamed ElEmam | [Read More](https://medium.com/p/f0029ee3ce0c) |
+| Mon, 22 Sep 2025 08:00:46 GMT | Lock — EYCC Finals (Reverse Engineering) | محمد بن إبراهيم | [Read More](https://medium.com/p/54956386a93e) |
+| Mon, 22 Sep 2025 07:56:15 GMT | When Human and AI Consciousness Touch the Eternal | Levonne Gaddy | [Read More](https://medium.com/p/9bf8ca41d0f5) |
+| Mon, 22 Sep 2025 07:55:44 GMT | Shadow Enigma — EYCC Finals (Web) | محمد بن إبراهيم | [Read More](https://medium.com/p/71774061ebcc) |
+| Mon, 22 Sep 2025 07:50:41 GMT | Part III: Live Key Rotation with Nginx and Express | Raymon Epping | [Read More](https://medium.com/p/fd8aa5d85bd4) |
+| Mon, 22 Sep 2025 07:42:20 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/57ae0042edb5) |
+| Mon, 22 Sep 2025 07:36:08 GMT | Web Zafiyetleri Serisi #4 | Didem Kış | [Read More](https://medium.com/p/9cc6faaf1a57) |
+| Mon, 22 Sep 2025 07:34:26 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/b2931ac9cede) |
+| Mon, 22 Sep 2025 07:33:37 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/25ac818507f7) |
 | Mon, 22 Sep 2025 07:31:48 GMT | Ethical Hacking 2025: From Bounties to AI Pentests | Modexa | [Read More](https://medium.com/p/03a1edf078c1) |
+| Mon, 22 Sep 2025 07:31:12 GMT | Security Advisory — Multiple Vulnerabilities in Netgear WNR614 Router​ | Redfox Security | [Read More](https://medium.com/p/2c6abe2d3696) |
 | Mon, 22 Sep 2025 07:22:57 GMT | Is Cybersecurity a good career choice in 2025? | JetkingChandigarh | [Read More](https://medium.com/p/e5c278e363e2) |
 | Mon, 22 Sep 2025 07:16:33 GMT | Palitra AI: Turning AI Confidentiality Into a Living Game | Palitra.ai | [Read More](https://medium.com/p/035ac05e9efc) |
 | Mon, 22 Sep 2025 07:10:02 GMT | Next-Level Yields with BUG | BUG | [Read More](https://medium.com/p/e01678238afe) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 03:19:13 GMT | Linux Security Exploits and Mitigation | Eren Cankut Uysal | [Read More](https://medium.com/p/04c948a138dd) |
 | Mon, 22 Sep 2025 03:14:21 GMT | Zambia Moves to Boost Digital Services and Strengthen Cybersecurity | Chipo Banda | [Read More](https://medium.com/p/a5c91670229c) |
 | Mon, 22 Sep 2025 03:13:13 GMT | Securing Wireless Networks | Jon Wick | [Read More](https://medium.com/p/6885314feca1) |
-| Mon, 22 Sep 2025 03:04:56 GMT | Install or Update New Version Ghauri in WSL for testing SQL Injection | raflesia it | [Read More](https://medium.com/p/0f626a218190) |
-| Mon, 22 Sep 2025 03:01:50 GMT | U.S. Moves to Counter China’s Global Port Dominance | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/1d667e760773) |
-| Mon, 22 Sep 2025 02:59:41 GMT | AI and Adversarial Attacks | Cyber Security Research | [Read More](https://medium.com/p/52b87c37b9d7) |
-| Mon, 22 Sep 2025 02:54:00 GMT | The Future of Biometric Spoofing | Cyber Security Research | [Read More](https://medium.com/p/80784bae5eb2) |
-| Mon, 22 Sep 2025 02:52:09 GMT | Static Proxy IPs: A Technical Foundation for Enterprise Security and Compliance | Novada | [Read More](https://medium.com/p/d859112bba25) |
-| Mon, 22 Sep 2025 02:50:23 GMT | WinR(M), WinR(M), Chicken Dinner!: My notes for TryHackMe’s “Directory” challenge room (Part 1) | A Learner | [Read More](https://medium.com/p/674125d78144) |
-| Mon, 22 Sep 2025 02:49:15 GMT | What Does it Mean when an HPC Cluster or Workstation is Turnkey? | Emma Lyons | [Read More](https://medium.com/p/d8fffef0531d) |
-| Mon, 22 Sep 2025 02:47:58 GMT | Insider Threat Case Studies | Cyber Security Research | [Read More](https://medium.com/p/813965ffd298) |
-| Mon, 22 Sep 2025 02:45:35 GMT | Resonant Flow Detector: | Ceo Darkbot | [Read More](https://medium.com/p/c891f19c8363) |
-| Mon, 22 Sep 2025 02:41:13 GMT | The European Airport Cyberattack | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/95f761185033) |
-| Mon, 22 Sep 2025 02:34:46 GMT | The Role of Standards in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/ddec008a2159) |
-| Mon, 22 Sep 2025 02:28:50 GMT | Security in Agile Development Lifecycles | Cyber Security Research | [Read More](https://medium.com/p/449cd6a500e0) |
-| Mon, 22 Sep 2025 02:27:02 GMT | ️ How to Hunt Living-off-the-Land Attacks Like a Pro (Before They Hunt You) | Paritosh | [Read More](https://medium.com/p/545ed594f579) |
-| Mon, 22 Sep 2025 02:24:14 GMT | Day 5 — Burp Suite Essentials: Intercept, Manipulate, and Test Web Apps | OxErvin | [Read More](https://medium.com/p/6d87225a091a) |
-| Mon, 22 Sep 2025 02:23:09 GMT | The Role of Cybersecurity OEMs in Building Trust in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/e3cf1d9da879) |
-| Mon, 22 Sep 2025 02:23:00 GMT | Securing Virtual Reality Platforms | Cyber Security Research | [Read More](https://medium.com/p/1d3796b354a0) |
-| Mon, 22 Sep 2025 02:15:53 GMT | Cloud Security Posture Management | Cyber Security Research | [Read More](https://medium.com/p/6d68f1813cf8) |
