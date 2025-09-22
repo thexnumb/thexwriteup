@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 22:59:25 GMT | Nigeria’s Security Crisis: Reforming Intelligence, Collaboration, and ECOWAS Policies. | Mohammed Santuraki | [Read More](https://medium.com/p/3b19d601fcf5) |
+| Mon, 22 Sep 2025 22:52:20 GMT | Forget Nigerian Princes. The New Phishing Emails Are Written by AI. | Chris Zhang | [Read More](https://medium.com/p/63811d6b82c2) |
+| Mon, 22 Sep 2025 22:45:11 GMT | Part 1 : From backyard to battlefield. | Pipeline | [Read More](https://medium.com/p/574e8720244d) |
 | Mon, 22 Sep 2025 22:33:04 GMT | Why CISOs Fail at AI Governance | Cyber-AppSec | [Read More](https://medium.com/p/9e01100be9fb) |
 | Mon, 22 Sep 2025 22:31:01 GMT | ویژگی‌های فنی و کاربردهای سرور ML اچ پی | mona hashemi | [Read More](https://medium.com/p/258f1fa3a7a0) |
 | Mon, 22 Sep 2025 22:25:03 GMT | Who Reads You? | Agnes | [Read More](https://medium.com/p/4b6cf51839cb) |
@@ -111,6 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 16:52:13 GMT | How Hackers Actually Break Into Accounts (Explained Simply) | Aj | [Read More](https://medium.com/p/60fe6dc74130) |
 | Mon, 22 Sep 2025 16:51:44 GMT | Extract THM — Write Up | Thefrust | [Read More](https://medium.com/p/e55a460926b4) |
 | Mon, 22 Sep 2025 16:49:55 GMT | IEEE Mansoura CTF Qualifications 2025— Web(Snacks-Disapproved-VOID) | Abdelrahman Radwan | [Read More](https://medium.com/p/8967b31fe083) |
-| Mon, 22 Sep 2025 16:49:30 GMT | Linux Security Hardening: Advanced Methods | Eren Cankut Uysal | [Read More](https://medium.com/p/0f719e746257) |
-| Mon, 22 Sep 2025 16:45:11 GMT | SOC170 — Passwd Found in Requested URL — Possible LFI Attack | Cyber Burrito | [Read More](https://medium.com/p/447926de99ea) |
-| Mon, 22 Sep 2025 16:45:03 GMT | Securing WordPress in 2025 with Rainbow Secure: Smarter MFA & SSO | Dr. Shashi Karhail | [Read More](https://medium.com/p/f709387a5e1c) |
