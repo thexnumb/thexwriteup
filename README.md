@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 01:36:23 GMT | Uvalde CISD to Resume Classes After Ransomware Attack Disrupts Critical Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/820dcf6463fa) |
+| Mon, 22 Sep 2025 01:27:44 GMT | 20+ cURL Hacks That Will Make You a Bug Bounty Pro | Qasim Mahmood Khalid | [Read More](https://medium.com/p/186ecc51bff5) |
+| Mon, 22 Sep 2025 01:18:59 GMT | The Planet’s Prestige - Write-Up - Blue Team Labs Online | Harshal | [Read More](https://medium.com/p/2509180753cc) |
+| Mon, 22 Sep 2025 01:11:47 GMT | Hidden, Unprecedented Hacking Power of GPT-5 Uncovered | Wi-Fun | [Read More](https://medium.com/p/2c68840d6038) |
+| Mon, 22 Sep 2025 00:51:05 GMT | From Zero to Lab: A Step-by-Step Password Cracking Lab for Beginner Cybersecurity Interns | victor chibuike | [Read More](https://medium.com/p/1ba52a910966) |
+| Mon, 22 Sep 2025 00:45:50 GMT | 有內鬼！AI 工具遭植惡意軟體，資安紅色警報 | Eleon | [Read More](https://medium.com/p/2c8a8323a4ab) |
+| Mon, 22 Sep 2025 00:39:00 GMT | He Only Sees Love | Nascar Cooper | [Read More](https://medium.com/p/664665962baf) |
+| Mon, 22 Sep 2025 00:36:16 GMT | Security Hardening Beyond JWTs — Refresh Token Rotation, Silent Re-Auth & Cookie Security | Aryan Garg | [Read More](https://medium.com/p/a3b7f4fe0c06) |
+| Mon, 22 Sep 2025 00:32:04 GMT | 3rd week of Hacking… | John Mark | [Read More](https://medium.com/p/8679fd172d78) |
+| Mon, 22 Sep 2025 00:28:28 GMT | Signal, WhatsApp, or Telegram? A 2025 Coffee Shop Debate on Secure Messaging | Cyber Safety Zone | [Read More](https://medium.com/p/145c87e76d68) |
+| Mon, 22 Sep 2025 00:27:58 GMT | LLMSecGuard Paper Summary | Sanjit Mann | [Read More](https://medium.com/p/a8b8fdce3133) |
+| Mon, 22 Sep 2025 00:22:17 GMT | WhatsApp HACKED! | S.Ali | [Read More](https://medium.com/p/f7d31d80538d) |
+| Mon, 22 Sep 2025 00:16:42 GMT | The Python Decorator Patterns That Made My Code Cleaner Than Ever | Kainat Nafees | [Read More](https://medium.com/p/bbe906ed3b98) |
+| Sun, 21 Sep 2025 23:58:10 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #2 — Sheltering in Place to Outlast… | z3r0trust | [Read More](https://medium.com/p/ab3c323b0279) |
+| Sun, 21 Sep 2025 23:31:53 GMT | Securing Your Web App’s Staging Ground | Chris Chen | [Read More](https://medium.com/p/b9f5d4af5693) |
+| Sun, 21 Sep 2025 23:25:57 GMT | Security Interview Prep Series — 21. Penetration Testing | Shraddha M. | [Read More](https://medium.com/p/b91a70a8c6f2) |
 | Sun, 21 Sep 2025 23:04:45 GMT | Effective Vulnerability Management for PCI Compliance in Cloud-First Startups | Davids Olumide Michael | [Read More](https://medium.com/p/4c26f1736058) |
 | Sun, 21 Sep 2025 23:03:45 GMT | Everybody Wants to Taste Your Weak Spot | 007 | [Read More](https://medium.com/p/e8ef5fa883de) |
 | Sun, 21 Sep 2025 23:02:16 GMT | Why Security Teams Can’t Live Without SIEMs | Keren N Oduro | [Read More](https://medium.com/p/7c32b09681d0) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 21 Sep 2025 17:08:29 GMT | ‍☠️ CTF 101: A Beginner’s Guide to Cybersecurity Challenges | Abilash B | [Read More](https://medium.com/p/1542df8c7d68) |
 | Sun, 21 Sep 2025 17:08:21 GMT | From Zero to GenAI Security Hero: The Ultimate Guide That’ll Save Your Career (And Maybe Your… | Sumant Khapre | [Read More](https://medium.com/p/b4e37a1614e2) |
 | Sun, 21 Sep 2025 17:07:44 GMT | PG Practice — Craft (Windows) | Lepton | [Read More](https://medium.com/p/6bc81e86c65a) |
-| Sun, 21 Sep 2025 17:04:22 GMT | SUPPLY CHAIN ATTACKS IN DOCKER IMAGES: THE SILENT THREAT LURKING IN YOUR CONTAINERS | Ashwini Puranik | [Read More](https://medium.com/p/818dc04ab501) |
-| Sun, 21 Sep 2025 17:03:37 GMT | Mastering Nmap (Part 5) in 2025: Timing & Performance Optimization | appsecvenue | [Read More](https://medium.com/p/a2b98f187e0c) |
-| Sun, 21 Sep 2025 17:02:22 GMT | Why Most Cybersecurity Awareness Trainings Are a Joke | Cyberkech | [Read More](https://medium.com/p/a8dd953d8cf1) |
-| Sun, 21 Sep 2025 16:56:32 GMT | The Vulnerability Chronicles: My Finances and | DamnAmazon | [Read More](https://medium.com/p/ee4f13355d7c) |
-| Sun, 21 Sep 2025 16:50:46 GMT | Scaling Information Security: From One to Eighteen | Adish Jain | [Read More](https://medium.com/p/4bced52e9434) |
-| Sun, 21 Sep 2025 16:38:30 GMT | Week 7 of My 90-Day Challenge: The Calm Before the Storm? | Mike (sl0th0x87) | [Read More](https://medium.com/p/74bc4dea3231) |
-| Sun, 21 Sep 2025 16:31:46 GMT | 7 FastAPI Security Patterns That Don’t Slow Throughput | Bhagya Rana | [Read More](https://medium.com/p/9ba16483b288) |
-| Sun, 21 Sep 2025 16:23:39 GMT | DPRK Hackers Exploit Fake Job Interviews to Deploy BeaverTail Malware | Suhas Valasala | [Read More](https://medium.com/p/c0a21a2d8944) |
-| Sun, 21 Sep 2025 16:19:29 GMT | Why Modern Security Teams Need AI-Powered Analysts, Not Just More Tools❗ | SupportXDR | [Read More](https://medium.com/p/df2375f29c3e) |
-| Sun, 21 Sep 2025 16:14:57 GMT | Compliance Consulting Services in India | Lumiversesolution | [Read More](https://medium.com/p/692ee04979a5) |
-| Sun, 21 Sep 2025 16:13:01 GMT | Uncovering Local File Inclusion Vulnerabilities: A Practical Approach to Path Traversal Hunting | Kocheengtom | [Read More](https://medium.com/p/f59fb9538f2e) |
-| Sun, 21 Sep 2025 16:11:24 GMT | Why Choose a Security Company for Office Buildings Miami You Can Trust | Onyx Protective Services | [Read More](https://medium.com/p/8ba1276f66c8) |
-| Sun, 21 Sep 2025 16:08:12 GMT | Canada Dismantles TradeOgre Crypto Exchange, Seizes $40 Million | Suhas Valasala | [Read More](https://medium.com/p/275a686f5cda) |
-| Sun, 21 Sep 2025 16:05:55 GMT | Why School Security Guard Services Georgia Are Vital for Campus Safety | Onyx Protective Services | [Read More](https://medium.com/p/7df586cbaf0f) |
-| Sun, 21 Sep 2025 16:05:34 GMT | Descubriendo Puertas Ocultas: Guía Enumeración Web con Dirb, Gobuster y FFUF en Metasploitable 2 | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/daf175b4e7d3) |
-| Sun, 21 Sep 2025 16:04:10 GMT | Navigating User Privacy in the Age of Generative AI | Rohit Ranjan | [Read More](https://medium.com/p/5ddc9f69258c) |
