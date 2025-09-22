@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 18:40:57 GMT | Hands-On Cybersecurity: Deploying Web Server and Monitoring with Wazuh SIEM | Solomon Yaoh | [Read More](https://medium.com/p/ad568295e8e9) |
+| Mon, 22 Sep 2025 18:33:11 GMT | THM - Sequence | Francesco Pastore | [Read More](https://medium.com/p/ef029c3e54c0) |
+| Mon, 22 Sep 2025 18:29:50 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2e6e5d3900d1) |
+| Mon, 22 Sep 2025 18:29:48 GMT | How I Hacked My Friends Portfolio (Clickjacking Exploit) | 693 Varad Bandekar | [Read More](https://medium.com/p/7b5b2c5936e5) |
 | Mon, 22 Sep 2025 18:24:15 GMT | Recon Like a Pro: Manual + Automated for the Best of Both Worlds | Viratavi | [Read More](https://medium.com/p/2e3845f1b661) |
 | Mon, 22 Sep 2025 18:17:06 GMT | Monday Cyber Brief — September 22 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/71615f21170a) |
 | Mon, 22 Sep 2025 18:16:57 GMT | Taking a step back… | OluwapelumiOyerinde | [Read More](https://medium.com/p/5847a1aee71d) |
@@ -101,14 +105,10 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 14:25:58 GMT | PicoCTF Challenge :  Collaborative Development Solved | Nanda Aditya Putra | [Read More](https://medium.com/p/4fb720e17254) |
 | Mon, 22 Sep 2025 14:24:48 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/72fe9bb9a7b7) |
 | Mon, 22 Sep 2025 14:22:00 GMT | Session 1: Introduction & Topology Setup (Kali VM ↔ Windows Host) | Axel Liang Gono | [Read More](https://medium.com/p/7ac22806e1eb) |
+| Mon, 22 Sep 2025 14:20:11 GMT | Memahami Konsep Inheritance dalam Pemrograman Berorientasi Objek dengan Java | Yofi Widiyanto | [Read More](https://medium.com/p/a5c0241cb28b) |
 | Mon, 22 Sep 2025 14:17:54 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/9bd44b6cc52d) |
 | Mon, 22 Sep 2025 14:13:43 GMT | Proactive Cybersecurity Services by Tudip Technologies: | Debasis Rath | [Read More](https://medium.com/p/910a56dffa67) |
 | Mon, 22 Sep 2025 14:13:37 GMT | SpamGPT: the CRM-for-cybercriminals turning phishing into an industrialized business. | eL Njas!™ | [Read More](https://medium.com/p/389003369088) |
 | Mon, 22 Sep 2025 14:11:49 GMT | Best Cyber Security Institute in Bangalore: What Makes the Right Training Partner? | Sureshnextwebi | [Read More](https://medium.com/p/359e4ad53823) |
 | Mon, 22 Sep 2025 14:08:49 GMT | The AI Therapist: Would You Confess Your Secrets to a Machine? | Travis Ray Caverhill | [Read More](https://medium.com/p/59d5e6606539) |
 | Mon, 22 Sep 2025 14:06:02 GMT | Understanding ICS Threat Actors: From Nation-States to Cybercriminals | Cyberkech | [Read More](https://medium.com/p/88a0ea9dd894) |
-| Mon, 22 Sep 2025 14:01:49 GMT | How to Change a Door Lock Cylinder: Easy Lock Replacement | Sure Lock & Key LLC | [Read More](https://medium.com/p/7adc2118aeaa) |
-| Mon, 22 Sep 2025 14:01:48 GMT | Microsoft Fabric Security and Governance | Sridhar | [Read More](https://medium.com/p/458585cbc48a) |
-| Mon, 22 Sep 2025 14:01:48 GMT | Cyber Briefing: 2025.09.22 | CyberMaterial | [Read More](https://medium.com/p/d439201cc799) |
-| Mon, 22 Sep 2025 14:00:24 GMT | Why Drosera Puts Security First in DeFi ? | npccrypto | [Read More](https://medium.com/p/b69ae5f1c6e1) |
-| Mon, 22 Sep 2025 13:52:44 GMT | Fewer Dependencies, Stronger Software: A Practical Guide to Reducing Supply Chain Risk | Deepak Mardi | [Read More](https://medium.com/p/f3f513c2e0e4) |
