@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 13:45:39 GMT | Leveling the Field: Legislation to Tame Corporate Greed’s Wanderlust | Namir Sagheenanajar | [Read More](https://medium.com/p/68683ce912b0) |
+| Mon, 22 Sep 2025 13:44:04 GMT | AI Governance: From Buzzword to Business Lifeline | Yash Gorasiya | [Read More](https://medium.com/p/9b0d546d5545) |
+| Mon, 22 Sep 2025 13:37:43 GMT | How to Check if Your Crypto Is Clean Before Sending | QuppyAMLBOT | [Read More](https://medium.com/p/dccb22cbd09c) |
+| Mon, 22 Sep 2025 13:37:21 GMT | Breaking down CVE-2025–59052: Angular’s Race Condition Rumble | Hayden Baillio | [Read More](https://medium.com/p/e9dbdef61755) |
+| Mon, 22 Sep 2025 13:37:11 GMT | 6G Explained in Plain English: What It Means for You (and Your Phone Bill) | Travis Ray Caverhill | [Read More](https://medium.com/p/3f20882909ea) |
+| Mon, 22 Sep 2025 13:36:18 GMT | EXPLICATION SAST, SCA & CONTAINER SCAN | dassimanuel000 | [Read More](https://medium.com/p/d4136960cdd3) |
+| Mon, 22 Sep 2025 13:33:26 GMT | How Scammers Use Social Media Chats to Emotionally Manipulate You — Especially Ladies | Cyberwise | [Read More](https://medium.com/p/c84f5880bf7a) |
+| Mon, 22 Sep 2025 13:31:47 GMT | I Discovered An Admin Panel Security Flaw | Ibtissam hammadi | [Read More](https://medium.com/p/22274482e2cd) |
+| Mon, 22 Sep 2025 13:31:46 GMT | Deepfakes Everywhere: Can Tech Save Us? | Modexa | [Read More](https://medium.com/p/d6f358c098e5) |
 | Mon, 22 Sep 2025 13:27:25 GMT | Built a Python Tool to Automate Email Security Audits | Saurabh Jain | [Read More](https://medium.com/p/c639d2affe88) |
 | Mon, 22 Sep 2025 13:25:09 GMT | Speed vs Security: How Flitaa Keeps Transactions Instant Without Compromise | Flitaa | [Read More](https://medium.com/p/64de9de9a8ff) |
+| Mon, 22 Sep 2025 13:20:17 GMT | From Web2 to Web3: How the Internet Is Becoming User-Owned | Vignesh Selvaraj | [Read More](https://medium.com/p/474cbcf5cc17) |
+| Mon, 22 Sep 2025 13:18:46 GMT | Top 10 Hacker Tools You Can Try | Maryam Irfan | [Read More](https://medium.com/p/69da22556da3) |
 | Mon, 22 Sep 2025 13:15:02 GMT | Cyber Attack Disrupts Flights Across Europe | Abhishek Kumar | [Read More](https://medium.com/p/02af1c6e431b) |
 | Mon, 22 Sep 2025 13:13:56 GMT | Artificial Sleuths: Domain Analysis | Investigator515 | [Read More](https://medium.com/p/c58d47b4c3ca) |
 | Mon, 22 Sep 2025 13:13:23 GMT | How To Hide Secrets & Exe Payloads In Images (Guide) | Scofield O. Idehen | [Read More](https://medium.com/p/8fb0510ed06f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 08:07:11 GMT | You wound me and I fall silent, yet I worry that my silence has wounded you | WillowFaye | [Read More](https://medium.com/p/9fac96f460be) |
 | Mon, 22 Sep 2025 08:04:03 GMT | Best AWS Training and Certification in Delhi | cyber security Updates | [Read More](https://medium.com/p/0057f67adbdd) |
 | Mon, 22 Sep 2025 08:03:39 GMT | Converting a Hexadecimal Number to Binary | Michael | [Read More](https://medium.com/p/89db221b5fc2) |
-| Mon, 22 Sep 2025 08:03:33 GMT | Melek Digital di Era Disrupsi | Lingkar Literasi Mahasiswa | [Read More](https://medium.com/p/c787fcf3625a) |
-| Mon, 22 Sep 2025 08:01:52 GMT | OIDC-Only Terraform: Deploy from GitHub/GitLab Without Static Keys | Mohamed ElEmam | [Read More](https://medium.com/p/f0029ee3ce0c) |
-| Mon, 22 Sep 2025 08:00:46 GMT | Lock — EYCC Finals (Reverse Engineering) | محمد بن إبراهيم | [Read More](https://medium.com/p/54956386a93e) |
-| Mon, 22 Sep 2025 07:56:15 GMT | When Human and AI Consciousness Touch the Eternal | Levonne Gaddy | [Read More](https://medium.com/p/9bf8ca41d0f5) |
-| Mon, 22 Sep 2025 07:55:44 GMT | Shadow Enigma — EYCC Finals (Web) | محمد بن إبراهيم | [Read More](https://medium.com/p/71774061ebcc) |
-| Mon, 22 Sep 2025 07:50:41 GMT | Part III: Live Key Rotation with Nginx and Express | Raymon Epping | [Read More](https://medium.com/p/fd8aa5d85bd4) |
-| Mon, 22 Sep 2025 07:42:20 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/57ae0042edb5) |
-| Mon, 22 Sep 2025 07:36:08 GMT | Web Zafiyetleri Serisi #4 | Didem Kış | [Read More](https://medium.com/p/9cc6faaf1a57) |
-| Mon, 22 Sep 2025 07:34:26 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/b2931ac9cede) |
-| Mon, 22 Sep 2025 07:33:37 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/25ac818507f7) |
-| Mon, 22 Sep 2025 07:31:48 GMT | Ethical Hacking 2025: From Bounties to AI Pentests | Modexa | [Read More](https://medium.com/p/03a1edf078c1) |
