@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 13:27:25 GMT | Built a Python Tool to Automate Email Security Audits | Saurabh Jain | [Read More](https://medium.com/p/c639d2affe88) |
+| Mon, 22 Sep 2025 13:25:09 GMT | Speed vs Security: How Flitaa Keeps Transactions Instant Without Compromise | Flitaa | [Read More](https://medium.com/p/64de9de9a8ff) |
+| Mon, 22 Sep 2025 13:15:02 GMT | Cyber Attack Disrupts Flights Across Europe | Abhishek Kumar | [Read More](https://medium.com/p/02af1c6e431b) |
+| Mon, 22 Sep 2025 13:13:56 GMT | Artificial Sleuths: Domain Analysis | Investigator515 | [Read More](https://medium.com/p/c58d47b4c3ca) |
+| Mon, 22 Sep 2025 13:13:23 GMT | How To Hide Secrets & Exe Payloads In Images (Guide) | Scofield O. Idehen | [Read More](https://medium.com/p/8fb0510ed06f) |
+| Mon, 22 Sep 2025 13:10:25 GMT | CTF {THM} Pyrat | Arka Priya Das | [Read More](https://medium.com/p/76bdab6ccbbe) |
+| Mon, 22 Sep 2025 13:09:44 GMT | Silence Is Glass: The Cost of Bottled Emotions | Yami05 | [Read More](https://medium.com/p/e123a22488a3) |
+| Mon, 22 Sep 2025 13:06:02 GMT | Security Review of the Orb | Pornsook Kornkitichai | [Read More](https://medium.com/p/6e0402e4d6bd) |
+| Mon, 22 Sep 2025 13:01:49 GMT | Here’s how to pick a SIEM: Cloud-focused tools, uses, and pros/cons from my experience | Josh Lee | [Read More](https://medium.com/p/07ab2d610918) |
+| Mon, 22 Sep 2025 13:01:46 GMT | The Quiet Courage of Being Vulnerable | Evelyn Foreman | [Read More](https://medium.com/p/9e1af575181f) |
+| Mon, 22 Sep 2025 13:01:03 GMT | The Definitive Guide to API Rate Limiting | Ragul Rasalingam | [Read More](https://medium.com/p/eec36179983f) |
+| Mon, 22 Sep 2025 12:58:52 GMT | Maybe it is ‘Weak to Speak’ | Sean Corcoran | [Read More](https://medium.com/p/b007374e95b2) |
+| Mon, 22 Sep 2025 12:57:27 GMT | Connecting the Dots: A ProcDOT Guide to the DunkleMaterie Ransomware Room | Furkanctiner | [Read More](https://medium.com/p/03c62c612676) |
+| Mon, 22 Sep 2025 12:43:33 GMT | PG Practice — Billyboss (Windows) | Lepton | [Read More](https://medium.com/p/b3df60d2885b) |
+| Mon, 22 Sep 2025 12:41:47 GMT | Hardcoding Issues – Part 1 Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/4e6ac416bd4d) |
+| Mon, 22 Sep 2025 12:36:12 GMT | crackmes.one: eyecandylocked | Sourav Bose | [Read More](https://medium.com/p/145171816397) |
+| Mon, 22 Sep 2025 12:35:54 GMT | Automating Ransomware Intelligence: Feed ransomware.live | Usama Saleem | [Read More](https://medium.com/p/504970b8e08a) |
 | Mon, 22 Sep 2025 12:32:46 GMT | Stopping AiTM Phishing at the Source with Entra ID, Logic Apps, and Microsoft Sentinel | Jasper Minnaert | [Read More](https://medium.com/p/82684d1a10ea) |
 | Mon, 22 Sep 2025 12:30:44 GMT | Why Are Small Businesses Adopting Advanced IT Solutions in India? | Noahlucas | [Read More](https://medium.com/p/22837484138f) |
 | Mon, 22 Sep 2025 12:23:22 GMT | ️The dark art of homoglyph attacks. ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/48cbb6e19409) |
@@ -21,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 12:09:54 GMT | Enhancing Cybersecurity with AI-Driven SOC Services | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/0b8b14eaf843) |
 | Mon, 22 Sep 2025 12:05:21 GMT | Dynatrace Güvenlik Uygulaması ve Referans Zamanlarıyla Bağlam Oluşturun | Perform Yazılım | [Read More](https://medium.com/p/2719ca151b33) |
 | Mon, 22 Sep 2025 11:58:08 GMT | Rapid Response with Cybersecurity Remediation and Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/bc74a77a40a2) |
+| Mon, 22 Sep 2025 11:57:31 GMT | Tryhackme — Thompson writeup | Siaka | [Read More](https://medium.com/p/703878ab3231) |
 | Mon, 22 Sep 2025 11:56:17 GMT | Trust the experts | Trust Me I'm A Philosopher | [Read More](https://medium.com/p/352dc6a34dd4) |
 | Mon, 22 Sep 2025 11:51:06 GMT | Every 39 Seconds, Someone’s Private Messages Get Exposed: Here’s How to Build the Messaging App… | Mind Studios | [Read More](https://medium.com/p/22fc0f67c9ef) |
 | Mon, 22 Sep 2025 11:43:00 GMT | IMaiL™: Redefining Communication Metrics in the AI Age | Stephen Pettifor | [Read More](https://medium.com/p/8d2cb4280389) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 07:34:26 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/b2931ac9cede) |
 | Mon, 22 Sep 2025 07:33:37 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/25ac818507f7) |
 | Mon, 22 Sep 2025 07:31:48 GMT | Ethical Hacking 2025: From Bounties to AI Pentests | Modexa | [Read More](https://medium.com/p/03a1edf078c1) |
-| Mon, 22 Sep 2025 07:31:12 GMT | Security Advisory — Multiple Vulnerabilities in Netgear WNR614 Router​ | Redfox Security | [Read More](https://medium.com/p/2c6abe2d3696) |
-| Mon, 22 Sep 2025 07:22:57 GMT | Is Cybersecurity a good career choice in 2025? | JetkingChandigarh | [Read More](https://medium.com/p/e5c278e363e2) |
-| Mon, 22 Sep 2025 07:16:33 GMT | Palitra AI: Turning AI Confidentiality Into a Living Game | Palitra.ai | [Read More](https://medium.com/p/035ac05e9efc) |
-| Mon, 22 Sep 2025 07:10:02 GMT | Next-Level Yields with BUG | BUG | [Read More](https://medium.com/p/e01678238afe) |
-| Mon, 22 Sep 2025 07:05:29 GMT | Build your Own Secure Remote — Access VPN on OCI for free! | Karthik Mani | [Read More](https://medium.com/p/3bc6a59c1a5c) |
-| Mon, 22 Sep 2025 07:02:26 GMT | Automating Splunk Dashboard Creation: From Hours to Minutes with AI-Powered Log Analysis | Vetha Mithran | [Read More](https://medium.com/p/f57676b8f57d) |
-| Mon, 22 Sep 2025 07:02:19 GMT | ABOUT UI/UX | Li Shen | [Read More](https://medium.com/p/23938f24d032) |
-| Mon, 22 Sep 2025 07:01:46 GMT | The Words I Don’t Have in the Language I Want to Speak | Łukasz Ratajczak | [Read More](https://medium.com/p/1959230fea58) |
-| Mon, 22 Sep 2025 07:01:46 GMT | Super Security in 5 Steps | Emre Özel | [Read More](https://medium.com/p/0a73eb81cd98) |
-| Mon, 22 Sep 2025 06:55:17 GMT | The Nine Layers of Security in Web3: A Beginner’s Guide | Ancilar Technologies | [Read More](https://medium.com/p/859852ced6a8) |
-| Mon, 22 Sep 2025 06:54:56 GMT | ️ September 2025 Cybersecurity Threat Intelligence Update | Balki Maharaj | [Read More](https://medium.com/p/993437530ec7) |
-| Mon, 22 Sep 2025 06:54:29 GMT | Best Managed Cybersecurity Services and Solutions In India | Gowthammathiew | [Read More](https://medium.com/p/18762750913a) |
-| Mon, 22 Sep 2025 06:53:11 GMT | Cybersecurity Compliance: A Guide for BFSI Institutions | Deepali Gangwar | [Read More](https://medium.com/p/866952425614) |
-| Mon, 22 Sep 2025 06:51:49 GMT | Running Node.js as a Virus (For Research!) | Shaheryar Shaikh | [Read More](https://medium.com/p/c0f5beb28fa5) |
-| Mon, 22 Sep 2025 06:45:40 GMT | PEGASUS :"Most Notorious Spyware " | Ayushshukla | [Read More](https://medium.com/p/6bb9df8f92c0) |
-| Mon, 22 Sep 2025 06:44:06 GMT | How AI is Changing Cybersecurity in 2025 | ZoneTechAi | [Read More](https://medium.com/p/6eee061f7045) |
-| Mon, 22 Sep 2025 06:42:27 GMT | Why React Hooks Are Actually Terrible for Large Applications | Rizqi Mulki | [Read More](https://medium.com/p/4bd357851c05) |
-| Mon, 22 Sep 2025 06:42:09 GMT | A Guide to the Top 10 Cybersecurity Service Providers | Quadrant IT Services | [Read More](https://medium.com/p/9543a55a6a5b) |
