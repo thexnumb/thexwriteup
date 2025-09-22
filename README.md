@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 22 Sep 2025 21:47:29 GMT | Notes of a 17-Year-Old Starting with Agentic AI and Network Security | Akvardarbugra | [Read More](https://medium.com/p/4e51fbb4f264) |
+| Mon, 22 Sep 2025 21:42:14 GMT | Anton’s Security Blog Quarterly Q3 2025 | Anton Chuvakin | [Read More](https://medium.com/p/74fc422be3d3) |
+| Mon, 22 Sep 2025 21:36:02 GMT | Cisco Catalyst 3560V1 Switch Temel Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/a9da7e98bbb2) |
 | Mon, 22 Sep 2025 21:31:39 GMT | Nmap Essentials | Shawn | [Read More](https://medium.com/p/43e8f0b6c0f1) |
 | Mon, 22 Sep 2025 21:29:14 GMT | “Harvest Now, Decrypt Later”: The Quiet Data War You’re Not Supposed to Notice | Greg Unger | [Read More](https://medium.com/p/1d9c5211ff23) |
 | Mon, 22 Sep 2025 21:28:59 GMT | Road to Cloud | Terry Cundiff | [Read More](https://medium.com/p/1ae9fca1369d) |
@@ -111,6 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 16:35:31 GMT | Linux Kernel Hacking: A Deep Dive | Eren Cankut Uysal | [Read More](https://medium.com/p/a28aaecf2fd0) |
 | Mon, 22 Sep 2025 16:34:54 GMT | Cybersecurity is often associated with advanced technologies — SIEMs, AI-driven detection systems… | MANDAR GANGURDE | [Read More](https://medium.com/p/61b0a5cec614) |
 | Mon, 22 Sep 2025 16:31:45 GMT | RaaS, Inc.: How Cybercrime Turned Into a SaaS Business | Nexumo | [Read More](https://medium.com/p/0401f1fb18db) |
-| Mon, 22 Sep 2025 16:31:45 GMT | When Your Fridge Spies on You | Modexa | [Read More](https://medium.com/p/5ed0a192e8c1) |
-| Mon, 22 Sep 2025 16:25:41 GMT | Bypassing heavy SSRF protection — AppSecMaster challenge writeup | 0xMyth | [Read More](https://medium.com/p/8624e0ceed61) |
-| Mon, 22 Sep 2025 16:22:44 GMT | Attending DEF CON 33 as a novice in 2025 | VXRL | [Read More](https://medium.com/p/e23f2fc1f74a) |
