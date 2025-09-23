@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 20:21:11 GMT | Why Professional Warehouse Security Guards Are Essential for Your Business | Nimra Sheikh | [Read More](https://medium.com/p/18f322f95d4f) |
 | Tue, 23 Sep 2025 20:09:06 GMT | The Crimeware Supply Chain | Deniz Topaloglu | [Read More](https://medium.com/p/3575f00480b4) |
 | Tue, 23 Sep 2025 20:08:33 GMT | The best approach to becoming a Pentester Specialist | Richard Wollyce | [Read More](https://medium.com/p/74891403a7fd) |
 | Tue, 23 Sep 2025 20:02:34 GMT | Attacks Without Attacks: The New Frontier of Cyber Risk | Andre Fernandes | [Read More](https://medium.com/p/16a775b916e2) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 14:46:23 GMT | Finance cyber’s plot twist: geopolitics. | Wes Young | [Read More](https://medium.com/p/6a734c1649cf) |
 | Tue, 23 Sep 2025 14:42:50 GMT | Breaking Down the First Four CISSP Security Domains: A Beginner’s Perspective | A Beginner's Perspective | [Read More](https://medium.com/p/9ff3d7fa591e) |
 | Tue, 23 Sep 2025 14:40:41 GMT | Bypass Brute-Force Protection | MOH FAIZ HIDAYATULLOH | [Read More](https://medium.com/p/44fad390360c) |
-| Tue, 23 Sep 2025 14:40:20 GMT | TryHackMe — OhSINT Room Walkthrough | devmorav | [Read More](https://medium.com/p/f1fc787dc621) |
