@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 04:39:05 GMT | The ShadowLeak Flaw: How Hackers Tricked ChatGPT Into Stealing Gmail Data | IamPreth | [Read More](https://medium.com/p/c9b2070b6f07) |
+| Tue, 23 Sep 2025 04:27:46 GMT | CyberTalents CTF: Bean Writeup - MehdiSec | MehediSec | [Read More](https://medium.com/p/868caebd75f8) |
 | Tue, 23 Sep 2025 04:08:17 GMT | The Day I Realized Being Broken Could Be Beautiful | vydhi | [Read More](https://medium.com/p/d28168863835) |
 | Tue, 23 Sep 2025 04:02:21 GMT | The Impact of AI-Generated Code on Application Security | Samina Perveen | [Read More](https://medium.com/p/c5234d3b98a9) |
 | Tue, 23 Sep 2025 03:56:42 GMT | How I can solve PicoCTF Challenge:Blame Game 2024 Edition with simple solution | Nanda Aditya Putra | [Read More](https://medium.com/p/d09c79be17ef) |
@@ -112,5 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 19:33:49 GMT | How I’m Creating My Cybersecurity Career from a Place of Flow vs. Force Part 2 | Wellness in Cybersecurity | [Read More](https://medium.com/p/883e9ad43ec2) |
 | Mon, 22 Sep 2025 19:32:03 GMT | Passwordless, Finally? | Modexa | [Read More](https://medium.com/p/3a6373d31b8c) |
 | Mon, 22 Sep 2025 19:32:03 GMT | Zero Trust, Zero Breaches? | Nexumo | [Read More](https://medium.com/p/8e86107aeb54) |
-| Mon, 22 Sep 2025 19:27:37 GMT | The BIG Takeover | Liam Goddard | [Read More](https://medium.com/p/ad97404a04e7) |
-| Mon, 22 Sep 2025 19:26:06 GMT | From Logs to Leads: A Practical Cyber Investigation of the Brutus Sherlock | Adam Goss | [Read More](https://medium.com/p/d7972af0aa61) |
