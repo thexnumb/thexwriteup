@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 16:20:44 GMT | Upgrading a 6TB+ OpenSearch Engine with 99.99% Uptime: A journey! | Sreemathi K R | [Read More](https://medium.com/p/17ed697ebeb2) |
+| Tue, 23 Sep 2025 16:17:37 GMT | CVE Deep Dive : CVE-2025–32463 | Optimus_Blue | [Read More](https://medium.com/p/a48025beaf21) |
+| Tue, 23 Sep 2025 16:11:47 GMT | Portswigger OAuth Authentication Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/e766a7402222) |
+| Tue, 23 Sep 2025 16:02:40 GMT | Port 21 FTP Enumeration and Exploit | Md. Raihan | [Read More](https://medium.com/p/85ca775e21b8) |
+| Tue, 23 Sep 2025 15:57:45 GMT | Building a Secure GenAI Policy Assistant with RAG, Guardrails, and Multi-Modal Search | Bravishanker | [Read More](https://medium.com/p/53145ec8b4d3) |
+| Tue, 23 Sep 2025 15:53:33 GMT | Scam Texts on Wheels: How SMS Blasters Hijack Your Phone | Ashish Mahure | [Read More](https://medium.com/p/a15db248b297) |
+| Tue, 23 Sep 2025 15:52:47 GMT | OSI Katmanları | Asude Handan Uslukılıç | [Read More](https://medium.com/p/d70ed0efa13b) |
+| Tue, 23 Sep 2025 15:51:53 GMT | Reconnaissance: Passive and Active Scanning (Part1) | mohandika | [Read More](https://medium.com/p/602824c4eb9f) |
+| Tue, 23 Sep 2025 15:41:46 GMT | SentryPC: The Digital Shield for School Internet Safety | Paul Meyer | [Read More](https://medium.com/p/cbd20e5d4c91) |
+| Tue, 23 Sep 2025 15:37:47 GMT | 7 Real-World Data Breaches Caused by Bad Auth Practices | Vaishnavi Kengale | [Read More](https://medium.com/p/b6083403a27c) |
 | Tue, 23 Sep 2025 15:31:47 GMT | Target Reconnaissance with OSINT Tools: Gathering Intelligence from Open Sources | Esra Kayhan | [Read More](https://medium.com/p/34b2ed945af8) |
 | Tue, 23 Sep 2025 15:30:29 GMT | The Hacker’s Guide to Customer Loyalty: Beyond Competitors and Copycats | Vijay Kumar Gupta | [Read More](https://medium.com/p/ad7e6680c9d0) |
 | Tue, 23 Sep 2025 15:18:47 GMT | picoCTF 2025 — Writeup: EVEN RSA CAN BE BROKEN??? | Kishor K. | [Read More](https://medium.com/p/7cedd5d639df) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 11:37:09 GMT | Penetration Testing Made Simple Kali MCP With Docker and Claude Desktop.. | Sasisachins | [Read More](https://medium.com/p/6d50a6a60300) |
 | Tue, 23 Sep 2025 11:34:54 GMT | Top 5 Penetration Testing Certifications in 2025 (Boost Your Ethical Hacking Career) | Cyber Defender | [Read More](https://medium.com/p/4650c9767d6f) |
 | Tue, 23 Sep 2025 11:30:28 GMT | Detecting Malicious ZIP Archive Decryption via Event 5379 | Abdul | [Read More](https://medium.com/p/47078cd97c03) |
-| Tue, 23 Sep 2025 11:26:37 GMT | Disguised Surveillance: How Chat Control Instrumentalizes Child Protection to Erode European… | Eugenia Suárez | [Read More](https://medium.com/p/87034158ac3f) |
-| Tue, 23 Sep 2025 11:23:15 GMT | Breakthrough info tech for impact investing | Erik Kvam | [Read More](https://medium.com/p/180db2f7ab99) |
-| Tue, 23 Sep 2025 11:21:56 GMT | DragonForce Ransomware: Technical Analysis and Mitigation Strategies | Loginsoft | [Read More](https://medium.com/p/3e04938c6857) |
-| Tue, 23 Sep 2025 11:20:14 GMT | Zafiyet Yönetiminde Sık Yapılan 10 Kritik Hata ve Çözümleri | Aykut Bayram | [Read More](https://medium.com/p/04c82b89fbc9) |
-| Tue, 23 Sep 2025 11:14:31 GMT | Understanding Packets and Frames: How Data Travels Across Networks | Sumit Sah | [Read More](https://medium.com/p/d69f6d633a9b) |
-| Tue, 23 Sep 2025 11:13:21 GMT | AI Security : LLM02 — Sensitive Information Disclosure | Nabarko Roy | [Read More](https://medium.com/p/271fa1fc30e7) |
-| Tue, 23 Sep 2025 11:11:53 GMT | Hunting For PsExec.exe abuse | Ameer Mane | [Read More](https://medium.com/p/ef81556af21e) |
-| Tue, 23 Sep 2025 11:11:47 GMT | What Are the 4 Best Strategies for Building an App in 2025 — and the Practical Steps to Showcase… | Kelly | [Read More](https://medium.com/p/f4bed3895b62) |
-| Tue, 23 Sep 2025 11:08:30 GMT | ️ Cybersecurity Roadmap for Absolute Beginners (2025 Edition) | Aditya Bhatt | [Read More](https://medium.com/p/6aa918115e9f) |
-| Tue, 23 Sep 2025 11:05:50 GMT | After You Left, the Memories Persisted | Aliyu Ibrahim | [Read More](https://medium.com/p/057c792c47a4) |
