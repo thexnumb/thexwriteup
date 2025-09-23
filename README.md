@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 08:22:36 GMT | Leaked Access Logs : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/430eaca0250a) |
+| Tue, 23 Sep 2025 08:15:28 GMT | When Words Turn Against You: Understanding Prompt Injection in LLMs | Rabia AMAAOUCH | [Read More](https://medium.com/p/aeba9b2991c7) |
+| Tue, 23 Sep 2025 08:15:13 GMT | Fascinating Facts You Will Learn in an AI Course in Nepal | Nepal Verse | [Read More](https://medium.com/p/5038de789d2e) |
+| Tue, 23 Sep 2025 08:12:54 GMT | Processing 10 Million Logs Per Second: Migration from RabbitMQ to Kafka | Burak Bozacı | [Read More](https://medium.com/p/4334ed8ee77a) |
+| Tue, 23 Sep 2025 08:08:27 GMT | ประจำวันอังคารที่ 23 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/140d1084ab65) |
+| Tue, 23 Sep 2025 08:05:09 GMT | The Leaks Begin | Maaz Shaikh | [Read More](https://medium.com/p/751d63861add) |
+| Tue, 23 Sep 2025 08:03:35 GMT | Clean Architect 整潔架構 | 思維舞步 MindSteps,  Choreographed by Alex | [Read More](https://medium.com/p/1161bb48008d) |
+| Tue, 23 Sep 2025 08:02:52 GMT | Online Translation Services: Top 10 Security Risks | Steve Wortham | [Read More](https://medium.com/p/123fe1705f55) |
+| Tue, 23 Sep 2025 08:02:12 GMT | Creating m@lware with Python! | Mario Barajas | [Read More](https://medium.com/p/980a7b2558a4) |
+| Tue, 23 Sep 2025 07:59:43 GMT | Automated IOC Blocker for Palo Alto NGFW | Anojithan Pakkiyarajah | [Read More](https://medium.com/p/f55728743295) |
+| Tue, 23 Sep 2025 07:49:50 GMT | Cybersecurity Threats to Be Aware of in 2025 | cyber infomines | [Read More](https://medium.com/p/86c1637723bc) |
+| Tue, 23 Sep 2025 07:45:23 GMT | Introducing BountyBuddy — A Complete Bug Bounty Checklist & Pentesting Checklist | Shah kaif | [Read More](https://medium.com/p/a60bd1d899eb) |
+| Tue, 23 Sep 2025 07:38:11 GMT | API9:2023 — Improper Inventory Management | Apifort | [Read More](https://medium.com/p/a2b529525234) |
+| Tue, 23 Sep 2025 07:37:01 GMT | Why Businesses Need CCTV Monitoring in UK | Marcela John | [Read More](https://medium.com/p/bb388d2a8b57) |
 | Tue, 23 Sep 2025 07:32:47 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/3d262853ddec) |
 | Tue, 23 Sep 2025 07:32:20 GMT | Apple MDM Software: Boost Security & Compliance Fast | Vantage MDM | [Read More](https://medium.com/p/abb8537ddef0) |
 | Tue, 23 Sep 2025 07:31:46 GMT | Docker for Data Teams 2025: Slim, Fast, Secure | Nikulsinh Rajput | [Read More](https://medium.com/p/4dac3f958a9e) |
+| Tue, 23 Sep 2025 07:29:20 GMT | 42 Cybersecurity Rules to Bulletproof Your Information System (Updated for 2025) | Djany M | [Read More](https://medium.com/p/30a9220c3fd2) |
 | Tue, 23 Sep 2025 07:28:53 GMT | Les 42 règles pour un SI robuste : la checklist ultime inspirée de l’ANSSI | Djany M | [Read More](https://medium.com/p/00cb981e4327) |
 | Tue, 23 Sep 2025 07:22:04 GMT | IP Addresses and Subnetting | Sarzy | [Read More](https://medium.com/p/4b02f0d3e701) |
 | Tue, 23 Sep 2025 07:20:43 GMT | Unlock Your IT Potential with Eleskills.com: Bengaluru’s Premier Learning Platform | Bikash Peeripaul | [Read More](https://medium.com/p/f096c26e5d82) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 02:54:34 GMT | EDR-Freeze: A Technique for Suspending Protected Security Processes | Tomasz Kozlowski | [Read More](https://medium.com/p/78494ee0b68a) |
 | Tue, 23 Sep 2025 02:53:55 GMT | Snort Lab Setup Guide: Practical Multi-Rule Detection for Beginners | Uphar | [Read More](https://medium.com/p/36bb6db64020) |
 | Tue, 23 Sep 2025 02:52:22 GMT | SQL Injection UNION Attack: Finding a Column Containing Text | Bash Overflow | [Read More](https://medium.com/p/662cea789110) |
-| Tue, 23 Sep 2025 02:48:18 GMT | BSCP journey | Jayden | [Read More](https://medium.com/p/067bd0d78001) |
-| Tue, 23 Sep 2025 02:37:12 GMT | I Keep Writing About Cybersecurity — and It Feels Like No One Gives a Damn | Noel | [Read More](https://medium.com/p/f9f1419b061a) |
-| Tue, 23 Sep 2025 02:27:40 GMT | “Scattered Spider” Takes Another Hit : The Global Crackdown on a Teen Hacking Ring | Athishsagarkishan | [Read More](https://medium.com/p/bc712851a6ff) |
-| Tue, 23 Sep 2025 02:19:47 GMT | XSSTRON: Electron/Chromium XSS Scanner That Detects GET & POST Cross-Site Scripting Vulnerabilities | DataScience Nexus | [Read More](https://medium.com/p/326d32f96ae8) |
-| Tue, 23 Sep 2025 02:12:13 GMT | 6 Essential Types of Managed Services You Should Know About | PC Computing & Consulting | [Read More](https://medium.com/p/5cb1be568ea5) |
-| Tue, 23 Sep 2025 02:07:48 GMT | 10 JavaScript Tricks I Wish I Knew Before My First Web App | J. David Smith | [Read More](https://medium.com/p/8930cc23dfd7) |
-| Tue, 23 Sep 2025 01:59:19 GMT | JWT et OAuth2 : sécuriser vos backends avec MuleSoft et Keycloak | Amsata Mbengue | [Read More](https://medium.com/p/d83387ee61a0) |
-| Tue, 23 Sep 2025 01:58:56 GMT | The PostgreSQL Performance Checklist That Saved Your Startup | Rizqi Mulki | [Read More](https://medium.com/p/e7311d8f6ce7) |
-| Tue, 23 Sep 2025 01:51:32 GMT | PostgreSQL Deadlocks Explained: The Real Reason Queries Freeze | Rizqi Mulki | [Read More](https://medium.com/p/ea290588a285) |
-| Tue, 23 Sep 2025 01:50:08 GMT | The Hidden Security Disasters in Your Spring Boot App (And How to Stop Hackers Before They… | Lohith V P | [Read More](https://medium.com/p/23eef12d209b) |
-| Tue, 23 Sep 2025 01:31:47 GMT | Hacking the Human | Nexumo | [Read More](https://medium.com/p/91b41f0142f6) |
-| Tue, 23 Sep 2025 01:29:20 GMT | The Growing Threats That Could Shake Blockchain’s Future | Johnson William | [Read More](https://medium.com/p/8b54b3a47548) |
-| Tue, 23 Sep 2025 01:21:03 GMT | # Just Started My Cybersecurity Journey: Network+ Fundamentals Explained | Ibrahim bashua | [Read More](https://medium.com/p/54f2056adf8e) |
-| Tue, 23 Sep 2025 01:05:00 GMT | Tuesday Morning Threat Report: Sept 23, 2025 | Mark Maguire | [Read More](https://medium.com/p/f484bbfea88b) |
-| Tue, 23 Sep 2025 00:46:24 GMT | How I Built VPC Traffic Flow with Security on AWS - NextWork Project | Angie | [Read More](https://medium.com/p/8e0f174e9056) |
