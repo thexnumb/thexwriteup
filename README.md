@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 05:35:44 GMT | Mask Off: How I Exploited Broken OAuth to Login as Anyone | Iski | [Read More](https://medium.com/p/f1ce3c88d9b2) |
+| Tue, 23 Sep 2025 05:35:22 GMT | Protecting against cross-site scripting with trusted types | Dominic Bachmann | [Read More](https://medium.com/p/94f0b3c32129) |
+| Tue, 23 Sep 2025 05:25:32 GMT | Identity Crisis of AI Agents: Securing the Next Digital Workforce | Anoushka Chakrabarty | [Read More](https://medium.com/p/889faa60ae88) |
+| Tue, 23 Sep 2025 05:23:43 GMT | OWASP Juice Shop: Broken Access Controll — Forged Review | Risskian | [Read More](https://medium.com/p/d063e3519033) |
+| Tue, 23 Sep 2025 05:23:16 GMT | AI in Cyber Threat Prediction | Cyber Security Research | [Read More](https://medium.com/p/95056de418f6) |
+| Tue, 23 Sep 2025 05:17:04 GMT | Ransomware-as-a-Service Ecosystem | Cyber Security Research | [Read More](https://medium.com/p/a8899a450a9c) |
 | Tue, 23 Sep 2025 05:13:14 GMT | iPhone 17 Pro Secrets: Hidden Features and Tricks Revealed | Kanyarat Suksawat | [Read More](https://medium.com/p/439bbff2736f) |
+| Tue, 23 Sep 2025 05:11:45 GMT | Using Hetty to Spy on Claude Code | Sharkbyjhn | [Read More](https://medium.com/p/172851aa0c99) |
 | Tue, 23 Sep 2025 05:09:03 GMT | What Are The Key Benefits Of Legacy Application Modernization? | Noahlucas | [Read More](https://medium.com/p/fa6afa067f14) |
 | Tue, 23 Sep 2025 05:02:07 GMT | How ClickFix Tricks You into Hacking Yourself | Isaac Muendo | [Read More](https://medium.com/p/1dcd1d62dd63) |
+| Tue, 23 Sep 2025 05:00:40 GMT | How to Secure API with JWT Authentication | DJ | [Read More](https://medium.com/p/e05c9d12730f) |
 | Tue, 23 Sep 2025 04:59:18 GMT | Day 61- Basics of threat intelligence and OSINT for beginners | unica 02 | [Read More](https://medium.com/p/e314a0f77469) |
 | Tue, 23 Sep 2025 04:59:17 GMT | How to Upload and Manage Files Using File Manager in WordPress [No FTP Required] | Hamza Hanif | [Read More](https://medium.com/p/5e52332e11b5) |
 | Tue, 23 Sep 2025 04:59:00 GMT | The Threat Landscape in 2025 | Cyber Security Research | [Read More](https://medium.com/p/8c8855f9207b) |
@@ -106,11 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 20:47:40 GMT | Virus Melissa | Ldzinn | [Read More](https://medium.com/p/1efc5b2ee938) |
 | Mon, 22 Sep 2025 20:45:09 GMT | Trojan Desktop Puzzle | Starcapbreaker | [Read More](https://medium.com/p/d2096c09bdad) |
 | Mon, 22 Sep 2025 20:43:04 GMT | Malware Analysis : HTB Sherlocks Writeup- Loggy | KanakSasak | [Read More](https://medium.com/p/c0c4da49f68d) |
-| Mon, 22 Sep 2025 20:41:56 GMT | Day 6 — Splunk for Beginners: From Raw Logs to Dashboards | OxErvin | [Read More](https://medium.com/p/d4e5e7be83c7) |
-| Mon, 22 Sep 2025 20:41:43 GMT | The $0 Bug That Turned Into a Career-Changing Opportunity | Aj | [Read More](https://medium.com/p/be976f0b7d3f) |
-| Mon, 22 Sep 2025 20:37:49 GMT | Sherlock OSINT Tool - Find Social Media Accounts! | Shahzaib | [Read More](https://medium.com/p/3153c3bfeae3) |
-| Mon, 22 Sep 2025 20:37:13 GMT | Top 11 cyber stories (Week: Sept 15–21, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/ca20f08689ba) |
-| Mon, 22 Sep 2025 20:32:06 GMT | Elliot Alderson in Mr. Robot: Hero, Antihero, or Villain? | HexFlicks - Movies, Books & Gaming | [Read More](https://medium.com/p/91f8e6cd2be4) |
-| Mon, 22 Sep 2025 20:27:26 GMT | Airport offline: How vulnerable our systems really are | Cordula Boeck | [Read More](https://medium.com/p/4d898e4ed77c) |
-| Mon, 22 Sep 2025 20:21:23 GMT | Cybersecurity Truths: Brutal takes you won’t hear anywhere else | Truspex | [Read More](https://medium.com/p/8bce1217d0b1) |
-| Mon, 22 Sep 2025 20:12:30 GMT | Improve your Privacy using Tor | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e3b61fbf3c65) |
