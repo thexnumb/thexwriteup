@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 14:40:41 GMT | Bypass Brute-Force Protection | MOH FAIZ HIDAYATULLOH | [Read More](https://medium.com/p/44fad390360c) |
+| Tue, 23 Sep 2025 14:40:20 GMT | TryHackMe — OhSINT Room Walkthrough | devmorav | [Read More](https://medium.com/p/f1fc787dc621) |
+| Tue, 23 Sep 2025 14:38:44 GMT | Conversational AI: Less Waiting, More Solutions | O Código Futuro | [Read More](https://medium.com/p/b18ee7723cb9) |
+| Tue, 23 Sep 2025 14:36:45 GMT | Behind the Curtain: How Malware Really Works | Raj Islam | [Read More](https://medium.com/p/debfd7f93315) |
+| Tue, 23 Sep 2025 14:34:56 GMT | Unlocking Competitive Advantage with Enterprise Digital Excellence | 2isolutions Inc. USA | [Read More](https://medium.com/p/839246e26e50) |
+| Tue, 23 Sep 2025 14:32:52 GMT | Cloud vs. On-Premises: Why the Hybrid Approach Is the Best Solution for Businesses | Cordula Boeck | [Read More](https://medium.com/p/a7bada0582e7) |
+| Tue, 23 Sep 2025 14:31:11 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/8642382e0e07) |
+| Tue, 23 Sep 2025 14:28:49 GMT | The AI Industry is not prepared. | Patches | [Read More](https://medium.com/p/85b363342eb7) |
+| Tue, 23 Sep 2025 14:28:13 GMT | Shai-Hulud and the Worm That Ate npm | Simple Stack | [Read More](https://medium.com/p/3c9b4b2b739c) |
+| Tue, 23 Sep 2025 14:27:47 GMT | AI Video Analytics for Warehouse Safety and Efficiency | Tec-Tel Communications | [Read More](https://medium.com/p/7e1d03884f6b) |
+| Tue, 23 Sep 2025 14:20:03 GMT | Security Updates in 2025: How Small Businesses Can Stay Safe Online | BlueZoo Web | [Read More](https://medium.com/p/7f38add0d6d5) |
 | Tue, 23 Sep 2025 14:18:28 GMT | The 5 Data Science Tools That Quietly Replaced My Expensive Software Stack | Fateyaly | [Read More](https://medium.com/p/a5cfc419603c) |
+| Tue, 23 Sep 2025 14:15:54 GMT | Network Troubleshooting Like a Pro | Karthick Dkk | [Read More](https://medium.com/p/0ca72fbf265d) |
 | Tue, 23 Sep 2025 14:06:56 GMT | How to build a bank p3: The domain controller | Logan Elkins | [Read More](https://medium.com/p/c4fef9654a54) |
 | Tue, 23 Sep 2025 14:06:01 GMT | They Laughed at My “Fingerprint Login” Until It Blocked 99.7% of Hackers | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/60dfe82744a6) |
 | Tue, 23 Sep 2025 14:02:22 GMT | What Gang-Stalking / Targeting Looks Like From the Outside In | Reclamation Nation | [Read More](https://medium.com/p/7e0f766b0510) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 10:03:59 GMT | Phishing Gotcha? Navigating Tricky Emails & Keeping Your Data Safe | Authlyn | [Read More](https://medium.com/p/b1f85e7b849e) |
 | Tue, 23 Sep 2025 10:03:57 GMT | Crypto phishing on the rise: protect your Trezor and wallet backup | Henry Windle | [Read More](https://medium.com/p/4db03d0847cb) |
 | Tue, 23 Sep 2025 10:03:40 GMT | Why India Must Build Its Own Robust Operating System :A Call for Digital Sovereignty | Chinmay Vivek | [Read More](https://medium.com/p/b1a6229ff165) |
-| Tue, 23 Sep 2025 10:00:29 GMT | ETHICAL HACKING COURSE IN TRIVANDRUM | Dotinfida | [Read More](https://medium.com/p/093f1a45954e) |
-| Tue, 23 Sep 2025 09:54:24 GMT | Top 10 Mobile App Development Frameworks in 2025 | TST Technology | [Read More](https://medium.com/p/f615eeebe493) |
-| Tue, 23 Sep 2025 09:51:24 GMT | Why is ZoomEye One of the Most Beginner-Friendly Cyberspace Search Engines? | Liuliuliusq | [Read More](https://medium.com/p/9d39981703aa) |
-| Tue, 23 Sep 2025 09:45:28 GMT | ISO Certification for Cyber Security | Digital Sqcindia | [Read More](https://medium.com/p/65e0a8c4cba5) |
-| Tue, 23 Sep 2025 09:44:38 GMT | Moonova.app Scam Alert: How R O S E L A N E G P . C O M is Helping Victims Recover What They Lost | ADMIN | [Read More](https://medium.com/p/5661d20e68ee) |
-| Tue, 23 Sep 2025 09:43:10 GMT | How Scammers Fake Crypto Transactions | David Walker | [Read More](https://medium.com/p/e2c380eb1dd7) |
-| Tue, 23 Sep 2025 09:37:46 GMT | It’s not a bug, it’s a feature | Jihan Aygun | [Read More](https://medium.com/p/e5d29434d4ae) |
-| Tue, 23 Sep 2025 09:31:37 GMT | :{) Welcome Message … | MD SHAKIB KHAN | [Read More](https://medium.com/p/7a2271fb3c0a) |
-| Tue, 23 Sep 2025 09:28:22 GMT | The Link Between Software Updates And Security: A Simple Guide For Beginners | Sahil | [Read More](https://medium.com/p/99307512d15d) |
-| Tue, 23 Sep 2025 09:27:33 GMT | 7 Red Flags That Your “Compliance” Isn’t Real Security | Evgeny Ermakov | [Read More](https://medium.com/p/eef90eddc130) |
-| Tue, 23 Sep 2025 09:23:59 GMT | EDR-Freeze: The New Technique That Suspends EDR and Antivirus in a “Coma State” | Shehan_Gunathilaka | [Read More](https://medium.com/p/f074b776dd6c) |
-| Tue, 23 Sep 2025 09:21:47 GMT | ☸️ Kubernetes Security Vulnerabilities: Threats in Modern Container Orchestration | Esra Kayhan | [Read More](https://medium.com/p/bc80409db4ce) |
