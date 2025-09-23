@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 15:31:47 GMT | Target Reconnaissance with OSINT Tools: Gathering Intelligence from Open Sources | Esra Kayhan | [Read More](https://medium.com/p/34b2ed945af8) |
+| Tue, 23 Sep 2025 15:30:29 GMT | The Hacker’s Guide to Customer Loyalty: Beyond Competitors and Copycats | Vijay Kumar Gupta | [Read More](https://medium.com/p/ad7e6680c9d0) |
+| Tue, 23 Sep 2025 15:18:47 GMT | picoCTF 2025 — Writeup: EVEN RSA CAN BE BROKEN??? | Kishor K. | [Read More](https://medium.com/p/7cedd5d639df) |
+| Tue, 23 Sep 2025 15:18:23 GMT | EXPRESSWAY — HTB | H3XH7WK | [Read More](https://medium.com/p/681be6b2cf65) |
 | Tue, 23 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/2374a4bf1825) |
 | Tue, 23 Sep 2025 15:10:28 GMT | How to Protect Your Product from Supply Chain Attacks on GitHub | Pirikara | [Read More](https://medium.com/p/4da0f91df160) |
 | Tue, 23 Sep 2025 15:09:31 GMT | Hacking Raven 1 — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/879572c96e90) |
@@ -31,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 14:34:56 GMT | Unlocking Competitive Advantage with Enterprise Digital Excellence | 2isolutions Inc. USA | [Read More](https://medium.com/p/839246e26e50) |
 | Tue, 23 Sep 2025 14:32:52 GMT | Cloud vs. On-Premises: Why the Hybrid Approach Is the Best Solution for Businesses | Cordula Boeck | [Read More](https://medium.com/p/a7bada0582e7) |
 | Tue, 23 Sep 2025 14:31:11 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/8642382e0e07) |
+| Tue, 23 Sep 2025 14:30:53 GMT | Passkeys : se connecter sans mot de passe, c’est (déjà) possible | Christopher Pradines | [Read More](https://medium.com/p/f054796cd2df) |
 | Tue, 23 Sep 2025 14:28:49 GMT | The AI Industry is not prepared. | Patches | [Read More](https://medium.com/p/85b363342eb7) |
 | Tue, 23 Sep 2025 14:28:13 GMT | Shai-Hulud and the Worm That Ate npm | Simple Stack | [Read More](https://medium.com/p/3c9b4b2b739c) |
 | Tue, 23 Sep 2025 14:27:47 GMT | AI Video Analytics for Warehouse Safety and Efficiency | Tec-Tel Communications | [Read More](https://medium.com/p/7e1d03884f6b) |
@@ -68,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 13:10:54 GMT | Why #DevSecOps Is No Longer Optional — Building Security Into Every Code Release | Omex Oleksandr | [Read More](https://medium.com/p/9480e5a3480a) |
 | Tue, 23 Sep 2025 13:01:51 GMT | How to Erase Garage Door Opener Settings: Clear Remotes & Keypads Fast | 24H Garage Doors | [Read More](https://medium.com/p/c392bcddb4b1) |
 | Tue, 23 Sep 2025 13:01:51 GMT | How to Avoid Getting Hacked as a Crypto Investor | Farhad Ali | [Read More](https://medium.com/p/f2bf5a7010e1) |
+| Tue, 23 Sep 2025 13:01:51 GMT | Why Email Marketing Is the Secret Growth Tool for Directory Websites | aDirectory | [Read More](https://medium.com/p/348b7e185e25) |
 | Tue, 23 Sep 2025 12:57:42 GMT | MediaTek’s Chipset using 2-nm Technology: What’s so Special about It? | Arjun Agarwal | [Read More](https://medium.com/p/bea0e72e2390) |
 | Tue, 23 Sep 2025 12:56:34 GMT | US Ceramic Tiles Market to Reach USD 6.54 | Anamika Prasad | [Read More](https://medium.com/p/f9fa8f1cc0a4) |
 | Tue, 23 Sep 2025 12:54:26 GMT | Automotive Data Monetization Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/1f715dc5edb6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 11:11:47 GMT | What Are the 4 Best Strategies for Building an App in 2025 — and the Practical Steps to Showcase… | Kelly | [Read More](https://medium.com/p/f4bed3895b62) |
 | Tue, 23 Sep 2025 11:08:30 GMT | ️ Cybersecurity Roadmap for Absolute Beginners (2025 Edition) | Aditya Bhatt | [Read More](https://medium.com/p/6aa918115e9f) |
 | Tue, 23 Sep 2025 11:05:50 GMT | After You Left, the Memories Persisted | Aliyu Ibrahim | [Read More](https://medium.com/p/057c792c47a4) |
-| Tue, 23 Sep 2025 11:02:41 GMT | From a Messy Script to Cloud Backup Manager ☁️⚡ | Voldemort | [Read More](https://medium.com/p/01dac56ec9bd) |
-| Tue, 23 Sep 2025 11:01:46 GMT | How to Secure Copilot Studio: From Endpoint Protection to Configuration Enforcement | Meron | [Read More](https://medium.com/p/3220bc7c2c68) |
-| Tue, 23 Sep 2025 11:01:46 GMT | 90% of IT Leaders Aren’t Ready for This AI Threat,Are You? | Brittney Ginther | [Read More](https://medium.com/p/d583998ba62b) |
-| Tue, 23 Sep 2025 10:54:15 GMT | SPF breakage 101: Beating the 10-lookup limit (without deliverability drama) | Red Sift | [Read More](https://medium.com/p/eb46587eabec) |
-| Tue, 23 Sep 2025 10:51:47 GMT | The Hidden Digital Vulnerability: When National Interests Meet Your Personal Data | Abdelakarim Benabdallah | [Read More](https://medium.com/p/d32440056887) |
-| Tue, 23 Sep 2025 10:49:13 GMT | CVE-2025–9269: A deep dive into the Jenkins Script-Security sandbox bypass | gm0 | [Read More](https://medium.com/p/bacebd7463e1) |
