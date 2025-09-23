@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 04:08:17 GMT | The Day I Realized Being Broken Could Be Beautiful | vydhi | [Read More](https://medium.com/p/d28168863835) |
+| Tue, 23 Sep 2025 04:02:21 GMT | The Impact of AI-Generated Code on Application Security | Samina Perveen | [Read More](https://medium.com/p/c5234d3b98a9) |
+| Tue, 23 Sep 2025 03:56:42 GMT | How I can solve PicoCTF Challenge:Blame Game 2024 Edition with simple solution | Nanda Aditya Putra | [Read More](https://medium.com/p/d09c79be17ef) |
+| Tue, 23 Sep 2025 03:56:32 GMT | Implementasi Map Reduce Sederhana Dengan Memakai Hadoop Dan Ubuntu | Zurichsabil | [Read More](https://medium.com/p/a2273cd5fef1) |
+| Tue, 23 Sep 2025 03:55:19 GMT | Why Consumer-Focused AI Browsers Fall Short for Enterprise Needs | Mammoth Cyber | [Read More](https://medium.com/p/2c8c1ceff734) |
+| Tue, 23 Sep 2025 03:54:34 GMT | HAIDAKHAN COMPLETE DATABASE HACKED !! | Krivadna | [Read More](https://medium.com/p/db5d2731b236) |
+| Tue, 23 Sep 2025 03:44:25 GMT | Understanding Fast Flux: The Cybercriminal’s Moving Target | Sadineni Sai Sushanth | [Read More](https://medium.com/p/f6f9e401c979) |
+| Tue, 23 Sep 2025 03:32:04 GMT | How Crypto24 Ransomware Is Turning Everyday Tools Into Weapons | Deven Chhajed | [Read More](https://medium.com/p/99835958a473) |
 | Tue, 23 Sep 2025 03:29:18 GMT | Java Insecure Deserialization | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/802e5afd565f) |
 | Tue, 23 Sep 2025 03:20:24 GMT | How to claim Nexchain presale token aug 2025 | Bitcoin penguins | [Read More](https://medium.com/p/cf48ca55957d) |
 | Tue, 23 Sep 2025 03:14:47 GMT | 10 Things You Didn’t Know About Jump Lists Forensics | Paritosh | [Read More](https://medium.com/p/b7aafdf58ee5) |
@@ -106,11 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 19:32:03 GMT | Zero Trust, Zero Breaches? | Nexumo | [Read More](https://medium.com/p/8e86107aeb54) |
 | Mon, 22 Sep 2025 19:27:37 GMT | The BIG Takeover | Liam Goddard | [Read More](https://medium.com/p/ad97404a04e7) |
 | Mon, 22 Sep 2025 19:26:06 GMT | From Logs to Leads: A Practical Cyber Investigation of the Brutus Sherlock | Adam Goss | [Read More](https://medium.com/p/d7972af0aa61) |
-| Mon, 22 Sep 2025 19:22:30 GMT | Laptop slower than your Monday mood? | mainitsol | [Read More](https://medium.com/p/1efcb6951667) |
-| Mon, 22 Sep 2025 19:11:44 GMT | Horny, Not Hopeless | Lina wilde | [Read More](https://medium.com/p/34fee97d3647) |
-| Mon, 22 Sep 2025 19:07:04 GMT | Security matters for hyperlinks as well | Eligijus Petrikonis | [Read More](https://medium.com/p/f3e062872bc2) |
-| Mon, 22 Sep 2025 19:05:30 GMT | AI Security Risks: How Smart Tech Can Be a Threat | Maryam Irfan | [Read More](https://medium.com/p/d6b31136a3ee) |
-| Mon, 22 Sep 2025 19:02:54 GMT | Nmap Cheat Sheet: Essential Commands for Effective Scanning | Horrow | [Read More](https://medium.com/p/b8e3be190c5a) |
-| Mon, 22 Sep 2025 19:02:54 GMT | The  H1B Visa vs  UK Global Talent Visa | Taimur Ijlal | [Read More](https://medium.com/p/5e0de99f068d) |
-| Mon, 22 Sep 2025 19:01:12 GMT | Where Do We Even Start With “Finding Yourself”? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/2c5f4efdb227) |
-| Mon, 22 Sep 2025 19:00:56 GMT | AI Models That Might Refuse to Shut Down: What Safety Experts Are Warning Us About | LokieGamer | [Read More](https://medium.com/p/7d1ba4cdb9c2) |
