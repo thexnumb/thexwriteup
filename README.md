@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 19:34:34 GMT | Siber Saldırıların Yapay Zeka İle Tespiti?! | Technoblog | [Read More](https://medium.com/p/b1dd8c68fe24) |
+| Tue, 23 Sep 2025 19:30:14 GMT | Driving Business Efficiency Through Connectivity, Cost Management, and Compliance | Defend My Business | [Read More](https://medium.com/p/f26f8859d349) |
+| Tue, 23 Sep 2025 19:16:13 GMT | Designing AI Interfaces for Security Analysts (Without Driving Them Crazy) | Ayushi | [Read More](https://medium.com/p/253d61b9860e) |
 | Tue, 23 Sep 2025 19:12:48 GMT | The Hidden Power of Python Context Managers in Real Projects | Kainat Nafees | [Read More](https://medium.com/p/92991b290a07) |
 | Tue, 23 Sep 2025 18:59:51 GMT | Trends, Opportunities, and Challenges in the Fintech Industry | Switch Software | [Read More](https://medium.com/p/3b3e254fb5c8) |
 | Tue, 23 Sep 2025 18:59:18 GMT | “From Fiber to App: Unraveling the 7 OSI Layers for the Future-Minded Netizen” | Logic And Life | [Read More](https://medium.com/p/f6d49b4ef05e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 14:28:13 GMT | Shai-Hulud and the Worm That Ate npm | Simple Stack | [Read More](https://medium.com/p/3c9b4b2b739c) |
 | Tue, 23 Sep 2025 14:27:47 GMT | AI Video Analytics for Warehouse Safety and Efficiency | Tec-Tel Communications | [Read More](https://medium.com/p/7e1d03884f6b) |
 | Tue, 23 Sep 2025 14:20:03 GMT | Security Updates in 2025: How Small Businesses Can Stay Safe Online | BlueZoo Web | [Read More](https://medium.com/p/7f38add0d6d5) |
-| Tue, 23 Sep 2025 14:18:28 GMT | The 5 Data Science Tools That Quietly Replaced My Expensive Software Stack | Fateyaly | [Read More](https://medium.com/p/a5cfc419603c) |
-| Tue, 23 Sep 2025 14:15:54 GMT | Network Troubleshooting Like a Pro | Karthick Dkk | [Read More](https://medium.com/p/0ca72fbf265d) |
-| Tue, 23 Sep 2025 14:06:56 GMT | How to build a bank p3: The domain controller | Logan Elkins | [Read More](https://medium.com/p/c4fef9654a54) |
