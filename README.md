@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 16:35:57 GMT | GUNRA RANSOMWARE: What You Don’t Know! | Rakesh Krishnan | [Read More](https://medium.com/p/9f8f0d198283) |
+| Tue, 23 Sep 2025 16:34:29 GMT | Hidden API Testing Gems: 8 Tools That Find What Burp Suite Misses | Andrei Ivan | [Read More](https://medium.com/p/27ec1aa54e60) |
+| Tue, 23 Sep 2025 16:31:48 GMT | Tesla’s Cloud Hack: 5 Lessons Devs Can Use Today | Syntal | [Read More](https://medium.com/p/a78cdf606272) |
+| Tue, 23 Sep 2025 16:31:48 GMT | ️‍♂️ How to Know If Your App is Whispering Secrets (with ngrep) | Anzalo Quin | [Read More](https://medium.com/p/337ed5ba1598) |
 | Tue, 23 Sep 2025 16:20:44 GMT | Upgrading a 6TB+ OpenSearch Engine with 99.99% Uptime: A journey! | Sreemathi K R | [Read More](https://medium.com/p/17ed697ebeb2) |
 | Tue, 23 Sep 2025 16:17:37 GMT | CVE Deep Dive : CVE-2025–32463 | Optimus_Blue | [Read More](https://medium.com/p/a48025beaf21) |
+| Tue, 23 Sep 2025 16:17:12 GMT | Edge Intelligence Is the Real Next Wave | Ravinduhimansha | [Read More](https://medium.com/p/ca0db0907807) |
 | Tue, 23 Sep 2025 16:11:47 GMT | Portswigger OAuth Authentication Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/e766a7402222) |
+| Tue, 23 Sep 2025 16:11:26 GMT | Subnetting serta Perancangan IP pada Rumah Sakit | Yasa Wijaya | [Read More](https://medium.com/p/78096f1f0bf3) |
 | Tue, 23 Sep 2025 16:02:40 GMT | Port 21 FTP Enumeration and Exploit | Md. Raihan | [Read More](https://medium.com/p/85ca775e21b8) |
 | Tue, 23 Sep 2025 15:57:45 GMT | Building a Secure GenAI Policy Assistant with RAG, Guardrails, and Multi-Modal Search | Bravishanker | [Read More](https://medium.com/p/53145ec8b4d3) |
 | Tue, 23 Sep 2025 15:53:33 GMT | Scam Texts on Wheels: How SMS Blasters Hijack Your Phone | Ashish Mahure | [Read More](https://medium.com/p/a15db248b297) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 11:57:01 GMT | Cybersecurity in the Cloud: How to Keep Your Business Data Safe | Gurugeeks Royalty | [Read More](https://medium.com/p/be58d703ff76) |
 | Tue, 23 Sep 2025 11:54:55 GMT | What Keeps Performers Safe While Traveling? | Smit John | [Read More](https://medium.com/p/be4c35f280a0) |
 | Tue, 23 Sep 2025 11:53:24 GMT | Journey of Mobile Application Development for Global Users | Joy Hawkins | [Read More](https://medium.com/p/c17b810b4026) |
-| Tue, 23 Sep 2025 11:50:15 GMT | Polimorfisme | Zurichsabil | [Read More](https://medium.com/p/9e684b27ba98) |
-| Tue, 23 Sep 2025 11:50:09 GMT | Top 5 Benefits of Combining Vulnerability Management and Threat Intelligence | Digital Defense | [Read More](https://medium.com/p/498e737d42c2) |
-| Tue, 23 Sep 2025 11:49:21 GMT | Stop using personal AI for business | Saravanan.R | [Read More](https://medium.com/p/f6a7e1ed00a0) |
-| Tue, 23 Sep 2025 11:37:09 GMT | Penetration Testing Made Simple Kali MCP With Docker and Claude Desktop.. | Sasisachins | [Read More](https://medium.com/p/6d50a6a60300) |
-| Tue, 23 Sep 2025 11:34:54 GMT | Top 5 Penetration Testing Certifications in 2025 (Boost Your Ethical Hacking Career) | Cyber Defender | [Read More](https://medium.com/p/4650c9767d6f) |
-| Tue, 23 Sep 2025 11:30:28 GMT | Detecting Malicious ZIP Archive Decryption via Event 5379 | Abdul | [Read More](https://medium.com/p/47078cd97c03) |
