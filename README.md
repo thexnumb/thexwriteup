@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 21:05:38 GMT | Phishing Has a New Enemy: Inside AegisAI’s Multi-Agent Email Guard | Chris Zhang | [Read More](https://medium.com/p/43cf313d5ac0) |
+| Tue, 23 Sep 2025 21:02:53 GMT | ShadowLeak and the Strategic Fragility of AI Leadership | Jason Connerty | [Read More](https://medium.com/p/bfafededffe1) |
+| Tue, 23 Sep 2025 20:57:46 GMT | Who Else Knows your iPhone/iPad Passcode But You? | Maria Orms | [Read More](https://medium.com/p/77d275ec581b) |
+| Tue, 23 Sep 2025 20:54:38 GMT | GoldenEye writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/dbef6fc14eb3) |
+| Tue, 23 Sep 2025 20:43:24 GMT | How Commercial Security Guards Protect Your Business and Assets | Nimra Sheikh | [Read More](https://medium.com/p/ca1b64c22846) |
+| Tue, 23 Sep 2025 20:37:48 GMT | Top AI Security Videos — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/c7288c0092a9) |
 | Tue, 23 Sep 2025 20:21:11 GMT | Why Professional Warehouse Security Guards Are Essential for Your Business | Nimra Sheikh | [Read More](https://medium.com/p/18f322f95d4f) |
 | Tue, 23 Sep 2025 20:09:06 GMT | The Crimeware Supply Chain | Deniz Topaloglu | [Read More](https://medium.com/p/3575f00480b4) |
 | Tue, 23 Sep 2025 20:08:33 GMT | The best approach to becoming a Pentester Specialist | Richard Wollyce | [Read More](https://medium.com/p/74891403a7fd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 15:00:24 GMT | “The Low-Hanging Fruit That Pays Off: Hunting P4 Bugs” | Aman Sharma | [Read More](https://medium.com/p/2423fb3dcaee) |
 | Tue, 23 Sep 2025 14:59:38 GMT | Building a Cyber Security Portfolio — Technical Step 1: Linux Beginux | Randy Puffin | [Read More](https://medium.com/p/ca229d918511) |
 | Tue, 23 Sep 2025 14:58:53 GMT | Building a Cyber Security Portfolio — Step 0.5: The Road So Far | Randy Puffin | [Read More](https://medium.com/p/5ee3918789c2) |
-| Tue, 23 Sep 2025 14:55:14 GMT | Building a Cyber Security Portfolio — Introduction | Randy Puffin | [Read More](https://medium.com/p/e8184681026b) |
-| Tue, 23 Sep 2025 14:52:10 GMT | Review — CyberWarFare Labs : Certified Enterprise Lateral Movement Specialist [CELMS], When… | Chicken0248 | [Read More](https://medium.com/p/c6cfdf2e6334) |
-| Tue, 23 Sep 2025 14:49:21 GMT | picoCTF 2025 — hashcrack (Web / Forensics / Intro) | Kishor K. | [Read More](https://medium.com/p/8e829f9f5f35) |
-| Tue, 23 Sep 2025 14:46:23 GMT | Finance cyber’s plot twist: geopolitics. | Wes Young | [Read More](https://medium.com/p/6a734c1649cf) |
-| Tue, 23 Sep 2025 14:42:50 GMT | Breaking Down the First Four CISSP Security Domains: A Beginner’s Perspective | A Beginner's Perspective | [Read More](https://medium.com/p/9ff3d7fa591e) |
-| Tue, 23 Sep 2025 14:40:41 GMT | Bypass Brute-Force Protection | MOH FAIZ HIDAYATULLOH | [Read More](https://medium.com/p/44fad390360c) |
