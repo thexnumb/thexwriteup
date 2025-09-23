@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 22:12:51 GMT | The Future of Home & Business Security: Smart Cameras, Access Control, and Intercom Systems… | Marksjoe | [Read More](https://medium.com/p/ae95fc309b07) |
 | Tue, 23 Sep 2025 21:48:46 GMT | LFI (File Inclusion) Nedir ? | Azat Dicle | [Read More](https://medium.com/p/34a61866bc95) |
 | Tue, 23 Sep 2025 21:44:14 GMT | CyberDefender’s Insider Lab using FTK imager | Adewale Ayomide | [Read More](https://medium.com/p/8197a3268330) |
 | Tue, 23 Sep 2025 21:37:51 GMT | GCP’s Hidden Security Feature  VPC Service Controls Explained | Cloud Security Masterclass | [Read More](https://medium.com/p/7782bce038e7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 15:18:47 GMT | picoCTF 2025 — Writeup: EVEN RSA CAN BE BROKEN??? | Kishor K. | [Read More](https://medium.com/p/7cedd5d639df) |
 | Tue, 23 Sep 2025 15:18:23 GMT | EXPRESSWAY — HTB | H3XH7WK | [Read More](https://medium.com/p/681be6b2cf65) |
 | Tue, 23 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/2374a4bf1825) |
-| Tue, 23 Sep 2025 15:10:28 GMT | How to Protect Your Product from Supply Chain Attacks on GitHub | Pirikara | [Read More](https://medium.com/p/4da0f91df160) |
