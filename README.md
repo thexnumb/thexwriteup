@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 19:12:48 GMT | The Hidden Power of Python Context Managers in Real Projects | Kainat Nafees | [Read More](https://medium.com/p/92991b290a07) |
+| Tue, 23 Sep 2025 18:59:51 GMT | Trends, Opportunities, and Challenges in the Fintech Industry | Switch Software | [Read More](https://medium.com/p/3b3e254fb5c8) |
+| Tue, 23 Sep 2025 18:59:18 GMT | “From Fiber to App: Unraveling the 7 OSI Layers for the Future-Minded Netizen” | Logic And Life | [Read More](https://medium.com/p/f6d49b4ef05e) |
+| Tue, 23 Sep 2025 18:57:33 GMT | Snyk vs SonarQube: Security and Quality for Your Applications | TenXers | [Read More](https://medium.com/p/6bf5821a3fd1) |
+| Tue, 23 Sep 2025 18:55:38 GMT | The Thrill of the Hack: Why People Choose Ethical Hacking as a Career | Shahzaib | [Read More](https://medium.com/p/1ff2605961bb) |
+| Tue, 23 Sep 2025 18:52:32 GMT | Auth Bypasses: Logic Flaws, Race Conditions, and Deserialization. What you need to know | Tenebris Venator | [Read More](https://medium.com/p/d1efddc16eb5) |
 | Tue, 23 Sep 2025 18:48:19 GMT | Copilot being forced on VSCode? | NTTP | [Read More](https://medium.com/p/5379ce67c69c) |
 | Tue, 23 Sep 2025 18:39:01 GMT | Indian Army Terrier Cyber Quest 2025 | Chip | [Read More](https://medium.com/p/11de68274786) |
 | Tue, 23 Sep 2025 18:33:44 GMT | Diary of an Ex-Black Hat – Day 5: Regret Meets Purpose | Untold Story of I | [Read More](https://medium.com/p/b15ce19a5d04) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 14:18:28 GMT | The 5 Data Science Tools That Quietly Replaced My Expensive Software Stack | Fateyaly | [Read More](https://medium.com/p/a5cfc419603c) |
 | Tue, 23 Sep 2025 14:15:54 GMT | Network Troubleshooting Like a Pro | Karthick Dkk | [Read More](https://medium.com/p/0ca72fbf265d) |
 | Tue, 23 Sep 2025 14:06:56 GMT | How to build a bank p3: The domain controller | Logan Elkins | [Read More](https://medium.com/p/c4fef9654a54) |
-| Tue, 23 Sep 2025 14:06:01 GMT | They Laughed at My “Fingerprint Login” Until It Blocked 99.7% of Hackers | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/60dfe82744a6) |
-| Tue, 23 Sep 2025 14:02:22 GMT | What Gang-Stalking / Targeting Looks Like From the Outside In | Reclamation Nation | [Read More](https://medium.com/p/7e0f766b0510) |
-| Tue, 23 Sep 2025 14:02:13 GMT | Cyber Briefing: 2025.09.23 | CyberMaterial | [Read More](https://medium.com/p/be76a9734b8a) |
-| Tue, 23 Sep 2025 13:59:44 GMT | 7 Data Science Tricks I Wish I Knew Before My First Job Interview | Fateyaly | [Read More](https://medium.com/p/cbe603591409) |
-| Tue, 23 Sep 2025 13:58:40 GMT | The Dark Web Intelligence Kit: 11 Tools for Anonymous Research | Andrei Ivan | [Read More](https://medium.com/p/5507dc97633d) |
-| Tue, 23 Sep 2025 13:51:52 GMT | AWS VPC Networking Tutorial: Resolve Server Connection Issues with Routes and Security Groups | DarkoTechOps | [Read More](https://medium.com/p/85c3429a1920) |
