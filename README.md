@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 21:48:46 GMT | LFI (File Inclusion) Nedir ? | Azat Dicle | [Read More](https://medium.com/p/34a61866bc95) |
+| Tue, 23 Sep 2025 21:44:14 GMT | CyberDefender’s Insider Lab using FTK imager | Adewale Ayomide | [Read More](https://medium.com/p/8197a3268330) |
+| Tue, 23 Sep 2025 21:37:51 GMT | GCP’s Hidden Security Feature  VPC Service Controls Explained | Cloud Security Masterclass | [Read More](https://medium.com/p/7782bce038e7) |
+| Tue, 23 Sep 2025 21:27:45 GMT | Cybersecurity Beyond Software Flaws: My Take on Jen Easterly’s Talk in Jacksonville | Wesley Belleman | [Read More](https://medium.com/p/ac22cd2a932e) |
 | Tue, 23 Sep 2025 21:21:00 GMT | Day 7 — Uncovering Hidden Vulnerabilities with Nikto: A Beginner’s Guide | OxErvin | [Read More](https://medium.com/p/873b52a5e3f2) |
 | Tue, 23 Sep 2025 21:05:38 GMT | Phishing Has a New Enemy: Inside AegisAI’s Multi-Agent Email Guard | Chris Zhang | [Read More](https://medium.com/p/43cf313d5ac0) |
 | Tue, 23 Sep 2025 21:02:53 GMT | ShadowLeak and the Strategic Fragility of AI Leadership | Jason Connerty | [Read More](https://medium.com/p/bfafededffe1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 15:18:23 GMT | EXPRESSWAY — HTB | H3XH7WK | [Read More](https://medium.com/p/681be6b2cf65) |
 | Tue, 23 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/2374a4bf1825) |
 | Tue, 23 Sep 2025 15:10:28 GMT | How to Protect Your Product from Supply Chain Attacks on GitHub | Pirikara | [Read More](https://medium.com/p/4da0f91df160) |
-| Tue, 23 Sep 2025 15:09:31 GMT | Hacking Raven 1 — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/879572c96e90) |
-| Tue, 23 Sep 2025 15:03:04 GMT | Inside the World of Initial Access Brokers: Google’s Findings | Keepnet Labs | [Read More](https://medium.com/p/b46cd3ec8541) |
-| Tue, 23 Sep 2025 15:00:24 GMT | “The Low-Hanging Fruit That Pays Off: Hunting P4 Bugs” | Aman Sharma | [Read More](https://medium.com/p/2423fb3dcaee) |
-| Tue, 23 Sep 2025 14:59:38 GMT | Building a Cyber Security Portfolio — Technical Step 1: Linux Beginux | Randy Puffin | [Read More](https://medium.com/p/ca229d918511) |
