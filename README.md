@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 11:26:37 GMT | Disguised Surveillance: How Chat Control Instrumentalizes Child Protection to Erode European… | Eugenia Suárez | [Read More](https://medium.com/p/87034158ac3f) |
+| Tue, 23 Sep 2025 11:23:15 GMT | Breakthrough info tech for impact investing | Erik Kvam | [Read More](https://medium.com/p/180db2f7ab99) |
+| Tue, 23 Sep 2025 11:21:56 GMT | DragonForce Ransomware: Technical Analysis and Mitigation Strategies | Loginsoft | [Read More](https://medium.com/p/3e04938c6857) |
+| Tue, 23 Sep 2025 11:14:31 GMT | Understanding Packets and Frames: How Data Travels Across Networks | Sumit Sah | [Read More](https://medium.com/p/d69f6d633a9b) |
 | Tue, 23 Sep 2025 11:13:21 GMT | AI Security : LLM02 — Sensitive Information Disclosure | Nabarko Roy | [Read More](https://medium.com/p/271fa1fc30e7) |
 | Tue, 23 Sep 2025 11:11:53 GMT | Hunting For PsExec.exe abuse | Ameer Mane | [Read More](https://medium.com/p/ef81556af21e) |
+| Tue, 23 Sep 2025 11:11:47 GMT | What Are the 4 Best Strategies for Building an App in 2025 — and the Practical Steps to Showcase… | Kelly | [Read More](https://medium.com/p/f4bed3895b62) |
 | Tue, 23 Sep 2025 11:08:30 GMT | ️ Cybersecurity Roadmap for Absolute Beginners (2025 Edition) | Aditya Bhatt | [Read More](https://medium.com/p/6aa918115e9f) |
 | Tue, 23 Sep 2025 11:05:50 GMT | After You Left, the Memories Persisted | Aliyu Ibrahim | [Read More](https://medium.com/p/057c792c47a4) |
 | Tue, 23 Sep 2025 11:02:41 GMT | From a Messy Script to Cloud Backup Manager ☁️⚡ | Voldemort | [Read More](https://medium.com/p/01dac56ec9bd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 06:34:52 GMT | Linux Security Incident Response | Eren Cankut Uysal | [Read More](https://medium.com/p/a5f1b050f894) |
 | Tue, 23 Sep 2025 06:31:51 GMT | The OSINT Hacker’s Cheat Sheet in 2025 - Cyber Codex | Aenosh Rajora | [Read More](https://medium.com/p/c2ae1eb82b6b) |
 | Tue, 23 Sep 2025 06:28:17 GMT | From Campus to Career—Your Roadmap to a Thriving IT Career Before Graduation | cisprotraining | [Read More](https://medium.com/p/6df3c3769934) |
-| Tue, 23 Sep 2025 06:23:56 GMT | Interior Design Services Market to reach 186.61 | Anamika Prasad | [Read More](https://medium.com/p/9a2375a43a5a) |
-| Tue, 23 Sep 2025 06:20:17 GMT | Why Learning AI & Cybersecurity in 2025 Could Decide Your Career Future? | JetkingChandigarh | [Read More](https://medium.com/p/9b9f8c0909e8) |
-| Tue, 23 Sep 2025 06:19:24 GMT | Evolve with miniOrange’s Joomla MFA | miniOrange | [Read More](https://medium.com/p/b617660bda73) |
-| Tue, 23 Sep 2025 06:15:57 GMT | Farewell to Custody Risk, Embrace Asset Sovereignty: How Digital Shield Makes Top-Tier Security… | Digital Shield | [Read More](https://medium.com/p/25869822bb1f) |
-| Tue, 23 Sep 2025 06:12:19 GMT | Linux Containers Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/e58c271a22cc) |
