@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 01:31:47 GMT | Hacking the Human | Nexumo | [Read More](https://medium.com/p/91b41f0142f6) |
+| Tue, 23 Sep 2025 01:21:03 GMT | # Just Started My Cybersecurity Journey: Network+ Fundamentals Explained | Ibrahim bashua | [Read More](https://medium.com/p/54f2056adf8e) |
+| Tue, 23 Sep 2025 01:05:00 GMT | Tuesday Morning Threat Report: Sept 23, 2025 | Mark Maguire | [Read More](https://medium.com/p/f484bbfea88b) |
+| Tue, 23 Sep 2025 00:46:24 GMT | How I Built VPC Traffic Flow with Security on AWS - NextWork Project | Angie | [Read More](https://medium.com/p/8e0f174e9056) |
+| Tue, 23 Sep 2025 00:26:24 GMT | Vulnerability, Trauma, and the Habit of Explaining | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/b789d2d3cc59) |
+| Tue, 23 Sep 2025 00:22:34 GMT | Hello World — Breaking Into the Digital Space | Revverzed | [Read More](https://medium.com/p/1c978bafd18e) |
+| Tue, 23 Sep 2025 00:04:10 GMT | Why Security Teams Are Fighting Threats They Can’t See | Rishisec | [Read More](https://medium.com/p/075d0072600f) |
+| Tue, 23 Sep 2025 00:01:50 GMT | XSStrike: Guía completa para la detección y explotación de XSS | JPablo13 | [Read More](https://medium.com/p/ff1447a69eac) |
+| Mon, 22 Sep 2025 23:59:41 GMT | Emerging Frontiers for Developers in the Age of AI-Driven App Development. By: Martin Onyisi | Martin Onyisi | [Read More](https://medium.com/p/5cc484aa4a1f) |
+| Mon, 22 Sep 2025 23:56:23 GMT | TryHackMe #44 - OWASP Top 10–2021 | 0xGroot | [Read More](https://medium.com/p/81bbc3eaeb07) |
+| Mon, 22 Sep 2025 23:53:41 GMT | Bug Bounty Hunting for GenAI | ToxSec | [Read More](https://medium.com/p/78b66f0b3323) |
+| Mon, 22 Sep 2025 23:51:45 GMT | TryHackMe #43 - Burp Suite: The Basics | 0xGroot | [Read More](https://medium.com/p/db4275f3b1e1) |
+| Mon, 22 Sep 2025 23:47:46 GMT | TryHackMe #42 - SQL Fundamentals | 0xGroot | [Read More](https://medium.com/p/03dc1022f502) |
+| Mon, 22 Sep 2025 23:41:13 GMT | Bug Bounty Hunting for GenAI | ToxSec | [Read More](https://medium.com/p/a985fa0d1a09) |
+| Mon, 22 Sep 2025 23:39:22 GMT | SSTI — Django QuerySets | Lucas V. Marangoni | [Read More](https://medium.com/p/9de55c46cd1a) |
+| Mon, 22 Sep 2025 23:39:20 GMT | Little Obsessions: The Mosquito Who Helped Me Find Love | Krystal Ecrit des Choses | [Read More](https://medium.com/p/760b37df8ee6) |
+| Mon, 22 Sep 2025 23:34:05 GMT | 4 Surprising Truths Hidden Inside Ancient Secret Codes | Muhammad Awais | [Read More](https://medium.com/p/10782ddecb66) |
 | Mon, 22 Sep 2025 23:32:32 GMT | Why Your Hacking Articles Never Trend (But Dev Projects Always Do) | Alex Grande | [Read More](https://medium.com/p/7f2ef232c06a) |
 | Mon, 22 Sep 2025 23:31:41 GMT | Your AI ‘Student’ Could Be Leaking Company Secrets | Scott Huang | [Read More](https://medium.com/p/0ba501305077) |
 | Mon, 22 Sep 2025 23:31:11 GMT | Lookback writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9d5f10a62eb7) |
@@ -97,20 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 18:08:00 GMT | ️ What is Cybersecurity? A Beginner’s Guide to Staying Safe Online | Cyber Defender | [Read More](https://medium.com/p/d97d70e5d464) |
 | Mon, 22 Sep 2025 18:02:39 GMT | 9 Security Practices Dev Teams Fake but Never Do | Dax | [Read More](https://medium.com/p/43975d69f7c7) |
 | Mon, 22 Sep 2025 18:02:16 GMT | Game Testing Techniques: How to Find and Fix Bugs Fast ⚡ | ATNO For Game Developer | [Read More](https://medium.com/p/0195b39ced3e) |
-| Mon, 22 Sep 2025 18:01:47 GMT | LFI + RCE en Node.js, Python y PHP — Nuevo vídeo este martes 23 | Gorka | [Read More](https://medium.com/p/370c1a0e84d9) |
-| Mon, 22 Sep 2025 18:01:47 GMT | Why Everyone’s Wrong About API Key Security Being “Too Simple” | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/1440895936ee) |
-| Mon, 22 Sep 2025 18:00:29 GMT | CORS Explained: Why Your API Calls Fail in the Browser (But Work in Postman) | Yash | [Read More](https://medium.com/p/46c7ca06e9d6) |
-| Mon, 22 Sep 2025 17:56:28 GMT | ️ A Methodical Approach to Web Application API Testing: Beyond Burp’s Active Scanner | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/793d064e2b15) |
-| Mon, 22 Sep 2025 17:52:49 GMT | Step Out of the Boat: Embracing Discomfort to Grow in Cybersecurity and Life | David ONeal | [Read More](https://medium.com/p/fcf81113c4e1) |
-| Mon, 22 Sep 2025 17:47:32 GMT | AI/LLM Hacking-Part 3 -Sensitive Data Disclosure | Darshan Naresh Naik | [Read More](https://medium.com/p/5417f57b778b) |
-| Mon, 22 Sep 2025 17:47:09 GMT | THM - AppSec IR | Francesco Pastore | [Read More](https://medium.com/p/74d1f4802c38) |
-| Mon, 22 Sep 2025 17:34:21 GMT | Cybersecurity for Normal People: 10 Simple Ways to Stay Safe Online | Aj | [Read More](https://medium.com/p/289b34cbb042) |
-| Mon, 22 Sep 2025 17:17:38 GMT | Stronger Infrastructure, Stronger Hackers: Build Resilience to Build Skill | Iserjaoui | [Read More](https://medium.com/p/b1584db39c44) |
-| Mon, 22 Sep 2025 17:14:44 GMT | Necromancer VM Walkthrough | Spookz | [Read More](https://medium.com/p/67034e8c28b3) |
-| Mon, 22 Sep 2025 17:14:07 GMT | Apply Filters to SQL Queries: A Cybersecurity Use Case | Citadel Cybersec | [Read More](https://medium.com/p/6c92bef5f944) |
-| Mon, 22 Sep 2025 17:13:54 GMT | Haunted Console - The Persistence You Can’t Detect | Mahdi Hamedani | [Read More](https://medium.com/p/5468ec92b4cd) |
-| Mon, 22 Sep 2025 17:12:43 GMT | Vulnversity — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/632e2e6a3a54) |
-| Mon, 22 Sep 2025 17:09:55 GMT | The Use of Deadly Force Against Drug Smuggling Vessels: A Legal Analysis | Centre for International and Defence Policy | [Read More](https://medium.com/p/f3b16ee470e9) |
-| Mon, 22 Sep 2025 17:08:04 GMT | Demystifying the OSI Model: A Beginner’s Guide to Networking | Sumit Sah | [Read More](https://medium.com/p/72b7a9d36132) |
-| Mon, 22 Sep 2025 17:05:21 GMT | Phishing 2.0: QR Codes and Deepfakes Are the New Frontline | Jimi Newlander | [Read More](https://medium.com/p/d01d6a7cf294) |
-| Mon, 22 Sep 2025 17:03:00 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/755a122ad097) |
