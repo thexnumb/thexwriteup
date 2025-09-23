@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 23:12:34 GMT | Write-up PicoCTF (Capture The Flag) — File Upload — Trickster | Sérgio Corrêa | [Read More](https://medium.com/p/542ed49a59b5) |
+| Tue, 23 Sep 2025 23:01:47 GMT | What Your Smart Home Devices Aren’t Telling You: The Hidden Network Traffic That Should Concern… | Ty Carruth | [Read More](https://medium.com/p/25ec1030bcc9) |
+| Tue, 23 Sep 2025 22:52:31 GMT | Best Antivirus Software for Chromebook in 2025: Top Picks and Comprehensive Guide | TTV News | [Read More](https://medium.com/p/2030f8435851) |
+| Tue, 23 Sep 2025 22:47:06 GMT | Letting Grok Teach Me Computer Security For 1 Week: Part 2 | Colin Zhou | [Read More](https://medium.com/p/fb4601048ea5) |
+| Tue, 23 Sep 2025 22:43:04 GMT | Tech Literacy - Who Will Be Left Behind in the Quantum Digital Age? | Brittni | [Read More](https://medium.com/p/a6d1d7d491d4) |
+| Tue, 23 Sep 2025 22:31:54 GMT | I Lost My Crypto Wallet — Here’s How I Got It Back! WhatsApp +14042456415 | Aaron Dash | [Read More](https://medium.com/p/dc400ce396be) |
 | Tue, 23 Sep 2025 22:12:51 GMT | The Future of Home & Business Security: Smart Cameras, Access Control, and Intercom Systems… | Marksjoe | [Read More](https://medium.com/p/ae95fc309b07) |
 | Tue, 23 Sep 2025 21:48:46 GMT | LFI (File Inclusion) Nedir ? | Azat Dicle | [Read More](https://medium.com/p/34a61866bc95) |
 | Tue, 23 Sep 2025 21:44:14 GMT | CyberDefender’s Insider Lab using FTK imager | Adewale Ayomide | [Read More](https://medium.com/p/8197a3268330) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 15:52:47 GMT | OSI Katmanları | Asude Handan Uslukılıç | [Read More](https://medium.com/p/d70ed0efa13b) |
 | Tue, 23 Sep 2025 15:51:53 GMT | Reconnaissance: Passive and Active Scanning (Part1) | mohandika | [Read More](https://medium.com/p/602824c4eb9f) |
 | Tue, 23 Sep 2025 15:41:46 GMT | SentryPC: The Digital Shield for School Internet Safety | Paul Meyer | [Read More](https://medium.com/p/cbd20e5d4c91) |
-| Tue, 23 Sep 2025 15:37:47 GMT | 7 Real-World Data Breaches Caused by Bad Auth Practices | Vaishnavi Kengale | [Read More](https://medium.com/p/b6083403a27c) |
-| Tue, 23 Sep 2025 15:31:47 GMT | Target Reconnaissance with OSINT Tools: Gathering Intelligence from Open Sources | Esra Kayhan | [Read More](https://medium.com/p/34b2ed945af8) |
-| Tue, 23 Sep 2025 15:30:29 GMT | The Hacker’s Guide to Customer Loyalty: Beyond Competitors and Copycats | Vijay Kumar Gupta | [Read More](https://medium.com/p/ad7e6680c9d0) |
-| Tue, 23 Sep 2025 15:18:47 GMT | picoCTF 2025 — Writeup: EVEN RSA CAN BE BROKEN??? | Kishor K. | [Read More](https://medium.com/p/7cedd5d639df) |
-| Tue, 23 Sep 2025 15:18:23 GMT | EXPRESSWAY — HTB | H3XH7WK | [Read More](https://medium.com/p/681be6b2cf65) |
-| Tue, 23 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/2374a4bf1825) |
