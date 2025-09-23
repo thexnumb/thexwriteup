@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 10:38:05 GMT | Global Security Cameras IR Illuminator Market Fueled by Advancements in Night Vision and AI… | Aiden clark | [Read More](https://medium.com/p/dc473d167431) |
+| Tue, 23 Sep 2025 10:36:37 GMT | Rethinking Smishing: Why the Telecom Industry Needs a Different Approach | Paul Walsh | [Read More](https://medium.com/p/ddc2ba751c50) |
+| Tue, 23 Sep 2025 10:27:31 GMT | 5 Signs You Need Compliance Automation Software | Hicomply | [Read More](https://medium.com/p/042a11c17ae2) |
 | Tue, 23 Sep 2025 10:12:28 GMT | A Critical Bug Let Me Become an Admin on an External Bug Bounty Program | Ln0rag | [Read More](https://medium.com/p/e76733ca07eb) |
+| Tue, 23 Sep 2025 10:10:49 GMT | CVE-2025–53692: XSS Vulnerability Plagues Sitecore XP/XM — Are You Affected? | CVEHUB | [Read More](https://medium.com/p/d523f6fc5ce2) |
 | Tue, 23 Sep 2025 10:10:08 GMT | Analyzing Firmware And Extracting Filesystem | Redfox Security | [Read More](https://medium.com/p/f5eda3b947b4) |
 | Tue, 23 Sep 2025 10:04:51 GMT | TechD Cybersecurity: How Indian Government is using cybersecurity firm of India to gain Strategic… | CorporateXray | [Read More](https://medium.com/p/2bce5a813de6) |
 | Tue, 23 Sep 2025 10:03:59 GMT | Phishing Gotcha? Navigating Tricky Emails & Keeping Your Data Safe | Authlyn | [Read More](https://medium.com/p/b1f85e7b849e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 05:35:44 GMT | Mask Off: How I Exploited Broken OAuth to Login as Anyone | Iski | [Read More](https://medium.com/p/f1ce3c88d9b2) |
 | Tue, 23 Sep 2025 05:35:43 GMT | Security Implications of Digital Twins | Cyber Security Research | [Read More](https://medium.com/p/263f94107f0b) |
 | Tue, 23 Sep 2025 05:35:22 GMT | Protecting against cross-site scripting with trusted types | Dominic Bachmann | [Read More](https://medium.com/p/94f0b3c32129) |
-| Tue, 23 Sep 2025 05:33:54 GMT | What Are the Key Security Features to Consider for VMware Alternatives? | Arcfra | [Read More](https://medium.com/p/3e650647130b) |
-| Tue, 23 Sep 2025 05:31:45 GMT | 5 FastAPI Auth Flows That Don’t Add Latency | Hash Block | [Read More](https://medium.com/p/4ca1947dfde7) |
-| Tue, 23 Sep 2025 05:31:45 GMT | 7 Tips for Implementing HMAC-Signed Requests in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6c0f4ea03e8b) |
-| Tue, 23 Sep 2025 05:30:46 GMT | Bridging the Divide: Afghan-Pakistani Tensions, TTP Violence, and the Islamic Path to Unity | FM Qureshi | [Read More](https://medium.com/p/a77be50b92e1) |
