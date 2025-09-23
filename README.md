@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 13:45:30 GMT | My OSEP journey | Lukasz Wierzbicki | [Read More](https://medium.com/p/955d9afef33c) |
+| Tue, 23 Sep 2025 13:42:50 GMT | From Offense to Defense: Hardening What You Broke | Fateyaly | [Read More](https://medium.com/p/c8b0c16c98ce) |
+| Tue, 23 Sep 2025 13:37:30 GMT | Security Express and Nest: Fortifying Your App with Helmet Middleware | Marian Pirvan | [Read More](https://medium.com/p/827c3841b2bc) |
+| Tue, 23 Sep 2025 13:31:50 GMT | Pulled the Red Cord? Here’s How to Easily Reset Your Garage Door Opener | Up & Down Garage Door Services | [Read More](https://medium.com/p/9966201dedd4) |
+| Tue, 23 Sep 2025 13:30:25 GMT | Understanding Backend Security | Mari_Nnanna | [Read More](https://medium.com/p/0e98d717aac2) |
+| Tue, 23 Sep 2025 13:30:00 GMT | eJPT v2 : Challenge Lab 20: Mr Robot | Dhanushkumar R | [Read More](https://medium.com/p/31278379b6e6) |
+| Tue, 23 Sep 2025 13:29:16 GMT | Employees’ responsibility in preventing Business Email Compromise (BEC) | Chidubem Ukamaka Onyejemuo | [Read More](https://medium.com/p/ba225f0c7dbe) |
+| Tue, 23 Sep 2025 13:27:17 GMT | Run ParrotOS in Docker in 2 steps | tamilvanan | [Read More](https://medium.com/p/c440f93ad08d) |
+| Tue, 23 Sep 2025 13:25:51 GMT | Hard Disk Drives (HDD) and Solid State Drives (SSD): Guide | Parvva | [Read More](https://medium.com/p/af17a4a1136c) |
+| Tue, 23 Sep 2025 13:25:37 GMT | Social Media Use != Minimal Support Needs | Noisy Skin Bag | [Read More](https://medium.com/p/f5d99c4d05be) |
+| Tue, 23 Sep 2025 13:24:44 GMT | Fundamentals of Secure Web Development: Building Websites That Can’t Be Easily Hacked | Ehinomhen Okaiwele | [Read More](https://medium.com/p/cf6ae009bcea) |
 | Tue, 23 Sep 2025 13:23:49 GMT | Beyond Technology: Our Social Mission at Hello Future Technologies | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/586bab370837) |
 | Tue, 23 Sep 2025 13:23:23 GMT | PG Practice — Fanatastic (Linux) | Lepton | [Read More](https://medium.com/p/4615653fbbf7) |
 | Tue, 23 Sep 2025 13:22:21 GMT | The New Frontier: Advanced Cybersecurity in a Hyperconnected World | Shivam Rawat | [Read More](https://medium.com/p/71dcee93c23f) |
+| Tue, 23 Sep 2025 13:19:51 GMT | [CyberSec] Enhancing Active Directory Security with BloodHound and PingCastle | Pietro Romano / SecBeret | [Read More](https://medium.com/p/f51f48840bd6) |
+| Tue, 23 Sep 2025 13:18:00 GMT | Seeing is Surviving: Why Cybersecurity Visibility is the Lifeline for Small Businesses | Samuel George | [Read More](https://medium.com/p/03eb022139a3) |
 | Tue, 23 Sep 2025 13:16:54 GMT | How I Learned Cybersecurity in 30 Days Using Only ChatGPT | Ibtissam hammadi | [Read More](https://medium.com/p/3e94d03f0423) |
 | Tue, 23 Sep 2025 13:13:30 GMT | RHACS: Securing Openshift Clusters | Fabio Reis | [Read More](https://medium.com/p/17bf3d435339) |
 | Tue, 23 Sep 2025 13:11:37 GMT | LastPass Malware Campaign Targets macOS Users | TheReviewHive | [Read More](https://medium.com/p/bd5af22bb0a7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 08:51:39 GMT | Real-World Example: Complete Application Setup | Claudio Masolo | [Read More](https://medium.com/p/8f5a5a51492c) |
 | Tue, 23 Sep 2025 08:46:03 GMT | What is a 51% Attack and Why It Matters for Blockchain | Kate Zakharava | [Read More](https://medium.com/p/56964989d3fb) |
 | Tue, 23 Sep 2025 08:43:18 GMT | How AI and Biometrics Are Driving the U.S. Facial Recognition Software Market | Vijay Mishra | [Read More](https://medium.com/p/352638f597a9) |
-| Tue, 23 Sep 2025 08:41:23 GMT | OH MY WEBSERVER -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/782f20b79bba) |
-| Tue, 23 Sep 2025 08:35:40 GMT | Python : Perulangan Dan Kontrol Arul | Cahyoadi | [Read More](https://medium.com/p/c37826ba0fd2) |
-| Tue, 23 Sep 2025 08:32:29 GMT | Hacking the 20B Beast: Inside OpenAI’s GPT-OSS Red Teaming Thriller | Jonathan Boice | [Read More](https://medium.com/p/b98f33c77112) |
-| Tue, 23 Sep 2025 08:32:24 GMT | Ransomware Hits the Skies: Unpacking the 2025 European Airport Cyberattack and Fortifying Your… | Mrsadiq | [Read More](https://medium.com/p/1627bbc94bfc) |
-| Tue, 23 Sep 2025 08:31:47 GMT | Anchors: Why Safety Isn’t Always Safe | Neil Hawkesford | [Read More](https://medium.com/p/bb76c58acdc6) |
-| Tue, 23 Sep 2025 08:28:33 GMT | How to Keep Your Software Secure from Online Threats | Ask IT Support | [Read More](https://medium.com/p/530615aee9c2) |
-| Tue, 23 Sep 2025 08:26:24 GMT | UrlScan Dorks for endpoints hiding behind ASN and Subnet | AbhirupKonwar | [Read More](https://medium.com/p/5cd5c610f5ae) |
-| Tue, 23 Sep 2025 08:22:36 GMT | Leaked Access Logs : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/430eaca0250a) |
-| Tue, 23 Sep 2025 08:15:28 GMT | When Words Turn Against You: Understanding Prompt Injection in LLMs | Rabia AMAAOUCH | [Read More](https://medium.com/p/aeba9b2991c7) |
-| Tue, 23 Sep 2025 08:15:13 GMT | Fascinating Facts You Will Learn in an AI Course in Nepal | Nepal Verse | [Read More](https://medium.com/p/5038de789d2e) |
-| Tue, 23 Sep 2025 08:12:54 GMT | Processing 10 Million Logs Per Second: Migration from RabbitMQ to Kafka | Burak Bozacı | [Read More](https://medium.com/p/4334ed8ee77a) |
-| Tue, 23 Sep 2025 08:08:27 GMT | ประจำวันอังคารที่ 23 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/140d1084ab65) |
-| Tue, 23 Sep 2025 08:05:09 GMT | The Leaks Begin | Maaz Shaikh | [Read More](https://medium.com/p/751d63861add) |
