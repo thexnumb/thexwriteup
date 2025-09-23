@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 07:14:42 GMT | Day 10: The AI That Learned to Think Like a Human — Sarah Discovers How Kubernetes Extends Its Own… | Mahimagarg | [Read More](https://medium.com/p/7860dd89a92d) |
+| Tue, 23 Sep 2025 07:12:32 GMT | Best Field Force Management Software in India - Track Your Field Operations | Anbarasans | [Read More](https://medium.com/p/c3df0f017173) |
+| Tue, 23 Sep 2025 07:07:05 GMT | Good Hosting, Less Headaches | MioriticHost | [Read More](https://medium.com/p/9c14447dc218) |
+| Tue, 23 Sep 2025 07:00:56 GMT | The Future of Cybersecurity in the Middle East: Trends to Watch in 2025 | Reghu Mohandas | [Read More](https://medium.com/p/d8f2b6f92b00) |
+| Tue, 23 Sep 2025 07:00:49 GMT | Global PC Market Size Driven by AI-Enabled Devices, OS Upgrade Cycles, and Rising Gaming Demand | Anamika Prasad | [Read More](https://medium.com/p/e53e0a72fcad) |
+| Tue, 23 Sep 2025 06:57:30 GMT | Joseph Lamar Simmons - 5 Ways Officers Safeguard Infrastructure | Joseph Lamar Simmons | [Read More](https://medium.com/p/088770bc724c) |
+| Tue, 23 Sep 2025 06:56:31 GMT | Best Cybersecurity and Ethical Hacking Learning Platform in Bangladesh | M M A AL NOMAN | [Read More](https://medium.com/p/5a54cbad7f47) |
+| Tue, 23 Sep 2025 06:53:29 GMT | The Awakening of Digital Sovereignty: How Digital Shield is Reshaping the Security Boundary of Web3 | Digital Shield Offcial | [Read More](https://medium.com/p/499e4b9a177d) |
+| Tue, 23 Sep 2025 06:49:13 GMT | Banned or Boosted: How Vaccine Myths Travel Faster Than Science | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/8184571dac09) |
+| Tue, 23 Sep 2025 06:48:32 GMT | How to Become a “Hype” Person in Today’s IT Industry | Kalana De Silva | [Read More](https://medium.com/p/d50f9ef84295) |
+| Tue, 23 Sep 2025 06:47:01 GMT | How to Choose the Right Endpoint Security Service for Your Organization | Qualysec | [Read More](https://medium.com/p/0617170be675) |
+| Tue, 23 Sep 2025 06:43:39 GMT | Linux Forensic Analysis | Eren Cankut Uysal | [Read More](https://medium.com/p/c01ac772df6f) |
+| Tue, 23 Sep 2025 06:43:15 GMT | The rush to bring AI into daily life | Enrique Onieva Caracuel | [Read More](https://medium.com/p/98f16e626278) |
+| Tue, 23 Sep 2025 06:43:05 GMT | SSTI to Remote Code Execution | Shahin Gurbanov | [Read More](https://medium.com/p/04f91d0882ca) |
+| Tue, 23 Sep 2025 06:42:27 GMT | Stop Shipping Bloated Containers: The DevOps Guide to Multi-Stage Builds | Ashish Singh | [Read More](https://medium.com/p/82aaabfbac9f) |
+| Tue, 23 Sep 2025 06:42:05 GMT | SEC Cyber Disclosure Rule 2025: First Wave of Filings | Pentest_Testing_Corp | [Read More](https://medium.com/p/df57fb3ba6b3) |
+| Tue, 23 Sep 2025 06:40:47 GMT | Jaguar Land Rover Cyberattack: How It’s Disrupting the Supply Chain | ReputationOneAI | [Read More](https://medium.com/p/7844d94fc60b) |
+| Tue, 23 Sep 2025 06:38:50 GMT | Navigating the Labyrinth: How 5D Relationships Handle Conflict Without Breaking Down | Wilson Igbasi | [Read More](https://medium.com/p/2dd37d9b0b57) |
+| Tue, 23 Sep 2025 06:37:06 GMT | Best Practices for Enhancing Attack Surface Management and Accelerating Vulnerability Response | StarkMan | [Read More](https://medium.com/p/4747046b176b) |
+| Tue, 23 Sep 2025 06:36:22 GMT | Mengamankan File Sensitif & Directory Listing website dengan .htaccess | AHS, CCNA | [Read More](https://medium.com/p/a3da280db52c) |
+| Tue, 23 Sep 2025 06:34:52 GMT | Linux Security Incident Response | Eren Cankut Uysal | [Read More](https://medium.com/p/a5f1b050f894) |
+| Tue, 23 Sep 2025 06:31:51 GMT | The OSINT Hacker’s Cheat Sheet in 2025 - Cyber Codex | Aenosh Rajora | [Read More](https://medium.com/p/c2ae1eb82b6b) |
+| Tue, 23 Sep 2025 06:28:17 GMT | From Campus to Career—Your Roadmap to a Thriving IT Career Before Graduation | cisprotraining | [Read More](https://medium.com/p/6df3c3769934) |
+| Tue, 23 Sep 2025 06:23:56 GMT | Interior Design Services Market to reach 186.61 | Anamika Prasad | [Read More](https://medium.com/p/9a2375a43a5a) |
 | Tue, 23 Sep 2025 06:20:17 GMT | Why Learning AI & Cybersecurity in 2025 Could Decide Your Career Future? | JetkingChandigarh | [Read More](https://medium.com/p/9b9f8c0909e8) |
 | Tue, 23 Sep 2025 06:19:24 GMT | Evolve with miniOrange’s Joomla MFA | miniOrange | [Read More](https://medium.com/p/b617660bda73) |
 | Tue, 23 Sep 2025 06:15:57 GMT | Farewell to Custody Risk, Embrace Asset Sovereignty: How Digital Shield Makes Top-Tier Security… | Digital Shield | [Read More](https://medium.com/p/25869822bb1f) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 00:01:50 GMT | XSStrike: Guía completa para la detección y explotación de XSS | JPablo13 | [Read More](https://medium.com/p/ff1447a69eac) |
 | Mon, 22 Sep 2025 23:59:41 GMT | Emerging Frontiers for Developers in the Age of AI-Driven App Development. By: Martin Onyisi | Martin Onyisi | [Read More](https://medium.com/p/5cc484aa4a1f) |
 | Mon, 22 Sep 2025 23:56:23 GMT | TryHackMe #44 - OWASP Top 10–2021 | 0xGroot | [Read More](https://medium.com/p/81bbc3eaeb07) |
-| Mon, 22 Sep 2025 23:53:41 GMT | Bug Bounty Hunting for GenAI | ToxSec | [Read More](https://medium.com/p/78b66f0b3323) |
-| Mon, 22 Sep 2025 23:51:45 GMT | TryHackMe #43 - Burp Suite: The Basics | 0xGroot | [Read More](https://medium.com/p/db4275f3b1e1) |
-| Mon, 22 Sep 2025 23:47:46 GMT | TryHackMe #42 - SQL Fundamentals | 0xGroot | [Read More](https://medium.com/p/03dc1022f502) |
-| Mon, 22 Sep 2025 23:41:13 GMT | Bug Bounty Hunting for GenAI | ToxSec | [Read More](https://medium.com/p/a985fa0d1a09) |
-| Mon, 22 Sep 2025 23:39:22 GMT | SSTI — Django QuerySets | Lucas V. Marangoni | [Read More](https://medium.com/p/9de55c46cd1a) |
-| Mon, 22 Sep 2025 23:39:20 GMT | Little Obsessions: The Mosquito Who Helped Me Find Love | Krystal Ecrit des Choses | [Read More](https://medium.com/p/760b37df8ee6) |
-| Mon, 22 Sep 2025 23:34:05 GMT | 4 Surprising Truths Hidden Inside Ancient Secret Codes | Muhammad Awais | [Read More](https://medium.com/p/10782ddecb66) |
-| Mon, 22 Sep 2025 23:32:32 GMT | Why Your Hacking Articles Never Trend (But Dev Projects Always Do) | Alex Grande | [Read More](https://medium.com/p/7f2ef232c06a) |
-| Mon, 22 Sep 2025 23:31:41 GMT | Your AI ‘Student’ Could Be Leaking Company Secrets | Scott Huang | [Read More](https://medium.com/p/0ba501305077) |
-| Mon, 22 Sep 2025 23:31:11 GMT | Lookback writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9d5f10a62eb7) |
-| Mon, 22 Sep 2025 23:23:13 GMT | About Me | J Linton | [Read More](https://medium.com/p/47da7184564c) |
-| Mon, 22 Sep 2025 23:17:54 GMT | SSTI — Django QuerySets | Lucas V. Marangoni | [Read More](https://medium.com/p/bbb8b0912de6) |
-| Mon, 22 Sep 2025 23:17:26 GMT | Why Reverse Video Search is Becoming Essential for Content Creators | Reversevideosearch.app | [Read More](https://medium.com/p/64ff03314d2f) |
-| Mon, 22 Sep 2025 23:08:22 GMT | Finding the “Unknown Unknowns” in Cybersecurity | Jeffrey Sam | [Read More](https://medium.com/p/7fdc6a63652d) |
-| Mon, 22 Sep 2025 22:59:25 GMT | Nigeria’s Security Crisis: Reforming Intelligence, Collaboration, and ECOWAS Policies. | Mohammed Santuraki | [Read More](https://medium.com/p/3b19d601fcf5) |
-| Mon, 22 Sep 2025 22:52:20 GMT | Forget Nigerian Princes. The New Phishing Emails Are Written by AI. | Chris Zhang | [Read More](https://medium.com/p/63811d6b82c2) |
-| Mon, 22 Sep 2025 22:45:11 GMT | Part 1 : From backyard to battlefield. | Pipeline | [Read More](https://medium.com/p/574e8720244d) |
-| Mon, 22 Sep 2025 22:33:04 GMT | Why CISOs Fail at AI Governance | Cyber-AppSec | [Read More](https://medium.com/p/9e01100be9fb) |
-| Mon, 22 Sep 2025 22:31:01 GMT | ویژگی‌های فنی و کاربردهای سرور ML اچ پی | mona hashemi | [Read More](https://medium.com/p/258f1fa3a7a0) |
-| Mon, 22 Sep 2025 22:25:03 GMT | Who Reads You? | Agnes | [Read More](https://medium.com/p/4b6cf51839cb) |
-| Mon, 22 Sep 2025 22:18:07 GMT | The Software Security Vulnerabilities Brought by the World of Agentic AI | Akvardarbugra | [Read More](https://medium.com/p/bda41da7387f) |
-| Mon, 22 Sep 2025 22:12:10 GMT | Nevada’s Ransomware Wake-Up Call: What Every Organization Must Learn | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/bd927b8f2c18) |
-| Mon, 22 Sep 2025 21:47:29 GMT | Notes of a 17-Year-Old Starting with Agentic AI and Network Security | Akvardarbugra | [Read More](https://medium.com/p/4e51fbb4f264) |
-| Mon, 22 Sep 2025 21:42:14 GMT | Anton’s Security Blog Quarterly Q3 2025 | Anton Chuvakin | [Read More](https://medium.com/p/74fc422be3d3) |
