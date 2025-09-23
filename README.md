@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 15:15:05 GMT | GZR Observer Daily — Sep 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/2374a4bf1825) |
+| Tue, 23 Sep 2025 15:10:28 GMT | How to Protect Your Product from Supply Chain Attacks on GitHub | Pirikara | [Read More](https://medium.com/p/4da0f91df160) |
+| Tue, 23 Sep 2025 15:09:31 GMT | Hacking Raven 1 — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/879572c96e90) |
+| Tue, 23 Sep 2025 15:03:04 GMT | Inside the World of Initial Access Brokers: Google’s Findings | Keepnet Labs | [Read More](https://medium.com/p/b46cd3ec8541) |
+| Tue, 23 Sep 2025 15:00:24 GMT | “The Low-Hanging Fruit That Pays Off: Hunting P4 Bugs” | Aman Sharma | [Read More](https://medium.com/p/2423fb3dcaee) |
+| Tue, 23 Sep 2025 14:59:38 GMT | Building a Cyber Security Portfolio — Technical Step 1: Linux Beginux | Randy Puffin | [Read More](https://medium.com/p/ca229d918511) |
+| Tue, 23 Sep 2025 14:58:53 GMT | Building a Cyber Security Portfolio — Step 0.5: The Road So Far | Randy Puffin | [Read More](https://medium.com/p/5ee3918789c2) |
+| Tue, 23 Sep 2025 14:55:14 GMT | Building a Cyber Security Portfolio — Introduction | Randy Puffin | [Read More](https://medium.com/p/e8184681026b) |
+| Tue, 23 Sep 2025 14:52:10 GMT | Review — CyberWarFare Labs : Certified Enterprise Lateral Movement Specialist [CELMS], When… | Chicken0248 | [Read More](https://medium.com/p/c6cfdf2e6334) |
+| Tue, 23 Sep 2025 14:49:21 GMT | picoCTF 2025 — hashcrack (Web / Forensics / Intro) | Kishor K. | [Read More](https://medium.com/p/8e829f9f5f35) |
+| Tue, 23 Sep 2025 14:46:23 GMT | Finance cyber’s plot twist: geopolitics. | Wes Young | [Read More](https://medium.com/p/6a734c1649cf) |
+| Tue, 23 Sep 2025 14:42:50 GMT | Breaking Down the First Four CISSP Security Domains: A Beginner’s Perspective | A Beginner's Perspective | [Read More](https://medium.com/p/9ff3d7fa591e) |
 | Tue, 23 Sep 2025 14:40:41 GMT | Bypass Brute-Force Protection | MOH FAIZ HIDAYATULLOH | [Read More](https://medium.com/p/44fad390360c) |
 | Tue, 23 Sep 2025 14:40:20 GMT | TryHackMe — OhSINT Room Walkthrough | devmorav | [Read More](https://medium.com/p/f1fc787dc621) |
 | Tue, 23 Sep 2025 14:38:44 GMT | Conversational AI: Less Waiting, More Solutions | O Código Futuro | [Read More](https://medium.com/p/b18ee7723cb9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 10:54:15 GMT | SPF breakage 101: Beating the 10-lookup limit (without deliverability drama) | Red Sift | [Read More](https://medium.com/p/eb46587eabec) |
 | Tue, 23 Sep 2025 10:51:47 GMT | The Hidden Digital Vulnerability: When National Interests Meet Your Personal Data | Abdelakarim Benabdallah | [Read More](https://medium.com/p/d32440056887) |
 | Tue, 23 Sep 2025 10:49:13 GMT | CVE-2025–9269: A deep dive into the Jenkins Script-Security sandbox bypass | gm0 | [Read More](https://medium.com/p/bacebd7463e1) |
-| Tue, 23 Sep 2025 10:43:42 GMT | Stop Blindly Trusting Middleware, Build Your Own PHP Security Walls | Asian Digital Hub | [Read More](https://medium.com/p/78be9f62223e) |
-| Tue, 23 Sep 2025 10:43:39 GMT | Reflections on Rejection & Gratitude for the Journey travelled thus far | Niketa | [Read More](https://medium.com/p/17951e643a85) |
-| Tue, 23 Sep 2025 10:38:05 GMT | Global Security Cameras IR Illuminator Market Fueled by Advancements in Night Vision and AI… | Aiden clark | [Read More](https://medium.com/p/dc473d167431) |
-| Tue, 23 Sep 2025 10:36:37 GMT | Rethinking Smishing: Why the Telecom Industry Needs a Different Approach | Paul Walsh | [Read More](https://medium.com/p/ddc2ba751c50) |
-| Tue, 23 Sep 2025 10:27:31 GMT | 5 Signs You Need Compliance Automation Software | Hicomply | [Read More](https://medium.com/p/042a11c17ae2) |
-| Tue, 23 Sep 2025 10:12:28 GMT | A Critical Bug Let Me Become an Admin on an External Bug Bounty Program | Ln0rag | [Read More](https://medium.com/p/e76733ca07eb) |
-| Tue, 23 Sep 2025 10:10:49 GMT | CVE-2025–53692: XSS Vulnerability Plagues Sitecore XP/XM — Are You Affected? | CVEHUB | [Read More](https://medium.com/p/d523f6fc5ce2) |
-| Tue, 23 Sep 2025 10:10:08 GMT | Analyzing Firmware And Extracting Filesystem | Redfox Security | [Read More](https://medium.com/p/f5eda3b947b4) |
-| Tue, 23 Sep 2025 10:04:51 GMT | TechD Cybersecurity: How Indian Government is using cybersecurity firm of India to gain Strategic… | CorporateXray | [Read More](https://medium.com/p/2bce5a813de6) |
-| Tue, 23 Sep 2025 10:03:59 GMT | Phishing Gotcha? Navigating Tricky Emails & Keeping Your Data Safe | Authlyn | [Read More](https://medium.com/p/b1f85e7b849e) |
-| Tue, 23 Sep 2025 10:03:57 GMT | Crypto phishing on the rise: protect your Trezor and wallet backup | Henry Windle | [Read More](https://medium.com/p/4db03d0847cb) |
-| Tue, 23 Sep 2025 10:03:40 GMT | Why India Must Build Its Own Robust Operating System :A Call for Digital Sovereignty | Chinmay Vivek | [Read More](https://medium.com/p/b1a6229ff165) |
