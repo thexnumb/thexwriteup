@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 08:43:18 GMT | How AI and Biometrics Are Driving the U.S. Facial Recognition Software Market | Vijay Mishra | [Read More](https://medium.com/p/352638f597a9) |
+| Tue, 23 Sep 2025 08:32:29 GMT | Hacking the 20B Beast: Inside OpenAI’s GPT-OSS Red Teaming Thriller | Jonathan Boice | [Read More](https://medium.com/p/b98f33c77112) |
+| Tue, 23 Sep 2025 08:32:24 GMT | Ransomware Hits the Skies: Unpacking the 2025 European Airport Cyberattack and Fortifying Your… | Mrsadiq | [Read More](https://medium.com/p/1627bbc94bfc) |
+| Tue, 23 Sep 2025 08:31:47 GMT | Anchors: Why Safety Isn’t Always Safe | Neil Hawkesford | [Read More](https://medium.com/p/bb76c58acdc6) |
+| Tue, 23 Sep 2025 08:28:33 GMT | How to Keep Your Software Secure from Online Threats | Ask IT Support | [Read More](https://medium.com/p/530615aee9c2) |
+| Tue, 23 Sep 2025 08:26:24 GMT | UrlScan Dorks for endpoints hiding behind ASN and Subnet | AbhirupKonwar | [Read More](https://medium.com/p/5cd5c610f5ae) |
 | Tue, 23 Sep 2025 08:22:36 GMT | Leaked Access Logs : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/430eaca0250a) |
 | Tue, 23 Sep 2025 08:15:28 GMT | When Words Turn Against You: Understanding Prompt Injection in LLMs | Rabia AMAAOUCH | [Read More](https://medium.com/p/aeba9b2991c7) |
 | Tue, 23 Sep 2025 08:15:13 GMT | Fascinating Facts You Will Learn in an AI Course in Nepal | Nepal Verse | [Read More](https://medium.com/p/5038de789d2e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 03:44:25 GMT | Understanding Fast Flux: The Cybercriminal’s Moving Target | Sadineni Sai Sushanth | [Read More](https://medium.com/p/f6f9e401c979) |
 | Tue, 23 Sep 2025 03:32:04 GMT | How Crypto24 Ransomware Is Turning Everyday Tools Into Weapons | Deven Chhajed | [Read More](https://medium.com/p/99835958a473) |
 | Tue, 23 Sep 2025 03:29:18 GMT | Java Insecure Deserialization | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/802e5afd565f) |
-| Tue, 23 Sep 2025 03:20:24 GMT | How to claim Nexchain presale token aug 2025 | Bitcoin penguins | [Read More](https://medium.com/p/cf48ca55957d) |
-| Tue, 23 Sep 2025 03:14:47 GMT | 10 Things You Didn’t Know About Jump Lists Forensics | Paritosh | [Read More](https://medium.com/p/b7aafdf58ee5) |
-| Tue, 23 Sep 2025 03:06:00 GMT | Portswigger walkthrough(Apprentice) | The Commoness | [Read More](https://medium.com/p/01822536ae26) |
-| Tue, 23 Sep 2025 02:54:34 GMT | EDR-Freeze: A Technique for Suspending Protected Security Processes | Tomasz Kozlowski | [Read More](https://medium.com/p/78494ee0b68a) |
-| Tue, 23 Sep 2025 02:53:55 GMT | Snort Lab Setup Guide: Practical Multi-Rule Detection for Beginners | Uphar | [Read More](https://medium.com/p/36bb6db64020) |
-| Tue, 23 Sep 2025 02:52:22 GMT | SQL Injection UNION Attack: Finding a Column Containing Text | Bash Overflow | [Read More](https://medium.com/p/662cea789110) |
