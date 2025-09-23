@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 02:52:22 GMT | SQL Injection UNION Attack: Finding a Column Containing Text | Bash Overflow | [Read More](https://medium.com/p/662cea789110) |
+| Tue, 23 Sep 2025 02:48:18 GMT | BSCP journey | Jayden | [Read More](https://medium.com/p/067bd0d78001) |
+| Tue, 23 Sep 2025 02:37:12 GMT | I Keep Writing About Cybersecurity — and It Feels Like No One Gives a Damn | Noel | [Read More](https://medium.com/p/f9f1419b061a) |
+| Tue, 23 Sep 2025 02:27:40 GMT | “Scattered Spider” Takes Another Hit : The Global Crackdown on a Teen Hacking Ring | Athishsagarkishan | [Read More](https://medium.com/p/bc712851a6ff) |
+| Tue, 23 Sep 2025 02:19:47 GMT | XSSTRON: Electron/Chromium XSS Scanner That Detects GET & POST Cross-Site Scripting Vulnerabilities | DataScience Nexus | [Read More](https://medium.com/p/326d32f96ae8) |
+| Tue, 23 Sep 2025 02:12:13 GMT | 6 Essential Types of Managed Services You Should Know About | PC Computing & Consulting | [Read More](https://medium.com/p/5cb1be568ea5) |
+| Tue, 23 Sep 2025 02:07:48 GMT | 10 JavaScript Tricks I Wish I Knew Before My First Web App | J. David Smith | [Read More](https://medium.com/p/8930cc23dfd7) |
+| Tue, 23 Sep 2025 01:59:19 GMT | JWT et OAuth2 : sécuriser vos backends avec MuleSoft et Keycloak | Amsata Mbengue | [Read More](https://medium.com/p/d83387ee61a0) |
+| Tue, 23 Sep 2025 01:58:56 GMT | The PostgreSQL Performance Checklist That Saved Your Startup | Rizqi Mulki | [Read More](https://medium.com/p/e7311d8f6ce7) |
+| Tue, 23 Sep 2025 01:51:32 GMT | PostgreSQL Deadlocks Explained: The Real Reason Queries Freeze | Rizqi Mulki | [Read More](https://medium.com/p/ea290588a285) |
+| Tue, 23 Sep 2025 01:50:08 GMT | The Hidden Security Disasters in Your Spring Boot App (And How to Stop Hackers Before They… | Lohith V P | [Read More](https://medium.com/p/23eef12d209b) |
 | Tue, 23 Sep 2025 01:31:47 GMT | Hacking the Human | Nexumo | [Read More](https://medium.com/p/91b41f0142f6) |
+| Tue, 23 Sep 2025 01:29:20 GMT | The Growing Threats That Could Shake Blockchain’s Future | Johnson William | [Read More](https://medium.com/p/8b54b3a47548) |
 | Tue, 23 Sep 2025 01:21:03 GMT | # Just Started My Cybersecurity Journey: Network+ Fundamentals Explained | Ibrahim bashua | [Read More](https://medium.com/p/54f2056adf8e) |
 | Tue, 23 Sep 2025 01:05:00 GMT | Tuesday Morning Threat Report: Sept 23, 2025 | Mark Maguire | [Read More](https://medium.com/p/f484bbfea88b) |
 | Tue, 23 Sep 2025 00:46:24 GMT | How I Built VPC Traffic Flow with Security on AWS - NextWork Project | Angie | [Read More](https://medium.com/p/8e0f174e9056) |
@@ -102,15 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 18:45:53 GMT | CyberSpec.pro — The Future of Cybersecurity Monitoring | Mayank | [Read More](https://medium.com/p/27ab0debd319) |
 | Mon, 22 Sep 2025 18:40:57 GMT | Hands-On Cybersecurity: Deploying Web Server and Monitoring with Wazuh SIEM | Solomon Yaoh | [Read More](https://medium.com/p/ad568295e8e9) |
 | Mon, 22 Sep 2025 18:40:00 GMT | Projects | Mansfield-Devine | [Read More](https://medium.com/p/8e22f6bb804c) |
-| Mon, 22 Sep 2025 18:34:20 GMT | OWASP Top 10: The Most Critical Web Vulnerabilities in Cybersecurity | Lumae | [Read More](https://medium.com/p/7d1fa856ad2f) |
-| Mon, 22 Sep 2025 18:33:11 GMT | THM - Sequence | Francesco Pastore | [Read More](https://medium.com/p/ef029c3e54c0) |
-| Mon, 22 Sep 2025 18:29:50 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2e6e5d3900d1) |
-| Mon, 22 Sep 2025 18:29:48 GMT | How I Hacked My Friends Portfolio (Clickjacking Exploit) | 693 Varad Bandekar | [Read More](https://medium.com/p/7b5b2c5936e5) |
-| Mon, 22 Sep 2025 18:24:15 GMT | Recon Like a Pro: Manual + Automated for the Best of Both Worlds | Viratavi | [Read More](https://medium.com/p/2e3845f1b661) |
-| Mon, 22 Sep 2025 18:17:06 GMT | Monday Cyber Brief — September 22 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/71615f21170a) |
-| Mon, 22 Sep 2025 18:16:57 GMT | Taking a step back… | OluwapelumiOyerinde | [Read More](https://medium.com/p/5847a1aee71d) |
-| Mon, 22 Sep 2025 18:14:25 GMT | Digital Forensic Report of M57-Jean — A single disk scenario involving the exfiltration of… | GAITHO | [Read More](https://medium.com/p/6270aee14366) |
-| Mon, 22 Sep 2025 18:08:48 GMT | NodeJS backdoors delivering proxyware and monetization schemes | Jason Reaves | [Read More](https://medium.com/p/1562917ed107) |
-| Mon, 22 Sep 2025 18:08:00 GMT | ️ What is Cybersecurity? A Beginner’s Guide to Staying Safe Online | Cyber Defender | [Read More](https://medium.com/p/d97d70e5d464) |
-| Mon, 22 Sep 2025 18:02:39 GMT | 9 Security Practices Dev Teams Fake but Never Do | Dax | [Read More](https://medium.com/p/43975d69f7c7) |
-| Mon, 22 Sep 2025 18:02:16 GMT | Game Testing Techniques: How to Find and Fix Bugs Fast ⚡ | ATNO For Game Developer | [Read More](https://medium.com/p/0195b39ced3e) |
