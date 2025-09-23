@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 23:24:54 GMT | CyberDefenders — NetX-Support Lab | jon | [Read More](https://medium.com/p/74f21e7dac26) |
+| Tue, 23 Sep 2025 23:17:58 GMT | OWASP Top 10–2021 - THM | Isiah | [Read More](https://medium.com/p/8353f257ebf2) |
+| Tue, 23 Sep 2025 23:17:55 GMT | AI Security Reports — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/785a38509135) |
 | Tue, 23 Sep 2025 23:12:34 GMT | Write-up PicoCTF (Capture The Flag) — File Upload — Trickster | Sérgio Corrêa | [Read More](https://medium.com/p/542ed49a59b5) |
 | Tue, 23 Sep 2025 23:01:47 GMT | What Your Smart Home Devices Aren’t Telling You: The Hidden Network Traffic That Should Concern… | Ty Carruth | [Read More](https://medium.com/p/25ec1030bcc9) |
 | Tue, 23 Sep 2025 22:52:31 GMT | Best Antivirus Software for Chromebook in 2025: Top Picks and Comprehensive Guide | TTV News | [Read More](https://medium.com/p/2030f8435851) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 16:02:40 GMT | Port 21 FTP Enumeration and Exploit | Md. Raihan | [Read More](https://medium.com/p/85ca775e21b8) |
 | Tue, 23 Sep 2025 15:57:45 GMT | Building a Secure GenAI Policy Assistant with RAG, Guardrails, and Multi-Modal Search | Bravishanker | [Read More](https://medium.com/p/53145ec8b4d3) |
 | Tue, 23 Sep 2025 15:53:33 GMT | Scam Texts on Wheels: How SMS Blasters Hijack Your Phone | Ashish Mahure | [Read More](https://medium.com/p/a15db248b297) |
-| Tue, 23 Sep 2025 15:52:47 GMT | OSI Katmanları | Asude Handan Uslukılıç | [Read More](https://medium.com/p/d70ed0efa13b) |
-| Tue, 23 Sep 2025 15:51:53 GMT | Reconnaissance: Passive and Active Scanning (Part1) | mohandika | [Read More](https://medium.com/p/602824c4eb9f) |
-| Tue, 23 Sep 2025 15:41:46 GMT | SentryPC: The Digital Shield for School Internet Safety | Paul Meyer | [Read More](https://medium.com/p/cbd20e5d4c91) |
