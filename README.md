@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 11:13:21 GMT | AI Security : LLM02 — Sensitive Information Disclosure | Nabarko Roy | [Read More](https://medium.com/p/271fa1fc30e7) |
+| Tue, 23 Sep 2025 11:11:53 GMT | Hunting For PsExec.exe abuse | Ameer Mane | [Read More](https://medium.com/p/ef81556af21e) |
+| Tue, 23 Sep 2025 11:08:30 GMT | ️ Cybersecurity Roadmap for Absolute Beginners (2025 Edition) | Aditya Bhatt | [Read More](https://medium.com/p/6aa918115e9f) |
+| Tue, 23 Sep 2025 11:05:50 GMT | After You Left, the Memories Persisted | Aliyu Ibrahim | [Read More](https://medium.com/p/057c792c47a4) |
+| Tue, 23 Sep 2025 11:02:41 GMT | From a Messy Script to Cloud Backup Manager ☁️⚡ | Voldemort | [Read More](https://medium.com/p/01dac56ec9bd) |
+| Tue, 23 Sep 2025 11:01:46 GMT | How to Secure Copilot Studio: From Endpoint Protection to Configuration Enforcement | Meron | [Read More](https://medium.com/p/3220bc7c2c68) |
+| Tue, 23 Sep 2025 11:01:46 GMT | 90% of IT Leaders Aren’t Ready for This AI Threat,Are You? | Brittney Ginther | [Read More](https://medium.com/p/d583998ba62b) |
+| Tue, 23 Sep 2025 10:54:15 GMT | SPF breakage 101: Beating the 10-lookup limit (without deliverability drama) | Red Sift | [Read More](https://medium.com/p/eb46587eabec) |
+| Tue, 23 Sep 2025 10:51:47 GMT | The Hidden Digital Vulnerability: When National Interests Meet Your Personal Data | Abdelakarim Benabdallah | [Read More](https://medium.com/p/d32440056887) |
+| Tue, 23 Sep 2025 10:49:13 GMT | CVE-2025–9269: A deep dive into the Jenkins Script-Security sandbox bypass | gm0 | [Read More](https://medium.com/p/bacebd7463e1) |
+| Tue, 23 Sep 2025 10:43:42 GMT | Stop Blindly Trusting Middleware, Build Your Own PHP Security Walls | Asian Digital Hub | [Read More](https://medium.com/p/78be9f62223e) |
+| Tue, 23 Sep 2025 10:43:39 GMT | Reflections on Rejection & Gratitude for the Journey travelled thus far | Niketa | [Read More](https://medium.com/p/17951e643a85) |
 | Tue, 23 Sep 2025 10:38:05 GMT | Global Security Cameras IR Illuminator Market Fueled by Advancements in Night Vision and AI… | Aiden clark | [Read More](https://medium.com/p/dc473d167431) |
 | Tue, 23 Sep 2025 10:36:37 GMT | Rethinking Smishing: Why the Telecom Industry Needs a Different Approach | Paul Walsh | [Read More](https://medium.com/p/ddc2ba751c50) |
 | Tue, 23 Sep 2025 10:27:31 GMT | 5 Signs You Need Compliance Automation Software | Hicomply | [Read More](https://medium.com/p/042a11c17ae2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 06:19:24 GMT | Evolve with miniOrange’s Joomla MFA | miniOrange | [Read More](https://medium.com/p/b617660bda73) |
 | Tue, 23 Sep 2025 06:15:57 GMT | Farewell to Custody Risk, Embrace Asset Sovereignty: How Digital Shield Makes Top-Tier Security… | Digital Shield | [Read More](https://medium.com/p/25869822bb1f) |
 | Tue, 23 Sep 2025 06:12:19 GMT | Linux Containers Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/e58c271a22cc) |
-| Tue, 23 Sep 2025 06:12:16 GMT | Why Health Debates Became Cyber Wars: From Tylenol to Autism to AI | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/8a2d58afab7c) |
-| Tue, 23 Sep 2025 06:07:33 GMT | Is Corporate India Ready for the DPDP Act Rules? | DPDP Consultants | [Read More](https://medium.com/p/39ffd602686d) |
-| Tue, 23 Sep 2025 06:05:26 GMT | Top 10 Best Platforms to Learn Ethical Hacking in 2025–2026 | Manisha Chaudhary | [Read More](https://medium.com/p/afaf0aaf691e) |
-| Tue, 23 Sep 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Sep 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5e92bec1dfb5) |
-| Tue, 23 Sep 2025 05:57:13 GMT | Trust in AI-Based Hiring: Building Fair and Transparent Recruitment Systems | Salman Saleem | [Read More](https://medium.com/p/09a7810958d9) |
-| Tue, 23 Sep 2025 05:55:22 GMT | Defender For Endpoint Firewall Policies: From Design to Deployment | Orhan Öztaş | [Read More](https://medium.com/p/590ab1ee4b7e) |
-| Tue, 23 Sep 2025 05:51:51 GMT | Cortex Email Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/854c99dc2b71) |
-| Tue, 23 Sep 2025 05:49:21 GMT | The Day My Laptop Got Hijacked And Why Cybersecurity Feels Personal Now | Arfa | [Read More](https://medium.com/p/28a7f8c671f7) |
-| Tue, 23 Sep 2025 05:42:22 GMT | Quantum-Resistant Cryptography | Cyber Security Research | [Read More](https://medium.com/p/e50635bb54a0) |
-| Tue, 23 Sep 2025 05:35:44 GMT | Mask Off: How I Exploited Broken OAuth to Login as Anyone | Iski | [Read More](https://medium.com/p/f1ce3c88d9b2) |
-| Tue, 23 Sep 2025 05:35:43 GMT | Security Implications of Digital Twins | Cyber Security Research | [Read More](https://medium.com/p/263f94107f0b) |
-| Tue, 23 Sep 2025 05:35:22 GMT | Protecting against cross-site scripting with trusted types | Dominic Bachmann | [Read More](https://medium.com/p/94f0b3c32129) |
