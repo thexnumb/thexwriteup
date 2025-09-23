@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 17:31:27 GMT | The Night Everything I Knew About OSINT Became Dangerous | Rishisec | [Read More](https://medium.com/p/db2bf746f40e) |
+| Tue, 23 Sep 2025 17:30:43 GMT | Welcome to the MAXISIQ Blog: Engineering Innovation for the Mission Ahead | Sophia Martinez | [Read More](https://medium.com/p/1499a5468a71) |
+| Tue, 23 Sep 2025 17:28:52 GMT | SolarWinds Makes Third Attempt at Patching Exploited Vulnerability | Suhas Valasala | [Read More](https://medium.com/p/2356219f38e9) |
 | Tue, 23 Sep 2025 17:25:36 GMT | Under Siege: How Soumil Survived a DDoS Attack | Kathit Shah | [Read More](https://medium.com/p/34c19dc850e2) |
+| Tue, 23 Sep 2025 17:22:59 GMT | GeoServer Exploit Enables Breach of U.S. Federal Agency | Suhas Valasala | [Read More](https://medium.com/p/6c62d7c4fe20) |
+| Tue, 23 Sep 2025 17:20:59 GMT | XDR Gerçekten Güvenilir mi? | mel4mi | [Read More](https://medium.com/p/c9052b370a7b) |
 | Tue, 23 Sep 2025 17:15:40 GMT | All I Ever Wanted Was a Little Effort | Yashwardhan Mittal | [Read More](https://medium.com/p/06edc6d49df6) |
 | Tue, 23 Sep 2025 17:14:59 GMT | AI Literacy and Oversight: The Next Compliance Advantage | Graylog | [Read More](https://medium.com/p/8d76b6e9d3e6) |
 | Tue, 23 Sep 2025 17:12:07 GMT | Cisco Catalyst Switch 3560V1 Orta ve İleri Düzey Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/9f8628826f3a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 13:01:51 GMT | How to Erase Garage Door Opener Settings: Clear Remotes & Keypads Fast | 24H Garage Doors | [Read More](https://medium.com/p/c392bcddb4b1) |
 | Tue, 23 Sep 2025 13:01:51 GMT | How to Avoid Getting Hacked as a Crypto Investor | Farhad Ali | [Read More](https://medium.com/p/f2bf5a7010e1) |
 | Tue, 23 Sep 2025 13:01:51 GMT | Why Email Marketing Is the Secret Growth Tool for Directory Websites | aDirectory | [Read More](https://medium.com/p/348b7e185e25) |
-| Tue, 23 Sep 2025 12:57:42 GMT | MediaTek’s Chipset using 2-nm Technology: What’s so Special about It? | Arjun Agarwal | [Read More](https://medium.com/p/bea0e72e2390) |
-| Tue, 23 Sep 2025 12:56:34 GMT | US Ceramic Tiles Market to Reach USD 6.54 | Anamika Prasad | [Read More](https://medium.com/p/f9fa8f1cc0a4) |
-| Tue, 23 Sep 2025 12:54:26 GMT | Automotive Data Monetization Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/1f715dc5edb6) |
-| Tue, 23 Sep 2025 12:46:50 GMT | German Companies Confront Ongoing IT Security Threats in 2025 | Mindfully SEO | [Read More](https://medium.com/p/e30ad2bd7c14) |
-| Tue, 23 Sep 2025 12:44:49 GMT | Why I Encrypt Linux Disks with LUKS (Even on Servers in the Data Center) | Faruk Ahmed | [Read More](https://medium.com/p/515448f3173b) |
