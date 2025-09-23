@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 21:21:00 GMT | Day 7 — Uncovering Hidden Vulnerabilities with Nikto: A Beginner’s Guide | OxErvin | [Read More](https://medium.com/p/873b52a5e3f2) |
 | Tue, 23 Sep 2025 21:05:38 GMT | Phishing Has a New Enemy: Inside AegisAI’s Multi-Agent Email Guard | Chris Zhang | [Read More](https://medium.com/p/43cf313d5ac0) |
 | Tue, 23 Sep 2025 21:02:53 GMT | ShadowLeak and the Strategic Fragility of AI Leadership | Jason Connerty | [Read More](https://medium.com/p/bfafededffe1) |
 | Tue, 23 Sep 2025 20:57:46 GMT | Who Else Knows your iPhone/iPad Passcode But You? | Maria Orms | [Read More](https://medium.com/p/77d275ec581b) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 15:03:04 GMT | Inside the World of Initial Access Brokers: Google’s Findings | Keepnet Labs | [Read More](https://medium.com/p/b46cd3ec8541) |
 | Tue, 23 Sep 2025 15:00:24 GMT | “The Low-Hanging Fruit That Pays Off: Hunting P4 Bugs” | Aman Sharma | [Read More](https://medium.com/p/2423fb3dcaee) |
 | Tue, 23 Sep 2025 14:59:38 GMT | Building a Cyber Security Portfolio — Technical Step 1: Linux Beginux | Randy Puffin | [Read More](https://medium.com/p/ca229d918511) |
-| Tue, 23 Sep 2025 14:58:53 GMT | Building a Cyber Security Portfolio — Step 0.5: The Road So Far | Randy Puffin | [Read More](https://medium.com/p/5ee3918789c2) |
