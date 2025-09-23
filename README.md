@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 10:12:28 GMT | A Critical Bug Let Me Become an Admin on an External Bug Bounty Program | Ln0rag | [Read More](https://medium.com/p/e76733ca07eb) |
+| Tue, 23 Sep 2025 10:10:08 GMT | Analyzing Firmware And Extracting Filesystem | Redfox Security | [Read More](https://medium.com/p/f5eda3b947b4) |
+| Tue, 23 Sep 2025 10:04:51 GMT | TechD Cybersecurity: How Indian Government is using cybersecurity firm of India to gain Strategic… | CorporateXray | [Read More](https://medium.com/p/2bce5a813de6) |
+| Tue, 23 Sep 2025 10:03:59 GMT | Phishing Gotcha? Navigating Tricky Emails & Keeping Your Data Safe | Authlyn | [Read More](https://medium.com/p/b1f85e7b849e) |
+| Tue, 23 Sep 2025 10:03:57 GMT | Crypto phishing on the rise: protect your Trezor and wallet backup | Henry Windle | [Read More](https://medium.com/p/4db03d0847cb) |
+| Tue, 23 Sep 2025 10:03:40 GMT | Why India Must Build Its Own Robust Operating System :A Call for Digital Sovereignty | Chinmay Vivek | [Read More](https://medium.com/p/b1a6229ff165) |
+| Tue, 23 Sep 2025 10:00:29 GMT | ETHICAL HACKING COURSE IN TRIVANDRUM | Dotinfida | [Read More](https://medium.com/p/093f1a45954e) |
+| Tue, 23 Sep 2025 09:54:24 GMT | Top 10 Mobile App Development Frameworks in 2025 | TST Technology | [Read More](https://medium.com/p/f615eeebe493) |
+| Tue, 23 Sep 2025 09:51:24 GMT | Why is ZoomEye One of the Most Beginner-Friendly Cyberspace Search Engines? | Liuliuliusq | [Read More](https://medium.com/p/9d39981703aa) |
+| Tue, 23 Sep 2025 09:45:28 GMT | ISO Certification for Cyber Security | Digital Sqcindia | [Read More](https://medium.com/p/65e0a8c4cba5) |
+| Tue, 23 Sep 2025 09:44:38 GMT | Moonova.app Scam Alert: How R O S E L A N E G P . C O M is Helping Victims Recover What They Lost | ADMIN | [Read More](https://medium.com/p/5661d20e68ee) |
+| Tue, 23 Sep 2025 09:43:10 GMT | How Scammers Fake Crypto Transactions | David Walker | [Read More](https://medium.com/p/e2c380eb1dd7) |
+| Tue, 23 Sep 2025 09:37:46 GMT | It’s not a bug, it’s a feature | Jihan Aygun | [Read More](https://medium.com/p/e5d29434d4ae) |
 | Tue, 23 Sep 2025 09:31:37 GMT | :{) Welcome Message … | MD SHAKIB KHAN | [Read More](https://medium.com/p/7a2271fb3c0a) |
 | Tue, 23 Sep 2025 09:28:22 GMT | The Link Between Software Updates And Security: A Simple Guide For Beginners | Sahil | [Read More](https://medium.com/p/99307512d15d) |
 | Tue, 23 Sep 2025 09:27:33 GMT | 7 Red Flags That Your “Compliance” Isn’t Real Security | Evgeny Ermakov | [Read More](https://medium.com/p/eef90eddc130) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 05:31:45 GMT | 5 FastAPI Auth Flows That Don’t Add Latency | Hash Block | [Read More](https://medium.com/p/4ca1947dfde7) |
 | Tue, 23 Sep 2025 05:31:45 GMT | 7 Tips for Implementing HMAC-Signed Requests in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6c0f4ea03e8b) |
 | Tue, 23 Sep 2025 05:30:46 GMT | Bridging the Divide: Afghan-Pakistani Tensions, TTP Violence, and the Islamic Path to Unity | FM Qureshi | [Read More](https://medium.com/p/a77be50b92e1) |
-| Tue, 23 Sep 2025 05:29:41 GMT | Digital Forensics for Cloud Environments | Cyber Security Research | [Read More](https://medium.com/p/3a230fb58a62) |
-| Tue, 23 Sep 2025 05:25:32 GMT | Identity Crisis of AI Agents: Securing the Next Digital Workforce | Anoushka Chakrabarty | [Read More](https://medium.com/p/889faa60ae88) |
-| Tue, 23 Sep 2025 05:23:43 GMT | OWASP Juice Shop: Broken Access Controll — Forged Review | Risskian | [Read More](https://medium.com/p/d063e3519033) |
-| Tue, 23 Sep 2025 05:23:16 GMT | AI in Cyber Threat Prediction | Cyber Security Research | [Read More](https://medium.com/p/95056de418f6) |
-| Tue, 23 Sep 2025 05:17:04 GMT | Ransomware-as-a-Service Ecosystem | Cyber Security Research | [Read More](https://medium.com/p/a8899a450a9c) |
-| Tue, 23 Sep 2025 05:13:14 GMT | iPhone 17 Pro Secrets: Hidden Features and Tricks Revealed | Kanyarat Suksawat | [Read More](https://medium.com/p/439bbff2736f) |
-| Tue, 23 Sep 2025 05:11:45 GMT | Using Hetty to Spy on Claude Code | Sharkbyjhn | [Read More](https://medium.com/p/172851aa0c99) |
-| Tue, 23 Sep 2025 05:09:03 GMT | What Are The Key Benefits Of Legacy Application Modernization? | Noahlucas | [Read More](https://medium.com/p/fa6afa067f14) |
-| Tue, 23 Sep 2025 05:02:07 GMT | How ClickFix Tricks You into Hacking Yourself | Isaac Muendo | [Read More](https://medium.com/p/1dcd1d62dd63) |
-| Tue, 23 Sep 2025 05:00:40 GMT | How to Secure API with JWT Authentication | DJ | [Read More](https://medium.com/p/e05c9d12730f) |
-| Tue, 23 Sep 2025 04:59:18 GMT | Day 61- Basics of threat intelligence and OSINT for beginners | unica 02 | [Read More](https://medium.com/p/e314a0f77469) |
-| Tue, 23 Sep 2025 04:59:17 GMT | How to Upload and Manage Files Using File Manager in WordPress [No FTP Required] | Hamza Hanif | [Read More](https://medium.com/p/5e52332e11b5) |
-| Tue, 23 Sep 2025 04:59:00 GMT | The Threat Landscape in 2025 | Cyber Security Research | [Read More](https://medium.com/p/8c8855f9207b) |
