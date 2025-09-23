@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 03:29:18 GMT | Java Insecure Deserialization | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/802e5afd565f) |
+| Tue, 23 Sep 2025 03:20:24 GMT | How to claim Nexchain presale token aug 2025 | Bitcoin penguins | [Read More](https://medium.com/p/cf48ca55957d) |
+| Tue, 23 Sep 2025 03:14:47 GMT | 10 Things You Didn’t Know About Jump Lists Forensics | Paritosh | [Read More](https://medium.com/p/b7aafdf58ee5) |
+| Tue, 23 Sep 2025 03:06:00 GMT | Portswigger walkthrough(Apprentice) | The Commoness | [Read More](https://medium.com/p/01822536ae26) |
+| Tue, 23 Sep 2025 02:54:34 GMT | EDR-Freeze: A Technique for Suspending Protected Security Processes | Tomasz Kozlowski | [Read More](https://medium.com/p/78494ee0b68a) |
+| Tue, 23 Sep 2025 02:53:55 GMT | Snort Lab Setup Guide: Practical Multi-Rule Detection for Beginners | Uphar | [Read More](https://medium.com/p/36bb6db64020) |
 | Tue, 23 Sep 2025 02:52:22 GMT | SQL Injection UNION Attack: Finding a Column Containing Text | Bash Overflow | [Read More](https://medium.com/p/662cea789110) |
 | Tue, 23 Sep 2025 02:48:18 GMT | BSCP journey | Jayden | [Read More](https://medium.com/p/067bd0d78001) |
 | Tue, 23 Sep 2025 02:37:12 GMT | I Keep Writing About Cybersecurity — and It Feels Like No One Gives a Damn | Noel | [Read More](https://medium.com/p/f9f1419b061a) |
@@ -108,9 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 19:02:54 GMT | The  H1B Visa vs  UK Global Talent Visa | Taimur Ijlal | [Read More](https://medium.com/p/5e0de99f068d) |
 | Mon, 22 Sep 2025 19:01:12 GMT | Where Do We Even Start With “Finding Yourself”? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/2c5f4efdb227) |
 | Mon, 22 Sep 2025 19:00:56 GMT | AI Models That Might Refuse to Shut Down: What Safety Experts Are Warning Us About | LokieGamer | [Read More](https://medium.com/p/7d1ba4cdb9c2) |
-| Mon, 22 Sep 2025 18:57:33 GMT | Linux Logging for SOC: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/ca73c670214d) |
-| Mon, 22 Sep 2025 18:53:22 GMT | Empowering Businesses with Connectivity, Security, and Compliance | Defend My Business | [Read More](https://medium.com/p/1335ac3a6744) |
-| Mon, 22 Sep 2025 18:46:22 GMT | ️Secure Your Go Code: Top 10 Security Mistakes and How to Fix Them Effectively️ | Puneet | [Read More](https://medium.com/p/49cdb1c457d7) |
-| Mon, 22 Sep 2025 18:45:53 GMT | CyberSpec.pro — The Future of Cybersecurity Monitoring | Mayank | [Read More](https://medium.com/p/27ab0debd319) |
-| Mon, 22 Sep 2025 18:40:57 GMT | Hands-On Cybersecurity: Deploying Web Server and Monitoring with Wazuh SIEM | Solomon Yaoh | [Read More](https://medium.com/p/ad568295e8e9) |
-| Mon, 22 Sep 2025 18:40:00 GMT | Projects | Mansfield-Devine | [Read More](https://medium.com/p/8e22f6bb804c) |
