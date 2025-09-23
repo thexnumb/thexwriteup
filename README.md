@@ -12,9 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 12:33:58 GMT | TuesdayTool 35: Aikido — Developer-First Security Platform | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/eec5094cdec4) |
+| Tue, 23 Sep 2025 12:25:03 GMT | Mastering Laravel Essentials: From Dependency Injection to Policies | Amit Jha | [Read More](https://medium.com/p/3e23ff2b7937) |
+| Tue, 23 Sep 2025 12:14:24 GMT | Top 5 Reasons to Choose a Paid VPN Over a Free One. | NoProx | [Read More](https://medium.com/p/6edc64575b14) |
+| Tue, 23 Sep 2025 12:13:34 GMT | Gitlab Just Became a Botnet — How Gitlab’s Shared Runners Fueled a Massive DoS Attack | Justas_b | [Read More](https://medium.com/p/a3a786a03ac4) |
+| Tue, 23 Sep 2025 12:07:17 GMT | Block Blasters Crypto Drainer | Matthew Hamilton | [Read More](https://medium.com/p/64f9ba6ced21) |
+| Tue, 23 Sep 2025 12:02:56 GMT | A Developer’s Guide to Customizing OpenCTI’s Frontend UI | Talalahmedsiddiqi | [Read More](https://medium.com/p/b5bda721e79e) |
+| Tue, 23 Sep 2025 12:01:54 GMT | Top 5 Free Cybersecurity Certifications in 2025 (Boost Your Career Without Spending a Rupee) | Cyber Defender | [Read More](https://medium.com/p/24c6066e3685) |
+| Tue, 23 Sep 2025 11:57:01 GMT | Cybersecurity in the Cloud: How to Keep Your Business Data Safe | Gurugeeks Royalty | [Read More](https://medium.com/p/be58d703ff76) |
+| Tue, 23 Sep 2025 11:54:55 GMT | What Keeps Performers Safe While Traveling? | Smit John | [Read More](https://medium.com/p/be4c35f280a0) |
+| Tue, 23 Sep 2025 11:53:24 GMT | Journey of Mobile Application Development for Global Users | Joy Hawkins | [Read More](https://medium.com/p/c17b810b4026) |
+| Tue, 23 Sep 2025 11:50:15 GMT | Polimorfisme | Zurichsabil | [Read More](https://medium.com/p/9e684b27ba98) |
+| Tue, 23 Sep 2025 11:50:09 GMT | Top 5 Benefits of Combining Vulnerability Management and Threat Intelligence | Digital Defense | [Read More](https://medium.com/p/498e737d42c2) |
+| Tue, 23 Sep 2025 11:49:21 GMT | Stop using personal AI for business | Saravanan.R | [Read More](https://medium.com/p/f6a7e1ed00a0) |
+| Tue, 23 Sep 2025 11:37:09 GMT | Penetration Testing Made Simple Kali MCP With Docker and Claude Desktop.. | Sasisachins | [Read More](https://medium.com/p/6d50a6a60300) |
+| Tue, 23 Sep 2025 11:34:54 GMT | Top 5 Penetration Testing Certifications in 2025 (Boost Your Ethical Hacking Career) | Cyber Defender | [Read More](https://medium.com/p/4650c9767d6f) |
+| Tue, 23 Sep 2025 11:30:28 GMT | Detecting Malicious ZIP Archive Decryption via Event 5379 | Abdul | [Read More](https://medium.com/p/47078cd97c03) |
 | Tue, 23 Sep 2025 11:26:37 GMT | Disguised Surveillance: How Chat Control Instrumentalizes Child Protection to Erode European… | Eugenia Suárez | [Read More](https://medium.com/p/87034158ac3f) |
 | Tue, 23 Sep 2025 11:23:15 GMT | Breakthrough info tech for impact investing | Erik Kvam | [Read More](https://medium.com/p/180db2f7ab99) |
 | Tue, 23 Sep 2025 11:21:56 GMT | DragonForce Ransomware: Technical Analysis and Mitigation Strategies | Loginsoft | [Read More](https://medium.com/p/3e04938c6857) |
+| Tue, 23 Sep 2025 11:20:14 GMT | Zafiyet Yönetiminde Sık Yapılan 10 Kritik Hata ve Çözümleri | Aykut Bayram | [Read More](https://medium.com/p/04c82b89fbc9) |
 | Tue, 23 Sep 2025 11:14:31 GMT | Understanding Packets and Frames: How Data Travels Across Networks | Sumit Sah | [Read More](https://medium.com/p/d69f6d633a9b) |
 | Tue, 23 Sep 2025 11:13:21 GMT | AI Security : LLM02 — Sensitive Information Disclosure | Nabarko Roy | [Read More](https://medium.com/p/271fa1fc30e7) |
 | Tue, 23 Sep 2025 11:11:53 GMT | Hunting For PsExec.exe abuse | Ameer Mane | [Read More](https://medium.com/p/ef81556af21e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 07:00:56 GMT | The Future of Cybersecurity in the Middle East: Trends to Watch in 2025 | Reghu Mohandas | [Read More](https://medium.com/p/d8f2b6f92b00) |
 | Tue, 23 Sep 2025 07:00:49 GMT | Global PC Market Size Driven by AI-Enabled Devices, OS Upgrade Cycles, and Rising Gaming Demand | Anamika Prasad | [Read More](https://medium.com/p/e53e0a72fcad) |
 | Tue, 23 Sep 2025 06:57:30 GMT | Joseph Lamar Simmons - 5 Ways Officers Safeguard Infrastructure | Joseph Lamar Simmons | [Read More](https://medium.com/p/088770bc724c) |
-| Tue, 23 Sep 2025 06:56:31 GMT | Best Cybersecurity and Ethical Hacking Learning Platform in Bangladesh | M M A AL NOMAN | [Read More](https://medium.com/p/5a54cbad7f47) |
-| Tue, 23 Sep 2025 06:53:29 GMT | The Awakening of Digital Sovereignty: How Digital Shield is Reshaping the Security Boundary of Web3 | Digital Shield Offcial | [Read More](https://medium.com/p/499e4b9a177d) |
-| Tue, 23 Sep 2025 06:49:13 GMT | Banned or Boosted: How Vaccine Myths Travel Faster Than Science | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/8184571dac09) |
-| Tue, 23 Sep 2025 06:48:32 GMT | How to Become a “Hype” Person in Today’s IT Industry | Kalana De Silva | [Read More](https://medium.com/p/d50f9ef84295) |
-| Tue, 23 Sep 2025 06:47:01 GMT | How to Choose the Right Endpoint Security Service for Your Organization | Qualysec | [Read More](https://medium.com/p/0617170be675) |
-| Tue, 23 Sep 2025 06:43:39 GMT | Linux Forensic Analysis | Eren Cankut Uysal | [Read More](https://medium.com/p/c01ac772df6f) |
-| Tue, 23 Sep 2025 06:43:15 GMT | The rush to bring AI into daily life | Enrique Onieva Caracuel | [Read More](https://medium.com/p/98f16e626278) |
-| Tue, 23 Sep 2025 06:43:05 GMT | SSTI to Remote Code Execution | Shahin Gurbanov | [Read More](https://medium.com/p/04f91d0882ca) |
-| Tue, 23 Sep 2025 06:42:27 GMT | Stop Shipping Bloated Containers: The DevOps Guide to Multi-Stage Builds | Ashish Singh | [Read More](https://medium.com/p/82aaabfbac9f) |
-| Tue, 23 Sep 2025 06:42:05 GMT | SEC Cyber Disclosure Rule 2025: First Wave of Filings | Pentest_Testing_Corp | [Read More](https://medium.com/p/df57fb3ba6b3) |
-| Tue, 23 Sep 2025 06:40:47 GMT | Jaguar Land Rover Cyberattack: How It’s Disrupting the Supply Chain | ReputationOneAI | [Read More](https://medium.com/p/7844d94fc60b) |
-| Tue, 23 Sep 2025 06:38:50 GMT | Navigating the Labyrinth: How 5D Relationships Handle Conflict Without Breaking Down | Wilson Igbasi | [Read More](https://medium.com/p/2dd37d9b0b57) |
-| Tue, 23 Sep 2025 06:37:06 GMT | Best Practices for Enhancing Attack Surface Management and Accelerating Vulnerability Response | StarkMan | [Read More](https://medium.com/p/4747046b176b) |
-| Tue, 23 Sep 2025 06:36:22 GMT | Mengamankan File Sensitif & Directory Listing website dengan .htaccess | AHS, CCNA | [Read More](https://medium.com/p/a3da280db52c) |
-| Tue, 23 Sep 2025 06:34:52 GMT | Linux Security Incident Response | Eren Cankut Uysal | [Read More](https://medium.com/p/a5f1b050f894) |
-| Tue, 23 Sep 2025 06:31:51 GMT | The OSINT Hacker’s Cheat Sheet in 2025 - Cyber Codex | Aenosh Rajora | [Read More](https://medium.com/p/c2ae1eb82b6b) |
-| Tue, 23 Sep 2025 06:28:17 GMT | From Campus to Career—Your Roadmap to a Thriving IT Career Before Graduation | cisprotraining | [Read More](https://medium.com/p/6df3c3769934) |
