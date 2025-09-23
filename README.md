@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 20:09:06 GMT | The Crimeware Supply Chain | Deniz Topaloglu | [Read More](https://medium.com/p/3575f00480b4) |
+| Tue, 23 Sep 2025 20:08:33 GMT | The best approach to becoming a Pentester Specialist | Richard Wollyce | [Read More](https://medium.com/p/74891403a7fd) |
+| Tue, 23 Sep 2025 20:02:34 GMT | Attacks Without Attacks: The New Frontier of Cyber Risk | Andre Fernandes | [Read More](https://medium.com/p/16a775b916e2) |
+| Tue, 23 Sep 2025 20:02:25 GMT | Stop Using Your Dog’s Name: Why You Need a Random Password Generator (and How to Use One) | Tim_Idd | [Read More](https://medium.com/p/f797c4932e80) |
+| Tue, 23 Sep 2025 19:58:16 GMT | Boeing Defense, Space & Security Partners with Palantir to Accelerate AI Adoption Across Defense | Marcello Strano | [Read More](https://medium.com/p/cef7979abb62) |
+| Tue, 23 Sep 2025 19:56:45 GMT | How to Survive the Next Wave of Cybersecurity Layoffs | Aaron | [Read More](https://medium.com/p/534c174a55a2) |
+| Tue, 23 Sep 2025 19:52:25 GMT | Why Do 97% of Companies Need to Upgrade Security Infrastructure Now | Grant Gamble | [Read More](https://medium.com/p/170ac2c102fa) |
+| Tue, 23 Sep 2025 19:45:22 GMT | Digital Forensics Skills Assessment | Luke | [Read More](https://medium.com/p/86739ec3ad37) |
+| Tue, 23 Sep 2025 19:41:46 GMT | [Part 6] The CRA and Supply Chain Cybersecurity | Cyberkech | [Read More](https://medium.com/p/cc302aa55cd1) |
+| Tue, 23 Sep 2025 19:37:50 GMT | Linux Security Essentials Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/412a16b30a52) |
 | Tue, 23 Sep 2025 19:34:34 GMT | Siber Saldırıların Yapay Zeka İle Tespiti?! | Technoblog | [Read More](https://medium.com/p/b1dd8c68fe24) |
 | Tue, 23 Sep 2025 19:30:14 GMT | Driving Business Efficiency Through Connectivity, Cost Management, and Compliance | Defend My Business | [Read More](https://medium.com/p/f26f8859d349) |
 | Tue, 23 Sep 2025 19:16:13 GMT | Designing AI Interfaces for Security Analysts (Without Driving Them Crazy) | Ayushi | [Read More](https://medium.com/p/253d61b9860e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 14:42:50 GMT | Breaking Down the First Four CISSP Security Domains: A Beginner’s Perspective | A Beginner's Perspective | [Read More](https://medium.com/p/9ff3d7fa591e) |
 | Tue, 23 Sep 2025 14:40:41 GMT | Bypass Brute-Force Protection | MOH FAIZ HIDAYATULLOH | [Read More](https://medium.com/p/44fad390360c) |
 | Tue, 23 Sep 2025 14:40:20 GMT | TryHackMe — OhSINT Room Walkthrough | devmorav | [Read More](https://medium.com/p/f1fc787dc621) |
-| Tue, 23 Sep 2025 14:38:44 GMT | Conversational AI: Less Waiting, More Solutions | O Código Futuro | [Read More](https://medium.com/p/b18ee7723cb9) |
-| Tue, 23 Sep 2025 14:36:45 GMT | Behind the Curtain: How Malware Really Works | Raj Islam | [Read More](https://medium.com/p/debfd7f93315) |
-| Tue, 23 Sep 2025 14:34:56 GMT | Unlocking Competitive Advantage with Enterprise Digital Excellence | 2isolutions Inc. USA | [Read More](https://medium.com/p/839246e26e50) |
-| Tue, 23 Sep 2025 14:32:52 GMT | Cloud vs. On-Premises: Why the Hybrid Approach Is the Best Solution for Businesses | Cordula Boeck | [Read More](https://medium.com/p/a7bada0582e7) |
-| Tue, 23 Sep 2025 14:31:11 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/8642382e0e07) |
-| Tue, 23 Sep 2025 14:30:53 GMT | Passkeys : se connecter sans mot de passe, c’est (déjà) possible | Christopher Pradines | [Read More](https://medium.com/p/f054796cd2df) |
-| Tue, 23 Sep 2025 14:28:49 GMT | The AI Industry is not prepared. | Patches | [Read More](https://medium.com/p/85b363342eb7) |
-| Tue, 23 Sep 2025 14:28:13 GMT | Shai-Hulud and the Worm That Ate npm | Simple Stack | [Read More](https://medium.com/p/3c9b4b2b739c) |
-| Tue, 23 Sep 2025 14:27:47 GMT | AI Video Analytics for Warehouse Safety and Efficiency | Tec-Tel Communications | [Read More](https://medium.com/p/7e1d03884f6b) |
-| Tue, 23 Sep 2025 14:20:03 GMT | Security Updates in 2025: How Small Businesses Can Stay Safe Online | BlueZoo Web | [Read More](https://medium.com/p/7f38add0d6d5) |
