@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 06:20:17 GMT | Why Learning AI & Cybersecurity in 2025 Could Decide Your Career Future? | JetkingChandigarh | [Read More](https://medium.com/p/9b9f8c0909e8) |
+| Tue, 23 Sep 2025 06:19:24 GMT | Evolve with miniOrange’s Joomla MFA | miniOrange | [Read More](https://medium.com/p/b617660bda73) |
+| Tue, 23 Sep 2025 06:15:57 GMT | Farewell to Custody Risk, Embrace Asset Sovereignty: How Digital Shield Makes Top-Tier Security… | Digital Shield | [Read More](https://medium.com/p/25869822bb1f) |
+| Tue, 23 Sep 2025 06:12:19 GMT | Linux Containers Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/e58c271a22cc) |
+| Tue, 23 Sep 2025 06:12:16 GMT | Why Health Debates Became Cyber Wars: From Tylenol to Autism to AI | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/8a2d58afab7c) |
+| Tue, 23 Sep 2025 06:07:33 GMT | Is Corporate India Ready for the DPDP Act Rules? | DPDP Consultants | [Read More](https://medium.com/p/39ffd602686d) |
+| Tue, 23 Sep 2025 06:05:26 GMT | Top 10 Best Platforms to Learn Ethical Hacking in 2025–2026 | Manisha Chaudhary | [Read More](https://medium.com/p/afaf0aaf691e) |
+| Tue, 23 Sep 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Sep 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5e92bec1dfb5) |
+| Tue, 23 Sep 2025 05:57:13 GMT | Trust in AI-Based Hiring: Building Fair and Transparent Recruitment Systems | Salman Saleem | [Read More](https://medium.com/p/09a7810958d9) |
+| Tue, 23 Sep 2025 05:55:22 GMT | Defender For Endpoint Firewall Policies: From Design to Deployment | Orhan Öztaş | [Read More](https://medium.com/p/590ab1ee4b7e) |
+| Tue, 23 Sep 2025 05:51:51 GMT | Cortex Email Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/854c99dc2b71) |
+| Tue, 23 Sep 2025 05:49:21 GMT | The Day My Laptop Got Hijacked And Why Cybersecurity Feels Personal Now | Arfa | [Read More](https://medium.com/p/28a7f8c671f7) |
+| Tue, 23 Sep 2025 05:42:22 GMT | Quantum-Resistant Cryptography | Cyber Security Research | [Read More](https://medium.com/p/e50635bb54a0) |
 | Tue, 23 Sep 2025 05:35:44 GMT | Mask Off: How I Exploited Broken OAuth to Login as Anyone | Iski | [Read More](https://medium.com/p/f1ce3c88d9b2) |
+| Tue, 23 Sep 2025 05:35:43 GMT | Security Implications of Digital Twins | Cyber Security Research | [Read More](https://medium.com/p/263f94107f0b) |
 | Tue, 23 Sep 2025 05:35:22 GMT | Protecting against cross-site scripting with trusted types | Dominic Bachmann | [Read More](https://medium.com/p/94f0b3c32129) |
+| Tue, 23 Sep 2025 05:33:54 GMT | What Are the Key Security Features to Consider for VMware Alternatives? | Arcfra | [Read More](https://medium.com/p/3e650647130b) |
+| Tue, 23 Sep 2025 05:31:45 GMT | 5 FastAPI Auth Flows That Don’t Add Latency | Hash Block | [Read More](https://medium.com/p/4ca1947dfde7) |
+| Tue, 23 Sep 2025 05:31:45 GMT | 7 Tips for Implementing HMAC-Signed Requests in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6c0f4ea03e8b) |
+| Tue, 23 Sep 2025 05:30:46 GMT | Bridging the Divide: Afghan-Pakistani Tensions, TTP Violence, and the Islamic Path to Unity | FM Qureshi | [Read More](https://medium.com/p/a77be50b92e1) |
+| Tue, 23 Sep 2025 05:29:41 GMT | Digital Forensics for Cloud Environments | Cyber Security Research | [Read More](https://medium.com/p/3a230fb58a62) |
 | Tue, 23 Sep 2025 05:25:32 GMT | Identity Crisis of AI Agents: Securing the Next Digital Workforce | Anoushka Chakrabarty | [Read More](https://medium.com/p/889faa60ae88) |
 | Tue, 23 Sep 2025 05:23:43 GMT | OWASP Juice Shop: Broken Access Controll — Forged Review | Risskian | [Read More](https://medium.com/p/d063e3519033) |
 | Tue, 23 Sep 2025 05:23:16 GMT | AI in Cyber Threat Prediction | Cyber Security Research | [Read More](https://medium.com/p/95056de418f6) |
@@ -93,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 22 Sep 2025 22:12:10 GMT | Nevada’s Ransomware Wake-Up Call: What Every Organization Must Learn | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/bd927b8f2c18) |
 | Mon, 22 Sep 2025 21:47:29 GMT | Notes of a 17-Year-Old Starting with Agentic AI and Network Security | Akvardarbugra | [Read More](https://medium.com/p/4e51fbb4f264) |
 | Mon, 22 Sep 2025 21:42:14 GMT | Anton’s Security Blog Quarterly Q3 2025 | Anton Chuvakin | [Read More](https://medium.com/p/74fc422be3d3) |
-| Mon, 22 Sep 2025 21:36:02 GMT | Cisco Catalyst 3560V1 Switch Temel Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/a9da7e98bbb2) |
-| Mon, 22 Sep 2025 21:31:39 GMT | Nmap Essentials | Shawn | [Read More](https://medium.com/p/43e8f0b6c0f1) |
-| Mon, 22 Sep 2025 21:29:14 GMT | “Harvest Now, Decrypt Later”: The Quiet Data War You’re Not Supposed to Notice | Greg Unger | [Read More](https://medium.com/p/1d9c5211ff23) |
-| Mon, 22 Sep 2025 21:28:59 GMT | Road to Cloud | Terry Cundiff | [Read More](https://medium.com/p/1ae9fca1369d) |
-| Mon, 22 Sep 2025 21:25:55 GMT | PortSwigger “Offline password cracking” Lab — Çözüm & Walkthrough | Mirac Kayikci | [Read More](https://medium.com/p/e347b7c3e28c) |
-| Mon, 22 Sep 2025 21:24:59 GMT | The Security Vulnerabilities That Can Kill Your Startup | Aboyeji Emmanuel Olusola | [Read More](https://medium.com/p/d2266454f9ac) |
-| Mon, 22 Sep 2025 21:22:13 GMT | Looking for(ward to the) work | Shivinaa | [Read More](https://medium.com/p/dec79d27574f) |
-| Mon, 22 Sep 2025 21:21:39 GMT | Automating Wazuh Deployments with 
-Docker and Terraform: From Lab to 
-Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d5ba450b1b9) |
-| Mon, 22 Sep 2025 21:12:27 GMT | My PJPT Review: How I Passed the Practical Junior Penetration Tester Exam | bhavesh sharma | [Read More](https://medium.com/p/c9b07d0ee5c6) |
-| Mon, 22 Sep 2025 21:10:26 GMT | Hacking Images: Extracting Hidden Data from Photos | Shawn | [Read More](https://medium.com/p/8a532818fe0d) |
-| Mon, 22 Sep 2025 21:09:14 GMT | What is a vCIO (Virtual CIO / Fractional CIO) and Does Your Business Need One? | Anthony J. Biondo Jr. | [Read More](https://medium.com/p/93b392f905b4) |
-| Mon, 22 Sep 2025 21:06:25 GMT | 5G and Mobile Security: What Changes with Faster Networks? | Abida Adra | [Read More](https://medium.com/p/b6cc43b25422) |
-| Mon, 22 Sep 2025 20:55:43 GMT | The New Rules of GovCon: FAR Overhauls, Executive Orders, and a Marketplace in Motion | Mindset | [Read More](https://medium.com/p/2d5228464149) |
-| Mon, 22 Sep 2025 20:54:23 GMT | Solución Torjan 000.exe | Elvis Millares | [Read More](https://medium.com/p/a7387b99bb54) |
-| Mon, 22 Sep 2025 20:53:09 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/eea1c64f5527) |
-| Mon, 22 Sep 2025 20:50:12 GMT | TryHackMe ToolsRUs Room — Complete Walkthrough | Ronit Singh | [Read More](https://medium.com/p/6b5d5991338b) |
-| Mon, 22 Sep 2025 20:47:40 GMT | Virus Melissa | Ldzinn | [Read More](https://medium.com/p/1efc5b2ee938) |
-| Mon, 22 Sep 2025 20:45:09 GMT | Trojan Desktop Puzzle | Starcapbreaker | [Read More](https://medium.com/p/d2096c09bdad) |
-| Mon, 22 Sep 2025 20:43:04 GMT | Malware Analysis : HTB Sherlocks Writeup- Loggy | KanakSasak | [Read More](https://medium.com/p/c0c4da49f68d) |
