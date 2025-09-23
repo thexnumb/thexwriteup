@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 09:13:24 GMT | crackmes.one: good kitty | Sourav Bose | [Read More](https://medium.com/p/09bfe201360a) |
+| Tue, 23 Sep 2025 09:03:13 GMT | Privilege Escalation Walkthrough - (HTB Lab) | Blackcatjrxiii | [Read More](https://medium.com/p/cd832e67d794) |
+| Tue, 23 Sep 2025 09:02:34 GMT | Bug Bounty 101: The Best Courses to Get Started in 2025 | Netlas.io | [Read More](https://medium.com/p/b0b1111a22ca) |
+| Tue, 23 Sep 2025 09:01:53 GMT | The Business Case and Future of Supply Chain Security: ROI, Regulations, and Revolutionary… | Paul Sherman | [Read More](https://medium.com/p/290b9049661d) |
+| Tue, 23 Sep 2025 09:01:08 GMT | The Bloch Chain: A Quantum Daisy Chain of Unlockable States | PhaseTransistor | [Read More](https://medium.com/p/39be4a2e7a75) |
+| Tue, 23 Sep 2025 08:58:18 GMT | DockerLabs Writeup — Trust (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/06f793c0df14) |
+| Tue, 23 Sep 2025 08:51:39 GMT | Real-World Example: Complete Application Setup | Claudio Masolo | [Read More](https://medium.com/p/8f5a5a51492c) |
+| Tue, 23 Sep 2025 08:46:03 GMT | What is a 51% Attack and Why It Matters for Blockchain | Kate Zakharava | [Read More](https://medium.com/p/56964989d3fb) |
 | Tue, 23 Sep 2025 08:43:18 GMT | How AI and Biometrics Are Driving the U.S. Facial Recognition Software Market | Vijay Mishra | [Read More](https://medium.com/p/352638f597a9) |
+| Tue, 23 Sep 2025 08:41:23 GMT | OH MY WEBSERVER -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/782f20b79bba) |
+| Tue, 23 Sep 2025 08:35:40 GMT | Python : Perulangan Dan Kontrol Arul | Cahyoadi | [Read More](https://medium.com/p/c37826ba0fd2) |
 | Tue, 23 Sep 2025 08:32:29 GMT | Hacking the 20B Beast: Inside OpenAI’s GPT-OSS Red Teaming Thriller | Jonathan Boice | [Read More](https://medium.com/p/b98f33c77112) |
 | Tue, 23 Sep 2025 08:32:24 GMT | Ransomware Hits the Skies: Unpacking the 2025 European Airport Cyberattack and Fortifying Your… | Mrsadiq | [Read More](https://medium.com/p/1627bbc94bfc) |
 | Tue, 23 Sep 2025 08:31:47 GMT | Anchors: Why Safety Isn’t Always Safe | Neil Hawkesford | [Read More](https://medium.com/p/bb76c58acdc6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 04:45:31 GMT | Understanding Cyber Kill Chain | Cyber Security Research | [Read More](https://medium.com/p/5c6ebbe5ef54) |
 | Tue, 23 Sep 2025 04:45:15 GMT | iphoneiPhone 17 Pro Tips: Maximize Performance and Battery Life | Ella Hall | [Read More](https://medium.com/p/4076b32c0da4) |
 | Tue, 23 Sep 2025 04:39:05 GMT | The ShadowLeak Flaw: How Hackers Tricked ChatGPT Into Stealing Gmail Data | IamPreth | [Read More](https://medium.com/p/c9b2070b6f07) |
-| Tue, 23 Sep 2025 04:27:46 GMT | CyberTalents CTF: Bean Writeup - MehdiSec | MehediSec | [Read More](https://medium.com/p/868caebd75f8) |
-| Tue, 23 Sep 2025 04:08:17 GMT | The Day I Realized Being Broken Could Be Beautiful | vydhi | [Read More](https://medium.com/p/d28168863835) |
-| Tue, 23 Sep 2025 04:02:21 GMT | The Impact of AI-Generated Code on Application Security | Samina Perveen | [Read More](https://medium.com/p/c5234d3b98a9) |
-| Tue, 23 Sep 2025 03:56:42 GMT | How I can solve PicoCTF Challenge:Blame Game 2024 Edition with simple solution | Nanda Aditya Putra | [Read More](https://medium.com/p/d09c79be17ef) |
-| Tue, 23 Sep 2025 03:56:32 GMT | Implementasi Map Reduce Sederhana Dengan Memakai Hadoop Dan Ubuntu | Zurichsabil | [Read More](https://medium.com/p/a2273cd5fef1) |
-| Tue, 23 Sep 2025 03:55:19 GMT | Why Consumer-Focused AI Browsers Fall Short for Enterprise Needs | Mammoth Cyber | [Read More](https://medium.com/p/2c8c1ceff734) |
-| Tue, 23 Sep 2025 03:54:34 GMT | HAIDAKHAN COMPLETE DATABASE HACKED !! | Krivadna | [Read More](https://medium.com/p/db5d2731b236) |
-| Tue, 23 Sep 2025 03:44:25 GMT | Understanding Fast Flux: The Cybercriminal’s Moving Target | Sadineni Sai Sushanth | [Read More](https://medium.com/p/f6f9e401c979) |
-| Tue, 23 Sep 2025 03:32:04 GMT | How Crypto24 Ransomware Is Turning Everyday Tools Into Weapons | Deven Chhajed | [Read More](https://medium.com/p/99835958a473) |
-| Tue, 23 Sep 2025 03:29:18 GMT | Java Insecure Deserialization | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/802e5afd565f) |
