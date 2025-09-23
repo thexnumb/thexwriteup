@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 18:48:19 GMT | Copilot being forced on VSCode? | NTTP | [Read More](https://medium.com/p/5379ce67c69c) |
+| Tue, 23 Sep 2025 18:39:01 GMT | Indian Army Terrier Cyber Quest 2025 | Chip | [Read More](https://medium.com/p/11de68274786) |
+| Tue, 23 Sep 2025 18:33:44 GMT | Diary of an Ex-Black Hat – Day 5: Regret Meets Purpose | Untold Story of I | [Read More](https://medium.com/p/b15ce19a5d04) |
+| Tue, 23 Sep 2025 18:29:16 GMT | Ethical Challenges in Hacking Back | Cyber Security Research | [Read More](https://medium.com/p/e6b1ce46b8ba) |
+| Tue, 23 Sep 2025 18:26:48 GMT | The Practical Cloudflare Configuration Guide — Stop Bot Attacks and Prevent Server Overload | Dipu Singh | [Read More](https://medium.com/p/5a0b3a19392b) |
+| Tue, 23 Sep 2025 18:26:24 GMT | Post-Quantum Cryptography: Preparing for the Future | Aj | [Read More](https://medium.com/p/5f50c39a4cd3) |
 | Tue, 23 Sep 2025 18:23:01 GMT | I Wrote An Article That Polarised Medium | Maaya Rive | [Read More](https://medium.com/p/2ae103c9fc92) |
 | Tue, 23 Sep 2025 18:22:17 GMT | Risk Management in Cybersecurity Programs | Cyber Security Research | [Read More](https://medium.com/p/4cc9ed176508) |
 | Tue, 23 Sep 2025 18:17:39 GMT | CSRF Vulnerability Leads to Course DoS | Exploit5lover | [Read More](https://medium.com/p/70809362a7ec) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 13:59:44 GMT | 7 Data Science Tricks I Wish I Knew Before My First Job Interview | Fateyaly | [Read More](https://medium.com/p/cbe603591409) |
 | Tue, 23 Sep 2025 13:58:40 GMT | The Dark Web Intelligence Kit: 11 Tools for Anonymous Research | Andrei Ivan | [Read More](https://medium.com/p/5507dc97633d) |
 | Tue, 23 Sep 2025 13:51:52 GMT | AWS VPC Networking Tutorial: Resolve Server Connection Issues with Routes and Security Groups | DarkoTechOps | [Read More](https://medium.com/p/85c3429a1920) |
-| Tue, 23 Sep 2025 13:51:46 GMT | What Horsepower Garage Door Opener Do I Need: Choosing the Right Fit | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/24de292ae4d8) |
-| Tue, 23 Sep 2025 13:49:35 GMT | The Complete Guide to PCI DSS Compliance Certification in 2025 | Feroot Security | [Read More](https://medium.com/p/d1cd2ba5a6d0) |
-| Tue, 23 Sep 2025 13:45:30 GMT | My OSEP journey | Lukasz Wierzbicki | [Read More](https://medium.com/p/955d9afef33c) |
-| Tue, 23 Sep 2025 13:42:50 GMT | From Offense to Defense: Hardening What You Broke | Fateyaly | [Read More](https://medium.com/p/c8b0c16c98ce) |
-| Tue, 23 Sep 2025 13:37:30 GMT | Security Express and Nest: Fortifying Your App with Helmet Middleware | Marian Pirvan | [Read More](https://medium.com/p/827c3841b2bc) |
-| Tue, 23 Sep 2025 13:31:50 GMT | Pulled the Red Cord? Here’s How to Easily Reset Your Garage Door Opener | Up & Down Garage Door Services | [Read More](https://medium.com/p/9966201dedd4) |
