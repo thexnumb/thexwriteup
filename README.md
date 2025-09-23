@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 09:31:37 GMT | :{) Welcome Message … | MD SHAKIB KHAN | [Read More](https://medium.com/p/7a2271fb3c0a) |
+| Tue, 23 Sep 2025 09:28:22 GMT | The Link Between Software Updates And Security: A Simple Guide For Beginners | Sahil | [Read More](https://medium.com/p/99307512d15d) |
+| Tue, 23 Sep 2025 09:27:33 GMT | 7 Red Flags That Your “Compliance” Isn’t Real Security | Evgeny Ermakov | [Read More](https://medium.com/p/eef90eddc130) |
+| Tue, 23 Sep 2025 09:23:59 GMT | EDR-Freeze: The New Technique That Suspends EDR and Antivirus in a “Coma State” | Shehan_Gunathilaka | [Read More](https://medium.com/p/f074b776dd6c) |
+| Tue, 23 Sep 2025 09:21:47 GMT | ☸️ Kubernetes Security Vulnerabilities: Threats in Modern Container Orchestration | Esra Kayhan | [Read More](https://medium.com/p/bc80409db4ce) |
 | Tue, 23 Sep 2025 09:13:24 GMT | crackmes.one: good kitty | Sourav Bose | [Read More](https://medium.com/p/09bfe201360a) |
+| Tue, 23 Sep 2025 09:10:52 GMT | The Product Development Journey at Deonics: From Vision to Reality | Digitaldepartment | [Read More](https://medium.com/p/f4ad241ccfe4) |
 | Tue, 23 Sep 2025 09:03:13 GMT | Privilege Escalation Walkthrough - (HTB Lab) | Blackcatjrxiii | [Read More](https://medium.com/p/cd832e67d794) |
 | Tue, 23 Sep 2025 09:02:34 GMT | Bug Bounty 101: The Best Courses to Get Started in 2025 | Netlas.io | [Read More](https://medium.com/p/b0b1111a22ca) |
 | Tue, 23 Sep 2025 09:01:53 GMT | The Business Case and Future of Supply Chain Security: ROI, Regulations, and Revolutionary… | Paul Sherman | [Read More](https://medium.com/p/290b9049661d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 04:59:18 GMT | Day 61- Basics of threat intelligence and OSINT for beginners | unica 02 | [Read More](https://medium.com/p/e314a0f77469) |
 | Tue, 23 Sep 2025 04:59:17 GMT | How to Upload and Manage Files Using File Manager in WordPress [No FTP Required] | Hamza Hanif | [Read More](https://medium.com/p/5e52332e11b5) |
 | Tue, 23 Sep 2025 04:59:00 GMT | The Threat Landscape in 2025 | Cyber Security Research | [Read More](https://medium.com/p/8c8855f9207b) |
-| Tue, 23 Sep 2025 04:55:53 GMT | Portswigger Web Security Academy - CORS Lab #1 | BooRuleDie | [Read More](https://medium.com/p/3fedf16f9330) |
-| Tue, 23 Sep 2025 04:54:05 GMT | Settimg IP pada Desain Jaringan Komputer Rumas Sakit | fijrisalwa | [Read More](https://medium.com/p/ba370235417f) |
-| Tue, 23 Sep 2025 04:53:58 GMT | Reverse engineering an Android APK — Theory (Architecture-focused) | Zaid Bin Ahmad | [Read More](https://medium.com/p/14970a961619) |
-| Tue, 23 Sep 2025 04:45:31 GMT | Understanding Cyber Kill Chain | Cyber Security Research | [Read More](https://medium.com/p/5c6ebbe5ef54) |
-| Tue, 23 Sep 2025 04:45:15 GMT | iphoneiPhone 17 Pro Tips: Maximize Performance and Battery Life | Ella Hall | [Read More](https://medium.com/p/4076b32c0da4) |
-| Tue, 23 Sep 2025 04:39:05 GMT | The ShadowLeak Flaw: How Hackers Tricked ChatGPT Into Stealing Gmail Data | IamPreth | [Read More](https://medium.com/p/c9b2070b6f07) |
