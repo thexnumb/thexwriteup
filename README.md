@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 14:18:28 GMT | The 5 Data Science Tools That Quietly Replaced My Expensive Software Stack | Fateyaly | [Read More](https://medium.com/p/a5cfc419603c) |
+| Tue, 23 Sep 2025 14:06:56 GMT | How to build a bank p3: The domain controller | Logan Elkins | [Read More](https://medium.com/p/c4fef9654a54) |
+| Tue, 23 Sep 2025 14:06:01 GMT | They Laughed at My “Fingerprint Login” Until It Blocked 99.7% of Hackers | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/60dfe82744a6) |
+| Tue, 23 Sep 2025 14:02:22 GMT | What Gang-Stalking / Targeting Looks Like From the Outside In | Reclamation Nation | [Read More](https://medium.com/p/7e0f766b0510) |
+| Tue, 23 Sep 2025 14:02:13 GMT | Cyber Briefing: 2025.09.23 | CyberMaterial | [Read More](https://medium.com/p/be76a9734b8a) |
+| Tue, 23 Sep 2025 13:59:44 GMT | 7 Data Science Tricks I Wish I Knew Before My First Job Interview | Fateyaly | [Read More](https://medium.com/p/cbe603591409) |
+| Tue, 23 Sep 2025 13:58:40 GMT | The Dark Web Intelligence Kit: 11 Tools for Anonymous Research | Andrei Ivan | [Read More](https://medium.com/p/5507dc97633d) |
+| Tue, 23 Sep 2025 13:51:52 GMT | AWS VPC Networking Tutorial: Resolve Server Connection Issues with Routes and Security Groups | DarkoTechOps | [Read More](https://medium.com/p/85c3429a1920) |
+| Tue, 23 Sep 2025 13:51:46 GMT | What Horsepower Garage Door Opener Do I Need: Choosing the Right Fit | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/24de292ae4d8) |
+| Tue, 23 Sep 2025 13:49:35 GMT | The Complete Guide to PCI DSS Compliance Certification in 2025 | Feroot Security | [Read More](https://medium.com/p/d1cd2ba5a6d0) |
 | Tue, 23 Sep 2025 13:45:30 GMT | My OSEP journey | Lukasz Wierzbicki | [Read More](https://medium.com/p/955d9afef33c) |
 | Tue, 23 Sep 2025 13:42:50 GMT | From Offense to Defense: Hardening What You Broke | Fateyaly | [Read More](https://medium.com/p/c8b0c16c98ce) |
 | Tue, 23 Sep 2025 13:37:30 GMT | Security Express and Nest: Fortifying Your App with Helmet Middleware | Marian Pirvan | [Read More](https://medium.com/p/827c3841b2bc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 09:27:33 GMT | 7 Red Flags That Your “Compliance” Isn’t Real Security | Evgeny Ermakov | [Read More](https://medium.com/p/eef90eddc130) |
 | Tue, 23 Sep 2025 09:23:59 GMT | EDR-Freeze: The New Technique That Suspends EDR and Antivirus in a “Coma State” | Shehan_Gunathilaka | [Read More](https://medium.com/p/f074b776dd6c) |
 | Tue, 23 Sep 2025 09:21:47 GMT | ☸️ Kubernetes Security Vulnerabilities: Threats in Modern Container Orchestration | Esra Kayhan | [Read More](https://medium.com/p/bc80409db4ce) |
-| Tue, 23 Sep 2025 09:13:24 GMT | crackmes.one: good kitty | Sourav Bose | [Read More](https://medium.com/p/09bfe201360a) |
-| Tue, 23 Sep 2025 09:10:52 GMT | The Product Development Journey at Deonics: From Vision to Reality | Digitaldepartment | [Read More](https://medium.com/p/f4ad241ccfe4) |
-| Tue, 23 Sep 2025 09:03:13 GMT | Privilege Escalation Walkthrough - (HTB Lab) | Blackcatjrxiii | [Read More](https://medium.com/p/cd832e67d794) |
-| Tue, 23 Sep 2025 09:02:34 GMT | Bug Bounty 101: The Best Courses to Get Started in 2025 | Netlas.io | [Read More](https://medium.com/p/b0b1111a22ca) |
-| Tue, 23 Sep 2025 09:01:53 GMT | The Business Case and Future of Supply Chain Security: ROI, Regulations, and Revolutionary… | Paul Sherman | [Read More](https://medium.com/p/290b9049661d) |
-| Tue, 23 Sep 2025 09:01:08 GMT | The Bloch Chain: A Quantum Daisy Chain of Unlockable States | PhaseTransistor | [Read More](https://medium.com/p/39be4a2e7a75) |
-| Tue, 23 Sep 2025 08:58:18 GMT | DockerLabs Writeup — Trust (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/06f793c0df14) |
-| Tue, 23 Sep 2025 08:51:39 GMT | Real-World Example: Complete Application Setup | Claudio Masolo | [Read More](https://medium.com/p/8f5a5a51492c) |
-| Tue, 23 Sep 2025 08:46:03 GMT | What is a 51% Attack and Why It Matters for Blockchain | Kate Zakharava | [Read More](https://medium.com/p/56964989d3fb) |
-| Tue, 23 Sep 2025 08:43:18 GMT | How AI and Biometrics Are Driving the U.S. Facial Recognition Software Market | Vijay Mishra | [Read More](https://medium.com/p/352638f597a9) |
