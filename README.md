@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 05:13:14 GMT | iPhone 17 Pro Secrets: Hidden Features and Tricks Revealed | Kanyarat Suksawat | [Read More](https://medium.com/p/439bbff2736f) |
+| Tue, 23 Sep 2025 05:09:03 GMT | What Are The Key Benefits Of Legacy Application Modernization? | Noahlucas | [Read More](https://medium.com/p/fa6afa067f14) |
+| Tue, 23 Sep 2025 05:02:07 GMT | How ClickFix Tricks You into Hacking Yourself | Isaac Muendo | [Read More](https://medium.com/p/1dcd1d62dd63) |
+| Tue, 23 Sep 2025 04:59:18 GMT | Day 61- Basics of threat intelligence and OSINT for beginners | unica 02 | [Read More](https://medium.com/p/e314a0f77469) |
+| Tue, 23 Sep 2025 04:59:17 GMT | How to Upload and Manage Files Using File Manager in WordPress [No FTP Required] | Hamza Hanif | [Read More](https://medium.com/p/5e52332e11b5) |
+| Tue, 23 Sep 2025 04:59:00 GMT | The Threat Landscape in 2025 | Cyber Security Research | [Read More](https://medium.com/p/8c8855f9207b) |
+| Tue, 23 Sep 2025 04:55:53 GMT | Portswigger Web Security Academy - CORS Lab #1 | BooRuleDie | [Read More](https://medium.com/p/3fedf16f9330) |
+| Tue, 23 Sep 2025 04:54:05 GMT | Settimg IP pada Desain Jaringan Komputer Rumas Sakit | fijrisalwa | [Read More](https://medium.com/p/ba370235417f) |
+| Tue, 23 Sep 2025 04:53:58 GMT | Reverse engineering an Android APK — Theory (Architecture-focused) | Zaid Bin Ahmad | [Read More](https://medium.com/p/14970a961619) |
+| Tue, 23 Sep 2025 04:45:31 GMT | Understanding Cyber Kill Chain | Cyber Security Research | [Read More](https://medium.com/p/5c6ebbe5ef54) |
+| Tue, 23 Sep 2025 04:45:15 GMT | iphoneiPhone 17 Pro Tips: Maximize Performance and Battery Life | Ella Hall | [Read More](https://medium.com/p/4076b32c0da4) |
 | Tue, 23 Sep 2025 04:39:05 GMT | The ShadowLeak Flaw: How Hackers Tricked ChatGPT Into Stealing Gmail Data | IamPreth | [Read More](https://medium.com/p/c9b2070b6f07) |
 | Tue, 23 Sep 2025 04:27:46 GMT | CyberTalents CTF: Bean Writeup - MehdiSec | MehediSec | [Read More](https://medium.com/p/868caebd75f8) |
 | Tue, 23 Sep 2025 04:08:17 GMT | The Day I Realized Being Broken Could Be Beautiful | vydhi | [Read More](https://medium.com/p/d28168863835) |
@@ -103,14 +114,3 @@ Real-World Environments | Ismael Barrantes | [Read More](https://medium.com/p/0d
 | Mon, 22 Sep 2025 20:27:26 GMT | Airport offline: How vulnerable our systems really are | Cordula Boeck | [Read More](https://medium.com/p/4d898e4ed77c) |
 | Mon, 22 Sep 2025 20:21:23 GMT | Cybersecurity Truths: Brutal takes you won’t hear anywhere else | Truspex | [Read More](https://medium.com/p/8bce1217d0b1) |
 | Mon, 22 Sep 2025 20:12:30 GMT | Improve your Privacy using Tor | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e3b61fbf3c65) |
-| Mon, 22 Sep 2025 20:10:04 GMT | How I Found My First Flag in Terrier Cyber Quest CTF | KURAPATI HONEY KUSHANTH | [Read More](https://medium.com/p/796ffed00913) |
-| Mon, 22 Sep 2025 20:08:45 GMT | Top 5 Programming Languages that Every Ethical Hacker Should Learn | Smith Adams | [Read More](https://medium.com/p/10021056a42f) |
-| Mon, 22 Sep 2025 20:03:27 GMT | Algorithmic Stalking , hidden surveillance technology. | Daretoexpose | [Read More](https://medium.com/p/dc14d27d70ef) |
-| Mon, 22 Sep 2025 20:02:27 GMT | Silicon Valley C-Level Leadership Summit | Matthew.Rosenquist | [Read More](https://medium.com/p/ab4ef12aa70e) |
-| Mon, 22 Sep 2025 20:00:34 GMT | The Terminal Survival Kit: Commands Every Developer Must Master Before Disaster Strikes | CodeGenitor | [Read More](https://medium.com/p/951b21f9bab7) |
-| Mon, 22 Sep 2025 19:43:11 GMT | Threat Hunters vs. Cyber Risk Hunters: Two Sides of Modern Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/af1d86937304) |
-| Mon, 22 Sep 2025 19:39:38 GMT | EchoLeak (CVE-2025–32711): The Zero-Click Prompt Injection Exploit in Microsoft 365 Copilot | Yashasvi Sharma | [Read More](https://medium.com/p/816532224919) |
-| Mon, 22 Sep 2025 19:34:40 GMT | How does AI know what it’s seeing? | Seven | [Read More](https://medium.com/p/58ad3b54ac9b) |
-| Mon, 22 Sep 2025 19:33:49 GMT | How I’m Creating My Cybersecurity Career from a Place of Flow vs. Force Part 2 | Wellness in Cybersecurity | [Read More](https://medium.com/p/883e9ad43ec2) |
-| Mon, 22 Sep 2025 19:32:03 GMT | Passwordless, Finally? | Modexa | [Read More](https://medium.com/p/3a6373d31b8c) |
-| Mon, 22 Sep 2025 19:32:03 GMT | Zero Trust, Zero Breaches? | Nexumo | [Read More](https://medium.com/p/8e86107aeb54) |
