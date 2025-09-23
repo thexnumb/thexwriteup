@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 23 Sep 2025 18:23:01 GMT | I Wrote An Article That Polarised Medium | Maaya Rive | [Read More](https://medium.com/p/2ae103c9fc92) |
+| Tue, 23 Sep 2025 18:22:17 GMT | Risk Management in Cybersecurity Programs | Cyber Security Research | [Read More](https://medium.com/p/4cc9ed176508) |
+| Tue, 23 Sep 2025 18:17:39 GMT | CSRF Vulnerability Leads to Course DoS | Exploit5lover | [Read More](https://medium.com/p/70809362a7ec) |
+| Tue, 23 Sep 2025 18:17:26 GMT | Getting Started with Kali Linux for Cybersecurity (Beginner’s Guide) | Ytippireddy | [Read More](https://medium.com/p/36e49de3fa11) |
+| Tue, 23 Sep 2025 18:08:28 GMT | Cybersecurity in 2025: Why Businesses Can’t Afford to Ignore It | Priya B | [Read More](https://medium.com/p/90e4608cf658) |
+| Tue, 23 Sep 2025 18:08:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/48e97d91de52) |
+| Tue, 23 Sep 2025 18:05:40 GMT | Cybersecurity in Online Gaming | Cyber Security Research | [Read More](https://medium.com/p/5155b91d7ccf) |
+| Tue, 23 Sep 2025 18:01:52 GMT | LFI + RCE en Node.js, Python y PHP — Laboratorio real paso a paso | Gorka | [Read More](https://medium.com/p/4a3b4f1089c3) |
+| Tue, 23 Sep 2025 18:01:51 GMT | Analysis - Art of the Minilateral Deal: Lessons from Balkan Defense Cooperation | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/9920873413e0) |
+| Tue, 23 Sep 2025 18:01:51 GMT | 8 FastAPI Security Patterns That Don’t Add Latency | Bhagya Rana | [Read More](https://medium.com/p/458c30f0dbb7) |
+| Tue, 23 Sep 2025 17:57:51 GMT | Simple CTF — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/c566ed600dd4) |
+| Tue, 23 Sep 2025 17:55:58 GMT | My Journey Learning Cybersecurity & Programming | Raunak Rai | [Read More](https://medium.com/p/e57f93488023) |
+| Tue, 23 Sep 2025 17:55:55 GMT | The Complete Elastic SIEM Implementation Manual | Dipu Singh | [Read More](https://medium.com/p/3815100f872c) |
+| Tue, 23 Sep 2025 17:54:01 GMT | Unlocking Memory Forensics: A Beginner’s Guide to Volatility | Busraugur | [Read More](https://medium.com/p/98bd3ac16c33) |
+| Tue, 23 Sep 2025 17:53:10 GMT | CERT-In MandatesAnnual Cybersecurity Audits For MSMES In India | Lumiversesolution | [Read More](https://medium.com/p/6ea56fb6dcfd) |
+| Tue, 23 Sep 2025 17:48:58 GMT | Looking for Q Access Error Logs | Teri Radichel | [Read More](https://medium.com/p/af3dd65d9f66) |
+| Tue, 23 Sep 2025 17:46:38 GMT | From the Dojo to the Digital Battlefield: The Evolution of AI as a Master of Deception and Physical… | Berend Watchus | [Read More](https://medium.com/p/781f8cdf257d) |
+| Tue, 23 Sep 2025 17:44:52 GMT | Security Practices for DDL and DML in Database Systems | Koustub | [Read More](https://medium.com/p/1fe3aac1e81b) |
+| Tue, 23 Sep 2025 17:41:33 GMT | NOCTIS Doctrine: Promethean Intelligence for the People | Erfan Tighzan | [Read More](https://medium.com/p/48920e0e9872) |
 | Tue, 23 Sep 2025 17:31:27 GMT | The Night Everything I Knew About OSINT Became Dangerous | Rishisec | [Read More](https://medium.com/p/db2bf746f40e) |
 | Tue, 23 Sep 2025 17:30:43 GMT | Welcome to the MAXISIQ Blog: Engineering Innovation for the Mission Ahead | Sophia Martinez | [Read More](https://medium.com/p/1499a5468a71) |
 | Tue, 23 Sep 2025 17:28:52 GMT | SolarWinds Makes Third Attempt at Patching Exploited Vulnerability | Suhas Valasala | [Read More](https://medium.com/p/2356219f38e9) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 13:42:50 GMT | From Offense to Defense: Hardening What You Broke | Fateyaly | [Read More](https://medium.com/p/c8b0c16c98ce) |
 | Tue, 23 Sep 2025 13:37:30 GMT | Security Express and Nest: Fortifying Your App with Helmet Middleware | Marian Pirvan | [Read More](https://medium.com/p/827c3841b2bc) |
 | Tue, 23 Sep 2025 13:31:50 GMT | Pulled the Red Cord? Here’s How to Easily Reset Your Garage Door Opener | Up & Down Garage Door Services | [Read More](https://medium.com/p/9966201dedd4) |
-| Tue, 23 Sep 2025 13:30:25 GMT | Understanding Backend Security | Mari_Nnanna | [Read More](https://medium.com/p/0e98d717aac2) |
-| Tue, 23 Sep 2025 13:30:00 GMT | eJPT v2 : Challenge Lab 20: Mr Robot | Dhanushkumar R | [Read More](https://medium.com/p/31278379b6e6) |
-| Tue, 23 Sep 2025 13:29:16 GMT | Employees’ responsibility in preventing Business Email Compromise (BEC) | Chidubem Ukamaka Onyejemuo | [Read More](https://medium.com/p/ba225f0c7dbe) |
-| Tue, 23 Sep 2025 13:27:17 GMT | Run ParrotOS in Docker in 2 steps | tamilvanan | [Read More](https://medium.com/p/c440f93ad08d) |
-| Tue, 23 Sep 2025 13:25:51 GMT | Hard Disk Drives (HDD) and Solid State Drives (SSD): Guide | Parvva | [Read More](https://medium.com/p/af17a4a1136c) |
-| Tue, 23 Sep 2025 13:25:37 GMT | Social Media Use != Minimal Support Needs | Noisy Skin Bag | [Read More](https://medium.com/p/f5d99c4d05be) |
-| Tue, 23 Sep 2025 13:24:44 GMT | Fundamentals of Secure Web Development: Building Websites That Can’t Be Easily Hacked | Ehinomhen Okaiwele | [Read More](https://medium.com/p/cf6ae009bcea) |
-| Tue, 23 Sep 2025 13:23:49 GMT | Beyond Technology: Our Social Mission at Hello Future Technologies | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/586bab370837) |
-| Tue, 23 Sep 2025 13:23:23 GMT | PG Practice — Fanatastic (Linux) | Lepton | [Read More](https://medium.com/p/4615653fbbf7) |
-| Tue, 23 Sep 2025 13:22:21 GMT | The New Frontier: Advanced Cybersecurity in a Hyperconnected World | Shivam Rawat | [Read More](https://medium.com/p/71dcee93c23f) |
-| Tue, 23 Sep 2025 13:19:51 GMT | [CyberSec] Enhancing Active Directory Security with BloodHound and PingCastle | Pietro Romano / SecBeret | [Read More](https://medium.com/p/f51f48840bd6) |
-| Tue, 23 Sep 2025 13:18:00 GMT | Seeing is Surviving: Why Cybersecurity Visibility is the Lifeline for Small Businesses | Samuel George | [Read More](https://medium.com/p/03eb022139a3) |
-| Tue, 23 Sep 2025 13:16:54 GMT | How I Learned Cybersecurity in 30 Days Using Only ChatGPT | Ibtissam hammadi | [Read More](https://medium.com/p/3e94d03f0423) |
-| Tue, 23 Sep 2025 13:13:30 GMT | RHACS: Securing Openshift Clusters | Fabio Reis | [Read More](https://medium.com/p/17bf3d435339) |
-| Tue, 23 Sep 2025 13:11:37 GMT | LastPass Malware Campaign Targets macOS Users | TheReviewHive | [Read More](https://medium.com/p/bd5af22bb0a7) |
-| Tue, 23 Sep 2025 13:10:54 GMT | Why #DevSecOps Is No Longer Optional — Building Security Into Every Code Release | Omex Oleksandr | [Read More](https://medium.com/p/9480e5a3480a) |
-| Tue, 23 Sep 2025 13:01:51 GMT | How to Erase Garage Door Opener Settings: Clear Remotes & Keypads Fast | 24H Garage Doors | [Read More](https://medium.com/p/c392bcddb4b1) |
-| Tue, 23 Sep 2025 13:01:51 GMT | How to Avoid Getting Hacked as a Crypto Investor | Farhad Ali | [Read More](https://medium.com/p/f2bf5a7010e1) |
-| Tue, 23 Sep 2025 13:01:51 GMT | Why Email Marketing Is the Secret Growth Tool for Directory Websites | aDirectory | [Read More](https://medium.com/p/348b7e185e25) |
