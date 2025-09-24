@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 16:42:02 GMT | Donut Demystified: How the Shellcode Generator Runs .NET and PE Payloads In-Memory | 0r | [Read More](https://medium.com/p/322c0974f517) |
+| Wed, 24 Sep 2025 16:41:47 GMT | Breaking Into Cybersecurity | JMP ESP FF E4 | [Read More](https://medium.com/p/99cc2e18ac35) |
+| Wed, 24 Sep 2025 16:34:50 GMT | Abusing Unconstrained Delegation — Computers — exploiting the Printer bug method | SeverSerenity | [Read More](https://medium.com/p/33f1b90a4347) |
+| Wed, 24 Sep 2025 16:32:35 GMT | The Inevitable Path of AI: From Developer’s Playground to CIO-Managed Platform | Dante Malagrino | [Read More](https://medium.com/p/d9d0835f179f) |
+| Wed, 24 Sep 2025 16:32:27 GMT | From LinkedIn Job Offers to Malware: How Iranian Hackers Breach Europe | Abdelhalim_husein | [Read More](https://medium.com/p/7326f92eff93) |
+| Wed, 24 Sep 2025 16:29:53 GMT | Understanding the Full Spectrum of Threat Indicators | Ryan G. Cox | [Read More](https://medium.com/p/f9b3c1be3fc8) |
+| Wed, 24 Sep 2025 16:21:26 GMT | UK Police Arrest Suspect Behind Ransomware Attack on European Airports | Jasmitharouthu | [Read More](https://medium.com/p/19d07c8665a1) |
+| Wed, 24 Sep 2025 16:20:42 GMT | How to Choose a Cyber Security Consultant: The Real Talk You Need | Paul Reynolds | [Read More](https://medium.com/p/0395ba48fbd9) |
+| Wed, 24 Sep 2025 16:18:14 GMT | Hari-hari ketika aku tak ingin ada | September Fall | [Read More](https://medium.com/p/d955d64f5058) |
 | Wed, 24 Sep 2025 16:10:21 GMT | Cyber Safety Watchdog Insider | Cyber Safety Watchdog | [Read More](https://medium.com/p/b15a236fe9d2) |
 | Wed, 24 Sep 2025 16:09:40 GMT | How Matej Michalko is Securing Europe’s Digital Future | Matej Michalko | [Read More](https://medium.com/p/4fae73cc065e) |
 | Wed, 24 Sep 2025 16:06:43 GMT | New North Korean IT Worker With Innocent Job Application Get Access to Organization’s Network | Jasmitharouthu | [Read More](https://medium.com/p/ef6d6dfece83) |
@@ -104,12 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 12:49:48 GMT | Deep Dive: Zero Trust Security Model on AWS | Davebhargavi | [Read More](https://medium.com/p/0fab209d3e16) |
 | Wed, 24 Sep 2025 12:46:05 GMT | Kubernetes Security Book (2nd Edition) — A Synthesis | Alain Airom (Ayrom) | [Read More](https://medium.com/p/4372fbc7c3d8) |
 | Wed, 24 Sep 2025 12:37:53 GMT | Your breezy handbook to digital privacy tools | Scorpius | [Read More](https://medium.com/p/3cbe42ee1331) |
-| Wed, 24 Sep 2025 12:35:20 GMT | My bug bounty methodology | 0xBruno | [Read More](https://medium.com/p/84570a9f4a16) |
-| Wed, 24 Sep 2025 12:32:36 GMT | SOC Home Lab on One Laptop: Configuring Internal Networking in VirtualBox | Akshatdwivedi | [Read More](https://medium.com/p/8fd761a77603) |
-| Wed, 24 Sep 2025 12:32:32 GMT | Subnetting Made Easy! | Darshan Shelat | [Read More](https://medium.com/p/f8112748f83f) |
-| Wed, 24 Sep 2025 12:31:30 GMT | What Makes ForceX Security Services a Trusted Name in Security Guard Services in Qatar | Fss | [Read More](https://medium.com/p/95be8d459e8a) |
-| Wed, 24 Sep 2025 12:27:07 GMT | Coding with Confidence: The Cyber Expertise of Lode Emmanuel Palle | Lode Emmanuel Palle | [Read More](https://medium.com/p/e611f75f7ced) |
-| Wed, 24 Sep 2025 12:27:04 GMT | Mastering Nmap: From Host Discovery to Finding Exploits | Vikram Budania | [Read More](https://medium.com/p/d44e5d0067da) |
-| Wed, 24 Sep 2025 12:24:48 GMT | Exploit Nedir, Hazır Olmazsanız Fatura Ağır Olur | Mustafa Furkan Yılmaz | [Read More](https://medium.com/p/1a8356122f0a) |
-| Wed, 24 Sep 2025 12:24:19 GMT | Why Managed Security Services Are Becoming Essential for Businesses in the UAE | Hiba Zafeer | [Read More](https://medium.com/p/e46f8714f77b) |
-| Wed, 24 Sep 2025 12:22:55 GMT | Mobile App Security: Protecting User Data and Privacy | Madison Carter | [Read More](https://medium.com/p/0ecd1c97f2aa) |
