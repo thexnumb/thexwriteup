@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 14:09:41 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/5353c112abfc) |
+| Wed, 24 Sep 2025 14:08:25 GMT | Security Implementation Best Practices | Jard | [Read More](https://medium.com/p/52c5160cfa6f) |
+| Wed, 24 Sep 2025 14:07:11 GMT | Threat Hunting Essentials: From Hypothesis to Detection | Azefox innovations | [Read More](https://medium.com/p/de8ee74ce653) |
+| Wed, 24 Sep 2025 14:05:07 GMT | Key Highlights: ECIIA’s Risk in Focus 2026 | Balasubramaniam GD | [Read More](https://medium.com/p/14a5aa8a289e) |
+| Wed, 24 Sep 2025 14:04:59 GMT | OSINT Investigation of a Suspicious Email | Zoltan Karpati | [Read More](https://medium.com/p/12cd505d2269) |
+| Wed, 24 Sep 2025 14:04:06 GMT | Cheyanne Mallas: Envisioning the Future of Cybersecurity Project Management in 2035 | Cheyannemallaspa | [Read More](https://medium.com/p/6e272e6dabce) |
+| Wed, 24 Sep 2025 14:02:54 GMT | Why ABTU is the First Real Utility Token Web3 Needs | Abatis ABTU | [Read More](https://medium.com/p/430a7c2ffb1a) |
+| Wed, 24 Sep 2025 14:02:48 GMT | # EnvShield vs. TruffleHog: A Practical Guide to Local-First Secret Scanning | Rabbil Yasar | [Read More](https://medium.com/p/6abc68e9de6a) |
+| Wed, 24 Sep 2025 14:01:50 GMT | Cyber Briefing: 2025.09.24 | CyberMaterial | [Read More](https://medium.com/p/8a8f0a96a7e0) |
+| Wed, 24 Sep 2025 14:01:38 GMT | 5 Cybersecurity Tips Every Kenyan Internet User Should Follow | Abora Finias | [Read More](https://medium.com/p/2ecf3524f7b4) |
+| Wed, 24 Sep 2025 14:01:15 GMT | # The End of .env Chaos: How to Use a Schema for Ironclad Environment Governance | Rabbil Yasar | [Read More](https://medium.com/p/5c46200a17ca) |
+| Wed, 24 Sep 2025 14:00:13 GMT | 22nd February 2025 was the first time I attended an AWS Community Day event. | Ali Arifin | [Read More](https://medium.com/p/5debd13d1ba6) |
+| Wed, 24 Sep 2025 13:59:53 GMT | How can I withdraw my money from investrixhub ? | Nicole James | [Read More](https://medium.com/p/08f3aa23ec55) |
+| Wed, 24 Sep 2025 13:59:14 GMT | Cheyanne Mallas: Envisioning the Future of Cybersecurity Project Management in 2035 | Cheyanne Mallas | [Read More](https://medium.com/p/789d99fc4370) |
+| Wed, 24 Sep 2025 13:51:58 GMT | ASCWG CTF competition Finals Digital Forensics Writeup | 0xZew | [Read More](https://medium.com/p/6f53b4e3562d) |
 | Wed, 24 Sep 2025 13:46:23 GMT | The Penetration Tester’s Hidden Cache: 15 Underused Security Tools | Andrei Ivan | [Read More](https://medium.com/p/79937fc8dbee) |
 | Wed, 24 Sep 2025 13:38:01 GMT | Preparing for the Quantum-Safe Future | Dr. Biraja Ghoshal | [Read More](https://medium.com/p/3d2558794370) |
 | Wed, 24 Sep 2025 13:33:40 GMT | I Benchmarked 7 AI Coding Tools: Only 2 Didn’t Leak My API Keys. | R A N A   A H M A D | [Read More](https://medium.com/p/e9a4db7f93ec) |
@@ -98,18 +113,3 @@ Interview with MacGregor Eddy and Leah Yananton | Nonviolent Global Liberation |
 | Wed, 24 Sep 2025 09:47:47 GMT | The Future of Web3 Isn’t Just About Faster Chains | Bright Mmaduabuchi | [Read More](https://medium.com/p/a8ed5cd168b3) |
 | Wed, 24 Sep 2025 09:45:46 GMT | Ensuring Safety with Professional Security Guard Services in Qatar | Fss | [Read More](https://medium.com/p/279e9ddb1f07) |
 | Wed, 24 Sep 2025 09:43:10 GMT | 5 Ways to Use AI in Cybersecurity | Jay C Roberts | [Read More](https://medium.com/p/d691b40742df) |
-| Wed, 24 Sep 2025 09:39:28 GMT | Why SASE Vendors Are Finally Admitting the Need for Browser Security Solutions | SquareX | [Read More](https://medium.com/p/1789d950f122) |
-| Wed, 24 Sep 2025 09:38:27 GMT | Remote IT Support for Businesses: A Complete Guide | Ask IT Support | [Read More](https://medium.com/p/b72d84ffc9ae) |
-| Wed, 24 Sep 2025 09:37:09 GMT | Choosing Between Penetration Testing and Fuzz Testing: A Security Professional’s Questionnaire | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/e858f9128f74) |
-| Wed, 24 Sep 2025 09:36:05 GMT | Vaccine (HTB Starting Point) — From Anonymous FTP to Root | Gabriel Santos | [Read More](https://medium.com/p/dd18096abe7d) |
-| Wed, 24 Sep 2025 09:31:53 GMT | Practical Methodology for Desktop Application Security Testing | Riya Upadhyay | [Read More](https://medium.com/p/314d83e8af2a) |
-| Wed, 24 Sep 2025 09:28:53 GMT | CVE-2025–10803: Tenda AC23 Router Hit by Buffer Overflow — Patch Now! | CVEHUB | [Read More](https://medium.com/p/798946bb5f34) |
-| Wed, 24 Sep 2025 09:27:20 GMT | CVE-2025–10802: SQL Injection Vulnerability Plagues Online Bidding System | CVEHUB | [Read More](https://medium.com/p/99d1f3863887) |
-| Wed, 24 Sep 2025 09:24:24 GMT | Deploying Wazuh on Kali Linux Using Docker | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/cbb99d9424ef) |
-| Wed, 24 Sep 2025 09:22:04 GMT | Bludgeoned Buzzwords: Minimum Viable Product | Namir Sagheenanajar | [Read More](https://medium.com/p/35154b447351) |
-| Wed, 24 Sep 2025 09:21:32 GMT | Pwning HackableII — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/cca8e99eb291) |
-| Wed, 24 Sep 2025 09:21:08 GMT | Verdict of 100 CEH Hall of Famers in 2025 Confirms Again! | Reggie Menacherry | [Read More](https://medium.com/p/e27e6068ece1) |
-| Wed, 24 Sep 2025 09:20:14 GMT | Gestalt: How LLMs “Understand” the World | Roman Trukhin | [Read More](https://medium.com/p/31905defe1f1) |
-| Wed, 24 Sep 2025 09:19:51 GMT | You, Even in the Distance | Eco Maven | [Read More](https://medium.com/p/a92f82c769f9) |
-| Wed, 24 Sep 2025 09:19:47 GMT | Getting started with Microsoft Sentinel for Insider Threat Detection | Konstantinos Lianos | [Read More](https://medium.com/p/2dfeea68be16) |
-| Wed, 24 Sep 2025 09:16:05 GMT | Please Don’t Advise Me | Comet N. | [Read More](https://medium.com/p/6f34c82c7ffa) |
