@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 13:46:23 GMT | The Penetration Tester’s Hidden Cache: 15 Underused Security Tools | Andrei Ivan | [Read More](https://medium.com/p/79937fc8dbee) |
+| Wed, 24 Sep 2025 13:38:01 GMT | Preparing for the Quantum-Safe Future | Dr. Biraja Ghoshal | [Read More](https://medium.com/p/3d2558794370) |
+| Wed, 24 Sep 2025 13:33:40 GMT | I Benchmarked 7 AI Coding Tools: Only 2 Didn’t Leak My API Keys. | R A N A   A H M A D | [Read More](https://medium.com/p/e9a4db7f93ec) |
+| Wed, 24 Sep 2025 13:26:38 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/9b4fb4e4e87c) |
 | Wed, 24 Sep 2025 13:26:07 GMT | Breaking the expectations of who we thought to be | Waking Up the Subconscious Mind | [Read More](https://medium.com/p/85f4810af0f1) |
 | Wed, 24 Sep 2025 13:21:49 GMT | The Ultimate Guide to Preventing Authorization Bypass via Cache Flaws | Ibtissam hammadi | [Read More](https://medium.com/p/4d8dbd27216a) |
 | Wed, 24 Sep 2025 13:19:25 GMT | Multiple Likes : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/a3dd91037fa5) |
@@ -109,8 +113,3 @@ Interview with MacGregor Eddy and Leah Yananton | Nonviolent Global Liberation |
 | Wed, 24 Sep 2025 09:19:51 GMT | You, Even in the Distance | Eco Maven | [Read More](https://medium.com/p/a92f82c769f9) |
 | Wed, 24 Sep 2025 09:19:47 GMT | Getting started with Microsoft Sentinel for Insider Threat Detection | Konstantinos Lianos | [Read More](https://medium.com/p/2dfeea68be16) |
 | Wed, 24 Sep 2025 09:16:05 GMT | Please Don’t Advise Me | Comet N. | [Read More](https://medium.com/p/6f34c82c7ffa) |
-| Wed, 24 Sep 2025 09:14:27 GMT | Secure Your Future: Cybersecurity Course at SLA Institute
-In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69ce737cace) |
-| Wed, 24 Sep 2025 09:09:34 GMT | Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt | Danish Ahmed | [Read More](https://medium.com/p/3f188f6ce4d1) |
-| Wed, 24 Sep 2025 09:09:27 GMT | What to Expect During an ERP or CRM Demo: A Buyer’s Checklist | Erpone | [Read More](https://medium.com/p/64e713868dfe) |
-| Wed, 24 Sep 2025 08:57:47 GMT | AI-Powered Documentation: 15 Tools for Security Report Generation | Andrei Ivan | [Read More](https://medium.com/p/05663f66d655) |
