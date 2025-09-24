@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 11:08:42 GMT | Top 5 Cyber Attacks That Changed the World | Nagaraj | [Read More](https://medium.com/p/b41b7c5746b6) |
+| Wed, 24 Sep 2025 11:03:26 GMT | Why Vulnerability Management Should Be Part of Your Risk Management Framework | Digital Defense | [Read More](https://medium.com/p/35466a6cf1ff) |
+| Wed, 24 Sep 2025 11:01:54 GMT | Collins Aerospace Cyberattack: How Third-Party Risk Impacts Everyone | Brittney Ginther | [Read More](https://medium.com/p/35eb76ddf13a) |
+| Wed, 24 Sep 2025 10:58:08 GMT | Requirements Management Tools: A Complete Guide for Modern Teams | Kualitee | [Read More](https://medium.com/p/3dbe0ee7da7f) |
+| Wed, 24 Sep 2025 10:57:34 GMT | BIG SMART DATA EL4DEV, the first social network of peace — Carmen ORTIZ and Laura BODIS from… | Paul Elvere DELSART | [Read More](https://medium.com/p/30344d1158ac) |
+| Wed, 24 Sep 2025 10:57:18 GMT | Best Phishing Simulation and Awareness Services Companies In India | Gowthammathiew | [Read More](https://medium.com/p/0cb7577edb59) |
+| Wed, 24 Sep 2025 10:52:37 GMT | Stop Depending on DevOps Engineers: Deploy Production-Ready MERN Apps Yourself | daoud-hussain | [Read More](https://medium.com/p/ec855112828f) |
+| Wed, 24 Sep 2025 10:49:39 GMT | Stop Using the Default Kali Terminal: This Setup Will Blow Your Mind | Beri Contraster | [Read More](https://medium.com/p/b78f1f71aabe) |
+| Wed, 24 Sep 2025 10:41:22 GMT | The Hidden Dangers of AI Face-Swapping Apps and How to Protect Yourself | Alex GhostWriter | [Read More](https://medium.com/p/7b7ca84fb2d7) |
+| Wed, 24 Sep 2025 10:40:54 GMT | MediaTek Resmi Luncurkan Dimensity 9500: Chipset Flagship 4GHz Pertama dengan Performa AI, Gaming… | Jennifer Sanjaya | [Read More](https://medium.com/p/635532347d08) |
 | Wed, 24 Sep 2025 10:39:33 GMT | Digital Risk Protection | Michel mathew | [Read More](https://medium.com/p/f146bde59030) |
 | Wed, 24 Sep 2025 10:35:55 GMT | The Anatomy of an Attack: From Deceptive URLs to Similarity Hashing | Sadineni Sai Sushanth | [Read More](https://medium.com/p/49aa9c24a555) |
 | Wed, 24 Sep 2025 10:25:50 GMT | Why Bluechip Is Ranked Among The Top Cybersecurity Companies In Dubai | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/f78112d6a38c) |
@@ -104,13 +114,3 @@ In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69c
 | Wed, 24 Sep 2025 06:46:21 GMT | Hardcoding Issues — Part 2 | Sulabh Prajapati | [Read More](https://medium.com/p/8c8e32d85dfe) |
 | Wed, 24 Sep 2025 06:43:01 GMT | Installing and Configuring Nessus on Kali Linux: A Comprehensive Guide (Updated for 2025) | Waqas Akram | [Read More](https://medium.com/p/c2ecdcceeb9e) |
 | Wed, 24 Sep 2025 06:39:45 GMT | I’m Tired of Being the Strong One |  | [Read More](https://medium.com/p/1a12341048c0) |
-| Wed, 24 Sep 2025 06:34:49 GMT | India’s DPDP Act: Your Digital Privacy Game-Changer | Ravi | [Read More](https://medium.com/p/0731ab15816b) |
-| Wed, 24 Sep 2025 06:34:27 GMT | Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt | Danish Ahmed | [Read More](https://medium.com/p/725f9849fd04) |
-| Wed, 24 Sep 2025 06:33:25 GMT | Whitelabel Reseller Hosting: Build Your Own Hosting Brand Without Heavy Investment | Janet Watson | [Read More](https://medium.com/p/6bb1a85b5ec2) |
-| Wed, 24 Sep 2025 06:29:53 GMT | UXLINK Hack — A Full Timeline and Deep Dive: Security Flaws, Market Shock, and an Industry Wake-Up… | SuperEx | [Read More](https://medium.com/p/5804cc69bc16) |
-| Wed, 24 Sep 2025 06:29:18 GMT | AI Writes Your Emails, Ends Civilization, and Still Looks Hot Doing It | Dr Rita Pal | [Read More](https://medium.com/p/8dc86e4a7613) |
-| Wed, 24 Sep 2025 06:26:36 GMT | 9 Costly JWT Mistakes Putting Your Users at Risk | Vaishnavi Kengale | [Read More](https://medium.com/p/27dfb7b99f82) |
-| Wed, 24 Sep 2025 06:25:35 GMT | Council of Tropical Affairs Writeup | S3ni0r | [Read More](https://medium.com/p/6456d3c07263) |
-| Wed, 24 Sep 2025 06:24:53 GMT | Top 10 Cyber Attacks in the World | Manisha Chaudhary | [Read More](https://medium.com/p/82f2cb844bf7) |
-| Wed, 24 Sep 2025 06:24:43 GMT | Mastering Container Security: The Complete Guide to Trivy Integration in CI/CD Pipelines | Salwan Mohamed | [Read More](https://medium.com/p/c7c2e9f04020) |
-| Wed, 24 Sep 2025 06:23:21 GMT | Security and Permission Management in Jira | Erdem UÇAK | [Read More](https://medium.com/p/04d576a2e920) |
