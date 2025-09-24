@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 19:04:47 GMT | Group Policy Made Simple | Omarmoamen | [Read More](https://medium.com/p/3fbd668d1c29) |
+| Wed, 24 Sep 2025 18:53:09 GMT | Detailed Walkthrough: Alert SOC146 — Phishing Mail Detected — Excel 4.0 Macros (Let’s Defend) | SieGer | [Read More](https://medium.com/p/f92a7ae50a58) |
+| Wed, 24 Sep 2025 18:50:00 GMT | Zero To Hacker: How A Cybersecurity Bootcamp Can Change Your Career | Smith Adams | [Read More](https://medium.com/p/2be6b7887390) |
+| Wed, 24 Sep 2025 18:49:20 GMT | The AI Security Crisis: Deconstructing the 300% Surge in Prompt Injection Attacks | Shakir Majeed Mir | [Read More](https://medium.com/p/f6e4ab1ff122) |
+| Wed, 24 Sep 2025 18:42:57 GMT | Automating OSINT: From Hours of Manual Work to Minutes of Scripts | Ahmed Mohammed | [Read More](https://medium.com/p/14005073c49d) |
+| Wed, 24 Sep 2025 18:42:51 GMT | From Container Risks to Cloud Ransomware: The Shifting Battlefield of Software Supply Chain Attacks | Yogita phor | [Read More](https://medium.com/p/a440fa7f5caa) |
 | Wed, 24 Sep 2025 18:41:05 GMT | Your’s Truly | Bhageshri Sharma | [Read More](https://medium.com/p/58d98e3da180) |
 | Wed, 24 Sep 2025 18:40:43 GMT | Hacking APIs: Tokens and Token Rotation | Israel Aráoz Severiche | [Read More](https://medium.com/p/397b45a9c724) |
+| Wed, 24 Sep 2025 18:40:33 GMT | My Journey to Earning the ISC² Certified in Cybersecurity (CC) | Surya Raja | [Read More](https://medium.com/p/6ab71affc06b) |
+| Wed, 24 Sep 2025 18:40:13 GMT | Why I’m Writing Anonymously About H‑1B (and Why You Should Keep Reading) | Martin Doctor | [Read More](https://medium.com/p/79d0118b463f) |
+| Wed, 24 Sep 2025 18:37:47 GMT | Cicada 3301: The Internet’s Greatest Mystery | Celestine Riza Tsuki | [Read More](https://medium.com/p/8f723eeff0d1) |
 | Wed, 24 Sep 2025 18:36:04 GMT | Spy Camera with Longest Battery Life — Best for Safety in Grandparents’ House | Buyer’s Guide Pro | [Read More](https://medium.com/p/af6ae286e87f) |
 | Wed, 24 Sep 2025 18:35:08 GMT | 503 Page to Critical Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/00e284eaeebe) |
 | Wed, 24 Sep 2025 18:31:17 GMT | How a Missing HTTPOnly Header Can Lead to Session Hijacking | Mukilan Baskaran | [Read More](https://medium.com/p/b161a0db6607) |
@@ -104,12 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 14:25:51 GMT | European Airport Cyberattack: Check-In Chaos and Cybersecurity Risks | TheReviewHive | [Read More](https://medium.com/p/b583b4c316ec) |
 | Wed, 24 Sep 2025 14:19:16 GMT | PANW Stock Analysis: Why Cybersecurity Giants Are Essential for Africa’s Digital Future | The Thematic Investor | [Read More](https://medium.com/p/7777dcc1fde5) |
 | Wed, 24 Sep 2025 14:18:14 GMT | Partnership with Added Value: How Academies & Security Companies Benefit from Master Learning | Mindfully SEO | [Read More](https://medium.com/p/2a49e9265646) |
-| Wed, 24 Sep 2025 14:15:33 GMT | Leading Beyond the Breach: A Framework for Decisive Action in a Cyber Crisis | Patrick Lefler | [Read More](https://medium.com/p/9256f3afa92f) |
-| Wed, 24 Sep 2025 14:11:49 GMT | 2025’s Most Stolen X.509 Security Secret (And How to Use It Before Everyone Does) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/f38629775997) |
-| Wed, 24 Sep 2025 14:09:41 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/5353c112abfc) |
-| Wed, 24 Sep 2025 14:08:25 GMT | Security Implementation Best Practices | Jard | [Read More](https://medium.com/p/52c5160cfa6f) |
-| Wed, 24 Sep 2025 14:07:11 GMT | Threat Hunting Essentials: From Hypothesis to Detection | Azefox innovations | [Read More](https://medium.com/p/de8ee74ce653) |
-| Wed, 24 Sep 2025 14:05:07 GMT | Key Highlights: ECIIA’s Risk in Focus 2026 | Balasubramaniam GD | [Read More](https://medium.com/p/14a5aa8a289e) |
-| Wed, 24 Sep 2025 14:04:59 GMT | OSINT Investigation of a Suspicious Email | Zoltan Karpati | [Read More](https://medium.com/p/12cd505d2269) |
-| Wed, 24 Sep 2025 14:04:06 GMT | Cheyanne Mallas: Envisioning the Future of Cybersecurity Project Management in 2035 | Cheyannemallaspa | [Read More](https://medium.com/p/6e272e6dabce) |
-| Wed, 24 Sep 2025 14:02:54 GMT | Why ABTU is the First Real Utility Token Web3 Needs | Abatis ABTU | [Read More](https://medium.com/p/430a7c2ffb1a) |
