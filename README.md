@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 15:13:57 GMT | Email Security in 2025: Why Your “Secure” Provider Might Be Lying to You | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/7015b10b3a8b) |
+| Wed, 24 Sep 2025 15:08:00 GMT | The Side Hustle That Paid My Tuition: A Student’s Guide to Security Consulting | Samina Perveen | [Read More](https://medium.com/p/4b73fcbb4764) |
+| Wed, 24 Sep 2025 15:07:14 GMT | The Identity Theft Crisis Destroying Senior Life Savings: What Actually Works in 2025 | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/fc92cbb286bc) |
+| Wed, 24 Sep 2025 15:05:55 GMT | One bug, and Cloudflare went down for a few hours | H. Ali | [Read More](https://medium.com/p/dce04b83d66e) |
+| Wed, 24 Sep 2025 14:53:11 GMT | The Linux Concept Journey — Display Manager (DM) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/05634c3e8c29) |
+| Wed, 24 Sep 2025 14:49:14 GMT | Simplify Role-Based Access Control in Laravel with Laravel Permission Manager | Hossein Hezami | [Read More](https://medium.com/p/95b16b21cf1e) |
+| Wed, 24 Sep 2025 14:48:39 GMT | Why SMBs Need an MSCP (Even If You Have an IT Team) | Evgeny Ermakov | [Read More](https://medium.com/p/715313f21776) |
+| Wed, 24 Sep 2025 14:44:17 GMT | “The Hijacker’s Goldmine: Finding Broken Links That Lead to Bounties” | Aman Sharma | [Read More](https://medium.com/p/695740698218) |
+| Wed, 24 Sep 2025 14:42:27 GMT | Why Burnout is the Hidden Cost of Bug Bounty Life | Aj | [Read More](https://medium.com/p/93d158c4a9c7) |
+| Wed, 24 Sep 2025 14:42:12 GMT | The Breach That Changed Everything: A Hacker vs Company Story | Vijay Kumar Gupta | [Read More](https://medium.com/p/3a9830807a06) |
 | Wed, 24 Sep 2025 14:41:20 GMT | Fortify Your GitLab Pipeline: Integrating OpenText Fortify to Catch Vulnerabilities Early | Norbert Ishimwe | [Read More](https://medium.com/p/d5c9186d468e) |
 | Wed, 24 Sep 2025 14:38:32 GMT | Brute-force útoky: jak útočníci lámou hesla a jak se proti nim efektivně bránit | Cyber Solution | [Read More](https://medium.com/p/722e71e5f6a0) |
+| Wed, 24 Sep 2025 14:37:43 GMT | PromptLock: The AI-Powered Nightmare We Didn’t See Coming… But Should Have. | Dr. Kimberly N. West | [Read More](https://medium.com/p/4cb744fe3ece) |
+| Wed, 24 Sep 2025 14:36:44 GMT | DNS Water Torture Attack: How Hackers Drown DNS Servers | Natarajan C K | [Read More](https://medium.com/p/3ac67e491ec5) |
+| Wed, 24 Sep 2025 14:34:36 GMT | The Security Logic Behind LLM Jailbreaking | Digxxxxx | [Read More](https://medium.com/p/445e21845022) |
 | Wed, 24 Sep 2025 14:32:32 GMT | Reporting Sensitive Data Exposure  in US Website using Google Dorking! | Abhijith M | [Read More](https://medium.com/p/86450d994c53) |
 | Wed, 24 Sep 2025 14:31:13 GMT | Ukrainian intelligence hackers claim full access to Crimean servers, find alleged war-crimes… | Nik calder | [Read More](https://medium.com/p/c258903667c5) |
 | Wed, 24 Sep 2025 14:29:15 GMT | Unequal Impacts: How Climate Change Hits Africa Hardest | Pan-Adrian Initiative for Development | [Read More](https://medium.com/p/f9966a03ed56) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 10:52:37 GMT | Stop Depending on DevOps Engineers: Deploy Production-Ready MERN Apps Yourself | daoud-hussain | [Read More](https://medium.com/p/ec855112828f) |
 | Wed, 24 Sep 2025 10:49:39 GMT | Stop Using the Default Kali Terminal: This Setup Will Blow Your Mind | Beri Contraster | [Read More](https://medium.com/p/b78f1f71aabe) |
 | Wed, 24 Sep 2025 10:41:22 GMT | The Hidden Dangers of AI Face-Swapping Apps and How to Protect Yourself | Alex GhostWriter | [Read More](https://medium.com/p/7b7ca84fb2d7) |
-| Wed, 24 Sep 2025 10:40:54 GMT | MediaTek Resmi Luncurkan Dimensity 9500: Chipset Flagship 4GHz Pertama dengan Performa AI, Gaming… | Jennifer Sanjaya | [Read More](https://medium.com/p/635532347d08) |
-| Wed, 24 Sep 2025 10:39:33 GMT | Digital Risk Protection | Michel mathew | [Read More](https://medium.com/p/f146bde59030) |
-| Wed, 24 Sep 2025 10:35:55 GMT | The Anatomy of an Attack: From Deceptive URLs to Similarity Hashing | Sadineni Sai Sushanth | [Read More](https://medium.com/p/49aa9c24a555) |
-| Wed, 24 Sep 2025 10:25:50 GMT | Why Bluechip Is Ranked Among The Top Cybersecurity Companies In Dubai | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/f78112d6a38c) |
-| Wed, 24 Sep 2025 10:25:17 GMT | Proving Grounds: Mantis | AzureNinja | [Read More](https://medium.com/p/d044d68bcf6c) |
-| Wed, 24 Sep 2025 10:25:01 GMT | The CISO’s 90-Day AI Security Plan | Abdelghani Alhijawi | [Read More](https://medium.com/p/c23372ee1adc) |
-| Wed, 24 Sep 2025 10:23:09 GMT | Internet-Exposed Mainframes: Advanced Threat Intelligence Analysis with ZoomEye.ai | ZoomEye | [Read More](https://medium.com/p/71af3ad2517f) |
-| Wed, 24 Sep 2025 10:19:45 GMT | CVE-2025–26399: A Technical Analysis, Operational Impact, and Response Playbook | gm0 | [Read More](https://medium.com/p/251a1b696b56) |
-| Wed, 24 Sep 2025 10:15:00 GMT | Why Most “Innovative” Ideas Already Exist | BisBam | [Read More](https://medium.com/p/dd1957b9e81f) |
-| Wed, 24 Sep 2025 10:13:39 GMT |  | Pooja Sharma | [Read More](https://medium.com/p/4d0efeda2429) |
-| Wed, 24 Sep 2025 10:09:30 GMT | Cyber Attack Brings Chaos to Heathrow and European Airports | Dipayan Ghosh | [Read More](https://medium.com/p/80270839ce70) |
-| Wed, 24 Sep 2025 10:07:14 GMT | Matrix: The Game-Changing Cybersecurity Command Generator That’s Revolutionizing Penetration… | Pratham Shah | [Read More](https://medium.com/p/8be0df2815a0) |
-| Wed, 24 Sep 2025 10:07:03 GMT | Cross-Site Request Forgery (CSRF): The Silent Account Takeover | Y0s_0x_IBM | [Read More](https://medium.com/p/930d6a69e9bc) |
