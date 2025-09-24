@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 10:15:00 GMT | Why Most “Innovative” Ideas Already Exist | BisBam | [Read More](https://medium.com/p/dd1957b9e81f) |
+| Wed, 24 Sep 2025 10:07:14 GMT | Matrix: The Game-Changing Cybersecurity Command Generator That’s Revolutionizing Penetration… | Pratham Shah | [Read More](https://medium.com/p/8be0df2815a0) |
+| Wed, 24 Sep 2025 10:07:03 GMT | Cross-Site Request Forgery (CSRF): The Silent Account Takeover | Y0s_0x_IBM | [Read More](https://medium.com/p/930d6a69e9bc) |
+| Wed, 24 Sep 2025 10:05:02 GMT | Antidoting Burnout and Division in Peace Activism: 
+Interview with MacGregor Eddy and Leah Yananton | Nonviolent Global Liberation | [Read More](https://medium.com/p/aceeb80ccd8b) |
+| Wed, 24 Sep 2025 09:55:38 GMT | Reconnaissance: Passive and Active Scanning with KALI Linux (Part3) | mohandika | [Read More](https://medium.com/p/b80c0cc4a1b8) |
+| Wed, 24 Sep 2025 09:52:44 GMT | 2025’s Top Tech Trends: Blockchain, AI, AR/VR, and Innovation’s Future | Melan Bandara | [Read More](https://medium.com/p/e7f872fbf203) |
+| Wed, 24 Sep 2025 09:52:05 GMT | GLAMOROUS Software Dev | Mohammed Brückner | [Read More](https://medium.com/p/40a66e9cec4b) |
+| Wed, 24 Sep 2025 09:52:01 GMT | CCTV Security Solutions and Biometric Access Control Devices in Bangladesh by Optimationbd | optimationbd | [Read More](https://medium.com/p/1079e7252dff) |
+| Wed, 24 Sep 2025 09:49:56 GMT | Casinos just showed airports how to handle cyber chaos, Crypto security is building the next… | OKcontract | [Read More](https://medium.com/p/2f053311d711) |
+| Wed, 24 Sep 2025 09:49:28 GMT | Server-Side Request Forgery (SSRF): The Hidden Gateway to Internal Networks | Y0s_0x_IBM | [Read More](https://medium.com/p/5404782e5e7a) |
+| Wed, 24 Sep 2025 09:47:58 GMT | Attack Surface Management (ASM): The Frontline of Modern Cyber Defense | Jackdavis Iap | [Read More](https://medium.com/p/69b0e73b0f72) |
+| Wed, 24 Sep 2025 09:47:47 GMT | The Future of Web3 Isn’t Just About Faster Chains | Bright Mmaduabuchi | [Read More](https://medium.com/p/a8ed5cd168b3) |
+| Wed, 24 Sep 2025 09:45:46 GMT | Ensuring Safety with Professional Security Guard Services in Qatar | Fss | [Read More](https://medium.com/p/279e9ddb1f07) |
+| Wed, 24 Sep 2025 09:43:10 GMT | 5 Ways to Use AI in Cybersecurity | Jay C Roberts | [Read More](https://medium.com/p/d691b40742df) |
+| Wed, 24 Sep 2025 09:39:28 GMT | Why SASE Vendors Are Finally Admitting the Need for Browser Security Solutions | SquareX | [Read More](https://medium.com/p/1789d950f122) |
+| Wed, 24 Sep 2025 09:38:27 GMT | Remote IT Support for Businesses: A Complete Guide | Ask IT Support | [Read More](https://medium.com/p/b72d84ffc9ae) |
+| Wed, 24 Sep 2025 09:37:09 GMT | Choosing Between Penetration Testing and Fuzz Testing: A Security Professional’s Questionnaire | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/e858f9128f74) |
+| Wed, 24 Sep 2025 09:36:05 GMT | Vaccine (HTB Starting Point) — From Anonymous FTP to Root | Gabriel Santos | [Read More](https://medium.com/p/dd18096abe7d) |
 | Wed, 24 Sep 2025 09:31:53 GMT | Practical Methodology for Desktop Application Security Testing | Riya Upadhyay | [Read More](https://medium.com/p/314d83e8af2a) |
 | Wed, 24 Sep 2025 09:28:53 GMT | CVE-2025–10803: Tenda AC23 Router Hit by Buffer Overflow — Patch Now! | CVEHUB | [Read More](https://medium.com/p/798946bb5f34) |
 | Wed, 24 Sep 2025 09:27:20 GMT | CVE-2025–10802: SQL Injection Vulnerability Plagues Online Bidding System | CVEHUB | [Read More](https://medium.com/p/99d1f3863887) |
@@ -95,21 +114,3 @@ In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69c
 | Wed, 24 Sep 2025 06:12:38 GMT | Linux Security Cookbook | Eren Cankut Uysal | [Read More](https://medium.com/p/d213886e921b) |
 | Wed, 24 Sep 2025 06:11:51 GMT | Expert Cyber Security for Schools | Cyberfox | [Read More](https://medium.com/p/1b021c7898e2) |
 | Wed, 24 Sep 2025 06:11:47 GMT | How One Line of HTML Crashed a $10 Million Startup | Rizqi Mulki | [Read More](https://medium.com/p/68da404ba71f) |
-| Wed, 24 Sep 2025 06:10:58 GMT | Build a Command-Line Style Webpage in Minutes | Balki Maharaj | [Read More](https://medium.com/p/b95a18879858) |
-| Wed, 24 Sep 2025 06:10:51 GMT | One line script for installation of sqlplus | Cataholic | [Read More](https://medium.com/p/60756b381ab3) |
-| Wed, 24 Sep 2025 06:01:14 GMT | Operationalizing AI Accountability: Making AI Systems Responsible in Practice | Rachana Gupta | [Read More](https://medium.com/p/f31a5dd5d5b9) |
-| Wed, 24 Sep 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Sep 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/377344600382) |
-| Wed, 24 Sep 2025 06:00:13 GMT | Logs Don’t Lie: Why Every Cybersecurity Professional Must Learn to Read Them | Yogendra Jain | [Read More](https://medium.com/p/61b1a455a62f) |
-| Wed, 24 Sep 2025 05:59:08 GMT | Security Challenges of Remote Collaboration Tools | Cyber Security Research | [Read More](https://medium.com/p/cf1b73725aaf) |
-| Wed, 24 Sep 2025 05:57:48 GMT | How to Set Up TP-Link Archer T3U Plus on Windows & Kali Linux (Beginner-Friendly Cybersecurity… | Vishnu prasad | [Read More](https://medium.com/p/59a414df7902) |
-| Wed, 24 Sep 2025 05:56:21 GMT | AI-Enhanced Phishing | Shailendra Kumar | [Read More](https://medium.com/p/000d93015bc1) |
-| Wed, 24 Sep 2025 05:55:32 GMT | TOP SEO AGENCY IN LAXMI NAGAR, DELHI NCR | Shubham | [Read More](https://medium.com/p/c714223e4985) |
-| Wed, 24 Sep 2025 05:53:23 GMT | Securing Distributed Systems | Cyber Security Research | [Read More](https://medium.com/p/a40cb13f3177) |
-| Wed, 24 Sep 2025 05:50:52 GMT | Why Managed Compliance Services Are Essential for Modern Businesses | chiranjeevi k | [Read More](https://medium.com/p/d307c6beb176) |
-| Wed, 24 Sep 2025 05:50:40 GMT | Microsoft 365 Defender’ın “Vulnerabilities have public disclosed exploit” ile“Vulnerabilities have… | Hasan Gökhan ŞAHİN | [Read More](https://medium.com/p/d377cd2e3de4) |
-| Wed, 24 Sep 2025 05:46:29 GMT | Deep Learning for Cybersecurity Applications | Cyber Security Research | [Read More](https://medium.com/p/043188e625b6) |
-| Wed, 24 Sep 2025 05:43:25 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/a9e76476da4c) |
-| Wed, 24 Sep 2025 05:28:29 GMT | Understanding Nation-State Cyber Attacks | Cyber Security Research | [Read More](https://medium.com/p/b460a20fe367) |
-| Wed, 24 Sep 2025 05:21:59 GMT | Artificial Intelligence in Security Operations | Cyber Security Research | [Read More](https://medium.com/p/c95c7348f866) |
-| Wed, 24 Sep 2025 05:17:23 GMT | “Empower Your Cybersecurity Career with GSDC’s Generative AI Certification” | Jackscory | [Read More](https://medium.com/p/1c205be75d78) |
-| Wed, 24 Sep 2025 05:15:38 GMT | Cybersecurity Challenges in Smart Factories | Cyber Security Research | [Read More](https://medium.com/p/72c0f0b4c83d) |
