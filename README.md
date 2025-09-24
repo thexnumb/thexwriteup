@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 04:10:06 GMT | 5 Quantum Shifts Your Industry Isn’t Ready For | Nexumo | [Read More](https://medium.com/p/ed1e131cdd55) |
+| Wed, 24 Sep 2025 04:08:25 GMT | How I Caught a Hacker in Real Time And the Scary Part Nobody Talks About | Arfa | [Read More](https://medium.com/p/4fdb6d840c93) |
+| Wed, 24 Sep 2025 04:00:14 GMT | Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy | Virginia Backaitis | [Read More](https://medium.com/p/80b324ade3e8) |
+| Wed, 24 Sep 2025 03:57:23 GMT | From Wow to Reliable: LLMs & RAG, a Reality Check | Aastha Singh | [Read More](https://medium.com/p/78a750106209) |
+| Wed, 24 Sep 2025 03:56:32 GMT | How Custodial Crypto Wallets Use Enclaves to Secure Keys & Transactions | Mrityunjaya Prajapati | [Read More](https://medium.com/p/044f83bd4a3b) |
+| Wed, 24 Sep 2025 03:49:47 GMT | PHP Insecure Deserialization | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/63374e592a57) |
+| Wed, 24 Sep 2025 03:40:09 GMT | Part 2 : From backyard to battlefield, Building the Airframe. | Pipeline | [Read More](https://medium.com/p/2a0ef8812e3d) |
+| Wed, 24 Sep 2025 03:38:51 GMT | 7 Everyday Tech Breakthroughs Hiding in Plain Sight | Syntal | [Read More](https://medium.com/p/c2b000b708fe) |
+| Wed, 24 Sep 2025 03:34:46 GMT | Cache Clash: How CDN Misconfigurations Let Me Hijack Thousands of User Sessions | Iski | [Read More](https://medium.com/p/52e09bc0b0a2) |
+| Wed, 24 Sep 2025 03:32:47 GMT | Top 10 Cloud Trends You Can’t Afford to Ignore in 2026 | HostNOC | [Read More](https://medium.com/p/ccb0c8816f0f) |
+| Wed, 24 Sep 2025 03:31:48 GMT | 5 Best Practices for State Management in Node.js | Arunangshu Das | [Read More](https://medium.com/p/ce33a894f271) |
 | Wed, 24 Sep 2025 03:17:16 GMT | Brute Force dalam Dunia Cyber Security: Dari Tools Hingga Mitigasi | Zulfianarahmi | [Read More](https://medium.com/p/cb465739d866) |
 | Wed, 24 Sep 2025 03:14:57 GMT | Security Assessment: Vulnhub Earth Walkthrough | Luke Gearty | [Read More](https://medium.com/p/38b95a534b75) |
 | Wed, 24 Sep 2025 03:14:01 GMT | 18. Secrets of Rate Limiting and Bruteforce | Abhijeet kumawat | [Read More](https://medium.com/p/6dbb17e1a951) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 18:01:51 GMT | Analysis - Art of the Minilateral Deal: Lessons from Balkan Defense Cooperation | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/9920873413e0) |
 | Tue, 23 Sep 2025 18:01:51 GMT | 8 FastAPI Security Patterns That Don’t Add Latency | Bhagya Rana | [Read More](https://medium.com/p/458c30f0dbb7) |
 | Tue, 23 Sep 2025 17:57:51 GMT | Simple CTF — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/c566ed600dd4) |
-| Tue, 23 Sep 2025 17:55:58 GMT | My Journey Learning Cybersecurity & Programming | Raunak Rai | [Read More](https://medium.com/p/e57f93488023) |
-| Tue, 23 Sep 2025 17:55:55 GMT | The Complete Elastic SIEM Implementation Manual | Dipu Singh | [Read More](https://medium.com/p/3815100f872c) |
-| Tue, 23 Sep 2025 17:54:01 GMT | Unlocking Memory Forensics: A Beginner’s Guide to Volatility | Busraugur | [Read More](https://medium.com/p/98bd3ac16c33) |
-| Tue, 23 Sep 2025 17:53:10 GMT | CERT-In MandatesAnnual Cybersecurity Audits For MSMES In India | Lumiversesolution | [Read More](https://medium.com/p/6ea56fb6dcfd) |
-| Tue, 23 Sep 2025 17:48:58 GMT | Looking for Q Access Error Logs | Teri Radichel | [Read More](https://medium.com/p/af3dd65d9f66) |
-| Tue, 23 Sep 2025 17:46:38 GMT | From the Dojo to the Digital Battlefield: The Evolution of AI as a Master of Deception and Physical… | Berend Watchus | [Read More](https://medium.com/p/781f8cdf257d) |
-| Tue, 23 Sep 2025 17:44:52 GMT | Security Practices for DDL and DML in Database Systems | Koustub | [Read More](https://medium.com/p/1fe3aac1e81b) |
-| Tue, 23 Sep 2025 17:41:33 GMT | NOCTIS Doctrine: Promethean Intelligence for the People | Erfan Tighzan | [Read More](https://medium.com/p/48920e0e9872) |
-| Tue, 23 Sep 2025 17:31:27 GMT | The Night Everything I Knew About OSINT Became Dangerous | Rishisec | [Read More](https://medium.com/p/db2bf746f40e) |
-| Tue, 23 Sep 2025 17:30:43 GMT | Welcome to the MAXISIQ Blog: Engineering Innovation for the Mission Ahead | Sophia Martinez | [Read More](https://medium.com/p/1499a5468a71) |
-| Tue, 23 Sep 2025 17:28:52 GMT | SolarWinds Makes Third Attempt at Patching Exploited Vulnerability | Suhas Valasala | [Read More](https://medium.com/p/2356219f38e9) |
