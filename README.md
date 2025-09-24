@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 09:31:53 GMT | Practical Methodology for Desktop Application Security Testing | Riya Upadhyay | [Read More](https://medium.com/p/314d83e8af2a) |
+| Wed, 24 Sep 2025 09:28:53 GMT | CVE-2025–10803: Tenda AC23 Router Hit by Buffer Overflow — Patch Now! | CVEHUB | [Read More](https://medium.com/p/798946bb5f34) |
+| Wed, 24 Sep 2025 09:27:20 GMT | CVE-2025–10802: SQL Injection Vulnerability Plagues Online Bidding System | CVEHUB | [Read More](https://medium.com/p/99d1f3863887) |
+| Wed, 24 Sep 2025 09:24:24 GMT | Deploying Wazuh on Kali Linux Using Docker | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/cbb99d9424ef) |
+| Wed, 24 Sep 2025 09:22:04 GMT | Bludgeoned Buzzwords: Minimum Viable Product | Namir Sagheenanajar | [Read More](https://medium.com/p/35154b447351) |
 | Wed, 24 Sep 2025 09:21:32 GMT | Pwning HackableII — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/cca8e99eb291) |
+| Wed, 24 Sep 2025 09:21:08 GMT | Verdict of 100 CEH Hall of Famers in 2025 Confirms Again! | Reggie Menacherry | [Read More](https://medium.com/p/e27e6068ece1) |
 | Wed, 24 Sep 2025 09:20:14 GMT | Gestalt: How LLMs “Understand” the World | Roman Trukhin | [Read More](https://medium.com/p/31905defe1f1) |
+| Wed, 24 Sep 2025 09:19:51 GMT | You, Even in the Distance | Eco Maven | [Read More](https://medium.com/p/a92f82c769f9) |
 | Wed, 24 Sep 2025 09:19:47 GMT | Getting started with Microsoft Sentinel for Insider Threat Detection | Konstantinos Lianos | [Read More](https://medium.com/p/2dfeea68be16) |
+| Wed, 24 Sep 2025 09:16:05 GMT | Please Don’t Advise Me | Comet N. | [Read More](https://medium.com/p/6f34c82c7ffa) |
 | Wed, 24 Sep 2025 09:14:27 GMT | Secure Your Future: Cybersecurity Course at SLA Institute
 In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69ce737cace) |
 | Wed, 24 Sep 2025 09:09:34 GMT | Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt | Danish Ahmed | [Read More](https://medium.com/p/3f188f6ce4d1) |
@@ -105,11 +113,3 @@ In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69c
 | Wed, 24 Sep 2025 05:21:59 GMT | Artificial Intelligence in Security Operations | Cyber Security Research | [Read More](https://medium.com/p/c95c7348f866) |
 | Wed, 24 Sep 2025 05:17:23 GMT | “Empower Your Cybersecurity Career with GSDC’s Generative AI Certification” | Jackscory | [Read More](https://medium.com/p/1c205be75d78) |
 | Wed, 24 Sep 2025 05:15:38 GMT | Cybersecurity Challenges in Smart Factories | Cyber Security Research | [Read More](https://medium.com/p/72c0f0b4c83d) |
-| Wed, 24 Sep 2025 05:14:18 GMT | AI Agents in Java: Automating Non-Functional Requirements for Secure, Scalable Apps | Comviva MFS Engineering Tech Blog | [Read More](https://medium.com/p/9ea77f9b9485) |
-| Wed, 24 Sep 2025 05:12:15 GMT | Platform Engineering: The New DevOps? Building Internal Developer Platforms to Streamline Workflows | Ishita Kundu | [Read More](https://medium.com/p/59280d596548) |
-| Wed, 24 Sep 2025 05:10:16 GMT | Remote Hacking in SSC CGL 2025: Legal, Technical & Safety Guide | Ashish Agrawal | [Read More](https://medium.com/p/22f6361c1502) |
-| Wed, 24 Sep 2025 05:08:26 GMT | Cybersecurity in Autonomous Drones | Cyber Security Research | [Read More](https://medium.com/p/9675317300c6) |
-| Wed, 24 Sep 2025 05:07:54 GMT | API Pentesting Part-2: Replay Attack- No Expiry on Authentication Headers (HMAC SHA-256) | Blue_eye | [Read More](https://medium.com/p/dd619b52cdc7) |
-| Wed, 24 Sep 2025 05:05:02 GMT | Benefits of ISO Certification For an IT Company | Sqccertification | [Read More](https://medium.com/p/bb0c1640d68a) |
-| Wed, 24 Sep 2025 05:01:52 GMT | What Are the Long-Term Benefits of Integrating AI-Based Protection Into IT Systems? | Modern Security | [Read More](https://medium.com/p/0bfdcec3a74a) |
-| Wed, 24 Sep 2025 04:56:59 GMT | Strengthening Digital Defense with Modern Security Practices | Vijilan | [Read More](https://medium.com/p/1785169258c9) |
