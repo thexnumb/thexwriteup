@@ -12,14 +12,41 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 07:17:46 GMT | The Role of AI in Fighting Cybercrime | Aly | [Read More](https://medium.com/p/0c2ad3ab1848) |
+| Wed, 24 Sep 2025 07:16:49 GMT | The Daily Tech Digest: 23 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2be7914d8c40) |
+| Wed, 24 Sep 2025 07:16:24 GMT | The Digital Gold Rush of 2025: Why Python, Cloud, Blockchain, Cybersecurity & AI Are Reshaping… | JetkingChandigarh | [Read More](https://medium.com/p/1ab1b6435ec8) |
+| Wed, 24 Sep 2025 07:12:32 GMT | Linux Digital Forensics | Eren Cankut Uysal | [Read More](https://medium.com/p/545aa8088ea7) |
+| Wed, 24 Sep 2025 07:10:32 GMT | Bruteforce SSH ve Ağ Tarama Analizi (PRTG) | kaanvardar | [Read More](https://medium.com/p/95a7f7c0ce71) |
+| Wed, 24 Sep 2025 07:07:50 GMT | Linux Commands - Bug Bounty Edition | al1k0k | [Read More](https://medium.com/p/3f89f9452793) |
+| Wed, 24 Sep 2025 07:06:07 GMT | Linux Security Analysis | Eren Cankut Uysal | [Read More](https://medium.com/p/f7341bec9b16) |
+| Wed, 24 Sep 2025 07:05:46 GMT | Breaking the Lock: Advanced Cracking with John the Ripper and Hashcat | Ehxb | [Read More](https://medium.com/p/d8e51355ab5b) |
+| Wed, 24 Sep 2025 07:05:21 GMT | konsep dasar input digital pada mikrokontroler | Zifa Tea Azzahra | [Read More](https://medium.com/p/fddb6023e691) |
+| Wed, 24 Sep 2025 07:05:07 GMT | Breaking the Lock: Introduction to Password Attacks on Windows and Linux | Ehxb | [Read More](https://medium.com/p/f38e3f153e11) |
+| Wed, 24 Sep 2025 07:03:57 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/0362d520479f) |
+| Wed, 24 Sep 2025 06:58:27 GMT | Linux Security Automation | Eren Cankut Uysal | [Read More](https://medium.com/p/73c165195f88) |
+| Wed, 24 Sep 2025 06:57:18 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | Tekshoyabeelyas | [Read More](https://medium.com/p/46281ba1c632) |
+| Wed, 24 Sep 2025 06:56:06 GMT | The Smart Restaurant’s Secret: Self-Ordering Kiosks | Rakesh | [Read More](https://medium.com/p/b747416a72ec) |
+| Wed, 24 Sep 2025 06:54:47 GMT | Unlocking API Security: A Deep Dive into AK/SK Authentication | Umesh Kumar Yadav | [Read More](https://medium.com/p/5bd58c3d6482) |
+| Wed, 24 Sep 2025 06:53:49 GMT | 點數制重新定義 BAS 市場LKCArgusHack 實戰演練大公開 | LKC-AGH-Expert | [Read More](https://medium.com/p/dc025f10e2af) |
+| Wed, 24 Sep 2025 06:46:21 GMT | Hardcoding Issues — Part 2 | Sulabh Prajapati | [Read More](https://medium.com/p/8c8e32d85dfe) |
+| Wed, 24 Sep 2025 06:43:01 GMT | Installing and Configuring Nessus on Kali Linux: A Comprehensive Guide (Updated for 2025) | Waqas Akram | [Read More](https://medium.com/p/c2ecdcceeb9e) |
+| Wed, 24 Sep 2025 06:39:45 GMT | I’m Tired of Being the Strong One |  | [Read More](https://medium.com/p/1a12341048c0) |
+| Wed, 24 Sep 2025 06:34:49 GMT | India’s DPDP Act: Your Digital Privacy Game-Changer | Ravi | [Read More](https://medium.com/p/0731ab15816b) |
+| Wed, 24 Sep 2025 06:34:27 GMT | Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt | Danish Ahmed | [Read More](https://medium.com/p/725f9849fd04) |
+| Wed, 24 Sep 2025 06:33:25 GMT | Whitelabel Reseller Hosting: Build Your Own Hosting Brand Without Heavy Investment | Janet Watson | [Read More](https://medium.com/p/6bb1a85b5ec2) |
+| Wed, 24 Sep 2025 06:29:53 GMT | UXLINK Hack — A Full Timeline and Deep Dive: Security Flaws, Market Shock, and an Industry Wake-Up… | SuperEx | [Read More](https://medium.com/p/5804cc69bc16) |
+| Wed, 24 Sep 2025 06:29:18 GMT | AI Writes Your Emails, Ends Civilization, and Still Looks Hot Doing It | Dr Rita Pal | [Read More](https://medium.com/p/8dc86e4a7613) |
 | Wed, 24 Sep 2025 06:26:36 GMT | 9 Costly JWT Mistakes Putting Your Users at Risk | Vaishnavi Kengale | [Read More](https://medium.com/p/27dfb7b99f82) |
+| Wed, 24 Sep 2025 06:25:35 GMT | Council of Tropical Affairs Writeup | S3ni0r | [Read More](https://medium.com/p/6456d3c07263) |
 | Wed, 24 Sep 2025 06:24:53 GMT | Top 10 Cyber Attacks in the World | Manisha Chaudhary | [Read More](https://medium.com/p/82f2cb844bf7) |
 | Wed, 24 Sep 2025 06:24:43 GMT | Mastering Container Security: The Complete Guide to Trivy Integration in CI/CD Pipelines | Salwan Mohamed | [Read More](https://medium.com/p/c7c2e9f04020) |
 | Wed, 24 Sep 2025 06:23:21 GMT | Security and Permission Management in Jira | Erdem UÇAK | [Read More](https://medium.com/p/04d576a2e920) |
+| Wed, 24 Sep 2025 06:22:16 GMT | Cyber Security Readiness in Australia 2025: Closing the Gaps | Elevate | [Read More](https://medium.com/p/533904402555) |
 | Wed, 24 Sep 2025 06:22:13 GMT | Email Phishing Simulation Services for Modern Business | Noahlucas | [Read More](https://medium.com/p/a9a0777879a0) |
 | Wed, 24 Sep 2025 06:21:46 GMT | HAProxy SNI Proxy Implementation: The Complete Setup Guide | Dipu Singh | [Read More](https://medium.com/p/38cd95285a59) |
 | Wed, 24 Sep 2025 06:19:53 GMT | How to Secure AKS: Quick Wins to Long-Term Fixes | Sauradipta | [Read More](https://medium.com/p/01a1e9012a21) |
 | Wed, 24 Sep 2025 06:17:47 GMT | Authentication & Authorization: Understanding OAuth and JWT | Johan L | [Read More](https://medium.com/p/4dbe67464a0a) |
+| Wed, 24 Sep 2025 06:16:51 GMT | TCP/IP Modeli ve Katmanları | Asude Handan Uslukılıç | [Read More](https://medium.com/p/dd4d4f808f5d) |
 | Wed, 24 Sep 2025 06:12:38 GMT | Linux Security Cookbook | Eren Cankut Uysal | [Read More](https://medium.com/p/d213886e921b) |
 | Wed, 24 Sep 2025 06:11:51 GMT | Expert Cyber Security for Schools | Cyberfox | [Read More](https://medium.com/p/1b021c7898e2) |
 | Wed, 24 Sep 2025 06:11:47 GMT | How One Line of HTML Crashed a $10 Million Startup | Rizqi Mulki | [Read More](https://medium.com/p/68da404ba71f) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 01:18:40 GMT | Let’s Talk About Vibe Coding | Mark Dhas | [Read More](https://medium.com/p/98c378678b6d) |
 | Wed, 24 Sep 2025 00:56:45 GMT | The Rise of AI Malware: How MalTerminal Changes Cybersecurity Forever | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/dfc77dc8c6da) |
 | Wed, 24 Sep 2025 00:53:05 GMT | Where Profit Loss Hides and How the Right RMM Stops the Bleed | Ron | [Read More](https://medium.com/p/35424806a1e0) |
-| Wed, 24 Sep 2025 00:51:46 GMT | TryHackMe #48 - SQLMap: The Basics | 0xGroot | [Read More](https://medium.com/p/3f8fa95ad6d3) |
-| Wed, 24 Sep 2025 00:47:44 GMT | TryHackMe #47 - Shells Overview | 0xGroot | [Read More](https://medium.com/p/e36b69940fd5) |
-| Wed, 24 Sep 2025 00:44:26 GMT | Completed My First CTF Challenge! - TryHackMe — OhSINT | Gokhan Can | [Read More](https://medium.com/p/008e2929dd22) |
-| Wed, 24 Sep 2025 00:42:05 GMT | TryHackMe #46 - Gobuster: The Basics | 0xGroot | [Read More](https://medium.com/p/1f51dae2c0c8) |
-| Wed, 24 Sep 2025 00:37:44 GMT | TryHackMe #45 - Hydra | 0xGroot | [Read More](https://medium.com/p/87db6af38a1f) |
-| Wed, 24 Sep 2025 00:34:40 GMT | When naked meant seen. | Half a Cup Full | [Read More](https://medium.com/p/bcd63a9af6b6) |
-| Wed, 24 Sep 2025 00:26:32 GMT | What 1,000 Hugs Taught Me About Leadership and Life | Shashidhar Dasyam | [Read More](https://medium.com/p/710b6d1fdbe0) |
-| Wed, 24 Sep 2025 00:24:01 GMT | How I Installed Nessus Essentials on Linux (Step-by-Step Guide) | Mohammad Al Shahin | [Read More](https://medium.com/p/4c4689e9b850) |
-| Wed, 24 Sep 2025 00:09:53 GMT | Why is a DeFi Security Project Named After a Carnivorous Plant? | Brownie | [Read More](https://medium.com/p/a6cf6e40e18d) |
-| Wed, 24 Sep 2025 00:07:20 GMT | Outlook vs. Gmail for Business: Which Is Safer in 2025? | Adedoyin Oladapo | [Read More](https://medium.com/p/8cc14f20cb68) |
-| Wed, 24 Sep 2025 00:03:16 GMT | Data Privacy Compliance | Financial Poise | [Read More](https://medium.com/p/10cc1fc9332f) |
-| Wed, 24 Sep 2025 00:02:48 GMT | Mastering XSStrike: Detecting and Exploiting XSS Vulnerabilities | JPablo13 | [Read More](https://medium.com/p/74dd1ec3e5a9) |
-| Tue, 23 Sep 2025 23:46:01 GMT | One password. Forty-eight hours. Fourteen million identities exposed. | SavetyAI | [Read More](https://medium.com/p/672fbec7a132) |
-| Tue, 23 Sep 2025 23:45:48 GMT | A missing MFA. 487 GB stolen. A €850 million motorcycle empire shaken. | SavetyAI | [Read More](https://medium.com/p/20f3d51aab9a) |
-| Tue, 23 Sep 2025 23:45:29 GMT | A misconfigured vendor bucket. Nearly 2 million Dollar Tree and Family Dollar employees exposed. | SavetyAI | [Read More](https://medium.com/p/28a11b061dbe) |
-| Tue, 23 Sep 2025 23:33:08 GMT | AI Agents Are Running Your Business. Who’s Keeping Them in Check? | Cyber-AppSec | [Read More](https://medium.com/p/6e9ff7d6d3ab) |
-| Tue, 23 Sep 2025 23:24:54 GMT | CyberDefenders — NetX-Support Lab | jon | [Read More](https://medium.com/p/74f21e7dac26) |
-| Tue, 23 Sep 2025 23:17:58 GMT | OWASP Top 10–2021 - THM | Isiah | [Read More](https://medium.com/p/8353f257ebf2) |
-| Tue, 23 Sep 2025 23:17:55 GMT | AI Security Reports — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/785a38509135) |
-| Tue, 23 Sep 2025 23:12:34 GMT | Write-up PicoCTF (Capture The Flag) — File Upload — Trickster | Sérgio Corrêa | [Read More](https://medium.com/p/542ed49a59b5) |
-| Tue, 23 Sep 2025 23:01:47 GMT | What Your Smart Home Devices Aren’t Telling You: The Hidden Network Traffic That Should Concern… | Ty Carruth | [Read More](https://medium.com/p/25ec1030bcc9) |
-| Tue, 23 Sep 2025 22:52:31 GMT | Best Antivirus Software for Chromebook in 2025: Top Picks and Comprehensive Guide | TTV News | [Read More](https://medium.com/p/2030f8435851) |
-| Tue, 23 Sep 2025 22:47:06 GMT | Letting Grok Teach Me Computer Security For 1 Week: Part 2 | Colin Zhou | [Read More](https://medium.com/p/fb4601048ea5) |
-| Tue, 23 Sep 2025 22:43:04 GMT | Tech Literacy - Who Will Be Left Behind in the Quantum Digital Age? | Brittni | [Read More](https://medium.com/p/a6d1d7d491d4) |
-| Tue, 23 Sep 2025 22:31:54 GMT | I Lost My Crypto Wallet — Here’s How I Got It Back! WhatsApp +14042456415 | Aaron Dash | [Read More](https://medium.com/p/dc400ce396be) |
-| Tue, 23 Sep 2025 22:12:51 GMT | The Future of Home & Business Security: Smart Cameras, Access Control, and Intercom Systems… | Marksjoe | [Read More](https://medium.com/p/ae95fc309b07) |
-| Tue, 23 Sep 2025 21:48:46 GMT | LFI (File Inclusion) Nedir ? | Azat Dicle | [Read More](https://medium.com/p/34a61866bc95) |
