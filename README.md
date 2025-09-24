@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 17:24:00 GMT | Cloud Computing: Mengenal Model Layanan (IaaS, PaaS, dan SaaS) | Muhammad Surya Saputro | [Read More](https://medium.com/p/1444cea5c327) |
+| Wed, 24 Sep 2025 17:23:20 GMT | Drones Paralyze Copenhagen, Russian Fighter Over German NATO Ship | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/741bf2af0db4) |
 | Wed, 24 Sep 2025 17:14:09 GMT | The Hidden Problems in the UK Security Industry: A Ghostwriter’s Perspective | Usman Zafar | [Read More](https://medium.com/p/b32e0f647ce1) |
 | Wed, 24 Sep 2025 17:13:33 GMT | The “Verified Extension” Illusion: Inside the July 2025 VSCode Flaw That EDR Missed | DarkLayer Security | [Read More](https://medium.com/p/17bae8a33ae6) |
 | Wed, 24 Sep 2025 17:11:59 GMT | How to Create a NAT Gateway in AWS | Tolulope Adewuyi | [Read More](https://medium.com/p/1c499b357f7e) |
@@ -111,5 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 13:12:32 GMT | Footprinting Databases: MySQL, MSSQL & Oracle— A Practical Guide for Pentesters | Horrow | [Read More](https://medium.com/p/7e3d863a475f) |
 | Wed, 24 Sep 2025 13:11:09 GMT | If your work disappeared tomorrow… would anyone notice? | Ian Kiprono | [Read More](https://medium.com/p/bc071583a8b1) |
 | Wed, 24 Sep 2025 13:10:31 GMT | Putin’s Worst Digital Nightmare: Ukraine’s Hackers Expose Crimea’s Child Abduction Files | Bogdan Ilyin | [Read More](https://medium.com/p/f8cb3b1ed2b9) |
-| Wed, 24 Sep 2025 13:09:06 GMT | Zebrank Custom web application development Hyderabad | Softwarezebrank | [Read More](https://medium.com/p/65aab997c87e) |
-| Wed, 24 Sep 2025 13:08:26 GMT | From Phishing to Network Anomalies: Exploring Machine Learning in Cybersecurity | Rebecca Ssesanga | [Read More](https://medium.com/p/c46409e9c5ae) |
