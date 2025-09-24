@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 22:04:06 GMT | Hiding in Plain Sight: Steganography, C2, and SVG Files | Tom O'Neill | [Read More](https://medium.com/p/567df7ceea20) |
+| Wed, 24 Sep 2025 21:46:05 GMT | Why Microsoft 365 Has Become The Greatest Risk | Samuel Tutor | [Read More](https://medium.com/p/e34d19252089) |
+| Wed, 24 Sep 2025 21:45:23 GMT | Cybersecurity Career Transition: From IT to OT | Digital & Spiritual | [Read More](https://medium.com/p/9d2ff999d7e6) |
+| Wed, 24 Sep 2025 21:42:03 GMT | PJPT : 14 Hours Battle, One Domain Controller, and Countless Lessons: PJPT Journey | Piyush Raghatate | [Read More](https://medium.com/p/7cf71f80e3af) |
+| Wed, 24 Sep 2025 21:38:17 GMT | Expressway — Write-Up (HackTheBox Walkthrough) | KRY | [Read More](https://medium.com/p/a132d9155913) |
 | Wed, 24 Sep 2025 21:33:54 GMT | Preventing and Recovering from Cryptocurrency Scams: What to Do After Losing Funds | Beaconbnbtech | [Read More](https://medium.com/p/b8ba477dfc69) |
 | Wed, 24 Sep 2025 21:18:47 GMT | Advanced API Security: Beyond OWASP Top 10 | Andrei Ivan | [Read More](https://medium.com/p/bb5239554526) |
 | Wed, 24 Sep 2025 21:14:11 GMT | The Day ChatGPT Became a Data Thief (And Why It Should Terrify You) | Anika | [Read More](https://medium.com/p/cee018f404b4) |
@@ -108,8 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 16:04:17 GMT | SoloSoft Solutions — Innovating Technology for a Smarter Future | Mohamed Shihabudheen | [Read More](https://medium.com/p/948a3cfa65e2) |
 | Wed, 24 Sep 2025 16:02:12 GMT | 7 Red Flags of a Fraudulent Survey Site You Can’t Afford to Ignore | Stephon Anderson | [Read More](https://medium.com/p/4f816a482cb9) |
 | Wed, 24 Sep 2025 16:02:04 GMT | Easier Said Than Done | Shamilah B | [Read More](https://medium.com/p/b76891c38298) |
-| Wed, 24 Sep 2025 16:01:12 GMT | When Your Dream Job Becomes Your Worst Nightmare: Employment Scams Warning Signs to Watch For | Cyber Safety Watchdog | [Read More](https://medium.com/p/d6fc1ebcfc25) |
-| Wed, 24 Sep 2025 16:01:04 GMT | Series A: Browser & Header Defenses | Trevor Woollacott | [Read More](https://medium.com/p/a88438ee203d) |
-| Wed, 24 Sep 2025 16:00:57 GMT | Write Up Lab: Blind SQL injection with conditional errors | Velskynotfound | [Read More](https://medium.com/p/861d8cf0ab8e) |
-| Wed, 24 Sep 2025 15:59:40 GMT | Linux Logging for SOC | Cheryl Maise Lobo | [Read More](https://medium.com/p/69579633f272) |
-| Wed, 24 Sep 2025 15:58:28 GMT | Capture! writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9492a58b8e90) |
