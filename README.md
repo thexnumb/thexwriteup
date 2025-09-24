@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 09:21:32 GMT | Pwning HackableII — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/cca8e99eb291) |
+| Wed, 24 Sep 2025 09:20:14 GMT | Gestalt: How LLMs “Understand” the World | Roman Trukhin | [Read More](https://medium.com/p/31905defe1f1) |
+| Wed, 24 Sep 2025 09:19:47 GMT | Getting started with Microsoft Sentinel for Insider Threat Detection | Konstantinos Lianos | [Read More](https://medium.com/p/2dfeea68be16) |
+| Wed, 24 Sep 2025 09:14:27 GMT | Secure Your Future: Cybersecurity Course at SLA Institute
+In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69ce737cace) |
+| Wed, 24 Sep 2025 09:09:34 GMT | Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt | Danish Ahmed | [Read More](https://medium.com/p/3f188f6ce4d1) |
+| Wed, 24 Sep 2025 09:09:27 GMT | What to Expect During an ERP or CRM Demo: A Buyer’s Checklist | Erpone | [Read More](https://medium.com/p/64e713868dfe) |
+| Wed, 24 Sep 2025 08:57:47 GMT | AI-Powered Documentation: 15 Tools for Security Report Generation | Andrei Ivan | [Read More](https://medium.com/p/05663f66d655) |
+| Wed, 24 Sep 2025 08:56:33 GMT | Telehealth Kiosks: A Lifeline for Rural and Underserved Areas | Rakesh | [Read More](https://medium.com/p/92db89220a4e) |
+| Wed, 24 Sep 2025 08:53:58 GMT | Learn how to set up Entra ID phishing-resistant MFA | Mark O | [Read More](https://medium.com/p/a4bf695a7b33) |
+| Wed, 24 Sep 2025 08:46:14 GMT | ‘Imminent Threat’ Near UN? What Really Happens Behind the Scenes | Truspex | [Read More](https://medium.com/p/12bd63260480) |
+| Wed, 24 Sep 2025 08:39:53 GMT | ประจำวันพุธที่ 24 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/89663a5fa343) |
 | Wed, 24 Sep 2025 08:28:52 GMT | The Pain of Poor Alarm Response | Metropolitan Security Services | [Read More](https://medium.com/p/768133d660cb) |
 | Wed, 24 Sep 2025 08:19:33 GMT | The Best Cheap Linux Server Options for Startups in 2025 | Andy | [Read More](https://medium.com/p/c9ffd002265e) |
 | Wed, 24 Sep 2025 08:08:21 GMT | When AI Becomes the Hacker: The Rise of LLM-Powered Malware | Udara Sandakelum | [Read More](https://medium.com/p/285de325cc8a) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 05:05:02 GMT | Benefits of ISO Certification For an IT Company | Sqccertification | [Read More](https://medium.com/p/bb0c1640d68a) |
 | Wed, 24 Sep 2025 05:01:52 GMT | What Are the Long-Term Benefits of Integrating AI-Based Protection Into IT Systems? | Modern Security | [Read More](https://medium.com/p/0bfdcec3a74a) |
 | Wed, 24 Sep 2025 04:56:59 GMT | Strengthening Digital Defense with Modern Security Practices | Vijilan | [Read More](https://medium.com/p/1785169258c9) |
-| Wed, 24 Sep 2025 04:54:03 GMT | Your Website’s Been Hacked. Now What? | Muhammad Anees Sarwar | [Read More](https://medium.com/p/2306c945dc21) |
-| Wed, 24 Sep 2025 04:49:11 GMT | Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy | Virginia Backaitis | [Read More](https://medium.com/p/6fd9bdb306ff) |
-| Wed, 24 Sep 2025 04:48:39 GMT | iPhone 17 Pro Price Drop 2025: Should You Wait or Buy Now? | Isabella Martinez | [Read More](https://medium.com/p/e3537fdf5952) |
-| Wed, 24 Sep 2025 04:42:39 GMT | iPhone 17 Pro vs iPhone 16 Pro: Worth the Upgrade in 2025? | Amelia Taylor | [Read More](https://medium.com/p/8257d28a1270) |
-| Wed, 24 Sep 2025 04:41:46 GMT | CyberTalents CTF: DarkSide Writeup - MehediSec | MehediSec | [Read More](https://medium.com/p/49b168d97c6a) |
-| Wed, 24 Sep 2025 04:39:31 GMT | iPhone 17 Pro Daily Use Review: Real-World Performance Test | Emery Bennett | [Read More](https://medium.com/p/3dd7691ba5e8) |
-| Wed, 24 Sep 2025 04:38:21 GMT | Reconnaissance: Passive and Active Scanning with KALI Linux (Part2) | mohandika | [Read More](https://medium.com/p/c63fcb6c1ce8) |
-| Wed, 24 Sep 2025 04:37:56 GMT | The First Kiss Was on My Forehead | Mardiana Ayu | [Read More](https://medium.com/p/3bf145445249) |
-| Wed, 24 Sep 2025 04:36:39 GMT | Frontend Security Practices Every Engineer Should Know | Ram Krishnan | [Read More](https://medium.com/p/e7d345adb57c) |
-| Wed, 24 Sep 2025 04:33:47 GMT | A Fresher’s Guide to OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/925ff43f6b73) |
-| Wed, 24 Sep 2025 04:30:25 GMT | Cloudbric Mask Service Launch for Public Use Completed | Cloudbric | [Read More](https://medium.com/p/68ab996950c6) |
