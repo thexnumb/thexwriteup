@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 15:25:47 GMT | SOC Automation - Home Lab | Smit Thakkar | [Read More](https://medium.com/p/3091fc878a05) |
+| Wed, 24 Sep 2025 15:25:03 GMT | ⚙️Installing & Configuring Proxmox VE for My Cyber Range ️ | Meet Patel | [Read More](https://medium.com/p/434974e66c33) |
+| Wed, 24 Sep 2025 15:22:05 GMT | Enterprise MCP Part 3: Security and Governance | FactSet | [Read More](https://medium.com/p/27ec39380bbe) |
+| Wed, 24 Sep 2025 15:21:46 GMT | Silent Breach Lab Writeup | Jaws | [Read More](https://medium.com/p/f134fb80ad74) |
+| Wed, 24 Sep 2025 15:21:13 GMT | Is it possible to recover my money from Tradevest ? | Graham Walter | [Read More](https://medium.com/p/d15ff3440f85) |
+| Wed, 24 Sep 2025 15:18:07 GMT | Cyber-Physical Risks in Electric Vehicles: Technical Vulnerabilities, Cybersecurity Threats, and… | Nilav M | [Read More](https://medium.com/p/354bc653f723) |
+| Wed, 24 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 24, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/6f484ef6786e) |
 | Wed, 24 Sep 2025 15:13:57 GMT | Email Security in 2025: Why Your “Secure” Provider Might Be Lying to You | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/7015b10b3a8b) |
 | Wed, 24 Sep 2025 15:08:00 GMT | The Side Hustle That Paid My Tuition: A Student’s Guide to Security Consulting | Samina Perveen | [Read More](https://medium.com/p/4b73fcbb4764) |
 | Wed, 24 Sep 2025 15:07:14 GMT | The Identity Theft Crisis Destroying Senior Life Savings: What Actually Works in 2025 | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/fc92cbb286bc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 11:10:12 GMT | One in Three Android Apps Leak Your Sensitive Data | Karl Buhl | [Read More](https://medium.com/p/c2e45b03ddcb) |
 | Wed, 24 Sep 2025 11:08:42 GMT | Top 5 Cyber Attacks That Changed the World | Nagaraj | [Read More](https://medium.com/p/b41b7c5746b6) |
 | Wed, 24 Sep 2025 11:03:26 GMT | Why Vulnerability Management Should Be Part of Your Risk Management Framework | Digital Defense | [Read More](https://medium.com/p/35466a6cf1ff) |
-| Wed, 24 Sep 2025 11:01:54 GMT | Collins Aerospace Cyberattack: How Third-Party Risk Impacts Everyone | Brittney Ginther | [Read More](https://medium.com/p/35eb76ddf13a) |
-| Wed, 24 Sep 2025 10:58:08 GMT | Requirements Management Tools: A Complete Guide for Modern Teams | Kualitee | [Read More](https://medium.com/p/3dbe0ee7da7f) |
-| Wed, 24 Sep 2025 10:57:34 GMT | BIG SMART DATA EL4DEV, the first social network of peace — Carmen ORTIZ and Laura BODIS from… | Paul Elvere DELSART | [Read More](https://medium.com/p/30344d1158ac) |
-| Wed, 24 Sep 2025 10:57:18 GMT | Best Phishing Simulation and Awareness Services Companies In India | Gowthammathiew | [Read More](https://medium.com/p/0cb7577edb59) |
-| Wed, 24 Sep 2025 10:52:37 GMT | Stop Depending on DevOps Engineers: Deploy Production-Ready MERN Apps Yourself | daoud-hussain | [Read More](https://medium.com/p/ec855112828f) |
-| Wed, 24 Sep 2025 10:49:39 GMT | Stop Using the Default Kali Terminal: This Setup Will Blow Your Mind | Beri Contraster | [Read More](https://medium.com/p/b78f1f71aabe) |
-| Wed, 24 Sep 2025 10:41:22 GMT | The Hidden Dangers of AI Face-Swapping Apps and How to Protect Yourself | Alex GhostWriter | [Read More](https://medium.com/p/7b7ca84fb2d7) |
