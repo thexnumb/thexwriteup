@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 21:33:54 GMT | Preventing and Recovering from Cryptocurrency Scams: What to Do After Losing Funds | Beaconbnbtech | [Read More](https://medium.com/p/b8ba477dfc69) |
+| Wed, 24 Sep 2025 21:18:47 GMT | Advanced API Security: Beyond OWASP Top 10 | Andrei Ivan | [Read More](https://medium.com/p/bb5239554526) |
+| Wed, 24 Sep 2025 21:14:11 GMT | The Day ChatGPT Became a Data Thief (And Why It Should Terrify You) | Anika | [Read More](https://medium.com/p/cee018f404b4) |
+| Wed, 24 Sep 2025 21:08:49 GMT | How to Setup an Ethereum Node (Part 3) | TrashPirate | [Read More](https://medium.com/p/45d68d86af26) |
 | Wed, 24 Sep 2025 21:05:14 GMT | How One Weak Password Doomed a 158-Year-Old Business | Samuel Tutor | [Read More](https://medium.com/p/9d11a6630ba0) |
 | Wed, 24 Sep 2025 21:01:47 GMT | The Dark Web OSINT Toolkit: Beyond the Search Bar | eRRoR | [Read More](https://medium.com/p/41815db4d75d) |
 | Wed, 24 Sep 2025 20:55:48 GMT | Top 10 Cyber Risks Businesses Face in 2025 - Mitigation Guide | Redkite Network | [Read More](https://medium.com/p/ba2712d62504) |
@@ -109,7 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 16:00:57 GMT | Write Up Lab: Blind SQL injection with conditional errors | Velskynotfound | [Read More](https://medium.com/p/861d8cf0ab8e) |
 | Wed, 24 Sep 2025 15:59:40 GMT | Linux Logging for SOC | Cheryl Maise Lobo | [Read More](https://medium.com/p/69579633f272) |
 | Wed, 24 Sep 2025 15:58:28 GMT | Capture! writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9492a58b8e90) |
-| Wed, 24 Sep 2025 15:56:17 GMT | Is Your Data Truly Safe? HTTP vs. HTTPS Explained | Thamindu Disna | [Read More](https://medium.com/p/0dc033993155) |
-| Wed, 24 Sep 2025 15:54:48 GMT | Vibe coding 是情境、感覺、直覺還是氛圍開發？How should Vibe Coding be translated: as Context, Feeling, Intuition… | Will 的資安觀測筆記 | [Read More](https://medium.com/p/0a4e2d4710d2) |
-| Wed, 24 Sep 2025 15:50:08 GMT | Make Security Training Engaging | Matthew.Rosenquist | [Read More](https://medium.com/p/56fafa51af67) |
-| Wed, 24 Sep 2025 15:49:28 GMT | Building a Reliable Surveillance Architecture: Redundancy & Failover | Seo Digitalwatchdog | [Read More](https://medium.com/p/d2fe318cddb8) |
