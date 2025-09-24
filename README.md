@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 03:17:16 GMT | Brute Force dalam Dunia Cyber Security: Dari Tools Hingga Mitigasi | Zulfianarahmi | [Read More](https://medium.com/p/cb465739d866) |
+| Wed, 24 Sep 2025 03:14:57 GMT | Security Assessment: Vulnhub Earth Walkthrough | Luke Gearty | [Read More](https://medium.com/p/38b95a534b75) |
+| Wed, 24 Sep 2025 03:14:01 GMT | 18. Secrets of Rate Limiting and Bruteforce | Abhijeet kumawat | [Read More](https://medium.com/p/6dbb17e1a951) |
+| Wed, 24 Sep 2025 03:05:06 GMT | What Is a DDoS Attack? | Hirad Showghi | [Read More](https://medium.com/p/de92bac525f8) |
+| Wed, 24 Sep 2025 03:04:19 GMT | Future of money and the internet | Jane | [Read More](https://medium.com/p/221aed5cacd3) |
 | Wed, 24 Sep 2025 02:47:32 GMT | Why Cybersecurity Talent Shortage Is an OEM Opportunity | Dr. Deep Pandey | [Read More](https://medium.com/p/1d5c9bc6e3c7) |
 | Wed, 24 Sep 2025 02:46:54 GMT | Running on Empty: Why Our Cyber Defenders Can’t Keep Up, and Why That Should Scare You | Athishsagarkishan | [Read More](https://medium.com/p/e4c4e823d43d) |
 | Wed, 24 Sep 2025 02:41:51 GMT | The Law of Human Hackability | Timsux Wales | [Read More](https://medium.com/p/f2d2a96b557b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 17:31:27 GMT | The Night Everything I Knew About OSINT Became Dangerous | Rishisec | [Read More](https://medium.com/p/db2bf746f40e) |
 | Tue, 23 Sep 2025 17:30:43 GMT | Welcome to the MAXISIQ Blog: Engineering Innovation for the Mission Ahead | Sophia Martinez | [Read More](https://medium.com/p/1499a5468a71) |
 | Tue, 23 Sep 2025 17:28:52 GMT | SolarWinds Makes Third Attempt at Patching Exploited Vulnerability | Suhas Valasala | [Read More](https://medium.com/p/2356219f38e9) |
-| Tue, 23 Sep 2025 17:25:36 GMT | Under Siege: How Soumil Survived a DDoS Attack | Kathit Shah | [Read More](https://medium.com/p/34c19dc850e2) |
-| Tue, 23 Sep 2025 17:22:59 GMT | GeoServer Exploit Enables Breach of U.S. Federal Agency | Suhas Valasala | [Read More](https://medium.com/p/6c62d7c4fe20) |
-| Tue, 23 Sep 2025 17:20:59 GMT | XDR Gerçekten Güvenilir mi? | mel4mi | [Read More](https://medium.com/p/c9052b370a7b) |
-| Tue, 23 Sep 2025 17:15:40 GMT | All I Ever Wanted Was a Little Effort | Yashwardhan Mittal | [Read More](https://medium.com/p/06edc6d49df6) |
-| Tue, 23 Sep 2025 17:14:59 GMT | AI Literacy and Oversight: The Next Compliance Advantage | Graylog | [Read More](https://medium.com/p/8d76b6e9d3e6) |
