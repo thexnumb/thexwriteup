@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 08:19:33 GMT | The Best Cheap Linux Server Options for Startups in 2025 | Andy | [Read More](https://medium.com/p/c9ffd002265e) |
+| Wed, 24 Sep 2025 08:08:21 GMT | When AI Becomes the Hacker: The Rise of LLM-Powered Malware | Udara Sandakelum | [Read More](https://medium.com/p/285de325cc8a) |
+| Wed, 24 Sep 2025 08:06:13 GMT | How Water Is Threatening Global Peace | Julien | [Read More](https://medium.com/p/229bc8aa0cda) |
+| Wed, 24 Sep 2025 08:06:01 GMT | CyberDefenders Danabot Lab | Jackie Huang | [Read More](https://medium.com/p/0686ee72cd4e) |
+| Wed, 24 Sep 2025 08:05:26 GMT | Try-Hack-Me {CTF} RootMe | Arka Priya Das | [Read More](https://medium.com/p/12a8cdefef94) |
+| Wed, 24 Sep 2025 08:01:56 GMT | Golden AMIs with Packer and CIS Hardening: Automate Secure Images | Mohamed ElEmam | [Read More](https://medium.com/p/bca42a7d1124) |
+| Wed, 24 Sep 2025 08:01:55 GMT | [Part 6] How AI Detects Threats Before Humans Do: Explained Simply | Cyberkech | [Read More](https://medium.com/p/7940abcced2e) |
+| Wed, 24 Sep 2025 08:00:22 GMT | Palo Alto Networks Security Information and Event Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/327614cbcb01) |
+| Wed, 24 Sep 2025 07:59:43 GMT | Why The UK Global Talent Visa Is The Best Choice for Cybersecurity Professionals in 2025 and beyond | Taimur Ijlal | [Read More](https://medium.com/p/d603860d3157) |
+| Wed, 24 Sep 2025 07:58:08 GMT | The Vulnerability Remediation Process: From Detection to Resolution | Qualysec | [Read More](https://medium.com/p/c561137c4b86) |
+| Wed, 24 Sep 2025 07:56:16 GMT | CyberDefenders Beta Gamer Lab Timeline | Jackie Huang | [Read More](https://medium.com/p/ecb8a6b0381e) |
+| Wed, 24 Sep 2025 07:54:27 GMT | The Magic of Python Decorators I Wish I Knew Earlier | Kainat Nafees | [Read More](https://medium.com/p/015e7e140ddb) |
+| Wed, 24 Sep 2025 07:48:59 GMT | How a Security Guard Company Can Protect Businesses, Events, and Communities | Fss | [Read More](https://medium.com/p/087707451cf6) |
+| Wed, 24 Sep 2025 07:48:32 GMT | DockerLabs Writeup — Rubiks (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fa6ec72b29f8) |
+| Wed, 24 Sep 2025 07:48:01 GMT | Stay Compliant with Apple MDM Software Solutions | Vantage MDM | [Read More](https://medium.com/p/064e051ee7e0) |
+| Wed, 24 Sep 2025 07:38:54 GMT | From Threat to Advantage: Leading with Cyber Intelligence | Prerna Shukla | [Read More](https://medium.com/p/f63f7c2cdee6) |
 | Wed, 24 Sep 2025 07:37:09 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal… | Blackbox | [Read More](https://medium.com/p/670be13933e1) |
 | Wed, 24 Sep 2025 07:31:52 GMT | The Daily Tech Digest: 24 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e85717c9419c) |
 | Wed, 24 Sep 2025 07:31:06 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/6f127c09d00b) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 04:17:48 GMT | DNS Explained: The Internet’s Phonebook You Didn’t Know You Use Everyday | Sumit Sah | [Read More](https://medium.com/p/c8ad2f8291e5) |
 | Wed, 24 Sep 2025 04:10:06 GMT | 5 Quantum Shifts Your Industry Isn’t Ready For | Nexumo | [Read More](https://medium.com/p/ed1e131cdd55) |
 | Wed, 24 Sep 2025 04:08:25 GMT | How I Caught a Hacker in Real Time And the Scary Part Nobody Talks About | Arfa | [Read More](https://medium.com/p/4fdb6d840c93) |
-| Wed, 24 Sep 2025 04:00:14 GMT | Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy | Virginia Backaitis | [Read More](https://medium.com/p/80b324ade3e8) |
-| Wed, 24 Sep 2025 03:57:23 GMT | From Wow to Reliable: LLMs & RAG, a Reality Check | Aastha Singh | [Read More](https://medium.com/p/78a750106209) |
-| Wed, 24 Sep 2025 03:56:32 GMT | How Custodial Crypto Wallets Use Enclaves to Secure Keys & Transactions | Mrityunjaya Prajapati | [Read More](https://medium.com/p/044f83bd4a3b) |
-| Wed, 24 Sep 2025 03:49:47 GMT | PHP Insecure Deserialization | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/63374e592a57) |
-| Wed, 24 Sep 2025 03:40:09 GMT | Part 2 : From backyard to battlefield, Building the Airframe. | Pipeline | [Read More](https://medium.com/p/2a0ef8812e3d) |
-| Wed, 24 Sep 2025 03:38:51 GMT | 7 Everyday Tech Breakthroughs Hiding in Plain Sight | Syntal | [Read More](https://medium.com/p/c2b000b708fe) |
-| Wed, 24 Sep 2025 03:34:46 GMT | Cache Clash: How CDN Misconfigurations Let Me Hijack Thousands of User Sessions | Iski | [Read More](https://medium.com/p/52e09bc0b0a2) |
-| Wed, 24 Sep 2025 03:32:47 GMT | Top 10 Cloud Trends You Can’t Afford to Ignore in 2026 | HostNOC | [Read More](https://medium.com/p/ccb0c8816f0f) |
-| Wed, 24 Sep 2025 03:31:48 GMT | 5 Best Practices for State Management in Node.js | Arunangshu Das | [Read More](https://medium.com/p/ce33a894f271) |
-| Wed, 24 Sep 2025 03:17:16 GMT | Brute Force dalam Dunia Cyber Security: Dari Tools Hingga Mitigasi | Zulfianarahmi | [Read More](https://medium.com/p/cb465739d866) |
-| Wed, 24 Sep 2025 03:14:57 GMT | Security Assessment: Vulnhub Earth Walkthrough | Luke Gearty | [Read More](https://medium.com/p/38b95a534b75) |
-| Wed, 24 Sep 2025 03:14:01 GMT | 18. Secrets of Rate Limiting and Bruteforce | Abhijeet kumawat | [Read More](https://medium.com/p/6dbb17e1a951) |
-| Wed, 24 Sep 2025 03:05:06 GMT | What Is a DDoS Attack? | Hirad Showghi | [Read More](https://medium.com/p/de92bac525f8) |
-| Wed, 24 Sep 2025 03:04:19 GMT | Future of money and the internet | Jane | [Read More](https://medium.com/p/221aed5cacd3) |
-| Wed, 24 Sep 2025 02:47:32 GMT | Why Cybersecurity Talent Shortage Is an OEM Opportunity | Dr. Deep Pandey | [Read More](https://medium.com/p/1d5c9bc6e3c7) |
-| Wed, 24 Sep 2025 02:46:54 GMT | Running on Empty: Why Our Cyber Defenders Can’t Keep Up, and Why That Should Scare You | Athishsagarkishan | [Read More](https://medium.com/p/e4c4e823d43d) |
