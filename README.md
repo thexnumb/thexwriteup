@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 14:41:20 GMT | Fortify Your GitLab Pipeline: Integrating OpenText Fortify to Catch Vulnerabilities Early | Norbert Ishimwe | [Read More](https://medium.com/p/d5c9186d468e) |
+| Wed, 24 Sep 2025 14:38:32 GMT | Brute-force útoky: jak útočníci lámou hesla a jak se proti nim efektivně bránit | Cyber Solution | [Read More](https://medium.com/p/722e71e5f6a0) |
+| Wed, 24 Sep 2025 14:32:32 GMT | Reporting Sensitive Data Exposure  in US Website using Google Dorking! | Abhijith M | [Read More](https://medium.com/p/86450d994c53) |
+| Wed, 24 Sep 2025 14:31:13 GMT | Ukrainian intelligence hackers claim full access to Crimean servers, find alleged war-crimes… | Nik calder | [Read More](https://medium.com/p/c258903667c5) |
+| Wed, 24 Sep 2025 14:29:15 GMT | Unequal Impacts: How Climate Change Hits Africa Hardest | Pan-Adrian Initiative for Development | [Read More](https://medium.com/p/f9966a03ed56) |
+| Wed, 24 Sep 2025 14:25:51 GMT | European Airport Cyberattack: Check-In Chaos and Cybersecurity Risks | TheReviewHive | [Read More](https://medium.com/p/b583b4c316ec) |
+| Wed, 24 Sep 2025 14:19:16 GMT | PANW Stock Analysis: Why Cybersecurity Giants Are Essential for Africa’s Digital Future | The Thematic Investor | [Read More](https://medium.com/p/7777dcc1fde5) |
+| Wed, 24 Sep 2025 14:18:14 GMT | Partnership with Added Value: How Academies & Security Companies Benefit from Master Learning | Mindfully SEO | [Read More](https://medium.com/p/2a49e9265646) |
+| Wed, 24 Sep 2025 14:15:33 GMT | Leading Beyond the Breach: A Framework for Decisive Action in a Cyber Crisis | Patrick Lefler | [Read More](https://medium.com/p/9256f3afa92f) |
+| Wed, 24 Sep 2025 14:11:49 GMT | 2025’s Most Stolen X.509 Security Secret (And How to Use It Before Everyone Does) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/f38629775997) |
 | Wed, 24 Sep 2025 14:09:41 GMT | I will write data science, soc, analyst, cyber security software engineer resume | Jefferies.career | [Read More](https://medium.com/p/5353c112abfc) |
 | Wed, 24 Sep 2025 14:08:25 GMT | Security Implementation Best Practices | Jard | [Read More](https://medium.com/p/52c5160cfa6f) |
 | Wed, 24 Sep 2025 14:07:11 GMT | Threat Hunting Essentials: From Hypothesis to Detection | Azefox innovations | [Read More](https://medium.com/p/de8ee74ce653) |
@@ -26,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 14:00:13 GMT | 22nd February 2025 was the first time I attended an AWS Community Day event. | Ali Arifin | [Read More](https://medium.com/p/5debd13d1ba6) |
 | Wed, 24 Sep 2025 13:59:53 GMT | How can I withdraw my money from investrixhub ? | Nicole James | [Read More](https://medium.com/p/08f3aa23ec55) |
 | Wed, 24 Sep 2025 13:59:14 GMT | Cheyanne Mallas: Envisioning the Future of Cybersecurity Project Management in 2035 | Cheyanne Mallas | [Read More](https://medium.com/p/789d99fc4370) |
+| Wed, 24 Sep 2025 13:53:56 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Konfigurasi DNS Server & Zone Management… | Muhammad Surya Saputro | [Read More](https://medium.com/p/fbff47402094) |
 | Wed, 24 Sep 2025 13:51:58 GMT | ASCWG CTF competition Finals Digital Forensics Writeup | 0xZew | [Read More](https://medium.com/p/6f53b4e3562d) |
 | Wed, 24 Sep 2025 13:46:23 GMT | The Penetration Tester’s Hidden Cache: 15 Underused Security Tools | Andrei Ivan | [Read More](https://medium.com/p/79937fc8dbee) |
 | Wed, 24 Sep 2025 13:38:01 GMT | Preparing for the Quantum-Safe Future | Dr. Biraja Ghoshal | [Read More](https://medium.com/p/3d2558794370) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 10:09:30 GMT | Cyber Attack Brings Chaos to Heathrow and European Airports | Dipayan Ghosh | [Read More](https://medium.com/p/80270839ce70) |
 | Wed, 24 Sep 2025 10:07:14 GMT | Matrix: The Game-Changing Cybersecurity Command Generator That’s Revolutionizing Penetration… | Pratham Shah | [Read More](https://medium.com/p/8be0df2815a0) |
 | Wed, 24 Sep 2025 10:07:03 GMT | Cross-Site Request Forgery (CSRF): The Silent Account Takeover | Y0s_0x_IBM | [Read More](https://medium.com/p/930d6a69e9bc) |
-| Wed, 24 Sep 2025 10:05:02 GMT | Antidoting Burnout and Division in Peace Activism: 
-Interview with MacGregor Eddy and Leah Yananton | Nonviolent Global Liberation | [Read More](https://medium.com/p/aceeb80ccd8b) |
-| Wed, 24 Sep 2025 09:55:38 GMT | Reconnaissance: Passive and Active Scanning with KALI Linux (Part3) | mohandika | [Read More](https://medium.com/p/b80c0cc4a1b8) |
-| Wed, 24 Sep 2025 09:52:44 GMT | 2025’s Top Tech Trends: Blockchain, AI, AR/VR, and Innovation’s Future | Melan Bandara | [Read More](https://medium.com/p/e7f872fbf203) |
-| Wed, 24 Sep 2025 09:52:05 GMT | GLAMOROUS Software Dev | Mohammed Brückner | [Read More](https://medium.com/p/40a66e9cec4b) |
-| Wed, 24 Sep 2025 09:52:01 GMT | CCTV Security Solutions and Biometric Access Control Devices in Bangladesh by Optimationbd | optimationbd | [Read More](https://medium.com/p/1079e7252dff) |
-| Wed, 24 Sep 2025 09:49:56 GMT | Casinos just showed airports how to handle cyber chaos, Crypto security is building the next… | OKcontract | [Read More](https://medium.com/p/2f053311d711) |
-| Wed, 24 Sep 2025 09:49:28 GMT | Server-Side Request Forgery (SSRF): The Hidden Gateway to Internal Networks | Y0s_0x_IBM | [Read More](https://medium.com/p/5404782e5e7a) |
-| Wed, 24 Sep 2025 09:47:58 GMT | Attack Surface Management (ASM): The Frontline of Modern Cyber Defense | Jackdavis Iap | [Read More](https://medium.com/p/69b0e73b0f72) |
-| Wed, 24 Sep 2025 09:47:47 GMT | The Future of Web3 Isn’t Just About Faster Chains | Bright Mmaduabuchi | [Read More](https://medium.com/p/a8ed5cd168b3) |
-| Wed, 24 Sep 2025 09:45:46 GMT | Ensuring Safety with Professional Security Guard Services in Qatar | Fss | [Read More](https://medium.com/p/279e9ddb1f07) |
-| Wed, 24 Sep 2025 09:43:10 GMT | 5 Ways to Use AI in Cybersecurity | Jay C Roberts | [Read More](https://medium.com/p/d691b40742df) |
