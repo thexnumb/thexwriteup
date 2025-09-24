@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 20:20:49 GMT | Kenobi: Offensive Pentesting CTF Walkthrough | Samet Senturk | [Read More](https://medium.com/p/74bac2510153) |
+| Wed, 24 Sep 2025 20:19:41 GMT | PG Practice — DVR4 (Windows) | Lepton | [Read More](https://medium.com/p/f96c7d732a8b) |
+| Wed, 24 Sep 2025 20:17:56 GMT | Grup Politikası'na Güvenlikçi Bakış: Active Directory'nin Görünmeyen Gücü | Mertcan Kopruvalı | [Read More](https://medium.com/p/e7a2af81b13f) |
+| Wed, 24 Sep 2025 20:09:22 GMT | Can Quantum Computing Solve the Biggest Cybersecurity Threats Facing Businesses Today? | Dhananjayp Amr | [Read More](https://medium.com/p/cfe2522a25cf) |
+| Wed, 24 Sep 2025 20:06:01 GMT | Breaking the News Before the News: Stories Major Media Isn’t Telling You | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/612b77530259) |
+| Wed, 24 Sep 2025 19:50:50 GMT | Try Hack Me- Gaming Server | Herrfuhrer | [Read More](https://medium.com/p/91e14814ae51) |
+| Wed, 24 Sep 2025 19:47:45 GMT | My Experience Responding to a Cyber Incident in an Energy Plant | Cyberkech | [Read More](https://medium.com/p/4aa426766853) |
+| Wed, 24 Sep 2025 19:47:32 GMT | The Cybersecurity Battlefield of 2025: AI-Powered Attacks, Nation-State Espionage, and the Future… | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/85a8df315cfb) |
+| Wed, 24 Sep 2025 19:40:41 GMT | Hacksudo: Fog CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/7b82d9e7fca5) |
+| Wed, 24 Sep 2025 19:38:22 GMT | You Won’t Believe How Easy Prompt Injection Really Is (Funny Story Inside) | Jaydeep Karale | [Read More](https://medium.com/p/d7de6370aae8) |
 | Wed, 24 Sep 2025 19:30:11 GMT | Travelers Are Saving Hundreds With This Genius Luggage Trick | Marc Ford | [Read More](https://medium.com/p/15d2eea60605) |
 | Wed, 24 Sep 2025 19:30:00 GMT | GrabThePhisher | Adewale Ayomide | [Read More](https://medium.com/p/3d9a2215c325) |
 | Wed, 24 Sep 2025 19:27:52 GMT | Day 8 — Crushing the Login Page: Hydra, Dictionary Attacks, and Responsible Lab Practice | HackTrace | [Read More](https://medium.com/p/49fd4bebcce0) |
@@ -103,13 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 24, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/6f484ef6786e) |
 | Wed, 24 Sep 2025 15:13:57 GMT | Email Security in 2025: Why Your “Secure” Provider Might Be Lying to You | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/7015b10b3a8b) |
 | Wed, 24 Sep 2025 15:08:00 GMT | The Side Hustle That Paid My Tuition: A Student’s Guide to Security Consulting | Samina Perveen | [Read More](https://medium.com/p/4b73fcbb4764) |
-| Wed, 24 Sep 2025 15:07:14 GMT | The Identity Theft Crisis Destroying Senior Life Savings: What Actually Works in 2025 | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/fc92cbb286bc) |
-| Wed, 24 Sep 2025 15:05:55 GMT | One bug, and Cloudflare went down for a few hours | H. Ali | [Read More](https://medium.com/p/dce04b83d66e) |
-| Wed, 24 Sep 2025 14:53:11 GMT | The Linux Concept Journey — Display Manager (DM) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/05634c3e8c29) |
-| Wed, 24 Sep 2025 14:49:14 GMT | Simplify Role-Based Access Control in Laravel with Laravel Permission Manager | Hossein Hezami | [Read More](https://medium.com/p/95b16b21cf1e) |
-| Wed, 24 Sep 2025 14:48:39 GMT | Why SMBs Need an MSCP (Even If You Have an IT Team) | Evgeny Ermakov | [Read More](https://medium.com/p/715313f21776) |
-| Wed, 24 Sep 2025 14:44:17 GMT | “The Hijacker’s Goldmine: Finding Broken Links That Lead to Bounties” | Aman Sharma | [Read More](https://medium.com/p/695740698218) |
-| Wed, 24 Sep 2025 14:42:27 GMT | Why Burnout is the Hidden Cost of Bug Bounty Life | Aj | [Read More](https://medium.com/p/93d158c4a9c7) |
-| Wed, 24 Sep 2025 14:42:12 GMT | The Breach That Changed Everything: A Hacker vs Company Story | Vijay Kumar Gupta | [Read More](https://medium.com/p/3a9830807a06) |
-| Wed, 24 Sep 2025 14:41:20 GMT | Fortify Your GitLab Pipeline: Integrating OpenText Fortify to Catch Vulnerabilities Early | Norbert Ishimwe | [Read More](https://medium.com/p/d5c9186d468e) |
-| Wed, 24 Sep 2025 14:38:32 GMT | Brute-force útoky: jak útočníci lámou hesla a jak se proti nim efektivně bránit | Cyber Solution | [Read More](https://medium.com/p/722e71e5f6a0) |
