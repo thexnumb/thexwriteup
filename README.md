@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 02:47:32 GMT | Why Cybersecurity Talent Shortage Is an OEM Opportunity | Dr. Deep Pandey | [Read More](https://medium.com/p/1d5c9bc6e3c7) |
+| Wed, 24 Sep 2025 02:46:54 GMT | Running on Empty: Why Our Cyber Defenders Can’t Keep Up, and Why That Should Scare You | Athishsagarkishan | [Read More](https://medium.com/p/e4c4e823d43d) |
+| Wed, 24 Sep 2025 02:41:51 GMT | The Law of Human Hackability | Timsux Wales | [Read More](https://medium.com/p/f2d2a96b557b) |
+| Wed, 24 Sep 2025 02:19:21 GMT | SQL Injection UNION Attack: Retrieving Data from Other Tables | Bash Overflow | [Read More](https://medium.com/p/aa79bd7862b6) |
+| Wed, 24 Sep 2025 01:38:01 GMT | VMware Workspace ONE RCE 취약점(CVE-2022–22954) | Crowndaisy | [Read More](https://medium.com/p/d35f6d00bc83) |
 | Wed, 24 Sep 2025 01:25:44 GMT | CrowdStrike and Meta Launch CyberSOCEval to Benchmark AI in Real-World Cyber Defense | SafetyDetectives Research Team | [Read More](https://medium.com/p/b6199cf7c865) |
 | Wed, 24 Sep 2025 01:22:35 GMT | Global FileFix Phishing Campaign Spreads StealC Malware via File Explorer Trick | SafetyDetectives Research Team | [Read More](https://medium.com/p/695ddffb0861) |
 | Wed, 24 Sep 2025 01:18:40 GMT | Let’s Talk About Vibe Coding | Mark Dhas | [Read More](https://medium.com/p/98c378678b6d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 17:20:59 GMT | XDR Gerçekten Güvenilir mi? | mel4mi | [Read More](https://medium.com/p/c9052b370a7b) |
 | Tue, 23 Sep 2025 17:15:40 GMT | All I Ever Wanted Was a Little Effort | Yashwardhan Mittal | [Read More](https://medium.com/p/06edc6d49df6) |
 | Tue, 23 Sep 2025 17:14:59 GMT | AI Literacy and Oversight: The Next Compliance Advantage | Graylog | [Read More](https://medium.com/p/8d76b6e9d3e6) |
-| Tue, 23 Sep 2025 17:12:07 GMT | Cisco Catalyst Switch 3560V1 Orta ve İleri Düzey Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/9f8628826f3a) |
-| Tue, 23 Sep 2025 17:08:12 GMT | Cómo el malware está llegando a los usuarios de Steam | Tiziano Mass | [Read More](https://medium.com/p/99ac763b9f24) |
-| Tue, 23 Sep 2025 17:01:44 GMT | Article 22: Making Sense of Log Files with Regex | Anuva Das | [Read More](https://medium.com/p/a90798cbd1a0) |
-| Tue, 23 Sep 2025 16:53:27 GMT | Think hackers are only for IT people? | Hachtechnology | [Read More](https://medium.com/p/e21183f72eff) |
-| Tue, 23 Sep 2025 16:49:29 GMT | Maltego: Your Gateway to Open Source Intelligence | Shohel Rana | [Read More](https://medium.com/p/648bdc1a4b3a) |
