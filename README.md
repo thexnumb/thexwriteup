@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 11:28:23 GMT | How I Found a Secret Admin Panel in the JavaScript Source Code | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/2f92f3a5cd84) |
+| Wed, 24 Sep 2025 11:21:25 GMT | What Are the 4 Best Ways to Build an App in 2025 — and How Can You Transform It Into a Successful… | Aniecamelian | [Read More](https://medium.com/p/9bcea6d13db4) |
+| Wed, 24 Sep 2025 11:16:08 GMT | Cyber Incidents in Houston, Texas: Rising Threats and What Businesses Need to Know | IT Specialist | [Read More](https://medium.com/p/49539068cd55) |
+| Wed, 24 Sep 2025 11:12:28 GMT | Malware’s First Steps: A Trip Through TryHackMe’s History of Malware Room | Furkanctiner | [Read More](https://medium.com/p/41c1fd2a79fc) |
+| Wed, 24 Sep 2025 11:12:03 GMT | Cooking with Data: Mastering the CyberChef Basics Room on TryHackMe ‍ | Furkanctiner | [Read More](https://medium.com/p/43ebdc973f8a) |
+| Wed, 24 Sep 2025 11:10:12 GMT | One in Three Android Apps Leak Your Sensitive Data | Karl Buhl | [Read More](https://medium.com/p/c2e45b03ddcb) |
 | Wed, 24 Sep 2025 11:08:42 GMT | Top 5 Cyber Attacks That Changed the World | Nagaraj | [Read More](https://medium.com/p/b41b7c5746b6) |
 | Wed, 24 Sep 2025 11:03:26 GMT | Why Vulnerability Management Should Be Part of Your Risk Management Framework | Digital Defense | [Read More](https://medium.com/p/35466a6cf1ff) |
 | Wed, 24 Sep 2025 11:01:54 GMT | Collins Aerospace Cyberattack: How Third-Party Risk Impacts Everyone | Brittney Ginther | [Read More](https://medium.com/p/35eb76ddf13a) |
@@ -108,9 +114,3 @@ In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69c
 | Wed, 24 Sep 2025 07:03:57 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/0362d520479f) |
 | Wed, 24 Sep 2025 06:58:27 GMT | Linux Security Automation | Eren Cankut Uysal | [Read More](https://medium.com/p/73c165195f88) |
 | Wed, 24 Sep 2025 06:57:18 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | Tekshoyabeelyas | [Read More](https://medium.com/p/46281ba1c632) |
-| Wed, 24 Sep 2025 06:56:06 GMT | The Smart Restaurant’s Secret: Self-Ordering Kiosks | Rakesh | [Read More](https://medium.com/p/b747416a72ec) |
-| Wed, 24 Sep 2025 06:54:47 GMT | Unlocking API Security: A Deep Dive into AK/SK Authentication | Umesh Kumar Yadav | [Read More](https://medium.com/p/5bd58c3d6482) |
-| Wed, 24 Sep 2025 06:53:49 GMT | 點數制重新定義 BAS 市場LKCArgusHack 實戰演練大公開 | LKC-AGH-Expert | [Read More](https://medium.com/p/dc025f10e2af) |
-| Wed, 24 Sep 2025 06:46:21 GMT | Hardcoding Issues — Part 2 | Sulabh Prajapati | [Read More](https://medium.com/p/8c8e32d85dfe) |
-| Wed, 24 Sep 2025 06:43:01 GMT | Installing and Configuring Nessus on Kali Linux: A Comprehensive Guide (Updated for 2025) | Waqas Akram | [Read More](https://medium.com/p/c2ecdcceeb9e) |
-| Wed, 24 Sep 2025 06:39:45 GMT | I’m Tired of Being the Strong One |  | [Read More](https://medium.com/p/1a12341048c0) |
