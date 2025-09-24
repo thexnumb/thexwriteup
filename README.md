@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 10:39:33 GMT | Digital Risk Protection | Michel mathew | [Read More](https://medium.com/p/f146bde59030) |
+| Wed, 24 Sep 2025 10:35:55 GMT | The Anatomy of an Attack: From Deceptive URLs to Similarity Hashing | Sadineni Sai Sushanth | [Read More](https://medium.com/p/49aa9c24a555) |
+| Wed, 24 Sep 2025 10:25:50 GMT | Why Bluechip Is Ranked Among The Top Cybersecurity Companies In Dubai | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/f78112d6a38c) |
+| Wed, 24 Sep 2025 10:25:17 GMT | Proving Grounds: Mantis | AzureNinja | [Read More](https://medium.com/p/d044d68bcf6c) |
+| Wed, 24 Sep 2025 10:25:01 GMT | The CISO’s 90-Day AI Security Plan | Abdelghani Alhijawi | [Read More](https://medium.com/p/c23372ee1adc) |
+| Wed, 24 Sep 2025 10:23:09 GMT | Internet-Exposed Mainframes: Advanced Threat Intelligence Analysis with ZoomEye.ai | ZoomEye | [Read More](https://medium.com/p/71af3ad2517f) |
+| Wed, 24 Sep 2025 10:19:45 GMT | CVE-2025–26399: A Technical Analysis, Operational Impact, and Response Playbook | gm0 | [Read More](https://medium.com/p/251a1b696b56) |
 | Wed, 24 Sep 2025 10:15:00 GMT | Why Most “Innovative” Ideas Already Exist | BisBam | [Read More](https://medium.com/p/dd1957b9e81f) |
+| Wed, 24 Sep 2025 10:13:39 GMT |  | Pooja Sharma | [Read More](https://medium.com/p/4d0efeda2429) |
+| Wed, 24 Sep 2025 10:09:30 GMT | Cyber Attack Brings Chaos to Heathrow and European Airports | Dipayan Ghosh | [Read More](https://medium.com/p/80270839ce70) |
 | Wed, 24 Sep 2025 10:07:14 GMT | Matrix: The Game-Changing Cybersecurity Command Generator That’s Revolutionizing Penetration… | Pratham Shah | [Read More](https://medium.com/p/8be0df2815a0) |
 | Wed, 24 Sep 2025 10:07:03 GMT | Cross-Site Request Forgery (CSRF): The Silent Account Takeover | Y0s_0x_IBM | [Read More](https://medium.com/p/930d6a69e9bc) |
 | Wed, 24 Sep 2025 10:05:02 GMT | Antidoting Burnout and Division in Peace Activism: 
@@ -105,12 +114,3 @@ In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69c
 | Wed, 24 Sep 2025 06:24:53 GMT | Top 10 Cyber Attacks in the World | Manisha Chaudhary | [Read More](https://medium.com/p/82f2cb844bf7) |
 | Wed, 24 Sep 2025 06:24:43 GMT | Mastering Container Security: The Complete Guide to Trivy Integration in CI/CD Pipelines | Salwan Mohamed | [Read More](https://medium.com/p/c7c2e9f04020) |
 | Wed, 24 Sep 2025 06:23:21 GMT | Security and Permission Management in Jira | Erdem UÇAK | [Read More](https://medium.com/p/04d576a2e920) |
-| Wed, 24 Sep 2025 06:22:16 GMT | Cyber Security Readiness in Australia 2025: Closing the Gaps | Elevate | [Read More](https://medium.com/p/533904402555) |
-| Wed, 24 Sep 2025 06:22:13 GMT | Email Phishing Simulation Services for Modern Business | Noahlucas | [Read More](https://medium.com/p/a9a0777879a0) |
-| Wed, 24 Sep 2025 06:21:46 GMT | HAProxy SNI Proxy Implementation: The Complete Setup Guide | Dipu Singh | [Read More](https://medium.com/p/38cd95285a59) |
-| Wed, 24 Sep 2025 06:19:53 GMT | How to Secure AKS: Quick Wins to Long-Term Fixes | Sauradipta | [Read More](https://medium.com/p/01a1e9012a21) |
-| Wed, 24 Sep 2025 06:17:47 GMT | Authentication & Authorization: Understanding OAuth and JWT | Johan L | [Read More](https://medium.com/p/4dbe67464a0a) |
-| Wed, 24 Sep 2025 06:16:51 GMT | TCP/IP Modeli ve Katmanları | Asude Handan Uslukılıç | [Read More](https://medium.com/p/dd4d4f808f5d) |
-| Wed, 24 Sep 2025 06:12:38 GMT | Linux Security Cookbook | Eren Cankut Uysal | [Read More](https://medium.com/p/d213886e921b) |
-| Wed, 24 Sep 2025 06:11:51 GMT | Expert Cyber Security for Schools | Cyberfox | [Read More](https://medium.com/p/1b021c7898e2) |
-| Wed, 24 Sep 2025 06:11:47 GMT | How One Line of HTML Crashed a $10 Million Startup | Rizqi Mulki | [Read More](https://medium.com/p/68da404ba71f) |
