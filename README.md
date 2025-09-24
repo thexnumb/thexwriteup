@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 04:36:39 GMT | Frontend Security Practices Every Engineer Should Know | Ram Krishnan | [Read More](https://medium.com/p/e7d345adb57c) |
+| Wed, 24 Sep 2025 04:29:09 GMT | 영상/사진 비식별화 서비스(Cloudbric Mask) 개발 완료 | Cloudbric | [Read More](https://medium.com/p/32e97108dadc) |
+| Wed, 24 Sep 2025 04:17:48 GMT | DNS Explained: The Internet’s Phonebook You Didn’t Know You Use Everyday | Sumit Sah | [Read More](https://medium.com/p/c8ad2f8291e5) |
 | Wed, 24 Sep 2025 04:10:06 GMT | 5 Quantum Shifts Your Industry Isn’t Ready For | Nexumo | [Read More](https://medium.com/p/ed1e131cdd55) |
 | Wed, 24 Sep 2025 04:08:25 GMT | How I Caught a Hacker in Real Time And the Scary Part Nobody Talks About | Arfa | [Read More](https://medium.com/p/4fdb6d840c93) |
 | Wed, 24 Sep 2025 04:00:14 GMT | Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy | Virginia Backaitis | [Read More](https://medium.com/p/80b324ade3e8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 18:08:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/48e97d91de52) |
 | Tue, 23 Sep 2025 18:05:40 GMT | Cybersecurity in Online Gaming | Cyber Security Research | [Read More](https://medium.com/p/5155b91d7ccf) |
 | Tue, 23 Sep 2025 18:01:52 GMT | LFI + RCE en Node.js, Python y PHP — Laboratorio real paso a paso | Gorka | [Read More](https://medium.com/p/4a3b4f1089c3) |
-| Tue, 23 Sep 2025 18:01:51 GMT | Analysis - Art of the Minilateral Deal: Lessons from Balkan Defense Cooperation | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/9920873413e0) |
-| Tue, 23 Sep 2025 18:01:51 GMT | 8 FastAPI Security Patterns That Don’t Add Latency | Bhagya Rana | [Read More](https://medium.com/p/458c30f0dbb7) |
-| Tue, 23 Sep 2025 17:57:51 GMT | Simple CTF — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/c566ed600dd4) |
