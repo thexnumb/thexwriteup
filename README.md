@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 16:10:21 GMT | Cyber Safety Watchdog Insider | Cyber Safety Watchdog | [Read More](https://medium.com/p/b15a236fe9d2) |
+| Wed, 24 Sep 2025 16:09:40 GMT | How Matej Michalko is Securing Europe’s Digital Future | Matej Michalko | [Read More](https://medium.com/p/4fae73cc065e) |
+| Wed, 24 Sep 2025 16:06:43 GMT | New North Korean IT Worker With Innocent Job Application Get Access to Organization’s Network | Jasmitharouthu | [Read More](https://medium.com/p/ef6d6dfece83) |
+| Wed, 24 Sep 2025 16:06:16 GMT | Após ataques que somam US$ 2,5 bilhões, CertiK
+prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://medium.com/p/53ccf9a15baa) |
+| Wed, 24 Sep 2025 16:04:17 GMT | SoloSoft Solutions — Innovating Technology for a Smarter Future | Mohamed Shihabudheen | [Read More](https://medium.com/p/948a3cfa65e2) |
+| Wed, 24 Sep 2025 16:02:12 GMT | 7 Red Flags of a Fraudulent Survey Site You Can’t Afford to Ignore | Stephon Anderson | [Read More](https://medium.com/p/4f816a482cb9) |
+| Wed, 24 Sep 2025 16:02:04 GMT | Easier Said Than Done | Shamilah B | [Read More](https://medium.com/p/b76891c38298) |
+| Wed, 24 Sep 2025 16:01:12 GMT | When Your Dream Job Becomes Your Worst Nightmare: Employment Scams Warning Signs to Watch For | Cyber Safety Watchdog | [Read More](https://medium.com/p/d6fc1ebcfc25) |
+| Wed, 24 Sep 2025 16:01:04 GMT | Series A: Browser & Header Defenses | Trevor Woollacott | [Read More](https://medium.com/p/a88438ee203d) |
+| Wed, 24 Sep 2025 16:00:57 GMT | Write Up Lab: Blind SQL injection with conditional errors | Velskynotfound | [Read More](https://medium.com/p/861d8cf0ab8e) |
+| Wed, 24 Sep 2025 15:59:40 GMT | Linux Logging for SOC | Cheryl Maise Lobo | [Read More](https://medium.com/p/69579633f272) |
+| Wed, 24 Sep 2025 15:58:28 GMT | Capture! writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9492a58b8e90) |
+| Wed, 24 Sep 2025 15:56:17 GMT | Is Your Data Truly Safe? HTTP vs. HTTPS Explained | Thamindu Disna | [Read More](https://medium.com/p/0dc033993155) |
+| Wed, 24 Sep 2025 15:54:48 GMT | Vibe coding 是情境、感覺、直覺還是氛圍開發？How should Vibe Coding be translated: as Context, Feeling, Intuition… | Will 的資安觀測筆記 | [Read More](https://medium.com/p/0a4e2d4710d2) |
+| Wed, 24 Sep 2025 15:50:08 GMT | Make Security Training Engaging | Matthew.Rosenquist | [Read More](https://medium.com/p/56fafa51af67) |
+| Wed, 24 Sep 2025 15:49:28 GMT | Building a Reliable Surveillance Architecture: Redundancy & Failover | Seo Digitalwatchdog | [Read More](https://medium.com/p/d2fe318cddb8) |
+| Wed, 24 Sep 2025 15:45:35 GMT | Active Directory Ports & Protocols — The Real Lifelines | Suhel Kathi | [Read More](https://medium.com/p/7e0dd285df80) |
+| Wed, 24 Sep 2025 15:41:01 GMT | Current Cyber Attack Trends: Supply Chain, Ransomware, APT | Esra Kayhan | [Read More](https://medium.com/p/53a65c2f3c3d) |
+| Wed, 24 Sep 2025 15:27:02 GMT | Cracks in the Silicon ~ Why CPU Vulnerabilities Matter to Everyone | Jonathan Brown | [Read More](https://medium.com/p/b9fd556a728c) |
 | Wed, 24 Sep 2025 15:25:47 GMT | SOC Automation - Home Lab | Smit Thakkar | [Read More](https://medium.com/p/3091fc878a05) |
 | Wed, 24 Sep 2025 15:25:03 GMT | ⚙️Installing & Configuring Proxmox VE for My Cyber Range ️ | Meet Patel | [Read More](https://medium.com/p/434974e66c33) |
 | Wed, 24 Sep 2025 15:22:05 GMT | Enterprise MCP Part 3: Security and Governance | FactSet | [Read More](https://medium.com/p/27ec39380bbe) |
@@ -93,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 12:24:48 GMT | Exploit Nedir, Hazır Olmazsanız Fatura Ağır Olur | Mustafa Furkan Yılmaz | [Read More](https://medium.com/p/1a8356122f0a) |
 | Wed, 24 Sep 2025 12:24:19 GMT | Why Managed Security Services Are Becoming Essential for Businesses in the UAE | Hiba Zafeer | [Read More](https://medium.com/p/e46f8714f77b) |
 | Wed, 24 Sep 2025 12:22:55 GMT | Mobile App Security: Protecting User Data and Privacy | Madison Carter | [Read More](https://medium.com/p/0ecd1c97f2aa) |
-| Wed, 24 Sep 2025 12:22:14 GMT | Software Update Best Practices: Keep Your Devices Secure and Running Smoothly | Timónofearth | [Read More](https://medium.com/p/b763af900bd0) |
-| Wed, 24 Sep 2025 12:20:58 GMT | Are We Truly Strong? | Nevra | [Read More](https://medium.com/p/7484b7fe4ef2) |
-| Wed, 24 Sep 2025 12:18:13 GMT | PG Practice — WallpaperHub (Linux) | Lepton | [Read More](https://medium.com/p/7a98a23f3c01) |
-| Wed, 24 Sep 2025 12:14:30 GMT | SOC Careers in Nagpur: Salary Trends and Jobs | Kartik Debnath | [Read More](https://medium.com/p/5f577fbdb3d1) |
-| Wed, 24 Sep 2025 12:13:03 GMT | Big Data : Implementasi MapReduce di Hadoop | Yasa Wijaya | [Read More](https://medium.com/p/6c401f042869) |
-| Wed, 24 Sep 2025 12:09:59 GMT | Real Estate’s Data Goldmine: Why CRMs & MLS Platforms Are Prime Targets | Omex Oleksandr | [Read More](https://medium.com/p/ce5a3aa49fea) |
-| Wed, 24 Sep 2025 12:09:12 GMT | Intercepting Windows Service Traffic | Abdelaziz Elhawary | [Read More](https://medium.com/p/eccfd18f847f) |
-| Wed, 24 Sep 2025 12:06:21 GMT | The Hidden Benefits of Custom Software Development in 2025 | Bytewise Technologies | [Read More](https://medium.com/p/50ffbdf0f24e) |
-| Wed, 24 Sep 2025 11:54:18 GMT | Why the Browser Is the New Frontline — and How to Secure It | actsupport | [Read More](https://medium.com/p/7c7fd1212943) |
-| Wed, 24 Sep 2025 11:40:18 GMT | Enhance Your Home Safety with Security Screens Gladesville | Cannon Security Fabrication | [Read More](https://medium.com/p/6c685c00340e) |
-| Wed, 24 Sep 2025 11:37:51 GMT | CVE-2025–59689: Command Injection in Libraesva ESG | gm0 | [Read More](https://medium.com/p/b253647f306c) |
-| Wed, 24 Sep 2025 11:28:23 GMT | How I Found a Secret Admin Panel in the JavaScript Source Code | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/2f92f3a5cd84) |
-| Wed, 24 Sep 2025 11:21:25 GMT | What Are the 4 Best Ways to Build an App in 2025 — and How Can You Transform It Into a Successful… | Aniecamelian | [Read More](https://medium.com/p/9bcea6d13db4) |
-| Wed, 24 Sep 2025 11:16:08 GMT | Cyber Incidents in Houston, Texas: Rising Threats and What Businesses Need to Know | IT Specialist | [Read More](https://medium.com/p/49539068cd55) |
-| Wed, 24 Sep 2025 11:12:28 GMT | Malware’s First Steps: A Trip Through TryHackMe’s History of Malware Room | Furkanctiner | [Read More](https://medium.com/p/41c1fd2a79fc) |
-| Wed, 24 Sep 2025 11:12:03 GMT | Cooking with Data: Mastering the CyberChef Basics Room on TryHackMe ‍ | Furkanctiner | [Read More](https://medium.com/p/43ebdc973f8a) |
-| Wed, 24 Sep 2025 11:10:12 GMT | One in Three Android Apps Leak Your Sensitive Data | Karl Buhl | [Read More](https://medium.com/p/c2e45b03ddcb) |
-| Wed, 24 Sep 2025 11:08:42 GMT | Top 5 Cyber Attacks That Changed the World | Nagaraj | [Read More](https://medium.com/p/b41b7c5746b6) |
-| Wed, 24 Sep 2025 11:03:26 GMT | Why Vulnerability Management Should Be Part of Your Risk Management Framework | Digital Defense | [Read More](https://medium.com/p/35466a6cf1ff) |
