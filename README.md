@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 19:30:11 GMT | Travelers Are Saving Hundreds With This Genius Luggage Trick | Marc Ford | [Read More](https://medium.com/p/15d2eea60605) |
+| Wed, 24 Sep 2025 19:30:00 GMT | GrabThePhisher | Adewale Ayomide | [Read More](https://medium.com/p/3d9a2215c325) |
+| Wed, 24 Sep 2025 19:27:52 GMT | Day 8 — Crushing the Login Page: Hydra, Dictionary Attacks, and Responsible Lab Practice | HackTrace | [Read More](https://medium.com/p/49fd4bebcce0) |
+| Wed, 24 Sep 2025 19:24:45 GMT | DevSecOps from Day Zero: How to Embed Security in Your CI/CD Pipeline | Sumit Sharma | [Read More](https://medium.com/p/fcdb1a31aca0) |
+| Wed, 24 Sep 2025 19:20:05 GMT | The Final Frontier: Navigating Doubts and Roadblocks on the Twin Flame Path to “I Do” | Senorita Eugenia | [Read More](https://medium.com/p/cfd5688278d2) |
+| Wed, 24 Sep 2025 19:17:59 GMT | The Left’s ‘Gray Zone’ for Political Violence: Implications for AI, Cybersecurity, and Legal… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/2c3aa5f1c387) |
+| Wed, 24 Sep 2025 19:16:25 GMT | Take Back Control: 5 Quick Phone Settings That Protect Your Data Today | Patches | [Read More](https://medium.com/p/c7e0513a6e7f) |
+| Wed, 24 Sep 2025 19:13:58 GMT | TryHackMe-Hammer | Abdullah Al Ahad | [Read More](https://medium.com/p/64d1628dd74b) |
+| Wed, 24 Sep 2025 19:11:05 GMT | Part 3: From backyard to battlefield, Building the Airframe. | Pipeline | [Read More](https://medium.com/p/ded607ff6d49) |
 | Wed, 24 Sep 2025 19:04:47 GMT | Group Policy Made Simple | Omarmoamen | [Read More](https://medium.com/p/3fbd668d1c29) |
 | Wed, 24 Sep 2025 18:53:09 GMT | Detailed Walkthrough: Alert SOC146 — Phishing Mail Detected — Excel 4.0 Macros (Let’s Defend) | SieGer | [Read More](https://medium.com/p/f92a7ae50a58) |
 | Wed, 24 Sep 2025 18:50:00 GMT | Zero To Hacker: How A Cybersecurity Bootcamp Can Change Your Career | Smith Adams | [Read More](https://medium.com/p/2be6b7887390) |
@@ -104,12 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 14:42:12 GMT | The Breach That Changed Everything: A Hacker vs Company Story | Vijay Kumar Gupta | [Read More](https://medium.com/p/3a9830807a06) |
 | Wed, 24 Sep 2025 14:41:20 GMT | Fortify Your GitLab Pipeline: Integrating OpenText Fortify to Catch Vulnerabilities Early | Norbert Ishimwe | [Read More](https://medium.com/p/d5c9186d468e) |
 | Wed, 24 Sep 2025 14:38:32 GMT | Brute-force útoky: jak útočníci lámou hesla a jak se proti nim efektivně bránit | Cyber Solution | [Read More](https://medium.com/p/722e71e5f6a0) |
-| Wed, 24 Sep 2025 14:37:43 GMT | PromptLock: The AI-Powered Nightmare We Didn’t See Coming… But Should Have. | Dr. Kimberly N. West | [Read More](https://medium.com/p/4cb744fe3ece) |
-| Wed, 24 Sep 2025 14:36:44 GMT | DNS Water Torture Attack: How Hackers Drown DNS Servers | Natarajan C K | [Read More](https://medium.com/p/3ac67e491ec5) |
-| Wed, 24 Sep 2025 14:34:36 GMT | The Security Logic Behind LLM Jailbreaking | Digxxxxx | [Read More](https://medium.com/p/445e21845022) |
-| Wed, 24 Sep 2025 14:32:32 GMT | Reporting Sensitive Data Exposure  in US Website using Google Dorking! | Abhijith M | [Read More](https://medium.com/p/86450d994c53) |
-| Wed, 24 Sep 2025 14:31:13 GMT | Ukrainian intelligence hackers claim full access to Crimean servers, find alleged war-crimes… | Nik calder | [Read More](https://medium.com/p/c258903667c5) |
-| Wed, 24 Sep 2025 14:29:15 GMT | Unequal Impacts: How Climate Change Hits Africa Hardest | Pan-Adrian Initiative for Development | [Read More](https://medium.com/p/f9966a03ed56) |
-| Wed, 24 Sep 2025 14:25:51 GMT | European Airport Cyberattack: Check-In Chaos and Cybersecurity Risks | TheReviewHive | [Read More](https://medium.com/p/b583b4c316ec) |
-| Wed, 24 Sep 2025 14:19:16 GMT | PANW Stock Analysis: Why Cybersecurity Giants Are Essential for Africa’s Digital Future | The Thematic Investor | [Read More](https://medium.com/p/7777dcc1fde5) |
-| Wed, 24 Sep 2025 14:18:14 GMT | Partnership with Added Value: How Academies & Security Companies Benefit from Master Learning | Mindfully SEO | [Read More](https://medium.com/p/2a49e9265646) |
