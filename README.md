@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 17:14:09 GMT | The Hidden Problems in the UK Security Industry: A Ghostwriter’s Perspective | Usman Zafar | [Read More](https://medium.com/p/b32e0f647ce1) |
+| Wed, 24 Sep 2025 17:13:33 GMT | The “Verified Extension” Illusion: Inside the July 2025 VSCode Flaw That EDR Missed | DarkLayer Security | [Read More](https://medium.com/p/17bae8a33ae6) |
+| Wed, 24 Sep 2025 17:11:59 GMT | How to Create a NAT Gateway in AWS | Tolulope Adewuyi | [Read More](https://medium.com/p/1c499b357f7e) |
+| Wed, 24 Sep 2025 17:02:50 GMT | The Beginner’s Guide to Nmap (That I Wish I Had When I Started) | SoBatista | [Read More](https://medium.com/p/7c078f8a3760) |
+| Wed, 24 Sep 2025 17:00:18 GMT | Hacksudo: Search CTF — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/8e824b00c123) |
+| Wed, 24 Sep 2025 16:59:13 GMT | A New Synthesis in AI Theory: From Foundations to Sustainable Intelligence. 4 recent ArXiv papers | Berend Watchus | [Read More](https://medium.com/p/e9f6d114402a) |
+| Wed, 24 Sep 2025 16:49:56 GMT | AI Agents in Cybersecurity Series -P1.1 MCP and Why It Matters? | ViharikaD | [Read More](https://medium.com/p/c5097732fcc7) |
+| Wed, 24 Sep 2025 16:48:08 GMT | FakeGPT Lab | Jaws | [Read More](https://medium.com/p/9340b3d26391) |
+| Wed, 24 Sep 2025 16:47:03 GMT | “BlockLock” Login Query write up MetaCTF | Britton Janet | [Read More](https://medium.com/p/ebbfd3485ba9) |
+| Wed, 24 Sep 2025 16:46:58 GMT | HackTheBox Season9 Expressway | Hiroya Nakamura | [Read More](https://medium.com/p/0c5f24e1961a) |
+| Wed, 24 Sep 2025 16:45:32 GMT | Le gardien des clefs | Kaizonic | [Read More](https://medium.com/p/f374bc4bd874) |
+| Wed, 24 Sep 2025 16:43:54 GMT | Configure the RDS Proxy for the IAM Db Authentication | Chandanj | [Read More](https://medium.com/p/972ef324d4f1) |
 | Wed, 24 Sep 2025 16:42:02 GMT | Donut Demystified: How the Shellcode Generator Runs .NET and PE Payloads In-Memory | 0r | [Read More](https://medium.com/p/322c0974f517) |
 | Wed, 24 Sep 2025 16:41:47 GMT | Breaking Into Cybersecurity | JMP ESP FF E4 | [Read More](https://medium.com/p/99cc2e18ac35) |
 | Wed, 24 Sep 2025 16:34:50 GMT | Abusing Unconstrained Delegation — Computers — exploiting the Printer bug method | SeverSerenity | [Read More](https://medium.com/p/33f1b90a4347) |
@@ -101,15 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 13:10:31 GMT | Putin’s Worst Digital Nightmare: Ukraine’s Hackers Expose Crimea’s Child Abduction Files | Bogdan Ilyin | [Read More](https://medium.com/p/f8cb3b1ed2b9) |
 | Wed, 24 Sep 2025 13:09:06 GMT | Zebrank Custom web application development Hyderabad | Softwarezebrank | [Read More](https://medium.com/p/65aab997c87e) |
 | Wed, 24 Sep 2025 13:08:26 GMT | From Phishing to Network Anomalies: Exploring Machine Learning in Cybersecurity | Rebecca Ssesanga | [Read More](https://medium.com/p/c46409e9c5ae) |
-| Wed, 24 Sep 2025 13:05:10 GMT | What is GaN Technology? How does it work? | Sannai Technology | [Read More](https://medium.com/p/323fffaae10d) |
-| Wed, 24 Sep 2025 13:02:45 GMT | CyberSecurity: My New Chapter | Oluwadamilare Adeosun | [Read More](https://medium.com/p/10ed93615147) |
-| Wed, 24 Sep 2025 13:01:49 GMT | GDPR in 2025 — Why It Still Matters and How to Stay Updated | Josh Lee | [Read More](https://medium.com/p/7503469b8642) |
-| Wed, 24 Sep 2025 12:56:38 GMT | Building Our Own File Upload System: Why We Replaced FileStack with Uppy, UCS, and GCS | Bluetick Consultants Inc. | [Read More](https://medium.com/p/f4894ca2faf3) |
-| Wed, 24 Sep 2025 12:55:38 GMT | Establish a Strong IT Foundation with Cybersecurity Fundamentals Certification | Niyakohli | [Read More](https://medium.com/p/7fce3fa0dc32) |
-| Wed, 24 Sep 2025 12:54:38 GMT | Building a Data Security Function | A.I Hub | [Read More](https://medium.com/p/f3e398f88327) |
-| Wed, 24 Sep 2025 12:54:21 GMT | Cyber Briefing: 2025.09.17 | CyberMaterial | [Read More](https://medium.com/p/3ab1c958ee59) |
-| Wed, 24 Sep 2025 12:52:35 GMT | AI-Enhanced Data Security for Healthcare SaaS Platforms | KodekX | [Read More](https://medium.com/p/2dd16518a592) |
-| Wed, 24 Sep 2025 12:50:15 GMT | A Shift in Cybersecurity Validation: What the Withdrawal from MITRE ATT&CK Evaluations Really Means | Rommel Jay Gadil | [Read More](https://medium.com/p/9b82f514eff9) |
-| Wed, 24 Sep 2025 12:49:48 GMT | Deep Dive: Zero Trust Security Model on AWS | Davebhargavi | [Read More](https://medium.com/p/0fab209d3e16) |
-| Wed, 24 Sep 2025 12:46:05 GMT | Kubernetes Security Book (2nd Edition) — A Synthesis | Alain Airom (Ayrom) | [Read More](https://medium.com/p/4372fbc7c3d8) |
-| Wed, 24 Sep 2025 12:37:53 GMT | Your breezy handbook to digital privacy tools | Scorpius | [Read More](https://medium.com/p/3cbe42ee1331) |
