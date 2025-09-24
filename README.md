@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 05:14:18 GMT | AI Agents in Java: Automating Non-Functional Requirements for Secure, Scalable Apps | Comviva MFS Engineering Tech Blog | [Read More](https://medium.com/p/9ea77f9b9485) |
+| Wed, 24 Sep 2025 05:12:15 GMT | Platform Engineering: The New DevOps? Building Internal Developer Platforms to Streamline Workflows | Ishita Kundu | [Read More](https://medium.com/p/59280d596548) |
+| Wed, 24 Sep 2025 05:07:54 GMT | API Pentesting Part-2: Replay Attack- No Expiry on Authentication Headers (HMAC SHA-256) | Blue_eye | [Read More](https://medium.com/p/dd619b52cdc7) |
+| Wed, 24 Sep 2025 05:05:02 GMT | Benefits of ISO Certification For an IT Company | Sqccertification | [Read More](https://medium.com/p/bb0c1640d68a) |
+| Wed, 24 Sep 2025 05:01:52 GMT | What Are the Long-Term Benefits of Integrating AI-Based Protection Into IT Systems? | Modern Security | [Read More](https://medium.com/p/0bfdcec3a74a) |
+| Wed, 24 Sep 2025 04:56:59 GMT | Strengthening Digital Defense with Modern Security Practices | Vijilan | [Read More](https://medium.com/p/1785169258c9) |
+| Wed, 24 Sep 2025 04:54:03 GMT | Your Website’s Been Hacked. Now What? | Muhammad Anees Sarwar | [Read More](https://medium.com/p/2306c945dc21) |
+| Wed, 24 Sep 2025 04:49:11 GMT | Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy | Virginia Backaitis | [Read More](https://medium.com/p/6fd9bdb306ff) |
+| Wed, 24 Sep 2025 04:48:39 GMT | iPhone 17 Pro Price Drop 2025: Should You Wait or Buy Now? | Isabella Martinez | [Read More](https://medium.com/p/e3537fdf5952) |
+| Wed, 24 Sep 2025 04:42:39 GMT | iPhone 17 Pro vs iPhone 16 Pro: Worth the Upgrade in 2025? | Amelia Taylor | [Read More](https://medium.com/p/8257d28a1270) |
+| Wed, 24 Sep 2025 04:41:46 GMT | CyberTalents CTF: DarkSide Writeup - MehediSec | MehediSec | [Read More](https://medium.com/p/49b168d97c6a) |
+| Wed, 24 Sep 2025 04:39:31 GMT | iPhone 17 Pro Daily Use Review: Real-World Performance Test | Emery Bennett | [Read More](https://medium.com/p/3dd7691ba5e8) |
+| Wed, 24 Sep 2025 04:38:21 GMT | Reconnaissance: Passive and Active Scanning with KALI Linux (Part2) | mohandika | [Read More](https://medium.com/p/c63fcb6c1ce8) |
+| Wed, 24 Sep 2025 04:37:56 GMT | The First Kiss Was on My Forehead | Mardiana Ayu | [Read More](https://medium.com/p/3bf145445249) |
 | Wed, 24 Sep 2025 04:36:39 GMT | Frontend Security Practices Every Engineer Should Know | Ram Krishnan | [Read More](https://medium.com/p/e7d345adb57c) |
+| Wed, 24 Sep 2025 04:33:47 GMT | A Fresher’s Guide to OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/925ff43f6b73) |
+| Wed, 24 Sep 2025 04:30:25 GMT | Cloudbric Mask Service Launch for Public Use Completed | Cloudbric | [Read More](https://medium.com/p/68ab996950c6) |
 | Wed, 24 Sep 2025 04:29:09 GMT | 영상/사진 비식별화 서비스(Cloudbric Mask) 개발 완료 | Cloudbric | [Read More](https://medium.com/p/32e97108dadc) |
 | Wed, 24 Sep 2025 04:17:48 GMT | DNS Explained: The Internet’s Phonebook You Didn’t Know You Use Everyday | Sumit Sah | [Read More](https://medium.com/p/c8ad2f8291e5) |
 | Wed, 24 Sep 2025 04:10:06 GMT | 5 Quantum Shifts Your Industry Isn’t Ready For | Nexumo | [Read More](https://medium.com/p/ed1e131cdd55) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 18:59:51 GMT | Trends, Opportunities, and Challenges in the Fintech Industry | Switch Software | [Read More](https://medium.com/p/3b3e254fb5c8) |
 | Tue, 23 Sep 2025 18:59:18 GMT | “From Fiber to App: Unraveling the 7 OSI Layers for the Future-Minded Netizen” | Logic And Life | [Read More](https://medium.com/p/f6d49b4ef05e) |
 | Tue, 23 Sep 2025 18:57:33 GMT | Snyk vs SonarQube: Security and Quality for Your Applications | TenXers | [Read More](https://medium.com/p/6bf5821a3fd1) |
-| Tue, 23 Sep 2025 18:55:38 GMT | The Thrill of the Hack: Why People Choose Ethical Hacking as a Career | Shahzaib | [Read More](https://medium.com/p/1ff2605961bb) |
-| Tue, 23 Sep 2025 18:52:32 GMT | Auth Bypasses: Logic Flaws, Race Conditions, and Deserialization. What you need to know | Tenebris Venator | [Read More](https://medium.com/p/d1efddc16eb5) |
-| Tue, 23 Sep 2025 18:48:19 GMT | Copilot being forced on VSCode? | NTTP | [Read More](https://medium.com/p/5379ce67c69c) |
-| Tue, 23 Sep 2025 18:39:01 GMT | Indian Army Terrier Cyber Quest 2025 | Chip | [Read More](https://medium.com/p/11de68274786) |
-| Tue, 23 Sep 2025 18:33:44 GMT | Diary of an Ex-Black Hat – Day 5: Regret Meets Purpose | Untold Story of I | [Read More](https://medium.com/p/b15ce19a5d04) |
-| Tue, 23 Sep 2025 18:29:16 GMT | Ethical Challenges in Hacking Back | Cyber Security Research | [Read More](https://medium.com/p/e6b1ce46b8ba) |
-| Tue, 23 Sep 2025 18:26:48 GMT | The Practical Cloudflare Configuration Guide — Stop Bot Attacks and Prevent Server Overload | Dipu Singh | [Read More](https://medium.com/p/5a0b3a19392b) |
-| Tue, 23 Sep 2025 18:26:24 GMT | Post-Quantum Cryptography: Preparing for the Future | Aj | [Read More](https://medium.com/p/5f50c39a4cd3) |
-| Tue, 23 Sep 2025 18:23:01 GMT | I Wrote An Article That Polarised Medium | Maaya Rive | [Read More](https://medium.com/p/2ae103c9fc92) |
-| Tue, 23 Sep 2025 18:22:17 GMT | Risk Management in Cybersecurity Programs | Cyber Security Research | [Read More](https://medium.com/p/4cc9ed176508) |
-| Tue, 23 Sep 2025 18:17:39 GMT | CSRF Vulnerability Leads to Course DoS | Exploit5lover | [Read More](https://medium.com/p/70809362a7ec) |
-| Tue, 23 Sep 2025 18:17:26 GMT | Getting Started with Kali Linux for Cybersecurity (Beginner’s Guide) | Ytippireddy | [Read More](https://medium.com/p/36e49de3fa11) |
-| Tue, 23 Sep 2025 18:08:28 GMT | Cybersecurity in 2025: Why Businesses Can’t Afford to Ignore It | Priya B | [Read More](https://medium.com/p/90e4608cf658) |
-| Tue, 23 Sep 2025 18:08:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/48e97d91de52) |
-| Tue, 23 Sep 2025 18:05:40 GMT | Cybersecurity in Online Gaming | Cyber Security Research | [Read More](https://medium.com/p/5155b91d7ccf) |
-| Tue, 23 Sep 2025 18:01:52 GMT | LFI + RCE en Node.js, Python y PHP — Laboratorio real paso a paso | Gorka | [Read More](https://medium.com/p/4a3b4f1089c3) |
