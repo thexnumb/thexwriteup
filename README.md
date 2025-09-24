@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 21:05:14 GMT | How One Weak Password Doomed a 158-Year-Old Business | Samuel Tutor | [Read More](https://medium.com/p/9d11a6630ba0) |
+| Wed, 24 Sep 2025 21:01:47 GMT | The Dark Web OSINT Toolkit: Beyond the Search Bar | eRRoR | [Read More](https://medium.com/p/41815db4d75d) |
+| Wed, 24 Sep 2025 20:55:48 GMT | Top 10 Cyber Risks Businesses Face in 2025 - Mitigation Guide | Redkite Network | [Read More](https://medium.com/p/ba2712d62504) |
+| Wed, 24 Sep 2025 20:54:52 GMT | The Great American Betrayal: How H1-B and F1 Visas Enabled $600 Billion Wealth Transfer While… | Colin Bitterfield | [Read More](https://medium.com/p/05a806c3890a) |
+| Wed, 24 Sep 2025 20:49:49 GMT | Why Hiring Security Guards in Calgary Protects Your Business | Nimra Sheikh | [Read More](https://medium.com/p/b28712098706) |
+| Wed, 24 Sep 2025 20:49:28 GMT | 20 Top Monthly Insights — AI Security— September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/3243435d559d) |
+| Wed, 24 Sep 2025 20:44:28 GMT | Open Source SIEM Response Made Simple: Dynamic Endpoint Actions with SOCFortress CoPilot | SOCFortress | [Read More](https://medium.com/p/0d999d082c47) |
+| Wed, 24 Sep 2025 20:43:56 GMT | Postman Flows: The Most Underrated Feature You’re Not Using | Nurlan Guliyev | [Read More](https://medium.com/p/e9346bcd39ec) |
+| Wed, 24 Sep 2025 20:37:30 GMT | Stepping Into the World of Networking & Cybersecurity | Anika | [Read More](https://medium.com/p/8a7daf94ed21) |
 | Wed, 24 Sep 2025 20:34:04 GMT | EMBER2024 Levels Up with CAPA: Bringing Function-Level Behavior into Malware ML | Chris Zhang | [Read More](https://medium.com/p/5a6fcb93a0bf) |
+| Wed, 24 Sep 2025 20:29:43 GMT | Como começar do Zero na área de T.I? | Mariana Narita Benitez | [Read More](https://medium.com/p/8725eb9f7749) |
 | Wed, 24 Sep 2025 20:20:49 GMT | Kenobi: Offensive Pentesting CTF Walkthrough | Samet Senturk | [Read More](https://medium.com/p/74bac2510153) |
 | Wed, 24 Sep 2025 20:19:41 GMT | PG Practice — DVR4 (Windows) | Lepton | [Read More](https://medium.com/p/f96c7d732a8b) |
 | Wed, 24 Sep 2025 20:17:56 GMT | Grup Politikası'na Güvenlikçi Bakış: Active Directory'nin Görünmeyen Gücü | Mertcan Kopruvalı | [Read More](https://medium.com/p/e7a2af81b13f) |
@@ -103,13 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 15:54:48 GMT | Vibe coding 是情境、感覺、直覺還是氛圍開發？How should Vibe Coding be translated: as Context, Feeling, Intuition… | Will 的資安觀測筆記 | [Read More](https://medium.com/p/0a4e2d4710d2) |
 | Wed, 24 Sep 2025 15:50:08 GMT | Make Security Training Engaging | Matthew.Rosenquist | [Read More](https://medium.com/p/56fafa51af67) |
 | Wed, 24 Sep 2025 15:49:28 GMT | Building a Reliable Surveillance Architecture: Redundancy & Failover | Seo Digitalwatchdog | [Read More](https://medium.com/p/d2fe318cddb8) |
-| Wed, 24 Sep 2025 15:45:35 GMT | Active Directory Ports & Protocols — The Real Lifelines | Suhel Kathi | [Read More](https://medium.com/p/7e0dd285df80) |
-| Wed, 24 Sep 2025 15:41:01 GMT | Current Cyber Attack Trends: Supply Chain, Ransomware, APT | Esra Kayhan | [Read More](https://medium.com/p/53a65c2f3c3d) |
-| Wed, 24 Sep 2025 15:27:02 GMT | Cracks in the Silicon ~ Why CPU Vulnerabilities Matter to Everyone | Jonathan Brown | [Read More](https://medium.com/p/b9fd556a728c) |
-| Wed, 24 Sep 2025 15:25:47 GMT | SOC Automation - Home Lab | Smit Thakkar | [Read More](https://medium.com/p/3091fc878a05) |
-| Wed, 24 Sep 2025 15:25:03 GMT | ⚙️Installing & Configuring Proxmox VE for My Cyber Range ️ | Meet Patel | [Read More](https://medium.com/p/434974e66c33) |
-| Wed, 24 Sep 2025 15:22:05 GMT | Enterprise MCP Part 3: Security and Governance | FactSet | [Read More](https://medium.com/p/27ec39380bbe) |
-| Wed, 24 Sep 2025 15:21:46 GMT | Silent Breach Lab Writeup | Jaws | [Read More](https://medium.com/p/f134fb80ad74) |
-| Wed, 24 Sep 2025 15:21:13 GMT | Is it possible to recover my money from Tradevest ? | Graham Walter | [Read More](https://medium.com/p/d15ff3440f85) |
-| Wed, 24 Sep 2025 15:18:07 GMT | Cyber-Physical Risks in Electric Vehicles: Technical Vulnerabilities, Cybersecurity Threats, and… | Nilav M | [Read More](https://medium.com/p/354bc653f723) |
-| Wed, 24 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 24, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/6f484ef6786e) |
