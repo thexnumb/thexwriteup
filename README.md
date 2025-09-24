@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 05:28:29 GMT | Understanding Nation-State Cyber Attacks | Cyber Security Research | [Read More](https://medium.com/p/b460a20fe367) |
+| Wed, 24 Sep 2025 05:21:59 GMT | Artificial Intelligence in Security Operations | Cyber Security Research | [Read More](https://medium.com/p/c95c7348f866) |
+| Wed, 24 Sep 2025 05:17:23 GMT | “Empower Your Cybersecurity Career with GSDC’s Generative AI Certification” | Jackscory | [Read More](https://medium.com/p/1c205be75d78) |
 | Wed, 24 Sep 2025 05:14:18 GMT | AI Agents in Java: Automating Non-Functional Requirements for Secure, Scalable Apps | Comviva MFS Engineering Tech Blog | [Read More](https://medium.com/p/9ea77f9b9485) |
 | Wed, 24 Sep 2025 05:12:15 GMT | Platform Engineering: The New DevOps? Building Internal Developer Platforms to Streamline Workflows | Ishita Kundu | [Read More](https://medium.com/p/59280d596548) |
+| Wed, 24 Sep 2025 05:10:16 GMT | Remote Hacking in SSC CGL 2025: Legal, Technical & Safety Guide | Ashish Agrawal | [Read More](https://medium.com/p/22f6361c1502) |
 | Wed, 24 Sep 2025 05:07:54 GMT | API Pentesting Part-2: Replay Attack- No Expiry on Authentication Headers (HMAC SHA-256) | Blue_eye | [Read More](https://medium.com/p/dd619b52cdc7) |
 | Wed, 24 Sep 2025 05:05:02 GMT | Benefits of ISO Certification For an IT Company | Sqccertification | [Read More](https://medium.com/p/bb0c1640d68a) |
 | Wed, 24 Sep 2025 05:01:52 GMT | What Are the Long-Term Benefits of Integrating AI-Based Protection Into IT Systems? | Modern Security | [Read More](https://medium.com/p/0bfdcec3a74a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 19:34:34 GMT | Siber Saldırıların Yapay Zeka İle Tespiti?! | Technoblog | [Read More](https://medium.com/p/b1dd8c68fe24) |
 | Tue, 23 Sep 2025 19:30:14 GMT | Driving Business Efficiency Through Connectivity, Cost Management, and Compliance | Defend My Business | [Read More](https://medium.com/p/f26f8859d349) |
 | Tue, 23 Sep 2025 19:16:13 GMT | Designing AI Interfaces for Security Analysts (Without Driving Them Crazy) | Ayushi | [Read More](https://medium.com/p/253d61b9860e) |
-| Tue, 23 Sep 2025 19:12:48 GMT | The Hidden Power of Python Context Managers in Real Projects | Kainat Nafees | [Read More](https://medium.com/p/92991b290a07) |
-| Tue, 23 Sep 2025 18:59:51 GMT | Trends, Opportunities, and Challenges in the Fintech Industry | Switch Software | [Read More](https://medium.com/p/3b3e254fb5c8) |
-| Tue, 23 Sep 2025 18:59:18 GMT | “From Fiber to App: Unraveling the 7 OSI Layers for the Future-Minded Netizen” | Logic And Life | [Read More](https://medium.com/p/f6d49b4ef05e) |
-| Tue, 23 Sep 2025 18:57:33 GMT | Snyk vs SonarQube: Security and Quality for Your Applications | TenXers | [Read More](https://medium.com/p/6bf5821a3fd1) |
