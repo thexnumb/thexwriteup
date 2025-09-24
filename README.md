@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 13:26:07 GMT | Breaking the expectations of who we thought to be | Waking Up the Subconscious Mind | [Read More](https://medium.com/p/85f4810af0f1) |
+| Wed, 24 Sep 2025 13:21:49 GMT | The Ultimate Guide to Preventing Authorization Bypass via Cache Flaws | Ibtissam hammadi | [Read More](https://medium.com/p/4d8dbd27216a) |
+| Wed, 24 Sep 2025 13:19:25 GMT | Multiple Likes : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/a3dd91037fa5) |
+| Wed, 24 Sep 2025 13:19:15 GMT | eJPT — 3.1 System/Host Based Attacks | Dharmendrakumar | [Read More](https://medium.com/p/956cfbe914bb) |
+| Wed, 24 Sep 2025 13:15:36 GMT | This Hidden Site Offers FREE Cybersecurity Courses | Shahzaib | [Read More](https://medium.com/p/1a69c6810960) |
+| Wed, 24 Sep 2025 13:12:32 GMT | Footprinting Databases: MySQL, MSSQL & Oracle— A Practical Guide for Pentesters | Horrow | [Read More](https://medium.com/p/7e3d863a475f) |
+| Wed, 24 Sep 2025 13:11:09 GMT | If your work disappeared tomorrow… would anyone notice? | Ian Kiprono | [Read More](https://medium.com/p/bc071583a8b1) |
+| Wed, 24 Sep 2025 13:10:31 GMT | Putin’s Worst Digital Nightmare: Ukraine’s Hackers Expose Crimea’s Child Abduction Files | Bogdan Ilyin | [Read More](https://medium.com/p/f8cb3b1ed2b9) |
+| Wed, 24 Sep 2025 13:09:06 GMT | Zebrank Custom web application development Hyderabad | Softwarezebrank | [Read More](https://medium.com/p/65aab997c87e) |
+| Wed, 24 Sep 2025 13:08:26 GMT | From Phishing to Network Anomalies: Exploring Machine Learning in Cybersecurity | Rebecca Ssesanga | [Read More](https://medium.com/p/c46409e9c5ae) |
+| Wed, 24 Sep 2025 13:05:10 GMT | What is GaN Technology? How does it work? | Sannai Technology | [Read More](https://medium.com/p/323fffaae10d) |
+| Wed, 24 Sep 2025 13:02:45 GMT | CyberSecurity: My New Chapter | Oluwadamilare Adeosun | [Read More](https://medium.com/p/10ed93615147) |
+| Wed, 24 Sep 2025 13:01:49 GMT | GDPR in 2025 — Why It Still Matters and How to Stay Updated | Josh Lee | [Read More](https://medium.com/p/7503469b8642) |
+| Wed, 24 Sep 2025 12:56:38 GMT | Building Our Own File Upload System: Why We Replaced FileStack with Uppy, UCS, and GCS | Bluetick Consultants Inc. | [Read More](https://medium.com/p/f4894ca2faf3) |
+| Wed, 24 Sep 2025 12:55:38 GMT | Establish a Strong IT Foundation with Cybersecurity Fundamentals Certification | Niyakohli | [Read More](https://medium.com/p/7fce3fa0dc32) |
+| Wed, 24 Sep 2025 12:54:38 GMT | Building a Data Security Function | A.I Hub | [Read More](https://medium.com/p/f3e398f88327) |
+| Wed, 24 Sep 2025 12:54:21 GMT | Cyber Briefing: 2025.09.17 | CyberMaterial | [Read More](https://medium.com/p/3ab1c958ee59) |
+| Wed, 24 Sep 2025 12:52:35 GMT | AI-Enhanced Data Security for Healthcare SaaS Platforms | KodekX | [Read More](https://medium.com/p/2dd16518a592) |
+| Wed, 24 Sep 2025 12:50:15 GMT | A Shift in Cybersecurity Validation: What the Withdrawal from MITRE ATT&CK Evaluations Really Means | Rommel Jay Gadil | [Read More](https://medium.com/p/9b82f514eff9) |
+| Wed, 24 Sep 2025 12:49:48 GMT | Deep Dive: Zero Trust Security Model on AWS | Davebhargavi | [Read More](https://medium.com/p/0fab209d3e16) |
+| Wed, 24 Sep 2025 12:46:05 GMT | Kubernetes Security Book (2nd Edition) — A Synthesis | Alain Airom (Ayrom) | [Read More](https://medium.com/p/4372fbc7c3d8) |
 | Wed, 24 Sep 2025 12:37:53 GMT | Your breezy handbook to digital privacy tools | Scorpius | [Read More](https://medium.com/p/3cbe42ee1331) |
 | Wed, 24 Sep 2025 12:35:20 GMT | My bug bounty methodology | 0xBruno | [Read More](https://medium.com/p/84570a9f4a16) |
 | Wed, 24 Sep 2025 12:32:36 GMT | SOC Home Lab on One Laptop: Configuring Internal Networking in VirtualBox | Akshatdwivedi | [Read More](https://medium.com/p/8fd761a77603) |
@@ -93,24 +114,3 @@ In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69c
 | Wed, 24 Sep 2025 09:09:34 GMT | Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt | Danish Ahmed | [Read More](https://medium.com/p/3f188f6ce4d1) |
 | Wed, 24 Sep 2025 09:09:27 GMT | What to Expect During an ERP or CRM Demo: A Buyer’s Checklist | Erpone | [Read More](https://medium.com/p/64e713868dfe) |
 | Wed, 24 Sep 2025 08:57:47 GMT | AI-Powered Documentation: 15 Tools for Security Report Generation | Andrei Ivan | [Read More](https://medium.com/p/05663f66d655) |
-| Wed, 24 Sep 2025 08:56:33 GMT | Telehealth Kiosks: A Lifeline for Rural and Underserved Areas | Rakesh | [Read More](https://medium.com/p/92db89220a4e) |
-| Wed, 24 Sep 2025 08:53:58 GMT | Learn how to set up Entra ID phishing-resistant MFA | Mark O | [Read More](https://medium.com/p/a4bf695a7b33) |
-| Wed, 24 Sep 2025 08:46:14 GMT | ‘Imminent Threat’ Near UN? What Really Happens Behind the Scenes | Truspex | [Read More](https://medium.com/p/12bd63260480) |
-| Wed, 24 Sep 2025 08:39:53 GMT | ประจำวันพุธที่ 24 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/89663a5fa343) |
-| Wed, 24 Sep 2025 08:28:52 GMT | The Pain of Poor Alarm Response | Metropolitan Security Services | [Read More](https://medium.com/p/768133d660cb) |
-| Wed, 24 Sep 2025 08:19:33 GMT | The Best Cheap Linux Server Options for Startups in 2025 | Andy | [Read More](https://medium.com/p/c9ffd002265e) |
-| Wed, 24 Sep 2025 08:08:21 GMT | When AI Becomes the Hacker: The Rise of LLM-Powered Malware | Udara Sandakelum | [Read More](https://medium.com/p/285de325cc8a) |
-| Wed, 24 Sep 2025 08:06:13 GMT | How Water Is Threatening Global Peace | Julien | [Read More](https://medium.com/p/229bc8aa0cda) |
-| Wed, 24 Sep 2025 08:06:01 GMT | CyberDefenders Danabot Lab | Jackie Huang | [Read More](https://medium.com/p/0686ee72cd4e) |
-| Wed, 24 Sep 2025 08:05:26 GMT | Try-Hack-Me {CTF} RootMe | Arka Priya Das | [Read More](https://medium.com/p/12a8cdefef94) |
-| Wed, 24 Sep 2025 08:01:56 GMT | Golden AMIs with Packer and CIS Hardening: Automate Secure Images | Mohamed ElEmam | [Read More](https://medium.com/p/bca42a7d1124) |
-| Wed, 24 Sep 2025 08:01:55 GMT | [Part 6] How AI Detects Threats Before Humans Do: Explained Simply | Cyberkech | [Read More](https://medium.com/p/7940abcced2e) |
-| Wed, 24 Sep 2025 08:00:22 GMT | Palo Alto Networks Security Information and Event Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/327614cbcb01) |
-| Wed, 24 Sep 2025 07:59:43 GMT | Why The UK Global Talent Visa Is The Best Choice for Cybersecurity Professionals in 2025 and beyond | Taimur Ijlal | [Read More](https://medium.com/p/d603860d3157) |
-| Wed, 24 Sep 2025 07:58:08 GMT | The Vulnerability Remediation Process: From Detection to Resolution | Qualysec | [Read More](https://medium.com/p/c561137c4b86) |
-| Wed, 24 Sep 2025 07:56:16 GMT | CyberDefenders Beta Gamer Lab Timeline | Jackie Huang | [Read More](https://medium.com/p/ecb8a6b0381e) |
-| Wed, 24 Sep 2025 07:54:27 GMT | The Magic of Python Decorators I Wish I Knew Earlier | Kainat Nafees | [Read More](https://medium.com/p/015e7e140ddb) |
-| Wed, 24 Sep 2025 07:48:59 GMT | How a Security Guard Company Can Protect Businesses, Events, and Communities | Fss | [Read More](https://medium.com/p/087707451cf6) |
-| Wed, 24 Sep 2025 07:48:32 GMT | DockerLabs Writeup — Rubiks (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fa6ec72b29f8) |
-| Wed, 24 Sep 2025 07:48:01 GMT | Stay Compliant with Apple MDM Software Solutions | Vantage MDM | [Read More](https://medium.com/p/064e051ee7e0) |
-| Wed, 24 Sep 2025 07:38:54 GMT | From Threat to Advantage: Leading with Cyber Intelligence | Prerna Shukla | [Read More](https://medium.com/p/f63f7c2cdee6) |
