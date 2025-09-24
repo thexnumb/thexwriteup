@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 06:26:36 GMT | 9 Costly JWT Mistakes Putting Your Users at Risk | Vaishnavi Kengale | [Read More](https://medium.com/p/27dfb7b99f82) |
+| Wed, 24 Sep 2025 06:24:53 GMT | Top 10 Cyber Attacks in the World | Manisha Chaudhary | [Read More](https://medium.com/p/82f2cb844bf7) |
+| Wed, 24 Sep 2025 06:24:43 GMT | Mastering Container Security: The Complete Guide to Trivy Integration in CI/CD Pipelines | Salwan Mohamed | [Read More](https://medium.com/p/c7c2e9f04020) |
+| Wed, 24 Sep 2025 06:23:21 GMT | Security and Permission Management in Jira | Erdem UÇAK | [Read More](https://medium.com/p/04d576a2e920) |
+| Wed, 24 Sep 2025 06:22:13 GMT | Email Phishing Simulation Services for Modern Business | Noahlucas | [Read More](https://medium.com/p/a9a0777879a0) |
+| Wed, 24 Sep 2025 06:21:46 GMT | HAProxy SNI Proxy Implementation: The Complete Setup Guide | Dipu Singh | [Read More](https://medium.com/p/38cd95285a59) |
+| Wed, 24 Sep 2025 06:19:53 GMT | How to Secure AKS: Quick Wins to Long-Term Fixes | Sauradipta | [Read More](https://medium.com/p/01a1e9012a21) |
+| Wed, 24 Sep 2025 06:17:47 GMT | Authentication & Authorization: Understanding OAuth and JWT | Johan L | [Read More](https://medium.com/p/4dbe67464a0a) |
+| Wed, 24 Sep 2025 06:12:38 GMT | Linux Security Cookbook | Eren Cankut Uysal | [Read More](https://medium.com/p/d213886e921b) |
+| Wed, 24 Sep 2025 06:11:51 GMT | Expert Cyber Security for Schools | Cyberfox | [Read More](https://medium.com/p/1b021c7898e2) |
+| Wed, 24 Sep 2025 06:11:47 GMT | How One Line of HTML Crashed a $10 Million Startup | Rizqi Mulki | [Read More](https://medium.com/p/68da404ba71f) |
+| Wed, 24 Sep 2025 06:10:58 GMT | Build a Command-Line Style Webpage in Minutes | Balki Maharaj | [Read More](https://medium.com/p/b95a18879858) |
+| Wed, 24 Sep 2025 06:10:51 GMT | One line script for installation of sqlplus | Cataholic | [Read More](https://medium.com/p/60756b381ab3) |
+| Wed, 24 Sep 2025 06:01:14 GMT | Operationalizing AI Accountability: Making AI Systems Responsible in Practice | Rachana Gupta | [Read More](https://medium.com/p/f31a5dd5d5b9) |
+| Wed, 24 Sep 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Sep 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/377344600382) |
+| Wed, 24 Sep 2025 06:00:13 GMT | Logs Don’t Lie: Why Every Cybersecurity Professional Must Learn to Read Them | Yogendra Jain | [Read More](https://medium.com/p/61b1a455a62f) |
+| Wed, 24 Sep 2025 05:59:08 GMT | Security Challenges of Remote Collaboration Tools | Cyber Security Research | [Read More](https://medium.com/p/cf1b73725aaf) |
+| Wed, 24 Sep 2025 05:57:48 GMT | How to Set Up TP-Link Archer T3U Plus on Windows & Kali Linux (Beginner-Friendly Cybersecurity… | Vishnu prasad | [Read More](https://medium.com/p/59a414df7902) |
+| Wed, 24 Sep 2025 05:56:21 GMT | AI-Enhanced Phishing | Shailendra Kumar | [Read More](https://medium.com/p/000d93015bc1) |
+| Wed, 24 Sep 2025 05:55:32 GMT | TOP SEO AGENCY IN LAXMI NAGAR, DELHI NCR | Shubham | [Read More](https://medium.com/p/c714223e4985) |
+| Wed, 24 Sep 2025 05:53:23 GMT | Securing Distributed Systems | Cyber Security Research | [Read More](https://medium.com/p/a40cb13f3177) |
+| Wed, 24 Sep 2025 05:50:52 GMT | Why Managed Compliance Services Are Essential for Modern Businesses | chiranjeevi k | [Read More](https://medium.com/p/d307c6beb176) |
+| Wed, 24 Sep 2025 05:50:40 GMT | Microsoft 365 Defender’ın “Vulnerabilities have public disclosed exploit” ile“Vulnerabilities have… | Hasan Gökhan ŞAHİN | [Read More](https://medium.com/p/d377cd2e3de4) |
+| Wed, 24 Sep 2025 05:43:25 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/a9e76476da4c) |
 | Wed, 24 Sep 2025 05:28:29 GMT | Understanding Nation-State Cyber Attacks | Cyber Security Research | [Read More](https://medium.com/p/b460a20fe367) |
 | Wed, 24 Sep 2025 05:21:59 GMT | Artificial Intelligence in Security Operations | Cyber Security Research | [Read More](https://medium.com/p/c95c7348f866) |
 | Wed, 24 Sep 2025 05:17:23 GMT | “Empower Your Cybersecurity Career with GSDC’s Generative AI Certification” | Jackscory | [Read More](https://medium.com/p/1c205be75d78) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 22:31:54 GMT | I Lost My Crypto Wallet — Here’s How I Got It Back! WhatsApp +14042456415 | Aaron Dash | [Read More](https://medium.com/p/dc400ce396be) |
 | Tue, 23 Sep 2025 22:12:51 GMT | The Future of Home & Business Security: Smart Cameras, Access Control, and Intercom Systems… | Marksjoe | [Read More](https://medium.com/p/ae95fc309b07) |
 | Tue, 23 Sep 2025 21:48:46 GMT | LFI (File Inclusion) Nedir ? | Azat Dicle | [Read More](https://medium.com/p/34a61866bc95) |
-| Tue, 23 Sep 2025 21:44:14 GMT | CyberDefender’s Insider Lab using FTK imager | Adewale Ayomide | [Read More](https://medium.com/p/8197a3268330) |
-| Tue, 23 Sep 2025 21:37:51 GMT | GCP’s Hidden Security Feature  VPC Service Controls Explained | Cloud Security Masterclass | [Read More](https://medium.com/p/7782bce038e7) |
-| Tue, 23 Sep 2025 21:27:45 GMT | Cybersecurity Beyond Software Flaws: My Take on Jen Easterly’s Talk in Jacksonville | Wesley Belleman | [Read More](https://medium.com/p/ac22cd2a932e) |
-| Tue, 23 Sep 2025 21:21:00 GMT | Day 7 — Uncovering Hidden Vulnerabilities with Nikto: A Beginner’s Guide | OxErvin | [Read More](https://medium.com/p/873b52a5e3f2) |
-| Tue, 23 Sep 2025 21:05:38 GMT | Phishing Has a New Enemy: Inside AegisAI’s Multi-Agent Email Guard | Chris Zhang | [Read More](https://medium.com/p/43cf313d5ac0) |
-| Tue, 23 Sep 2025 21:02:53 GMT | ShadowLeak and the Strategic Fragility of AI Leadership | Jason Connerty | [Read More](https://medium.com/p/bfafededffe1) |
-| Tue, 23 Sep 2025 20:57:46 GMT | Who Else Knows your iPhone/iPad Passcode But You? | Maria Orms | [Read More](https://medium.com/p/77d275ec581b) |
-| Tue, 23 Sep 2025 20:54:38 GMT | GoldenEye writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/dbef6fc14eb3) |
-| Tue, 23 Sep 2025 20:43:24 GMT | How Commercial Security Guards Protect Your Business and Assets | Nimra Sheikh | [Read More](https://medium.com/p/ca1b64c22846) |
-| Tue, 23 Sep 2025 20:37:48 GMT | Top AI Security Videos — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/c7288c0092a9) |
-| Tue, 23 Sep 2025 20:21:11 GMT | Why Professional Warehouse Security Guards Are Essential for Your Business | Nimra Sheikh | [Read More](https://medium.com/p/18f322f95d4f) |
-| Tue, 23 Sep 2025 20:09:06 GMT | The Crimeware Supply Chain | Deniz Topaloglu | [Read More](https://medium.com/p/3575f00480b4) |
-| Tue, 23 Sep 2025 20:08:33 GMT | The best approach to becoming a Pentester Specialist | Richard Wollyce | [Read More](https://medium.com/p/74891403a7fd) |
-| Tue, 23 Sep 2025 20:02:34 GMT | Attacks Without Attacks: The New Frontier of Cyber Risk | Andre Fernandes | [Read More](https://medium.com/p/16a775b916e2) |
-| Tue, 23 Sep 2025 20:02:25 GMT | Stop Using Your Dog’s Name: Why You Need a Random Password Generator (and How to Use One) | Tim_Idd | [Read More](https://medium.com/p/f797c4932e80) |
-| Tue, 23 Sep 2025 19:58:16 GMT | Boeing Defense, Space & Security Partners with Palantir to Accelerate AI Adoption Across Defense | Marcello Strano | [Read More](https://medium.com/p/cef7979abb62) |
-| Tue, 23 Sep 2025 19:56:45 GMT | How to Survive the Next Wave of Cybersecurity Layoffs | Aaron | [Read More](https://medium.com/p/534c174a55a2) |
-| Tue, 23 Sep 2025 19:52:25 GMT | Why Do 97% of Companies Need to Upgrade Security Infrastructure Now | Grant Gamble | [Read More](https://medium.com/p/170ac2c102fa) |
-| Tue, 23 Sep 2025 19:45:22 GMT | Digital Forensics Skills Assessment | Luke | [Read More](https://medium.com/p/86739ec3ad37) |
-| Tue, 23 Sep 2025 19:41:46 GMT | [Part 6] The CRA and Supply Chain Cybersecurity | Cyberkech | [Read More](https://medium.com/p/cc302aa55cd1) |
-| Tue, 23 Sep 2025 19:37:50 GMT | Linux Security Essentials Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/412a16b30a52) |
-| Tue, 23 Sep 2025 19:34:34 GMT | Siber Saldırıların Yapay Zeka İle Tespiti?! | Technoblog | [Read More](https://medium.com/p/b1dd8c68fe24) |
-| Tue, 23 Sep 2025 19:30:14 GMT | Driving Business Efficiency Through Connectivity, Cost Management, and Compliance | Defend My Business | [Read More](https://medium.com/p/f26f8859d349) |
-| Tue, 23 Sep 2025 19:16:13 GMT | Designing AI Interfaces for Security Analysts (Without Driving Them Crazy) | Ayushi | [Read More](https://medium.com/p/253d61b9860e) |
