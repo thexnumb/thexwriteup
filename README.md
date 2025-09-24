@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 08:28:52 GMT | The Pain of Poor Alarm Response | Metropolitan Security Services | [Read More](https://medium.com/p/768133d660cb) |
 | Wed, 24 Sep 2025 08:19:33 GMT | The Best Cheap Linux Server Options for Startups in 2025 | Andy | [Read More](https://medium.com/p/c9ffd002265e) |
 | Wed, 24 Sep 2025 08:08:21 GMT | When AI Becomes the Hacker: The Rise of LLM-Powered Malware | Udara Sandakelum | [Read More](https://medium.com/p/285de325cc8a) |
 | Wed, 24 Sep 2025 08:06:13 GMT | How Water Is Threatening Global Peace | Julien | [Read More](https://medium.com/p/229bc8aa0cda) |
@@ -86,13 +87,16 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 05:53:23 GMT | Securing Distributed Systems | Cyber Security Research | [Read More](https://medium.com/p/a40cb13f3177) |
 | Wed, 24 Sep 2025 05:50:52 GMT | Why Managed Compliance Services Are Essential for Modern Businesses | chiranjeevi k | [Read More](https://medium.com/p/d307c6beb176) |
 | Wed, 24 Sep 2025 05:50:40 GMT | Microsoft 365 Defender’ın “Vulnerabilities have public disclosed exploit” ile“Vulnerabilities have… | Hasan Gökhan ŞAHİN | [Read More](https://medium.com/p/d377cd2e3de4) |
+| Wed, 24 Sep 2025 05:46:29 GMT | Deep Learning for Cybersecurity Applications | Cyber Security Research | [Read More](https://medium.com/p/043188e625b6) |
 | Wed, 24 Sep 2025 05:43:25 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/a9e76476da4c) |
 | Wed, 24 Sep 2025 05:28:29 GMT | Understanding Nation-State Cyber Attacks | Cyber Security Research | [Read More](https://medium.com/p/b460a20fe367) |
 | Wed, 24 Sep 2025 05:21:59 GMT | Artificial Intelligence in Security Operations | Cyber Security Research | [Read More](https://medium.com/p/c95c7348f866) |
 | Wed, 24 Sep 2025 05:17:23 GMT | “Empower Your Cybersecurity Career with GSDC’s Generative AI Certification” | Jackscory | [Read More](https://medium.com/p/1c205be75d78) |
+| Wed, 24 Sep 2025 05:15:38 GMT | Cybersecurity Challenges in Smart Factories | Cyber Security Research | [Read More](https://medium.com/p/72c0f0b4c83d) |
 | Wed, 24 Sep 2025 05:14:18 GMT | AI Agents in Java: Automating Non-Functional Requirements for Secure, Scalable Apps | Comviva MFS Engineering Tech Blog | [Read More](https://medium.com/p/9ea77f9b9485) |
 | Wed, 24 Sep 2025 05:12:15 GMT | Platform Engineering: The New DevOps? Building Internal Developer Platforms to Streamline Workflows | Ishita Kundu | [Read More](https://medium.com/p/59280d596548) |
 | Wed, 24 Sep 2025 05:10:16 GMT | Remote Hacking in SSC CGL 2025: Legal, Technical & Safety Guide | Ashish Agrawal | [Read More](https://medium.com/p/22f6361c1502) |
+| Wed, 24 Sep 2025 05:08:26 GMT | Cybersecurity in Autonomous Drones | Cyber Security Research | [Read More](https://medium.com/p/9675317300c6) |
 | Wed, 24 Sep 2025 05:07:54 GMT | API Pentesting Part-2: Replay Attack- No Expiry on Authentication Headers (HMAC SHA-256) | Blue_eye | [Read More](https://medium.com/p/dd619b52cdc7) |
 | Wed, 24 Sep 2025 05:05:02 GMT | Benefits of ISO Certification For an IT Company | Sqccertification | [Read More](https://medium.com/p/bb0c1640d68a) |
 | Wed, 24 Sep 2025 05:01:52 GMT | What Are the Long-Term Benefits of Integrating AI-Based Protection Into IT Systems? | Modern Security | [Read More](https://medium.com/p/0bfdcec3a74a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 04:36:39 GMT | Frontend Security Practices Every Engineer Should Know | Ram Krishnan | [Read More](https://medium.com/p/e7d345adb57c) |
 | Wed, 24 Sep 2025 04:33:47 GMT | A Fresher’s Guide to OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/925ff43f6b73) |
 | Wed, 24 Sep 2025 04:30:25 GMT | Cloudbric Mask Service Launch for Public Use Completed | Cloudbric | [Read More](https://medium.com/p/68ab996950c6) |
-| Wed, 24 Sep 2025 04:29:09 GMT | 영상/사진 비식별화 서비스(Cloudbric Mask) 개발 완료 | Cloudbric | [Read More](https://medium.com/p/32e97108dadc) |
-| Wed, 24 Sep 2025 04:17:48 GMT | DNS Explained: The Internet’s Phonebook You Didn’t Know You Use Everyday | Sumit Sah | [Read More](https://medium.com/p/c8ad2f8291e5) |
-| Wed, 24 Sep 2025 04:10:06 GMT | 5 Quantum Shifts Your Industry Isn’t Ready For | Nexumo | [Read More](https://medium.com/p/ed1e131cdd55) |
-| Wed, 24 Sep 2025 04:08:25 GMT | How I Caught a Hacker in Real Time And the Scary Part Nobody Talks About | Arfa | [Read More](https://medium.com/p/4fdb6d840c93) |
