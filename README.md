@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 23:07:10 GMT | Privilege Escalation: Member Role Can Change Organization Name and Photo | HBlack Ghost | [Read More](https://medium.com/p/702e00786a42) |
+| Wed, 24 Sep 2025 22:58:25 GMT | Blog — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/71f900135b21) |
 | Wed, 24 Sep 2025 22:04:06 GMT | Hiding in Plain Sight: Steganography, C2, and SVG Files | Tom O'Neill | [Read More](https://medium.com/p/567df7ceea20) |
 | Wed, 24 Sep 2025 21:46:05 GMT | Why Microsoft 365 Has Become The Greatest Risk | Samuel Tutor | [Read More](https://medium.com/p/e34d19252089) |
 | Wed, 24 Sep 2025 21:45:23 GMT | Cybersecurity Career Transition: From IT to OT | Digital & Spiritual | [Read More](https://medium.com/p/9d2ff999d7e6) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 16:06:16 GMT | Após ataques que somam US$ 2,5 bilhões, CertiK
 prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://medium.com/p/53ccf9a15baa) |
 | Wed, 24 Sep 2025 16:04:17 GMT | SoloSoft Solutions — Innovating Technology for a Smarter Future | Mohamed Shihabudheen | [Read More](https://medium.com/p/948a3cfa65e2) |
-| Wed, 24 Sep 2025 16:02:12 GMT | 7 Red Flags of a Fraudulent Survey Site You Can’t Afford to Ignore | Stephon Anderson | [Read More](https://medium.com/p/4f816a482cb9) |
-| Wed, 24 Sep 2025 16:02:04 GMT | Easier Said Than Done | Shamilah B | [Read More](https://medium.com/p/b76891c38298) |
