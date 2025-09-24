@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 18:16:48 GMT | Why Your “Flaws” Are Actually Your Superpower | Asma | [Read More](https://medium.com/p/c5277edfd732) |
+| Wed, 24 Sep 2025 18:15:38 GMT | Talos and Oasis Are Building a new era of on-chain intelligence. | Blockchainer | [Read More](https://medium.com/p/18d94c51ed1b) |
+| Wed, 24 Sep 2025 18:13:57 GMT | THE INTER(r)NET: A CONNECT TO THE DISCONNECT INTRODUCTION: THE DAWN OF DIGITAL MYTHOS | Edward Maxus I Kiweewa | [Read More](https://medium.com/p/52fe377cc600) |
+| Wed, 24 Sep 2025 18:11:47 GMT | Top 5 Cloud Security Risks In 2025: How To Protect Your Business In The Cloud | Lumiversesolution | [Read More](https://medium.com/p/c1b9e452f0c8) |
+| Wed, 24 Sep 2025 18:08:30 GMT | AWS SHARED RESPONSIBILITY MODEL. | Akefe Samuel | [Read More](https://medium.com/p/db54f2659c67) |
+| Wed, 24 Sep 2025 18:08:29 GMT | THM - Investigating with Splunk | Francesco Pastore | [Read More](https://medium.com/p/f1d4db74ca4c) |
+| Wed, 24 Sep 2025 18:02:12 GMT | Comunidad Discord Pentesting y Bug Bounty | Gorka | [Read More](https://medium.com/p/b51c9cd322b4) |
+| Wed, 24 Sep 2025 18:02:12 GMT | Why Incident Response in OT is Different from IT | Cyberkech | [Read More](https://medium.com/p/f8790e5fea13) |
+| Wed, 24 Sep 2025 17:56:23 GMT | The 5-Minute Guide to Token Renewal: Don’t Get Caught in a Security Trap | Umesh Kumar Yadav | [Read More](https://medium.com/p/badc570db97a) |
+| Wed, 24 Sep 2025 17:46:56 GMT | Bypassing the Recruiter Firewall | JMP ESP FF E4 | [Read More](https://medium.com/p/782a5ca8f671) |
+| Wed, 24 Sep 2025 17:44:53 GMT | Freedom or Security? Why Governments Always Ask Us to Choose! | Ms Krys | [Read More](https://medium.com/p/65d6985f9823) |
+| Wed, 24 Sep 2025 17:44:13 GMT | Zero-Retention Software Shields Banks from 2025 AI Cyber Threats | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/45e7ad87d903) |
+| Wed, 24 Sep 2025 17:41:48 GMT | Multer in Node.js: It’s more than File Uploads | Vishesh Verma | [Read More](https://medium.com/p/af27b5045c47) |
 | Wed, 24 Sep 2025 17:24:00 GMT | Cloud Computing: Mengenal Model Layanan (IaaS, PaaS, dan SaaS) | Muhammad Surya Saputro | [Read More](https://medium.com/p/1444cea5c327) |
 | Wed, 24 Sep 2025 17:23:20 GMT | Drones Paralyze Copenhagen, Russian Fighter Over German NATO Ship | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/741bf2af0db4) |
 | Wed, 24 Sep 2025 17:14:09 GMT | The Hidden Problems in the UK Security Industry: A Ghostwriter’s Perspective | Usman Zafar | [Read More](https://medium.com/p/b32e0f647ce1) |
@@ -100,16 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 13:59:53 GMT | How can I withdraw my money from investrixhub ? | Nicole James | [Read More](https://medium.com/p/08f3aa23ec55) |
 | Wed, 24 Sep 2025 13:59:14 GMT | Cheyanne Mallas: Envisioning the Future of Cybersecurity Project Management in 2035 | Cheyanne Mallas | [Read More](https://medium.com/p/789d99fc4370) |
 | Wed, 24 Sep 2025 13:53:56 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Konfigurasi DNS Server & Zone Management… | Muhammad Surya Saputro | [Read More](https://medium.com/p/fbff47402094) |
-| Wed, 24 Sep 2025 13:51:58 GMT | ASCWG CTF competition Finals Digital Forensics Writeup | 0xZew | [Read More](https://medium.com/p/6f53b4e3562d) |
-| Wed, 24 Sep 2025 13:46:23 GMT | The Penetration Tester’s Hidden Cache: 15 Underused Security Tools | Andrei Ivan | [Read More](https://medium.com/p/79937fc8dbee) |
-| Wed, 24 Sep 2025 13:38:01 GMT | Preparing for the Quantum-Safe Future | Dr. Biraja Ghoshal | [Read More](https://medium.com/p/3d2558794370) |
-| Wed, 24 Sep 2025 13:33:40 GMT | I Benchmarked 7 AI Coding Tools: Only 2 Didn’t Leak My API Keys. | R A N A   A H M A D | [Read More](https://medium.com/p/e9a4db7f93ec) |
-| Wed, 24 Sep 2025 13:26:38 GMT | I will write a professional resume for application security engineer, risk manager | Azeezat Akinbile | [Read More](https://medium.com/p/9b4fb4e4e87c) |
-| Wed, 24 Sep 2025 13:26:07 GMT | Breaking the expectations of who we thought to be | Waking Up the Subconscious Mind | [Read More](https://medium.com/p/85f4810af0f1) |
-| Wed, 24 Sep 2025 13:21:49 GMT | The Ultimate Guide to Preventing Authorization Bypass via Cache Flaws | Ibtissam hammadi | [Read More](https://medium.com/p/4d8dbd27216a) |
-| Wed, 24 Sep 2025 13:19:25 GMT | Multiple Likes : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/a3dd91037fa5) |
-| Wed, 24 Sep 2025 13:19:15 GMT | eJPT — 3.1 System/Host Based Attacks | Dharmendrakumar | [Read More](https://medium.com/p/956cfbe914bb) |
-| Wed, 24 Sep 2025 13:15:36 GMT | This Hidden Site Offers FREE Cybersecurity Courses | Shahzaib | [Read More](https://medium.com/p/1a69c6810960) |
-| Wed, 24 Sep 2025 13:12:32 GMT | Footprinting Databases: MySQL, MSSQL & Oracle— A Practical Guide for Pentesters | Horrow | [Read More](https://medium.com/p/7e3d863a475f) |
-| Wed, 24 Sep 2025 13:11:09 GMT | If your work disappeared tomorrow… would anyone notice? | Ian Kiprono | [Read More](https://medium.com/p/bc071583a8b1) |
-| Wed, 24 Sep 2025 13:10:31 GMT | Putin’s Worst Digital Nightmare: Ukraine’s Hackers Expose Crimea’s Child Abduction Files | Bogdan Ilyin | [Read More](https://medium.com/p/f8cb3b1ed2b9) |
