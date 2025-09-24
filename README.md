@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 07:37:09 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal… | Blackbox | [Read More](https://medium.com/p/670be13933e1) |
+| Wed, 24 Sep 2025 07:31:52 GMT | The Daily Tech Digest: 24 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e85717c9419c) |
+| Wed, 24 Sep 2025 07:31:06 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/6f127c09d00b) |
+| Wed, 24 Sep 2025 07:31:06 GMT | Critical AI Infrastructure Security Threat: Reproducing and Detecting the NVIDIA Triton Critical… | Qubit | [Read More](https://medium.com/p/d03d927023dc) |
+| Wed, 24 Sep 2025 07:25:44 GMT | Fortify the Future: Top AI Security Solutions Businesses Need in 2025 | Valorem Reply | [Read More](https://medium.com/p/f4145f8a0aec) |
+| Wed, 24 Sep 2025 07:24:45 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/c7680aaa88e1) |
+| Wed, 24 Sep 2025 07:18:52 GMT | Linux Security Incident Response | Eren Cankut Uysal | [Read More](https://medium.com/p/49e774da8e19) |
+| Wed, 24 Sep 2025 07:18:31 GMT | wafw00f: The Pentester’s Guide to WAF Detection | Vivek Bhatt | [Read More](https://medium.com/p/2eae167c2212) |
 | Wed, 24 Sep 2025 07:17:46 GMT | The Role of AI in Fighting Cybercrime | Aly | [Read More](https://medium.com/p/0c2ad3ab1848) |
 | Wed, 24 Sep 2025 07:16:49 GMT | The Daily Tech Digest: 23 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2be7914d8c40) |
 | Wed, 24 Sep 2025 07:16:24 GMT | The Digital Gold Rush of 2025: Why Python, Cloud, Blockchain, Cybersecurity & AI Are Reshaping… | JetkingChandigarh | [Read More](https://medium.com/p/1ab1b6435ec8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 03:04:19 GMT | Future of money and the internet | Jane | [Read More](https://medium.com/p/221aed5cacd3) |
 | Wed, 24 Sep 2025 02:47:32 GMT | Why Cybersecurity Talent Shortage Is an OEM Opportunity | Dr. Deep Pandey | [Read More](https://medium.com/p/1d5c9bc6e3c7) |
 | Wed, 24 Sep 2025 02:46:54 GMT | Running on Empty: Why Our Cyber Defenders Can’t Keep Up, and Why That Should Scare You | Athishsagarkishan | [Read More](https://medium.com/p/e4c4e823d43d) |
-| Wed, 24 Sep 2025 02:41:51 GMT | The Law of Human Hackability | Timsux Wales | [Read More](https://medium.com/p/f2d2a96b557b) |
-| Wed, 24 Sep 2025 02:19:21 GMT | SQL Injection UNION Attack: Retrieving Data from Other Tables | Bash Overflow | [Read More](https://medium.com/p/aa79bd7862b6) |
-| Wed, 24 Sep 2025 01:38:01 GMT | VMware Workspace ONE RCE 취약점(CVE-2022–22954) | Crowndaisy | [Read More](https://medium.com/p/d35f6d00bc83) |
-| Wed, 24 Sep 2025 01:25:44 GMT | CrowdStrike and Meta Launch CyberSOCEval to Benchmark AI in Real-World Cyber Defense | SafetyDetectives Research Team | [Read More](https://medium.com/p/b6199cf7c865) |
-| Wed, 24 Sep 2025 01:22:35 GMT | Global FileFix Phishing Campaign Spreads StealC Malware via File Explorer Trick | SafetyDetectives Research Team | [Read More](https://medium.com/p/695ddffb0861) |
-| Wed, 24 Sep 2025 01:18:40 GMT | Let’s Talk About Vibe Coding | Mark Dhas | [Read More](https://medium.com/p/98c378678b6d) |
-| Wed, 24 Sep 2025 00:56:45 GMT | The Rise of AI Malware: How MalTerminal Changes Cybersecurity Forever | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/dfc77dc8c6da) |
-| Wed, 24 Sep 2025 00:53:05 GMT | Where Profit Loss Hides and How the Right RMM Stops the Bleed | Ron | [Read More](https://medium.com/p/35424806a1e0) |
