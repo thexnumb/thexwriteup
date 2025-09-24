@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 23:22:16 GMT | Claude vs Humans: Anthropic’s CTF Run - ToxSec | ToxSec | [Read More](https://medium.com/p/85df33b4bba9) |
 | Wed, 24 Sep 2025 23:07:10 GMT | Privilege Escalation: Member Role Can Change Organization Name and Photo | HBlack Ghost | [Read More](https://medium.com/p/702e00786a42) |
 | Wed, 24 Sep 2025 22:58:25 GMT | Blog — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/71f900135b21) |
 | Wed, 24 Sep 2025 22:04:06 GMT | Hiding in Plain Sight: Steganography, C2, and SVG Files | Tom O'Neill | [Read More](https://medium.com/p/567df7ceea20) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 16:06:43 GMT | New North Korean IT Worker With Innocent Job Application Get Access to Organization’s Network | Jasmitharouthu | [Read More](https://medium.com/p/ef6d6dfece83) |
 | Wed, 24 Sep 2025 16:06:16 GMT | Após ataques que somam US$ 2,5 bilhões, CertiK
 prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://medium.com/p/53ccf9a15baa) |
-| Wed, 24 Sep 2025 16:04:17 GMT | SoloSoft Solutions — Innovating Technology for a Smarter Future | Mohamed Shihabudheen | [Read More](https://medium.com/p/948a3cfa65e2) |
