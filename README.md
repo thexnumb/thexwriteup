@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 18:41:05 GMT | Your’s Truly | Bhageshri Sharma | [Read More](https://medium.com/p/58d98e3da180) |
+| Wed, 24 Sep 2025 18:40:43 GMT | Hacking APIs: Tokens and Token Rotation | Israel Aráoz Severiche | [Read More](https://medium.com/p/397b45a9c724) |
+| Wed, 24 Sep 2025 18:36:04 GMT | Spy Camera with Longest Battery Life — Best for Safety in Grandparents’ House | Buyer’s Guide Pro | [Read More](https://medium.com/p/af6ae286e87f) |
+| Wed, 24 Sep 2025 18:35:08 GMT | 503 Page to Critical Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/00e284eaeebe) |
+| Wed, 24 Sep 2025 18:31:17 GMT | How a Missing HTTPOnly Header Can Lead to Session Hijacking | Mukilan Baskaran | [Read More](https://medium.com/p/b161a0db6607) |
+| Wed, 24 Sep 2025 18:26:27 GMT | BISHOP BARHAM UNIVERSITY COLLEGE | Beinomugisha Innocent | [Read More](https://medium.com/p/2d0d689f5137) |
+| Wed, 24 Sep 2025 18:25:35 GMT | The Business Value of Security: Why Cybersecurity Is More Than Just Firewalls | Tim Murkomen | [Read More](https://medium.com/p/0de4dbe0f6f1) |
+| Wed, 24 Sep 2025 18:21:20 GMT | Why the tokenized AI system is costing you arm and leg : | Vijay Mane | [Read More](https://medium.com/p/e961535ea41a) |
 | Wed, 24 Sep 2025 18:16:48 GMT | Why Your “Flaws” Are Actually Your Superpower | Asma | [Read More](https://medium.com/p/c5277edfd732) |
 | Wed, 24 Sep 2025 18:15:38 GMT | Talos and Oasis Are Building a new era of on-chain intelligence. | Blockchainer | [Read More](https://medium.com/p/18d94c51ed1b) |
 | Wed, 24 Sep 2025 18:13:57 GMT | THE INTER(r)NET: A CONNECT TO THE DISCONNECT INTRODUCTION: THE DAWN OF DIGITAL MYTHOS | Edward Maxus I Kiweewa | [Read More](https://medium.com/p/52fe377cc600) |
@@ -105,11 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 14:04:59 GMT | OSINT Investigation of a Suspicious Email | Zoltan Karpati | [Read More](https://medium.com/p/12cd505d2269) |
 | Wed, 24 Sep 2025 14:04:06 GMT | Cheyanne Mallas: Envisioning the Future of Cybersecurity Project Management in 2035 | Cheyannemallaspa | [Read More](https://medium.com/p/6e272e6dabce) |
 | Wed, 24 Sep 2025 14:02:54 GMT | Why ABTU is the First Real Utility Token Web3 Needs | Abatis ABTU | [Read More](https://medium.com/p/430a7c2ffb1a) |
-| Wed, 24 Sep 2025 14:02:48 GMT | # EnvShield vs. TruffleHog: A Practical Guide to Local-First Secret Scanning | Rabbil Yasar | [Read More](https://medium.com/p/6abc68e9de6a) |
-| Wed, 24 Sep 2025 14:01:50 GMT | Cyber Briefing: 2025.09.24 | CyberMaterial | [Read More](https://medium.com/p/8a8f0a96a7e0) |
-| Wed, 24 Sep 2025 14:01:38 GMT | 5 Cybersecurity Tips Every Kenyan Internet User Should Follow | Abora Finias | [Read More](https://medium.com/p/2ecf3524f7b4) |
-| Wed, 24 Sep 2025 14:01:15 GMT | # The End of .env Chaos: How to Use a Schema for Ironclad Environment Governance | Rabbil Yasar | [Read More](https://medium.com/p/5c46200a17ca) |
-| Wed, 24 Sep 2025 14:00:13 GMT | 22nd February 2025 was the first time I attended an AWS Community Day event. | Ali Arifin | [Read More](https://medium.com/p/5debd13d1ba6) |
-| Wed, 24 Sep 2025 13:59:53 GMT | How can I withdraw my money from investrixhub ? | Nicole James | [Read More](https://medium.com/p/08f3aa23ec55) |
-| Wed, 24 Sep 2025 13:59:14 GMT | Cheyanne Mallas: Envisioning the Future of Cybersecurity Project Management in 2035 | Cheyanne Mallas | [Read More](https://medium.com/p/789d99fc4370) |
-| Wed, 24 Sep 2025 13:53:56 GMT | Praktikum Konfigurasi dan Administrasi Sistem Jaringan: Konfigurasi DNS Server & Zone Management… | Muhammad Surya Saputro | [Read More](https://medium.com/p/fbff47402094) |
