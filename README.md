@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 01:25:44 GMT | CrowdStrike and Meta Launch CyberSOCEval to Benchmark AI in Real-World Cyber Defense | SafetyDetectives Research Team | [Read More](https://medium.com/p/b6199cf7c865) |
+| Wed, 24 Sep 2025 01:22:35 GMT | Global FileFix Phishing Campaign Spreads StealC Malware via File Explorer Trick | SafetyDetectives Research Team | [Read More](https://medium.com/p/695ddffb0861) |
+| Wed, 24 Sep 2025 01:18:40 GMT | Let’s Talk About Vibe Coding | Mark Dhas | [Read More](https://medium.com/p/98c378678b6d) |
+| Wed, 24 Sep 2025 00:56:45 GMT | The Rise of AI Malware: How MalTerminal Changes Cybersecurity Forever | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/dfc77dc8c6da) |
+| Wed, 24 Sep 2025 00:53:05 GMT | Where Profit Loss Hides and How the Right RMM Stops the Bleed | Ron | [Read More](https://medium.com/p/35424806a1e0) |
+| Wed, 24 Sep 2025 00:51:46 GMT | TryHackMe #48 - SQLMap: The Basics | 0xGroot | [Read More](https://medium.com/p/3f8fa95ad6d3) |
+| Wed, 24 Sep 2025 00:47:44 GMT | TryHackMe #47 - Shells Overview | 0xGroot | [Read More](https://medium.com/p/e36b69940fd5) |
+| Wed, 24 Sep 2025 00:44:26 GMT | Completed My First CTF Challenge! - TryHackMe — OhSINT | Gokhan Can | [Read More](https://medium.com/p/008e2929dd22) |
+| Wed, 24 Sep 2025 00:42:05 GMT | TryHackMe #46 - Gobuster: The Basics | 0xGroot | [Read More](https://medium.com/p/1f51dae2c0c8) |
+| Wed, 24 Sep 2025 00:37:44 GMT | TryHackMe #45 - Hydra | 0xGroot | [Read More](https://medium.com/p/87db6af38a1f) |
+| Wed, 24 Sep 2025 00:34:40 GMT | When naked meant seen. | Half a Cup Full | [Read More](https://medium.com/p/bcd63a9af6b6) |
+| Wed, 24 Sep 2025 00:26:32 GMT | What 1,000 Hugs Taught Me About Leadership and Life | Shashidhar Dasyam | [Read More](https://medium.com/p/710b6d1fdbe0) |
+| Wed, 24 Sep 2025 00:24:01 GMT | How I Installed Nessus Essentials on Linux (Step-by-Step Guide) | Mohammad Al Shahin | [Read More](https://medium.com/p/4c4689e9b850) |
+| Wed, 24 Sep 2025 00:09:53 GMT | Why is a DeFi Security Project Named After a Carnivorous Plant? | Brownie | [Read More](https://medium.com/p/a6cf6e40e18d) |
+| Wed, 24 Sep 2025 00:07:20 GMT | Outlook vs. Gmail for Business: Which Is Safer in 2025? | Adedoyin Oladapo | [Read More](https://medium.com/p/8cc14f20cb68) |
+| Wed, 24 Sep 2025 00:03:16 GMT | Data Privacy Compliance | Financial Poise | [Read More](https://medium.com/p/10cc1fc9332f) |
+| Wed, 24 Sep 2025 00:02:48 GMT | Mastering XSStrike: Detecting and Exploiting XSS Vulnerabilities | JPablo13 | [Read More](https://medium.com/p/74dd1ec3e5a9) |
+| Tue, 23 Sep 2025 23:46:01 GMT | One password. Forty-eight hours. Fourteen million identities exposed. | SavetyAI | [Read More](https://medium.com/p/672fbec7a132) |
+| Tue, 23 Sep 2025 23:45:48 GMT | A missing MFA. 487 GB stolen. A €850 million motorcycle empire shaken. | SavetyAI | [Read More](https://medium.com/p/20f3d51aab9a) |
+| Tue, 23 Sep 2025 23:45:29 GMT | A misconfigured vendor bucket. Nearly 2 million Dollar Tree and Family Dollar employees exposed. | SavetyAI | [Read More](https://medium.com/p/28a11b061dbe) |
+| Tue, 23 Sep 2025 23:33:08 GMT | AI Agents Are Running Your Business. Who’s Keeping Them in Check? | Cyber-AppSec | [Read More](https://medium.com/p/6e9ff7d6d3ab) |
 | Tue, 23 Sep 2025 23:24:54 GMT | CyberDefenders — NetX-Support Lab | jon | [Read More](https://medium.com/p/74f21e7dac26) |
 | Tue, 23 Sep 2025 23:17:58 GMT | OWASP Top 10–2021 - THM | Isiah | [Read More](https://medium.com/p/8353f257ebf2) |
 | Tue, 23 Sep 2025 23:17:55 GMT | AI Security Reports — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/785a38509135) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 23 Sep 2025 17:01:44 GMT | Article 22: Making Sense of Log Files with Regex | Anuva Das | [Read More](https://medium.com/p/a90798cbd1a0) |
 | Tue, 23 Sep 2025 16:53:27 GMT | Think hackers are only for IT people? | Hachtechnology | [Read More](https://medium.com/p/e21183f72eff) |
 | Tue, 23 Sep 2025 16:49:29 GMT | Maltego: Your Gateway to Open Source Intelligence | Shohel Rana | [Read More](https://medium.com/p/648bdc1a4b3a) |
-| Tue, 23 Sep 2025 16:49:08 GMT | Abusing Unconstrained Delegation — Computers | SeverSerenity | [Read More](https://medium.com/p/4395caf5ef34) |
-| Tue, 23 Sep 2025 16:47:36 GMT | Shibarium, Odin.fun, Coinbase: $9.95M Lost to Validator Capture, Pool Math, and Wallet Misconfig | Olympix | [Read More](https://medium.com/p/66ca266d820b) |
-| Tue, 23 Sep 2025 16:45:45 GMT | Post-Quantum Cryptography in 2025: Safeguarding Data Before Quantum Breaks It | Hayanan | [Read More](https://medium.com/p/b715ca6262f9) |
-| Tue, 23 Sep 2025 16:42:42 GMT | Intro to Credential Harvesting | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/cbc21e4e7fb8) |
-| Tue, 23 Sep 2025 16:40:39 GMT | Cyberattack on Jaguar Land Rover | Mateusz Skrzybalski | [Read More](https://medium.com/p/c83f241210ab) |
-| Tue, 23 Sep 2025 16:39:23 GMT | Turning Threat Intelligence Into Action: The Rise of Threat-Informed Defense | Femintee | [Read More](https://medium.com/p/29f6b1a0ed93) |
-| Tue, 23 Sep 2025 16:36:48 GMT | 5 Outdated Cybersecurity Skills to Avoid by 2026 and How to Adapt with Labor Market | 0xcrax | [Read More](https://medium.com/p/e197a2aed5ef) |
-| Tue, 23 Sep 2025 16:36:36 GMT | How Data Brokers Fuel Identity Theft & Cybercrime in 2025 | mePrism Privacy | [Read More](https://medium.com/p/388e5b77ce29) |
-| Tue, 23 Sep 2025 16:35:57 GMT | GUNRA RANSOMWARE: What You Don’t Know! | Rakesh Krishnan | [Read More](https://medium.com/p/9f8f0d198283) |
-| Tue, 23 Sep 2025 16:35:34 GMT | Advanced Security Monitoring with AWS GuardDuty | Maximilian Oliver | [Read More](https://medium.com/p/fde2f5750212) |
-| Tue, 23 Sep 2025 16:34:29 GMT | Hidden API Testing Gems: 8 Tools That Find What Burp Suite Misses | Andrei Ivan | [Read More](https://medium.com/p/27ec1aa54e60) |
-| Tue, 23 Sep 2025 16:31:48 GMT | Tesla’s Cloud Hack: 5 Lessons Devs Can Use Today | Syntal | [Read More](https://medium.com/p/a78cdf606272) |
-| Tue, 23 Sep 2025 16:31:48 GMT | ️‍♂️ How to Know If Your App is Whispering Secrets (with ngrep) | Anzalo Quin | [Read More](https://medium.com/p/337ed5ba1598) |
-| Tue, 23 Sep 2025 16:20:44 GMT | Upgrading a 6TB+ OpenSearch Engine with 99.99% Uptime: A journey! | Sreemathi K R | [Read More](https://medium.com/p/17ed697ebeb2) |
-| Tue, 23 Sep 2025 16:17:37 GMT | CVE Deep Dive : CVE-2025–32463 | Optimus_Blue | [Read More](https://medium.com/p/a48025beaf21) |
-| Tue, 23 Sep 2025 16:17:12 GMT | Edge Intelligence Is the Real Next Wave | Ravinduhimansha | [Read More](https://medium.com/p/ca0db0907807) |
-| Tue, 23 Sep 2025 16:11:47 GMT | Portswigger OAuth Authentication Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/e766a7402222) |
-| Tue, 23 Sep 2025 16:11:26 GMT | Subnetting serta Perancangan IP pada Rumah Sakit | Yasa Wijaya | [Read More](https://medium.com/p/78096f1f0bf3) |
-| Tue, 23 Sep 2025 16:02:40 GMT | Port 21 FTP Enumeration and Exploit | Md. Raihan | [Read More](https://medium.com/p/85ca775e21b8) |
-| Tue, 23 Sep 2025 15:57:45 GMT | Building a Secure GenAI Policy Assistant with RAG, Guardrails, and Multi-Modal Search | Bravishanker | [Read More](https://medium.com/p/53145ec8b4d3) |
-| Tue, 23 Sep 2025 15:53:33 GMT | Scam Texts on Wheels: How SMS Blasters Hijack Your Phone | Ashish Mahure | [Read More](https://medium.com/p/a15db248b297) |
