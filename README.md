@@ -12,10 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 20:34:04 GMT | EMBER2024 Levels Up with CAPA: Bringing Function-Level Behavior into Malware ML | Chris Zhang | [Read More](https://medium.com/p/5a6fcb93a0bf) |
 | Wed, 24 Sep 2025 20:20:49 GMT | Kenobi: Offensive Pentesting CTF Walkthrough | Samet Senturk | [Read More](https://medium.com/p/74bac2510153) |
 | Wed, 24 Sep 2025 20:19:41 GMT | PG Practice — DVR4 (Windows) | Lepton | [Read More](https://medium.com/p/f96c7d732a8b) |
 | Wed, 24 Sep 2025 20:17:56 GMT | Grup Politikası'na Güvenlikçi Bakış: Active Directory'nin Görünmeyen Gücü | Mertcan Kopruvalı | [Read More](https://medium.com/p/e7a2af81b13f) |
 | Wed, 24 Sep 2025 20:09:22 GMT | Can Quantum Computing Solve the Biggest Cybersecurity Threats Facing Businesses Today? | Dhananjayp Amr | [Read More](https://medium.com/p/cfe2522a25cf) |
+| Wed, 24 Sep 2025 20:06:39 GMT | ¿Tu teléfono móvil podría estar comprometido o espiado? | Carlos Olivares | [Read More](https://medium.com/p/9306ab51b4c4) |
 | Wed, 24 Sep 2025 20:06:01 GMT | Breaking the News Before the News: Stories Major Media Isn’t Telling You | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/612b77530259) |
 | Wed, 24 Sep 2025 19:50:50 GMT | Try Hack Me- Gaming Server | Herrfuhrer | [Read More](https://medium.com/p/91e14814ae51) |
 | Wed, 24 Sep 2025 19:47:45 GMT | My Experience Responding to a Cyber Incident in an Energy Plant | Cyberkech | [Read More](https://medium.com/p/4aa426766853) |
@@ -111,5 +113,3 @@ prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://me
 | Wed, 24 Sep 2025 15:21:13 GMT | Is it possible to recover my money from Tradevest ? | Graham Walter | [Read More](https://medium.com/p/d15ff3440f85) |
 | Wed, 24 Sep 2025 15:18:07 GMT | Cyber-Physical Risks in Electric Vehicles: Technical Vulnerabilities, Cybersecurity Threats, and… | Nilav M | [Read More](https://medium.com/p/354bc653f723) |
 | Wed, 24 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 24, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/6f484ef6786e) |
-| Wed, 24 Sep 2025 15:13:57 GMT | Email Security in 2025: Why Your “Secure” Provider Might Be Lying to You | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/7015b10b3a8b) |
-| Wed, 24 Sep 2025 15:08:00 GMT | The Side Hustle That Paid My Tuition: A Student’s Guide to Security Consulting | Samina Perveen | [Read More](https://medium.com/p/4b73fcbb4764) |
