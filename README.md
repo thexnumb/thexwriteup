@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 24 Sep 2025 12:37:53 GMT | Your breezy handbook to digital privacy tools | Scorpius | [Read More](https://medium.com/p/3cbe42ee1331) |
+| Wed, 24 Sep 2025 12:35:20 GMT | My bug bounty methodology | 0xBruno | [Read More](https://medium.com/p/84570a9f4a16) |
+| Wed, 24 Sep 2025 12:32:36 GMT | SOC Home Lab on One Laptop: Configuring Internal Networking in VirtualBox | Akshatdwivedi | [Read More](https://medium.com/p/8fd761a77603) |
+| Wed, 24 Sep 2025 12:32:32 GMT | Subnetting Made Easy! | Darshan Shelat | [Read More](https://medium.com/p/f8112748f83f) |
+| Wed, 24 Sep 2025 12:31:30 GMT | What Makes ForceX Security Services a Trusted Name in Security Guard Services in Qatar | Fss | [Read More](https://medium.com/p/95be8d459e8a) |
+| Wed, 24 Sep 2025 12:27:07 GMT | Coding with Confidence: The Cyber Expertise of Lode Emmanuel Palle | Lode Emmanuel Palle | [Read More](https://medium.com/p/e611f75f7ced) |
+| Wed, 24 Sep 2025 12:27:04 GMT | Mastering Nmap: From Host Discovery to Finding Exploits | Vikram Budania | [Read More](https://medium.com/p/d44e5d0067da) |
+| Wed, 24 Sep 2025 12:24:48 GMT | Exploit Nedir, Hazır Olmazsanız Fatura Ağır Olur | Mustafa Furkan Yılmaz | [Read More](https://medium.com/p/1a8356122f0a) |
+| Wed, 24 Sep 2025 12:24:19 GMT | Why Managed Security Services Are Becoming Essential for Businesses in the UAE | Hiba Zafeer | [Read More](https://medium.com/p/e46f8714f77b) |
+| Wed, 24 Sep 2025 12:22:55 GMT | Mobile App Security: Protecting User Data and Privacy | Madison Carter | [Read More](https://medium.com/p/0ecd1c97f2aa) |
+| Wed, 24 Sep 2025 12:22:14 GMT | Software Update Best Practices: Keep Your Devices Secure and Running Smoothly | Timónofearth | [Read More](https://medium.com/p/b763af900bd0) |
+| Wed, 24 Sep 2025 12:20:58 GMT | Are We Truly Strong? | Nevra | [Read More](https://medium.com/p/7484b7fe4ef2) |
+| Wed, 24 Sep 2025 12:18:13 GMT | PG Practice — WallpaperHub (Linux) | Lepton | [Read More](https://medium.com/p/7a98a23f3c01) |
+| Wed, 24 Sep 2025 12:14:30 GMT | SOC Careers in Nagpur: Salary Trends and Jobs | Kartik Debnath | [Read More](https://medium.com/p/5f577fbdb3d1) |
+| Wed, 24 Sep 2025 12:13:03 GMT | Big Data : Implementasi MapReduce di Hadoop | Yasa Wijaya | [Read More](https://medium.com/p/6c401f042869) |
+| Wed, 24 Sep 2025 12:09:59 GMT | Real Estate’s Data Goldmine: Why CRMs & MLS Platforms Are Prime Targets | Omex Oleksandr | [Read More](https://medium.com/p/ce5a3aa49fea) |
+| Wed, 24 Sep 2025 12:09:12 GMT | Intercepting Windows Service Traffic | Abdelaziz Elhawary | [Read More](https://medium.com/p/eccfd18f847f) |
+| Wed, 24 Sep 2025 12:06:21 GMT | The Hidden Benefits of Custom Software Development in 2025 | Bytewise Technologies | [Read More](https://medium.com/p/50ffbdf0f24e) |
+| Wed, 24 Sep 2025 11:54:18 GMT | Why the Browser Is the New Frontline — and How to Secure It | actsupport | [Read More](https://medium.com/p/7c7fd1212943) |
+| Wed, 24 Sep 2025 11:40:18 GMT | Enhance Your Home Safety with Security Screens Gladesville | Cannon Security Fabrication | [Read More](https://medium.com/p/6c685c00340e) |
+| Wed, 24 Sep 2025 11:37:51 GMT | CVE-2025–59689: Command Injection in Libraesva ESG | gm0 | [Read More](https://medium.com/p/b253647f306c) |
 | Wed, 24 Sep 2025 11:28:23 GMT | How I Found a Secret Admin Panel in the JavaScript Source Code | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/2f92f3a5cd84) |
 | Wed, 24 Sep 2025 11:21:25 GMT | What Are the 4 Best Ways to Build an App in 2025 — and How Can You Transform It Into a Successful… | Aniecamelian | [Read More](https://medium.com/p/9bcea6d13db4) |
 | Wed, 24 Sep 2025 11:16:08 GMT | Cyber Incidents in Houston, Texas: Rising Threats and What Businesses Need to Know | IT Specialist | [Read More](https://medium.com/p/49539068cd55) |
@@ -93,24 +114,3 @@ In an age where data breaches… | Manoj | [Read More](https://medium.com/p/c69c
 | Wed, 24 Sep 2025 07:48:32 GMT | DockerLabs Writeup — Rubiks (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fa6ec72b29f8) |
 | Wed, 24 Sep 2025 07:48:01 GMT | Stay Compliant with Apple MDM Software Solutions | Vantage MDM | [Read More](https://medium.com/p/064e051ee7e0) |
 | Wed, 24 Sep 2025 07:38:54 GMT | From Threat to Advantage: Leading with Cyber Intelligence | Prerna Shukla | [Read More](https://medium.com/p/f63f7c2cdee6) |
-| Wed, 24 Sep 2025 07:37:09 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal… | Blackbox | [Read More](https://medium.com/p/670be13933e1) |
-| Wed, 24 Sep 2025 07:31:52 GMT | The Daily Tech Digest: 24 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e85717c9419c) |
-| Wed, 24 Sep 2025 07:31:06 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/6f127c09d00b) |
-| Wed, 24 Sep 2025 07:31:06 GMT | Critical AI Infrastructure Security Threat: Reproducing and Detecting the NVIDIA Triton Critical… | Qubit | [Read More](https://medium.com/p/d03d927023dc) |
-| Wed, 24 Sep 2025 07:25:44 GMT | Fortify the Future: Top AI Security Solutions Businesses Need in 2025 | Valorem Reply | [Read More](https://medium.com/p/f4145f8a0aec) |
-| Wed, 24 Sep 2025 07:24:45 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/c7680aaa88e1) |
-| Wed, 24 Sep 2025 07:18:52 GMT | Linux Security Incident Response | Eren Cankut Uysal | [Read More](https://medium.com/p/49e774da8e19) |
-| Wed, 24 Sep 2025 07:18:31 GMT | wafw00f: The Pentester’s Guide to WAF Detection | Vivek Bhatt | [Read More](https://medium.com/p/2eae167c2212) |
-| Wed, 24 Sep 2025 07:17:46 GMT | The Role of AI in Fighting Cybercrime | Aly | [Read More](https://medium.com/p/0c2ad3ab1848) |
-| Wed, 24 Sep 2025 07:16:49 GMT | The Daily Tech Digest: 23 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2be7914d8c40) |
-| Wed, 24 Sep 2025 07:16:24 GMT | The Digital Gold Rush of 2025: Why Python, Cloud, Blockchain, Cybersecurity & AI Are Reshaping… | JetkingChandigarh | [Read More](https://medium.com/p/1ab1b6435ec8) |
-| Wed, 24 Sep 2025 07:12:32 GMT | Linux Digital Forensics | Eren Cankut Uysal | [Read More](https://medium.com/p/545aa8088ea7) |
-| Wed, 24 Sep 2025 07:10:32 GMT | Bruteforce SSH ve Ağ Tarama Analizi (PRTG) | kaanvardar | [Read More](https://medium.com/p/95a7f7c0ce71) |
-| Wed, 24 Sep 2025 07:07:50 GMT | Linux Commands - Bug Bounty Edition | al1k0k | [Read More](https://medium.com/p/3f89f9452793) |
-| Wed, 24 Sep 2025 07:06:07 GMT | Linux Security Analysis | Eren Cankut Uysal | [Read More](https://medium.com/p/f7341bec9b16) |
-| Wed, 24 Sep 2025 07:05:46 GMT | Breaking the Lock: Advanced Cracking with John the Ripper and Hashcat | Ehxb | [Read More](https://medium.com/p/d8e51355ab5b) |
-| Wed, 24 Sep 2025 07:05:21 GMT | konsep dasar input digital pada mikrokontroler | Zifa Tea Azzahra | [Read More](https://medium.com/p/fddb6023e691) |
-| Wed, 24 Sep 2025 07:05:07 GMT | Breaking the Lock: Introduction to Password Attacks on Windows and Linux | Ehxb | [Read More](https://medium.com/p/f38e3f153e11) |
-| Wed, 24 Sep 2025 07:03:57 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/0362d520479f) |
-| Wed, 24 Sep 2025 06:58:27 GMT | Linux Security Automation | Eren Cankut Uysal | [Read More](https://medium.com/p/73c165195f88) |
-| Wed, 24 Sep 2025 06:57:18 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | Tekshoyabeelyas | [Read More](https://medium.com/p/46281ba1c632) |
