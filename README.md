@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 14:15:15 GMT | Can MariaDB Destroy Oracle’s Grip on Databases? | Rizqi Mulki | [Read More](https://medium.com/p/12f5c14e303c) |
+| Thu, 25 Sep 2025 14:01:58 GMT | Cyber Briefing: 2025.09.25 | CyberMaterial | [Read More](https://medium.com/p/77317090f2d1) |
+| Thu, 25 Sep 2025 14:01:00 GMT | ABTU as a Movement: Digital Sovereignty in the Web3 Era | Abatis ABTU | [Read More](https://medium.com/p/d5f61b88debc) |
+| Thu, 25 Sep 2025 13:51:48 GMT | From Distraction to Direction: Why SentryPC is a Classroom Computer Monitoring Game-Changer | Paul Meyer | [Read More](https://medium.com/p/df30092cfba1) |
+| Thu, 25 Sep 2025 13:49:48 GMT | How to Protect Your Data with Two-Factor Authentication (2FA) | Tech Master | [Read More](https://medium.com/p/7849f420b434) |
+| Thu, 25 Sep 2025 13:47:54 GMT | There’s a moment late at night, when the world finally goes quiet, that I like to scroll through my… | Basfar.eth66 | [Read More](https://medium.com/p/3b3245e1e5a2) |
+| Thu, 25 Sep 2025 13:39:45 GMT | Strengthening Your Enterprise’s Human and Digital Perimeter | Defend My Business | [Read More](https://medium.com/p/f4824c00bffd) |
+| Thu, 25 Sep 2025 13:36:00 GMT | The Invisible Leaks Draining Every Quick-Service Restaurant | Tec-Tel Communications | [Read More](https://medium.com/p/c08a617709a0) |
+| Thu, 25 Sep 2025 13:34:57 GMT | How I Fixed “Emulator Not Connecting to ADB (Connection Refused)” — Without Root or Factory Reset | sudo uday | [Read More](https://medium.com/p/696e82001c58) |
 | Thu, 25 Sep 2025 13:28:47 GMT | The Risks of NPM | Bandi Revanth | [Read More](https://medium.com/p/b3867e8a490d) |
 | Thu, 25 Sep 2025 13:27:04 GMT | It Might Be Time to Leave — And You Already Know Why | Ian Kiprono | [Read More](https://medium.com/p/0852a7e6e7f4) |
 | Thu, 25 Sep 2025 13:25:58 GMT | Okta ↔ Google Workspace: Practical Rollout & Testing Guide | Luispuello | [Read More](https://medium.com/p/58e3b0ca4728) |
@@ -42,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 12:21:48 GMT | How I Started Earning Real Money With Python Side Projects | Kainat Nafees | [Read More](https://medium.com/p/ad833305815e) |
 | Thu, 25 Sep 2025 12:19:29 GMT | From HR to cybersecurity: my non traditional path | Kennedy Craig | [Read More](https://medium.com/p/0098d11256e2) |
 | Thu, 25 Sep 2025 12:16:37 GMT | AI in Microsoft Defender for SOC operations | Pk Atwork | [Read More](https://medium.com/p/f11d3e1f4610) |
+| Thu, 25 Sep 2025 12:10:12 GMT | Inside a Coordinated Reconnaissance Campaign: What Inbound Traffic Revealed | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/2b973bb9084a) |
 | Thu, 25 Sep 2025 12:06:27 GMT | A Importância de Comparar Preços e Produtos Antes de Comprar: O Exemplo do iPhone 17 | UCALADO | [Read More](https://medium.com/p/c0f79ccb8dc0) |
 | Thu, 25 Sep 2025 12:06:01 GMT | Top Cybersecurity Tools to Protect Your Business Data | Barry Bekkedam | [Read More](https://medium.com/p/7ace5aa07185) |
 | Thu, 25 Sep 2025 11:53:52 GMT | Case Study Thought: Stop Chasing Trends, Start Building Trust | EXLITY | [Read More](https://medium.com/p/a970882fa9d0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 09:20:19 GMT | Path traversal(directory traversal) | Saksham Singh | [Read More](https://medium.com/p/5d2e810486d4) |
 | Thu, 25 Sep 2025 09:17:28 GMT | Active Directory Pentesting — HTB Cicada | 0xRC404 | [Read More](https://medium.com/p/00e9adeb7ac8) |
 | Thu, 25 Sep 2025 09:14:28 GMT | The Dangerous Theft Behind Fake Job Ads | O. J. Okpabi | [Read More](https://medium.com/p/d4ae93245b51) |
-| Thu, 25 Sep 2025 09:11:55 GMT | The Most Common Mistakes People Make with Passwords (and How to Fix Them) | Cyberspace Bulletin | [Read More](https://medium.com/p/e745cf63e2d9) |
-| Thu, 25 Sep 2025 09:08:29 GMT | JWT Looked Cool… Until I Realized These 6 Problems | Kavya's Programming Path | [Read More](https://medium.com/p/0626b87cd7ab) |
-| Thu, 25 Sep 2025 09:07:29 GMT | Burnout as a National Security Threat | Harbour of Mercy CIC | [Read More](https://medium.com/p/7815b900d621) |
-| Thu, 25 Sep 2025 09:06:01 GMT | Shadow IT Costs You More Than You Think | Evgeny Ermakov | [Read More](https://medium.com/p/274ab82563d5) |
-| Thu, 25 Sep 2025 09:01:55 GMT | ISO 27001 vs SOC 2: Which One Does Your Business Actually Need? | Hicomply | [Read More](https://medium.com/p/531a162b21c4) |
-| Thu, 25 Sep 2025 09:01:54 GMT | The Retail Cyber Hurricane: Why 2025’s Attack Wave Should Wake Up Every C-Suite | Paul Sherman | [Read More](https://medium.com/p/c8fef4ffe64c) |
-| Thu, 25 Sep 2025 09:01:53 GMT | Diary of a Career Changer: The Power of Showing Up | Cyber I AM | [Read More](https://medium.com/p/b66176324b05) |
-| Thu, 25 Sep 2025 08:59:44 GMT | Phishing-as-a-Service: The Industrialization of Email Fraud | Kate Johnson | [Read More](https://medium.com/p/faaaeaf32b16) |
-| Thu, 25 Sep 2025 08:56:27 GMT | Are you the 3%? | John Constable | [Read More](https://medium.com/p/1fef378f0f47) |
-| Thu, 25 Sep 2025 08:53:11 GMT | Digisol DG-GR1321: Plaintext Password Storage Vulnerability (CVE-2024–4232) | Redfox Security | [Read More](https://medium.com/p/4f8a49f09da7) |
