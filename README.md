@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 04:38:24 GMT | The 7 Pillars of Cloud Security : From Basic to AI Security | Amrik  Hanjra | [Read More](https://medium.com/p/a6302b6343ff) |
+| Thu, 25 Sep 2025 04:36:43 GMT | Exploiting System Hacking- Gaining Access to a Vulnerable Operating System(Lab Walkthrough) —… | victor chibuike | [Read More](https://medium.com/p/ee082b8dc280) |
+| Thu, 25 Sep 2025 04:36:27 GMT | Why MCP is Rewriting the Rules of API Security (And What This Means for AI-First Organizations) | Rahul Singh | [Read More](https://medium.com/p/7ee032cf9f26) |
+| Thu, 25 Sep 2025 04:31:53 GMT | Building Security by Design: How Zero Trust & DevSecOps Are Changing the Game | Ankit Singh | [Read More](https://medium.com/p/16a3a0bd40e3) |
+| Thu, 25 Sep 2025 04:29:30 GMT | “Societal AI: Policies, Laws, and Ethical Challenges of Mass AI Deployment” | Tarush Sharma | [Read More](https://medium.com/p/3e03b7c100d7) |
+| Thu, 25 Sep 2025 04:25:42 GMT | Client-Side Attacks CTF 1 INE | Md. Imran Chowdhury | [Read More](https://medium.com/p/3ec08c9c163f) |
+| Thu, 25 Sep 2025 04:25:30 GMT | Strengthen Your Business with SSI IT Cyber Security Advisory Services in Munich | Public | [Read More](https://medium.com/p/4b3459a81164) |
 | Thu, 25 Sep 2025 04:11:47 GMT | Linux Learning Journey: From Networking Basics to System Security | Ardutra Agi | [Read More](https://medium.com/p/b40079cceaf1) |
 | Thu, 25 Sep 2025 04:08:31 GMT | MyGov and Google: A case study on manufactured consent | Mitchell Walker | [Read More](https://medium.com/p/c4160019db49) |
 | Thu, 25 Sep 2025 04:01:44 GMT | 5 Ways To Secure Dedicated Server | HostNOC | [Read More](https://medium.com/p/7aef1d7dee9f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 18:40:13 GMT | Why I’m Writing Anonymously About H‑1B (and Why You Should Keep Reading) | Martin Doctor | [Read More](https://medium.com/p/79d0118b463f) |
 | Wed, 24 Sep 2025 18:37:47 GMT | Cicada 3301: The Internet’s Greatest Mystery | Celestine Riza Tsuki | [Read More](https://medium.com/p/8f723eeff0d1) |
 | Wed, 24 Sep 2025 18:36:04 GMT | Spy Camera with Longest Battery Life — Best for Safety in Grandparents’ House | Buyer’s Guide Pro | [Read More](https://medium.com/p/af6ae286e87f) |
-| Wed, 24 Sep 2025 18:35:08 GMT | 503 Page to Critical Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/00e284eaeebe) |
-| Wed, 24 Sep 2025 18:31:17 GMT | How a Missing HTTPOnly Header Can Lead to Session Hijacking | Mukilan Baskaran | [Read More](https://medium.com/p/b161a0db6607) |
-| Wed, 24 Sep 2025 18:26:27 GMT | BISHOP BARHAM UNIVERSITY COLLEGE | Beinomugisha Innocent | [Read More](https://medium.com/p/2d0d689f5137) |
-| Wed, 24 Sep 2025 18:25:35 GMT | The Business Value of Security: Why Cybersecurity Is More Than Just Firewalls | Tim Murkomen | [Read More](https://medium.com/p/0de4dbe0f6f1) |
-| Wed, 24 Sep 2025 18:21:20 GMT | Why the tokenized AI system is costing you arm and leg : | Vijay Mane | [Read More](https://medium.com/p/e961535ea41a) |
-| Wed, 24 Sep 2025 18:16:48 GMT | Why Your “Flaws” Are Actually Your Superpower | Asma | [Read More](https://medium.com/p/c5277edfd732) |
-| Wed, 24 Sep 2025 18:15:38 GMT | Talos and Oasis Are Building a new era of on-chain intelligence. | Blockchainer | [Read More](https://medium.com/p/18d94c51ed1b) |
