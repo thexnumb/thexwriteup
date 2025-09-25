@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 15:14:29 GMT | Cybersecurity in Digital Banking | Cyber Security Research | [Read More](https://medium.com/p/71a3ff3fae92) |
+| Thu, 25 Sep 2025 15:08:06 GMT | Emerging Threats in Cyber Espionage | Cyber Security Research | [Read More](https://medium.com/p/be397a7a1a8f) |
+| Thu, 25 Sep 2025 15:05:57 GMT | Ransom Paid. Victims Lost. Trail Exposed. | Vijay Kumar Gupta | [Read More](https://medium.com/p/840f610f5da8) |
+| Thu, 25 Sep 2025 15:04:00 GMT | “The Registration Flaw That Almost Got Missed: Hunting Weak Authentication Links” | Aman Sharma | [Read More](https://medium.com/p/75337daa6bf9) |
+| Thu, 25 Sep 2025 15:02:41 GMT | Cyber news : Heathrow hacked & RedNovember. | Cyber and Coffee | [Read More](https://medium.com/p/2efe4d5aa2af) |
+| Thu, 25 Sep 2025 15:01:36 GMT | Which Programming Language Will Be Successful in 2026? | Cs Kumar | [Read More](https://medium.com/p/1b9f83f22f2b) |
+| Thu, 25 Sep 2025 14:57:50 GMT | Understanding Homomorphic Encryption: Compute Without Decryption | CapitalCoin | [Read More](https://medium.com/p/e8021b5b0042) |
+| Thu, 25 Sep 2025 14:57:13 GMT | Mastering OpenShift Routes & RBAC: From Zero to Production Hero | Salwan Mohamed | [Read More](https://medium.com/p/548fef3a06de) |
+| Thu, 25 Sep 2025 14:54:18 GMT | Mastering Learning and Collaboration: A Partnership with Added Value for Academies and Security… | Mindfully SEO | [Read More](https://medium.com/p/d6e5e7b362d4) |
+| Thu, 25 Sep 2025 14:53:04 GMT | The Pact That Shook South Asia: Pakistan–Saudi Arabia’s Pact | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/7239f1edfddf) |
+| Thu, 25 Sep 2025 14:52:07 GMT | GROUNDED: Uma Análise Aprofundada do Ataque de Ransomware à Collins Aerospace e o Seu Impacto… | Davi Soares | [Read More](https://medium.com/p/05e977f9f6e5) |
+| Thu, 25 Sep 2025 14:47:48 GMT | Modular C2 Frameworks Quietly Redefine Threat Operations for 2025–2026 | Wes Young | [Read More](https://medium.com/p/5196759b333c) |
 | Thu, 25 Sep 2025 14:44:04 GMT | The Hidden Costs of Cyber Insurance for Dental Practices (and How to Avoid Them) | Christian Tennant | [Read More](https://medium.com/p/86c2e706e1e1) |
 | Thu, 25 Sep 2025 14:31:26 GMT | Tools & Resources — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/ea00e2a28b5e) |
 | Thu, 25 Sep 2025 14:29:24 GMT | The Day PostgreSQL Crash at Scale (and How to Recover) | Rizqi Mulki | [Read More](https://medium.com/p/84d33203772a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 10:04:45 GMT | Beyond the Peaks: Nepal’s Hidden Ascent | rquadauqr | [Read More](https://medium.com/p/afb1aeab5aea) |
 | Thu, 25 Sep 2025 10:03:51 GMT | Apache Recon Basics | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/4136fb257b26) |
 | Thu, 25 Sep 2025 09:58:31 GMT | Average Life, Real Fears: Should You Worry? | AskLikeYouMeanIt | [Read More](https://medium.com/p/f1eca276c41b) |
-| Thu, 25 Sep 2025 09:55:37 GMT | Before your backend service goes live, security isn’t optional — it’s survival. | Rahul Soni | [Read More](https://medium.com/p/788c7e551cfa) |
-| Thu, 25 Sep 2025 09:54:09 GMT | Critical Security Alert: Supermicro BMC Vulnerabilities Enable Persistent Backdoor Access | Technijian | [Read More](https://medium.com/p/821f655bc3ce) |
-| Thu, 25 Sep 2025 09:53:38 GMT | Quantum Computing Cyber Threats: Preparing for the Next Security Shift | Kate Johnson | [Read More](https://medium.com/p/e4a7c3aaa164) |
-| Thu, 25 Sep 2025 09:53:25 GMT | Choosing a Hardware Wallet: It’s Not Just About Security, It’s About Sovereignty | Digital Shield | [Read More](https://medium.com/p/044df8d09718) |
-| Thu, 25 Sep 2025 09:49:09 GMT | The Quantum Threat Is Coming — Is Your Digital Life Safe? | Bright Mmaduabuchi | [Read More](https://medium.com/p/7a62e36b1c72) |
-| Thu, 25 Sep 2025 09:49:09 GMT | Secret Service SIM Farm? Debunking Cybersecurity Myths | Truspex | [Read More](https://medium.com/p/d5b9645d32e9) |
-| Thu, 25 Sep 2025 09:49:07 GMT | Why You Should Audit Your AWS IAM Policies — And The Hidden Dangers of Dormant Access Keys | Vishal Tak | [Read More](https://medium.com/p/fa0c5e45d0a6) |
-| Thu, 25 Sep 2025 09:46:37 GMT | Top 10 Skills You Must Know to Become a Cybersecurity Expert | Whytapinstitute | [Read More](https://medium.com/p/833bb5b9a256) |
-| Thu, 25 Sep 2025 09:45:13 GMT | Understanding HTTP: The Backbone of the Web | Sumit Sah | [Read More](https://medium.com/p/35e9ecdaeda3) |
-| Thu, 25 Sep 2025 09:44:29 GMT | Hacking Noob? Unlock Your Potential: A Beginner’s Guide | SilentInject | [Read More](https://medium.com/p/28b9f915558d) |
-| Thu, 25 Sep 2025 09:40:19 GMT | “Air-Gapped Signing” & “Seamless Binding”: How Digital Shield Ends the Web3 Security Compromise… | Digital Shield Offcial | [Read More](https://medium.com/p/3fbca21d592b) |
-| Thu, 25 Sep 2025 09:37:59 GMT | Panduan Installasi OS Server: Windows Server & Ubuntu Server 24.04 | Zifa Tea Azzahra | [Read More](https://medium.com/p/0afd78d79797) |
