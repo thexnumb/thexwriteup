@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 15:30:00 GMT | Deepfake Detection Technologies | Cyber Security Research | [Read More](https://medium.com/p/a543c2391145) |
+| Thu, 25 Sep 2025 15:27:17 GMT | How to see saved wifi passwords in Windows | Edwin Changwe | [Read More](https://medium.com/p/b22b09c1928a) |
+| Thu, 25 Sep 2025 15:24:58 GMT | The Human Firewall: Free Awareness Mini-Video Presentation | Cordula Boeck | [Read More](https://medium.com/p/126bc271b7ca) |
+| Thu, 25 Sep 2025 15:23:00 GMT | Securing AI with COSAIS: How NIST’s New Framework Bridges Cybersecurity and Governance | David ONeal | [Read More](https://medium.com/p/356a92956dab) |
+| Thu, 25 Sep 2025 15:22:03 GMT | Inside Snapdragon X2 Elite: How Qualcomm’s New Chip Aims to Make Laptops Truly Unhackable | Ali Muhammad | [Read More](https://medium.com/p/c8758057100e) |
+| Thu, 25 Sep 2025 15:22:02 GMT | Understanding Agentic AI in the SOC | Tyler Wall | [Read More](https://medium.com/p/144c20c55de7) |
+| Thu, 25 Sep 2025 15:21:52 GMT | Security for Edge AI Devices | Cyber Security Research | [Read More](https://medium.com/p/4f890e295b68) |
+| Thu, 25 Sep 2025 15:21:38 GMT | Windows Reconnaissance & Staging Detection | Neetrox | [Read More](https://medium.com/p/9d8f98dd81ae) |
+| Thu, 25 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/90f27b20c8ad) |
 | Thu, 25 Sep 2025 15:14:29 GMT | Cybersecurity in Digital Banking | Cyber Security Research | [Read More](https://medium.com/p/71a3ff3fae92) |
 | Thu, 25 Sep 2025 15:08:06 GMT | Emerging Threats in Cyber Espionage | Cyber Security Research | [Read More](https://medium.com/p/be397a7a1a8f) |
 | Thu, 25 Sep 2025 15:05:57 GMT | Ransom Paid. Victims Lost. Trail Exposed. | Vijay Kumar Gupta | [Read More](https://medium.com/p/840f610f5da8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 10:27:11 GMT | PG Practice — Hunit (Linux) | Lepton | [Read More](https://medium.com/p/f736680b7475) |
 | Thu, 25 Sep 2025 10:26:11 GMT | Haust Network: Making Web3 Feel Like the Internet Again | Agung | [Read More](https://medium.com/p/9c9f4a92a0a4) |
 | Thu, 25 Sep 2025 10:23:12 GMT | Why Your Digital Wallet Choice Could Leave You Vulnerable to Fraud | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/5b81397af5b1) |
-| Thu, 25 Sep 2025 10:22:46 GMT | Common Tools Used in Ethical Hacking | Ashiknrnr | [Read More](https://medium.com/p/30a6189aaa8e) |
-| Thu, 25 Sep 2025 10:20:30 GMT | Proof of future career with a cyber security course in Kochi | marfin rashid | [Read More](https://medium.com/p/dccc5ed3ffcd) |
-| Thu, 25 Sep 2025 10:19:05 GMT | How the JLR Cyberattack Exposed Gaps in Manufacturing Cybersecurity | Jay C Roberts | [Read More](https://medium.com/p/4c3907ac4928) |
-| Thu, 25 Sep 2025 10:12:08 GMT | Best VAPT Testing Services In India - Cybersecurity Services | Gowthammathiew | [Read More](https://medium.com/p/761e9164b5fe) |
-| Thu, 25 Sep 2025 10:11:50 GMT | Stop Guessing About Security: Why India’s Top Companies Are Rushing to Get ISO 27001 | Aravinth | [Read More](https://medium.com/p/ffa1c00cd1c8) |
-| Thu, 25 Sep 2025 10:06:11 GMT | What is Endpoint Security? | cyber security Updates | [Read More](https://medium.com/p/e2ecfb71c289) |
-| Thu, 25 Sep 2025 10:04:45 GMT | Beyond the Peaks: Nepal’s Hidden Ascent | rquadauqr | [Read More](https://medium.com/p/afb1aeab5aea) |
-| Thu, 25 Sep 2025 10:03:51 GMT | Apache Recon Basics | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/4136fb257b26) |
-| Thu, 25 Sep 2025 09:58:31 GMT | Average Life, Real Fears: Should You Worry? | AskLikeYouMeanIt | [Read More](https://medium.com/p/f1eca276c41b) |
