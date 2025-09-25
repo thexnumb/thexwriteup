@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 12:32:06 GMT | 10 GitHub Actions Hardening Steps That Matter | Neurobyte | [Read More](https://medium.com/p/09f4ce51b0fd) |
+| Thu, 25 Sep 2025 12:31:38 GMT | Press Release — “Bilateral Nexus: Bridging Nations through Culture and Economic Diplomacy” | Diplomacy Studies UPNVY | [Read More](https://medium.com/p/3fdc93b189fc) |
+| Thu, 25 Sep 2025 12:27:13 GMT | Why Cisco Just Told Everyone to Patch Their Networks, Fast | IamPreth | [Read More](https://medium.com/p/a0b8c012e7fb) |
+| Thu, 25 Sep 2025 12:25:48 GMT | AROI on Self-Service: How a Kiosk Machine Pays for Itself | Rakesh | [Read More](https://medium.com/p/7a595a77d32e) |
+| Thu, 25 Sep 2025 12:22:04 GMT | SSTI Explained - HackTheBox JinjaCare Writeup | Motasem Hamdan | [Read More](https://medium.com/p/ed141aa6305b) |
+| Thu, 25 Sep 2025 12:21:48 GMT | How I Started Earning Real Money With Python Side Projects | Kainat Nafees | [Read More](https://medium.com/p/ad833305815e) |
+| Thu, 25 Sep 2025 12:19:29 GMT | From HR to cybersecurity: my non traditional path | Kennedy Craig | [Read More](https://medium.com/p/0098d11256e2) |
+| Thu, 25 Sep 2025 12:16:37 GMT | AI in Microsoft Defender for SOC operations | Pk Atwork | [Read More](https://medium.com/p/f11d3e1f4610) |
+| Thu, 25 Sep 2025 12:06:01 GMT | Top Cybersecurity Tools to Protect Your Business Data | Barry Bekkedam | [Read More](https://medium.com/p/7ace5aa07185) |
+| Thu, 25 Sep 2025 11:53:52 GMT | Case Study Thought: Stop Chasing Trends, Start Building Trust | EXLITY | [Read More](https://medium.com/p/a970882fa9d0) |
+| Thu, 25 Sep 2025 11:49:28 GMT | AI in Cybersecurity: Friend, Foe, or Both? | TheReviewHive | [Read More](https://medium.com/p/924e194de2ac) |
+| Thu, 25 Sep 2025 11:48:33 GMT | Bug Bounty: Automated Directory Search [Advanced Recon] | Siddharth Rose | [Read More](https://medium.com/p/a8ece7a5ccad) |
+| Thu, 25 Sep 2025 11:47:18 GMT | Stop Saying Cybersecurity Training is “Too Expensive” | Peter Hillier/Halton | [Read More](https://medium.com/p/88bbb1e8e980) |
+| Thu, 25 Sep 2025 11:37:46 GMT | THE IT ARCHITECTURE TAX | Mohammed Brückner | [Read More](https://medium.com/p/4223e5d46758) |
+| Thu, 25 Sep 2025 11:36:08 GMT | Quick question: how i send my 5,000 USDT from Okx-wallet to binance exchange ? | Joelle luxer | [Read More](https://medium.com/p/04b9a2bba060) |
+| Thu, 25 Sep 2025 11:35:40 GMT | OSINT Isn’t Easy — and That’s the Point | Sam Galope | [Read More](https://medium.com/p/d224685dc0fc) |
+| Thu, 25 Sep 2025 11:32:06 GMT | Valley writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/ab51ef5ee221) |
 | Thu, 25 Sep 2025 11:29:05 GMT | Cybersecurity Provider in the Middle East — Help AG | Yasinussf | [Read More](https://medium.com/p/af098336b97d) |
 | Thu, 25 Sep 2025 11:25:52 GMT | Cybersecurity in Africa: Opportunities and Challenges in Emerging Markets | Abdullateef Hameed | [Read More](https://medium.com/p/ae82ce564d9a) |
 | Thu, 25 Sep 2025 11:22:52 GMT | Why Cybersecurity is SO Important. | My Brandt | [Read More](https://medium.com/p/a998e2a291fe) |
@@ -95,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 07:52:34 GMT | Weekly Threat Intelligece Report 23 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/d9f3b20bdcc7) |
 | Thu, 25 Sep 2025 07:50:51 GMT | Weekly Threat Intelligece Report 16 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/051f344f962d) |
 | Thu, 25 Sep 2025 07:48:56 GMT | Fixing Burp Suite BApp Store and Update Errors Behind Zscaler (Windows Only) | Shivams | [Read More](https://medium.com/p/0830395d5a70) |
-| Thu, 25 Sep 2025 07:48:17 GMT | Top 3 Books Every Bug Bounty Hunter MUST Read! - Bug Bounty 2025 Guide | Shahzaib | [Read More](https://medium.com/p/75de82552e65) |
-| Thu, 25 Sep 2025 07:47:20 GMT | Pier Walkthrough — From RCE to Root in TorrentPier 2.4.1 | Maxwell Ferreira | [Read More](https://medium.com/p/c349a06c2c92) |
-| Thu, 25 Sep 2025 07:45:24 GMT | Passive Crawling with Burp Suite | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/c79d77895094) |
-| Thu, 25 Sep 2025 07:31:17 GMT | Unmasking Blind XSS: A Hacker’s Guide to High-Paying Bounties | coffinxp | [Read More](https://medium.com/p/fc9e6ced5b0b) |
-| Thu, 25 Sep 2025 07:24:49 GMT | Found: an IDOR in a Game Full of Hunters | file.bug | [Read More](https://medium.com/p/0ee8abd08589) |
-| Thu, 25 Sep 2025 07:20:16 GMT | From Sci-Fi to Cybersecurity | Aj | [Read More](https://medium.com/p/712ad032edf5) |
-| Thu, 25 Sep 2025 07:17:55 GMT | ‎️ State Policing & Citizens’ Safety in Plateau State: A Call to Protect Lives First
-‎
-‎As… | Ado Longnan gukas | [Read More](https://medium.com/p/2f3481969336) |
-| Thu, 25 Sep 2025 07:07:15 GMT | 7 UX Laws Frontend Devs Break Every Day — Are You Guilty Too? | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/0ccabaf581b7) |
-| Thu, 25 Sep 2025 07:06:58 GMT | 高效管理員工假勤，助力企業提升運營效率，用 WorkDo 請假 Pro 就對了！ | WorkDo Official | [Read More](https://medium.com/p/d2362e6fb074) |
-| Thu, 25 Sep 2025 07:01:47 GMT | Legal Compliance for Datacentres in Malaysia: Navigating the Regulatory Framework | Temasek Post | [Read More](https://medium.com/p/36a1a4cc55f3) |
-| Thu, 25 Sep 2025 06:52:05 GMT | Palo Alto Networks Device Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/263b1449fbaf) |
-| Thu, 25 Sep 2025 06:48:35 GMT | How to Fix “No Application Encryption Key” in Laravel | Devin Rosario | [Read More](https://medium.com/p/f73cd07fa371) |
-| Thu, 25 Sep 2025 06:47:48 GMT | Diva Walkthrough Insecure Data Storage — Part 1 | Sulabh Prajapati | [Read More](https://medium.com/p/6b840c9ceb2a) |
-| Thu, 25 Sep 2025 06:47:35 GMT | Top 10 Penetration Testing Certifications | Manisha Chaudhary | [Read More](https://medium.com/p/c95e51f08bb0) |
-| Thu, 25 Sep 2025 06:45:07 GMT | ☁️ Living-off-the-Cloud (LotC) Attacks: The New Frontier of Cyber Stealth | Paritosh | [Read More](https://medium.com/p/2a94c7c92fe9) |
-| Thu, 25 Sep 2025 06:38:17 GMT | The Hidden Dangers of Cookies and Session Management | Anirudh PV | [Read More](https://medium.com/p/41980892841d) |
-| Thu, 25 Sep 2025 06:37:36 GMT | WorkDo 打卡工具：從傳統到智能，助企業實現工時管理升級 | WorkDo Official | [Read More](https://medium.com/p/d997f947622d) |
