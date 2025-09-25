@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 11:29:05 GMT | Cybersecurity Provider in the Middle East — Help AG | Yasinussf | [Read More](https://medium.com/p/af098336b97d) |
+| Thu, 25 Sep 2025 11:25:52 GMT | Cybersecurity in Africa: Opportunities and Challenges in Emerging Markets | Abdullateef Hameed | [Read More](https://medium.com/p/ae82ce564d9a) |
+| Thu, 25 Sep 2025 11:22:52 GMT | Why Cybersecurity is SO Important. | My Brandt | [Read More](https://medium.com/p/a998e2a291fe) |
+| Thu, 25 Sep 2025 11:22:20 GMT | Reading server logs: my Cisco Endpoint Security lab experience | Cyber Timi | [Read More](https://medium.com/p/a48bc1be2544) |
+| Thu, 25 Sep 2025 11:22:04 GMT | The Microsoft Entra Vulnerability That Could Have Changed Everything | Brittney Ginther | [Read More](https://medium.com/p/392dd08be454) |
 | Thu, 25 Sep 2025 11:09:30 GMT | I Ignored a “Minor” Security Alert: Here’s What Happened Next | Arfa | [Read More](https://medium.com/p/4a61a44dc823) |
+| Thu, 25 Sep 2025 11:05:28 GMT | Dism.exe and shellcode injecting technique to bypass Applocker rules | Torin | [Read More](https://medium.com/p/29df57937386) |
 | Thu, 25 Sep 2025 11:03:21 GMT | Don’t Get Hired by a Fraudster: How to Detect Online Job Scams | Evistia | [Read More](https://medium.com/p/f0a5cbfaa000) |
 | Thu, 25 Sep 2025 11:00:04 GMT | IPVS vs iptables: Performance Analysis and Decision Framework | Salwan Mohamed | [Read More](https://medium.com/p/ae45286c7b76) |
 | Thu, 25 Sep 2025 10:58:31 GMT | New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station. | Raaj_Warrior | [Read More](https://medium.com/p/0a9dbb74b3ff) |
 | Thu, 25 Sep 2025 10:52:07 GMT | Are Generative AI Tools Making Us Smarter or Lazier? | Punit Kumar Bhardwaj | [Read More](https://medium.com/p/74986b0e2425) |
+| Thu, 25 Sep 2025 10:51:27 GMT | AI Now Has Access to Google’s Vast Public Datasets — Here’re the Implications | Impact Newswire | [Read More](https://medium.com/p/2fb674553473) |
 | Thu, 25 Sep 2025 10:49:48 GMT | Reconnaissance: Passive and Active Scanning with KALI Linux (Part4) | mohandika | [Read More](https://medium.com/p/24ca6187fc65) |
 | Thu, 25 Sep 2025 10:49:47 GMT | The Unassailable Fortress: A Deep Dive into Information Security (InfoSec) for Beginners | Consultivo Engagement | [Read More](https://medium.com/p/750f4a60b265) |
 | Thu, 25 Sep 2025 10:43:47 GMT | Microsoft ends support for Windows 10 this October 2025 | Century Solutions Group | [Read More](https://medium.com/p/5f8e33b7d8df) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 06:45:07 GMT | ☁️ Living-off-the-Cloud (LotC) Attacks: The New Frontier of Cyber Stealth | Paritosh | [Read More](https://medium.com/p/2a94c7c92fe9) |
 | Thu, 25 Sep 2025 06:38:17 GMT | The Hidden Dangers of Cookies and Session Management | Anirudh PV | [Read More](https://medium.com/p/41980892841d) |
 | Thu, 25 Sep 2025 06:37:36 GMT | WorkDo 打卡工具：從傳統到智能，助企業實現工時管理升級 | WorkDo Official | [Read More](https://medium.com/p/d997f947622d) |
-| Thu, 25 Sep 2025 06:35:53 GMT | The Daily Tech Digest: 25 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/96b212beb092) |
-| Thu, 25 Sep 2025 06:31:51 GMT | What Eyes Confess — The Depth of Silent Connection | Tami | [Read More](https://medium.com/p/2c62ff460157) |
-| Thu, 25 Sep 2025 06:26:50 GMT | Identifying Common Security Gaps and How to Fix Them. | Skysecure Technologies | [Read More](https://medium.com/p/fa45e72a054c) |
-| Thu, 25 Sep 2025 06:16:33 GMT | Cybersecurity Isn’t Just for Techies — It’s for Everyone | Lakshita Gulliya | [Read More](https://medium.com/p/5664cb877325) |
-| Thu, 25 Sep 2025 06:16:30 GMT | OT/ICS Cybersecurity and DCS Training Overview | TheEvolvEdge | [Read More](https://medium.com/p/446377036648) |
-| Thu, 25 Sep 2025 06:13:31 GMT | Object-Oriented Programming (OOP) in Python Made Simple | Nishubirla | [Read More](https://medium.com/p/15ca653ff37a) |
-| Thu, 25 Sep 2025 06:09:01 GMT | Today’s Cyber security Landscape : Cisco Zero-Day Exploited, Major Airlines Disrupted, and… | Athishsagarkishan | [Read More](https://medium.com/p/5bd44bdfe66c) |
