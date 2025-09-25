@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 18:59:09 GMT | Terrier Cyber Quest 2025 — Brief Write-up | Somnath Das | [Read More](https://medium.com/p/b001310d025c) |
 | Thu, 25 Sep 2025 18:45:59 GMT | Find Info on Phone Numbers - OSINT | Shahzaib | [Read More](https://medium.com/p/655fa5281a30) |
 | Thu, 25 Sep 2025 18:41:46 GMT | The Production Database Disaster That Made GitLab Famous (For All the Wrong Reasons) | The Latency Gambler | [Read More](https://medium.com/p/f49b701c537d) |
 | Thu, 25 Sep 2025 18:41:28 GMT | TryHackMe - Linux Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/bcc4b4901183) |
@@ -112,4 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 13:27:04 GMT | It Might Be Time to Leave — And You Already Know Why | Ian Kiprono | [Read More](https://medium.com/p/0852a7e6e7f4) |
 | Thu, 25 Sep 2025 13:25:58 GMT | Okta ↔ Google Workspace: Practical Rollout & Testing Guide | Luispuello | [Read More](https://medium.com/p/58e3b0ca4728) |
 | Thu, 25 Sep 2025 13:19:47 GMT | Privileged Access Management (PAM): Guarding the Master Keys of IT | Natarajan C K | [Read More](https://medium.com/p/45411d3bf12e) |
-| Thu, 25 Sep 2025 13:19:30 GMT | Security Awareness Campaigns for Remote Teams: Best Practices | Compciti | [Read More](https://medium.com/p/fd8d026c6eca) |
