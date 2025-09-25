@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 16:21:41 GMT | Authenticated RCE in PhpMyAdmin via SQL File Write and Shell Upload | CyberQuestor | [Read More](https://medium.com/p/ba897cb3a6df) |
+| Thu, 25 Sep 2025 16:20:27 GMT | Rethinking Web Security in a Post-Quantum World | Kory Becker | [Read More](https://medium.com/p/a9d24cfa57d3) |
+| Thu, 25 Sep 2025 16:12:38 GMT | Why The Vibe Coding Trend Matters | Tyler Wall | [Read More](https://medium.com/p/b34454e7f02d) |
+| Thu, 25 Sep 2025 16:10:13 GMT | Cybersecurity in Digital Education Platforms | Cyber Security Research | [Read More](https://medium.com/p/e585c6b07e6d) |
+| Thu, 25 Sep 2025 16:08:40 GMT | Why Quantum Computers Can’t Actually Break Encryption (Yet) | Coders Stop | [Read More](https://medium.com/p/fb3346036075) |
+| Thu, 25 Sep 2025 16:03:43 GMT | AI-Powered Incident Response Systems | Cyber Security Research | [Read More](https://medium.com/p/9454f82dfa02) |
+| Thu, 25 Sep 2025 16:03:20 GMT | Siber Güvenlik 101 — İlk Bakış | Sude Çoban | [Read More](https://medium.com/p/d6d601cce429) |
+| Thu, 25 Sep 2025 15:55:53 GMT | Ethics of Offensive Cyber Operations | Cyber Security Research | [Read More](https://medium.com/p/52796bdb7402) |
+| Thu, 25 Sep 2025 15:49:54 GMT | Adaptive Authentication Systems | Cyber Security Research | [Read More](https://medium.com/p/b0ed07951eb0) |
+| Thu, 25 Sep 2025 15:43:22 GMT | Biometrics and Privacy Concerns | Cyber Security Research | [Read More](https://medium.com/p/6ad34b73f63c) |
+| Thu, 25 Sep 2025 15:42:01 GMT | How to Start a Successful Blog
+The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahim | [Read More](https://medium.com/p/76fa64bbf024) |
+| Thu, 25 Sep 2025 15:39:43 GMT | How Hackers Find Your IP Address — And What You Can Do About It | Cyber Defender | [Read More](https://medium.com/p/026fd5ef50b9) |
+| Thu, 25 Sep 2025 15:37:35 GMT | Catfishing in the Age of AI: Why Deepfakes Are More Than Just a Dating Problem | Kevin Conwell | [Read More](https://medium.com/p/5dff9c1591ad) |
+| Thu, 25 Sep 2025 15:36:42 GMT | Cybersecurity in Public Safety Systems | Cyber Security Research | [Read More](https://medium.com/p/81c6c3c1b7b1) |
 | Thu, 25 Sep 2025 15:30:00 GMT | Deepfake Detection Technologies | Cyber Security Research | [Read More](https://medium.com/p/a543c2391145) |
 | Thu, 25 Sep 2025 15:27:17 GMT | How to see saved wifi passwords in Windows | Edwin Changwe | [Read More](https://medium.com/p/b22b09c1928a) |
 | Thu, 25 Sep 2025 15:24:58 GMT | The Human Firewall: Free Awareness Mini-Video Presentation | Cordula Boeck | [Read More](https://medium.com/p/126bc271b7ca) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 11:05:28 GMT | Dism.exe and shellcode injecting technique to bypass Applocker rules | Torin | [Read More](https://medium.com/p/29df57937386) |
 | Thu, 25 Sep 2025 11:03:21 GMT | Don’t Get Hired by a Fraudster: How to Detect Online Job Scams | Evistia | [Read More](https://medium.com/p/f0a5cbfaa000) |
 | Thu, 25 Sep 2025 11:00:04 GMT | IPVS vs iptables: Performance Analysis and Decision Framework | Salwan Mohamed | [Read More](https://medium.com/p/ae45286c7b76) |
-| Thu, 25 Sep 2025 10:58:31 GMT | New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station. | Raaj_Warrior | [Read More](https://medium.com/p/0a9dbb74b3ff) |
-| Thu, 25 Sep 2025 10:52:07 GMT | Are Generative AI Tools Making Us Smarter or Lazier? | Punit Kumar Bhardwaj | [Read More](https://medium.com/p/74986b0e2425) |
-| Thu, 25 Sep 2025 10:51:27 GMT | AI Now Has Access to Google’s Vast Public Datasets — Here’re the Implications | Impact Newswire | [Read More](https://medium.com/p/2fb674553473) |
-| Thu, 25 Sep 2025 10:49:48 GMT | Reconnaissance: Passive and Active Scanning with KALI Linux (Part4) | mohandika | [Read More](https://medium.com/p/24ca6187fc65) |
-| Thu, 25 Sep 2025 10:49:47 GMT | The Unassailable Fortress: A Deep Dive into Information Security (InfoSec) for Beginners | Consultivo Engagement | [Read More](https://medium.com/p/750f4a60b265) |
-| Thu, 25 Sep 2025 10:43:47 GMT | Microsoft ends support for Windows 10 this October 2025 | Century Solutions Group | [Read More](https://medium.com/p/5f8e33b7d8df) |
-| Thu, 25 Sep 2025 10:32:58 GMT | Reliable Security Guard Services in Mumbai: Ensuring Safety with Professional Security Companies | Ciss India | [Read More](https://medium.com/p/226a5b855d19) |
-| Thu, 25 Sep 2025 10:31:23 GMT | The $4.6 Billion Celebrity Crypto Scam That Nobody Saw Coming | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3e0048273868) |
-| Thu, 25 Sep 2025 10:31:16 GMT | From Gin to Whisky: Elevating Your MSP’s Cybersecurity | Saltiest of Souls | [Read More](https://medium.com/p/aebe6ce8d197) |
-| Thu, 25 Sep 2025 10:30:43 GMT | CVE-2025–5717: WSO2 Hit With RCE Bug — Admin Access Required! | CVEHUB | [Read More](https://medium.com/p/cd4f0a1bffd3) |
-| Thu, 25 Sep 2025 10:29:04 GMT | CVE-2025–57407: XSS Vulnerability Plagues S-Cart Admin Log Viewer — Update Now! | CVEHUB | [Read More](https://medium.com/p/184cc211255e) |
-| Thu, 25 Sep 2025 10:27:11 GMT | PG Practice — Hunit (Linux) | Lepton | [Read More](https://medium.com/p/f736680b7475) |
-| Thu, 25 Sep 2025 10:26:11 GMT | Haust Network: Making Web3 Feel Like the Internet Again | Agung | [Read More](https://medium.com/p/9c9f4a92a0a4) |
-| Thu, 25 Sep 2025 10:23:12 GMT | Why Your Digital Wallet Choice Could Leave You Vulnerable to Fraud | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/5b81397af5b1) |
