@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 02:44:57 GMT | TryHackMe Walkthrough: Include | Indigo Shadow | [Read More](https://medium.com/p/a042932ffb88) |
+| Thu, 25 Sep 2025 02:30:01 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column (PostgreSQL 12.22) | Bash Overflow | [Read More](https://medium.com/p/d5cfb569a38b) |
+| Thu, 25 Sep 2025 02:15:21 GMT | Mental Health During the Infosec Job Hunt | VaRiOus_CanAriEs | [Read More](https://medium.com/p/198e532dbcc3) |
+| Thu, 25 Sep 2025 02:14:40 GMT | GitHub’s Bold Plan to Secure the Software Supply Chain | Cyber-AppSec | [Read More](https://medium.com/p/bb094393a30c) |
+| Thu, 25 Sep 2025 02:10:01 GMT | Cybersecurity Challenges in Space Systems | Cyber Security Research | [Read More](https://medium.com/p/82d9fe70a2b3) |
+| Thu, 25 Sep 2025 02:01:54 GMT | Machine Learning for Malware Detection | Cyber Security Research | [Read More](https://medium.com/p/9981611b0c86) |
+| Thu, 25 Sep 2025 01:56:46 GMT | How Remote IT Teams Can Stay Focused, Efficient, and Collaborative | Prerna Aggarwal | [Read More](https://medium.com/p/bf16dcdcc095) |
+| Thu, 25 Sep 2025 01:54:28 GMT | Security of Quantum Communication Systems | Cyber Security Research | [Read More](https://medium.com/p/66e0a4ef40ca) |
+| Thu, 25 Sep 2025 01:41:23 GMT | How I passed the PWPA by TCM Security | 0xnref | [Read More](https://medium.com/p/431d80f97d1b) |
+| Thu, 25 Sep 2025 01:36:40 GMT | Blockchain-Based Cybersecurity Solutions | Cyber Security Research | [Read More](https://medium.com/p/1fd9dbb5f112) |
+| Thu, 25 Sep 2025 01:29:37 GMT | Letting Grok Teach Me Computer Security For 1 Week Day 3 (Prompt Injection Prevention) | Colin Zhou | [Read More](https://medium.com/p/a520cd821314) |
 | Thu, 25 Sep 2025 01:22:32 GMT | Shadows in the Cloud: The Tale of Two AWS Identities | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/bff83396577b) |
 | Thu, 25 Sep 2025 01:22:05 GMT | TryHackMe #52 - Logs Fundamentals | 0xGroot | [Read More](https://medium.com/p/222b3404b780) |
 | Thu, 25 Sep 2025 01:21:59 GMT | What is obfuscated VPN? How it works & 3 reasons why you might need it | Safelyo Global | [Read More](https://medium.com/p/c54b2072737d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 17:24:00 GMT | Cloud Computing: Mengenal Model Layanan (IaaS, PaaS, dan SaaS) | Muhammad Surya Saputro | [Read More](https://medium.com/p/1444cea5c327) |
 | Wed, 24 Sep 2025 17:23:20 GMT | Drones Paralyze Copenhagen, Russian Fighter Over German NATO Ship | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/741bf2af0db4) |
 | Wed, 24 Sep 2025 17:14:09 GMT | The Hidden Problems in the UK Security Industry: A Ghostwriter’s Perspective | Usman Zafar | [Read More](https://medium.com/p/b32e0f647ce1) |
-| Wed, 24 Sep 2025 17:13:33 GMT | The “Verified Extension” Illusion: Inside the July 2025 VSCode Flaw That EDR Missed | DarkLayer Security | [Read More](https://medium.com/p/17bae8a33ae6) |
-| Wed, 24 Sep 2025 17:11:59 GMT | How to Create a NAT Gateway in AWS | Tolulope Adewuyi | [Read More](https://medium.com/p/1c499b357f7e) |
-| Wed, 24 Sep 2025 17:02:50 GMT | The Beginner’s Guide to Nmap (That I Wish I Had When I Started) | SoBatista | [Read More](https://medium.com/p/7c078f8a3760) |
-| Wed, 24 Sep 2025 17:00:18 GMT | Hacksudo: Search CTF — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/8e824b00c123) |
-| Wed, 24 Sep 2025 16:59:13 GMT | A New Synthesis in AI Theory: From Foundations to Sustainable Intelligence. 4 recent ArXiv papers | Berend Watchus | [Read More](https://medium.com/p/e9f6d114402a) |
-| Wed, 24 Sep 2025 16:49:56 GMT | AI Agents in Cybersecurity Series -P1.1 MCP and Why It Matters? | ViharikaD | [Read More](https://medium.com/p/c5097732fcc7) |
-| Wed, 24 Sep 2025 16:48:08 GMT | FakeGPT Lab | Jaws | [Read More](https://medium.com/p/9340b3d26391) |
-| Wed, 24 Sep 2025 16:47:03 GMT | “BlockLock” Login Query write up MetaCTF | Britton Janet | [Read More](https://medium.com/p/ebbfd3485ba9) |
-| Wed, 24 Sep 2025 16:46:58 GMT | HackTheBox Season9 Expressway | Hiroya Nakamura | [Read More](https://medium.com/p/0c5f24e1961a) |
-| Wed, 24 Sep 2025 16:45:32 GMT | Le gardien des clefs | Kaizonic | [Read More](https://medium.com/p/f374bc4bd874) |
-| Wed, 24 Sep 2025 16:43:54 GMT | Configure the RDS Proxy for the IAM Db Authentication | Chandanj | [Read More](https://medium.com/p/972ef324d4f1) |
