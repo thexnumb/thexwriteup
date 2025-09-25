@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 16:44:12 GMT | XSS Explained: Types, Examples, and How to Prevent It | Prajwal Ahluwalia | [Read More](https://medium.com/p/9e2dce97f42f) |
+| Thu, 25 Sep 2025 16:33:59 GMT | Website Hacking Project: From Exploitation to Mitigation | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/0cd14b332741) |
+| Thu, 25 Sep 2025 16:26:32 GMT | Linux Audit System: Comprehensive Security Monitoring | Eren Cankut Uysal | [Read More](https://medium.com/p/f6cdde609b8a) |
+| Thu, 25 Sep 2025 16:26:29 GMT | From Linux to Llama: Why Open Source Is the Real MVP of Modern Tech | e.e.r.s. | [Read More](https://medium.com/p/a931cd0db683) |
 | Thu, 25 Sep 2025 16:21:41 GMT | Authenticated RCE in PhpMyAdmin via SQL File Write and Shell Upload | CyberQuestor | [Read More](https://medium.com/p/ba897cb3a6df) |
 | Thu, 25 Sep 2025 16:20:27 GMT | Rethinking Web Security in a Post-Quantum World | Kory Becker | [Read More](https://medium.com/p/a9d24cfa57d3) |
+| Thu, 25 Sep 2025 16:15:03 GMT | Digital Education and Social Transformation: Reshaping Learning for a Better Future | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/9440908a073a) |
 | Thu, 25 Sep 2025 16:12:38 GMT | Why The Vibe Coding Trend Matters | Tyler Wall | [Read More](https://medium.com/p/b34454e7f02d) |
 | Thu, 25 Sep 2025 16:10:13 GMT | Cybersecurity in Digital Education Platforms | Cyber Security Research | [Read More](https://medium.com/p/e585c6b07e6d) |
 | Thu, 25 Sep 2025 16:08:40 GMT | Why Quantum Computers Can’t Actually Break Encryption (Yet) | Coders Stop | [Read More](https://medium.com/p/fb3346036075) |
@@ -108,8 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 11:25:52 GMT | Cybersecurity in Africa: Opportunities and Challenges in Emerging Markets | Abdullateef Hameed | [Read More](https://medium.com/p/ae82ce564d9a) |
 | Thu, 25 Sep 2025 11:22:52 GMT | Why Cybersecurity is SO Important. | My Brandt | [Read More](https://medium.com/p/a998e2a291fe) |
 | Thu, 25 Sep 2025 11:22:20 GMT | Reading server logs: my Cisco Endpoint Security lab experience | Cyber Timi | [Read More](https://medium.com/p/a48bc1be2544) |
-| Thu, 25 Sep 2025 11:22:04 GMT | The Microsoft Entra Vulnerability That Could Have Changed Everything | Brittney Ginther | [Read More](https://medium.com/p/392dd08be454) |
-| Thu, 25 Sep 2025 11:09:30 GMT | I Ignored a “Minor” Security Alert: Here’s What Happened Next | Arfa | [Read More](https://medium.com/p/4a61a44dc823) |
-| Thu, 25 Sep 2025 11:05:28 GMT | Dism.exe and shellcode injecting technique to bypass Applocker rules | Torin | [Read More](https://medium.com/p/29df57937386) |
-| Thu, 25 Sep 2025 11:03:21 GMT | Don’t Get Hired by a Fraudster: How to Detect Online Job Scams | Evistia | [Read More](https://medium.com/p/f0a5cbfaa000) |
-| Thu, 25 Sep 2025 11:00:04 GMT | IPVS vs iptables: Performance Analysis and Decision Framework | Salwan Mohamed | [Read More](https://medium.com/p/ae45286c7b76) |
