@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 13:28:47 GMT | The Risks of NPM | Bandi Revanth | [Read More](https://medium.com/p/b3867e8a490d) |
+| Thu, 25 Sep 2025 13:27:04 GMT | It Might Be Time to Leave — And You Already Know Why | Ian Kiprono | [Read More](https://medium.com/p/0852a7e6e7f4) |
+| Thu, 25 Sep 2025 13:25:58 GMT | Okta ↔ Google Workspace: Practical Rollout & Testing Guide | Luispuello | [Read More](https://medium.com/p/58e3b0ca4728) |
+| Thu, 25 Sep 2025 13:19:47 GMT | Privileged Access Management (PAM): Guarding the Master Keys of IT | Natarajan C K | [Read More](https://medium.com/p/45411d3bf12e) |
+| Thu, 25 Sep 2025 13:19:30 GMT | Security Awareness Campaigns for Remote Teams: Best Practices | Compciti | [Read More](https://medium.com/p/fd8d026c6eca) |
+| Thu, 25 Sep 2025 13:17:48 GMT | How I Found a $3,500 Security Bug in Just 1 Hour | Ibtissam hammadi | [Read More](https://medium.com/p/7cbd930b7157) |
+| Thu, 25 Sep 2025 13:17:48 GMT | Go 1.25.1: The Tiny Patch That Fixes Real Pain | Thread Whisperer | [Read More](https://medium.com/p/d90d724bfcf5) |
+| Thu, 25 Sep 2025 13:14:25 GMT | Incident Analysis: Cyber Disruption in MUSE Software Impacts Major European Airports | Jon C | [Read More](https://medium.com/p/3f6dbc16ca45) |
+| Thu, 25 Sep 2025 13:04:51 GMT | Ring Alarm Kits Compared: Which One Is Right for Your Home? | Essential Tech Accesories | [Read More](https://medium.com/p/ac9b2a6f643b) |
+| Thu, 25 Sep 2025 13:04:07 GMT | Forged Signed JWT : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/34983111a7a4) |
+| Thu, 25 Sep 2025 13:02:50 GMT | Hacksudo: Thor CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/0af8eea2608a) |
+| Thu, 25 Sep 2025 13:02:08 GMT | What Writing a Novel Taught Me About Life (So Far) | Threads & Tangents | [Read More](https://medium.com/p/d307b8ab2724) |
+| Thu, 25 Sep 2025 13:02:08 GMT | Hands-On Homelab: A 3-Part Guide for Aspiring Cybersecurity Practitioners | Keith Medas | [Read More](https://medium.com/p/a558e3e75d16) |
+| Thu, 25 Sep 2025 12:53:05 GMT | The Click‑Fix Scam: How Hackers Trick You Into Running Malware | Tushar Kanjariya | [Read More](https://medium.com/p/9213408dcee2) |
+| Thu, 25 Sep 2025 12:51:47 GMT | ️ Zero Trust Security in Microservices with NestJS | Haydar Urdoğan | [Read More](https://medium.com/p/10b3d6e48afd) |
+| Thu, 25 Sep 2025 12:46:59 GMT | LavaRand Entropy Extractor: Bring Physical Chaos into Your Cryptographic Keys | Fabbri Giulio | [Read More](https://medium.com/p/88f8322386e2) |
+| Thu, 25 Sep 2025 12:46:52 GMT | Menggeluti Dunia Cyber Security | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/02eb9ff20eca) |
+| Thu, 25 Sep 2025 12:45:36 GMT | How the H‑1B Actually Works (Plain English, No Acronyms) | Martin Doctor | [Read More](https://medium.com/p/3ae643b8decf) |
+| Thu, 25 Sep 2025 12:45:22 GMT | How Threat Intelligence Enhances Your Security Maturity Assessment. | Skysecure Technologies | [Read More](https://medium.com/p/4e0a8952beee) |
+| Thu, 25 Sep 2025 12:44:35 GMT | H1-B: What the Left, Right, and the Middle Get Wrong | Martin Doctor | [Read More](https://medium.com/p/eff179a2719c) |
+| Thu, 25 Sep 2025 12:42:18 GMT | Intro to Information Security | Tembzz | [Read More](https://medium.com/p/9c77ce2dee36) |
+| Thu, 25 Sep 2025 12:41:05 GMT | MuddyWater leveled up cloud C2, stealthy loaders, and a whole lot of “hide in plain sight”For the… | Akmalmuhammed | [Read More](https://medium.com/p/e53a704376a0) |
 | Thu, 25 Sep 2025 12:32:06 GMT | 10 GitHub Actions Hardening Steps That Matter | Neurobyte | [Read More](https://medium.com/p/09f4ce51b0fd) |
 | Thu, 25 Sep 2025 12:31:38 GMT | Press Release — “Bilateral Nexus: Bridging Nations through Culture and Economic Diplomacy” | Diplomacy Studies UPNVY | [Read More](https://medium.com/p/3fdc93b189fc) |
 | Thu, 25 Sep 2025 12:27:13 GMT | Why Cisco Just Told Everyone to Patch Their Networks, Fast | IamPreth | [Read More](https://medium.com/p/a0b8c012e7fb) |
@@ -20,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 12:21:48 GMT | How I Started Earning Real Money With Python Side Projects | Kainat Nafees | [Read More](https://medium.com/p/ad833305815e) |
 | Thu, 25 Sep 2025 12:19:29 GMT | From HR to cybersecurity: my non traditional path | Kennedy Craig | [Read More](https://medium.com/p/0098d11256e2) |
 | Thu, 25 Sep 2025 12:16:37 GMT | AI in Microsoft Defender for SOC operations | Pk Atwork | [Read More](https://medium.com/p/f11d3e1f4610) |
+| Thu, 25 Sep 2025 12:06:27 GMT | A Importância de Comparar Preços e Produtos Antes de Comprar: O Exemplo do iPhone 17 | UCALADO | [Read More](https://medium.com/p/c0f79ccb8dc0) |
 | Thu, 25 Sep 2025 12:06:01 GMT | Top Cybersecurity Tools to Protect Your Business Data | Barry Bekkedam | [Read More](https://medium.com/p/7ace5aa07185) |
 | Thu, 25 Sep 2025 11:53:52 GMT | Case Study Thought: Stop Chasing Trends, Start Building Trust | EXLITY | [Read More](https://medium.com/p/a970882fa9d0) |
 | Thu, 25 Sep 2025 11:49:28 GMT | AI in Cybersecurity: Friend, Foe, or Both? | TheReviewHive | [Read More](https://medium.com/p/924e194de2ac) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 08:59:44 GMT | Phishing-as-a-Service: The Industrialization of Email Fraud | Kate Johnson | [Read More](https://medium.com/p/faaaeaf32b16) |
 | Thu, 25 Sep 2025 08:56:27 GMT | Are you the 3%? | John Constable | [Read More](https://medium.com/p/1fef378f0f47) |
 | Thu, 25 Sep 2025 08:53:11 GMT | Digisol DG-GR1321: Plaintext Password Storage Vulnerability (CVE-2024–4232) | Redfox Security | [Read More](https://medium.com/p/4f8a49f09da7) |
-| Thu, 25 Sep 2025 08:48:52 GMT | Secret Service Telecommunications Threat: What U.S. Users Need to Know in 2025 | Buzz Exo | [Read More](https://medium.com/p/56e6fb83cec3) |
-| Thu, 25 Sep 2025 08:41:24 GMT | Cybersecurity in 2025: How AI, Zero Trust, and Quantum Defense Are Reshaping Digital Resilience | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/22392080ca61) |
-| Thu, 25 Sep 2025 08:32:25 GMT | 10+ Best Cybersecurity Service Providers for Accounting Offices in 2025 — Protect Your Firm | Fiona Campbell | [Read More](https://medium.com/p/395b3d24c49f) |
-| Thu, 25 Sep 2025 08:29:02 GMT | Why I Think Specialization is the Only Way to Succeed in Bug Bounties in 2025 | Andrei Ivan | [Read More](https://medium.com/p/7154b5a5a5af) |
-| Thu, 25 Sep 2025 08:29:01 GMT | One of the Most Popular Cyberspace Search Engines — ZoomEye | Liuliuliusq | [Read More](https://medium.com/p/71566156afca) |
-| Thu, 25 Sep 2025 08:28:01 GMT | Ambidexterity at the Edge: Why Outsiders Drive Innovation | Andres Lage | [Read More](https://medium.com/p/1508826a14f7) |
-| Thu, 25 Sep 2025 08:27:47 GMT | Deep Dive: Pass-the-Hash and Pass-the-Ticket — Reuse of Identity Material | Esra Kayhan | [Read More](https://medium.com/p/215178783b59) |
-| Thu, 25 Sep 2025 08:25:19 GMT | Kenobi | Syed | [Read More](https://medium.com/p/e0ad1bba28bb) |
-| Thu, 25 Sep 2025 08:23:51 GMT | How VOXCompanies® Adapts to Tech Disruption | VOXCompanies | [Read More](https://medium.com/p/086d936395f0) |
-| Thu, 25 Sep 2025 08:17:55 GMT | Software for the flash ROM development board | Mansfield-Devine | [Read More](https://medium.com/p/8913ffe00429) |
-| Thu, 25 Sep 2025 08:16:56 GMT | COMPTIA Security+ Certification: Career Path in Cybersecurity | Shettymanishg | [Read More](https://medium.com/p/84288268b141) |
-| Thu, 25 Sep 2025 08:15:51 GMT | Navigating Risk in a Fast-Paced Tech Environment: My Journey So Far | Desire Lumene | [Read More](https://medium.com/p/a6a30be58644) |
-| Thu, 25 Sep 2025 08:14:24 GMT | How VOXCompanies® Leverages Cloud Technology | VOXCompanies | [Read More](https://medium.com/p/6ff0e5f1fcf2) |
-| Thu, 25 Sep 2025 08:10:06 GMT | What Is Kiosk Software? A Beginner’s Guide | Vantage MDM | [Read More](https://medium.com/p/28a1d919c673) |
-| Thu, 25 Sep 2025 08:02:55 GMT | Broken Access Control Lab: User Role Control via Request Parameter | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/45fbbe650edb) |
-| Thu, 25 Sep 2025 07:59:20 GMT | CipherPass: The Zero-Knowledge Password Manager That Changes Everything | muskartechblog | [Read More](https://medium.com/p/dfbe1b1dae82) |
-| Thu, 25 Sep 2025 07:58:51 GMT | One Weak Link, Thousands of Victims: Supply Chain Attacks | Burakozbey | [Read More](https://medium.com/p/fe4759168d30) |
-| Thu, 25 Sep 2025 07:56:27 GMT | The Future of Cybersecurity and The Need for Proactive Measures | kanuka rawat | [Read More](https://medium.com/p/68df91316297) |
-| Thu, 25 Sep 2025 07:55:07 GMT | How to Trace an IP Address (Beginner’s OSINT Guide with Real Example) | S.Ali | [Read More](https://medium.com/p/440a22fa6e9c) |
-| Thu, 25 Sep 2025 07:53:17 GMT | From The Lab to the SOC: Generating Telemetry and Detecting Malicious Activity in an Isolated… | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/4d02ec2e011c) |
-| Thu, 25 Sep 2025 07:52:34 GMT | Weekly Threat Intelligece Report 23 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/d9f3b20bdcc7) |
-| Thu, 25 Sep 2025 07:50:51 GMT | Weekly Threat Intelligece Report 16 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/051f344f962d) |
-| Thu, 25 Sep 2025 07:48:56 GMT | Fixing Burp Suite BApp Store and Update Errors Behind Zscaler (Windows Only) | Shivams | [Read More](https://medium.com/p/0830395d5a70) |
