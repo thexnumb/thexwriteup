@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 18:29:34 GMT | They Want To Scan Your Encrypted Messages — Why Client-Side Scanning Is An Engineer’s Red Line | The Atomic Architect | [Read More](https://medium.com/p/c2491b525150) |
+| Thu, 25 Sep 2025 18:29:11 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/eb9f70779362) |
+| Thu, 25 Sep 2025 18:22:22 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/b3bb560cd3b9) |
+| Thu, 25 Sep 2025 18:17:33 GMT | HTTP Host Header Attacks (HTTP Host Başlığı Saldırısı) | Oruç | [Read More](https://medium.com/p/2e72dc91aa3b) |
+| Thu, 25 Sep 2025 18:10:56 GMT | The 5 Tech Skills I’d Still Bet On For 2030 | Melis - Data Detective | [Read More](https://medium.com/p/3668583ab45c) |
+| Thu, 25 Sep 2025 18:07:49 GMT | SİBER GÜVENLİĞE GİRİŞ | Zeynel Demirdağ | [Read More](https://medium.com/p/fd6496f49195) |
+| Thu, 25 Sep 2025 18:04:05 GMT | How I Learned to Tame Python: Practical Patterns from Real Projects | Kainat Nafees | [Read More](https://medium.com/p/75eb380cdfc5) |
+| Thu, 25 Sep 2025 18:01:46 GMT | De SQLi a RCE — Explotación real paso a paso en laboratorio | Gorka | [Read More](https://medium.com/p/76cc3d73116a) |
+| Thu, 25 Sep 2025 17:57:16 GMT | OAuth2 and JWT in Java: The Subtle Mistakes, That Can Break Production Auth | Tirupati Rao (bitbee) | [Read More](https://medium.com/p/570a5b4bf59c) |
+| Thu, 25 Sep 2025 17:55:11 GMT | Migrating On-Premises Users to AWS with Automation and MFA | Davi Vicente do Prado Silva Rocha | [Read More](https://medium.com/p/1c75c8320ad7) |
+| Thu, 25 Sep 2025 17:54:48 GMT | CYBERSECURITY SPECIALIST: HIRE DUNE NECTAR WEB EXPERT TO SUCCESSFULLY RECOVER LOST CRYPTO. | Alden Ponzio | [Read More](https://medium.com/p/c1acd64876fd) |
+| Thu, 25 Sep 2025 17:46:09 GMT | Siber Güvenlik 101 — SOC(Security Operations Center) | Sude Çoban | [Read More](https://medium.com/p/e1e949092697) |
+| Thu, 25 Sep 2025 17:45:04 GMT | Walkthrough of XSS Challenges (by yamagata21) | Arnav Vaidya | [Read More](https://medium.com/p/6e43c388235f) |
+| Thu, 25 Sep 2025 17:44:32 GMT | Your Cisco Network Just Became a Hacker’s Playground | Anika | [Read More](https://medium.com/p/a15d92630574) |
+| Thu, 25 Sep 2025 17:41:39 GMT | Vulnerability Scanning With OpenVAS | Sonobia James | [Read More](https://medium.com/p/72f2ffb9ea6c) |
+| Thu, 25 Sep 2025 17:39:36 GMT | Ukrainian cyber operatives disrupt Russian banking payment system, intelligence source says | Arthur | [Read More](https://medium.com/p/ab9124728ad5) |
+| Thu, 25 Sep 2025 17:37:09 GMT | First Steps in Networks | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/535eb8749809) |
 | Thu, 25 Sep 2025 17:28:42 GMT | Siber Savaşın Şifresi: Tehdit İstihbaratını (CTI) Tersine Mühendislikle Nasıl Üretiriz? | Şeyma Erol | [Read More](https://medium.com/p/cbd911d799bc) |
 | Thu, 25 Sep 2025 17:27:36 GMT | The Shadows in Modern IT | Niclas Kjellin | [Read More](https://medium.com/p/86d0d48c7e66) |
 | Thu, 25 Sep 2025 17:23:55 GMT | AI Security Tools — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/7a454bb70d00) |
@@ -96,20 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 12:53:05 GMT | The Click‑Fix Scam: How Hackers Trick You Into Running Malware | Tushar Kanjariya | [Read More](https://medium.com/p/9213408dcee2) |
 | Thu, 25 Sep 2025 12:51:47 GMT | ️ Zero Trust Security in Microservices with NestJS | Haydar Urdoğan | [Read More](https://medium.com/p/10b3d6e48afd) |
 | Thu, 25 Sep 2025 12:46:59 GMT | LavaRand Entropy Extractor: Bring Physical Chaos into Your Cryptographic Keys | Fabbri Giulio | [Read More](https://medium.com/p/88f8322386e2) |
-| Thu, 25 Sep 2025 12:46:52 GMT | Menggeluti Dunia Cyber Security | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/02eb9ff20eca) |
-| Thu, 25 Sep 2025 12:45:36 GMT | How the H‑1B Actually Works (Plain English, No Acronyms) | Martin Doctor | [Read More](https://medium.com/p/3ae643b8decf) |
-| Thu, 25 Sep 2025 12:45:22 GMT | How Threat Intelligence Enhances Your Security Maturity Assessment. | Skysecure Technologies | [Read More](https://medium.com/p/4e0a8952beee) |
-| Thu, 25 Sep 2025 12:44:35 GMT | H1-B: What the Left, Right, and the Middle Get Wrong | Martin Doctor | [Read More](https://medium.com/p/eff179a2719c) |
-| Thu, 25 Sep 2025 12:42:18 GMT | Intro to Information Security | Tembzz | [Read More](https://medium.com/p/9c77ce2dee36) |
-| Thu, 25 Sep 2025 12:41:05 GMT | MuddyWater leveled up cloud C2, stealthy loaders, and a whole lot of “hide in plain sight”For the… | Akmalmuhammed | [Read More](https://medium.com/p/e53a704376a0) |
-| Thu, 25 Sep 2025 12:32:06 GMT | 10 GitHub Actions Hardening Steps That Matter | Neurobyte | [Read More](https://medium.com/p/09f4ce51b0fd) |
-| Thu, 25 Sep 2025 12:31:38 GMT | Press Release — “Bilateral Nexus: Bridging Nations through Culture and Economic Diplomacy” | Diplomacy Studies UPNVY | [Read More](https://medium.com/p/3fdc93b189fc) |
-| Thu, 25 Sep 2025 12:27:13 GMT | Why Cisco Just Told Everyone to Patch Their Networks, Fast | IamPreth | [Read More](https://medium.com/p/a0b8c012e7fb) |
-| Thu, 25 Sep 2025 12:25:48 GMT | AROI on Self-Service: How a Kiosk Machine Pays for Itself | Rakesh | [Read More](https://medium.com/p/7a595a77d32e) |
-| Thu, 25 Sep 2025 12:22:04 GMT | SSTI Explained - HackTheBox JinjaCare Writeup | Motasem Hamdan | [Read More](https://medium.com/p/ed141aa6305b) |
-| Thu, 25 Sep 2025 12:21:48 GMT | How I Started Earning Real Money With Python Side Projects | Kainat Nafees | [Read More](https://medium.com/p/ad833305815e) |
-| Thu, 25 Sep 2025 12:19:29 GMT | From HR to cybersecurity: my non traditional path | Kennedy Craig | [Read More](https://medium.com/p/0098d11256e2) |
-| Thu, 25 Sep 2025 12:16:37 GMT | AI in Microsoft Defender for SOC operations | Pk Atwork | [Read More](https://medium.com/p/f11d3e1f4610) |
-| Thu, 25 Sep 2025 12:10:12 GMT | Inside a Coordinated Reconnaissance Campaign: What Inbound Traffic Revealed | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/2b973bb9084a) |
-| Thu, 25 Sep 2025 12:06:27 GMT | A Importância de Comparar Preços e Produtos Antes de Comprar: O Exemplo do iPhone 17 | UCALADO | [Read More](https://medium.com/p/c0f79ccb8dc0) |
-| Thu, 25 Sep 2025 12:06:01 GMT | Top Cybersecurity Tools to Protect Your Business Data | Barry Bekkedam | [Read More](https://medium.com/p/7ace5aa07185) |
