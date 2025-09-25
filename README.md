@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 21:11:46 GMT | IEEE Victoris 4.0 — CTF 2025 — Finals DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/d1943c9a6eb4) |
+| Thu, 25 Sep 2025 21:05:40 GMT | GVM False Positives & How to Manage Them | JMP ESP FF E4 | [Read More](https://medium.com/p/3b6742a24144) |
+| Thu, 25 Sep 2025 20:45:48 GMT | The Desert of GRC Solutions | D. Mikhailov | [Read More](https://medium.com/p/29e202870a82) |
+| Thu, 25 Sep 2025 20:29:18 GMT | Fowsniff CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f03b8f1f4b41) |
 | Thu, 25 Sep 2025 20:25:28 GMT | Code Quality with SonarQube and Hidden Tips & Scripts | Korhan Hergüner | [Read More](https://medium.com/p/307c9e19d9d9) |
 | Thu, 25 Sep 2025 20:23:55 GMT | Exposing Sensitive Data on NASA Endpoint. S3 Bucket, API Key, and Config Leak | D3N14LD15K | [Read More](https://medium.com/p/b441f7f95893) |
 | Thu, 25 Sep 2025 20:17:12 GMT | Security Awareness and Training Policy draft | Anthony Milton | [Read More](https://medium.com/p/50bb25ecab45) |
@@ -109,7 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 14:53:04 GMT | The Pact That Shook South Asia: Pakistan–Saudi Arabia’s Pact | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/7239f1edfddf) |
 | Thu, 25 Sep 2025 14:52:07 GMT | GROUNDED: Uma Análise Aprofundada do Ataque de Ransomware à Collins Aerospace e o Seu Impacto… | Davi Soares | [Read More](https://medium.com/p/05e977f9f6e5) |
 | Thu, 25 Sep 2025 14:47:48 GMT | Modular C2 Frameworks Quietly Redefine Threat Operations for 2025–2026 | Wes Young | [Read More](https://medium.com/p/5196759b333c) |
-| Thu, 25 Sep 2025 14:44:04 GMT | The Hidden Costs of Cyber Insurance for Dental Practices (and How to Avoid Them) | Christian Tennant | [Read More](https://medium.com/p/86c2e706e1e1) |
-| Thu, 25 Sep 2025 14:31:26 GMT | Tools & Resources — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/ea00e2a28b5e) |
-| Thu, 25 Sep 2025 14:29:24 GMT | The Day PostgreSQL Crash at Scale (and How to Recover) | Rizqi Mulki | [Read More](https://medium.com/p/84d33203772a) |
-| Thu, 25 Sep 2025 14:26:56 GMT | How Your Enterprise Can Build a Resilient Cybersecurity Framework | IT_Engineer | [Read More](https://medium.com/p/dba3e2a9292f) |
