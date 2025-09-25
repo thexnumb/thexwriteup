@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 10:32:58 GMT | Reliable Security Guard Services in Mumbai: Ensuring Safety with Professional Security Companies | Ciss India | [Read More](https://medium.com/p/226a5b855d19) |
+| Thu, 25 Sep 2025 10:30:43 GMT | CVE-2025–5717: WSO2 Hit With RCE Bug — Admin Access Required! | CVEHUB | [Read More](https://medium.com/p/cd4f0a1bffd3) |
+| Thu, 25 Sep 2025 10:29:04 GMT | CVE-2025–57407: XSS Vulnerability Plagues S-Cart Admin Log Viewer — Update Now! | CVEHUB | [Read More](https://medium.com/p/184cc211255e) |
+| Thu, 25 Sep 2025 10:27:11 GMT | PG Practice — Hunit (Linux) | Lepton | [Read More](https://medium.com/p/f736680b7475) |
+| Thu, 25 Sep 2025 10:26:11 GMT | Haust Network: Making Web3 Feel Like the Internet Again | Agung | [Read More](https://medium.com/p/9c9f4a92a0a4) |
+| Thu, 25 Sep 2025 10:23:12 GMT | Why Your Digital Wallet Choice Could Leave You Vulnerable to Fraud | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/5b81397af5b1) |
+| Thu, 25 Sep 2025 10:22:46 GMT | Common Tools Used in Ethical Hacking | Ashiknrnr | [Read More](https://medium.com/p/30a6189aaa8e) |
+| Thu, 25 Sep 2025 10:20:30 GMT | Proof of future career with a cyber security course in Kochi | marfin rashid | [Read More](https://medium.com/p/dccc5ed3ffcd) |
+| Thu, 25 Sep 2025 10:19:05 GMT | How the JLR Cyberattack Exposed Gaps in Manufacturing Cybersecurity | Jay C Roberts | [Read More](https://medium.com/p/4c3907ac4928) |
 | Thu, 25 Sep 2025 10:12:08 GMT | Best VAPT Testing Services In India - Cybersecurity Services | Gowthammathiew | [Read More](https://medium.com/p/761e9164b5fe) |
 | Thu, 25 Sep 2025 10:11:50 GMT | Stop Guessing About Security: Why India’s Top Companies Are Rushing to Get ISO 27001 | Aravinth | [Read More](https://medium.com/p/ffa1c00cd1c8) |
 | Thu, 25 Sep 2025 10:06:11 GMT | What is Endpoint Security? | cyber security Updates | [Read More](https://medium.com/p/e2ecfb71c289) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 05:37:12 GMT | Portswigger Web Security Academy - Clickjacking Lab #1 | BooRuleDie | [Read More](https://medium.com/p/f7641c502f75) |
 | Thu, 25 Sep 2025 05:36:27 GMT | Obscura Ransomware: Breaking Down an Obscure but Lethal AD Attack | InfoShieldah | [Read More](https://medium.com/p/c39664700dfd) |
 | Thu, 25 Sep 2025 05:15:25 GMT | Security is a full-stack responsibility — not just a backend concern | Sumit M. | [Read More](https://medium.com/p/d33536efed7d) |
-| Thu, 25 Sep 2025 05:14:31 GMT | ⚠️ Take Note: How Hackers Will Hack Your Facebook Account in 2026 | Cyberwise | [Read More](https://medium.com/p/3269a90c38dc) |
-| Thu, 25 Sep 2025 05:01:52 GMT | How to Use a Hardware Wallet — A Simple, Step-by-Step Guide | Farhad Ali | [Read More](https://medium.com/p/692406c4791a) |
-| Thu, 25 Sep 2025 04:58:59 GMT | Shielding Yourself from Cyber Fraud: Practical Tips for a Safer Digital Life | balaji | [Read More](https://medium.com/p/683f883fc3a2) |
-| Thu, 25 Sep 2025 04:58:36 GMT | Would You Eat a Bug? | Janis Masyk-Jackson | [Read More](https://medium.com/p/f1dd53281771) |
-| Thu, 25 Sep 2025 04:38:24 GMT | The 7 Pillars of Cloud Security : From Basic to AI Security | Amrik  Hanjra | [Read More](https://medium.com/p/a6302b6343ff) |
-| Thu, 25 Sep 2025 04:36:43 GMT | Exploiting System Hacking- Gaining Access to a Vulnerable Operating System(Lab Walkthrough) —… | victor chibuike | [Read More](https://medium.com/p/ee082b8dc280) |
-| Thu, 25 Sep 2025 04:36:27 GMT | Why MCP is Rewriting the Rules of API Security (And What This Means for AI-First Organizations) | Rahul Singh | [Read More](https://medium.com/p/7ee032cf9f26) |
-| Thu, 25 Sep 2025 04:31:53 GMT | Building Security by Design: How Zero Trust & DevSecOps Are Changing the Game | Ankit Singh | [Read More](https://medium.com/p/16a3a0bd40e3) |
-| Thu, 25 Sep 2025 04:29:30 GMT | “Societal AI: Policies, Laws, and Ethical Challenges of Mass AI Deployment” | Tarush Sharma | [Read More](https://medium.com/p/3e03b7c100d7) |
