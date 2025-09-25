@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 20:25:28 GMT | Code Quality with SonarQube and Hidden Tips & Scripts | Korhan Hergüner | [Read More](https://medium.com/p/307c9e19d9d9) |
+| Thu, 25 Sep 2025 20:23:55 GMT | Exposing Sensitive Data on NASA Endpoint. S3 Bucket, API Key, and Config Leak | D3N14LD15K | [Read More](https://medium.com/p/b441f7f95893) |
+| Thu, 25 Sep 2025 20:17:12 GMT | Security Awareness and Training Policy draft | Anthony Milton | [Read More](https://medium.com/p/50bb25ecab45) |
 | Thu, 25 Sep 2025 20:08:21 GMT | Frightening and useful: this tool shows you how to be tracked online | Peter | [Read More](https://medium.com/p/753c04204c32) |
 | Thu, 25 Sep 2025 20:04:16 GMT | The Linux Process Journey — lightdm | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/65bc6ee887c1) |
 | Thu, 25 Sep 2025 19:48:17 GMT | Hydra - THM | Isiah | [Read More](https://medium.com/p/5b0acba20d83) |
@@ -23,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 19:32:13 GMT | READ ON THEORITICAL STUDY ON NOISE MODELS FOR MOBILE QKD. | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/a3f51e643c5c) |
 | Thu, 25 Sep 2025 19:28:34 GMT | READ MORE ON QUANTUM CRYTOGRAPHY | Okai Tettey-Antie Samuel ( OTAS ) | [Read More](https://medium.com/p/7bd4217e11fa) |
 | Thu, 25 Sep 2025 19:16:55 GMT | Non-Malware and Living-off-the-Land Tactics in Modern Cyber Operations | Deniz Topaloglu | [Read More](https://medium.com/p/67c882a4126b) |
+| Thu, 25 Sep 2025 19:16:14 GMT | The cowardice of a crush | Jules | [Read More](https://medium.com/p/1094b6396d0e) |
 | Thu, 25 Sep 2025 18:59:09 GMT | Terrier Cyber Quest 2025 — Brief Write-up | Somnath Das | [Read More](https://medium.com/p/b001310d025c) |
 | Thu, 25 Sep 2025 18:45:59 GMT | Find Info on Phone Numbers - OSINT | Shahzaib | [Read More](https://medium.com/p/655fa5281a30) |
 | Thu, 25 Sep 2025 18:41:46 GMT | The Production Database Disaster That Made GitLab Famous (For All the Wrong Reasons) | The Latency Gambler | [Read More](https://medium.com/p/f49b701c537d) |
@@ -109,7 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 14:31:26 GMT | Tools & Resources — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/ea00e2a28b5e) |
 | Thu, 25 Sep 2025 14:29:24 GMT | The Day PostgreSQL Crash at Scale (and How to Recover) | Rizqi Mulki | [Read More](https://medium.com/p/84d33203772a) |
 | Thu, 25 Sep 2025 14:26:56 GMT | How Your Enterprise Can Build a Resilient Cybersecurity Framework | IT_Engineer | [Read More](https://medium.com/p/dba3e2a9292f) |
-| Thu, 25 Sep 2025 14:19:44 GMT | Are Antivirus Companies Running a Billion-Dollar Scam? | Rizqi Mulki | [Read More](https://medium.com/p/cf35d97a7f7c) |
-| Thu, 25 Sep 2025 14:17:47 GMT | Tired of MITM Attacks? Here’s How Certificate Pinning Stops Them Cold | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/37f1044c3b48) |
-| Thu, 25 Sep 2025 14:15:15 GMT | Can MariaDB Destroy Oracle’s Grip on Databases? | Rizqi Mulki | [Read More](https://medium.com/p/12f5c14e303c) |
-| Thu, 25 Sep 2025 14:01:58 GMT | Cyber Briefing: 2025.09.25 | CyberMaterial | [Read More](https://medium.com/p/77317090f2d1) |
