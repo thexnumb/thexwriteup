@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 07:07:15 GMT | 7 UX Laws Frontend Devs Break Every Day — Are You Guilty Too? | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/0ccabaf581b7) |
+| Thu, 25 Sep 2025 07:06:58 GMT | 高效管理員工假勤，助力企業提升運營效率，用 WorkDo 請假 Pro 就對了！ | WorkDo Official | [Read More](https://medium.com/p/d2362e6fb074) |
+| Thu, 25 Sep 2025 07:01:47 GMT | Legal Compliance for Datacentres in Malaysia: Navigating the Regulatory Framework | Temasek Post | [Read More](https://medium.com/p/36a1a4cc55f3) |
+| Thu, 25 Sep 2025 06:52:05 GMT | Palo Alto Networks Device Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/263b1449fbaf) |
+| Thu, 25 Sep 2025 06:48:35 GMT | How to Fix “No Application Encryption Key” in Laravel | Devin Rosario | [Read More](https://medium.com/p/f73cd07fa371) |
+| Thu, 25 Sep 2025 06:47:48 GMT | Diva Walkthrough Insecure Data Storage — Part 1 | Sulabh Prajapati | [Read More](https://medium.com/p/6b840c9ceb2a) |
+| Thu, 25 Sep 2025 06:47:35 GMT | Top 10 Penetration Testing Certifications | Manisha Chaudhary | [Read More](https://medium.com/p/c95e51f08bb0) |
+| Thu, 25 Sep 2025 06:45:07 GMT | ☁️ Living-off-the-Cloud (LotC) Attacks: The New Frontier of Cyber Stealth | Paritosh | [Read More](https://medium.com/p/2a94c7c92fe9) |
+| Thu, 25 Sep 2025 06:38:17 GMT | The Hidden Dangers of Cookies and Session Management | Anirudh PV | [Read More](https://medium.com/p/41980892841d) |
+| Thu, 25 Sep 2025 06:35:53 GMT | The Daily Tech Digest: 25 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/96b212beb092) |
+| Thu, 25 Sep 2025 06:31:51 GMT | What Eyes Confess — The Depth of Silent Connection | Tami | [Read More](https://medium.com/p/2c62ff460157) |
 | Thu, 25 Sep 2025 06:26:50 GMT | Identifying Common Security Gaps and How to Fix Them. | Skysecure Technologies | [Read More](https://medium.com/p/fa45e72a054c) |
 | Thu, 25 Sep 2025 06:16:33 GMT | Cybersecurity Isn’t Just for Techies — It’s for Everyone | Lakshita Gulliya | [Read More](https://medium.com/p/5664cb877325) |
 | Thu, 25 Sep 2025 06:16:30 GMT | OT/ICS Cybersecurity and DCS Training Overview | TheEvolvEdge | [Read More](https://medium.com/p/446377036648) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 20:29:43 GMT | Como começar do Zero na área de T.I? | Mariana Narita Benitez | [Read More](https://medium.com/p/8725eb9f7749) |
 | Wed, 24 Sep 2025 20:20:49 GMT | Kenobi: Offensive Pentesting CTF Walkthrough | Samet Senturk | [Read More](https://medium.com/p/74bac2510153) |
 | Wed, 24 Sep 2025 20:19:41 GMT | PG Practice — DVR4 (Windows) | Lepton | [Read More](https://medium.com/p/f96c7d732a8b) |
-| Wed, 24 Sep 2025 20:17:56 GMT | Grup Politikası'na Güvenlikçi Bakış: Active Directory'nin Görünmeyen Gücü | Mertcan Kopruvalı | [Read More](https://medium.com/p/e7a2af81b13f) |
-| Wed, 24 Sep 2025 20:09:22 GMT | Can Quantum Computing Solve the Biggest Cybersecurity Threats Facing Businesses Today? | Dhananjayp Amr | [Read More](https://medium.com/p/cfe2522a25cf) |
-| Wed, 24 Sep 2025 20:06:39 GMT | ¿Tu teléfono móvil podría estar comprometido o espiado? | Carlos Olivares | [Read More](https://medium.com/p/9306ab51b4c4) |
-| Wed, 24 Sep 2025 20:06:01 GMT | Breaking the News Before the News: Stories Major Media Isn’t Telling You | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/612b77530259) |
-| Wed, 24 Sep 2025 19:50:50 GMT | Try Hack Me- Gaming Server | Herrfuhrer | [Read More](https://medium.com/p/91e14814ae51) |
-| Wed, 24 Sep 2025 19:47:45 GMT | My Experience Responding to a Cyber Incident in an Energy Plant | Cyberkech | [Read More](https://medium.com/p/4aa426766853) |
-| Wed, 24 Sep 2025 19:47:32 GMT | The Cybersecurity Battlefield of 2025: AI-Powered Attacks, Nation-State Espionage, and the Future… | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/85a8df315cfb) |
-| Wed, 24 Sep 2025 19:40:41 GMT | Hacksudo: Fog CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/7b82d9e7fca5) |
-| Wed, 24 Sep 2025 19:38:22 GMT | You Won’t Believe How Easy Prompt Injection Really Is (Funny Story Inside) | Jaydeep Karale | [Read More](https://medium.com/p/d7de6370aae8) |
-| Wed, 24 Sep 2025 19:30:11 GMT | Travelers Are Saving Hundreds With This Genius Luggage Trick | Marc Ford | [Read More](https://medium.com/p/15d2eea60605) |
-| Wed, 24 Sep 2025 19:30:00 GMT | GrabThePhisher | Adewale Ayomide | [Read More](https://medium.com/p/3d9a2215c325) |
