@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 07:31:17 GMT | Unmasking Blind XSS: A Hacker’s Guide to High-Paying Bounties | coffinxp | [Read More](https://medium.com/p/fc9e6ced5b0b) |
+| Thu, 25 Sep 2025 07:20:16 GMT | From Sci-Fi to Cybersecurity | Aj | [Read More](https://medium.com/p/712ad032edf5) |
+| Thu, 25 Sep 2025 07:17:55 GMT | ‎️ State Policing & Citizens’ Safety in Plateau State: A Call to Protect Lives First
+‎
+‎As… | Ado Longnan gukas | [Read More](https://medium.com/p/2f3481969336) |
 | Thu, 25 Sep 2025 07:07:15 GMT | 7 UX Laws Frontend Devs Break Every Day — Are You Guilty Too? | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/0ccabaf581b7) |
 | Thu, 25 Sep 2025 07:06:58 GMT | 高效管理員工假勤，助力企業提升運營效率，用 WorkDo 請假 Pro 就對了！ | WorkDo Official | [Read More](https://medium.com/p/d2362e6fb074) |
 | Thu, 25 Sep 2025 07:01:47 GMT | Legal Compliance for Datacentres in Malaysia: Navigating the Regulatory Framework | Temasek Post | [Read More](https://medium.com/p/36a1a4cc55f3) |
@@ -109,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 20:43:56 GMT | Postman Flows: The Most Underrated Feature You’re Not Using | Nurlan Guliyev | [Read More](https://medium.com/p/e9346bcd39ec) |
 | Wed, 24 Sep 2025 20:37:30 GMT | Stepping Into the World of Networking & Cybersecurity | Anika | [Read More](https://medium.com/p/8a7daf94ed21) |
 | Wed, 24 Sep 2025 20:34:04 GMT | EMBER2024 Levels Up with CAPA: Bringing Function-Level Behavior into Malware ML | Chris Zhang | [Read More](https://medium.com/p/5a6fcb93a0bf) |
-| Wed, 24 Sep 2025 20:29:43 GMT | Como começar do Zero na área de T.I? | Mariana Narita Benitez | [Read More](https://medium.com/p/8725eb9f7749) |
-| Wed, 24 Sep 2025 20:20:49 GMT | Kenobi: Offensive Pentesting CTF Walkthrough | Samet Senturk | [Read More](https://medium.com/p/74bac2510153) |
-| Wed, 24 Sep 2025 20:19:41 GMT | PG Practice — DVR4 (Windows) | Lepton | [Read More](https://medium.com/p/f96c7d732a8b) |
