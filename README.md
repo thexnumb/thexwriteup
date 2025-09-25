@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 21:41:30 GMT | Building a Cyber Security Portfolio — Learning Step 1: Learning to Learning | Randy Puffin | [Read More](https://medium.com/p/87f8263ef6a5) |
+| Thu, 25 Sep 2025 21:41:17 GMT | Building a Cyber Security Portfolio — Networking Step 1: What being chronically online taught be… | Randy Puffin | [Read More](https://medium.com/p/87eb3ca826aa) |
+| Thu, 25 Sep 2025 21:38:09 GMT | Using AI (Like ChatGPT) in GovCon Proposal Writing: A Practical, Secure, and Repeatable Playbook | Mindset | [Read More](https://medium.com/p/bedf8f1a4e39) |
+| Thu, 25 Sep 2025 21:36:13 GMT | Building Secure Canva Connect API Integration with NestJS: A Complete Authentication Guide | Tusharp | [Read More](https://medium.com/p/c70a08c7e87c) |
+| Thu, 25 Sep 2025 21:34:30 GMT | Row Level Security (RLS): The Database Security Feature Every Developer Should Master | Tusharp | [Read More](https://medium.com/p/c7d4dc46a17b) |
 | Thu, 25 Sep 2025 21:18:30 GMT | Linked Lists in Windows Kernel Driver | S12 - 0x12Dark Development | [Read More](https://medium.com/p/5a89b6219347) |
 | Thu, 25 Sep 2025 21:11:46 GMT | IEEE Victoris 4.0 — CTF 2025 — Finals DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/d1943c9a6eb4) |
 | Thu, 25 Sep 2025 21:05:40 GMT | GVM False Positives & How to Manage Them | JMP ESP FF E4 | [Read More](https://medium.com/p/3b6742a24144) |
@@ -108,8 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 15:04:00 GMT | “The Registration Flaw That Almost Got Missed: Hunting Weak Authentication Links” | Aman Sharma | [Read More](https://medium.com/p/75337daa6bf9) |
 | Thu, 25 Sep 2025 15:02:41 GMT | Cyber news : Heathrow hacked & RedNovember. | Cyber and Coffee | [Read More](https://medium.com/p/2efe4d5aa2af) |
 | Thu, 25 Sep 2025 15:01:36 GMT | Which Programming Language Will Be Successful in 2026? | Cs Kumar | [Read More](https://medium.com/p/1b9f83f22f2b) |
-| Thu, 25 Sep 2025 14:57:50 GMT | Understanding Homomorphic Encryption: Compute Without Decryption | CapitalCoin | [Read More](https://medium.com/p/e8021b5b0042) |
-| Thu, 25 Sep 2025 14:57:13 GMT | Mastering OpenShift Routes & RBAC: From Zero to Production Hero | Salwan Mohamed | [Read More](https://medium.com/p/548fef3a06de) |
-| Thu, 25 Sep 2025 14:54:18 GMT | Mastering Learning and Collaboration: A Partnership with Added Value for Academies and Security… | Mindfully SEO | [Read More](https://medium.com/p/d6e5e7b362d4) |
-| Thu, 25 Sep 2025 14:53:04 GMT | The Pact That Shook South Asia: Pakistan–Saudi Arabia’s Pact | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/7239f1edfddf) |
-| Thu, 25 Sep 2025 14:52:07 GMT | GROUNDED: Uma Análise Aprofundada do Ataque de Ransomware à Collins Aerospace e o Seu Impacto… | Davi Soares | [Read More](https://medium.com/p/05e977f9f6e5) |
