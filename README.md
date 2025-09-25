@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 01:22:32 GMT | Shadows in the Cloud: The Tale of Two AWS Identities | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/bff83396577b) |
+| Thu, 25 Sep 2025 01:22:05 GMT | TryHackMe #52 - Logs Fundamentals | 0xGroot | [Read More](https://medium.com/p/222b3404b780) |
+| Thu, 25 Sep 2025 01:21:59 GMT | What is obfuscated VPN? How it works & 3 reasons why you might need it | Safelyo Global | [Read More](https://medium.com/p/c54b2072737d) |
+| Thu, 25 Sep 2025 01:17:49 GMT | TryHackMe #51 - Incident Response Fundamentals | 0xGroot | [Read More](https://medium.com/p/f1bbd9ed54ca) |
+| Thu, 25 Sep 2025 01:15:51 GMT | 10 Essential Data Security Principles Every Data Engineer Should Know | Mudassir Syed | [Read More](https://medium.com/p/7515fa0c256b) |
+| Thu, 25 Sep 2025 01:14:46 GMT | OAuth: Te ajudando a entender! | Gabriel Jesus | [Read More](https://medium.com/p/7f809672e4fc) |
+| Thu, 25 Sep 2025 01:12:15 GMT | The Complete Guide to E-Begging Scams: What Everyone Should Know in 2025 | Jeff Murdock | [Read More](https://medium.com/p/939e3793a150) |
+| Thu, 25 Sep 2025 01:11:46 GMT | TryHackMe #50 - Digital Forensics Fundamentals | 0xGroot | [Read More](https://medium.com/p/e5c300c61f8c) |
+| Thu, 25 Sep 2025 01:07:47 GMT | TryHackMe #49 - SOC Fundamentals | 0xGroot | [Read More](https://medium.com/p/729107b97832) |
+| Thu, 25 Sep 2025 00:59:27 GMT | How Criminal IP is Securing the Expanding Attack Surface — Before It’s Too Late | Criminal IP | [Read More](https://medium.com/p/579af03ebf69) |
+| Thu, 25 Sep 2025 00:41:10 GMT | Analyzing DHCP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/19cb4828cddf) |
+| Thu, 25 Sep 2025 00:05:01 GMT | How Hackers Use AI to Find Vulnerabilities Faster | Vipul Sonule | [Read More](https://medium.com/p/248bc162c07e) |
+| Thu, 25 Sep 2025 00:03:27 GMT | The NT LAN Manager (NTLM) Authentication | Alouli Mohamed Zaid | [Read More](https://medium.com/p/12e32660e32f) |
 | Wed, 24 Sep 2025 23:22:16 GMT | Claude vs Humans: Anthropic’s CTF Run - ToxSec | ToxSec | [Read More](https://medium.com/p/85df33b4bba9) |
 | Wed, 24 Sep 2025 23:07:10 GMT | Privilege Escalation: Member Role Can Change Organization Name and Photo | HBlack Ghost | [Read More](https://medium.com/p/702e00786a42) |
 | Wed, 24 Sep 2025 22:58:25 GMT | Blog — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/71f900135b21) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 16:46:58 GMT | HackTheBox Season9 Expressway | Hiroya Nakamura | [Read More](https://medium.com/p/0c5f24e1961a) |
 | Wed, 24 Sep 2025 16:45:32 GMT | Le gardien des clefs | Kaizonic | [Read More](https://medium.com/p/f374bc4bd874) |
 | Wed, 24 Sep 2025 16:43:54 GMT | Configure the RDS Proxy for the IAM Db Authentication | Chandanj | [Read More](https://medium.com/p/972ef324d4f1) |
-| Wed, 24 Sep 2025 16:42:02 GMT | Donut Demystified: How the Shellcode Generator Runs .NET and PE Payloads In-Memory | 0r | [Read More](https://medium.com/p/322c0974f517) |
-| Wed, 24 Sep 2025 16:41:47 GMT | Breaking Into Cybersecurity | JMP ESP FF E4 | [Read More](https://medium.com/p/99cc2e18ac35) |
-| Wed, 24 Sep 2025 16:34:50 GMT | Abusing Unconstrained Delegation — Computers — exploiting the Printer bug method | SeverSerenity | [Read More](https://medium.com/p/33f1b90a4347) |
-| Wed, 24 Sep 2025 16:32:35 GMT | The Inevitable Path of AI: From Developer’s Playground to CIO-Managed Platform | Dante Malagrino | [Read More](https://medium.com/p/d9d0835f179f) |
-| Wed, 24 Sep 2025 16:32:27 GMT | From LinkedIn Job Offers to Malware: How Iranian Hackers Breach Europe | Abdelhalim_husein | [Read More](https://medium.com/p/7326f92eff93) |
-| Wed, 24 Sep 2025 16:29:53 GMT | Understanding the Full Spectrum of Threat Indicators | Ryan G. Cox | [Read More](https://medium.com/p/f9b3c1be3fc8) |
-| Wed, 24 Sep 2025 16:21:26 GMT | UK Police Arrest Suspect Behind Ransomware Attack on European Airports | Jasmitharouthu | [Read More](https://medium.com/p/19d07c8665a1) |
-| Wed, 24 Sep 2025 16:20:42 GMT | How to Choose a Cyber Security Consultant: The Real Talk You Need | Paul Reynolds | [Read More](https://medium.com/p/0395ba48fbd9) |
-| Wed, 24 Sep 2025 16:18:14 GMT | Hari-hari ketika aku tak ingin ada | September Fall | [Read More](https://medium.com/p/d955d64f5058) |
-| Wed, 24 Sep 2025 16:10:21 GMT | Cyber Safety Watchdog Insider | Cyber Safety Watchdog | [Read More](https://medium.com/p/b15a236fe9d2) |
-| Wed, 24 Sep 2025 16:09:40 GMT | How Matej Michalko is Securing Europe’s Digital Future | Matej Michalko | [Read More](https://medium.com/p/4fae73cc065e) |
-| Wed, 24 Sep 2025 16:06:43 GMT | New North Korean IT Worker With Innocent Job Application Get Access to Organization’s Network | Jasmitharouthu | [Read More](https://medium.com/p/ef6d6dfece83) |
-| Wed, 24 Sep 2025 16:06:16 GMT | Após ataques que somam US$ 2,5 bilhões, CertiK
-prevê embate duradouro com cibercriminosos | Allcomnet | [Read More](https://medium.com/p/53ccf9a15baa) |
