@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 05:14:31 GMT | ⚠️ Take Note: How Hackers Will Hack Your Facebook Account in 2026 | Cyberwise | [Read More](https://medium.com/p/3269a90c38dc) |
+| Thu, 25 Sep 2025 05:01:52 GMT | How to Use a Hardware Wallet — A Simple, Step-by-Step Guide | Farhad Ali | [Read More](https://medium.com/p/692406c4791a) |
+| Thu, 25 Sep 2025 04:58:59 GMT | Shielding Yourself from Cyber Fraud: Practical Tips for a Safer Digital Life | balaji | [Read More](https://medium.com/p/683f883fc3a2) |
+| Thu, 25 Sep 2025 04:58:36 GMT | Would You Eat a Bug? | Janis Masyk-Jackson | [Read More](https://medium.com/p/f1dd53281771) |
 | Thu, 25 Sep 2025 04:38:24 GMT | The 7 Pillars of Cloud Security : From Basic to AI Security | Amrik  Hanjra | [Read More](https://medium.com/p/a6302b6343ff) |
 | Thu, 25 Sep 2025 04:36:43 GMT | Exploiting System Hacking- Gaining Access to a Vulnerable Operating System(Lab Walkthrough) —… | victor chibuike | [Read More](https://medium.com/p/ee082b8dc280) |
 | Thu, 25 Sep 2025 04:36:27 GMT | Why MCP is Rewriting the Rules of API Security (And What This Means for AI-First Organizations) | Rahul Singh | [Read More](https://medium.com/p/7ee032cf9f26) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 18:42:51 GMT | From Container Risks to Cloud Ransomware: The Shifting Battlefield of Software Supply Chain Attacks | Yogita phor | [Read More](https://medium.com/p/a440fa7f5caa) |
 | Wed, 24 Sep 2025 18:41:05 GMT | Your’s Truly | Bhageshri Sharma | [Read More](https://medium.com/p/58d98e3da180) |
 | Wed, 24 Sep 2025 18:40:43 GMT | Hacking APIs: Tokens and Token Rotation | Israel Aráoz Severiche | [Read More](https://medium.com/p/397b45a9c724) |
-| Wed, 24 Sep 2025 18:40:33 GMT | My Journey to Earning the ISC² Certified in Cybersecurity (CC) | Surya Raja | [Read More](https://medium.com/p/6ab71affc06b) |
-| Wed, 24 Sep 2025 18:40:13 GMT | Why I’m Writing Anonymously About H‑1B (and Why You Should Keep Reading) | Martin Doctor | [Read More](https://medium.com/p/79d0118b463f) |
-| Wed, 24 Sep 2025 18:37:47 GMT | Cicada 3301: The Internet’s Greatest Mystery | Celestine Riza Tsuki | [Read More](https://medium.com/p/8f723eeff0d1) |
-| Wed, 24 Sep 2025 18:36:04 GMT | Spy Camera with Longest Battery Life — Best for Safety in Grandparents’ House | Buyer’s Guide Pro | [Read More](https://medium.com/p/af6ae286e87f) |
