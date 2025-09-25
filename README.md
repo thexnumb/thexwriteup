@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 20:08:21 GMT | Frightening and useful: this tool shows you how to be tracked online | Peter | [Read More](https://medium.com/p/753c04204c32) |
+| Thu, 25 Sep 2025 20:04:16 GMT | The Linux Process Journey — lightdm | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/65bc6ee887c1) |
+| Thu, 25 Sep 2025 19:48:17 GMT | Hydra - THM | Isiah | [Read More](https://medium.com/p/5b0acba20d83) |
+| Thu, 25 Sep 2025 19:47:55 GMT | PG Practice — Zab (Linux) | Lepton | [Read More](https://medium.com/p/5d418182fe16) |
+| Thu, 25 Sep 2025 19:47:47 GMT | Anti-Reverse Engineering | Anthony Mazyck | [Read More](https://medium.com/p/e6adcf1ded04) |
+| Thu, 25 Sep 2025 19:47:47 GMT | From 0 to Hero: How We Solved Our Debug Log Crisis with Smart Log Rotation + Elasticsearch | techWithNeer | [Read More](https://medium.com/p/dfc913e07662) |
+| Thu, 25 Sep 2025 19:42:09 GMT | NIST Cybersecurity Framework Explained Simply (and Why It Matters) | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/20bf5a473cf5) |
+| Thu, 25 Sep 2025 19:39:23 GMT | Why I Always Verify Linux Packages with GPG Before Installing | Faruk Ahmed | [Read More](https://medium.com/p/66acc5070ead) |
 | Thu, 25 Sep 2025 19:32:13 GMT | READ ON THEORITICAL STUDY ON NOISE MODELS FOR MOBILE QKD. | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/a3f51e643c5c) |
 | Thu, 25 Sep 2025 19:28:34 GMT | READ MORE ON QUANTUM CRYTOGRAPHY | Okai Tettey-Antie Samuel ( OTAS ) | [Read More](https://medium.com/p/7bd4217e11fa) |
 | Thu, 25 Sep 2025 19:16:55 GMT | Non-Malware and Living-off-the-Land Tactics in Modern Cyber Operations | Deniz Topaloglu | [Read More](https://medium.com/p/67c882a4126b) |
@@ -105,11 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 14:17:47 GMT | Tired of MITM Attacks? Here’s How Certificate Pinning Stops Them Cold | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/37f1044c3b48) |
 | Thu, 25 Sep 2025 14:15:15 GMT | Can MariaDB Destroy Oracle’s Grip on Databases? | Rizqi Mulki | [Read More](https://medium.com/p/12f5c14e303c) |
 | Thu, 25 Sep 2025 14:01:58 GMT | Cyber Briefing: 2025.09.25 | CyberMaterial | [Read More](https://medium.com/p/77317090f2d1) |
-| Thu, 25 Sep 2025 14:01:00 GMT | ABTU as a Movement: Digital Sovereignty in the Web3 Era | Abatis ABTU | [Read More](https://medium.com/p/d5f61b88debc) |
-| Thu, 25 Sep 2025 13:51:48 GMT | From Distraction to Direction: Why SentryPC is a Classroom Computer Monitoring Game-Changer | Paul Meyer | [Read More](https://medium.com/p/df30092cfba1) |
-| Thu, 25 Sep 2025 13:49:48 GMT | How to Protect Your Data with Two-Factor Authentication (2FA) | Tech Master | [Read More](https://medium.com/p/7849f420b434) |
-| Thu, 25 Sep 2025 13:47:54 GMT | There’s a moment late at night, when the world finally goes quiet, that I like to scroll through my… | Basfar.eth66 | [Read More](https://medium.com/p/3b3245e1e5a2) |
-| Thu, 25 Sep 2025 13:39:45 GMT | Strengthening Your Enterprise’s Human and Digital Perimeter | Defend My Business | [Read More](https://medium.com/p/f4824c00bffd) |
-| Thu, 25 Sep 2025 13:36:00 GMT | The Invisible Leaks Draining Every Quick-Service Restaurant | Tec-Tel Communications | [Read More](https://medium.com/p/c08a617709a0) |
-| Thu, 25 Sep 2025 13:34:57 GMT | How I Fixed “Emulator Not Connecting to ADB (Connection Refused)” — Without Root or Factory Reset | sudo uday | [Read More](https://medium.com/p/696e82001c58) |
-| Thu, 25 Sep 2025 13:28:47 GMT | The Risks of NPM | Bandi Revanth | [Read More](https://medium.com/p/b3867e8a490d) |
