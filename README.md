@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 03:36:01 GMT | Security Home-lab: Installation and First “Attack” | Jordan Palumbo | [Read More](https://medium.com/p/e6ff643226d1) |
+| Thu, 25 Sep 2025 03:31:50 GMT | The Hidden Cost of Free Games: How Pirated Games Are Spreading HijackLoader | Deven Chhajed | [Read More](https://medium.com/p/55249e2d466e) |
+| Thu, 25 Sep 2025 03:31:50 GMT | API Pentesting Part 3: Why APIs Are Hacker Magnets-A Tale of Improper Input Validation and Mass… | Blue_eye | [Read More](https://medium.com/p/15b352c51d8b) |
+| Thu, 25 Sep 2025 03:19:45 GMT | Shift to Breach-Centric Security — Start with the Assumption That You’re Already Compromised | David SEHYEON Baek | [Read More](https://medium.com/p/987be8e46bcf) |
+| Thu, 25 Sep 2025 03:17:04 GMT | How Python Quietly Became My Secret Money-Making Tool | Kainat Nafees | [Read More](https://medium.com/p/aac776b6608c) |
+| Thu, 25 Sep 2025 03:11:29 GMT | Protect Your Privacy Online with 9Proxy’s Rotating Residential Proxies | Samuel Gonzales | [Read More](https://medium.com/p/1b909153380b) |
 | Thu, 25 Sep 2025 02:44:57 GMT | TryHackMe Walkthrough: Include | Indigo Shadow | [Read More](https://medium.com/p/a042932ffb88) |
 | Thu, 25 Sep 2025 02:30:01 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column (PostgreSQL 12.22) | Bash Overflow | [Read More](https://medium.com/p/d5cfb569a38b) |
 | Thu, 25 Sep 2025 02:15:21 GMT | Mental Health During the Infosec Job Hunt | VaRiOus_CanAriEs | [Read More](https://medium.com/p/198e532dbcc3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 18:02:12 GMT | Why Incident Response in OT is Different from IT | Cyberkech | [Read More](https://medium.com/p/f8790e5fea13) |
 | Wed, 24 Sep 2025 17:56:23 GMT | The 5-Minute Guide to Token Renewal: Don’t Get Caught in a Security Trap | Umesh Kumar Yadav | [Read More](https://medium.com/p/badc570db97a) |
 | Wed, 24 Sep 2025 17:46:56 GMT | Bypassing the Recruiter Firewall | JMP ESP FF E4 | [Read More](https://medium.com/p/782a5ca8f671) |
-| Wed, 24 Sep 2025 17:44:53 GMT | Freedom or Security? Why Governments Always Ask Us to Choose! | Ms Krys | [Read More](https://medium.com/p/65d6985f9823) |
-| Wed, 24 Sep 2025 17:44:13 GMT | Zero-Retention Software Shields Banks from 2025 AI Cyber Threats | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/45e7ad87d903) |
-| Wed, 24 Sep 2025 17:41:48 GMT | Multer in Node.js: It’s more than File Uploads | Vishesh Verma | [Read More](https://medium.com/p/af27b5045c47) |
-| Wed, 24 Sep 2025 17:24:00 GMT | Cloud Computing: Mengenal Model Layanan (IaaS, PaaS, dan SaaS) | Muhammad Surya Saputro | [Read More](https://medium.com/p/1444cea5c327) |
-| Wed, 24 Sep 2025 17:23:20 GMT | Drones Paralyze Copenhagen, Russian Fighter Over German NATO Ship | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/741bf2af0db4) |
-| Wed, 24 Sep 2025 17:14:09 GMT | The Hidden Problems in the UK Security Industry: A Ghostwriter’s Perspective | Usman Zafar | [Read More](https://medium.com/p/b32e0f647ce1) |
