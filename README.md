@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 19:32:13 GMT | READ ON THEORITICAL STUDY ON NOISE MODELS FOR MOBILE QKD. | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/a3f51e643c5c) |
+| Thu, 25 Sep 2025 19:28:34 GMT | READ MORE ON QUANTUM CRYTOGRAPHY | Okai Tettey-Antie Samuel ( OTAS ) | [Read More](https://medium.com/p/7bd4217e11fa) |
+| Thu, 25 Sep 2025 19:16:55 GMT | Non-Malware and Living-off-the-Land Tactics in Modern Cyber Operations | Deniz Topaloglu | [Read More](https://medium.com/p/67c882a4126b) |
 | Thu, 25 Sep 2025 18:59:09 GMT | Terrier Cyber Quest 2025 — Brief Write-up | Somnath Das | [Read More](https://medium.com/p/b001310d025c) |
 | Thu, 25 Sep 2025 18:45:59 GMT | Find Info on Phone Numbers - OSINT | Shahzaib | [Read More](https://medium.com/p/655fa5281a30) |
 | Thu, 25 Sep 2025 18:41:46 GMT | The Production Database Disaster That Made GitLab Famous (For All the Wrong Reasons) | The Latency Gambler | [Read More](https://medium.com/p/f49b701c537d) |
@@ -110,6 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 13:36:00 GMT | The Invisible Leaks Draining Every Quick-Service Restaurant | Tec-Tel Communications | [Read More](https://medium.com/p/c08a617709a0) |
 | Thu, 25 Sep 2025 13:34:57 GMT | How I Fixed “Emulator Not Connecting to ADB (Connection Refused)” — Without Root or Factory Reset | sudo uday | [Read More](https://medium.com/p/696e82001c58) |
 | Thu, 25 Sep 2025 13:28:47 GMT | The Risks of NPM | Bandi Revanth | [Read More](https://medium.com/p/b3867e8a490d) |
-| Thu, 25 Sep 2025 13:27:04 GMT | It Might Be Time to Leave — And You Already Know Why | Ian Kiprono | [Read More](https://medium.com/p/0852a7e6e7f4) |
-| Thu, 25 Sep 2025 13:25:58 GMT | Okta ↔ Google Workspace: Practical Rollout & Testing Guide | Luispuello | [Read More](https://medium.com/p/58e3b0ca4728) |
-| Thu, 25 Sep 2025 13:19:47 GMT | Privileged Access Management (PAM): Guarding the Master Keys of IT | Natarajan C K | [Read More](https://medium.com/p/45411d3bf12e) |
