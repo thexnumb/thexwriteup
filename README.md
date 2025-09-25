@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 17:06:25 GMT | Linux Network Security: Advanced Firewalls and Intrusion Detection | Eren Cankut Uysal | [Read More](https://medium.com/p/eb8ce014f1f8) |
+| Thu, 25 Sep 2025 16:59:38 GMT | Cybersecurity Awareness: Why Everyone Needs to Be Educated | Deyvis Bravo | [Read More](https://medium.com/p/092ddea48d88) |
+| Thu, 25 Sep 2025 16:59:34 GMT | Advanced Linux Security Auditing and Penetration Testing | Eren Cankut Uysal | [Read More](https://medium.com/p/a05ed76f67ad) |
+| Thu, 25 Sep 2025 16:57:48 GMT | API Security: Defenses Tested in the Wild, Not Just on Paper | Vaishnavi Kengale | [Read More](https://medium.com/p/a0145445a49e) |
+| Thu, 25 Sep 2025 16:57:26 GMT | The Hidden Price of Convenience: How Our Data Became the World’s Most Valuable Currency | Hritam Dutta | [Read More](https://medium.com/p/60da25270975) |
 | Thu, 25 Sep 2025 16:44:12 GMT | XSS Explained: Types, Examples, and How to Prevent It | Prajwal Ahluwalia | [Read More](https://medium.com/p/9e2dce97f42f) |
 | Thu, 25 Sep 2025 16:33:59 GMT | Website Hacking Project: From Exploitation to Mitigation | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/0cd14b332741) |
 | Thu, 25 Sep 2025 16:26:32 GMT | Linux Audit System: Comprehensive Security Monitoring | Eren Cankut Uysal | [Read More](https://medium.com/p/f6cdde609b8a) |
@@ -108,8 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 11:37:46 GMT | THE IT ARCHITECTURE TAX | Mohammed Brückner | [Read More](https://medium.com/p/4223e5d46758) |
 | Thu, 25 Sep 2025 11:36:08 GMT | Quick question: how i send my 5,000 USDT from Okx-wallet to binance exchange ? | Joelle luxer | [Read More](https://medium.com/p/04b9a2bba060) |
 | Thu, 25 Sep 2025 11:35:40 GMT | OSINT Isn’t Easy — and That’s the Point | Sam Galope | [Read More](https://medium.com/p/d224685dc0fc) |
-| Thu, 25 Sep 2025 11:32:06 GMT | Valley writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/ab51ef5ee221) |
-| Thu, 25 Sep 2025 11:29:05 GMT | Cybersecurity Provider in the Middle East — Help AG | Yasinussf | [Read More](https://medium.com/p/af098336b97d) |
-| Thu, 25 Sep 2025 11:25:52 GMT | Cybersecurity in Africa: Opportunities and Challenges in Emerging Markets | Abdullateef Hameed | [Read More](https://medium.com/p/ae82ce564d9a) |
-| Thu, 25 Sep 2025 11:22:52 GMT | Why Cybersecurity is SO Important. | My Brandt | [Read More](https://medium.com/p/a998e2a291fe) |
-| Thu, 25 Sep 2025 11:22:20 GMT | Reading server logs: my Cisco Endpoint Security lab experience | Cyber Timi | [Read More](https://medium.com/p/a48bc1be2544) |
