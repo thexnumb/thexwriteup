@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 23:11:23 GMT | How a German environmental forum post could have saved Volkswagen from the biggest corporate… | Rishisec | [Read More](https://medium.com/p/281b750165f7) |
+| Thu, 25 Sep 2025 22:47:06 GMT | How One Bad Password Killed a 158-Year-Old Company Overnight | Cyber-AppSec | [Read More](https://medium.com/p/765966a77b35) |
+| Thu, 25 Sep 2025 22:46:31 GMT | My Cyber Life Adventure | Herominer | [Read More](https://medium.com/p/de8676063df8) |
+| Thu, 25 Sep 2025 22:45:42 GMT | Expressway Hachthebox Walkthrough | Ahmed Ghazal | [Read More](https://medium.com/p/492c7af40ef4) |
+| Thu, 25 Sep 2025 22:34:11 GMT | PhishDebate: Letting AI Argue Its Way to Safer Web Browsing | Chris Zhang | [Read More](https://medium.com/p/769377aca339) |
 | Thu, 25 Sep 2025 22:20:15 GMT | Trace IP Information using Office Docs | Saqlain Naqvi | [Read More](https://medium.com/p/620aa7b929b9) |
 | Thu, 25 Sep 2025 21:41:30 GMT | Building a Cyber Security Portfolio — Learning Step 1: Learning to Learning | Randy Puffin | [Read More](https://medium.com/p/87f8263ef6a5) |
 | Thu, 25 Sep 2025 21:41:17 GMT | Building a Cyber Security Portfolio — Networking Step 1: What being chronically online taught be… | Randy Puffin | [Read More](https://medium.com/p/87eb3ca826aa) |
@@ -108,8 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 15:21:52 GMT | Security for Edge AI Devices | Cyber Security Research | [Read More](https://medium.com/p/4f890e295b68) |
 | Thu, 25 Sep 2025 15:21:38 GMT | Windows Reconnaissance & Staging Detection | Neetrox | [Read More](https://medium.com/p/9d8f98dd81ae) |
 | Thu, 25 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/90f27b20c8ad) |
-| Thu, 25 Sep 2025 15:14:29 GMT | Cybersecurity in Digital Banking | Cyber Security Research | [Read More](https://medium.com/p/71a3ff3fae92) |
-| Thu, 25 Sep 2025 15:08:06 GMT | Emerging Threats in Cyber Espionage | Cyber Security Research | [Read More](https://medium.com/p/be397a7a1a8f) |
-| Thu, 25 Sep 2025 15:05:57 GMT | Ransom Paid. Victims Lost. Trail Exposed. | Vijay Kumar Gupta | [Read More](https://medium.com/p/840f610f5da8) |
-| Thu, 25 Sep 2025 15:04:00 GMT | “The Registration Flaw That Almost Got Missed: Hunting Weak Authentication Links” | Aman Sharma | [Read More](https://medium.com/p/75337daa6bf9) |
-| Thu, 25 Sep 2025 15:02:41 GMT | Cyber news : Heathrow hacked & RedNovember. | Cyber and Coffee | [Read More](https://medium.com/p/2efe4d5aa2af) |
