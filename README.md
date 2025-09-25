@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 08:41:24 GMT | Cybersecurity in 2025: How AI, Zero Trust, and Quantum Defense Are Reshaping Digital Resilience | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/22392080ca61) |
+| Thu, 25 Sep 2025 08:32:25 GMT | 10+ Best Cybersecurity Service Providers for Accounting Offices in 2025 — Protect Your Firm | Fiona Campbell | [Read More](https://medium.com/p/395b3d24c49f) |
+| Thu, 25 Sep 2025 08:29:02 GMT | Why I Think Specialization is the Only Way to Succeed in Bug Bounties in 2025 | Andrei Ivan | [Read More](https://medium.com/p/7154b5a5a5af) |
+| Thu, 25 Sep 2025 08:29:01 GMT | One of the Most Popular Cyberspace Search Engines — ZoomEye | Liuliuliusq | [Read More](https://medium.com/p/71566156afca) |
+| Thu, 25 Sep 2025 08:28:01 GMT | Ambidexterity at the Edge: Why Outsiders Drive Innovation | Andres Lage | [Read More](https://medium.com/p/1508826a14f7) |
+| Thu, 25 Sep 2025 08:27:47 GMT | Deep Dive: Pass-the-Hash and Pass-the-Ticket — Reuse of Identity Material | Esra Kayhan | [Read More](https://medium.com/p/215178783b59) |
+| Thu, 25 Sep 2025 08:25:19 GMT | Kenobi | Syed | [Read More](https://medium.com/p/e0ad1bba28bb) |
+| Thu, 25 Sep 2025 08:23:51 GMT | How VOXCompanies® Adapts to Tech Disruption | VOXCompanies | [Read More](https://medium.com/p/086d936395f0) |
+| Thu, 25 Sep 2025 08:17:55 GMT | Software for the flash ROM development board | Mansfield-Devine | [Read More](https://medium.com/p/8913ffe00429) |
 | Thu, 25 Sep 2025 08:16:56 GMT | COMPTIA Security+ Certification: Career Path in Cybersecurity | Shettymanishg | [Read More](https://medium.com/p/84288268b141) |
+| Thu, 25 Sep 2025 08:15:51 GMT | Navigating Risk in a Fast-Paced Tech Environment: My Journey So Far | Desire Lumene | [Read More](https://medium.com/p/a6a30be58644) |
+| Thu, 25 Sep 2025 08:14:24 GMT | How VOXCompanies® Leverages Cloud Technology | VOXCompanies | [Read More](https://medium.com/p/6ff0e5f1fcf2) |
 | Thu, 25 Sep 2025 08:10:06 GMT | What Is Kiosk Software? A Beginner’s Guide | Vantage MDM | [Read More](https://medium.com/p/28a1d919c673) |
 | Thu, 25 Sep 2025 08:02:55 GMT | Broken Access Control Lab: User Role Control via Request Parameter | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/45fbbe650edb) |
 | Thu, 25 Sep 2025 07:59:20 GMT | CipherPass: The Zero-Knowledge Password Manager That Changes Everything | muskartechblog | [Read More](https://medium.com/p/dfbe1b1dae82) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 01:11:46 GMT | TryHackMe #50 - Digital Forensics Fundamentals | 0xGroot | [Read More](https://medium.com/p/e5c300c61f8c) |
 | Thu, 25 Sep 2025 01:07:47 GMT | TryHackMe #49 - SOC Fundamentals | 0xGroot | [Read More](https://medium.com/p/729107b97832) |
 | Thu, 25 Sep 2025 00:59:27 GMT | How Criminal IP is Securing the Expanding Attack Surface — Before It’s Too Late | Criminal IP | [Read More](https://medium.com/p/579af03ebf69) |
-| Thu, 25 Sep 2025 00:41:10 GMT | Analyzing DHCP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/19cb4828cddf) |
-| Thu, 25 Sep 2025 00:29:30 GMT | Vulnerable Bank (Vuln-Bank) | Relaaxx | [Read More](https://medium.com/p/12642970f536) |
-| Thu, 25 Sep 2025 00:05:01 GMT | How Hackers Use AI to Find Vulnerabilities Faster | Vipul Sonule | [Read More](https://medium.com/p/248bc162c07e) |
-| Thu, 25 Sep 2025 00:03:27 GMT | The NT LAN Manager (NTLM) Authentication | Alouli Mohamed Zaid | [Read More](https://medium.com/p/12e32660e32f) |
-| Wed, 24 Sep 2025 23:22:16 GMT | Claude vs Humans: Anthropic’s CTF Run - ToxSec | ToxSec | [Read More](https://medium.com/p/85df33b4bba9) |
-| Wed, 24 Sep 2025 23:07:10 GMT | Privilege Escalation: Member Role Can Change Organization Name and Photo | HBlack Ghost | [Read More](https://medium.com/p/702e00786a42) |
-| Wed, 24 Sep 2025 22:58:25 GMT | Blog — TryHackMe CTF | Wev_Sec | [Read More](https://medium.com/p/71f900135b21) |
-| Wed, 24 Sep 2025 22:04:06 GMT | Hiding in Plain Sight: Steganography, C2, and SVG Files | Tom O'Neill | [Read More](https://medium.com/p/567df7ceea20) |
-| Wed, 24 Sep 2025 21:46:05 GMT | Why Microsoft 365 Has Become The Greatest Risk | Samuel Tutor | [Read More](https://medium.com/p/e34d19252089) |
-| Wed, 24 Sep 2025 21:45:23 GMT | Cybersecurity Career Transition: From IT to OT | Digital & Spiritual | [Read More](https://medium.com/p/9d2ff999d7e6) |
-| Wed, 24 Sep 2025 21:42:03 GMT | PJPT : 14 Hours Battle, One Domain Controller, and Countless Lessons: PJPT Journey | Piyush Raghatate | [Read More](https://medium.com/p/7cf71f80e3af) |
