@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 06:26:50 GMT | Identifying Common Security Gaps and How to Fix Them. | Skysecure Technologies | [Read More](https://medium.com/p/fa45e72a054c) |
+| Thu, 25 Sep 2025 06:16:33 GMT | Cybersecurity Isn’t Just for Techies — It’s for Everyone | Lakshita Gulliya | [Read More](https://medium.com/p/5664cb877325) |
+| Thu, 25 Sep 2025 06:16:30 GMT | OT/ICS Cybersecurity and DCS Training Overview | TheEvolvEdge | [Read More](https://medium.com/p/446377036648) |
+| Thu, 25 Sep 2025 06:13:31 GMT | Object-Oriented Programming (OOP) in Python Made Simple | Nishubirla | [Read More](https://medium.com/p/15ca653ff37a) |
+| Thu, 25 Sep 2025 06:09:01 GMT | Today’s Cyber security Landscape : Cisco Zero-Day Exploited, Major Airlines Disrupted, and… | Athishsagarkishan | [Read More](https://medium.com/p/5bd44bdfe66c) |
+| Thu, 25 Sep 2025 06:08:51 GMT | 7 Python Shortcuts I Wish I Knew Before Writing 10,000 Lines of Code | Fateyaly | [Read More](https://medium.com/p/bcaf3b68178e) |
+| Thu, 25 Sep 2025 06:07:16 GMT | The Hacker’s Map: From Recon to Persistence — How Attacks Actually Flow | Fateyaly | [Read More](https://medium.com/p/dc0b4e03c23e) |
+| Thu, 25 Sep 2025 06:03:40 GMT | Stopping Cyber Threats Before They Strike: ASM & CSPM, Backed by the GRC Shield | Cytrusst | [Read More](https://medium.com/p/db9fc802369b) |
+| Thu, 25 Sep 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Sep 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/48cc71ba92b8) |
+| Thu, 25 Sep 2025 05:55:48 GMT | Samsung Galaxy S26 Release Date Revealed: What to Expect in 2025 | Aria Sullivan | [Read More](https://medium.com/p/da061e126ef8) |
+| Thu, 25 Sep 2025 05:51:14 GMT | Protecting React Apps Against XSS and CSRF | Karthikeyan NS | [Read More](https://medium.com/p/de31707079a6) |
 | Thu, 25 Sep 2025 05:39:11 GMT | Why Cybersecurity is Not an Option, But a Necessity | Bikash Peeripaul | [Read More](https://medium.com/p/56fbd9fe8fdb) |
 | Thu, 25 Sep 2025 05:37:12 GMT | Portswigger Web Security Academy - Clickjacking Lab #1 | BooRuleDie | [Read More](https://medium.com/p/f7641c502f75) |
 | Thu, 25 Sep 2025 05:36:27 GMT | Obscura Ransomware: Breaking Down an Obscure but Lethal AD Attack | InfoShieldah | [Read More](https://medium.com/p/c39664700dfd) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 19:38:22 GMT | You Won’t Believe How Easy Prompt Injection Really Is (Funny Story Inside) | Jaydeep Karale | [Read More](https://medium.com/p/d7de6370aae8) |
 | Wed, 24 Sep 2025 19:30:11 GMT | Travelers Are Saving Hundreds With This Genius Luggage Trick | Marc Ford | [Read More](https://medium.com/p/15d2eea60605) |
 | Wed, 24 Sep 2025 19:30:00 GMT | GrabThePhisher | Adewale Ayomide | [Read More](https://medium.com/p/3d9a2215c325) |
-| Wed, 24 Sep 2025 19:27:52 GMT | Day 8 — Crushing the Login Page: Hydra, Dictionary Attacks, and Responsible Lab Practice | HackTrace | [Read More](https://medium.com/p/49fd4bebcce0) |
-| Wed, 24 Sep 2025 19:24:45 GMT | DevSecOps from Day Zero: How to Embed Security in Your CI/CD Pipeline | Sumit Sharma | [Read More](https://medium.com/p/fcdb1a31aca0) |
-| Wed, 24 Sep 2025 19:20:05 GMT | The Final Frontier: Navigating Doubts and Roadblocks on the Twin Flame Path to “I Do” | Senorita Eugenia | [Read More](https://medium.com/p/cfd5688278d2) |
-| Wed, 24 Sep 2025 19:17:59 GMT | The Left’s ‘Gray Zone’ for Political Violence: Implications for AI, Cybersecurity, and Legal… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/2c3aa5f1c387) |
-| Wed, 24 Sep 2025 19:16:25 GMT | Take Back Control: 5 Quick Phone Settings That Protect Your Data Today | Patches | [Read More](https://medium.com/p/c7e0513a6e7f) |
-| Wed, 24 Sep 2025 19:13:58 GMT | TryHackMe-Hammer | Abdullah Al Ahad | [Read More](https://medium.com/p/64d1628dd74b) |
-| Wed, 24 Sep 2025 19:11:05 GMT | Part 3: From backyard to battlefield, Building the Airframe. | Pipeline | [Read More](https://medium.com/p/ded607ff6d49) |
-| Wed, 24 Sep 2025 19:04:47 GMT | Group Policy Made Simple | Omarmoamen | [Read More](https://medium.com/p/3fbd668d1c29) |
-| Wed, 24 Sep 2025 18:53:09 GMT | Detailed Walkthrough: Alert SOC146 — Phishing Mail Detected — Excel 4.0 Macros (Let’s Defend) | SieGer | [Read More](https://medium.com/p/f92a7ae50a58) |
-| Wed, 24 Sep 2025 18:50:00 GMT | Zero To Hacker: How A Cybersecurity Bootcamp Can Change Your Career | Smith Adams | [Read More](https://medium.com/p/2be6b7887390) |
-| Wed, 24 Sep 2025 18:49:20 GMT | The AI Security Crisis: Deconstructing the 300% Surge in Prompt Injection Attacks | Shakir Majeed Mir | [Read More](https://medium.com/p/f6e4ab1ff122) |
