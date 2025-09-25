@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 14:44:04 GMT | The Hidden Costs of Cyber Insurance for Dental Practices (and How to Avoid Them) | Christian Tennant | [Read More](https://medium.com/p/86c2e706e1e1) |
+| Thu, 25 Sep 2025 14:31:26 GMT | Tools & Resources — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/ea00e2a28b5e) |
+| Thu, 25 Sep 2025 14:29:24 GMT | The Day PostgreSQL Crash at Scale (and How to Recover) | Rizqi Mulki | [Read More](https://medium.com/p/84d33203772a) |
+| Thu, 25 Sep 2025 14:26:56 GMT | How Your Enterprise Can Build a Resilient Cybersecurity Framework | IT_Engineer | [Read More](https://medium.com/p/dba3e2a9292f) |
+| Thu, 25 Sep 2025 14:19:44 GMT | Are Antivirus Companies Running a Billion-Dollar Scam? | Rizqi Mulki | [Read More](https://medium.com/p/cf35d97a7f7c) |
+| Thu, 25 Sep 2025 14:17:47 GMT | Tired of MITM Attacks? Here’s How Certificate Pinning Stops Them Cold | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/37f1044c3b48) |
 | Thu, 25 Sep 2025 14:15:15 GMT | Can MariaDB Destroy Oracle’s Grip on Databases? | Rizqi Mulki | [Read More](https://medium.com/p/12f5c14e303c) |
 | Thu, 25 Sep 2025 14:01:58 GMT | Cyber Briefing: 2025.09.25 | CyberMaterial | [Read More](https://medium.com/p/77317090f2d1) |
 | Thu, 25 Sep 2025 14:01:00 GMT | ABTU as a Movement: Digital Sovereignty in the Web3 Era | Abatis ABTU | [Read More](https://medium.com/p/d5f61b88debc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 09:44:29 GMT | Hacking Noob? Unlock Your Potential: A Beginner’s Guide | SilentInject | [Read More](https://medium.com/p/28b9f915558d) |
 | Thu, 25 Sep 2025 09:40:19 GMT | “Air-Gapped Signing” & “Seamless Binding”: How Digital Shield Ends the Web3 Security Compromise… | Digital Shield Offcial | [Read More](https://medium.com/p/3fbca21d592b) |
 | Thu, 25 Sep 2025 09:37:59 GMT | Panduan Installasi OS Server: Windows Server & Ubuntu Server 24.04 | Zifa Tea Azzahra | [Read More](https://medium.com/p/0afd78d79797) |
-| Thu, 25 Sep 2025 09:28:34 GMT | Top 5 cybersecurity practices to protect yourself online | Naveed | [Read More](https://medium.com/p/a65cad6ba806) |
-| Thu, 25 Sep 2025 09:27:27 GMT | DockerLabs Writeup — Grooti (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b6c06377bdf4) |
-| Thu, 25 Sep 2025 09:26:43 GMT | Which Is the Best Platform to Learn Cybersecurity? My Top 10 Picks & How to Decide | Ann E | [Read More](https://medium.com/p/ea5af07c6c20) |
-| Thu, 25 Sep 2025 09:20:19 GMT | Path traversal(directory traversal) | Saksham Singh | [Read More](https://medium.com/p/5d2e810486d4) |
-| Thu, 25 Sep 2025 09:17:28 GMT | Active Directory Pentesting — HTB Cicada | 0xRC404 | [Read More](https://medium.com/p/00e9adeb7ac8) |
-| Thu, 25 Sep 2025 09:14:28 GMT | The Dangerous Theft Behind Fake Job Ads | O. J. Okpabi | [Read More](https://medium.com/p/d4ae93245b51) |
