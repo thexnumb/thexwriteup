@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 17:28:42 GMT | Siber Savaşın Şifresi: Tehdit İstihbaratını (CTI) Tersine Mühendislikle Nasıl Üretiriz? | Şeyma Erol | [Read More](https://medium.com/p/cbd911d799bc) |
+| Thu, 25 Sep 2025 17:27:36 GMT | The Shadows in Modern IT | Niclas Kjellin | [Read More](https://medium.com/p/86d0d48c7e66) |
+| Thu, 25 Sep 2025 17:23:55 GMT | AI Security Tools — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/7a454bb70d00) |
+| Thu, 25 Sep 2025 17:21:15 GMT | Indian Army Terrier Cyber Quest 2025 CTF Writeup | Leris | [Read More](https://medium.com/p/e19c47f0f265) |
+| Thu, 25 Sep 2025 17:16:40 GMT | Why Agentic AI Is More Dangerous Than Deepfakes | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/732005b2f356) |
+| Thu, 25 Sep 2025 17:16:06 GMT | Cybersecurity Solutions: The Smart Shield for a Digital-First Economy | Technijian ITSupport | [Read More](https://medium.com/p/520f0e8e145f) |
+| Thu, 25 Sep 2025 17:15:05 GMT | Siber Güvenlik 101 —CTI (Cyber Threat Intelligence) | Sude Çoban | [Read More](https://medium.com/p/9c347d46b42d) |
 | Thu, 25 Sep 2025 17:06:25 GMT | Linux Network Security: Advanced Firewalls and Intrusion Detection | Eren Cankut Uysal | [Read More](https://medium.com/p/eb8ce014f1f8) |
 | Thu, 25 Sep 2025 16:59:38 GMT | Cybersecurity Awareness: Why Everyone Needs to Be Educated | Deyvis Bravo | [Read More](https://medium.com/p/092ddea48d88) |
 | Thu, 25 Sep 2025 16:59:34 GMT | Advanced Linux Security Auditing and Penetration Testing | Eren Cankut Uysal | [Read More](https://medium.com/p/a05ed76f67ad) |
@@ -106,10 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 12:10:12 GMT | Inside a Coordinated Reconnaissance Campaign: What Inbound Traffic Revealed | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/2b973bb9084a) |
 | Thu, 25 Sep 2025 12:06:27 GMT | A Importância de Comparar Preços e Produtos Antes de Comprar: O Exemplo do iPhone 17 | UCALADO | [Read More](https://medium.com/p/c0f79ccb8dc0) |
 | Thu, 25 Sep 2025 12:06:01 GMT | Top Cybersecurity Tools to Protect Your Business Data | Barry Bekkedam | [Read More](https://medium.com/p/7ace5aa07185) |
-| Thu, 25 Sep 2025 11:53:52 GMT | Case Study Thought: Stop Chasing Trends, Start Building Trust | EXLITY | [Read More](https://medium.com/p/a970882fa9d0) |
-| Thu, 25 Sep 2025 11:49:28 GMT | AI in Cybersecurity: Friend, Foe, or Both? | TheReviewHive | [Read More](https://medium.com/p/924e194de2ac) |
-| Thu, 25 Sep 2025 11:48:33 GMT | Bug Bounty: Automated Directory Search [Advanced Recon] | Siddharth Rose | [Read More](https://medium.com/p/a8ece7a5ccad) |
-| Thu, 25 Sep 2025 11:47:18 GMT | Stop Saying Cybersecurity Training is “Too Expensive” | Peter Hillier/Halton | [Read More](https://medium.com/p/88bbb1e8e980) |
-| Thu, 25 Sep 2025 11:37:46 GMT | THE IT ARCHITECTURE TAX | Mohammed Brückner | [Read More](https://medium.com/p/4223e5d46758) |
-| Thu, 25 Sep 2025 11:36:08 GMT | Quick question: how i send my 5,000 USDT from Okx-wallet to binance exchange ? | Joelle luxer | [Read More](https://medium.com/p/04b9a2bba060) |
-| Thu, 25 Sep 2025 11:35:40 GMT | OSINT Isn’t Easy — and That’s the Point | Sam Galope | [Read More](https://medium.com/p/d224685dc0fc) |
