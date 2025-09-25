@@ -12,12 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 04:11:47 GMT | Linux Learning Journey: From Networking Basics to System Security | Ardutra Agi | [Read More](https://medium.com/p/b40079cceaf1) |
+| Thu, 25 Sep 2025 04:08:31 GMT | MyGov and Google: A case study on manufactured consent | Mitchell Walker | [Read More](https://medium.com/p/c4160019db49) |
+| Thu, 25 Sep 2025 04:01:44 GMT | 5 Ways To Secure Dedicated Server | HostNOC | [Read More](https://medium.com/p/7aef1d7dee9f) |
+| Thu, 25 Sep 2025 03:58:17 GMT | The Non-Paranoid Guide to Sharing Documents Securely | Howard Shaw | [Read More](https://medium.com/p/8f10bafce2d9) |
+| Thu, 25 Sep 2025 03:52:46 GMT | How to Tell If You’ve Been “Brain-Hacked”: a first-person account and warning | Truthseeker | [Read More](https://medium.com/p/3162a3b45b40) |
+| Thu, 25 Sep 2025 03:49:24 GMT | My Python KeyLogger Project: More Than Just Keystroke Capture! | bolewara | [Read More](https://medium.com/p/7d77826278f5) |
 | Thu, 25 Sep 2025 03:36:01 GMT | Security Home-lab: Installation and First “Attack” | Jordan Palumbo | [Read More](https://medium.com/p/e6ff643226d1) |
 | Thu, 25 Sep 2025 03:31:50 GMT | The Hidden Cost of Free Games: How Pirated Games Are Spreading HijackLoader | Deven Chhajed | [Read More](https://medium.com/p/55249e2d466e) |
 | Thu, 25 Sep 2025 03:31:50 GMT | API Pentesting Part 3: Why APIs Are Hacker Magnets-A Tale of Improper Input Validation and Mass… | Blue_eye | [Read More](https://medium.com/p/15b352c51d8b) |
 | Thu, 25 Sep 2025 03:19:45 GMT | Shift to Breach-Centric Security — Start with the Assumption That You’re Already Compromised | David SEHYEON Baek | [Read More](https://medium.com/p/987be8e46bcf) |
 | Thu, 25 Sep 2025 03:17:04 GMT | How Python Quietly Became My Secret Money-Making Tool | Kainat Nafees | [Read More](https://medium.com/p/aac776b6608c) |
 | Thu, 25 Sep 2025 03:11:29 GMT | Protect Your Privacy Online with 9Proxy’s Rotating Residential Proxies | Samuel Gonzales | [Read More](https://medium.com/p/1b909153380b) |
+| Thu, 25 Sep 2025 02:44:59 GMT | Sebuah Refleksi: Kenapa Teknik Informatika | Aidan Gabriel | [Read More](https://medium.com/p/2b057d0fc5a8) |
 | Thu, 25 Sep 2025 02:44:57 GMT | TryHackMe Walkthrough: Include | Indigo Shadow | [Read More](https://medium.com/p/a042932ffb88) |
 | Thu, 25 Sep 2025 02:30:01 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column (PostgreSQL 12.22) | Bash Overflow | [Read More](https://medium.com/p/d5cfb569a38b) |
 | Thu, 25 Sep 2025 02:15:21 GMT | Mental Health During the Infosec Job Hunt | VaRiOus_CanAriEs | [Read More](https://medium.com/p/198e532dbcc3) |
@@ -40,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 01:07:47 GMT | TryHackMe #49 - SOC Fundamentals | 0xGroot | [Read More](https://medium.com/p/729107b97832) |
 | Thu, 25 Sep 2025 00:59:27 GMT | How Criminal IP is Securing the Expanding Attack Surface — Before It’s Too Late | Criminal IP | [Read More](https://medium.com/p/579af03ebf69) |
 | Thu, 25 Sep 2025 00:41:10 GMT | Analyzing DHCP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/19cb4828cddf) |
+| Thu, 25 Sep 2025 00:29:30 GMT | Vulnerable Bank (Vuln-Bank) | Relaaxx | [Read More](https://medium.com/p/12642970f536) |
 | Thu, 25 Sep 2025 00:05:01 GMT | How Hackers Use AI to Find Vulnerabilities Faster | Vipul Sonule | [Read More](https://medium.com/p/248bc162c07e) |
 | Thu, 25 Sep 2025 00:03:27 GMT | The NT LAN Manager (NTLM) Authentication | Alouli Mohamed Zaid | [Read More](https://medium.com/p/12e32660e32f) |
 | Wed, 24 Sep 2025 23:22:16 GMT | Claude vs Humans: Anthropic’s CTF Run - ToxSec | ToxSec | [Read More](https://medium.com/p/85df33b4bba9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 18:21:20 GMT | Why the tokenized AI system is costing you arm and leg : | Vijay Mane | [Read More](https://medium.com/p/e961535ea41a) |
 | Wed, 24 Sep 2025 18:16:48 GMT | Why Your “Flaws” Are Actually Your Superpower | Asma | [Read More](https://medium.com/p/c5277edfd732) |
 | Wed, 24 Sep 2025 18:15:38 GMT | Talos and Oasis Are Building a new era of on-chain intelligence. | Blockchainer | [Read More](https://medium.com/p/18d94c51ed1b) |
-| Wed, 24 Sep 2025 18:13:57 GMT | THE INTER(r)NET: A CONNECT TO THE DISCONNECT INTRODUCTION: THE DAWN OF DIGITAL MYTHOS | Edward Maxus I Kiweewa | [Read More](https://medium.com/p/52fe377cc600) |
-| Wed, 24 Sep 2025 18:11:47 GMT | Top 5 Cloud Security Risks In 2025: How To Protect Your Business In The Cloud | Lumiversesolution | [Read More](https://medium.com/p/c1b9e452f0c8) |
-| Wed, 24 Sep 2025 18:08:30 GMT | AWS SHARED RESPONSIBILITY MODEL. | Akefe Samuel | [Read More](https://medium.com/p/db54f2659c67) |
-| Wed, 24 Sep 2025 18:08:29 GMT | THM - Investigating with Splunk | Francesco Pastore | [Read More](https://medium.com/p/f1d4db74ca4c) |
-| Wed, 24 Sep 2025 18:02:12 GMT | Comunidad Discord Pentesting y Bug Bounty | Gorka | [Read More](https://medium.com/p/b51c9cd322b4) |
-| Wed, 24 Sep 2025 18:02:12 GMT | Why Incident Response in OT is Different from IT | Cyberkech | [Read More](https://medium.com/p/f8790e5fea13) |
-| Wed, 24 Sep 2025 17:56:23 GMT | The 5-Minute Guide to Token Renewal: Don’t Get Caught in a Security Trap | Umesh Kumar Yadav | [Read More](https://medium.com/p/badc570db97a) |
-| Wed, 24 Sep 2025 17:46:56 GMT | Bypassing the Recruiter Firewall | JMP ESP FF E4 | [Read More](https://medium.com/p/782a5ca8f671) |
