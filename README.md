@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 08:16:56 GMT | COMPTIA Security+ Certification: Career Path in Cybersecurity | Shettymanishg | [Read More](https://medium.com/p/84288268b141) |
+| Thu, 25 Sep 2025 08:10:06 GMT | What Is Kiosk Software? A Beginner’s Guide | Vantage MDM | [Read More](https://medium.com/p/28a1d919c673) |
+| Thu, 25 Sep 2025 08:02:55 GMT | Broken Access Control Lab: User Role Control via Request Parameter | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/45fbbe650edb) |
+| Thu, 25 Sep 2025 07:59:20 GMT | CipherPass: The Zero-Knowledge Password Manager That Changes Everything | muskartechblog | [Read More](https://medium.com/p/dfbe1b1dae82) |
+| Thu, 25 Sep 2025 07:58:51 GMT | One Weak Link, Thousands of Victims: Supply Chain Attacks | Burakozbey | [Read More](https://medium.com/p/fe4759168d30) |
+| Thu, 25 Sep 2025 07:56:27 GMT | The Future of Cybersecurity and The Need for Proactive Measures | kanuka rawat | [Read More](https://medium.com/p/68df91316297) |
+| Thu, 25 Sep 2025 07:55:07 GMT | How to Trace an IP Address (Beginner’s OSINT Guide with Real Example) | S.Ali | [Read More](https://medium.com/p/440a22fa6e9c) |
+| Thu, 25 Sep 2025 07:53:17 GMT | From The Lab to the SOC: Generating Telemetry and Detecting Malicious Activity in an Isolated… | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/4d02ec2e011c) |
+| Thu, 25 Sep 2025 07:52:34 GMT | Weekly Threat Intelligece Report 23 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/d9f3b20bdcc7) |
+| Thu, 25 Sep 2025 07:50:51 GMT | Weekly Threat Intelligece Report 16 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/051f344f962d) |
+| Thu, 25 Sep 2025 07:48:56 GMT | Fixing Burp Suite BApp Store and Update Errors Behind Zscaler (Windows Only) | Shivams | [Read More](https://medium.com/p/0830395d5a70) |
+| Thu, 25 Sep 2025 07:48:17 GMT | Top 3 Books Every Bug Bounty Hunter MUST Read! - Bug Bounty 2025 Guide | Shahzaib | [Read More](https://medium.com/p/75de82552e65) |
+| Thu, 25 Sep 2025 07:47:20 GMT | Pier Walkthrough — From RCE to Root in TorrentPier 2.4.1 | Maxwell Ferreira | [Read More](https://medium.com/p/c349a06c2c92) |
+| Thu, 25 Sep 2025 07:45:24 GMT | Passive Crawling with Burp Suite | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/c79d77895094) |
 | Thu, 25 Sep 2025 07:31:17 GMT | Unmasking Blind XSS: A Hacker’s Guide to High-Paying Bounties | coffinxp | [Read More](https://medium.com/p/fc9e6ced5b0b) |
+| Thu, 25 Sep 2025 07:24:49 GMT | Found: an IDOR in a Game Full of Hunters | file.bug | [Read More](https://medium.com/p/0ee8abd08589) |
 | Thu, 25 Sep 2025 07:20:16 GMT | From Sci-Fi to Cybersecurity | Aj | [Read More](https://medium.com/p/712ad032edf5) |
 | Thu, 25 Sep 2025 07:17:55 GMT | ‎️ State Policing & Citizens’ Safety in Plateau State: A Call to Protect Lives First
 ‎
@@ -99,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 21:46:05 GMT | Why Microsoft 365 Has Become The Greatest Risk | Samuel Tutor | [Read More](https://medium.com/p/e34d19252089) |
 | Wed, 24 Sep 2025 21:45:23 GMT | Cybersecurity Career Transition: From IT to OT | Digital & Spiritual | [Read More](https://medium.com/p/9d2ff999d7e6) |
 | Wed, 24 Sep 2025 21:42:03 GMT | PJPT : 14 Hours Battle, One Domain Controller, and Countless Lessons: PJPT Journey | Piyush Raghatate | [Read More](https://medium.com/p/7cf71f80e3af) |
-| Wed, 24 Sep 2025 21:38:17 GMT | Expressway — Write-Up (HackTheBox Walkthrough) | KRY | [Read More](https://medium.com/p/a132d9155913) |
-| Wed, 24 Sep 2025 21:33:54 GMT | Preventing and Recovering from Cryptocurrency Scams: What to Do After Losing Funds | Beaconbnbtech | [Read More](https://medium.com/p/b8ba477dfc69) |
-| Wed, 24 Sep 2025 21:18:47 GMT | Advanced API Security: Beyond OWASP Top 10 | Andrei Ivan | [Read More](https://medium.com/p/bb5239554526) |
-| Wed, 24 Sep 2025 21:14:11 GMT | The Day ChatGPT Became a Data Thief (And Why It Should Terrify You) | Anika | [Read More](https://medium.com/p/cee018f404b4) |
-| Wed, 24 Sep 2025 21:08:49 GMT | How to Setup an Ethereum Node (Part 3) | TrashPirate | [Read More](https://medium.com/p/45d68d86af26) |
-| Wed, 24 Sep 2025 21:05:14 GMT | How One Weak Password Doomed a 158-Year-Old Business | Samuel Tutor | [Read More](https://medium.com/p/9d11a6630ba0) |
-| Wed, 24 Sep 2025 21:01:47 GMT | The Dark Web OSINT Toolkit: Beyond the Search Bar | eRRoR | [Read More](https://medium.com/p/41815db4d75d) |
-| Wed, 24 Sep 2025 20:55:48 GMT | Top 10 Cyber Risks Businesses Face in 2025 - Mitigation Guide | Redkite Network | [Read More](https://medium.com/p/ba2712d62504) |
-| Wed, 24 Sep 2025 20:54:52 GMT | The Great American Betrayal: How H1-B and F1 Visas Enabled $600 Billion Wealth Transfer While… | Colin Bitterfield | [Read More](https://medium.com/p/05a806c3890a) |
-| Wed, 24 Sep 2025 20:49:49 GMT | Why Hiring Security Guards in Calgary Protects Your Business | Nimra Sheikh | [Read More](https://medium.com/p/b28712098706) |
-| Wed, 24 Sep 2025 20:49:28 GMT | 20 Top Monthly Insights — AI Security— September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/3243435d559d) |
-| Wed, 24 Sep 2025 20:44:28 GMT | Open Source SIEM Response Made Simple: Dynamic Endpoint Actions with SOCFortress CoPilot | SOCFortress | [Read More](https://medium.com/p/0d999d082c47) |
-| Wed, 24 Sep 2025 20:43:56 GMT | Postman Flows: The Most Underrated Feature You’re Not Using | Nurlan Guliyev | [Read More](https://medium.com/p/e9346bcd39ec) |
-| Wed, 24 Sep 2025 20:37:30 GMT | Stepping Into the World of Networking & Cybersecurity | Anika | [Read More](https://medium.com/p/8a7daf94ed21) |
-| Wed, 24 Sep 2025 20:34:04 GMT | EMBER2024 Levels Up with CAPA: Bringing Function-Level Behavior into Malware ML | Chris Zhang | [Read More](https://medium.com/p/5a6fcb93a0bf) |
