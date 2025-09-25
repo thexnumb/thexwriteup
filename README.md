@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 23:31:45 GMT | Netflix’s God-Tier Product Placement: A Masterclass in Defending Against AI Threats | Scott Huang | [Read More](https://medium.com/p/a23d3a9ea9a9) |
+| Thu, 25 Sep 2025 23:18:12 GMT | # Drosera Network: Ethereum’s Decentralized Immune System for Web3 Security | Kazycrypts | [Read More](https://medium.com/p/2ed04697243f) |
 | Thu, 25 Sep 2025 23:11:23 GMT | How a German environmental forum post could have saved Volkswagen from the biggest corporate… | Rishisec | [Read More](https://medium.com/p/281b750165f7) |
 | Thu, 25 Sep 2025 22:47:06 GMT | How One Bad Password Killed a 158-Year-Old Company Overnight | Cyber-AppSec | [Read More](https://medium.com/p/765966a77b35) |
 | Thu, 25 Sep 2025 22:46:31 GMT | My Cyber Life Adventure | Herominer | [Read More](https://medium.com/p/de8676063df8) |
@@ -111,5 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 15:22:03 GMT | Inside Snapdragon X2 Elite: How Qualcomm’s New Chip Aims to Make Laptops Truly Unhackable | Ali Muhammad | [Read More](https://medium.com/p/c8758057100e) |
 | Thu, 25 Sep 2025 15:22:02 GMT | Understanding Agentic AI in the SOC | Tyler Wall | [Read More](https://medium.com/p/144c20c55de7) |
 | Thu, 25 Sep 2025 15:21:52 GMT | Security for Edge AI Devices | Cyber Security Research | [Read More](https://medium.com/p/4f890e295b68) |
-| Thu, 25 Sep 2025 15:21:38 GMT | Windows Reconnaissance & Staging Detection | Neetrox | [Read More](https://medium.com/p/9d8f98dd81ae) |
-| Thu, 25 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/90f27b20c8ad) |
