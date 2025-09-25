@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 22:20:15 GMT | Trace IP Information using Office Docs | Saqlain Naqvi | [Read More](https://medium.com/p/620aa7b929b9) |
 | Thu, 25 Sep 2025 21:41:30 GMT | Building a Cyber Security Portfolio — Learning Step 1: Learning to Learning | Randy Puffin | [Read More](https://medium.com/p/87f8263ef6a5) |
 | Thu, 25 Sep 2025 21:41:17 GMT | Building a Cyber Security Portfolio — Networking Step 1: What being chronically online taught be… | Randy Puffin | [Read More](https://medium.com/p/87eb3ca826aa) |
 | Thu, 25 Sep 2025 21:38:09 GMT | Using AI (Like ChatGPT) in GovCon Proposal Writing: A Practical, Secure, and Repeatable Playbook | Mindset | [Read More](https://medium.com/p/bedf8f1a4e39) |
@@ -112,4 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 15:05:57 GMT | Ransom Paid. Victims Lost. Trail Exposed. | Vijay Kumar Gupta | [Read More](https://medium.com/p/840f610f5da8) |
 | Thu, 25 Sep 2025 15:04:00 GMT | “The Registration Flaw That Almost Got Missed: Hunting Weak Authentication Links” | Aman Sharma | [Read More](https://medium.com/p/75337daa6bf9) |
 | Thu, 25 Sep 2025 15:02:41 GMT | Cyber news : Heathrow hacked & RedNovember. | Cyber and Coffee | [Read More](https://medium.com/p/2efe4d5aa2af) |
-| Thu, 25 Sep 2025 15:01:36 GMT | Which Programming Language Will Be Successful in 2026? | Cs Kumar | [Read More](https://medium.com/p/1b9f83f22f2b) |
