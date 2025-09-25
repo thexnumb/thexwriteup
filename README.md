@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 11:09:30 GMT | I Ignored a “Minor” Security Alert: Here’s What Happened Next | Arfa | [Read More](https://medium.com/p/4a61a44dc823) |
+| Thu, 25 Sep 2025 11:03:21 GMT | Don’t Get Hired by a Fraudster: How to Detect Online Job Scams | Evistia | [Read More](https://medium.com/p/f0a5cbfaa000) |
+| Thu, 25 Sep 2025 11:00:04 GMT | IPVS vs iptables: Performance Analysis and Decision Framework | Salwan Mohamed | [Read More](https://medium.com/p/ae45286c7b76) |
+| Thu, 25 Sep 2025 10:58:31 GMT | New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station. | Raaj_Warrior | [Read More](https://medium.com/p/0a9dbb74b3ff) |
+| Thu, 25 Sep 2025 10:52:07 GMT | Are Generative AI Tools Making Us Smarter or Lazier? | Punit Kumar Bhardwaj | [Read More](https://medium.com/p/74986b0e2425) |
+| Thu, 25 Sep 2025 10:49:48 GMT | Reconnaissance: Passive and Active Scanning with KALI Linux (Part4) | mohandika | [Read More](https://medium.com/p/24ca6187fc65) |
+| Thu, 25 Sep 2025 10:49:47 GMT | The Unassailable Fortress: A Deep Dive into Information Security (InfoSec) for Beginners | Consultivo Engagement | [Read More](https://medium.com/p/750f4a60b265) |
+| Thu, 25 Sep 2025 10:43:47 GMT | Microsoft ends support for Windows 10 this October 2025 | Century Solutions Group | [Read More](https://medium.com/p/5f8e33b7d8df) |
 | Thu, 25 Sep 2025 10:32:58 GMT | Reliable Security Guard Services in Mumbai: Ensuring Safety with Professional Security Companies | Ciss India | [Read More](https://medium.com/p/226a5b855d19) |
+| Thu, 25 Sep 2025 10:31:23 GMT | The $4.6 Billion Celebrity Crypto Scam That Nobody Saw Coming | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3e0048273868) |
+| Thu, 25 Sep 2025 10:31:16 GMT | From Gin to Whisky: Elevating Your MSP’s Cybersecurity | Saltiest of Souls | [Read More](https://medium.com/p/aebe6ce8d197) |
 | Thu, 25 Sep 2025 10:30:43 GMT | CVE-2025–5717: WSO2 Hit With RCE Bug — Admin Access Required! | CVEHUB | [Read More](https://medium.com/p/cd4f0a1bffd3) |
 | Thu, 25 Sep 2025 10:29:04 GMT | CVE-2025–57407: XSS Vulnerability Plagues S-Cart Admin Log Viewer — Update Now! | CVEHUB | [Read More](https://medium.com/p/184cc211255e) |
 | Thu, 25 Sep 2025 10:27:11 GMT | PG Practice — Hunit (Linux) | Lepton | [Read More](https://medium.com/p/f736680b7475) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 06:16:30 GMT | OT/ICS Cybersecurity and DCS Training Overview | TheEvolvEdge | [Read More](https://medium.com/p/446377036648) |
 | Thu, 25 Sep 2025 06:13:31 GMT | Object-Oriented Programming (OOP) in Python Made Simple | Nishubirla | [Read More](https://medium.com/p/15ca653ff37a) |
 | Thu, 25 Sep 2025 06:09:01 GMT | Today’s Cyber security Landscape : Cisco Zero-Day Exploited, Major Airlines Disrupted, and… | Athishsagarkishan | [Read More](https://medium.com/p/5bd44bdfe66c) |
-| Thu, 25 Sep 2025 06:08:51 GMT | 7 Python Shortcuts I Wish I Knew Before Writing 10,000 Lines of Code | Fateyaly | [Read More](https://medium.com/p/bcaf3b68178e) |
-| Thu, 25 Sep 2025 06:07:16 GMT | The Hacker’s Map: From Recon to Persistence — How Attacks Actually Flow | Fateyaly | [Read More](https://medium.com/p/dc0b4e03c23e) |
-| Thu, 25 Sep 2025 06:03:40 GMT | Stopping Cyber Threats Before They Strike: ASM & CSPM, Backed by the GRC Shield | Cytrusst | [Read More](https://medium.com/p/db9fc802369b) |
-| Thu, 25 Sep 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Sep 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/48cc71ba92b8) |
-| Thu, 25 Sep 2025 05:55:48 GMT | Samsung Galaxy S26 Release Date Revealed: What to Expect in 2025 | Aria Sullivan | [Read More](https://medium.com/p/da061e126ef8) |
-| Thu, 25 Sep 2025 05:51:14 GMT | Protecting React Apps Against XSS and CSRF | Karthikeyan NS | [Read More](https://medium.com/p/de31707079a6) |
-| Thu, 25 Sep 2025 05:39:11 GMT | Why Cybersecurity is Not an Option, But a Necessity | Bikash Peeripaul | [Read More](https://medium.com/p/56fbd9fe8fdb) |
-| Thu, 25 Sep 2025 05:37:12 GMT | Portswigger Web Security Academy - Clickjacking Lab #1 | BooRuleDie | [Read More](https://medium.com/p/f7641c502f75) |
-| Thu, 25 Sep 2025 05:36:27 GMT | Obscura Ransomware: Breaking Down an Obscure but Lethal AD Attack | InfoShieldah | [Read More](https://medium.com/p/c39664700dfd) |
-| Thu, 25 Sep 2025 05:15:25 GMT | Security is a full-stack responsibility — not just a backend concern | Sumit M. | [Read More](https://medium.com/p/d33536efed7d) |
