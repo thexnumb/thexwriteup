@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 09:20:19 GMT | Path traversal(directory traversal) | Saksham Singh | [Read More](https://medium.com/p/5d2e810486d4) |
+| Thu, 25 Sep 2025 09:17:28 GMT | Active Directory Pentesting — HTB Cicada | 0xRC404 | [Read More](https://medium.com/p/00e9adeb7ac8) |
+| Thu, 25 Sep 2025 09:11:55 GMT | The Most Common Mistakes People Make with Passwords (and How to Fix Them) | Cyberspace Bulletin | [Read More](https://medium.com/p/e745cf63e2d9) |
+| Thu, 25 Sep 2025 09:08:29 GMT | JWT Looked Cool… Until I Realized These 6 Problems | Kavya's Programming Path | [Read More](https://medium.com/p/0626b87cd7ab) |
+| Thu, 25 Sep 2025 09:07:29 GMT | Burnout as a National Security Threat | Harbour of Mercy CIC | [Read More](https://medium.com/p/7815b900d621) |
+| Thu, 25 Sep 2025 09:06:01 GMT | Shadow IT Costs You More Than You Think | Evgeny Ermakov | [Read More](https://medium.com/p/274ab82563d5) |
+| Thu, 25 Sep 2025 09:01:55 GMT | ISO 27001 vs SOC 2: Which One Does Your Business Actually Need? | Hicomply | [Read More](https://medium.com/p/531a162b21c4) |
+| Thu, 25 Sep 2025 09:01:54 GMT | The Retail Cyber Hurricane: Why 2025’s Attack Wave Should Wake Up Every C-Suite | Paul Sherman | [Read More](https://medium.com/p/c8fef4ffe64c) |
+| Thu, 25 Sep 2025 09:01:53 GMT | Diary of a Career Changer: The Power of Showing Up | Cyber I AM | [Read More](https://medium.com/p/b66176324b05) |
+| Thu, 25 Sep 2025 08:59:44 GMT | Phishing-as-a-Service: The Industrialization of Email Fraud | Kate Johnson | [Read More](https://medium.com/p/faaaeaf32b16) |
+| Thu, 25 Sep 2025 08:56:27 GMT | Are you the 3%? | John Constable | [Read More](https://medium.com/p/1fef378f0f47) |
+| Thu, 25 Sep 2025 08:53:11 GMT | Digisol DG-GR1321: Plaintext Password Storage Vulnerability (CVE-2024–4232) | Redfox Security | [Read More](https://medium.com/p/4f8a49f09da7) |
+| Thu, 25 Sep 2025 08:48:52 GMT | Secret Service Telecommunications Threat: What U.S. Users Need to Know in 2025 | Buzz Exo | [Read More](https://medium.com/p/56e6fb83cec3) |
 | Thu, 25 Sep 2025 08:41:24 GMT | Cybersecurity in 2025: How AI, Zero Trust, and Quantum Defense Are Reshaping Digital Resilience | Leo dives Into The Deep Frame | [Read More](https://medium.com/p/22392080ca61) |
 | Thu, 25 Sep 2025 08:32:25 GMT | 10+ Best Cybersecurity Service Providers for Accounting Offices in 2025 — Protect Your Firm | Fiona Campbell | [Read More](https://medium.com/p/395b3d24c49f) |
 | Thu, 25 Sep 2025 08:29:02 GMT | Why I Think Specialization is the Only Way to Succeed in Bug Bounties in 2025 | Andrei Ivan | [Read More](https://medium.com/p/7154b5a5a5af) |
@@ -52,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 06:47:35 GMT | Top 10 Penetration Testing Certifications | Manisha Chaudhary | [Read More](https://medium.com/p/c95e51f08bb0) |
 | Thu, 25 Sep 2025 06:45:07 GMT | ☁️ Living-off-the-Cloud (LotC) Attacks: The New Frontier of Cyber Stealth | Paritosh | [Read More](https://medium.com/p/2a94c7c92fe9) |
 | Thu, 25 Sep 2025 06:38:17 GMT | The Hidden Dangers of Cookies and Session Management | Anirudh PV | [Read More](https://medium.com/p/41980892841d) |
+| Thu, 25 Sep 2025 06:37:36 GMT | WorkDo 打卡工具：從傳統到智能，助企業實現工時管理升級 | WorkDo Official | [Read More](https://medium.com/p/d997f947622d) |
 | Thu, 25 Sep 2025 06:35:53 GMT | The Daily Tech Digest: 25 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/96b212beb092) |
 | Thu, 25 Sep 2025 06:31:51 GMT | What Eyes Confess — The Depth of Silent Connection | Tami | [Read More](https://medium.com/p/2c62ff460157) |
 | Thu, 25 Sep 2025 06:26:50 GMT | Identifying Common Security Gaps and How to Fix Them. | Skysecure Technologies | [Read More](https://medium.com/p/fa45e72a054c) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 02:10:01 GMT | Cybersecurity Challenges in Space Systems | Cyber Security Research | [Read More](https://medium.com/p/82d9fe70a2b3) |
 | Thu, 25 Sep 2025 02:01:54 GMT | Machine Learning for Malware Detection | Cyber Security Research | [Read More](https://medium.com/p/9981611b0c86) |
 | Thu, 25 Sep 2025 01:56:46 GMT | How Remote IT Teams Can Stay Focused, Efficient, and Collaborative | Prerna Aggarwal | [Read More](https://medium.com/p/bf16dcdcc095) |
-| Thu, 25 Sep 2025 01:54:28 GMT | Security of Quantum Communication Systems | Cyber Security Research | [Read More](https://medium.com/p/66e0a4ef40ca) |
-| Thu, 25 Sep 2025 01:41:23 GMT | How I passed the PWPA by TCM Security | 0xnref | [Read More](https://medium.com/p/431d80f97d1b) |
-| Thu, 25 Sep 2025 01:36:40 GMT | Blockchain-Based Cybersecurity Solutions | Cyber Security Research | [Read More](https://medium.com/p/1fd9dbb5f112) |
-| Thu, 25 Sep 2025 01:29:37 GMT | Letting Grok Teach Me Computer Security For 1 Week Day 3 (Prompt Injection Prevention) | Colin Zhou | [Read More](https://medium.com/p/a520cd821314) |
-| Thu, 25 Sep 2025 01:22:32 GMT | Shadows in the Cloud: The Tale of Two AWS Identities | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/bff83396577b) |
-| Thu, 25 Sep 2025 01:22:05 GMT | TryHackMe #52 - Logs Fundamentals | 0xGroot | [Read More](https://medium.com/p/222b3404b780) |
-| Thu, 25 Sep 2025 01:21:59 GMT | What is obfuscated VPN? How it works & 3 reasons why you might need it | Safelyo Global | [Read More](https://medium.com/p/c54b2072737d) |
-| Thu, 25 Sep 2025 01:17:49 GMT | TryHackMe #51 - Incident Response Fundamentals | 0xGroot | [Read More](https://medium.com/p/f1bbd9ed54ca) |
-| Thu, 25 Sep 2025 01:15:51 GMT | 10 Essential Data Security Principles Every Data Engineer Should Know | Mudassir Syed | [Read More](https://medium.com/p/7515fa0c256b) |
-| Thu, 25 Sep 2025 01:14:46 GMT | OAuth: Te ajudando a entender! | Gabriel Jesus | [Read More](https://medium.com/p/7f809672e4fc) |
-| Thu, 25 Sep 2025 01:12:15 GMT | The Complete Guide to E-Begging Scams: What Everyone Should Know in 2025 | Jeff Murdock | [Read More](https://medium.com/p/939e3793a150) |
-| Thu, 25 Sep 2025 01:11:46 GMT | TryHackMe #50 - Digital Forensics Fundamentals | 0xGroot | [Read More](https://medium.com/p/e5c300c61f8c) |
-| Thu, 25 Sep 2025 01:07:47 GMT | TryHackMe #49 - SOC Fundamentals | 0xGroot | [Read More](https://medium.com/p/729107b97832) |
-| Thu, 25 Sep 2025 00:59:27 GMT | How Criminal IP is Securing the Expanding Attack Surface — Before It’s Too Late | Criminal IP | [Read More](https://medium.com/p/579af03ebf69) |
