@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 18:45:59 GMT | Find Info on Phone Numbers - OSINT | Shahzaib | [Read More](https://medium.com/p/655fa5281a30) |
+| Thu, 25 Sep 2025 18:41:46 GMT | The Production Database Disaster That Made GitLab Famous (For All the Wrong Reasons) | The Latency Gambler | [Read More](https://medium.com/p/f49b701c537d) |
+| Thu, 25 Sep 2025 18:41:28 GMT | TryHackMe - Linux Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/bcc4b4901183) |
+| Thu, 25 Sep 2025 18:41:21 GMT | Learning : Mastering Nmap for Network Recon | Vikram Budania | [Read More](https://medium.com/p/78b8dbeb4568) |
+| Thu, 25 Sep 2025 18:37:38 GMT | Why Cybersecurity Matters for Start-ups | Mainekhacker | [Read More](https://medium.com/p/ded6d1f8ca1c) |
+| Thu, 25 Sep 2025 18:37:28 GMT | The Role of Machine Learning in Predicting Cyberattacks | Samina Perveen | [Read More](https://medium.com/p/b37ee5016665) |
+| Thu, 25 Sep 2025 18:36:40 GMT | How Hackers Turned a Smart Coffee Maker Into a $100,000 Ransomware Attack | Noel | [Read More](https://medium.com/p/a0da63d9efc1) |
+| Thu, 25 Sep 2025 18:35:06 GMT | Industry InsideOut: the ISA 95 magic. | Shivam Maurya | [Read More](https://medium.com/p/f7254b3c662b) |
+| Thu, 25 Sep 2025 18:33:22 GMT | TryHackMe - Intro to Credential Harvesting - WriteUp | Axoloth | [Read More](https://medium.com/p/7181e82cfb60) |
+| Thu, 25 Sep 2025 18:31:05 GMT | Indian Army CTF: Boot-2-Root Writeup | Sunkara Yashwanth | [Read More](https://medium.com/p/d9c9d048e89c) |
+| Thu, 25 Sep 2025 18:30:52 GMT | Computer Security For Regular People | James A. | [Read More](https://medium.com/p/97a9310d4489) |
 | Thu, 25 Sep 2025 18:29:34 GMT | They Want To Scan Your Encrypted Messages — Why Client-Side Scanning Is An Engineer’s Red Line | The Atomic Architect | [Read More](https://medium.com/p/c2491b525150) |
 | Thu, 25 Sep 2025 18:29:11 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/eb9f70779362) |
 | Thu, 25 Sep 2025 18:22:22 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/b3bb560cd3b9) |
@@ -102,14 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 13:25:58 GMT | Okta ↔ Google Workspace: Practical Rollout & Testing Guide | Luispuello | [Read More](https://medium.com/p/58e3b0ca4728) |
 | Thu, 25 Sep 2025 13:19:47 GMT | Privileged Access Management (PAM): Guarding the Master Keys of IT | Natarajan C K | [Read More](https://medium.com/p/45411d3bf12e) |
 | Thu, 25 Sep 2025 13:19:30 GMT | Security Awareness Campaigns for Remote Teams: Best Practices | Compciti | [Read More](https://medium.com/p/fd8d026c6eca) |
-| Thu, 25 Sep 2025 13:17:48 GMT | How I Found a $3,500 Security Bug in Just 1 Hour | Ibtissam hammadi | [Read More](https://medium.com/p/7cbd930b7157) |
-| Thu, 25 Sep 2025 13:17:48 GMT | Go 1.25.1: The Tiny Patch That Fixes Real Pain | Thread Whisperer | [Read More](https://medium.com/p/d90d724bfcf5) |
-| Thu, 25 Sep 2025 13:14:25 GMT | Incident Analysis: Cyber Disruption in MUSE Software Impacts Major European Airports | Jon C | [Read More](https://medium.com/p/3f6dbc16ca45) |
-| Thu, 25 Sep 2025 13:04:51 GMT | Ring Alarm Kits Compared: Which One Is Right for Your Home? | Essential Tech Accesories | [Read More](https://medium.com/p/ac9b2a6f643b) |
-| Thu, 25 Sep 2025 13:04:07 GMT | Forged Signed JWT : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/34983111a7a4) |
-| Thu, 25 Sep 2025 13:02:50 GMT | Hacksudo: Thor CTF - Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/0af8eea2608a) |
-| Thu, 25 Sep 2025 13:02:08 GMT | What Writing a Novel Taught Me About Life (So Far) | Threads & Tangents | [Read More](https://medium.com/p/d307b8ab2724) |
-| Thu, 25 Sep 2025 13:02:08 GMT | Hands-On Homelab: A 3-Part Guide for Aspiring Cybersecurity Practitioners | Keith Medas | [Read More](https://medium.com/p/a558e3e75d16) |
-| Thu, 25 Sep 2025 12:53:05 GMT | The Click‑Fix Scam: How Hackers Trick You Into Running Malware | Tushar Kanjariya | [Read More](https://medium.com/p/9213408dcee2) |
-| Thu, 25 Sep 2025 12:51:47 GMT | ️ Zero Trust Security in Microservices with NestJS | Haydar Urdoğan | [Read More](https://medium.com/p/10b3d6e48afd) |
-| Thu, 25 Sep 2025 12:46:59 GMT | LavaRand Entropy Extractor: Bring Physical Chaos into Your Cryptographic Keys | Fabbri Giulio | [Read More](https://medium.com/p/88f8322386e2) |
