@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 10:12:08 GMT | Best VAPT Testing Services In India - Cybersecurity Services | Gowthammathiew | [Read More](https://medium.com/p/761e9164b5fe) |
+| Thu, 25 Sep 2025 10:11:50 GMT | Stop Guessing About Security: Why India’s Top Companies Are Rushing to Get ISO 27001 | Aravinth | [Read More](https://medium.com/p/ffa1c00cd1c8) |
+| Thu, 25 Sep 2025 10:06:11 GMT | What is Endpoint Security? | cyber security Updates | [Read More](https://medium.com/p/e2ecfb71c289) |
+| Thu, 25 Sep 2025 10:04:45 GMT | Beyond the Peaks: Nepal’s Hidden Ascent | rquadauqr | [Read More](https://medium.com/p/afb1aeab5aea) |
+| Thu, 25 Sep 2025 10:03:51 GMT | Apache Recon Basics | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/4136fb257b26) |
+| Thu, 25 Sep 2025 09:58:31 GMT | Average Life, Real Fears: Should You Worry? | AskLikeYouMeanIt | [Read More](https://medium.com/p/f1eca276c41b) |
+| Thu, 25 Sep 2025 09:55:37 GMT | Before your backend service goes live, security isn’t optional — it’s survival. | Rahul Soni | [Read More](https://medium.com/p/788c7e551cfa) |
+| Thu, 25 Sep 2025 09:54:09 GMT | Critical Security Alert: Supermicro BMC Vulnerabilities Enable Persistent Backdoor Access | Technijian | [Read More](https://medium.com/p/821f655bc3ce) |
+| Thu, 25 Sep 2025 09:53:38 GMT | Quantum Computing Cyber Threats: Preparing for the Next Security Shift | Kate Johnson | [Read More](https://medium.com/p/e4a7c3aaa164) |
+| Thu, 25 Sep 2025 09:53:25 GMT | Choosing a Hardware Wallet: It’s Not Just About Security, It’s About Sovereignty | Digital Shield | [Read More](https://medium.com/p/044df8d09718) |
+| Thu, 25 Sep 2025 09:49:09 GMT | The Quantum Threat Is Coming — Is Your Digital Life Safe? | Bright Mmaduabuchi | [Read More](https://medium.com/p/7a62e36b1c72) |
+| Thu, 25 Sep 2025 09:49:09 GMT | Secret Service SIM Farm? Debunking Cybersecurity Myths | Truspex | [Read More](https://medium.com/p/d5b9645d32e9) |
+| Thu, 25 Sep 2025 09:49:07 GMT | Why You Should Audit Your AWS IAM Policies — And The Hidden Dangers of Dormant Access Keys | Vishal Tak | [Read More](https://medium.com/p/fa0c5e45d0a6) |
+| Thu, 25 Sep 2025 09:46:37 GMT | Top 10 Skills You Must Know to Become a Cybersecurity Expert | Whytapinstitute | [Read More](https://medium.com/p/833bb5b9a256) |
+| Thu, 25 Sep 2025 09:45:13 GMT | Understanding HTTP: The Backbone of the Web | Sumit Sah | [Read More](https://medium.com/p/35e9ecdaeda3) |
+| Thu, 25 Sep 2025 09:44:29 GMT | Hacking Noob? Unlock Your Potential: A Beginner’s Guide | SilentInject | [Read More](https://medium.com/p/28b9f915558d) |
+| Thu, 25 Sep 2025 09:40:19 GMT | “Air-Gapped Signing” & “Seamless Binding”: How Digital Shield Ends the Web3 Security Compromise… | Digital Shield Offcial | [Read More](https://medium.com/p/3fbca21d592b) |
+| Thu, 25 Sep 2025 09:37:59 GMT | Panduan Installasi OS Server: Windows Server & Ubuntu Server 24.04 | Zifa Tea Azzahra | [Read More](https://medium.com/p/0afd78d79797) |
 | Thu, 25 Sep 2025 09:28:34 GMT | Top 5 cybersecurity practices to protect yourself online | Naveed | [Read More](https://medium.com/p/a65cad6ba806) |
 | Thu, 25 Sep 2025 09:27:27 GMT | DockerLabs Writeup — Grooti (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b6c06377bdf4) |
 | Thu, 25 Sep 2025 09:26:43 GMT | Which Is the Best Platform to Learn Cybersecurity? My Top 10 Picks & How to Decide | Ann E | [Read More](https://medium.com/p/ea5af07c6c20) |
@@ -96,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 04:36:27 GMT | Why MCP is Rewriting the Rules of API Security (And What This Means for AI-First Organizations) | Rahul Singh | [Read More](https://medium.com/p/7ee032cf9f26) |
 | Thu, 25 Sep 2025 04:31:53 GMT | Building Security by Design: How Zero Trust & DevSecOps Are Changing the Game | Ankit Singh | [Read More](https://medium.com/p/16a3a0bd40e3) |
 | Thu, 25 Sep 2025 04:29:30 GMT | “Societal AI: Policies, Laws, and Ethical Challenges of Mass AI Deployment” | Tarush Sharma | [Read More](https://medium.com/p/3e03b7c100d7) |
-| Thu, 25 Sep 2025 04:25:42 GMT | Client-Side Attacks CTF 1 INE | Md. Imran Chowdhury | [Read More](https://medium.com/p/3ec08c9c163f) |
-| Thu, 25 Sep 2025 04:25:30 GMT | Strengthen Your Business with SSI IT Cyber Security Advisory Services in Munich | Public | [Read More](https://medium.com/p/4b3459a81164) |
-| Thu, 25 Sep 2025 04:11:47 GMT | Linux Learning Journey: From Networking Basics to System Security | Ardutra Agi | [Read More](https://medium.com/p/b40079cceaf1) |
-| Thu, 25 Sep 2025 04:08:31 GMT | MyGov and Google: A case study on manufactured consent | Mitchell Walker | [Read More](https://medium.com/p/c4160019db49) |
-| Thu, 25 Sep 2025 04:01:44 GMT | 5 Ways To Secure Dedicated Server | HostNOC | [Read More](https://medium.com/p/7aef1d7dee9f) |
-| Thu, 25 Sep 2025 03:58:17 GMT | The Non-Paranoid Guide to Sharing Documents Securely | Howard Shaw | [Read More](https://medium.com/p/8f10bafce2d9) |
-| Thu, 25 Sep 2025 03:52:46 GMT | How to Tell If You’ve Been “Brain-Hacked”: a first-person account and warning | Truthseeker | [Read More](https://medium.com/p/3162a3b45b40) |
-| Thu, 25 Sep 2025 03:49:24 GMT | My Python KeyLogger Project: More Than Just Keystroke Capture! | bolewara | [Read More](https://medium.com/p/7d77826278f5) |
-| Thu, 25 Sep 2025 03:36:01 GMT | Security Home-lab: Installation and First “Attack” | Jordan Palumbo | [Read More](https://medium.com/p/e6ff643226d1) |
-| Thu, 25 Sep 2025 03:31:50 GMT | The Hidden Cost of Free Games: How Pirated Games Are Spreading HijackLoader | Deven Chhajed | [Read More](https://medium.com/p/55249e2d466e) |
-| Thu, 25 Sep 2025 03:31:50 GMT | API Pentesting Part 3: Why APIs Are Hacker Magnets-A Tale of Improper Input Validation and Mass… | Blue_eye | [Read More](https://medium.com/p/15b352c51d8b) |
-| Thu, 25 Sep 2025 03:19:45 GMT | Shift to Breach-Centric Security — Start with the Assumption That You’re Already Compromised | David SEHYEON Baek | [Read More](https://medium.com/p/987be8e46bcf) |
-| Thu, 25 Sep 2025 03:17:04 GMT | How Python Quietly Became My Secret Money-Making Tool | Kainat Nafees | [Read More](https://medium.com/p/aac776b6608c) |
-| Thu, 25 Sep 2025 03:11:29 GMT | Protect Your Privacy Online with 9Proxy’s Rotating Residential Proxies | Samuel Gonzales | [Read More](https://medium.com/p/1b909153380b) |
-| Thu, 25 Sep 2025 02:44:59 GMT | Sebuah Refleksi: Kenapa Teknik Informatika | Aidan Gabriel | [Read More](https://medium.com/p/2b057d0fc5a8) |
-| Thu, 25 Sep 2025 02:44:57 GMT | TryHackMe Walkthrough: Include | Indigo Shadow | [Read More](https://medium.com/p/a042932ffb88) |
-| Thu, 25 Sep 2025 02:30:01 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column (PostgreSQL 12.22) | Bash Overflow | [Read More](https://medium.com/p/d5cfb569a38b) |
-| Thu, 25 Sep 2025 02:15:21 GMT | Mental Health During the Infosec Job Hunt | VaRiOus_CanAriEs | [Read More](https://medium.com/p/198e532dbcc3) |
