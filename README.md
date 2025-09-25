@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 21:18:30 GMT | Linked Lists in Windows Kernel Driver | S12 - 0x12Dark Development | [Read More](https://medium.com/p/5a89b6219347) |
 | Thu, 25 Sep 2025 21:11:46 GMT | IEEE Victoris 4.0 — CTF 2025 — Finals DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/d1943c9a6eb4) |
 | Thu, 25 Sep 2025 21:05:40 GMT | GVM False Positives & How to Manage Them | JMP ESP FF E4 | [Read More](https://medium.com/p/3b6742a24144) |
 | Thu, 25 Sep 2025 20:45:48 GMT | The Desert of GRC Solutions | D. Mikhailov | [Read More](https://medium.com/p/29e202870a82) |
@@ -112,4 +113,3 @@ The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahi
 | Thu, 25 Sep 2025 14:54:18 GMT | Mastering Learning and Collaboration: A Partnership with Added Value for Academies and Security… | Mindfully SEO | [Read More](https://medium.com/p/d6e5e7b362d4) |
 | Thu, 25 Sep 2025 14:53:04 GMT | The Pact That Shook South Asia: Pakistan–Saudi Arabia’s Pact | Muhammad Mudassar Saeed | [Read More](https://medium.com/p/7239f1edfddf) |
 | Thu, 25 Sep 2025 14:52:07 GMT | GROUNDED: Uma Análise Aprofundada do Ataque de Ransomware à Collins Aerospace e o Seu Impacto… | Davi Soares | [Read More](https://medium.com/p/05e977f9f6e5) |
-| Thu, 25 Sep 2025 14:47:48 GMT | Modular C2 Frameworks Quietly Redefine Threat Operations for 2025–2026 | Wes Young | [Read More](https://medium.com/p/5196759b333c) |
