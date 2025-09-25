@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 05:39:11 GMT | Why Cybersecurity is Not an Option, But a Necessity | Bikash Peeripaul | [Read More](https://medium.com/p/56fbd9fe8fdb) |
+| Thu, 25 Sep 2025 05:37:12 GMT | Portswigger Web Security Academy - Clickjacking Lab #1 | BooRuleDie | [Read More](https://medium.com/p/f7641c502f75) |
+| Thu, 25 Sep 2025 05:36:27 GMT | Obscura Ransomware: Breaking Down an Obscure but Lethal AD Attack | InfoShieldah | [Read More](https://medium.com/p/c39664700dfd) |
+| Thu, 25 Sep 2025 05:15:25 GMT | Security is a full-stack responsibility — not just a backend concern | Sumit M. | [Read More](https://medium.com/p/d33536efed7d) |
 | Thu, 25 Sep 2025 05:14:31 GMT | ⚠️ Take Note: How Hackers Will Hack Your Facebook Account in 2026 | Cyberwise | [Read More](https://medium.com/p/3269a90c38dc) |
 | Thu, 25 Sep 2025 05:01:52 GMT | How to Use a Hardware Wallet — A Simple, Step-by-Step Guide | Farhad Ali | [Read More](https://medium.com/p/692406c4791a) |
 | Thu, 25 Sep 2025 04:58:59 GMT | Shielding Yourself from Cyber Fraud: Practical Tips for a Safer Digital Life | balaji | [Read More](https://medium.com/p/683f883fc3a2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 24 Sep 2025 18:53:09 GMT | Detailed Walkthrough: Alert SOC146 — Phishing Mail Detected — Excel 4.0 Macros (Let’s Defend) | SieGer | [Read More](https://medium.com/p/f92a7ae50a58) |
 | Wed, 24 Sep 2025 18:50:00 GMT | Zero To Hacker: How A Cybersecurity Bootcamp Can Change Your Career | Smith Adams | [Read More](https://medium.com/p/2be6b7887390) |
 | Wed, 24 Sep 2025 18:49:20 GMT | The AI Security Crisis: Deconstructing the 300% Surge in Prompt Injection Attacks | Shakir Majeed Mir | [Read More](https://medium.com/p/f6e4ab1ff122) |
-| Wed, 24 Sep 2025 18:42:57 GMT | Automating OSINT: From Hours of Manual Work to Minutes of Scripts | Ahmed Mohammed | [Read More](https://medium.com/p/14005073c49d) |
-| Wed, 24 Sep 2025 18:42:51 GMT | From Container Risks to Cloud Ransomware: The Shifting Battlefield of Software Supply Chain Attacks | Yogita phor | [Read More](https://medium.com/p/a440fa7f5caa) |
-| Wed, 24 Sep 2025 18:41:05 GMT | Your’s Truly | Bhageshri Sharma | [Read More](https://medium.com/p/58d98e3da180) |
-| Wed, 24 Sep 2025 18:40:43 GMT | Hacking APIs: Tokens and Token Rotation | Israel Aráoz Severiche | [Read More](https://medium.com/p/397b45a9c724) |
