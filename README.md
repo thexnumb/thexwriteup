@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 25 Sep 2025 09:28:34 GMT | Top 5 cybersecurity practices to protect yourself online | Naveed | [Read More](https://medium.com/p/a65cad6ba806) |
+| Thu, 25 Sep 2025 09:27:27 GMT | DockerLabs Writeup — Grooti (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b6c06377bdf4) |
+| Thu, 25 Sep 2025 09:26:43 GMT | Which Is the Best Platform to Learn Cybersecurity? My Top 10 Picks & How to Decide | Ann E | [Read More](https://medium.com/p/ea5af07c6c20) |
 | Thu, 25 Sep 2025 09:20:19 GMT | Path traversal(directory traversal) | Saksham Singh | [Read More](https://medium.com/p/5d2e810486d4) |
 | Thu, 25 Sep 2025 09:17:28 GMT | Active Directory Pentesting — HTB Cicada | 0xRC404 | [Read More](https://medium.com/p/00e9adeb7ac8) |
+| Thu, 25 Sep 2025 09:14:28 GMT | The Dangerous Theft Behind Fake Job Ads | O. J. Okpabi | [Read More](https://medium.com/p/d4ae93245b51) |
 | Thu, 25 Sep 2025 09:11:55 GMT | The Most Common Mistakes People Make with Passwords (and How to Fix Them) | Cyberspace Bulletin | [Read More](https://medium.com/p/e745cf63e2d9) |
 | Thu, 25 Sep 2025 09:08:29 GMT | JWT Looked Cool… Until I Realized These 6 Problems | Kavya's Programming Path | [Read More](https://medium.com/p/0626b87cd7ab) |
 | Thu, 25 Sep 2025 09:07:29 GMT | Burnout as a National Security Threat | Harbour of Mercy CIC | [Read More](https://medium.com/p/7815b900d621) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 02:44:57 GMT | TryHackMe Walkthrough: Include | Indigo Shadow | [Read More](https://medium.com/p/a042932ffb88) |
 | Thu, 25 Sep 2025 02:30:01 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column (PostgreSQL 12.22) | Bash Overflow | [Read More](https://medium.com/p/d5cfb569a38b) |
 | Thu, 25 Sep 2025 02:15:21 GMT | Mental Health During the Infosec Job Hunt | VaRiOus_CanAriEs | [Read More](https://medium.com/p/198e532dbcc3) |
-| Thu, 25 Sep 2025 02:14:40 GMT | GitHub’s Bold Plan to Secure the Software Supply Chain | Cyber-AppSec | [Read More](https://medium.com/p/bb094393a30c) |
-| Thu, 25 Sep 2025 02:10:01 GMT | Cybersecurity Challenges in Space Systems | Cyber Security Research | [Read More](https://medium.com/p/82d9fe70a2b3) |
-| Thu, 25 Sep 2025 02:01:54 GMT | Machine Learning for Malware Detection | Cyber Security Research | [Read More](https://medium.com/p/9981611b0c86) |
-| Thu, 25 Sep 2025 01:56:46 GMT | How Remote IT Teams Can Stay Focused, Efficient, and Collaborative | Prerna Aggarwal | [Read More](https://medium.com/p/bf16dcdcc095) |
