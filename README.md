@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 20:20:50 GMT | Torque: The Missing Metric That Could Save AI From Itself | Aaron Slusher | [Read More](https://medium.com/p/1340fa040c5c) |
+| Fri, 26 Sep 2025 20:18:08 GMT | Keep your construction site secure 24/7! | Visual Monitoring Solutions | [Read More](https://medium.com/p/0ee6cabdf6d3) |
+| Fri, 26 Sep 2025 20:13:54 GMT | Linux Kernel Exploit Development: A Practical Guide | Eren Cankut Uysal | [Read More](https://medium.com/p/9edb652e6475) |
 | Fri, 26 Sep 2025 20:07:36 GMT | Linux Containerization Security Best Practices | Eren Cankut Uysal | [Read More](https://medium.com/p/a9946447f53c) |
 | Fri, 26 Sep 2025 20:04:40 GMT | Stop Cramming, Start Mastering: The Modern Professional’s Guide to Acing Any Certification | Neilconnor2003 | [Read More](https://medium.com/p/daaa20228da0) |
 | Fri, 26 Sep 2025 20:01:09 GMT | Day 9 — Defending the Network: A Beginner’s Guide to Snort Intrusion Detection and Prevention | HackTrace | [Read More](https://medium.com/p/efbd12d42f4d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 15:21:32 GMT | Splunking Window Attacks Part 1. | Luke | [Read More](https://medium.com/p/870e435f0f07) |
 | Fri, 26 Sep 2025 15:19:52 GMT | Fortigate SSL VPN Yapılandırması nasıl yapılır? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f2f79dc3d02c) |
 | Fri, 26 Sep 2025 15:19:13 GMT | Defending the Digital Front: Navigating the DoD’s New Cybersecurity Gauntlet | Pooja Sharma | [Read More](https://medium.com/p/b313202a59ca) |
-| Fri, 26 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/8e79630e4715) |
-| Fri, 26 Sep 2025 15:14:28 GMT | Silicon Valley’s AI Security Awakening: Key Takeaways from the Summit | Pooja Sharma | [Read More](https://medium.com/p/ec17b6cbcf06) |
-| Fri, 26 Sep 2025 15:12:57 GMT | Automated Reconciliation: The Future of Financial Accuracy and Compliance | Kosh AI | [Read More](https://medium.com/p/13fb091df372) |
