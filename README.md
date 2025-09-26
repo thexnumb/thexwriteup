@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 22:32:54 GMT | HTB pro lab RastaLabs review | real redinna | [Read More](https://medium.com/p/45652241bc3d) |
 | Fri, 26 Sep 2025 22:11:43 GMT | Malicious Rust Crates Steal Solana and Ethereum Keys | Cyber-AppSec | [Read More](https://medium.com/p/c20502daa5ba) |
 | Fri, 26 Sep 2025 22:03:46 GMT | Third-Party Risk: Lessons from the Hertz data breach | Gauri Rajgopal | [Read More](https://medium.com/p/b6a1ab5575b8) |
 | Fri, 26 Sep 2025 22:01:00 GMT | How Hackers Exploit AI Tools Like ChatGPT (And How to Stay Safe) | Aaron | [Read More](https://medium.com/p/0f45b28b0da0) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 16:10:32 GMT | The Difficult Journey of Zero Trust: A Story of Vision, Struggle, and Slow Triumph | David SEHYEON Baek | [Read More](https://medium.com/p/758e6328ff3b) |
 | Fri, 26 Sep 2025 16:09:05 GMT | 3D Print Breakthrough: Flawless Complex Parts | John Exter | [Read More](https://medium.com/p/778faaf4c90f) |
 | Fri, 26 Sep 2025 16:06:06 GMT | Brave Browser in 2025: The Top Browser for Privacy and Data Protection? | Cordula Boeck | [Read More](https://medium.com/p/e9febd31d706) |
-| Fri, 26 Sep 2025 16:03:41 GMT | What If Every Server in the World Shut Down at Once? | Rizqi Mulki | [Read More](https://medium.com/p/805dbad4744b) |
