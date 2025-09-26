@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 07:12:24 GMT | Linux Threat Detection 1 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/51791ba290e4) |
+| Fri, 26 Sep 2025 07:11:50 GMT | Best Shopify Apps That Help Increase Sales in 2025 | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5047f15881a9) |
+| Fri, 26 Sep 2025 07:11:34 GMT | 7 Best Ethical Hacking Certifications in 2025 (Updated) | Serishahid | [Read More](https://medium.com/p/11b6471f2012) |
+| Fri, 26 Sep 2025 07:10:04 GMT | The Role of IT Support in Helping Small Businesses Navigate Cybersecurity Threats and Technical… | ITTechBox | [Read More](https://medium.com/p/a7ac44facd75) |
+| Fri, 26 Sep 2025 07:07:01 GMT | How to train SOC manager | Taipun | [Read More](https://medium.com/p/0c847d711123) |
+| Fri, 26 Sep 2025 07:04:56 GMT | The Moments I’m Most Proud Of | Dyane Fulgencio | [Read More](https://medium.com/p/6d19a9752600) |
+| Fri, 26 Sep 2025 07:04:07 GMT | Cybersecurity Response in Houston: What to Do in the First 24 Hours After an Attack | Tera Dense | [Read More](https://medium.com/p/34547a0de477) |
+| Fri, 26 Sep 2025 07:01:57 GMT | Corrosion 1 walkthrough | Morontowumi Akinbogun | [Read More](https://medium.com/p/9a98153ad81d) |
+| Fri, 26 Sep 2025 07:00:42 GMT | Tracking Bugs and Issues Efficiently in Jira | Erdem UÇAK | [Read More](https://medium.com/p/e419b474b135) |
+| Fri, 26 Sep 2025 06:54:30 GMT | Google’s “Gmail Hack” Headlines! Should You Be Worried — and How Much? | Bobby Andrews | [Read More](https://medium.com/p/0740479b3bed) |
+| Fri, 26 Sep 2025 06:53:25 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/cd20058ab342) |
+| Fri, 26 Sep 2025 06:51:23 GMT | Tool vs. Detection — How Defenders Spot Your Favorite Hacker Tools | Fateyaly | [Read More](https://medium.com/p/ef97b8961bf7) |
+| Fri, 26 Sep 2025 06:51:18 GMT | Web Application Pentesting- Authentication -Session Management | Deepika  B | [Read More](https://medium.com/p/58c09626ffdb) |
+| Fri, 26 Sep 2025 06:49:35 GMT | Preliminary File List Analysis of Kimsuky / APT43 Leak | Siddhant Mishra | [Read More](https://medium.com/p/77b863e40c52) |
+| Fri, 26 Sep 2025 06:47:05 GMT | Business Systems Consulting: Optimize, Automate & Grow | Somberg | [Read More](https://medium.com/p/c27ccbe47845) |
+| Fri, 26 Sep 2025 06:44:23 GMT | VMware ile FortiGate Lab Kurulumu | Onur Altuğ | [Read More](https://medium.com/p/162d4f51cb88) |
+| Fri, 26 Sep 2025 06:33:43 GMT | Launch a Deauthentication Attack with ParrotOS Live | Cataholic | [Read More](https://medium.com/p/69de285981d1) |
+| Fri, 26 Sep 2025 06:27:20 GMT | Linux Kernel Hacking: Modifying the Core | Eren Cankut Uysal | [Read More](https://medium.com/p/18f3a31516b2) |
 | Fri, 26 Sep 2025 06:17:40 GMT | Linux Security Modules: Implementing Custom Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/8e5c59961caf) |
 | Fri, 26 Sep 2025 06:16:39 GMT | Securing Critical Flutter Code Using FFI | Deepanshusondkar | [Read More](https://medium.com/p/7079d7aec75b) |
 | Fri, 26 Sep 2025 06:10:26 GMT | Top 10 Cyber Security Certifications with High Salary | Manisha Chaudhary | [Read More](https://medium.com/p/a36c22604b65) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 23:45:36 GMT | How Quantum Computing Will Reshape Today’s Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/9fd61cc6ac50) |
 | Thu, 25 Sep 2025 23:36:47 GMT | Understanding Zero-Day Vulnerabilities: The Invisible Threat | Houssam LASFAR | [Read More](https://medium.com/p/83739611b399) |
 | Thu, 25 Sep 2025 23:35:33 GMT | WHO IS WHITEDEATHKL | Steve Thomas | [Read More](https://medium.com/p/a2c6d71456e1) |
-| Thu, 25 Sep 2025 23:31:45 GMT | Netflix’s God-Tier Product Placement: A Masterclass in Defending Against AI Threats | Scott Huang | [Read More](https://medium.com/p/a23d3a9ea9a9) |
-| Thu, 25 Sep 2025 23:18:12 GMT | # Drosera Network: Ethereum’s Decentralized Immune System for Web3 Security | Kazycrypts | [Read More](https://medium.com/p/2ed04697243f) |
-| Thu, 25 Sep 2025 23:11:23 GMT | How a German environmental forum post could have saved Volkswagen from the biggest corporate… | Rishisec | [Read More](https://medium.com/p/281b750165f7) |
-| Thu, 25 Sep 2025 22:47:06 GMT | How One Bad Password Killed a 158-Year-Old Company Overnight | Cyber-AppSec | [Read More](https://medium.com/p/765966a77b35) |
-| Thu, 25 Sep 2025 22:46:31 GMT | My Cyber Life Adventure | Herominer | [Read More](https://medium.com/p/de8676063df8) |
-| Thu, 25 Sep 2025 22:45:42 GMT | Expressway Hachthebox Walkthrough | Ahmed Ghazal | [Read More](https://medium.com/p/492c7af40ef4) |
-| Thu, 25 Sep 2025 22:34:11 GMT | PhishDebate: Letting AI Argue Its Way to Safer Web Browsing | Chris Zhang | [Read More](https://medium.com/p/769377aca339) |
-| Thu, 25 Sep 2025 22:20:15 GMT | Trace IP Information using Office Docs | Saqlain Naqvi | [Read More](https://medium.com/p/620aa7b929b9) |
-| Thu, 25 Sep 2025 21:41:30 GMT | Building a Cyber Security Portfolio — Learning Step 1: Learning to Learning | Randy Puffin | [Read More](https://medium.com/p/87f8263ef6a5) |
-| Thu, 25 Sep 2025 21:41:17 GMT | Building a Cyber Security Portfolio — Networking Step 1: What being chronically online taught be… | Randy Puffin | [Read More](https://medium.com/p/87eb3ca826aa) |
-| Thu, 25 Sep 2025 21:38:09 GMT | Using AI (Like ChatGPT) in GovCon Proposal Writing: A Practical, Secure, and Repeatable Playbook | Mindset | [Read More](https://medium.com/p/bedf8f1a4e39) |
-| Thu, 25 Sep 2025 21:36:13 GMT | Building Secure Canva Connect API Integration with NestJS: A Complete Authentication Guide | Tusharp | [Read More](https://medium.com/p/c70a08c7e87c) |
-| Thu, 25 Sep 2025 21:34:30 GMT | Row Level Security (RLS): The Database Security Feature Every Developer Should Master | Tusharp | [Read More](https://medium.com/p/c7d4dc46a17b) |
-| Thu, 25 Sep 2025 21:18:30 GMT | Linked Lists in Windows Kernel Driver | S12 - 0x12Dark Development | [Read More](https://medium.com/p/5a89b6219347) |
-| Thu, 25 Sep 2025 21:11:46 GMT | IEEE Victoris 4.0 — CTF 2025 — Finals DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/d1943c9a6eb4) |
-| Thu, 25 Sep 2025 21:05:40 GMT | GVM False Positives & How to Manage Them | JMP ESP FF E4 | [Read More](https://medium.com/p/3b6742a24144) |
-| Thu, 25 Sep 2025 20:45:48 GMT | The Desert of GRC Solutions | D. Mikhailov | [Read More](https://medium.com/p/29e202870a82) |
-| Thu, 25 Sep 2025 20:29:18 GMT | Fowsniff CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f03b8f1f4b41) |
