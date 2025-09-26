@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 15:14:28 GMT | Silicon Valley’s AI Security Awakening: Key Takeaways from the Summit | Pooja Sharma | [Read More](https://medium.com/p/ec17b6cbcf06) |
+| Fri, 26 Sep 2025 15:11:49 GMT | Why Everyone’s Wrong About Roles — Claims-Based Auth Is the Future | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/245f099a872b) |
+| Fri, 26 Sep 2025 15:09:50 GMT | I Thought My Accounts Were Secure, Until I Discovered Ente Auth & Bitwarden | Sahendra | [Read More](https://medium.com/p/78c1100ed5e8) |
+| Fri, 26 Sep 2025 15:06:09 GMT | SMB Relay Attack (Windows Environment Active Directory Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/a01f31e13d52) |
+| Fri, 26 Sep 2025 15:05:01 GMT | HSRP ile Varsayılan Ağ Geçidi Yedekliliği + RIPv2 | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/b5c03f697e34) |
+| Fri, 26 Sep 2025 15:02:26 GMT | Your Passwords Aren’t Safe, That’s Why I Built Passifier | Your's Nightmare | [Read More](https://medium.com/p/781c48c1f8d2) |
+| Fri, 26 Sep 2025 15:01:51 GMT | DDOS Protection Explained: From Code to Infrastructure (PHP, Nginx, AWS, Cloudflare) | Bohdan Pastukh | [Read More](https://medium.com/p/f7587b718652) |
+| Fri, 26 Sep 2025 15:01:51 GMT | Issue #10 — “The Scroll That Wouldn’t Stop” | Lana Begunova | [Read More](https://medium.com/p/7ea40059a291) |
+| Fri, 26 Sep 2025 14:56:53 GMT | Pandit Surya ji Top/Best Indian Astrologer Psychic Spiritualist Vashikaran Expert Provided… | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/be649c1de664) |
+| Fri, 26 Sep 2025 14:55:36 GMT | How AI Transforms Criminals into Data Hunters | David SEHYEON Baek | [Read More](https://medium.com/p/d8b71c6b9ab4) |
+| Fri, 26 Sep 2025 14:55:34 GMT | ABTU: Scarcity, Utility, and Why Early Entry Matters | Abatis ABTU | [Read More](https://medium.com/p/6de70915c927) |
+| Fri, 26 Sep 2025 14:54:31 GMT | How AI Can Transform Cyber Defense | Akanksha Mane | [Read More](https://medium.com/p/3205d942ba30) |
+| Fri, 26 Sep 2025 14:51:49 GMT | How to Identify Safe Online Casinos: Essential Security Checklist for 2025 | Sharkroll | [Read More](https://medium.com/p/b97fe6516ba5) |
+| Fri, 26 Sep 2025 14:44:18 GMT | When AI Becomes Your Co-Hacker: A Field Manual | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d2f024c203de) |
+| Fri, 26 Sep 2025 14:43:43 GMT | The Future of Information Technology in the USA | Gazi Salauddin | [Read More](https://medium.com/p/695375e48b09) |
+| Fri, 26 Sep 2025 14:42:21 GMT | Debugging With a Crowbar: Physical Exploits Explained | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ba2cac50b253) |
+| Fri, 26 Sep 2025 14:39:52 GMT | The Joy Bug | Jeong-hu Yu | [Read More](https://medium.com/p/31d347f7083a) |
 | Fri, 26 Sep 2025 14:33:42 GMT | Integer Overflow to SQLi to flag — Long Run (Victories Quals) | Kalawy | [Read More](https://medium.com/p/e82c641b9c35) |
 | Fri, 26 Sep 2025 14:31:08 GMT | BREAKING: Cyberattack Targets Cisco ASA Firewalls
 
@@ -97,20 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 10:28:00 GMT | Advanced Nmap (Network Mapper) | BinaryShield | [Read More](https://medium.com/p/88f9245dcb49) |
 | Fri, 26 Sep 2025 10:27:57 GMT | The Chain-Running In The Shadows | IUnknown* pUnk | [Read More](https://medium.com/p/07f0485f772b) |
 | Fri, 26 Sep 2025 10:24:50 GMT | Trickster — picoCTF (Web Exploit, Medium) | Muhamad Avwan | [Read More](https://medium.com/p/b8692fb28675) |
-| Fri, 26 Sep 2025 10:24:42 GMT | Cheap Linux Hosting vs. Cheap Windows Hosting: Which Is Best for You? | Mary Thomas | [Read More](https://medium.com/p/4c07c8990c00) |
-| Fri, 26 Sep 2025 10:24:01 GMT | Understanding IPv6 Vulnerabilities: What Every Security Professional Should Know | Biplove Yadav | [Read More](https://medium.com/p/c6fee0632bf0) |
-| Fri, 26 Sep 2025 10:22:31 GMT | Understanding MAC Addresses, Hubs, and Switches | Zeli | [Read More](https://medium.com/p/ad89a861333a) |
-| Fri, 26 Sep 2025 10:20:52 GMT | Wazuh Walkthrough: Adding a Windows Agent, Detecting Vulnerabilities, and Remediating CVEs | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/ba4f689ad189) |
-| Fri, 26 Sep 2025 10:10:11 GMT | ExploitPad: A Practical Checklist for Web App Testing | Sle3pyHead ‍ | [Read More](https://medium.com/p/fb9754a45d22) |
-| Fri, 26 Sep 2025 10:08:46 GMT | 19. Finding Open Redirects with Ease | Abhijeet kumawat | [Read More](https://medium.com/p/0cc59a41702c) |
-| Fri, 26 Sep 2025 10:05:10 GMT | Attack Surface Management (ASM): Redefining Cybersecurity Resilience | Jackdavis Iap | [Read More](https://medium.com/p/3af6e5e3a09c) |
-| Fri, 26 Sep 2025 10:04:17 GMT | Best IT Infrastructure Management Services In India - Optimize Your IT Operations | Gowthammathiew | [Read More](https://medium.com/p/c36c57f53795) |
-| Fri, 26 Sep 2025 10:02:54 GMT | Finally, a real use case: bringing standards onchain | Ben Fairchild | [Read More](https://medium.com/p/619c0e039918) |
-| Fri, 26 Sep 2025 10:02:47 GMT | Is Go Already Losing to Rust? The Battle for Modern Backends | Tech Genie | [Read More](https://medium.com/p/1094e69e646e) |
-| Fri, 26 Sep 2025 10:02:35 GMT | Exploiting Kioptrix 2 — SQL Injection → Reverse Shell | ishaq Jafar | [Read More](https://medium.com/p/54dd1ea5551f) |
-| Fri, 26 Sep 2025 10:01:14 GMT | Why Cybersecurity Is a Global Imperative in 2025: A Deep Dive into the Evolving Threat Landscape | Arthur Morgan | [Read More](https://medium.com/p/9766b185c535) |
-| Fri, 26 Sep 2025 09:51:54 GMT | Subscription-Based Loyalty Apps: Combining Memberships with Rewards for Steady Revenue | Nayel Basim Al Shehhi | [Read More](https://medium.com/p/f8073767c1f8) |
-| Fri, 26 Sep 2025 09:50:08 GMT | Aj Bouncer | Aj bouncer | [Read More](https://medium.com/p/0ca43a2f08a1) |
-| Fri, 26 Sep 2025 09:47:58 GMT | How ERP Helps Reduce Inventory Carrying Costs | Aaron Smith | [Read More](https://medium.com/p/2b489f3ba23a) |
-| Fri, 26 Sep 2025 09:44:06 GMT | Trusted Cloud Solution Provider: Simplifying IT Infrastructure Management | Ishantechnologies | [Read More](https://medium.com/p/5e6063e8ed9d) |
-| Fri, 26 Sep 2025 09:43:53 GMT | Server-Side Template Injection (SSTI) : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/5dd2c3b8b009) |
