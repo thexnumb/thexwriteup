@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 09:10:50 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Sagarfalak | [Read More](https://medium.com/p/23f991369248) |
+| Fri, 26 Sep 2025 09:08:42 GMT | Understanding Active Directory Certificate Services (AD CS) | Redfox Security | [Read More](https://medium.com/p/004bc136ea98) |
+| Fri, 26 Sep 2025 09:05:46 GMT | The Hidden Dangers of DIY Keyholding | Metropolitan Security Services | [Read More](https://medium.com/p/d6ee3ee59581) |
+| Fri, 26 Sep 2025 09:02:32 GMT | Try Hack Me- Psycho Break | Herrfuhrer | [Read More](https://medium.com/p/5cf7be6ea18d) |
+| Fri, 26 Sep 2025 09:01:52 GMT | ISO 27001 Made Simple: The Audit Guide for Beginners | Hicomply | [Read More](https://medium.com/p/dba7a01f8c4d) |
+| Fri, 26 Sep 2025 08:56:13 GMT | Helping Your Business Get Found on Google | Bravoinformationsdm | [Read More](https://medium.com/p/9a655723ae3b) |
+| Fri, 26 Sep 2025 08:48:24 GMT | The Hidden Risk Every Freelancer Overlooks in 2025 | Cyber Safety Zone | [Read More](https://medium.com/p/c84792ee4b90) |
 | Fri, 26 Sep 2025 08:45:13 GMT | Why Businesses Choose Professional IT Infrastructure Services and Solutions | Juarait Digital | [Read More](https://medium.com/p/f766e3cb961b) |
+| Fri, 26 Sep 2025 08:41:48 GMT | ️ Golden Ticket & Silver Ticket: An In-Depth Look at Kerberos Ticket Exploitation | Esra Kayhan | [Read More](https://medium.com/p/8df945874baa) |
 | Fri, 26 Sep 2025 08:30:16 GMT | Who’s Applying for You? A Look at Broken Access Control | Osama | [Read More](https://medium.com/p/2f8f37a9dc0d) |
 | Fri, 26 Sep 2025 08:28:45 GMT | Common Security Packaging Failures & How to Avoid Them | Sofiamcmahon | [Read More](https://medium.com/p/b4796bc5c3a7) |
 | Fri, 26 Sep 2025 08:28:34 GMT | The 5 Security Automations Every Company Should Set Up Yesterday | Arfa | [Read More](https://medium.com/p/7c8587743ec9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 02:54:15 GMT | SonicWall Confirms Cloud Backup Breach Impacting Firewall Configuration Files | SafetyDetectives Research Team | [Read More](https://medium.com/p/c8ba6a69f13c) |
 | Fri, 26 Sep 2025 02:47:45 GMT | TryHackMe #56 - Vulnerability Scanner Overview | 0xGroot | [Read More](https://medium.com/p/48070fbb807a) |
 | Fri, 26 Sep 2025 02:46:02 GMT | Why Your Broken Parts Are Your Most Beautiful | Mayukh Sarma | [Read More](https://medium.com/p/54be171aa948) |
-| Fri, 26 Sep 2025 02:43:00 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools: Part 1 | Robert Onyango | [Read More](https://medium.com/p/37dc1a71be7f) |
-| Fri, 26 Sep 2025 02:41:49 GMT | TryHackMe #55 - IDS Fundamentals | 0xGroot | [Read More](https://medium.com/p/f360a0211f49) |
-| Fri, 26 Sep 2025 02:40:07 GMT | What Did Ukrainian Hackers Discover Inside a Russian General’s Laptop? | Damien Blackwood | [Read More](https://medium.com/p/8ec7deac25b4) |
-| Fri, 26 Sep 2025 02:39:33 GMT | Hunting Insider Threats with Wireshark: My First Week in CodePath’s Cybersecurity Track | Varnith | [Read More](https://medium.com/p/c4cd176281f4) |
-| Fri, 26 Sep 2025 02:37:46 GMT | TryHackMe #54 - Firewall Fundamentals | 0xGroot | [Read More](https://medium.com/p/09fd4b35c44f) |
-| Fri, 26 Sep 2025 02:36:31 GMT | The September 2025 Cisco Zero-Day Crisis: State-Sponsored Espionage Targets Federal Networks | CCD-IS | [Read More](https://medium.com/p/7522acf3680d) |
-| Fri, 26 Sep 2025 02:31:45 GMT | TryHackMe #53 - Introduction to SIEM | 0xGroot | [Read More](https://medium.com/p/459f0112dc94) |
-| Fri, 26 Sep 2025 02:17:59 GMT | Day 62- Understanding handshakes in networking and cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/007b29ff46d4) |
