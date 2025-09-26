@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 07:32:34 GMT | Demystifying Azure App Roles: Why They Matter and How to Use Them! | Aymen Abdelwahed | [Read More](https://medium.com/p/478e5ff3a593) |
+| Fri, 26 Sep 2025 07:29:43 GMT | ประจำวันศุกร์ที่ 26 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1d7222048dd7) |
+| Fri, 26 Sep 2025 07:24:19 GMT | VPN Myths vs. Facts: What You Really Need to Know | Cloudbric VPN | [Read More](https://medium.com/p/ec30abe3b698) |
+| Fri, 26 Sep 2025 07:23:17 GMT | Metasploit Walkthrough: Cyber Kill Chain in Action | Vinayak | [Read More](https://medium.com/p/12bbe5d698aa) |
+| Fri, 26 Sep 2025 07:20:44 GMT | How to Hide Your IP Address：The Best Ways | Fancy Fann | [Read More](https://medium.com/p/695aab3e01b6) |
 | Fri, 26 Sep 2025 07:12:24 GMT | Linux Threat Detection 1 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/51791ba290e4) |
 | Fri, 26 Sep 2025 07:11:50 GMT | Best Shopify Apps That Help Increase Sales in 2025 | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5047f15881a9) |
 | Fri, 26 Sep 2025 07:11:34 GMT | 7 Best Ethical Hacking Certifications in 2025 (Updated) | Serishahid | [Read More](https://medium.com/p/11b6471f2012) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 00:31:17 GMT | Cloudbric WAF+ 서비스 고도화 완료 | Cloudbric | [Read More](https://medium.com/p/a482ff93a46c) |
 | Fri, 26 Sep 2025 00:21:48 GMT | Stored XSS via PDF Upload in Live chat⚠️ | 0verRida | [Read More](https://medium.com/p/ce792a6eff1d) |
 | Fri, 26 Sep 2025 00:08:00 GMT | VMware ile FortiGate Lab Kurulumu | Onur Altuğ | [Read More](https://medium.com/p/f29b34f9a25b) |
-| Fri, 26 Sep 2025 00:01:47 GMT | Dalfox: Escáner de XSS Inteligente para Bug Bounty y Pentesting | JPablo13 | [Read More](https://medium.com/p/0541638c4711) |
-| Thu, 25 Sep 2025 23:54:41 GMT | Androgoat Android App WriteUp | Recep Emir | [Read More](https://medium.com/p/7218ee2037b0) |
-| Thu, 25 Sep 2025 23:45:36 GMT | How Quantum Computing Will Reshape Today’s Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/9fd61cc6ac50) |
-| Thu, 25 Sep 2025 23:36:47 GMT | Understanding Zero-Day Vulnerabilities: The Invisible Threat | Houssam LASFAR | [Read More](https://medium.com/p/83739611b399) |
-| Thu, 25 Sep 2025 23:35:33 GMT | WHO IS WHITEDEATHKL | Steve Thomas | [Read More](https://medium.com/p/a2c6d71456e1) |
