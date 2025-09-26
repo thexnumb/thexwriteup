@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 21:29:16 GMT | Turn Your AI Security Findings Into Repeatable Automated Checks | Teri Radichel | [Read More](https://medium.com/p/48bb5880b2ff) |
+| Fri, 26 Sep 2025 21:22:33 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/6a13cdef6b26) |
+| Fri, 26 Sep 2025 21:16:36 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/c686e07cb3f0) |
+| Fri, 26 Sep 2025 21:14:48 GMT | Secure Coding Practices Through My Lens as a Cybersecurity Professional | Raleigh Guevarra | [Read More](https://medium.com/p/ae588e4f2975) |
 | Fri, 26 Sep 2025 21:10:37 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/7cd6b077450b) |
 | Fri, 26 Sep 2025 21:05:21 GMT | HTB Holmes CTF Writeup: The Card | Sparsh Ladani | [Read More](https://medium.com/p/2c6e8ca60356) |
 | Fri, 26 Sep 2025 21:04:53 GMT | PG Practice — Jacko (Windows) | Lepton | [Read More](https://medium.com/p/44f1e5fa7fe2) |
@@ -48,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 18:41:47 GMT | The 7 Dumbest Passwords I’ve Ever Seen (Yes, People Still Use Them) | Cyberkech | [Read More](https://medium.com/p/86666fdf3223) |
 | Fri, 26 Sep 2025 18:41:25 GMT | Securing Microservices Architectures | Cyber Security Research | [Read More](https://medium.com/p/7c9ec53bda3a) |
 | Fri, 26 Sep 2025 18:35:37 GMT | Digital Forensics in Blockchain Systems | Cyber Security Research | [Read More](https://medium.com/p/6787382f6e68) |
+| Fri, 26 Sep 2025 18:29:26 GMT | The protection of supply chain logistics systems from cyber threats is a non-negotiable requirement… | Cyber Security Research | [Read More](https://medium.com/p/eba9bc12b59a) |
 | Fri, 26 Sep 2025 18:25:24 GMT | Secrets of JavaScript I Learned the Hard Way | Kainat Nafees | [Read More](https://medium.com/p/279d1975f817) |
 | Fri, 26 Sep 2025 18:23:21 GMT | Securing Voice over IP Systems | Cyber Security Research | [Read More](https://medium.com/p/80580c1b7709) |
 | Fri, 26 Sep 2025 18:22:49 GMT | Building Real-World Automation with Python | Kainat Nafees | [Read More](https://medium.com/p/b734a9f89b7a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 15:55:58 GMT | Using AI to Check For Security Vulnerabilities Across Your Code Base | Teri Radichel | [Read More](https://medium.com/p/fcd48e246d04) |
 | Fri, 26 Sep 2025 15:46:31 GMT | Extending Free Trials with Just a Clock Change: A Subscription Bypass Story | Abhishek sharma | [Read More](https://medium.com/p/515d8565cba9) |
 | Fri, 26 Sep 2025 15:42:30 GMT | How PostgreSQL 17 Changed the Game for Developers | Rizqi Mulki | [Read More](https://medium.com/p/3f87f813299f) |
-| Fri, 26 Sep 2025 15:42:23 GMT | Exploring Claude’s Quirks: Bugs, Laughs, and Transparency - Anthropic AI | Grenish Rai | [Read More](https://medium.com/p/cbe5f522818b) |
-| Fri, 26 Sep 2025 15:41:59 GMT | “The Subtle Art of Deception: Hunting Content Spoofing and Session Flaws” | Aman Sharma | [Read More](https://medium.com/p/4d73b8b1ec16) |
-| Fri, 26 Sep 2025 15:41:16 GMT | Real-Time User Login Alerts system with Twilio + Next.js | David Fagbuyiro | [Read More](https://medium.com/p/2d691b1cd08b) |
-| Fri, 26 Sep 2025 15:39:47 GMT | Skyhigh Web Gateway On-Premise : la protection web ultime pour les entreprises en 2025 | AExpert | [Read More](https://medium.com/p/c0aa248aff54) |
-| Fri, 26 Sep 2025 15:35:04 GMT | Unlocking Active Directory: A Beginner’s Guide | Sumit Sah | [Read More](https://medium.com/p/5b4fb2835874) |
