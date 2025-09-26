@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 04:10:51 GMT | The Emoji That Broke the AI (into 27 Pieces) | Varnith | [Read More](https://medium.com/p/a6ab1e1c551b) |
+| Fri, 26 Sep 2025 04:07:02 GMT | HTTP vs. HTTPS Proxies: Which One Fits Your Data Collection Needs? | Blanche X | [Read More](https://medium.com/p/c34a8beaed39) |
+| Fri, 26 Sep 2025 03:57:12 GMT | HTTP vs. HTTPS Proxies: Which One Fits Your Data Needs? | Novada | [Read More](https://medium.com/p/46b828138b59) |
+| Fri, 26 Sep 2025 03:47:53 GMT | AI’s Double-Edged Sword: Security Risks vs. Innovation | Joseph | [Read More](https://medium.com/p/152e89502feb) |
+| Fri, 26 Sep 2025 03:45:46 GMT | How computer science student can see hello in whatsapp ? | Sukumar | [Read More](https://medium.com/p/825ae0e30340) |
+| Fri, 26 Sep 2025 03:45:03 GMT | Security Homelab: The Real First Attack | Jordan Palumbo | [Read More](https://medium.com/p/f5b3833e2f56) |
 | Fri, 26 Sep 2025 03:43:37 GMT | Key to the Kingdom: How I Found API Secrets Hiding in Plain Sight in JavaScript Files | Iski | [Read More](https://medium.com/p/2f92ab1dfe63) |
+| Fri, 26 Sep 2025 03:39:24 GMT | Shield virtual machines using Bastion | Peta Pavan | [Read More](https://medium.com/p/9d7d7d8b40ce) |
+| Fri, 26 Sep 2025 03:36:09 GMT | Windows/Linux 프로세스 | Crowndaisy | [Read More](https://medium.com/p/28973c841c03) |
 | Fri, 26 Sep 2025 03:31:48 GMT | From Free Nuggets to Full Access: How a Snack Craving Unwrapped McDonald’s Security Flaws | Deven Chhajed | [Read More](https://medium.com/p/172d8d1bb7b8) |
 | Fri, 26 Sep 2025 03:31:31 GMT | Inclusive Web Recognized by Fast Company’s 2025 Innovation by Design Awards for Accessibility… | Emma Lyons | [Read More](https://medium.com/p/c8d12e6db4b1) |
 | Fri, 26 Sep 2025 03:19:44 GMT | Lab-based deep dive / research on Windows Defender detection and evasion techniques using… | Omarelsayed | [Read More](https://medium.com/p/3bcd12a60dad) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 18:17:33 GMT | HTTP Host Header Attacks (HTTP Host Başlığı Saldırısı) | Oruç | [Read More](https://medium.com/p/2e72dc91aa3b) |
 | Thu, 25 Sep 2025 18:10:56 GMT | The 5 Tech Skills I’d Still Bet On For 2030 | Melis - Data Detective | [Read More](https://medium.com/p/3668583ab45c) |
 | Thu, 25 Sep 2025 18:07:49 GMT | SİBER GÜVENLİĞE GİRİŞ | Zeynel Demirdağ | [Read More](https://medium.com/p/fd6496f49195) |
-| Thu, 25 Sep 2025 18:04:05 GMT | How I Learned to Tame Python: Practical Patterns from Real Projects | Kainat Nafees | [Read More](https://medium.com/p/75eb380cdfc5) |
-| Thu, 25 Sep 2025 18:01:46 GMT | De SQLi a RCE — Explotación real paso a paso en laboratorio | Gorka | [Read More](https://medium.com/p/76cc3d73116a) |
-| Thu, 25 Sep 2025 17:57:16 GMT | OAuth2 and JWT in Java: The Subtle Mistakes, That Can Break Production Auth | Tirupati Rao (bitbee) | [Read More](https://medium.com/p/570a5b4bf59c) |
-| Thu, 25 Sep 2025 17:55:11 GMT | Migrating On-Premises Users to AWS with Automation and MFA | Davi Vicente do Prado Silva Rocha | [Read More](https://medium.com/p/1c75c8320ad7) |
-| Thu, 25 Sep 2025 17:54:48 GMT | CYBERSECURITY SPECIALIST: HIRE DUNE NECTAR WEB EXPERT TO SUCCESSFULLY RECOVER LOST CRYPTO. | Alden Ponzio | [Read More](https://medium.com/p/c1acd64876fd) |
-| Thu, 25 Sep 2025 17:46:09 GMT | Siber Güvenlik 101 — SOC(Security Operations Center) | Sude Çoban | [Read More](https://medium.com/p/e1e949092697) |
-| Thu, 25 Sep 2025 17:45:04 GMT | Walkthrough of XSS Challenges (by yamagata21) | Arnav Vaidya | [Read More](https://medium.com/p/6e43c388235f) |
-| Thu, 25 Sep 2025 17:44:32 GMT | Your Cisco Network Just Became a Hacker’s Playground | Anika | [Read More](https://medium.com/p/a15d92630574) |
