@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 04:37:42 GMT | Bring Your Own Algorithm: Why Employees Will Choose Their AI | Carsten Bund | [Read More](https://medium.com/p/ff28eb25e8e1) |
+| Fri, 26 Sep 2025 04:31:50 GMT | From Small Town to IBM: AI, Cybersecurity & Product Strategy Lessons from Drijesh Ppatel | TST Technology | [Read More](https://medium.com/p/5941ea225d32) |
+| Fri, 26 Sep 2025 04:18:45 GMT | Deserialization of Untrusted Data: Unpacking a Remote Code Execution Vulnerability | InstaTunnel | [Read More](https://medium.com/p/a772591dbf5a) |
 | Fri, 26 Sep 2025 04:10:51 GMT | The Emoji That Broke the AI (into 27 Pieces) | Varnith | [Read More](https://medium.com/p/a6ab1e1c551b) |
 | Fri, 26 Sep 2025 04:07:02 GMT | HTTP vs. HTTPS Proxies: Which One Fits Your Data Collection Needs? | Blanche X | [Read More](https://medium.com/p/c34a8beaed39) |
 | Fri, 26 Sep 2025 03:57:12 GMT | HTTP vs. HTTPS Proxies: Which One Fits Your Data Needs? | Novada | [Read More](https://medium.com/p/46b828138b59) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 18:29:34 GMT | They Want To Scan Your Encrypted Messages — Why Client-Side Scanning Is An Engineer’s Red Line | The Atomic Architect | [Read More](https://medium.com/p/c2491b525150) |
 | Thu, 25 Sep 2025 18:29:11 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/eb9f70779362) |
 | Thu, 25 Sep 2025 18:22:22 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/b3bb560cd3b9) |
-| Thu, 25 Sep 2025 18:17:33 GMT | HTTP Host Header Attacks (HTTP Host Başlığı Saldırısı) | Oruç | [Read More](https://medium.com/p/2e72dc91aa3b) |
-| Thu, 25 Sep 2025 18:10:56 GMT | The 5 Tech Skills I’d Still Bet On For 2030 | Melis - Data Detective | [Read More](https://medium.com/p/3668583ab45c) |
-| Thu, 25 Sep 2025 18:07:49 GMT | SİBER GÜVENLİĞE GİRİŞ | Zeynel Demirdağ | [Read More](https://medium.com/p/fd6496f49195) |
