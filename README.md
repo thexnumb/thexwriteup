@@ -12,11 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 05:26:57 GMT | Cybersecurity Threats to Watch Out for in 2025. | Technologic Innovation | [Read More](https://medium.com/p/f2b9e056c511) |
+| Fri, 26 Sep 2025 05:26:48 GMT | Lab-based deep dive / research on Windows Defender detection and evasion techniques using… | Omarelsayed | [Read More](https://medium.com/p/1b70fa4aead8) |
+| Fri, 26 Sep 2025 05:16:25 GMT | AI-Powered Deception Technologies | Cyber Security Research | [Read More](https://medium.com/p/b83efeeebf2d) |
 | Fri, 26 Sep 2025 05:14:03 GMT | Authorization Bypass: The Simple SSO Mistake | Ibtissam hammadi | [Read More](https://medium.com/p/c8bd261b961c) |
 | Fri, 26 Sep 2025 05:13:30 GMT | Tata Jaguar Land Rover’s Billion-Dollar Headache : More Than Just a Computer Glitch | Athishsagarkishan | [Read More](https://medium.com/p/c8d1018b080b) |
 | Fri, 26 Sep 2025 05:11:48 GMT | 2025 Flutter Güvenlik Rehberi: OWASP Top 10 Kontrolü | AbdullahTaş | [Read More](https://medium.com/p/2d516ec19d20) |
+| Fri, 26 Sep 2025 05:11:29 GMT | The Genius of SSL | Kevin Fernandes | [Read More](https://medium.com/p/ce29df6a53c5) |
 | Fri, 26 Sep 2025 05:08:36 GMT | Tooling via Browser Automation | Chetan Chinchulkar | [Read More](https://medium.com/p/5336b17c5497) |
 | Fri, 26 Sep 2025 05:03:17 GMT | How CEH v13 Online Training Helps You Become a Cybersecurity Expert | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/a23204bb4df7) |
+| Fri, 26 Sep 2025 05:02:07 GMT | Cybersecurity for Election Systems | Cyber Security Research | [Read More](https://medium.com/p/2beeefa48f0a) |
 | Fri, 26 Sep 2025 04:56:00 GMT | Security in Smart Transportation Networks | Cyber Security Research | [Read More](https://medium.com/p/77de2019f2d8) |
 | Fri, 26 Sep 2025 04:55:17 GMT | Encryption, Hashing, and Encoding: The Essential Differences | Mahmoud Matar | [Read More](https://medium.com/p/577a042054ff) |
 | Fri, 26 Sep 2025 04:51:01 GMT | Top 6 VAPT Service Providers in Singapore -- VAPT Singapore | QualysecEurope | [Read More](https://medium.com/p/c506323d5e2f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 19:32:13 GMT | READ ON THEORITICAL STUDY ON NOISE MODELS FOR MOBILE QKD. | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/a3f51e643c5c) |
 | Thu, 25 Sep 2025 19:28:34 GMT | READ MORE ON QUANTUM CRYTOGRAPHY | Okai Tettey-Antie Samuel ( OTAS ) | [Read More](https://medium.com/p/7bd4217e11fa) |
 | Thu, 25 Sep 2025 19:16:55 GMT | Non-Malware and Living-off-the-Land Tactics in Modern Cyber Operations | Deniz Topaloglu | [Read More](https://medium.com/p/67c882a4126b) |
-| Thu, 25 Sep 2025 19:16:14 GMT | The cowardice of a crush | Jules | [Read More](https://medium.com/p/1094b6396d0e) |
-| Thu, 25 Sep 2025 18:59:09 GMT | Terrier Cyber Quest 2025 — Brief Write-up | Somnath Das | [Read More](https://medium.com/p/b001310d025c) |
-| Thu, 25 Sep 2025 18:45:59 GMT | Find Info on Phone Numbers - OSINT | Shahzaib | [Read More](https://medium.com/p/655fa5281a30) |
-| Thu, 25 Sep 2025 18:41:46 GMT | The Production Database Disaster That Made GitLab Famous (For All the Wrong Reasons) | The Latency Gambler | [Read More](https://medium.com/p/f49b701c537d) |
-| Thu, 25 Sep 2025 18:41:28 GMT | TryHackMe - Linux Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/bcc4b4901183) |
