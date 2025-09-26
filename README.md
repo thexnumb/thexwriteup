@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 14:10:45 GMT | North Korean Hackers Exploited a Chrome Zero-Day: What It Teaches Us About Human Risk | Keepnet Labs | [Read More](https://medium.com/p/1be2be59b925) |
+| Fri, 26 Sep 2025 14:09:31 GMT | Microsoft’s Windows 11 Mess | Techtanktools | [Read More](https://medium.com/p/228a2cf5e786) |
+| Fri, 26 Sep 2025 14:08:40 GMT | Frida Labs — Challenge 0x1: Bypassing a Random Check with Frida | Ahmed Alnajjar | [Read More](https://medium.com/p/ee74e0e5e172) |
+| Fri, 26 Sep 2025 14:06:52 GMT | Cybersecurity Details: Threat Hunting Methodologies | Cybersecurity Umbrella | [Read More](https://medium.com/p/5ac5c1308aae) |
+| Fri, 26 Sep 2025 14:05:48 GMT | This chip isn’t just hardware; Microsoft might’ve actually built the future. | Sri Murthy | [Read More](https://medium.com/p/e3524728ed64) |
+| Fri, 26 Sep 2025 14:01:52 GMT | Cyber Briefing: 2025.09.26 | CyberMaterial | [Read More](https://medium.com/p/b6a586ef23a9) |
+| Fri, 26 Sep 2025 13:59:52 GMT | The Gentlemen Ransomware Group Profile - Part 1: Background, Motivations, Affiliates and… | gm0 | [Read More](https://medium.com/p/1ee559ac6ecd) |
+| Fri, 26 Sep 2025 13:57:48 GMT | Top Skills Employers in the U.S. Want in 2025 (Especially in IT, BA, QA) | Tasktech Recruiters | [Read More](https://medium.com/p/0506c788b216) |
+| Fri, 26 Sep 2025 13:55:15 GMT | Building Your Career: In-Demand Cybersecurity Skills to Learn Now | Apexium Technologies Ltd | [Read More](https://medium.com/p/8ba42a1485a1) |
+| Fri, 26 Sep 2025 13:49:39 GMT | Fortigate Addresses | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7be1fc558dd0) |
+| Fri, 26 Sep 2025 13:49:34 GMT | When AI Spills Secrets: Sensitive Information Disclosure | Om Sahare | [Read More](https://medium.com/p/84d3e4eab681) |
+| Fri, 26 Sep 2025 13:49:03 GMT | Secure MCP Deployment with Micepe | Micepe | [Read More](https://medium.com/p/917186c682b2) |
+| Fri, 26 Sep 2025 13:42:38 GMT | Strengthening Modern Enterprises with Security, Efficiency, and Compliance | Defend My Business | [Read More](https://medium.com/p/28d003a5eb2a) |
+| Fri, 26 Sep 2025 13:37:07 GMT | Unveiling Ransomware Attacks: What You Need To Know | Apexium Technologies Ltd | [Read More](https://medium.com/p/c1ccc0b32024) |
 | Fri, 26 Sep 2025 13:32:55 GMT | Transforming U.S. Healthcare with Real-Time Location Systems (RTLS) | Kaverigiri | [Read More](https://medium.com/p/52af7ef3de15) |
 | Fri, 26 Sep 2025 13:26:40 GMT | Azərbaycan İdmanının Ən Son Yenilikləri | clementina99 | [Read More](https://medium.com/p/d32f5e5db0b3) |
 | Fri, 26 Sep 2025 13:23:10 GMT | Security Update: What’s Safe, What’s Next, and Our Transparency Commitment | Seedify | [Read More](https://medium.com/p/790e90501b06) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 09:19:16 GMT | Walkthrough THM Apachu | Telynor | [Read More](https://medium.com/p/cf190c16398b) |
 | Fri, 26 Sep 2025 09:17:30 GMT | Oman’s Next Generation of Access Control. | Tekshoyabeelyas | [Read More](https://medium.com/p/abf60ba42481) |
 | Fri, 26 Sep 2025 09:10:50 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Sagarfalak | [Read More](https://medium.com/p/23f991369248) |
-| Fri, 26 Sep 2025 09:08:42 GMT | Understanding Active Directory Certificate Services (AD CS) | Redfox Security | [Read More](https://medium.com/p/004bc136ea98) |
-| Fri, 26 Sep 2025 09:05:46 GMT | The Hidden Dangers of DIY Keyholding | Metropolitan Security Services | [Read More](https://medium.com/p/d6ee3ee59581) |
-| Fri, 26 Sep 2025 09:02:32 GMT | Try Hack Me- Psycho Break | Herrfuhrer | [Read More](https://medium.com/p/5cf7be6ea18d) |
-| Fri, 26 Sep 2025 09:01:52 GMT | ISO 27001 Made Simple: The Audit Guide for Beginners | Hicomply | [Read More](https://medium.com/p/dba7a01f8c4d) |
-| Fri, 26 Sep 2025 08:56:13 GMT | Helping Your Business Get Found on Google | Bravoinformationsdm | [Read More](https://medium.com/p/9a655723ae3b) |
-| Fri, 26 Sep 2025 08:48:24 GMT | The Hidden Risk Every Freelancer Overlooks in 2025 | Cyber Safety Zone | [Read More](https://medium.com/p/c84792ee4b90) |
-| Fri, 26 Sep 2025 08:45:13 GMT | Why Businesses Choose Professional IT Infrastructure Services and Solutions | Juarait Digital | [Read More](https://medium.com/p/f766e3cb961b) |
-| Fri, 26 Sep 2025 08:41:48 GMT | ️ Golden Ticket & Silver Ticket: An In-Depth Look at Kerberos Ticket Exploitation | Esra Kayhan | [Read More](https://medium.com/p/8df945874baa) |
-| Fri, 26 Sep 2025 08:30:16 GMT | Who’s Applying for You? A Look at Broken Access Control | Osama | [Read More](https://medium.com/p/2f8f37a9dc0d) |
-| Fri, 26 Sep 2025 08:28:45 GMT | Common Security Packaging Failures & How to Avoid Them | Sofiamcmahon | [Read More](https://medium.com/p/b4796bc5c3a7) |
-| Fri, 26 Sep 2025 08:28:34 GMT | The 5 Security Automations Every Company Should Set Up Yesterday | Arfa | [Read More](https://medium.com/p/7c8587743ec9) |
-| Fri, 26 Sep 2025 08:22:58 GMT | Ethical Hacking: Tools Dasar & Alur Pentest yang Wajib Kamu Tahu | Eilinafta Gita | [Read More](https://medium.com/p/d647478f45e5) |
-| Fri, 26 Sep 2025 08:12:13 GMT | eJPT v2 : Challenge Lab 22: Lazy Admin | Dhanushkumar R | [Read More](https://medium.com/p/103c0e940dc0) |
-| Fri, 26 Sep 2025 08:11:03 GMT | The Green Promise of Aurö | Iqra | [Read More](https://medium.com/p/e3a94642605d) |
