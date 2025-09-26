@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 05:14:03 GMT | Authorization Bypass: The Simple SSO Mistake | Ibtissam hammadi | [Read More](https://medium.com/p/c8bd261b961c) |
+| Fri, 26 Sep 2025 05:13:30 GMT | Tata Jaguar Land Rover’s Billion-Dollar Headache : More Than Just a Computer Glitch | Athishsagarkishan | [Read More](https://medium.com/p/c8d1018b080b) |
+| Fri, 26 Sep 2025 05:11:48 GMT | 2025 Flutter Güvenlik Rehberi: OWASP Top 10 Kontrolü | AbdullahTaş | [Read More](https://medium.com/p/2d516ec19d20) |
+| Fri, 26 Sep 2025 05:08:36 GMT | Tooling via Browser Automation | Chetan Chinchulkar | [Read More](https://medium.com/p/5336b17c5497) |
+| Fri, 26 Sep 2025 05:03:17 GMT | How CEH v13 Online Training Helps You Become a Cybersecurity Expert | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/a23204bb4df7) |
+| Fri, 26 Sep 2025 04:56:00 GMT | Security in Smart Transportation Networks | Cyber Security Research | [Read More](https://medium.com/p/77de2019f2d8) |
+| Fri, 26 Sep 2025 04:55:17 GMT | Encryption, Hashing, and Encoding: The Essential Differences | Mahmoud Matar | [Read More](https://medium.com/p/577a042054ff) |
+| Fri, 26 Sep 2025 04:51:01 GMT | Top 6 VAPT Service Providers in Singapore -- VAPT Singapore | QualysecEurope | [Read More](https://medium.com/p/c506323d5e2f) |
+| Fri, 26 Sep 2025 04:50:10 GMT | 7 Cybersecurity Trends That Will Dominate in 2026 | HostNOC | [Read More](https://medium.com/p/07c83e1d5777) |
+| Fri, 26 Sep 2025 04:49:18 GMT | Protecting Data with Homomorphic Encryption | Cyber Security Research | [Read More](https://medium.com/p/73cb864148ea) |
+| Fri, 26 Sep 2025 04:42:13 GMT | Privacy Challenges in Genomic Data | Cyber Security Research | [Read More](https://medium.com/p/e2e377c5053a) |
 | Fri, 26 Sep 2025 04:37:42 GMT | Bring Your Own Algorithm: Why Employees Will Choose Their AI | Carsten Bund | [Read More](https://medium.com/p/ff28eb25e8e1) |
 | Fri, 26 Sep 2025 04:31:50 GMT | From Small Town to IBM: AI, Cybersecurity & Product Strategy Lessons from Drijesh Ppatel | TST Technology | [Read More](https://medium.com/p/5941ea225d32) |
 | Fri, 26 Sep 2025 04:18:45 GMT | Deserialization of Untrusted Data: Unpacking a Remote Code Execution Vulnerability | InstaTunnel | [Read More](https://medium.com/p/a772591dbf5a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 18:45:59 GMT | Find Info on Phone Numbers - OSINT | Shahzaib | [Read More](https://medium.com/p/655fa5281a30) |
 | Thu, 25 Sep 2025 18:41:46 GMT | The Production Database Disaster That Made GitLab Famous (For All the Wrong Reasons) | The Latency Gambler | [Read More](https://medium.com/p/f49b701c537d) |
 | Thu, 25 Sep 2025 18:41:28 GMT | TryHackMe - Linux Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/bcc4b4901183) |
-| Thu, 25 Sep 2025 18:41:21 GMT | Learning : Mastering Nmap for Network Recon | Vikram Budania | [Read More](https://medium.com/p/78b8dbeb4568) |
-| Thu, 25 Sep 2025 18:37:38 GMT | Why Cybersecurity Matters for Start-ups | Mainekhacker | [Read More](https://medium.com/p/ded6d1f8ca1c) |
-| Thu, 25 Sep 2025 18:37:28 GMT | The Role of Machine Learning in Predicting Cyberattacks | Samina Perveen | [Read More](https://medium.com/p/b37ee5016665) |
-| Thu, 25 Sep 2025 18:36:40 GMT | How Hackers Turned a Smart Coffee Maker Into a $100,000 Ransomware Attack | Noel | [Read More](https://medium.com/p/a0da63d9efc1) |
-| Thu, 25 Sep 2025 18:35:06 GMT | Industry InsideOut: the ISA 95 magic. | Shivam Maurya | [Read More](https://medium.com/p/f7254b3c662b) |
-| Thu, 25 Sep 2025 18:33:22 GMT | TryHackMe - Intro to Credential Harvesting - WriteUp | Axoloth | [Read More](https://medium.com/p/7181e82cfb60) |
-| Thu, 25 Sep 2025 18:31:05 GMT | Indian Army CTF: Boot-2-Root Writeup | Sunkara Yashwanth | [Read More](https://medium.com/p/d9c9d048e89c) |
-| Thu, 25 Sep 2025 18:30:52 GMT | Computer Security For Regular People | James A. | [Read More](https://medium.com/p/97a9310d4489) |
-| Thu, 25 Sep 2025 18:29:34 GMT | They Want To Scan Your Encrypted Messages — Why Client-Side Scanning Is An Engineer’s Red Line | The Atomic Architect | [Read More](https://medium.com/p/c2491b525150) |
-| Thu, 25 Sep 2025 18:29:11 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/eb9f70779362) |
-| Thu, 25 Sep 2025 18:22:22 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/b3bb560cd3b9) |
