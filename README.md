@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 08:45:13 GMT | Why Businesses Choose Professional IT Infrastructure Services and Solutions | Juarait Digital | [Read More](https://medium.com/p/f766e3cb961b) |
+| Fri, 26 Sep 2025 08:30:16 GMT | Who’s Applying for You? A Look at Broken Access Control | Osama | [Read More](https://medium.com/p/2f8f37a9dc0d) |
+| Fri, 26 Sep 2025 08:28:45 GMT | Common Security Packaging Failures & How to Avoid Them | Sofiamcmahon | [Read More](https://medium.com/p/b4796bc5c3a7) |
+| Fri, 26 Sep 2025 08:28:34 GMT | The 5 Security Automations Every Company Should Set Up Yesterday | Arfa | [Read More](https://medium.com/p/7c8587743ec9) |
+| Fri, 26 Sep 2025 08:22:58 GMT | Ethical Hacking: Tools Dasar & Alur Pentest yang Wajib Kamu Tahu | Eilinafta Gita | [Read More](https://medium.com/p/d647478f45e5) |
 | Fri, 26 Sep 2025 08:12:13 GMT | eJPT v2 : Challenge Lab 22: Lazy Admin | Dhanushkumar R | [Read More](https://medium.com/p/103c0e940dc0) |
 | Fri, 26 Sep 2025 08:11:03 GMT | The Green Promise of Aurö | Iqra | [Read More](https://medium.com/p/e3a94642605d) |
 | Fri, 26 Sep 2025 08:10:47 GMT | eJPT v2 : Challenge Lab 21: Brick Heist | Dhanushkumar R | [Read More](https://medium.com/p/0e3846d40c3a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 02:36:31 GMT | The September 2025 Cisco Zero-Day Crisis: State-Sponsored Espionage Targets Federal Networks | CCD-IS | [Read More](https://medium.com/p/7522acf3680d) |
 | Fri, 26 Sep 2025 02:31:45 GMT | TryHackMe #53 - Introduction to SIEM | 0xGroot | [Read More](https://medium.com/p/459f0112dc94) |
 | Fri, 26 Sep 2025 02:17:59 GMT | Day 62- Understanding handshakes in networking and cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/007b29ff46d4) |
-| Fri, 26 Sep 2025 02:17:55 GMT | SpongeBob (4hats-ctf) | Nadeen Al-Homoud | [Read More](https://medium.com/p/cda5837b1e81) |
-| Fri, 26 Sep 2025 02:10:06 GMT | Bugs | Arabella Bedsole | [Read More](https://medium.com/p/72e4e36af705) |
-| Fri, 26 Sep 2025 02:03:27 GMT | Agentic AI in Cyber Operations: Why Leaders Should Care Now | John Dommert (johnnyd184) | [Read More](https://medium.com/p/394e26bfb64d) |
-| Fri, 26 Sep 2025 01:44:51 GMT | How a JavaScript Developer Could Prevent Supply-Chain Attacks | Emily Xiong | [Read More](https://medium.com/p/46db024dd3f8) |
-| Fri, 26 Sep 2025 01:40:26 GMT | From AI Fear to Terms of Service: A Security Professional’s Reality Check | Imanologya | [Read More](https://medium.com/p/9716ce8ed053) |
