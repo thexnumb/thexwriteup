@@ -12,9 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 16:20:13 GMT | The DeQUIP Grant Program: Building the Uncrackable Future | Bright Mmaduabuchi | [Read More](https://medium.com/p/12602a5a61e9) |
+| Fri, 26 Sep 2025 16:15:00 GMT | HackornCTF Writeup | Aniket Kumar | [Read More](https://medium.com/p/c47ea36a280b) |
+| Fri, 26 Sep 2025 16:13:00 GMT | Top 10 Cybersecurity Projects You Must Try in 2025 - Hurry up! | Shahzaib | [Read More](https://medium.com/p/d64cfe171600) |
+| Fri, 26 Sep 2025 16:11:08 GMT | Why Investing in Modern Security Technology Is No Longer Optional | Sarmin Islam | [Read More](https://medium.com/p/52a5c0cae731) |
+| Fri, 26 Sep 2025 16:10:32 GMT | The Difficult Journey of Zero Trust: A Story of Vision, Struggle, and Slow Triumph | David SEHYEON Baek | [Read More](https://medium.com/p/758e6328ff3b) |
+| Fri, 26 Sep 2025 16:06:06 GMT | Brave Browser in 2025: The Top Browser for Privacy and Data Protection? | Cordula Boeck | [Read More](https://medium.com/p/e9febd31d706) |
+| Fri, 26 Sep 2025 16:03:41 GMT | What If Every Server in the World Shut Down at Once? | Rizqi Mulki | [Read More](https://medium.com/p/805dbad4744b) |
+| Fri, 26 Sep 2025 16:01:15 GMT | Digital Media Literacy and it’s Importance | ayesha_expresses | [Read More](https://medium.com/p/b65cbb62d201) |
+| Fri, 26 Sep 2025 16:00:27 GMT | Isolake, Revisited: Isolating Databricks Serverless Workloads from the Public Internet | JD Braun | [Read More](https://medium.com/p/1fe58f107611) |
+| Fri, 26 Sep 2025 15:55:58 GMT | Using AI to Check For Security Vulnerabilities Across Your Code Base | Teri Radichel | [Read More](https://medium.com/p/fcd48e246d04) |
+| Fri, 26 Sep 2025 15:46:31 GMT | Extending Free Trials with Just a Clock Change: A Subscription Bypass Story | Abhishek sharma | [Read More](https://medium.com/p/515d8565cba9) |
+| Fri, 26 Sep 2025 15:42:30 GMT | How PostgreSQL 17 Changed the Game for Developers | Rizqi Mulki | [Read More](https://medium.com/p/3f87f813299f) |
+| Fri, 26 Sep 2025 15:42:23 GMT | Exploring Claude’s Quirks: Bugs, Laughs, and Transparency - Anthropic AI | Grenish Rai | [Read More](https://medium.com/p/cbe5f522818b) |
+| Fri, 26 Sep 2025 15:41:59 GMT | “The Subtle Art of Deception: Hunting Content Spoofing and Session Flaws” | Aman Sharma | [Read More](https://medium.com/p/4d73b8b1ec16) |
+| Fri, 26 Sep 2025 15:41:16 GMT | Real-Time User Login Alerts system with Twilio + Next.js | David Fagbuyiro | [Read More](https://medium.com/p/2d691b1cd08b) |
+| Fri, 26 Sep 2025 15:39:47 GMT | Skyhigh Web Gateway On-Premise : la protection web ultime pour les entreprises en 2025 | AExpert | [Read More](https://medium.com/p/c0aa248aff54) |
 | Fri, 26 Sep 2025 15:35:04 GMT | Unlocking Active Directory: A Beginner’s Guide | Sumit Sah | [Read More](https://medium.com/p/5b4fb2835874) |
 | Fri, 26 Sep 2025 15:33:35 GMT | Why Every Nigerian Deserves Better Network: 10 Solid Reasons for Independent Telecom Audits and… | Tolulope | [Read More](https://medium.com/p/b8d69b420550) |
 | Fri, 26 Sep 2025 15:33:11 GMT | Why ‘Network Security’ Is a High-Value Search Term | Intellitron Genesis | [Read More](https://medium.com/p/49d1079d2e5f) |
+| Fri, 26 Sep 2025 15:33:07 GMT | The Night I Spoke to My Shadow | vydhi | [Read More](https://medium.com/p/21919188c9ed) |
 | Fri, 26 Sep 2025 15:28:10 GMT | The Future of Real-Time Security in Apache Kafka: From Event Buses to Autonomous Nervous Systems. | Sachin Rajakaruna | [Read More](https://medium.com/p/603df980a086) |
 | Fri, 26 Sep 2025 15:24:35 GMT | “Demonstrating a Reverse Shell Attack on Windows 8.1 | Belhajrhoumanassim | [Read More](https://medium.com/p/c5619d12498c) |
 | Fri, 26 Sep 2025 15:21:32 GMT | Splunking Window Attacks Part 1. | Luke | [Read More](https://medium.com/p/870e435f0f07) |
@@ -22,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 15:19:13 GMT | Defending the Digital Front: Navigating the DoD’s New Cybersecurity Gauntlet | Pooja Sharma | [Read More](https://medium.com/p/b313202a59ca) |
 | Fri, 26 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/8e79630e4715) |
 | Fri, 26 Sep 2025 15:14:28 GMT | Silicon Valley’s AI Security Awakening: Key Takeaways from the Summit | Pooja Sharma | [Read More](https://medium.com/p/ec17b6cbcf06) |
+| Fri, 26 Sep 2025 15:12:57 GMT | Automated Reconciliation: The Future of Financial Accuracy and Compliance | Kosh AI | [Read More](https://medium.com/p/13fb091df372) |
 | Fri, 26 Sep 2025 15:11:49 GMT | Why Everyone’s Wrong About Roles — Claims-Based Auth Is the Future | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/245f099a872b) |
 | Fri, 26 Sep 2025 15:11:09 GMT | JavaScript Deobfuscation | napol | [Read More](https://medium.com/p/09219bc4eaca) |
 | Fri, 26 Sep 2025 15:09:50 GMT | I Thought My Accounts Were Secure, Until I Discovered Ente Auth & Bitwarden | Sahendra | [Read More](https://medium.com/p/78c1100ed5e8) |
@@ -96,21 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 11:53:53 GMT | Comprehensive VAPT Services by CyberNX: Safeguarding Your Digital Infrastructure with CERT-IN… | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/dac25f6c0fa6) |
 | Fri, 26 Sep 2025 11:48:54 GMT | SCEP Enrollment end to end process. | Priyanka Chauhan | [Read More](https://medium.com/p/0fef2d692999) |
 | Fri, 26 Sep 2025 11:36:56 GMT | Cybersecurity in Italy: a Growing Demand, a Critical Skills Gap | CYBERUP INSTITUTE | [Read More](https://medium.com/p/ac1448ec118a) |
-| Fri, 26 Sep 2025 11:36:26 GMT | PG Practice — Sybaris (Linux) | Lepton | [Read More](https://medium.com/p/ca7febbac924) |
-| Fri, 26 Sep 2025 11:36:25 GMT | Make Centralized File uploader using Node.js and Express.Js | Chandan Arya | [Read More](https://medium.com/p/25f10278cf3a) |
-| Fri, 26 Sep 2025 11:35:48 GMT | Optimizing the Auditing Process in Your Auditing Company | Officer's Notes | [Read More](https://medium.com/p/a1c4bb65815e) |
-| Fri, 26 Sep 2025 11:32:43 GMT | How to Create Strong and Memorable Passwords | Nagaraj | [Read More](https://medium.com/p/55078ff8db6b) |
-| Fri, 26 Sep 2025 11:32:42 GMT | How Managed IT Services Help Small Businesses in Los Angeles | Managed IT Services | [Read More](https://medium.com/p/56a7bc778267) |
-| Fri, 26 Sep 2025 11:29:32 GMT | Chain Link Fencing in Saudi Arabia: Security, Durability & Value (سياج شبكي معدني) | Hitechfence | [Read More](https://medium.com/p/1c2ed0e979d9) |
-| Fri, 26 Sep 2025 11:29:23 GMT | Web3 security communities for security researchers. Immunefi, Remedy, OpenSense… | Stupid Contract | [Read More](https://medium.com/p/3d3c21125308) |
-| Fri, 26 Sep 2025 11:23:57 GMT | CTF@AC — Quals Writeup | hardw01f | [Read More](https://medium.com/p/160d74d2d2c5) |
-| Fri, 26 Sep 2025 11:23:23 GMT | Top 10 Cybersecurity Certifications for High-Paying Jobs in 2025 | Maxon Codes | [Read More](https://medium.com/p/1c2f1c8c0d9a) |
-| Fri, 26 Sep 2025 11:21:49 GMT | 3 Writing Lessons You’ll Never Find in a Productivity App | Jim Teague | [Read More](https://medium.com/p/3fd6f5d09941) |
-| Fri, 26 Sep 2025 11:20:55 GMT | AI Is Rising Fast — But Can Data Security Keep Up? | Aylin Karaoglu | [Read More](https://medium.com/p/86bb67e5b140) |
-| Fri, 26 Sep 2025 11:19:01 GMT | Kenapa Saya Memilih Belajar Cyber Security dari Nol | hafid hajar | [Read More](https://medium.com/p/2c1508eecb34) |
-| Fri, 26 Sep 2025 11:09:33 GMT | Building trust in crypto: security, audits, and the architecture of Sky Coin | XSOCOIN | [Read More](https://medium.com/p/bb98bd519923) |
-| Fri, 26 Sep 2025 11:01:48 GMT | 393 Days Undetected: Inside the China-Linked Supply Chain Attacks | Brittney Ginther | [Read More](https://medium.com/p/207db7f02111) |
-| Fri, 26 Sep 2025 11:00:35 GMT | Triple Threat in Cisco VPN Infrastructure: Dissecting CVE-2025–20363, CVE-2025–20333, and… | gm0 | [Read More](https://medium.com/p/c46ce43a5bc5) |
-| Fri, 26 Sep 2025 10:58:58 GMT | How to Build a Vulnerability Management Strategy for Cloud Environment | Digital Defense | [Read More](https://medium.com/p/5f2634a93999) |
-| Fri, 26 Sep 2025 10:55:21 GMT | From Passwords to Passkeys: The Future of Authentication and Why It Matters | Shraddhakaveri H | [Read More](https://medium.com/p/2ec2b9212e79) |
-| Fri, 26 Sep 2025 10:54:03 GMT | 5 Biggest Tech Stories You Missed This Week | Dkhantech | [Read More](https://medium.com/p/e8c37b5d5589) |
