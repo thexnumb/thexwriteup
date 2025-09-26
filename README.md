@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 08:12:13 GMT | eJPT v2 : Challenge Lab 22: Lazy Admin | Dhanushkumar R | [Read More](https://medium.com/p/103c0e940dc0) |
+| Fri, 26 Sep 2025 08:11:03 GMT | The Green Promise of Aurö | Iqra | [Read More](https://medium.com/p/e3a94642605d) |
+| Fri, 26 Sep 2025 08:10:47 GMT | eJPT v2 : Challenge Lab 21: Brick Heist | Dhanushkumar R | [Read More](https://medium.com/p/0e3846d40c3a) |
+| Fri, 26 Sep 2025 08:10:26 GMT | Security Features in Kiosk Software You Should Know | Vantage MDM | [Read More](https://medium.com/p/17616bd5c3f7) |
+| Fri, 26 Sep 2025 08:07:45 GMT | No More Free Rides: Why American Ingenuity Doesn’t Need a Passport | Namir Sagheenanajar | [Read More](https://medium.com/p/5fdb8b0081b4) |
+| Fri, 26 Sep 2025 08:03:10 GMT | The Strangest Cure for Loneliness? Talking to Strangers Online | Mindfuse | [Read More](https://medium.com/p/605642519266) |
+| Fri, 26 Sep 2025 07:58:28 GMT | Top 15 Python Interview Questions for Beginners (with Answers) | Nishubirla | [Read More](https://medium.com/p/22899e32f7f8) |
+| Fri, 26 Sep 2025 07:45:23 GMT | The Daily Tech Digest: 26 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/de58e8a335ce) |
+| Fri, 26 Sep 2025 07:44:28 GMT | God, Will I ever have that person, the one who loves me the way I need? | Nikenlarash | [Read More](https://medium.com/p/649a29f49c9c) |
+| Fri, 26 Sep 2025 07:44:25 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/444ef7520536) |
+| Fri, 26 Sep 2025 07:42:07 GMT | SOC Analyst Online Course to Build a Strong Foundation in Cybersecurity | Skills For Everyone | [Read More](https://medium.com/p/cefa28fed104) |
+| Fri, 26 Sep 2025 07:32:49 GMT | DC-1 Vulnhub Lab Writeup | NaN | [Read More](https://medium.com/p/3ef81e4ee9e3) |
 | Fri, 26 Sep 2025 07:32:34 GMT | Demystifying Azure App Roles: Why They Matter and How to Use Them! | Aymen Abdelwahed | [Read More](https://medium.com/p/478e5ff3a593) |
 | Fri, 26 Sep 2025 07:29:43 GMT | ประจำวันศุกร์ที่ 26 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1d7222048dd7) |
 | Fri, 26 Sep 2025 07:24:19 GMT | VPN Myths vs. Facts: What You Really Need to Know | Cloudbric VPN | [Read More](https://medium.com/p/ec30abe3b698) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 02:03:27 GMT | Agentic AI in Cyber Operations: Why Leaders Should Care Now | John Dommert (johnnyd184) | [Read More](https://medium.com/p/394e26bfb64d) |
 | Fri, 26 Sep 2025 01:44:51 GMT | How a JavaScript Developer Could Prevent Supply-Chain Attacks | Emily Xiong | [Read More](https://medium.com/p/46db024dd3f8) |
 | Fri, 26 Sep 2025 01:40:26 GMT | From AI Fear to Terms of Service: A Security Professional’s Reality Check | Imanologya | [Read More](https://medium.com/p/9716ce8ed053) |
-| Fri, 26 Sep 2025 01:30:24 GMT | Puerto Rico at the Crossroads of Health Innovation: How PRITS Can Build a Global-Scale Digital… | Eduardo "The Architect" del Río | [Read More](https://medium.com/p/ca2dc950c632) |
-| Fri, 26 Sep 2025 01:14:43 GMT | Part II — From Orbit to Exploit: Understanding the PWNSAT test case | PWNSAT | [Read More](https://medium.com/p/7d370b67145a) |
-| Fri, 26 Sep 2025 01:11:24 GMT | The Era of Air-Gapped Signing: How Digital Shield Reshapes Your Digital Wealth Boundary with… | Digital Shield Offcial | [Read More](https://medium.com/p/ab766464925f) |
-| Fri, 26 Sep 2025 01:10:14 GMT | Air-Gapped Signing, Sovereignty Above All: How Digital Shield is Ushering in a New Era of Personal… | Digital Shield Offcial | [Read More](https://medium.com/p/56c1c1884aca) |
-| Fri, 26 Sep 2025 01:07:46 GMT | The “Unmarried Aunt” Who Went Viral: You Can Choose Not to Marry, But You Must Be Wealthy | Austi Gene | [Read More](https://medium.com/p/a2e541a02e5f) |
-| Fri, 26 Sep 2025 00:46:00 GMT | Patch Fatigue vs. Risk Context: Rethinking Vulnerability Remediation Priorities | Sai Krishna Kakarla | [Read More](https://medium.com/p/01702d86680f) |
-| Fri, 26 Sep 2025 00:35:09 GMT | Part 4: From backyard to battlefield, The Flight Controller. | Pipeline | [Read More](https://medium.com/p/c34c84e185c5) |
-| Fri, 26 Sep 2025 00:32:17 GMT | Enhancement of Cloudbric WAF+ Completed | Cloudbric | [Read More](https://medium.com/p/ff450cf9c258) |
-| Fri, 26 Sep 2025 00:31:25 GMT | Beyond Burp Suite: Top 8 Underused Tools for Web App Security Testing (2025) | Andrei Ivan | [Read More](https://medium.com/p/453d6f3df331) |
-| Fri, 26 Sep 2025 00:31:17 GMT | Cloudbric WAF+ 서비스 고도화 완료 | Cloudbric | [Read More](https://medium.com/p/a482ff93a46c) |
-| Fri, 26 Sep 2025 00:21:48 GMT | Stored XSS via PDF Upload in Live chat⚠️ | 0verRida | [Read More](https://medium.com/p/ce792a6eff1d) |
-| Fri, 26 Sep 2025 00:08:00 GMT | VMware ile FortiGate Lab Kurulumu | Onur Altuğ | [Read More](https://medium.com/p/f29b34f9a25b) |
