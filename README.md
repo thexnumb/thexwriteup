@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 19:05:55 GMT | Cyber Security GRC Framework | Ajansistan Etsy | [Read More](https://medium.com/p/503b87acc88e) |
+| Fri, 26 Sep 2025 19:04:01 GMT | Exploring the Strategic Advantages of Establishing an Enclave for CMMC Compliance: Enhancing… | Joseph Tarun | [Read More](https://medium.com/p/3c95131843f5) |
+| Fri, 26 Sep 2025 19:00:18 GMT | Cybersecurity in Digital Twins of Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/1cc1c04d3890) |
+| Fri, 26 Sep 2025 18:59:09 GMT | Default Credentials: The Hidden Door to Admin Panels | Yasser Gersy | [Read More](https://medium.com/p/22a0461c8772) |
+| Fri, 26 Sep 2025 18:55:58 GMT | ONLINE HATE, THE HOBBY NO ONE ASKED FOR. | Naturinda Patra | [Read More](https://medium.com/p/3a26c71d41eb) |
+| Fri, 26 Sep 2025 18:53:48 GMT | AI-Powered Threat Intelligence Systems | Cyber Security Research | [Read More](https://medium.com/p/71ee753cb650) |
+| Fri, 26 Sep 2025 18:47:46 GMT | Identity Governance and Administration | Cyber Security Research | [Read More](https://medium.com/p/21a36005dac5) |
+| Fri, 26 Sep 2025 18:44:49 GMT | Zero Trust vs. Traditional VPNs: The Future of Perimeterless Secure Access | Ahmed K Emara | [Read More](https://medium.com/p/e5595dd0b178) |
+| Fri, 26 Sep 2025 18:42:40 GMT | My First 10 Days Learning Networking — Theory, Labs, and What Actually Happened | Lawal Abdulmujeeb Olabiyi | [Read More](https://medium.com/p/33513a7084d2) |
+| Fri, 26 Sep 2025 18:41:47 GMT | The 7 Dumbest Passwords I’ve Ever Seen (Yes, People Still Use Them) | Cyberkech | [Read More](https://medium.com/p/86666fdf3223) |
 | Fri, 26 Sep 2025 18:41:25 GMT | Securing Microservices Architectures | Cyber Security Research | [Read More](https://medium.com/p/7c9ec53bda3a) |
 | Fri, 26 Sep 2025 18:35:37 GMT | Digital Forensics in Blockchain Systems | Cyber Security Research | [Read More](https://medium.com/p/6787382f6e68) |
 | Fri, 26 Sep 2025 18:25:24 GMT | Secrets of JavaScript I Learned the Hard Way | Kainat Nafees | [Read More](https://medium.com/p/279d1975f817) |
@@ -102,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 14:55:34 GMT | ABTU: Scarcity, Utility, and Why Early Entry Matters | Abatis ABTU | [Read More](https://medium.com/p/6de70915c927) |
 | Fri, 26 Sep 2025 14:54:31 GMT | How AI Can Transform Cyber Defense | Akanksha Mane | [Read More](https://medium.com/p/3205d942ba30) |
 | Fri, 26 Sep 2025 14:51:49 GMT | How to Identify Safe Online Casinos: Essential Security Checklist for 2025 | Sharkroll | [Read More](https://medium.com/p/b97fe6516ba5) |
-| Fri, 26 Sep 2025 14:44:18 GMT | When AI Becomes Your Co-Hacker: A Field Manual | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d2f024c203de) |
-| Fri, 26 Sep 2025 14:43:43 GMT | The Future of Information Technology in the USA | Gazi Salauddin | [Read More](https://medium.com/p/695375e48b09) |
-| Fri, 26 Sep 2025 14:42:21 GMT | Debugging With a Crowbar: Physical Exploits Explained | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ba2cac50b253) |
-| Fri, 26 Sep 2025 14:39:52 GMT | The Joy Bug | Jeong-hu Yu | [Read More](https://medium.com/p/31d347f7083a) |
-| Fri, 26 Sep 2025 14:33:42 GMT | Integer Overflow to SQLi to flag — Long Run (Victories Quals) | Kalawy | [Read More](https://medium.com/p/e82c641b9c35) |
-| Fri, 26 Sep 2025 14:31:08 GMT | BREAKING: Cyberattack Targets Cisco ASA Firewalls
-
-Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/522dab89678a) |
-| Fri, 26 Sep 2025 14:28:13 GMT | Why I Decided to Learn Cyber Security from Scratch | hafid hajar | [Read More](https://medium.com/p/79d752a73112) |
-| Fri, 26 Sep 2025 14:27:37 GMT | How Hackers Steal TikTok Accounts — And How to Stay Safe | Keepnet Labs | [Read More](https://medium.com/p/4c87c67ce3f4) |
-| Fri, 26 Sep 2025 14:25:57 GMT | The Web Framework Battle: Why Vue.js Developers Are Switching to Svelte | Rizqi Mulki | [Read More](https://medium.com/p/714e5b927f4c) |
-| Fri, 26 Sep 2025 14:24:48 GMT | Quantum Threats to Cybersecurity: What UK Businesses Need to Know | Alex Hughes | [Read More](https://medium.com/p/276d57743d99) |
