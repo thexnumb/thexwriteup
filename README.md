@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 18:41:25 GMT | Securing Microservices Architectures | Cyber Security Research | [Read More](https://medium.com/p/7c9ec53bda3a) |
+| Fri, 26 Sep 2025 18:35:37 GMT | Digital Forensics in Blockchain Systems | Cyber Security Research | [Read More](https://medium.com/p/6787382f6e68) |
+| Fri, 26 Sep 2025 18:25:24 GMT | Secrets of JavaScript I Learned the Hard Way | Kainat Nafees | [Read More](https://medium.com/p/279d1975f817) |
+| Fri, 26 Sep 2025 18:23:21 GMT | Securing Voice over IP Systems | Cyber Security Research | [Read More](https://medium.com/p/80580c1b7709) |
+| Fri, 26 Sep 2025 18:22:49 GMT | Building Real-World Automation with Python | Kainat Nafees | [Read More](https://medium.com/p/b734a9f89b7a) |
+| Fri, 26 Sep 2025 18:21:28 GMT | Sigma rule: Unauthenticated access attempts to Cisco ASA/FTD WebVPN (noise-reduced) | Abdul | [Read More](https://medium.com/p/f570f89f9403) |
 | Fri, 26 Sep 2025 18:19:18 GMT | Top 10 Cybersecurity Trends (2025) | Kishor Kalivarapu | [Read More](https://medium.com/p/d2191ddafb71) |
+| Fri, 26 Sep 2025 18:17:16 GMT | Deep Packet Inspection for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/4587f9398788) |
+| Fri, 26 Sep 2025 18:16:26 GMT | Preventing Amazon Q From Making The Same Mistakes Over and Over | Teri Radichel | [Read More](https://medium.com/p/4220c4c1a356) |
 | Fri, 26 Sep 2025 18:14:29 GMT | My conversation with Chat GPT | Boss Babes Unite | [Read More](https://medium.com/p/29bc2b8681a4) |
 | Fri, 26 Sep 2025 18:13:20 GMT | Blueprint: The Foundation of Strategic Planning and Design | digital mind | [Read More](https://medium.com/p/685ae212c0c1) |
 | Fri, 26 Sep 2025 18:10:45 GMT | Cybersecurity Challenges in Open Banking | Cyber Security Research | [Read More](https://medium.com/p/939d5b18e60b) |
@@ -106,11 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 14:27:37 GMT | How Hackers Steal TikTok Accounts — And How to Stay Safe | Keepnet Labs | [Read More](https://medium.com/p/4c87c67ce3f4) |
 | Fri, 26 Sep 2025 14:25:57 GMT | The Web Framework Battle: Why Vue.js Developers Are Switching to Svelte | Rizqi Mulki | [Read More](https://medium.com/p/714e5b927f4c) |
 | Fri, 26 Sep 2025 14:24:48 GMT | Quantum Threats to Cybersecurity: What UK Businesses Need to Know | Alex Hughes | [Read More](https://medium.com/p/276d57743d99) |
-| Fri, 26 Sep 2025 14:22:59 GMT | Hackers Love Your APP_KEY (Here’s How to Stop Them) | Sadique Ali | [Read More](https://medium.com/p/0b03e2acf92e) |
-| Fri, 26 Sep 2025 14:21:18 GMT | COLDRIVER Malware Campaign Expands Russia Focused Cyberattacks | Jasmitharouthu | [Read More](https://medium.com/p/48a2b16bbadf) |
-| Fri, 26 Sep 2025 14:21:06 GMT | Why the Future of Finance Needs Better Defenders | Lillian Wakio | [Read More](https://medium.com/p/4c0c938419eb) |
-| Fri, 26 Sep 2025 14:20:21 GMT | IT Services for CPA Firms | Century Solutions Group | [Read More](https://medium.com/p/7fdad474610a) |
-| Fri, 26 Sep 2025 14:16:22 GMT | How to Lock a Door Without a Key: Simple Solutions for Every Situation | Sure Lock & Key LLC | [Read More](https://medium.com/p/d1fe2c7cdcec) |
-| Fri, 26 Sep 2025 14:10:45 GMT | North Korean Hackers Exploited a Chrome Zero-Day: What It Teaches Us About Human Risk | Keepnet Labs | [Read More](https://medium.com/p/1be2be59b925) |
-| Fri, 26 Sep 2025 14:09:31 GMT | Microsoft’s Windows 11 Mess | Techtanktools | [Read More](https://medium.com/p/228a2cf5e786) |
-| Fri, 26 Sep 2025 14:08:40 GMT | Frida Labs — Challenge 0x1: Bypassing a Random Check with Frida | Ahmed Alnajjar | [Read More](https://medium.com/p/ee74e0e5e172) |
