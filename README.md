@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 23:28:15 GMT | Baiting AI: How to Know If It’s Using Your Data | Zenks | [Read More](https://medium.com/p/2eaf4a8fb54b) |
+| Fri, 26 Sep 2025 23:23:56 GMT | U.A. High School writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9867bbfb906b) |
 | Fri, 26 Sep 2025 22:55:17 GMT | Fundamentals of the Web and Security: My Internship Journal | Mutluaybike | [Read More](https://medium.com/p/cfa20c0010b2) |
 | Fri, 26 Sep 2025 22:54:39 GMT | The Purple Team Methodology for Proactive Cybersecurity | Mauro Stepanoski | [Read More](https://medium.com/p/1293ae40e02d) |
 | Fri, 26 Sep 2025 22:53:41 GMT | Securing Secrets in AWS SSM Automation Documents | Akesh Patil | [Read More](https://medium.com/p/3ca4e25d41a2) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 16:33:30 GMT | How I found a simple MFA bypass | Yusuf | [Read More](https://medium.com/p/7944687bd86c) |
 | Fri, 26 Sep 2025 16:32:54 GMT | IEEE Victoris 4.0 — CTF 2025 — Finals OSINT Challenges | ByteSlayer | [Read More](https://medium.com/p/bb611d468602) |
 | Fri, 26 Sep 2025 16:32:30 GMT | Windows Pentesting (Persistence Techniques) | Neha Timande | [Read More](https://medium.com/p/9641a40706d1) |
-| Fri, 26 Sep 2025 16:30:43 GMT | Walkthrough: Host & Network Penetration Testing: System/Host Based Attacks CTF 1 | Xnirkun | [Read More](https://medium.com/p/3e2396c857fb) |
-| Fri, 26 Sep 2025 16:24:51 GMT | SSL Pinning in Android with Kotlin: A Complete Guide | Abhijit Rajmane | [Read More](https://medium.com/p/30d465f2fdda) |
