@@ -12,11 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 16:39:20 GMT | Drosera Network: Revolutionizing DeFi Security with Decentralized Automation | Habuskid | [Read More](https://medium.com/p/4d2bb7969e26) |
+| Fri, 26 Sep 2025 16:35:35 GMT | Trusted Security Companies in Los Angeles: Why Choose Barzo? | Travel time | [Read More](https://medium.com/p/70a3a3400edf) |
+| Fri, 26 Sep 2025 16:34:43 GMT | Detecting the Breach: A Walkthrough of TryHackMe’s Linux Threat Detection Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/2ad2fdcc88e8) |
+| Fri, 26 Sep 2025 16:33:30 GMT | How I found a simple MFA bypass | Yusuf | [Read More](https://medium.com/p/7944687bd86c) |
+| Fri, 26 Sep 2025 16:32:54 GMT | IEEE Victoris 4.0 — CTF 2025 — Finals OSINT Challenges | ByteSlayer | [Read More](https://medium.com/p/bb611d468602) |
+| Fri, 26 Sep 2025 16:32:30 GMT | Windows Pentesting (Persistence Techniques) | Neha Timande | [Read More](https://medium.com/p/9641a40706d1) |
+| Fri, 26 Sep 2025 16:30:43 GMT | Walkthrough: Host & Network Penetration Testing: System/Host Based Attacks CTF 1 | Xnirkun | [Read More](https://medium.com/p/3e2396c857fb) |
+| Fri, 26 Sep 2025 16:24:51 GMT | SSL Pinning in Android with Kotlin: A Complete Guide | Abhijit Rajmane | [Read More](https://medium.com/p/30d465f2fdda) |
 | Fri, 26 Sep 2025 16:20:13 GMT | The DeQUIP Grant Program: Building the Uncrackable Future | Bright Mmaduabuchi | [Read More](https://medium.com/p/12602a5a61e9) |
 | Fri, 26 Sep 2025 16:15:00 GMT | HackornCTF Writeup | Aniket Kumar | [Read More](https://medium.com/p/c47ea36a280b) |
 | Fri, 26 Sep 2025 16:13:00 GMT | Top 10 Cybersecurity Projects You Must Try in 2025 - Hurry up! | Shahzaib | [Read More](https://medium.com/p/d64cfe171600) |
 | Fri, 26 Sep 2025 16:11:08 GMT | Why Investing in Modern Security Technology Is No Longer Optional | Sarmin Islam | [Read More](https://medium.com/p/52a5c0cae731) |
 | Fri, 26 Sep 2025 16:10:32 GMT | The Difficult Journey of Zero Trust: A Story of Vision, Struggle, and Slow Triumph | David SEHYEON Baek | [Read More](https://medium.com/p/758e6328ff3b) |
+| Fri, 26 Sep 2025 16:09:05 GMT | 3D Print Breakthrough: Flawless Complex Parts | John Exter | [Read More](https://medium.com/p/778faaf4c90f) |
 | Fri, 26 Sep 2025 16:06:06 GMT | Brave Browser in 2025: The Top Browser for Privacy and Data Protection? | Cordula Boeck | [Read More](https://medium.com/p/e9febd31d706) |
 | Fri, 26 Sep 2025 16:03:41 GMT | What If Every Server in the World Shut Down at Once? | Rizqi Mulki | [Read More](https://medium.com/p/805dbad4744b) |
 | Fri, 26 Sep 2025 16:01:15 GMT | Digital Media Literacy and it’s Importance | ayesha_expresses | [Read More](https://medium.com/p/b65cbb62d201) |
@@ -105,12 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 12:26:42 GMT | How to Spoof MAC Address (Windows/Linux) | Mohsin Shoaib | [Read More](https://medium.com/p/d567bfbe6507) |
 | Fri, 26 Sep 2025 12:23:05 GMT | API Güvenliği Üzerine Notlar | Burakozbey | [Read More](https://medium.com/p/44fe6eda177f) |
 | Fri, 26 Sep 2025 12:22:14 GMT | Zero-Days and Active Exploits Dominate This Week’s Cyber Landscape | Loginsoft | [Read More](https://medium.com/p/04c5dfd493fa) |
-| Fri, 26 Sep 2025 12:15:17 GMT | Detecting, Stopping & Preventing DDoS Attacks on WordPress (30-Minute Action Plan) | Blue Bird Digital Technology | [Read More](https://medium.com/p/c888de9bdb32) |
-| Fri, 26 Sep 2025 12:07:07 GMT | ott, streaming, neBeyond Cookies: Winning the OTT Ad Game with First-Party Data | Fathima Parvin | [Read More](https://medium.com/p/5efcc45a9eda) |
-| Fri, 26 Sep 2025 12:06:30 GMT | Exploring Security in Docker: Addressing Vulnerabilities | @rnab | [Read More](https://medium.com/p/96043402417a) |
-| Fri, 26 Sep 2025 12:04:46 GMT | How to Bolster Your Cybersecurity by Visualizing Attack Graphs With Neo4j and G.V() | Amber Lennox | [Read More](https://medium.com/p/6a0d34c73e9c) |
-| Fri, 26 Sep 2025 12:02:51 GMT | How I Found a High-Severity OTP Verification Bypass in a Public Bugcrowd Program | Zuksh | [Read More](https://medium.com/p/7f5f11a9c031) |
-| Fri, 26 Sep 2025 11:54:24 GMT | How Hidden PDF Metadata Can Leak Your Secrets — and the Exact Steps to Remove It | Chill No Worries | [Read More](https://medium.com/p/1c2a42a079ed) |
-| Fri, 26 Sep 2025 11:53:53 GMT | Comprehensive VAPT Services by CyberNX: Safeguarding Your Digital Infrastructure with CERT-IN… | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/dac25f6c0fa6) |
-| Fri, 26 Sep 2025 11:48:54 GMT | SCEP Enrollment end to end process. | Priyanka Chauhan | [Read More](https://medium.com/p/0fef2d692999) |
-| Fri, 26 Sep 2025 11:36:56 GMT | Cybersecurity in Italy: a Growing Demand, a Critical Skills Gap | CYBERUP INSTITUTE | [Read More](https://medium.com/p/ac1448ec118a) |
