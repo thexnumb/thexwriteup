@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 10:08:46 GMT | 19. Finding Open Redirects with Ease | Abhijeet kumawat | [Read More](https://medium.com/p/0cc59a41702c) |
+| Fri, 26 Sep 2025 10:05:10 GMT | Attack Surface Management (ASM): Redefining Cybersecurity Resilience | Jackdavis Iap | [Read More](https://medium.com/p/3af6e5e3a09c) |
+| Fri, 26 Sep 2025 10:04:17 GMT | Best IT Infrastructure Management Services In India - Optimize Your IT Operations | Gowthammathiew | [Read More](https://medium.com/p/c36c57f53795) |
+| Fri, 26 Sep 2025 10:02:54 GMT | Finally, a real use case: bringing standards onchain | Ben Fairchild | [Read More](https://medium.com/p/619c0e039918) |
+| Fri, 26 Sep 2025 10:02:47 GMT | Is Go Already Losing to Rust? The Battle for Modern Backends | Tech Genie | [Read More](https://medium.com/p/1094e69e646e) |
+| Fri, 26 Sep 2025 10:02:35 GMT | Exploiting Kioptrix 2 — SQL Injection → Reverse Shell | ishaq Jafar | [Read More](https://medium.com/p/54dd1ea5551f) |
+| Fri, 26 Sep 2025 10:01:14 GMT | Why Cybersecurity Is a Global Imperative in 2025: A Deep Dive into the Evolving Threat Landscape | Arthur Morgan | [Read More](https://medium.com/p/9766b185c535) |
+| Fri, 26 Sep 2025 09:51:54 GMT | Subscription-Based Loyalty Apps: Combining Memberships with Rewards for Steady Revenue | Nayel Basim Al Shehhi | [Read More](https://medium.com/p/f8073767c1f8) |
+| Fri, 26 Sep 2025 09:50:08 GMT | Aj Bouncer | Aj bouncer | [Read More](https://medium.com/p/0ca43a2f08a1) |
+| Fri, 26 Sep 2025 09:47:58 GMT | How ERP Helps Reduce Inventory Carrying Costs | Aaron Smith | [Read More](https://medium.com/p/2b489f3ba23a) |
+| Fri, 26 Sep 2025 09:44:06 GMT | Trusted Cloud Solution Provider: Simplifying IT Infrastructure Management | Ishantechnologies | [Read More](https://medium.com/p/5e6063e8ed9d) |
+| Fri, 26 Sep 2025 09:43:53 GMT | Server-Side Template Injection (SSTI) : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/5dd2c3b8b009) |
+| Fri, 26 Sep 2025 09:37:14 GMT | The 5D Relationship: A Catalyst for Personal Growth and Self-Discovery | Wilson Igbasi | [Read More](https://medium.com/p/f46fcf150676) |
+| Fri, 26 Sep 2025 09:37:05 GMT | India’s Digital Payments Are Getting a Major Security Upgrade: RBI’s New Authentication Rules | Mahak Roy | [Read More](https://medium.com/p/130cddf62fc6) |
 | Fri, 26 Sep 2025 09:34:40 GMT | From Wireshark to Zeek: Network Monitoring Tools in 2025 | Lanvaus | [Read More](https://medium.com/p/fad191594f2f) |
+| Fri, 26 Sep 2025 09:31:39 GMT | API Security Essentials: Protecting Your Backend From Day One | Stephanie Ademuyiwa | [Read More](https://medium.com/p/3278a4e1be53) |
 | Fri, 26 Sep 2025 09:30:46 GMT | DockerLabs Writeup — Stellarjwt (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e752c79c9d1a) |
 | Fri, 26 Sep 2025 09:27:48 GMT | Shadow IT You Don’t See: Why Forgotten Servers and Subdomains Put You at Risk | Evgeny Ermakov | [Read More](https://medium.com/p/297617534f27) |
 | Fri, 26 Sep 2025 09:25:19 GMT | Footprinting & Reconnaissance | mohandika | [Read More](https://medium.com/p/2632d96eb64a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 04:50:10 GMT | 7 Cybersecurity Trends That Will Dominate in 2026 | HostNOC | [Read More](https://medium.com/p/07c83e1d5777) |
 | Fri, 26 Sep 2025 04:49:18 GMT | Protecting Data with Homomorphic Encryption | Cyber Security Research | [Read More](https://medium.com/p/73cb864148ea) |
 | Fri, 26 Sep 2025 04:42:13 GMT | Privacy Challenges in Genomic Data | Cyber Security Research | [Read More](https://medium.com/p/e2e377c5053a) |
-| Fri, 26 Sep 2025 04:37:42 GMT | Bring Your Own Algorithm: Why Employees Will Choose Their AI | Carsten Bund | [Read More](https://medium.com/p/ff28eb25e8e1) |
-| Fri, 26 Sep 2025 04:31:50 GMT | From Small Town to IBM: AI, Cybersecurity & Product Strategy Lessons from Drijesh Ppatel | TST Technology | [Read More](https://medium.com/p/5941ea225d32) |
-| Fri, 26 Sep 2025 04:18:45 GMT | Deserialization of Untrusted Data: Unpacking a Remote Code Execution Vulnerability | InstaTunnel | [Read More](https://medium.com/p/a772591dbf5a) |
-| Fri, 26 Sep 2025 04:10:51 GMT | The Emoji That Broke the AI (into 27 Pieces) | Varnith | [Read More](https://medium.com/p/a6ab1e1c551b) |
-| Fri, 26 Sep 2025 04:07:02 GMT | HTTP vs. HTTPS Proxies: Which One Fits Your Data Collection Needs? | Blanche X | [Read More](https://medium.com/p/c34a8beaed39) |
-| Fri, 26 Sep 2025 03:57:12 GMT | HTTP vs. HTTPS Proxies: Which One Fits Your Data Needs? | Novada | [Read More](https://medium.com/p/46b828138b59) |
-| Fri, 26 Sep 2025 03:47:53 GMT | AI’s Double-Edged Sword: Security Risks vs. Innovation | Joseph | [Read More](https://medium.com/p/152e89502feb) |
-| Fri, 26 Sep 2025 03:45:46 GMT | How computer science student can see hello in whatsapp ? | Sukumar | [Read More](https://medium.com/p/825ae0e30340) |
-| Fri, 26 Sep 2025 03:45:03 GMT | Security Homelab: The Real First Attack | Jordan Palumbo | [Read More](https://medium.com/p/f5b3833e2f56) |
-| Fri, 26 Sep 2025 03:43:37 GMT | Key to the Kingdom: How I Found API Secrets Hiding in Plain Sight in JavaScript Files | Iski | [Read More](https://medium.com/p/2f92ab1dfe63) |
-| Fri, 26 Sep 2025 03:39:24 GMT | Shield virtual machines using Bastion | Peta Pavan | [Read More](https://medium.com/p/9d7d7d8b40ce) |
-| Fri, 26 Sep 2025 03:36:09 GMT | Windows/Linux 프로세스 | Crowndaisy | [Read More](https://medium.com/p/28973c841c03) |
-| Fri, 26 Sep 2025 03:31:48 GMT | From Free Nuggets to Full Access: How a Snack Craving Unwrapped McDonald’s Security Flaws | Deven Chhajed | [Read More](https://medium.com/p/172d8d1bb7b8) |
-| Fri, 26 Sep 2025 03:31:31 GMT | Inclusive Web Recognized by Fast Company’s 2025 Innovation by Design Awards for Accessibility… | Emma Lyons | [Read More](https://medium.com/p/c8d12e6db4b1) |
-| Fri, 26 Sep 2025 03:19:44 GMT | Lab-based deep dive / research on Windows Defender detection and evasion techniques using… | Omarelsayed | [Read More](https://medium.com/p/3bcd12a60dad) |
