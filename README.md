@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 21:10:37 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/7cd6b077450b) |
+| Fri, 26 Sep 2025 21:05:21 GMT | HTB Holmes CTF Writeup: The Card | Sparsh Ladani | [Read More](https://medium.com/p/2c6e8ca60356) |
+| Fri, 26 Sep 2025 21:04:53 GMT | PG Practice — Jacko (Windows) | Lepton | [Read More](https://medium.com/p/44f1e5fa7fe2) |
+| Fri, 26 Sep 2025 21:04:37 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/726f5471d33c) |
+| Fri, 26 Sep 2025 21:03:11 GMT | Setting Up a T-pot Honeypot on Azure VM (Complete Guide) | AmanParihar | [Read More](https://medium.com/p/cf5b867ba6a8) |
+| Fri, 26 Sep 2025 20:40:37 GMT | DevSecOps in 2025: Shifting Security Left Without Slowing Down | JSOC IT BLOG | [Read More](https://medium.com/p/ae180ac49de5) |
+| Fri, 26 Sep 2025 20:39:15 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Smith Adams | [Read More](https://medium.com/p/5df9f70d4ff3) |
+| Fri, 26 Sep 2025 20:32:06 GMT | Data PrivacyRAG Security 101: Guardrails, PII & Audits | Codastra | [Read More](https://medium.com/p/177cf43ef71b) |
 | Fri, 26 Sep 2025 20:20:50 GMT | Torque: The Missing Metric That Could Save AI From Itself | Aaron Slusher | [Read More](https://medium.com/p/1340fa040c5c) |
 | Fri, 26 Sep 2025 20:18:08 GMT | Keep your construction site secure 24/7! | Visual Monitoring Solutions | [Read More](https://medium.com/p/0ee6cabdf6d3) |
 | Fri, 26 Sep 2025 20:13:54 GMT | Linux Kernel Exploit Development: A Practical Guide | Eren Cankut Uysal | [Read More](https://medium.com/p/9edb652e6475) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 15:41:16 GMT | Real-Time User Login Alerts system with Twilio + Next.js | David Fagbuyiro | [Read More](https://medium.com/p/2d691b1cd08b) |
 | Fri, 26 Sep 2025 15:39:47 GMT | Skyhigh Web Gateway On-Premise : la protection web ultime pour les entreprises en 2025 | AExpert | [Read More](https://medium.com/p/c0aa248aff54) |
 | Fri, 26 Sep 2025 15:35:04 GMT | Unlocking Active Directory: A Beginner’s Guide | Sumit Sah | [Read More](https://medium.com/p/5b4fb2835874) |
-| Fri, 26 Sep 2025 15:33:35 GMT | Why Every Nigerian Deserves Better Network: 10 Solid Reasons for Independent Telecom Audits and… | Tolulope | [Read More](https://medium.com/p/b8d69b420550) |
-| Fri, 26 Sep 2025 15:33:11 GMT | Why ‘Network Security’ Is a High-Value Search Term | Intellitron Genesis | [Read More](https://medium.com/p/49d1079d2e5f) |
-| Fri, 26 Sep 2025 15:33:07 GMT | The Night I Spoke to My Shadow | vydhi | [Read More](https://medium.com/p/21919188c9ed) |
-| Fri, 26 Sep 2025 15:28:10 GMT | The Future of Real-Time Security in Apache Kafka: From Event Buses to Autonomous Nervous Systems. | Sachin Rajakaruna | [Read More](https://medium.com/p/603df980a086) |
-| Fri, 26 Sep 2025 15:24:35 GMT | “Demonstrating a Reverse Shell Attack on Windows 8.1 | Belhajrhoumanassim | [Read More](https://medium.com/p/c5619d12498c) |
-| Fri, 26 Sep 2025 15:21:32 GMT | Splunking Window Attacks Part 1. | Luke | [Read More](https://medium.com/p/870e435f0f07) |
-| Fri, 26 Sep 2025 15:19:52 GMT | Fortigate SSL VPN Yapılandırması nasıl yapılır? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f2f79dc3d02c) |
-| Fri, 26 Sep 2025 15:19:13 GMT | Defending the Digital Front: Navigating the DoD’s New Cybersecurity Gauntlet | Pooja Sharma | [Read More](https://medium.com/p/b313202a59ca) |
