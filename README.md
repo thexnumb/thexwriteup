@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 11:01:48 GMT | 393 Days Undetected: Inside the China-Linked Supply Chain Attacks | Brittney Ginther | [Read More](https://medium.com/p/207db7f02111) |
+| Fri, 26 Sep 2025 11:00:35 GMT | Triple Threat in Cisco VPN Infrastructure: Dissecting CVE-2025–20363, CVE-2025–20333, and… | gm0 | [Read More](https://medium.com/p/c46ce43a5bc5) |
+| Fri, 26 Sep 2025 10:58:58 GMT | How to Build a Vulnerability Management Strategy for Cloud Environment | Digital Defense | [Read More](https://medium.com/p/5f2634a93999) |
+| Fri, 26 Sep 2025 10:55:21 GMT | From Passwords to Passkeys: The Future of Authentication and Why It Matters | Shraddhakaveri H | [Read More](https://medium.com/p/2ec2b9212e79) |
+| Fri, 26 Sep 2025 10:54:03 GMT | 5 Biggest Tech Stories You Missed This Week | Dkhantech | [Read More](https://medium.com/p/e8c37b5d5589) |
+| Fri, 26 Sep 2025 10:51:22 GMT | How AI is Changing the Way We Work and Live | Dkhantech | [Read More](https://medium.com/p/650da833e4e2) |
+| Fri, 26 Sep 2025 10:49:27 GMT | The Role of Encryption in Modern Data Security | Sytex | [Read More](https://medium.com/p/f0d29b843fc2) |
+| Fri, 26 Sep 2025 10:48:53 GMT | Reca Space Agency (RSA) est une agence spatiale camerounaise fondée en 2021, spécialisée dans la… | Mandackpaplo | [Read More](https://medium.com/p/5e11aa55ff49) |
+| Fri, 26 Sep 2025 10:46:47 GMT | Why Online Bachelor of Science in Cyber Security is worth considering in EC-Council University’s | Shreyashettyctr | [Read More](https://medium.com/p/ecff1f91c470) |
+| Fri, 26 Sep 2025 10:43:39 GMT | # The New Frontier of Security: A Hacker’s Guide to Attacking and Defending AI — Part 1 | Rudra16 | [Read More](https://medium.com/p/4ce8dd2523c8) |
 | Fri, 26 Sep 2025 10:39:47 GMT | Ethical Hacking Course in Kochi | Jumanajaffar | [Read More](https://medium.com/p/77b4d56801b4) |
 | Fri, 26 Sep 2025 10:37:38 GMT | ETHICAL HACKING AND CYBERSECURITY | Deepthyy | [Read More](https://medium.com/p/7772a6bfc787) |
 | Fri, 26 Sep 2025 10:28:00 GMT | Advanced Nmap (Network Mapper) | BinaryShield | [Read More](https://medium.com/p/88f9245dcb49) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 05:59:43 GMT | SPARK Matrix™: Vendor Positioning in the Managed Detection & Response Market | Gargiben | [Read More](https://medium.com/p/7bdacacde704) |
 | Fri, 26 Sep 2025 05:55:54 GMT | Cortex Exposure Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/42ab32c4bf6d) |
 | Fri, 26 Sep 2025 05:52:28 GMT | SSL Best Practices to Keep Your Site Secure | Smit Pipaliya | [Read More](https://medium.com/p/8dff5d426a8a) |
-| Fri, 26 Sep 2025 05:50:25 GMT | How to Actually Remember All Your Passwords (Without Getting Hacked) | M Kumar | [Read More](https://medium.com/p/c0f8411d66bc) |
-| Fri, 26 Sep 2025 05:47:16 GMT | ⚙️ Parameter Mining 2025: How Attackers Discover Undocumented Features and Hidden Attack Surfaces | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b40664d9c251) |
-| Fri, 26 Sep 2025 05:44:10 GMT | The developer mandate is changing. How are you adopting? | KE | [Read More](https://medium.com/p/c3b8fa25997a) |
-| Fri, 26 Sep 2025 05:34:09 GMT | Introduction to OT/ICS Cybersecurity Training | TheEvolvEdge | [Read More](https://medium.com/p/d20117d3b752) |
-| Fri, 26 Sep 2025 05:26:57 GMT | Cybersecurity Threats to Watch Out for in 2025. | Technologic Innovation | [Read More](https://medium.com/p/f2b9e056c511) |
-| Fri, 26 Sep 2025 05:26:48 GMT | Lab-based deep dive / research on Windows Defender detection and evasion techniques using… | Omarelsayed | [Read More](https://medium.com/p/1b70fa4aead8) |
-| Fri, 26 Sep 2025 05:16:25 GMT | AI-Powered Deception Technologies | Cyber Security Research | [Read More](https://medium.com/p/b83efeeebf2d) |
-| Fri, 26 Sep 2025 05:14:03 GMT | Authorization Bypass: The Simple SSO Mistake | Ibtissam hammadi | [Read More](https://medium.com/p/c8bd261b961c) |
-| Fri, 26 Sep 2025 05:13:30 GMT | Tata Jaguar Land Rover’s Billion-Dollar Headache : More Than Just a Computer Glitch | Athishsagarkishan | [Read More](https://medium.com/p/c8d1018b080b) |
-| Fri, 26 Sep 2025 05:11:48 GMT | 2025 Flutter Güvenlik Rehberi: OWASP Top 10 Kontrolü | AbdullahTaş | [Read More](https://medium.com/p/2d516ec19d20) |
