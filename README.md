@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 12:37:53 GMT | Drosera: Building an Immune System for Web3 | Soch | [Read More](https://medium.com/p/1af6122e6387) |
+| Fri, 26 Sep 2025 12:31:50 GMT | Want to Become the TOP 0.1% of DevOps Engineers? Do THIS | Tanishq Arora | [Read More](https://medium.com/p/d16796944dc1) |
+| Fri, 26 Sep 2025 12:26:42 GMT | How to Spoof MAC Address (Windows/Linux) | Mohsin Shoaib | [Read More](https://medium.com/p/d567bfbe6507) |
+| Fri, 26 Sep 2025 12:23:05 GMT | API Güvenliği Üzerine Notlar | Burakozbey | [Read More](https://medium.com/p/44fe6eda177f) |
+| Fri, 26 Sep 2025 12:22:14 GMT | Zero-Days and Active Exploits Dominate This Week’s Cyber Landscape | Loginsoft | [Read More](https://medium.com/p/04c5dfd493fa) |
+| Fri, 26 Sep 2025 12:15:17 GMT | Detecting, Stopping & Preventing DDoS Attacks on WordPress (30-Minute Action Plan) | Blue Bird Digital Technology | [Read More](https://medium.com/p/c888de9bdb32) |
+| Fri, 26 Sep 2025 12:07:07 GMT | ott, streaming, neBeyond Cookies: Winning the OTT Ad Game with First-Party Data | Fathima Parvin | [Read More](https://medium.com/p/5efcc45a9eda) |
+| Fri, 26 Sep 2025 12:06:30 GMT | Exploring Security in Docker: Addressing Vulnerabilities | @rnab | [Read More](https://medium.com/p/96043402417a) |
+| Fri, 26 Sep 2025 12:04:46 GMT | How to Bolster Your Cybersecurity by Visualizing Attack Graphs With Neo4j and G.V() | Amber Lennox | [Read More](https://medium.com/p/6a0d34c73e9c) |
+| Fri, 26 Sep 2025 12:02:51 GMT | How I Found a High-Severity OTP Verification Bypass in a Public Bugcrowd Program | Zuksh | [Read More](https://medium.com/p/7f5f11a9c031) |
+| Fri, 26 Sep 2025 11:54:24 GMT | How Hidden PDF Metadata Can Leak Your Secrets — and the Exact Steps to Remove It | Chill No Worries | [Read More](https://medium.com/p/1c2a42a079ed) |
+| Fri, 26 Sep 2025 11:53:53 GMT | Comprehensive VAPT Services by CyberNX: Safeguarding Your Digital Infrastructure with CERT-IN… | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/dac25f6c0fa6) |
+| Fri, 26 Sep 2025 11:48:54 GMT | SCEP Enrollment end to end process. | Priyanka Chauhan | [Read More](https://medium.com/p/0fef2d692999) |
+| Fri, 26 Sep 2025 11:36:56 GMT | Cybersecurity in Italy: a Growing Demand, a Critical Skills Gap | CYBERUP INSTITUTE | [Read More](https://medium.com/p/ac1448ec118a) |
+| Fri, 26 Sep 2025 11:36:26 GMT | PG Practice — Sybaris (Linux) | Lepton | [Read More](https://medium.com/p/ca7febbac924) |
+| Fri, 26 Sep 2025 11:36:25 GMT | Make Centralized File uploader using Node.js and Express.Js | Chandan Arya | [Read More](https://medium.com/p/25f10278cf3a) |
+| Fri, 26 Sep 2025 11:35:48 GMT | Optimizing the Auditing Process in Your Auditing Company | Officer's Notes | [Read More](https://medium.com/p/a1c4bb65815e) |
 | Fri, 26 Sep 2025 11:32:43 GMT | How to Create Strong and Memorable Passwords | Nagaraj | [Read More](https://medium.com/p/55078ff8db6b) |
 | Fri, 26 Sep 2025 11:32:42 GMT | How Managed IT Services Help Small Businesses in Los Angeles | Managed IT Services | [Read More](https://medium.com/p/56a7bc778267) |
 | Fri, 26 Sep 2025 11:29:32 GMT | Chain Link Fencing in Saudi Arabia: Security, Durability & Value (سياج شبكي معدني) | Hitechfence | [Read More](https://medium.com/p/1c2ed0e979d9) |
+| Fri, 26 Sep 2025 11:29:23 GMT | Web3 security communities for security researchers. Immunefi, Remedy, OpenSense… | Stupid Contract | [Read More](https://medium.com/p/3d3c21125308) |
 | Fri, 26 Sep 2025 11:23:57 GMT | CTF@AC — Quals Writeup | hardw01f | [Read More](https://medium.com/p/160d74d2d2c5) |
 | Fri, 26 Sep 2025 11:23:23 GMT | Top 10 Cybersecurity Certifications for High-Paying Jobs in 2025 | Maxon Codes | [Read More](https://medium.com/p/1c2f1c8c0d9a) |
 | Fri, 26 Sep 2025 11:21:49 GMT | 3 Writing Lessons You’ll Never Find in a Productivity App | Jim Teague | [Read More](https://medium.com/p/3fd6f5d09941) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 07:23:17 GMT | Metasploit Walkthrough: Cyber Kill Chain in Action | Vinayak | [Read More](https://medium.com/p/12bbe5d698aa) |
 | Fri, 26 Sep 2025 07:20:44 GMT | How to Hide Your IP Address：The Best Ways | Fancy Fann | [Read More](https://medium.com/p/695aab3e01b6) |
 | Fri, 26 Sep 2025 07:12:24 GMT | Linux Threat Detection 1 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/51791ba290e4) |
-| Fri, 26 Sep 2025 07:11:50 GMT | Best Shopify Apps That Help Increase Sales in 2025 | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5047f15881a9) |
-| Fri, 26 Sep 2025 07:11:34 GMT | 7 Best Ethical Hacking Certifications in 2025 (Updated) | Serishahid | [Read More](https://medium.com/p/11b6471f2012) |
-| Fri, 26 Sep 2025 07:10:04 GMT | The Role of IT Support in Helping Small Businesses Navigate Cybersecurity Threats and Technical… | ITTechBox | [Read More](https://medium.com/p/a7ac44facd75) |
-| Fri, 26 Sep 2025 07:07:01 GMT | How to train SOC manager | Taipun | [Read More](https://medium.com/p/0c847d711123) |
-| Fri, 26 Sep 2025 07:04:56 GMT | The Moments I’m Most Proud Of | Dyane Fulgencio | [Read More](https://medium.com/p/6d19a9752600) |
-| Fri, 26 Sep 2025 07:04:07 GMT | Cybersecurity Response in Houston: What to Do in the First 24 Hours After an Attack | Tera Dense | [Read More](https://medium.com/p/34547a0de477) |
-| Fri, 26 Sep 2025 07:01:57 GMT | Corrosion 1 walkthrough | Morontowumi Akinbogun | [Read More](https://medium.com/p/9a98153ad81d) |
-| Fri, 26 Sep 2025 07:00:42 GMT | Tracking Bugs and Issues Efficiently in Jira | Erdem UÇAK | [Read More](https://medium.com/p/e419b474b135) |
-| Fri, 26 Sep 2025 06:54:30 GMT | Google’s “Gmail Hack” Headlines! Should You Be Worried — and How Much? | Bobby Andrews | [Read More](https://medium.com/p/0740479b3bed) |
-| Fri, 26 Sep 2025 06:53:25 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/cd20058ab342) |
-| Fri, 26 Sep 2025 06:51:23 GMT | Tool vs. Detection — How Defenders Spot Your Favorite Hacker Tools | Fateyaly | [Read More](https://medium.com/p/ef97b8961bf7) |
-| Fri, 26 Sep 2025 06:51:18 GMT | Web Application Pentesting- Authentication -Session Management | Deepika  B | [Read More](https://medium.com/p/58c09626ffdb) |
-| Fri, 26 Sep 2025 06:49:35 GMT | Preliminary File List Analysis of Kimsuky / APT43 Leak | Siddhant Mishra | [Read More](https://medium.com/p/77b863e40c52) |
-| Fri, 26 Sep 2025 06:47:05 GMT | Business Systems Consulting: Optimize, Automate & Grow | Somberg | [Read More](https://medium.com/p/c27ccbe47845) |
-| Fri, 26 Sep 2025 06:44:23 GMT | VMware ile FortiGate Lab Kurulumu | Onur Altuğ | [Read More](https://medium.com/p/162d4f51cb88) |
-| Fri, 26 Sep 2025 06:33:43 GMT | Launch a Deauthentication Attack with ParrotOS Live | Cataholic | [Read More](https://medium.com/p/69de285981d1) |
-| Fri, 26 Sep 2025 06:27:20 GMT | Linux Kernel Hacking: Modifying the Core | Eren Cankut Uysal | [Read More](https://medium.com/p/18f3a31516b2) |
-| Fri, 26 Sep 2025 06:17:40 GMT | Linux Security Modules: Implementing Custom Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/8e5c59961caf) |
