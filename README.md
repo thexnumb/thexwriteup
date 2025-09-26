@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 19:22:43 GMT | Quand un domaine expire, la confiance s’effondre en silence | Not A Real Player | [Read More](https://medium.com/p/d2845f7c4a07) |
+| Fri, 26 Sep 2025 19:22:12 GMT | Cybersecurity: Challenges and Counter-measures in the Maritime Industry | Engr. A. Gbenupo Ezekiel | [Read More](https://medium.com/p/0984c6e370fc) |
+| Fri, 26 Sep 2025 19:15:24 GMT | Linux Virtual Private Networks: Building Secure Tunnels | Eren Cankut Uysal | [Read More](https://medium.com/p/0d761f429bd6) |
+| Fri, 26 Sep 2025 19:08:54 GMT | Network Automation Tutorial: Automatically Shut down Unused Interfaces with Ansible + Python | Jean Bertro Paul | [Read More](https://medium.com/p/8de5d87f7845) |
+| Fri, 26 Sep 2025 19:07:02 GMT | Security in Multi-Tenant Cloud Environments | Cyber Security Research | [Read More](https://medium.com/p/519970f27ba9) |
 | Fri, 26 Sep 2025 19:05:55 GMT | Cyber Security GRC Framework | Ajansistan Etsy | [Read More](https://medium.com/p/503b87acc88e) |
 | Fri, 26 Sep 2025 19:04:01 GMT | Exploring the Strategic Advantages of Establishing an Enclave for CMMC Compliance: Enhancing… | Joseph Tarun | [Read More](https://medium.com/p/3c95131843f5) |
 | Fri, 26 Sep 2025 19:00:18 GMT | Cybersecurity in Digital Twins of Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/1cc1c04d3890) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 15:02:26 GMT | Your Passwords Aren’t Safe, That’s Why I Built Passifier | Your's Nightmare | [Read More](https://medium.com/p/781c48c1f8d2) |
 | Fri, 26 Sep 2025 15:01:51 GMT | DDOS Protection Explained: From Code to Infrastructure (PHP, Nginx, AWS, Cloudflare) | Bohdan Pastukh | [Read More](https://medium.com/p/f7587b718652) |
 | Fri, 26 Sep 2025 15:01:51 GMT | Issue #10 — “The Scroll That Wouldn’t Stop” | Lana Begunova | [Read More](https://medium.com/p/7ea40059a291) |
-| Fri, 26 Sep 2025 14:56:53 GMT | Pandit Surya ji Top/Best Indian Astrologer Psychic Spiritualist Vashikaran Expert Provided… | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/be649c1de664) |
-| Fri, 26 Sep 2025 14:55:36 GMT | How AI Transforms Criminals into Data Hunters | David SEHYEON Baek | [Read More](https://medium.com/p/d8b71c6b9ab4) |
-| Fri, 26 Sep 2025 14:55:34 GMT | ABTU: Scarcity, Utility, and Why Early Entry Matters | Abatis ABTU | [Read More](https://medium.com/p/6de70915c927) |
-| Fri, 26 Sep 2025 14:54:31 GMT | How AI Can Transform Cyber Defense | Akanksha Mane | [Read More](https://medium.com/p/3205d942ba30) |
-| Fri, 26 Sep 2025 14:51:49 GMT | How to Identify Safe Online Casinos: Essential Security Checklist for 2025 | Sharkroll | [Read More](https://medium.com/p/b97fe6516ba5) |
