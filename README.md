@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 22:55:17 GMT | Fundamentals of the Web and Security: My Internship Journal | Mutluaybike | [Read More](https://medium.com/p/cfa20c0010b2) |
+| Fri, 26 Sep 2025 22:54:39 GMT | The Purple Team Methodology for Proactive Cybersecurity | Mauro Stepanoski | [Read More](https://medium.com/p/1293ae40e02d) |
+| Fri, 26 Sep 2025 22:53:41 GMT | Securing Secrets in AWS SSM Automation Documents | Akesh Patil | [Read More](https://medium.com/p/3ca4e25d41a2) |
+| Fri, 26 Sep 2025 22:36:17 GMT | TryHackMe Capstone Challenge - Write-Up | be.light | [Read More](https://medium.com/p/72ca75b7c297) |
 | Fri, 26 Sep 2025 22:32:54 GMT | HTB pro lab RastaLabs review | real redinna | [Read More](https://medium.com/p/45652241bc3d) |
+| Fri, 26 Sep 2025 22:30:13 GMT | Building a GitHub Secret Scanner: Catching API Keys Before They Leak | Navneetbhogal | [Read More](https://medium.com/p/239116cae2b8) |
+| Fri, 26 Sep 2025 22:28:35 GMT | Intro to Credential Harvesting - Tryhackme | Aaron | [Read More](https://medium.com/p/809a36d5c1a0) |
+| Fri, 26 Sep 2025 22:28:24 GMT | Beyond Roles: Why Attribute-Based Access Control (ABAC) Is the Future of Enterprise Security | Elijah Winter | [Read More](https://medium.com/p/7ba584d2fcea) |
 | Fri, 26 Sep 2025 22:11:43 GMT | Malicious Rust Crates Steal Solana and Ethereum Keys | Cyber-AppSec | [Read More](https://medium.com/p/c20502daa5ba) |
 | Fri, 26 Sep 2025 22:03:46 GMT | Third-Party Risk: Lessons from the Hertz data breach | Gauri Rajgopal | [Read More](https://medium.com/p/b6a1ab5575b8) |
 | Fri, 26 Sep 2025 22:01:00 GMT | How Hackers Exploit AI Tools Like ChatGPT (And How to Stay Safe) | Aaron | [Read More](https://medium.com/p/0f45b28b0da0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 16:32:30 GMT | Windows Pentesting (Persistence Techniques) | Neha Timande | [Read More](https://medium.com/p/9641a40706d1) |
 | Fri, 26 Sep 2025 16:30:43 GMT | Walkthrough: Host & Network Penetration Testing: System/Host Based Attacks CTF 1 | Xnirkun | [Read More](https://medium.com/p/3e2396c857fb) |
 | Fri, 26 Sep 2025 16:24:51 GMT | SSL Pinning in Android with Kotlin: A Complete Guide | Abhijit Rajmane | [Read More](https://medium.com/p/30d465f2fdda) |
-| Fri, 26 Sep 2025 16:20:13 GMT | The DeQUIP Grant Program: Building the Uncrackable Future | Bright Mmaduabuchi | [Read More](https://medium.com/p/12602a5a61e9) |
-| Fri, 26 Sep 2025 16:15:00 GMT | HackornCTF Writeup | Aniket Kumar | [Read More](https://medium.com/p/c47ea36a280b) |
-| Fri, 26 Sep 2025 16:13:00 GMT | Top 10 Cybersecurity Projects You Must Try in 2025 - Hurry up! | Shahzaib | [Read More](https://medium.com/p/d64cfe171600) |
-| Fri, 26 Sep 2025 16:11:08 GMT | Why Investing in Modern Security Technology Is No Longer Optional | Sarmin Islam | [Read More](https://medium.com/p/52a5c0cae731) |
-| Fri, 26 Sep 2025 16:10:32 GMT | The Difficult Journey of Zero Trust: A Story of Vision, Struggle, and Slow Triumph | David SEHYEON Baek | [Read More](https://medium.com/p/758e6328ff3b) |
-| Fri, 26 Sep 2025 16:09:05 GMT | 3D Print Breakthrough: Flawless Complex Parts | John Exter | [Read More](https://medium.com/p/778faaf4c90f) |
-| Fri, 26 Sep 2025 16:06:06 GMT | Brave Browser in 2025: The Top Browser for Privacy and Data Protection? | Cordula Boeck | [Read More](https://medium.com/p/e9febd31d706) |
