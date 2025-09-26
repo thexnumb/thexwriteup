@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 06:17:40 GMT | Linux Security Modules: Implementing Custom Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/8e5c59961caf) |
+| Fri, 26 Sep 2025 06:16:39 GMT | Securing Critical Flutter Code Using FFI | Deepanshusondkar | [Read More](https://medium.com/p/7079d7aec75b) |
+| Fri, 26 Sep 2025 06:10:26 GMT | Top 10 Cyber Security Certifications with High Salary | Manisha Chaudhary | [Read More](https://medium.com/p/a36c22604b65) |
+| Fri, 26 Sep 2025 06:09:34 GMT | Fighting Deepfakes: Building a Detection System | Mr Parasite | [Read More](https://medium.com/p/7ac112219c8c) |
+| Fri, 26 Sep 2025 06:07:29 GMT | 11 Data Science Projects So Unique, They Got Me Job Offers Without Applying | Fateyaly | [Read More](https://medium.com/p/02e0c83fde9c) |
+| Fri, 26 Sep 2025 06:06:07 GMT | Why Industry-Specific Cybersecurity Statistics Matter in 2025 | TheReviewHive | [Read More](https://medium.com/p/1345baaab98f) |
+| Fri, 26 Sep 2025 06:05:27 GMT | Hiding Secrets in Plain Sight: My Hands-On With Steghide ️ | Medxploit | [Read More](https://medium.com/p/75f0db2d288d) |
+| Fri, 26 Sep 2025 05:59:43 GMT | SPARK Matrix™: Vendor Positioning in the Managed Detection & Response Market | Gargiben | [Read More](https://medium.com/p/7bdacacde704) |
+| Fri, 26 Sep 2025 05:55:54 GMT | Cortex Exposure Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/42ab32c4bf6d) |
+| Fri, 26 Sep 2025 05:52:28 GMT | SSL Best Practices to Keep Your Site Secure | Smit Pipaliya | [Read More](https://medium.com/p/8dff5d426a8a) |
+| Fri, 26 Sep 2025 05:50:25 GMT | How to Actually Remember All Your Passwords (Without Getting Hacked) | M Kumar | [Read More](https://medium.com/p/c0f8411d66bc) |
+| Fri, 26 Sep 2025 05:47:16 GMT | ⚙️ Parameter Mining 2025: How Attackers Discover Undocumented Features and Hidden Attack Surfaces | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b40664d9c251) |
+| Fri, 26 Sep 2025 05:44:10 GMT | The developer mandate is changing. How are you adopting? | KE | [Read More](https://medium.com/p/c3b8fa25997a) |
+| Fri, 26 Sep 2025 05:34:09 GMT | Introduction to OT/ICS Cybersecurity Training | TheEvolvEdge | [Read More](https://medium.com/p/d20117d3b752) |
 | Fri, 26 Sep 2025 05:26:57 GMT | Cybersecurity Threats to Watch Out for in 2025. | Technologic Innovation | [Read More](https://medium.com/p/f2b9e056c511) |
 | Fri, 26 Sep 2025 05:26:48 GMT | Lab-based deep dive / research on Windows Defender detection and evasion techniques using… | Omarelsayed | [Read More](https://medium.com/p/1b70fa4aead8) |
 | Fri, 26 Sep 2025 05:16:25 GMT | AI-Powered Deception Technologies | Cyber Security Research | [Read More](https://medium.com/p/b83efeeebf2d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 21:05:40 GMT | GVM False Positives & How to Manage Them | JMP ESP FF E4 | [Read More](https://medium.com/p/3b6742a24144) |
 | Thu, 25 Sep 2025 20:45:48 GMT | The Desert of GRC Solutions | D. Mikhailov | [Read More](https://medium.com/p/29e202870a82) |
 | Thu, 25 Sep 2025 20:29:18 GMT | Fowsniff CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f03b8f1f4b41) |
-| Thu, 25 Sep 2025 20:25:28 GMT | Code Quality with SonarQube and Hidden Tips & Scripts | Korhan Hergüner | [Read More](https://medium.com/p/307c9e19d9d9) |
-| Thu, 25 Sep 2025 20:23:55 GMT | Exposing Sensitive Data on NASA Endpoint. S3 Bucket, API Key, and Config Leak | D3N14LD15K | [Read More](https://medium.com/p/b441f7f95893) |
-| Thu, 25 Sep 2025 20:17:12 GMT | Security Awareness and Training Policy draft | Anthony Milton | [Read More](https://medium.com/p/50bb25ecab45) |
-| Thu, 25 Sep 2025 20:08:21 GMT | Frightening and useful: this tool shows you how to be tracked online | Peter | [Read More](https://medium.com/p/753c04204c32) |
-| Thu, 25 Sep 2025 20:04:16 GMT | The Linux Process Journey — lightdm | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/65bc6ee887c1) |
-| Thu, 25 Sep 2025 19:48:17 GMT | Hydra - THM | Isiah | [Read More](https://medium.com/p/5b0acba20d83) |
-| Thu, 25 Sep 2025 19:47:55 GMT | PG Practice — Zab (Linux) | Lepton | [Read More](https://medium.com/p/5d418182fe16) |
-| Thu, 25 Sep 2025 19:47:47 GMT | Anti-Reverse Engineering | Anthony Mazyck | [Read More](https://medium.com/p/e6adcf1ded04) |
-| Thu, 25 Sep 2025 19:47:47 GMT | From 0 to Hero: How We Solved Our Debug Log Crisis with Smart Log Rotation + Elasticsearch | techWithNeer | [Read More](https://medium.com/p/dfc913e07662) |
-| Thu, 25 Sep 2025 19:42:09 GMT | NIST Cybersecurity Framework Explained Simply (and Why It Matters) | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/20bf5a473cf5) |
-| Thu, 25 Sep 2025 19:39:23 GMT | Why I Always Verify Linux Packages with GPG Before Installing | Faruk Ahmed | [Read More](https://medium.com/p/66acc5070ead) |
-| Thu, 25 Sep 2025 19:32:13 GMT | READ ON THEORITICAL STUDY ON NOISE MODELS FOR MOBILE QKD. | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/a3f51e643c5c) |
-| Thu, 25 Sep 2025 19:28:34 GMT | READ MORE ON QUANTUM CRYTOGRAPHY | Okai Tettey-Antie Samuel ( OTAS ) | [Read More](https://medium.com/p/7bd4217e11fa) |
-| Thu, 25 Sep 2025 19:16:55 GMT | Non-Malware and Living-off-the-Land Tactics in Modern Cyber Operations | Deniz Topaloglu | [Read More](https://medium.com/p/67c882a4126b) |
