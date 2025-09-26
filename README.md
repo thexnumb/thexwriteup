@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 10:39:47 GMT | Ethical Hacking Course in Kochi | Jumanajaffar | [Read More](https://medium.com/p/77b4d56801b4) |
+| Fri, 26 Sep 2025 10:37:38 GMT | ETHICAL HACKING AND CYBERSECURITY | Deepthyy | [Read More](https://medium.com/p/7772a6bfc787) |
+| Fri, 26 Sep 2025 10:28:00 GMT | Advanced Nmap (Network Mapper) | BinaryShield | [Read More](https://medium.com/p/88f9245dcb49) |
+| Fri, 26 Sep 2025 10:27:57 GMT | The Chain-Running In The Shadows | IUnknown* pUnk | [Read More](https://medium.com/p/07f0485f772b) |
+| Fri, 26 Sep 2025 10:24:50 GMT | Trickster — picoCTF (Web Exploit, Medium) | Muhamad Avwan | [Read More](https://medium.com/p/b8692fb28675) |
+| Fri, 26 Sep 2025 10:24:42 GMT | Cheap Linux Hosting vs. Cheap Windows Hosting: Which Is Best for You? | Mary Thomas | [Read More](https://medium.com/p/4c07c8990c00) |
+| Fri, 26 Sep 2025 10:24:01 GMT | Understanding IPv6 Vulnerabilities: What Every Security Professional Should Know | Biplove Yadav | [Read More](https://medium.com/p/c6fee0632bf0) |
+| Fri, 26 Sep 2025 10:22:31 GMT | Understanding MAC Addresses, Hubs, and Switches | Zeli | [Read More](https://medium.com/p/ad89a861333a) |
+| Fri, 26 Sep 2025 10:20:52 GMT | Wazuh Walkthrough: Adding a Windows Agent, Detecting Vulnerabilities, and Remediating CVEs | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/ba4f689ad189) |
+| Fri, 26 Sep 2025 10:10:11 GMT | ExploitPad: A Practical Checklist for Web App Testing | Sle3pyHead ‍ | [Read More](https://medium.com/p/fb9754a45d22) |
 | Fri, 26 Sep 2025 10:08:46 GMT | 19. Finding Open Redirects with Ease | Abhijeet kumawat | [Read More](https://medium.com/p/0cc59a41702c) |
 | Fri, 26 Sep 2025 10:05:10 GMT | Attack Surface Management (ASM): Redefining Cybersecurity Resilience | Jackdavis Iap | [Read More](https://medium.com/p/3af6e5e3a09c) |
 | Fri, 26 Sep 2025 10:04:17 GMT | Best IT Infrastructure Management Services In India - Optimize Your IT Operations | Gowthammathiew | [Read More](https://medium.com/p/c36c57f53795) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 05:14:03 GMT | Authorization Bypass: The Simple SSO Mistake | Ibtissam hammadi | [Read More](https://medium.com/p/c8bd261b961c) |
 | Fri, 26 Sep 2025 05:13:30 GMT | Tata Jaguar Land Rover’s Billion-Dollar Headache : More Than Just a Computer Glitch | Athishsagarkishan | [Read More](https://medium.com/p/c8d1018b080b) |
 | Fri, 26 Sep 2025 05:11:48 GMT | 2025 Flutter Güvenlik Rehberi: OWASP Top 10 Kontrolü | AbdullahTaş | [Read More](https://medium.com/p/2d516ec19d20) |
-| Fri, 26 Sep 2025 05:11:29 GMT | The Genius of SSL | Kevin Fernandes | [Read More](https://medium.com/p/ce29df6a53c5) |
-| Fri, 26 Sep 2025 05:08:36 GMT | Tooling via Browser Automation | Chetan Chinchulkar | [Read More](https://medium.com/p/5336b17c5497) |
-| Fri, 26 Sep 2025 05:03:17 GMT | How CEH v13 Online Training Helps You Become a Cybersecurity Expert | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/a23204bb4df7) |
-| Fri, 26 Sep 2025 05:02:07 GMT | Cybersecurity for Election Systems | Cyber Security Research | [Read More](https://medium.com/p/2beeefa48f0a) |
-| Fri, 26 Sep 2025 04:56:00 GMT | Security in Smart Transportation Networks | Cyber Security Research | [Read More](https://medium.com/p/77de2019f2d8) |
-| Fri, 26 Sep 2025 04:55:17 GMT | Encryption, Hashing, and Encoding: The Essential Differences | Mahmoud Matar | [Read More](https://medium.com/p/577a042054ff) |
-| Fri, 26 Sep 2025 04:51:01 GMT | Top 6 VAPT Service Providers in Singapore -- VAPT Singapore | QualysecEurope | [Read More](https://medium.com/p/c506323d5e2f) |
-| Fri, 26 Sep 2025 04:50:10 GMT | 7 Cybersecurity Trends That Will Dominate in 2026 | HostNOC | [Read More](https://medium.com/p/07c83e1d5777) |
-| Fri, 26 Sep 2025 04:49:18 GMT | Protecting Data with Homomorphic Encryption | Cyber Security Research | [Read More](https://medium.com/p/73cb864148ea) |
-| Fri, 26 Sep 2025 04:42:13 GMT | Privacy Challenges in Genomic Data | Cyber Security Research | [Read More](https://medium.com/p/e2e377c5053a) |
