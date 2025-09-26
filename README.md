@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 01:30:24 GMT | Puerto Rico at the Crossroads of Health Innovation: How PRITS Can Build a Global-Scale Digital… | Eduardo "The Architect" del Río | [Read More](https://medium.com/p/ca2dc950c632) |
+| Fri, 26 Sep 2025 01:14:43 GMT | Part II — From Orbit to Exploit: Understanding the PWNSAT test case | PWNSAT | [Read More](https://medium.com/p/7d370b67145a) |
+| Fri, 26 Sep 2025 01:11:24 GMT | The Era of Air-Gapped Signing: How Digital Shield Reshapes Your Digital Wealth Boundary with… | Digital Shield Offcial | [Read More](https://medium.com/p/ab766464925f) |
+| Fri, 26 Sep 2025 01:10:14 GMT | Air-Gapped Signing, Sovereignty Above All: How Digital Shield is Ushering in a New Era of Personal… | Digital Shield Offcial | [Read More](https://medium.com/p/56c1c1884aca) |
+| Fri, 26 Sep 2025 01:07:46 GMT | The “Unmarried Aunt” Who Went Viral: You Can Choose Not to Marry, But You Must Be Wealthy | Austi Gene | [Read More](https://medium.com/p/a2e541a02e5f) |
+| Fri, 26 Sep 2025 00:46:00 GMT | Patch Fatigue vs. Risk Context: Rethinking Vulnerability Remediation Priorities | Sai Krishna Kakarla | [Read More](https://medium.com/p/01702d86680f) |
+| Fri, 26 Sep 2025 00:35:09 GMT | Part 4: From backyard to battlefield, The Flight Controller. | Pipeline | [Read More](https://medium.com/p/c34c84e185c5) |
+| Fri, 26 Sep 2025 00:32:17 GMT | Enhancement of Cloudbric WAF+ Completed | Cloudbric | [Read More](https://medium.com/p/ff450cf9c258) |
+| Fri, 26 Sep 2025 00:31:25 GMT | Beyond Burp Suite: Top 8 Underused Tools for Web App Security Testing (2025) | Andrei Ivan | [Read More](https://medium.com/p/453d6f3df331) |
+| Fri, 26 Sep 2025 00:31:17 GMT | Cloudbric WAF+ 서비스 고도화 완료 | Cloudbric | [Read More](https://medium.com/p/a482ff93a46c) |
+| Fri, 26 Sep 2025 00:21:48 GMT | Stored XSS via PDF Upload in Live chat⚠️ | 0verRida | [Read More](https://medium.com/p/ce792a6eff1d) |
+| Fri, 26 Sep 2025 00:08:00 GMT | VMware ile FortiGate Lab Kurulumu | Onur Altuğ | [Read More](https://medium.com/p/f29b34f9a25b) |
+| Fri, 26 Sep 2025 00:01:47 GMT | Dalfox: Escáner de XSS Inteligente para Bug Bounty y Pentesting | JPablo13 | [Read More](https://medium.com/p/0541638c4711) |
+| Thu, 25 Sep 2025 23:54:41 GMT | Androgoat Android App WriteUp | Recep Emir | [Read More](https://medium.com/p/7218ee2037b0) |
+| Thu, 25 Sep 2025 23:45:36 GMT | How Quantum Computing Will Reshape Today’s Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/9fd61cc6ac50) |
+| Thu, 25 Sep 2025 23:36:47 GMT | Understanding Zero-Day Vulnerabilities: The Invisible Threat | Houssam LASFAR | [Read More](https://medium.com/p/83739611b399) |
+| Thu, 25 Sep 2025 23:35:33 GMT | WHO IS WHITEDEATHKL | Steve Thomas | [Read More](https://medium.com/p/a2c6d71456e1) |
 | Thu, 25 Sep 2025 23:31:45 GMT | Netflix’s God-Tier Product Placement: A Masterclass in Defending Against AI Threats | Scott Huang | [Read More](https://medium.com/p/a23d3a9ea9a9) |
 | Thu, 25 Sep 2025 23:18:12 GMT | # Drosera Network: Ethereum’s Decentralized Immune System for Web3 Security | Kazycrypts | [Read More](https://medium.com/p/2ed04697243f) |
 | Thu, 25 Sep 2025 23:11:23 GMT | How a German environmental forum post could have saved Volkswagen from the biggest corporate… | Rishisec | [Read More](https://medium.com/p/281b750165f7) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 16:15:03 GMT | Digital Education and Social Transformation: Reshaping Learning for a Better Future | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/9440908a073a) |
 | Thu, 25 Sep 2025 16:12:38 GMT | Why The Vibe Coding Trend Matters | Tyler Wall | [Read More](https://medium.com/p/b34454e7f02d) |
 | Thu, 25 Sep 2025 16:10:13 GMT | Cybersecurity in Digital Education Platforms | Cyber Security Research | [Read More](https://medium.com/p/e585c6b07e6d) |
-| Thu, 25 Sep 2025 16:08:40 GMT | Why Quantum Computers Can’t Actually Break Encryption (Yet) | Coders Stop | [Read More](https://medium.com/p/fb3346036075) |
-| Thu, 25 Sep 2025 16:03:43 GMT | AI-Powered Incident Response Systems | Cyber Security Research | [Read More](https://medium.com/p/9454f82dfa02) |
-| Thu, 25 Sep 2025 16:03:20 GMT | Siber Güvenlik 101 — İlk Bakış | Sude Çoban | [Read More](https://medium.com/p/d6d601cce429) |
-| Thu, 25 Sep 2025 15:55:53 GMT | Ethics of Offensive Cyber Operations | Cyber Security Research | [Read More](https://medium.com/p/52796bdb7402) |
-| Thu, 25 Sep 2025 15:49:54 GMT | Adaptive Authentication Systems | Cyber Security Research | [Read More](https://medium.com/p/b0ed07951eb0) |
-| Thu, 25 Sep 2025 15:43:22 GMT | Biometrics and Privacy Concerns | Cyber Security Research | [Read More](https://medium.com/p/6ad34b73f63c) |
-| Thu, 25 Sep 2025 15:42:01 GMT | How to Start a Successful Blog
-The Complete Beginner’s Guide to Turning Your Voice Into Impact | Aliyu Ibrahim | [Read More](https://medium.com/p/76fa64bbf024) |
-| Thu, 25 Sep 2025 15:39:43 GMT | How Hackers Find Your IP Address — And What You Can Do About It | Cyber Defender | [Read More](https://medium.com/p/026fd5ef50b9) |
-| Thu, 25 Sep 2025 15:37:35 GMT | Catfishing in the Age of AI: Why Deepfakes Are More Than Just a Dating Problem | Kevin Conwell | [Read More](https://medium.com/p/5dff9c1591ad) |
-| Thu, 25 Sep 2025 15:36:42 GMT | Cybersecurity in Public Safety Systems | Cyber Security Research | [Read More](https://medium.com/p/81c6c3c1b7b1) |
-| Thu, 25 Sep 2025 15:30:00 GMT | Deepfake Detection Technologies | Cyber Security Research | [Read More](https://medium.com/p/a543c2391145) |
-| Thu, 25 Sep 2025 15:27:17 GMT | How to see saved wifi passwords in Windows | Edwin Changwe | [Read More](https://medium.com/p/b22b09c1928a) |
-| Thu, 25 Sep 2025 15:24:58 GMT | The Human Firewall: Free Awareness Mini-Video Presentation | Cordula Boeck | [Read More](https://medium.com/p/126bc271b7ca) |
-| Thu, 25 Sep 2025 15:23:00 GMT | Securing AI with COSAIS: How NIST’s New Framework Bridges Cybersecurity and Governance | David ONeal | [Read More](https://medium.com/p/356a92956dab) |
-| Thu, 25 Sep 2025 15:22:03 GMT | Inside Snapdragon X2 Elite: How Qualcomm’s New Chip Aims to Make Laptops Truly Unhackable | Ali Muhammad | [Read More](https://medium.com/p/c8758057100e) |
-| Thu, 25 Sep 2025 15:22:02 GMT | Understanding Agentic AI in the SOC | Tyler Wall | [Read More](https://medium.com/p/144c20c55de7) |
-| Thu, 25 Sep 2025 15:21:52 GMT | Security for Edge AI Devices | Cyber Security Research | [Read More](https://medium.com/p/4f890e295b68) |
