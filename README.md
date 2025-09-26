@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 14:33:42 GMT | Integer Overflow to SQLi to flag — Long Run (Victories Quals) | Kalawy | [Read More](https://medium.com/p/e82c641b9c35) |
+| Fri, 26 Sep 2025 14:31:08 GMT | BREAKING: Cyberattack Targets Cisco ASA Firewalls
+
+Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/522dab89678a) |
+| Fri, 26 Sep 2025 14:28:13 GMT | Why I Decided to Learn Cyber Security from Scratch | hafid hajar | [Read More](https://medium.com/p/79d752a73112) |
+| Fri, 26 Sep 2025 14:27:37 GMT | How Hackers Steal TikTok Accounts — And How to Stay Safe | Keepnet Labs | [Read More](https://medium.com/p/4c87c67ce3f4) |
+| Fri, 26 Sep 2025 14:25:57 GMT | The Web Framework Battle: Why Vue.js Developers Are Switching to Svelte | Rizqi Mulki | [Read More](https://medium.com/p/714e5b927f4c) |
+| Fri, 26 Sep 2025 14:24:48 GMT | Quantum Threats to Cybersecurity: What UK Businesses Need to Know | Alex Hughes | [Read More](https://medium.com/p/276d57743d99) |
+| Fri, 26 Sep 2025 14:22:59 GMT | Hackers Love Your APP_KEY (Here’s How to Stop Them) | Sadique Ali | [Read More](https://medium.com/p/0b03e2acf92e) |
+| Fri, 26 Sep 2025 14:21:18 GMT | COLDRIVER Malware Campaign Expands Russia Focused Cyberattacks | Jasmitharouthu | [Read More](https://medium.com/p/48a2b16bbadf) |
+| Fri, 26 Sep 2025 14:21:06 GMT | Why the Future of Finance Needs Better Defenders | Lillian Wakio | [Read More](https://medium.com/p/4c0c938419eb) |
+| Fri, 26 Sep 2025 14:20:21 GMT | IT Services for CPA Firms | Century Solutions Group | [Read More](https://medium.com/p/7fdad474610a) |
+| Fri, 26 Sep 2025 14:16:22 GMT | How to Lock a Door Without a Key: Simple Solutions for Every Situation | Sure Lock & Key LLC | [Read More](https://medium.com/p/d1fe2c7cdcec) |
 | Fri, 26 Sep 2025 14:10:45 GMT | North Korean Hackers Exploited a Chrome Zero-Day: What It Teaches Us About Human Risk | Keepnet Labs | [Read More](https://medium.com/p/1be2be59b925) |
 | Fri, 26 Sep 2025 14:09:31 GMT | Microsoft’s Windows 11 Mess | Techtanktools | [Read More](https://medium.com/p/228a2cf5e786) |
 | Fri, 26 Sep 2025 14:08:40 GMT | Frida Labs — Challenge 0x1: Bypassing a Random Check with Frida | Ahmed Alnajjar | [Read More](https://medium.com/p/ee74e0e5e172) |
@@ -101,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 09:47:58 GMT | How ERP Helps Reduce Inventory Carrying Costs | Aaron Smith | [Read More](https://medium.com/p/2b489f3ba23a) |
 | Fri, 26 Sep 2025 09:44:06 GMT | Trusted Cloud Solution Provider: Simplifying IT Infrastructure Management | Ishantechnologies | [Read More](https://medium.com/p/5e6063e8ed9d) |
 | Fri, 26 Sep 2025 09:43:53 GMT | Server-Side Template Injection (SSTI) : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/5dd2c3b8b009) |
-| Fri, 26 Sep 2025 09:37:14 GMT | The 5D Relationship: A Catalyst for Personal Growth and Self-Discovery | Wilson Igbasi | [Read More](https://medium.com/p/f46fcf150676) |
-| Fri, 26 Sep 2025 09:37:05 GMT | India’s Digital Payments Are Getting a Major Security Upgrade: RBI’s New Authentication Rules | Mahak Roy | [Read More](https://medium.com/p/130cddf62fc6) |
-| Fri, 26 Sep 2025 09:34:40 GMT | From Wireshark to Zeek: Network Monitoring Tools in 2025 | Lanvaus | [Read More](https://medium.com/p/fad191594f2f) |
-| Fri, 26 Sep 2025 09:31:39 GMT | API Security Essentials: Protecting Your Backend From Day One | Stephanie Ademuyiwa | [Read More](https://medium.com/p/3278a4e1be53) |
-| Fri, 26 Sep 2025 09:30:46 GMT | DockerLabs Writeup — Stellarjwt (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e752c79c9d1a) |
-| Fri, 26 Sep 2025 09:27:48 GMT | Shadow IT You Don’t See: Why Forgotten Servers and Subdomains Put You at Risk | Evgeny Ermakov | [Read More](https://medium.com/p/297617534f27) |
-| Fri, 26 Sep 2025 09:25:19 GMT | Footprinting & Reconnaissance | mohandika | [Read More](https://medium.com/p/2632d96eb64a) |
-| Fri, 26 Sep 2025 09:25:14 GMT | Guards up. | Osheen Singh | [Read More](https://medium.com/p/4b407a73aefa) |
-| Fri, 26 Sep 2025 09:19:16 GMT | Walkthrough THM Apachu | Telynor | [Read More](https://medium.com/p/cf190c16398b) |
-| Fri, 26 Sep 2025 09:17:30 GMT | Oman’s Next Generation of Access Control. | Tekshoyabeelyas | [Read More](https://medium.com/p/abf60ba42481) |
-| Fri, 26 Sep 2025 09:10:50 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Sagarfalak | [Read More](https://medium.com/p/23f991369248) |
