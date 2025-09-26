@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 02:55:52 GMT | Yellowknife Recovers from Cybersecurity Incident: Most City Services Restored | SafetyDetectives Research Team | [Read More](https://medium.com/p/a5033e2d7060) |
+| Fri, 26 Sep 2025 02:47:45 GMT | TryHackMe #56 - Vulnerability Scanner Overview | 0xGroot | [Read More](https://medium.com/p/48070fbb807a) |
+| Fri, 26 Sep 2025 02:46:02 GMT | Why Your Broken Parts Are Your Most Beautiful | Mayukh Sarma | [Read More](https://medium.com/p/54be171aa948) |
+| Fri, 26 Sep 2025 02:43:00 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools: Part 1 | Robert Onyango | [Read More](https://medium.com/p/37dc1a71be7f) |
+| Fri, 26 Sep 2025 02:41:49 GMT | TryHackMe #55 - IDS Fundamentals | 0xGroot | [Read More](https://medium.com/p/f360a0211f49) |
+| Fri, 26 Sep 2025 02:40:07 GMT | What Did Ukrainian Hackers Discover Inside a Russian General’s Laptop? | Damien Blackwood | [Read More](https://medium.com/p/8ec7deac25b4) |
+| Fri, 26 Sep 2025 02:39:33 GMT | Hunting Insider Threats with Wireshark: My First Week in CodePath’s Cybersecurity Track | Varnith | [Read More](https://medium.com/p/c4cd176281f4) |
+| Fri, 26 Sep 2025 02:37:46 GMT | TryHackMe #54 - Firewall Fundamentals | 0xGroot | [Read More](https://medium.com/p/09fd4b35c44f) |
+| Fri, 26 Sep 2025 02:36:31 GMT | The September 2025 Cisco Zero-Day Crisis: State-Sponsored Espionage Targets Federal Networks | CCD-IS | [Read More](https://medium.com/p/7522acf3680d) |
+| Fri, 26 Sep 2025 02:31:45 GMT | TryHackMe #53 - Introduction to SIEM | 0xGroot | [Read More](https://medium.com/p/459f0112dc94) |
+| Fri, 26 Sep 2025 02:17:59 GMT | Day 62- Understanding handshakes in networking and cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/007b29ff46d4) |
+| Fri, 26 Sep 2025 02:17:55 GMT | SpongeBob (4hats-ctf) | Nadeen Al-Homoud | [Read More](https://medium.com/p/cda5837b1e81) |
+| Fri, 26 Sep 2025 02:10:06 GMT | Bugs | Arabella Bedsole | [Read More](https://medium.com/p/72e4e36af705) |
+| Fri, 26 Sep 2025 02:03:27 GMT | Agentic AI in Cyber Operations: Why Leaders Should Care Now | John Dommert (johnnyd184) | [Read More](https://medium.com/p/394e26bfb64d) |
+| Fri, 26 Sep 2025 01:44:51 GMT | How a JavaScript Developer Could Prevent Supply-Chain Attacks | Emily Xiong | [Read More](https://medium.com/p/46db024dd3f8) |
+| Fri, 26 Sep 2025 01:40:26 GMT | From AI Fear to Terms of Service: A Security Professional’s Reality Check | Imanologya | [Read More](https://medium.com/p/9716ce8ed053) |
 | Fri, 26 Sep 2025 01:30:24 GMT | Puerto Rico at the Crossroads of Health Innovation: How PRITS Can Build a Global-Scale Digital… | Eduardo "The Architect" del Río | [Read More](https://medium.com/p/ca2dc950c632) |
 | Fri, 26 Sep 2025 01:14:43 GMT | Part II — From Orbit to Exploit: Understanding the PWNSAT test case | PWNSAT | [Read More](https://medium.com/p/7d370b67145a) |
 | Fri, 26 Sep 2025 01:11:24 GMT | The Era of Air-Gapped Signing: How Digital Shield Reshapes Your Digital Wealth Boundary with… | Digital Shield Offcial | [Read More](https://medium.com/p/ab766464925f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 17:23:55 GMT | AI Security Tools — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/7a454bb70d00) |
 | Thu, 25 Sep 2025 17:21:15 GMT | Indian Army Terrier Cyber Quest 2025 CTF Writeup | Leris | [Read More](https://medium.com/p/e19c47f0f265) |
 | Thu, 25 Sep 2025 17:16:40 GMT | Why Agentic AI Is More Dangerous Than Deepfakes | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/732005b2f356) |
-| Thu, 25 Sep 2025 17:16:06 GMT | Cybersecurity Solutions: The Smart Shield for a Digital-First Economy | Technijian ITSupport | [Read More](https://medium.com/p/520f0e8e145f) |
-| Thu, 25 Sep 2025 17:15:05 GMT | Siber Güvenlik 101 —CTI (Cyber Threat Intelligence) | Sude Çoban | [Read More](https://medium.com/p/9c347d46b42d) |
-| Thu, 25 Sep 2025 17:06:25 GMT | Linux Network Security: Advanced Firewalls and Intrusion Detection | Eren Cankut Uysal | [Read More](https://medium.com/p/eb8ce014f1f8) |
-| Thu, 25 Sep 2025 16:59:38 GMT | Cybersecurity Awareness: Why Everyone Needs to Be Educated | Deyvis Bravo | [Read More](https://medium.com/p/092ddea48d88) |
-| Thu, 25 Sep 2025 16:59:34 GMT | Advanced Linux Security Auditing and Penetration Testing | Eren Cankut Uysal | [Read More](https://medium.com/p/a05ed76f67ad) |
-| Thu, 25 Sep 2025 16:57:48 GMT | API Security: Defenses Tested in the Wild, Not Just on Paper | Vaishnavi Kengale | [Read More](https://medium.com/p/a0145445a49e) |
-| Thu, 25 Sep 2025 16:57:26 GMT | The Hidden Price of Convenience: How Our Data Became the World’s Most Valuable Currency | Hritam Dutta | [Read More](https://medium.com/p/60da25270975) |
-| Thu, 25 Sep 2025 16:44:12 GMT | XSS Explained: Types, Examples, and How to Prevent It | Prajwal Ahluwalia | [Read More](https://medium.com/p/9e2dce97f42f) |
-| Thu, 25 Sep 2025 16:33:59 GMT | Website Hacking Project: From Exploitation to Mitigation | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/0cd14b332741) |
-| Thu, 25 Sep 2025 16:26:32 GMT | Linux Audit System: Comprehensive Security Monitoring | Eren Cankut Uysal | [Read More](https://medium.com/p/f6cdde609b8a) |
-| Thu, 25 Sep 2025 16:26:29 GMT | From Linux to Llama: Why Open Source Is the Real MVP of Modern Tech | e.e.r.s. | [Read More](https://medium.com/p/a931cd0db683) |
-| Thu, 25 Sep 2025 16:21:41 GMT | Authenticated RCE in PhpMyAdmin via SQL File Write and Shell Upload | CyberQuestor | [Read More](https://medium.com/p/ba897cb3a6df) |
-| Thu, 25 Sep 2025 16:20:27 GMT | Rethinking Web Security in a Post-Quantum World | Kory Becker | [Read More](https://medium.com/p/a9d24cfa57d3) |
-| Thu, 25 Sep 2025 16:15:03 GMT | Digital Education and Social Transformation: Reshaping Learning for a Better Future | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/9440908a073a) |
-| Thu, 25 Sep 2025 16:12:38 GMT | Why The Vibe Coding Trend Matters | Tyler Wall | [Read More](https://medium.com/p/b34454e7f02d) |
-| Thu, 25 Sep 2025 16:10:13 GMT | Cybersecurity in Digital Education Platforms | Cyber Security Research | [Read More](https://medium.com/p/e585c6b07e6d) |
