@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 20:07:36 GMT | Linux Containerization Security Best Practices | Eren Cankut Uysal | [Read More](https://medium.com/p/a9946447f53c) |
+| Fri, 26 Sep 2025 20:04:40 GMT | Stop Cramming, Start Mastering: The Modern Professional’s Guide to Acing Any Certification | Neilconnor2003 | [Read More](https://medium.com/p/daaa20228da0) |
+| Fri, 26 Sep 2025 20:01:09 GMT | Day 9 — Defending the Network: A Beginner’s Guide to Snort Intrusion Detection and Prevention | HackTrace | [Read More](https://medium.com/p/efbd12d42f4d) |
+| Fri, 26 Sep 2025 19:56:00 GMT | Digital ID will be mandatory in order to work in the UK, as part of plans to tackle illegal… | Frank Kingsley | [Read More](https://medium.com/p/de1332e10240) |
+| Fri, 26 Sep 2025 19:54:12 GMT | Breaking Into Cybersecurity: 2025 Market Analysis | Tyler Wall | [Read More](https://medium.com/p/2c4c18ed3da4) |
+| Fri, 26 Sep 2025 19:51:42 GMT | “Don’t Panic: An Introduction To Ethical Hacking — First day!!” | Aura Verde | [Read More](https://medium.com/p/ea96da73533d) |
+| Fri, 26 Sep 2025 19:47:01 GMT | 10 Cybersecurity Habits That Save You from Getting Hacked | Syed Farhan Shah | [Read More](https://medium.com/p/c80f91cb2e34) |
+| Fri, 26 Sep 2025 19:31:16 GMT | Why Most Passwords Are Useless and How to Fix Yours in 2 Minutes | Syed Farhan Shah | [Read More](https://medium.com/p/7ee7ab37115b) |
 | Fri, 26 Sep 2025 19:22:43 GMT | Quand un domaine expire, la confiance s’effondre en silence | Not A Real Player | [Read More](https://medium.com/p/d2845f7c4a07) |
 | Fri, 26 Sep 2025 19:22:12 GMT | Cybersecurity: Challenges and Counter-measures in the Maritime Industry | Engr. A. Gbenupo Ezekiel | [Read More](https://medium.com/p/0984c6e370fc) |
 | Fri, 26 Sep 2025 19:15:24 GMT | Linux Virtual Private Networks: Building Secure Tunnels | Eren Cankut Uysal | [Read More](https://medium.com/p/0d761f429bd6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/8e79630e4715) |
 | Fri, 26 Sep 2025 15:14:28 GMT | Silicon Valley’s AI Security Awakening: Key Takeaways from the Summit | Pooja Sharma | [Read More](https://medium.com/p/ec17b6cbcf06) |
 | Fri, 26 Sep 2025 15:12:57 GMT | Automated Reconciliation: The Future of Financial Accuracy and Compliance | Kosh AI | [Read More](https://medium.com/p/13fb091df372) |
-| Fri, 26 Sep 2025 15:11:49 GMT | Why Everyone’s Wrong About Roles — Claims-Based Auth Is the Future | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/245f099a872b) |
-| Fri, 26 Sep 2025 15:11:09 GMT | JavaScript Deobfuscation | napol | [Read More](https://medium.com/p/09219bc4eaca) |
-| Fri, 26 Sep 2025 15:09:50 GMT | I Thought My Accounts Were Secure, Until I Discovered Ente Auth & Bitwarden | Sahendra | [Read More](https://medium.com/p/78c1100ed5e8) |
-| Fri, 26 Sep 2025 15:06:09 GMT | SMB Relay Attack (Windows Environment Active Directory Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/a01f31e13d52) |
-| Fri, 26 Sep 2025 15:05:01 GMT | HSRP ile Varsayılan Ağ Geçidi Yedekliliği + RIPv2 | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/b5c03f697e34) |
-| Fri, 26 Sep 2025 15:02:26 GMT | Your Passwords Aren’t Safe, That’s Why I Built Passifier | Your's Nightmare | [Read More](https://medium.com/p/781c48c1f8d2) |
-| Fri, 26 Sep 2025 15:01:51 GMT | DDOS Protection Explained: From Code to Infrastructure (PHP, Nginx, AWS, Cloudflare) | Bohdan Pastukh | [Read More](https://medium.com/p/f7587b718652) |
-| Fri, 26 Sep 2025 15:01:51 GMT | Issue #10 — “The Scroll That Wouldn’t Stop” | Lana Begunova | [Read More](https://medium.com/p/7ea40059a291) |
