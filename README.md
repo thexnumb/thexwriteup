@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 15:35:04 GMT | Unlocking Active Directory: A Beginner’s Guide | Sumit Sah | [Read More](https://medium.com/p/5b4fb2835874) |
+| Fri, 26 Sep 2025 15:33:35 GMT | Why Every Nigerian Deserves Better Network: 10 Solid Reasons for Independent Telecom Audits and… | Tolulope | [Read More](https://medium.com/p/b8d69b420550) |
+| Fri, 26 Sep 2025 15:33:11 GMT | Why ‘Network Security’ Is a High-Value Search Term | Intellitron Genesis | [Read More](https://medium.com/p/49d1079d2e5f) |
+| Fri, 26 Sep 2025 15:28:10 GMT | The Future of Real-Time Security in Apache Kafka: From Event Buses to Autonomous Nervous Systems. | Sachin Rajakaruna | [Read More](https://medium.com/p/603df980a086) |
+| Fri, 26 Sep 2025 15:24:35 GMT | “Demonstrating a Reverse Shell Attack on Windows 8.1 | Belhajrhoumanassim | [Read More](https://medium.com/p/c5619d12498c) |
+| Fri, 26 Sep 2025 15:21:32 GMT | Splunking Window Attacks Part 1. | Luke | [Read More](https://medium.com/p/870e435f0f07) |
+| Fri, 26 Sep 2025 15:19:52 GMT | Fortigate SSL VPN Yapılandırması nasıl yapılır? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f2f79dc3d02c) |
+| Fri, 26 Sep 2025 15:19:13 GMT | Defending the Digital Front: Navigating the DoD’s New Cybersecurity Gauntlet | Pooja Sharma | [Read More](https://medium.com/p/b313202a59ca) |
+| Fri, 26 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/8e79630e4715) |
 | Fri, 26 Sep 2025 15:14:28 GMT | Silicon Valley’s AI Security Awakening: Key Takeaways from the Summit | Pooja Sharma | [Read More](https://medium.com/p/ec17b6cbcf06) |
 | Fri, 26 Sep 2025 15:11:49 GMT | Why Everyone’s Wrong About Roles — Claims-Based Auth Is the Future | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/245f099a872b) |
+| Fri, 26 Sep 2025 15:11:09 GMT | JavaScript Deobfuscation | napol | [Read More](https://medium.com/p/09219bc4eaca) |
 | Fri, 26 Sep 2025 15:09:50 GMT | I Thought My Accounts Were Secure, Until I Discovered Ente Auth & Bitwarden | Sahendra | [Read More](https://medium.com/p/78c1100ed5e8) |
 | Fri, 26 Sep 2025 15:06:09 GMT | SMB Relay Attack (Windows Environment Active Directory Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/a01f31e13d52) |
 | Fri, 26 Sep 2025 15:05:01 GMT | HSRP ile Varsayılan Ağ Geçidi Yedekliliği + RIPv2 | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/b5c03f697e34) |
@@ -104,13 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 10:58:58 GMT | How to Build a Vulnerability Management Strategy for Cloud Environment | Digital Defense | [Read More](https://medium.com/p/5f2634a93999) |
 | Fri, 26 Sep 2025 10:55:21 GMT | From Passwords to Passkeys: The Future of Authentication and Why It Matters | Shraddhakaveri H | [Read More](https://medium.com/p/2ec2b9212e79) |
 | Fri, 26 Sep 2025 10:54:03 GMT | 5 Biggest Tech Stories You Missed This Week | Dkhantech | [Read More](https://medium.com/p/e8c37b5d5589) |
-| Fri, 26 Sep 2025 10:51:22 GMT | How AI is Changing the Way We Work and Live | Dkhantech | [Read More](https://medium.com/p/650da833e4e2) |
-| Fri, 26 Sep 2025 10:49:27 GMT | The Role of Encryption in Modern Data Security | Sytex | [Read More](https://medium.com/p/f0d29b843fc2) |
-| Fri, 26 Sep 2025 10:48:53 GMT | Reca Space Agency (RSA) est une agence spatiale camerounaise fondée en 2021, spécialisée dans la… | Mandackpaplo | [Read More](https://medium.com/p/5e11aa55ff49) |
-| Fri, 26 Sep 2025 10:46:47 GMT | Why Online Bachelor of Science in Cyber Security is worth considering in EC-Council University’s | Shreyashettyctr | [Read More](https://medium.com/p/ecff1f91c470) |
-| Fri, 26 Sep 2025 10:43:39 GMT | # The New Frontier of Security: A Hacker’s Guide to Attacking and Defending AI — Part 1 | Rudra16 | [Read More](https://medium.com/p/4ce8dd2523c8) |
-| Fri, 26 Sep 2025 10:39:47 GMT | Ethical Hacking Course in Kochi | Jumanajaffar | [Read More](https://medium.com/p/77b4d56801b4) |
-| Fri, 26 Sep 2025 10:37:38 GMT | ETHICAL HACKING AND CYBERSECURITY | Deepthyy | [Read More](https://medium.com/p/7772a6bfc787) |
-| Fri, 26 Sep 2025 10:28:00 GMT | Advanced Nmap (Network Mapper) | BinaryShield | [Read More](https://medium.com/p/88f9245dcb49) |
-| Fri, 26 Sep 2025 10:27:57 GMT | The Chain-Running In The Shadows | IUnknown* pUnk | [Read More](https://medium.com/p/07f0485f772b) |
-| Fri, 26 Sep 2025 10:24:50 GMT | Trickster — picoCTF (Web Exploit, Medium) | Muhamad Avwan | [Read More](https://medium.com/p/b8692fb28675) |
