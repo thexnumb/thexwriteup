@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 13:32:55 GMT | Transforming U.S. Healthcare with Real-Time Location Systems (RTLS) | Kaverigiri | [Read More](https://medium.com/p/52af7ef3de15) |
 | Fri, 26 Sep 2025 13:26:40 GMT | Azərbaycan İdmanının Ən Son Yenilikləri | clementina99 | [Read More](https://medium.com/p/d32f5e5db0b3) |
 | Fri, 26 Sep 2025 13:23:10 GMT | Security Update: What’s Safe, What’s Next, and Our Transparency Commitment | Seedify | [Read More](https://medium.com/p/790e90501b06) |
 | Fri, 26 Sep 2025 13:17:57 GMT | Light | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/5a1fe7c74d18) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 08:22:58 GMT | Ethical Hacking: Tools Dasar & Alur Pentest yang Wajib Kamu Tahu | Eilinafta Gita | [Read More](https://medium.com/p/d647478f45e5) |
 | Fri, 26 Sep 2025 08:12:13 GMT | eJPT v2 : Challenge Lab 22: Lazy Admin | Dhanushkumar R | [Read More](https://medium.com/p/103c0e940dc0) |
 | Fri, 26 Sep 2025 08:11:03 GMT | The Green Promise of Aurö | Iqra | [Read More](https://medium.com/p/e3a94642605d) |
-| Fri, 26 Sep 2025 08:10:47 GMT | eJPT v2 : Challenge Lab 21: Brick Heist | Dhanushkumar R | [Read More](https://medium.com/p/0e3846d40c3a) |
