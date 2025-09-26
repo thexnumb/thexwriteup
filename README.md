@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 22:11:43 GMT | Malicious Rust Crates Steal Solana and Ethereum Keys | Cyber-AppSec | [Read More](https://medium.com/p/c20502daa5ba) |
+| Fri, 26 Sep 2025 22:03:46 GMT | Third-Party Risk: Lessons from the Hertz data breach | Gauri Rajgopal | [Read More](https://medium.com/p/b6a1ab5575b8) |
+| Fri, 26 Sep 2025 22:01:00 GMT | How Hackers Exploit AI Tools Like ChatGPT (And How to Stay Safe) | Aaron | [Read More](https://medium.com/p/0f45b28b0da0) |
+| Fri, 26 Sep 2025 21:42:47 GMT | Five Insights Into Why & How Organizations Should Strive for Better Information Strategies Amid… | David A. Bray | [Read More](https://medium.com/p/f4c55be051ee) |
+| Fri, 26 Sep 2025 21:41:36 GMT | What I Learned from Watching People Ignore the Fire Alarm | Imanologya | [Read More](https://medium.com/p/48a0a984268e) |
 | Fri, 26 Sep 2025 21:29:16 GMT | Turn Your AI Security Findings Into Repeatable Automated Checks | Teri Radichel | [Read More](https://medium.com/p/48bb5880b2ff) |
 | Fri, 26 Sep 2025 21:22:33 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/6a13cdef6b26) |
 | Fri, 26 Sep 2025 21:16:36 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/c686e07cb3f0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 16:09:05 GMT | 3D Print Breakthrough: Flawless Complex Parts | John Exter | [Read More](https://medium.com/p/778faaf4c90f) |
 | Fri, 26 Sep 2025 16:06:06 GMT | Brave Browser in 2025: The Top Browser for Privacy and Data Protection? | Cordula Boeck | [Read More](https://medium.com/p/e9febd31d706) |
 | Fri, 26 Sep 2025 16:03:41 GMT | What If Every Server in the World Shut Down at Once? | Rizqi Mulki | [Read More](https://medium.com/p/805dbad4744b) |
-| Fri, 26 Sep 2025 16:01:15 GMT | Digital Media Literacy and it’s Importance | ayesha_expresses | [Read More](https://medium.com/p/b65cbb62d201) |
-| Fri, 26 Sep 2025 16:00:27 GMT | Isolake, Revisited: Isolating Databricks Serverless Workloads from the Public Internet | JD Braun | [Read More](https://medium.com/p/1fe58f107611) |
-| Fri, 26 Sep 2025 15:55:58 GMT | Using AI to Check For Security Vulnerabilities Across Your Code Base | Teri Radichel | [Read More](https://medium.com/p/fcd48e246d04) |
-| Fri, 26 Sep 2025 15:46:31 GMT | Extending Free Trials with Just a Clock Change: A Subscription Bypass Story | Abhishek sharma | [Read More](https://medium.com/p/515d8565cba9) |
-| Fri, 26 Sep 2025 15:42:30 GMT | How PostgreSQL 17 Changed the Game for Developers | Rizqi Mulki | [Read More](https://medium.com/p/3f87f813299f) |
