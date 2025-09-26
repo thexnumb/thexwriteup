@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 13:26:40 GMT | Azərbaycan İdmanının Ən Son Yenilikləri | clementina99 | [Read More](https://medium.com/p/d32f5e5db0b3) |
+| Fri, 26 Sep 2025 13:23:10 GMT | Security Update: What’s Safe, What’s Next, and Our Transparency Commitment | Seedify | [Read More](https://medium.com/p/790e90501b06) |
+| Fri, 26 Sep 2025 13:17:57 GMT | Light | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/5a1fe7c74d18) |
+| Fri, 26 Sep 2025 13:16:29 GMT | Introduction to Malware Analysis | Busraugur | [Read More](https://medium.com/p/d2f5d2c5f34e) |
+| Fri, 26 Sep 2025 13:13:13 GMT | Rethinking “Left of Boom” and “Right of Boom” in Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/08d65da2f707) |
+| Fri, 26 Sep 2025 13:07:21 GMT | Malware Analizine Giriş | Busraugur | [Read More](https://medium.com/p/3eb3c9a754a0) |
+| Fri, 26 Sep 2025 13:06:10 GMT | Why VAPT Is Essential in 2025 (And How It Keeps Businesses Ahead of Threats) | Co-Ventech | [Read More](https://medium.com/p/300271f4726a) |
+| Fri, 26 Sep 2025 13:05:23 GMT | How I Bypass Firewalls by Locating the Origin Server | Ibtissam hammadi | [Read More](https://medium.com/p/c9cc271cb224) |
+| Fri, 26 Sep 2025 13:04:48 GMT | The Words I Never Said Out Loud | Darpan Murly | [Read More](https://medium.com/p/3e2b226cf536) |
+| Fri, 26 Sep 2025 13:01:57 GMT | What is Shoulder Surfing? The Low-tech Identity Theft Threat You’re Overlooking | Spokeo People Search | [Read More](https://medium.com/p/7b5cc009c34e) |
+| Fri, 26 Sep 2025 13:01:51 GMT | Crypto Security: Why 2FA is Your Best Friend | Farhad Ali | [Read More](https://medium.com/p/783029798c1a) |
+| Fri, 26 Sep 2025 12:59:05 GMT | The Rijndael Serpent — Mouth of the Obfuscation | Rain Ginsberg | [Read More](https://medium.com/p/f876b71d6acb) |
+| Fri, 26 Sep 2025 12:53:59 GMT | The Relationship Between Artificial Intelligence and Cybersecurity | Nima.Hamdi | [Read More](https://medium.com/p/6b95bdd9328c) |
+| Fri, 26 Sep 2025 12:52:18 GMT | The Hidden Machinery of the Internet “Refund Scam” | Internet Exposed | [Read More](https://medium.com/p/eb77a96305c1) |
+| Fri, 26 Sep 2025 12:50:45 GMT | Using Warp Terminal For Pentesting | Majix | [Read More](https://medium.com/p/5dacbbc4fdd5) |
 | Fri, 26 Sep 2025 12:37:53 GMT | Drosera: Building an Immune System for Web3 | Soch | [Read More](https://medium.com/p/1af6122e6387) |
 | Fri, 26 Sep 2025 12:31:50 GMT | Want to Become the TOP 0.1% of DevOps Engineers? Do THIS | Tanishq Arora | [Read More](https://medium.com/p/d16796944dc1) |
 | Fri, 26 Sep 2025 12:26:42 GMT | How to Spoof MAC Address (Windows/Linux) | Mohsin Shoaib | [Read More](https://medium.com/p/d567bfbe6507) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 08:12:13 GMT | eJPT v2 : Challenge Lab 22: Lazy Admin | Dhanushkumar R | [Read More](https://medium.com/p/103c0e940dc0) |
 | Fri, 26 Sep 2025 08:11:03 GMT | The Green Promise of Aurö | Iqra | [Read More](https://medium.com/p/e3a94642605d) |
 | Fri, 26 Sep 2025 08:10:47 GMT | eJPT v2 : Challenge Lab 21: Brick Heist | Dhanushkumar R | [Read More](https://medium.com/p/0e3846d40c3a) |
-| Fri, 26 Sep 2025 08:10:26 GMT | Security Features in Kiosk Software You Should Know | Vantage MDM | [Read More](https://medium.com/p/17616bd5c3f7) |
-| Fri, 26 Sep 2025 08:07:45 GMT | No More Free Rides: Why American Ingenuity Doesn’t Need a Passport | Namir Sagheenanajar | [Read More](https://medium.com/p/5fdb8b0081b4) |
-| Fri, 26 Sep 2025 08:03:10 GMT | The Strangest Cure for Loneliness? Talking to Strangers Online | Mindfuse | [Read More](https://medium.com/p/605642519266) |
-| Fri, 26 Sep 2025 07:58:28 GMT | Top 15 Python Interview Questions for Beginners (with Answers) | Nishubirla | [Read More](https://medium.com/p/22899e32f7f8) |
-| Fri, 26 Sep 2025 07:45:23 GMT | The Daily Tech Digest: 26 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/de58e8a335ce) |
-| Fri, 26 Sep 2025 07:44:28 GMT | God, Will I ever have that person, the one who loves me the way I need? | Nikenlarash | [Read More](https://medium.com/p/649a29f49c9c) |
-| Fri, 26 Sep 2025 07:44:25 GMT | Best CCTV Surveillance Cameras in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/444ef7520536) |
-| Fri, 26 Sep 2025 07:42:07 GMT | SOC Analyst Online Course to Build a Strong Foundation in Cybersecurity | Skills For Everyone | [Read More](https://medium.com/p/cefa28fed104) |
-| Fri, 26 Sep 2025 07:32:49 GMT | DC-1 Vulnhub Lab Writeup | NaN | [Read More](https://medium.com/p/3ef81e4ee9e3) |
-| Fri, 26 Sep 2025 07:32:34 GMT | Demystifying Azure App Roles: Why They Matter and How to Use Them! | Aymen Abdelwahed | [Read More](https://medium.com/p/478e5ff3a593) |
-| Fri, 26 Sep 2025 07:29:43 GMT | ประจำวันศุกร์ที่ 26 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1d7222048dd7) |
-| Fri, 26 Sep 2025 07:24:19 GMT | VPN Myths vs. Facts: What You Really Need to Know | Cloudbric VPN | [Read More](https://medium.com/p/ec30abe3b698) |
-| Fri, 26 Sep 2025 07:23:17 GMT | Metasploit Walkthrough: Cyber Kill Chain in Action | Vinayak | [Read More](https://medium.com/p/12bbe5d698aa) |
-| Fri, 26 Sep 2025 07:20:44 GMT | How to Hide Your IP Address：The Best Ways | Fancy Fann | [Read More](https://medium.com/p/695aab3e01b6) |
-| Fri, 26 Sep 2025 07:12:24 GMT | Linux Threat Detection 1 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/51791ba290e4) |
