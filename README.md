@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 18:19:18 GMT | Top 10 Cybersecurity Trends (2025) | Kishor Kalivarapu | [Read More](https://medium.com/p/d2191ddafb71) |
+| Fri, 26 Sep 2025 18:14:29 GMT | My conversation with Chat GPT | Boss Babes Unite | [Read More](https://medium.com/p/29bc2b8681a4) |
+| Fri, 26 Sep 2025 18:13:20 GMT | Blueprint: The Foundation of Strategic Planning and Design | digital mind | [Read More](https://medium.com/p/685ae212c0c1) |
+| Fri, 26 Sep 2025 18:10:45 GMT | Cybersecurity Challenges in Open Banking | Cyber Security Research | [Read More](https://medium.com/p/939d5b18e60b) |
+| Fri, 26 Sep 2025 18:06:55 GMT | Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find | Dipu Basak | [Read More](https://medium.com/p/57c3e19e0a36) |
+| Fri, 26 Sep 2025 17:53:01 GMT | npm Malware is the New Phishing : How Supply Chain Attacks are Evolving | shivangi satija | [Read More](https://medium.com/p/08fb65bf573e) |
+| Fri, 26 Sep 2025 17:49:21 GMT | What Are .bak Files? The Unsung Heroes of Backups | Natarajan C K | [Read More](https://medium.com/p/bbd97af0f6fe) |
+| Fri, 26 Sep 2025 17:45:51 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking | Nandana Vipul | [Read More](https://medium.com/p/4c8f185d5ba1) |
+| Fri, 26 Sep 2025 17:43:44 GMT | Guarding the Gates: A SOC Analyst’s Guide to Network Perimeter Defense ️Network Security… | Furkanctiner | [Read More](https://medium.com/p/aaf26486fb4d) |
+| Fri, 26 Sep 2025 17:42:34 GMT | From Registration Number Enumeration to Dos: Chaining IDOR with OTP Bypass in Slot Booking System | Pa11av1 | [Read More](https://medium.com/p/1444414a0fb4) |
+| Fri, 26 Sep 2025 17:40:47 GMT | RSA Algorithm using Split Complex Numbers Approach | Sathish Badampudi | [Read More](https://medium.com/p/a79093e3ef4d) |
+| Fri, 26 Sep 2025 17:40:42 GMT | DNS Spoofing: The Invisible Threat Redirecting Your Online Journey | SafeAeon Inc. | [Read More](https://medium.com/p/20be962584b4) |
 | Fri, 26 Sep 2025 17:35:22 GMT | SCA Security: Why Software Composition Analysis Matters for Modern Applications | SafeAeon Inc. | [Read More](https://medium.com/p/edc434e0884d) |
 | Fri, 26 Sep 2025 17:34:46 GMT | Siber Güvenlik 101 — Reverse Engineering (Tersine Mühendislik) | Sude Çoban | [Read More](https://medium.com/p/063ee6b8eca3) |
 | Fri, 26 Sep 2025 17:34:18 GMT | Things You Should Know Before Getting Into Cybersecurity | Fisayo K | [Read More](https://medium.com/p/61dfad586b21) |
@@ -102,15 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 14:10:45 GMT | North Korean Hackers Exploited a Chrome Zero-Day: What It Teaches Us About Human Risk | Keepnet Labs | [Read More](https://medium.com/p/1be2be59b925) |
 | Fri, 26 Sep 2025 14:09:31 GMT | Microsoft’s Windows 11 Mess | Techtanktools | [Read More](https://medium.com/p/228a2cf5e786) |
 | Fri, 26 Sep 2025 14:08:40 GMT | Frida Labs — Challenge 0x1: Bypassing a Random Check with Frida | Ahmed Alnajjar | [Read More](https://medium.com/p/ee74e0e5e172) |
-| Fri, 26 Sep 2025 14:06:52 GMT | Cybersecurity Details: Threat Hunting Methodologies | Cybersecurity Umbrella | [Read More](https://medium.com/p/5ac5c1308aae) |
-| Fri, 26 Sep 2025 14:05:48 GMT | This chip isn’t just hardware; Microsoft might’ve actually built the future. | Sri Murthy | [Read More](https://medium.com/p/e3524728ed64) |
-| Fri, 26 Sep 2025 14:01:52 GMT | Cyber Briefing: 2025.09.26 | CyberMaterial | [Read More](https://medium.com/p/b6a586ef23a9) |
-| Fri, 26 Sep 2025 13:59:52 GMT | The Gentlemen Ransomware Group Profile - Part 1: Background, Motivations, Affiliates and… | gm0 | [Read More](https://medium.com/p/1ee559ac6ecd) |
-| Fri, 26 Sep 2025 13:57:48 GMT | Top Skills Employers in the U.S. Want in 2025 (Especially in IT, BA, QA) | Tasktech Recruiters | [Read More](https://medium.com/p/0506c788b216) |
-| Fri, 26 Sep 2025 13:55:15 GMT | Building Your Career: In-Demand Cybersecurity Skills to Learn Now | Apexium Technologies Ltd | [Read More](https://medium.com/p/8ba42a1485a1) |
-| Fri, 26 Sep 2025 13:49:39 GMT | Fortigate Addresses | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7be1fc558dd0) |
-| Fri, 26 Sep 2025 13:49:34 GMT | When AI Spills Secrets: Sensitive Information Disclosure | Om Sahare | [Read More](https://medium.com/p/84d3e4eab681) |
-| Fri, 26 Sep 2025 13:49:03 GMT | Secure MCP Deployment with Micepe | Micepe | [Read More](https://medium.com/p/917186c682b2) |
-| Fri, 26 Sep 2025 13:42:38 GMT | Strengthening Modern Enterprises with Security, Efficiency, and Compliance | Defend My Business | [Read More](https://medium.com/p/28d003a5eb2a) |
-| Fri, 26 Sep 2025 13:37:07 GMT | Unveiling Ransomware Attacks: What You Need To Know | Apexium Technologies Ltd | [Read More](https://medium.com/p/c1ccc0b32024) |
-| Fri, 26 Sep 2025 13:32:55 GMT | Transforming U.S. Healthcare with Real-Time Location Systems (RTLS) | Kaverigiri | [Read More](https://medium.com/p/52af7ef3de15) |
