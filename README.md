@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 09:34:40 GMT | From Wireshark to Zeek: Network Monitoring Tools in 2025 | Lanvaus | [Read More](https://medium.com/p/fad191594f2f) |
+| Fri, 26 Sep 2025 09:30:46 GMT | DockerLabs Writeup — Stellarjwt (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e752c79c9d1a) |
+| Fri, 26 Sep 2025 09:27:48 GMT | Shadow IT You Don’t See: Why Forgotten Servers and Subdomains Put You at Risk | Evgeny Ermakov | [Read More](https://medium.com/p/297617534f27) |
+| Fri, 26 Sep 2025 09:25:19 GMT | Footprinting & Reconnaissance | mohandika | [Read More](https://medium.com/p/2632d96eb64a) |
+| Fri, 26 Sep 2025 09:25:14 GMT | Guards up. | Osheen Singh | [Read More](https://medium.com/p/4b407a73aefa) |
+| Fri, 26 Sep 2025 09:19:16 GMT | Walkthrough THM Apachu | Telynor | [Read More](https://medium.com/p/cf190c16398b) |
+| Fri, 26 Sep 2025 09:17:30 GMT | Oman’s Next Generation of Access Control. | Tekshoyabeelyas | [Read More](https://medium.com/p/abf60ba42481) |
 | Fri, 26 Sep 2025 09:10:50 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Sagarfalak | [Read More](https://medium.com/p/23f991369248) |
 | Fri, 26 Sep 2025 09:08:42 GMT | Understanding Active Directory Certificate Services (AD CS) | Redfox Security | [Read More](https://medium.com/p/004bc136ea98) |
 | Fri, 26 Sep 2025 09:05:46 GMT | The Hidden Dangers of DIY Keyholding | Metropolitan Security Services | [Read More](https://medium.com/p/d6ee3ee59581) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 03:31:48 GMT | From Free Nuggets to Full Access: How a Snack Craving Unwrapped McDonald’s Security Flaws | Deven Chhajed | [Read More](https://medium.com/p/172d8d1bb7b8) |
 | Fri, 26 Sep 2025 03:31:31 GMT | Inclusive Web Recognized by Fast Company’s 2025 Innovation by Design Awards for Accessibility… | Emma Lyons | [Read More](https://medium.com/p/c8d12e6db4b1) |
 | Fri, 26 Sep 2025 03:19:44 GMT | Lab-based deep dive / research on Windows Defender detection and evasion techniques using… | Omarelsayed | [Read More](https://medium.com/p/3bcd12a60dad) |
-| Fri, 26 Sep 2025 03:17:32 GMT | Reflection: My Journey Training 2000+ Professionals Worldwide | Dr. Deep Pandey | [Read More](https://medium.com/p/79c272459820) |
-| Fri, 26 Sep 2025 03:02:37 GMT | timely purse LOAN APP CUSTOMER care helpline number (1800).@!! | Hepoy Fs | [Read More](https://medium.com/p/0a66ab168e2a) |
-| Fri, 26 Sep 2025 02:58:33 GMT | Why DevOps Engineers Earn More Than Traditional IT Pros | J. David Smith | [Read More](https://medium.com/p/74e36d170540) |
-| Fri, 26 Sep 2025 02:55:52 GMT | Yellowknife Recovers from Cybersecurity Incident: Most City Services Restored | SafetyDetectives Research Team | [Read More](https://medium.com/p/a5033e2d7060) |
-| Fri, 26 Sep 2025 02:54:15 GMT | SonicWall Confirms Cloud Backup Breach Impacting Firewall Configuration Files | SafetyDetectives Research Team | [Read More](https://medium.com/p/c8ba6a69f13c) |
-| Fri, 26 Sep 2025 02:47:45 GMT | TryHackMe #56 - Vulnerability Scanner Overview | 0xGroot | [Read More](https://medium.com/p/48070fbb807a) |
-| Fri, 26 Sep 2025 02:46:02 GMT | Why Your Broken Parts Are Your Most Beautiful | Mayukh Sarma | [Read More](https://medium.com/p/54be171aa948) |
