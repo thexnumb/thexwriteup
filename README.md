@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 17:35:22 GMT | SCA Security: Why Software Composition Analysis Matters for Modern Applications | SafeAeon Inc. | [Read More](https://medium.com/p/edc434e0884d) |
+| Fri, 26 Sep 2025 17:34:46 GMT | Siber Güvenlik 101 — Reverse Engineering (Tersine Mühendislik) | Sude Çoban | [Read More](https://medium.com/p/063ee6b8eca3) |
+| Fri, 26 Sep 2025 17:34:18 GMT | Things You Should Know Before Getting Into Cybersecurity | Fisayo K | [Read More](https://medium.com/p/61dfad586b21) |
+| Fri, 26 Sep 2025 17:31:38 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking. | Nandana Vipul | [Read More](https://medium.com/p/2622ac030368) |
+| Fri, 26 Sep 2025 17:27:36 GMT | CSRF Attacks: The Silent Threat to Web Applications | SafeAeon Inc. | [Read More](https://medium.com/p/18d55d67241f) |
+| Fri, 26 Sep 2025 17:16:48 GMT | The Need for Using a VPN While Browsing: Protecting Your Online Security and Privacy | Anthony Veto | [Read More](https://medium.com/p/018575c0fce1) |
+| Fri, 26 Sep 2025 17:16:25 GMT | Linux Terminal Shortcuts That Will Make You 10x Faster | Kavish Baghel | [Read More](https://medium.com/p/e21b33e9a326) |
 | Fri, 26 Sep 2025 17:10:19 GMT | All of You | Yashwardhan Mittal | [Read More](https://medium.com/p/5d06e9294989) |
 | Fri, 26 Sep 2025 17:06:53 GMT | Cybersecurity News Review — Week 39 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/c8030453d191) |
 | Fri, 26 Sep 2025 17:04:41 GMT | Operating Systems | w4llnut_ | [Read More](https://medium.com/p/a5dbed2f0c9b) |
@@ -107,10 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 13:42:38 GMT | Strengthening Modern Enterprises with Security, Efficiency, and Compliance | Defend My Business | [Read More](https://medium.com/p/28d003a5eb2a) |
 | Fri, 26 Sep 2025 13:37:07 GMT | Unveiling Ransomware Attacks: What You Need To Know | Apexium Technologies Ltd | [Read More](https://medium.com/p/c1ccc0b32024) |
 | Fri, 26 Sep 2025 13:32:55 GMT | Transforming U.S. Healthcare with Real-Time Location Systems (RTLS) | Kaverigiri | [Read More](https://medium.com/p/52af7ef3de15) |
-| Fri, 26 Sep 2025 13:26:40 GMT | Azərbaycan İdmanının Ən Son Yenilikləri | clementina99 | [Read More](https://medium.com/p/d32f5e5db0b3) |
-| Fri, 26 Sep 2025 13:23:10 GMT | Security Update: What’s Safe, What’s Next, and Our Transparency Commitment | Seedify | [Read More](https://medium.com/p/790e90501b06) |
-| Fri, 26 Sep 2025 13:17:57 GMT | Light | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/5a1fe7c74d18) |
-| Fri, 26 Sep 2025 13:16:29 GMT | Introduction to Malware Analysis | Busraugur | [Read More](https://medium.com/p/d2f5d2c5f34e) |
-| Fri, 26 Sep 2025 13:13:13 GMT | Rethinking “Left of Boom” and “Right of Boom” in Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/08d65da2f707) |
-| Fri, 26 Sep 2025 13:07:21 GMT | Malware Analizine Giriş | Busraugur | [Read More](https://medium.com/p/3eb3c9a754a0) |
-| Fri, 26 Sep 2025 13:06:10 GMT | Why VAPT Is Essential in 2025 (And How It Keeps Businesses Ahead of Threats) | Co-Ventech | [Read More](https://medium.com/p/300271f4726a) |
