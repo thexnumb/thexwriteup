@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 17:10:19 GMT | All of You | Yashwardhan Mittal | [Read More](https://medium.com/p/5d06e9294989) |
+| Fri, 26 Sep 2025 17:06:53 GMT | Cybersecurity News Review — Week 39 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/c8030453d191) |
+| Fri, 26 Sep 2025 17:04:41 GMT | Operating Systems | w4llnut_ | [Read More](https://medium.com/p/a5dbed2f0c9b) |
+| Fri, 26 Sep 2025 17:01:54 GMT | Heap Exploitation Teknikleri: Use-After-Free ve Heap Overflow | Esra Kayhan | [Read More](https://medium.com/p/d85e647302aa) |
+| Fri, 26 Sep 2025 16:52:44 GMT | Groovy Sandbox Escape: Reading Files via ClassLoader — $650 Bounty Story | 0x1git | [Read More](https://medium.com/p/8183ef9a332c) |
+| Fri, 26 Sep 2025 16:51:54 GMT | Expert Static Guard Services for Peace of Mind | Professional UK Services | [Read More](https://medium.com/p/ff2f931a5746) |
+| Fri, 26 Sep 2025 16:49:55 GMT | Turn Your Security Findings Into Automated Checks | Teri Radichel | [Read More](https://medium.com/p/0a08efe57358) |
+| Fri, 26 Sep 2025 16:49:41 GMT | Fortigate Web Filter Profili Nasıl Oluşturulur? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/3ac89631df35) |
+| Fri, 26 Sep 2025 16:45:11 GMT | The Hidden Gatekeepers of the Internet: The CAPTCHAs | Graceverse | [Read More](https://medium.com/p/4621d227c07a) |
+| Fri, 26 Sep 2025 16:44:47 GMT | Packet Capture with Wireshark: Understanding Browser Traffic from a VM | Venkanna chowdary penubothu | [Read More](https://medium.com/p/b8cb07375254) |
+| Fri, 26 Sep 2025 16:42:39 GMT | The Biggest Security Mistake: Why You’re Not Backing Up Your Data | Ehsanm135 | [Read More](https://medium.com/p/ce60b985e184) |
+| Fri, 26 Sep 2025 16:41:25 GMT | Part 1 Introduction to Ethical Hacking & Cybersecurity : | Intelithics | [Read More](https://medium.com/p/f3eda2a12ac1) |
 | Fri, 26 Sep 2025 16:39:20 GMT | Drosera Network: Revolutionizing DeFi Security with Decentralized Automation | Habuskid | [Read More](https://medium.com/p/4d2bb7969e26) |
+| Fri, 26 Sep 2025 16:38:04 GMT | SOC Compliance Demystified: Launching a 4-Part Series on SOC 1, SOC 2 (Type I & II), and SOC 3 | Rachid Abadli | [Read More](https://medium.com/p/4a08a3a9d944) |
 | Fri, 26 Sep 2025 16:35:35 GMT | Trusted Security Companies in Los Angeles: Why Choose Barzo? | Travel time | [Read More](https://medium.com/p/70a3a3400edf) |
 | Fri, 26 Sep 2025 16:34:43 GMT | Detecting the Breach: A Walkthrough of TryHackMe’s Linux Threat Detection Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/2ad2fdcc88e8) |
 | Fri, 26 Sep 2025 16:33:30 GMT | How I found a simple MFA bypass | Yusuf | [Read More](https://medium.com/p/7944687bd86c) |
@@ -101,16 +114,3 @@ Today, a zero-day exploit was confirmed… | Abdifatah Hassan Roble | [Read More
 | Fri, 26 Sep 2025 13:13:13 GMT | Rethinking “Left of Boom” and “Right of Boom” in Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/08d65da2f707) |
 | Fri, 26 Sep 2025 13:07:21 GMT | Malware Analizine Giriş | Busraugur | [Read More](https://medium.com/p/3eb3c9a754a0) |
 | Fri, 26 Sep 2025 13:06:10 GMT | Why VAPT Is Essential in 2025 (And How It Keeps Businesses Ahead of Threats) | Co-Ventech | [Read More](https://medium.com/p/300271f4726a) |
-| Fri, 26 Sep 2025 13:05:23 GMT | How I Bypass Firewalls by Locating the Origin Server | Ibtissam hammadi | [Read More](https://medium.com/p/c9cc271cb224) |
-| Fri, 26 Sep 2025 13:04:48 GMT | The Words I Never Said Out Loud | Darpan Murly | [Read More](https://medium.com/p/3e2b226cf536) |
-| Fri, 26 Sep 2025 13:01:57 GMT | What is Shoulder Surfing? The Low-tech Identity Theft Threat You’re Overlooking | Spokeo People Search | [Read More](https://medium.com/p/7b5cc009c34e) |
-| Fri, 26 Sep 2025 13:01:51 GMT | Crypto Security: Why 2FA is Your Best Friend | Farhad Ali | [Read More](https://medium.com/p/783029798c1a) |
-| Fri, 26 Sep 2025 12:59:05 GMT | The Rijndael Serpent — Mouth of the Obfuscation | Rain Ginsberg | [Read More](https://medium.com/p/f876b71d6acb) |
-| Fri, 26 Sep 2025 12:53:59 GMT | The Relationship Between Artificial Intelligence and Cybersecurity | Nima.Hamdi | [Read More](https://medium.com/p/6b95bdd9328c) |
-| Fri, 26 Sep 2025 12:52:18 GMT | The Hidden Machinery of the Internet “Refund Scam” | Internet Exposed | [Read More](https://medium.com/p/eb77a96305c1) |
-| Fri, 26 Sep 2025 12:50:45 GMT | Using Warp Terminal For Pentesting | Majix | [Read More](https://medium.com/p/5dacbbc4fdd5) |
-| Fri, 26 Sep 2025 12:37:53 GMT | Drosera: Building an Immune System for Web3 | Soch | [Read More](https://medium.com/p/1af6122e6387) |
-| Fri, 26 Sep 2025 12:31:50 GMT | Want to Become the TOP 0.1% of DevOps Engineers? Do THIS | Tanishq Arora | [Read More](https://medium.com/p/d16796944dc1) |
-| Fri, 26 Sep 2025 12:26:42 GMT | How to Spoof MAC Address (Windows/Linux) | Mohsin Shoaib | [Read More](https://medium.com/p/d567bfbe6507) |
-| Fri, 26 Sep 2025 12:23:05 GMT | API Güvenliği Üzerine Notlar | Burakozbey | [Read More](https://medium.com/p/44fe6eda177f) |
-| Fri, 26 Sep 2025 12:22:14 GMT | Zero-Days and Active Exploits Dominate This Week’s Cyber Landscape | Loginsoft | [Read More](https://medium.com/p/04c5dfd493fa) |
