@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 03:43:37 GMT | Key to the Kingdom: How I Found API Secrets Hiding in Plain Sight in JavaScript Files | Iski | [Read More](https://medium.com/p/2f92ab1dfe63) |
+| Fri, 26 Sep 2025 03:31:48 GMT | From Free Nuggets to Full Access: How a Snack Craving Unwrapped McDonald’s Security Flaws | Deven Chhajed | [Read More](https://medium.com/p/172d8d1bb7b8) |
+| Fri, 26 Sep 2025 03:31:31 GMT | Inclusive Web Recognized by Fast Company’s 2025 Innovation by Design Awards for Accessibility… | Emma Lyons | [Read More](https://medium.com/p/c8d12e6db4b1) |
+| Fri, 26 Sep 2025 03:19:44 GMT | Lab-based deep dive / research on Windows Defender detection and evasion techniques using… | Omarelsayed | [Read More](https://medium.com/p/3bcd12a60dad) |
+| Fri, 26 Sep 2025 03:17:32 GMT | Reflection: My Journey Training 2000+ Professionals Worldwide | Dr. Deep Pandey | [Read More](https://medium.com/p/79c272459820) |
+| Fri, 26 Sep 2025 03:02:37 GMT | timely purse LOAN APP CUSTOMER care helpline number (1800).@!! | Hepoy Fs | [Read More](https://medium.com/p/0a66ab168e2a) |
+| Fri, 26 Sep 2025 02:58:33 GMT | Why DevOps Engineers Earn More Than Traditional IT Pros | J. David Smith | [Read More](https://medium.com/p/74e36d170540) |
 | Fri, 26 Sep 2025 02:55:52 GMT | Yellowknife Recovers from Cybersecurity Incident: Most City Services Restored | SafetyDetectives Research Team | [Read More](https://medium.com/p/a5033e2d7060) |
+| Fri, 26 Sep 2025 02:54:15 GMT | SonicWall Confirms Cloud Backup Breach Impacting Firewall Configuration Files | SafetyDetectives Research Team | [Read More](https://medium.com/p/c8ba6a69f13c) |
 | Fri, 26 Sep 2025 02:47:45 GMT | TryHackMe #56 - Vulnerability Scanner Overview | 0xGroot | [Read More](https://medium.com/p/48070fbb807a) |
 | Fri, 26 Sep 2025 02:46:02 GMT | Why Your Broken Parts Are Your Most Beautiful | Mayukh Sarma | [Read More](https://medium.com/p/54be171aa948) |
 | Fri, 26 Sep 2025 02:43:00 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools: Part 1 | Robert Onyango | [Read More](https://medium.com/p/37dc1a71be7f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 25 Sep 2025 17:46:09 GMT | Siber Güvenlik 101 — SOC(Security Operations Center) | Sude Çoban | [Read More](https://medium.com/p/e1e949092697) |
 | Thu, 25 Sep 2025 17:45:04 GMT | Walkthrough of XSS Challenges (by yamagata21) | Arnav Vaidya | [Read More](https://medium.com/p/6e43c388235f) |
 | Thu, 25 Sep 2025 17:44:32 GMT | Your Cisco Network Just Became a Hacker’s Playground | Anika | [Read More](https://medium.com/p/a15d92630574) |
-| Thu, 25 Sep 2025 17:41:39 GMT | Vulnerability Scanning With OpenVAS | Sonobia James | [Read More](https://medium.com/p/72f2ffb9ea6c) |
-| Thu, 25 Sep 2025 17:39:36 GMT | Ukrainian cyber operatives disrupt Russian banking payment system, intelligence source says | Arthur | [Read More](https://medium.com/p/ab9124728ad5) |
-| Thu, 25 Sep 2025 17:37:09 GMT | First Steps in Networks | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/535eb8749809) |
-| Thu, 25 Sep 2025 17:28:42 GMT | Siber Savaşın Şifresi: Tehdit İstihbaratını (CTI) Tersine Mühendislikle Nasıl Üretiriz? | Şeyma Erol | [Read More](https://medium.com/p/cbd911d799bc) |
-| Thu, 25 Sep 2025 17:27:36 GMT | The Shadows in Modern IT | Niclas Kjellin | [Read More](https://medium.com/p/86d0d48c7e66) |
-| Thu, 25 Sep 2025 17:23:55 GMT | AI Security Tools — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/7a454bb70d00) |
-| Thu, 25 Sep 2025 17:21:15 GMT | Indian Army Terrier Cyber Quest 2025 CTF Writeup | Leris | [Read More](https://medium.com/p/e19c47f0f265) |
-| Thu, 25 Sep 2025 17:16:40 GMT | Why Agentic AI Is More Dangerous Than Deepfakes | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/732005b2f356) |
