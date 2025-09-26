@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 26 Sep 2025 11:32:43 GMT | How to Create Strong and Memorable Passwords | Nagaraj | [Read More](https://medium.com/p/55078ff8db6b) |
+| Fri, 26 Sep 2025 11:32:42 GMT | How Managed IT Services Help Small Businesses in Los Angeles | Managed IT Services | [Read More](https://medium.com/p/56a7bc778267) |
+| Fri, 26 Sep 2025 11:29:32 GMT | Chain Link Fencing in Saudi Arabia: Security, Durability & Value (سياج شبكي معدني) | Hitechfence | [Read More](https://medium.com/p/1c2ed0e979d9) |
+| Fri, 26 Sep 2025 11:23:57 GMT | CTF@AC — Quals Writeup | hardw01f | [Read More](https://medium.com/p/160d74d2d2c5) |
+| Fri, 26 Sep 2025 11:23:23 GMT | Top 10 Cybersecurity Certifications for High-Paying Jobs in 2025 | Maxon Codes | [Read More](https://medium.com/p/1c2f1c8c0d9a) |
+| Fri, 26 Sep 2025 11:21:49 GMT | 3 Writing Lessons You’ll Never Find in a Productivity App | Jim Teague | [Read More](https://medium.com/p/3fd6f5d09941) |
+| Fri, 26 Sep 2025 11:20:55 GMT | AI Is Rising Fast — But Can Data Security Keep Up? | Aylin Karaoglu | [Read More](https://medium.com/p/86bb67e5b140) |
+| Fri, 26 Sep 2025 11:19:01 GMT | Kenapa Saya Memilih Belajar Cyber Security dari Nol | hafid hajar | [Read More](https://medium.com/p/2c1508eecb34) |
+| Fri, 26 Sep 2025 11:09:33 GMT | Building trust in crypto: security, audits, and the architecture of Sky Coin | XSOCOIN | [Read More](https://medium.com/p/bb98bd519923) |
 | Fri, 26 Sep 2025 11:01:48 GMT | 393 Days Undetected: Inside the China-Linked Supply Chain Attacks | Brittney Ginther | [Read More](https://medium.com/p/207db7f02111) |
 | Fri, 26 Sep 2025 11:00:35 GMT | Triple Threat in Cisco VPN Infrastructure: Dissecting CVE-2025–20363, CVE-2025–20333, and… | gm0 | [Read More](https://medium.com/p/c46ce43a5bc5) |
 | Fri, 26 Sep 2025 10:58:58 GMT | How to Build a Vulnerability Management Strategy for Cloud Environment | Digital Defense | [Read More](https://medium.com/p/5f2634a93999) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 06:33:43 GMT | Launch a Deauthentication Attack with ParrotOS Live | Cataholic | [Read More](https://medium.com/p/69de285981d1) |
 | Fri, 26 Sep 2025 06:27:20 GMT | Linux Kernel Hacking: Modifying the Core | Eren Cankut Uysal | [Read More](https://medium.com/p/18f3a31516b2) |
 | Fri, 26 Sep 2025 06:17:40 GMT | Linux Security Modules: Implementing Custom Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/8e5c59961caf) |
-| Fri, 26 Sep 2025 06:16:39 GMT | Securing Critical Flutter Code Using FFI | Deepanshusondkar | [Read More](https://medium.com/p/7079d7aec75b) |
-| Fri, 26 Sep 2025 06:10:26 GMT | Top 10 Cyber Security Certifications with High Salary | Manisha Chaudhary | [Read More](https://medium.com/p/a36c22604b65) |
-| Fri, 26 Sep 2025 06:09:34 GMT | Fighting Deepfakes: Building a Detection System | Mr Parasite | [Read More](https://medium.com/p/7ac112219c8c) |
-| Fri, 26 Sep 2025 06:07:29 GMT | 11 Data Science Projects So Unique, They Got Me Job Offers Without Applying | Fateyaly | [Read More](https://medium.com/p/02e0c83fde9c) |
-| Fri, 26 Sep 2025 06:06:07 GMT | Why Industry-Specific Cybersecurity Statistics Matter in 2025 | TheReviewHive | [Read More](https://medium.com/p/1345baaab98f) |
-| Fri, 26 Sep 2025 06:05:27 GMT | Hiding Secrets in Plain Sight: My Hands-On With Steghide ️ | Medxploit | [Read More](https://medium.com/p/75f0db2d288d) |
-| Fri, 26 Sep 2025 05:59:43 GMT | SPARK Matrix™: Vendor Positioning in the Managed Detection & Response Market | Gargiben | [Read More](https://medium.com/p/7bdacacde704) |
-| Fri, 26 Sep 2025 05:55:54 GMT | Cortex Exposure Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/42ab32c4bf6d) |
-| Fri, 26 Sep 2025 05:52:28 GMT | SSL Best Practices to Keep Your Site Secure | Smit Pipaliya | [Read More](https://medium.com/p/8dff5d426a8a) |
