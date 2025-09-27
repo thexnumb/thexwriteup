@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 10:07:28 GMT | Why Choose SIS Certifications for ISO 27001 Certification in Dubai? | SIS Certifications | [Read More](https://medium.com/p/97244fd2dd63) |
+| Sat, 27 Sep 2025 09:59:20 GMT | Snapdragon 8 Elite Gen 5 Features Revealed: What’s New in 2025 | Grace Anderson | [Read More](https://medium.com/p/4c7c34d6e9d5) |
+| Sat, 27 Sep 2025 09:58:54 GMT | Till the End of the Line | Aniket Parmar | [Read More](https://medium.com/p/0c8321891c8c) |
+| Sat, 27 Sep 2025 09:58:09 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | NizzCorp Academy | [Read More](https://medium.com/p/274cb10836ec) |
+| Sat, 27 Sep 2025 09:57:42 GMT | Stop Credential Stuffing at the Source: Monitor Plain-Text Leaks Before Attackers Do | Alexandre Vandamme | [Read More](https://medium.com/p/8d803cd8fe8f) |
+| Sat, 27 Sep 2025 09:54:14 GMT | {THM}Bounty-hacker — writeup | Nihat Rashidli | [Read More](https://medium.com/p/930756b8c9fc) |
+| Sat, 27 Sep 2025 09:53:10 GMT | The 3 Cybersecurity Habits That Saved Me From a Major Breach | Arfa | [Read More](https://medium.com/p/5a23ccc6c0f6) |
+| Sat, 27 Sep 2025 09:51:50 GMT | What Hackers See When They Look at Your Computer | Arfa | [Read More](https://medium.com/p/0a7c87780848) |
+| Sat, 27 Sep 2025 09:50:25 GMT | Dog Handler Epaulettes Badge — Security, Close Protection, Quality Slide | Handembroideryuk | [Read More](https://medium.com/p/28fa1e75d66c) |
+| Sat, 27 Sep 2025 09:45:49 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/3f136d737d91) |
+| Sat, 27 Sep 2025 09:44:52 GMT | Beyond Bits: How 5D Cryptography is Reshaping Online Security and Privacy | Wilson Igbasi | [Read More](https://medium.com/p/4bf4bddb748b) |
+| Sat, 27 Sep 2025 09:42:35 GMT | CSV Injection on Public Bug Bounty Program | Ayush | [Read More](https://medium.com/p/0efaac6206cb) |
+| Sat, 27 Sep 2025 09:38:43 GMT | Workflow My Social Media Growth | Jamie | [Read More](https://medium.com/p/39d8c1ab0170) |
+| Sat, 27 Sep 2025 09:37:45 GMT | The Linux Process Journey — wpa_supplicant (Wi-Fi Protected Access client) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/cef744a71e00) |
 | Sat, 27 Sep 2025 09:32:53 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | Ashif | [Read More](https://medium.com/p/c50656517a61) |
 | Sat, 27 Sep 2025 09:24:43 GMT | 10 Major Problems with Microservices | Umesh Kumar Yadav | [Read More](https://medium.com/p/77c937707b3d) |
 | Sat, 27 Sep 2025 09:23:49 GMT | RSA Algorithm | Pawan Kalyan | [Read More](https://medium.com/p/b5213593c2c2) |
@@ -99,17 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Sat, 27 Sep 2025 03:31:58 GMT | Alleged PayPal Credential Dump: 15.8 Million Plaintext Logins Surface Online | Deven Chhajed | [Read More](https://medium.com/p/65d979d600c0) |
 | Sat, 27 Sep 2025 03:28:05 GMT | TryHackMe #58 - CAPA: The Basics | 0xGroot | [Read More](https://medium.com/p/c9401a251892) |
 | Sat, 27 Sep 2025 03:27:30 GMT | WAIT! Watch This Before Scrolling — They Can Own Your Business Name Online! | Cyberwise | [Read More](https://medium.com/p/dac3700caf82) |
-| Sat, 27 Sep 2025 03:22:05 GMT | TryHackMe #57 - CyberChef: The Basics | 0xGroot | [Read More](https://medium.com/p/d3f977eae8cb) |
-| Sat, 27 Sep 2025 03:18:00 GMT | The Cybersecurity Scripts That Saved Me Hundreds of Hours | Arfa | [Read More](https://medium.com/p/4ceccf4a2a8f) |
-| Sat, 27 Sep 2025 03:06:12 GMT | Q3 2025: Anatomy of a Global Digital Siege | Rodrigo Gutierrez | [Read More](https://medium.com/p/dff143644a46) |
-| Sat, 27 Sep 2025 03:02:01 GMT | Russia’s Hybrid War Hits Romania — Drones, Lies, and Spies | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/45a15bca7776) |
-| Sat, 27 Sep 2025 02:59:51 GMT | The Experimentation Mindset: Hacking Growth with A/B Testing and Data Science | Muhammad Muhsi Sidik | [Read More](https://medium.com/p/a1486663a2a7) |
-| Sat, 27 Sep 2025 02:44:07 GMT | 每次 ChatGPT 延遲的背後，其實是小博士在翻書冒汗 | 櫻若葉 | [Read More](https://medium.com/p/01825e433124) |
-| Sat, 27 Sep 2025 02:43:15 GMT | Black swans, armchair quarterbacks, and post-event Cassandras | OWilliams | [Read More](https://medium.com/p/3e80594751ae) |
-| Sat, 27 Sep 2025 02:38:57 GMT | How to delete porn videos from Internet? | Donley Mark | [Read More](https://medium.com/p/0eadc2d2eb3e) |
-| Sat, 27 Sep 2025 02:38:49 GMT | Unauthenticated WIFI Password Disclosure Wavlink | ice-wzl | [Read More](https://medium.com/p/8154bef70420) |
-| Sat, 27 Sep 2025 02:36:30 GMT | The Ransomware-Cryptocurrency Nexus: Why Disabling Digital Money Won’t Stop Digital Extortion | David SEHYEON Baek | [Read More](https://medium.com/p/94cade4e4c3e) |
-| Sat, 27 Sep 2025 02:31:49 GMT | The “Parenting Philosophy” for the AI Age: Teaching AI to Resist “Product Placement” Deception | Scott Huang | [Read More](https://medium.com/p/b46079aec220) |
-| Sat, 27 Sep 2025 02:30:24 GMT | Zero Click Indirect Prompt Injection in Enterprise AI Assistants | Yoel Apu | [Read More](https://medium.com/p/a2c9f532fad1) |
-| Sat, 27 Sep 2025 02:01:52 GMT | Holmes CTF 2025 การจัดทีมครั้งแรกของเหล่ายอดมนุษย์นักพิสูจน์หลักฐานดิจิทัลเพื่อคว้าอันดับที่ 1… | Chicken0248 | [Read More](https://medium.com/p/11a156cd7078) |
-| Sat, 27 Sep 2025 01:32:08 GMT | Amazing Python Projects That Surprised Even Me | Kainat Nafees | [Read More](https://medium.com/p/8c0aa38c516d) |
