@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 02:38:49 GMT | Unauthenticated WIFI Password Disclosure Wavlink | ice-wzl | [Read More](https://medium.com/p/8154bef70420) |
+| Sat, 27 Sep 2025 02:01:52 GMT | Holmes CTF 2025 การจัดทีมครั้งแรกของเหล่ายอดมนุษย์นักพิสูจน์หลักฐานดิจิทัลเพื่อคว้าอันดับที่ 1… | Chicken0248 | [Read More](https://medium.com/p/11a156cd7078) |
+| Sat, 27 Sep 2025 01:32:08 GMT | Amazing Python Projects That Surprised Even Me | Kainat Nafees | [Read More](https://medium.com/p/8c0aa38c516d) |
 | Sat, 27 Sep 2025 01:16:48 GMT | The Defensive Hacker’s Guide to Python: Build Tools That Protect, Not Destroy | Arfa | [Read More](https://medium.com/p/7bfb5303a032) |
 | Sat, 27 Sep 2025 01:02:05 GMT | How Twingate Turned My Network Into a Zero-Trust Paradise | MARLON MUTIANGPILI | [Read More](https://medium.com/p/412ce9540548) |
 | Sat, 27 Sep 2025 00:40:10 GMT | What is Networking? | w4llnut_ | [Read More](https://medium.com/p/8c764143dfd2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 16:51:54 GMT | Expert Static Guard Services for Peace of Mind | Professional UK Services | [Read More](https://medium.com/p/ff2f931a5746) |
 | Fri, 26 Sep 2025 16:49:55 GMT | Turn Your Security Findings Into Automated Checks | Teri Radichel | [Read More](https://medium.com/p/0a08efe57358) |
 | Fri, 26 Sep 2025 16:49:41 GMT | Fortigate Web Filter Profili Nasıl Oluşturulur? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/3ac89631df35) |
-| Fri, 26 Sep 2025 16:45:11 GMT | The Hidden Gatekeepers of the Internet: The CAPTCHAs | Graceverse | [Read More](https://medium.com/p/4621d227c07a) |
-| Fri, 26 Sep 2025 16:44:47 GMT | Packet Capture with Wireshark: Understanding Browser Traffic from a VM | Venkanna chowdary penubothu | [Read More](https://medium.com/p/b8cb07375254) |
-| Fri, 26 Sep 2025 16:42:39 GMT | The Biggest Security Mistake: Why You’re Not Backing Up Your Data | Ehsanm135 | [Read More](https://medium.com/p/ce60b985e184) |
