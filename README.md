@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 21:31:33 GMT | Les Sciences Cognitives de l’Intelligence Artificielle | Loveson VILSENAT | [Read More](https://medium.com/p/2dfa4d9323ba) |
+| Sat, 27 Sep 2025 21:24:26 GMT | Part 5: From backyard to battlefield, Navigation. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/3f610c561f4d) |
 | Sat, 27 Sep 2025 21:11:52 GMT | From a 503 Page to a Critical Bug: Exposing Sensitive Data | Ibtissam hammadi | [Read More](https://medium.com/p/3eade22d7f27) |
 | Sat, 27 Sep 2025 20:53:06 GMT | Securing Software-Defined Networks | Cyber Security Research | [Read More](https://medium.com/p/fb56391cba3b) |
 | Sat, 27 Sep 2025 20:47:17 GMT | Unlocking Security: Symmetric vs Asymmetric Encryption Explained | CyberPhoenix | [Read More](https://medium.com/p/bb3eb6ba175f) |
@@ -111,5 +113,3 @@ Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) 
 | Sat, 27 Sep 2025 13:31:44 GMT | Steps to Create an Information Security Foundation | seenivasan V | [Read More](https://medium.com/p/2513d3a630ce) |
 | Sat, 27 Sep 2025 13:20:00 GMT | “Wait…” | Christabel | [Read More](https://medium.com/p/8066026b7cb6) |
 | Sat, 27 Sep 2025 13:19:30 GMT | Should I Click???? | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/68bb341d7aa4) |
-| Sat, 27 Sep 2025 13:09:23 GMT | When Love Becomes a Lie: The Romance Scam That Almost Destroyed My Friend’s Faith in Everything | Napoleon Beltran | [Read More](https://medium.com/p/44513682ee2c) |
-| Sat, 27 Sep 2025 13:06:22 GMT | Classroom Computer Monitoring with SentryPC: The Future of School Security and Student Safety | Paul Meyer | [Read More](https://medium.com/p/d05552a18bbd) |
