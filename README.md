@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 09:32:53 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | Ashif | [Read More](https://medium.com/p/c50656517a61) |
+| Sat, 27 Sep 2025 09:24:43 GMT | 10 Major Problems with Microservices | Umesh Kumar Yadav | [Read More](https://medium.com/p/77c937707b3d) |
+| Sat, 27 Sep 2025 09:23:49 GMT | RSA Algorithm | Pawan Kalyan | [Read More](https://medium.com/p/b5213593c2c2) |
+| Sat, 27 Sep 2025 09:22:20 GMT | Cybersecurity: The Core of Digital Secrecy | Aaronnsajuli | [Read More](https://medium.com/p/d17f38242425) |
+| Sat, 27 Sep 2025 09:15:12 GMT | Microsoft’s New Internet ‘Super-Shield’: Explaining Entra Global Secure Access in Simple Terms | Janith Sandamal | [Read More](https://medium.com/p/8540032d1ac1) |
 | Sat, 27 Sep 2025 09:14:56 GMT | Is Low-Cost VPS Hosting Really Secure: Here’s What You Need to Know? | Ann Taylor | [Read More](https://medium.com/p/e847505be9ac) |
 | Sat, 27 Sep 2025 09:14:48 GMT | How to prove that your organization is secured?(Penetration Testing and red teaming) | Marwan Alsaifi | [Read More](https://medium.com/p/7fb497fce1a9) |
 | Sat, 27 Sep 2025 09:01:57 GMT | ⚙️ Active Directory Privilege Escalation Techniques — Detection, Forensics, and Defense | Esra Kayhan | [Read More](https://medium.com/p/1efb5f7c5ea6) |
@@ -39,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 07:47:50 GMT | Cybersecurity in Smart Grids | Cyber Security Research | [Read More](https://medium.com/p/cd5f87126608) |
 | Sat, 27 Sep 2025 07:45:28 GMT | The Affirmation That Finally Shattered My Fake Smile | SuperGlow | [Read More](https://medium.com/p/4b7218e60693) |
 | Sat, 27 Sep 2025 07:45:06 GMT | Ethical Hacking for Beginners | M M A AL NOMAN | [Read More](https://medium.com/p/1d8928e03105) |
+| Sat, 27 Sep 2025 07:41:19 GMT | Cybersecurity and Critical Humanitarian Services | Cyber Security Research | [Read More](https://medium.com/p/0abfb486f67b) |
 | Sat, 27 Sep 2025 07:38:23 GMT | How Hackers Guess Your Password in Minutes | Aj | [Read More](https://medium.com/p/b6d9f55ff6ae) |
 | Sat, 27 Sep 2025 07:35:06 GMT | When Did Being Human Become So Wrong? | Drrachnashah | [Read More](https://medium.com/p/0d177597db0a) |
 | Sat, 27 Sep 2025 07:35:03 GMT | Digital Risk Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/6ecbf7fdd22f) |
@@ -107,9 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Sat, 27 Sep 2025 02:30:24 GMT | Zero Click Indirect Prompt Injection in Enterprise AI Assistants | Yoel Apu | [Read More](https://medium.com/p/a2c9f532fad1) |
 | Sat, 27 Sep 2025 02:01:52 GMT | Holmes CTF 2025 การจัดทีมครั้งแรกของเหล่ายอดมนุษย์นักพิสูจน์หลักฐานดิจิทัลเพื่อคว้าอันดับที่ 1… | Chicken0248 | [Read More](https://medium.com/p/11a156cd7078) |
 | Sat, 27 Sep 2025 01:32:08 GMT | Amazing Python Projects That Surprised Even Me | Kainat Nafees | [Read More](https://medium.com/p/8c0aa38c516d) |
-| Sat, 27 Sep 2025 01:16:48 GMT | The Defensive Hacker’s Guide to Python: Build Tools That Protect, Not Destroy | Arfa | [Read More](https://medium.com/p/7bfb5303a032) |
-| Sat, 27 Sep 2025 01:02:05 GMT | How Twingate Turned My Network Into a Zero-Trust Paradise | MARLON MUTIANGPILI | [Read More](https://medium.com/p/412ce9540548) |
-| Sat, 27 Sep 2025 00:40:10 GMT | What is Networking? | w4llnut_ | [Read More](https://medium.com/p/8c764143dfd2) |
-| Sat, 27 Sep 2025 00:32:04 GMT | From Hurd to seL4: How Stallman’s Microkernel Vision Stood the Test of Time | ThamizhElango Natarajan | [Read More](https://medium.com/p/1a3091043315) |
-| Sat, 27 Sep 2025 00:19:04 GMT | Gobuster: The Basics - THM | Isiah | [Read More](https://medium.com/p/4717f8dd1361) |
-| Sat, 27 Sep 2025 00:06:13 GMT | Holehe: La herramienta de investigación de correo electrónico que necesitas para OSINT | Kaelidium | [Read More](https://medium.com/p/ebeeba039b5d) |
