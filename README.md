@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 16:58:24 GMT | PG Practice — Apex (Linux) | Lepton | [Read More](https://medium.com/p/26940f5674ed) |
+| Sat, 27 Sep 2025 16:49:45 GMT | Engineering Smarter Factories: The Practical Coding Path to AI-Driven IoT 4.0 | Mohnish Tiwari | [Read More](https://medium.com/p/79d7956a5d68) |
 | Sat, 27 Sep 2025 16:33:14 GMT | The Great SIEM Bake-Off: Is Your SOC About to Get Burned? | Matt Snyder | [Read More](https://medium.com/p/71fd96ad1fee) |
 | Sat, 27 Sep 2025 16:30:23 GMT | The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down | Aditya Bhatt | [Read More](https://medium.com/p/37431757472f) |
 | Sat, 27 Sep 2025 16:30:23 GMT | The First MOLE Update: A new feature and some streamlining. | Emma Waterman | [Read More](https://medium.com/p/be0cf2fdd1fc) |
@@ -112,5 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 09:51:50 GMT | What Hackers See When They Look at Your Computer | Arfa | [Read More](https://medium.com/p/0a7c87780848) |
 | Sat, 27 Sep 2025 09:50:25 GMT | Dog Handler Epaulettes Badge — Security, Close Protection, Quality Slide | Handembroideryuk | [Read More](https://medium.com/p/28fa1e75d66c) |
 | Sat, 27 Sep 2025 09:45:49 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/3f136d737d91) |
-| Sat, 27 Sep 2025 09:44:52 GMT | Beyond Bits: How 5D Cryptography is Reshaping Online Security and Privacy | Wilson Igbasi | [Read More](https://medium.com/p/4bf4bddb748b) |
-| Sat, 27 Sep 2025 09:42:35 GMT | CSV Injection on Public Bug Bounty Program | Ayush | [Read More](https://medium.com/p/0efaac6206cb) |
