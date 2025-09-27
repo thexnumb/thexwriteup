@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 20:14:47 GMT | Project 1: Making Sense of Mobile App Security: My First Dashboard | umida murat | [Read More](https://medium.com/p/e863ef157e82) |
+| Sat, 27 Sep 2025 20:11:08 GMT | The Most Common Computer Problems (and How to Fix Them) | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/b6548d555ce6) |
+| Sat, 27 Sep 2025 20:10:03 GMT | Why OSINT is Essential for Businesses and Individuals | Shohel Rana | [Read More](https://medium.com/p/23181227c799) |
+| Sat, 27 Sep 2025 20:02:58 GMT | DIY vs. Professional Computer Repair: When to Call an Expert | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/ae885fdb45f6) |
+| Sat, 27 Sep 2025 20:00:57 GMT | Windows 10 Support is Ending: What You Need to Know | Raviteja Mureboina | [Read More](https://medium.com/p/8fc1a5bdfa56) |
+| Sat, 27 Sep 2025 19:51:40 GMT | Becoming Virtually Untraceable — #9–25_UnM45k!ng_W4tcH3r5.png | z3r0trust | [Read More](https://medium.com/p/caf353464c63) |
+| Sat, 27 Sep 2025 19:47:22 GMT | Signs Your Computer Needs Repair Before It Completely Breaks Down | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/2443b67594ff) |
+| Sat, 27 Sep 2025 19:37:05 GMT | How I Built an AI-Powered Chrome Extension to Detect Malicious Websites!! | Hanish | [Read More](https://medium.com/p/4e8acbcd8ad6) |
+| Sat, 27 Sep 2025 19:36:15 GMT | #2 File Upload Attacks: A Comprehensive Guide | Imvkale | [Read More](https://medium.com/p/3308cd48e815) |
 | Sat, 27 Sep 2025 19:26:37 GMT | Tor IP Changer Setup Guide | Cybersecplayground | [Read More](https://medium.com/p/588acd3590d6) |
 | Sat, 27 Sep 2025 19:25:49 GMT | Strange But True: How People Make a Living Writing Fake Product Reviews | LokieGamer | [Read More](https://medium.com/p/c3d660d4c2b5) |
 | Sat, 27 Sep 2025 19:16:06 GMT | My Top 7 Browser Extensions for API Penetration Testing | Andrei Ivan | [Read More](https://medium.com/p/02298d529b30) |
@@ -104,12 +113,3 @@ Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) 
 | Sat, 27 Sep 2025 12:22:42 GMT | Understanding IDOR: One of the Most Overlooked Security Flaws | Nilesh Kale | [Read More](https://medium.com/p/4f982ef5c4d1) |
 | Sat, 27 Sep 2025 12:18:01 GMT | OffSec: Nagoya— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/c80e6e215a22) |
 | Sat, 27 Sep 2025 12:12:31 GMT | A Simple Explanation of a Complex 2FA Bypass Technique | Ibtissam hammadi | [Read More](https://medium.com/p/de8b1db064a0) |
-| Sat, 27 Sep 2025 12:05:00 GMT | When Hackers Meet Their Match: How AI is Changing Cybersecurity | Whitney Ninsiima Shillingi | [Read More](https://medium.com/p/13b05fd0e1df) |
-| Sat, 27 Sep 2025 12:01:47 GMT | Are we losing our identities?Controlling Immigration in an Age of Declining Populations | Tom Luu | [Read More](https://medium.com/p/d804cf8f1489) |
-| Sat, 27 Sep 2025 12:00:07 GMT | My 5-Minute Workflow to Find Bugs on Any Website | coffinxp | [Read More](https://medium.com/p/c20075320c96) |
-| Sat, 27 Sep 2025 11:56:34 GMT | Beyond the Firewall: AI’s Hidden Assault on Physical Access Systems (Part I) | Jeffrey Nickle | [Read More](https://medium.com/p/5070aaaf96c4) |
-| Sat, 27 Sep 2025 11:54:42 GMT | 273,160 Bank Transfer Records Exposed: Inside recent India’s Shocking Banking Data Breach!! | Phani Reddy | [Read More](https://medium.com/p/a53be2b69a9b) |
-| Sat, 27 Sep 2025 11:39:41 GMT | From College Project to 400+ GitHub Stars: The Story of AIJack | Hideaki Takahashi | [Read More](https://medium.com/p/9b5797b206cb) |
-| Sat, 27 Sep 2025 11:34:16 GMT | Website Security Best Practices: Essential Steps for a Safer Digital Presence | Redfern Thomas | [Read More](https://medium.com/p/a1f0d5447315) |
-| Sat, 27 Sep 2025 11:31:49 GMT | Understanding Malware Analysis: A Beginner-Friendly Guide | NizzCorp Academy | [Read More](https://medium.com/p/d9964f9ac2a2) |
-| Sat, 27 Sep 2025 11:30:46 GMT | A bug, ami utat mutat | Kata Molnár | [Read More](https://medium.com/p/edceda30a249) |
