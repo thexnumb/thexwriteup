@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 19:26:37 GMT | Tor IP Changer Setup Guide | Cybersecplayground | [Read More](https://medium.com/p/588acd3590d6) |
+| Sat, 27 Sep 2025 19:25:49 GMT | Strange But True: How People Make a Living Writing Fake Product Reviews | LokieGamer | [Read More](https://medium.com/p/c3d660d4c2b5) |
+| Sat, 27 Sep 2025 19:16:06 GMT | My Top 7 Browser Extensions for API Penetration Testing | Andrei Ivan | [Read More](https://medium.com/p/02298d529b30) |
+| Sat, 27 Sep 2025 19:15:08 GMT | Drosera: The Immune System Protecting Ethereum from Exploits | bsquarebankz | [Read More](https://medium.com/p/40b3889ace16) |
+| Sat, 27 Sep 2025 19:11:13 GMT | What Is Threat Intelligence and How Does It Work in 2025? | UpTech Solution | [Read More](https://medium.com/p/696c30b1db90) |
 | Sat, 27 Sep 2025 19:03:55 GMT | Python Based CLI Password Generator | Adewale Opeloyeru | [Read More](https://medium.com/p/bc8a355b58a7) |
 | Sat, 27 Sep 2025 19:01:22 GMT | Nefedov Oleg and Black Basta: Creativity Meets Technology | Macholmes | [Read More](https://medium.com/p/1dbcac0b2265) |
 | Sat, 27 Sep 2025 18:55:16 GMT | jQuery? SetUp | Raihan Zhaky | [Read More](https://medium.com/p/74a778c0a2d8) |
@@ -108,8 +113,3 @@ Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) 
 | Sat, 27 Sep 2025 11:34:16 GMT | Website Security Best Practices: Essential Steps for a Safer Digital Presence | Redfern Thomas | [Read More](https://medium.com/p/a1f0d5447315) |
 | Sat, 27 Sep 2025 11:31:49 GMT | Understanding Malware Analysis: A Beginner-Friendly Guide | NizzCorp Academy | [Read More](https://medium.com/p/d9964f9ac2a2) |
 | Sat, 27 Sep 2025 11:30:46 GMT | A bug, ami utat mutat | Kata Molnár | [Read More](https://medium.com/p/edceda30a249) |
-| Sat, 27 Sep 2025 11:28:58 GMT | Cybersecurity: A Small Guide for Small Businesses | Aleksander Gorkowienko | [Read More](https://medium.com/p/d080023438db) |
-| Sat, 27 Sep 2025 11:28:39 GMT | CyberTalents : CloseCV writeup - by DeveloperHacker | Developer Hacker | [Read More](https://medium.com/p/aadf30829c45) |
-| Sat, 27 Sep 2025 11:26:06 GMT | Introducing Java 25 The Future of Reliable, Scalable, and Secure Development | Ashish Dhaware | [Read More](https://medium.com/p/a7eef42fbfa4) |
-| Sat, 27 Sep 2025 11:12:12 GMT | The Hidden Cost of Uploading: Data Privacy in the Age of AI | Anilesh Mukherjee | [Read More](https://medium.com/p/1aa8590043b0) |
-| Sat, 27 Sep 2025 11:11:38 GMT | {THM}Pickle-rick — writeup | Nihat Rashidli | [Read More](https://medium.com/p/e3b781950074) |
