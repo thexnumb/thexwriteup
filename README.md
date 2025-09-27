@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 03:42:28 GMT | Escalating an HTML Injection into 1-Click Account Takeover | Marx Chryz Del Mundo | [Read More](https://medium.com/p/3ba9dbf0ce5f) |
+| Sat, 27 Sep 2025 03:38:05 GMT | TryHackMe #59 - REMnux: Getting Started | 0xGroot | [Read More](https://medium.com/p/718badc5f7dd) |
+| Sat, 27 Sep 2025 03:31:58 GMT | API Pentesting Part 4: Broken Object Level Authorization -The Silent Identity Swap | Blue_eye | [Read More](https://medium.com/p/b6f38a4f8d10) |
+| Sat, 27 Sep 2025 03:31:58 GMT | Alleged PayPal Credential Dump: 15.8 Million Plaintext Logins Surface Online | Deven Chhajed | [Read More](https://medium.com/p/65d979d600c0) |
+| Sat, 27 Sep 2025 03:28:05 GMT | TryHackMe #58 - CAPA: The Basics | 0xGroot | [Read More](https://medium.com/p/c9401a251892) |
 | Sat, 27 Sep 2025 03:27:30 GMT | WAIT! Watch This Before Scrolling — They Can Own Your Business Name Online! | Cyberwise | [Read More](https://medium.com/p/dac3700caf82) |
 | Sat, 27 Sep 2025 03:22:05 GMT | TryHackMe #57 - CyberChef: The Basics | 0xGroot | [Read More](https://medium.com/p/d3f977eae8cb) |
 | Sat, 27 Sep 2025 03:18:00 GMT | The Cybersecurity Scripts That Saved Me Hundreds of Hours | Arfa | [Read More](https://medium.com/p/4ceccf4a2a8f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 17:45:51 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking | Nandana Vipul | [Read More](https://medium.com/p/4c8f185d5ba1) |
 | Fri, 26 Sep 2025 17:43:44 GMT | Guarding the Gates: A SOC Analyst’s Guide to Network Perimeter Defense ️Network Security… | Furkanctiner | [Read More](https://medium.com/p/aaf26486fb4d) |
 | Fri, 26 Sep 2025 17:42:34 GMT | From Registration Number Enumeration to Dos: Chaining IDOR with OTP Bypass in Slot Booking System | Pa11av1 | [Read More](https://medium.com/p/1444414a0fb4) |
-| Fri, 26 Sep 2025 17:40:47 GMT | RSA Algorithm using Split Complex Numbers Approach | Sathish Badampudi | [Read More](https://medium.com/p/a79093e3ef4d) |
-| Fri, 26 Sep 2025 17:40:42 GMT | DNS Spoofing: The Invisible Threat Redirecting Your Online Journey | SafeAeon Inc. | [Read More](https://medium.com/p/20be962584b4) |
-| Fri, 26 Sep 2025 17:35:22 GMT | SCA Security: Why Software Composition Analysis Matters for Modern Applications | SafeAeon Inc. | [Read More](https://medium.com/p/edc434e0884d) |
-| Fri, 26 Sep 2025 17:34:46 GMT | Siber Güvenlik 101 — Reverse Engineering (Tersine Mühendislik) | Sude Çoban | [Read More](https://medium.com/p/063ee6b8eca3) |
-| Fri, 26 Sep 2025 17:34:18 GMT | Things You Should Know Before Getting Into Cybersecurity | Fisayo K | [Read More](https://medium.com/p/61dfad586b21) |
