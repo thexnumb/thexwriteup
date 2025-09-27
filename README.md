@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 17:30:33 GMT | Hacking AI: Real Attack Vectors & Defenses Against Deepfakes | Motasem Hamdan | [Read More](https://medium.com/p/c217d9720880) |
+| Sat, 27 Sep 2025 17:25:19 GMT | Why Microsoft, Google, and Apple Are All Going Passwordless by 2026 | Sohail Saifi | [Read More](https://medium.com/p/f60b9b76a427) |
+| Sat, 27 Sep 2025 17:21:34 GMT | Using LLMs to Boost Classical Machine Learning URL Classification Models. | Ernest Mugambi | [Read More](https://medium.com/p/25369d6051fb) |
+| Sat, 27 Sep 2025 17:13:57 GMT | Technology with Integrity: Why Trust is the Core of Our Business | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/6276cb241b01) |
 | Sat, 27 Sep 2025 16:58:24 GMT | PG Practice — Apex (Linux) | Lepton | [Read More](https://medium.com/p/26940f5674ed) |
 | Sat, 27 Sep 2025 16:49:45 GMT | Engineering Smarter Factories: The Practical Coding Path to AI-Driven IoT 4.0 | Mohnish Tiwari | [Read More](https://medium.com/p/79d7956a5d68) |
 | Sat, 27 Sep 2025 16:33:14 GMT | The Great SIEM Bake-Off: Is Your SOC About to Get Burned? | Matt Snyder | [Read More](https://medium.com/p/71fd96ad1fee) |
@@ -110,7 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 09:58:09 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | NizzCorp Academy | [Read More](https://medium.com/p/274cb10836ec) |
 | Sat, 27 Sep 2025 09:57:42 GMT | Stop Credential Stuffing at the Source: Monitor Plain-Text Leaks Before Attackers Do | Alexandre Vandamme | [Read More](https://medium.com/p/8d803cd8fe8f) |
 | Sat, 27 Sep 2025 09:54:14 GMT | {THM}Bounty-hacker — writeup | Nihat Rashidli | [Read More](https://medium.com/p/930756b8c9fc) |
-| Sat, 27 Sep 2025 09:53:10 GMT | The 3 Cybersecurity Habits That Saved Me From a Major Breach | Arfa | [Read More](https://medium.com/p/5a23ccc6c0f6) |
-| Sat, 27 Sep 2025 09:51:50 GMT | What Hackers See When They Look at Your Computer | Arfa | [Read More](https://medium.com/p/0a7c87780848) |
-| Sat, 27 Sep 2025 09:50:25 GMT | Dog Handler Epaulettes Badge — Security, Close Protection, Quality Slide | Handembroideryuk | [Read More](https://medium.com/p/28fa1e75d66c) |
-| Sat, 27 Sep 2025 09:45:49 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/3f136d737d91) |
