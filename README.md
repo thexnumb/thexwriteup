@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 14:09:07 GMT | The Books That Taught Me How to Think Like a Technologist | Aj | [Read More](https://medium.com/p/4d7ee7627114) |
+| Sat, 27 Sep 2025 14:04:09 GMT | Security as a Shared Responsibility: Why Users Matter Too | Abatis ABTU | [Read More](https://medium.com/p/6c11f81e6085) |
+| Sat, 27 Sep 2025 14:01:59 GMT | Part 2 :The Foundation of Information Security | Intelithics | [Read More](https://medium.com/p/072c95ae91a2) |
+| Sat, 27 Sep 2025 13:57:52 GMT | First-ever Malicious MCP Server in the Wild — A Deep, Practical Guide | Aenosh Rajora | [Read More](https://medium.com/p/b3f0fcba8580) |
+| Sat, 27 Sep 2025 13:45:14 GMT | The Cosmos of Digital Trust: A Journey Through Shadow AI and Zero Trust | Joao Silva | [Read More](https://medium.com/p/77582910cd86) |
+| Sat, 27 Sep 2025 13:42:17 GMT | The ‘Zero-Trust’ Playbook: 5 Immediate Steps to Contain a Spear-Phishing Incident Right Now | vydhi | [Read More](https://medium.com/p/0f146831c025) |
 | Sat, 27 Sep 2025 13:31:48 GMT | How a Newline Injection in Folder Names Broke Access Revocation: 750$ Bug | Abhi Sharma | [Read More](https://medium.com/p/f9a73a8cd978) |
+| Sat, 27 Sep 2025 13:31:48 GMT | Wi-Fi Security Testing using
+Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) |
+| Sat, 27 Sep 2025 13:31:44 GMT | Steps to Create an Information Security Foundation | seenivasan V | [Read More](https://medium.com/p/2513d3a630ce) |
 | Sat, 27 Sep 2025 13:20:00 GMT | “Wait…” | Christabel | [Read More](https://medium.com/p/8066026b7cb6) |
 | Sat, 27 Sep 2025 13:19:30 GMT | Should I Click???? | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/68bb341d7aa4) |
 | Sat, 27 Sep 2025 13:09:23 GMT | When Love Becomes a Lie: The Romance Scam That Almost Destroyed My Friend’s Faith in Everything | Napoleon Beltran | [Read More](https://medium.com/p/44513682ee2c) |
@@ -105,11 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 07:45:06 GMT | Ethical Hacking for Beginners | M M A AL NOMAN | [Read More](https://medium.com/p/1d8928e03105) |
 | Sat, 27 Sep 2025 07:41:19 GMT | Cybersecurity and Critical Humanitarian Services | Cyber Security Research | [Read More](https://medium.com/p/0abfb486f67b) |
 | Sat, 27 Sep 2025 07:38:23 GMT | How Hackers Guess Your Password in Minutes | Aj | [Read More](https://medium.com/p/b6d9f55ff6ae) |
-| Sat, 27 Sep 2025 07:35:06 GMT | When Did Being Human Become So Wrong? | Drrachnashah | [Read More](https://medium.com/p/0d177597db0a) |
-| Sat, 27 Sep 2025 07:35:03 GMT | Digital Risk Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/6ecbf7fdd22f) |
-| Sat, 27 Sep 2025 07:30:55 GMT | Cracking Cafe’s wifi password with ParrotOS Live | Cataholic | [Read More](https://medium.com/p/e91f520b8036) |
-| Sat, 27 Sep 2025 07:29:28 GMT | Zero Trust Principles in Enterprise Networks | Cyber Security Research | [Read More](https://medium.com/p/b96b6acde7ba) |
-| Sat, 27 Sep 2025 07:27:29 GMT | :    … | Pratham Shah | [Read More](https://medium.com/p/8e4747ec75ad) |
-| Sat, 27 Sep 2025 07:21:26 GMT | TryHackMe — Linux Privilege Escalation Challenge | Stilyana Petrova | [Read More](https://medium.com/p/8ab0d7e23262) |
-| Sat, 27 Sep 2025 07:17:52 GMT | NACH data breach in India, focusing on the cloud misconfiguration incident: | Yash Lote | [Read More](https://medium.com/p/4175b8a4f78f) |
-| Sat, 27 Sep 2025 07:13:59 GMT | Top 10 AI Tools for Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/c85ac49bd769) |
