@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 22:06:26 GMT | Ransomware Negotiation Strategies | Cyber Security Research | [Read More](https://medium.com/p/9b22e40037a9) |
+| Sat, 27 Sep 2025 21:57:26 GMT | Soft skills and IT | Malcolm Eastman | [Read More](https://medium.com/p/6022d5afbd8b) |
+| Sat, 27 Sep 2025 21:54:10 GMT | The Role of CERTs in Incident Handling | Cyber Security Research | [Read More](https://medium.com/p/d5b6a4de02aa) |
+| Sat, 27 Sep 2025 21:48:52 GMT | Explaining Crypto to Family and Friends: Why Ignoring It Isn’t an Option Anymore | Pitt Tech | [Read More](https://medium.com/p/fb31fee008bc) |
+| Sat, 27 Sep 2025 21:46:43 GMT | Is it Worth Learning Open Source Cybersecurity Tools? | Tyler Wall | [Read More](https://medium.com/p/0d82e525d128) |
 | Sat, 27 Sep 2025 21:31:33 GMT | Les Sciences Cognitives de l’Intelligence Artificielle | Loveson VILSENAT | [Read More](https://medium.com/p/2dfa4d9323ba) |
+| Sat, 27 Sep 2025 21:31:13 GMT | New Technique Bypass File Upload | Abbas.heybati | [Read More](https://medium.com/p/4c18cef9f9ed) |
 | Sat, 27 Sep 2025 21:24:26 GMT | Part 5: From backyard to battlefield, Navigation. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/3f610c561f4d) |
 | Sat, 27 Sep 2025 21:11:52 GMT | From a 503 Page to a Critical Bug: Exposing Sensitive Data | Ibtissam hammadi | [Read More](https://medium.com/p/3eade22d7f27) |
 | Sat, 27 Sep 2025 20:53:06 GMT | Securing Software-Defined Networks | Cyber Security Research | [Read More](https://medium.com/p/fb56391cba3b) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 14:01:59 GMT | Part 2 :The Foundation of Information Security | Intelithics | [Read More](https://medium.com/p/072c95ae91a2) |
 | Sat, 27 Sep 2025 13:57:52 GMT | First-ever Malicious MCP Server in the Wild — A Deep, Practical Guide | Aenosh Rajora | [Read More](https://medium.com/p/b3f0fcba8580) |
 | Sat, 27 Sep 2025 13:45:14 GMT | The Cosmos of Digital Trust: A Journey Through Shadow AI and Zero Trust | Joao Silva | [Read More](https://medium.com/p/77582910cd86) |
-| Sat, 27 Sep 2025 13:42:17 GMT | The ‘Zero-Trust’ Playbook: 5 Immediate Steps to Contain a Spear-Phishing Incident Right Now | vydhi | [Read More](https://medium.com/p/0f146831c025) |
-| Sat, 27 Sep 2025 13:31:48 GMT | How a Newline Injection in Folder Names Broke Access Revocation: 750$ Bug | Abhi Sharma | [Read More](https://medium.com/p/f9a73a8cd978) |
-| Sat, 27 Sep 2025 13:31:48 GMT | Wi-Fi Security Testing using
-Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) |
-| Sat, 27 Sep 2025 13:31:44 GMT | Steps to Create an Information Security Foundation | seenivasan V | [Read More](https://medium.com/p/2513d3a630ce) |
-| Sat, 27 Sep 2025 13:20:00 GMT | “Wait…” | Christabel | [Read More](https://medium.com/p/8066026b7cb6) |
-| Sat, 27 Sep 2025 13:19:30 GMT | Should I Click???? | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/68bb341d7aa4) |
