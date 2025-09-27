@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 15:36:55 GMT | Modern Spy 101: A fun way to Share Secrets | Sachin      Verlekar | [Read More](https://medium.com/p/667453d71035) |
+| Sat, 27 Sep 2025 15:21:28 GMT | In the middle of the night… | Jen | [Read More](https://medium.com/p/6a722d5d75aa) |
+| Sat, 27 Sep 2025 15:20:48 GMT | Louder When Silent | Sreaoshi Mallick | [Read More](https://medium.com/p/0d012756bd17) |
+| Sat, 27 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 27, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f89bd839cba6) |
 | Sat, 27 Sep 2025 15:11:49 GMT | Will AI Kill Programming Jobs? The Truth in 2025 | Vipul Sonule | [Read More](https://medium.com/p/c8593980302e) |
 | Sat, 27 Sep 2025 15:06:03 GMT | Puppy Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/4b18f04d3b68) |
 | Sat, 27 Sep 2025 15:02:46 GMT | TryHackMe Stolen Mount Walkthrough | Aaryan Parida | [Read More](https://medium.com/p/e89f6697e15f) |
+| Sat, 27 Sep 2025 14:58:52 GMT | Sécurité événementielle 2025 : la checklist opérationnelle (gratuite) pour organisateurs & ERP | UNION ACCESS SECURITY | [Read More](https://medium.com/p/14573313d0b7) |
 | Sat, 27 Sep 2025 14:57:30 GMT | Try-Hack-Me Challenge walkthrough Blaster {CTF} | Arka Priya Das | [Read More](https://medium.com/p/8cddee6c39f7) |
 | Sat, 27 Sep 2025 14:55:56 GMT | The European Union’s Plans to Build a Drone Wall | Max Nomadov | [Read More](https://medium.com/p/6e2e3c939738) |
 | Sat, 27 Sep 2025 14:53:13 GMT | TryHackMe - Network Security Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/16a161076463) |
@@ -109,8 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 08:46:15 GMT | The Complete Guide to SSH Security Evolution: From Password Hell to Zero Trust Paradise | Salwan Mohamed | [Read More](https://medium.com/p/a35a5b970e21) |
 | Sat, 27 Sep 2025 08:44:06 GMT | Cybersecurity: Managing Cultural Vulnerabilities | ​​​​​​​Vidyut Verma | [Read More](https://medium.com/p/bb054d9faf49) |
 | Sat, 27 Sep 2025 08:41:20 GMT | Linux Security Orchestration, Automation, and Response (SOAR) | Eren Cankut Uysal | [Read More](https://medium.com/p/4fd135f6e68e) |
-| Sat, 27 Sep 2025 08:39:53 GMT | How XBOW Became the World’s #1 AI Bug Hunter — and Its Biggest Nuisance | Ujjwal Sinha | [Read More](https://medium.com/p/014b96350ffe) |
-| Sat, 27 Sep 2025 08:39:51 GMT | {THM}Basic-pentestig — writeup | Nihat Rashidli | [Read More](https://medium.com/p/1ecf973e48d2) |
-| Sat, 27 Sep 2025 08:39:09 GMT | Building 5ms Authorization: Why We Use AI to Write Policies, Not Execute Them | Giorgos Poulis | [Read More](https://medium.com/p/29e5a044aec5) |
-| Sat, 27 Sep 2025 08:33:55 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/7b113b243d76) |
-| Sat, 27 Sep 2025 08:33:11 GMT | What Is a Firewall And How Does It Protect You? | Jan Skopal | [Read More](https://medium.com/p/d48ea04757fc) |
