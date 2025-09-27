@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 14:25:38 GMT | Building a SIEM Homelab with Wazuh, Sysmon, and Active Directory | AmanParihar | [Read More](https://medium.com/p/ff90ff37fbcb) |
+| Sat, 27 Sep 2025 14:24:20 GMT | Why SQL Attacks Still Work – And How to Stop Them ✅ (balanced, direct) | Ashishsinghu | [Read More](https://medium.com/p/0099135090d5) |
+| Sat, 27 Sep 2025 14:17:52 GMT | The Silent Killer — A05: Security Misconfiguration - 10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/965959615a2e) |
+| Sat, 27 Sep 2025 14:17:11 GMT | The 5 “Forbidden” Cookie Auth Tricks That Hardcore Developers Swear By | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/a5828be49a34) |
 | Sat, 27 Sep 2025 14:09:07 GMT | The Books That Taught Me How to Think Like a Technologist | Aj | [Read More](https://medium.com/p/4d7ee7627114) |
 | Sat, 27 Sep 2025 14:04:09 GMT | Security as a Shared Responsibility: Why Users Matter Too | Abatis ABTU | [Read More](https://medium.com/p/6c11f81e6085) |
 | Sat, 27 Sep 2025 14:01:59 GMT | Part 2 :The Foundation of Information Security | Intelithics | [Read More](https://medium.com/p/072c95ae91a2) |
@@ -110,7 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 07:53:53 GMT | Data Privacy Challenges in AI Systems | Cyber Security Research | [Read More](https://medium.com/p/be5adda20809) |
 | Sat, 27 Sep 2025 07:49:42 GMT | The Affirmation That Slapped Me Awake: Just Don’t Be an Asshole Today | SuperGlow | [Read More](https://medium.com/p/47ce35cd4778) |
 | Sat, 27 Sep 2025 07:47:50 GMT | Cybersecurity in Smart Grids | Cyber Security Research | [Read More](https://medium.com/p/cd5f87126608) |
-| Sat, 27 Sep 2025 07:45:28 GMT | The Affirmation That Finally Shattered My Fake Smile | SuperGlow | [Read More](https://medium.com/p/4b7218e60693) |
-| Sat, 27 Sep 2025 07:45:06 GMT | Ethical Hacking for Beginners | M M A AL NOMAN | [Read More](https://medium.com/p/1d8928e03105) |
-| Sat, 27 Sep 2025 07:41:19 GMT | Cybersecurity and Critical Humanitarian Services | Cyber Security Research | [Read More](https://medium.com/p/0abfb486f67b) |
-| Sat, 27 Sep 2025 07:38:23 GMT | How Hackers Guess Your Password in Minutes | Aj | [Read More](https://medium.com/p/b6d9f55ff6ae) |
