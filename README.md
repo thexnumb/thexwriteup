@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 16:10:47 GMT | Letting Grok Teach Me Computer Security For 1 Week: Part 4 | Colin Zhou | [Read More](https://medium.com/p/1d1b0f17ab4e) |
+| Sat, 27 Sep 2025 16:10:43 GMT | Cybersecurity 101: A Beginner’s Guide to the Basics | D r e a i t h | [Read More](https://medium.com/p/a4249f34383f) |
+| Sat, 27 Sep 2025 16:09:59 GMT | HTB Puppy MachineWalkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/3bbb9ef5b292) |
+| Sat, 27 Sep 2025 16:06:29 GMT | How to safely run a docker container on a VPS | Alex Deb | [Read More](https://medium.com/p/50d33841815a) |
+| Sat, 27 Sep 2025 16:06:29 GMT | Developing Secure Contact Forms in Next.js with Modern Practices | @rnab | [Read More](https://medium.com/p/e24258b0e4fb) |
+| Sat, 27 Sep 2025 16:02:35 GMT | TryHackMe — Jack-of-All-Trades Walkthrough/Write-Up | Vedant Bhalerao | [Read More](https://medium.com/p/0f630d67e361) |
+| Sat, 27 Sep 2025 16:01:57 GMT | 5 Benefits and Challenges of Using Artificial Intelligence in Risk Management | The Nexus Project | [Read More](https://medium.com/p/02da3e831b81) |
+| Sat, 27 Sep 2025 15:59:46 GMT | The Invisible Currency of AI Conversations | Jace Kim | [Read More](https://medium.com/p/1924a0d80d8f) |
+| Sat, 27 Sep 2025 15:49:52 GMT | Improving our Hacking Agent | Daniel Knight | [Read More](https://medium.com/p/b38581c67ac7) |
+| Sat, 27 Sep 2025 15:46:23 GMT | Integer Overflow Exploits: When Numbers Become Weapons | Rizqi Mulki | [Read More](https://medium.com/p/bfed5789a565) |
+| Sat, 27 Sep 2025 15:40:09 GMT | The Reason You Struggle to Let Go of a Person, Place, or Thing | Vijay Kumar Gupta | [Read More](https://medium.com/p/30b29ec3e669) |
 | Sat, 27 Sep 2025 15:36:55 GMT | Modern Spy 101: A fun way to Share Secrets | Sachin      Verlekar | [Read More](https://medium.com/p/667453d71035) |
+| Sat, 27 Sep 2025 15:31:45 GMT | Rust Crates Security Analysis: From Solo Dev to Supply Chain Defender | Mohammad Abir Abbas | [Read More](https://medium.com/p/b802255351fe) |
+| Sat, 27 Sep 2025 15:23:12 GMT | The Disappearance of Real | Noushaba Ranjha Kha’n | [Read More](https://medium.com/p/966b8a2321af) |
 | Sat, 27 Sep 2025 15:21:28 GMT | In the middle of the night… | Jen | [Read More](https://medium.com/p/6a722d5d75aa) |
 | Sat, 27 Sep 2025 15:20:48 GMT | Louder When Silent | Sreaoshi Mallick | [Read More](https://medium.com/p/0d012756bd17) |
 | Sat, 27 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 27, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f89bd839cba6) |
@@ -101,16 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 09:32:53 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | Ashif | [Read More](https://medium.com/p/c50656517a61) |
 | Sat, 27 Sep 2025 09:24:43 GMT | 10 Major Problems with Microservices | Umesh Kumar Yadav | [Read More](https://medium.com/p/77c937707b3d) |
 | Sat, 27 Sep 2025 09:23:49 GMT | RSA Algorithm | Pawan Kalyan | [Read More](https://medium.com/p/b5213593c2c2) |
-| Sat, 27 Sep 2025 09:22:20 GMT | Cybersecurity: The Core of Digital Secrecy | Aaronnsajuli | [Read More](https://medium.com/p/d17f38242425) |
-| Sat, 27 Sep 2025 09:15:12 GMT | Microsoft’s New Internet ‘Super-Shield’: Explaining Entra Global Secure Access in Simple Terms | Janith Sandamal | [Read More](https://medium.com/p/8540032d1ac1) |
-| Sat, 27 Sep 2025 09:14:56 GMT | Is Low-Cost VPS Hosting Really Secure: Here’s What You Need to Know? | Ann Taylor | [Read More](https://medium.com/p/e847505be9ac) |
-| Sat, 27 Sep 2025 09:14:48 GMT | How to prove that your organization is secured?(Penetration Testing and red teaming) | Marwan Alsaifi | [Read More](https://medium.com/p/7fb497fce1a9) |
-| Sat, 27 Sep 2025 09:01:57 GMT | ⚙️ Active Directory Privilege Escalation Techniques — Detection, Forensics, and Defense | Esra Kayhan | [Read More](https://medium.com/p/1efb5f7c5ea6) |
-| Sat, 27 Sep 2025 09:01:55 GMT | To ID Card Or Not To ID Card? | Marc Barham | [Read More](https://medium.com/p/5441237fb75a) |
-| Sat, 27 Sep 2025 09:01:25 GMT | PQC (Post Quantum Cryptography): The Discovery and Migration Begins. | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/5353f05a424b) |
-| Sat, 27 Sep 2025 08:55:57 GMT | Linux Privilege Escalation Techniques and Mitigation | Eren Cankut Uysal | [Read More](https://medium.com/p/bd49feafcd91) |
-| Sat, 27 Sep 2025 08:52:01 GMT | Basic auth abuse for phishing 2022 research paper | Roybarkayyosef | [Read More](https://medium.com/p/5b69c924ca0f) |
-| Sat, 27 Sep 2025 08:48:42 GMT | Mastering Linux Security Tools: A Comprehensive Guide | Eren Cankut Uysal | [Read More](https://medium.com/p/7ce4d2f6a6e6) |
-| Sat, 27 Sep 2025 08:46:15 GMT | The Complete Guide to SSH Security Evolution: From Password Hell to Zero Trust Paradise | Salwan Mohamed | [Read More](https://medium.com/p/a35a5b970e21) |
-| Sat, 27 Sep 2025 08:44:06 GMT | Cybersecurity: Managing Cultural Vulnerabilities | ​​​​​​​Vidyut Verma | [Read More](https://medium.com/p/bb054d9faf49) |
-| Sat, 27 Sep 2025 08:41:20 GMT | Linux Security Orchestration, Automation, and Response (SOAR) | Eren Cankut Uysal | [Read More](https://medium.com/p/4fd135f6e68e) |
