@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 21:11:52 GMT | From a 503 Page to a Critical Bug: Exposing Sensitive Data | Ibtissam hammadi | [Read More](https://medium.com/p/3eade22d7f27) |
+| Sat, 27 Sep 2025 20:53:06 GMT | Securing Software-Defined Networks | Cyber Security Research | [Read More](https://medium.com/p/fb56391cba3b) |
+| Sat, 27 Sep 2025 20:47:17 GMT | Unlocking Security: Symmetric vs Asymmetric Encryption Explained | CyberPhoenix | [Read More](https://medium.com/p/bb3eb6ba175f) |
+| Sat, 27 Sep 2025 20:45:28 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/ef5931697ab8) |
+| Sat, 27 Sep 2025 20:37:40 GMT | How I Passed the CompTIA Security+ (SY0–701) Exam | Anvitha Lolla | [Read More](https://medium.com/p/fd22cddde06e) |
 | Sat, 27 Sep 2025 20:27:30 GMT | Baulero | Carlos Pastrana | [Read More](https://medium.com/p/b6eee0ba1703) |
 | Sat, 27 Sep 2025 20:27:10 GMT | Building CERT-In Compliant SBOMs: A Complete Guide to Software Bill of Materials for Indian… | sumit singh | [Read More](https://medium.com/p/4ff736ede6ee) |
 | Sat, 27 Sep 2025 20:14:47 GMT | Project 1: Making Sense of Mobile App Security: My First Dashboard | umida murat | [Read More](https://medium.com/p/e863ef157e82) |
@@ -108,8 +113,3 @@ Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) 
 | Sat, 27 Sep 2025 13:19:30 GMT | Should I Click???? | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/68bb341d7aa4) |
 | Sat, 27 Sep 2025 13:09:23 GMT | When Love Becomes a Lie: The Romance Scam That Almost Destroyed My Friend’s Faith in Everything | Napoleon Beltran | [Read More](https://medium.com/p/44513682ee2c) |
 | Sat, 27 Sep 2025 13:06:22 GMT | Classroom Computer Monitoring with SentryPC: The Future of School Security and Student Safety | Paul Meyer | [Read More](https://medium.com/p/d05552a18bbd) |
-| Sat, 27 Sep 2025 13:06:11 GMT | China’s Digital Shadow: PlugX and Bookworm Malware Creeping into Asian Networks | Athishsagarkishan | [Read More](https://medium.com/p/421ce1f7152f) |
-| Sat, 27 Sep 2025 13:05:45 GMT | Musk’s xAI Secures Deal to Supply Grok Chatbot to U.S. Federal Agencies | Udesh Hashara Senanayake | [Read More](https://medium.com/p/7f2ef9981711) |
-| Sat, 27 Sep 2025 13:01:30 GMT | Extracted(TryHackMe walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/564f9fe9ed0f) |
-| Sat, 27 Sep 2025 12:39:08 GMT | Mastering Kubernetes Dynamic Admission Controllers: From Zero to Production Hero | Salwan Mohamed | [Read More](https://medium.com/p/686b3786e6cb) |
-| Sat, 27 Sep 2025 12:37:42 GMT | Deep Dive into Hosting (REST + WebSockets) on an Unmanaged VM (Netcup) — Going Live: Proxy & HTTPS | Abhinav Kumar | [Read More](https://medium.com/p/ea23ebadc51f) |
