@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 18:20:19 GMT | Stored XSS via PDF lead to One-Click Account Takeover | mrdesoky0 | [Read More](https://medium.com/p/b73dbe183cfa) |
+| Sat, 27 Sep 2025 18:08:28 GMT | Would You Rather Have 100 IOCs… or One Picture of the Campaign? | Rishika Desai | [Read More](https://medium.com/p/526d30f15439) |
+| Sat, 27 Sep 2025 18:07:58 GMT | “The Rapture is Neigh” — Truth, or greatest social engineering experiment of 2025? | Pablo Vergara | [Read More](https://medium.com/p/184c78223276) |
+| Sat, 27 Sep 2025 18:06:59 GMT | The 5-Hour Rule: How Top Cybersecurity Pros Stay Ahead Without Burning Out ⏰ | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8d63ecfd7820) |
+| Sat, 27 Sep 2025 18:00:25 GMT | Nmap: The Hacker’s Favorite Scanner — Why You Should’ve Been Using It Yesterday | Brent Fischer | [Read More](https://medium.com/p/2db67dba822c) |
+| Sat, 27 Sep 2025 17:54:06 GMT | Passkeys Explained: The Future of Sign-In Without Passwords | Natarajan C K | [Read More](https://medium.com/p/fa877a7f0af3) |
+| Sat, 27 Sep 2025 17:44:22 GMT | What AI Knows About You — And How to Train Smarter, Not Riskier | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/20209a5ec568) |
+| Sat, 27 Sep 2025 17:31:51 GMT | Shipping AI Safely | Codastra | [Read More](https://medium.com/p/d70103cc9dec) |
 | Sat, 27 Sep 2025 17:30:33 GMT | Hacking AI: Real Attack Vectors & Defenses Against Deepfakes | Motasem Hamdan | [Read More](https://medium.com/p/c217d9720880) |
 | Sat, 27 Sep 2025 17:25:19 GMT | Why Microsoft, Google, and Apple Are All Going Passwordless by 2026 | Sohail Saifi | [Read More](https://medium.com/p/f60b9b76a427) |
 | Sat, 27 Sep 2025 17:21:34 GMT | Using LLMs to Boost Classical Machine Learning URL Classification Models. | Ernest Mugambi | [Read More](https://medium.com/p/25369d6051fb) |
@@ -106,11 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 10:18:34 GMT | Proton Mail vs Tutanota: who actually keeps your email safe? | Arnaud Wallon | [Read More](https://medium.com/p/76451ff0133b) |
 | Sat, 27 Sep 2025 10:18:28 GMT | Affordable Managed Hosting: Why Paying Less Doesn’t Mean Compromising Quality? | Mary Thomas | [Read More](https://medium.com/p/3f5e6647ed29) |
 | Sat, 27 Sep 2025 10:17:30 GMT | iOS 26iOS 26 Release Date and Features: Everything You Need to Know | Elowen Virelle | [Read More](https://medium.com/p/5790eecbc5df) |
-| Sat, 27 Sep 2025 10:16:51 GMT | Your Router Is Watching You: The Dark Side of Wi-Fi Sensing Technology | Aleksander Gorkowienko | [Read More](https://medium.com/p/735e335e7856) |
-| Sat, 27 Sep 2025 10:07:28 GMT | Why Choose SIS Certifications for ISO 27001 Certification in Dubai? | SIS Certifications | [Read More](https://medium.com/p/97244fd2dd63) |
-| Sat, 27 Sep 2025 10:05:33 GMT | Saudi Arabia and Pakistan — redefining deterrence in the Middle East | Maham Tanveer | [Read More](https://medium.com/p/25240e6d9683) |
-| Sat, 27 Sep 2025 09:59:20 GMT | Snapdragon 8 Elite Gen 5 Features Revealed: What’s New in 2025 | Grace Anderson | [Read More](https://medium.com/p/4c7c34d6e9d5) |
-| Sat, 27 Sep 2025 09:58:54 GMT | Till the End of the Line | Aniket Parmar | [Read More](https://medium.com/p/0c8321891c8c) |
-| Sat, 27 Sep 2025 09:58:09 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | NizzCorp Academy | [Read More](https://medium.com/p/274cb10836ec) |
-| Sat, 27 Sep 2025 09:57:42 GMT | Stop Credential Stuffing at the Source: Monitor Plain-Text Leaks Before Attackers Do | Alexandre Vandamme | [Read More](https://medium.com/p/8d803cd8fe8f) |
-| Sat, 27 Sep 2025 09:54:14 GMT | {THM}Bounty-hacker — writeup | Nihat Rashidli | [Read More](https://medium.com/p/930756b8c9fc) |
