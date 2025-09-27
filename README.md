@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 01:16:48 GMT | The Defensive Hacker’s Guide to Python: Build Tools That Protect, Not Destroy | Arfa | [Read More](https://medium.com/p/7bfb5303a032) |
+| Sat, 27 Sep 2025 01:02:05 GMT | How Twingate Turned My Network Into a Zero-Trust Paradise | MARLON MUTIANGPILI | [Read More](https://medium.com/p/412ce9540548) |
+| Sat, 27 Sep 2025 00:40:10 GMT | What is Networking? | w4llnut_ | [Read More](https://medium.com/p/8c764143dfd2) |
+| Sat, 27 Sep 2025 00:32:04 GMT | From Hurd to seL4: How Stallman’s Microkernel Vision Stood the Test of Time | ThamizhElango Natarajan | [Read More](https://medium.com/p/1a3091043315) |
+| Sat, 27 Sep 2025 00:19:04 GMT | Gobuster: The Basics - THM | Isiah | [Read More](https://medium.com/p/4717f8dd1361) |
+| Sat, 27 Sep 2025 00:06:13 GMT | Holehe: La herramienta de investigación de correo electrónico que necesitas para OSINT | Kaelidium | [Read More](https://medium.com/p/ebeeba039b5d) |
+| Sat, 27 Sep 2025 00:02:12 GMT | Dalfox: Smart XSS Scanner for Bug Bounty and Pentesting | JPablo13 | [Read More](https://medium.com/p/c9a4a8708179) |
+| Fri, 26 Sep 2025 23:57:36 GMT | CISA’s Urgent Warning: Hackers Exploiting Cisco ASA Zero-Day in the Wild | Raviteja Mureboina | [Read More](https://medium.com/p/fb026ee5edf4) |
 | Fri, 26 Sep 2025 23:28:15 GMT | Baiting AI: How to Know If It’s Using Your Data | Zenks | [Read More](https://medium.com/p/2eaf4a8fb54b) |
 | Fri, 26 Sep 2025 23:23:56 GMT | U.A. High School writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9867bbfb906b) |
 | Fri, 26 Sep 2025 22:55:17 GMT | Fundamentals of the Web and Security: My Internship Journal | Mutluaybike | [Read More](https://medium.com/p/cfa20c0010b2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 16:45:11 GMT | The Hidden Gatekeepers of the Internet: The CAPTCHAs | Graceverse | [Read More](https://medium.com/p/4621d227c07a) |
 | Fri, 26 Sep 2025 16:44:47 GMT | Packet Capture with Wireshark: Understanding Browser Traffic from a VM | Venkanna chowdary penubothu | [Read More](https://medium.com/p/b8cb07375254) |
 | Fri, 26 Sep 2025 16:42:39 GMT | The Biggest Security Mistake: Why You’re Not Backing Up Your Data | Ehsanm135 | [Read More](https://medium.com/p/ce60b985e184) |
-| Fri, 26 Sep 2025 16:41:25 GMT | Part 1 Introduction to Ethical Hacking & Cybersecurity : | Intelithics | [Read More](https://medium.com/p/f3eda2a12ac1) |
-| Fri, 26 Sep 2025 16:39:20 GMT | Drosera Network: Revolutionizing DeFi Security with Decentralized Automation | Habuskid | [Read More](https://medium.com/p/4d2bb7969e26) |
-| Fri, 26 Sep 2025 16:38:04 GMT | SOC Compliance Demystified: Launching a 4-Part Series on SOC 1, SOC 2 (Type I & II), and SOC 3 | Rachid Abadli | [Read More](https://medium.com/p/4a08a3a9d944) |
-| Fri, 26 Sep 2025 16:35:35 GMT | Trusted Security Companies in Los Angeles: Why Choose Barzo? | Travel time | [Read More](https://medium.com/p/70a3a3400edf) |
-| Fri, 26 Sep 2025 16:34:43 GMT | Detecting the Breach: A Walkthrough of TryHackMe’s Linux Threat Detection Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/2ad2fdcc88e8) |
-| Fri, 26 Sep 2025 16:33:30 GMT | How I found a simple MFA bypass | Yusuf | [Read More](https://medium.com/p/7944687bd86c) |
-| Fri, 26 Sep 2025 16:32:54 GMT | IEEE Victoris 4.0 — CTF 2025 — Finals OSINT Challenges | ByteSlayer | [Read More](https://medium.com/p/bb611d468602) |
-| Fri, 26 Sep 2025 16:32:30 GMT | Windows Pentesting (Persistence Techniques) | Neha Timande | [Read More](https://medium.com/p/9641a40706d1) |
