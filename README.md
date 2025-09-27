@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 11:26:06 GMT | Introducing Java 25 The Future of Reliable, Scalable, and Secure Development | Ashish Dhaware | [Read More](https://medium.com/p/a7eef42fbfa4) |
 | Sat, 27 Sep 2025 11:12:12 GMT | The Hidden Cost of Uploading: Data Privacy in the Age of AI | Anilesh Mukherjee | [Read More](https://medium.com/p/1aa8590043b0) |
 | Sat, 27 Sep 2025 11:11:38 GMT | {THM}Pickle-rick — writeup | Nihat Rashidli | [Read More](https://medium.com/p/e3b781950074) |
 | Sat, 27 Sep 2025 11:06:15 GMT | Cyber Attacks Becoming a Nightmare for UK Businesses. | Aleksander Gorkowienko | [Read More](https://medium.com/p/a3cd2ac9e348) |
@@ -113,4 +114,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Sat, 27 Sep 2025 05:23:07 GMT | The Rise of Cyber Threats: How to Protect Your Personal Data Online | Global insight | [Read More](https://medium.com/p/76a0c2015b8b) |
 | Sat, 27 Sep 2025 05:19:28 GMT | You Won’t Believe How Easy It Is To Get Hacked: The ULTIMATE .NET XSS Guide | Jithin Prem | [Read More](https://medium.com/p/bfcea135fd6e) |
 | Sat, 27 Sep 2025 05:18:47 GMT | TryHackMe - Brute It write up — Aryamhsa | Aryamhsa | [Read More](https://medium.com/p/d2cbf0ea0210) |
-| Sat, 27 Sep 2025 05:08:23 GMT | China Prepares for Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/1f2b472101d8) |
