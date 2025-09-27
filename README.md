@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 22:24:27 GMT | Why You Have to Wait for Your CVE: Behind the Scenes of MITRE’s Process | embossdotar | [Read More](https://medium.com/p/394369fbd3b5) |
+| Sat, 27 Sep 2025 22:20:28 GMT | Privacy Risks in Biometric Data Collection | Cyber Security Research | [Read More](https://medium.com/p/2e42e625ac07) |
+| Sat, 27 Sep 2025 22:13:35 GMT | AI in Email Security Systems | Cyber Security Research | [Read More](https://medium.com/p/abd15fad1019) |
 | Sat, 27 Sep 2025 22:06:26 GMT | Ransomware Negotiation Strategies | Cyber Security Research | [Read More](https://medium.com/p/9b22e40037a9) |
 | Sat, 27 Sep 2025 21:57:26 GMT | Soft skills and IT | Malcolm Eastman | [Read More](https://medium.com/p/6022d5afbd8b) |
 | Sat, 27 Sep 2025 21:54:10 GMT | The Role of CERTs in Incident Handling | Cyber Security Research | [Read More](https://medium.com/p/d5b6a4de02aa) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 14:17:11 GMT | The 5 “Forbidden” Cookie Auth Tricks That Hardcore Developers Swear By | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/a5828be49a34) |
 | Sat, 27 Sep 2025 14:09:07 GMT | The Books That Taught Me How to Think Like a Technologist | Aj | [Read More](https://medium.com/p/4d7ee7627114) |
 | Sat, 27 Sep 2025 14:04:09 GMT | Security as a Shared Responsibility: Why Users Matter Too | Abatis ABTU | [Read More](https://medium.com/p/6c11f81e6085) |
-| Sat, 27 Sep 2025 14:01:59 GMT | Part 2 :The Foundation of Information Security | Intelithics | [Read More](https://medium.com/p/072c95ae91a2) |
-| Sat, 27 Sep 2025 13:57:52 GMT | First-ever Malicious MCP Server in the Wild — A Deep, Practical Guide | Aenosh Rajora | [Read More](https://medium.com/p/b3f0fcba8580) |
-| Sat, 27 Sep 2025 13:45:14 GMT | The Cosmos of Digital Trust: A Journey Through Shadow AI and Zero Trust | Joao Silva | [Read More](https://medium.com/p/77582910cd86) |
