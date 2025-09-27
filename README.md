@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 10:29:25 GMT | Exploiting IKE Hosts with Weak Pre‑Shared Keys | Francesco Pastore | [Read More](https://medium.com/p/796313b53595) |
+| Sat, 27 Sep 2025 10:22:30 GMT | Apache Kafka: The Backbone of Modern Event Streaming (beginner friendly) | Pawan Kalyan | [Read More](https://medium.com/p/6b7c81767535) |
+| Sat, 27 Sep 2025 10:21:44 GMT | Cybersecurity in Bookkeeping: Protecting Financial Data in 2025 | ARUNBHAI JOSHI | [Read More](https://medium.com/p/2b396e3fd80d) |
+| Sat, 27 Sep 2025 10:18:34 GMT | Proton Mail vs Tutanota: who actually keeps your email safe? | Arnaud Wallon | [Read More](https://medium.com/p/76451ff0133b) |
+| Sat, 27 Sep 2025 10:18:28 GMT | Affordable Managed Hosting: Why Paying Less Doesn’t Mean Compromising Quality? | Mary Thomas | [Read More](https://medium.com/p/3f5e6647ed29) |
+| Sat, 27 Sep 2025 10:17:30 GMT | iOS 26iOS 26 Release Date and Features: Everything You Need to Know | Elowen Virelle | [Read More](https://medium.com/p/5790eecbc5df) |
+| Sat, 27 Sep 2025 10:16:51 GMT | Your Router Is Watching You: The Dark Side of Wi-Fi Sensing Technology | Aleksander Gorkowienko | [Read More](https://medium.com/p/735e335e7856) |
 | Sat, 27 Sep 2025 10:07:28 GMT | Why Choose SIS Certifications for ISO 27001 Certification in Dubai? | SIS Certifications | [Read More](https://medium.com/p/97244fd2dd63) |
+| Sat, 27 Sep 2025 10:05:33 GMT | Saudi Arabia and Pakistan — redefining deterrence in the Middle East | Maham Tanveer | [Read More](https://medium.com/p/25240e6d9683) |
 | Sat, 27 Sep 2025 09:59:20 GMT | Snapdragon 8 Elite Gen 5 Features Revealed: What’s New in 2025 | Grace Anderson | [Read More](https://medium.com/p/4c7c34d6e9d5) |
 | Sat, 27 Sep 2025 09:58:54 GMT | Till the End of the Line | Aniket Parmar | [Read More](https://medium.com/p/0c8321891c8c) |
 | Sat, 27 Sep 2025 09:58:09 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | NizzCorp Academy | [Read More](https://medium.com/p/274cb10836ec) |
@@ -105,11 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Sat, 27 Sep 2025 03:52:29 GMT | Is Hydraulic Oil Flammable? Understanding Flash Point and Safety | Whyps | [Read More](https://medium.com/p/3ef19303afe6) |
 | Sat, 27 Sep 2025 03:46:29 GMT | I Wanted Privacy… So I Built My Own Browser (Here’s how I did it) | Pannag Kumaar | [Read More](https://medium.com/p/c5d442d5c93f) |
 | Sat, 27 Sep 2025 03:42:36 GMT | CVE-2025–56676 - Critical Vulnerability in Zender Gateway Allows Account Takeover | DarkLotus | [Read More](https://medium.com/p/2b5bcb50c762) |
-| Sat, 27 Sep 2025 03:42:28 GMT | Escalating an HTML Injection into 1-Click Account Takeover | Marx Chryz Del Mundo | [Read More](https://medium.com/p/3ba9dbf0ce5f) |
-| Sat, 27 Sep 2025 03:41:56 GMT | TryHackMe #60 - FlareVM: Arsenal of Tools | 0xGroot | [Read More](https://medium.com/p/6be990207212) |
-| Sat, 27 Sep 2025 03:38:05 GMT | TryHackMe #59 - REMnux: Getting Started | 0xGroot | [Read More](https://medium.com/p/718badc5f7dd) |
-| Sat, 27 Sep 2025 03:35:09 GMT | Taming Cloud & Container Vulnerabilities: My Journey with Prisma, EKS Scanning, and Real-World… | Rsprasangi | [Read More](https://medium.com/p/85f2850fdf27) |
-| Sat, 27 Sep 2025 03:31:58 GMT | API Pentesting Part 4: Broken Object Level Authorization -The Silent Identity Swap | Blue_eye | [Read More](https://medium.com/p/b6f38a4f8d10) |
-| Sat, 27 Sep 2025 03:31:58 GMT | Alleged PayPal Credential Dump: 15.8 Million Plaintext Logins Surface Online | Deven Chhajed | [Read More](https://medium.com/p/65d979d600c0) |
-| Sat, 27 Sep 2025 03:28:05 GMT | TryHackMe #58 - CAPA: The Basics | 0xGroot | [Read More](https://medium.com/p/c9401a251892) |
-| Sat, 27 Sep 2025 03:27:30 GMT | WAIT! Watch This Before Scrolling — They Can Own Your Business Name Online! | Cyberwise | [Read More](https://medium.com/p/dac3700caf82) |
