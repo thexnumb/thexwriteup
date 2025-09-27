@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 03:27:30 GMT | WAIT! Watch This Before Scrolling — They Can Own Your Business Name Online! | Cyberwise | [Read More](https://medium.com/p/dac3700caf82) |
+| Sat, 27 Sep 2025 03:22:05 GMT | TryHackMe #57 - CyberChef: The Basics | 0xGroot | [Read More](https://medium.com/p/d3f977eae8cb) |
+| Sat, 27 Sep 2025 03:18:00 GMT | The Cybersecurity Scripts That Saved Me Hundreds of Hours | Arfa | [Read More](https://medium.com/p/4ceccf4a2a8f) |
+| Sat, 27 Sep 2025 03:06:12 GMT | Q3 2025: Anatomy of a Global Digital Siege | Rodrigo Gutierrez | [Read More](https://medium.com/p/dff143644a46) |
+| Sat, 27 Sep 2025 03:02:01 GMT | Russia’s Hybrid War Hits Romania — Drones, Lies, and Spies | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/45a15bca7776) |
+| Sat, 27 Sep 2025 02:59:51 GMT | The Experimentation Mindset: Hacking Growth with A/B Testing and Data Science | Muhammad Muhsi Sidik | [Read More](https://medium.com/p/a1486663a2a7) |
+| Sat, 27 Sep 2025 02:44:07 GMT | 每次 ChatGPT 延遲的背後，其實是小博士在翻書冒汗 | 櫻若葉 | [Read More](https://medium.com/p/01825e433124) |
+| Sat, 27 Sep 2025 02:43:15 GMT | Black swans, armchair quarterbacks, and post-event Cassandras | OWilliams | [Read More](https://medium.com/p/3e80594751ae) |
+| Sat, 27 Sep 2025 02:38:57 GMT | How to delete porn videos from Internet? | Donley Mark | [Read More](https://medium.com/p/0eadc2d2eb3e) |
 | Sat, 27 Sep 2025 02:38:49 GMT | Unauthenticated WIFI Password Disclosure Wavlink | ice-wzl | [Read More](https://medium.com/p/8154bef70420) |
+| Sat, 27 Sep 2025 02:36:30 GMT | The Ransomware-Cryptocurrency Nexus: Why Disabling Digital Money Won’t Stop Digital Extortion | David SEHYEON Baek | [Read More](https://medium.com/p/94cade4e4c3e) |
+| Sat, 27 Sep 2025 02:31:49 GMT | The “Parenting Philosophy” for the AI Age: Teaching AI to Resist “Product Placement” Deception | Scott Huang | [Read More](https://medium.com/p/b46079aec220) |
+| Sat, 27 Sep 2025 02:30:24 GMT | Zero Click Indirect Prompt Injection in Enterprise AI Assistants | Yoel Apu | [Read More](https://medium.com/p/a2c9f532fad1) |
 | Sat, 27 Sep 2025 02:01:52 GMT | Holmes CTF 2025 การจัดทีมครั้งแรกของเหล่ายอดมนุษย์นักพิสูจน์หลักฐานดิจิทัลเพื่อคว้าอันดับที่ 1… | Chicken0248 | [Read More](https://medium.com/p/11a156cd7078) |
 | Sat, 27 Sep 2025 01:32:08 GMT | Amazing Python Projects That Surprised Even Me | Kainat Nafees | [Read More](https://medium.com/p/8c0aa38c516d) |
 | Sat, 27 Sep 2025 01:16:48 GMT | The Defensive Hacker’s Guide to Python: Build Tools That Protect, Not Destroy | Arfa | [Read More](https://medium.com/p/7bfb5303a032) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 17:35:22 GMT | SCA Security: Why Software Composition Analysis Matters for Modern Applications | SafeAeon Inc. | [Read More](https://medium.com/p/edc434e0884d) |
 | Fri, 26 Sep 2025 17:34:46 GMT | Siber Güvenlik 101 — Reverse Engineering (Tersine Mühendislik) | Sude Çoban | [Read More](https://medium.com/p/063ee6b8eca3) |
 | Fri, 26 Sep 2025 17:34:18 GMT | Things You Should Know Before Getting Into Cybersecurity | Fisayo K | [Read More](https://medium.com/p/61dfad586b21) |
-| Fri, 26 Sep 2025 17:31:38 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking. | Nandana Vipul | [Read More](https://medium.com/p/2622ac030368) |
-| Fri, 26 Sep 2025 17:27:36 GMT | CSRF Attacks: The Silent Threat to Web Applications | SafeAeon Inc. | [Read More](https://medium.com/p/18d55d67241f) |
-| Fri, 26 Sep 2025 17:16:48 GMT | The Need for Using a VPN While Browsing: Protecting Your Online Security and Privacy | Anthony Veto | [Read More](https://medium.com/p/018575c0fce1) |
-| Fri, 26 Sep 2025 17:16:25 GMT | Linux Terminal Shortcuts That Will Make You 10x Faster | Kavish Baghel | [Read More](https://medium.com/p/e21b33e9a326) |
-| Fri, 26 Sep 2025 17:10:19 GMT | All of You | Yashwardhan Mittal | [Read More](https://medium.com/p/5d06e9294989) |
-| Fri, 26 Sep 2025 17:06:53 GMT | Cybersecurity News Review — Week 39 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/c8030453d191) |
-| Fri, 26 Sep 2025 17:04:41 GMT | Operating Systems | w4llnut_ | [Read More](https://medium.com/p/a5dbed2f0c9b) |
-| Fri, 26 Sep 2025 17:01:54 GMT | Heap Exploitation Teknikleri: Use-After-Free ve Heap Overflow | Esra Kayhan | [Read More](https://medium.com/p/d85e647302aa) |
-| Fri, 26 Sep 2025 16:52:44 GMT | Groovy Sandbox Escape: Reading Files via ClassLoader — $650 Bounty Story | 0x1git | [Read More](https://medium.com/p/8183ef9a332c) |
-| Fri, 26 Sep 2025 16:51:54 GMT | Expert Static Guard Services for Peace of Mind | Professional UK Services | [Read More](https://medium.com/p/ff2f931a5746) |
-| Fri, 26 Sep 2025 16:49:55 GMT | Turn Your Security Findings Into Automated Checks | Teri Radichel | [Read More](https://medium.com/p/0a08efe57358) |
-| Fri, 26 Sep 2025 16:49:41 GMT | Fortigate Web Filter Profili Nasıl Oluşturulur? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/3ac89631df35) |
