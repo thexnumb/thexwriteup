@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 09:14:56 GMT | Is Low-Cost VPS Hosting Really Secure: Here’s What You Need to Know? | Ann Taylor | [Read More](https://medium.com/p/e847505be9ac) |
+| Sat, 27 Sep 2025 09:14:48 GMT | How to prove that your organization is secured?(Penetration Testing and red teaming) | Marwan Alsaifi | [Read More](https://medium.com/p/7fb497fce1a9) |
+| Sat, 27 Sep 2025 09:01:57 GMT | ⚙️ Active Directory Privilege Escalation Techniques — Detection, Forensics, and Defense | Esra Kayhan | [Read More](https://medium.com/p/1efb5f7c5ea6) |
+| Sat, 27 Sep 2025 09:01:55 GMT | To ID Card Or Not To ID Card? | Marc Barham | [Read More](https://medium.com/p/5441237fb75a) |
+| Sat, 27 Sep 2025 09:01:25 GMT | PQC (Post Quantum Cryptography): The Discovery and Migration Begins. | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/5353f05a424b) |
+| Sat, 27 Sep 2025 08:55:57 GMT | Linux Privilege Escalation Techniques and Mitigation | Eren Cankut Uysal | [Read More](https://medium.com/p/bd49feafcd91) |
+| Sat, 27 Sep 2025 08:52:01 GMT | Basic auth abuse for phishing 2022 research paper | Roybarkayyosef | [Read More](https://medium.com/p/5b69c924ca0f) |
+| Sat, 27 Sep 2025 08:48:42 GMT | Mastering Linux Security Tools: A Comprehensive Guide | Eren Cankut Uysal | [Read More](https://medium.com/p/7ce4d2f6a6e6) |
+| Sat, 27 Sep 2025 08:46:15 GMT | The Complete Guide to SSH Security Evolution: From Password Hell to Zero Trust Paradise | Salwan Mohamed | [Read More](https://medium.com/p/a35a5b970e21) |
+| Sat, 27 Sep 2025 08:44:06 GMT | Cybersecurity: Managing Cultural Vulnerabilities | ​​​​​​​Vidyut Verma | [Read More](https://medium.com/p/bb054d9faf49) |
+| Sat, 27 Sep 2025 08:41:20 GMT | Linux Security Orchestration, Automation, and Response (SOAR) | Eren Cankut Uysal | [Read More](https://medium.com/p/4fd135f6e68e) |
 | Sat, 27 Sep 2025 08:39:53 GMT | How XBOW Became the World’s #1 AI Bug Hunter — and Its Biggest Nuisance | Ujjwal Sinha | [Read More](https://medium.com/p/014b96350ffe) |
+| Sat, 27 Sep 2025 08:39:51 GMT | {THM}Basic-pentestig — writeup | Nihat Rashidli | [Read More](https://medium.com/p/1ecf973e48d2) |
+| Sat, 27 Sep 2025 08:39:09 GMT | Building 5ms Authorization: Why We Use AI to Write Policies, Not Execute Them | Giorgos Poulis | [Read More](https://medium.com/p/29e5a044aec5) |
+| Sat, 27 Sep 2025 08:33:55 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/7b113b243d76) |
 | Sat, 27 Sep 2025 08:33:11 GMT | What Is a Firewall And How Does It Protect You? | Jan Skopal | [Read More](https://medium.com/p/d48ea04757fc) |
+| Sat, 27 Sep 2025 08:30:52 GMT | Is There Anything Deeper Than The Deep Web? | Ricky | [Read More](https://medium.com/p/fd874adfc49c) |
 | Sat, 27 Sep 2025 08:21:03 GMT | Developer calls it a bug, but Product Manager call it feature | CodeSculptorX | [Read More](https://medium.com/p/eca82f6f26f9) |
 | Sat, 27 Sep 2025 08:15:19 GMT | Trending Technologies in Jobs (2025) | Trendingout | [Read More](https://medium.com/p/59ac4fd797ee) |
 | Sat, 27 Sep 2025 08:14:35 GMT | How to Build an Effective Vulnerability Management Program for Your Organization | Digital Defense | [Read More](https://medium.com/p/2a3b9e358672) |
@@ -98,18 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Sat, 27 Sep 2025 00:32:04 GMT | From Hurd to seL4: How Stallman’s Microkernel Vision Stood the Test of Time | ThamizhElango Natarajan | [Read More](https://medium.com/p/1a3091043315) |
 | Sat, 27 Sep 2025 00:19:04 GMT | Gobuster: The Basics - THM | Isiah | [Read More](https://medium.com/p/4717f8dd1361) |
 | Sat, 27 Sep 2025 00:06:13 GMT | Holehe: La herramienta de investigación de correo electrónico que necesitas para OSINT | Kaelidium | [Read More](https://medium.com/p/ebeeba039b5d) |
-| Sat, 27 Sep 2025 00:02:12 GMT | Dalfox: Smart XSS Scanner for Bug Bounty and Pentesting | JPablo13 | [Read More](https://medium.com/p/c9a4a8708179) |
-| Fri, 26 Sep 2025 23:57:36 GMT | CISA’s Urgent Warning: Hackers Exploiting Cisco ASA Zero-Day in the Wild | Raviteja Mureboina | [Read More](https://medium.com/p/fb026ee5edf4) |
-| Fri, 26 Sep 2025 23:28:15 GMT | Baiting AI: How to Know If It’s Using Your Data | Zenks | [Read More](https://medium.com/p/2eaf4a8fb54b) |
-| Fri, 26 Sep 2025 23:23:56 GMT | U.A. High School writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/9867bbfb906b) |
-| Fri, 26 Sep 2025 22:55:17 GMT | Fundamentals of the Web and Security: My Internship Journal | Mutluaybike | [Read More](https://medium.com/p/cfa20c0010b2) |
-| Fri, 26 Sep 2025 22:54:39 GMT | The Purple Team Methodology for Proactive Cybersecurity | Mauro Stepanoski | [Read More](https://medium.com/p/1293ae40e02d) |
-| Fri, 26 Sep 2025 22:53:41 GMT | Securing Secrets in AWS SSM Automation Documents | Akesh Patil | [Read More](https://medium.com/p/3ca4e25d41a2) |
-| Fri, 26 Sep 2025 22:36:17 GMT | TryHackMe Capstone Challenge - Write-Up | be.light | [Read More](https://medium.com/p/72ca75b7c297) |
-| Fri, 26 Sep 2025 22:32:54 GMT | HTB pro lab RastaLabs review | real redinna | [Read More](https://medium.com/p/45652241bc3d) |
-| Fri, 26 Sep 2025 22:30:13 GMT | Building a GitHub Secret Scanner: Catching API Keys Before They Leak | Navneetbhogal | [Read More](https://medium.com/p/239116cae2b8) |
-| Fri, 26 Sep 2025 22:28:35 GMT | Intro to Credential Harvesting - Tryhackme | Aaron | [Read More](https://medium.com/p/809a36d5c1a0) |
-| Fri, 26 Sep 2025 22:28:24 GMT | Beyond Roles: Why Attribute-Based Access Control (ABAC) Is the Future of Enterprise Security | Elijah Winter | [Read More](https://medium.com/p/7ba584d2fcea) |
-| Fri, 26 Sep 2025 22:11:43 GMT | Malicious Rust Crates Steal Solana and Ethereum Keys | Cyber-AppSec | [Read More](https://medium.com/p/c20502daa5ba) |
-| Fri, 26 Sep 2025 22:03:46 GMT | Third-Party Risk: Lessons from the Hertz data breach | Gauri Rajgopal | [Read More](https://medium.com/p/b6a1ab5575b8) |
-| Fri, 26 Sep 2025 22:01:00 GMT | How Hackers Exploit AI Tools Like ChatGPT (And How to Stay Safe) | Aaron | [Read More](https://medium.com/p/0f45b28b0da0) |
