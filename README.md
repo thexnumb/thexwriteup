@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 16:33:14 GMT | The Great SIEM Bake-Off: Is Your SOC About to Get Burned? | Matt Snyder | [Read More](https://medium.com/p/71fd96ad1fee) |
+| Sat, 27 Sep 2025 16:30:23 GMT | The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down | Aditya Bhatt | [Read More](https://medium.com/p/37431757472f) |
+| Sat, 27 Sep 2025 16:30:23 GMT | The First MOLE Update: A new feature and some streamlining. | Emma Waterman | [Read More](https://medium.com/p/be0cf2fdd1fc) |
+| Sat, 27 Sep 2025 16:30:21 GMT | What happens when you type a web address into your browser and press enter? | Gwendal Minguy-Pèlerin | [Read More](https://medium.com/p/aaf1cd5c37af) |
+| Sat, 27 Sep 2025 16:30:12 GMT | Honored to Be the First President of Our University IT Club | Asfan Aman | [Read More](https://medium.com/p/85dd4ed4eb98) |
 | Sat, 27 Sep 2025 16:10:47 GMT | Letting Grok Teach Me Computer Security For 1 Week: Part 4 | Colin Zhou | [Read More](https://medium.com/p/1d1b0f17ab4e) |
 | Sat, 27 Sep 2025 16:10:43 GMT | Cybersecurity 101: A Beginner’s Guide to the Basics | D r e a i t h | [Read More](https://medium.com/p/a4249f34383f) |
 | Sat, 27 Sep 2025 16:09:59 GMT | HTB Puppy MachineWalkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/3bbb9ef5b292) |
@@ -109,8 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 09:45:49 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/3f136d737d91) |
 | Sat, 27 Sep 2025 09:44:52 GMT | Beyond Bits: How 5D Cryptography is Reshaping Online Security and Privacy | Wilson Igbasi | [Read More](https://medium.com/p/4bf4bddb748b) |
 | Sat, 27 Sep 2025 09:42:35 GMT | CSV Injection on Public Bug Bounty Program | Ayush | [Read More](https://medium.com/p/0efaac6206cb) |
-| Sat, 27 Sep 2025 09:38:43 GMT | Workflow My Social Media Growth | Jamie | [Read More](https://medium.com/p/39d8c1ab0170) |
-| Sat, 27 Sep 2025 09:37:45 GMT | The Linux Process Journey — wpa_supplicant (Wi-Fi Protected Access client) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/cef744a71e00) |
-| Sat, 27 Sep 2025 09:32:53 GMT | Common Cybersecurity Misconfigurations and How to Prevent Them | Ashif | [Read More](https://medium.com/p/c50656517a61) |
-| Sat, 27 Sep 2025 09:24:43 GMT | 10 Major Problems with Microservices | Umesh Kumar Yadav | [Read More](https://medium.com/p/77c937707b3d) |
-| Sat, 27 Sep 2025 09:23:49 GMT | RSA Algorithm | Pawan Kalyan | [Read More](https://medium.com/p/b5213593c2c2) |
