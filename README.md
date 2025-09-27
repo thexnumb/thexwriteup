@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 05:23:07 GMT | The Rise of Cyber Threats: How to Protect Your Personal Data Online | Global insight | [Read More](https://medium.com/p/76a0c2015b8b) |
+| Sat, 27 Sep 2025 05:19:28 GMT | You Won’t Believe How Easy It Is To Get Hacked: The ULTIMATE .NET XSS Guide | Jithin Prem | [Read More](https://medium.com/p/bfcea135fd6e) |
+| Sat, 27 Sep 2025 05:18:47 GMT | TryHackMe - Brute It write up — Aryamhsa | Aryamhsa | [Read More](https://medium.com/p/d2cbf0ea0210) |
 | Sat, 27 Sep 2025 05:08:23 GMT | China Prepares for Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/1f2b472101d8) |
 | Sat, 27 Sep 2025 04:58:55 GMT | Why 3 is Unlucky for AI | Nuwan I. Senaratna | [Read More](https://medium.com/p/5274fc8a72d9) |
 | Sat, 27 Sep 2025 04:46:22 GMT | Temp Gmail / Fake Gmail — Safe & Free Disposable Email | gtemp657 | [Read More](https://medium.com/p/466fbf48e1d2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 18:29:26 GMT | The protection of supply chain logistics systems from cyber threats is a non-negotiable requirement… | Cyber Security Research | [Read More](https://medium.com/p/eba9bc12b59a) |
 | Fri, 26 Sep 2025 18:25:24 GMT | Secrets of JavaScript I Learned the Hard Way | Kainat Nafees | [Read More](https://medium.com/p/279d1975f817) |
 | Fri, 26 Sep 2025 18:23:21 GMT | Securing Voice over IP Systems | Cyber Security Research | [Read More](https://medium.com/p/80580c1b7709) |
-| Fri, 26 Sep 2025 18:22:49 GMT | Building Real-World Automation with Python | Kainat Nafees | [Read More](https://medium.com/p/b734a9f89b7a) |
-| Fri, 26 Sep 2025 18:21:28 GMT | Sigma rule: Unauthenticated access attempts to Cisco ASA/FTD WebVPN (noise-reduced) | Abdul | [Read More](https://medium.com/p/f570f89f9403) |
-| Fri, 26 Sep 2025 18:19:18 GMT | Top 10 Cybersecurity Trends (2025) | Kishor Kalivarapu | [Read More](https://medium.com/p/d2191ddafb71) |
