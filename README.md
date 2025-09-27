@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 07:01:55 GMT | The New Horsepower: Quantifying Cyber Risk in Lap Time for Competitive Advantage in F1™ | Timothy Harmon, CISSP | [Read More](https://medium.com/p/01a218349f3d) |
+| Sat, 27 Sep 2025 07:01:02 GMT | Comprehensive Concrete CMS Solutions for Powerful Digital Growth | Chris | [Read More](https://medium.com/p/f626967ed118) |
+| Sat, 27 Sep 2025 06:59:28 GMT | The Data Science Mindset That Changed How I Learn Everything | Fateyaly | [Read More](https://medium.com/p/b3374222e65e) |
+| Sat, 27 Sep 2025 06:58:00 GMT | Penetration Testing Phases vs Cyber Kill Chain: Two Sides of the Same Coin | Hadiramr | [Read More](https://medium.com/p/de3034f3dfe7) |
+| Sat, 27 Sep 2025 06:57:36 GMT | Cybersecurity Engineering: Scope, Careers & Future Opportunities | JIS Group | [Read More](https://medium.com/p/ce074a8246db) |
+| Sat, 27 Sep 2025 06:56:59 GMT | From Lab to Résumé: Turning Your Hacks into Career Fuel | Fateyaly | [Read More](https://medium.com/p/a4a54883e292) |
+| Sat, 27 Sep 2025 06:46:23 GMT | Why Security Awareness Training is Essential for Your Business | LTC Technology Systems | [Read More](https://medium.com/p/5471669ce0bd) |
 | Sat, 27 Sep 2025 06:38:26 GMT | Insecure data storage — part 2 Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/046d8d8e356e) |
 | Sat, 27 Sep 2025 06:36:55 GMT | The Convergence of Control and Security: An In-depth Guide to OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/0c2f5bf9d1f9) |
 | Sat, 27 Sep 2025 06:36:22 GMT | How to Keep Your Website Secure on a Low-Cost Hosting Plan? | Andy | [Read More](https://medium.com/p/0665d8b42a43) |
@@ -106,10 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Fri, 26 Sep 2025 20:04:40 GMT | Stop Cramming, Start Mastering: The Modern Professional’s Guide to Acing Any Certification | Neilconnor2003 | [Read More](https://medium.com/p/daaa20228da0) |
 | Fri, 26 Sep 2025 20:01:09 GMT | Day 9 — Defending the Network: A Beginner’s Guide to Snort Intrusion Detection and Prevention | HackTrace | [Read More](https://medium.com/p/efbd12d42f4d) |
 | Fri, 26 Sep 2025 19:56:00 GMT | Digital ID will be mandatory in order to work in the UK, as part of plans to tackle illegal… | Frank Kingsley | [Read More](https://medium.com/p/de1332e10240) |
-| Fri, 26 Sep 2025 19:54:12 GMT | Breaking Into Cybersecurity: 2025 Market Analysis | Tyler Wall | [Read More](https://medium.com/p/2c4c18ed3da4) |
-| Fri, 26 Sep 2025 19:51:42 GMT | “Don’t Panic: An Introduction To Ethical Hacking — First day!!” | Aura Verde | [Read More](https://medium.com/p/ea96da73533d) |
-| Fri, 26 Sep 2025 19:47:01 GMT | 10 Cybersecurity Habits That Save You from Getting Hacked | Syed Farhan Shah | [Read More](https://medium.com/p/c80f91cb2e34) |
-| Fri, 26 Sep 2025 19:31:16 GMT | Why Most Passwords Are Useless and How to Fix Yours in 2 Minutes | Syed Farhan Shah | [Read More](https://medium.com/p/7ee7ab37115b) |
-| Fri, 26 Sep 2025 19:22:43 GMT | Quand un domaine expire, la confiance s’effondre en silence | Not A Real Player | [Read More](https://medium.com/p/d2845f7c4a07) |
-| Fri, 26 Sep 2025 19:22:12 GMT | Cybersecurity: Challenges and Counter-measures in the Maritime Industry | Engr. A. Gbenupo Ezekiel | [Read More](https://medium.com/p/0984c6e370fc) |
-| Fri, 26 Sep 2025 19:15:24 GMT | Linux Virtual Private Networks: Building Secure Tunnels | Eren Cankut Uysal | [Read More](https://medium.com/p/0d761f429bd6) |
