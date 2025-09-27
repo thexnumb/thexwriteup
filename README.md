@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 08:14:35 GMT | How to Build an Effective Vulnerability Management Program for Your Organization | Digital Defense | [Read More](https://medium.com/p/2a3b9e358672) |
+| Sat, 27 Sep 2025 08:06:21 GMT | Ransomware Protection By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3b8c2d29542d) |
+| Sat, 27 Sep 2025 07:54:48 GMT | DCSync attack — how it works, why it’s dangerous, and how to stop it | Paritosh | [Read More](https://medium.com/p/adc4e73cd281) |
+| Sat, 27 Sep 2025 07:53:53 GMT | Data Privacy Challenges in AI Systems | Cyber Security Research | [Read More](https://medium.com/p/be5adda20809) |
+| Sat, 27 Sep 2025 07:49:42 GMT | The Affirmation That Slapped Me Awake: Just Don’t Be an Asshole Today | SuperGlow | [Read More](https://medium.com/p/47ce35cd4778) |
+| Sat, 27 Sep 2025 07:47:50 GMT | Cybersecurity in Smart Grids | Cyber Security Research | [Read More](https://medium.com/p/cd5f87126608) |
+| Sat, 27 Sep 2025 07:45:28 GMT | The Affirmation That Finally Shattered My Fake Smile | SuperGlow | [Read More](https://medium.com/p/4b7218e60693) |
+| Sat, 27 Sep 2025 07:45:06 GMT | Ethical Hacking for Beginners | M M A AL NOMAN | [Read More](https://medium.com/p/1d8928e03105) |
+| Sat, 27 Sep 2025 07:38:23 GMT | How Hackers Guess Your Password in Minutes | Aj | [Read More](https://medium.com/p/b6d9f55ff6ae) |
+| Sat, 27 Sep 2025 07:35:06 GMT | When Did Being Human Become So Wrong? | Drrachnashah | [Read More](https://medium.com/p/0d177597db0a) |
+| Sat, 27 Sep 2025 07:35:03 GMT | Digital Risk Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/6ecbf7fdd22f) |
 | Sat, 27 Sep 2025 07:30:55 GMT | Cracking Cafe’s wifi password with ParrotOS Live | Cataholic | [Read More](https://medium.com/p/e91f520b8036) |
+| Sat, 27 Sep 2025 07:29:28 GMT | Zero Trust Principles in Enterprise Networks | Cyber Security Research | [Read More](https://medium.com/p/b96b6acde7ba) |
 | Sat, 27 Sep 2025 07:27:29 GMT | :    … | Pratham Shah | [Read More](https://medium.com/p/8e4747ec75ad) |
 | Sat, 27 Sep 2025 07:21:26 GMT | TryHackMe — Linux Privilege Escalation Challenge | Stilyana Petrova | [Read More](https://medium.com/p/8ab0d7e23262) |
 | Sat, 27 Sep 2025 07:17:52 GMT | NACH data breach in India, focusing on the cloud misconfiguration incident: | Yash Lote | [Read More](https://medium.com/p/4175b8a4f78f) |
@@ -101,15 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Fri, 26 Sep 2025 21:41:36 GMT | What I Learned from Watching People Ignore the Fire Alarm | Imanologya | [Read More](https://medium.com/p/48a0a984268e) |
 | Fri, 26 Sep 2025 21:29:16 GMT | Turn Your AI Security Findings Into Repeatable Automated Checks | Teri Radichel | [Read More](https://medium.com/p/48bb5880b2ff) |
 | Fri, 26 Sep 2025 21:22:33 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/6a13cdef6b26) |
-| Fri, 26 Sep 2025 21:16:36 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/c686e07cb3f0) |
-| Fri, 26 Sep 2025 21:14:48 GMT | Secure Coding Practices Through My Lens as a Cybersecurity Professional | Raleigh Guevarra | [Read More](https://medium.com/p/ae588e4f2975) |
-| Fri, 26 Sep 2025 21:10:37 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/7cd6b077450b) |
-| Fri, 26 Sep 2025 21:05:21 GMT | HTB Holmes CTF Writeup: The Card | Sparsh Ladani | [Read More](https://medium.com/p/2c6e8ca60356) |
-| Fri, 26 Sep 2025 21:04:53 GMT | PG Practice — Jacko (Windows) | Lepton | [Read More](https://medium.com/p/44f1e5fa7fe2) |
-| Fri, 26 Sep 2025 21:04:37 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/726f5471d33c) |
-| Fri, 26 Sep 2025 21:03:11 GMT | Setting Up a T-pot Honeypot on Azure VM (Complete Guide) | AmanParihar | [Read More](https://medium.com/p/cf5b867ba6a8) |
-| Fri, 26 Sep 2025 20:40:37 GMT | DevSecOps in 2025: Shifting Security Left Without Slowing Down | JSOC IT BLOG | [Read More](https://medium.com/p/ae180ac49de5) |
-| Fri, 26 Sep 2025 20:39:15 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Smith Adams | [Read More](https://medium.com/p/5df9f70d4ff3) |
-| Fri, 26 Sep 2025 20:32:06 GMT | Data PrivacyRAG Security 101: Guardrails, PII & Audits | Codastra | [Read More](https://medium.com/p/177cf43ef71b) |
-| Fri, 26 Sep 2025 20:20:50 GMT | Torque: The Missing Metric That Could Save AI From Itself | Aaron Slusher | [Read More](https://medium.com/p/1340fa040c5c) |
-| Fri, 26 Sep 2025 20:18:08 GMT | Keep your construction site secure 24/7! | Visual Monitoring Solutions | [Read More](https://medium.com/p/0ee6cabdf6d3) |
