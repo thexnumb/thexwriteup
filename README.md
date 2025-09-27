@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 18:42:17 GMT | Securing iOS Apps End-to-End: From Local Storage to Backend | Ravi | [Read More](https://medium.com/p/7d110171c196) |
+| Sat, 27 Sep 2025 18:40:28 GMT | Windows Credential Theft Detection | Neetrox | [Read More](https://medium.com/p/c486fb084fe2) |
+| Sat, 27 Sep 2025 18:31:30 GMT | I Didn’t Grow Up Thinking I’d Be in Cybersecurity | Adesola Adekanbi | [Read More](https://medium.com/p/ecfe6cbb011d) |
+| Sat, 27 Sep 2025 18:20:38 GMT | 8 Things You Should Keep Private | A thin line with Vivian | [Read More](https://medium.com/p/f51966d307e5) |
 | Sat, 27 Sep 2025 18:20:19 GMT | Stored XSS via PDF lead to One-Click Account Takeover | mrdesoky0 | [Read More](https://medium.com/p/b73dbe183cfa) |
+| Sat, 27 Sep 2025 18:20:08 GMT | SHODAN ARAMA MOTORU | Ömer Faruk TOPTAŞ | [Read More](https://medium.com/p/1cb78137e5cb) |
+| Sat, 27 Sep 2025 18:17:38 GMT | JavaScript Alchemy: My Adventures with Strange Tricks and Playful Projects | Kainat Nafees | [Read More](https://medium.com/p/4dd77aa5a76d) |
 | Sat, 27 Sep 2025 18:08:28 GMT | Would You Rather Have 100 IOCs… or One Picture of the Campaign? | Rishika Desai | [Read More](https://medium.com/p/526d30f15439) |
 | Sat, 27 Sep 2025 18:07:58 GMT | “The Rapture is Neigh” — Truth, or greatest social engineering experiment of 2025? | Pablo Vergara | [Read More](https://medium.com/p/184c78223276) |
 | Sat, 27 Sep 2025 18:06:59 GMT | The 5-Hour Rule: How Top Cybersecurity Pros Stay Ahead Without Burning Out ⏰ | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8d63ecfd7820) |
@@ -108,9 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 10:56:37 GMT | How Encryption Keeps Your Network Safe | Dkvilas | [Read More](https://medium.com/p/65f20bdc142f) |
 | Sat, 27 Sep 2025 10:53:38 GMT | What I learned from Security+ (Free Resources) | Syed Khalid Tipu Razvi (SKTR) | [Read More](https://medium.com/p/52a2f5548a7a) |
 | Sat, 27 Sep 2025 10:31:25 GMT | CERT-In Mandates Annual Cybersecurity Audits For MSMES In India | Lumiversesolution | [Read More](https://medium.com/p/904382891b52) |
-| Sat, 27 Sep 2025 10:29:25 GMT | Exploiting IKE Hosts with Weak Pre‑Shared Keys | Francesco Pastore | [Read More](https://medium.com/p/796313b53595) |
-| Sat, 27 Sep 2025 10:22:30 GMT | Apache Kafka: The Backbone of Modern Event Streaming (beginner friendly) | Pawan Kalyan | [Read More](https://medium.com/p/6b7c81767535) |
-| Sat, 27 Sep 2025 10:21:44 GMT | Cybersecurity in Bookkeeping: Protecting Financial Data in 2025 | ARUNBHAI JOSHI | [Read More](https://medium.com/p/2b396e3fd80d) |
-| Sat, 27 Sep 2025 10:18:34 GMT | Proton Mail vs Tutanota: who actually keeps your email safe? | Arnaud Wallon | [Read More](https://medium.com/p/76451ff0133b) |
-| Sat, 27 Sep 2025 10:18:28 GMT | Affordable Managed Hosting: Why Paying Less Doesn’t Mean Compromising Quality? | Mary Thomas | [Read More](https://medium.com/p/3f5e6647ed29) |
-| Sat, 27 Sep 2025 10:17:30 GMT | iOS 26iOS 26 Release Date and Features: Everything You Need to Know | Elowen Virelle | [Read More](https://medium.com/p/5790eecbc5df) |
