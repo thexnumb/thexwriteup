@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 19:03:55 GMT | Python Based CLI Password Generator | Adewale Opeloyeru | [Read More](https://medium.com/p/bc8a355b58a7) |
+| Sat, 27 Sep 2025 19:01:22 GMT | Nefedov Oleg and Black Basta: Creativity Meets Technology | Macholmes | [Read More](https://medium.com/p/1dbcac0b2265) |
+| Sat, 27 Sep 2025 18:55:16 GMT | jQuery? SetUp | Raihan Zhaky | [Read More](https://medium.com/p/74a778c0a2d8) |
+| Sat, 27 Sep 2025 18:48:26 GMT | Nmap for Cyber Warriors | Hassan Muhammad | [Read More](https://medium.com/p/9f4b9cca7b5b) |
 | Sat, 27 Sep 2025 18:42:17 GMT | Securing iOS Apps End-to-End: From Local Storage to Backend | Ravi | [Read More](https://medium.com/p/7d110171c196) |
 | Sat, 27 Sep 2025 18:40:28 GMT | Windows Credential Theft Detection | Neetrox | [Read More](https://medium.com/p/c486fb084fe2) |
+| Sat, 27 Sep 2025 18:40:04 GMT | Cybersecurity OEMs & The New CISO 2.0 Identity — A Perfect Partnership | Dr. Deep Pandey | [Read More](https://medium.com/p/79a33e7fc310) |
+| Sat, 27 Sep 2025 18:35:20 GMT | How I Became Immortal in the ISC2 Certified in Cybersecurity (CC) Exam: My Journey | Narasimha Pavan Balisetty | [Read More](https://medium.com/p/6dd07e677e21) |
+| Sat, 27 Sep 2025 18:34:40 GMT | Windows Event Log Analysis: Advanced Threat Detection and Investigation in Enterprise Security | Okan Yıldız | [Read More](https://medium.com/p/618d6819f7be) |
 | Sat, 27 Sep 2025 18:31:30 GMT | I Didn’t Grow Up Thinking I’d Be in Cybersecurity | Adesola Adekanbi | [Read More](https://medium.com/p/ecfe6cbb011d) |
 | Sat, 27 Sep 2025 18:20:38 GMT | 8 Things You Should Keep Private | A thin line with Vivian | [Read More](https://medium.com/p/f51966d307e5) |
 | Sat, 27 Sep 2025 18:20:19 GMT | Stored XSS via PDF lead to One-Click Account Takeover | mrdesoky0 | [Read More](https://medium.com/p/b73dbe183cfa) |
@@ -106,11 +113,3 @@ Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) 
 | Sat, 27 Sep 2025 11:26:06 GMT | Introducing Java 25 The Future of Reliable, Scalable, and Secure Development | Ashish Dhaware | [Read More](https://medium.com/p/a7eef42fbfa4) |
 | Sat, 27 Sep 2025 11:12:12 GMT | The Hidden Cost of Uploading: Data Privacy in the Age of AI | Anilesh Mukherjee | [Read More](https://medium.com/p/1aa8590043b0) |
 | Sat, 27 Sep 2025 11:11:38 GMT | {THM}Pickle-rick — writeup | Nihat Rashidli | [Read More](https://medium.com/p/e3b781950074) |
-| Sat, 27 Sep 2025 11:06:15 GMT | Cyber Attacks Becoming a Nightmare for UK Businesses. | Aleksander Gorkowienko | [Read More](https://medium.com/p/a3cd2ac9e348) |
-| Sat, 27 Sep 2025 11:04:06 GMT | Wi-Fi Security Testing using
-Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
-| Sat, 27 Sep 2025 10:59:35 GMT | The AI Hiring Bot Has Millions of Sensitive Data Records Exposed | Aleksander Gorkowienko | [Read More](https://medium.com/p/87661c861800) |
-| Sat, 27 Sep 2025 10:57:04 GMT | My first bug bounty report | froze3en | [Read More](https://medium.com/p/e90e2df3c0b5) |
-| Sat, 27 Sep 2025 10:56:37 GMT | How Encryption Keeps Your Network Safe | Dkvilas | [Read More](https://medium.com/p/65f20bdc142f) |
-| Sat, 27 Sep 2025 10:53:38 GMT | What I learned from Security+ (Free Resources) | Syed Khalid Tipu Razvi (SKTR) | [Read More](https://medium.com/p/52a2f5548a7a) |
-| Sat, 27 Sep 2025 10:31:25 GMT | CERT-In Mandates Annual Cybersecurity Audits For MSMES In India | Lumiversesolution | [Read More](https://medium.com/p/904382891b52) |
