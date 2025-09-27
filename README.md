@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 04:07:50 GMT | The Hidden Magic of Python in My Everyday Coding Life | Kainat Nafees | [Read More](https://medium.com/p/dbc877b0e0ed) |
+| Sat, 27 Sep 2025 04:06:18 GMT | SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose | Iski | [Read More](https://medium.com/p/ea49e0f7a627) |
+| Sat, 27 Sep 2025 03:52:29 GMT | Is Hydraulic Oil Flammable? Understanding Flash Point and Safety | Whyps | [Read More](https://medium.com/p/3ef19303afe6) |
+| Sat, 27 Sep 2025 03:46:29 GMT | I Wanted Privacy… So I Built My Own Browser (Here’s how I did it) | Pannag Kumaar | [Read More](https://medium.com/p/c5d442d5c93f) |
+| Sat, 27 Sep 2025 03:42:36 GMT | CVE-2025–56676 - Critical Vulnerability in Zender Gateway Allows Account Takeover | DarkLotus | [Read More](https://medium.com/p/2b5bcb50c762) |
 | Sat, 27 Sep 2025 03:42:28 GMT | Escalating an HTML Injection into 1-Click Account Takeover | Marx Chryz Del Mundo | [Read More](https://medium.com/p/3ba9dbf0ce5f) |
+| Sat, 27 Sep 2025 03:41:56 GMT | TryHackMe #60 - FlareVM: Arsenal of Tools | 0xGroot | [Read More](https://medium.com/p/6be990207212) |
 | Sat, 27 Sep 2025 03:38:05 GMT | TryHackMe #59 - REMnux: Getting Started | 0xGroot | [Read More](https://medium.com/p/718badc5f7dd) |
+| Sat, 27 Sep 2025 03:35:09 GMT | Taming Cloud & Container Vulnerabilities: My Journey with Prisma, EKS Scanning, and Real-World… | Rsprasangi | [Read More](https://medium.com/p/85f2850fdf27) |
 | Sat, 27 Sep 2025 03:31:58 GMT | API Pentesting Part 4: Broken Object Level Authorization -The Silent Identity Swap | Blue_eye | [Read More](https://medium.com/p/b6f38a4f8d10) |
 | Sat, 27 Sep 2025 03:31:58 GMT | Alleged PayPal Credential Dump: 15.8 Million Plaintext Logins Surface Online | Deven Chhajed | [Read More](https://medium.com/p/65d979d600c0) |
 | Sat, 27 Sep 2025 03:28:05 GMT | TryHackMe #58 - CAPA: The Basics | 0xGroot | [Read More](https://medium.com/p/c9401a251892) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 18:16:26 GMT | Preventing Amazon Q From Making The Same Mistakes Over and Over | Teri Radichel | [Read More](https://medium.com/p/4220c4c1a356) |
 | Fri, 26 Sep 2025 18:14:29 GMT | My conversation with Chat GPT | Boss Babes Unite | [Read More](https://medium.com/p/29bc2b8681a4) |
 | Fri, 26 Sep 2025 18:13:20 GMT | Blueprint: The Foundation of Strategic Planning and Design | digital mind | [Read More](https://medium.com/p/685ae212c0c1) |
-| Fri, 26 Sep 2025 18:10:45 GMT | Cybersecurity Challenges in Open Banking | Cyber Security Research | [Read More](https://medium.com/p/939d5b18e60b) |
-| Fri, 26 Sep 2025 18:06:55 GMT | Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find | Dipu Basak | [Read More](https://medium.com/p/57c3e19e0a36) |
-| Fri, 26 Sep 2025 17:53:01 GMT | npm Malware is the New Phishing : How Supply Chain Attacks are Evolving | shivangi satija | [Read More](https://medium.com/p/08fb65bf573e) |
-| Fri, 26 Sep 2025 17:49:21 GMT | What Are .bak Files? The Unsung Heroes of Backups | Natarajan C K | [Read More](https://medium.com/p/bbd97af0f6fe) |
-| Fri, 26 Sep 2025 17:45:51 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking | Nandana Vipul | [Read More](https://medium.com/p/4c8f185d5ba1) |
-| Fri, 26 Sep 2025 17:43:44 GMT | Guarding the Gates: A SOC Analyst’s Guide to Network Perimeter Defense ️Network Security… | Furkanctiner | [Read More](https://medium.com/p/aaf26486fb4d) |
-| Fri, 26 Sep 2025 17:42:34 GMT | From Registration Number Enumeration to Dos: Chaining IDOR with OTP Bypass in Slot Booking System | Pa11av1 | [Read More](https://medium.com/p/1444414a0fb4) |
