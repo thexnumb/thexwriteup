@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 05:08:23 GMT | China Prepares for Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/1f2b472101d8) |
+| Sat, 27 Sep 2025 04:58:55 GMT | Why 3 is Unlucky for AI | Nuwan I. Senaratna | [Read More](https://medium.com/p/5274fc8a72d9) |
+| Sat, 27 Sep 2025 04:46:22 GMT | Temp Gmail / Fake Gmail — Safe & Free Disposable Email | gtemp657 | [Read More](https://medium.com/p/466fbf48e1d2) |
+| Sat, 27 Sep 2025 04:34:15 GMT | Inspired by Film LA www.filmla.com | Eeryn Ann In Limbo | [Read More](https://medium.com/p/1d2de813787c) |
 | Sat, 27 Sep 2025 04:07:50 GMT | The Hidden Magic of Python in My Everyday Coding Life | Kainat Nafees | [Read More](https://medium.com/p/dbc877b0e0ed) |
 | Sat, 27 Sep 2025 04:06:18 GMT | SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose | Iski | [Read More](https://medium.com/p/ea49e0f7a627) |
 | Sat, 27 Sep 2025 03:52:29 GMT | Is Hydraulic Oil Flammable? Understanding Flash Point and Safety | Whyps | [Read More](https://medium.com/p/3ef19303afe6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 18:22:49 GMT | Building Real-World Automation with Python | Kainat Nafees | [Read More](https://medium.com/p/b734a9f89b7a) |
 | Fri, 26 Sep 2025 18:21:28 GMT | Sigma rule: Unauthenticated access attempts to Cisco ASA/FTD WebVPN (noise-reduced) | Abdul | [Read More](https://medium.com/p/f570f89f9403) |
 | Fri, 26 Sep 2025 18:19:18 GMT | Top 10 Cybersecurity Trends (2025) | Kishor Kalivarapu | [Read More](https://medium.com/p/d2191ddafb71) |
-| Fri, 26 Sep 2025 18:17:16 GMT | Deep Packet Inspection for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/4587f9398788) |
-| Fri, 26 Sep 2025 18:16:26 GMT | Preventing Amazon Q From Making The Same Mistakes Over and Over | Teri Radichel | [Read More](https://medium.com/p/4220c4c1a356) |
-| Fri, 26 Sep 2025 18:14:29 GMT | My conversation with Chat GPT | Boss Babes Unite | [Read More](https://medium.com/p/29bc2b8681a4) |
-| Fri, 26 Sep 2025 18:13:20 GMT | Blueprint: The Foundation of Strategic Planning and Design | digital mind | [Read More](https://medium.com/p/685ae212c0c1) |
