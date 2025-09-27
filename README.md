@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 11:12:12 GMT | The Hidden Cost of Uploading: Data Privacy in the Age of AI | Anilesh Mukherjee | [Read More](https://medium.com/p/1aa8590043b0) |
+| Sat, 27 Sep 2025 11:11:38 GMT | {THM}Pickle-rick — writeup | Nihat Rashidli | [Read More](https://medium.com/p/e3b781950074) |
+| Sat, 27 Sep 2025 11:06:15 GMT | Cyber Attacks Becoming a Nightmare for UK Businesses. | Aleksander Gorkowienko | [Read More](https://medium.com/p/a3cd2ac9e348) |
+| Sat, 27 Sep 2025 11:04:06 GMT | Wi-Fi Security Testing using
+Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
+| Sat, 27 Sep 2025 10:59:35 GMT | The AI Hiring Bot Has Millions of Sensitive Data Records Exposed | Aleksander Gorkowienko | [Read More](https://medium.com/p/87661c861800) |
+| Sat, 27 Sep 2025 10:57:04 GMT | My first bug bounty report | froze3en | [Read More](https://medium.com/p/e90e2df3c0b5) |
+| Sat, 27 Sep 2025 10:56:37 GMT | How Encryption Keeps Your Network Safe | Dkvilas | [Read More](https://medium.com/p/65f20bdc142f) |
+| Sat, 27 Sep 2025 10:53:38 GMT | What I learned from Security+ (Free Resources) | Syed Khalid Tipu Razvi (SKTR) | [Read More](https://medium.com/p/52a2f5548a7a) |
+| Sat, 27 Sep 2025 10:31:25 GMT | CERT-In Mandates Annual Cybersecurity Audits For MSMES In India | Lumiversesolution | [Read More](https://medium.com/p/904382891b52) |
 | Sat, 27 Sep 2025 10:29:25 GMT | Exploiting IKE Hosts with Weak Pre‑Shared Keys | Francesco Pastore | [Read More](https://medium.com/p/796313b53595) |
 | Sat, 27 Sep 2025 10:22:30 GMT | Apache Kafka: The Backbone of Modern Event Streaming (beginner friendly) | Pawan Kalyan | [Read More](https://medium.com/p/6b7c81767535) |
 | Sat, 27 Sep 2025 10:21:44 GMT | Cybersecurity in Bookkeeping: Protecting Financial Data in 2025 | ARUNBHAI JOSHI | [Read More](https://medium.com/p/2b396e3fd80d) |
@@ -104,12 +114,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Sat, 27 Sep 2025 05:19:28 GMT | You Won’t Believe How Easy It Is To Get Hacked: The ULTIMATE .NET XSS Guide | Jithin Prem | [Read More](https://medium.com/p/bfcea135fd6e) |
 | Sat, 27 Sep 2025 05:18:47 GMT | TryHackMe - Brute It write up — Aryamhsa | Aryamhsa | [Read More](https://medium.com/p/d2cbf0ea0210) |
 | Sat, 27 Sep 2025 05:08:23 GMT | China Prepares for Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/1f2b472101d8) |
-| Sat, 27 Sep 2025 04:58:55 GMT | Why 3 is Unlucky for AI | Nuwan I. Senaratna | [Read More](https://medium.com/p/5274fc8a72d9) |
-| Sat, 27 Sep 2025 04:52:15 GMT | Risk of being known | Santhoshi Kannan | [Read More](https://medium.com/p/b7419408ea21) |
-| Sat, 27 Sep 2025 04:46:22 GMT | Temp Gmail / Fake Gmail — Safe & Free Disposable Email | gtemp657 | [Read More](https://medium.com/p/466fbf48e1d2) |
-| Sat, 27 Sep 2025 04:34:15 GMT | Inspired by Film LA www.filmla.com | Eeryn Ann In Limbo | [Read More](https://medium.com/p/1d2de813787c) |
-| Sat, 27 Sep 2025 04:07:50 GMT | The Hidden Magic of Python in My Everyday Coding Life | Kainat Nafees | [Read More](https://medium.com/p/dbc877b0e0ed) |
-| Sat, 27 Sep 2025 04:06:18 GMT | SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose | Iski | [Read More](https://medium.com/p/ea49e0f7a627) |
-| Sat, 27 Sep 2025 03:52:29 GMT | Is Hydraulic Oil Flammable? Understanding Flash Point and Safety | Whyps | [Read More](https://medium.com/p/3ef19303afe6) |
-| Sat, 27 Sep 2025 03:46:29 GMT | I Wanted Privacy… So I Built My Own Browser (Here’s how I did it) | Pannag Kumaar | [Read More](https://medium.com/p/c5d442d5c93f) |
-| Sat, 27 Sep 2025 03:42:36 GMT | CVE-2025–56676 - Critical Vulnerability in Zender Gateway Allows Account Takeover | DarkLotus | [Read More](https://medium.com/p/2b5bcb50c762) |
