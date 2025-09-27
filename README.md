@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 20:27:30 GMT | Baulero | Carlos Pastrana | [Read More](https://medium.com/p/b6eee0ba1703) |
+| Sat, 27 Sep 2025 20:27:10 GMT | Building CERT-In Compliant SBOMs: A Complete Guide to Software Bill of Materials for Indian… | sumit singh | [Read More](https://medium.com/p/4ff736ede6ee) |
 | Sat, 27 Sep 2025 20:14:47 GMT | Project 1: Making Sense of Mobile App Security: My First Dashboard | umida murat | [Read More](https://medium.com/p/e863ef157e82) |
 | Sat, 27 Sep 2025 20:11:08 GMT | The Most Common Computer Problems (and How to Fix Them) | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/b6548d555ce6) |
+| Sat, 27 Sep 2025 20:10:48 GMT | When the OTP never came… but the ticket did! | Anubis | [Read More](https://medium.com/p/82e71457df5b) |
+| Sat, 27 Sep 2025 20:10:46 GMT | Before Building AI Defenses, I Had to Start Here: The NIST AI RMF and What I Learned from it | Yosef Barsheshet | [Read More](https://medium.com/p/9405f5c7cf01) |
 | Sat, 27 Sep 2025 20:10:03 GMT | Why OSINT is Essential for Businesses and Individuals | Shohel Rana | [Read More](https://medium.com/p/23181227c799) |
+| Sat, 27 Sep 2025 20:09:46 GMT | Building Wiz Integration Network (WIN): How We Managed to Create a Thriving Tech Partner Program to… | Oron Noah | [Read More](https://medium.com/p/9ea35fcac0b4) |
 | Sat, 27 Sep 2025 20:02:58 GMT | DIY vs. Professional Computer Repair: When to Call an Expert | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/ae885fdb45f6) |
 | Sat, 27 Sep 2025 20:00:57 GMT | Windows 10 Support is Ending: What You Need to Know | Raviteja Mureboina | [Read More](https://medium.com/p/8fc1a5bdfa56) |
 | Sat, 27 Sep 2025 19:51:40 GMT | Becoming Virtually Untraceable — #9–25_UnM45k!ng_W4tcH3r5.png | z3r0trust | [Read More](https://medium.com/p/caf353464c63) |
@@ -108,8 +113,3 @@ Aircrack-ng | NizzCorp Academy | [Read More](https://medium.com/p/f5c3d4212d8e) 
 | Sat, 27 Sep 2025 13:01:30 GMT | Extracted(TryHackMe walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/564f9fe9ed0f) |
 | Sat, 27 Sep 2025 12:39:08 GMT | Mastering Kubernetes Dynamic Admission Controllers: From Zero to Production Hero | Salwan Mohamed | [Read More](https://medium.com/p/686b3786e6cb) |
 | Sat, 27 Sep 2025 12:37:42 GMT | Deep Dive into Hosting (REST + WebSockets) on an Unmanaged VM (Netcup) — Going Live: Proxy & HTTPS | Abhinav Kumar | [Read More](https://medium.com/p/ea23ebadc51f) |
-| Sat, 27 Sep 2025 12:36:34 GMT | TryHackMe — Soupedecode 01 Room Walkthrough | SubhaDip | [Read More](https://medium.com/p/7d6b744794ef) |
-| Sat, 27 Sep 2025 12:32:53 GMT | DockerLabs Writeup — Database (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2993b171d6bd) |
-| Sat, 27 Sep 2025 12:22:42 GMT | Understanding IDOR: One of the Most Overlooked Security Flaws | Nilesh Kale | [Read More](https://medium.com/p/4f982ef5c4d1) |
-| Sat, 27 Sep 2025 12:18:01 GMT | OffSec: Nagoya— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/c80e6e215a22) |
-| Sat, 27 Sep 2025 12:12:31 GMT | A Simple Explanation of a Complex 2FA Bypass Technique | Ibtissam hammadi | [Read More](https://medium.com/p/de8b1db064a0) |
