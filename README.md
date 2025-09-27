@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 06:38:26 GMT | Insecure data storage — part 2 Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/046d8d8e356e) |
+| Sat, 27 Sep 2025 06:36:55 GMT | The Convergence of Control and Security: An In-depth Guide to OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/0c2f5bf9d1f9) |
+| Sat, 27 Sep 2025 06:36:22 GMT | How to Keep Your Website Secure on a Low-Cost Hosting Plan? | Andy | [Read More](https://medium.com/p/0665d8b42a43) |
+| Sat, 27 Sep 2025 06:36:03 GMT | Security Beyond Uniforms:
+Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read More](https://medium.com/p/c3faa55378dc) |
+| Sat, 27 Sep 2025 06:33:49 GMT | Corporate Frauds & Cyber Risks: Two Sides of the Same Investor Headache | Amrik  Hanjra | [Read More](https://medium.com/p/607ea90bb184) |
+| Sat, 27 Sep 2025 06:29:04 GMT | AI Data Privacy in 2025: Tackle Breaches and Fines with Ainiro.io’s No-Code Security | barnascript | [Read More](https://medium.com/p/81cd3d2a0772) |
+| Sat, 27 Sep 2025 06:26:08 GMT | Cyber Insurance’s Growing Pains: Big Market, Bigger Uncertainty | Gaurav Sharma | [Read More](https://medium.com/p/faaa3782ace4) |
+| Sat, 27 Sep 2025 06:24:42 GMT | From Informative to Rewarded: The Surprising Journey of a Hyperlink Injection Vulnerability | Be nice insabat | [Read More](https://medium.com/p/3d5755d93a55) |
+| Sat, 27 Sep 2025 06:23:25 GMT | Volvo Group Data Breach: Ransomware Attack Hits HR Supplier | Peta Pavan | [Read More](https://medium.com/p/33599801ffc4) |
+| Sat, 27 Sep 2025 06:22:26 GMT | Security Features for Appointment Scheduling Software in 2025 | Paul Smith | [Read More](https://medium.com/p/8c672ee7bf3e) |
 | Sat, 27 Sep 2025 06:07:40 GMT | Why a Bachelor of Science in Information Technology is a Smart Choice Today | Mohammad Rizwan | [Read More](https://medium.com/p/435bdc35de69) |
 | Sat, 27 Sep 2025 06:04:19 GMT | The Python Script I Built That Broke Into My Own Wi-Fi | Muhummad Zaki | [Read More](https://medium.com/p/6471e993e95b) |
 | Sat, 27 Sep 2025 05:58:53 GMT | The Harsh Truth: Why Most Cybersecurity Resumes Get Rejected | Taimur Ijlal | [Read More](https://medium.com/p/f04fe03a0961) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 19:22:43 GMT | Quand un domaine expire, la confiance s’effondre en silence | Not A Real Player | [Read More](https://medium.com/p/d2845f7c4a07) |
 | Fri, 26 Sep 2025 19:22:12 GMT | Cybersecurity: Challenges and Counter-measures in the Maritime Industry | Engr. A. Gbenupo Ezekiel | [Read More](https://medium.com/p/0984c6e370fc) |
 | Fri, 26 Sep 2025 19:15:24 GMT | Linux Virtual Private Networks: Building Secure Tunnels | Eren Cankut Uysal | [Read More](https://medium.com/p/0d761f429bd6) |
-| Fri, 26 Sep 2025 19:08:54 GMT | Network Automation Tutorial: Automatically Shut down Unused Interfaces with Ansible + Python | Jean Bertro Paul | [Read More](https://medium.com/p/8de5d87f7845) |
-| Fri, 26 Sep 2025 19:07:02 GMT | Security in Multi-Tenant Cloud Environments | Cyber Security Research | [Read More](https://medium.com/p/519970f27ba9) |
-| Fri, 26 Sep 2025 19:05:55 GMT | Cyber Security GRC Framework | Ajansistan Etsy | [Read More](https://medium.com/p/503b87acc88e) |
-| Fri, 26 Sep 2025 19:04:01 GMT | Exploring the Strategic Advantages of Establishing an Enclave for CMMC Compliance: Enhancing… | Joseph Tarun | [Read More](https://medium.com/p/3c95131843f5) |
-| Fri, 26 Sep 2025 19:00:18 GMT | Cybersecurity in Digital Twins of Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/1cc1c04d3890) |
-| Fri, 26 Sep 2025 18:59:09 GMT | Default Credentials: The Hidden Door to Admin Panels | Yasser Gersy | [Read More](https://medium.com/p/22a0461c8772) |
-| Fri, 26 Sep 2025 18:55:58 GMT | ONLINE HATE, THE HOBBY NO ONE ASKED FOR. | Naturinda Patra | [Read More](https://medium.com/p/3a26c71d41eb) |
-| Fri, 26 Sep 2025 18:53:48 GMT | AI-Powered Threat Intelligence Systems | Cyber Security Research | [Read More](https://medium.com/p/71ee753cb650) |
-| Fri, 26 Sep 2025 18:47:46 GMT | Identity Governance and Administration | Cyber Security Research | [Read More](https://medium.com/p/21a36005dac5) |
-| Fri, 26 Sep 2025 18:44:49 GMT | Zero Trust vs. Traditional VPNs: The Future of Perimeterless Secure Access | Ahmed K Emara | [Read More](https://medium.com/p/e5595dd0b178) |
