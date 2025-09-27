@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 15:11:49 GMT | Will AI Kill Programming Jobs? The Truth in 2025 | Vipul Sonule | [Read More](https://medium.com/p/c8593980302e) |
+| Sat, 27 Sep 2025 15:06:03 GMT | Puppy Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/4b18f04d3b68) |
+| Sat, 27 Sep 2025 15:02:46 GMT | TryHackMe Stolen Mount Walkthrough | Aaryan Parida | [Read More](https://medium.com/p/e89f6697e15f) |
+| Sat, 27 Sep 2025 14:57:30 GMT | Try-Hack-Me Challenge walkthrough Blaster {CTF} | Arka Priya Das | [Read More](https://medium.com/p/8cddee6c39f7) |
+| Sat, 27 Sep 2025 14:55:56 GMT | The European Union’s Plans to Build a Drone Wall | Max Nomadov | [Read More](https://medium.com/p/6e2e3c939738) |
+| Sat, 27 Sep 2025 14:53:13 GMT | TryHackMe - Network Security Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/16a161076463) |
+| Sat, 27 Sep 2025 14:44:35 GMT | The Secret Door You Didn’t Know Existed in WordPress: “XXE Vulnerability” | Pandit Shivam | [Read More](https://medium.com/p/2a0a05bfa18c) |
+| Sat, 27 Sep 2025 14:41:56 GMT | How AI Has Changed the Game for Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/d9560319eae1) |
+| Sat, 27 Sep 2025 14:38:31 GMT | Which SIEM Should I Study? | Tyler Wall | [Read More](https://medium.com/p/a2c33bfebb50) |
 | Sat, 27 Sep 2025 14:25:38 GMT | Building a SIEM Homelab with Wazuh, Sysmon, and Active Directory | AmanParihar | [Read More](https://medium.com/p/ff90ff37fbcb) |
 | Sat, 27 Sep 2025 14:24:20 GMT | Why SQL Attacks Still Work – And How to Stop Them ✅ (balanced, direct) | Ashishsinghu | [Read More](https://medium.com/p/0099135090d5) |
 | Sat, 27 Sep 2025 14:17:52 GMT | The Silent Killer — A05: Security Misconfiguration - 10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/965959615a2e) |
@@ -105,12 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 08:39:09 GMT | Building 5ms Authorization: Why We Use AI to Write Policies, Not Execute Them | Giorgos Poulis | [Read More](https://medium.com/p/29e5a044aec5) |
 | Sat, 27 Sep 2025 08:33:55 GMT | Linux Security Information and Event Management (SIEM) | Eren Cankut Uysal | [Read More](https://medium.com/p/7b113b243d76) |
 | Sat, 27 Sep 2025 08:33:11 GMT | What Is a Firewall And How Does It Protect You? | Jan Skopal | [Read More](https://medium.com/p/d48ea04757fc) |
-| Sat, 27 Sep 2025 08:30:52 GMT | Is There Anything Deeper Than The Deep Web? | Ricky | [Read More](https://medium.com/p/fd874adfc49c) |
-| Sat, 27 Sep 2025 08:21:03 GMT | Developer calls it a bug, but Product Manager call it feature | CodeSculptorX | [Read More](https://medium.com/p/eca82f6f26f9) |
-| Sat, 27 Sep 2025 08:15:19 GMT | Trending Technologies in Jobs (2025) | Trendingout | [Read More](https://medium.com/p/59ac4fd797ee) |
-| Sat, 27 Sep 2025 08:14:35 GMT | How to Build an Effective Vulnerability Management Program for Your Organization | Digital Defense | [Read More](https://medium.com/p/2a3b9e358672) |
-| Sat, 27 Sep 2025 08:06:21 GMT | Ransomware Protection By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3b8c2d29542d) |
-| Sat, 27 Sep 2025 07:54:48 GMT | DCSync attack — how it works, why it’s dangerous, and how to stop it | Paritosh | [Read More](https://medium.com/p/adc4e73cd281) |
-| Sat, 27 Sep 2025 07:53:53 GMT | Data Privacy Challenges in AI Systems | Cyber Security Research | [Read More](https://medium.com/p/be5adda20809) |
-| Sat, 27 Sep 2025 07:49:42 GMT | The Affirmation That Slapped Me Awake: Just Don’t Be an Asshole Today | SuperGlow | [Read More](https://medium.com/p/47ce35cd4778) |
-| Sat, 27 Sep 2025 07:47:50 GMT | Cybersecurity in Smart Grids | Cyber Security Research | [Read More](https://medium.com/p/cd5f87126608) |
