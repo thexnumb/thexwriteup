@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 07:30:55 GMT | Cracking Cafe’s wifi password with ParrotOS Live | Cataholic | [Read More](https://medium.com/p/e91f520b8036) |
+| Sat, 27 Sep 2025 07:27:29 GMT | :    … | Pratham Shah | [Read More](https://medium.com/p/8e4747ec75ad) |
+| Sat, 27 Sep 2025 07:21:26 GMT | TryHackMe — Linux Privilege Escalation Challenge | Stilyana Petrova | [Read More](https://medium.com/p/8ab0d7e23262) |
+| Sat, 27 Sep 2025 07:17:52 GMT | NACH data breach in India, focusing on the cloud misconfiguration incident: | Yash Lote | [Read More](https://medium.com/p/4175b8a4f78f) |
+| Sat, 27 Sep 2025 07:13:59 GMT | Top 10 AI Tools for Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/c85ac49bd769) |
 | Sat, 27 Sep 2025 07:01:55 GMT | The New Horsepower: Quantifying Cyber Risk in Lap Time for Competitive Advantage in F1™ | Timothy Harmon, CISSP | [Read More](https://medium.com/p/01a218349f3d) |
 | Sat, 27 Sep 2025 07:01:02 GMT | Comprehensive Concrete CMS Solutions for Powerful Digital Growth | Chris | [Read More](https://medium.com/p/f626967ed118) |
 | Sat, 27 Sep 2025 06:59:28 GMT | The Data Science Mindset That Changed How I Learn Everything | Fateyaly | [Read More](https://medium.com/p/b3374222e65e) |
@@ -108,8 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Fri, 26 Sep 2025 20:32:06 GMT | Data PrivacyRAG Security 101: Guardrails, PII & Audits | Codastra | [Read More](https://medium.com/p/177cf43ef71b) |
 | Fri, 26 Sep 2025 20:20:50 GMT | Torque: The Missing Metric That Could Save AI From Itself | Aaron Slusher | [Read More](https://medium.com/p/1340fa040c5c) |
 | Fri, 26 Sep 2025 20:18:08 GMT | Keep your construction site secure 24/7! | Visual Monitoring Solutions | [Read More](https://medium.com/p/0ee6cabdf6d3) |
-| Fri, 26 Sep 2025 20:13:54 GMT | Linux Kernel Exploit Development: A Practical Guide | Eren Cankut Uysal | [Read More](https://medium.com/p/9edb652e6475) |
-| Fri, 26 Sep 2025 20:07:36 GMT | Linux Containerization Security Best Practices | Eren Cankut Uysal | [Read More](https://medium.com/p/a9946447f53c) |
-| Fri, 26 Sep 2025 20:04:40 GMT | Stop Cramming, Start Mastering: The Modern Professional’s Guide to Acing Any Certification | Neilconnor2003 | [Read More](https://medium.com/p/daaa20228da0) |
-| Fri, 26 Sep 2025 20:01:09 GMT | Day 9 — Defending the Network: A Beginner’s Guide to Snort Intrusion Detection and Prevention | HackTrace | [Read More](https://medium.com/p/efbd12d42f4d) |
-| Fri, 26 Sep 2025 19:56:00 GMT | Digital ID will be mandatory in order to work in the UK, as part of plans to tackle illegal… | Frank Kingsley | [Read More](https://medium.com/p/de1332e10240) |
