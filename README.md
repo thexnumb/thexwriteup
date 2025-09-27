@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 13:31:48 GMT | How a Newline Injection in Folder Names Broke Access Revocation: 750$ Bug | Abhi Sharma | [Read More](https://medium.com/p/f9a73a8cd978) |
+| Sat, 27 Sep 2025 13:20:00 GMT | “Wait…” | Christabel | [Read More](https://medium.com/p/8066026b7cb6) |
+| Sat, 27 Sep 2025 13:19:30 GMT | Should I Click???? | Dorcus Kwagala Natabo | [Read More](https://medium.com/p/68bb341d7aa4) |
 | Sat, 27 Sep 2025 13:09:23 GMT | When Love Becomes a Lie: The Romance Scam That Almost Destroyed My Friend’s Faith in Everything | Napoleon Beltran | [Read More](https://medium.com/p/44513682ee2c) |
 | Sat, 27 Sep 2025 13:06:22 GMT | Classroom Computer Monitoring with SentryPC: The Future of School Security and Student Safety | Paul Meyer | [Read More](https://medium.com/p/d05552a18bbd) |
 | Sat, 27 Sep 2025 13:06:11 GMT | China’s Digital Shadow: PlugX and Bookworm Malware Creeping into Asian Networks | Athishsagarkishan | [Read More](https://medium.com/p/421ce1f7152f) |
@@ -110,6 +113,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 07:21:26 GMT | TryHackMe — Linux Privilege Escalation Challenge | Stilyana Petrova | [Read More](https://medium.com/p/8ab0d7e23262) |
 | Sat, 27 Sep 2025 07:17:52 GMT | NACH data breach in India, focusing on the cloud misconfiguration incident: | Yash Lote | [Read More](https://medium.com/p/4175b8a4f78f) |
 | Sat, 27 Sep 2025 07:13:59 GMT | Top 10 AI Tools for Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/c85ac49bd769) |
-| Sat, 27 Sep 2025 07:01:55 GMT | The New Horsepower: Quantifying Cyber Risk in Lap Time for Competitive Advantage in F1™ | Timothy Harmon, CISSP | [Read More](https://medium.com/p/01a218349f3d) |
-| Sat, 27 Sep 2025 07:01:02 GMT | Comprehensive Concrete CMS Solutions for Powerful Digital Growth | Chris | [Read More](https://medium.com/p/f626967ed118) |
-| Sat, 27 Sep 2025 06:59:28 GMT | The Data Science Mindset That Changed How I Learn Everything | Fateyaly | [Read More](https://medium.com/p/b3374222e65e) |
