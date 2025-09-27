@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 23:15:32 GMT | The $18 Million Wake-Up Call: What Hamilton’s Cyberattack Teaches Us About Security in 2025 | Gurdeeps Ca | [Read More](https://medium.com/p/13dcbe84cddf) |
+| Sat, 27 Sep 2025 22:54:12 GMT | CVE-2024–3400 (Review) | Raphael Nicolich | [Read More](https://medium.com/p/8be1743f8c8b) |
+| Sat, 27 Sep 2025 22:48:33 GMT | You cannot do it alone! — Saint Macarius the Great | Childish Wiseguy | [Read More](https://medium.com/p/0161389393e1) |
+| Sat, 27 Sep 2025 22:43:33 GMT | TryHackMe Challenge Write-up: Friday Overtime | Aboelrous | [Read More](https://medium.com/p/118b80be0975) |
+| Sat, 27 Sep 2025 22:34:10 GMT | Building a Threat Intelligence Program | Cyber Security Research | [Read More](https://medium.com/p/dd1cecbadf00) |
 | Sat, 27 Sep 2025 22:24:27 GMT | Why You Have to Wait for Your CVE: Behind the Scenes of MITRE’s Process | embossdotar | [Read More](https://medium.com/p/394369fbd3b5) |
 | Sat, 27 Sep 2025 22:20:28 GMT | Privacy Risks in Biometric Data Collection | Cyber Security Research | [Read More](https://medium.com/p/2e42e625ac07) |
 | Sat, 27 Sep 2025 22:13:35 GMT | AI in Email Security Systems | Cyber Security Research | [Read More](https://medium.com/p/abd15fad1019) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 14:41:56 GMT | How AI Has Changed the Game for Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/d9560319eae1) |
 | Sat, 27 Sep 2025 14:38:31 GMT | Which SIEM Should I Study? | Tyler Wall | [Read More](https://medium.com/p/a2c33bfebb50) |
 | Sat, 27 Sep 2025 14:25:38 GMT | Building a SIEM Homelab with Wazuh, Sysmon, and Active Directory | AmanParihar | [Read More](https://medium.com/p/ff90ff37fbcb) |
-| Sat, 27 Sep 2025 14:24:20 GMT | Why SQL Attacks Still Work – And How to Stop Them ✅ (balanced, direct) | Ashishsinghu | [Read More](https://medium.com/p/0099135090d5) |
-| Sat, 27 Sep 2025 14:17:52 GMT | The Silent Killer — A05: Security Misconfiguration - 10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/965959615a2e) |
-| Sat, 27 Sep 2025 14:17:11 GMT | The 5 “Forbidden” Cookie Auth Tricks That Hardcore Developers Swear By | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/a5828be49a34) |
-| Sat, 27 Sep 2025 14:09:07 GMT | The Books That Taught Me How to Think Like a Technologist | Aj | [Read More](https://medium.com/p/4d7ee7627114) |
-| Sat, 27 Sep 2025 14:04:09 GMT | Security as a Shared Responsibility: Why Users Matter Too | Abatis ABTU | [Read More](https://medium.com/p/6c11f81e6085) |
