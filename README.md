@@ -12,10 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 13:09:23 GMT | When Love Becomes a Lie: The Romance Scam That Almost Destroyed My Friend’s Faith in Everything | Napoleon Beltran | [Read More](https://medium.com/p/44513682ee2c) |
+| Sat, 27 Sep 2025 13:06:22 GMT | Classroom Computer Monitoring with SentryPC: The Future of School Security and Student Safety | Paul Meyer | [Read More](https://medium.com/p/d05552a18bbd) |
+| Sat, 27 Sep 2025 13:06:11 GMT | China’s Digital Shadow: PlugX and Bookworm Malware Creeping into Asian Networks | Athishsagarkishan | [Read More](https://medium.com/p/421ce1f7152f) |
+| Sat, 27 Sep 2025 13:05:45 GMT | Musk’s xAI Secures Deal to Supply Grok Chatbot to U.S. Federal Agencies | Udesh Hashara Senanayake | [Read More](https://medium.com/p/7f2ef9981711) |
+| Sat, 27 Sep 2025 13:01:30 GMT | Extracted(TryHackMe walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/564f9fe9ed0f) |
+| Sat, 27 Sep 2025 12:39:08 GMT | Mastering Kubernetes Dynamic Admission Controllers: From Zero to Production Hero | Salwan Mohamed | [Read More](https://medium.com/p/686b3786e6cb) |
+| Sat, 27 Sep 2025 12:37:42 GMT | Deep Dive into Hosting (REST + WebSockets) on an Unmanaged VM (Netcup) — Going Live: Proxy & HTTPS | Abhinav Kumar | [Read More](https://medium.com/p/ea23ebadc51f) |
+| Sat, 27 Sep 2025 12:36:34 GMT | TryHackMe — Soupedecode 01 Room Walkthrough | SubhaDip | [Read More](https://medium.com/p/7d6b744794ef) |
 | Sat, 27 Sep 2025 12:32:53 GMT | DockerLabs Writeup — Database (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2993b171d6bd) |
 | Sat, 27 Sep 2025 12:22:42 GMT | Understanding IDOR: One of the Most Overlooked Security Flaws | Nilesh Kale | [Read More](https://medium.com/p/4f982ef5c4d1) |
 | Sat, 27 Sep 2025 12:18:01 GMT | OffSec: Nagoya— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/c80e6e215a22) |
 | Sat, 27 Sep 2025 12:12:31 GMT | A Simple Explanation of a Complex 2FA Bypass Technique | Ibtissam hammadi | [Read More](https://medium.com/p/de8b1db064a0) |
+| Sat, 27 Sep 2025 12:05:00 GMT | When Hackers Meet Their Match: How AI is Changing Cybersecurity | Whitney Ninsiima Shillingi | [Read More](https://medium.com/p/13b05fd0e1df) |
 | Sat, 27 Sep 2025 12:01:47 GMT | Are we losing our identities?Controlling Immigration in an Age of Declining Populations | Tom Luu | [Read More](https://medium.com/p/d804cf8f1489) |
 | Sat, 27 Sep 2025 12:00:07 GMT | My 5-Minute Workflow to Find Bugs on Any Website | coffinxp | [Read More](https://medium.com/p/c20075320c96) |
 | Sat, 27 Sep 2025 11:56:34 GMT | Beyond the Firewall: AI’s Hidden Assault on Physical Access Systems (Part I) | Jeffrey Nickle | [Read More](https://medium.com/p/5070aaaf96c4) |
@@ -104,13 +113,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 07:01:55 GMT | The New Horsepower: Quantifying Cyber Risk in Lap Time for Competitive Advantage in F1™ | Timothy Harmon, CISSP | [Read More](https://medium.com/p/01a218349f3d) |
 | Sat, 27 Sep 2025 07:01:02 GMT | Comprehensive Concrete CMS Solutions for Powerful Digital Growth | Chris | [Read More](https://medium.com/p/f626967ed118) |
 | Sat, 27 Sep 2025 06:59:28 GMT | The Data Science Mindset That Changed How I Learn Everything | Fateyaly | [Read More](https://medium.com/p/b3374222e65e) |
-| Sat, 27 Sep 2025 06:58:00 GMT | Penetration Testing Phases vs Cyber Kill Chain: Two Sides of the Same Coin | Hadiramr | [Read More](https://medium.com/p/de3034f3dfe7) |
-| Sat, 27 Sep 2025 06:57:36 GMT | Cybersecurity Engineering: Scope, Careers & Future Opportunities | JIS Group | [Read More](https://medium.com/p/ce074a8246db) |
-| Sat, 27 Sep 2025 06:56:59 GMT | From Lab to Résumé: Turning Your Hacks into Career Fuel | Fateyaly | [Read More](https://medium.com/p/a4a54883e292) |
-| Sat, 27 Sep 2025 06:46:23 GMT | Why Security Awareness Training is Essential for Your Business | LTC Technology Systems | [Read More](https://medium.com/p/5471669ce0bd) |
-| Sat, 27 Sep 2025 06:38:26 GMT | Insecure data storage — part 2 Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/046d8d8e356e) |
-| Sat, 27 Sep 2025 06:36:55 GMT | The Convergence of Control and Security: An In-depth Guide to OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/0c2f5bf9d1f9) |
-| Sat, 27 Sep 2025 06:36:22 GMT | How to Keep Your Website Secure on a Low-Cost Hosting Plan? | Andy | [Read More](https://medium.com/p/0665d8b42a43) |
-| Sat, 27 Sep 2025 06:36:03 GMT | Security Beyond Uniforms:
-Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read More](https://medium.com/p/c3faa55378dc) |
-| Sat, 27 Sep 2025 06:33:49 GMT | Corporate Frauds & Cyber Risks: Two Sides of the Same Investor Headache | Amrik  Hanjra | [Read More](https://medium.com/p/607ea90bb184) |
