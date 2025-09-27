@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 06:07:40 GMT | Why a Bachelor of Science in Information Technology is a Smart Choice Today | Mohammad Rizwan | [Read More](https://medium.com/p/435bdc35de69) |
+| Sat, 27 Sep 2025 06:04:19 GMT | The Python Script I Built That Broke Into My Own Wi-Fi | Muhummad Zaki | [Read More](https://medium.com/p/6471e993e95b) |
+| Sat, 27 Sep 2025 05:58:53 GMT | The Harsh Truth: Why Most Cybersecurity Resumes Get Rejected | Taimur Ijlal | [Read More](https://medium.com/p/f04fe03a0961) |
+| Sat, 27 Sep 2025 05:56:35 GMT | 10 Python Hacks That Made Me Look Like a Cybersecurity Pro | Muhummad Zaki | [Read More](https://medium.com/p/b6c563d0bbd8) |
+| Sat, 27 Sep 2025 05:37:37 GMT | Cisco ASA/FTD Zero-Day Exploits in Active ArcaneDoor Campaign: What You Need to Know | Ayush Saxena | [Read More](https://medium.com/p/848b8181eb66) |
+| Sat, 27 Sep 2025 05:28:08 GMT | Cyber Security Beginner, Intermediate, and Advanced Level Project Ideas | EuroAmerican Education Group | [Read More](https://medium.com/p/ce70a49031e5) |
 | Sat, 27 Sep 2025 05:23:07 GMT | The Rise of Cyber Threats: How to Protect Your Personal Data Online | Global insight | [Read More](https://medium.com/p/76a0c2015b8b) |
 | Sat, 27 Sep 2025 05:19:28 GMT | You Won’t Believe How Easy It Is To Get Hacked: The ULTIMATE .NET XSS Guide | Jithin Prem | [Read More](https://medium.com/p/bfcea135fd6e) |
 | Sat, 27 Sep 2025 05:18:47 GMT | TryHackMe - Brute It write up — Aryamhsa | Aryamhsa | [Read More](https://medium.com/p/d2cbf0ea0210) |
 | Sat, 27 Sep 2025 05:08:23 GMT | China Prepares for Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/1f2b472101d8) |
 | Sat, 27 Sep 2025 04:58:55 GMT | Why 3 is Unlucky for AI | Nuwan I. Senaratna | [Read More](https://medium.com/p/5274fc8a72d9) |
+| Sat, 27 Sep 2025 04:52:15 GMT | Risk of being known | Santhoshi Kannan | [Read More](https://medium.com/p/b7419408ea21) |
 | Sat, 27 Sep 2025 04:46:22 GMT | Temp Gmail / Fake Gmail — Safe & Free Disposable Email | gtemp657 | [Read More](https://medium.com/p/466fbf48e1d2) |
 | Sat, 27 Sep 2025 04:34:15 GMT | Inspired by Film LA www.filmla.com | Eeryn Ann In Limbo | [Read More](https://medium.com/p/1d2de813787c) |
 | Sat, 27 Sep 2025 04:07:50 GMT | The Hidden Magic of Python in My Everyday Coding Life | Kainat Nafees | [Read More](https://medium.com/p/dbc877b0e0ed) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 26 Sep 2025 18:53:48 GMT | AI-Powered Threat Intelligence Systems | Cyber Security Research | [Read More](https://medium.com/p/71ee753cb650) |
 | Fri, 26 Sep 2025 18:47:46 GMT | Identity Governance and Administration | Cyber Security Research | [Read More](https://medium.com/p/21a36005dac5) |
 | Fri, 26 Sep 2025 18:44:49 GMT | Zero Trust vs. Traditional VPNs: The Future of Perimeterless Secure Access | Ahmed K Emara | [Read More](https://medium.com/p/e5595dd0b178) |
-| Fri, 26 Sep 2025 18:42:40 GMT | My First 10 Days Learning Networking — Theory, Labs, and What Actually Happened | Lawal Abdulmujeeb Olabiyi | [Read More](https://medium.com/p/33513a7084d2) |
-| Fri, 26 Sep 2025 18:41:47 GMT | The 7 Dumbest Passwords I’ve Ever Seen (Yes, People Still Use Them) | Cyberkech | [Read More](https://medium.com/p/86666fdf3223) |
-| Fri, 26 Sep 2025 18:41:25 GMT | Securing Microservices Architectures | Cyber Security Research | [Read More](https://medium.com/p/7c9ec53bda3a) |
-| Fri, 26 Sep 2025 18:35:37 GMT | Digital Forensics in Blockchain Systems | Cyber Security Research | [Read More](https://medium.com/p/6787382f6e68) |
-| Fri, 26 Sep 2025 18:29:26 GMT | The protection of supply chain logistics systems from cyber threats is a non-negotiable requirement… | Cyber Security Research | [Read More](https://medium.com/p/eba9bc12b59a) |
-| Fri, 26 Sep 2025 18:25:24 GMT | Secrets of JavaScript I Learned the Hard Way | Kainat Nafees | [Read More](https://medium.com/p/279d1975f817) |
-| Fri, 26 Sep 2025 18:23:21 GMT | Securing Voice over IP Systems | Cyber Security Research | [Read More](https://medium.com/p/80580c1b7709) |
