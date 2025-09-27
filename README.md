@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 08:39:53 GMT | How XBOW Became the World’s #1 AI Bug Hunter — and Its Biggest Nuisance | Ujjwal Sinha | [Read More](https://medium.com/p/014b96350ffe) |
+| Sat, 27 Sep 2025 08:33:11 GMT | What Is a Firewall And How Does It Protect You? | Jan Skopal | [Read More](https://medium.com/p/d48ea04757fc) |
+| Sat, 27 Sep 2025 08:21:03 GMT | Developer calls it a bug, but Product Manager call it feature | CodeSculptorX | [Read More](https://medium.com/p/eca82f6f26f9) |
+| Sat, 27 Sep 2025 08:15:19 GMT | Trending Technologies in Jobs (2025) | Trendingout | [Read More](https://medium.com/p/59ac4fd797ee) |
 | Sat, 27 Sep 2025 08:14:35 GMT | How to Build an Effective Vulnerability Management Program for Your Organization | Digital Defense | [Read More](https://medium.com/p/2a3b9e358672) |
 | Sat, 27 Sep 2025 08:06:21 GMT | Ransomware Protection By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3b8c2d29542d) |
 | Sat, 27 Sep 2025 07:54:48 GMT | DCSync attack — how it works, why it’s dangerous, and how to stop it | Paritosh | [Read More](https://medium.com/p/adc4e73cd281) |
@@ -109,7 +113,3 @@ Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read 
 | Fri, 26 Sep 2025 22:11:43 GMT | Malicious Rust Crates Steal Solana and Ethereum Keys | Cyber-AppSec | [Read More](https://medium.com/p/c20502daa5ba) |
 | Fri, 26 Sep 2025 22:03:46 GMT | Third-Party Risk: Lessons from the Hertz data breach | Gauri Rajgopal | [Read More](https://medium.com/p/b6a1ab5575b8) |
 | Fri, 26 Sep 2025 22:01:00 GMT | How Hackers Exploit AI Tools Like ChatGPT (And How to Stay Safe) | Aaron | [Read More](https://medium.com/p/0f45b28b0da0) |
-| Fri, 26 Sep 2025 21:42:47 GMT | Five Insights Into Why & How Organizations Should Strive for Better Information Strategies Amid… | David A. Bray | [Read More](https://medium.com/p/f4c55be051ee) |
-| Fri, 26 Sep 2025 21:41:36 GMT | What I Learned from Watching People Ignore the Fire Alarm | Imanologya | [Read More](https://medium.com/p/48a0a984268e) |
-| Fri, 26 Sep 2025 21:29:16 GMT | Turn Your AI Security Findings Into Repeatable Automated Checks | Teri Radichel | [Read More](https://medium.com/p/48bb5880b2ff) |
-| Fri, 26 Sep 2025 21:22:33 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/6a13cdef6b26) |
