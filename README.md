@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 27 Sep 2025 12:32:53 GMT | DockerLabs Writeup — Database (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2993b171d6bd) |
+| Sat, 27 Sep 2025 12:22:42 GMT | Understanding IDOR: One of the Most Overlooked Security Flaws | Nilesh Kale | [Read More](https://medium.com/p/4f982ef5c4d1) |
+| Sat, 27 Sep 2025 12:18:01 GMT | OffSec: Nagoya— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/c80e6e215a22) |
+| Sat, 27 Sep 2025 12:12:31 GMT | A Simple Explanation of a Complex 2FA Bypass Technique | Ibtissam hammadi | [Read More](https://medium.com/p/de8b1db064a0) |
+| Sat, 27 Sep 2025 12:01:47 GMT | Are we losing our identities?Controlling Immigration in an Age of Declining Populations | Tom Luu | [Read More](https://medium.com/p/d804cf8f1489) |
+| Sat, 27 Sep 2025 12:00:07 GMT | My 5-Minute Workflow to Find Bugs on Any Website | coffinxp | [Read More](https://medium.com/p/c20075320c96) |
+| Sat, 27 Sep 2025 11:56:34 GMT | Beyond the Firewall: AI’s Hidden Assault on Physical Access Systems (Part I) | Jeffrey Nickle | [Read More](https://medium.com/p/5070aaaf96c4) |
+| Sat, 27 Sep 2025 11:54:42 GMT | 273,160 Bank Transfer Records Exposed: Inside recent India’s Shocking Banking Data Breach!! | Phani Reddy | [Read More](https://medium.com/p/a53be2b69a9b) |
+| Sat, 27 Sep 2025 11:39:41 GMT | From College Project to 400+ GitHub Stars: The Story of AIJack | Hideaki Takahashi | [Read More](https://medium.com/p/9b5797b206cb) |
+| Sat, 27 Sep 2025 11:34:16 GMT | Website Security Best Practices: Essential Steps for a Safer Digital Presence | Redfern Thomas | [Read More](https://medium.com/p/a1f0d5447315) |
+| Sat, 27 Sep 2025 11:31:49 GMT | Understanding Malware Analysis: A Beginner-Friendly Guide | NizzCorp Academy | [Read More](https://medium.com/p/d9964f9ac2a2) |
+| Sat, 27 Sep 2025 11:30:46 GMT | A bug, ami utat mutat | Kata Molnár | [Read More](https://medium.com/p/edceda30a249) |
+| Sat, 27 Sep 2025 11:28:58 GMT | Cybersecurity: A Small Guide for Small Businesses | Aleksander Gorkowienko | [Read More](https://medium.com/p/d080023438db) |
+| Sat, 27 Sep 2025 11:28:39 GMT | CyberTalents : CloseCV writeup - by DeveloperHacker | Developer Hacker | [Read More](https://medium.com/p/aadf30829c45) |
 | Sat, 27 Sep 2025 11:26:06 GMT | Introducing Java 25 The Future of Reliable, Scalable, and Secure Development | Ashish Dhaware | [Read More](https://medium.com/p/a7eef42fbfa4) |
 | Sat, 27 Sep 2025 11:12:12 GMT | The Hidden Cost of Uploading: Data Privacy in the Age of AI | Anilesh Mukherjee | [Read More](https://medium.com/p/1aa8590043b0) |
 | Sat, 27 Sep 2025 11:11:38 GMT | {THM}Pickle-rick — writeup | Nihat Rashidli | [Read More](https://medium.com/p/e3b781950074) |
@@ -100,17 +114,3 @@ Aircrack-ng | Mhd_salih | [Read More](https://medium.com/p/6da3f2a19f6b) |
 | Sat, 27 Sep 2025 06:36:03 GMT | Security Beyond Uniforms:
 Integrity, Empathy, and Vigilance Over Uniforms | Hotel Diaries by Jass | [Read More](https://medium.com/p/c3faa55378dc) |
 | Sat, 27 Sep 2025 06:33:49 GMT | Corporate Frauds & Cyber Risks: Two Sides of the Same Investor Headache | Amrik  Hanjra | [Read More](https://medium.com/p/607ea90bb184) |
-| Sat, 27 Sep 2025 06:29:04 GMT | AI Data Privacy in 2025: Tackle Breaches and Fines with Ainiro.io’s No-Code Security | barnascript | [Read More](https://medium.com/p/81cd3d2a0772) |
-| Sat, 27 Sep 2025 06:26:08 GMT | Cyber Insurance’s Growing Pains: Big Market, Bigger Uncertainty | Gaurav Sharma | [Read More](https://medium.com/p/faaa3782ace4) |
-| Sat, 27 Sep 2025 06:24:42 GMT | From Informative to Rewarded: The Surprising Journey of a Hyperlink Injection Vulnerability | Be nice insabat | [Read More](https://medium.com/p/3d5755d93a55) |
-| Sat, 27 Sep 2025 06:23:25 GMT | Volvo Group Data Breach: Ransomware Attack Hits HR Supplier | Peta Pavan | [Read More](https://medium.com/p/33599801ffc4) |
-| Sat, 27 Sep 2025 06:22:26 GMT | Security Features for Appointment Scheduling Software in 2025 | Paul Smith | [Read More](https://medium.com/p/8c672ee7bf3e) |
-| Sat, 27 Sep 2025 06:07:40 GMT | Why a Bachelor of Science in Information Technology is a Smart Choice Today | Mohammad Rizwan | [Read More](https://medium.com/p/435bdc35de69) |
-| Sat, 27 Sep 2025 06:04:19 GMT | The Python Script I Built That Broke Into My Own Wi-Fi | Muhummad Zaki | [Read More](https://medium.com/p/6471e993e95b) |
-| Sat, 27 Sep 2025 05:58:53 GMT | The Harsh Truth: Why Most Cybersecurity Resumes Get Rejected | Taimur Ijlal | [Read More](https://medium.com/p/f04fe03a0961) |
-| Sat, 27 Sep 2025 05:56:35 GMT | 10 Python Hacks That Made Me Look Like a Cybersecurity Pro | Muhummad Zaki | [Read More](https://medium.com/p/b6c563d0bbd8) |
-| Sat, 27 Sep 2025 05:37:37 GMT | Cisco ASA/FTD Zero-Day Exploits in Active ArcaneDoor Campaign: What You Need to Know | Ayush Saxena | [Read More](https://medium.com/p/848b8181eb66) |
-| Sat, 27 Sep 2025 05:28:08 GMT | Cyber Security Beginner, Intermediate, and Advanced Level Project Ideas | EuroAmerican Education Group | [Read More](https://medium.com/p/ce70a49031e5) |
-| Sat, 27 Sep 2025 05:23:07 GMT | The Rise of Cyber Threats: How to Protect Your Personal Data Online | Global insight | [Read More](https://medium.com/p/76a0c2015b8b) |
-| Sat, 27 Sep 2025 05:19:28 GMT | You Won’t Believe How Easy It Is To Get Hacked: The ULTIMATE .NET XSS Guide | Jithin Prem | [Read More](https://medium.com/p/bfcea135fd6e) |
-| Sat, 27 Sep 2025 05:18:47 GMT | TryHackMe - Brute It write up — Aryamhsa | Aryamhsa | [Read More](https://medium.com/p/d2cbf0ea0210) |
