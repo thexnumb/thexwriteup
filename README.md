@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 03:00:11 GMT | The Day I Fell in Love with Python Generators | Kainat Nafees | [Read More](https://medium.com/p/d1ae0f8adfdd) |
+| Sun, 28 Sep 2025 02:49:46 GMT | Aastha Loan app cusTomer care number-7739542780./%%/773-954-27-80%=Call | Hepoy Fs | [Read More](https://medium.com/p/b6dcbc33319d) |
+| Sun, 28 Sep 2025 02:47:20 GMT | Stablecoin Risk Management | John Abraham | [Read More](https://medium.com/p/99abe9ca9c2c) |
+| Sun, 28 Sep 2025 02:42:58 GMT | Are We Practicing Love or Surviving Trauma in Black Relationships | The Good Vibes Specialist | [Read More](https://medium.com/p/7ddabcae6ea6) |
+| Sun, 28 Sep 2025 02:31:50 GMT | Write-up PicoCTF: Forensic ‘CanYouSee’ | Muhammad Khairin | [Read More](https://medium.com/p/b40d897c0dbb) |
+| Sun, 28 Sep 2025 02:31:49 GMT | The AI’s Guide to Workplace Survival: When Prompt Injection Becomes Digital Bullying, How Do We… | Scott Huang | [Read More](https://medium.com/p/9df657d06f69) |
+| Sun, 28 Sep 2025 02:11:42 GMT | Deepfake Phishing Is Here: 5 Warning Signs Your Employees Must Know in 2025 | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/2866ac57e6eb) |
 | Sun, 28 Sep 2025 01:39:08 GMT | The Day I Accepted My Functioning Anxiety: Why Trying to ‘Cure’ It Was Worse Than Living With It | vydhi | [Read More](https://medium.com/p/30c68fd9271d) |
 | Sun, 28 Sep 2025 01:37:43 GMT | Wavlink Authenticated Command Injection: LED Control | ice-wzl | [Read More](https://medium.com/p/7397897f218a) |
 | Sun, 28 Sep 2025 00:53:25 GMT | Passwords, Promises, and Silence: My Second Year Fighting Kaspersky | Silent Observer (Sarphari) | [Read More](https://medium.com/p/f7869d4a33b9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 15:49:52 GMT | Improving our Hacking Agent | Daniel Knight | [Read More](https://medium.com/p/b38581c67ac7) |
 | Sat, 27 Sep 2025 15:46:23 GMT | Integer Overflow Exploits: When Numbers Become Weapons | Rizqi Mulki | [Read More](https://medium.com/p/bfed5789a565) |
 | Sat, 27 Sep 2025 15:40:09 GMT | The Reason You Struggle to Let Go of a Person, Place, or Thing | Vijay Kumar Gupta | [Read More](https://medium.com/p/30b29ec3e669) |
-| Sat, 27 Sep 2025 15:36:55 GMT | Modern Spy 101: A fun way to Share Secrets | Sachin      Verlekar | [Read More](https://medium.com/p/667453d71035) |
-| Sat, 27 Sep 2025 15:31:45 GMT | Rust Crates Security Analysis: From Solo Dev to Supply Chain Defender | Mohammad Abir Abbas | [Read More](https://medium.com/p/b802255351fe) |
-| Sat, 27 Sep 2025 15:23:12 GMT | The Disappearance of Real | Noushaba Ranjha Kha’n | [Read More](https://medium.com/p/966b8a2321af) |
-| Sat, 27 Sep 2025 15:21:28 GMT | In the middle of the night… | Jen | [Read More](https://medium.com/p/6a722d5d75aa) |
-| Sat, 27 Sep 2025 15:20:48 GMT | Louder When Silent | Sreaoshi Mallick | [Read More](https://medium.com/p/0d012756bd17) |
-| Sat, 27 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 27, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f89bd839cba6) |
-| Sat, 27 Sep 2025 15:11:49 GMT | Will AI Kill Programming Jobs? The Truth in 2025 | Vipul Sonule | [Read More](https://medium.com/p/c8593980302e) |
