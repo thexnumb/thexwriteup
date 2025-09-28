@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 06:46:55 GMT | Brother Unveils New Business Color Laser Printer Lineup for October 2025 | Tech Stories Online | [Read More](https://medium.com/p/eaa69f5f9dc2) |
+| Sun, 28 Sep 2025 06:46:50 GMT | turning a Raspberry Pi Pico into a Rubber Ducky | Ahmad Allobani | [Read More](https://medium.com/p/546d21a5bf70) |
+| Sun, 28 Sep 2025 06:35:34 GMT | How IoT and OT Vulnerabilities Are Turning Our Connected World Into a Cyber Battleground | David SEHYEON Baek | [Read More](https://medium.com/p/7e8a76361d02) |
 | Sun, 28 Sep 2025 06:26:53 GMT | From 403 to Fortune: How I Became an Accidental Admin Through Access Control Bypasses | Iski | [Read More](https://medium.com/p/d76f0c707098) |
 | Sun, 28 Sep 2025 06:14:02 GMT | Understanding SELinux: A Practical Guide for Developers | Budhdi Sharma | [Read More](https://medium.com/p/cec1a64e7b5d) |
 | Sun, 28 Sep 2025 05:52:57 GMT | From “Trust” to “Tangible Verification”: Digital Shield Unveils First Global Experience Center in… | Digital Shield | [Read More](https://medium.com/p/ab83d068a659) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 18:20:08 GMT | SHODAN ARAMA MOTORU | Ömer Faruk TOPTAŞ | [Read More](https://medium.com/p/1cb78137e5cb) |
 | Sat, 27 Sep 2025 18:17:38 GMT | JavaScript Alchemy: My Adventures with Strange Tricks and Playful Projects | Kainat Nafees | [Read More](https://medium.com/p/4dd77aa5a76d) |
 | Sat, 27 Sep 2025 18:08:28 GMT | Would You Rather Have 100 IOCs… or One Picture of the Campaign? | Rishika Desai | [Read More](https://medium.com/p/526d30f15439) |
-| Sat, 27 Sep 2025 18:07:58 GMT | “The Rapture is Neigh” — Truth, or greatest social engineering experiment of 2025? | Pablo Vergara | [Read More](https://medium.com/p/184c78223276) |
-| Sat, 27 Sep 2025 18:06:59 GMT | The 5-Hour Rule: How Top Cybersecurity Pros Stay Ahead Without Burning Out ⏰ | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8d63ecfd7820) |
-| Sat, 27 Sep 2025 18:00:25 GMT | Nmap: The Hacker’s Favorite Scanner — Why You Should’ve Been Using It Yesterday | Brent Fischer | [Read More](https://medium.com/p/2db67dba822c) |
