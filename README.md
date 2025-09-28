@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 14:01:53 GMT | Part 3 : Modern Cybersecurity Principles | Intelithics | [Read More](https://medium.com/p/22b6625bcb79) |
+| Sun, 28 Sep 2025 14:01:10 GMT | Hack This Site — Realistic (Holy Word High School | Te父cno | [Read More](https://medium.com/p/7415429b40f1) |
+| Sun, 28 Sep 2025 14:00:30 GMT | Differentiation Through Security: Why Web3 Needs Abatis | Abatis ABTU | [Read More](https://medium.com/p/5188e8bfc498) |
+| Sun, 28 Sep 2025 13:52:09 GMT | Decoding AI Hype: Essential Terms to Get the Big Picture | Fahad Khan | [Read More](https://medium.com/p/e898a10fc7f1) |
+| Sun, 28 Sep 2025 13:50:58 GMT | Product, Security, and Architecture: Enablers, Not Enforcers | Dilanka Muthukumarana | [Read More](https://medium.com/p/ab7f5e36db35) |
+| Sun, 28 Sep 2025 13:44:18 GMT | RST TI Report Digest: 22 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/d9e75a2f4a26) |
+| Sun, 28 Sep 2025 13:43:26 GMT | The Security Challenges of AI-Powered Systems | muhammad ardiansah | [Read More](https://medium.com/p/73de601d0b43) |
 | Sun, 28 Sep 2025 13:33:48 GMT | AI vs. Hackers: The Next Cybersecurity Frontier | Syed Shahzain Ali | [Read More](https://medium.com/p/953efcb73b98) |
 | Sun, 28 Sep 2025 13:09:15 GMT | [REPORT] Website function disclosure issue in DBpia | Mari | [Read More](https://medium.com/p/c4ee3f4109c9) |
 | Sun, 28 Sep 2025 13:04:27 GMT | Discreate Mathematics | Divainitha Parameswaran | [Read More](https://medium.com/p/177dc61cf910) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 07:40:12 GMT | What They Never See | Khansa | [Read More](https://medium.com/p/73844770a90e) |
 | Sun, 28 Sep 2025 07:39:56 GMT | Python : Input Variabel Array | Cahyoadi | [Read More](https://medium.com/p/77e40b337250) |
 | Sun, 28 Sep 2025 07:39:02 GMT | Cybersecurity for Digital Supply Chains | Cyber Security Research | [Read More](https://medium.com/p/7b73cbf9f3cd) |
-| Sun, 28 Sep 2025 07:34:02 GMT | Junior Analysts are Better Threat Hunters (Here’s Why) | Tyler Wall | [Read More](https://medium.com/p/0e4d95e14c60) |
-| Sun, 28 Sep 2025 07:33:20 GMT | Threat Intelligence Sharing Platforms | Cyber Security Research | [Read More](https://medium.com/p/3dbd507eaca9) |
-| Sun, 28 Sep 2025 07:32:05 GMT | How to Find P1 Bugs using Google in your Target — (Part-1) | RivuDon | [Read More](https://medium.com/p/e37455324dc1) |
-| Sun, 28 Sep 2025 07:31:48 GMT | Security Where You Are: A Builder-First Approach to Organizational Security | Elijah Winter | [Read More](https://medium.com/p/d52a1e3c8ea3) |
-| Sun, 28 Sep 2025 07:31:48 GMT | Render Sooner, Wait Less: 7 React 19 Patterns That Cut TTI | Syntal | [Read More](https://medium.com/p/2b7ec20f9584) |
-| Sun, 28 Sep 2025 07:30:46 GMT | The Ultimate Mobile Application Security Checklist for 2025 | Ranjan Sharma | [Read More](https://medium.com/p/021b791a88df) |
-| Sun, 28 Sep 2025 07:27:34 GMT | The U.S. Secret Service shut down a network that could have paralyzed New York | Patrik Žák | [Read More](https://medium.com/p/dfae6736965a) |
