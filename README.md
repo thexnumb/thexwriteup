@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 09:06:56 GMT | Password Pain? It’s All Just a Game They Play | Irritably | [Read More](https://medium.com/p/e2db88a47be4) |
+| Sun, 28 Sep 2025 09:05:28 GMT | “The Forgotten Python Module That Feels Like a Hacker’s Superpower” | Muhummad Zaki | [Read More](https://medium.com/p/0b47b39b3660) |
+| Sun, 28 Sep 2025 09:04:12 GMT | Detecting Troublesome Arbitrary API Traffic by Bots — or not. | Deeon Yaksa Anugrah | [Read More](https://medium.com/p/c3acaf0ca901) |
+| Sun, 28 Sep 2025 09:03:28 GMT | Level Up Your Bug Hunting: The Right Way to Harness GPT in Cybersecurity | Chirs Perkin | [Read More](https://medium.com/p/6103396f864c) |
+| Sun, 28 Sep 2025 09:02:58 GMT | Building a Secure Linux Bastion Host | Eren Cankut Uysal | [Read More](https://medium.com/p/2bae3046fa26) |
+| Sun, 28 Sep 2025 09:02:57 GMT | Active Reconnaissance — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/dad36a5c5388) |
+| Sun, 28 Sep 2025 08:57:53 GMT | Walkthrough PASSPORT — Proving Grounds CTF | Maxwell Ferreira | [Read More](https://medium.com/p/090f3bd135f2) |
+| Sun, 28 Sep 2025 08:53:52 GMT | From “Trust” to “Tangible Verification”: Digital Shield Unveils First Global Experience Center in… | Digital Shield Offcial | [Read More](https://medium.com/p/921bd379582b) |
+| Sun, 28 Sep 2025 08:44:04 GMT | Prompt Injection in AI: What It Is, Why It’s Dangerous, and How to Defend | Yash Mane | [Read More](https://medium.com/p/696a9d7bd9aa) |
+| Sun, 28 Sep 2025 08:43:31 GMT | ZoomEye: A Preferred Choice Among Cyber Space Search Engines | Liuliuliusq | [Read More](https://medium.com/p/e872a56773fa) |
+| Sun, 28 Sep 2025 08:40:54 GMT | Adversarial Machine Learning: How Attackers Target AI — and How to Defend | Yash Mane | [Read More](https://medium.com/p/8ebaf99c2433) |
+| Sun, 28 Sep 2025 08:40:51 GMT | Stop Checking Roles: How to Master Permission-Based RBAC in ASP.NET Core | The Code Blueprint By Ajit Sanghera | [Read More](https://medium.com/p/9e102b27a13e) |
+| Sun, 28 Sep 2025 08:36:49 GMT | Walk. Run. Fly. Why Growth Happens in Stages. | Funke Omolere | [Read More](https://medium.com/p/f55702f275eb) |
 | Sun, 28 Sep 2025 08:31:40 GMT | True investment site is here now EARTHMETA-EstatePlanning | Anthonyprince | [Read More](https://medium.com/p/ff8e5865df94) |
 | Sun, 28 Sep 2025 08:26:32 GMT | Blockchain Basics: Security — Part 5 | 0xNazu.sol | [Read More](https://medium.com/p/2f7f2bee8040) |
 | Sun, 28 Sep 2025 08:24:49 GMT | Identity + Access Revisited: JIT Access & Privileged Access Reviews Done Right | Tharun Krishnamoorthy | [Read More](https://medium.com/p/ab6dc771cfc6) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 23:26:41 GMT | CyberDefender — CCD Certification Review | whoami | [Read More](https://medium.com/p/f54752931b4c) |
 | Sat, 27 Sep 2025 23:15:32 GMT | The $18 Million Wake-Up Call: What Hamilton’s Cyberattack Teaches Us About Security in 2025 | Gurdeeps Ca | [Read More](https://medium.com/p/13dcbe84cddf) |
 | Sat, 27 Sep 2025 22:54:12 GMT | CVE-2024–3400 (Review) | Raphael Nicolich | [Read More](https://medium.com/p/8be1743f8c8b) |
-| Sat, 27 Sep 2025 22:48:33 GMT | You cannot do it alone! — Saint Macarius the Great | Childish Wiseguy | [Read More](https://medium.com/p/0161389393e1) |
-| Sat, 27 Sep 2025 22:43:33 GMT | TryHackMe Challenge Write-up: Friday Overtime | Aboelrous | [Read More](https://medium.com/p/118b80be0975) |
-| Sat, 27 Sep 2025 22:34:10 GMT | Building a Threat Intelligence Program | Cyber Security Research | [Read More](https://medium.com/p/dd1cecbadf00) |
-| Sat, 27 Sep 2025 22:24:27 GMT | Why You Have to Wait for Your CVE: Behind the Scenes of MITRE’s Process | embossdotar | [Read More](https://medium.com/p/394369fbd3b5) |
-| Sat, 27 Sep 2025 22:20:28 GMT | Privacy Risks in Biometric Data Collection | Cyber Security Research | [Read More](https://medium.com/p/2e42e625ac07) |
-| Sat, 27 Sep 2025 22:13:35 GMT | AI in Email Security Systems | Cyber Security Research | [Read More](https://medium.com/p/abd15fad1019) |
-| Sat, 27 Sep 2025 22:06:26 GMT | Ransomware Negotiation Strategies | Cyber Security Research | [Read More](https://medium.com/p/9b22e40037a9) |
-| Sat, 27 Sep 2025 21:57:26 GMT | Soft skills and IT | Malcolm Eastman | [Read More](https://medium.com/p/6022d5afbd8b) |
-| Sat, 27 Sep 2025 21:54:10 GMT | The Role of CERTs in Incident Handling | Cyber Security Research | [Read More](https://medium.com/p/d5b6a4de02aa) |
-| Sat, 27 Sep 2025 21:48:52 GMT | Explaining Crypto to Family and Friends: Why Ignoring It Isn’t an Option Anymore | Pitt Tech | [Read More](https://medium.com/p/fb31fee008bc) |
-| Sat, 27 Sep 2025 21:46:43 GMT | Is it Worth Learning Open Source Cybersecurity Tools? | Tyler Wall | [Read More](https://medium.com/p/0d82e525d128) |
-| Sat, 27 Sep 2025 21:31:33 GMT | Les Sciences Cognitives de l’Intelligence Artificielle | Loveson VILSENAT | [Read More](https://medium.com/p/2dfa4d9323ba) |
-| Sat, 27 Sep 2025 21:31:13 GMT | New Technique Bypass File Upload | Abbas.heybati | [Read More](https://medium.com/p/4c18cef9f9ed) |
