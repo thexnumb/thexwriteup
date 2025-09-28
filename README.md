@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 01:39:08 GMT | The Day I Accepted My Functioning Anxiety: Why Trying to ‘Cure’ It Was Worse Than Living With It | vydhi | [Read More](https://medium.com/p/30c68fd9271d) |
+| Sun, 28 Sep 2025 01:37:43 GMT | Wavlink Authenticated Command Injection: LED Control | ice-wzl | [Read More](https://medium.com/p/7397897f218a) |
+| Sun, 28 Sep 2025 00:53:25 GMT | Passwords, Promises, and Silence: My Second Year Fighting Kaspersky | Silent Observer (Sarphari) | [Read More](https://medium.com/p/f7869d4a33b9) |
+| Sun, 28 Sep 2025 00:27:32 GMT | Why Residential Proxies Are Becoming Essential for Online Businesses | Add | [Read More](https://medium.com/p/36e15043b963) |
+| Sun, 28 Sep 2025 00:09:00 GMT | Unveiling the Future of DLP | Christina Irick | [Read More](https://medium.com/p/38471075171d) |
+| Sun, 28 Sep 2025 00:05:38 GMT | Bali and Its Vulnerability to Flooding: A Popular Geological Perspective | oka agastya | [Read More](https://medium.com/p/fa7fabf49101) |
+| Sat, 27 Sep 2025 23:54:01 GMT | Advanced Linux Security for Cloud Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/86ac4241ee01) |
+| Sat, 27 Sep 2025 23:38:41 GMT | Linux IoT Security: Hardening Embedded Devices | Eren Cankut Uysal | [Read More](https://medium.com/p/0230f03364cb) |
+| Sat, 27 Sep 2025 23:38:12 GMT | Your Digital Life is Under Attack (And You Probably Don’t Even Know It) | Dayoisawumi | [Read More](https://medium.com/p/00ba1e2cf440) |
+| Sat, 27 Sep 2025 23:26:41 GMT | CyberDefender — CCD Certification Review | whoami | [Read More](https://medium.com/p/f54752931b4c) |
 | Sat, 27 Sep 2025 23:15:32 GMT | The $18 Million Wake-Up Call: What Hamilton’s Cyberattack Teaches Us About Security in 2025 | Gurdeeps Ca | [Read More](https://medium.com/p/13dcbe84cddf) |
 | Sat, 27 Sep 2025 22:54:12 GMT | CVE-2024–3400 (Review) | Raphael Nicolich | [Read More](https://medium.com/p/8be1743f8c8b) |
 | Sat, 27 Sep 2025 22:48:33 GMT | You cannot do it alone! — Saint Macarius the Great | Childish Wiseguy | [Read More](https://medium.com/p/0161389393e1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 15:20:48 GMT | Louder When Silent | Sreaoshi Mallick | [Read More](https://medium.com/p/0d012756bd17) |
 | Sat, 27 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 27, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f89bd839cba6) |
 | Sat, 27 Sep 2025 15:11:49 GMT | Will AI Kill Programming Jobs? The Truth in 2025 | Vipul Sonule | [Read More](https://medium.com/p/c8593980302e) |
-| Sat, 27 Sep 2025 15:06:03 GMT | Puppy Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/4b18f04d3b68) |
-| Sat, 27 Sep 2025 15:02:46 GMT | TryHackMe Stolen Mount Walkthrough | Aaryan Parida | [Read More](https://medium.com/p/e89f6697e15f) |
-| Sat, 27 Sep 2025 14:58:52 GMT | Sécurité événementielle 2025 : la checklist opérationnelle (gratuite) pour organisateurs & ERP | UNION ACCESS SECURITY | [Read More](https://medium.com/p/14573313d0b7) |
-| Sat, 27 Sep 2025 14:57:30 GMT | Try-Hack-Me Challenge walkthrough Blaster {CTF} | Arka Priya Das | [Read More](https://medium.com/p/8cddee6c39f7) |
-| Sat, 27 Sep 2025 14:55:56 GMT | The European Union’s Plans to Build a Drone Wall | Max Nomadov | [Read More](https://medium.com/p/6e2e3c939738) |
-| Sat, 27 Sep 2025 14:53:13 GMT | TryHackMe - Network Security Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/16a161076463) |
-| Sat, 27 Sep 2025 14:44:35 GMT | The Secret Door You Didn’t Know Existed in WordPress: “XXE Vulnerability” | Pandit Shivam | [Read More](https://medium.com/p/2a0a05bfa18c) |
-| Sat, 27 Sep 2025 14:41:56 GMT | How AI Has Changed the Game for Cybercriminals | David SEHYEON Baek | [Read More](https://medium.com/p/d9560319eae1) |
-| Sat, 27 Sep 2025 14:38:31 GMT | Which SIEM Should I Study? | Tyler Wall | [Read More](https://medium.com/p/a2c33bfebb50) |
-| Sat, 27 Sep 2025 14:25:38 GMT | Building a SIEM Homelab with Wazuh, Sysmon, and Active Directory | AmanParihar | [Read More](https://medium.com/p/ff90ff37fbcb) |
