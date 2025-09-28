@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 15:11:59 GMT | The Trap Every OSINT Researcher Falls Into | Sam Galope | [Read More](https://medium.com/p/268ead8b72a6) |
+| Sun, 28 Sep 2025 14:59:35 GMT | HTB Write-Up: Puppy (Medium) | Pedro P Montalvo | [Read More](https://medium.com/p/bc7f99cc7f54) |
+| Sun, 28 Sep 2025 14:52:03 GMT | My Cybersecurity Journey as a 2nd year Computer Science student | Raina Haroon | [Read More](https://medium.com/p/6fbac16e8124) |
+| Sun, 28 Sep 2025 14:51:47 GMT | My Bulletproof Home Lab with ZimaBoard: Redundant Networks, Kasm & Tailscale VPN | Hugo Valters | [Read More](https://medium.com/p/bc06677065a3) |
+| Sun, 28 Sep 2025 14:51:42 GMT | Cybersecurity Maturity in Dispute: Latin America Versus Its Global Peers | Rodrigo Gutierrez | [Read More](https://medium.com/p/5121cb9426df) |
+| Sun, 28 Sep 2025 14:48:01 GMT | Tai Lopez Named in SEC Allegations of $112M Ponzi-Style Scheme | OpenClassActions.com | [Read More](https://medium.com/p/b28ed0b8b6d3) |
+| Sun, 28 Sep 2025 14:47:25 GMT | Beginner’s Guide to Security Technology for Homes and Offices | Sarmin Islam | [Read More](https://medium.com/p/268614a3b081) |
+| Sun, 28 Sep 2025 14:44:37 GMT | Critical Privilege Escalation: Viewer Can Gain Admin Access | xploiterr | [Read More](https://medium.com/p/56069a4ccf95) |
+| Sun, 28 Sep 2025 14:41:34 GMT | Why Russian Developers Write More Secure Code Than Americans | Sohail Saifi | [Read More](https://medium.com/p/b965a7cf45ce) |
+| Sun, 28 Sep 2025 14:40:19 GMT | Bandit Walkthrough Level 5 → Level 6 | Hardik Ghuge | [Read More](https://medium.com/p/848d954f25c5) |
 | Sun, 28 Sep 2025 14:31:01 GMT | The Bug That Let Me Crash Another Tenant’s Department | Sid_x95 | [Read More](https://medium.com/p/87176a3ea6d5) |
+| Sun, 28 Sep 2025 14:29:54 GMT | Inside Jetpack’s security state provider: a publisher–consumer model for component patch state | Dmitry Glazunov | [Read More](https://medium.com/p/16ec2205e0ca) |
 | Sun, 28 Sep 2025 14:21:32 GMT | Week 11 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/0316beed3df7) |
 | Sun, 28 Sep 2025 14:20:38 GMT | Easy Peasy CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/a753e7b68e2b) |
 | Sun, 28 Sep 2025 14:17:15 GMT | Bandit Walkthrough Level 4 → Level 5 | Hardik Ghuge | [Read More](https://medium.com/p/267f648726ef) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 08:40:54 GMT | Adversarial Machine Learning: How Attackers Target AI — and How to Defend | Yash Mane | [Read More](https://medium.com/p/8ebaf99c2433) |
 | Sun, 28 Sep 2025 08:40:51 GMT | Stop Checking Roles: How to Master Permission-Based RBAC in ASP.NET Core | The Code Blueprint By Ajit Sanghera | [Read More](https://medium.com/p/9e102b27a13e) |
 | Sun, 28 Sep 2025 08:36:49 GMT | Walk. Run. Fly. Why Growth Happens in Stages. | Funke Omolere | [Read More](https://medium.com/p/f55702f275eb) |
-| Sun, 28 Sep 2025 08:31:40 GMT | True investment site is here now EARTHMETA-EstatePlanning | Anthonyprince | [Read More](https://medium.com/p/ff8e5865df94) |
-| Sun, 28 Sep 2025 08:26:32 GMT | Blockchain Basics: Security — Part 5 | 0xNazu.sol | [Read More](https://medium.com/p/2f7f2bee8040) |
-| Sun, 28 Sep 2025 08:24:49 GMT | Identity + Access Revisited: JIT Access & Privileged Access Reviews Done Right | Tharun Krishnamoorthy | [Read More](https://medium.com/p/ab6dc771cfc6) |
-| Sun, 28 Sep 2025 08:22:59 GMT | Home is not a place, but a space, a space you can be vulnerable, feel safe and live peacefully. | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/9cfff49a159e) |
-| Sun, 28 Sep 2025 08:14:19 GMT | AI in Cybersecurity: Opportunities and Practical Use-Cases | Yash Mane | [Read More](https://medium.com/p/f0ef26dc5bcf) |
-| Sun, 28 Sep 2025 08:11:19 GMT | What Is Quantum Computing? A Beginner’s Guide Everyone Can Understand | Amitishacked | [Read More](https://medium.com/p/6318f538bbda) |
-| Sun, 28 Sep 2025 08:01:50 GMT | Pre-Recon Advantage for Bug Hunters: Find Exposed Creds Before Scanning | Alexandre Vandamme | [Read More](https://medium.com/p/3730e8943a17) |
-| Sun, 28 Sep 2025 08:01:09 GMT | Secret knock: How MFG lets us open an undocumented bootloader on the Siemens Simatic S7–1200 | Marcel Rick-Cen | [Read More](https://medium.com/p/a69f529274bd) |
-| Sun, 28 Sep 2025 07:59:36 GMT | AI-Enhanced Fraud Prevention in Banking | Cyber Security Research | [Read More](https://medium.com/p/e41e3f80728e) |
-| Sun, 28 Sep 2025 07:57:36 GMT | The Art of Staying Invisible Online: Reduce Your Digital Footprint with Disposable/Temporary Email | Dimil Kalathiya | [Read More](https://medium.com/p/69c7e70ad849) |
-| Sun, 28 Sep 2025 07:57:27 GMT | 10x Productivity with AI Scheduling Tools | AI With Lil Bro | [Read More](https://medium.com/p/b5f6b400a2d9) |
