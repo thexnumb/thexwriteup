@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 07:08:38 GMT | Generative AI for Hackers: Building Tools for Red Teaming | Aj | [Read More](https://medium.com/p/de38b9b804a3) |
+| Sun, 28 Sep 2025 06:57:49 GMT | TryHackMe #63 - Junior Security Analyst Intro | 0xGroot | [Read More](https://medium.com/p/e556af2b3904) |
+| Sun, 28 Sep 2025 06:57:23 GMT | Top 10 XDR Solutions in India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/d2c9f44fc71c) |
+| Sun, 28 Sep 2025 06:54:06 GMT | Why Term Insurance is a Must in Your 30s: Secure Your Family’s Future Today | Dev Behind the Curtain | [Read More](https://medium.com/p/bd5e74b98c24) |
+| Sun, 28 Sep 2025 06:53:26 GMT | 1.Broken Access Control | aysha | [Read More](https://medium.com/p/d12030b2e06c) |
+| Sun, 28 Sep 2025 06:51:47 GMT | TryHackMe #62 - Training Impact on Teams | 0xGroot | [Read More](https://medium.com/p/157a327ac6c6) |
+| Sun, 28 Sep 2025 06:47:48 GMT | Insecure data storage — part 4: Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/0a0ceb24a20b) |
+| Sun, 28 Sep 2025 06:47:48 GMT | Insecure data storage-part 3: Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/ee57d6c56852) |
+| Sun, 28 Sep 2025 06:47:47 GMT | TryHackMe #61 - Security Principles | 0xGroot | [Read More](https://medium.com/p/54e2c2f4b6c5) |
 | Sun, 28 Sep 2025 06:46:55 GMT | Brother Unveils New Business Color Laser Printer Lineup for October 2025 | Tech Stories Online | [Read More](https://medium.com/p/eaa69f5f9dc2) |
 | Sun, 28 Sep 2025 06:46:50 GMT | turning a Raspberry Pi Pico into a Rubber Ducky | Ahmad Allobani | [Read More](https://medium.com/p/546d21a5bf70) |
+| Sun, 28 Sep 2025 06:45:04 GMT | The Evolution of API Authentication | Shashankakella | [Read More](https://medium.com/p/c8d7c8a03bc1) |
 | Sun, 28 Sep 2025 06:35:34 GMT | How IoT and OT Vulnerabilities Are Turning Our Connected World Into a Cyber Battleground | David SEHYEON Baek | [Read More](https://medium.com/p/7e8a76361d02) |
 | Sun, 28 Sep 2025 06:26:53 GMT | From 403 to Fortune: How I Became an Accidental Admin Through Access Control Bypasses | Iski | [Read More](https://medium.com/p/d76f0c707098) |
 | Sun, 28 Sep 2025 06:14:02 GMT | Understanding SELinux: A Practical Guide for Developers | Budhdi Sharma | [Read More](https://medium.com/p/cec1a64e7b5d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 18:55:16 GMT | jQuery? SetUp | Raihan Zhaky | [Read More](https://medium.com/p/74a778c0a2d8) |
 | Sat, 27 Sep 2025 18:48:26 GMT | Nmap for Cyber Warriors | Hassan Muhammad | [Read More](https://medium.com/p/9f4b9cca7b5b) |
 | Sat, 27 Sep 2025 18:42:17 GMT | Securing iOS Apps End-to-End: From Local Storage to Backend | Ravi | [Read More](https://medium.com/p/7d110171c196) |
-| Sat, 27 Sep 2025 18:40:28 GMT | Windows Credential Theft Detection | Neetrox | [Read More](https://medium.com/p/c486fb084fe2) |
-| Sat, 27 Sep 2025 18:40:04 GMT | Cybersecurity OEMs & The New CISO 2.0 Identity — A Perfect Partnership | Dr. Deep Pandey | [Read More](https://medium.com/p/79a33e7fc310) |
-| Sat, 27 Sep 2025 18:35:20 GMT | How I Became Immortal in the ISC2 Certified in Cybersecurity (CC) Exam: My Journey | Narasimha Pavan Balisetty | [Read More](https://medium.com/p/6dd07e677e21) |
-| Sat, 27 Sep 2025 18:34:40 GMT | Windows Event Log Analysis: Advanced Threat Detection and Investigation in Enterprise Security | Okan Yıldız | [Read More](https://medium.com/p/618d6819f7be) |
-| Sat, 27 Sep 2025 18:31:30 GMT | I Didn’t Grow Up Thinking I’d Be in Cybersecurity | Adesola Adekanbi | [Read More](https://medium.com/p/ecfe6cbb011d) |
-| Sat, 27 Sep 2025 18:20:38 GMT | 8 Things You Should Keep Private | A thin line with Vivian | [Read More](https://medium.com/p/f51966d307e5) |
-| Sat, 27 Sep 2025 18:20:19 GMT | Stored XSS via PDF lead to One-Click Account Takeover | mrdesoky0 | [Read More](https://medium.com/p/b73dbe183cfa) |
-| Sat, 27 Sep 2025 18:20:08 GMT | SHODAN ARAMA MOTORU | Ömer Faruk TOPTAŞ | [Read More](https://medium.com/p/1cb78137e5cb) |
-| Sat, 27 Sep 2025 18:17:38 GMT | JavaScript Alchemy: My Adventures with Strange Tricks and Playful Projects | Kainat Nafees | [Read More](https://medium.com/p/4dd77aa5a76d) |
-| Sat, 27 Sep 2025 18:08:28 GMT | Would You Rather Have 100 IOCs… or One Picture of the Campaign? | Rishika Desai | [Read More](https://medium.com/p/526d30f15439) |
