@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 03:55:29 GMT | Web Hacking with Python: A Beginner’s Project That Teaches Everything | Arfa | [Read More](https://medium.com/p/cea818e30f2d) |
+| Sun, 28 Sep 2025 03:50:08 GMT | Romance Fraud Awareness Week U.K. | Ayshim | [Read More](https://medium.com/p/dd6310dd1fc5) |
+| Sun, 28 Sep 2025 03:49:50 GMT | The Dark Web Isn’t What You Think And That’s the Scary Part | Arfa | [Read More](https://medium.com/p/ba66294edc3d) |
+| Sun, 28 Sep 2025 03:49:12 GMT | State of Cybersecurity Resilience 2025 — A Bespoke Business Development Perspective | Bespoke Business Development | [Read More](https://medium.com/p/cc8830077487) |
 | Sun, 28 Sep 2025 03:40:37 GMT | Security Assessment: Empire Breakout Walkthrough | Luke Gearty | [Read More](https://medium.com/p/e29b7201aa21) |
 | Sun, 28 Sep 2025 03:34:52 GMT | Wazuh: Complete Guide to HIDS, SIEM, and Enterprise Threat Detection | Sadashiv_Pole | [Read More](https://medium.com/p/120d376bfbc0) |
 | Sun, 28 Sep 2025 03:24:12 GMT | Cybersecurity Club Spotlight | Kiley Parker | [Read More](https://medium.com/p/d382933fc771) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 16:30:23 GMT | The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down | Aditya Bhatt | [Read More](https://medium.com/p/37431757472f) |
 | Sat, 27 Sep 2025 16:30:23 GMT | The First MOLE Update: A new feature and some streamlining. | Emma Waterman | [Read More](https://medium.com/p/be0cf2fdd1fc) |
 | Sat, 27 Sep 2025 16:30:21 GMT | What happens when you type a web address into your browser and press enter? | Gwendal Minguy-Pèlerin | [Read More](https://medium.com/p/aaf1cd5c37af) |
-| Sat, 27 Sep 2025 16:30:12 GMT | Honored to Be the First President of Our University IT Club | Asfan Aman | [Read More](https://medium.com/p/85dd4ed4eb98) |
-| Sat, 27 Sep 2025 16:10:47 GMT | Letting Grok Teach Me Computer Security For 1 Week: Part 4 | Colin Zhou | [Read More](https://medium.com/p/1d1b0f17ab4e) |
-| Sat, 27 Sep 2025 16:10:43 GMT | Cybersecurity 101: A Beginner’s Guide to the Basics | D r e a i t h | [Read More](https://medium.com/p/a4249f34383f) |
-| Sat, 27 Sep 2025 16:09:59 GMT | HTB Puppy MachineWalkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/3bbb9ef5b292) |
