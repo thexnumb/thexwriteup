@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 23:22:28 GMT | The Day I Realized We’re All Security Theater Actors | Afolabi Abigeal | [Read More](https://medium.com/p/ab9c3ab77b57) |
 | Sun, 28 Sep 2025 22:55:27 GMT | Puerto Rico at the Crossroads: Building a Global Data, AI, and Cybersecurity Hub | The Architect Del Rio | [Read More](https://medium.com/p/310043bc3b55) |
 | Sun, 28 Sep 2025 22:49:19 GMT | Part 6: From backyard to battlefield, Communication. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/fa9a5407f836) |
 | Sun, 28 Sep 2025 22:26:45 GMT | HTB-OSINT —The Puppet Master | Majd abuleil | [Read More](https://medium.com/p/94c78e75703f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 14:31:01 GMT | The Bug That Let Me Crash Another Tenant’s Department | Sid_x95 | [Read More](https://medium.com/p/87176a3ea6d5) |
 | Sun, 28 Sep 2025 14:29:54 GMT | Inside Jetpack’s security state provider: a publisher–consumer model for component patch state | Dmitry Glazunov | [Read More](https://medium.com/p/16ec2205e0ca) |
 | Sun, 28 Sep 2025 14:21:32 GMT | Week 11 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/0316beed3df7) |
-| Sun, 28 Sep 2025 14:20:38 GMT | Easy Peasy CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/a753e7b68e2b) |
