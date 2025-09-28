@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 08:14:19 GMT | AI in Cybersecurity: Opportunities and Practical Use-Cases | Yash Mane | [Read More](https://medium.com/p/f0ef26dc5bcf) |
+| Sun, 28 Sep 2025 08:11:19 GMT | What Is Quantum Computing? A Beginner’s Guide Everyone Can Understand | Amitishacked | [Read More](https://medium.com/p/6318f538bbda) |
+| Sun, 28 Sep 2025 08:01:50 GMT | Pre-Recon Advantage for Bug Hunters: Find Exposed Creds Before Scanning | Alexandre Vandamme | [Read More](https://medium.com/p/3730e8943a17) |
+| Sun, 28 Sep 2025 08:01:09 GMT | Secret knock: How MFG lets us open an undocumented bootloader on the Siemens Simatic S7–1200 | Marcel Rick-Cen | [Read More](https://medium.com/p/a69f529274bd) |
+| Sun, 28 Sep 2025 07:59:36 GMT | AI-Enhanced Fraud Prevention in Banking | Cyber Security Research | [Read More](https://medium.com/p/e41e3f80728e) |
+| Sun, 28 Sep 2025 07:57:36 GMT | The Art of Staying Invisible Online: Reduce Your Digital Footprint with Disposable/Temporary Email | Dimil Kalathiya | [Read More](https://medium.com/p/69c7e70ad849) |
+| Sun, 28 Sep 2025 07:57:27 GMT | 10x Productivity with AI Scheduling Tools | AI With Lil Bro | [Read More](https://medium.com/p/b5f6b400a2d9) |
+| Sun, 28 Sep 2025 07:55:39 GMT | The Future is Tiny: Introducing My Vision for a Micro MCP Server | Malik Abualzait | [Read More](https://medium.com/p/c837379ee39e) |
+| Sun, 28 Sep 2025 07:52:53 GMT | The Role of Gamification in Security Training | Cyber Security Research | [Read More](https://medium.com/p/d315f8fdf32f) |
+| Sun, 28 Sep 2025 07:48:15 GMT | Unbreakable Data: Patterns, Flow, and Rhythm | Riskaazizah | [Read More](https://medium.com/p/a844ae2dcab4) |
+| Sun, 28 Sep 2025 07:40:12 GMT | What They Never See | Khansa | [Read More](https://medium.com/p/73844770a90e) |
+| Sun, 28 Sep 2025 07:39:56 GMT | Python : Input Variabel Array | Cahyoadi | [Read More](https://medium.com/p/77e40b337250) |
+| Sun, 28 Sep 2025 07:39:02 GMT | Cybersecurity for Digital Supply Chains | Cyber Security Research | [Read More](https://medium.com/p/7b73cbf9f3cd) |
 | Sun, 28 Sep 2025 07:34:02 GMT | Junior Analysts are Better Threat Hunters (Here’s Why) | Tyler Wall | [Read More](https://medium.com/p/0e4d95e14c60) |
+| Sun, 28 Sep 2025 07:33:20 GMT | Threat Intelligence Sharing Platforms | Cyber Security Research | [Read More](https://medium.com/p/3dbd507eaca9) |
 | Sun, 28 Sep 2025 07:32:05 GMT | How to Find P1 Bugs using Google in your Target — (Part-1) | RivuDon | [Read More](https://medium.com/p/e37455324dc1) |
 | Sun, 28 Sep 2025 07:31:48 GMT | Security Where You Are: A Builder-First Approach to Organizational Security | Elijah Winter | [Read More](https://medium.com/p/d52a1e3c8ea3) |
+| Sun, 28 Sep 2025 07:31:48 GMT | Render Sooner, Wait Less: 7 React 19 Patterns That Cut TTI | Syntal | [Read More](https://medium.com/p/2b7ec20f9584) |
 | Sun, 28 Sep 2025 07:30:46 GMT | The Ultimate Mobile Application Security Checklist for 2025 | Ranjan Sharma | [Read More](https://medium.com/p/021b791a88df) |
 | Sun, 28 Sep 2025 07:27:34 GMT | The U.S. Secret Service shut down a network that could have paralyzed New York | Patrik Žák | [Read More](https://medium.com/p/dfae6736965a) |
 | Sun, 28 Sep 2025 07:26:58 GMT | What Happens When AI Reads Your Breach Data Before You Do | David SEHYEON Baek | [Read More](https://medium.com/p/3d89478e82de) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 21:11:52 GMT | From a 503 Page to a Critical Bug: Exposing Sensitive Data | Ibtissam hammadi | [Read More](https://medium.com/p/3eade22d7f27) |
 | Sat, 27 Sep 2025 20:53:06 GMT | Securing Software-Defined Networks | Cyber Security Research | [Read More](https://medium.com/p/fb56391cba3b) |
 | Sat, 27 Sep 2025 20:47:17 GMT | Unlocking Security: Symmetric vs Asymmetric Encryption Explained | CyberPhoenix | [Read More](https://medium.com/p/bb3eb6ba175f) |
-| Sat, 27 Sep 2025 20:45:28 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/ef5931697ab8) |
-| Sat, 27 Sep 2025 20:37:40 GMT | How I Passed the CompTIA Security+ (SY0–701) Exam | Anvitha Lolla | [Read More](https://medium.com/p/fd22cddde06e) |
-| Sat, 27 Sep 2025 20:27:30 GMT | Baulero | Carlos Pastrana | [Read More](https://medium.com/p/b6eee0ba1703) |
-| Sat, 27 Sep 2025 20:27:10 GMT | Building CERT-In Compliant SBOMs: A Complete Guide to Software Bill of Materials for Indian… | sumit singh | [Read More](https://medium.com/p/4ff736ede6ee) |
-| Sat, 27 Sep 2025 20:14:47 GMT | Project 1: Making Sense of Mobile App Security: My First Dashboard | umida murat | [Read More](https://medium.com/p/e863ef157e82) |
-| Sat, 27 Sep 2025 20:11:08 GMT | The Most Common Computer Problems (and How to Fix Them) | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/b6548d555ce6) |
-| Sat, 27 Sep 2025 20:10:48 GMT | When the OTP never came… but the ticket did! | Anubis | [Read More](https://medium.com/p/82e71457df5b) |
-| Sat, 27 Sep 2025 20:10:46 GMT | Before Building AI Defenses, I Had to Start Here: The NIST AI RMF and What I Learned from it | Yosef Barsheshet | [Read More](https://medium.com/p/9405f5c7cf01) |
-| Sat, 27 Sep 2025 20:10:03 GMT | Why OSINT is Essential for Businesses and Individuals | Shohel Rana | [Read More](https://medium.com/p/23181227c799) |
-| Sat, 27 Sep 2025 20:09:46 GMT | Building Wiz Integration Network (WIN): How We Managed to Create a Thriving Tech Partner Program to… | Oron Noah | [Read More](https://medium.com/p/9ea35fcac0b4) |
-| Sat, 27 Sep 2025 20:02:58 GMT | DIY vs. Professional Computer Repair: When to Call an Expert | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/ae885fdb45f6) |
-| Sat, 27 Sep 2025 20:00:57 GMT | Windows 10 Support is Ending: What You Need to Know | Raviteja Mureboina | [Read More](https://medium.com/p/8fc1a5bdfa56) |
-| Sat, 27 Sep 2025 19:51:40 GMT | Becoming Virtually Untraceable — #9–25_UnM45k!ng_W4tcH3r5.png | z3r0trust | [Read More](https://medium.com/p/caf353464c63) |
-| Sat, 27 Sep 2025 19:47:22 GMT | Signs Your Computer Needs Repair Before It Completely Breaks Down | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/2443b67594ff) |
-| Sat, 27 Sep 2025 19:37:05 GMT | How I Built an AI-Powered Chrome Extension to Detect Malicious Websites!! | Hanish | [Read More](https://medium.com/p/4e8acbcd8ad6) |
