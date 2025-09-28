@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 22:55:27 GMT | Puerto Rico at the Crossroads: Building a Global Data, AI, and Cybersecurity Hub | The Architect Del Rio | [Read More](https://medium.com/p/310043bc3b55) |
+| Sun, 28 Sep 2025 22:49:19 GMT | Part 6: From backyard to battlefield, Communication. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/fa9a5407f836) |
+| Sun, 28 Sep 2025 22:26:45 GMT | HTB-OSINT —The Puppet Master | Majd abuleil | [Read More](https://medium.com/p/94c78e75703f) |
 | Sun, 28 Sep 2025 22:23:09 GMT | XSS Gym Labs Solution - level "1-10" explaning each payload for Complete Beginners | T0n1x H3r0 | [Read More](https://medium.com/p/2ffa8f404668) |
 | Sun, 28 Sep 2025 22:21:39 GMT | Hi I'm forest. This is my poem called the yearner | Forest barber | [Read More](https://medium.com/p/8afb9152aedb) |
 | Sun, 28 Sep 2025 22:21:05 GMT | Building Detection Coverage — Strengths and Blind Spots | Raynard Waits | [Read More](https://medium.com/p/e3f16e1a7119) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 14:29:54 GMT | Inside Jetpack’s security state provider: a publisher–consumer model for component patch state | Dmitry Glazunov | [Read More](https://medium.com/p/16ec2205e0ca) |
 | Sun, 28 Sep 2025 14:21:32 GMT | Week 11 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/0316beed3df7) |
 | Sun, 28 Sep 2025 14:20:38 GMT | Easy Peasy CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/a753e7b68e2b) |
-| Sun, 28 Sep 2025 14:17:15 GMT | Bandit Walkthrough Level 4 → Level 5 | Hardik Ghuge | [Read More](https://medium.com/p/267f648726ef) |
-| Sun, 28 Sep 2025 14:16:26 GMT | When Learning Becomes an Act of Love Subtitle | Mayukh Sarma | [Read More](https://medium.com/p/1cb5bb594a4f) |
-| Sun, 28 Sep 2025 14:15:43 GMT | Tools Hydra | Zero Syn | [Read More](https://medium.com/p/13096d1fa245) |
