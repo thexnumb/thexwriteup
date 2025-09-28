@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 14:31:01 GMT | The Bug That Let Me Crash Another Tenant’s Department | Sid_x95 | [Read More](https://medium.com/p/87176a3ea6d5) |
+| Sun, 28 Sep 2025 14:21:32 GMT | Week 11 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/0316beed3df7) |
+| Sun, 28 Sep 2025 14:20:38 GMT | Easy Peasy CTF Walkthrough | Ahmetcantamer | [Read More](https://medium.com/p/a753e7b68e2b) |
+| Sun, 28 Sep 2025 14:17:15 GMT | Bandit Walkthrough Level 4 → Level 5 | Hardik Ghuge | [Read More](https://medium.com/p/267f648726ef) |
+| Sun, 28 Sep 2025 14:16:26 GMT | When Learning Becomes an Act of Love Subtitle | Mayukh Sarma | [Read More](https://medium.com/p/1cb5bb594a4f) |
+| Sun, 28 Sep 2025 14:15:43 GMT | Tools Hydra | Zero Syn | [Read More](https://medium.com/p/13096d1fa245) |
+| Sun, 28 Sep 2025 14:10:19 GMT | OSI Model: The Foundation of Networking and Cybersecurity | Monikanjali Tadepalli | [Read More](https://medium.com/p/6a1bf9f6b25a) |
 | Sun, 28 Sep 2025 14:01:53 GMT | Part 3 : Modern Cybersecurity Principles | Intelithics | [Read More](https://medium.com/p/22b6625bcb79) |
 | Sun, 28 Sep 2025 14:01:10 GMT | Hack This Site — Realistic (Holy Word High School | Te父cno | [Read More](https://medium.com/p/7415429b40f1) |
 | Sun, 28 Sep 2025 14:00:30 GMT | Differentiation Through Security: Why Web3 Needs Abatis | Abatis ABTU | [Read More](https://medium.com/p/5188e8bfc498) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 07:59:36 GMT | AI-Enhanced Fraud Prevention in Banking | Cyber Security Research | [Read More](https://medium.com/p/e41e3f80728e) |
 | Sun, 28 Sep 2025 07:57:36 GMT | The Art of Staying Invisible Online: Reduce Your Digital Footprint with Disposable/Temporary Email | Dimil Kalathiya | [Read More](https://medium.com/p/69c7e70ad849) |
 | Sun, 28 Sep 2025 07:57:27 GMT | 10x Productivity with AI Scheduling Tools | AI With Lil Bro | [Read More](https://medium.com/p/b5f6b400a2d9) |
-| Sun, 28 Sep 2025 07:55:39 GMT | The Future is Tiny: Introducing My Vision for a Micro MCP Server | Malik Abualzait | [Read More](https://medium.com/p/c837379ee39e) |
-| Sun, 28 Sep 2025 07:52:53 GMT | The Role of Gamification in Security Training | Cyber Security Research | [Read More](https://medium.com/p/d315f8fdf32f) |
-| Sun, 28 Sep 2025 07:48:15 GMT | Unbreakable Data: Patterns, Flow, and Rhythm | Riskaazizah | [Read More](https://medium.com/p/a844ae2dcab4) |
-| Sun, 28 Sep 2025 07:46:01 GMT | Future Trends in Malware Obfuscation | Cyber Security Research | [Read More](https://medium.com/p/a0ee5610c6d6) |
-| Sun, 28 Sep 2025 07:40:12 GMT | What They Never See | Khansa | [Read More](https://medium.com/p/73844770a90e) |
-| Sun, 28 Sep 2025 07:39:56 GMT | Python : Input Variabel Array | Cahyoadi | [Read More](https://medium.com/p/77e40b337250) |
-| Sun, 28 Sep 2025 07:39:02 GMT | Cybersecurity for Digital Supply Chains | Cyber Security Research | [Read More](https://medium.com/p/7b73cbf9f3cd) |
