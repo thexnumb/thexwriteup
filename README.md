@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 10:30:34 GMT | The Cybersecurity Course That Made Me Question Everything I Do Online | Samirah A.O | [Read More](https://medium.com/p/418d5fa35fc9) |
+| Sun, 28 Sep 2025 10:23:01 GMT | According to a recent investigative report, Microsoft had relied on China-based engineers for… | SCtoCS | [Read More](https://medium.com/p/cbde3545619d) |
+| Sun, 28 Sep 2025 10:20:52 GMT | R U Okay? The One Question No One Asks When It Matters | Maaya Rive | [Read More](https://medium.com/p/0559160c3e41) |
+| Sun, 28 Sep 2025 10:18:27 GMT | Chapter Nine: I Am Not Embarrassed by How I Loved | The Unwritten Path | [Read More](https://medium.com/p/6664ecd07d30) |
+| Sun, 28 Sep 2025 10:17:10 GMT | iPhone 17 Pro Accessories Guide: Must-Have Cases & Gadgets | Hana Saito | [Read More](https://medium.com/p/7d9fd2f88ce3) |
+| Sun, 28 Sep 2025 10:14:30 GMT | GitHub Account Breach Triggers Salesloft Drift Incident Impacting 22 Companies | SCtoCS | [Read More](https://medium.com/p/6f5463372173) |
+| Sun, 28 Sep 2025 10:14:16 GMT | Lights, Camera, Hacktion! Making Cybercrime Look Cool? | SilentInject | [Read More](https://medium.com/p/0de90e083a60) |
 | Sun, 28 Sep 2025 10:07:01 GMT | GitHub Security Notifications for Discord | Konstantin Tarkus | [Read More](https://medium.com/p/3fd8ca627a97) |
 | Sun, 28 Sep 2025 10:06:15 GMT | Useful > Hype: Why We Keep Chasing Pumps — and How to Stop | Oleh Melezhyk - CebuCore Founder | [Read More](https://medium.com/p/6af41a800b91) |
 | Sun, 28 Sep 2025 10:04:59 GMT | Tip5: The Algebraic Hash | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d1dcc6cf54a7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 03:40:37 GMT | Security Assessment: Empire Breakout Walkthrough | Luke Gearty | [Read More](https://medium.com/p/e29b7201aa21) |
 | Sun, 28 Sep 2025 03:34:52 GMT | Wazuh: Complete Guide to HIDS, SIEM, and Enterprise Threat Detection | Sadashiv_Pole | [Read More](https://medium.com/p/120d376bfbc0) |
 | Sun, 28 Sep 2025 03:24:12 GMT | Cybersecurity Club Spotlight | Kiley Parker | [Read More](https://medium.com/p/d382933fc771) |
-| Sun, 28 Sep 2025 03:15:23 GMT | PicoCTF : Local Authority | Zero Syn | [Read More](https://medium.com/p/5a3c5a16164b) |
-| Sun, 28 Sep 2025 03:12:53 GMT | The Ethics of Ethical Hacking: Where Do We Draw the Line? | Shahzaib | [Read More](https://medium.com/p/7e1dd79c7f65) |
-| Sun, 28 Sep 2025 03:02:10 GMT | How the VAPT Industry Works | Tandelpruthvi | [Read More](https://medium.com/p/5182b248233f) |
-| Sun, 28 Sep 2025 03:01:26 GMT | Edge Computing and Cybersecurity: A New Frontier | Samina Perveen | [Read More](https://medium.com/p/1b1904e866f7) |
-| Sun, 28 Sep 2025 03:00:11 GMT | The Day I Fell in Love with Python Generators | Kainat Nafees | [Read More](https://medium.com/p/d1ae0f8adfdd) |
-| Sun, 28 Sep 2025 02:58:57 GMT | Microsoft’s AI Red Teaming Playground Labs: How Red Teaming Labs Prepare You for Real Risks | Algo Insights | [Read More](https://medium.com/p/4d55c590cfba) |
-| Sun, 28 Sep 2025 02:49:46 GMT | Aastha Loan app cusTomer care number-7739542780./%%/773-954-27-80%=Call | Hepoy Fs | [Read More](https://medium.com/p/b6dcbc33319d) |
