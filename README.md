@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 20:20:00 GMT | {THM}Toolsrus — writeup | Nihat Rashidli | [Read More](https://medium.com/p/ef0f44af1282) |
 | Sun, 28 Sep 2025 19:56:39 GMT | [Holmes CTF 2025]The Watchman’s Residue | ByteSlayer | [Read More](https://medium.com/p/b1f534616c15) |
 | Sun, 28 Sep 2025 19:44:11 GMT | From Airports to Firewalls: What the Latest Cyber Attacks Teach Us in 2025 | Ethivolt | [Read More](https://medium.com/p/20c7fe8c84e1) |
 | Sun, 28 Sep 2025 19:40:57 GMT | The Recon Loop and Beyond: Insights from My Early Bug Hunting Days | LIKITH GAJULA | [Read More](https://medium.com/p/deddabc61322) |
@@ -21,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 19:16:24 GMT | Modern JavaScript Patterns I Wish I Knew Earlier | Kainat Nafees | [Read More](https://medium.com/p/b79239791b16) |
 | Sun, 28 Sep 2025 19:16:21 GMT | Exploiting Pandoc: How Hackers Target AWS Metadata Using CVE-2025–51591 SSRF Flaw | cybrNK | [Read More](https://medium.com/p/c8493b97a52b) |
 | Sun, 28 Sep 2025 19:09:36 GMT | Kubernetes Is Overkill for 99% of Startups | Saloni | [Read More](https://medium.com/p/c4139e2d0a33) |
+| Sun, 28 Sep 2025 19:08:33 GMT | بسم الله الرحمن الرحيم | Mohamedelsayed | [Read More](https://medium.com/p/c01b8537d85c) |
 | Sun, 28 Sep 2025 19:01:32 GMT | PBO : Polymorphism | Yasa Wijaya | [Read More](https://medium.com/p/406ec700ff3b) |
 | Sun, 28 Sep 2025 19:01:27 GMT | Towards Preventing Container Runescapes | Javcabr | [Read More](https://medium.com/p/9325c8f03e69) |
 | Sun, 28 Sep 2025 19:01:26 GMT | Pentagon’s $1.01T Cyber, Space, & AI Budget | Don (δψ) Tadaya - DaScient - AI | [Read More](https://medium.com/p/37487a15b450) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 12:27:33 GMT | Are you safeguarding your digital footprint:The shadow war in cyberspace | Anthony Veto | [Read More](https://medium.com/p/490c8be60f1e) |
 | Sun, 28 Sep 2025 12:19:57 GMT | ️ How to Set Up a Rooted Android Emulator and Burp Suite Proxy on macOS | Ranjan Kumar | [Read More](https://medium.com/p/f02bdb94386b) |
 | Sun, 28 Sep 2025 12:16:25 GMT | DockerLabs Writeup — Balulero (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/00d771c99c19) |
-| Sun, 28 Sep 2025 12:07:09 GMT | GAP: Burp Suite extension —  how and why I use it | 0xBruno | [Read More](https://medium.com/p/5a37cc5ba22e) |
-| Sun, 28 Sep 2025 11:58:51 GMT | The Brad Pitt Romance Scam Just Broke the Internet — And Our Hearts | Napoleon Beltran | [Read More](https://medium.com/p/264d38a922c0) |
