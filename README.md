@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 06:26:53 GMT | From 403 to Fortune: How I Became an Accidental Admin Through Access Control Bypasses | Iski | [Read More](https://medium.com/p/d76f0c707098) |
+| Sun, 28 Sep 2025 06:14:02 GMT | Understanding SELinux: A Practical Guide for Developers | Budhdi Sharma | [Read More](https://medium.com/p/cec1a64e7b5d) |
+| Sun, 28 Sep 2025 05:52:57 GMT | From “Trust” to “Tangible Verification”: Digital Shield Unveils First Global Experience Center in… | Digital Shield | [Read More](https://medium.com/p/ab83d068a659) |
+| Sun, 28 Sep 2025 05:48:26 GMT | Seoul in Silence | blogginglen.com | [Read More](https://medium.com/p/88e44e531fdf) |
+| Sun, 28 Sep 2025 05:48:19 GMT | THREAT BRIEF (HIGH): Hackers Exploit Pandoc CVE-2025–51591 to Target AWS IMDS and Steal EC2 IAM… | Kavya Ganesan | [Read More](https://medium.com/p/3fd3ba7e3b8b) |
+| Sun, 28 Sep 2025 05:46:15 GMT | Hackor[n] CTF -2025 — Jerry_h4ck | JERRY_H4ACK | [Read More](https://medium.com/p/7e53f1ab1999) |
+| Sun, 28 Sep 2025 05:41:49 GMT | Web Security Basics Every Dev Should Know (XSS, CSRF, CORS) | MeanDeveloper | [Read More](https://medium.com/p/6aca2ecb2c0b) |
 | Sun, 28 Sep 2025 04:50:07 GMT | Data Science for Hackers: Turning Log Files Into Threat Intelligence | Aj | [Read More](https://medium.com/p/ee26d81794ea) |
 | Sun, 28 Sep 2025 04:47:29 GMT | НеBuilding an AI-Powered Phishing Email Detector: From Concept to Production | Marcello Dichiera | [Read More](https://medium.com/p/e4f97bc60ef0) |
 | Sun, 28 Sep 2025 04:41:41 GMT | When AI became a browser | Pranav | [Read More](https://medium.com/p/fc7ed952ca10) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 18:07:58 GMT | “The Rapture is Neigh” — Truth, or greatest social engineering experiment of 2025? | Pablo Vergara | [Read More](https://medium.com/p/184c78223276) |
 | Sat, 27 Sep 2025 18:06:59 GMT | The 5-Hour Rule: How Top Cybersecurity Pros Stay Ahead Without Burning Out ⏰ | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8d63ecfd7820) |
 | Sat, 27 Sep 2025 18:00:25 GMT | Nmap: The Hacker’s Favorite Scanner — Why You Should’ve Been Using It Yesterday | Brent Fischer | [Read More](https://medium.com/p/2db67dba822c) |
-| Sat, 27 Sep 2025 17:54:06 GMT | Passkeys Explained: The Future of Sign-In Without Passwords | Natarajan C K | [Read More](https://medium.com/p/fa877a7f0af3) |
-| Sat, 27 Sep 2025 17:44:22 GMT | What AI Knows About You — And How to Train Smarter, Not Riskier | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/20209a5ec568) |
-| Sat, 27 Sep 2025 17:31:51 GMT | Shipping AI Safely | Codastra | [Read More](https://medium.com/p/d70103cc9dec) |
-| Sat, 27 Sep 2025 17:30:33 GMT | Hacking AI: Real Attack Vectors & Defenses Against Deepfakes | Motasem Hamdan | [Read More](https://medium.com/p/c217d9720880) |
-| Sat, 27 Sep 2025 17:25:19 GMT | Why Microsoft, Google, and Apple Are All Going Passwordless by 2026 | Sohail Saifi | [Read More](https://medium.com/p/f60b9b76a427) |
-| Sat, 27 Sep 2025 17:21:34 GMT | Using LLMs to Boost Classical Machine Learning URL Classification Models. | Ernest Mugambi | [Read More](https://medium.com/p/25369d6051fb) |
-| Sat, 27 Sep 2025 17:13:57 GMT | Technology with Integrity: Why Trust is the Core of Our Business | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/6276cb241b01) |
