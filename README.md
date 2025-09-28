@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 19:56:39 GMT | [Holmes CTF 2025]The Watchman’s Residue | ByteSlayer | [Read More](https://medium.com/p/b1f534616c15) |
+| Sun, 28 Sep 2025 19:44:11 GMT | From Airports to Firewalls: What the Latest Cyber Attacks Teach Us in 2025 | Ethivolt | [Read More](https://medium.com/p/20c7fe8c84e1) |
+| Sun, 28 Sep 2025 19:40:57 GMT | The Recon Loop and Beyond: Insights from My Early Bug Hunting Days | LIKITH GAJULA | [Read More](https://medium.com/p/deddabc61322) |
+| Sun, 28 Sep 2025 19:34:25 GMT | Understanding CORS in 5 min and you will never run into this issue again. | Pavan | [Read More](https://medium.com/p/3cfc852c4c74) |
+| Sun, 28 Sep 2025 19:32:57 GMT | HA PANDAVAS — Writeup | Yukina | [Read More](https://medium.com/p/1c3950f23966) |
 | Sun, 28 Sep 2025 19:22:03 GMT | When Encryption Fails: Exploiting API Requests in Practice | KrFTr | [Read More](https://medium.com/p/d5e59eecb6c5) |
 | Sun, 28 Sep 2025 19:16:24 GMT | Modern JavaScript Patterns I Wish I Knew Earlier | Kainat Nafees | [Read More](https://medium.com/p/b79239791b16) |
 | Sun, 28 Sep 2025 19:16:21 GMT | Exploiting Pandoc: How Hackers Target AWS Metadata Using CVE-2025–51591 SSRF Flaw | cybrNK | [Read More](https://medium.com/p/c8493b97a52b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 12:16:25 GMT | DockerLabs Writeup — Balulero (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/00d771c99c19) |
 | Sun, 28 Sep 2025 12:07:09 GMT | GAP: Burp Suite extension —  how and why I use it | 0xBruno | [Read More](https://medium.com/p/5a37cc5ba22e) |
 | Sun, 28 Sep 2025 11:58:51 GMT | The Brad Pitt Romance Scam Just Broke the Internet — And Our Hearts | Napoleon Beltran | [Read More](https://medium.com/p/264d38a922c0) |
-| Sun, 28 Sep 2025 11:57:05 GMT | Why Cybersecurity Studies Are Essential in Today’s Digital World? | Mohammad Al Shahin | [Read More](https://medium.com/p/f7fb8714cc8a) |
-| Sun, 28 Sep 2025 11:54:14 GMT | Footprinting And Reconnaissance | Reyza Maulana Putra | [Read More](https://medium.com/p/a0786f6db692) |
-| Sun, 28 Sep 2025 11:45:41 GMT | Flight chaos grips Europe: 230+ cancellations strand thousands after cyber glitch | Abhishek Kumar | [Read More](https://medium.com/p/7af63928b7e9) |
-| Sun, 28 Sep 2025 11:38:26 GMT | AI’s Hidden Shadows: What No One Is Warning You About | Tejeswar Jangam | [Read More](https://medium.com/p/ac85727855a9) |
-| Sun, 28 Sep 2025 11:35:21 GMT | PG Practice — Roquefort (Linux) | Lepton | [Read More](https://medium.com/p/a12b627b093a) |
