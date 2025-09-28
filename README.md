@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 21:32:43 GMT | Vulnerability Management | Beth Cochran | [Read More](https://medium.com/p/862ef4bef7c4) |
+| Sun, 28 Sep 2025 21:25:16 GMT | Villager AI X HexStrike AI (Custom AI Agent Workflow) | Lewis Desmond | [Read More](https://medium.com/p/7550dcd3089b) |
+| Sun, 28 Sep 2025 21:11:59 GMT | When LinkedIn & Gmail Obey Hidden AI Prompts: Lessons in Indirect Prompt Injection | Aditya Bhatt | [Read More](https://medium.com/p/ae692c09592a) |
+| Sun, 28 Sep 2025 21:10:02 GMT | WriteUP TwoMillion HackTheBox | Olivalein | [Read More](https://medium.com/p/52632347f806) |
 | Sun, 28 Sep 2025 21:07:47 GMT | How I Find Bugs Easily With a Clear Methodology | Ibtissam hammadi | [Read More](https://medium.com/p/74c59d68fe93) |
 | Sun, 28 Sep 2025 21:04:58 GMT | Reset Forgotten Password on Kali Linux in VM or Dual Boot | Pranshu Pathak | [Read More](https://medium.com/p/57224d0af448) |
 | Sun, 28 Sep 2025 21:04:31 GMT | Zeek - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/4c2155e8462f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 13:50:58 GMT | Product, Security, and Architecture: Enablers, Not Enforcers | Dilanka Muthukumarana | [Read More](https://medium.com/p/ab7f5e36db35) |
 | Sun, 28 Sep 2025 13:44:18 GMT | RST TI Report Digest: 22 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/d9e75a2f4a26) |
 | Sun, 28 Sep 2025 13:43:26 GMT | The Security Challenges of AI-Powered Systems | muhammad ardiansah | [Read More](https://medium.com/p/73de601d0b43) |
-| Sun, 28 Sep 2025 13:33:48 GMT | AI vs. Hackers: The Next Cybersecurity Frontier | Syed Shahzain Ali | [Read More](https://medium.com/p/953efcb73b98) |
-| Sun, 28 Sep 2025 13:09:15 GMT | [REPORT] Website function disclosure issue in DBpia | Mari | [Read More](https://medium.com/p/c4ee3f4109c9) |
-| Sun, 28 Sep 2025 13:04:27 GMT | Discreate Mathematics | Divainitha Parameswaran | [Read More](https://medium.com/p/177dc61cf910) |
-| Sun, 28 Sep 2025 13:02:44 GMT | Belajar Membangun dan Mengamankan Jaringan Wireless dengan Cisco Packet Tracer | Yoff | [Read More](https://medium.com/p/9aecc2de92cf) |
