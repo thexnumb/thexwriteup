@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 16:33:06 GMT | First Steps into the Cybersecurity World - Day 1 Recap | El moulaa Mohamed Nidhal | [Read More](https://medium.com/p/b7c3f8584a2d) |
+| Sun, 28 Sep 2025 16:31:51 GMT | 10 FastAPI Security Defaults That Scale Cleanly | Modexa | [Read More](https://medium.com/p/47794b718665) |
+| Sun, 28 Sep 2025 16:31:02 GMT | DNS Tunneling Explained: The stealthy threat every Cybersecurity student must know! | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/5c2912bd0c05) |
+| Sun, 28 Sep 2025 16:31:01 GMT | Hacking APIs: Exploiting GraphQL | Israel Aráoz Severiche | [Read More](https://medium.com/p/1b69e6b3f0fe) |
+| Sun, 28 Sep 2025 16:23:11 GMT | ️ Error-Based SQL Injection: A Beginner-Friendly Deep Dive | S Kumar | [Read More](https://medium.com/p/7eb816dde380) |
 | Sun, 28 Sep 2025 16:17:23 GMT | Cracking the Code: A Human-Friendly Guide to Digital Self-Defense | Athishsagarkishan | [Read More](https://medium.com/p/905f1918c4c6) |
 | Sun, 28 Sep 2025 16:05:37 GMT | It hurts to feel deeply, but I’m proud that I do | Kaomi's Little Nest | [Read More](https://medium.com/p/e6e46c077cb3) |
 | Sun, 28 Sep 2025 16:01:06 GMT | Case for LLM Security Testing: Real-World Risks of Unsecured AI Systems | Whiteknightlabs | [Read More](https://medium.com/p/32c15b38b6ce) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 09:28:48 GMT | Did you know that not all cyber threats come from outside? | Authentica | [Read More](https://medium.com/p/1b14969e03be) |
 | Sun, 28 Sep 2025 09:26:45 GMT | 5 AI Tools Revolutionizing Business in 2025 | Amir Khan | [Read More](https://medium.com/p/f89d42cde122) |
 | Sun, 28 Sep 2025 09:22:49 GMT | Beyond “Offline”: Decoding How EAL6+ & Anti-Tampering Define True Cold Wallet Security | Digital Shield | [Read More](https://medium.com/p/b067763415d7) |
-| Sun, 28 Sep 2025 09:20:37 GMT | My Second DEF CON in Las Vegas — From Tagging Along to Taking Part | VXRL | [Read More](https://medium.com/p/93e4dc61bb8d) |
-| Sun, 28 Sep 2025 09:19:03 GMT | The Leviathan’s Embrace: Crypto’s Schism Between a New Architecture of Trust and the Sovereign… | Crypto Submarine | [Read More](https://medium.com/p/1a24c7b48225) |
-| Sun, 28 Sep 2025 09:15:40 GMT | Meta to YouTube: Malware’s Wild Ride — Safe? | Truspex | [Read More](https://medium.com/p/429895eb94cc) |
-| Sun, 28 Sep 2025 09:06:56 GMT | Password Pain? It’s All Just a Game They Play | Irritably | [Read More](https://medium.com/p/e2db88a47be4) |
-| Sun, 28 Sep 2025 09:05:47 GMT | Journey Through Earning My Second SANS GICSP (Global Industrial Cyber Security Professional)… | Prof.Naz | [Read More](https://medium.com/p/6a9d424a4724) |
