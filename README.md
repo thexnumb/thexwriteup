@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 19:22:03 GMT | When Encryption Fails: Exploiting API Requests in Practice | KrFTr | [Read More](https://medium.com/p/d5e59eecb6c5) |
+| Sun, 28 Sep 2025 19:16:24 GMT | Modern JavaScript Patterns I Wish I Knew Earlier | Kainat Nafees | [Read More](https://medium.com/p/b79239791b16) |
+| Sun, 28 Sep 2025 19:16:21 GMT | Exploiting Pandoc: How Hackers Target AWS Metadata Using CVE-2025–51591 SSRF Flaw | cybrNK | [Read More](https://medium.com/p/c8493b97a52b) |
 | Sun, 28 Sep 2025 19:09:36 GMT | Kubernetes Is Overkill for 99% of Startups | Saloni | [Read More](https://medium.com/p/c4139e2d0a33) |
 | Sun, 28 Sep 2025 19:01:32 GMT | PBO : Polymorphism | Yasa Wijaya | [Read More](https://medium.com/p/406ec700ff3b) |
 | Sun, 28 Sep 2025 19:01:27 GMT | Towards Preventing Container Runescapes | Javcabr | [Read More](https://medium.com/p/9325c8f03e69) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 11:45:41 GMT | Flight chaos grips Europe: 230+ cancellations strand thousands after cyber glitch | Abhishek Kumar | [Read More](https://medium.com/p/7af63928b7e9) |
 | Sun, 28 Sep 2025 11:38:26 GMT | AI’s Hidden Shadows: What No One Is Warning You About | Tejeswar Jangam | [Read More](https://medium.com/p/ac85727855a9) |
 | Sun, 28 Sep 2025 11:35:21 GMT | PG Practice — Roquefort (Linux) | Lepton | [Read More](https://medium.com/p/a12b627b093a) |
-| Sun, 28 Sep 2025 11:31:47 GMT | 5 Common Security Misconfigs in 2025 (and How to Avoid Them) | MeanDeveloper | [Read More](https://medium.com/p/9d5459600701) |
-| Sun, 28 Sep 2025 11:28:24 GMT | Onde os territórios sussuram soará um lamento | Juan Rodrigues | [Read More](https://medium.com/p/6977f441d4b8) |
-| Sun, 28 Sep 2025 11:23:39 GMT | How to Build a File Integrity Monitor in Python: A Step-by-Step Guide | Tejasparmar | [Read More](https://medium.com/p/275fed9b19ad) |
