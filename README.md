@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 22:23:09 GMT | XSS Gym Labs Solution - level "1-10" explaning each payload for Complete Beginners | T0n1x H3r0 | [Read More](https://medium.com/p/2ffa8f404668) |
+| Sun, 28 Sep 2025 22:21:39 GMT | Hi I'm forest. This is my poem called the yearner | Forest barber | [Read More](https://medium.com/p/8afb9152aedb) |
+| Sun, 28 Sep 2025 22:21:05 GMT | Building Detection Coverage — Strengths and Blind Spots | Raynard Waits | [Read More](https://medium.com/p/e3f16e1a7119) |
 | Sun, 28 Sep 2025 22:09:50 GMT | Essential Security & Compliance Best Practices in Software Platforms for Real-Money Gaming | Bpacker | [Read More](https://medium.com/p/5a4e29e294cc) |
 | Sun, 28 Sep 2025 22:04:12 GMT | How to Secure Your API Keys When Deploying React/Next.js Apps | Benaziza Abdelkader Riyadh | [Read More](https://medium.com/p/006deeab089e) |
 | Sun, 28 Sep 2025 21:54:35 GMT | CISO: Trend Reports Are The Answer to Metrics | Yael Nagler | [Read More](https://medium.com/p/867e2da0ed78) |
@@ -24,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 21:04:58 GMT | Reset Forgotten Password on Kali Linux in VM or Dual Boot | Pranshu Pathak | [Read More](https://medium.com/p/57224d0af448) |
 | Sun, 28 Sep 2025 21:04:31 GMT | Zeek - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/4c2155e8462f) |
 | Sun, 28 Sep 2025 21:00:49 GMT | Evaluating the Theoretical Study on Noise Model Improvements for Privacy Amplification in… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/df4354c36ee4) |
+| Sun, 28 Sep 2025 20:58:55 GMT | Jak kalifornijska kancelaria wdrożyła AI dzięki poufnym obliczeniom Phala — bez utraty zaufania… | Phala Network PL | [Read More](https://medium.com/p/705bce95910a) |
 | Sun, 28 Sep 2025 20:52:17 GMT | How I Built My First Reddit Bot as a Beginner | Pranshu Pathak | [Read More](https://medium.com/p/935d798188a0) |
 | Sun, 28 Sep 2025 20:47:19 GMT | Como deixar seu APP Android mais seguro…? | Williaan Souza | [Read More](https://medium.com/p/f205a2610a36) |
 | Sun, 28 Sep 2025 20:46:08 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/af84ced33a37) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 14:17:15 GMT | Bandit Walkthrough Level 4 → Level 5 | Hardik Ghuge | [Read More](https://medium.com/p/267f648726ef) |
 | Sun, 28 Sep 2025 14:16:26 GMT | When Learning Becomes an Act of Love Subtitle | Mayukh Sarma | [Read More](https://medium.com/p/1cb5bb594a4f) |
 | Sun, 28 Sep 2025 14:15:43 GMT | Tools Hydra | Zero Syn | [Read More](https://medium.com/p/13096d1fa245) |
-| Sun, 28 Sep 2025 14:10:19 GMT | OSI Model: The Foundation of Networking and Cybersecurity | Monikanjali Tadepalli | [Read More](https://medium.com/p/6a1bf9f6b25a) |
-| Sun, 28 Sep 2025 14:01:53 GMT | Part 3 : Modern Cybersecurity Principles | Intelithics | [Read More](https://medium.com/p/22b6625bcb79) |
-| Sun, 28 Sep 2025 14:01:10 GMT | Hack This Site — Realistic (Holy Word High School | Te父cno | [Read More](https://medium.com/p/7415429b40f1) |
-| Sun, 28 Sep 2025 14:00:30 GMT | Differentiation Through Security: Why Web3 Needs Abatis | Abatis ABTU | [Read More](https://medium.com/p/5188e8bfc498) |
