@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 18:24:45 GMT | hLend: Powering Haven1’s On-Chain Lending | Victor | [Read More](https://medium.com/p/d7a69838fd0c) |
+| Sun, 28 Sep 2025 18:07:44 GMT | A Theoretical Study on Noise Model Improvements for Privacy Amplification in Quantum-Secured Mobile… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/0d37eb51f0af) |
+| Sun, 28 Sep 2025 18:07:06 GMT | VulnLab — SQL injection | Dalf | [Read More](https://medium.com/p/f7dc558aacd8) |
+| Sun, 28 Sep 2025 18:06:19 GMT | Pawn — An FTP Enumeration & Foothold Walkthrough (Part of my cybersecurity journey) | Ola | [Read More](https://medium.com/p/0d60339b455f) |
+| Sun, 28 Sep 2025 17:59:48 GMT | Understanding Defect Triage in Software Testing | Charukshi Wijesinghe | [Read More](https://medium.com/p/26bb128cf7d9) |
+| Sun, 28 Sep 2025 17:51:21 GMT | Why RSA and ECC Won’t Survive Quantum Computing — And What Comes Next? | Rahul Balaskandan | [Read More](https://medium.com/p/ac83d33500ee) |
+| Sun, 28 Sep 2025 17:46:46 GMT | Why Hiding Won’t Heal You | Sara BenDaoud | [Read More](https://medium.com/p/aaf52ac5efcf) |
+| Sun, 28 Sep 2025 17:38:08 GMT | From Steam to Silicon: AI vs The Industrial Revolution — Reflections on the Next Great Revolution | Vinay Kotian | [Read More](https://medium.com/p/d83da12a883e) |
+| Sun, 28 Sep 2025 17:32:06 GMT | Mastering Wazuh Cluster Diagnostics: Tackling “Cluster is Not Running” and Beyond. | Wilklins Nyatteng | [Read More](https://medium.com/p/45960d229ea6) |
+| Sun, 28 Sep 2025 17:30:08 GMT | Mastering Nmap in 2025: Advanced Nmap Tactics for Bug Bounty Hunters & Security Pros — Final Part | appsecvenue | [Read More](https://medium.com/p/ca5f53378c0d) |
 | Sun, 28 Sep 2025 17:25:42 GMT | How to Create a Hunting Hypothesis | Deniz Topaloglu | [Read More](https://medium.com/p/c0ce12f5c15b) |
+| Sun, 28 Sep 2025 17:22:10 GMT | Simple IDOR — Ketika Pengguna Tidak Sah Bisa Melihat Tugas Orang Lain | Robi Mohamad subagja | [Read More](https://medium.com/p/6ef274c79934) |
 | Sun, 28 Sep 2025 17:19:36 GMT | Network Segmentation: A Necessary Standard | Blessing Munachimso Duru | [Read More](https://medium.com/p/b44341f8eeb4) |
 | Sun, 28 Sep 2025 17:17:04 GMT | Banking Trojans in Latin America: the race for control of digital money | Rodrigo Gutierrez | [Read More](https://medium.com/p/9efd0494d756) |
 | Sun, 28 Sep 2025 17:12:49 GMT | Laravel’s Timebox: The Security Trick You’re Probably Ignoring | Sadique Ali | [Read More](https://medium.com/p/b982aa8f0643) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 10:55:39 GMT | Why Google Cloud doesn’t need a Transit Gateway? …multi-cloud Flexibility | Antonella Blasetti | [Read More](https://medium.com/p/53d40874637c) |
 | Sun, 28 Sep 2025 10:53:41 GMT | The Books That Didn’t End Up as Doorstops | Shahzaib | [Read More](https://medium.com/p/7033e2312cfc) |
 | Sun, 28 Sep 2025 10:50:01 GMT | The Broken Feedback Loop: Why Developers Ignore Security Findings | Tapendra Dev | [Read More](https://medium.com/p/621aa0a34e47) |
-| Sun, 28 Sep 2025 10:47:44 GMT | Basic Cyber ​​Security Tips Every User Should Know | RamEshwar Gurchal | [Read More](https://medium.com/p/f0f0aa50226f) |
-| Sun, 28 Sep 2025 10:47:03 GMT | Max McDermott: $10 Million Loan Fraud Designed To Dupe The SEC | Investment Risk Monitor (IRM) | [Read More](https://medium.com/p/a1c8b5166f68) |
-| Sun, 28 Sep 2025 10:46:48 GMT | How Android Phones Can Be Hacked Using RATs & How to Stay Safe | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/4231d2dc0ac9) |
-| Sun, 28 Sep 2025 10:46:05 GMT | How SMS Blasters Make Your Phone A Prey | O. J. Okpabi | [Read More](https://medium.com/p/ee9627de5e21) |
-| Sun, 28 Sep 2025 10:30:34 GMT | The Cybersecurity Course That Made Me Question Everything I Do Online | Samirah A.O | [Read More](https://medium.com/p/418d5fa35fc9) |
-| Sun, 28 Sep 2025 10:23:01 GMT | According to a recent investigative report, Microsoft had relied on China-based engineers for… | SCtoCS | [Read More](https://medium.com/p/cbde3545619d) |
-| Sun, 28 Sep 2025 10:20:52 GMT | R U Okay? The One Question No One Asks When It Matters | Maaya Rive | [Read More](https://medium.com/p/0559160c3e41) |
-| Sun, 28 Sep 2025 10:18:27 GMT | Chapter Nine: I Am Not Embarrassed by How I Loved | The Unwritten Path | [Read More](https://medium.com/p/6664ecd07d30) |
-| Sun, 28 Sep 2025 10:17:10 GMT | iPhone 17 Pro Accessories Guide: Must-Have Cases & Gadgets | Hana Saito | [Read More](https://medium.com/p/7d9fd2f88ce3) |
-| Sun, 28 Sep 2025 10:14:30 GMT | GitHub Account Breach Triggers Salesloft Drift Incident Impacting 22 Companies | SCtoCS | [Read More](https://medium.com/p/6f5463372173) |
-| Sun, 28 Sep 2025 10:14:16 GMT | Lights, Camera, Hacktion! Making Cybercrime Look Cool? | SilentInject | [Read More](https://medium.com/p/0de90e083a60) |
