@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 17:25:42 GMT | How to Create a Hunting Hypothesis | Deniz Topaloglu | [Read More](https://medium.com/p/c0ce12f5c15b) |
+| Sun, 28 Sep 2025 17:19:36 GMT | Network Segmentation: A Necessary Standard | Blessing Munachimso Duru | [Read More](https://medium.com/p/b44341f8eeb4) |
+| Sun, 28 Sep 2025 17:17:04 GMT | Banking Trojans in Latin America: the race for control of digital money | Rodrigo Gutierrez | [Read More](https://medium.com/p/9efd0494d756) |
+| Sun, 28 Sep 2025 17:12:49 GMT | Laravel’s Timebox: The Security Trick You’re Probably Ignoring | Sadique Ali | [Read More](https://medium.com/p/b982aa8f0643) |
 | Sun, 28 Sep 2025 17:10:18 GMT | Emoji Smuggling: How  Became a Covert Channel in Modern Messaging | Lemon | [Read More](https://medium.com/p/91a9f31866f4) |
 | Sun, 28 Sep 2025 16:57:08 GMT | KQL Query for Detecting Weaponized Microsoft Teams Installer (Oyster Malware) | Tomasz Kozlowski | [Read More](https://medium.com/p/688aeb473a1a) |
 | Sun, 28 Sep 2025 16:55:18 GMT | PUSAT123 - Bocor Tempat Viral Bermain Game Online Hari Ini | cokroach bizz2 | [Read More](https://medium.com/p/db61feb0c973) |
@@ -64,6 +68,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 13:33:48 GMT | AI vs. Hackers: The Next Cybersecurity Frontier | Syed Shahzain Ali | [Read More](https://medium.com/p/953efcb73b98) |
 | Sun, 28 Sep 2025 13:09:15 GMT | [REPORT] Website function disclosure issue in DBpia | Mari | [Read More](https://medium.com/p/c4ee3f4109c9) |
 | Sun, 28 Sep 2025 13:04:27 GMT | Discreate Mathematics | Divainitha Parameswaran | [Read More](https://medium.com/p/177dc61cf910) |
+| Sun, 28 Sep 2025 13:02:44 GMT | Belajar Membangun dan Mengamankan Jaringan Wireless dengan Cisco Packet Tracer | Yoff | [Read More](https://medium.com/p/9aecc2de92cf) |
 | Sun, 28 Sep 2025 12:59:02 GMT | Traffic Control: Advanced Rate Limiting Use Cases in ASP.NET Core | The Code Blueprint By Ajit Sanghera | [Read More](https://medium.com/p/d4d5f771d9a0) |
 | Sun, 28 Sep 2025 12:52:37 GMT | 7 High-Demand Tech Freelance Niches for 2025 | Gulshan Yadav | [Read More](https://medium.com/p/8628785385bd) |
 | Sun, 28 Sep 2025 12:46:54 GMT | That Innocent POS Just Stole Your Life Savings (And You Said "Thank You") | Dayoisawumi | [Read More](https://medium.com/p/a2830c934592) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 10:17:10 GMT | iPhone 17 Pro Accessories Guide: Must-Have Cases & Gadgets | Hana Saito | [Read More](https://medium.com/p/7d9fd2f88ce3) |
 | Sun, 28 Sep 2025 10:14:30 GMT | GitHub Account Breach Triggers Salesloft Drift Incident Impacting 22 Companies | SCtoCS | [Read More](https://medium.com/p/6f5463372173) |
 | Sun, 28 Sep 2025 10:14:16 GMT | Lights, Camera, Hacktion! Making Cybercrime Look Cool? | SilentInject | [Read More](https://medium.com/p/0de90e083a60) |
-| Sun, 28 Sep 2025 10:07:01 GMT | GitHub Security Notifications for Discord | Konstantin Tarkus | [Read More](https://medium.com/p/3fd8ca627a97) |
-| Sun, 28 Sep 2025 10:06:15 GMT | Useful > Hype: Why We Keep Chasing Pumps — and How to Stop | Oleh Melezhyk - CebuCore Founder | [Read More](https://medium.com/p/6af41a800b91) |
-| Sun, 28 Sep 2025 10:04:59 GMT | Tip5: The Algebraic Hash | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d1dcc6cf54a7) |
-| Sun, 28 Sep 2025 10:04:53 GMT | Web Security Essentials | Regan Temudo | [Read More](https://medium.com/p/e5f27dcddcfa) |
-| Sun, 28 Sep 2025 09:53:50 GMT | HackTheBox: Sherlock- Meerkat | Md Zishan Firoz | [Read More](https://medium.com/p/ad37a2d09df4) |
