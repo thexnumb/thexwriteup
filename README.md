@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 11:11:49 GMT | Unlocking Digital Trust: The Magic Behind JWT Signatures | Vraj Suratwala | [Read More](https://medium.com/p/ba7417af803f) |
+| Sun, 28 Sep 2025 10:57:02 GMT | The Invisible Safety Net of Banking Apps | Llama | [Read More](https://medium.com/p/03a1e0fc6909) |
+| Sun, 28 Sep 2025 10:56:59 GMT | 5 Simple Ways To Stay Safe Online Everyday | Peter ndung'u | [Read More](https://medium.com/p/40ce70700beb) |
+| Sun, 28 Sep 2025 10:56:39 GMT | Zero Fear Approach to Defeating Phishing Attacks using SquareX | Sachin      Verlekar | [Read More](https://medium.com/p/f6cb26b5a230) |
+| Sun, 28 Sep 2025 10:56:24 GMT | MCP Protocol! Why I am excited, and how it helps me in my studies. MCP Guide. | João Dias | [Read More](https://medium.com/p/461f4619bb8e) |
+| Sun, 28 Sep 2025 10:55:39 GMT | Why Google Cloud doesn’t need a Transit Gateway? …multi-cloud Flexibility | Antonella Blasetti | [Read More](https://medium.com/p/53d40874637c) |
+| Sun, 28 Sep 2025 10:53:41 GMT | The Books That Didn’t End Up as Doorstops | Shahzaib | [Read More](https://medium.com/p/7033e2312cfc) |
+| Sun, 28 Sep 2025 10:50:01 GMT | The Broken Feedback Loop: Why Developers Ignore Security Findings | Tapendra Dev | [Read More](https://medium.com/p/621aa0a34e47) |
+| Sun, 28 Sep 2025 10:47:44 GMT | Basic Cyber ​​Security Tips Every User Should Know | RamEshwar Gurchal | [Read More](https://medium.com/p/f0f0aa50226f) |
+| Sun, 28 Sep 2025 10:47:03 GMT | Max McDermott: $10 Million Loan Fraud Designed To Dupe The SEC | Investment Risk Monitor (IRM) | [Read More](https://medium.com/p/a1c8b5166f68) |
+| Sun, 28 Sep 2025 10:46:48 GMT | How Android Phones Can Be Hacked Using RATs & How to Stay Safe | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/4231d2dc0ac9) |
+| Sun, 28 Sep 2025 10:46:05 GMT | How SMS Blasters Make Your Phone A Prey | O. J. Okpabi | [Read More](https://medium.com/p/ee9627de5e21) |
 | Sun, 28 Sep 2025 10:30:34 GMT | The Cybersecurity Course That Made Me Question Everything I Do Online | Samirah A.O | [Read More](https://medium.com/p/418d5fa35fc9) |
 | Sun, 28 Sep 2025 10:23:01 GMT | According to a recent investigative report, Microsoft had relied on China-based engineers for… | SCtoCS | [Read More](https://medium.com/p/cbde3545619d) |
 | Sun, 28 Sep 2025 10:20:52 GMT | R U Okay? The One Question No One Asks When It Matters | Maaya Rive | [Read More](https://medium.com/p/0559160c3e41) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 05:46:15 GMT | Hackor[n] CTF -2025 — Jerry_h4ck | JERRY_H4ACK | [Read More](https://medium.com/p/7e53f1ab1999) |
 | Sun, 28 Sep 2025 05:41:49 GMT | Web Security Basics Every Dev Should Know (XSS, CSRF, CORS) | MeanDeveloper | [Read More](https://medium.com/p/6aca2ecb2c0b) |
 | Sun, 28 Sep 2025 04:50:07 GMT | Data Science for Hackers: Turning Log Files Into Threat Intelligence | Aj | [Read More](https://medium.com/p/ee26d81794ea) |
-| Sun, 28 Sep 2025 04:47:29 GMT | НеBuilding an AI-Powered Phishing Email Detector: From Concept to Production | Marcello Dichiera | [Read More](https://medium.com/p/e4f97bc60ef0) |
-| Sun, 28 Sep 2025 04:41:41 GMT | When AI became a browser | Pranav | [Read More](https://medium.com/p/fc7ed952ca10) |
-| Sun, 28 Sep 2025 04:40:32 GMT | **Discover Boomlify: Your Ultimate Temporary Email Solution!** | MR. FIXZeR GamiNG | [Read More](https://medium.com/p/a30f97a0bdf8) |
-| Sun, 28 Sep 2025 04:27:14 GMT | Ingin Transaksi QRIS Lebih Aman? Ikuti 5 Tips Bijak Ini! | NafyCat69 | [Read More](https://medium.com/p/e1784f50debe) |
-| Sun, 28 Sep 2025 04:23:10 GMT | Saudi–Pakistan Security Pact: A Deal Doomed to Fail? | Anarchist | [Read More](https://medium.com/p/4158e0d1a1f3) |
-| Sun, 28 Sep 2025 03:55:29 GMT | Web Hacking with Python: A Beginner’s Project That Teaches Everything | Arfa | [Read More](https://medium.com/p/cea818e30f2d) |
-| Sun, 28 Sep 2025 03:50:08 GMT | Romance Fraud Awareness Week U.K. | Ayshim | [Read More](https://medium.com/p/dd6310dd1fc5) |
-| Sun, 28 Sep 2025 03:49:50 GMT | The Dark Web Isn’t What You Think And That’s the Scary Part | Arfa | [Read More](https://medium.com/p/ba66294edc3d) |
-| Sun, 28 Sep 2025 03:49:12 GMT | State of Cybersecurity Resilience 2025 — A Bespoke Business Development Perspective | Bespoke Business Development | [Read More](https://medium.com/p/cc8830077487) |
-| Sun, 28 Sep 2025 03:40:37 GMT | Security Assessment: Empire Breakout Walkthrough | Luke Gearty | [Read More](https://medium.com/p/e29b7201aa21) |
-| Sun, 28 Sep 2025 03:34:52 GMT | Wazuh: Complete Guide to HIDS, SIEM, and Enterprise Threat Detection | Sadashiv_Pole | [Read More](https://medium.com/p/120d376bfbc0) |
-| Sun, 28 Sep 2025 03:24:12 GMT | Cybersecurity Club Spotlight | Kiley Parker | [Read More](https://medium.com/p/d382933fc771) |
