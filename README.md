@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 11:35:21 GMT | PG Practice — Roquefort (Linux) | Lepton | [Read More](https://medium.com/p/a12b627b093a) |
+| Sun, 28 Sep 2025 11:28:24 GMT | Onde os territórios sussuram soará um lamento | Juan Rodrigues | [Read More](https://medium.com/p/6977f441d4b8) |
+| Sun, 28 Sep 2025 11:23:39 GMT | How to Build a File Integrity Monitor in Python: A Step-by-Step Guide | Tejasparmar | [Read More](https://medium.com/p/275fed9b19ad) |
+| Sun, 28 Sep 2025 11:19:30 GMT | CyberTalents : OptimizePharaoh writeup - by DeveloperHacker | Developer Hacker | [Read More](https://medium.com/p/a6d3742bc816) |
+| Sun, 28 Sep 2025 11:18:40 GMT | TOTP Demystified: How Time-based One-Time Passwords Secure Your Logins | Aditya Ramaswamy | [Read More](https://medium.com/p/3798339ed29c) |
+| Sun, 28 Sep 2025 11:15:00 GMT | How a Resend-Link Flow Exposed Critical User PIIs ( CWE-284 ) | 4osp3l | [Read More](https://medium.com/p/382501bd1913) |
+| Sun, 28 Sep 2025 11:14:00 GMT | How to Install SafeLine WAF on Servers with Plesk | Maverick Steel | [Read More](https://medium.com/p/dbcfb37f1788) |
 | Sun, 28 Sep 2025 11:11:49 GMT | Unlocking Digital Trust: The Magic Behind JWT Signatures | Vraj Suratwala | [Read More](https://medium.com/p/ba7417af803f) |
 | Sun, 28 Sep 2025 10:57:02 GMT | The Invisible Safety Net of Banking Apps | Llama | [Read More](https://medium.com/p/03a1e0fc6909) |
 | Sun, 28 Sep 2025 10:56:59 GMT | 5 Simple Ways To Stay Safe Online Everyday | Peter ndung'u | [Read More](https://medium.com/p/40ce70700beb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 06:45:04 GMT | The Evolution of API Authentication | Shashankakella | [Read More](https://medium.com/p/c8d7c8a03bc1) |
 | Sun, 28 Sep 2025 06:35:34 GMT | How IoT and OT Vulnerabilities Are Turning Our Connected World Into a Cyber Battleground | David SEHYEON Baek | [Read More](https://medium.com/p/7e8a76361d02) |
 | Sun, 28 Sep 2025 06:26:53 GMT | From 403 to Fortune: How I Became an Accidental Admin Through Access Control Bypasses | Iski | [Read More](https://medium.com/p/d76f0c707098) |
-| Sun, 28 Sep 2025 06:14:02 GMT | Understanding SELinux: A Practical Guide for Developers | Budhdi Sharma | [Read More](https://medium.com/p/cec1a64e7b5d) |
-| Sun, 28 Sep 2025 05:52:57 GMT | From “Trust” to “Tangible Verification”: Digital Shield Unveils First Global Experience Center in… | Digital Shield | [Read More](https://medium.com/p/ab83d068a659) |
-| Sun, 28 Sep 2025 05:48:26 GMT | Seoul in Silence | blogginglen.com | [Read More](https://medium.com/p/88e44e531fdf) |
-| Sun, 28 Sep 2025 05:48:19 GMT | THREAT BRIEF (HIGH): Hackers Exploit Pandoc CVE-2025–51591 to Target AWS IMDS and Steal EC2 IAM… | Kavya Ganesan | [Read More](https://medium.com/p/3fd3ba7e3b8b) |
-| Sun, 28 Sep 2025 05:46:15 GMT | Hackor[n] CTF -2025 — Jerry_h4ck | JERRY_H4ACK | [Read More](https://medium.com/p/7e53f1ab1999) |
-| Sun, 28 Sep 2025 05:41:49 GMT | Web Security Basics Every Dev Should Know (XSS, CSRF, CORS) | MeanDeveloper | [Read More](https://medium.com/p/6aca2ecb2c0b) |
-| Sun, 28 Sep 2025 04:50:07 GMT | Data Science for Hackers: Turning Log Files Into Threat Intelligence | Aj | [Read More](https://medium.com/p/ee26d81794ea) |
