@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 04:50:07 GMT | Data Science for Hackers: Turning Log Files Into Threat Intelligence | Aj | [Read More](https://medium.com/p/ee26d81794ea) |
+| Sun, 28 Sep 2025 04:47:29 GMT | НеBuilding an AI-Powered Phishing Email Detector: From Concept to Production | Marcello Dichiera | [Read More](https://medium.com/p/e4f97bc60ef0) |
+| Sun, 28 Sep 2025 04:41:41 GMT | When AI became a browser | Pranav | [Read More](https://medium.com/p/fc7ed952ca10) |
+| Sun, 28 Sep 2025 04:40:32 GMT | **Discover Boomlify: Your Ultimate Temporary Email Solution!** | MR. FIXZeR GamiNG | [Read More](https://medium.com/p/a30f97a0bdf8) |
 | Sun, 28 Sep 2025 04:27:14 GMT | Ingin Transaksi QRIS Lebih Aman? Ikuti 5 Tips Bijak Ini! | NafyCat69 | [Read More](https://medium.com/p/e1784f50debe) |
 | Sun, 28 Sep 2025 04:23:10 GMT | Saudi–Pakistan Security Pact: A Deal Doomed to Fail? | Anarchist | [Read More](https://medium.com/p/4158e0d1a1f3) |
 | Sun, 28 Sep 2025 03:55:29 GMT | Web Hacking with Python: A Beginner’s Project That Teaches Everything | Arfa | [Read More](https://medium.com/p/cea818e30f2d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 17:25:19 GMT | Why Microsoft, Google, and Apple Are All Going Passwordless by 2026 | Sohail Saifi | [Read More](https://medium.com/p/f60b9b76a427) |
 | Sat, 27 Sep 2025 17:21:34 GMT | Using LLMs to Boost Classical Machine Learning URL Classification Models. | Ernest Mugambi | [Read More](https://medium.com/p/25369d6051fb) |
 | Sat, 27 Sep 2025 17:13:57 GMT | Technology with Integrity: Why Trust is the Core of Our Business | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/6276cb241b01) |
-| Sat, 27 Sep 2025 16:58:24 GMT | PG Practice — Apex (Linux) | Lepton | [Read More](https://medium.com/p/26940f5674ed) |
-| Sat, 27 Sep 2025 16:49:45 GMT | Engineering Smarter Factories: The Practical Coding Path to AI-Driven IoT 4.0 | Mohnish Tiwari | [Read More](https://medium.com/p/79d7956a5d68) |
-| Sat, 27 Sep 2025 16:33:14 GMT | The Great SIEM Bake-Off: Is Your SOC About to Get Burned? | Matt Snyder | [Read More](https://medium.com/p/71fd96ad1fee) |
-| Sat, 27 Sep 2025 16:30:23 GMT | The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down | Aditya Bhatt | [Read More](https://medium.com/p/37431757472f) |
