@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 21:07:47 GMT | How I Find Bugs Easily With a Clear Methodology | Ibtissam hammadi | [Read More](https://medium.com/p/74c59d68fe93) |
+| Sun, 28 Sep 2025 21:04:58 GMT | Reset Forgotten Password on Kali Linux in VM or Dual Boot | Pranshu Pathak | [Read More](https://medium.com/p/57224d0af448) |
+| Sun, 28 Sep 2025 21:04:31 GMT | Zeek - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/4c2155e8462f) |
+| Sun, 28 Sep 2025 21:00:49 GMT | Evaluating the Theoretical Study on Noise Model Improvements for Privacy Amplification in… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/df4354c36ee4) |
+| Sun, 28 Sep 2025 20:52:17 GMT | How I Built My First Reddit Bot as a Beginner | Pranshu Pathak | [Read More](https://medium.com/p/935d798188a0) |
+| Sun, 28 Sep 2025 20:47:19 GMT | Como deixar seu APP Android mais seguro…? | Williaan Souza | [Read More](https://medium.com/p/f205a2610a36) |
+| Sun, 28 Sep 2025 20:46:08 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/af84ced33a37) |
+| Sun, 28 Sep 2025 20:39:00 GMT | Logların İzinde: APT Günlükleri — 1 | Ali Ekber KARA | [Read More](https://medium.com/p/7a4c7115139a) |
+| Sun, 28 Sep 2025 20:38:49 GMT | The Linux Process Journey — wpa_cli (Wi-Fi Protected Access Command Line Client) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/931dc8b28ffb) |
+| Sun, 28 Sep 2025 20:28:55 GMT | Why Every Enterprise Should Implement Its Own Internal Certificate Authority (CA) Server | Amila kothalawala | [Read More](https://medium.com/p/98d0add37ce8) |
 | Sun, 28 Sep 2025 20:20:00 GMT | {THM}Toolsrus — writeup | Nihat Rashidli | [Read More](https://medium.com/p/ef0f44af1282) |
 | Sun, 28 Sep 2025 19:56:39 GMT | [Holmes CTF 2025]The Watchman’s Residue | ByteSlayer | [Read More](https://medium.com/p/b1f534616c15) |
 | Sun, 28 Sep 2025 19:44:11 GMT | From Airports to Firewalls: What the Latest Cyber Attacks Teach Us in 2025 | Ethivolt | [Read More](https://medium.com/p/20c7fe8c84e1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 13:09:15 GMT | [REPORT] Website function disclosure issue in DBpia | Mari | [Read More](https://medium.com/p/c4ee3f4109c9) |
 | Sun, 28 Sep 2025 13:04:27 GMT | Discreate Mathematics | Divainitha Parameswaran | [Read More](https://medium.com/p/177dc61cf910) |
 | Sun, 28 Sep 2025 13:02:44 GMT | Belajar Membangun dan Mengamankan Jaringan Wireless dengan Cisco Packet Tracer | Yoff | [Read More](https://medium.com/p/9aecc2de92cf) |
-| Sun, 28 Sep 2025 12:59:02 GMT | Traffic Control: Advanced Rate Limiting Use Cases in ASP.NET Core | The Code Blueprint By Ajit Sanghera | [Read More](https://medium.com/p/d4d5f771d9a0) |
-| Sun, 28 Sep 2025 12:52:37 GMT | 7 High-Demand Tech Freelance Niches for 2025 | Gulshan Yadav | [Read More](https://medium.com/p/8628785385bd) |
-| Sun, 28 Sep 2025 12:46:54 GMT | That Innocent POS Just Stole Your Life Savings (And You Said "Thank You") | Dayoisawumi | [Read More](https://medium.com/p/a2830c934592) |
-| Sun, 28 Sep 2025 12:46:04 GMT | U.S. Government Cisco Firewall Hack Explained - Full Breakdown | Motasem Hamdan | [Read More](https://medium.com/p/eeb68185ba51) |
-| Sun, 28 Sep 2025 12:44:30 GMT | The Exclamation Mark Hack: Exploiting Outlook’s Moniker Link Vulnerability (CVE-2024–21413) | Furkanctiner | [Read More](https://medium.com/p/92cfbfde4290) |
-| Sun, 28 Sep 2025 12:30:54 GMT | Google Dorking — Tryhackme Walkthrough | Genrunic | [Read More](https://medium.com/p/bca77f989256) |
-| Sun, 28 Sep 2025 12:30:52 GMT | Honeypot Operations: The Dark Web Is No Longer a Safe Haven for Cybercriminals | Onur Okan | [Read More](https://medium.com/p/6278ee31451e) |
-| Sun, 28 Sep 2025 12:27:33 GMT | Are you safeguarding your digital footprint:The shadow war in cyberspace | Anthony Veto | [Read More](https://medium.com/p/490c8be60f1e) |
-| Sun, 28 Sep 2025 12:19:57 GMT | ️ How to Set Up a Rooted Android Emulator and Burp Suite Proxy on macOS | Ranjan Kumar | [Read More](https://medium.com/p/f02bdb94386b) |
-| Sun, 28 Sep 2025 12:16:25 GMT | DockerLabs Writeup — Balulero (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/00d771c99c19) |
