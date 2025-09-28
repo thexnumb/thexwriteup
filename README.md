@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 12:30:54 GMT | Google Dorking — Tryhackme Walkthrough | Genrunic | [Read More](https://medium.com/p/bca77f989256) |
+| Sun, 28 Sep 2025 12:30:52 GMT | Honeypot Operations: The Dark Web Is No Longer a Safe Haven for Cybercriminals | Onur Okan | [Read More](https://medium.com/p/6278ee31451e) |
+| Sun, 28 Sep 2025 12:27:33 GMT | Are you safeguarding your digital footprint:The shadow war in cyberspace | Anthony Veto | [Read More](https://medium.com/p/490c8be60f1e) |
+| Sun, 28 Sep 2025 12:19:57 GMT | ️ How to Set Up a Rooted Android Emulator and Burp Suite Proxy on macOS | Ranjan Kumar | [Read More](https://medium.com/p/f02bdb94386b) |
+| Sun, 28 Sep 2025 12:16:25 GMT | DockerLabs Writeup — Balulero (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/00d771c99c19) |
+| Sun, 28 Sep 2025 12:07:09 GMT | GAP: Burp Suite extension —  how and why I use it | 0xBruno | [Read More](https://medium.com/p/5a37cc5ba22e) |
+| Sun, 28 Sep 2025 11:58:51 GMT | The Brad Pitt Romance Scam Just Broke the Internet — And Our Hearts | Napoleon Beltran | [Read More](https://medium.com/p/264d38a922c0) |
+| Sun, 28 Sep 2025 11:57:05 GMT | Why Cybersecurity Studies Are Essential in Today’s Digital World? | Mohammad Al Shahin | [Read More](https://medium.com/p/f7fb8714cc8a) |
+| Sun, 28 Sep 2025 11:54:14 GMT | Footprinting And Reconnaissance | Reyza Maulana Putra | [Read More](https://medium.com/p/a0786f6db692) |
+| Sun, 28 Sep 2025 11:45:41 GMT | Flight chaos grips Europe: 230+ cancellations strand thousands after cyber glitch | Abhishek Kumar | [Read More](https://medium.com/p/7af63928b7e9) |
+| Sun, 28 Sep 2025 11:38:26 GMT | AI’s Hidden Shadows: What No One Is Warning You About | Tejeswar Jangam | [Read More](https://medium.com/p/ac85727855a9) |
 | Sun, 28 Sep 2025 11:35:21 GMT | PG Practice — Roquefort (Linux) | Lepton | [Read More](https://medium.com/p/a12b627b093a) |
+| Sun, 28 Sep 2025 11:31:47 GMT | 5 Common Security Misconfigs in 2025 (and How to Avoid Them) | MeanDeveloper | [Read More](https://medium.com/p/9d5459600701) |
 | Sun, 28 Sep 2025 11:28:24 GMT | Onde os territórios sussuram soará um lamento | Juan Rodrigues | [Read More](https://medium.com/p/6977f441d4b8) |
 | Sun, 28 Sep 2025 11:23:39 GMT | How to Build a File Integrity Monitor in Python: A Step-by-Step Guide | Tejasparmar | [Read More](https://medium.com/p/275fed9b19ad) |
 | Sun, 28 Sep 2025 11:19:30 GMT | CyberTalents : OptimizePharaoh writeup - by DeveloperHacker | Developer Hacker | [Read More](https://medium.com/p/a6d3742bc816) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 07:19:20 GMT | Bug Bounties 101 — Your First Safe Steps Into Real Targets | Fateyaly | [Read More](https://medium.com/p/69f4e487b079) |
 | Sun, 28 Sep 2025 07:08:38 GMT | Generative AI for Hackers: Building Tools for Red Teaming | Aj | [Read More](https://medium.com/p/de38b9b804a3) |
 | Sun, 28 Sep 2025 06:57:49 GMT | TryHackMe #63 - Junior Security Analyst Intro | 0xGroot | [Read More](https://medium.com/p/e556af2b3904) |
-| Sun, 28 Sep 2025 06:57:23 GMT | Top 10 XDR Solutions in India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/d2c9f44fc71c) |
-| Sun, 28 Sep 2025 06:54:06 GMT | Why Term Insurance is a Must in Your 30s: Secure Your Family’s Future Today | Dev Behind the Curtain | [Read More](https://medium.com/p/bd5e74b98c24) |
-| Sun, 28 Sep 2025 06:53:26 GMT | 1.Broken Access Control | aysha | [Read More](https://medium.com/p/d12030b2e06c) |
-| Sun, 28 Sep 2025 06:51:47 GMT | TryHackMe #62 - Training Impact on Teams | 0xGroot | [Read More](https://medium.com/p/157a327ac6c6) |
-| Sun, 28 Sep 2025 06:47:48 GMT | Insecure data storage — part 4: Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/0a0ceb24a20b) |
-| Sun, 28 Sep 2025 06:47:48 GMT | Insecure data storage-part 3: Diva Walkthrough | Sulabh Prajapati | [Read More](https://medium.com/p/ee57d6c56852) |
-| Sun, 28 Sep 2025 06:47:47 GMT | TryHackMe #61 - Security Principles | 0xGroot | [Read More](https://medium.com/p/54e2c2f4b6c5) |
-| Sun, 28 Sep 2025 06:46:55 GMT | Brother Unveils New Business Color Laser Printer Lineup for October 2025 | Tech Stories Online | [Read More](https://medium.com/p/eaa69f5f9dc2) |
-| Sun, 28 Sep 2025 06:46:50 GMT | turning a Raspberry Pi Pico into a Rubber Ducky | Ahmad Allobani | [Read More](https://medium.com/p/546d21a5bf70) |
-| Sun, 28 Sep 2025 06:45:04 GMT | The Evolution of API Authentication | Shashankakella | [Read More](https://medium.com/p/c8d7c8a03bc1) |
-| Sun, 28 Sep 2025 06:35:34 GMT | How IoT and OT Vulnerabilities Are Turning Our Connected World Into a Cyber Battleground | David SEHYEON Baek | [Read More](https://medium.com/p/7e8a76361d02) |
-| Sun, 28 Sep 2025 06:26:53 GMT | From 403 to Fortune: How I Became an Accidental Admin Through Access Control Bypasses | Iski | [Read More](https://medium.com/p/d76f0c707098) |
