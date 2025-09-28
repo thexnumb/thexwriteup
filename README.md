@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 13:33:48 GMT | AI vs. Hackers: The Next Cybersecurity Frontier | Syed Shahzain Ali | [Read More](https://medium.com/p/953efcb73b98) |
 | Sun, 28 Sep 2025 13:09:15 GMT | [REPORT] Website function disclosure issue in DBpia | Mari | [Read More](https://medium.com/p/c4ee3f4109c9) |
 | Sun, 28 Sep 2025 13:04:27 GMT | Discreate Mathematics | Divainitha Parameswaran | [Read More](https://medium.com/p/177dc61cf910) |
 | Sun, 28 Sep 2025 12:59:02 GMT | Traffic Control: Advanced Rate Limiting Use Cases in ASP.NET Core | The Code Blueprint By Ajit Sanghera | [Read More](https://medium.com/p/d4d5f771d9a0) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 07:31:48 GMT | Render Sooner, Wait Less: 7 React 19 Patterns That Cut TTI | Syntal | [Read More](https://medium.com/p/2b7ec20f9584) |
 | Sun, 28 Sep 2025 07:30:46 GMT | The Ultimate Mobile Application Security Checklist for 2025 | Ranjan Sharma | [Read More](https://medium.com/p/021b791a88df) |
 | Sun, 28 Sep 2025 07:27:34 GMT | The U.S. Secret Service shut down a network that could have paralyzed New York | Patrik Žák | [Read More](https://medium.com/p/dfae6736965a) |
-| Sun, 28 Sep 2025 07:26:58 GMT | What Happens When AI Reads Your Breach Data Before You Do | David SEHYEON Baek | [Read More](https://medium.com/p/3d89478e82de) |
