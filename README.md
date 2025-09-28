@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 04:27:14 GMT | Ingin Transaksi QRIS Lebih Aman? Ikuti 5 Tips Bijak Ini! | NafyCat69 | [Read More](https://medium.com/p/e1784f50debe) |
+| Sun, 28 Sep 2025 04:23:10 GMT | Saudi–Pakistan Security Pact: A Deal Doomed to Fail? | Anarchist | [Read More](https://medium.com/p/4158e0d1a1f3) |
 | Sun, 28 Sep 2025 03:55:29 GMT | Web Hacking with Python: A Beginner’s Project That Teaches Everything | Arfa | [Read More](https://medium.com/p/cea818e30f2d) |
 | Sun, 28 Sep 2025 03:50:08 GMT | Romance Fraud Awareness Week U.K. | Ayshim | [Read More](https://medium.com/p/dd6310dd1fc5) |
 | Sun, 28 Sep 2025 03:49:50 GMT | The Dark Web Isn’t What You Think And That’s the Scary Part | Arfa | [Read More](https://medium.com/p/ba66294edc3d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 16:49:45 GMT | Engineering Smarter Factories: The Practical Coding Path to AI-Driven IoT 4.0 | Mohnish Tiwari | [Read More](https://medium.com/p/79d7956a5d68) |
 | Sat, 27 Sep 2025 16:33:14 GMT | The Great SIEM Bake-Off: Is Your SOC About to Get Burned? | Matt Snyder | [Read More](https://medium.com/p/71fd96ad1fee) |
 | Sat, 27 Sep 2025 16:30:23 GMT | The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down | Aditya Bhatt | [Read More](https://medium.com/p/37431757472f) |
-| Sat, 27 Sep 2025 16:30:23 GMT | The First MOLE Update: A new feature and some streamlining. | Emma Waterman | [Read More](https://medium.com/p/be0cf2fdd1fc) |
-| Sat, 27 Sep 2025 16:30:21 GMT | What happens when you type a web address into your browser and press enter? | Gwendal Minguy-Pèlerin | [Read More](https://medium.com/p/aaf1cd5c37af) |
