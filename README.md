@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 15:35:51 GMT | Easy Browser Bug: Fullscreen That Hides the Truth | MostReal | [Read More](https://medium.com/p/f30fe908d872) |
+| Sun, 28 Sep 2025 15:30:35 GMT | Microsoft Word Makrolarından Yararlanarak Zaafiyet Oluşturmak. | Emirhan Sevmez | [Read More](https://medium.com/p/e94e61b6fe39) |
+| Sun, 28 Sep 2025 15:24:42 GMT | A Crypto Scam Incident Report: Analysis and Findings | fatih corumluoglu | [Read More](https://medium.com/p/1b010e269325) |
+| Sun, 28 Sep 2025 15:21:50 GMT | Struggling with User Sessions? Here’s the Forms Auth Fix | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/8844b91932d0) |
+| Sun, 28 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 28, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/8e7c60242108) |
+| Sun, 28 Sep 2025 15:14:12 GMT | France Must Expel Radical Actors | La Voix du Peuple | [Read More](https://medium.com/p/dce50b74dbb6) |
 | Sun, 28 Sep 2025 15:11:59 GMT | The Trap Every OSINT Researcher Falls Into | Sam Galope | [Read More](https://medium.com/p/268ead8b72a6) |
 | Sun, 28 Sep 2025 14:59:35 GMT | HTB Write-Up: Puppy (Medium) | Pedro P Montalvo | [Read More](https://medium.com/p/bc7f99cc7f54) |
 | Sun, 28 Sep 2025 14:52:03 GMT | My Cybersecurity Journey as a 2nd year Computer Science student | Raina Haroon | [Read More](https://medium.com/p/6fbac16e8124) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 09:02:58 GMT | Building a Secure Linux Bastion Host | Eren Cankut Uysal | [Read More](https://medium.com/p/2bae3046fa26) |
 | Sun, 28 Sep 2025 09:02:57 GMT | Active Reconnaissance — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/dad36a5c5388) |
 | Sun, 28 Sep 2025 08:57:53 GMT | Walkthrough PASSPORT — Proving Grounds CTF | Maxwell Ferreira | [Read More](https://medium.com/p/090f3bd135f2) |
-| Sun, 28 Sep 2025 08:53:52 GMT | From “Trust” to “Tangible Verification”: Digital Shield Unveils First Global Experience Center in… | Digital Shield Offcial | [Read More](https://medium.com/p/921bd379582b) |
-| Sun, 28 Sep 2025 08:44:04 GMT | Prompt Injection in AI: What It Is, Why It’s Dangerous, and How to Defend | Yash Mane | [Read More](https://medium.com/p/696a9d7bd9aa) |
-| Sun, 28 Sep 2025 08:43:31 GMT | ZoomEye: A Preferred Choice Among Cyber Space Search Engines | Liuliuliusq | [Read More](https://medium.com/p/e872a56773fa) |
-| Sun, 28 Sep 2025 08:40:54 GMT | Adversarial Machine Learning: How Attackers Target AI — and How to Defend | Yash Mane | [Read More](https://medium.com/p/8ebaf99c2433) |
-| Sun, 28 Sep 2025 08:40:51 GMT | Stop Checking Roles: How to Master Permission-Based RBAC in ASP.NET Core | The Code Blueprint By Ajit Sanghera | [Read More](https://medium.com/p/9e102b27a13e) |
-| Sun, 28 Sep 2025 08:36:49 GMT | Walk. Run. Fly. Why Growth Happens in Stages. | Funke Omolere | [Read More](https://medium.com/p/f55702f275eb) |
