@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 13:09:15 GMT | [REPORT] Website function disclosure issue in DBpia | Mari | [Read More](https://medium.com/p/c4ee3f4109c9) |
+| Sun, 28 Sep 2025 13:04:27 GMT | Discreate Mathematics | Divainitha Parameswaran | [Read More](https://medium.com/p/177dc61cf910) |
+| Sun, 28 Sep 2025 12:59:02 GMT | Traffic Control: Advanced Rate Limiting Use Cases in ASP.NET Core | The Code Blueprint By Ajit Sanghera | [Read More](https://medium.com/p/d4d5f771d9a0) |
+| Sun, 28 Sep 2025 12:52:37 GMT | 7 High-Demand Tech Freelance Niches for 2025 | Gulshan Yadav | [Read More](https://medium.com/p/8628785385bd) |
+| Sun, 28 Sep 2025 12:46:54 GMT | That Innocent POS Just Stole Your Life Savings (And You Said "Thank You") | Dayoisawumi | [Read More](https://medium.com/p/a2830c934592) |
+| Sun, 28 Sep 2025 12:46:04 GMT | U.S. Government Cisco Firewall Hack Explained - Full Breakdown | Motasem Hamdan | [Read More](https://medium.com/p/eeb68185ba51) |
+| Sun, 28 Sep 2025 12:44:30 GMT | The Exclamation Mark Hack: Exploiting Outlook’s Moniker Link Vulnerability (CVE-2024–21413) | Furkanctiner | [Read More](https://medium.com/p/92cfbfde4290) |
 | Sun, 28 Sep 2025 12:30:54 GMT | Google Dorking — Tryhackme Walkthrough | Genrunic | [Read More](https://medium.com/p/bca77f989256) |
 | Sun, 28 Sep 2025 12:30:52 GMT | Honeypot Operations: The Dark Web Is No Longer a Safe Haven for Cybercriminals | Onur Okan | [Read More](https://medium.com/p/6278ee31451e) |
 | Sun, 28 Sep 2025 12:27:33 GMT | Are you safeguarding your digital footprint:The shadow war in cyberspace | Anthony Veto | [Read More](https://medium.com/p/490c8be60f1e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 07:30:46 GMT | The Ultimate Mobile Application Security Checklist for 2025 | Ranjan Sharma | [Read More](https://medium.com/p/021b791a88df) |
 | Sun, 28 Sep 2025 07:27:34 GMT | The U.S. Secret Service shut down a network that could have paralyzed New York | Patrik Žák | [Read More](https://medium.com/p/dfae6736965a) |
 | Sun, 28 Sep 2025 07:26:58 GMT | What Happens When AI Reads Your Breach Data Before You Do | David SEHYEON Baek | [Read More](https://medium.com/p/3d89478e82de) |
-| Sun, 28 Sep 2025 07:25:19 GMT | OSCP Exam Secrets — Avoiding Rabbit Holes and Staying on Track (Part 2) | Diasadin | [Read More](https://medium.com/p/c5192aee6ae7) |
-| Sun, 28 Sep 2025 07:24:21 GMT | The Digital Fortress: Understanding Cybersecurity in the Age of Cryptocurrency !! | Syed Shahzain Ali | [Read More](https://medium.com/p/121616a0f096) |
-| Sun, 28 Sep 2025 07:24:03 GMT | Building Custom Threat Intelligence Feeds with Python: A Practical Guide for Security Teams | Raleigh Guevarra | [Read More](https://medium.com/p/e93023cec838) |
-| Sun, 28 Sep 2025 07:23:10 GMT | 11 Python One-Liners So Clever, They Feel Like Magic Spells | Fateyaly | [Read More](https://medium.com/p/3f9c19c94088) |
-| Sun, 28 Sep 2025 07:19:20 GMT | Bug Bounties 101 — Your First Safe Steps Into Real Targets | Fateyaly | [Read More](https://medium.com/p/69f4e487b079) |
-| Sun, 28 Sep 2025 07:08:38 GMT | Generative AI for Hackers: Building Tools for Red Teaming | Aj | [Read More](https://medium.com/p/de38b9b804a3) |
-| Sun, 28 Sep 2025 06:57:49 GMT | TryHackMe #63 - Junior Security Analyst Intro | 0xGroot | [Read More](https://medium.com/p/e556af2b3904) |
