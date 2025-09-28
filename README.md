@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 19:09:36 GMT | Kubernetes Is Overkill for 99% of Startups | Saloni | [Read More](https://medium.com/p/c4139e2d0a33) |
+| Sun, 28 Sep 2025 19:01:32 GMT | PBO : Polymorphism | Yasa Wijaya | [Read More](https://medium.com/p/406ec700ff3b) |
+| Sun, 28 Sep 2025 19:01:27 GMT | Towards Preventing Container Runescapes | Javcabr | [Read More](https://medium.com/p/9325c8f03e69) |
+| Sun, 28 Sep 2025 19:01:26 GMT | Pentagon’s $1.01T Cyber, Space, & AI Budget | Don (δψ) Tadaya - DaScient - AI | [Read More](https://medium.com/p/37487a15b450) |
+| Sun, 28 Sep 2025 18:54:25 GMT | Late Night, Midnight Thoughts | Sajani Nihara | [Read More](https://medium.com/p/eff563331a19) |
+| Sun, 28 Sep 2025 18:50:05 GMT | Hack The Box — Expressway Walkthrough | Mohamedghareeb | [Read More](https://medium.com/p/58d5570dd7ce) |
+| Sun, 28 Sep 2025 18:44:39 GMT | Passing Python Functions via API for remote validation and execution: A Complete Guide | Suraj Kumar | [Read More](https://medium.com/p/3338ec05cb2d) |
 | Sun, 28 Sep 2025 18:37:02 GMT | Spider Society Walkthrough | Jose Diaz | [Read More](https://medium.com/p/cd5fa1acedcc) |
+| Sun, 28 Sep 2025 18:33:54 GMT | AD Enumeration & Attacks — Skills Assessment Part I | Mkirahmet | [Read More](https://medium.com/p/7b4fd5a76835) |
 | Sun, 28 Sep 2025 18:27:54 GMT | The Art of Plausible Deniability in Cyber Espionage | Jonathan Brown | [Read More](https://medium.com/p/d8a5cc1cff08) |
 | Sun, 28 Sep 2025 18:27:36 GMT | Privilege Escalation via IDOR Allows Unauthorized User Injection | Omer Mohsen | [Read More](https://medium.com/p/f822aa64b528) |
 | Sun, 28 Sep 2025 18:25:23 GMT | AD Enumeration & Attacks — Skills Assessment Part II | Mkirahmet | [Read More](https://medium.com/p/e7320fcd58a5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 11:31:47 GMT | 5 Common Security Misconfigs in 2025 (and How to Avoid Them) | MeanDeveloper | [Read More](https://medium.com/p/9d5459600701) |
 | Sun, 28 Sep 2025 11:28:24 GMT | Onde os territórios sussuram soará um lamento | Juan Rodrigues | [Read More](https://medium.com/p/6977f441d4b8) |
 | Sun, 28 Sep 2025 11:23:39 GMT | How to Build a File Integrity Monitor in Python: A Step-by-Step Guide | Tejasparmar | [Read More](https://medium.com/p/275fed9b19ad) |
-| Sun, 28 Sep 2025 11:19:30 GMT | CyberTalents : OptimizePharaoh writeup - by DeveloperHacker | Developer Hacker | [Read More](https://medium.com/p/a6d3742bc816) |
-| Sun, 28 Sep 2025 11:18:40 GMT | TOTP Demystified: How Time-based One-Time Passwords Secure Your Logins | Aditya Ramaswamy | [Read More](https://medium.com/p/3798339ed29c) |
-| Sun, 28 Sep 2025 11:15:00 GMT | How a Resend-Link Flow Exposed Critical User PIIs ( CWE-284 ) | 4osp3l | [Read More](https://medium.com/p/382501bd1913) |
-| Sun, 28 Sep 2025 11:14:00 GMT | How to Install SafeLine WAF on Servers with Plesk | Maverick Steel | [Read More](https://medium.com/p/dbcfb37f1788) |
-| Sun, 28 Sep 2025 11:11:49 GMT | Unlocking Digital Trust: The Magic Behind JWT Signatures | Vraj Suratwala | [Read More](https://medium.com/p/ba7417af803f) |
-| Sun, 28 Sep 2025 10:57:02 GMT | The Invisible Safety Net of Banking Apps | Llama | [Read More](https://medium.com/p/03a1e0fc6909) |
-| Sun, 28 Sep 2025 10:56:59 GMT | 5 Simple Ways To Stay Safe Online Everyday | Peter ndung'u | [Read More](https://medium.com/p/40ce70700beb) |
-| Sun, 28 Sep 2025 10:56:39 GMT | Zero Fear Approach to Defeating Phishing Attacks using SquareX | Sachin      Verlekar | [Read More](https://medium.com/p/f6cb26b5a230) |
