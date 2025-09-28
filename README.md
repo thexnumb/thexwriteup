@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 17:10:18 GMT | Emoji Smuggling: How  Became a Covert Channel in Modern Messaging | Lemon | [Read More](https://medium.com/p/91a9f31866f4) |
+| Sun, 28 Sep 2025 16:57:08 GMT | KQL Query for Detecting Weaponized Microsoft Teams Installer (Oyster Malware) | Tomasz Kozlowski | [Read More](https://medium.com/p/688aeb473a1a) |
+| Sun, 28 Sep 2025 16:55:18 GMT | PUSAT123 - Bocor Tempat Viral Bermain Game Online Hari Ini | cokroach bizz2 | [Read More](https://medium.com/p/db61feb0c973) |
+| Sun, 28 Sep 2025 16:50:29 GMT | AI Dating Concierges: When Bumble’s Founder Decides Your Love Life Needs a Robot | Zero Trustor | [Read More](https://medium.com/p/83dcb2721bd8) |
+| Sun, 28 Sep 2025 16:48:35 GMT | Cyber Hygiene at Work | Pavlović Goran | [Read More](https://medium.com/p/61e413b37604) |
+| Sun, 28 Sep 2025 16:46:20 GMT | Top 10 Cybersecurity AI Tools for Businesses That Can Save You $1,000 Per Week | Madhavaraman | [Read More](https://medium.com/p/6597f285cd6b) |
+| Sun, 28 Sep 2025 16:38:19 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/4baa63388dce) |
 | Sun, 28 Sep 2025 16:33:06 GMT | First Steps into the Cybersecurity World - Day 1 Recap | El moulaa Mohamed Nidhal | [Read More](https://medium.com/p/b7c3f8584a2d) |
 | Sun, 28 Sep 2025 16:31:51 GMT | 10 FastAPI Security Defaults That Scale Cleanly | Modexa | [Read More](https://medium.com/p/47794b718665) |
 | Sun, 28 Sep 2025 16:31:02 GMT | DNS Tunneling Explained: The stealthy threat every Cybersecurity student must know! | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/5c2912bd0c05) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 10:04:59 GMT | Tip5: The Algebraic Hash | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d1dcc6cf54a7) |
 | Sun, 28 Sep 2025 10:04:53 GMT | Web Security Essentials | Regan Temudo | [Read More](https://medium.com/p/e5f27dcddcfa) |
 | Sun, 28 Sep 2025 09:53:50 GMT | HackTheBox: Sherlock- Meerkat | Md Zishan Firoz | [Read More](https://medium.com/p/ad37a2d09df4) |
-| Sun, 28 Sep 2025 09:43:38 GMT | iPhone Acting Weird? “It’s Like My Phone Has a Mind of Its Own!” | Authlyn | [Read More](https://medium.com/p/9a9d9cfa19c9) |
-| Sun, 28 Sep 2025 09:33:01 GMT | OnePlus CVE-2025–10184: Ditch SMS 2FA Now | Pentest_Testing_Corp | [Read More](https://medium.com/p/b0afd628df97) |
-| Sun, 28 Sep 2025 09:31:17 GMT | Firmware Security Limitations: Bypassing BIOS Authentication via SPI | Liam Wood | [Read More](https://medium.com/p/49a03e831922) |
-| Sun, 28 Sep 2025 09:31:04 GMT | Manipulation Techniques Cybercriminals Use on Social Media - Lumirism | Lumirism | [Read More](https://medium.com/p/02eecbf81293) |
-| Sun, 28 Sep 2025 09:28:48 GMT | Did you know that not all cyber threats come from outside? | Authentica | [Read More](https://medium.com/p/1b14969e03be) |
-| Sun, 28 Sep 2025 09:26:45 GMT | 5 AI Tools Revolutionizing Business in 2025 | Amir Khan | [Read More](https://medium.com/p/f89d42cde122) |
-| Sun, 28 Sep 2025 09:22:49 GMT | Beyond “Offline”: Decoding How EAL6+ & Anti-Tampering Define True Cold Wallet Security | Digital Shield | [Read More](https://medium.com/p/b067763415d7) |
