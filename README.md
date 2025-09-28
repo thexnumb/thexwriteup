@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 22:09:50 GMT | Essential Security & Compliance Best Practices in Software Platforms for Real-Money Gaming | Bpacker | [Read More](https://medium.com/p/5a4e29e294cc) |
+| Sun, 28 Sep 2025 22:04:12 GMT | How to Secure Your API Keys When Deploying React/Next.js Apps | Benaziza Abdelkader Riyadh | [Read More](https://medium.com/p/006deeab089e) |
+| Sun, 28 Sep 2025 21:54:35 GMT | CISO: Trend Reports Are The Answer to Metrics | Yael Nagler | [Read More](https://medium.com/p/867e2da0ed78) |
 | Sun, 28 Sep 2025 21:32:43 GMT | Vulnerability Management | Beth Cochran | [Read More](https://medium.com/p/862ef4bef7c4) |
 | Sun, 28 Sep 2025 21:25:16 GMT | Villager AI X HexStrike AI (Custom AI Agent Workflow) | Lewis Desmond | [Read More](https://medium.com/p/7550dcd3089b) |
+| Sun, 28 Sep 2025 21:25:02 GMT | Inside the Troll Farm Machine: How Fake Engagement Hijacks the Internet | Internet Exposed | [Read More](https://medium.com/p/8f427cde173f) |
 | Sun, 28 Sep 2025 21:11:59 GMT | When LinkedIn & Gmail Obey Hidden AI Prompts: Lessons in Indirect Prompt Injection | Aditya Bhatt | [Read More](https://medium.com/p/ae692c09592a) |
 | Sun, 28 Sep 2025 21:10:02 GMT | WriteUP TwoMillion HackTheBox | Olivalein | [Read More](https://medium.com/p/52632347f806) |
 | Sun, 28 Sep 2025 21:07:47 GMT | How I Find Bugs Easily With a Clear Methodology | Ibtissam hammadi | [Read More](https://medium.com/p/74c59d68fe93) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 14:01:53 GMT | Part 3 : Modern Cybersecurity Principles | Intelithics | [Read More](https://medium.com/p/22b6625bcb79) |
 | Sun, 28 Sep 2025 14:01:10 GMT | Hack This Site — Realistic (Holy Word High School | Te父cno | [Read More](https://medium.com/p/7415429b40f1) |
 | Sun, 28 Sep 2025 14:00:30 GMT | Differentiation Through Security: Why Web3 Needs Abatis | Abatis ABTU | [Read More](https://medium.com/p/5188e8bfc498) |
-| Sun, 28 Sep 2025 13:52:09 GMT | Decoding AI Hype: Essential Terms to Get the Big Picture | Fahad Khan | [Read More](https://medium.com/p/e898a10fc7f1) |
-| Sun, 28 Sep 2025 13:50:58 GMT | Product, Security, and Architecture: Enablers, Not Enforcers | Dilanka Muthukumarana | [Read More](https://medium.com/p/ab7f5e36db35) |
-| Sun, 28 Sep 2025 13:44:18 GMT | RST TI Report Digest: 22 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/d9e75a2f4a26) |
-| Sun, 28 Sep 2025 13:43:26 GMT | The Security Challenges of AI-Powered Systems | muhammad ardiansah | [Read More](https://medium.com/p/73de601d0b43) |
