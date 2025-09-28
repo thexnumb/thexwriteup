@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 03:40:37 GMT | Security Assessment: Empire Breakout Walkthrough | Luke Gearty | [Read More](https://medium.com/p/e29b7201aa21) |
+| Sun, 28 Sep 2025 03:34:52 GMT | Wazuh: Complete Guide to HIDS, SIEM, and Enterprise Threat Detection | Sadashiv_Pole | [Read More](https://medium.com/p/120d376bfbc0) |
+| Sun, 28 Sep 2025 03:24:12 GMT | Cybersecurity Club Spotlight | Kiley Parker | [Read More](https://medium.com/p/d382933fc771) |
+| Sun, 28 Sep 2025 03:15:23 GMT | PicoCTF : Local Authority | Zero Syn | [Read More](https://medium.com/p/5a3c5a16164b) |
+| Sun, 28 Sep 2025 03:12:53 GMT | The Ethics of Ethical Hacking: Where Do We Draw the Line? | Shahzaib | [Read More](https://medium.com/p/7e1dd79c7f65) |
+| Sun, 28 Sep 2025 03:02:10 GMT | How the VAPT Industry Works | Tandelpruthvi | [Read More](https://medium.com/p/5182b248233f) |
+| Sun, 28 Sep 2025 03:01:26 GMT | Edge Computing and Cybersecurity: A New Frontier | Samina Perveen | [Read More](https://medium.com/p/1b1904e866f7) |
 | Sun, 28 Sep 2025 03:00:11 GMT | The Day I Fell in Love with Python Generators | Kainat Nafees | [Read More](https://medium.com/p/d1ae0f8adfdd) |
+| Sun, 28 Sep 2025 02:58:57 GMT | Microsoft’s AI Red Teaming Playground Labs: How Red Teaming Labs Prepare You for Real Risks | Algo Insights | [Read More](https://medium.com/p/4d55c590cfba) |
 | Sun, 28 Sep 2025 02:49:46 GMT | Aastha Loan app cusTomer care number-7739542780./%%/773-954-27-80%=Call | Hepoy Fs | [Read More](https://medium.com/p/b6dcbc33319d) |
 | Sun, 28 Sep 2025 02:47:20 GMT | Stablecoin Risk Management | John Abraham | [Read More](https://medium.com/p/99abe9ca9c2c) |
 | Sun, 28 Sep 2025 02:42:58 GMT | Are We Practicing Love or Surviving Trauma in Black Relationships | The Good Vibes Specialist | [Read More](https://medium.com/p/7ddabcae6ea6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 16:10:47 GMT | Letting Grok Teach Me Computer Security For 1 Week: Part 4 | Colin Zhou | [Read More](https://medium.com/p/1d1b0f17ab4e) |
 | Sat, 27 Sep 2025 16:10:43 GMT | Cybersecurity 101: A Beginner’s Guide to the Basics | D r e a i t h | [Read More](https://medium.com/p/a4249f34383f) |
 | Sat, 27 Sep 2025 16:09:59 GMT | HTB Puppy MachineWalkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/3bbb9ef5b292) |
-| Sat, 27 Sep 2025 16:06:29 GMT | How to safely run a docker container on a VPS | Alex Deb | [Read More](https://medium.com/p/50d33841815a) |
-| Sat, 27 Sep 2025 16:06:29 GMT | Developing Secure Contact Forms in Next.js with Modern Practices | @rnab | [Read More](https://medium.com/p/e24258b0e4fb) |
-| Sat, 27 Sep 2025 16:02:35 GMT | TryHackMe — Jack-of-All-Trades Walkthrough/Write-Up | Vedant Bhalerao | [Read More](https://medium.com/p/0f630d67e361) |
-| Sat, 27 Sep 2025 16:01:57 GMT | 5 Benefits and Challenges of Using Artificial Intelligence in Risk Management | The Nexus Project | [Read More](https://medium.com/p/02da3e831b81) |
-| Sat, 27 Sep 2025 15:59:46 GMT | The Invisible Currency of AI Conversations | Jace Kim | [Read More](https://medium.com/p/1924a0d80d8f) |
-| Sat, 27 Sep 2025 15:49:52 GMT | Improving our Hacking Agent | Daniel Knight | [Read More](https://medium.com/p/b38581c67ac7) |
-| Sat, 27 Sep 2025 15:46:23 GMT | Integer Overflow Exploits: When Numbers Become Weapons | Rizqi Mulki | [Read More](https://medium.com/p/bfed5789a565) |
-| Sat, 27 Sep 2025 15:40:09 GMT | The Reason You Struggle to Let Go of a Person, Place, or Thing | Vijay Kumar Gupta | [Read More](https://medium.com/p/30b29ec3e669) |
