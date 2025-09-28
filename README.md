@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 10:07:01 GMT | GitHub Security Notifications for Discord | Konstantin Tarkus | [Read More](https://medium.com/p/3fd8ca627a97) |
+| Sun, 28 Sep 2025 10:06:15 GMT | Useful > Hype: Why We Keep Chasing Pumps — and How to Stop | Oleh Melezhyk - CebuCore Founder | [Read More](https://medium.com/p/6af41a800b91) |
+| Sun, 28 Sep 2025 10:04:59 GMT | Tip5: The Algebraic Hash | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d1dcc6cf54a7) |
+| Sun, 28 Sep 2025 10:04:53 GMT | Web Security Essentials | Regan Temudo | [Read More](https://medium.com/p/e5f27dcddcfa) |
+| Sun, 28 Sep 2025 09:53:50 GMT | HackTheBox: Sherlock- Meerkat | Md Zishan Firoz | [Read More](https://medium.com/p/ad37a2d09df4) |
+| Sun, 28 Sep 2025 09:43:38 GMT | iPhone Acting Weird? “It’s Like My Phone Has a Mind of Its Own!” | Authlyn | [Read More](https://medium.com/p/9a9d9cfa19c9) |
 | Sun, 28 Sep 2025 09:33:01 GMT | OnePlus CVE-2025–10184: Ditch SMS 2FA Now | Pentest_Testing_Corp | [Read More](https://medium.com/p/b0afd628df97) |
 | Sun, 28 Sep 2025 09:31:17 GMT | Firmware Security Limitations: Bypassing BIOS Authentication via SPI | Liam Wood | [Read More](https://medium.com/p/49a03e831922) |
 | Sun, 28 Sep 2025 09:31:04 GMT | Manipulation Techniques Cybercriminals Use on Social Media - Lumirism | Lumirism | [Read More](https://medium.com/p/02eecbf81293) |
 | Sun, 28 Sep 2025 09:28:48 GMT | Did you know that not all cyber threats come from outside? | Authentica | [Read More](https://medium.com/p/1b14969e03be) |
 | Sun, 28 Sep 2025 09:26:45 GMT | 5 AI Tools Revolutionizing Business in 2025 | Amir Khan | [Read More](https://medium.com/p/f89d42cde122) |
+| Sun, 28 Sep 2025 09:22:49 GMT | Beyond “Offline”: Decoding How EAL6+ & Anti-Tampering Define True Cold Wallet Security | Digital Shield | [Read More](https://medium.com/p/b067763415d7) |
 | Sun, 28 Sep 2025 09:20:37 GMT | My Second DEF CON in Las Vegas — From Tagging Along to Taking Part | VXRL | [Read More](https://medium.com/p/93e4dc61bb8d) |
 | Sun, 28 Sep 2025 09:19:03 GMT | The Leviathan’s Embrace: Crypto’s Schism Between a New Architecture of Trust and the Sovereign… | Crypto Submarine | [Read More](https://medium.com/p/1a24c7b48225) |
 | Sun, 28 Sep 2025 09:15:40 GMT | Meta to YouTube: Malware’s Wild Ride — Safe? | Truspex | [Read More](https://medium.com/p/429895eb94cc) |
@@ -48,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 07:55:39 GMT | The Future is Tiny: Introducing My Vision for a Micro MCP Server | Malik Abualzait | [Read More](https://medium.com/p/c837379ee39e) |
 | Sun, 28 Sep 2025 07:52:53 GMT | The Role of Gamification in Security Training | Cyber Security Research | [Read More](https://medium.com/p/d315f8fdf32f) |
 | Sun, 28 Sep 2025 07:48:15 GMT | Unbreakable Data: Patterns, Flow, and Rhythm | Riskaazizah | [Read More](https://medium.com/p/a844ae2dcab4) |
+| Sun, 28 Sep 2025 07:46:01 GMT | Future Trends in Malware Obfuscation | Cyber Security Research | [Read More](https://medium.com/p/a0ee5610c6d6) |
 | Sun, 28 Sep 2025 07:40:12 GMT | What They Never See | Khansa | [Read More](https://medium.com/p/73844770a90e) |
 | Sun, 28 Sep 2025 07:39:56 GMT | Python : Input Variabel Array | Cahyoadi | [Read More](https://medium.com/p/77e40b337250) |
 | Sun, 28 Sep 2025 07:39:02 GMT | Cybersecurity for Digital Supply Chains | Cyber Security Research | [Read More](https://medium.com/p/7b73cbf9f3cd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 03:00:11 GMT | The Day I Fell in Love with Python Generators | Kainat Nafees | [Read More](https://medium.com/p/d1ae0f8adfdd) |
 | Sun, 28 Sep 2025 02:58:57 GMT | Microsoft’s AI Red Teaming Playground Labs: How Red Teaming Labs Prepare You for Real Risks | Algo Insights | [Read More](https://medium.com/p/4d55c590cfba) |
 | Sun, 28 Sep 2025 02:49:46 GMT | Aastha Loan app cusTomer care number-7739542780./%%/773-954-27-80%=Call | Hepoy Fs | [Read More](https://medium.com/p/b6dcbc33319d) |
-| Sun, 28 Sep 2025 02:47:20 GMT | Stablecoin Risk Management | John Abraham | [Read More](https://medium.com/p/99abe9ca9c2c) |
-| Sun, 28 Sep 2025 02:42:58 GMT | Are We Practicing Love or Surviving Trauma in Black Relationships | The Good Vibes Specialist | [Read More](https://medium.com/p/7ddabcae6ea6) |
-| Sun, 28 Sep 2025 02:31:50 GMT | Write-up PicoCTF: Forensic ‘CanYouSee’ | Muhammad Khairin | [Read More](https://medium.com/p/b40d897c0dbb) |
-| Sun, 28 Sep 2025 02:31:49 GMT | The AI’s Guide to Workplace Survival: When Prompt Injection Becomes Digital Bullying, How Do We… | Scott Huang | [Read More](https://medium.com/p/9df657d06f69) |
-| Sun, 28 Sep 2025 02:11:42 GMT | Deepfake Phishing Is Here: 5 Warning Signs Your Employees Must Know in 2025 | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/2866ac57e6eb) |
-| Sun, 28 Sep 2025 01:39:08 GMT | The Day I Accepted My Functioning Anxiety: Why Trying to ‘Cure’ It Was Worse Than Living With It | vydhi | [Read More](https://medium.com/p/30c68fd9271d) |
-| Sun, 28 Sep 2025 01:37:43 GMT | Wavlink Authenticated Command Injection: LED Control | ice-wzl | [Read More](https://medium.com/p/7397897f218a) |
-| Sun, 28 Sep 2025 00:53:25 GMT | Passwords, Promises, and Silence: My Second Year Fighting Kaspersky | Silent Observer (Sarphari) | [Read More](https://medium.com/p/f7869d4a33b9) |
