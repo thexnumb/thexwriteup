@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 16:17:23 GMT | Cracking the Code: A Human-Friendly Guide to Digital Self-Defense | Athishsagarkishan | [Read More](https://medium.com/p/905f1918c4c6) |
+| Sun, 28 Sep 2025 16:05:37 GMT | It hurts to feel deeply, but I’m proud that I do | Kaomi's Little Nest | [Read More](https://medium.com/p/e6e46c077cb3) |
+| Sun, 28 Sep 2025 16:01:06 GMT | Case for LLM Security Testing: Real-World Risks of Unsecured AI Systems | Whiteknightlabs | [Read More](https://medium.com/p/32c15b38b6ce) |
+| Sun, 28 Sep 2025 15:59:32 GMT | The Power of Words: 10 Things Great Leaders Say | Vijay Kumar Gupta | [Read More](https://medium.com/p/ea3627203249) |
+| Sun, 28 Sep 2025 15:43:14 GMT | Securitizing Non-Human Entities: When Capital Learns to Think | Rodrigo Gutierrez | [Read More](https://medium.com/p/472f3c3bca05) |
+| Sun, 28 Sep 2025 15:39:37 GMT | Inside a Modern Microsoft 365 Phishing Attack: Google Sites, Cloudflare, and Advanced Evasion | Ajith Chandran | [Read More](https://medium.com/p/779439dda009) |
 | Sun, 28 Sep 2025 15:35:51 GMT | Easy Browser Bug: Fullscreen That Hides the Truth | MostReal | [Read More](https://medium.com/p/f30fe908d872) |
 | Sun, 28 Sep 2025 15:30:35 GMT | Microsoft Word Makrolarından Yararlanarak Zaafiyet Oluşturmak. | Emirhan Sevmez | [Read More](https://medium.com/p/e94e61b6fe39) |
 | Sun, 28 Sep 2025 15:24:42 GMT | A Crypto Scam Incident Report: Analysis and Findings | fatih corumluoglu | [Read More](https://medium.com/p/1b010e269325) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 09:15:40 GMT | Meta to YouTube: Malware’s Wild Ride — Safe? | Truspex | [Read More](https://medium.com/p/429895eb94cc) |
 | Sun, 28 Sep 2025 09:06:56 GMT | Password Pain? It’s All Just a Game They Play | Irritably | [Read More](https://medium.com/p/e2db88a47be4) |
 | Sun, 28 Sep 2025 09:05:47 GMT | Journey Through Earning My Second SANS GICSP (Global Industrial Cyber Security Professional)… | Prof.Naz | [Read More](https://medium.com/p/6a9d424a4724) |
-| Sun, 28 Sep 2025 09:05:28 GMT | “The Forgotten Python Module That Feels Like a Hacker’s Superpower” | Muhummad Zaki | [Read More](https://medium.com/p/0b47b39b3660) |
-| Sun, 28 Sep 2025 09:04:12 GMT | Detecting Troublesome Arbitrary API Traffic by Bots — or not. | Deeon Yaksa Anugrah | [Read More](https://medium.com/p/c3acaf0ca901) |
-| Sun, 28 Sep 2025 09:03:28 GMT | Level Up Your Bug Hunting: The Right Way to Harness GPT in Cybersecurity | Chirs Perkin | [Read More](https://medium.com/p/6103396f864c) |
-| Sun, 28 Sep 2025 09:02:58 GMT | Building a Secure Linux Bastion Host | Eren Cankut Uysal | [Read More](https://medium.com/p/2bae3046fa26) |
-| Sun, 28 Sep 2025 09:02:57 GMT | Active Reconnaissance — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/dad36a5c5388) |
-| Sun, 28 Sep 2025 08:57:53 GMT | Walkthrough PASSPORT — Proving Grounds CTF | Maxwell Ferreira | [Read More](https://medium.com/p/090f3bd135f2) |
