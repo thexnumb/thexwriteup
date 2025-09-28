@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 07:34:02 GMT | Junior Analysts are Better Threat Hunters (Here’s Why) | Tyler Wall | [Read More](https://medium.com/p/0e4d95e14c60) |
+| Sun, 28 Sep 2025 07:32:05 GMT | How to Find P1 Bugs using Google in your Target — (Part-1) | RivuDon | [Read More](https://medium.com/p/e37455324dc1) |
+| Sun, 28 Sep 2025 07:31:48 GMT | Security Where You Are: A Builder-First Approach to Organizational Security | Elijah Winter | [Read More](https://medium.com/p/d52a1e3c8ea3) |
+| Sun, 28 Sep 2025 07:30:46 GMT | The Ultimate Mobile Application Security Checklist for 2025 | Ranjan Sharma | [Read More](https://medium.com/p/021b791a88df) |
+| Sun, 28 Sep 2025 07:27:34 GMT | The U.S. Secret Service shut down a network that could have paralyzed New York | Patrik Žák | [Read More](https://medium.com/p/dfae6736965a) |
+| Sun, 28 Sep 2025 07:26:58 GMT | What Happens When AI Reads Your Breach Data Before You Do | David SEHYEON Baek | [Read More](https://medium.com/p/3d89478e82de) |
+| Sun, 28 Sep 2025 07:25:19 GMT | OSCP Exam Secrets — Avoiding Rabbit Holes and Staying on Track (Part 2) | Diasadin | [Read More](https://medium.com/p/c5192aee6ae7) |
+| Sun, 28 Sep 2025 07:24:21 GMT | The Digital Fortress: Understanding Cybersecurity in the Age of Cryptocurrency !! | Syed Shahzain Ali | [Read More](https://medium.com/p/121616a0f096) |
+| Sun, 28 Sep 2025 07:24:03 GMT | Building Custom Threat Intelligence Feeds with Python: A Practical Guide for Security Teams | Raleigh Guevarra | [Read More](https://medium.com/p/e93023cec838) |
+| Sun, 28 Sep 2025 07:23:10 GMT | 11 Python One-Liners So Clever, They Feel Like Magic Spells | Fateyaly | [Read More](https://medium.com/p/3f9c19c94088) |
+| Sun, 28 Sep 2025 07:19:20 GMT | Bug Bounties 101 — Your First Safe Steps Into Real Targets | Fateyaly | [Read More](https://medium.com/p/69f4e487b079) |
 | Sun, 28 Sep 2025 07:08:38 GMT | Generative AI for Hackers: Building Tools for Red Teaming | Aj | [Read More](https://medium.com/p/de38b9b804a3) |
 | Sun, 28 Sep 2025 06:57:49 GMT | TryHackMe #63 - Junior Security Analyst Intro | 0xGroot | [Read More](https://medium.com/p/e556af2b3904) |
 | Sun, 28 Sep 2025 06:57:23 GMT | Top 10 XDR Solutions in India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/d2c9f44fc71c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 19:51:40 GMT | Becoming Virtually Untraceable — #9–25_UnM45k!ng_W4tcH3r5.png | z3r0trust | [Read More](https://medium.com/p/caf353464c63) |
 | Sat, 27 Sep 2025 19:47:22 GMT | Signs Your Computer Needs Repair Before It Completely Breaks Down | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/2443b67594ff) |
 | Sat, 27 Sep 2025 19:37:05 GMT | How I Built an AI-Powered Chrome Extension to Detect Malicious Websites!! | Hanish | [Read More](https://medium.com/p/4e8acbcd8ad6) |
-| Sat, 27 Sep 2025 19:36:15 GMT | #2 File Upload Attacks: A Comprehensive Guide | Imvkale | [Read More](https://medium.com/p/3308cd48e815) |
-| Sat, 27 Sep 2025 19:26:37 GMT | Tor IP Changer Setup Guide | Cybersecplayground | [Read More](https://medium.com/p/588acd3590d6) |
-| Sat, 27 Sep 2025 19:25:49 GMT | Strange But True: How People Make a Living Writing Fake Product Reviews | LokieGamer | [Read More](https://medium.com/p/c3d660d4c2b5) |
-| Sat, 27 Sep 2025 19:16:06 GMT | My Top 7 Browser Extensions for API Penetration Testing | Andrei Ivan | [Read More](https://medium.com/p/02298d529b30) |
-| Sat, 27 Sep 2025 19:15:08 GMT | Drosera: The Immune System Protecting Ethereum from Exploits | bsquarebankz | [Read More](https://medium.com/p/40b3889ace16) |
-| Sat, 27 Sep 2025 19:11:13 GMT | What Is Threat Intelligence and How Does It Work in 2025? | UpTech Solution | [Read More](https://medium.com/p/696c30b1db90) |
-| Sat, 27 Sep 2025 19:03:55 GMT | Python Based CLI Password Generator | Adewale Opeloyeru | [Read More](https://medium.com/p/bc8a355b58a7) |
-| Sat, 27 Sep 2025 19:01:22 GMT | Nefedov Oleg and Black Basta: Creativity Meets Technology | Macholmes | [Read More](https://medium.com/p/1dbcac0b2265) |
-| Sat, 27 Sep 2025 18:55:16 GMT | jQuery? SetUp | Raihan Zhaky | [Read More](https://medium.com/p/74a778c0a2d8) |
-| Sat, 27 Sep 2025 18:48:26 GMT | Nmap for Cyber Warriors | Hassan Muhammad | [Read More](https://medium.com/p/9f4b9cca7b5b) |
-| Sat, 27 Sep 2025 18:42:17 GMT | Securing iOS Apps End-to-End: From Local Storage to Backend | Ravi | [Read More](https://medium.com/p/7d110171c196) |
