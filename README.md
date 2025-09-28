@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 08:31:40 GMT | True investment site is here now EARTHMETA-EstatePlanning | Anthonyprince | [Read More](https://medium.com/p/ff8e5865df94) |
+| Sun, 28 Sep 2025 08:26:32 GMT | Blockchain Basics: Security — Part 5 | 0xNazu.sol | [Read More](https://medium.com/p/2f7f2bee8040) |
+| Sun, 28 Sep 2025 08:24:49 GMT | Identity + Access Revisited: JIT Access & Privileged Access Reviews Done Right | Tharun Krishnamoorthy | [Read More](https://medium.com/p/ab6dc771cfc6) |
+| Sun, 28 Sep 2025 08:22:59 GMT | Home is not a place, but a space, a space you can be vulnerable, feel safe and live peacefully. | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/9cfff49a159e) |
 | Sun, 28 Sep 2025 08:14:19 GMT | AI in Cybersecurity: Opportunities and Practical Use-Cases | Yash Mane | [Read More](https://medium.com/p/f0ef26dc5bcf) |
 | Sun, 28 Sep 2025 08:11:19 GMT | What Is Quantum Computing? A Beginner’s Guide Everyone Can Understand | Amitishacked | [Read More](https://medium.com/p/6318f538bbda) |
 | Sun, 28 Sep 2025 08:01:50 GMT | Pre-Recon Advantage for Bug Hunters: Find Exposed Creds Before Scanning | Alexandre Vandamme | [Read More](https://medium.com/p/3730e8943a17) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 27 Sep 2025 21:46:43 GMT | Is it Worth Learning Open Source Cybersecurity Tools? | Tyler Wall | [Read More](https://medium.com/p/0d82e525d128) |
 | Sat, 27 Sep 2025 21:31:33 GMT | Les Sciences Cognitives de l’Intelligence Artificielle | Loveson VILSENAT | [Read More](https://medium.com/p/2dfa4d9323ba) |
 | Sat, 27 Sep 2025 21:31:13 GMT | New Technique Bypass File Upload | Abbas.heybati | [Read More](https://medium.com/p/4c18cef9f9ed) |
-| Sat, 27 Sep 2025 21:24:26 GMT | Part 5: From backyard to battlefield, Navigation. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/3f610c561f4d) |
-| Sat, 27 Sep 2025 21:11:52 GMT | From a 503 Page to a Critical Bug: Exposing Sensitive Data | Ibtissam hammadi | [Read More](https://medium.com/p/3eade22d7f27) |
-| Sat, 27 Sep 2025 20:53:06 GMT | Securing Software-Defined Networks | Cyber Security Research | [Read More](https://medium.com/p/fb56391cba3b) |
-| Sat, 27 Sep 2025 20:47:17 GMT | Unlocking Security: Symmetric vs Asymmetric Encryption Explained | CyberPhoenix | [Read More](https://medium.com/p/bb3eb6ba175f) |
