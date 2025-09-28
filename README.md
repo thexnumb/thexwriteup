@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 09:33:01 GMT | OnePlus CVE-2025–10184: Ditch SMS 2FA Now | Pentest_Testing_Corp | [Read More](https://medium.com/p/b0afd628df97) |
+| Sun, 28 Sep 2025 09:31:17 GMT | Firmware Security Limitations: Bypassing BIOS Authentication via SPI | Liam Wood | [Read More](https://medium.com/p/49a03e831922) |
+| Sun, 28 Sep 2025 09:31:04 GMT | Manipulation Techniques Cybercriminals Use on Social Media - Lumirism | Lumirism | [Read More](https://medium.com/p/02eecbf81293) |
+| Sun, 28 Sep 2025 09:28:48 GMT | Did you know that not all cyber threats come from outside? | Authentica | [Read More](https://medium.com/p/1b14969e03be) |
+| Sun, 28 Sep 2025 09:26:45 GMT | 5 AI Tools Revolutionizing Business in 2025 | Amir Khan | [Read More](https://medium.com/p/f89d42cde122) |
+| Sun, 28 Sep 2025 09:20:37 GMT | My Second DEF CON in Las Vegas — From Tagging Along to Taking Part | VXRL | [Read More](https://medium.com/p/93e4dc61bb8d) |
+| Sun, 28 Sep 2025 09:19:03 GMT | The Leviathan’s Embrace: Crypto’s Schism Between a New Architecture of Trust and the Sovereign… | Crypto Submarine | [Read More](https://medium.com/p/1a24c7b48225) |
+| Sun, 28 Sep 2025 09:15:40 GMT | Meta to YouTube: Malware’s Wild Ride — Safe? | Truspex | [Read More](https://medium.com/p/429895eb94cc) |
 | Sun, 28 Sep 2025 09:06:56 GMT | Password Pain? It’s All Just a Game They Play | Irritably | [Read More](https://medium.com/p/e2db88a47be4) |
+| Sun, 28 Sep 2025 09:05:47 GMT | Journey Through Earning My Second SANS GICSP (Global Industrial Cyber Security Professional)… | Prof.Naz | [Read More](https://medium.com/p/6a9d424a4724) |
 | Sun, 28 Sep 2025 09:05:28 GMT | “The Forgotten Python Module That Feels Like a Hacker’s Superpower” | Muhummad Zaki | [Read More](https://medium.com/p/0b47b39b3660) |
 | Sun, 28 Sep 2025 09:04:12 GMT | Detecting Troublesome Arbitrary API Traffic by Bots — or not. | Deeon Yaksa Anugrah | [Read More](https://medium.com/p/c3acaf0ca901) |
 | Sun, 28 Sep 2025 09:03:28 GMT | Level Up Your Bug Hunting: The Right Way to Harness GPT in Cybersecurity | Chirs Perkin | [Read More](https://medium.com/p/6103396f864c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 01:39:08 GMT | The Day I Accepted My Functioning Anxiety: Why Trying to ‘Cure’ It Was Worse Than Living With It | vydhi | [Read More](https://medium.com/p/30c68fd9271d) |
 | Sun, 28 Sep 2025 01:37:43 GMT | Wavlink Authenticated Command Injection: LED Control | ice-wzl | [Read More](https://medium.com/p/7397897f218a) |
 | Sun, 28 Sep 2025 00:53:25 GMT | Passwords, Promises, and Silence: My Second Year Fighting Kaspersky | Silent Observer (Sarphari) | [Read More](https://medium.com/p/f7869d4a33b9) |
-| Sun, 28 Sep 2025 00:27:32 GMT | Why Residential Proxies Are Becoming Essential for Online Businesses | Add | [Read More](https://medium.com/p/36e15043b963) |
-| Sun, 28 Sep 2025 00:09:00 GMT | Unveiling the Future of DLP | Christina Irick | [Read More](https://medium.com/p/38471075171d) |
-| Sun, 28 Sep 2025 00:05:38 GMT | Bali and Its Vulnerability to Flooding: A Popular Geological Perspective | oka agastya | [Read More](https://medium.com/p/fa7fabf49101) |
-| Sat, 27 Sep 2025 23:54:01 GMT | Advanced Linux Security for Cloud Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/86ac4241ee01) |
-| Sat, 27 Sep 2025 23:38:41 GMT | Linux IoT Security: Hardening Embedded Devices | Eren Cankut Uysal | [Read More](https://medium.com/p/0230f03364cb) |
-| Sat, 27 Sep 2025 23:38:12 GMT | Your Digital Life is Under Attack (And You Probably Don’t Even Know It) | Dayoisawumi | [Read More](https://medium.com/p/00ba1e2cf440) |
-| Sat, 27 Sep 2025 23:26:41 GMT | CyberDefender — CCD Certification Review | whoami | [Read More](https://medium.com/p/f54752931b4c) |
-| Sat, 27 Sep 2025 23:15:32 GMT | The $18 Million Wake-Up Call: What Hamilton’s Cyberattack Teaches Us About Security in 2025 | Gurdeeps Ca | [Read More](https://medium.com/p/13dcbe84cddf) |
-| Sat, 27 Sep 2025 22:54:12 GMT | CVE-2024–3400 (Review) | Raphael Nicolich | [Read More](https://medium.com/p/8be1743f8c8b) |
