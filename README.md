@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 28 Sep 2025 18:37:02 GMT | Spider Society Walkthrough | Jose Diaz | [Read More](https://medium.com/p/cd5fa1acedcc) |
+| Sun, 28 Sep 2025 18:27:54 GMT | The Art of Plausible Deniability in Cyber Espionage | Jonathan Brown | [Read More](https://medium.com/p/d8a5cc1cff08) |
+| Sun, 28 Sep 2025 18:27:36 GMT | Privilege Escalation via IDOR Allows Unauthorized User Injection | Omer Mohsen | [Read More](https://medium.com/p/f822aa64b528) |
+| Sun, 28 Sep 2025 18:25:23 GMT | AD Enumeration & Attacks — Skills Assessment Part II | Mkirahmet | [Read More](https://medium.com/p/e7320fcd58a5) |
 | Sun, 28 Sep 2025 18:24:45 GMT | hLend: Powering Haven1’s On-Chain Lending | Victor | [Read More](https://medium.com/p/d7a69838fd0c) |
 | Sun, 28 Sep 2025 18:07:44 GMT | A Theoretical Study on Noise Model Improvements for Privacy Amplification in Quantum-Secured Mobile… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/0d37eb51f0af) |
 | Sun, 28 Sep 2025 18:07:06 GMT | VulnLab — SQL injection | Dalf | [Read More](https://medium.com/p/f7dc558aacd8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 10:57:02 GMT | The Invisible Safety Net of Banking Apps | Llama | [Read More](https://medium.com/p/03a1e0fc6909) |
 | Sun, 28 Sep 2025 10:56:59 GMT | 5 Simple Ways To Stay Safe Online Everyday | Peter ndung'u | [Read More](https://medium.com/p/40ce70700beb) |
 | Sun, 28 Sep 2025 10:56:39 GMT | Zero Fear Approach to Defeating Phishing Attacks using SquareX | Sachin      Verlekar | [Read More](https://medium.com/p/f6cb26b5a230) |
-| Sun, 28 Sep 2025 10:56:24 GMT | MCP Protocol! Why I am excited, and how it helps me in my studies. MCP Guide. | João Dias | [Read More](https://medium.com/p/461f4619bb8e) |
-| Sun, 28 Sep 2025 10:55:39 GMT | Why Google Cloud doesn’t need a Transit Gateway? …multi-cloud Flexibility | Antonella Blasetti | [Read More](https://medium.com/p/53d40874637c) |
-| Sun, 28 Sep 2025 10:53:41 GMT | The Books That Didn’t End Up as Doorstops | Shahzaib | [Read More](https://medium.com/p/7033e2312cfc) |
-| Sun, 28 Sep 2025 10:50:01 GMT | The Broken Feedback Loop: Why Developers Ignore Security Findings | Tapendra Dev | [Read More](https://medium.com/p/621aa0a34e47) |
