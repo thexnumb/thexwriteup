@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 20:21:29 GMT | Breaking into Cybersecurity: Skills You Can Learn This Weekend | Andrei Ivan | [Read More](https://medium.com/p/7809ea3c5738) |
 | Mon, 29 Sep 2025 20:15:53 GMT | Cybersecurity Consulting, Services, and Incident Response by CyberSecOp: Protect Your Business from… | Jeffery Walker | [Read More](https://medium.com/p/6e40304eadc6) |
 | Mon, 29 Sep 2025 20:14:24 GMT | Top 50 OSINT Tools Every Security Professional Should Know | Nazrul Islam Rana | [Read More](https://medium.com/p/d4c503be84b5) |
 | Mon, 29 Sep 2025 20:06:15 GMT | Secrets of JavaScript I Learned While Building Real Projects | Kainat Nafees | [Read More](https://medium.com/p/f1157b92aeee) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 14:36:39 GMT | Traps — A Security Measure To Catch The Problem Before It Becomes One | Lou | [Read More](https://medium.com/p/59301f804558) |
 | Mon, 29 Sep 2025 14:33:06 GMT | Interpol’s Operation HAECHI VI: Cybercrime Crackdown Freezes 68,000 Bank Accounts | TheReviewHive | [Read More](https://medium.com/p/4cde7b1d483e) |
 | Mon, 29 Sep 2025 14:31:32 GMT | Privilege Escalation 101 | Zaatil Asmawi | [Read More](https://medium.com/p/cf221314e5b7) |
-| Mon, 29 Sep 2025 14:31:29 GMT | Tek Bir Siber Saldırı Dev Bir Otomotiv Devi’ni Nasıl Dize Getirdi? | Oya Paktas | [Read More](https://medium.com/p/c46e405aa47a) |
