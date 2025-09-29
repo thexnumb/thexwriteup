@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 07:33:19 GMT | Building a Cyber Risk Quantification Agent: Part 3 The Future Roadmap | Rishubh | [Read More](https://medium.com/p/4c50e517506c) |
+| Mon, 29 Sep 2025 07:32:30 GMT | Why Saudi Businesses Now Demand 24/7 IT Support in a Competitive Market | Bluechip Advanced Technologies | [Read More](https://medium.com/p/de44dc08f537) |
+| Mon, 29 Sep 2025 07:28:11 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/b07e19a0bed4) |
+| Mon, 29 Sep 2025 07:26:53 GMT | Managing Multiple GitHub Accounts with SSH Keys | Sanira Liyanage | [Read More](https://medium.com/p/c64e39d24ebd) |
+| Mon, 29 Sep 2025 07:26:53 GMT | Why Embracing IT is an Important Business Strategy | Matthew A | [Read More](https://medium.com/p/cb4bb61605b5) |
+| Mon, 29 Sep 2025 07:24:37 GMT | Why JavaScript Uses async/await Instead of Just await | Tech With Curly Girl | [Read More](https://medium.com/p/82c1f26127ba) |
+| Mon, 29 Sep 2025 07:22:15 GMT | 5 Pro Bug Bounty Automation Tips to Maximize Your Findings | Saumadip Mandal | [Read More](https://medium.com/p/8f515b5003e5) |
+| Mon, 29 Sep 2025 07:21:51 GMT | Advanced Credential Dumping Techniques with Mimikatz | Esra Kayhan | [Read More](https://medium.com/p/9fa9b1e8eae9) |
+| Mon, 29 Sep 2025 07:21:29 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/22af2b187c73) |
 | Mon, 29 Sep 2025 07:14:33 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/d399143859d8) |
+| Mon, 29 Sep 2025 07:12:20 GMT | PicoCTF Web Exploitation Walkthrough - Insp3ct0r | Deepika  B | [Read More](https://medium.com/p/623fde3ac1fb) |
 | Mon, 29 Sep 2025 07:09:29 GMT | Inter-Agent Trust Modeling and Federated Trust Networks | Ruchik Dave | [Read More](https://medium.com/p/e4d822091ad6) |
 | Mon, 29 Sep 2025 07:08:16 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/1ff7ff482f8f) |
+| Mon, 29 Sep 2025 07:06:13 GMT | Common Challenges in Managing Dedicated Development Teams | Alex | [Read More](https://medium.com/p/8f715670ca69) |
 | Mon, 29 Sep 2025 06:51:23 GMT | How to Conduct a Comprehensive Security Posture Assessment in 5 Easy Steps. | Skysecure Technologies | [Read More](https://medium.com/p/7030d198ccd6) |
 | Mon, 29 Sep 2025 06:50:58 GMT | Terms and Conditions Attorney for Websites & Mobile App | Hansen Tong | [Read More](https://medium.com/p/c2bbed6b4238) |
 | Mon, 29 Sep 2025 06:46:13 GMT | Top 10 Web Hosting Trends for 2026 | HostNOC | [Read More](https://medium.com/p/743b49157829) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 00:45:08 GMT | Deploying an AI Honeypot with Beelzebub + OpenAI: Smarter Traps for Smarter Attackers | SOCFortress | [Read More](https://medium.com/p/d86552d35a9e) |
 | Mon, 29 Sep 2025 00:41:49 GMT | Description of research on Theoretical Study on Noise Model Improvements for Privacy Amplification… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/940bac88036d) |
 | Mon, 29 Sep 2025 00:31:45 GMT | Exploring the Splunk AI Toolkit (f.k.a | Grotti | [Read More](https://medium.com/p/5e1e047f6b99) |
-| Mon, 29 Sep 2025 00:17:45 GMT | How I Cracked a CTF Challenge Using Only Pandas and Regex | Aj | [Read More](https://medium.com/p/bdb7dd465f6c) |
-| Mon, 29 Sep 2025 00:17:35 GMT | The Ethical and Security Implications of Biometric Authentication | Samina Perveen | [Read More](https://medium.com/p/bdbd907da3d0) |
-| Mon, 29 Sep 2025 00:17:21 GMT | Ask the Librarian: Search-Engine Dorking as a Visibility Tool | Dzianis Skliar | [Read More](https://medium.com/p/a939a03c095f) |
-| Mon, 29 Sep 2025 00:13:40 GMT | Moria 1.1 walkthrough | Abd Elrahman Reda | [Read More](https://medium.com/p/7073c4bde38a) |
-| Mon, 29 Sep 2025 00:08:14 GMT | How to Get Started with CTFs (For Absolute Beginners) | Shahzaib | [Read More](https://medium.com/p/7ac53eabad86) |
-| Mon, 29 Sep 2025 00:08:07 GMT | OSINT: The Internet of Bodies — A Target Centric Approach | VEEXH | [Read More](https://medium.com/p/6d1e65f99e79) |
-| Mon, 29 Sep 2025 00:07:48 GMT | How a Deepfake Cyber Attack Cost a Small Business $45,000 in 2025 | Noel | [Read More](https://medium.com/p/a70f8c1ba094) |
-| Mon, 29 Sep 2025 00:02:09 GMT | CyberDefenders: Lockdown Lab | Rahaliashraf | [Read More](https://medium.com/p/7f03b3493a88) |
-| Sun, 28 Sep 2025 23:59:35 GMT | Why We Chose Brutally Honest Cybersecurity | Adri Leite | [Read More](https://medium.com/p/e03425f597f1) |
-| Sun, 28 Sep 2025 23:22:28 GMT | The Day I Realized We’re All Security Theater Actors | Afolabi Abigeal | [Read More](https://medium.com/p/ab9c3ab77b57) |
-| Sun, 28 Sep 2025 22:55:27 GMT | Puerto Rico at the Crossroads: Building a Global Data, AI, and Cybersecurity Hub | The Architect Del Rio | [Read More](https://medium.com/p/310043bc3b55) |
