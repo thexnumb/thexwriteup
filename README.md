@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 01:32:08 GMT | Evaluating Potential Cybersecurity Threats of Advanced AI | Synbit.7 | [Read More](https://medium.com/p/74d3bdd8ddad) |
+| Mon, 29 Sep 2025 01:31:06 GMT | HackTheBox - Nineveh | jniket | [Read More](https://medium.com/p/efa2db1bc5da) |
+| Mon, 29 Sep 2025 01:29:50 GMT | The “Happy Mask, Sad soul” | 5yzul | [Read More](https://medium.com/p/2d9b07cfc962) |
+| Mon, 29 Sep 2025 01:16:59 GMT | Summary on Theoretical Study on Noise Model Improvements for Privacy Amplification in… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/cef9b076cd1a) |
+| Mon, 29 Sep 2025 01:04:47 GMT | Building a Honeypot in Microsoft Azure: A Hands-On Cloud Security Project | Eugene Radcliff II | [Read More](https://medium.com/p/660110fd2b8f) |
+| Mon, 29 Sep 2025 01:03:13 GMT | Problem Solved inTheoretical Study on Noise Model Improvements for Privacy Amplification in… | Okai Tettey-Antie Samuel ( OTAS ) | [Read More](https://medium.com/p/bf60772886e5) |
+| Mon, 29 Sep 2025 00:59:59 GMT | What is a Network Topology? (Explained Like You’re Five… But Cooler) | Araiz Naqvi | [Read More](https://medium.com/p/bdf023420da4) |
+| Mon, 29 Sep 2025 00:58:32 GMT | Mars In Cancer: Sanctuary or Cage? | Camilla J.A. | [Read More](https://medium.com/p/c0ebbb976059) |
+| Mon, 29 Sep 2025 00:48:38 GMT | What is Monero (XMR)? A Complete Guide to Privacy-Focused Cryptocurrency in 2025 | Daisypto | [Read More](https://medium.com/p/3c8250cf74df) |
+| Mon, 29 Sep 2025 00:45:08 GMT | Deploying an AI Honeypot with Beelzebub + OpenAI: Smarter Traps for Smarter Attackers | SOCFortress | [Read More](https://medium.com/p/d86552d35a9e) |
+| Mon, 29 Sep 2025 00:41:49 GMT | Description of research on Theoretical Study on Noise Model Improvements for Privacy Amplification… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/940bac88036d) |
+| Mon, 29 Sep 2025 00:31:45 GMT | Exploring the Splunk AI Toolkit (f.k.a | Grotti | [Read More](https://medium.com/p/5e1e047f6b99) |
+| Mon, 29 Sep 2025 00:17:45 GMT | How I Cracked a CTF Challenge Using Only Pandas and Regex | Aj | [Read More](https://medium.com/p/bdb7dd465f6c) |
+| Mon, 29 Sep 2025 00:17:35 GMT | The Ethical and Security Implications of Biometric Authentication | Samina Perveen | [Read More](https://medium.com/p/bdbd907da3d0) |
+| Mon, 29 Sep 2025 00:17:21 GMT | Ask the Librarian: Search-Engine Dorking as a Visibility Tool | Dzianis Skliar | [Read More](https://medium.com/p/a939a03c095f) |
+| Mon, 29 Sep 2025 00:13:40 GMT | Moria 1.1 walkthrough | Abd Elrahman Reda | [Read More](https://medium.com/p/7073c4bde38a) |
+| Mon, 29 Sep 2025 00:08:14 GMT | How to Get Started with CTFs (For Absolute Beginners) | Shahzaib | [Read More](https://medium.com/p/7ac53eabad86) |
+| Mon, 29 Sep 2025 00:08:07 GMT | OSINT: The Internet of Bodies — A Target Centric Approach | VEEXH | [Read More](https://medium.com/p/6d1e65f99e79) |
+| Mon, 29 Sep 2025 00:07:48 GMT | How a Deepfake Cyber Attack Cost a Small Business $45,000 in 2025 | Noel | [Read More](https://medium.com/p/a70f8c1ba094) |
+| Mon, 29 Sep 2025 00:02:09 GMT | CyberDefenders: Lockdown Lab | Rahaliashraf | [Read More](https://medium.com/p/7f03b3493a88) |
+| Sun, 28 Sep 2025 23:59:35 GMT | Why We Chose Brutally Honest Cybersecurity | Adri Leite | [Read More](https://medium.com/p/e03425f597f1) |
 | Sun, 28 Sep 2025 23:22:28 GMT | The Day I Realized We’re All Security Theater Actors | Afolabi Abigeal | [Read More](https://medium.com/p/ab9c3ab77b57) |
 | Sun, 28 Sep 2025 22:55:27 GMT | Puerto Rico at the Crossroads: Building a Global Data, AI, and Cybersecurity Hub | The Architect Del Rio | [Read More](https://medium.com/p/310043bc3b55) |
 | Sun, 28 Sep 2025 22:49:19 GMT | Part 6: From backyard to battlefield, Communication. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/fa9a5407f836) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 16:05:37 GMT | It hurts to feel deeply, but I’m proud that I do | Kaomi's Little Nest | [Read More](https://medium.com/p/e6e46c077cb3) |
 | Sun, 28 Sep 2025 16:01:06 GMT | Case for LLM Security Testing: Real-World Risks of Unsecured AI Systems | Whiteknightlabs | [Read More](https://medium.com/p/32c15b38b6ce) |
 | Sun, 28 Sep 2025 15:59:32 GMT | The Power of Words: 10 Things Great Leaders Say | Vijay Kumar Gupta | [Read More](https://medium.com/p/ea3627203249) |
-| Sun, 28 Sep 2025 15:43:14 GMT | Securitizing Non-Human Entities: When Capital Learns to Think | Rodrigo Gutierrez | [Read More](https://medium.com/p/472f3c3bca05) |
-| Sun, 28 Sep 2025 15:39:37 GMT | Inside a Modern Microsoft 365 Phishing Attack: Google Sites, Cloudflare, and Advanced Evasion | Ajith Chandran | [Read More](https://medium.com/p/779439dda009) |
-| Sun, 28 Sep 2025 15:35:51 GMT | Easy Browser Bug: Fullscreen That Hides the Truth | MostReal | [Read More](https://medium.com/p/f30fe908d872) |
-| Sun, 28 Sep 2025 15:30:35 GMT | Microsoft Word Makrolarından Yararlanarak Zaafiyet Oluşturmak. | Emirhan Sevmez | [Read More](https://medium.com/p/e94e61b6fe39) |
-| Sun, 28 Sep 2025 15:24:42 GMT | A Crypto Scam Incident Report: Analysis and Findings | fatih corumluoglu | [Read More](https://medium.com/p/1b010e269325) |
-| Sun, 28 Sep 2025 15:21:50 GMT | Struggling with User Sessions? Here’s the Forms Auth Fix | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/8844b91932d0) |
-| Sun, 28 Sep 2025 15:15:04 GMT | GZR Observer Daily — Sep 28, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/8e7c60242108) |
-| Sun, 28 Sep 2025 15:14:12 GMT | France Must Expel Radical Actors | La Voix du Peuple | [Read More](https://medium.com/p/dce50b74dbb6) |
-| Sun, 28 Sep 2025 15:11:59 GMT | The Trap Every OSINT Researcher Falls Into | Sam Galope | [Read More](https://medium.com/p/268ead8b72a6) |
-| Sun, 28 Sep 2025 14:59:35 GMT | HTB Write-Up: Puppy (Medium) | Pedro P Montalvo | [Read More](https://medium.com/p/bc7f99cc7f54) |
-| Sun, 28 Sep 2025 14:52:03 GMT | My Cybersecurity Journey as a 2nd year Computer Science student | Raina Haroon | [Read More](https://medium.com/p/6fbac16e8124) |
-| Sun, 28 Sep 2025 14:51:47 GMT | My Bulletproof Home Lab with ZimaBoard: Redundant Networks, Kasm & Tailscale VPN | Hugo Valters | [Read More](https://medium.com/p/bc06677065a3) |
-| Sun, 28 Sep 2025 14:51:42 GMT | Cybersecurity Maturity in Dispute: Latin America Versus Its Global Peers | Rodrigo Gutierrez | [Read More](https://medium.com/p/5121cb9426df) |
-| Sun, 28 Sep 2025 14:48:01 GMT | Tai Lopez Named in SEC Allegations of $112M Ponzi-Style Scheme | OpenClassActions.com | [Read More](https://medium.com/p/b28ed0b8b6d3) |
-| Sun, 28 Sep 2025 14:47:25 GMT | Beginner’s Guide to Security Technology for Homes and Offices | Sarmin Islam | [Read More](https://medium.com/p/268614a3b081) |
-| Sun, 28 Sep 2025 14:44:37 GMT | Critical Privilege Escalation: Viewer Can Gain Admin Access | xploiterr | [Read More](https://medium.com/p/56069a4ccf95) |
-| Sun, 28 Sep 2025 14:41:34 GMT | Why Russian Developers Write More Secure Code Than Americans | Sohail Saifi | [Read More](https://medium.com/p/b965a7cf45ce) |
-| Sun, 28 Sep 2025 14:40:19 GMT | Bandit Walkthrough Level 5 → Level 6 | Hardik Ghuge | [Read More](https://medium.com/p/848d954f25c5) |
-| Sun, 28 Sep 2025 14:31:01 GMT | The Bug That Let Me Crash Another Tenant’s Department | Sid_x95 | [Read More](https://medium.com/p/87176a3ea6d5) |
-| Sun, 28 Sep 2025 14:29:54 GMT | Inside Jetpack’s security state provider: a publisher–consumer model for component patch state | Dmitry Glazunov | [Read More](https://medium.com/p/16ec2205e0ca) |
-| Sun, 28 Sep 2025 14:21:32 GMT | Week 11 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/0316beed3df7) |
