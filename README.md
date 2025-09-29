@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 07:14:33 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/d399143859d8) |
+| Mon, 29 Sep 2025 07:09:29 GMT | Inter-Agent Trust Modeling and Federated Trust Networks | Ruchik Dave | [Read More](https://medium.com/p/e4d822091ad6) |
+| Mon, 29 Sep 2025 07:08:16 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/1ff7ff482f8f) |
+| Mon, 29 Sep 2025 06:51:23 GMT | How to Conduct a Comprehensive Security Posture Assessment in 5 Easy Steps. | Skysecure Technologies | [Read More](https://medium.com/p/7030d198ccd6) |
+| Mon, 29 Sep 2025 06:50:58 GMT | Terms and Conditions Attorney for Websites & Mobile App | Hansen Tong | [Read More](https://medium.com/p/c2bbed6b4238) |
+| Mon, 29 Sep 2025 06:46:13 GMT | Top 10 Web Hosting Trends for 2026 | HostNOC | [Read More](https://medium.com/p/743b49157829) |
+| Mon, 29 Sep 2025 06:44:04 GMT | The Daily Tech Digest: 29 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0c86fee552d9) |
+| Mon, 29 Sep 2025 06:36:31 GMT | My Cybersecurity Journey: How I Started Exploring the World of Tech Security | Ritvik | [Read More](https://medium.com/p/2d4341c9ad3d) |
+| Mon, 29 Sep 2025 06:35:17 GMT | Secure Authentication Explained: Methods, Best Practices, and Real-World Examples | Andreas Christou | [Read More](https://medium.com/p/48aa66c56231) |
 | Mon, 29 Sep 2025 06:30:45 GMT | I Can Hack Systems but Couldn’t Write One Article (Until Now) | Abdullah Javeed | [Read More](https://medium.com/p/970354aea206) |
 | Mon, 29 Sep 2025 06:26:49 GMT | AI-Powered Hackers: The Next Big Cybersecurity Threat? | Ann Maria | [Read More](https://medium.com/p/4b904181ab54) |
 | Mon, 29 Sep 2025 06:24:08 GMT | New version of Maester on Azure Web App — Microsoft Security Test Automation Framework | Brian Veldman | [Read More](https://medium.com/p/2178e96db4ee) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 23:59:35 GMT | Why We Chose Brutally Honest Cybersecurity | Adri Leite | [Read More](https://medium.com/p/e03425f597f1) |
 | Sun, 28 Sep 2025 23:22:28 GMT | The Day I Realized We’re All Security Theater Actors | Afolabi Abigeal | [Read More](https://medium.com/p/ab9c3ab77b57) |
 | Sun, 28 Sep 2025 22:55:27 GMT | Puerto Rico at the Crossroads: Building a Global Data, AI, and Cybersecurity Hub | The Architect Del Rio | [Read More](https://medium.com/p/310043bc3b55) |
-| Sun, 28 Sep 2025 22:49:19 GMT | Part 6: From backyard to battlefield, Communication. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/fa9a5407f836) |
-| Sun, 28 Sep 2025 22:26:45 GMT | HTB-OSINT —The Puppet Master | Majd abuleil | [Read More](https://medium.com/p/94c78e75703f) |
-| Sun, 28 Sep 2025 22:23:09 GMT | XSS Gym Labs Solution - level "1-10" explaning each payload for Complete Beginners | T0n1x H3r0 | [Read More](https://medium.com/p/2ffa8f404668) |
-| Sun, 28 Sep 2025 22:21:39 GMT | Hi I'm forest. This is my poem called the yearner | Forest barber | [Read More](https://medium.com/p/8afb9152aedb) |
-| Sun, 28 Sep 2025 22:21:05 GMT | Building Detection Coverage — Strengths and Blind Spots | Raynard Waits | [Read More](https://medium.com/p/e3f16e1a7119) |
-| Sun, 28 Sep 2025 22:09:50 GMT | Essential Security & Compliance Best Practices in Software Platforms for Real-Money Gaming | Bpacker | [Read More](https://medium.com/p/5a4e29e294cc) |
-| Sun, 28 Sep 2025 22:04:12 GMT | How to Secure Your API Keys When Deploying React/Next.js Apps | Benaziza Abdelkader Riyadh | [Read More](https://medium.com/p/006deeab089e) |
-| Sun, 28 Sep 2025 21:54:35 GMT | CISO: Trend Reports Are The Answer to Metrics | Yael Nagler | [Read More](https://medium.com/p/867e2da0ed78) |
-| Sun, 28 Sep 2025 21:32:43 GMT | Vulnerability Management | Beth Cochran | [Read More](https://medium.com/p/862ef4bef7c4) |
