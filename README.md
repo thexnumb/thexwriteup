@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 13:23:49 GMT | Beyond the Breach: 4 Surprising Truths About Handling a Cyber Crisis | Rana Nasmin | [Read More](https://medium.com/p/16b0a5abe2c4) |
+| Mon, 29 Sep 2025 13:22:56 GMT | Why I Don’t Trust Default Kernel Parameters on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/879b28d3543f) |
+| Mon, 29 Sep 2025 13:20:21 GMT | Your AI & Digital Life: Is a DDoS Attack About to Pull the Plug? | Akhilesh Yadav | [Read More](https://medium.com/p/183c843b3f51) |
+| Mon, 29 Sep 2025 13:17:51 GMT | Securing Microservices: A Complete Guide to HMAC-Based Service-to-Service Communication in Go | Anu madhav | [Read More](https://medium.com/p/38e410753dda) |
+| Mon, 29 Sep 2025 13:17:51 GMT | Python for Everyday Security Analysts: Simple Scripts that Save Time | Raleigh Guevarra | [Read More](https://medium.com/p/4a3159134a11) |
+| Mon, 29 Sep 2025 13:16:20 GMT | Trust “Us” to “Prove It” | Evi-Shield | [Read More](https://medium.com/p/1077806ad2b4) |
+| Mon, 29 Sep 2025 13:15:53 GMT | Why Upskilling in Cloud Technologies is No Longer Optional in 2025 | Dinesh Chakra | [Read More](https://medium.com/p/40c9f9c0ad82) |
+| Mon, 29 Sep 2025 13:15:32 GMT | Explore the Diverse Departments at KSRCE | K.S.R. College of Engineering | [Read More](https://medium.com/p/cbde5532fc4d) |
+| Mon, 29 Sep 2025 13:11:02 GMT | How I Switched From Gmail and Took Back My Privacy | Ibtissam hammadi | [Read More](https://medium.com/p/87745f2f2f8f) |
+| Mon, 29 Sep 2025 13:09:00 GMT | Don’t ask for feedback when what you really want is validation | Dr. Robert Cavagnol | [Read More](https://medium.com/p/a3adb846345e) |
+| Mon, 29 Sep 2025 13:03:40 GMT | Artificial General Intelligence Timeline: When Could It Happen and What It Means for Us | Amna khan | [Read More](https://medium.com/p/80e4ae0fb62c) |
+| Mon, 29 Sep 2025 13:00:36 GMT | Strong Passwords Are Dead. What You Should Be Using Instead | Abdullateef Hameed | [Read More](https://medium.com/p/2d12453d90ae) |
+| Mon, 29 Sep 2025 12:56:13 GMT | Quick Commerce App: How it’s Redefining Retail & What It Means for Your Business | Gauri Pandey | [Read More](https://medium.com/p/d4fea74350d6) |
+| Mon, 29 Sep 2025 12:44:37 GMT | Python Scripts I Use to Automate My Life (That No One Talks About) | Fateyaly | [Read More](https://medium.com/p/bc97656227aa) |
 | Mon, 29 Sep 2025 12:38:13 GMT | What Does a Cyber Essentials Consultant Do? A UK Small Business Owner’s Guide | Paul Reynolds | [Read More](https://medium.com/p/26b7759bed26) |
 | Mon, 29 Sep 2025 12:37:14 GMT | Lab 1 — SQL Injection in WHERE Clause: How OR 1=1 — Exposes Hidden Products | Apexium Technologies Ltd | [Read More](https://medium.com/p/8d1d9828b7e5) |
 | Mon, 29 Sep 2025 12:36:44 GMT | Burp Suite Pro Installation & Setup Guide on Kali Linux | Apexium Technologies Ltd | [Read More](https://medium.com/p/a6793d16833d) |
+| Mon, 29 Sep 2025 12:33:15 GMT | IndiaAI Mission: How is It Accelerating AI Research with GPUs? | Ishantechnologies | [Read More](https://medium.com/p/e8a684e54220) |
 | Mon, 29 Sep 2025 12:30:24 GMT | Bandit - Level 0 → 1 - OverTheWire | Deepika  B | [Read More](https://medium.com/p/75b036afb30b) |
 | Mon, 29 Sep 2025 12:30:04 GMT | ASHR: Revolutionary Self-Healing Networks for the Next Generation | Aamir Hameed | [Read More](https://medium.com/p/a58d9382fcb3) |
 | Mon, 29 Sep 2025 12:27:00 GMT | Master Prompt Injection — The One Skill Every Modern Hacker & Defender Should Know | Beri Contraster | [Read More](https://medium.com/p/7016d9bc11b1) |
@@ -98,18 +113,3 @@ Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) 
 | Mon, 29 Sep 2025 09:11:00 GMT | How I Beat Gandalf: Complete Solution Walkthrough | Prateek Ranjan | [Read More](https://medium.com/p/252c57f4a21d) |
 | Mon, 29 Sep 2025 09:08:55 GMT | The Future of Cybersecurity Jobs: What Will Change in 2030? | Ann Maria | [Read More](https://medium.com/p/b69fce21baf3) |
 | Mon, 29 Sep 2025 09:07:55 GMT | Training Staff in Proper Chain of Custody Procedures | Sofiamcmahon | [Read More](https://medium.com/p/87fcfba17e6f) |
-| Mon, 29 Sep 2025 09:06:37 GMT | Security Bag Designs Compared: Roll vs. Individual Bags | Sofiamcmahon | [Read More](https://medium.com/p/abd6f2211e45) |
-| Mon, 29 Sep 2025 09:01:02 GMT | Secrets to Protecting Your Website Against SEO Poisoning | Anh Trần Tuấn | [Read More](https://medium.com/p/402c899574da) |
-| Mon, 29 Sep 2025 09:01:00 GMT | Secrets to Protecting Your Website Against SEO Poisoning | Anh Trần Tuấn | [Read More](https://medium.com/p/9ea57f574c1c) |
-| Mon, 29 Sep 2025 08:57:01 GMT | Protect your data with IBN Technologies..Read More.. | Sameer P. | [Read More](https://medium.com/p/84c4c99aa40c) |
-| Mon, 29 Sep 2025 08:46:38 GMT | From Vision to Reality: The Journey of Hello Future Technologies | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/c390b04a0900) |
-| Mon, 29 Sep 2025 08:41:49 GMT | Micro‑MCP Security: Designing Least‑Privilege Context for LLMs | Malik Abualzait | [Read More](https://medium.com/p/e23070152edd) |
-| Mon, 29 Sep 2025 08:32:37 GMT | When AI Creates Security Theater: How a Coding Assistant Turned a Minor Bug into a “Critical… | Shayell Aha | [Read More](https://medium.com/p/0e92d729f45f) |
-| Mon, 29 Sep 2025 08:32:05 GMT | Breaking Down Security Silos: The Interconnected Security Lifecycle | Elijah Winter | [Read More](https://medium.com/p/c4c7bf19c405) |
-| Mon, 29 Sep 2025 08:30:57 GMT | WebSocket Security: Run wss:// Locally and Harden It Fast | Scaibu | [Read More](https://medium.com/p/36b9bcf1bdde) |
-| Mon, 29 Sep 2025 08:16:20 GMT | Listar subdominios vHosts | Pancho AM | [Read More](https://medium.com/p/db40013a4cab) |
-| Mon, 29 Sep 2025 08:10:21 GMT | Hacking the Department of Homeland Security (Legally). This is my story | D3N14LD15K | [Read More](https://medium.com/p/3c16ef02347f) |
-| Mon, 29 Sep 2025 08:08:41 GMT | Mas Selamat Kastari: Singapore’s Most Notorious Fugitive and the Manhunt That Shook the Nation | Dan Marshall-Singh | [Read More](https://medium.com/p/244693fbee61) |
-| Mon, 29 Sep 2025 08:08:07 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/895047544ad9) |
-| Mon, 29 Sep 2025 08:07:02 GMT | Business Email Compromise In Nigeria | O. J. Okpabi | [Read More](https://medium.com/p/d03b913b3a85) |
-| Mon, 29 Sep 2025 08:05:37 GMT | What is IT Vulnerability Assessment - VA Tools and Best Practices | QualysecEurope | [Read More](https://medium.com/p/b557c18ed09f) |
