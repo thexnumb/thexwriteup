@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 05:37:43 GMT | TryHackMe Challenge — ToolsRus | Aniket Pattanshetti | [Read More](https://medium.com/p/923b8db54141) |
+| Mon, 29 Sep 2025 05:34:51 GMT | Why AI Services Might Flop Big | Anirudh | [Read More](https://medium.com/p/697eb860b7db) |
+| Mon, 29 Sep 2025 05:29:03 GMT | Unicode Secrets: Hide and Reveal Text Inside Emojis Using Variation Selectors | Sushanta Neupane | [Read More](https://medium.com/p/a01c01e249cf) |
 | Mon, 29 Sep 2025 05:19:45 GMT | Tech and Loneliness: Are We Truly More Connected or Growing More Alone? | Tarush Sharma | [Read More](https://medium.com/p/517300de3cbf) |
 | Mon, 29 Sep 2025 05:15:34 GMT | SeqOps: Proactive Cybersecurity for a Constantly Evolving Digital World | SEQOPS | [Read More](https://medium.com/p/5d3d30e87bfe) |
+| Mon, 29 Sep 2025 05:15:33 GMT | The Role of Master Protection in Modern Corporate Security | Mindfully SEO | [Read More](https://medium.com/p/dcc53bf15506) |
 | Mon, 29 Sep 2025 05:09:29 GMT | Digital Life, Hidden Dangers di Keseharian Kita | Brian | [Read More](https://medium.com/p/e393eda672a7) |
 | Mon, 29 Sep 2025 05:07:48 GMT | One Dark Web Click That Changed Everything: Why I’ll Never Make That Mistake Again | John Doe | [Read More](https://medium.com/p/7610e650c8f4) |
 | Mon, 29 Sep 2025 05:04:49 GMT | iPhone 17 Pro Camera Test 2025: Night Mode and Zoom Compared | Addison Lee | [Read More](https://medium.com/p/4f8ffda2f4cf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 20:46:08 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/af84ced33a37) |
 | Sun, 28 Sep 2025 20:39:00 GMT | Logların İzinde: APT Günlükleri — 1 | Ali Ekber KARA | [Read More](https://medium.com/p/7a4c7115139a) |
 | Sun, 28 Sep 2025 20:38:49 GMT | The Linux Process Journey — wpa_cli (Wi-Fi Protected Access Command Line Client) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/931dc8b28ffb) |
-| Sun, 28 Sep 2025 20:28:55 GMT | Why Every Enterprise Should Implement Its Own Internal Certificate Authority (CA) Server | Amila kothalawala | [Read More](https://medium.com/p/98d0add37ce8) |
-| Sun, 28 Sep 2025 20:20:00 GMT | {THM}Toolsrus — writeup | Nihat Rashidli | [Read More](https://medium.com/p/ef0f44af1282) |
-| Sun, 28 Sep 2025 19:56:39 GMT | [Holmes CTF 2025]The Watchman’s Residue | ByteSlayer | [Read More](https://medium.com/p/b1f534616c15) |
-| Sun, 28 Sep 2025 19:44:11 GMT | From Airports to Firewalls: What the Latest Cyber Attacks Teach Us in 2025 | Ethivolt | [Read More](https://medium.com/p/20c7fe8c84e1) |
