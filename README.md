@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 05:19:45 GMT | Tech and Loneliness: Are We Truly More Connected or Growing More Alone? | Tarush Sharma | [Read More](https://medium.com/p/517300de3cbf) |
+| Mon, 29 Sep 2025 05:15:34 GMT | SeqOps: Proactive Cybersecurity for a Constantly Evolving Digital World | SEQOPS | [Read More](https://medium.com/p/5d3d30e87bfe) |
+| Mon, 29 Sep 2025 05:09:29 GMT | Digital Life, Hidden Dangers di Keseharian Kita | Brian | [Read More](https://medium.com/p/e393eda672a7) |
+| Mon, 29 Sep 2025 05:07:48 GMT | One Dark Web Click That Changed Everything: Why I’ll Never Make That Mistake Again | John Doe | [Read More](https://medium.com/p/7610e650c8f4) |
+| Mon, 29 Sep 2025 05:04:49 GMT | iPhone 17 Pro Camera Test 2025: Night Mode and Zoom Compared | Addison Lee | [Read More](https://medium.com/p/4f8ffda2f4cf) |
+| Mon, 29 Sep 2025 05:01:54 GMT | The Biggest Crypto Hacks in History and What We Learned | Farhad Ali | [Read More](https://medium.com/p/008fd6aa8764) |
+| Mon, 29 Sep 2025 04:55:39 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review 2025 | Jufagax | [Read More](https://medium.com/p/e63d02613735) |
+| Mon, 29 Sep 2025 04:55:23 GMT | CBK Launches Sector-Wide Cybersecurity Centre Amid Rising Attacks | SafetyDetectives Research Team | [Read More](https://medium.com/p/dbee8a991943) |
+| Mon, 29 Sep 2025 04:51:40 GMT | PostgreSQL 17 vs 18: Migration Guide for AI and High-Performance Applications | Rizqi Mulki | [Read More](https://medium.com/p/db8ea8261d67) |
+| Mon, 29 Sep 2025 04:47:57 GMT | Seven Ways Healthcare IT Solutions Improve Patient Care | Eclarity solutions Ltd | [Read More](https://medium.com/p/93dde871f71a) |
+| Mon, 29 Sep 2025 04:46:39 GMT | What’s New in PostgreSQL 18: Security, Performance, and AI Enhancements | Rizqi Mulki | [Read More](https://medium.com/p/48c5f515d65a) |
+| Mon, 29 Sep 2025 04:46:24 GMT | Why OAuth 2.0 Is Being Quietly Replaced (The Security Standard Big Tech Won’t Announce) | Coders Stop | [Read More](https://medium.com/p/0d03048cc405) |
+| Mon, 29 Sep 2025 04:44:42 GMT | The Top Cybersecurity Services Every Business Should Consider | VLink | [Read More](https://medium.com/p/d19c95911525) |
+| Mon, 29 Sep 2025 04:33:16 GMT | Sony Ericsson Xperia Neo vs BlackBerry Evolve: Specs Explained | Ella Walker | [Read More](https://medium.com/p/9efccf0d1c30) |
+| Mon, 29 Sep 2025 04:31:19 GMT | Top 7 Cyber Security Threats in 2025 & How to Prepare” | TMZ Work | [Read More](https://medium.com/p/2afa904304b3) |
+| Mon, 29 Sep 2025 04:30:57 GMT | Why Cybersecurity Will Need More Humans — Not Less — in the Age of AI | Juan Pablo Castro | [Read More](https://medium.com/p/a17c281ca879) |
 | Mon, 29 Sep 2025 04:27:13 GMT | PostgreSQL 18 Released: Revolutionary Asynchronous I/O Subsystem Explained | Rizqi Mulki | [Read More](https://medium.com/p/494b4f4d56f4) |
 | Mon, 29 Sep 2025 04:20:11 GMT | Opened a Can of XWorms | grepStrength | [Read More](https://medium.com/p/33fde9d2aee6) |
 | Mon, 29 Sep 2025 04:16:45 GMT | 7 Cybersecurity Myths That Put You in Danger Every Day | Arfa | [Read More](https://medium.com/p/9af282c3408a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 20:20:00 GMT | {THM}Toolsrus — writeup | Nihat Rashidli | [Read More](https://medium.com/p/ef0f44af1282) |
 | Sun, 28 Sep 2025 19:56:39 GMT | [Holmes CTF 2025]The Watchman’s Residue | ByteSlayer | [Read More](https://medium.com/p/b1f534616c15) |
 | Sun, 28 Sep 2025 19:44:11 GMT | From Airports to Firewalls: What the Latest Cyber Attacks Teach Us in 2025 | Ethivolt | [Read More](https://medium.com/p/20c7fe8c84e1) |
-| Sun, 28 Sep 2025 19:40:57 GMT | The Recon Loop and Beyond: Insights from My Early Bug Hunting Days | LIKITH GAJULA | [Read More](https://medium.com/p/deddabc61322) |
-| Sun, 28 Sep 2025 19:34:25 GMT | Understanding CORS in 5 min and you will never run into this issue again. | Pavan | [Read More](https://medium.com/p/3cfc852c4c74) |
-| Sun, 28 Sep 2025 19:32:57 GMT | HA PANDAVAS — Writeup | Yukina | [Read More](https://medium.com/p/1c3950f23966) |
-| Sun, 28 Sep 2025 19:22:03 GMT | When Encryption Fails: Exploiting API Requests in Practice | KrFTr | [Read More](https://medium.com/p/d5e59eecb6c5) |
-| Sun, 28 Sep 2025 19:16:24 GMT | Modern JavaScript Patterns I Wish I Knew Earlier | Kainat Nafees | [Read More](https://medium.com/p/b79239791b16) |
-| Sun, 28 Sep 2025 19:16:21 GMT | Exploiting Pandoc: How Hackers Target AWS Metadata Using CVE-2025–51591 SSRF Flaw | cybrNK | [Read More](https://medium.com/p/c8493b97a52b) |
-| Sun, 28 Sep 2025 19:09:36 GMT | Kubernetes Is Overkill for 99% of Startups | Saloni | [Read More](https://medium.com/p/c4139e2d0a33) |
-| Sun, 28 Sep 2025 19:08:33 GMT | بسم الله الرحمن الرحيم | Mohamedelsayed | [Read More](https://medium.com/p/c01b8537d85c) |
-| Sun, 28 Sep 2025 19:01:32 GMT | PBO : Polymorphism | Yasa Wijaya | [Read More](https://medium.com/p/406ec700ff3b) |
-| Sun, 28 Sep 2025 19:01:27 GMT | Towards Preventing Container Runescapes | Javcabr | [Read More](https://medium.com/p/9325c8f03e69) |
-| Sun, 28 Sep 2025 19:01:26 GMT | Pentagon’s $1.01T Cyber, Space, & AI Budget | Don (δψ) Tadaya - DaScient - AI | [Read More](https://medium.com/p/37487a15b450) |
-| Sun, 28 Sep 2025 18:54:25 GMT | Late Night, Midnight Thoughts | Sajani Nihara | [Read More](https://medium.com/p/eff563331a19) |
-| Sun, 28 Sep 2025 18:50:05 GMT | Hack The Box — Expressway Walkthrough | Mohamedghareeb | [Read More](https://medium.com/p/58d5570dd7ce) |
-| Sun, 28 Sep 2025 18:44:39 GMT | Passing Python Functions via API for remote validation and execution: A Complete Guide | Suraj Kumar | [Read More](https://medium.com/p/3338ec05cb2d) |
-| Sun, 28 Sep 2025 18:37:02 GMT | Spider Society Walkthrough | Jose Diaz | [Read More](https://medium.com/p/cd5fa1acedcc) |
-| Sun, 28 Sep 2025 18:33:54 GMT | AD Enumeration & Attacks — Skills Assessment Part I | Mkirahmet | [Read More](https://medium.com/p/7b4fd5a76835) |
