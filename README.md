@@ -12,9 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 08:16:20 GMT | Listar subdominios vHosts | Pancho AM | [Read More](https://medium.com/p/db40013a4cab) |
+| Mon, 29 Sep 2025 08:10:21 GMT | Hacking the Department of Homeland Security (Legally). This is my story | D3N14LD15K | [Read More](https://medium.com/p/3c16ef02347f) |
+| Mon, 29 Sep 2025 08:08:41 GMT | Mas Selamat Kastari: Singapore’s Most Notorious Fugitive and the Manhunt That Shook the Nation | Dan Marshall-Singh | [Read More](https://medium.com/p/244693fbee61) |
+| Mon, 29 Sep 2025 08:08:07 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/895047544ad9) |
+| Mon, 29 Sep 2025 08:07:02 GMT | Business Email Compromise In Nigeria | O. J. Okpabi | [Read More](https://medium.com/p/d03b913b3a85) |
+| Mon, 29 Sep 2025 08:05:37 GMT | What is IT Vulnerability Assessment - VA Tools and Best Practices | QualysecEurope | [Read More](https://medium.com/p/b557c18ed09f) |
+| Mon, 29 Sep 2025 08:03:00 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐Earn with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc… | Blackbox | [Read More](https://medium.com/p/caf164551af1) |
+| Mon, 29 Sep 2025 08:02:13 GMT | I Hear Your Smile | Ruqayyah Ali | [Read More](https://medium.com/p/17806088332f) |
+| Mon, 29 Sep 2025 08:02:13 GMT | What HIBP Does vs What Plain-Text Leak Monitoring Adds | Alexandre Vandamme | [Read More](https://medium.com/p/a4d5295bdd71) |
+| Mon, 29 Sep 2025 08:01:49 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/783879fd9014) |
+| Mon, 29 Sep 2025 07:57:29 GMT | Leveling Up My Security Knowledge with Laravel + OWASP | Marian Pirvan | [Read More](https://medium.com/p/01292f0c664a) |
+| Mon, 29 Sep 2025 07:54:47 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/1d175b9afc21) |
+| Mon, 29 Sep 2025 07:48:13 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/1dd6f10119de) |
+| Mon, 29 Sep 2025 07:46:11 GMT | Best Practices for Deploying Kiosk Software Successfully | Vantage MDM | [Read More](https://medium.com/p/abdb16cf1d73) |
+| Mon, 29 Sep 2025 07:44:33 GMT | Web Zafiyetleri Serisi #5 | Didem Kış | [Read More](https://medium.com/p/2f97d449e69a) |
+| Mon, 29 Sep 2025 07:41:20 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/22cdee2ab457) |
+| Mon, 29 Sep 2025 07:35:36 GMT | ประจำวันจันทร์ที่ 29 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/541c7e2a4044) |
+| Mon, 29 Sep 2025 07:34:34 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/f00d41e5cb73) |
 | Mon, 29 Sep 2025 07:33:19 GMT | Building a Cyber Risk Quantification Agent: Part 3 The Future Roadmap | Rishubh | [Read More](https://medium.com/p/4c50e517506c) |
 | Mon, 29 Sep 2025 07:32:30 GMT | Why Saudi Businesses Now Demand 24/7 IT Support in a Competitive Market | Bluechip Advanced Technologies | [Read More](https://medium.com/p/de44dc08f537) |
 | Mon, 29 Sep 2025 07:28:11 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/b07e19a0bed4) |
+| Mon, 29 Sep 2025 07:27:12 GMT | My first PoC — CVE-2025-1550: Arbitrary Code Execution in Keras | Rama Hussein | [Read More](https://medium.com/p/61b75c17c1f6) |
 | Mon, 29 Sep 2025 07:26:53 GMT | Managing Multiple GitHub Accounts with SSH Keys | Sanira Liyanage | [Read More](https://medium.com/p/c64e39d24ebd) |
 | Mon, 29 Sep 2025 07:26:53 GMT | Why Embracing IT is an Important Business Strategy | Matthew A | [Read More](https://medium.com/p/cb4bb61605b5) |
 | Mon, 29 Sep 2025 07:24:37 GMT | Why JavaScript Uses async/await Instead of Just await | Tech With Curly Girl | [Read More](https://medium.com/p/82c1f26127ba) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 02:30:59 GMT | Game Mobile Online: Dari Cuma Main Buat Killing Time Sampai Jadi Lifestyle Anak Zaman Now | Dieorlife | [Read More](https://medium.com/p/03583d2d8641) |
 | Mon, 29 Sep 2025 02:29:35 GMT | GuideM Web Application & System Penetration Test Project | Martin L | [Read More](https://medium.com/p/9a241159eda8) |
 | Mon, 29 Sep 2025 02:29:24 GMT | Proofpoint Protect 2025: Guardian Certifications | Ashley Drey | [Read More](https://medium.com/p/5785827bd057) |
-| Mon, 29 Sep 2025 02:26:57 GMT | ACTIVITY: Installing SNORT IDS | Axel Liang Gono | [Read More](https://medium.com/p/0447f0035483) |
-| Mon, 29 Sep 2025 02:23:14 GMT | Cyber Threat Intelligence: Darkside Ransomware | Lilian  Ugwu | [Read More](https://medium.com/p/ca7f66d501a0) |
-| Mon, 29 Sep 2025 02:23:07 GMT | Chapter 15– Betrayal, Hacking, and Disappearance | Hope | [Read More](https://medium.com/p/7dec4863353a) |
-| Mon, 29 Sep 2025 02:21:14 GMT | Configuring SSL/TLS Certificates for Cloud SQL with a Private IP | Harinderjit Singh | [Read More](https://medium.com/p/18e924ae135d) |
-| Mon, 29 Sep 2025 02:20:34 GMT | Flu - Proving Grounds - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/932250fecc69) |
-| Mon, 29 Sep 2025 02:09:11 GMT | Golden and Silver Ticket Attacks — a practical explainer for defenders | Paritosh | [Read More](https://medium.com/p/48f318f21e42) |
-| Mon, 29 Sep 2025 01:37:32 GMT | Smarter Pentesting: How AI Shapes NucAIScan v1.2 | Onurcan Genç | [Read More](https://medium.com/p/04f7bc19714f) |
-| Mon, 29 Sep 2025 01:32:08 GMT | Evaluating Potential Cybersecurity Threats of Advanced AI | Synbit.7 | [Read More](https://medium.com/p/74d3bdd8ddad) |
-| Mon, 29 Sep 2025 01:31:06 GMT | HackTheBox - Nineveh | jniket | [Read More](https://medium.com/p/efa2db1bc5da) |
-| Mon, 29 Sep 2025 01:29:50 GMT | The “Happy Mask, Sad soul” | 5yzul | [Read More](https://medium.com/p/2d9b07cfc962) |
-| Mon, 29 Sep 2025 01:16:59 GMT | Summary on Theoretical Study on Noise Model Improvements for Privacy Amplification in… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/cef9b076cd1a) |
-| Mon, 29 Sep 2025 01:04:47 GMT | Building a Honeypot in Microsoft Azure: A Hands-On Cloud Security Project | Eugene Radcliff II | [Read More](https://medium.com/p/660110fd2b8f) |
-| Mon, 29 Sep 2025 01:03:13 GMT | Problem Solved inTheoretical Study on Noise Model Improvements for Privacy Amplification in… | Okai Tettey-Antie Samuel ( OTAS ) | [Read More](https://medium.com/p/bf60772886e5) |
-| Mon, 29 Sep 2025 00:59:59 GMT | What is a Network Topology? (Explained Like You’re Five… But Cooler) | Araiz Naqvi | [Read More](https://medium.com/p/bdf023420da4) |
-| Mon, 29 Sep 2025 00:58:32 GMT | Mars In Cancer: Sanctuary or Cage? | Camilla J.A. | [Read More](https://medium.com/p/c0ebbb976059) |
-| Mon, 29 Sep 2025 00:48:38 GMT | What is Monero (XMR)? A Complete Guide to Privacy-Focused Cryptocurrency in 2025 | Daisypto | [Read More](https://medium.com/p/3c8250cf74df) |
-| Mon, 29 Sep 2025 00:45:08 GMT | Deploying an AI Honeypot with Beelzebub + OpenAI: Smarter Traps for Smarter Attackers | SOCFortress | [Read More](https://medium.com/p/d86552d35a9e) |
-| Mon, 29 Sep 2025 00:41:49 GMT | Description of research on Theoretical Study on Noise Model Improvements for Privacy Amplification… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/940bac88036d) |
-| Mon, 29 Sep 2025 00:31:45 GMT | Exploring the Splunk AI Toolkit (f.k.a | Grotti | [Read More](https://medium.com/p/5e1e047f6b99) |
