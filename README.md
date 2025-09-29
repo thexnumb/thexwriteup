@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 06:30:45 GMT | I Can Hack Systems but Couldn’t Write One Article (Until Now) | Abdullah Javeed | [Read More](https://medium.com/p/970354aea206) |
+| Mon, 29 Sep 2025 06:26:49 GMT | AI-Powered Hackers: The Next Big Cybersecurity Threat? | Ann Maria | [Read More](https://medium.com/p/4b904181ab54) |
+| Mon, 29 Sep 2025 06:24:08 GMT | New version of Maester on Azure Web App — Microsoft Security Test Automation Framework | Brian Veldman | [Read More](https://medium.com/p/2178e96db4ee) |
+| Mon, 29 Sep 2025 06:22:30 GMT | Free vs Paid SSL: Key Differences Explained | Smit Pipaliya | [Read More](https://medium.com/p/f9607d07acaa) |
+| Mon, 29 Sep 2025 06:21:20 GMT | My Experience Analyzing a Sophisticated Phishing Campaign Targeting Cryptocurrency Users | Oleksiy Petrychko | [Read More](https://medium.com/p/d005524bd429) |
+| Mon, 29 Sep 2025 06:21:09 GMT | Top 10 Jobs in Ethical Hacking & Cyber Security in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/7b5e53eb1d6a) |
+| Mon, 29 Sep 2025 06:19:42 GMT | The Anatomy of a Cyberattack: From Breach to Recovery | Cyber Security Research | [Read More](https://medium.com/p/8a4b97b0f82f) |
+| Mon, 29 Sep 2025 06:14:19 GMT | Cybersecurity: The Blueprint for a Secure Future | Cyber Security Research | [Read More](https://medium.com/p/fc82f2c6b112) |
+| Mon, 29 Sep 2025 06:13:01 GMT | Part 1 : Security in DevSecOps | Dean | [Read More](https://medium.com/p/af43140f5779) |
+| Mon, 29 Sep 2025 06:08:12 GMT | Decoding Digital Defense: Core Cybersecurity Concepts | Cyber Security Research | [Read More](https://medium.com/p/9d54a6660f79) |
+| Mon, 29 Sep 2025 05:52:42 GMT | KEYNOX: The World’s First On-Chain Wallet Recovery Protocol | Keynox Official | [Read More](https://medium.com/p/930250cb378e) |
+| Mon, 29 Sep 2025 05:51:46 GMT | The RUDY Attack: How a Single Hacker Can Crash Your Site With a Trickle of Data | MrAashish0x1 | [Read More](https://medium.com/p/0e275e18a3cf) |
+| Mon, 29 Sep 2025 05:50:41 GMT | A Game-Changer in Cyber Security! | Dipanshu | [Read More](https://medium.com/p/000e64d4953f) |
+| Mon, 29 Sep 2025 05:42:48 GMT | Watch a DDoS Attack Unfold — Then Learn to Kill It | Antriksh Saini | [Read More](https://medium.com/p/33c8148759d6) |
 | Mon, 29 Sep 2025 05:37:43 GMT | TryHackMe Challenge — ToolsRus | Aniket Pattanshetti | [Read More](https://medium.com/p/923b8db54141) |
 | Mon, 29 Sep 2025 05:34:51 GMT | Why AI Services Might Flop Big | Anirudh | [Read More](https://medium.com/p/697eb860b7db) |
 | Mon, 29 Sep 2025 05:29:03 GMT | Unicode Secrets: Hide and Reveal Text Inside Emojis Using Variation Selectors | Sushanta Neupane | [Read More](https://medium.com/p/a01c01e249cf) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 22:04:12 GMT | How to Secure Your API Keys When Deploying React/Next.js Apps | Benaziza Abdelkader Riyadh | [Read More](https://medium.com/p/006deeab089e) |
 | Sun, 28 Sep 2025 21:54:35 GMT | CISO: Trend Reports Are The Answer to Metrics | Yael Nagler | [Read More](https://medium.com/p/867e2da0ed78) |
 | Sun, 28 Sep 2025 21:32:43 GMT | Vulnerability Management | Beth Cochran | [Read More](https://medium.com/p/862ef4bef7c4) |
-| Sun, 28 Sep 2025 21:25:16 GMT | Villager AI X HexStrike AI (Custom AI Agent Workflow) | Lewis Desmond | [Read More](https://medium.com/p/7550dcd3089b) |
-| Sun, 28 Sep 2025 21:25:02 GMT | Inside the Troll Farm Machine: How Fake Engagement Hijacks the Internet | Internet Exposed | [Read More](https://medium.com/p/8f427cde173f) |
-| Sun, 28 Sep 2025 21:11:59 GMT | When LinkedIn & Gmail Obey Hidden AI Prompts: Lessons in Indirect Prompt Injection | Aditya Bhatt | [Read More](https://medium.com/p/ae692c09592a) |
-| Sun, 28 Sep 2025 21:10:02 GMT | WriteUP TwoMillion HackTheBox | Olivalein | [Read More](https://medium.com/p/52632347f806) |
-| Sun, 28 Sep 2025 21:07:47 GMT | How I Find Bugs Easily With a Clear Methodology | Ibtissam hammadi | [Read More](https://medium.com/p/74c59d68fe93) |
-| Sun, 28 Sep 2025 21:04:58 GMT | Reset Forgotten Password on Kali Linux in VM or Dual Boot | Pranshu Pathak | [Read More](https://medium.com/p/57224d0af448) |
-| Sun, 28 Sep 2025 21:04:31 GMT | Zeek - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/4c2155e8462f) |
-| Sun, 28 Sep 2025 21:00:49 GMT | Evaluating the Theoretical Study on Noise Model Improvements for Privacy Amplification in… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/df4354c36ee4) |
-| Sun, 28 Sep 2025 20:58:55 GMT | Jak kalifornijska kancelaria wdrożyła AI dzięki poufnym obliczeniom Phala — bez utraty zaufania… | Phala Network PL | [Read More](https://medium.com/p/705bce95910a) |
-| Sun, 28 Sep 2025 20:52:17 GMT | How I Built My First Reddit Bot as a Beginner | Pranshu Pathak | [Read More](https://medium.com/p/935d798188a0) |
-| Sun, 28 Sep 2025 20:47:19 GMT | Como deixar seu APP Android mais seguro…? | Williaan Souza | [Read More](https://medium.com/p/f205a2610a36) |
-| Sun, 28 Sep 2025 20:46:08 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/af84ced33a37) |
-| Sun, 28 Sep 2025 20:39:00 GMT | Logların İzinde: APT Günlükleri — 1 | Ali Ekber KARA | [Read More](https://medium.com/p/7a4c7115139a) |
-| Sun, 28 Sep 2025 20:38:49 GMT | The Linux Process Journey — wpa_cli (Wi-Fi Protected Access Command Line Client) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/931dc8b28ffb) |
