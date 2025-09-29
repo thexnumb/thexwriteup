@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 09:37:52 GMT | AWS IAM Secrets Engineers Only Learn On-Call at 3AM | Ismail Kovvuru | [Read More](https://medium.com/p/3b7b85030188) |
+| Mon, 29 Sep 2025 09:30:26 GMT | The Human Firewall: Training Employees for Cyber Awareness | Cyber Security Research | [Read More](https://medium.com/p/c115819c3e75) |
+| Mon, 29 Sep 2025 09:26:45 GMT | N8N is Awesome…! - Mejbankadir - Ethical Hacker and Tech Enthusiast | Mejbankadir | [Read More](https://medium.com/p/bcd76c8ad9dd) |
+| Mon, 29 Sep 2025 09:24:42 GMT | Understanding CSRF Step by Step: From Exploitation to Prevention | Mazen Elsayed | [Read More](https://medium.com/p/28e73e3f74e4) |
 | Mon, 29 Sep 2025 09:21:38 GMT | How Networks Work- Beginner’s Guide | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/7aa63dd7850e) |
 | Mon, 29 Sep 2025 09:15:37 GMT | Week 8 of My 90-Day Challenge: A Hot Lead and the BSCP Exam is Set | Mike (sl0th0x87) | [Read More](https://medium.com/p/05975728bf2a) |
 | Mon, 29 Sep 2025 09:14:27 GMT | How email authentication requirements are changing business communications in 2025 | Red Sift | [Read More](https://medium.com/p/43b0951f2854) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 04:13:27 GMT | The Day I Almost Got Phished And How It Changed My Security Forever | Arfa | [Read More](https://medium.com/p/117ced0d81af) |
 | Mon, 29 Sep 2025 04:12:45 GMT | Token Trouble: How Leaked JWTs Let Me Become Everyone on the Internet | Iski | [Read More](https://medium.com/p/cb02acde43f2) |
 | Mon, 29 Sep 2025 04:10:47 GMT | Oktane 2025: Where Identity Becomes the Operating System for AI | Siva Desetti | [Read More](https://medium.com/p/65ce63682463) |
-| Mon, 29 Sep 2025 03:56:21 GMT | Authentication bypass via sequential user IDs in Microsoft SSO integration - Critical Vulnerability | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/d5f498ccdae7) |
-| Mon, 29 Sep 2025 03:54:20 GMT | CIOs Under Pressure in 2026: The 5 Strategic Fronts to Master | Eddy AZEBAZE | [Read More](https://medium.com/p/4ffca3920bf2) |
-| Mon, 29 Sep 2025 03:32:11 GMT | AI in the SOC: How Machine Learning Transforms Threat Detection | Amrik  Hanjra | [Read More](https://medium.com/p/5f4dd25ad972) |
-| Mon, 29 Sep 2025 03:31:49 GMT | Intel’s Internal Websites Exploited: What the “Intel Outside” Breach Means for Security | Deven Chhajed | [Read More](https://medium.com/p/9e25a9eb23c2) |
