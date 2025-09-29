@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 16:32:11 GMT | Stop Using Weak or Reused Passwords: A Hacker’s Favorite Shortcut | Ehsanm135 | [Read More](https://medium.com/p/c97d7e7ae05a) |
+| Mon, 29 Sep 2025 16:30:08 GMT | The Operator’s Mindset: The Unwritten Rules for Joining the Top 1% in Cybersecurity | Abhijith Soman | [Read More](https://medium.com/p/19bec72feb0e) |
+| Mon, 29 Sep 2025 16:27:17 GMT | Best Laptop for Ethical Hacking | Yousuf | [Read More](https://medium.com/p/dd79d80a3266) |
+| Mon, 29 Sep 2025 16:22:15 GMT | Harrods Suffers Data Breach, 430,000 Customer Records Exposed | valasala suhas | [Read More](https://medium.com/p/d69dca26f503) |
+| Mon, 29 Sep 2025 16:20:46 GMT | Listing subdomains vHosts | Pancho AM | [Read More](https://medium.com/p/75c9de819933) |
+| Mon, 29 Sep 2025 16:20:06 GMT | Returning to Life | Patrick Prescott | [Read More](https://medium.com/p/b49a091b5a25) |
+| Mon, 29 Sep 2025 16:19:33 GMT | Multifirma de Safe llega a Units.Network para una mayor protección de activos | WAVES LATAM | [Read More](https://medium.com/p/1038208ab27c) |
+| Mon, 29 Sep 2025 16:17:55 GMT | The DDoS Tsunami: Why 2025’s Cyberattacks Are Bigger, Smarter, and Targeting You | Aj | [Read More](https://medium.com/p/852520020f8c) |
+| Mon, 29 Sep 2025 16:13:42 GMT | Cisco ASA Firewalls Targeted by Zero-Day Exploits in Active Campaign | valasala suhas | [Read More](https://medium.com/p/af404117e358) |
 | Mon, 29 Sep 2025 16:08:11 GMT | The Call No School Wants to Make: Why Emergency Response Fails Before It Starts | Tec-Tel Communications | [Read More](https://medium.com/p/8d471359ed72) |
 | Mon, 29 Sep 2025 16:05:56 GMT | Current Authentication Practices: PCI SSC 2025 Guidance Overview | Viktor Davydych | [Read More](https://medium.com/p/dff51789b14e) |
 | Mon, 29 Sep 2025 16:02:16 GMT | New TechQuantus Free Web Tools — Simple, Fast & Browser-Based | Eduardo Milhomem | [Read More](https://medium.com/p/c4337126cebc) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 12:07:31 GMT | Bandit - Level 0 - OverTheWire-Writeup … | Deepika  B | [Read More](https://medium.com/p/72e649f64bd9) |
 | Mon, 29 Sep 2025 11:59:57 GMT | Blockchain for Business Security: Optimize Transactions | Ujjwal  Kumar Heroxhost | [Read More](https://medium.com/p/515c95232341) |
 | Mon, 29 Sep 2025 11:54:10 GMT | Threat Hunting with CTI Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/bac6b76d5008) |
-| Mon, 29 Sep 2025 11:51:44 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/eb1662daea2a) |
-| Mon, 29 Sep 2025 11:49:06 GMT | Tools for Penetration Testing | Genrunic | [Read More](https://medium.com/p/4f06fb343116) |
-| Mon, 29 Sep 2025 11:45:12 GMT | How Application Security Auditing Protects Your Business from Hidden Threats | SmartCLOUD Australia | [Read More](https://medium.com/p/44493214db7f) |
-| Mon, 29 Sep 2025 11:44:30 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/81e439da3727) |
-| Mon, 29 Sep 2025 11:42:36 GMT | Approximation in Facility Location for Hospitals – Towards Smarter Healthcare Access
-Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) |
-| Mon, 29 Sep 2025 11:37:00 GMT | TryHackMe #67 - Diamond Model | 0xGroot | [Read More](https://medium.com/p/faa01384fafe) |
-| Mon, 29 Sep 2025 11:35:45 GMT | CompTIA Security+ Training Course: Step Into Cybersecurity Success | Manish | [Read More](https://medium.com/p/c6569245aefc) |
-| Mon, 29 Sep 2025 11:31:51 GMT | TryHackMe #66 - Unified Kill Chain | 0xGroot | [Read More](https://medium.com/p/83576363b740) |
-| Mon, 29 Sep 2025 11:31:50 GMT | I let AI handle my project — But Did It Make My Computer Science Degree Useless? | Ameya Shanbhag | [Read More](https://medium.com/p/12a84bd3cc6e) |
