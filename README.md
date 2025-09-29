@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 17:11:50 GMT | Integrating Benchmarks and Reality: A Synthesis of Google Research and B. | Berend Watchus | [Read More](https://medium.com/p/9bb95b4006a5) |
+| Mon, 29 Sep 2025 17:10:32 GMT | AI Security Survey Papers — 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a4413453855a) |
+| Mon, 29 Sep 2025 17:08:45 GMT | My Hackviser Warmup Journey: 4 Labs That Kickstarted My Penetration Testing Skills | Muse Abdulrahmon | [Read More](https://medium.com/p/516bd6ca7652) |
+| Mon, 29 Sep 2025 17:08:34 GMT | Inside Germany’s Ransomware Struggle: Lessons from Real Incidents | Cordula Boeck | [Read More](https://medium.com/p/4c05d9536510) |
+| Mon, 29 Sep 2025 17:05:00 GMT | AI vs Back-end Developers | Jitesh Bansal | [Read More](https://medium.com/p/ffdbee535faf) |
+| Mon, 29 Sep 2025 17:02:53 GMT | LocalBizAI xBundle information | SHAHUL HAMEED | [Read More](https://medium.com/p/cf1aec520d73) |
+| Mon, 29 Sep 2025 17:02:52 GMT | Top 11 cyber stories (Week: Sept 22–28, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/0260ebdd35c8) |
+| Mon, 29 Sep 2025 17:02:33 GMT | Shift-Left Security: Why It Matters? | Prasad Wani | [Read More](https://medium.com/p/199351c5f0bb) |
+| Mon, 29 Sep 2025 16:55:20 GMT | Rainbow Secure: Protecting Businesses Even When Credentials Are Exposed on the Dark Web | Dr. Shashi Karhail | [Read More](https://medium.com/p/35fd7047dfde) |
+| Mon, 29 Sep 2025 16:52:14 GMT | Why Melbourne Businesses Can’t Afford to Ignore Cybersecurity in 2025 | ITAdOn IT Solutions | [Read More](https://medium.com/p/b4dfd6d0ddd4) |
+| Mon, 29 Sep 2025 16:50:31 GMT | 5 Reasons to Regularly Review Your IT Outsourcing Partner | Evgeny Ermakov | [Read More](https://medium.com/p/f707cd26fff8) |
+| Mon, 29 Sep 2025 16:42:29 GMT | SEC Chair Atkins Vows Action on Crypto Conflicts | Catenaa | [Read More](https://medium.com/p/5d47187b35a4) |
+| Mon, 29 Sep 2025 16:40:22 GMT | Laravel 12.30 Just Changed Middleware Forever — Here’s How | Sadique Ali | [Read More](https://medium.com/p/c1b1405ebb41) |
 | Mon, 29 Sep 2025 16:32:11 GMT | Stop Using Weak or Reused Passwords: A Hacker’s Favorite Shortcut | Ehsanm135 | [Read More](https://medium.com/p/c97d7e7ae05a) |
 | Mon, 29 Sep 2025 16:30:08 GMT | The Operator’s Mindset: The Unwritten Rules for Joining the Top 1% in Cybersecurity | Abhijith Soman | [Read More](https://medium.com/p/19bec72feb0e) |
 | Mon, 29 Sep 2025 16:27:17 GMT | Best Laptop for Ethical Hacking | Yousuf | [Read More](https://medium.com/p/dd79d80a3266) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 12:56:13 GMT | Quick Commerce App: How it’s Redefining Retail & What It Means for Your Business | Gauri Pandey | [Read More](https://medium.com/p/d4fea74350d6) |
 | Mon, 29 Sep 2025 12:44:37 GMT | Python Scripts I Use to Automate My Life (That No One Talks About) | Fateyaly | [Read More](https://medium.com/p/bc97656227aa) |
 | Mon, 29 Sep 2025 12:38:13 GMT | What Does a Cyber Essentials Consultant Do? A UK Small Business Owner’s Guide | Paul Reynolds | [Read More](https://medium.com/p/26b7759bed26) |
-| Mon, 29 Sep 2025 12:37:14 GMT | Lab 1 — SQL Injection in WHERE Clause: How OR 1=1 — Exposes Hidden Products | Apexium Technologies Ltd | [Read More](https://medium.com/p/8d1d9828b7e5) |
-| Mon, 29 Sep 2025 12:36:44 GMT | Burp Suite Pro Installation & Setup Guide on Kali Linux | Apexium Technologies Ltd | [Read More](https://medium.com/p/a6793d16833d) |
-| Mon, 29 Sep 2025 12:33:15 GMT | IndiaAI Mission: How is It Accelerating AI Research with GPUs? | Ishantechnologies | [Read More](https://medium.com/p/e8a684e54220) |
-| Mon, 29 Sep 2025 12:30:24 GMT | Bandit - Level 0 → 1 - OverTheWire | Deepika  B | [Read More](https://medium.com/p/75b036afb30b) |
-| Mon, 29 Sep 2025 12:30:04 GMT | ASHR: Revolutionary Self-Healing Networks for the Next Generation | Aamir Hameed | [Read More](https://medium.com/p/a58d9382fcb3) |
-| Mon, 29 Sep 2025 12:27:00 GMT | Master Prompt Injection — The One Skill Every Modern Hacker & Defender Should Know | Beri Contraster | [Read More](https://medium.com/p/7016d9bc11b1) |
-| Mon, 29 Sep 2025 12:23:18 GMT | Interview: Inside the Mind of a Fake Bank Scammer | Internet Exposed | [Read More](https://medium.com/p/f5b99f754ec5) |
-| Mon, 29 Sep 2025 12:20:28 GMT | How I Secured Our School Network with a Sophos XGS 3100 Firewall | Root | [Read More](https://medium.com/p/fbdd52dd5b81) |
-| Mon, 29 Sep 2025 12:14:06 GMT | The Future of Identity Verification | CFE CERTIFICATION | [Read More](https://medium.com/p/ad07bc366d68) |
-| Mon, 29 Sep 2025 12:12:38 GMT | Rightsizing AWS Resources: From Manual to AI-Powered Optimization | Rizqi Mulki | [Read More](https://medium.com/p/731fe71aaa0d) |
-| Mon, 29 Sep 2025 12:07:31 GMT | Bandit - Level 0 - OverTheWire-Writeup … | Deepika  B | [Read More](https://medium.com/p/72e649f64bd9) |
-| Mon, 29 Sep 2025 11:59:57 GMT | Blockchain for Business Security: Optimize Transactions | Ujjwal  Kumar Heroxhost | [Read More](https://medium.com/p/515c95232341) |
-| Mon, 29 Sep 2025 11:54:10 GMT | Threat Hunting with CTI Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/bac6b76d5008) |
