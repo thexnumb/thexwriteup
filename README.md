@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 23:29:29 GMT | Beyond Naïve Filters: Chaining Guardrails for LLM Prompt Injection | Pratip Dasgupta | [Read More](https://medium.com/p/e1df702a27ca) |
+| Mon, 29 Sep 2025 23:22:18 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/3334741d2db7) |
+| Mon, 29 Sep 2025 23:17:27 GMT | Quantum-Ready Security: Why Your Passwords Need Post-Quantum Protection Today | Bervice | [Read More](https://medium.com/p/d42ac38a500d) |
+| Mon, 29 Sep 2025 23:13:01 GMT | Cloudflare Blocks Largest-Ever DDoS Attack at 7.3 Tbps | Raviteja Mureboina | [Read More](https://medium.com/p/7675fdfb8531) |
 | Mon, 29 Sep 2025 23:00:26 GMT | Building an AI-Powered WAF: When Machine Learning Meets Web Security | Yevhenii Zhuk | [Read More](https://medium.com/p/d3038f591b58) |
 | Mon, 29 Sep 2025 22:56:39 GMT | Epidemics we cannot see | Progsky | [Read More](https://medium.com/p/3f17d3dc4602) |
 | Mon, 29 Sep 2025 22:52:50 GMT | The Future of Finance: Why Speed, Transparency, and Security Define Survival | EHMPE RHOR | [Read More](https://medium.com/p/77195f07c231) |
@@ -109,7 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 16:02:15 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools-Part 3 | Robert Onyango | [Read More](https://medium.com/p/9e96e033fc59) |
 | Mon, 29 Sep 2025 16:01:55 GMT | How SentryPC Helps Schools Monitor Student Devices and Improve School Security | Paul Meyer | [Read More](https://medium.com/p/777ae296268c) |
 | Mon, 29 Sep 2025 15:59:52 GMT | Indian Army Terrier Cyber Quest 2025 - INDIAN ARMY CTF Conducted by CyberPeace Foundation x Indian… | Naveen Kumar | [Read More](https://medium.com/p/f2b17766c6c9) |
-| Mon, 29 Sep 2025 15:50:32 GMT | HTTP Methods and Their Importance in Security | Prathiush Jayaprakash | [Read More](https://medium.com/p/308782660651) |
-| Mon, 29 Sep 2025 15:47:20 GMT | APPROXIMATE COMPUTING | Sıla Pekşen | [Read More](https://medium.com/p/c92f53e8c391) |
-| Mon, 29 Sep 2025 15:42:12 GMT | Ataques DDoS: el blackout digital que puede tumbar tu negocio en segundos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/23b856c297dd) |
-| Mon, 29 Sep 2025 15:38:45 GMT | Offensive Security After the Price Collapse | Daniel Knight | [Read More](https://medium.com/p/e0ea00ba009b) |
