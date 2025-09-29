@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 18:41:16 GMT | The Designer’s Role in Cybersecurity | Djagileva Maria | [Read More](https://medium.com/p/48f2e09d133f) |
+| Mon, 29 Sep 2025 18:37:53 GMT | The Importance of Regular Software Updates and Patch Management | Bhushan | [Read More](https://medium.com/p/71357fe83962) |
+| Mon, 29 Sep 2025 18:32:30 GMT | Phone Scams Exposed: How Criminals Trick You and How to Stay Safe | SafeAeon Inc. | [Read More](https://medium.com/p/79e5d2635c19) |
 | Mon, 29 Sep 2025 18:27:47 GMT | Office 365 Email Encryption: Keeping Business Communication Secure | SafeAeon Inc. | [Read More](https://medium.com/p/466e22f24d90) |
 | Mon, 29 Sep 2025 18:24:08 GMT | Top 10 Most DEADLY Kali Linux Commands (Beginners BEWARE!) | Shahzaib | [Read More](https://medium.com/p/e4c572970d28) |
 | Mon, 29 Sep 2025 18:23:35 GMT | La Ruleta - Script en Bash (ruleta.sh) | FN8 | [Read More](https://medium.com/p/c0a72d5ac13f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 13:37:50 GMT | Why Reliable CCTV Monitoring Is a Must for Every Business | Jane Tang | [Read More](https://medium.com/p/6a31e4dc59a2) |
 | Mon, 29 Sep 2025 13:35:15 GMT | The Bravery of Loving Again After Heartbreak | mari | [Read More](https://medium.com/p/db7428ff6358) |
 | Mon, 29 Sep 2025 13:32:09 GMT | P.O.O — Part 5: p00ned | XOR-Hacks | [Read More](https://medium.com/p/76baba2226e9) |
-| Mon, 29 Sep 2025 13:28:35 GMT | How AI Will Redefine Your Daily Workflow by 2030 | The Nexus Project | [Read More](https://medium.com/p/8ded38aa7a87) |
-| Mon, 29 Sep 2025 13:28:16 GMT | Google AI Studio | Balki Maharaj | [Read More](https://medium.com/p/4373b5aaab77) |
-| Mon, 29 Sep 2025 13:27:41 GMT | HackTheBox — Expressway (Easy) — Complete step-by-step walkthrough (no flag spoilers) | Ahmed Nosir | [Read More](https://medium.com/p/5bed892fc573) |
