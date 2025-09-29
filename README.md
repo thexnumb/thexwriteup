@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 17:17:54 GMT | Wazuh–Graylog Architecture: Normalizing & Enriching Security Logs ️ | Arfan Abid | [Read More](https://medium.com/p/fe2348e916e8) |
 | Mon, 29 Sep 2025 17:11:50 GMT | Integrating Benchmarks and Reality: A Synthesis of Google Research and B. | Berend Watchus | [Read More](https://medium.com/p/9bb95b4006a5) |
 | Mon, 29 Sep 2025 17:10:32 GMT | AI Security Survey Papers — 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a4413453855a) |
 | Mon, 29 Sep 2025 17:08:45 GMT | My Hackviser Warmup Journey: 4 Labs That Kickstarted My Penetration Testing Skills | Muse Abdulrahmon | [Read More](https://medium.com/p/516bd6ca7652) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 13:00:36 GMT | Strong Passwords Are Dead. What You Should Be Using Instead | Abdullateef Hameed | [Read More](https://medium.com/p/2d12453d90ae) |
 | Mon, 29 Sep 2025 12:56:13 GMT | Quick Commerce App: How it’s Redefining Retail & What It Means for Your Business | Gauri Pandey | [Read More](https://medium.com/p/d4fea74350d6) |
 | Mon, 29 Sep 2025 12:44:37 GMT | Python Scripts I Use to Automate My Life (That No One Talks About) | Fateyaly | [Read More](https://medium.com/p/bc97656227aa) |
-| Mon, 29 Sep 2025 12:38:13 GMT | What Does a Cyber Essentials Consultant Do? A UK Small Business Owner’s Guide | Paul Reynolds | [Read More](https://medium.com/p/26b7759bed26) |
