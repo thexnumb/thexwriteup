@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 21:26:44 GMT | How Hotel Transylvania Explains Microsoft Entra ID and OAuth: A Beginner’s Guide to Authentication | Raghuveer M | [Read More](https://medium.com/p/dd5b43309d35) |
+| Mon, 29 Sep 2025 21:22:15 GMT | Cyber Security Consulting, Cyber Security Services, and Incident Response Services by CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/657f56c29b3f) |
 | Mon, 29 Sep 2025 21:09:46 GMT | Do Men Deserve Flowers Too? | Ofentse Percy Mohloke | [Read More](https://medium.com/p/e369c9a0133e) |
+| Mon, 29 Sep 2025 21:05:08 GMT | I Have Lost My Cryptocurrency; How Can I Retrieve It? Reach Out To Ghost Mystery Recovery Hacker | Sophia Johnson | [Read More](https://medium.com/p/4d6acf332381) |
 | Mon, 29 Sep 2025 21:01:05 GMT | PG Practice — Hutch (Windows) | Lepton | [Read More](https://medium.com/p/a3e1135dc48c) |
 | Mon, 29 Sep 2025 20:59:17 GMT | Setting up a home Web server for pentesting | Kelvin TC Law | [Read More](https://medium.com/p/eee8883abab1) |
 | Mon, 29 Sep 2025 20:59:11 GMT | All You Need to Know to Create a Strong Password | Seth McNew | [Read More](https://medium.com/p/3afc169ca7a4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 15:09:34 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 2 | Robert Broeckelmann | [Read More](https://medium.com/p/40bafcadfc0f) |
 | Mon, 29 Sep 2025 15:08:19 GMT | Network Security Essentials Walkthrough: TryHackMe Room Explained | Visir | [Read More](https://medium.com/p/9762002e821a) |
 | Mon, 29 Sep 2025 15:03:22 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 1 | Robert Broeckelmann | [Read More](https://medium.com/p/a5515d7af589) |
-| Mon, 29 Sep 2025 14:59:56 GMT | When AI Turns Adversary: The Dark Side of Artificial Intelligence in Cybersecurity | Varun Raj | [Read More](https://medium.com/p/195bbdf6f507) |
-| Mon, 29 Sep 2025 14:58:35 GMT | Joining Computers to Active Directory | James Rawlings | [Read More](https://medium.com/p/5b050b8e11f4) |
-| Mon, 29 Sep 2025 14:57:52 GMT | 02- Kali Linux | SDNTechForum | [Read More](https://medium.com/p/bc5a62ce4057) |
