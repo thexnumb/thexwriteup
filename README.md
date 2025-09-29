@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 09:21:38 GMT | How Networks Work- Beginner’s Guide | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/7aa63dd7850e) |
+| Mon, 29 Sep 2025 09:15:37 GMT | Week 8 of My 90-Day Challenge: A Hot Lead and the BSCP Exam is Set | Mike (sl0th0x87) | [Read More](https://medium.com/p/05975728bf2a) |
+| Mon, 29 Sep 2025 09:14:27 GMT | How email authentication requirements are changing business communications in 2025 | Red Sift | [Read More](https://medium.com/p/43b0951f2854) |
+| Mon, 29 Sep 2025 09:12:02 GMT | Squid Walkthrough — Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/49d9eb05c0f3) |
+| Mon, 29 Sep 2025 09:11:51 GMT | Advanced Web Security in 2025: Protecting Modern Web Applications with Zero Trust and Beyond | Ena Modern Coder | [Read More](https://medium.com/p/26cb96361b5b) |
+| Mon, 29 Sep 2025 09:11:00 GMT | How I Beat Gandalf: Complete Solution Walkthrough | Prateek Ranjan | [Read More](https://medium.com/p/252c57f4a21d) |
+| Mon, 29 Sep 2025 09:08:55 GMT | The Future of Cybersecurity Jobs: What Will Change in 2030? | Ann Maria | [Read More](https://medium.com/p/b69fce21baf3) |
+| Mon, 29 Sep 2025 09:07:55 GMT | Training Staff in Proper Chain of Custody Procedures | Sofiamcmahon | [Read More](https://medium.com/p/87fcfba17e6f) |
+| Mon, 29 Sep 2025 09:06:37 GMT | Security Bag Designs Compared: Roll vs. Individual Bags | Sofiamcmahon | [Read More](https://medium.com/p/abd6f2211e45) |
+| Mon, 29 Sep 2025 09:01:02 GMT | Secrets to Protecting Your Website Against SEO Poisoning | Anh Trần Tuấn | [Read More](https://medium.com/p/402c899574da) |
+| Mon, 29 Sep 2025 09:01:00 GMT | Secrets to Protecting Your Website Against SEO Poisoning | Anh Trần Tuấn | [Read More](https://medium.com/p/9ea57f574c1c) |
+| Mon, 29 Sep 2025 08:57:01 GMT | Protect your data with IBN Technologies..Read More.. | Sameer P. | [Read More](https://medium.com/p/84c4c99aa40c) |
+| Mon, 29 Sep 2025 08:46:38 GMT | From Vision to Reality: The Journey of Hello Future Technologies | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/c390b04a0900) |
+| Mon, 29 Sep 2025 08:41:49 GMT | Micro‑MCP Security: Designing Least‑Privilege Context for LLMs | Malik Abualzait | [Read More](https://medium.com/p/e23070152edd) |
+| Mon, 29 Sep 2025 08:32:37 GMT | When AI Creates Security Theater: How a Coding Assistant Turned a Minor Bug into a “Critical… | Shayell Aha | [Read More](https://medium.com/p/0e92d729f45f) |
+| Mon, 29 Sep 2025 08:32:05 GMT | Breaking Down Security Silos: The Interconnected Security Lifecycle | Elijah Winter | [Read More](https://medium.com/p/c4c7bf19c405) |
+| Mon, 29 Sep 2025 08:30:57 GMT | WebSocket Security: Run wss:// Locally and Harden It Fast | Scaibu | [Read More](https://medium.com/p/36b9bcf1bdde) |
 | Mon, 29 Sep 2025 08:16:20 GMT | Listar subdominios vHosts | Pancho AM | [Read More](https://medium.com/p/db40013a4cab) |
 | Mon, 29 Sep 2025 08:10:21 GMT | Hacking the Department of Homeland Security (Legally). This is my story | D3N14LD15K | [Read More](https://medium.com/p/3c16ef02347f) |
 | Mon, 29 Sep 2025 08:08:41 GMT | Mas Selamat Kastari: Singapore’s Most Notorious Fugitive and the Manhunt That Shook the Nation | Dan Marshall-Singh | [Read More](https://medium.com/p/244693fbee61) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 03:54:20 GMT | CIOs Under Pressure in 2026: The 5 Strategic Fronts to Master | Eddy AZEBAZE | [Read More](https://medium.com/p/4ffca3920bf2) |
 | Mon, 29 Sep 2025 03:32:11 GMT | AI in the SOC: How Machine Learning Transforms Threat Detection | Amrik  Hanjra | [Read More](https://medium.com/p/5f4dd25ad972) |
 | Mon, 29 Sep 2025 03:31:49 GMT | Intel’s Internal Websites Exploited: What the “Intel Outside” Breach Means for Security | Deven Chhajed | [Read More](https://medium.com/p/9e25a9eb23c2) |
-| Mon, 29 Sep 2025 03:28:49 GMT | RST TI Report Digest: 29 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/319e2e1feb15) |
-| Mon, 29 Sep 2025 03:27:10 GMT | Transform Your Home with Smart Gadgets: Security, Kitchen & Decor Solutions 2025 | Leandro | [Read More](https://medium.com/p/2f8769f39c41) |
-| Mon, 29 Sep 2025 03:26:19 GMT | DSI sous pression en 2026 : les 5 fronts stratégiques à maîtriser | Eddy AZEBAZE | [Read More](https://medium.com/p/9f1af5b5979a) |
-| Mon, 29 Sep 2025 03:22:10 GMT | Web-Challenge CTF HTB,why parse_url() with curl is dangerous?,php | seks99x | [Read More](https://medium.com/p/0dd691b9de46) |
-| Mon, 29 Sep 2025 03:21:49 GMT | Write-up PicoCTF: Web Exploitation ‘Bookmarklet’ | Muhammad Khairin | [Read More](https://medium.com/p/7dab451f547a) |
-| Mon, 29 Sep 2025 03:13:41 GMT | Why OEMs Must Design “Security Trust as a Service (STaaS) | Dr. Deep Pandey | [Read More](https://medium.com/p/26aa56035944) |
-| Mon, 29 Sep 2025 03:01:55 GMT | 5 Types of Authentication Tokens Every Beginner Should Know | Donie Sweeton | [Read More](https://medium.com/p/5073ca9b2319) |
-| Mon, 29 Sep 2025 03:01:50 GMT | WHAT I LEARNT ON NETWORKING | John Mark | [Read More](https://medium.com/p/cff43d384c45) |
-| Mon, 29 Sep 2025 02:47:25 GMT | Demystifying Windows Domain Authentication: A Journey Through Kerberos and NetNTLM | Sumit Sah | [Read More](https://medium.com/p/8e6b034abb7b) |
-| Mon, 29 Sep 2025 02:46:55 GMT | When Giants Move: What IBM’s AI Partnership Means for Your Small Business | Natasha | [Read More](https://medium.com/p/b1d7606862e7) |
-| Mon, 29 Sep 2025 02:42:48 GMT | Hackers Love Short Passwords. Stop Making Them Happy. | Fechi Iroegbu | [Read More](https://medium.com/p/faadfd92d766) |
-| Mon, 29 Sep 2025 02:38:36 GMT | What I’ve Learned From The ISC2’s Webinar Entitled: “How Ransomware, APIs, and AI are Rewriting the… | Martin L | [Read More](https://medium.com/p/fbd1e23bf76e) |
-| Mon, 29 Sep 2025 02:35:43 GMT | The Imperative of Cyber Coalitions: Why Major Powers Cannot Afford Strategic Complacency | CCD-IS | [Read More](https://medium.com/p/75334c003312) |
-| Mon, 29 Sep 2025 02:35:28 GMT | Dancing with Python’s Oddities: My Journey into Strange Projects and Quirky Behaviors | Kainat Nafees | [Read More](https://medium.com/p/f2a833e6aed2) |
-| Mon, 29 Sep 2025 02:30:59 GMT | Game Mobile Online: Dari Cuma Main Buat Killing Time Sampai Jadi Lifestyle Anak Zaman Now | Dieorlife | [Read More](https://medium.com/p/03583d2d8641) |
-| Mon, 29 Sep 2025 02:29:35 GMT | GuideM Web Application & System Penetration Test Project | Martin L | [Read More](https://medium.com/p/9a241159eda8) |
-| Mon, 29 Sep 2025 02:29:24 GMT | Proofpoint Protect 2025: Guardian Certifications | Ashley Drey | [Read More](https://medium.com/p/5785827bd057) |
