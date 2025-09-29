@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 14:37:29 GMT | Strengthening Business Resilience Through Modern Security and Compliance Solutions | Defend My Business | [Read More](https://medium.com/p/a6317ae25a70) |
+| Mon, 29 Sep 2025 14:33:06 GMT | Interpol’s Operation HAECHI VI: Cybercrime Crackdown Freezes 68,000 Bank Accounts | TheReviewHive | [Read More](https://medium.com/p/4cde7b1d483e) |
+| Mon, 29 Sep 2025 14:31:32 GMT | Privilege Escalation 101 | Zaatil Asmawi | [Read More](https://medium.com/p/cf221314e5b7) |
+| Mon, 29 Sep 2025 14:31:29 GMT | Tek Bir Siber Saldırı Dev Bir Otomotiv Devi’ni Nasıl Dize Getirdi? | Oya Paktas | [Read More](https://medium.com/p/c46e405aa47a) |
+| Mon, 29 Sep 2025 14:27:52 GMT | How to Build a Bulletproof JWT Auth System in .NET: A Step-by-Step Guide | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/9716debc9871) |
+| Mon, 29 Sep 2025 14:27:20 GMT | Securing My Digital World While Traveling In Houston | Solene Vu | [Read More](https://medium.com/p/b21654a979b8) |
+| Mon, 29 Sep 2025 14:24:50 GMT | Day 25: Cron Jobs → The Backbone of Task Scheduling | Prutha_Dongre | [Read More](https://medium.com/p/7bd54b4a33d0) |
+| Mon, 29 Sep 2025 14:22:06 GMT | Installing Active Directory Domain Services (AD DS) and DNS | James Rawlings | [Read More](https://medium.com/p/69a8fc11a26d) |
+| Mon, 29 Sep 2025 14:15:33 GMT | ISO 27001:2022 and AI Governance: A Practical Guide for IT Procurement | Aaron Rusz | [Read More](https://medium.com/p/c9964950b210) |
+| Mon, 29 Sep 2025 14:12:14 GMT | Updated Collection of Vulnerability Management Resources | Balki Maharaj | [Read More](https://medium.com/p/a1ee8dcff2a0) |
+| Mon, 29 Sep 2025 14:11:51 GMT | Incident Response in ICS: Unique Challenges in a Factory Cyber Emergency | Cyberkech | [Read More](https://medium.com/p/041d19d86be5) |
 | Mon, 29 Sep 2025 14:09:05 GMT | when we become kinder to ourselves, we can become kinder to the world. | TheBoyWhoCriedWolf | [Read More](https://medium.com/p/2b06ff96d8b2) |
 | Mon, 29 Sep 2025 14:08:55 GMT | Chain of Fault in AI Systems: A Comprehensive Security Analysis | Marshalpmathew | [Read More](https://medium.com/p/fa3e7a88c24c) |
 | Mon, 29 Sep 2025 14:05:07 GMT | Uncovering Secrets with Autopsy: A Guide to TryHackMe’s Disk Analysis Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef94f36e4d87) |
@@ -28,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 13:35:15 GMT | The Bravery of Loving Again After Heartbreak | mari | [Read More](https://medium.com/p/db7428ff6358) |
 | Mon, 29 Sep 2025 13:32:09 GMT | P.O.O — Part 5: p00ned | XOR-Hacks | [Read More](https://medium.com/p/76baba2226e9) |
 | Mon, 29 Sep 2025 13:28:35 GMT | How AI Will Redefine Your Daily Workflow by 2030 | The Nexus Project | [Read More](https://medium.com/p/8ded38aa7a87) |
+| Mon, 29 Sep 2025 13:28:16 GMT | Google AI Studio | Balki Maharaj | [Read More](https://medium.com/p/4373b5aaab77) |
 | Mon, 29 Sep 2025 13:27:41 GMT | HackTheBox — Expressway (Easy) — Complete step-by-step walkthrough (no flag spoilers) | Ahmed Nosir | [Read More](https://medium.com/p/5bed892fc573) |
 | Mon, 29 Sep 2025 13:23:49 GMT | Beyond the Breach: 4 Surprising Truths About Handling a Cyber Crisis | Rana Nasmin | [Read More](https://medium.com/p/16b0a5abe2c4) |
 | Mon, 29 Sep 2025 13:22:56 GMT | Why I Don’t Trust Default Kernel Parameters on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/879b28d3543f) |
@@ -101,15 +113,3 @@ Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) 
 | Mon, 29 Sep 2025 10:18:04 GMT | Mr. Robot Decoded: The Ultimate Fan’s Companion | HexFlicks - Movies, Books & Gaming | [Read More](https://medium.com/p/0060f9e6e16d) |
 | Mon, 29 Sep 2025 10:09:25 GMT | Top 10 trusted IT companies in Colombia: 2025 list | N-iX | [Read More](https://medium.com/p/18e73d0684e4) |
 | Mon, 29 Sep 2025 10:08:40 GMT | Scaling Your Identity Infrastructure: From Single Domain to Forests in Active Directory | Sumit Sah | [Read More](https://medium.com/p/8146b9bee3f8) |
-| Mon, 29 Sep 2025 10:07:51 GMT | How a “Tiny” UI Detail Can Hurt Your Business | Krypto | [Read More](https://medium.com/p/16e62b7b1041) |
-| Mon, 29 Sep 2025 10:07:35 GMT | Cybersecurity Student’s Dilemma: Laptop or PC? | Authlyn | [Read More](https://medium.com/p/7db390db9eba) |
-| Mon, 29 Sep 2025 10:06:36 GMT | Linux Honeypots: Trapping Attackers | Eren Cankut Uysal | [Read More](https://medium.com/p/a26ce30d2ec4) |
-| Mon, 29 Sep 2025 10:05:00 GMT | EchoLeak: When Your AI Copilot Becomes the Hacker’s Backdoor | Yash Gorasiya | [Read More](https://medium.com/p/a5497816da50) |
-| Mon, 29 Sep 2025 10:02:56 GMT | The OWASP Top 10: A Beginner-Friendly Guide to Web Application Security | Ritvik | [Read More](https://medium.com/p/0f5008d2198c) |
-| Mon, 29 Sep 2025 10:02:54 GMT | Reverse Engineering Session 2 by KK TAN ~ Real-world study CVE-2025–8088 [Experience Sharing] | Cy3erS@up | [Read More](https://medium.com/p/24fed4fd4003) |
-| Mon, 29 Sep 2025 10:02:01 GMT | OWASP Top 10: Not Just a List, It’s a Mindset Shift | SilentInject | [Read More](https://medium.com/p/daf5279f7b97) |
-| Mon, 29 Sep 2025 09:57:39 GMT | Signed Evil: When Hackers Masquerade as Trustworthy? | Truspex | [Read More](https://medium.com/p/c7665c74837d) |
-| Mon, 29 Sep 2025 09:57:19 GMT | When AI Meets Compliance: The Hidden Data Risks Firms Overlook | Chris Stevens | [Read More](https://medium.com/p/9737c99d189d) |
-| Mon, 29 Sep 2025 09:51:24 GMT | Farewell to the Security Paradox: Why an EAL6+ Military-Grade Wallet is the Ultimate Destination… | Digital Shield | [Read More](https://medium.com/p/80f21277360d) |
-| Mon, 29 Sep 2025 09:50:44 GMT | The Psychology of Phishing: Understanding Social Engineering | Cyber Security Research | [Read More](https://medium.com/p/ed9de847c92c) |
-| Mon, 29 Sep 2025 09:50:25 GMT | Advent of cyber ’24 — Day 2 | Gligits.ini | [Read More](https://medium.com/p/3fa9eaed0264) |
