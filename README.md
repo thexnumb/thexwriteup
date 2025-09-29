@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 04:13:27 GMT | The Day I Almost Got Phished And How It Changed My Security Forever | Arfa | [Read More](https://medium.com/p/117ced0d81af) |
+| Mon, 29 Sep 2025 04:12:45 GMT | Token Trouble: How Leaked JWTs Let Me Become Everyone on the Internet | Iski | [Read More](https://medium.com/p/cb02acde43f2) |
+| Mon, 29 Sep 2025 04:10:47 GMT | Oktane 2025: Where Identity Becomes the Operating System for AI | Siva Desetti | [Read More](https://medium.com/p/65ce63682463) |
+| Mon, 29 Sep 2025 03:56:21 GMT | Authentication bypass via sequential user IDs in Microsoft SSO integration - Critical Vulnerability | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/d5f498ccdae7) |
+| Mon, 29 Sep 2025 03:54:20 GMT | CIOs Under Pressure in 2026: The 5 Strategic Fronts to Master | Eddy AZEBAZE | [Read More](https://medium.com/p/4ffca3920bf2) |
 | Mon, 29 Sep 2025 03:32:11 GMT | AI in the SOC: How Machine Learning Transforms Threat Detection | Amrik  Hanjra | [Read More](https://medium.com/p/5f4dd25ad972) |
 | Mon, 29 Sep 2025 03:31:49 GMT | Intel’s Internal Websites Exploited: What the “Intel Outside” Breach Means for Security | Deven Chhajed | [Read More](https://medium.com/p/9e25a9eb23c2) |
 | Mon, 29 Sep 2025 03:28:49 GMT | RST TI Report Digest: 29 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/319e2e1feb15) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 18:27:54 GMT | The Art of Plausible Deniability in Cyber Espionage | Jonathan Brown | [Read More](https://medium.com/p/d8a5cc1cff08) |
 | Sun, 28 Sep 2025 18:27:36 GMT | Privilege Escalation via IDOR Allows Unauthorized User Injection | Omer Mohsen | [Read More](https://medium.com/p/f822aa64b528) |
 | Sun, 28 Sep 2025 18:25:23 GMT | AD Enumeration & Attacks — Skills Assessment Part II | Mkirahmet | [Read More](https://medium.com/p/e7320fcd58a5) |
-| Sun, 28 Sep 2025 18:24:45 GMT | hLend: Powering Haven1’s On-Chain Lending | Victor | [Read More](https://medium.com/p/d7a69838fd0c) |
-| Sun, 28 Sep 2025 18:07:44 GMT | A Theoretical Study on Noise Model Improvements for Privacy Amplification in Quantum-Secured Mobile… | Okai Tettey-Antie Samuel(OTAS) | [Read More](https://medium.com/p/0d37eb51f0af) |
-| Sun, 28 Sep 2025 18:07:06 GMT | VulnLab — SQL injection | Dalf | [Read More](https://medium.com/p/f7dc558aacd8) |
-| Sun, 28 Sep 2025 18:06:19 GMT | Pawn — An FTP Enumeration & Foothold Walkthrough (Part of my cybersecurity journey) | Ola | [Read More](https://medium.com/p/0d60339b455f) |
-| Sun, 28 Sep 2025 17:59:48 GMT | Understanding Defect Triage in Software Testing | Charukshi Wijesinghe | [Read More](https://medium.com/p/26bb128cf7d9) |
