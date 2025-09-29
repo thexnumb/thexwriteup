@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 19:29:06 GMT | HackTheBox — Intrusion Detection With Splunk (Real-world Scenario) | Javier | [Read More](https://medium.com/p/db1a2e726a32) |
+| Mon, 29 Sep 2025 19:24:22 GMT | Network Deep Dive | Infra & Network Core | [Read More](https://medium.com/p/260e143c7089) |
+| Mon, 29 Sep 2025 19:21:53 GMT | What is a Leap? | Vlad Nistor | [Read More](https://medium.com/p/9566c8a24def) |
+| Mon, 29 Sep 2025 19:18:07 GMT | Top 6 Microsoft 365, EntraID and Azure Security Misconfigurations — Part 3/3 | Alain Keller | [Read More](https://medium.com/p/fab9c5ce76f6) |
 | Mon, 29 Sep 2025 19:12:19 GMT | Containers & Docker Exploitation | Cybersecplayground | [Read More](https://medium.com/p/c9155e7540b5) |
 | Mon, 29 Sep 2025 19:05:24 GMT | Leverage the tools without compromising your voice. | Aliyu Ibrahim | [Read More](https://medium.com/p/4b267928dd7b) |
 | Mon, 29 Sep 2025 19:04:28 GMT | Man in the middle attack with bettercap | Kiptryin | [Read More](https://medium.com/p/690631a48b9b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 14:05:07 GMT | Uncovering Secrets with Autopsy: A Guide to TryHackMe’s Disk Analysis Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef94f36e4d87) |
 | Mon, 29 Sep 2025 14:02:05 GMT | DPDP Act in Simple Words: What Every Citizen Should Know | Dheeraj Nagdeo | [Read More](https://medium.com/p/0e9e8915995e) |
 | Mon, 29 Sep 2025 14:02:00 GMT | What to Do If Your Account Gets Hacked: Step-by-Step Guide | Cyberspace Bulletin | [Read More](https://medium.com/p/2b6f77cc90e1) |
-| Mon, 29 Sep 2025 14:01:59 GMT | Cyber Briefing: 2025.09.29 | CyberMaterial | [Read More](https://medium.com/p/b1b2939860dc) |
-| Mon, 29 Sep 2025 14:01:59 GMT | Part 4: Compliance Standards: PCI- DSS, HIPAA & ISO | Intelithics | [Read More](https://medium.com/p/b702ffbe9b93) |
-| Mon, 29 Sep 2025 13:58:11 GMT | [TUGAS 2] MATA KULIAH SISTEM PENUNJANG KEPUTUSAN | Muhamad Kamal | [Read More](https://medium.com/p/c05ea6385e4b) |
-| Mon, 29 Sep 2025 13:56:21 GMT | The Fake Job Interview That Hijacks Your Computer | Aj | [Read More](https://medium.com/p/76aee8eb21b5) |
