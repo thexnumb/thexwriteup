@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 04:27:13 GMT | PostgreSQL 18 Released: Revolutionary Asynchronous I/O Subsystem Explained | Rizqi Mulki | [Read More](https://medium.com/p/494b4f4d56f4) |
+| Mon, 29 Sep 2025 04:20:11 GMT | Opened a Can of XWorms | grepStrength | [Read More](https://medium.com/p/33fde9d2aee6) |
+| Mon, 29 Sep 2025 04:16:45 GMT | 7 Cybersecurity Myths That Put You in Danger Every Day | Arfa | [Read More](https://medium.com/p/9af282c3408a) |
 | Mon, 29 Sep 2025 04:13:27 GMT | The Day I Almost Got Phished And How It Changed My Security Forever | Arfa | [Read More](https://medium.com/p/117ced0d81af) |
 | Mon, 29 Sep 2025 04:12:45 GMT | Token Trouble: How Leaked JWTs Let Me Become Everyone on the Internet | Iski | [Read More](https://medium.com/p/cb02acde43f2) |
 | Mon, 29 Sep 2025 04:10:47 GMT | Oktane 2025: Where Identity Becomes the Operating System for AI | Siva Desetti | [Read More](https://medium.com/p/65ce63682463) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 18:44:39 GMT | Passing Python Functions via API for remote validation and execution: A Complete Guide | Suraj Kumar | [Read More](https://medium.com/p/3338ec05cb2d) |
 | Sun, 28 Sep 2025 18:37:02 GMT | Spider Society Walkthrough | Jose Diaz | [Read More](https://medium.com/p/cd5fa1acedcc) |
 | Sun, 28 Sep 2025 18:33:54 GMT | AD Enumeration & Attacks — Skills Assessment Part I | Mkirahmet | [Read More](https://medium.com/p/7b4fd5a76835) |
-| Sun, 28 Sep 2025 18:27:54 GMT | The Art of Plausible Deniability in Cyber Espionage | Jonathan Brown | [Read More](https://medium.com/p/d8a5cc1cff08) |
-| Sun, 28 Sep 2025 18:27:36 GMT | Privilege Escalation via IDOR Allows Unauthorized User Injection | Omer Mohsen | [Read More](https://medium.com/p/f822aa64b528) |
-| Sun, 28 Sep 2025 18:25:23 GMT | AD Enumeration & Attacks — Skills Assessment Part II | Mkirahmet | [Read More](https://medium.com/p/e7320fcd58a5) |
