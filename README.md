@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 11:13:40 GMT | Abusing Unconstrained Delegation — Users | SeverSerenity | [Read More](https://medium.com/p/f543f4f96d8e) |
+| Mon, 29 Sep 2025 11:06:11 GMT | How Hackers Steal Your SIM Card While It’s Still in Your Phone — and How to Stop Them | Cyberwise | [Read More](https://medium.com/p/a47e7a8f33dd) |
+| Mon, 29 Sep 2025 11:02:40 GMT | Security incidents Essentials in NDR Solutions | NetWitness | [Read More](https://medium.com/p/92f0133ac682) |
+| Mon, 29 Sep 2025 11:01:54 GMT | Piggy- Network Investigation Writeup | shadowdust5 | [Read More](https://medium.com/p/6a19a8ad656a) |
+| Mon, 29 Sep 2025 10:57:50 GMT | “Trust, but Verify: The Hidden Dangers of Response Manipulation in Modern Applications” | Abdullah Kala | [Read More](https://medium.com/p/2ce0d6867ab5) |
+| Mon, 29 Sep 2025 10:54:26 GMT | IoT Security: Securing the Internet of Things | Cyber Security Research | [Read More](https://medium.com/p/9d2c5dc877b9) |
+| Mon, 29 Sep 2025 10:52:05 GMT | The Friend Who Taught Me to Cry | Sophie Edwards | [Read More](https://medium.com/p/fb75e4e93ef3) |
+| Mon, 29 Sep 2025 10:49:43 GMT | It’s all going to be fine! | Jules May | [Read More](https://medium.com/p/2b43d7e9c73d) |
+| Mon, 29 Sep 2025 10:49:39 GMT | How Kiosk Machines Support Multilingual Customer Interaction | Rakesh | [Read More](https://medium.com/p/e59f45233592) |
+| Mon, 29 Sep 2025 10:48:30 GMT | Cloud Security: Securing Data in the Cloud Environment | Cyber Security Research | [Read More](https://medium.com/p/34539b3ede17) |
+| Mon, 29 Sep 2025 10:45:24 GMT | How Ethical Hackers Secure Cloud Computing Platforms | Kartik Debnath | [Read More](https://medium.com/p/73d29c7f11b0) |
 | Mon, 29 Sep 2025 10:43:13 GMT | Why JavaScript is the Worst Choice for Web3 Applications | Steffen Kux | [Read More](https://medium.com/p/4ce941463142) |
+| Mon, 29 Sep 2025 10:43:03 GMT | Microsoft Warns of AI-Powered Phishing Using SVG Files to Evade Email Defenses | Jasmitharouthu | [Read More](https://medium.com/p/295ea4c9864c) |
 | Mon, 29 Sep 2025 10:41:50 GMT | Mobile Security: Protecting Your Smartphones and Tablets | Cyber Security Research | [Read More](https://medium.com/p/6cc739ed3c37) |
+| Mon, 29 Sep 2025 10:41:50 GMT | Agile’s House of Cards in ERP: Rituals Over Results | Namir Sagheenanajar | [Read More](https://medium.com/p/32a8b7cc5644) |
+| Mon, 29 Sep 2025 10:41:07 GMT | Kioptrix CTF | Mohamed Magdy | [Read More](https://medium.com/p/ad4392bae2bd) |
+| Mon, 29 Sep 2025 10:33:16 GMT | Best Managed Cybersecurity Services and Solutions In India | Gowthammathiew | [Read More](https://medium.com/p/24706dbc1e54) |
 | Mon, 29 Sep 2025 10:31:50 GMT | Cryptography in Information Technology: Locking Secrets in the Digital World | Natarajan C K | [Read More](https://medium.com/p/ddd8ccc6e96e) |
+| Mon, 29 Sep 2025 10:31:42 GMT | What 900+ Projects Taught Me About the Real Role of IT Consulting | Mahil Jasani | [Read More](https://medium.com/p/cc505f68a307) |
 | Mon, 29 Sep 2025 10:30:58 GMT | CVE-2025–11068: XSS Vulnerability Haunts CicadasCMS 1.0 — Patch Now! | CVEHUB | [Read More](https://medium.com/p/fc8b9045e631) |
 | Mon, 29 Sep 2025 10:29:24 GMT | CVE-2025–11067: XSS Vulnerability Plagues Projectworlds Visitor Management System | CVEHUB | [Read More](https://medium.com/p/585a04aa1c5c) |
 | Mon, 29 Sep 2025 10:28:51 GMT | Beneath the Waves | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/74a99620e33a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 07:06:13 GMT | Common Challenges in Managing Dedicated Development Teams | Alex | [Read More](https://medium.com/p/8f715670ca69) |
 | Mon, 29 Sep 2025 06:51:23 GMT | How to Conduct a Comprehensive Security Posture Assessment in 5 Easy Steps. | Skysecure Technologies | [Read More](https://medium.com/p/7030d198ccd6) |
 | Mon, 29 Sep 2025 06:50:58 GMT | Terms and Conditions Attorney for Websites & Mobile App | Hansen Tong | [Read More](https://medium.com/p/c2bbed6b4238) |
-| Mon, 29 Sep 2025 06:46:13 GMT | Top 10 Web Hosting Trends for 2026 | HostNOC | [Read More](https://medium.com/p/743b49157829) |
-| Mon, 29 Sep 2025 06:44:04 GMT | The Daily Tech Digest: 29 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0c86fee552d9) |
-| Mon, 29 Sep 2025 06:36:31 GMT | My Cybersecurity Journey: How I Started Exploring the World of Tech Security | Ritvik | [Read More](https://medium.com/p/2d4341c9ad3d) |
-| Mon, 29 Sep 2025 06:35:17 GMT | Secure Authentication Explained: Methods, Best Practices, and Real-World Examples | Andreas Christou | [Read More](https://medium.com/p/48aa66c56231) |
-| Mon, 29 Sep 2025 06:30:45 GMT | I Can Hack Systems but Couldn’t Write One Article (Until Now) | Abdullah Javeed | [Read More](https://medium.com/p/970354aea206) |
-| Mon, 29 Sep 2025 06:26:49 GMT | AI-Powered Hackers: The Next Big Cybersecurity Threat? | Ann Maria | [Read More](https://medium.com/p/4b904181ab54) |
-| Mon, 29 Sep 2025 06:24:08 GMT | New version of Maester on Azure Web App — Microsoft Security Test Automation Framework | Brian Veldman | [Read More](https://medium.com/p/2178e96db4ee) |
-| Mon, 29 Sep 2025 06:22:30 GMT | Free vs Paid SSL: Key Differences Explained | Smit Pipaliya | [Read More](https://medium.com/p/f9607d07acaa) |
-| Mon, 29 Sep 2025 06:21:20 GMT | My Experience Analyzing a Sophisticated Phishing Campaign Targeting Cryptocurrency Users | Oleksiy Petrychko | [Read More](https://medium.com/p/d005524bd429) |
-| Mon, 29 Sep 2025 06:21:09 GMT | Top 10 Jobs in Ethical Hacking & Cyber Security in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/7b5e53eb1d6a) |
-| Mon, 29 Sep 2025 06:19:42 GMT | The Anatomy of a Cyberattack: From Breach to Recovery | Cyber Security Research | [Read More](https://medium.com/p/8a4b97b0f82f) |
-| Mon, 29 Sep 2025 06:14:19 GMT | Cybersecurity: The Blueprint for a Secure Future | Cyber Security Research | [Read More](https://medium.com/p/fc82f2c6b112) |
-| Mon, 29 Sep 2025 06:13:01 GMT | Part 1 : Security in DevSecOps | Dean | [Read More](https://medium.com/p/af43140f5779) |
-| Mon, 29 Sep 2025 06:08:12 GMT | Decoding Digital Defense: Core Cybersecurity Concepts | Cyber Security Research | [Read More](https://medium.com/p/9d54a6660f79) |
-| Mon, 29 Sep 2025 05:52:42 GMT | KEYNOX: The World’s First On-Chain Wallet Recovery Protocol | Keynox Official | [Read More](https://medium.com/p/930250cb378e) |
-| Mon, 29 Sep 2025 05:51:46 GMT | The RUDY Attack: How a Single Hacker Can Crash Your Site With a Trickle of Data | MrAashish0x1 | [Read More](https://medium.com/p/0e275e18a3cf) |
