@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 22:02:57 GMT | IT Security Services, Cyber Security Experts, and Incident Response by CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/fe16f34953d8) |
+| Mon, 29 Sep 2025 21:57:13 GMT | The Proposal | RTUJr. | [Read More](https://medium.com/p/0e97d25c2761) |
+| Mon, 29 Sep 2025 21:53:01 GMT | Understanding Data Encryption: Best Practices & Workflows | Hasanhawary | [Read More](https://medium.com/p/e4d13fcb6e73) |
 | Mon, 29 Sep 2025 21:26:44 GMT | How Hotel Transylvania Explains Microsoft Entra ID and OAuth: A Beginner’s Guide to Authentication | Raghuveer M | [Read More](https://medium.com/p/dd5b43309d35) |
 | Mon, 29 Sep 2025 21:22:15 GMT | Cyber Security Consulting, Cyber Security Services, and Incident Response Services by CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/657f56c29b3f) |
 | Mon, 29 Sep 2025 21:09:46 GMT | Do Men Deserve Flowers Too? | Ofentse Percy Mohloke | [Read More](https://medium.com/p/e369c9a0133e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 15:15:07 GMT | GZR Observer Daily — Sep 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/7172b29e4959) |
 | Mon, 29 Sep 2025 15:11:57 GMT | Hacking an AI with Its Own Words: My First Prompt Injection Win | Yash Mane | [Read More](https://medium.com/p/60ce4b025ad6) |
 | Mon, 29 Sep 2025 15:11:21 GMT | Unlock Financial Accuracy with Next-Gen Reconciliation Automation Tools | Kosh AI | [Read More](https://medium.com/p/73fabb8b7ed3) |
-| Mon, 29 Sep 2025 15:09:34 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 2 | Robert Broeckelmann | [Read More](https://medium.com/p/40bafcadfc0f) |
-| Mon, 29 Sep 2025 15:08:19 GMT | Network Security Essentials Walkthrough: TryHackMe Room Explained | Visir | [Read More](https://medium.com/p/9762002e821a) |
-| Mon, 29 Sep 2025 15:03:22 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 1 | Robert Broeckelmann | [Read More](https://medium.com/p/a5515d7af589) |
