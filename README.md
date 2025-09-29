@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 10:43:13 GMT | Why JavaScript is the Worst Choice for Web3 Applications | Steffen Kux | [Read More](https://medium.com/p/4ce941463142) |
+| Mon, 29 Sep 2025 10:41:50 GMT | Mobile Security: Protecting Your Smartphones and Tablets | Cyber Security Research | [Read More](https://medium.com/p/6cc739ed3c37) |
+| Mon, 29 Sep 2025 10:31:50 GMT | Cryptography in Information Technology: Locking Secrets in the Digital World | Natarajan C K | [Read More](https://medium.com/p/ddd8ccc6e96e) |
+| Mon, 29 Sep 2025 10:30:58 GMT | CVE-2025–11068: XSS Vulnerability Haunts CicadasCMS 1.0 — Patch Now! | CVEHUB | [Read More](https://medium.com/p/fc8b9045e631) |
+| Mon, 29 Sep 2025 10:29:24 GMT | CVE-2025–11067: XSS Vulnerability Plagues Projectworlds Visitor Management System | CVEHUB | [Read More](https://medium.com/p/585a04aa1c5c) |
+| Mon, 29 Sep 2025 10:28:51 GMT | Beneath the Waves | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/74a99620e33a) |
+| Mon, 29 Sep 2025 10:25:14 GMT | SOC 2 Certification: Ensuring Data Security and Trust for Your Business | Tech Writer | [Read More](https://medium.com/p/46b0a9a2bf9c) |
+| Mon, 29 Sep 2025 10:18:34 GMT | Security Fencing in Saudi Arabia: Essential Protection for Modern Infrastructure | Hitechfence | [Read More](https://medium.com/p/c4a2b6c78849) |
+| Mon, 29 Sep 2025 10:18:04 GMT | Mr. Robot Decoded: The Ultimate Fan’s Companion | HexFlicks - Movies, Books & Gaming | [Read More](https://medium.com/p/0060f9e6e16d) |
 | Mon, 29 Sep 2025 10:09:25 GMT | Top 10 trusted IT companies in Colombia: 2025 list | N-iX | [Read More](https://medium.com/p/18e73d0684e4) |
 | Mon, 29 Sep 2025 10:08:40 GMT | Scaling Your Identity Infrastructure: From Single Domain to Forests in Active Directory | Sumit Sah | [Read More](https://medium.com/p/8146b9bee3f8) |
 | Mon, 29 Sep 2025 10:07:51 GMT | How a “Tiny” UI Detail Can Hurt Your Business | Krypto | [Read More](https://medium.com/p/16e62b7b1041) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 06:08:12 GMT | Decoding Digital Defense: Core Cybersecurity Concepts | Cyber Security Research | [Read More](https://medium.com/p/9d54a6660f79) |
 | Mon, 29 Sep 2025 05:52:42 GMT | KEYNOX: The World’s First On-Chain Wallet Recovery Protocol | Keynox Official | [Read More](https://medium.com/p/930250cb378e) |
 | Mon, 29 Sep 2025 05:51:46 GMT | The RUDY Attack: How a Single Hacker Can Crash Your Site With a Trickle of Data | MrAashish0x1 | [Read More](https://medium.com/p/0e275e18a3cf) |
-| Mon, 29 Sep 2025 05:50:41 GMT | A Game-Changer in Cyber Security! | Dipanshu | [Read More](https://medium.com/p/000e64d4953f) |
-| Mon, 29 Sep 2025 05:42:48 GMT | Watch a DDoS Attack Unfold — Then Learn to Kill It | Antriksh Saini | [Read More](https://medium.com/p/33c8148759d6) |
-| Mon, 29 Sep 2025 05:37:43 GMT | TryHackMe Challenge — ToolsRus | Aniket Pattanshetti | [Read More](https://medium.com/p/923b8db54141) |
-| Mon, 29 Sep 2025 05:34:51 GMT | Why AI Services Might Flop Big | Anirudh | [Read More](https://medium.com/p/697eb860b7db) |
-| Mon, 29 Sep 2025 05:29:03 GMT | Unicode Secrets: Hide and Reveal Text Inside Emojis Using Variation Selectors | Sushanta Neupane | [Read More](https://medium.com/p/a01c01e249cf) |
-| Mon, 29 Sep 2025 05:19:45 GMT | Tech and Loneliness: Are We Truly More Connected or Growing More Alone? | Tarush Sharma | [Read More](https://medium.com/p/517300de3cbf) |
-| Mon, 29 Sep 2025 05:15:34 GMT | SeqOps: Proactive Cybersecurity for a Constantly Evolving Digital World | SEQOPS | [Read More](https://medium.com/p/5d3d30e87bfe) |
-| Mon, 29 Sep 2025 05:15:33 GMT | The Role of Master Protection in Modern Corporate Security | Mindfully SEO | [Read More](https://medium.com/p/dcc53bf15506) |
-| Mon, 29 Sep 2025 05:09:29 GMT | Digital Life, Hidden Dangers di Keseharian Kita | Brian | [Read More](https://medium.com/p/e393eda672a7) |
