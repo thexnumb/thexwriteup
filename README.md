@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 15:38:13 GMT | What is HTTP Status Codes — 200, 300, and 400 Series | Prathiush Jayaprakash | [Read More](https://medium.com/p/879c76a7652f) |
+| Mon, 29 Sep 2025 15:35:09 GMT | 6 Secret AI tools you’ve likely never used before but definitely should in 2025 | sana irshad | [Read More](https://medium.com/p/5dff0dd2a448) |
+| Mon, 29 Sep 2025 15:30:32 GMT | Hackersdaddy ROUGE CTF 2025 — Complete Writeups | 0verlo0ked | [Read More](https://medium.com/p/9c47653afb53) |
+| Mon, 29 Sep 2025 15:22:24 GMT | Viruses vs. Malware vs. Ransomware: How to Tell the Difference and Fix Them | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/11e83d76f6d9) |
+| Mon, 29 Sep 2025 15:22:11 GMT | Preventive Maintenance Tips to Keep Your Computer Running Smoothly | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/1c38c7fd76ff) |
+| Mon, 29 Sep 2025 15:21:58 GMT | How to Speed Up a Slow Computer Without Spending a Fortune | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/93c6c6ed1f9a) |
+| Mon, 29 Sep 2025 15:19:07 GMT | Stop Typing Passwords: How ssh-copy-id Makes SSH Login Easy | Sainathmekala | [Read More](https://medium.com/p/9af12c1e59fe) |
+| Mon, 29 Sep 2025 15:18:56 GMT | Meta Pool: Multi-Chain Audits Backing Our Security | metapool.near | [Read More](https://medium.com/p/9078e8a0bc6c) |
+| Mon, 29 Sep 2025 15:16:09 GMT | Failure means progress | Forrest Caffray | [Read More](https://medium.com/p/f2b9c158177f) |
+| Mon, 29 Sep 2025 15:15:07 GMT | GZR Observer Daily — Sep 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/7172b29e4959) |
+| Mon, 29 Sep 2025 15:11:57 GMT | Hacking an AI with Its Own Words: My First Prompt Injection Win | Yash Mane | [Read More](https://medium.com/p/60ce4b025ad6) |
 | Mon, 29 Sep 2025 15:09:34 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 2 | Robert Broeckelmann | [Read More](https://medium.com/p/40bafcadfc0f) |
 | Mon, 29 Sep 2025 15:08:19 GMT | Network Security Essentials Walkthrough: TryHackMe Room Explained | Visir | [Read More](https://medium.com/p/9762002e821a) |
 | Mon, 29 Sep 2025 15:03:22 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 1 | Robert Broeckelmann | [Read More](https://medium.com/p/a5515d7af589) |
@@ -102,14 +113,3 @@ Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) 
 | Mon, 29 Sep 2025 11:06:11 GMT | How Hackers Steal Your SIM Card While It’s Still in Your Phone — and How to Stop Them | Cyberwise | [Read More](https://medium.com/p/a47e7a8f33dd) |
 | Mon, 29 Sep 2025 11:02:40 GMT | Security incidents Essentials in NDR Solutions | NetWitness | [Read More](https://medium.com/p/92f0133ac682) |
 | Mon, 29 Sep 2025 11:01:54 GMT | Piggy- Network Investigation Writeup | shadowdust5 | [Read More](https://medium.com/p/6a19a8ad656a) |
-| Mon, 29 Sep 2025 10:57:50 GMT | “Trust, but Verify: The Hidden Dangers of Response Manipulation in Modern Applications” | Abdullah Kala | [Read More](https://medium.com/p/2ce0d6867ab5) |
-| Mon, 29 Sep 2025 10:54:26 GMT | IoT Security: Securing the Internet of Things | Cyber Security Research | [Read More](https://medium.com/p/9d2c5dc877b9) |
-| Mon, 29 Sep 2025 10:52:05 GMT | The Friend Who Taught Me to Cry | Sophie Edwards | [Read More](https://medium.com/p/fb75e4e93ef3) |
-| Mon, 29 Sep 2025 10:49:43 GMT | It’s all going to be fine! | Jules May | [Read More](https://medium.com/p/2b43d7e9c73d) |
-| Mon, 29 Sep 2025 10:49:39 GMT | How Kiosk Machines Support Multilingual Customer Interaction | Rakesh | [Read More](https://medium.com/p/e59f45233592) |
-| Mon, 29 Sep 2025 10:48:30 GMT | Cloud Security: Securing Data in the Cloud Environment | Cyber Security Research | [Read More](https://medium.com/p/34539b3ede17) |
-| Mon, 29 Sep 2025 10:45:24 GMT | How Ethical Hackers Secure Cloud Computing Platforms | Kartik Debnath | [Read More](https://medium.com/p/73d29c7f11b0) |
-| Mon, 29 Sep 2025 10:43:13 GMT | Why JavaScript is the Worst Choice for Web3 Applications | Steffen Kux | [Read More](https://medium.com/p/4ce941463142) |
-| Mon, 29 Sep 2025 10:43:03 GMT | Microsoft Warns of AI-Powered Phishing Using SVG Files to Evade Email Defenses | Jasmitharouthu | [Read More](https://medium.com/p/295ea4c9864c) |
-| Mon, 29 Sep 2025 10:41:50 GMT | Mobile Security: Protecting Your Smartphones and Tablets | Cyber Security Research | [Read More](https://medium.com/p/6cc739ed3c37) |
-| Mon, 29 Sep 2025 10:41:50 GMT | Agile’s House of Cards in ERP: Rituals Over Results | Namir Sagheenanajar | [Read More](https://medium.com/p/32a8b7cc5644) |
