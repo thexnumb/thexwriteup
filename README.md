@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 15:09:34 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 2 | Robert Broeckelmann | [Read More](https://medium.com/p/40bafcadfc0f) |
+| Mon, 29 Sep 2025 15:08:19 GMT | Network Security Essentials Walkthrough: TryHackMe Room Explained | Visir | [Read More](https://medium.com/p/9762002e821a) |
+| Mon, 29 Sep 2025 15:03:22 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 1 | Robert Broeckelmann | [Read More](https://medium.com/p/a5515d7af589) |
+| Mon, 29 Sep 2025 14:59:56 GMT | When AI Turns Adversary: The Dark Side of Artificial Intelligence in Cybersecurity | Varun Raj | [Read More](https://medium.com/p/195bbdf6f507) |
+| Mon, 29 Sep 2025 14:58:35 GMT | Joining Computers to Active Directory | James Rawlings | [Read More](https://medium.com/p/5b050b8e11f4) |
+| Mon, 29 Sep 2025 14:57:52 GMT | 02- Kali Linux | SDNTechForum | [Read More](https://medium.com/p/bc5a62ce4057) |
+| Mon, 29 Sep 2025 14:55:26 GMT | How Mighty Hacker Recovery Helped Me Retrieve My Lost USD-USDT from a Wrong Wallet | Toby Minez | [Read More](https://medium.com/p/d9009e1e6a24) |
+| Mon, 29 Sep 2025 14:54:38 GMT | PG Practice — Nickel (Windows) | Lepton | [Read More](https://medium.com/p/0c1f4442dc52) |
+| Mon, 29 Sep 2025 14:53:56 GMT | Leadership Is Not What You Think | Vijay Kumar Gupta | [Read More](https://medium.com/p/fdb75cd7189c) |
+| Mon, 29 Sep 2025 14:48:40 GMT | hadow Is Shadow AI Hiding in Your Workflow? | Inclusion Cloud | [Read More](https://medium.com/p/e086e0ca22d8) |
+| Mon, 29 Sep 2025 14:44:21 GMT | Inclusive Hacking Ride-On Cars to Empower Children with Disabilities | Mikey Strauss | [Read More](https://medium.com/p/60e20ddb5b4a) |
 | Mon, 29 Sep 2025 14:37:29 GMT | Strengthening Business Resilience Through Modern Security and Compliance Solutions | Defend My Business | [Read More](https://medium.com/p/a6317ae25a70) |
+| Mon, 29 Sep 2025 14:36:39 GMT | Traps — A Security Measure To Catch The Problem Before It Becomes One | Lou | [Read More](https://medium.com/p/59301f804558) |
 | Mon, 29 Sep 2025 14:33:06 GMT | Interpol’s Operation HAECHI VI: Cybercrime Crackdown Freezes 68,000 Bank Accounts | TheReviewHive | [Read More](https://medium.com/p/4cde7b1d483e) |
 | Mon, 29 Sep 2025 14:31:32 GMT | Privilege Escalation 101 | Zaatil Asmawi | [Read More](https://medium.com/p/cf221314e5b7) |
 | Mon, 29 Sep 2025 14:31:29 GMT | Tek Bir Siber Saldırı Dev Bir Otomotiv Devi’ni Nasıl Dize Getirdi? | Oya Paktas | [Read More](https://medium.com/p/c46e405aa47a) |
@@ -101,15 +113,3 @@ Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) 
 | Mon, 29 Sep 2025 10:43:03 GMT | Microsoft Warns of AI-Powered Phishing Using SVG Files to Evade Email Defenses | Jasmitharouthu | [Read More](https://medium.com/p/295ea4c9864c) |
 | Mon, 29 Sep 2025 10:41:50 GMT | Mobile Security: Protecting Your Smartphones and Tablets | Cyber Security Research | [Read More](https://medium.com/p/6cc739ed3c37) |
 | Mon, 29 Sep 2025 10:41:50 GMT | Agile’s House of Cards in ERP: Rituals Over Results | Namir Sagheenanajar | [Read More](https://medium.com/p/32a8b7cc5644) |
-| Mon, 29 Sep 2025 10:41:07 GMT | Kioptrix CTF | Mohamed Magdy | [Read More](https://medium.com/p/ad4392bae2bd) |
-| Mon, 29 Sep 2025 10:33:16 GMT | Best Managed Cybersecurity Services and Solutions In India | Gowthammathiew | [Read More](https://medium.com/p/24706dbc1e54) |
-| Mon, 29 Sep 2025 10:31:50 GMT | Cryptography in Information Technology: Locking Secrets in the Digital World | Natarajan C K | [Read More](https://medium.com/p/ddd8ccc6e96e) |
-| Mon, 29 Sep 2025 10:31:42 GMT | What 900+ Projects Taught Me About the Real Role of IT Consulting | Mahil Jasani | [Read More](https://medium.com/p/cc505f68a307) |
-| Mon, 29 Sep 2025 10:30:58 GMT | CVE-2025–11068: XSS Vulnerability Haunts CicadasCMS 1.0 — Patch Now! | CVEHUB | [Read More](https://medium.com/p/fc8b9045e631) |
-| Mon, 29 Sep 2025 10:29:24 GMT | CVE-2025–11067: XSS Vulnerability Plagues Projectworlds Visitor Management System | CVEHUB | [Read More](https://medium.com/p/585a04aa1c5c) |
-| Mon, 29 Sep 2025 10:28:51 GMT | Beneath the Waves | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/74a99620e33a) |
-| Mon, 29 Sep 2025 10:25:14 GMT | SOC 2 Certification: Ensuring Data Security and Trust for Your Business | Tech Writer | [Read More](https://medium.com/p/46b0a9a2bf9c) |
-| Mon, 29 Sep 2025 10:18:34 GMT | Security Fencing in Saudi Arabia: Essential Protection for Modern Infrastructure | Hitechfence | [Read More](https://medium.com/p/c4a2b6c78849) |
-| Mon, 29 Sep 2025 10:18:04 GMT | Mr. Robot Decoded: The Ultimate Fan’s Companion | HexFlicks - Movies, Books & Gaming | [Read More](https://medium.com/p/0060f9e6e16d) |
-| Mon, 29 Sep 2025 10:09:25 GMT | Top 10 trusted IT companies in Colombia: 2025 list | N-iX | [Read More](https://medium.com/p/18e73d0684e4) |
-| Mon, 29 Sep 2025 10:08:40 GMT | Scaling Your Identity Infrastructure: From Single Domain to Forests in Active Directory | Sumit Sah | [Read More](https://medium.com/p/8146b9bee3f8) |
