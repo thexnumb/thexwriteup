@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 16:08:11 GMT | The Call No School Wants to Make: Why Emergency Response Fails Before It Starts | Tec-Tel Communications | [Read More](https://medium.com/p/8d471359ed72) |
+| Mon, 29 Sep 2025 16:05:56 GMT | Current Authentication Practices: PCI SSC 2025 Guidance Overview | Viktor Davydych | [Read More](https://medium.com/p/dff51789b14e) |
+| Mon, 29 Sep 2025 16:02:16 GMT | New TechQuantus Free Web Tools — Simple, Fast & Browser-Based | Eduardo Milhomem | [Read More](https://medium.com/p/c4337126cebc) |
+| Mon, 29 Sep 2025 16:02:15 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools-Part 3 | Robert Onyango | [Read More](https://medium.com/p/9e96e033fc59) |
+| Mon, 29 Sep 2025 16:01:55 GMT | How SentryPC Helps Schools Monitor Student Devices and Improve School Security | Paul Meyer | [Read More](https://medium.com/p/777ae296268c) |
+| Mon, 29 Sep 2025 15:59:52 GMT | Indian Army Terrier Cyber Quest 2025 - INDIAN ARMY CTF Conducted by CyberPeace Foundation x Indian… | Naveen Kumar | [Read More](https://medium.com/p/f2b17766c6c9) |
+| Mon, 29 Sep 2025 15:50:32 GMT | HTTP Methods and Their Importance in Security | Prathiush Jayaprakash | [Read More](https://medium.com/p/308782660651) |
+| Mon, 29 Sep 2025 15:47:20 GMT | APPROXIMATE COMPUTING | Sıla Pekşen | [Read More](https://medium.com/p/c92f53e8c391) |
+| Mon, 29 Sep 2025 15:42:12 GMT | Ataques DDoS: el blackout digital que puede tumbar tu negocio en segundos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/23b856c297dd) |
+| Mon, 29 Sep 2025 15:38:45 GMT | Offensive Security After the Price Collapse | Daniel Knight | [Read More](https://medium.com/p/e0ea00ba009b) |
+| Mon, 29 Sep 2025 15:38:43 GMT | How Digital Sovereignty Laws Will Reshape Global Tech Markets | Intellitron Genesis | [Read More](https://medium.com/p/c390a4338d09) |
 | Mon, 29 Sep 2025 15:38:13 GMT | What is HTTP Status Codes — 200, 300, and 400 Series | Prathiush Jayaprakash | [Read More](https://medium.com/p/879c76a7652f) |
 | Mon, 29 Sep 2025 15:35:09 GMT | 6 Secret AI tools you’ve likely never used before but definitely should in 2025 | sana irshad | [Read More](https://medium.com/p/5dff0dd2a448) |
 | Mon, 29 Sep 2025 15:30:32 GMT | Hackersdaddy ROUGE CTF 2025 — Complete Writeups | 0verlo0ked | [Read More](https://medium.com/p/9c47653afb53) |
@@ -102,14 +113,3 @@ Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) 
 | Mon, 29 Sep 2025 11:35:45 GMT | CompTIA Security+ Training Course: Step Into Cybersecurity Success | Manish | [Read More](https://medium.com/p/c6569245aefc) |
 | Mon, 29 Sep 2025 11:31:51 GMT | TryHackMe #66 - Unified Kill Chain | 0xGroot | [Read More](https://medium.com/p/83576363b740) |
 | Mon, 29 Sep 2025 11:31:50 GMT | I let AI handle my project — But Did It Make My Computer Science Degree Useless? | Ameya Shanbhag | [Read More](https://medium.com/p/12a84bd3cc6e) |
-| Mon, 29 Sep 2025 11:27:51 GMT | TryHackMe #65 - Cyber Kill Chain | 0xGroot | [Read More](https://medium.com/p/e31e71cb9445) |
-| Mon, 29 Sep 2025 11:24:46 GMT | How One API Response Exposed an Entire Cloud Storage Container ☁️ | Mahmoud Amin | [Read More](https://medium.com/p/e05f7597a6bb) |
-| Mon, 29 Sep 2025 11:24:31 GMT | Cracking the Code: How I Decrypted a Mobile App’s ‘Secure’ Login Secrets | Blue_eye | [Read More](https://medium.com/p/2757653eb240) |
-| Mon, 29 Sep 2025 11:21:50 GMT | TryHackMe #64 - Pyramid Of Pain | 0xGroot | [Read More](https://medium.com/p/68f05dcd047b) |
-| Mon, 29 Sep 2025 11:14:48 GMT | Stop Drowning in Data: Build Your Own CTI Aggregator for Free | Adam Goss | [Read More](https://medium.com/p/10668dc280b2) |
-| Mon, 29 Sep 2025 11:13:40 GMT | Abusing Unconstrained Delegation — Users | SeverSerenity | [Read More](https://medium.com/p/f543f4f96d8e) |
-| Mon, 29 Sep 2025 11:12:49 GMT | Building an Enterprise VLAN Network with Inter‑VLAN Routing in Cisco Packet Tracer | Hashan Jr | [Read More](https://medium.com/p/20a35a71f57c) |
-| Mon, 29 Sep 2025 11:11:52 GMT | Cybersecurity in 2026: Key Trends and How to Stay Ahead | Brittney Ginther | [Read More](https://medium.com/p/08589e5e4a06) |
-| Mon, 29 Sep 2025 11:06:11 GMT | How Hackers Steal Your SIM Card While It’s Still in Your Phone — and How to Stop Them | Cyberwise | [Read More](https://medium.com/p/a47e7a8f33dd) |
-| Mon, 29 Sep 2025 11:02:40 GMT | Security incidents Essentials in NDR Solutions | NetWitness | [Read More](https://medium.com/p/92f0133ac682) |
-| Mon, 29 Sep 2025 11:01:54 GMT | Piggy- Network Investigation Writeup | shadowdust5 | [Read More](https://medium.com/p/6a19a8ad656a) |
