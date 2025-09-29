@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 11:37:00 GMT | TryHackMe #67 - Diamond Model | 0xGroot | [Read More](https://medium.com/p/faa01384fafe) |
+| Mon, 29 Sep 2025 11:31:51 GMT | TryHackMe #66 - Unified Kill Chain | 0xGroot | [Read More](https://medium.com/p/83576363b740) |
+| Mon, 29 Sep 2025 11:31:50 GMT | I let AI handle my project — But Did It Make My Computer Science Degree Useless? | Ameya Shanbhag | [Read More](https://medium.com/p/12a84bd3cc6e) |
+| Mon, 29 Sep 2025 11:27:51 GMT | TryHackMe #65 - Cyber Kill Chain | 0xGroot | [Read More](https://medium.com/p/e31e71cb9445) |
+| Mon, 29 Sep 2025 11:24:46 GMT | How One API Response Exposed an Entire Cloud Storage Container ☁️ | Mahmoud Amin | [Read More](https://medium.com/p/e05f7597a6bb) |
+| Mon, 29 Sep 2025 11:24:31 GMT | Cracking the Code: How I Decrypted a Mobile App’s ‘Secure’ Login Secrets | Blue_eye | [Read More](https://medium.com/p/2757653eb240) |
+| Mon, 29 Sep 2025 11:21:50 GMT | TryHackMe #64 - Pyramid Of Pain | 0xGroot | [Read More](https://medium.com/p/68f05dcd047b) |
+| Mon, 29 Sep 2025 11:14:48 GMT | Stop Drowning in Data: Build Your Own CTI Aggregator for Free | Adam Goss | [Read More](https://medium.com/p/10668dc280b2) |
 | Mon, 29 Sep 2025 11:13:40 GMT | Abusing Unconstrained Delegation — Users | SeverSerenity | [Read More](https://medium.com/p/f543f4f96d8e) |
+| Mon, 29 Sep 2025 11:12:49 GMT | Building an Enterprise VLAN Network with Inter‑VLAN Routing in Cisco Packet Tracer | Hashan Jr | [Read More](https://medium.com/p/20a35a71f57c) |
+| Mon, 29 Sep 2025 11:11:52 GMT | Cybersecurity in 2026: Key Trends and How to Stay Ahead | Brittney Ginther | [Read More](https://medium.com/p/08589e5e4a06) |
 | Mon, 29 Sep 2025 11:06:11 GMT | How Hackers Steal Your SIM Card While It’s Still in Your Phone — and How to Stop Them | Cyberwise | [Read More](https://medium.com/p/a47e7a8f33dd) |
 | Mon, 29 Sep 2025 11:02:40 GMT | Security incidents Essentials in NDR Solutions | NetWitness | [Read More](https://medium.com/p/92f0133ac682) |
 | Mon, 29 Sep 2025 11:01:54 GMT | Piggy- Network Investigation Writeup | shadowdust5 | [Read More](https://medium.com/p/6a19a8ad656a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 07:26:53 GMT | Managing Multiple GitHub Accounts with SSH Keys | Sanira Liyanage | [Read More](https://medium.com/p/c64e39d24ebd) |
 | Mon, 29 Sep 2025 07:26:53 GMT | Why Embracing IT is an Important Business Strategy | Matthew A | [Read More](https://medium.com/p/cb4bb61605b5) |
 | Mon, 29 Sep 2025 07:24:37 GMT | Why JavaScript Uses async/await Instead of Just await | Tech With Curly Girl | [Read More](https://medium.com/p/82c1f26127ba) |
-| Mon, 29 Sep 2025 07:22:15 GMT | 5 Pro Bug Bounty Automation Tips to Maximize Your Findings | Saumadip Mandal | [Read More](https://medium.com/p/8f515b5003e5) |
-| Mon, 29 Sep 2025 07:21:51 GMT | Advanced Credential Dumping Techniques with Mimikatz | Esra Kayhan | [Read More](https://medium.com/p/9fa9b1e8eae9) |
-| Mon, 29 Sep 2025 07:21:29 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/22af2b187c73) |
-| Mon, 29 Sep 2025 07:14:33 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/d399143859d8) |
-| Mon, 29 Sep 2025 07:12:20 GMT | PicoCTF Web Exploitation Walkthrough - Insp3ct0r | Deepika  B | [Read More](https://medium.com/p/623fde3ac1fb) |
-| Mon, 29 Sep 2025 07:09:29 GMT | Inter-Agent Trust Modeling and Federated Trust Networks | Ruchik Dave | [Read More](https://medium.com/p/e4d822091ad6) |
-| Mon, 29 Sep 2025 07:08:16 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/1ff7ff482f8f) |
-| Mon, 29 Sep 2025 07:06:13 GMT | Common Challenges in Managing Dedicated Development Teams | Alex | [Read More](https://medium.com/p/8f715670ca69) |
-| Mon, 29 Sep 2025 06:51:23 GMT | How to Conduct a Comprehensive Security Posture Assessment in 5 Easy Steps. | Skysecure Technologies | [Read More](https://medium.com/p/7030d198ccd6) |
-| Mon, 29 Sep 2025 06:50:58 GMT | Terms and Conditions Attorney for Websites & Mobile App | Hansen Tong | [Read More](https://medium.com/p/c2bbed6b4238) |
