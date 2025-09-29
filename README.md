@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 10:09:25 GMT | Top 10 trusted IT companies in Colombia: 2025 list | N-iX | [Read More](https://medium.com/p/18e73d0684e4) |
+| Mon, 29 Sep 2025 10:08:40 GMT | Scaling Your Identity Infrastructure: From Single Domain to Forests in Active Directory | Sumit Sah | [Read More](https://medium.com/p/8146b9bee3f8) |
+| Mon, 29 Sep 2025 10:07:51 GMT | How a “Tiny” UI Detail Can Hurt Your Business | Krypto | [Read More](https://medium.com/p/16e62b7b1041) |
+| Mon, 29 Sep 2025 10:07:35 GMT | Cybersecurity Student’s Dilemma: Laptop or PC? | Authlyn | [Read More](https://medium.com/p/7db390db9eba) |
+| Mon, 29 Sep 2025 10:06:36 GMT | Linux Honeypots: Trapping Attackers | Eren Cankut Uysal | [Read More](https://medium.com/p/a26ce30d2ec4) |
+| Mon, 29 Sep 2025 10:05:00 GMT | EchoLeak: When Your AI Copilot Becomes the Hacker’s Backdoor | Yash Gorasiya | [Read More](https://medium.com/p/a5497816da50) |
+| Mon, 29 Sep 2025 10:02:56 GMT | The OWASP Top 10: A Beginner-Friendly Guide to Web Application Security | Ritvik | [Read More](https://medium.com/p/0f5008d2198c) |
+| Mon, 29 Sep 2025 10:02:54 GMT | Reverse Engineering Session 2 by KK TAN ~ Real-world study CVE-2025–8088 [Experience Sharing] | Cy3erS@up | [Read More](https://medium.com/p/24fed4fd4003) |
+| Mon, 29 Sep 2025 10:02:01 GMT | OWASP Top 10: Not Just a List, It’s a Mindset Shift | SilentInject | [Read More](https://medium.com/p/daf5279f7b97) |
+| Mon, 29 Sep 2025 09:57:39 GMT | Signed Evil: When Hackers Masquerade as Trustworthy? | Truspex | [Read More](https://medium.com/p/c7665c74837d) |
+| Mon, 29 Sep 2025 09:57:19 GMT | When AI Meets Compliance: The Hidden Data Risks Firms Overlook | Chris Stevens | [Read More](https://medium.com/p/9737c99d189d) |
+| Mon, 29 Sep 2025 09:51:24 GMT | Farewell to the Security Paradox: Why an EAL6+ Military-Grade Wallet is the Ultimate Destination… | Digital Shield | [Read More](https://medium.com/p/80f21277360d) |
+| Mon, 29 Sep 2025 09:50:44 GMT | The Psychology of Phishing: Understanding Social Engineering | Cyber Security Research | [Read More](https://medium.com/p/ed9de847c92c) |
+| Mon, 29 Sep 2025 09:50:25 GMT | Advent of cyber ’24 — Day 2 | Gligits.ini | [Read More](https://medium.com/p/3fa9eaed0264) |
+| Mon, 29 Sep 2025 09:49:49 GMT | Securing AWS Bastion Hosts: Linux Hardening, MFA, and Monitoring Best Practices | Fabius lihanda | [Read More](https://medium.com/p/46894c514e68) |
+| Mon, 29 Sep 2025 09:49:19 GMT | Air-Gapped Signing: How Digital Shield Ends the Web3 Security Compromise with Verifiable… | Digital Shield Offcial | [Read More](https://medium.com/p/315f74a739f6) |
+| Mon, 29 Sep 2025 09:48:16 GMT | Through the webcam, I actually saw… | liu sdgs | [Read More](https://medium.com/p/e2802809847b) |
+| Mon, 29 Sep 2025 09:47:01 GMT | DockerLabs Writeup — ApiBase (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7d146fa448ed) |
+| Mon, 29 Sep 2025 09:41:51 GMT | The Hardest Things I’ve Implemented in DevOps | Zudonu Osomudeya | [Read More](https://medium.com/p/1958328804fe) |
 | Mon, 29 Sep 2025 09:37:52 GMT | AWS IAM Secrets Engineers Only Learn On-Call at 3AM | Ismail Kovvuru | [Read More](https://medium.com/p/3b7b85030188) |
 | Mon, 29 Sep 2025 09:30:26 GMT | The Human Firewall: Training Employees for Cyber Awareness | Cyber Security Research | [Read More](https://medium.com/p/c115819c3e75) |
 | Mon, 29 Sep 2025 09:26:45 GMT | N8N is Awesome…! - Mejbankadir - Ethical Hacker and Tech Enthusiast | Mejbankadir | [Read More](https://medium.com/p/bcd76c8ad9dd) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 05:15:34 GMT | SeqOps: Proactive Cybersecurity for a Constantly Evolving Digital World | SEQOPS | [Read More](https://medium.com/p/5d3d30e87bfe) |
 | Mon, 29 Sep 2025 05:15:33 GMT | The Role of Master Protection in Modern Corporate Security | Mindfully SEO | [Read More](https://medium.com/p/dcc53bf15506) |
 | Mon, 29 Sep 2025 05:09:29 GMT | Digital Life, Hidden Dangers di Keseharian Kita | Brian | [Read More](https://medium.com/p/e393eda672a7) |
-| Mon, 29 Sep 2025 05:07:48 GMT | One Dark Web Click That Changed Everything: Why I’ll Never Make That Mistake Again | John Doe | [Read More](https://medium.com/p/7610e650c8f4) |
-| Mon, 29 Sep 2025 05:04:49 GMT | iPhone 17 Pro Camera Test 2025: Night Mode and Zoom Compared | Addison Lee | [Read More](https://medium.com/p/4f8ffda2f4cf) |
-| Mon, 29 Sep 2025 05:01:54 GMT | The Biggest Crypto Hacks in History and What We Learned | Farhad Ali | [Read More](https://medium.com/p/008fd6aa8764) |
-| Mon, 29 Sep 2025 04:55:39 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review 2025 | Jufagax | [Read More](https://medium.com/p/e63d02613735) |
-| Mon, 29 Sep 2025 04:55:23 GMT | CBK Launches Sector-Wide Cybersecurity Centre Amid Rising Attacks | SafetyDetectives Research Team | [Read More](https://medium.com/p/dbee8a991943) |
-| Mon, 29 Sep 2025 04:51:40 GMT | PostgreSQL 17 vs 18: Migration Guide for AI and High-Performance Applications | Rizqi Mulki | [Read More](https://medium.com/p/db8ea8261d67) |
-| Mon, 29 Sep 2025 04:47:57 GMT | Seven Ways Healthcare IT Solutions Improve Patient Care | Eclarity solutions Ltd | [Read More](https://medium.com/p/93dde871f71a) |
-| Mon, 29 Sep 2025 04:46:39 GMT | What’s New in PostgreSQL 18: Security, Performance, and AI Enhancements | Rizqi Mulki | [Read More](https://medium.com/p/48c5f515d65a) |
-| Mon, 29 Sep 2025 04:46:24 GMT | Why OAuth 2.0 Is Being Quietly Replaced (The Security Standard Big Tech Won’t Announce) | Coders Stop | [Read More](https://medium.com/p/0d03048cc405) |
-| Mon, 29 Sep 2025 04:44:42 GMT | The Top Cybersecurity Services Every Business Should Consider | VLink | [Read More](https://medium.com/p/d19c95911525) |
-| Mon, 29 Sep 2025 04:33:16 GMT | Sony Ericsson Xperia Neo vs BlackBerry Evolve: Specs Explained | Ella Walker | [Read More](https://medium.com/p/9efccf0d1c30) |
-| Mon, 29 Sep 2025 04:31:19 GMT | Top 7 Cyber Security Threats in 2025 & How to Prepare” | TMZ Work | [Read More](https://medium.com/p/2afa904304b3) |
-| Mon, 29 Sep 2025 04:30:57 GMT | Why Cybersecurity Will Need More Humans — Not Less — in the Age of AI | Juan Pablo Castro | [Read More](https://medium.com/p/a17c281ca879) |
-| Mon, 29 Sep 2025 04:27:13 GMT | PostgreSQL 18 Released: Revolutionary Asynchronous I/O Subsystem Explained | Rizqi Mulki | [Read More](https://medium.com/p/494b4f4d56f4) |
-| Mon, 29 Sep 2025 04:20:11 GMT | Opened a Can of XWorms | grepStrength | [Read More](https://medium.com/p/33fde9d2aee6) |
-| Mon, 29 Sep 2025 04:16:45 GMT | 7 Cybersecurity Myths That Put You in Danger Every Day | Arfa | [Read More](https://medium.com/p/9af282c3408a) |
-| Mon, 29 Sep 2025 04:13:27 GMT | The Day I Almost Got Phished And How It Changed My Security Forever | Arfa | [Read More](https://medium.com/p/117ced0d81af) |
-| Mon, 29 Sep 2025 04:12:45 GMT | Token Trouble: How Leaked JWTs Let Me Become Everyone on the Internet | Iski | [Read More](https://medium.com/p/cb02acde43f2) |
-| Mon, 29 Sep 2025 04:10:47 GMT | Oktane 2025: Where Identity Becomes the Operating System for AI | Siva Desetti | [Read More](https://medium.com/p/65ce63682463) |
