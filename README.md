@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 23:00:26 GMT | Building an AI-Powered WAF: When Machine Learning Meets Web Security | Yevhenii Zhuk | [Read More](https://medium.com/p/d3038f591b58) |
+| Mon, 29 Sep 2025 22:56:39 GMT | Epidemics we cannot see | Progsky | [Read More](https://medium.com/p/3f17d3dc4602) |
+| Mon, 29 Sep 2025 22:52:50 GMT | The Future of Finance: Why Speed, Transparency, and Security Define Survival | EHMPE RHOR | [Read More](https://medium.com/p/77195f07c231) |
+| Mon, 29 Sep 2025 22:51:39 GMT | Real-time Cryptographic Agility: 
+The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](https://medium.com/p/ad457e6829b2) |
+| Mon, 29 Sep 2025 22:48:37 GMT | Monday Cyber Brief — September 29 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/0bcf7b975e0b) |
+| Mon, 29 Sep 2025 22:44:31 GMT | How a Simple Python Bind Shell Works | Taulan Zauzanov | [Read More](https://medium.com/p/6929c1d89b6b) |
+| Mon, 29 Sep 2025 22:37:40 GMT | ⌚All Xiaomi watches hacked (Cross Tenant IDOR) | Hohky | [Read More](https://medium.com/p/98b46c3f8705) |
+| Mon, 29 Sep 2025 22:33:44 GMT | The Human Factor in Vulnerability Management: Analyst Fatigue, Bias, and Decision Errors | Sai Krishna Kakarla | [Read More](https://medium.com/p/075452fb6bf0) |
 | Mon, 29 Sep 2025 22:25:55 GMT | Secure Every Event with 24/7 Remote CCTV Monitoring! | Visual Monitoring Solutions | [Read More](https://medium.com/p/d494bb990856) |
 | Mon, 29 Sep 2025 22:23:44 GMT | India to finally claim its UNSC Permanent Seat and VETO Power… | Everclear | [Read More](https://medium.com/p/f958094734bc) |
 | Mon, 29 Sep 2025 22:14:33 GMT | WhatsApp Zero-Click Shock: How a Malicious DNG File Turned Photos into Silent Spies | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ede9dc726f6b) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 15:47:20 GMT | APPROXIMATE COMPUTING | Sıla Pekşen | [Read More](https://medium.com/p/c92f53e8c391) |
 | Mon, 29 Sep 2025 15:42:12 GMT | Ataques DDoS: el blackout digital que puede tumbar tu negocio en segundos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/23b856c297dd) |
 | Mon, 29 Sep 2025 15:38:45 GMT | Offensive Security After the Price Collapse | Daniel Knight | [Read More](https://medium.com/p/e0ea00ba009b) |
-| Mon, 29 Sep 2025 15:38:43 GMT | How Digital Sovereignty Laws Will Reshape Global Tech Markets | Intellitron Genesis | [Read More](https://medium.com/p/c390a4338d09) |
-| Mon, 29 Sep 2025 15:38:13 GMT | What is HTTP Status Codes — 200, 300, and 400 Series | Prathiush Jayaprakash | [Read More](https://medium.com/p/879c76a7652f) |
-| Mon, 29 Sep 2025 15:35:09 GMT | 6 Secret AI tools you’ve likely never used before but definitely should in 2025 | sana irshad | [Read More](https://medium.com/p/5dff0dd2a448) |
-| Mon, 29 Sep 2025 15:30:32 GMT | Hackersdaddy ROUGE CTF 2025 — Complete Writeups | 0verlo0ked | [Read More](https://medium.com/p/9c47653afb53) |
-| Mon, 29 Sep 2025 15:22:24 GMT | Viruses vs. Malware vs. Ransomware: How to Tell the Difference and Fix Them | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/11e83d76f6d9) |
-| Mon, 29 Sep 2025 15:22:11 GMT | Preventive Maintenance Tips to Keep Your Computer Running Smoothly | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/1c38c7fd76ff) |
-| Mon, 29 Sep 2025 15:21:58 GMT | How to Speed Up a Slow Computer Without Spending a Fortune | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/93c6c6ed1f9a) |
-| Mon, 29 Sep 2025 15:19:07 GMT | Stop Typing Passwords: How ssh-copy-id Makes SSH Login Easy | Sainathmekala | [Read More](https://medium.com/p/9af12c1e59fe) |
