@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 22:25:55 GMT | Secure Every Event with 24/7 Remote CCTV Monitoring! | Visual Monitoring Solutions | [Read More](https://medium.com/p/d494bb990856) |
+| Mon, 29 Sep 2025 22:23:44 GMT | India to finally claim its UNSC Permanent Seat and VETO Power… | Everclear | [Read More](https://medium.com/p/f958094734bc) |
+| Mon, 29 Sep 2025 22:14:33 GMT | WhatsApp Zero-Click Shock: How a Malicious DNG File Turned Photos into Silent Spies | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ede9dc726f6b) |
+| Mon, 29 Sep 2025 22:10:42 GMT | Agentic AI is Reshaping Cybersecurity and Fraud Prevention | SamesurfAI | [Read More](https://medium.com/p/e4cee978b1f0) |
+| Mon, 29 Sep 2025 22:09:03 GMT | Introducing TLP:Black — A New Layer of Confidentiality | Vishal Thakur | [Read More](https://medium.com/p/9e24bb314f4f) |
 | Mon, 29 Sep 2025 22:02:57 GMT | IT Security Services, Cyber Security Experts, and Incident Response by CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/fe16f34953d8) |
 | Mon, 29 Sep 2025 21:57:13 GMT | The Proposal | RTUJr. | [Read More](https://medium.com/p/0e97d25c2761) |
 | Mon, 29 Sep 2025 21:53:01 GMT | Understanding Data Encryption: Best Practices & Workflows | Hasanhawary | [Read More](https://medium.com/p/e4d13fcb6e73) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 15:22:11 GMT | Preventive Maintenance Tips to Keep Your Computer Running Smoothly | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/1c38c7fd76ff) |
 | Mon, 29 Sep 2025 15:21:58 GMT | How to Speed Up a Slow Computer Without Spending a Fortune | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/93c6c6ed1f9a) |
 | Mon, 29 Sep 2025 15:19:07 GMT | Stop Typing Passwords: How ssh-copy-id Makes SSH Login Easy | Sainathmekala | [Read More](https://medium.com/p/9af12c1e59fe) |
-| Mon, 29 Sep 2025 15:18:56 GMT | Meta Pool: Multi-Chain Audits Backing Our Security | metapool.near | [Read More](https://medium.com/p/9078e8a0bc6c) |
-| Mon, 29 Sep 2025 15:16:09 GMT | Failure means progress | Forrest Caffray | [Read More](https://medium.com/p/f2b9c158177f) |
-| Mon, 29 Sep 2025 15:15:07 GMT | GZR Observer Daily — Sep 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/7172b29e4959) |
-| Mon, 29 Sep 2025 15:11:57 GMT | Hacking an AI with Its Own Words: My First Prompt Injection Win | Yash Mane | [Read More](https://medium.com/p/60ce4b025ad6) |
-| Mon, 29 Sep 2025 15:11:21 GMT | Unlock Financial Accuracy with Next-Gen Reconciliation Automation Tools | Kosh AI | [Read More](https://medium.com/p/73fabb8b7ed3) |
