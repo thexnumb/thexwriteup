@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 03:32:11 GMT | AI in the SOC: How Machine Learning Transforms Threat Detection | Amrik  Hanjra | [Read More](https://medium.com/p/5f4dd25ad972) |
+| Mon, 29 Sep 2025 03:31:49 GMT | Intel’s Internal Websites Exploited: What the “Intel Outside” Breach Means for Security | Deven Chhajed | [Read More](https://medium.com/p/9e25a9eb23c2) |
+| Mon, 29 Sep 2025 03:28:49 GMT | RST TI Report Digest: 29 Sep 2025 | RST Cloud | [Read More](https://medium.com/p/319e2e1feb15) |
+| Mon, 29 Sep 2025 03:27:10 GMT | Transform Your Home with Smart Gadgets: Security, Kitchen & Decor Solutions 2025 | Leandro | [Read More](https://medium.com/p/2f8769f39c41) |
+| Mon, 29 Sep 2025 03:26:19 GMT | DSI sous pression en 2026 : les 5 fronts stratégiques à maîtriser | Eddy AZEBAZE | [Read More](https://medium.com/p/9f1af5b5979a) |
+| Mon, 29 Sep 2025 03:22:10 GMT | Web-Challenge CTF HTB,why parse_url() with curl is dangerous?,php | seks99x | [Read More](https://medium.com/p/0dd691b9de46) |
+| Mon, 29 Sep 2025 03:21:49 GMT | Write-up PicoCTF: Web Exploitation ‘Bookmarklet’ | Muhammad Khairin | [Read More](https://medium.com/p/7dab451f547a) |
+| Mon, 29 Sep 2025 03:13:41 GMT | Why OEMs Must Design “Security Trust as a Service (STaaS) | Dr. Deep Pandey | [Read More](https://medium.com/p/26aa56035944) |
 | Mon, 29 Sep 2025 03:01:55 GMT | 5 Types of Authentication Tokens Every Beginner Should Know | Donie Sweeton | [Read More](https://medium.com/p/5073ca9b2319) |
+| Mon, 29 Sep 2025 03:01:50 GMT | WHAT I LEARNT ON NETWORKING | John Mark | [Read More](https://medium.com/p/cff43d384c45) |
 | Mon, 29 Sep 2025 02:47:25 GMT | Demystifying Windows Domain Authentication: A Journey Through Kerberos and NetNTLM | Sumit Sah | [Read More](https://medium.com/p/8e6b034abb7b) |
 | Mon, 29 Sep 2025 02:46:55 GMT | When Giants Move: What IBM’s AI Partnership Means for Your Small Business | Natasha | [Read More](https://medium.com/p/b1d7606862e7) |
 | Mon, 29 Sep 2025 02:42:48 GMT | Hackers Love Short Passwords. Stop Making Them Happy. | Fechi Iroegbu | [Read More](https://medium.com/p/faadfd92d766) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 18:07:06 GMT | VulnLab — SQL injection | Dalf | [Read More](https://medium.com/p/f7dc558aacd8) |
 | Sun, 28 Sep 2025 18:06:19 GMT | Pawn — An FTP Enumeration & Foothold Walkthrough (Part of my cybersecurity journey) | Ola | [Read More](https://medium.com/p/0d60339b455f) |
 | Sun, 28 Sep 2025 17:59:48 GMT | Understanding Defect Triage in Software Testing | Charukshi Wijesinghe | [Read More](https://medium.com/p/26bb128cf7d9) |
-| Sun, 28 Sep 2025 17:51:21 GMT | Why RSA and ECC Won’t Survive Quantum Computing — And What Comes Next? | Rahul Balaskandan | [Read More](https://medium.com/p/ac83d33500ee) |
-| Sun, 28 Sep 2025 17:46:46 GMT | Why Hiding Won’t Heal You | Sara BenDaoud | [Read More](https://medium.com/p/aaf52ac5efcf) |
-| Sun, 28 Sep 2025 17:38:08 GMT | From Steam to Silicon: AI vs The Industrial Revolution — Reflections on the Next Great Revolution | Vinay Kotian | [Read More](https://medium.com/p/d83da12a883e) |
-| Sun, 28 Sep 2025 17:32:06 GMT | Mastering Wazuh Cluster Diagnostics: Tackling “Cluster is Not Running” and Beyond. | Wilklins Nyatteng | [Read More](https://medium.com/p/45960d229ea6) |
-| Sun, 28 Sep 2025 17:30:08 GMT | Mastering Nmap in 2025: Advanced Nmap Tactics for Bug Bounty Hunters & Security Pros — Final Part | appsecvenue | [Read More](https://medium.com/p/ca5f53378c0d) |
-| Sun, 28 Sep 2025 17:25:42 GMT | How to Create a Hunting Hypothesis | Deniz Topaloglu | [Read More](https://medium.com/p/c0ce12f5c15b) |
-| Sun, 28 Sep 2025 17:22:10 GMT | Simple IDOR — Ketika Pengguna Tidak Sah Bisa Melihat Tugas Orang Lain | Robi Mohamad subagja | [Read More](https://medium.com/p/6ef274c79934) |
-| Sun, 28 Sep 2025 17:19:36 GMT | Network Segmentation: A Necessary Standard | Blessing Munachimso Duru | [Read More](https://medium.com/p/b44341f8eeb4) |
-| Sun, 28 Sep 2025 17:17:04 GMT | Banking Trojans in Latin America: the race for control of digital money | Rodrigo Gutierrez | [Read More](https://medium.com/p/9efd0494d756) |
