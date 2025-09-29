@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 19:12:19 GMT | Containers & Docker Exploitation | Cybersecplayground | [Read More](https://medium.com/p/c9155e7540b5) |
+| Mon, 29 Sep 2025 19:05:24 GMT | Leverage the tools without compromising your voice. | Aliyu Ibrahim | [Read More](https://medium.com/p/4b267928dd7b) |
+| Mon, 29 Sep 2025 19:04:28 GMT | Man in the middle attack with bettercap | Kiptryin | [Read More](https://medium.com/p/690631a48b9b) |
+| Mon, 29 Sep 2025 18:56:09 GMT | The Truth About Public WiFi: How Safe Is It Really? | Aj | [Read More](https://medium.com/p/aafb8f1ea332) |
+| Mon, 29 Sep 2025 18:55:58 GMT | That Viral ‘Zoom Hack’ Isn’t a Hack: It’s a Social Engineering Scam | CyberAmir | [Read More](https://medium.com/p/a3c23d197d67) |
+| Mon, 29 Sep 2025 18:50:36 GMT | CMMC Requirements: What Businesses Need to Know | Sammie Singh | [Read More](https://medium.com/p/ca2fdc3f273c) |
 | Mon, 29 Sep 2025 18:41:16 GMT | The Designer’s Role in Cybersecurity | Djagileva Maria | [Read More](https://medium.com/p/48f2e09d133f) |
 | Mon, 29 Sep 2025 18:37:53 GMT | The Importance of Regular Software Updates and Patch Management | Bhushan | [Read More](https://medium.com/p/71357fe83962) |
 | Mon, 29 Sep 2025 18:32:30 GMT | Phone Scams Exposed: How Criminals Trick You and How to Stay Safe | SafeAeon Inc. | [Read More](https://medium.com/p/79e5d2635c19) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 14:01:59 GMT | Part 4: Compliance Standards: PCI- DSS, HIPAA & ISO | Intelithics | [Read More](https://medium.com/p/b702ffbe9b93) |
 | Mon, 29 Sep 2025 13:58:11 GMT | [TUGAS 2] MATA KULIAH SISTEM PENUNJANG KEPUTUSAN | Muhamad Kamal | [Read More](https://medium.com/p/c05ea6385e4b) |
 | Mon, 29 Sep 2025 13:56:21 GMT | The Fake Job Interview That Hijacks Your Computer | Aj | [Read More](https://medium.com/p/76aee8eb21b5) |
-| Mon, 29 Sep 2025 13:55:38 GMT | ISO 27001:2022 and AI Governance: A Practical Guide for IT Procurement | Aaron Rusz | [Read More](https://medium.com/p/7e68bf8e8245) |
-| Mon, 29 Sep 2025 13:50:02 GMT | How to Build a Security-First Culture in Your Organization | Abdullateef Hameed | [Read More](https://medium.com/p/9f497daf1740) |
-| Mon, 29 Sep 2025 13:44:57 GMT | IM Insight: AI + n8n = Smartest Security Analysis | IndiaMART Author | [Read More](https://medium.com/p/cb74a22dd560) |
-| Mon, 29 Sep 2025 13:37:50 GMT | Why Reliable CCTV Monitoring Is a Must for Every Business | Jane Tang | [Read More](https://medium.com/p/6a31e4dc59a2) |
-| Mon, 29 Sep 2025 13:35:15 GMT | The Bravery of Loving Again After Heartbreak | mari | [Read More](https://medium.com/p/db7428ff6358) |
-| Mon, 29 Sep 2025 13:32:09 GMT | P.O.O — Part 5: p00ned | XOR-Hacks | [Read More](https://medium.com/p/76baba2226e9) |
