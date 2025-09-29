@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 21:09:46 GMT | Do Men Deserve Flowers Too? | Ofentse Percy Mohloke | [Read More](https://medium.com/p/e369c9a0133e) |
+| Mon, 29 Sep 2025 21:01:05 GMT | PG Practice — Hutch (Windows) | Lepton | [Read More](https://medium.com/p/a3e1135dc48c) |
+| Mon, 29 Sep 2025 20:59:17 GMT | Setting up a home Web server for pentesting | Kelvin TC Law | [Read More](https://medium.com/p/eee8883abab1) |
+| Mon, 29 Sep 2025 20:59:11 GMT | All You Need to Know to Create a Strong Password | Seth McNew | [Read More](https://medium.com/p/3afc169ca7a4) |
+| Mon, 29 Sep 2025 20:46:31 GMT | Artificial Intelligence and Cybersecurity — Potential Benefits and Threats | Muhammad Ali Ihsan | [Read More](https://medium.com/p/312da729e757) |
+| Mon, 29 Sep 2025 20:45:07 GMT | My First Cybersecurity Win: Finding a Bug in the Very First Program I Tested | El moulaa Mohamed Nidhal | [Read More](https://medium.com/p/9c437caf2181) |
+| Mon, 29 Sep 2025 20:40:36 GMT | Real Time Threat Intelligence with a Cyber Security Company in Australia | Benchmark IT Services | [Read More](https://medium.com/p/4db0a33b6338) |
+| Mon, 29 Sep 2025 20:34:43 GMT | Compile-Time String Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a0d07606af29) |
+| Mon, 29 Sep 2025 20:31:55 GMT | Ai IN EVERYDAY of LIFE: | yusrah mumtaz | [Read More](https://medium.com/p/f8770580c0a2) |
 | Mon, 29 Sep 2025 20:21:29 GMT | Breaking into Cybersecurity: Skills You Can Learn This Weekend | Andrei Ivan | [Read More](https://medium.com/p/7809ea3c5738) |
 | Mon, 29 Sep 2025 20:15:53 GMT | Cybersecurity Consulting, Services, and Incident Response by CyberSecOp: Protect Your Business from… | Jeffery Walker | [Read More](https://medium.com/p/6e40304eadc6) |
 | Mon, 29 Sep 2025 20:14:24 GMT | Top 50 OSINT Tools Every Security Professional Should Know | Nazrul Islam Rana | [Read More](https://medium.com/p/d4c503be84b5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 14:59:56 GMT | When AI Turns Adversary: The Dark Side of Artificial Intelligence in Cybersecurity | Varun Raj | [Read More](https://medium.com/p/195bbdf6f507) |
 | Mon, 29 Sep 2025 14:58:35 GMT | Joining Computers to Active Directory | James Rawlings | [Read More](https://medium.com/p/5b050b8e11f4) |
 | Mon, 29 Sep 2025 14:57:52 GMT | 02- Kali Linux | SDNTechForum | [Read More](https://medium.com/p/bc5a62ce4057) |
-| Mon, 29 Sep 2025 14:55:26 GMT | How Mighty Hacker Recovery Helped Me Retrieve My Lost USD-USDT from a Wrong Wallet | Toby Minez | [Read More](https://medium.com/p/d9009e1e6a24) |
-| Mon, 29 Sep 2025 14:54:38 GMT | PG Practice — Nickel (Windows) | Lepton | [Read More](https://medium.com/p/0c1f4442dc52) |
-| Mon, 29 Sep 2025 14:53:56 GMT | Leadership Is Not What You Think | Vijay Kumar Gupta | [Read More](https://medium.com/p/fdb75cd7189c) |
-| Mon, 29 Sep 2025 14:48:40 GMT | hadow Is Shadow AI Hiding in Your Workflow? | Inclusion Cloud | [Read More](https://medium.com/p/e086e0ca22d8) |
-| Mon, 29 Sep 2025 14:44:21 GMT | Inclusive Hacking Ride-On Cars to Empower Children with Disabilities | Mikey Strauss | [Read More](https://medium.com/p/60e20ddb5b4a) |
-| Mon, 29 Sep 2025 14:37:29 GMT | Strengthening Business Resilience Through Modern Security and Compliance Solutions | Defend My Business | [Read More](https://medium.com/p/a6317ae25a70) |
-| Mon, 29 Sep 2025 14:36:39 GMT | Traps — A Security Measure To Catch The Problem Before It Becomes One | Lou | [Read More](https://medium.com/p/59301f804558) |
-| Mon, 29 Sep 2025 14:33:06 GMT | Interpol’s Operation HAECHI VI: Cybercrime Crackdown Freezes 68,000 Bank Accounts | TheReviewHive | [Read More](https://medium.com/p/4cde7b1d483e) |
-| Mon, 29 Sep 2025 14:31:32 GMT | Privilege Escalation 101 | Zaatil Asmawi | [Read More](https://medium.com/p/cf221314e5b7) |
