@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 03:01:55 GMT | 5 Types of Authentication Tokens Every Beginner Should Know | Donie Sweeton | [Read More](https://medium.com/p/5073ca9b2319) |
+| Mon, 29 Sep 2025 02:47:25 GMT | Demystifying Windows Domain Authentication: A Journey Through Kerberos and NetNTLM | Sumit Sah | [Read More](https://medium.com/p/8e6b034abb7b) |
+| Mon, 29 Sep 2025 02:46:55 GMT | When Giants Move: What IBM’s AI Partnership Means for Your Small Business | Natasha | [Read More](https://medium.com/p/b1d7606862e7) |
+| Mon, 29 Sep 2025 02:42:48 GMT | Hackers Love Short Passwords. Stop Making Them Happy. | Fechi Iroegbu | [Read More](https://medium.com/p/faadfd92d766) |
+| Mon, 29 Sep 2025 02:38:36 GMT | What I’ve Learned From The ISC2’s Webinar Entitled: “How Ransomware, APIs, and AI are Rewriting the… | Martin L | [Read More](https://medium.com/p/fbd1e23bf76e) |
+| Mon, 29 Sep 2025 02:35:43 GMT | The Imperative of Cyber Coalitions: Why Major Powers Cannot Afford Strategic Complacency | CCD-IS | [Read More](https://medium.com/p/75334c003312) |
+| Mon, 29 Sep 2025 02:35:28 GMT | Dancing with Python’s Oddities: My Journey into Strange Projects and Quirky Behaviors | Kainat Nafees | [Read More](https://medium.com/p/f2a833e6aed2) |
+| Mon, 29 Sep 2025 02:30:59 GMT | Game Mobile Online: Dari Cuma Main Buat Killing Time Sampai Jadi Lifestyle Anak Zaman Now | Dieorlife | [Read More](https://medium.com/p/03583d2d8641) |
+| Mon, 29 Sep 2025 02:29:35 GMT | GuideM Web Application & System Penetration Test Project | Martin L | [Read More](https://medium.com/p/9a241159eda8) |
+| Mon, 29 Sep 2025 02:29:24 GMT | Proofpoint Protect 2025: Guardian Certifications | Ashley Drey | [Read More](https://medium.com/p/5785827bd057) |
+| Mon, 29 Sep 2025 02:26:57 GMT | ACTIVITY: Installing SNORT IDS | Axel Liang Gono | [Read More](https://medium.com/p/0447f0035483) |
+| Mon, 29 Sep 2025 02:23:14 GMT | Cyber Threat Intelligence: Darkside Ransomware | Lilian  Ugwu | [Read More](https://medium.com/p/ca7f66d501a0) |
+| Mon, 29 Sep 2025 02:23:07 GMT | Chapter 15– Betrayal, Hacking, and Disappearance | Hope | [Read More](https://medium.com/p/7dec4863353a) |
+| Mon, 29 Sep 2025 02:21:14 GMT | Configuring SSL/TLS Certificates for Cloud SQL with a Private IP | Harinderjit Singh | [Read More](https://medium.com/p/18e924ae135d) |
+| Mon, 29 Sep 2025 02:20:34 GMT | Flu - Proving Grounds - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/932250fecc69) |
+| Mon, 29 Sep 2025 02:09:11 GMT | Golden and Silver Ticket Attacks — a practical explainer for defenders | Paritosh | [Read More](https://medium.com/p/48f318f21e42) |
+| Mon, 29 Sep 2025 01:37:32 GMT | Smarter Pentesting: How AI Shapes NucAIScan v1.2 | Onurcan Genç | [Read More](https://medium.com/p/04f7bc19714f) |
 | Mon, 29 Sep 2025 01:32:08 GMT | Evaluating Potential Cybersecurity Threats of Advanced AI | Synbit.7 | [Read More](https://medium.com/p/74d3bdd8ddad) |
 | Mon, 29 Sep 2025 01:31:06 GMT | HackTheBox - Nineveh | jniket | [Read More](https://medium.com/p/efa2db1bc5da) |
 | Mon, 29 Sep 2025 01:29:50 GMT | The “Happy Mask, Sad soul” | 5yzul | [Read More](https://medium.com/p/2d9b07cfc962) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 28 Sep 2025 17:22:10 GMT | Simple IDOR — Ketika Pengguna Tidak Sah Bisa Melihat Tugas Orang Lain | Robi Mohamad subagja | [Read More](https://medium.com/p/6ef274c79934) |
 | Sun, 28 Sep 2025 17:19:36 GMT | Network Segmentation: A Necessary Standard | Blessing Munachimso Duru | [Read More](https://medium.com/p/b44341f8eeb4) |
 | Sun, 28 Sep 2025 17:17:04 GMT | Banking Trojans in Latin America: the race for control of digital money | Rodrigo Gutierrez | [Read More](https://medium.com/p/9efd0494d756) |
-| Sun, 28 Sep 2025 17:12:49 GMT | Laravel’s Timebox: The Security Trick You’re Probably Ignoring | Sadique Ali | [Read More](https://medium.com/p/b982aa8f0643) |
-| Sun, 28 Sep 2025 17:10:18 GMT | Emoji Smuggling: How  Became a Covert Channel in Modern Messaging | Lemon | [Read More](https://medium.com/p/91a9f31866f4) |
-| Sun, 28 Sep 2025 16:57:08 GMT | KQL Query for Detecting Weaponized Microsoft Teams Installer (Oyster Malware) | Tomasz Kozlowski | [Read More](https://medium.com/p/688aeb473a1a) |
-| Sun, 28 Sep 2025 16:55:18 GMT | PUSAT123 - Bocor Tempat Viral Bermain Game Online Hari Ini | cokroach bizz2 | [Read More](https://medium.com/p/db61feb0c973) |
-| Sun, 28 Sep 2025 16:50:29 GMT | AI Dating Concierges: When Bumble’s Founder Decides Your Love Life Needs a Robot | Zero Trustor | [Read More](https://medium.com/p/83dcb2721bd8) |
-| Sun, 28 Sep 2025 16:48:35 GMT | Cyber Hygiene at Work | Pavlović Goran | [Read More](https://medium.com/p/61e413b37604) |
-| Sun, 28 Sep 2025 16:46:20 GMT | Top 10 Cybersecurity AI Tools for Businesses That Can Save You $1,000 Per Week | Madhavaraman | [Read More](https://medium.com/p/6597f285cd6b) |
-| Sun, 28 Sep 2025 16:38:19 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/4baa63388dce) |
-| Sun, 28 Sep 2025 16:33:06 GMT | First Steps into the Cybersecurity World - Day 1 Recap | El moulaa Mohamed Nidhal | [Read More](https://medium.com/p/b7c3f8584a2d) |
-| Sun, 28 Sep 2025 16:31:51 GMT | 10 FastAPI Security Defaults That Scale Cleanly | Modexa | [Read More](https://medium.com/p/47794b718665) |
-| Sun, 28 Sep 2025 16:31:02 GMT | DNS Tunneling Explained: The stealthy threat every Cybersecurity student must know! | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/5c2912bd0c05) |
-| Sun, 28 Sep 2025 16:31:01 GMT | Hacking APIs: Exploiting GraphQL | Israel Aráoz Severiche | [Read More](https://medium.com/p/1b69e6b3f0fe) |
-| Sun, 28 Sep 2025 16:23:11 GMT | ️ Error-Based SQL Injection: A Beginner-Friendly Deep Dive | S Kumar | [Read More](https://medium.com/p/7eb816dde380) |
-| Sun, 28 Sep 2025 16:17:23 GMT | Cracking the Code: A Human-Friendly Guide to Digital Self-Defense | Athishsagarkishan | [Read More](https://medium.com/p/905f1918c4c6) |
-| Sun, 28 Sep 2025 16:05:37 GMT | It hurts to feel deeply, but I’m proud that I do | Kaomi's Little Nest | [Read More](https://medium.com/p/e6e46c077cb3) |
-| Sun, 28 Sep 2025 16:01:06 GMT | Case for LLM Security Testing: Real-World Risks of Unsecured AI Systems | Whiteknightlabs | [Read More](https://medium.com/p/32c15b38b6ce) |
-| Sun, 28 Sep 2025 15:59:32 GMT | The Power of Words: 10 Things Great Leaders Say | Vijay Kumar Gupta | [Read More](https://medium.com/p/ea3627203249) |
