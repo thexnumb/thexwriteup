@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 12:38:13 GMT | What Does a Cyber Essentials Consultant Do? A UK Small Business Owner’s Guide | Paul Reynolds | [Read More](https://medium.com/p/26b7759bed26) |
+| Mon, 29 Sep 2025 12:37:14 GMT | Lab 1 — SQL Injection in WHERE Clause: How OR 1=1 — Exposes Hidden Products | Apexium Technologies Ltd | [Read More](https://medium.com/p/8d1d9828b7e5) |
+| Mon, 29 Sep 2025 12:36:44 GMT | Burp Suite Pro Installation & Setup Guide on Kali Linux | Apexium Technologies Ltd | [Read More](https://medium.com/p/a6793d16833d) |
+| Mon, 29 Sep 2025 12:30:24 GMT | Bandit - Level 0 → 1 - OverTheWire | Deepika  B | [Read More](https://medium.com/p/75b036afb30b) |
+| Mon, 29 Sep 2025 12:30:04 GMT | ASHR: Revolutionary Self-Healing Networks for the Next Generation | Aamir Hameed | [Read More](https://medium.com/p/a58d9382fcb3) |
+| Mon, 29 Sep 2025 12:27:00 GMT | Master Prompt Injection — The One Skill Every Modern Hacker & Defender Should Know | Beri Contraster | [Read More](https://medium.com/p/7016d9bc11b1) |
+| Mon, 29 Sep 2025 12:23:18 GMT | Interview: Inside the Mind of a Fake Bank Scammer | Internet Exposed | [Read More](https://medium.com/p/f5b99f754ec5) |
+| Mon, 29 Sep 2025 12:20:28 GMT | How I Secured Our School Network with a Sophos XGS 3100 Firewall | Root | [Read More](https://medium.com/p/fbdd52dd5b81) |
+| Mon, 29 Sep 2025 12:14:06 GMT | The Future of Identity Verification | CFE CERTIFICATION | [Read More](https://medium.com/p/ad07bc366d68) |
+| Mon, 29 Sep 2025 12:12:38 GMT | Rightsizing AWS Resources: From Manual to AI-Powered Optimization | Rizqi Mulki | [Read More](https://medium.com/p/731fe71aaa0d) |
+| Mon, 29 Sep 2025 12:07:31 GMT | Bandit - Level 0 - OverTheWire-Writeup … | Deepika  B | [Read More](https://medium.com/p/72e649f64bd9) |
+| Mon, 29 Sep 2025 11:59:57 GMT | Blockchain for Business Security: Optimize Transactions | Ujjwal  Kumar Heroxhost | [Read More](https://medium.com/p/515c95232341) |
+| Mon, 29 Sep 2025 11:54:10 GMT | Threat Hunting with CTI Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/bac6b76d5008) |
+| Mon, 29 Sep 2025 11:51:44 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/eb1662daea2a) |
+| Mon, 29 Sep 2025 11:49:06 GMT | Tools for Penetration Testing | Genrunic | [Read More](https://medium.com/p/4f06fb343116) |
+| Mon, 29 Sep 2025 11:45:12 GMT | How Application Security Auditing Protects Your Business from Hidden Threats | SmartCLOUD Australia | [Read More](https://medium.com/p/44493214db7f) |
+| Mon, 29 Sep 2025 11:44:30 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/81e439da3727) |
+| Mon, 29 Sep 2025 11:42:36 GMT | Approximation in Facility Location for Hospitals – Towards Smarter Healthcare Access
+Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) |
 | Mon, 29 Sep 2025 11:37:00 GMT | TryHackMe #67 - Diamond Model | 0xGroot | [Read More](https://medium.com/p/faa01384fafe) |
+| Mon, 29 Sep 2025 11:35:45 GMT | CompTIA Security+ Training Course: Step Into Cybersecurity Success | Manish | [Read More](https://medium.com/p/c6569245aefc) |
 | Mon, 29 Sep 2025 11:31:51 GMT | TryHackMe #66 - Unified Kill Chain | 0xGroot | [Read More](https://medium.com/p/83576363b740) |
 | Mon, 29 Sep 2025 11:31:50 GMT | I let AI handle my project — But Did It Make My Computer Science Degree Useless? | Ameya Shanbhag | [Read More](https://medium.com/p/12a84bd3cc6e) |
 | Mon, 29 Sep 2025 11:27:51 GMT | TryHackMe #65 - Cyber Kill Chain | 0xGroot | [Read More](https://medium.com/p/e31e71cb9445) |
@@ -93,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 08:08:07 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/895047544ad9) |
 | Mon, 29 Sep 2025 08:07:02 GMT | Business Email Compromise In Nigeria | O. J. Okpabi | [Read More](https://medium.com/p/d03b913b3a85) |
 | Mon, 29 Sep 2025 08:05:37 GMT | What is IT Vulnerability Assessment - VA Tools and Best Practices | QualysecEurope | [Read More](https://medium.com/p/b557c18ed09f) |
-| Mon, 29 Sep 2025 08:03:00 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐Earn with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc… | Blackbox | [Read More](https://medium.com/p/caf164551af1) |
-| Mon, 29 Sep 2025 08:02:13 GMT | I Hear Your Smile | Ruqayyah Ali | [Read More](https://medium.com/p/17806088332f) |
-| Mon, 29 Sep 2025 08:02:13 GMT | What HIBP Does vs What Plain-Text Leak Monitoring Adds | Alexandre Vandamme | [Read More](https://medium.com/p/a4d5295bdd71) |
-| Mon, 29 Sep 2025 08:01:49 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/783879fd9014) |
-| Mon, 29 Sep 2025 07:57:29 GMT | Leveling Up My Security Knowledge with Laravel + OWASP | Marian Pirvan | [Read More](https://medium.com/p/01292f0c664a) |
-| Mon, 29 Sep 2025 07:54:47 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/1d175b9afc21) |
-| Mon, 29 Sep 2025 07:48:13 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/1dd6f10119de) |
-| Mon, 29 Sep 2025 07:46:11 GMT | Best Practices for Deploying Kiosk Software Successfully | Vantage MDM | [Read More](https://medium.com/p/abdb16cf1d73) |
-| Mon, 29 Sep 2025 07:44:33 GMT | Web Zafiyetleri Serisi #5 | Didem Kış | [Read More](https://medium.com/p/2f97d449e69a) |
-| Mon, 29 Sep 2025 07:41:20 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/22cdee2ab457) |
-| Mon, 29 Sep 2025 07:35:36 GMT | ประจำวันจันทร์ที่ 29 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/541c7e2a4044) |
-| Mon, 29 Sep 2025 07:34:34 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/f00d41e5cb73) |
-| Mon, 29 Sep 2025 07:33:19 GMT | Building a Cyber Risk Quantification Agent: Part 3 The Future Roadmap | Rishubh | [Read More](https://medium.com/p/4c50e517506c) |
-| Mon, 29 Sep 2025 07:32:30 GMT | Why Saudi Businesses Now Demand 24/7 IT Support in a Competitive Market | Bluechip Advanced Technologies | [Read More](https://medium.com/p/de44dc08f537) |
-| Mon, 29 Sep 2025 07:28:11 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/b07e19a0bed4) |
-| Mon, 29 Sep 2025 07:27:12 GMT | My first PoC — CVE-2025-1550: Arbitrary Code Execution in Keras | Rama Hussein | [Read More](https://medium.com/p/61b75c17c1f6) |
-| Mon, 29 Sep 2025 07:26:53 GMT | Managing Multiple GitHub Accounts with SSH Keys | Sanira Liyanage | [Read More](https://medium.com/p/c64e39d24ebd) |
-| Mon, 29 Sep 2025 07:26:53 GMT | Why Embracing IT is an Important Business Strategy | Matthew A | [Read More](https://medium.com/p/cb4bb61605b5) |
-| Mon, 29 Sep 2025 07:24:37 GMT | Why JavaScript Uses async/await Instead of Just await | Tech With Curly Girl | [Read More](https://medium.com/p/82c1f26127ba) |
