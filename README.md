@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 20:15:53 GMT | Cybersecurity Consulting, Services, and Incident Response by CyberSecOp: Protect Your Business from… | Jeffery Walker | [Read More](https://medium.com/p/6e40304eadc6) |
+| Mon, 29 Sep 2025 20:14:24 GMT | Top 50 OSINT Tools Every Security Professional Should Know | Nazrul Islam Rana | [Read More](https://medium.com/p/d4c503be84b5) |
+| Mon, 29 Sep 2025 20:06:15 GMT | Secrets of JavaScript I Learned While Building Real Projects | Kainat Nafees | [Read More](https://medium.com/p/f1157b92aeee) |
+| Mon, 29 Sep 2025 19:53:31 GMT | When AI Learns to Lie: How Deepfakes & Agentic AI Are Breaking Identity | Veinu Vasisht | [Read More](https://medium.com/p/c6fa30db896a) |
+| Mon, 29 Sep 2025 19:48:20 GMT | Hack The Box: Scepter -Write-Up — Hard Difficulty — Scepter | kradis0 | [Read More](https://medium.com/p/d29aba73647f) |
+| Mon, 29 Sep 2025 19:42:25 GMT | Cyborg writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/8026961c38db) |
+| Mon, 29 Sep 2025 19:39:18 GMT | How to Close the AI Governance Gap in Software Development | IT_Engineer | [Read More](https://medium.com/p/920d2d669edc) |
+| Mon, 29 Sep 2025 19:37:29 GMT | cloudinary şəkil yükləmək | Arzu Mammadova | [Read More](https://medium.com/p/73e3251c085e) |
+| Mon, 29 Sep 2025 19:35:13 GMT | How to Recover from a DDoS Attack: Practical Steps to Restore Security and Uptime | Sammie Singh | [Read More](https://medium.com/p/f1eea8f527c1) |
+| Mon, 29 Sep 2025 19:33:52 GMT | A new player: Centurion - Modern Cybersecurity for Real People | Alex Cabrera | [Read More](https://medium.com/p/3badb73c60ec) |
+| Mon, 29 Sep 2025 19:33:20 GMT | The Linux Process Journey — wpa_gui (Wi-Fi Protected Access Graphical User Interface) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2bfa4bca5a45) |
+| Mon, 29 Sep 2025 19:31:54 GMT | IAM: construindo a arquitetura de confiança digital | Sara Batista | [Read More](https://medium.com/p/b7b223b0e1ac) |
 | Mon, 29 Sep 2025 19:29:06 GMT | HackTheBox — Intrusion Detection With Splunk (Real-world Scenario) | Javier | [Read More](https://medium.com/p/db1a2e726a32) |
 | Mon, 29 Sep 2025 19:24:22 GMT | Network Deep Dive | Infra & Network Core | [Read More](https://medium.com/p/260e143c7089) |
 | Mon, 29 Sep 2025 19:21:53 GMT | What is a Leap? | Vlad Nistor | [Read More](https://medium.com/p/9566c8a24def) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 14:33:06 GMT | Interpol’s Operation HAECHI VI: Cybercrime Crackdown Freezes 68,000 Bank Accounts | TheReviewHive | [Read More](https://medium.com/p/4cde7b1d483e) |
 | Mon, 29 Sep 2025 14:31:32 GMT | Privilege Escalation 101 | Zaatil Asmawi | [Read More](https://medium.com/p/cf221314e5b7) |
 | Mon, 29 Sep 2025 14:31:29 GMT | Tek Bir Siber Saldırı Dev Bir Otomotiv Devi’ni Nasıl Dize Getirdi? | Oya Paktas | [Read More](https://medium.com/p/c46e405aa47a) |
-| Mon, 29 Sep 2025 14:27:52 GMT | How to Build a Bulletproof JWT Auth System in .NET: A Step-by-Step Guide | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/9716debc9871) |
-| Mon, 29 Sep 2025 14:27:20 GMT | Securing My Digital World While Traveling In Houston | Solene Vu | [Read More](https://medium.com/p/b21654a979b8) |
-| Mon, 29 Sep 2025 14:24:50 GMT | Day 25: Cron Jobs → The Backbone of Task Scheduling | Prutha_Dongre | [Read More](https://medium.com/p/7bd54b4a33d0) |
-| Mon, 29 Sep 2025 14:22:06 GMT | Installing Active Directory Domain Services (AD DS) and DNS | James Rawlings | [Read More](https://medium.com/p/69a8fc11a26d) |
-| Mon, 29 Sep 2025 14:15:33 GMT | ISO 27001:2022 and AI Governance: A Practical Guide for IT Procurement | Aaron Rusz | [Read More](https://medium.com/p/c9964950b210) |
-| Mon, 29 Sep 2025 14:12:14 GMT | Updated Collection of Vulnerability Management Resources | Balki Maharaj | [Read More](https://medium.com/p/a1ee8dcff2a0) |
-| Mon, 29 Sep 2025 14:11:51 GMT | Incident Response in ICS: Unique Challenges in a Factory Cyber Emergency | Cyberkech | [Read More](https://medium.com/p/041d19d86be5) |
-| Mon, 29 Sep 2025 14:09:05 GMT | when we become kinder to ourselves, we can become kinder to the world. | TheBoyWhoCriedWolf | [Read More](https://medium.com/p/2b06ff96d8b2) |
-| Mon, 29 Sep 2025 14:08:55 GMT | Chain of Fault in AI Systems: A Comprehensive Security Analysis | Marshalpmathew | [Read More](https://medium.com/p/fa3e7a88c24c) |
-| Mon, 29 Sep 2025 14:05:07 GMT | Uncovering Secrets with Autopsy: A Guide to TryHackMe’s Disk Analysis Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef94f36e4d87) |
-| Mon, 29 Sep 2025 14:02:05 GMT | DPDP Act in Simple Words: What Every Citizen Should Know | Dheeraj Nagdeo | [Read More](https://medium.com/p/0e9e8915995e) |
-| Mon, 29 Sep 2025 14:02:00 GMT | What to Do If Your Account Gets Hacked: Step-by-Step Guide | Cyberspace Bulletin | [Read More](https://medium.com/p/2b6f77cc90e1) |
