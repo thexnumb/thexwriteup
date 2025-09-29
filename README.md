@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 13:37:50 GMT | Why Reliable CCTV Monitoring Is a Must for Every Business | Jane Tang | [Read More](https://medium.com/p/6a31e4dc59a2) |
+| Mon, 29 Sep 2025 13:35:15 GMT | The Bravery of Loving Again After Heartbreak | mari | [Read More](https://medium.com/p/db7428ff6358) |
+| Mon, 29 Sep 2025 13:32:09 GMT | P.O.O — Part 5: p00ned | XOR-Hacks | [Read More](https://medium.com/p/76baba2226e9) |
+| Mon, 29 Sep 2025 13:28:35 GMT | How AI Will Redefine Your Daily Workflow by 2030 | The Nexus Project | [Read More](https://medium.com/p/8ded38aa7a87) |
+| Mon, 29 Sep 2025 13:27:41 GMT | HackTheBox — Expressway (Easy) — Complete step-by-step walkthrough (no flag spoilers) | Ahmed Nosir | [Read More](https://medium.com/p/5bed892fc573) |
 | Mon, 29 Sep 2025 13:23:49 GMT | Beyond the Breach: 4 Surprising Truths About Handling a Cyber Crisis | Rana Nasmin | [Read More](https://medium.com/p/16b0a5abe2c4) |
 | Mon, 29 Sep 2025 13:22:56 GMT | Why I Don’t Trust Default Kernel Parameters on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/879b28d3543f) |
 | Mon, 29 Sep 2025 13:20:21 GMT | Your AI & Digital Life: Is a DDoS Attack About to Pull the Plug? | Akhilesh Yadav | [Read More](https://medium.com/p/183c843b3f51) |
@@ -108,8 +113,3 @@ Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) 
 | Mon, 29 Sep 2025 09:21:38 GMT | How Networks Work- Beginner’s Guide | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/7aa63dd7850e) |
 | Mon, 29 Sep 2025 09:15:37 GMT | Week 8 of My 90-Day Challenge: A Hot Lead and the BSCP Exam is Set | Mike (sl0th0x87) | [Read More](https://medium.com/p/05975728bf2a) |
 | Mon, 29 Sep 2025 09:14:27 GMT | How email authentication requirements are changing business communications in 2025 | Red Sift | [Read More](https://medium.com/p/43b0951f2854) |
-| Mon, 29 Sep 2025 09:12:02 GMT | Squid Walkthrough — Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/49d9eb05c0f3) |
-| Mon, 29 Sep 2025 09:11:51 GMT | Advanced Web Security in 2025: Protecting Modern Web Applications with Zero Trust and Beyond | Ena Modern Coder | [Read More](https://medium.com/p/26cb96361b5b) |
-| Mon, 29 Sep 2025 09:11:00 GMT | How I Beat Gandalf: Complete Solution Walkthrough | Prateek Ranjan | [Read More](https://medium.com/p/252c57f4a21d) |
-| Mon, 29 Sep 2025 09:08:55 GMT | The Future of Cybersecurity Jobs: What Will Change in 2030? | Ann Maria | [Read More](https://medium.com/p/b69fce21baf3) |
-| Mon, 29 Sep 2025 09:07:55 GMT | Training Staff in Proper Chain of Custody Procedures | Sofiamcmahon | [Read More](https://medium.com/p/87fcfba17e6f) |
