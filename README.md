@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 18:27:47 GMT | Office 365 Email Encryption: Keeping Business Communication Secure | SafeAeon Inc. | [Read More](https://medium.com/p/466e22f24d90) |
+| Mon, 29 Sep 2025 18:24:08 GMT | Top 10 Most DEADLY Kali Linux Commands (Beginners BEWARE!) | Shahzaib | [Read More](https://medium.com/p/e4c572970d28) |
+| Mon, 29 Sep 2025 18:23:35 GMT | La Ruleta - Script en Bash (ruleta.sh) | FN8 | [Read More](https://medium.com/p/c0a72d5ac13f) |
+| Mon, 29 Sep 2025 18:21:30 GMT | Pivot and Chained Vulnerabilities in Cybersecurity | Similoluwa Adelowo | [Read More](https://medium.com/p/5ad9b26c6508) |
+| Mon, 29 Sep 2025 18:19:59 GMT | Dark Web Links: What They Are and Why They Matter | SafeAeon Inc. | [Read More](https://medium.com/p/e6492fb86218) |
+| Mon, 29 Sep 2025 18:17:02 GMT | Use AI to Outpace Cyber Defenses | Matthew.Rosenquist | [Read More](https://medium.com/p/cb50ed789d7d) |
+| Mon, 29 Sep 2025 17:58:21 GMT | Linux Memory Forensics: When a Mole Gets Into a Web Server — A Step-by-Step Case Study | Emre Karatay | [Read More](https://medium.com/p/3fe628d8b83d) |
+| Mon, 29 Sep 2025 17:54:31 GMT | The Road to Modern Identity: Lessons from Migrating Away from Legacy Stacks | Veinu Vasisht | [Read More](https://medium.com/p/41b64a9525f2) |
+| Mon, 29 Sep 2025 17:52:14 GMT | How i Got $$$ For Token Based Rate limit Bypass | praveenarsh0xx0 | [Read More](https://medium.com/p/4841bbb3051c) |
+| Mon, 29 Sep 2025 17:49:27 GMT | Cisco ASA and IOS Zero-Days Under Active Exploitation | RealSec.io | [Read More](https://medium.com/p/0e12d5e4c99f) |
+| Mon, 29 Sep 2025 17:48:28 GMT | Used to Think Love Meant Fixing Everything | Kateryna Vynohradova | [Read More](https://medium.com/p/cb5eac148961) |
+| Mon, 29 Sep 2025 17:42:22 GMT | Unapologetically Authentic: Losing the Mask After Fifty | G.W. Johnston | [Read More](https://medium.com/p/0f1e96faf554) |
+| Mon, 29 Sep 2025 17:41:53 GMT | Computer & Technology Glossary | Amir Saeid Dehghan Tarzejani | [Read More](https://medium.com/p/4f64505520a2) |
 | Mon, 29 Sep 2025 17:17:54 GMT | Wazuh–Graylog Architecture: Normalizing & Enriching Security Logs ️ | Arfan Abid | [Read More](https://medium.com/p/fe2348e916e8) |
 | Mon, 29 Sep 2025 17:11:50 GMT | Integrating Benchmarks and Reality: A Synthesis of Google Research and B. | Berend Watchus | [Read More](https://medium.com/p/9bb95b4006a5) |
 | Mon, 29 Sep 2025 17:10:32 GMT | AI Security Survey Papers — 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a4413453855a) |
@@ -57,6 +70,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 15:16:09 GMT | Failure means progress | Forrest Caffray | [Read More](https://medium.com/p/f2b9c158177f) |
 | Mon, 29 Sep 2025 15:15:07 GMT | GZR Observer Daily — Sep 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/7172b29e4959) |
 | Mon, 29 Sep 2025 15:11:57 GMT | Hacking an AI with Its Own Words: My First Prompt Injection Win | Yash Mane | [Read More](https://medium.com/p/60ce4b025ad6) |
+| Mon, 29 Sep 2025 15:11:21 GMT | Unlock Financial Accuracy with Next-Gen Reconciliation Automation Tools | Kosh AI | [Read More](https://medium.com/p/73fabb8b7ed3) |
 | Mon, 29 Sep 2025 15:09:34 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 2 | Robert Broeckelmann | [Read More](https://medium.com/p/40bafcadfc0f) |
 | Mon, 29 Sep 2025 15:08:19 GMT | Network Security Essentials Walkthrough: TryHackMe Room Explained | Visir | [Read More](https://medium.com/p/9762002e821a) |
 | Mon, 29 Sep 2025 15:03:22 GMT | SOFTWARE SUPPLY CHAIN SECURITY: CI/CD/CT PIPELINES AND SECURITY TOOLS: PART 1 | Robert Broeckelmann | [Read More](https://medium.com/p/a5515d7af589) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 13:28:35 GMT | How AI Will Redefine Your Daily Workflow by 2030 | The Nexus Project | [Read More](https://medium.com/p/8ded38aa7a87) |
 | Mon, 29 Sep 2025 13:28:16 GMT | Google AI Studio | Balki Maharaj | [Read More](https://medium.com/p/4373b5aaab77) |
 | Mon, 29 Sep 2025 13:27:41 GMT | HackTheBox — Expressway (Easy) — Complete step-by-step walkthrough (no flag spoilers) | Ahmed Nosir | [Read More](https://medium.com/p/5bed892fc573) |
-| Mon, 29 Sep 2025 13:23:49 GMT | Beyond the Breach: 4 Surprising Truths About Handling a Cyber Crisis | Rana Nasmin | [Read More](https://medium.com/p/16b0a5abe2c4) |
-| Mon, 29 Sep 2025 13:22:56 GMT | Why I Don’t Trust Default Kernel Parameters on Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/879b28d3543f) |
-| Mon, 29 Sep 2025 13:20:21 GMT | Your AI & Digital Life: Is a DDoS Attack About to Pull the Plug? | Akhilesh Yadav | [Read More](https://medium.com/p/183c843b3f51) |
-| Mon, 29 Sep 2025 13:17:51 GMT | Securing Microservices: A Complete Guide to HMAC-Based Service-to-Service Communication in Go | Anu madhav | [Read More](https://medium.com/p/38e410753dda) |
-| Mon, 29 Sep 2025 13:17:51 GMT | Python for Everyday Security Analysts: Simple Scripts that Save Time | Raleigh Guevarra | [Read More](https://medium.com/p/4a3159134a11) |
-| Mon, 29 Sep 2025 13:16:20 GMT | Trust “Us” to “Prove It” | Evi-Shield | [Read More](https://medium.com/p/1077806ad2b4) |
-| Mon, 29 Sep 2025 13:15:53 GMT | Why Upskilling in Cloud Technologies is No Longer Optional in 2025 | Dinesh Chakra | [Read More](https://medium.com/p/40c9f9c0ad82) |
-| Mon, 29 Sep 2025 13:15:32 GMT | Explore the Diverse Departments at KSRCE | K.S.R. College of Engineering | [Read More](https://medium.com/p/cbde5532fc4d) |
-| Mon, 29 Sep 2025 13:11:02 GMT | How I Switched From Gmail and Took Back My Privacy | Ibtissam hammadi | [Read More](https://medium.com/p/87745f2f2f8f) |
-| Mon, 29 Sep 2025 13:09:00 GMT | Don’t ask for feedback when what you really want is validation | Dr. Robert Cavagnol | [Read More](https://medium.com/p/a3adb846345e) |
-| Mon, 29 Sep 2025 13:03:40 GMT | Artificial General Intelligence Timeline: When Could It Happen and What It Means for Us | Amna khan | [Read More](https://medium.com/p/80e4ae0fb62c) |
-| Mon, 29 Sep 2025 13:00:36 GMT | Strong Passwords Are Dead. What You Should Be Using Instead | Abdullateef Hameed | [Read More](https://medium.com/p/2d12453d90ae) |
-| Mon, 29 Sep 2025 12:56:13 GMT | Quick Commerce App: How it’s Redefining Retail & What It Means for Your Business | Gauri Pandey | [Read More](https://medium.com/p/d4fea74350d6) |
-| Mon, 29 Sep 2025 12:44:37 GMT | Python Scripts I Use to Automate My Life (That No One Talks About) | Fateyaly | [Read More](https://medium.com/p/bc97656227aa) |
