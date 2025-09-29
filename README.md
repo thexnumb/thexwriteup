@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 29 Sep 2025 14:09:05 GMT | when we become kinder to ourselves, we can become kinder to the world. | TheBoyWhoCriedWolf | [Read More](https://medium.com/p/2b06ff96d8b2) |
+| Mon, 29 Sep 2025 14:08:55 GMT | Chain of Fault in AI Systems: A Comprehensive Security Analysis | Marshalpmathew | [Read More](https://medium.com/p/fa3e7a88c24c) |
+| Mon, 29 Sep 2025 14:05:07 GMT | Uncovering Secrets with Autopsy: A Guide to TryHackMe’s Disk Analysis Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/ef94f36e4d87) |
+| Mon, 29 Sep 2025 14:02:05 GMT | DPDP Act in Simple Words: What Every Citizen Should Know | Dheeraj Nagdeo | [Read More](https://medium.com/p/0e9e8915995e) |
+| Mon, 29 Sep 2025 14:02:00 GMT | What to Do If Your Account Gets Hacked: Step-by-Step Guide | Cyberspace Bulletin | [Read More](https://medium.com/p/2b6f77cc90e1) |
+| Mon, 29 Sep 2025 14:01:59 GMT | Cyber Briefing: 2025.09.29 | CyberMaterial | [Read More](https://medium.com/p/b1b2939860dc) |
+| Mon, 29 Sep 2025 14:01:59 GMT | Part 4: Compliance Standards: PCI- DSS, HIPAA & ISO | Intelithics | [Read More](https://medium.com/p/b702ffbe9b93) |
+| Mon, 29 Sep 2025 13:58:11 GMT | [TUGAS 2] MATA KULIAH SISTEM PENUNJANG KEPUTUSAN | Muhamad Kamal | [Read More](https://medium.com/p/c05ea6385e4b) |
+| Mon, 29 Sep 2025 13:56:21 GMT | The Fake Job Interview That Hijacks Your Computer | Aj | [Read More](https://medium.com/p/76aee8eb21b5) |
+| Mon, 29 Sep 2025 13:55:38 GMT | ISO 27001:2022 and AI Governance: A Practical Guide for IT Procurement | Aaron Rusz | [Read More](https://medium.com/p/7e68bf8e8245) |
+| Mon, 29 Sep 2025 13:50:02 GMT | How to Build a Security-First Culture in Your Organization | Abdullateef Hameed | [Read More](https://medium.com/p/9f497daf1740) |
+| Mon, 29 Sep 2025 13:44:57 GMT | IM Insight: AI + n8n = Smartest Security Analysis | IndiaMART Author | [Read More](https://medium.com/p/cb74a22dd560) |
 | Mon, 29 Sep 2025 13:37:50 GMT | Why Reliable CCTV Monitoring Is a Must for Every Business | Jane Tang | [Read More](https://medium.com/p/6a31e4dc59a2) |
 | Mon, 29 Sep 2025 13:35:15 GMT | The Bravery of Loving Again After Heartbreak | mari | [Read More](https://medium.com/p/db7428ff6358) |
 | Mon, 29 Sep 2025 13:32:09 GMT | P.O.O — Part 5: p00ned | XOR-Hacks | [Read More](https://medium.com/p/76baba2226e9) |
@@ -101,15 +113,3 @@ Healthcare… | Dhruvi Agrawal | [Read More](https://medium.com/p/618bf1213995) 
 | Mon, 29 Sep 2025 09:51:24 GMT | Farewell to the Security Paradox: Why an EAL6+ Military-Grade Wallet is the Ultimate Destination… | Digital Shield | [Read More](https://medium.com/p/80f21277360d) |
 | Mon, 29 Sep 2025 09:50:44 GMT | The Psychology of Phishing: Understanding Social Engineering | Cyber Security Research | [Read More](https://medium.com/p/ed9de847c92c) |
 | Mon, 29 Sep 2025 09:50:25 GMT | Advent of cyber ’24 — Day 2 | Gligits.ini | [Read More](https://medium.com/p/3fa9eaed0264) |
-| Mon, 29 Sep 2025 09:49:49 GMT | Securing AWS Bastion Hosts: Linux Hardening, MFA, and Monitoring Best Practices | Fabius lihanda | [Read More](https://medium.com/p/46894c514e68) |
-| Mon, 29 Sep 2025 09:49:19 GMT | Air-Gapped Signing: How Digital Shield Ends the Web3 Security Compromise with Verifiable… | Digital Shield Offcial | [Read More](https://medium.com/p/315f74a739f6) |
-| Mon, 29 Sep 2025 09:48:16 GMT | Through the webcam, I actually saw… | liu sdgs | [Read More](https://medium.com/p/e2802809847b) |
-| Mon, 29 Sep 2025 09:47:01 GMT | DockerLabs Writeup — ApiBase (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7d146fa448ed) |
-| Mon, 29 Sep 2025 09:41:51 GMT | The Hardest Things I’ve Implemented in DevOps | Zudonu Osomudeya | [Read More](https://medium.com/p/1958328804fe) |
-| Mon, 29 Sep 2025 09:37:52 GMT | AWS IAM Secrets Engineers Only Learn On-Call at 3AM | Ismail Kovvuru | [Read More](https://medium.com/p/3b7b85030188) |
-| Mon, 29 Sep 2025 09:30:26 GMT | The Human Firewall: Training Employees for Cyber Awareness | Cyber Security Research | [Read More](https://medium.com/p/c115819c3e75) |
-| Mon, 29 Sep 2025 09:26:45 GMT | N8N is Awesome…! - Mejbankadir - Ethical Hacker and Tech Enthusiast | Mejbankadir | [Read More](https://medium.com/p/bcd76c8ad9dd) |
-| Mon, 29 Sep 2025 09:24:42 GMT | Understanding CSRF Step by Step: From Exploitation to Prevention | Mazen Elsayed | [Read More](https://medium.com/p/28e73e3f74e4) |
-| Mon, 29 Sep 2025 09:21:38 GMT | How Networks Work- Beginner’s Guide | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/7aa63dd7850e) |
-| Mon, 29 Sep 2025 09:15:37 GMT | Week 8 of My 90-Day Challenge: A Hot Lead and the BSCP Exam is Set | Mike (sl0th0x87) | [Read More](https://medium.com/p/05975728bf2a) |
-| Mon, 29 Sep 2025 09:14:27 GMT | How email authentication requirements are changing business communications in 2025 | Red Sift | [Read More](https://medium.com/p/43b0951f2854) |
