@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 11:37:22 GMT | What If It Doesn’t Work Out? What If It Does? | Becca Rose | [Read More](https://medium.com/p/ff54f34af1e0) |
+| Tue, 30 Sep 2025 11:32:36 GMT | React Native’s New Architecture in 2025: How to Adopt It | React Native Development Company | [Read More](https://medium.com/p/9d1b41b2a180) |
+| Tue, 30 Sep 2025 11:27:39 GMT | What are the 5 stages of Ethical Hacking? | cyber security Updates | [Read More](https://medium.com/p/2d1a1c317b8f) |
+| Tue, 30 Sep 2025 11:26:11 GMT | Server Security: Securing Servers from Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/1947da30043b) |
+| Tue, 30 Sep 2025 11:24:57 GMT | Corezoid (CVE-2024–55017) — Account Takeover via OAuth2 redirect_uri Open Redirect | Elmiraibrahimlii | [Read More](https://medium.com/p/9dd78bc337a3) |
+| Tue, 30 Sep 2025 11:22:05 GMT | How Co-Ventech Helped a Fintech Client Strengthen Their Security with VAPT | Co-Ventech | [Read More](https://medium.com/p/41a6f02ed0f0) |
+| Tue, 30 Sep 2025 11:21:49 GMT | Stop Leaking Secrets: Build Your Own Sensitive Data Scanner in Python | Triblade_Z3r0 | [Read More](https://medium.com/p/cb01571220e3) |
+| Tue, 30 Sep 2025 11:20:12 GMT | Container Security: Securing Containerized Applications | Cyber Security Research | [Read More](https://medium.com/p/48ff0fb20415) |
+| Tue, 30 Sep 2025 11:16:07 GMT | Want to do be an Ethical Web Pentester? | Harry Ouaida | [Read More](https://medium.com/p/aeaafff2ceba) |
 | Tue, 30 Sep 2025 11:14:23 GMT | Security Hardening: Minimizing Attack Surface | Cyber Security Research | [Read More](https://medium.com/p/e3c82e13b3d0) |
 | Tue, 30 Sep 2025 11:13:10 GMT | Cybersecurity in Virtual and Hybrid Events | Rawaha Rasheed | [Read More](https://medium.com/p/1c0c4dabf924) |
 | Tue, 30 Sep 2025 11:12:56 GMT | UN Security Council Reform Starts With One Test: Decision Integrity | Brian Iselin | [Read More](https://medium.com/p/9e517d2bd0c3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 07:27:24 GMT | Mobile App Development Trends 2025: AI, Cross-Platform Growth, and Security Challenges | Sjagp | [Read More](https://medium.com/p/cf12156f37b3) |
 | Tue, 30 Sep 2025 07:26:25 GMT | How SSL Improves SEO and Website Traffic | Smit Pipaliya | [Read More](https://medium.com/p/dc88d80d8729) |
 | Tue, 30 Sep 2025 07:26:24 GMT | Cache Crash: How I Poisoned CDN Responses and Became Every User Simultaneously | Iski | [Read More](https://medium.com/p/6261a2e966b4) |
-| Tue, 30 Sep 2025 07:26:04 GMT | Security Services in India: A Growing Need for Safety and the Rise of Top Security Services | Ciss India | [Read More](https://medium.com/p/9ed50b2edcef) |
-| Tue, 30 Sep 2025 07:25:21 GMT | Master of Science in Cyber Security — Security Analyst - EC-Council University | Cybersecurity Courses | [Read More](https://medium.com/p/fb5633f7d227) |
-| Tue, 30 Sep 2025 07:24:12 GMT | This post explores some of the most sophisticated offensive tools and frameworks attributed to… | spidersec | [Read More](https://medium.com/p/35c42411485e) |
-| Tue, 30 Sep 2025 07:18:34 GMT | SSL Speed: Balance Security with Site Performance | Smit Pipaliya | [Read More](https://medium.com/p/7fdae92a3757) |
-| Tue, 30 Sep 2025 07:18:07 GMT | HTTP vs HTTPS Explained: Key Differences You Need to Know | Smit Pipaliya | [Read More](https://medium.com/p/7ab34c026a6d) |
-| Tue, 30 Sep 2025 07:17:13 GMT | Retesting Vulnerabilities: Why Security Doesn’t End at the Patch | Luis Abreu from Cyver | [Read More](https://medium.com/p/3806b215d950) |
-| Tue, 30 Sep 2025 07:16:39 GMT | Threat Surfaces Unique to GenAI: Weights, Injection, and Synthetic Abuse | rajni singh | [Read More](https://medium.com/p/bec288d1df15) |
-| Tue, 30 Sep 2025 07:14:55 GMT | XDR: Credential Access | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/8600178a4fcf) |
-| Tue, 30 Sep 2025 07:09:00 GMT | The £2 Billion Hack: How Cybercriminals Crippled Jaguar Land Rover in 2025 | Atharva Deshmukh | [Read More](https://medium.com/p/1819bac0b0bf) |
