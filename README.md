@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 17:14:17 GMT | The CISO’s Guide to Taming the SIEM Cost Curve | Graylog | [Read More](https://medium.com/p/0d46ef939840) |
+| Tue, 30 Sep 2025 17:11:11 GMT | Our Security Team Wants Zero CVEs in Production. Our Containers Have 200+. What’s Realistic? | Ajay Kumar | [Read More](https://medium.com/p/74e3cb5a69cb) |
+| Tue, 30 Sep 2025 17:08:57 GMT | MQTT (Mosquitto) — Bugged TryHackMe (walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/b39d49e0cf9e) |
+| Tue, 30 Sep 2025 17:06:18 GMT | Laravel Turbo + Auth0: The Speed-Security Combo Your App’s Been Missing | Sadique Ali | [Read More](https://medium.com/p/a57bcf3af5e8) |
+| Tue, 30 Sep 2025 17:05:33 GMT | Become a Linux Forensics Investigator: A Walkthrough of the Linux File System Analysis Room | Furkanctiner | [Read More](https://medium.com/p/63258e9e3288) |
+| Tue, 30 Sep 2025 17:04:03 GMT | Turning Blind Error Based SQL Injection into Exploitable Boolean One Part 2: MySQL | Ozgur Alp | [Read More](https://medium.com/p/ecf1dbe5352f) |
+| Tue, 30 Sep 2025 17:01:52 GMT | Died From the Inside | Is | [Read More](https://medium.com/p/3b41569e9954) |
+| Tue, 30 Sep 2025 16:59:52 GMT | “Every Day Someone Tries to Break Our Support Bot.” | Ajay Kumar | [Read More](https://medium.com/p/9af317d81171) |
+| Tue, 30 Sep 2025 16:58:40 GMT | Xenotrek, Motel-Lab 3AM Guide: Bulletproof Local-First Backup on a Synology NAS | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/12cf011ba5ce) |
+| Tue, 30 Sep 2025 16:57:23 GMT | From DIP Switches to MAX232: A Serial Love Story | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4285fe3e0757) |
 | Tue, 30 Sep 2025 16:40:05 GMT | Introduction to Bug Bounty: Techniques & Tools for Beginners | mohandika | [Read More](https://medium.com/p/579e396cbb58) |
 | Tue, 30 Sep 2025 16:38:01 GMT | Spotting Deception in Cybersecurity | Configr Technologies | [Read More](https://medium.com/p/b05cff95bc6e) |
 | Tue, 30 Sep 2025 16:37:28 GMT | Exploring the Future of Cybersecurity Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/6c87b84fb936) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 12:57:41 GMT | From Boots to Bytes | Kara Davis | [Read More](https://medium.com/p/32dde2e33676) |
 | Tue, 30 Sep 2025 12:53:43 GMT | The Hidden Career Killer: Poor Mood Management | Tyler Wall | [Read More](https://medium.com/p/79d0e2c5a352) |
 | Tue, 30 Sep 2025 12:53:41 GMT | Cybersecurity Certifications: Advancing Your Career | Cyber Security Research | [Read More](https://medium.com/p/9a1fe4577095) |
-| Tue, 30 Sep 2025 12:39:35 GMT | EDR, MDR, and XDR Explained: Protecting Businesses from Cyber Threats | Anu Shreya | [Read More](https://medium.com/p/2ed637fdbf19) |
-| Tue, 30 Sep 2025 12:32:45 GMT | Shadow AI: The New Risk You Didn’t Approve | Evgeny Ermakov | [Read More](https://medium.com/p/80ce8f390bb2) |
-| Tue, 30 Sep 2025 12:32:11 GMT | How AWS Cognito Earns Developer Love: Secure Auth Without Pain | Hossam Hatem | [Read More](https://medium.com/p/d5c19ee0c0e4) |
-| Tue, 30 Sep 2025 12:20:41 GMT | Public Safety Communications Market Is Booming So Rapidly 2025–2031 | Kaverypatel | [Read More](https://medium.com/p/5dda0b8b7986) |
-| Tue, 30 Sep 2025 12:17:48 GMT | Building Secure React Applications: A Practical Guide | Ömer Avşar | [Read More](https://medium.com/p/3681feb7b5a1) |
-| Tue, 30 Sep 2025 12:15:48 GMT | Is OTP Perfect? Akira Proved Seed Theft Breaks SonicWall MFA | David SEHYEON Baek | [Read More](https://medium.com/p/b197210229b8) |
-| Tue, 30 Sep 2025 12:15:35 GMT | AI Enhanced Cybersecurity | Acumen Software | [Read More](https://medium.com/p/75b3bdecef2c) |
-| Tue, 30 Sep 2025 12:05:33 GMT | Adversarial Fraud Analytics: Why Fraudsters Are the Best Machine Learning Engineers You’ve Never… | Robin Beura | [Read More](https://medium.com/p/05ca5488bf38) |
-| Tue, 30 Sep 2025 12:05:21 GMT | Unifying Identity and Data Security: Real Application Security with Active Directory | Thomas Minne | [Read More](https://medium.com/p/814b079567b9) |
-| Tue, 30 Sep 2025 12:02:12 GMT | OpenSSL: The Ultimate Toolkit for Encryption, Hashing, and Secure Communication | Hasanhawary | [Read More](https://medium.com/p/fed6ab3e8137) |
