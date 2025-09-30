@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 05:29:59 GMT | The Keyword Compass: Why Long-Tail is Leading the Digital Adventure in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/35ed1db9d6f3) |
+| Tue, 30 Sep 2025 05:29:11 GMT | Top Online Cyber Security Degree Programs for a Future in IT Security | Shreyashettyctr | [Read More](https://medium.com/p/6d1d1968c34c) |
+| Tue, 30 Sep 2025 05:10:56 GMT | Why Cybersecurity Is the Smartest Career Pivot Right Now | Shreyashettyctr | [Read More](https://medium.com/p/33389a724f04) |
 | Tue, 30 Sep 2025 05:06:12 GMT | TROJAN TINY BANKER | Synchro Nous | [Read More](https://medium.com/p/eb2429ecd333) |
 | Tue, 30 Sep 2025 05:04:46 GMT | 1+1 != 2 Part II | Pseudonotes | [Read More](https://medium.com/p/566ea1ac693c) |
 | Tue, 30 Sep 2025 05:03:40 GMT | VPNs: Securing Your Online Privacy | Cyber Security Research | [Read More](https://medium.com/p/ea22e914365c) |
@@ -110,6 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 20:14:24 GMT | Top 50 OSINT Tools Every Security Professional Should Know | Nazrul Islam Rana | [Read More](https://medium.com/p/d4c503be84b5) |
 | Mon, 29 Sep 2025 20:06:15 GMT | Secrets of JavaScript I Learned While Building Real Projects | Kainat Nafees | [Read More](https://medium.com/p/f1157b92aeee) |
 | Mon, 29 Sep 2025 19:53:31 GMT | When AI Learns to Lie: How Deepfakes & Agentic AI Are Breaking Identity | Veinu Vasisht | [Read More](https://medium.com/p/c6fa30db896a) |
-| Mon, 29 Sep 2025 19:48:20 GMT | Hack The Box: Scepter -Write-Up — Hard Difficulty — Scepter | kradis0 | [Read More](https://medium.com/p/d29aba73647f) |
-| Mon, 29 Sep 2025 19:42:25 GMT | Cyborg writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/8026961c38db) |
-| Mon, 29 Sep 2025 19:39:18 GMT | How to Close the AI Governance Gap in Software Development | IT_Engineer | [Read More](https://medium.com/p/920d2d669edc) |
