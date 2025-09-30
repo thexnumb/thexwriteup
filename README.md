@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 23:17:04 GMT | From Generalist to Specialist: How I Turned GPT-4o into a Cybersecurity Assistant with Fine-Tuning | José Antonio Mancilla Chatú | [Read More](https://medium.com/p/d298858244f7) |
+| Tue, 30 Sep 2025 23:07:28 GMT | TryHackMe — Sneaky Patch Write-Up | J Linton | [Read More](https://medium.com/p/d68d0ec7476a) |
+| Tue, 30 Sep 2025 23:07:09 GMT | Security Strategies: Pre-emptive Preparation or Post-Intervention? | Oğuzhan Hızıroğlu | [Read More](https://medium.com/p/3f31edfaf868) |
 | Tue, 30 Sep 2025 22:34:20 GMT | 40,000+ Cyberattacks in 6 Months: Why Hackers Are Obsessed with APIs | Cyber-AppSec | [Read More](https://medium.com/p/cce6c32407ed) |
 | Tue, 30 Sep 2025 22:29:18 GMT | Push Velocity: The Hidden Metric Every Leadership Team Overlooks | Dinesh Liyanage | [Read More](https://medium.com/p/635ceae905bd) |
 | Tue, 30 Sep 2025 22:27:29 GMT | The Challenges of Securing Autonomous Vehicles | Samina Perveen | [Read More](https://medium.com/p/8afc2024cc4e) |
@@ -110,6 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 16:12:44 GMT | Don’t Let Apps Trick You: A Simple Guide to Staying Safe Online | Hitesh Said | [Read More](https://medium.com/p/96a1cf9c6923) |
 | Tue, 30 Sep 2025 16:11:48 GMT | Stored XSS (Why output encoding is a YES!) | CyrilLK | [Read More](https://medium.com/p/282f8c45b47e) |
 | Tue, 30 Sep 2025 16:01:13 GMT | Blue Team: Quando defender também pode ser legal | Thiago Castro | [Read More](https://medium.com/p/b0d13ecb7f02) |
-| Tue, 30 Sep 2025 15:59:04 GMT | Install Sysmon on Windows | James Rawlings | [Read More](https://medium.com/p/190d2d417717) |
-| Tue, 30 Sep 2025 15:57:19 GMT | How I accessed the/etc/folder from .git Folder misconfiguration | Y0s_0x_IBM | [Read More](https://medium.com/p/06fd44fc22d8) |
-| Tue, 30 Sep 2025 15:54:20 GMT | The Role of SOC and XDR in Strengthening Enterprise Cybersecurity | Vijilan | [Read More](https://medium.com/p/fd63933d3784) |
