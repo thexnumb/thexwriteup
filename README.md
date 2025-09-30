@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 18:30:15 GMT | Benefits of SOC Outsourcing: Why Businesses Are Turning to Managed Security | SafeAeon Inc. | [Read More](https://medium.com/p/703445740eb4) |
+| Tue, 30 Sep 2025 18:26:04 GMT | The $1.4 Million Question: Why Social Engineering is Still Hacking the System | Krishnakaiwartya | [Read More](https://medium.com/p/1b1a45efa9fd) |
+| Tue, 30 Sep 2025 18:20:34 GMT | This Is How AI Is Rewriting the Rules of Cyber Warfare | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/1ada3bcac1f8) |
+| Tue, 30 Sep 2025 18:19:57 GMT | CodePartTwo HTB Walkthrough — RCE via js2py (CVE‑2024‑28397) & Root Escalation | Death Esther | [Read More](https://medium.com/p/fe66b1454466) |
+| Tue, 30 Sep 2025 18:18:05 GMT | ️ Securing Enterprise AI: Mitigating Prompt Tampering in Large Language Models | Ankit Shah | [Read More](https://medium.com/p/af5655197616) |
 | Tue, 30 Sep 2025 18:15:25 GMT | Prompt Injection in LLMs: The New Age of Hacking | Sai Charan Kummetha | [Read More](https://medium.com/p/330287b067b3) |
 | Tue, 30 Sep 2025 18:14:19 GMT | HTTP/1.1 Must Die — And Why You Should Care (Even If You Think You’re Safe) | Shailesh Nanwani | [Read More](https://medium.com/p/2be158719564) |
 | Tue, 30 Sep 2025 18:12:53 GMT | The Ultimate Guide to API Reconnaissance: Finding Undocumented Endpoints | Andrei Ivan | [Read More](https://medium.com/p/449605d92ce7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 13:48:48 GMT | Security and Performance Aspects of WireGuard Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/b305ff70b873) |
 | Tue, 30 Sep 2025 13:48:25 GMT | Building Smarter Python Utilities That Actually Save Time | Kainat Nafees | [Read More](https://medium.com/p/900d61865c88) |
 | Tue, 30 Sep 2025 13:41:18 GMT | Stored Cross-Site Scripting (XSS) in SourceCodester Web-based Pharmacy Product Management System… | Sourabhthakur | [Read More](https://medium.com/p/1e85d144079b) |
-| Tue, 30 Sep 2025 13:40:54 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/d67126992750) |
-| Tue, 30 Sep 2025 13:39:46 GMT | Can a PDF File Be Malware? The Hidden Dangers You Need to Know | Cordula Boeck | [Read More](https://medium.com/p/bdd5d1eb1cb2) |
-| Tue, 30 Sep 2025 13:39:36 GMT | Cybersecurity and Privacy in EdTech: Why It Matters More Than Ever | Muhammad Ali Hassan | [Read More](https://medium.com/p/0e2a4adbf27b) |
-| Tue, 30 Sep 2025 13:39:12 GMT | Exploring Processes, Threads, Handles, and the Windows Registry | Cyber Timi | [Read More](https://medium.com/p/cdc396df6439) |
-| Tue, 30 Sep 2025 13:34:57 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ffc7428591da) |
