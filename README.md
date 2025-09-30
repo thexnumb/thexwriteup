@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 07:18:07 GMT | HTTP vs HTTPS Explained: Key Differences You Need to Know | Smit Pipaliya | [Read More](https://medium.com/p/7ab34c026a6d) |
+| Tue, 30 Sep 2025 07:17:13 GMT | Retesting Vulnerabilities: Why Security Doesn’t End at the Patch | Luis Abreu from Cyver | [Read More](https://medium.com/p/3806b215d950) |
+| Tue, 30 Sep 2025 07:09:00 GMT | The £2 Billion Hack: How Cybercriminals Crippled Jaguar Land Rover in 2025 | Atharva Deshmukh | [Read More](https://medium.com/p/1819bac0b0bf) |
+| Tue, 30 Sep 2025 07:08:37 GMT | Cortex Network Security Automation: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c3cdae14e880) |
+| Tue, 30 Sep 2025 07:02:29 GMT | Penetration Testing Solutions in Abu Dhabi: Protecting Your Business from Cyber Threats | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/0371b001188d) |
+| Tue, 30 Sep 2025 06:55:33 GMT | The Daily Tech Digest: 30 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8bc59658647e) |
+| Tue, 30 Sep 2025 06:54:15 GMT | The Impostor Syndrome of Cybersecurity Pros: Patching Everything Except Ourselves | Zero Trustor | [Read More](https://medium.com/p/88bdbb7bc343) |
+| Tue, 30 Sep 2025 06:47:28 GMT | How to Unlock Breakthrough Insights in Every 1:1 | Florian Henrion | [Read More](https://medium.com/p/0b215ac96877) |
+| Tue, 30 Sep 2025 06:45:58 GMT | Qatar’s Data Centers: Securing the Financial Future. | expbhavya | [Read More](https://medium.com/p/bafdf8c58dc5) |
+| Tue, 30 Sep 2025 06:43:43 GMT | How IntelligenceX Strengthens GDPR Compliance with Cutting-Edge Cybersecurity | Shivakshi Rawat | [Read More](https://medium.com/p/02153724913f) |
+| Tue, 30 Sep 2025 06:41:13 GMT | Frontend Security Essentials | ROHIT KUMAR | [Read More](https://medium.com/p/d22ca3cbc6a6) |
+| Tue, 30 Sep 2025 06:39:39 GMT | SPARK Matrix™: Web Application Firewall Market Dynamics and Competitive Landscape | Gargiben | [Read More](https://medium.com/p/2bf011d495d6) |
+| Tue, 30 Sep 2025 06:39:04 GMT | The Complete Wireshark Cheat Sheet: Master Network Analysis in 2025 | Raj Bhatia | [Read More](https://medium.com/p/856ca807a9c8) |
+| Tue, 30 Sep 2025 06:36:09 GMT | Beyond Nuclei — Building Custom Templates That Actually Find Bugs | Đeepanshu | [Read More](https://medium.com/p/855ea2695f4d) |
+| Tue, 30 Sep 2025 06:35:36 GMT | PCI DSS Compliance Services: Safeguarding Payment Data in the Digital Age | Tech Writer | [Read More](https://medium.com/p/c2a8efc20c25) |
+| Tue, 30 Sep 2025 06:28:44 GMT | ​Blockchain cold/hot wallet security risks | Richa Patel | [Read More](https://medium.com/p/90538fbb5859) |
 | Tue, 30 Sep 2025 06:23:22 GMT | Part 2 : Git Commit Hooks, Pre-Commit Checks & Branch Protections (Security in Action) | Dean | [Read More](https://medium.com/p/a4fa9eb15922) |
 | Tue, 30 Sep 2025 06:20:48 GMT | Penetration Testing Made Easy: 10 Free Tools Security Pros Swear By | Sam Bishop | [Read More](https://medium.com/p/9aecaafbbfa5) |
 | Tue, 30 Sep 2025 06:15:23 GMT | Why Everyone Is Downloading a VPN in 2025 (Before It’s Too Late) | James Robert | [Read More](https://medium.com/p/64c4260063ae) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Sep 2025 23:13:01 GMT | Cloudflare Blocks Largest-Ever DDoS Attack at 7.3 Tbps | Raviteja Mureboina | [Read More](https://medium.com/p/7675fdfb8531) |
 | Mon, 29 Sep 2025 23:00:26 GMT | Building an AI-Powered WAF: When Machine Learning Meets Web Security | Yevhenii Zhuk | [Read More](https://medium.com/p/d3038f591b58) |
 | Mon, 29 Sep 2025 22:56:39 GMT | Epidemics we cannot see | Progsky | [Read More](https://medium.com/p/3f17d3dc4602) |
-| Mon, 29 Sep 2025 22:52:50 GMT | The Future of Finance: Why Speed, Transparency, and Security Define Survival | EHMPE RHOR | [Read More](https://medium.com/p/77195f07c231) |
-| Mon, 29 Sep 2025 22:51:39 GMT | Real-time Cryptographic Agility: 
-The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](https://medium.com/p/ad457e6829b2) |
-| Mon, 29 Sep 2025 22:48:37 GMT | Monday Cyber Brief — September 29 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/0bcf7b975e0b) |
-| Mon, 29 Sep 2025 22:44:31 GMT | How a Simple Python Bind Shell Works | Taulan Zauzanov | [Read More](https://medium.com/p/6929c1d89b6b) |
-| Mon, 29 Sep 2025 22:37:40 GMT | ⌚All Xiaomi watches hacked (Cross Tenant IDOR) | Hohky | [Read More](https://medium.com/p/98b46c3f8705) |
-| Mon, 29 Sep 2025 22:33:44 GMT | The Human Factor in Vulnerability Management: Analyst Fatigue, Bias, and Decision Errors | Sai Krishna Kakarla | [Read More](https://medium.com/p/075452fb6bf0) |
-| Mon, 29 Sep 2025 22:25:55 GMT | Secure Every Event with 24/7 Remote CCTV Monitoring! | Visual Monitoring Solutions | [Read More](https://medium.com/p/d494bb990856) |
-| Mon, 29 Sep 2025 22:23:44 GMT | India to finally claim its UNSC Permanent Seat and VETO Power… | Everclear | [Read More](https://medium.com/p/f958094734bc) |
-| Mon, 29 Sep 2025 22:14:33 GMT | WhatsApp Zero-Click Shock: How a Malicious DNG File Turned Photos into Silent Spies | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ede9dc726f6b) |
-| Mon, 29 Sep 2025 22:10:42 GMT | Agentic AI is Reshaping Cybersecurity and Fraud Prevention | SamesurfAI | [Read More](https://medium.com/p/e4cee978b1f0) |
-| Mon, 29 Sep 2025 22:09:03 GMT | Introducing TLP:Black — A New Layer of Confidentiality | Vishal Thakur | [Read More](https://medium.com/p/9e24bb314f4f) |
-| Mon, 29 Sep 2025 22:02:57 GMT | IT Security Services, Cyber Security Experts, and Incident Response by CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/fe16f34953d8) |
-| Mon, 29 Sep 2025 21:57:13 GMT | The Proposal | RTUJr. | [Read More](https://medium.com/p/0e97d25c2761) |
-| Mon, 29 Sep 2025 21:53:01 GMT | Understanding Data Encryption: Best Practices & Workflows | Hasanhawary | [Read More](https://medium.com/p/e4d13fcb6e73) |
-| Mon, 29 Sep 2025 21:26:44 GMT | How Hotel Transylvania Explains Microsoft Entra ID and OAuth: A Beginner’s Guide to Authentication | Raghuveer M | [Read More](https://medium.com/p/dd5b43309d35) |
-| Mon, 29 Sep 2025 21:22:15 GMT | Cyber Security Consulting, Cyber Security Services, and Incident Response Services by CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/657f56c29b3f) |
