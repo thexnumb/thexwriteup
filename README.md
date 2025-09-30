@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 04:32:07 GMT | The Quantum Dawn — Understanding India’s Digital Vulnerability | Sankalp Shady | [Read More](https://medium.com/p/777d33a6f1b8) |
+| Tue, 30 Sep 2025 04:31:49 GMT | Why I’m starting this cybersecurity blog in my final year | Nithishkumar R | [Read More](https://medium.com/p/576155377e9c) |
 | Tue, 30 Sep 2025 04:17:14 GMT | Real-world APT case analysis | Ash | [Read More](https://medium.com/p/08cb6c799403) |
 | Tue, 30 Sep 2025 04:14:01 GMT | Cyber Security Kya Hai? Ek Simple Guide for Beginners | Foujisahab | [Read More](https://medium.com/p/cb7baa83bc84) |
+| Tue, 30 Sep 2025 03:58:58 GMT | Bypass Password Confirmation on Change Email | Karim Hikal | [Read More](https://medium.com/p/d0e69bf0e99c) |
 | Tue, 30 Sep 2025 03:53:17 GMT | The Impact of Social Media on Youth Political Participation | Justine Jay Castillo | [Read More](https://medium.com/p/40f18858cb06) |
 | Tue, 30 Sep 2025 03:52:23 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/4c4712299908) |
 | Tue, 30 Sep 2025 03:42:34 GMT | PostgreSQL 18 Data Checksums Enabled by Default: Security Implications | Rizqi Mulki | [Read More](https://medium.com/p/dcca2f6d4bd0) |
@@ -110,6 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 19:31:54 GMT | IAM: construindo a arquitetura de confiança digital | Sara Batista | [Read More](https://medium.com/p/b7b223b0e1ac) |
 | Mon, 29 Sep 2025 19:29:06 GMT | HackTheBox — Intrusion Detection With Splunk (Real-world Scenario) | Javier | [Read More](https://medium.com/p/db1a2e726a32) |
 | Mon, 29 Sep 2025 19:24:22 GMT | Network Deep Dive | Infra & Network Core | [Read More](https://medium.com/p/260e143c7089) |
-| Mon, 29 Sep 2025 19:21:53 GMT | What is a Leap? | Vlad Nistor | [Read More](https://medium.com/p/9566c8a24def) |
-| Mon, 29 Sep 2025 19:18:07 GMT | Top 6 Microsoft 365, EntraID and Azure Security Misconfigurations — Part 3/3 | Alain Keller | [Read More](https://medium.com/p/fab9c5ce76f6) |
-| Mon, 29 Sep 2025 19:12:19 GMT | Containers & Docker Exploitation | Cybersecplayground | [Read More](https://medium.com/p/c9155e7540b5) |
