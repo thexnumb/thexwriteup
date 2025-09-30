@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 10:35:45 GMT | The Ultimate Cybersecurity Learning Blueprint: A Mastery Path You’ll Thank Yourself For | Abdelghani Alhijawi | [Read More](https://medium.com/p/d33a7e7aa0a3) |
+| Tue, 30 Sep 2025 10:35:26 GMT | NPM Supply Chain Attack Mitigation | Lewis Baston | [Read More](https://medium.com/p/11880a8afe8e) |
+| Tue, 30 Sep 2025 10:31:53 GMT | Biometric Keys: Unlocking the Future With Your Identity | Natarajan C K | [Read More](https://medium.com/p/e54625c1c51d) |
+| Tue, 30 Sep 2025 10:31:53 GMT | Why JWT Is a Hacker’s Favourite Target (and How to Lock It Down) | Vaishnavi Kengale | [Read More](https://medium.com/p/8b6750e68721) |
+| Tue, 30 Sep 2025 10:26:56 GMT | How AI and Digital Dependencies Are Rewriting the Rules of Conflict | D. Mikhailov | [Read More](https://medium.com/p/f164f6158816) |
+| Tue, 30 Sep 2025 10:24:34 GMT | When Your Phone Turns Against You: 6 Signs You’ve Been Hacked | Ghazanfar Ali, MBA | [Read More](https://medium.com/p/27d25c706d71) |
+| Tue, 30 Sep 2025 10:24:02 GMT | How Zero-Knowledge Architecture Improves Data Security | Password Manager | [Read More](https://medium.com/p/181d85a3e767) |
+| Tue, 30 Sep 2025 10:23:30 GMT | Speech and Voice Recognition Market Size, Trends, Growth and Forecast [2025–2032] | rahul salunkhe | [Read More](https://medium.com/p/cbc3c6b9527e) |
+| Tue, 30 Sep 2025 10:23:29 GMT | Kiosk Machines: Solving Long Queue Problems in Businesses | Rakesh | [Read More](https://medium.com/p/a28d503e1881) |
+| Tue, 30 Sep 2025 10:23:15 GMT | The Card — Holmes 2025 | Scadw | [Read More](https://medium.com/p/821f5136ed14) |
+| Tue, 30 Sep 2025 10:22:45 GMT | Can a Chip-Level Encrypted Wallet Stop Hackers? This is the True Security Logic of a Cold Wallet | Digital Shield | [Read More](https://medium.com/p/4a191bab3aed) |
 | Tue, 30 Sep 2025 10:13:53 GMT | PG Practice — Nukem (Linux) | Lepton | [Read More](https://medium.com/p/cc82b6463840) |
 | Tue, 30 Sep 2025 10:13:02 GMT | Network Secrets Revealed | Infra & Network Core | [Read More](https://medium.com/p/26efc5866f36) |
 | Tue, 30 Sep 2025 10:11:07 GMT | How to Launch Amazon EC2 Instances in Multiple Availability Zones (Hands-On Lab) | DarkoTechOps | [Read More](https://medium.com/p/3987ef5d783e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 06:23:22 GMT | Part 2 : Git Commit Hooks, Pre-Commit Checks & Branch Protections (Security in Action) | Dean | [Read More](https://medium.com/p/a4fa9eb15922) |
 | Tue, 30 Sep 2025 06:20:48 GMT | Penetration Testing Made Easy: 10 Free Tools Security Pros Swear By | Sam Bishop | [Read More](https://medium.com/p/9aecaafbbfa5) |
 | Tue, 30 Sep 2025 06:15:23 GMT | Why Everyone Is Downloading a VPN in 2025 (Before It’s Too Late) | James Robert | [Read More](https://medium.com/p/64c4260063ae) |
-| Tue, 30 Sep 2025 06:12:39 GMT | Top 5 Terms & Conditions Lawyers for Online Businesses in Santa Monica | Hansen Tong | [Read More](https://medium.com/p/351175657bd8) |
-| Tue, 30 Sep 2025 06:11:59 GMT | CISA Sounds Alarm on Critical Sudo Vulnerability Exploited in Linux and Unix Systems: What… | Germano Costi | [Read More](https://medium.com/p/636bb7d01ed9) |
-| Tue, 30 Sep 2025 06:10:38 GMT | Top 5 IT Skills Every Fresher Should Learn Before Applying for Jobs | Itsmebarryallenu | [Read More](https://medium.com/p/99a637c8eac8) |
-| Tue, 30 Sep 2025 06:07:42 GMT | Certified in Cybersecurity (CC) Series: The Overview | TechStoryLines | [Read More](https://medium.com/p/982099ee4daf) |
-| Tue, 30 Sep 2025 06:05:44 GMT | The Psychology of Hackers: Why Curiosity Turns Into Crime | Md Faiyaz Khan | [Read More](https://medium.com/p/3a51e0207170) |
-| Tue, 30 Sep 2025 06:02:09 GMT | Ethics, Transparency, and Security in Agentic AI for Enterprises | Caamanno | [Read More](https://medium.com/p/a4096e862e00) |
-| Tue, 30 Sep 2025 06:01:33 GMT | Dedicated Server Security: Best Practices Every Business Should Know | Swapnil S. | [Read More](https://medium.com/p/cde830be5f6f) |
-| Tue, 30 Sep 2025 05:58:43 GMT | In-Depth Look at India’s Top 3 Cybersecurity Companies | Archit Vats | [Read More](https://medium.com/p/d6edf1be637a) |
-| Tue, 30 Sep 2025 05:57:57 GMT | Build a secure, idempotent PHP webhook handler for payment gateways (ready-to-paste code) | Md Shoyeb Hossain | [Read More](https://medium.com/p/295383ae7373) |
-| Tue, 30 Sep 2025 05:44:41 GMT | AI Chatbots Fail to Set Boundaries When Users Are Most Vulnerable | Prashant Lodaya | [Read More](https://medium.com/p/f7ffc933932f) |
-| Tue, 30 Sep 2025 05:40:38 GMT | picoCTF Web Exploitation: Where are the robots.. | Deepika  B | [Read More](https://medium.com/p/ef5c1b6123cd) |
