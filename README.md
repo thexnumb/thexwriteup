@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 13:41:18 GMT | Stored Cross-Site Scripting (XSS) in SourceCodester Web-based Pharmacy Product Management System… | Sourabhthakur | [Read More](https://medium.com/p/1e85d144079b) |
+| Tue, 30 Sep 2025 13:40:54 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/d67126992750) |
+| Tue, 30 Sep 2025 13:39:46 GMT | Can a PDF File Be Malware? The Hidden Dangers You Need to Know | Cordula Boeck | [Read More](https://medium.com/p/bdd5d1eb1cb2) |
+| Tue, 30 Sep 2025 13:39:36 GMT | Cybersecurity and Privacy in EdTech: Why It Matters More Than Ever | Muhammad Ali Hassan | [Read More](https://medium.com/p/0e2a4adbf27b) |
+| Tue, 30 Sep 2025 13:39:12 GMT | Exploring Processes, Threads, Handles, and the Windows Registry | Cyber Timi | [Read More](https://medium.com/p/cdc396df6439) |
+| Tue, 30 Sep 2025 13:34:57 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ffc7428591da) |
+| Tue, 30 Sep 2025 13:30:53 GMT | How to Configure FoxyProxy with Burp Suite on Kali Linux | Apexium Technologies Ltd | [Read More](https://medium.com/p/1c43bb20e458) |
+| Tue, 30 Sep 2025 13:30:02 GMT | Lab 4 — UNION SQL Injection: Find Text Column & Extract Database Version | Apexium Technologies Ltd | [Read More](https://medium.com/p/84b9147bbbdf) |
+| Tue, 30 Sep 2025 13:29:35 GMT | Lab 6: SQL injection attack, listing the database contents on Oracle | Apexium Technologies Ltd | [Read More](https://medium.com/p/0e99ec8e6252) |
 | Tue, 30 Sep 2025 13:24:09 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9f99ebc6e12c) |
 | Tue, 30 Sep 2025 13:21:16 GMT | Why Hackers Love Free Wi-Fi (and What You Should Do Before Connecting Again) | Anik Mehta | [Read More](https://medium.com/p/306c7e72fe67) |
 | Tue, 30 Sep 2025 13:20:05 GMT | DoH Downgrade: An Unintended Backdoor to Unencrypted DNS | Wraith | [Read More](https://medium.com/p/36ee5fe35866) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 09:39:34 GMT | The difference between a rejected and accepted AWS Community Builder? One word: impact. | Vijay Sekar T G | [Read More](https://medium.com/p/e0422cda5fd4) |
 | Tue, 30 Sep 2025 09:39:10 GMT | Application Security: Securing Web Applications | Cyber Security Research | [Read More](https://medium.com/p/82e390a3c0a0) |
 | Tue, 30 Sep 2025 09:38:29 GMT | “8 AI Skills That Instantly Made Me Irreplaceable” | Muhummad Zaki | [Read More](https://medium.com/p/7809e33e9ce2) |
-| Tue, 30 Sep 2025 09:37:58 GMT | AI-Powered Risk Mitigation: Use Cases, Developing Process & Cost | IdeaUsher | [Read More](https://medium.com/p/5ff1a414f3c3) |
-| Tue, 30 Sep 2025 09:37:35 GMT | Digital Twin Security: Safeguarding the Future of Connected Industries | Jackdavis Iap | [Read More](https://medium.com/p/9edd650af508) |
-| Tue, 30 Sep 2025 09:36:36 GMT | How Everyday Cyber Defenses Protect You Without You Knowing | Shahzaib | [Read More](https://medium.com/p/cb7d26be9614) |
-| Tue, 30 Sep 2025 09:35:21 GMT | Historias que hablan de vulnerabilidad | Maria Ospina | [Read More](https://medium.com/p/7859d31bbf83) |
-| Tue, 30 Sep 2025 09:33:56 GMT | Cowsay as a Service (CaaS) — PicoCTF Walkthrough | 127.0.0.1 | [Read More](https://medium.com/p/0c102345eac0) |
-| Tue, 30 Sep 2025 09:28:58 GMT | 10 Techniques For Fixing Bugs In Production | Amaralisa | [Read More](https://medium.com/p/79956fdfa5ee) |
-| Tue, 30 Sep 2025 09:26:57 GMT | Signal Lost: When a Deepfake Wears the CEO’s Face | ComsignTrust LTD | [Read More](https://medium.com/p/feda14a752bd) |
-| Tue, 30 Sep 2025 09:26:42 GMT | Endpoint Security: Protecting Devices from Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/892c8db8241c) |
-| Tue, 30 Sep 2025 09:26:24 GMT | Security Doors in Werribee | SPM Melbourne Pty Ltd | [Read More](https://medium.com/p/77ac87a8d50e) |
