@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 19:30:34 GMT | Web Zafiyetleri Serisi #6 | Didem Kış | [Read More](https://medium.com/p/8f6692e94ad3) |
+| Tue, 30 Sep 2025 19:27:18 GMT | How Bitunix Strengthens the Future of Crypto Protection | Mr Alex Yung® | [Read More](https://medium.com/p/5fc4f9262008) |
+| Tue, 30 Sep 2025 19:26:29 GMT | PicoCTF Writeup 1: Cookie | Agarwaldaksh | [Read More](https://medium.com/p/157b85d7a8f1) |
+| Tue, 30 Sep 2025 19:22:35 GMT | Part 1 : intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/15af4966836d) |
+| Tue, 30 Sep 2025 19:18:40 GMT | The Premium is the Victim: macOS Under Siege | Rodrigo Gutierrez | [Read More](https://medium.com/p/693d96a8e22b) |
+| Tue, 30 Sep 2025 19:14:52 GMT | EEMS SSO: Simplifying Secure Access for Modern Organizations | SafeAeon Inc. | [Read More](https://medium.com/p/3aa9ac544010) |
+| Tue, 30 Sep 2025 19:13:42 GMT | The Dark Side of the Digital Playground: How Our Children’s Privacy Is Becoming a Ticking Bomb | Kerim Kabakbaş | [Read More](https://medium.com/p/87590c61ad0a) |
+| Tue, 30 Sep 2025 19:13:28 GMT | THM- Neighbour — Write-Up | J Linton | [Read More](https://medium.com/p/44cce6d99a93) |
+| Tue, 30 Sep 2025 19:13:02 GMT | Splunk Threat Hunting Guide: Identifying Lateral Movement with WMI (ATT&CK T1047) | Allen Ace | [Read More](https://medium.com/p/ab8df92e2715) |
 | Tue, 30 Sep 2025 19:09:24 GMT | Crossing Boundaries: User Space ↔ Kernel Space Memory Access in Linux | Anup Keshwani | [Read More](https://medium.com/p/8909544a10f7) |
+| Tue, 30 Sep 2025 19:06:13 GMT | Purple Team Maturity Model: From Chaos to Controlled Chaos | Silas Potter | [Read More](https://medium.com/p/e5dbc67ceb88) |
 | Tue, 30 Sep 2025 18:57:56 GMT | Wonderland writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/66d7885bdd62) |
 | Tue, 30 Sep 2025 18:56:19 GMT | “ Investigative Reversing 4 “ challenge | oussama | [Read More](https://medium.com/p/c8f329011fe5) |
 | Tue, 30 Sep 2025 18:49:47 GMT | HTB - Data — Machine Walkthrough | Simi | [Read More](https://medium.com/p/38da88e74dc1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 14:26:09 GMT | E-posta Protokolleri: POP, IMAP ve SMTP Rehberi | Busraugur | [Read More](https://medium.com/p/bc6ccb4e1cee) |
 | Tue, 30 Sep 2025 14:23:04 GMT | EMV Standardı Nedir? Kart Hamili Doğrulama (CVM) Yöntemlerine Teknik Bir Bakış | Mete Can Özbay | [Read More](https://medium.com/p/b371aecb41c2) |
 | Tue, 30 Sep 2025 14:16:12 GMT | South Europe College: A Modern Educational System for the Modern Learner | SINEM | [Read More](https://medium.com/p/ffb065099fb4) |
-| Tue, 30 Sep 2025 14:11:54 GMT | Accessing a private AWS RDS database via an EC2 bastion host using an SSM tunnel from a local… | Barathkanthrajkumar | [Read More](https://medium.com/p/610920795ff8) |
-| Tue, 30 Sep 2025 14:11:51 GMT | TryHackMe #70 - Eviction | 0xGroot | [Read More](https://medium.com/p/b90712f71f65) |
-| Tue, 30 Sep 2025 14:07:51 GMT | TryHackMe #69 - Summit | 0xGroot | [Read More](https://medium.com/p/8162e8169fe1) |
-| Tue, 30 Sep 2025 14:04:10 GMT | Mastering Container Security in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/5bdc3f801dc7) |
-| Tue, 30 Sep 2025 14:02:17 GMT | Cyber Briefing: 2025.09.30 | CyberMaterial | [Read More](https://medium.com/p/f6cad6ec22c7) |
-| Tue, 30 Sep 2025 14:02:17 GMT | TryHackMe #68 - MITRE | 0xGroot | [Read More](https://medium.com/p/527234a4958f) |
-| Tue, 30 Sep 2025 14:02:15 GMT | Part 5: Computer Networking Basic | Intelithics | [Read More](https://medium.com/p/b19bbcac3270) |
-| Tue, 30 Sep 2025 14:01:28 GMT | Building a Cyber Security Portfolio — Technical Step 2: You say AADD, I say ADDS, Lets turn the… | Randy Puffin | [Read More](https://medium.com/p/ff8149fcd929) |
-| Tue, 30 Sep 2025 14:00:56 GMT | The Problem Web3 Hasn’t Solved Yet — And How ABTU Is Changing the Game | Abatis ABTU | [Read More](https://medium.com/p/70a14a16eb40) |
-| Tue, 30 Sep 2025 13:56:41 GMT | Expert Guide to Container Security in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/5fdbce1f2941) |
