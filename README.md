@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 22:11:37 GMT | Code Control | ekomsSavior | [Read More](https://medium.com/p/f2fa79ddb09e) |
+| Tue, 30 Sep 2025 22:11:20 GMT | Top 10 Critical Google Dorks for Advanced Bug Bounty & Web Penetration Testing | Rajput Haxor Aka Rudra Pratap Singh | [Read More](https://medium.com/p/abbfdeda879b) |
+| Tue, 30 Sep 2025 22:09:15 GMT | Join the CVE Program’s Automation Working Group (AWG)! | CVE Program Blog | [Read More](https://medium.com/p/ba1a28245aed) |
+| Tue, 30 Sep 2025 22:07:54 GMT | Brooklyn Nine Nine writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/2528b738a1f2) |
+| Tue, 30 Sep 2025 22:01:52 GMT | The Hidden Bottleneck in CI/CD Pipelines: Mismanaged Docker Images | Web3 Nautiyal | [Read More](https://medium.com/p/c12bb97fdd3d) |
+| Tue, 30 Sep 2025 21:47:57 GMT | Kyverno Deep Dive: Installing and Configuring Your Kubernetes Policy Engine (Part 2/5) | Salwan Mohamed | [Read More](https://medium.com/p/abc9af3f7b40) |
+| Tue, 30 Sep 2025 21:46:39 GMT | Designing Trust: Security and Privacy as Core UX Principles | Charlotte Rhodes | [Read More](https://medium.com/p/71834eca216c) |
+| Tue, 30 Sep 2025 21:39:51 GMT | Setup Splunk & Sysmon if you have a Mac Apple Silicon | Mcl0ng0ng | [Read More](https://medium.com/p/7e7d0642df98) |
+| Tue, 30 Sep 2025 21:37:51 GMT | Security Wants Zero CVEs, DevOps Wants Sleep | Mr.PlanB | [Read More](https://medium.com/p/938015dbeaf7) |
 | Tue, 30 Sep 2025 21:13:27 GMT | What Is AI? 
 The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More](https://medium.com/p/45b0dabc61f4) |
 | Tue, 30 Sep 2025 20:58:49 GMT | Attacktive Directory CTF — Tryhackme Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/c118639440cc) |
@@ -104,12 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 15:44:00 GMT | The Dark Side of AI: Risks, Ethics, and the Road Ahead | Programise | [Read More](https://medium.com/p/d7e4077b6551) |
 | Tue, 30 Sep 2025 15:41:06 GMT | The Day AI Tried To Hack Me: Lessons in Cybersecurity 2025 | Cyber Safety Zone | [Read More](https://medium.com/p/c8668da5a761) |
 | Tue, 30 Sep 2025 15:40:35 GMT | AI and Quantum: The Next Cybersecurity Frontier | CYBERUP INSTITUTE | [Read More](https://medium.com/p/17888fc5aec5) |
-| Tue, 30 Sep 2025 15:36:47 GMT | Deep Dive into IAM Roles: The Backbone of AWS Security | Yasmine | [Read More](https://medium.com/p/fc44727b74a6) |
-| Tue, 30 Sep 2025 15:35:19 GMT | GenAI for Fraud Detection and Response in Financial Services | Switch Software | [Read More](https://medium.com/p/acaeb312a6a8) |
-| Tue, 30 Sep 2025 15:33:38 GMT | Accelerating SOC: How Data Visualization Cuts Threat Analysis Time | Cybersecurity Umbrella | [Read More](https://medium.com/p/cf866b65a2bf) |
-| Tue, 30 Sep 2025 15:33:02 GMT | Windows File Share with Security Groups | James Rawlings | [Read More](https://medium.com/p/cefe3174b8a2) |
-| Tue, 30 Sep 2025 15:31:55 GMT | Firecracker vs Containers: Safer Inference, Same Speed | Nikulsinh Rajput | [Read More](https://medium.com/p/a51d76bc2044) |
-| Tue, 30 Sep 2025 15:30:10 GMT | I Used This Recon Protocol And Identified 18 Bugs In 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/7ee5bd1979dc) |
-| Tue, 30 Sep 2025 15:29:14 GMT | Click rate means success — when it comes to the Report Phish button | Alice Mini | [Read More](https://medium.com/p/2f0601da1170) |
-| Tue, 30 Sep 2025 15:27:03 GMT | How to build a bank p4: Workstations, DHCP and Users | Logan Elkins | [Read More](https://medium.com/p/ad81b716dd17) |
-| Tue, 30 Sep 2025 15:24:16 GMT | Penggantian Perancangan Topologi Jaringan Rumah Sakit | Yasa Wijaya | [Read More](https://medium.com/p/e41a4cb19458) |
