@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 02:52:24 GMT | Is Your Company Being Infiltrated by ‘AI Angels’? | Scott Huang | [Read More](https://medium.com/p/06886ec848cf) |
+| Tue, 30 Sep 2025 02:41:22 GMT | Google Fuchsia: The Microkernel Revolution That Actually Works | ThamizhElango Natarajan | [Read More](https://medium.com/p/589b1716ba55) |
+| Tue, 30 Sep 2025 02:37:51 GMT | Can Money Buy You Happiness and Security? | Michael Laitman | [Read More](https://medium.com/p/2f5f32b3970b) |
+| Tue, 30 Sep 2025 02:33:42 GMT | Cloud-Based Security ServicesTop Cyber Threats Stopped by Cloud-Based Security Services | planet6 | [Read More](https://medium.com/p/db0ef4c69ede) |
+| Tue, 30 Sep 2025 02:30:55 GMT | Exploiting CSRF flaw in login form into malicious redirection | rotiBagelen | [Read More](https://medium.com/p/3173abd6488c) |
+| Tue, 30 Sep 2025 02:25:43 GMT | Test Levels คืออะไร? ทำไม Dev กับ QA ต้องรู้ | kumoriiz | [Read More](https://medium.com/p/e7cb7fb22c69) |
+| Tue, 30 Sep 2025 02:24:51 GMT | How Scattered Spider Crippled M&S in the UK with Social Engineering and Ransomware | David SEHYEON Baek | [Read More](https://medium.com/p/0f5aefcb3c2d) |
+| Tue, 30 Sep 2025 02:22:22 GMT | Powershell Usage | Pedro Ribeiro | [Read More](https://medium.com/p/992d08290650) |
+| Tue, 30 Sep 2025 02:22:15 GMT | How to claim uspepe staking bonus | Bitcoinpepe | [Read More](https://medium.com/p/6e4bbafdddda) |
+| Tue, 30 Sep 2025 02:11:10 GMT | Violence from Another Realm: How AI Magnifies Digital Misogyny | Nathaly Luna | [Read More](https://medium.com/p/fa7fc0aac0dd) |
+| Tue, 30 Sep 2025 02:07:48 GMT | The Holiday Cyber Trap and Why Attackers Love Long Weekends More Than You Do | Maricar Hernandez | [Read More](https://medium.com/p/31262255f2dc) |
+| Tue, 30 Sep 2025 02:03:14 GMT | XSS Gym labs solution level 11–20 explaining each payload for complete beginners | T0n1x H3r0 | [Read More](https://medium.com/p/1bb9fb68d2bb) |
+| Tue, 30 Sep 2025 02:02:26 GMT | AI-Generated Code: Productivity Boost or Security Nightmare? | Deepak Mardi | [Read More](https://medium.com/p/06e2d7a73311) |
+| Tue, 30 Sep 2025 02:01:53 GMT | Faces We Wear, Masks We Shed | Unknown | [Read More](https://medium.com/p/48f3981e8344) |
+| Tue, 30 Sep 2025 01:49:58 GMT | The Weaponization of Artificial Intelligence: A New Era of Global Security Risks | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/73da2e291593) |
+| Tue, 30 Sep 2025 01:45:12 GMT | PSEB’s SkillBridge Internship 2025: Real Benefits, Risks & What Every IT Graduate Should Know | Owais Mustafa | [Read More](https://medium.com/p/f94da3c6cbd0) |
+| Tue, 30 Sep 2025 01:42:26 GMT | The Essence of “Sajiao”: Confidence Born from Security | Xiaochen | [Read More](https://medium.com/p/d61571777a79) |
+| Tue, 30 Sep 2025 01:32:06 GMT | 12 K8s Ingress Designs for Security and Speed | Modexa | [Read More](https://medium.com/p/aa2cb502eb86) |
 | Tue, 30 Sep 2025 01:19:07 GMT | U.S.–China Rivalry and Its Global Implications | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/0d1adfeb2ead) |
 | Tue, 30 Sep 2025 01:12:52 GMT | Threat Detection: Identifying Suspicious PowerShell Activities Using CrowdStrike Logs | Paritosh | [Read More](https://medium.com/p/1d154ec44964) |
 | Tue, 30 Sep 2025 01:12:43 GMT | Red-Teaming Generative AI | Zaina Haider | [Read More](https://medium.com/p/5955bbcdf21c) |
@@ -95,21 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 17:58:21 GMT | Linux Memory Forensics: When a Mole Gets Into a Web Server — A Step-by-Step Case Study | Emre Karatay | [Read More](https://medium.com/p/3fe628d8b83d) |
 | Mon, 29 Sep 2025 17:54:31 GMT | The Road to Modern Identity: Lessons from Migrating Away from Legacy Stacks | Veinu Vasisht | [Read More](https://medium.com/p/41b64a9525f2) |
 | Mon, 29 Sep 2025 17:52:14 GMT | How i Got $$$ For Token Based Rate limit Bypass | praveenarsh0xx0 | [Read More](https://medium.com/p/4841bbb3051c) |
-| Mon, 29 Sep 2025 17:49:27 GMT | Cisco ASA and IOS Zero-Days Under Active Exploitation | RealSec.io | [Read More](https://medium.com/p/0e12d5e4c99f) |
-| Mon, 29 Sep 2025 17:48:28 GMT | Used to Think Love Meant Fixing Everything | Kateryna Vynohradova | [Read More](https://medium.com/p/cb5eac148961) |
-| Mon, 29 Sep 2025 17:42:22 GMT | Unapologetically Authentic: Losing the Mask After Fifty | G.W. Johnston | [Read More](https://medium.com/p/0f1e96faf554) |
-| Mon, 29 Sep 2025 17:41:53 GMT | Computer & Technology Glossary | Amir Saeid Dehghan Tarzejani | [Read More](https://medium.com/p/4f64505520a2) |
-| Mon, 29 Sep 2025 17:17:54 GMT | Wazuh–Graylog Architecture: Normalizing & Enriching Security Logs ️ | Arfan Abid | [Read More](https://medium.com/p/fe2348e916e8) |
-| Mon, 29 Sep 2025 17:11:50 GMT | Integrating Benchmarks and Reality: A Synthesis of Google Research and B. | Berend Watchus | [Read More](https://medium.com/p/9bb95b4006a5) |
-| Mon, 29 Sep 2025 17:10:32 GMT | AI Security Survey Papers — 2025 | Tal Eliyahu | [Read More](https://medium.com/p/a4413453855a) |
-| Mon, 29 Sep 2025 17:08:45 GMT | My Hackviser Warmup Journey: 4 Labs That Kickstarted My Penetration Testing Skills | Muse Abdulrahmon | [Read More](https://medium.com/p/516bd6ca7652) |
-| Mon, 29 Sep 2025 17:08:34 GMT | Inside Germany’s Ransomware Struggle: Lessons from Real Incidents | Cordula Boeck | [Read More](https://medium.com/p/4c05d9536510) |
-| Mon, 29 Sep 2025 17:05:00 GMT | AI vs Back-end Developers | Jitesh Bansal | [Read More](https://medium.com/p/ffdbee535faf) |
-| Mon, 29 Sep 2025 17:02:53 GMT | LocalBizAI xBundle information | SHAHUL HAMEED | [Read More](https://medium.com/p/cf1aec520d73) |
-| Mon, 29 Sep 2025 17:02:52 GMT | Top 11 cyber stories (Week: Sept 22–28, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/0260ebdd35c8) |
-| Mon, 29 Sep 2025 17:02:33 GMT | Shift-Left Security: Why It Matters? | Prasad Wani | [Read More](https://medium.com/p/199351c5f0bb) |
-| Mon, 29 Sep 2025 16:55:20 GMT | Rainbow Secure: Protecting Businesses Even When Credentials Are Exposed on the Dark Web | Dr. Shashi Karhail | [Read More](https://medium.com/p/35fd7047dfde) |
-| Mon, 29 Sep 2025 16:52:14 GMT | Why Melbourne Businesses Can’t Afford to Ignore Cybersecurity in 2025 | ITAdOn IT Solutions | [Read More](https://medium.com/p/b4dfd6d0ddd4) |
-| Mon, 29 Sep 2025 16:50:31 GMT | 5 Reasons to Regularly Review Your IT Outsourcing Partner | Evgeny Ermakov | [Read More](https://medium.com/p/f707cd26fff8) |
-| Mon, 29 Sep 2025 16:42:29 GMT | SEC Chair Atkins Vows Action on Crypto Conflicts | Catenaa | [Read More](https://medium.com/p/5d47187b35a4) |
-| Mon, 29 Sep 2025 16:40:22 GMT | Laravel 12.30 Just Changed Middleware Forever — Here’s How | Sadique Ali | [Read More](https://medium.com/p/c1b1405ebb41) |
