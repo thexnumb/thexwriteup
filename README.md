@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 16:40:05 GMT | Introduction to Bug Bounty: Techniques & Tools for Beginners | mohandika | [Read More](https://medium.com/p/579e396cbb58) |
+| Tue, 30 Sep 2025 16:38:01 GMT | Spotting Deception in Cybersecurity | Configr Technologies | [Read More](https://medium.com/p/b05cff95bc6e) |
+| Tue, 30 Sep 2025 16:37:28 GMT | Exploring the Future of Cybersecurity Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/6c87b84fb936) |
+| Tue, 30 Sep 2025 16:37:16 GMT | Red Alert: Critical Flaw in Cisco VPNs Sparks 24-Hour Cyber Emergency | Aj | [Read More](https://medium.com/p/b64bbc5531ad) |
+| Tue, 30 Sep 2025 16:33:04 GMT | AI Security 101 — Gandalf Challenges | Authorized Entry | [Read More](https://medium.com/p/740241963c21) |
+| Tue, 30 Sep 2025 16:31:36 GMT | Shells Overview | Isiah | [Read More](https://medium.com/p/696805efe7f9) |
+| Tue, 30 Sep 2025 16:30:24 GMT | How to Back Up Your Data Before a Computer Repair (So You Don’t Lose Everything) | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/12db5e56e3b1) |
+| Tue, 30 Sep 2025 16:30:11 GMT | My eJPTv2 Journey: How I Passed and What I Learned | Areeba Fayyaz | [Read More](https://medium.com/p/2e6204106a26) |
+| Tue, 30 Sep 2025 16:30:09 GMT | The Hidden Costs of Ignoring Computer Repairs | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/8be956157446) |
+| Tue, 30 Sep 2025 16:29:59 GMT | Laptop Overheating? Here’s How to Diagnose and Solve the Problem | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/8257551594b2) |
+| Tue, 30 Sep 2025 16:27:51 GMT | Why OpenID Connect Isn’t Complex — It’s the Missing Link in .NET Security | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/b9ab4f2647dd) |
+| Tue, 30 Sep 2025 16:16:52 GMT | Embedding Cloud Security into Startups | Andrii Shyshenko | [Read More](https://medium.com/p/93b062898ada) |
 | Tue, 30 Sep 2025 16:12:44 GMT | Don’t Let Apps Trick You: A Simple Guide to Staying Safe Online | Hitesh Said | [Read More](https://medium.com/p/96a1cf9c6923) |
 | Tue, 30 Sep 2025 16:11:48 GMT | Stored XSS (Why output encoding is a YES!) | CyrilLK | [Read More](https://medium.com/p/282f8c45b47e) |
 | Tue, 30 Sep 2025 16:01:13 GMT | Blue Team: Quando defender também pode ser legal | Thiago Castro | [Read More](https://medium.com/p/b0d13ecb7f02) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 12:05:33 GMT | Adversarial Fraud Analytics: Why Fraudsters Are the Best Machine Learning Engineers You’ve Never… | Robin Beura | [Read More](https://medium.com/p/05ca5488bf38) |
 | Tue, 30 Sep 2025 12:05:21 GMT | Unifying Identity and Data Security: Real Application Security with Active Directory | Thomas Minne | [Read More](https://medium.com/p/814b079567b9) |
 | Tue, 30 Sep 2025 12:02:12 GMT | OpenSSL: The Ultimate Toolkit for Encryption, Hashing, and Secure Communication | Hasanhawary | [Read More](https://medium.com/p/fed6ab3e8137) |
-| Tue, 30 Sep 2025 11:56:33 GMT | Beyond Uptime: Strategic IT Operations Management for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/df9733e91e03) |
-| Tue, 30 Sep 2025 11:54:34 GMT | From Chaos to Control: Kanvas Incident Management Tool | Netlas.io | [Read More](https://medium.com/p/5170d4146ce2) |
-| Tue, 30 Sep 2025 11:52:25 GMT | Worried About the Layoffs Start Your Career In AWS? | Mohammed Numan | [Read More](https://medium.com/p/67bbdb9e55d8) |
-| Tue, 30 Sep 2025 11:51:40 GMT | The Interview That Didn’t Break Me | Denise Sophy | [Read More](https://medium.com/p/bc843bfdd9db) |
-| Tue, 30 Sep 2025 11:48:17 GMT | Vibe Hacking: The AI Cyberattack You Aren’t Ready For 2026 | Jennifer Wales | [Read More](https://medium.com/p/78ee241e779b) |
-| Tue, 30 Sep 2025 11:46:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/73760b7dc43d) |
-| Tue, 30 Sep 2025 11:44:51 GMT | Why “I Have Nothing to Hide” Is the Biggest Lie in Cybersecurity | Arfa | [Read More](https://medium.com/p/94e5b2c9c8ab) |
-| Tue, 30 Sep 2025 11:39:59 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/264645f0b0d1) |
-| Tue, 30 Sep 2025 11:39:01 GMT | Why ServiceNow GRC is essential for compliance-driven industries | Alex s | [Read More](https://medium.com/p/d652976bde1c) |
-| Tue, 30 Sep 2025 11:37:22 GMT | What If It Doesn’t Work Out? What If It Does? | Becca Rose | [Read More](https://medium.com/p/ff54f34af1e0) |
-| Tue, 30 Sep 2025 11:32:36 GMT | React Native’s New Architecture in 2025: How to Adopt It | React Native Development Company | [Read More](https://medium.com/p/9d1b41b2a180) |
-| Tue, 30 Sep 2025 11:27:39 GMT | What are the 5 stages of Ethical Hacking? | cyber security Updates | [Read More](https://medium.com/p/2d1a1c317b8f) |
