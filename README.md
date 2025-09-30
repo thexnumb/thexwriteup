@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 17:31:21 GMT | Units.Network implementing Safe multisig, focusing on clarity, depth, and natural flow: | 0x3dot | [Read More](https://medium.com/p/83536bada054) |
+| Tue, 30 Sep 2025 17:27:01 GMT | Python Power Moves Every Developer Should Know | Kainat Nafees | [Read More](https://medium.com/p/416e85d1dda6) |
+| Tue, 30 Sep 2025 17:22:02 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and “Use cases of Perplexity Comet browser and… | Nitin Garg | [Read More](https://medium.com/p/edcdffbabd91) |
+| Tue, 30 Sep 2025 17:21:01 GMT | Breaking the Myth: Why Security Is Everyone’s Responsibility in Modern DevOps | Salwan Mohamed | [Read More](https://medium.com/p/a8e91a0968bf) |
+| Tue, 30 Sep 2025 17:16:44 GMT | CVE-2024–3400: Attackers Revive a Palo Alto GlobalProtect RCE — Exploitation and Detection | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/118eb578a3e3) |
 | Tue, 30 Sep 2025 17:14:17 GMT | The CISO’s Guide to Taming the SIEM Cost Curve | Graylog | [Read More](https://medium.com/p/0d46ef939840) |
 | Tue, 30 Sep 2025 17:11:11 GMT | Our Security Team Wants Zero CVEs in Production. Our Containers Have 200+. What’s Realistic? | Ajay Kumar | [Read More](https://medium.com/p/74e3cb5a69cb) |
 | Tue, 30 Sep 2025 17:08:57 GMT | MQTT (Mosquitto) — Bugged TryHackMe (walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/b39d49e0cf9e) |
@@ -52,6 +57,8 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 15:29:14 GMT | Click rate means success — when it comes to the Report Phish button | Alice Mini | [Read More](https://medium.com/p/2f0601da1170) |
 | Tue, 30 Sep 2025 15:27:03 GMT | How to build a bank p4: Workstations, DHCP and Users | Logan Elkins | [Read More](https://medium.com/p/ad81b716dd17) |
 | Tue, 30 Sep 2025 15:24:16 GMT | Penggantian Perancangan Topologi Jaringan Rumah Sakit | Yasa Wijaya | [Read More](https://medium.com/p/e41a4cb19458) |
+| Tue, 30 Sep 2025 15:23:48 GMT | COTI Earn: Real Rewards, Every Day | COTI | [Read More](https://medium.com/p/6546d27ffc48) |
+| Tue, 30 Sep 2025 15:19:30 GMT | COTI Earn - Here’s What You Need to Know | COTI | [Read More](https://medium.com/p/293428ed3072) |
 | Tue, 30 Sep 2025 15:19:04 GMT | Achieving Strong Cyber Defense Through Monitoring and SIEM-Based Protection | Vijilan | [Read More](https://medium.com/p/c0f7f0bc1013) |
 | Tue, 30 Sep 2025 15:18:57 GMT | When LLMs Spill What They Shouldn’t | Rabia AMAAOUCH | [Read More](https://medium.com/p/205c9dfa9b5c) |
 | Tue, 30 Sep 2025 15:15:03 GMT | GZR Observer Daily — Sep 30, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/46e08acefbe1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 13:07:46 GMT | 15 Kubernetes Mistakes That Will Ruin Your Weekend | Zudonu Osomudeya | [Read More](https://medium.com/p/37b430705c60) |
 | Tue, 30 Sep 2025 13:02:42 GMT | Building My Own AI Workflow Automation System in 2025 | J. David Smith | [Read More](https://medium.com/p/01e82d3af36d) |
 | Tue, 30 Sep 2025 13:02:13 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Disconnection | 24H Garage Doors | [Read More](https://medium.com/p/41a8a990e761) |
-| Tue, 30 Sep 2025 13:02:12 GMT | How AI Agents May Supercharge the Cyber Crime Economy | Milos | [Read More](https://medium.com/p/32145ab8a608) |
-| Tue, 30 Sep 2025 12:59:47 GMT | How To Hire A Hacker | Sydney Brooks | [Read More](https://medium.com/p/007e2c912c70) |
-| Tue, 30 Sep 2025 12:59:42 GMT | The Economics of Cybersecurity: Understanding the Cost of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/f627e8c04500) |
-| Tue, 30 Sep 2025 12:58:47 GMT | Remote Code Execution vulnerabilities uncovered in Apache Commons Configuration | ZAST AI | [Read More](https://medium.com/p/2b4c95775a3a) |
-| Tue, 30 Sep 2025 12:57:41 GMT | From Boots to Bytes | Kara Davis | [Read More](https://medium.com/p/32dde2e33676) |
-| Tue, 30 Sep 2025 12:53:43 GMT | The Hidden Career Killer: Poor Mood Management | Tyler Wall | [Read More](https://medium.com/p/79d0e2c5a352) |
-| Tue, 30 Sep 2025 12:53:41 GMT | Cybersecurity Certifications: Advancing Your Career | Cyber Security Research | [Read More](https://medium.com/p/9a1fe4577095) |
