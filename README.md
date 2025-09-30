@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 21:13:27 GMT | What Is AI? 
+The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More](https://medium.com/p/45b0dabc61f4) |
+| Tue, 30 Sep 2025 20:58:49 GMT | Attacktive Directory CTF — Tryhackme Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/c118639440cc) |
+| Tue, 30 Sep 2025 20:57:30 GMT | Secretary of War Pete Hegseth Sparks Outrage with "Fat Generals" Speech | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/60911a548e19) |
+| Tue, 30 Sep 2025 20:50:27 GMT | 90% of Companies Get This Wrong: Vulnerability Scanning vs. Pen Testing. | SRS_ZeroTrust | [Read More](https://medium.com/p/8caf44a53536) |
+| Tue, 30 Sep 2025 20:50:04 GMT | Configuring pfSense and implementing IDS/IPS using Snort | EPereda | [Read More](https://medium.com/p/8a362c3324c0) |
+| Tue, 30 Sep 2025 20:46:47 GMT | Governing Kubernetes and Policy Engines: A Comprehensive Guide (Part 1/5) | Salwan Mohamed | [Read More](https://medium.com/p/e28fac738a61) |
+| Tue, 30 Sep 2025 20:42:36 GMT | The Abyssal Heir | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/49dc98bed454) |
+| Tue, 30 Sep 2025 20:42:31 GMT | Dark Web Ekonomisi: Günlük Hatalarımızın Küresel Veri Ticareti Üzerindeki Etkisi | Aybike Tutar | [Read More](https://medium.com/p/766bef960722) |
 | Tue, 30 Sep 2025 20:27:28 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/b9130fe59236) |
 | Tue, 30 Sep 2025 20:23:28 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking | Shaun Mathew | [Read More](https://medium.com/p/8673dd7f7c73) |
 | Tue, 30 Sep 2025 20:21:48 GMT | Budgets with purpose: 2026 as an inflection year | Rodrigo Gutierrez | [Read More](https://medium.com/p/99df2887f269) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 15:29:14 GMT | Click rate means success — when it comes to the Report Phish button | Alice Mini | [Read More](https://medium.com/p/2f0601da1170) |
 | Tue, 30 Sep 2025 15:27:03 GMT | How to build a bank p4: Workstations, DHCP and Users | Logan Elkins | [Read More](https://medium.com/p/ad81b716dd17) |
 | Tue, 30 Sep 2025 15:24:16 GMT | Penggantian Perancangan Topologi Jaringan Rumah Sakit | Yasa Wijaya | [Read More](https://medium.com/p/e41a4cb19458) |
-| Tue, 30 Sep 2025 15:23:48 GMT | COTI Earn: Real Rewards, Every Day | COTI | [Read More](https://medium.com/p/6546d27ffc48) |
-| Tue, 30 Sep 2025 15:19:30 GMT | COTI Earn - Here’s What You Need to Know | COTI | [Read More](https://medium.com/p/293428ed3072) |
-| Tue, 30 Sep 2025 15:19:04 GMT | Achieving Strong Cyber Defense Through Monitoring and SIEM-Based Protection | Vijilan | [Read More](https://medium.com/p/c0f7f0bc1013) |
-| Tue, 30 Sep 2025 15:18:57 GMT | When LLMs Spill What They Shouldn’t | Rabia AMAAOUCH | [Read More](https://medium.com/p/205c9dfa9b5c) |
-| Tue, 30 Sep 2025 15:15:03 GMT | GZR Observer Daily — Sep 30, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/46e08acefbe1) |
-| Tue, 30 Sep 2025 15:09:17 GMT | "Predatory FinOps": How to Spot It, Stop It, and Keep the Room Together | Tim O'Brien | [Read More](https://medium.com/p/6d485698a1bf) |
-| Tue, 30 Sep 2025 15:09:05 GMT | Hidden Cameras, Exploitation, and the Fight Against Non-Consensual Pornography | Internet Exposed | [Read More](https://medium.com/p/b6a532016e4f) |
-| Tue, 30 Sep 2025 15:04:03 GMT | Penelitian usabilitas keamanan pada email terenkripsi | wijdan hafizhan | [Read More](https://medium.com/p/2b0fbb94f260) |
