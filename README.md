@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 04:17:14 GMT | Real-world APT case analysis | Ash | [Read More](https://medium.com/p/08cb6c799403) |
+| Tue, 30 Sep 2025 04:14:01 GMT | Cyber Security Kya Hai? Ek Simple Guide for Beginners | Foujisahab | [Read More](https://medium.com/p/cb7baa83bc84) |
+| Tue, 30 Sep 2025 03:53:17 GMT | The Impact of Social Media on Youth Political Participation | Justine Jay Castillo | [Read More](https://medium.com/p/40f18858cb06) |
+| Tue, 30 Sep 2025 03:52:23 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/4c4712299908) |
+| Tue, 30 Sep 2025 03:42:34 GMT | PostgreSQL 18 Data Checksums Enabled by Default: Security Implications | Rizqi Mulki | [Read More](https://medium.com/p/dcca2f6d4bd0) |
+| Tue, 30 Sep 2025 03:42:28 GMT | Choose a Dark Web Monitoring Platform that Delivers Actionable Threat Intelligence | David SEHYEON Baek | [Read More](https://medium.com/p/8d35c05c1bb2) |
+| Tue, 30 Sep 2025 03:40:25 GMT | OWASP Top 10 – Risk #1: Broken Access Control | Ashishsinghu | [Read More](https://medium.com/p/b7916fd6e45f) |
+| Tue, 30 Sep 2025 03:35:17 GMT | Hacking APIs: Insufficient JSON Payload Validation | Israel Aráoz Severiche | [Read More](https://medium.com/p/525d20cd8591) |
+| Tue, 30 Sep 2025 03:31:51 GMT | 8 Key Features of Effective Circuit Breakers in Node.js | Arunangshu Das | [Read More](https://medium.com/p/092c8461dabc) |
+| Tue, 30 Sep 2025 03:31:51 GMT | WASI 2.0 Components: Portable, Fast Plugins | Nikulsinh Rajput | [Read More](https://medium.com/p/58c24d891584) |
+| Tue, 30 Sep 2025 03:31:51 GMT | 15 Steps to a Secure Your SaaS Launch | Random Access | [Read More](https://medium.com/p/2ed7717604a1) |
+| Tue, 30 Sep 2025 03:31:51 GMT | Unmasking the Solar Scam: How Android Malware Exploits India’s PM Surya Ghar Scheme | Deven Chhajed | [Read More](https://medium.com/p/bac3d739d9b5) |
+| Tue, 30 Sep 2025 03:31:51 GMT | Telegram “Encryption Confusion” Explained (No-BS Guide) | Shariq Mohamed Yusuf | [Read More](https://medium.com/p/3a55903d6c64) |
+| Tue, 30 Sep 2025 03:27:20 GMT | YasirGo Beta: India Launch Update | YASIRGO | [Read More](https://medium.com/p/f743f2385b49) |
 | Tue, 30 Sep 2025 03:21:20 GMT | Hackers Are Targeting Healthcare and Turning Patients into Hostages | David SEHYEON Baek | [Read More](https://medium.com/p/686ff721b61d) |
 | Tue, 30 Sep 2025 03:20:59 GMT | File Upload Character Injection wordlist | Fatimahasan | [Read More](https://medium.com/p/01dfe55f0009) |
 | Tue, 30 Sep 2025 03:11:53 GMT | The Cloud Security Alliance AICM — What It Means for OEMs | Dr. Deep Pandey | [Read More](https://medium.com/p/8f1c9b02cc01) |
@@ -99,17 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 19:21:53 GMT | What is a Leap? | Vlad Nistor | [Read More](https://medium.com/p/9566c8a24def) |
 | Mon, 29 Sep 2025 19:18:07 GMT | Top 6 Microsoft 365, EntraID and Azure Security Misconfigurations — Part 3/3 | Alain Keller | [Read More](https://medium.com/p/fab9c5ce76f6) |
 | Mon, 29 Sep 2025 19:12:19 GMT | Containers & Docker Exploitation | Cybersecplayground | [Read More](https://medium.com/p/c9155e7540b5) |
-| Mon, 29 Sep 2025 19:05:24 GMT | Leverage the tools without compromising your voice. | Aliyu Ibrahim | [Read More](https://medium.com/p/4b267928dd7b) |
-| Mon, 29 Sep 2025 19:04:28 GMT | Man in the middle attack with bettercap | Kiptryin | [Read More](https://medium.com/p/690631a48b9b) |
-| Mon, 29 Sep 2025 18:56:09 GMT | The Truth About Public WiFi: How Safe Is It Really? | Aj | [Read More](https://medium.com/p/aafb8f1ea332) |
-| Mon, 29 Sep 2025 18:55:58 GMT | That Viral ‘Zoom Hack’ Isn’t a Hack: It’s a Social Engineering Scam | CyberAmir | [Read More](https://medium.com/p/a3c23d197d67) |
-| Mon, 29 Sep 2025 18:50:36 GMT | CMMC Requirements: What Businesses Need to Know | Sammie Singh | [Read More](https://medium.com/p/ca2fdc3f273c) |
-| Mon, 29 Sep 2025 18:41:16 GMT | The Designer’s Role in Cybersecurity | Djagileva Maria | [Read More](https://medium.com/p/48f2e09d133f) |
-| Mon, 29 Sep 2025 18:37:53 GMT | The Importance of Regular Software Updates and Patch Management | Bhushan | [Read More](https://medium.com/p/71357fe83962) |
-| Mon, 29 Sep 2025 18:32:30 GMT | Phone Scams Exposed: How Criminals Trick You and How to Stay Safe | SafeAeon Inc. | [Read More](https://medium.com/p/79e5d2635c19) |
-| Mon, 29 Sep 2025 18:27:47 GMT | Office 365 Email Encryption: Keeping Business Communication Secure | SafeAeon Inc. | [Read More](https://medium.com/p/466e22f24d90) |
-| Mon, 29 Sep 2025 18:24:08 GMT | Top 10 Most DEADLY Kali Linux Commands (Beginners BEWARE!) | Shahzaib | [Read More](https://medium.com/p/e4c572970d28) |
-| Mon, 29 Sep 2025 18:23:35 GMT | La Ruleta - Script en Bash (ruleta.sh) | FN8 | [Read More](https://medium.com/p/c0a72d5ac13f) |
-| Mon, 29 Sep 2025 18:21:30 GMT | Pivot and Chained Vulnerabilities in Cybersecurity | Similoluwa Adelowo | [Read More](https://medium.com/p/5ad9b26c6508) |
-| Mon, 29 Sep 2025 18:19:59 GMT | Dark Web Links: What They Are and Why They Matter | SafeAeon Inc. | [Read More](https://medium.com/p/e6492fb86218) |
-| Mon, 29 Sep 2025 18:17:02 GMT | Use AI to Outpace Cyber Defenses | Matthew.Rosenquist | [Read More](https://medium.com/p/cb50ed789d7d) |
