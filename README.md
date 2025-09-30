@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 14:28:32 GMT | Day 26: Firewalls (Stateful vs Stateless) & SSH Keygen | Prutha_Dongre | [Read More](https://medium.com/p/29ad02f6912d) |
+| Tue, 30 Sep 2025 14:26:09 GMT | E-posta Protokolleri: POP, IMAP ve SMTP Rehberi | Busraugur | [Read More](https://medium.com/p/bc6ccb4e1cee) |
+| Tue, 30 Sep 2025 14:23:04 GMT | EMV Standardı Nedir? Kart Hamili Doğrulama (CVM) Yöntemlerine Teknik Bir Bakış | Mete Can Özbay | [Read More](https://medium.com/p/b371aecb41c2) |
 | Tue, 30 Sep 2025 14:16:12 GMT | South Europe College: A Modern Educational System for the Modern Learner | SINEM | [Read More](https://medium.com/p/ffb065099fb4) |
 | Tue, 30 Sep 2025 14:11:54 GMT | Accessing a private AWS RDS database via an EC2 bastion host using an SSM tunnel from a local… | Barathkanthrajkumar | [Read More](https://medium.com/p/610920795ff8) |
 | Tue, 30 Sep 2025 14:11:51 GMT | TryHackMe #70 - Eviction | 0xGroot | [Read More](https://medium.com/p/b90712f71f65) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 10:22:45 GMT | Can a Chip-Level Encrypted Wallet Stop Hackers? This is the True Security Logic of a Cold Wallet | Digital Shield | [Read More](https://medium.com/p/4a191bab3aed) |
 | Tue, 30 Sep 2025 10:13:53 GMT | PG Practice — Nukem (Linux) | Lepton | [Read More](https://medium.com/p/cc82b6463840) |
 | Tue, 30 Sep 2025 10:13:02 GMT | Network Secrets Revealed | Infra & Network Core | [Read More](https://medium.com/p/26efc5866f36) |
-| Tue, 30 Sep 2025 10:11:07 GMT | How to Launch Amazon EC2 Instances in Multiple Availability Zones (Hands-On Lab) | DarkoTechOps | [Read More](https://medium.com/p/3987ef5d783e) |
-| Tue, 30 Sep 2025 10:06:06 GMT | Implementing Supabase Authentication in SpringBoot | Curteis Yang | [Read More](https://medium.com/p/6eb5ddaabfc7) |
-| Tue, 30 Sep 2025 10:03:04 GMT | SpyCorp RM Dome Camera — The Complete Guide to Smarter, Sleeker Surveillance | spycorprm | [Read More](https://medium.com/p/ba033c0e116c) |
