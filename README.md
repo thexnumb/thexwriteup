@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 09:28:58 GMT | 10 Techniques For Fixing Bugs In Production | Amaralisa | [Read More](https://medium.com/p/79956fdfa5ee) |
+| Tue, 30 Sep 2025 09:26:57 GMT | Signal Lost: When a Deepfake Wears the CEO’s Face | ComsignTrust LTD | [Read More](https://medium.com/p/feda14a752bd) |
+| Tue, 30 Sep 2025 09:26:42 GMT | Endpoint Security: Protecting Devices from Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/892c8db8241c) |
+| Tue, 30 Sep 2025 09:26:24 GMT | Security Doors in Werribee | SPM Melbourne Pty Ltd | [Read More](https://medium.com/p/77ac87a8d50e) |
+| Tue, 30 Sep 2025 09:26:13 GMT | Kimsuky/APT43 Phishing Infrastructure: A Technical Evolution | Siddhant Mishra | [Read More](https://medium.com/p/5b4653c5c99b) |
 | Tue, 30 Sep 2025 09:19:23 GMT | Best Cheap Web Hosting Options for Beginners, Freelancers, and Small Businesses | Mary Thomas | [Read More](https://medium.com/p/eb2f4b399e89) |
+| Tue, 30 Sep 2025 09:16:25 GMT | Ethical Hacking’s Next Chapter: AI vs. Human Ingenuity | Suhas GM | [Read More](https://medium.com/p/980b6b21937f) |
 | Tue, 30 Sep 2025 09:12:00 GMT | Web Application Security: Why It Matters More Than Ever | Digital Defense | [Read More](https://medium.com/p/c51a05bfedd2) |
 | Tue, 30 Sep 2025 09:01:54 GMT | Security for Startups: The Essential Foundation (Part 1) | Paul Sherman | [Read More](https://medium.com/p/12c4ca32132d) |
 | Tue, 30 Sep 2025 09:00:54 GMT | Broken Access Control in Action: Exploiting Role Modification (PortSwigger Lab) | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/23233a0ba285) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 03:31:51 GMT | 8 Key Features of Effective Circuit Breakers in Node.js | Arunangshu Das | [Read More](https://medium.com/p/092c8461dabc) |
 | Tue, 30 Sep 2025 03:31:51 GMT | WASI 2.0 Components: Portable, Fast Plugins | Nikulsinh Rajput | [Read More](https://medium.com/p/58c24d891584) |
 | Tue, 30 Sep 2025 03:31:51 GMT | 15 Steps to a Secure Your SaaS Launch | Random Access | [Read More](https://medium.com/p/2ed7717604a1) |
-| Tue, 30 Sep 2025 03:31:51 GMT | Unmasking the Solar Scam: How Android Malware Exploits India’s PM Surya Ghar Scheme | Deven Chhajed | [Read More](https://medium.com/p/bac3d739d9b5) |
-| Tue, 30 Sep 2025 03:31:51 GMT | Telegram “Encryption Confusion” Explained (No-BS Guide) | Shariq Mohamed Yusuf | [Read More](https://medium.com/p/3a55903d6c64) |
-| Tue, 30 Sep 2025 03:27:20 GMT | YasirGo Beta: India Launch Update | YASIRGO | [Read More](https://medium.com/p/f743f2385b49) |
-| Tue, 30 Sep 2025 03:21:20 GMT | Hackers Are Targeting Healthcare and Turning Patients into Hostages | David SEHYEON Baek | [Read More](https://medium.com/p/686ff721b61d) |
-| Tue, 30 Sep 2025 03:20:59 GMT | File Upload Character Injection wordlist | Fatimahasan | [Read More](https://medium.com/p/01dfe55f0009) |
-| Tue, 30 Sep 2025 03:11:53 GMT | The Cloud Security Alliance AICM — What It Means for OEMs | Dr. Deep Pandey | [Read More](https://medium.com/p/8f1c9b02cc01) |
