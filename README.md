@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 15:36:47 GMT | Deep Dive into IAM Roles: The Backbone of AWS Security | Yasmine | [Read More](https://medium.com/p/fc44727b74a6) |
+| Tue, 30 Sep 2025 15:31:55 GMT | Firecracker vs Containers: Safer Inference, Same Speed | Nikulsinh Rajput | [Read More](https://medium.com/p/a51d76bc2044) |
+| Tue, 30 Sep 2025 15:30:10 GMT | I Used This Recon Protocol And Identified 18 Bugs In 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/7ee5bd1979dc) |
+| Tue, 30 Sep 2025 15:29:14 GMT | Click rate means success — when it comes to the Report Phish button | Alice Mini | [Read More](https://medium.com/p/2f0601da1170) |
+| Tue, 30 Sep 2025 15:27:03 GMT | How to build a bank p4: Workstations, DHCP and Users | Logan Elkins | [Read More](https://medium.com/p/ad81b716dd17) |
+| Tue, 30 Sep 2025 15:24:16 GMT | Penggantian Perancangan Topologi Jaringan Rumah Sakit | Yasa Wijaya | [Read More](https://medium.com/p/e41a4cb19458) |
+| Tue, 30 Sep 2025 15:19:04 GMT | Achieving Strong Cyber Defense Through Monitoring and SIEM-Based Protection | Vijilan | [Read More](https://medium.com/p/c0f7f0bc1013) |
+| Tue, 30 Sep 2025 15:18:57 GMT | When LLMs Spill What They Shouldn’t | Rabia AMAAOUCH | [Read More](https://medium.com/p/205c9dfa9b5c) |
+| Tue, 30 Sep 2025 15:15:03 GMT | GZR Observer Daily — Sep 30, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/46e08acefbe1) |
 | Tue, 30 Sep 2025 15:09:17 GMT | "Predatory FinOps": How to Spot It, Stop It, and Keep the Room Together | Tim O'Brien | [Read More](https://medium.com/p/6d485698a1bf) |
 | Tue, 30 Sep 2025 15:09:05 GMT | Hidden Cameras, Exploitation, and the Fight Against Non-Consensual Pornography | Internet Exposed | [Read More](https://medium.com/p/b6a532016e4f) |
 | Tue, 30 Sep 2025 15:04:03 GMT | Penelitian usabilitas keamanan pada email terenkripsi | wijdan hafizhan | [Read More](https://medium.com/p/2b0fbb94f260) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 11:08:34 GMT | Cybersecurity Risk Management: Identifying, Assessing, and Mitigating Risks | Cyber Security Research | [Read More](https://medium.com/p/011c32e3a714) |
 | Tue, 30 Sep 2025 11:03:33 GMT | The Professional’s Guide to Cybersecurity Compliance: Standards, Frameworks, and Best Practices | Beri Contraster | [Read More](https://medium.com/p/64ad8201bee0) |
 | Tue, 30 Sep 2025 11:01:59 GMT | Supply Chain Security: Securing Your Extended Ecosystem | Cyber Security Research | [Read More](https://medium.com/p/a6deb2787540) |
-| Tue, 30 Sep 2025 10:57:35 GMT | Imperva — Secure Applications, Protected Data, Trusted Security | SystemSecurity | [Read More](https://medium.com/p/914aca26a8db) |
-| Tue, 30 Sep 2025 10:56:18 GMT | CyberDefenders: AWSRaid Lab | Rahaliashraf | [Read More](https://medium.com/p/36320709d0b7) |
-| Tue, 30 Sep 2025 10:53:55 GMT | Samsung Galaxy S2 Camera Review 2025: A Developer’s Look Back at a 2011 Legend | Zoey Lewis | [Read More](https://medium.com/p/4e00dc5561fe) |
-| Tue, 30 Sep 2025 10:47:52 GMT | We’re All Liars, and That’s The Truth | Doc Jones | [Read More](https://medium.com/p/c4fa3a304ab5) |
-| Tue, 30 Sep 2025 10:45:49 GMT | Samsung Galaxy S2 Durability Test: A Software Developer’s Look at a Decade-Old Warrior | Alamin | [Read More](https://medium.com/p/6c26792ea9d5) |
-| Tue, 30 Sep 2025 10:43:44 GMT | The Ultimate Privacy Toolkit: 80 Essential Apps for Security and Anonymity | eRRoR | [Read More](https://medium.com/p/342f7ae0f37d) |
-| Tue, 30 Sep 2025 10:43:40 GMT | Inside the VMware CVE Cluster: Enumeration, Escalation, and Exposure | gm0 | [Read More](https://medium.com/p/a4a911fec46d) |
-| Tue, 30 Sep 2025 10:37:46 GMT | 5 losses of real-time fraud on the digital platform | SHIELD | [Read More](https://medium.com/p/030b4316cbab) |
-| Tue, 30 Sep 2025 10:37:20 GMT | EA to CSP Pricing Update 2025 What Businesses Need to Know - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/429a3e821077) |
