@@ -12,10 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 11:14:23 GMT | Security Hardening: Minimizing Attack Surface | Cyber Security Research | [Read More](https://medium.com/p/e3c82e13b3d0) |
+| Tue, 30 Sep 2025 11:13:10 GMT | Cybersecurity in Virtual and Hybrid Events | Rawaha Rasheed | [Read More](https://medium.com/p/1c0c4dabf924) |
+| Tue, 30 Sep 2025 11:12:56 GMT | UN Security Council Reform Starts With One Test: Decision Integrity | Brian Iselin | [Read More](https://medium.com/p/9e517d2bd0c3) |
+| Tue, 30 Sep 2025 11:03:33 GMT | The Professional’s Guide to Cybersecurity Compliance: Standards, Frameworks, and Best Practices | Beri Contraster | [Read More](https://medium.com/p/64ad8201bee0) |
+| Tue, 30 Sep 2025 11:01:59 GMT | Supply Chain Security: Securing Your Extended Ecosystem | Cyber Security Research | [Read More](https://medium.com/p/a6deb2787540) |
+| Tue, 30 Sep 2025 10:57:35 GMT | Imperva — Secure Applications, Protected Data, Trusted Security | SystemSecurity | [Read More](https://medium.com/p/914aca26a8db) |
+| Tue, 30 Sep 2025 10:56:18 GMT | CyberDefenders: AWSRaid Lab | Rahaliashraf | [Read More](https://medium.com/p/36320709d0b7) |
+| Tue, 30 Sep 2025 10:53:55 GMT | Samsung Galaxy S2 Camera Review 2025: A Developer’s Look Back at a 2011 Legend | Zoey Lewis | [Read More](https://medium.com/p/4e00dc5561fe) |
+| Tue, 30 Sep 2025 10:47:52 GMT | We’re All Liars, and That’s The Truth | Doc Jones | [Read More](https://medium.com/p/c4fa3a304ab5) |
+| Tue, 30 Sep 2025 10:45:49 GMT | Samsung Galaxy S2 Durability Test: A Software Developer’s Look at a Decade-Old Warrior | Alamin | [Read More](https://medium.com/p/6c26792ea9d5) |
+| Tue, 30 Sep 2025 10:43:44 GMT | The Ultimate Privacy Toolkit: 80 Essential Apps for Security and Anonymity | eRRoR | [Read More](https://medium.com/p/342f7ae0f37d) |
+| Tue, 30 Sep 2025 10:43:40 GMT | Inside the VMware CVE Cluster: Enumeration, Escalation, and Exposure | gm0 | [Read More](https://medium.com/p/a4a911fec46d) |
+| Tue, 30 Sep 2025 10:37:46 GMT | 5 losses of real-time fraud on the digital platform | SHIELD | [Read More](https://medium.com/p/030b4316cbab) |
+| Tue, 30 Sep 2025 10:37:20 GMT | EA to CSP Pricing Update 2025 What Businesses Need to Know - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/429a3e821077) |
 | Tue, 30 Sep 2025 10:35:45 GMT | The Ultimate Cybersecurity Learning Blueprint: A Mastery Path You’ll Thank Yourself For | Abdelghani Alhijawi | [Read More](https://medium.com/p/d33a7e7aa0a3) |
 | Tue, 30 Sep 2025 10:35:26 GMT | NPM Supply Chain Attack Mitigation | Lewis Baston | [Read More](https://medium.com/p/11880a8afe8e) |
+| Tue, 30 Sep 2025 10:32:17 GMT | The Digital Pulse: The Unsung World of the IT Telecom Engineer | Muhammad Abdullah Sheikh | [Read More](https://medium.com/p/05db59477d0d) |
 | Tue, 30 Sep 2025 10:31:53 GMT | Biometric Keys: Unlocking the Future With Your Identity | Natarajan C K | [Read More](https://medium.com/p/e54625c1c51d) |
 | Tue, 30 Sep 2025 10:31:53 GMT | Why JWT Is a Hacker’s Favourite Target (and How to Lock It Down) | Vaishnavi Kengale | [Read More](https://medium.com/p/8b6750e68721) |
+| Tue, 30 Sep 2025 10:30:27 GMT | Samsung Galaxy S2 Features Explained: A Retro Phone’s Journey into 2025 | Abigail Lewis | [Read More](https://medium.com/p/57156b49e0c6) |
 | Tue, 30 Sep 2025 10:26:56 GMT | How AI and Digital Dependencies Are Rewriting the Rules of Conflict | D. Mikhailov | [Read More](https://medium.com/p/f164f6158816) |
 | Tue, 30 Sep 2025 10:24:34 GMT | When Your Phone Turns Against You: 6 Signs You’ve Been Hacked | Ghazanfar Ali, MBA | [Read More](https://medium.com/p/27d25c706d71) |
 | Tue, 30 Sep 2025 10:24:02 GMT | How Zero-Knowledge Architecture Improves Data Security | Password Manager | [Read More](https://medium.com/p/181d85a3e767) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 07:16:39 GMT | Threat Surfaces Unique to GenAI: Weights, Injection, and Synthetic Abuse | rajni singh | [Read More](https://medium.com/p/bec288d1df15) |
 | Tue, 30 Sep 2025 07:14:55 GMT | XDR: Credential Access | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/8600178a4fcf) |
 | Tue, 30 Sep 2025 07:09:00 GMT | The £2 Billion Hack: How Cybercriminals Crippled Jaguar Land Rover in 2025 | Atharva Deshmukh | [Read More](https://medium.com/p/1819bac0b0bf) |
-| Tue, 30 Sep 2025 07:08:37 GMT | Cortex Network Security Automation: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c3cdae14e880) |
-| Tue, 30 Sep 2025 07:02:29 GMT | Penetration Testing Solutions in Abu Dhabi: Protecting Your Business from Cyber Threats | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/0371b001188d) |
-| Tue, 30 Sep 2025 06:55:33 GMT | The Daily Tech Digest: 30 September 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8bc59658647e) |
-| Tue, 30 Sep 2025 06:54:15 GMT | The Impostor Syndrome of Cybersecurity Pros: Patching Everything Except Ourselves | Zero Trustor | [Read More](https://medium.com/p/88bdbb7bc343) |
-| Tue, 30 Sep 2025 06:47:28 GMT | How to Unlock Breakthrough Insights in Every 1:1 | Florian Henrion | [Read More](https://medium.com/p/0b215ac96877) |
-| Tue, 30 Sep 2025 06:45:58 GMT | Qatar’s Data Centers: Securing the Financial Future. | expbhavya | [Read More](https://medium.com/p/bafdf8c58dc5) |
-| Tue, 30 Sep 2025 06:43:43 GMT | How IntelligenceX Strengthens GDPR Compliance with Cutting-Edge Cybersecurity | Shivakshi Rawat | [Read More](https://medium.com/p/02153724913f) |
-| Tue, 30 Sep 2025 06:41:13 GMT | Frontend Security Essentials | ROHIT KUMAR | [Read More](https://medium.com/p/d22ca3cbc6a6) |
-| Tue, 30 Sep 2025 06:39:39 GMT | SPARK Matrix™: Web Application Firewall Market Dynamics and Competitive Landscape | Gargiben | [Read More](https://medium.com/p/2bf011d495d6) |
-| Tue, 30 Sep 2025 06:39:04 GMT | The Complete Wireshark Cheat Sheet: Master Network Analysis in 2025 | Raj Bhatia | [Read More](https://medium.com/p/856ca807a9c8) |
-| Tue, 30 Sep 2025 06:36:09 GMT | Beyond Nuclei — Building Custom Templates That Actually Find Bugs | Đeepanshu | [Read More](https://medium.com/p/855ea2695f4d) |
-| Tue, 30 Sep 2025 06:35:36 GMT | PCI DSS Compliance Services: Safeguarding Payment Data in the Digital Age | Tech Writer | [Read More](https://medium.com/p/c2a8efc20c25) |
-| Tue, 30 Sep 2025 06:28:44 GMT | ​Blockchain cold/hot wallet security risks | Richa Patel | [Read More](https://medium.com/p/90538fbb5859) |
-| Tue, 30 Sep 2025 06:23:22 GMT | Part 2 : Git Commit Hooks, Pre-Commit Checks & Branch Protections (Security in Action) | Dean | [Read More](https://medium.com/p/a4fa9eb15922) |
-| Tue, 30 Sep 2025 06:20:48 GMT | Penetration Testing Made Easy: 10 Free Tools Security Pros Swear By | Sam Bishop | [Read More](https://medium.com/p/9aecaafbbfa5) |
-| Tue, 30 Sep 2025 06:15:23 GMT | Why Everyone Is Downloading a VPN in 2025 (Before It’s Too Late) | James Robert | [Read More](https://medium.com/p/64c4260063ae) |
