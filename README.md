@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 10:13:53 GMT | PG Practice — Nukem (Linux) | Lepton | [Read More](https://medium.com/p/cc82b6463840) |
+| Tue, 30 Sep 2025 10:13:02 GMT | Network Secrets Revealed | Infra & Network Core | [Read More](https://medium.com/p/26efc5866f36) |
+| Tue, 30 Sep 2025 10:11:07 GMT | How to Launch Amazon EC2 Instances in Multiple Availability Zones (Hands-On Lab) | DarkoTechOps | [Read More](https://medium.com/p/3987ef5d783e) |
+| Tue, 30 Sep 2025 10:06:06 GMT | Implementing Supabase Authentication in SpringBoot | Curteis Yang | [Read More](https://medium.com/p/6eb5ddaabfc7) |
+| Tue, 30 Sep 2025 10:03:04 GMT | SpyCorp RM Dome Camera — The Complete Guide to Smarter, Sleeker Surveillance | spycorprm | [Read More](https://medium.com/p/ba033c0e116c) |
+| Tue, 30 Sep 2025 10:02:11 GMT | Against the Pull of Fallen Stars | Terry Edwards Jr | [Read More](https://medium.com/p/e586600e4a28) |
+| Tue, 30 Sep 2025 09:59:11 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/efcd52aabc3e) |
+| Tue, 30 Sep 2025 09:57:00 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ac9108c649ea) |
+| Tue, 30 Sep 2025 09:56:58 GMT | Unclouding the Risk: CVE-2025–30247 and the Hidden Command Injection in WD My Cloud NAS | gm0 | [Read More](https://medium.com/p/478280086df4) |
+| Tue, 30 Sep 2025 09:56:02 GMT | How 3 Lines of Python Got Me My First Freelance Client | Muhummad Zaki | [Read More](https://medium.com/p/d6dbffe0d61b) |
+| Tue, 30 Sep 2025 09:53:42 GMT | “These 5 Programming Projects Taught Me More Than Any Tutorial” | Muhummad Zaki | [Read More](https://medium.com/p/fe56718c3b4f) |
+| Tue, 30 Sep 2025 09:52:49 GMT | Database Security: Protecting Sensitive Data in Databases | Cyber Security Research | [Read More](https://medium.com/p/26df89025b8d) |
+| Tue, 30 Sep 2025 09:52:05 GMT | “The Side Project That Accidentally Taught Me More Than 4 Years of School” | Muhummad Zaki | [Read More](https://medium.com/p/8756b7585b75) |
+| Tue, 30 Sep 2025 09:49:19 GMT | Why Your Business Must Rethink Cloud Network Security in 2025 | Elliman Technologies | [Read More](https://medium.com/p/5cb498d7937c) |
+| Tue, 30 Sep 2025 09:43:09 GMT | Exploiting Deep Links for RCE in Mobile Applications | Raj Prasad Kuiri | [Read More](https://medium.com/p/6806c330c00b) |
+| Tue, 30 Sep 2025 09:39:45 GMT | Global Festival 2024- South Korea, Seoul | Milan Khanal | [Read More](https://medium.com/p/9b6c2f644e73) |
+| Tue, 30 Sep 2025 09:39:41 GMT | “11 Python Features That Made Me Wonder: Why Didn’t Anyone Tell Me This?” | Muhummad Zaki | [Read More](https://medium.com/p/1a0902270764) |
+| Tue, 30 Sep 2025 09:39:34 GMT | The difference between a rejected and accepted AWS Community Builder? One word: impact. | Vijay Sekar T G | [Read More](https://medium.com/p/e0422cda5fd4) |
+| Tue, 30 Sep 2025 09:39:10 GMT | Application Security: Securing Web Applications | Cyber Security Research | [Read More](https://medium.com/p/82e390a3c0a0) |
+| Tue, 30 Sep 2025 09:38:29 GMT | “8 AI Skills That Instantly Made Me Irreplaceable” | Muhummad Zaki | [Read More](https://medium.com/p/7809e33e9ce2) |
+| Tue, 30 Sep 2025 09:37:58 GMT | AI-Powered Risk Mitigation: Use Cases, Developing Process & Cost | IdeaUsher | [Read More](https://medium.com/p/5ff1a414f3c3) |
+| Tue, 30 Sep 2025 09:37:35 GMT | Digital Twin Security: Safeguarding the Future of Connected Industries | Jackdavis Iap | [Read More](https://medium.com/p/9edd650af508) |
+| Tue, 30 Sep 2025 09:36:36 GMT | How Everyday Cyber Defenses Protect You Without You Knowing | Shahzaib | [Read More](https://medium.com/p/cb7d26be9614) |
+| Tue, 30 Sep 2025 09:35:21 GMT | Historias que hablan de vulnerabilidad | Maria Ospina | [Read More](https://medium.com/p/7859d31bbf83) |
+| Tue, 30 Sep 2025 09:33:56 GMT | Cowsay as a Service (CaaS) — PicoCTF Walkthrough | 127.0.0.1 | [Read More](https://medium.com/p/0c102345eac0) |
 | Tue, 30 Sep 2025 09:28:58 GMT | 10 Techniques For Fixing Bugs In Production | Amaralisa | [Read More](https://medium.com/p/79956fdfa5ee) |
 | Tue, 30 Sep 2025 09:26:57 GMT | Signal Lost: When a Deepfake Wears the CEO’s Face | ComsignTrust LTD | [Read More](https://medium.com/p/feda14a752bd) |
 | Tue, 30 Sep 2025 09:26:42 GMT | Endpoint Security: Protecting Devices from Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/892c8db8241c) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 05:57:57 GMT | Build a secure, idempotent PHP webhook handler for payment gateways (ready-to-paste code) | Md Shoyeb Hossain | [Read More](https://medium.com/p/295383ae7373) |
 | Tue, 30 Sep 2025 05:44:41 GMT | AI Chatbots Fail to Set Boundaries When Users Are Most Vulnerable | Prashant Lodaya | [Read More](https://medium.com/p/f7ffc933932f) |
 | Tue, 30 Sep 2025 05:40:38 GMT | picoCTF Web Exploitation: Where are the robots.. | Deepika  B | [Read More](https://medium.com/p/ef5c1b6123cd) |
-| Tue, 30 Sep 2025 05:40:07 GMT | Systems Engineering with Optimization Models | ORB, Operations Research Bit | [Read More](https://medium.com/p/2152a9e66e0a) |
-| Tue, 30 Sep 2025 05:29:59 GMT | The Keyword Compass: Why Long-Tail is Leading the Digital Adventure in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/35ed1db9d6f3) |
-| Tue, 30 Sep 2025 05:29:11 GMT | Top Online Cyber Security Degree Programs for a Future in IT Security | Shreyashettyctr | [Read More](https://medium.com/p/6d1d1968c34c) |
-| Tue, 30 Sep 2025 05:10:56 GMT | Why Cybersecurity Is the Smartest Career Pivot Right Now | Shreyashettyctr | [Read More](https://medium.com/p/33389a724f04) |
-| Tue, 30 Sep 2025 05:06:12 GMT | TROJAN TINY BANKER | Synchro Nous | [Read More](https://medium.com/p/eb2429ecd333) |
-| Tue, 30 Sep 2025 05:04:46 GMT | 1+1 != 2 Part II | Pseudonotes | [Read More](https://medium.com/p/566ea1ac693c) |
-| Tue, 30 Sep 2025 05:03:40 GMT | VPNs: Securing Your Online Privacy | Cyber Security Research | [Read More](https://medium.com/p/ea22e914365c) |
-| Tue, 30 Sep 2025 04:57:42 GMT | Two-Factor Authentication: Adding an Extra Layer of Security | Cyber Security Research | [Read More](https://medium.com/p/f7f523f89401) |
-| Tue, 30 Sep 2025 04:57:00 GMT | Security in MQTT: Safeguarding IoT Devices in the Age of Cyber Threats | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/c2524afaa790) |
-| Tue, 30 Sep 2025 04:56:32 GMT | Protecting Yourself in the Digital Age: A Guide for Women | Monika Parnami | [Read More](https://medium.com/p/e8694b81dedf) |
-| Tue, 30 Sep 2025 04:32:37 GMT | Why Professional Software Installation Saves You Time and Money | Ask IT Support | [Read More](https://medium.com/p/59c2f1bcadf8) |
-| Tue, 30 Sep 2025 04:32:07 GMT | The Quantum Dawn — Understanding India’s Digital Vulnerability | Sankalp Shady | [Read More](https://medium.com/p/777d33a6f1b8) |
-| Tue, 30 Sep 2025 04:31:49 GMT | Why I’m starting this cybersecurity blog in my final year | Nithishkumar R | [Read More](https://medium.com/p/576155377e9c) |
-| Tue, 30 Sep 2025 04:17:14 GMT | Real-world APT case analysis | Ash | [Read More](https://medium.com/p/08cb6c799403) |
-| Tue, 30 Sep 2025 04:14:01 GMT | Cyber Security Kya Hai? Ek Simple Guide for Beginners | Foujisahab | [Read More](https://medium.com/p/cb7baa83bc84) |
-| Tue, 30 Sep 2025 03:58:58 GMT | Bypass Password Confirmation on Change Email | Karim Hikal | [Read More](https://medium.com/p/d0e69bf0e99c) |
-| Tue, 30 Sep 2025 03:53:17 GMT | The Impact of Social Media on Youth Political Participation | Justine Jay Castillo | [Read More](https://medium.com/p/40f18858cb06) |
-| Tue, 30 Sep 2025 03:52:23 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/4c4712299908) |
-| Tue, 30 Sep 2025 03:42:34 GMT | PostgreSQL 18 Data Checksums Enabled by Default: Security Implications | Rizqi Mulki | [Read More](https://medium.com/p/dcca2f6d4bd0) |
-| Tue, 30 Sep 2025 03:42:28 GMT | Choose a Dark Web Monitoring Platform that Delivers Actionable Threat Intelligence | David SEHYEON Baek | [Read More](https://medium.com/p/8d35c05c1bb2) |
-| Tue, 30 Sep 2025 03:40:25 GMT | OWASP Top 10 – Risk #1: Broken Access Control | Ashishsinghu | [Read More](https://medium.com/p/b7916fd6e45f) |
-| Tue, 30 Sep 2025 03:35:17 GMT | Hacking APIs: Insufficient JSON Payload Validation | Israel Aráoz Severiche | [Read More](https://medium.com/p/525d20cd8591) |
-| Tue, 30 Sep 2025 03:31:51 GMT | 8 Key Features of Effective Circuit Breakers in Node.js | Arunangshu Das | [Read More](https://medium.com/p/092c8461dabc) |
-| Tue, 30 Sep 2025 03:31:51 GMT | WASI 2.0 Components: Portable, Fast Plugins | Nikulsinh Rajput | [Read More](https://medium.com/p/58c24d891584) |
-| Tue, 30 Sep 2025 03:31:51 GMT | 15 Steps to a Secure Your SaaS Launch | Random Access | [Read More](https://medium.com/p/2ed7717604a1) |
