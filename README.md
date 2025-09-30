@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 06:23:22 GMT | Part 2 : Git Commit Hooks, Pre-Commit Checks & Branch Protections (Security in Action) | Dean | [Read More](https://medium.com/p/a4fa9eb15922) |
+| Tue, 30 Sep 2025 06:20:48 GMT | Penetration Testing Made Easy: 10 Free Tools Security Pros Swear By | Sam Bishop | [Read More](https://medium.com/p/9aecaafbbfa5) |
+| Tue, 30 Sep 2025 06:15:23 GMT | Why Everyone Is Downloading a VPN in 2025 (Before It’s Too Late) | James Robert | [Read More](https://medium.com/p/64c4260063ae) |
+| Tue, 30 Sep 2025 06:12:39 GMT | Top 5 Terms & Conditions Lawyers for Online Businesses in Santa Monica | Hansen Tong | [Read More](https://medium.com/p/351175657bd8) |
+| Tue, 30 Sep 2025 06:11:59 GMT | CISA Sounds Alarm on Critical Sudo Vulnerability Exploited in Linux and Unix Systems: What… | Germano Costi | [Read More](https://medium.com/p/636bb7d01ed9) |
+| Tue, 30 Sep 2025 06:10:38 GMT | Top 5 IT Skills Every Fresher Should Learn Before Applying for Jobs | Itsmebarryallenu | [Read More](https://medium.com/p/99a637c8eac8) |
+| Tue, 30 Sep 2025 06:07:42 GMT | Certified in Cybersecurity (CC) Series: The Overview | TechStoryLines | [Read More](https://medium.com/p/982099ee4daf) |
+| Tue, 30 Sep 2025 06:05:44 GMT | The Psychology of Hackers: Why Curiosity Turns Into Crime | Md Faiyaz Khan | [Read More](https://medium.com/p/3a51e0207170) |
+| Tue, 30 Sep 2025 06:02:09 GMT | Ethics, Transparency, and Security in Agentic AI for Enterprises | Caamanno | [Read More](https://medium.com/p/a4096e862e00) |
+| Tue, 30 Sep 2025 06:01:33 GMT | Dedicated Server Security: Best Practices Every Business Should Know | Swapnil S. | [Read More](https://medium.com/p/cde830be5f6f) |
+| Tue, 30 Sep 2025 05:58:43 GMT | In-Depth Look at India’s Top 3 Cybersecurity Companies | Archit Vats | [Read More](https://medium.com/p/d6edf1be637a) |
+| Tue, 30 Sep 2025 05:57:57 GMT | Build a secure, idempotent PHP webhook handler for payment gateways (ready-to-paste code) | Md Shoyeb Hossain | [Read More](https://medium.com/p/295383ae7373) |
+| Tue, 30 Sep 2025 05:44:41 GMT | AI Chatbots Fail to Set Boundaries When Users Are Most Vulnerable | Prashant Lodaya | [Read More](https://medium.com/p/f7ffc933932f) |
+| Tue, 30 Sep 2025 05:40:38 GMT | picoCTF Web Exploitation: Where are the robots.. | Deepika  B | [Read More](https://medium.com/p/ef5c1b6123cd) |
+| Tue, 30 Sep 2025 05:40:07 GMT | Systems Engineering with Optimization Models | ORB, Operations Research Bit | [Read More](https://medium.com/p/2152a9e66e0a) |
 | Tue, 30 Sep 2025 05:29:59 GMT | The Keyword Compass: Why Long-Tail is Leading the Digital Adventure in 2025 | Devarshi Acharya | [Read More](https://medium.com/p/35ed1db9d6f3) |
 | Tue, 30 Sep 2025 05:29:11 GMT | Top Online Cyber Security Degree Programs for a Future in IT Security | Shreyashettyctr | [Read More](https://medium.com/p/6d1d1968c34c) |
 | Tue, 30 Sep 2025 05:10:56 GMT | Why Cybersecurity Is the Smartest Career Pivot Right Now | Shreyashettyctr | [Read More](https://medium.com/p/33389a724f04) |
@@ -98,18 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 21:53:01 GMT | Understanding Data Encryption: Best Practices & Workflows | Hasanhawary | [Read More](https://medium.com/p/e4d13fcb6e73) |
 | Mon, 29 Sep 2025 21:26:44 GMT | How Hotel Transylvania Explains Microsoft Entra ID and OAuth: A Beginner’s Guide to Authentication | Raghuveer M | [Read More](https://medium.com/p/dd5b43309d35) |
 | Mon, 29 Sep 2025 21:22:15 GMT | Cyber Security Consulting, Cyber Security Services, and Incident Response Services by CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/657f56c29b3f) |
-| Mon, 29 Sep 2025 21:09:46 GMT | Do Men Deserve Flowers Too? | Ofentse Percy Mohloke | [Read More](https://medium.com/p/e369c9a0133e) |
-| Mon, 29 Sep 2025 21:05:08 GMT | I Have Lost My Cryptocurrency; How Can I Retrieve It? Reach Out To Ghost Mystery Recovery Hacker | Sophia Johnson | [Read More](https://medium.com/p/4d6acf332381) |
-| Mon, 29 Sep 2025 21:01:05 GMT | PG Practice — Hutch (Windows) | Lepton | [Read More](https://medium.com/p/a3e1135dc48c) |
-| Mon, 29 Sep 2025 20:59:17 GMT | Setting up a home Web server for pentesting | Kelvin TC Law | [Read More](https://medium.com/p/eee8883abab1) |
-| Mon, 29 Sep 2025 20:59:11 GMT | All You Need to Know to Create a Strong Password | Seth McNew | [Read More](https://medium.com/p/3afc169ca7a4) |
-| Mon, 29 Sep 2025 20:46:31 GMT | Artificial Intelligence and Cybersecurity — Potential Benefits and Threats | Muhammad Ali Ihsan | [Read More](https://medium.com/p/312da729e757) |
-| Mon, 29 Sep 2025 20:45:07 GMT | My First Cybersecurity Win: Finding a Bug in the Very First Program I Tested | El moulaa Mohamed Nidhal | [Read More](https://medium.com/p/9c437caf2181) |
-| Mon, 29 Sep 2025 20:40:36 GMT | Real Time Threat Intelligence with a Cyber Security Company in Australia | Benchmark IT Services | [Read More](https://medium.com/p/4db0a33b6338) |
-| Mon, 29 Sep 2025 20:34:43 GMT | Compile-Time String Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a0d07606af29) |
-| Mon, 29 Sep 2025 20:31:55 GMT | Ai IN EVERYDAY of LIFE: | yusrah mumtaz | [Read More](https://medium.com/p/f8770580c0a2) |
-| Mon, 29 Sep 2025 20:21:29 GMT | Breaking into Cybersecurity: Skills You Can Learn This Weekend | Andrei Ivan | [Read More](https://medium.com/p/7809ea3c5738) |
-| Mon, 29 Sep 2025 20:15:53 GMT | Cybersecurity Consulting, Services, and Incident Response by CyberSecOp: Protect Your Business from… | Jeffery Walker | [Read More](https://medium.com/p/6e40304eadc6) |
-| Mon, 29 Sep 2025 20:14:24 GMT | Top 50 OSINT Tools Every Security Professional Should Know | Nazrul Islam Rana | [Read More](https://medium.com/p/d4c503be84b5) |
-| Mon, 29 Sep 2025 20:06:15 GMT | Secrets of JavaScript I Learned While Building Real Projects | Kainat Nafees | [Read More](https://medium.com/p/f1157b92aeee) |
-| Mon, 29 Sep 2025 19:53:31 GMT | When AI Learns to Lie: How Deepfakes & Agentic AI Are Breaking Identity | Veinu Vasisht | [Read More](https://medium.com/p/c6fa30db896a) |
