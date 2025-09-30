@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 20:17:48 GMT | Towards a New Standard: Data That Never Exists Unencrypted | ExcID | [Read More](https://medium.com/p/92b4a8f034f6) |
+| Tue, 30 Sep 2025 20:13:03 GMT | Hardening the Frontier: Mitigating AI Agent Risk with Adversarial Evaluations | Valdez Ladd | [Read More](https://medium.com/p/098677d7eb00) |
+| Tue, 30 Sep 2025 20:12:47 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/62f8dd2672c7) |
+| Tue, 30 Sep 2025 20:12:17 GMT | SQL Injection: How It Works and How to Stay Protected | Sammie Singh | [Read More](https://medium.com/p/cee42d298cef) |
+| Tue, 30 Sep 2025 20:11:51 GMT | The Age of Intelligent Deception | Oddur Sigurdsson | [Read More](https://medium.com/p/30499580469c) |
+| Tue, 30 Sep 2025 19:59:02 GMT | Using Biometrics for Encryption in Android | Fernando Obregon | [Read More](https://medium.com/p/368150848f8e) |
+| Tue, 30 Sep 2025 19:52:55 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/d8aa36d9411f) |
+| Tue, 30 Sep 2025 19:47:14 GMT | Splunking Windows Attacks Part 2. | Luke | [Read More](https://medium.com/p/375c45557810) |
+| Tue, 30 Sep 2025 19:45:06 GMT | CORS Vulnerability with Basic Origin Reflection with Lab Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/2cce9e606bda) |
+| Tue, 30 Sep 2025 19:44:10 GMT | What is Symbiotic? A Simple Guide to the Future of Staking | Alex Chinnan | [Read More](https://medium.com/p/132a1c378b24) |
+| Tue, 30 Sep 2025 19:43:36 GMT | Building Shadowmap: Why We Scan Our Own Cloud and What the Results Really Mean | Mohammad Abir Abbas | [Read More](https://medium.com/p/b4bf1c021c56) |
+| Tue, 30 Sep 2025 19:41:26 GMT | Your Job is Already Obsolete – The Countdown has Started | John Petty | [Read More](https://medium.com/p/f2567467f32e) |
+| Tue, 30 Sep 2025 19:40:23 GMT | Supporting the Vulnerable: The Pillar of a Strong Community | Mahmud Sabiu | [Read More](https://medium.com/p/8ba5ab75d5a2) |
 | Tue, 30 Sep 2025 19:30:34 GMT | Web Zafiyetleri Serisi #6 | Didem Kış | [Read More](https://medium.com/p/8f6692e94ad3) |
 | Tue, 30 Sep 2025 19:27:18 GMT | How Bitunix Strengthens the Future of Crypto Protection | Mr Alex Yung® | [Read More](https://medium.com/p/5fc4f9262008) |
 | Tue, 30 Sep 2025 19:26:29 GMT | PicoCTF Writeup 1: Cookie | Agarwaldaksh | [Read More](https://medium.com/p/157b85d7a8f1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 15:01:20 GMT | Boolean Walkthrough | Jose Diaz | [Read More](https://medium.com/p/cbe6c9c9dccb) |
 | Tue, 30 Sep 2025 14:59:01 GMT | What if You Never Get a Life You Want? | Vijay Kumar Gupta | [Read More](https://medium.com/p/fda9e87c066e) |
 | Tue, 30 Sep 2025 14:57:54 GMT | Cognitive, Behavioral, or Emotional: Which Type of Engagement Matters Most? | Farwa Asim | [Read More](https://medium.com/p/8b1032296f84) |
-| Tue, 30 Sep 2025 14:51:39 GMT | Full Score — Web’s Native Performance | Aidgn | [Read More](https://medium.com/p/0d60739295e4) |
-| Tue, 30 Sep 2025 14:50:09 GMT | Hunting Memory-Only Malware with ATT&CK and YARA | Deniz Topaloglu | [Read More](https://medium.com/p/de68756f3274) |
-| Tue, 30 Sep 2025 14:47:51 GMT | VoidProxy: AitM Phishing-as-a-Service Quietly Bypasses MFA at Scale | Wes Young | [Read More](https://medium.com/p/5db3f414715d) |
-| Tue, 30 Sep 2025 14:45:50 GMT | SAST: The Secret to Secure Python Apps | Maikel Mardjan | [Read More](https://medium.com/p/11a6b2a048cb) |
-| Tue, 30 Sep 2025 14:42:20 GMT | From URL to Response: A Deep Dive into How Web Requests Work | Jason Hoskins Jr. | [Read More](https://medium.com/p/8c5267fc8c67) |
-| Tue, 30 Sep 2025 14:39:04 GMT | Network Fingerprint | Infra & Network Core | [Read More](https://medium.com/p/60b3e04328b0) |
-| Tue, 30 Sep 2025 14:38:17 GMT | MEV Spam: The Hidden Blockchain Scalability Crisis | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/b6f89ded4c2a) |
-| Tue, 30 Sep 2025 14:36:42 GMT | NASA Strengthens Insider Threat Protection for Unclassified Systems | Keepnet Labs | [Read More](https://medium.com/p/660cf78fe3f3) |
-| Tue, 30 Sep 2025 14:33:25 GMT | Why Cyber Safety Is Driving Everyone to Quit Social Media | E. Ibrahimi | [Read More](https://medium.com/p/2ed0dd184ec9) |
-| Tue, 30 Sep 2025 14:28:32 GMT | Day 26: Firewalls (Stateful vs Stateless) & SSH Keygen | Prutha_Dongre | [Read More](https://medium.com/p/29ad02f6912d) |
-| Tue, 30 Sep 2025 14:26:09 GMT | E-posta Protokolleri: POP, IMAP ve SMTP Rehberi | Busraugur | [Read More](https://medium.com/p/bc6ccb4e1cee) |
-| Tue, 30 Sep 2025 14:23:04 GMT | EMV Standardı Nedir? Kart Hamili Doğrulama (CVM) Yöntemlerine Teknik Bir Bakış | Mete Can Özbay | [Read More](https://medium.com/p/b371aecb41c2) |
-| Tue, 30 Sep 2025 14:16:12 GMT | South Europe College: A Modern Educational System for the Modern Learner | SINEM | [Read More](https://medium.com/p/ffb065099fb4) |
