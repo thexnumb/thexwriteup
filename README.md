@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 13:24:09 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9f99ebc6e12c) |
+| Tue, 30 Sep 2025 13:21:16 GMT | Why Hackers Love Free Wi-Fi (and What You Should Do Before Connecting Again) | Anik Mehta | [Read More](https://medium.com/p/306c7e72fe67) |
+| Tue, 30 Sep 2025 13:20:05 GMT | DoH Downgrade: An Unintended Backdoor to Unencrypted DNS | Wraith | [Read More](https://medium.com/p/36ee5fe35866) |
+| Tue, 30 Sep 2025 13:18:21 GMT | CyberDefenders :HawkEye Blue Challenge | User2Xd | [Read More](https://medium.com/p/efef48e1ca30) |
+| Tue, 30 Sep 2025 13:18:01 GMT | Hire A Hacker To Hack Instagram Account | Sydney Brooks | [Read More](https://medium.com/p/c9a573864aa7) |
+| Tue, 30 Sep 2025 13:07:46 GMT | 15 Kubernetes Mistakes That Will Ruin Your Weekend | Zudonu Osomudeya | [Read More](https://medium.com/p/37b430705c60) |
+| Tue, 30 Sep 2025 13:02:42 GMT | Building My Own AI Workflow Automation System in 2025 | J. David Smith | [Read More](https://medium.com/p/01e82d3af36d) |
+| Tue, 30 Sep 2025 13:02:13 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Disconnection | 24H Garage Doors | [Read More](https://medium.com/p/41a8a990e761) |
+| Tue, 30 Sep 2025 13:02:12 GMT | How AI Agents May Supercharge the Cyber Crime Economy | Milos | [Read More](https://medium.com/p/32145ab8a608) |
+| Tue, 30 Sep 2025 12:59:47 GMT | How To Hire A Hacker | Sydney Brooks | [Read More](https://medium.com/p/007e2c912c70) |
+| Tue, 30 Sep 2025 12:59:42 GMT | The Economics of Cybersecurity: Understanding the Cost of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/f627e8c04500) |
+| Tue, 30 Sep 2025 12:58:47 GMT | Remote Code Execution vulnerabilities uncovered in Apache Commons Configuration | ZAST AI | [Read More](https://medium.com/p/2b4c95775a3a) |
+| Tue, 30 Sep 2025 12:57:41 GMT | From Boots to Bytes | Kara Davis | [Read More](https://medium.com/p/32dde2e33676) |
+| Tue, 30 Sep 2025 12:53:43 GMT | The Hidden Career Killer: Poor Mood Management | Tyler Wall | [Read More](https://medium.com/p/79d0e2c5a352) |
+| Tue, 30 Sep 2025 12:53:41 GMT | Cybersecurity Certifications: Advancing Your Career | Cyber Security Research | [Read More](https://medium.com/p/9a1fe4577095) |
 | Tue, 30 Sep 2025 12:39:35 GMT | EDR, MDR, and XDR Explained: Protecting Businesses from Cyber Threats | Anu Shreya | [Read More](https://medium.com/p/2ed637fdbf19) |
 | Tue, 30 Sep 2025 12:32:45 GMT | Shadow AI: The New Risk You Didn’t Approve | Evgeny Ermakov | [Read More](https://medium.com/p/80ce8f390bb2) |
 | Tue, 30 Sep 2025 12:32:11 GMT | How AWS Cognito Earns Developer Love: Secure Auth Without Pain | Hossam Hatem | [Read More](https://medium.com/p/d5c19ee0c0e4) |
@@ -43,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 11:14:23 GMT | Security Hardening: Minimizing Attack Surface | Cyber Security Research | [Read More](https://medium.com/p/e3c82e13b3d0) |
 | Tue, 30 Sep 2025 11:13:10 GMT | Cybersecurity in Virtual and Hybrid Events | Rawaha Rasheed | [Read More](https://medium.com/p/1c0c4dabf924) |
 | Tue, 30 Sep 2025 11:12:56 GMT | UN Security Council Reform Starts With One Test: Decision Integrity | Brian Iselin | [Read More](https://medium.com/p/9e517d2bd0c3) |
+| Tue, 30 Sep 2025 11:08:34 GMT | Cybersecurity Risk Management: Identifying, Assessing, and Mitigating Risks | Cyber Security Research | [Read More](https://medium.com/p/011c32e3a714) |
 | Tue, 30 Sep 2025 11:03:33 GMT | The Professional’s Guide to Cybersecurity Compliance: Standards, Frameworks, and Best Practices | Beri Contraster | [Read More](https://medium.com/p/64ad8201bee0) |
 | Tue, 30 Sep 2025 11:01:59 GMT | Supply Chain Security: Securing Your Extended Ecosystem | Cyber Security Research | [Read More](https://medium.com/p/a6deb2787540) |
 | Tue, 30 Sep 2025 10:57:35 GMT | Imperva — Secure Applications, Protected Data, Trusted Security | SystemSecurity | [Read More](https://medium.com/p/914aca26a8db) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 09:26:57 GMT | Signal Lost: When a Deepfake Wears the CEO’s Face | ComsignTrust LTD | [Read More](https://medium.com/p/feda14a752bd) |
 | Tue, 30 Sep 2025 09:26:42 GMT | Endpoint Security: Protecting Devices from Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/892c8db8241c) |
 | Tue, 30 Sep 2025 09:26:24 GMT | Security Doors in Werribee | SPM Melbourne Pty Ltd | [Read More](https://medium.com/p/77ac87a8d50e) |
-| Tue, 30 Sep 2025 09:26:13 GMT | Kimsuky/APT43 Phishing Infrastructure: A Technical Evolution | Siddhant Mishra | [Read More](https://medium.com/p/5b4653c5c99b) |
-| Tue, 30 Sep 2025 09:19:23 GMT | Best Cheap Web Hosting Options for Beginners, Freelancers, and Small Businesses | Mary Thomas | [Read More](https://medium.com/p/eb2f4b399e89) |
-| Tue, 30 Sep 2025 09:16:25 GMT | Ethical Hacking’s Next Chapter: AI vs. Human Ingenuity | Suhas GM | [Read More](https://medium.com/p/980b6b21937f) |
-| Tue, 30 Sep 2025 09:12:00 GMT | Web Application Security: Why It Matters More Than Ever | Digital Defense | [Read More](https://medium.com/p/c51a05bfedd2) |
-| Tue, 30 Sep 2025 09:01:54 GMT | Security for Startups: The Essential Foundation (Part 1) | Paul Sherman | [Read More](https://medium.com/p/12c4ca32132d) |
-| Tue, 30 Sep 2025 09:00:54 GMT | Broken Access Control in Action: Exploiting Role Modification (PortSwigger Lab) | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/23233a0ba285) |
-| Tue, 30 Sep 2025 09:00:26 GMT | ประจำวันอังคารที่ 30 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cc15009ce0e8) |
-| Tue, 30 Sep 2025 09:00:18 GMT | Understanding Tabnabbing and Effective Prevention Strategies | Anh Trần Tuấn | [Read More](https://medium.com/p/e9d4152dcf22) |
-| Tue, 30 Sep 2025 09:00:15 GMT | Understanding Tabnabbing and Effective Prevention Strategies | Anh Trần Tuấn | [Read More](https://medium.com/p/2506d265798d) |
-| Tue, 30 Sep 2025 08:55:59 GMT | Cloud Security: Keeping Your Business Data Safe Online | Nagaraj | [Read More](https://medium.com/p/976bb1b65add) |
-| Tue, 30 Sep 2025 08:49:35 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/ffcbacfd3c26) |
-| Tue, 30 Sep 2025 08:42:47 GMT | Data Loss Prevention (DLP): Preventing Sensitive Data from Leaving Your Organization | Cyber Security Research | [Read More](https://medium.com/p/18988dda5e23) |
-| Tue, 30 Sep 2025 08:36:37 GMT | Why AI Fails in Industry — And How to Fix It | DataTalk | [Read More](https://medium.com/p/4ae09bafc57e) |
-| Tue, 30 Sep 2025 08:34:09 GMT | KEV: V8 CVE-2025–10585 Hits Electron Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/04544099f585) |
-| Tue, 30 Sep 2025 08:31:49 GMT | DockerLabs Writeup — Stranger (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/46793d365e80) |
-| Tue, 30 Sep 2025 08:26:21 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/96d72e57ce3a) |
