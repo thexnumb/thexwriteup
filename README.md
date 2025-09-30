@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 01:19:07 GMT | U.S.–China Rivalry and Its Global Implications | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/0d1adfeb2ead) |
+| Tue, 30 Sep 2025 01:12:52 GMT | Threat Detection: Identifying Suspicious PowerShell Activities Using CrowdStrike Logs | Paritosh | [Read More](https://medium.com/p/1d154ec44964) |
+| Tue, 30 Sep 2025 01:12:43 GMT | Red-Teaming Generative AI | Zaina Haider | [Read More](https://medium.com/p/5955bbcdf21c) |
+| Tue, 30 Sep 2025 01:10:41 GMT | The SOC Series: Part 1 — Understanding SOC 1 Reports | Rachid Abadli | [Read More](https://medium.com/p/264895f32aa0) |
+| Tue, 30 Sep 2025 01:09:49 GMT | LockBit: from the Russian laboratory to the never-ending shadow of cybercrime | Rodrigo Gutierrez | [Read More](https://medium.com/p/387a70fcd594) |
+| Tue, 30 Sep 2025 00:45:10 GMT | Are you still transferring hundreds of thousands of files manually? | INNORIX | [Read More](https://medium.com/p/cf77b9849485) |
+| Tue, 30 Sep 2025 00:37:17 GMT | AI Investing Without the FOMO: A Private Equity Playbook | Kushal Amilineni | [Read More](https://medium.com/p/d2df72acdc00) |
+| Tue, 30 Sep 2025 00:32:25 GMT | Should AI Have the Right to Vote? | Ghani Mengal | [Read More](https://medium.com/p/9a8430465f5c) |
+| Tue, 30 Sep 2025 00:31:49 GMT | Why Phishing Awareness Training Fails and How to Fix Corporate Security | Chaos Engineer | [Read More](https://medium.com/p/a8760d63d64e) |
+| Tue, 30 Sep 2025 00:28:10 GMT | Bypassing Kamino KFarms invariant | dr497 | [Read More](https://medium.com/p/5beec4e67e4c) |
+| Tue, 30 Sep 2025 00:16:33 GMT | How to Quickly Spot a Scam Website | Lucas Sanchiez | [Read More](https://medium.com/p/6c34a5a8625b) |
+| Tue, 30 Sep 2025 00:14:36 GMT | Tuesday Morning Threat Report: Sept 30, 2025 | Mark Maguire | [Read More](https://medium.com/p/25efaf88842b) |
+| Tue, 30 Sep 2025 00:01:53 GMT | Feroxbuster: Un Fuzzer de Contenido Web Ultra Rápido | JPablo13 | [Read More](https://medium.com/p/9c047de4b4f1) |
+| Mon, 29 Sep 2025 23:57:26 GMT | Can AI Systems Replace Human Annotation? | Dhananjay Ashok | [Read More](https://medium.com/p/b0e6dadd86a3) |
+| Mon, 29 Sep 2025 23:40:28 GMT | The Mandem Don’t Cry Enough: Deconstructing the Bulletproof Man | Ayomide Wilfred | [Read More](https://medium.com/p/3a7cf7d556e8) |
 | Mon, 29 Sep 2025 23:29:29 GMT | Beyond Naïve Filters: Chaining Guardrails for LLM Prompt Injection | Pratip Dasgupta | [Read More](https://medium.com/p/e1df702a27ca) |
 | Mon, 29 Sep 2025 23:22:18 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/3334741d2db7) |
 | Mon, 29 Sep 2025 23:17:27 GMT | Quantum-Ready Security: Why Your Passwords Need Post-Quantum Protection Today | Bervice | [Read More](https://medium.com/p/d42ac38a500d) |
@@ -98,18 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 16:50:31 GMT | 5 Reasons to Regularly Review Your IT Outsourcing Partner | Evgeny Ermakov | [Read More](https://medium.com/p/f707cd26fff8) |
 | Mon, 29 Sep 2025 16:42:29 GMT | SEC Chair Atkins Vows Action on Crypto Conflicts | Catenaa | [Read More](https://medium.com/p/5d47187b35a4) |
 | Mon, 29 Sep 2025 16:40:22 GMT | Laravel 12.30 Just Changed Middleware Forever — Here’s How | Sadique Ali | [Read More](https://medium.com/p/c1b1405ebb41) |
-| Mon, 29 Sep 2025 16:32:11 GMT | Stop Using Weak or Reused Passwords: A Hacker’s Favorite Shortcut | Ehsanm135 | [Read More](https://medium.com/p/c97d7e7ae05a) |
-| Mon, 29 Sep 2025 16:30:08 GMT | The Operator’s Mindset: The Unwritten Rules for Joining the Top 1% in Cybersecurity | Abhijith Soman | [Read More](https://medium.com/p/19bec72feb0e) |
-| Mon, 29 Sep 2025 16:27:17 GMT | Best Laptop for Ethical Hacking | Yousuf | [Read More](https://medium.com/p/dd79d80a3266) |
-| Mon, 29 Sep 2025 16:22:15 GMT | Harrods Suffers Data Breach, 430,000 Customer Records Exposed | valasala suhas | [Read More](https://medium.com/p/d69dca26f503) |
-| Mon, 29 Sep 2025 16:20:46 GMT | Listing subdomains vHosts | Pancho AM | [Read More](https://medium.com/p/75c9de819933) |
-| Mon, 29 Sep 2025 16:20:06 GMT | Returning to Life | Patrick Prescott | [Read More](https://medium.com/p/b49a091b5a25) |
-| Mon, 29 Sep 2025 16:19:33 GMT | Multifirma de Safe llega a Units.Network para una mayor protección de activos | WAVES LATAM | [Read More](https://medium.com/p/1038208ab27c) |
-| Mon, 29 Sep 2025 16:17:55 GMT | The DDoS Tsunami: Why 2025’s Cyberattacks Are Bigger, Smarter, and Targeting You | Aj | [Read More](https://medium.com/p/852520020f8c) |
-| Mon, 29 Sep 2025 16:13:42 GMT | Cisco ASA Firewalls Targeted by Zero-Day Exploits in Active Campaign | valasala suhas | [Read More](https://medium.com/p/af404117e358) |
-| Mon, 29 Sep 2025 16:08:11 GMT | The Call No School Wants to Make: Why Emergency Response Fails Before It Starts | Tec-Tel Communications | [Read More](https://medium.com/p/8d471359ed72) |
-| Mon, 29 Sep 2025 16:05:56 GMT | Current Authentication Practices: PCI SSC 2025 Guidance Overview | Viktor Davydych | [Read More](https://medium.com/p/dff51789b14e) |
-| Mon, 29 Sep 2025 16:02:16 GMT | New TechQuantus Free Web Tools — Simple, Fast & Browser-Based | Eduardo Milhomem | [Read More](https://medium.com/p/c4337126cebc) |
-| Mon, 29 Sep 2025 16:02:15 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools-Part 3 | Robert Onyango | [Read More](https://medium.com/p/9e96e033fc59) |
-| Mon, 29 Sep 2025 16:01:55 GMT | How SentryPC Helps Schools Monitor Student Devices and Improve School Security | Paul Meyer | [Read More](https://medium.com/p/777ae296268c) |
-| Mon, 29 Sep 2025 15:59:52 GMT | Indian Army Terrier Cyber Quest 2025 - INDIAN ARMY CTF Conducted by CyberPeace Foundation x Indian… | Naveen Kumar | [Read More](https://medium.com/p/f2b17766c6c9) |
