@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 03:21:20 GMT | Hackers Are Targeting Healthcare and Turning Patients into Hostages | David SEHYEON Baek | [Read More](https://medium.com/p/686ff721b61d) |
+| Tue, 30 Sep 2025 03:20:59 GMT | File Upload Character Injection wordlist | Fatimahasan | [Read More](https://medium.com/p/01dfe55f0009) |
+| Tue, 30 Sep 2025 03:11:53 GMT | The Cloud Security Alliance AICM — What It Means for OEMs | Dr. Deep Pandey | [Read More](https://medium.com/p/8f1c9b02cc01) |
 | Tue, 30 Sep 2025 02:52:24 GMT | Is Your Company Being Infiltrated by ‘AI Angels’? | Scott Huang | [Read More](https://medium.com/p/06886ec848cf) |
 | Tue, 30 Sep 2025 02:41:22 GMT | Google Fuchsia: The Microkernel Revolution That Actually Works | ThamizhElango Natarajan | [Read More](https://medium.com/p/589b1716ba55) |
 | Tue, 30 Sep 2025 02:37:51 GMT | Can Money Buy You Happiness and Security? | Michael Laitman | [Read More](https://medium.com/p/2f5f32b3970b) |
@@ -110,6 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 18:21:30 GMT | Pivot and Chained Vulnerabilities in Cybersecurity | Similoluwa Adelowo | [Read More](https://medium.com/p/5ad9b26c6508) |
 | Mon, 29 Sep 2025 18:19:59 GMT | Dark Web Links: What They Are and Why They Matter | SafeAeon Inc. | [Read More](https://medium.com/p/e6492fb86218) |
 | Mon, 29 Sep 2025 18:17:02 GMT | Use AI to Outpace Cyber Defenses | Matthew.Rosenquist | [Read More](https://medium.com/p/cb50ed789d7d) |
-| Mon, 29 Sep 2025 17:58:21 GMT | Linux Memory Forensics: When a Mole Gets Into a Web Server — A Step-by-Step Case Study | Emre Karatay | [Read More](https://medium.com/p/3fe628d8b83d) |
-| Mon, 29 Sep 2025 17:54:31 GMT | The Road to Modern Identity: Lessons from Migrating Away from Legacy Stacks | Veinu Vasisht | [Read More](https://medium.com/p/41b64a9525f2) |
-| Mon, 29 Sep 2025 17:52:14 GMT | How i Got $$$ For Token Based Rate limit Bypass | praveenarsh0xx0 | [Read More](https://medium.com/p/4841bbb3051c) |
