@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 08:42:47 GMT | Data Loss Prevention (DLP): Preventing Sensitive Data from Leaving Your Organization | Cyber Security Research | [Read More](https://medium.com/p/18988dda5e23) |
+| Tue, 30 Sep 2025 08:36:37 GMT | Why AI Fails in Industry — And How to Fix It | DataTalk | [Read More](https://medium.com/p/4ae09bafc57e) |
+| Tue, 30 Sep 2025 08:34:09 GMT | KEV: V8 CVE-2025–10585 Hits Electron Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/04544099f585) |
+| Tue, 30 Sep 2025 08:31:49 GMT | DockerLabs Writeup — Stranger (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/46793d365e80) |
+| Tue, 30 Sep 2025 08:26:21 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/96d72e57ce3a) |
 | Tue, 30 Sep 2025 08:20:34 GMT | Cyber ​Crime Warning: Take caution of video blackmail on WhatsApp. | Autotechbiz | [Read More](https://medium.com/p/614dd10313bc) |
 | Tue, 30 Sep 2025 08:18:25 GMT | Wireless Security: Securing Your Wi-Fi Network | Cyber Security Research | [Read More](https://medium.com/p/74907d55bf2f) |
 | Tue, 30 Sep 2025 08:12:10 GMT | PHP Sessions Keep Betraying You Unless You Do This | Asian Digital Hub | [Read More](https://medium.com/p/1bab0cea03c0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 02:24:51 GMT | How Scattered Spider Crippled M&S in the UK with Social Engineering and Ransomware | David SEHYEON Baek | [Read More](https://medium.com/p/0f5aefcb3c2d) |
 | Tue, 30 Sep 2025 02:22:22 GMT | Powershell Usage | Pedro Ribeiro | [Read More](https://medium.com/p/992d08290650) |
 | Tue, 30 Sep 2025 02:22:15 GMT | How to claim uspepe staking bonus | Bitcoinpepe | [Read More](https://medium.com/p/6e4bbafdddda) |
-| Tue, 30 Sep 2025 02:11:10 GMT | Violence from Another Realm: How AI Magnifies Digital Misogyny | Nathaly Luna | [Read More](https://medium.com/p/fa7fc0aac0dd) |
-| Tue, 30 Sep 2025 02:07:48 GMT | The Holiday Cyber Trap and Why Attackers Love Long Weekends More Than You Do | Maricar Hernandez | [Read More](https://medium.com/p/31262255f2dc) |
-| Tue, 30 Sep 2025 02:03:14 GMT | XSS Gym labs solution level 11–20 explaining each payload for complete beginners | T0n1x H3r0 | [Read More](https://medium.com/p/1bb9fb68d2bb) |
-| Tue, 30 Sep 2025 02:02:26 GMT | AI-Generated Code: Productivity Boost or Security Nightmare? | Deepak Mardi | [Read More](https://medium.com/p/06e2d7a73311) |
-| Tue, 30 Sep 2025 02:01:53 GMT | Faces We Wear, Masks We Shed | Unknown | [Read More](https://medium.com/p/48f3981e8344) |
