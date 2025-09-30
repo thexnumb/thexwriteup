@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 20:27:28 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/b9130fe59236) |
+| Tue, 30 Sep 2025 20:23:28 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking | Shaun Mathew | [Read More](https://medium.com/p/8673dd7f7c73) |
+| Tue, 30 Sep 2025 20:21:48 GMT | Budgets with purpose: 2026 as an inflection year | Rodrigo Gutierrez | [Read More](https://medium.com/p/99df2887f269) |
 | Tue, 30 Sep 2025 20:17:48 GMT | Towards a New Standard: Data That Never Exists Unencrypted | ExcID | [Read More](https://medium.com/p/92b4a8f034f6) |
 | Tue, 30 Sep 2025 20:13:03 GMT | Hardening the Frontier: Mitigating AI Agent Risk with Adversarial Evaluations | Valdez Ladd | [Read More](https://medium.com/p/098677d7eb00) |
 | Tue, 30 Sep 2025 20:12:47 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/62f8dd2672c7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 15:09:17 GMT | "Predatory FinOps": How to Spot It, Stop It, and Keep the Room Together | Tim O'Brien | [Read More](https://medium.com/p/6d485698a1bf) |
 | Tue, 30 Sep 2025 15:09:05 GMT | Hidden Cameras, Exploitation, and the Fight Against Non-Consensual Pornography | Internet Exposed | [Read More](https://medium.com/p/b6a532016e4f) |
 | Tue, 30 Sep 2025 15:04:03 GMT | Penelitian usabilitas keamanan pada email terenkripsi | wijdan hafizhan | [Read More](https://medium.com/p/2b0fbb94f260) |
-| Tue, 30 Sep 2025 15:01:20 GMT | Boolean Walkthrough | Jose Diaz | [Read More](https://medium.com/p/cbe6c9c9dccb) |
-| Tue, 30 Sep 2025 14:59:01 GMT | What if You Never Get a Life You Want? | Vijay Kumar Gupta | [Read More](https://medium.com/p/fda9e87c066e) |
-| Tue, 30 Sep 2025 14:57:54 GMT | Cognitive, Behavioral, or Emotional: Which Type of Engagement Matters Most? | Farwa Asim | [Read More](https://medium.com/p/8b1032296f84) |
