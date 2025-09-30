@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 23:31:51 GMT | The Fourth Angel Has Arrived! Can Your Autonomous Vehicle Withstand the ‘Shape-Shifting’ AI Attack? | Scott Huang | [Read More](https://medium.com/p/979492222bf7) |
+| Tue, 30 Sep 2025 23:31:34 GMT | China’s Preparation for Cyberattacks is a Lesson in Resilience | Matthew.Rosenquist | [Read More](https://medium.com/p/2e6dc8af89f4) |
 | Tue, 30 Sep 2025 23:17:04 GMT | From Generalist to Specialist: How I Turned GPT-4o into a Cybersecurity Assistant with Fine-Tuning | José Antonio Mancilla Chatú | [Read More](https://medium.com/p/d298858244f7) |
 | Tue, 30 Sep 2025 23:07:28 GMT | TryHackMe — Sneaky Patch Write-Up | J Linton | [Read More](https://medium.com/p/d68d0ec7476a) |
 | Tue, 30 Sep 2025 23:07:09 GMT | Security Strategies: Pre-emptive Preparation or Post-Intervention? | Oğuzhan Hızıroğlu | [Read More](https://medium.com/p/3f31edfaf868) |
@@ -111,5 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 16:27:51 GMT | Why OpenID Connect Isn’t Complex — It’s the Missing Link in .NET Security | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/b9ab4f2647dd) |
 | Tue, 30 Sep 2025 16:16:52 GMT | Embedding Cloud Security into Startups | Andrii Shyshenko | [Read More](https://medium.com/p/93b062898ada) |
 | Tue, 30 Sep 2025 16:12:44 GMT | Don’t Let Apps Trick You: A Simple Guide to Staying Safe Online | Hitesh Said | [Read More](https://medium.com/p/96a1cf9c6923) |
-| Tue, 30 Sep 2025 16:11:48 GMT | Stored XSS (Why output encoding is a YES!) | CyrilLK | [Read More](https://medium.com/p/282f8c45b47e) |
-| Tue, 30 Sep 2025 16:01:13 GMT | Blue Team: Quando defender também pode ser legal | Thiago Castro | [Read More](https://medium.com/p/b0d13ecb7f02) |
