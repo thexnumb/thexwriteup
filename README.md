@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 07:26:25 GMT | How SSL Improves SEO and Website Traffic | Smit Pipaliya | [Read More](https://medium.com/p/dc88d80d8729) |
+| Tue, 30 Sep 2025 07:26:24 GMT | Cache Crash: How I Poisoned CDN Responses and Became Every User Simultaneously | Iski | [Read More](https://medium.com/p/6261a2e966b4) |
+| Tue, 30 Sep 2025 07:26:04 GMT | Security Services in India: A Growing Need for Safety and the Rise of Top Security Services | Ciss India | [Read More](https://medium.com/p/9ed50b2edcef) |
+| Tue, 30 Sep 2025 07:25:21 GMT | Master of Science in Cyber Security — Security Analyst - EC-Council University | Cybersecurity Courses | [Read More](https://medium.com/p/fb5633f7d227) |
+| Tue, 30 Sep 2025 07:24:12 GMT | This post explores some of the most sophisticated offensive tools and frameworks attributed to… | spidersec | [Read More](https://medium.com/p/35c42411485e) |
+| Tue, 30 Sep 2025 07:18:34 GMT | SSL Speed: Balance Security with Site Performance | Smit Pipaliya | [Read More](https://medium.com/p/7fdae92a3757) |
 | Tue, 30 Sep 2025 07:18:07 GMT | HTTP vs HTTPS Explained: Key Differences You Need to Know | Smit Pipaliya | [Read More](https://medium.com/p/7ab34c026a6d) |
 | Tue, 30 Sep 2025 07:17:13 GMT | Retesting Vulnerabilities: Why Security Doesn’t End at the Patch | Luis Abreu from Cyver | [Read More](https://medium.com/p/3806b215d950) |
+| Tue, 30 Sep 2025 07:16:39 GMT | Threat Surfaces Unique to GenAI: Weights, Injection, and Synthetic Abuse | rajni singh | [Read More](https://medium.com/p/bec288d1df15) |
+| Tue, 30 Sep 2025 07:14:55 GMT | XDR: Credential Access | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/8600178a4fcf) |
 | Tue, 30 Sep 2025 07:09:00 GMT | The £2 Billion Hack: How Cybercriminals Crippled Jaguar Land Rover in 2025 | Atharva Deshmukh | [Read More](https://medium.com/p/1819bac0b0bf) |
 | Tue, 30 Sep 2025 07:08:37 GMT | Cortex Network Security Automation: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c3cdae14e880) |
 | Tue, 30 Sep 2025 07:02:29 GMT | Penetration Testing Solutions in Abu Dhabi: Protecting Your Business from Cyber Threats | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/0371b001188d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 00:16:33 GMT | How to Quickly Spot a Scam Website | Lucas Sanchiez | [Read More](https://medium.com/p/6c34a5a8625b) |
 | Tue, 30 Sep 2025 00:14:36 GMT | Tuesday Morning Threat Report: Sept 30, 2025 | Mark Maguire | [Read More](https://medium.com/p/25efaf88842b) |
 | Tue, 30 Sep 2025 00:01:53 GMT | Feroxbuster: Un Fuzzer de Contenido Web Ultra Rápido | JPablo13 | [Read More](https://medium.com/p/9c047de4b4f1) |
-| Mon, 29 Sep 2025 23:57:26 GMT | Can AI Systems Replace Human Annotation? | Dhananjay Ashok | [Read More](https://medium.com/p/b0e6dadd86a3) |
-| Mon, 29 Sep 2025 23:40:28 GMT | The Mandem Don’t Cry Enough: Deconstructing the Bulletproof Man | Ayomide Wilfred | [Read More](https://medium.com/p/3a7cf7d556e8) |
-| Mon, 29 Sep 2025 23:29:29 GMT | Beyond Naïve Filters: Chaining Guardrails for LLM Prompt Injection | Pratip Dasgupta | [Read More](https://medium.com/p/e1df702a27ca) |
-| Mon, 29 Sep 2025 23:22:18 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/3334741d2db7) |
-| Mon, 29 Sep 2025 23:17:27 GMT | Quantum-Ready Security: Why Your Passwords Need Post-Quantum Protection Today | Bervice | [Read More](https://medium.com/p/d42ac38a500d) |
-| Mon, 29 Sep 2025 23:13:01 GMT | Cloudflare Blocks Largest-Ever DDoS Attack at 7.3 Tbps | Raviteja Mureboina | [Read More](https://medium.com/p/7675fdfb8531) |
-| Mon, 29 Sep 2025 23:00:26 GMT | Building an AI-Powered WAF: When Machine Learning Meets Web Security | Yevhenii Zhuk | [Read More](https://medium.com/p/d3038f591b58) |
-| Mon, 29 Sep 2025 22:56:39 GMT | Epidemics we cannot see | Progsky | [Read More](https://medium.com/p/3f17d3dc4602) |
