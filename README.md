@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 05:06:12 GMT | TROJAN TINY BANKER | Synchro Nous | [Read More](https://medium.com/p/eb2429ecd333) |
+| Tue, 30 Sep 2025 05:04:46 GMT | 1+1 != 2 Part II | Pseudonotes | [Read More](https://medium.com/p/566ea1ac693c) |
+| Tue, 30 Sep 2025 05:03:40 GMT | VPNs: Securing Your Online Privacy | Cyber Security Research | [Read More](https://medium.com/p/ea22e914365c) |
+| Tue, 30 Sep 2025 04:57:42 GMT | Two-Factor Authentication: Adding an Extra Layer of Security | Cyber Security Research | [Read More](https://medium.com/p/f7f523f89401) |
+| Tue, 30 Sep 2025 04:57:00 GMT | Security in MQTT: Safeguarding IoT Devices in the Age of Cyber Threats | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/c2524afaa790) |
+| Tue, 30 Sep 2025 04:56:32 GMT | Protecting Yourself in the Digital Age: A Guide for Women | Monika Parnami | [Read More](https://medium.com/p/e8694b81dedf) |
+| Tue, 30 Sep 2025 04:32:37 GMT | Why Professional Software Installation Saves You Time and Money | Ask IT Support | [Read More](https://medium.com/p/59c2f1bcadf8) |
 | Tue, 30 Sep 2025 04:32:07 GMT | The Quantum Dawn — Understanding India’s Digital Vulnerability | Sankalp Shady | [Read More](https://medium.com/p/777d33a6f1b8) |
 | Tue, 30 Sep 2025 04:31:49 GMT | Why I’m starting this cybersecurity blog in my final year | Nithishkumar R | [Read More](https://medium.com/p/576155377e9c) |
 | Tue, 30 Sep 2025 04:17:14 GMT | Real-world APT case analysis | Ash | [Read More](https://medium.com/p/08cb6c799403) |
@@ -106,10 +113,3 @@ The Existential Mandate for the Post-Quantum Era | Peter Lablans | [Read More](h
 | Mon, 29 Sep 2025 19:48:20 GMT | Hack The Box: Scepter -Write-Up — Hard Difficulty — Scepter | kradis0 | [Read More](https://medium.com/p/d29aba73647f) |
 | Mon, 29 Sep 2025 19:42:25 GMT | Cyborg writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/8026961c38db) |
 | Mon, 29 Sep 2025 19:39:18 GMT | How to Close the AI Governance Gap in Software Development | IT_Engineer | [Read More](https://medium.com/p/920d2d669edc) |
-| Mon, 29 Sep 2025 19:37:29 GMT | cloudinary şəkil yükləmək | Arzu Mammadova | [Read More](https://medium.com/p/73e3251c085e) |
-| Mon, 29 Sep 2025 19:35:13 GMT | How to Recover from a DDoS Attack: Practical Steps to Restore Security and Uptime | Sammie Singh | [Read More](https://medium.com/p/f1eea8f527c1) |
-| Mon, 29 Sep 2025 19:33:52 GMT | A new player: Centurion - Modern Cybersecurity for Real People | Alex Cabrera | [Read More](https://medium.com/p/3badb73c60ec) |
-| Mon, 29 Sep 2025 19:33:20 GMT | The Linux Process Journey — wpa_gui (Wi-Fi Protected Access Graphical User Interface) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2bfa4bca5a45) |
-| Mon, 29 Sep 2025 19:31:54 GMT | IAM: construindo a arquitetura de confiança digital | Sara Batista | [Read More](https://medium.com/p/b7b223b0e1ac) |
-| Mon, 29 Sep 2025 19:29:06 GMT | HackTheBox — Intrusion Detection With Splunk (Real-world Scenario) | Javier | [Read More](https://medium.com/p/db1a2e726a32) |
-| Mon, 29 Sep 2025 19:24:22 GMT | Network Deep Dive | Infra & Network Core | [Read More](https://medium.com/p/260e143c7089) |
