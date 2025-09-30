@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 09:19:23 GMT | Best Cheap Web Hosting Options for Beginners, Freelancers, and Small Businesses | Mary Thomas | [Read More](https://medium.com/p/eb2f4b399e89) |
+| Tue, 30 Sep 2025 09:12:00 GMT | Web Application Security: Why It Matters More Than Ever | Digital Defense | [Read More](https://medium.com/p/c51a05bfedd2) |
+| Tue, 30 Sep 2025 09:01:54 GMT | Security for Startups: The Essential Foundation (Part 1) | Paul Sherman | [Read More](https://medium.com/p/12c4ca32132d) |
+| Tue, 30 Sep 2025 09:00:54 GMT | Broken Access Control in Action: Exploiting Role Modification (PortSwigger Lab) | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/23233a0ba285) |
+| Tue, 30 Sep 2025 09:00:26 GMT | ประจำวันอังคารที่ 30 กันยายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cc15009ce0e8) |
+| Tue, 30 Sep 2025 09:00:18 GMT | Understanding Tabnabbing and Effective Prevention Strategies | Anh Trần Tuấn | [Read More](https://medium.com/p/e9d4152dcf22) |
+| Tue, 30 Sep 2025 09:00:15 GMT | Understanding Tabnabbing and Effective Prevention Strategies | Anh Trần Tuấn | [Read More](https://medium.com/p/2506d265798d) |
+| Tue, 30 Sep 2025 08:55:59 GMT | Cloud Security: Keeping Your Business Data Safe Online | Nagaraj | [Read More](https://medium.com/p/976bb1b65add) |
+| Tue, 30 Sep 2025 08:49:35 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/ffcbacfd3c26) |
 | Tue, 30 Sep 2025 08:42:47 GMT | Data Loss Prevention (DLP): Preventing Sensitive Data from Leaving Your Organization | Cyber Security Research | [Read More](https://medium.com/p/18988dda5e23) |
 | Tue, 30 Sep 2025 08:36:37 GMT | Why AI Fails in Industry — And How to Fix It | DataTalk | [Read More](https://medium.com/p/4ae09bafc57e) |
 | Tue, 30 Sep 2025 08:34:09 GMT | KEV: V8 CVE-2025–10585 Hits Electron Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/04544099f585) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 03:21:20 GMT | Hackers Are Targeting Healthcare and Turning Patients into Hostages | David SEHYEON Baek | [Read More](https://medium.com/p/686ff721b61d) |
 | Tue, 30 Sep 2025 03:20:59 GMT | File Upload Character Injection wordlist | Fatimahasan | [Read More](https://medium.com/p/01dfe55f0009) |
 | Tue, 30 Sep 2025 03:11:53 GMT | The Cloud Security Alliance AICM — What It Means for OEMs | Dr. Deep Pandey | [Read More](https://medium.com/p/8f1c9b02cc01) |
-| Tue, 30 Sep 2025 02:52:24 GMT | Is Your Company Being Infiltrated by ‘AI Angels’? | Scott Huang | [Read More](https://medium.com/p/06886ec848cf) |
-| Tue, 30 Sep 2025 02:41:22 GMT | Google Fuchsia: The Microkernel Revolution That Actually Works | ThamizhElango Natarajan | [Read More](https://medium.com/p/589b1716ba55) |
-| Tue, 30 Sep 2025 02:37:51 GMT | Can Money Buy You Happiness and Security? | Michael Laitman | [Read More](https://medium.com/p/2f5f32b3970b) |
-| Tue, 30 Sep 2025 02:33:42 GMT | Cloud-Based Security ServicesTop Cyber Threats Stopped by Cloud-Based Security Services | planet6 | [Read More](https://medium.com/p/db0ef4c69ede) |
-| Tue, 30 Sep 2025 02:30:55 GMT | Exploiting CSRF flaw in login form into malicious redirection | rotiBagelen | [Read More](https://medium.com/p/3173abd6488c) |
-| Tue, 30 Sep 2025 02:25:43 GMT | Test Levels คืออะไร? ทำไม Dev กับ QA ต้องรู้ | kumoriiz | [Read More](https://medium.com/p/e7cb7fb22c69) |
-| Tue, 30 Sep 2025 02:24:51 GMT | How Scattered Spider Crippled M&S in the UK with Social Engineering and Ransomware | David SEHYEON Baek | [Read More](https://medium.com/p/0f5aefcb3c2d) |
-| Tue, 30 Sep 2025 02:22:22 GMT | Powershell Usage | Pedro Ribeiro | [Read More](https://medium.com/p/992d08290650) |
-| Tue, 30 Sep 2025 02:22:15 GMT | How to claim uspepe staking bonus | Bitcoinpepe | [Read More](https://medium.com/p/6e4bbafdddda) |
