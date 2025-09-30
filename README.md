@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 14:16:12 GMT | South Europe College: A Modern Educational System for the Modern Learner | SINEM | [Read More](https://medium.com/p/ffb065099fb4) |
+| Tue, 30 Sep 2025 14:11:54 GMT | Accessing a private AWS RDS database via an EC2 bastion host using an SSM tunnel from a local… | Barathkanthrajkumar | [Read More](https://medium.com/p/610920795ff8) |
+| Tue, 30 Sep 2025 14:11:51 GMT | TryHackMe #70 - Eviction | 0xGroot | [Read More](https://medium.com/p/b90712f71f65) |
+| Tue, 30 Sep 2025 14:07:51 GMT | TryHackMe #69 - Summit | 0xGroot | [Read More](https://medium.com/p/8162e8169fe1) |
+| Tue, 30 Sep 2025 14:04:10 GMT | Mastering Container Security in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/5bdc3f801dc7) |
+| Tue, 30 Sep 2025 14:02:17 GMT | Cyber Briefing: 2025.09.30 | CyberMaterial | [Read More](https://medium.com/p/f6cad6ec22c7) |
+| Tue, 30 Sep 2025 14:02:17 GMT | TryHackMe #68 - MITRE | 0xGroot | [Read More](https://medium.com/p/527234a4958f) |
+| Tue, 30 Sep 2025 14:02:15 GMT | Part 5: Computer Networking Basic | Intelithics | [Read More](https://medium.com/p/b19bbcac3270) |
+| Tue, 30 Sep 2025 14:01:28 GMT | Building a Cyber Security Portfolio — Technical Step 2: You say AADD, I say ADDS, Lets turn the… | Randy Puffin | [Read More](https://medium.com/p/ff8149fcd929) |
+| Tue, 30 Sep 2025 14:00:56 GMT | The Problem Web3 Hasn’t Solved Yet — And How ABTU Is Changing the Game | Abatis ABTU | [Read More](https://medium.com/p/70a14a16eb40) |
+| Tue, 30 Sep 2025 13:56:41 GMT | Expert Guide to Container Security in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/5fdbce1f2941) |
+| Tue, 30 Sep 2025 13:55:32 GMT | Sahte İş Görüşmesi, Gerçek Kripto Hırsızlığı | Uğur Gülay | [Read More](https://medium.com/p/b68d927f5420) |
+| Tue, 30 Sep 2025 13:52:09 GMT | How to Program a Garage Door to a Car Without a Remote: Easy-to-Follow Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/424192e8bde9) |
+| Tue, 30 Sep 2025 13:48:48 GMT | Security and Performance Aspects of WireGuard Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/b305ff70b873) |
+| Tue, 30 Sep 2025 13:48:25 GMT | Building Smarter Python Utilities That Actually Save Time | Kainat Nafees | [Read More](https://medium.com/p/900d61865c88) |
 | Tue, 30 Sep 2025 13:41:18 GMT | Stored Cross-Site Scripting (XSS) in SourceCodester Web-based Pharmacy Product Management System… | Sourabhthakur | [Read More](https://medium.com/p/1e85d144079b) |
 | Tue, 30 Sep 2025 13:40:54 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/d67126992750) |
 | Tue, 30 Sep 2025 13:39:46 GMT | Can a PDF File Be Malware? The Hidden Dangers You Need to Know | Cordula Boeck | [Read More](https://medium.com/p/bdd5d1eb1cb2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 10:11:07 GMT | How to Launch Amazon EC2 Instances in Multiple Availability Zones (Hands-On Lab) | DarkoTechOps | [Read More](https://medium.com/p/3987ef5d783e) |
 | Tue, 30 Sep 2025 10:06:06 GMT | Implementing Supabase Authentication in SpringBoot | Curteis Yang | [Read More](https://medium.com/p/6eb5ddaabfc7) |
 | Tue, 30 Sep 2025 10:03:04 GMT | SpyCorp RM Dome Camera — The Complete Guide to Smarter, Sleeker Surveillance | spycorprm | [Read More](https://medium.com/p/ba033c0e116c) |
-| Tue, 30 Sep 2025 10:02:11 GMT | Against the Pull of Fallen Stars | Terry Edwards Jr | [Read More](https://medium.com/p/e586600e4a28) |
-| Tue, 30 Sep 2025 09:59:11 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/efcd52aabc3e) |
-| Tue, 30 Sep 2025 09:57:00 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ac9108c649ea) |
-| Tue, 30 Sep 2025 09:56:58 GMT | Unclouding the Risk: CVE-2025–30247 and the Hidden Command Injection in WD My Cloud NAS | gm0 | [Read More](https://medium.com/p/478280086df4) |
-| Tue, 30 Sep 2025 09:56:02 GMT | How 3 Lines of Python Got Me My First Freelance Client | Muhummad Zaki | [Read More](https://medium.com/p/d6dbffe0d61b) |
-| Tue, 30 Sep 2025 09:53:42 GMT | “These 5 Programming Projects Taught Me More Than Any Tutorial” | Muhummad Zaki | [Read More](https://medium.com/p/fe56718c3b4f) |
-| Tue, 30 Sep 2025 09:52:49 GMT | Database Security: Protecting Sensitive Data in Databases | Cyber Security Research | [Read More](https://medium.com/p/26df89025b8d) |
-| Tue, 30 Sep 2025 09:52:05 GMT | “The Side Project That Accidentally Taught Me More Than 4 Years of School” | Muhummad Zaki | [Read More](https://medium.com/p/8756b7585b75) |
-| Tue, 30 Sep 2025 09:49:19 GMT | Why Your Business Must Rethink Cloud Network Security in 2025 | Elliman Technologies | [Read More](https://medium.com/p/5cb498d7937c) |
-| Tue, 30 Sep 2025 09:43:09 GMT | Exploiting Deep Links for RCE in Mobile Applications | Raj Prasad Kuiri | [Read More](https://medium.com/p/6806c330c00b) |
-| Tue, 30 Sep 2025 09:39:45 GMT | Global Festival 2024- South Korea, Seoul | Milan Khanal | [Read More](https://medium.com/p/9b6c2f644e73) |
-| Tue, 30 Sep 2025 09:39:41 GMT | “11 Python Features That Made Me Wonder: Why Didn’t Anyone Tell Me This?” | Muhummad Zaki | [Read More](https://medium.com/p/1a0902270764) |
-| Tue, 30 Sep 2025 09:39:34 GMT | The difference between a rejected and accepted AWS Community Builder? One word: impact. | Vijay Sekar T G | [Read More](https://medium.com/p/e0422cda5fd4) |
-| Tue, 30 Sep 2025 09:39:10 GMT | Application Security: Securing Web Applications | Cyber Security Research | [Read More](https://medium.com/p/82e390a3c0a0) |
-| Tue, 30 Sep 2025 09:38:29 GMT | “8 AI Skills That Instantly Made Me Irreplaceable” | Muhummad Zaki | [Read More](https://medium.com/p/7809e33e9ce2) |
