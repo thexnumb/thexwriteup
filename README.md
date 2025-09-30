@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 08:20:34 GMT | Cyber ​Crime Warning: Take caution of video blackmail on WhatsApp. | Autotechbiz | [Read More](https://medium.com/p/614dd10313bc) |
+| Tue, 30 Sep 2025 08:18:25 GMT | Wireless Security: Securing Your Wi-Fi Network | Cyber Security Research | [Read More](https://medium.com/p/74907d55bf2f) |
+| Tue, 30 Sep 2025 08:12:10 GMT | PHP Sessions Keep Betraying You Unless You Do This | Asian Digital Hub | [Read More](https://medium.com/p/1bab0cea03c0) |
+| Tue, 30 Sep 2025 08:08:59 GMT | Cheap VPS Hosting vs. Managed VPS Hosting: Which One Saves You More? | Ann Taylor | [Read More](https://medium.com/p/1e7bbac8b2c7) |
+| Tue, 30 Sep 2025 08:07:59 GMT | Day 2–3: Learning the OSI Model — Thanks to NetworkChuck | El moulaa Mohamed Nidhal | [Read More](https://medium.com/p/403cd9d9b91c) |
+| Tue, 30 Sep 2025 08:02:08 GMT | How to future-proof your web app’s password authentication | Tide Foundation | [Read More](https://medium.com/p/fa385c65a75a) |
+| Tue, 30 Sep 2025 08:01:59 GMT | Add a Credential Leak Check to Your App in 10 Minutes With an API Key | Alexandre Vandamme | [Read More](https://medium.com/p/f8857261f1e6) |
+| Tue, 30 Sep 2025 08:00:13 GMT | Firewall Configuration: Blocking Unauthorized Access | Cyber Security Research | [Read More](https://medium.com/p/272deed10311) |
+| Tue, 30 Sep 2025 07:57:34 GMT | The Most Beginner-Friendly Cyber Space Search Engine — ZoomEye | Liuliuliusq | [Read More](https://medium.com/p/74251eb8c9ca) |
+| Tue, 30 Sep 2025 07:47:31 GMT | Best Hyperscale Managed Data Center Service Providers In India | Anbarasans | [Read More](https://medium.com/p/af123cbfade8) |
+| Tue, 30 Sep 2025 07:41:12 GMT | How to Protect Your WhatsApp from Hackers: 7 Practical Tips | Nisa | [Read More](https://medium.com/p/117027d3dd36) |
+| Tue, 30 Sep 2025 07:38:43 GMT | September Newsletter | Extropy.IO | [Read More](https://medium.com/p/5fa57ad3ce39) |
+| Tue, 30 Sep 2025 07:37:55 GMT | ️ Using Cobalt Strike in Red Team Operations | Esra Kayhan | [Read More](https://medium.com/p/8ae74496c5ee) |
+| Tue, 30 Sep 2025 07:36:50 GMT | Unlocking the Hidden Depths of Python: Master-Level Tricks That Changed the Way I Code | Kainat Nafees | [Read More](https://medium.com/p/e10d5cd6be29) |
+| Tue, 30 Sep 2025 07:33:35 GMT | Top 10 Ethical Hacking Training Institutes in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f9838f7f5e98) |
+| Tue, 30 Sep 2025 07:29:48 GMT | WarmCookie write-up - Wireshark Traffic Analysis - Windows Infections | Cybill383 | [Read More](https://medium.com/p/6d040f3a2585) |
+| Tue, 30 Sep 2025 07:27:24 GMT | Mobile App Development Trends 2025: AI, Cross-Platform Growth, and Security Challenges | Sjagp | [Read More](https://medium.com/p/cf12156f37b3) |
 | Tue, 30 Sep 2025 07:26:25 GMT | How SSL Improves SEO and Website Traffic | Smit Pipaliya | [Read More](https://medium.com/p/dc88d80d8729) |
 | Tue, 30 Sep 2025 07:26:24 GMT | Cache Crash: How I Poisoned CDN Responses and Became Every User Simultaneously | Iski | [Read More](https://medium.com/p/6261a2e966b4) |
 | Tue, 30 Sep 2025 07:26:04 GMT | Security Services in India: A Growing Need for Safety and the Rise of Top Security Services | Ciss India | [Read More](https://medium.com/p/9ed50b2edcef) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 02:03:14 GMT | XSS Gym labs solution level 11–20 explaining each payload for complete beginners | T0n1x H3r0 | [Read More](https://medium.com/p/1bb9fb68d2bb) |
 | Tue, 30 Sep 2025 02:02:26 GMT | AI-Generated Code: Productivity Boost or Security Nightmare? | Deepak Mardi | [Read More](https://medium.com/p/06e2d7a73311) |
 | Tue, 30 Sep 2025 02:01:53 GMT | Faces We Wear, Masks We Shed | Unknown | [Read More](https://medium.com/p/48f3981e8344) |
-| Tue, 30 Sep 2025 01:49:58 GMT | The Weaponization of Artificial Intelligence: A New Era of Global Security Risks | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/73da2e291593) |
-| Tue, 30 Sep 2025 01:45:12 GMT | PSEB’s SkillBridge Internship 2025: Real Benefits, Risks & What Every IT Graduate Should Know | Owais Mustafa | [Read More](https://medium.com/p/f94da3c6cbd0) |
-| Tue, 30 Sep 2025 01:42:26 GMT | The Essence of “Sajiao”: Confidence Born from Security | Xiaochen | [Read More](https://medium.com/p/d61571777a79) |
-| Tue, 30 Sep 2025 01:32:06 GMT | 12 K8s Ingress Designs for Security and Speed | Modexa | [Read More](https://medium.com/p/aa2cb502eb86) |
-| Tue, 30 Sep 2025 01:19:07 GMT | U.S.–China Rivalry and Its Global Implications | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/0d1adfeb2ead) |
-| Tue, 30 Sep 2025 01:12:52 GMT | Threat Detection: Identifying Suspicious PowerShell Activities Using CrowdStrike Logs | Paritosh | [Read More](https://medium.com/p/1d154ec44964) |
-| Tue, 30 Sep 2025 01:12:43 GMT | Red-Teaming Generative AI | Zaina Haider | [Read More](https://medium.com/p/5955bbcdf21c) |
-| Tue, 30 Sep 2025 01:10:41 GMT | The SOC Series: Part 1 — Understanding SOC 1 Reports | Rachid Abadli | [Read More](https://medium.com/p/264895f32aa0) |
-| Tue, 30 Sep 2025 01:09:49 GMT | LockBit: from the Russian laboratory to the never-ending shadow of cybercrime | Rodrigo Gutierrez | [Read More](https://medium.com/p/387a70fcd594) |
-| Tue, 30 Sep 2025 00:45:10 GMT | Are you still transferring hundreds of thousands of files manually? | INNORIX | [Read More](https://medium.com/p/cf77b9849485) |
-| Tue, 30 Sep 2025 00:37:17 GMT | AI Investing Without the FOMO: A Private Equity Playbook | Kushal Amilineni | [Read More](https://medium.com/p/d2df72acdc00) |
-| Tue, 30 Sep 2025 00:32:25 GMT | Should AI Have the Right to Vote? | Ghani Mengal | [Read More](https://medium.com/p/9a8430465f5c) |
-| Tue, 30 Sep 2025 00:31:49 GMT | Why Phishing Awareness Training Fails and How to Fix Corporate Security | Chaos Engineer | [Read More](https://medium.com/p/a8760d63d64e) |
-| Tue, 30 Sep 2025 00:28:10 GMT | Bypassing Kamino KFarms invariant | dr497 | [Read More](https://medium.com/p/5beec4e67e4c) |
-| Tue, 30 Sep 2025 00:16:33 GMT | How to Quickly Spot a Scam Website | Lucas Sanchiez | [Read More](https://medium.com/p/6c34a5a8625b) |
-| Tue, 30 Sep 2025 00:14:36 GMT | Tuesday Morning Threat Report: Sept 30, 2025 | Mark Maguire | [Read More](https://medium.com/p/25efaf88842b) |
-| Tue, 30 Sep 2025 00:01:53 GMT | Feroxbuster: Un Fuzzer de Contenido Web Ultra Rápido | JPablo13 | [Read More](https://medium.com/p/9c047de4b4f1) |
