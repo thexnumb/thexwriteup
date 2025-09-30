@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 19:09:24 GMT | Crossing Boundaries: User Space ↔ Kernel Space Memory Access in Linux | Anup Keshwani | [Read More](https://medium.com/p/8909544a10f7) |
+| Tue, 30 Sep 2025 18:57:56 GMT | Wonderland writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/66d7885bdd62) |
+| Tue, 30 Sep 2025 18:56:19 GMT | “ Investigative Reversing 4 “ challenge | oussama | [Read More](https://medium.com/p/c8f329011fe5) |
+| Tue, 30 Sep 2025 18:49:47 GMT | HTB - Data — Machine Walkthrough | Simi | [Read More](https://medium.com/p/38da88e74dc1) |
+| Tue, 30 Sep 2025 18:47:30 GMT | TryHackMe - XDR: Credential Access - WriteUp | Axoloth | [Read More](https://medium.com/p/639a02b9b110) |
 | Tue, 30 Sep 2025 18:30:15 GMT | Benefits of SOC Outsourcing: Why Businesses Are Turning to Managed Security | SafeAeon Inc. | [Read More](https://medium.com/p/703445740eb4) |
 | Tue, 30 Sep 2025 18:26:04 GMT | The $1.4 Million Question: Why Social Engineering is Still Hacking the System | Krishnakaiwartya | [Read More](https://medium.com/p/1b1a45efa9fd) |
 | Tue, 30 Sep 2025 18:20:34 GMT | This Is How AI Is Rewriting the Rules of Cyber Warfare | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/1ada3bcac1f8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 14:01:28 GMT | Building a Cyber Security Portfolio — Technical Step 2: You say AADD, I say ADDS, Lets turn the… | Randy Puffin | [Read More](https://medium.com/p/ff8149fcd929) |
 | Tue, 30 Sep 2025 14:00:56 GMT | The Problem Web3 Hasn’t Solved Yet — And How ABTU Is Changing the Game | Abatis ABTU | [Read More](https://medium.com/p/70a14a16eb40) |
 | Tue, 30 Sep 2025 13:56:41 GMT | Expert Guide to Container Security in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/5fdbce1f2941) |
-| Tue, 30 Sep 2025 13:55:32 GMT | Sahte İş Görüşmesi, Gerçek Kripto Hırsızlığı | Uğur Gülay | [Read More](https://medium.com/p/b68d927f5420) |
-| Tue, 30 Sep 2025 13:52:09 GMT | How to Program a Garage Door to a Car Without a Remote: Easy-to-Follow Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/424192e8bde9) |
-| Tue, 30 Sep 2025 13:48:48 GMT | Security and Performance Aspects of WireGuard Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/b305ff70b873) |
-| Tue, 30 Sep 2025 13:48:25 GMT | Building Smarter Python Utilities That Actually Save Time | Kainat Nafees | [Read More](https://medium.com/p/900d61865c88) |
-| Tue, 30 Sep 2025 13:41:18 GMT | Stored Cross-Site Scripting (XSS) in SourceCodester Web-based Pharmacy Product Management System… | Sourabhthakur | [Read More](https://medium.com/p/1e85d144079b) |
