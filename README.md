@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Sep 2025 18:15:25 GMT | Prompt Injection in LLMs: The New Age of Hacking | Sai Charan Kummetha | [Read More](https://medium.com/p/330287b067b3) |
+| Tue, 30 Sep 2025 18:14:19 GMT | HTTP/1.1 Must Die — And Why You Should Care (Even If You Think You’re Safe) | Shailesh Nanwani | [Read More](https://medium.com/p/2be158719564) |
+| Tue, 30 Sep 2025 18:12:53 GMT | The Ultimate Guide to API Reconnaissance: Finding Undocumented Endpoints | Andrei Ivan | [Read More](https://medium.com/p/449605d92ce7) |
+| Tue, 30 Sep 2025 18:11:26 GMT | Mastering Kubernetes Ingress: From Weekend Warrior to Production Hero | Salwan Mohamed | [Read More](https://medium.com/p/cde555751c7b) |
+| Tue, 30 Sep 2025 18:01:51 GMT | HTMLI → XSS → SSTI → RCE — Laboratorio práctico paso a paso | Gorka | [Read More](https://medium.com/p/edd26e47ffdd) |
+| Tue, 30 Sep 2025 17:47:04 GMT | The Rise of Cyber Security | Matthew Welsh | [Read More](https://medium.com/p/bf87ee5d4f77) |
+| Tue, 30 Sep 2025 17:41:48 GMT | Windows: Detect Security Breaches Using Malwarebytes. | hp | [Read More](https://medium.com/p/c32ad1002715) |
+| Tue, 30 Sep 2025 17:39:03 GMT | I Tried BDSM for the First Time — and It Changed Everything | Unknown | [Read More](https://medium.com/p/d04859859e2e) |
+| Tue, 30 Sep 2025 17:37:48 GMT | The AI Security Apocalypse: How Hackers Just Turned Your Smartest Business Tool Into Their Skeleton… | Max Petrusenko | [Read More](https://medium.com/p/8818b8efcc5a) |
+| Tue, 30 Sep 2025 17:33:48 GMT | Cloud and Digital Infrastructure Risks in Digital Governance | Ishan Tandon | [Read More](https://medium.com/p/dac5ee561056) |
+| Tue, 30 Sep 2025 17:32:43 GMT | XSS Attacks: Understanding and Preventing Cross-Site Scripting | SafeAeon Inc. | [Read More](https://medium.com/p/cf2a2027bc59) |
 | Tue, 30 Sep 2025 17:31:21 GMT | Units.Network implementing Safe multisig, focusing on clarity, depth, and natural flow: | 0x3dot | [Read More](https://medium.com/p/83536bada054) |
 | Tue, 30 Sep 2025 17:27:01 GMT | Python Power Moves Every Developer Should Know | Kainat Nafees | [Read More](https://medium.com/p/416e85d1dda6) |
 | Tue, 30 Sep 2025 17:22:02 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and “Use cases of Perplexity Comet browser and… | Nitin Garg | [Read More](https://medium.com/p/edcdffbabd91) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 13:39:36 GMT | Cybersecurity and Privacy in EdTech: Why It Matters More Than Ever | Muhammad Ali Hassan | [Read More](https://medium.com/p/0e2a4adbf27b) |
 | Tue, 30 Sep 2025 13:39:12 GMT | Exploring Processes, Threads, Handles, and the Windows Registry | Cyber Timi | [Read More](https://medium.com/p/cdc396df6439) |
 | Tue, 30 Sep 2025 13:34:57 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ffc7428591da) |
-| Tue, 30 Sep 2025 13:30:53 GMT | How to Configure FoxyProxy with Burp Suite on Kali Linux | Apexium Technologies Ltd | [Read More](https://medium.com/p/1c43bb20e458) |
-| Tue, 30 Sep 2025 13:30:02 GMT | Lab 4 — UNION SQL Injection: Find Text Column & Extract Database Version | Apexium Technologies Ltd | [Read More](https://medium.com/p/84b9147bbbdf) |
-| Tue, 30 Sep 2025 13:29:35 GMT | Lab 6: SQL injection attack, listing the database contents on Oracle | Apexium Technologies Ltd | [Read More](https://medium.com/p/0e99ec8e6252) |
-| Tue, 30 Sep 2025 13:24:09 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9f99ebc6e12c) |
-| Tue, 30 Sep 2025 13:21:16 GMT | Why Hackers Love Free Wi-Fi (and What You Should Do Before Connecting Again) | Anik Mehta | [Read More](https://medium.com/p/306c7e72fe67) |
-| Tue, 30 Sep 2025 13:20:05 GMT | DoH Downgrade: An Unintended Backdoor to Unencrypted DNS | Wraith | [Read More](https://medium.com/p/36ee5fe35866) |
-| Tue, 30 Sep 2025 13:18:21 GMT | CyberDefenders :HawkEye Blue Challenge | User2Xd | [Read More](https://medium.com/p/efef48e1ca30) |
-| Tue, 30 Sep 2025 13:18:01 GMT | Hire A Hacker To Hack Instagram Account | Sydney Brooks | [Read More](https://medium.com/p/c9a573864aa7) |
-| Tue, 30 Sep 2025 13:07:46 GMT | 15 Kubernetes Mistakes That Will Ruin Your Weekend | Zudonu Osomudeya | [Read More](https://medium.com/p/37b430705c60) |
-| Tue, 30 Sep 2025 13:02:42 GMT | Building My Own AI Workflow Automation System in 2025 | J. David Smith | [Read More](https://medium.com/p/01e82d3af36d) |
-| Tue, 30 Sep 2025 13:02:13 GMT | How to Reconnect a Garage Door Opener: Quick Steps After Disconnection | 24H Garage Doors | [Read More](https://medium.com/p/41a8a990e761) |
