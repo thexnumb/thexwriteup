@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 20:22:22 GMT | Learning IT as a Self-Taught Student: How to Stay Motivated and Not Give Up | Djany M | [Read More](https://medium.com/p/5ee23d366439) |
+| Wed, 01 Oct 2025 20:20:13 GMT | SIEM’in SOC içindeki rolü | nazlinuresmeray | [Read More](https://medium.com/p/a0363436f9e6) |
 | Wed, 01 Oct 2025 20:17:01 GMT | How We Cut AWS Costs by 60% Using Spot Instances | Freddie A | [Read More](https://medium.com/p/70ca301c1615) |
+| Wed, 01 Oct 2025 20:16:44 GMT | Apprendre l’informatique en autodidacte : comment rester motivé et ne pas abandonner | Djany M | [Read More](https://medium.com/p/7f7162580765) |
+| Wed, 01 Oct 2025 20:14:33 GMT | Log Management vs SIEM farkı | nazlinuresmeray | [Read More](https://medium.com/p/8ddc61a5b4a9) |
 | Wed, 01 Oct 2025 20:08:46 GMT | SIEM Nedir? | nazlinuresmeray | [Read More](https://medium.com/p/101ab685c5af) |
 | Wed, 01 Oct 2025 20:07:16 GMT | THE DARK SIDE OF DARK WEB | Muhammad Waryam | [Read More](https://medium.com/p/1e9915644a8b) |
 | Wed, 01 Oct 2025 20:05:04 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐Earn with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc… | Blackbox | [Read More](https://medium.com/p/b1908f0e9ec5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 15:11:52 GMT | The Safety of Emotional Avoidance | avery jolie | [Read More](https://medium.com/p/749fe2a1491e) |
 | Wed, 01 Oct 2025 14:56:38 GMT | The End of Bandit: Meet Python Code Audit | Maikel Mardjan | [Read More](https://medium.com/p/7d6020e1ac10) |
 | Wed, 01 Oct 2025 14:49:41 GMT | The Sixth Sense of Security: How AI is Forging a New Era of Threat-Informed Defense in 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/cba06f2cd17f) |
-| Wed, 01 Oct 2025 14:46:46 GMT | Write-up: BlueSky Ransomware (Cyber Defenders) | User2Xd | [Read More](https://medium.com/p/f2b6f6de8cd7) |
-| Wed, 01 Oct 2025 14:44:37 GMT | AI Security Research — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/67f24236ab1d) |
-| Wed, 01 Oct 2025 14:44:34 GMT | CSRF, XSS, SSRF: The Attacks That Still Break the Web in 2025 | Aj | [Read More](https://medium.com/p/6e2774c62ad6) |
-| Wed, 01 Oct 2025 14:43:32 GMT | Should you protect your site from AI scrapers? | Arnaud Wallon | [Read More](https://medium.com/p/c19129685bd8) |
