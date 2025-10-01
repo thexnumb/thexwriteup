@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 08:23:41 GMT | Trusted Protection | Office | [Read More](https://medium.com/p/99ec62402898) |
+| Wed, 01 Oct 2025 08:21:11 GMT | Drosera: From Reflex to Intelligence | 0xysad | [Read More](https://medium.com/p/2ca522ba91d2) |
+| Wed, 01 Oct 2025 08:18:58 GMT | Implementasi SSDLC Awal dengan GitHub Actions | Otta | [Read More](https://medium.com/p/f65246c6d38d) |
+| Wed, 01 Oct 2025 08:18:43 GMT | Secure, Smart, HandsFree | Office | [Read More](https://medium.com/p/d60b16e82314) |
+| Wed, 01 Oct 2025 08:07:16 GMT | “AI Will Steal Your Job!” — Said Every Media Outlet That Doesn’t Read Studies | Dr Rita Pal | [Read More](https://medium.com/p/4dbe78f5cd04) |
+| Wed, 01 Oct 2025 08:07:01 GMT | Debugging Spring OAuth2: Fixing Login Loops, CSRF, and Jackson Errors | Jagriti Srivastava | [Read More](https://medium.com/p/7a8789a18528) |
+| Wed, 01 Oct 2025 08:05:15 GMT | Somatic Avoidance: When the Body Hides What the Mind Can’t Face | Wilson Igbasi | [Read More](https://medium.com/p/6d38d2ce010f) |
+| Wed, 01 Oct 2025 08:01:53 GMT | The Credential Economy: How Billions of Passwords Fuel Real Attacks | Alexandre Vandamme | [Read More](https://medium.com/p/750ff1260a42) |
+| Wed, 01 Oct 2025 08:01:51 GMT | [Part 7] From Spam Filters to Malware Detection: Everyday AI in Action | Cyberkech | [Read More](https://medium.com/p/f46edb064a88) |
+| Wed, 01 Oct 2025 07:52:19 GMT | Advanced Threat Prevention By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/42c4acfe3a56) |
+| Wed, 01 Oct 2025 07:51:34 GMT | Remote File Inclusion | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/26abafc631a8) |
+| Wed, 01 Oct 2025 07:49:58 GMT | ADS — Alternate Data Streams (Beginner friendly PoC) | Saravana Gautham | [Read More](https://medium.com/p/da08cf07ed42) |
+| Wed, 01 Oct 2025 07:48:16 GMT | HTB File Inclusion Skills Assessment Write-Up - Sumace Consulting | Devam Desai | [Read More](https://medium.com/p/50f52293983e) |
+| Wed, 01 Oct 2025 07:46:53 GMT | Gündüzleri Siber Güvenlik Uzmanı, Hafta Sonları Gönüllü Kahraman! | Ayşe Aktağ | [Read More](https://medium.com/p/8d50f2bd1d4c) |
+| Wed, 01 Oct 2025 07:43:33 GMT | PHP Filters | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/04c99411de10) |
+| Wed, 01 Oct 2025 07:41:49 GMT | Docker Container Breakout Exploits | Esra Kayhan | [Read More](https://medium.com/p/c7539416022c) |
+| Wed, 01 Oct 2025 07:36:46 GMT | Wazuh File Integrity Monitoring (FIM) Guide for Linux and Windows | Rupesh Sharma | [Read More](https://medium.com/p/c322d175856e) |
 | Wed, 01 Oct 2025 07:34:20 GMT | When Spreadsheets Turn Hostile: My Deep Dive into the CABINETRAT Backdoor and Why Every Excel File… | Germano Costi | [Read More](https://medium.com/p/ba796ca853f3) |
 | Wed, 01 Oct 2025 07:33:27 GMT | The 6 Archetypes of Cybersecurity: And Why You’re Probably in the Wrong Domain. | Dr Joseph Ikhalia | [Read More](https://medium.com/p/583c9c608356) |
 | Wed, 01 Oct 2025 07:21:49 GMT | The Future of IoT Connectivity Protocols | Giulio Sistilli | [Read More](https://medium.com/p/6740360fad36) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 00:22:55 GMT | Weekly Threat Intelligece Report 30 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/a1e1b7981116) |
 | Wed, 01 Oct 2025 00:10:42 GMT | The Love Bombs That Cost Americans $697 Million: Decoding Romance Scammer Phrases | Napoleon Beltran | [Read More](https://medium.com/p/5f75671763a1) |
 | Wed, 01 Oct 2025 00:01:57 GMT | The Veil of Ignorance: Why We’d Never Choose a Surveillance State | Ian McIntire, MPA | [Read More](https://medium.com/p/c7c16d6eb9e8) |
-| Wed, 01 Oct 2025 00:01:54 GMT | Feroxbuster: An Ultra-Fast Web Content Fuzzer | JPablo13 | [Read More](https://medium.com/p/7a50d98dcf60) |
-| Tue, 30 Sep 2025 23:57:49 GMT | Cybersecurity Foundations Series: Part 2 — Understanding Information Assurance-CIA Triad | TechStoryLines | [Read More](https://medium.com/p/61294b977aab) |
-| Tue, 30 Sep 2025 23:54:30 GMT | Windows - Windows Hyper-V virtual machine | w4llnut_ | [Read More](https://medium.com/p/62f0c63be954) |
-| Tue, 30 Sep 2025 23:51:52 GMT | OpenShift: Creating a Pod, but Can’t Create a Deployment? | W. Jenks Gibbons | [Read More](https://medium.com/p/5489ef98563b) |
-| Tue, 30 Sep 2025 23:51:22 GMT | Broken Object Level Authorization (BOLA): The API Flaw You Can’t Ignore | CodeWithYog | [Read More](https://medium.com/p/cc2a9d4e1b06) |
-| Tue, 30 Sep 2025 23:45:22 GMT | Full Red Teaming Senaryo “Web’den AD’ye” | Nadir Sensoy | [Read More](https://medium.com/p/7ba580d7e978) |
-| Tue, 30 Sep 2025 23:37:53 GMT | Configuring NetBackup for Data Encryption | Nurali ATMACA | [Read More](https://medium.com/p/5c4d4aee3adc) |
-| Tue, 30 Sep 2025 23:31:51 GMT | The Fourth Angel Has Arrived! Can Your Autonomous Vehicle Withstand the ‘Shape-Shifting’ AI Attack? | Scott Huang | [Read More](https://medium.com/p/979492222bf7) |
-| Tue, 30 Sep 2025 23:31:34 GMT | China’s Preparation for Cyberattacks is a Lesson in Resilience | Matthew.Rosenquist | [Read More](https://medium.com/p/2e6dc8af89f4) |
-| Tue, 30 Sep 2025 23:17:04 GMT | From Generalist to Specialist: How I Turned GPT-4o into a Cybersecurity Assistant with Fine-Tuning | José Antonio Mancilla Chatú | [Read More](https://medium.com/p/d298858244f7) |
-| Tue, 30 Sep 2025 23:07:28 GMT | TryHackMe — Sneaky Patch Write-Up | J Linton | [Read More](https://medium.com/p/d68d0ec7476a) |
-| Tue, 30 Sep 2025 23:07:09 GMT | Security Strategies: Pre-emptive Preparation or Post-Intervention? | Oğuzhan Hızıroğlu | [Read More](https://medium.com/p/3f31edfaf868) |
-| Tue, 30 Sep 2025 22:34:20 GMT | 40,000+ Cyberattacks in 6 Months: Why Hackers Are Obsessed with APIs | Cyber-AppSec | [Read More](https://medium.com/p/cce6c32407ed) |
-| Tue, 30 Sep 2025 22:29:18 GMT | Push Velocity: The Hidden Metric Every Leadership Team Overlooks | Dinesh Liyanage | [Read More](https://medium.com/p/635ceae905bd) |
-| Tue, 30 Sep 2025 22:27:29 GMT | The Challenges of Securing Autonomous Vehicles | Samina Perveen | [Read More](https://medium.com/p/8afc2024cc4e) |
-| Tue, 30 Sep 2025 22:11:37 GMT | Code Control | ekomsSavior | [Read More](https://medium.com/p/f2fa79ddb09e) |
-| Tue, 30 Sep 2025 22:11:20 GMT | Top 10 Critical Google Dorks for Advanced Bug Bounty & Web Penetration Testing | Rajput Haxor Aka Rudra Pratap Singh | [Read More](https://medium.com/p/abbfdeda879b) |
