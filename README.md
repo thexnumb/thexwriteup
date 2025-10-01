@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 09:35:21 GMT | ️ CVE Hunter — Advanced Vulnerability Hacking Tool (For Sale) | Webdev Carlos | [Read More](https://medium.com/p/9f64af9cd4b0) |
+| Wed, 01 Oct 2025 09:31:22 GMT | What Makes HackSpire’25 Unique | Shreejita Biswas | [Read More](https://medium.com/p/96b4cfb74db9) |
+| Wed, 01 Oct 2025 09:26:31 GMT | SOC127 — SQL Injection Detected — LetsDefend — Solution | Ismaelgatongg | [Read More](https://medium.com/p/d37f7eed52e9) |
+| Wed, 01 Oct 2025 09:23:16 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/cbc3deb4719b) |
+| Wed, 01 Oct 2025 09:22:07 GMT | Escaping the Tutorial Trap: How to Apply Bug Bounty Knowledge in the Real World | Andrei Ivan | [Read More](https://medium.com/p/d24633f36274) |
+| Wed, 01 Oct 2025 09:14:47 GMT | The Growing Importance of Security Services in India: Spotlight on Security Guard Services in… | Ciss India | [Read More](https://medium.com/p/a8f185f60581) |
 | Wed, 01 Oct 2025 09:11:59 GMT | Powerful Cybersecurity Tools for Hacker_Now Available | Webdev Carlos | [Read More](https://medium.com/p/a37a8f9ae6d5) |
 | Wed, 01 Oct 2025 09:06:03 GMT | The Hookup That Accidentally Turned Into the Most Honest Conversation of My Life | Unknown | [Read More](https://medium.com/p/c23a5ba66c4e) |
 | Wed, 01 Oct 2025 09:03:26 GMT | Relearning Emotional Language: How Couples Can Build Shared Vocabulary to Heal Together | Wilson Igbasi | [Read More](https://medium.com/p/ffec96aaf1e6) |
@@ -19,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 08:49:01 GMT | Detecting Lateral Movements in Enterprise Networks | Ash | [Read More](https://medium.com/p/da4d165d8065) |
 | Wed, 01 Oct 2025 08:45:23 GMT | Vulnverse: MediLabs NG- Walkthrough | Bharat | [Read More](https://medium.com/p/a60f77f6101b) |
 | Wed, 01 Oct 2025 08:44:58 GMT | The Daily Tech Digest: 01 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0a84be79546f) |
+| Wed, 01 Oct 2025 08:44:49 GMT | 【CCSP 雲端學習分享】雲端稽核必懂：SOC 報告（SOC 1, 2, 3）的類型與差異詳解 | Yunghan | [Read More](https://medium.com/p/8f4bebb1e18b) |
 | Wed, 01 Oct 2025 08:44:43 GMT | CrowdStrike Fal.con 2025 and why cyber security will never be the same after Agentic AI | Andre Camillo, CISSP | [Read More](https://medium.com/p/9cbc6097077c) |
 | Wed, 01 Oct 2025 08:44:35 GMT | DockerLabs Writeup — Pressenter (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0da7662a921b) |
 | Wed, 01 Oct 2025 08:43:48 GMT | When Self-Protection Becomes Walls: The Paradox of Emotional Armor in Love | Wilson Igbasi | [Read More](https://medium.com/p/e9c724706fe0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 04:17:29 GMT | The IT Consulting Services Complete Guide: Benefits, Types, and Market Growth | TST Technology | [Read More](https://medium.com/p/7b8b657a7402) |
 | Wed, 01 Oct 2025 04:16:08 GMT | PostgreSQL JSONB Queries That Will Bankrupt Your Performance | Rizqi Mulki | [Read More](https://medium.com/p/a09065c6867a) |
 | Wed, 01 Oct 2025 04:12:55 GMT | Why Your PostgreSQL Indexes Don’t Work the Way You Think | Rizqi Mulki | [Read More](https://medium.com/p/f9b640440200) |
-| Wed, 01 Oct 2025 04:05:17 GMT | Cyber Warfare in Disguise: How Phishing Targets Military Systems | Mukul Gulia | [Read More](https://medium.com/p/474620b4057c) |
-| Wed, 01 Oct 2025 04:03:10 GMT | Latest Changes Applied From Refactored Design to Improved AI Utilities in NucAIScan v1.3 | Onurcan Genç | [Read More](https://medium.com/p/e2114e725c76) |
-| Wed, 01 Oct 2025 04:01:38 GMT | Bugs on the Road by CosmicWallace | COSMICWALLACE | [Read More](https://medium.com/p/82c7b8f3a0ad) |
-| Wed, 01 Oct 2025 03:52:59 GMT | Inside the Mind of a Hacker: How They Really Break In | Arfa | [Read More](https://medium.com/p/b91fa7b2fceb) |
-| Wed, 01 Oct 2025 03:52:03 GMT | CORS Misadventures: How Misconfigured Origins Turned Me Into an Accidental Admin | Iski | [Read More](https://medium.com/p/2107aa1768d6) |
-| Wed, 01 Oct 2025 03:47:45 GMT | The Dark Side of Free Wi-Fi: What I Learned the Hard Way | Arfa | [Read More](https://medium.com/p/fa2b750bbc8d) |
-| Wed, 01 Oct 2025 03:23:38 GMT | How I Secure My Linux Servers: Best Practices for 2025 | Pawan Natekar | [Read More](https://medium.com/p/5e38c6839229) |
