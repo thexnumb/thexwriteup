@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 16:18:04 GMT | CVE-2025–9712: How a Filename Became a Backdoor in Ivanti Endpoint Manager | gm0 | [Read More](https://medium.com/p/72595ec10c0d) |
+| Wed, 01 Oct 2025 16:16:53 GMT | TryHackMe Bounty Hacker Writeup | sabR | [Read More](https://medium.com/p/e2d941cd08d7) |
+| Wed, 01 Oct 2025 16:12:35 GMT | Powershell Execution Parametreleri ve Blue Team Perspektifi | Necati Ustun | [Read More](https://medium.com/p/27213e586cc1) |
+| Wed, 01 Oct 2025 16:11:28 GMT | Your CAPTCHA is a Trap: Inside the Week’s Two Biggest Cyber Threats | Aj | [Read More](https://medium.com/p/7e3454445feb) |
+| Wed, 01 Oct 2025 16:07:26 GMT | Hack the Box — Driver — WriteUp | Emre A. | [Read More](https://medium.com/p/3303b18503af) |
+| Wed, 01 Oct 2025 16:06:14 GMT | Hack the Box — MetaTwo — WriteUp | Emre A. | [Read More](https://medium.com/p/189fa7e80276) |
+| Wed, 01 Oct 2025 16:03:44 GMT | TryHackMe - XDR: Operation Global Dagger - WriteUp | Axoloth | [Read More](https://medium.com/p/a0ec728e1342) |
+| Wed, 01 Oct 2025 16:02:00 GMT | What does AI mean to you? | Sameen A Ahmed | [Read More](https://medium.com/p/c9e2f46eea06) |
+| Wed, 01 Oct 2025 15:53:34 GMT | Group Policy Objects (GPOs) — The Rulebook of Active Directory | Suhel Kathi | [Read More](https://medium.com/p/5bde02f7abe2) |
+| Wed, 01 Oct 2025 15:43:39 GMT | Truth Bomb: Productivity Without Peace Is a Lie | Vijay Kumar Gupta | [Read More](https://medium.com/p/453d8cadf08c) |
+| Wed, 01 Oct 2025 15:43:35 GMT | Building a Modern Application Security Framework: An Architect’s Guide for 2025 | Sunil Gentyala | [Read More](https://medium.com/p/4601a663d23b) |
+| Wed, 01 Oct 2025 15:40:59 GMT | What’s Special About October? | Margaret B.B | [Read More](https://medium.com/p/0fb96125a37a) |
 | Wed, 01 Oct 2025 15:36:53 GMT | Privilege Escalation in OpenShift AI: How CVE-2025–10725 Exposed the Cluster Crown Jewels | gm0 | [Read More](https://medium.com/p/fdebd7686868) |
 | Wed, 01 Oct 2025 15:36:26 GMT | Cybersecurity Awareness Month Kickoff: Why It Matters More Than Ever? | aysha | [Read More](https://medium.com/p/0002f7a92aa1) |
 | Wed, 01 Oct 2025 15:36:22 GMT | How to Host and Protect a Static Website with AWS S3, CloudFront, and WAF | Maazzaam | [Read More](https://medium.com/p/8621982407b7) |
+| Wed, 01 Oct 2025 15:31:53 GMT | They Laughed at My “No Passwords” Policy — Until We Had Zero Breaches | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/2cd30adeca02) |
 | Wed, 01 Oct 2025 15:25:33 GMT | Twitter (X) Hack - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/ba939d7f24e3) |
 | Wed, 01 Oct 2025 15:24:42 GMT | Oops!…I Audit Again: My Week 2 Dive into Linux Audit (and Catching File Tamperers) | Varnith | [Read More](https://medium.com/p/4595daa1e586) |
 | Wed, 01 Oct 2025 15:22:50 GMT | JavaScript Event Loop, Call Stack & Microtasks — (with Examples) | Tech With Curly Girl | [Read More](https://medium.com/p/1ea95455f3f7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 11:51:18 GMT | Blast-Resistant Doors vs High-Security Doors: Key Differences for Optimal Protection | Ecotone | [Read More](https://medium.com/p/8abc0d4832fd) |
 | Wed, 01 Oct 2025 11:36:27 GMT | Can I Check Whether My Device is Hacked? | Rashadul Islam | [Read More](https://medium.com/p/a306f64018fd) |
 | Wed, 01 Oct 2025 11:33:44 GMT | Cybersecurity Awareness Month: Hidden Threats You Didn’t Know Could Harm You | Recover Right | [Read More](https://medium.com/p/1a31dedd245c) |
-| Wed, 01 Oct 2025 11:28:59 GMT | How Autonomous Systems and Localization are Reshaping the Hydraulic Industry | Arun Das | [Read More](https://medium.com/p/c538161f994e) |
-| Wed, 01 Oct 2025 11:26:09 GMT | Cloud Security Frameworks Every Business Should Know | IPSpecialist | [Read More](https://medium.com/p/0f933659fb8b) |
-| Wed, 01 Oct 2025 11:23:42 GMT | Cybersecurity: Safeguarding the Future of IoT and AIoT — A Must-Read Guide for Securing the… | Germano Costi | [Read More](https://medium.com/p/6e596ae2a93f) |
-| Wed, 01 Oct 2025 11:17:38 GMT | Klopatra: The Android Banking Trojan 2025 That Hijacks Your Phone With Hidden Remote Control | Germano Costi | [Read More](https://medium.com/p/2dbf5076b66f) |
-| Wed, 01 Oct 2025 11:16:59 GMT | How I Created a Meta-Prompt - AI - NextWork Project | Angie | [Read More](https://medium.com/p/3bdeb746cfd2) |
-| Wed, 01 Oct 2025 11:14:35 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/22c543a3ff01) |
-| Wed, 01 Oct 2025 11:07:34 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/a339e95ae645) |
-| Wed, 01 Oct 2025 11:07:31 GMT | SSI IT - Cyber Security Expert Barcelona — IT Protection & Risk Management Services | Public | [Read More](https://medium.com/p/49a356cbe7b9) |
-| Wed, 01 Oct 2025 11:05:39 GMT | Intro to SSRF Room Write Up | Ethan Wang | [Read More](https://medium.com/p/b7e2c7f36d85) |
-| Wed, 01 Oct 2025 11:05:32 GMT | Regulatory and Safety in Hydraulic Accumulators: A High-Pressure Responsibility | Whyps | [Read More](https://medium.com/p/4432eb149893) |
-| Wed, 01 Oct 2025 11:05:22 GMT | SEO Pricing Explained: A Clear Guide for Business Owners | Bhavesh Rajpurohit | [Read More](https://medium.com/p/fc1beaefea96) |
-| Wed, 01 Oct 2025 11:05:07 GMT | Protect Your Privacy: How to Minimize Your Digital Footprint with Utopia P2P | Utopia P2P | [Read More](https://medium.com/p/3937b2febfe1) |
-| Wed, 01 Oct 2025 11:01:58 GMT | The Rise of Quantum-Safe Cryptography: What Developers Need to Know Now | Pratap Sahu | [Read More](https://medium.com/p/534c073dfd90) |
