@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 03:47:45 GMT | The Dark Side of Free Wi-Fi: What I Learned the Hard Way | Arfa | [Read More](https://medium.com/p/fa2b750bbc8d) |
+| Wed, 01 Oct 2025 03:23:38 GMT | How I Secure My Linux Servers: Best Practices for 2025 | Pawan Natekar | [Read More](https://medium.com/p/5e38c6839229) |
 | Wed, 01 Oct 2025 03:06:16 GMT | Top 15 Ethical Hacking Tools You Must Know in 2025 | Maxon Codes | [Read More](https://medium.com/p/2effbcf34be7) |
+| Wed, 01 Oct 2025 03:04:42 GMT | Day 63- Basics of Vulnerability Management for beginners | unica 02 | [Read More](https://medium.com/p/02c0e89dfc00) |
 | Wed, 01 Oct 2025 02:32:45 GMT | OEM Sponsorship in Cybersecurity Communities: Why It’s the Next Big Play | Dr. Deep Pandey | [Read More](https://medium.com/p/e62bdef6a329) |
 | Wed, 01 Oct 2025 01:58:24 GMT | SQLMap: The Basics - THM | Isiah | [Read More](https://medium.com/p/6da8f69ad1c0) |
 | Wed, 01 Oct 2025 01:50:49 GMT | KnowPhish: teaching LLMs and knowledge graphs to spot sneaky phishing pages | Chris Zhang | [Read More](https://medium.com/p/27f003dfa662) |
@@ -110,6 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 17:27:01 GMT | Python Power Moves Every Developer Should Know | Kainat Nafees | [Read More](https://medium.com/p/416e85d1dda6) |
 | Tue, 30 Sep 2025 17:22:02 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and “Use cases of Perplexity Comet browser and… | Nitin Garg | [Read More](https://medium.com/p/edcdffbabd91) |
 | Tue, 30 Sep 2025 17:21:01 GMT | Breaking the Myth: Why Security Is Everyone’s Responsibility in Modern DevOps | Salwan Mohamed | [Read More](https://medium.com/p/a8e91a0968bf) |
-| Tue, 30 Sep 2025 17:16:44 GMT | CVE-2024–3400: Attackers Revive a Palo Alto GlobalProtect RCE — Exploitation and Detection | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/118eb578a3e3) |
-| Tue, 30 Sep 2025 17:14:17 GMT | The CISO’s Guide to Taming the SIEM Cost Curve | Graylog | [Read More](https://medium.com/p/0d46ef939840) |
-| Tue, 30 Sep 2025 17:11:11 GMT | Our Security Team Wants Zero CVEs in Production. Our Containers Have 200+. What’s Realistic? | Ajay Kumar | [Read More](https://medium.com/p/74e3cb5a69cb) |
