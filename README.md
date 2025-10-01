@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 18:45:16 GMT | My Journey: From a Rural Village to Cybersecurity & Beyond | Inayat Hussain | [Read More](https://medium.com/p/790057b3ab07) |
+| Wed, 01 Oct 2025 18:44:58 GMT | PG Practice — Fish (Windows) | Lepton | [Read More](https://medium.com/p/1d014ad8aeab) |
+| Wed, 01 Oct 2025 18:43:22 GMT | Forensic Treasure Hunt: How Investigators Use ShimCache & AmCache to Unmask Malware | Paritosh | [Read More](https://medium.com/p/a1183ca91d58) |
+| Wed, 01 Oct 2025 18:42:02 GMT | Configuring Wazuh to Send Logs to Graylog for Normalization (Setting up Filebeat) | Arfan Abid | [Read More](https://medium.com/p/563db817a030) |
+| Wed, 01 Oct 2025 18:34:40 GMT | That time an Agentic AI Pentester beat me in CAPIE! | Thexssrat | [Read More](https://medium.com/p/9ef6097c3c33) |
 | Wed, 01 Oct 2025 18:28:53 GMT | Perfection  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/dbb6a234da25) |
+| Wed, 01 Oct 2025 18:26:52 GMT | Your Business Could Disappear Overnight | Janeel Abrahams | [Read More](https://medium.com/p/26062b133e3f) |
 | Wed, 01 Oct 2025 18:19:44 GMT | California Creates First State AI Safety Law: SB 53 | Valdez Ladd | [Read More](https://medium.com/p/a4219c87dd9a) |
 | Wed, 01 Oct 2025 18:18:00 GMT | Certificates in Action: Templates, Auto-Enrollment, and the Path to Wi-Fi Bliss | Alex | [Read More](https://medium.com/p/f5f381208c82) |
 | Wed, 01 Oct 2025 18:12:20 GMT | An Itinerary to New Ways of Merging Tech and the Humanities | Petra Drotleff | [Read More](https://medium.com/p/0518194ddebf) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 13:50:59 GMT | Incident Response: What to Do When a Breach Happens | IPSpecialist | [Read More](https://medium.com/p/b346189aedf7) |
 | Wed, 01 Oct 2025 13:50:00 GMT | Is It Morally Right to Legalize Data Privacy in Bangladesh? | Sakhiur Rahman | [Read More](https://medium.com/p/b69f0dd86c14) |
 | Wed, 01 Oct 2025 13:47:49 GMT | Startup Walkthrough Tryhackme | Mainekhacker | [Read More](https://medium.com/p/148cae281217) |
-| Wed, 01 Oct 2025 13:38:16 GMT | PG Practice — Peppo (Linux) | Lepton | [Read More](https://medium.com/p/4aeddcefb3ed) |
-| Wed, 01 Oct 2025 13:35:37 GMT | Drosera Update V 1.23.1 : Stronger, Safer, and Ready for the Future of DeFi | npccrypto | [Read More](https://medium.com/p/6b61f464805d) |
-| Wed, 01 Oct 2025 13:32:08 GMT | How I Structure My Learning to Stay Ahead in Cybersecurity | Andrei Ivan | [Read More](https://medium.com/p/ee938546c0cd) |
-| Wed, 01 Oct 2025 13:26:30 GMT | ✈️ Why Do Flight Fares in India Change So Much? | Traventurs | [Read More](https://medium.com/p/a3bbc881208b) |
-| Wed, 01 Oct 2025 13:22:52 GMT | Unverified Email Change Vulnerability Leading to Account Takeover | Abhishek sharma | [Read More](https://medium.com/p/1bcd5b09f0e5) |
-| Wed, 01 Oct 2025 13:18:26 GMT | 30-Minute Expert Review: 10 Steps to Scan Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/2bccee6038cb) |
