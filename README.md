@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 01:19:25 GMT | A dev’s guide to hacking DoD compliance | Via Knowledge Hub | [Read More](https://medium.com/p/d3e167f3563a) |
+| Wed, 01 Oct 2025 01:14:27 GMT | The Hidden Roadblocks: Why Quantum Computing Still Isn’t Ready for Prime Time | The Deep Frame | [Read More](https://medium.com/p/34dacb85e115) |
+| Wed, 01 Oct 2025 01:12:23 GMT | Concerning News: My Thoughts Have Their Own Agenda | Siahn | [Read More](https://medium.com/p/324af74a6ad8) |
+| Wed, 01 Oct 2025 00:51:51 GMT | Understanding Microservices: Architecture, Security, and Best Practices | Raviteja Mureboina | [Read More](https://medium.com/p/52a5c1abd0a6) |
+| Wed, 01 Oct 2025 00:48:59 GMT | Foundations of Information Gathering | N0H4TS | [Read More](https://medium.com/p/d6b7119ed44c) |
+| Wed, 01 Oct 2025 00:22:55 GMT | Weekly Threat Intelligece Report 30 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/a1e1b7981116) |
+| Wed, 01 Oct 2025 00:10:42 GMT | The Love Bombs That Cost Americans $697 Million: Decoding Romance Scammer Phrases | Napoleon Beltran | [Read More](https://medium.com/p/5f75671763a1) |
+| Wed, 01 Oct 2025 00:01:57 GMT | The Veil of Ignorance: Why We’d Never Choose a Surveillance State | Ian McIntire, MPA | [Read More](https://medium.com/p/c7c16d6eb9e8) |
+| Wed, 01 Oct 2025 00:01:54 GMT | Feroxbuster: An Ultra-Fast Web Content Fuzzer | JPablo13 | [Read More](https://medium.com/p/7a50d98dcf60) |
+| Tue, 30 Sep 2025 23:57:49 GMT | Cybersecurity Foundations Series: Part 2 — Understanding Information Assurance-CIA Triad | TechStoryLines | [Read More](https://medium.com/p/61294b977aab) |
+| Tue, 30 Sep 2025 23:54:30 GMT | Windows - Windows Hyper-V virtual machine | w4llnut_ | [Read More](https://medium.com/p/62f0c63be954) |
+| Tue, 30 Sep 2025 23:51:52 GMT | OpenShift: Creating a Pod, but Can’t Create a Deployment? | W. Jenks Gibbons | [Read More](https://medium.com/p/5489ef98563b) |
+| Tue, 30 Sep 2025 23:51:22 GMT | Broken Object Level Authorization (BOLA): The API Flaw You Can’t Ignore | CodeWithYog | [Read More](https://medium.com/p/cc2a9d4e1b06) |
+| Tue, 30 Sep 2025 23:45:22 GMT | Full Red Teaming Senaryo “Web’den AD’ye” | Nadir Sensoy | [Read More](https://medium.com/p/7ba580d7e978) |
+| Tue, 30 Sep 2025 23:37:53 GMT | Configuring NetBackup for Data Encryption | Nurali ATMACA | [Read More](https://medium.com/p/5c4d4aee3adc) |
 | Tue, 30 Sep 2025 23:31:51 GMT | The Fourth Angel Has Arrived! Can Your Autonomous Vehicle Withstand the ‘Shape-Shifting’ AI Attack? | Scott Huang | [Read More](https://medium.com/p/979492222bf7) |
 | Tue, 30 Sep 2025 23:31:34 GMT | China’s Preparation for Cyberattacks is a Lesson in Resilience | Matthew.Rosenquist | [Read More](https://medium.com/p/2e6dc8af89f4) |
 | Tue, 30 Sep 2025 23:17:04 GMT | From Generalist to Specialist: How I Turned GPT-4o into a Cybersecurity Assistant with Fine-Tuning | José Antonio Mancilla Chatú | [Read More](https://medium.com/p/d298858244f7) |
@@ -98,18 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 17:04:03 GMT | Turning Blind Error Based SQL Injection into Exploitable Boolean One Part 2: MySQL | Ozgur Alp | [Read More](https://medium.com/p/ecf1dbe5352f) |
 | Tue, 30 Sep 2025 17:01:52 GMT | Died From the Inside | Is | [Read More](https://medium.com/p/3b41569e9954) |
 | Tue, 30 Sep 2025 16:59:52 GMT | “Every Day Someone Tries to Break Our Support Bot.” | Ajay Kumar | [Read More](https://medium.com/p/9af317d81171) |
-| Tue, 30 Sep 2025 16:58:40 GMT | Xenotrek, Motel-Lab 3AM Guide: Bulletproof Local-First Backup on a Synology NAS | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/12cf011ba5ce) |
-| Tue, 30 Sep 2025 16:57:23 GMT | From DIP Switches to MAX232: A Serial Love Story | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4285fe3e0757) |
-| Tue, 30 Sep 2025 16:40:05 GMT | Introduction to Bug Bounty: Techniques & Tools for Beginners | mohandika | [Read More](https://medium.com/p/579e396cbb58) |
-| Tue, 30 Sep 2025 16:38:01 GMT | Spotting Deception in Cybersecurity | Configr Technologies | [Read More](https://medium.com/p/b05cff95bc6e) |
-| Tue, 30 Sep 2025 16:37:28 GMT | Exploring the Future of Cybersecurity Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/6c87b84fb936) |
-| Tue, 30 Sep 2025 16:37:16 GMT | Red Alert: Critical Flaw in Cisco VPNs Sparks 24-Hour Cyber Emergency | Aj | [Read More](https://medium.com/p/b64bbc5531ad) |
-| Tue, 30 Sep 2025 16:33:04 GMT | AI Security 101 — Gandalf Challenges | Authorized Entry | [Read More](https://medium.com/p/740241963c21) |
-| Tue, 30 Sep 2025 16:31:36 GMT | Shells Overview | Isiah | [Read More](https://medium.com/p/696805efe7f9) |
-| Tue, 30 Sep 2025 16:30:24 GMT | How to Back Up Your Data Before a Computer Repair (So You Don’t Lose Everything) | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/12db5e56e3b1) |
-| Tue, 30 Sep 2025 16:30:11 GMT | My eJPTv2 Journey: How I Passed and What I Learned | Areeba Fayyaz | [Read More](https://medium.com/p/2e6204106a26) |
-| Tue, 30 Sep 2025 16:30:09 GMT | The Hidden Costs of Ignoring Computer Repairs | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/8be956157446) |
-| Tue, 30 Sep 2025 16:29:59 GMT | Laptop Overheating? Here’s How to Diagnose and Solve the Problem | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/8257551594b2) |
-| Tue, 30 Sep 2025 16:27:51 GMT | Why OpenID Connect Isn’t Complex — It’s the Missing Link in .NET Security | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/b9ab4f2647dd) |
-| Tue, 30 Sep 2025 16:16:52 GMT | Embedding Cloud Security into Startups | Andrii Shyshenko | [Read More](https://medium.com/p/93b062898ada) |
-| Tue, 30 Sep 2025 16:12:44 GMT | Don’t Let Apps Trick You: A Simple Guide to Staying Safe Online | Hitesh Said | [Read More](https://medium.com/p/96a1cf9c6923) |
