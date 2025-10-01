@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 10:18:05 GMT | Cybersecurity Roadmap for Success: Protecting Your Business in the Digital Era | Digital Defense | [Read More](https://medium.com/p/01a02c4b6764) |
+| Wed, 01 Oct 2025 10:16:28 GMT | Hybrid Warfare: Cyberattacks as Tools of Modern Conflict | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/9de3d2d13659) |
+| Wed, 01 Oct 2025 10:11:38 GMT | HACKING: THE THEORY OF EVERYTHING | Tyler Wall | [Read More](https://medium.com/p/8190806aac0b) |
+| Wed, 01 Oct 2025 10:02:00 GMT | COMPLIANCE SERIES 1 : UAE CYBERMANDATE | Bluebricks Technologies | [Read More](https://medium.com/p/ad92d2ba9c78) |
+| Wed, 01 Oct 2025 10:00:20 GMT | Security and Performance Aspects of KVM Virtualization | Eren Cankut Uysal | [Read More](https://medium.com/p/b01f4f7651bd) |
+| Wed, 01 Oct 2025 09:58:26 GMT | Passkeys in the real world: how passwordless actually performs in 2025 | Motasem Hamdan | [Read More](https://medium.com/p/59b4ace29754) |
+| Wed, 01 Oct 2025 09:58:16 GMT | B.Sc. Information Technology: Your Essential Guide to a Thriving Tech Career | Riya Sachdeva | [Read More](https://medium.com/p/727579500ac7) |
+| Wed, 01 Oct 2025 09:56:28 GMT | Why Your Competitors Are Already Relying on a Kiosk Machine (And Why You Should Too) | Rakesh | [Read More](https://medium.com/p/bf7be01a5939) |
+| Wed, 01 Oct 2025 09:44:08 GMT | How Cloud Computing is Driving AI and Big Data Growth | Sytex | [Read More](https://medium.com/p/518e826e928a) |
+| Wed, 01 Oct 2025 09:43:59 GMT | 보안 VPC 없이 AWS Network Firewall 사용하기 | LG U+ Techblog | [Read More](https://medium.com/p/f8484e3abcb8) |
+| Wed, 01 Oct 2025 09:40:52 GMT | The Price of Trust: Insider Hacking | Shimon Rothschild CISSP | [Read More](https://medium.com/p/60eca5e07cea) |
 | Wed, 01 Oct 2025 09:35:21 GMT | ️ CVE Hunter — Advanced Vulnerability Hacking Tool (For Sale) | Webdev Carlos | [Read More](https://medium.com/p/9f64af9cd4b0) |
 | Wed, 01 Oct 2025 09:31:22 GMT | What Makes HackSpire’25 Unique | Shreejita Biswas | [Read More](https://medium.com/p/96b4cfb74db9) |
+| Wed, 01 Oct 2025 09:30:36 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/23fc7bb54938) |
 | Wed, 01 Oct 2025 09:26:31 GMT | SOC127 — SQL Injection Detected — LetsDefend — Solution | Ismaelgatongg | [Read More](https://medium.com/p/d37f7eed52e9) |
 | Wed, 01 Oct 2025 09:23:16 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/cbc3deb4719b) |
 | Wed, 01 Oct 2025 09:22:07 GMT | Escaping the Tutorial Trap: How to Apply Bug Bounty Knowledge in the Real World | Andrei Ivan | [Read More](https://medium.com/p/d24633f36274) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 04:38:21 GMT | Top Software Every Startup Founder Should Install in 2025 | Ask IT Support | [Read More](https://medium.com/p/f964967c9ce8) |
 | Wed, 01 Oct 2025 04:36:28 GMT | How to Learn Bug Bounty In Easy Way: A Simple Guide for Beginners | Kakashi | [Read More](https://medium.com/p/a15d3e87a4fe) |
 | Wed, 01 Oct 2025 04:34:46 GMT | AI Security Research — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/6ae387e91253) |
-| Wed, 01 Oct 2025 04:33:47 GMT | InfoSec Wheel — Roda Pengaman di Dunia Siber | Jadi Hacker | [Read More](https://medium.com/p/6fbf86594359) |
-| Wed, 01 Oct 2025 04:32:55 GMT | Understanding End-2-End Encryption in Snowflake: A Practical Guide for Secure Data Ingestion | Rajiv Gupta | [Read More](https://medium.com/p/9f2edeae0c2f) |
-| Wed, 01 Oct 2025 04:32:54 GMT | ️Packet Loss Taught Me More About Hacking Than Any Textbook | Nithishkumar R | [Read More](https://medium.com/p/178a02579e8a) |
-| Wed, 01 Oct 2025 04:28:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/e37c85ec1f22) |
-| Wed, 01 Oct 2025 04:27:23 GMT | Big Data : Ekosistem Hadoop — Pig dan Hive | Yasa Wijaya | [Read More](https://medium.com/p/998d4515c298) |
-| Wed, 01 Oct 2025 04:23:00 GMT | Cyber and Space Warfare: New Frontiers of India’s Defence Strategy | UI Newz | [Read More](https://medium.com/p/a0af41885c3d) |
-| Wed, 01 Oct 2025 04:22:37 GMT | Amazon Comprehend Medical: NLP for Healthcare Data | Rizqi Mulki | [Read More](https://medium.com/p/323b373c59d4) |
-| Wed, 01 Oct 2025 04:20:43 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/be8f5801f2b3) |
-| Wed, 01 Oct 2025 04:19:08 GMT | PostgreSQL on AWS RDS: 7 Performance Traps You Must Avoid | Rizqi Mulki | [Read More](https://medium.com/p/a4418e6ad659) |
-| Wed, 01 Oct 2025 04:17:29 GMT | The IT Consulting Services Complete Guide: Benefits, Types, and Market Growth | TST Technology | [Read More](https://medium.com/p/7b8b657a7402) |
-| Wed, 01 Oct 2025 04:16:08 GMT | PostgreSQL JSONB Queries That Will Bankrupt Your Performance | Rizqi Mulki | [Read More](https://medium.com/p/a09065c6867a) |
-| Wed, 01 Oct 2025 04:12:55 GMT | Why Your PostgreSQL Indexes Don’t Work the Way You Think | Rizqi Mulki | [Read More](https://medium.com/p/f9b640440200) |
