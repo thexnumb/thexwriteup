@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 22:08:56 GMT | CQ CyberPulse Weekly — October Edition #1 | CyberQuestor | [Read More](https://medium.com/p/36ff139f5261) |
+| Wed, 01 Oct 2025 22:07:40 GMT | Google Drive Is Now Your First Line of Defense Against Ransomware | Majid | [Read More](https://medium.com/p/18daac2b1371) |
+| Wed, 01 Oct 2025 21:54:50 GMT | The Hidden AI Supply Chain Crisis That Could Cripple Enterprises | Cyber-AppSec | [Read More](https://medium.com/p/0d6c93389b04) |
+| Wed, 01 Oct 2025 21:52:23 GMT | When Gen Z Becomes an Information Being: Morocco’s Uprising and the Protocol That Can’t Be Arrested | Zak | [Read More](https://medium.com/p/b45b67df4214) |
+| Wed, 01 Oct 2025 21:46:51 GMT | Why National Cybersecurity Awareness Month (NCSAM) Secretly Sucks for CISOs | Yael Nagler | [Read More](https://medium.com/p/bed99c6d7550) |
+| Wed, 01 Oct 2025 21:38:51 GMT | The Importance of Human Firewalls | Osinachi Ozocheta | [Read More](https://medium.com/p/f66212eeb351) |
+| Wed, 01 Oct 2025 21:35:26 GMT | The Role of AI in Cybersecurity | Moustafa Mohamed | [Read More](https://medium.com/p/9ddf3a0ba0ee) |
+| Wed, 01 Oct 2025 21:33:58 GMT | How Governments and Companies Are Responding to the Surge in Cyberattacks | The Deep Frame | [Read More](https://medium.com/p/9aaa9ad20a9d) |
 | Wed, 01 Oct 2025 21:33:19 GMT | Apex — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/4545abe1e64d) |
 | Wed, 01 Oct 2025 21:21:50 GMT | The Little Me I Couldn’t Save, Standing Right in Front of Me | Renvyx | [Read More](https://medium.com/p/555d164be6c4) |
 | Wed, 01 Oct 2025 21:18:29 GMT | Qwerty, birthdays, pet names — hackers know them all. | Dan Sellars | [Read More](https://medium.com/p/1a92277833fe) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 16:07:26 GMT | Hack the Box — Driver — WriteUp | Emre A. | [Read More](https://medium.com/p/3303b18503af) |
 | Wed, 01 Oct 2025 16:06:14 GMT | Hack the Box — MetaTwo — WriteUp | Emre A. | [Read More](https://medium.com/p/189fa7e80276) |
 | Wed, 01 Oct 2025 16:03:44 GMT | TryHackMe - XDR: Operation Global Dagger - WriteUp | Axoloth | [Read More](https://medium.com/p/a0ec728e1342) |
-| Wed, 01 Oct 2025 16:02:00 GMT | What does AI mean to you? | Sameen A Ahmed | [Read More](https://medium.com/p/c9e2f46eea06) |
-| Wed, 01 Oct 2025 15:53:34 GMT | Group Policy Objects (GPOs) — The Rulebook of Active Directory | Suhel Kathi | [Read More](https://medium.com/p/5bde02f7abe2) |
-| Wed, 01 Oct 2025 15:43:39 GMT | Truth Bomb: Productivity Without Peace Is a Lie | Vijay Kumar Gupta | [Read More](https://medium.com/p/453d8cadf08c) |
-| Wed, 01 Oct 2025 15:43:35 GMT | Building a Modern Application Security Framework: An Architect’s Guide for 2025 | Sunil Gentyala | [Read More](https://medium.com/p/4601a663d23b) |
-| Wed, 01 Oct 2025 15:40:59 GMT | What’s Special About October? | Margaret B.B | [Read More](https://medium.com/p/0fb96125a37a) |
-| Wed, 01 Oct 2025 15:36:53 GMT | Privilege Escalation in OpenShift AI: How CVE-2025–10725 Exposed the Cluster Crown Jewels | gm0 | [Read More](https://medium.com/p/fdebd7686868) |
-| Wed, 01 Oct 2025 15:36:26 GMT | Cybersecurity Awareness Month Kickoff: Why It Matters More Than Ever? | aysha | [Read More](https://medium.com/p/0002f7a92aa1) |
-| Wed, 01 Oct 2025 15:36:22 GMT | How to Host and Protect a Static Website with AWS S3, CloudFront, and WAF | Maazzaam | [Read More](https://medium.com/p/8621982407b7) |
