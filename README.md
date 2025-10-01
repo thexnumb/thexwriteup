@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 07:15:44 GMT | “¿Y si tu nevera te hackea? La ciberseguridad en la vida diaria que no vemos” | AVH04 | [Read More](https://medium.com/p/ba0fd94daf5f) |
+| Wed, 01 Oct 2025 07:11:57 GMT | Teaching Programming, Learning Security: Lessons from the Classroom | Navya Shah | [Read More](https://medium.com/p/21aaae70507e) |
+| Wed, 01 Oct 2025 07:08:33 GMT | The Weight Of | Michele Luckenbaugh | [Read More](https://medium.com/p/0dab408706b2) |
+| Wed, 01 Oct 2025 06:57:36 GMT | Mengenal apa itu Cache | SIM RZ | [Read More](https://medium.com/p/90a05bfd4bc9) |
+| Wed, 01 Oct 2025 06:56:31 GMT | Inside the Gemini Trifecta: How Researchers Uncovered AI’s Hidden Flaws That Could Break the Cloud | Germano Costi | [Read More](https://medium.com/p/9635aa06f816) |
+| Wed, 01 Oct 2025 06:50:45 GMT | Why Does Encrypted Email Look “Suspicious”? | Andy Afrizal | [Read More](https://medium.com/p/bec1cbf60ad1) |
+| Wed, 01 Oct 2025 06:42:15 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/c1beeaeb8abc) |
+| Wed, 01 Oct 2025 06:40:59 GMT | Infrastructure at the Crossroads: Rethinking IT Operations Management for Sustainable AI Leadership | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/b85bc5190bf4) |
+| Wed, 01 Oct 2025 06:39:30 GMT | Building Fundamentals Before Defense Why Cyber Security Starts with IT Basics | Incidalus | [Read More](https://medium.com/p/735af2a69114) |
+| Wed, 01 Oct 2025 06:34:34 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/c1f5dc1ee765) |
+| Wed, 01 Oct 2025 06:33:57 GMT | When Google Locks You Out: A Cautionary Tale of Crypto, Hacks, and Digital Injustice | Bilqees (Billy) Khan | [Read More](https://medium.com/p/031976245273) |
+| Wed, 01 Oct 2025 06:31:52 GMT | Phishing in Crypto Payments: Real Examples and How to Avoid Them | OxaPay | [Read More](https://medium.com/p/71e81c9a7052) |
+| Wed, 01 Oct 2025 06:31:12 GMT | Digital Transformation in 2025: Redefining the Future of Business | PureSoftware | [Read More](https://medium.com/p/3d8d726e6516) |
 | Wed, 01 Oct 2025 06:28:21 GMT | CABLE TERMINATION MADE EASY (A step by step guide) | Akankwatsakevin | [Read More](https://medium.com/p/8b664365e214) |
+| Wed, 01 Oct 2025 06:27:35 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/6c1dbf3c9e6a) |
 | Wed, 01 Oct 2025 06:17:50 GMT | The Cloud Misconfiguration Checklist: 10 Critical Flaws to Find Before Attackers Do | Andrei Ivan | [Read More](https://medium.com/p/3adc6f38615b) |
 | Wed, 01 Oct 2025 06:04:53 GMT | Network Reconnaissance | Infra & Network Core | [Read More](https://medium.com/p/34dcfe75aa74) |
 | Wed, 01 Oct 2025 06:02:54 GMT | Application Security Tools: Synk, black duck, etc | Alice Dai | [Read More](https://medium.com/p/d57a640293fb) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 21:47:57 GMT | Kyverno Deep Dive: Installing and Configuring Your Kubernetes Policy Engine (Part 2/5) | Salwan Mohamed | [Read More](https://medium.com/p/abc9af3f7b40) |
 | Tue, 30 Sep 2025 21:46:39 GMT | Designing Trust: Security and Privacy as Core UX Principles | Charlotte Rhodes | [Read More](https://medium.com/p/71834eca216c) |
 | Tue, 30 Sep 2025 21:39:51 GMT | Setup Splunk & Sysmon if you have a Mac Apple Silicon | Mcl0ng0ng | [Read More](https://medium.com/p/7e7d0642df98) |
-| Tue, 30 Sep 2025 21:37:51 GMT | Security Wants Zero CVEs, DevOps Wants Sleep | Mr.PlanB | [Read More](https://medium.com/p/938015dbeaf7) |
-| Tue, 30 Sep 2025 21:13:27 GMT | What Is AI? 
-The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More](https://medium.com/p/45b0dabc61f4) |
-| Tue, 30 Sep 2025 20:58:49 GMT | Attacktive Directory CTF — Tryhackme Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/c118639440cc) |
-| Tue, 30 Sep 2025 20:57:30 GMT | Secretary of War Pete Hegseth Sparks Outrage with "Fat Generals" Speech | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/60911a548e19) |
-| Tue, 30 Sep 2025 20:50:27 GMT | 90% of Companies Get This Wrong: Vulnerability Scanning vs. Pen Testing. | SRS_ZeroTrust | [Read More](https://medium.com/p/8caf44a53536) |
-| Tue, 30 Sep 2025 20:50:04 GMT | Configuring pfSense and implementing IDS/IPS using Snort | EPereda | [Read More](https://medium.com/p/8a362c3324c0) |
-| Tue, 30 Sep 2025 20:46:47 GMT | Governing Kubernetes and Policy Engines: A Comprehensive Guide (Part 1/5) | Salwan Mohamed | [Read More](https://medium.com/p/e28fac738a61) |
-| Tue, 30 Sep 2025 20:42:36 GMT | The Abyssal Heir | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/49dc98bed454) |
-| Tue, 30 Sep 2025 20:42:31 GMT | Dark Web Ekonomisi: Günlük Hatalarımızın Küresel Veri Ticareti Üzerindeki Etkisi | Aybike Tutar | [Read More](https://medium.com/p/766bef960722) |
-| Tue, 30 Sep 2025 20:27:28 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/b9130fe59236) |
-| Tue, 30 Sep 2025 20:23:28 GMT | Cracking the Code: A Hacking Tutorial for Beginners on Virtual Machines, Linux, Networking | Shaun Mathew | [Read More](https://medium.com/p/8673dd7f7c73) |
-| Tue, 30 Sep 2025 20:21:48 GMT | Budgets with purpose: 2026 as an inflection year | Rodrigo Gutierrez | [Read More](https://medium.com/p/99df2887f269) |
-| Tue, 30 Sep 2025 20:17:48 GMT | Towards a New Standard: Data That Never Exists Unencrypted | ExcID | [Read More](https://medium.com/p/92b4a8f034f6) |
-| Tue, 30 Sep 2025 20:13:03 GMT | Hardening the Frontier: Mitigating AI Agent Risk with Adversarial Evaluations | Valdez Ladd | [Read More](https://medium.com/p/098677d7eb00) |
