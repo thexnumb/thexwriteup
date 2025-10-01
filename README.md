@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 15:36:53 GMT | Privilege Escalation in OpenShift AI: How CVE-2025–10725 Exposed the Cluster Crown Jewels | gm0 | [Read More](https://medium.com/p/fdebd7686868) |
+| Wed, 01 Oct 2025 15:36:26 GMT | Cybersecurity Awareness Month Kickoff: Why It Matters More Than Ever? | aysha | [Read More](https://medium.com/p/0002f7a92aa1) |
+| Wed, 01 Oct 2025 15:36:22 GMT | How to Host and Protect a Static Website with AWS S3, CloudFront, and WAF | Maazzaam | [Read More](https://medium.com/p/8621982407b7) |
+| Wed, 01 Oct 2025 15:25:33 GMT | Twitter (X) Hack - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/ba939d7f24e3) |
+| Wed, 01 Oct 2025 15:24:42 GMT | Oops!…I Audit Again: My Week 2 Dive into Linux Audit (and Catching File Tamperers) | Varnith | [Read More](https://medium.com/p/4595daa1e586) |
+| Wed, 01 Oct 2025 15:22:50 GMT | JavaScript Event Loop, Call Stack & Microtasks — (with Examples) | Tech With Curly Girl | [Read More](https://medium.com/p/1ea95455f3f7) |
+| Wed, 01 Oct 2025 15:20:05 GMT | JavaScript Event Loop, Call Stack & Microtasks — (with Examples) | Tech With Curly Girl | [Read More](https://medium.com/p/cc14df443deb) |
+| Wed, 01 Oct 2025 15:15:04 GMT | GZR Observer Daily — Oct 1, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e577d02f3c9c) |
+| Wed, 01 Oct 2025 15:14:25 GMT | What Would Claude Shannon Do About AI’s Carbon Problem? | Chelsea Mac | [Read More](https://medium.com/p/21a43860816c) |
 | Wed, 01 Oct 2025 15:11:53 GMT | The SentryPC Student Time Management Tool: Revolutionizing Student Success and School Security | Paul Meyer | [Read More](https://medium.com/p/613200a4576c) |
 | Wed, 01 Oct 2025 15:11:52 GMT | The Safety of Emotional Avoidance | avery jolie | [Read More](https://medium.com/p/749fe2a1491e) |
 | Wed, 01 Oct 2025 14:56:38 GMT | The End of Bandit: Meet Python Code Audit | Maikel Mardjan | [Read More](https://medium.com/p/7d6020e1ac10) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 11:05:22 GMT | SEO Pricing Explained: A Clear Guide for Business Owners | Bhavesh Rajpurohit | [Read More](https://medium.com/p/fc1beaefea96) |
 | Wed, 01 Oct 2025 11:05:07 GMT | Protect Your Privacy: How to Minimize Your Digital Footprint with Utopia P2P | Utopia P2P | [Read More](https://medium.com/p/3937b2febfe1) |
 | Wed, 01 Oct 2025 11:01:58 GMT | The Rise of Quantum-Safe Cryptography: What Developers Need to Know Now | Pratap Sahu | [Read More](https://medium.com/p/534c073dfd90) |
-| Wed, 01 Oct 2025 10:57:40 GMT | NYC SIM Server Seizure Reveals Nation-State Telecom Threats | Karl Buhl | [Read More](https://medium.com/p/5fee4a45bb19) |
-| Wed, 01 Oct 2025 10:56:44 GMT | Russia–Ukraine War: Latest Updates (30 September 2025) | Hunain Ali | [Read More](https://medium.com/p/c1a3188d4147) |
-| Wed, 01 Oct 2025 10:55:45 GMT | Network’s Digital Footprint | Infra & Network Core | [Read More](https://medium.com/p/c5dee113d83e) |
-| Wed, 01 Oct 2025 10:55:17 GMT | The Lazy Hacker’s Guide: 5 Python Shortcuts That Do the Dirty Work | Muhummad Zaki | [Read More](https://medium.com/p/8ea819af06ce) |
-| Wed, 01 Oct 2025 10:53:58 GMT | Build a Stable IT Career with Expert DevOps Training? | Mohammed Numan | [Read More](https://medium.com/p/b8d45cd7eaff) |
-| Wed, 01 Oct 2025 10:50:37 GMT | Authbition Weekly — Adding My Voice to My Writing | Andrew J. DiMeo, Sr., Ph.D. | [Read More](https://medium.com/p/0a88c9f3bbbb) |
-| Wed, 01 Oct 2025 10:49:03 GMT | Network Forensics | Infra & Network Core | [Read More](https://medium.com/p/49225c7c9239) |
-| Wed, 01 Oct 2025 10:48:09 GMT | Want to Find Bugs? Learn HTTP First! | mohandika | [Read More](https://medium.com/p/295bd7dbe645) |
-| Wed, 01 Oct 2025 10:46:15 GMT | Wget for Privelege Escalation — Wgel CTF (THM walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/01c5b6572c49) |
