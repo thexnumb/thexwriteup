@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 22:38:33 GMT | Yahoo Team — “Your Google Drive is almost full..Take | Bob Malin | [Read More](https://medium.com/p/483b13e70bad) |
+| Wed, 01 Oct 2025 22:35:27 GMT | Trooper TryHackMe Walkthrough | Karim Hesham | [Read More](https://medium.com/p/581c59ddcb8b) |
+| Wed, 01 Oct 2025 22:28:53 GMT | Project #8: Attacking Active Directory (Initial Vectors): LLMNR Poisoning, SMB Relay Attacks | NSESean | [Read More](https://medium.com/p/5d861fe88901) |
+| Wed, 01 Oct 2025 22:22:45 GMT | Why Project Management Has Become a Cybersecurity Skill | David ONeal | [Read More](https://medium.com/p/50350b11f0ba) |
 | Wed, 01 Oct 2025 22:08:56 GMT | CQ CyberPulse Weekly — October Edition #1 | CyberQuestor | [Read More](https://medium.com/p/36ff139f5261) |
 | Wed, 01 Oct 2025 22:07:40 GMT | Google Drive Is Now Your First Line of Defense Against Ransomware | Majid | [Read More](https://medium.com/p/18daac2b1371) |
+| Wed, 01 Oct 2025 22:05:07 GMT | Gerontik, Lansia, dan Teknologi di Era Digital | Alfari | [Read More](https://medium.com/p/16c7f6174c5f) |
 | Wed, 01 Oct 2025 21:54:50 GMT | The Hidden AI Supply Chain Crisis That Could Cripple Enterprises | Cyber-AppSec | [Read More](https://medium.com/p/0d6c93389b04) |
 | Wed, 01 Oct 2025 21:52:23 GMT | When Gen Z Becomes an Information Being: Morocco’s Uprising and the Protocol That Can’t Be Arrested | Zak | [Read More](https://medium.com/p/b45b67df4214) |
 | Wed, 01 Oct 2025 21:46:51 GMT | Why National Cybersecurity Awareness Month (NCSAM) Secretly Sucks for CISOs | Yael Nagler | [Read More](https://medium.com/p/bed99c6d7550) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 16:23:56 GMT | “2025 CWE™ Most Important Hardware Weaknesses” Now Available | CWE Program | [Read More](https://medium.com/p/2bbe29f85b1a) |
 | Wed, 01 Oct 2025 16:18:04 GMT | CVE-2025–9712: How a Filename Became a Backdoor in Ivanti Endpoint Manager | gm0 | [Read More](https://medium.com/p/72595ec10c0d) |
 | Wed, 01 Oct 2025 16:16:53 GMT | TryHackMe Bounty Hacker Writeup | sabR | [Read More](https://medium.com/p/e2d941cd08d7) |
-| Wed, 01 Oct 2025 16:12:35 GMT | Powershell Execution Parametreleri ve Blue Team Perspektifi | Necati Ustun | [Read More](https://medium.com/p/27213e586cc1) |
-| Wed, 01 Oct 2025 16:11:28 GMT | Your CAPTCHA is a Trap: Inside the Week’s Two Biggest Cyber Threats | Aj | [Read More](https://medium.com/p/7e3454445feb) |
-| Wed, 01 Oct 2025 16:07:26 GMT | Hack the Box — Driver — WriteUp | Emre A. | [Read More](https://medium.com/p/3303b18503af) |
-| Wed, 01 Oct 2025 16:06:14 GMT | Hack the Box — MetaTwo — WriteUp | Emre A. | [Read More](https://medium.com/p/189fa7e80276) |
-| Wed, 01 Oct 2025 16:03:44 GMT | TryHackMe - XDR: Operation Global Dagger - WriteUp | Axoloth | [Read More](https://medium.com/p/a0ec728e1342) |
