@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 10:41:37 GMT | Top 10 IoT Pentesting Tools Every Security Tester Should Know | cyber security Updates | [Read More](https://medium.com/p/23faf1167c68) |
+| Wed, 01 Oct 2025 10:24:13 GMT | Cryptography: The Silent Guardian Of Cybersecurity | Redfox Security | [Read More](https://medium.com/p/169cbad7b0bc) |
+| Wed, 01 Oct 2025 10:23:53 GMT | Security and Performance Aspects of Networking Performance | Eren Cankut Uysal | [Read More](https://medium.com/p/e623ad59e63d) |
+| Wed, 01 Oct 2025 10:18:53 GMT | Usability Meets Security | Ivan Junior | [Read More](https://medium.com/p/88e39699be03) |
 | Wed, 01 Oct 2025 10:18:05 GMT | Cybersecurity Roadmap for Success: Protecting Your Business in the Digital Era | Digital Defense | [Read More](https://medium.com/p/01a02c4b6764) |
+| Wed, 01 Oct 2025 10:17:29 GMT | TheHackersLabs — Cursodex [Write-Up] | APS88 | [Read More](https://medium.com/p/076cb228e11c) |
+| Wed, 01 Oct 2025 10:16:46 GMT | Security and Performance Aspects of Container Security | Eren Cankut Uysal | [Read More](https://medium.com/p/283dadf50d2f) |
 | Wed, 01 Oct 2025 10:16:28 GMT | Hybrid Warfare: Cyberattacks as Tools of Modern Conflict | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/9de3d2d13659) |
 | Wed, 01 Oct 2025 10:11:38 GMT | HACKING: THE THEORY OF EVERYTHING | Tyler Wall | [Read More](https://medium.com/p/8190806aac0b) |
 | Wed, 01 Oct 2025 10:02:00 GMT | COMPLIANCE SERIES 1 : UAE CYBERMANDATE | Bluebricks Technologies | [Read More](https://medium.com/p/ad92d2ba9c78) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 05:12:59 GMT | Understanding OAuth 2.0 Client Credentials Grant | Florian Röser | [Read More](https://medium.com/p/5b147354a5aa) |
 | Wed, 01 Oct 2025 05:03:23 GMT | Oversharing Is How You Leak Your Energy | Ayushi Jindal | [Read More](https://medium.com/p/fe10c772fbf9) |
 | Wed, 01 Oct 2025 05:02:47 GMT | How Cybersecurity Teams Actually Use AI (With Code Examples) | Aj | [Read More](https://medium.com/p/b6fa4dcf6c4e) |
-| Wed, 01 Oct 2025 05:02:16 GMT | RBAC in Kubernetes: Understanding Roles, and RoleBindings | Laxman | [Read More](https://medium.com/p/dbcc7b12fc52) |
-| Wed, 01 Oct 2025 04:40:28 GMT | Container Security Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/2bc1ded63f74) |
-| Wed, 01 Oct 2025 04:38:23 GMT | DO NOT Commit The Terraform State File! | WittCode | [Read More](https://medium.com/p/1812664a673c) |
-| Wed, 01 Oct 2025 04:38:21 GMT | Top Software Every Startup Founder Should Install in 2025 | Ask IT Support | [Read More](https://medium.com/p/f964967c9ce8) |
-| Wed, 01 Oct 2025 04:36:28 GMT | How to Learn Bug Bounty In Easy Way: A Simple Guide for Beginners | Kakashi | [Read More](https://medium.com/p/a15d3e87a4fe) |
-| Wed, 01 Oct 2025 04:34:46 GMT | AI Security Research — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/6ae387e91253) |
