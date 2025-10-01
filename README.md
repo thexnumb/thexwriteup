@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 21:33:19 GMT | Apex — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/4545abe1e64d) |
+| Wed, 01 Oct 2025 21:21:50 GMT | The Little Me I Couldn’t Save, Standing Right in Front of Me | Renvyx | [Read More](https://medium.com/p/555d164be6c4) |
+| Wed, 01 Oct 2025 21:18:29 GMT | Qwerty, birthdays, pet names — hackers know them all. | Dan Sellars | [Read More](https://medium.com/p/1a92277833fe) |
+| Wed, 01 Oct 2025 21:17:09 GMT | The Genius Act, the SEC, and the Future of Money | Steven Clark | [Read More](https://medium.com/p/797004e54fa9) |
+| Wed, 01 Oct 2025 21:17:02 GMT | The OSI Model | Jacob Piloto | [Read More](https://medium.com/p/dcfcbe3cdf1b) |
+| Wed, 01 Oct 2025 21:15:40 GMT | While learning JavaScript, I came across something really dangerous! | Roshni | [Read More](https://medium.com/p/7ca0c03a7af1) |
 | Wed, 01 Oct 2025 21:15:06 GMT | How Newspapers Accidentally Invented Modern UX Design | Meg Pugh | [Read More](https://medium.com/p/4120edf57892) |
 | Wed, 01 Oct 2025 21:08:27 GMT | How Energy and Cybersecurity Will Define Our Connected Future | David SEHYEON Baek | [Read More](https://medium.com/p/fadf9dd2d44f) |
 | Wed, 01 Oct 2025 21:05:19 GMT | Content Security Policy (CSP): Web Uygulama Güvenliğinin Görünmeyen Kalkanı | Halil BARIM | [Read More](https://medium.com/p/4a4b73260dce) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 15:36:53 GMT | Privilege Escalation in OpenShift AI: How CVE-2025–10725 Exposed the Cluster Crown Jewels | gm0 | [Read More](https://medium.com/p/fdebd7686868) |
 | Wed, 01 Oct 2025 15:36:26 GMT | Cybersecurity Awareness Month Kickoff: Why It Matters More Than Ever? | aysha | [Read More](https://medium.com/p/0002f7a92aa1) |
 | Wed, 01 Oct 2025 15:36:22 GMT | How to Host and Protect a Static Website with AWS S3, CloudFront, and WAF | Maazzaam | [Read More](https://medium.com/p/8621982407b7) |
-| Wed, 01 Oct 2025 15:31:53 GMT | They Laughed at My “No Passwords” Policy — Until We Had Zero Breaches | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/2cd30adeca02) |
-| Wed, 01 Oct 2025 15:25:33 GMT | Twitter (X) Hack - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/ba939d7f24e3) |
-| Wed, 01 Oct 2025 15:24:42 GMT | Oops!…I Audit Again: My Week 2 Dive into Linux Audit (and Catching File Tamperers) | Varnith | [Read More](https://medium.com/p/4595daa1e586) |
-| Wed, 01 Oct 2025 15:22:50 GMT | JavaScript Event Loop, Call Stack & Microtasks — (with Examples) | Tech With Curly Girl | [Read More](https://medium.com/p/1ea95455f3f7) |
-| Wed, 01 Oct 2025 15:20:05 GMT | JavaScript Event Loop, Call Stack & Microtasks — (with Examples) | Tech With Curly Girl | [Read More](https://medium.com/p/cc14df443deb) |
-| Wed, 01 Oct 2025 15:15:04 GMT | GZR Observer Daily — Oct 1, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e577d02f3c9c) |
