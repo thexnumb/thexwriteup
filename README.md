@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 18:28:53 GMT | Perfection  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/dbb6a234da25) |
+| Wed, 01 Oct 2025 18:19:44 GMT | California Creates First State AI Safety Law: SB 53 | Valdez Ladd | [Read More](https://medium.com/p/a4219c87dd9a) |
+| Wed, 01 Oct 2025 18:18:00 GMT | Certificates in Action: Templates, Auto-Enrollment, and the Path to Wi-Fi Bliss | Alex | [Read More](https://medium.com/p/f5f381208c82) |
+| Wed, 01 Oct 2025 18:12:20 GMT | An Itinerary to New Ways of Merging Tech and the Humanities | Petra Drotleff | [Read More](https://medium.com/p/0518194ddebf) |
+| Wed, 01 Oct 2025 18:07:52 GMT | The Day an Unpatched PLC Almost Shut Down a Plant | Cyberkech | [Read More](https://medium.com/p/61ceb94d26d9) |
+| Wed, 01 Oct 2025 18:07:01 GMT | A while ago, I was hunting for bugs like I usually do – just going through recon, mapping… | Hamzah Hatamleh | [Read More](https://medium.com/p/cb75ea3b73b9) |
+| Wed, 01 Oct 2025 18:06:10 GMT | GetPDF lab - Cyber Defenders walkthrough | Abdulla Abdulrhem | [Read More](https://medium.com/p/be806260f4f9) |
+| Wed, 01 Oct 2025 18:02:04 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/d55d04b6878c) |
+| Wed, 01 Oct 2025 18:01:52 GMT | ⚡ Burp Suite como un pro: workflow real, sin perder el tiempo (estreno mañana) | Gorka | [Read More](https://medium.com/p/db2429b15954) |
+| Wed, 01 Oct 2025 17:57:47 GMT | AI in Cybersecurity: Transforming VAPT and Defending Against DDoS Attacks | Sameer P. | [Read More](https://medium.com/p/442020888ed4) |
+| Wed, 01 Oct 2025 17:56:49 GMT | Why Developers Should Stop Hashing Passwords and Start Using KDFs | Felix Twoli | [Read More](https://medium.com/p/0be0da663393) |
+| Wed, 01 Oct 2025 17:55:11 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/ab807d809fa9) |
+| Wed, 01 Oct 2025 17:53:38 GMT | The First 3 Security Policies Every Small Business Needs | Evgeny Ermakov | [Read More](https://medium.com/p/bcf702970e33) |
+| Wed, 01 Oct 2025 17:48:37 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/966dc90c2525) |
+| Wed, 01 Oct 2025 17:47:38 GMT | Ransomware Warning: What Businesses Must Know to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/e9acf2d8c22f) |
+| Wed, 01 Oct 2025 17:42:56 GMT | PASSWORD CRACKING ANALYSIS | Manahil Saleem | [Read More](https://medium.com/p/7cb36c3482e5) |
+| Wed, 01 Oct 2025 17:41:27 GMT | The Future of Computer Repair: AI Diagnostics and Remote Fixes | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/b5bb7e788fd5) |
+| Wed, 01 Oct 2025 17:39:29 GMT | Splunking with Windows Part 3 | Luke | [Read More](https://medium.com/p/6125b6a98cb4) |
 | Wed, 01 Oct 2025 17:34:02 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/c5eca7ea5e0e) |
 | Wed, 01 Oct 2025 17:31:26 GMT | Obfuscation — Securing your Flutter Code from Attacker | Fuad Reza | [Read More](https://medium.com/p/153ef572211b) |
 | Wed, 01 Oct 2025 17:27:49 GMT | Exploit Vulnerabilities | Tony Khalil Rodgers | [Read More](https://medium.com/p/2a2320abfcf8) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 13:26:30 GMT | ✈️ Why Do Flight Fares in India Change So Much? | Traventurs | [Read More](https://medium.com/p/a3bbc881208b) |
 | Wed, 01 Oct 2025 13:22:52 GMT | Unverified Email Change Vulnerability Leading to Account Takeover | Abhishek sharma | [Read More](https://medium.com/p/1bcd5b09f0e5) |
 | Wed, 01 Oct 2025 13:18:26 GMT | 30-Minute Expert Review: 10 Steps to Scan Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/2bccee6038cb) |
-| Wed, 01 Oct 2025 13:17:50 GMT | Top 5 Cybersecurity Mistakes Everyone Makes (Without Realizing It) | Aj | [Read More](https://medium.com/p/62f82e26beea) |
-| Wed, 01 Oct 2025 13:14:55 GMT | IT as the New English: Why Digital Literacy is the Grammar of the Future | Eishani Purohit | [Read More](https://medium.com/p/ac500d50ba0b) |
-| Wed, 01 Oct 2025 13:13:55 GMT | Dimensity 810 vs Snapdragon 695 in 2025: Which One Still Holds Up? | Rakesh Sahani | [Read More](https://medium.com/p/242de4fa3608) |
-| Wed, 01 Oct 2025 13:11:57 GMT | Cyber Security Abu Dhabi - Proven Solutions for Business Safety | Grandahsan | [Read More](https://medium.com/p/9580a8ec9fac) |
-| Wed, 01 Oct 2025 13:11:03 GMT | Encryption Series — Part 1: Encryption Fundamentals | Aditya Prakash | [Read More](https://medium.com/p/e1650d54b211) |
-| Wed, 01 Oct 2025 13:07:48 GMT | I Secured My Network in Under 10 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/d674e0636770) |
-| Wed, 01 Oct 2025 13:07:07 GMT | Windows Firewall vs. Avira — Which One Protects You Better? | Cordula Boeck | [Read More](https://medium.com/p/4aa2f5df8cf0) |
-| Wed, 01 Oct 2025 13:02:36 GMT | ZF stellt harten Sparkurs für Antriebssparte vor | Julia Ahrens | [Read More](https://medium.com/p/678751f19caf) |
-| Wed, 01 Oct 2025 13:02:20 GMT | Intro to Cross-site Scripting Write Up | Ethan Wang | [Read More](https://medium.com/p/a780c02c6faf) |
-| Wed, 01 Oct 2025 13:01:51 GMT | Cybersecurity Myths | SAM Cyber Coaching | [Read More](https://medium.com/p/6849c87bb733) |
-| Wed, 01 Oct 2025 13:01:51 GMT | PCI DSS 6.4.3 Script Management: What CISOs Actually Need to Know | Feroot Security | [Read More](https://medium.com/p/ed7cce635b2c) |
-| Wed, 01 Oct 2025 13:01:22 GMT | A jornada do acesso: automatizando do “olá” ao “até logo” | Sara Batista | [Read More](https://medium.com/p/af10d5bb83cb) |
-| Wed, 01 Oct 2025 12:56:52 GMT | What is 2FA/MFA and why it matters - SMS, App, Hardware Keys | devmihaylov | [Read More](https://medium.com/p/4c4fbd0ce943) |
-| Wed, 01 Oct 2025 12:46:15 GMT | From Chaos to Control | Battery Smart Engineering | [Read More](https://medium.com/p/d144071bccb0) |
-| Wed, 01 Oct 2025 12:42:00 GMT | Unlock Your Cybersecurity Potential with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/96c2e232f02b) |
-| Wed, 01 Oct 2025 12:40:33 GMT | ANALISIS RISIKO TERHADAP TRANSFER DATA PRIBADI ANTARA INDONESIA DENGAN AMERIKA BERDASARKAN… | Hima Hukum TIK-KI FH Unpad | [Read More](https://medium.com/p/7d1834bad676) |
-| Wed, 01 Oct 2025 12:40:29 GMT | ALL IN ONE -TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/a2077e64bffe) |
-| Wed, 01 Oct 2025 12:37:39 GMT | SRE and Security: Building Secure and Reliable Systems | SRE Mastery | [Read More](https://medium.com/p/030a5fee6de5) |
