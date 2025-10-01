@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 15:11:53 GMT | The SentryPC Student Time Management Tool: Revolutionizing Student Success and School Security | Paul Meyer | [Read More](https://medium.com/p/613200a4576c) |
+| Wed, 01 Oct 2025 15:11:52 GMT | The Safety of Emotional Avoidance | avery jolie | [Read More](https://medium.com/p/749fe2a1491e) |
+| Wed, 01 Oct 2025 14:56:38 GMT | The End of Bandit: Meet Python Code Audit | Maikel Mardjan | [Read More](https://medium.com/p/7d6020e1ac10) |
+| Wed, 01 Oct 2025 14:49:41 GMT | The Sixth Sense of Security: How AI is Forging a New Era of Threat-Informed Defense in 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/cba06f2cd17f) |
+| Wed, 01 Oct 2025 14:46:46 GMT | Write-up: BlueSky Ransomware (Cyber Defenders) | User2Xd | [Read More](https://medium.com/p/f2b6f6de8cd7) |
+| Wed, 01 Oct 2025 14:44:37 GMT | AI Security Research — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/67f24236ab1d) |
+| Wed, 01 Oct 2025 14:44:34 GMT | CSRF, XSS, SSRF: The Attacks That Still Break the Web in 2025 | Aj | [Read More](https://medium.com/p/6e2774c62ad6) |
+| Wed, 01 Oct 2025 14:43:32 GMT | Should you protect your site from AI scrapers? | Arnaud Wallon | [Read More](https://medium.com/p/c19129685bd8) |
+| Wed, 01 Oct 2025 14:41:54 GMT | Unlocking the Magic of Secret Messages: A Hands-On Guide to RSA Encryption | Allwyn Vincent | [Read More](https://medium.com/p/fc8930e18c21) |
+| Wed, 01 Oct 2025 14:41:51 GMT | TryHackMe #75 - MISP | 0xGroot | [Read More](https://medium.com/p/4f6424ff36c1) |
+| Wed, 01 Oct 2025 14:38:35 GMT | Siber Güvenlik 101 — Dark WEB, Tor ve Onion: Gizlilik, Güvenlik ve Riskler | Sude Çoban | [Read More](https://medium.com/p/3617f9f31fb7) |
 | Wed, 01 Oct 2025 14:38:29 GMT | Hindsight: Chrome Forensics Made Simple | Allen Ace | [Read More](https://medium.com/p/425db99fa5ed) |
+| Wed, 01 Oct 2025 14:37:49 GMT | TryHackMe #74 - OpenCTI | 0xGroot | [Read More](https://medium.com/p/a6428b626db7) |
 | Wed, 01 Oct 2025 14:36:30 GMT | Patchwork APT Exploits PowerShell to Deliver Malicious Payloads | Jasmitharouthu | [Read More](https://medium.com/p/ca9a6ff2de3a) |
 | Wed, 01 Oct 2025 14:34:05 GMT | HA NARAK — Writeup | Yukina | [Read More](https://medium.com/p/e9d535d1e115) |
 | Wed, 01 Oct 2025 14:31:56 GMT | TryHackMe #73 - Yara | 0xGroot | [Read More](https://medium.com/p/5fef7d76ba0b) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 10:49:03 GMT | Network Forensics | Infra & Network Core | [Read More](https://medium.com/p/49225c7c9239) |
 | Wed, 01 Oct 2025 10:48:09 GMT | Want to Find Bugs? Learn HTTP First! | mohandika | [Read More](https://medium.com/p/295bd7dbe645) |
 | Wed, 01 Oct 2025 10:46:15 GMT | Wget for Privelege Escalation — Wgel CTF (THM walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/01c5b6572c49) |
-| Wed, 01 Oct 2025 10:43:41 GMT | Network Autopsy | Infra & Network Core | [Read More](https://medium.com/p/60f6e4c9d641) |
-| Wed, 01 Oct 2025 10:41:51 GMT | Corporate Greed Chronicles: How Pursuit of Profit Poisons the Public Square | Namir Sagheenanajar | [Read More](https://medium.com/p/5e8a091e0694) |
-| Wed, 01 Oct 2025 10:41:37 GMT | Top 10 IoT Pentesting Tools Every Security Tester Should Know | cyber security Updates | [Read More](https://medium.com/p/23faf1167c68) |
-| Wed, 01 Oct 2025 10:31:51 GMT | WebAuthn Explained: Logging In Without Passwords | Natarajan C K | [Read More](https://medium.com/p/9bcc11486857) |
-| Wed, 01 Oct 2025 10:24:13 GMT | Cryptography: The Silent Guardian Of Cybersecurity | Redfox Security | [Read More](https://medium.com/p/169cbad7b0bc) |
-| Wed, 01 Oct 2025 10:23:53 GMT | Security and Performance Aspects of Networking Performance | Eren Cankut Uysal | [Read More](https://medium.com/p/e623ad59e63d) |
-| Wed, 01 Oct 2025 10:18:53 GMT | Usability Meets Security | Ivan Junior | [Read More](https://medium.com/p/88e39699be03) |
-| Wed, 01 Oct 2025 10:18:05 GMT | Cybersecurity Roadmap for Success: Protecting Your Business in the Digital Era | Digital Defense | [Read More](https://medium.com/p/01a02c4b6764) |
-| Wed, 01 Oct 2025 10:17:29 GMT | TheHackersLabs — Cursodex [Write-Up] | APS88 | [Read More](https://medium.com/p/076cb228e11c) |
-| Wed, 01 Oct 2025 10:16:46 GMT | Security and Performance Aspects of Container Security | Eren Cankut Uysal | [Read More](https://medium.com/p/283dadf50d2f) |
-| Wed, 01 Oct 2025 10:16:28 GMT | Hybrid Warfare: Cyberattacks as Tools of Modern Conflict | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/9de3d2d13659) |
-| Wed, 01 Oct 2025 10:11:38 GMT | HACKING: THE THEORY OF EVERYTHING | Tyler Wall | [Read More](https://medium.com/p/8190806aac0b) |
