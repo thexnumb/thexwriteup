@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 06:28:21 GMT | CABLE TERMINATION MADE EASY (A step by step guide) | Akankwatsakevin | [Read More](https://medium.com/p/8b664365e214) |
+| Wed, 01 Oct 2025 06:17:50 GMT | The Cloud Misconfiguration Checklist: 10 Critical Flaws to Find Before Attackers Do | Andrei Ivan | [Read More](https://medium.com/p/3adc6f38615b) |
+| Wed, 01 Oct 2025 06:04:53 GMT | Network Reconnaissance | Infra & Network Core | [Read More](https://medium.com/p/34dcfe75aa74) |
+| Wed, 01 Oct 2025 06:02:54 GMT | Application Security Tools: Synk, black duck, etc | Alice Dai | [Read More](https://medium.com/p/d57a640293fb) |
+| Wed, 01 Oct 2025 06:02:54 GMT | Train your mind, your thoughts will thank you. | Nimrev | [Read More](https://medium.com/p/068ab12d74f9) |
+| Wed, 01 Oct 2025 05:59:13 GMT | FastAPI Security Best Practices: Defending Against Common Threats | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/58fbd6a15fd2) |
+| Wed, 01 Oct 2025 05:55:39 GMT | The Dopamine Trap: Why Most Hackers Quit Before They Find the Big Bugs | Đeepanshu | [Read More](https://medium.com/p/873ca6185799) |
+| Wed, 01 Oct 2025 05:54:22 GMT | Kickstart Your Cybersecurity Journey — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/fcfdf651f40a) |
+| Wed, 01 Oct 2025 05:50:33 GMT | The AI SOC Revolution: How Machine Learning is Transforming Cybersecurity Operations in 2025 | Biplove Yadav | [Read More](https://medium.com/p/73522c303e00) |
+| Wed, 01 Oct 2025 05:45:20 GMT | PicoCTF Writeups: Reverse Engineering Challenges (WinAntiDbgx100, WinAntiDbgx200, WinAntiDbgx300) | Talal Ali Khan | [Read More](https://medium.com/p/53548333ec57) |
+| Wed, 01 Oct 2025 05:42:58 GMT | Apache Struts 0-Day (CVE-2018–11776) — a little story and what I learned | Itsarly | [Read More](https://medium.com/p/fc5f278e9c23) |
+| Wed, 01 Oct 2025 05:38:41 GMT | SQL Injection — | Balki Maharaj | [Read More](https://medium.com/p/d35d706e37eb) |
 | Wed, 01 Oct 2025 05:30:20 GMT | Information Technology Solutions for Governments and Critical Infrastructure | Ctrl Zine | [Read More](https://medium.com/p/069ae7acb4de) |
 | Wed, 01 Oct 2025 05:28:39 GMT | LFI Bypasses | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/30ed83275858) |
 | Wed, 01 Oct 2025 05:23:44 GMT | White-box Testing: A Critical Bug on Reset Password | Pagar Alam | [Read More](https://medium.com/p/b3eb1640ded5) |
@@ -101,15 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 20:21:48 GMT | Budgets with purpose: 2026 as an inflection year | Rodrigo Gutierrez | [Read More](https://medium.com/p/99df2887f269) |
 | Tue, 30 Sep 2025 20:17:48 GMT | Towards a New Standard: Data That Never Exists Unencrypted | ExcID | [Read More](https://medium.com/p/92b4a8f034f6) |
 | Tue, 30 Sep 2025 20:13:03 GMT | Hardening the Frontier: Mitigating AI Agent Risk with Adversarial Evaluations | Valdez Ladd | [Read More](https://medium.com/p/098677d7eb00) |
-| Tue, 30 Sep 2025 20:12:47 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/62f8dd2672c7) |
-| Tue, 30 Sep 2025 20:12:17 GMT | SQL Injection: How It Works and How to Stay Protected | Sammie Singh | [Read More](https://medium.com/p/cee42d298cef) |
-| Tue, 30 Sep 2025 20:11:51 GMT | The Age of Intelligent Deception | Oddur Sigurdsson | [Read More](https://medium.com/p/30499580469c) |
-| Tue, 30 Sep 2025 19:59:02 GMT | Using Biometrics for Encryption in Android | Fernando Obregon | [Read More](https://medium.com/p/368150848f8e) |
-| Tue, 30 Sep 2025 19:52:55 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Chengkurt 12 | [Read More](https://medium.com/p/d8aa36d9411f) |
-| Tue, 30 Sep 2025 19:47:14 GMT | Splunking Windows Attacks Part 2. | Luke | [Read More](https://medium.com/p/375c45557810) |
-| Tue, 30 Sep 2025 19:45:06 GMT | CORS Vulnerability with Basic Origin Reflection with Lab Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/2cce9e606bda) |
-| Tue, 30 Sep 2025 19:44:10 GMT | What is Symbiotic? A Simple Guide to the Future of Staking | Alex Chinnan | [Read More](https://medium.com/p/132a1c378b24) |
-| Tue, 30 Sep 2025 19:43:36 GMT | Building Shadowmap: Why We Scan Our Own Cloud and What the Results Really Mean | Mohammad Abir Abbas | [Read More](https://medium.com/p/b4bf1c021c56) |
-| Tue, 30 Sep 2025 19:41:26 GMT | Your Job is Already Obsolete – The Countdown has Started | John Petty | [Read More](https://medium.com/p/f2567467f32e) |
-| Tue, 30 Sep 2025 19:40:23 GMT | Supporting the Vulnerable: The Pillar of a Strong Community | Mahmud Sabiu | [Read More](https://medium.com/p/8ba5ab75d5a2) |
-| Tue, 30 Sep 2025 19:30:34 GMT | Web Zafiyetleri Serisi #6 | Didem Kış | [Read More](https://medium.com/p/8f6692e94ad3) |
