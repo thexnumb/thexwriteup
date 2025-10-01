@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 05:30:20 GMT | Information Technology Solutions for Governments and Critical Infrastructure | Ctrl Zine | [Read More](https://medium.com/p/069ae7acb4de) |
+| Wed, 01 Oct 2025 05:28:39 GMT | LFI Bypasses | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/30ed83275858) |
+| Wed, 01 Oct 2025 05:23:44 GMT | White-box Testing: A Critical Bug on Reset Password | Pagar Alam | [Read More](https://medium.com/p/b3eb1640ded5) |
+| Wed, 01 Oct 2025 05:23:38 GMT | Mapping Cyber Adversaries: How MITRE ATT&CK Helps You See Attacks Before They Happen | Matt Black | [Read More](https://medium.com/p/fe2ccc488e35) |
 | Wed, 01 Oct 2025 05:18:07 GMT | Local File Inclusion | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/e517ce21a6ed) |
+| Wed, 01 Oct 2025 05:16:12 GMT | Connecting the Dots of Vulnerability | Joshua Dimasaka | [Read More](https://medium.com/p/992641369747) |
 | Wed, 01 Oct 2025 05:15:42 GMT | Auditd Advanced Usage Implementation and Troubleshooting | Eren Cankut Uysal | [Read More](https://medium.com/p/cbc215c6ac09) |
 | Wed, 01 Oct 2025 05:12:59 GMT | Understanding OAuth 2.0 Client Credentials Grant | Florian Röser | [Read More](https://medium.com/p/5b147354a5aa) |
 | Wed, 01 Oct 2025 05:03:23 GMT | Oversharing Is How You Leak Your Energy | Ayushi Jindal | [Read More](https://medium.com/p/fe10c772fbf9) |
@@ -108,8 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 19:41:26 GMT | Your Job is Already Obsolete – The Countdown has Started | John Petty | [Read More](https://medium.com/p/f2567467f32e) |
 | Tue, 30 Sep 2025 19:40:23 GMT | Supporting the Vulnerable: The Pillar of a Strong Community | Mahmud Sabiu | [Read More](https://medium.com/p/8ba5ab75d5a2) |
 | Tue, 30 Sep 2025 19:30:34 GMT | Web Zafiyetleri Serisi #6 | Didem Kış | [Read More](https://medium.com/p/8f6692e94ad3) |
-| Tue, 30 Sep 2025 19:27:18 GMT | How Bitunix Strengthens the Future of Crypto Protection | Mr Alex Yung® | [Read More](https://medium.com/p/5fc4f9262008) |
-| Tue, 30 Sep 2025 19:26:29 GMT | PicoCTF Writeup 1: Cookie | Agarwaldaksh | [Read More](https://medium.com/p/157b85d7a8f1) |
-| Tue, 30 Sep 2025 19:22:35 GMT | Part 1 : intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/15af4966836d) |
-| Tue, 30 Sep 2025 19:18:40 GMT | The Premium is the Victim: macOS Under Siege | Rodrigo Gutierrez | [Read More](https://medium.com/p/693d96a8e22b) |
-| Tue, 30 Sep 2025 19:14:52 GMT | EEMS SSO: Simplifying Secure Access for Modern Organizations | SafeAeon Inc. | [Read More](https://medium.com/p/3aa9ac544010) |
