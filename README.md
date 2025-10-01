@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 19:13:13 GMT | Chaining Vulnerabilities - Tryhackme Walk-through by Abhishek | Abhishek | [Read More](https://medium.com/p/c0e4eda75f49) |
+| Wed, 01 Oct 2025 19:07:50 GMT | The Secret Reason the Western System Steals Your Purpose | Richard Ogundele | [Read More](https://medium.com/p/2520c0a239f7) |
+| Wed, 01 Oct 2025 19:05:41 GMT | MobileHackingLabs — IoT Connect Lab | everythingBlackkk | [Read More](https://medium.com/p/e061132baf7a) |
+| Wed, 01 Oct 2025 19:05:37 GMT | From Scripted Bots to Self-Reflecting Tacticians: The New Frontier of AI Combat Simulation | Berend Watchus | [Read More](https://medium.com/p/de889df6bbd3) |
+| Wed, 01 Oct 2025 19:02:10 GMT | Blind SQL Injection Walkthrough — DVWA (Low, Medium, High) | Vaishnavkp | [Read More](https://medium.com/p/4044a1c85df1) |
+| Wed, 01 Oct 2025 19:00:21 GMT | The Hidden Pitfalls of Asynchronous JavaScript: Lessons From My Own Debugging Nightmares | Kainat Nafees | [Read More](https://medium.com/p/133aa2ecd5d6) |
+| Wed, 01 Oct 2025 19:00:04 GMT | Debugging the Bayou Onezime’s Firmware Update on Vishing, Smishing, & Plishing | Jerileewei | [Read More](https://medium.com/p/8d9f6d0d778b) |
+| Wed, 01 Oct 2025 18:58:23 GMT | WebStrike Lab Cyberdefenders Writeup | GM4saken | [Read More](https://medium.com/p/4660bbb21c79) |
+| Wed, 01 Oct 2025 18:48:27 GMT | Cybersecurity market — forward-looking insight & prediction (2025–2045) insight Report by Sameer | Sameer P. | [Read More](https://medium.com/p/674378d551e0) |
 | Wed, 01 Oct 2025 18:45:16 GMT | My Journey: From a Rural Village to Cybersecurity & Beyond | Inayat Hussain | [Read More](https://medium.com/p/790057b3ab07) |
 | Wed, 01 Oct 2025 18:44:58 GMT | PG Practice — Fish (Windows) | Lepton | [Read More](https://medium.com/p/1d014ad8aeab) |
 | Wed, 01 Oct 2025 18:43:22 GMT | Forensic Treasure Hunt: How Investigators Use ShimCache & AmCache to Unmask Malware | Paritosh | [Read More](https://medium.com/p/a1183ca91d58) |
@@ -23,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 18:18:00 GMT | Certificates in Action: Templates, Auto-Enrollment, and the Path to Wi-Fi Bliss | Alex | [Read More](https://medium.com/p/f5f381208c82) |
 | Wed, 01 Oct 2025 18:12:20 GMT | An Itinerary to New Ways of Merging Tech and the Humanities | Petra Drotleff | [Read More](https://medium.com/p/0518194ddebf) |
 | Wed, 01 Oct 2025 18:07:52 GMT | The Day an Unpatched PLC Almost Shut Down a Plant | Cyberkech | [Read More](https://medium.com/p/61ceb94d26d9) |
+| Wed, 01 Oct 2025 18:07:51 GMT | Inyección SQL: el truco barato con el que los hackers tumban tu seguridad | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/466d20df46c8) |
 | Wed, 01 Oct 2025 18:07:01 GMT | A while ago, I was hunting for bugs like I usually do – just going through recon, mapping… | Hamzah Hatamleh | [Read More](https://medium.com/p/cb75ea3b73b9) |
 | Wed, 01 Oct 2025 18:06:10 GMT | GetPDF lab - Cyber Defenders walkthrough | Abdulla Abdulrhem | [Read More](https://medium.com/p/be806260f4f9) |
 | Wed, 01 Oct 2025 18:02:04 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/d55d04b6878c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 14:18:52 GMT | Power of Villager x Hex-strike | Lewis Desmond | [Read More](https://medium.com/p/f234c4a712cd) |
 | Wed, 01 Oct 2025 14:18:24 GMT | Social Media Hacking: What You Post Can Be Used Against You | Aj | [Read More](https://medium.com/p/5f45a5fd32e4) |
 | Wed, 01 Oct 2025 14:16:07 GMT | The Mistakes I Made When I Thought I Was a ‘Good Guy’ | Surinder Singh | [Read More](https://medium.com/p/1e8a59f5eb77) |
-| Wed, 01 Oct 2025 14:15:50 GMT | The Easiest Way to Find a Critical Vulnerability: A Case Study with Jenkins | Amrgomaa | [Read More](https://medium.com/p/77bb8f7748af) |
-| Wed, 01 Oct 2025 14:12:19 GMT | Sublist3r: The New Update (V3.0) | Shaheer Yasir | [Read More](https://medium.com/p/bc2abebc7a2c) |
-| Wed, 01 Oct 2025 14:10:02 GMT | CCORE Audit & Team KYC by SolidProof: What We Tested, Fixed, and How You Can Verify | Oleh Melezhyk - CebuCore Founder | [Read More](https://medium.com/p/657fb394efcb) |
-| Wed, 01 Oct 2025 14:01:58 GMT | Cyber Briefing: 2025.10.01 | CyberMaterial | [Read More](https://medium.com/p/54e14685f04f) |
-| Wed, 01 Oct 2025 14:01:55 GMT | ABTU: Real Utility, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/00b0f3cdb4e8) |
-| Wed, 01 Oct 2025 13:57:25 GMT | Protect Yourself Online with FraudExpose.org | Lucas Sanchiez | [Read More](https://medium.com/p/0348b8a73810) |
-| Wed, 01 Oct 2025 13:57:25 GMT | Top Maritime Security Services Dubai for Safe Operations and Vessels | Delight international Security Services | [Read More](https://medium.com/p/12a95f1ebd33) |
-| Wed, 01 Oct 2025 13:50:59 GMT | Incident Response: What to Do When a Breach Happens | IPSpecialist | [Read More](https://medium.com/p/b346189aedf7) |
-| Wed, 01 Oct 2025 13:50:00 GMT | Is It Morally Right to Legalize Data Privacy in Bangladesh? | Sakhiur Rahman | [Read More](https://medium.com/p/b69f0dd86c14) |
-| Wed, 01 Oct 2025 13:47:49 GMT | Startup Walkthrough Tryhackme | Mainekhacker | [Read More](https://medium.com/p/148cae281217) |
