@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 14:12:19 GMT | Sublist3r: The New Update (V3.0) | Shaheer Yasir | [Read More](https://medium.com/p/bc2abebc7a2c) |
+| Wed, 01 Oct 2025 14:01:58 GMT | Cyber Briefing: 2025.10.01 | CyberMaterial | [Read More](https://medium.com/p/54e14685f04f) |
+| Wed, 01 Oct 2025 14:01:55 GMT | ABTU: Real Utility, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/00b0f3cdb4e8) |
+| Wed, 01 Oct 2025 13:57:25 GMT | Protect Yourself Online with FraudExpose.org | Lucas Sanchiez | [Read More](https://medium.com/p/0348b8a73810) |
+| Wed, 01 Oct 2025 13:57:25 GMT | Top Maritime Security Services Dubai for Safe Operations and Vessels | Delight international Security Services | [Read More](https://medium.com/p/12a95f1ebd33) |
+| Wed, 01 Oct 2025 13:50:59 GMT | Incident Response: What to Do When a Breach Happens | IPSpecialist | [Read More](https://medium.com/p/b346189aedf7) |
+| Wed, 01 Oct 2025 13:50:00 GMT | Is It Morally Right to Legalize Data Privacy in Bangladesh? | Sakhiur Rahman | [Read More](https://medium.com/p/b69f0dd86c14) |
+| Wed, 01 Oct 2025 13:47:49 GMT | Startup Walkthrough Tryhackme | Mainekhacker | [Read More](https://medium.com/p/148cae281217) |
+| Wed, 01 Oct 2025 13:38:16 GMT | PG Practice — Peppo (Linux) | Lepton | [Read More](https://medium.com/p/4aeddcefb3ed) |
+| Wed, 01 Oct 2025 13:35:37 GMT | Drosera Update V 1.23.1 : Stronger, Safer, and Ready for the Future of DeFi | npccrypto | [Read More](https://medium.com/p/6b61f464805d) |
+| Wed, 01 Oct 2025 13:32:08 GMT | How I Structure My Learning to Stay Ahead in Cybersecurity | Andrei Ivan | [Read More](https://medium.com/p/ee938546c0cd) |
+| Wed, 01 Oct 2025 13:26:30 GMT | ✈️ Why Do Flight Fares in India Change So Much? | Traventurs | [Read More](https://medium.com/p/a3bbc881208b) |
 | Wed, 01 Oct 2025 13:22:52 GMT | Unverified Email Change Vulnerability Leading to Account Takeover | Abhishek sharma | [Read More](https://medium.com/p/1bcd5b09f0e5) |
 | Wed, 01 Oct 2025 13:18:26 GMT | 30-Minute Expert Review: 10 Steps to Scan Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/2bccee6038cb) |
 | Wed, 01 Oct 2025 13:17:50 GMT | Top 5 Cybersecurity Mistakes Everyone Makes (Without Realizing It) | Aj | [Read More](https://medium.com/p/62f82e26beea) |
@@ -21,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 13:11:03 GMT | Encryption Series — Part 1: Encryption Fundamentals | Aditya Prakash | [Read More](https://medium.com/p/e1650d54b211) |
 | Wed, 01 Oct 2025 13:07:48 GMT | I Secured My Network in Under 10 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/d674e0636770) |
 | Wed, 01 Oct 2025 13:07:07 GMT | Windows Firewall vs. Avira — Which One Protects You Better? | Cordula Boeck | [Read More](https://medium.com/p/4aa2f5df8cf0) |
+| Wed, 01 Oct 2025 13:02:36 GMT | ZF stellt harten Sparkurs für Antriebssparte vor | Julia Ahrens | [Read More](https://medium.com/p/678751f19caf) |
 | Wed, 01 Oct 2025 13:01:51 GMT | Cybersecurity Myths | SAM Cyber Coaching | [Read More](https://medium.com/p/6849c87bb733) |
 | Wed, 01 Oct 2025 13:01:51 GMT | PCI DSS 6.4.3 Script Management: What CISOs Actually Need to Know | Feroot Security | [Read More](https://medium.com/p/ed7cce635b2c) |
 | Wed, 01 Oct 2025 12:56:52 GMT | What is 2FA/MFA and why it matters - SMS, App, Hardware Keys | devmihaylov | [Read More](https://medium.com/p/4c4fbd0ce943) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 09:06:03 GMT | The Hookup That Accidentally Turned Into the Most Honest Conversation of My Life | Unknown | [Read More](https://medium.com/p/c23a5ba66c4e) |
 | Wed, 01 Oct 2025 09:03:26 GMT | Relearning Emotional Language: How Couples Can Build Shared Vocabulary to Heal Together | Wilson Igbasi | [Read More](https://medium.com/p/ffec96aaf1e6) |
 | Wed, 01 Oct 2025 08:59:03 GMT | Cybersecurity and the California Consumer Privacy Act (CCPA) | Cyber Security Research | [Read More](https://medium.com/p/81d778d7ce3c) |
-| Wed, 01 Oct 2025 08:49:01 GMT | Detecting Lateral Movements in Enterprise Networks | Ash | [Read More](https://medium.com/p/da4d165d8065) |
-| Wed, 01 Oct 2025 08:45:23 GMT | Vulnverse: MediLabs NG- Walkthrough | Bharat | [Read More](https://medium.com/p/a60f77f6101b) |
-| Wed, 01 Oct 2025 08:44:58 GMT | The Daily Tech Digest: 01 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0a84be79546f) |
-| Wed, 01 Oct 2025 08:44:49 GMT | 【CCSP 雲端學習分享】雲端稽核必懂：SOC 報告（SOC 1, 2, 3）的類型與差異詳解 | Yunghan | [Read More](https://medium.com/p/8f4bebb1e18b) |
-| Wed, 01 Oct 2025 08:44:43 GMT | CrowdStrike Fal.con 2025 and why cyber security will never be the same after Agentic AI | Andre Camillo, CISSP | [Read More](https://medium.com/p/9cbc6097077c) |
-| Wed, 01 Oct 2025 08:44:35 GMT | DockerLabs Writeup — Pressenter (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0da7662a921b) |
-| Wed, 01 Oct 2025 08:43:48 GMT | When Self-Protection Becomes Walls: The Paradox of Emotional Armor in Love | Wilson Igbasi | [Read More](https://medium.com/p/e9c724706fe0) |
-| Wed, 01 Oct 2025 08:43:23 GMT | Cybersecurity for Smart Homes: Securing Your Connected Devices | Cyber Security Research | [Read More](https://medium.com/p/88b641c4b087) |
-| Wed, 01 Oct 2025 08:39:41 GMT | A Day In the Life of SOC Analyst L1 (Inhouse) | Tejavivek | [Read More](https://medium.com/p/5d996f24c5e7) |
-| Wed, 01 Oct 2025 08:32:06 GMT | The Hidden Role of Shame in Relationship Silence: Reclaiming Your Voice | Wilson Igbasi | [Read More](https://medium.com/p/69aece495ac1) |
-| Wed, 01 Oct 2025 08:26:38 GMT | Smart Safeguard | Office | [Read More](https://medium.com/p/2a170b5de73e) |
-| Wed, 01 Oct 2025 08:23:41 GMT | Trusted Protection | Office | [Read More](https://medium.com/p/99ec62402898) |
-| Wed, 01 Oct 2025 08:21:58 GMT | ভবিষ্যতের নিরাপত্তা: Nym-এর পোস্ট-কোয়ান্টাম রোডম্যাপ | Rabib Bin Nur | [Read More](https://medium.com/p/867f15982032) |
