@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 08:43:23 GMT | Cybersecurity for Smart Homes: Securing Your Connected Devices | Cyber Security Research | [Read More](https://medium.com/p/88b641c4b087) |
+| Wed, 01 Oct 2025 08:39:41 GMT | A Day In the Life of SOC Analyst L1 (Inhouse) | Tejavivek | [Read More](https://medium.com/p/5d996f24c5e7) |
+| Wed, 01 Oct 2025 08:32:06 GMT | The Hidden Role of Shame in Relationship Silence: Reclaiming Your Voice | Wilson Igbasi | [Read More](https://medium.com/p/69aece495ac1) |
+| Wed, 01 Oct 2025 08:26:38 GMT | Smart Safeguard | Office | [Read More](https://medium.com/p/2a170b5de73e) |
 | Wed, 01 Oct 2025 08:23:41 GMT | Trusted Protection | Office | [Read More](https://medium.com/p/99ec62402898) |
+| Wed, 01 Oct 2025 08:21:58 GMT | ভবিষ্যতের নিরাপত্তা: Nym-এর পোস্ট-কোয়ান্টাম রোডম্যাপ | Rabib Bin Nur | [Read More](https://medium.com/p/867f15982032) |
 | Wed, 01 Oct 2025 08:21:11 GMT | Drosera: From Reflex to Intelligence | 0xysad | [Read More](https://medium.com/p/2ca522ba91d2) |
 | Wed, 01 Oct 2025 08:18:58 GMT | Implementasi SSDLC Awal dengan GitHub Actions | Otta | [Read More](https://medium.com/p/f65246c6d38d) |
 | Wed, 01 Oct 2025 08:18:43 GMT | Secure, Smart, HandsFree | Office | [Read More](https://medium.com/p/d60b16e82314) |
+| Wed, 01 Oct 2025 08:14:30 GMT | ประจำวันพุธที่ 1 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bd4d2516c765) |
 | Wed, 01 Oct 2025 08:07:16 GMT | “AI Will Steal Your Job!” — Said Every Media Outlet That Doesn’t Read Studies | Dr Rita Pal | [Read More](https://medium.com/p/4dbe78f5cd04) |
 | Wed, 01 Oct 2025 08:07:01 GMT | Debugging Spring OAuth2: Fixing Login Loops, CSRF, and Jackson Errors | Jagriti Srivastava | [Read More](https://medium.com/p/7a8789a18528) |
 | Wed, 01 Oct 2025 08:05:15 GMT | Somatic Avoidance: When the Body Hides What the Mind Can’t Face | Wilson Igbasi | [Read More](https://medium.com/p/6d38d2ce010f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 01:42:07 GMT | The 10 Security Mistakes That Nearly Broke My Apps — Before I Learned OWASP | AshokReddy | [Read More](https://medium.com/p/199b01d4f50e) |
 | Wed, 01 Oct 2025 01:19:25 GMT | A dev’s guide to hacking DoD compliance | Via Knowledge Hub | [Read More](https://medium.com/p/d3e167f3563a) |
 | Wed, 01 Oct 2025 01:14:27 GMT | The Hidden Roadblocks: Why Quantum Computing Still Isn’t Ready for Prime Time | The Deep Frame | [Read More](https://medium.com/p/34dacb85e115) |
-| Wed, 01 Oct 2025 01:12:23 GMT | Concerning News: My Thoughts Have Their Own Agenda | Siahn | [Read More](https://medium.com/p/324af74a6ad8) |
-| Wed, 01 Oct 2025 00:51:51 GMT | Understanding Microservices: Architecture, Security, and Best Practices | Raviteja Mureboina | [Read More](https://medium.com/p/52a5c1abd0a6) |
-| Wed, 01 Oct 2025 00:48:59 GMT | Foundations of Information Gathering | N0H4TS | [Read More](https://medium.com/p/d6b7119ed44c) |
-| Wed, 01 Oct 2025 00:22:55 GMT | Weekly Threat Intelligece Report 30 Sep 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/a1e1b7981116) |
-| Wed, 01 Oct 2025 00:10:42 GMT | The Love Bombs That Cost Americans $697 Million: Decoding Romance Scammer Phrases | Napoleon Beltran | [Read More](https://medium.com/p/5f75671763a1) |
-| Wed, 01 Oct 2025 00:01:57 GMT | The Veil of Ignorance: Why We’d Never Choose a Surveillance State | Ian McIntire, MPA | [Read More](https://medium.com/p/c7c16d6eb9e8) |
