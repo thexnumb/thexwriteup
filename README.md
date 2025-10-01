@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 03:06:16 GMT | Top 15 Ethical Hacking Tools You Must Know in 2025 | Maxon Codes | [Read More](https://medium.com/p/2effbcf34be7) |
+| Wed, 01 Oct 2025 02:32:45 GMT | OEM Sponsorship in Cybersecurity Communities: Why It’s the Next Big Play | Dr. Deep Pandey | [Read More](https://medium.com/p/e62bdef6a329) |
+| Wed, 01 Oct 2025 01:58:24 GMT | SQLMap: The Basics - THM | Isiah | [Read More](https://medium.com/p/6da8f69ad1c0) |
+| Wed, 01 Oct 2025 01:50:49 GMT | KnowPhish: teaching LLMs and knowledge graphs to spot sneaky phishing pages | Chris Zhang | [Read More](https://medium.com/p/27f003dfa662) |
+| Wed, 01 Oct 2025 01:47:07 GMT | Cybersecurity: Five Principles You Absolutely Should Follow | mohandika | [Read More](https://medium.com/p/1a633a527ef0) |
+| Wed, 01 Oct 2025 01:42:07 GMT | The 10 Security Mistakes That Nearly Broke My Apps — Before I Learned OWASP | AshokReddy | [Read More](https://medium.com/p/199b01d4f50e) |
 | Wed, 01 Oct 2025 01:19:25 GMT | A dev’s guide to hacking DoD compliance | Via Knowledge Hub | [Read More](https://medium.com/p/d3e167f3563a) |
 | Wed, 01 Oct 2025 01:14:27 GMT | The Hidden Roadblocks: Why Quantum Computing Still Isn’t Ready for Prime Time | The Deep Frame | [Read More](https://medium.com/p/34dacb85e115) |
 | Wed, 01 Oct 2025 01:12:23 GMT | Concerning News: My Thoughts Have Their Own Agenda | Siahn | [Read More](https://medium.com/p/324af74a6ad8) |
@@ -107,9 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 17:16:44 GMT | CVE-2024–3400: Attackers Revive a Palo Alto GlobalProtect RCE — Exploitation and Detection | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/118eb578a3e3) |
 | Tue, 30 Sep 2025 17:14:17 GMT | The CISO’s Guide to Taming the SIEM Cost Curve | Graylog | [Read More](https://medium.com/p/0d46ef939840) |
 | Tue, 30 Sep 2025 17:11:11 GMT | Our Security Team Wants Zero CVEs in Production. Our Containers Have 200+. What’s Realistic? | Ajay Kumar | [Read More](https://medium.com/p/74e3cb5a69cb) |
-| Tue, 30 Sep 2025 17:08:57 GMT | MQTT (Mosquitto) — Bugged TryHackMe (walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/b39d49e0cf9e) |
-| Tue, 30 Sep 2025 17:06:18 GMT | Laravel Turbo + Auth0: The Speed-Security Combo Your App’s Been Missing | Sadique Ali | [Read More](https://medium.com/p/a57bcf3af5e8) |
-| Tue, 30 Sep 2025 17:05:33 GMT | Become a Linux Forensics Investigator: A Walkthrough of the Linux File System Analysis Room | Furkanctiner | [Read More](https://medium.com/p/63258e9e3288) |
-| Tue, 30 Sep 2025 17:04:03 GMT | Turning Blind Error Based SQL Injection into Exploitable Boolean One Part 2: MySQL | Ozgur Alp | [Read More](https://medium.com/p/ecf1dbe5352f) |
-| Tue, 30 Sep 2025 17:01:52 GMT | Died From the Inside | Is | [Read More](https://medium.com/p/3b41569e9954) |
-| Tue, 30 Sep 2025 16:59:52 GMT | “Every Day Someone Tries to Break Our Support Bot.” | Ajay Kumar | [Read More](https://medium.com/p/9af317d81171) |
