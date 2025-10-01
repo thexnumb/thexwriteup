@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 04:36:28 GMT | How to Learn Bug Bounty In Easy Way: A Simple Guide for Beginners | Kakashi | [Read More](https://medium.com/p/a15d3e87a4fe) |
+| Wed, 01 Oct 2025 04:33:47 GMT | InfoSec Wheel — Roda Pengaman di Dunia Siber | Jadi Hacker | [Read More](https://medium.com/p/6fbf86594359) |
+| Wed, 01 Oct 2025 04:32:54 GMT | ️Packet Loss Taught Me More About Hacking Than Any Textbook | Nithishkumar R | [Read More](https://medium.com/p/178a02579e8a) |
+| Wed, 01 Oct 2025 04:27:23 GMT | Big Data : Ekosistem Hadoop — Pig dan Hive | Yasa Wijaya | [Read More](https://medium.com/p/998d4515c298) |
+| Wed, 01 Oct 2025 04:23:00 GMT | Cyber and Space Warfare: New Frontiers of India’s Defence Strategy | UI Newz | [Read More](https://medium.com/p/a0af41885c3d) |
+| Wed, 01 Oct 2025 04:22:37 GMT | Amazon Comprehend Medical: NLP for Healthcare Data | Rizqi Mulki | [Read More](https://medium.com/p/323b373c59d4) |
+| Wed, 01 Oct 2025 04:20:43 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/be8f5801f2b3) |
+| Wed, 01 Oct 2025 04:19:08 GMT | PostgreSQL on AWS RDS: 7 Performance Traps You Must Avoid | Rizqi Mulki | [Read More](https://medium.com/p/a4418e6ad659) |
+| Wed, 01 Oct 2025 04:17:29 GMT | The IT Consulting Services Complete Guide: Benefits, Types, and Market Growth | TST Technology | [Read More](https://medium.com/p/7b8b657a7402) |
 | Wed, 01 Oct 2025 04:16:08 GMT | PostgreSQL JSONB Queries That Will Bankrupt Your Performance | Rizqi Mulki | [Read More](https://medium.com/p/a09065c6867a) |
 | Wed, 01 Oct 2025 04:12:55 GMT | Why Your PostgreSQL Indexes Don’t Work the Way You Think | Rizqi Mulki | [Read More](https://medium.com/p/f9b640440200) |
 | Wed, 01 Oct 2025 04:05:17 GMT | Cyber Warfare in Disguise: How Phishing Targets Military Systems | Mukul Gulia | [Read More](https://medium.com/p/474620b4057c) |
@@ -104,12 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 18:26:04 GMT | The $1.4 Million Question: Why Social Engineering is Still Hacking the System | Krishnakaiwartya | [Read More](https://medium.com/p/1b1a45efa9fd) |
 | Tue, 30 Sep 2025 18:20:34 GMT | This Is How AI Is Rewriting the Rules of Cyber Warfare | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/1ada3bcac1f8) |
 | Tue, 30 Sep 2025 18:19:57 GMT | CodePartTwo HTB Walkthrough — RCE via js2py (CVE‑2024‑28397) & Root Escalation | Death Esther | [Read More](https://medium.com/p/fe66b1454466) |
-| Tue, 30 Sep 2025 18:18:05 GMT | ️ Securing Enterprise AI: Mitigating Prompt Tampering in Large Language Models | Ankit Shah | [Read More](https://medium.com/p/af5655197616) |
-| Tue, 30 Sep 2025 18:15:25 GMT | Prompt Injection in LLMs: The New Age of Hacking | Sai Charan Kummetha | [Read More](https://medium.com/p/330287b067b3) |
-| Tue, 30 Sep 2025 18:14:19 GMT | HTTP/1.1 Must Die — And Why You Should Care (Even If You Think You’re Safe) | Shailesh Nanwani | [Read More](https://medium.com/p/2be158719564) |
-| Tue, 30 Sep 2025 18:12:53 GMT | The Ultimate Guide to API Reconnaissance: Finding Undocumented Endpoints | Andrei Ivan | [Read More](https://medium.com/p/449605d92ce7) |
-| Tue, 30 Sep 2025 18:11:26 GMT | Mastering Kubernetes Ingress: From Weekend Warrior to Production Hero | Salwan Mohamed | [Read More](https://medium.com/p/cde555751c7b) |
-| Tue, 30 Sep 2025 18:01:51 GMT | HTMLI → XSS → SSTI → RCE — Laboratorio práctico paso a paso | Gorka | [Read More](https://medium.com/p/edd26e47ffdd) |
-| Tue, 30 Sep 2025 17:47:04 GMT | The Rise of Cyber Security | Matthew Welsh | [Read More](https://medium.com/p/bf87ee5d4f77) |
-| Tue, 30 Sep 2025 17:41:48 GMT | Windows: Detect Security Breaches Using Malwarebytes. | hp | [Read More](https://medium.com/p/c32ad1002715) |
-| Tue, 30 Sep 2025 17:39:03 GMT | I Tried BDSM for the First Time — and It Changed Everything | Unknown | [Read More](https://medium.com/p/d04859859e2e) |
