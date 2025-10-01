@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 07:34:20 GMT | When Spreadsheets Turn Hostile: My Deep Dive into the CABINETRAT Backdoor and Why Every Excel File… | Germano Costi | [Read More](https://medium.com/p/ba796ca853f3) |
+| Wed, 01 Oct 2025 07:33:27 GMT | The 6 Archetypes of Cybersecurity: And Why You’re Probably in the Wrong Domain. | Dr Joseph Ikhalia | [Read More](https://medium.com/p/583c9c608356) |
+| Wed, 01 Oct 2025 07:21:49 GMT | The Future of IoT Connectivity Protocols | Giulio Sistilli | [Read More](https://medium.com/p/6740360fad36) |
+| Wed, 01 Oct 2025 07:21:48 GMT | Starting Your Cybersecurity Journey in 2026: A Beginner’s Roadmap | Syed Mohammed Murtaza | [Read More](https://medium.com/p/14c910c73694) |
+| Wed, 01 Oct 2025 07:18:28 GMT | Advanced Python Techniques That Actually Changed My Workflow | Kainat Nafees | [Read More](https://medium.com/p/52c798e8f6d9) |
+| Wed, 01 Oct 2025 07:17:59 GMT | Building Reliable Software: How to Stop Common Bugs Before They Appear | Doing_Software_Right | [Read More](https://medium.com/p/cf78af92dd81) |
 | Wed, 01 Oct 2025 07:15:44 GMT | “¿Y si tu nevera te hackea? La ciberseguridad en la vida diaria que no vemos” | AVH04 | [Read More](https://medium.com/p/ba0fd94daf5f) |
 | Wed, 01 Oct 2025 07:11:57 GMT | Teaching Programming, Learning Security: Lessons from the Classroom | Navya Shah | [Read More](https://medium.com/p/21aaae70507e) |
 | Wed, 01 Oct 2025 07:08:33 GMT | The Weight Of | Michele Luckenbaugh | [Read More](https://medium.com/p/0dab408706b2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Sep 2025 22:27:29 GMT | The Challenges of Securing Autonomous Vehicles | Samina Perveen | [Read More](https://medium.com/p/8afc2024cc4e) |
 | Tue, 30 Sep 2025 22:11:37 GMT | Code Control | ekomsSavior | [Read More](https://medium.com/p/f2fa79ddb09e) |
 | Tue, 30 Sep 2025 22:11:20 GMT | Top 10 Critical Google Dorks for Advanced Bug Bounty & Web Penetration Testing | Rajput Haxor Aka Rudra Pratap Singh | [Read More](https://medium.com/p/abbfdeda879b) |
-| Tue, 30 Sep 2025 22:09:15 GMT | Join the CVE Program’s Automation Working Group (AWG)! | CVE Program Blog | [Read More](https://medium.com/p/ba1a28245aed) |
-| Tue, 30 Sep 2025 22:07:54 GMT | Brooklyn Nine Nine writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/2528b738a1f2) |
-| Tue, 30 Sep 2025 22:01:52 GMT | The Hidden Bottleneck in CI/CD Pipelines: Mismanaged Docker Images | Web3 Nautiyal | [Read More](https://medium.com/p/c12bb97fdd3d) |
-| Tue, 30 Sep 2025 21:47:57 GMT | Kyverno Deep Dive: Installing and Configuring Your Kubernetes Policy Engine (Part 2/5) | Salwan Mohamed | [Read More](https://medium.com/p/abc9af3f7b40) |
-| Tue, 30 Sep 2025 21:46:39 GMT | Designing Trust: Security and Privacy as Core UX Principles | Charlotte Rhodes | [Read More](https://medium.com/p/71834eca216c) |
-| Tue, 30 Sep 2025 21:39:51 GMT | Setup Splunk & Sysmon if you have a Mac Apple Silicon | Mcl0ng0ng | [Read More](https://medium.com/p/7e7d0642df98) |
