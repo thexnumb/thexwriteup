@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 11:14:35 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/22c543a3ff01) |
+| Wed, 01 Oct 2025 11:07:34 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/a339e95ae645) |
+| Wed, 01 Oct 2025 11:05:32 GMT | Regulatory and Safety in Hydraulic Accumulators: A High-Pressure Responsibility | Whyps | [Read More](https://medium.com/p/4432eb149893) |
+| Wed, 01 Oct 2025 11:05:22 GMT | SEO Pricing Explained: A Clear Guide for Business Owners | Bhavesh Rajpurohit | [Read More](https://medium.com/p/fc1beaefea96) |
+| Wed, 01 Oct 2025 11:05:07 GMT | Protect Your Privacy: How to Minimize Your Digital Footprint with Utopia P2P | Utopia P2P | [Read More](https://medium.com/p/3937b2febfe1) |
+| Wed, 01 Oct 2025 11:01:58 GMT | The Rise of Quantum-Safe Cryptography: What Developers Need to Know Now | Pratap Sahu | [Read More](https://medium.com/p/534c073dfd90) |
+| Wed, 01 Oct 2025 10:57:40 GMT | NYC SIM Server Seizure Reveals Nation-State Telecom Threats | Karl Buhl | [Read More](https://medium.com/p/5fee4a45bb19) |
+| Wed, 01 Oct 2025 10:56:44 GMT | Russia–Ukraine War: Latest Updates (30 September 2025) | Hunain Ali | [Read More](https://medium.com/p/c1a3188d4147) |
+| Wed, 01 Oct 2025 10:55:45 GMT | Network’s Digital Footprint | Infra & Network Core | [Read More](https://medium.com/p/c5dee113d83e) |
+| Wed, 01 Oct 2025 10:55:17 GMT | The Lazy Hacker’s Guide: 5 Python Shortcuts That Do the Dirty Work | Muhummad Zaki | [Read More](https://medium.com/p/8ea819af06ce) |
+| Wed, 01 Oct 2025 10:53:58 GMT | Build a Stable IT Career with Expert DevOps Training? | Mohammed Numan | [Read More](https://medium.com/p/b8d45cd7eaff) |
+| Wed, 01 Oct 2025 10:50:37 GMT | Authbition Weekly — Adding My Voice to My Writing | Andrew J. DiMeo, Sr., Ph.D. | [Read More](https://medium.com/p/0a88c9f3bbbb) |
+| Wed, 01 Oct 2025 10:49:03 GMT | Network Forensics | Infra & Network Core | [Read More](https://medium.com/p/49225c7c9239) |
+| Wed, 01 Oct 2025 10:48:09 GMT | Want to Find Bugs? Learn HTTP First! | mohandika | [Read More](https://medium.com/p/295bd7dbe645) |
+| Wed, 01 Oct 2025 10:46:15 GMT | Wget for Privelege Escalation — Wgel CTF (THM walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/01c5b6572c49) |
+| Wed, 01 Oct 2025 10:43:41 GMT | Network Autopsy | Infra & Network Core | [Read More](https://medium.com/p/60f6e4c9d641) |
+| Wed, 01 Oct 2025 10:41:51 GMT | Corporate Greed Chronicles: How Pursuit of Profit Poisons the Public Square | Namir Sagheenanajar | [Read More](https://medium.com/p/5e8a091e0694) |
 | Wed, 01 Oct 2025 10:41:37 GMT | Top 10 IoT Pentesting Tools Every Security Tester Should Know | cyber security Updates | [Read More](https://medium.com/p/23faf1167c68) |
+| Wed, 01 Oct 2025 10:31:51 GMT | WebAuthn Explained: Logging In Without Passwords | Natarajan C K | [Read More](https://medium.com/p/9bcc11486857) |
 | Wed, 01 Oct 2025 10:24:13 GMT | Cryptography: The Silent Guardian Of Cybersecurity | Redfox Security | [Read More](https://medium.com/p/169cbad7b0bc) |
 | Wed, 01 Oct 2025 10:23:53 GMT | Security and Performance Aspects of Networking Performance | Eren Cankut Uysal | [Read More](https://medium.com/p/e623ad59e63d) |
 | Wed, 01 Oct 2025 10:18:53 GMT | Usability Meets Security | Ivan Junior | [Read More](https://medium.com/p/88e39699be03) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 06:17:50 GMT | The Cloud Misconfiguration Checklist: 10 Critical Flaws to Find Before Attackers Do | Andrei Ivan | [Read More](https://medium.com/p/3adc6f38615b) |
 | Wed, 01 Oct 2025 06:04:53 GMT | Network Reconnaissance | Infra & Network Core | [Read More](https://medium.com/p/34dcfe75aa74) |
 | Wed, 01 Oct 2025 06:02:54 GMT | Application Security Tools: Synk, black duck, etc | Alice Dai | [Read More](https://medium.com/p/d57a640293fb) |
-| Wed, 01 Oct 2025 06:02:54 GMT | Train your mind, your thoughts will thank you. | Nimrev | [Read More](https://medium.com/p/068ab12d74f9) |
-| Wed, 01 Oct 2025 05:59:13 GMT | FastAPI Security Best Practices: Defending Against Common Threats | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/58fbd6a15fd2) |
-| Wed, 01 Oct 2025 05:55:39 GMT | The Dopamine Trap: Why Most Hackers Quit Before They Find the Big Bugs | Đeepanshu | [Read More](https://medium.com/p/873ca6185799) |
-| Wed, 01 Oct 2025 05:54:22 GMT | Kickstart Your Cybersecurity Journey — Certified Ethical Hacking Foundation (CEHF) | Adhiraj Kasabe | [Read More](https://medium.com/p/fcfdf651f40a) |
-| Wed, 01 Oct 2025 05:50:33 GMT | The AI SOC Revolution: How Machine Learning is Transforming Cybersecurity Operations in 2025 | Biplove Yadav | [Read More](https://medium.com/p/73522c303e00) |
-| Wed, 01 Oct 2025 05:45:20 GMT | PicoCTF Writeups: Reverse Engineering Challenges (WinAntiDbgx100, WinAntiDbgx200, WinAntiDbgx300) | Talal Ali Khan | [Read More](https://medium.com/p/53548333ec57) |
-| Wed, 01 Oct 2025 05:42:58 GMT | Apache Struts 0-Day (CVE-2018–11776) — a little story and what I learned | Itsarly | [Read More](https://medium.com/p/fc5f278e9c23) |
-| Wed, 01 Oct 2025 05:38:41 GMT | SQL Injection — | Balki Maharaj | [Read More](https://medium.com/p/d35d706e37eb) |
-| Wed, 01 Oct 2025 05:30:20 GMT | Information Technology Solutions for Governments and Critical Infrastructure | Ctrl Zine | [Read More](https://medium.com/p/069ae7acb4de) |
-| Wed, 01 Oct 2025 05:28:39 GMT | LFI Bypasses | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/30ed83275858) |
-| Wed, 01 Oct 2025 05:23:44 GMT | White-box Testing: A Critical Bug on Reset Password | Pagar Alam | [Read More](https://medium.com/p/b3eb1640ded5) |
-| Wed, 01 Oct 2025 05:23:38 GMT | Mapping Cyber Adversaries: How MITRE ATT&CK Helps You See Attacks Before They Happen | Matt Black | [Read More](https://medium.com/p/fe2ccc488e35) |
-| Wed, 01 Oct 2025 05:18:07 GMT | Local File Inclusion | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/e517ce21a6ed) |
-| Wed, 01 Oct 2025 05:16:12 GMT | Connecting the Dots of Vulnerability | Joshua Dimasaka | [Read More](https://medium.com/p/992641369747) |
-| Wed, 01 Oct 2025 05:15:42 GMT | Auditd Advanced Usage Implementation and Troubleshooting | Eren Cankut Uysal | [Read More](https://medium.com/p/cbc215c6ac09) |
-| Wed, 01 Oct 2025 05:12:59 GMT | Understanding OAuth 2.0 Client Credentials Grant | Florian Röser | [Read More](https://medium.com/p/5b147354a5aa) |
-| Wed, 01 Oct 2025 05:03:23 GMT | Oversharing Is How You Leak Your Energy | Ayushi Jindal | [Read More](https://medium.com/p/fe10c772fbf9) |
-| Wed, 01 Oct 2025 05:02:47 GMT | How Cybersecurity Teams Actually Use AI (With Code Examples) | Aj | [Read More](https://medium.com/p/b6fa4dcf6c4e) |
