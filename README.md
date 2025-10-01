@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 04:16:08 GMT | PostgreSQL JSONB Queries That Will Bankrupt Your Performance | Rizqi Mulki | [Read More](https://medium.com/p/a09065c6867a) |
+| Wed, 01 Oct 2025 04:12:55 GMT | Why Your PostgreSQL Indexes Don’t Work the Way You Think | Rizqi Mulki | [Read More](https://medium.com/p/f9b640440200) |
+| Wed, 01 Oct 2025 04:05:17 GMT | Cyber Warfare in Disguise: How Phishing Targets Military Systems | Mukul Gulia | [Read More](https://medium.com/p/474620b4057c) |
+| Wed, 01 Oct 2025 04:03:10 GMT | Latest Changes Applied From Refactored Design to Improved AI Utilities in NucAIScan v1.3 | Onurcan Genç | [Read More](https://medium.com/p/e2114e725c76) |
+| Wed, 01 Oct 2025 04:01:38 GMT | Bugs on the Road by CosmicWallace | COSMICWALLACE | [Read More](https://medium.com/p/82c7b8f3a0ad) |
+| Wed, 01 Oct 2025 03:52:59 GMT | Inside the Mind of a Hacker: How They Really Break In | Arfa | [Read More](https://medium.com/p/b91fa7b2fceb) |
+| Wed, 01 Oct 2025 03:52:03 GMT | CORS Misadventures: How Misconfigured Origins Turned Me Into an Accidental Admin | Iski | [Read More](https://medium.com/p/2107aa1768d6) |
 | Wed, 01 Oct 2025 03:47:45 GMT | The Dark Side of Free Wi-Fi: What I Learned the Hard Way | Arfa | [Read More](https://medium.com/p/fa2b750bbc8d) |
 | Wed, 01 Oct 2025 03:23:38 GMT | How I Secure My Linux Servers: Best Practices for 2025 | Pawan Natekar | [Read More](https://medium.com/p/5e38c6839229) |
 | Wed, 01 Oct 2025 03:06:16 GMT | Top 15 Ethical Hacking Tools You Must Know in 2025 | Maxon Codes | [Read More](https://medium.com/p/2effbcf34be7) |
@@ -106,10 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 17:47:04 GMT | The Rise of Cyber Security | Matthew Welsh | [Read More](https://medium.com/p/bf87ee5d4f77) |
 | Tue, 30 Sep 2025 17:41:48 GMT | Windows: Detect Security Breaches Using Malwarebytes. | hp | [Read More](https://medium.com/p/c32ad1002715) |
 | Tue, 30 Sep 2025 17:39:03 GMT | I Tried BDSM for the First Time — and It Changed Everything | Unknown | [Read More](https://medium.com/p/d04859859e2e) |
-| Tue, 30 Sep 2025 17:37:48 GMT | The AI Security Apocalypse: How Hackers Just Turned Your Smartest Business Tool Into Their Skeleton… | Max Petrusenko | [Read More](https://medium.com/p/8818b8efcc5a) |
-| Tue, 30 Sep 2025 17:33:48 GMT | Cloud and Digital Infrastructure Risks in Digital Governance | Ishan Tandon | [Read More](https://medium.com/p/dac5ee561056) |
-| Tue, 30 Sep 2025 17:32:43 GMT | XSS Attacks: Understanding and Preventing Cross-Site Scripting | SafeAeon Inc. | [Read More](https://medium.com/p/cf2a2027bc59) |
-| Tue, 30 Sep 2025 17:31:21 GMT | Units.Network implementing Safe multisig, focusing on clarity, depth, and natural flow: | 0x3dot | [Read More](https://medium.com/p/83536bada054) |
-| Tue, 30 Sep 2025 17:27:01 GMT | Python Power Moves Every Developer Should Know | Kainat Nafees | [Read More](https://medium.com/p/416e85d1dda6) |
-| Tue, 30 Sep 2025 17:22:02 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and “Use cases of Perplexity Comet browser and… | Nitin Garg | [Read More](https://medium.com/p/edcdffbabd91) |
-| Tue, 30 Sep 2025 17:21:01 GMT | Breaking the Myth: Why Security Is Everyone’s Responsibility in Modern DevOps | Salwan Mohamed | [Read More](https://medium.com/p/a8e91a0968bf) |
