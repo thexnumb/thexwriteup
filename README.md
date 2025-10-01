@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 16:40:57 GMT | [ Pre-order, Amazon ] Google Nest Cam Outdoor (Wired, 2nd Gen) Security Camera with 2K Video and… | Tech Stories Online | [Read More](https://medium.com/p/c0269ddb9d6d) |
+| Wed, 01 Oct 2025 16:34:35 GMT | WCF Hunting: A Deep Dive into Windows Communication Foundation Security Analysis | crązŷrąiɲ | [Read More](https://medium.com/p/b0c97d527e5f) |
+| Wed, 01 Oct 2025 16:31:28 GMT | How Hackers Are Using AI to Hack People and How You Can Fight Back | Ishtiyak  Surve | [Read More](https://medium.com/p/adc1127ed047) |
+| Wed, 01 Oct 2025 16:23:56 GMT | “2025 CWE™ Most Important Hardware Weaknesses” Now Available | CWE Program | [Read More](https://medium.com/p/2bbe29f85b1a) |
 | Wed, 01 Oct 2025 16:18:04 GMT | CVE-2025–9712: How a Filename Became a Backdoor in Ivanti Endpoint Manager | gm0 | [Read More](https://medium.com/p/72595ec10c0d) |
 | Wed, 01 Oct 2025 16:16:53 GMT | TryHackMe Bounty Hacker Writeup | sabR | [Read More](https://medium.com/p/e2d941cd08d7) |
 | Wed, 01 Oct 2025 16:12:35 GMT | Powershell Execution Parametreleri ve Blue Team Perspektifi | Necati Ustun | [Read More](https://medium.com/p/27213e586cc1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 12:01:53 GMT | The Silent AI Killer: How Cloudflare’s Hyper-Volumetric Shields Defy the 2025 DDoS Apocalypse | Akhilesh Yadav | [Read More](https://medium.com/p/da4bdde2f35e) |
 | Wed, 01 Oct 2025 12:01:53 GMT | Privacy or Security? The Political Dilemma of the Digital Age | Kerim Kabakbaş | [Read More](https://medium.com/p/b1d2c944df6b) |
 | Wed, 01 Oct 2025 12:00:11 GMT | Building a Bulletproof Penguin: A Linux Hardening Guide with TryHackMe | Furkanctiner | [Read More](https://medium.com/p/0dd562734595) |
-| Wed, 01 Oct 2025 11:54:48 GMT | Getting to Know the Social Engineering Toolkit (SET) | mohandika | [Read More](https://medium.com/p/5c06e297f006) |
-| Wed, 01 Oct 2025 11:51:18 GMT | Blast-Resistant Doors vs High-Security Doors: Key Differences for Optimal Protection | Ecotone | [Read More](https://medium.com/p/8abc0d4832fd) |
-| Wed, 01 Oct 2025 11:36:27 GMT | Can I Check Whether My Device is Hacked? | Rashadul Islam | [Read More](https://medium.com/p/a306f64018fd) |
-| Wed, 01 Oct 2025 11:33:44 GMT | Cybersecurity Awareness Month: Hidden Threats You Didn’t Know Could Harm You | Recover Right | [Read More](https://medium.com/p/1a31dedd245c) |
