@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 09:11:59 GMT | Powerful Cybersecurity Tools for Hacker_Now Available | Webdev Carlos | [Read More](https://medium.com/p/a37a8f9ae6d5) |
+| Wed, 01 Oct 2025 09:06:03 GMT | The Hookup That Accidentally Turned Into the Most Honest Conversation of My Life | Unknown | [Read More](https://medium.com/p/c23a5ba66c4e) |
+| Wed, 01 Oct 2025 09:03:26 GMT | Relearning Emotional Language: How Couples Can Build Shared Vocabulary to Heal Together | Wilson Igbasi | [Read More](https://medium.com/p/ffec96aaf1e6) |
+| Wed, 01 Oct 2025 08:59:03 GMT | Cybersecurity and the California Consumer Privacy Act (CCPA) | Cyber Security Research | [Read More](https://medium.com/p/81d778d7ce3c) |
+| Wed, 01 Oct 2025 08:49:01 GMT | Detecting Lateral Movements in Enterprise Networks | Ash | [Read More](https://medium.com/p/da4d165d8065) |
+| Wed, 01 Oct 2025 08:45:23 GMT | Vulnverse: MediLabs NG- Walkthrough | Bharat | [Read More](https://medium.com/p/a60f77f6101b) |
+| Wed, 01 Oct 2025 08:44:58 GMT | The Daily Tech Digest: 01 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0a84be79546f) |
+| Wed, 01 Oct 2025 08:44:43 GMT | CrowdStrike Fal.con 2025 and why cyber security will never be the same after Agentic AI | Andre Camillo, CISSP | [Read More](https://medium.com/p/9cbc6097077c) |
+| Wed, 01 Oct 2025 08:44:35 GMT | DockerLabs Writeup — Pressenter (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0da7662a921b) |
+| Wed, 01 Oct 2025 08:43:48 GMT | When Self-Protection Becomes Walls: The Paradox of Emotional Armor in Love | Wilson Igbasi | [Read More](https://medium.com/p/e9c724706fe0) |
 | Wed, 01 Oct 2025 08:43:23 GMT | Cybersecurity for Smart Homes: Securing Your Connected Devices | Cyber Security Research | [Read More](https://medium.com/p/88b641c4b087) |
 | Wed, 01 Oct 2025 08:39:41 GMT | A Day In the Life of SOC Analyst L1 (Inhouse) | Tejavivek | [Read More](https://medium.com/p/5d996f24c5e7) |
 | Wed, 01 Oct 2025 08:32:06 GMT | The Hidden Role of Shame in Relationship Silence: Reclaiming Your Voice | Wilson Igbasi | [Read More](https://medium.com/p/69aece495ac1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 03:52:03 GMT | CORS Misadventures: How Misconfigured Origins Turned Me Into an Accidental Admin | Iski | [Read More](https://medium.com/p/2107aa1768d6) |
 | Wed, 01 Oct 2025 03:47:45 GMT | The Dark Side of Free Wi-Fi: What I Learned the Hard Way | Arfa | [Read More](https://medium.com/p/fa2b750bbc8d) |
 | Wed, 01 Oct 2025 03:23:38 GMT | How I Secure My Linux Servers: Best Practices for 2025 | Pawan Natekar | [Read More](https://medium.com/p/5e38c6839229) |
-| Wed, 01 Oct 2025 03:22:28 GMT | ConfigMaps and Secrets: Managing Configuration and Sensitive Data in Kubernetes | Laxman | [Read More](https://medium.com/p/fb8732585573) |
-| Wed, 01 Oct 2025 03:06:16 GMT | Top 15 Ethical Hacking Tools You Must Know in 2025 | Maxon Codes | [Read More](https://medium.com/p/2effbcf34be7) |
-| Wed, 01 Oct 2025 03:04:42 GMT | Day 63- Basics of Vulnerability Management for beginners | unica 02 | [Read More](https://medium.com/p/02c0e89dfc00) |
-| Wed, 01 Oct 2025 02:32:45 GMT | OEM Sponsorship in Cybersecurity Communities: Why It’s the Next Big Play | Dr. Deep Pandey | [Read More](https://medium.com/p/e62bdef6a329) |
-| Wed, 01 Oct 2025 01:58:24 GMT | SQLMap: The Basics - THM | Isiah | [Read More](https://medium.com/p/6da8f69ad1c0) |
-| Wed, 01 Oct 2025 01:50:49 GMT | KnowPhish: teaching LLMs and knowledge graphs to spot sneaky phishing pages | Chris Zhang | [Read More](https://medium.com/p/27f003dfa662) |
-| Wed, 01 Oct 2025 01:47:07 GMT | Cybersecurity: Five Principles You Absolutely Should Follow | mohandika | [Read More](https://medium.com/p/1a633a527ef0) |
-| Wed, 01 Oct 2025 01:42:07 GMT | The 10 Security Mistakes That Nearly Broke My Apps — Before I Learned OWASP | AshokReddy | [Read More](https://medium.com/p/199b01d4f50e) |
-| Wed, 01 Oct 2025 01:19:25 GMT | A dev’s guide to hacking DoD compliance | Via Knowledge Hub | [Read More](https://medium.com/p/d3e167f3563a) |
-| Wed, 01 Oct 2025 01:14:27 GMT | The Hidden Roadblocks: Why Quantum Computing Still Isn’t Ready for Prime Time | The Deep Frame | [Read More](https://medium.com/p/34dacb85e115) |
