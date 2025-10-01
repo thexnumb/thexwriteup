@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 19:33:15 GMT | GraphQL API Testing | 0cifer_l | [Read More](https://medium.com/p/cad073477417) |
+| Wed, 01 Oct 2025 19:27:26 GMT | From Google Dork to Rickroll: PDF.js misconfiguration for quick Bug Bounties | Boba F3tt | [Read More](https://medium.com/p/f6473a2bdda4) |
+| Wed, 01 Oct 2025 19:26:29 GMT | How Do Security Teams Respond Quickly to Emergencies Today? | Smit John | [Read More](https://medium.com/p/859d05e8ce88) |
+| Wed, 01 Oct 2025 19:25:02 GMT | Hire A Hacker To Catch A Cheating Spouse | Sydney Brooks | [Read More](https://medium.com/p/326686298034) |
+| Wed, 01 Oct 2025 19:21:26 GMT | Hire A Hacker To Hack WhatsApp | Sydney Brooks | [Read More](https://medium.com/p/bfe3eab1c37f) |
+| Wed, 01 Oct 2025 19:18:59 GMT | Reflected XSS — Part 2 | file.bug | [Read More](https://medium.com/p/0a0b2cb0a314) |
+| Wed, 01 Oct 2025 19:17:26 GMT | Insights into a Sophisticated Chinese APT Targeting Critical Infrastructure | 0xMan1sh | [Read More](https://medium.com/p/547e8e72da31) |
 | Wed, 01 Oct 2025 19:13:13 GMT | Chaining Vulnerabilities - Tryhackme Walk-through by Abhishek | Abhishek | [Read More](https://medium.com/p/c0e4eda75f49) |
 | Wed, 01 Oct 2025 19:07:50 GMT | The Secret Reason the Western System Steals Your Purpose | Richard Ogundele | [Read More](https://medium.com/p/2520c0a239f7) |
 | Wed, 01 Oct 2025 19:05:41 GMT | MobileHackingLabs — IoT Connect Lab | everythingBlackkk | [Read More](https://medium.com/p/e061132baf7a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 14:27:49 GMT | TryHackMe #72 - Threat Intelligence Tools | 0xGroot | [Read More](https://medium.com/p/cbaf2fe2a19e) |
 | Wed, 01 Oct 2025 14:27:28 GMT | Hospitals Don’t Just Save Lives — They Also Bleed Liability | Tec-Tel Communications | [Read More](https://medium.com/p/ad43029d505c) |
 | Wed, 01 Oct 2025 14:24:43 GMT | NullRecon: My Journey from Software testing to Cybersecurity | pramod yadav | [Read More](https://medium.com/p/d4563cdb2478) |
-| Wed, 01 Oct 2025 14:21:49 GMT | TryHackMe #71 - Intro to Cyber Threat Intel | 0xGroot | [Read More](https://medium.com/p/2a0406738ee0) |
-| Wed, 01 Oct 2025 14:21:29 GMT | Food Recalls Aren’t Just a PR Problem. They’re a Compliance Time Bomb | Tec-Tel Communications | [Read More](https://medium.com/p/9a56fbd1836e) |
-| Wed, 01 Oct 2025 14:20:34 GMT | 5 Overrated Security Devices You Can Skip When Building a Smarter Home Protection System | Arshad | [Read More](https://medium.com/p/8fe3bda2db6c) |
-| Wed, 01 Oct 2025 14:19:31 GMT | It’s Not Salesforce: It’s Your Salesforce Admins | Brez | [Read More](https://medium.com/p/365fb505a03d) |
-| Wed, 01 Oct 2025 14:18:52 GMT | Power of Villager x Hex-strike | Lewis Desmond | [Read More](https://medium.com/p/f234c4a712cd) |
-| Wed, 01 Oct 2025 14:18:24 GMT | Social Media Hacking: What You Post Can Be Used Against You | Aj | [Read More](https://medium.com/p/5f45a5fd32e4) |
-| Wed, 01 Oct 2025 14:16:07 GMT | The Mistakes I Made When I Thought I Was a ‘Good Guy’ | Surinder Singh | [Read More](https://medium.com/p/1e8a59f5eb77) |
