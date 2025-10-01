@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 20:17:01 GMT | How We Cut AWS Costs by 60% Using Spot Instances | Freddie A | [Read More](https://medium.com/p/70ca301c1615) |
+| Wed, 01 Oct 2025 20:08:46 GMT | SIEM Nedir? | nazlinuresmeray | [Read More](https://medium.com/p/101ab685c5af) |
+| Wed, 01 Oct 2025 20:07:16 GMT | THE DARK SIDE OF DARK WEB | Muhammad Waryam | [Read More](https://medium.com/p/1e9915644a8b) |
+| Wed, 01 Oct 2025 20:05:04 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐Earn with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc… | Blackbox | [Read More](https://medium.com/p/b1908f0e9ec5) |
+| Wed, 01 Oct 2025 20:03:51 GMT | Friday Overtime Walkthrough | Karim Hesham | [Read More](https://medium.com/p/c94553083b0b) |
+| Wed, 01 Oct 2025 19:58:14 GMT | Is Chatgpt 5 The New Blackhat SEO | Maria Johnsen | [Read More](https://medium.com/p/3f7088a807d4) |
+| Wed, 01 Oct 2025 19:57:08 GMT | Revisiting RemoteAgentFramework: Revamping, Updating, and Refining an Old Cybersecurity Project | Orkun Kurul | [Read More](https://medium.com/p/de098cad04de) |
+| Wed, 01 Oct 2025 19:53:25 GMT | Web Application Security Testing: A Complete Guide for Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/807c38708fce) |
+| Wed, 01 Oct 2025 19:52:42 GMT | Exploring the Windows Kernel | Ops4Windows | [Read More](https://medium.com/p/18058beb0c98) |
+| Wed, 01 Oct 2025 19:47:38 GMT | What Tech Leaders Can Learn from Shifts in Consumer Behavior | Eightpoint | [Read More](https://medium.com/p/2c39d7efa9b1) |
+| Wed, 01 Oct 2025 19:46:47 GMT | Hunting Polymorphic Malware | Deniz Topaloglu | [Read More](https://medium.com/p/5d687194f19a) |
+| Wed, 01 Oct 2025 19:42:27 GMT | Building the Most Secure FastAPI Backend: A Comprehensive Security Architecture | Mustafa Aljishi | [Read More](https://medium.com/p/8179e85a7ca6) |
 | Wed, 01 Oct 2025 19:33:15 GMT | GraphQL API Testing | 0cifer_l | [Read More](https://medium.com/p/cad073477417) |
 | Wed, 01 Oct 2025 19:27:26 GMT | From Google Dork to Rickroll: PDF.js misconfiguration for quick Bug Bounties | Boba F3tt | [Read More](https://medium.com/p/f6473a2bdda4) |
 | Wed, 01 Oct 2025 19:26:29 GMT | How Do Security Teams Respond Quickly to Emergencies Today? | Smit John | [Read More](https://medium.com/p/859d05e8ce88) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 14:44:37 GMT | AI Security Research — September 2025 | Tal Eliyahu | [Read More](https://medium.com/p/67f24236ab1d) |
 | Wed, 01 Oct 2025 14:44:34 GMT | CSRF, XSS, SSRF: The Attacks That Still Break the Web in 2025 | Aj | [Read More](https://medium.com/p/6e2774c62ad6) |
 | Wed, 01 Oct 2025 14:43:32 GMT | Should you protect your site from AI scrapers? | Arnaud Wallon | [Read More](https://medium.com/p/c19129685bd8) |
-| Wed, 01 Oct 2025 14:41:54 GMT | Unlocking the Magic of Secret Messages: A Hands-On Guide to RSA Encryption | Allwyn Vincent | [Read More](https://medium.com/p/fc8930e18c21) |
-| Wed, 01 Oct 2025 14:41:51 GMT | TryHackMe #75 - MISP | 0xGroot | [Read More](https://medium.com/p/4f6424ff36c1) |
-| Wed, 01 Oct 2025 14:38:35 GMT | Siber Güvenlik 101 — Dark WEB, Tor ve Onion: Gizlilik, Güvenlik ve Riskler | Sude Çoban | [Read More](https://medium.com/p/3617f9f31fb7) |
-| Wed, 01 Oct 2025 14:38:29 GMT | Hindsight: Chrome Forensics Made Simple | Allen Ace | [Read More](https://medium.com/p/425db99fa5ed) |
-| Wed, 01 Oct 2025 14:37:49 GMT | TryHackMe #74 - OpenCTI | 0xGroot | [Read More](https://medium.com/p/a6428b626db7) |
-| Wed, 01 Oct 2025 14:36:30 GMT | Patchwork APT Exploits PowerShell to Deliver Malicious Payloads | Jasmitharouthu | [Read More](https://medium.com/p/ca9a6ff2de3a) |
-| Wed, 01 Oct 2025 14:34:05 GMT | HA NARAK — Writeup | Yukina | [Read More](https://medium.com/p/e9d535d1e115) |
-| Wed, 01 Oct 2025 14:31:56 GMT | TryHackMe #73 - Yara | 0xGroot | [Read More](https://medium.com/p/5fef7d76ba0b) |
-| Wed, 01 Oct 2025 14:31:56 GMT | Making Sense of Data Backup and Disaster Recovery in Alaska | Vicinity | [Read More](https://medium.com/p/be67dfbac967) |
-| Wed, 01 Oct 2025 14:27:49 GMT | TryHackMe #72 - Threat Intelligence Tools | 0xGroot | [Read More](https://medium.com/p/cbaf2fe2a19e) |
-| Wed, 01 Oct 2025 14:27:28 GMT | Hospitals Don’t Just Save Lives — They Also Bleed Liability | Tec-Tel Communications | [Read More](https://medium.com/p/ad43029d505c) |
-| Wed, 01 Oct 2025 14:24:43 GMT | NullRecon: My Journey from Software testing to Cybersecurity | pramod yadav | [Read More](https://medium.com/p/d4563cdb2478) |
