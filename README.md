@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 11:33:44 GMT | Cybersecurity Awareness Month: Hidden Threats You Didn’t Know Could Harm You | Recover Right | [Read More](https://medium.com/p/1a31dedd245c) |
+| Wed, 01 Oct 2025 11:28:59 GMT | How Autonomous Systems and Localization are Reshaping the Hydraulic Industry | Arun Das | [Read More](https://medium.com/p/c538161f994e) |
+| Wed, 01 Oct 2025 11:26:09 GMT | Cloud Security Frameworks Every Business Should Know | IPSpecialist | [Read More](https://medium.com/p/0f933659fb8b) |
+| Wed, 01 Oct 2025 11:23:42 GMT | Cybersecurity: Safeguarding the Future of IoT and AIoT — A Must-Read Guide for Securing the… | Germano Costi | [Read More](https://medium.com/p/6e596ae2a93f) |
+| Wed, 01 Oct 2025 11:17:38 GMT | Klopatra: The Android Banking Trojan 2025 That Hijacks Your Phone With Hidden Remote Control | Germano Costi | [Read More](https://medium.com/p/2dbf5076b66f) |
+| Wed, 01 Oct 2025 11:16:59 GMT | How I Created a Meta-Prompt - AI - NextWork Project | Angie | [Read More](https://medium.com/p/3bdeb746cfd2) |
 | Wed, 01 Oct 2025 11:14:35 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/22c543a3ff01) |
 | Wed, 01 Oct 2025 11:07:34 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/a339e95ae645) |
+| Wed, 01 Oct 2025 11:07:31 GMT | SSI IT - Cyber Security Expert Barcelona — IT Protection & Risk Management Services | Public | [Read More](https://medium.com/p/49a356cbe7b9) |
 | Wed, 01 Oct 2025 11:05:32 GMT | Regulatory and Safety in Hydraulic Accumulators: A High-Pressure Responsibility | Whyps | [Read More](https://medium.com/p/4432eb149893) |
 | Wed, 01 Oct 2025 11:05:22 GMT | SEO Pricing Explained: A Clear Guide for Business Owners | Bhavesh Rajpurohit | [Read More](https://medium.com/p/fc1beaefea96) |
 | Wed, 01 Oct 2025 11:05:07 GMT | Protect Your Privacy: How to Minimize Your Digital Footprint with Utopia P2P | Utopia P2P | [Read More](https://medium.com/p/3937b2febfe1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 06:39:30 GMT | Building Fundamentals Before Defense Why Cyber Security Starts with IT Basics | Incidalus | [Read More](https://medium.com/p/735af2a69114) |
 | Wed, 01 Oct 2025 06:34:34 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/c1f5dc1ee765) |
 | Wed, 01 Oct 2025 06:33:57 GMT | When Google Locks You Out: A Cautionary Tale of Crypto, Hacks, and Digital Injustice | Bilqees (Billy) Khan | [Read More](https://medium.com/p/031976245273) |
-| Wed, 01 Oct 2025 06:31:52 GMT | Phishing in Crypto Payments: Real Examples and How to Avoid Them | OxaPay | [Read More](https://medium.com/p/71e81c9a7052) |
-| Wed, 01 Oct 2025 06:31:12 GMT | Digital Transformation in 2025: Redefining the Future of Business | PureSoftware | [Read More](https://medium.com/p/3d8d726e6516) |
-| Wed, 01 Oct 2025 06:28:21 GMT | CABLE TERMINATION MADE EASY (A step by step guide) | Akankwatsakevin | [Read More](https://medium.com/p/8b664365e214) |
-| Wed, 01 Oct 2025 06:27:35 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/6c1dbf3c9e6a) |
-| Wed, 01 Oct 2025 06:17:50 GMT | The Cloud Misconfiguration Checklist: 10 Critical Flaws to Find Before Attackers Do | Andrei Ivan | [Read More](https://medium.com/p/3adc6f38615b) |
-| Wed, 01 Oct 2025 06:04:53 GMT | Network Reconnaissance | Infra & Network Core | [Read More](https://medium.com/p/34dcfe75aa74) |
-| Wed, 01 Oct 2025 06:02:54 GMT | Application Security Tools: Synk, black duck, etc | Alice Dai | [Read More](https://medium.com/p/d57a640293fb) |
