@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 21:15:06 GMT | How Newspapers Accidentally Invented Modern UX Design | Meg Pugh | [Read More](https://medium.com/p/4120edf57892) |
+| Wed, 01 Oct 2025 21:08:27 GMT | How Energy and Cybersecurity Will Define Our Connected Future | David SEHYEON Baek | [Read More](https://medium.com/p/fadf9dd2d44f) |
+| Wed, 01 Oct 2025 21:05:19 GMT | Content Security Policy (CSP): Web Uygulama Güvenliğinin Görünmeyen Kalkanı | Halil BARIM | [Read More](https://medium.com/p/4a4b73260dce) |
+| Wed, 01 Oct 2025 20:59:52 GMT | SOC Fundamentals - THM | Isiah | [Read More](https://medium.com/p/2eedc011b9e9) |
+| Wed, 01 Oct 2025 20:53:28 GMT | Claude Sonnet 4.5 Knows It’s Being Tested — A Wake-Up Call for AI Safety | Dibeesh KS | [Read More](https://medium.com/p/8f3303623b83) |
 | Wed, 01 Oct 2025 20:22:22 GMT | Learning IT as a Self-Taught Student: How to Stay Motivated and Not Give Up | Djany M | [Read More](https://medium.com/p/5ee23d366439) |
 | Wed, 01 Oct 2025 20:20:13 GMT | SIEM’in SOC içindeki rolü | nazlinuresmeray | [Read More](https://medium.com/p/a0363436f9e6) |
 | Wed, 01 Oct 2025 20:17:01 GMT | How We Cut AWS Costs by 60% Using Spot Instances | Freddie A | [Read More](https://medium.com/p/70ca301c1615) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 15:22:50 GMT | JavaScript Event Loop, Call Stack & Microtasks — (with Examples) | Tech With Curly Girl | [Read More](https://medium.com/p/1ea95455f3f7) |
 | Wed, 01 Oct 2025 15:20:05 GMT | JavaScript Event Loop, Call Stack & Microtasks — (with Examples) | Tech With Curly Girl | [Read More](https://medium.com/p/cc14df443deb) |
 | Wed, 01 Oct 2025 15:15:04 GMT | GZR Observer Daily — Oct 1, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e577d02f3c9c) |
-| Wed, 01 Oct 2025 15:14:25 GMT | What Would Claude Shannon Do About AI’s Carbon Problem? | Chelsea Mac | [Read More](https://medium.com/p/21a43860816c) |
-| Wed, 01 Oct 2025 15:11:53 GMT | The SentryPC Student Time Management Tool: Revolutionizing Student Success and School Security | Paul Meyer | [Read More](https://medium.com/p/613200a4576c) |
-| Wed, 01 Oct 2025 15:11:52 GMT | The Safety of Emotional Avoidance | avery jolie | [Read More](https://medium.com/p/749fe2a1491e) |
-| Wed, 01 Oct 2025 14:56:38 GMT | The End of Bandit: Meet Python Code Audit | Maikel Mardjan | [Read More](https://medium.com/p/7d6020e1ac10) |
-| Wed, 01 Oct 2025 14:49:41 GMT | The Sixth Sense of Security: How AI is Forging a New Era of Threat-Informed Defense in 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/cba06f2cd17f) |
