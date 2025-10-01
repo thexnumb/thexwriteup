@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 05:18:07 GMT | Local File Inclusion | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/e517ce21a6ed) |
+| Wed, 01 Oct 2025 05:15:42 GMT | Auditd Advanced Usage Implementation and Troubleshooting | Eren Cankut Uysal | [Read More](https://medium.com/p/cbc215c6ac09) |
+| Wed, 01 Oct 2025 05:12:59 GMT | Understanding OAuth 2.0 Client Credentials Grant | Florian Röser | [Read More](https://medium.com/p/5b147354a5aa) |
+| Wed, 01 Oct 2025 05:03:23 GMT | Oversharing Is How You Leak Your Energy | Ayushi Jindal | [Read More](https://medium.com/p/fe10c772fbf9) |
+| Wed, 01 Oct 2025 05:02:47 GMT | How Cybersecurity Teams Actually Use AI (With Code Examples) | Aj | [Read More](https://medium.com/p/b6fa4dcf6c4e) |
+| Wed, 01 Oct 2025 05:02:16 GMT | RBAC in Kubernetes: Understanding Roles, and RoleBindings | Laxman | [Read More](https://medium.com/p/dbcc7b12fc52) |
+| Wed, 01 Oct 2025 04:40:28 GMT | Container Security Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/2bc1ded63f74) |
+| Wed, 01 Oct 2025 04:38:23 GMT | DO NOT Commit The Terraform State File! | WittCode | [Read More](https://medium.com/p/1812664a673c) |
+| Wed, 01 Oct 2025 04:38:21 GMT | Top Software Every Startup Founder Should Install in 2025 | Ask IT Support | [Read More](https://medium.com/p/f964967c9ce8) |
 | Wed, 01 Oct 2025 04:36:28 GMT | How to Learn Bug Bounty In Easy Way: A Simple Guide for Beginners | Kakashi | [Read More](https://medium.com/p/a15d3e87a4fe) |
+| Wed, 01 Oct 2025 04:34:46 GMT | AI Security Research — August 2025 | Tal Eliyahu | [Read More](https://medium.com/p/6ae387e91253) |
 | Wed, 01 Oct 2025 04:33:47 GMT | InfoSec Wheel — Roda Pengaman di Dunia Siber | Jadi Hacker | [Read More](https://medium.com/p/6fbf86594359) |
+| Wed, 01 Oct 2025 04:32:55 GMT | Understanding End-2-End Encryption in Snowflake: A Practical Guide for Secure Data Ingestion | Rajiv Gupta | [Read More](https://medium.com/p/9f2edeae0c2f) |
 | Wed, 01 Oct 2025 04:32:54 GMT | ️Packet Loss Taught Me More About Hacking Than Any Textbook | Nithishkumar R | [Read More](https://medium.com/p/178a02579e8a) |
+| Wed, 01 Oct 2025 04:28:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/e37c85ec1f22) |
 | Wed, 01 Oct 2025 04:27:23 GMT | Big Data : Ekosistem Hadoop — Pig dan Hive | Yasa Wijaya | [Read More](https://medium.com/p/998d4515c298) |
 | Wed, 01 Oct 2025 04:23:00 GMT | Cyber and Space Warfare: New Frontiers of India’s Defence Strategy | UI Newz | [Read More](https://medium.com/p/a0af41885c3d) |
 | Wed, 01 Oct 2025 04:22:37 GMT | Amazon Comprehend Medical: NLP for Healthcare Data | Rizqi Mulki | [Read More](https://medium.com/p/323b373c59d4) |
@@ -30,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 03:52:03 GMT | CORS Misadventures: How Misconfigured Origins Turned Me Into an Accidental Admin | Iski | [Read More](https://medium.com/p/2107aa1768d6) |
 | Wed, 01 Oct 2025 03:47:45 GMT | The Dark Side of Free Wi-Fi: What I Learned the Hard Way | Arfa | [Read More](https://medium.com/p/fa2b750bbc8d) |
 | Wed, 01 Oct 2025 03:23:38 GMT | How I Secure My Linux Servers: Best Practices for 2025 | Pawan Natekar | [Read More](https://medium.com/p/5e38c6839229) |
+| Wed, 01 Oct 2025 03:22:28 GMT | ConfigMaps and Secrets: Managing Configuration and Sensitive Data in Kubernetes | Laxman | [Read More](https://medium.com/p/fb8732585573) |
 | Wed, 01 Oct 2025 03:06:16 GMT | Top 15 Ethical Hacking Tools You Must Know in 2025 | Maxon Codes | [Read More](https://medium.com/p/2effbcf34be7) |
 | Wed, 01 Oct 2025 03:04:42 GMT | Day 63- Basics of Vulnerability Management for beginners | unica 02 | [Read More](https://medium.com/p/02c0e89dfc00) |
 | Wed, 01 Oct 2025 02:32:45 GMT | OEM Sponsorship in Cybersecurity Communities: Why It’s the Next Big Play | Dr. Deep Pandey | [Read More](https://medium.com/p/e62bdef6a329) |
@@ -100,16 +113,3 @@ The Technology Blending Into Our Everyday Lives | Aadhila Kuthub N | [Read More]
 | Tue, 30 Sep 2025 19:22:35 GMT | Part 1 : intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/15af4966836d) |
 | Tue, 30 Sep 2025 19:18:40 GMT | The Premium is the Victim: macOS Under Siege | Rodrigo Gutierrez | [Read More](https://medium.com/p/693d96a8e22b) |
 | Tue, 30 Sep 2025 19:14:52 GMT | EEMS SSO: Simplifying Secure Access for Modern Organizations | SafeAeon Inc. | [Read More](https://medium.com/p/3aa9ac544010) |
-| Tue, 30 Sep 2025 19:13:42 GMT | The Dark Side of the Digital Playground: How Our Children’s Privacy Is Becoming a Ticking Bomb | Kerim Kabakbaş | [Read More](https://medium.com/p/87590c61ad0a) |
-| Tue, 30 Sep 2025 19:13:28 GMT | THM- Neighbour — Write-Up | J Linton | [Read More](https://medium.com/p/44cce6d99a93) |
-| Tue, 30 Sep 2025 19:13:02 GMT | Splunk Threat Hunting Guide: Identifying Lateral Movement with WMI (ATT&CK T1047) | Allen Ace | [Read More](https://medium.com/p/ab8df92e2715) |
-| Tue, 30 Sep 2025 19:09:24 GMT | Crossing Boundaries: User Space ↔ Kernel Space Memory Access in Linux | Anup Keshwani | [Read More](https://medium.com/p/8909544a10f7) |
-| Tue, 30 Sep 2025 19:06:13 GMT | Purple Team Maturity Model: From Chaos to Controlled Chaos | Silas Potter | [Read More](https://medium.com/p/e5dbc67ceb88) |
-| Tue, 30 Sep 2025 18:57:56 GMT | Wonderland writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/66d7885bdd62) |
-| Tue, 30 Sep 2025 18:56:19 GMT | “ Investigative Reversing 4 “ challenge | oussama | [Read More](https://medium.com/p/c8f329011fe5) |
-| Tue, 30 Sep 2025 18:49:47 GMT | HTB - Data — Machine Walkthrough | Simi | [Read More](https://medium.com/p/38da88e74dc1) |
-| Tue, 30 Sep 2025 18:47:30 GMT | TryHackMe - XDR: Credential Access - WriteUp | Axoloth | [Read More](https://medium.com/p/639a02b9b110) |
-| Tue, 30 Sep 2025 18:30:15 GMT | Benefits of SOC Outsourcing: Why Businesses Are Turning to Managed Security | SafeAeon Inc. | [Read More](https://medium.com/p/703445740eb4) |
-| Tue, 30 Sep 2025 18:26:04 GMT | The $1.4 Million Question: Why Social Engineering is Still Hacking the System | Krishnakaiwartya | [Read More](https://medium.com/p/1b1a45efa9fd) |
-| Tue, 30 Sep 2025 18:20:34 GMT | This Is How AI Is Rewriting the Rules of Cyber Warfare | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/1ada3bcac1f8) |
-| Tue, 30 Sep 2025 18:19:57 GMT | CodePartTwo HTB Walkthrough — RCE via js2py (CVE‑2024‑28397) & Root Escalation | Death Esther | [Read More](https://medium.com/p/fe66b1454466) |
