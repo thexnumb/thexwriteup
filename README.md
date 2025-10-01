@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 17:34:02 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/c5eca7ea5e0e) |
+| Wed, 01 Oct 2025 17:31:26 GMT | Obfuscation — Securing your Flutter Code from Attacker | Fuad Reza | [Read More](https://medium.com/p/153ef572211b) |
+| Wed, 01 Oct 2025 17:27:49 GMT | Exploit Vulnerabilities | Tony Khalil Rodgers | [Read More](https://medium.com/p/2a2320abfcf8) |
+| Wed, 01 Oct 2025 17:27:43 GMT | Brutus — HackTheBox / Sherlocks | Asif.k | [Read More](https://medium.com/p/4336ad7a6a02) |
+| Wed, 01 Oct 2025 17:27:38 GMT | Vulnerability Assessment Services: Why Every Business Needs Them | SafeAeon Inc. | [Read More](https://medium.com/p/02d80fa60c81) |
+| Wed, 01 Oct 2025 17:12:43 GMT | Breaking Through Data Silos: Real-Time Risk Clarity with Spektion’s Latest Release | Spektion | [Read More](https://medium.com/p/b778fbf1537c) |
+| Wed, 01 Oct 2025 17:08:34 GMT | Cybersecurity and the Gramm-Leach-Bliley Act (GLBA) | Cyber Security Research | [Read More](https://medium.com/p/91eba0159b15) |
+| Wed, 01 Oct 2025 17:04:38 GMT | Protocol Abuse The Silent Exploit in Modern Networks | Abdelaziz moustakim | [Read More](https://medium.com/p/898f6a3850ee) |
+| Wed, 01 Oct 2025 17:02:35 GMT | Cybersecurity and the Sarbanes-Oxley Act (SOX) | Cyber Security Research | [Read More](https://medium.com/p/179110a03724) |
+| Wed, 01 Oct 2025 17:02:24 GMT | Proof-of-Work (PoW) dan Tantangannya: Fondasi Keamanan Bitcoin | Petruskmkz | [Read More](https://medium.com/p/4be2fe419ae8) |
+| Wed, 01 Oct 2025 16:58:25 GMT | Zero-Day Under Fire: How the Newly Disclosed Cisco & GoAnywhere Flaws Shift the Threat Landscape | Bűķå Piťch | [Read More](https://medium.com/p/1225a320eaab) |
+| Wed, 01 Oct 2025 16:56:58 GMT | The APK Scam: How Online Scams Really Happen | Hitesh Said | [Read More](https://medium.com/p/4eec6ae05bb9) |
+| Wed, 01 Oct 2025 16:51:34 GMT | Patchwork APT Operations: Infrastructure Hunt and University Lure | LCSC-IE | [Read More](https://medium.com/p/88a69eb6c8ef) |
 | Wed, 01 Oct 2025 16:40:57 GMT | [ Pre-order, Amazon ] Google Nest Cam Outdoor (Wired, 2nd Gen) Security Camera with 2K Video and… | Tech Stories Online | [Read More](https://medium.com/p/c0269ddb9d6d) |
 | Wed, 01 Oct 2025 16:34:35 GMT | WCF Hunting: A Deep Dive into Windows Communication Foundation Security Analysis | crązŷrąiɲ | [Read More](https://medium.com/p/b0c97d527e5f) |
 | Wed, 01 Oct 2025 16:31:28 GMT | How Hackers Are Using AI to Hack People and How You Can Fight Back | Ishtiyak  Surve | [Read More](https://medium.com/p/adc1127ed047) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 12:40:33 GMT | ANALISIS RISIKO TERHADAP TRANSFER DATA PRIBADI ANTARA INDONESIA DENGAN AMERIKA BERDASARKAN… | Hima Hukum TIK-KI FH Unpad | [Read More](https://medium.com/p/7d1834bad676) |
 | Wed, 01 Oct 2025 12:40:29 GMT | ALL IN ONE -TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/a2077e64bffe) |
 | Wed, 01 Oct 2025 12:37:39 GMT | SRE and Security: Building Secure and Reliable Systems | SRE Mastery | [Read More](https://medium.com/p/030a5fee6de5) |
-| Wed, 01 Oct 2025 12:22:02 GMT | A Student’s Guide to Being an Entrepreneur | Aliyu Ibrahim | [Read More](https://medium.com/p/f77c279a5d4e) |
-| Wed, 01 Oct 2025 12:16:41 GMT | Navirum Podcast: Salesforce Current Cybersecurity Landscape and Threats | Rory Galvin | [Read More](https://medium.com/p/681b46ccf506) |
-| Wed, 01 Oct 2025 12:16:03 GMT | How to fix ntfs issue on Ubuntu or Lubuntu or any flavour on version 24.04.3 LTS | Ariekusuma | [Read More](https://medium.com/p/7f87cec76490) |
-| Wed, 01 Oct 2025 12:15:34 GMT | Comparing MITRE ATT&CK and the Cyber Kill Chain | Ash | [Read More](https://medium.com/p/b8cbe6920f18) |
-| Wed, 01 Oct 2025 12:13:09 GMT | Cybersecurity: Scan your hosts, before vulnerabilities cost you millions | Dogan | [Read More](https://medium.com/p/b49000f0df9f) |
-| Wed, 01 Oct 2025 12:11:06 GMT | Jaguar Land Rover’s 2025 Cyber Siege: Anatomy of a Modern Ransomware Strike | Jagan Raj Raviraja | [Read More](https://medium.com/p/a6a5dae1ca17) |
-| Wed, 01 Oct 2025 12:09:15 GMT | Digital Elpis: Driving Digital Innovation for Businesses Worldwide | Sagar | [Read More](https://medium.com/p/4682203bea7c) |
-| Wed, 01 Oct 2025 12:06:29 GMT | Crafting Secure and Efficient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/536b3cf47027) |
-| Wed, 01 Oct 2025 12:04:44 GMT | Logic Flaw in 2FA | Onepunchf | [Read More](https://medium.com/p/c8906bdc9b14) |
-| Wed, 01 Oct 2025 12:03:54 GMT | OS Forensics | Ops4Windows | [Read More](https://medium.com/p/e1831c26c406) |
-| Wed, 01 Oct 2025 12:01:53 GMT | The Silent AI Killer: How Cloudflare’s Hyper-Volumetric Shields Defy the 2025 DDoS Apocalypse | Akhilesh Yadav | [Read More](https://medium.com/p/da4bdde2f35e) |
-| Wed, 01 Oct 2025 12:01:53 GMT | Privacy or Security? The Political Dilemma of the Digital Age | Kerim Kabakbaş | [Read More](https://medium.com/p/b1d2c944df6b) |
-| Wed, 01 Oct 2025 12:00:11 GMT | Building a Bulletproof Penguin: A Linux Hardening Guide with TryHackMe | Furkanctiner | [Read More](https://medium.com/p/0dd562734595) |
