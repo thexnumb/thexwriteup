@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 13:22:52 GMT | Unverified Email Change Vulnerability Leading to Account Takeover | Abhishek sharma | [Read More](https://medium.com/p/1bcd5b09f0e5) |
+| Wed, 01 Oct 2025 13:18:26 GMT | 30-Minute Expert Review: 10 Steps to Scan Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/2bccee6038cb) |
+| Wed, 01 Oct 2025 13:17:50 GMT | Top 5 Cybersecurity Mistakes Everyone Makes (Without Realizing It) | Aj | [Read More](https://medium.com/p/62f82e26beea) |
+| Wed, 01 Oct 2025 13:14:55 GMT | IT as the New English: Why Digital Literacy is the Grammar of the Future | Eishani Purohit | [Read More](https://medium.com/p/ac500d50ba0b) |
+| Wed, 01 Oct 2025 13:13:55 GMT | Dimensity 810 vs Snapdragon 695 in 2025: Which One Still Holds Up? | Rakesh Sahani | [Read More](https://medium.com/p/242de4fa3608) |
+| Wed, 01 Oct 2025 13:11:57 GMT | Cyber Security Abu Dhabi - Proven Solutions for Business Safety | Grandahsan | [Read More](https://medium.com/p/9580a8ec9fac) |
+| Wed, 01 Oct 2025 13:11:03 GMT | Encryption Series — Part 1: Encryption Fundamentals | Aditya Prakash | [Read More](https://medium.com/p/e1650d54b211) |
+| Wed, 01 Oct 2025 13:07:48 GMT | I Secured My Network in Under 10 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/d674e0636770) |
+| Wed, 01 Oct 2025 13:07:07 GMT | Windows Firewall vs. Avira — Which One Protects You Better? | Cordula Boeck | [Read More](https://medium.com/p/4aa2f5df8cf0) |
+| Wed, 01 Oct 2025 13:01:51 GMT | Cybersecurity Myths | SAM Cyber Coaching | [Read More](https://medium.com/p/6849c87bb733) |
+| Wed, 01 Oct 2025 13:01:51 GMT | PCI DSS 6.4.3 Script Management: What CISOs Actually Need to Know | Feroot Security | [Read More](https://medium.com/p/ed7cce635b2c) |
+| Wed, 01 Oct 2025 12:56:52 GMT | What is 2FA/MFA and why it matters - SMS, App, Hardware Keys | devmihaylov | [Read More](https://medium.com/p/4c4fbd0ce943) |
+| Wed, 01 Oct 2025 12:46:15 GMT | From Chaos to Control | Battery Smart Engineering | [Read More](https://medium.com/p/d144071bccb0) |
+| Wed, 01 Oct 2025 12:42:00 GMT | Unlock Your Cybersecurity Potential with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/96c2e232f02b) |
+| Wed, 01 Oct 2025 12:40:33 GMT | ANALISIS RISIKO TERHADAP TRANSFER DATA PRIBADI ANTARA INDONESIA DENGAN AMERIKA BERDASARKAN… | Hima Hukum TIK-KI FH Unpad | [Read More](https://medium.com/p/7d1834bad676) |
+| Wed, 01 Oct 2025 12:40:29 GMT | ALL IN ONE -TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/a2077e64bffe) |
 | Wed, 01 Oct 2025 12:37:39 GMT | SRE and Security: Building Secure and Reliable Systems | SRE Mastery | [Read More](https://medium.com/p/030a5fee6de5) |
 | Wed, 01 Oct 2025 12:22:02 GMT | A Student’s Guide to Being an Entrepreneur | Aliyu Ibrahim | [Read More](https://medium.com/p/f77c279a5d4e) |
 | Wed, 01 Oct 2025 12:16:41 GMT | Navirum Podcast: Salesforce Current Cybersecurity Landscape and Threats | Rory Galvin | [Read More](https://medium.com/p/681b46ccf506) |
@@ -38,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 11:14:35 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/22c543a3ff01) |
 | Wed, 01 Oct 2025 11:07:34 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/a339e95ae645) |
 | Wed, 01 Oct 2025 11:07:31 GMT | SSI IT - Cyber Security Expert Barcelona — IT Protection & Risk Management Services | Public | [Read More](https://medium.com/p/49a356cbe7b9) |
+| Wed, 01 Oct 2025 11:05:39 GMT | Intro to SSRF Room Write Up | Ethan Wang | [Read More](https://medium.com/p/b7e2c7f36d85) |
 | Wed, 01 Oct 2025 11:05:32 GMT | Regulatory and Safety in Hydraulic Accumulators: A High-Pressure Responsibility | Whyps | [Read More](https://medium.com/p/4432eb149893) |
 | Wed, 01 Oct 2025 11:05:22 GMT | SEO Pricing Explained: A Clear Guide for Business Owners | Bhavesh Rajpurohit | [Read More](https://medium.com/p/fc1beaefea96) |
 | Wed, 01 Oct 2025 11:05:07 GMT | Protect Your Privacy: How to Minimize Your Digital Footprint with Utopia P2P | Utopia P2P | [Read More](https://medium.com/p/3937b2febfe1) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 08:26:38 GMT | Smart Safeguard | Office | [Read More](https://medium.com/p/2a170b5de73e) |
 | Wed, 01 Oct 2025 08:23:41 GMT | Trusted Protection | Office | [Read More](https://medium.com/p/99ec62402898) |
 | Wed, 01 Oct 2025 08:21:58 GMT | ভবিষ্যতের নিরাপত্তা: Nym-এর পোস্ট-কোয়ান্টাম রোডম্যাপ | Rabib Bin Nur | [Read More](https://medium.com/p/867f15982032) |
-| Wed, 01 Oct 2025 08:21:11 GMT | Drosera: From Reflex to Intelligence | 0xysad | [Read More](https://medium.com/p/2ca522ba91d2) |
-| Wed, 01 Oct 2025 08:18:58 GMT | Implementasi SSDLC Awal dengan GitHub Actions | Otta | [Read More](https://medium.com/p/f65246c6d38d) |
-| Wed, 01 Oct 2025 08:18:43 GMT | Secure, Smart, HandsFree | Office | [Read More](https://medium.com/p/d60b16e82314) |
-| Wed, 01 Oct 2025 08:14:30 GMT | ประจำวันพุธที่ 1 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bd4d2516c765) |
-| Wed, 01 Oct 2025 08:07:16 GMT | “AI Will Steal Your Job!” — Said Every Media Outlet That Doesn’t Read Studies | Dr Rita Pal | [Read More](https://medium.com/p/4dbe78f5cd04) |
-| Wed, 01 Oct 2025 08:07:01 GMT | Debugging Spring OAuth2: Fixing Login Loops, CSRF, and Jackson Errors | Jagriti Srivastava | [Read More](https://medium.com/p/7a8789a18528) |
-| Wed, 01 Oct 2025 08:05:15 GMT | Somatic Avoidance: When the Body Hides What the Mind Can’t Face | Wilson Igbasi | [Read More](https://medium.com/p/6d38d2ce010f) |
-| Wed, 01 Oct 2025 08:01:53 GMT | The Credential Economy: How Billions of Passwords Fuel Real Attacks | Alexandre Vandamme | [Read More](https://medium.com/p/750ff1260a42) |
-| Wed, 01 Oct 2025 08:01:51 GMT | [Part 7] From Spam Filters to Malware Detection: Everyday AI in Action | Cyberkech | [Read More](https://medium.com/p/f46edb064a88) |
-| Wed, 01 Oct 2025 07:52:19 GMT | Advanced Threat Prevention By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/42c4acfe3a56) |
-| Wed, 01 Oct 2025 07:51:34 GMT | Remote File Inclusion | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/26abafc631a8) |
-| Wed, 01 Oct 2025 07:49:58 GMT | ADS — Alternate Data Streams (Beginner friendly PoC) | Saravana Gautham | [Read More](https://medium.com/p/da08cf07ed42) |
-| Wed, 01 Oct 2025 07:48:16 GMT | HTB File Inclusion Skills Assessment Write-Up - Sumace Consulting | Devam Desai | [Read More](https://medium.com/p/50f52293983e) |
-| Wed, 01 Oct 2025 07:46:53 GMT | Gündüzleri Siber Güvenlik Uzmanı, Hafta Sonları Gönüllü Kahraman! | Ayşe Aktağ | [Read More](https://medium.com/p/8d50f2bd1d4c) |
-| Wed, 01 Oct 2025 07:43:33 GMT | PHP Filters | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/04c99411de10) |
-| Wed, 01 Oct 2025 07:41:49 GMT | Docker Container Breakout Exploits | Esra Kayhan | [Read More](https://medium.com/p/c7539416022c) |
-| Wed, 01 Oct 2025 07:36:46 GMT | Wazuh File Integrity Monitoring (FIM) Guide for Linux and Windows | Rupesh Sharma | [Read More](https://medium.com/p/c322d175856e) |
