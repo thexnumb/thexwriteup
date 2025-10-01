@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 23:01:57 GMT | Best VPNs for Netflix in 2025 (Watch Without Borders) | CyberSecure Life | [Read More](https://medium.com/p/dd1418ce8a20) |
+| Wed, 01 Oct 2025 22:51:35 GMT | Can we truly replace passwords? | Yoav Podemsky | [Read More](https://medium.com/p/532f2b4eedc5) |
+| Wed, 01 Oct 2025 22:51:22 GMT | AI Security Just Went Mainstream: Why Everyone’s Buying Everyone | Technovate Global | [Read More](https://medium.com/p/17a8153f1167) |
+| Wed, 01 Oct 2025 22:50:32 GMT | ABRIENDO TRES LADOS DEL HEXÁGONO: | Mi Gpt y yo - Manuel Barrera Anglada. | [Read More](https://medium.com/p/59bcdd4122e5) |
+| Wed, 01 Oct 2025 22:47:41 GMT | Stop Wasting Time on Random Labs: How to Pick the Right Cybersecurity Portfolio Projects in 2025 | Taimur Ijlal | [Read More](https://medium.com/p/c23a942bc87b) |
+| Wed, 01 Oct 2025 22:44:45 GMT | Why “We Value Your Privacy” Is Big Tech’s Biggest Lie | Ian McIntire | [Read More](https://medium.com/p/70a608b8bba1) |
+| Wed, 01 Oct 2025 22:44:03 GMT | The Strategic Advantage of Virtualization: Scalability, Elasticity, and Security Explored | Raviteja Mureboina | [Read More](https://medium.com/p/5052e8fafa0c) |
 | Wed, 01 Oct 2025 22:38:33 GMT | Yahoo Team — “Your Google Drive is almost full..Take | Bob Malin | [Read More](https://medium.com/p/483b13e70bad) |
 | Wed, 01 Oct 2025 22:35:27 GMT | Trooper TryHackMe Walkthrough | Karim Hesham | [Read More](https://medium.com/p/581c59ddcb8b) |
 | Wed, 01 Oct 2025 22:28:53 GMT | Project #8: Attacking Active Directory (Initial Vectors): LLMNR Poisoning, SMB Relay Attacks | NSESean | [Read More](https://medium.com/p/5d861fe88901) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 17:02:24 GMT | Proof-of-Work (PoW) dan Tantangannya: Fondasi Keamanan Bitcoin | Petruskmkz | [Read More](https://medium.com/p/4be2fe419ae8) |
 | Wed, 01 Oct 2025 16:58:25 GMT | Zero-Day Under Fire: How the Newly Disclosed Cisco & GoAnywhere Flaws Shift the Threat Landscape | Bűķå Piťch | [Read More](https://medium.com/p/1225a320eaab) |
 | Wed, 01 Oct 2025 16:56:58 GMT | The APK Scam: How Online Scams Really Happen | Hitesh Said | [Read More](https://medium.com/p/4eec6ae05bb9) |
-| Wed, 01 Oct 2025 16:51:34 GMT | Patchwork APT Operations: Infrastructure Hunt and University Lure | LCSC-IE | [Read More](https://medium.com/p/88a69eb6c8ef) |
-| Wed, 01 Oct 2025 16:40:57 GMT | [ Pre-order, Amazon ] Google Nest Cam Outdoor (Wired, 2nd Gen) Security Camera with 2K Video and… | Tech Stories Online | [Read More](https://medium.com/p/c0269ddb9d6d) |
-| Wed, 01 Oct 2025 16:34:35 GMT | WCF Hunting: A Deep Dive into Windows Communication Foundation Security Analysis | crązŷrąiɲ | [Read More](https://medium.com/p/b0c97d527e5f) |
-| Wed, 01 Oct 2025 16:31:28 GMT | How Hackers Are Using AI to Hack People and How You Can Fight Back | Ishtiyak  Surve | [Read More](https://medium.com/p/adc1127ed047) |
-| Wed, 01 Oct 2025 16:23:56 GMT | “2025 CWE™ Most Important Hardware Weaknesses” Now Available | CWE Program | [Read More](https://medium.com/p/2bbe29f85b1a) |
-| Wed, 01 Oct 2025 16:18:04 GMT | CVE-2025–9712: How a Filename Became a Backdoor in Ivanti Endpoint Manager | gm0 | [Read More](https://medium.com/p/72595ec10c0d) |
-| Wed, 01 Oct 2025 16:16:53 GMT | TryHackMe Bounty Hacker Writeup | sabR | [Read More](https://medium.com/p/e2d941cd08d7) |
