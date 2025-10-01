@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Oct 2025 14:38:29 GMT | Hindsight: Chrome Forensics Made Simple | Allen Ace | [Read More](https://medium.com/p/425db99fa5ed) |
+| Wed, 01 Oct 2025 14:36:30 GMT | Patchwork APT Exploits PowerShell to Deliver Malicious Payloads | Jasmitharouthu | [Read More](https://medium.com/p/ca9a6ff2de3a) |
+| Wed, 01 Oct 2025 14:34:05 GMT | HA NARAK — Writeup | Yukina | [Read More](https://medium.com/p/e9d535d1e115) |
+| Wed, 01 Oct 2025 14:31:56 GMT | TryHackMe #73 - Yara | 0xGroot | [Read More](https://medium.com/p/5fef7d76ba0b) |
+| Wed, 01 Oct 2025 14:31:56 GMT | Making Sense of Data Backup and Disaster Recovery in Alaska | Vicinity | [Read More](https://medium.com/p/be67dfbac967) |
+| Wed, 01 Oct 2025 14:27:49 GMT | TryHackMe #72 - Threat Intelligence Tools | 0xGroot | [Read More](https://medium.com/p/cbaf2fe2a19e) |
+| Wed, 01 Oct 2025 14:27:28 GMT | Hospitals Don’t Just Save Lives — They Also Bleed Liability | Tec-Tel Communications | [Read More](https://medium.com/p/ad43029d505c) |
+| Wed, 01 Oct 2025 14:24:43 GMT | NullRecon: My Journey from Software testing to Cybersecurity | pramod yadav | [Read More](https://medium.com/p/d4563cdb2478) |
+| Wed, 01 Oct 2025 14:21:49 GMT | TryHackMe #71 - Intro to Cyber Threat Intel | 0xGroot | [Read More](https://medium.com/p/2a0406738ee0) |
+| Wed, 01 Oct 2025 14:21:29 GMT | Food Recalls Aren’t Just a PR Problem. They’re a Compliance Time Bomb | Tec-Tel Communications | [Read More](https://medium.com/p/9a56fbd1836e) |
+| Wed, 01 Oct 2025 14:20:34 GMT | 5 Overrated Security Devices You Can Skip When Building a Smarter Home Protection System | Arshad | [Read More](https://medium.com/p/8fe3bda2db6c) |
+| Wed, 01 Oct 2025 14:19:31 GMT | It’s Not Salesforce: It’s Your Salesforce Admins | Brez | [Read More](https://medium.com/p/365fb505a03d) |
+| Wed, 01 Oct 2025 14:18:52 GMT | Power of Villager x Hex-strike | Lewis Desmond | [Read More](https://medium.com/p/f234c4a712cd) |
+| Wed, 01 Oct 2025 14:18:24 GMT | Social Media Hacking: What You Post Can Be Used Against You | Aj | [Read More](https://medium.com/p/5f45a5fd32e4) |
+| Wed, 01 Oct 2025 14:16:07 GMT | The Mistakes I Made When I Thought I Was a ‘Good Guy’ | Surinder Singh | [Read More](https://medium.com/p/1e8a59f5eb77) |
+| Wed, 01 Oct 2025 14:15:50 GMT | The Easiest Way to Find a Critical Vulnerability: A Case Study with Jenkins | Amrgomaa | [Read More](https://medium.com/p/77bb8f7748af) |
 | Wed, 01 Oct 2025 14:12:19 GMT | Sublist3r: The New Update (V3.0) | Shaheer Yasir | [Read More](https://medium.com/p/bc2abebc7a2c) |
+| Wed, 01 Oct 2025 14:10:02 GMT | CCORE Audit & Team KYC by SolidProof: What We Tested, Fixed, and How You Can Verify | Oleh Melezhyk - CebuCore Founder | [Read More](https://medium.com/p/657fb394efcb) |
 | Wed, 01 Oct 2025 14:01:58 GMT | Cyber Briefing: 2025.10.01 | CyberMaterial | [Read More](https://medium.com/p/54e14685f04f) |
 | Wed, 01 Oct 2025 14:01:55 GMT | ABTU: Real Utility, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/00b0f3cdb4e8) |
 | Wed, 01 Oct 2025 13:57:25 GMT | Protect Yourself Online with FraudExpose.org | Lucas Sanchiez | [Read More](https://medium.com/p/0348b8a73810) |
@@ -34,8 +51,10 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 13:07:48 GMT | I Secured My Network in Under 10 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/d674e0636770) |
 | Wed, 01 Oct 2025 13:07:07 GMT | Windows Firewall vs. Avira — Which One Protects You Better? | Cordula Boeck | [Read More](https://medium.com/p/4aa2f5df8cf0) |
 | Wed, 01 Oct 2025 13:02:36 GMT | ZF stellt harten Sparkurs für Antriebssparte vor | Julia Ahrens | [Read More](https://medium.com/p/678751f19caf) |
+| Wed, 01 Oct 2025 13:02:20 GMT | Intro to Cross-site Scripting Write Up | Ethan Wang | [Read More](https://medium.com/p/a780c02c6faf) |
 | Wed, 01 Oct 2025 13:01:51 GMT | Cybersecurity Myths | SAM Cyber Coaching | [Read More](https://medium.com/p/6849c87bb733) |
 | Wed, 01 Oct 2025 13:01:51 GMT | PCI DSS 6.4.3 Script Management: What CISOs Actually Need to Know | Feroot Security | [Read More](https://medium.com/p/ed7cce635b2c) |
+| Wed, 01 Oct 2025 13:01:22 GMT | A jornada do acesso: automatizando do “olá” ao “até logo” | Sara Batista | [Read More](https://medium.com/p/af10d5bb83cb) |
 | Wed, 01 Oct 2025 12:56:52 GMT | What is 2FA/MFA and why it matters - SMS, App, Hardware Keys | devmihaylov | [Read More](https://medium.com/p/4c4fbd0ce943) |
 | Wed, 01 Oct 2025 12:46:15 GMT | From Chaos to Control | Battery Smart Engineering | [Read More](https://medium.com/p/d144071bccb0) |
 | Wed, 01 Oct 2025 12:42:00 GMT | Unlock Your Cybersecurity Potential with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/96c2e232f02b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 10:16:46 GMT | Security and Performance Aspects of Container Security | Eren Cankut Uysal | [Read More](https://medium.com/p/283dadf50d2f) |
 | Wed, 01 Oct 2025 10:16:28 GMT | Hybrid Warfare: Cyberattacks as Tools of Modern Conflict | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/9de3d2d13659) |
 | Wed, 01 Oct 2025 10:11:38 GMT | HACKING: THE THEORY OF EVERYTHING | Tyler Wall | [Read More](https://medium.com/p/8190806aac0b) |
-| Wed, 01 Oct 2025 10:02:00 GMT | COMPLIANCE SERIES 1 : UAE CYBERMANDATE | Bluebricks Technologies | [Read More](https://medium.com/p/ad92d2ba9c78) |
-| Wed, 01 Oct 2025 10:00:20 GMT | Security and Performance Aspects of KVM Virtualization | Eren Cankut Uysal | [Read More](https://medium.com/p/b01f4f7651bd) |
-| Wed, 01 Oct 2025 09:58:26 GMT | Passkeys in the real world: how passwordless actually performs in 2025 | Motasem Hamdan | [Read More](https://medium.com/p/59b4ace29754) |
-| Wed, 01 Oct 2025 09:58:16 GMT | B.Sc. Information Technology: Your Essential Guide to a Thriving Tech Career | Riya Sachdeva | [Read More](https://medium.com/p/727579500ac7) |
-| Wed, 01 Oct 2025 09:56:28 GMT | Why Your Competitors Are Already Relying on a Kiosk Machine (And Why You Should Too) | Rakesh | [Read More](https://medium.com/p/bf7be01a5939) |
-| Wed, 01 Oct 2025 09:44:08 GMT | How Cloud Computing is Driving AI and Big Data Growth | Sytex | [Read More](https://medium.com/p/518e826e928a) |
-| Wed, 01 Oct 2025 09:43:59 GMT | 보안 VPC 없이 AWS Network Firewall 사용하기 | LG U+ Techblog | [Read More](https://medium.com/p/f8484e3abcb8) |
-| Wed, 01 Oct 2025 09:40:52 GMT | The Price of Trust: Insider Hacking | Shimon Rothschild CISSP | [Read More](https://medium.com/p/60eca5e07cea) |
-| Wed, 01 Oct 2025 09:35:21 GMT | ️ CVE Hunter — Advanced Vulnerability Hacking Tool (For Sale) | Webdev Carlos | [Read More](https://medium.com/p/9f64af9cd4b0) |
-| Wed, 01 Oct 2025 09:31:22 GMT | What Makes HackSpire’25 Unique | Shreejita Biswas | [Read More](https://medium.com/p/96b4cfb74db9) |
-| Wed, 01 Oct 2025 09:30:36 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/23fc7bb54938) |
-| Wed, 01 Oct 2025 09:26:31 GMT | SOC127 — SQL Injection Detected — LetsDefend — Solution | Ismaelgatongg | [Read More](https://medium.com/p/d37f7eed52e9) |
-| Wed, 01 Oct 2025 09:23:16 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/cbc3deb4719b) |
-| Wed, 01 Oct 2025 09:22:07 GMT | Escaping the Tutorial Trap: How to Apply Bug Bounty Knowledge in the Real World | Andrei Ivan | [Read More](https://medium.com/p/d24633f36274) |
-| Wed, 01 Oct 2025 09:14:47 GMT | The Growing Importance of Security Services in India: Spotlight on Security Guard Services in… | Ciss India | [Read More](https://medium.com/p/a8f185f60581) |
-| Wed, 01 Oct 2025 09:11:59 GMT | Powerful Cybersecurity Tools for Hacker_Now Available | Webdev Carlos | [Read More](https://medium.com/p/a37a8f9ae6d5) |
-| Wed, 01 Oct 2025 09:06:03 GMT | The Hookup That Accidentally Turned Into the Most Honest Conversation of My Life | Unknown | [Read More](https://medium.com/p/c23a5ba66c4e) |
-| Wed, 01 Oct 2025 09:03:26 GMT | Relearning Emotional Language: How Couples Can Build Shared Vocabulary to Heal Together | Wilson Igbasi | [Read More](https://medium.com/p/ffec96aaf1e6) |
-| Wed, 01 Oct 2025 08:59:03 GMT | Cybersecurity and the California Consumer Privacy Act (CCPA) | Cyber Security Research | [Read More](https://medium.com/p/81d778d7ce3c) |
