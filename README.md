@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 13:38:16 GMT | Supply Chain Shenanigans | Conceal, Inc. | [Read More](https://medium.com/p/173db5005c72) |
+| Thu, 02 Oct 2025 13:33:44 GMT | What’s it like starting out in cybersecurity? | M.Tayyeb | [Read More](https://medium.com/p/fee5f9d6a7fc) |
+| Thu, 02 Oct 2025 13:32:20 GMT | "In today’s rapidly evolving digital landscape, cybersecurity is essential for protecting… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/d0452d3b14cb) |
 | Thu, 02 Oct 2025 13:11:22 GMT | What is Cybersecurity Awareness Month and Why It Matters | ENVORASEC | [Read More](https://medium.com/p/d6158d273853) |
 | Thu, 02 Oct 2025 13:06:00 GMT | How I Uncovered an IDOR and XSS Chain for a Critical Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/b6e827424579) |
 | Thu, 02 Oct 2025 12:57:33 GMT | Visual Intelligence for Retail & QSR: Protect Margins, Speed, and Safety | Tec-Tel Communications | [Read More](https://medium.com/p/6dd34ee93bb3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 07:06:40 GMT | How Drosera Could Have Stopped the $190M Nomad Bridge Hack | Ife.10x | [Read More](https://medium.com/p/4629e23cdda0) |
 | Thu, 02 Oct 2025 07:06:00 GMT | Network Echoes: Persistent Traces | Infra & Network Core | [Read More](https://medium.com/p/97b5515e1c55) |
 | Thu, 02 Oct 2025 07:05:10 GMT | Linux System Setup & SSH Hardening | Rudy Castillo | [Read More](https://medium.com/p/2cec4a412fdb) |
-| Thu, 02 Oct 2025 07:04:20 GMT | Day 64-Privilege Escalation Explained: what it is, why it’s dangerous, and how beginners can detect… | unica 02 | [Read More](https://medium.com/p/f781dd68c651) |
-| Thu, 02 Oct 2025 07:03:32 GMT | ประจำวันพฤหัสบดีที่ 2 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf397762b08d) |
-| Thu, 02 Oct 2025 06:59:46 GMT | Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick | StrangeRwhite | [Read More](https://medium.com/p/d150c5db0a92) |
