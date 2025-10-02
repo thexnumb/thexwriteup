@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 19:46:12 GMT | The OS Exposed | Ops4Windows | [Read More](https://medium.com/p/b3a072102309) |
+| Thu, 02 Oct 2025 19:46:12 GMT | The risky business of software development | Via Knowledge Hub | [Read More](https://medium.com/p/5b62d24f0190) |
+| Thu, 02 Oct 2025 19:43:17 GMT | The Vulnerability Chronicles: A poem of opening up, titled I Threw Up | DamnAmazon | [Read More](https://medium.com/p/0395f1327baa) |
+| Thu, 02 Oct 2025 19:43:17 GMT | Car Jackings, Cybersecurity, and Python? The Power of Coding | Bartosz Kuligowski | [Read More](https://medium.com/p/080719312d62) |
+| Thu, 02 Oct 2025 19:32:14 GMT | A dev’s guide to hacking DoD compliance | Via Knowledge Hub | [Read More](https://medium.com/p/111daddc6536) |
+| Thu, 02 Oct 2025 19:32:11 GMT | The Windows Detective | Ops4Windows | [Read More](https://medium.com/p/dd3d2f45cf81) |
+| Thu, 02 Oct 2025 19:31:54 GMT | Measuring MTTD and MTTR in Vulnerability Management: Metrics That Actually Matter | Sai Krishna Kakarla | [Read More](https://medium.com/p/5fcbdf394f5d) |
 | Thu, 02 Oct 2025 19:27:28 GMT | How AI Can Make Security Systems Smarter and Better for Business | Vishnu Prashanth Sridhar | [Read More](https://medium.com/p/e3b771925f96) |
 | Thu, 02 Oct 2025 19:19:41 GMT | When the Artist Becomes the Exploit: Jailbreaking LLM Guardrails Through Roleplay and World… | Chris Huffstetler | [Read More](https://medium.com/p/d54f53a79756) |
 | Thu, 02 Oct 2025 19:18:05 GMT | Forget the Rest — One Programming Language Owns High-Frequency Trading | CodeWithPurpose | [Read More](https://medium.com/p/79d79999304a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 14:06:19 GMT | How Many Amps Does a Garage Door Opener Use: Power Requirements Explained | Up & Down Garage Door Services | [Read More](https://medium.com/p/ae2d2241ee92) |
 | Thu, 02 Oct 2025 14:04:36 GMT | ABTU’s Transparent Token Launch: Built on Milestones, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/93694ae3968f) |
 | Thu, 02 Oct 2025 14:01:56 GMT | Cyber Briefing: 2025.10.02 | CyberMaterial | [Read More](https://medium.com/p/c43a3b734958) |
-| Thu, 02 Oct 2025 13:51:30 GMT | The Ultimate Guide to Finding Your First SQL Injection Vulnerability — 2026 | Andrei Ivan | [Read More](https://medium.com/p/0fc788644809) |
-| Thu, 02 Oct 2025 13:51:25 GMT | FortiPAM installation on ESXi | M.Magdy | [Read More](https://medium.com/p/69e602f56931) |
-| Thu, 02 Oct 2025 13:50:21 GMT | Truth About Bug Bounties: Beyond The Overnight Success | Willow Tech | [Read More](https://medium.com/p/b3c8c89be4d4) |
-| Thu, 02 Oct 2025 13:46:53 GMT | a bleeding heart is the sun | warmhrrted | [Read More](https://medium.com/p/21454f830d9a) |
-| Thu, 02 Oct 2025 13:45:37 GMT | Auditd Assassin - How BLKINJECTOR Kills the Watcher | Vahid Malek | [Read More](https://medium.com/p/1e5e72e91f28) |
-| Thu, 02 Oct 2025 13:44:17 GMT | DAY 2 : “5 small habits = big protection.” | aysha | [Read More](https://medium.com/p/e925bb2defa0) |
-| Thu, 02 Oct 2025 13:38:19 GMT | HTB_Academy: Footprinting Lab — Easy | Babatunde Ojo | [Read More](https://medium.com/p/6eec71d723f0) |
