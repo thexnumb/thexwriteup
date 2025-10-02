@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 18:25:39 GMT | The Linux Process Journey — hostapd (Host Access Point Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7bf9f6af695f) |
+| Thu, 02 Oct 2025 18:24:48 GMT | Stateful Firewall: How It Works and Why Businesses Need It | SafeAeon Inc. | [Read More](https://medium.com/p/1820f2306b20) |
+| Thu, 02 Oct 2025 18:15:40 GMT | Dark Web Monitoring: How Businesses Can Detect and Prevent Data Leaks | SafeAeon Inc. | [Read More](https://medium.com/p/0c2f4e11868c) |
 | Thu, 02 Oct 2025 18:14:50 GMT | Mastering AppArmor Profiles in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/c1643a961f07) |
 | Thu, 02 Oct 2025 18:13:41 GMT | To What Extent Is AI the Main Driving Force Reshaping Cybersecurity? | Turab Hassan | [Read More](https://medium.com/p/50e34c3d374b) |
 | Thu, 02 Oct 2025 18:10:42 GMT | SGS Consulting Recognized as a 2025 Randstad Sourceright Preferred Supplier | SGS Consulting | [Read More](https://medium.com/p/16ad79324ed4) |
@@ -39,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 16:57:16 GMT | Astrophysical Steganography - Hiding Messages in the Universe | Anshuman Sahoo | [Read More](https://medium.com/p/17875789a577) |
 | Thu, 02 Oct 2025 16:55:35 GMT | BFT — Digital Forensics (DFIR) | Tiziano Mass | [Read More](https://medium.com/p/367c34821ce1) |
 | Thu, 02 Oct 2025 16:51:22 GMT | The Great Cybersecurity Comedy of Errors | Vamsi Basa | [Read More](https://medium.com/p/847f9564f411) |
+| Thu, 02 Oct 2025 16:40:55 GMT | The Cybersecurity Skills Gap: Addressing the Talent Shortage | Cyber Security Research | [Read More](https://medium.com/p/cabf06b61486) |
 | Thu, 02 Oct 2025 16:35:44 GMT | I Almost Quit Hacking | Shahzaib | [Read More](https://medium.com/p/a961ef9924fc) |
 | Thu, 02 Oct 2025 16:35:10 GMT | The ‘Failure Resume’: Why a Junior Pentester’s Best Tool is Documenting What Didn’t Work | vydhi | [Read More](https://medium.com/p/0b1c781b08aa) |
 | Thu, 02 Oct 2025 16:33:33 GMT | Advanced Persistent Threats (APTs): Understanding the Enemy | Cyber Security Research | [Read More](https://medium.com/p/a96c27b6799f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 12:42:08 GMT | Writeup — SunshineCTF | DieLoop | [Read More](https://medium.com/p/4766df04ce36) |
 | Thu, 02 Oct 2025 12:40:38 GMT | Ethical AI in Finance: How to Build Systems That Don’t Discriminate | Donald Chepkutwo | [Read More](https://medium.com/p/091d07543b1a) |
 | Thu, 02 Oct 2025 12:40:08 GMT | Penetration Testing Fundamentals — THM Room Walkthrough | Asif.k | [Read More](https://medium.com/p/be458dbd9ea8) |
-| Thu, 02 Oct 2025 12:35:34 GMT | Solving Command & Control 2 Lab — MalwareTech challenge | Karim Walid | [Read More](https://medium.com/p/18e408ad5681) |
-| Thu, 02 Oct 2025 12:35:07 GMT | chattr: A Brief History and the Magic of Immutable Files in Linux | Romanbrick | [Read More](https://medium.com/p/fa6af952edf8) |
-| Thu, 02 Oct 2025 12:34:08 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Motasem Hamdan | [Read More](https://medium.com/p/77998b84de4c) |
-| Thu, 02 Oct 2025 12:29:02 GMT | Cybersecurity Awareness Month: Why It Matters Beyond Tech | Tanvi Badghare | [Read More](https://medium.com/p/0df2c2b1fca8) |
