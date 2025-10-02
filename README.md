@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 23:32:46 GMT | 3v@l — Exploiting an eval-based Loan Calculator (picoCTF) | Sahand Babali | [Read More](https://medium.com/p/4d3f8e53551b) |
+| Thu, 02 Oct 2025 23:26:30 GMT | TryHackMe #77 - Trooper | 0xGroot | [Read More](https://medium.com/p/cee19991a600) |
+| Thu, 02 Oct 2025 23:26:04 GMT | PG Practice — Mice(Windows) | Lepton | [Read More](https://medium.com/p/2e88f45bfe78) |
+| Thu, 02 Oct 2025 23:22:11 GMT | TryHackMe #76 - Friday Overtime | 0xGroot | [Read More](https://medium.com/p/f1b063b370f0) |
+| Thu, 02 Oct 2025 23:19:19 GMT | Incident Response Fundamentals - THM | Isiah | [Read More](https://medium.com/p/a02668d85654) |
+| Thu, 02 Oct 2025 23:18:13 GMT | Layer 2 Attacks and Solutions in Switch-Based Networks | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/7b09d55b84fb) |
 | Thu, 02 Oct 2025 23:11:05 GMT | Cybersecurity Weekly Issue 51 | This Week In I/O | [Read More](https://medium.com/p/57b00316d726) |
 | Thu, 02 Oct 2025 23:07:51 GMT | Unwelcome and Dangerous Internet Traffic | George Sidman | [Read More](https://medium.com/p/1d93f01c4019) |
 | Thu, 02 Oct 2025 23:04:58 GMT | Why Passing SPF and DKIM Isn’t Enough: A New Framework for Email Sender Trust | Nikola | [Read More](https://medium.com/p/66f94350a431) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 16:03:32 GMT | Scanning the Scanners: A SOC Analyst’s Guide to Network Discovery Detection | Furkanctiner | [Read More](https://medium.com/p/1203cd804877) |
 | Thu, 02 Oct 2025 15:51:22 GMT | No Turning Back as US IT Leaders Invest Boldly in AI, Data and Cybersecurity | Strategy Insights | [Read More](https://medium.com/p/b35f7ac6da3e) |
 | Thu, 02 Oct 2025 15:45:44 GMT | Russia’s Starlink Gamble — How One GRU Unit 74455 Could Weaponize User Devices | The Forensic Archive | [Read More](https://medium.com/p/5efcec559a4a) |
-| Thu, 02 Oct 2025 15:40:09 GMT | What is Vishing? - Not too Much - Lumirism | Lumirism | [Read More](https://medium.com/p/dc7341910cce) |
-| Thu, 02 Oct 2025 15:33:39 GMT | Litigation, Exodus, and Ego: Elon Musk’s AI Spiral | Dr Rita Pal | [Read More](https://medium.com/p/fa0a7eda3b7f) |
-| Thu, 02 Oct 2025 15:27:49 GMT | Smart Tech For C-Suite Health Leaders — What You Need To Know Now | Partners in Digital Health | [Read More](https://medium.com/p/43d39ab43ee9) |
-| Thu, 02 Oct 2025 15:27:10 GMT | The Quantum Thief | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/ed87209949d0) |
-| Thu, 02 Oct 2025 15:25:53 GMT | Windows 25H2 Has Launched: What You Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/2942dd58bc1a) |
-| Thu, 02 Oct 2025 15:22:32 GMT | How I Hacked a Web Application Using Simple Math: A Server-Side Template Injection Deep Dive | Aneeqibtesam | [Read More](https://medium.com/p/2ad86912e4e2) |
