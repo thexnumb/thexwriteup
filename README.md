@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 11:10:49 GMT | How I found SQL Injection on State Government | Ayush | [Read More](https://medium.com/p/a389f1ca356c) |
+| Thu, 02 Oct 2025 11:10:03 GMT | Septiembre 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/18d959f3144b) |
+| Thu, 02 Oct 2025 11:01:55 GMT | November 10th Deadline Approaches: Is Your Defense Firm CMMC Ready? | Brittney Ginther | [Read More](https://medium.com/p/9925658b0837) |
+| Thu, 02 Oct 2025 11:01:20 GMT | For The Joy of What Is to Come… | Faith Omada Onoja | [Read More](https://medium.com/p/942db8cf27e0) |
+| Thu, 02 Oct 2025 10:55:58 GMT | Malware Analysis: Raven Stealer | Jon C | [Read More](https://medium.com/p/2a4ddb212ef0) |
+| Thu, 02 Oct 2025 10:54:41 GMT | The Gemini Trifecta: Why We Must Secure the AI Itself, Not Just its Perimeter | Eugene Peh | [Read More](https://medium.com/p/dcde7b826e05) |
+| Thu, 02 Oct 2025 10:54:39 GMT | SSRF Payloads & IPFuscation Guide | Cybersecplayground | [Read More](https://medium.com/p/46e7ee9b2272) |
+| Thu, 02 Oct 2025 10:54:15 GMT | Google is Fearing This: The One DevSecOps Flaw That Almost Broke a Multi-Billion-Dollar Chain | Web3 Nautiyal | [Read More](https://medium.com/p/a2316bf6dd90) |
+| Thu, 02 Oct 2025 10:47:30 GMT | Linux Workstation Hardening: Enhancing Security with UFW | Citadel Cybersec | [Read More](https://medium.com/p/662bd81af426) |
+| Thu, 02 Oct 2025 10:47:23 GMT | HTB CTF Holmes 2025 challenge was worth the effort. | Kingsley Uchunor | [Read More](https://medium.com/p/fe5a9d815737) |
+| Thu, 02 Oct 2025 10:43:20 GMT | Jira Permissions: Best Practices for Large Teams | Erdem UÇAK | [Read More](https://medium.com/p/bfef243fc4fe) |
+| Thu, 02 Oct 2025 10:43:13 GMT | Espionage, Shutdowns, and AI Blunders: A Week in Cyber News. | Seb AGUELE | [Read More](https://medium.com/p/5b7b006fb413) |
+| Thu, 02 Oct 2025 10:37:32 GMT | The Timeless Game of Deception: Why Fraud Never Dies | Godsway R. Akakpo | [Read More](https://medium.com/p/1d17d48488cc) |
+| Thu, 02 Oct 2025 10:31:49 GMT | 12 Compliance-Friendly Automations for Data at Scale | Nexumo | [Read More](https://medium.com/p/fd181be78925) |
 | Thu, 02 Oct 2025 10:31:16 GMT | Traffic Flow in a 3-Tier AWS Architecture: Route 53 → CloudFront → ALB | Thamotharan NK PILLAI | [Read More](https://medium.com/p/8f782a85e66a) |
+| Thu, 02 Oct 2025 10:30:15 GMT | 5 Evidence-Based Learning Techniques to Improve Knowledge Retention. | Gomolemo Moagi | [Read More](https://medium.com/p/a37dd5fd72c9) |
 | Thu, 02 Oct 2025 10:22:20 GMT | Understanding Your Network with Centurion’s Net Calls Panel | Alex Cabrera | [Read More](https://medium.com/p/e7a0d294e7d1) |
 | Thu, 02 Oct 2025 10:21:21 GMT | HTB: Intentions | Diego De Venuto | [Read More](https://medium.com/p/d262f041224d) |
 | Thu, 02 Oct 2025 10:18:47 GMT | Enhanced Account Security: Linking Your TLIP Account to Your Official KRA PIN | Trade and Logistics Information Pipeline | [Read More](https://medium.com/p/51ac623bff55) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 05:25:23 GMT | Introducing: Breadcrumbs Investigation Tool | Toastie | [Read More](https://medium.com/p/29bc797b032d) |
 | Thu, 02 Oct 2025 05:23:41 GMT | Unlocking the Future: Why Passkeys Are About to Change Your Digital Life (And Ditch Your Passwords… | Sivavishnu | [Read More](https://medium.com/p/5d02f0beed31) |
 | Thu, 02 Oct 2025 05:17:19 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/06d1b9d5130a) |
-| Thu, 02 Oct 2025 05:02:07 GMT | Intrusion Detection System | Pretty_Knight | [Read More](https://medium.com/p/4190653309f8) |
-| Thu, 02 Oct 2025 04:49:45 GMT | Ghost calls: who does this and why does this matter at all? | Gergert Maxim | [Read More](https://medium.com/p/c19efc028a0d) |
-| Thu, 02 Oct 2025 04:43:50 GMT | Cybersecurity in Manufacturing: Protecting Production Lines and Industrial Processes | Cyber Security Research | [Read More](https://medium.com/p/e201b9ff0697) |
-| Thu, 02 Oct 2025 04:38:23 GMT | ChatGPT is not an LLM! | Oguzhan Topgul | [Read More](https://medium.com/p/c3ec614f615e) |
-| Thu, 02 Oct 2025 04:35:34 GMT | The Kindness of Strangers Was the Only Thing I Couldn’t Forgive | vydhi | [Read More](https://medium.com/p/e46d8a75f6af) |
-| Thu, 02 Oct 2025 04:31:54 GMT | Encryption Key Management in Snowflake: A Deep Dive into Data Security Architecture | Rajiv Gupta | [Read More](https://medium.com/p/bee6b87b572f) |
-| Thu, 02 Oct 2025 03:50:02 GMT | Drosera: Ethereum’s Last Line of Defense | Mohammedaliyu | [Read More](https://medium.com/p/66d9bd94c2e8) |
-| Thu, 02 Oct 2025 03:47:00 GMT | Bluzor.cc Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/002fd527b1c7) |
-| Thu, 02 Oct 2025 03:46:49 GMT | Campanha de Phishing Brasil — Uma analise do Malware | dathanNobrega | [Read More](https://medium.com/p/f08b3df50539) |
-| Thu, 02 Oct 2025 03:43:32 GMT | Is Coatedf.cc Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/88a633b0d0da) |
-| Thu, 02 Oct 2025 03:40:36 GMT | Can You Trust Resolvedapps.diy? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/a46aa52b6769) |
-| Thu, 02 Oct 2025 03:31:50 GMT | The Validation Trap: Why Hackers Chase Hall of Fame Instead of Real Bugs | Đeepanshu | [Read More](https://medium.com/p/010fb3a4bd76) |
-| Thu, 02 Oct 2025 03:25:12 GMT | Stillwellinvestings.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/c94977820ce1) |
-| Thu, 02 Oct 2025 03:22:25 GMT | Cybersecurity Awareness Month: Building a Culture of Cyber Resilience | Paritosh | [Read More](https://medium.com/p/8eabd9d4f4fe) |
-| Thu, 02 Oct 2025 03:15:18 GMT | Is Belvarium.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/ac93c0d49a63) |
