@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 13:11:22 GMT | What is Cybersecurity Awareness Month and Why It Matters | ENVORASEC | [Read More](https://medium.com/p/d6158d273853) |
+| Thu, 02 Oct 2025 13:06:00 GMT | How I Uncovered an IDOR and XSS Chain for a Critical Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/b6e827424579) |
+| Thu, 02 Oct 2025 12:57:33 GMT | Visual Intelligence for Retail & QSR: Protect Margins, Speed, and Safety | Tec-Tel Communications | [Read More](https://medium.com/p/6dd34ee93bb3) |
+| Thu, 02 Oct 2025 12:44:31 GMT | The Role of AI in Modern Cybersecurity | Andres Quintero | [Read More](https://medium.com/p/53a1a6bc64df) |
+| Thu, 02 Oct 2025 12:43:00 GMT | Why Enterprise Browsers Are the Missing Link in Your Zero Trust Security Stack | Mammoth Cyber | [Read More](https://medium.com/p/be55be0e46be) |
+| Thu, 02 Oct 2025 12:42:08 GMT | Writeup — SunshineCTF | DieLoop | [Read More](https://medium.com/p/4766df04ce36) |
+| Thu, 02 Oct 2025 12:40:38 GMT | Ethical AI in Finance: How to Build Systems That Don’t Discriminate | Donald Chepkutwo | [Read More](https://medium.com/p/091d07543b1a) |
 | Thu, 02 Oct 2025 12:40:08 GMT | Penetration Testing Fundamentals — THM Room Walkthrough | Asif.k | [Read More](https://medium.com/p/be458dbd9ea8) |
+| Thu, 02 Oct 2025 12:35:34 GMT | Solving Command & Control 2 Lab — MalwareTech challenge | Karim Walid | [Read More](https://medium.com/p/18e408ad5681) |
+| Thu, 02 Oct 2025 12:35:07 GMT | chattr: A Brief History and the Magic of Immutable Files in Linux | Romanbrick | [Read More](https://medium.com/p/fa6af952edf8) |
+| Thu, 02 Oct 2025 12:34:08 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Motasem Hamdan | [Read More](https://medium.com/p/77998b84de4c) |
 | Thu, 02 Oct 2025 12:29:02 GMT | Cybersecurity Awareness Month: Why It Matters Beyond Tech | Tanvi Badghare | [Read More](https://medium.com/p/0df2c2b1fca8) |
 | Thu, 02 Oct 2025 12:26:07 GMT | How to Become an Ethical Hacker — Short Version | Ōfficial_Årūñbhāī | [Read More](https://medium.com/p/0a148a656eea) |
 | Thu, 02 Oct 2025 12:24:03 GMT | Software Supply Chain Attack — NPM Dependency Confusion | TheRoyHunter313 | [Read More](https://medium.com/p/b8c35daf0bad) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 07:04:20 GMT | Day 64-Privilege Escalation Explained: what it is, why it’s dangerous, and how beginners can detect… | unica 02 | [Read More](https://medium.com/p/f781dd68c651) |
 | Thu, 02 Oct 2025 07:03:32 GMT | ประจำวันพฤหัสบดีที่ 2 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf397762b08d) |
 | Thu, 02 Oct 2025 06:59:46 GMT | Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick | StrangeRwhite | [Read More](https://medium.com/p/d150c5db0a92) |
-| Thu, 02 Oct 2025 06:59:21 GMT | Network Shadows: Emerging Realities | Infra & Network Core | [Read More](https://medium.com/p/5f92744e1925) |
-| Thu, 02 Oct 2025 06:59:12 GMT | Leading with Honesty, Not Certainty: | Phil Gold | [Read More](https://medium.com/p/07f2d2402481) |
-| Thu, 02 Oct 2025 06:55:38 GMT | Pancasila “Yang Beneran” Sakti | I.T. ALDARY | [Read More](https://medium.com/p/ae579d942e45) |
-| Thu, 02 Oct 2025 06:47:51 GMT | Can I Haz Root? :: THREE | Cyber Grover ‍ | [Read More](https://medium.com/p/d43d02f65c4b) |
-| Thu, 02 Oct 2025 06:46:10 GMT | Network Sentinel: Monitoring the Core | Infra & Network Core | [Read More](https://medium.com/p/4c31fe73c97f) |
-| Thu, 02 Oct 2025 06:45:59 GMT | From scripts to smart agents: how AI is reinventing Penetration Testing | Rui Fernandes | [Read More](https://medium.com/p/17d330adec4c) |
-| Thu, 02 Oct 2025 06:44:40 GMT | Hardening Proxmox: Startup Dreams vs. Security Nightmares | Mr.PlanB | [Read More](https://medium.com/p/b74cd0c34dc9) |
-| Thu, 02 Oct 2025 06:40:46 GMT | Find Reflected Cross-Site Scripting (XSS) in Government Site | Ahmadfaizabdillah | [Read More](https://medium.com/p/f1ec8b888e78) |
-| Thu, 02 Oct 2025 06:23:16 GMT | Security and Performance Aspects of AppArmor Profiles | Eren Cankut Uysal | [Read More](https://medium.com/p/8ae688508a03) |
-| Thu, 02 Oct 2025 06:19:03 GMT | How the Family System Criminalises | Lathika PB | [Read More](https://medium.com/p/231079d9440e) |
