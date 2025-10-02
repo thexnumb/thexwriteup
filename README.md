@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 19:27:28 GMT | How AI Can Make Security Systems Smarter and Better for Business | Vishnu Prashanth Sridhar | [Read More](https://medium.com/p/e3b771925f96) |
+| Thu, 02 Oct 2025 19:19:41 GMT | When the Artist Becomes the Exploit: Jailbreaking LLM Guardrails Through Roleplay and World… | Chris Huffstetler | [Read More](https://medium.com/p/d54f53a79756) |
+| Thu, 02 Oct 2025 19:18:05 GMT | Forget the Rest — One Programming Language Owns High-Frequency Trading | CodeWithPurpose | [Read More](https://medium.com/p/79d79999304a) |
+| Thu, 02 Oct 2025 19:14:47 GMT | 7 Hidden-Gem Websites I Use Every Single Day in 2025 | CodeWithPurpose | [Read More](https://medium.com/p/faa2aab2ae0b) |
+| Thu, 02 Oct 2025 19:11:33 GMT | Forget the Codebase — Your Real Legacy Is the Team You Build | Observability Guy | [Read More](https://medium.com/p/162dfb5bfe73) |
 | Thu, 02 Oct 2025 19:02:27 GMT | PG Practice — Hetemit (Linux) | Lepton | [Read More](https://medium.com/p/bfbb5e1cb5b5) |
 | Thu, 02 Oct 2025 19:02:23 GMT | CyberDefenders: REvil Lab | Rahaliashraf | [Read More](https://medium.com/p/656dd8c7a9da) |
 | Thu, 02 Oct 2025 18:52:16 GMT | ⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo | Gorka | [Read More](https://medium.com/p/952bfb65446a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 13:45:37 GMT | Auditd Assassin - How BLKINJECTOR Kills the Watcher | Vahid Malek | [Read More](https://medium.com/p/1e5e72e91f28) |
 | Thu, 02 Oct 2025 13:44:17 GMT | DAY 2 : “5 small habits = big protection.” | aysha | [Read More](https://medium.com/p/e925bb2defa0) |
 | Thu, 02 Oct 2025 13:38:19 GMT | HTB_Academy: Footprinting Lab — Easy | Babatunde Ojo | [Read More](https://medium.com/p/6eec71d723f0) |
-| Thu, 02 Oct 2025 13:38:16 GMT | Supply Chain Shenanigans | Conceal, Inc. | [Read More](https://medium.com/p/173db5005c72) |
-| Thu, 02 Oct 2025 13:33:44 GMT | What’s it like starting out in cybersecurity? | M.Tayyeb | [Read More](https://medium.com/p/fee5f9d6a7fc) |
-| Thu, 02 Oct 2025 13:32:20 GMT | "In today’s rapidly evolving digital landscape, cybersecurity is essential for protecting… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/d0452d3b14cb) |
-| Thu, 02 Oct 2025 13:11:22 GMT | What is Cybersecurity Awareness Month and Why It Matters | ENVORASEC | [Read More](https://medium.com/p/d6158d273853) |
-| Thu, 02 Oct 2025 13:06:00 GMT | How I Uncovered an IDOR and XSS Chain for a Critical Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/b6e827424579) |
