@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 16:35:44 GMT | I Almost Quit Hacking | Shahzaib | [Read More](https://medium.com/p/a961ef9924fc) |
+| Thu, 02 Oct 2025 16:35:10 GMT | The ‘Failure Resume’: Why a Junior Pentester’s Best Tool is Documenting What Didn’t Work | vydhi | [Read More](https://medium.com/p/0b1c781b08aa) |
+| Thu, 02 Oct 2025 16:33:33 GMT | Advanced Persistent Threats (APTs): Understanding the Enemy | Cyber Security Research | [Read More](https://medium.com/p/a96c27b6799f) |
+| Thu, 02 Oct 2025 16:30:46 GMT | Flipper Zero: The Hottest Hacking Device of 2025? | Shahzaib | [Read More](https://medium.com/p/8ad3bbeada5b) |
+| Thu, 02 Oct 2025 16:29:27 GMT | GitHub — Paddyjoe12/bughunter-mvp: Minimal Docker-based bug hunting starter stack (FastAPI +… | ghostyjoe | [Read More](https://medium.com/p/54eed66884bc) |
+| Thu, 02 Oct 2025 16:29:21 GMT | Thinkware U1000 Plus Dash Cam System REVIEW — MacSources | MacSources | [Read More](https://medium.com/p/5a40aae222a5) |
+| Thu, 02 Oct 2025 16:27:45 GMT | Faire is now ISO 27001 certified | Waylon Janowiak | [Read More](https://medium.com/p/d3474d4167fe) |
+| Thu, 02 Oct 2025 16:26:54 GMT | Mastering the Art of Social Engineering Defense | Cyber Security Research | [Read More](https://medium.com/p/60f2711e4233) |
+| Thu, 02 Oct 2025 16:18:38 GMT | The missing link in MDR. Spoiler, it starts with a Detection Engineering framework. | Behemoth Security | [Read More](https://medium.com/p/5f836347c92f) |
 | Thu, 02 Oct 2025 16:13:07 GMT | Cybersecurity in Banking: How to Protect Your Money in 2025 | smartfinancetipss | [Read More](https://medium.com/p/d6d28f35b827) |
 | Thu, 02 Oct 2025 16:09:47 GMT | Broken Access Control | aimaster | [Read More](https://medium.com/p/c100c2f3b0e8) |
 | Thu, 02 Oct 2025 16:08:09 GMT | Don’t Get Hacked: The Critical Defense Against Telegram Phishing Scams | Prince Philip | [Read More](https://medium.com/p/58ec076b784a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 10:31:49 GMT | 12 Compliance-Friendly Automations for Data at Scale | Nexumo | [Read More](https://medium.com/p/fd181be78925) |
 | Thu, 02 Oct 2025 10:31:16 GMT | Traffic Flow in a 3-Tier AWS Architecture: Route 53 → CloudFront → ALB | Thamotharan NK PILLAI | [Read More](https://medium.com/p/8f782a85e66a) |
 | Thu, 02 Oct 2025 10:30:15 GMT | 5 Evidence-Based Learning Techniques to Improve Knowledge Retention. | Gomolemo Moagi | [Read More](https://medium.com/p/a37dd5fd72c9) |
-| Thu, 02 Oct 2025 10:22:20 GMT | Understanding Your Network with Centurion’s Net Calls Panel | Alex Cabrera | [Read More](https://medium.com/p/e7a0d294e7d1) |
-| Thu, 02 Oct 2025 10:21:21 GMT | HTB: Intentions | Diego De Venuto | [Read More](https://medium.com/p/d262f041224d) |
-| Thu, 02 Oct 2025 10:18:47 GMT | Enhanced Account Security: Linking Your TLIP Account to Your Official KRA PIN | Trade and Logistics Information Pipeline | [Read More](https://medium.com/p/51ac623bff55) |
-| Thu, 02 Oct 2025 10:15:49 GMT | Co je NIS2 a co od něj očekávat? | Cyber Solution | [Read More](https://medium.com/p/a6f77ca1aa38) |
-| Thu, 02 Oct 2025 10:15:20 GMT | Data Immortality: How Your Information Can Live Forever | Bervice | [Read More](https://medium.com/p/5759d48ab943) |
-| Thu, 02 Oct 2025 10:13:13 GMT | Logların İzinde: APT Günlükleri — 2 | Ali Ekber KARA | [Read More](https://medium.com/p/ad21995ac40b) |
-| Thu, 02 Oct 2025 10:12:08 GMT | AI Coding Tools Are Inventing Fake Packages (Hackers Are Paying Attention) | Krunal Kanojiya | [Read More](https://medium.com/p/5186ce6c3259) |
-| Thu, 02 Oct 2025 10:09:35 GMT | Someone Like This | Shupti Ahmed | [Read More](https://medium.com/p/dd2f305a6ea1) |
-| Thu, 02 Oct 2025 10:09:31 GMT | BACK TO BASICS: US Secretary of Defense Hegseth’s Blunt Message to American Generals — and Why It… | Sgshehu | [Read More](https://medium.com/p/a7c3b26a04ab) |
