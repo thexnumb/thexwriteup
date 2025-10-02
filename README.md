@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 03:25:12 GMT | Stillwellinvestings.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/c94977820ce1) |
+| Thu, 02 Oct 2025 03:22:25 GMT | Cybersecurity Awareness Month: Building a Culture of Cyber Resilience | Paritosh | [Read More](https://medium.com/p/8eabd9d4f4fe) |
+| Thu, 02 Oct 2025 03:15:18 GMT | Is Belvarium.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/ac93c0d49a63) |
+| Thu, 02 Oct 2025 03:11:05 GMT | MCRTA(MULTI-CLOUD RED TEAMING ANALYST) | anonymous.gharti | [Read More](https://medium.com/p/d31e6f9dcaf1) |
+| Thu, 02 Oct 2025 03:10:42 GMT | Is eye.my a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/743d121d9735) |
+| Thu, 02 Oct 2025 03:08:25 GMT | PostgreSQL Performance Tuning: AI-Driven Query Optimization Techniques for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/917e227c5b7f) |
+| Thu, 02 Oct 2025 03:06:00 GMT | Errors to API Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/cbcf2b73946e) |
+| Thu, 02 Oct 2025 03:00:01 GMT | The Fourth Angel Has Arrived! Can Your Autonomous Vehicle Withstand the “Shape-Shifting” AI Attack? | Scott Huang | [Read More](https://medium.com/p/48806ef51618) |
+| Thu, 02 Oct 2025 02:58:31 GMT | PhishDebate: When AI Agents Argue to Keep You Safe Online | Chris Zhang | [Read More](https://medium.com/p/3ace2d961bff) |
+| Thu, 02 Oct 2025 02:51:43 GMT | Why Your Password Isn’t Protecting You (And What Actually Works) | Arfa | [Read More](https://medium.com/p/db13ea2ed0b4) |
 | Thu, 02 Oct 2025 02:31:28 GMT | Security Assessment: Vulnhub Napping Walkthrough | Luke Gearty | [Read More](https://medium.com/p/ac69d05c724c) |
 | Thu, 02 Oct 2025 02:16:04 GMT | Cybersecurity and Machine Learning | Mersadi Freeman | [Read More](https://medium.com/p/c37b468b9716) |
 | Thu, 02 Oct 2025 02:11:45 GMT | My Personal Website | TAYO | [Read More](https://medium.com/p/8879c371fb8b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 18:42:02 GMT | Configuring Wazuh to Send Logs to Graylog for Normalization (Setting up Filebeat) | Arfan Abid | [Read More](https://medium.com/p/563db817a030) |
 | Wed, 01 Oct 2025 18:34:40 GMT | That time an Agentic AI Pentester beat me in CAPIE! | Thexssrat | [Read More](https://medium.com/p/9ef6097c3c33) |
 | Wed, 01 Oct 2025 18:28:53 GMT | Perfection  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/dbb6a234da25) |
-| Wed, 01 Oct 2025 18:26:52 GMT | Your Business Could Disappear Overnight | Janeel Abrahams | [Read More](https://medium.com/p/26062b133e3f) |
-| Wed, 01 Oct 2025 18:19:44 GMT | California Creates First State AI Safety Law: SB 53 | Valdez Ladd | [Read More](https://medium.com/p/a4219c87dd9a) |
-| Wed, 01 Oct 2025 18:18:00 GMT | Certificates in Action: Templates, Auto-Enrollment, and the Path to Wi-Fi Bliss | Alex | [Read More](https://medium.com/p/f5f381208c82) |
-| Wed, 01 Oct 2025 18:12:20 GMT | An Itinerary to New Ways of Merging Tech and the Humanities | Petra Drotleff | [Read More](https://medium.com/p/0518194ddebf) |
-| Wed, 01 Oct 2025 18:07:52 GMT | The Day an Unpatched PLC Almost Shut Down a Plant | Cyberkech | [Read More](https://medium.com/p/61ceb94d26d9) |
-| Wed, 01 Oct 2025 18:07:51 GMT | Inyección SQL: el truco barato con el que los hackers tumban tu seguridad | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/466d20df46c8) |
-| Wed, 01 Oct 2025 18:07:01 GMT | A while ago, I was hunting for bugs like I usually do – just going through recon, mapping… | Hamzah Hatamleh | [Read More](https://medium.com/p/cb75ea3b73b9) |
-| Wed, 01 Oct 2025 18:06:10 GMT | GetPDF lab - Cyber Defenders walkthrough | Abdulla Abdulrhem | [Read More](https://medium.com/p/be806260f4f9) |
-| Wed, 01 Oct 2025 18:02:04 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/d55d04b6878c) |
-| Wed, 01 Oct 2025 18:01:52 GMT | ⚡ Burp Suite como un pro: workflow real, sin perder el tiempo (estreno mañana) | Gorka | [Read More](https://medium.com/p/db2429b15954) |
