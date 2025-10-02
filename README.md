@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 05:02:07 GMT | Intrusion Detection System | Pretty_Knight | [Read More](https://medium.com/p/4190653309f8) |
+| Thu, 02 Oct 2025 04:49:45 GMT | Ghost calls: who does this and why does this matter at all? | Gergert Maxim | [Read More](https://medium.com/p/c19efc028a0d) |
+| Thu, 02 Oct 2025 04:43:50 GMT | Cybersecurity in Manufacturing: Protecting Production Lines and Industrial Processes | Cyber Security Research | [Read More](https://medium.com/p/e201b9ff0697) |
+| Thu, 02 Oct 2025 04:38:23 GMT | ChatGPT is not an LLM! | Oguzhan Topgul | [Read More](https://medium.com/p/c3ec614f615e) |
+| Thu, 02 Oct 2025 04:35:34 GMT | The Kindness of Strangers Was the Only Thing I Couldn’t Forgive | vydhi | [Read More](https://medium.com/p/e46d8a75f6af) |
 | Thu, 02 Oct 2025 04:31:54 GMT | Encryption Key Management in Snowflake: A Deep Dive into Data Security Architecture | Rajiv Gupta | [Read More](https://medium.com/p/bee6b87b572f) |
 | Thu, 02 Oct 2025 03:50:02 GMT | Drosera: Ethereum’s Last Line of Defense | Mohammedaliyu | [Read More](https://medium.com/p/66d9bd94c2e8) |
 | Thu, 02 Oct 2025 03:47:00 GMT | Bluzor.cc Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/002fd527b1c7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 19:13:13 GMT | Chaining Vulnerabilities - Tryhackme Walk-through by Abhishek | Abhishek | [Read More](https://medium.com/p/c0e4eda75f49) |
 | Wed, 01 Oct 2025 19:07:50 GMT | The Secret Reason the Western System Steals Your Purpose | Richard Ogundele | [Read More](https://medium.com/p/2520c0a239f7) |
 | Wed, 01 Oct 2025 19:05:41 GMT | MobileHackingLabs — IoT Connect Lab | everythingBlackkk | [Read More](https://medium.com/p/e061132baf7a) |
-| Wed, 01 Oct 2025 19:05:37 GMT | From Scripted Bots to Self-Reflecting Tacticians: The New Frontier of AI Combat Simulation | Berend Watchus | [Read More](https://medium.com/p/de889df6bbd3) |
-| Wed, 01 Oct 2025 19:02:10 GMT | Blind SQL Injection Walkthrough — DVWA (Low, Medium, High) | Vaishnavkp | [Read More](https://medium.com/p/4044a1c85df1) |
-| Wed, 01 Oct 2025 19:00:21 GMT | The Hidden Pitfalls of Asynchronous JavaScript: Lessons From My Own Debugging Nightmares | Kainat Nafees | [Read More](https://medium.com/p/133aa2ecd5d6) |
-| Wed, 01 Oct 2025 19:00:04 GMT | Debugging the Bayou Onezime’s Firmware Update on Vishing, Smishing, & Plishing | Jerileewei | [Read More](https://medium.com/p/8d9f6d0d778b) |
-| Wed, 01 Oct 2025 18:58:23 GMT | WebStrike Lab Cyberdefenders Writeup | GM4saken | [Read More](https://medium.com/p/4660bbb21c79) |
