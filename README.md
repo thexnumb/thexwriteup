@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 06:23:16 GMT | Security and Performance Aspects of AppArmor Profiles | Eren Cankut Uysal | [Read More](https://medium.com/p/8ae688508a03) |
+| Thu, 02 Oct 2025 06:04:53 GMT | From Name to Number: Demystifying the DNS, the Internet’s Unseen GPS | Deep Pathak | [Read More](https://medium.com/p/df768f96843d) |
+| Thu, 02 Oct 2025 05:59:03 GMT | Part 3 : Version Control Security: Branch Protections | Dean | [Read More](https://medium.com/p/bb0aad53e21b) |
+| Thu, 02 Oct 2025 05:57:16 GMT | AppArmor Profiles Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/2a86320e80d7) |
+| Thu, 02 Oct 2025 05:47:10 GMT | How Artificial Intelligence (AI) Protects Your Data from Cyber Threats | Rodhi Faisal Mufid | [Read More](https://medium.com/p/84d77166c784) |
+| Thu, 02 Oct 2025 05:46:37 GMT | ScriptCTF 2025 Write-up | Prakshit Jain | [Read More](https://medium.com/p/77e69dbff26f) |
+| Thu, 02 Oct 2025 05:40:51 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/81e763b56c4e) |
+| Thu, 02 Oct 2025 05:35:58 GMT | ️ Debug Disaster: How Leftover Dev Tools Turned Me Into a Production Data Superhero | Iski | [Read More](https://medium.com/p/716b5f4155f4) |
 | Thu, 02 Oct 2025 05:32:45 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/0bc1f7870a2e) |
 | Thu, 02 Oct 2025 05:32:01 GMT | Risk Management vs Compliance: Which Door Should You Choose? | Raleigh Guevarra | [Read More](https://medium.com/p/a5d9e5d6b5b3) |
 | Thu, 02 Oct 2025 05:25:39 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/39a13795e5f0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 19:58:14 GMT | Is Chatgpt 5 The New Blackhat SEO | Maria Johnsen | [Read More](https://medium.com/p/3f7088a807d4) |
 | Wed, 01 Oct 2025 19:57:08 GMT | Revisiting RemoteAgentFramework: Revamping, Updating, and Refining an Old Cybersecurity Project | Orkun Kurul | [Read More](https://medium.com/p/de098cad04de) |
 | Wed, 01 Oct 2025 19:53:25 GMT | Web Application Security Testing: A Complete Guide for Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/807c38708fce) |
-| Wed, 01 Oct 2025 19:52:42 GMT | Exploring the Windows Kernel | Ops4Windows | [Read More](https://medium.com/p/18058beb0c98) |
-| Wed, 01 Oct 2025 19:47:38 GMT | What Tech Leaders Can Learn from Shifts in Consumer Behavior | Eightpoint | [Read More](https://medium.com/p/2c39d7efa9b1) |
-| Wed, 01 Oct 2025 19:46:47 GMT | Hunting Polymorphic Malware | Deniz Topaloglu | [Read More](https://medium.com/p/5d687194f19a) |
-| Wed, 01 Oct 2025 19:42:27 GMT | Building the Most Secure FastAPI Backend: A Comprehensive Security Architecture | Mustafa Aljishi | [Read More](https://medium.com/p/8179e85a7ca6) |
-| Wed, 01 Oct 2025 19:33:15 GMT | GraphQL API Testing | 0cifer_l | [Read More](https://medium.com/p/cad073477417) |
-| Wed, 01 Oct 2025 19:27:26 GMT | From Google Dork to Rickroll: PDF.js misconfiguration for quick Bug Bounties | Boba F3tt | [Read More](https://medium.com/p/f6473a2bdda4) |
-| Wed, 01 Oct 2025 19:26:29 GMT | How Do Security Teams Respond Quickly to Emergencies Today? | Smit John | [Read More](https://medium.com/p/859d05e8ce88) |
-| Wed, 01 Oct 2025 19:25:02 GMT | Hire A Hacker To Catch A Cheating Spouse | Sydney Brooks | [Read More](https://medium.com/p/326686298034) |
