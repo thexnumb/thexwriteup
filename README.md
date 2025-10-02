@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 11:21:55 GMT | Gophish Setup for Phishing Simulation Using Custom Domains | Why So Serious | [Read More](https://medium.com/p/18a50a782ab7) |
+| Thu, 02 Oct 2025 11:19:29 GMT | A Security Guide to Public WiFi: The Invisible Threat | MTX Connect | [Read More](https://medium.com/p/24f6564d52fe) |
 | Thu, 02 Oct 2025 11:10:49 GMT | How I found SQL Injection on State Government | Ayush | [Read More](https://medium.com/p/a389f1ca356c) |
 | Thu, 02 Oct 2025 11:10:03 GMT | Septiembre 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/18d959f3144b) |
 | Thu, 02 Oct 2025 11:01:55 GMT | November 10th Deadline Approaches: Is Your Defense Firm CMMC Ready? | Brittney Ginther | [Read More](https://medium.com/p/9925658b0837) |
@@ -24,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 10:47:23 GMT | HTB CTF Holmes 2025 challenge was worth the effort. | Kingsley Uchunor | [Read More](https://medium.com/p/fe5a9d815737) |
 | Thu, 02 Oct 2025 10:43:20 GMT | Jira Permissions: Best Practices for Large Teams | Erdem UÇAK | [Read More](https://medium.com/p/bfef243fc4fe) |
 | Thu, 02 Oct 2025 10:43:13 GMT | Espionage, Shutdowns, and AI Blunders: A Week in Cyber News. | Seb AGUELE | [Read More](https://medium.com/p/5b7b006fb413) |
+| Thu, 02 Oct 2025 10:37:46 GMT | DevOps, FinOps et SecOps : détecter les signaux faibles avant l’incident | Rebecca Cottignies | [Read More](https://medium.com/p/8097a63dd37b) |
 | Thu, 02 Oct 2025 10:37:32 GMT | The Timeless Game of Deception: Why Fraud Never Dies | Godsway R. Akakpo | [Read More](https://medium.com/p/1d17d48488cc) |
 | Thu, 02 Oct 2025 10:31:49 GMT | 12 Compliance-Friendly Automations for Data at Scale | Nexumo | [Read More](https://medium.com/p/fd181be78925) |
 | Thu, 02 Oct 2025 10:31:16 GMT | Traffic Flow in a 3-Tier AWS Architecture: Route 53 → CloudFront → ALB | Thamotharan NK PILLAI | [Read More](https://medium.com/p/8f782a85e66a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 05:32:45 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/0bc1f7870a2e) |
 | Thu, 02 Oct 2025 05:32:01 GMT | Risk Management vs Compliance: Which Door Should You Choose? | Raleigh Guevarra | [Read More](https://medium.com/p/a5d9e5d6b5b3) |
 | Thu, 02 Oct 2025 05:25:39 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/39a13795e5f0) |
-| Thu, 02 Oct 2025 05:25:23 GMT | Introducing: Breadcrumbs Investigation Tool | Toastie | [Read More](https://medium.com/p/29bc797b032d) |
-| Thu, 02 Oct 2025 05:23:41 GMT | Unlocking the Future: Why Passkeys Are About to Change Your Digital Life (And Ditch Your Passwords… | Sivavishnu | [Read More](https://medium.com/p/5d02f0beed31) |
-| Thu, 02 Oct 2025 05:17:19 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/06d1b9d5130a) |
