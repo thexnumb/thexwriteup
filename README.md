@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 21:15:21 GMT | Examples of Cyberattacks in Kazakhstan and Their Consequences | Cyberintruder Net | [Read More](https://medium.com/p/14b533bcf4d2) |
+| Thu, 02 Oct 2025 21:12:11 GMT | Predicting and Preventing Cyberattacks Using Artificial Intelligence | Cyberintruder Net | [Read More](https://medium.com/p/f2f7edeabdc9) |
+| Thu, 02 Oct 2025 21:10:05 GMT | $50 Battering RAM Attack Breaks Intel, AMD Cloud Security Protections | SCtoCS | [Read More](https://medium.com/p/cad5adebd96f) |
+| Thu, 02 Oct 2025 21:08:55 GMT | EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations | SCtoCS | [Read More](https://medium.com/p/01fe672fe27b) |
+| Thu, 02 Oct 2025 21:02:58 GMT | Why Vulnerability Is the Key to Living a Fulffling life!! | Catalin-Andrei  Chiras | [Read More](https://medium.com/p/e7d1efaed806) |
+| Thu, 02 Oct 2025 20:46:42 GMT | China Updates to New Cybersecurity Reporting Rules | Matthew.Rosenquist | [Read More](https://medium.com/p/ee1becbaf2e7) |
+| Thu, 02 Oct 2025 20:36:13 GMT | Dumping Edge Browser to Steal Cookies | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cb5d659917d2) |
 | Thu, 02 Oct 2025 20:21:57 GMT | TOP Network Attacking Techniques | Rahaliashraf | [Read More](https://medium.com/p/9f2bb8450a0b) |
 | Thu, 02 Oct 2025 20:20:19 GMT | HackTheBox: Highway Writeup — Medium | Joey Cadieux | [Read More](https://medium.com/p/1fc96449e960) |
 | Thu, 02 Oct 2025 20:18:59 GMT | A dev’s guide to post-quantum cryptography (PQC) | Via Knowledge Hub | [Read More](https://medium.com/p/664d54b114e9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 14:48:01 GMT | HackTheBox -Fluffy -Writeup | AKICHAN | [Read More](https://medium.com/p/00e333141a3e) |
 | Thu, 02 Oct 2025 14:47:53 GMT | By Dec 31, 2025, will UNC5221 be publicly linked to exploiting at least one new zero-day? | Wes Young | [Read More](https://medium.com/p/a88d7ce07534) |
 | Thu, 02 Oct 2025 14:41:53 GMT | Prefer to Be a Wolf, Not a Sheep: Asserting Yourself for Respect | Misass | [Read More](https://medium.com/p/f7fd7aae4f0e) |
-| Thu, 02 Oct 2025 14:40:54 GMT | BritCard App: A Digital ID Disaster Waiting to Happen | Dan Dunford | [Read More](https://medium.com/p/25c4512789f9) |
-| Thu, 02 Oct 2025 14:39:22 GMT | How to Detect VPN using Kotlin | Talsec | [Read More](https://medium.com/p/7ec20111491b) |
-| Thu, 02 Oct 2025 14:37:54 GMT | Why Your .NET Authorization Is Broken (And How Policy-Based Auth Fixes Everything) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/a278bbcd7424) |
-| Thu, 02 Oct 2025 14:23:47 GMT | Why Multi-Factor Authentication Is the 2025 Cybersecurity Essential | CyberGuide By MH | [Read More](https://medium.com/p/758847a48001) |
-| Thu, 02 Oct 2025 14:22:17 GMT | Bridging the Gap: How I used LLM Agents to Translate Threat Intelligence into Sigma Detections | Giulia C. | [Read More](https://medium.com/p/9537e7b49cb3) |
-| Thu, 02 Oct 2025 14:14:07 GMT | How I Bypassed an Account ID Check to Steal an API Key | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/5c446cce78e9) |
-| Thu, 02 Oct 2025 14:11:53 GMT | What Is a Cookie? | Randompedia | [Read More](https://medium.com/p/b2ae6b9d9c9a) |
