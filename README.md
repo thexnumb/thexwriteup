@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 22:29:11 GMT | Hack the Box — Trick — WriteUp | Emre A. | [Read More](https://medium.com/p/77bd5b467a9d) |
+| Thu, 02 Oct 2025 22:16:25 GMT | The Future of Digital Assets | B Li8ht | [Read More](https://medium.com/p/857068439844) |
 | Thu, 02 Oct 2025 21:32:33 GMT | Red Hat Data Breach, Hackers Claim Access to 28K Private GitHub Repositories | SCtoCS | [Read More](https://medium.com/p/41444919ccd1) |
 | Thu, 02 Oct 2025 21:28:53 GMT | When AI Becomes Your “Pair Programmer”: Empowerment, Risk & Habits for Resilient Developers | Juan S. Fernandez | [Read More](https://medium.com/p/663f67065a00) |
 | Thu, 02 Oct 2025 21:26:52 GMT | The Human Equation: Using Science to Build a Resilient Team for Digital Transformation | Dennis Vinciguerra | [Read More](https://medium.com/p/5d54bae5db24) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 15:01:43 GMT | Zero to Hero: AI Security | Ashish Bansal | [Read More](https://medium.com/p/a73545fa2b39) |
 | Thu, 02 Oct 2025 15:01:34 GMT | Building Trust at Every Layer: How Secure Cloud Networks Manage Access | Champ18ion | [Read More](https://medium.com/p/ee0b367a13f9) |
 | Thu, 02 Oct 2025 14:57:55 GMT | I Don’t Like Getting Haircuts | Doc Jones | [Read More](https://medium.com/p/bf228f7e1fab) |
-| Thu, 02 Oct 2025 14:55:18 GMT | From Default to Defensive: A Walkthrough of TryHackMe’s Linux System Hardening Room ️ | Furkanctiner | [Read More](https://medium.com/p/0d8514c159dc) |
-| Thu, 02 Oct 2025 14:51:48 GMT | 2025 Cybersecurity Reality Check: Hidden Breaches, AI Misconceptions, and the Rise of Identity… | David ONeal | [Read More](https://medium.com/p/149ad79bdcbb) |
