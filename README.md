@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 08:43:16 GMT | 30 ChatGPT Hacks You’ll Wish You Knew Sooner | Hafsafazilthegreat | [Read More](https://medium.com/p/db00eadc60dc) |
+| Thu, 02 Oct 2025 08:42:21 GMT | Flag 8 & 9 — Hextree CTF: Exploiting Exported Components and Services | Mohamed hamdy | [Read More](https://medium.com/p/dc57cd199619) |
+| Thu, 02 Oct 2025 08:40:06 GMT | TryHackMe - Network Discovery Detection - WriteUp | Axoloth | [Read More](https://medium.com/p/f46e67d4f69c) |
+| Thu, 02 Oct 2025 08:35:46 GMT | Cyber Security Tutorial (Part1) | mohandika | [Read More](https://medium.com/p/b68d7b282693) |
+| Thu, 02 Oct 2025 08:20:43 GMT | Public Key Cryptography at the Image Sensor Level: The Future of Proof of Capture | Ogün Kırıkçı | [Read More](https://medium.com/p/03b740cccdc3) |
 | Thu, 02 Oct 2025 08:09:32 GMT | Dissecting a Malware Sample: Dynamic Analysis of an Unknown Threat (Part 2) | Mohamed Niyas | [Read More](https://medium.com/p/bc8e00182a6e) |
 | Thu, 02 Oct 2025 08:09:12 GMT | Understanding NTP Servers: Why They Matter and How to Use Them | Ahmed Maher | [Read More](https://medium.com/p/07978ba03956) |
 | Thu, 02 Oct 2025 08:04:46 GMT | Wazuh 5.0 is Here: A Technical Deep Dive into the New Engine, eBPF, and Enterprise Scaling | Yusuf Talha ARABACI | [Read More](https://medium.com/p/5bdf4089cbb2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 22:44:03 GMT | The Strategic Advantage of Virtualization: Scalability, Elasticity, and Security Explored | Raviteja Mureboina | [Read More](https://medium.com/p/5052e8fafa0c) |
 | Wed, 01 Oct 2025 22:38:33 GMT | Yahoo Team — “Your Google Drive is almost full..Take | Bob Malin | [Read More](https://medium.com/p/483b13e70bad) |
 | Wed, 01 Oct 2025 22:35:27 GMT | Trooper TryHackMe Walkthrough | Karim Hesham | [Read More](https://medium.com/p/581c59ddcb8b) |
-| Wed, 01 Oct 2025 22:28:53 GMT | Project #8: Attacking Active Directory (Initial Vectors): LLMNR Poisoning, SMB Relay Attacks | NSESean | [Read More](https://medium.com/p/5d861fe88901) |
-| Wed, 01 Oct 2025 22:22:45 GMT | Why Project Management Has Become a Cybersecurity Skill | David ONeal | [Read More](https://medium.com/p/50350b11f0ba) |
-| Wed, 01 Oct 2025 22:08:56 GMT | CQ CyberPulse Weekly — October Edition #1 | CyberQuestor | [Read More](https://medium.com/p/36ff139f5261) |
-| Wed, 01 Oct 2025 22:07:40 GMT | Google Drive Is Now Your First Line of Defense Against Ransomware | Majid | [Read More](https://medium.com/p/18daac2b1371) |
-| Wed, 01 Oct 2025 22:05:07 GMT | Gerontik, Lansia, dan Teknologi di Era Digital | Alfari | [Read More](https://medium.com/p/16c7f6174c5f) |
