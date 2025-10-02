@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 14:23:47 GMT | Why Multi-Factor Authentication Is the 2025 Cybersecurity Essential | CyberGuide By MH | [Read More](https://medium.com/p/758847a48001) |
+| Thu, 02 Oct 2025 14:22:17 GMT | Bridging the Gap: How I used LLM Agents to Translate Threat Intelligence into Sigma Detections | Giulia C. | [Read More](https://medium.com/p/9537e7b49cb3) |
 | Thu, 02 Oct 2025 14:14:07 GMT | How I Bypassed an Account ID Check to Steal an API Key | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/5c446cce78e9) |
 | Thu, 02 Oct 2025 14:11:53 GMT | What Is a Cookie? | Randompedia | [Read More](https://medium.com/p/b2ae6b9d9c9a) |
 | Thu, 02 Oct 2025 14:06:20 GMT | Boost Your Online Business with Professional Ecommerce Website Development | FullStackWebEngineer | [Read More](https://medium.com/p/b1012253a189) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 08:09:32 GMT | Dissecting a Malware Sample: Dynamic Analysis of an Unknown Threat (Part 2) | Mohamed Niyas | [Read More](https://medium.com/p/bc8e00182a6e) |
 | Thu, 02 Oct 2025 08:09:12 GMT | Understanding NTP Servers: Why They Matter and How to Use Them | Ahmed Maher | [Read More](https://medium.com/p/07978ba03956) |
 | Thu, 02 Oct 2025 08:04:46 GMT | Wazuh 5.0 is Here: A Technical Deep Dive into the New Engine, eBPF, and Enterprise Scaling | Yusuf Talha ARABACI | [Read More](https://medium.com/p/5bdf4089cbb2) |
-| Thu, 02 Oct 2025 08:02:16 GMT | Build an Auto-Remediator: Reset Risky Credentials as Soon as They Leak | Alexandre Vandamme | [Read More](https://medium.com/p/ece9f9efc56f) |
-| Thu, 02 Oct 2025 07:59:21 GMT | Building a Vulnerability Eating LLM Agent | Julian Michelmann | [Read More](https://medium.com/p/818f3af1c148) |
