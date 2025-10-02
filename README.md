@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 09:36:03 GMT | Top 10 Cybersecurity Certifications to Aim for in 2026 | Syed Mohammed Murtaza | [Read More](https://medium.com/p/8b01cfcce1ec) |
+| Thu, 02 Oct 2025 09:25:36 GMT | “Help! Where do I even START?” Cybersec SOS, decoded. | Authlyn | [Read More](https://medium.com/p/3866419246c7) |
+| Thu, 02 Oct 2025 09:24:37 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/fd3ec23ba056) |
+| Thu, 02 Oct 2025 09:24:03 GMT | AAEON’s Networking & Cybersecurity Solutions to Take the Stage at it-sa Expo&Congress | AAEON Technology | [Read More](https://medium.com/p/05af6ef3e77d) |
+| Thu, 02 Oct 2025 09:21:54 GMT | The AI hack that convinced a chatbot to sell a $76,000 car for $1 | Ben Ratcliffe | [Read More](https://medium.com/p/511ba0ad084d) |
+| Thu, 02 Oct 2025 09:20:59 GMT | The Daily Tech Digest: 02 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/16b5a3a4c22f) |
+| Thu, 02 Oct 2025 09:18:18 GMT | End-to-End Encryption: Why It’s Non-Negotiable in Messaging Apps | Vikrant Dheer | [Read More](https://medium.com/p/c6bf8e1d9c4b) |
+| Thu, 02 Oct 2025 09:18:08 GMT | WSL (Windows Subsystem for Linux) for Cybersecurity Professionals | Huseyin KALKAN | [Read More](https://medium.com/p/43f086ea8537) |
+| Thu, 02 Oct 2025 09:12:27 GMT | Best Practices for Securing NetBackup Backups | Nurali ATMACA | [Read More](https://medium.com/p/a3e34cda7e98) |
 | Thu, 02 Oct 2025 09:07:13 GMT | APK Patching Gotchas: Why Does It Redirect? | SilentInject | [Read More](https://medium.com/p/726a5a2cb022) |
 | Thu, 02 Oct 2025 08:50:54 GMT | DockerLabs Writeup — BaluFood (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ac14cbbd999a) |
 | Thu, 02 Oct 2025 08:48:15 GMT | Mapping Wazuh Output to ISO/IEC 27001:2022 — Evidence That Your Controls Work | Ahmed Abbes | [Read More](https://medium.com/p/68aa793b2783) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 01:17:23 GMT | Cybersecurity in Maritime: Securing Ships and Port Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/2c101ace2a70) |
 | Thu, 02 Oct 2025 01:11:00 GMT | Cybersecurity in Aviation: Protecting Aircraft and Air Traffic Control Systems | Cyber Security Research | [Read More](https://medium.com/p/b1664b7c3e2c) |
 | Thu, 02 Oct 2025 01:04:55 GMT | Cybersecurity in Autonomous Vehicles: Securing Self-Driving Cars | Cyber Security Research | [Read More](https://medium.com/p/0d94d22308c6) |
-| Thu, 02 Oct 2025 00:58:33 GMT | Cybersecurity in Space: Protecting Satellites and Space Assets | Cyber Security Research | [Read More](https://medium.com/p/7ff75b5b7c27) |
-| Thu, 02 Oct 2025 00:48:32 GMT | The Project Trying to Stop Hacks Before They Happen -Drosera. | TheBaldKid_ | [Read More](https://medium.com/p/6686fa546727) |
-| Thu, 02 Oct 2025 00:44:20 GMT | How can you write for us? - rootissh | rootissh | [Read More](https://medium.com/p/001e2fb7288e) |
-| Thu, 02 Oct 2025 00:14:00 GMT | TryHackMe — Conti Room: Write-up | J Linton | [Read More](https://medium.com/p/d2a397062d74) |
-| Thu, 02 Oct 2025 00:13:40 GMT | DNS Security | Youssef Hossam | [Read More](https://medium.com/p/a323363b08f4) |
-| Wed, 01 Oct 2025 23:56:40 GMT | My Experience with the eJPT Certification — Was It Worth It? | Wev_Sec | [Read More](https://medium.com/p/f0d28c7adef9) |
-| Wed, 01 Oct 2025 23:01:57 GMT | Best VPNs for Netflix in 2025 (Watch Without Borders) | CyberSecure Life | [Read More](https://medium.com/p/dd1418ce8a20) |
-| Wed, 01 Oct 2025 22:51:35 GMT | Can we truly replace passwords? | Yoav Podemsky | [Read More](https://medium.com/p/532f2b4eedc5) |
-| Wed, 01 Oct 2025 22:51:22 GMT | AI Security Just Went Mainstream: Why Everyone’s Buying Everyone | Technovate Global | [Read More](https://medium.com/p/17a8153f1167) |
