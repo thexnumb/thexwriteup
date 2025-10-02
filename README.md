@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 19:02:27 GMT | PG Practice — Hetemit (Linux) | Lepton | [Read More](https://medium.com/p/bfbb5e1cb5b5) |
+| Thu, 02 Oct 2025 19:02:23 GMT | CyberDefenders: REvil Lab | Rahaliashraf | [Read More](https://medium.com/p/656dd8c7a9da) |
+| Thu, 02 Oct 2025 18:52:16 GMT | ⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo | Gorka | [Read More](https://medium.com/p/952bfb65446a) |
+| Thu, 02 Oct 2025 18:47:44 GMT | JWTs Demystified: A .NET Dev’s Guide to API & Infra Security | Brian Mora | [Read More](https://medium.com/p/54a7c0135ca2) |
+| Thu, 02 Oct 2025 18:45:52 GMT | K8s-RTA-Exam Review | marianita_cloud | [Read More](https://medium.com/p/2d991d6cde10) |
+| Thu, 02 Oct 2025 18:44:32 GMT | The Complete Beginner’s Guide to Server-Side Template Injection (SSTI): From Zero to Exploitation. | Aneeqibtesam | [Read More](https://medium.com/p/aca5a953e2a4) |
 | Thu, 02 Oct 2025 18:25:39 GMT | The Linux Process Journey — hostapd (Host Access Point Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7bf9f6af695f) |
 | Thu, 02 Oct 2025 18:24:48 GMT | Stateful Firewall: How It Works and Why Businesses Need It | SafeAeon Inc. | [Read More](https://medium.com/p/1820f2306b20) |
 | Thu, 02 Oct 2025 18:15:40 GMT | Dark Web Monitoring: How Businesses Can Detect and Prevent Data Leaks | SafeAeon Inc. | [Read More](https://medium.com/p/0c2f4e11868c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 13:32:20 GMT | "In today’s rapidly evolving digital landscape, cybersecurity is essential for protecting… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/d0452d3b14cb) |
 | Thu, 02 Oct 2025 13:11:22 GMT | What is Cybersecurity Awareness Month and Why It Matters | ENVORASEC | [Read More](https://medium.com/p/d6158d273853) |
 | Thu, 02 Oct 2025 13:06:00 GMT | How I Uncovered an IDOR and XSS Chain for a Critical Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/b6e827424579) |
-| Thu, 02 Oct 2025 12:57:33 GMT | Visual Intelligence for Retail & QSR: Protect Margins, Speed, and Safety | Tec-Tel Communications | [Read More](https://medium.com/p/6dd34ee93bb3) |
-| Thu, 02 Oct 2025 12:44:31 GMT | The Role of AI in Modern Cybersecurity | Andres Quintero | [Read More](https://medium.com/p/53a1a6bc64df) |
-| Thu, 02 Oct 2025 12:43:00 GMT | Why Enterprise Browsers Are the Missing Link in Your Zero Trust Security Stack | Mammoth Cyber | [Read More](https://medium.com/p/be55be0e46be) |
-| Thu, 02 Oct 2025 12:42:08 GMT | Writeup — SunshineCTF | DieLoop | [Read More](https://medium.com/p/4766df04ce36) |
-| Thu, 02 Oct 2025 12:40:38 GMT | Ethical AI in Finance: How to Build Systems That Don’t Discriminate | Donald Chepkutwo | [Read More](https://medium.com/p/091d07543b1a) |
-| Thu, 02 Oct 2025 12:40:08 GMT | Penetration Testing Fundamentals — THM Room Walkthrough | Asif.k | [Read More](https://medium.com/p/be458dbd9ea8) |
