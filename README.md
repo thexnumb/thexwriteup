@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 03:40:36 GMT | Can You Trust Resolvedapps.diy? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/a46aa52b6769) |
+| Thu, 02 Oct 2025 03:31:50 GMT | The Validation Trap: Why Hackers Chase Hall of Fame Instead of Real Bugs | Đeepanshu | [Read More](https://medium.com/p/010fb3a4bd76) |
 | Thu, 02 Oct 2025 03:25:12 GMT | Stillwellinvestings.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/c94977820ce1) |
 | Thu, 02 Oct 2025 03:22:25 GMT | Cybersecurity Awareness Month: Building a Culture of Cyber Resilience | Paritosh | [Read More](https://medium.com/p/8eabd9d4f4fe) |
 | Thu, 02 Oct 2025 03:15:18 GMT | Is Belvarium.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/ac93c0d49a63) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 18:44:58 GMT | PG Practice — Fish (Windows) | Lepton | [Read More](https://medium.com/p/1d014ad8aeab) |
 | Wed, 01 Oct 2025 18:43:22 GMT | Forensic Treasure Hunt: How Investigators Use ShimCache & AmCache to Unmask Malware | Paritosh | [Read More](https://medium.com/p/a1183ca91d58) |
 | Wed, 01 Oct 2025 18:42:02 GMT | Configuring Wazuh to Send Logs to Graylog for Normalization (Setting up Filebeat) | Arfan Abid | [Read More](https://medium.com/p/563db817a030) |
-| Wed, 01 Oct 2025 18:34:40 GMT | That time an Agentic AI Pentester beat me in CAPIE! | Thexssrat | [Read More](https://medium.com/p/9ef6097c3c33) |
-| Wed, 01 Oct 2025 18:28:53 GMT | Perfection  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/dbb6a234da25) |
