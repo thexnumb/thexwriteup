@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 10:31:16 GMT | Traffic Flow in a 3-Tier AWS Architecture: Route 53 → CloudFront → ALB | Thamotharan NK PILLAI | [Read More](https://medium.com/p/8f782a85e66a) |
+| Thu, 02 Oct 2025 10:22:20 GMT | Understanding Your Network with Centurion’s Net Calls Panel | Alex Cabrera | [Read More](https://medium.com/p/e7a0d294e7d1) |
+| Thu, 02 Oct 2025 10:21:21 GMT | HTB: Intentions | Diego De Venuto | [Read More](https://medium.com/p/d262f041224d) |
+| Thu, 02 Oct 2025 10:18:47 GMT | Enhanced Account Security: Linking Your TLIP Account to Your Official KRA PIN | Trade and Logistics Information Pipeline | [Read More](https://medium.com/p/51ac623bff55) |
+| Thu, 02 Oct 2025 10:15:49 GMT | Co je NIS2 a co od něj očekávat? | Cyber Solution | [Read More](https://medium.com/p/a6f77ca1aa38) |
+| Thu, 02 Oct 2025 10:15:20 GMT | Data Immortality: How Your Information Can Live Forever | Bervice | [Read More](https://medium.com/p/5759d48ab943) |
+| Thu, 02 Oct 2025 10:13:13 GMT | Logların İzinde: APT Günlükleri — 2 | Ali Ekber KARA | [Read More](https://medium.com/p/ad21995ac40b) |
 | Thu, 02 Oct 2025 10:12:08 GMT | AI Coding Tools Are Inventing Fake Packages (Hackers Are Paying Attention) | Krunal Kanojiya | [Read More](https://medium.com/p/5186ce6c3259) |
+| Thu, 02 Oct 2025 10:09:35 GMT | Someone Like This | Shupti Ahmed | [Read More](https://medium.com/p/dd2f305a6ea1) |
 | Thu, 02 Oct 2025 10:09:31 GMT | BACK TO BASICS: US Secretary of Defense Hegseth’s Blunt Message to American Generals — and Why It… | Sgshehu | [Read More](https://medium.com/p/a7c3b26a04ab) |
 | Thu, 02 Oct 2025 10:08:43 GMT | Chinese Hackers Used Custom Malware to Spy on Governments for 2 Years – Here’s What You Need to… | Techsankar | [Read More](https://medium.com/p/7afde200e999) |
 | Thu, 02 Oct 2025 10:07:02 GMT | When Loving Feels Scary | Dimplechawla | [Read More](https://medium.com/p/cae5876c90f1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 03:25:12 GMT | Stillwellinvestings.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/c94977820ce1) |
 | Thu, 02 Oct 2025 03:22:25 GMT | Cybersecurity Awareness Month: Building a Culture of Cyber Resilience | Paritosh | [Read More](https://medium.com/p/8eabd9d4f4fe) |
 | Thu, 02 Oct 2025 03:15:18 GMT | Is Belvarium.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/ac93c0d49a63) |
-| Thu, 02 Oct 2025 03:11:05 GMT | MCRTA(MULTI-CLOUD RED TEAMING ANALYST) | anonymous.gharti | [Read More](https://medium.com/p/d31e6f9dcaf1) |
-| Thu, 02 Oct 2025 03:10:42 GMT | Is eye.my a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/743d121d9735) |
-| Thu, 02 Oct 2025 03:08:25 GMT | PostgreSQL Performance Tuning: AI-Driven Query Optimization Techniques for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/917e227c5b7f) |
-| Thu, 02 Oct 2025 03:06:00 GMT | Errors to API Exposure | SIDDHANT SHUKLA | [Read More](https://medium.com/p/cbcf2b73946e) |
-| Thu, 02 Oct 2025 03:00:01 GMT | The Fourth Angel Has Arrived! Can Your Autonomous Vehicle Withstand the “Shape-Shifting” AI Attack? | Scott Huang | [Read More](https://medium.com/p/48806ef51618) |
-| Thu, 02 Oct 2025 02:58:31 GMT | PhishDebate: When AI Agents Argue to Keep You Safe Online | Chris Zhang | [Read More](https://medium.com/p/3ace2d961bff) |
-| Thu, 02 Oct 2025 02:51:43 GMT | Why Your Password Isn’t Protecting You (And What Actually Works) | Arfa | [Read More](https://medium.com/p/db13ea2ed0b4) |
-| Thu, 02 Oct 2025 02:31:28 GMT | Security Assessment: Vulnhub Napping Walkthrough | Luke Gearty | [Read More](https://medium.com/p/ac69d05c724c) |
