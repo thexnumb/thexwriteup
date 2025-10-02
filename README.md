@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 01:24:30 GMT | Cloudbric Services Progress Report (9/1 ~ 9/30) | Cloudbric | [Read More](https://medium.com/p/62f881be745d) |
+| Thu, 02 Oct 2025 01:24:05 GMT | Cloudbric Services Progress Report (9/1 ~ 9/30) | Cloudbric | [Read More](https://medium.com/p/6418da2710b4) |
+| Thu, 02 Oct 2025 01:23:53 GMT | Cybersecurity in the Energy Sector: Protecting Power Grids and Oil Pipelines | Cyber Security Research | [Read More](https://medium.com/p/5a8cc237c65b) |
+| Thu, 02 Oct 2025 01:18:26 GMT | $TRIAS MIGRATION TO $NETX | Slerf coin | [Read More](https://medium.com/p/f5c452ed0098) |
+| Thu, 02 Oct 2025 01:17:23 GMT | Cybersecurity in Maritime: Securing Ships and Port Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/2c101ace2a70) |
+| Thu, 02 Oct 2025 01:11:00 GMT | Cybersecurity in Aviation: Protecting Aircraft and Air Traffic Control Systems | Cyber Security Research | [Read More](https://medium.com/p/b1664b7c3e2c) |
+| Thu, 02 Oct 2025 01:04:55 GMT | Cybersecurity in Autonomous Vehicles: Securing Self-Driving Cars | Cyber Security Research | [Read More](https://medium.com/p/0d94d22308c6) |
+| Thu, 02 Oct 2025 00:58:33 GMT | Cybersecurity in Space: Protecting Satellites and Space Assets | Cyber Security Research | [Read More](https://medium.com/p/7ff75b5b7c27) |
+| Thu, 02 Oct 2025 00:48:32 GMT | The Project Trying to Stop Hacks Before They Happen -Drosera. | TheBaldKid_ | [Read More](https://medium.com/p/6686fa546727) |
+| Thu, 02 Oct 2025 00:44:20 GMT | How can you write for us? - rootissh | rootissh | [Read More](https://medium.com/p/001e2fb7288e) |
+| Thu, 02 Oct 2025 00:14:00 GMT | TryHackMe — Conti Room: Write-up | J Linton | [Read More](https://medium.com/p/d2a397062d74) |
+| Thu, 02 Oct 2025 00:13:40 GMT | DNS Security | Youssef Hossam | [Read More](https://medium.com/p/a323363b08f4) |
+| Wed, 01 Oct 2025 23:56:40 GMT | My Experience with the eJPT Certification — Was It Worth It? | Wev_Sec | [Read More](https://medium.com/p/f0d28c7adef9) |
 | Wed, 01 Oct 2025 23:01:57 GMT | Best VPNs for Netflix in 2025 (Watch Without Borders) | CyberSecure Life | [Read More](https://medium.com/p/dd1418ce8a20) |
 | Wed, 01 Oct 2025 22:51:35 GMT | Can we truly replace passwords? | Yoav Podemsky | [Read More](https://medium.com/p/532f2b4eedc5) |
 | Wed, 01 Oct 2025 22:51:22 GMT | AI Security Just Went Mainstream: Why Everyone’s Buying Everyone | Technovate Global | [Read More](https://medium.com/p/17a8153f1167) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 17:47:38 GMT | Ransomware Warning: What Businesses Must Know to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/e9acf2d8c22f) |
 | Wed, 01 Oct 2025 17:42:56 GMT | PASSWORD CRACKING ANALYSIS | Manahil Saleem | [Read More](https://medium.com/p/7cb36c3482e5) |
 | Wed, 01 Oct 2025 17:41:27 GMT | The Future of Computer Repair: AI Diagnostics and Remote Fixes | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/b5bb7e788fd5) |
-| Wed, 01 Oct 2025 17:39:29 GMT | Splunking with Windows Part 3 | Luke | [Read More](https://medium.com/p/6125b6a98cb4) |
-| Wed, 01 Oct 2025 17:34:02 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/c5eca7ea5e0e) |
-| Wed, 01 Oct 2025 17:31:26 GMT | Obfuscation — Securing your Flutter Code from Attacker | Fuad Reza | [Read More](https://medium.com/p/153ef572211b) |
-| Wed, 01 Oct 2025 17:27:49 GMT | Exploit Vulnerabilities | Tony Khalil Rodgers | [Read More](https://medium.com/p/2a2320abfcf8) |
-| Wed, 01 Oct 2025 17:27:43 GMT | Brutus — HackTheBox / Sherlocks | Asif.k | [Read More](https://medium.com/p/4336ad7a6a02) |
-| Wed, 01 Oct 2025 17:27:38 GMT | Vulnerability Assessment Services: Why Every Business Needs Them | SafeAeon Inc. | [Read More](https://medium.com/p/02d80fa60c81) |
-| Wed, 01 Oct 2025 17:12:43 GMT | Breaking Through Data Silos: Real-Time Risk Clarity with Spektion’s Latest Release | Spektion | [Read More](https://medium.com/p/b778fbf1537c) |
-| Wed, 01 Oct 2025 17:08:34 GMT | Cybersecurity and the Gramm-Leach-Bliley Act (GLBA) | Cyber Security Research | [Read More](https://medium.com/p/91eba0159b15) |
-| Wed, 01 Oct 2025 17:04:38 GMT | Protocol Abuse The Silent Exploit in Modern Networks | Abdelaziz moustakim | [Read More](https://medium.com/p/898f6a3850ee) |
-| Wed, 01 Oct 2025 17:02:35 GMT | Cybersecurity and the Sarbanes-Oxley Act (SOX) | Cyber Security Research | [Read More](https://medium.com/p/179110a03724) |
-| Wed, 01 Oct 2025 17:02:24 GMT | Proof-of-Work (PoW) dan Tantangannya: Fondasi Keamanan Bitcoin | Petruskmkz | [Read More](https://medium.com/p/4be2fe419ae8) |
-| Wed, 01 Oct 2025 16:58:25 GMT | Zero-Day Under Fire: How the Newly Disclosed Cisco & GoAnywhere Flaws Shift the Threat Landscape | Bűķå Piťch | [Read More](https://medium.com/p/1225a320eaab) |
-| Wed, 01 Oct 2025 16:56:58 GMT | The APK Scam: How Online Scams Really Happen | Hitesh Said | [Read More](https://medium.com/p/4eec6ae05bb9) |
