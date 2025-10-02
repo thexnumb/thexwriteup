@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 15:11:43 GMT | 7 Common Myths About VPNs (And What You Actually Need to Know Before Using One) | Paradise technologies Inc | [Read More](https://medium.com/p/b132b8029460) |
+| Thu, 02 Oct 2025 15:09:04 GMT | Shellter nedir, nasıl kullanılır? | Emirhan Sevmez | [Read More](https://medium.com/p/7ff3ce301386) |
+| Thu, 02 Oct 2025 15:08:01 GMT | Sextortion Is Rising: How It Happens and Why It Hurts | CVOR | [Read More](https://medium.com/p/7918d1f6d124) |
+| Thu, 02 Oct 2025 15:03:30 GMT | Why is Ladakh burning? | Nirja | [Read More](https://medium.com/p/dea8e638a641) |
+| Thu, 02 Oct 2025 15:01:54 GMT | Opinion: The Illusion of Consensus — Why NeurIPS Should Not Lead GLOBAL AI Policy | Berend Watchus | [Read More](https://medium.com/p/25855d0a2de2) |
+| Thu, 02 Oct 2025 15:01:43 GMT | Zero to Hero: AI Security | Ashish Bansal | [Read More](https://medium.com/p/a73545fa2b39) |
+| Thu, 02 Oct 2025 15:01:34 GMT | Building Trust at Every Layer: How Secure Cloud Networks Manage Access | Champ18ion | [Read More](https://medium.com/p/ee0b367a13f9) |
+| Thu, 02 Oct 2025 14:57:55 GMT | I Don’t Like Getting Haircuts | Doc Jones | [Read More](https://medium.com/p/bf228f7e1fab) |
+| Thu, 02 Oct 2025 14:55:18 GMT | From Default to Defensive: A Walkthrough of TryHackMe’s Linux System Hardening Room ️ | Furkanctiner | [Read More](https://medium.com/p/0d8514c159dc) |
+| Thu, 02 Oct 2025 14:51:48 GMT | 2025 Cybersecurity Reality Check: Hidden Breaches, AI Misconceptions, and the Rise of Identity… | David ONeal | [Read More](https://medium.com/p/149ad79bdcbb) |
+| Thu, 02 Oct 2025 14:50:40 GMT | Honey, I Shrunk the Ego: OpenAI Outvalues SpaceX While Musk Sues the Air | Dr Rita Pal | [Read More](https://medium.com/p/05e13057aca8) |
+| Thu, 02 Oct 2025 14:49:32 GMT | How to Detect VPN using Swift | Talsec | [Read More](https://medium.com/p/12cd2bb3d9cf) |
+| Thu, 02 Oct 2025 14:48:01 GMT | HackTheBox -Fluffy -Writeup | AKICHAN | [Read More](https://medium.com/p/00e333141a3e) |
+| Thu, 02 Oct 2025 14:47:53 GMT | By Dec 31, 2025, will UNC5221 be publicly linked to exploiting at least one new zero-day? | Wes Young | [Read More](https://medium.com/p/a88d7ce07534) |
+| Thu, 02 Oct 2025 14:41:53 GMT | Prefer to Be a Wolf, Not a Sheep: Asserting Yourself for Respect | Misass | [Read More](https://medium.com/p/f7fd7aae4f0e) |
+| Thu, 02 Oct 2025 14:40:54 GMT | BritCard App: A Digital ID Disaster Waiting to Happen | Dan Dunford | [Read More](https://medium.com/p/25c4512789f9) |
+| Thu, 02 Oct 2025 14:39:22 GMT | How to Detect VPN using Kotlin | Talsec | [Read More](https://medium.com/p/7ec20111491b) |
+| Thu, 02 Oct 2025 14:37:54 GMT | Why Your .NET Authorization Is Broken (And How Policy-Based Auth Fixes Everything) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/a278bbcd7424) |
 | Thu, 02 Oct 2025 14:23:47 GMT | Why Multi-Factor Authentication Is the 2025 Cybersecurity Essential | CyberGuide By MH | [Read More](https://medium.com/p/758847a48001) |
 | Thu, 02 Oct 2025 14:22:17 GMT | Bridging the Gap: How I used LLM Agents to Translate Threat Intelligence into Sigma Detections | Giulia C. | [Read More](https://medium.com/p/9537e7b49cb3) |
 | Thu, 02 Oct 2025 14:14:07 GMT | How I Bypassed an Account ID Check to Steal an API Key | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/5c446cce78e9) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 09:24:03 GMT | AAEON’s Networking & Cybersecurity Solutions to Take the Stage at it-sa Expo&Congress | AAEON Technology | [Read More](https://medium.com/p/05af6ef3e77d) |
 | Thu, 02 Oct 2025 09:21:54 GMT | The AI hack that convinced a chatbot to sell a $76,000 car for $1 | Ben Ratcliffe | [Read More](https://medium.com/p/511ba0ad084d) |
 | Thu, 02 Oct 2025 09:21:08 GMT | SubHub: Bringing Precision, Proof, and Trust to Airdrops in Web3 | EHMPE RHOR | [Read More](https://medium.com/p/2f535cb12010) |
-| Thu, 02 Oct 2025 09:20:59 GMT | The Daily Tech Digest: 02 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/16b5a3a4c22f) |
-| Thu, 02 Oct 2025 09:18:18 GMT | End-to-End Encryption: Why It’s Non-Negotiable in Messaging Apps | Vikrant Dheer | [Read More](https://medium.com/p/c6bf8e1d9c4b) |
-| Thu, 02 Oct 2025 09:18:08 GMT | WSL (Windows Subsystem for Linux) for Cybersecurity Professionals | Huseyin KALKAN | [Read More](https://medium.com/p/43f086ea8537) |
-| Thu, 02 Oct 2025 09:12:27 GMT | Best Practices for Securing NetBackup Backups | Nurali ATMACA | [Read More](https://medium.com/p/a3e34cda7e98) |
-| Thu, 02 Oct 2025 09:07:13 GMT | APK Patching Gotchas: Why Does It Redirect? | SilentInject | [Read More](https://medium.com/p/726a5a2cb022) |
-| Thu, 02 Oct 2025 08:50:54 GMT | DockerLabs Writeup — BaluFood (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ac14cbbd999a) |
-| Thu, 02 Oct 2025 08:48:15 GMT | Mapping Wazuh Output to ISO/IEC 27001:2022 — Evidence That Your Controls Work | Ahmed Abbes | [Read More](https://medium.com/p/68aa793b2783) |
-| Thu, 02 Oct 2025 08:47:04 GMT | Building a Robust Cybersecurity Incident Response Plan | Cyber Security Research | [Read More](https://medium.com/p/7f375b5122b4) |
-| Thu, 02 Oct 2025 08:45:03 GMT | [Meet our faculty] EURECOM welcomes Lesly-Ann Daniel, as assistant professor in digital security | EURECOM Communication | [Read More](https://medium.com/p/8759fe869eec) |
-| Thu, 02 Oct 2025 08:43:16 GMT | 30 ChatGPT Hacks You’ll Wish You Knew Sooner | Hafsafazilthegreat | [Read More](https://medium.com/p/db00eadc60dc) |
-| Thu, 02 Oct 2025 08:42:21 GMT | Flag 8 & 9 — Hextree CTF: Exploiting Exported Components and Services | Mohamed hamdy | [Read More](https://medium.com/p/dc57cd199619) |
-| Thu, 02 Oct 2025 08:40:06 GMT | TryHackMe - Network Discovery Detection - WriteUp | Axoloth | [Read More](https://medium.com/p/f46e67d4f69c) |
-| Thu, 02 Oct 2025 08:35:46 GMT | Cyber Security Tutorial (Part1) | mohandika | [Read More](https://medium.com/p/b68d7b282693) |
-| Thu, 02 Oct 2025 08:35:46 GMT | Ward Off the Watchful Eye | AMORITAS | [Read More](https://medium.com/p/3c014255e01e) |
-| Thu, 02 Oct 2025 08:20:43 GMT | Public Key Cryptography at the Image Sensor Level: The Future of Proof of Capture | Ogün Kırıkçı | [Read More](https://medium.com/p/03b740cccdc3) |
-| Thu, 02 Oct 2025 08:09:32 GMT | Dissecting a Malware Sample: Dynamic Analysis of an Unknown Threat (Part 2) | Mohamed Niyas | [Read More](https://medium.com/p/bc8e00182a6e) |
-| Thu, 02 Oct 2025 08:09:12 GMT | Understanding NTP Servers: Why They Matter and How to Use Them | Ahmed Maher | [Read More](https://medium.com/p/07978ba03956) |
-| Thu, 02 Oct 2025 08:04:46 GMT | Wazuh 5.0 is Here: A Technical Deep Dive into the New Engine, eBPF, and Enterprise Scaling | Yusuf Talha ARABACI | [Read More](https://medium.com/p/5bdf4089cbb2) |
