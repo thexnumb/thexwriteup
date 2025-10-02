@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 20:21:57 GMT | TOP Network Attacking Techniques | Rahaliashraf | [Read More](https://medium.com/p/9f2bb8450a0b) |
+| Thu, 02 Oct 2025 20:20:19 GMT | HackTheBox: Highway Writeup — Medium | Joey Cadieux | [Read More](https://medium.com/p/1fc96449e960) |
+| Thu, 02 Oct 2025 20:18:59 GMT | A dev’s guide to post-quantum cryptography (PQC) | Via Knowledge Hub | [Read More](https://medium.com/p/664d54b114e9) |
+| Thu, 02 Oct 2025 20:18:35 GMT | October is Cybersecurity Awareness Month, but what does that really mean for Community Banks? | Linker Finance | [Read More](https://medium.com/p/310d2e5640d9) |
 | Thu, 02 Oct 2025 19:46:12 GMT | The OS Exposed | Ops4Windows | [Read More](https://medium.com/p/b3a072102309) |
 | Thu, 02 Oct 2025 19:46:12 GMT | The risky business of software development | Via Knowledge Hub | [Read More](https://medium.com/p/5b62d24f0190) |
 | Thu, 02 Oct 2025 19:43:17 GMT | The Vulnerability Chronicles: A poem of opening up, titled I Threw Up | DamnAmazon | [Read More](https://medium.com/p/0395f1327baa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 14:22:17 GMT | Bridging the Gap: How I used LLM Agents to Translate Threat Intelligence into Sigma Detections | Giulia C. | [Read More](https://medium.com/p/9537e7b49cb3) |
 | Thu, 02 Oct 2025 14:14:07 GMT | How I Bypassed an Account ID Check to Steal an API Key | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/5c446cce78e9) |
 | Thu, 02 Oct 2025 14:11:53 GMT | What Is a Cookie? | Randompedia | [Read More](https://medium.com/p/b2ae6b9d9c9a) |
-| Thu, 02 Oct 2025 14:06:20 GMT | Boost Your Online Business with Professional Ecommerce Website Development | FullStackWebEngineer | [Read More](https://medium.com/p/b1012253a189) |
-| Thu, 02 Oct 2025 14:06:19 GMT | How Many Amps Does a Garage Door Opener Use: Power Requirements Explained | Up & Down Garage Door Services | [Read More](https://medium.com/p/ae2d2241ee92) |
-| Thu, 02 Oct 2025 14:04:36 GMT | ABTU’s Transparent Token Launch: Built on Milestones, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/93694ae3968f) |
-| Thu, 02 Oct 2025 14:01:56 GMT | Cyber Briefing: 2025.10.02 | CyberMaterial | [Read More](https://medium.com/p/c43a3b734958) |
