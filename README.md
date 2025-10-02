@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 17:36:36 GMT | Adobe Illustrator 29.8.1 For Windows (Latest 2025) Download | Rapax | [Read More](https://medium.com/p/8cff80048653) |
+| Thu, 02 Oct 2025 17:26:43 GMT | I Built a Privacy Browser… But It Was Useless Until I Did This | Pannag Kumaar | [Read More](https://medium.com/p/0985c9ee257f) |
+| Thu, 02 Oct 2025 17:24:39 GMT | Smishing in Cybersecurity: How Text Message Scams Put Your Data at Risk | SafeAeon Inc. | [Read More](https://medium.com/p/601faaee6972) |
+| Thu, 02 Oct 2025 17:18:59 GMT | Master Web Fuzzing: A Cheat‑Sheet to Finding Hidden Paths | PARADOX | [Read More](https://medium.com/p/6c2bcf521c44) |
+| Thu, 02 Oct 2025 17:17:50 GMT | ☕ Cyber & Coffee — Today’s Brew: Confucius, Stealers, and Shutdowns | Cyber and Coffee | [Read More](https://medium.com/p/39a4c13ce124) |
 | Thu, 02 Oct 2025 17:10:05 GMT | ️‍♂️ Bughunter MVP | ghostyjoe | [Read More](https://medium.com/p/3dda1831eda6) |
 | Thu, 02 Oct 2025 17:03:46 GMT | The Silent Battle: Offensive Intelligence Meets Forensic Truth | Vijay Kumar Gupta | [Read More](https://medium.com/p/5b6ccc07bc5f) |
 | Thu, 02 Oct 2025 17:01:55 GMT | Parsing, Normalizing & Streamlining Wazuh Logs in Graylog | Arfan Abid | [Read More](https://medium.com/p/a722b7e5d76f) |
+| Thu, 02 Oct 2025 17:00:55 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/f099ad6c5922) |
 | Thu, 02 Oct 2025 16:59:39 GMT | From Idea to Live CTF My First Real Project on Google Cloud | Abzu | [Read More](https://medium.com/p/9d7ede870a16) |
 | Thu, 02 Oct 2025 16:57:16 GMT | Astrophysical Steganography - Hiding Messages in the Universe | Anshuman Sahoo | [Read More](https://medium.com/p/17875789a577) |
 | Thu, 02 Oct 2025 16:55:35 GMT | BFT — Digital Forensics (DFIR) | Tiziano Mass | [Read More](https://medium.com/p/367c34821ce1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 11:10:03 GMT | Septiembre 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/18d959f3144b) |
 | Thu, 02 Oct 2025 11:01:55 GMT | November 10th Deadline Approaches: Is Your Defense Firm CMMC Ready? | Brittney Ginther | [Read More](https://medium.com/p/9925658b0837) |
 | Thu, 02 Oct 2025 11:01:20 GMT | For The Joy of What Is to Come… | Faith Omada Onoja | [Read More](https://medium.com/p/942db8cf27e0) |
-| Thu, 02 Oct 2025 10:55:58 GMT | Malware Analysis: Raven Stealer | Jon C | [Read More](https://medium.com/p/2a4ddb212ef0) |
-| Thu, 02 Oct 2025 10:54:41 GMT | The Gemini Trifecta: Why We Must Secure the AI Itself, Not Just its Perimeter | Eugene Peh | [Read More](https://medium.com/p/dcde7b826e05) |
-| Thu, 02 Oct 2025 10:54:39 GMT | SSRF Payloads & IPFuscation Guide | Cybersecplayground | [Read More](https://medium.com/p/46e7ee9b2272) |
-| Thu, 02 Oct 2025 10:54:15 GMT | Google is Fearing This: The One DevSecOps Flaw That Almost Broke a Multi-Billion-Dollar Chain | Web3 Nautiyal | [Read More](https://medium.com/p/a2316bf6dd90) |
-| Thu, 02 Oct 2025 10:47:30 GMT | Linux Workstation Hardening: Enhancing Security with UFW | Citadel Cybersec | [Read More](https://medium.com/p/662bd81af426) |
-| Thu, 02 Oct 2025 10:47:23 GMT | HTB CTF Holmes 2025 challenge was worth the effort. | Kingsley Uchunor | [Read More](https://medium.com/p/fe5a9d815737) |
