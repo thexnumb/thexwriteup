@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 07:21:16 GMT | The Quantum Internet: A Glimpse into the Future of Connectivity | BitBuz | [Read More](https://medium.com/p/f884409207e6) |
 | Thu, 02 Oct 2025 07:10:43 GMT | WhatsApp Had a Security Slip: What CVE 2025 55177 Means for You | Akshatdwivedi | [Read More](https://medium.com/p/68480dbbfecf) |
 | Thu, 02 Oct 2025 07:07:37 GMT | Domain Hopping: How Illegal Webtoon Sites Evade Blocks | Criminal IP | [Read More](https://medium.com/p/780257e5642f) |
 | Thu, 02 Oct 2025 07:07:37 GMT | Smiling Through Security: The Emoji Smuggling Threat to AI | Whai | [Read More](https://medium.com/p/697fa6c1729c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 21:21:50 GMT | The Little Me I Couldn’t Save, Standing Right in Front of Me | Renvyx | [Read More](https://medium.com/p/555d164be6c4) |
 | Wed, 01 Oct 2025 21:18:29 GMT | Qwerty, birthdays, pet names — hackers know them all. | Dan Sellars | [Read More](https://medium.com/p/1a92277833fe) |
 | Wed, 01 Oct 2025 21:17:09 GMT | The Genius Act, the SEC, and the Future of Money | Steven Clark | [Read More](https://medium.com/p/797004e54fa9) |
-| Wed, 01 Oct 2025 21:17:02 GMT | The OSI Model | Jacob Piloto | [Read More](https://medium.com/p/dcfcbe3cdf1b) |
