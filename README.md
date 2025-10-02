@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 05:32:45 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/0bc1f7870a2e) |
+| Thu, 02 Oct 2025 05:32:01 GMT | Risk Management vs Compliance: Which Door Should You Choose? | Raleigh Guevarra | [Read More](https://medium.com/p/a5d9e5d6b5b3) |
+| Thu, 02 Oct 2025 05:25:39 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/39a13795e5f0) |
+| Thu, 02 Oct 2025 05:25:23 GMT | Introducing: Breadcrumbs Investigation Tool | Toastie | [Read More](https://medium.com/p/29bc797b032d) |
+| Thu, 02 Oct 2025 05:23:41 GMT | Unlocking the Future: Why Passkeys Are About to Change Your Digital Life (And Ditch Your Passwords… | Sivavishnu | [Read More](https://medium.com/p/5d02f0beed31) |
+| Thu, 02 Oct 2025 05:17:19 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/06d1b9d5130a) |
 | Thu, 02 Oct 2025 05:02:07 GMT | Intrusion Detection System | Pretty_Knight | [Read More](https://medium.com/p/4190653309f8) |
 | Thu, 02 Oct 2025 04:49:45 GMT | Ghost calls: who does this and why does this matter at all? | Gergert Maxim | [Read More](https://medium.com/p/c19efc028a0d) |
 | Thu, 02 Oct 2025 04:43:50 GMT | Cybersecurity in Manufacturing: Protecting Production Lines and Industrial Processes | Cyber Security Research | [Read More](https://medium.com/p/e201b9ff0697) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 19:27:26 GMT | From Google Dork to Rickroll: PDF.js misconfiguration for quick Bug Bounties | Boba F3tt | [Read More](https://medium.com/p/f6473a2bdda4) |
 | Wed, 01 Oct 2025 19:26:29 GMT | How Do Security Teams Respond Quickly to Emergencies Today? | Smit John | [Read More](https://medium.com/p/859d05e8ce88) |
 | Wed, 01 Oct 2025 19:25:02 GMT | Hire A Hacker To Catch A Cheating Spouse | Sydney Brooks | [Read More](https://medium.com/p/326686298034) |
-| Wed, 01 Oct 2025 19:21:26 GMT | Hire A Hacker To Hack WhatsApp | Sydney Brooks | [Read More](https://medium.com/p/bfe3eab1c37f) |
-| Wed, 01 Oct 2025 19:18:59 GMT | Reflected XSS — Part 2 | file.bug | [Read More](https://medium.com/p/0a0b2cb0a314) |
-| Wed, 01 Oct 2025 19:17:26 GMT | Insights into a Sophisticated Chinese APT Targeting Critical Infrastructure | 0xMan1sh | [Read More](https://medium.com/p/547e8e72da31) |
-| Wed, 01 Oct 2025 19:13:13 GMT | Chaining Vulnerabilities - Tryhackme Walk-through by Abhishek | Abhishek | [Read More](https://medium.com/p/c0e4eda75f49) |
-| Wed, 01 Oct 2025 19:07:50 GMT | The Secret Reason the Western System Steals Your Purpose | Richard Ogundele | [Read More](https://medium.com/p/2520c0a239f7) |
-| Wed, 01 Oct 2025 19:05:41 GMT | MobileHackingLabs — IoT Connect Lab | everythingBlackkk | [Read More](https://medium.com/p/e061132baf7a) |
