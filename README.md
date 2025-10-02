@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 15:27:49 GMT | Smart Tech For C-Suite Health Leaders — What You Need To Know Now | Partners in Digital Health | [Read More](https://medium.com/p/43d39ab43ee9) |
+| Thu, 02 Oct 2025 15:27:10 GMT | The Quantum Thief | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/ed87209949d0) |
+| Thu, 02 Oct 2025 15:25:53 GMT | Windows 25H2 Has Launched: What You Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/2942dd58bc1a) |
+| Thu, 02 Oct 2025 15:22:32 GMT | How I Hacked a Web Application Using Simple Math: A Server-Side Template Injection Deep Dive | Aneeqibtesam | [Read More](https://medium.com/p/2ad86912e4e2) |
+| Thu, 02 Oct 2025 15:16:23 GMT | When Cyber Wars Replace Borders: How Nation-States Weaponize the Internet in the New Geopolitical… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/965eafd41e8f) |
 | Thu, 02 Oct 2025 15:11:43 GMT | 7 Common Myths About VPNs (And What You Actually Need to Know Before Using One) | Paradise technologies Inc | [Read More](https://medium.com/p/b132b8029460) |
 | Thu, 02 Oct 2025 15:09:04 GMT | Shellter nedir, nasıl kullanılır? | Emirhan Sevmez | [Read More](https://medium.com/p/7ff3ce301386) |
 | Thu, 02 Oct 2025 15:08:01 GMT | Sextortion Is Rising: How It Happens and Why It Hurts | CVOR | [Read More](https://medium.com/p/7918d1f6d124) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 09:44:48 GMT | Biosafety & Cyberbiosecurity in the Age of Bio-AI | Jackdavis Iap | [Read More](https://medium.com/p/9bef78bf3f15) |
 | Thu, 02 Oct 2025 09:36:03 GMT | Top 10 Cybersecurity Certifications to Aim for in 2026 | Syed Mohammed Murtaza | [Read More](https://medium.com/p/8b01cfcce1ec) |
 | Thu, 02 Oct 2025 09:27:42 GMT | Phishing 2025: Dari Email Murahan ke Deepfake AI yang Bisa Menipu CEO | Handev Code | [Read More](https://medium.com/p/4e6df42ccfc5) |
-| Thu, 02 Oct 2025 09:25:36 GMT | “Help! Where do I even START?” Cybersec SOS, decoded. | Authlyn | [Read More](https://medium.com/p/3866419246c7) |
-| Thu, 02 Oct 2025 09:24:37 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/fd3ec23ba056) |
-| Thu, 02 Oct 2025 09:24:03 GMT | AAEON’s Networking & Cybersecurity Solutions to Take the Stage at it-sa Expo&Congress | AAEON Technology | [Read More](https://medium.com/p/05af6ef3e77d) |
-| Thu, 02 Oct 2025 09:21:54 GMT | The AI hack that convinced a chatbot to sell a $76,000 car for $1 | Ben Ratcliffe | [Read More](https://medium.com/p/511ba0ad084d) |
-| Thu, 02 Oct 2025 09:21:08 GMT | SubHub: Bringing Precision, Proof, and Trust to Airdrops in Web3 | EHMPE RHOR | [Read More](https://medium.com/p/2f535cb12010) |
