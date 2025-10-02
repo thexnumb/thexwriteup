@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 09:07:13 GMT | APK Patching Gotchas: Why Does It Redirect? | SilentInject | [Read More](https://medium.com/p/726a5a2cb022) |
+| Thu, 02 Oct 2025 08:50:54 GMT | DockerLabs Writeup — BaluFood (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ac14cbbd999a) |
+| Thu, 02 Oct 2025 08:48:15 GMT | Mapping Wazuh Output to ISO/IEC 27001:2022 — Evidence That Your Controls Work | Ahmed Abbes | [Read More](https://medium.com/p/68aa793b2783) |
+| Thu, 02 Oct 2025 08:47:04 GMT | Building a Robust Cybersecurity Incident Response Plan | Cyber Security Research | [Read More](https://medium.com/p/7f375b5122b4) |
+| Thu, 02 Oct 2025 08:45:03 GMT | [Meet our faculty] EURECOM welcomes Lesly-Ann Daniel, as assistant professor in digital security | EURECOM Communication | [Read More](https://medium.com/p/8759fe869eec) |
 | Thu, 02 Oct 2025 08:43:16 GMT | 30 ChatGPT Hacks You’ll Wish You Knew Sooner | Hafsafazilthegreat | [Read More](https://medium.com/p/db00eadc60dc) |
 | Thu, 02 Oct 2025 08:42:21 GMT | Flag 8 & 9 — Hextree CTF: Exploiting Exported Components and Services | Mohamed hamdy | [Read More](https://medium.com/p/dc57cd199619) |
 | Thu, 02 Oct 2025 08:40:06 GMT | TryHackMe - Network Discovery Detection - WriteUp | Axoloth | [Read More](https://medium.com/p/f46e67d4f69c) |
 | Thu, 02 Oct 2025 08:35:46 GMT | Cyber Security Tutorial (Part1) | mohandika | [Read More](https://medium.com/p/b68d7b282693) |
+| Thu, 02 Oct 2025 08:35:46 GMT | Ward Off the Watchful Eye | AMORITAS | [Read More](https://medium.com/p/3c014255e01e) |
 | Thu, 02 Oct 2025 08:20:43 GMT | Public Key Cryptography at the Image Sensor Level: The Future of Proof of Capture | Ogün Kırıkçı | [Read More](https://medium.com/p/03b740cccdc3) |
 | Thu, 02 Oct 2025 08:09:32 GMT | Dissecting a Malware Sample: Dynamic Analysis of an Unknown Threat (Part 2) | Mohamed Niyas | [Read More](https://medium.com/p/bc8e00182a6e) |
 | Thu, 02 Oct 2025 08:09:12 GMT | Understanding NTP Servers: Why They Matter and How to Use Them | Ahmed Maher | [Read More](https://medium.com/p/07978ba03956) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 23:01:57 GMT | Best VPNs for Netflix in 2025 (Watch Without Borders) | CyberSecure Life | [Read More](https://medium.com/p/dd1418ce8a20) |
 | Wed, 01 Oct 2025 22:51:35 GMT | Can we truly replace passwords? | Yoav Podemsky | [Read More](https://medium.com/p/532f2b4eedc5) |
 | Wed, 01 Oct 2025 22:51:22 GMT | AI Security Just Went Mainstream: Why Everyone’s Buying Everyone | Technovate Global | [Read More](https://medium.com/p/17a8153f1167) |
-| Wed, 01 Oct 2025 22:50:32 GMT | ABRIENDO TRES LADOS DEL HEXÁGONO: | Mi Gpt y yo - Manuel Barrera Anglada. | [Read More](https://medium.com/p/59bcdd4122e5) |
-| Wed, 01 Oct 2025 22:47:41 GMT | Stop Wasting Time on Random Labs: How to Pick the Right Cybersecurity Portfolio Projects in 2025 | Taimur Ijlal | [Read More](https://medium.com/p/c23a942bc87b) |
-| Wed, 01 Oct 2025 22:44:45 GMT | Why “We Value Your Privacy” Is Big Tech’s Biggest Lie | Ian McIntire | [Read More](https://medium.com/p/70a608b8bba1) |
-| Wed, 01 Oct 2025 22:44:03 GMT | The Strategic Advantage of Virtualization: Scalability, Elasticity, and Security Explored | Raviteja Mureboina | [Read More](https://medium.com/p/5052e8fafa0c) |
-| Wed, 01 Oct 2025 22:38:33 GMT | Yahoo Team — “Your Google Drive is almost full..Take | Bob Malin | [Read More](https://medium.com/p/483b13e70bad) |
-| Wed, 01 Oct 2025 22:35:27 GMT | Trooper TryHackMe Walkthrough | Karim Hesham | [Read More](https://medium.com/p/581c59ddcb8b) |
