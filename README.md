@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 17:10:05 GMT | ️‍♂️ Bughunter MVP | ghostyjoe | [Read More](https://medium.com/p/3dda1831eda6) |
+| Thu, 02 Oct 2025 17:03:46 GMT | The Silent Battle: Offensive Intelligence Meets Forensic Truth | Vijay Kumar Gupta | [Read More](https://medium.com/p/5b6ccc07bc5f) |
+| Thu, 02 Oct 2025 17:01:55 GMT | Parsing, Normalizing & Streamlining Wazuh Logs in Graylog | Arfan Abid | [Read More](https://medium.com/p/a722b7e5d76f) |
+| Thu, 02 Oct 2025 16:59:39 GMT | From Idea to Live CTF My First Real Project on Google Cloud | Abzu | [Read More](https://medium.com/p/9d7ede870a16) |
+| Thu, 02 Oct 2025 16:57:16 GMT | Astrophysical Steganography - Hiding Messages in the Universe | Anshuman Sahoo | [Read More](https://medium.com/p/17875789a577) |
+| Thu, 02 Oct 2025 16:55:35 GMT | BFT — Digital Forensics (DFIR) | Tiziano Mass | [Read More](https://medium.com/p/367c34821ce1) |
+| Thu, 02 Oct 2025 16:51:22 GMT | The Great Cybersecurity Comedy of Errors | Vamsi Basa | [Read More](https://medium.com/p/847f9564f411) |
 | Thu, 02 Oct 2025 16:35:44 GMT | I Almost Quit Hacking | Shahzaib | [Read More](https://medium.com/p/a961ef9924fc) |
 | Thu, 02 Oct 2025 16:35:10 GMT | The ‘Failure Resume’: Why a Junior Pentester’s Best Tool is Documenting What Didn’t Work | vydhi | [Read More](https://medium.com/p/0b1c781b08aa) |
 | Thu, 02 Oct 2025 16:33:33 GMT | Advanced Persistent Threats (APTs): Understanding the Enemy | Cyber Security Research | [Read More](https://medium.com/p/a96c27b6799f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 10:54:15 GMT | Google is Fearing This: The One DevSecOps Flaw That Almost Broke a Multi-Billion-Dollar Chain | Web3 Nautiyal | [Read More](https://medium.com/p/a2316bf6dd90) |
 | Thu, 02 Oct 2025 10:47:30 GMT | Linux Workstation Hardening: Enhancing Security with UFW | Citadel Cybersec | [Read More](https://medium.com/p/662bd81af426) |
 | Thu, 02 Oct 2025 10:47:23 GMT | HTB CTF Holmes 2025 challenge was worth the effort. | Kingsley Uchunor | [Read More](https://medium.com/p/fe5a9d815737) |
-| Thu, 02 Oct 2025 10:43:20 GMT | Jira Permissions: Best Practices for Large Teams | Erdem UÇAK | [Read More](https://medium.com/p/bfef243fc4fe) |
-| Thu, 02 Oct 2025 10:43:13 GMT | Espionage, Shutdowns, and AI Blunders: A Week in Cyber News. | Seb AGUELE | [Read More](https://medium.com/p/5b7b006fb413) |
-| Thu, 02 Oct 2025 10:37:46 GMT | DevOps, FinOps et SecOps : détecter les signaux faibles avant l’incident | Rebecca Cottignies | [Read More](https://medium.com/p/8097a63dd37b) |
-| Thu, 02 Oct 2025 10:37:32 GMT | The Timeless Game of Deception: Why Fraud Never Dies | Godsway R. Akakpo | [Read More](https://medium.com/p/1d17d48488cc) |
-| Thu, 02 Oct 2025 10:31:49 GMT | 12 Compliance-Friendly Automations for Data at Scale | Nexumo | [Read More](https://medium.com/p/fd181be78925) |
-| Thu, 02 Oct 2025 10:31:16 GMT | Traffic Flow in a 3-Tier AWS Architecture: Route 53 → CloudFront → ALB | Thamotharan NK PILLAI | [Read More](https://medium.com/p/8f782a85e66a) |
-| Thu, 02 Oct 2025 10:30:15 GMT | 5 Evidence-Based Learning Techniques to Improve Knowledge Retention. | Gomolemo Moagi | [Read More](https://medium.com/p/a37dd5fd72c9) |
