@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 23:11:05 GMT | Cybersecurity Weekly Issue 51 | This Week In I/O | [Read More](https://medium.com/p/57b00316d726) |
+| Thu, 02 Oct 2025 23:07:51 GMT | Unwelcome and Dangerous Internet Traffic | George Sidman | [Read More](https://medium.com/p/1d93f01c4019) |
+| Thu, 02 Oct 2025 23:04:58 GMT | Why Passing SPF and DKIM Isn’t Enough: A New Framework for Email Sender Trust | Nikola | [Read More](https://medium.com/p/66f94350a431) |
+| Thu, 02 Oct 2025 23:01:12 GMT | CyberExam: Introduction to Forensics and Incident Response — Writeup | Ensar Özder | [Read More](https://medium.com/p/a21d811d67c4) |
+| Thu, 02 Oct 2025 22:57:18 GMT | CCTV monitoring in residential areas | Visual Monitoring Solutions | [Read More](https://medium.com/p/81af17d329f0) |
+| Thu, 02 Oct 2025 22:53:28 GMT | 2025 Cybersecurity Reality Check | Cyber-AppSec | [Read More](https://medium.com/p/e98b431bb2b1) |
+| Thu, 02 Oct 2025 22:51:55 GMT | Everyone loves vulnerability — right up until it starts crying | Martina Vragovic | [Read More](https://medium.com/p/927f457fac46) |
+| Thu, 02 Oct 2025 22:47:53 GMT | Securing Data in Integrations: Tips and Best Practices | Vanshi Tiwari | [Read More](https://medium.com/p/36a0c2d427c7) |
+| Thu, 02 Oct 2025 22:43:54 GMT | Why “Login with Microsoft” is Broken — and How Labii Secures It with Two-Step Verification | Labii | [Read More](https://medium.com/p/13013535565d) |
 | Thu, 02 Oct 2025 22:29:11 GMT | Hack the Box — Trick — WriteUp | Emre A. | [Read More](https://medium.com/p/77bd5b467a9d) |
 | Thu, 02 Oct 2025 22:16:25 GMT | The Future of Digital Assets | B Li8ht | [Read More](https://medium.com/p/857068439844) |
 | Thu, 02 Oct 2025 21:32:33 GMT | Red Hat Data Breach, Hackers Claim Access to 28K Private GitHub Repositories | SCtoCS | [Read More](https://medium.com/p/41444919ccd1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 15:27:10 GMT | The Quantum Thief | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/ed87209949d0) |
 | Thu, 02 Oct 2025 15:25:53 GMT | Windows 25H2 Has Launched: What You Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/2942dd58bc1a) |
 | Thu, 02 Oct 2025 15:22:32 GMT | How I Hacked a Web Application Using Simple Math: A Server-Side Template Injection Deep Dive | Aneeqibtesam | [Read More](https://medium.com/p/2ad86912e4e2) |
-| Thu, 02 Oct 2025 15:16:23 GMT | When Cyber Wars Replace Borders: How Nation-States Weaponize the Internet in the New Geopolitical… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/965eafd41e8f) |
-| Thu, 02 Oct 2025 15:11:43 GMT | 7 Common Myths About VPNs (And What You Actually Need to Know Before Using One) | Paradise technologies Inc | [Read More](https://medium.com/p/b132b8029460) |
-| Thu, 02 Oct 2025 15:09:04 GMT | Shellter nedir, nasıl kullanılır? | Emirhan Sevmez | [Read More](https://medium.com/p/7ff3ce301386) |
-| Thu, 02 Oct 2025 15:08:01 GMT | Sextortion Is Rising: How It Happens and Why It Hurts | CVOR | [Read More](https://medium.com/p/7918d1f6d124) |
-| Thu, 02 Oct 2025 15:03:30 GMT | Why is Ladakh burning? | Nirja | [Read More](https://medium.com/p/dea8e638a641) |
-| Thu, 02 Oct 2025 15:01:54 GMT | Opinion: The Illusion of Consensus — Why NeurIPS Should Not Lead GLOBAL AI Policy | Berend Watchus | [Read More](https://medium.com/p/25855d0a2de2) |
-| Thu, 02 Oct 2025 15:01:43 GMT | Zero to Hero: AI Security | Ashish Bansal | [Read More](https://medium.com/p/a73545fa2b39) |
-| Thu, 02 Oct 2025 15:01:34 GMT | Building Trust at Every Layer: How Secure Cloud Networks Manage Access | Champ18ion | [Read More](https://medium.com/p/ee0b367a13f9) |
-| Thu, 02 Oct 2025 14:57:55 GMT | I Don’t Like Getting Haircuts | Doc Jones | [Read More](https://medium.com/p/bf228f7e1fab) |
