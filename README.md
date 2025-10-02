@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 02:31:28 GMT | Security Assessment: Vulnhub Napping Walkthrough | Luke Gearty | [Read More](https://medium.com/p/ac69d05c724c) |
+| Thu, 02 Oct 2025 02:16:04 GMT | Cybersecurity and Machine Learning | Mersadi Freeman | [Read More](https://medium.com/p/c37b468b9716) |
+| Thu, 02 Oct 2025 02:11:45 GMT | My Personal Website | TAYO | [Read More](https://medium.com/p/8879c371fb8b) |
+| Thu, 02 Oct 2025 01:51:29 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/48786010c490) |
+| Thu, 02 Oct 2025 01:44:42 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/639956dba0f0) |
+| Thu, 02 Oct 2025 01:38:01 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/da318ad15270) |
+| Thu, 02 Oct 2025 01:31:00 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b4a97d659c0b) |
+| Thu, 02 Oct 2025 01:27:49 GMT | Integrating Agentic AI Systems with CMMC Compliance in Defense Contracting | Valdez Ladd | [Read More](https://medium.com/p/f9fed3f3b9ca) |
 | Thu, 02 Oct 2025 01:24:30 GMT | Cloudbric Services Progress Report (9/1 ~ 9/30) | Cloudbric | [Read More](https://medium.com/p/62f881be745d) |
 | Thu, 02 Oct 2025 01:24:05 GMT | Cloudbric Services Progress Report (9/1 ~ 9/30) | Cloudbric | [Read More](https://medium.com/p/6418da2710b4) |
 | Thu, 02 Oct 2025 01:23:53 GMT | Cybersecurity in the Energy Sector: Protecting Power Grids and Oil Pipelines | Cyber Security Research | [Read More](https://medium.com/p/5a8cc237c65b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 18:06:10 GMT | GetPDF lab - Cyber Defenders walkthrough | Abdulla Abdulrhem | [Read More](https://medium.com/p/be806260f4f9) |
 | Wed, 01 Oct 2025 18:02:04 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/d55d04b6878c) |
 | Wed, 01 Oct 2025 18:01:52 GMT | ⚡ Burp Suite como un pro: workflow real, sin perder el tiempo (estreno mañana) | Gorka | [Read More](https://medium.com/p/db2429b15954) |
-| Wed, 01 Oct 2025 17:57:47 GMT | AI in Cybersecurity: Transforming VAPT and Defending Against DDoS Attacks | Sameer P. | [Read More](https://medium.com/p/442020888ed4) |
-| Wed, 01 Oct 2025 17:56:49 GMT | Why Developers Should Stop Hashing Passwords and Start Using KDFs | Felix Twoli | [Read More](https://medium.com/p/0be0da663393) |
-| Wed, 01 Oct 2025 17:55:11 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/ab807d809fa9) |
-| Wed, 01 Oct 2025 17:53:38 GMT | The First 3 Security Policies Every Small Business Needs | Evgeny Ermakov | [Read More](https://medium.com/p/bcf702970e33) |
-| Wed, 01 Oct 2025 17:48:37 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/966dc90c2525) |
-| Wed, 01 Oct 2025 17:47:38 GMT | Ransomware Warning: What Businesses Must Know to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/e9acf2d8c22f) |
-| Wed, 01 Oct 2025 17:42:56 GMT | PASSWORD CRACKING ANALYSIS | Manahil Saleem | [Read More](https://medium.com/p/7cb36c3482e5) |
-| Wed, 01 Oct 2025 17:41:27 GMT | The Future of Computer Repair: AI Diagnostics and Remote Fixes | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/b5bb7e788fd5) |
