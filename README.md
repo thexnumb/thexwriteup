@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 14:14:07 GMT | How I Bypassed an Account ID Check to Steal an API Key | Cyber Indaboski ( Blessing John) | [Read More](https://medium.com/p/5c446cce78e9) |
+| Thu, 02 Oct 2025 14:11:53 GMT | What Is a Cookie? | Randompedia | [Read More](https://medium.com/p/b2ae6b9d9c9a) |
+| Thu, 02 Oct 2025 14:06:20 GMT | Boost Your Online Business with Professional Ecommerce Website Development | FullStackWebEngineer | [Read More](https://medium.com/p/b1012253a189) |
+| Thu, 02 Oct 2025 14:06:19 GMT | How Many Amps Does a Garage Door Opener Use: Power Requirements Explained | Up & Down Garage Door Services | [Read More](https://medium.com/p/ae2d2241ee92) |
+| Thu, 02 Oct 2025 14:04:36 GMT | ABTU’s Transparent Token Launch: Built on Milestones, Not Speculation | Abatis ABTU | [Read More](https://medium.com/p/93694ae3968f) |
+| Thu, 02 Oct 2025 14:01:56 GMT | Cyber Briefing: 2025.10.02 | CyberMaterial | [Read More](https://medium.com/p/c43a3b734958) |
+| Thu, 02 Oct 2025 13:51:30 GMT | The Ultimate Guide to Finding Your First SQL Injection Vulnerability — 2026 | Andrei Ivan | [Read More](https://medium.com/p/0fc788644809) |
+| Thu, 02 Oct 2025 13:51:25 GMT | FortiPAM installation on ESXi | M.Magdy | [Read More](https://medium.com/p/69e602f56931) |
+| Thu, 02 Oct 2025 13:50:21 GMT | Truth About Bug Bounties: Beyond The Overnight Success | Willow Tech | [Read More](https://medium.com/p/b3c8c89be4d4) |
+| Thu, 02 Oct 2025 13:46:53 GMT | a bleeding heart is the sun | warmhrrted | [Read More](https://medium.com/p/21454f830d9a) |
+| Thu, 02 Oct 2025 13:45:37 GMT | Auditd Assassin - How BLKINJECTOR Kills the Watcher | Vahid Malek | [Read More](https://medium.com/p/1e5e72e91f28) |
+| Thu, 02 Oct 2025 13:44:17 GMT | DAY 2 : “5 small habits = big protection.” | aysha | [Read More](https://medium.com/p/e925bb2defa0) |
+| Thu, 02 Oct 2025 13:38:19 GMT | HTB_Academy: Footprinting Lab — Easy | Babatunde Ojo | [Read More](https://medium.com/p/6eec71d723f0) |
 | Thu, 02 Oct 2025 13:38:16 GMT | Supply Chain Shenanigans | Conceal, Inc. | [Read More](https://medium.com/p/173db5005c72) |
 | Thu, 02 Oct 2025 13:33:44 GMT | What’s it like starting out in cybersecurity? | M.Tayyeb | [Read More](https://medium.com/p/fee5f9d6a7fc) |
 | Thu, 02 Oct 2025 13:32:20 GMT | "In today’s rapidly evolving digital landscape, cybersecurity is essential for protecting… | Abdifatah Hassan Roble | [Read More](https://medium.com/p/d0452d3b14cb) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 08:04:46 GMT | Wazuh 5.0 is Here: A Technical Deep Dive into the New Engine, eBPF, and Enterprise Scaling | Yusuf Talha ARABACI | [Read More](https://medium.com/p/5bdf4089cbb2) |
 | Thu, 02 Oct 2025 08:02:16 GMT | Build an Auto-Remediator: Reset Risky Credentials as Soon as They Leak | Alexandre Vandamme | [Read More](https://medium.com/p/ece9f9efc56f) |
 | Thu, 02 Oct 2025 07:59:21 GMT | Building a Vulnerability Eating LLM Agent | Julian Michelmann | [Read More](https://medium.com/p/818f3af1c148) |
-| Thu, 02 Oct 2025 07:57:02 GMT | Strategic Alignment and IT Operations: A New Era for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/6c8a1c011005) |
-| Thu, 02 Oct 2025 07:49:36 GMT | What is an ISP Proxy? How is it different from Residential proxies? | Martin E. | [Read More](https://medium.com/p/e6e74d64d176) |
-| Thu, 02 Oct 2025 07:48:46 GMT | ️‍♂️ Cracking the “JSEveryWhere” CTF Challenge: Forensic | löca | [Read More](https://medium.com/p/069c63e553c7) |
-| Thu, 02 Oct 2025 07:47:52 GMT | Exploiting Kubernetes Cluster Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/0633d4e96d4d) |
-| Thu, 02 Oct 2025 07:47:21 GMT | Dumb Companion: how is it so beautiful | Reah Lost | [Read More](https://medium.com/p/2b68323c287f) |
-| Thu, 02 Oct 2025 07:21:16 GMT | The Quantum Internet: A Glimpse into the Future of Connectivity | BitBuz | [Read More](https://medium.com/p/f884409207e6) |
-| Thu, 02 Oct 2025 07:10:43 GMT | WhatsApp Had a Security Slip: What CVE 2025 55177 Means for You | Akshatdwivedi | [Read More](https://medium.com/p/68480dbbfecf) |
-| Thu, 02 Oct 2025 07:07:37 GMT | Domain Hopping: How Illegal Webtoon Sites Evade Blocks | Criminal IP | [Read More](https://medium.com/p/780257e5642f) |
-| Thu, 02 Oct 2025 07:07:37 GMT | Smiling Through Security: The Emoji Smuggling Threat to AI | Whai | [Read More](https://medium.com/p/697fa6c1729c) |
-| Thu, 02 Oct 2025 07:07:03 GMT | Cybersecurity Certification Roadmap 2025 for All | Jack Lim | [Read More](https://medium.com/p/3cd1a0fd1c13) |
-| Thu, 02 Oct 2025 07:06:40 GMT | How Drosera Could Have Stopped the $190M Nomad Bridge Hack | Ife.10x | [Read More](https://medium.com/p/4629e23cdda0) |
-| Thu, 02 Oct 2025 07:06:00 GMT | Network Echoes: Persistent Traces | Infra & Network Core | [Read More](https://medium.com/p/97b5515e1c55) |
-| Thu, 02 Oct 2025 07:05:10 GMT | Linux System Setup & SSH Hardening | Rudy Castillo | [Read More](https://medium.com/p/2cec4a412fdb) |
