@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 03:50:02 GMT | Drosera: Ethereum’s Last Line of Defense | Mohammedaliyu | [Read More](https://medium.com/p/66d9bd94c2e8) |
+| Thu, 02 Oct 2025 03:47:00 GMT | Bluzor.cc Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/002fd527b1c7) |
+| Thu, 02 Oct 2025 03:46:49 GMT | Campanha de Phishing Brasil — Uma analise do Malware | dathanNobrega | [Read More](https://medium.com/p/f08b3df50539) |
+| Thu, 02 Oct 2025 03:43:32 GMT | Is Coatedf.cc Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/88a633b0d0da) |
 | Thu, 02 Oct 2025 03:40:36 GMT | Can You Trust Resolvedapps.diy? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/a46aa52b6769) |
 | Thu, 02 Oct 2025 03:31:50 GMT | The Validation Trap: Why Hackers Chase Hall of Fame Instead of Real Bugs | Đeepanshu | [Read More](https://medium.com/p/010fb3a4bd76) |
 | Thu, 02 Oct 2025 03:25:12 GMT | Stillwellinvestings.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/c94977820ce1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 19:00:04 GMT | Debugging the Bayou Onezime’s Firmware Update on Vishing, Smishing, & Plishing | Jerileewei | [Read More](https://medium.com/p/8d9f6d0d778b) |
 | Wed, 01 Oct 2025 18:58:23 GMT | WebStrike Lab Cyberdefenders Writeup | GM4saken | [Read More](https://medium.com/p/4660bbb21c79) |
 | Wed, 01 Oct 2025 18:48:27 GMT | Cybersecurity market — forward-looking insight & prediction (2025–2045) insight Report by Sameer | Sameer P. | [Read More](https://medium.com/p/674378d551e0) |
-| Wed, 01 Oct 2025 18:45:16 GMT | My Journey: From a Rural Village to Cybersecurity & Beyond | Inayat Hussain | [Read More](https://medium.com/p/790057b3ab07) |
-| Wed, 01 Oct 2025 18:44:58 GMT | PG Practice — Fish (Windows) | Lepton | [Read More](https://medium.com/p/1d014ad8aeab) |
-| Wed, 01 Oct 2025 18:43:22 GMT | Forensic Treasure Hunt: How Investigators Use ShimCache & AmCache to Unmask Malware | Paritosh | [Read More](https://medium.com/p/a1183ca91d58) |
-| Wed, 01 Oct 2025 18:42:02 GMT | Configuring Wazuh to Send Logs to Graylog for Normalization (Setting up Filebeat) | Arfan Abid | [Read More](https://medium.com/p/563db817a030) |
