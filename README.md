@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 16:13:07 GMT | Cybersecurity in Banking: How to Protect Your Money in 2025 | smartfinancetipss | [Read More](https://medium.com/p/d6d28f35b827) |
+| Thu, 02 Oct 2025 16:09:47 GMT | Broken Access Control | aimaster | [Read More](https://medium.com/p/c100c2f3b0e8) |
+| Thu, 02 Oct 2025 16:08:09 GMT | Don’t Get Hacked: The Critical Defense Against Telegram Phishing Scams | Prince Philip | [Read More](https://medium.com/p/58ec076b784a) |
+| Thu, 02 Oct 2025 16:07:40 GMT | 5 Fastest Ways to Make Money with AI and Chat GPT……….. | gk | [Read More](https://medium.com/p/73a7d277c1b9) |
+| Thu, 02 Oct 2025 16:06:36 GMT | Stop Fixing Bugs. Start Preventing Them. | Muhammad Mudassir Siddiqui | [Read More](https://medium.com/p/2aa0463a4cdd) |
+| Thu, 02 Oct 2025 16:03:36 GMT | The Quantum Leap: What Quantum Computing Really Means for the Everyday Innovator | Saad imtiaz | [Read More](https://medium.com/p/95c37bb39ec4) |
+| Thu, 02 Oct 2025 16:03:32 GMT | Scanning the Scanners: A SOC Analyst’s Guide to Network Discovery Detection | Furkanctiner | [Read More](https://medium.com/p/1203cd804877) |
+| Thu, 02 Oct 2025 15:51:22 GMT | No Turning Back as US IT Leaders Invest Boldly in AI, Data and Cybersecurity | Strategy Insights | [Read More](https://medium.com/p/b35f7ac6da3e) |
+| Thu, 02 Oct 2025 15:45:44 GMT | Russia’s Starlink Gamble — How One GRU Unit 74455 Could Weaponize User Devices | The Forensic Archive | [Read More](https://medium.com/p/5efcec559a4a) |
+| Thu, 02 Oct 2025 15:40:09 GMT | What is Vishing? - Not too Much - Lumirism | Lumirism | [Read More](https://medium.com/p/dc7341910cce) |
+| Thu, 02 Oct 2025 15:33:39 GMT | Litigation, Exodus, and Ego: Elon Musk’s AI Spiral | Dr Rita Pal | [Read More](https://medium.com/p/fa0a7eda3b7f) |
 | Thu, 02 Oct 2025 15:27:49 GMT | Smart Tech For C-Suite Health Leaders — What You Need To Know Now | Partners in Digital Health | [Read More](https://medium.com/p/43d39ab43ee9) |
 | Thu, 02 Oct 2025 15:27:10 GMT | The Quantum Thief | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/ed87209949d0) |
 | Thu, 02 Oct 2025 15:25:53 GMT | Windows 25H2 Has Launched: What You Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/2942dd58bc1a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 10:12:08 GMT | AI Coding Tools Are Inventing Fake Packages (Hackers Are Paying Attention) | Krunal Kanojiya | [Read More](https://medium.com/p/5186ce6c3259) |
 | Thu, 02 Oct 2025 10:09:35 GMT | Someone Like This | Shupti Ahmed | [Read More](https://medium.com/p/dd2f305a6ea1) |
 | Thu, 02 Oct 2025 10:09:31 GMT | BACK TO BASICS: US Secretary of Defense Hegseth’s Blunt Message to American Generals — and Why It… | Sgshehu | [Read More](https://medium.com/p/a7c3b26a04ab) |
-| Thu, 02 Oct 2025 10:08:43 GMT | Chinese Hackers Used Custom Malware to Spy on Governments for 2 Years – Here’s What You Need to… | Techsankar | [Read More](https://medium.com/p/7afde200e999) |
-| Thu, 02 Oct 2025 10:07:02 GMT | When Loving Feels Scary | Dimplechawla | [Read More](https://medium.com/p/cae5876c90f1) |
-| Thu, 02 Oct 2025 10:01:52 GMT | A Jeep on the Highway, and a Cursor in the Console | DefendPoint Security | [Read More](https://medium.com/p/cfe58db516c2) |
-| Thu, 02 Oct 2025 09:58:36 GMT | CVE-2025–54476: XSS Vulnerability in Joomla’s Input Filter Framework — Are Your Attributes Safe? | CVEHUB | [Read More](https://medium.com/p/9a47a3b5e5df) |
-| Thu, 02 Oct 2025 09:53:04 GMT | I Failed PT1 | Toibat | [Read More](https://medium.com/p/cf4cf241674b) |
-| Thu, 02 Oct 2025 09:51:46 GMT | Security on Pause: Gov Shutdown Exposes Cyber Weakness? | Truspex | [Read More](https://medium.com/p/38f890a9a267) |
-| Thu, 02 Oct 2025 09:49:23 GMT | How to Discover and Dump Data from Exposed Elasticsearch Instances (For Authorized Security Testing… | Omarataallah | [Read More](https://medium.com/p/079fe3cf364a) |
-| Thu, 02 Oct 2025 09:47:14 GMT | The Hidden Risk in Your Wallet: Why the Magnetic Strip on Your Debit Card is a Ticking Security… | Archivum Aeternum | [Read More](https://medium.com/p/b7ff7dc80877) |
-| Thu, 02 Oct 2025 09:44:48 GMT | Biosafety & Cyberbiosecurity in the Age of Bio-AI | Jackdavis Iap | [Read More](https://medium.com/p/9bef78bf3f15) |
-| Thu, 02 Oct 2025 09:36:03 GMT | Top 10 Cybersecurity Certifications to Aim for in 2026 | Syed Mohammed Murtaza | [Read More](https://medium.com/p/8b01cfcce1ec) |
-| Thu, 02 Oct 2025 09:27:42 GMT | Phishing 2025: Dari Email Murahan ke Deepfake AI yang Bisa Menipu CEO | Handev Code | [Read More](https://medium.com/p/4e6df42ccfc5) |
