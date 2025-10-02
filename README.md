@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 08:09:32 GMT | Dissecting a Malware Sample: Dynamic Analysis of an Unknown Threat (Part 2) | Mohamed Niyas | [Read More](https://medium.com/p/bc8e00182a6e) |
+| Thu, 02 Oct 2025 08:09:12 GMT | Understanding NTP Servers: Why They Matter and How to Use Them | Ahmed Maher | [Read More](https://medium.com/p/07978ba03956) |
+| Thu, 02 Oct 2025 08:04:46 GMT | Wazuh 5.0 is Here: A Technical Deep Dive into the New Engine, eBPF, and Enterprise Scaling | Yusuf Talha ARABACI | [Read More](https://medium.com/p/5bdf4089cbb2) |
+| Thu, 02 Oct 2025 08:02:16 GMT | Build an Auto-Remediator: Reset Risky Credentials as Soon as They Leak | Alexandre Vandamme | [Read More](https://medium.com/p/ece9f9efc56f) |
+| Thu, 02 Oct 2025 07:59:21 GMT | Building a Vulnerability Eating LLM Agent | Julian Michelmann | [Read More](https://medium.com/p/818f3af1c148) |
+| Thu, 02 Oct 2025 07:57:02 GMT | Strategic Alignment and IT Operations: A New Era for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/6c8a1c011005) |
+| Thu, 02 Oct 2025 07:49:36 GMT | What is an ISP Proxy? How is it different from Residential proxies? | Martin E. | [Read More](https://medium.com/p/e6e74d64d176) |
+| Thu, 02 Oct 2025 07:48:46 GMT | ️‍♂️ Cracking the “JSEveryWhere” CTF Challenge: Forensic | löca | [Read More](https://medium.com/p/069c63e553c7) |
+| Thu, 02 Oct 2025 07:47:52 GMT | Exploiting Kubernetes Cluster Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/0633d4e96d4d) |
+| Thu, 02 Oct 2025 07:47:21 GMT | Dumb Companion: how is it so beautiful | Reah Lost | [Read More](https://medium.com/p/2b68323c287f) |
 | Thu, 02 Oct 2025 07:21:16 GMT | The Quantum Internet: A Glimpse into the Future of Connectivity | BitBuz | [Read More](https://medium.com/p/f884409207e6) |
 | Thu, 02 Oct 2025 07:10:43 GMT | WhatsApp Had a Security Slip: What CVE 2025 55177 Means for You | Akshatdwivedi | [Read More](https://medium.com/p/68480dbbfecf) |
 | Thu, 02 Oct 2025 07:07:37 GMT | Domain Hopping: How Illegal Webtoon Sites Evade Blocks | Criminal IP | [Read More](https://medium.com/p/780257e5642f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 22:08:56 GMT | CQ CyberPulse Weekly — October Edition #1 | CyberQuestor | [Read More](https://medium.com/p/36ff139f5261) |
 | Wed, 01 Oct 2025 22:07:40 GMT | Google Drive Is Now Your First Line of Defense Against Ransomware | Majid | [Read More](https://medium.com/p/18daac2b1371) |
 | Wed, 01 Oct 2025 22:05:07 GMT | Gerontik, Lansia, dan Teknologi di Era Digital | Alfari | [Read More](https://medium.com/p/16c7f6174c5f) |
-| Wed, 01 Oct 2025 21:54:50 GMT | The Hidden AI Supply Chain Crisis That Could Cripple Enterprises | Cyber-AppSec | [Read More](https://medium.com/p/0d6c93389b04) |
-| Wed, 01 Oct 2025 21:52:23 GMT | When Gen Z Becomes an Information Being: Morocco’s Uprising and the Protocol That Can’t Be Arrested | Zak | [Read More](https://medium.com/p/b45b67df4214) |
-| Wed, 01 Oct 2025 21:46:51 GMT | Why National Cybersecurity Awareness Month (NCSAM) Secretly Sucks for CISOs | Yael Nagler | [Read More](https://medium.com/p/bed99c6d7550) |
-| Wed, 01 Oct 2025 21:38:51 GMT | The Importance of Human Firewalls | Osinachi Ozocheta | [Read More](https://medium.com/p/f66212eeb351) |
-| Wed, 01 Oct 2025 21:35:26 GMT | The Role of AI in Cybersecurity | Moustafa Mohamed | [Read More](https://medium.com/p/9ddf3a0ba0ee) |
-| Wed, 01 Oct 2025 21:33:58 GMT | How Governments and Companies Are Responding to the Surge in Cyberattacks | The Deep Frame | [Read More](https://medium.com/p/9aaa9ad20a9d) |
-| Wed, 01 Oct 2025 21:33:19 GMT | Apex — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/4545abe1e64d) |
-| Wed, 01 Oct 2025 21:21:50 GMT | The Little Me I Couldn’t Save, Standing Right in Front of Me | Renvyx | [Read More](https://medium.com/p/555d164be6c4) |
-| Wed, 01 Oct 2025 21:18:29 GMT | Qwerty, birthdays, pet names — hackers know them all. | Dan Sellars | [Read More](https://medium.com/p/1a92277833fe) |
-| Wed, 01 Oct 2025 21:17:09 GMT | The Genius Act, the SEC, and the Future of Money | Steven Clark | [Read More](https://medium.com/p/797004e54fa9) |
