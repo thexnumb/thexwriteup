@@ -12,11 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 10:12:08 GMT | AI Coding Tools Are Inventing Fake Packages (Hackers Are Paying Attention) | Krunal Kanojiya | [Read More](https://medium.com/p/5186ce6c3259) |
+| Thu, 02 Oct 2025 10:09:31 GMT | BACK TO BASICS: US Secretary of Defense Hegseth’s Blunt Message to American Generals — and Why It… | Sgshehu | [Read More](https://medium.com/p/a7c3b26a04ab) |
+| Thu, 02 Oct 2025 10:08:43 GMT | Chinese Hackers Used Custom Malware to Spy on Governments for 2 Years – Here’s What You Need to… | Techsankar | [Read More](https://medium.com/p/7afde200e999) |
+| Thu, 02 Oct 2025 10:07:02 GMT | When Loving Feels Scary | Dimplechawla | [Read More](https://medium.com/p/cae5876c90f1) |
+| Thu, 02 Oct 2025 10:01:52 GMT | A Jeep on the Highway, and a Cursor in the Console | DefendPoint Security | [Read More](https://medium.com/p/cfe58db516c2) |
+| Thu, 02 Oct 2025 09:58:36 GMT | CVE-2025–54476: XSS Vulnerability in Joomla’s Input Filter Framework — Are Your Attributes Safe? | CVEHUB | [Read More](https://medium.com/p/9a47a3b5e5df) |
+| Thu, 02 Oct 2025 09:53:04 GMT | I Failed PT1 | Toibat | [Read More](https://medium.com/p/cf4cf241674b) |
+| Thu, 02 Oct 2025 09:51:46 GMT | Security on Pause: Gov Shutdown Exposes Cyber Weakness? | Truspex | [Read More](https://medium.com/p/38f890a9a267) |
+| Thu, 02 Oct 2025 09:49:23 GMT | How to Discover and Dump Data from Exposed Elasticsearch Instances (For Authorized Security Testing… | Omarataallah | [Read More](https://medium.com/p/079fe3cf364a) |
+| Thu, 02 Oct 2025 09:47:14 GMT | The Hidden Risk in Your Wallet: Why the Magnetic Strip on Your Debit Card is a Ticking Security… | Archivum Aeternum | [Read More](https://medium.com/p/b7ff7dc80877) |
+| Thu, 02 Oct 2025 09:44:48 GMT | Biosafety & Cyberbiosecurity in the Age of Bio-AI | Jackdavis Iap | [Read More](https://medium.com/p/9bef78bf3f15) |
 | Thu, 02 Oct 2025 09:36:03 GMT | Top 10 Cybersecurity Certifications to Aim for in 2026 | Syed Mohammed Murtaza | [Read More](https://medium.com/p/8b01cfcce1ec) |
+| Thu, 02 Oct 2025 09:27:42 GMT | Phishing 2025: Dari Email Murahan ke Deepfake AI yang Bisa Menipu CEO | Handev Code | [Read More](https://medium.com/p/4e6df42ccfc5) |
 | Thu, 02 Oct 2025 09:25:36 GMT | “Help! Where do I even START?” Cybersec SOS, decoded. | Authlyn | [Read More](https://medium.com/p/3866419246c7) |
 | Thu, 02 Oct 2025 09:24:37 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/fd3ec23ba056) |
 | Thu, 02 Oct 2025 09:24:03 GMT | AAEON’s Networking & Cybersecurity Solutions to Take the Stage at it-sa Expo&Congress | AAEON Technology | [Read More](https://medium.com/p/05af6ef3e77d) |
 | Thu, 02 Oct 2025 09:21:54 GMT | The AI hack that convinced a chatbot to sell a $76,000 car for $1 | Ben Ratcliffe | [Read More](https://medium.com/p/511ba0ad084d) |
+| Thu, 02 Oct 2025 09:21:08 GMT | SubHub: Bringing Precision, Proof, and Trust to Airdrops in Web3 | EHMPE RHOR | [Read More](https://medium.com/p/2f535cb12010) |
 | Thu, 02 Oct 2025 09:20:59 GMT | The Daily Tech Digest: 02 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/16b5a3a4c22f) |
 | Thu, 02 Oct 2025 09:18:18 GMT | End-to-End Encryption: Why It’s Non-Negotiable in Messaging Apps | Vikrant Dheer | [Read More](https://medium.com/p/c6bf8e1d9c4b) |
 | Thu, 02 Oct 2025 09:18:08 GMT | WSL (Windows Subsystem for Linux) for Cybersecurity Professionals | Huseyin KALKAN | [Read More](https://medium.com/p/43f086ea8537) |
@@ -53,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 07:04:20 GMT | Day 64-Privilege Escalation Explained: what it is, why it’s dangerous, and how beginners can detect… | unica 02 | [Read More](https://medium.com/p/f781dd68c651) |
 | Thu, 02 Oct 2025 07:03:32 GMT | ประจำวันพฤหัสบดีที่ 2 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf397762b08d) |
 | Thu, 02 Oct 2025 06:59:46 GMT | Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick | StrangeRwhite | [Read More](https://medium.com/p/d150c5db0a92) |
+| Thu, 02 Oct 2025 06:59:21 GMT | Network Shadows: Emerging Realities | Infra & Network Core | [Read More](https://medium.com/p/5f92744e1925) |
 | Thu, 02 Oct 2025 06:59:12 GMT | Leading with Honesty, Not Certainty: | Phil Gold | [Read More](https://medium.com/p/07f2d2402481) |
 | Thu, 02 Oct 2025 06:55:38 GMT | Pancasila “Yang Beneran” Sakti | I.T. ALDARY | [Read More](https://medium.com/p/ae579d942e45) |
 | Thu, 02 Oct 2025 06:47:51 GMT | Can I Haz Root? :: THREE | Cyber Grover ‍ | [Read More](https://medium.com/p/d43d02f65c4b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 02:58:31 GMT | PhishDebate: When AI Agents Argue to Keep You Safe Online | Chris Zhang | [Read More](https://medium.com/p/3ace2d961bff) |
 | Thu, 02 Oct 2025 02:51:43 GMT | Why Your Password Isn’t Protecting You (And What Actually Works) | Arfa | [Read More](https://medium.com/p/db13ea2ed0b4) |
 | Thu, 02 Oct 2025 02:31:28 GMT | Security Assessment: Vulnhub Napping Walkthrough | Luke Gearty | [Read More](https://medium.com/p/ac69d05c724c) |
-| Thu, 02 Oct 2025 02:16:04 GMT | Cybersecurity and Machine Learning | Mersadi Freeman | [Read More](https://medium.com/p/c37b468b9716) |
-| Thu, 02 Oct 2025 02:11:45 GMT | My Personal Website | TAYO | [Read More](https://medium.com/p/8879c371fb8b) |
-| Thu, 02 Oct 2025 01:51:29 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/48786010c490) |
-| Thu, 02 Oct 2025 01:44:42 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/639956dba0f0) |
-| Thu, 02 Oct 2025 01:38:01 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/da318ad15270) |
-| Thu, 02 Oct 2025 01:31:00 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b4a97d659c0b) |
-| Thu, 02 Oct 2025 01:27:49 GMT | Integrating Agentic AI Systems with CMMC Compliance in Defense Contracting | Valdez Ladd | [Read More](https://medium.com/p/f9fed3f3b9ca) |
-| Thu, 02 Oct 2025 01:24:30 GMT | Cloudbric Services Progress Report (9/1 ~ 9/30) | Cloudbric | [Read More](https://medium.com/p/62f881be745d) |
-| Thu, 02 Oct 2025 01:24:05 GMT | Cloudbric Services Progress Report (9/1 ~ 9/30) | Cloudbric | [Read More](https://medium.com/p/6418da2710b4) |
-| Thu, 02 Oct 2025 01:23:53 GMT | Cybersecurity in the Energy Sector: Protecting Power Grids and Oil Pipelines | Cyber Security Research | [Read More](https://medium.com/p/5a8cc237c65b) |
-| Thu, 02 Oct 2025 01:18:26 GMT | $TRIAS MIGRATION TO $NETX | Slerf coin | [Read More](https://medium.com/p/f5c452ed0098) |
-| Thu, 02 Oct 2025 01:17:23 GMT | Cybersecurity in Maritime: Securing Ships and Port Infrastructure | Cyber Security Research | [Read More](https://medium.com/p/2c101ace2a70) |
-| Thu, 02 Oct 2025 01:11:00 GMT | Cybersecurity in Aviation: Protecting Aircraft and Air Traffic Control Systems | Cyber Security Research | [Read More](https://medium.com/p/b1664b7c3e2c) |
-| Thu, 02 Oct 2025 01:04:55 GMT | Cybersecurity in Autonomous Vehicles: Securing Self-Driving Cars | Cyber Security Research | [Read More](https://medium.com/p/0d94d22308c6) |
