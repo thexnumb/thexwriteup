@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 07:10:43 GMT | WhatsApp Had a Security Slip: What CVE 2025 55177 Means for You | Akshatdwivedi | [Read More](https://medium.com/p/68480dbbfecf) |
+| Thu, 02 Oct 2025 07:07:37 GMT | Domain Hopping: How Illegal Webtoon Sites Evade Blocks | Criminal IP | [Read More](https://medium.com/p/780257e5642f) |
+| Thu, 02 Oct 2025 07:07:37 GMT | Smiling Through Security: The Emoji Smuggling Threat to AI | Whai | [Read More](https://medium.com/p/697fa6c1729c) |
+| Thu, 02 Oct 2025 07:07:03 GMT | Cybersecurity Certification Roadmap 2025 for All | Jack Lim | [Read More](https://medium.com/p/3cd1a0fd1c13) |
+| Thu, 02 Oct 2025 07:06:40 GMT | How Drosera Could Have Stopped the $190M Nomad Bridge Hack | Ife.10x | [Read More](https://medium.com/p/4629e23cdda0) |
+| Thu, 02 Oct 2025 07:06:00 GMT | Network Echoes: Persistent Traces | Infra & Network Core | [Read More](https://medium.com/p/97b5515e1c55) |
+| Thu, 02 Oct 2025 07:05:10 GMT | Linux System Setup & SSH Hardening | Rudy Castillo | [Read More](https://medium.com/p/2cec4a412fdb) |
+| Thu, 02 Oct 2025 07:04:20 GMT | Day 64-Privilege Escalation Explained: what it is, why it’s dangerous, and how beginners can detect… | unica 02 | [Read More](https://medium.com/p/f781dd68c651) |
+| Thu, 02 Oct 2025 07:03:32 GMT | ประจำวันพฤหัสบดีที่ 2 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf397762b08d) |
+| Thu, 02 Oct 2025 06:59:46 GMT | Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick | StrangeRwhite | [Read More](https://medium.com/p/d150c5db0a92) |
+| Thu, 02 Oct 2025 06:59:12 GMT | Leading with Honesty, Not Certainty: | Phil Gold | [Read More](https://medium.com/p/07f2d2402481) |
+| Thu, 02 Oct 2025 06:55:38 GMT | Pancasila “Yang Beneran” Sakti | I.T. ALDARY | [Read More](https://medium.com/p/ae579d942e45) |
+| Thu, 02 Oct 2025 06:47:51 GMT | Can I Haz Root? :: THREE | Cyber Grover ‍ | [Read More](https://medium.com/p/d43d02f65c4b) |
+| Thu, 02 Oct 2025 06:46:10 GMT | Network Sentinel: Monitoring the Core | Infra & Network Core | [Read More](https://medium.com/p/4c31fe73c97f) |
+| Thu, 02 Oct 2025 06:45:59 GMT | From scripts to smart agents: how AI is reinventing Penetration Testing | Rui Fernandes | [Read More](https://medium.com/p/17d330adec4c) |
+| Thu, 02 Oct 2025 06:44:40 GMT | Hardening Proxmox: Startup Dreams vs. Security Nightmares | Mr.PlanB | [Read More](https://medium.com/p/b74cd0c34dc9) |
+| Thu, 02 Oct 2025 06:40:46 GMT | Find Reflected Cross-Site Scripting (XSS) in Government Site | Ahmadfaizabdillah | [Read More](https://medium.com/p/f1ec8b888e78) |
 | Thu, 02 Oct 2025 06:23:16 GMT | Security and Performance Aspects of AppArmor Profiles | Eren Cankut Uysal | [Read More](https://medium.com/p/8ae688508a03) |
+| Thu, 02 Oct 2025 06:19:03 GMT | How the Family System Criminalises | Lathika PB | [Read More](https://medium.com/p/231079d9440e) |
 | Thu, 02 Oct 2025 06:04:53 GMT | From Name to Number: Demystifying the DNS, the Internet’s Unseen GPS | Deep Pathak | [Read More](https://medium.com/p/df768f96843d) |
 | Thu, 02 Oct 2025 05:59:03 GMT | Part 3 : Version Control Security: Branch Protections | Dean | [Read More](https://medium.com/p/bb0aad53e21b) |
 | Thu, 02 Oct 2025 05:57:16 GMT | AppArmor Profiles Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/2a86320e80d7) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Oct 2025 21:18:29 GMT | Qwerty, birthdays, pet names — hackers know them all. | Dan Sellars | [Read More](https://medium.com/p/1a92277833fe) |
 | Wed, 01 Oct 2025 21:17:09 GMT | The Genius Act, the SEC, and the Future of Money | Steven Clark | [Read More](https://medium.com/p/797004e54fa9) |
 | Wed, 01 Oct 2025 21:17:02 GMT | The OSI Model | Jacob Piloto | [Read More](https://medium.com/p/dcfcbe3cdf1b) |
-| Wed, 01 Oct 2025 21:15:40 GMT | While learning JavaScript, I came across something really dangerous! | Roshni | [Read More](https://medium.com/p/7ca0c03a7af1) |
-| Wed, 01 Oct 2025 21:15:06 GMT | How Newspapers Accidentally Invented Modern UX Design | Meg Pugh | [Read More](https://medium.com/p/4120edf57892) |
-| Wed, 01 Oct 2025 21:08:27 GMT | How Energy and Cybersecurity Will Define Our Connected Future | David SEHYEON Baek | [Read More](https://medium.com/p/fadf9dd2d44f) |
-| Wed, 01 Oct 2025 21:05:19 GMT | Content Security Policy (CSP): Web Uygulama Güvenliğinin Görünmeyen Kalkanı | Halil BARIM | [Read More](https://medium.com/p/4a4b73260dce) |
-| Wed, 01 Oct 2025 20:59:52 GMT | SOC Fundamentals - THM | Isiah | [Read More](https://medium.com/p/2eedc011b9e9) |
-| Wed, 01 Oct 2025 20:53:28 GMT | Claude Sonnet 4.5 Knows It’s Being Tested — A Wake-Up Call for AI Safety | Dibeesh KS | [Read More](https://medium.com/p/8f3303623b83) |
-| Wed, 01 Oct 2025 20:22:22 GMT | Learning IT as a Self-Taught Student: How to Stay Motivated and Not Give Up | Djany M | [Read More](https://medium.com/p/5ee23d366439) |
-| Wed, 01 Oct 2025 20:20:13 GMT | SIEM’in SOC içindeki rolü | nazlinuresmeray | [Read More](https://medium.com/p/a0363436f9e6) |
-| Wed, 01 Oct 2025 20:17:01 GMT | How We Cut AWS Costs by 60% Using Spot Instances | Freddie A | [Read More](https://medium.com/p/70ca301c1615) |
-| Wed, 01 Oct 2025 20:16:44 GMT | Apprendre l’informatique en autodidacte : comment rester motivé et ne pas abandonner | Djany M | [Read More](https://medium.com/p/7f7162580765) |
-| Wed, 01 Oct 2025 20:14:33 GMT | Log Management vs SIEM farkı | nazlinuresmeray | [Read More](https://medium.com/p/8ddc61a5b4a9) |
-| Wed, 01 Oct 2025 20:08:46 GMT | SIEM Nedir? | nazlinuresmeray | [Read More](https://medium.com/p/101ab685c5af) |
-| Wed, 01 Oct 2025 20:07:16 GMT | THE DARK SIDE OF DARK WEB | Muhammad Waryam | [Read More](https://medium.com/p/1e9915644a8b) |
-| Wed, 01 Oct 2025 20:05:04 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐Earn with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc… | Blackbox | [Read More](https://medium.com/p/b1908f0e9ec5) |
-| Wed, 01 Oct 2025 20:03:51 GMT | Friday Overtime Walkthrough | Karim Hesham | [Read More](https://medium.com/p/c94553083b0b) |
-| Wed, 01 Oct 2025 19:58:14 GMT | Is Chatgpt 5 The New Blackhat SEO | Maria Johnsen | [Read More](https://medium.com/p/3f7088a807d4) |
-| Wed, 01 Oct 2025 19:57:08 GMT | Revisiting RemoteAgentFramework: Revamping, Updating, and Refining an Old Cybersecurity Project | Orkun Kurul | [Read More](https://medium.com/p/de098cad04de) |
-| Wed, 01 Oct 2025 19:53:25 GMT | Web Application Security Testing: A Complete Guide for Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/807c38708fce) |
