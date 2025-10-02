@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 18:14:50 GMT | Mastering AppArmor Profiles in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/c1643a961f07) |
+| Thu, 02 Oct 2025 18:13:41 GMT | To What Extent Is AI the Main Driving Force Reshaping Cybersecurity? | Turab Hassan | [Read More](https://medium.com/p/50e34c3d374b) |
+| Thu, 02 Oct 2025 18:10:42 GMT | SGS Consulting Recognized as a 2025 Randstad Sourceright Preferred Supplier | SGS Consulting | [Read More](https://medium.com/p/16ad79324ed4) |
+| Thu, 02 Oct 2025 18:07:40 GMT | The Modern IT Help Desk Software Your Team Needs | Krista White | [Read More](https://medium.com/p/246e530f6038) |
+| Thu, 02 Oct 2025 18:07:30 GMT | Mastering Ethical Hacking: How EC-Council Certifications Can Boost Your Cybersecurity Career | Shreyashettyctr | [Read More](https://medium.com/p/d8c2e8deb8cd) |
+| Thu, 02 Oct 2025 18:06:29 GMT | Crafting Secure Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/335a2ac85b88) |
+| Thu, 02 Oct 2025 17:58:23 GMT | The USB Rubber Ducky: Why Leaving Your Laptop Unattended Is Not A Good Idea | Adrian Maull | [Read More](https://medium.com/p/64f1c91a66e7) |
+| Thu, 02 Oct 2025 17:57:42 GMT | Go HTTPS Server: Building, Testing and Monitoring Secure Connections | Harishkumar Pillai | [Read More](https://medium.com/p/cb696332ee27) |
+| Thu, 02 Oct 2025 17:56:54 GMT | My first 5-Minute Bug Bounty | Appsec.pt | [Read More](https://medium.com/p/1465e2cb517c) |
+| Thu, 02 Oct 2025 17:51:37 GMT | Scrubbing Secrets: A Practical POC Using Gitleaks and git filter-repo | Sreejith V | [Read More](https://medium.com/p/08c64b8d246c) |
+| Thu, 02 Oct 2025 17:49:45 GMT | Deep Dive into AppArmor Profiles on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/0ba7bba1b185) |
+| Thu, 02 Oct 2025 17:41:39 GMT | AppArmor Profiles for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/d9285b072c46) |
+| Thu, 02 Oct 2025 17:37:41 GMT | How Modern Browsers Block Ads: A Technical Deep Dive | Nipun Negi | [Read More](https://medium.com/p/9cfe22610a74) |
 | Thu, 02 Oct 2025 17:36:36 GMT | Adobe Illustrator 29.8.1 For Windows (Latest 2025) Download | Rapax | [Read More](https://medium.com/p/8cff80048653) |
+| Thu, 02 Oct 2025 17:35:59 GMT | Introduction to Symbolic Execution: How It Works, Tools & a Practical Angr Walkthrough | Sanatsu | [Read More](https://medium.com/p/0acd3e30ab62) |
 | Thu, 02 Oct 2025 17:26:43 GMT | I Built a Privacy Browser… But It Was Useless Until I Did This | Pannag Kumaar | [Read More](https://medium.com/p/0985c9ee257f) |
 | Thu, 02 Oct 2025 17:24:39 GMT | Smishing in Cybersecurity: How Text Message Scams Put Your Data at Risk | SafeAeon Inc. | [Read More](https://medium.com/p/601faaee6972) |
 | Thu, 02 Oct 2025 17:18:59 GMT | Master Web Fuzzing: A Cheat‑Sheet to Finding Hidden Paths | PARADOX | [Read More](https://medium.com/p/6c2bcf521c44) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 12:35:07 GMT | chattr: A Brief History and the Magic of Immutable Files in Linux | Romanbrick | [Read More](https://medium.com/p/fa6af952edf8) |
 | Thu, 02 Oct 2025 12:34:08 GMT | Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them | Motasem Hamdan | [Read More](https://medium.com/p/77998b84de4c) |
 | Thu, 02 Oct 2025 12:29:02 GMT | Cybersecurity Awareness Month: Why It Matters Beyond Tech | Tanvi Badghare | [Read More](https://medium.com/p/0df2c2b1fca8) |
-| Thu, 02 Oct 2025 12:26:07 GMT | How to Become an Ethical Hacker — Short Version | Ōfficial_Årūñbhāī | [Read More](https://medium.com/p/0a148a656eea) |
-| Thu, 02 Oct 2025 12:24:03 GMT | Software Supply Chain Attack — NPM Dependency Confusion | TheRoyHunter313 | [Read More](https://medium.com/p/b8c35daf0bad) |
-| Thu, 02 Oct 2025 12:07:58 GMT | Kickstart Your Cybersecurity Journey: 24+ Free Courses for Beginners | Shreyashettyctr | [Read More](https://medium.com/p/00bd10e9f89e) |
-| Thu, 02 Oct 2025 11:55:26 GMT | The Lie I Tell Most Often: “I’m Fine” | Darpan Murly | [Read More](https://medium.com/p/de2051011022) |
-| Thu, 02 Oct 2025 11:47:04 GMT | What is a Zero Day Exploit | Juan M. Vazquez | [Read More](https://medium.com/p/88c7a7d7ccb7) |
-| Thu, 02 Oct 2025 11:46:37 GMT | Membaca Kode, Memahami Manusia | Sibercat Media | [Read More](https://medium.com/p/c73485d3b4cb) |
-| Thu, 02 Oct 2025 11:39:20 GMT | OneLogin Vulnerability Exposes API Credentials via Session Hijacking | Wraith | [Read More](https://medium.com/p/fd25134735aa) |
-| Thu, 02 Oct 2025 11:27:24 GMT | The Loneliness of Always Being Strong | Sindhumallah | [Read More](https://medium.com/p/e1012ee2d5e9) |
-| Thu, 02 Oct 2025 11:21:55 GMT | Gophish Setup for Phishing Simulation Using Custom Domains | Why So Serious | [Read More](https://medium.com/p/18a50a782ab7) |
-| Thu, 02 Oct 2025 11:19:29 GMT | A Security Guide to Public WiFi: The Invisible Threat | MTX Connect | [Read More](https://medium.com/p/24f6564d52fe) |
-| Thu, 02 Oct 2025 11:10:49 GMT | How I found SQL Injection on State Government | Ayush | [Read More](https://medium.com/p/a389f1ca356c) |
-| Thu, 02 Oct 2025 11:10:03 GMT | Septiembre 2025: resumen de novedades y lanzamientos | Dario Bernabeu | [Read More](https://medium.com/p/18d959f3144b) |
-| Thu, 02 Oct 2025 11:01:55 GMT | November 10th Deadline Approaches: Is Your Defense Firm CMMC Ready? | Brittney Ginther | [Read More](https://medium.com/p/9925658b0837) |
-| Thu, 02 Oct 2025 11:01:20 GMT | For The Joy of What Is to Come… | Faith Omada Onoja | [Read More](https://medium.com/p/942db8cf27e0) |
