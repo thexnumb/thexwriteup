@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 12:40:08 GMT | Penetration Testing Fundamentals — THM Room Walkthrough | Asif.k | [Read More](https://medium.com/p/be458dbd9ea8) |
+| Thu, 02 Oct 2025 12:29:02 GMT | Cybersecurity Awareness Month: Why It Matters Beyond Tech | Tanvi Badghare | [Read More](https://medium.com/p/0df2c2b1fca8) |
+| Thu, 02 Oct 2025 12:26:07 GMT | How to Become an Ethical Hacker — Short Version | Ōfficial_Årūñbhāī | [Read More](https://medium.com/p/0a148a656eea) |
+| Thu, 02 Oct 2025 12:24:03 GMT | Software Supply Chain Attack — NPM Dependency Confusion | TheRoyHunter313 | [Read More](https://medium.com/p/b8c35daf0bad) |
+| Thu, 02 Oct 2025 12:07:58 GMT | Kickstart Your Cybersecurity Journey: 24+ Free Courses for Beginners | Shreyashettyctr | [Read More](https://medium.com/p/00bd10e9f89e) |
+| Thu, 02 Oct 2025 11:55:26 GMT | The Lie I Tell Most Often: “I’m Fine” | Darpan Murly | [Read More](https://medium.com/p/de2051011022) |
+| Thu, 02 Oct 2025 11:47:04 GMT | What is a Zero Day Exploit | Juan M. Vazquez | [Read More](https://medium.com/p/88c7a7d7ccb7) |
+| Thu, 02 Oct 2025 11:46:37 GMT | Membaca Kode, Memahami Manusia | Sibercat Media | [Read More](https://medium.com/p/c73485d3b4cb) |
+| Thu, 02 Oct 2025 11:39:20 GMT | OneLogin Vulnerability Exposes API Credentials via Session Hijacking | Wraith | [Read More](https://medium.com/p/fd25134735aa) |
+| Thu, 02 Oct 2025 11:27:24 GMT | The Loneliness of Always Being Strong | Sindhumallah | [Read More](https://medium.com/p/e1012ee2d5e9) |
 | Thu, 02 Oct 2025 11:21:55 GMT | Gophish Setup for Phishing Simulation Using Custom Domains | Why So Serious | [Read More](https://medium.com/p/18a50a782ab7) |
 | Thu, 02 Oct 2025 11:19:29 GMT | A Security Guide to Public WiFi: The Invisible Threat | MTX Connect | [Read More](https://medium.com/p/24f6564d52fe) |
 | Thu, 02 Oct 2025 11:10:49 GMT | How I found SQL Injection on State Government | Ayush | [Read More](https://medium.com/p/a389f1ca356c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 06:40:46 GMT | Find Reflected Cross-Site Scripting (XSS) in Government Site | Ahmadfaizabdillah | [Read More](https://medium.com/p/f1ec8b888e78) |
 | Thu, 02 Oct 2025 06:23:16 GMT | Security and Performance Aspects of AppArmor Profiles | Eren Cankut Uysal | [Read More](https://medium.com/p/8ae688508a03) |
 | Thu, 02 Oct 2025 06:19:03 GMT | How the Family System Criminalises | Lathika PB | [Read More](https://medium.com/p/231079d9440e) |
-| Thu, 02 Oct 2025 06:04:53 GMT | From Name to Number: Demystifying the DNS, the Internet’s Unseen GPS | Deep Pathak | [Read More](https://medium.com/p/df768f96843d) |
-| Thu, 02 Oct 2025 05:59:03 GMT | Part 3 : Version Control Security: Branch Protections | Dean | [Read More](https://medium.com/p/bb0aad53e21b) |
-| Thu, 02 Oct 2025 05:57:16 GMT | AppArmor Profiles Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/2a86320e80d7) |
-| Thu, 02 Oct 2025 05:47:10 GMT | How Artificial Intelligence (AI) Protects Your Data from Cyber Threats | Rodhi Faisal Mufid | [Read More](https://medium.com/p/84d77166c784) |
-| Thu, 02 Oct 2025 05:46:37 GMT | ScriptCTF 2025 Write-up | Prakshit Jain | [Read More](https://medium.com/p/77e69dbff26f) |
-| Thu, 02 Oct 2025 05:40:51 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/81e763b56c4e) |
-| Thu, 02 Oct 2025 05:35:58 GMT | ️ Debug Disaster: How Leftover Dev Tools Turned Me Into a Production Data Superhero | Iski | [Read More](https://medium.com/p/716b5f4155f4) |
-| Thu, 02 Oct 2025 05:32:45 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/0bc1f7870a2e) |
-| Thu, 02 Oct 2025 05:32:01 GMT | Risk Management vs Compliance: Which Door Should You Choose? | Raleigh Guevarra | [Read More](https://medium.com/p/a5d9e5d6b5b3) |
-| Thu, 02 Oct 2025 05:25:39 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/39a13795e5f0) |
