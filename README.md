@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Oct 2025 21:32:33 GMT | Red Hat Data Breach, Hackers Claim Access to 28K Private GitHub Repositories | SCtoCS | [Read More](https://medium.com/p/41444919ccd1) |
+| Thu, 02 Oct 2025 21:28:53 GMT | When AI Becomes Your “Pair Programmer”: Empowerment, Risk & Habits for Resilient Developers | Juan S. Fernandez | [Read More](https://medium.com/p/663f67065a00) |
+| Thu, 02 Oct 2025 21:26:52 GMT | The Human Equation: Using Science to Build a Resilient Team for Digital Transformation | Dennis Vinciguerra | [Read More](https://medium.com/p/5d54bae5db24) |
+| Thu, 02 Oct 2025 21:22:56 GMT | How Long Will Your Password Stay Safe? | Ray Kissyou | [Read More](https://medium.com/p/0a8ad942e54f) |
 | Thu, 02 Oct 2025 21:15:21 GMT | Examples of Cyberattacks in Kazakhstan and Their Consequences | Cyberintruder Net | [Read More](https://medium.com/p/14b533bcf4d2) |
+| Thu, 02 Oct 2025 21:13:39 GMT | ISO 27001 in the Real World: Part 1 | Sumana's writing | [Read More](https://medium.com/p/5907a0e6092e) |
 | Thu, 02 Oct 2025 21:12:11 GMT | Predicting and Preventing Cyberattacks Using Artificial Intelligence | Cyberintruder Net | [Read More](https://medium.com/p/f2f7edeabdc9) |
 | Thu, 02 Oct 2025 21:10:05 GMT | $50 Battering RAM Attack Breaks Intel, AMD Cloud Security Protections | SCtoCS | [Read More](https://medium.com/p/cad5adebd96f) |
 | Thu, 02 Oct 2025 21:08:55 GMT | EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations | SCtoCS | [Read More](https://medium.com/p/01fe672fe27b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 14:57:55 GMT | I Don’t Like Getting Haircuts | Doc Jones | [Read More](https://medium.com/p/bf228f7e1fab) |
 | Thu, 02 Oct 2025 14:55:18 GMT | From Default to Defensive: A Walkthrough of TryHackMe’s Linux System Hardening Room ️ | Furkanctiner | [Read More](https://medium.com/p/0d8514c159dc) |
 | Thu, 02 Oct 2025 14:51:48 GMT | 2025 Cybersecurity Reality Check: Hidden Breaches, AI Misconceptions, and the Rise of Identity… | David ONeal | [Read More](https://medium.com/p/149ad79bdcbb) |
-| Thu, 02 Oct 2025 14:50:40 GMT | Honey, I Shrunk the Ego: OpenAI Outvalues SpaceX While Musk Sues the Air | Dr Rita Pal | [Read More](https://medium.com/p/05e13057aca8) |
-| Thu, 02 Oct 2025 14:49:32 GMT | How to Detect VPN using Swift | Talsec | [Read More](https://medium.com/p/12cd2bb3d9cf) |
-| Thu, 02 Oct 2025 14:48:01 GMT | HackTheBox -Fluffy -Writeup | AKICHAN | [Read More](https://medium.com/p/00e333141a3e) |
-| Thu, 02 Oct 2025 14:47:53 GMT | By Dec 31, 2025, will UNC5221 be publicly linked to exploiting at least one new zero-day? | Wes Young | [Read More](https://medium.com/p/a88d7ce07534) |
-| Thu, 02 Oct 2025 14:41:53 GMT | Prefer to Be a Wolf, Not a Sheep: Asserting Yourself for Respect | Misass | [Read More](https://medium.com/p/f7fd7aae4f0e) |
