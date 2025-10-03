@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 09:31:52 GMT | Could teenage spies really be shaping events in the Ukraine–Russia war? | Ethan Marshall | [Read More](https://medium.com/p/3bd74d734763) |
+| Fri, 03 Oct 2025 09:31:42 GMT | Part 4: Detecting High-Risk Code Changes with Code Owners & Pull Request Security | Dean | [Read More](https://medium.com/p/11315a17bce9) |
+| Fri, 03 Oct 2025 09:31:33 GMT | Startup Cyber Insurance: Overthinking or Overlooking a Threat? | Authlyn | [Read More](https://medium.com/p/eeab3cf5f1c1) |
+| Fri, 03 Oct 2025 09:24:28 GMT | Hacking From Zero? A Real-World Starting Point | SilentInject | [Read More](https://medium.com/p/836985001de7) |
+| Fri, 03 Oct 2025 09:23:58 GMT | Door Frame Metal Detector (DFMD) — Advanced Security Solutions by FIA | Marksmith | [Read More](https://medium.com/p/1cd09c20cadf) |
+| Fri, 03 Oct 2025 09:19:22 GMT | Evaluating Zero Trust Adoption In SMEs In Nigeria: Barriers, Benefits & Roadmap | O. J. Okpabi | [Read More](https://medium.com/p/5f41728beae8) |
 | Fri, 03 Oct 2025 09:17:00 GMT | Building a Community-Driven Cyber Attack Tracker for Alberta: Transparency in the Age of Digital… | Jared Douville | [Read More](https://medium.com/p/b5ba83fa89bc) |
 | Fri, 03 Oct 2025 09:16:58 GMT | From the archive: Software bugs | Mansfield-Devine | [Read More](https://medium.com/p/b584d5499372) |
 | Fri, 03 Oct 2025 09:14:11 GMT | AI-Designed Viruses: Are We Building Our Own Apocalypse? | Emili | [Read More](https://medium.com/p/7be74dabd11c) |
+| Fri, 03 Oct 2025 09:13:43 GMT | How to Secure Your VPS: 7 Essential Steps Every Developer Should Know | Hassan Zreik | [Read More](https://medium.com/p/f5c8a16b3442) |
 | Fri, 03 Oct 2025 09:12:30 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/c405ef860550) |
 | Fri, 03 Oct 2025 09:09:20 GMT | IoT Ready: Connect Your Self Service Kiosk Machines for Real-Time Data | Rakesh | [Read More](https://medium.com/p/11df39eb3278) |
 | Fri, 03 Oct 2025 09:08:35 GMT | Red Hat Hack: What’s Breached? What’s Next For Security? | Truspex | [Read More](https://medium.com/p/49a12d3bb83a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 04:21:10 GMT | Your First Capture the Flag: How to Win Beginner CTFs (and Why They Work) | Fateyaly | [Read More](https://medium.com/p/7e4a3c53286e) |
 | Fri, 03 Oct 2025 04:20:34 GMT | The Day I Realized Cybersecurity Isn’t About Technology, It’s About People | Arfa | [Read More](https://medium.com/p/df78f7f1e405) |
 | Fri, 03 Oct 2025 04:17:08 GMT | How I Learned Ethical Hacking by Breaking My Own Apps (Safely) | Arfa | [Read More](https://medium.com/p/b817df393152) |
-| Fri, 03 Oct 2025 04:16:07 GMT | AI vs Hackers: Who’s Winning the Cybersecurity War? | Arfa | [Read More](https://medium.com/p/6b459711fdaa) |
-| Fri, 03 Oct 2025 04:15:20 GMT | Top 5 Common Laptop Issues and How to Fix Them Quickly | Ask IT Support | [Read More](https://medium.com/p/989b1306fbc0) |
-| Fri, 03 Oct 2025 04:04:04 GMT | Is Privacy a Myth in the Digital Age or Still Worth Fighting For? | Daretoexpose | [Read More](https://medium.com/p/4b250362a0d5) |
-| Fri, 03 Oct 2025 04:02:16 GMT | Making Sense of Identity’s Alphabet Soup: ISPM, IVIP, and ITDR | Prithvi Poreddy | [Read More](https://medium.com/p/db4705cca6a2) |
-| Fri, 03 Oct 2025 03:50:34 GMT | Security for Android Developers (part 1) | Dinorah Tovar | [Read More](https://medium.com/p/ce5b63bcf82a) |
-| Fri, 03 Oct 2025 03:46:44 GMT | How Cybersecurity OEMs Can Win the Trust of the Next-Gen Workforce | Dr. Deep Pandey | [Read More](https://medium.com/p/7e26cdba31e7) |
-| Fri, 03 Oct 2025 03:42:06 GMT | Windows: From User to Root | Ops4Windows | [Read More](https://medium.com/p/5729b2f2183a) |
