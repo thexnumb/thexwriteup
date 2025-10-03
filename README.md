@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 16:11:32 GMT | GRC Evolution: From Ancient Law to Modern Cybersecurity Landscape | Humerah Farooqui | [Read More](https://medium.com/p/ccda24ca5663) |
+| Fri, 03 Oct 2025 16:10:15 GMT | Siber Güvenlik: Veri Manipülasyonu, Yanıltıcı Tehditler ve Savunma Sanayiine Etkileri | Gürbağ Savunma | [Read More](https://medium.com/p/4a7049037cd6) |
+| Fri, 03 Oct 2025 16:08:28 GMT | SQL injection- The Beginner’s Guide | Ashutosh Jena | [Read More](https://medium.com/p/c6f69a2c50a8) |
+| Fri, 03 Oct 2025 16:05:16 GMT | Blockchain for Democracy: A Decentralized Voting Platform | Zrhmz | [Read More](https://medium.com/p/d0b7df8cc633) |
+| Fri, 03 Oct 2025 16:04:22 GMT | Hack the Box — Manager — WriteUp | Emre A. | [Read More](https://medium.com/p/ca7731398b29) |
+| Fri, 03 Oct 2025 16:03:18 GMT | The Human Factor: Why People Are the Weakest Link in Security | ENVORASEC | [Read More](https://medium.com/p/4ca1de39ad01) |
+| Fri, 03 Oct 2025 16:02:57 GMT | Discovering Open S3 Buckets with S3Scanner — A Practical Guide for Security Researchers | Hamzah Hatamleh | [Read More](https://medium.com/p/e60f78d05736) |
+| Fri, 03 Oct 2025 15:57:07 GMT | Everything You’re Ashamed Of Is More Normal Than You Think | Gemma Coopa | [Read More](https://medium.com/p/fc463d9dcddc) |
+| Fri, 03 Oct 2025 15:55:35 GMT | İş Süreçlerimizde Otonom Güvenlik | Beril Dindar | [Read More](https://medium.com/p/e521f57b817a) |
+| Fri, 03 Oct 2025 15:53:42 GMT | Consensus-layer attacks. Part 1. | Evgenii | [Read More](https://medium.com/p/e42abae45a86) |
+| Fri, 03 Oct 2025 15:50:28 GMT | Image XSS on Exif.tools - Hacking exif.tools by image injection by CYBER KALKI | Krivadna | [Read More](https://medium.com/p/63b7d1261a19) |
+| Fri, 03 Oct 2025 15:44:11 GMT | Secrets Management in DevOps: Do’s and Don’ts (2025 Implementation Guide) | JSOC IT BLOG | [Read More](https://medium.com/p/16cf5252e3c1) |
+| Fri, 03 Oct 2025 15:42:06 GMT | 99.9% of Account Hacks Are Preventable: The Complete 2FA Guide Every .NET Developer Needs | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/90f8cdddc014) |
+| Fri, 03 Oct 2025 15:39:12 GMT | 5 signaux que votre entreprise a besoin de Contract Management (avant qu’il ne soit trop tard) | Abrennis | [Read More](https://medium.com/p/9a4461abeb49) |
+| Fri, 03 Oct 2025 15:36:55 GMT | Your Phone’s Popup Could Be a Chinese Hacker’s Weapon | Aj | [Read More](https://medium.com/p/290147ea42b4) |
 | Fri, 03 Oct 2025 15:30:03 GMT | OSINT Weekly Review 2025.40 | OSINT Amy | [Read More](https://medium.com/p/4ddc350ec098) |
 | Fri, 03 Oct 2025 15:27:42 GMT | Roadmap to Become a Cloud Security Specialist | Abarna S | [Read More](https://medium.com/p/1649ef29e180) |
 | Fri, 03 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/dfd6ac210537) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 11:02:06 GMT | Why Every Ethical Hacker Should Master Python First | Muhummad Zaki | [Read More](https://medium.com/p/4b551612e83e) |
 | Fri, 03 Oct 2025 10:59:26 GMT | AU SMALL FINANCE BANK PARTNERS UP WITH NMT SECURITY TO PROVIDE CYBERSECURITY SERVICES TO ITS… | Neha Maheshwari | [Read More](https://medium.com/p/1f3d95fa6546) |
 | Fri, 03 Oct 2025 10:58:21 GMT | Advanced Indexing Strategies in PostgreSQL for AI Workload Acceleration | Rizqi Mulki | [Read More](https://medium.com/p/9ab2410b2385) |
-| Fri, 03 Oct 2025 10:54:40 GMT | Comprehensive Construction Site Security Solutions by Securycor | uk service | [Read More](https://medium.com/p/7b5f720f1417) |
-| Fri, 03 Oct 2025 10:53:20 GMT | Cybersecurity Risks in the Era of Wearable AI Surge | Emily McRose Nafisa | [Read More](https://medium.com/p/f6146af5149f) |
-| Fri, 03 Oct 2025 10:50:08 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/f30a486a5970) |
-| Fri, 03 Oct 2025 10:48:32 GMT | From Evidence to Action: How Digital Forensic Experts Strengthen Security | SmartCLOUD Australia | [Read More](https://medium.com/p/3cfb6b589669) |
-| Fri, 03 Oct 2025 10:48:10 GMT | The AI Hype Machine Meets a Data-Starved Reality | Namir Sagheenanajar | [Read More](https://medium.com/p/889503bd2e06) |
-| Fri, 03 Oct 2025 10:40:38 GMT | Threat Hunting with WAF Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/99b4f9dbd283) |
-| Fri, 03 Oct 2025 10:39:52 GMT | What Can You Do About Social Media Impersonators? Guarding Your Brand Online | Ai Writter Tools | [Read More](https://medium.com/p/d454251a39c5) |
-| Fri, 03 Oct 2025 10:38:10 GMT | ประจำวันศุกร์ที่ 3 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d6b4fcbcd133) |
-| Fri, 03 Oct 2025 10:37:12 GMT | HTML Injection via EXIF MetaData | Utkarsh Srivastava | [Read More](https://medium.com/p/512b5be750b8) |
-| Fri, 03 Oct 2025 10:36:41 GMT | FREE FLAG & VaultSpace | Salma Muhamed | [Read More](https://medium.com/p/dc8fe388d94f) |
-| Fri, 03 Oct 2025 10:34:17 GMT | How to Respond to a Network Breach Quickly | Kartik Debnath | [Read More](https://medium.com/p/ab46be4a0e2e) |
-| Fri, 03 Oct 2025 10:30:40 GMT | Business Logic Error: Membeli Kredit di Bawah Minimum Checkout | Robi Mohamad subagja | [Read More](https://medium.com/p/54f5a7a8709e) |
-| Fri, 03 Oct 2025 10:29:50 GMT | Preventing App Fraud and Fake Downloads for Businesses | Ai Writter Tools | [Read More](https://medium.com/p/e9c6c6575593) |
-| Fri, 03 Oct 2025 10:26:28 GMT | Hospital Security Guards: Protecting Patients and Staff | Travel time | [Read More](https://medium.com/p/2febc11bc234) |
-| Fri, 03 Oct 2025 10:25:31 GMT | Challenges Faced in CCTV Camera Services | Nestrondigitalhub | [Read More](https://medium.com/p/5eccb34b6c1c) |
