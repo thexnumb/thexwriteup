@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 16:32:55 GMT | ffuf Tool Explained: Finding Hidden Doors on the Web | Natarajan C K | [Read More](https://medium.com/p/37e7dc76e97c) |
+| Fri, 03 Oct 2025 16:28:30 GMT | Aquarium Chaos: How Broken API Let Me Hijack Smart Fish Tanks Remotely | hacker_might | [Read More](https://medium.com/p/7c857cf2d3d0) |
+| Fri, 03 Oct 2025 16:23:35 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6b2f11180bdd) |
+| Fri, 03 Oct 2025 16:17:15 GMT | Beyond the Code: How an IT Undergrad Discovered the Future of Inventory | Vishu Garg | [Read More](https://medium.com/p/6c238108dbf3) |
 | Fri, 03 Oct 2025 16:11:32 GMT | GRC Evolution: From Ancient Law to Modern Cybersecurity Landscape | Humerah Farooqui | [Read More](https://medium.com/p/ccda24ca5663) |
 | Fri, 03 Oct 2025 16:10:15 GMT | Siber Güvenlik: Veri Manipülasyonu, Yanıltıcı Tehditler ve Savunma Sanayiine Etkileri | Gürbağ Savunma | [Read More](https://medium.com/p/4a7049037cd6) |
 | Fri, 03 Oct 2025 16:08:28 GMT | SQL injection- The Beginner’s Guide | Ashutosh Jena | [Read More](https://medium.com/p/c6f69a2c50a8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 11:10:52 GMT | PostgreSQL 17: Performance Benchmarks with Enhanced Security Features | Rizqi Mulki | [Read More](https://medium.com/p/0f85d34bfb68) |
 | Fri, 03 Oct 2025 11:08:37 GMT | LLMs in security, risk & compliance: When to rely on ChatGPT and when not to | SIRV - AI to help manage threats and disruption | [Read More](https://medium.com/p/39b424ccd40f) |
 | Fri, 03 Oct 2025 11:05:55 GMT | HackerOne Paid $81 in Bug Bounty With Emergence of Bionic Hackers | Jasmitharouthu | [Read More](https://medium.com/p/ca26df497400) |
-| Fri, 03 Oct 2025 11:03:41 GMT | The Python Hack That Made Me Rethink Digital Security Forever | Muhummad Zaki | [Read More](https://medium.com/p/813feb8bf7f4) |
-| Fri, 03 Oct 2025 11:02:06 GMT | Why Every Ethical Hacker Should Master Python First | Muhummad Zaki | [Read More](https://medium.com/p/4b551612e83e) |
-| Fri, 03 Oct 2025 10:59:26 GMT | AU SMALL FINANCE BANK PARTNERS UP WITH NMT SECURITY TO PROVIDE CYBERSECURITY SERVICES TO ITS… | Neha Maheshwari | [Read More](https://medium.com/p/1f3d95fa6546) |
-| Fri, 03 Oct 2025 10:58:21 GMT | Advanced Indexing Strategies in PostgreSQL for AI Workload Acceleration | Rizqi Mulki | [Read More](https://medium.com/p/9ab2410b2385) |
