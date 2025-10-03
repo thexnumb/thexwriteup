@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 23:35:16 GMT | Redacting Sensitive Information Before Passing to LLMs | Bilal Tahseen | [Read More](https://medium.com/p/877b9a08162c) |
+| Fri, 03 Oct 2025 23:29:33 GMT | Encryption’s Enigma | Cyber Security Research | [Read More](https://medium.com/p/33053f43fb60) |
+| Fri, 03 Oct 2025 23:23:14 GMT | Zero Trust, Zero Compromise | Cyber Security Research | [Read More](https://medium.com/p/419c5e670708) |
+| Fri, 03 Oct 2025 23:12:34 GMT | Secure Coding Practices for Modern Developers: A Senior Java 8 Perspective | Mustapha Aitigunaoun | [Read More](https://medium.com/p/4ba947e44276) |
 | Fri, 03 Oct 2025 23:07:53 GMT | Tech for Seniors: User-Friendly Innovations for Aging Gracefully | Jason Han | [Read More](https://medium.com/p/fefd8d83b554) |
 | Fri, 03 Oct 2025 23:01:44 GMT | The Asahi Ransomware Attack That Crippled Japan’s Drinking Culture | David SEHYEON Baek | [Read More](https://medium.com/p/4bde0b57b044) |
 | Fri, 03 Oct 2025 22:55:29 GMT | Cyberdefenders: MalDOC101 lab walkthrough | Davenyamongo | [Read More](https://medium.com/p/40c5eb9a8d50) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 15:44:11 GMT | Secrets Management in DevOps: Do’s and Don’ts (2025 Implementation Guide) | JSOC IT BLOG | [Read More](https://medium.com/p/16cf5252e3c1) |
 | Fri, 03 Oct 2025 15:42:06 GMT | 99.9% of Account Hacks Are Preventable: The Complete 2FA Guide Every .NET Developer Needs | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/90f8cdddc014) |
 | Fri, 03 Oct 2025 15:39:12 GMT | 5 signaux que votre entreprise a besoin de Contract Management (avant qu’il ne soit trop tard) | Abrennis | [Read More](https://medium.com/p/9a4461abeb49) |
-| Fri, 03 Oct 2025 15:36:55 GMT | Your Phone’s Popup Could Be a Chinese Hacker’s Weapon | Aj | [Read More](https://medium.com/p/290147ea42b4) |
-| Fri, 03 Oct 2025 15:30:03 GMT | OSINT Weekly Review 2025.40 | OSINT Amy | [Read More](https://medium.com/p/4ddc350ec098) |
-| Fri, 03 Oct 2025 15:27:42 GMT | Roadmap to Become a Cloud Security Specialist | Abarna S | [Read More](https://medium.com/p/1649ef29e180) |
-| Fri, 03 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/dfd6ac210537) |
