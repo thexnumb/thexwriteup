@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 11:10:52 GMT | PostgreSQL 17: Performance Benchmarks with Enhanced Security Features | Rizqi Mulki | [Read More](https://medium.com/p/0f85d34bfb68) |
+| Fri, 03 Oct 2025 11:05:55 GMT | HackerOne Paid $81 in Bug Bounty With Emergence of Bionic Hackers | Jasmitharouthu | [Read More](https://medium.com/p/ca26df497400) |
+| Fri, 03 Oct 2025 11:03:41 GMT | The Python Hack That Made Me Rethink Digital Security Forever | Muhummad Zaki | [Read More](https://medium.com/p/813feb8bf7f4) |
+| Fri, 03 Oct 2025 11:02:06 GMT | Why Every Ethical Hacker Should Master Python First | Muhummad Zaki | [Read More](https://medium.com/p/4b551612e83e) |
+| Fri, 03 Oct 2025 10:58:21 GMT | Advanced Indexing Strategies in PostgreSQL for AI Workload Acceleration | Rizqi Mulki | [Read More](https://medium.com/p/9ab2410b2385) |
+| Fri, 03 Oct 2025 10:54:40 GMT | Comprehensive Construction Site Security Solutions by Securycor | uk service | [Read More](https://medium.com/p/7b5f720f1417) |
+| Fri, 03 Oct 2025 10:53:20 GMT | Cybersecurity Risks in the Era of Wearable AI Surge | Emily McRose Nafisa | [Read More](https://medium.com/p/f6146af5149f) |
+| Fri, 03 Oct 2025 10:50:08 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/f30a486a5970) |
+| Fri, 03 Oct 2025 10:48:32 GMT | From Evidence to Action: How Digital Forensic Experts Strengthen Security | SmartCLOUD Australia | [Read More](https://medium.com/p/3cfb6b589669) |
+| Fri, 03 Oct 2025 10:48:10 GMT | The AI Hype Machine Meets a Data-Starved Reality | Namir Sagheenanajar | [Read More](https://medium.com/p/889503bd2e06) |
+| Fri, 03 Oct 2025 10:40:38 GMT | Threat Hunting with WAF Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/99b4f9dbd283) |
+| Fri, 03 Oct 2025 10:39:52 GMT | What Can You Do About Social Media Impersonators? Guarding Your Brand Online | Ai Writter Tools | [Read More](https://medium.com/p/d454251a39c5) |
+| Fri, 03 Oct 2025 10:38:10 GMT | ประจำวันศุกร์ที่ 3 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d6b4fcbcd133) |
 | Fri, 03 Oct 2025 10:37:12 GMT | HTML Injection via EXIF MetaData | Utkarsh Srivastava | [Read More](https://medium.com/p/512b5be750b8) |
 | Fri, 03 Oct 2025 10:36:41 GMT | FREE FLAG & VaultSpace | Salma Muhamed | [Read More](https://medium.com/p/dc8fe388d94f) |
+| Fri, 03 Oct 2025 10:34:17 GMT | How to Respond to a Network Breach Quickly | Kartik Debnath | [Read More](https://medium.com/p/ab46be4a0e2e) |
 | Fri, 03 Oct 2025 10:30:40 GMT | Business Logic Error: Membeli Kredit di Bawah Minimum Checkout | Robi Mohamad subagja | [Read More](https://medium.com/p/54f5a7a8709e) |
 | Fri, 03 Oct 2025 10:29:50 GMT | Preventing App Fraud and Fake Downloads for Businesses | Ai Writter Tools | [Read More](https://medium.com/p/e9c6c6575593) |
 | Fri, 03 Oct 2025 10:26:28 GMT | Hospital Security Guards: Protecting Patients and Staff | Travel time | [Read More](https://medium.com/p/2febc11bc234) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 06:43:27 GMT | Cursed With the Eyes That Find Beauty in Everything… | Ayushi Jindal | [Read More](https://medium.com/p/fecd974e9471) |
 | Fri, 03 Oct 2025 06:30:00 GMT | How AI is Reshaping Cybersecurity: Real Stories, Real Risks | Diksha | [Read More](https://medium.com/p/3ff69119e50e) |
 | Fri, 03 Oct 2025 06:27:48 GMT | Application Writing Services | Rayolivia | [Read More](https://medium.com/p/3218ed83f21a) |
-| Fri, 03 Oct 2025 06:25:09 GMT | The Corix Partners Friday Reading List — October 3, 2025 | JC Gaillard | [Read More](https://medium.com/p/f1613f068b91) |
-| Fri, 03 Oct 2025 06:20:59 GMT | Network Discovery Detection | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/0d8cc06b7c08) |
-| Fri, 03 Oct 2025 06:15:47 GMT | A Bitget Recruitment Scam — My Experience and Warning | David SEHYEON Baek | [Read More](https://medium.com/p/f5dfd9d31457) |
-| Fri, 03 Oct 2025 06:14:47 GMT | SOC Automation Project (Home Lab): Building a Detection and Response Lab with Sysmon, Wazuh… | kuraido | [Read More](https://medium.com/p/fb38e19e9e45) |
-| Fri, 03 Oct 2025 06:13:52 GMT | Job Guaranteed Courses in Noida — Placement Assured Training Programs | Evision Technoserve | [Read More](https://medium.com/p/cd6ea33a8e0d) |
-| Fri, 03 Oct 2025 06:09:49 GMT | Rate Limits? Never Heard of Them: How I Brute-Forced My Way Through Every Account | Iski | [Read More](https://medium.com/p/b6865f86dd42) |
-| Fri, 03 Oct 2025 06:06:19 GMT | Upgrade Your Career with Leadership & Management Courses in Australia | royalinternational | [Read More](https://medium.com/p/5b632761d380) |
-| Fri, 03 Oct 2025 05:58:05 GMT | SSRF Validator | Malekith | [Read More](https://medium.com/p/0a292b0a604c) |
-| Fri, 03 Oct 2025 05:58:02 GMT | GZR Observer — India Geo Perspective — Weekly — Oct 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/36fcaa7e788e) |
-| Fri, 03 Oct 2025 05:56:47 GMT | Mexican Senate Advances Framework for National Cybersecurity Law | SafetyDetectives Research Team | [Read More](https://medium.com/p/d36c12adf610) |
-| Fri, 03 Oct 2025 05:48:36 GMT | CYBER SECURITY AWARENESS MONTH — October 2025 | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/1ba30bea9056) |
-| Fri, 03 Oct 2025 05:40:48 GMT | Cybersecurity Awareness in Schools: Protecting the Next Generation | Mahendra Sunil | [Read More](https://medium.com/p/3880606bedf1) |
-| Fri, 03 Oct 2025 05:38:49 GMT | Bandit - Level 3→ 4- OverTheWire | Deepika  B | [Read More](https://medium.com/p/8c16e0d01935) |
-| Fri, 03 Oct 2025 05:37:58 GMT | Indie hacking, a term that has gained significant traction in recent years, encapsulates the… | Charles  Schultz | [Read More](https://medium.com/p/dc0e7d1c9b49) |
