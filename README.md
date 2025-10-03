@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 15:30:03 GMT | OSINT Weekly Review 2025.40 | OSINT Amy | [Read More](https://medium.com/p/4ddc350ec098) |
+| Fri, 03 Oct 2025 15:27:42 GMT | Roadmap to Become a Cloud Security Specialist | Abarna S | [Read More](https://medium.com/p/1649ef29e180) |
+| Fri, 03 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/dfd6ac210537) |
+| Fri, 03 Oct 2025 15:12:54 GMT | Why Hiring Security Guards in Sacramento Is More Important Than Ever | Direct Guard Services | [Read More](https://medium.com/p/41a75f6bbd70) |
+| Fri, 03 Oct 2025 15:08:37 GMT | The Future of Cybersecurity: Agentic AI and Self-Driven Threat Detection | Aziro | [Read More](https://medium.com/p/4e797059c470) |
+| Fri, 03 Oct 2025 15:07:54 GMT | The Postmark-MCP Incident: The First Malicious MCP Server Caught Stealing Emails | Harisudhan.S | [Read More](https://medium.com/p/89e02243ba75) |
 | Fri, 03 Oct 2025 15:06:42 GMT | Fundamental of Security | Rahul Kumar | [Read More](https://medium.com/p/3b569bbb0be8) |
 | Fri, 03 Oct 2025 15:03:58 GMT | The Shattered Mirror: Why I Rejected and Lithered My Twin Flame | Wilson Igbasi | [Read More](https://medium.com/p/8ee328360d2e) |
 | Fri, 03 Oct 2025 15:01:50 GMT | If Discipline Feels Like Punishment, You’re Doing It Wrong | Vijay Kumar Gupta | [Read More](https://medium.com/p/1cb0a0502147) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 10:29:50 GMT | Preventing App Fraud and Fake Downloads for Businesses | Ai Writter Tools | [Read More](https://medium.com/p/e9c6c6575593) |
 | Fri, 03 Oct 2025 10:26:28 GMT | Hospital Security Guards: Protecting Patients and Staff | Travel time | [Read More](https://medium.com/p/2febc11bc234) |
 | Fri, 03 Oct 2025 10:25:31 GMT | Challenges Faced in CCTV Camera Services | Nestrondigitalhub | [Read More](https://medium.com/p/5eccb34b6c1c) |
-| Fri, 03 Oct 2025 10:17:56 GMT | 2025 Cybersecurity Reality Check | Cybersecurity Umbrella | [Read More](https://medium.com/p/bdaca9b821a1) |
-| Fri, 03 Oct 2025 10:17:19 GMT | Shrinking Power, Expanding Challenges: Miniaturization and the Hydraulic Piping Supply Chain | Whyps | [Read More](https://medium.com/p/676dfba5caa9) |
-| Fri, 03 Oct 2025 10:15:53 GMT | Top Cyber Threat Intelligence Platforms For African Organizations | O. J. Okpabi | [Read More](https://medium.com/p/ef2d4631633a) |
-| Fri, 03 Oct 2025 10:14:58 GMT | Red Hat Confirms Breach: When Trust Meets Turmoil | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/efdf535f50cf) |
-| Fri, 03 Oct 2025 10:14:52 GMT | TEEs were never the answer for signing blockchain transactions | OKcontract Chainwall | [Read More](https://medium.com/p/789cb22750d7) |
-| Fri, 03 Oct 2025 10:11:17 GMT | Phishing isn’t just in the inbox: The threats have moved mobile | Red Sift | [Read More](https://medium.com/p/3deb485d5939) |
