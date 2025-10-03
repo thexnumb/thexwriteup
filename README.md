@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 10:37:12 GMT | HTML Injection via EXIF MetaData | Utkarsh Srivastava | [Read More](https://medium.com/p/512b5be750b8) |
+| Fri, 03 Oct 2025 10:36:41 GMT | FREE FLAG & VaultSpace | Salma Muhamed | [Read More](https://medium.com/p/dc8fe388d94f) |
+| Fri, 03 Oct 2025 10:30:40 GMT | Business Logic Error: Membeli Kredit di Bawah Minimum Checkout | Robi Mohamad subagja | [Read More](https://medium.com/p/54f5a7a8709e) |
+| Fri, 03 Oct 2025 10:29:50 GMT | Preventing App Fraud and Fake Downloads for Businesses | Ai Writter Tools | [Read More](https://medium.com/p/e9c6c6575593) |
+| Fri, 03 Oct 2025 10:26:28 GMT | Hospital Security Guards: Protecting Patients and Staff | Travel time | [Read More](https://medium.com/p/2febc11bc234) |
+| Fri, 03 Oct 2025 10:25:31 GMT | Challenges Faced in CCTV Camera Services | Nestrondigitalhub | [Read More](https://medium.com/p/5eccb34b6c1c) |
 | Fri, 03 Oct 2025 10:17:56 GMT | 2025 Cybersecurity Reality Check | Cybersecurity Umbrella | [Read More](https://medium.com/p/bdaca9b821a1) |
+| Fri, 03 Oct 2025 10:17:19 GMT | Shrinking Power, Expanding Challenges: Miniaturization and the Hydraulic Piping Supply Chain | Whyps | [Read More](https://medium.com/p/676dfba5caa9) |
 | Fri, 03 Oct 2025 10:15:53 GMT | Top Cyber Threat Intelligence Platforms For African Organizations | O. J. Okpabi | [Read More](https://medium.com/p/ef2d4631633a) |
 | Fri, 03 Oct 2025 10:14:58 GMT | Red Hat Confirms Breach: When Trust Meets Turmoil | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/efdf535f50cf) |
 | Fri, 03 Oct 2025 10:14:52 GMT | TEEs were never the answer for signing blockchain transactions | OKcontract Chainwall | [Read More](https://medium.com/p/789cb22750d7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 05:40:48 GMT | Cybersecurity Awareness in Schools: Protecting the Next Generation | Mahendra Sunil | [Read More](https://medium.com/p/3880606bedf1) |
 | Fri, 03 Oct 2025 05:38:49 GMT | Bandit - Level 3→ 4- OverTheWire | Deepika  B | [Read More](https://medium.com/p/8c16e0d01935) |
 | Fri, 03 Oct 2025 05:37:58 GMT | Indie hacking, a term that has gained significant traction in recent years, encapsulates the… | Charles  Schultz | [Read More](https://medium.com/p/dc0e7d1c9b49) |
-| Fri, 03 Oct 2025 05:35:30 GMT | Deeper Connect Air Portable Decentralized VPN Travel Router | Stack Social Deals | [Read More](https://medium.com/p/bc94b53adc0a) |
-| Fri, 03 Oct 2025 05:35:06 GMT | What Are Networking Devices? | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/2fd3f6bc1b5e) |
-| Fri, 03 Oct 2025 05:32:02 GMT | Top Cybersecurity Threats That Everyone Ignores | Ann Maria | [Read More](https://medium.com/p/6beca3444372) |
-| Fri, 03 Oct 2025 05:22:44 GMT | AdGuard VPN + Ad Blocker Family Security Suite | Stack Social Deals | [Read More](https://medium.com/p/fbb8dbd1b3fd) |
-| Fri, 03 Oct 2025 05:20:31 GMT | Safeguarding Industrial Operations: The Critical Role of OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/6bf8ce20bd11) |
-| Fri, 03 Oct 2025 05:20:22 GMT | Bandit - Level 2→ 3- OverTheWire | Deepika  B | [Read More](https://medium.com/p/94091d855ce9) |
-| Fri, 03 Oct 2025 05:17:29 GMT | Cybersecurity Foundations Series: Part 3 — The Triple A’s and Privacy | TechStoryLines | [Read More](https://medium.com/p/e2a400582f18) |
