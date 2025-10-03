@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 07:15:01 GMT | Why Struggle With H1B Visa Hiring? When you can hire Developers fom India | Danial | [Read More](https://medium.com/p/76b6d19bf613) |
+| Fri, 03 Oct 2025 07:11:10 GMT | Future Software Engineering Training Programs for the Workforce Software | Elite Aneesa999 | [Read More](https://medium.com/p/a085ea78dbdf) |
+| Fri, 03 Oct 2025 07:07:14 GMT | Top 10 Government Jobs in Cyber Security in India | Manisha Chaudhary | [Read More](https://medium.com/p/cfac56bb4c2a) |
+| Fri, 03 Oct 2025 07:06:32 GMT | Setting Up an Android Dynamic Analysis Environment: ADB, Frida, and Objection | Jai Bhattacharya | [Read More](https://medium.com/p/da1a1812bd43) |
+| Fri, 03 Oct 2025 07:03:05 GMT | Hack The Box Season 9: Step-by-Step Walkthrough of the Imagery | Keshav Kacholiya | [Read More](https://medium.com/p/b6fb67daf511) |
+| Fri, 03 Oct 2025 07:01:52 GMT | The Security Requirements Every Construction Software Must Meet | AlterSquare | [Read More](https://medium.com/p/6e3cb06e2e8b) |
+| Fri, 03 Oct 2025 06:56:21 GMT | Rails 7.1 Has Landed: Why This Release Will Change How You Build Apps | ravi prakash | [Read More](https://medium.com/p/13efca33e335) |
+| Fri, 03 Oct 2025 06:54:43 GMT | 5 Signs Your Startup Needs Staff Augmentation for Real Growth | Danial | [Read More](https://medium.com/p/3cb06aa89910) |
+| Fri, 03 Oct 2025 06:53:38 GMT | The Profound Security Risks of Perpetual Logging: An Analysis of AI “Recall” and Corporate Data… | Biplove Yadav | [Read More](https://medium.com/p/eb20e822bdae) |
+| Fri, 03 Oct 2025 06:49:27 GMT | Try Hack Me- PickleRick Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/be8226f1ec1e) |
+| Fri, 03 Oct 2025 06:49:02 GMT | Major principles of Incident Response | NetWitness | [Read More](https://medium.com/p/11093045f6f4) |
 | Fri, 03 Oct 2025 06:46:41 GMT | Best Tools for Security Awareness Training in a Distracted Workplace | Lanvaus | [Read More](https://medium.com/p/5072eddb6267) |
+| Fri, 03 Oct 2025 06:43:27 GMT | Cursed With the Eyes That Find Beauty in Everything… | Ayushi Jindal | [Read More](https://medium.com/p/fecd974e9471) |
 | Fri, 03 Oct 2025 06:30:00 GMT | How AI is Reshaping Cybersecurity: Real Stories, Real Risks | Diksha | [Read More](https://medium.com/p/3ff69119e50e) |
 | Fri, 03 Oct 2025 06:27:48 GMT | Application Writing Services | Rayolivia | [Read More](https://medium.com/p/3218ed83f21a) |
 | Fri, 03 Oct 2025 06:25:09 GMT | The Corix Partners Friday Reading List — October 3, 2025 | JC Gaillard | [Read More](https://medium.com/p/f1613f068b91) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 23:42:03 GMT | TryHackMe #80 - Snort Challenge — The Basics | 0xGroot | [Read More](https://medium.com/p/672976f85715) |
 | Thu, 02 Oct 2025 23:36:28 GMT | The Most Dangerous Vulnerability In The World | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/4de8b39757da) |
 | Thu, 02 Oct 2025 23:36:28 GMT | TryHackMe #79 - Snort | 0xGroot | [Read More](https://medium.com/p/3252bc20b282) |
-| Thu, 02 Oct 2025 23:34:55 GMT | AI Code Wars: How Hackers Exploit Generative AI to Breach Enterprises from Within | Opakunle 'Bowale | [Read More](https://medium.com/p/0c22d6637e47) |
-| Thu, 02 Oct 2025 23:32:46 GMT | 3v@l — Exploiting an eval-based Loan Calculator (picoCTF) | Sahand Babali | [Read More](https://medium.com/p/4d3f8e53551b) |
-| Thu, 02 Oct 2025 23:32:01 GMT | The Strategy of the Sixth Angel: Crippling Industrial Control Networks at Minimum Cost! | Scott Huang | [Read More](https://medium.com/p/d933a48eb174) |
-| Thu, 02 Oct 2025 23:26:30 GMT | TryHackMe #77 - Trooper | 0xGroot | [Read More](https://medium.com/p/cee19991a600) |
-| Thu, 02 Oct 2025 23:26:04 GMT | PG Practice — Mice(Windows) | Lepton | [Read More](https://medium.com/p/2e88f45bfe78) |
-| Thu, 02 Oct 2025 23:22:11 GMT | TryHackMe #76 - Friday Overtime | 0xGroot | [Read More](https://medium.com/p/f1b063b370f0) |
-| Thu, 02 Oct 2025 23:19:19 GMT | Incident Response Fundamentals - THM | Isiah | [Read More](https://medium.com/p/a02668d85654) |
-| Thu, 02 Oct 2025 23:18:13 GMT | Layer 2 Attacks and Solutions in Switch-Based Networks | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/7b09d55b84fb) |
-| Thu, 02 Oct 2025 23:11:05 GMT | Cybersecurity Weekly Issue 51 | This Week In I/O | [Read More](https://medium.com/p/57b00316d726) |
-| Thu, 02 Oct 2025 23:07:51 GMT | Unwelcome and Dangerous Internet Traffic | George Sidman | [Read More](https://medium.com/p/1d93f01c4019) |
-| Thu, 02 Oct 2025 23:04:58 GMT | Why Passing SPF and DKIM Isn’t Enough: A New Framework for Email Sender Trust | Nikola | [Read More](https://medium.com/p/66f94350a431) |
-| Thu, 02 Oct 2025 23:01:12 GMT | CyberExam: Introduction to Forensics and Incident Response — Writeup | Ensar Özder | [Read More](https://medium.com/p/a21d811d67c4) |
