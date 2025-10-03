@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 04:21:10 GMT | Your First Capture the Flag: How to Win Beginner CTFs (and Why They Work) | Fateyaly | [Read More](https://medium.com/p/7e4a3c53286e) |
+| Fri, 03 Oct 2025 04:16:07 GMT | AI vs Hackers: Who’s Winning the Cybersecurity War? | Arfa | [Read More](https://medium.com/p/6b459711fdaa) |
+| Fri, 03 Oct 2025 04:15:20 GMT | Top 5 Common Laptop Issues and How to Fix Them Quickly | Ask IT Support | [Read More](https://medium.com/p/989b1306fbc0) |
+| Fri, 03 Oct 2025 04:04:04 GMT | Is Privacy a Myth in the Digital Age or Still Worth Fighting For? | Daretoexpose | [Read More](https://medium.com/p/4b250362a0d5) |
+| Fri, 03 Oct 2025 04:02:16 GMT | Making Sense of Identity’s Alphabet Soup: ISPM, IVIP, and ITDR | Prithvi Poreddy | [Read More](https://medium.com/p/db4705cca6a2) |
+| Fri, 03 Oct 2025 03:50:34 GMT | Security for Android Developers (part 1) | Dinorah Tovar | [Read More](https://medium.com/p/ce5b63bcf82a) |
+| Fri, 03 Oct 2025 03:46:44 GMT | How Cybersecurity OEMs Can Win the Trust of the Next-Gen Workforce | Dr. Deep Pandey | [Read More](https://medium.com/p/7e26cdba31e7) |
 | Fri, 03 Oct 2025 03:42:06 GMT | Windows: From User to Root | Ops4Windows | [Read More](https://medium.com/p/5729b2f2183a) |
 | Fri, 03 Oct 2025 03:31:52 GMT | Top 4 Benefits of Idempotency in Node.js APIs | Arunangshu Das | [Read More](https://medium.com/p/994a6d883566) |
 | Fri, 03 Oct 2025 03:05:20 GMT | Security Vulnerabilities in Early-Stage Products: Why SaaS Startups Need SaaS Security Best… | Adnan Umar | [Read More](https://medium.com/p/09918b600bff) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 19:02:27 GMT | PG Practice — Hetemit (Linux) | Lepton | [Read More](https://medium.com/p/bfbb5e1cb5b5) |
 | Thu, 02 Oct 2025 19:02:23 GMT | CyberDefenders: REvil Lab | Rahaliashraf | [Read More](https://medium.com/p/656dd8c7a9da) |
 | Thu, 02 Oct 2025 18:52:16 GMT | ⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo | Gorka | [Read More](https://medium.com/p/952bfb65446a) |
-| Thu, 02 Oct 2025 18:47:44 GMT | JWTs Demystified: A .NET Dev’s Guide to API & Infra Security | Brian Mora | [Read More](https://medium.com/p/54a7c0135ca2) |
-| Thu, 02 Oct 2025 18:45:52 GMT | K8s-RTA-Exam Review | marianita_cloud | [Read More](https://medium.com/p/2d991d6cde10) |
-| Thu, 02 Oct 2025 18:44:32 GMT | The Complete Beginner’s Guide to Server-Side Template Injection (SSTI): From Zero to Exploitation. | Aneeqibtesam | [Read More](https://medium.com/p/aca5a953e2a4) |
-| Thu, 02 Oct 2025 18:25:39 GMT | The Linux Process Journey — hostapd (Host Access Point Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7bf9f6af695f) |
-| Thu, 02 Oct 2025 18:24:48 GMT | Stateful Firewall: How It Works and Why Businesses Need It | SafeAeon Inc. | [Read More](https://medium.com/p/1820f2306b20) |
-| Thu, 02 Oct 2025 18:15:40 GMT | Dark Web Monitoring: How Businesses Can Detect and Prevent Data Leaks | SafeAeon Inc. | [Read More](https://medium.com/p/0c2f4e11868c) |
-| Thu, 02 Oct 2025 18:14:50 GMT | Mastering AppArmor Profiles in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/c1643a961f07) |
