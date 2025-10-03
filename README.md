@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 18:51:53 GMT | Voice Assistants Evolved: Siri, Alexa, and Beyond in 2025 | Jason Han | [Read More](https://medium.com/p/a9fa256c72a2) |
+| Fri, 03 Oct 2025 18:47:24 GMT | Tryhackme — Heist WriteUp Türkçe | nightbird | [Read More](https://medium.com/p/b97aee52f099) |
+| Fri, 03 Oct 2025 18:43:08 GMT | Day 10 — Mastering Autopsy: A Beginner’s Guide to Digital Forensics | HackTrace | [Read More](https://medium.com/p/e46f7852f6bb) |
+| Fri, 03 Oct 2025 18:41:39 GMT | Evading ETW Techniques ( written in C): | Zanebilal | [Read More](https://medium.com/p/d8875e7385b9) |
 | Fri, 03 Oct 2025 18:40:16 GMT | Unrestricted File Upload in Plugin Upload section in Thermo Fisher Ion Torrent Browser 5.10.1 | Sh11td0wn | [Read More](https://medium.com/p/ae93b49e6151) |
 | Fri, 03 Oct 2025 18:30:54 GMT | How Reading About Blockchain and Cybersecurity Gave Me a Career Edge | Aj | [Read More](https://medium.com/p/b009eeb8797f) |
 | Fri, 03 Oct 2025 18:30:40 GMT | The Art of Deception: Controlling the Human Element of Security | Samina Perveen | [Read More](https://medium.com/p/d7acff10ccfc) |
@@ -26,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 18:05:17 GMT | The Metaverse Myth: Is It Living Up to the Hype? | Jason Han | [Read More](https://medium.com/p/1104f3b2dd63) |
 | Fri, 03 Oct 2025 18:01:54 GMT | Today’s featured CRS article, “Armed Forces Compensation During a Lapse in Appropriations”… | Congressional Communities | [Read More](https://medium.com/p/419083fdee09) |
 | Fri, 03 Oct 2025 17:53:31 GMT | The Physical Layer Explained: How the Internet’s Foundation Really Works | ajay devaliya | [Read More](https://medium.com/p/8e59947de7f1) |
+| Fri, 03 Oct 2025 17:52:14 GMT | Desvendando a sopa de letrinhas de IAM: IGA, AM, PAM e CIAM | Sara Batista | [Read More](https://medium.com/p/214f6a07666b) |
 | Fri, 03 Oct 2025 17:45:07 GMT | Why Starting a Blue Team Career Feels Harder — and How to Do It Without Breaking the Bank | Sri | [Read More](https://medium.com/p/e45a1ea07a34) |
 | Fri, 03 Oct 2025 17:45:04 GMT | Portswigger mystery lab write up -Business logic vulnerabilities: Authentication bypass via flawed… | Hubert | [Read More](https://medium.com/p/7791aac697ef) |
 | Fri, 03 Oct 2025 17:43:23 GMT | Artificial Intelligence: Your Personal Assistant for Work, Learning, and Life | Cycling Medium | [Read More](https://medium.com/p/07efdc91e9d2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 13:02:24 GMT | CloudMile Raises $58M: Taiwan’s Cloud AI Startup Expands Across Southeast Asia | White Hsu | [Read More](https://medium.com/p/6da21e50d7d7) |
 | Fri, 03 Oct 2025 12:51:14 GMT | How to Improve Employee Attendance with Technology & HRMS Software | TrueTym | [Read More](https://medium.com/p/afae4eeb9333) |
 | Fri, 03 Oct 2025 12:49:43 GMT | Submarine Cable Damages As Cyber Risk | Tailor-made Actuarial and Statistical Consulting | [Read More](https://medium.com/p/f8fb81562a16) |
-| Fri, 03 Oct 2025 12:37:59 GMT | ️‍♂️ How I Built Bug-hunter MVP — Minimal Docker Starter for Bug Bounty Hunters | ghostyjoe | [Read More](https://medium.com/p/f3228baf2238) |
-| Fri, 03 Oct 2025 12:30:25 GMT | How The Web Works [Part 3] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/309c98d85ea0) |
-| Fri, 03 Oct 2025 12:24:59 GMT | When "I'm fine" is just a mask. | InHerWords | [Read More](https://medium.com/p/bd6355220f15) |
-| Fri, 03 Oct 2025 12:22:33 GMT | Debunking 2 Factor Authentication Myths: Separating Fact from Fiction | Anushka | [Read More](https://medium.com/p/8535e9fb42f0) |
-| Fri, 03 Oct 2025 12:21:56 GMT | How to Understand RaaS in Simple Steps | Ibtissam hammadi | [Read More](https://medium.com/p/50ae0eb411a2) |
