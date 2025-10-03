@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 17:32:59 GMT | How Ethical Hacking Is Redesigning the Corporate Security of the Future | Smith Adams | [Read More](https://medium.com/p/e12662c84c6d) |
+| Fri, 03 Oct 2025 17:32:08 GMT | Automating Vulnerability Lifecycle Management: AI-Driven Detection, Prioritization, and Remediation | Sai Krishna Kakarla | [Read More](https://medium.com/p/b14ecc10eff3) |
+| Fri, 03 Oct 2025 17:17:45 GMT | Splunking with Zeek Part 1 | Luke | [Read More](https://medium.com/p/214e9f2beb83) |
+| Fri, 03 Oct 2025 17:08:20 GMT | The Easiest Hack-Proof Upgrade for Your Security | Aj | [Read More](https://medium.com/p/31bd76d22fb4) |
 | Fri, 03 Oct 2025 17:03:03 GMT | Top 5 Cyber Threats | Farah Maqbool | [Read More](https://medium.com/p/9b9095eb1b4c) |
 | Fri, 03 Oct 2025 16:52:06 GMT | What does Zero Trust look like in real-world managed cloud implementations? | Cloud4C Services | [Read More](https://medium.com/p/147c6ea2bcfd) |
 | Fri, 03 Oct 2025 16:41:48 GMT | A Guide to Avoiding Prompt Injection Attacks | Manu Cohen-Yashar | [Read More](https://medium.com/p/e87d7ed95750) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 11:44:32 GMT | Cybersecurity: The Rising Shield of the Digital Era | SIIMT University College, Ghana | [Read More](https://medium.com/p/bcd8deab6080) |
 | Fri, 03 Oct 2025 11:44:26 GMT | Implementing OKTA SSO in Apache Superset | Harshvijaythakkar | [Read More](https://medium.com/p/848f44e1f4da) |
 | Fri, 03 Oct 2025 11:38:14 GMT | PsExec Hunt Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/dd303f45c48f) |
-| Fri, 03 Oct 2025 11:36:18 GMT | How I Passed the Hack The Box CPTS Certification: Preparation and Key Takeaways | boltx | [Read More](https://medium.com/p/71a3ab0162c1) |
-| Fri, 03 Oct 2025 11:34:13 GMT | Swiss Army Knife Series: Episode 1—Regex | Mirage43 | [Read More](https://medium.com/p/94f282345115) |
-| Fri, 03 Oct 2025 11:26:37 GMT | The Essential Cybersecurity Checklist: Protecting Your Data and Devices | Cyber Security Research | [Read More](https://medium.com/p/edfee1c3dc63) |
-| Fri, 03 Oct 2025 11:26:22 GMT | The Role of Kiosk Machines in Creating Hassle-Free Travel Experiences | Rakesh | [Read More](https://medium.com/p/55a85171ef7b) |
