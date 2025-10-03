@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 20:37:27 GMT | PG Practice — Monster (Windows) | Lepton | [Read More](https://medium.com/p/595322c7787b) |
+| Fri, 03 Oct 2025 20:35:40 GMT | Why good things scare me.. | -Xri- | [Read More](https://medium.com/p/a9f6bfc4e9e9) |
+| Fri, 03 Oct 2025 20:27:21 GMT | Cybersecurity News Review — Week 40 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/5c4a68e19d9d) |
+| Fri, 03 Oct 2025 20:21:46 GMT | Is Facebook Marketplace Safe? What Buyers and Sellers Should Know | SafeAeon Inc. | [Read More](https://medium.com/p/a2b119483729) |
+| Fri, 03 Oct 2025 20:18:58 GMT | Developing an Effective Cybersecurity Strategy for Critical Infrastructure: Lessons from the Energy… | Similoluwa Adelowo | [Read More](https://medium.com/p/070cccfb6e80) |
+| Fri, 03 Oct 2025 20:12:05 GMT | Network Security Management: Safeguarding Business Networks from Modern Threats | SafeAeon Inc. | [Read More](https://medium.com/p/aca8af97799c) |
+| Fri, 03 Oct 2025 20:08:52 GMT | OffSec: Apex— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/8483e060277b) |
 | Fri, 03 Oct 2025 20:07:51 GMT | Neural Interfaces: Brain-Computer Links on the Horizon | Jason Han | [Read More](https://medium.com/p/9fb68c02bacd) |
 | Fri, 03 Oct 2025 20:06:18 GMT | TryHackMe - Data Exfiltration Detection - WriteUp | Axoloth | [Read More](https://medium.com/p/fbbae884fd83) |
 | Fri, 03 Oct 2025 20:05:49 GMT | The Human Future with AI in 2030 | Bholendra Kumar Singh | [Read More](https://medium.com/p/072be0d6c0a7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 14:06:45 GMT | Portswigger mystery lab write up - Insecure Deserialization: Arbitrary object injection in PHP. | Hubert | [Read More](https://medium.com/p/a9f9b43e74b8) |
 | Fri, 03 Oct 2025 14:02:27 GMT | Every Business Has Security Measures in Place | Heatena | [Read More](https://medium.com/p/646f9ddf2dfc) |
 | Fri, 03 Oct 2025 14:02:22 GMT | Cyber Briefing: 2025.10.03 | CyberMaterial | [Read More](https://medium.com/p/65d82b83e467) |
-| Fri, 03 Oct 2025 14:02:20 GMT | OAuth2.0: Resolving the Client Credentials Flow | Riley Conrardy | [Read More](https://medium.com/p/3ae3262d0719) |
-| Fri, 03 Oct 2025 14:01:24 GMT | The Illusion of Power | EliWar | [Read More](https://medium.com/p/430f1346d5a3) |
-| Fri, 03 Oct 2025 13:57:27 GMT | TomGhost THM Walkthrough: Exploitation & Privilege Escalation Explained | IsaacNatarajan | [Read More](https://medium.com/p/ba2f30ba6aee) |
-| Fri, 03 Oct 2025 13:53:26 GMT | Day 3: “The Psychology of Phishing: Why We Fall for Scams” | aysha | [Read More](https://medium.com/p/3a6dd168372e) |
-| Fri, 03 Oct 2025 13:44:19 GMT | Why I Always Secure GRUB on Linux Servers Before Going Live | Faruk Ahmed | [Read More](https://medium.com/p/387144fcf006) |
-| Fri, 03 Oct 2025 13:43:30 GMT | Autonomous Agent Trap? | Mohammed Brückner | [Read More](https://medium.com/p/f64a70243cb8) |
-| Fri, 03 Oct 2025 13:42:11 GMT | CompTIA SecAI+ (beta): What you should know and how you can prepare for the exam | Ayush Jain | [Read More](https://medium.com/p/0573364d2b98) |
