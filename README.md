@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 21:06:56 GMT | Behind the Screen: Surviving Cyberstalking | Uncoverwithdale | [Read More](https://medium.com/p/df7d50469755) |
+| Fri, 03 Oct 2025 21:06:26 GMT | Sustainable Tech: Gadgets Designed to Save the Planet | Jason Han | [Read More](https://medium.com/p/734098aa8643) |
+| Fri, 03 Oct 2025 21:04:52 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/d2cbdf232c22) |
+| Fri, 03 Oct 2025 20:57:57 GMT | Network Discovery Detection Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/455919710e37) |
+| Fri, 03 Oct 2025 20:37:29 GMT | Bounty Hacker writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/eb5dfcd07e56) |
 | Fri, 03 Oct 2025 20:37:27 GMT | PG Practice — Monster (Windows) | Lepton | [Read More](https://medium.com/p/595322c7787b) |
 | Fri, 03 Oct 2025 20:35:40 GMT | Why good things scare me.. | -Xri- | [Read More](https://medium.com/p/a9f6bfc4e9e9) |
 | Fri, 03 Oct 2025 20:27:21 GMT | Cybersecurity News Review — Week 40 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/5c4a68e19d9d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 14:26:18 GMT | Secrecy Management in Times of Crisis: From Team Purpose to Cyber Resilience | Paulo Valente | [Read More](https://medium.com/p/2a31ebad564c) |
 | Fri, 03 Oct 2025 14:21:50 GMT | School Device Management with SentryPC: Enhancing Safety and Security | Paul Meyer | [Read More](https://medium.com/p/974fd228952a) |
 | Fri, 03 Oct 2025 14:20:54 GMT | Making Graphic Sense of Security Data: A Practical Guide to Microsoft Sentinel Workbooks | Defend Microsoft365 now! | [Read More](https://medium.com/p/b3864a87240a) |
-| Fri, 03 Oct 2025 14:12:10 GMT | Part 7: Understanding Network Services and Protocols | Intelithics | [Read More](https://medium.com/p/46a37eb7a326) |
-| Fri, 03 Oct 2025 14:09:13 GMT | Chaining Vulnerabilities | Meena A | [Read More](https://medium.com/p/050ea05b3897) |
-| Fri, 03 Oct 2025 14:06:45 GMT | Portswigger mystery lab write up - Insecure Deserialization: Arbitrary object injection in PHP. | Hubert | [Read More](https://medium.com/p/a9f9b43e74b8) |
-| Fri, 03 Oct 2025 14:02:27 GMT | Every Business Has Security Measures in Place | Heatena | [Read More](https://medium.com/p/646f9ddf2dfc) |
-| Fri, 03 Oct 2025 14:02:22 GMT | Cyber Briefing: 2025.10.03 | CyberMaterial | [Read More](https://medium.com/p/65d82b83e467) |
