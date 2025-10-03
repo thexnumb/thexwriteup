@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 23:07:53 GMT | Tech for Seniors: User-Friendly Innovations for Aging Gracefully | Jason Han | [Read More](https://medium.com/p/fefd8d83b554) |
+| Fri, 03 Oct 2025 23:01:44 GMT | The Asahi Ransomware Attack That Crippled Japan’s Drinking Culture | David SEHYEON Baek | [Read More](https://medium.com/p/4bde0b57b044) |
+| Fri, 03 Oct 2025 22:55:29 GMT | Cyberdefenders: MalDOC101 lab walkthrough | Davenyamongo | [Read More](https://medium.com/p/40c5eb9a8d50) |
+| Fri, 03 Oct 2025 22:50:38 GMT | .NET API Rate Limit Desteği Ekleme | Ömer Asaf Karasu | [Read More](https://medium.com/p/f06ee0ab357b) |
+| Fri, 03 Oct 2025 22:45:15 GMT | Introduction to SIEM | Isiah | [Read More](https://medium.com/p/72126777058f) |
 | Fri, 03 Oct 2025 22:27:23 GMT | The Navirum Podcast: Transforming Client Data Management with AI — Featuring Ali Qureshi from… | Rory Galvin | [Read More](https://medium.com/p/2dc01989204f) |
 | Fri, 03 Oct 2025 22:18:21 GMT | Kontrolsüz Dijitalleşme Yarışı | Said Oguc | [Read More](https://medium.com/p/a8d3defbdd58) |
 | Fri, 03 Oct 2025 22:15:33 GMT | TryHackMe — PS Eclipse : Write-Up | J Linton | [Read More](https://medium.com/p/877b39d8b2a2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 15:30:03 GMT | OSINT Weekly Review 2025.40 | OSINT Amy | [Read More](https://medium.com/p/4ddc350ec098) |
 | Fri, 03 Oct 2025 15:27:42 GMT | Roadmap to Become a Cloud Security Specialist | Abarna S | [Read More](https://medium.com/p/1649ef29e180) |
 | Fri, 03 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/dfd6ac210537) |
-| Fri, 03 Oct 2025 15:12:54 GMT | Why Hiring Security Guards in Sacramento Is More Important Than Ever | Direct Guard Services | [Read More](https://medium.com/p/41a75f6bbd70) |
-| Fri, 03 Oct 2025 15:08:37 GMT | The Future of Cybersecurity: Agentic AI and Self-Driven Threat Detection | Aziro | [Read More](https://medium.com/p/4e797059c470) |
-| Fri, 03 Oct 2025 15:07:54 GMT | The Postmark-MCP Incident: The First Malicious MCP Server Caught Stealing Emails | Harisudhan.S | [Read More](https://medium.com/p/89e02243ba75) |
-| Fri, 03 Oct 2025 15:06:42 GMT | Fundamental of Security | Rahul Kumar | [Read More](https://medium.com/p/3b569bbb0be8) |
-| Fri, 03 Oct 2025 15:03:58 GMT | The Shattered Mirror: Why I Rejected and Lithered My Twin Flame | Wilson Igbasi | [Read More](https://medium.com/p/8ee328360d2e) |
