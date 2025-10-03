@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 04:35:47 GMT | It Took Blood, Sweat, and Tears, But I Finally Collected All of TCM Security’s Academic Certs! | Athiwat Tiprasaharn | [Read More](https://medium.com/p/7e874a3f31e9) |
+| Fri, 03 Oct 2025 04:31:58 GMT | Tri-Secret Secure in Snowflake: Elevating Data Protection with Dual-Key Encryption | Rajiv Gupta | [Read More](https://medium.com/p/d8bf88d345c7) |
+| Fri, 03 Oct 2025 04:22:28 GMT | Growth Hacking with Python: 12 Scripts We Used for Viral User Acquisition | Arfa | [Read More](https://medium.com/p/426f94b63f5d) |
 | Fri, 03 Oct 2025 04:21:10 GMT | Your First Capture the Flag: How to Win Beginner CTFs (and Why They Work) | Fateyaly | [Read More](https://medium.com/p/7e4a3c53286e) |
+| Fri, 03 Oct 2025 04:20:34 GMT | The Day I Realized Cybersecurity Isn’t About Technology, It’s About People | Arfa | [Read More](https://medium.com/p/df78f7f1e405) |
+| Fri, 03 Oct 2025 04:17:08 GMT | How I Learned Ethical Hacking by Breaking My Own Apps (Safely) | Arfa | [Read More](https://medium.com/p/b817df393152) |
 | Fri, 03 Oct 2025 04:16:07 GMT | AI vs Hackers: Who’s Winning the Cybersecurity War? | Arfa | [Read More](https://medium.com/p/6b459711fdaa) |
 | Fri, 03 Oct 2025 04:15:20 GMT | Top 5 Common Laptop Issues and How to Fix Them Quickly | Ask IT Support | [Read More](https://medium.com/p/989b1306fbc0) |
 | Fri, 03 Oct 2025 04:04:04 GMT | Is Privacy a Myth in the Digital Age or Still Worth Fighting For? | Daretoexpose | [Read More](https://medium.com/p/4b250362a0d5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 19:27:28 GMT | How AI Can Make Security Systems Smarter and Better for Business | Vishnu Prashanth Sridhar | [Read More](https://medium.com/p/e3b771925f96) |
 | Thu, 02 Oct 2025 19:19:41 GMT | When the Artist Becomes the Exploit: Jailbreaking LLM Guardrails Through Roleplay and World… | Chris Huffstetler | [Read More](https://medium.com/p/d54f53a79756) |
 | Thu, 02 Oct 2025 19:18:05 GMT | Forget the Rest — One Programming Language Owns High-Frequency Trading | CodeWithPurpose | [Read More](https://medium.com/p/79d79999304a) |
-| Thu, 02 Oct 2025 19:14:47 GMT | 7 Hidden-Gem Websites I Use Every Single Day in 2025 | CodeWithPurpose | [Read More](https://medium.com/p/faa2aab2ae0b) |
-| Thu, 02 Oct 2025 19:11:33 GMT | Forget the Codebase — Your Real Legacy Is the Team You Build | Observability Guy | [Read More](https://medium.com/p/162dfb5bfe73) |
-| Thu, 02 Oct 2025 19:02:27 GMT | PG Practice — Hetemit (Linux) | Lepton | [Read More](https://medium.com/p/bfbb5e1cb5b5) |
-| Thu, 02 Oct 2025 19:02:23 GMT | CyberDefenders: REvil Lab | Rahaliashraf | [Read More](https://medium.com/p/656dd8c7a9da) |
-| Thu, 02 Oct 2025 18:52:16 GMT | ⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo | Gorka | [Read More](https://medium.com/p/952bfb65446a) |
