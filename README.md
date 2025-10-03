@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 20:07:51 GMT | Neural Interfaces: Brain-Computer Links on the Horizon | Jason Han | [Read More](https://medium.com/p/9fb68c02bacd) |
+| Fri, 03 Oct 2025 20:06:18 GMT | TryHackMe - Data Exfiltration Detection - WriteUp | Axoloth | [Read More](https://medium.com/p/fbbae884fd83) |
+| Fri, 03 Oct 2025 20:05:49 GMT | The Human Future with AI in 2030 | Bholendra Kumar Singh | [Read More](https://medium.com/p/072be0d6c0a7) |
+| Fri, 03 Oct 2025 19:55:23 GMT | Why Paying for Courses or Internships Isn’t Worth It | Resec | [Read More](https://medium.com/p/5e8559f5e675) |
+| Fri, 03 Oct 2025 19:52:08 GMT | Tech Detox: How to Unplug and Reclaim Your Digital Life | Jason Han | [Read More](https://medium.com/p/ed587914ea3d) |
+| Fri, 03 Oct 2025 19:51:57 GMT | Digital Defense: Overcome Big Tech and AI Threats | O Código Futuro | [Read More](https://medium.com/p/c72fc43c9140) |
+| Fri, 03 Oct 2025 19:50:35 GMT | TryHackMe Walkthrough — Anonymous CTF (Beginner Friendly) | Stella Obatoye | [Read More](https://medium.com/p/c0132d01022f) |
+| Fri, 03 Oct 2025 19:40:27 GMT | Dear 17-Year-Old Me: We’re Going To Be (More Than) Okay. | Char Wong-Richardson | [Read More](https://medium.com/p/6614e67b9530) |
 | Fri, 03 Oct 2025 19:28:42 GMT | SCATTERED SPİDER İNCELEME | kaan turanli | [Read More](https://medium.com/p/3b9eed05e6d2) |
 | Fri, 03 Oct 2025 19:28:05 GMT | Ascension — Hack Smarter Walkthrough | He_Hacks | [Read More](https://medium.com/p/801b0cbee879) |
 | Fri, 03 Oct 2025 19:14:40 GMT | MDR Cybersecurity Solutions: Why Businesses Need Managed Detection and Response | SafeAeon Inc. | [Read More](https://medium.com/p/a3ab09407e0a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 13:44:19 GMT | Why I Always Secure GRUB on Linux Servers Before Going Live | Faruk Ahmed | [Read More](https://medium.com/p/387144fcf006) |
 | Fri, 03 Oct 2025 13:43:30 GMT | Autonomous Agent Trap? | Mohammed Brückner | [Read More](https://medium.com/p/f64a70243cb8) |
 | Fri, 03 Oct 2025 13:42:11 GMT | CompTIA SecAI+ (beta): What you should know and how you can prepare for the exam | Ayush Jain | [Read More](https://medium.com/p/0573364d2b98) |
-| Fri, 03 Oct 2025 13:42:09 GMT | Docker Security: Why Your Containers Are Probably Less Secure Than You Think | Hassan Zreik | [Read More](https://medium.com/p/b31efba2b010) |
-| Fri, 03 Oct 2025 13:36:55 GMT | Beyond Uptime: Reimagining IT Operations and the Digital Workplace for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/871d218632fb) |
-| Fri, 03 Oct 2025 13:34:38 GMT | Parameter Pollution (Server-Side): From Test to Exploit | L4V4NY4  AGR3 | [Read More](https://medium.com/p/71c673aeef29) |
-| Fri, 03 Oct 2025 13:29:34 GMT | The Unity Vulnerability: A Wake-Up Call for Game Developers and Beyond | Steve Matindi | [Read More](https://medium.com/p/24b38eb3504b) |
-| Fri, 03 Oct 2025 13:13:34 GMT | Strong Passwords and Managers | John Odumesi | [Read More](https://medium.com/p/94c6ef8a2b35) |
-| Fri, 03 Oct 2025 13:12:26 GMT | Security and Performance Aspects of Kernel Module Development | Eren Cankut Uysal | [Read More](https://medium.com/p/da22c9f95617) |
-| Fri, 03 Oct 2025 13:07:08 GMT | PG Practice — Hawat (Linux) | Lepton | [Read More](https://medium.com/p/9ce4071daba5) |
-| Fri, 03 Oct 2025 13:02:33 GMT | My OpenBSD Adventures (8/8) | Antonio Francesco Gentile | [Read More](https://medium.com/p/d06d587656f2) |
