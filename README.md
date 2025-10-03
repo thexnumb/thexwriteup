@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 10:17:56 GMT | 2025 Cybersecurity Reality Check | Cybersecurity Umbrella | [Read More](https://medium.com/p/bdaca9b821a1) |
+| Fri, 03 Oct 2025 10:15:53 GMT | Top Cyber Threat Intelligence Platforms For African Organizations | O. J. Okpabi | [Read More](https://medium.com/p/ef2d4631633a) |
+| Fri, 03 Oct 2025 10:14:58 GMT | Red Hat Confirms Breach: When Trust Meets Turmoil | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/efdf535f50cf) |
+| Fri, 03 Oct 2025 10:14:52 GMT | TEEs were never the answer for signing blockchain transactions | OKcontract Chainwall | [Read More](https://medium.com/p/789cb22750d7) |
+| Fri, 03 Oct 2025 10:11:17 GMT | Phishing isn’t just in the inbox: The threats have moved mobile | Red Sift | [Read More](https://medium.com/p/3deb485d5939) |
+| Fri, 03 Oct 2025 10:11:09 GMT | Identifying Fake Online Stores | Ai Writter Tools | [Read More](https://medium.com/p/e801e00e716a) |
+| Fri, 03 Oct 2025 10:10:56 GMT | From Validation to Valuation: How BAS in CTEM Turns Into a Weapon Against OEM Licensing Bloat | Sahil Malvi | [Read More](https://medium.com/p/c1cdce513337) |
+| Fri, 03 Oct 2025 10:02:52 GMT | Ghosts in the Shells: The Haunting Afterlife of Abandoned Devices | Franziska "Ziska" Fink | [Read More](https://medium.com/p/74b06da738ee) |
+| Fri, 03 Oct 2025 10:02:11 GMT | Setup SSH in Kali Linux Machine | Mr Horbio | [Read More](https://medium.com/p/c38472508147) |
+| Fri, 03 Oct 2025 09:45:00 GMT | Future-Ready IoT Services for Smart and Connected Businesses | Juarait Digital | [Read More](https://medium.com/p/2a7b2c0bbbae) |
+| Fri, 03 Oct 2025 09:43:14 GMT | Network Discovery Detection on TryHackMe: Identify Scanning Techniques | Visir | [Read More](https://medium.com/p/b2dfee3dd4dd) |
+| Fri, 03 Oct 2025 09:40:29 GMT | Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability | Shah kaif | [Read More](https://medium.com/p/abbd579b5443) |
+| Fri, 03 Oct 2025 09:40:27 GMT | Why Society Wants Us to Stop Crying — And Why I Refuse | Not Exactly Ana | [Read More](https://medium.com/p/7f3a9c426100) |
+| Fri, 03 Oct 2025 09:39:54 GMT | Batterie Management Software Entwicklung und Sicherheit im Fokus | Mira-ee | [Read More](https://medium.com/p/05e32d264cff) |
 | Fri, 03 Oct 2025 09:31:52 GMT | Could teenage spies really be shaping events in the Ukraine–Russia war? | Ethan Marshall | [Read More](https://medium.com/p/3bd74d734763) |
 | Fri, 03 Oct 2025 09:31:42 GMT | Part 4: Detecting High-Risk Code Changes with Code Owners & Pull Request Security | Dean | [Read More](https://medium.com/p/11315a17bce9) |
 | Fri, 03 Oct 2025 09:31:33 GMT | Startup Cyber Insurance: Overthinking or Overlooking a Threat? | Authlyn | [Read More](https://medium.com/p/eeab3cf5f1c1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 05:20:31 GMT | Safeguarding Industrial Operations: The Critical Role of OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/6bf8ce20bd11) |
 | Fri, 03 Oct 2025 05:20:22 GMT | Bandit - Level 2→ 3- OverTheWire | Deepika  B | [Read More](https://medium.com/p/94091d855ce9) |
 | Fri, 03 Oct 2025 05:17:29 GMT | Cybersecurity Foundations Series: Part 3 — The Triple A’s and Privacy | TechStoryLines | [Read More](https://medium.com/p/e2a400582f18) |
-| Fri, 03 Oct 2025 05:17:06 GMT | Day 28 of 90DaysOfDevOps | Gaurvi Arora | [Read More](https://medium.com/p/345abda87402) |
-| Fri, 03 Oct 2025 05:06:58 GMT | How Can Artificial Intelligence Improve Your Business? | azim .M | [Read More](https://medium.com/p/21121444e51f) |
-| Fri, 03 Oct 2025 05:04:20 GMT | Bandit - Level 1→ 2- OverTheWire | Deepika  B | [Read More](https://medium.com/p/3c1a72bfd929) |
-| Fri, 03 Oct 2025 04:59:08 GMT | Biometric Identity Verification MENA | IdentifyME | [Read More](https://medium.com/p/9c618cd4066e) |
-| Fri, 03 Oct 2025 04:59:06 GMT | Broken Access Control — The Ultimate Practical Guide | Nitin yadav | [Read More](https://medium.com/p/6d58add0c991) |
-| Fri, 03 Oct 2025 04:47:17 GMT | Zero Trust Architecture in 2025: A Practical Developer’s Guide | Pratap Sahu | [Read More](https://medium.com/p/ca4be134a8af) |
-| Fri, 03 Oct 2025 04:39:33 GMT | Automation Testing Interview Questions | Pooja | [Read More](https://medium.com/p/e36f3f33b4ad) |
-| Fri, 03 Oct 2025 04:37:56 GMT | Praktikum Internet of Things: Digital Output | Muhammad Surya Saputro | [Read More](https://medium.com/p/f63df9fe3b3f) |
-| Fri, 03 Oct 2025 04:35:47 GMT | It Took Blood, Sweat, and Tears, But I Finally Collected All of TCM Security’s Academic Certs! | Athiwat Tiprasaharn | [Read More](https://medium.com/p/7e874a3f31e9) |
-| Fri, 03 Oct 2025 04:31:58 GMT | Tri-Secret Secure in Snowflake: Elevating Data Protection with Dual-Key Encryption | Rajiv Gupta | [Read More](https://medium.com/p/d8bf88d345c7) |
-| Fri, 03 Oct 2025 04:22:28 GMT | Growth Hacking with Python: 12 Scripts We Used for Viral User Acquisition | Arfa | [Read More](https://medium.com/p/426f94b63f5d) |
-| Fri, 03 Oct 2025 04:21:10 GMT | Your First Capture the Flag: How to Win Beginner CTFs (and Why They Work) | Fateyaly | [Read More](https://medium.com/p/7e4a3c53286e) |
-| Fri, 03 Oct 2025 04:20:34 GMT | The Day I Realized Cybersecurity Isn’t About Technology, It’s About People | Arfa | [Read More](https://medium.com/p/df78f7f1e405) |
-| Fri, 03 Oct 2025 04:17:08 GMT | How I Learned Ethical Hacking by Breaking My Own Apps (Safely) | Arfa | [Read More](https://medium.com/p/b817df393152) |
