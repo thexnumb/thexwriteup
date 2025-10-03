@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 05:04:20 GMT | Bandit - Level 1→ 2- OverTheWire | Deepika  B | [Read More](https://medium.com/p/3c1a72bfd929) |
+| Fri, 03 Oct 2025 04:59:08 GMT | Biometric Identity Verification MENA | IdentifyME | [Read More](https://medium.com/p/9c618cd4066e) |
+| Fri, 03 Oct 2025 04:59:06 GMT | Broken Access Control — The Ultimate Practical Guide | Nitin yadav | [Read More](https://medium.com/p/6d58add0c991) |
+| Fri, 03 Oct 2025 04:47:17 GMT | Zero Trust Architecture in 2025: A Practical Developer’s Guide | Pratap Sahu | [Read More](https://medium.com/p/ca4be134a8af) |
+| Fri, 03 Oct 2025 04:39:33 GMT | Automation Testing Interview Questions | Pooja | [Read More](https://medium.com/p/e36f3f33b4ad) |
+| Fri, 03 Oct 2025 04:37:56 GMT | Praktikum Internet of Things: Digital Output | Muhammad Surya Saputro | [Read More](https://medium.com/p/f63df9fe3b3f) |
 | Fri, 03 Oct 2025 04:35:47 GMT | It Took Blood, Sweat, and Tears, But I Finally Collected All of TCM Security’s Academic Certs! | Athiwat Tiprasaharn | [Read More](https://medium.com/p/7e874a3f31e9) |
 | Fri, 03 Oct 2025 04:31:58 GMT | Tri-Secret Secure in Snowflake: Elevating Data Protection with Dual-Key Encryption | Rajiv Gupta | [Read More](https://medium.com/p/d8bf88d345c7) |
 | Fri, 03 Oct 2025 04:22:28 GMT | Growth Hacking with Python: 12 Scripts We Used for Viral User Acquisition | Arfa | [Read More](https://medium.com/p/426f94b63f5d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 19:46:12 GMT | The risky business of software development | Via Knowledge Hub | [Read More](https://medium.com/p/5b62d24f0190) |
 | Thu, 02 Oct 2025 19:43:17 GMT | The Vulnerability Chronicles: A poem of opening up, titled I Threw Up | DamnAmazon | [Read More](https://medium.com/p/0395f1327baa) |
 | Thu, 02 Oct 2025 19:43:17 GMT | Car Jackings, Cybersecurity, and Python? The Power of Coding | Bartosz Kuligowski | [Read More](https://medium.com/p/080719312d62) |
-| Thu, 02 Oct 2025 19:32:14 GMT | A dev’s guide to hacking DoD compliance | Via Knowledge Hub | [Read More](https://medium.com/p/111daddc6536) |
-| Thu, 02 Oct 2025 19:32:11 GMT | The Windows Detective | Ops4Windows | [Read More](https://medium.com/p/dd3d2f45cf81) |
-| Thu, 02 Oct 2025 19:31:54 GMT | Measuring MTTD and MTTR in Vulnerability Management: Metrics That Actually Matter | Sai Krishna Kakarla | [Read More](https://medium.com/p/5fcbdf394f5d) |
-| Thu, 02 Oct 2025 19:27:28 GMT | How AI Can Make Security Systems Smarter and Better for Business | Vishnu Prashanth Sridhar | [Read More](https://medium.com/p/e3b771925f96) |
-| Thu, 02 Oct 2025 19:19:41 GMT | When the Artist Becomes the Exploit: Jailbreaking LLM Guardrails Through Roleplay and World… | Chris Huffstetler | [Read More](https://medium.com/p/d54f53a79756) |
-| Thu, 02 Oct 2025 19:18:05 GMT | Forget the Rest — One Programming Language Owns High-Frequency Trading | CodeWithPurpose | [Read More](https://medium.com/p/79d79999304a) |
