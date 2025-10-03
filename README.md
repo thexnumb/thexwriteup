@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 18:40:16 GMT | Unrestricted File Upload in Plugin Upload section in Thermo Fisher Ion Torrent Browser 5.10.1 | Sh11td0wn | [Read More](https://medium.com/p/ae93b49e6151) |
+| Fri, 03 Oct 2025 18:30:54 GMT | How Reading About Blockchain and Cybersecurity Gave Me a Career Edge | Aj | [Read More](https://medium.com/p/b009eeb8797f) |
+| Fri, 03 Oct 2025 18:30:40 GMT | The Art of Deception: Controlling the Human Element of Security | Samina Perveen | [Read More](https://medium.com/p/d7acff10ccfc) |
+| Fri, 03 Oct 2025 18:28:38 GMT | Tarih Öncesi Hatalar, Modern Tuzaklar: Rulo’nun Hikayesiyle Siber Güvenliği Anlamak | techtalks.academy | [Read More](https://medium.com/p/592f655b370c) |
+| Fri, 03 Oct 2025 18:28:34 GMT | The Hidden Cybersecurity Lessons Inside Classic Tech Books | Shahzaib | [Read More](https://medium.com/p/5e7cc323ee05) |
+| Fri, 03 Oct 2025 18:26:59 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/44f7c44862a9) |
 | Fri, 03 Oct 2025 18:22:10 GMT | Security Tests for FastAPI projects | Cristian | [Read More](https://medium.com/p/3cd10845b557) |
 | Fri, 03 Oct 2025 18:21:16 GMT | AI and the Policy of Most Privilege | Daniel Leeder | [Read More](https://medium.com/p/46506118453f) |
 | Fri, 03 Oct 2025 18:06:49 GMT | From Curiosity to DevSecOps: My Unlikely Journey Through Computers, CG, and Self-Learning | Deneth Vihara | [Read More](https://medium.com/p/3d51e9f17a3c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 12:24:59 GMT | When "I'm fine" is just a mask. | InHerWords | [Read More](https://medium.com/p/bd6355220f15) |
 | Fri, 03 Oct 2025 12:22:33 GMT | Debunking 2 Factor Authentication Myths: Separating Fact from Fiction | Anushka | [Read More](https://medium.com/p/8535e9fb42f0) |
 | Fri, 03 Oct 2025 12:21:56 GMT | How to Understand RaaS in Simple Steps | Ibtissam hammadi | [Read More](https://medium.com/p/50ae0eb411a2) |
-| Fri, 03 Oct 2025 12:21:16 GMT | Hidden Parameters in Mobile Apps: Mining APIs Through APK Reverse Engineering | Narendar Battula (nArEn) | [Read More](https://medium.com/p/3e23e3c30f96) |
-| Fri, 03 Oct 2025 12:20:02 GMT | Far will sabotage and information warfare stretch across occupied regions? | Ethan Marshall | [Read More](https://medium.com/p/e8886199da2a) |
-| Fri, 03 Oct 2025 12:19:45 GMT | Why U.S. Small Businesses Are Turning to Affordable Cybersecurity Services | SG Computer | [Read More](https://medium.com/p/abcfe187713a) |
-| Fri, 03 Oct 2025 12:19:37 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/97eba977f22c) |
-| Fri, 03 Oct 2025 12:14:16 GMT | When Signals Vanish at 22,000 Miles — Putin’s Orbital Jamming Onslaught Begins | The Forensic Archive | [Read More](https://medium.com/p/f6d953e70a12) |
-| Fri, 03 Oct 2025 12:12:52 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/c5793d538e7d) |
