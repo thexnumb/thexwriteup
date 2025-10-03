@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 03:05:20 GMT | Security Vulnerabilities in Early-Stage Products: Why SaaS Startups Need SaaS Security Best… | Adnan Umar | [Read More](https://medium.com/p/09918b600bff) |
+| Fri, 03 Oct 2025 02:59:15 GMT | MCP Security: Strengthening Trust in the Model Context Protocol | Paritosh | [Read More](https://medium.com/p/6f108c855088) |
+| Fri, 03 Oct 2025 02:58:21 GMT | Experiment with building a simple SOC lab using Wazuh, complete with custom rules, threat… | Andry Maulana Akbar | [Read More](https://medium.com/p/e17393574199) |
+| Fri, 03 Oct 2025 02:57:53 GMT | TryHackMe Walkthrough: Network Security Essentials | Tanwietayim A | [Read More](https://medium.com/p/29c799f341a9) |
+| Fri, 03 Oct 2025 02:50:06 GMT | A New Home for Free Learning: Introducing Live.dinesh049.shop | TEAM DH49 | [Read More](https://medium.com/p/78a3c4c43837) |
+| Fri, 03 Oct 2025 02:41:17 GMT | LLMs can be tricked — and that’s a bigger deal than you might think. | Akhilesh Yadav | [Read More](https://medium.com/p/b03c026c3a98) |
+| Fri, 03 Oct 2025 02:40:03 GMT | Fortifying Your Django API: A Practical Guide to Rate Limiting and Bot Protection | TheHopeson | [Read More](https://medium.com/p/5efe39ad07d3) |
+| Fri, 03 Oct 2025 02:32:50 GMT | When the World Feels Too Much: How Creativity Reprograms the Highly Sensitive Mind for Abundance | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/c0dfef7a8a95) |
 | Fri, 03 Oct 2025 02:30:51 GMT | TryHackMe: Network Discovery Detection | Tanwietayim A | [Read More](https://medium.com/p/7700e598731a) |
 | Fri, 03 Oct 2025 02:17:51 GMT | Private By Design: n8n for Privacy-First Teams | Hash Block | [Read More](https://medium.com/p/af9ca9b208b9) |
 | Fri, 03 Oct 2025 02:17:10 GMT | I Caught My Aunt with Another Man and Hid His Keys | Victor Ude | [Read More](https://medium.com/p/36a7ece22bd6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 18:10:42 GMT | SGS Consulting Recognized as a 2025 Randstad Sourceright Preferred Supplier | SGS Consulting | [Read More](https://medium.com/p/16ad79324ed4) |
 | Thu, 02 Oct 2025 18:07:40 GMT | The Modern IT Help Desk Software Your Team Needs | Krista White | [Read More](https://medium.com/p/246e530f6038) |
 | Thu, 02 Oct 2025 18:07:30 GMT | Mastering Ethical Hacking: How EC-Council Certifications Can Boost Your Cybersecurity Career | Shreyashettyctr | [Read More](https://medium.com/p/d8c2e8deb8cd) |
-| Thu, 02 Oct 2025 18:06:29 GMT | Crafting Secure Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/335a2ac85b88) |
-| Thu, 02 Oct 2025 17:58:23 GMT | The USB Rubber Ducky: Why Leaving Your Laptop Unattended Is Not A Good Idea | Adrian Maull | [Read More](https://medium.com/p/64f1c91a66e7) |
-| Thu, 02 Oct 2025 17:57:42 GMT | Go HTTPS Server: Building, Testing and Monitoring Secure Connections | Harishkumar Pillai | [Read More](https://medium.com/p/cb696332ee27) |
-| Thu, 02 Oct 2025 17:56:54 GMT | My first 5-Minute Bug Bounty | Appsec.pt | [Read More](https://medium.com/p/1465e2cb517c) |
-| Thu, 02 Oct 2025 17:51:37 GMT | Scrubbing Secrets: A Practical POC Using Gitleaks and git filter-repo | Sreejith V | [Read More](https://medium.com/p/08c64b8d246c) |
-| Thu, 02 Oct 2025 17:49:45 GMT | Deep Dive into AppArmor Profiles on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/0ba7bba1b185) |
-| Thu, 02 Oct 2025 17:41:39 GMT | AppArmor Profiles for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/d9285b072c46) |
-| Thu, 02 Oct 2025 17:37:41 GMT | How Modern Browsers Block Ads: A Technical Deep Dive | Nipun Negi | [Read More](https://medium.com/p/9cfe22610a74) |
