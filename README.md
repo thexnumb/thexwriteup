@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 08:16:23 GMT | Try Hack Me — Year of The Rabbit Walkthrough | Kebronmemes | [Read More](https://medium.com/p/c5fa6577b245) |
+| Fri, 03 Oct 2025 08:12:13 GMT | Securing Your Spring Boot App: Practical Tips You Can’t Skip | Jaytech | [Read More](https://medium.com/p/94e001256da0) |
+| Fri, 03 Oct 2025 08:07:34 GMT | Lost Your Crypto? Here’s How to Recover Stolen or Inaccessible Digital Assets | Boleyn Magic Hackers | [Read More](https://medium.com/p/d19c7b447b4f) |
+| Fri, 03 Oct 2025 08:02:46 GMT | Agentic Operations: Transforming IT Infrastructure Management with Microsoft’s AI Ecosystem and… | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/355964d223b5) |
+| Fri, 03 Oct 2025 08:02:15 GMT | Stop Employee Account Takeovers Before They Start | Alexandre Vandamme | [Read More](https://medium.com/p/44662d188536) |
+| Fri, 03 Oct 2025 08:00:21 GMT | Android Kiosk Mode: 9 Functionalities to Try | Vantage MDM | [Read More](https://medium.com/p/052b313dbc28) |
+| Fri, 03 Oct 2025 07:59:33 GMT | DockerLabs Writeup — BorazuwarahCTF (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c212b998312d) |
+| Fri, 03 Oct 2025 07:58:30 GMT | The Digital Fortress Unveiled | Cyber Security Research | [Read More](https://medium.com/p/97c2a17b5177) |
+| Fri, 03 Oct 2025 07:56:55 GMT | Bandit - Level 5→ 6- OverTheWire | Deepika  B | [Read More](https://medium.com/p/6f906e61116b) |
+| Fri, 03 Oct 2025 07:54:15 GMT | PCI Policy: What Actually Matters in Payment Security | M. Ben | [Read More](https://medium.com/p/e3d65fb5fb1d) |
+| Fri, 03 Oct 2025 07:53:48 GMT | Security Guard Services in Qatar: The Key to Safer Homes, Businesses, and Events | Fss | [Read More](https://medium.com/p/ab13f68ee53f) |
+| Fri, 03 Oct 2025 07:52:00 GMT | Google Cloud (GCP) Privilege Escalation Scenarios | Esra Kayhan | [Read More](https://medium.com/p/9c862edb0769) |
+| Fri, 03 Oct 2025 07:45:38 GMT | Praktikum Internet of Things (Tugas): Digital Output | Muhammad Surya Saputro | [Read More](https://medium.com/p/641af147c547) |
+| Fri, 03 Oct 2025 07:44:13 GMT | Anatomy of a Breach | Cyber Security Research | [Read More](https://medium.com/p/1287445dfbc4) |
+| Fri, 03 Oct 2025 07:38:30 GMT | Unlocking the Secrets of VAPT Reports: A Comprehensive Sample Guide | Qualysec | [Read More](https://medium.com/p/0c29f2f6529f) |
+| Fri, 03 Oct 2025 07:37:46 GMT | Incident Response in Banking: Protecting Trust and Financial Stability | Vedantkathale | [Read More](https://medium.com/p/fa1de533a5bc) |
+| Fri, 03 Oct 2025 07:36:21 GMT | I Learned How to Disappear in Plain Sight | Erum Khan | [Read More](https://medium.com/p/3f43b5123125) |
 | Fri, 03 Oct 2025 07:33:21 GMT | Why U.S. Companies Are Turning to IT Staff Augmentation in 2026 | Danial | [Read More](https://medium.com/p/e3d9825e2179) |
+| Fri, 03 Oct 2025 07:32:36 GMT | Why Fire Watch Security is Critical for Construction Sites in Alberta | Hirasarfraz | [Read More](https://medium.com/p/a20f5165d78b) |
 | Fri, 03 Oct 2025 07:27:53 GMT | Bandit - Level 4→ 5- OverTheWire | Deepika  B | [Read More](https://medium.com/p/a6f2d59ee281) |
+| Fri, 03 Oct 2025 07:27:14 GMT | When love seems difficult- Until it doesn’t ❤️ | Nandita Dehra | [Read More](https://medium.com/p/3abeeb974714) |
 | Fri, 03 Oct 2025 07:25:29 GMT | Dear old me, | Sena Sheila | [Read More](https://medium.com/p/dfa8d29bba90) |
 | Fri, 03 Oct 2025 07:24:20 GMT | The Daily Tech Digest: 03 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a9762593f2a6) |
 | Fri, 03 Oct 2025 07:24:05 GMT | Elevating Customer Service Excellence with ServiceNow CSM Workflow Automation | Alex s | [Read More](https://medium.com/p/f96914b6d3ab) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 02:07:01 GMT | Advanced Static Analysis | Tony Khalil Rodgers | [Read More](https://medium.com/p/07afa5d9b509) |
 | Fri, 03 Oct 2025 02:00:11 GMT | Security and Performance Aspects of IRQ Affinity Optimization | Eren Cankut Uysal | [Read More](https://medium.com/p/213b6686bf78) |
 | Fri, 03 Oct 2025 01:54:15 GMT | Brick by Brick: Why I’m Choosing to Document My Cybersecurity Journey | Boluwatife shopeju | [Read More](https://medium.com/p/b4d3ae104eb7) |
-| Fri, 03 Oct 2025 01:36:00 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/650b7ab18eee) |
-| Fri, 03 Oct 2025 01:29:21 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/6725b6daf5a9) |
-| Fri, 03 Oct 2025 01:28:37 GMT | Hack the Box — Shoppy — WriteUp | Emre A. | [Read More](https://medium.com/p/3fdaa21dcbd6) |
-| Fri, 03 Oct 2025 01:28:13 GMT | Summary of “Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing… | Shadman Hossain | [Read More](https://medium.com/p/a181f354139f) |
-| Fri, 03 Oct 2025 01:22:11 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/24fb9536ad4d) |
-| Fri, 03 Oct 2025 01:22:07 GMT | How to Raise Excellent Children: The Power of Unconditional Positive Regard | Fower Leo | [Read More](https://medium.com/p/6125bdfe43c6) |
-| Fri, 03 Oct 2025 01:16:25 GMT | The Key to Lasting Charisma: Embracing Authenticity in Relationships | Xiaochen | [Read More](https://medium.com/p/51813e6bcd21) |
-| Fri, 03 Oct 2025 01:14:22 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/cdf8900c1143) |
-| Fri, 03 Oct 2025 01:12:55 GMT | Dropbox Passwords Is Shutting Down: What Users Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/ead69c2a33d9) |
-| Fri, 03 Oct 2025 01:06:54 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/96c17ba07a1d) |
-| Fri, 03 Oct 2025 01:00:58 GMT | Starting Over at 22: My 100 Days Back Into Cybersecurity | Andrej Glavnik | [Read More](https://medium.com/p/236272f09da4) |
-| Fri, 03 Oct 2025 00:59:21 GMT | Cybersecurity in a Connected World: Challenges and Opportunities | Cyber Security Research | [Read More](https://medium.com/p/86b9ffe76746) |
-| Fri, 03 Oct 2025 00:52:57 GMT | The Truth About Cybersecurity: Myths vs. Reality | Cyber Security Research | [Read More](https://medium.com/p/138e9c344ff4) |
-| Fri, 03 Oct 2025 00:47:31 GMT | Navigating the Complexities of Cybersecurity Compliance | Cyber Security Research | [Read More](https://medium.com/p/11c606c0e845) |
-| Fri, 03 Oct 2025 00:41:17 GMT | Cybersecurity for Everyone: Protecting Yourself in the Digital Age | Cyber Security Research | [Read More](https://medium.com/p/6e072a01750d) |
-| Fri, 03 Oct 2025 00:34:54 GMT | The Cybersecurity Mindset: Thinking Like a Hacker | Cyber Security Research | [Read More](https://medium.com/p/63c90c94321e) |
-| Fri, 03 Oct 2025 00:24:54 GMT | Spotlight on New CST Degree | Kiley Parker | [Read More](https://medium.com/p/b6498fa16220) |
-| Fri, 03 Oct 2025 00:22:37 GMT | OpenShift - Pod Security Standards, Security Context Constraints, Oh My! | W. Jenks Gibbons | [Read More](https://medium.com/p/3e966c16e8d6) |
-| Fri, 03 Oct 2025 00:14:03 GMT | Comprehensive Report on Bias in Large Language Models (LLMs) | Emile J Fagerstrom IV #Bofaf #t3 #1CallWest | [Read More](https://medium.com/p/6d776adc910d) |
