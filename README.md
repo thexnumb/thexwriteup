@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 17:03:03 GMT | Top 5 Cyber Threats | Farah Maqbool | [Read More](https://medium.com/p/9b9095eb1b4c) |
+| Fri, 03 Oct 2025 16:52:06 GMT | What does Zero Trust look like in real-world managed cloud implementations? | Cloud4C Services | [Read More](https://medium.com/p/147c6ea2bcfd) |
+| Fri, 03 Oct 2025 16:41:48 GMT | A Guide to Avoiding Prompt Injection Attacks | Manu Cohen-Yashar | [Read More](https://medium.com/p/e87d7ed95750) |
+| Fri, 03 Oct 2025 16:39:36 GMT | DeepSafe : The Verification Layer, A New Foundation for Web3 Security | 0xBay404 | [Read More](https://medium.com/p/ffa2d5cf9d92) |
+| Fri, 03 Oct 2025 16:37:47 GMT | Lessons from a Security Incident: Why You Should Never Store Credentials in Source Code | Rajesh Thakur | [Read More](https://medium.com/p/0cac4a8f50e3) |
+| Fri, 03 Oct 2025 16:33:12 GMT | How to prevent secrets ending up in log files? | Richard Lucas | [Read More](https://medium.com/p/e6abaf255bec) |
 | Fri, 03 Oct 2025 16:32:55 GMT | ffuf Tool Explained: Finding Hidden Doors on the Web | Natarajan C K | [Read More](https://medium.com/p/37e7dc76e97c) |
 | Fri, 03 Oct 2025 16:28:30 GMT | Aquarium Chaos: How Broken API Let Me Hijack Smart Fish Tanks Remotely | hacker_might | [Read More](https://medium.com/p/7c857cf2d3d0) |
 | Fri, 03 Oct 2025 16:23:35 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6b2f11180bdd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 11:34:13 GMT | Swiss Army Knife Series: Episode 1—Regex | Mirage43 | [Read More](https://medium.com/p/94f282345115) |
 | Fri, 03 Oct 2025 11:26:37 GMT | The Essential Cybersecurity Checklist: Protecting Your Data and Devices | Cyber Security Research | [Read More](https://medium.com/p/edfee1c3dc63) |
 | Fri, 03 Oct 2025 11:26:22 GMT | The Role of Kiosk Machines in Creating Hassle-Free Travel Experiences | Rakesh | [Read More](https://medium.com/p/55a85171ef7b) |
-| Fri, 03 Oct 2025 11:25:33 GMT | LATAM Defense Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/3d899101b46d) |
-| Fri, 03 Oct 2025 11:23:42 GMT | The Secret Power of PostgreSQL That Big Tech Doesn’t Want You to Know | Rizqi Mulki | [Read More](https://medium.com/p/01fb2e933abb) |
-| Fri, 03 Oct 2025 11:20:00 GMT | A Step-by-Step Guide to Asymmetric JWT Authentication | Anvisha | [Read More](https://medium.com/p/c6b72697d37b) |
-| Fri, 03 Oct 2025 11:10:52 GMT | PostgreSQL 17: Performance Benchmarks with Enhanced Security Features | Rizqi Mulki | [Read More](https://medium.com/p/0f85d34bfb68) |
-| Fri, 03 Oct 2025 11:08:37 GMT | LLMs in security, risk & compliance: When to rely on ChatGPT and when not to | SIRV - AI to help manage threats and disruption | [Read More](https://medium.com/p/39b424ccd40f) |
-| Fri, 03 Oct 2025 11:05:55 GMT | HackerOne Paid $81 in Bug Bounty With Emergence of Bionic Hackers | Jasmitharouthu | [Read More](https://medium.com/p/ca26df497400) |
