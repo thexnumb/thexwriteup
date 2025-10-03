@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 13:34:38 GMT | Parameter Pollution (Server-Side): From Test to Exploit | L4V4NY4  AGR3 | [Read More](https://medium.com/p/71c673aeef29) |
+| Fri, 03 Oct 2025 13:29:34 GMT | The Unity Vulnerability: A Wake-Up Call for Game Developers and Beyond | Steve Matindi | [Read More](https://medium.com/p/24b38eb3504b) |
 | Fri, 03 Oct 2025 13:13:34 GMT | Strong Passwords and Managers | John Odumesi | [Read More](https://medium.com/p/94c6ef8a2b35) |
 | Fri, 03 Oct 2025 13:12:26 GMT | Security and Performance Aspects of Kernel Module Development | Eren Cankut Uysal | [Read More](https://medium.com/p/da22c9f95617) |
 | Fri, 03 Oct 2025 13:07:08 GMT | PG Practice — Hawat (Linux) | Lepton | [Read More](https://medium.com/p/9ce4071daba5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 08:36:00 GMT | Cyber Security Institute Bangalore: Preparing Tomorrow’s Cyber Security Professionals. | Parvathydileep | [Read More](https://medium.com/p/68518ca292c1) |
 | Fri, 03 Oct 2025 08:35:21 GMT | Data’s Last Stand | Cyber Security Research | [Read More](https://medium.com/p/334bb642954c) |
 | Fri, 03 Oct 2025 08:22:23 GMT | How Ransomware Threats Are Closing In On African Banks | O. J. Okpabi | [Read More](https://medium.com/p/21cd24e08ad2) |
-| Fri, 03 Oct 2025 08:18:53 GMT | 7 Traits All Top Custom Software Development Companies on Clutch Share | Mahil Jasani | [Read More](https://medium.com/p/dd4a8e0693cc) |
-| Fri, 03 Oct 2025 08:16:23 GMT | Try Hack Me — Year of The Rabbit Walkthrough | Kebronmemes | [Read More](https://medium.com/p/c5fa6577b245) |
