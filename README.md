@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 19:28:42 GMT | SCATTERED SPİDER İNCELEME | kaan turanli | [Read More](https://medium.com/p/3b9eed05e6d2) |
+| Fri, 03 Oct 2025 19:28:05 GMT | Ascension — Hack Smarter Walkthrough | He_Hacks | [Read More](https://medium.com/p/801b0cbee879) |
+| Fri, 03 Oct 2025 19:14:40 GMT | MDR Cybersecurity Solutions: Why Businesses Need Managed Detection and Response | SafeAeon Inc. | [Read More](https://medium.com/p/a3ab09407e0a) |
+| Fri, 03 Oct 2025 19:11:20 GMT | ISC 2021 Forensic Contest Walk-through - Network Traffic Analysis | Cybill383 | [Read More](https://medium.com/p/aadbe6ba9590) |
 | Fri, 03 Oct 2025 18:51:53 GMT | Voice Assistants Evolved: Siri, Alexa, and Beyond in 2025 | Jason Han | [Read More](https://medium.com/p/a9fa256c72a2) |
 | Fri, 03 Oct 2025 18:47:24 GMT | Tryhackme — Heist WriteUp Türkçe | nightbird | [Read More](https://medium.com/p/b97aee52f099) |
 | Fri, 03 Oct 2025 18:43:08 GMT | Day 10 — Mastering Autopsy: A Beginner’s Guide to Digital Forensics | HackTrace | [Read More](https://medium.com/p/e46f7852f6bb) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 13:12:26 GMT | Security and Performance Aspects of Kernel Module Development | Eren Cankut Uysal | [Read More](https://medium.com/p/da22c9f95617) |
 | Fri, 03 Oct 2025 13:07:08 GMT | PG Practice — Hawat (Linux) | Lepton | [Read More](https://medium.com/p/9ce4071daba5) |
 | Fri, 03 Oct 2025 13:02:33 GMT | My OpenBSD Adventures (8/8) | Antonio Francesco Gentile | [Read More](https://medium.com/p/d06d587656f2) |
-| Fri, 03 Oct 2025 13:02:28 GMT | Your Missing Emails Aren’t a Glitch | Janeel Abrahams | [Read More](https://medium.com/p/de9232755954) |
-| Fri, 03 Oct 2025 13:02:24 GMT | CloudMile Raises $58M: Taiwan’s Cloud AI Startup Expands Across Southeast Asia | White Hsu | [Read More](https://medium.com/p/6da21e50d7d7) |
-| Fri, 03 Oct 2025 12:51:14 GMT | How to Improve Employee Attendance with Technology & HRMS Software | TrueTym | [Read More](https://medium.com/p/afae4eeb9333) |
-| Fri, 03 Oct 2025 12:49:43 GMT | Submarine Cable Damages As Cyber Risk | Tailor-made Actuarial and Statistical Consulting | [Read More](https://medium.com/p/f8fb81562a16) |
