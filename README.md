@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 09:17:00 GMT | Building a Community-Driven Cyber Attack Tracker for Alberta: Transparency in the Age of Digital… | Jared Douville | [Read More](https://medium.com/p/b5ba83fa89bc) |
+| Fri, 03 Oct 2025 09:16:58 GMT | From the archive: Software bugs | Mansfield-Devine | [Read More](https://medium.com/p/b584d5499372) |
+| Fri, 03 Oct 2025 09:14:11 GMT | AI-Designed Viruses: Are We Building Our Own Apocalypse? | Emili | [Read More](https://medium.com/p/7be74dabd11c) |
+| Fri, 03 Oct 2025 09:12:30 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/c405ef860550) |
+| Fri, 03 Oct 2025 09:09:20 GMT | IoT Ready: Connect Your Self Service Kiosk Machines for Real-Time Data | Rakesh | [Read More](https://medium.com/p/11df39eb3278) |
+| Fri, 03 Oct 2025 09:08:35 GMT | Red Hat Hack: What’s Breached? What’s Next For Security? | Truspex | [Read More](https://medium.com/p/49a12d3bb83a) |
+| Fri, 03 Oct 2025 09:06:20 GMT | Upgrading My K0s Raspberry Pi 5 Cluster to Trixie | Bruno Bernard | [Read More](https://medium.com/p/74e26f15bb85) |
+| Fri, 03 Oct 2025 08:55:26 GMT | No Degree? No Certs? Cybersecurity Win! “How I Did It.” | Devquest | [Read More](https://medium.com/p/a2a4c56b5005) |
+| Fri, 03 Oct 2025 08:52:30 GMT | The Ultimate Third-Party Risk Management Solution | Burak DÜNDAR | [Read More](https://medium.com/p/b9eebbf4ea1e) |
+| Fri, 03 Oct 2025 08:46:52 GMT | PT-1 Certification: The New Sheriff in the Pentesting Town | Jinendar Kothari | [Read More](https://medium.com/p/f836717d2f34) |
+| Fri, 03 Oct 2025 08:41:32 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/6fc2f3a241b2) |
+| Fri, 03 Oct 2025 08:39:07 GMT | Best IT Infrastructure Monitoring Tools Reviews 2025 | Michel mathew | [Read More](https://medium.com/p/ee67b8f7f1e5) |
+| Fri, 03 Oct 2025 08:36:00 GMT | Cyber Security Institute Bangalore: Preparing Tomorrow’s Cyber Security Professionals. | Parvathydileep | [Read More](https://medium.com/p/68518ca292c1) |
+| Fri, 03 Oct 2025 08:35:21 GMT | Data’s Last Stand | Cyber Security Research | [Read More](https://medium.com/p/334bb642954c) |
 | Fri, 03 Oct 2025 08:22:23 GMT | How Ransomware Threats Are Closing In On African Banks | O. J. Okpabi | [Read More](https://medium.com/p/21cd24e08ad2) |
 | Fri, 03 Oct 2025 08:18:53 GMT | 7 Traits All Top Custom Software Development Companies on Clutch Share | Mahil Jasani | [Read More](https://medium.com/p/dd4a8e0693cc) |
 | Fri, 03 Oct 2025 08:16:23 GMT | Try Hack Me — Year of The Rabbit Walkthrough | Kebronmemes | [Read More](https://medium.com/p/c5fa6577b245) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 03:50:34 GMT | Security for Android Developers (part 1) | Dinorah Tovar | [Read More](https://medium.com/p/ce5b63bcf82a) |
 | Fri, 03 Oct 2025 03:46:44 GMT | How Cybersecurity OEMs Can Win the Trust of the Next-Gen Workforce | Dr. Deep Pandey | [Read More](https://medium.com/p/7e26cdba31e7) |
 | Fri, 03 Oct 2025 03:42:06 GMT | Windows: From User to Root | Ops4Windows | [Read More](https://medium.com/p/5729b2f2183a) |
-| Fri, 03 Oct 2025 03:31:52 GMT | Top 4 Benefits of Idempotency in Node.js APIs | Arunangshu Das | [Read More](https://medium.com/p/994a6d883566) |
-| Fri, 03 Oct 2025 03:05:20 GMT | Security Vulnerabilities in Early-Stage Products: Why SaaS Startups Need SaaS Security Best… | Adnan Umar | [Read More](https://medium.com/p/09918b600bff) |
-| Fri, 03 Oct 2025 02:59:15 GMT | MCP Security: Strengthening Trust in the Model Context Protocol | Paritosh | [Read More](https://medium.com/p/6f108c855088) |
-| Fri, 03 Oct 2025 02:58:21 GMT | Experiment with building a simple SOC lab using Wazuh, complete with custom rules, threat… | Andry Maulana Akbar | [Read More](https://medium.com/p/e17393574199) |
-| Fri, 03 Oct 2025 02:57:53 GMT | TryHackMe Walkthrough: Network Security Essentials | Tanwietayim A | [Read More](https://medium.com/p/29c799f341a9) |
-| Fri, 03 Oct 2025 02:50:06 GMT | A New Home for Free Learning: Introducing Live.dinesh049.shop | TEAM DH49 | [Read More](https://medium.com/p/78a3c4c43837) |
-| Fri, 03 Oct 2025 02:41:17 GMT | LLMs can be tricked — and that’s a bigger deal than you might think. | Akhilesh Yadav | [Read More](https://medium.com/p/b03c026c3a98) |
-| Fri, 03 Oct 2025 02:40:03 GMT | Fortifying Your Django API: A Practical Guide to Rate Limiting and Bot Protection | TheHopeson | [Read More](https://medium.com/p/5efe39ad07d3) |
-| Fri, 03 Oct 2025 02:32:50 GMT | When the World Feels Too Much: How Creativity Reprograms the Highly Sensitive Mind for Abundance | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/c0dfef7a8a95) |
-| Fri, 03 Oct 2025 02:30:51 GMT | TryHackMe: Network Discovery Detection | Tanwietayim A | [Read More](https://medium.com/p/7700e598731a) |
-| Fri, 03 Oct 2025 02:17:51 GMT | Private By Design: n8n for Privacy-First Teams | Hash Block | [Read More](https://medium.com/p/af9ca9b208b9) |
-| Fri, 03 Oct 2025 02:17:10 GMT | I Caught My Aunt with Another Man and Hid His Keys | Victor Ude | [Read More](https://medium.com/p/36a7ece22bd6) |
-| Fri, 03 Oct 2025 02:13:35 GMT | How to Stop Your Slides from Getting Leaked (Without Paying for Expensive Tools) | ven coding | [Read More](https://medium.com/p/247dc06928bc) |
-| Fri, 03 Oct 2025 02:12:10 GMT | Let it Out” | Heal Time | [Read More](https://medium.com/p/c9eea05bf0b9) |
