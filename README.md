@@ -12,7 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 12:30:25 GMT | How The Web Works [Part 3] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/309c98d85ea0) |
+| Fri, 03 Oct 2025 12:24:59 GMT | When "I'm fine" is just a mask. | InHerWords | [Read More](https://medium.com/p/bd6355220f15) |
+| Fri, 03 Oct 2025 12:22:33 GMT | Debunking 2 Factor Authentication Myths: Separating Fact from Fiction | Anushka | [Read More](https://medium.com/p/8535e9fb42f0) |
+| Fri, 03 Oct 2025 12:21:56 GMT | How to Understand RaaS in Simple Steps | Ibtissam hammadi | [Read More](https://medium.com/p/50ae0eb411a2) |
+| Fri, 03 Oct 2025 12:21:16 GMT | Hidden Parameters in Mobile Apps: Mining APIs Through APK Reverse Engineering | Narendar Battula (nArEn) | [Read More](https://medium.com/p/3e23e3c30f96) |
+| Fri, 03 Oct 2025 12:20:02 GMT | Far will sabotage and information warfare stretch across occupied regions? | Ethan Marshall | [Read More](https://medium.com/p/e8886199da2a) |
+| Fri, 03 Oct 2025 12:19:45 GMT | Why U.S. Small Businesses Are Turning to Affordable Cybersecurity Services | SG Computer | [Read More](https://medium.com/p/abcfe187713a) |
+| Fri, 03 Oct 2025 12:19:37 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/97eba977f22c) |
+| Fri, 03 Oct 2025 12:14:16 GMT | When Signals Vanish at 22,000 Miles — Putin’s Orbital Jamming Onslaught Begins | The Forensic Archive | [Read More](https://medium.com/p/f6d953e70a12) |
+| Fri, 03 Oct 2025 12:12:52 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/c5793d538e7d) |
+| Fri, 03 Oct 2025 12:08:23 GMT | ️‍♂️ How I Built Bug-hunter MVP: A Beginner’s Roadmap for Bug Bounty Hunting | ghostyjoe | [Read More](https://medium.com/p/2c81d295d7da) |
+| Fri, 03 Oct 2025 12:03:09 GMT | The Day Your AI Agent Turned Into a Sociopath | Napoleon Beltran | [Read More](https://medium.com/p/fa1198405725) |
+| Fri, 03 Oct 2025 12:02:03 GMT | pwn.college: Dealing with Data | Sourav Bose | [Read More](https://medium.com/p/1d7bac04c1a4) |
+| Fri, 03 Oct 2025 12:01:54 GMT | Improper HTML in Chat Leads to Phishing Attacks | 0verRida | [Read More](https://medium.com/p/b931ac3e8a4c) |
+| Fri, 03 Oct 2025 11:57:48 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/a26e97ebe7ac) |
+| Fri, 03 Oct 2025 11:57:34 GMT | Welded Mesh Fencing (سياج شبكي ملحوم): The Ideal Security Solution for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/45dbfbb80402) |
+| Fri, 03 Oct 2025 11:48:24 GMT | How reading documentation led to a €1500 bounty | 0xBruno | [Read More](https://medium.com/p/1429906c07b1) |
+| Fri, 03 Oct 2025 11:48:18 GMT | Ensuring Safety with Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/e42a2bce4098) |
+| Fri, 03 Oct 2025 11:47:32 GMT | Critical- Information Disclosure Bug Closed as Duplicated | Swee2ooth | [Read More](https://medium.com/p/4daed2542d70) |
+| Fri, 03 Oct 2025 11:46:51 GMT | Lessons From Recent Data Breaches In Africa | O. J. Okpabi | [Read More](https://medium.com/p/251c7fdfdaad) |
+| Fri, 03 Oct 2025 11:44:32 GMT | Cybersecurity: The Rising Shield of the Digital Era | SIIMT University College, Ghana | [Read More](https://medium.com/p/bcd8deab6080) |
+| Fri, 03 Oct 2025 11:44:26 GMT | Implementing OKTA SSO in Apache Superset | Harshvijaythakkar | [Read More](https://medium.com/p/848f44e1f4da) |
+| Fri, 03 Oct 2025 11:38:14 GMT | PsExec Hunt Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/dd303f45c48f) |
+| Fri, 03 Oct 2025 11:36:18 GMT | How I Passed the Hack The Box CPTS Certification: Preparation and Key Takeaways | boltx | [Read More](https://medium.com/p/71a3ab0162c1) |
 | Fri, 03 Oct 2025 11:34:13 GMT | Swiss Army Knife Series: Episode 1—Regex | Mirage43 | [Read More](https://medium.com/p/94f282345115) |
+| Fri, 03 Oct 2025 11:26:37 GMT | The Essential Cybersecurity Checklist: Protecting Your Data and Devices | Cyber Security Research | [Read More](https://medium.com/p/edfee1c3dc63) |
 | Fri, 03 Oct 2025 11:26:22 GMT | The Role of Kiosk Machines in Creating Hassle-Free Travel Experiences | Rakesh | [Read More](https://medium.com/p/55a85171ef7b) |
 | Fri, 03 Oct 2025 11:25:33 GMT | LATAM Defense Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/3d899101b46d) |
 | Fri, 03 Oct 2025 11:23:42 GMT | The Secret Power of PostgreSQL That Big Tech Doesn’t Want You to Know | Rizqi Mulki | [Read More](https://medium.com/p/01fb2e933abb) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 07:58:30 GMT | The Digital Fortress Unveiled | Cyber Security Research | [Read More](https://medium.com/p/97c2a17b5177) |
 | Fri, 03 Oct 2025 07:56:55 GMT | Bandit - Level 5→ 6- OverTheWire | Deepika  B | [Read More](https://medium.com/p/6f906e61116b) |
 | Fri, 03 Oct 2025 07:54:15 GMT | PCI Policy: What Actually Matters in Payment Security | M. Ben | [Read More](https://medium.com/p/e3d65fb5fb1d) |
-| Fri, 03 Oct 2025 07:53:48 GMT | Security Guard Services in Qatar: The Key to Safer Homes, Businesses, and Events | Fss | [Read More](https://medium.com/p/ab13f68ee53f) |
-| Fri, 03 Oct 2025 07:52:00 GMT | Google Cloud (GCP) Privilege Escalation Scenarios | Esra Kayhan | [Read More](https://medium.com/p/9c862edb0769) |
-| Fri, 03 Oct 2025 07:45:38 GMT | Praktikum Internet of Things (Tugas): Digital Output | Muhammad Surya Saputro | [Read More](https://medium.com/p/641af147c547) |
-| Fri, 03 Oct 2025 07:44:13 GMT | Anatomy of a Breach | Cyber Security Research | [Read More](https://medium.com/p/1287445dfbc4) |
-| Fri, 03 Oct 2025 07:38:30 GMT | Unlocking the Secrets of VAPT Reports: A Comprehensive Sample Guide | Qualysec | [Read More](https://medium.com/p/0c29f2f6529f) |
-| Fri, 03 Oct 2025 07:37:46 GMT | Incident Response in Banking: Protecting Trust and Financial Stability | Vedantkathale | [Read More](https://medium.com/p/fa1de533a5bc) |
-| Fri, 03 Oct 2025 07:36:21 GMT | I Learned How to Disappear in Plain Sight | Erum Khan | [Read More](https://medium.com/p/3f43b5123125) |
-| Fri, 03 Oct 2025 07:33:21 GMT | Why U.S. Companies Are Turning to IT Staff Augmentation in 2026 | Danial | [Read More](https://medium.com/p/e3d9825e2179) |
-| Fri, 03 Oct 2025 07:33:14 GMT | Geocoding API Free and Marketplace API: A Developer’s Guide | Authorshivani | [Read More](https://medium.com/p/9795b793e6a9) |
-| Fri, 03 Oct 2025 07:32:36 GMT | Why Fire Watch Security is Critical for Construction Sites in Alberta | Hirasarfraz | [Read More](https://medium.com/p/a20f5165d78b) |
-| Fri, 03 Oct 2025 07:27:53 GMT | Bandit - Level 4→ 5- OverTheWire | Deepika  B | [Read More](https://medium.com/p/a6f2d59ee281) |
-| Fri, 03 Oct 2025 07:27:14 GMT | When love seems difficult- Until it doesn’t ❤️ | Nandita Dehra | [Read More](https://medium.com/p/3abeeb974714) |
-| Fri, 03 Oct 2025 07:25:29 GMT | Dear old me, | Sena Sheila | [Read More](https://medium.com/p/dfa8d29bba90) |
-| Fri, 03 Oct 2025 07:24:20 GMT | The Daily Tech Digest: 03 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a9762593f2a6) |
-| Fri, 03 Oct 2025 07:24:05 GMT | Elevating Customer Service Excellence with ServiceNow CSM Workflow Automation | Alex s | [Read More](https://medium.com/p/f96914b6d3ab) |
-| Fri, 03 Oct 2025 07:19:29 GMT | Khalani.Network Compromised | Tivoji | [Read More](https://medium.com/p/2b869705a5eb) |
-| Fri, 03 Oct 2025 07:15:01 GMT | Why Struggle With H1B Visa Hiring? When you can hire Developers fom India | Danial | [Read More](https://medium.com/p/76b6d19bf613) |
-| Fri, 03 Oct 2025 07:11:10 GMT | Future Software Engineering Training Programs for the Workforce Software | Elite Aneesa999 | [Read More](https://medium.com/p/a085ea78dbdf) |
-| Fri, 03 Oct 2025 07:07:14 GMT | Top 10 Government Jobs in Cyber Security in India | Manisha Chaudhary | [Read More](https://medium.com/p/cfac56bb4c2a) |
-| Fri, 03 Oct 2025 07:06:59 GMT | The Essential Cybersecurity Checklist: Protecting Your Data and Devices | Cyber Security Research | [Read More](https://medium.com/p/51a46f7962de) |
-| Fri, 03 Oct 2025 07:06:32 GMT | Setting Up an Android Dynamic Analysis Environment: ADB, Frida, and Objection | Jai Bhattacharya | [Read More](https://medium.com/p/da1a1812bd43) |
-| Fri, 03 Oct 2025 07:03:05 GMT | Hack The Box Season 9: Step-by-Step Walkthrough of the Imagery | Keshav Kacholiya | [Read More](https://medium.com/p/b6fb67daf511) |
-| Fri, 03 Oct 2025 07:01:52 GMT | The Security Requirements Every Construction Software Must Meet | AlterSquare | [Read More](https://medium.com/p/6e3cb06e2e8b) |
-| Fri, 03 Oct 2025 06:56:21 GMT | Rails 7.1 Has Landed: Why This Release Will Change How You Build Apps | ravi prakash | [Read More](https://medium.com/p/13efca33e335) |
-| Fri, 03 Oct 2025 06:54:43 GMT | 5 Signs Your Startup Needs Staff Augmentation for Real Growth | Danial | [Read More](https://medium.com/p/3cb06aa89910) |
