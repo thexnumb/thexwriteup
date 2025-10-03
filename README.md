@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 22:08:03 GMT | AR Glasses: The Wearable Revolution Changing How We See the World | Jason Han | [Read More](https://medium.com/p/4dc79831feb6) |
+| Fri, 03 Oct 2025 21:50:55 GMT | Can Hackers Still Get In With Your Password? | Samirah A.O | [Read More](https://medium.com/p/bc2bd648d8ec) |
+| Fri, 03 Oct 2025 21:50:18 GMT | From Startup to SOC 2: A Practical Roadmap for First-Time Compliance | Dera E. | [Read More](https://medium.com/p/d06f15dbd76e) |
+| Fri, 03 Oct 2025 21:43:50 GMT | So You Want to Work in Cybersecurity? Read This First. | Ajay Kumar | [Read More](https://medium.com/p/5b32a4a1a124) |
+| Fri, 03 Oct 2025 21:40:42 GMT | Logs Fundamentals - THM | Isiah | [Read More](https://medium.com/p/1f6941769612) |
+| Fri, 03 Oct 2025 21:40:23 GMT | XDR: Operation Global Dagger Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/fe8624556a8e) |
+| Fri, 03 Oct 2025 21:35:31 GMT | Event Calendar 2025 | Nexus ALKÜ | [Read More](https://medium.com/p/2a2e2e3aeb63) |
+| Fri, 03 Oct 2025 21:34:05 GMT | Wait, What?! LockBit 5.0 is Back? (Part 1) | Abdelrahmanhamdy | [Read More](https://medium.com/p/fd18a2de40bc) |
+| Fri, 03 Oct 2025 21:30:09 GMT | The 8 Cybersecurity Best Practices Every MSP Must Adopt in 2025 | Donald Betancourt | [Read More](https://medium.com/p/e51711f855e7) |
+| Fri, 03 Oct 2025 21:29:51 GMT | Meteor Lines Inside My Brain. | Spiral Patterns | [Read More](https://medium.com/p/e761e4156eeb) |
 | Fri, 03 Oct 2025 21:21:15 GMT | Cyber Security Tutorial (Part2): The Evolution of Online Reconnaissance | mohandika | [Read More](https://medium.com/p/13b1c9d99b96) |
 | Fri, 03 Oct 2025 21:19:56 GMT | CVE-2022–26134: The Confluence RCE That Shook Enterprise Security | VampireXRay | [Read More](https://medium.com/p/2b58c5385011) |
 | Fri, 03 Oct 2025 21:06:56 GMT | Behind the Screen: Surviving Cyberstalking | Uncoverwithdale | [Read More](https://medium.com/p/df7d50469755) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 15:01:50 GMT | If Discipline Feels Like Punishment, You’re Doing It Wrong | Vijay Kumar Gupta | [Read More](https://medium.com/p/1cb0a0502147) |
 | Fri, 03 Oct 2025 14:48:24 GMT | CISSP Training at Cybernous: Elevate Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/a6629400dea7) |
 | Fri, 03 Oct 2025 14:48:16 GMT | A Deep Dive into How an Email is Sent (From Power On to Inbox) | Navya Agrahari | [Read More](https://medium.com/p/b694e7f3f7b8) |
-| Fri, 03 Oct 2025 14:44:41 GMT | Sock Puppets in OSINT: What They Are, Why They Matter, and How to Handle Them Ethically | Piyusha Akash | [Read More](https://medium.com/p/5d029e4540d3) |
-| Fri, 03 Oct 2025 14:44:22 GMT | The Manual Habit That Keeps My OSINT Work Sharp | Sam Galope | [Read More](https://medium.com/p/d95a4b5f5573) |
-| Fri, 03 Oct 2025 14:42:31 GMT | How to Lock a Door from the Inside: Simple Methods for Added Security | Sure Lock & Key LLC | [Read More](https://medium.com/p/9bec44911a39) |
-| Fri, 03 Oct 2025 14:39:52 GMT | AI’s Big Shift: 4 Surprising Changes That Redefine the Future of Artificial Intelligence | Chris Fong | [Read More](https://medium.com/p/79c8b3f38604) |
-| Fri, 03 Oct 2025 14:36:52 GMT | Spot and Stop Email Spoofing for Good | Medjue Gore | [Read More](https://medium.com/p/e7b1cc0f71e5) |
-| Fri, 03 Oct 2025 14:35:02 GMT | MCP Registries: Securing Discovery in the Age of Agentic AI | Dave Patten | [Read More](https://medium.com/p/c6987272b19e) |
-| Fri, 03 Oct 2025 14:31:59 GMT | Top 7 Cybersecurity Certifications for Beginners | Opportunity Near Me | [Read More](https://medium.com/p/636042c89d2e) |
-| Fri, 03 Oct 2025 14:31:08 GMT | Telnet Authentication — Hackviser Lab Writeup | Eren Aloğlu | [Read More](https://medium.com/p/b7d47295d298) |
-| Fri, 03 Oct 2025 14:29:57 GMT | The ultimate guide to the IT kennel, part 2 | Drama, comma, grammar trauma | [Read More](https://medium.com/p/46b968567e6e) |
-| Fri, 03 Oct 2025 14:26:18 GMT | Secrecy Management in Times of Crisis: From Team Purpose to Cyber Resilience | Paulo Valente | [Read More](https://medium.com/p/2a31ebad564c) |
