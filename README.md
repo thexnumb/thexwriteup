@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 15:06:42 GMT | Fundamental of Security | Rahul Kumar | [Read More](https://medium.com/p/3b569bbb0be8) |
+| Fri, 03 Oct 2025 15:03:58 GMT | The Shattered Mirror: Why I Rejected and Lithered My Twin Flame | Wilson Igbasi | [Read More](https://medium.com/p/8ee328360d2e) |
+| Fri, 03 Oct 2025 15:01:50 GMT | If Discipline Feels Like Punishment, You’re Doing It Wrong | Vijay Kumar Gupta | [Read More](https://medium.com/p/1cb0a0502147) |
+| Fri, 03 Oct 2025 14:48:24 GMT | CISSP Training at Cybernous: Elevate Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/a6629400dea7) |
+| Fri, 03 Oct 2025 14:48:16 GMT | A Deep Dive into How an Email is Sent (From Power On to Inbox) | Navya Agrahari | [Read More](https://medium.com/p/b694e7f3f7b8) |
+| Fri, 03 Oct 2025 14:44:41 GMT | Sock Puppets in OSINT: What They Are, Why They Matter, and How to Handle Them Ethically | Piyusha Akash | [Read More](https://medium.com/p/5d029e4540d3) |
+| Fri, 03 Oct 2025 14:44:22 GMT | The Manual Habit That Keeps My OSINT Work Sharp | Sam Galope | [Read More](https://medium.com/p/d95a4b5f5573) |
+| Fri, 03 Oct 2025 14:42:31 GMT | How to Lock a Door from the Inside: Simple Methods for Added Security | Sure Lock & Key LLC | [Read More](https://medium.com/p/9bec44911a39) |
+| Fri, 03 Oct 2025 14:39:52 GMT | AI’s Big Shift: 4 Surprising Changes That Redefine the Future of Artificial Intelligence | Chris Fong | [Read More](https://medium.com/p/79c8b3f38604) |
+| Fri, 03 Oct 2025 14:36:52 GMT | Spot and Stop Email Spoofing for Good | Medjue Gore | [Read More](https://medium.com/p/e7b1cc0f71e5) |
 | Fri, 03 Oct 2025 14:35:02 GMT | MCP Registries: Securing Discovery in the Age of Agentic AI | Dave Patten | [Read More](https://medium.com/p/c6987272b19e) |
 | Fri, 03 Oct 2025 14:31:59 GMT | Top 7 Cybersecurity Certifications for Beginners | Opportunity Near Me | [Read More](https://medium.com/p/636042c89d2e) |
 | Fri, 03 Oct 2025 14:31:08 GMT | Telnet Authentication — Hackviser Lab Writeup | Eren Aloğlu | [Read More](https://medium.com/p/b7d47295d298) |
+| Fri, 03 Oct 2025 14:29:57 GMT | The ultimate guide to the IT kennel, part 2 | Drama, comma, grammar trauma | [Read More](https://medium.com/p/46b968567e6e) |
 | Fri, 03 Oct 2025 14:26:18 GMT | Secrecy Management in Times of Crisis: From Team Purpose to Cyber Resilience | Paulo Valente | [Read More](https://medium.com/p/2a31ebad564c) |
 | Fri, 03 Oct 2025 14:21:50 GMT | School Device Management with SentryPC: Enhancing Safety and Security | Paul Meyer | [Read More](https://medium.com/p/974fd228952a) |
 | Fri, 03 Oct 2025 14:20:54 GMT | Making Graphic Sense of Security Data: A Practical Guide to Microsoft Sentinel Workbooks | Defend Microsoft365 now! | [Read More](https://medium.com/p/b3864a87240a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 10:14:58 GMT | Red Hat Confirms Breach: When Trust Meets Turmoil | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/efdf535f50cf) |
 | Fri, 03 Oct 2025 10:14:52 GMT | TEEs were never the answer for signing blockchain transactions | OKcontract Chainwall | [Read More](https://medium.com/p/789cb22750d7) |
 | Fri, 03 Oct 2025 10:11:17 GMT | Phishing isn’t just in the inbox: The threats have moved mobile | Red Sift | [Read More](https://medium.com/p/3deb485d5939) |
-| Fri, 03 Oct 2025 10:11:09 GMT | Identifying Fake Online Stores | Ai Writter Tools | [Read More](https://medium.com/p/e801e00e716a) |
-| Fri, 03 Oct 2025 10:10:56 GMT | From Validation to Valuation: How BAS in CTEM Turns Into a Weapon Against OEM Licensing Bloat | Sahil Malvi | [Read More](https://medium.com/p/c1cdce513337) |
-| Fri, 03 Oct 2025 10:02:52 GMT | Ghosts in the Shells: The Haunting Afterlife of Abandoned Devices | Franziska "Ziska" Fink | [Read More](https://medium.com/p/74b06da738ee) |
-| Fri, 03 Oct 2025 10:02:11 GMT | Setup SSH in Kali Linux Machine | Mr Horbio | [Read More](https://medium.com/p/c38472508147) |
-| Fri, 03 Oct 2025 09:45:00 GMT | Future-Ready IoT Services for Smart and Connected Businesses | Juarait Digital | [Read More](https://medium.com/p/2a7b2c0bbbae) |
-| Fri, 03 Oct 2025 09:43:14 GMT | Network Discovery Detection on TryHackMe: Identify Scanning Techniques | Visir | [Read More](https://medium.com/p/b2dfee3dd4dd) |
-| Fri, 03 Oct 2025 09:40:29 GMT | Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability | Shah kaif | [Read More](https://medium.com/p/abbd579b5443) |
-| Fri, 03 Oct 2025 09:40:27 GMT | Why Society Wants Us to Stop Crying — And Why I Refuse | Not Exactly Ana | [Read More](https://medium.com/p/7f3a9c426100) |
-| Fri, 03 Oct 2025 09:39:54 GMT | Batterie Management Software Entwicklung und Sicherheit im Fokus | Mira-ee | [Read More](https://medium.com/p/05e32d264cff) |
-| Fri, 03 Oct 2025 09:31:52 GMT | Could teenage spies really be shaping events in the Ukraine–Russia war? | Ethan Marshall | [Read More](https://medium.com/p/3bd74d734763) |
-| Fri, 03 Oct 2025 09:31:42 GMT | Part 4: Detecting High-Risk Code Changes with Code Owners & Pull Request Security | Dean | [Read More](https://medium.com/p/11315a17bce9) |
