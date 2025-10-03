@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 13:13:34 GMT | Strong Passwords and Managers | John Odumesi | [Read More](https://medium.com/p/94c6ef8a2b35) |
+| Fri, 03 Oct 2025 13:12:26 GMT | Security and Performance Aspects of Kernel Module Development | Eren Cankut Uysal | [Read More](https://medium.com/p/da22c9f95617) |
+| Fri, 03 Oct 2025 13:07:08 GMT | PG Practice — Hawat (Linux) | Lepton | [Read More](https://medium.com/p/9ce4071daba5) |
+| Fri, 03 Oct 2025 13:02:33 GMT | My OpenBSD Adventures (8/8) | Antonio Francesco Gentile | [Read More](https://medium.com/p/d06d587656f2) |
+| Fri, 03 Oct 2025 13:02:28 GMT | Your Missing Emails Aren’t a Glitch | Janeel Abrahams | [Read More](https://medium.com/p/de9232755954) |
+| Fri, 03 Oct 2025 13:02:24 GMT | CloudMile Raises $58M: Taiwan’s Cloud AI Startup Expands Across Southeast Asia | White Hsu | [Read More](https://medium.com/p/6da21e50d7d7) |
+| Fri, 03 Oct 2025 12:51:14 GMT | How to Improve Employee Attendance with Technology & HRMS Software | TrueTym | [Read More](https://medium.com/p/afae4eeb9333) |
+| Fri, 03 Oct 2025 12:49:43 GMT | Submarine Cable Damages As Cyber Risk | Tailor-made Actuarial and Statistical Consulting | [Read More](https://medium.com/p/f8fb81562a16) |
+| Fri, 03 Oct 2025 12:37:59 GMT | ️‍♂️ How I Built Bug-hunter MVP — Minimal Docker Starter for Bug Bounty Hunters | ghostyjoe | [Read More](https://medium.com/p/f3228baf2238) |
 | Fri, 03 Oct 2025 12:30:25 GMT | How The Web Works [Part 3] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/309c98d85ea0) |
 | Fri, 03 Oct 2025 12:24:59 GMT | When "I'm fine" is just a mask. | InHerWords | [Read More](https://medium.com/p/bd6355220f15) |
 | Fri, 03 Oct 2025 12:22:33 GMT | Debunking 2 Factor Authentication Myths: Separating Fact from Fiction | Anushka | [Read More](https://medium.com/p/8535e9fb42f0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 08:22:23 GMT | How Ransomware Threats Are Closing In On African Banks | O. J. Okpabi | [Read More](https://medium.com/p/21cd24e08ad2) |
 | Fri, 03 Oct 2025 08:18:53 GMT | 7 Traits All Top Custom Software Development Companies on Clutch Share | Mahil Jasani | [Read More](https://medium.com/p/dd4a8e0693cc) |
 | Fri, 03 Oct 2025 08:16:23 GMT | Try Hack Me — Year of The Rabbit Walkthrough | Kebronmemes | [Read More](https://medium.com/p/c5fa6577b245) |
-| Fri, 03 Oct 2025 08:12:13 GMT | Securing Your Spring Boot App: Practical Tips You Can’t Skip | Jaytech | [Read More](https://medium.com/p/94e001256da0) |
-| Fri, 03 Oct 2025 08:07:34 GMT | Lost Your Crypto? Here’s How to Recover Stolen or Inaccessible Digital Assets | Boleyn Magic Hackers | [Read More](https://medium.com/p/d19c7b447b4f) |
-| Fri, 03 Oct 2025 08:02:46 GMT | Agentic Operations: Transforming IT Infrastructure Management with Microsoft’s AI Ecosystem and… | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/355964d223b5) |
-| Fri, 03 Oct 2025 08:02:15 GMT | Stop Employee Account Takeovers Before They Start | Alexandre Vandamme | [Read More](https://medium.com/p/44662d188536) |
-| Fri, 03 Oct 2025 08:00:21 GMT | Android Kiosk Mode: 9 Functionalities to Try | Vantage MDM | [Read More](https://medium.com/p/052b313dbc28) |
-| Fri, 03 Oct 2025 07:59:33 GMT | DockerLabs Writeup — BorazuwarahCTF (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c212b998312d) |
-| Fri, 03 Oct 2025 07:58:30 GMT | The Digital Fortress Unveiled | Cyber Security Research | [Read More](https://medium.com/p/97c2a17b5177) |
-| Fri, 03 Oct 2025 07:56:55 GMT | Bandit - Level 5→ 6- OverTheWire | Deepika  B | [Read More](https://medium.com/p/6f906e61116b) |
-| Fri, 03 Oct 2025 07:54:15 GMT | PCI Policy: What Actually Matters in Payment Security | M. Ben | [Read More](https://medium.com/p/e3d65fb5fb1d) |
