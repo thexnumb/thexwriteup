@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 14:35:02 GMT | MCP Registries: Securing Discovery in the Age of Agentic AI | Dave Patten | [Read More](https://medium.com/p/c6987272b19e) |
+| Fri, 03 Oct 2025 14:31:59 GMT | Top 7 Cybersecurity Certifications for Beginners | Opportunity Near Me | [Read More](https://medium.com/p/636042c89d2e) |
+| Fri, 03 Oct 2025 14:31:08 GMT | Telnet Authentication — Hackviser Lab Writeup | Eren Aloğlu | [Read More](https://medium.com/p/b7d47295d298) |
+| Fri, 03 Oct 2025 14:26:18 GMT | Secrecy Management in Times of Crisis: From Team Purpose to Cyber Resilience | Paulo Valente | [Read More](https://medium.com/p/2a31ebad564c) |
+| Fri, 03 Oct 2025 14:21:50 GMT | School Device Management with SentryPC: Enhancing Safety and Security | Paul Meyer | [Read More](https://medium.com/p/974fd228952a) |
+| Fri, 03 Oct 2025 14:20:54 GMT | Making Graphic Sense of Security Data: A Practical Guide to Microsoft Sentinel Workbooks | Defend Microsoft365 now! | [Read More](https://medium.com/p/b3864a87240a) |
+| Fri, 03 Oct 2025 14:12:10 GMT | Part 7: Understanding Network Services and Protocols | Intelithics | [Read More](https://medium.com/p/46a37eb7a326) |
 | Fri, 03 Oct 2025 14:09:13 GMT | Chaining Vulnerabilities | Meena A | [Read More](https://medium.com/p/050ea05b3897) |
+| Fri, 03 Oct 2025 14:06:45 GMT | Portswigger mystery lab write up - Insecure Deserialization: Arbitrary object injection in PHP. | Hubert | [Read More](https://medium.com/p/a9f9b43e74b8) |
 | Fri, 03 Oct 2025 14:02:27 GMT | Every Business Has Security Measures in Place | Heatena | [Read More](https://medium.com/p/646f9ddf2dfc) |
 | Fri, 03 Oct 2025 14:02:22 GMT | Cyber Briefing: 2025.10.03 | CyberMaterial | [Read More](https://medium.com/p/65d82b83e467) |
 | Fri, 03 Oct 2025 14:02:20 GMT | OAuth2.0: Resolving the Client Credentials Flow | Riley Conrardy | [Read More](https://medium.com/p/3ae3262d0719) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 09:39:54 GMT | Batterie Management Software Entwicklung und Sicherheit im Fokus | Mira-ee | [Read More](https://medium.com/p/05e32d264cff) |
 | Fri, 03 Oct 2025 09:31:52 GMT | Could teenage spies really be shaping events in the Ukraine–Russia war? | Ethan Marshall | [Read More](https://medium.com/p/3bd74d734763) |
 | Fri, 03 Oct 2025 09:31:42 GMT | Part 4: Detecting High-Risk Code Changes with Code Owners & Pull Request Security | Dean | [Read More](https://medium.com/p/11315a17bce9) |
-| Fri, 03 Oct 2025 09:31:33 GMT | Startup Cyber Insurance: Overthinking or Overlooking a Threat? | Authlyn | [Read More](https://medium.com/p/eeab3cf5f1c1) |
-| Fri, 03 Oct 2025 09:24:28 GMT | Hacking From Zero? A Real-World Starting Point | SilentInject | [Read More](https://medium.com/p/836985001de7) |
-| Fri, 03 Oct 2025 09:23:58 GMT | Door Frame Metal Detector (DFMD) — Advanced Security Solutions by FIA | Marksmith | [Read More](https://medium.com/p/1cd09c20cadf) |
-| Fri, 03 Oct 2025 09:19:22 GMT | Evaluating Zero Trust Adoption In SMEs In Nigeria: Barriers, Benefits & Roadmap | O. J. Okpabi | [Read More](https://medium.com/p/5f41728beae8) |
-| Fri, 03 Oct 2025 09:17:00 GMT | Building a Community-Driven Cyber Attack Tracker for Alberta: Transparency in the Age of Digital… | Jared Douville | [Read More](https://medium.com/p/b5ba83fa89bc) |
-| Fri, 03 Oct 2025 09:16:58 GMT | From the archive: Software bugs | Mansfield-Devine | [Read More](https://medium.com/p/b584d5499372) |
-| Fri, 03 Oct 2025 09:14:11 GMT | AI-Designed Viruses: Are We Building Our Own Apocalypse? | Emili | [Read More](https://medium.com/p/7be74dabd11c) |
-| Fri, 03 Oct 2025 09:13:43 GMT | How to Secure Your VPS: 7 Essential Steps Every Developer Should Know | Hassan Zreik | [Read More](https://medium.com/p/f5c8a16b3442) |
