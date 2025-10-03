@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 02:30:51 GMT | TryHackMe: Network Discovery Detection | Tanwietayim A | [Read More](https://medium.com/p/7700e598731a) |
+| Fri, 03 Oct 2025 02:17:51 GMT | Private By Design: n8n for Privacy-First Teams | Hash Block | [Read More](https://medium.com/p/af9ca9b208b9) |
+| Fri, 03 Oct 2025 02:17:10 GMT | I Caught My Aunt with Another Man and Hid His Keys | Victor Ude | [Read More](https://medium.com/p/36a7ece22bd6) |
+| Fri, 03 Oct 2025 02:13:35 GMT | How to Stop Your Slides from Getting Leaked (Without Paying for Expensive Tools) | ven coding | [Read More](https://medium.com/p/247dc06928bc) |
+| Fri, 03 Oct 2025 02:12:10 GMT | Let it Out” | Heal Time | [Read More](https://medium.com/p/c9eea05bf0b9) |
+| Fri, 03 Oct 2025 02:08:51 GMT | Security and Performance Aspects of Linux Capabilities | Eren Cankut Uysal | [Read More](https://medium.com/p/450961f82b1d) |
+| Fri, 03 Oct 2025 02:07:01 GMT | Advanced Static Analysis | Tony Khalil Rodgers | [Read More](https://medium.com/p/07afa5d9b509) |
+| Fri, 03 Oct 2025 02:00:11 GMT | Security and Performance Aspects of IRQ Affinity Optimization | Eren Cankut Uysal | [Read More](https://medium.com/p/213b6686bf78) |
+| Fri, 03 Oct 2025 01:54:15 GMT | Brick by Brick: Why I’m Choosing to Document My Cybersecurity Journey | Boluwatife shopeju | [Read More](https://medium.com/p/b4d3ae104eb7) |
+| Fri, 03 Oct 2025 01:36:00 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/650b7ab18eee) |
+| Fri, 03 Oct 2025 01:29:21 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/6725b6daf5a9) |
+| Fri, 03 Oct 2025 01:28:37 GMT | Hack the Box — Shoppy — WriteUp | Emre A. | [Read More](https://medium.com/p/3fdaa21dcbd6) |
+| Fri, 03 Oct 2025 01:28:13 GMT | Summary of “Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing… | Shadman Hossain | [Read More](https://medium.com/p/a181f354139f) |
+| Fri, 03 Oct 2025 01:22:11 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/24fb9536ad4d) |
+| Fri, 03 Oct 2025 01:22:07 GMT | How to Raise Excellent Children: The Power of Unconditional Positive Regard | Fower Leo | [Read More](https://medium.com/p/6125bdfe43c6) |
 | Fri, 03 Oct 2025 01:16:25 GMT | The Key to Lasting Charisma: Embracing Authenticity in Relationships | Xiaochen | [Read More](https://medium.com/p/51813e6bcd21) |
 | Fri, 03 Oct 2025 01:14:22 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/cdf8900c1143) |
 | Fri, 03 Oct 2025 01:12:55 GMT | Dropbox Passwords Is Shutting Down: What Users Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/ead69c2a33d9) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 17:49:45 GMT | Deep Dive into AppArmor Profiles on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/0ba7bba1b185) |
 | Thu, 02 Oct 2025 17:41:39 GMT | AppArmor Profiles for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/d9285b072c46) |
 | Thu, 02 Oct 2025 17:37:41 GMT | How Modern Browsers Block Ads: A Technical Deep Dive | Nipun Negi | [Read More](https://medium.com/p/9cfe22610a74) |
-| Thu, 02 Oct 2025 17:36:36 GMT | Adobe Illustrator 29.8.1 For Windows (Latest 2025) Download | Rapax | [Read More](https://medium.com/p/8cff80048653) |
-| Thu, 02 Oct 2025 17:35:59 GMT | Introduction to Symbolic Execution: How It Works, Tools & a Practical Angr Walkthrough | Sanatsu | [Read More](https://medium.com/p/0acd3e30ab62) |
-| Thu, 02 Oct 2025 17:26:43 GMT | I Built a Privacy Browser… But It Was Useless Until I Did This | Pannag Kumaar | [Read More](https://medium.com/p/0985c9ee257f) |
-| Thu, 02 Oct 2025 17:24:39 GMT | Smishing in Cybersecurity: How Text Message Scams Put Your Data at Risk | SafeAeon Inc. | [Read More](https://medium.com/p/601faaee6972) |
-| Thu, 02 Oct 2025 17:18:59 GMT | Master Web Fuzzing: A Cheat‑Sheet to Finding Hidden Paths | PARADOX | [Read More](https://medium.com/p/6c2bcf521c44) |
-| Thu, 02 Oct 2025 17:17:50 GMT | ☕ Cyber & Coffee — Today’s Brew: Confucius, Stealers, and Shutdowns | Cyber and Coffee | [Read More](https://medium.com/p/39a4c13ce124) |
-| Thu, 02 Oct 2025 17:10:05 GMT | ️‍♂️ Bughunter MVP | ghostyjoe | [Read More](https://medium.com/p/3dda1831eda6) |
-| Thu, 02 Oct 2025 17:03:46 GMT | The Silent Battle: Offensive Intelligence Meets Forensic Truth | Vijay Kumar Gupta | [Read More](https://medium.com/p/5b6ccc07bc5f) |
-| Thu, 02 Oct 2025 17:01:55 GMT | Parsing, Normalizing & Streamlining Wazuh Logs in Graylog | Arfan Abid | [Read More](https://medium.com/p/a722b7e5d76f) |
-| Thu, 02 Oct 2025 17:00:55 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/f099ad6c5922) |
-| Thu, 02 Oct 2025 16:59:39 GMT | From Idea to Live CTF My First Real Project on Google Cloud | Abzu | [Read More](https://medium.com/p/9d7ede870a16) |
-| Thu, 02 Oct 2025 16:57:16 GMT | Astrophysical Steganography - Hiding Messages in the Universe | Anshuman Sahoo | [Read More](https://medium.com/p/17875789a577) |
-| Thu, 02 Oct 2025 16:55:35 GMT | BFT — Digital Forensics (DFIR) | Tiziano Mass | [Read More](https://medium.com/p/367c34821ce1) |
-| Thu, 02 Oct 2025 16:51:22 GMT | The Great Cybersecurity Comedy of Errors | Vamsi Basa | [Read More](https://medium.com/p/847f9564f411) |
-| Thu, 02 Oct 2025 16:40:55 GMT | The Cybersecurity Skills Gap: Addressing the Talent Shortage | Cyber Security Research | [Read More](https://medium.com/p/cabf06b61486) |
