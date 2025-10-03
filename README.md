@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 03:42:06 GMT | Windows: From User to Root | Ops4Windows | [Read More](https://medium.com/p/5729b2f2183a) |
+| Fri, 03 Oct 2025 03:31:52 GMT | Top 4 Benefits of Idempotency in Node.js APIs | Arunangshu Das | [Read More](https://medium.com/p/994a6d883566) |
 | Fri, 03 Oct 2025 03:05:20 GMT | Security Vulnerabilities in Early-Stage Products: Why SaaS Startups Need SaaS Security Best… | Adnan Umar | [Read More](https://medium.com/p/09918b600bff) |
 | Fri, 03 Oct 2025 02:59:15 GMT | MCP Security: Strengthening Trust in the Model Context Protocol | Paritosh | [Read More](https://medium.com/p/6f108c855088) |
 | Fri, 03 Oct 2025 02:58:21 GMT | Experiment with building a simple SOC lab using Wazuh, complete with custom rules, threat… | Andry Maulana Akbar | [Read More](https://medium.com/p/e17393574199) |
@@ -40,9 +42,11 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 01:12:55 GMT | Dropbox Passwords Is Shutting Down: What Users Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/ead69c2a33d9) |
 | Fri, 03 Oct 2025 01:06:54 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/96c17ba07a1d) |
 | Fri, 03 Oct 2025 01:00:58 GMT | Starting Over at 22: My 100 Days Back Into Cybersecurity | Andrej Glavnik | [Read More](https://medium.com/p/236272f09da4) |
+| Fri, 03 Oct 2025 00:59:21 GMT | Cybersecurity in a Connected World: Challenges and Opportunities | Cyber Security Research | [Read More](https://medium.com/p/86b9ffe76746) |
 | Fri, 03 Oct 2025 00:52:57 GMT | The Truth About Cybersecurity: Myths vs. Reality | Cyber Security Research | [Read More](https://medium.com/p/138e9c344ff4) |
 | Fri, 03 Oct 2025 00:47:31 GMT | Navigating the Complexities of Cybersecurity Compliance | Cyber Security Research | [Read More](https://medium.com/p/11c606c0e845) |
 | Fri, 03 Oct 2025 00:41:17 GMT | Cybersecurity for Everyone: Protecting Yourself in the Digital Age | Cyber Security Research | [Read More](https://medium.com/p/6e072a01750d) |
+| Fri, 03 Oct 2025 00:34:54 GMT | The Cybersecurity Mindset: Thinking Like a Hacker | Cyber Security Research | [Read More](https://medium.com/p/63c90c94321e) |
 | Fri, 03 Oct 2025 00:24:54 GMT | Spotlight on New CST Degree | Kiley Parker | [Read More](https://medium.com/p/b6498fa16220) |
 | Fri, 03 Oct 2025 00:22:37 GMT | OpenShift - Pod Security Standards, Security Context Constraints, Oh My! | W. Jenks Gibbons | [Read More](https://medium.com/p/3e966c16e8d6) |
 | Fri, 03 Oct 2025 00:14:03 GMT | Comprehensive Report on Bias in Large Language Models (LLMs) | Emile J Fagerstrom IV #Bofaf #t3 #1CallWest | [Read More](https://medium.com/p/6d776adc910d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 18:24:48 GMT | Stateful Firewall: How It Works and Why Businesses Need It | SafeAeon Inc. | [Read More](https://medium.com/p/1820f2306b20) |
 | Thu, 02 Oct 2025 18:15:40 GMT | Dark Web Monitoring: How Businesses Can Detect and Prevent Data Leaks | SafeAeon Inc. | [Read More](https://medium.com/p/0c2f4e11868c) |
 | Thu, 02 Oct 2025 18:14:50 GMT | Mastering AppArmor Profiles in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/c1643a961f07) |
-| Thu, 02 Oct 2025 18:13:41 GMT | To What Extent Is AI the Main Driving Force Reshaping Cybersecurity? | Turab Hassan | [Read More](https://medium.com/p/50e34c3d374b) |
-| Thu, 02 Oct 2025 18:10:42 GMT | SGS Consulting Recognized as a 2025 Randstad Sourceright Preferred Supplier | SGS Consulting | [Read More](https://medium.com/p/16ad79324ed4) |
-| Thu, 02 Oct 2025 18:07:40 GMT | The Modern IT Help Desk Software Your Team Needs | Krista White | [Read More](https://medium.com/p/246e530f6038) |
-| Thu, 02 Oct 2025 18:07:30 GMT | Mastering Ethical Hacking: How EC-Council Certifications Can Boost Your Cybersecurity Career | Shreyashettyctr | [Read More](https://medium.com/p/d8c2e8deb8cd) |
