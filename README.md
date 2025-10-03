@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 14:09:13 GMT | Chaining Vulnerabilities | Meena A | [Read More](https://medium.com/p/050ea05b3897) |
+| Fri, 03 Oct 2025 14:02:27 GMT | Every Business Has Security Measures in Place | Heatena | [Read More](https://medium.com/p/646f9ddf2dfc) |
+| Fri, 03 Oct 2025 14:02:22 GMT | Cyber Briefing: 2025.10.03 | CyberMaterial | [Read More](https://medium.com/p/65d82b83e467) |
+| Fri, 03 Oct 2025 14:02:20 GMT | OAuth2.0: Resolving the Client Credentials Flow | Riley Conrardy | [Read More](https://medium.com/p/3ae3262d0719) |
+| Fri, 03 Oct 2025 14:01:24 GMT | The Illusion of Power | EliWar | [Read More](https://medium.com/p/430f1346d5a3) |
+| Fri, 03 Oct 2025 13:57:27 GMT | TomGhost THM Walkthrough: Exploitation & Privilege Escalation Explained | IsaacNatarajan | [Read More](https://medium.com/p/ba2f30ba6aee) |
+| Fri, 03 Oct 2025 13:53:26 GMT | Day 3: “The Psychology of Phishing: Why We Fall for Scams” | aysha | [Read More](https://medium.com/p/3a6dd168372e) |
+| Fri, 03 Oct 2025 13:44:19 GMT | Why I Always Secure GRUB on Linux Servers Before Going Live | Faruk Ahmed | [Read More](https://medium.com/p/387144fcf006) |
+| Fri, 03 Oct 2025 13:43:30 GMT | Autonomous Agent Trap? | Mohammed Brückner | [Read More](https://medium.com/p/f64a70243cb8) |
+| Fri, 03 Oct 2025 13:42:11 GMT | CompTIA SecAI+ (beta): What you should know and how you can prepare for the exam | Ayush Jain | [Read More](https://medium.com/p/0573364d2b98) |
+| Fri, 03 Oct 2025 13:42:09 GMT | Docker Security: Why Your Containers Are Probably Less Secure Than You Think | Hassan Zreik | [Read More](https://medium.com/p/b31efba2b010) |
+| Fri, 03 Oct 2025 13:36:55 GMT | Beyond Uptime: Reimagining IT Operations and the Digital Workplace for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/871d218632fb) |
 | Fri, 03 Oct 2025 13:34:38 GMT | Parameter Pollution (Server-Side): From Test to Exploit | L4V4NY4  AGR3 | [Read More](https://medium.com/p/71c673aeef29) |
 | Fri, 03 Oct 2025 13:29:34 GMT | The Unity Vulnerability: A Wake-Up Call for Game Developers and Beyond | Steve Matindi | [Read More](https://medium.com/p/24b38eb3504b) |
 | Fri, 03 Oct 2025 13:13:34 GMT | Strong Passwords and Managers | John Odumesi | [Read More](https://medium.com/p/94c6ef8a2b35) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 09:16:58 GMT | From the archive: Software bugs | Mansfield-Devine | [Read More](https://medium.com/p/b584d5499372) |
 | Fri, 03 Oct 2025 09:14:11 GMT | AI-Designed Viruses: Are We Building Our Own Apocalypse? | Emili | [Read More](https://medium.com/p/7be74dabd11c) |
 | Fri, 03 Oct 2025 09:13:43 GMT | How to Secure Your VPS: 7 Essential Steps Every Developer Should Know | Hassan Zreik | [Read More](https://medium.com/p/f5c8a16b3442) |
-| Fri, 03 Oct 2025 09:12:30 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/c405ef860550) |
-| Fri, 03 Oct 2025 09:09:20 GMT | IoT Ready: Connect Your Self Service Kiosk Machines for Real-Time Data | Rakesh | [Read More](https://medium.com/p/11df39eb3278) |
-| Fri, 03 Oct 2025 09:08:35 GMT | Red Hat Hack: What’s Breached? What’s Next For Security? | Truspex | [Read More](https://medium.com/p/49a12d3bb83a) |
-| Fri, 03 Oct 2025 09:06:20 GMT | Upgrading My K0s Raspberry Pi 5 Cluster to Trixie | Bruno Bernard | [Read More](https://medium.com/p/74e26f15bb85) |
-| Fri, 03 Oct 2025 08:55:26 GMT | No Degree? No Certs? Cybersecurity Win! “How I Did It.” | Devquest | [Read More](https://medium.com/p/a2a4c56b5005) |
-| Fri, 03 Oct 2025 08:52:30 GMT | The Ultimate Third-Party Risk Management Solution | Burak DÜNDAR | [Read More](https://medium.com/p/b9eebbf4ea1e) |
-| Fri, 03 Oct 2025 08:46:52 GMT | PT-1 Certification: The New Sheriff in the Pentesting Town | Jinendar Kothari | [Read More](https://medium.com/p/f836717d2f34) |
-| Fri, 03 Oct 2025 08:41:32 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/6fc2f3a241b2) |
-| Fri, 03 Oct 2025 08:39:07 GMT | Best IT Infrastructure Monitoring Tools Reviews 2025 | Michel mathew | [Read More](https://medium.com/p/ee67b8f7f1e5) |
-| Fri, 03 Oct 2025 08:36:00 GMT | Cyber Security Institute Bangalore: Preparing Tomorrow’s Cyber Security Professionals. | Parvathydileep | [Read More](https://medium.com/p/68518ca292c1) |
-| Fri, 03 Oct 2025 08:35:21 GMT | Data’s Last Stand | Cyber Security Research | [Read More](https://medium.com/p/334bb642954c) |
-| Fri, 03 Oct 2025 08:22:23 GMT | How Ransomware Threats Are Closing In On African Banks | O. J. Okpabi | [Read More](https://medium.com/p/21cd24e08ad2) |
