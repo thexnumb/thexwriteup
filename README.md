@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 05:35:30 GMT | Deeper Connect Air Portable Decentralized VPN Travel Router | Stack Social Deals | [Read More](https://medium.com/p/bc94b53adc0a) |
+| Fri, 03 Oct 2025 05:32:02 GMT | Top Cybersecurity Threats That Everyone Ignores | Ann Maria | [Read More](https://medium.com/p/6beca3444372) |
+| Fri, 03 Oct 2025 05:22:44 GMT | AdGuard VPN + Ad Blocker Family Security Suite | Stack Social Deals | [Read More](https://medium.com/p/fbb8dbd1b3fd) |
+| Fri, 03 Oct 2025 05:20:31 GMT | Safeguarding Industrial Operations: The Critical Role of OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/6bf8ce20bd11) |
+| Fri, 03 Oct 2025 05:20:22 GMT | Bandit - Level 2→ 3- OverTheWire | Deepika  B | [Read More](https://medium.com/p/94091d855ce9) |
+| Fri, 03 Oct 2025 05:17:29 GMT | Cybersecurity Foundations Series: Part 3 — The Triple A’s and Privacy | TechStoryLines | [Read More](https://medium.com/p/e2a400582f18) |
+| Fri, 03 Oct 2025 05:17:06 GMT | Day 28 of 90DaysOfDevOps | Gaurvi Arora | [Read More](https://medium.com/p/345abda87402) |
+| Fri, 03 Oct 2025 05:06:58 GMT | How Can Artificial Intelligence Improve Your Business? | azim .M | [Read More](https://medium.com/p/21121444e51f) |
 | Fri, 03 Oct 2025 05:04:20 GMT | Bandit - Level 1→ 2- OverTheWire | Deepika  B | [Read More](https://medium.com/p/3c1a72bfd929) |
 | Fri, 03 Oct 2025 04:59:08 GMT | Biometric Identity Verification MENA | IdentifyME | [Read More](https://medium.com/p/9c618cd4066e) |
 | Fri, 03 Oct 2025 04:59:06 GMT | Broken Access Control — The Ultimate Practical Guide | Nitin yadav | [Read More](https://medium.com/p/6d58add0c991) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 21:02:58 GMT | Why Vulnerability Is the Key to Living a Fulffling life!! | Catalin-Andrei  Chiras | [Read More](https://medium.com/p/e7d1efaed806) |
 | Thu, 02 Oct 2025 20:46:42 GMT | China Updates to New Cybersecurity Reporting Rules | Matthew.Rosenquist | [Read More](https://medium.com/p/ee1becbaf2e7) |
 | Thu, 02 Oct 2025 20:36:13 GMT | Dumping Edge Browser to Steal Cookies | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cb5d659917d2) |
-| Thu, 02 Oct 2025 20:21:57 GMT | TOP Network Attacking Techniques | Rahaliashraf | [Read More](https://medium.com/p/9f2bb8450a0b) |
-| Thu, 02 Oct 2025 20:20:19 GMT | HackTheBox: Highway Writeup — Medium | Joey Cadieux | [Read More](https://medium.com/p/1fc96449e960) |
-| Thu, 02 Oct 2025 20:18:59 GMT | A dev’s guide to post-quantum cryptography (PQC) | Via Knowledge Hub | [Read More](https://medium.com/p/664d54b114e9) |
-| Thu, 02 Oct 2025 20:18:35 GMT | October is Cybersecurity Awareness Month, but what does that really mean for Community Banks? | Linker Finance | [Read More](https://medium.com/p/310d2e5640d9) |
-| Thu, 02 Oct 2025 19:46:12 GMT | The OS Exposed | Ops4Windows | [Read More](https://medium.com/p/b3a072102309) |
-| Thu, 02 Oct 2025 19:46:12 GMT | The risky business of software development | Via Knowledge Hub | [Read More](https://medium.com/p/5b62d24f0190) |
-| Thu, 02 Oct 2025 19:43:17 GMT | The Vulnerability Chronicles: A poem of opening up, titled I Threw Up | DamnAmazon | [Read More](https://medium.com/p/0395f1327baa) |
-| Thu, 02 Oct 2025 19:43:17 GMT | Car Jackings, Cybersecurity, and Python? The Power of Coding | Bartosz Kuligowski | [Read More](https://medium.com/p/080719312d62) |
