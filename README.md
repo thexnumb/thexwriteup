@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 22:27:23 GMT | The Navirum Podcast: Transforming Client Data Management with AI — Featuring Ali Qureshi from… | Rory Galvin | [Read More](https://medium.com/p/2dc01989204f) |
+| Fri, 03 Oct 2025 22:18:21 GMT | Kontrolsüz Dijitalleşme Yarışı | Said Oguc | [Read More](https://medium.com/p/a8d3defbdd58) |
+| Fri, 03 Oct 2025 22:15:33 GMT | TryHackMe — PS Eclipse : Write-Up | J Linton | [Read More](https://medium.com/p/877b39d8b2a2) |
 | Fri, 03 Oct 2025 22:08:03 GMT | AR Glasses: The Wearable Revolution Changing How We See the World | Jason Han | [Read More](https://medium.com/p/4dc79831feb6) |
 | Fri, 03 Oct 2025 21:50:55 GMT | Can Hackers Still Get In With Your Password? | Samirah A.O | [Read More](https://medium.com/p/bc2bd648d8ec) |
 | Fri, 03 Oct 2025 21:50:18 GMT | From Startup to SOC 2: A Practical Roadmap for First-Time Compliance | Dera E. | [Read More](https://medium.com/p/d06f15dbd76e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 15:07:54 GMT | The Postmark-MCP Incident: The First Malicious MCP Server Caught Stealing Emails | Harisudhan.S | [Read More](https://medium.com/p/89e02243ba75) |
 | Fri, 03 Oct 2025 15:06:42 GMT | Fundamental of Security | Rahul Kumar | [Read More](https://medium.com/p/3b569bbb0be8) |
 | Fri, 03 Oct 2025 15:03:58 GMT | The Shattered Mirror: Why I Rejected and Lithered My Twin Flame | Wilson Igbasi | [Read More](https://medium.com/p/8ee328360d2e) |
-| Fri, 03 Oct 2025 15:01:50 GMT | If Discipline Feels Like Punishment, You’re Doing It Wrong | Vijay Kumar Gupta | [Read More](https://medium.com/p/1cb0a0502147) |
-| Fri, 03 Oct 2025 14:48:24 GMT | CISSP Training at Cybernous: Elevate Your Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/a6629400dea7) |
-| Fri, 03 Oct 2025 14:48:16 GMT | A Deep Dive into How an Email is Sent (From Power On to Inbox) | Navya Agrahari | [Read More](https://medium.com/p/b694e7f3f7b8) |
