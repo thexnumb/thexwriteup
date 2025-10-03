@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 18:22:10 GMT | Security Tests for FastAPI projects | Cristian | [Read More](https://medium.com/p/3cd10845b557) |
+| Fri, 03 Oct 2025 18:21:16 GMT | AI and the Policy of Most Privilege | Daniel Leeder | [Read More](https://medium.com/p/46506118453f) |
+| Fri, 03 Oct 2025 18:06:49 GMT | From Curiosity to DevSecOps: My Unlikely Journey Through Computers, CG, and Self-Learning | Deneth Vihara | [Read More](https://medium.com/p/3d51e9f17a3c) |
+| Fri, 03 Oct 2025 18:06:12 GMT | The Silent Storm Targeting U.S. Critical Infrastructure: The Volt Typhoon | 0xMan1sh | [Read More](https://medium.com/p/fe2414df1aa0) |
+| Fri, 03 Oct 2025 18:06:11 GMT | What is AI Red Teaming? | Manyi | [Read More](https://medium.com/p/012baebbdd5f) |
+| Fri, 03 Oct 2025 18:05:17 GMT | The Metaverse Myth: Is It Living Up to the Hype? | Jason Han | [Read More](https://medium.com/p/1104f3b2dd63) |
+| Fri, 03 Oct 2025 18:01:54 GMT | Today’s featured CRS article, “Armed Forces Compensation During a Lapse in Appropriations”… | Congressional Communities | [Read More](https://medium.com/p/419083fdee09) |
+| Fri, 03 Oct 2025 17:53:31 GMT | The Physical Layer Explained: How the Internet’s Foundation Really Works | ajay devaliya | [Read More](https://medium.com/p/8e59947de7f1) |
+| Fri, 03 Oct 2025 17:45:07 GMT | Why Starting a Blue Team Career Feels Harder — and How to Do It Without Breaking the Bank | Sri | [Read More](https://medium.com/p/e45a1ea07a34) |
+| Fri, 03 Oct 2025 17:45:04 GMT | Portswigger mystery lab write up -Business logic vulnerabilities: Authentication bypass via flawed… | Hubert | [Read More](https://medium.com/p/7791aac697ef) |
+| Fri, 03 Oct 2025 17:43:23 GMT | Artificial Intelligence: Your Personal Assistant for Work, Learning, and Life | Cycling Medium | [Read More](https://medium.com/p/07efdc91e9d2) |
+| Fri, 03 Oct 2025 17:39:15 GMT | CVE-2019–14287 — Bypassing sudo’s “no root” restriction (TryHackMe walkthrough) | Asif.k | [Read More](https://medium.com/p/1d30362c9d6e) |
+| Fri, 03 Oct 2025 17:38:10 GMT | Cybersecurity Concerns as Blockchain Lands in Global Finance | Matthew.Rosenquist | [Read More](https://medium.com/p/6d17be41e56f) |
 | Fri, 03 Oct 2025 17:32:59 GMT | How Ethical Hacking Is Redesigning the Corporate Security of the Future | Smith Adams | [Read More](https://medium.com/p/e12662c84c6d) |
 | Fri, 03 Oct 2025 17:32:08 GMT | Automating Vulnerability Lifecycle Management: AI-Driven Detection, Prioritization, and Remediation | Sai Krishna Kakarla | [Read More](https://medium.com/p/b14ecc10eff3) |
 | Fri, 03 Oct 2025 17:17:45 GMT | Splunking with Zeek Part 1 | Luke | [Read More](https://medium.com/p/214e9f2beb83) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 12:19:37 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/97eba977f22c) |
 | Fri, 03 Oct 2025 12:14:16 GMT | When Signals Vanish at 22,000 Miles — Putin’s Orbital Jamming Onslaught Begins | The Forensic Archive | [Read More](https://medium.com/p/f6d953e70a12) |
 | Fri, 03 Oct 2025 12:12:52 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/c5793d538e7d) |
-| Fri, 03 Oct 2025 12:08:23 GMT | ️‍♂️ How I Built Bug-hunter MVP: A Beginner’s Roadmap for Bug Bounty Hunting | ghostyjoe | [Read More](https://medium.com/p/2c81d295d7da) |
-| Fri, 03 Oct 2025 12:03:09 GMT | The Day Your AI Agent Turned Into a Sociopath | Napoleon Beltran | [Read More](https://medium.com/p/fa1198405725) |
-| Fri, 03 Oct 2025 12:02:03 GMT | pwn.college: Dealing with Data | Sourav Bose | [Read More](https://medium.com/p/1d7bac04c1a4) |
-| Fri, 03 Oct 2025 12:01:54 GMT | Improper HTML in Chat Leads to Phishing Attacks | 0verRida | [Read More](https://medium.com/p/b931ac3e8a4c) |
-| Fri, 03 Oct 2025 11:57:48 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/a26e97ebe7ac) |
-| Fri, 03 Oct 2025 11:57:34 GMT | Welded Mesh Fencing (سياج شبكي ملحوم): The Ideal Security Solution for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/45dbfbb80402) |
-| Fri, 03 Oct 2025 11:48:24 GMT | How reading documentation led to a €1500 bounty | 0xBruno | [Read More](https://medium.com/p/1429906c07b1) |
-| Fri, 03 Oct 2025 11:48:18 GMT | Ensuring Safety with Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/e42a2bce4098) |
-| Fri, 03 Oct 2025 11:47:32 GMT | Critical- Information Disclosure Bug Closed as Duplicated | Swee2ooth | [Read More](https://medium.com/p/4daed2542d70) |
-| Fri, 03 Oct 2025 11:46:51 GMT | Lessons From Recent Data Breaches In Africa | O. J. Okpabi | [Read More](https://medium.com/p/251c7fdfdaad) |
-| Fri, 03 Oct 2025 11:44:32 GMT | Cybersecurity: The Rising Shield of the Digital Era | SIIMT University College, Ghana | [Read More](https://medium.com/p/bcd8deab6080) |
-| Fri, 03 Oct 2025 11:44:26 GMT | Implementing OKTA SSO in Apache Superset | Harshvijaythakkar | [Read More](https://medium.com/p/848f44e1f4da) |
-| Fri, 03 Oct 2025 11:38:14 GMT | PsExec Hunt Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/dd303f45c48f) |
