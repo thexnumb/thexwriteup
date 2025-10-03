@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 11:34:13 GMT | Swiss Army Knife Series: Episode 1—Regex | Mirage43 | [Read More](https://medium.com/p/94f282345115) |
+| Fri, 03 Oct 2025 11:26:22 GMT | The Role of Kiosk Machines in Creating Hassle-Free Travel Experiences | Rakesh | [Read More](https://medium.com/p/55a85171ef7b) |
+| Fri, 03 Oct 2025 11:25:33 GMT | LATAM Defense Market Deep Research with Forecast By 2025–2031 | Kaverigiri | [Read More](https://medium.com/p/3d899101b46d) |
+| Fri, 03 Oct 2025 11:23:42 GMT | The Secret Power of PostgreSQL That Big Tech Doesn’t Want You to Know | Rizqi Mulki | [Read More](https://medium.com/p/01fb2e933abb) |
+| Fri, 03 Oct 2025 11:20:00 GMT | A Step-by-Step Guide to Asymmetric JWT Authentication | Anvisha | [Read More](https://medium.com/p/c6b72697d37b) |
 | Fri, 03 Oct 2025 11:10:52 GMT | PostgreSQL 17: Performance Benchmarks with Enhanced Security Features | Rizqi Mulki | [Read More](https://medium.com/p/0f85d34bfb68) |
+| Fri, 03 Oct 2025 11:08:37 GMT | LLMs in security, risk & compliance: When to rely on ChatGPT and when not to | SIRV - AI to help manage threats and disruption | [Read More](https://medium.com/p/39b424ccd40f) |
 | Fri, 03 Oct 2025 11:05:55 GMT | HackerOne Paid $81 in Bug Bounty With Emergence of Bionic Hackers | Jasmitharouthu | [Read More](https://medium.com/p/ca26df497400) |
 | Fri, 03 Oct 2025 11:03:41 GMT | The Python Hack That Made Me Rethink Digital Security Forever | Muhummad Zaki | [Read More](https://medium.com/p/813feb8bf7f4) |
 | Fri, 03 Oct 2025 11:02:06 GMT | Why Every Ethical Hacker Should Master Python First | Muhummad Zaki | [Read More](https://medium.com/p/4b551612e83e) |
+| Fri, 03 Oct 2025 10:59:26 GMT | AU SMALL FINANCE BANK PARTNERS UP WITH NMT SECURITY TO PROVIDE CYBERSECURITY SERVICES TO ITS… | Neha Maheshwari | [Read More](https://medium.com/p/1f3d95fa6546) |
 | Fri, 03 Oct 2025 10:58:21 GMT | Advanced Indexing Strategies in PostgreSQL for AI Workload Acceleration | Rizqi Mulki | [Read More](https://medium.com/p/9ab2410b2385) |
 | Fri, 03 Oct 2025 10:54:40 GMT | Comprehensive Construction Site Security Solutions by Securycor | uk service | [Read More](https://medium.com/p/7b5f720f1417) |
 | Fri, 03 Oct 2025 10:53:20 GMT | Cybersecurity Risks in the Era of Wearable AI Surge | Emily McRose Nafisa | [Read More](https://medium.com/p/f6146af5149f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 07:01:52 GMT | The Security Requirements Every Construction Software Must Meet | AlterSquare | [Read More](https://medium.com/p/6e3cb06e2e8b) |
 | Fri, 03 Oct 2025 06:56:21 GMT | Rails 7.1 Has Landed: Why This Release Will Change How You Build Apps | ravi prakash | [Read More](https://medium.com/p/13efca33e335) |
 | Fri, 03 Oct 2025 06:54:43 GMT | 5 Signs Your Startup Needs Staff Augmentation for Real Growth | Danial | [Read More](https://medium.com/p/3cb06aa89910) |
-| Fri, 03 Oct 2025 06:53:38 GMT | The Profound Security Risks of Perpetual Logging: An Analysis of AI “Recall” and Corporate Data… | Biplove Yadav | [Read More](https://medium.com/p/eb20e822bdae) |
-| Fri, 03 Oct 2025 06:49:27 GMT | Try Hack Me- PickleRick Walkthrough | Herrfuhrer | [Read More](https://medium.com/p/be8226f1ec1e) |
-| Fri, 03 Oct 2025 06:49:02 GMT | Major principles of Incident Response | NetWitness | [Read More](https://medium.com/p/11093045f6f4) |
-| Fri, 03 Oct 2025 06:46:41 GMT | Best Tools for Security Awareness Training in a Distracted Workplace | Lanvaus | [Read More](https://medium.com/p/5072eddb6267) |
-| Fri, 03 Oct 2025 06:43:27 GMT | Cursed With the Eyes That Find Beauty in Everything… | Ayushi Jindal | [Read More](https://medium.com/p/fecd974e9471) |
-| Fri, 03 Oct 2025 06:30:00 GMT | How AI is Reshaping Cybersecurity: Real Stories, Real Risks | Diksha | [Read More](https://medium.com/p/3ff69119e50e) |
-| Fri, 03 Oct 2025 06:27:48 GMT | Application Writing Services | Rayolivia | [Read More](https://medium.com/p/3218ed83f21a) |
