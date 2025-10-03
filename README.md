@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 08:22:23 GMT | How Ransomware Threats Are Closing In On African Banks | O. J. Okpabi | [Read More](https://medium.com/p/21cd24e08ad2) |
+| Fri, 03 Oct 2025 08:18:53 GMT | 7 Traits All Top Custom Software Development Companies on Clutch Share | Mahil Jasani | [Read More](https://medium.com/p/dd4a8e0693cc) |
 | Fri, 03 Oct 2025 08:16:23 GMT | Try Hack Me — Year of The Rabbit Walkthrough | Kebronmemes | [Read More](https://medium.com/p/c5fa6577b245) |
 | Fri, 03 Oct 2025 08:12:13 GMT | Securing Your Spring Boot App: Practical Tips You Can’t Skip | Jaytech | [Read More](https://medium.com/p/94e001256da0) |
 | Fri, 03 Oct 2025 08:07:34 GMT | Lost Your Crypto? Here’s How to Recover Stolen or Inaccessible Digital Assets | Boleyn Magic Hackers | [Read More](https://medium.com/p/d19c7b447b4f) |
@@ -30,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 07:37:46 GMT | Incident Response in Banking: Protecting Trust and Financial Stability | Vedantkathale | [Read More](https://medium.com/p/fa1de533a5bc) |
 | Fri, 03 Oct 2025 07:36:21 GMT | I Learned How to Disappear in Plain Sight | Erum Khan | [Read More](https://medium.com/p/3f43b5123125) |
 | Fri, 03 Oct 2025 07:33:21 GMT | Why U.S. Companies Are Turning to IT Staff Augmentation in 2026 | Danial | [Read More](https://medium.com/p/e3d9825e2179) |
+| Fri, 03 Oct 2025 07:33:14 GMT | Geocoding API Free and Marketplace API: A Developer’s Guide | Authorshivani | [Read More](https://medium.com/p/9795b793e6a9) |
 | Fri, 03 Oct 2025 07:32:36 GMT | Why Fire Watch Security is Critical for Construction Sites in Alberta | Hirasarfraz | [Read More](https://medium.com/p/a20f5165d78b) |
 | Fri, 03 Oct 2025 07:27:53 GMT | Bandit - Level 4→ 5- OverTheWire | Deepika  B | [Read More](https://medium.com/p/a6f2d59ee281) |
 | Fri, 03 Oct 2025 07:27:14 GMT | When love seems difficult- Until it doesn’t ❤️ | Nandita Dehra | [Read More](https://medium.com/p/3abeeb974714) |
@@ -40,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 07:15:01 GMT | Why Struggle With H1B Visa Hiring? When you can hire Developers fom India | Danial | [Read More](https://medium.com/p/76b6d19bf613) |
 | Fri, 03 Oct 2025 07:11:10 GMT | Future Software Engineering Training Programs for the Workforce Software | Elite Aneesa999 | [Read More](https://medium.com/p/a085ea78dbdf) |
 | Fri, 03 Oct 2025 07:07:14 GMT | Top 10 Government Jobs in Cyber Security in India | Manisha Chaudhary | [Read More](https://medium.com/p/cfac56bb4c2a) |
+| Fri, 03 Oct 2025 07:06:59 GMT | The Essential Cybersecurity Checklist: Protecting Your Data and Devices | Cyber Security Research | [Read More](https://medium.com/p/51a46f7962de) |
 | Fri, 03 Oct 2025 07:06:32 GMT | Setting Up an Android Dynamic Analysis Environment: ADB, Frida, and Objection | Jai Bhattacharya | [Read More](https://medium.com/p/da1a1812bd43) |
 | Fri, 03 Oct 2025 07:03:05 GMT | Hack The Box Season 9: Step-by-Step Walkthrough of the Imagery | Keshav Kacholiya | [Read More](https://medium.com/p/b6fb67daf511) |
 | Fri, 03 Oct 2025 07:01:52 GMT | The Security Requirements Every Construction Software Must Meet | AlterSquare | [Read More](https://medium.com/p/6e3cb06e2e8b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 02:17:10 GMT | I Caught My Aunt with Another Man and Hid His Keys | Victor Ude | [Read More](https://medium.com/p/36a7ece22bd6) |
 | Fri, 03 Oct 2025 02:13:35 GMT | How to Stop Your Slides from Getting Leaked (Without Paying for Expensive Tools) | ven coding | [Read More](https://medium.com/p/247dc06928bc) |
 | Fri, 03 Oct 2025 02:12:10 GMT | Let it Out” | Heal Time | [Read More](https://medium.com/p/c9eea05bf0b9) |
-| Fri, 03 Oct 2025 02:08:51 GMT | Security and Performance Aspects of Linux Capabilities | Eren Cankut Uysal | [Read More](https://medium.com/p/450961f82b1d) |
-| Fri, 03 Oct 2025 02:07:01 GMT | Advanced Static Analysis | Tony Khalil Rodgers | [Read More](https://medium.com/p/07afa5d9b509) |
-| Fri, 03 Oct 2025 02:00:11 GMT | Security and Performance Aspects of IRQ Affinity Optimization | Eren Cankut Uysal | [Read More](https://medium.com/p/213b6686bf78) |
-| Fri, 03 Oct 2025 01:54:15 GMT | Brick by Brick: Why I’m Choosing to Document My Cybersecurity Journey | Boluwatife shopeju | [Read More](https://medium.com/p/b4d3ae104eb7) |
