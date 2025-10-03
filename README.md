@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 07:33:21 GMT | Why U.S. Companies Are Turning to IT Staff Augmentation in 2026 | Danial | [Read More](https://medium.com/p/e3d9825e2179) |
+| Fri, 03 Oct 2025 07:27:53 GMT | Bandit - Level 4→ 5- OverTheWire | Deepika  B | [Read More](https://medium.com/p/a6f2d59ee281) |
+| Fri, 03 Oct 2025 07:25:29 GMT | Dear old me, | Sena Sheila | [Read More](https://medium.com/p/dfa8d29bba90) |
+| Fri, 03 Oct 2025 07:24:20 GMT | The Daily Tech Digest: 03 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a9762593f2a6) |
+| Fri, 03 Oct 2025 07:24:05 GMT | Elevating Customer Service Excellence with ServiceNow CSM Workflow Automation | Alex s | [Read More](https://medium.com/p/f96914b6d3ab) |
+| Fri, 03 Oct 2025 07:19:29 GMT | Khalani.Network Compromised | Tivoji | [Read More](https://medium.com/p/2b869705a5eb) |
 | Fri, 03 Oct 2025 07:15:01 GMT | Why Struggle With H1B Visa Hiring? When you can hire Developers fom India | Danial | [Read More](https://medium.com/p/76b6d19bf613) |
 | Fri, 03 Oct 2025 07:11:10 GMT | Future Software Engineering Training Programs for the Workforce Software | Elite Aneesa999 | [Read More](https://medium.com/p/a085ea78dbdf) |
 | Fri, 03 Oct 2025 07:07:14 GMT | Top 10 Government Jobs in Cyber Security in India | Manisha Chaudhary | [Read More](https://medium.com/p/cfac56bb4c2a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 00:24:54 GMT | Spotlight on New CST Degree | Kiley Parker | [Read More](https://medium.com/p/b6498fa16220) |
 | Fri, 03 Oct 2025 00:22:37 GMT | OpenShift - Pod Security Standards, Security Context Constraints, Oh My! | W. Jenks Gibbons | [Read More](https://medium.com/p/3e966c16e8d6) |
 | Fri, 03 Oct 2025 00:14:03 GMT | Comprehensive Report on Bias in Large Language Models (LLMs) | Emile J Fagerstrom IV #Bofaf #t3 #1CallWest | [Read More](https://medium.com/p/6d776adc910d) |
-| Fri, 03 Oct 2025 00:02:23 GMT | Write Up Lab: Visible error-based SQL injection | Velskynotfound | [Read More](https://medium.com/p/fb52f0a53867) |
-| Fri, 03 Oct 2025 00:02:07 GMT | Findomain: Herramienta Fundamental para la Enumeración Pasiva de Subdominios | JPablo13 | [Read More](https://medium.com/p/fdb15a37f667) |
-| Thu, 02 Oct 2025 23:47:00 GMT | TryHackMe #81 - Snort Challenge — Live Attacks | 0xGroot | [Read More](https://medium.com/p/996bb2ffd234) |
-| Thu, 02 Oct 2025 23:42:03 GMT | TryHackMe #80 - Snort Challenge — The Basics | 0xGroot | [Read More](https://medium.com/p/672976f85715) |
-| Thu, 02 Oct 2025 23:36:28 GMT | The Most Dangerous Vulnerability In The World | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/4de8b39757da) |
-| Thu, 02 Oct 2025 23:36:28 GMT | TryHackMe #79 - Snort | 0xGroot | [Read More](https://medium.com/p/3252bc20b282) |
