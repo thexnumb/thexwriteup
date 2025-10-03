@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 01:16:25 GMT | The Key to Lasting Charisma: Embracing Authenticity in Relationships | Xiaochen | [Read More](https://medium.com/p/51813e6bcd21) |
+| Fri, 03 Oct 2025 01:14:22 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/cdf8900c1143) |
+| Fri, 03 Oct 2025 01:12:55 GMT | Dropbox Passwords Is Shutting Down: What Users Need to Know - VBM | Marcus Spencer | [Read More](https://medium.com/p/ead69c2a33d9) |
+| Fri, 03 Oct 2025 01:06:54 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/96c17ba07a1d) |
+| Fri, 03 Oct 2025 01:00:58 GMT | Starting Over at 22: My 100 Days Back Into Cybersecurity | Andrej Glavnik | [Read More](https://medium.com/p/236272f09da4) |
+| Fri, 03 Oct 2025 00:52:57 GMT | The Truth About Cybersecurity: Myths vs. Reality | Cyber Security Research | [Read More](https://medium.com/p/138e9c344ff4) |
+| Fri, 03 Oct 2025 00:47:31 GMT | Navigating the Complexities of Cybersecurity Compliance | Cyber Security Research | [Read More](https://medium.com/p/11c606c0e845) |
+| Fri, 03 Oct 2025 00:41:17 GMT | Cybersecurity for Everyone: Protecting Yourself in the Digital Age | Cyber Security Research | [Read More](https://medium.com/p/6e072a01750d) |
+| Fri, 03 Oct 2025 00:24:54 GMT | Spotlight on New CST Degree | Kiley Parker | [Read More](https://medium.com/p/b6498fa16220) |
+| Fri, 03 Oct 2025 00:22:37 GMT | OpenShift - Pod Security Standards, Security Context Constraints, Oh My! | W. Jenks Gibbons | [Read More](https://medium.com/p/3e966c16e8d6) |
+| Fri, 03 Oct 2025 00:14:03 GMT | Comprehensive Report on Bias in Large Language Models (LLMs) | Emile J Fagerstrom IV #Bofaf #t3 #1CallWest | [Read More](https://medium.com/p/6d776adc910d) |
+| Fri, 03 Oct 2025 00:02:23 GMT | Write Up Lab: Visible error-based SQL injection | Velskynotfound | [Read More](https://medium.com/p/fb52f0a53867) |
+| Thu, 02 Oct 2025 23:47:00 GMT | TryHackMe #81 - Snort Challenge — Live Attacks | 0xGroot | [Read More](https://medium.com/p/996bb2ffd234) |
+| Thu, 02 Oct 2025 23:42:03 GMT | TryHackMe #80 - Snort Challenge — The Basics | 0xGroot | [Read More](https://medium.com/p/672976f85715) |
+| Thu, 02 Oct 2025 23:36:28 GMT | The Most Dangerous Vulnerability In The World | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/4de8b39757da) |
+| Thu, 02 Oct 2025 23:36:28 GMT | TryHackMe #79 - Snort | 0xGroot | [Read More](https://medium.com/p/3252bc20b282) |
+| Thu, 02 Oct 2025 23:34:55 GMT | AI Code Wars: How Hackers Exploit Generative AI to Breach Enterprises from Within | Opakunle 'Bowale | [Read More](https://medium.com/p/0c22d6637e47) |
 | Thu, 02 Oct 2025 23:32:46 GMT | 3v@l — Exploiting an eval-based Loan Calculator (picoCTF) | Sahand Babali | [Read More](https://medium.com/p/4d3f8e53551b) |
+| Thu, 02 Oct 2025 23:32:01 GMT | The Strategy of the Sixth Angel: Crippling Industrial Control Networks at Minimum Cost! | Scott Huang | [Read More](https://medium.com/p/d933a48eb174) |
 | Thu, 02 Oct 2025 23:26:30 GMT | TryHackMe #77 - Trooper | 0xGroot | [Read More](https://medium.com/p/cee19991a600) |
 | Thu, 02 Oct 2025 23:26:04 GMT | PG Practice — Mice(Windows) | Lepton | [Read More](https://medium.com/p/2e88f45bfe78) |
 | Thu, 02 Oct 2025 23:22:11 GMT | TryHackMe #76 - Friday Overtime | 0xGroot | [Read More](https://medium.com/p/f1b063b370f0) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 16:55:35 GMT | BFT — Digital Forensics (DFIR) | Tiziano Mass | [Read More](https://medium.com/p/367c34821ce1) |
 | Thu, 02 Oct 2025 16:51:22 GMT | The Great Cybersecurity Comedy of Errors | Vamsi Basa | [Read More](https://medium.com/p/847f9564f411) |
 | Thu, 02 Oct 2025 16:40:55 GMT | The Cybersecurity Skills Gap: Addressing the Talent Shortage | Cyber Security Research | [Read More](https://medium.com/p/cabf06b61486) |
-| Thu, 02 Oct 2025 16:35:44 GMT | I Almost Quit Hacking | Shahzaib | [Read More](https://medium.com/p/a961ef9924fc) |
-| Thu, 02 Oct 2025 16:35:10 GMT | The ‘Failure Resume’: Why a Junior Pentester’s Best Tool is Documenting What Didn’t Work | vydhi | [Read More](https://medium.com/p/0b1c781b08aa) |
-| Thu, 02 Oct 2025 16:33:33 GMT | Advanced Persistent Threats (APTs): Understanding the Enemy | Cyber Security Research | [Read More](https://medium.com/p/a96c27b6799f) |
-| Thu, 02 Oct 2025 16:30:46 GMT | Flipper Zero: The Hottest Hacking Device of 2025? | Shahzaib | [Read More](https://medium.com/p/8ad3bbeada5b) |
-| Thu, 02 Oct 2025 16:29:27 GMT | GitHub — Paddyjoe12/bughunter-mvp: Minimal Docker-based bug hunting starter stack (FastAPI +… | ghostyjoe | [Read More](https://medium.com/p/54eed66884bc) |
-| Thu, 02 Oct 2025 16:29:21 GMT | Thinkware U1000 Plus Dash Cam System REVIEW — MacSources | MacSources | [Read More](https://medium.com/p/5a40aae222a5) |
-| Thu, 02 Oct 2025 16:27:45 GMT | Faire is now ISO 27001 certified | Waylon Janowiak | [Read More](https://medium.com/p/d3474d4167fe) |
-| Thu, 02 Oct 2025 16:26:54 GMT | Mastering the Art of Social Engineering Defense | Cyber Security Research | [Read More](https://medium.com/p/60f2711e4233) |
-| Thu, 02 Oct 2025 16:18:38 GMT | The missing link in MDR. Spoiler, it starts with a Detection Engineering framework. | Behemoth Security | [Read More](https://medium.com/p/5f836347c92f) |
-| Thu, 02 Oct 2025 16:13:07 GMT | Cybersecurity in Banking: How to Protect Your Money in 2025 | smartfinancetipss | [Read More](https://medium.com/p/d6d28f35b827) |
-| Thu, 02 Oct 2025 16:09:47 GMT | Broken Access Control | aimaster | [Read More](https://medium.com/p/c100c2f3b0e8) |
-| Thu, 02 Oct 2025 16:08:09 GMT | Don’t Get Hacked: The Critical Defense Against Telegram Phishing Scams | Prince Philip | [Read More](https://medium.com/p/58ec076b784a) |
-| Thu, 02 Oct 2025 16:07:40 GMT | 5 Fastest Ways to Make Money with AI and Chat GPT……….. | gk | [Read More](https://medium.com/p/73a7d277c1b9) |
-| Thu, 02 Oct 2025 16:06:36 GMT | Stop Fixing Bugs. Start Preventing Them. | Muhammad Mudassir Siddiqui | [Read More](https://medium.com/p/2aa0463a4cdd) |
-| Thu, 02 Oct 2025 16:03:36 GMT | The Quantum Leap: What Quantum Computing Really Means for the Everyday Innovator | Saad imtiaz | [Read More](https://medium.com/p/95c37bb39ec4) |
-| Thu, 02 Oct 2025 16:03:32 GMT | Scanning the Scanners: A SOC Analyst’s Guide to Network Discovery Detection | Furkanctiner | [Read More](https://medium.com/p/1203cd804877) |
-| Thu, 02 Oct 2025 15:51:22 GMT | No Turning Back as US IT Leaders Invest Boldly in AI, Data and Cybersecurity | Strategy Insights | [Read More](https://medium.com/p/b35f7ac6da3e) |
-| Thu, 02 Oct 2025 15:45:44 GMT | Russia’s Starlink Gamble — How One GRU Unit 74455 Could Weaponize User Devices | The Forensic Archive | [Read More](https://medium.com/p/5efcec559a4a) |
