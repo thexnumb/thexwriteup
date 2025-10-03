@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 21:21:15 GMT | Cyber Security Tutorial (Part2): The Evolution of Online Reconnaissance | mohandika | [Read More](https://medium.com/p/13b1c9d99b96) |
+| Fri, 03 Oct 2025 21:19:56 GMT | CVE-2022–26134: The Confluence RCE That Shook Enterprise Security | VampireXRay | [Read More](https://medium.com/p/2b58c5385011) |
 | Fri, 03 Oct 2025 21:06:56 GMT | Behind the Screen: Surviving Cyberstalking | Uncoverwithdale | [Read More](https://medium.com/p/df7d50469755) |
 | Fri, 03 Oct 2025 21:06:26 GMT | Sustainable Tech: Gadgets Designed to Save the Planet | Jason Han | [Read More](https://medium.com/p/734098aa8643) |
 | Fri, 03 Oct 2025 21:04:52 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/d2cbdf232c22) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 14:31:08 GMT | Telnet Authentication — Hackviser Lab Writeup | Eren Aloğlu | [Read More](https://medium.com/p/b7d47295d298) |
 | Fri, 03 Oct 2025 14:29:57 GMT | The ultimate guide to the IT kennel, part 2 | Drama, comma, grammar trauma | [Read More](https://medium.com/p/46b968567e6e) |
 | Fri, 03 Oct 2025 14:26:18 GMT | Secrecy Management in Times of Crisis: From Team Purpose to Cyber Resilience | Paulo Valente | [Read More](https://medium.com/p/2a31ebad564c) |
-| Fri, 03 Oct 2025 14:21:50 GMT | School Device Management with SentryPC: Enhancing Safety and Security | Paul Meyer | [Read More](https://medium.com/p/974fd228952a) |
-| Fri, 03 Oct 2025 14:20:54 GMT | Making Graphic Sense of Security Data: A Practical Guide to Microsoft Sentinel Workbooks | Defend Microsoft365 now! | [Read More](https://medium.com/p/b3864a87240a) |
