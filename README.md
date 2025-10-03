@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 06:30:00 GMT | How AI is Reshaping Cybersecurity: Real Stories, Real Risks | Diksha | [Read More](https://medium.com/p/3ff69119e50e) |
+| Fri, 03 Oct 2025 06:27:48 GMT | Application Writing Services | Rayolivia | [Read More](https://medium.com/p/3218ed83f21a) |
+| Fri, 03 Oct 2025 06:15:47 GMT | A Bitget Recruitment Scam — My Experience and Warning | David SEHYEON Baek | [Read More](https://medium.com/p/f5dfd9d31457) |
+| Fri, 03 Oct 2025 06:14:47 GMT | SOC Automation Project (Home Lab): Building a Detection and Response Lab with Sysmon, Wazuh… | kuraido | [Read More](https://medium.com/p/fb38e19e9e45) |
+| Fri, 03 Oct 2025 06:13:52 GMT | Job Guaranteed Courses in Noida — Placement Assured Training Programs | Evision Technoserve | [Read More](https://medium.com/p/cd6ea33a8e0d) |
+| Fri, 03 Oct 2025 06:09:49 GMT | Rate Limits? Never Heard of Them: How I Brute-Forced My Way Through Every Account | Iski | [Read More](https://medium.com/p/b6865f86dd42) |
+| Fri, 03 Oct 2025 06:06:19 GMT | Upgrade Your Career with Leadership & Management Courses in Australia | royalinternational | [Read More](https://medium.com/p/5b632761d380) |
+| Fri, 03 Oct 2025 05:58:05 GMT | SSRF Validator | Malekith | [Read More](https://medium.com/p/0a292b0a604c) |
+| Fri, 03 Oct 2025 05:58:02 GMT | GZR Observer — India Geo Perspective — Weekly — Oct 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/36fcaa7e788e) |
+| Fri, 03 Oct 2025 05:56:47 GMT | Mexican Senate Advances Framework for National Cybersecurity Law | SafetyDetectives Research Team | [Read More](https://medium.com/p/d36c12adf610) |
+| Fri, 03 Oct 2025 05:48:36 GMT | CYBER SECURITY AWARENESS MONTH — October 2025 | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/1ba30bea9056) |
+| Fri, 03 Oct 2025 05:40:48 GMT | Cybersecurity Awareness in Schools: Protecting the Next Generation | Mahendra Sunil | [Read More](https://medium.com/p/3880606bedf1) |
+| Fri, 03 Oct 2025 05:38:49 GMT | Bandit - Level 3→ 4- OverTheWire | Deepika  B | [Read More](https://medium.com/p/8c16e0d01935) |
+| Fri, 03 Oct 2025 05:37:58 GMT | Indie hacking, a term that has gained significant traction in recent years, encapsulates the… | Charles  Schultz | [Read More](https://medium.com/p/dc0e7d1c9b49) |
 | Fri, 03 Oct 2025 05:35:30 GMT | Deeper Connect Air Portable Decentralized VPN Travel Router | Stack Social Deals | [Read More](https://medium.com/p/bc94b53adc0a) |
+| Fri, 03 Oct 2025 05:35:06 GMT | What Are Networking Devices? | Mutai Emmanuel Kibet | [Read More](https://medium.com/p/2fd3f6bc1b5e) |
 | Fri, 03 Oct 2025 05:32:02 GMT | Top Cybersecurity Threats That Everyone Ignores | Ann Maria | [Read More](https://medium.com/p/6beca3444372) |
 | Fri, 03 Oct 2025 05:22:44 GMT | AdGuard VPN + Ad Blocker Family Security Suite | Stack Social Deals | [Read More](https://medium.com/p/fbb8dbd1b3fd) |
 | Fri, 03 Oct 2025 05:20:31 GMT | Safeguarding Industrial Operations: The Critical Role of OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/6bf8ce20bd11) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 22:53:28 GMT | 2025 Cybersecurity Reality Check | Cyber-AppSec | [Read More](https://medium.com/p/e98b431bb2b1) |
 | Thu, 02 Oct 2025 22:51:55 GMT | Everyone loves vulnerability — right up until it starts crying | Martina Vragovic | [Read More](https://medium.com/p/927f457fac46) |
 | Thu, 02 Oct 2025 22:47:53 GMT | Securing Data in Integrations: Tips and Best Practices | Vanshi Tiwari | [Read More](https://medium.com/p/36a0c2d427c7) |
-| Thu, 02 Oct 2025 22:43:54 GMT | Why “Login with Microsoft” is Broken — and How Labii Secures It with Two-Step Verification | Labii | [Read More](https://medium.com/p/13013535565d) |
-| Thu, 02 Oct 2025 22:29:11 GMT | Hack the Box — Trick — WriteUp | Emre A. | [Read More](https://medium.com/p/77bd5b467a9d) |
-| Thu, 02 Oct 2025 22:16:25 GMT | The Future of Digital Assets | B Li8ht | [Read More](https://medium.com/p/857068439844) |
-| Thu, 02 Oct 2025 21:32:33 GMT | Red Hat Data Breach, Hackers Claim Access to 28K Private GitHub Repositories | SCtoCS | [Read More](https://medium.com/p/41444919ccd1) |
-| Thu, 02 Oct 2025 21:28:53 GMT | When AI Becomes Your “Pair Programmer”: Empowerment, Risk & Habits for Resilient Developers | Juan S. Fernandez | [Read More](https://medium.com/p/663f67065a00) |
-| Thu, 02 Oct 2025 21:26:52 GMT | The Human Equation: Using Science to Build a Resilient Team for Digital Transformation | Dennis Vinciguerra | [Read More](https://medium.com/p/5d54bae5db24) |
-| Thu, 02 Oct 2025 21:22:56 GMT | How Long Will Your Password Stay Safe? | Ray Kissyou | [Read More](https://medium.com/p/0a8ad942e54f) |
-| Thu, 02 Oct 2025 21:15:21 GMT | Examples of Cyberattacks in Kazakhstan and Their Consequences | Cyberintruder Net | [Read More](https://medium.com/p/14b533bcf4d2) |
-| Thu, 02 Oct 2025 21:13:39 GMT | ISO 27001 in the Real World: Part 1 | Sumana's writing | [Read More](https://medium.com/p/5907a0e6092e) |
-| Thu, 02 Oct 2025 21:12:11 GMT | Predicting and Preventing Cyberattacks Using Artificial Intelligence | Cyberintruder Net | [Read More](https://medium.com/p/f2f7edeabdc9) |
-| Thu, 02 Oct 2025 21:10:05 GMT | $50 Battering RAM Attack Breaks Intel, AMD Cloud Security Protections | SCtoCS | [Read More](https://medium.com/p/cad5adebd96f) |
-| Thu, 02 Oct 2025 21:08:55 GMT | EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations | SCtoCS | [Read More](https://medium.com/p/01fe672fe27b) |
-| Thu, 02 Oct 2025 21:02:58 GMT | Why Vulnerability Is the Key to Living a Fulffling life!! | Catalin-Andrei  Chiras | [Read More](https://medium.com/p/e7d1efaed806) |
-| Thu, 02 Oct 2025 20:46:42 GMT | China Updates to New Cybersecurity Reporting Rules | Matthew.Rosenquist | [Read More](https://medium.com/p/ee1becbaf2e7) |
-| Thu, 02 Oct 2025 20:36:13 GMT | Dumping Edge Browser to Steal Cookies | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cb5d659917d2) |
