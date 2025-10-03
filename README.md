@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Oct 2025 06:46:41 GMT | Best Tools for Security Awareness Training in a Distracted Workplace | Lanvaus | [Read More](https://medium.com/p/5072eddb6267) |
 | Fri, 03 Oct 2025 06:30:00 GMT | How AI is Reshaping Cybersecurity: Real Stories, Real Risks | Diksha | [Read More](https://medium.com/p/3ff69119e50e) |
 | Fri, 03 Oct 2025 06:27:48 GMT | Application Writing Services | Rayolivia | [Read More](https://medium.com/p/3218ed83f21a) |
+| Fri, 03 Oct 2025 06:25:09 GMT | The Corix Partners Friday Reading List — October 3, 2025 | JC Gaillard | [Read More](https://medium.com/p/f1613f068b91) |
+| Fri, 03 Oct 2025 06:20:59 GMT | Network Discovery Detection | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/0d8cc06b7c08) |
 | Fri, 03 Oct 2025 06:15:47 GMT | A Bitget Recruitment Scam — My Experience and Warning | David SEHYEON Baek | [Read More](https://medium.com/p/f5dfd9d31457) |
 | Fri, 03 Oct 2025 06:14:47 GMT | SOC Automation Project (Home Lab): Building a Detection and Response Lab with Sysmon, Wazuh… | kuraido | [Read More](https://medium.com/p/fb38e19e9e45) |
 | Fri, 03 Oct 2025 06:13:52 GMT | Job Guaranteed Courses in Noida — Placement Assured Training Programs | Evision Technoserve | [Read More](https://medium.com/p/cd6ea33a8e0d) |
@@ -92,6 +95,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 00:22:37 GMT | OpenShift - Pod Security Standards, Security Context Constraints, Oh My! | W. Jenks Gibbons | [Read More](https://medium.com/p/3e966c16e8d6) |
 | Fri, 03 Oct 2025 00:14:03 GMT | Comprehensive Report on Bias in Large Language Models (LLMs) | Emile J Fagerstrom IV #Bofaf #t3 #1CallWest | [Read More](https://medium.com/p/6d776adc910d) |
 | Fri, 03 Oct 2025 00:02:23 GMT | Write Up Lab: Visible error-based SQL injection | Velskynotfound | [Read More](https://medium.com/p/fb52f0a53867) |
+| Fri, 03 Oct 2025 00:02:07 GMT | Findomain: Herramienta Fundamental para la Enumeración Pasiva de Subdominios | JPablo13 | [Read More](https://medium.com/p/fdb15a37f667) |
 | Thu, 02 Oct 2025 23:47:00 GMT | TryHackMe #81 - Snort Challenge — Live Attacks | 0xGroot | [Read More](https://medium.com/p/996bb2ffd234) |
 | Thu, 02 Oct 2025 23:42:03 GMT | TryHackMe #80 - Snort Challenge — The Basics | 0xGroot | [Read More](https://medium.com/p/672976f85715) |
 | Thu, 02 Oct 2025 23:36:28 GMT | The Most Dangerous Vulnerability In The World | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/4de8b39757da) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Oct 2025 23:07:51 GMT | Unwelcome and Dangerous Internet Traffic | George Sidman | [Read More](https://medium.com/p/1d93f01c4019) |
 | Thu, 02 Oct 2025 23:04:58 GMT | Why Passing SPF and DKIM Isn’t Enough: A New Framework for Email Sender Trust | Nikola | [Read More](https://medium.com/p/66f94350a431) |
 | Thu, 02 Oct 2025 23:01:12 GMT | CyberExam: Introduction to Forensics and Incident Response — Writeup | Ensar Özder | [Read More](https://medium.com/p/a21d811d67c4) |
-| Thu, 02 Oct 2025 22:57:18 GMT | CCTV monitoring in residential areas | Visual Monitoring Solutions | [Read More](https://medium.com/p/81af17d329f0) |
-| Thu, 02 Oct 2025 22:53:28 GMT | 2025 Cybersecurity Reality Check | Cyber-AppSec | [Read More](https://medium.com/p/e98b431bb2b1) |
-| Thu, 02 Oct 2025 22:51:55 GMT | Everyone loves vulnerability — right up until it starts crying | Martina Vragovic | [Read More](https://medium.com/p/927f457fac46) |
-| Thu, 02 Oct 2025 22:47:53 GMT | Securing Data in Integrations: Tips and Best Practices | Vanshi Tiwari | [Read More](https://medium.com/p/36a0c2d427c7) |
