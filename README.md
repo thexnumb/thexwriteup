@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 21:27:31 GMT | ️ AI CyberShield: The Human Firewall Revolution | Nikolay Gul | [Read More](https://medium.com/p/d8b3cd3d8a60) |
+| Sat, 04 Oct 2025 21:21:30 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/e70266a696d2) |
+| Sat, 04 Oct 2025 21:17:53 GMT | Simple Guide to AI Powered Threats | Ibtissam hammadi | [Read More](https://medium.com/p/849f64e52757) |
 | Sat, 04 Oct 2025 21:02:23 GMT | It’s Never Too Late — in Life or in Cybersecurity | Danielle Koppel | [Read More](https://medium.com/p/2455fd309a19) |
 | Sat, 04 Oct 2025 20:47:28 GMT | Pain is a friend we keep meeting for the first time | Khalisha Farhanah | [Read More](https://medium.com/p/306bd5c33a7f) |
 | Sat, 04 Oct 2025 20:34:52 GMT | Hybrid Models (MPI + OpenMP): Motivation and Use-Cases | DHANASHREE SANJAY CHILA | [Read More](https://medium.com/p/60a547f0d1f5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 14:31:53 GMT | Is Your Business a Sitting Duck? | Janeel Abrahams | [Read More](https://medium.com/p/5996c90dfdeb) |
 | Sat, 04 Oct 2025 14:31:28 GMT | Inside My Lab: How I Created and Detected My Own Malware | Akshatdwivedi | [Read More](https://medium.com/p/33038c9758c3) |
 | Sat, 04 Oct 2025 14:24:30 GMT | Beyond the Title: Why I Started CISO Chair™ | CISO Chair™ | [Read More](https://medium.com/p/335790d4f8ab) |
-| Sat, 04 Oct 2025 14:17:52 GMT | What Makes Someone Sexually Magnetic? | Xiaochen | [Read More](https://medium.com/p/60b2ed92a9f0) |
-| Sat, 04 Oct 2025 14:17:21 GMT | Weekly Roundup — October 4th 2025 | litwtch | [Read More](https://medium.com/p/b33c59c366de) |
-| Sat, 04 Oct 2025 14:15:19 GMT | My last Writeup (0day in Zsh (RCE)) | livepwn | [Read More](https://medium.com/p/ce3dcbca0105) |
