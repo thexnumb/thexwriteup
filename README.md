@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 18:06:27 GMT | Bug Bounty: De HTMLI a RCE — Guía práctica y paso a paso | Gorka | [Read More](https://medium.com/p/d6d499c8ef68) |
+| Sat, 04 Oct 2025 18:05:29 GMT | Love in the air, but fear in the heart | Alishba Khalid | [Read More](https://medium.com/p/aa0d38683177) |
+| Sat, 04 Oct 2025 18:00:47 GMT | ‍ Only Senior Java Devs Can Spot the Bug in This Code — Can You? ☕ | Karuna | [Read More](https://medium.com/p/87c3808398e1) |
+| Sat, 04 Oct 2025 17:54:12 GMT | Why You Should Never Use Java String to Store Passwords | Yeshwanth Reddy N | [Read More](https://medium.com/p/b30d31953373) |
+| Sat, 04 Oct 2025 17:53:51 GMT | The Ultimate Metasploit Database Cheatsheet | eRRoR | [Read More](https://medium.com/p/1e82070d2930) |
+| Sat, 04 Oct 2025 17:50:07 GMT | Don’t Let Your Lost Crypto Disappear Forever — Recover It Now, Contact Mighty Hackar Recovery today! | SuKo Reply | [Read More](https://medium.com/p/43c435bc3a8e) |
+| Sat, 04 Oct 2025 17:49:54 GMT | Networking foundations Part 2: What is Link layer in TCP/IP? | Vishnuprasad O | [Read More](https://medium.com/p/f01cef7a44da) |
+| Sat, 04 Oct 2025 17:44:04 GMT | IPv6 Man-in-the-Middle Attacks in Windows Networks (MITM6) | Ammar Ahmed | [Read More](https://medium.com/p/e1eee1df6e6c) |
+| Sat, 04 Oct 2025 17:40:19 GMT | A New Weapon in Hacker’s Arsenal: Deploying Rogue Wi-Fi AP to Perform Evil-Twin Attacks using… | Sachin      Verlekar | [Read More](https://medium.com/p/0ab45f6c5a9e) |
 | Sat, 04 Oct 2025 17:36:44 GMT | Digital Tracing vs Traditional Tracing — A Story from the Ground | Kiran Sawant | [Read More](https://medium.com/p/d35e933127fc) |
+| Sat, 04 Oct 2025 17:36:28 GMT | Breaking the ‘Black Hat Glamour’: Why a Focus on Defense Pays Better Than Offense | vydhi | [Read More](https://medium.com/p/4c92eb8adaed) |
+| Sat, 04 Oct 2025 17:34:40 GMT | The Art of Crypto Scams | 0x0vid | [Read More](https://medium.com/p/1daa01a639e0) |
+| Sat, 04 Oct 2025 17:34:34 GMT | Building my home server: Part 1 | Denes Beck | [Read More](https://medium.com/p/19dfaa73dc97) |
 | Sat, 04 Oct 2025 17:33:52 GMT | AI can be hallucinating while responding, and you need to be aware of that. | Iqra Mushtaq | [Read More](https://medium.com/p/97ece92a9277) |
+| Sat, 04 Oct 2025 17:30:23 GMT | Hack The Box — Power Greed: Complete Pwn Writeup & ROP Explained (Part 1) | Geexirooz | [Read More](https://medium.com/p/f6e560465dbc) |
 | Sat, 04 Oct 2025 17:20:33 GMT | How I weaponised a registration flow bug and OTP bypass technique to hijack accounts. | Amit Dutta | [Read More](https://medium.com/p/23758688e38d) |
 | Sat, 04 Oct 2025 17:18:40 GMT | Investigating Windows — TryHackMe Walkthrough | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/8bdde007d90b) |
 | Sat, 04 Oct 2025 17:16:55 GMT | Double Phishing Threat: Ukraine Impersonators and Copyright Scams | Aj | [Read More](https://medium.com/p/d8842450c13d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 12:59:42 GMT | Ultralytics YOLO AI Model Compromised in Supply Chain Attack | Mustapha Aitigunaoun | [Read More](https://medium.com/p/3e424dc9f1ba) |
 | Sat, 04 Oct 2025 12:59:37 GMT | Mastering Blind XSS: A Comprehensive Guide to Finding and Exploiting This Hidden Vulnerability | Monika sharma | [Read More](https://medium.com/p/c4538397e782) |
 | Sat, 04 Oct 2025 12:56:00 GMT | How Documenting Is Your Best Defense | Data Defendere | [Read More](https://medium.com/p/6935a218c724) |
-| Sat, 04 Oct 2025 12:55:26 GMT | Abusing Constrained Delegation in Kerberos | SeverSerenity | [Read More](https://medium.com/p/dd4d4c8b66dd) |
-| Sat, 04 Oct 2025 12:53:45 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/af11eea5bb5e) |
-| Sat, 04 Oct 2025 12:52:02 GMT | How to Audit Your Building’s Security Without Breaking Any Laws | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b9bb6b597493) |
-| Sat, 04 Oct 2025 12:50:03 GMT | Story of $$$$ Bounty: 80k+ Users Data Exposed via Signup Flaw | V3D | [Read More](https://medium.com/p/0f41e1d57481) |
-| Sat, 04 Oct 2025 12:49:31 GMT | Investigating Emulated Attack via Splunk | Ahmadhossam | [Read More](https://medium.com/p/bafb2fbe11f3) |
-| Sat, 04 Oct 2025 12:46:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/84fd459dce2e) |
-| Sat, 04 Oct 2025 12:44:20 GMT | Splunk Primers: Fields | Antonella Blasetti | [Read More](https://medium.com/p/ff39a2707701) |
-| Sat, 04 Oct 2025 12:41:21 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6f5291bbc840) |
-| Sat, 04 Oct 2025 12:23:32 GMT | The IoT Security Nightmare | Cyber Security Research | [Read More](https://medium.com/p/768d8f262245) |
-| Sat, 04 Oct 2025 12:19:13 GMT | Scanning Activity on Palo Alto Networks Portals Surges 500% in Just One Day | Jasmitharouthu | [Read More](https://medium.com/p/b3913293f3b5) |
-| Sat, 04 Oct 2025 12:16:30 GMT | Beyond Passwords: Authentication Revolution | Cyber Security Research | [Read More](https://medium.com/p/a5edd16f3726) |
-| Sat, 04 Oct 2025 12:13:34 GMT | HTTP Methods: What They Do and Why They Matter for Security | Devaduth Saji | [Read More](https://medium.com/p/09835a7a2306) |
-| Sat, 04 Oct 2025 12:11:52 GMT | HTTP Status Codes: The Little Messages Your Browser and Server Send | Devaduth Saji | [Read More](https://medium.com/p/50c74faec08f) |
