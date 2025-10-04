@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 15:28:26 GMT | TryHackMe: Infinity Shell (Write-Up) | Daniel Kochishvili | [Read More](https://medium.com/p/a2ccd4554f09) |
+| Sat, 04 Oct 2025 15:27:46 GMT | Behind Enemy Lines: How Attackers Hijack Windows Networks with SMBExec — and How DFIR Teams… | Paritosh | [Read More](https://medium.com/p/e727b2f068f9) |
+| Sat, 04 Oct 2025 15:24:20 GMT | Let’s talk about Angular & Security️ | mohamed aziz aydi | [Read More](https://medium.com/p/0d580f19b4ef) |
+| Sat, 04 Oct 2025 15:21:04 GMT | Search Order Attacks: Simple, yet Deadly. | Rayhan Tsani | [Read More](https://medium.com/p/4860026d3189) |
+| Sat, 04 Oct 2025 15:20:02 GMT | XDR: Credential Access | Cheryl Maise Lobo | [Read More](https://medium.com/p/4709de744fbf) |
 | Sat, 04 Oct 2025 15:12:56 GMT | 36 Questions to Make Strangers FALL IN LOVE | VipLuv | [Read More](https://medium.com/p/7da0d3425795) |
 | Sat, 04 Oct 2025 15:07:56 GMT | Phishing Exposed: The Art of Deception | Cyber Security Research | [Read More](https://medium.com/p/5efaf2ff92c1) |
 | Sat, 04 Oct 2025 15:01:55 GMT | Ransomware’s Ruthless Reign | Cyber Security Research | [Read More](https://medium.com/p/595591c551cd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 10:03:53 GMT | Toward an International Institute for Novel Cryptography Methods: Exploring Semantic and… | Martin T. Bosnev | [Read More](https://medium.com/p/f053c9d253ad) |
 | Sat, 04 Oct 2025 10:01:31 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/058a9751a1a9) |
 | Sat, 04 Oct 2025 09:56:59 GMT | A stepwise approach to handling a Ransomware incident in your business | devmihaylov | [Read More](https://medium.com/p/71659a55719b) |
-| Sat, 04 Oct 2025 09:49:04 GMT | Unquoted Service Path in 2025 | Marco Nappi | [Read More](https://medium.com/p/0cdc0ed54c34) |
-| Sat, 04 Oct 2025 09:48:46 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/58316ba2ad30) |
-| Sat, 04 Oct 2025 09:41:45 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/7332a03c1d50) |
-| Sat, 04 Oct 2025 09:38:45 GMT | My last Writeup (0day in Zsh (RCE)) | livepwn | [Read More](https://medium.com/p/4970952f3fed) |
-| Sat, 04 Oct 2025 09:34:36 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ea46e0aa05ec) |
