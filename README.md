@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 20:16:09 GMT | Silencing the Digital Abuse: How AI is Stepping Up to Control Cyberbullying in Mass Media | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/133934883490) |
+| Sat, 04 Oct 2025 20:15:11 GMT | Exploring BrowsingHistoryView: A Simple Way to Uncover Web Activity | Allen Ace | [Read More](https://medium.com/p/5bcf2dd7a811) |
+| Sat, 04 Oct 2025 20:06:32 GMT | CS student tries to evade AV (PART 1) | Mahmudul Hasan | [Read More](https://medium.com/p/ad8452f38079) |
 | Sat, 04 Oct 2025 19:57:53 GMT | Lab 3 — UNION SQL Injection: Determine Columns and Extract Database Data | Apexium Technologies Ltd | [Read More](https://medium.com/p/2503c8593ff1) |
 | Sat, 04 Oct 2025 19:53:38 GMT | Millennial Developer Nostalgia | Alessandro Bruschieri | [Read More](https://medium.com/p/79b1f5e510f8) |
 | Sat, 04 Oct 2025 19:50:48 GMT | Building a Secure Password Manager Database with MySQL | AlexN@InfoSec | [Read More](https://medium.com/p/fac0aa5e76ad) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 14:07:49 GMT | New Invisible Attack Creates Parallel Poisoned Web Only for AI Agents | Shaked Zychlinski ️ | [Read More](https://medium.com/p/22319304ba73) |
 | Sat, 04 Oct 2025 14:02:14 GMT | ABTU’s Roadmap: Building the Foundation for Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/e9f5e4999894) |
 | Sat, 04 Oct 2025 14:00:39 GMT | Bug Why does big tech not run Accessibility bug bounties? | Chris Yoong | [Read More](https://medium.com/p/6fdbaf80d6d0) |
-| Sat, 04 Oct 2025 14:00:35 GMT | Cybersecurity in Networking: Protecting Data in the Digital Age | Dr. Minakshmi Shaw | [Read More](https://medium.com/p/d0d71f78e731) |
-| Sat, 04 Oct 2025 13:57:23 GMT | HOW I FOUND THE CVE-2025–0133? | DOD cyber solutions | [Read More](https://medium.com/p/759d3e0f8a92) |
-| Sat, 04 Oct 2025 13:54:17 GMT | The Invisible Thief in Your Xcode Project | Aj | [Read More](https://medium.com/p/3c3333c916dc) |
