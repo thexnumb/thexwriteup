@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 06:44:51 GMT | The Delicate Dance: Discerning Attachment from True Connection | Chiamaka Umeh | [Read More](https://medium.com/p/1bf194c9688c) |
+| Sat, 04 Oct 2025 06:39:53 GMT | Sudo Without Su: CVE-2025–32463 PoC | Toshith | [Read More](https://medium.com/p/fe8e2ce116d9) |
+| Sat, 04 Oct 2025 06:36:01 GMT | Navigating the Minefield: Communicating Hurt Without Pushing Your Partner Away | Chiamaka Umeh | [Read More](https://medium.com/p/faee30bda1d8) |
+| Sat, 04 Oct 2025 06:35:40 GMT | Advanced Turnstile Speed Gates for Corporate Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/aed2619bafe9) |
+| Sat, 04 Oct 2025 06:25:51 GMT | When I chat with anyone or do anything on Dark Web .onion, any government agency can track me | LogicTech | [Read More](https://medium.com/p/a54995f20d72) |
 | Sat, 04 Oct 2025 06:25:00 GMT | Hacking My WiFI with a Flipper Zero + Hashcat (live demo) | Jackson Mittag | [Read More](https://medium.com/p/14c13ad7ef27) |
 | Sat, 04 Oct 2025 06:22:48 GMT | When AI Tricks Us: Spotting Fake Voices and Videos Before They Fool You. | Colin Miller | [Read More](https://medium.com/p/d4be8cb9c226) |
 | Sat, 04 Oct 2025 06:08:57 GMT | Cloud Wars: Picking Your Battles (and Wins) in a Multi-Cloud World | Emma Johnson | [Read More](https://medium.com/p/329faa6433b1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 20:35:40 GMT | Why good things scare me.. | -Xri- | [Read More](https://medium.com/p/a9f6bfc4e9e9) |
 | Fri, 03 Oct 2025 20:27:21 GMT | Cybersecurity News Review — Week 40 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/5c4a68e19d9d) |
 | Fri, 03 Oct 2025 20:21:46 GMT | Is Facebook Marketplace Safe? What Buyers and Sellers Should Know | SafeAeon Inc. | [Read More](https://medium.com/p/a2b119483729) |
-| Fri, 03 Oct 2025 20:18:58 GMT | Developing an Effective Cybersecurity Strategy for Critical Infrastructure: Lessons from the Energy… | Similoluwa Adelowo | [Read More](https://medium.com/p/070cccfb6e80) |
-| Fri, 03 Oct 2025 20:12:05 GMT | Network Security Management: Safeguarding Business Networks from Modern Threats | SafeAeon Inc. | [Read More](https://medium.com/p/aca8af97799c) |
-| Fri, 03 Oct 2025 20:08:52 GMT | OffSec: Apex— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/8483e060277b) |
-| Fri, 03 Oct 2025 20:07:51 GMT | Neural Interfaces: Brain-Computer Links on the Horizon | Jason Han | [Read More](https://medium.com/p/9fb68c02bacd) |
-| Fri, 03 Oct 2025 20:06:18 GMT | TryHackMe - Data Exfiltration Detection - WriteUp | Axoloth | [Read More](https://medium.com/p/fbbae884fd83) |
