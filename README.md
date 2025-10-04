@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 12:23:32 GMT | The IoT Security Nightmare | Cyber Security Research | [Read More](https://medium.com/p/768d8f262245) |
+| Sat, 04 Oct 2025 12:19:13 GMT | Scanning Activity on Palo Alto Networks Portals Surges 500% in Just One Day | Jasmitharouthu | [Read More](https://medium.com/p/b3913293f3b5) |
+| Sat, 04 Oct 2025 12:16:30 GMT | Beyond Passwords: Authentication Revolution | Cyber Security Research | [Read More](https://medium.com/p/a5edd16f3726) |
+| Sat, 04 Oct 2025 12:13:34 GMT | HTTP Methods: What They Do and Why They Matter for Security | Devaduth Saji | [Read More](https://medium.com/p/09835a7a2306) |
+| Sat, 04 Oct 2025 12:11:52 GMT | HTTP Status Codes: The Little Messages Your Browser and Server Send | Devaduth Saji | [Read More](https://medium.com/p/50c74faec08f) |
+| Sat, 04 Oct 2025 12:11:43 GMT | CEH Sertifikasına Hazırlanırken Edindiklerim-2: Footprinting ve Reconnaissance | Ali Umut Soran | [Read More](https://medium.com/p/0ef48625c85c) |
+| Sat, 04 Oct 2025 12:11:03 GMT | Importance of Strong Passwords in Data Security | Dkvilas | [Read More](https://medium.com/p/cde1b0e4fab5) |
+| Sat, 04 Oct 2025 12:10:53 GMT | DockerLabs Writeup — Forgotten_Portal (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e5735157f019) |
+| Sat, 04 Oct 2025 12:10:19 GMT | Patching the Cracks in the System | Cyber Security Research | [Read More](https://medium.com/p/4c6b67fb8745) |
+| Sat, 04 Oct 2025 12:10:00 GMT | Huntress CTF 2025 — Day 1 - My Complete Walkthrough & Lessons | AhiLight | [Read More](https://medium.com/p/05950d39b98d) |
+| Sat, 04 Oct 2025 12:04:27 GMT | [HackTheBox Sherlocks Write-up] Unsupervised (Investigate insider threat that exfiltrate files… | Chicken0248 | [Read More](https://medium.com/p/3d2153267da9) |
+| Sat, 04 Oct 2025 12:03:49 GMT | Vulnerability Exposed | Cyber Security Research | [Read More](https://medium.com/p/028a15779ef7) |
+| Sat, 04 Oct 2025 11:58:48 GMT | [HackTheBox Sherlocks Write-up] Nuts (Malicious Nuget package leads to Sliver agent deployment) | Chicken0248 | [Read More](https://medium.com/p/5fc438443c24) |
+| Sat, 04 Oct 2025 11:53:31 GMT | How does Meta actually move all this data so fast ?!! | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/70a77d4bd755) |
+| Sat, 04 Oct 2025 11:51:04 GMT | Why Bug Triaging Broke My Brain (and How I Automated My Way Out of It) | Fateyaly | [Read More](https://medium.com/p/288628f570f7) |
+| Sat, 04 Oct 2025 11:48:33 GMT | HackTheBox - Meerkat Sherlock — Walk Through | ocharek | [Read More](https://medium.com/p/e6ecae85e308) |
+| Sat, 04 Oct 2025 11:41:53 GMT | My eJPT Journey — How I Cleared This Underrated Yet Valuable Certification | Muhammad Arsalan Anwar | [Read More](https://medium.com/p/8442959798c1) |
 | Sat, 04 Oct 2025 11:36:23 GMT | Secure Token Handling in Web Apps | Houssem Mitiche | [Read More](https://medium.com/p/de512ee56297) |
 | Sat, 04 Oct 2025 11:11:04 GMT | Drosera Network | Kayleb Owojo | [Read More](https://medium.com/p/00139bb7f726) |
 | Sat, 04 Oct 2025 11:09:08 GMT | CORS Vulnerability with Trusted Null Origin | Aditya Bhatt | [Read More](https://medium.com/p/1686bb493dc5) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 05:58:34 GMT | Phishing and Social Engineering: Global Threats and Prevention Measures | Cyberintruder Net | [Read More](https://medium.com/p/4d5a440cbf36) |
 | Sat, 04 Oct 2025 05:57:51 GMT | I Tried Everything — These 5 Skills Actually Got Me Hired in IT in 2025- Real Examples | Shaikh Minhaz | [Read More](https://medium.com/p/5f17fdcb21af) |
 | Sat, 04 Oct 2025 05:56:17 GMT | Smart Cybersecurity Consulting Firms + How to Boost Yours | Dogmasys | [Read More](https://medium.com/p/351a089dd520) |
-| Sat, 04 Oct 2025 05:52:46 GMT | 8 Life Lessons from The Boy, The Mole, The Horse and The Fox That Will Touch Your Heart | Critic | [Read More](https://medium.com/p/5a37eb765007) |
-| Sat, 04 Oct 2025 05:36:51 GMT | Is Somebody Else Reading Your E-Mails? The Ides of Email! | Bobby Andrews | [Read More](https://medium.com/p/f533a163da95) |
-| Sat, 04 Oct 2025 05:26:02 GMT | Architecture Description Languages (ADLs): The Future of Software Architecture Design | Ravikiran | [Read More](https://medium.com/p/cf6eeecbcc58) |
-| Sat, 04 Oct 2025 05:23:08 GMT | A Step-by-Step Study on Installing and Configuring Snort3 in a Virtualized Ubuntu Environment | Berkay Vagas | [Read More](https://medium.com/p/e6d11a2a8530) |
-| Sat, 04 Oct 2025 05:17:04 GMT | AI vs AI: How ChatGPT and I Became Bug Hunting Buddies to Find What Scanners Missed | Iski | [Read More](https://medium.com/p/806b61707131) |
-| Sat, 04 Oct 2025 05:15:38 GMT | Unlocking a Powerful Skill Set: The Symbiotic Benefits of OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/981f1d5752a4) |
-| Sat, 04 Oct 2025 05:14:44 GMT | Locking the Box: Practical Computer Forensics Awareness & Defensive (Anti-Forensics) Techniques for… | Abdul Rehman | [Read More](https://medium.com/p/15d28909fddc) |
-| Sat, 04 Oct 2025 05:12:09 GMT | Haptic Feedback Tech: Feeling the Digital World Like Never Before | Jason Han | [Read More](https://medium.com/p/a170e244d81a) |
-| Sat, 04 Oct 2025 05:08:16 GMT | Breaking the Web (Part 3): Cross-Site Scripting (XSS) — Injecting Evil into the Browser | Mohammed Fahad | [Read More](https://medium.com/p/21a76cfacb43) |
-| Sat, 04 Oct 2025 04:58:19 GMT | The Truth I Buried in My Smile | Darpan Murly | [Read More](https://medium.com/p/08b21f5f1b28) |
-| Sat, 04 Oct 2025 04:51:58 GMT | Smart CCTV Systems vs. Traditional Cameras: Which One is Best for You? | Ask IT Support | [Read More](https://medium.com/p/5b1bdf35b9e2) |
-| Sat, 04 Oct 2025 04:48:51 GMT | Data Center Security in a Quantum Age in Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/afea335e7810) |
-| Sat, 04 Oct 2025 04:46:29 GMT | 10 Flutter Mistakes Beginners Still Make in 2025 (And How to Avoid Them) | Owais Mustafa | [Read More](https://medium.com/p/f333c8600b6c) |
-| Sat, 04 Oct 2025 04:45:53 GMT | Helpless & Vulnerable | Curah Hujan | [Read More](https://medium.com/p/cac3ee13d351) |
-| Sat, 04 Oct 2025 04:29:45 GMT | Is AI Reading This With You? The Unseen Tech Reshaping Your Day | Medium Quill | [Read More](https://medium.com/p/8704e51059af) |
-| Sat, 04 Oct 2025 04:23:20 GMT | Opacity - TryHackMe Walkthrough | Robert Gooding | [Read More](https://medium.com/p/57edf36138d2) |
-| Sat, 04 Oct 2025 04:11:52 GMT | Tech Trends 2025: Predictions That Will Shape the Next Decade | Jason Han | [Read More](https://medium.com/p/6e3526bd2579) |
