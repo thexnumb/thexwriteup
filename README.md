@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 18:30:42 GMT | Day 29: Load Balancer in AWS | Prutha_Dongre | [Read More](https://medium.com/p/58314aba11dd) |
+| Sat, 04 Oct 2025 18:28:42 GMT | Exploiting WebView for XSS & LFI: A $500+ Bug Bounty Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/98e047454c54) |
+| Sat, 04 Oct 2025 18:28:11 GMT | TryHackMe — Skynet | Victorhg | [Read More](https://medium.com/p/ea813659e845) |
+| Sat, 04 Oct 2025 18:27:29 GMT | Write-Up — The Watcher (CyberYard) | DieLoop | [Read More](https://medium.com/p/6e2c94a32026) |
+| Sat, 04 Oct 2025 18:23:06 GMT | Cockpit — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/9822a5c36bb0) |
 | Sat, 04 Oct 2025 18:06:27 GMT | Bug Bounty: De HTMLI a RCE — Guía práctica y paso a paso | Gorka | [Read More](https://medium.com/p/d6d499c8ef68) |
 | Sat, 04 Oct 2025 18:05:29 GMT | Love in the air, but fear in the heart | Alishba Khalid | [Read More](https://medium.com/p/aa0d38683177) |
 | Sat, 04 Oct 2025 18:00:47 GMT | ‍ Only Senior Java Devs Can Spot the Bug in This Code — Can You? ☕ | Karuna | [Read More](https://medium.com/p/87c3808398e1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 13:01:40 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/7e2fa9d24fd7) |
 | Sat, 04 Oct 2025 13:00:23 GMT | The Hidden Power of OSINT: How Hackers and Defenders Use Public Data | Shahzaib | [Read More](https://medium.com/p/9e340f9a4305) |
 | Sat, 04 Oct 2025 13:00:19 GMT | Cloud Security Configuration Review: The Hidden Shield of Cloud Resilience | Ashwini Puranik | [Read More](https://medium.com/p/934c8f99fff1) |
-| Sat, 04 Oct 2025 13:00:16 GMT | SOC Tools to Detect & Test Phishing and Malware: A Practical Guide for Cybersecurity Learners | Mainekhacker | [Read More](https://medium.com/p/3e94a5ebd1ec) |
-| Sat, 04 Oct 2025 12:59:55 GMT | The Future of Cybersecurity: Predictions for the Next Decade | Samina Perveen | [Read More](https://medium.com/p/22b4f7bdfe15) |
-| Sat, 04 Oct 2025 12:59:42 GMT | Ultralytics YOLO AI Model Compromised in Supply Chain Attack | Mustapha Aitigunaoun | [Read More](https://medium.com/p/3e424dc9f1ba) |
-| Sat, 04 Oct 2025 12:59:37 GMT | Mastering Blind XSS: A Comprehensive Guide to Finding and Exploiting This Hidden Vulnerability | Monika sharma | [Read More](https://medium.com/p/c4538397e782) |
-| Sat, 04 Oct 2025 12:56:00 GMT | How Documenting Is Your Best Defense | Data Defendere | [Read More](https://medium.com/p/6935a218c724) |
