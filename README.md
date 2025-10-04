@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 01:22:11 GMT | TryHackMe #82 - NetworkMiner | 0xGroot | [Read More](https://medium.com/p/eda4f496d0b5) |
+| Sat, 04 Oct 2025 01:11:55 GMT | 5G vs. Wi-Fi 7: Which Will Dominate Your Network in 2025? | Jason Han | [Read More](https://medium.com/p/d0f6fe0901b2) |
+| Sat, 04 Oct 2025 00:54:43 GMT | How AI Can Make Life Better by Fighting Bots and Fraud | Nerudat | [Read More](https://medium.com/p/b4f69ddbe307) |
+| Sat, 04 Oct 2025 00:32:10 GMT | Ship ML with Django | Codastra | [Read More](https://medium.com/p/8892563bb415) |
+| Sat, 04 Oct 2025 00:16:27 GMT | Idor — TryHackMe writeup | Death Esther | [Read More](https://medium.com/p/705392a6890a) |
+| Sat, 04 Oct 2025 00:08:09 GMT | The Dark Side of Big Tech: Privacy Issues You Can’t Ignore | Jason Han | [Read More](https://medium.com/p/928a29d2c688) |
+| Sat, 04 Oct 2025 00:07:31 GMT | Kant, précurseur involontaire de l’intelligence artificielle : | Loveson VILSENAT | [Read More](https://medium.com/p/41919b41f7b8) |
+| Sat, 04 Oct 2025 00:05:32 GMT | The Five stages of Hacking you never knew | Similoluwa Adelowo | [Read More](https://medium.com/p/06642509bcde) |
+| Sat, 04 Oct 2025 00:02:12 GMT | Findomain: Essential Tool for Passive Subdomain Enumeration | JPablo13 | [Read More](https://medium.com/p/2c1e78e71214) |
+| Sat, 04 Oct 2025 00:02:12 GMT | Cybersecurity Foundations Series: Part 4 — Risk Management and Analysis | TechStoryLines | [Read More](https://medium.com/p/ad6602c10eac) |
+| Fri, 03 Oct 2025 23:42:21 GMT | How I Discovered an Information Disclosure Vulnerability in Jira Instance (CVE-2020–14179) | Ashutosh Anand | [Read More](https://medium.com/p/644b14386e38) |
+| Fri, 03 Oct 2025 23:37:36 GMT | Cybersecurity Risks in the Era of Wearable AI Surge | Emily McRose Nafisa | [Read More](https://medium.com/p/2473489c0eda) |
 | Fri, 03 Oct 2025 23:35:16 GMT | Redacting Sensitive Information Before Passing to LLMs | Bilal Tahseen | [Read More](https://medium.com/p/877b9a08162c) |
 | Fri, 03 Oct 2025 23:29:33 GMT | Encryption’s Enigma | Cyber Security Research | [Read More](https://medium.com/p/33053f43fb60) |
+| Fri, 03 Oct 2025 23:26:14 GMT | Beyond the Basics: 20 Master-Level OSINT Principles for Digital Investigators | Rajput Haxor Aka Rudra Pratap Singh | [Read More](https://medium.com/p/ec3ad8273408) |
 | Fri, 03 Oct 2025 23:23:14 GMT | Zero Trust, Zero Compromise | Cyber Security Research | [Read More](https://medium.com/p/419c5e670708) |
 | Fri, 03 Oct 2025 23:12:34 GMT | Secure Coding Practices for Modern Developers: A Senior Java 8 Perspective | Mustapha Aitigunaoun | [Read More](https://medium.com/p/4ba947e44276) |
 | Fri, 03 Oct 2025 23:07:53 GMT | Tech for Seniors: User-Friendly Innovations for Aging Gracefully | Jason Han | [Read More](https://medium.com/p/fefd8d83b554) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 16:23:35 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6b2f11180bdd) |
 | Fri, 03 Oct 2025 16:17:15 GMT | Beyond the Code: How an IT Undergrad Discovered the Future of Inventory | Vishu Garg | [Read More](https://medium.com/p/6c238108dbf3) |
 | Fri, 03 Oct 2025 16:11:32 GMT | GRC Evolution: From Ancient Law to Modern Cybersecurity Landscape | Humerah Farooqui | [Read More](https://medium.com/p/ccda24ca5663) |
-| Fri, 03 Oct 2025 16:10:15 GMT | Siber Güvenlik: Veri Manipülasyonu, Yanıltıcı Tehditler ve Savunma Sanayiine Etkileri | Gürbağ Savunma | [Read More](https://medium.com/p/4a7049037cd6) |
-| Fri, 03 Oct 2025 16:08:28 GMT | SQL injection- The Beginner’s Guide | Ashutosh Jena | [Read More](https://medium.com/p/c6f69a2c50a8) |
-| Fri, 03 Oct 2025 16:05:16 GMT | Blockchain for Democracy: A Decentralized Voting Platform | Zrhmz | [Read More](https://medium.com/p/d0b7df8cc633) |
-| Fri, 03 Oct 2025 16:04:22 GMT | Hack the Box — Manager — WriteUp | Emre A. | [Read More](https://medium.com/p/ca7731398b29) |
-| Fri, 03 Oct 2025 16:03:18 GMT | The Human Factor: Why People Are the Weakest Link in Security | ENVORASEC | [Read More](https://medium.com/p/4ca1de39ad01) |
-| Fri, 03 Oct 2025 16:02:57 GMT | Discovering Open S3 Buckets with S3Scanner — A Practical Guide for Security Researchers | Hamzah Hatamleh | [Read More](https://medium.com/p/e60f78d05736) |
-| Fri, 03 Oct 2025 15:57:07 GMT | Everything You’re Ashamed Of Is More Normal Than You Think | Gemma Coopa | [Read More](https://medium.com/p/fc463d9dcddc) |
-| Fri, 03 Oct 2025 15:55:35 GMT | İş Süreçlerimizde Otonom Güvenlik | Beril Dindar | [Read More](https://medium.com/p/e521f57b817a) |
-| Fri, 03 Oct 2025 15:53:42 GMT | Consensus-layer attacks. Part 1. | Evgenii | [Read More](https://medium.com/p/e42abae45a86) |
-| Fri, 03 Oct 2025 15:50:28 GMT | Image XSS on Exif.tools - Hacking exif.tools by image injection by CYBER KALKI | Krivadna | [Read More](https://medium.com/p/63b7d1261a19) |
-| Fri, 03 Oct 2025 15:44:11 GMT | Secrets Management in DevOps: Do’s and Don’ts (2025 Implementation Guide) | JSOC IT BLOG | [Read More](https://medium.com/p/16cf5252e3c1) |
-| Fri, 03 Oct 2025 15:42:06 GMT | 99.9% of Account Hacks Are Preventable: The Complete 2FA Guide Every .NET Developer Needs | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/90f8cdddc014) |
-| Fri, 03 Oct 2025 15:39:12 GMT | 5 signaux que votre entreprise a besoin de Contract Management (avant qu’il ne soit trop tard) | Abrennis | [Read More](https://medium.com/p/9a4461abeb49) |
