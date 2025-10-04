@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 19:32:15 GMT | Full Transcript: GDG Cloud Southlake #46: Ozan Unlu: AI at Scale in Observability and Security | Jim Anderson | [Read More](https://medium.com/p/da5fdbbcd05d) |
+| Sat, 04 Oct 2025 19:23:53 GMT | Disconnect to Reclaim: How I Built a Pocket-Sized Anti-Phone and Why You Should Too | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/115fc3f3dc1d) |
+| Sat, 04 Oct 2025 19:19:15 GMT | CyberDefenders: IcedID Malware | Rahaliashraf | [Read More](https://medium.com/p/5f8bd7ad6cb5) |
+| Sat, 04 Oct 2025 19:11:26 GMT | The Tea App Security Disaster: What Went Wrong and Why It Matters | Ayoub seddiki | [Read More](https://medium.com/p/984030500b53) |
 | Sat, 04 Oct 2025 19:05:38 GMT | Building a Malware Analysis Lab on Linux | Cenky | [Read More](https://medium.com/p/4855fc9a3609) |
+| Sat, 04 Oct 2025 19:02:34 GMT | ToxSec: Cybersecurity Awareness Month | ToxSec | [Read More](https://medium.com/p/ab3415ba8d15) |
 | Sat, 04 Oct 2025 19:02:31 GMT | How a Password Change Feature Led to Full Account Takeover (CVSS 8.3) | Onurcan Genç | [Read More](https://medium.com/p/f1a74c3fc210) |
 | Sat, 04 Oct 2025 19:00:09 GMT | Beyond OWASP: Redefining Application Security Risks in the Era of AI and APIs | Sai Krishna Kakarla | [Read More](https://medium.com/p/0992152a5afe) |
 | Sat, 04 Oct 2025 18:54:58 GMT | HTML Injection & Content Spoofing: How Attackers Trick Users (and how to find & fix it) | Omniaelagroudy | [Read More](https://medium.com/p/cea458c951dd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 13:49:48 GMT | Security and Performance Aspects of NUMA Optimization | Eren Cankut Uysal | [Read More](https://medium.com/p/8c4f9f96e9bc) |
 | Sat, 04 Oct 2025 13:41:31 GMT | Security and Performance Aspects of Advanced Bash Scripting | Eren Cankut Uysal | [Read More](https://medium.com/p/de58e0c81436) |
 | Sat, 04 Oct 2025 13:31:52 GMT | Reflected XSS in Parser Endpoint — $366 Bounty Earned | Abhi Sharma | [Read More](https://medium.com/p/28ca95251ab2) |
-| Sat, 04 Oct 2025 13:31:26 GMT | Unpacking the Internet’s Secret Sauce: A Deep Dive into the OSI and TCP/IP Models | CyDhaal | [Read More](https://medium.com/p/b5ed78901194) |
-| Sat, 04 Oct 2025 13:21:50 GMT | Networking 101: Understanding Clients, Servers, Routers, Switches & Firewalls (CCNA Beginner… | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/9bfee1179efe) |
-| Sat, 04 Oct 2025 13:15:06 GMT | The AI Tsunami: Reshaping Enterprise Software, Data & Analytics and India's IT Landscape | Prashant Pawar | [Read More](https://medium.com/p/4602fe7e626b) |
-| Sat, 04 Oct 2025 13:14:14 GMT | Why You’ll Click That Fake Link Even When You Know It’s Fake | Naman Barola | [Read More](https://medium.com/p/778e94e7d575) |
-| Sat, 04 Oct 2025 13:12:49 GMT | Bloom Boost: Drosera’s Fast Lane for DeFi Defense | bsquarebankz | [Read More](https://medium.com/p/2e059d159ee4) |
