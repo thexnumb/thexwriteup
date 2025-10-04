@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 22:07:15 GMT | Fear-Mongering or Cybersecurity Awareness? | Cyber Lois | [Read More](https://medium.com/p/2166360fc91b) |
+| Sat, 04 Oct 2025 22:03:40 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/3ce898af73ba) |
+| Sat, 04 Oct 2025 22:01:34 GMT | SAP Sızma Testi | Fatih Tüzün | [Read More](https://medium.com/p/cc3ea959d114) |
+| Sat, 04 Oct 2025 21:55:20 GMT | HTB — Eureka Writeup | Ayça Gül | [Read More](https://medium.com/p/600c3b7e7500) |
+| Sat, 04 Oct 2025 21:54:21 GMT | How Hezbollah Went from a Local Terrorist Militia to a Transnational Terrorist Organization and… | SIMKRA | [Read More](https://medium.com/p/c4e9f2ee8760) |
+| Sat, 04 Oct 2025 21:51:56 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/2ec4eb3665fd) |
+| Sat, 04 Oct 2025 21:45:26 GMT | How Do You Secure Kubernetes Access Without Compromising on Flexibility? | Salwan Mohamed | [Read More](https://medium.com/p/f03cf8545812) |
+| Sat, 04 Oct 2025 21:44:02 GMT | CSRF vs XSS: Understanding the Vulnerability Chain That Breaks the Web | Mr Madani | [Read More](https://medium.com/p/3b873fcdb63a) |
+| Sat, 04 Oct 2025 21:42:01 GMT | DCAF Series: How Should Turkey’s Defense Cyber Architecture Be? | Umut Akbulut | [Read More](https://medium.com/p/3ed56380e61a) |
+| Sat, 04 Oct 2025 21:38:33 GMT | Hack the Box “Driver” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/d37e65d9cb0d) |
+| Sat, 04 Oct 2025 21:32:07 GMT | Why a 500 Error is a Bug Hunter’s Signal | Cybersecplayground | [Read More](https://medium.com/p/8e35ab2bc703) |
 | Sat, 04 Oct 2025 21:27:31 GMT | ️ AI CyberShield: The Human Firewall Revolution | Nikolay Gul | [Read More](https://medium.com/p/d8b3cd3d8a60) |
 | Sat, 04 Oct 2025 21:21:30 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/e70266a696d2) |
 | Sat, 04 Oct 2025 21:17:53 GMT | Simple Guide to AI Powered Threats | Ibtissam hammadi | [Read More](https://medium.com/p/849f64e52757) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 15:27:46 GMT | Behind Enemy Lines: How Attackers Hijack Windows Networks with SMBExec — and How DFIR Teams… | Paritosh | [Read More](https://medium.com/p/e727b2f068f9) |
 | Sat, 04 Oct 2025 15:24:20 GMT | Let’s talk about Angular & Security️ | mohamed aziz aydi | [Read More](https://medium.com/p/0d580f19b4ef) |
 | Sat, 04 Oct 2025 15:21:04 GMT | Search Order Attacks: Simple, yet Deadly. | Rayhan Tsani | [Read More](https://medium.com/p/4860026d3189) |
-| Sat, 04 Oct 2025 15:20:02 GMT | XDR: Credential Access | Cheryl Maise Lobo | [Read More](https://medium.com/p/4709de744fbf) |
-| Sat, 04 Oct 2025 15:12:56 GMT | 36 Questions to Make Strangers FALL IN LOVE | VipLuv | [Read More](https://medium.com/p/7da0d3425795) |
-| Sat, 04 Oct 2025 15:07:56 GMT | Phishing Exposed: The Art of Deception | Cyber Security Research | [Read More](https://medium.com/p/5efaf2ff92c1) |
-| Sat, 04 Oct 2025 15:01:55 GMT | Ransomware’s Ruthless Reign | Cyber Security Research | [Read More](https://medium.com/p/595591c551cd) |
-| Sat, 04 Oct 2025 14:55:48 GMT | The Feel-Good Cry Nobody Talks About | Darlene López | [Read More](https://medium.com/p/3ebf321cae67) |
-| Sat, 04 Oct 2025 14:51:05 GMT | Day 4: “QR Codes: Convenience or Cyber Trap?” | aysha | [Read More](https://medium.com/p/ae6b787e74f5) |
-| Sat, 04 Oct 2025 14:47:43 GMT | My Virtual HomeLab: Security — Part Two | Cybersec with Hemmars | [Read More](https://medium.com/p/973d8f03c68e) |
-| Sat, 04 Oct 2025 14:32:23 GMT | The Slow Poisoning of Tech Jobs | Vijay Kumar Gupta | [Read More](https://medium.com/p/d5bd40761780) |
-| Sat, 04 Oct 2025 14:31:53 GMT | Is Your Business a Sitting Duck? | Janeel Abrahams | [Read More](https://medium.com/p/5996c90dfdeb) |
-| Sat, 04 Oct 2025 14:31:28 GMT | Inside My Lab: How I Created and Detected My Own Malware | Akshatdwivedi | [Read More](https://medium.com/p/33038c9758c3) |
-| Sat, 04 Oct 2025 14:24:30 GMT | Beyond the Title: Why I Started CISO Chair™ | CISO Chair™ | [Read More](https://medium.com/p/335790d4f8ab) |
