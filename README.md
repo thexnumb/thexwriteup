@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 14:11:31 GMT | CISSP Domain 1.1: Understand, Adhere to, and Promote Professional Ethics | Yasin Kalli | [Read More](https://medium.com/p/fa06cbbaaf88) |
+| Sat, 04 Oct 2025 14:07:49 GMT | New Invisible Attack Creates Parallel Poisoned Web Only for AI Agents | Shaked Zychlinski ️ | [Read More](https://medium.com/p/22319304ba73) |
+| Sat, 04 Oct 2025 14:02:14 GMT | ABTU’s Roadmap: Building the Foundation for Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/e9f5e4999894) |
+| Sat, 04 Oct 2025 14:00:39 GMT | Bug Why does big tech not run Accessibility bug bounties? | Chris Yoong | [Read More](https://medium.com/p/6fdbaf80d6d0) |
+| Sat, 04 Oct 2025 14:00:35 GMT | Cybersecurity in Networking: Protecting Data in the Digital Age | Dr. Minakshmi Shaw | [Read More](https://medium.com/p/d0d71f78e731) |
+| Sat, 04 Oct 2025 13:57:23 GMT | HOW I FOUND THE CVE-2025–0133? | DOD cyber solutions | [Read More](https://medium.com/p/759d3e0f8a92) |
+| Sat, 04 Oct 2025 13:54:17 GMT | The Invisible Thief in Your Xcode Project | Aj | [Read More](https://medium.com/p/3c3333c916dc) |
+| Sat, 04 Oct 2025 13:52:31 GMT | The End of the World Is the Beginning of Another | Udo-Inyang Michael Aniekan | [Read More](https://medium.com/p/65c94b65aa9e) |
+| Sat, 04 Oct 2025 13:50:33 GMT | Networking Core Protocols Explained: The Internet’s Hidden Conversations | Sumit Sah | [Read More](https://medium.com/p/3716333c6204) |
+| Sat, 04 Oct 2025 13:49:48 GMT | Security and Performance Aspects of NUMA Optimization | Eren Cankut Uysal | [Read More](https://medium.com/p/8c4f9f96e9bc) |
+| Sat, 04 Oct 2025 13:41:31 GMT | Security and Performance Aspects of Advanced Bash Scripting | Eren Cankut Uysal | [Read More](https://medium.com/p/de58e0c81436) |
 | Sat, 04 Oct 2025 13:31:52 GMT | Reflected XSS in Parser Endpoint — $366 Bounty Earned | Abhi Sharma | [Read More](https://medium.com/p/28ca95251ab2) |
+| Sat, 04 Oct 2025 13:31:26 GMT | Unpacking the Internet’s Secret Sauce: A Deep Dive into the OSI and TCP/IP Models | CyDhaal | [Read More](https://medium.com/p/b5ed78901194) |
 | Sat, 04 Oct 2025 13:21:50 GMT | Networking 101: Understanding Clients, Servers, Routers, Switches & Firewalls (CCNA Beginner… | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/9bfee1179efe) |
 | Sat, 04 Oct 2025 13:15:06 GMT | The AI Tsunami: Reshaping Enterprise Software, Data & Analytics and India's IT Landscape | Prashant Pawar | [Read More](https://medium.com/p/4602fe7e626b) |
 | Sat, 04 Oct 2025 13:14:14 GMT | Why You’ll Click That Fake Link Even When You Know It’s Fake | Naman Barola | [Read More](https://medium.com/p/778e94e7d575) |
@@ -22,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 13:10:26 GMT | 5 Mind-Blowing Tech Trends You Can’t Ignore in 2025 | SeoExpert - Tacnical Adviser | [Read More](https://medium.com/p/b17b91016105) |
 | Sat, 04 Oct 2025 13:09:57 GMT | CSP Mastery: Nonce Rotation, Trusted Types, and Real-World Pitfalls (Series A-2) | Trevor Woollacott | [Read More](https://medium.com/p/f8a85c17396b) |
 | Sat, 04 Oct 2025 13:08:29 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/7d15ea64f675) |
+| Sat, 04 Oct 2025 13:06:03 GMT | Praktikum Internet of Things: Integrasi Komponen Dasar melalui Proyek Sederhana | Muhammad Surya Saputro | [Read More](https://medium.com/p/ae96c71fce4f) |
 | Sat, 04 Oct 2025 13:01:40 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/7e2fa9d24fd7) |
 | Sat, 04 Oct 2025 13:00:23 GMT | The Hidden Power of OSINT: How Hackers and Defenders Use Public Data | Shahzaib | [Read More](https://medium.com/p/9e340f9a4305) |
 | Sat, 04 Oct 2025 13:00:19 GMT | Cloud Security Configuration Review: The Hidden Shield of Cloud Resilience | Ashwini Puranik | [Read More](https://medium.com/p/934c8f99fff1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 09:02:49 GMT | The “Flan” attack: AI Vulns in HR | Olya Kravets | [Read More](https://medium.com/p/de40e095d07d) |
 | Sat, 04 Oct 2025 09:01:38 GMT | Inside the Hacker’s Mind | Cyber Security Research | [Read More](https://medium.com/p/51a28061a572) |
 | Sat, 04 Oct 2025 08:56:56 GMT | The Mirage of Automation: When Your Tools Start Thinking For You | Đeepanshu | [Read More](https://medium.com/p/c02465b8f4d2) |
-| Sat, 04 Oct 2025 08:46:57 GMT | From Silos to Strategy: Reimagining IT Operations Management for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/41b8cfb90574) |
-| Sat, 04 Oct 2025 08:43:52 GMT | Bridging Theory to Practice: Trustworthy human-AI Teaming and the New Frontier of Military… | Berend Watchus | [Read More](https://medium.com/p/e5e46ec322d3) |
-| Sat, 04 Oct 2025 08:40:55 GMT | Hack the Box — Outdated — WriteUp | Emre A. | [Read More](https://medium.com/p/587041e7e6e3) |
-| Sat, 04 Oct 2025 08:38:50 GMT | RCSC Resurrection CTF 2025 — Official Misc Writeups | Shoaib Bin Rashid | [Read More](https://medium.com/p/f65179e180e1) |
-| Sat, 04 Oct 2025 08:34:18 GMT | How Blind XSS Payloads Earned Me $10,000+ in Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/70789f3940f9) |
-| Sat, 04 Oct 2025 08:33:55 GMT | I Failed My First Ethical Hacking Interview — Here’s What I Learned | Muhammad Haider Tallal | [Read More](https://medium.com/p/aea3de6d7318) |
-| Sat, 04 Oct 2025 08:25:25 GMT | Your Google Drive is Not Private: Cloud Security Reality Check | Andrei Ivan | [Read More](https://medium.com/p/4a9f5bb878c4) |
-| Sat, 04 Oct 2025 08:22:55 GMT | What are the OWASP Top 10 Web Application Security Risks? | cyber security Updates | [Read More](https://medium.com/p/fb82ad816dff) |
-| Sat, 04 Oct 2025 08:22:37 GMT | Cybersecurity by design | Ermiyas Tilahun | [Read More](https://medium.com/p/0b47dc954fb6) |
-| Sat, 04 Oct 2025 08:21:56 GMT | Palo Alto Networks Panorama Firewall Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0ab1ede84502) |
-| Sat, 04 Oct 2025 08:19:33 GMT | What is Cybersecurity and Why It’s Important and It’s Roadmap | Letslearncoding | [Read More](https://medium.com/p/9fa541665810) |
-| Sat, 04 Oct 2025 08:06:30 GMT | Building Resilient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/349b55635097) |
-| Sat, 04 Oct 2025 08:03:05 GMT | TryHackMe - XDR: Operation Global Dagger 2 - WriteUp | Axoloth | [Read More](https://medium.com/p/22d07261b767) |
