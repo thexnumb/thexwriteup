@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 07:09:51 GMT | XDR: Operation Global Dagger 2 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/65ba900bc51f) |
+| Sat, 04 Oct 2025 06:50:44 GMT | Discover Network Devices on Kali Linux | Forid Ahammad Asik | [Read More](https://medium.com/p/f87851b123cf) |
+| Sat, 04 Oct 2025 06:46:14 GMT | You Need to Learn MCP (Model Context Protocol) | Shahzaib | [Read More](https://medium.com/p/c55f15b23bf2) |
 | Sat, 04 Oct 2025 06:44:51 GMT | The Delicate Dance: Discerning Attachment from True Connection | Chiamaka Umeh | [Read More](https://medium.com/p/1bf194c9688c) |
 | Sat, 04 Oct 2025 06:39:53 GMT | Sudo Without Su: CVE-2025–32463 PoC | Toshith | [Read More](https://medium.com/p/fe8e2ce116d9) |
 | Sat, 04 Oct 2025 06:36:01 GMT | Navigating the Minefield: Communicating Hurt Without Pushing Your Partner Away | Chiamaka Umeh | [Read More](https://medium.com/p/faee30bda1d8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 20:57:57 GMT | Network Discovery Detection Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/455919710e37) |
 | Fri, 03 Oct 2025 20:37:29 GMT | Bounty Hacker writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/eb5dfcd07e56) |
 | Fri, 03 Oct 2025 20:37:27 GMT | PG Practice — Monster (Windows) | Lepton | [Read More](https://medium.com/p/595322c7787b) |
-| Fri, 03 Oct 2025 20:35:40 GMT | Why good things scare me.. | -Xri- | [Read More](https://medium.com/p/a9f6bfc4e9e9) |
-| Fri, 03 Oct 2025 20:27:21 GMT | Cybersecurity News Review — Week 40 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/5c4a68e19d9d) |
-| Fri, 03 Oct 2025 20:21:46 GMT | Is Facebook Marketplace Safe? What Buyers and Sellers Should Know | SafeAeon Inc. | [Read More](https://medium.com/p/a2b119483729) |
