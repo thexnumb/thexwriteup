@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 16:30:37 GMT | Forgot password link doesn’t expire after used. | Ahmed Mahmoud | [Read More](https://medium.com/p/e55f0c5fe96f) |
+| Sat, 04 Oct 2025 16:27:30 GMT | Bad Guys watching YOU. | Syed Muhammad Mazhar Naqi Rizvi | [Read More](https://medium.com/p/d472004b8e1a) |
+| Sat, 04 Oct 2025 16:23:41 GMT | Vulnerabilities 101 — TryHackMe Room | Asif.k | [Read More](https://medium.com/p/78dbdd5b3a37) |
+| Sat, 04 Oct 2025 16:23:17 GMT | ☕ Cyber & Coffee | Cyber and Coffee | [Read More](https://medium.com/p/7263cef0eb4c) |
+| Sat, 04 Oct 2025 16:22:59 GMT | From Wildcards to Least Privilege: Hardening AWS IAM the Right Way | Srinivas Karnati | [Read More](https://medium.com/p/16bc35f6315a) |
+| Sat, 04 Oct 2025 16:19:09 GMT | Protecting RAG Applications with AI Security and Layered Defenses | Jennifer Wales | [Read More](https://medium.com/p/5a161b89d2d1) |
+| Sat, 04 Oct 2025 16:18:49 GMT | Deep Dive into Linux Capabilities on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/7a2e4c7d3058) |
+| Sat, 04 Oct 2025 16:11:46 GMT | The Silence of Tomorrow | Sujaat | [Read More](https://medium.com/p/e22207233f75) |
 | Sat, 04 Oct 2025 16:08:49 GMT | RANSOMWARE CRIPPLES ASAHI PRODUCTION, JAPAN FACES BEER SHORTAGE | sunduck | [Read More](https://medium.com/p/eaa4445ac8c4) |
 | Sat, 04 Oct 2025 16:08:10 GMT | Credit Unions 2025: Winning The Identity Fraud Battle In A New World | Rory Galvin | [Read More](https://medium.com/p/1ef48b52da2e) |
 | Sat, 04 Oct 2025 16:03:29 GMT | How To Cleanup Gmail Storage Fix Issue Regain Free Space in Hindi - Gmail Ki Storage Full Ho Jaye… | Hinditechtrick | [Read More](https://medium.com/p/3f205f981ba5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 11:11:04 GMT | Drosera Network | Kayleb Owojo | [Read More](https://medium.com/p/00139bb7f726) |
 | Sat, 04 Oct 2025 11:09:08 GMT | CORS Vulnerability with Trusted Null Origin | Aditya Bhatt | [Read More](https://medium.com/p/1686bb493dc5) |
 | Sat, 04 Oct 2025 11:07:49 GMT | What is statistics, and why can it be useful for cybersecurity? | Shefik Memedi | [Read More](https://medium.com/p/8d242e6a2e8e) |
-| Sat, 04 Oct 2025 11:07:27 GMT | Advance Job Internship Program with 100% Job Guarantee — Evision Technoserve | Evision Technoserve | [Read More](https://medium.com/p/f8f2f6b8e0b5) |
-| Sat, 04 Oct 2025 11:07:15 GMT | Deconstructing CVE-2025–10585: Deep Dive into Chrome’s Latest V8 Zero-Day! | Mohammed Tanveer | [Read More](https://medium.com/p/15ab1e640e1a) |
-| Sat, 04 Oct 2025 11:06:52 GMT | DevOps di Tahun 2025: Bukan Sekadar Tools, Tapi Mesin Pendorong Bisnis Digital | Rayhan Agnan | [Read More](https://medium.com/p/1799972582bb) |
-| Sat, 04 Oct 2025 11:02:47 GMT | From AI to Quantum: Why, How, and What Every CXO Must Know to Lead the Next Tech Revolution | Bibhu Ashish Panda | [Read More](https://medium.com/p/a8b0e1956bd1) |
-| Sat, 04 Oct 2025 11:01:25 GMT | Active Directory Security Event Monitoring: Enterprise Domain Protection and Threat Detection | Okan Yıldız | [Read More](https://medium.com/p/db429d50f1a4) |
-| Sat, 04 Oct 2025 10:48:38 GMT | The Price of Neglect. The Big Questions Behind Jaguar Land Rover’s Government £1.5 B Cyber Bailout. | Aleksander Gorkowienko | [Read More](https://medium.com/p/e11ffd5831e2) |
-| Sat, 04 Oct 2025 10:47:55 GMT | The Buffalo AI Voice Scam: Your Wake-Up Call to the Deepfake Era | Mudassir Khan | [Read More](https://medium.com/p/cf4204ed07b4) |
-| Sat, 04 Oct 2025 10:47:51 GMT | The Psychology of a Triager: Inside the Mind of Bug Reviewers | Fateyaly | [Read More](https://medium.com/p/5abce597452f) |
