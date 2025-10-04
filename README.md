@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 21:02:23 GMT | It’s Never Too Late — in Life or in Cybersecurity | Danielle Koppel | [Read More](https://medium.com/p/2455fd309a19) |
+| Sat, 04 Oct 2025 20:47:28 GMT | Pain is a friend we keep meeting for the first time | Khalisha Farhanah | [Read More](https://medium.com/p/306bd5c33a7f) |
+| Sat, 04 Oct 2025 20:34:52 GMT | Hybrid Models (MPI + OpenMP): Motivation and Use-Cases | DHANASHREE SANJAY CHILA | [Read More](https://medium.com/p/60a547f0d1f5) |
+| Sat, 04 Oct 2025 20:30:14 GMT | AI Agents for Cybersecurity — Cybersecurity is in for an Agentic Takeover (2026) | Rajat Dangi ️ | [Read More](https://medium.com/p/8a53a1792e0d) |
 | Sat, 04 Oct 2025 20:16:09 GMT | Silencing the Digital Abuse: How AI is Stepping Up to Control Cyberbullying in Mass Media | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/133934883490) |
 | Sat, 04 Oct 2025 20:15:11 GMT | Exploring BrowsingHistoryView: A Simple Way to Uncover Web Activity | Allen Ace | [Read More](https://medium.com/p/5bcf2dd7a811) |
 | Sat, 04 Oct 2025 20:06:32 GMT | CS student tries to evade AV (PART 1) | Mahmudul Hasan | [Read More](https://medium.com/p/ad8452f38079) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 14:17:52 GMT | What Makes Someone Sexually Magnetic? | Xiaochen | [Read More](https://medium.com/p/60b2ed92a9f0) |
 | Sat, 04 Oct 2025 14:17:21 GMT | Weekly Roundup — October 4th 2025 | litwtch | [Read More](https://medium.com/p/b33c59c366de) |
 | Sat, 04 Oct 2025 14:15:19 GMT | My last Writeup (0day in Zsh (RCE)) | livepwn | [Read More](https://medium.com/p/ce3dcbca0105) |
-| Sat, 04 Oct 2025 14:11:31 GMT | CISSP Domain 1.1: Understand, Adhere to, and Promote Professional Ethics | Yasin Kalli | [Read More](https://medium.com/p/fa06cbbaaf88) |
-| Sat, 04 Oct 2025 14:07:49 GMT | New Invisible Attack Creates Parallel Poisoned Web Only for AI Agents | Shaked Zychlinski ️ | [Read More](https://medium.com/p/22319304ba73) |
-| Sat, 04 Oct 2025 14:02:14 GMT | ABTU’s Roadmap: Building the Foundation for Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/e9f5e4999894) |
-| Sat, 04 Oct 2025 14:00:39 GMT | Bug Why does big tech not run Accessibility bug bounties? | Chris Yoong | [Read More](https://medium.com/p/6fdbaf80d6d0) |
