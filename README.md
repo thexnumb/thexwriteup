@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 09:28:15 GMT | The Art of Ethical Hacking | Cyber Security Research | [Read More](https://medium.com/p/5dae4748e2bc) |
+| Sat, 04 Oct 2025 09:22:26 GMT | A Day in the Life of a Cybersecurity Professional: SOC Analyst, Penetration Tester & GRC Specialist | Syed Mohammed Murtaza | [Read More](https://medium.com/p/508c3bcd83aa) |
+| Sat, 04 Oct 2025 09:22:02 GMT | Encryption’s Enigma | Cyber Security Research | [Read More](https://medium.com/p/526c92b7a704) |
+| Sat, 04 Oct 2025 09:18:11 GMT | DevOps Meets AI: Why Running Models Locally is the Next Big Shift | Akilesh Thuniki | [Read More](https://medium.com/p/11a7dff697b8) |
+| Sat, 04 Oct 2025 09:16:37 GMT | Cybersecurity for Small Businesses | Asifkhanhajana | [Read More](https://medium.com/p/854b5f4577f5) |
+| Sat, 04 Oct 2025 09:15:57 GMT | Zero Trust, Zero Compromise | Cyber Security Research | [Read More](https://medium.com/p/ac37a76491f5) |
 | Sat, 04 Oct 2025 09:09:02 GMT | Exploiting Misconfigured S3 Bucket Access in Serverless Applications | Sena Yakut | [Read More](https://medium.com/p/87f6bee65fb3) |
 | Sat, 04 Oct 2025 09:09:00 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/7c71a1bcde67) |
 | Sat, 04 Oct 2025 09:03:31 GMT | 10 SQL Injection Prevention for SQL Script Hacking Patterns in 2025 | Rohan Dutt | [Read More](https://medium.com/p/89164f2e8165) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 00:32:10 GMT | Ship ML with Django | Codastra | [Read More](https://medium.com/p/8892563bb415) |
 | Sat, 04 Oct 2025 00:16:27 GMT | Idor — TryHackMe writeup | Death Esther | [Read More](https://medium.com/p/705392a6890a) |
 | Sat, 04 Oct 2025 00:08:09 GMT | The Dark Side of Big Tech: Privacy Issues You Can’t Ignore | Jason Han | [Read More](https://medium.com/p/928a29d2c688) |
-| Sat, 04 Oct 2025 00:07:31 GMT | Kant, précurseur involontaire de l’intelligence artificielle : | Loveson VILSENAT | [Read More](https://medium.com/p/41919b41f7b8) |
-| Sat, 04 Oct 2025 00:05:32 GMT | The Five stages of Hacking you never knew | Similoluwa Adelowo | [Read More](https://medium.com/p/06642509bcde) |
-| Sat, 04 Oct 2025 00:02:12 GMT | Findomain: Essential Tool for Passive Subdomain Enumeration | JPablo13 | [Read More](https://medium.com/p/2c1e78e71214) |
-| Sat, 04 Oct 2025 00:02:12 GMT | Cybersecurity Foundations Series: Part 4 — Risk Management and Analysis | TechStoryLines | [Read More](https://medium.com/p/ad6602c10eac) |
-| Fri, 03 Oct 2025 23:42:21 GMT | How I Discovered an Information Disclosure Vulnerability in Jira Instance (CVE-2020–14179) | Ashutosh Anand | [Read More](https://medium.com/p/644b14386e38) |
-| Fri, 03 Oct 2025 23:37:36 GMT | Cybersecurity Risks in the Era of Wearable AI Surge | Emily McRose Nafisa | [Read More](https://medium.com/p/2473489c0eda) |
