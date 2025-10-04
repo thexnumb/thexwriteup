@@ -12,9 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 04:29:45 GMT | Is AI Reading This With You? The Unseen Tech Reshaping Your Day | Medium Quill | [Read More](https://medium.com/p/8704e51059af) |
+| Sat, 04 Oct 2025 04:23:20 GMT | Opacity - TryHackMe Walkthrough | Robert Gooding | [Read More](https://medium.com/p/57edf36138d2) |
 | Sat, 04 Oct 2025 04:11:52 GMT | Tech Trends 2025: Predictions That Will Shape the Next Decade | Jason Han | [Read More](https://medium.com/p/6e3526bd2579) |
 | Sat, 04 Oct 2025 04:08:37 GMT | I Bet Against Go | Soumya | [Read More](https://medium.com/p/1eeb89765cb9) |
 | Sat, 04 Oct 2025 04:07:10 GMT | Wazuh for DevSecOps: A Comprehensive Guide | Ismael Barrantes | [Read More](https://medium.com/p/5ec134afa3ac) |
+| Sat, 04 Oct 2025 03:56:05 GMT | ಸೈಬರ್ ವಂಚನೆಗಳಿಂದ ರೈತರ ಸುರಕ್ಷತೆ: | Shivaraj | [Read More](https://medium.com/p/47d96da1dcc7) |
 | Sat, 04 Oct 2025 03:52:31 GMT | The Core Advantage: Why Tektronix’ Unified Platform is Essential for UAE & GCC Data Centers | Tekmuzammil | [Read More](https://medium.com/p/6d32b0c2af6d) |
 | Sat, 04 Oct 2025 03:13:28 GMT | When National Digital Infrastructure Collapses — Lessons from South Korea’s Data Center Fire | David SEHYEON Baek | [Read More](https://medium.com/p/6133d0eacf47) |
 | Sat, 04 Oct 2025 03:13:01 GMT | The FastAPI Secret That Makes Your APIs 50x Faster Than Django | Rizqi Mulki | [Read More](https://medium.com/p/c08c11e71787) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 18:28:38 GMT | Tarih Öncesi Hatalar, Modern Tuzaklar: Rulo’nun Hikayesiyle Siber Güvenliği Anlamak | techtalks.academy | [Read More](https://medium.com/p/592f655b370c) |
 | Fri, 03 Oct 2025 18:28:34 GMT | The Hidden Cybersecurity Lessons Inside Classic Tech Books | Shahzaib | [Read More](https://medium.com/p/5e7cc323ee05) |
 | Fri, 03 Oct 2025 18:26:59 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/44f7c44862a9) |
-| Fri, 03 Oct 2025 18:22:10 GMT | Security Tests for FastAPI projects | Cristian | [Read More](https://medium.com/p/3cd10845b557) |
-| Fri, 03 Oct 2025 18:21:16 GMT | AI and the Policy of Most Privilege | Daniel Leeder | [Read More](https://medium.com/p/46506118453f) |
-| Fri, 03 Oct 2025 18:06:49 GMT | From Curiosity to DevSecOps: My Unlikely Journey Through Computers, CG, and Self-Learning | Deneth Vihara | [Read More](https://medium.com/p/3d51e9f17a3c) |
