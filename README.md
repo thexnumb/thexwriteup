@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 15:12:56 GMT | 36 Questions to Make Strangers FALL IN LOVE | VipLuv | [Read More](https://medium.com/p/7da0d3425795) |
+| Sat, 04 Oct 2025 15:07:56 GMT | Phishing Exposed: The Art of Deception | Cyber Security Research | [Read More](https://medium.com/p/5efaf2ff92c1) |
+| Sat, 04 Oct 2025 15:01:55 GMT | Ransomware’s Ruthless Reign | Cyber Security Research | [Read More](https://medium.com/p/595591c551cd) |
+| Sat, 04 Oct 2025 14:55:48 GMT | The Feel-Good Cry Nobody Talks About | Darlene López | [Read More](https://medium.com/p/3ebf321cae67) |
+| Sat, 04 Oct 2025 14:51:05 GMT | Day 4: “QR Codes: Convenience or Cyber Trap?” | aysha | [Read More](https://medium.com/p/ae6b787e74f5) |
+| Sat, 04 Oct 2025 14:47:43 GMT | My Virtual HomeLab: Security — Part Two | Cybersec with Hemmars | [Read More](https://medium.com/p/973d8f03c68e) |
+| Sat, 04 Oct 2025 14:32:23 GMT | The Slow Poisoning of Tech Jobs | Vijay Kumar Gupta | [Read More](https://medium.com/p/d5bd40761780) |
+| Sat, 04 Oct 2025 14:31:53 GMT | Is Your Business a Sitting Duck? | Janeel Abrahams | [Read More](https://medium.com/p/5996c90dfdeb) |
+| Sat, 04 Oct 2025 14:31:28 GMT | Inside My Lab: How I Created and Detected My Own Malware | Akshatdwivedi | [Read More](https://medium.com/p/33038c9758c3) |
 | Sat, 04 Oct 2025 14:24:30 GMT | Beyond the Title: Why I Started CISO Chair™ | CISO Chair™ | [Read More](https://medium.com/p/335790d4f8ab) |
 | Sat, 04 Oct 2025 14:17:52 GMT | What Makes Someone Sexually Magnetic? | Xiaochen | [Read More](https://medium.com/p/60b2ed92a9f0) |
 | Sat, 04 Oct 2025 14:17:21 GMT | Weekly Roundup — October 4th 2025 | litwtch | [Read More](https://medium.com/p/b33c59c366de) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 09:41:45 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/7332a03c1d50) |
 | Sat, 04 Oct 2025 09:38:45 GMT | My last Writeup (0day in Zsh (RCE)) | livepwn | [Read More](https://medium.com/p/4970952f3fed) |
 | Sat, 04 Oct 2025 09:34:36 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ea46e0aa05ec) |
-| Sat, 04 Oct 2025 09:30:05 GMT | JWT Claims Explained — Spring Boot security | Umesh Kumar Yadav | [Read More](https://medium.com/p/2492b1e165e6) |
-| Sat, 04 Oct 2025 09:28:15 GMT | The Art of Ethical Hacking | Cyber Security Research | [Read More](https://medium.com/p/5dae4748e2bc) |
-| Sat, 04 Oct 2025 09:22:26 GMT | A Day in the Life of a Cybersecurity Professional: SOC Analyst, Penetration Tester & GRC Specialist | Syed Mohammed Murtaza | [Read More](https://medium.com/p/508c3bcd83aa) |
-| Sat, 04 Oct 2025 09:22:02 GMT | Encryption’s Enigma | Cyber Security Research | [Read More](https://medium.com/p/526c92b7a704) |
-| Sat, 04 Oct 2025 09:18:11 GMT | DevOps Meets AI: Why Running Models Locally is the Next Big Shift | Akilesh Thuniki | [Read More](https://medium.com/p/11a7dff697b8) |
-| Sat, 04 Oct 2025 09:16:37 GMT | Cybersecurity for Small Businesses | Asifkhanhajana | [Read More](https://medium.com/p/854b5f4577f5) |
-| Sat, 04 Oct 2025 09:15:57 GMT | Zero Trust, Zero Compromise | Cyber Security Research | [Read More](https://medium.com/p/ac37a76491f5) |
-| Sat, 04 Oct 2025 09:09:02 GMT | Exploiting Misconfigured S3 Bucket Access in Serverless Applications | Sena Yakut | [Read More](https://medium.com/p/87f6bee65fb3) |
-| Sat, 04 Oct 2025 09:09:00 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/7c71a1bcde67) |
