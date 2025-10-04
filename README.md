@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 05:23:08 GMT | A Step-by-Step Study on Installing and Configuring Snort3 in a Virtualized Ubuntu Environment | Berkay Vagas | [Read More](https://medium.com/p/e6d11a2a8530) |
+| Sat, 04 Oct 2025 05:17:04 GMT | AI vs AI: How ChatGPT and I Became Bug Hunting Buddies to Find What Scanners Missed | Iski | [Read More](https://medium.com/p/806b61707131) |
+| Sat, 04 Oct 2025 05:15:38 GMT | Unlocking a Powerful Skill Set: The Symbiotic Benefits of OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/981f1d5752a4) |
+| Sat, 04 Oct 2025 05:14:44 GMT | Locking the Box: Practical Computer Forensics Awareness & Defensive (Anti-Forensics) Techniques for… | Abdul Rehman | [Read More](https://medium.com/p/15d28909fddc) |
 | Sat, 04 Oct 2025 05:12:09 GMT | Haptic Feedback Tech: Feeling the Digital World Like Never Before | Jason Han | [Read More](https://medium.com/p/a170e244d81a) |
 | Sat, 04 Oct 2025 05:08:16 GMT | Breaking the Web (Part 3): Cross-Site Scripting (XSS) — Injecting Evil into the Browser | Mohammed Fahad | [Read More](https://medium.com/p/21a76cfacb43) |
 | Sat, 04 Oct 2025 04:58:19 GMT | The Truth I Buried in My Smile | Darpan Murly | [Read More](https://medium.com/p/08b21f5f1b28) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 19:28:42 GMT | SCATTERED SPİDER İNCELEME | kaan turanli | [Read More](https://medium.com/p/3b9eed05e6d2) |
 | Fri, 03 Oct 2025 19:28:05 GMT | Ascension — Hack Smarter Walkthrough | He_Hacks | [Read More](https://medium.com/p/801b0cbee879) |
 | Fri, 03 Oct 2025 19:14:40 GMT | MDR Cybersecurity Solutions: Why Businesses Need Managed Detection and Response | SafeAeon Inc. | [Read More](https://medium.com/p/a3ab09407e0a) |
-| Fri, 03 Oct 2025 19:11:20 GMT | ISC 2021 Forensic Contest Walk-through - Network Traffic Analysis | Cybill383 | [Read More](https://medium.com/p/aadbe6ba9590) |
-| Fri, 03 Oct 2025 18:51:53 GMT | Voice Assistants Evolved: Siri, Alexa, and Beyond in 2025 | Jason Han | [Read More](https://medium.com/p/a9fa256c72a2) |
-| Fri, 03 Oct 2025 18:47:24 GMT | Tryhackme — Heist WriteUp Türkçe | nightbird | [Read More](https://medium.com/p/b97aee52f099) |
-| Fri, 03 Oct 2025 18:43:08 GMT | Day 10 — Mastering Autopsy: A Beginner’s Guide to Digital Forensics | HackTrace | [Read More](https://medium.com/p/e46f7852f6bb) |
