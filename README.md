@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 23:21:54 GMT | Semantic Text Similarity for Cybersecurity Maturity Assessment | Andriyan Saputra | [Read More](https://medium.com/p/b1bdbe23c5bd) |
 | Sat, 04 Oct 2025 23:14:09 GMT | How I Learned the Language of Trust: My Journey into PKI and Certificate Authorities | Incidalus | [Read More](https://medium.com/p/77aa6f322bb2) |
 | Sat, 04 Oct 2025 23:04:41 GMT | Why Defensive Scripters Are the Ghosts in the Machine | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/87c2d3b5796a) |
 | Sat, 04 Oct 2025 22:52:21 GMT | Cracking the JavaScript Code: Lessons From My Real-World Projects | Kainat Nafees | [Read More](https://medium.com/p/20aa4d7e7b66) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 15:47:52 GMT | Why Enterprise .NET Apps Still Need Windows Auth (And How to Do It Right in 2025) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/64a560fbf2b1) |
 | Sat, 04 Oct 2025 15:47:30 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8fdad2c62ce3) |
 | Sat, 04 Oct 2025 15:46:01 GMT | Why Blockchain is Inevitable for the Future of Data Privacy | Alejandra Catacora | [Read More](https://medium.com/p/c73ef9cf452d) |
-| Sat, 04 Oct 2025 15:40:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/82b0f5a6478e) |
