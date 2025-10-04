@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 05:12:09 GMT | Haptic Feedback Tech: Feeling the Digital World Like Never Before | Jason Han | [Read More](https://medium.com/p/a170e244d81a) |
+| Sat, 04 Oct 2025 05:08:16 GMT | Breaking the Web (Part 3): Cross-Site Scripting (XSS) — Injecting Evil into the Browser | Mohammed Fahad | [Read More](https://medium.com/p/21a76cfacb43) |
+| Sat, 04 Oct 2025 04:58:19 GMT | The Truth I Buried in My Smile | Darpan Murly | [Read More](https://medium.com/p/08b21f5f1b28) |
+| Sat, 04 Oct 2025 04:51:58 GMT | Smart CCTV Systems vs. Traditional Cameras: Which One is Best for You? | Ask IT Support | [Read More](https://medium.com/p/5b1bdf35b9e2) |
+| Sat, 04 Oct 2025 04:48:51 GMT | Data Center Security in a Quantum Age in Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/afea335e7810) |
+| Sat, 04 Oct 2025 04:46:29 GMT | 10 Flutter Mistakes Beginners Still Make in 2025 (And How to Avoid Them) | Owais Mustafa | [Read More](https://medium.com/p/f333c8600b6c) |
+| Sat, 04 Oct 2025 04:45:53 GMT | Helpless & Vulnerable | Curah Hujan | [Read More](https://medium.com/p/cac3ee13d351) |
 | Sat, 04 Oct 2025 04:29:45 GMT | Is AI Reading This With You? The Unseen Tech Reshaping Your Day | Medium Quill | [Read More](https://medium.com/p/8704e51059af) |
 | Sat, 04 Oct 2025 04:23:20 GMT | Opacity - TryHackMe Walkthrough | Robert Gooding | [Read More](https://medium.com/p/57edf36138d2) |
 | Sat, 04 Oct 2025 04:11:52 GMT | Tech Trends 2025: Predictions That Will Shape the Next Decade | Jason Han | [Read More](https://medium.com/p/6e3526bd2579) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 18:51:53 GMT | Voice Assistants Evolved: Siri, Alexa, and Beyond in 2025 | Jason Han | [Read More](https://medium.com/p/a9fa256c72a2) |
 | Fri, 03 Oct 2025 18:47:24 GMT | Tryhackme — Heist WriteUp Türkçe | nightbird | [Read More](https://medium.com/p/b97aee52f099) |
 | Fri, 03 Oct 2025 18:43:08 GMT | Day 10 — Mastering Autopsy: A Beginner’s Guide to Digital Forensics | HackTrace | [Read More](https://medium.com/p/e46f7852f6bb) |
-| Fri, 03 Oct 2025 18:41:39 GMT | Evading ETW Techniques ( written in C): | Zanebilal | [Read More](https://medium.com/p/d8875e7385b9) |
-| Fri, 03 Oct 2025 18:40:16 GMT | Unrestricted File Upload in Plugin Upload section in Thermo Fisher Ion Torrent Browser 5.10.1 | Sh11td0wn | [Read More](https://medium.com/p/ae93b49e6151) |
-| Fri, 03 Oct 2025 18:30:54 GMT | How Reading About Blockchain and Cybersecurity Gave Me a Career Edge | Aj | [Read More](https://medium.com/p/b009eeb8797f) |
-| Fri, 03 Oct 2025 18:30:40 GMT | The Art of Deception: Controlling the Human Element of Security | Samina Perveen | [Read More](https://medium.com/p/d7acff10ccfc) |
-| Fri, 03 Oct 2025 18:28:38 GMT | Tarih Öncesi Hatalar, Modern Tuzaklar: Rulo’nun Hikayesiyle Siber Güvenliği Anlamak | techtalks.academy | [Read More](https://medium.com/p/592f655b370c) |
-| Fri, 03 Oct 2025 18:28:34 GMT | The Hidden Cybersecurity Lessons Inside Classic Tech Books | Shahzaib | [Read More](https://medium.com/p/5e7cc323ee05) |
-| Fri, 03 Oct 2025 18:26:59 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/44f7c44862a9) |
