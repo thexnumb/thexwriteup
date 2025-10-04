@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 13:15:06 GMT | The AI Tsunami: Reshaping Enterprise Software, Data & Analytics and India's IT Landscape | Prashant Pawar | [Read More](https://medium.com/p/4602fe7e626b) |
+| Sat, 04 Oct 2025 13:12:18 GMT | Praktikum Internet of Things (Tugas): Integrasi Komponen Dasar melalui Proyek Sederhana | Muhammad Surya Saputro | [Read More](https://medium.com/p/4c20f24f2ed0) |
+| Sat, 04 Oct 2025 13:10:50 GMT | Top 5 Cyber Threats Everyone Should Be Aware of in 2025 | Shansuma D | [Read More](https://medium.com/p/7b09343ee775) |
+| Sat, 04 Oct 2025 13:10:26 GMT | 5 Mind-Blowing Tech Trends You Can’t Ignore in 2025 | SeoExpert - Tacnical Adviser | [Read More](https://medium.com/p/b17b91016105) |
+| Sat, 04 Oct 2025 13:09:57 GMT | CSP Mastery: Nonce Rotation, Trusted Types, and Real-World Pitfalls (Series A-2) | Trevor Woollacott | [Read More](https://medium.com/p/f8a85c17396b) |
+| Sat, 04 Oct 2025 13:01:40 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/7e2fa9d24fd7) |
+| Sat, 04 Oct 2025 13:00:23 GMT | The Hidden Power of OSINT: How Hackers and Defenders Use Public Data | Shahzaib | [Read More](https://medium.com/p/9e340f9a4305) |
+| Sat, 04 Oct 2025 13:00:19 GMT | Cloud Security Configuration Review: The Hidden Shield of Cloud Resilience | Ashwini Puranik | [Read More](https://medium.com/p/934c8f99fff1) |
+| Sat, 04 Oct 2025 13:00:16 GMT | SOC Tools to Detect & Test Phishing and Malware: A Practical Guide for Cybersecurity Learners | Mainekhacker | [Read More](https://medium.com/p/3e94a5ebd1ec) |
+| Sat, 04 Oct 2025 12:59:55 GMT | The Future of Cybersecurity: Predictions for the Next Decade | Samina Perveen | [Read More](https://medium.com/p/22b4f7bdfe15) |
+| Sat, 04 Oct 2025 12:59:42 GMT | Ultralytics YOLO AI Model Compromised in Supply Chain Attack | Mustapha Aitigunaoun | [Read More](https://medium.com/p/3e424dc9f1ba) |
+| Sat, 04 Oct 2025 12:59:37 GMT | Mastering Blind XSS: A Comprehensive Guide to Finding and Exploiting This Hidden Vulnerability | Monika sharma | [Read More](https://medium.com/p/c4538397e782) |
+| Sat, 04 Oct 2025 12:56:00 GMT | How Documenting Is Your Best Defense | Data Defendere | [Read More](https://medium.com/p/6935a218c724) |
+| Sat, 04 Oct 2025 12:55:26 GMT | Abusing Constrained Delegation in Kerberos | SeverSerenity | [Read More](https://medium.com/p/dd4d4c8b66dd) |
+| Sat, 04 Oct 2025 12:53:45 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/af11eea5bb5e) |
+| Sat, 04 Oct 2025 12:52:02 GMT | How to Audit Your Building’s Security Without Breaking Any Laws | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b9bb6b597493) |
+| Sat, 04 Oct 2025 12:50:03 GMT | Story of $$$$ Bounty: 80k+ Users Data Exposed via Signup Flaw | V3D | [Read More](https://medium.com/p/0f41e1d57481) |
+| Sat, 04 Oct 2025 12:49:31 GMT | Investigating Emulated Attack via Splunk | Ahmadhossam | [Read More](https://medium.com/p/bafb2fbe11f3) |
+| Sat, 04 Oct 2025 12:46:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/84fd459dce2e) |
+| Sat, 04 Oct 2025 12:44:20 GMT | Splunk Primers: Fields | Antonella Blasetti | [Read More](https://medium.com/p/ff39a2707701) |
+| Sat, 04 Oct 2025 12:41:21 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6f5291bbc840) |
 | Sat, 04 Oct 2025 12:23:32 GMT | The IoT Security Nightmare | Cyber Security Research | [Read More](https://medium.com/p/768d8f262245) |
 | Sat, 04 Oct 2025 12:19:13 GMT | Scanning Activity on Palo Alto Networks Portals Surges 500% in Just One Day | Jasmitharouthu | [Read More](https://medium.com/p/b3913293f3b5) |
 | Sat, 04 Oct 2025 12:16:30 GMT | Beyond Passwords: Authentication Revolution | Cyber Security Research | [Read More](https://medium.com/p/a5edd16f3726) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 07:58:20 GMT | How people’s locations are discovered through online links? | Johnson Joy | [Read More](https://medium.com/p/8a58ed0e80d0) |
 | Sat, 04 Oct 2025 07:57:55 GMT | ☁️ Security Vulnerabilities in Serverless Applications | Esra Kayhan | [Read More](https://medium.com/p/cc9b8defd41e) |
 | Sat, 04 Oct 2025 07:44:33 GMT | Privacy, Safety, and Harm Mitigation in AI: A Practical Framework | Esther Abel | [Read More](https://medium.com/p/e5dd2425310c) |
-| Sat, 04 Oct 2025 07:37:29 GMT | Tải Rise Of Kingdoms Hack (Vô Hạn Tiền, Không Quảng Cáo) v1.0.99.18 | BANDISHARE | [Read More](https://medium.com/p/6d944cb1736a) |
-| Sat, 04 Oct 2025 07:34:58 GMT | SSL Pinning Bypass: SSLContext | Oguzhan Oztaskin | [Read More](https://medium.com/p/b79070ebeea7) |
-| Sat, 04 Oct 2025 07:31:52 GMT | 7 FastAPI Security Defaults That Don’t Add Latency | Syntal | [Read More](https://medium.com/p/b351551c88c5) |
-| Sat, 04 Oct 2025 07:31:15 GMT | Multi-Factor Authentication (MFA) | John Odumesi | [Read More](https://medium.com/p/0208f4603043) |
-| Sat, 04 Oct 2025 07:21:09 GMT | Digital Clutter: Why Our Online Lives Need Spring Cleaning | Maham Tanveer | [Read More](https://medium.com/p/f7164bfb29a5) |
-| Sat, 04 Oct 2025 07:17:57 GMT | Data Safety Awareness Series – Post 1 | Juned Silavat | [Read More](https://medium.com/p/262f7c027598) |
-| Sat, 04 Oct 2025 07:09:51 GMT | XDR: Operation Global Dagger 2 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/65ba900bc51f) |
-| Sat, 04 Oct 2025 06:50:44 GMT | Discover Network Devices on Kali Linux | Forid Ahammad Asik | [Read More](https://medium.com/p/f87851b123cf) |
-| Sat, 04 Oct 2025 06:46:14 GMT | You Need to Learn MCP (Model Context Protocol) | Shahzaib | [Read More](https://medium.com/p/c55f15b23bf2) |
-| Sat, 04 Oct 2025 06:44:51 GMT | The Delicate Dance: Discerning Attachment from True Connection | Chiamaka Umeh | [Read More](https://medium.com/p/1bf194c9688c) |
-| Sat, 04 Oct 2025 06:39:53 GMT | Sudo Without Su: CVE-2025–32463 PoC | Toshith | [Read More](https://medium.com/p/fe8e2ce116d9) |
-| Sat, 04 Oct 2025 06:36:01 GMT | Navigating the Minefield: Communicating Hurt Without Pushing Your Partner Away | Chiamaka Umeh | [Read More](https://medium.com/p/faee30bda1d8) |
-| Sat, 04 Oct 2025 06:35:40 GMT | Advanced Turnstile Speed Gates for Corporate Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/aed2619bafe9) |
-| Sat, 04 Oct 2025 06:31:50 GMT | SubHub: Engineering Precision into Every Web3 Campaign | EHMPE RHOR | [Read More](https://medium.com/p/a1da49645de2) |
-| Sat, 04 Oct 2025 06:25:51 GMT | When I chat with anyone or do anything on Dark Web .onion, any government agency can track me | LogicTech | [Read More](https://medium.com/p/a54995f20d72) |
-| Sat, 04 Oct 2025 06:25:00 GMT | Hacking My WiFI with a Flipper Zero + Hashcat (live demo) | Jackson Mittag | [Read More](https://medium.com/p/14c13ad7ef27) |
-| Sat, 04 Oct 2025 06:22:48 GMT | When AI Tricks Us: Spotting Fake Voices and Videos Before They Fool You. | Colin Miller | [Read More](https://medium.com/p/d4be8cb9c226) |
-| Sat, 04 Oct 2025 06:08:57 GMT | Cloud Wars: Picking Your Battles (and Wins) in a Multi-Cloud World | Emma Johnson | [Read More](https://medium.com/p/329faa6433b1) |
-| Sat, 04 Oct 2025 05:58:34 GMT | Phishing and Social Engineering: Global Threats and Prevention Measures | Cyberintruder Net | [Read More](https://medium.com/p/4d5a440cbf36) |
-| Sat, 04 Oct 2025 05:57:51 GMT | I Tried Everything — These 5 Skills Actually Got Me Hired in IT in 2025- Real Examples | Shaikh Minhaz | [Read More](https://medium.com/p/5f17fdcb21af) |
-| Sat, 04 Oct 2025 05:56:17 GMT | Smart Cybersecurity Consulting Firms + How to Boost Yours | Dogmasys | [Read More](https://medium.com/p/351a089dd520) |
