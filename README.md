@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 08:22:37 GMT | Cybersecurity by design | Ermiyas Tilahun | [Read More](https://medium.com/p/0b47dc954fb6) |
+| Sat, 04 Oct 2025 08:06:30 GMT | Building Resilient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/349b55635097) |
+| Sat, 04 Oct 2025 08:03:05 GMT | TryHackMe - XDR: Operation Global Dagger 2 - WriteUp | Axoloth | [Read More](https://medium.com/p/22d07261b767) |
+| Sat, 04 Oct 2025 08:02:00 GMT | ⛓️ CI/CD Pipeline Vulnerabilities: Supply Chain Attacks | Esra Kayhan | [Read More](https://medium.com/p/c504403faf71) |
+| Sat, 04 Oct 2025 07:59:54 GMT | How I Found a Payment Bypass Bug Using a Simple Race Condition | Krishna | [Read More](https://medium.com/p/d1e6ec7a9513) |
+| Sat, 04 Oct 2025 07:58:20 GMT | How people’s locations are discovered through online links? | Johnson Joy | [Read More](https://medium.com/p/8a58ed0e80d0) |
+| Sat, 04 Oct 2025 07:57:55 GMT | ☁️ Security Vulnerabilities in Serverless Applications | Esra Kayhan | [Read More](https://medium.com/p/cc9b8defd41e) |
+| Sat, 04 Oct 2025 07:44:33 GMT | Privacy, Safety, and Harm Mitigation in AI: A Practical Framework | Esther Abel | [Read More](https://medium.com/p/e5dd2425310c) |
+| Sat, 04 Oct 2025 07:37:29 GMT | Tải Rise Of Kingdoms Hack (Vô Hạn Tiền, Không Quảng Cáo) v1.0.99.18 | BANDISHARE | [Read More](https://medium.com/p/6d944cb1736a) |
+| Sat, 04 Oct 2025 07:34:58 GMT | SSL Pinning Bypass: SSLContext | Oguzhan Oztaskin | [Read More](https://medium.com/p/b79070ebeea7) |
+| Sat, 04 Oct 2025 07:31:52 GMT | 7 FastAPI Security Defaults That Don’t Add Latency | Syntal | [Read More](https://medium.com/p/b351551c88c5) |
+| Sat, 04 Oct 2025 07:31:15 GMT | Multi-Factor Authentication (MFA) | John Odumesi | [Read More](https://medium.com/p/0208f4603043) |
 | Sat, 04 Oct 2025 07:21:09 GMT | Digital Clutter: Why Our Online Lives Need Spring Cleaning | Maham Tanveer | [Read More](https://medium.com/p/f7164bfb29a5) |
 | Sat, 04 Oct 2025 07:17:57 GMT | Data Safety Awareness Series – Post 1 | Juned Silavat | [Read More](https://medium.com/p/262f7c027598) |
 | Sat, 04 Oct 2025 07:09:51 GMT | XDR: Operation Global Dagger 2 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/65ba900bc51f) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 22:08:03 GMT | AR Glasses: The Wearable Revolution Changing How We See the World | Jason Han | [Read More](https://medium.com/p/4dc79831feb6) |
 | Fri, 03 Oct 2025 21:50:55 GMT | Can Hackers Still Get In With Your Password? | Samirah A.O | [Read More](https://medium.com/p/bc2bd648d8ec) |
 | Fri, 03 Oct 2025 21:50:18 GMT | From Startup to SOC 2: A Practical Roadmap for First-Time Compliance | Dera E. | [Read More](https://medium.com/p/d06f15dbd76e) |
-| Fri, 03 Oct 2025 21:43:50 GMT | So You Want to Work in Cybersecurity? Read This First. | Ajay Kumar | [Read More](https://medium.com/p/5b32a4a1a124) |
-| Fri, 03 Oct 2025 21:40:42 GMT | Logs Fundamentals - THM | Isiah | [Read More](https://medium.com/p/1f6941769612) |
-| Fri, 03 Oct 2025 21:40:23 GMT | XDR: Operation Global Dagger Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/fe8624556a8e) |
-| Fri, 03 Oct 2025 21:35:31 GMT | Event Calendar 2025 | Nexus ALKÜ | [Read More](https://medium.com/p/2a2e2e3aeb63) |
-| Fri, 03 Oct 2025 21:34:05 GMT | Wait, What?! LockBit 5.0 is Back? (Part 1) | Abdelrahmanhamdy | [Read More](https://medium.com/p/fd18a2de40bc) |
-| Fri, 03 Oct 2025 21:30:09 GMT | The 8 Cybersecurity Best Practices Every MSP Must Adopt in 2025 | Donald Betancourt | [Read More](https://medium.com/p/e51711f855e7) |
-| Fri, 03 Oct 2025 21:29:51 GMT | Meteor Lines Inside My Brain. | Spiral Patterns | [Read More](https://medium.com/p/e761e4156eeb) |
-| Fri, 03 Oct 2025 21:21:15 GMT | Cyber Security Tutorial (Part2): The Evolution of Online Reconnaissance | mohandika | [Read More](https://medium.com/p/13b1c9d99b96) |
-| Fri, 03 Oct 2025 21:19:56 GMT | CVE-2022–26134: The Confluence RCE That Shook Enterprise Security | VampireXRay | [Read More](https://medium.com/p/2b58c5385011) |
-| Fri, 03 Oct 2025 21:06:56 GMT | Behind the Screen: Surviving Cyberstalking | Uncoverwithdale | [Read More](https://medium.com/p/df7d50469755) |
-| Fri, 03 Oct 2025 21:06:26 GMT | Sustainable Tech: Gadgets Designed to Save the Planet | Jason Han | [Read More](https://medium.com/p/734098aa8643) |
-| Fri, 03 Oct 2025 21:04:52 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/d2cbdf232c22) |
