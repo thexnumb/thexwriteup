@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 22:20:43 GMT | MFA & 2FA DEMYSTIFIED … | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/466af23c577d) |
 | Sat, 04 Oct 2025 22:07:15 GMT | Fear-Mongering or Cybersecurity Awareness? | Cyber Lois | [Read More](https://medium.com/p/2166360fc91b) |
 | Sat, 04 Oct 2025 22:03:40 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/3ce898af73ba) |
 | Sat, 04 Oct 2025 22:01:34 GMT | SAP Sızma Testi | Fatih Tüzün | [Read More](https://medium.com/p/cc3ea959d114) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 15:28:26 GMT | TryHackMe: Infinity Shell (Write-Up) | Daniel Kochishvili | [Read More](https://medium.com/p/a2ccd4554f09) |
 | Sat, 04 Oct 2025 15:27:46 GMT | Behind Enemy Lines: How Attackers Hijack Windows Networks with SMBExec — and How DFIR Teams… | Paritosh | [Read More](https://medium.com/p/e727b2f068f9) |
 | Sat, 04 Oct 2025 15:24:20 GMT | Let’s talk about Angular & Security️ | mohamed aziz aydi | [Read More](https://medium.com/p/0d580f19b4ef) |
-| Sat, 04 Oct 2025 15:21:04 GMT | Search Order Attacks: Simple, yet Deadly. | Rayhan Tsani | [Read More](https://medium.com/p/4860026d3189) |
