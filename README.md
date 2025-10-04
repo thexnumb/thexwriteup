@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 10:17:53 GMT | Session Hijacking: How Weak Authentication Destroys Security in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/bbbaf1f05048) |
+| Sat, 04 Oct 2025 10:05:15 GMT | RCSC Resurrection CTF 2025 — Crypto Writeups | Shoaib Bin Rashid | [Read More](https://medium.com/p/fdea8d3cd62b) |
+| Sat, 04 Oct 2025 10:03:53 GMT | Toward an International Institute for Novel Cryptography Methods: Exploring Semantic and… | Martin T. Bosnev | [Read More](https://medium.com/p/f053c9d253ad) |
+| Sat, 04 Oct 2025 10:01:31 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/058a9751a1a9) |
+| Sat, 04 Oct 2025 09:56:59 GMT | A stepwise approach to handling a Ransomware incident in your business | devmihaylov | [Read More](https://medium.com/p/71659a55719b) |
+| Sat, 04 Oct 2025 09:49:04 GMT | Unquoted Service Path in 2025 | Marco Nappi | [Read More](https://medium.com/p/0cdc0ed54c34) |
+| Sat, 04 Oct 2025 09:48:46 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/58316ba2ad30) |
+| Sat, 04 Oct 2025 09:41:45 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/7332a03c1d50) |
+| Sat, 04 Oct 2025 09:38:45 GMT | My last Writeup (0day in Zsh (RCE)) | livepwn | [Read More](https://medium.com/p/4970952f3fed) |
+| Sat, 04 Oct 2025 09:34:36 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ea46e0aa05ec) |
+| Sat, 04 Oct 2025 09:30:05 GMT | JWT Claims Explained — Spring Boot security | Umesh Kumar Yadav | [Read More](https://medium.com/p/2492b1e165e6) |
 | Sat, 04 Oct 2025 09:28:15 GMT | The Art of Ethical Hacking | Cyber Security Research | [Read More](https://medium.com/p/5dae4748e2bc) |
 | Sat, 04 Oct 2025 09:22:26 GMT | A Day in the Life of a Cybersecurity Professional: SOC Analyst, Penetration Tester & GRC Specialist | Syed Mohammed Murtaza | [Read More](https://medium.com/p/508c3bcd83aa) |
 | Sat, 04 Oct 2025 09:22:02 GMT | Encryption’s Enigma | Cyber Security Research | [Read More](https://medium.com/p/526c92b7a704) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 01:57:49 GMT | Part 8: From backyard to battlefield, Payload. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/8f683e34ea23) |
 | Sat, 04 Oct 2025 01:44:05 GMT | Are You Worried About Databases Hacked? - Benefits Of Blackhatclique: | Donley Mark | [Read More](https://medium.com/p/69bc03c8e954) |
 | Sat, 04 Oct 2025 01:43:29 GMT | Scaling on Identity: The Hidden Debt Startups Can’t Ignore | Abhirami Sasikala Rishikesavan | [Read More](https://medium.com/p/2fe32ab28bcb) |
-| Sat, 04 Oct 2025 01:37:59 GMT | TryHackMe #85 - Brim | 0xGroot | [Read More](https://medium.com/p/898208fd5225) |
-| Sat, 04 Oct 2025 01:36:08 GMT | The Security Debt Playbook | Abhirami Sasikala Rishikesavan | [Read More](https://medium.com/p/ea68d88bca89) |
-| Sat, 04 Oct 2025 01:32:52 GMT | The New Wave of Crypto ETF Filings: A Turning Point? | Hex Alan | [Read More](https://medium.com/p/41db75a8bc43) |
-| Sat, 04 Oct 2025 01:31:57 GMT | TryHackMe #84 - Zeek Exercises | 0xGroot | [Read More](https://medium.com/p/fd01c7dc4aff) |
-| Sat, 04 Oct 2025 01:28:09 GMT | TryHackMe #83 - Zeek | 0xGroot | [Read More](https://medium.com/p/4235ee2bf437) |
-| Sat, 04 Oct 2025 01:22:11 GMT | TryHackMe #82 - NetworkMiner | 0xGroot | [Read More](https://medium.com/p/eda4f496d0b5) |
-| Sat, 04 Oct 2025 01:11:55 GMT | 5G vs. Wi-Fi 7: Which Will Dominate Your Network in 2025? | Jason Han | [Read More](https://medium.com/p/d0f6fe0901b2) |
-| Sat, 04 Oct 2025 00:54:43 GMT | How AI Can Make Life Better by Fighting Bots and Fraud | Nerudat | [Read More](https://medium.com/p/b4f69ddbe307) |
-| Sat, 04 Oct 2025 00:32:10 GMT | Ship ML with Django | Codastra | [Read More](https://medium.com/p/8892563bb415) |
-| Sat, 04 Oct 2025 00:16:27 GMT | Idor — TryHackMe writeup | Death Esther | [Read More](https://medium.com/p/705392a6890a) |
-| Sat, 04 Oct 2025 00:08:09 GMT | The Dark Side of Big Tech: Privacy Issues You Can’t Ignore | Jason Han | [Read More](https://medium.com/p/928a29d2c688) |
