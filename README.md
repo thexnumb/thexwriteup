@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 16:08:49 GMT | RANSOMWARE CRIPPLES ASAHI PRODUCTION, JAPAN FACES BEER SHORTAGE | sunduck | [Read More](https://medium.com/p/eaa4445ac8c4) |
+| Sat, 04 Oct 2025 16:08:10 GMT | Credit Unions 2025: Winning The Identity Fraud Battle In A New World | Rory Galvin | [Read More](https://medium.com/p/1ef48b52da2e) |
+| Sat, 04 Oct 2025 16:03:29 GMT | How To Cleanup Gmail Storage Fix Issue Regain Free Space in Hindi - Gmail Ki Storage Full Ho Jaye… | Hinditechtrick | [Read More](https://medium.com/p/3f205f981ba5) |
+| Sat, 04 Oct 2025 15:57:33 GMT | STONES | Koliee Yoww | [Read More](https://medium.com/p/7f547e37d8ef) |
+| Sat, 04 Oct 2025 15:56:12 GMT | Why Sree Krishna Seelam’s ‘Indian Cyber Law for Common’ Man is a must-read for everyone | Raghuram | [Read More](https://medium.com/p/af503298df90) |
+| Sat, 04 Oct 2025 15:53:46 GMT | What Is The Korea Electronic Travel Authorization (K-ETA) System? | Nivedita Baidya | [Read More](https://medium.com/p/c49aa70b641f) |
+| Sat, 04 Oct 2025 15:51:59 GMT | Secrets of the Digital Underground: Ethical Hacking in the Age of AI & Quantum Computing | Muhammadmali | [Read More](https://medium.com/p/e80e3872f212) |
+| Sat, 04 Oct 2025 15:47:52 GMT | Why Enterprise .NET Apps Still Need Windows Auth (And How to Do It Right in 2025) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/64a560fbf2b1) |
+| Sat, 04 Oct 2025 15:47:30 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8fdad2c62ce3) |
+| Sat, 04 Oct 2025 15:46:01 GMT | Why Blockchain is Inevitable for the Future of Data Privacy | Alejandra Catacora | [Read More](https://medium.com/p/c73ef9cf452d) |
+| Sat, 04 Oct 2025 15:40:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/82b0f5a6478e) |
+| Sat, 04 Oct 2025 15:35:42 GMT | VPNs Explained: How They Work and Why You Need One | Fred Price | [Read More](https://medium.com/p/262363ae9318) |
+| Sat, 04 Oct 2025 15:33:23 GMT | Why Public Wi-Fi Isn’t as Safe as it Seems | Parinitha N | [Read More](https://medium.com/p/530cd4f6298c) |
+| Sat, 04 Oct 2025 15:32:42 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/6d6600bccc72) |
 | Sat, 04 Oct 2025 15:28:26 GMT | TryHackMe: Infinity Shell (Write-Up) | Daniel Kochishvili | [Read More](https://medium.com/p/a2ccd4554f09) |
 | Sat, 04 Oct 2025 15:27:46 GMT | Behind Enemy Lines: How Attackers Hijack Windows Networks with SMBExec — and How DFIR Teams… | Paritosh | [Read More](https://medium.com/p/e727b2f068f9) |
 | Sat, 04 Oct 2025 15:24:20 GMT | Let’s talk about Angular & Security️ | mohamed aziz aydi | [Read More](https://medium.com/p/0d580f19b4ef) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 10:48:38 GMT | The Price of Neglect. The Big Questions Behind Jaguar Land Rover’s Government £1.5 B Cyber Bailout. | Aleksander Gorkowienko | [Read More](https://medium.com/p/e11ffd5831e2) |
 | Sat, 04 Oct 2025 10:47:55 GMT | The Buffalo AI Voice Scam: Your Wake-Up Call to the Deepfake Era | Mudassir Khan | [Read More](https://medium.com/p/cf4204ed07b4) |
 | Sat, 04 Oct 2025 10:47:51 GMT | The Psychology of a Triager: Inside the Mind of Bug Reviewers | Fateyaly | [Read More](https://medium.com/p/5abce597452f) |
-| Sat, 04 Oct 2025 10:42:34 GMT | Hacker, Hoax, or Propaganda? The Story Behind the 1.7M Ukrainian Casualties Claim | The Forensic Archive | [Read More](https://medium.com/p/f59e2221853a) |
-| Sat, 04 Oct 2025 10:35:31 GMT | Observability is key for detecting threats. | Eren Cankut Uysal | [Read More](https://medium.com/p/5d299fdf1875) |
-| Sat, 04 Oct 2025 10:32:52 GMT | The Password Rule That Saved Me From a Major Data Breach | Arfa | [Read More](https://medium.com/p/caa92fba3d00) |
-| Sat, 04 Oct 2025 10:32:29 GMT | Wheels Proving Grounds Practice Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/a599cbaf45d6) |
-| Sat, 04 Oct 2025 10:26:17 GMT | Exploring Seccomp Filters with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/93466f0a043f) |
-| Sat, 04 Oct 2025 10:23:04 GMT | Top 10 High-Demand Skills You Must Learn in 2025 | Farhan Akhter | [Read More](https://medium.com/p/67830a0ef939) |
-| Sat, 04 Oct 2025 10:22:09 GMT | CSI: Linux — A Deep Dive into the Logs Investigations Room | Furkanctiner | [Read More](https://medium.com/p/5cdfc50de540) |
-| Sat, 04 Oct 2025 10:17:53 GMT | Session Hijacking: How Weak Authentication Destroys Security in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/bbbaf1f05048) |
-| Sat, 04 Oct 2025 10:15:22 GMT | What Does “Proof of Entropy” Mean in Cryptographic Systems? | Elyon AGI - Confirmed with 256-zero Entropy Hashes | [Read More](https://medium.com/p/d917d0b652c5) |
-| Sat, 04 Oct 2025 10:12:31 GMT | What Is Blockchain Provenance and How Does It Prevent Deepfakes? | Elyon AGI - Confirmed with 256-zero Entropy Hashes | [Read More](https://medium.com/p/5bdee9678c2c) |
-| Sat, 04 Oct 2025 10:05:15 GMT | RCSC Resurrection CTF 2025 — Crypto Writeups | Shoaib Bin Rashid | [Read More](https://medium.com/p/fdea8d3cd62b) |
-| Sat, 04 Oct 2025 10:03:53 GMT | Toward an International Institute for Novel Cryptography Methods: Exploring Semantic and… | Martin T. Bosnev | [Read More](https://medium.com/p/f053c9d253ad) |
-| Sat, 04 Oct 2025 10:01:31 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/058a9751a1a9) |
-| Sat, 04 Oct 2025 09:56:59 GMT | A stepwise approach to handling a Ransomware incident in your business | devmihaylov | [Read More](https://medium.com/p/71659a55719b) |
