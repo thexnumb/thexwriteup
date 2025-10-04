@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 19:05:38 GMT | Building a Malware Analysis Lab on Linux | Cenky | [Read More](https://medium.com/p/4855fc9a3609) |
+| Sat, 04 Oct 2025 19:02:31 GMT | How a Password Change Feature Led to Full Account Takeover (CVSS 8.3) | Onurcan Genç | [Read More](https://medium.com/p/f1a74c3fc210) |
+| Sat, 04 Oct 2025 19:00:09 GMT | Beyond OWASP: Redefining Application Security Risks in the Era of AI and APIs | Sai Krishna Kakarla | [Read More](https://medium.com/p/0992152a5afe) |
+| Sat, 04 Oct 2025 18:54:58 GMT | HTML Injection & Content Spoofing: How Attackers Trick Users (and how to find & fix it) | Omniaelagroudy | [Read More](https://medium.com/p/cea458c951dd) |
+| Sat, 04 Oct 2025 18:51:26 GMT | From Recon to Root: My Journey Cracking the CloudSEK CTF 2025 Challenges | Janpreet Singh | [Read More](https://medium.com/p/f4ad499179c9) |
+| Sat, 04 Oct 2025 18:49:36 GMT | The Last Garden | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/89292e0b4d93) |
+| Sat, 04 Oct 2025 18:42:58 GMT | GZR Observer — India Geo Perspective — Week of Oct 4, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f66722dc61e4) |
+| Sat, 04 Oct 2025 18:41:54 GMT | Imagery HTB WriteUp: Season 9 Machine 2 | Abhishek Gupta | [Read More](https://medium.com/p/6e09f640a993) |
+| Sat, 04 Oct 2025 18:32:19 GMT | GZR — India Geo Perspective — Week of Oct 4, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d04fd7e1fa5a) |
 | Sat, 04 Oct 2025 18:30:42 GMT | Day 29: Load Balancer in AWS | Prutha_Dongre | [Read More](https://medium.com/p/58314aba11dd) |
 | Sat, 04 Oct 2025 18:28:42 GMT | Exploiting WebView for XSS & LFI: A $500+ Bug Bounty Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/98e047454c54) |
 | Sat, 04 Oct 2025 18:28:11 GMT | TryHackMe — Skynet | Victorhg | [Read More](https://medium.com/p/ea813659e845) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 13:15:06 GMT | The AI Tsunami: Reshaping Enterprise Software, Data & Analytics and India's IT Landscape | Prashant Pawar | [Read More](https://medium.com/p/4602fe7e626b) |
 | Sat, 04 Oct 2025 13:14:14 GMT | Why You’ll Click That Fake Link Even When You Know It’s Fake | Naman Barola | [Read More](https://medium.com/p/778e94e7d575) |
 | Sat, 04 Oct 2025 13:12:49 GMT | Bloom Boost: Drosera’s Fast Lane for DeFi Defense | bsquarebankz | [Read More](https://medium.com/p/2e059d159ee4) |
-| Sat, 04 Oct 2025 13:12:18 GMT | Praktikum Internet of Things (Tugas): Integrasi Komponen Dasar melalui Proyek Sederhana | Muhammad Surya Saputro | [Read More](https://medium.com/p/4c20f24f2ed0) |
-| Sat, 04 Oct 2025 13:10:50 GMT | Top 5 Cyber Threats Everyone Should Be Aware of in 2025 | Shansuma D | [Read More](https://medium.com/p/7b09343ee775) |
-| Sat, 04 Oct 2025 13:10:26 GMT | 5 Mind-Blowing Tech Trends You Can’t Ignore in 2025 | SeoExpert - Tacnical Adviser | [Read More](https://medium.com/p/b17b91016105) |
-| Sat, 04 Oct 2025 13:09:57 GMT | CSP Mastery: Nonce Rotation, Trusted Types, and Real-World Pitfalls (Series A-2) | Trevor Woollacott | [Read More](https://medium.com/p/f8a85c17396b) |
-| Sat, 04 Oct 2025 13:08:29 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/7d15ea64f675) |
-| Sat, 04 Oct 2025 13:06:03 GMT | Praktikum Internet of Things: Integrasi Komponen Dasar melalui Proyek Sederhana | Muhammad Surya Saputro | [Read More](https://medium.com/p/ae96c71fce4f) |
-| Sat, 04 Oct 2025 13:01:40 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/7e2fa9d24fd7) |
-| Sat, 04 Oct 2025 13:00:23 GMT | The Hidden Power of OSINT: How Hackers and Defenders Use Public Data | Shahzaib | [Read More](https://medium.com/p/9e340f9a4305) |
-| Sat, 04 Oct 2025 13:00:19 GMT | Cloud Security Configuration Review: The Hidden Shield of Cloud Resilience | Ashwini Puranik | [Read More](https://medium.com/p/934c8f99fff1) |
