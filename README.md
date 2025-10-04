@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 03:13:28 GMT | When National Digital Infrastructure Collapses — Lessons from South Korea’s Data Center Fire | David SEHYEON Baek | [Read More](https://medium.com/p/6133d0eacf47) |
+| Sat, 04 Oct 2025 03:13:01 GMT | The FastAPI Secret That Makes Your APIs 50x Faster Than Django | Rizqi Mulki | [Read More](https://medium.com/p/c08c11e71787) |
+| Sat, 04 Oct 2025 03:11:55 GMT | Cloud Storage Wars: Best Services for Secure File Management | Jason Han | [Read More](https://medium.com/p/b37f30bc0091) |
+| Sat, 04 Oct 2025 03:11:47 GMT | Where to Get Rear Api End Points for pentesting testing | Imran Niaz | [Read More](https://medium.com/p/f124188db6d7) |
+| Sat, 04 Oct 2025 03:01:56 GMT | The End of Economic Certainty | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/ec000cd6f44d) |
+| Sat, 04 Oct 2025 03:01:53 GMT | Drones, Spies, and Explosive Packages: Russia’s Shadow War on Germany | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/30dc5283e1bc) |
+| Sat, 04 Oct 2025 02:57:05 GMT | Security Assessment: Vulnhub Thales Walkthrough | Luke Gearty | [Read More](https://medium.com/p/0d2c44cbb792) |
+| Sat, 04 Oct 2025 02:44:43 GMT | Ransomware Attacks Targeting Japanese Companies Will Increase, Not Decrease — Here Is Why | David SEHYEON Baek | [Read More](https://medium.com/p/b5c6a772496c) |
+| Sat, 04 Oct 2025 02:31:52 GMT | The Seventh Angel: The “Bad Apples” in the Group — Internal Collapse in Large-Scale AI Systems | Scott Huang | [Read More](https://medium.com/p/a756f34f677a) |
 | Sat, 04 Oct 2025 02:19:01 GMT | Linux Rootkits: A Comprehensive Security Guide | ThamizhElango Natarajan | [Read More](https://medium.com/p/c78db2dcb9f4) |
 | Sat, 04 Oct 2025 02:16:57 GMT | The $50 Million Bug Hidden in Every HTML Form | Rizqi Mulki | [Read More](https://medium.com/p/7c366550b661) |
 | Sat, 04 Oct 2025 02:11:51 GMT | Robotics in Everyday Life: Helpers That Make Chores Obsolete | Jason Han | [Read More](https://medium.com/p/091fb604928f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 18:06:11 GMT | What is AI Red Teaming? | Manyi | [Read More](https://medium.com/p/012baebbdd5f) |
 | Fri, 03 Oct 2025 18:05:17 GMT | The Metaverse Myth: Is It Living Up to the Hype? | Jason Han | [Read More](https://medium.com/p/1104f3b2dd63) |
 | Fri, 03 Oct 2025 18:01:54 GMT | Today’s featured CRS article, “Armed Forces Compensation During a Lapse in Appropriations”… | Congressional Communities | [Read More](https://medium.com/p/419083fdee09) |
-| Fri, 03 Oct 2025 17:53:31 GMT | The Physical Layer Explained: How the Internet’s Foundation Really Works | ajay devaliya | [Read More](https://medium.com/p/8e59947de7f1) |
-| Fri, 03 Oct 2025 17:52:14 GMT | Desvendando a sopa de letrinhas de IAM: IGA, AM, PAM e CIAM | Sara Batista | [Read More](https://medium.com/p/214f6a07666b) |
-| Fri, 03 Oct 2025 17:45:07 GMT | Why Starting a Blue Team Career Feels Harder — and How to Do It Without Breaking the Bank | Sri | [Read More](https://medium.com/p/e45a1ea07a34) |
-| Fri, 03 Oct 2025 17:45:04 GMT | Portswigger mystery lab write up -Business logic vulnerabilities: Authentication bypass via flawed… | Hubert | [Read More](https://medium.com/p/7791aac697ef) |
-| Fri, 03 Oct 2025 17:43:23 GMT | Artificial Intelligence: Your Personal Assistant for Work, Learning, and Life | Cycling Medium | [Read More](https://medium.com/p/07efdc91e9d2) |
-| Fri, 03 Oct 2025 17:39:15 GMT | CVE-2019–14287 — Bypassing sudo’s “no root” restriction (TryHackMe walkthrough) | Asif.k | [Read More](https://medium.com/p/1d30362c9d6e) |
-| Fri, 03 Oct 2025 17:38:10 GMT | Cybersecurity Concerns as Blockchain Lands in Global Finance | Matthew.Rosenquist | [Read More](https://medium.com/p/6d17be41e56f) |
-| Fri, 03 Oct 2025 17:32:59 GMT | How Ethical Hacking Is Redesigning the Corporate Security of the Future | Smith Adams | [Read More](https://medium.com/p/e12662c84c6d) |
-| Fri, 03 Oct 2025 17:32:08 GMT | Automating Vulnerability Lifecycle Management: AI-Driven Detection, Prioritization, and Remediation | Sai Krishna Kakarla | [Read More](https://medium.com/p/b14ecc10eff3) |
