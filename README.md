@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 11:36:23 GMT | Secure Token Handling in Web Apps | Houssem Mitiche | [Read More](https://medium.com/p/de512ee56297) |
+| Sat, 04 Oct 2025 11:11:04 GMT | Drosera Network | Kayleb Owojo | [Read More](https://medium.com/p/00139bb7f726) |
 | Sat, 04 Oct 2025 11:09:08 GMT | CORS Vulnerability with Trusted Null Origin | Aditya Bhatt | [Read More](https://medium.com/p/1686bb493dc5) |
 | Sat, 04 Oct 2025 11:07:49 GMT | What is statistics, and why can it be useful for cybersecurity? | Shefik Memedi | [Read More](https://medium.com/p/8d242e6a2e8e) |
 | Sat, 04 Oct 2025 11:07:27 GMT | Advance Job Internship Program with 100% Job Guarantee — Evision Technoserve | Evision Technoserve | [Read More](https://medium.com/p/f8f2f6b8e0b5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 04:29:45 GMT | Is AI Reading This With You? The Unseen Tech Reshaping Your Day | Medium Quill | [Read More](https://medium.com/p/8704e51059af) |
 | Sat, 04 Oct 2025 04:23:20 GMT | Opacity - TryHackMe Walkthrough | Robert Gooding | [Read More](https://medium.com/p/57edf36138d2) |
 | Sat, 04 Oct 2025 04:11:52 GMT | Tech Trends 2025: Predictions That Will Shape the Next Decade | Jason Han | [Read More](https://medium.com/p/6e3526bd2579) |
-| Sat, 04 Oct 2025 04:08:37 GMT | I Bet Against Go | Soumya | [Read More](https://medium.com/p/1eeb89765cb9) |
-| Sat, 04 Oct 2025 04:07:10 GMT | Wazuh for DevSecOps: A Comprehensive Guide | Ismael Barrantes | [Read More](https://medium.com/p/5ec134afa3ac) |
