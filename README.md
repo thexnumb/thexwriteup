@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 07:21:09 GMT | Digital Clutter: Why Our Online Lives Need Spring Cleaning | Maham Tanveer | [Read More](https://medium.com/p/f7164bfb29a5) |
+| Sat, 04 Oct 2025 07:17:57 GMT | Data Safety Awareness Series – Post 1 | Juned Silavat | [Read More](https://medium.com/p/262f7c027598) |
 | Sat, 04 Oct 2025 07:09:51 GMT | XDR: Operation Global Dagger 2 | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/65ba900bc51f) |
 | Sat, 04 Oct 2025 06:50:44 GMT | Discover Network Devices on Kali Linux | Forid Ahammad Asik | [Read More](https://medium.com/p/f87851b123cf) |
 | Sat, 04 Oct 2025 06:46:14 GMT | You Need to Learn MCP (Model Context Protocol) | Shahzaib | [Read More](https://medium.com/p/c55f15b23bf2) |
@@ -19,6 +21,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 06:39:53 GMT | Sudo Without Su: CVE-2025–32463 PoC | Toshith | [Read More](https://medium.com/p/fe8e2ce116d9) |
 | Sat, 04 Oct 2025 06:36:01 GMT | Navigating the Minefield: Communicating Hurt Without Pushing Your Partner Away | Chiamaka Umeh | [Read More](https://medium.com/p/faee30bda1d8) |
 | Sat, 04 Oct 2025 06:35:40 GMT | Advanced Turnstile Speed Gates for Corporate Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/aed2619bafe9) |
+| Sat, 04 Oct 2025 06:31:50 GMT | SubHub: Engineering Precision into Every Web3 Campaign | EHMPE RHOR | [Read More](https://medium.com/p/a1da49645de2) |
 | Sat, 04 Oct 2025 06:25:51 GMT | When I chat with anyone or do anything on Dark Web .onion, any government agency can track me | LogicTech | [Read More](https://medium.com/p/a54995f20d72) |
 | Sat, 04 Oct 2025 06:25:00 GMT | Hacking My WiFI with a Flipper Zero + Hashcat (live demo) | Jackson Mittag | [Read More](https://medium.com/p/14c13ad7ef27) |
 | Sat, 04 Oct 2025 06:22:48 GMT | When AI Tricks Us: Spotting Fake Voices and Videos Before They Fool You. | Colin Miller | [Read More](https://medium.com/p/d4be8cb9c226) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 21:06:56 GMT | Behind the Screen: Surviving Cyberstalking | Uncoverwithdale | [Read More](https://medium.com/p/df7d50469755) |
 | Fri, 03 Oct 2025 21:06:26 GMT | Sustainable Tech: Gadgets Designed to Save the Planet | Jason Han | [Read More](https://medium.com/p/734098aa8643) |
 | Fri, 03 Oct 2025 21:04:52 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/d2cbdf232c22) |
-| Fri, 03 Oct 2025 20:57:57 GMT | Network Discovery Detection Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/455919710e37) |
-| Fri, 03 Oct 2025 20:37:29 GMT | Bounty Hacker writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/eb5dfcd07e56) |
-| Fri, 03 Oct 2025 20:37:27 GMT | PG Practice — Monster (Windows) | Lepton | [Read More](https://medium.com/p/595322c7787b) |
