@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 09:09:02 GMT | Exploiting Misconfigured S3 Bucket Access in Serverless Applications | Sena Yakut | [Read More](https://medium.com/p/87f6bee65fb3) |
+| Sat, 04 Oct 2025 09:09:00 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/7c71a1bcde67) |
+| Sat, 04 Oct 2025 09:03:31 GMT | 10 SQL Injection Prevention for SQL Script Hacking Patterns in 2025 | Rohan Dutt | [Read More](https://medium.com/p/89164f2e8165) |
+| Sat, 04 Oct 2025 09:02:49 GMT | The “Flan” attack: AI Vulns in HR | Olya Kravets | [Read More](https://medium.com/p/de40e095d07d) |
+| Sat, 04 Oct 2025 09:01:38 GMT | Inside the Hacker’s Mind | Cyber Security Research | [Read More](https://medium.com/p/51a28061a572) |
+| Sat, 04 Oct 2025 08:56:56 GMT | The Mirage of Automation: When Your Tools Start Thinking For You | Đeepanshu | [Read More](https://medium.com/p/c02465b8f4d2) |
+| Sat, 04 Oct 2025 08:46:57 GMT | From Silos to Strategy: Reimagining IT Operations Management for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/41b8cfb90574) |
+| Sat, 04 Oct 2025 08:43:52 GMT | Bridging Theory to Practice: Trustworthy human-AI Teaming and the New Frontier of Military… | Berend Watchus | [Read More](https://medium.com/p/e5e46ec322d3) |
 | Sat, 04 Oct 2025 08:40:55 GMT | Hack the Box — Outdated — WriteUp | Emre A. | [Read More](https://medium.com/p/587041e7e6e3) |
 | Sat, 04 Oct 2025 08:38:50 GMT | RCSC Resurrection CTF 2025 — Official Misc Writeups | Shoaib Bin Rashid | [Read More](https://medium.com/p/f65179e180e1) |
 | Sat, 04 Oct 2025 08:34:18 GMT | How Blind XSS Payloads Earned Me $10,000+ in Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/70789f3940f9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 00:02:12 GMT | Cybersecurity Foundations Series: Part 4 — Risk Management and Analysis | TechStoryLines | [Read More](https://medium.com/p/ad6602c10eac) |
 | Fri, 03 Oct 2025 23:42:21 GMT | How I Discovered an Information Disclosure Vulnerability in Jira Instance (CVE-2020–14179) | Ashutosh Anand | [Read More](https://medium.com/p/644b14386e38) |
 | Fri, 03 Oct 2025 23:37:36 GMT | Cybersecurity Risks in the Era of Wearable AI Surge | Emily McRose Nafisa | [Read More](https://medium.com/p/2473489c0eda) |
-| Fri, 03 Oct 2025 23:35:16 GMT | Redacting Sensitive Information Before Passing to LLMs | Bilal Tahseen | [Read More](https://medium.com/p/877b9a08162c) |
-| Fri, 03 Oct 2025 23:29:33 GMT | Encryption’s Enigma | Cyber Security Research | [Read More](https://medium.com/p/33053f43fb60) |
-| Fri, 03 Oct 2025 23:26:14 GMT | Beyond the Basics: 20 Master-Level OSINT Principles for Digital Investigators | Rajput Haxor Aka Rudra Pratap Singh | [Read More](https://medium.com/p/ec3ad8273408) |
-| Fri, 03 Oct 2025 23:23:14 GMT | Zero Trust, Zero Compromise | Cyber Security Research | [Read More](https://medium.com/p/419c5e670708) |
-| Fri, 03 Oct 2025 23:12:34 GMT | Secure Coding Practices for Modern Developers: A Senior Java 8 Perspective | Mustapha Aitigunaoun | [Read More](https://medium.com/p/4ba947e44276) |
-| Fri, 03 Oct 2025 23:07:53 GMT | Tech for Seniors: User-Friendly Innovations for Aging Gracefully | Jason Han | [Read More](https://medium.com/p/fefd8d83b554) |
-| Fri, 03 Oct 2025 23:01:44 GMT | The Asahi Ransomware Attack That Crippled Japan’s Drinking Culture | David SEHYEON Baek | [Read More](https://medium.com/p/4bde0b57b044) |
-| Fri, 03 Oct 2025 22:55:29 GMT | Cyberdefenders: MalDOC101 lab walkthrough | Davenyamongo | [Read More](https://medium.com/p/40c5eb9a8d50) |
