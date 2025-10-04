@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 17:36:44 GMT | Digital Tracing vs Traditional Tracing — A Story from the Ground | Kiran Sawant | [Read More](https://medium.com/p/d35e933127fc) |
+| Sat, 04 Oct 2025 17:33:52 GMT | AI can be hallucinating while responding, and you need to be aware of that. | Iqra Mushtaq | [Read More](https://medium.com/p/97ece92a9277) |
+| Sat, 04 Oct 2025 17:20:33 GMT | How I weaponised a registration flow bug and OTP bypass technique to hijack accounts. | Amit Dutta | [Read More](https://medium.com/p/23758688e38d) |
+| Sat, 04 Oct 2025 17:18:40 GMT | Investigating Windows — TryHackMe Walkthrough | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/8bdde007d90b) |
+| Sat, 04 Oct 2025 17:16:55 GMT | Double Phishing Threat: Ukraine Impersonators and Copyright Scams | Aj | [Read More](https://medium.com/p/d8842450c13d) |
+| Sat, 04 Oct 2025 17:15:53 GMT | The Art of iPerf3: Master Troubleshooting | Steve Matindi | [Read More](https://medium.com/p/0739dd16644f) |
 | Sat, 04 Oct 2025 17:09:57 GMT | Implementing Zero Trust Security: A Strategic Imperative for Small Businesses | Paul Talbot | [Read More](https://medium.com/p/ae0133426b48) |
 | Sat, 04 Oct 2025 17:05:46 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/da594dd9ceb4) |
 | Sat, 04 Oct 2025 17:01:22 GMT | Stop Trusting Your JWT Tokens — Start Testing Them | Arif Rahman | [Read More](https://medium.com/p/4050a3bca54c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 12:16:30 GMT | Beyond Passwords: Authentication Revolution | Cyber Security Research | [Read More](https://medium.com/p/a5edd16f3726) |
 | Sat, 04 Oct 2025 12:13:34 GMT | HTTP Methods: What They Do and Why They Matter for Security | Devaduth Saji | [Read More](https://medium.com/p/09835a7a2306) |
 | Sat, 04 Oct 2025 12:11:52 GMT | HTTP Status Codes: The Little Messages Your Browser and Server Send | Devaduth Saji | [Read More](https://medium.com/p/50c74faec08f) |
-| Sat, 04 Oct 2025 12:11:43 GMT | CEH Sertifikasına Hazırlanırken Edindiklerim-2: Footprinting ve Reconnaissance | Ali Umut Soran | [Read More](https://medium.com/p/0ef48625c85c) |
-| Sat, 04 Oct 2025 12:11:03 GMT | Importance of Strong Passwords in Data Security | Dkvilas | [Read More](https://medium.com/p/cde1b0e4fab5) |
-| Sat, 04 Oct 2025 12:10:53 GMT | DockerLabs Writeup — Forgotten_Portal (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e5735157f019) |
-| Sat, 04 Oct 2025 12:10:19 GMT | Patching the Cracks in the System | Cyber Security Research | [Read More](https://medium.com/p/4c6b67fb8745) |
-| Sat, 04 Oct 2025 12:10:00 GMT | Huntress CTF 2025 — Day 1 - My Complete Walkthrough & Lessons | AhiLight | [Read More](https://medium.com/p/05950d39b98d) |
-| Sat, 04 Oct 2025 12:04:27 GMT | [HackTheBox Sherlocks Write-up] Unsupervised (Investigate insider threat that exfiltrate files… | Chicken0248 | [Read More](https://medium.com/p/3d2153267da9) |
