@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 14:24:30 GMT | Beyond the Title: Why I Started CISO Chair™ | CISO Chair™ | [Read More](https://medium.com/p/335790d4f8ab) |
+| Sat, 04 Oct 2025 14:17:52 GMT | What Makes Someone Sexually Magnetic? | Xiaochen | [Read More](https://medium.com/p/60b2ed92a9f0) |
+| Sat, 04 Oct 2025 14:17:21 GMT | Weekly Roundup — October 4th 2025 | litwtch | [Read More](https://medium.com/p/b33c59c366de) |
+| Sat, 04 Oct 2025 14:15:19 GMT | My last Writeup (0day in Zsh (RCE)) | livepwn | [Read More](https://medium.com/p/ce3dcbca0105) |
 | Sat, 04 Oct 2025 14:11:31 GMT | CISSP Domain 1.1: Understand, Adhere to, and Promote Professional Ethics | Yasin Kalli | [Read More](https://medium.com/p/fa06cbbaaf88) |
 | Sat, 04 Oct 2025 14:07:49 GMT | New Invisible Attack Creates Parallel Poisoned Web Only for AI Agents | Shaked Zychlinski ️ | [Read More](https://medium.com/p/22319304ba73) |
 | Sat, 04 Oct 2025 14:02:14 GMT | ABTU’s Roadmap: Building the Foundation for Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/e9f5e4999894) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 09:15:57 GMT | Zero Trust, Zero Compromise | Cyber Security Research | [Read More](https://medium.com/p/ac37a76491f5) |
 | Sat, 04 Oct 2025 09:09:02 GMT | Exploiting Misconfigured S3 Bucket Access in Serverless Applications | Sena Yakut | [Read More](https://medium.com/p/87f6bee65fb3) |
 | Sat, 04 Oct 2025 09:09:00 GMT | Decoding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/7c71a1bcde67) |
-| Sat, 04 Oct 2025 09:03:31 GMT | 10 SQL Injection Prevention for SQL Script Hacking Patterns in 2025 | Rohan Dutt | [Read More](https://medium.com/p/89164f2e8165) |
-| Sat, 04 Oct 2025 09:02:49 GMT | The “Flan” attack: AI Vulns in HR | Olya Kravets | [Read More](https://medium.com/p/de40e095d07d) |
-| Sat, 04 Oct 2025 09:01:38 GMT | Inside the Hacker’s Mind | Cyber Security Research | [Read More](https://medium.com/p/51a28061a572) |
-| Sat, 04 Oct 2025 08:56:56 GMT | The Mirage of Automation: When Your Tools Start Thinking For You | Đeepanshu | [Read More](https://medium.com/p/c02465b8f4d2) |
