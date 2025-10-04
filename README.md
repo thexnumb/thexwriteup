@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 11:09:08 GMT | CORS Vulnerability with Trusted Null Origin | Aditya Bhatt | [Read More](https://medium.com/p/1686bb493dc5) |
+| Sat, 04 Oct 2025 11:07:49 GMT | What is statistics, and why can it be useful for cybersecurity? | Shefik Memedi | [Read More](https://medium.com/p/8d242e6a2e8e) |
+| Sat, 04 Oct 2025 11:07:27 GMT | Advance Job Internship Program with 100% Job Guarantee — Evision Technoserve | Evision Technoserve | [Read More](https://medium.com/p/f8f2f6b8e0b5) |
+| Sat, 04 Oct 2025 11:07:15 GMT | Deconstructing CVE-2025–10585: Deep Dive into Chrome’s Latest V8 Zero-Day! | Mohammed Tanveer | [Read More](https://medium.com/p/15ab1e640e1a) |
+| Sat, 04 Oct 2025 11:06:52 GMT | DevOps di Tahun 2025: Bukan Sekadar Tools, Tapi Mesin Pendorong Bisnis Digital | Rayhan Agnan | [Read More](https://medium.com/p/1799972582bb) |
+| Sat, 04 Oct 2025 11:02:47 GMT | From AI to Quantum: Why, How, and What Every CXO Must Know to Lead the Next Tech Revolution | Bibhu Ashish Panda | [Read More](https://medium.com/p/a8b0e1956bd1) |
+| Sat, 04 Oct 2025 11:01:25 GMT | Active Directory Security Event Monitoring: Enterprise Domain Protection and Threat Detection | Okan Yıldız | [Read More](https://medium.com/p/db429d50f1a4) |
+| Sat, 04 Oct 2025 10:48:38 GMT | The Price of Neglect. The Big Questions Behind Jaguar Land Rover’s Government £1.5 B Cyber Bailout. | Aleksander Gorkowienko | [Read More](https://medium.com/p/e11ffd5831e2) |
+| Sat, 04 Oct 2025 10:47:55 GMT | The Buffalo AI Voice Scam: Your Wake-Up Call to the Deepfake Era | Mudassir Khan | [Read More](https://medium.com/p/cf4204ed07b4) |
+| Sat, 04 Oct 2025 10:47:51 GMT | The Psychology of a Triager: Inside the Mind of Bug Reviewers | Fateyaly | [Read More](https://medium.com/p/5abce597452f) |
+| Sat, 04 Oct 2025 10:42:34 GMT | Hacker, Hoax, or Propaganda? The Story Behind the 1.7M Ukrainian Casualties Claim | The Forensic Archive | [Read More](https://medium.com/p/f59e2221853a) |
+| Sat, 04 Oct 2025 10:35:31 GMT | Observability is key for detecting threats. | Eren Cankut Uysal | [Read More](https://medium.com/p/5d299fdf1875) |
+| Sat, 04 Oct 2025 10:32:52 GMT | The Password Rule That Saved Me From a Major Data Breach | Arfa | [Read More](https://medium.com/p/caa92fba3d00) |
+| Sat, 04 Oct 2025 10:32:29 GMT | Wheels Proving Grounds Practice Walkthrough | Maxwell Ferreira | [Read More](https://medium.com/p/a599cbaf45d6) |
 | Sat, 04 Oct 2025 10:26:17 GMT | Exploring Seccomp Filters with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/93466f0a043f) |
 | Sat, 04 Oct 2025 10:23:04 GMT | Top 10 High-Demand Skills You Must Learn in 2025 | Farhan Akhter | [Read More](https://medium.com/p/67830a0ef939) |
 | Sat, 04 Oct 2025 10:22:09 GMT | CSI: Linux — A Deep Dive into the Logs Investigations Room | Furkanctiner | [Read More](https://medium.com/p/5cdfc50de540) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 04:11:52 GMT | Tech Trends 2025: Predictions That Will Shape the Next Decade | Jason Han | [Read More](https://medium.com/p/6e3526bd2579) |
 | Sat, 04 Oct 2025 04:08:37 GMT | I Bet Against Go | Soumya | [Read More](https://medium.com/p/1eeb89765cb9) |
 | Sat, 04 Oct 2025 04:07:10 GMT | Wazuh for DevSecOps: A Comprehensive Guide | Ismael Barrantes | [Read More](https://medium.com/p/5ec134afa3ac) |
-| Sat, 04 Oct 2025 03:56:05 GMT | ಸೈಬರ್ ವಂಚನೆಗಳಿಂದ ರೈತರ ಸುರಕ್ಷತೆ: | Shivaraj | [Read More](https://medium.com/p/47d96da1dcc7) |
-| Sat, 04 Oct 2025 03:52:31 GMT | The Core Advantage: Why Tektronix’ Unified Platform is Essential for UAE & GCC Data Centers | Tekmuzammil | [Read More](https://medium.com/p/6d32b0c2af6d) |
-| Sat, 04 Oct 2025 03:13:28 GMT | When National Digital Infrastructure Collapses — Lessons from South Korea’s Data Center Fire | David SEHYEON Baek | [Read More](https://medium.com/p/6133d0eacf47) |
-| Sat, 04 Oct 2025 03:13:01 GMT | The FastAPI Secret That Makes Your APIs 50x Faster Than Django | Rizqi Mulki | [Read More](https://medium.com/p/c08c11e71787) |
-| Sat, 04 Oct 2025 03:11:55 GMT | Cloud Storage Wars: Best Services for Secure File Management | Jason Han | [Read More](https://medium.com/p/b37f30bc0091) |
-| Sat, 04 Oct 2025 03:11:47 GMT | Where to Get Rear Api End Points for pentesting testing | Imran Niaz | [Read More](https://medium.com/p/f124188db6d7) |
-| Sat, 04 Oct 2025 03:01:56 GMT | The End of Economic Certainty | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/ec000cd6f44d) |
-| Sat, 04 Oct 2025 03:01:53 GMT | Drones, Spies, and Explosive Packages: Russia’s Shadow War on Germany | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/30dc5283e1bc) |
-| Sat, 04 Oct 2025 02:57:05 GMT | Security Assessment: Vulnhub Thales Walkthrough | Luke Gearty | [Read More](https://medium.com/p/0d2c44cbb792) |
-| Sat, 04 Oct 2025 02:44:43 GMT | Ransomware Attacks Targeting Japanese Companies Will Increase, Not Decrease — Here Is Why | David SEHYEON Baek | [Read More](https://medium.com/p/b5c6a772496c) |
-| Sat, 04 Oct 2025 02:31:52 GMT | The Seventh Angel: The “Bad Apples” in the Group — Internal Collapse in Large-Scale AI Systems | Scott Huang | [Read More](https://medium.com/p/a756f34f677a) |
-| Sat, 04 Oct 2025 02:19:01 GMT | Linux Rootkits: A Comprehensive Security Guide | ThamizhElango Natarajan | [Read More](https://medium.com/p/c78db2dcb9f4) |
-| Sat, 04 Oct 2025 02:16:57 GMT | The $50 Million Bug Hidden in Every HTML Form | Rizqi Mulki | [Read More](https://medium.com/p/7c366550b661) |
-| Sat, 04 Oct 2025 02:11:51 GMT | Robotics in Everyday Life: Helpers That Make Chores Obsolete | Jason Han | [Read More](https://medium.com/p/091fb604928f) |
