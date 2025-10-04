@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 06:25:00 GMT | Hacking My WiFI with a Flipper Zero + Hashcat (live demo) | Jackson Mittag | [Read More](https://medium.com/p/14c13ad7ef27) |
+| Sat, 04 Oct 2025 06:22:48 GMT | When AI Tricks Us: Spotting Fake Voices and Videos Before They Fool You. | Colin Miller | [Read More](https://medium.com/p/d4be8cb9c226) |
+| Sat, 04 Oct 2025 06:08:57 GMT | Cloud Wars: Picking Your Battles (and Wins) in a Multi-Cloud World | Emma Johnson | [Read More](https://medium.com/p/329faa6433b1) |
+| Sat, 04 Oct 2025 05:58:34 GMT | Phishing and Social Engineering: Global Threats and Prevention Measures | Cyberintruder Net | [Read More](https://medium.com/p/4d5a440cbf36) |
+| Sat, 04 Oct 2025 05:57:51 GMT | I Tried Everything — These 5 Skills Actually Got Me Hired in IT in 2025- Real Examples | Shaikh Minhaz | [Read More](https://medium.com/p/5f17fdcb21af) |
+| Sat, 04 Oct 2025 05:56:17 GMT | Smart Cybersecurity Consulting Firms + How to Boost Yours | Dogmasys | [Read More](https://medium.com/p/351a089dd520) |
+| Sat, 04 Oct 2025 05:52:46 GMT | 8 Life Lessons from The Boy, The Mole, The Horse and The Fox That Will Touch Your Heart | Critic | [Read More](https://medium.com/p/5a37eb765007) |
+| Sat, 04 Oct 2025 05:36:51 GMT | Is Somebody Else Reading Your E-Mails? The Ides of Email! | Bobby Andrews | [Read More](https://medium.com/p/f533a163da95) |
+| Sat, 04 Oct 2025 05:26:02 GMT | Architecture Description Languages (ADLs): The Future of Software Architecture Design | Ravikiran | [Read More](https://medium.com/p/cf6eeecbcc58) |
 | Sat, 04 Oct 2025 05:23:08 GMT | A Step-by-Step Study on Installing and Configuring Snort3 in a Virtualized Ubuntu Environment | Berkay Vagas | [Read More](https://medium.com/p/e6d11a2a8530) |
 | Sat, 04 Oct 2025 05:17:04 GMT | AI vs AI: How ChatGPT and I Became Bug Hunting Buddies to Find What Scanners Missed | Iski | [Read More](https://medium.com/p/806b61707131) |
 | Sat, 04 Oct 2025 05:15:38 GMT | Unlocking a Powerful Skill Set: The Symbiotic Benefits of OT/ICS Cybersecurity and DCS Training | TheEvolvEdge | [Read More](https://medium.com/p/981f1d5752a4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 20:08:52 GMT | OffSec: Apex— Proving Grounds Practice (Writeup) | Emre Özdemir | [Read More](https://medium.com/p/8483e060277b) |
 | Fri, 03 Oct 2025 20:07:51 GMT | Neural Interfaces: Brain-Computer Links on the Horizon | Jason Han | [Read More](https://medium.com/p/9fb68c02bacd) |
 | Fri, 03 Oct 2025 20:06:18 GMT | TryHackMe - Data Exfiltration Detection - WriteUp | Axoloth | [Read More](https://medium.com/p/fbbae884fd83) |
-| Fri, 03 Oct 2025 20:05:49 GMT | The Human Future with AI in 2030 | Bholendra Kumar Singh | [Read More](https://medium.com/p/072be0d6c0a7) |
-| Fri, 03 Oct 2025 19:55:23 GMT | Why Paying for Courses or Internships Isn’t Worth It | Resec | [Read More](https://medium.com/p/5e8559f5e675) |
-| Fri, 03 Oct 2025 19:52:08 GMT | Tech Detox: How to Unplug and Reclaim Your Digital Life | Jason Han | [Read More](https://medium.com/p/ed587914ea3d) |
-| Fri, 03 Oct 2025 19:51:57 GMT | Digital Defense: Overcome Big Tech and AI Threats | O Código Futuro | [Read More](https://medium.com/p/c72fc43c9140) |
-| Fri, 03 Oct 2025 19:50:35 GMT | TryHackMe Walkthrough — Anonymous CTF (Beginner Friendly) | Stella Obatoye | [Read More](https://medium.com/p/c0132d01022f) |
-| Fri, 03 Oct 2025 19:40:27 GMT | Dear 17-Year-Old Me: We’re Going To Be (More Than) Okay. | Char Wong-Richardson | [Read More](https://medium.com/p/6614e67b9530) |
-| Fri, 03 Oct 2025 19:28:42 GMT | SCATTERED SPİDER İNCELEME | kaan turanli | [Read More](https://medium.com/p/3b9eed05e6d2) |
-| Fri, 03 Oct 2025 19:28:05 GMT | Ascension — Hack Smarter Walkthrough | He_Hacks | [Read More](https://medium.com/p/801b0cbee879) |
-| Fri, 03 Oct 2025 19:14:40 GMT | MDR Cybersecurity Solutions: Why Businesses Need Managed Detection and Response | SafeAeon Inc. | [Read More](https://medium.com/p/a3ab09407e0a) |
