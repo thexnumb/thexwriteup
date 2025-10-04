@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 08:40:55 GMT | Hack the Box — Outdated — WriteUp | Emre A. | [Read More](https://medium.com/p/587041e7e6e3) |
+| Sat, 04 Oct 2025 08:38:50 GMT | RCSC Resurrection CTF 2025 — Official Misc Writeups | Shoaib Bin Rashid | [Read More](https://medium.com/p/f65179e180e1) |
+| Sat, 04 Oct 2025 08:34:18 GMT | How Blind XSS Payloads Earned Me $10,000+ in Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/70789f3940f9) |
+| Sat, 04 Oct 2025 08:33:55 GMT | I Failed My First Ethical Hacking Interview — Here’s What I Learned | Muhammad Haider Tallal | [Read More](https://medium.com/p/aea3de6d7318) |
+| Sat, 04 Oct 2025 08:25:25 GMT | Your Google Drive is Not Private: Cloud Security Reality Check | Andrei Ivan | [Read More](https://medium.com/p/4a9f5bb878c4) |
+| Sat, 04 Oct 2025 08:22:55 GMT | What are the OWASP Top 10 Web Application Security Risks? | cyber security Updates | [Read More](https://medium.com/p/fb82ad816dff) |
 | Sat, 04 Oct 2025 08:22:37 GMT | Cybersecurity by design | Ermiyas Tilahun | [Read More](https://medium.com/p/0b47dc954fb6) |
+| Sat, 04 Oct 2025 08:21:56 GMT | Palo Alto Networks Panorama Firewall Management: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0ab1ede84502) |
+| Sat, 04 Oct 2025 08:19:33 GMT | What is Cybersecurity and Why It’s Important and It’s Roadmap | Letslearncoding | [Read More](https://medium.com/p/9fa541665810) |
 | Sat, 04 Oct 2025 08:06:30 GMT | Building Resilient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/349b55635097) |
 | Sat, 04 Oct 2025 08:03:05 GMT | TryHackMe - XDR: Operation Global Dagger 2 - WriteUp | Axoloth | [Read More](https://medium.com/p/22d07261b767) |
 | Sat, 04 Oct 2025 08:02:00 GMT | ⛓️ CI/CD Pipeline Vulnerabilities: Supply Chain Attacks | Esra Kayhan | [Read More](https://medium.com/p/c504403faf71) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 23:07:53 GMT | Tech for Seniors: User-Friendly Innovations for Aging Gracefully | Jason Han | [Read More](https://medium.com/p/fefd8d83b554) |
 | Fri, 03 Oct 2025 23:01:44 GMT | The Asahi Ransomware Attack That Crippled Japan’s Drinking Culture | David SEHYEON Baek | [Read More](https://medium.com/p/4bde0b57b044) |
 | Fri, 03 Oct 2025 22:55:29 GMT | Cyberdefenders: MalDOC101 lab walkthrough | Davenyamongo | [Read More](https://medium.com/p/40c5eb9a8d50) |
-| Fri, 03 Oct 2025 22:50:38 GMT | .NET API Rate Limit Desteği Ekleme | Ömer Asaf Karasu | [Read More](https://medium.com/p/f06ee0ab357b) |
-| Fri, 03 Oct 2025 22:45:15 GMT | Introduction to SIEM | Isiah | [Read More](https://medium.com/p/72126777058f) |
-| Fri, 03 Oct 2025 22:27:23 GMT | The Navirum Podcast: Transforming Client Data Management with AI — Featuring Ali Qureshi from… | Rory Galvin | [Read More](https://medium.com/p/2dc01989204f) |
-| Fri, 03 Oct 2025 22:18:21 GMT | Kontrolsüz Dijitalleşme Yarışı | Said Oguc | [Read More](https://medium.com/p/a8d3defbdd58) |
-| Fri, 03 Oct 2025 22:15:33 GMT | TryHackMe — PS Eclipse : Write-Up | J Linton | [Read More](https://medium.com/p/877b39d8b2a2) |
-| Fri, 03 Oct 2025 22:08:03 GMT | AR Glasses: The Wearable Revolution Changing How We See the World | Jason Han | [Read More](https://medium.com/p/4dc79831feb6) |
-| Fri, 03 Oct 2025 21:50:55 GMT | Can Hackers Still Get In With Your Password? | Samirah A.O | [Read More](https://medium.com/p/bc2bd648d8ec) |
-| Fri, 03 Oct 2025 21:50:18 GMT | From Startup to SOC 2: A Practical Roadmap for First-Time Compliance | Dera E. | [Read More](https://medium.com/p/d06f15dbd76e) |
