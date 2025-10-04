@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 19:57:53 GMT | Lab 3 — UNION SQL Injection: Determine Columns and Extract Database Data | Apexium Technologies Ltd | [Read More](https://medium.com/p/2503c8593ff1) |
+| Sat, 04 Oct 2025 19:53:38 GMT | Millennial Developer Nostalgia | Alessandro Bruschieri | [Read More](https://medium.com/p/79b1f5e510f8) |
+| Sat, 04 Oct 2025 19:50:48 GMT | Building a Secure Password Manager Database with MySQL | AlexN@InfoSec | [Read More](https://medium.com/p/fac0aa5e76ad) |
+| Sat, 04 Oct 2025 19:41:36 GMT | Safe Money to Get some VPS for your Self | Imran Niaz | [Read More](https://medium.com/p/3c8ad580d0e1) |
+| Sat, 04 Oct 2025 19:34:10 GMT | Portswigger mystery lab write up -Server-side template injection (SSTI): Basic server-side… | Hubert | [Read More](https://medium.com/p/36f944775743) |
 | Sat, 04 Oct 2025 19:32:15 GMT | Full Transcript: GDG Cloud Southlake #46: Ozan Unlu: AI at Scale in Observability and Security | Jim Anderson | [Read More](https://medium.com/p/da5fdbbcd05d) |
 | Sat, 04 Oct 2025 19:23:53 GMT | Disconnect to Reclaim: How I Built a Pocket-Sized Anti-Phone and Why You Should Too | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/115fc3f3dc1d) |
 | Sat, 04 Oct 2025 19:19:15 GMT | CyberDefenders: IcedID Malware | Rahaliashraf | [Read More](https://medium.com/p/5f8bd7ad6cb5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 14:00:35 GMT | Cybersecurity in Networking: Protecting Data in the Digital Age | Dr. Minakshmi Shaw | [Read More](https://medium.com/p/d0d71f78e731) |
 | Sat, 04 Oct 2025 13:57:23 GMT | HOW I FOUND THE CVE-2025–0133? | DOD cyber solutions | [Read More](https://medium.com/p/759d3e0f8a92) |
 | Sat, 04 Oct 2025 13:54:17 GMT | The Invisible Thief in Your Xcode Project | Aj | [Read More](https://medium.com/p/3c3333c916dc) |
-| Sat, 04 Oct 2025 13:52:31 GMT | The End of the World Is the Beginning of Another | Udo-Inyang Michael Aniekan | [Read More](https://medium.com/p/65c94b65aa9e) |
-| Sat, 04 Oct 2025 13:50:33 GMT | Networking Core Protocols Explained: The Internet’s Hidden Conversations | Sumit Sah | [Read More](https://medium.com/p/3716333c6204) |
-| Sat, 04 Oct 2025 13:49:48 GMT | Security and Performance Aspects of NUMA Optimization | Eren Cankut Uysal | [Read More](https://medium.com/p/8c4f9f96e9bc) |
-| Sat, 04 Oct 2025 13:41:31 GMT | Security and Performance Aspects of Advanced Bash Scripting | Eren Cankut Uysal | [Read More](https://medium.com/p/de58e0c81436) |
-| Sat, 04 Oct 2025 13:31:52 GMT | Reflected XSS in Parser Endpoint — $366 Bounty Earned | Abhi Sharma | [Read More](https://medium.com/p/28ca95251ab2) |
