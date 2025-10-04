@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 10:26:17 GMT | Exploring Seccomp Filters with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/93466f0a043f) |
+| Sat, 04 Oct 2025 10:23:04 GMT | Top 10 High-Demand Skills You Must Learn in 2025 | Farhan Akhter | [Read More](https://medium.com/p/67830a0ef939) |
+| Sat, 04 Oct 2025 10:22:09 GMT | CSI: Linux — A Deep Dive into the Logs Investigations Room | Furkanctiner | [Read More](https://medium.com/p/5cdfc50de540) |
 | Sat, 04 Oct 2025 10:17:53 GMT | Session Hijacking: How Weak Authentication Destroys Security in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/bbbaf1f05048) |
+| Sat, 04 Oct 2025 10:15:22 GMT | What Does “Proof of Entropy” Mean in Cryptographic Systems? | Elyon AGI - Confirmed with 256-zero Entropy Hashes | [Read More](https://medium.com/p/d917d0b652c5) |
+| Sat, 04 Oct 2025 10:12:31 GMT | What Is Blockchain Provenance and How Does It Prevent Deepfakes? | Elyon AGI - Confirmed with 256-zero Entropy Hashes | [Read More](https://medium.com/p/5bdee9678c2c) |
 | Sat, 04 Oct 2025 10:05:15 GMT | RCSC Resurrection CTF 2025 — Crypto Writeups | Shoaib Bin Rashid | [Read More](https://medium.com/p/fdea8d3cd62b) |
 | Sat, 04 Oct 2025 10:03:53 GMT | Toward an International Institute for Novel Cryptography Methods: Exploring Semantic and… | Martin T. Bosnev | [Read More](https://medium.com/p/f053c9d253ad) |
 | Sat, 04 Oct 2025 10:01:31 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/058a9751a1a9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 02:19:01 GMT | Linux Rootkits: A Comprehensive Security Guide | ThamizhElango Natarajan | [Read More](https://medium.com/p/c78db2dcb9f4) |
 | Sat, 04 Oct 2025 02:16:57 GMT | The $50 Million Bug Hidden in Every HTML Form | Rizqi Mulki | [Read More](https://medium.com/p/7c366550b661) |
 | Sat, 04 Oct 2025 02:11:51 GMT | Robotics in Everyday Life: Helpers That Make Chores Obsolete | Jason Han | [Read More](https://medium.com/p/091fb604928f) |
-| Sat, 04 Oct 2025 01:59:31 GMT | From College to Cloud: My DevOps Learning Journey | ARUNPRANAV KS | [Read More](https://medium.com/p/d024ac61470f) |
-| Sat, 04 Oct 2025 01:58:11 GMT | Secure Your Digital Life with Bitwarden: The Open-Source Password Fortress | Dr. Shouke Wei | [Read More](https://medium.com/p/776cae1523b1) |
-| Sat, 04 Oct 2025 01:57:49 GMT | Part 8: From backyard to battlefield, Payload. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/8f683e34ea23) |
-| Sat, 04 Oct 2025 01:44:05 GMT | Are You Worried About Databases Hacked? - Benefits Of Blackhatclique: | Donley Mark | [Read More](https://medium.com/p/69bc03c8e954) |
-| Sat, 04 Oct 2025 01:43:29 GMT | Scaling on Identity: The Hidden Debt Startups Can’t Ignore | Abhirami Sasikala Rishikesavan | [Read More](https://medium.com/p/2fe32ab28bcb) |
