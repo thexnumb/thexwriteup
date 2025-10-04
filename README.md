@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 17:09:57 GMT | Implementing Zero Trust Security: A Strategic Imperative for Small Businesses | Paul Talbot | [Read More](https://medium.com/p/ae0133426b48) |
+| Sat, 04 Oct 2025 17:05:46 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/da594dd9ceb4) |
+| Sat, 04 Oct 2025 17:01:22 GMT | Stop Trusting Your JWT Tokens — Start Testing Them | Arif Rahman | [Read More](https://medium.com/p/4050a3bca54c) |
+| Sat, 04 Oct 2025 16:59:32 GMT | Data Safety Awareness Series – Post 2 | Juned Silavat | [Read More](https://medium.com/p/64a3e306eff8) |
+| Sat, 04 Oct 2025 16:58:01 GMT | To Bleed on Every Page | Alex Anton | [Read More](https://medium.com/p/09a56d25a639) |
+| Sat, 04 Oct 2025 16:57:15 GMT | Drosera: The Security Reflex Ethereum Has Been Missing | Tambel | [Read More](https://medium.com/p/efba634ab11b) |
+| Sat, 04 Oct 2025 16:50:49 GMT | The Apartment Complex Problem: Why Your Containers Aren’t as Isolated as You Think | Ted Hagos | [Read More](https://medium.com/p/f621b02bb474) |
+| Sat, 04 Oct 2025 16:49:39 GMT | Bouncing Back Stronger: The Resilient Vulnerable Leader | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/620986f00bb5) |
+| Sat, 04 Oct 2025 16:47:28 GMT | Hunting Ephemeral Processes on Linux — Startup (THM Walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/7509ac74b4f3) |
+| Sat, 04 Oct 2025 16:40:21 GMT | FortiGate SSL-VPN (Full Access Tunnel) Yapılandırması | Onur Altuğ | [Read More](https://medium.com/p/49ae46df13b4) |
 | Sat, 04 Oct 2025 16:30:37 GMT | Forgot password link doesn’t expire after used. | Ahmed Mahmoud | [Read More](https://medium.com/p/e55f0c5fe96f) |
 | Sat, 04 Oct 2025 16:27:30 GMT | Bad Guys watching YOU. | Syed Muhammad Mazhar Naqi Rizvi | [Read More](https://medium.com/p/d472004b8e1a) |
 | Sat, 04 Oct 2025 16:23:41 GMT | Vulnerabilities 101 — TryHackMe Room | Asif.k | [Read More](https://medium.com/p/78dbdd5b3a37) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 12:10:19 GMT | Patching the Cracks in the System | Cyber Security Research | [Read More](https://medium.com/p/4c6b67fb8745) |
 | Sat, 04 Oct 2025 12:10:00 GMT | Huntress CTF 2025 — Day 1 - My Complete Walkthrough & Lessons | AhiLight | [Read More](https://medium.com/p/05950d39b98d) |
 | Sat, 04 Oct 2025 12:04:27 GMT | [HackTheBox Sherlocks Write-up] Unsupervised (Investigate insider threat that exfiltrate files… | Chicken0248 | [Read More](https://medium.com/p/3d2153267da9) |
-| Sat, 04 Oct 2025 12:03:49 GMT | Vulnerability Exposed | Cyber Security Research | [Read More](https://medium.com/p/028a15779ef7) |
-| Sat, 04 Oct 2025 11:58:48 GMT | [HackTheBox Sherlocks Write-up] Nuts (Malicious Nuget package leads to Sliver agent deployment) | Chicken0248 | [Read More](https://medium.com/p/5fc438443c24) |
-| Sat, 04 Oct 2025 11:53:31 GMT | How does Meta actually move all this data so fast ?!! | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/70a77d4bd755) |
-| Sat, 04 Oct 2025 11:51:04 GMT | Why Bug Triaging Broke My Brain (and How I Automated My Way Out of It) | Fateyaly | [Read More](https://medium.com/p/288628f570f7) |
-| Sat, 04 Oct 2025 11:48:33 GMT | HackTheBox - Meerkat Sherlock — Walk Through | ocharek | [Read More](https://medium.com/p/e6ecae85e308) |
-| Sat, 04 Oct 2025 11:41:53 GMT | My eJPT Journey — How I Cleared This Underrated Yet Valuable Certification | Muhammad Arsalan Anwar | [Read More](https://medium.com/p/8442959798c1) |
-| Sat, 04 Oct 2025 11:36:23 GMT | Secure Token Handling in Web Apps | Houssem Mitiche | [Read More](https://medium.com/p/de512ee56297) |
-| Sat, 04 Oct 2025 11:11:04 GMT | Drosera Network | Kayleb Owojo | [Read More](https://medium.com/p/00139bb7f726) |
-| Sat, 04 Oct 2025 11:09:08 GMT | CORS Vulnerability with Trusted Null Origin | Aditya Bhatt | [Read More](https://medium.com/p/1686bb493dc5) |
-| Sat, 04 Oct 2025 11:07:49 GMT | What is statistics, and why can it be useful for cybersecurity? | Shefik Memedi | [Read More](https://medium.com/p/8d242e6a2e8e) |
