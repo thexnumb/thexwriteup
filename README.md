@@ -12,11 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 13:31:52 GMT | Reflected XSS in Parser Endpoint — $366 Bounty Earned | Abhi Sharma | [Read More](https://medium.com/p/28ca95251ab2) |
+| Sat, 04 Oct 2025 13:21:50 GMT | Networking 101: Understanding Clients, Servers, Routers, Switches & Firewalls (CCNA Beginner… | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/9bfee1179efe) |
 | Sat, 04 Oct 2025 13:15:06 GMT | The AI Tsunami: Reshaping Enterprise Software, Data & Analytics and India's IT Landscape | Prashant Pawar | [Read More](https://medium.com/p/4602fe7e626b) |
+| Sat, 04 Oct 2025 13:14:14 GMT | Why You’ll Click That Fake Link Even When You Know It’s Fake | Naman Barola | [Read More](https://medium.com/p/778e94e7d575) |
+| Sat, 04 Oct 2025 13:12:49 GMT | Bloom Boost: Drosera’s Fast Lane for DeFi Defense | bsquarebankz | [Read More](https://medium.com/p/2e059d159ee4) |
 | Sat, 04 Oct 2025 13:12:18 GMT | Praktikum Internet of Things (Tugas): Integrasi Komponen Dasar melalui Proyek Sederhana | Muhammad Surya Saputro | [Read More](https://medium.com/p/4c20f24f2ed0) |
 | Sat, 04 Oct 2025 13:10:50 GMT | Top 5 Cyber Threats Everyone Should Be Aware of in 2025 | Shansuma D | [Read More](https://medium.com/p/7b09343ee775) |
 | Sat, 04 Oct 2025 13:10:26 GMT | 5 Mind-Blowing Tech Trends You Can’t Ignore in 2025 | SeoExpert - Tacnical Adviser | [Read More](https://medium.com/p/b17b91016105) |
 | Sat, 04 Oct 2025 13:09:57 GMT | CSP Mastery: Nonce Rotation, Trusted Types, and Real-World Pitfalls (Series A-2) | Trevor Woollacott | [Read More](https://medium.com/p/f8a85c17396b) |
+| Sat, 04 Oct 2025 13:08:29 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/7d15ea64f675) |
 | Sat, 04 Oct 2025 13:01:40 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/7e2fa9d24fd7) |
 | Sat, 04 Oct 2025 13:00:23 GMT | The Hidden Power of OSINT: How Hackers and Defenders Use Public Data | Shahzaib | [Read More](https://medium.com/p/9e340f9a4305) |
 | Sat, 04 Oct 2025 13:00:19 GMT | Cloud Security Configuration Review: The Hidden Shield of Cloud Resilience | Ashwini Puranik | [Read More](https://medium.com/p/934c8f99fff1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 08:19:33 GMT | What is Cybersecurity and Why It’s Important and It’s Roadmap | Letslearncoding | [Read More](https://medium.com/p/9fa541665810) |
 | Sat, 04 Oct 2025 08:06:30 GMT | Building Resilient Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/349b55635097) |
 | Sat, 04 Oct 2025 08:03:05 GMT | TryHackMe - XDR: Operation Global Dagger 2 - WriteUp | Axoloth | [Read More](https://medium.com/p/22d07261b767) |
-| Sat, 04 Oct 2025 08:02:00 GMT | ⛓️ CI/CD Pipeline Vulnerabilities: Supply Chain Attacks | Esra Kayhan | [Read More](https://medium.com/p/c504403faf71) |
-| Sat, 04 Oct 2025 07:59:54 GMT | How I Found a Payment Bypass Bug Using a Simple Race Condition | Krishna | [Read More](https://medium.com/p/d1e6ec7a9513) |
-| Sat, 04 Oct 2025 07:58:20 GMT | How people’s locations are discovered through online links? | Johnson Joy | [Read More](https://medium.com/p/8a58ed0e80d0) |
-| Sat, 04 Oct 2025 07:57:55 GMT | ☁️ Security Vulnerabilities in Serverless Applications | Esra Kayhan | [Read More](https://medium.com/p/cc9b8defd41e) |
-| Sat, 04 Oct 2025 07:44:33 GMT | Privacy, Safety, and Harm Mitigation in AI: A Practical Framework | Esther Abel | [Read More](https://medium.com/p/e5dd2425310c) |
