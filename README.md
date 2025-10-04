@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 04:11:52 GMT | Tech Trends 2025: Predictions That Will Shape the Next Decade | Jason Han | [Read More](https://medium.com/p/6e3526bd2579) |
+| Sat, 04 Oct 2025 04:08:37 GMT | I Bet Against Go | Soumya | [Read More](https://medium.com/p/1eeb89765cb9) |
+| Sat, 04 Oct 2025 04:07:10 GMT | Wazuh for DevSecOps: A Comprehensive Guide | Ismael Barrantes | [Read More](https://medium.com/p/5ec134afa3ac) |
+| Sat, 04 Oct 2025 03:52:31 GMT | The Core Advantage: Why Tektronix’ Unified Platform is Essential for UAE & GCC Data Centers | Tekmuzammil | [Read More](https://medium.com/p/6d32b0c2af6d) |
 | Sat, 04 Oct 2025 03:13:28 GMT | When National Digital Infrastructure Collapses — Lessons from South Korea’s Data Center Fire | David SEHYEON Baek | [Read More](https://medium.com/p/6133d0eacf47) |
 | Sat, 04 Oct 2025 03:13:01 GMT | The FastAPI Secret That Makes Your APIs 50x Faster Than Django | Rizqi Mulki | [Read More](https://medium.com/p/c08c11e71787) |
 | Sat, 04 Oct 2025 03:11:55 GMT | Cloud Storage Wars: Best Services for Secure File Management | Jason Han | [Read More](https://medium.com/p/b37f30bc0091) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 18:22:10 GMT | Security Tests for FastAPI projects | Cristian | [Read More](https://medium.com/p/3cd10845b557) |
 | Fri, 03 Oct 2025 18:21:16 GMT | AI and the Policy of Most Privilege | Daniel Leeder | [Read More](https://medium.com/p/46506118453f) |
 | Fri, 03 Oct 2025 18:06:49 GMT | From Curiosity to DevSecOps: My Unlikely Journey Through Computers, CG, and Self-Learning | Deneth Vihara | [Read More](https://medium.com/p/3d51e9f17a3c) |
-| Fri, 03 Oct 2025 18:06:12 GMT | The Silent Storm Targeting U.S. Critical Infrastructure: The Volt Typhoon | 0xMan1sh | [Read More](https://medium.com/p/fe2414df1aa0) |
-| Fri, 03 Oct 2025 18:06:11 GMT | What is AI Red Teaming? | Manyi | [Read More](https://medium.com/p/012baebbdd5f) |
-| Fri, 03 Oct 2025 18:05:17 GMT | The Metaverse Myth: Is It Living Up to the Hype? | Jason Han | [Read More](https://medium.com/p/1104f3b2dd63) |
-| Fri, 03 Oct 2025 18:01:54 GMT | Today’s featured CRS article, “Armed Forces Compensation During a Lapse in Appropriations”… | Congressional Communities | [Read More](https://medium.com/p/419083fdee09) |
