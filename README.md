@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 02:19:01 GMT | Linux Rootkits: A Comprehensive Security Guide | ThamizhElango Natarajan | [Read More](https://medium.com/p/c78db2dcb9f4) |
+| Sat, 04 Oct 2025 02:16:57 GMT | The $50 Million Bug Hidden in Every HTML Form | Rizqi Mulki | [Read More](https://medium.com/p/7c366550b661) |
+| Sat, 04 Oct 2025 02:11:51 GMT | Robotics in Everyday Life: Helpers That Make Chores Obsolete | Jason Han | [Read More](https://medium.com/p/091fb604928f) |
+| Sat, 04 Oct 2025 01:59:31 GMT | From College to Cloud: My DevOps Learning Journey | ARUNPRANAV KS | [Read More](https://medium.com/p/d024ac61470f) |
+| Sat, 04 Oct 2025 01:58:11 GMT | Secure Your Digital Life with Bitwarden: The Open-Source Password Fortress | Dr. Shouke Wei | [Read More](https://medium.com/p/776cae1523b1) |
+| Sat, 04 Oct 2025 01:57:49 GMT | Part 8: From backyard to battlefield, Payload. How Does a Simple Drone Become Military-Grade? | Pipeline | [Read More](https://medium.com/p/8f683e34ea23) |
+| Sat, 04 Oct 2025 01:44:05 GMT | Are You Worried About Databases Hacked? - Benefits Of Blackhatclique: | Donley Mark | [Read More](https://medium.com/p/69bc03c8e954) |
+| Sat, 04 Oct 2025 01:43:29 GMT | Scaling on Identity: The Hidden Debt Startups Can’t Ignore | Abhirami Sasikala Rishikesavan | [Read More](https://medium.com/p/2fe32ab28bcb) |
+| Sat, 04 Oct 2025 01:37:59 GMT | TryHackMe #85 - Brim | 0xGroot | [Read More](https://medium.com/p/898208fd5225) |
+| Sat, 04 Oct 2025 01:36:08 GMT | The Security Debt Playbook | Abhirami Sasikala Rishikesavan | [Read More](https://medium.com/p/ea68d88bca89) |
+| Sat, 04 Oct 2025 01:32:52 GMT | The New Wave of Crypto ETF Filings: A Turning Point? | Hex Alan | [Read More](https://medium.com/p/41db75a8bc43) |
+| Sat, 04 Oct 2025 01:31:57 GMT | TryHackMe #84 - Zeek Exercises | 0xGroot | [Read More](https://medium.com/p/fd01c7dc4aff) |
+| Sat, 04 Oct 2025 01:28:09 GMT | TryHackMe #83 - Zeek | 0xGroot | [Read More](https://medium.com/p/4235ee2bf437) |
 | Sat, 04 Oct 2025 01:22:11 GMT | TryHackMe #82 - NetworkMiner | 0xGroot | [Read More](https://medium.com/p/eda4f496d0b5) |
 | Sat, 04 Oct 2025 01:11:55 GMT | 5G vs. Wi-Fi 7: Which Will Dominate Your Network in 2025? | Jason Han | [Read More](https://medium.com/p/d0f6fe0901b2) |
 | Sat, 04 Oct 2025 00:54:43 GMT | How AI Can Make Life Better by Fighting Bots and Fraud | Nerudat | [Read More](https://medium.com/p/b4f69ddbe307) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Oct 2025 17:38:10 GMT | Cybersecurity Concerns as Blockchain Lands in Global Finance | Matthew.Rosenquist | [Read More](https://medium.com/p/6d17be41e56f) |
 | Fri, 03 Oct 2025 17:32:59 GMT | How Ethical Hacking Is Redesigning the Corporate Security of the Future | Smith Adams | [Read More](https://medium.com/p/e12662c84c6d) |
 | Fri, 03 Oct 2025 17:32:08 GMT | Automating Vulnerability Lifecycle Management: AI-Driven Detection, Prioritization, and Remediation | Sai Krishna Kakarla | [Read More](https://medium.com/p/b14ecc10eff3) |
-| Fri, 03 Oct 2025 17:17:45 GMT | Splunking with Zeek Part 1 | Luke | [Read More](https://medium.com/p/214e9f2beb83) |
-| Fri, 03 Oct 2025 17:08:20 GMT | The Easiest Hack-Proof Upgrade for Your Security | Aj | [Read More](https://medium.com/p/31bd76d22fb4) |
-| Fri, 03 Oct 2025 17:03:03 GMT | Top 5 Cyber Threats | Farah Maqbool | [Read More](https://medium.com/p/9b9095eb1b4c) |
-| Fri, 03 Oct 2025 16:52:06 GMT | What does Zero Trust look like in real-world managed cloud implementations? | Cloud4C Services | [Read More](https://medium.com/p/147c6ea2bcfd) |
-| Fri, 03 Oct 2025 16:41:48 GMT | A Guide to Avoiding Prompt Injection Attacks | Manu Cohen-Yashar | [Read More](https://medium.com/p/e87d7ed95750) |
-| Fri, 03 Oct 2025 16:39:36 GMT | DeepSafe : The Verification Layer, A New Foundation for Web3 Security | 0xBay404 | [Read More](https://medium.com/p/ffa2d5cf9d92) |
-| Fri, 03 Oct 2025 16:37:47 GMT | Lessons from a Security Incident: Why You Should Never Store Credentials in Source Code | Rajesh Thakur | [Read More](https://medium.com/p/0cac4a8f50e3) |
-| Fri, 03 Oct 2025 16:33:12 GMT | How to prevent secrets ending up in log files? | Richard Lucas | [Read More](https://medium.com/p/e6abaf255bec) |
-| Fri, 03 Oct 2025 16:32:55 GMT | ffuf Tool Explained: Finding Hidden Doors on the Web | Natarajan C K | [Read More](https://medium.com/p/37e7dc76e97c) |
-| Fri, 03 Oct 2025 16:28:30 GMT | Aquarium Chaos: How Broken API Let Me Hijack Smart Fish Tanks Remotely | hacker_might | [Read More](https://medium.com/p/7c857cf2d3d0) |
-| Fri, 03 Oct 2025 16:23:35 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6b2f11180bdd) |
-| Fri, 03 Oct 2025 16:17:15 GMT | Beyond the Code: How an IT Undergrad Discovered the Future of Inventory | Vishu Garg | [Read More](https://medium.com/p/6c238108dbf3) |
-| Fri, 03 Oct 2025 16:11:32 GMT | GRC Evolution: From Ancient Law to Modern Cybersecurity Landscape | Humerah Farooqui | [Read More](https://medium.com/p/ccda24ca5663) |
