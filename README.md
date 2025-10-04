@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Oct 2025 23:14:09 GMT | How I Learned the Language of Trust: My Journey into PKI and Certificate Authorities | Incidalus | [Read More](https://medium.com/p/77aa6f322bb2) |
+| Sat, 04 Oct 2025 23:04:41 GMT | Why Defensive Scripters Are the Ghosts in the Machine | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/87c2d3b5796a) |
+| Sat, 04 Oct 2025 22:52:21 GMT | Cracking the JavaScript Code: Lessons From My Real-World Projects | Kainat Nafees | [Read More](https://medium.com/p/20aa4d7e7b66) |
+| Sat, 04 Oct 2025 22:41:11 GMT | Strong Passwords vs. Passphrases: What Works Best in 2025 | ENVORASEC | [Read More](https://medium.com/p/6deb11f21cd1) |
+| Sat, 04 Oct 2025 22:26:42 GMT | HackTheBox — Meow Q&A | Lifewith_Ayomide | [Read More](https://medium.com/p/2f1d416bcbd3) |
+| Sat, 04 Oct 2025 22:26:28 GMT | Захист від DDoS-атак: як убезпечити свій проєкт від цифрових штормів | DDoS | [Read More](https://medium.com/p/eefd8b6d72ef) |
 | Sat, 04 Oct 2025 22:20:43 GMT | MFA & 2FA DEMYSTIFIED … | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/466af23c577d) |
 | Sat, 04 Oct 2025 22:07:15 GMT | Fear-Mongering or Cybersecurity Awareness? | Cyber Lois | [Read More](https://medium.com/p/2166360fc91b) |
 | Sat, 04 Oct 2025 22:03:40 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/3ce898af73ba) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 15:47:30 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8fdad2c62ce3) |
 | Sat, 04 Oct 2025 15:46:01 GMT | Why Blockchain is Inevitable for the Future of Data Privacy | Alejandra Catacora | [Read More](https://medium.com/p/c73ef9cf452d) |
 | Sat, 04 Oct 2025 15:40:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/82b0f5a6478e) |
-| Sat, 04 Oct 2025 15:35:42 GMT | VPNs Explained: How They Work and Why You Need One | Fred Price | [Read More](https://medium.com/p/262363ae9318) |
-| Sat, 04 Oct 2025 15:33:23 GMT | Why Public Wi-Fi Isn’t as Safe as it Seems | Parinitha N | [Read More](https://medium.com/p/530cd4f6298c) |
-| Sat, 04 Oct 2025 15:32:42 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/6d6600bccc72) |
-| Sat, 04 Oct 2025 15:28:26 GMT | TryHackMe: Infinity Shell (Write-Up) | Daniel Kochishvili | [Read More](https://medium.com/p/a2ccd4554f09) |
-| Sat, 04 Oct 2025 15:27:46 GMT | Behind Enemy Lines: How Attackers Hijack Windows Networks with SMBExec — and How DFIR Teams… | Paritosh | [Read More](https://medium.com/p/e727b2f068f9) |
-| Sat, 04 Oct 2025 15:24:20 GMT | Let’s talk about Angular & Security️ | mohamed aziz aydi | [Read More](https://medium.com/p/0d580f19b4ef) |
