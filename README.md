@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 19:07:30 GMT | XSS in APIs: Why JSON Alone Won’t Save You | Göktuğ Oğuz Güngör | [Read More](https://medium.com/p/a3a8faa7a3b7) |
+| Sun, 05 Oct 2025 19:06:34 GMT | Service Oriented Conference- A r | She Writes Chaos | [Read More](https://medium.com/p/6533e0f8d3cd) |
 | Sun, 05 Oct 2025 18:58:41 GMT | Decision Science in Security: What It Is, Why It Matters and What Role It Plays in an AI-Powered… | Laura Voicu | [Read More](https://medium.com/p/7912a4375f1d) |
 | Sun, 05 Oct 2025 18:54:20 GMT | The Three Horsemen of Parallel Computing: Synchronization, Deadlocks, and Race Conditions | Sneha Bhamare | [Read More](https://medium.com/p/c05b9ef6b1f8) |
 | Sun, 05 Oct 2025 18:48:34 GMT | The Permission Paradox: Balancing AI Capability and Safety in MCP Protocols | Ashok Dudhade | [Read More](https://medium.com/p/60935fc25fea) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 13:04:21 GMT | I Kept My Family Private… Then ChatGPT Wrote a Poem About My Kids' Details. | Mohamed Bakry | [Read More](https://medium.com/p/4ee601dd7750) |
 | Sun, 05 Oct 2025 12:58:44 GMT | Security and Performance Aspects of Sysctl Performance Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/5d972e169a99) |
 | Sun, 05 Oct 2025 12:55:42 GMT | Exploring how the UAE leads in using AI responsibly for crime prevention. | Haya Alobaidi | [Read More](https://medium.com/p/202707ca28cb) |
-| Sun, 05 Oct 2025 12:53:15 GMT | Trivy + Terraform: Detectando Misconfigurations antes do deploy | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/fe05ba72ee37) |
-| Sun, 05 Oct 2025 12:52:07 GMT | Red Team vs. Blue Team: Understanding Cybersecurity’s Two Sides | Maxwell Ferreira | [Read More](https://medium.com/p/4925182b82fa) |
