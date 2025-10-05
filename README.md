@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 08:24:18 GMT | How a £0.30 PayPal Payment Nearly Fooled Me: Inside the Fake ‘Cash-Out’ Game Scam | Harry.needs.help. Crazy.killer clown | [Read More](https://medium.com/p/24aef9c9b6fe) |
+| Sun, 05 Oct 2025 08:22:19 GMT | PromptLock: When AI Learns to Hold Your Data Hostage | Naveen Manwani | [Read More](https://medium.com/p/4c1761a81762) |
+| Sun, 05 Oct 2025 08:18:51 GMT | Why Clear Scoping and Security Alignment Are Non-Negotiable When Working with External Vendors | Madhulika Das | [Read More](https://medium.com/p/68e36f5a9daf) |
+| Sun, 05 Oct 2025 08:10:26 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/12cbb50f3917) |
 | Sun, 05 Oct 2025 08:08:09 GMT | Privilege Escalation with Kubernetes RBAC Misconfigurations | Esra Kayhan | [Read More](https://medium.com/p/8add491d99f7) |
 | Sun, 05 Oct 2025 08:07:16 GMT | Network Traffic Recon: Capturing API Keys from Misconfigured Apps | Narendar Battula (nArEn) | [Read More](https://medium.com/p/25faf1a333e9) |
 | Sun, 05 Oct 2025 07:59:33 GMT | The Architecture of Stability in the Age of AI | Roman ALEFAIDEA | [Read More](https://medium.com/p/7e9722979867) |
@@ -110,7 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 21:55:20 GMT | HTB — Eureka Writeup | Ayça Gül | [Read More](https://medium.com/p/600c3b7e7500) |
 | Sat, 04 Oct 2025 21:54:21 GMT | How Hezbollah Went from a Local Terrorist Militia to a Transnational Terrorist Organization and… | SIMKRA | [Read More](https://medium.com/p/c4e9f2ee8760) |
 | Sat, 04 Oct 2025 21:51:56 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/2ec4eb3665fd) |
-| Sat, 04 Oct 2025 21:45:26 GMT | How Do You Secure Kubernetes Access Without Compromising on Flexibility? | Salwan Mohamed | [Read More](https://medium.com/p/f03cf8545812) |
-| Sat, 04 Oct 2025 21:44:02 GMT | CSRF vs XSS: Understanding the Vulnerability Chain That Breaks the Web | Mr Madani | [Read More](https://medium.com/p/3b873fcdb63a) |
-| Sat, 04 Oct 2025 21:42:01 GMT | DCAF Series: How Should Turkey’s Defense Cyber Architecture Be? | Umut Akbulut | [Read More](https://medium.com/p/3ed56380e61a) |
-| Sat, 04 Oct 2025 21:38:33 GMT | Hack the Box “Driver” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/d37e65d9cb0d) |
