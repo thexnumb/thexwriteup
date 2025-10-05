@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 10:32:07 GMT | ️ I Thought I Knew Linux. I Was Wrong. | Nithishkumar R | [Read More](https://medium.com/p/cb09c3a97b81) |
+| Sun, 05 Oct 2025 10:27:17 GMT | Data Loss Prevention: Stopping the Leak | Cyber Security Research | [Read More](https://medium.com/p/d9a159d57a1b) |
+| Sun, 05 Oct 2025 10:25:25 GMT | Cybersecurity in Two Lanes: Fast and Slow | Mahad Ahmed | [Read More](https://medium.com/p/bd822d465b83) |
+| Sun, 05 Oct 2025 10:20:22 GMT | Penetration Testing: Finding the Flaws | Cyber Security Research | [Read More](https://medium.com/p/035344df2833) |
+| Sun, 05 Oct 2025 10:06:30 GMT | Brute force website logins using Hydra + Burp (beginner tutorial) | Jackson Mittag | [Read More](https://medium.com/p/9d0f59cffd81) |
 | Sun, 05 Oct 2025 09:56:31 GMT | CCTV Camera Installation, Maintenance and Support Service in Bangladesh | optimationbd | [Read More](https://medium.com/p/d2a726679b1f) |
 | Sun, 05 Oct 2025 09:52:17 GMT | Level Up: Terraform & Azure — Security Admin’s Next Steps? | Authlyn | [Read More](https://medium.com/p/685d9c60a60a) |
 | Sun, 05 Oct 2025 09:44:29 GMT | PE File Structure Explained : A Guide to for Reverse Engineers & Developers | Shaheer Yasir | [Read More](https://medium.com/p/855a062c82cc) |
@@ -109,8 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sun, 05 Oct 2025 00:31:51 GMT | DevSecOps in the Age of AI: How to Secure Your Code and Models End-to-End | Talent Bridge | [Read More](https://medium.com/p/1e9e27a137a0) |
 | Sun, 05 Oct 2025 00:27:29 GMT | Scary facts about Google | Ali | [Read More](https://medium.com/p/3b567b1309dc) |
 | Sun, 05 Oct 2025 00:23:14 GMT | AIG Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/6029720dc832) |
-| Sun, 05 Oct 2025 00:16:19 GMT | The SimpleVulnerabilities in Web Applications | Kakashi | [Read More](https://medium.com/p/14eb496b06cf) |
-| Sun, 05 Oct 2025 00:16:13 GMT | Docker scan é simples, mas ninguém faz | Maico Moreira | [Read More](https://medium.com/p/9860d49d7f1b) |
-| Sun, 05 Oct 2025 00:13:03 GMT | Tinker Tailor LLM Spy: Investigate & Respond to Attacks on GenAI Chatbots | Andrew Paul | [Read More](https://medium.com/p/eb7bc856be35) |
-| Sun, 05 Oct 2025 00:04:32 GMT | How I Found CoinCollect Experts on Google and Got My BTC Back | Se Lina | [Read More](https://medium.com/p/36bb303e51df) |
-| Sat, 04 Oct 2025 23:52:04 GMT | Cybersecurity Foundations Series: Part 5 — Understanding Security Controls | TechStoryLines | [Read More](https://medium.com/p/9335f100dd7d) |
