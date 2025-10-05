@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 21:31:46 GMT | Beyond Differential Privacy: Preventing Cyber Attacks in Enterprise AI Systems | Nishi Kaura | [Read More](https://medium.com/p/6c0016274e6f) |
+| Sun, 05 Oct 2025 21:29:30 GMT | What Startups Get Wrong About Cybersecurity — Insights from Mohammed of Lyte Technologies | Mohammed Joof | [Read More](https://medium.com/p/868650b7263e) |
+| Sun, 05 Oct 2025 21:26:02 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/f184c1ae7ba7) |
+| Sun, 05 Oct 2025 21:18:47 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/95e157ad4c1b) |
+| Sun, 05 Oct 2025 21:17:52 GMT | Platform Engineering vs Automation: The Next Evolution of DevOps in 2025 | Ashish Singh | [Read More](https://medium.com/p/b8d1ba5d35f8) |
+| Sun, 05 Oct 2025 21:14:11 GMT | Hello | Emi Dokubo | [Read More](https://medium.com/p/624fa5af13a9) |
+| Sun, 05 Oct 2025 21:10:39 GMT | CMMC 3.5.3 MFA Explained: How to Meet Multifactor Authentication Requirements | Arnold De La Vega | [Read More](https://medium.com/p/2ab31652b2ee) |
 | Sun, 05 Oct 2025 21:05:23 GMT | To Love Me, Let Me Love You | musingsfrommarc | [Read More](https://medium.com/p/4c6c1fc576f8) |
 | Sun, 05 Oct 2025 21:05:13 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/0441b198d9fa) |
 | Sun, 05 Oct 2025 21:04:31 GMT | Secret of the Polyglot — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/c6f9da49ee0d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 14:31:52 GMT | Corporate Greed Chronicles: The Greed-Fueled Joyride at J.B. Hunt | Namir Sagheenanajar | [Read More](https://medium.com/p/a7b77b2dab58) |
 | Sun, 05 Oct 2025 14:31:52 GMT | The Untold Story of Routers & Switches: The Real Traffic Police of the Internet | Thegreatpayload | [Read More](https://medium.com/p/9c8cfbb9fd3c) |
 | Sun, 05 Oct 2025 14:28:57 GMT | THM - XDR: Operation Global Dagger 2 | Francesco Pastore | [Read More](https://medium.com/p/bcec9fcbc623) |
-| Sun, 05 Oct 2025 14:27:52 GMT | A Guide to Secure DevOps and DevSecOps | Samina Perveen | [Read More](https://medium.com/p/ba2d90a67053) |
-| Sun, 05 Oct 2025 14:26:45 GMT | How a Misplaced 2FA Lockout Can Prevent Legitimate Users from Logging In | Ibrahim Yılmaz | [Read More](https://medium.com/p/c91b23f6b49e) |
-| Sun, 05 Oct 2025 14:22:58 GMT | AI Is Spying On You: The Privacy Myth We’re All Believing | Medium Quill | [Read More](https://medium.com/p/2741301ec1d2) |
-| Sun, 05 Oct 2025 14:19:43 GMT | The Night Grief Taught Me to Hold Myself Gently | Darpan Murly | [Read More](https://medium.com/p/0d3574dde02e) |
-| Sun, 05 Oct 2025 14:19:24 GMT | The Art of Threat Hunting | Jay Nagrecha | [Read More](https://medium.com/p/ba6e385d6cdc) |
-| Sun, 05 Oct 2025 14:17:52 GMT | I Used ChatGPT for Security Policies. Big Mistake. | Cyberkech | [Read More](https://medium.com/p/356f81b2bab5) |
-| Sun, 05 Oct 2025 14:14:19 GMT | Benchmarking Claude 4 vs Claude 4.5 for Penetration testing | Daniel Knight | [Read More](https://medium.com/p/86b0acc1f20c) |
