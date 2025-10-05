@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 06:08:43 GMT | الأمن الرقمي ليس كما تظن: حقائق صادمة يكشفها الخبراء | Ali AlEnezi | [Read More](https://medium.com/p/de941deda89f) |
+| Sun, 05 Oct 2025 05:53:21 GMT | 7 Python Hacks That Taught Me More About Security Than Any Course | Muhummad Zaki | [Read More](https://medium.com/p/55320b008d11) |
 | Sun, 05 Oct 2025 05:23:39 GMT | Prompt Injection: A Deep Dive | Enrique Fueyo | [Read More](https://medium.com/p/864ac56b2bd3) |
 | Sun, 05 Oct 2025 05:23:22 GMT | LLM Agens and TOCTOU Vulnerabilities (EN) | Kemal AKCIL | [Read More](https://medium.com/p/df49d397aa81) |
 | Sun, 05 Oct 2025 05:23:09 GMT | Binary: The Language That Runs the World (and Your Wi-Fi) | Araiz Naqvi | [Read More](https://medium.com/p/710b55164052) |
@@ -112,5 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 18:42:58 GMT | GZR Observer — India Geo Perspective — Week of Oct 4, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f66722dc61e4) |
 | Sat, 04 Oct 2025 18:41:54 GMT | Imagery HTB WriteUp: Season 9 Machine 2 | Abhishek Gupta | [Read More](https://medium.com/p/6e09f640a993) |
 | Sat, 04 Oct 2025 18:32:19 GMT | GZR — India Geo Perspective — Week of Oct 4, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d04fd7e1fa5a) |
-| Sat, 04 Oct 2025 18:30:42 GMT | Day 29: Load Balancer in AWS | Prutha_Dongre | [Read More](https://medium.com/p/58314aba11dd) |
-| Sat, 04 Oct 2025 18:28:42 GMT | Exploiting WebView for XSS & LFI: A $500+ Bug Bounty Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/98e047454c54) |
