@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 12:36:55 GMT | Information Gathering | Red_Ghost | [Read More](https://medium.com/p/540c4e2099b4) |
+| Sun, 05 Oct 2025 12:31:37 GMT | About Me — Hrudhaya Harshavardhan | Harshahay | [Read More](https://medium.com/p/906c339d752b) |
+| Sun, 05 Oct 2025 12:30:27 GMT | September Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/74cfc6b4e3c0) |
+| Sun, 05 Oct 2025 12:28:55 GMT | Data Safety Awareness Series – Post 3 | Juned Silavat | [Read More](https://medium.com/p/80e14f141a28) |
+| Sun, 05 Oct 2025 12:21:53 GMT | Android Application Reverse Engineering: Unveiling Hidden Secrets | Rizqi Mulki | [Read More](https://medium.com/p/df22f437378a) |
+| Sun, 05 Oct 2025 12:21:26 GMT | ISO/IEC 42001: The Global Standard for AI Management Systems | Mayur Pahwa | [Read More](https://medium.com/p/159c942d9ca9) |
+| Sun, 05 Oct 2025 12:13:19 GMT | Memory Corruption in Web Applications - HackTheBox Rainbow Writeup | Motasem Hamdan | [Read More](https://medium.com/p/0e83557ac64a) |
+| Sun, 05 Oct 2025 12:09:36 GMT | Loan Milo app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please.xnj | nopax16959@vsihay.com | [Read More](https://medium.com/p/b9ad5e5d2479) |
+| Sun, 05 Oct 2025 12:08:41 GMT | What Is Cybersecurity and Why It’s More Important Than Ever? | SIIMT University College, Ghana | [Read More](https://medium.com/p/795d4411e08e) |
+| Sun, 05 Oct 2025 12:08:27 GMT | How to Build an AI Assistant That Writes Better Python Code Than Us | Rizqi Mulki | [Read More](https://medium.com/p/3868d9b67726) |
+| Sun, 05 Oct 2025 12:08:22 GMT | The Hidden Python Framework That’s Faster Than Node.js | Rizqi Mulki | [Read More](https://medium.com/p/d3f747543abe) |
+| Sun, 05 Oct 2025 12:02:04 GMT | AD-RTA Exam | Umar Aziz | [Read More](https://medium.com/p/46b1d09a2097) |
+| Sun, 05 Oct 2025 11:58:25 GMT | Loan Milo app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please..ggv | hasof53156@unrays.com | [Read More](https://medium.com/p/f7f06ba67249) |
+| Sun, 05 Oct 2025 11:57:56 GMT | Part 5: Proxies, WebRTC, and Killing IP Leaks | Pannag Kumaar | [Read More](https://medium.com/p/49faf319b643) |
+| Sun, 05 Oct 2025 11:52:24 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/32990cee58c9) |
+| Sun, 05 Oct 2025 11:49:44 GMT | The $250,000 Bug — My Journey Unpacking CVE-2025-4609 | Hacker's Perspective | [Read More](https://medium.com/p/221960a0df21) |
+| Sun, 05 Oct 2025 11:46:26 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/e3cfd0802e99) |
+| Sun, 05 Oct 2025 11:41:56 GMT | A classic east-west traffic blind spot: SQL Injection Through Trusted Internal Flows | mobin shaterian | [Read More](https://medium.com/p/38049dfe4127) |
+| Sun, 05 Oct 2025 11:38:05 GMT | If You’re Feeling Stuck Learning DevOps, You’re Not Broken, Your Approach Is | Zudonu Osomudeya | [Read More](https://medium.com/p/850b59e38dc1) |
+| Sun, 05 Oct 2025 11:37:37 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/ecfc0129ed1c) |
 | Sun, 05 Oct 2025 11:30:28 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/58f3eb99f6d3) |
 | Sun, 05 Oct 2025 11:28:41 GMT | I Ran an EASM Sweep — The Findings Terrified Me (And They Should Terrify Every Engineering Leader) | Azim Uddin | [Read More](https://medium.com/p/dfecd9ec5318) |
 | Sun, 05 Oct 2025 11:27:19 GMT | TryHackMe - PrintNightmare, again! - WriteUp | Axoloth | [Read More](https://medium.com/p/3ecdef5e0b93) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 06:21:39 GMT | Cybersecurity at Home: Protecting from Modern Threats | Jeremy Renner | [Read More](https://medium.com/p/f7d02dd89db3) |
 | Sun, 05 Oct 2025 06:21:25 GMT | Forrester’s 2026 Cybersecurity and Risk Predictions: Key Highlights | Balasubramaniam GD | [Read More](https://medium.com/p/12bda7e9890f) |
 | Sun, 05 Oct 2025 06:08:43 GMT | الأمن الرقمي ليس كما تظن: حقائق صادمة يكشفها الخبراء | Ali AlEnezi | [Read More](https://medium.com/p/de941deda89f) |
-| Sun, 05 Oct 2025 05:53:21 GMT | 7 Python Hacks That Taught Me More About Security Than Any Course | Muhummad Zaki | [Read More](https://medium.com/p/55320b008d11) |
-| Sun, 05 Oct 2025 05:32:28 GMT | SubHub: Powering Real-Time Alerts for the Web3 Era | EHMPE RHOR | [Read More](https://medium.com/p/21f16a7d72bd) |
-| Sun, 05 Oct 2025 05:23:39 GMT | Prompt Injection: A Deep Dive | Enrique Fueyo | [Read More](https://medium.com/p/864ac56b2bd3) |
-| Sun, 05 Oct 2025 05:23:22 GMT | LLM Agens and TOCTOU Vulnerabilities (EN) | Kemal AKCIL | [Read More](https://medium.com/p/df49d397aa81) |
-| Sun, 05 Oct 2025 05:23:09 GMT | Binary: The Language That Runs the World (and Your Wi-Fi) | Araiz Naqvi | [Read More](https://medium.com/p/710b55164052) |
-| Sun, 05 Oct 2025 05:22:01 GMT | I Tried Living Without Cybersecurity Precautions for 30 Days: Here’s What Happened | Arfa | [Read More](https://medium.com/p/2f92158ff3f4) |
-| Sun, 05 Oct 2025 05:21:02 GMT | How Hackers Really Break Into Your Accounts (And How to Stop Them) | Arfa | [Read More](https://medium.com/p/f8c9d566f340) |
-| Sun, 05 Oct 2025 05:19:35 GMT | Blockchain Security: Trust in the Chain | Cyber Security Research | [Read More](https://medium.com/p/670044e600ea) |
-| Sun, 05 Oct 2025 05:18:13 GMT | Cathie Wood’s Challenge to Every Professional: Are we on the Right Side of Change? | Kawsar Ahmed Fahad (faha1999) | [Read More](https://medium.com/p/dfa27f89191a) |
-| Sun, 05 Oct 2025 05:13:53 GMT | The Quantum Computing Threat | Cyber Security Research | [Read More](https://medium.com/p/ad6f16f05242) |
-| Sun, 05 Oct 2025 05:04:19 GMT | LLM Agent’larda TOCTOU Zafiyetleri (TR) | Kemal AKCIL | [Read More](https://medium.com/p/05a7de9451d7) |
-| Sun, 05 Oct 2025 05:02:50 GMT | No Tamper Alert, No Password, And a Backdoor: Root Access on a POS Credit Card Payment Terminal | Marcel Rick-Cen | [Read More](https://medium.com/p/1ea32c73ca41) |
-| Sun, 05 Oct 2025 04:55:05 GMT | Why OEMs Should Care About CISO 2.0 Leadership in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/a318af603c43) |
-| Sun, 05 Oct 2025 04:32:29 GMT | Al Qaisar Recycling♻️: Pioneering E-Waste Management for a Sustainable Future | Dr. Muhammad Sirfraz | [Read More](https://medium.com/p/ee8f13d4fb5d) |
-| Sun, 05 Oct 2025 04:25:02 GMT | ️ Shadow Endpoints: How I Found the Internet’s Best Kept API Secrets | Iski | [Read More](https://medium.com/p/78d68808abc6) |
-| Sun, 05 Oct 2025 04:16:35 GMT | Inside the Hacker’s Mind: What I Learned from Hacker Halted | Maham Shariff | [Read More](https://medium.com/p/99485ac4584a) |
-| Sun, 05 Oct 2025 04:12:48 GMT | File permissions in Linux | Sameera Nazneen | [Read More](https://medium.com/p/05baed53c4ce) |
-| Sun, 05 Oct 2025 04:05:13 GMT | HTB - Paper WriteUP | Sean Knight | [Read More](https://medium.com/p/5b8eb84618fd) |
-| Sun, 05 Oct 2025 03:52:45 GMT | Lapsus$ is Back, and They’ve Brought Friends: Say Hello to “Scattered LAPSUS$ Hunters | Prity Kumari | [Read More](https://medium.com/p/f6a33695aefd) |
-| Sun, 05 Oct 2025 03:42:00 GMT | Vulnerability Capstone Room Write Up | Ethan Wang | [Read More](https://medium.com/p/af0b18a3cc7f) |
