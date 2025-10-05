@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 11:07:57 GMT | The Illusion of Security: When IT Teams Don’t Understand What They’re Securing | Sajidur Rahman | [Read More](https://medium.com/p/1c9d3768f62c) |
+| Sun, 05 Oct 2025 11:04:15 GMT | Samsung Galaxy S2: Revisiting the Phone That Felt Like Magic | Ahamed Afran | [Read More](https://medium.com/p/9215a8a7039e) |
+| Sun, 05 Oct 2025 11:01:49 GMT | XDR: Introduction | Cheryl Maise Lobo | [Read More](https://medium.com/p/214885c00bfb) |
+| Sun, 05 Oct 2025 11:01:12 GMT | CH4:Logistic regression | Lantera | [Read More](https://medium.com/p/fcef2d54cdbb) |
+| Sun, 05 Oct 2025 10:59:53 GMT | Internet Of Things — Digital Output (Practical Course) | Zifa Tea Azzahra | [Read More](https://medium.com/p/97212743a64c) |
+| Sun, 05 Oct 2025 10:55:27 GMT | Mr Robot CTF - Try hack me walkthrough {By Rikin} | Rikin | [Read More](https://medium.com/p/f08d4d1c9a17) |
+| Sun, 05 Oct 2025 10:54:43 GMT | Empowering MSMEs and Startups: The Philippines’ Push for AI Adoption and Cybersecurity | Marvin Barrios | [Read More](https://medium.com/p/f1ab575d75d7) |
+| Sun, 05 Oct 2025 10:49:28 GMT | WebRTC Is the Silent IP Leak Living in Your Browser | KeyboardSamurai | [Read More](https://medium.com/p/cb72c46641cb) |
+| Sun, 05 Oct 2025 10:47:40 GMT | Decision Tree:A Fundamental Approach to Machine Learning | Lantera | [Read More](https://medium.com/p/03b8b04ec361) |
+| Sun, 05 Oct 2025 10:46:16 GMT | Identity and Access Management: Controlling the Keys | Cyber Security Research | [Read More](https://medium.com/p/43082ac49578) |
+| Sun, 05 Oct 2025 10:40:21 GMT | Security Awareness Training: Empowering the User | Cyber Security Research | [Read More](https://medium.com/p/a2f24f11f995) |
+| Sun, 05 Oct 2025 10:36:26 GMT | DockerLabs Writeup — Vulnvault (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c365cf20d41a) |
+| Sun, 05 Oct 2025 10:36:16 GMT | Day 65- Blue team vs Red team vs Purple team simple guide for beginners | unica 02 | [Read More](https://medium.com/p/b550ab2ec69e) |
+| Sun, 05 Oct 2025 10:34:14 GMT | Network Segmentation: Containment Strategies | Cyber Security Research | [Read More](https://medium.com/p/c12eca3fb362) |
 | Sun, 05 Oct 2025 10:32:07 GMT | ️ I Thought I Knew Linux. I Was Wrong. | Nithishkumar R | [Read More](https://medium.com/p/cb09c3a97b81) |
 | Sun, 05 Oct 2025 10:27:17 GMT | Data Loss Prevention: Stopping the Leak | Cyber Security Research | [Read More](https://medium.com/p/d9a159d57a1b) |
 | Sun, 05 Oct 2025 10:25:25 GMT | Cybersecurity in Two Lanes: Fast and Slow | Mahad Ahmed | [Read More](https://medium.com/p/bd822d465b83) |
@@ -100,17 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sun, 05 Oct 2025 02:31:47 GMT | Session-Level Identity in AI-Driven Workflows: The New Frontier of Enterprise Risk | Akilnath Bodipudi | [Read More](https://medium.com/p/8de1fd6d0578) |
 | Sun, 05 Oct 2025 02:29:57 GMT | Defining Cyber Risk, Cyber Risk Scoring, and Cyber Risk Quantification | Juan Pablo Castro | [Read More](https://medium.com/p/daf91d2e460d) |
 | Sun, 05 Oct 2025 02:26:26 GMT | TryHackMe #91 - TShark Challenge II: Directory | 0xGroot | [Read More](https://medium.com/p/19db2e076750) |
-| Sun, 05 Oct 2025 02:22:10 GMT | Pier Walkthrough — Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/abb733a81079) |
-| Sun, 05 Oct 2025 02:21:52 GMT | TryHackMe #90 - TShark Challenge I: Teamwork | 0xGroot | [Read More](https://medium.com/p/cace5f73272b) |
-| Sun, 05 Oct 2025 02:16:25 GMT | TryHackMe #89 - TShark: CLI Wireshark Features | 0xGroot | [Read More](https://medium.com/p/56107d10a77e) |
-| Sun, 05 Oct 2025 02:12:10 GMT | TryHackMe #88 - TShark: The Basics | 0xGroot | [Read More](https://medium.com/p/3a1b11f41d53) |
-| Sun, 05 Oct 2025 02:11:44 GMT | Billyboss Walkthrough Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/728a3b502bdb) |
-| Sun, 05 Oct 2025 02:07:01 GMT | TryHackMe #87 - Wireshark: Traffic Analysis | 0xGroot | [Read More](https://medium.com/p/6158f45c1ab5) |
-| Sun, 05 Oct 2025 01:52:21 GMT | Virtual Workspaces Made Simple | Raviteja Mureboina | [Read More](https://medium.com/p/17c78458de10) |
-| Sun, 05 Oct 2025 01:02:32 GMT | Essential MikroTik WAN Security: A Beginner’s Hardening Guide | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/26e987c5c66a) |
-| Sun, 05 Oct 2025 00:59:15 GMT | Beyond the Blueprint: Reimagining IT Operations Management Through Central Architecture | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/4a14335f379a) |
-| Sun, 05 Oct 2025 00:40:07 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐ with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc atm | Blackbox | [Read More](https://medium.com/p/a7749754d0b4) |
-| Sun, 05 Oct 2025 00:34:07 GMT | New Tool: Linux Disk Temperature Monitoring | Truvis Thornton | [Read More](https://medium.com/p/be092a619e2c) |
-| Sun, 05 Oct 2025 00:31:51 GMT | DevSecOps in the Age of AI: How to Secure Your Code and Models End-to-End | Talent Bridge | [Read More](https://medium.com/p/1e9e27a137a0) |
-| Sun, 05 Oct 2025 00:27:29 GMT | Scary facts about Google | Ali | [Read More](https://medium.com/p/3b567b1309dc) |
-| Sun, 05 Oct 2025 00:23:14 GMT | AIG Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/6029720dc832) |
