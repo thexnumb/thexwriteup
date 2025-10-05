@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 04:25:02 GMT | ️ Shadow Endpoints: How I Found the Internet’s Best Kept API Secrets | Iski | [Read More](https://medium.com/p/78d68808abc6) |
 | Sun, 05 Oct 2025 04:16:35 GMT | Inside the Hacker’s Mind: What I Learned from Hacker Halted | Maham Shariff | [Read More](https://medium.com/p/99485ac4584a) |
 | Sun, 05 Oct 2025 04:12:48 GMT | File permissions in Linux | Sameera Nazneen | [Read More](https://medium.com/p/05baed53c4ce) |
 | Sun, 05 Oct 2025 04:05:13 GMT | HTB - Paper WriteUP | Sean Knight | [Read More](https://medium.com/p/5b8eb84618fd) |
@@ -113,4 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 17:49:54 GMT | Networking foundations Part 2: What is Link layer in TCP/IP? | Vishnuprasad O | [Read More](https://medium.com/p/f01cef7a44da) |
 | Sat, 04 Oct 2025 17:44:04 GMT | IPv6 Man-in-the-Middle Attacks in Windows Networks (MITM6) | Ammar Ahmed | [Read More](https://medium.com/p/e1eee1df6e6c) |
 | Sat, 04 Oct 2025 17:40:19 GMT | A New Weapon in Hacker’s Arsenal: Deploying Rogue Wi-Fi AP to Perform Evil-Twin Attacks using… | Sachin      Verlekar | [Read More](https://medium.com/p/0ab45f6c5a9e) |
-| Sat, 04 Oct 2025 17:36:44 GMT | Digital Tracing vs Traditional Tracing — A Story from the Ground | Kiran Sawant | [Read More](https://medium.com/p/d35e933127fc) |
