@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 22:35:18 GMT | VPN lab | Ryanchanest | [Read More](https://medium.com/p/847f5b6d5263) |
+| Sun, 05 Oct 2025 22:11:56 GMT | Seccomp Filters Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/7ddedbcccaf3) |
+| Sun, 05 Oct 2025 22:10:28 GMT | HTB: Support | Ross Andrews | [Read More](https://medium.com/p/6dff2596e82f) |
 | Sun, 05 Oct 2025 22:05:32 GMT | The Future of Pentesting: How AI Agents Will Supercharge Red Teams | Yua Mikanana | [Read More](https://medium.com/p/0a184f9af231) |
 | Sun, 05 Oct 2025 22:04:01 GMT | The OTP That Told on Itself — How I Bypassed Email Verification with One Wrong Code | 3eyedraven | [Read More](https://medium.com/p/67236eb803a1) |
 | Sun, 05 Oct 2025 22:02:56 GMT | Leading with confidence: A board’s Role in school Cyber Risk Management | Bertrand Nkali | [Read More](https://medium.com/p/2ad414cb56f4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 5, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/454504f27293) |
 | Sun, 05 Oct 2025 15:14:43 GMT | Hacking, Virtual Machines, Linux & Networking — A Practical, Ethical Primer | Abhinav Nandan | [Read More](https://medium.com/p/711fc41e080a) |
 | Sun, 05 Oct 2025 15:09:11 GMT | Next.js Authentication: The Biggest Mistakes Developers Still Make | Supun Jayalath | [Read More](https://medium.com/p/9d6795efff89) |
-| Sun, 05 Oct 2025 15:05:40 GMT | 50 Jobs at Risk of Being Replaced by AI: How to Survive | Dr. Mahesh Kumar | [Read More](https://medium.com/p/6b83435e226b) |
-| Sun, 05 Oct 2025 15:02:07 GMT | An das Gewissen der Weltöffentlichkeit, | Heidikoch | [Read More](https://medium.com/p/b50d178ba876) |
-| Sun, 05 Oct 2025 14:57:44 GMT | Internet Of Things — Digital Output (Practical Assignment) | Zifa Tea Azzahra | [Read More](https://medium.com/p/52a16e888612) |
