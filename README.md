@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 18:58:41 GMT | Decision Science in Security: What It Is, Why It Matters and What Role It Plays in an AI-Powered… | Laura Voicu | [Read More](https://medium.com/p/7912a4375f1d) |
+| Sun, 05 Oct 2025 18:54:20 GMT | The Three Horsemen of Parallel Computing: Synchronization, Deadlocks, and Race Conditions | Sneha Bhamare | [Read More](https://medium.com/p/c05b9ef6b1f8) |
+| Sun, 05 Oct 2025 18:48:34 GMT | The Permission Paradox: Balancing AI Capability and Safety in MCP Protocols | Ashok Dudhade | [Read More](https://medium.com/p/60935fc25fea) |
+| Sun, 05 Oct 2025 18:48:04 GMT | I Stopped Chasing New OSINT Tools — and Got Better Results | Sam Galope | [Read More](https://medium.com/p/bd7df3118abf) |
+| Sun, 05 Oct 2025 18:47:58 GMT | When Archimate saves the day. | Mohammed Brückner | [Read More](https://medium.com/p/0b5a0200f3de) |
+| Sun, 05 Oct 2025 18:44:42 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/005eda08c50d) |
 | Sun, 05 Oct 2025 18:26:24 GMT | Part 2: intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/c92d7f2b5cad) |
 | Sun, 05 Oct 2025 18:23:36 GMT | Week 9 of My 90-Day Challenge: Last-Minute Prep and New Burp Features | Mike (sl0th0x87) | [Read More](https://medium.com/p/129f46c77e45) |
 | Sun, 05 Oct 2025 18:14:46 GMT | PicoCTF Writeup 2: Where are the robots | Agarwaldaksh | [Read More](https://medium.com/p/0aee3ad42527) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 12:55:42 GMT | Exploring how the UAE leads in using AI responsibly for crime prevention. | Haya Alobaidi | [Read More](https://medium.com/p/202707ca28cb) |
 | Sun, 05 Oct 2025 12:53:15 GMT | Trivy + Terraform: Detectando Misconfigurations antes do deploy | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/fe05ba72ee37) |
 | Sun, 05 Oct 2025 12:52:07 GMT | Red Team vs. Blue Team: Understanding Cybersecurity’s Two Sides | Maxwell Ferreira | [Read More](https://medium.com/p/4925182b82fa) |
-| Sun, 05 Oct 2025 12:49:39 GMT | Honor Loan app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please.jhf | wojekik983@unrays.com | [Read More](https://medium.com/p/be39724d9c2c) |
-| Sun, 05 Oct 2025 12:43:46 GMT | How a Single WhatsApp Message Can Take Control of Your Phone | Patrik Žák | [Read More](https://medium.com/p/981667cf30aa) |
-| Sun, 05 Oct 2025 12:43:35 GMT | Expert Guide to Security Hardening in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/eb05abf60ab6) |
-| Sun, 05 Oct 2025 12:36:55 GMT | Information Gathering | Red_Ghost | [Read More](https://medium.com/p/540c4e2099b4) |
-| Sun, 05 Oct 2025 12:33:53 GMT | SELinux Policies Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d27b834b94bd) |
-| Sun, 05 Oct 2025 12:33:06 GMT | OverTheWire: Wargames — Natas (Level 1–15) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/7a737a0c74da) |
