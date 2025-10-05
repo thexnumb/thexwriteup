@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 06:34:47 GMT | Learning to sit with my loneliness | Vijay Kumar Gupta | [Read More](https://medium.com/p/8bcc1c1b5faa) |
+| Sun, 05 Oct 2025 06:24:52 GMT | Sherlocks —  introduction and Brutus Machine | Muhammad Bilal | [Read More](https://medium.com/p/430882aab232) |
+| Sun, 05 Oct 2025 06:21:39 GMT | Cybersecurity at Home: Protecting from Modern Threats | Jeremy Renner | [Read More](https://medium.com/p/f7d02dd89db3) |
+| Sun, 05 Oct 2025 06:21:25 GMT | Forrester’s 2026 Cybersecurity and Risk Predictions: Key Highlights | Balasubramaniam GD | [Read More](https://medium.com/p/12bda7e9890f) |
 | Sun, 05 Oct 2025 06:08:43 GMT | الأمن الرقمي ليس كما تظن: حقائق صادمة يكشفها الخبراء | Ali AlEnezi | [Read More](https://medium.com/p/de941deda89f) |
 | Sun, 05 Oct 2025 05:53:21 GMT | 7 Python Hacks That Taught Me More About Security Than Any Course | Muhummad Zaki | [Read More](https://medium.com/p/55320b008d11) |
 | Sun, 05 Oct 2025 05:23:39 GMT | Prompt Injection: A Deep Dive | Enrique Fueyo | [Read More](https://medium.com/p/864ac56b2bd3) |
@@ -110,7 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 19:00:09 GMT | Beyond OWASP: Redefining Application Security Risks in the Era of AI and APIs | Sai Krishna Kakarla | [Read More](https://medium.com/p/0992152a5afe) |
 | Sat, 04 Oct 2025 18:54:58 GMT | HTML Injection & Content Spoofing: How Attackers Trick Users (and how to find & fix it) | Omniaelagroudy | [Read More](https://medium.com/p/cea458c951dd) |
 | Sat, 04 Oct 2025 18:51:26 GMT | From Recon to Root: My Journey Cracking the CloudSEK CTF 2025 Challenges | Janpreet Singh | [Read More](https://medium.com/p/f4ad499179c9) |
-| Sat, 04 Oct 2025 18:49:36 GMT | The Last Garden | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/89292e0b4d93) |
-| Sat, 04 Oct 2025 18:42:58 GMT | GZR Observer — India Geo Perspective — Week of Oct 4, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f66722dc61e4) |
-| Sat, 04 Oct 2025 18:41:54 GMT | Imagery HTB WriteUp: Season 9 Machine 2 | Abhishek Gupta | [Read More](https://medium.com/p/6e09f640a993) |
-| Sat, 04 Oct 2025 18:32:19 GMT | GZR — India Geo Perspective — Week of Oct 4, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d04fd7e1fa5a) |
