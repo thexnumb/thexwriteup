@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 05:13:53 GMT | The Quantum Computing Threat | Cyber Security Research | [Read More](https://medium.com/p/ad6f16f05242) |
+| Sun, 05 Oct 2025 05:02:50 GMT | No Tamper Alert, No Password, And a Backdoor: Root Access on a POS Credit Card Payment Terminal | Marcel Rick-Cen | [Read More](https://medium.com/p/1ea32c73ca41) |
+| Sun, 05 Oct 2025 04:55:05 GMT | Why OEMs Should Care About CISO 2.0 Leadership in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/a318af603c43) |
+| Sun, 05 Oct 2025 04:32:29 GMT | Al Qaisar Recycling♻️: Pioneering E-Waste Management for a Sustainable Future | Dr. Muhammad Sirfraz | [Read More](https://medium.com/p/ee8f13d4fb5d) |
 | Sun, 05 Oct 2025 04:25:02 GMT | ️ Shadow Endpoints: How I Found the Internet’s Best Kept API Secrets | Iski | [Read More](https://medium.com/p/78d68808abc6) |
 | Sun, 05 Oct 2025 04:16:35 GMT | Inside the Hacker’s Mind: What I Learned from Hacker Halted | Maham Shariff | [Read More](https://medium.com/p/99485ac4584a) |
 | Sun, 05 Oct 2025 04:12:48 GMT | File permissions in Linux | Sameera Nazneen | [Read More](https://medium.com/p/05baed53c4ce) |
@@ -110,7 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 18:00:47 GMT | ‍ Only Senior Java Devs Can Spot the Bug in This Code — Can You? ☕ | Karuna | [Read More](https://medium.com/p/87c3808398e1) |
 | Sat, 04 Oct 2025 17:54:12 GMT | Why You Should Never Use Java String to Store Passwords | Yeshwanth Reddy N | [Read More](https://medium.com/p/b30d31953373) |
 | Sat, 04 Oct 2025 17:53:51 GMT | The Ultimate Metasploit Database Cheatsheet | eRRoR | [Read More](https://medium.com/p/1e82070d2930) |
-| Sat, 04 Oct 2025 17:50:07 GMT | Don’t Let Your Lost Crypto Disappear Forever — Recover It Now, Contact Mighty Hackar Recovery today! | SuKo Reply | [Read More](https://medium.com/p/43c435bc3a8e) |
-| Sat, 04 Oct 2025 17:49:54 GMT | Networking foundations Part 2: What is Link layer in TCP/IP? | Vishnuprasad O | [Read More](https://medium.com/p/f01cef7a44da) |
-| Sat, 04 Oct 2025 17:44:04 GMT | IPv6 Man-in-the-Middle Attacks in Windows Networks (MITM6) | Ammar Ahmed | [Read More](https://medium.com/p/e1eee1df6e6c) |
-| Sat, 04 Oct 2025 17:40:19 GMT | A New Weapon in Hacker’s Arsenal: Deploying Rogue Wi-Fi AP to Perform Evil-Twin Attacks using… | Sachin      Verlekar | [Read More](https://medium.com/p/0ab45f6c5a9e) |
