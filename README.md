@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 23:34:36 GMT | CVE-2025–61882 — Critical RCE in Oracle E-Business Suite (CVSS 9.8) | Cybersecplayground | [Read More](https://medium.com/p/3b2bc6d4a015) |
+| Sun, 05 Oct 2025 23:25:55 GMT | The Evolution of Security Architectures | Cyber Security Research | [Read More](https://medium.com/p/3df7042fcc69) |
+| Sun, 05 Oct 2025 23:20:01 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/81c8e7c1749f) |
+| Sun, 05 Oct 2025 23:15:05 GMT | Cryptocurrency and Modern Ransomware – Cybercriminal Tactics and Security Challenges | David SEHYEON Baek | [Read More](https://medium.com/p/75b18be27194) |
 | Sun, 05 Oct 2025 23:03:32 GMT | Build Your Own SIEM: Why These Open-Source Tools Just Work | SOCFortress | [Read More](https://medium.com/p/280312c3d308) |
 | Sun, 05 Oct 2025 23:02:08 GMT | HackTheBox - Unit42 - Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d0b64381fd64) |
 | Sun, 05 Oct 2025 23:01:20 GMT | How to setup an outbound tunnel for Remote Shell Access? | Tejasparmar | [Read More](https://medium.com/p/09ee799d874d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 15:57:30 GMT | The Dark Art of Hardware Hacking: Cracking Open the Secrets of Embedded Systems | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/36d892c6acb0) |
 | Sun, 05 Oct 2025 15:46:24 GMT | Echoes of the Forest | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/05ab9beba6f5) |
 | Sun, 05 Oct 2025 15:41:30 GMT | MEDIUM FLAWS | little fox | [Read More](https://medium.com/p/821638adb716) |
-| Sun, 05 Oct 2025 15:35:22 GMT | CS student tries to evade AV (PART 2) | Mahmudul Hasan | [Read More](https://medium.com/p/d0c87ed22b43) |
-| Sun, 05 Oct 2025 15:31:26 GMT | TryHackMe - Intermediate nmap walkthrough | sabR | [Read More](https://medium.com/p/a16ff684a3c1) |
-| Sun, 05 Oct 2025 15:25:57 GMT | SQHell: Manually hunting SQL injection with detailed explanation | Huzaifa Malik | [Read More](https://medium.com/p/8fd24360c65e) |
-| Sun, 05 Oct 2025 15:25:55 GMT | Review of Paul Krugman’s Seminal Blog Post on ‘Tech and the Wealth of Nations’ | Dawood Mamoon | [Read More](https://medium.com/p/d49a696dd5f7) |
