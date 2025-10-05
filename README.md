@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 20:14:54 GMT | The True Cost of a Security Breach | Tim Murkomen | [Read More](https://medium.com/p/6e6a386a83d8) |
+| Sun, 05 Oct 2025 20:02:05 GMT | CISOs, You’re Stuck: Here Are 3 Things to Do Now | Yael Nagler | [Read More](https://medium.com/p/5b8d140cf189) |
+| Sun, 05 Oct 2025 19:57:37 GMT | The Rise of Palantir and Its Impact on Privacy | Ian McIntire | [Read More](https://medium.com/p/c9c8d915c897) |
+| Sun, 05 Oct 2025 19:44:35 GMT | Anatomy of a GitHub Deception: Trojanized CVE Tool Uses AI and Fake Stars to Distribute Malware | A.M A | [Read More](https://medium.com/p/5902cd83e9a9) |
+| Sun, 05 Oct 2025 19:40:32 GMT | Portswigger mystery lab write up -Path traversal: File path traversal, validation of start of path. | Hubert | [Read More](https://medium.com/p/505302a9554b) |
+| Sun, 05 Oct 2025 19:38:58 GMT | The Silent Danger of Forgotten Email Accounts: Why You Shouldn’t Ignore Them in 2025 | Dark Tech Insights | [Read More](https://medium.com/p/548aacd0449e) |
 | Sun, 05 Oct 2025 19:07:30 GMT | XSS in APIs: Why JSON Alone Won’t Save You | Göktuğ Oğuz Güngör | [Read More](https://medium.com/p/a3a8faa7a3b7) |
 | Sun, 05 Oct 2025 19:06:34 GMT | Service Oriented Conference- A r | She Writes Chaos | [Read More](https://medium.com/p/6533e0f8d3cd) |
 | Sun, 05 Oct 2025 18:58:41 GMT | Decision Science in Security: What It Is, Why It Matters and What Role It Plays in an AI-Powered… | Laura Voicu | [Read More](https://medium.com/p/7912a4375f1d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 13:22:48 GMT | The Rise of Offensive AI: How Adversaries are Weaponizing Machine Learning | Giorgi Akhobadze | [Read More](https://medium.com/p/de201caef649) |
 | Sun, 05 Oct 2025 13:18:35 GMT | Navigating the Digital Vortex: The Elusive Quest for Sovereignty in an Interdependent World | Berend Watchus | [Read More](https://medium.com/p/20c3fc1e9100) |
 | Sun, 05 Oct 2025 13:17:38 GMT | Java File Upload and Download with Spring Boot REST API | Didin Jamaludin | [Read More](https://medium.com/p/c78193f44fcd) |
-| Sun, 05 Oct 2025 13:16:39 GMT | How to Create a Python Bot That Generates Viral Content | Rizqi Mulki | [Read More](https://medium.com/p/8b620497f906) |
-| Sun, 05 Oct 2025 13:14:16 GMT | DC-6-Lab Walkthrough Vulnhub | Ankit Dhaka | [Read More](https://medium.com/p/df3effc66209) |
-| Sun, 05 Oct 2025 13:06:21 GMT | AI Is Everywhere — But Who’s Securing It? | Samyakgoel | [Read More](https://medium.com/p/98529b294595) |
-| Sun, 05 Oct 2025 13:04:21 GMT | I Kept My Family Private… Then ChatGPT Wrote a Poem About My Kids' Details. | Mohamed Bakry | [Read More](https://medium.com/p/4ee601dd7750) |
-| Sun, 05 Oct 2025 12:58:44 GMT | Security and Performance Aspects of Sysctl Performance Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/5d972e169a99) |
-| Sun, 05 Oct 2025 12:55:42 GMT | Exploring how the UAE leads in using AI responsibly for crime prevention. | Haya Alobaidi | [Read More](https://medium.com/p/202707ca28cb) |
