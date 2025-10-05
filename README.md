@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 15:35:22 GMT | CS student tries to evade AV (PART 2) | Mahmudul Hasan | [Read More](https://medium.com/p/d0c87ed22b43) |
+| Sun, 05 Oct 2025 15:31:26 GMT | TryHackMe - Intermediate nmap walkthrough | sabR | [Read More](https://medium.com/p/a16ff684a3c1) |
+| Sun, 05 Oct 2025 15:25:55 GMT | Review of Paul Krugman’s Seminal Blog Post on ‘Tech and the Wealth of Nations’ | Dawood Mamoon | [Read More](https://medium.com/p/d49a696dd5f7) |
+| Sun, 05 Oct 2025 15:22:49 GMT | Secure Your NestJS Application: Production-Ready Defaults for Safety and DX | Serhii Malyshev | [Read More](https://medium.com/p/1b6896b1ce74) |
+| Sun, 05 Oct 2025 15:17:27 GMT | Setting Up Your Own Cyber Security Lab Environment | DevTutorials | [Read More](https://medium.com/p/57d4fe5ac59c) |
+| Sun, 05 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 5, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/454504f27293) |
+| Sun, 05 Oct 2025 15:14:43 GMT | Hacking, Virtual Machines, Linux & Networking — A Practical, Ethical Primer | Abhinav Nandan | [Read More](https://medium.com/p/711fc41e080a) |
+| Sun, 05 Oct 2025 15:09:11 GMT | Next.js Authentication: The Biggest Mistakes Developers Still Make | Supun Jayalath | [Read More](https://medium.com/p/9d6795efff89) |
+| Sun, 05 Oct 2025 15:05:40 GMT | 50 Jobs at Risk of Being Replaced by AI: How to Survive | Dr. Mahesh Kumar | [Read More](https://medium.com/p/6b83435e226b) |
 | Sun, 05 Oct 2025 15:02:07 GMT | An das Gewissen der Weltöffentlichkeit, | Heidikoch | [Read More](https://medium.com/p/b50d178ba876) |
 | Sun, 05 Oct 2025 14:57:44 GMT | Internet Of Things — Digital Output (Practical Assignment) | Zifa Tea Azzahra | [Read More](https://medium.com/p/52a16e888612) |
 | Sun, 05 Oct 2025 14:56:37 GMT | ✅ Cyber Hygiene: Your Weekly Ritual to Stay Safe Online | aysha | [Read More](https://medium.com/p/b7894736a4a9) |
+| Sun, 05 Oct 2025 14:55:21 GMT | eMAPT 2025 — Como la conseguí? | eldeim | [Read More](https://medium.com/p/fbdb6a05b2a2) |
 | Sun, 05 Oct 2025 14:42:24 GMT | Business Logic Flaws Uncovered: A Bug Hunter’s Series Launch | Yamini Yadav_369 | [Read More](https://medium.com/p/38d171dadfe4) |
 | Sun, 05 Oct 2025 14:42:16 GMT | Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny | Yamini Yadav_369 | [Read More](https://medium.com/p/b5520da54f1a) |
 | Sun, 05 Oct 2025 14:42:07 GMT | The Power of Self-Reliance: Learning to Hold Your Own Umbrella | kate spider | [Read More](https://medium.com/p/697389257f9e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 10:36:26 GMT | DockerLabs Writeup — Vulnvault (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c365cf20d41a) |
 | Sun, 05 Oct 2025 10:36:16 GMT | Day 65- Blue team vs Red team vs Purple team simple guide for beginners | unica 02 | [Read More](https://medium.com/p/b550ab2ec69e) |
 | Sun, 05 Oct 2025 10:34:14 GMT | Network Segmentation: Containment Strategies | Cyber Security Research | [Read More](https://medium.com/p/c12eca3fb362) |
-| Sun, 05 Oct 2025 10:32:07 GMT | ️ I Thought I Knew Linux. I Was Wrong. | Nithishkumar R | [Read More](https://medium.com/p/cb09c3a97b81) |
-| Sun, 05 Oct 2025 10:27:17 GMT | Data Loss Prevention: Stopping the Leak | Cyber Security Research | [Read More](https://medium.com/p/d9a159d57a1b) |
-| Sun, 05 Oct 2025 10:25:25 GMT | Cybersecurity in Two Lanes: Fast and Slow | Mahad Ahmed | [Read More](https://medium.com/p/bd822d465b83) |
-| Sun, 05 Oct 2025 10:20:22 GMT | Penetration Testing: Finding the Flaws | Cyber Security Research | [Read More](https://medium.com/p/035344df2833) |
-| Sun, 05 Oct 2025 10:06:30 GMT | Brute force website logins using Hydra + Burp (beginner tutorial) | Jackson Mittag | [Read More](https://medium.com/p/9d0f59cffd81) |
-| Sun, 05 Oct 2025 09:56:31 GMT | CCTV Camera Installation, Maintenance and Support Service in Bangladesh | optimationbd | [Read More](https://medium.com/p/d2a726679b1f) |
-| Sun, 05 Oct 2025 09:52:17 GMT | Level Up: Terraform & Azure — Security Admin’s Next Steps? | Authlyn | [Read More](https://medium.com/p/685d9c60a60a) |
-| Sun, 05 Oct 2025 09:48:51 GMT | Truths About Bug Bounty for Beginners | Madhu Kanwat | [Read More](https://medium.com/p/b3f88bdeceaa) |
-| Sun, 05 Oct 2025 09:44:29 GMT | PE File Structure Explained : A Guide to for Reverse Engineers & Developers | Shaheer Yasir | [Read More](https://medium.com/p/855a062c82cc) |
-| Sun, 05 Oct 2025 09:36:56 GMT | DISCORD CUSTOMER DATA LEAKED IN THIRD-PARTY SUPPORT HACK | sunduck | [Read More](https://medium.com/p/cdcd9013080d) |
