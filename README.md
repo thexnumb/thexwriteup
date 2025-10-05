@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 17:30:47 GMT | Rev Shell from a Web Shell and how to tell what tools to use! | n0t_brit | [Read More](https://medium.com/p/8f570add44da) |
+| Sun, 05 Oct 2025 17:27:35 GMT | Where Do All the Unsent Messages Go? | SuccessBlueprints.Org | [Read More](https://medium.com/p/ce78ec42a266) |
+| Sun, 05 Oct 2025 17:25:20 GMT | Signing and Encryption With JWS and JWE | İbrahim Gündüz | [Read More](https://medium.com/p/017c23b5246d) |
+| Sun, 05 Oct 2025 17:24:21 GMT | DNS Tunnelling — covert channels over DNS | Paritosh | [Read More](https://medium.com/p/4a1fdae35ce7) |
+| Sun, 05 Oct 2025 17:19:53 GMT | You’re Not Too Much – They Just Weren’t Ready to Hear You. | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/f387d3eb28b1) |
+| Sun, 05 Oct 2025 17:14:21 GMT | From Zero to $1500/Month: Bug Bounty Automation | Muhammad Ali | [Read More](https://medium.com/p/04a314c8163b) |
 | Sun, 05 Oct 2025 17:08:19 GMT | Week 12— Async API Calls: fetch, Axios, and Promises | Aang | [Read More](https://medium.com/p/f8da63c5d91c) |
 | Sun, 05 Oct 2025 17:08:01 GMT | How I Learned to Scan My Own Codebase for Secrets and Vulnerabilities | Ted Hagos | [Read More](https://medium.com/p/168f9bdf7a04) |
 | Sun, 05 Oct 2025 17:02:36 GMT | CERT-In SBOM Compliance Made Easy: Introducing the CERT-In SBOM Mapper (Part 2) | sumit singh | [Read More](https://medium.com/p/b47fd2d68ff8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 11:52:24 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/32990cee58c9) |
 | Sun, 05 Oct 2025 11:49:44 GMT | The $250,000 Bug — My Journey Unpacking CVE-2025-4609 | Hacker's Perspective | [Read More](https://medium.com/p/221960a0df21) |
 | Sun, 05 Oct 2025 11:46:26 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/e3cfd0802e99) |
-| Sun, 05 Oct 2025 11:41:56 GMT | A classic east-west traffic blind spot: SQL Injection Through Trusted Internal Flows | mobin shaterian | [Read More](https://medium.com/p/38049dfe4127) |
-| Sun, 05 Oct 2025 11:38:05 GMT | If You’re Feeling Stuck Learning DevOps, You’re Not Broken, Your Approach Is | Zudonu Osomudeya | [Read More](https://medium.com/p/850b59e38dc1) |
-| Sun, 05 Oct 2025 11:37:37 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/ecfc0129ed1c) |
-| Sun, 05 Oct 2025 11:30:28 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/58f3eb99f6d3) |
-| Sun, 05 Oct 2025 11:28:41 GMT | I Ran an EASM Sweep — The Findings Terrified Me (And They Should Terrify Every Engineering Leader) | Azim Uddin | [Read More](https://medium.com/p/dfecd9ec5318) |
-| Sun, 05 Oct 2025 11:27:19 GMT | TryHackMe - PrintNightmare, again! - WriteUp | Axoloth | [Read More](https://medium.com/p/3ecdef5e0b93) |
