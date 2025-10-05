@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 04:16:35 GMT | Inside the Hacker’s Mind: What I Learned from Hacker Halted | Maham Shariff | [Read More](https://medium.com/p/99485ac4584a) |
+| Sun, 05 Oct 2025 04:12:48 GMT | File permissions in Linux | Sameera Nazneen | [Read More](https://medium.com/p/05baed53c4ce) |
+| Sun, 05 Oct 2025 04:05:13 GMT | HTB - Paper WriteUP | Sean Knight | [Read More](https://medium.com/p/5b8eb84618fd) |
+| Sun, 05 Oct 2025 03:52:45 GMT | Lapsus$ is Back, and They’ve Brought Friends: Say Hello to “Scattered LAPSUS$ Hunters | Prity Kumari | [Read More](https://medium.com/p/f6a33695aefd) |
+| Sun, 05 Oct 2025 03:42:00 GMT | Vulnerability Capstone Room Write Up | Ethan Wang | [Read More](https://medium.com/p/af0b18a3cc7f) |
 | Sun, 05 Oct 2025 03:38:05 GMT | Cybersecurity on a Budget: Free Tools to Protect Yourself Online | Aj | [Read More](https://medium.com/p/760660406af9) |
 | Sun, 05 Oct 2025 03:31:52 GMT | The Trojan Horse in Your Browser: How a “Verified” Chrome VPN Spied on 100,000 Users | Deven Chhajed | [Read More](https://medium.com/p/c65cf8f4d173) |
 | Sun, 05 Oct 2025 03:19:38 GMT | How I Found My First $100 Bug — by Accident, with Two Accounts and a Race Condition | Abhishek sharma | [Read More](https://medium.com/p/793171607fe9) |
@@ -109,8 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 17:44:04 GMT | IPv6 Man-in-the-Middle Attacks in Windows Networks (MITM6) | Ammar Ahmed | [Read More](https://medium.com/p/e1eee1df6e6c) |
 | Sat, 04 Oct 2025 17:40:19 GMT | A New Weapon in Hacker’s Arsenal: Deploying Rogue Wi-Fi AP to Perform Evil-Twin Attacks using… | Sachin      Verlekar | [Read More](https://medium.com/p/0ab45f6c5a9e) |
 | Sat, 04 Oct 2025 17:36:44 GMT | Digital Tracing vs Traditional Tracing — A Story from the Ground | Kiran Sawant | [Read More](https://medium.com/p/d35e933127fc) |
-| Sat, 04 Oct 2025 17:36:28 GMT | Breaking the ‘Black Hat Glamour’: Why a Focus on Defense Pays Better Than Offense | vydhi | [Read More](https://medium.com/p/4c92eb8adaed) |
-| Sat, 04 Oct 2025 17:34:40 GMT | The Art of Crypto Scams | 0x0vid | [Read More](https://medium.com/p/1daa01a639e0) |
-| Sat, 04 Oct 2025 17:34:34 GMT | Building my home server: Part 1 | Denes Beck | [Read More](https://medium.com/p/19dfaa73dc97) |
-| Sat, 04 Oct 2025 17:33:52 GMT | AI can be hallucinating while responding, and you need to be aware of that. | Iqra Mushtaq | [Read More](https://medium.com/p/97ece92a9277) |
-| Sat, 04 Oct 2025 17:30:23 GMT | Hack The Box — Power Greed: Complete Pwn Writeup & ROP Explained (Part 1) | Geexirooz | [Read More](https://medium.com/p/f6e560465dbc) |
