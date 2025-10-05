@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 08:08:09 GMT | Privilege Escalation with Kubernetes RBAC Misconfigurations | Esra Kayhan | [Read More](https://medium.com/p/8add491d99f7) |
+| Sun, 05 Oct 2025 08:07:16 GMT | Network Traffic Recon: Capturing API Keys from Misconfigured Apps | Narendar Battula (nArEn) | [Read More](https://medium.com/p/25faf1a333e9) |
+| Sun, 05 Oct 2025 07:59:33 GMT | The Architecture of Stability in the Age of AI | Roman ALEFAIDEA | [Read More](https://medium.com/p/7e9722979867) |
+| Sun, 05 Oct 2025 07:58:25 GMT | Frida on iOS: 7 Real-World Hooks to Expose Hidden Endpoints | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c52bd8594b6e) |
+| Sun, 05 Oct 2025 07:53:02 GMT | Reverse-Engineering iOS Apps: Hidden API Mining Beyond Android | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5f929e018cf2) |
+| Sun, 05 Oct 2025 07:45:53 GMT | The Final Game: Securing LLMs Before the Joker Plays You | Reham ElTagoury | [Read More](https://medium.com/p/3e81df539353) |
+| Sun, 05 Oct 2025 07:44:37 GMT | Dynamic Hooking with Frida: Revealing Hidden Parameters in Real Time | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b39d538993a6) |
+| Sun, 05 Oct 2025 07:41:08 GMT | Planning to do CRTA? | Karthikeyan C | [Read More](https://medium.com/p/1606be96528b) |
+| Sun, 05 Oct 2025 07:37:36 GMT | The Ransomware Ripple Effect: How One Man’s Arrest Exposes Our Fragile Systems | Aj | [Read More](https://medium.com/p/f6f2c43d7d33) |
+| Sun, 05 Oct 2025 07:35:54 GMT | Your Phone Is a Target: Lock It Down and Stay Ahead | Abhishek B | [Read More](https://medium.com/p/a02ea4ca23ab) |
+| Sun, 05 Oct 2025 07:34:59 GMT | Intro to Cross-site Scripting Tryhackme Walkthrough | Laakhi Shivhare | [Read More](https://medium.com/p/88cf18ca2a99) |
+| Sun, 05 Oct 2025 07:34:39 GMT | Partitioning Strategies for High-Performance Secure PostgreSQL Databases | Rizqi Mulki | [Read More](https://medium.com/p/f2e19d13ad60) |
 | Sun, 05 Oct 2025 07:29:44 GMT | PostgreSQL Connection Pooling: Balancing Performance, Security, and AI Workloads | Rizqi Mulki | [Read More](https://medium.com/p/ced876096a9c) |
 | Sun, 05 Oct 2025 07:25:43 GMT | CRT-ID Exam - Full Walkthrough | Abdul Ahad | [Read More](https://medium.com/p/88fe96faed4f) |
 | Sun, 05 Oct 2025 07:25:36 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/6af0cd9f4d74) |
@@ -102,15 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 21:44:02 GMT | CSRF vs XSS: Understanding the Vulnerability Chain That Breaks the Web | Mr Madani | [Read More](https://medium.com/p/3b873fcdb63a) |
 | Sat, 04 Oct 2025 21:42:01 GMT | DCAF Series: How Should Turkey’s Defense Cyber Architecture Be? | Umut Akbulut | [Read More](https://medium.com/p/3ed56380e61a) |
 | Sat, 04 Oct 2025 21:38:33 GMT | Hack the Box “Driver” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/d37e65d9cb0d) |
-| Sat, 04 Oct 2025 21:32:07 GMT | Why a 500 Error is a Bug Hunter’s Signal | Cybersecplayground | [Read More](https://medium.com/p/8e35ab2bc703) |
-| Sat, 04 Oct 2025 21:27:31 GMT | ️ AI CyberShield: The Human Firewall Revolution | Nikolay Gul | [Read More](https://medium.com/p/d8b3cd3d8a60) |
-| Sat, 04 Oct 2025 21:21:30 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/e70266a696d2) |
-| Sat, 04 Oct 2025 21:17:53 GMT | Simple Guide to AI Powered Threats | Ibtissam hammadi | [Read More](https://medium.com/p/849f64e52757) |
-| Sat, 04 Oct 2025 21:02:23 GMT | It’s Never Too Late — in Life or in Cybersecurity | Danielle Koppel | [Read More](https://medium.com/p/2455fd309a19) |
-| Sat, 04 Oct 2025 20:47:28 GMT | Pain is a friend we keep meeting for the first time | Khalisha Farhanah | [Read More](https://medium.com/p/306bd5c33a7f) |
-| Sat, 04 Oct 2025 20:34:52 GMT | Hybrid Models (MPI + OpenMP): Motivation and Use-Cases | DHANASHREE SANJAY CHILA | [Read More](https://medium.com/p/60a547f0d1f5) |
-| Sat, 04 Oct 2025 20:30:14 GMT | AI Agents for Cybersecurity — Cybersecurity is in for an Agentic Takeover (2026) | Rajat Dangi ️ | [Read More](https://medium.com/p/8a53a1792e0d) |
-| Sat, 04 Oct 2025 20:16:09 GMT | Silencing the Digital Abuse: How AI is Stepping Up to Control Cyberbullying in Mass Media | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/133934883490) |
-| Sat, 04 Oct 2025 20:15:11 GMT | Exploring BrowsingHistoryView: A Simple Way to Uncover Web Activity | Allen Ace | [Read More](https://medium.com/p/5bcf2dd7a811) |
-| Sat, 04 Oct 2025 20:06:32 GMT | CS student tries to evade AV (PART 1) | Mahmudul Hasan | [Read More](https://medium.com/p/ad8452f38079) |
-| Sat, 04 Oct 2025 19:57:53 GMT | Lab 3 — UNION SQL Injection: Determine Columns and Extract Database Data | Apexium Technologies Ltd | [Read More](https://medium.com/p/2503c8593ff1) |
