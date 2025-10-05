@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 05:23:39 GMT | Prompt Injection: A Deep Dive | Enrique Fueyo | [Read More](https://medium.com/p/864ac56b2bd3) |
+| Sun, 05 Oct 2025 05:23:22 GMT | LLM Agens and TOCTOU Vulnerabilities (EN) | Kemal AKCIL | [Read More](https://medium.com/p/df49d397aa81) |
+| Sun, 05 Oct 2025 05:23:09 GMT | Binary: The Language That Runs the World (and Your Wi-Fi) | Araiz Naqvi | [Read More](https://medium.com/p/710b55164052) |
+| Sun, 05 Oct 2025 05:22:01 GMT | I Tried Living Without Cybersecurity Precautions for 30 Days: Here’s What Happened | Arfa | [Read More](https://medium.com/p/2f92158ff3f4) |
+| Sun, 05 Oct 2025 05:21:02 GMT | How Hackers Really Break Into Your Accounts (And How to Stop Them) | Arfa | [Read More](https://medium.com/p/f8c9d566f340) |
+| Sun, 05 Oct 2025 05:19:35 GMT | Blockchain Security: Trust in the Chain | Cyber Security Research | [Read More](https://medium.com/p/670044e600ea) |
+| Sun, 05 Oct 2025 05:18:13 GMT | Cathie Wood’s Challenge to Every Professional: Are we on the Right Side of Change? | Kawsar Ahmed Fahad (faha1999) | [Read More](https://medium.com/p/dfa27f89191a) |
 | Sun, 05 Oct 2025 05:13:53 GMT | The Quantum Computing Threat | Cyber Security Research | [Read More](https://medium.com/p/ad6f16f05242) |
+| Sun, 05 Oct 2025 05:04:19 GMT | LLM Agent’larda TOCTOU Zafiyetleri (TR) | Kemal AKCIL | [Read More](https://medium.com/p/05a7de9451d7) |
 | Sun, 05 Oct 2025 05:02:50 GMT | No Tamper Alert, No Password, And a Backdoor: Root Access on a POS Credit Card Payment Terminal | Marcel Rick-Cen | [Read More](https://medium.com/p/1ea32c73ca41) |
 | Sun, 05 Oct 2025 04:55:05 GMT | Why OEMs Should Care About CISO 2.0 Leadership in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/a318af603c43) |
 | Sun, 05 Oct 2025 04:32:29 GMT | Al Qaisar Recycling♻️: Pioneering E-Waste Management for a Sustainable Future | Dr. Muhammad Sirfraz | [Read More](https://medium.com/p/ee8f13d4fb5d) |
@@ -106,11 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 18:32:19 GMT | GZR — India Geo Perspective — Week of Oct 4, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d04fd7e1fa5a) |
 | Sat, 04 Oct 2025 18:30:42 GMT | Day 29: Load Balancer in AWS | Prutha_Dongre | [Read More](https://medium.com/p/58314aba11dd) |
 | Sat, 04 Oct 2025 18:28:42 GMT | Exploiting WebView for XSS & LFI: A $500+ Bug Bounty Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/98e047454c54) |
-| Sat, 04 Oct 2025 18:28:11 GMT | TryHackMe — Skynet | Victorhg | [Read More](https://medium.com/p/ea813659e845) |
-| Sat, 04 Oct 2025 18:27:29 GMT | Write-Up — The Watcher (CyberYard) | DieLoop | [Read More](https://medium.com/p/6e2c94a32026) |
-| Sat, 04 Oct 2025 18:23:06 GMT | Cockpit — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/9822a5c36bb0) |
-| Sat, 04 Oct 2025 18:06:27 GMT | Bug Bounty: De HTMLI a RCE — Guía práctica y paso a paso | Gorka | [Read More](https://medium.com/p/d6d499c8ef68) |
-| Sat, 04 Oct 2025 18:05:29 GMT | Love in the air, but fear in the heart | Alishba Khalid | [Read More](https://medium.com/p/aa0d38683177) |
-| Sat, 04 Oct 2025 18:00:47 GMT | ‍ Only Senior Java Devs Can Spot the Bug in This Code — Can You? ☕ | Karuna | [Read More](https://medium.com/p/87c3808398e1) |
-| Sat, 04 Oct 2025 17:54:12 GMT | Why You Should Never Use Java String to Store Passwords | Yeshwanth Reddy N | [Read More](https://medium.com/p/b30d31953373) |
-| Sat, 04 Oct 2025 17:53:51 GMT | The Ultimate Metasploit Database Cheatsheet | eRRoR | [Read More](https://medium.com/p/1e82070d2930) |
