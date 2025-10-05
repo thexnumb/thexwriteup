@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 21:05:23 GMT | To Love Me, Let Me Love You | musingsfrommarc | [Read More](https://medium.com/p/4c6c1fc576f8) |
+| Sun, 05 Oct 2025 21:05:13 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/0441b198d9fa) |
+| Sun, 05 Oct 2025 21:04:31 GMT | Secret of the Polyglot — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/c6f9da49ee0d) |
+| Sun, 05 Oct 2025 21:03:45 GMT | People, Process, Then Technology: The Timeless Blueprint for Sustainable AI Transformation | ArchBeat | [Read More](https://medium.com/p/0f5a905028b6) |
+| Sun, 05 Oct 2025 20:59:17 GMT | Cyber Resilience: Bouncing Back from Attacks | Cyber Security Research | [Read More](https://medium.com/p/9b64203c3711) |
+| Sun, 05 Oct 2025 20:53:14 GMT | The Impact of AI on Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/e354acfad57b) |
+| Sun, 05 Oct 2025 20:47:05 GMT | The Role of Automation in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/e7d5bb063530) |
+| Sun, 05 Oct 2025 20:45:33 GMT | Cybersecurity Awareness Month: Day 5 Public WI-FI Risks | Ifeawoyemi | [Read More](https://medium.com/p/f889a69e1d90) |
+| Sun, 05 Oct 2025 20:38:44 GMT | Why 95% of AI Projects Fail — and How Cybersecurity Can Save Them | Muhammad Haider Tallal | [Read More](https://medium.com/p/f55baf074a92) |
+| Sun, 05 Oct 2025 20:37:51 GMT | The Simple Way to Remember Your Passwords | Khadijah Adisa | [Read More](https://medium.com/p/7bffeb3d7338) |
 | Sun, 05 Oct 2025 20:32:08 GMT | The Rise of AI-Generated Advanced SQL Injections and How LLMs Are Redefining Cyber Threats | Cybamatica | [Read More](https://medium.com/p/3fd00655eaf3) |
 | Sun, 05 Oct 2025 20:27:50 GMT | Che cos’è il Dark Web? | Syria | [Read More](https://medium.com/p/72d51d0deaa0) |
 | Sun, 05 Oct 2025 20:22:39 GMT | ELK SIEM Lab 1.1 — Elastic Agent Configuration | Azhariqbal | [Read More](https://medium.com/p/05f66086615f) |
@@ -24,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 19:38:58 GMT | The Silent Danger of Forgotten Email Accounts: Why You Shouldn’t Ignore Them in 2025 | Dark Tech Insights | [Read More](https://medium.com/p/548aacd0449e) |
 | Sun, 05 Oct 2025 19:07:30 GMT | XSS in APIs: Why JSON Alone Won’t Save You | Göktuğ Oğuz Güngör | [Read More](https://medium.com/p/a3a8faa7a3b7) |
 | Sun, 05 Oct 2025 19:06:34 GMT | Service Oriented Conference- A r | She Writes Chaos | [Read More](https://medium.com/p/6533e0f8d3cd) |
+| Sun, 05 Oct 2025 19:03:06 GMT | Comment éviter le phishing en 2025 : les nouvelles techniques que tout le monde doit connaître | Close CYBER | [Read More](https://medium.com/p/feb46f24474a) |
 | Sun, 05 Oct 2025 18:58:41 GMT | Decision Science in Security: What It Is, Why It Matters and What Role It Plays in an AI-Powered… | Laura Voicu | [Read More](https://medium.com/p/7912a4375f1d) |
 | Sun, 05 Oct 2025 18:54:20 GMT | The Three Horsemen of Parallel Computing: Synchronization, Deadlocks, and Race Conditions | Sneha Bhamare | [Read More](https://medium.com/p/c05b9ef6b1f8) |
 | Sun, 05 Oct 2025 18:48:34 GMT | The Permission Paradox: Balancing AI Capability and Safety in MCP Protocols | Ashok Dudhade | [Read More](https://medium.com/p/60935fc25fea) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 14:19:24 GMT | The Art of Threat Hunting | Jay Nagrecha | [Read More](https://medium.com/p/ba6e385d6cdc) |
 | Sun, 05 Oct 2025 14:17:52 GMT | I Used ChatGPT for Security Policies. Big Mistake. | Cyberkech | [Read More](https://medium.com/p/356f81b2bab5) |
 | Sun, 05 Oct 2025 14:14:19 GMT | Benchmarking Claude 4 vs Claude 4.5 for Penetration testing | Daniel Knight | [Read More](https://medium.com/p/86b0acc1f20c) |
-| Sun, 05 Oct 2025 14:03:42 GMT | Why Early Entry into ABTU Matters | Abatis ABTU | [Read More](https://medium.com/p/1d555440e9c1) |
-| Sun, 05 Oct 2025 14:02:11 GMT | Slow Internet Could Be Killing Your Business Growth | Janeel Abrahams | [Read More](https://medium.com/p/a00bf7503570) |
-| Sun, 05 Oct 2025 13:56:21 GMT | Your First Paid Bounty: A Real Case Study | Fateyaly | [Read More](https://medium.com/p/1312aeddfa0a) |
-| Sun, 05 Oct 2025 13:52:10 GMT | Fowsniff CTF Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/3f06972013d0) |
-| Sun, 05 Oct 2025 13:47:42 GMT | THM - XDR: Operation Global Dagger | Francesco Pastore | [Read More](https://medium.com/p/db4c2c51599f) |
-| Sun, 05 Oct 2025 13:41:09 GMT | 2025’s Top 10 Smart Gadgets That Are Changing How We Live, Work, and Play | Kalamba Sanjase | [Read More](https://medium.com/p/3b3bb519b919) |
-| Sun, 05 Oct 2025 13:36:33 GMT | ️ Bug Bounty Methodology: From Recon to Exploitation in 12 Tactical Steps | Naresh Singh | [Read More](https://medium.com/p/430c5cfbcf1c) |
-| Sun, 05 Oct 2025 13:35:26 GMT | My Learning Journey with OPSWAT Academy: Introduction to Critical Infrastructure Protection… | Dunal Bhagyantha | [Read More](https://medium.com/p/7a144273c3a9) |
-| Sun, 05 Oct 2025 13:32:36 GMT | The Pain of Feeling Alone in a Relationship (Even When You’re Not) | Bloom with Maria | [Read More](https://medium.com/p/33091cf4ce5f) |
-| Sun, 05 Oct 2025 13:28:27 GMT | The Silent Intruder: Mastering the Art of Lateral Movement and Network Reconnaissance | Giorgi Akhobadze | [Read More](https://medium.com/p/c44095ff658f) |
-| Sun, 05 Oct 2025 13:26:25 GMT | The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics | Giorgi Akhobadze | [Read More](https://medium.com/p/f1c654e39f9e) |
