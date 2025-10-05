@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 13:35:26 GMT | My Learning Journey with OPSWAT Academy: Introduction to Critical Infrastructure Protection… | Dunal Bhagyantha | [Read More](https://medium.com/p/7a144273c3a9) |
+| Sun, 05 Oct 2025 13:32:36 GMT | The Pain of Feeling Alone in a Relationship (Even When You’re Not) | Bloom with Maria | [Read More](https://medium.com/p/33091cf4ce5f) |
+| Sun, 05 Oct 2025 13:28:27 GMT | The Silent Intruder: Mastering the Art of Lateral Movement and Network Reconnaissance | Giorgi Akhobadze | [Read More](https://medium.com/p/c44095ff658f) |
+| Sun, 05 Oct 2025 13:26:25 GMT | The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics | Giorgi Akhobadze | [Read More](https://medium.com/p/f1c654e39f9e) |
+| Sun, 05 Oct 2025 13:25:16 GMT | Volatility 3: The Next Generation of Memory Forensics | Shehab Ahmed | [Read More](https://medium.com/p/22e7399ccea3) |
+| Sun, 05 Oct 2025 13:22:48 GMT | The Rise of Offensive AI: How Adversaries are Weaponizing Machine Learning | Giorgi Akhobadze | [Read More](https://medium.com/p/de201caef649) |
 | Sun, 05 Oct 2025 13:18:35 GMT | Navigating the Digital Vortex: The Elusive Quest for Sovereignty in an Interdependent World | Berend Watchus | [Read More](https://medium.com/p/20c3fc1e9100) |
 | Sun, 05 Oct 2025 13:17:38 GMT | Java File Upload and Download with Spring Boot REST API | Didin Jamaludin | [Read More](https://medium.com/p/c78193f44fcd) |
 | Sun, 05 Oct 2025 13:16:39 GMT | How to Create a Python Bot That Generates Viral Content | Rizqi Mulki | [Read More](https://medium.com/p/8b620497f906) |
+| Sun, 05 Oct 2025 13:14:16 GMT | DC-6-Lab Walkthrough Vulnhub | Ankit Dhaka | [Read More](https://medium.com/p/df3effc66209) |
 | Sun, 05 Oct 2025 13:06:21 GMT | AI Is Everywhere — But Who’s Securing It? | Samyakgoel | [Read More](https://medium.com/p/98529b294595) |
 | Sun, 05 Oct 2025 13:04:21 GMT | I Kept My Family Private… Then ChatGPT Wrote a Poem About My Kids' Details. | Mohamed Bakry | [Read More](https://medium.com/p/4ee601dd7750) |
 | Sun, 05 Oct 2025 12:58:44 GMT | Security and Performance Aspects of Sysctl Performance Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/5d972e169a99) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 07:44:37 GMT | Dynamic Hooking with Frida: Revealing Hidden Parameters in Real Time | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b39d538993a6) |
 | Sun, 05 Oct 2025 07:41:08 GMT | Planning to do CRTA? | Karthikeyan C | [Read More](https://medium.com/p/1606be96528b) |
 | Sun, 05 Oct 2025 07:37:36 GMT | The Ransomware Ripple Effect: How One Man’s Arrest Exposes Our Fragile Systems | Aj | [Read More](https://medium.com/p/f6f2c43d7d33) |
-| Sun, 05 Oct 2025 07:35:54 GMT | Your Phone Is a Target: Lock It Down and Stay Ahead | Abhishek B | [Read More](https://medium.com/p/a02ea4ca23ab) |
-| Sun, 05 Oct 2025 07:34:59 GMT | Intro to Cross-site Scripting Tryhackme Walkthrough | Laakhi Shivhare | [Read More](https://medium.com/p/88cf18ca2a99) |
-| Sun, 05 Oct 2025 07:34:39 GMT | Partitioning Strategies for High-Performance Secure PostgreSQL Databases | Rizqi Mulki | [Read More](https://medium.com/p/f2e19d13ad60) |
-| Sun, 05 Oct 2025 07:29:44 GMT | PostgreSQL Connection Pooling: Balancing Performance, Security, and AI Workloads | Rizqi Mulki | [Read More](https://medium.com/p/ced876096a9c) |
-| Sun, 05 Oct 2025 07:27:50 GMT | DNS Hijacking for Dummies: Why Your API’s Domain Name is a Target | InstaTunnel | [Read More](https://medium.com/p/5cd669ff906b) |
-| Sun, 05 Oct 2025 07:25:43 GMT | CRT-ID Exam - Full Walkthrough | Abdul Ahad | [Read More](https://medium.com/p/88fe96faed4f) |
-| Sun, 05 Oct 2025 07:25:36 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/6af0cd9f4d74) |
