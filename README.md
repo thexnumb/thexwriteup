@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 18:14:46 GMT | PicoCTF Writeup 2: Where are the robots | Agarwaldaksh | [Read More](https://medium.com/p/0aee3ad42527) |
+| Sun, 05 Oct 2025 18:11:31 GMT | Building an Automated Cybersecurity News Summary System with n8n | Yusuf Can Çakır | [Read More](https://medium.com/p/24d5ded6c161) |
+| Sun, 05 Oct 2025 18:11:27 GMT | 6 Platforms Every Bug Bounty Hunter Should Know. | Willow Tech | [Read More](https://medium.com/p/d401b8485009) |
+| Sun, 05 Oct 2025 18:09:03 GMT | CanYouSee — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/78052e12efc2) |
+| Sun, 05 Oct 2025 18:07:47 GMT | Siber Güvenlik 101 — Raporlama Sanatı | Sude Çoban | [Read More](https://medium.com/p/3ffb8b0bdfb0) |
+| Sun, 05 Oct 2025 18:03:05 GMT | Week 1: My Cybersecurity Learning Journey | Shivasaicharan | [Read More](https://medium.com/p/34dc3d3fe154) |
+| Sun, 05 Oct 2025 17:59:33 GMT | i don’t wanna be here anymore | Nightly rain | [Read More](https://medium.com/p/f64c5550a7a4) |
+| Sun, 05 Oct 2025 17:53:52 GMT | Essential DevSecOps Tools: SCA, SAST, and DAST | cybrNK | [Read More](https://medium.com/p/49c8a92a994e) |
+| Sun, 05 Oct 2025 17:52:10 GMT | We Made Our Pipeline Immutable — And Hackers Gave Up | Web3 Nautiyal | [Read More](https://medium.com/p/ebef62b76d33) |
+| Sun, 05 Oct 2025 17:51:53 GMT | Spring Boot + OAuth2: The Modern Security Blueprint for 2025 Apps | CodeTalks | [Read More](https://medium.com/p/5d72c46bbc73) |
+| Sun, 05 Oct 2025 17:48:12 GMT | ️ Why Security Is Critical — and How to Secure & Launch an AI Agent | Rajesh Devadasan | [Read More](https://medium.com/p/3f68f67abf20) |
+| Sun, 05 Oct 2025 17:42:52 GMT | ️ Security Awareness: The Human Shield Against Cyber Threats | Asif.k | [Read More](https://medium.com/p/6ffcd84c1694) |
+| Sun, 05 Oct 2025 17:42:22 GMT | Access Control Vulnerabilities(Through Burp Suite Labs) Pt. 1: Vertical Privilege Escalation | heckor | [Read More](https://medium.com/p/63acbce0afce) |
+| Sun, 05 Oct 2025 17:40:02 GMT | TryHackMe Basic Pentesting —  Complete Walkthrough | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/893bb69a426c) |
+| Sun, 05 Oct 2025 17:37:33 GMT | Action1 for Device Management: What I’ve Learned | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/830c986bdd16) |
 | Sun, 05 Oct 2025 17:30:47 GMT | Rev Shell from a Web Shell and how to tell what tools to use! | n0t_brit | [Read More](https://medium.com/p/8f570add44da) |
 | Sun, 05 Oct 2025 17:27:35 GMT | Where Do All the Unsent Messages Go? | SuccessBlueprints.Org | [Read More](https://medium.com/p/ce78ec42a266) |
 | Sun, 05 Oct 2025 17:25:20 GMT | Signing and Encryption With JWS and JWE | İbrahim Gündüz | [Read More](https://medium.com/p/017c23b5246d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 12:33:06 GMT | OverTheWire: Wargames — Natas (Level 1–15) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/7a737a0c74da) |
 | Sun, 05 Oct 2025 12:31:37 GMT | About Me — Hrudhaya Harshavardhan | Harshahay | [Read More](https://medium.com/p/906c339d752b) |
 | Sun, 05 Oct 2025 12:30:27 GMT | September Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/74cfc6b4e3c0) |
-| Sun, 05 Oct 2025 12:28:55 GMT | Data Safety Awareness Series – Post 3 | Juned Silavat | [Read More](https://medium.com/p/80e14f141a28) |
-| Sun, 05 Oct 2025 12:26:24 GMT | Mastering Kubernetes Resource Validation: A Complete Guide to Policy-as-Code with Datree | Salwan Mohamed | [Read More](https://medium.com/p/692d2d06231e) |
-| Sun, 05 Oct 2025 12:21:53 GMT | Android Application Reverse Engineering: Unveiling Hidden Secrets | Rizqi Mulki | [Read More](https://medium.com/p/df22f437378a) |
-| Sun, 05 Oct 2025 12:21:26 GMT | ISO/IEC 42001: The Global Standard for AI Management Systems | Mayur Pahwa | [Read More](https://medium.com/p/159c942d9ca9) |
-| Sun, 05 Oct 2025 12:13:19 GMT | Memory Corruption in Web Applications - HackTheBox Rainbow Writeup | Motasem Hamdan | [Read More](https://medium.com/p/0e83557ac64a) |
-| Sun, 05 Oct 2025 12:09:36 GMT | Loan Milo app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please.xnj | nopax16959@vsihay.com | [Read More](https://medium.com/p/b9ad5e5d2479) |
-| Sun, 05 Oct 2025 12:08:41 GMT | What Is Cybersecurity and Why It’s More Important Than Ever? | SIIMT University College, Ghana | [Read More](https://medium.com/p/795d4411e08e) |
-| Sun, 05 Oct 2025 12:08:27 GMT | How to Build an AI Assistant That Writes Better Python Code Than Us | Rizqi Mulki | [Read More](https://medium.com/p/3868d9b67726) |
-| Sun, 05 Oct 2025 12:08:22 GMT | The Hidden Python Framework That’s Faster Than Node.js | Rizqi Mulki | [Read More](https://medium.com/p/d3f747543abe) |
-| Sun, 05 Oct 2025 12:02:04 GMT | AD-RTA Exam | Umar Aziz | [Read More](https://medium.com/p/46b1d09a2097) |
-| Sun, 05 Oct 2025 11:58:25 GMT | Loan Milo app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please..ggv | hasof53156@unrays.com | [Read More](https://medium.com/p/f7f06ba67249) |
-| Sun, 05 Oct 2025 11:57:56 GMT | Part 5: Proxies, WebRTC, and Killing IP Leaks | Pannag Kumaar | [Read More](https://medium.com/p/49faf319b643) |
-| Sun, 05 Oct 2025 11:52:24 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/32990cee58c9) |
-| Sun, 05 Oct 2025 11:49:44 GMT | The $250,000 Bug — My Journey Unpacking CVE-2025-4609 | Hacker's Perspective | [Read More](https://medium.com/p/221960a0df21) |
-| Sun, 05 Oct 2025 11:46:26 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/e3cfd0802e99) |
