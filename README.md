@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 09:56:31 GMT | CCTV Camera Installation, Maintenance and Support Service in Bangladesh | optimationbd | [Read More](https://medium.com/p/d2a726679b1f) |
+| Sun, 05 Oct 2025 09:52:17 GMT | Level Up: Terraform & Azure — Security Admin’s Next Steps? | Authlyn | [Read More](https://medium.com/p/685d9c60a60a) |
+| Sun, 05 Oct 2025 09:44:29 GMT | PE File Structure Explained : A Guide to for Reverse Engineers & Developers | Shaheer Yasir | [Read More](https://medium.com/p/855a062c82cc) |
+| Sun, 05 Oct 2025 09:36:56 GMT | DISCORD CUSTOMER DATA LEAKED IN THIRD-PARTY SUPPORT HACK | sunduck | [Read More](https://medium.com/p/cdcd9013080d) |
+| Sun, 05 Oct 2025 09:35:16 GMT | Security and Reliability — How Casper Keeps the Network Trustworthy | Techy Hello | [Read More](https://medium.com/p/504ee35e6bb8) |
 | Sun, 05 Oct 2025 09:25:42 GMT | Supply Chain Escalation Playbook: Turning Third‑Party API Keys Into Your Biggest Breach Vector | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9cc6d2e106aa) |
 | Sun, 05 Oct 2025 09:25:41 GMT | JtR’s Secrets: From Zero to Cracking Hero | SilentInject | [Read More](https://medium.com/p/67e71cfd2cc5) |
 | Sun, 05 Oct 2025 09:16:11 GMT | Ports and Nmap: The Hidden Gateways of the Internet Every Hacker (and Defender) Should Know. | Roshan Khadka | [Read More](https://medium.com/p/42fbd8c21cc2) |
@@ -109,8 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sun, 05 Oct 2025 00:13:03 GMT | Tinker Tailor LLM Spy: Investigate & Respond to Attacks on GenAI Chatbots | Andrew Paul | [Read More](https://medium.com/p/eb7bc856be35) |
 | Sun, 05 Oct 2025 00:04:32 GMT | How I Found CoinCollect Experts on Google and Got My BTC Back | Se Lina | [Read More](https://medium.com/p/36bb303e51df) |
 | Sat, 04 Oct 2025 23:52:04 GMT | Cybersecurity Foundations Series: Part 5 — Understanding Security Controls | TechStoryLines | [Read More](https://medium.com/p/9335f100dd7d) |
-| Sat, 04 Oct 2025 23:46:39 GMT | Recon IV: POST Fuzzing | Taulan Zauzanov | [Read More](https://medium.com/p/c2693b430e0a) |
-| Sat, 04 Oct 2025 23:42:02 GMT | Deep Dive on ptrace: Reverse Engineering Linux System Calls | Stanislav Babenko | [Read More](https://medium.com/p/80c693d94e10) |
-| Sat, 04 Oct 2025 23:21:54 GMT | Semantic Text Similarity for Cybersecurity Maturity Assessment | Andriyan Saputra | [Read More](https://medium.com/p/b1bdbe23c5bd) |
-| Sat, 04 Oct 2025 23:14:09 GMT | How I Learned the Language of Trust: My Journey into PKI and Certificate Authorities | Incidalus | [Read More](https://medium.com/p/77aa6f322bb2) |
-| Sat, 04 Oct 2025 23:04:41 GMT | Why Defensive Scripters Are the Ghosts in the Machine | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/87c2d3b5796a) |
