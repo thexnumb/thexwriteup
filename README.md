@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 14:28:57 GMT | THM - XDR: Operation Global Dagger 2 | Francesco Pastore | [Read More](https://medium.com/p/bcec9fcbc623) |
+| Sun, 05 Oct 2025 14:27:52 GMT | A Guide to Secure DevOps and DevSecOps | Samina Perveen | [Read More](https://medium.com/p/ba2d90a67053) |
+| Sun, 05 Oct 2025 14:22:58 GMT | AI Is Spying On You: The Privacy Myth We’re All Believing | Medium Quill | [Read More](https://medium.com/p/2741301ec1d2) |
+| Sun, 05 Oct 2025 14:19:43 GMT | The Night Grief Taught Me to Hold Myself Gently | Darpan Murly | [Read More](https://medium.com/p/0d3574dde02e) |
+| Sun, 05 Oct 2025 14:19:24 GMT | The Art of Threat Hunting | Jay Nagrecha | [Read More](https://medium.com/p/ba6e385d6cdc) |
+| Sun, 05 Oct 2025 14:17:52 GMT | I Used ChatGPT for Security Policies. Big Mistake. | Cyberkech | [Read More](https://medium.com/p/356f81b2bab5) |
+| Sun, 05 Oct 2025 14:14:19 GMT | Benchmarking Claude 4 vs Claude 4.5 for Penetration testing | Daniel Knight | [Read More](https://medium.com/p/86b0acc1f20c) |
 | Sun, 05 Oct 2025 14:03:42 GMT | Why Early Entry into ABTU Matters | Abatis ABTU | [Read More](https://medium.com/p/1d555440e9c1) |
 | Sun, 05 Oct 2025 14:02:11 GMT | Slow Internet Could Be Killing Your Business Growth | Janeel Abrahams | [Read More](https://medium.com/p/a00bf7503570) |
 | Sun, 05 Oct 2025 13:56:21 GMT | Your First Paid Bounty: A Real Case Study | Fateyaly | [Read More](https://medium.com/p/1312aeddfa0a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 09:02:53 GMT | Manufacturing the Future: Strategic IT Operations in an AI-Driven World | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/3ee93c15e488) |
 | Sun, 05 Oct 2025 09:01:13 GMT | API Key Pivoting Playbook: Turning One Key Into Full Infrastructure Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/03831c0e95a3) |
 | Sun, 05 Oct 2025 08:47:46 GMT | Building a Security Program on a Startup Budget: Where to Invest First | Dera E. | [Read More](https://medium.com/p/cd0c4182b524) |
-| Sun, 05 Oct 2025 08:42:09 GMT | Terraform and Ansible Security Vulnerabilities: The Invisible Dangers of the Automation World | Esra Kayhan | [Read More](https://medium.com/p/73b47b72309e) |
-| Sun, 05 Oct 2025 08:24:18 GMT | How a £0.30 PayPal Payment Nearly Fooled Me: Inside the Fake ‘Cash-Out’ Game Scam | Harry.needs.help. Crazy.killer clown | [Read More](https://medium.com/p/24aef9c9b6fe) |
-| Sun, 05 Oct 2025 08:22:19 GMT | PromptLock: When AI Learns to Hold Your Data Hostage | Naveen Manwani | [Read More](https://medium.com/p/4c1761a81762) |
-| Sun, 05 Oct 2025 08:18:51 GMT | Why Clear Scoping and Security Alignment Are Non-Negotiable When Working with External Vendors | Madhulika Das | [Read More](https://medium.com/p/68e36f5a9daf) |
-| Sun, 05 Oct 2025 08:10:26 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/12cbb50f3917) |
-| Sun, 05 Oct 2025 08:08:09 GMT | Privilege Escalation with Kubernetes RBAC Misconfigurations | Esra Kayhan | [Read More](https://medium.com/p/8add491d99f7) |
-| Sun, 05 Oct 2025 08:07:16 GMT | Network Traffic Recon: Capturing API Keys from Misconfigured Apps | Narendar Battula (nArEn) | [Read More](https://medium.com/p/25faf1a333e9) |
