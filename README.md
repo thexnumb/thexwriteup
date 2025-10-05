@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 03:38:05 GMT | Cybersecurity on a Budget: Free Tools to Protect Yourself Online | Aj | [Read More](https://medium.com/p/760660406af9) |
+| Sun, 05 Oct 2025 03:31:52 GMT | The Trojan Horse in Your Browser: How a “Verified” Chrome VPN Spied on 100,000 Users | Deven Chhajed | [Read More](https://medium.com/p/c65cf8f4d173) |
+| Sun, 05 Oct 2025 03:19:38 GMT | How I Found My First $100 Bug — by Accident, with Two Accounts and a Race Condition | Abhishek sharma | [Read More](https://medium.com/p/793171607fe9) |
+| Sun, 05 Oct 2025 03:10:56 GMT | The Anger I Never Wanted to Write About | Darpan Murly | [Read More](https://medium.com/p/9c2f89702f74) |
 | Sun, 05 Oct 2025 03:03:30 GMT | The Role of Discipline in Campus Security
 Introduction
 A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More](https://medium.com/p/4bfbb62b8aff) |
@@ -35,6 +39,7 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sun, 05 Oct 2025 00:31:51 GMT | DevSecOps in the Age of AI: How to Secure Your Code and Models End-to-End | Talent Bridge | [Read More](https://medium.com/p/1e9e27a137a0) |
 | Sun, 05 Oct 2025 00:27:29 GMT | Scary facts about Google | Ali | [Read More](https://medium.com/p/3b567b1309dc) |
 | Sun, 05 Oct 2025 00:23:14 GMT | AIG Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/6029720dc832) |
+| Sun, 05 Oct 2025 00:16:19 GMT | The SimpleVulnerabilities in Web Applications | Kakashi | [Read More](https://medium.com/p/14eb496b06cf) |
 | Sun, 05 Oct 2025 00:16:13 GMT | Docker scan é simples, mas ninguém faz | Maico Moreira | [Read More](https://medium.com/p/9860d49d7f1b) |
 | Sun, 05 Oct 2025 00:13:03 GMT | Tinker Tailor LLM Spy: Investigate & Respond to Attacks on GenAI Chatbots | Andrew Paul | [Read More](https://medium.com/p/eb7bc856be35) |
 | Sun, 05 Oct 2025 00:04:32 GMT | How I Found CoinCollect Experts on Google and Got My BTC Back | Se Lina | [Read More](https://medium.com/p/36bb303e51df) |
@@ -109,8 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 17:34:34 GMT | Building my home server: Part 1 | Denes Beck | [Read More](https://medium.com/p/19dfaa73dc97) |
 | Sat, 04 Oct 2025 17:33:52 GMT | AI can be hallucinating while responding, and you need to be aware of that. | Iqra Mushtaq | [Read More](https://medium.com/p/97ece92a9277) |
 | Sat, 04 Oct 2025 17:30:23 GMT | Hack The Box — Power Greed: Complete Pwn Writeup & ROP Explained (Part 1) | Geexirooz | [Read More](https://medium.com/p/f6e560465dbc) |
-| Sat, 04 Oct 2025 17:20:33 GMT | How I weaponised a registration flow bug and OTP bypass technique to hijack accounts. | Amit Dutta | [Read More](https://medium.com/p/23758688e38d) |
-| Sat, 04 Oct 2025 17:18:40 GMT | Investigating Windows — TryHackMe Walkthrough | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/8bdde007d90b) |
-| Sat, 04 Oct 2025 17:16:55 GMT | Double Phishing Threat: Ukraine Impersonators and Copyright Scams | Aj | [Read More](https://medium.com/p/d8842450c13d) |
-| Sat, 04 Oct 2025 17:15:53 GMT | The Art of iPerf3: Master Troubleshooting | Steve Matindi | [Read More](https://medium.com/p/0739dd16644f) |
-| Sat, 04 Oct 2025 17:09:57 GMT | Implementing Zero Trust Security: A Strategic Imperative for Small Businesses | Paul Talbot | [Read More](https://medium.com/p/ae0133426b48) |
