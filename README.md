@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 11:30:28 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/58f3eb99f6d3) |
+| Sun, 05 Oct 2025 11:28:41 GMT | I Ran an EASM Sweep — The Findings Terrified Me (And They Should Terrify Every Engineering Leader) | Azim Uddin | [Read More](https://medium.com/p/dfecd9ec5318) |
+| Sun, 05 Oct 2025 11:27:19 GMT | TryHackMe - PrintNightmare, again! - WriteUp | Axoloth | [Read More](https://medium.com/p/3ecdef5e0b93) |
+| Sun, 05 Oct 2025 11:24:13 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/ed574c4a67c2) |
+| Sun, 05 Oct 2025 11:21:44 GMT | New Data Exfiltration Technique Using Brave Sync | Pak Cyberbot | [Read More](https://medium.com/p/3fe5313c5e59) |
+| Sun, 05 Oct 2025 11:14:10 GMT | Building Ping from Scratch: A Deep Dive into Network Internals | Othman Nouakchi | [Read More](https://medium.com/p/7bef7a020b8a) |
+| Sun, 05 Oct 2025 11:11:56 GMT | Building a Dynamic A/B Testing Platform with Journey Mapping in Angular | Ronik Dedhia | [Read More](https://medium.com/p/91d126914648) |
+| Sun, 05 Oct 2025 11:11:04 GMT | Samsung Galaxy S2: A Phone That Refuses to Be Forgotten | Rahul Das Gupta | [Read More](https://medium.com/p/8789800c8f82) |
 | Sun, 05 Oct 2025 11:07:57 GMT | The Illusion of Security: When IT Teams Don’t Understand What They’re Securing | Sajidur Rahman | [Read More](https://medium.com/p/1c9d3768f62c) |
+| Sun, 05 Oct 2025 11:04:59 GMT | On Gratitude and Fulfillment | Anne Sophie Andersen | [Read More](https://medium.com/p/14c68bb21370) |
 | Sun, 05 Oct 2025 11:04:15 GMT | Samsung Galaxy S2: Revisiting the Phone That Felt Like Magic | Ahamed Afran | [Read More](https://medium.com/p/9215a8a7039e) |
 | Sun, 05 Oct 2025 11:01:49 GMT | XDR: Introduction | Cheryl Maise Lobo | [Read More](https://medium.com/p/214885c00bfb) |
 | Sun, 05 Oct 2025 11:01:12 GMT | CH4:Logistic regression | Lantera | [Read More](https://medium.com/p/fcef2d54cdbb) |
@@ -64,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 07:34:59 GMT | Intro to Cross-site Scripting Tryhackme Walkthrough | Laakhi Shivhare | [Read More](https://medium.com/p/88cf18ca2a99) |
 | Sun, 05 Oct 2025 07:34:39 GMT | Partitioning Strategies for High-Performance Secure PostgreSQL Databases | Rizqi Mulki | [Read More](https://medium.com/p/f2e19d13ad60) |
 | Sun, 05 Oct 2025 07:29:44 GMT | PostgreSQL Connection Pooling: Balancing Performance, Security, and AI Workloads | Rizqi Mulki | [Read More](https://medium.com/p/ced876096a9c) |
+| Sun, 05 Oct 2025 07:27:50 GMT | DNS Hijacking for Dummies: Why Your API’s Domain Name is a Target | InstaTunnel | [Read More](https://medium.com/p/5cd669ff906b) |
 | Sun, 05 Oct 2025 07:25:43 GMT | CRT-ID Exam - Full Walkthrough | Abdul Ahad | [Read More](https://medium.com/p/88fe96faed4f) |
 | Sun, 05 Oct 2025 07:25:36 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/6af0cd9f4d74) |
 | Sun, 05 Oct 2025 07:23:39 GMT | Blind SQL Injection with Conditional Errors | Marduk I Am | [Read More](https://medium.com/p/7850fe9bc73b) |
@@ -83,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 06:21:25 GMT | Forrester’s 2026 Cybersecurity and Risk Predictions: Key Highlights | Balasubramaniam GD | [Read More](https://medium.com/p/12bda7e9890f) |
 | Sun, 05 Oct 2025 06:08:43 GMT | الأمن الرقمي ليس كما تظن: حقائق صادمة يكشفها الخبراء | Ali AlEnezi | [Read More](https://medium.com/p/de941deda89f) |
 | Sun, 05 Oct 2025 05:53:21 GMT | 7 Python Hacks That Taught Me More About Security Than Any Course | Muhummad Zaki | [Read More](https://medium.com/p/55320b008d11) |
+| Sun, 05 Oct 2025 05:32:28 GMT | SubHub: Powering Real-Time Alerts for the Web3 Era | EHMPE RHOR | [Read More](https://medium.com/p/21f16a7d72bd) |
 | Sun, 05 Oct 2025 05:23:39 GMT | Prompt Injection: A Deep Dive | Enrique Fueyo | [Read More](https://medium.com/p/864ac56b2bd3) |
 | Sun, 05 Oct 2025 05:23:22 GMT | LLM Agens and TOCTOU Vulnerabilities (EN) | Kemal AKCIL | [Read More](https://medium.com/p/df49d397aa81) |
 | Sun, 05 Oct 2025 05:23:09 GMT | Binary: The Language That Runs the World (and Your Wi-Fi) | Araiz Naqvi | [Read More](https://medium.com/p/710b55164052) |
@@ -101,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 04:05:13 GMT | HTB - Paper WriteUP | Sean Knight | [Read More](https://medium.com/p/5b8eb84618fd) |
 | Sun, 05 Oct 2025 03:52:45 GMT | Lapsus$ is Back, and They’ve Brought Friends: Say Hello to “Scattered LAPSUS$ Hunters | Prity Kumari | [Read More](https://medium.com/p/f6a33695aefd) |
 | Sun, 05 Oct 2025 03:42:00 GMT | Vulnerability Capstone Room Write Up | Ethan Wang | [Read More](https://medium.com/p/af0b18a3cc7f) |
-| Sun, 05 Oct 2025 03:38:05 GMT | Cybersecurity on a Budget: Free Tools to Protect Yourself Online | Aj | [Read More](https://medium.com/p/760660406af9) |
-| Sun, 05 Oct 2025 03:31:52 GMT | The Trojan Horse in Your Browser: How a “Verified” Chrome VPN Spied on 100,000 Users | Deven Chhajed | [Read More](https://medium.com/p/c65cf8f4d173) |
-| Sun, 05 Oct 2025 03:19:38 GMT | How I Found My First $100 Bug — by Accident, with Two Accounts and a Race Condition | Abhishek sharma | [Read More](https://medium.com/p/793171607fe9) |
-| Sun, 05 Oct 2025 03:10:56 GMT | The Anger I Never Wanted to Write About | Darpan Murly | [Read More](https://medium.com/p/9c2f89702f74) |
-| Sun, 05 Oct 2025 03:03:30 GMT | The Role of Discipline in Campus Security
-Introduction
-A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More](https://medium.com/p/4bfbb62b8aff) |
-| Sun, 05 Oct 2025 02:49:59 GMT | Building Secure Multi-Tenant SaaS: Secure Architecture Patterns That Scale | Niranjan Sharma | [Read More](https://medium.com/p/993e2ea0a5d8) |
-| Sun, 05 Oct 2025 02:37:32 GMT | My Secret Routine That Helped Me Cross $5000 in Freelance Earnings | Neha Singh | [Read More](https://medium.com/p/c74f45b6a1ab) |
-| Sun, 05 Oct 2025 02:35:58 GMT | Virtualization Security Management | Raviteja Mureboina | [Read More](https://medium.com/p/afe13eac7f01) |
-| Sun, 05 Oct 2025 02:31:47 GMT | Session-Level Identity in AI-Driven Workflows: The New Frontier of Enterprise Risk | Akilnath Bodipudi | [Read More](https://medium.com/p/8de1fd6d0578) |
-| Sun, 05 Oct 2025 02:29:57 GMT | Defining Cyber Risk, Cyber Risk Scoring, and Cyber Risk Quantification | Juan Pablo Castro | [Read More](https://medium.com/p/daf91d2e460d) |
-| Sun, 05 Oct 2025 02:26:26 GMT | TryHackMe #91 - TShark Challenge II: Directory | 0xGroot | [Read More](https://medium.com/p/19db2e076750) |
