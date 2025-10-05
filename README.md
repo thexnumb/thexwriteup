@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 18:26:24 GMT | Part 2: intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/c92d7f2b5cad) |
+| Sun, 05 Oct 2025 18:23:36 GMT | Week 9 of My 90-Day Challenge: Last-Minute Prep and New Burp Features | Mike (sl0th0x87) | [Read More](https://medium.com/p/129f46c77e45) |
 | Sun, 05 Oct 2025 18:14:46 GMT | PicoCTF Writeup 2: Where are the robots | Agarwaldaksh | [Read More](https://medium.com/p/0aee3ad42527) |
 | Sun, 05 Oct 2025 18:11:31 GMT | Building an Automated Cybersecurity News Summary System with n8n | Yusuf Can Çakır | [Read More](https://medium.com/p/24d5ded6c161) |
 | Sun, 05 Oct 2025 18:11:27 GMT | 6 Platforms Every Bug Bounty Hunter Should Know. | Willow Tech | [Read More](https://medium.com/p/d401b8485009) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 12:36:55 GMT | Information Gathering | Red_Ghost | [Read More](https://medium.com/p/540c4e2099b4) |
 | Sun, 05 Oct 2025 12:33:53 GMT | SELinux Policies Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d27b834b94bd) |
 | Sun, 05 Oct 2025 12:33:06 GMT | OverTheWire: Wargames — Natas (Level 1–15) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/7a737a0c74da) |
-| Sun, 05 Oct 2025 12:31:37 GMT | About Me — Hrudhaya Harshavardhan | Harshahay | [Read More](https://medium.com/p/906c339d752b) |
-| Sun, 05 Oct 2025 12:30:27 GMT | September Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/74cfc6b4e3c0) |
