@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 03:03:30 GMT | The Role of Discipline in Campus Security
+Introduction
+A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More](https://medium.com/p/4bfbb62b8aff) |
+| Sun, 05 Oct 2025 02:49:59 GMT | Building Secure Multi-Tenant SaaS: Secure Architecture Patterns That Scale | Niranjan Sharma | [Read More](https://medium.com/p/993e2ea0a5d8) |
+| Sun, 05 Oct 2025 02:37:32 GMT | My Secret Routine That Helped Me Cross $5000 in Freelance Earnings | Neha Singh | [Read More](https://medium.com/p/c74f45b6a1ab) |
+| Sun, 05 Oct 2025 02:35:58 GMT | Virtualization Security Management | Raviteja Mureboina | [Read More](https://medium.com/p/afe13eac7f01) |
+| Sun, 05 Oct 2025 02:31:47 GMT | Session-Level Identity in AI-Driven Workflows: The New Frontier of Enterprise Risk | Akilnath Bodipudi | [Read More](https://medium.com/p/8de1fd6d0578) |
+| Sun, 05 Oct 2025 02:29:57 GMT | Defining Cyber Risk, Cyber Risk Scoring, and Cyber Risk Quantification | Juan Pablo Castro | [Read More](https://medium.com/p/daf91d2e460d) |
+| Sun, 05 Oct 2025 02:26:26 GMT | TryHackMe #91 - TShark Challenge II: Directory | 0xGroot | [Read More](https://medium.com/p/19db2e076750) |
+| Sun, 05 Oct 2025 02:22:10 GMT | Pier Walkthrough — Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/abb733a81079) |
+| Sun, 05 Oct 2025 02:21:52 GMT | TryHackMe #90 - TShark Challenge I: Teamwork | 0xGroot | [Read More](https://medium.com/p/cace5f73272b) |
+| Sun, 05 Oct 2025 02:16:25 GMT | TryHackMe #89 - TShark: CLI Wireshark Features | 0xGroot | [Read More](https://medium.com/p/56107d10a77e) |
+| Sun, 05 Oct 2025 02:12:10 GMT | TryHackMe #88 - TShark: The Basics | 0xGroot | [Read More](https://medium.com/p/3a1b11f41d53) |
+| Sun, 05 Oct 2025 02:11:44 GMT | Billyboss Walkthrough Proving Grounds Practice | Maxwell Ferreira | [Read More](https://medium.com/p/728a3b502bdb) |
+| Sun, 05 Oct 2025 02:07:01 GMT | TryHackMe #87 - Wireshark: Traffic Analysis | 0xGroot | [Read More](https://medium.com/p/6158f45c1ab5) |
+| Sun, 05 Oct 2025 01:52:21 GMT | Virtual Workspaces Made Simple | Raviteja Mureboina | [Read More](https://medium.com/p/17c78458de10) |
 | Sun, 05 Oct 2025 01:02:32 GMT | Essential MikroTik WAN Security: A Beginner’s Hardening Guide | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/26e987c5c66a) |
 | Sun, 05 Oct 2025 00:59:15 GMT | Beyond the Blueprint: Reimagining IT Operations Management Through Central Architecture | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/4a14335f379a) |
 | Sun, 05 Oct 2025 00:40:07 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐ with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc atm | Blackbox | [Read More](https://medium.com/p/a7749754d0b4) |
@@ -98,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 17:16:55 GMT | Double Phishing Threat: Ukraine Impersonators and Copyright Scams | Aj | [Read More](https://medium.com/p/d8842450c13d) |
 | Sat, 04 Oct 2025 17:15:53 GMT | The Art of iPerf3: Master Troubleshooting | Steve Matindi | [Read More](https://medium.com/p/0739dd16644f) |
 | Sat, 04 Oct 2025 17:09:57 GMT | Implementing Zero Trust Security: A Strategic Imperative for Small Businesses | Paul Talbot | [Read More](https://medium.com/p/ae0133426b48) |
-| Sat, 04 Oct 2025 17:05:46 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/da594dd9ceb4) |
-| Sat, 04 Oct 2025 17:01:22 GMT | Stop Trusting Your JWT Tokens — Start Testing Them | Arif Rahman | [Read More](https://medium.com/p/4050a3bca54c) |
-| Sat, 04 Oct 2025 16:59:32 GMT | Data Safety Awareness Series – Post 2 | Juned Silavat | [Read More](https://medium.com/p/64a3e306eff8) |
-| Sat, 04 Oct 2025 16:58:01 GMT | To Bleed on Every Page | Alex Anton | [Read More](https://medium.com/p/09a56d25a639) |
-| Sat, 04 Oct 2025 16:57:15 GMT | Drosera: The Security Reflex Ethereum Has Been Missing | Tambel | [Read More](https://medium.com/p/efba634ab11b) |
-| Sat, 04 Oct 2025 16:50:49 GMT | The Apartment Complex Problem: Why Your Containers Aren’t as Isolated as You Think | Ted Hagos | [Read More](https://medium.com/p/f621b02bb474) |
-| Sat, 04 Oct 2025 16:49:39 GMT | Bouncing Back Stronger: The Resilient Vulnerable Leader | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/620986f00bb5) |
-| Sat, 04 Oct 2025 16:47:28 GMT | Hunting Ephemeral Processes on Linux — Startup (THM Walkthrough) | Sadineni Sai Sushanth | [Read More](https://medium.com/p/7509ac74b4f3) |
-| Sat, 04 Oct 2025 16:40:21 GMT | FortiGate SSL-VPN (Full Access Tunnel) Yapılandırması | Onur Altuğ | [Read More](https://medium.com/p/49ae46df13b4) |
-| Sat, 04 Oct 2025 16:30:37 GMT | Forgot password link doesn’t expire after used. | Ahmed Mahmoud | [Read More](https://medium.com/p/e55f0c5fe96f) |
-| Sat, 04 Oct 2025 16:27:30 GMT | Bad Guys watching YOU. | Syed Muhammad Mazhar Naqi Rizvi | [Read More](https://medium.com/p/d472004b8e1a) |
-| Sat, 04 Oct 2025 16:23:41 GMT | Vulnerabilities 101 — TryHackMe Room | Asif.k | [Read More](https://medium.com/p/78dbdd5b3a37) |
-| Sat, 04 Oct 2025 16:23:17 GMT | ☕ Cyber & Coffee | Cyber and Coffee | [Read More](https://medium.com/p/7263cef0eb4c) |
-| Sat, 04 Oct 2025 16:22:59 GMT | From Wildcards to Least Privilege: Hardening AWS IAM the Right Way | Srinivas Karnati | [Read More](https://medium.com/p/16bc35f6315a) |
