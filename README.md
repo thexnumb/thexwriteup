@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 22:05:32 GMT | The Future of Pentesting: How AI Agents Will Supercharge Red Teams | Yua Mikanana | [Read More](https://medium.com/p/0a184f9af231) |
+| Sun, 05 Oct 2025 22:04:01 GMT | The OTP That Told on Itself — How I Bypassed Email Verification with One Wrong Code | 3eyedraven | [Read More](https://medium.com/p/67236eb803a1) |
+| Sun, 05 Oct 2025 22:02:56 GMT | Leading with confidence: A board’s Role in school Cyber Risk Management | Bertrand Nkali | [Read More](https://medium.com/p/2ad414cb56f4) |
+| Sun, 05 Oct 2025 21:48:39 GMT | The Dark Side of Bug Bounties: How HackerOne’s Ruthless Triage Team Took Down Real Cybercriminal(s) | Justas_b | [Read More](https://medium.com/p/0f4464632afe) |
+| Sun, 05 Oct 2025 21:47:03 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/af52211c0126) |
+| Sun, 05 Oct 2025 21:40:29 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/125143df03f5) |
+| Sun, 05 Oct 2025 21:37:55 GMT | I Found a Critical Bug in 7 Minutes with This Subdomain Enumeration Method | Ibtissam hammadi | [Read More](https://medium.com/p/c1d3e7514397) |
+| Sun, 05 Oct 2025 21:37:55 GMT | Wearable Healthcare Devices and Cybersecurity: A Double-Edged Sword | Gayatriv | [Read More](https://medium.com/p/adeaf2efbc6b) |
+| Sun, 05 Oct 2025 21:33:08 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/60401bf4189c) |
+| Sun, 05 Oct 2025 21:32:13 GMT | 7 DuckDB-WASM Security Checks for Client-Side SQL | Nexumo | [Read More](https://medium.com/p/0e4f4860cbe8) |
 | Sun, 05 Oct 2025 21:31:46 GMT | Beyond Differential Privacy: Preventing Cyber Attacks in Enterprise AI Systems | Nishi Kaura | [Read More](https://medium.com/p/6c0016274e6f) |
 | Sun, 05 Oct 2025 21:29:30 GMT | What Startups Get Wrong About Cybersecurity — Insights from Mohammed of Lyte Technologies | Mohammed Joof | [Read More](https://medium.com/p/868650b7263e) |
 | Sun, 05 Oct 2025 21:26:02 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/f184c1ae7ba7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 15:05:40 GMT | 50 Jobs at Risk of Being Replaced by AI: How to Survive | Dr. Mahesh Kumar | [Read More](https://medium.com/p/6b83435e226b) |
 | Sun, 05 Oct 2025 15:02:07 GMT | An das Gewissen der Weltöffentlichkeit, | Heidikoch | [Read More](https://medium.com/p/b50d178ba876) |
 | Sun, 05 Oct 2025 14:57:44 GMT | Internet Of Things — Digital Output (Practical Assignment) | Zifa Tea Azzahra | [Read More](https://medium.com/p/52a16e888612) |
-| Sun, 05 Oct 2025 14:56:37 GMT | ✅ Cyber Hygiene: Your Weekly Ritual to Stay Safe Online | aysha | [Read More](https://medium.com/p/b7894736a4a9) |
-| Sun, 05 Oct 2025 14:55:21 GMT | eMAPT 2025 — Como la conseguí? | eldeim | [Read More](https://medium.com/p/fbdb6a05b2a2) |
-| Sun, 05 Oct 2025 14:42:24 GMT | Business Logic Flaws Uncovered: A Bug Hunter’s Series Launch | Yamini Yadav_369 | [Read More](https://medium.com/p/38d171dadfe4) |
-| Sun, 05 Oct 2025 14:42:16 GMT | Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny | Yamini Yadav_369 | [Read More](https://medium.com/p/b5520da54f1a) |
-| Sun, 05 Oct 2025 14:42:07 GMT | The Power of Self-Reliance: Learning to Hold Your Own Umbrella | kate spider | [Read More](https://medium.com/p/697389257f9e) |
-| Sun, 05 Oct 2025 14:42:01 GMT | The Identity Crisis: Being Human When Machines Think Like Us | Abduldattijo | [Read More](https://medium.com/p/acb7c4e68f8d) |
-| Sun, 05 Oct 2025 14:37:43 GMT | Cybersecurity Fundamentals for AI-Driven Fraud Detection | Rana El Garhi | [Read More](https://medium.com/p/ee780ab0f3c7) |
-| Sun, 05 Oct 2025 14:31:52 GMT | Corporate Greed Chronicles: The Greed-Fueled Joyride at J.B. Hunt | Namir Sagheenanajar | [Read More](https://medium.com/p/a7b77b2dab58) |
-| Sun, 05 Oct 2025 14:31:52 GMT | The Untold Story of Routers & Switches: The Real Traffic Police of the Internet | Thegreatpayload | [Read More](https://medium.com/p/9c8cfbb9fd3c) |
-| Sun, 05 Oct 2025 14:28:57 GMT | THM - XDR: Operation Global Dagger 2 | Francesco Pastore | [Read More](https://medium.com/p/bcec9fcbc623) |
