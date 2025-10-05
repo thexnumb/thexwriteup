@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 07:29:44 GMT | PostgreSQL Connection Pooling: Balancing Performance, Security, and AI Workloads | Rizqi Mulki | [Read More](https://medium.com/p/ced876096a9c) |
+| Sun, 05 Oct 2025 07:25:43 GMT | CRT-ID Exam - Full Walkthrough | Abdul Ahad | [Read More](https://medium.com/p/88fe96faed4f) |
+| Sun, 05 Oct 2025 07:25:36 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/6af0cd9f4d74) |
+| Sun, 05 Oct 2025 07:23:39 GMT | Blind SQL Injection with Conditional Errors | Marduk I Am | [Read More](https://medium.com/p/7850fe9bc73b) |
+| Sun, 05 Oct 2025 07:21:54 GMT | what is Telemetry?!! | Ahmad Safari | [Read More](https://medium.com/p/f6604b986ac6) |
+| Sun, 05 Oct 2025 07:20:39 GMT | Mastering Google Dorking: Discovering Website Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/0f5720ce45ae) |
+| Sun, 05 Oct 2025 07:20:14 GMT | Secrets Hackers Don’t Tell: Recon Techniques That Actually Pay | Vipul Sonule | [Read More](https://medium.com/p/dc1940363187) |
+| Sun, 05 Oct 2025 07:18:54 GMT | My Recon Automation Found an Email Confirmation Bypass | Ibtissam hammadi | [Read More](https://medium.com/p/c3c7c337f8a9) |
+| Sun, 05 Oct 2025 07:17:29 GMT | Hacking with GPT: Can AI Actually Find Bugs, or Just Generate Noise? | Đeepanshu | [Read More](https://medium.com/p/362111caef80) |
+| Sun, 05 Oct 2025 07:07:33 GMT | LetsDefend SOC Alerts - SOC 136- Event ID: 74 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/e332fe3a3cbe) |
 | Sun, 05 Oct 2025 06:56:45 GMT | Multi-Tenancy Fundamentals: Designing Scalable and Secure Applications | Andreas Christou | [Read More](https://medium.com/p/b084f5d98ebf) |
 | Sun, 05 Oct 2025 06:56:05 GMT | Discord’s Third-Party Nightmare: ShinyHunters Breach Exposes User ID’s and Billing Data | devmihaylov | [Read More](https://medium.com/p/93fb67e11cb0) |
 | Sun, 05 Oct 2025 06:47:23 GMT | The UK Digital ID Scheme: Illegal Immigration Fix or Failure? | Esra G | [Read More](https://medium.com/p/3f944ad8a710) |
@@ -104,13 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 20:15:11 GMT | Exploring BrowsingHistoryView: A Simple Way to Uncover Web Activity | Allen Ace | [Read More](https://medium.com/p/5bcf2dd7a811) |
 | Sat, 04 Oct 2025 20:06:32 GMT | CS student tries to evade AV (PART 1) | Mahmudul Hasan | [Read More](https://medium.com/p/ad8452f38079) |
 | Sat, 04 Oct 2025 19:57:53 GMT | Lab 3 — UNION SQL Injection: Determine Columns and Extract Database Data | Apexium Technologies Ltd | [Read More](https://medium.com/p/2503c8593ff1) |
-| Sat, 04 Oct 2025 19:53:38 GMT | Millennial Developer Nostalgia | Alessandro Bruschieri | [Read More](https://medium.com/p/79b1f5e510f8) |
-| Sat, 04 Oct 2025 19:50:48 GMT | Building a Secure Password Manager Database with MySQL | AlexN@InfoSec | [Read More](https://medium.com/p/fac0aa5e76ad) |
-| Sat, 04 Oct 2025 19:41:36 GMT | Safe Money to Get some VPS for your Self | Imran Niaz | [Read More](https://medium.com/p/3c8ad580d0e1) |
-| Sat, 04 Oct 2025 19:34:10 GMT | Portswigger mystery lab write up -Server-side template injection (SSTI): Basic server-side… | Hubert | [Read More](https://medium.com/p/36f944775743) |
-| Sat, 04 Oct 2025 19:32:15 GMT | Full Transcript: GDG Cloud Southlake #46: Ozan Unlu: AI at Scale in Observability and Security | Jim Anderson | [Read More](https://medium.com/p/da5fdbbcd05d) |
-| Sat, 04 Oct 2025 19:23:53 GMT | Disconnect to Reclaim: How I Built a Pocket-Sized Anti-Phone and Why You Should Too | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/115fc3f3dc1d) |
-| Sat, 04 Oct 2025 19:19:15 GMT | CyberDefenders: IcedID Malware | Rahaliashraf | [Read More](https://medium.com/p/5f8bd7ad6cb5) |
-| Sat, 04 Oct 2025 19:11:26 GMT | The Tea App Security Disaster: What Went Wrong and Why It Matters | Ayoub seddiki | [Read More](https://medium.com/p/984030500b53) |
-| Sat, 04 Oct 2025 19:05:38 GMT | Building a Malware Analysis Lab on Linux | Cenky | [Read More](https://medium.com/p/4855fc9a3609) |
-| Sat, 04 Oct 2025 19:02:34 GMT | ToxSec: Cybersecurity Awareness Month | ToxSec | [Read More](https://medium.com/p/ab3415ba8d15) |
