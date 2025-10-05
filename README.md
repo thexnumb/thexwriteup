@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 13:18:35 GMT | Navigating the Digital Vortex: The Elusive Quest for Sovereignty in an Interdependent World | Berend Watchus | [Read More](https://medium.com/p/20c3fc1e9100) |
+| Sun, 05 Oct 2025 13:17:38 GMT | Java File Upload and Download with Spring Boot REST API | Didin Jamaludin | [Read More](https://medium.com/p/c78193f44fcd) |
+| Sun, 05 Oct 2025 13:16:39 GMT | How to Create a Python Bot That Generates Viral Content | Rizqi Mulki | [Read More](https://medium.com/p/8b620497f906) |
+| Sun, 05 Oct 2025 13:06:21 GMT | AI Is Everywhere — But Who’s Securing It? | Samyakgoel | [Read More](https://medium.com/p/98529b294595) |
+| Sun, 05 Oct 2025 13:04:21 GMT | I Kept My Family Private… Then ChatGPT Wrote a Poem About My Kids' Details. | Mohamed Bakry | [Read More](https://medium.com/p/4ee601dd7750) |
+| Sun, 05 Oct 2025 12:58:44 GMT | Security and Performance Aspects of Sysctl Performance Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/5d972e169a99) |
+| Sun, 05 Oct 2025 12:55:42 GMT | Exploring how the UAE leads in using AI responsibly for crime prevention. | Haya Alobaidi | [Read More](https://medium.com/p/202707ca28cb) |
+| Sun, 05 Oct 2025 12:53:15 GMT | Trivy + Terraform: Detectando Misconfigurations antes do deploy | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/fe05ba72ee37) |
+| Sun, 05 Oct 2025 12:52:07 GMT | Red Team vs. Blue Team: Understanding Cybersecurity’s Two Sides | Maxwell Ferreira | [Read More](https://medium.com/p/4925182b82fa) |
+| Sun, 05 Oct 2025 12:49:39 GMT | Honor Loan app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please.jhf | wojekik983@unrays.com | [Read More](https://medium.com/p/be39724d9c2c) |
+| Sun, 05 Oct 2025 12:43:46 GMT | How a Single WhatsApp Message Can Take Control of Your Phone | Patrik Žák | [Read More](https://medium.com/p/981667cf30aa) |
+| Sun, 05 Oct 2025 12:43:35 GMT | Expert Guide to Security Hardening in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/eb05abf60ab6) |
 | Sun, 05 Oct 2025 12:36:55 GMT | Information Gathering | Red_Ghost | [Read More](https://medium.com/p/540c4e2099b4) |
+| Sun, 05 Oct 2025 12:33:53 GMT | SELinux Policies Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d27b834b94bd) |
+| Sun, 05 Oct 2025 12:33:06 GMT | OverTheWire: Wargames — Natas (Level 1–15) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/7a737a0c74da) |
 | Sun, 05 Oct 2025 12:31:37 GMT | About Me — Hrudhaya Harshavardhan | Harshahay | [Read More](https://medium.com/p/906c339d752b) |
 | Sun, 05 Oct 2025 12:30:27 GMT | September Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/74cfc6b4e3c0) |
 | Sun, 05 Oct 2025 12:28:55 GMT | Data Safety Awareness Series – Post 3 | Juned Silavat | [Read More](https://medium.com/p/80e14f141a28) |
+| Sun, 05 Oct 2025 12:26:24 GMT | Mastering Kubernetes Resource Validation: A Complete Guide to Policy-as-Code with Datree | Salwan Mohamed | [Read More](https://medium.com/p/692d2d06231e) |
 | Sun, 05 Oct 2025 12:21:53 GMT | Android Application Reverse Engineering: Unveiling Hidden Secrets | Rizqi Mulki | [Read More](https://medium.com/p/df22f437378a) |
 | Sun, 05 Oct 2025 12:21:26 GMT | ISO/IEC 42001: The Global Standard for AI Management Systems | Mayur Pahwa | [Read More](https://medium.com/p/159c942d9ca9) |
 | Sun, 05 Oct 2025 12:13:19 GMT | Memory Corruption in Web Applications - HackTheBox Rainbow Writeup | Motasem Hamdan | [Read More](https://medium.com/p/0e83557ac64a) |
@@ -62,6 +77,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 10:06:30 GMT | Brute force website logins using Hydra + Burp (beginner tutorial) | Jackson Mittag | [Read More](https://medium.com/p/9d0f59cffd81) |
 | Sun, 05 Oct 2025 09:56:31 GMT | CCTV Camera Installation, Maintenance and Support Service in Bangladesh | optimationbd | [Read More](https://medium.com/p/d2a726679b1f) |
 | Sun, 05 Oct 2025 09:52:17 GMT | Level Up: Terraform & Azure — Security Admin’s Next Steps? | Authlyn | [Read More](https://medium.com/p/685d9c60a60a) |
+| Sun, 05 Oct 2025 09:48:51 GMT | Truths About Bug Bounty for Beginners | Madhu Kanwat | [Read More](https://medium.com/p/b3f88bdeceaa) |
 | Sun, 05 Oct 2025 09:44:29 GMT | PE File Structure Explained : A Guide to for Reverse Engineers & Developers | Shaheer Yasir | [Read More](https://medium.com/p/855a062c82cc) |
 | Sun, 05 Oct 2025 09:36:56 GMT | DISCORD CUSTOMER DATA LEAKED IN THIRD-PARTY SUPPORT HACK | sunduck | [Read More](https://medium.com/p/cdcd9013080d) |
 | Sun, 05 Oct 2025 09:35:16 GMT | Security and Reliability — How Casper Keeps the Network Trustworthy | Techy Hello | [Read More](https://medium.com/p/504ee35e6bb8) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 07:27:50 GMT | DNS Hijacking for Dummies: Why Your API’s Domain Name is a Target | InstaTunnel | [Read More](https://medium.com/p/5cd669ff906b) |
 | Sun, 05 Oct 2025 07:25:43 GMT | CRT-ID Exam - Full Walkthrough | Abdul Ahad | [Read More](https://medium.com/p/88fe96faed4f) |
 | Sun, 05 Oct 2025 07:25:36 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/6af0cd9f4d74) |
-| Sun, 05 Oct 2025 07:23:39 GMT | Blind SQL Injection with Conditional Errors | Marduk I Am | [Read More](https://medium.com/p/7850fe9bc73b) |
-| Sun, 05 Oct 2025 07:21:54 GMT | what is Telemetry?!! | Ahmad Safari | [Read More](https://medium.com/p/f6604b986ac6) |
-| Sun, 05 Oct 2025 07:20:39 GMT | Mastering Google Dorking: Discovering Website Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/0f5720ce45ae) |
-| Sun, 05 Oct 2025 07:20:14 GMT | Secrets Hackers Don’t Tell: Recon Techniques That Actually Pay | Vipul Sonule | [Read More](https://medium.com/p/dc1940363187) |
-| Sun, 05 Oct 2025 07:18:54 GMT | My Recon Automation Found an Email Confirmation Bypass | Ibtissam hammadi | [Read More](https://medium.com/p/c3c7c337f8a9) |
-| Sun, 05 Oct 2025 07:17:29 GMT | Hacking with GPT: Can AI Actually Find Bugs, or Just Generate Noise? | Đeepanshu | [Read More](https://medium.com/p/362111caef80) |
-| Sun, 05 Oct 2025 07:07:33 GMT | LetsDefend SOC Alerts - SOC 136- Event ID: 74 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/e332fe3a3cbe) |
-| Sun, 05 Oct 2025 06:56:45 GMT | Multi-Tenancy Fundamentals: Designing Scalable and Secure Applications | Andreas Christou | [Read More](https://medium.com/p/b084f5d98ebf) |
-| Sun, 05 Oct 2025 06:56:05 GMT | Discord’s Third-Party Nightmare: ShinyHunters Breach Exposes User ID’s and Billing Data | devmihaylov | [Read More](https://medium.com/p/93fb67e11cb0) |
-| Sun, 05 Oct 2025 06:47:23 GMT | The UK Digital ID Scheme: Illegal Immigration Fix or Failure? | Esra G | [Read More](https://medium.com/p/3f944ad8a710) |
-| Sun, 05 Oct 2025 06:34:47 GMT | Learning to sit with my loneliness | Vijay Kumar Gupta | [Read More](https://medium.com/p/8bcc1c1b5faa) |
-| Sun, 05 Oct 2025 06:33:24 GMT | [TryHackMe Write-Up] Mr Robot CTF | x86luna | [Read More](https://medium.com/p/7e485cdb0885) |
-| Sun, 05 Oct 2025 06:24:52 GMT | Sherlocks —  introduction and Brutus Machine | Muhammad Bilal | [Read More](https://medium.com/p/430882aab232) |
-| Sun, 05 Oct 2025 06:21:39 GMT | Cybersecurity at Home: Protecting from Modern Threats | Jeremy Renner | [Read More](https://medium.com/p/f7d02dd89db3) |
-| Sun, 05 Oct 2025 06:21:25 GMT | Forrester’s 2026 Cybersecurity and Risk Predictions: Key Highlights | Balasubramaniam GD | [Read More](https://medium.com/p/12bda7e9890f) |
-| Sun, 05 Oct 2025 06:08:43 GMT | الأمن الرقمي ليس كما تظن: حقائق صادمة يكشفها الخبراء | Ali AlEnezi | [Read More](https://medium.com/p/de941deda89f) |
