@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 16:34:41 GMT | **How Apple’s “Hide My Email” and Google Sign-In Can Break Your App’s One-Account Policy | Be nice insabat | [Read More](https://medium.com/p/e2d81bce33cd) |
+| Sun, 05 Oct 2025 16:34:08 GMT | Cybersecurity Awareness Month : A Guide to Modern Cyber-Attacks and Defenses | Amrik  Hanjra | [Read More](https://medium.com/p/0bd30afa6307) |
+| Sun, 05 Oct 2025 16:30:03 GMT | Caught in Brody Club: How I Outsmarted a Crypto Scam | Shobha Pai | [Read More](https://medium.com/p/34148fbc52f1) |
+| Sun, 05 Oct 2025 16:26:26 GMT | The Importance of Problem-Solving in Tech Careers | Dasinthan | [Read More](https://medium.com/p/b003114b9918) |
 | Sun, 05 Oct 2025 16:20:22 GMT | Securing Docker Containers: Best Practices and Tools | Hariprasad | [Read More](https://medium.com/p/0c7cf7bdc6d9) |
 | Sun, 05 Oct 2025 16:15:06 GMT | Software Updates | John Odumesi | [Read More](https://medium.com/p/9dc904907557) |
 | Sun, 05 Oct 2025 16:02:19 GMT | The Shape of My Walls | Vayathra | [Read More](https://medium.com/p/7f45cf95c45d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 11:07:57 GMT | The Illusion of Security: When IT Teams Don’t Understand What They’re Securing | Sajidur Rahman | [Read More](https://medium.com/p/1c9d3768f62c) |
 | Sun, 05 Oct 2025 11:04:59 GMT | On Gratitude and Fulfillment | Anne Sophie Andersen | [Read More](https://medium.com/p/14c68bb21370) |
 | Sun, 05 Oct 2025 11:04:15 GMT | Samsung Galaxy S2: Revisiting the Phone That Felt Like Magic | Ahamed Afran | [Read More](https://medium.com/p/9215a8a7039e) |
-| Sun, 05 Oct 2025 11:01:49 GMT | XDR: Introduction | Cheryl Maise Lobo | [Read More](https://medium.com/p/214885c00bfb) |
-| Sun, 05 Oct 2025 11:01:12 GMT | CH4:Logistic regression | Lantera | [Read More](https://medium.com/p/fcef2d54cdbb) |
-| Sun, 05 Oct 2025 10:59:53 GMT | Internet Of Things — Digital Output (Practical Course) | Zifa Tea Azzahra | [Read More](https://medium.com/p/97212743a64c) |
-| Sun, 05 Oct 2025 10:55:27 GMT | Mr Robot CTF - Try hack me walkthrough {By Rikin} | Rikin | [Read More](https://medium.com/p/f08d4d1c9a17) |
