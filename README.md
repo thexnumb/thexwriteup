@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 20:32:08 GMT | The Rise of AI-Generated Advanced SQL Injections and How LLMs Are Redefining Cyber Threats | Cybamatica | [Read More](https://medium.com/p/3fd00655eaf3) |
+| Sun, 05 Oct 2025 20:27:50 GMT | Che cos’è il Dark Web? | Syria | [Read More](https://medium.com/p/72d51d0deaa0) |
+| Sun, 05 Oct 2025 20:22:39 GMT | ELK SIEM Lab 1.1 — Elastic Agent Configuration | Azhariqbal | [Read More](https://medium.com/p/05f66086615f) |
+| Sun, 05 Oct 2025 20:21:46 GMT | ctzn - Cybersecurity Blog | Adam Stanifer | [Read More](https://medium.com/p/2fcb5b6a28fc) |
 | Sun, 05 Oct 2025 20:14:54 GMT | The True Cost of a Security Breach | Tim Murkomen | [Read More](https://medium.com/p/6e6a386a83d8) |
 | Sun, 05 Oct 2025 20:02:05 GMT | CISOs, You’re Stuck: Here Are 3 Things to Do Now | Yael Nagler | [Read More](https://medium.com/p/5b8d140cf189) |
 | Sun, 05 Oct 2025 19:57:37 GMT | The Rise of Palantir and Its Impact on Privacy | Ian McIntire | [Read More](https://medium.com/p/c9c8d915c897) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 13:32:36 GMT | The Pain of Feeling Alone in a Relationship (Even When You’re Not) | Bloom with Maria | [Read More](https://medium.com/p/33091cf4ce5f) |
 | Sun, 05 Oct 2025 13:28:27 GMT | The Silent Intruder: Mastering the Art of Lateral Movement and Network Reconnaissance | Giorgi Akhobadze | [Read More](https://medium.com/p/c44095ff658f) |
 | Sun, 05 Oct 2025 13:26:25 GMT | The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics | Giorgi Akhobadze | [Read More](https://medium.com/p/f1c654e39f9e) |
-| Sun, 05 Oct 2025 13:25:16 GMT | Volatility 3: The Next Generation of Memory Forensics | Shehab Ahmed | [Read More](https://medium.com/p/22e7399ccea3) |
-| Sun, 05 Oct 2025 13:22:48 GMT | The Rise of Offensive AI: How Adversaries are Weaponizing Machine Learning | Giorgi Akhobadze | [Read More](https://medium.com/p/de201caef649) |
-| Sun, 05 Oct 2025 13:18:35 GMT | Navigating the Digital Vortex: The Elusive Quest for Sovereignty in an Interdependent World | Berend Watchus | [Read More](https://medium.com/p/20c3fc1e9100) |
-| Sun, 05 Oct 2025 13:17:38 GMT | Java File Upload and Download with Spring Boot REST API | Didin Jamaludin | [Read More](https://medium.com/p/c78193f44fcd) |
