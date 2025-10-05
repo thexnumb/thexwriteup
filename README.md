@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 23:03:32 GMT | Build Your Own SIEM: Why These Open-Source Tools Just Work | SOCFortress | [Read More](https://medium.com/p/280312c3d308) |
+| Sun, 05 Oct 2025 23:02:08 GMT | HackTheBox - Unit42 - Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d0b64381fd64) |
+| Sun, 05 Oct 2025 23:01:20 GMT | How to setup an outbound tunnel for Remote Shell Access? | Tejasparmar | [Read More](https://medium.com/p/09ee799d874d) |
+| Sun, 05 Oct 2025 22:57:01 GMT | CRISIS FOR CISCO DEVICES: TWO MILLION VULNERABLE TO ZERO-DAY EXPLOITS | sunduck | [Read More](https://medium.com/p/dbc07e78660a) |
+| Sun, 05 Oct 2025 22:48:45 GMT | The Hidden Drawbacks of Physical File Storage Devices | Bervice | [Read More](https://medium.com/p/1c149cac398e) |
 | Sun, 05 Oct 2025 22:35:18 GMT | VPN lab | Ryanchanest | [Read More](https://medium.com/p/847f5b6d5263) |
 | Sun, 05 Oct 2025 22:11:56 GMT | Seccomp Filters Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/7ddedbcccaf3) |
 | Sun, 05 Oct 2025 22:10:28 GMT | HTB: Support | Ross Andrews | [Read More](https://medium.com/p/6dff2596e82f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 15:31:26 GMT | TryHackMe - Intermediate nmap walkthrough | sabR | [Read More](https://medium.com/p/a16ff684a3c1) |
 | Sun, 05 Oct 2025 15:25:57 GMT | SQHell: Manually hunting SQL injection with detailed explanation | Huzaifa Malik | [Read More](https://medium.com/p/8fd24360c65e) |
 | Sun, 05 Oct 2025 15:25:55 GMT | Review of Paul Krugman’s Seminal Blog Post on ‘Tech and the Wealth of Nations’ | Dawood Mamoon | [Read More](https://medium.com/p/d49a696dd5f7) |
-| Sun, 05 Oct 2025 15:22:49 GMT | Secure Your NestJS Application: Production-Ready Defaults for Safety and DX | Serhii Malyshev | [Read More](https://medium.com/p/1b6896b1ce74) |
-| Sun, 05 Oct 2025 15:17:27 GMT | Setting Up Your Own Cyber Security Lab Environment | DevTutorials | [Read More](https://medium.com/p/57d4fe5ac59c) |
-| Sun, 05 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 5, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/454504f27293) |
-| Sun, 05 Oct 2025 15:14:43 GMT | Hacking, Virtual Machines, Linux & Networking — A Practical, Ethical Primer | Abhinav Nandan | [Read More](https://medium.com/p/711fc41e080a) |
-| Sun, 05 Oct 2025 15:09:11 GMT | Next.js Authentication: The Biggest Mistakes Developers Still Make | Supun Jayalath | [Read More](https://medium.com/p/9d6795efff89) |
