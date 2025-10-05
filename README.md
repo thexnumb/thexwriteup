@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 01:02:32 GMT | Essential MikroTik WAN Security: A Beginner’s Hardening Guide | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/26e987c5c66a) |
+| Sun, 05 Oct 2025 00:59:15 GMT | Beyond the Blueprint: Reimagining IT Operations Management Through Central Architecture | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/4a14335f379a) |
+| Sun, 05 Oct 2025 00:40:07 GMT | ⭐ MAKE $2500 IN 15 MIN ⭐ with PayPal cashapp Txt USA 616 2021156 dumps bank wu tras Cloned cc atm | Blackbox | [Read More](https://medium.com/p/a7749754d0b4) |
+| Sun, 05 Oct 2025 00:34:07 GMT | New Tool: Linux Disk Temperature Monitoring | Truvis Thornton | [Read More](https://medium.com/p/be092a619e2c) |
+| Sun, 05 Oct 2025 00:31:51 GMT | DevSecOps in the Age of AI: How to Secure Your Code and Models End-to-End | Talent Bridge | [Read More](https://medium.com/p/1e9e27a137a0) |
+| Sun, 05 Oct 2025 00:27:29 GMT | Scary facts about Google | Ali | [Read More](https://medium.com/p/3b567b1309dc) |
+| Sun, 05 Oct 2025 00:23:14 GMT | AIG Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/6029720dc832) |
+| Sun, 05 Oct 2025 00:16:13 GMT | Docker scan é simples, mas ninguém faz | Maico Moreira | [Read More](https://medium.com/p/9860d49d7f1b) |
+| Sun, 05 Oct 2025 00:13:03 GMT | Tinker Tailor LLM Spy: Investigate & Respond to Attacks on GenAI Chatbots | Andrew Paul | [Read More](https://medium.com/p/eb7bc856be35) |
+| Sun, 05 Oct 2025 00:04:32 GMT | How I Found CoinCollect Experts on Google and Got My BTC Back | Se Lina | [Read More](https://medium.com/p/36bb303e51df) |
+| Sat, 04 Oct 2025 23:52:04 GMT | Cybersecurity Foundations Series: Part 5 — Understanding Security Controls | TechStoryLines | [Read More](https://medium.com/p/9335f100dd7d) |
+| Sat, 04 Oct 2025 23:46:39 GMT | Recon IV: POST Fuzzing | Taulan Zauzanov | [Read More](https://medium.com/p/c2693b430e0a) |
+| Sat, 04 Oct 2025 23:42:02 GMT | Deep Dive on ptrace: Reverse Engineering Linux System Calls | Stanislav Babenko | [Read More](https://medium.com/p/80c693d94e10) |
 | Sat, 04 Oct 2025 23:21:54 GMT | Semantic Text Similarity for Cybersecurity Maturity Assessment | Andriyan Saputra | [Read More](https://medium.com/p/b1bdbe23c5bd) |
 | Sat, 04 Oct 2025 23:14:09 GMT | How I Learned the Language of Trust: My Journey into PKI and Certificate Authorities | Incidalus | [Read More](https://medium.com/p/77aa6f322bb2) |
 | Sat, 04 Oct 2025 23:04:41 GMT | Why Defensive Scripters Are the Ghosts in the Machine | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/87c2d3b5796a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Oct 2025 16:23:41 GMT | Vulnerabilities 101 — TryHackMe Room | Asif.k | [Read More](https://medium.com/p/78dbdd5b3a37) |
 | Sat, 04 Oct 2025 16:23:17 GMT | ☕ Cyber & Coffee | Cyber and Coffee | [Read More](https://medium.com/p/7263cef0eb4c) |
 | Sat, 04 Oct 2025 16:22:59 GMT | From Wildcards to Least Privilege: Hardening AWS IAM the Right Way | Srinivas Karnati | [Read More](https://medium.com/p/16bc35f6315a) |
-| Sat, 04 Oct 2025 16:19:09 GMT | Protecting RAG Applications with AI Security and Layered Defenses | Jennifer Wales | [Read More](https://medium.com/p/5a161b89d2d1) |
-| Sat, 04 Oct 2025 16:18:49 GMT | Deep Dive into Linux Capabilities on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/7a2e4c7d3058) |
-| Sat, 04 Oct 2025 16:11:46 GMT | The Silence of Tomorrow | Sujaat | [Read More](https://medium.com/p/e22207233f75) |
-| Sat, 04 Oct 2025 16:08:49 GMT | RANSOMWARE CRIPPLES ASAHI PRODUCTION, JAPAN FACES BEER SHORTAGE | sunduck | [Read More](https://medium.com/p/eaa4445ac8c4) |
-| Sat, 04 Oct 2025 16:08:10 GMT | Credit Unions 2025: Winning The Identity Fraud Battle In A New World | Rory Galvin | [Read More](https://medium.com/p/1ef48b52da2e) |
-| Sat, 04 Oct 2025 16:03:29 GMT | How To Cleanup Gmail Storage Fix Issue Regain Free Space in Hindi - Gmail Ki Storage Full Ho Jaye… | Hinditechtrick | [Read More](https://medium.com/p/3f205f981ba5) |
-| Sat, 04 Oct 2025 15:57:33 GMT | STONES | Koliee Yoww | [Read More](https://medium.com/p/7f547e37d8ef) |
-| Sat, 04 Oct 2025 15:56:12 GMT | Why Sree Krishna Seelam’s ‘Indian Cyber Law for Common’ Man is a must-read for everyone | Raghuram | [Read More](https://medium.com/p/af503298df90) |
-| Sat, 04 Oct 2025 15:53:46 GMT | What Is The Korea Electronic Travel Authorization (K-ETA) System? | Nivedita Baidya | [Read More](https://medium.com/p/c49aa70b641f) |
-| Sat, 04 Oct 2025 15:51:59 GMT | Secrets of the Digital Underground: Ethical Hacking in the Age of AI & Quantum Computing | Muhammadmali | [Read More](https://medium.com/p/e80e3872f212) |
-| Sat, 04 Oct 2025 15:47:52 GMT | Why Enterprise .NET Apps Still Need Windows Auth (And How to Do It Right in 2025) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/64a560fbf2b1) |
-| Sat, 04 Oct 2025 15:47:30 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8fdad2c62ce3) |
-| Sat, 04 Oct 2025 15:46:01 GMT | Why Blockchain is Inevitable for the Future of Data Privacy | Alejandra Catacora | [Read More](https://medium.com/p/c73ef9cf452d) |
