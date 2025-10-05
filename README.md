@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 14:03:42 GMT | Why Early Entry into ABTU Matters | Abatis ABTU | [Read More](https://medium.com/p/1d555440e9c1) |
+| Sun, 05 Oct 2025 14:02:11 GMT | Slow Internet Could Be Killing Your Business Growth | Janeel Abrahams | [Read More](https://medium.com/p/a00bf7503570) |
+| Sun, 05 Oct 2025 13:56:21 GMT | Your First Paid Bounty: A Real Case Study | Fateyaly | [Read More](https://medium.com/p/1312aeddfa0a) |
+| Sun, 05 Oct 2025 13:52:10 GMT | Fowsniff CTF Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/3f06972013d0) |
+| Sun, 05 Oct 2025 13:47:42 GMT | THM - XDR: Operation Global Dagger | Francesco Pastore | [Read More](https://medium.com/p/db4c2c51599f) |
+| Sun, 05 Oct 2025 13:41:09 GMT | 2025’s Top 10 Smart Gadgets That Are Changing How We Live, Work, and Play | Kalamba Sanjase | [Read More](https://medium.com/p/3b3bb519b919) |
+| Sun, 05 Oct 2025 13:36:33 GMT | ️ Bug Bounty Methodology: From Recon to Exploitation in 12 Tactical Steps | Naresh Singh | [Read More](https://medium.com/p/430c5cfbcf1c) |
 | Sun, 05 Oct 2025 13:35:26 GMT | My Learning Journey with OPSWAT Academy: Introduction to Critical Infrastructure Protection… | Dunal Bhagyantha | [Read More](https://medium.com/p/7a144273c3a9) |
 | Sun, 05 Oct 2025 13:32:36 GMT | The Pain of Feeling Alone in a Relationship (Even When You’re Not) | Bloom with Maria | [Read More](https://medium.com/p/33091cf4ce5f) |
 | Sun, 05 Oct 2025 13:28:27 GMT | The Silent Intruder: Mastering the Art of Lateral Movement and Network Reconnaissance | Giorgi Akhobadze | [Read More](https://medium.com/p/c44095ff658f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 08:10:26 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/12cbb50f3917) |
 | Sun, 05 Oct 2025 08:08:09 GMT | Privilege Escalation with Kubernetes RBAC Misconfigurations | Esra Kayhan | [Read More](https://medium.com/p/8add491d99f7) |
 | Sun, 05 Oct 2025 08:07:16 GMT | Network Traffic Recon: Capturing API Keys from Misconfigured Apps | Narendar Battula (nArEn) | [Read More](https://medium.com/p/25faf1a333e9) |
-| Sun, 05 Oct 2025 07:59:33 GMT | The Architecture of Stability in the Age of AI | Roman ALEFAIDEA | [Read More](https://medium.com/p/7e9722979867) |
-| Sun, 05 Oct 2025 07:58:25 GMT | Frida on iOS: 7 Real-World Hooks to Expose Hidden Endpoints | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c52bd8594b6e) |
-| Sun, 05 Oct 2025 07:53:02 GMT | Reverse-Engineering iOS Apps: Hidden API Mining Beyond Android | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5f929e018cf2) |
-| Sun, 05 Oct 2025 07:45:53 GMT | The Final Game: Securing LLMs Before the Joker Plays You | Reham ElTagoury | [Read More](https://medium.com/p/3e81df539353) |
-| Sun, 05 Oct 2025 07:44:37 GMT | Dynamic Hooking with Frida: Revealing Hidden Parameters in Real Time | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b39d538993a6) |
-| Sun, 05 Oct 2025 07:41:08 GMT | Planning to do CRTA? | Karthikeyan C | [Read More](https://medium.com/p/1606be96528b) |
-| Sun, 05 Oct 2025 07:37:36 GMT | The Ransomware Ripple Effect: How One Man’s Arrest Exposes Our Fragile Systems | Aj | [Read More](https://medium.com/p/f6f2c43d7d33) |
