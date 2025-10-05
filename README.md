@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 17:08:19 GMT | Week 12— Async API Calls: fetch, Axios, and Promises | Aang | [Read More](https://medium.com/p/f8da63c5d91c) |
+| Sun, 05 Oct 2025 17:08:01 GMT | How I Learned to Scan My Own Codebase for Secrets and Vulnerabilities | Ted Hagos | [Read More](https://medium.com/p/168f9bdf7a04) |
+| Sun, 05 Oct 2025 17:02:36 GMT | CERT-In SBOM Compliance Made Easy: Introducing the CERT-In SBOM Mapper (Part 2) | sumit singh | [Read More](https://medium.com/p/b47fd2d68ff8) |
+| Sun, 05 Oct 2025 16:44:47 GMT | IAM Deep Dive: The 360° Guide to Identity and Access Management Mastery | Thamotharan NK PILLAI | [Read More](https://medium.com/p/4c256c023511) |
+| Sun, 05 Oct 2025 16:39:10 GMT | HTB: Fluffy | Ross Andrews | [Read More](https://medium.com/p/5e6a6f5ded40) |
+| Sun, 05 Oct 2025 16:37:46 GMT | We choose | Lucia Panaino | [Read More](https://medium.com/p/8321e0e53491) |
+| Sun, 05 Oct 2025 16:37:08 GMT | How to bypass the WAF using SQL map ? | Youssef Said  Thabet | [Read More](https://medium.com/p/9f7e759002cb) |
 | Sun, 05 Oct 2025 16:34:41 GMT | **How Apple’s “Hide My Email” and Google Sign-In Can Break Your App’s One-Account Policy | Be nice insabat | [Read More](https://medium.com/p/e2d81bce33cd) |
 | Sun, 05 Oct 2025 16:34:08 GMT | Cybersecurity Awareness Month : A Guide to Modern Cyber-Attacks and Defenses | Amrik  Hanjra | [Read More](https://medium.com/p/0bd30afa6307) |
 | Sun, 05 Oct 2025 16:30:03 GMT | Caught in Brody Club: How I Outsmarted a Crypto Scam | Shobha Pai | [Read More](https://medium.com/p/34148fbc52f1) |
+| Sun, 05 Oct 2025 16:30:03 GMT | TryHackMe - PrintNightmare, thrice! - WriteUp | Axoloth | [Read More](https://medium.com/p/ff97dfc79f45) |
 | Sun, 05 Oct 2025 16:26:26 GMT | The Importance of Problem-Solving in Tech Careers | Dasinthan | [Read More](https://medium.com/p/b003114b9918) |
 | Sun, 05 Oct 2025 16:20:22 GMT | Securing Docker Containers: Best Practices and Tools | Hariprasad | [Read More](https://medium.com/p/0c7cf7bdc6d9) |
 | Sun, 05 Oct 2025 16:15:06 GMT | Software Updates | John Odumesi | [Read More](https://medium.com/p/9dc904907557) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 11:30:28 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/58f3eb99f6d3) |
 | Sun, 05 Oct 2025 11:28:41 GMT | I Ran an EASM Sweep — The Findings Terrified Me (And They Should Terrify Every Engineering Leader) | Azim Uddin | [Read More](https://medium.com/p/dfecd9ec5318) |
 | Sun, 05 Oct 2025 11:27:19 GMT | TryHackMe - PrintNightmare, again! - WriteUp | Axoloth | [Read More](https://medium.com/p/3ecdef5e0b93) |
-| Sun, 05 Oct 2025 11:24:13 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/ed574c4a67c2) |
-| Sun, 05 Oct 2025 11:21:44 GMT | New Data Exfiltration Technique Using Brave Sync | Pak Cyberbot | [Read More](https://medium.com/p/3fe5313c5e59) |
-| Sun, 05 Oct 2025 11:14:10 GMT | Building Ping from Scratch: A Deep Dive into Network Internals | Othman Nouakchi | [Read More](https://medium.com/p/7bef7a020b8a) |
-| Sun, 05 Oct 2025 11:11:56 GMT | Building a Dynamic A/B Testing Platform with Journey Mapping in Angular | Ronik Dedhia | [Read More](https://medium.com/p/91d126914648) |
-| Sun, 05 Oct 2025 11:11:04 GMT | Samsung Galaxy S2: A Phone That Refuses to Be Forgotten | Rahul Das Gupta | [Read More](https://medium.com/p/8789800c8f82) |
-| Sun, 05 Oct 2025 11:07:57 GMT | The Illusion of Security: When IT Teams Don’t Understand What They’re Securing | Sajidur Rahman | [Read More](https://medium.com/p/1c9d3768f62c) |
-| Sun, 05 Oct 2025 11:04:59 GMT | On Gratitude and Fulfillment | Anne Sophie Andersen | [Read More](https://medium.com/p/14c68bb21370) |
-| Sun, 05 Oct 2025 11:04:15 GMT | Samsung Galaxy S2: Revisiting the Phone That Felt Like Magic | Ahamed Afran | [Read More](https://medium.com/p/9215a8a7039e) |
