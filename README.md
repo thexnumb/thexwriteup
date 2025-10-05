@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 09:15:25 GMT | The Art of API Key Chaining — How Attackers Link Multiple Keys Across SaaS, Cloud, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/572e9b469f4c) |
+| Sun, 05 Oct 2025 09:07:01 GMT | 10 Tiny, Secure, Fast Python Dockerfiles | Thinking Loop | [Read More](https://medium.com/p/d85b2e481f64) |
+| Sun, 05 Oct 2025 09:05:22 GMT | Beyond the Alert: The Art and Science of Modern Detection Engineering. | Abhijith Soman | [Read More](https://medium.com/p/1e0ebc76b59d) |
+| Sun, 05 Oct 2025 09:02:53 GMT | Manufacturing the Future: Strategic IT Operations in an AI-Driven World | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/3ee93c15e488) |
+| Sun, 05 Oct 2025 09:01:13 GMT | API Key Pivoting Playbook: Turning One Key Into Full Infrastructure Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/03831c0e95a3) |
+| Sun, 05 Oct 2025 08:47:46 GMT | Building a Security Program on a Startup Budget: Where to Invest First | Dera E. | [Read More](https://medium.com/p/cd0c4182b524) |
+| Sun, 05 Oct 2025 08:42:09 GMT | Terraform and Ansible Security Vulnerabilities: The Invisible Dangers of the Automation World | Esra Kayhan | [Read More](https://medium.com/p/73b47b72309e) |
 | Sun, 05 Oct 2025 08:24:18 GMT | How a £0.30 PayPal Payment Nearly Fooled Me: Inside the Fake ‘Cash-Out’ Game Scam | Harry.needs.help. Crazy.killer clown | [Read More](https://medium.com/p/24aef9c9b6fe) |
 | Sun, 05 Oct 2025 08:22:19 GMT | PromptLock: When AI Learns to Hold Your Data Hostage | Naveen Manwani | [Read More](https://medium.com/p/4c1761a81762) |
 | Sun, 05 Oct 2025 08:18:51 GMT | Why Clear Scoping and Security Alignment Are Non-Negotiable When Working with External Vendors | Madhulika Das | [Read More](https://medium.com/p/68e36f5a9daf) |
@@ -107,10 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 22:41:11 GMT | Strong Passwords vs. Passphrases: What Works Best in 2025 | ENVORASEC | [Read More](https://medium.com/p/6deb11f21cd1) |
 | Sat, 04 Oct 2025 22:26:42 GMT | HackTheBox — Meow Q&A | Lifewith_Ayomide | [Read More](https://medium.com/p/2f1d416bcbd3) |
 | Sat, 04 Oct 2025 22:26:28 GMT | Захист від DDoS-атак: як убезпечити свій проєкт від цифрових штормів | DDoS | [Read More](https://medium.com/p/eefd8b6d72ef) |
-| Sat, 04 Oct 2025 22:20:43 GMT | MFA & 2FA DEMYSTIFIED … | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/466af23c577d) |
-| Sat, 04 Oct 2025 22:07:15 GMT | Fear-Mongering or Cybersecurity Awareness? | Cyber Lois | [Read More](https://medium.com/p/2166360fc91b) |
-| Sat, 04 Oct 2025 22:03:40 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/3ce898af73ba) |
-| Sat, 04 Oct 2025 22:01:34 GMT | SAP Sızma Testi | Fatih Tüzün | [Read More](https://medium.com/p/cc3ea959d114) |
-| Sat, 04 Oct 2025 21:55:20 GMT | HTB — Eureka Writeup | Ayça Gül | [Read More](https://medium.com/p/600c3b7e7500) |
-| Sat, 04 Oct 2025 21:54:21 GMT | How Hezbollah Went from a Local Terrorist Militia to a Transnational Terrorist Organization and… | SIMKRA | [Read More](https://medium.com/p/c4e9f2ee8760) |
-| Sat, 04 Oct 2025 21:51:56 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/2ec4eb3665fd) |
