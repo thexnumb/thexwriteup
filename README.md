@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 09:25:42 GMT | Supply Chain Escalation Playbook: Turning Third‑Party API Keys Into Your Biggest Breach Vector | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9cc6d2e106aa) |
+| Sun, 05 Oct 2025 09:25:41 GMT | JtR’s Secrets: From Zero to Cracking Hero | SilentInject | [Read More](https://medium.com/p/67e71cfd2cc5) |
+| Sun, 05 Oct 2025 09:16:11 GMT | Ports and Nmap: The Hidden Gateways of the Internet Every Hacker (and Defender) Should Know. | Roshan Khadka | [Read More](https://medium.com/p/42fbd8c21cc2) |
 | Sun, 05 Oct 2025 09:15:25 GMT | The Art of API Key Chaining — How Attackers Link Multiple Keys Across SaaS, Cloud, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/572e9b469f4c) |
 | Sun, 05 Oct 2025 09:07:01 GMT | 10 Tiny, Secure, Fast Python Dockerfiles | Thinking Loop | [Read More](https://medium.com/p/d85b2e481f64) |
 | Sun, 05 Oct 2025 09:05:22 GMT | Beyond the Alert: The Art and Science of Modern Detection Engineering. | Abhijith Soman | [Read More](https://medium.com/p/1e0ebc76b59d) |
+| Sun, 05 Oct 2025 09:04:41 GMT | Quantum-Proofing Signal: Privacy’s Next Shield? | Truspex | [Read More](https://medium.com/p/6d1b4b372830) |
 | Sun, 05 Oct 2025 09:02:53 GMT | Manufacturing the Future: Strategic IT Operations in an AI-Driven World | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/3ee93c15e488) |
 | Sun, 05 Oct 2025 09:01:13 GMT | API Key Pivoting Playbook: Turning One Key Into Full Infrastructure Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/03831c0e95a3) |
 | Sun, 05 Oct 2025 08:47:46 GMT | Building a Security Program on a Startup Budget: Where to Invest First | Dera E. | [Read More](https://medium.com/p/cd0c4182b524) |
@@ -110,7 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 23:21:54 GMT | Semantic Text Similarity for Cybersecurity Maturity Assessment | Andriyan Saputra | [Read More](https://medium.com/p/b1bdbe23c5bd) |
 | Sat, 04 Oct 2025 23:14:09 GMT | How I Learned the Language of Trust: My Journey into PKI and Certificate Authorities | Incidalus | [Read More](https://medium.com/p/77aa6f322bb2) |
 | Sat, 04 Oct 2025 23:04:41 GMT | Why Defensive Scripters Are the Ghosts in the Machine | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/87c2d3b5796a) |
-| Sat, 04 Oct 2025 22:52:21 GMT | Cracking the JavaScript Code: Lessons From My Real-World Projects | Kainat Nafees | [Read More](https://medium.com/p/20aa4d7e7b66) |
-| Sat, 04 Oct 2025 22:41:11 GMT | Strong Passwords vs. Passphrases: What Works Best in 2025 | ENVORASEC | [Read More](https://medium.com/p/6deb11f21cd1) |
-| Sat, 04 Oct 2025 22:26:42 GMT | HackTheBox — Meow Q&A | Lifewith_Ayomide | [Read More](https://medium.com/p/2f1d416bcbd3) |
-| Sat, 04 Oct 2025 22:26:28 GMT | Захист від DDoS-атак: як убезпечити свій проєкт від цифрових штормів | DDoS | [Read More](https://medium.com/p/eefd8b6d72ef) |
