@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 16:20:22 GMT | Securing Docker Containers: Best Practices and Tools | Hariprasad | [Read More](https://medium.com/p/0c7cf7bdc6d9) |
+| Sun, 05 Oct 2025 16:15:06 GMT | Software Updates | John Odumesi | [Read More](https://medium.com/p/9dc904907557) |
+| Sun, 05 Oct 2025 16:02:19 GMT | The Shape of My Walls | Vayathra | [Read More](https://medium.com/p/7f45cf95c45d) |
+| Sun, 05 Oct 2025 16:00:09 GMT | Beyond the Open Door: How Hackers and Bug Bounty Hunters Mine Directory Listings for Gold | Blue_eye | [Read More](https://medium.com/p/5d0430353342) |
+| Sun, 05 Oct 2025 15:57:30 GMT | The Dark Art of Hardware Hacking: Cracking Open the Secrets of Embedded Systems | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/36d892c6acb0) |
+| Sun, 05 Oct 2025 15:46:24 GMT | Echoes of the Forest | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/05ab9beba6f5) |
+| Sun, 05 Oct 2025 15:41:30 GMT | MEDIUM FLAWS | little fox | [Read More](https://medium.com/p/821638adb716) |
 | Sun, 05 Oct 2025 15:35:22 GMT | CS student tries to evade AV (PART 2) | Mahmudul Hasan | [Read More](https://medium.com/p/d0c87ed22b43) |
 | Sun, 05 Oct 2025 15:31:26 GMT | TryHackMe - Intermediate nmap walkthrough | sabR | [Read More](https://medium.com/p/a16ff684a3c1) |
+| Sun, 05 Oct 2025 15:25:57 GMT | SQHell: Manually hunting SQL injection with detailed explanation | Huzaifa Malik | [Read More](https://medium.com/p/8fd24360c65e) |
 | Sun, 05 Oct 2025 15:25:55 GMT | Review of Paul Krugman’s Seminal Blog Post on ‘Tech and the Wealth of Nations’ | Dawood Mamoon | [Read More](https://medium.com/p/d49a696dd5f7) |
 | Sun, 05 Oct 2025 15:22:49 GMT | Secure Your NestJS Application: Production-Ready Defaults for Safety and DX | Serhii Malyshev | [Read More](https://medium.com/p/1b6896b1ce74) |
 | Sun, 05 Oct 2025 15:17:27 GMT | Setting Up Your Own Cyber Security Lab Environment | DevTutorials | [Read More](https://medium.com/p/57d4fe5ac59c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 11:01:12 GMT | CH4:Logistic regression | Lantera | [Read More](https://medium.com/p/fcef2d54cdbb) |
 | Sun, 05 Oct 2025 10:59:53 GMT | Internet Of Things — Digital Output (Practical Course) | Zifa Tea Azzahra | [Read More](https://medium.com/p/97212743a64c) |
 | Sun, 05 Oct 2025 10:55:27 GMT | Mr Robot CTF - Try hack me walkthrough {By Rikin} | Rikin | [Read More](https://medium.com/p/f08d4d1c9a17) |
-| Sun, 05 Oct 2025 10:54:43 GMT | Empowering MSMEs and Startups: The Philippines’ Push for AI Adoption and Cybersecurity | Marvin Barrios | [Read More](https://medium.com/p/f1ab575d75d7) |
-| Sun, 05 Oct 2025 10:49:28 GMT | WebRTC Is the Silent IP Leak Living in Your Browser | KeyboardSamurai | [Read More](https://medium.com/p/cb72c46641cb) |
-| Sun, 05 Oct 2025 10:47:40 GMT | Decision Tree:A Fundamental Approach to Machine Learning | Lantera | [Read More](https://medium.com/p/03b8b04ec361) |
-| Sun, 05 Oct 2025 10:46:16 GMT | Identity and Access Management: Controlling the Keys | Cyber Security Research | [Read More](https://medium.com/p/43082ac49578) |
-| Sun, 05 Oct 2025 10:40:21 GMT | Security Awareness Training: Empowering the User | Cyber Security Research | [Read More](https://medium.com/p/a2f24f11f995) |
-| Sun, 05 Oct 2025 10:36:26 GMT | DockerLabs Writeup — Vulnvault (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c365cf20d41a) |
-| Sun, 05 Oct 2025 10:36:16 GMT | Day 65- Blue team vs Red team vs Purple team simple guide for beginners | unica 02 | [Read More](https://medium.com/p/b550ab2ec69e) |
-| Sun, 05 Oct 2025 10:34:14 GMT | Network Segmentation: Containment Strategies | Cyber Security Research | [Read More](https://medium.com/p/c12eca3fb362) |
