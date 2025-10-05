@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 06:56:45 GMT | Multi-Tenancy Fundamentals: Designing Scalable and Secure Applications | Andreas Christou | [Read More](https://medium.com/p/b084f5d98ebf) |
+| Sun, 05 Oct 2025 06:56:05 GMT | Discord’s Third-Party Nightmare: ShinyHunters Breach Exposes User ID’s and Billing Data | devmihaylov | [Read More](https://medium.com/p/93fb67e11cb0) |
+| Sun, 05 Oct 2025 06:47:23 GMT | The UK Digital ID Scheme: Illegal Immigration Fix or Failure? | Esra G | [Read More](https://medium.com/p/3f944ad8a710) |
 | Sun, 05 Oct 2025 06:34:47 GMT | Learning to sit with my loneliness | Vijay Kumar Gupta | [Read More](https://medium.com/p/8bcc1c1b5faa) |
+| Sun, 05 Oct 2025 06:33:24 GMT | [TryHackMe Write-Up] Mr Robot CTF | x86luna | [Read More](https://medium.com/p/7e485cdb0885) |
 | Sun, 05 Oct 2025 06:24:52 GMT | Sherlocks —  introduction and Brutus Machine | Muhammad Bilal | [Read More](https://medium.com/p/430882aab232) |
 | Sun, 05 Oct 2025 06:21:39 GMT | Cybersecurity at Home: Protecting from Modern Threats | Jeremy Renner | [Read More](https://medium.com/p/f7d02dd89db3) |
 | Sun, 05 Oct 2025 06:21:25 GMT | Forrester’s 2026 Cybersecurity and Risk Predictions: Key Highlights | Balasubramaniam GD | [Read More](https://medium.com/p/12bda7e9890f) |
@@ -110,7 +114,3 @@ A university is more than classrooms and… | Ogbonna Michael Ejike | [Read More
 | Sat, 04 Oct 2025 19:11:26 GMT | The Tea App Security Disaster: What Went Wrong and Why It Matters | Ayoub seddiki | [Read More](https://medium.com/p/984030500b53) |
 | Sat, 04 Oct 2025 19:05:38 GMT | Building a Malware Analysis Lab on Linux | Cenky | [Read More](https://medium.com/p/4855fc9a3609) |
 | Sat, 04 Oct 2025 19:02:34 GMT | ToxSec: Cybersecurity Awareness Month | ToxSec | [Read More](https://medium.com/p/ab3415ba8d15) |
-| Sat, 04 Oct 2025 19:02:31 GMT | How a Password Change Feature Led to Full Account Takeover (CVSS 8.3) | Onurcan Genç | [Read More](https://medium.com/p/f1a74c3fc210) |
-| Sat, 04 Oct 2025 19:00:09 GMT | Beyond OWASP: Redefining Application Security Risks in the Era of AI and APIs | Sai Krishna Kakarla | [Read More](https://medium.com/p/0992152a5afe) |
-| Sat, 04 Oct 2025 18:54:58 GMT | HTML Injection & Content Spoofing: How Attackers Trick Users (and how to find & fix it) | Omniaelagroudy | [Read More](https://medium.com/p/cea458c951dd) |
-| Sat, 04 Oct 2025 18:51:26 GMT | From Recon to Root: My Journey Cracking the CloudSEK CTF 2025 Challenges | Janpreet Singh | [Read More](https://medium.com/p/f4ad499179c9) |
