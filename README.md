@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Oct 2025 15:02:07 GMT | An das Gewissen der Weltöffentlichkeit, | Heidikoch | [Read More](https://medium.com/p/b50d178ba876) |
+| Sun, 05 Oct 2025 14:57:44 GMT | Internet Of Things — Digital Output (Practical Assignment) | Zifa Tea Azzahra | [Read More](https://medium.com/p/52a16e888612) |
+| Sun, 05 Oct 2025 14:56:37 GMT | ✅ Cyber Hygiene: Your Weekly Ritual to Stay Safe Online | aysha | [Read More](https://medium.com/p/b7894736a4a9) |
+| Sun, 05 Oct 2025 14:42:24 GMT | Business Logic Flaws Uncovered: A Bug Hunter’s Series Launch | Yamini Yadav_369 | [Read More](https://medium.com/p/38d171dadfe4) |
+| Sun, 05 Oct 2025 14:42:16 GMT | Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny | Yamini Yadav_369 | [Read More](https://medium.com/p/b5520da54f1a) |
+| Sun, 05 Oct 2025 14:42:07 GMT | The Power of Self-Reliance: Learning to Hold Your Own Umbrella | kate spider | [Read More](https://medium.com/p/697389257f9e) |
+| Sun, 05 Oct 2025 14:42:01 GMT | The Identity Crisis: Being Human When Machines Think Like Us | Abduldattijo | [Read More](https://medium.com/p/acb7c4e68f8d) |
+| Sun, 05 Oct 2025 14:37:43 GMT | Cybersecurity Fundamentals for AI-Driven Fraud Detection | Rana El Garhi | [Read More](https://medium.com/p/ee780ab0f3c7) |
+| Sun, 05 Oct 2025 14:31:52 GMT | Corporate Greed Chronicles: The Greed-Fueled Joyride at J.B. Hunt | Namir Sagheenanajar | [Read More](https://medium.com/p/a7b77b2dab58) |
+| Sun, 05 Oct 2025 14:31:52 GMT | The Untold Story of Routers & Switches: The Real Traffic Police of the Internet | Thegreatpayload | [Read More](https://medium.com/p/9c8cfbb9fd3c) |
 | Sun, 05 Oct 2025 14:28:57 GMT | THM - XDR: Operation Global Dagger 2 | Francesco Pastore | [Read More](https://medium.com/p/bcec9fcbc623) |
 | Sun, 05 Oct 2025 14:27:52 GMT | A Guide to Secure DevOps and DevSecOps | Samina Perveen | [Read More](https://medium.com/p/ba2d90a67053) |
+| Sun, 05 Oct 2025 14:26:45 GMT | How a Misplaced 2FA Lockout Can Prevent Legitimate Users from Logging In | Ibrahim Yılmaz | [Read More](https://medium.com/p/c91b23f6b49e) |
 | Sun, 05 Oct 2025 14:22:58 GMT | AI Is Spying On You: The Privacy Myth We’re All Believing | Medium Quill | [Read More](https://medium.com/p/2741301ec1d2) |
 | Sun, 05 Oct 2025 14:19:43 GMT | The Night Grief Taught Me to Hold Myself Gently | Darpan Murly | [Read More](https://medium.com/p/0d3574dde02e) |
 | Sun, 05 Oct 2025 14:19:24 GMT | The Art of Threat Hunting | Jay Nagrecha | [Read More](https://medium.com/p/ba6e385d6cdc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 09:48:51 GMT | Truths About Bug Bounty for Beginners | Madhu Kanwat | [Read More](https://medium.com/p/b3f88bdeceaa) |
 | Sun, 05 Oct 2025 09:44:29 GMT | PE File Structure Explained : A Guide to for Reverse Engineers & Developers | Shaheer Yasir | [Read More](https://medium.com/p/855a062c82cc) |
 | Sun, 05 Oct 2025 09:36:56 GMT | DISCORD CUSTOMER DATA LEAKED IN THIRD-PARTY SUPPORT HACK | sunduck | [Read More](https://medium.com/p/cdcd9013080d) |
-| Sun, 05 Oct 2025 09:35:16 GMT | Security and Reliability — How Casper Keeps the Network Trustworthy | Techy Hello | [Read More](https://medium.com/p/504ee35e6bb8) |
-| Sun, 05 Oct 2025 09:25:42 GMT | Supply Chain Escalation Playbook: Turning Third‑Party API Keys Into Your Biggest Breach Vector | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9cc6d2e106aa) |
-| Sun, 05 Oct 2025 09:25:41 GMT | JtR’s Secrets: From Zero to Cracking Hero | SilentInject | [Read More](https://medium.com/p/67e71cfd2cc5) |
-| Sun, 05 Oct 2025 09:16:11 GMT | Ports and Nmap: The Hidden Gateways of the Internet Every Hacker (and Defender) Should Know. | Roshan Khadka | [Read More](https://medium.com/p/42fbd8c21cc2) |
-| Sun, 05 Oct 2025 09:15:25 GMT | The Art of API Key Chaining — How Attackers Link Multiple Keys Across SaaS, Cloud, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/572e9b469f4c) |
-| Sun, 05 Oct 2025 09:07:01 GMT | 10 Tiny, Secure, Fast Python Dockerfiles | Thinking Loop | [Read More](https://medium.com/p/d85b2e481f64) |
-| Sun, 05 Oct 2025 09:05:22 GMT | Beyond the Alert: The Art and Science of Modern Detection Engineering. | Abhijith Soman | [Read More](https://medium.com/p/1e0ebc76b59d) |
-| Sun, 05 Oct 2025 09:04:41 GMT | Quantum-Proofing Signal: Privacy’s Next Shield? | Truspex | [Read More](https://medium.com/p/6d1b4b372830) |
-| Sun, 05 Oct 2025 09:02:53 GMT | Manufacturing the Future: Strategic IT Operations in an AI-Driven World | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/3ee93c15e488) |
-| Sun, 05 Oct 2025 09:01:13 GMT | API Key Pivoting Playbook: Turning One Key Into Full Infrastructure Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/03831c0e95a3) |
-| Sun, 05 Oct 2025 08:47:46 GMT | Building a Security Program on a Startup Budget: Where to Invest First | Dera E. | [Read More](https://medium.com/p/cd0c4182b524) |
