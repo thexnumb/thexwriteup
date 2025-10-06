@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 15:19:18 GMT | Talisman Walkthrough | Jose Diaz | [Read More](https://medium.com/p/17f9d48072a6) |
+| Mon, 06 Oct 2025 15:09:25 GMT | The Vue.js Secret That Made Companies Choose It Over React | Rizqi Mulki | [Read More](https://medium.com/p/33838eb4be25) |
+| Mon, 06 Oct 2025 15:08:41 GMT | Intelligent Clouds: How AI in the Cloud Will Redefine Work, Learning, and Healthcare | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/58e0bb7ee599) |
+| Mon, 06 Oct 2025 15:08:27 GMT | Top Government Leaks of the Past 5 Years: Comprehensive Analysis | Alec Furrier | [Read More](https://medium.com/p/3de00341a2d8) |
+| Mon, 06 Oct 2025 15:08:18 GMT | DAY 6 ; The Human Firewall: A Team Defense | aysha | [Read More](https://medium.com/p/e86e43c702b4) |
+| Mon, 06 Oct 2025 15:03:59 GMT | Who Are You When Nobody’s Watching? | Vijay Kumar Gupta | [Read More](https://medium.com/p/7aa02f653743) |
+| Mon, 06 Oct 2025 15:02:36 GMT | [1991] MiniDiscs: The Short-Lived Revolution in Personal Music | Technology king | [Read More](https://medium.com/p/244d94c8d1a5) |
+| Mon, 06 Oct 2025 15:01:54 GMT | Cyber Resilience Beyond Compliance: Lessons from NIS2 and NIST CSF Updates | Lester Davila Escobedo | [Read More](https://medium.com/p/8d78def1e09d) |
+| Mon, 06 Oct 2025 15:00:29 GMT | This Is Not the WordPress You Are Looking For | Aleksander Gorkowienko | [Read More](https://medium.com/p/580c72edc444) |
+| Mon, 06 Oct 2025 14:57:57 GMT | Raspberry Pi 4 - Getting Started | CC1PH3R | [Read More](https://medium.com/p/8b807b6f8664) |
+| Mon, 06 Oct 2025 14:56:18 GMT | The Cyber Turning Point: How Claude Sonnet 4.5 Is Redefining AI’s Role in Cyber Defense | Kamal Acharya | [Read More](https://medium.com/p/5328593c1935) |
+| Mon, 06 Oct 2025 14:53:35 GMT | Platform LMS Belajar Cyber Security pertama di Indonesia LINUXENI Corp | hihipro | [Read More](https://medium.com/p/0f34a750378a) |
+| Mon, 06 Oct 2025 14:51:25 GMT | Writing Effective Bug Bounty Reports | ToxSec | [Read More](https://medium.com/p/9e71f6b8706c) |
+| Mon, 06 Oct 2025 14:49:34 GMT | The Windows Analyst’s Toolkit | Ops4Windows | [Read More](https://medium.com/p/2f6f9c66e207) |
+| Mon, 06 Oct 2025 14:46:55 GMT | ABTU and the Future of Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/4b4e2c2f4d4c) |
+| Mon, 06 Oct 2025 14:40:50 GMT | Complete Account Takeover using browser Autofill feature due to DOM based javascript execution | Muhammad ilyas | [Read More](https://medium.com/p/d01ef203a358) |
+| Mon, 06 Oct 2025 14:40:37 GMT | Securing Your API Keys: Best Practices Every Developer Should Know | Technology king | [Read More](https://medium.com/p/b1a80e4405ca) |
 | Mon, 06 Oct 2025 14:39:52 GMT | Elastic Security Sandbox Installation & Usage — Chapter 1 : Sandbox Setup | Abdulkadir Sadi | [Read More](https://medium.com/p/38c197036d3c) |
 | Mon, 06 Oct 2025 14:34:12 GMT | Passing BSCP On Your First Try | m3m0o | [Read More](https://medium.com/p/62ca4d9f492a) |
 | Mon, 06 Oct 2025 14:32:21 GMT | Every Woman Has a Room Where She’s Still Seventeen and Silent | SuccessBlueprints.Org | [Read More](https://medium.com/p/d5c6c1c00ad6) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 11:17:59 GMT | The Future of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/866f93782bcf) |
 | Mon, 06 Oct 2025 11:17:16 GMT | Securinets CTF Quals 2025 Forensics SILENT VISITOR Writeup | D3XTER | [Read More](https://medium.com/p/95088f4128b9) |
 | Mon, 06 Oct 2025 11:11:10 GMT | Splunk + Cisco .conf25 Recap: AI, Architecture, and the Future of Digital Resilience | Apto Solutions | [Read More](https://medium.com/p/38a057212d6d) |
-| Mon, 06 Oct 2025 11:10:11 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/7e9352d99444) |
-| Mon, 06 Oct 2025 11:07:06 GMT | The Psychology of Hackers: Why Your Brain Is Their Favorite Weapon | Arfa | [Read More](https://medium.com/p/4bfa04996e7b) |
-| Mon, 06 Oct 2025 11:06:19 GMT | The Hidden Danger: How Caching Can Be a Cybersecurity Risk in Today’s Digital World” | ZASHA | [Read More](https://medium.com/p/1445934ce753) |
-| Mon, 06 Oct 2025 11:05:48 GMT | Why Cybersecurity Should Be a Priority for Fund Administrators | Annumaurya | [Read More](https://medium.com/p/e3251ff10205) |
-| Mon, 06 Oct 2025 11:04:53 GMT | I Analyzed 100 Real Cyber Attacks: Here’s What I Learned About Staying Safe Online | Arfa | [Read More](https://medium.com/p/7a9ec9afff43) |
-| Mon, 06 Oct 2025 11:02:07 GMT | Rethinking Vulnerability Management in 2025 | Brittney Ginther | [Read More](https://medium.com/p/b45874a19fe4) |
-| Mon, 06 Oct 2025 11:01:42 GMT | Taming the Data Beast: A Threat Hunter’s Guide to Nushell | Adam Goss | [Read More](https://medium.com/p/acc0212edd32) |
-| Mon, 06 Oct 2025 10:56:22 GMT | CVE-2025–49844: When Lua Scripts Turn Lethal in Redis | gm0 | [Read More](https://medium.com/p/753cecad8438) |
-| Mon, 06 Oct 2025 10:56:15 GMT | RST TI Report Digest: 06 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/12f70b660515) |
-| Mon, 06 Oct 2025 10:54:54 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/d9beb5e5ce93) |
-| Mon, 06 Oct 2025 10:53:15 GMT | Location Owned — WAF Bypass via Misconfiguration | himorinholucas666 | [Read More](https://medium.com/p/b24df80a6038) |
-| Mon, 06 Oct 2025 10:51:26 GMT | Best Toll-Free Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/44399dfbe5ae) |
-| Mon, 06 Oct 2025 10:51:17 GMT | The Future of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/13d26f1d910b) |
-| Mon, 06 Oct 2025 10:40:57 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/61bd18d7f19e) |
-| Mon, 06 Oct 2025 10:38:27 GMT | Hashing in Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/6de06e8fc81c) |
-| Mon, 06 Oct 2025 10:30:48 GMT | From Manual to Smart Tracking - Best Field Force Management Software In India | Mathewneelan | [Read More](https://medium.com/p/fc46e1b60911) |
-| Mon, 06 Oct 2025 10:30:43 GMT | From Curation to Context: Building a Smarter Cybersecurity News Workflow | Jay Simmons | [Read More](https://medium.com/p/d81e195f960d) |
