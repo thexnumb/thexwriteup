@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 10:15:37 GMT | Hackers Exploiting Oracle E-Business Suite - Oracle Zero-Day CVE-2025–61882 EXPLAINED | Motasem Hamdan | [Read More](https://medium.com/p/cf353b54eec8) |
+| Mon, 06 Oct 2025 10:11:31 GMT | Gemini CLI Now Integrates with Kali Linux to Automate Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/578bdb7c51ca) |
+| Mon, 06 Oct 2025 10:10:51 GMT | The Importance of Data Privacy | Rehaan Sahay | [Read More](https://medium.com/p/3a89cf7047c4) |
+| Mon, 06 Oct 2025 10:10:19 GMT | My First Bug Hunt: How I Found a P5 Vulnerability | Jyothismohan | [Read More](https://medium.com/p/a4cddfe2af84) |
+| Mon, 06 Oct 2025 10:06:07 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/ed2f3aa534e3) |
+| Mon, 06 Oct 2025 10:05:53 GMT | :  “ ” | Ankit Patel | [Read More](https://medium.com/p/1b71da3f6bc3) |
+| Mon, 06 Oct 2025 10:01:48 GMT | Local de propriedade — desvio do WAF por meio de configuração incorreta | himorinholucas666 | [Read More](https://medium.com/p/3ff8a51ba6c0) |
+| Mon, 06 Oct 2025 10:00:08 GMT | SORVEPOTEL: a fast, self-propagating WhatsApp malware — what we know and how organizations should… | Germano Costi | [Read More](https://medium.com/p/b1cb877461df) |
+| Mon, 06 Oct 2025 10:00:06 GMT | Unleashing The Potential Of Certificates For Privilege Escalation | Redfox Security | [Read More](https://medium.com/p/c22f1a54cc5b) |
+| Mon, 06 Oct 2025 10:00:01 GMT | INDUSTRIAL POLICIES IN COMMERCIAL AVIATION | Eniola Anjolaoluwa Ogunfolabi | [Read More](https://medium.com/p/d81eeb8106ab) |
+| Mon, 06 Oct 2025 09:59:25 GMT | Part 5 : Security in the Commit Phase: Making CI/CD Smarter, Not Slower | Dean | [Read More](https://medium.com/p/03ef9edabb9d) |
+| Mon, 06 Oct 2025 09:51:38 GMT | Authentication Bypass: Mis-scoped SAML Sessions Enable User Impersonation | Abdo Rabea (0xOverlord) | [Read More](https://medium.com/p/fd73ce7fbea0) |
+| Mon, 06 Oct 2025 09:47:24 GMT | Hackor[n] CTF 2025 Qualifiers — My 12th Place Walkthrough | FAMOUS PIYUSH | [Read More](https://medium.com/p/d081cbcd1ef1) |
+| Mon, 06 Oct 2025 09:45:14 GMT | The Robotic World: | Saqib Sultan | [Read More](https://medium.com/p/c6c0c1353321) |
+| Mon, 06 Oct 2025 09:45:01 GMT | Data Residency and Compliance in Jira Cloud | Erdem UÇAK | [Read More](https://medium.com/p/7d7407102930) |
 | Mon, 06 Oct 2025 09:38:08 GMT | Hancitor/Chanitor Trojan | R.D.Tarun | [Read More](https://medium.com/p/dbe73849c3c2) |
 | Mon, 06 Oct 2025 09:37:45 GMT | Cyber Security and Ethical Hacking Training in Chandigarh — Secure Your Future with CNT… | Cnt Technologies | [Read More](https://medium.com/p/844711eca552) |
 | Mon, 06 Oct 2025 09:29:04 GMT | What is Cybersecurity | Excellencekritika | [Read More](https://medium.com/p/d82587b2160b) |
@@ -23,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 09:15:04 GMT | The Complete Governance House: How IT and Security Frameworks Fit Together (Part 1) | Amrik  Hanjra | [Read More](https://medium.com/p/9109a4839feb) |
 | Mon, 06 Oct 2025 09:13:59 GMT | Lab 7 SQL injection UNION attack, determining the number of columns returned by the query | Apexium Technologies Ltd | [Read More](https://medium.com/p/85dc7f97fa89) |
 | Mon, 06 Oct 2025 09:13:33 GMT | Lab 8: SQL injection UNION attack, finding a column containing text | Apexium Technologies Ltd | [Read More](https://medium.com/p/25d2cca37c48) |
+| Mon, 06 Oct 2025 09:13:29 GMT | Mengenal dan Menguasai Dasar-Dasar Database Management System (DBMS) dengan MySQL | TAUFAN IKHSAN FIRDAUS | [Read More](https://medium.com/p/c00cbf2fc321) |
 | Mon, 06 Oct 2025 09:13:03 GMT | Lab 5: SQL injection attack, listing the database contents on non-Oracle databases | Apexium Technologies Ltd | [Read More](https://medium.com/p/68d231d65a6b) |
 | Mon, 06 Oct 2025 09:11:55 GMT | Understanding CRM System Examples for Every Business | Bhavesh Rajpurohit | [Read More](https://medium.com/p/f6d01e8e670c) |
 | Mon, 06 Oct 2025 09:08:02 GMT | Internal Audit: Strengthening Governance, Risk and Security Posture | Daniel | [Read More](https://medium.com/p/e7bcef109f42) |
@@ -97,20 +113,3 @@ By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
 | Mon, 06 Oct 2025 05:28:00 GMT | Journey of Linux: From a Student’s Dream to the World’s Favourite Operating System | Dhanush N | [Read More](https://medium.com/p/252cd271451f) |
 | Mon, 06 Oct 2025 05:23:34 GMT | How I accidentally created a “Zip Bomb” using Java/Apache POI | Robin Gahlawat | [Read More](https://medium.com/p/0507155e94fd) |
 | Mon, 06 Oct 2025 05:22:35 GMT | Best Website Security Tools for 2025 (Free & Paid Options) | Startup Blooms | [Read More](https://medium.com/p/57936560d71e) |
-| Mon, 06 Oct 2025 05:22:11 GMT | The Weight of Being Seen | Maham Tanveer | [Read More](https://medium.com/p/d327250b5dba) |
-| Mon, 06 Oct 2025 05:21:10 GMT | The Python Hack That Made My Password Cracker 100x Faster | Muhummad Zaki | [Read More](https://medium.com/p/990b9c37ecee) |
-| Mon, 06 Oct 2025 05:15:46 GMT | Chinedu Okoro and the Magic Dolphin: a new CTF to test your wits | Cristhian Azuero | [Read More](https://medium.com/p/24cb23be7196) |
-| Mon, 06 Oct 2025 05:01:27 GMT | Cloudflare Thwarts Record-Breaking 22.2 Tbps DDoS Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/09ab07f87f4b) |
-| Mon, 06 Oct 2025 04:55:04 GMT | Why You Struggle to Say What You Feel — and How to Finally Find the Words | Dr. Nilantika Chakraborty, Ph.D. | [Read More](https://medium.com/p/7c64581a57c8) |
-| Mon, 06 Oct 2025 04:51:50 GMT | Why API Gateways Fail as a Security Boundary and What the Industry Keeps Getting Wrong | Sharat Nautiyal | [Read More](https://medium.com/p/b1edf73cc599) |
-| Mon, 06 Oct 2025 04:44:41 GMT | Why Dark Web Monitoring Is Crucial for Protecting Your Business | Ai Writter Tools | [Read More](https://medium.com/p/d067e2f68475) |
-| Mon, 06 Oct 2025 04:42:50 GMT | CCPA Compliance Guide for Indian Businesses | Shivakshi Rawat | [Read More](https://medium.com/p/a8a4be27ab56) |
-| Mon, 06 Oct 2025 04:42:21 GMT | The Importance of Cybersecurity in E-commerce | Ann Maria | [Read More](https://medium.com/p/3bdc763a47d6) |
-| Mon, 06 Oct 2025 04:40:20 GMT | 1 + 1 != 2 PART III | Pseudonotes | [Read More](https://medium.com/p/5c7ff12f62a4) |
-| Mon, 06 Oct 2025 04:39:17 GMT | How to perform a phishing attack with Zphisher (easy tutorial) | Jackson Mittag | [Read More](https://medium.com/p/1776dc5e4f2b) |
-| Mon, 06 Oct 2025 04:37:05 GMT | Week 3, episode 5 -A Security Playbook for Modern Data Science | The Bot Group | [Read More](https://medium.com/p/0370f18b201f) |
-| Mon, 06 Oct 2025 04:33:21 GMT | How AI is Revolutionizing Online Brand Protection | Ai Writter Tools | [Read More](https://medium.com/p/3c32a17d6d67) |
-| Mon, 06 Oct 2025 04:33:09 GMT | Simple Guide to Security Solutions in Singapore for Small Businesses | Jane Tang | [Read More](https://medium.com/p/84355024d3e5) |
-| Mon, 06 Oct 2025 04:32:18 GMT | ️ Security Tips for Newly Admitted Students
-By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | [Read More](https://medium.com/p/ece83a61c592) |
-| Mon, 06 Oct 2025 04:32:16 GMT | Deep Dive: Snowflake Access History for Data Governance and Compliance | Rajiv Gupta | [Read More](https://medium.com/p/0b2cf36abf0f) |
