@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 11:32:06 GMT | What is Obfuscation (in plain English)?
+ Think of it as scrambling your app’s blueprint. | Musaddiq Ahmed Khan | [Read More](https://medium.com/p/ee122dc538ae) |
+| Mon, 06 Oct 2025 11:30:51 GMT | Efficient Access Control with Tripod Turnstile Gates by FIA | Marksmith | [Read More](https://medium.com/p/523fef91ee43) |
+| Mon, 06 Oct 2025 11:30:25 GMT | How Threat Modeling Helps Identify Potential Security Risks | Digital Defense | [Read More](https://medium.com/p/5fe9758aa4e6) |
+| Mon, 06 Oct 2025 11:25:23 GMT | Is Btc01.org a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/ed8a2034844c) |
+| Mon, 06 Oct 2025 11:17:59 GMT | The Future of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/866f93782bcf) |
+| Mon, 06 Oct 2025 11:17:16 GMT | Securinets CTF Quals 2025 Forensics SILENT VISITOR Writeup | D3XTER | [Read More](https://medium.com/p/95088f4128b9) |
+| Mon, 06 Oct 2025 11:11:10 GMT | Splunk + Cisco .conf25 Recap: AI, Architecture, and the Future of Digital Resilience | Apto Solutions | [Read More](https://medium.com/p/38a057212d6d) |
 | Mon, 06 Oct 2025 11:10:11 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/7e9352d99444) |
 | Mon, 06 Oct 2025 11:07:06 GMT | The Psychology of Hackers: Why Your Brain Is Their Favorite Weapon | Arfa | [Read More](https://medium.com/p/4bfa04996e7b) |
 | Mon, 06 Oct 2025 11:06:19 GMT | The Hidden Danger: How Caching Can Be a Cybersecurity Risk in Today’s Digital World” | ZASHA | [Read More](https://medium.com/p/1445934ce753) |
@@ -67,6 +75,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 09:02:20 GMT | Why ISO 27001 Matters for Healthcare: Building Cyber Resilience in a Vulnerable Sector | Hicomply | [Read More](https://medium.com/p/f0d50e74a163) |
 | Mon, 06 Oct 2025 09:00:08 GMT | Security Vulnerabilities in ABAP: Hidden Risks and Solutions | Recep Aksakaloğlu | [Read More](https://medium.com/p/610c1e4f352d) |
 | Mon, 06 Oct 2025 08:54:41 GMT | Why Cloud Computing Is the Backbone of the Future IT World | JetkingChandigarh | [Read More](https://medium.com/p/2c107c9b718c) |
+| Mon, 06 Oct 2025 08:53:05 GMT | ”Güvenlik ve Performansı” Gözlemlenebilirlik Yoluyla İş Hedeflerinizde Nasıl Dengelersiniz? | Perform Yazılım | [Read More](https://medium.com/p/6d39b6272886) |
 | Mon, 06 Oct 2025 08:52:26 GMT | Déjà Vu in the Void: An Agentic IDE Compromised by Known Tricks | Idan Habler | [Read More](https://medium.com/p/56c3c492a077) |
 | Mon, 06 Oct 2025 08:52:20 GMT | Why Vibe Coding Feels Like Magic but Might Also Be Dangerous | Czarif | [Read More](https://medium.com/p/8193e3dea8b9) |
 | Mon, 06 Oct 2025 08:50:50 GMT | Extortion Emails? “Don’t Pay!” Oracle & Google’s Warning. | Truspex | [Read More](https://medium.com/p/76ee28b31781) |
@@ -105,11 +114,3 @@ By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
 | Mon, 06 Oct 2025 07:01:54 GMT | Continuous Security Testing in CI/CD Pipelines for Financial Applications | Mavidev Software And Consulting Co. | [Read More](https://medium.com/p/0d67d863f5ac) |
 | Mon, 06 Oct 2025 07:00:53 GMT | Breaking Into HackTheBox: My Journey from Script Kiddie to Root | Aj | [Read More](https://medium.com/p/d1cb5baeb758) |
 | Mon, 06 Oct 2025 06:59:22 GMT | Understanding AI Security: Safeguarding Artificial Intelligence in the Age of Smart Systems | Valorem Reply | [Read More](https://medium.com/p/45db07af5d3f) |
-| Mon, 06 Oct 2025 06:58:34 GMT | OSINT: Google Dorking Hacks: The X-Ray Vision for Google Search | S.Ali | [Read More](https://medium.com/p/8c6cd8335ff2) |
-| Mon, 06 Oct 2025 06:56:12 GMT | Securing Browsers From the Ground Up: My Personal Evaluation of Protective Extensions | Deathrow8008s | [Read More](https://medium.com/p/438c2e41cf99) |
-| Mon, 06 Oct 2025 06:54:25 GMT | The Best Data Privacy & Security Lawyers for US Tech Startups | Hansen Tong | [Read More](https://medium.com/p/2d89e7600cf8) |
-| Mon, 06 Oct 2025 06:49:52 GMT | What is CORS? A Simple Guide to How Browsers and Servers Talk Securely | Darshan Londhe | [Read More](https://medium.com/p/177b92dd69e3) |
-| Mon, 06 Oct 2025 06:44:12 GMT | Why Flutter App Development in Qatar Is Perfect for Modern Startup | Five Programmers | [Read More](https://medium.com/p/9ba5c9fc790f) |
-| Mon, 06 Oct 2025 06:43:22 GMT | Memory Management Best Practices for PostgreSQL in AI Applications | Rizqi Mulki | [Read More](https://medium.com/p/aa99e185d6a3) |
-| Mon, 06 Oct 2025 06:42:08 GMT | 10 Must-Have IT Vulnerability Assessment Tools for Every IT Professional | Qualysec | [Read More](https://medium.com/p/6bab5352b17b) |
-| Mon, 06 Oct 2025 06:39:52 GMT | How About Exploring Cybersecurity as a Math’s Graduate for MSc? | Adeleke Theophilus O | [Read More](https://medium.com/p/48391f1aea6f) |
