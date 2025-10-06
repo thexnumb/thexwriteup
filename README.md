@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 23:10:38 GMT | When Integrity Collides with Bureaucracy: The Price of Leadership in Cybersecurity — and Why… | Taher Amine ELHOUARI | [Read More](https://medium.com/p/d5398c35d740) |
+| Mon, 06 Oct 2025 22:54:05 GMT | How I built a Phishing Website Detection Model Using Machine Learning | Rohith Srinivasa | [Read More](https://medium.com/p/4c7ae2871140) |
+| Mon, 06 Oct 2025 22:44:34 GMT | HYPERINDEPENDENCE | Ayotomide Osunlola | [Read More](https://medium.com/p/0ed32dd6a38f) |
+| Mon, 06 Oct 2025 22:30:17 GMT | IDS Fundamentals - THM | Isiah | [Read More](https://medium.com/p/87d48f183dac) |
 | Mon, 06 Oct 2025 22:27:19 GMT | How to compile VulnHub’s x86_64 Boxes on an Apple Silicon Mac | Kyo | [Read More](https://medium.com/p/4e8b7f5fed6f) |
 | Mon, 06 Oct 2025 22:26:28 GMT | Figma 2025: Redefining the Future of Collaborative Design | Jack Melo | [Read More](https://medium.com/p/49969619c939) |
 | Mon, 06 Oct 2025 22:20:55 GMT | The Trojan Horse of Python: “soopsocks” | Cyber-AppSec | [Read More](https://medium.com/p/f245facccbef) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 15:58:50 GMT | On Vulnerability, Memory, and the Pictures I Never Delete | Ikhlas Sabilly | [Read More](https://medium.com/p/b4aaad57862d) |
 | Mon, 06 Oct 2025 15:58:33 GMT | Work From Anywhere: Secure QuickBooks Remote Access | OneUp Networks | [Read More](https://medium.com/p/ef82d8a7c2ef) |
 | Mon, 06 Oct 2025 15:58:02 GMT | The Future of Networking: AI, Zero Trust, and the End of the Traditional LAN | Paradise technologies Inc | [Read More](https://medium.com/p/c5050b39394c) |
-| Mon, 06 Oct 2025 15:57:53 GMT | Cybersecurity Awareness Month Special Edition | Dr. Shashi Karhail | [Read More](https://medium.com/p/39d19756e6fd) |
-| Mon, 06 Oct 2025 15:52:14 GMT | #5 of Learning DevOps Concepts as a Full Stack Developer: Optimizing My Dockerfile — Making It… | Amandeep Singh | [Read More](https://medium.com/p/7682f595d002) |
-| Mon, 06 Oct 2025 15:45:49 GMT | The Dark Web Explained by an Ethical Hacker | M M A AL NOMAN | [Read More](https://medium.com/p/d6e62dbd43f7) |
-| Mon, 06 Oct 2025 15:43:49 GMT | AI Reshapes Cybersecurity: The Rise of the AI-Native SOC | Valentin Podkamennyi | [Read More](https://medium.com/p/c77c3409da0d) |
