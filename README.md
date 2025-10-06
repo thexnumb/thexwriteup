@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 19:00:20 GMT | Fortinet FortiEDR | SAM Romania | [Read More](https://medium.com/p/224c656f9fad) |
+| Mon, 06 Oct 2025 18:57:00 GMT | Tryhackme — Volt Typhoon | asliulusoy | [Read More](https://medium.com/p/1cd43b63e818) |
+| Mon, 06 Oct 2025 18:53:16 GMT | Certified Kubernetes Administrator P-11 Security in K8s | Samsor Rahman | [Read More](https://medium.com/p/b5e834aacee5) |
+| Mon, 06 Oct 2025 18:52:25 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/bb14c43ac7e3) |
+| Mon, 06 Oct 2025 18:47:05 GMT | The Tired Version of Me Deserves to Be Loved Too | Darpan Murly | [Read More](https://medium.com/p/5eae69f87152) |
+| Mon, 06 Oct 2025 18:45:56 GMT | From Data to Defense: A Deep Dive into Statistics and Its Crucial Role in Cybersecurity | HrudaySagarG | [Read More](https://medium.com/p/0cf848c5b9ae) |
+| Mon, 06 Oct 2025 18:45:13 GMT | Think Like a Hacker: An Intro to the 4 Tools Cybersecurity Pros Use Daily | orioninsist | [Read More](https://medium.com/p/42f2bd736aa7) |
+| Mon, 06 Oct 2025 18:41:13 GMT | Crypto Laundering on the Dark Web: How Dirty Coins Become Spendable | Mathews kuruvila | [Read More](https://medium.com/p/712b8e33d7cf) |
+| Mon, 06 Oct 2025 18:40:19 GMT | HacktheBox: Forest Walkthrough | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/dbe7fd19526d) |
 | Mon, 06 Oct 2025 18:24:14 GMT | Tryhackme - Source Türkçe Anlatım | nightbird | [Read More](https://medium.com/p/ec937128f948) |
 | Mon, 06 Oct 2025 18:22:10 GMT | Cybersecurity 101: The 5 Fundamental Concepts You Must Know | orioninsist | [Read More](https://medium.com/p/58bae5635960) |
 | Mon, 06 Oct 2025 18:20:19 GMT | Bandit - Level 8→ 9- OverTheWire | Deepika  B | [Read More](https://medium.com/p/866a06629cae) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 14:16:48 GMT | Top 7 Phishing Scams Targeting Businesses in 2025 and How to Avoid Them | IT_Engineer | [Read More](https://medium.com/p/2bf874150506) |
 | Mon, 06 Oct 2025 14:16:00 GMT | The Human Factor in OT Security: Training Engineers and Operators for Cyber Defense | Cyberkech | [Read More](https://medium.com/p/fc60e790c277) |
 | Mon, 06 Oct 2025 14:07:49 GMT | I Stopped Chasing Frameworks and My Code Got Better | Manav Pandya | [Read More](https://medium.com/p/931814b26cc1) |
-| Mon, 06 Oct 2025 14:06:53 GMT | CAPTCHA Bypass Allows Signup Progression Without Proper Validation | Mo7arebSec | [Read More](https://medium.com/p/ac95e7500168) |
-| Mon, 06 Oct 2025 14:06:29 GMT | Creating Secure Authentication Systems in Modern Web Apps with NextAuth.js | @rnab | [Read More](https://medium.com/p/58d335eaa72c) |
-| Mon, 06 Oct 2025 14:06:01 GMT | Love Someone Who Lets You Be a Child Again | tiner | [Read More](https://medium.com/p/d00e152b0740) |
-| Mon, 06 Oct 2025 14:06:01 GMT | Part 8: (a).A Guide to Effective Website Information Gathering | Intelithics | [Read More](https://medium.com/p/d19a9b5902a4) |
-| Mon, 06 Oct 2025 14:03:16 GMT | TryHackMe Forensics Room Walkthrough: Analyzing a Compromised System Memory Dump | Umer | [Read More](https://medium.com/p/ab6cac91b61e) |
-| Mon, 06 Oct 2025 14:02:06 GMT | Cyber Briefing: 2025.10.06 | CyberMaterial | [Read More](https://medium.com/p/f115206c2396) |
-| Mon, 06 Oct 2025 14:00:51 GMT | Strategic IT Consulting for Long-Term Success | IPSpecialist | [Read More](https://medium.com/p/6577ca348862) |
-| Mon, 06 Oct 2025 13:59:59 GMT | Threat and Vulnerabilities Report — September 2025 | Loginsoft | [Read More](https://medium.com/p/e10a32194850) |
-| Mon, 06 Oct 2025 13:59:56 GMT | ⚡ Flash USDT (“Fake USDT”); The Illusion That Keeps Fooling Crypto Users | Crypto Savvy | [Read More](https://medium.com/p/90076b1ef079) |
