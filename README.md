@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 22:27:19 GMT | How to compile VulnHub’s x86_64 Boxes on an Apple Silicon Mac | Kyo | [Read More](https://medium.com/p/4e8b7f5fed6f) |
+| Mon, 06 Oct 2025 22:26:28 GMT | Figma 2025: Redefining the Future of Collaborative Design | Jack Melo | [Read More](https://medium.com/p/49969619c939) |
+| Mon, 06 Oct 2025 22:20:55 GMT | The Trojan Horse of Python: “soopsocks” | Cyber-AppSec | [Read More](https://medium.com/p/f245facccbef) |
 | Mon, 06 Oct 2025 21:56:06 GMT | Run Unit Tests on Your Security: BAS for 2025 | Chris Zhang | [Read More](https://medium.com/p/1c35eb6c71c7) |
 | Mon, 06 Oct 2025 21:51:45 GMT | Understanding the “Your Connection is Not Private” Error | Luca Berton | [Read More](https://medium.com/p/bf58d2c66ca1) |
 | Mon, 06 Oct 2025 21:48:39 GMT | Air-Gapped, Not Handcuffed: Bootstrapping a Secure Offline Docker Registry in One Afternoon | Cesar Cardoso | [Read More](https://medium.com/p/8892b5211906) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 15:52:14 GMT | #5 of Learning DevOps Concepts as a Full Stack Developer: Optimizing My Dockerfile — Making It… | Amandeep Singh | [Read More](https://medium.com/p/7682f595d002) |
 | Mon, 06 Oct 2025 15:45:49 GMT | The Dark Web Explained by an Ethical Hacker | M M A AL NOMAN | [Read More](https://medium.com/p/d6e62dbd43f7) |
 | Mon, 06 Oct 2025 15:43:49 GMT | AI Reshapes Cybersecurity: The Rise of the AI-Native SOC | Valentin Podkamennyi | [Read More](https://medium.com/p/c77c3409da0d) |
-| Mon, 06 Oct 2025 15:40:19 GMT | Linux Privilege Escalation Room Write Up | Ethan Wang | [Read More](https://medium.com/p/df05c7d3acd3) |
-| Mon, 06 Oct 2025 15:35:02 GMT | USB HID Attack / Keystroke Injection | Maruti Marathe | [Read More](https://medium.com/p/024fb67a75fd) |
-| Mon, 06 Oct 2025 15:30:59 GMT | Network Penetration Testing: Identify Vulnerabilities Before Hackers Do | Fuzail Al Arabia | [Read More](https://medium.com/p/9ddc2431e880) |
