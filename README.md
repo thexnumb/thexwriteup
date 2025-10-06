@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 08:15:31 GMT | Advanced Access Control with Checkpoint Access | Office | [Read More](https://medium.com/p/50e06efe496b) |
+| Mon, 06 Oct 2025 08:08:53 GMT | TryHackMe : Splunk: Exploring SPL | Rindaman666 | [Read More](https://medium.com/p/92417e75514a) |
+| Mon, 06 Oct 2025 08:07:37 GMT | Smarter Access with Checkpoint Access | Office | [Read More](https://medium.com/p/570b1ff8c61b) |
+| Mon, 06 Oct 2025 08:05:48 GMT | Cryptography Basics: The Foundation of Our Digital World | Sumit Sah | [Read More](https://medium.com/p/3dae5d9f9f0e) |
+| Mon, 06 Oct 2025 08:05:11 GMT | Discovery toolkit: Parking lot | Cait Graaf | [Read More](https://medium.com/p/fd8068d20587) |
+| Mon, 06 Oct 2025 08:03:35 GMT | Timelapse Machine Writeup | Cy3erS@up | [Read More](https://medium.com/p/04c01921599c) |
+| Mon, 06 Oct 2025 07:54:29 GMT | SubHub: Lighting Up the Network with Trusted Signals 
+By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
+| Mon, 06 Oct 2025 07:50:38 GMT | Oracle Confirms Potential Exploitation of Known Vulnerabilities in Recent Cyber Extortion Attacks | Securis360 Inc. | [Read More](https://medium.com/p/e11834420a80) |
+| Mon, 06 Oct 2025 07:46:09 GMT | ISO 27001 Remote Working Policy: The Missing Piece in Cybersecurity | SecureSlate | [Read More](https://medium.com/p/bb09c30bf766) |
+| Mon, 06 Oct 2025 07:41:57 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/481db5e4fc3d) |
 | Mon, 06 Oct 2025 07:35:00 GMT | Chaining Vulnerabilities: From Low to High — My TryHackMe Lab Walkthrough | Chandan Nayak | [Read More](https://medium.com/p/e47b43a163d1) |
+| Mon, 06 Oct 2025 07:32:34 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/08c042e2bdbf) |
 | Mon, 06 Oct 2025 07:19:22 GMT | Security Best Practices in Django 2025: Navigating OWASP Top 10 | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/1f52e1309444) |
 | Mon, 06 Oct 2025 07:17:26 GMT | How operating System (OS) handle Security ? | Vansh_Makkar | [Read More](https://medium.com/p/89fbaab95b21) |
 | Mon, 06 Oct 2025 07:13:21 GMT | Zimbra Zero-Day, Weaponized .ICS | Germano Costi | [Read More](https://medium.com/p/9ea9ae8e0edd) |
@@ -102,14 +114,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Mon, 06 Oct 2025 00:45:53 GMT | Learning AWS Services — Threat Intelligence Dashboard | Davis Mtui | [Read More](https://medium.com/p/2646862115e7) |
 | Mon, 06 Oct 2025 00:40:38 GMT | When a Single Flame Topples a Nation’s Digital Defenses | SECURE IT! | [Read More](https://medium.com/p/6cf4e6b3becb) |
 | Mon, 06 Oct 2025 00:30:41 GMT | HackTheBox -EscapeTwo | jniket | [Read More](https://medium.com/p/f9c5c34ef558) |
-| Mon, 06 Oct 2025 00:28:55 GMT | Estonia’s Digital Trust vs. The UK’s Control Model | Ian McIntire | [Read More](https://medium.com/p/dd5b887bd6d8) |
-| Mon, 06 Oct 2025 00:28:52 GMT | Quantum Safe Cloud Cryptography Part II: What to Learn? | MSBJ | [Read More](https://medium.com/p/e9c0dcbecfb3) |
-| Mon, 06 Oct 2025 00:16:53 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/4868cac6f1a7) |
-| Mon, 06 Oct 2025 00:10:54 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/cf79e4b1b9cb) |
-| Mon, 06 Oct 2025 00:05:10 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/70ecc30bcc50) |
-| Mon, 06 Oct 2025 00:02:08 GMT | How I Passed the EWPTX (and What Actually Matters) | Juan Felipe Osorio Z | [Read More](https://medium.com/p/c4d6ad439c90) |
-| Sun, 05 Oct 2025 23:59:22 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/09af37e27944) |
-| Sun, 05 Oct 2025 23:55:04 GMT | Phishing Scams: What They Are and How to Spot Them | Samirah A.O | [Read More](https://medium.com/p/024de3f35b7c) |
-| Sun, 05 Oct 2025 23:51:49 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/83589320b993) |
-| Sun, 05 Oct 2025 23:37:12 GMT | The First Step Into Cybersecurity: Simple Habits That Make a Big Difference | Syed Abdul Malik | [Read More](https://medium.com/p/340cf7485e90) |
-| Sun, 05 Oct 2025 23:34:36 GMT | CVE-2025–61882 — Critical RCE in Oracle E-Business Suite (CVSS 9.8) | Cybersecplayground | [Read More](https://medium.com/p/3b2bc6d4a015) |
