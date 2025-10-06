@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 16:17:36 GMT | ️ Security Guide Every Programmer Must Know: Protect Your Code, App & Server Like a Pro! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/c1629d385d41) |
+| Mon, 06 Oct 2025 16:12:18 GMT | Hack The Box — Puppy Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/b8ddab9d701c) |
+| Mon, 06 Oct 2025 16:07:04 GMT | Windows Server 2022 HomeLab | Emmanuel Samuel | [Read More](https://medium.com/p/1a5e2b1db926) |
+| Mon, 06 Oct 2025 16:06:46 GMT | When AI Meets Application Rationalization: The Hidden Risk No One’s Talking About | Jared Hudgins | [Read More](https://medium.com/p/c04d1c3e858a) |
+| Mon, 06 Oct 2025 16:03:57 GMT | Your Gaming Mouse Could Be Spying on You: The Alarming “Mic-E-Mouse” AI Attack That Listens Through… | Kamal Acharya | [Read More](https://medium.com/p/4f812b8dc6b3) |
+| Mon, 06 Oct 2025 15:59:23 GMT | Data Safety Awareness Series : Post 4 | Juned Silavat | [Read More](https://medium.com/p/c05d4d7663bd) |
+| Mon, 06 Oct 2025 15:58:50 GMT | On Vulnerability, Memory, and the Pictures I Never Delete | Ikhlas Sabilly | [Read More](https://medium.com/p/b4aaad57862d) |
+| Mon, 06 Oct 2025 15:58:33 GMT | Work From Anywhere: Secure QuickBooks Remote Access | OneUp Networks | [Read More](https://medium.com/p/ef82d8a7c2ef) |
+| Mon, 06 Oct 2025 15:58:02 GMT | The Future of Networking: AI, Zero Trust, and the End of the Traditional LAN | Paradise technologies Inc | [Read More](https://medium.com/p/c5050b39394c) |
+| Mon, 06 Oct 2025 15:57:53 GMT | Cybersecurity Awareness Month Special Edition | Dr. Shashi Karhail | [Read More](https://medium.com/p/39d19756e6fd) |
+| Mon, 06 Oct 2025 15:52:14 GMT | #5 of Learning DevOps Concepts as a Full Stack Developer: Optimizing My Dockerfile — Making It… | Amandeep Singh | [Read More](https://medium.com/p/7682f595d002) |
+| Mon, 06 Oct 2025 15:45:49 GMT | The Dark Web Explained by an Ethical Hacker | M M A AL NOMAN | [Read More](https://medium.com/p/d6e62dbd43f7) |
+| Mon, 06 Oct 2025 15:43:49 GMT | AI Reshapes Cybersecurity: The Rise of the AI-Native SOC | Valentin Podkamennyi | [Read More](https://medium.com/p/c77c3409da0d) |
+| Mon, 06 Oct 2025 15:40:19 GMT | Linux Privilege Escalation Room Write Up | Ethan Wang | [Read More](https://medium.com/p/df05c7d3acd3) |
 | Mon, 06 Oct 2025 15:35:02 GMT | USB HID Attack / Keystroke Injection | Maruti Marathe | [Read More](https://medium.com/p/024fb67a75fd) |
 | Mon, 06 Oct 2025 15:30:59 GMT | Network Penetration Testing: Identify Vulnerabilities Before Hackers Do | Fuzail Al Arabia | [Read More](https://medium.com/p/9ddc2431e880) |
 | Mon, 06 Oct 2025 15:28:56 GMT | How I Found CoinCollect Experts on Google and Got My BTC Back | Se Lina | [Read More](https://medium.com/p/e316f50c38dc) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 12:21:55 GMT | The Hidden Costs of Ignoring Data Protection | Nagaraj | [Read More](https://medium.com/p/135953b253bb) |
 | Mon, 06 Oct 2025 12:16:27 GMT | Cybersecurity Foundations Series: Part 6 — Governance Processes and Security Frameworks | TechStoryLines | [Read More](https://medium.com/p/11e6239c4a35) |
 | Mon, 06 Oct 2025 12:15:30 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/83950e1615ed) |
-| Mon, 06 Oct 2025 12:14:41 GMT | Best IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/c79573788680) |
-| Mon, 06 Oct 2025 12:12:08 GMT | PoisonedCredentials Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/25b79523ccb9) |
-| Mon, 06 Oct 2025 12:09:37 GMT | 10 Cybersecurity Mistakes You Are Making Everyday | edX | [Read More](https://medium.com/p/6fb10063dce9) |
-| Mon, 06 Oct 2025 12:09:24 GMT | Secure Your Future: An Investment That Comes Without Risk | Connecting Cyber Networks | [Read More](https://medium.com/p/b693bb02b346) |
-| Mon, 06 Oct 2025 12:07:31 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/269fc7b4a804) |
-| Mon, 06 Oct 2025 12:04:47 GMT | Why are Virtual Meetings and IT Advancements Fueling Webcam Market Growth? | Frank Morgan | [Read More](https://medium.com/p/5d150005dbb9) |
-| Mon, 06 Oct 2025 12:03:04 GMT | Wiz Cloud Security Championship — CTF | Bruno Agostinho | [Read More](https://medium.com/p/97988ab51a5f) |
-| Mon, 06 Oct 2025 12:02:09 GMT | Evading the Watchful Eye: A Red Teamer’s Guide to EDR Bypass Techniques | Alexandre Kim | [Read More](https://medium.com/p/e989a6f6c4ac) |
-| Mon, 06 Oct 2025 11:58:52 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/448d2667dd2d) |
-| Mon, 06 Oct 2025 11:56:27 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/e159628637eb) |
-| Mon, 06 Oct 2025 11:52:09 GMT | Exploitation Techniques via IPv6 | Esra Kayhan | [Read More](https://medium.com/p/cd658a5f2718) |
-| Mon, 06 Oct 2025 11:46:31 GMT | Anonymous în 2025: Haosul organizat al rezistenței digitale | Anonymous | [Read More](https://medium.com/p/120fa1e3416d) |
-| Mon, 06 Oct 2025 11:46:30 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/5665e98966eb) |
-| Mon, 06 Oct 2025 11:44:34 GMT | Proteção de dados locais em apps Flutter | Leonardo Oliveira | [Read More](https://medium.com/p/3f22010c47b6) |
