@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 15:35:02 GMT | USB HID Attack / Keystroke Injection | Maruti Marathe | [Read More](https://medium.com/p/024fb67a75fd) |
+| Mon, 06 Oct 2025 15:30:59 GMT | Network Penetration Testing: Identify Vulnerabilities Before Hackers Do | Fuzail Al Arabia | [Read More](https://medium.com/p/9ddc2431e880) |
+| Mon, 06 Oct 2025 15:28:56 GMT | How I Found CoinCollect Experts on Google and Got My BTC Back | Se Lina | [Read More](https://medium.com/p/e316f50c38dc) |
+| Mon, 06 Oct 2025 15:26:08 GMT | Predictions for OWASP TOP 10 2025 | Damion Waltermeyer | [Read More](https://medium.com/p/e8472ae777e1) |
+| Mon, 06 Oct 2025 15:26:01 GMT | Tryhackme — Mayhem Write-up | asliulusoy | [Read More](https://medium.com/p/20233f43ae54) |
+| Mon, 06 Oct 2025 15:25:11 GMT | Elastic Security Sandbox Installation & Usage — Chapter 2: Dynamic Malware Analysis with ELK… | Abdulkadir Sadi | [Read More](https://medium.com/p/938e1ac92b80) |
+| Mon, 06 Oct 2025 15:24:06 GMT | When Your Fingerprint Can Be Forced: Why SMEs and MSPs Need Stronger Password Protection | FlashX Cybersecurity | [Read More](https://medium.com/p/83e024e4828a) |
+| Mon, 06 Oct 2025 15:22:39 GMT | The $500 “Trivial” Bugs Everyone Ignores (And How I Cash In) | Aman Sharma | [Read More](https://medium.com/p/2f5f44f0d32e) |
 | Mon, 06 Oct 2025 15:19:18 GMT | Talisman Walkthrough | Jose Diaz | [Read More](https://medium.com/p/17f9d48072a6) |
+| Mon, 06 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 6, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/37ac219856e8) |
+| Mon, 06 Oct 2025 15:12:27 GMT | Step-by-Step Deployment Guide: MCP Tool Call in Copilot Studio agent with OAuth 2.0 | Afzal Muhammad | [Read More](https://medium.com/p/2064236c70f9) |
 | Mon, 06 Oct 2025 15:09:25 GMT | The Vue.js Secret That Made Companies Choose It Over React | Rizqi Mulki | [Read More](https://medium.com/p/33838eb4be25) |
 | Mon, 06 Oct 2025 15:08:41 GMT | Intelligent Clouds: How AI in the Cloud Will Redefine Work, Learning, and Healthcare | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/58e0bb7ee599) |
 | Mon, 06 Oct 2025 15:08:27 GMT | Top Government Leaks of the Past 5 Years: Comprehensive Analysis | Alec Furrier | [Read More](https://medium.com/p/3de00341a2d8) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 11:46:31 GMT | Anonymous în 2025: Haosul organizat al rezistenței digitale | Anonymous | [Read More](https://medium.com/p/120fa1e3416d) |
 | Mon, 06 Oct 2025 11:46:30 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/5665e98966eb) |
 | Mon, 06 Oct 2025 11:44:34 GMT | Proteção de dados locais em apps Flutter | Leonardo Oliveira | [Read More](https://medium.com/p/3f22010c47b6) |
-| Mon, 06 Oct 2025 11:43:33 GMT | Don’t Just Containerize — Secure It: The Full-Spectrum Docker Defense Playbook | Muhammad Taqi | [Read More](https://medium.com/p/6741c920b9fc) |
-| Mon, 06 Oct 2025 11:42:26 GMT | Top Vibe-Coding Security Risks | Netlas.io | [Read More](https://medium.com/p/8434e8b6be30) |
-| Mon, 06 Oct 2025 11:39:38 GMT | DockerLabs Writeup — Upload (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3b57136e353a) |
-| Mon, 06 Oct 2025 11:32:06 GMT | What is Obfuscation (in plain English)?
- Think of it as scrambling your app’s blueprint. | Musaddiq Ahmed Khan | [Read More](https://medium.com/p/ee122dc538ae) |
-| Mon, 06 Oct 2025 11:30:51 GMT | Efficient Access Control with Tripod Turnstile Gates by FIA | Marksmith | [Read More](https://medium.com/p/523fef91ee43) |
-| Mon, 06 Oct 2025 11:30:25 GMT | How Threat Modeling Helps Identify Potential Security Risks | Digital Defense | [Read More](https://medium.com/p/5fe9758aa4e6) |
-| Mon, 06 Oct 2025 11:25:23 GMT | Is Btc01.org a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/ed8a2034844c) |
-| Mon, 06 Oct 2025 11:17:59 GMT | The Future of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/866f93782bcf) |
-| Mon, 06 Oct 2025 11:17:16 GMT | Securinets CTF Quals 2025 Forensics SILENT VISITOR Writeup | D3XTER | [Read More](https://medium.com/p/95088f4128b9) |
-| Mon, 06 Oct 2025 11:11:10 GMT | Splunk + Cisco .conf25 Recap: AI, Architecture, and the Future of Digital Resilience | Apto Solutions | [Read More](https://medium.com/p/38a057212d6d) |
