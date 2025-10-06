@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 06:26:09 GMT | The Growing Importance of Electronic Security Solutions and Facility Management in India | Ciss India | [Read More](https://medium.com/p/d64bcd12480b) |
+| Mon, 06 Oct 2025 06:23:46 GMT | The Daily Tech Digest: 06 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b17f454502e9) |
+| Mon, 06 Oct 2025 06:20:36 GMT | HackTheBox — Holmes CTF 2025 | Fathijem | [Read More](https://medium.com/p/a8e0b8e9a8ea) |
+| Mon, 06 Oct 2025 06:19:14 GMT | Tokenization in Card Payments — A Guide for Developers and Product Leaders | Vikas Pandey | [Read More](https://medium.com/p/dc15d920ee98) |
+| Mon, 06 Oct 2025 06:15:16 GMT | How NetBackup Handles Data Integrity and Security | Nurali ATMACA | [Read More](https://medium.com/p/7f1214117adb) |
+| Mon, 06 Oct 2025 06:09:15 GMT | Phishing Exposed: The Art of Deception | Cyber Security Research | [Read More](https://medium.com/p/ece46b3fdd97) |
+| Mon, 06 Oct 2025 06:06:29 GMT | Exploring Advanced Techniques for Docker Security | @rnab | [Read More](https://medium.com/p/1addca778fd7) |
+| Mon, 06 Oct 2025 06:05:38 GMT | EA to CSP Transition Made Easy with - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/4ca1be22487d) |
+| Mon, 06 Oct 2025 06:02:24 GMT | What are the 5 Major Branches of Digital Forensics? | cyber security Updates | [Read More](https://medium.com/p/a4b0346b1d5c) |
+| Mon, 06 Oct 2025 05:52:28 GMT | The CometJacking Vulnerability | Midhun Thomas PT | [Read More](https://medium.com/p/a04d80ac0e70) |
+| Mon, 06 Oct 2025 05:52:11 GMT | October’s Theme at “  ” | Kakoli Aster♡ | [Read More](https://medium.com/p/75779486dd57) |
+| Mon, 06 Oct 2025 05:49:21 GMT | How to Configure Multi-Pool P2S VPN Using Azure VWAN | Brian Veldman | [Read More](https://medium.com/p/e1f87e9131da) |
+| Mon, 06 Oct 2025 05:47:50 GMT | The Hidden Threat: How One Simple Script Can Hijack Your Entire Web Session | Christopher Krueger | [Read More](https://medium.com/p/303e5664a059) |
 | Mon, 06 Oct 2025 05:28:00 GMT | Journey of Linux: From a Student’s Dream to the World’s Favourite Operating System | Dhanush N | [Read More](https://medium.com/p/252cd271451f) |
 | Mon, 06 Oct 2025 05:23:34 GMT | How I accidentally created a “Zip Bomb” using Java/Apache POI | Robin Gahlawat | [Read More](https://medium.com/p/0507155e94fd) |
 | Mon, 06 Oct 2025 05:22:35 GMT | Best Website Security Tools for 2025 (Free & Paid Options) | Startup Blooms | [Read More](https://medium.com/p/57936560d71e) |
@@ -100,16 +113,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Sun, 05 Oct 2025 21:32:13 GMT | 7 DuckDB-WASM Security Checks for Client-Side SQL | Nexumo | [Read More](https://medium.com/p/0e4f4860cbe8) |
 | Sun, 05 Oct 2025 21:31:46 GMT | Beyond Differential Privacy: Preventing Cyber Attacks in Enterprise AI Systems | Nishi Kaura | [Read More](https://medium.com/p/6c0016274e6f) |
 | Sun, 05 Oct 2025 21:29:30 GMT | What Startups Get Wrong About Cybersecurity — Insights from Mohammed of Lyte Technologies | Mohammed Joof | [Read More](https://medium.com/p/868650b7263e) |
-| Sun, 05 Oct 2025 21:26:02 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/f184c1ae7ba7) |
-| Sun, 05 Oct 2025 21:18:47 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/95e157ad4c1b) |
-| Sun, 05 Oct 2025 21:17:52 GMT | Platform Engineering vs Automation: The Next Evolution of DevOps in 2025 | Ashish Singh | [Read More](https://medium.com/p/b8d1ba5d35f8) |
-| Sun, 05 Oct 2025 21:14:11 GMT | Hello | Emi Dokubo | [Read More](https://medium.com/p/624fa5af13a9) |
-| Sun, 05 Oct 2025 21:10:39 GMT | CMMC 3.5.3 MFA Explained: How to Meet Multifactor Authentication Requirements | Arnold De La Vega | [Read More](https://medium.com/p/2ab31652b2ee) |
-| Sun, 05 Oct 2025 21:05:23 GMT | To Love Me, Let Me Love You | musingsfrommarc | [Read More](https://medium.com/p/4c6c1fc576f8) |
-| Sun, 05 Oct 2025 21:05:13 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/0441b198d9fa) |
-| Sun, 05 Oct 2025 21:04:31 GMT | Secret of the Polyglot — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/c6f9da49ee0d) |
-| Sun, 05 Oct 2025 21:03:45 GMT | People, Process, Then Technology: The Timeless Blueprint for Sustainable AI Transformation | ArchBeat | [Read More](https://medium.com/p/0f5a905028b6) |
-| Sun, 05 Oct 2025 20:59:17 GMT | Cyber Resilience: Bouncing Back from Attacks | Cyber Security Research | [Read More](https://medium.com/p/9b64203c3711) |
-| Sun, 05 Oct 2025 20:53:14 GMT | The Impact of AI on Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/e354acfad57b) |
-| Sun, 05 Oct 2025 20:47:05 GMT | The Role of Automation in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/e7d5bb063530) |
-| Sun, 05 Oct 2025 20:45:33 GMT | Cybersecurity Awareness Month: Day 5 Public WI-FI Risks | Ifeawoyemi | [Read More](https://medium.com/p/f889a69e1d90) |
