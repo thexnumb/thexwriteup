@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 20:31:03 GMT | Pelican (Proving Grounds) Walkthrough: From Foothold to Root | Sandeepsisodiya | [Read More](https://medium.com/p/56f7bc3c370e) |
+| Mon, 06 Oct 2025 20:24:14 GMT | TryHackMe Writeup: Borderlands | Berkay AĞGÜL | [Read More](https://medium.com/p/419bc61c2751) |
 | Mon, 06 Oct 2025 20:14:24 GMT | Discord’s Third-Party Breach: A Purple Team Analysis | Cyber and Coffee | [Read More](https://medium.com/p/9e705e4d8c46) |
 | Mon, 06 Oct 2025 20:09:40 GMT | TryHackMe SQHell — Walkthrough | mauzware | [Read More](https://medium.com/p/b5a6dc903e60) |
 | Mon, 06 Oct 2025 20:04:58 GMT | The Insider Threat 2.0 — When AI Makes Leaks Unintentional. | Yash Gorasiya | [Read More](https://medium.com/p/b4d00e8c2515) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 14:57:57 GMT | Raspberry Pi 4 - Getting Started | CC1PH3R | [Read More](https://medium.com/p/8b807b6f8664) |
 | Mon, 06 Oct 2025 14:56:18 GMT | The Cyber Turning Point: How Claude Sonnet 4.5 Is Redefining AI’s Role in Cyber Defense | Kamal Acharya | [Read More](https://medium.com/p/5328593c1935) |
 | Mon, 06 Oct 2025 14:53:35 GMT | Platform LMS Belajar Cyber Security pertama di Indonesia LINUXENI Corp | hihipro | [Read More](https://medium.com/p/0f34a750378a) |
-| Mon, 06 Oct 2025 14:51:25 GMT | Writing Effective Bug Bounty Reports | ToxSec | [Read More](https://medium.com/p/9e71f6b8706c) |
-| Mon, 06 Oct 2025 14:49:34 GMT | The Windows Analyst’s Toolkit | Ops4Windows | [Read More](https://medium.com/p/2f6f9c66e207) |
