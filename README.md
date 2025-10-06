@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 01:36:33 GMT | What it Takes to Succeed in Cyber Security | Matthew Welsh | [Read More](https://medium.com/p/a75faab5d183) |
+| Mon, 06 Oct 2025 01:31:54 GMT | The Boardroom Dilemma: When AI Promises Savings, But Whispers Risks | Subhojit Chandra | [Read More](https://medium.com/p/d19efff2e853) |
+| Mon, 06 Oct 2025 01:21:37 GMT | HTB_Academy: Cracking BitLocker-encrypted drives | Babatunde Ojo | [Read More](https://medium.com/p/7b0bd1c30ef7) |
+| Mon, 06 Oct 2025 01:11:43 GMT | The EU’s Regulatory Revolution: How New Cybersecurity Laws Are Reshaping Global Digital Standards | CCD-IS | [Read More](https://medium.com/p/552ceaeb6540) |
+| Mon, 06 Oct 2025 01:07:58 GMT | “Embrace “De-growth”: Navigating the Next Three Years with Prudence” | kate spider | [Read More](https://medium.com/p/612472121a70) |
+| Mon, 06 Oct 2025 00:45:53 GMT | Learning AWS Services — Threat Intelligence Dashboard | Davis Mtui | [Read More](https://medium.com/p/2646862115e7) |
+| Mon, 06 Oct 2025 00:40:38 GMT | When a Single Flame Topples a Nation’s Digital Defenses | SECURE IT! | [Read More](https://medium.com/p/6cf4e6b3becb) |
+| Mon, 06 Oct 2025 00:30:41 GMT | HackTheBox -EscapeTwo | jniket | [Read More](https://medium.com/p/f9c5c34ef558) |
+| Mon, 06 Oct 2025 00:28:55 GMT | Estonia’s Digital Trust vs. The UK’s Control Model | Ian McIntire | [Read More](https://medium.com/p/dd5b887bd6d8) |
+| Mon, 06 Oct 2025 00:28:52 GMT | Quantum Safe Cloud Cryptography Part II: What to Learn? | MSBJ | [Read More](https://medium.com/p/e9c0dcbecfb3) |
+| Mon, 06 Oct 2025 00:16:53 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/4868cac6f1a7) |
+| Mon, 06 Oct 2025 00:10:54 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/cf79e4b1b9cb) |
+| Mon, 06 Oct 2025 00:05:10 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/70ecc30bcc50) |
+| Mon, 06 Oct 2025 00:02:08 GMT | How I Passed the EWPTX (and What Actually Matters) | Juan Felipe Osorio Z | [Read More](https://medium.com/p/c4d6ad439c90) |
+| Sun, 05 Oct 2025 23:59:22 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/09af37e27944) |
+| Sun, 05 Oct 2025 23:55:04 GMT | Phishing Scams: What They Are and How to Spot Them | Samirah A.O | [Read More](https://medium.com/p/024de3f35b7c) |
+| Sun, 05 Oct 2025 23:51:49 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/83589320b993) |
+| Sun, 05 Oct 2025 23:37:12 GMT | The First Step Into Cybersecurity: Simple Habits That Make a Big Difference | Syed Abdul Malik | [Read More](https://medium.com/p/340cf7485e90) |
 | Sun, 05 Oct 2025 23:34:36 GMT | CVE-2025–61882 — Critical RCE in Oracle E-Business Suite (CVSS 9.8) | Cybersecplayground | [Read More](https://medium.com/p/3b2bc6d4a015) |
+| Sun, 05 Oct 2025 23:32:24 GMT | Security Operations Centers (SOCs): The Front Line | Cyber Security Research | [Read More](https://medium.com/p/07b1ba028cd9) |
+| Sun, 05 Oct 2025 23:32:06 GMT | Towards a Framework for Stablecoin Risk Analysis | John Abraham | [Read More](https://medium.com/p/ecbb7bfc405d) |
 | Sun, 05 Oct 2025 23:25:55 GMT | The Evolution of Security Architectures | Cyber Security Research | [Read More](https://medium.com/p/3df7042fcc69) |
 | Sun, 05 Oct 2025 23:20:01 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/81c8e7c1749f) |
 | Sun, 05 Oct 2025 23:15:05 GMT | Cryptocurrency and Modern Ransomware – Cybercriminal Tactics and Security Challenges | David SEHYEON Baek | [Read More](https://medium.com/p/75b18be27194) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 17:25:20 GMT | Signing and Encryption With JWS and JWE | İbrahim Gündüz | [Read More](https://medium.com/p/017c23b5246d) |
 | Sun, 05 Oct 2025 17:24:21 GMT | DNS Tunnelling — covert channels over DNS | Paritosh | [Read More](https://medium.com/p/4a1fdae35ce7) |
 | Sun, 05 Oct 2025 17:19:53 GMT | You’re Not Too Much – They Just Weren’t Ready to Hear You. | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/f387d3eb28b1) |
-| Sun, 05 Oct 2025 17:14:21 GMT | From Zero to $1500/Month: Bug Bounty Automation | Muhammad Ali | [Read More](https://medium.com/p/04a314c8163b) |
-| Sun, 05 Oct 2025 17:08:19 GMT | Week 12— Async API Calls: fetch, Axios, and Promises | Aang | [Read More](https://medium.com/p/f8da63c5d91c) |
-| Sun, 05 Oct 2025 17:08:01 GMT | How I Learned to Scan My Own Codebase for Secrets and Vulnerabilities | Ted Hagos | [Read More](https://medium.com/p/168f9bdf7a04) |
-| Sun, 05 Oct 2025 17:02:36 GMT | CERT-In SBOM Compliance Made Easy: Introducing the CERT-In SBOM Mapper (Part 2) | sumit singh | [Read More](https://medium.com/p/b47fd2d68ff8) |
-| Sun, 05 Oct 2025 16:44:47 GMT | IAM Deep Dive: The 360° Guide to Identity and Access Management Mastery | Thamotharan NK PILLAI | [Read More](https://medium.com/p/4c256c023511) |
-| Sun, 05 Oct 2025 16:39:10 GMT | HTB: Fluffy | Ross Andrews | [Read More](https://medium.com/p/5e6a6f5ded40) |
-| Sun, 05 Oct 2025 16:37:46 GMT | We choose | Lucia Panaino | [Read More](https://medium.com/p/8321e0e53491) |
-| Sun, 05 Oct 2025 16:37:08 GMT | How to bypass the WAF using SQL map ? | Youssef Said  Thabet | [Read More](https://medium.com/p/9f7e759002cb) |
-| Sun, 05 Oct 2025 16:34:41 GMT | **How Apple’s “Hide My Email” and Google Sign-In Can Break Your App’s One-Account Policy | Be nice insabat | [Read More](https://medium.com/p/e2d81bce33cd) |
-| Sun, 05 Oct 2025 16:34:08 GMT | Cybersecurity Awareness Month : A Guide to Modern Cyber-Attacks and Defenses | Amrik  Hanjra | [Read More](https://medium.com/p/0bd30afa6307) |
-| Sun, 05 Oct 2025 16:30:03 GMT | Caught in Brody Club: How I Outsmarted a Crypto Scam | Shobha Pai | [Read More](https://medium.com/p/34148fbc52f1) |
-| Sun, 05 Oct 2025 16:30:03 GMT | TryHackMe - PrintNightmare, thrice! - WriteUp | Axoloth | [Read More](https://medium.com/p/ff97dfc79f45) |
-| Sun, 05 Oct 2025 16:26:26 GMT | The Importance of Problem-Solving in Tech Careers | Dasinthan | [Read More](https://medium.com/p/b003114b9918) |
-| Sun, 05 Oct 2025 16:20:22 GMT | Securing Docker Containers: Best Practices and Tools | Hariprasad | [Read More](https://medium.com/p/0c7cf7bdc6d9) |
-| Sun, 05 Oct 2025 16:15:06 GMT | Software Updates | John Odumesi | [Read More](https://medium.com/p/9dc904907557) |
-| Sun, 05 Oct 2025 16:02:19 GMT | The Shape of My Walls | Vayathra | [Read More](https://medium.com/p/7f45cf95c45d) |
-| Sun, 05 Oct 2025 16:00:09 GMT | Beyond the Open Door: How Hackers and Bug Bounty Hunters Mine Directory Listings for Gold | Blue_eye | [Read More](https://medium.com/p/5d0430353342) |
-| Sun, 05 Oct 2025 15:57:30 GMT | The Dark Art of Hardware Hacking: Cracking Open the Secrets of Embedded Systems | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/36d892c6acb0) |
-| Sun, 05 Oct 2025 15:46:24 GMT | Echoes of the Forest | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/05ab9beba6f5) |
-| Sun, 05 Oct 2025 15:41:30 GMT | MEDIUM FLAWS | little fox | [Read More](https://medium.com/p/821638adb716) |
