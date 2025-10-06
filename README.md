@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 07:09:00 GMT | Unit 42 Attack Surface Assessment By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e3f24c17faf1) |
+| Mon, 06 Oct 2025 07:08:25 GMT | I Broke Into My Own App in 47 Minutes; Here’s What Scared Me | Abdullah Javeed | [Read More](https://medium.com/p/cc4223d52723) |
+| Mon, 06 Oct 2025 07:07:24 GMT | Achieving Sub-Millisecond Query Times in PostgreSQL for AI-Powered Applications | Rizqi Mulki | [Read More](https://medium.com/p/2ecc63a1d3d3) |
+| Mon, 06 Oct 2025 07:01:57 GMT | Nmap: The Cybersecurity Tool That Sees What Others Can’t. | Dany Christel | [Read More](https://medium.com/p/7143e245a388) |
+| Mon, 06 Oct 2025 07:01:57 GMT | I Tried Investigating a Webshell for the First Time: Here’s What I Learned | Odunlade Adeola | [Read More](https://medium.com/p/a0e1c26ca255) |
+| Mon, 06 Oct 2025 07:01:54 GMT | Continuous Security Testing in CI/CD Pipelines for Financial Applications | Mavidev Software And Consulting Co. | [Read More](https://medium.com/p/0d67d863f5ac) |
+| Mon, 06 Oct 2025 07:00:53 GMT | Breaking Into HackTheBox: My Journey from Script Kiddie to Root | Aj | [Read More](https://medium.com/p/d1cb5baeb758) |
+| Mon, 06 Oct 2025 06:59:22 GMT | Understanding AI Security: Safeguarding Artificial Intelligence in the Age of Smart Systems | Valorem Reply | [Read More](https://medium.com/p/45db07af5d3f) |
+| Mon, 06 Oct 2025 06:58:34 GMT | OSINT: Google Dorking Hacks: The X-Ray Vision for Google Search | S.Ali | [Read More](https://medium.com/p/8c6cd8335ff2) |
+| Mon, 06 Oct 2025 06:56:12 GMT | Securing Browsers From the Ground Up: My Personal Evaluation of Protective Extensions | Deathrow8008s | [Read More](https://medium.com/p/438c2e41cf99) |
+| Mon, 06 Oct 2025 06:54:25 GMT | The Best Data Privacy & Security Lawyers for US Tech Startups | Hansen Tong | [Read More](https://medium.com/p/2d89e7600cf8) |
+| Mon, 06 Oct 2025 06:49:52 GMT | What is CORS? A Simple Guide to How Browsers and Servers Talk Securely | Darshan Londhe | [Read More](https://medium.com/p/177b92dd69e3) |
+| Mon, 06 Oct 2025 06:44:12 GMT | Why Flutter App Development in Qatar Is Perfect for Modern Startup | Five Programmers | [Read More](https://medium.com/p/9ba5c9fc790f) |
+| Mon, 06 Oct 2025 06:43:22 GMT | Memory Management Best Practices for PostgreSQL in AI Applications | Rizqi Mulki | [Read More](https://medium.com/p/aa99e185d6a3) |
+| Mon, 06 Oct 2025 06:42:08 GMT | 10 Must-Have IT Vulnerability Assessment Tools for Every IT Professional | Qualysec | [Read More](https://medium.com/p/6bab5352b17b) |
+| Mon, 06 Oct 2025 06:39:52 GMT | How About Exploring Cybersecurity as a Math’s Graduate for MSc? | Adeleke Theophilus O | [Read More](https://medium.com/p/48391f1aea6f) |
+| Mon, 06 Oct 2025 06:38:50 GMT | NEVER Install This Software! | Shahzaib | [Read More](https://medium.com/p/6cd457145854) |
+| Mon, 06 Oct 2025 06:38:23 GMT | :     - SJ… | SJ Global Consulting | [Read More](https://medium.com/p/b32b6cd169d1) |
+| Mon, 06 Oct 2025 06:35:57 GMT | Understanding SameSite Cookies: A Clear Explanation | Amisha Singh | [Read More](https://medium.com/p/a1e01c3b3278) |
+| Mon, 06 Oct 2025 06:31:57 GMT | Hexadecimal: The Secret Language of Networks (and MAC Addresses) | Araiz Naqvi | [Read More](https://medium.com/p/722fe6e3c7a8) |
 | Mon, 06 Oct 2025 06:26:09 GMT | The Growing Importance of Electronic Security Solutions and Facility Management in India | Ciss India | [Read More](https://medium.com/p/d64bcd12480b) |
 | Mon, 06 Oct 2025 06:23:46 GMT | The Daily Tech Digest: 06 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b17f454502e9) |
 | Mon, 06 Oct 2025 06:20:36 GMT | HackTheBox — Holmes CTF 2025 | Fathijem | [Read More](https://medium.com/p/a8e0b8e9a8ea) |
@@ -93,23 +113,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Sun, 05 Oct 2025 23:25:55 GMT | The Evolution of Security Architectures | Cyber Security Research | [Read More](https://medium.com/p/3df7042fcc69) |
 | Sun, 05 Oct 2025 23:20:01 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/81c8e7c1749f) |
 | Sun, 05 Oct 2025 23:15:05 GMT | Cryptocurrency and Modern Ransomware – Cybercriminal Tactics and Security Challenges | David SEHYEON Baek | [Read More](https://medium.com/p/75b18be27194) |
-| Sun, 05 Oct 2025 23:03:32 GMT | Build Your Own SIEM: Why These Open-Source Tools Just Work | SOCFortress | [Read More](https://medium.com/p/280312c3d308) |
-| Sun, 05 Oct 2025 23:02:08 GMT | HackTheBox - Unit42 - Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d0b64381fd64) |
-| Sun, 05 Oct 2025 23:01:20 GMT | How to setup an outbound tunnel for Remote Shell Access? | Tejasparmar | [Read More](https://medium.com/p/09ee799d874d) |
-| Sun, 05 Oct 2025 22:57:01 GMT | CRISIS FOR CISCO DEVICES: TWO MILLION VULNERABLE TO ZERO-DAY EXPLOITS | sunduck | [Read More](https://medium.com/p/dbc07e78660a) |
-| Sun, 05 Oct 2025 22:48:45 GMT | The Hidden Drawbacks of Physical File Storage Devices | Bervice | [Read More](https://medium.com/p/1c149cac398e) |
-| Sun, 05 Oct 2025 22:35:18 GMT | VPN lab | Ryanchanest | [Read More](https://medium.com/p/847f5b6d5263) |
-| Sun, 05 Oct 2025 22:11:56 GMT | Seccomp Filters Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/7ddedbcccaf3) |
-| Sun, 05 Oct 2025 22:10:28 GMT | HTB: Support | Ross Andrews | [Read More](https://medium.com/p/6dff2596e82f) |
-| Sun, 05 Oct 2025 22:05:32 GMT | The Future of Pentesting: How AI Agents Will Supercharge Red Teams | Yua Mikanana | [Read More](https://medium.com/p/0a184f9af231) |
-| Sun, 05 Oct 2025 22:04:01 GMT | The OTP That Told on Itself — How I Bypassed Email Verification with One Wrong Code | 3eyedraven | [Read More](https://medium.com/p/67236eb803a1) |
-| Sun, 05 Oct 2025 22:02:56 GMT | Leading with confidence: A board’s Role in school Cyber Risk Management | Bertrand Nkali | [Read More](https://medium.com/p/2ad414cb56f4) |
-| Sun, 05 Oct 2025 21:48:39 GMT | The Dark Side of Bug Bounties: How HackerOne’s Ruthless Triage Team Took Down Real Cybercriminal(s) | Justas_b | [Read More](https://medium.com/p/0f4464632afe) |
-| Sun, 05 Oct 2025 21:47:03 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/af52211c0126) |
-| Sun, 05 Oct 2025 21:40:29 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/125143df03f5) |
-| Sun, 05 Oct 2025 21:37:55 GMT | I Found a Critical Bug in 7 Minutes with This Subdomain Enumeration Method | Ibtissam hammadi | [Read More](https://medium.com/p/c1d3e7514397) |
-| Sun, 05 Oct 2025 21:37:55 GMT | Wearable Healthcare Devices and Cybersecurity: A Double-Edged Sword | Gayatriv | [Read More](https://medium.com/p/adeaf2efbc6b) |
-| Sun, 05 Oct 2025 21:33:08 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/60401bf4189c) |
-| Sun, 05 Oct 2025 21:32:13 GMT | 7 DuckDB-WASM Security Checks for Client-Side SQL | Nexumo | [Read More](https://medium.com/p/0e4f4860cbe8) |
-| Sun, 05 Oct 2025 21:31:46 GMT | Beyond Differential Privacy: Preventing Cyber Attacks in Enterprise AI Systems | Nishi Kaura | [Read More](https://medium.com/p/6c0016274e6f) |
-| Sun, 05 Oct 2025 21:29:30 GMT | What Startups Get Wrong About Cybersecurity — Insights from Mohammed of Lyte Technologies | Mohammed Joof | [Read More](https://medium.com/p/868650b7263e) |
