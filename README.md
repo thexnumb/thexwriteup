@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 21:13:08 GMT | Part 3: intro cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/1dc178a938a3) |
+| Mon, 06 Oct 2025 20:56:40 GMT | Firewall Fundamentals - THM | Isiah | [Read More](https://medium.com/p/52ee3d9bbb2f) |
+| Mon, 06 Oct 2025 20:49:35 GMT | Auto Block Website Ping Attack: Protecting Your Server from ICMP Floods | SafeAeon Inc. | [Read More](https://medium.com/p/a1d7f09a3b87) |
+| Mon, 06 Oct 2025 20:49:00 GMT | Series: Business Logic Flaws Uncovered | Yamini Yadav_369 | [Read More](https://medium.com/p/14b3bd5ee60c) |
+| Mon, 06 Oct 2025 20:48:43 GMT | The Bizarre 2025 Cyberattack That Turned a Printer Into a Weapon | Noel | [Read More](https://medium.com/p/56a97568302e) |
+| Mon, 06 Oct 2025 20:48:34 GMT | OSINT With Python: Scraping and Analyzing Public Data in 30 Minutes | Aj | [Read More](https://medium.com/p/ddd7d0d6dad8) |
+| Mon, 06 Oct 2025 20:48:29 GMT | A Beginner’s Guide to Cloud Security Posture Management (CSPM) | Samina Perveen | [Read More](https://medium.com/p/c8795ce4d175) |
+| Mon, 06 Oct 2025 20:46:39 GMT | Why Red Teaming Makes Attack Chains Visible | Luis Abreu from Cyver | [Read More](https://medium.com/p/7c9f65ef0ef3) |
+| Mon, 06 Oct 2025 20:45:53 GMT | Install an OpenTelemetry Collector on Azure Container Apps (ACA) | using System; | [Read More](https://medium.com/p/a546aa2e8190) |
+| Mon, 06 Oct 2025 20:44:23 GMT | Dancing with Windows Credential Manager | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1e16d1b20354) |
 | Mon, 06 Oct 2025 20:31:03 GMT | Pelican (Proving Grounds) Walkthrough: From Foothold to Root | Sandeepsisodiya | [Read More](https://medium.com/p/56f7bc3c370e) |
 | Mon, 06 Oct 2025 20:24:14 GMT | TryHackMe Writeup: Borderlands | Berkay AĞGÜL | [Read More](https://medium.com/p/419bc61c2751) |
 | Mon, 06 Oct 2025 20:14:24 GMT | Discord’s Third-Party Breach: A Purple Team Analysis | Cyber and Coffee | [Read More](https://medium.com/p/9e705e4d8c46) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 6, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/37ac219856e8) |
 | Mon, 06 Oct 2025 15:12:27 GMT | Step-by-Step Deployment Guide: MCP Tool Call in Copilot Studio agent with OAuth 2.0 | Afzal Muhammad | [Read More](https://medium.com/p/2064236c70f9) |
 | Mon, 06 Oct 2025 15:09:25 GMT | The Vue.js Secret That Made Companies Choose It Over React | Rizqi Mulki | [Read More](https://medium.com/p/33838eb4be25) |
-| Mon, 06 Oct 2025 15:08:41 GMT | Intelligent Clouds: How AI in the Cloud Will Redefine Work, Learning, and Healthcare | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/58e0bb7ee599) |
-| Mon, 06 Oct 2025 15:08:27 GMT | Top Government Leaks of the Past 5 Years: Comprehensive Analysis | Alec Furrier | [Read More](https://medium.com/p/3de00341a2d8) |
-| Mon, 06 Oct 2025 15:08:18 GMT | DAY 6 ; The Human Firewall: A Team Defense | aysha | [Read More](https://medium.com/p/e86e43c702b4) |
-| Mon, 06 Oct 2025 15:03:59 GMT | Who Are You When Nobody’s Watching? | Vijay Kumar Gupta | [Read More](https://medium.com/p/7aa02f653743) |
-| Mon, 06 Oct 2025 15:02:36 GMT | [1991] MiniDiscs: The Short-Lived Revolution in Personal Music | Technology king | [Read More](https://medium.com/p/244d94c8d1a5) |
-| Mon, 06 Oct 2025 15:01:54 GMT | Cyber Resilience Beyond Compliance: Lessons from NIS2 and NIST CSF Updates | Lester Davila Escobedo | [Read More](https://medium.com/p/8d78def1e09d) |
-| Mon, 06 Oct 2025 15:00:29 GMT | This Is Not the WordPress You Are Looking For | Aleksander Gorkowienko | [Read More](https://medium.com/p/580c72edc444) |
-| Mon, 06 Oct 2025 14:57:57 GMT | Raspberry Pi 4 - Getting Started | CC1PH3R | [Read More](https://medium.com/p/8b807b6f8664) |
-| Mon, 06 Oct 2025 14:56:18 GMT | The Cyber Turning Point: How Claude Sonnet 4.5 Is Redefining AI’s Role in Cyber Defense | Kamal Acharya | [Read More](https://medium.com/p/5328593c1935) |
-| Mon, 06 Oct 2025 14:53:35 GMT | Platform LMS Belajar Cyber Security pertama di Indonesia LINUXENI Corp | hihipro | [Read More](https://medium.com/p/0f34a750378a) |
