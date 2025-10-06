@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 02:59:24 GMT | AI: Perpetual Commotion | Julian S. Taylor | [Read More](https://medium.com/p/c82ac216cc8e) |
+| Mon, 06 Oct 2025 02:49:13 GMT | Sunday Reflection: Building a Cyberpreneur Mindset in a Compliance-Driven World | Dr. Deep Pandey | [Read More](https://medium.com/p/a105a8e728b3) |
+| Mon, 06 Oct 2025 02:45:21 GMT | Why Cybersecurity Is the Hottest IT Field Right Now? | CodeZen | [Read More](https://medium.com/p/d8430de32fb3) |
+| Mon, 06 Oct 2025 02:32:45 GMT | How to Hide Photos Offline on Android — I Built a Private Vault App (No Cloud Needed) | Arul A | [Read More](https://medium.com/p/7f76176c784d) |
+| Mon, 06 Oct 2025 02:28:36 GMT | Worth Going to War For | Write Bridges | [Read More](https://medium.com/p/0f768aa94651) |
+| Mon, 06 Oct 2025 02:22:47 GMT | Should a Multi-Billion Company Be Bailed Out with Taxpayers’ Money? | Dawood Ghuman | [Read More](https://medium.com/p/27a28af72d68) |
+| Mon, 06 Oct 2025 01:44:29 GMT | Prepare Yourself to Face These Challenges | Matthew Welsh | [Read More](https://medium.com/p/52b9d7e6e135) |
+| Mon, 06 Oct 2025 01:40:13 GMT | Microservices From a Security Perspective | EnessKoç | [Read More](https://medium.com/p/6d4a1c86f1bf) |
 | Mon, 06 Oct 2025 01:36:33 GMT | What it Takes to Succeed in Cyber Security | Matthew Welsh | [Read More](https://medium.com/p/a75faab5d183) |
 | Mon, 06 Oct 2025 01:31:54 GMT | The Boardroom Dilemma: When AI Promises Savings, But Whispers Risks | Subhojit Chandra | [Read More](https://medium.com/p/d19efff2e853) |
+| Mon, 06 Oct 2025 01:29:53 GMT | Linux Security Automation | LinuxDev | [Read More](https://medium.com/p/43dc193271bf) |
 | Mon, 06 Oct 2025 01:21:37 GMT | HTB_Academy: Cracking BitLocker-encrypted drives | Babatunde Ojo | [Read More](https://medium.com/p/7b0bd1c30ef7) |
 | Mon, 06 Oct 2025 01:11:43 GMT | The EU’s Regulatory Revolution: How New Cybersecurity Laws Are Reshaping Global Digital Standards | CCD-IS | [Read More](https://medium.com/p/552ceaeb6540) |
 | Mon, 06 Oct 2025 01:07:58 GMT | “Embrace “De-growth”: Navigating the Next Three Years with Prudence” | kate spider | [Read More](https://medium.com/p/612472121a70) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 17:52:10 GMT | We Made Our Pipeline Immutable — And Hackers Gave Up | Web3 Nautiyal | [Read More](https://medium.com/p/ebef62b76d33) |
 | Sun, 05 Oct 2025 17:51:53 GMT | Spring Boot + OAuth2: The Modern Security Blueprint for 2025 Apps | CodeTalks | [Read More](https://medium.com/p/5d72c46bbc73) |
 | Sun, 05 Oct 2025 17:48:12 GMT | ️ Why Security Is Critical — and How to Secure & Launch an AI Agent | Rajesh Devadasan | [Read More](https://medium.com/p/3f68f67abf20) |
-| Sun, 05 Oct 2025 17:42:52 GMT | ️ Security Awareness: The Human Shield Against Cyber Threats | Asif.k | [Read More](https://medium.com/p/6ffcd84c1694) |
-| Sun, 05 Oct 2025 17:42:22 GMT | Access Control Vulnerabilities(Through Burp Suite Labs) Pt. 1: Vertical Privilege Escalation | heckor | [Read More](https://medium.com/p/63acbce0afce) |
-| Sun, 05 Oct 2025 17:40:02 GMT | TryHackMe Basic Pentesting —  Complete Walkthrough | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/893bb69a426c) |
-| Sun, 05 Oct 2025 17:37:33 GMT | Action1 for Device Management: What I’ve Learned | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/830c986bdd16) |
-| Sun, 05 Oct 2025 17:30:47 GMT | Rev Shell from a Web Shell and how to tell what tools to use! | n0t_brit | [Read More](https://medium.com/p/8f570add44da) |
-| Sun, 05 Oct 2025 17:27:35 GMT | Where Do All the Unsent Messages Go? | SuccessBlueprints.Org | [Read More](https://medium.com/p/ce78ec42a266) |
-| Sun, 05 Oct 2025 17:25:20 GMT | Signing and Encryption With JWS and JWE | İbrahim Gündüz | [Read More](https://medium.com/p/017c23b5246d) |
-| Sun, 05 Oct 2025 17:24:21 GMT | DNS Tunnelling — covert channels over DNS | Paritosh | [Read More](https://medium.com/p/4a1fdae35ce7) |
-| Sun, 05 Oct 2025 17:19:53 GMT | You’re Not Too Much – They Just Weren’t Ready to Hear You. | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/f387d3eb28b1) |
