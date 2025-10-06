@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 20:14:24 GMT | Discord’s Third-Party Breach: A Purple Team Analysis | Cyber and Coffee | [Read More](https://medium.com/p/9e705e4d8c46) |
+| Mon, 06 Oct 2025 20:09:40 GMT | TryHackMe SQHell — Walkthrough | mauzware | [Read More](https://medium.com/p/b5a6dc903e60) |
+| Mon, 06 Oct 2025 20:04:58 GMT | The Insider Threat 2.0 — When AI Makes Leaks Unintentional. | Yash Gorasiya | [Read More](https://medium.com/p/b4d00e8c2515) |
+| Mon, 06 Oct 2025 20:03:03 GMT | Zero Trust Vendors: Leading the Future of Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/d3e3cff43eeb) |
+| Mon, 06 Oct 2025 19:55:43 GMT | TryHackMe: Monday Monitor lab walkthrough | Davenyamongo | [Read More](https://medium.com/p/adcee4397e82) |
+| Mon, 06 Oct 2025 19:54:52 GMT | Comparing Business Internet Options and Cybersecurity Solutions for Modern Enterprises | Defend My Business | [Read More](https://medium.com/p/5527252aaecc) |
+| Mon, 06 Oct 2025 19:52:34 GMT | TO BECOME A SOC EXPERT(DAY-8) | vulnhunter | [Read More](https://medium.com/p/f7bd3b16287f) |
+| Mon, 06 Oct 2025 19:46:47 GMT | GraphQL Security Checklist: Find Hidden Endpoints, Prevent Brute-Force and CSRF | PyUs3r | [Read More](https://medium.com/p/7716e619d803) |
+| Mon, 06 Oct 2025 19:45:34 GMT | Beyond the Exploit: Architecting Real-World Red Team Ops | Muhammad Ali | [Read More](https://medium.com/p/c47fffea5a09) |
+| Mon, 06 Oct 2025 19:34:48 GMT | OpenSSL in Python: Disk and File Ciphering | Mi'kail Eli'yah | [Read More](https://medium.com/p/3fe7aa282156) |
+| Mon, 06 Oct 2025 19:30:34 GMT | You are so DEAD | Emad Dehnavi | [Read More](https://medium.com/p/e7d0d6aa5b45) |
 | Mon, 06 Oct 2025 19:23:39 GMT | Griffin AI, Nemo, BetterBank: $10.6M | Olympix | [Read More](https://medium.com/p/cc167536e774) |
 | Mon, 06 Oct 2025 19:21:36 GMT | SOC 2 Type I: Building the Foundation of Trust | Rachid Abadli | [Read More](https://medium.com/p/5584a001daf1) |
 | Mon, 06 Oct 2025 19:20:08 GMT | Beyond the Code: A 4-Step Strategy to Land Your First Cybersecurity Job | orioninsist | [Read More](https://medium.com/p/b67d899454e5) |
@@ -21,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 18:57:00 GMT | Tryhackme — Volt Typhoon | asliulusoy | [Read More](https://medium.com/p/1cd43b63e818) |
 | Mon, 06 Oct 2025 18:53:16 GMT | Certified Kubernetes Administrator P-11 Security in K8s | Samsor Rahman | [Read More](https://medium.com/p/b5e834aacee5) |
 | Mon, 06 Oct 2025 18:52:25 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/bb14c43ac7e3) |
+| Mon, 06 Oct 2025 18:48:03 GMT | APIs vulnerables: el talón de Aquiles que los hackers adoran | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/f46ce1860936) |
 | Mon, 06 Oct 2025 18:47:05 GMT | The Tired Version of Me Deserves to Be Loved Too | Darpan Murly | [Read More](https://medium.com/p/5eae69f87152) |
 | Mon, 06 Oct 2025 18:45:56 GMT | From Data to Defense: A Deep Dive into Statistics and Its Crucial Role in Cybersecurity | HrudaySagarG | [Read More](https://medium.com/p/0cf848c5b9ae) |
 | Mon, 06 Oct 2025 18:45:13 GMT | Think Like a Hacker: An Intro to the 4 Tools Cybersecurity Pros Use Daily | orioninsist | [Read More](https://medium.com/p/42f2bd736aa7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 14:53:35 GMT | Platform LMS Belajar Cyber Security pertama di Indonesia LINUXENI Corp | hihipro | [Read More](https://medium.com/p/0f34a750378a) |
 | Mon, 06 Oct 2025 14:51:25 GMT | Writing Effective Bug Bounty Reports | ToxSec | [Read More](https://medium.com/p/9e71f6b8706c) |
 | Mon, 06 Oct 2025 14:49:34 GMT | The Windows Analyst’s Toolkit | Ops4Windows | [Read More](https://medium.com/p/2f6f9c66e207) |
-| Mon, 06 Oct 2025 14:46:55 GMT | ABTU and the Future of Web3 Security | Abatis ABTU | [Read More](https://medium.com/p/4b4e2c2f4d4c) |
-| Mon, 06 Oct 2025 14:40:50 GMT | Complete Account Takeover using browser Autofill feature due to DOM based javascript execution | Muhammad ilyas | [Read More](https://medium.com/p/d01ef203a358) |
-| Mon, 06 Oct 2025 14:40:37 GMT | Securing Your API Keys: Best Practices Every Developer Should Know | Technology king | [Read More](https://medium.com/p/b1a80e4405ca) |
-| Mon, 06 Oct 2025 14:39:52 GMT | Elastic Security Sandbox Installation & Usage — Chapter 1 : Sandbox Setup | Abdulkadir Sadi | [Read More](https://medium.com/p/38c197036d3c) |
-| Mon, 06 Oct 2025 14:34:12 GMT | Passing BSCP On Your First Try | m3m0o | [Read More](https://medium.com/p/62ca4d9f492a) |
-| Mon, 06 Oct 2025 14:32:21 GMT | Every Woman Has a Room Where She’s Still Seventeen and Silent | SuccessBlueprints.Org | [Read More](https://medium.com/p/d5c6c1c00ad6) |
-| Mon, 06 Oct 2025 14:28:29 GMT | Top 10 Most DEADLY Kali Linux Commands (Beginners Beware!) | Shahzaib | [Read More](https://medium.com/p/32c5ccabf5ad) |
-| Mon, 06 Oct 2025 14:28:16 GMT | Fixing Cross-Origin Security Leaks in Modern Webapps (XSS & XS-Leaks) | Mohammad Abir Abbas | [Read More](https://medium.com/p/6d13bb173488) |
-| Mon, 06 Oct 2025 14:26:56 GMT | Steel Mountain - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/f40f175ad8fb) |
-| Mon, 06 Oct 2025 14:24:32 GMT | How Writing NACLs Wrong Will Hurt Your Security Posture | Stanislav Babenko | [Read More](https://medium.com/p/fa0afbe45a05) |
-| Mon, 06 Oct 2025 14:23:55 GMT | "I Work Overnight in a Parking Garage... Cars Leave With One Driver and RETURN With Someone Else" | PhantomInk | [Read More](https://medium.com/p/3c7462e3ac1e) |
-| Mon, 06 Oct 2025 14:22:25 GMT | Why We Still Fall for Phishing in the Age of AI | Rabail Zaheer | [Read More](https://medium.com/p/f76c1aa55426) |
