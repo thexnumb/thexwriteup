@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 21:26:29 GMT | XXE (XML External Entity) Injection Explained | Mahmmoudmohamed | [Read More](https://medium.com/p/e1cc5bcddf75) |
+| Mon, 06 Oct 2025 21:24:26 GMT | When the Pen Becomes a Sword: How LLMs Are Reshaping Cybersecurity | Akshay Chauhan | [Read More](https://medium.com/p/48a68127e055) |
+| Mon, 06 Oct 2025 21:17:17 GMT | Fragility and Hope (Sukkot) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/c0976bb106b3) |
 | Mon, 06 Oct 2025 21:13:08 GMT | Part 3: intro cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/1dc178a938a3) |
 | Mon, 06 Oct 2025 20:56:40 GMT | Firewall Fundamentals - THM | Isiah | [Read More](https://medium.com/p/52ee3d9bbb2f) |
 | Mon, 06 Oct 2025 20:49:35 GMT | Auto Block Website Ping Attack: Protecting Your Server from ICMP Floods | SafeAeon Inc. | [Read More](https://medium.com/p/a1d7f09a3b87) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 15:24:06 GMT | When Your Fingerprint Can Be Forced: Why SMEs and MSPs Need Stronger Password Protection | FlashX Cybersecurity | [Read More](https://medium.com/p/83e024e4828a) |
 | Mon, 06 Oct 2025 15:22:39 GMT | The $500 “Trivial” Bugs Everyone Ignores (And How I Cash In) | Aman Sharma | [Read More](https://medium.com/p/2f5f44f0d32e) |
 | Mon, 06 Oct 2025 15:19:18 GMT | Talisman Walkthrough | Jose Diaz | [Read More](https://medium.com/p/17f9d48072a6) |
-| Mon, 06 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 6, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/37ac219856e8) |
-| Mon, 06 Oct 2025 15:12:27 GMT | Step-by-Step Deployment Guide: MCP Tool Call in Copilot Studio agent with OAuth 2.0 | Afzal Muhammad | [Read More](https://medium.com/p/2064236c70f9) |
-| Mon, 06 Oct 2025 15:09:25 GMT | The Vue.js Secret That Made Companies Choose It Over React | Rizqi Mulki | [Read More](https://medium.com/p/33838eb4be25) |
