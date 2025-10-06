@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 23:26:21 GMT | Essential Cybersecurity: A Small Business Owner’s Guide to Digital Protection | Matildahargrave | [Read More](https://medium.com/p/5d57a4508b8e) |
+| Mon, 06 Oct 2025 23:22:59 GMT | Cybersecurity Basics Every Small Business Owner Needs to Know | Matildahargrave | [Read More](https://medium.com/p/b8e844272859) |
 | Mon, 06 Oct 2025 23:10:38 GMT | When Integrity Collides with Bureaucracy: The Price of Leadership in Cybersecurity — and Why… | Taher Amine ELHOUARI | [Read More](https://medium.com/p/d5398c35d740) |
 | Mon, 06 Oct 2025 22:54:05 GMT | How I built a Phishing Website Detection Model Using Machine Learning | Rohith Srinivasa | [Read More](https://medium.com/p/4c7ae2871140) |
 | Mon, 06 Oct 2025 22:44:34 GMT | HYPERINDEPENDENCE | Ayotomide Osunlola | [Read More](https://medium.com/p/0ed32dd6a38f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 16:03:57 GMT | Your Gaming Mouse Could Be Spying on You: The Alarming “Mic-E-Mouse” AI Attack That Listens Through… | Kamal Acharya | [Read More](https://medium.com/p/4f812b8dc6b3) |
 | Mon, 06 Oct 2025 15:59:23 GMT | Data Safety Awareness Series : Post 4 | Juned Silavat | [Read More](https://medium.com/p/c05d4d7663bd) |
 | Mon, 06 Oct 2025 15:58:50 GMT | On Vulnerability, Memory, and the Pictures I Never Delete | Ikhlas Sabilly | [Read More](https://medium.com/p/b4aaad57862d) |
-| Mon, 06 Oct 2025 15:58:33 GMT | Work From Anywhere: Secure QuickBooks Remote Access | OneUp Networks | [Read More](https://medium.com/p/ef82d8a7c2ef) |
-| Mon, 06 Oct 2025 15:58:02 GMT | The Future of Networking: AI, Zero Trust, and the End of the Traditional LAN | Paradise technologies Inc | [Read More](https://medium.com/p/c5050b39394c) |
