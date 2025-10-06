@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 17:34:16 GMT | HRMCon 2025 — Human Risk Management Conference | Matthew.Rosenquist | [Read More](https://medium.com/p/5b76e043ae37) |
+| Mon, 06 Oct 2025 17:33:44 GMT | Small Bugs, Easy Money: CSRF & Race Conditions | nooh zidan | [Read More](https://medium.com/p/b5fc69694f1f) |
+| Mon, 06 Oct 2025 17:33:11 GMT | Why Statistics Is the Secret Weapon in Modern Cybersecurity | Gadeabhishekreddy | [Read More](https://medium.com/p/4a7eb9afdca8) |
+| Mon, 06 Oct 2025 17:20:15 GMT | Top 10 List to Keep Information Secure | Danielle Koppel | [Read More](https://medium.com/p/552a2fedacca) |
 | Mon, 06 Oct 2025 17:15:03 GMT | The Power of Being Vulnerable When Tutoring | Debbie Thompson | [Read More](https://medium.com/p/3e7978fcf127) |
 | Mon, 06 Oct 2025 17:08:53 GMT | The Dark Web Explained for Beginners: Should You Be Worried? | Aj | [Read More](https://medium.com/p/1d658d97a49c) |
 | Mon, 06 Oct 2025 17:03:42 GMT | The Lie Factor: When Data Tells a Beautiful Lie | Vivek Pudur | [Read More](https://medium.com/p/a9b992fb1b44) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 13:04:32 GMT | Is H5.peabdexapp.vip Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/b6901f01caf1) |
 | Mon, 06 Oct 2025 13:02:31 GMT | Think Outside the Stack: Reframing IT Operations Management for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/df1f0ddddc8a) |
 | Mon, 06 Oct 2025 13:01:56 GMT | Why Content Writers Are in Demand | Aliyu Ibrahim | [Read More](https://medium.com/p/f814b788fa32) |
-| Mon, 06 Oct 2025 12:56:01 GMT | Can You Trust Wealthtudor.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/260c4b2f8eb5) |
-| Mon, 06 Oct 2025 12:52:42 GMT | Portswigger mystery lab write-up — XML external entity injection: Exploiting blind XXE to… | Hubert | [Read More](https://medium.com/p/1b557f2119f5) |
-| Mon, 06 Oct 2025 12:51:21 GMT | The Vulnerable | Rick Wolf | [Read More](https://medium.com/p/3a183a46d50f) |
-| Mon, 06 Oct 2025 12:50:40 GMT | Can I Haz Root? :: FUNNEL | Cyber Grover ‍ | [Read More](https://medium.com/p/d8e94d181d05) |
