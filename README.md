@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 12:36:18 GMT | H5.lencoin.net Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/533fce5010d9) |
+| Mon, 06 Oct 2025 12:34:12 GMT | Oracle Rushes Patch for CVE-2025–61882 After Cl0p Exploits It in Widespread Data-Theft Attacks | IamPreth | [Read More](https://medium.com/p/063ba2d498b9) |
+| Mon, 06 Oct 2025 12:30:37 GMT | The “Advance Fee” Scam Every Musician Should Avoid | Joshua Famiroju | [Read More](https://medium.com/p/48fc1d7b439d) |
+| Mon, 06 Oct 2025 12:28:46 GMT | Crypto Hacks That Shook the Industry and the Cybersecurity Lessons We’ve Learned | Cyber Lois | [Read More](https://medium.com/p/dc50d5a0119c) |
+| Mon, 06 Oct 2025 12:26:01 GMT | Pentagon Failures Exposed: How Centene’s Health Net Flunked TRICARE Cybersecurity | Centengate | [Read More](https://medium.com/p/f1c5295df5aa) |
+| Mon, 06 Oct 2025 12:25:28 GMT | Is Crypto-networks.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/3958eb63ad95) |
+| Mon, 06 Oct 2025 12:24:53 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/40b4d02c7f56) |
+| Mon, 06 Oct 2025 12:24:26 GMT | Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints | coffinxp | [Read More](https://medium.com/p/29252dcd9d79) |
+| Mon, 06 Oct 2025 12:21:55 GMT | The Hidden Costs of Ignoring Data Protection | Nagaraj | [Read More](https://medium.com/p/135953b253bb) |
+| Mon, 06 Oct 2025 12:16:27 GMT | Cybersecurity Foundations Series: Part 6 — Governance Processes and Security Frameworks | TechStoryLines | [Read More](https://medium.com/p/11e6239c4a35) |
+| Mon, 06 Oct 2025 12:15:30 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/83950e1615ed) |
+| Mon, 06 Oct 2025 12:14:41 GMT | Best IVR Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/c79573788680) |
+| Mon, 06 Oct 2025 12:12:08 GMT | PoisonedCredentials Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/25b79523ccb9) |
+| Mon, 06 Oct 2025 12:09:37 GMT | 10 Cybersecurity Mistakes You Are Making Everyday | edX | [Read More](https://medium.com/p/6fb10063dce9) |
+| Mon, 06 Oct 2025 12:09:24 GMT | Secure Your Future: An Investment That Comes Without Risk | Connecting Cyber Networks | [Read More](https://medium.com/p/b693bb02b346) |
+| Mon, 06 Oct 2025 12:07:31 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/269fc7b4a804) |
+| Mon, 06 Oct 2025 12:04:47 GMT | Why are Virtual Meetings and IT Advancements Fueling Webcam Market Growth? | Frank Morgan | [Read More](https://medium.com/p/5d150005dbb9) |
+| Mon, 06 Oct 2025 12:03:04 GMT | Wiz Cloud Security Championship — CTF | Bruno Agostinho | [Read More](https://medium.com/p/97988ab51a5f) |
+| Mon, 06 Oct 2025 12:02:09 GMT | Evading the Watchful Eye: A Red Teamer’s Guide to EDR Bypass Techniques | Alexandre Kim | [Read More](https://medium.com/p/e989a6f6c4ac) |
+| Mon, 06 Oct 2025 11:58:52 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/448d2667dd2d) |
+| Mon, 06 Oct 2025 11:56:27 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/e159628637eb) |
+| Mon, 06 Oct 2025 11:52:09 GMT | Exploitation Techniques via IPv6 | Esra Kayhan | [Read More](https://medium.com/p/cd658a5f2718) |
+| Mon, 06 Oct 2025 11:46:31 GMT | Anonymous în 2025: Haosul organizat al rezistenței digitale | Anonymous | [Read More](https://medium.com/p/120fa1e3416d) |
+| Mon, 06 Oct 2025 11:46:30 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/5665e98966eb) |
+| Mon, 06 Oct 2025 11:43:33 GMT | Don’t Just Containerize — Secure It: The Full-Spectrum Docker Defense Playbook | Muhammad Taqi | [Read More](https://medium.com/p/6741c920b9fc) |
+| Mon, 06 Oct 2025 11:42:26 GMT | Top Vibe-Coding Security Risks | Netlas.io | [Read More](https://medium.com/p/8434e8b6be30) |
+| Mon, 06 Oct 2025 11:39:38 GMT | DockerLabs Writeup — Upload (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3b57136e353a) |
 | Mon, 06 Oct 2025 11:32:06 GMT | What is Obfuscation (in plain English)?
  Think of it as scrambling your app’s blueprint. | Musaddiq Ahmed Khan | [Read More](https://medium.com/p/ee122dc538ae) |
 | Mon, 06 Oct 2025 11:30:51 GMT | Efficient Access Control with Tripod Turnstile Gates by FIA | Marksmith | [Read More](https://medium.com/p/523fef91ee43) |
@@ -86,31 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 08:38:51 GMT | Cyber Security Tutorial (Part3) | mohandika | [Read More](https://medium.com/p/6cda4cd8585c) |
 | Mon, 06 Oct 2025 08:38:29 GMT | The Real Job Requirements and the Google Cybersecurity Certificate | Muhammad Haider Tallal | [Read More](https://medium.com/p/ec81a551a9d3) |
 | Mon, 06 Oct 2025 08:32:31 GMT | 24 Months in Kali Linux: The Dark Side Tools Nobody Talks About | Abdullah Javeed | [Read More](https://medium.com/p/718b2255dd78) |
-| Mon, 06 Oct 2025 08:28:41 GMT | ประจำวันจันทร์ที่ 6 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1c6c2c78b647) |
-| Mon, 06 Oct 2025 08:26:01 GMT | Smart Security Solutions by Checkpoint Access | Office | [Read More](https://medium.com/p/2b96d7952c80) |
-| Mon, 06 Oct 2025 08:21:55 GMT | Clanker Cash Grabs: Hertz Needs a Customer Wake-Up Call | Namir Sagheenanajar | [Read More](https://medium.com/p/9aa81cd44182) |
-| Mon, 06 Oct 2025 08:15:31 GMT | Advanced Access Control with Checkpoint Access | Office | [Read More](https://medium.com/p/50e06efe496b) |
-| Mon, 06 Oct 2025 08:08:53 GMT | TryHackMe : Splunk: Exploring SPL | Rindaman666 | [Read More](https://medium.com/p/92417e75514a) |
-| Mon, 06 Oct 2025 08:07:37 GMT | Smarter Access with Checkpoint Access | Office | [Read More](https://medium.com/p/570b1ff8c61b) |
-| Mon, 06 Oct 2025 08:05:48 GMT | Cryptography Basics: The Foundation of Our Digital World | Sumit Sah | [Read More](https://medium.com/p/3dae5d9f9f0e) |
-| Mon, 06 Oct 2025 08:05:11 GMT | Discovery toolkit: Parking lot | Cait Graaf | [Read More](https://medium.com/p/fd8068d20587) |
-| Mon, 06 Oct 2025 08:03:35 GMT | Timelapse Machine Writeup | Cy3erS@up | [Read More](https://medium.com/p/04c01921599c) |
-| Mon, 06 Oct 2025 07:54:29 GMT | SubHub: Lighting Up the Network with Trusted Signals 
-By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
-| Mon, 06 Oct 2025 07:50:38 GMT | Oracle Confirms Potential Exploitation of Known Vulnerabilities in Recent Cyber Extortion Attacks | Securis360 Inc. | [Read More](https://medium.com/p/e11834420a80) |
-| Mon, 06 Oct 2025 07:46:09 GMT | ISO 27001 Remote Working Policy: The Missing Piece in Cybersecurity | SecureSlate | [Read More](https://medium.com/p/bb09c30bf766) |
-| Mon, 06 Oct 2025 07:41:57 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/481db5e4fc3d) |
-| Mon, 06 Oct 2025 07:35:00 GMT | Chaining Vulnerabilities: From Low to High — My TryHackMe Lab Walkthrough | Chandan Nayak | [Read More](https://medium.com/p/e47b43a163d1) |
-| Mon, 06 Oct 2025 07:32:34 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/08c042e2bdbf) |
-| Mon, 06 Oct 2025 07:19:22 GMT | Security Best Practices in Django 2025: Navigating OWASP Top 10 | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/1f52e1309444) |
-| Mon, 06 Oct 2025 07:17:26 GMT | How operating System (OS) handle Security ? | Vansh_Makkar | [Read More](https://medium.com/p/89fbaab95b21) |
-| Mon, 06 Oct 2025 07:13:21 GMT | Zimbra Zero-Day, Weaponized .ICS | Germano Costi | [Read More](https://medium.com/p/9ea9ae8e0edd) |
-| Mon, 06 Oct 2025 07:12:38 GMT | Tải The Battle Cat‪s‬ Hack (Mở Khóa tất cả Cats, Max Level) v14.6.0 | MODCOMBO | [Read More](https://medium.com/p/75de7a5c67be) |
-| Mon, 06 Oct 2025 07:09:00 GMT | Unit 42 Attack Surface Assessment By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e3f24c17faf1) |
-| Mon, 06 Oct 2025 07:08:25 GMT | I Broke Into My Own App in 47 Minutes; Here’s What Scared Me | Abdullah Javeed | [Read More](https://medium.com/p/cc4223d52723) |
-| Mon, 06 Oct 2025 07:07:24 GMT | Achieving Sub-Millisecond Query Times in PostgreSQL for AI-Powered Applications | Rizqi Mulki | [Read More](https://medium.com/p/2ecc63a1d3d3) |
-| Mon, 06 Oct 2025 07:01:57 GMT | Nmap: The Cybersecurity Tool That Sees What Others Can’t. | Dany Christel | [Read More](https://medium.com/p/7143e245a388) |
-| Mon, 06 Oct 2025 07:01:57 GMT | I Tried Investigating a Webshell for the First Time: Here’s What I Learned | Odunlade Adeola | [Read More](https://medium.com/p/a0e1c26ca255) |
-| Mon, 06 Oct 2025 07:01:54 GMT | Continuous Security Testing in CI/CD Pipelines for Financial Applications | Mavidev Software And Consulting Co. | [Read More](https://medium.com/p/0d67d863f5ac) |
-| Mon, 06 Oct 2025 07:00:53 GMT | Breaking Into HackTheBox: My Journey from Script Kiddie to Root | Aj | [Read More](https://medium.com/p/d1cb5baeb758) |
-| Mon, 06 Oct 2025 06:59:22 GMT | Understanding AI Security: Safeguarding Artificial Intelligence in the Age of Smart Systems | Valorem Reply | [Read More](https://medium.com/p/45db07af5d3f) |
