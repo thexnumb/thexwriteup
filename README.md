@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 17:15:03 GMT | The Power of Being Vulnerable When Tutoring | Debbie Thompson | [Read More](https://medium.com/p/3e7978fcf127) |
+| Mon, 06 Oct 2025 17:08:53 GMT | The Dark Web Explained for Beginners: Should You Be Worried? | Aj | [Read More](https://medium.com/p/1d658d97a49c) |
+| Mon, 06 Oct 2025 17:03:42 GMT | The Lie Factor: When Data Tells a Beautiful Lie | Vivek Pudur | [Read More](https://medium.com/p/a9b992fb1b44) |
+| Mon, 06 Oct 2025 16:58:02 GMT | Why My Friends Are Mostly Women | Ajay Deewan | [Read More](https://medium.com/p/237c43ef8cc3) |
+| Mon, 06 Oct 2025 16:50:13 GMT | Top 5 Best VPNs to Use in the UK After the Online Safety Act | Alex Constantin | [Read More](https://medium.com/p/2167acd6d191) |
 | Mon, 06 Oct 2025 16:45:08 GMT | Monday Cyber Brief — October 6 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/67ac391dddc7) |
 | Mon, 06 Oct 2025 16:39:50 GMT | How HTTPS Really Works — The Secret Behind the Lock Icon | Jay | [Read More](https://medium.com/p/023f44e1f58d) |
 | Mon, 06 Oct 2025 16:35:24 GMT | When it gets tough — Be Vulnerably Honest | Penpositive | [Read More](https://medium.com/p/043fd1b0a978) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 12:52:42 GMT | Portswigger mystery lab write-up — XML external entity injection: Exploiting blind XXE to… | Hubert | [Read More](https://medium.com/p/1b557f2119f5) |
 | Mon, 06 Oct 2025 12:51:21 GMT | The Vulnerable | Rick Wolf | [Read More](https://medium.com/p/3a183a46d50f) |
 | Mon, 06 Oct 2025 12:50:40 GMT | Can I Haz Root? :: FUNNEL | Cyber Grover ‍ | [Read More](https://medium.com/p/d8e94d181d05) |
-| Mon, 06 Oct 2025 12:47:10 GMT | … | Kaverigiri | [Read More](https://medium.com/p/135f4039cdbd) |
-| Mon, 06 Oct 2025 12:47:02 GMT | Silent Siege: How Precision, A.I., and Invisible Weapons Are Redefining Conflict | Aurel Stratan | [Read More](https://medium.com/p/3f2c4c0aac67) |
-| Mon, 06 Oct 2025 12:36:18 GMT | H5.lencoin.net Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/533fce5010d9) |
-| Mon, 06 Oct 2025 12:34:12 GMT | Oracle Rushes Patch for CVE-2025–61882 After Cl0p Exploits It in Widespread Data-Theft Attacks | IamPreth | [Read More](https://medium.com/p/063ba2d498b9) |
-| Mon, 06 Oct 2025 12:30:37 GMT | The “Advance Fee” Scam Every Musician Should Avoid | Joshua Famiroju | [Read More](https://medium.com/p/48fc1d7b439d) |
