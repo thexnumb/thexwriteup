@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 18:24:14 GMT | Tryhackme - Source Türkçe Anlatım | nightbird | [Read More](https://medium.com/p/ec937128f948) |
+| Mon, 06 Oct 2025 18:22:10 GMT | Cybersecurity 101: The 5 Fundamental Concepts You Must Know | orioninsist | [Read More](https://medium.com/p/58bae5635960) |
+| Mon, 06 Oct 2025 18:20:19 GMT | Bandit - Level 8→ 9- OverTheWire | Deepika  B | [Read More](https://medium.com/p/866a06629cae) |
+| Mon, 06 Oct 2025 18:13:01 GMT | Bandit - Level 7→ 8- OverTheWire | Deepika  B | [Read More](https://medium.com/p/e2e494a942a9) |
+| Mon, 06 Oct 2025 18:12:30 GMT | DevOps in 2025: Predictions from the Trenches | Talat Faheem | [Read More](https://medium.com/p/dc9ca717d514) |
+| Mon, 06 Oct 2025 18:08:19 GMT | How to Lock a Double Door: Securing French and Double Entry Doors | Sure Lock & Key LLC | [Read More](https://medium.com/p/3631e34067a6) |
+| Mon, 06 Oct 2025 18:04:28 GMT | Bandit - Level 6→ 7- OverTheWire | Deepika  B | [Read More](https://medium.com/p/34850b962d48) |
+| Mon, 06 Oct 2025 18:01:53 GMT | Hash Me If You Can — How I Beat a 2-Second Hashing Challenge on RingZer0Team | Sh3nobi | [Read More](https://medium.com/p/a61cf0a87291) |
+| Mon, 06 Oct 2025 17:57:18 GMT | Top 10 Cybersecurity Mistakes People Still Make | Asif.k | [Read More](https://medium.com/p/7079d3b9614c) |
+| Mon, 06 Oct 2025 17:56:38 GMT | The Cybersecurity Sentinel (October 2025) | Franklin Rhodes | [Read More](https://medium.com/p/b13fdea8f501) |
+| Mon, 06 Oct 2025 17:56:26 GMT | Exploring Security Hardening with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/ef16bbab2969) |
+| Mon, 06 Oct 2025 17:51:02 GMT | ️ Building My Own Cloud SOC from Scratch on AWS | Shadin | [Read More](https://medium.com/p/786f3c5b61e4) |
+| Mon, 06 Oct 2025 17:49:07 GMT | The Python Habit Tracker That Rewired My Brain (and My Code) | Fateyaly | [Read More](https://medium.com/p/ab0442544fc4) |
+| Mon, 06 Oct 2025 17:48:06 GMT | 03-Kali Linux Resource Development: Crafting the Arsenal for Cyber Operations | SDNTechForum | [Read More](https://medium.com/p/d3fd15fbd9a0) |
+| Mon, 06 Oct 2025 17:43:09 GMT | Exploring the Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/02f8e514da09) |
+| Mon, 06 Oct 2025 17:42:35 GMT | AI/ LLM Hacking-Part 4-Supply Chain - Data & Model Poisoning vulnerabilities. | Darshan Naresh Naik | [Read More](https://medium.com/p/4c9bcc358055) |
+| Mon, 06 Oct 2025 17:41:18 GMT | SQL injection-The Beginner’s Guide(Part 2 ) | Ashutosh Jena | [Read More](https://medium.com/p/e66df830f1d7) |
+| Mon, 06 Oct 2025 17:40:24 GMT | Power Plays in Digital Trade: How Regulatory Control Shapes the Global Data Economy | Andrea Frosinini | [Read More](https://medium.com/p/f0bdaacecb1f) |
+| Mon, 06 Oct 2025 17:36:00 GMT | CYBER KALKI EXPOSES CRITICAL FLAW by hacking testphp.vulnweb.com and turning into a Data Honeypot | Krivadna | [Read More](https://medium.com/p/7a89b74ba72d) |
 | Mon, 06 Oct 2025 17:34:16 GMT | HRMCon 2025 — Human Risk Management Conference | Matthew.Rosenquist | [Read More](https://medium.com/p/5b76e043ae37) |
 | Mon, 06 Oct 2025 17:33:44 GMT | Small Bugs, Easy Money: CSRF & Race Conditions | nooh zidan | [Read More](https://medium.com/p/b5fc69694f1f) |
 | Mon, 06 Oct 2025 17:33:11 GMT | Why Statistics Is the Secret Weapon in Modern Cybersecurity | Gadeabhishekreddy | [Read More](https://medium.com/p/4a7eb9afdca8) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 14:00:51 GMT | Strategic IT Consulting for Long-Term Success | IPSpecialist | [Read More](https://medium.com/p/6577ca348862) |
 | Mon, 06 Oct 2025 13:59:59 GMT | Threat and Vulnerabilities Report — September 2025 | Loginsoft | [Read More](https://medium.com/p/e10a32194850) |
 | Mon, 06 Oct 2025 13:59:56 GMT | ⚡ Flash USDT (“Fake USDT”); The Illusion That Keeps Fooling Crypto Users | Crypto Savvy | [Read More](https://medium.com/p/90076b1ef079) |
-| Mon, 06 Oct 2025 13:57:37 GMT | SMMEs and Startups on Alert: How Wazuh Brings Enterprise Security Within Reach | Jonathan Daniels | [Read More](https://medium.com/p/92d520afd482) |
-| Mon, 06 Oct 2025 13:44:36 GMT | When One Post Can End a Business: Why Security and Compliance Are No Longer Optional | Tec-Tel Communications | [Read More](https://medium.com/p/29707440ad6f) |
-| Mon, 06 Oct 2025 13:41:04 GMT | The Silent Budget Killer: OSHA Fines from Missed PPE Compliance | Tec-Tel Communications | [Read More](https://medium.com/p/66f01104f4cb) |
-| Mon, 06 Oct 2025 13:40:43 GMT | My Acoustic Diaries: Too Much, But Real | Walters Fall | [Read More](https://medium.com/p/2041ada495dc) |
-| Mon, 06 Oct 2025 13:35:11 GMT | Why I Disable Core Dumps on Linux Servers (And What I Do Instead) | Faruk Ahmed | [Read More](https://medium.com/p/ebdeaebcf08d) |
-| Mon, 06 Oct 2025 13:32:46 GMT | NCBA Insurance Launches CyberGuard — A Cyber Insurance Offering To Protect Businesses In Kenya… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/25bfeeb86fc1) |
-| Mon, 06 Oct 2025 13:32:03 GMT | Ransomware in Small Businesses: 5 Steps You Can Take Right Away | Cordula Boeck | [Read More](https://medium.com/p/32241c2384aa) |
-| Mon, 06 Oct 2025 13:27:15 GMT | Metasploitable: Introduction Tryhackme Walkthrough | Genrunic | [Read More](https://medium.com/p/ce717e1292b4) |
-| Mon, 06 Oct 2025 13:26:44 GMT | Passive Reconnaissance | Genrunic | [Read More](https://medium.com/p/d7470ef5e56d) |
-| Mon, 06 Oct 2025 13:24:33 GMT | Conquering Carpe Diem 1 on TryHackMe: A Step Toward Mastering Cybersecurity | Umer | [Read More](https://medium.com/p/095db8aa33a2) |
-| Mon, 06 Oct 2025 13:11:57 GMT | How I Stopped a CSRF Attack From Taking Over My Site | Ibtissam hammadi | [Read More](https://medium.com/p/29dc25c9cc6c) |
-| Mon, 06 Oct 2025 13:07:53 GMT | mePrism Protects Healthcare Workers from Digital Threats | mePrism Privacy | [Read More](https://medium.com/p/d59e2a08f607) |
-| Mon, 06 Oct 2025 13:07:11 GMT | My Cybersecurity Journey: From Learning to Doing | Sama filbert | [Read More](https://medium.com/p/a92c68b55736) |
-| Mon, 06 Oct 2025 13:06:53 GMT | Pzmqgow.top Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/0598077ad24d) |
-| Mon, 06 Oct 2025 13:06:01 GMT | 10 Ingenious Methods for Natural Pest Control in Your Garden | Bill Basinger | [Read More](https://medium.com/p/e36805b2c424) |
-| Mon, 06 Oct 2025 13:04:44 GMT | In today’s rapidly evolving digital world, cyber threats have become more sophisticated than ever. | StrongBox IT | [Read More](https://medium.com/p/55639fb33f8f) |
-| Mon, 06 Oct 2025 13:04:32 GMT | Is H5.peabdexapp.vip Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/b6901f01caf1) |
-| Mon, 06 Oct 2025 13:02:31 GMT | Think Outside the Stack: Reframing IT Operations Management for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/df1f0ddddc8a) |
-| Mon, 06 Oct 2025 13:01:56 GMT | Why Content Writers Are in Demand | Aliyu Ibrahim | [Read More](https://medium.com/p/f814b788fa32) |
