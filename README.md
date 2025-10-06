@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 09:38:08 GMT | Hancitor/Chanitor Trojan | R.D.Tarun | [Read More](https://medium.com/p/dbe73849c3c2) |
+| Mon, 06 Oct 2025 09:37:45 GMT | Cyber Security and Ethical Hacking Training in Chandigarh — Secure Your Future with CNT… | Cnt Technologies | [Read More](https://medium.com/p/844711eca552) |
+| Mon, 06 Oct 2025 09:29:04 GMT | What is Cybersecurity | Excellencekritika | [Read More](https://medium.com/p/d82587b2160b) |
+| Mon, 06 Oct 2025 09:26:14 GMT | AWS WAF vs. AWS Shield: What to Use and When | Davebhargavi | [Read More](https://medium.com/p/b1852a8151c6) |
+| Mon, 06 Oct 2025 09:20:22 GMT | Top 10 Tech Trends in 2025 | QNu Labs | [Read More](https://medium.com/p/649f570a83a3) |
+| Mon, 06 Oct 2025 09:19:41 GMT | SOC from Scratch #1 — What is a SOC and What Does a SOC Analyst Do? | Shane Samuel | [Read More](https://medium.com/p/252d1b77a090) |
+| Mon, 06 Oct 2025 09:16:22 GMT | 5 Cyber Threats Hitting Dubai SMEs in 2025: Protection Checklist | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/d5e870f41ea8) |
 | Mon, 06 Oct 2025 09:15:16 GMT | Beyond Copy-Paste: Smarter Ways to Move Files on Windows | Horrow | [Read More](https://medium.com/p/326631ee3e9e) |
+| Mon, 06 Oct 2025 09:15:04 GMT | The Complete Governance House: How IT and Security Frameworks Fit Together (Part 1) | Amrik  Hanjra | [Read More](https://medium.com/p/9109a4839feb) |
 | Mon, 06 Oct 2025 09:13:59 GMT | Lab 7 SQL injection UNION attack, determining the number of columns returned by the query | Apexium Technologies Ltd | [Read More](https://medium.com/p/85dc7f97fa89) |
+| Mon, 06 Oct 2025 09:13:33 GMT | Lab 8: SQL injection UNION attack, finding a column containing text | Apexium Technologies Ltd | [Read More](https://medium.com/p/25d2cca37c48) |
 | Mon, 06 Oct 2025 09:13:03 GMT | Lab 5: SQL injection attack, listing the database contents on non-Oracle databases | Apexium Technologies Ltd | [Read More](https://medium.com/p/68d231d65a6b) |
+| Mon, 06 Oct 2025 09:11:55 GMT | Understanding CRM System Examples for Every Business | Bhavesh Rajpurohit | [Read More](https://medium.com/p/f6d01e8e670c) |
 | Mon, 06 Oct 2025 09:08:02 GMT | Internal Audit: Strengthening Governance, Risk and Security Posture | Daniel | [Read More](https://medium.com/p/e7bcef109f42) |
 | Mon, 06 Oct 2025 09:07:00 GMT | Diving Deep: Exploring Emotional Depth in 5D Relationships | Wilson Igbasi | [Read More](https://medium.com/p/9cfd4e53eaaa) |
 | Mon, 06 Oct 2025 09:02:20 GMT | Why ISO 27001 Matters for Healthcare: Building Cyber Resilience in a Vulnerable Sector | Hicomply | [Read More](https://medium.com/p/f0d50e74a163) |
@@ -104,13 +114,3 @@ By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
 | Mon, 06 Oct 2025 04:32:18 GMT | ️ Security Tips for Newly Admitted Students
 By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | [Read More](https://medium.com/p/ece83a61c592) |
 | Mon, 06 Oct 2025 04:32:16 GMT | Deep Dive: Snowflake Access History for Data Governance and Compliance | Rajiv Gupta | [Read More](https://medium.com/p/0b2cf36abf0f) |
-| Mon, 06 Oct 2025 04:27:53 GMT | TryHackMe #95 - Windows Event Logs | 0xGroot | [Read More](https://medium.com/p/69cce4ce3830) |
-| Mon, 06 Oct 2025 04:27:53 GMT | Understanding CORS: The Web Security Feature Every Developer Needs to Master | Awais Rasheed | [Read More](https://medium.com/p/2e41e1fc9611) |
-| Mon, 06 Oct 2025 04:25:11 GMT | Tải Hack Hills of Steel (Vô HạnTiền, Kim Cương) v8.3.2 | MODLMH | [Read More](https://medium.com/p/8a6f6b647907) |
-| Mon, 06 Oct 2025 04:22:06 GMT | TryHackMe #94 - Sysinternals | 0xGroot | [Read More](https://medium.com/p/445e05583267) |
-| Mon, 06 Oct 2025 04:16:29 GMT | TryHackMe #93 - Core Windows Processes | 0xGroot | [Read More](https://medium.com/p/7303cfdf8381) |
-| Mon, 06 Oct 2025 04:13:53 GMT | Love Is the Frequency That Brings Us Back Online | Amy Sullivan | [Read More](https://medium.com/p/5162516f3be9) |
-| Mon, 06 Oct 2025 04:11:52 GMT | TryHackMe #92 - Intro to Endpoint Security | 0xGroot | [Read More](https://medium.com/p/757f0231ad17) |
-| Mon, 06 Oct 2025 04:04:17 GMT | The ML Blindspot: How I Found Machine Learning APIs Leaking Training Data Like My Ex Leaks… | Iski | [Read More](https://medium.com/p/e0d577481f2b) |
-| Mon, 06 Oct 2025 03:38:15 GMT | The Fifth Season | Isobel Bishop | [Read More](https://medium.com/p/8d372ac5c42e) |
-| Mon, 06 Oct 2025 03:32:11 GMT | Passkeys & Android’s Credential Manager (2025): a practical migration guide | Karishma Agrawal | [Read More](https://medium.com/p/60e3cf04f3ac) |
