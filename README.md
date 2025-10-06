@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 03:38:15 GMT | The Fifth Season | Isobel Bishop | [Read More](https://medium.com/p/8d372ac5c42e) |
+| Mon, 06 Oct 2025 03:32:11 GMT | Passkeys & Android’s Credential Manager (2025): a practical migration guide | Karishma Agrawal | [Read More](https://medium.com/p/60e3cf04f3ac) |
+| Mon, 06 Oct 2025 03:32:11 GMT | Paper Werewolf Exploits WinRAR Zero-Day to Deliver Stealthy Malware | Deven Chhajed | [Read More](https://medium.com/p/1f76f99718f5) |
+| Mon, 06 Oct 2025 03:31:08 GMT | How Ambient AI is Improving Hospital Workflows | Evan Houdeshell | [Read More](https://medium.com/p/396208e23e49) |
+| Mon, 06 Oct 2025 03:30:24 GMT | Mastering Truthy and Falsy in JavaScript: A Developer’s Guide | Tech With Curly Girl | [Read More](https://medium.com/p/e58f1337655d) |
+| Mon, 06 Oct 2025 03:14:56 GMT | 3 Core Authentication Factors Every Developer Must Understand | Varbolean | [Read More](https://medium.com/p/f5d8dfef5ec3) |
+| Mon, 06 Oct 2025 03:13:28 GMT | securityuSecure from Day One: 15 Must-Know Security Practices for Node.js Backends | kifeb | [Read More](https://medium.com/p/d0bf30920f53) |
 | Mon, 06 Oct 2025 02:59:24 GMT | AI: Perpetual Commotion | Julian S. Taylor | [Read More](https://medium.com/p/c82ac216cc8e) |
 | Mon, 06 Oct 2025 02:49:13 GMT | Sunday Reflection: Building a Cyberpreneur Mindset in a Compliance-Driven World | Dr. Deep Pandey | [Read More](https://medium.com/p/a105a8e728b3) |
 | Mon, 06 Oct 2025 02:45:21 GMT | Why Cybersecurity Is the Hottest IT Field Right Now? | CodeZen | [Read More](https://medium.com/p/d8430de32fb3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 18:11:31 GMT | Building an Automated Cybersecurity News Summary System with n8n | Yusuf Can Çakır | [Read More](https://medium.com/p/24d5ded6c161) |
 | Sun, 05 Oct 2025 18:11:27 GMT | 6 Platforms Every Bug Bounty Hunter Should Know. | Willow Tech | [Read More](https://medium.com/p/d401b8485009) |
 | Sun, 05 Oct 2025 18:09:03 GMT | CanYouSee — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/78052e12efc2) |
-| Sun, 05 Oct 2025 18:07:47 GMT | Siber Güvenlik 101 — Raporlama Sanatı | Sude Çoban | [Read More](https://medium.com/p/3ffb8b0bdfb0) |
-| Sun, 05 Oct 2025 18:03:05 GMT | Week 1: My Cybersecurity Learning Journey | Shivasaicharan | [Read More](https://medium.com/p/34dc3d3fe154) |
-| Sun, 05 Oct 2025 17:59:33 GMT | i don’t wanna be here anymore | Nightly rain | [Read More](https://medium.com/p/f64c5550a7a4) |
-| Sun, 05 Oct 2025 17:53:52 GMT | Essential DevSecOps Tools: SCA, SAST, and DAST | cybrNK | [Read More](https://medium.com/p/49c8a92a994e) |
-| Sun, 05 Oct 2025 17:52:10 GMT | We Made Our Pipeline Immutable — And Hackers Gave Up | Web3 Nautiyal | [Read More](https://medium.com/p/ebef62b76d33) |
-| Sun, 05 Oct 2025 17:51:53 GMT | Spring Boot + OAuth2: The Modern Security Blueprint for 2025 Apps | CodeTalks | [Read More](https://medium.com/p/5d72c46bbc73) |
-| Sun, 05 Oct 2025 17:48:12 GMT | ️ Why Security Is Critical — and How to Secure & Launch an AI Agent | Rajesh Devadasan | [Read More](https://medium.com/p/3f68f67abf20) |
