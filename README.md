@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 07:35:00 GMT | Chaining Vulnerabilities: From Low to High — My TryHackMe Lab Walkthrough | Chandan Nayak | [Read More](https://medium.com/p/e47b43a163d1) |
+| Mon, 06 Oct 2025 07:19:22 GMT | Security Best Practices in Django 2025: Navigating OWASP Top 10 | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/1f52e1309444) |
+| Mon, 06 Oct 2025 07:17:26 GMT | How operating System (OS) handle Security ? | Vansh_Makkar | [Read More](https://medium.com/p/89fbaab95b21) |
+| Mon, 06 Oct 2025 07:13:21 GMT | Zimbra Zero-Day, Weaponized .ICS | Germano Costi | [Read More](https://medium.com/p/9ea9ae8e0edd) |
+| Mon, 06 Oct 2025 07:12:38 GMT | Tải The Battle Cat‪s‬ Hack (Mở Khóa tất cả Cats, Max Level) v14.6.0 | MODCOMBO | [Read More](https://medium.com/p/75de7a5c67be) |
 | Mon, 06 Oct 2025 07:09:00 GMT | Unit 42 Attack Surface Assessment By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e3f24c17faf1) |
 | Mon, 06 Oct 2025 07:08:25 GMT | I Broke Into My Own App in 47 Minutes; Here’s What Scared Me | Abdullah Javeed | [Read More](https://medium.com/p/cc4223d52723) |
 | Mon, 06 Oct 2025 07:07:24 GMT | Achieving Sub-Millisecond Query Times in PostgreSQL for AI-Powered Applications | Rizqi Mulki | [Read More](https://medium.com/p/2ecc63a1d3d3) |
@@ -108,8 +113,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Sun, 05 Oct 2025 23:51:49 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/83589320b993) |
 | Sun, 05 Oct 2025 23:37:12 GMT | The First Step Into Cybersecurity: Simple Habits That Make a Big Difference | Syed Abdul Malik | [Read More](https://medium.com/p/340cf7485e90) |
 | Sun, 05 Oct 2025 23:34:36 GMT | CVE-2025–61882 — Critical RCE in Oracle E-Business Suite (CVSS 9.8) | Cybersecplayground | [Read More](https://medium.com/p/3b2bc6d4a015) |
-| Sun, 05 Oct 2025 23:32:24 GMT | Security Operations Centers (SOCs): The Front Line | Cyber Security Research | [Read More](https://medium.com/p/07b1ba028cd9) |
-| Sun, 05 Oct 2025 23:32:06 GMT | Towards a Framework for Stablecoin Risk Analysis | John Abraham | [Read More](https://medium.com/p/ecbb7bfc405d) |
-| Sun, 05 Oct 2025 23:25:55 GMT | The Evolution of Security Architectures | Cyber Security Research | [Read More](https://medium.com/p/3df7042fcc69) |
-| Sun, 05 Oct 2025 23:20:01 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/81c8e7c1749f) |
-| Sun, 05 Oct 2025 23:15:05 GMT | Cryptocurrency and Modern Ransomware – Cybercriminal Tactics and Security Challenges | David SEHYEON Baek | [Read More](https://medium.com/p/75b18be27194) |
