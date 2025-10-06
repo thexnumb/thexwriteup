@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 14:39:52 GMT | Elastic Security Sandbox Installation & Usage — Chapter 1 : Sandbox Setup | Abdulkadir Sadi | [Read More](https://medium.com/p/38c197036d3c) |
+| Mon, 06 Oct 2025 14:34:12 GMT | Passing BSCP On Your First Try | m3m0o | [Read More](https://medium.com/p/62ca4d9f492a) |
+| Mon, 06 Oct 2025 14:32:21 GMT | Every Woman Has a Room Where She’s Still Seventeen and Silent | SuccessBlueprints.Org | [Read More](https://medium.com/p/d5c6c1c00ad6) |
+| Mon, 06 Oct 2025 14:28:29 GMT | Top 10 Most DEADLY Kali Linux Commands (Beginners Beware!) | Shahzaib | [Read More](https://medium.com/p/32c5ccabf5ad) |
+| Mon, 06 Oct 2025 14:28:16 GMT | Fixing Cross-Origin Security Leaks in Modern Webapps (XSS & XS-Leaks) | Mohammad Abir Abbas | [Read More](https://medium.com/p/6d13bb173488) |
+| Mon, 06 Oct 2025 14:26:56 GMT | Steel Mountain - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/f40f175ad8fb) |
+| Mon, 06 Oct 2025 14:24:32 GMT | How Writing NACLs Wrong Will Hurt Your Security Posture | Stanislav Babenko | [Read More](https://medium.com/p/fa0afbe45a05) |
+| Mon, 06 Oct 2025 14:23:55 GMT | "I Work Overnight in a Parking Garage... Cars Leave With One Driver and RETURN With Someone Else" | PhantomInk | [Read More](https://medium.com/p/3c7462e3ac1e) |
+| Mon, 06 Oct 2025 14:22:25 GMT | Why We Still Fall for Phishing in the Age of AI | Rabail Zaheer | [Read More](https://medium.com/p/f76c1aa55426) |
+| Mon, 06 Oct 2025 14:22:07 GMT | Microsoft Sentinel: The security platform for the agentic era | Seb AGUELE | [Read More](https://medium.com/p/d0bbb74802ee) |
+| Mon, 06 Oct 2025 14:20:35 GMT | From 800 Manual Test Cases to Continuous Testing: A HealthTech QA Transformation | Co-Ventech | [Read More](https://medium.com/p/e3628a597bdf) |
 | Mon, 06 Oct 2025 14:16:48 GMT | Top 7 Phishing Scams Targeting Businesses in 2025 and How to Avoid Them | IT_Engineer | [Read More](https://medium.com/p/2bf874150506) |
+| Mon, 06 Oct 2025 14:16:00 GMT | The Human Factor in OT Security: Training Engineers and Operators for Cyber Defense | Cyberkech | [Read More](https://medium.com/p/fc60e790c277) |
 | Mon, 06 Oct 2025 14:07:49 GMT | I Stopped Chasing Frameworks and My Code Got Better | Manav Pandya | [Read More](https://medium.com/p/931814b26cc1) |
 | Mon, 06 Oct 2025 14:06:53 GMT | CAPTCHA Bypass Allows Signup Progression Without Proper Validation | Mo7arebSec | [Read More](https://medium.com/p/ac95e7500168) |
 | Mon, 06 Oct 2025 14:06:29 GMT | Creating Secure Authentication Systems in Modern Web Apps with NextAuth.js | @rnab | [Read More](https://medium.com/p/58d335eaa72c) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 10:38:27 GMT | Hashing in Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/6de06e8fc81c) |
 | Mon, 06 Oct 2025 10:30:48 GMT | From Manual to Smart Tracking - Best Field Force Management Software In India | Mathewneelan | [Read More](https://medium.com/p/fc46e1b60911) |
 | Mon, 06 Oct 2025 10:30:43 GMT | From Curation to Context: Building a Smarter Cybersecurity News Workflow | Jay Simmons | [Read More](https://medium.com/p/d81e195f960d) |
-| Mon, 06 Oct 2025 10:28:42 GMT | How To Find Clickjacking Vulnerability | BinaryShield | [Read More](https://medium.com/p/b25cc537178f) |
-| Mon, 06 Oct 2025 10:28:16 GMT | Zero-Day in Oracle EBS: CVE-2025–61882 and the Rise of BI Publisher Exploits | gm0 | [Read More](https://medium.com/p/a4c78d9c02ea) |
-| Mon, 06 Oct 2025 10:25:49 GMT | ️ My Journey to Becoming a Practical Web Penetration Tester (PWPA) — by TCM Security | Durayamithiran G | [Read More](https://medium.com/p/7cd03bb16b0c) |
-| Mon, 06 Oct 2025 10:21:57 GMT | DAV- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/d9003871a1e0) |
-| Mon, 06 Oct 2025 10:15:37 GMT | Hackers Exploiting Oracle E-Business Suite - Oracle Zero-Day CVE-2025–61882 EXPLAINED | Motasem Hamdan | [Read More](https://medium.com/p/cf353b54eec8) |
-| Mon, 06 Oct 2025 10:11:31 GMT | Gemini CLI Now Integrates with Kali Linux to Automate Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/578bdb7c51ca) |
-| Mon, 06 Oct 2025 10:10:51 GMT | The Importance of Data Privacy | Rehaan Sahay | [Read More](https://medium.com/p/3a89cf7047c4) |
-| Mon, 06 Oct 2025 10:10:19 GMT | My First Bug Hunt: How I Found a P5 Vulnerability | Jyothismohan | [Read More](https://medium.com/p/a4cddfe2af84) |
-| Mon, 06 Oct 2025 10:06:07 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/ed2f3aa534e3) |
-| Mon, 06 Oct 2025 10:05:53 GMT | :  “ ” | Ankit Patel | [Read More](https://medium.com/p/1b71da3f6bc3) |
-| Mon, 06 Oct 2025 10:01:48 GMT | Local de propriedade — desvio do WAF por meio de configuração incorreta | himorinholucas666 | [Read More](https://medium.com/p/3ff8a51ba6c0) |
-| Mon, 06 Oct 2025 10:00:08 GMT | SORVEPOTEL: a fast, self-propagating WhatsApp malware — what we know and how organizations should… | Germano Costi | [Read More](https://medium.com/p/b1cb877461df) |
