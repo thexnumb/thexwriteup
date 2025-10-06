@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 16:45:08 GMT | Monday Cyber Brief — October 6 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/67ac391dddc7) |
+| Mon, 06 Oct 2025 16:39:50 GMT | How HTTPS Really Works — The Secret Behind the Lock Icon | Jay | [Read More](https://medium.com/p/023f44e1f58d) |
+| Mon, 06 Oct 2025 16:35:24 GMT | When it gets tough — Be Vulnerably Honest | Penpositive | [Read More](https://medium.com/p/043fd1b0a978) |
+| Mon, 06 Oct 2025 16:28:32 GMT | What is MFA? | Danielle Koppel | [Read More](https://medium.com/p/38cb8ae4ae36) |
+| Mon, 06 Oct 2025 16:26:04 GMT | Cybersecurity Frameworks In-Depth — Certifications and Uses | Prabhat K. Andleigh | [Read More](https://medium.com/p/bfe59f704c3e) |
+| Mon, 06 Oct 2025 16:23:31 GMT | Fake Job Offers | Danielle Koppel | [Read More](https://medium.com/p/2ca9356e0d4c) |
+| Mon, 06 Oct 2025 16:20:00 GMT | Constantly Curious: One Ring to Track Them All? | OSINT Amy | [Read More](https://medium.com/p/825c6e214850) |
 | Mon, 06 Oct 2025 16:17:36 GMT | ️ Security Guide Every Programmer Must Know: Protect Your Code, App & Server Like a Pro! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/c1629d385d41) |
+| Mon, 06 Oct 2025 16:13:48 GMT | IBM Guardium v12.2 — New features, functions, and enhancements — Part1 | Adam Frąckowiak | [Read More](https://medium.com/p/c8efe5eabe4d) |
 | Mon, 06 Oct 2025 16:12:18 GMT | Hack The Box — Puppy Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/b8ddab9d701c) |
 | Mon, 06 Oct 2025 16:07:04 GMT | Windows Server 2022 HomeLab | Emmanuel Samuel | [Read More](https://medium.com/p/1a5e2b1db926) |
 | Mon, 06 Oct 2025 16:06:46 GMT | When AI Meets Application Rationalization: The Hidden Risk No One’s Talking About | Jared Hudgins | [Read More](https://medium.com/p/c04d1c3e858a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 12:36:18 GMT | H5.lencoin.net Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/533fce5010d9) |
 | Mon, 06 Oct 2025 12:34:12 GMT | Oracle Rushes Patch for CVE-2025–61882 After Cl0p Exploits It in Widespread Data-Theft Attacks | IamPreth | [Read More](https://medium.com/p/063ba2d498b9) |
 | Mon, 06 Oct 2025 12:30:37 GMT | The “Advance Fee” Scam Every Musician Should Avoid | Joshua Famiroju | [Read More](https://medium.com/p/48fc1d7b439d) |
-| Mon, 06 Oct 2025 12:28:46 GMT | Crypto Hacks That Shook the Industry and the Cybersecurity Lessons We’ve Learned | Cyber Lois | [Read More](https://medium.com/p/dc50d5a0119c) |
-| Mon, 06 Oct 2025 12:26:01 GMT | Pentagon Failures Exposed: How Centene’s Health Net Flunked TRICARE Cybersecurity | Centengate | [Read More](https://medium.com/p/f1c5295df5aa) |
-| Mon, 06 Oct 2025 12:25:28 GMT | Is Crypto-networks.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/3958eb63ad95) |
-| Mon, 06 Oct 2025 12:24:53 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/40b4d02c7f56) |
-| Mon, 06 Oct 2025 12:24:26 GMT | Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints | coffinxp | [Read More](https://medium.com/p/29252dcd9d79) |
-| Mon, 06 Oct 2025 12:21:55 GMT | The Hidden Costs of Ignoring Data Protection | Nagaraj | [Read More](https://medium.com/p/135953b253bb) |
-| Mon, 06 Oct 2025 12:16:27 GMT | Cybersecurity Foundations Series: Part 6 — Governance Processes and Security Frameworks | TechStoryLines | [Read More](https://medium.com/p/11e6239c4a35) |
-| Mon, 06 Oct 2025 12:15:30 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/83950e1615ed) |
