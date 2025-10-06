@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 11:10:11 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/7e9352d99444) |
+| Mon, 06 Oct 2025 11:07:06 GMT | The Psychology of Hackers: Why Your Brain Is Their Favorite Weapon | Arfa | [Read More](https://medium.com/p/4bfa04996e7b) |
+| Mon, 06 Oct 2025 11:06:19 GMT | The Hidden Danger: How Caching Can Be a Cybersecurity Risk in Today’s Digital World” | ZASHA | [Read More](https://medium.com/p/1445934ce753) |
+| Mon, 06 Oct 2025 11:05:48 GMT | Why Cybersecurity Should Be a Priority for Fund Administrators | Annumaurya | [Read More](https://medium.com/p/e3251ff10205) |
+| Mon, 06 Oct 2025 11:04:53 GMT | I Analyzed 100 Real Cyber Attacks: Here’s What I Learned About Staying Safe Online | Arfa | [Read More](https://medium.com/p/7a9ec9afff43) |
+| Mon, 06 Oct 2025 11:02:07 GMT | Rethinking Vulnerability Management in 2025 | Brittney Ginther | [Read More](https://medium.com/p/b45874a19fe4) |
+| Mon, 06 Oct 2025 11:01:42 GMT | Taming the Data Beast: A Threat Hunter’s Guide to Nushell | Adam Goss | [Read More](https://medium.com/p/acc0212edd32) |
+| Mon, 06 Oct 2025 10:56:22 GMT | CVE-2025–49844: When Lua Scripts Turn Lethal in Redis | gm0 | [Read More](https://medium.com/p/753cecad8438) |
+| Mon, 06 Oct 2025 10:56:15 GMT | RST TI Report Digest: 06 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/12f70b660515) |
+| Mon, 06 Oct 2025 10:54:54 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/d9beb5e5ce93) |
+| Mon, 06 Oct 2025 10:53:15 GMT | Location Owned — WAF Bypass via Misconfiguration | himorinholucas666 | [Read More](https://medium.com/p/b24df80a6038) |
+| Mon, 06 Oct 2025 10:51:26 GMT | Best Toll-Free Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/44399dfbe5ae) |
+| Mon, 06 Oct 2025 10:51:17 GMT | The Future of Threat Intelligence | Cyber Security Research | [Read More](https://medium.com/p/13d26f1d910b) |
+| Mon, 06 Oct 2025 10:40:57 GMT | Securing the Cloud: Trust but Verify | Cyber Security Research | [Read More](https://medium.com/p/61bd18d7f19e) |
 | Mon, 06 Oct 2025 10:38:27 GMT | Hashing in Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/6de06e8fc81c) |
 | Mon, 06 Oct 2025 10:30:48 GMT | From Manual to Smart Tracking - Best Field Force Management Software In India | Mathewneelan | [Read More](https://medium.com/p/fc46e1b60911) |
 | Mon, 06 Oct 2025 10:30:43 GMT | From Curation to Context: Building a Smarter Cybersecurity News Workflow | Jay Simmons | [Read More](https://medium.com/p/d81e195f960d) |
@@ -99,17 +113,3 @@ By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
 | Mon, 06 Oct 2025 06:43:22 GMT | Memory Management Best Practices for PostgreSQL in AI Applications | Rizqi Mulki | [Read More](https://medium.com/p/aa99e185d6a3) |
 | Mon, 06 Oct 2025 06:42:08 GMT | 10 Must-Have IT Vulnerability Assessment Tools for Every IT Professional | Qualysec | [Read More](https://medium.com/p/6bab5352b17b) |
 | Mon, 06 Oct 2025 06:39:52 GMT | How About Exploring Cybersecurity as a Math’s Graduate for MSc? | Adeleke Theophilus O | [Read More](https://medium.com/p/48391f1aea6f) |
-| Mon, 06 Oct 2025 06:38:50 GMT | NEVER Install This Software! | Shahzaib | [Read More](https://medium.com/p/6cd457145854) |
-| Mon, 06 Oct 2025 06:38:23 GMT | :     - SJ… | SJ Global Consulting | [Read More](https://medium.com/p/b32b6cd169d1) |
-| Mon, 06 Oct 2025 06:35:57 GMT | Understanding SameSite Cookies: A Clear Explanation | Amisha Singh | [Read More](https://medium.com/p/a1e01c3b3278) |
-| Mon, 06 Oct 2025 06:31:57 GMT | Hexadecimal: The Secret Language of Networks (and MAC Addresses) | Araiz Naqvi | [Read More](https://medium.com/p/722fe6e3c7a8) |
-| Mon, 06 Oct 2025 06:26:09 GMT | The Growing Importance of Electronic Security Solutions and Facility Management in India | Ciss India | [Read More](https://medium.com/p/d64bcd12480b) |
-| Mon, 06 Oct 2025 06:23:46 GMT | The Daily Tech Digest: 06 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b17f454502e9) |
-| Mon, 06 Oct 2025 06:20:36 GMT | HackTheBox — Holmes CTF 2025 | Fathijem | [Read More](https://medium.com/p/a8e0b8e9a8ea) |
-| Mon, 06 Oct 2025 06:19:14 GMT | Tokenization in Card Payments — A Guide for Developers and Product Leaders | Vikas Pandey | [Read More](https://medium.com/p/dc15d920ee98) |
-| Mon, 06 Oct 2025 06:15:16 GMT | How NetBackup Handles Data Integrity and Security | Nurali ATMACA | [Read More](https://medium.com/p/7f1214117adb) |
-| Mon, 06 Oct 2025 06:09:15 GMT | Phishing Exposed: The Art of Deception | Cyber Security Research | [Read More](https://medium.com/p/ece46b3fdd97) |
-| Mon, 06 Oct 2025 06:06:29 GMT | Exploring Advanced Techniques for Docker Security | @rnab | [Read More](https://medium.com/p/1addca778fd7) |
-| Mon, 06 Oct 2025 06:05:38 GMT | EA to CSP Transition Made Easy with - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/4ca1be22487d) |
-| Mon, 06 Oct 2025 06:03:40 GMT | Ransomware’s Ruthless Reign | Cyber Security Research | [Read More](https://medium.com/p/e7e7386c6469) |
-| Mon, 06 Oct 2025 06:02:24 GMT | What are the 5 Major Branches of Digital Forensics? | cyber security Updates | [Read More](https://medium.com/p/a4b0346b1d5c) |
