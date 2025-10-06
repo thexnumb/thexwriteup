@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 19:23:39 GMT | Griffin AI, Nemo, BetterBank: $10.6M | Olympix | [Read More](https://medium.com/p/cc167536e774) |
+| Mon, 06 Oct 2025 19:21:36 GMT | SOC 2 Type I: Building the Foundation of Trust | Rachid Abadli | [Read More](https://medium.com/p/5584a001daf1) |
+| Mon, 06 Oct 2025 19:20:08 GMT | Beyond the Code: A 4-Step Strategy to Land Your First Cybersecurity Job | orioninsist | [Read More](https://medium.com/p/b67d899454e5) |
+| Mon, 06 Oct 2025 19:12:48 GMT | Mastering Cloud Security with AWS IAM — Project | John T.C. Idundun | [Read More](https://medium.com/p/56609265b29d) |
+| Mon, 06 Oct 2025 19:06:37 GMT | I was supposed to be a doctor, not a writer. | Raquell Mira | [Read More](https://medium.com/p/f8869e7a9d88) |
 | Mon, 06 Oct 2025 19:00:20 GMT | Fortinet FortiEDR | SAM Romania | [Read More](https://medium.com/p/224c656f9fad) |
 | Mon, 06 Oct 2025 18:57:00 GMT | Tryhackme — Volt Typhoon | asliulusoy | [Read More](https://medium.com/p/1cd43b63e818) |
 | Mon, 06 Oct 2025 18:53:16 GMT | Certified Kubernetes Administrator P-11 Security in K8s | Samsor Rahman | [Read More](https://medium.com/p/b5e834aacee5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 14:24:32 GMT | How Writing NACLs Wrong Will Hurt Your Security Posture | Stanislav Babenko | [Read More](https://medium.com/p/fa0afbe45a05) |
 | Mon, 06 Oct 2025 14:23:55 GMT | "I Work Overnight in a Parking Garage... Cars Leave With One Driver and RETURN With Someone Else" | PhantomInk | [Read More](https://medium.com/p/3c7462e3ac1e) |
 | Mon, 06 Oct 2025 14:22:25 GMT | Why We Still Fall for Phishing in the Age of AI | Rabail Zaheer | [Read More](https://medium.com/p/f76c1aa55426) |
-| Mon, 06 Oct 2025 14:22:07 GMT | Microsoft Sentinel: The security platform for the agentic era | Seb AGUELE | [Read More](https://medium.com/p/d0bbb74802ee) |
-| Mon, 06 Oct 2025 14:20:35 GMT | From 800 Manual Test Cases to Continuous Testing: A HealthTech QA Transformation | Co-Ventech | [Read More](https://medium.com/p/e3628a597bdf) |
-| Mon, 06 Oct 2025 14:16:48 GMT | Top 7 Phishing Scams Targeting Businesses in 2025 and How to Avoid Them | IT_Engineer | [Read More](https://medium.com/p/2bf874150506) |
-| Mon, 06 Oct 2025 14:16:00 GMT | The Human Factor in OT Security: Training Engineers and Operators for Cyber Defense | Cyberkech | [Read More](https://medium.com/p/fc60e790c277) |
-| Mon, 06 Oct 2025 14:07:49 GMT | I Stopped Chasing Frameworks and My Code Got Better | Manav Pandya | [Read More](https://medium.com/p/931814b26cc1) |
