@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 08:46:56 GMT | AI Security Engineering: 10 Threat Detection Strategies (2025) | Aniket | [Read More](https://medium.com/p/4fef06d05b70) |
+| Mon, 06 Oct 2025 08:40:25 GMT | Understanding RCEs + Exploiting Deep Links for RCE in Mobile Applications | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/f0d3d25ba7b8) |
+| Mon, 06 Oct 2025 08:38:51 GMT | Cyber Security Tutorial (Part3) | mohandika | [Read More](https://medium.com/p/6cda4cd8585c) |
+| Mon, 06 Oct 2025 08:38:29 GMT | The Real Job Requirements and the Google Cybersecurity Certificate | Muhammad Haider Tallal | [Read More](https://medium.com/p/ec81a551a9d3) |
+| Mon, 06 Oct 2025 08:32:31 GMT | 24 Months in Kali Linux: The Dark Side Tools Nobody Talks About | Abdullah Javeed | [Read More](https://medium.com/p/718b2255dd78) |
+| Mon, 06 Oct 2025 08:28:41 GMT | ประจำวันจันทร์ที่ 6 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1c6c2c78b647) |
+| Mon, 06 Oct 2025 08:26:01 GMT | Smart Security Solutions by Checkpoint Access | Office | [Read More](https://medium.com/p/2b96d7952c80) |
+| Mon, 06 Oct 2025 08:21:55 GMT | Clanker Cash Grabs: Hertz Needs a Customer Wake-Up Call | Namir Sagheenanajar | [Read More](https://medium.com/p/9aa81cd44182) |
 | Mon, 06 Oct 2025 08:15:31 GMT | Advanced Access Control with Checkpoint Access | Office | [Read More](https://medium.com/p/50e06efe496b) |
 | Mon, 06 Oct 2025 08:08:53 GMT | TryHackMe : Splunk: Exploring SPL | Rindaman666 | [Read More](https://medium.com/p/92417e75514a) |
 | Mon, 06 Oct 2025 08:07:37 GMT | Smarter Access with Checkpoint Access | Office | [Read More](https://medium.com/p/570b1ff8c61b) |
@@ -57,6 +65,7 @@ By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
 | Mon, 06 Oct 2025 06:09:15 GMT | Phishing Exposed: The Art of Deception | Cyber Security Research | [Read More](https://medium.com/p/ece46b3fdd97) |
 | Mon, 06 Oct 2025 06:06:29 GMT | Exploring Advanced Techniques for Docker Security | @rnab | [Read More](https://medium.com/p/1addca778fd7) |
 | Mon, 06 Oct 2025 06:05:38 GMT | EA to CSP Transition Made Easy with - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/4ca1be22487d) |
+| Mon, 06 Oct 2025 06:03:40 GMT | Ransomware’s Ruthless Reign | Cyber Security Research | [Read More](https://medium.com/p/e7e7386c6469) |
 | Mon, 06 Oct 2025 06:02:24 GMT | What are the 5 Major Branches of Digital Forensics? | cyber security Updates | [Read More](https://medium.com/p/a4b0346b1d5c) |
 | Mon, 06 Oct 2025 05:52:28 GMT | The CometJacking Vulnerability | Midhun Thomas PT | [Read More](https://medium.com/p/a04d80ac0e70) |
 | Mon, 06 Oct 2025 05:52:11 GMT | October’s Theme at “  ” | Kakoli Aster♡ | [Read More](https://medium.com/p/75779486dd57) |
@@ -105,12 +114,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Mon, 06 Oct 2025 02:22:47 GMT | Should a Multi-Billion Company Be Bailed Out with Taxpayers’ Money? | Dawood Ghuman | [Read More](https://medium.com/p/27a28af72d68) |
 | Mon, 06 Oct 2025 01:44:29 GMT | Prepare Yourself to Face These Challenges | Matthew Welsh | [Read More](https://medium.com/p/52b9d7e6e135) |
 | Mon, 06 Oct 2025 01:40:13 GMT | Microservices From a Security Perspective | EnessKoç | [Read More](https://medium.com/p/6d4a1c86f1bf) |
-| Mon, 06 Oct 2025 01:36:33 GMT | What it Takes to Succeed in Cyber Security | Matthew Welsh | [Read More](https://medium.com/p/a75faab5d183) |
-| Mon, 06 Oct 2025 01:31:54 GMT | The Boardroom Dilemma: When AI Promises Savings, But Whispers Risks | Subhojit Chandra | [Read More](https://medium.com/p/d19efff2e853) |
-| Mon, 06 Oct 2025 01:29:53 GMT | Linux Security Automation | LinuxDev | [Read More](https://medium.com/p/43dc193271bf) |
-| Mon, 06 Oct 2025 01:21:37 GMT | HTB_Academy: Cracking BitLocker-encrypted drives | Babatunde Ojo | [Read More](https://medium.com/p/7b0bd1c30ef7) |
-| Mon, 06 Oct 2025 01:11:43 GMT | The EU’s Regulatory Revolution: How New Cybersecurity Laws Are Reshaping Global Digital Standards | CCD-IS | [Read More](https://medium.com/p/552ceaeb6540) |
-| Mon, 06 Oct 2025 01:07:58 GMT | “Embrace “De-growth”: Navigating the Next Three Years with Prudence” | kate spider | [Read More](https://medium.com/p/612472121a70) |
-| Mon, 06 Oct 2025 00:45:53 GMT | Learning AWS Services — Threat Intelligence Dashboard | Davis Mtui | [Read More](https://medium.com/p/2646862115e7) |
-| Mon, 06 Oct 2025 00:40:38 GMT | When a Single Flame Topples a Nation’s Digital Defenses | SECURE IT! | [Read More](https://medium.com/p/6cf4e6b3becb) |
-| Mon, 06 Oct 2025 00:30:41 GMT | HackTheBox -EscapeTwo | jniket | [Read More](https://medium.com/p/f9c5c34ef558) |
