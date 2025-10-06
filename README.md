@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 14:16:48 GMT | Top 7 Phishing Scams Targeting Businesses in 2025 and How to Avoid Them | IT_Engineer | [Read More](https://medium.com/p/2bf874150506) |
+| Mon, 06 Oct 2025 14:07:49 GMT | I Stopped Chasing Frameworks and My Code Got Better | Manav Pandya | [Read More](https://medium.com/p/931814b26cc1) |
+| Mon, 06 Oct 2025 14:06:53 GMT | CAPTCHA Bypass Allows Signup Progression Without Proper Validation | Mo7arebSec | [Read More](https://medium.com/p/ac95e7500168) |
+| Mon, 06 Oct 2025 14:06:29 GMT | Creating Secure Authentication Systems in Modern Web Apps with NextAuth.js | @rnab | [Read More](https://medium.com/p/58d335eaa72c) |
+| Mon, 06 Oct 2025 14:06:01 GMT | Love Someone Who Lets You Be a Child Again | tiner | [Read More](https://medium.com/p/d00e152b0740) |
+| Mon, 06 Oct 2025 14:06:01 GMT | Part 8: (a).A Guide to Effective Website Information Gathering | Intelithics | [Read More](https://medium.com/p/d19a9b5902a4) |
+| Mon, 06 Oct 2025 14:03:16 GMT | TryHackMe Forensics Room Walkthrough: Analyzing a Compromised System Memory Dump | Umer | [Read More](https://medium.com/p/ab6cac91b61e) |
+| Mon, 06 Oct 2025 14:02:06 GMT | Cyber Briefing: 2025.10.06 | CyberMaterial | [Read More](https://medium.com/p/f115206c2396) |
+| Mon, 06 Oct 2025 14:00:51 GMT | Strategic IT Consulting for Long-Term Success | IPSpecialist | [Read More](https://medium.com/p/6577ca348862) |
+| Mon, 06 Oct 2025 13:59:59 GMT | Threat and Vulnerabilities Report — September 2025 | Loginsoft | [Read More](https://medium.com/p/e10a32194850) |
+| Mon, 06 Oct 2025 13:59:56 GMT | ⚡ Flash USDT (“Fake USDT”); The Illusion That Keeps Fooling Crypto Users | Crypto Savvy | [Read More](https://medium.com/p/90076b1ef079) |
+| Mon, 06 Oct 2025 13:57:37 GMT | SMMEs and Startups on Alert: How Wazuh Brings Enterprise Security Within Reach | Jonathan Daniels | [Read More](https://medium.com/p/92d520afd482) |
+| Mon, 06 Oct 2025 13:44:36 GMT | When One Post Can End a Business: Why Security and Compliance Are No Longer Optional | Tec-Tel Communications | [Read More](https://medium.com/p/29707440ad6f) |
+| Mon, 06 Oct 2025 13:41:04 GMT | The Silent Budget Killer: OSHA Fines from Missed PPE Compliance | Tec-Tel Communications | [Read More](https://medium.com/p/66f01104f4cb) |
+| Mon, 06 Oct 2025 13:40:43 GMT | My Acoustic Diaries: Too Much, But Real | Walters Fall | [Read More](https://medium.com/p/2041ada495dc) |
 | Mon, 06 Oct 2025 13:35:11 GMT | Why I Disable Core Dumps on Linux Servers (And What I Do Instead) | Faruk Ahmed | [Read More](https://medium.com/p/ebdeaebcf08d) |
 | Mon, 06 Oct 2025 13:32:46 GMT | NCBA Insurance Launches CyberGuard — A Cyber Insurance Offering To Protect Businesses In Kenya… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/25bfeeb86fc1) |
 | Mon, 06 Oct 2025 13:32:03 GMT | Ransomware in Small Businesses: 5 Steps You Can Take Right Away | Cordula Boeck | [Read More](https://medium.com/p/32241c2384aa) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 10:05:53 GMT | :  “ ” | Ankit Patel | [Read More](https://medium.com/p/1b71da3f6bc3) |
 | Mon, 06 Oct 2025 10:01:48 GMT | Local de propriedade — desvio do WAF por meio de configuração incorreta | himorinholucas666 | [Read More](https://medium.com/p/3ff8a51ba6c0) |
 | Mon, 06 Oct 2025 10:00:08 GMT | SORVEPOTEL: a fast, self-propagating WhatsApp malware — what we know and how organizations should… | Germano Costi | [Read More](https://medium.com/p/b1cb877461df) |
-| Mon, 06 Oct 2025 10:00:06 GMT | Unleashing The Potential Of Certificates For Privilege Escalation | Redfox Security | [Read More](https://medium.com/p/c22f1a54cc5b) |
-| Mon, 06 Oct 2025 10:00:01 GMT | INDUSTRIAL POLICIES IN COMMERCIAL AVIATION | Eniola Anjolaoluwa Ogunfolabi | [Read More](https://medium.com/p/d81eeb8106ab) |
-| Mon, 06 Oct 2025 09:59:25 GMT | Part 5 : Security in the Commit Phase: Making CI/CD Smarter, Not Slower | Dean | [Read More](https://medium.com/p/03ef9edabb9d) |
-| Mon, 06 Oct 2025 09:51:38 GMT | Authentication Bypass: Mis-scoped SAML Sessions Enable User Impersonation | Abdo Rabea (0xOverlord) | [Read More](https://medium.com/p/fd73ce7fbea0) |
-| Mon, 06 Oct 2025 09:47:24 GMT | Hackor[n] CTF 2025 Qualifiers — My 12th Place Walkthrough | FAMOUS PIYUSH | [Read More](https://medium.com/p/d081cbcd1ef1) |
-| Mon, 06 Oct 2025 09:45:14 GMT | The Robotic World: | Saqib Sultan | [Read More](https://medium.com/p/c6c0c1353321) |
-| Mon, 06 Oct 2025 09:45:01 GMT | Data Residency and Compliance in Jira Cloud | Erdem UÇAK | [Read More](https://medium.com/p/7d7407102930) |
-| Mon, 06 Oct 2025 09:38:08 GMT | Hancitor/Chanitor Trojan | R.D.Tarun | [Read More](https://medium.com/p/dbe73849c3c2) |
-| Mon, 06 Oct 2025 09:37:45 GMT | Cyber Security and Ethical Hacking Training in Chandigarh — Secure Your Future with CNT… | Cnt Technologies | [Read More](https://medium.com/p/844711eca552) |
-| Mon, 06 Oct 2025 09:29:04 GMT | What is Cybersecurity | Excellencekritika | [Read More](https://medium.com/p/d82587b2160b) |
-| Mon, 06 Oct 2025 09:26:14 GMT | AWS WAF vs. AWS Shield: What to Use and When | Davebhargavi | [Read More](https://medium.com/p/b1852a8151c6) |
-| Mon, 06 Oct 2025 09:20:22 GMT | Top 10 Tech Trends in 2025 | QNu Labs | [Read More](https://medium.com/p/649f570a83a3) |
-| Mon, 06 Oct 2025 09:19:41 GMT | SOC from Scratch #1 — What is a SOC and What Does a SOC Analyst Do? | Shane Samuel | [Read More](https://medium.com/p/252d1b77a090) |
-| Mon, 06 Oct 2025 09:16:22 GMT | 5 Cyber Threats Hitting Dubai SMEs in 2025: Protection Checklist | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/d5e870f41ea8) |
-| Mon, 06 Oct 2025 09:15:16 GMT | Beyond Copy-Paste: Smarter Ways to Move Files on Windows | Horrow | [Read More](https://medium.com/p/326631ee3e9e) |
