@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 05:28:00 GMT | Journey of Linux: From a Student’s Dream to the World’s Favourite Operating System | Dhanush N | [Read More](https://medium.com/p/252cd271451f) |
+| Mon, 06 Oct 2025 05:23:34 GMT | How I accidentally created a “Zip Bomb” using Java/Apache POI | Robin Gahlawat | [Read More](https://medium.com/p/0507155e94fd) |
+| Mon, 06 Oct 2025 05:22:35 GMT | Best Website Security Tools for 2025 (Free & Paid Options) | Startup Blooms | [Read More](https://medium.com/p/57936560d71e) |
+| Mon, 06 Oct 2025 05:22:11 GMT | The Weight of Being Seen | Maham Tanveer | [Read More](https://medium.com/p/d327250b5dba) |
+| Mon, 06 Oct 2025 05:21:10 GMT | The Python Hack That Made My Password Cracker 100x Faster | Muhummad Zaki | [Read More](https://medium.com/p/990b9c37ecee) |
+| Mon, 06 Oct 2025 05:15:46 GMT | Chinedu Okoro and the Magic Dolphin: a new CTF to test your wits | Cristhian Azuero | [Read More](https://medium.com/p/24cb23be7196) |
 | Mon, 06 Oct 2025 05:01:27 GMT | Cloudflare Thwarts Record-Breaking 22.2 Tbps DDoS Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/09ab07f87f4b) |
 | Mon, 06 Oct 2025 04:55:04 GMT | Why You Struggle to Say What You Feel — and How to Finally Find the Words | Dr. Nilantika Chakraborty, Ph.D. | [Read More](https://medium.com/p/7c64581a57c8) |
 | Mon, 06 Oct 2025 04:51:50 GMT | Why API Gateways Fail as a Security Boundary and What the Industry Keeps Getting Wrong | Sharat Nautiyal | [Read More](https://medium.com/p/b1edf73cc599) |
@@ -107,9 +113,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Sun, 05 Oct 2025 20:53:14 GMT | The Impact of AI on Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/e354acfad57b) |
 | Sun, 05 Oct 2025 20:47:05 GMT | The Role of Automation in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/e7d5bb063530) |
 | Sun, 05 Oct 2025 20:45:33 GMT | Cybersecurity Awareness Month: Day 5 Public WI-FI Risks | Ifeawoyemi | [Read More](https://medium.com/p/f889a69e1d90) |
-| Sun, 05 Oct 2025 20:38:44 GMT | Why 95% of AI Projects Fail — and How Cybersecurity Can Save Them | Muhammad Haider Tallal | [Read More](https://medium.com/p/f55baf074a92) |
-| Sun, 05 Oct 2025 20:37:51 GMT | The Simple Way to Remember Your Passwords | Khadijah Adisa | [Read More](https://medium.com/p/7bffeb3d7338) |
-| Sun, 05 Oct 2025 20:32:08 GMT | The Rise of AI-Generated Advanced SQL Injections and How LLMs Are Redefining Cyber Threats | Cybamatica | [Read More](https://medium.com/p/3fd00655eaf3) |
-| Sun, 05 Oct 2025 20:27:50 GMT | Che cos’è il Dark Web? | Syria | [Read More](https://medium.com/p/72d51d0deaa0) |
-| Sun, 05 Oct 2025 20:22:39 GMT | ELK SIEM Lab 1.1 — Elastic Agent Configuration | Azhariqbal | [Read More](https://medium.com/p/05f66086615f) |
-| Sun, 05 Oct 2025 20:21:46 GMT | ctzn - Cybersecurity Blog | Adam Stanifer | [Read More](https://medium.com/p/2fcb5b6a28fc) |
