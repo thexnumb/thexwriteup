@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 09:15:16 GMT | Beyond Copy-Paste: Smarter Ways to Move Files on Windows | Horrow | [Read More](https://medium.com/p/326631ee3e9e) |
+| Mon, 06 Oct 2025 09:13:59 GMT | Lab 7 SQL injection UNION attack, determining the number of columns returned by the query | Apexium Technologies Ltd | [Read More](https://medium.com/p/85dc7f97fa89) |
+| Mon, 06 Oct 2025 09:13:03 GMT | Lab 5: SQL injection attack, listing the database contents on non-Oracle databases | Apexium Technologies Ltd | [Read More](https://medium.com/p/68d231d65a6b) |
+| Mon, 06 Oct 2025 09:08:02 GMT | Internal Audit: Strengthening Governance, Risk and Security Posture | Daniel | [Read More](https://medium.com/p/e7bcef109f42) |
+| Mon, 06 Oct 2025 09:07:00 GMT | Diving Deep: Exploring Emotional Depth in 5D Relationships | Wilson Igbasi | [Read More](https://medium.com/p/9cfd4e53eaaa) |
+| Mon, 06 Oct 2025 09:02:20 GMT | Why ISO 27001 Matters for Healthcare: Building Cyber Resilience in a Vulnerable Sector | Hicomply | [Read More](https://medium.com/p/f0d50e74a163) |
+| Mon, 06 Oct 2025 09:00:08 GMT | Security Vulnerabilities in ABAP: Hidden Risks and Solutions | Recep Aksakaloğlu | [Read More](https://medium.com/p/610c1e4f352d) |
+| Mon, 06 Oct 2025 08:54:41 GMT | Why Cloud Computing Is the Backbone of the Future IT World | JetkingChandigarh | [Read More](https://medium.com/p/2c107c9b718c) |
+| Mon, 06 Oct 2025 08:52:26 GMT | Déjà Vu in the Void: An Agentic IDE Compromised by Known Tricks | Idan Habler | [Read More](https://medium.com/p/56c3c492a077) |
+| Mon, 06 Oct 2025 08:52:20 GMT | Why Vibe Coding Feels Like Magic but Might Also Be Dangerous | Czarif | [Read More](https://medium.com/p/8193e3dea8b9) |
+| Mon, 06 Oct 2025 08:50:50 GMT | Extortion Emails? “Don’t Pay!” Oracle & Google’s Warning. | Truspex | [Read More](https://medium.com/p/76ee28b31781) |
+| Mon, 06 Oct 2025 08:48:31 GMT | & | Banto Berni | [Read More](https://medium.com/p/fd2b2205a71e) |
 | Mon, 06 Oct 2025 08:46:56 GMT | AI Security Engineering: 10 Threat Detection Strategies (2025) | Aniket | [Read More](https://medium.com/p/4fef06d05b70) |
+| Mon, 06 Oct 2025 08:45:37 GMT | Cyber Resilience: Building systems that can bounce back after an attack | NETS International | [Read More](https://medium.com/p/e856302aa51b) |
 | Mon, 06 Oct 2025 08:40:25 GMT | Understanding RCEs + Exploiting Deep Links for RCE in Mobile Applications | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/f0d3d25ba7b8) |
 | Mon, 06 Oct 2025 08:38:51 GMT | Cyber Security Tutorial (Part3) | mohandika | [Read More](https://medium.com/p/6cda4cd8585c) |
 | Mon, 06 Oct 2025 08:38:29 GMT | The Real Job Requirements and the Google Cybersecurity Certificate | Muhammad Haider Tallal | [Read More](https://medium.com/p/ec81a551a9d3) |
@@ -101,16 +114,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Mon, 06 Oct 2025 04:04:17 GMT | The ML Blindspot: How I Found Machine Learning APIs Leaking Training Data Like My Ex Leaks… | Iski | [Read More](https://medium.com/p/e0d577481f2b) |
 | Mon, 06 Oct 2025 03:38:15 GMT | The Fifth Season | Isobel Bishop | [Read More](https://medium.com/p/8d372ac5c42e) |
 | Mon, 06 Oct 2025 03:32:11 GMT | Passkeys & Android’s Credential Manager (2025): a practical migration guide | Karishma Agrawal | [Read More](https://medium.com/p/60e3cf04f3ac) |
-| Mon, 06 Oct 2025 03:32:11 GMT | Paper Werewolf Exploits WinRAR Zero-Day to Deliver Stealthy Malware | Deven Chhajed | [Read More](https://medium.com/p/1f76f99718f5) |
-| Mon, 06 Oct 2025 03:31:08 GMT | How Ambient AI is Improving Hospital Workflows | Evan Houdeshell | [Read More](https://medium.com/p/396208e23e49) |
-| Mon, 06 Oct 2025 03:30:24 GMT | Mastering Truthy and Falsy in JavaScript: A Developer’s Guide | Tech With Curly Girl | [Read More](https://medium.com/p/e58f1337655d) |
-| Mon, 06 Oct 2025 03:14:56 GMT | 3 Core Authentication Factors Every Developer Must Understand | Varbolean | [Read More](https://medium.com/p/f5d8dfef5ec3) |
-| Mon, 06 Oct 2025 03:13:28 GMT | securityuSecure from Day One: 15 Must-Know Security Practices for Node.js Backends | kifeb | [Read More](https://medium.com/p/d0bf30920f53) |
-| Mon, 06 Oct 2025 02:59:24 GMT | AI: Perpetual Commotion | Julian S. Taylor | [Read More](https://medium.com/p/c82ac216cc8e) |
-| Mon, 06 Oct 2025 02:49:13 GMT | Sunday Reflection: Building a Cyberpreneur Mindset in a Compliance-Driven World | Dr. Deep Pandey | [Read More](https://medium.com/p/a105a8e728b3) |
-| Mon, 06 Oct 2025 02:45:21 GMT | Why Cybersecurity Is the Hottest IT Field Right Now? | CodeZen | [Read More](https://medium.com/p/d8430de32fb3) |
-| Mon, 06 Oct 2025 02:32:45 GMT | How to Hide Photos Offline on Android — I Built a Private Vault App (No Cloud Needed) | Arul A | [Read More](https://medium.com/p/7f76176c784d) |
-| Mon, 06 Oct 2025 02:28:36 GMT | Worth Going to War For | Write Bridges | [Read More](https://medium.com/p/0f768aa94651) |
-| Mon, 06 Oct 2025 02:22:47 GMT | Should a Multi-Billion Company Be Bailed Out with Taxpayers’ Money? | Dawood Ghuman | [Read More](https://medium.com/p/27a28af72d68) |
-| Mon, 06 Oct 2025 01:44:29 GMT | Prepare Yourself to Face These Challenges | Matthew Welsh | [Read More](https://medium.com/p/52b9d7e6e135) |
-| Mon, 06 Oct 2025 01:40:13 GMT | Microservices From a Security Perspective | EnessKoç | [Read More](https://medium.com/p/6d4a1c86f1bf) |
