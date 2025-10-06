@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 10:38:27 GMT | Hashing in Cybersecurity | Roshinni Gandhi | [Read More](https://medium.com/p/6de06e8fc81c) |
+| Mon, 06 Oct 2025 10:30:48 GMT | From Manual to Smart Tracking - Best Field Force Management Software In India | Mathewneelan | [Read More](https://medium.com/p/fc46e1b60911) |
+| Mon, 06 Oct 2025 10:30:43 GMT | From Curation to Context: Building a Smarter Cybersecurity News Workflow | Jay Simmons | [Read More](https://medium.com/p/d81e195f960d) |
+| Mon, 06 Oct 2025 10:28:42 GMT | How To Find Clickjacking Vulnerability | BinaryShield | [Read More](https://medium.com/p/b25cc537178f) |
+| Mon, 06 Oct 2025 10:28:16 GMT | Zero-Day in Oracle EBS: CVE-2025–61882 and the Rise of BI Publisher Exploits | gm0 | [Read More](https://medium.com/p/a4c78d9c02ea) |
+| Mon, 06 Oct 2025 10:25:49 GMT | ️ My Journey to Becoming a Practical Web Penetration Tester (PWPA) — by TCM Security | Durayamithiran G | [Read More](https://medium.com/p/7cd03bb16b0c) |
+| Mon, 06 Oct 2025 10:21:57 GMT | DAV- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/d9003871a1e0) |
 | Mon, 06 Oct 2025 10:15:37 GMT | Hackers Exploiting Oracle E-Business Suite - Oracle Zero-Day CVE-2025–61882 EXPLAINED | Motasem Hamdan | [Read More](https://medium.com/p/cf353b54eec8) |
 | Mon, 06 Oct 2025 10:11:31 GMT | Gemini CLI Now Integrates with Kali Linux to Automate Penetration Testing | Jasmitharouthu | [Read More](https://medium.com/p/578bdb7c51ca) |
 | Mon, 06 Oct 2025 10:10:51 GMT | The Importance of Data Privacy | Rehaan Sahay | [Read More](https://medium.com/p/3a89cf7047c4) |
@@ -106,10 +113,3 @@ By SubHub Team | EHMPE RHOR | [Read More](https://medium.com/p/0b51316e162e) |
 | Mon, 06 Oct 2025 06:05:38 GMT | EA to CSP Transition Made Easy with - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/4ca1be22487d) |
 | Mon, 06 Oct 2025 06:03:40 GMT | Ransomware’s Ruthless Reign | Cyber Security Research | [Read More](https://medium.com/p/e7e7386c6469) |
 | Mon, 06 Oct 2025 06:02:24 GMT | What are the 5 Major Branches of Digital Forensics? | cyber security Updates | [Read More](https://medium.com/p/a4b0346b1d5c) |
-| Mon, 06 Oct 2025 05:52:28 GMT | The CometJacking Vulnerability | Midhun Thomas PT | [Read More](https://medium.com/p/a04d80ac0e70) |
-| Mon, 06 Oct 2025 05:52:11 GMT | October’s Theme at “  ” | Kakoli Aster♡ | [Read More](https://medium.com/p/75779486dd57) |
-| Mon, 06 Oct 2025 05:49:21 GMT | How to Configure Multi-Pool P2S VPN Using Azure VWAN | Brian Veldman | [Read More](https://medium.com/p/e1f87e9131da) |
-| Mon, 06 Oct 2025 05:47:50 GMT | The Hidden Threat: How One Simple Script Can Hijack Your Entire Web Session | Christopher Krueger | [Read More](https://medium.com/p/303e5664a059) |
-| Mon, 06 Oct 2025 05:28:00 GMT | Journey of Linux: From a Student’s Dream to the World’s Favourite Operating System | Dhanush N | [Read More](https://medium.com/p/252cd271451f) |
-| Mon, 06 Oct 2025 05:23:34 GMT | How I accidentally created a “Zip Bomb” using Java/Apache POI | Robin Gahlawat | [Read More](https://medium.com/p/0507155e94fd) |
-| Mon, 06 Oct 2025 05:22:35 GMT | Best Website Security Tools for 2025 (Free & Paid Options) | Startup Blooms | [Read More](https://medium.com/p/57936560d71e) |
