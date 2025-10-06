@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 04:37:05 GMT | Week 3, episode 5 -A Security Playbook for Modern Data Science | The Bot Group | [Read More](https://medium.com/p/0370f18b201f) |
+| Mon, 06 Oct 2025 04:33:21 GMT | How AI is Revolutionizing Online Brand Protection | Ai Writter Tools | [Read More](https://medium.com/p/3c32a17d6d67) |
+| Mon, 06 Oct 2025 04:33:09 GMT | Simple Guide to Security Solutions in Singapore for Small Businesses | Jane Tang | [Read More](https://medium.com/p/84355024d3e5) |
+| Mon, 06 Oct 2025 04:32:18 GMT | ️ Security Tips for Newly Admitted Students
+By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | [Read More](https://medium.com/p/ece83a61c592) |
+| Mon, 06 Oct 2025 04:32:16 GMT | Deep Dive: Snowflake Access History for Data Governance and Compliance | Rajiv Gupta | [Read More](https://medium.com/p/0b2cf36abf0f) |
+| Mon, 06 Oct 2025 04:27:53 GMT | TryHackMe #95 - Windows Event Logs | 0xGroot | [Read More](https://medium.com/p/69cce4ce3830) |
+| Mon, 06 Oct 2025 04:27:53 GMT | Understanding CORS: The Web Security Feature Every Developer Needs to Master | Awais Rasheed | [Read More](https://medium.com/p/2e41e1fc9611) |
+| Mon, 06 Oct 2025 04:25:11 GMT | Tải Hack Hills of Steel (Vô HạnTiền, Kim Cương) v8.3.2 | MODLMH | [Read More](https://medium.com/p/8a6f6b647907) |
+| Mon, 06 Oct 2025 04:22:06 GMT | TryHackMe #94 - Sysinternals | 0xGroot | [Read More](https://medium.com/p/445e05583267) |
+| Mon, 06 Oct 2025 04:16:29 GMT | TryHackMe #93 - Core Windows Processes | 0xGroot | [Read More](https://medium.com/p/7303cfdf8381) |
+| Mon, 06 Oct 2025 04:13:53 GMT | Love Is the Frequency That Brings Us Back Online | Amy Sullivan | [Read More](https://medium.com/p/5162516f3be9) |
+| Mon, 06 Oct 2025 04:11:52 GMT | TryHackMe #92 - Intro to Endpoint Security | 0xGroot | [Read More](https://medium.com/p/757f0231ad17) |
 | Mon, 06 Oct 2025 04:04:17 GMT | The ML Blindspot: How I Found Machine Learning APIs Leaking Training Data Like My Ex Leaks… | Iski | [Read More](https://medium.com/p/e0d577481f2b) |
 | Mon, 06 Oct 2025 03:38:15 GMT | The Fifth Season | Isobel Bishop | [Read More](https://medium.com/p/8d372ac5c42e) |
 | Mon, 06 Oct 2025 03:32:11 GMT | Passkeys & Android’s Credential Manager (2025): a practical migration guide | Karishma Agrawal | [Read More](https://medium.com/p/60e3cf04f3ac) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 19:38:58 GMT | The Silent Danger of Forgotten Email Accounts: Why You Shouldn’t Ignore Them in 2025 | Dark Tech Insights | [Read More](https://medium.com/p/548aacd0449e) |
 | Sun, 05 Oct 2025 19:07:30 GMT | XSS in APIs: Why JSON Alone Won’t Save You | Göktuğ Oğuz Güngör | [Read More](https://medium.com/p/a3a8faa7a3b7) |
 | Sun, 05 Oct 2025 19:06:34 GMT | Service Oriented Conference- A r | She Writes Chaos | [Read More](https://medium.com/p/6533e0f8d3cd) |
-| Sun, 05 Oct 2025 19:03:06 GMT | Comment éviter le phishing en 2025 : les nouvelles techniques que tout le monde doit connaître | Close CYBER | [Read More](https://medium.com/p/feb46f24474a) |
-| Sun, 05 Oct 2025 18:58:41 GMT | Decision Science in Security: What It Is, Why It Matters and What Role It Plays in an AI-Powered… | Laura Voicu | [Read More](https://medium.com/p/7912a4375f1d) |
-| Sun, 05 Oct 2025 18:54:20 GMT | The Three Horsemen of Parallel Computing: Synchronization, Deadlocks, and Race Conditions | Sneha Bhamare | [Read More](https://medium.com/p/c05b9ef6b1f8) |
-| Sun, 05 Oct 2025 18:48:34 GMT | The Permission Paradox: Balancing AI Capability and Safety in MCP Protocols | Ashok Dudhade | [Read More](https://medium.com/p/60935fc25fea) |
-| Sun, 05 Oct 2025 18:48:04 GMT | I Stopped Chasing New OSINT Tools — and Got Better Results | Sam Galope | [Read More](https://medium.com/p/bd7df3118abf) |
-| Sun, 05 Oct 2025 18:47:58 GMT | When Archimate saves the day. | Mohammed Brückner | [Read More](https://medium.com/p/0b5a0200f3de) |
-| Sun, 05 Oct 2025 18:44:42 GMT | CraxsRat 最新版 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/005eda08c50d) |
-| Sun, 05 Oct 2025 18:26:24 GMT | Part 2: intro to cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/c92d7f2b5cad) |
-| Sun, 05 Oct 2025 18:23:36 GMT | Week 9 of My 90-Day Challenge: Last-Minute Prep and New Burp Features | Mike (sl0th0x87) | [Read More](https://medium.com/p/129f46c77e45) |
-| Sun, 05 Oct 2025 18:14:46 GMT | PicoCTF Writeup 2: Where are the robots | Agarwaldaksh | [Read More](https://medium.com/p/0aee3ad42527) |
-| Sun, 05 Oct 2025 18:11:31 GMT | Building an Automated Cybersecurity News Summary System with n8n | Yusuf Can Çakır | [Read More](https://medium.com/p/24d5ded6c161) |
-| Sun, 05 Oct 2025 18:11:27 GMT | 6 Platforms Every Bug Bounty Hunter Should Know. | Willow Tech | [Read More](https://medium.com/p/d401b8485009) |
