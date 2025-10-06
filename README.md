@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 21:56:06 GMT | Run Unit Tests on Your Security: BAS for 2025 | Chris Zhang | [Read More](https://medium.com/p/1c35eb6c71c7) |
+| Mon, 06 Oct 2025 21:51:45 GMT | Understanding the “Your Connection is Not Private” Error | Luca Berton | [Read More](https://medium.com/p/bf58d2c66ca1) |
+| Mon, 06 Oct 2025 21:48:39 GMT | Air-Gapped, Not Handcuffed: Bootstrapping a Secure Offline Docker Registry in One Afternoon | Cesar Cardoso | [Read More](https://medium.com/p/8892b5211906) |
+| Mon, 06 Oct 2025 21:43:17 GMT | Deepfakes: The Face Isn’t Real, but the Threat Is | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/f3985835fe5b) |
+| Mon, 06 Oct 2025 21:41:01 GMT | Unmasking Malware in Network Traffic — Analyzing a PCAP with TCPdump | Nabyl OUCHINE | [Read More](https://medium.com/p/15da1e9ee239) |
+| Mon, 06 Oct 2025 21:35:12 GMT | Passwords That Protect: The Ultimate Guide To Secure Online Accounts | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/4b1542e9f54c) |
+| Mon, 06 Oct 2025 21:34:27 GMT | Ransomware | John Odumesi | [Read More](https://medium.com/p/e86ca2784a65) |
 | Mon, 06 Oct 2025 21:26:29 GMT | XXE (XML External Entity) Injection Explained | Mahmmoudmohamed | [Read More](https://medium.com/p/e1cc5bcddf75) |
 | Mon, 06 Oct 2025 21:24:26 GMT | When the Pen Becomes a Sword: How LLMs Are Reshaping Cybersecurity | Akshay Chauhan | [Read More](https://medium.com/p/48a68127e055) |
 | Mon, 06 Oct 2025 21:17:17 GMT | Fragility and Hope (Sukkot) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/c0976bb106b3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 15:40:19 GMT | Linux Privilege Escalation Room Write Up | Ethan Wang | [Read More](https://medium.com/p/df05c7d3acd3) |
 | Mon, 06 Oct 2025 15:35:02 GMT | USB HID Attack / Keystroke Injection | Maruti Marathe | [Read More](https://medium.com/p/024fb67a75fd) |
 | Mon, 06 Oct 2025 15:30:59 GMT | Network Penetration Testing: Identify Vulnerabilities Before Hackers Do | Fuzail Al Arabia | [Read More](https://medium.com/p/9ddc2431e880) |
-| Mon, 06 Oct 2025 15:28:56 GMT | How I Found CoinCollect Experts on Google and Got My BTC Back | Se Lina | [Read More](https://medium.com/p/e316f50c38dc) |
-| Mon, 06 Oct 2025 15:26:08 GMT | Predictions for OWASP TOP 10 2025 | Damion Waltermeyer | [Read More](https://medium.com/p/e8472ae777e1) |
-| Mon, 06 Oct 2025 15:26:01 GMT | Tryhackme — Mayhem Write-up | asliulusoy | [Read More](https://medium.com/p/20233f43ae54) |
-| Mon, 06 Oct 2025 15:25:11 GMT | Elastic Security Sandbox Installation & Usage — Chapter 2: Dynamic Malware Analysis with ELK… | Abdulkadir Sadi | [Read More](https://medium.com/p/938e1ac92b80) |
-| Mon, 06 Oct 2025 15:24:06 GMT | When Your Fingerprint Can Be Forced: Why SMEs and MSPs Need Stronger Password Protection | FlashX Cybersecurity | [Read More](https://medium.com/p/83e024e4828a) |
-| Mon, 06 Oct 2025 15:22:39 GMT | The $500 “Trivial” Bugs Everyone Ignores (And How I Cash In) | Aman Sharma | [Read More](https://medium.com/p/2f5f44f0d32e) |
-| Mon, 06 Oct 2025 15:19:18 GMT | Talisman Walkthrough | Jose Diaz | [Read More](https://medium.com/p/17f9d48072a6) |
