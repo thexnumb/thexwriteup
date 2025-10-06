@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 05:01:27 GMT | Cloudflare Thwarts Record-Breaking 22.2 Tbps DDoS Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/09ab07f87f4b) |
+| Mon, 06 Oct 2025 04:55:04 GMT | Why You Struggle to Say What You Feel — and How to Finally Find the Words | Dr. Nilantika Chakraborty, Ph.D. | [Read More](https://medium.com/p/7c64581a57c8) |
+| Mon, 06 Oct 2025 04:51:50 GMT | Why API Gateways Fail as a Security Boundary and What the Industry Keeps Getting Wrong | Sharat Nautiyal | [Read More](https://medium.com/p/b1edf73cc599) |
+| Mon, 06 Oct 2025 04:44:41 GMT | Why Dark Web Monitoring Is Crucial for Protecting Your Business | Ai Writter Tools | [Read More](https://medium.com/p/d067e2f68475) |
+| Mon, 06 Oct 2025 04:42:50 GMT | CCPA Compliance Guide for Indian Businesses | Shivakshi Rawat | [Read More](https://medium.com/p/a8a4be27ab56) |
+| Mon, 06 Oct 2025 04:42:21 GMT | The Importance of Cybersecurity in E-commerce | Ann Maria | [Read More](https://medium.com/p/3bdc763a47d6) |
+| Mon, 06 Oct 2025 04:40:20 GMT | 1 + 1 != 2 PART III | Pseudonotes | [Read More](https://medium.com/p/5c7ff12f62a4) |
+| Mon, 06 Oct 2025 04:39:17 GMT | How to perform a phishing attack with Zphisher (easy tutorial) | Jackson Mittag | [Read More](https://medium.com/p/1776dc5e4f2b) |
 | Mon, 06 Oct 2025 04:37:05 GMT | Week 3, episode 5 -A Security Playbook for Modern Data Science | The Bot Group | [Read More](https://medium.com/p/0370f18b201f) |
 | Mon, 06 Oct 2025 04:33:21 GMT | How AI is Revolutionizing Online Brand Protection | Ai Writter Tools | [Read More](https://medium.com/p/3c32a17d6d67) |
 | Mon, 06 Oct 2025 04:33:09 GMT | Simple Guide to Security Solutions in Singapore for Small Businesses | Jane Tang | [Read More](https://medium.com/p/84355024d3e5) |
@@ -105,11 +113,3 @@ By Ogbonna Michael Ejike, Assistant Chief Security… | Ogbonna Michael Ejike | 
 | Sun, 05 Oct 2025 20:27:50 GMT | Che cos’è il Dark Web? | Syria | [Read More](https://medium.com/p/72d51d0deaa0) |
 | Sun, 05 Oct 2025 20:22:39 GMT | ELK SIEM Lab 1.1 — Elastic Agent Configuration | Azhariqbal | [Read More](https://medium.com/p/05f66086615f) |
 | Sun, 05 Oct 2025 20:21:46 GMT | ctzn - Cybersecurity Blog | Adam Stanifer | [Read More](https://medium.com/p/2fcb5b6a28fc) |
-| Sun, 05 Oct 2025 20:14:54 GMT | The True Cost of a Security Breach | Tim Murkomen | [Read More](https://medium.com/p/6e6a386a83d8) |
-| Sun, 05 Oct 2025 20:02:05 GMT | CISOs, You’re Stuck: Here Are 3 Things to Do Now | Yael Nagler | [Read More](https://medium.com/p/5b8d140cf189) |
-| Sun, 05 Oct 2025 19:57:37 GMT | The Rise of Palantir and Its Impact on Privacy | Ian McIntire | [Read More](https://medium.com/p/c9c8d915c897) |
-| Sun, 05 Oct 2025 19:44:35 GMT | Anatomy of a GitHub Deception: Trojanized CVE Tool Uses AI and Fake Stars to Distribute Malware | A.M A | [Read More](https://medium.com/p/5902cd83e9a9) |
-| Sun, 05 Oct 2025 19:40:32 GMT | Portswigger mystery lab write up -Path traversal: File path traversal, validation of start of path. | Hubert | [Read More](https://medium.com/p/505302a9554b) |
-| Sun, 05 Oct 2025 19:38:58 GMT | The Silent Danger of Forgotten Email Accounts: Why You Shouldn’t Ignore Them in 2025 | Dark Tech Insights | [Read More](https://medium.com/p/548aacd0449e) |
-| Sun, 05 Oct 2025 19:07:30 GMT | XSS in APIs: Why JSON Alone Won’t Save You | Göktuğ Oğuz Güngör | [Read More](https://medium.com/p/a3a8faa7a3b7) |
-| Sun, 05 Oct 2025 19:06:34 GMT | Service Oriented Conference- A r | She Writes Chaos | [Read More](https://medium.com/p/6533e0f8d3cd) |
