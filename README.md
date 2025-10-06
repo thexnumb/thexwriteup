@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 13:24:33 GMT | Conquering Carpe Diem 1 on TryHackMe: A Step Toward Mastering Cybersecurity | Umer | [Read More](https://medium.com/p/095db8aa33a2) |
+| Mon, 06 Oct 2025 13:11:57 GMT | How I Stopped a CSRF Attack From Taking Over My Site | Ibtissam hammadi | [Read More](https://medium.com/p/29dc25c9cc6c) |
+| Mon, 06 Oct 2025 13:07:53 GMT | mePrism Protects Healthcare Workers from Digital Threats | mePrism Privacy | [Read More](https://medium.com/p/d59e2a08f607) |
+| Mon, 06 Oct 2025 13:07:11 GMT | My Cybersecurity Journey: From Learning to Doing | Sama filbert | [Read More](https://medium.com/p/a92c68b55736) |
+| Mon, 06 Oct 2025 13:06:53 GMT | Pzmqgow.top Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/0598077ad24d) |
+| Mon, 06 Oct 2025 13:06:01 GMT | 10 Ingenious Methods for Natural Pest Control in Your Garden | Bill Basinger | [Read More](https://medium.com/p/e36805b2c424) |
+| Mon, 06 Oct 2025 13:04:44 GMT | In today’s rapidly evolving digital world, cyber threats have become more sophisticated than ever. | StrongBox IT | [Read More](https://medium.com/p/55639fb33f8f) |
+| Mon, 06 Oct 2025 13:04:32 GMT | Is H5.peabdexapp.vip Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/b6901f01caf1) |
+| Mon, 06 Oct 2025 13:02:31 GMT | Think Outside the Stack: Reframing IT Operations Management for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/df1f0ddddc8a) |
+| Mon, 06 Oct 2025 13:01:56 GMT | Why Content Writers Are in Demand | Aliyu Ibrahim | [Read More](https://medium.com/p/f814b788fa32) |
+| Mon, 06 Oct 2025 12:56:01 GMT | Can You Trust Wealthtudor.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/260c4b2f8eb5) |
+| Mon, 06 Oct 2025 12:52:42 GMT | Portswigger mystery lab write-up — XML external entity injection: Exploiting blind XXE to… | Hubert | [Read More](https://medium.com/p/1b557f2119f5) |
+| Mon, 06 Oct 2025 12:51:21 GMT | The Vulnerable | Rick Wolf | [Read More](https://medium.com/p/3a183a46d50f) |
+| Mon, 06 Oct 2025 12:50:40 GMT | Can I Haz Root? :: FUNNEL | Cyber Grover ‍ | [Read More](https://medium.com/p/d8e94d181d05) |
+| Mon, 06 Oct 2025 12:47:10 GMT | … | Kaverigiri | [Read More](https://medium.com/p/135f4039cdbd) |
+| Mon, 06 Oct 2025 12:47:02 GMT | Silent Siege: How Precision, A.I., and Invisible Weapons Are Redefining Conflict | Aurel Stratan | [Read More](https://medium.com/p/3f2c4c0aac67) |
 | Mon, 06 Oct 2025 12:36:18 GMT | H5.lencoin.net Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/533fce5010d9) |
 | Mon, 06 Oct 2025 12:34:12 GMT | Oracle Rushes Patch for CVE-2025–61882 After Cl0p Exploits It in Widespread Data-Theft Attacks | IamPreth | [Read More](https://medium.com/p/063ba2d498b9) |
 | Mon, 06 Oct 2025 12:30:37 GMT | The “Advance Fee” Scam Every Musician Should Avoid | Joshua Famiroju | [Read More](https://medium.com/p/48fc1d7b439d) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 09:13:29 GMT | Mengenal dan Menguasai Dasar-Dasar Database Management System (DBMS) dengan MySQL | TAUFAN IKHSAN FIRDAUS | [Read More](https://medium.com/p/c00cbf2fc321) |
 | Mon, 06 Oct 2025 09:13:03 GMT | Lab 5: SQL injection attack, listing the database contents on non-Oracle databases | Apexium Technologies Ltd | [Read More](https://medium.com/p/68d231d65a6b) |
 | Mon, 06 Oct 2025 09:11:55 GMT | Understanding CRM System Examples for Every Business | Bhavesh Rajpurohit | [Read More](https://medium.com/p/f6d01e8e670c) |
-| Mon, 06 Oct 2025 09:08:02 GMT | Internal Audit: Strengthening Governance, Risk and Security Posture | Daniel | [Read More](https://medium.com/p/e7bcef109f42) |
-| Mon, 06 Oct 2025 09:07:00 GMT | Diving Deep: Exploring Emotional Depth in 5D Relationships | Wilson Igbasi | [Read More](https://medium.com/p/9cfd4e53eaaa) |
-| Mon, 06 Oct 2025 09:02:20 GMT | Why ISO 27001 Matters for Healthcare: Building Cyber Resilience in a Vulnerable Sector | Hicomply | [Read More](https://medium.com/p/f0d50e74a163) |
-| Mon, 06 Oct 2025 09:00:08 GMT | Security Vulnerabilities in ABAP: Hidden Risks and Solutions | Recep Aksakaloğlu | [Read More](https://medium.com/p/610c1e4f352d) |
-| Mon, 06 Oct 2025 08:54:41 GMT | Why Cloud Computing Is the Backbone of the Future IT World | JetkingChandigarh | [Read More](https://medium.com/p/2c107c9b718c) |
-| Mon, 06 Oct 2025 08:53:05 GMT | ”Güvenlik ve Performansı” Gözlemlenebilirlik Yoluyla İş Hedeflerinizde Nasıl Dengelersiniz? | Perform Yazılım | [Read More](https://medium.com/p/6d39b6272886) |
-| Mon, 06 Oct 2025 08:52:26 GMT | Déjà Vu in the Void: An Agentic IDE Compromised by Known Tricks | Idan Habler | [Read More](https://medium.com/p/56c3c492a077) |
-| Mon, 06 Oct 2025 08:52:20 GMT | Why Vibe Coding Feels Like Magic but Might Also Be Dangerous | Czarif | [Read More](https://medium.com/p/8193e3dea8b9) |
-| Mon, 06 Oct 2025 08:50:50 GMT | Extortion Emails? “Don’t Pay!” Oracle & Google’s Warning. | Truspex | [Read More](https://medium.com/p/76ee28b31781) |
-| Mon, 06 Oct 2025 08:48:31 GMT | & | Banto Berni | [Read More](https://medium.com/p/fd2b2205a71e) |
-| Mon, 06 Oct 2025 08:46:56 GMT | AI Security Engineering: 10 Threat Detection Strategies (2025) | Aniket | [Read More](https://medium.com/p/4fef06d05b70) |
-| Mon, 06 Oct 2025 08:45:37 GMT | Cyber Resilience: Building systems that can bounce back after an attack | NETS International | [Read More](https://medium.com/p/e856302aa51b) |
-| Mon, 06 Oct 2025 08:40:25 GMT | Understanding RCEs + Exploiting Deep Links for RCE in Mobile Applications | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/f0d3d25ba7b8) |
-| Mon, 06 Oct 2025 08:38:51 GMT | Cyber Security Tutorial (Part3) | mohandika | [Read More](https://medium.com/p/6cda4cd8585c) |
-| Mon, 06 Oct 2025 08:38:29 GMT | The Real Job Requirements and the Google Cybersecurity Certificate | Muhammad Haider Tallal | [Read More](https://medium.com/p/ec81a551a9d3) |
-| Mon, 06 Oct 2025 08:32:31 GMT | 24 Months in Kali Linux: The Dark Side Tools Nobody Talks About | Abdullah Javeed | [Read More](https://medium.com/p/718b2255dd78) |
