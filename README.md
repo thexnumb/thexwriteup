@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 04:04:17 GMT | The ML Blindspot: How I Found Machine Learning APIs Leaking Training Data Like My Ex Leaks… | Iski | [Read More](https://medium.com/p/e0d577481f2b) |
 | Mon, 06 Oct 2025 03:38:15 GMT | The Fifth Season | Isobel Bishop | [Read More](https://medium.com/p/8d372ac5c42e) |
 | Mon, 06 Oct 2025 03:32:11 GMT | Passkeys & Android’s Credential Manager (2025): a practical migration guide | Karishma Agrawal | [Read More](https://medium.com/p/60e3cf04f3ac) |
 | Mon, 06 Oct 2025 03:32:11 GMT | Paper Werewolf Exploits WinRAR Zero-Day to Deliver Stealthy Malware | Deven Chhajed | [Read More](https://medium.com/p/1f76f99718f5) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Oct 2025 18:14:46 GMT | PicoCTF Writeup 2: Where are the robots | Agarwaldaksh | [Read More](https://medium.com/p/0aee3ad42527) |
 | Sun, 05 Oct 2025 18:11:31 GMT | Building an Automated Cybersecurity News Summary System with n8n | Yusuf Can Çakır | [Read More](https://medium.com/p/24d5ded6c161) |
 | Sun, 05 Oct 2025 18:11:27 GMT | 6 Platforms Every Bug Bounty Hunter Should Know. | Willow Tech | [Read More](https://medium.com/p/d401b8485009) |
-| Sun, 05 Oct 2025 18:09:03 GMT | CanYouSee — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/78052e12efc2) |
