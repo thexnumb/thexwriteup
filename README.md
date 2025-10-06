@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Oct 2025 13:35:11 GMT | Why I Disable Core Dumps on Linux Servers (And What I Do Instead) | Faruk Ahmed | [Read More](https://medium.com/p/ebdeaebcf08d) |
+| Mon, 06 Oct 2025 13:32:46 GMT | NCBA Insurance Launches CyberGuard — A Cyber Insurance Offering To Protect Businesses In Kenya… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/25bfeeb86fc1) |
+| Mon, 06 Oct 2025 13:32:03 GMT | Ransomware in Small Businesses: 5 Steps You Can Take Right Away | Cordula Boeck | [Read More](https://medium.com/p/32241c2384aa) |
+| Mon, 06 Oct 2025 13:27:15 GMT | Metasploitable: Introduction Tryhackme Walkthrough | Genrunic | [Read More](https://medium.com/p/ce717e1292b4) |
+| Mon, 06 Oct 2025 13:26:44 GMT | Passive Reconnaissance | Genrunic | [Read More](https://medium.com/p/d7470ef5e56d) |
 | Mon, 06 Oct 2025 13:24:33 GMT | Conquering Carpe Diem 1 on TryHackMe: A Step Toward Mastering Cybersecurity | Umer | [Read More](https://medium.com/p/095db8aa33a2) |
 | Mon, 06 Oct 2025 13:11:57 GMT | How I Stopped a CSRF Attack From Taking Over My Site | Ibtissam hammadi | [Read More](https://medium.com/p/29dc25c9cc6c) |
 | Mon, 06 Oct 2025 13:07:53 GMT | mePrism Protects Healthcare Workers from Digital Threats | mePrism Privacy | [Read More](https://medium.com/p/d59e2a08f607) |
@@ -52,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 11:52:09 GMT | Exploitation Techniques via IPv6 | Esra Kayhan | [Read More](https://medium.com/p/cd658a5f2718) |
 | Mon, 06 Oct 2025 11:46:31 GMT | Anonymous în 2025: Haosul organizat al rezistenței digitale | Anonymous | [Read More](https://medium.com/p/120fa1e3416d) |
 | Mon, 06 Oct 2025 11:46:30 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/5665e98966eb) |
+| Mon, 06 Oct 2025 11:44:34 GMT | Proteção de dados locais em apps Flutter | Leonardo Oliveira | [Read More](https://medium.com/p/3f22010c47b6) |
 | Mon, 06 Oct 2025 11:43:33 GMT | Don’t Just Containerize — Secure It: The Full-Spectrum Docker Defense Playbook | Muhammad Taqi | [Read More](https://medium.com/p/6741c920b9fc) |
 | Mon, 06 Oct 2025 11:42:26 GMT | Top Vibe-Coding Security Risks | Netlas.io | [Read More](https://medium.com/p/8434e8b6be30) |
 | Mon, 06 Oct 2025 11:39:38 GMT | DockerLabs Writeup — Upload (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3b57136e353a) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 09:19:41 GMT | SOC from Scratch #1 — What is a SOC and What Does a SOC Analyst Do? | Shane Samuel | [Read More](https://medium.com/p/252d1b77a090) |
 | Mon, 06 Oct 2025 09:16:22 GMT | 5 Cyber Threats Hitting Dubai SMEs in 2025: Protection Checklist | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/d5e870f41ea8) |
 | Mon, 06 Oct 2025 09:15:16 GMT | Beyond Copy-Paste: Smarter Ways to Move Files on Windows | Horrow | [Read More](https://medium.com/p/326631ee3e9e) |
-| Mon, 06 Oct 2025 09:15:04 GMT | The Complete Governance House: How IT and Security Frameworks Fit Together (Part 1) | Amrik  Hanjra | [Read More](https://medium.com/p/9109a4839feb) |
-| Mon, 06 Oct 2025 09:13:59 GMT | Lab 7 SQL injection UNION attack, determining the number of columns returned by the query | Apexium Technologies Ltd | [Read More](https://medium.com/p/85dc7f97fa89) |
-| Mon, 06 Oct 2025 09:13:33 GMT | Lab 8: SQL injection UNION attack, finding a column containing text | Apexium Technologies Ltd | [Read More](https://medium.com/p/25d2cca37c48) |
-| Mon, 06 Oct 2025 09:13:29 GMT | Mengenal dan Menguasai Dasar-Dasar Database Management System (DBMS) dengan MySQL | TAUFAN IKHSAN FIRDAUS | [Read More](https://medium.com/p/c00cbf2fc321) |
-| Mon, 06 Oct 2025 09:13:03 GMT | Lab 5: SQL injection attack, listing the database contents on non-Oracle databases | Apexium Technologies Ltd | [Read More](https://medium.com/p/68d231d65a6b) |
-| Mon, 06 Oct 2025 09:11:55 GMT | Understanding CRM System Examples for Every Business | Bhavesh Rajpurohit | [Read More](https://medium.com/p/f6d01e8e670c) |
