@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 11:04:31 GMT | XWorm 6.0: the return of the modular RAT and why it’s a real threat | Germano Costi | [Read More](https://medium.com/p/d57c65bfba7d) |
+| Tue, 07 Oct 2025 11:02:51 GMT | DocuBot (CyberTalents) — Exploiting an AI Summarizer via Prompt Injection | Te父cno | [Read More](https://medium.com/p/c844dff38425) |
+| Tue, 07 Oct 2025 11:01:39 GMT | Applied Cybersecurity Engineering | Fadhila TLILI | [Read More](https://medium.com/p/3d0a5805ef63) |
+| Tue, 07 Oct 2025 11:01:15 GMT | Cyber Resilience Act FAQ: Support Period | Sarah Fluchs | [Read More](https://medium.com/p/c9713f1ce7ed) |
+| Tue, 07 Oct 2025 10:58:52 GMT | How Top SaaS Use Trust Centers to Close Deals 2× Faster | SecureSlate | [Read More](https://medium.com/p/f06ac9a571ea) |
+| Tue, 07 Oct 2025 10:58:18 GMT | Capturing “An Unusual Sighting” HTB Try Out Flag | Hem Prasad | [Read More](https://medium.com/p/9bdbd643e425) |
+| Tue, 07 Oct 2025 10:54:19 GMT | Puerto Rico’s Imperative Hour: Why Statehood as the 51st Star is Essential for American Security… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/aae43887e3da) |
+| Tue, 07 Oct 2025 10:51:46 GMT | NAKIVO Announces: v11.1 Released and Available for Download | NAKIVO | [Read More](https://medium.com/p/6b232a58d03d) |
+| Tue, 07 Oct 2025 10:43:57 GMT | DockerLabs Writeup — UserSearch (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/793debe4ccba) |
+| Tue, 07 Oct 2025 10:43:53 GMT | “Think Before You Paste: The Hidden Cost of Sharing Sensitive Info with AI” | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/ce923f213386) |
+| Tue, 07 Oct 2025 10:43:43 GMT | Masterminds (with Brim) [SOC] #6 | D4m.sh | [Read More](https://medium.com/p/34081f6d2778) |
+| Tue, 07 Oct 2025 10:34:46 GMT | These Python Libraries Made My Terminal Feel Like a Hacker’s Playground | Arfa | [Read More](https://medium.com/p/6a414fd89efa) |
 | Tue, 07 Oct 2025 10:33:07 GMT | WHATSAPP Onetime photo video saving. | Cyber World | [Read More](https://medium.com/p/99bca709f1f4) |
 | Tue, 07 Oct 2025 10:31:24 GMT | The One Cybersecurity Rule That Protects 90% of People (But Almost No One Follows) | Arfa | [Read More](https://medium.com/p/1cce63052c84) |
 | Tue, 07 Oct 2025 10:30:42 GMT | CVE-2025–11293: Belkin Router Vulnerable to Buffer Overflow — Are You at Risk? | CVEHUB | [Read More](https://medium.com/p/0b9667ce5431) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 06:34:08 GMT | Cryptographic Techniques: Guide to Hashing, Authentication, Data Integrity, and MAC | @Harsh | [Read More](https://medium.com/p/83d17ea76333) |
 | Tue, 07 Oct 2025 06:32:08 GMT | How Learning at AptechGarden Can Accelerate Your Career in Tech | Zaman | [Read More](https://medium.com/p/4e46a6548873) |
 | Tue, 07 Oct 2025 06:31:11 GMT | A Beginner-Friendly Guide to Encryption and Block Cipher Modes | @Harsh | [Read More](https://medium.com/p/5a3ec51fea80) |
-| Tue, 07 Oct 2025 06:30:25 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/a810c2a123b0) |
-| Tue, 07 Oct 2025 06:29:19 GMT | Run NGINX Securely in Kubernetes: Why You Should Stop Using the Default Image | 0hlov3 | [Read More](https://medium.com/p/d70a704e77a1) |
-| Tue, 07 Oct 2025 06:24:48 GMT | Database Security: Protecting the Core | Cyber Security Research | [Read More](https://medium.com/p/0d21f9da814a) |
-| Tue, 07 Oct 2025 06:19:02 GMT | Understanding Advanced Persistent Threats (APTs) | Cyber Security Research | [Read More](https://medium.com/p/6d2584ef3918) |
-| Tue, 07 Oct 2025 06:18:20 GMT | Reformulation: The Summoning | Neologian | [Read More](https://medium.com/p/fe122a1ad300) |
-| Tue, 07 Oct 2025 06:18:07 GMT | From Promtail to Alloy: My Humble (and Occasionally Painful) Journey into Kubernetes Log Collection | Praveen Krishna Murthy | [Read More](https://medium.com/p/5ae37b04981f) |
-| Tue, 07 Oct 2025 06:16:02 GMT | Advanced Perimeter Intrusion Detection Systems at Oman Airports | Tekshoyabeelyas | [Read More](https://medium.com/p/f7180fb79a41) |
-| Tue, 07 Oct 2025 06:15:46 GMT | Cybersecurity Solutions for Real Estate Agencies | Renaissance Computer Services Limited | [Read More](https://medium.com/p/d0b155cec10e) |
-| Tue, 07 Oct 2025 06:12:38 GMT | The Politics of Cyber Warfare | Cyber Security Research | [Read More](https://medium.com/p/e3002d8a4323) |
-| Tue, 07 Oct 2025 06:12:34 GMT | Cybersecurity | Jane | [Read More](https://medium.com/p/d5cc42747b16) |
-| Tue, 07 Oct 2025 06:05:42 GMT | Cap ! Hack the box. | Nonsense Shin | [Read More](https://medium.com/p/c9d7f017ab4e) |
-| Tue, 07 Oct 2025 06:00:45 GMT | The Psychology of Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/ce62648c8083) |
