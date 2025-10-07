@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 21:02:34 GMT | A clickfix that turned into persistent NetSupport access | TheFIR.io | [Read More](https://medium.com/p/663e621ac71b) |
+| Tue, 07 Oct 2025 20:57:52 GMT | Remote CCTV Access Setup Guide | Visual Monitoring Solutions | [Read More](https://medium.com/p/2f31702cc6e8) |
+| Tue, 07 Oct 2025 20:55:29 GMT | Oracle E-Business Suite Zero-Day Exploited in Clop Data Theft Attacks: CVE-2025–61882 | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/73bff4e92545) |
+| Tue, 07 Oct 2025 20:47:59 GMT | AI-Powered Cyber Threats and Defenses: The Deep Frame Exposé | The Deep Frame | [Read More](https://medium.com/p/3e81ce68858e) |
+| Tue, 07 Oct 2025 20:47:19 GMT | Blackfield HTB — Walkthrough | Nathanael de Simon | [Read More](https://medium.com/p/e7f6e781b96d) |
+| Tue, 07 Oct 2025 20:39:23 GMT | Smart Devices and Security: Why NIST Compliance Matters for Your Home Tech | Redkite Network | [Read More](https://medium.com/p/aa2b268aa394) |
 | Tue, 07 Oct 2025 20:38:48 GMT | Exploiting Cross-Site Scripting (XSS) Vulnerabilities to Obtain Valid Session Identifiers | Ends2Tech | [Read More](https://medium.com/p/4ed30e3cf773) |
 | Tue, 07 Oct 2025 20:32:34 GMT | Siber Güvenliğe Giriş | Muhammed Salih Acar | [Read More](https://medium.com/p/62adb7d9cadd) |
 | Tue, 07 Oct 2025 20:24:22 GMT | How to Fix Packet Loss: Causes, Solutions, and Prevention Tips | SafeAeon Inc. | [Read More](https://medium.com/p/b0a7a1e8a588) |
@@ -107,9 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 15:59:53 GMT | My View on the Jr Penetration Tester Learning Path of TryHackMe | Tauseef Ahmed | [Read More](https://medium.com/p/803a3b7afbe8) |
 | Tue, 07 Oct 2025 15:54:58 GMT | How to build a step‑by‑step Home Hacking lab for learning Kali Linux,  vulnerable VMs? | ChennaKeshava | [Read More](https://medium.com/p/266001bb2227) |
 | Tue, 07 Oct 2025 15:54:43 GMT | Building the Leading Open-Source Pentesting Agent: Architecture Lessons from XBOW Benchmark | Aaron Brown | [Read More](https://medium.com/p/f6874f932ca4) |
-| Tue, 07 Oct 2025 15:51:54 GMT | VulnNet : Node Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/8beceb782ce1) |
-| Tue, 07 Oct 2025 15:51:34 GMT | Password Attacks HTB — Skill assessment walkthrough | Ahmad Sonji | [Read More](https://medium.com/p/c5ea2f9cd396) |
-| Tue, 07 Oct 2025 15:50:00 GMT | The Unseen Battlefield: How Understanding Cyber-Fraudsters’ Psychology Empowers Your Digital… | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/f19d75dbfbb8) |
-| Tue, 07 Oct 2025 15:49:39 GMT | Top 5 Cybersecurity Practices Every Organization Should Adopt in 2025 | Jorry Senestant | [Read More](https://medium.com/p/370b0671a892) |
-| Tue, 07 Oct 2025 15:45:29 GMT | How to build a bank p5: The file share server | Logan Elkins | [Read More](https://medium.com/p/b148f82f11bc) |
-| Tue, 07 Oct 2025 15:42:43 GMT | One Wish I Want God to Fulfill for Once. | Sophia Onuora | [Read More](https://medium.com/p/e66090ae3eb8) |
