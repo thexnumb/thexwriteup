@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 09:29:24 GMT | ประจำวันอังคารที่ 7 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3c9d4de33df1) |
+| Tue, 07 Oct 2025 09:27:52 GMT | TryHackMe #97 - Osquery: The Basics | SiberYuk | [Read More](https://medium.com/p/9df40c433e26) |
+| Tue, 07 Oct 2025 09:24:42 GMT | Outsourcing Compliance: A Game-Changer for CISOs Navigating Multi-Framework Environments | CyRAACS | [Read More](https://medium.com/p/f25904ed0cc1) |
+| Tue, 07 Oct 2025 09:24:24 GMT | How I hacked British Airlines (Live Bug Bounty Hunting) | Jackson Mittag | [Read More](https://medium.com/p/956720db6d87) |
 | Tue, 07 Oct 2025 09:22:06 GMT | Old Bugs Die Hard: Exploiting the ParaSwap AugustusV6 Vulnerability with a Fake Uniswap V3 Pool | Evgenii | [Read More](https://medium.com/p/1eecdc320cc8) |
+| Tue, 07 Oct 2025 09:19:03 GMT | From Interview Task to Open Source Success: A Creator’s Tale | Roman Voloboev | [Read More](https://medium.com/p/eba2d44489ed) |
 | Tue, 07 Oct 2025 09:18:48 GMT | Safeguarding the Nation: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/77ed35866fee) |
 | Tue, 07 Oct 2025 09:18:04 GMT | The Reality Check: Why Provenance Matters More Than Ever | Lauri Korpela | [Read More](https://medium.com/p/3042d220ffd2) |
+| Tue, 07 Oct 2025 09:17:53 GMT | TryHackMe #96 - Sysmon | SiberYuk | [Read More](https://medium.com/p/c482a63701ca) |
 | Tue, 07 Oct 2025 09:10:46 GMT | C for Hacking? Is it worth the pain? | SilentInject | [Read More](https://medium.com/p/3df37101d09b) |
 | Tue, 07 Oct 2025 09:08:08 GMT | Microsoft Confirms Storm-1175 Behind GoAnywhere Exploit That Deployed Medusa Ransomware | Germano Costi | [Read More](https://medium.com/p/1622893a0997) |
 | Tue, 07 Oct 2025 09:04:41 GMT | 100% Job Guarantee Course in Mumbai for Freshers — Evision Technoserve | Evision Technoserve | [Read More](https://medium.com/p/efd6f2bafac1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 04:49:19 GMT | “Everything’s Legit… Until It Isn’t”: Inside a Fintech Hustle with Toby | Internet Exposed | [Read More](https://medium.com/p/0ae51035ebed) |
 | Tue, 07 Oct 2025 04:39:56 GMT | The Psychology of Hacking: How Hackers Think — and Why It Works | IamPreth | [Read More](https://medium.com/p/3818ffa9fc63) |
 | Tue, 07 Oct 2025 04:37:54 GMT | Cybersecurity Isn’t Optional Anymore — Ignore It and Risk Extinction | Rizqi Mulki | [Read More](https://medium.com/p/017445252269) |
-| Tue, 07 Oct 2025 04:32:09 GMT | , ’    ? | Ankit Patel | [Read More](https://medium.com/p/cd2686f4f6fe) |
-| Tue, 07 Oct 2025 04:31:08 GMT | Tentang HOKIKU88 | HOKIKU88 | [Read More](https://medium.com/p/e4fdab26d523) |
-| Tue, 07 Oct 2025 04:29:56 GMT | How Under-Vehicle Mirrors Enhance Security in Fire-Prone Areas | Firexsafety | [Read More](https://medium.com/p/830bc04d2995) |
-| Tue, 07 Oct 2025 04:29:32 GMT | Why Cyber Resilience Must Start with People! | Dale Jenkins | [Read More](https://medium.com/p/dd7134fbe836) |
-| Tue, 07 Oct 2025 04:22:33 GMT | Can I Haz Root? :: Pennyworth | Cyber Grover ‍ | [Read More](https://medium.com/p/8e0ead5e0797) |
-| Tue, 07 Oct 2025 04:21:28 GMT | Fastly Subdomain Takeover leading to $$$$ Bounty Reward | Sohail Ahmed | [Read More](https://medium.com/p/5fff711d0518) |
