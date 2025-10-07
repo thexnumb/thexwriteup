@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 20:16:37 GMT | Day 2 of my Cybersecurity Journey: Learning Linux Fundamentals | Ogundipe Priscilla | [Read More](https://medium.com/p/a3d64ab59a73) |
+| Tue, 07 Oct 2025 20:16:28 GMT | Container Security for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/8e78d04012bd) |
+| Tue, 07 Oct 2025 20:16:02 GMT | Web3 Security: Protect Yourself in This New Age Market | Itachi | [Read More](https://medium.com/p/e29230772ba3) |
+| Tue, 07 Oct 2025 20:15:31 GMT | How to Grow Deposits Without Increasing Risk | Linker Finance | [Read More](https://medium.com/p/b75308db02df) |
+| Tue, 07 Oct 2025 20:14:18 GMT | Importance of Phishing Awareness | Christian Denney | [Read More](https://medium.com/p/9318234b0e90) |
+| Tue, 07 Oct 2025 20:13:04 GMT | Story of a flawed domain validation check during registration | bhargabKaushik | [Read More](https://medium.com/p/98950e5e9cef) |
+| Tue, 07 Oct 2025 19:57:49 GMT | The Midnight Breach: How One Server Attack Rewired My Brain About Security | Abdullah Javeed | [Read More](https://medium.com/p/0ea4e5e07ac2) |
+| Tue, 07 Oct 2025 19:53:35 GMT | Host-based Monitoring: auditd & osquery | Cybersecplayground | [Read More](https://medium.com/p/994c6e8d5655) |
+| Tue, 07 Oct 2025 19:52:09 GMT | [Part 8] How to Build a Cyber Resilience Act Roadmap in 90 Days | Cyberkech | [Read More](https://medium.com/p/9a6ba33d21e7) |
+| Tue, 07 Oct 2025 19:51:27 GMT | How to Get Started in AI Art (Even If You Haven’t Got a Clue) | Teresa Trimm | [Read More](https://medium.com/p/00d48c600cf3) |
+| Tue, 07 Oct 2025 19:50:44 GMT | TryHackMe Writeup: Agent Sudo | Berkay AĞGÜL | [Read More](https://medium.com/p/f982ce60557f) |
+| Tue, 07 Oct 2025 19:45:15 GMT | Hunting For Vulnerable SSRF Mitigations | Chux | [Read More](https://medium.com/p/d72f15983663) |
+| Tue, 07 Oct 2025 19:41:44 GMT | Scars of Love | The Bloom Space | [Read More](https://medium.com/p/9f6336fc4043) |
+| Tue, 07 Oct 2025 19:39:22 GMT | Social Engineering: How Hackers Trick You in Daily Life | Cordula Boeck | [Read More](https://medium.com/p/6d32743ed2a2) |
+| Tue, 07 Oct 2025 19:37:32 GMT | About Me | Tayyab Akhtar | [Read More](https://medium.com/p/775644247e15) |
 | Tue, 07 Oct 2025 19:35:43 GMT | Why Cybersecurity Compliance Isn’t Just About Rules, It’s About Trust | Akshay Chauhan | [Read More](https://medium.com/p/907f1ad15367) |
 | Tue, 07 Oct 2025 19:35:19 GMT | Securing Defense Systems: GitLab and HackerOne in Coordinated Action With Lockheed Martin | Justas_b | [Read More](https://medium.com/p/7ed6ea51054f) |
+| Tue, 07 Oct 2025 19:31:25 GMT | Ever been stuck asking clients to “please email the file again” because the last one got lost in… | Jane Brian | [Read More](https://medium.com/p/0157d7614785) |
 | Tue, 07 Oct 2025 19:31:23 GMT | Walkthrough TryHackMe Lookback | Telynor | [Read More](https://medium.com/p/7edd64887477) |
 | Tue, 07 Oct 2025 19:30:59 GMT | Inside DNV: How Global Innovation and Digital Assurance are Shaping the Future of Industry | Hina Anser | [Read More](https://medium.com/p/804f9fa62754) |
 | Tue, 07 Oct 2025 19:27:31 GMT | Managed Cybersecurity Services: 24/7 Protection for a Threat-Driven World | SafeAeon Inc. | [Read More](https://medium.com/p/40f77225e0c1) |
@@ -97,19 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 15:33:59 GMT | Looking to Migrate Concrete5 to WordPress? Here’s What You Should Know | Chris | [Read More](https://medium.com/p/6d42abfd9789) |
 | Tue, 07 Oct 2025 15:31:54 GMT | Comprehensive Bug Bounty Methodology Guide: Recon & Vulnerability Testing | Mike (sl0th0x87) | [Read More](https://medium.com/p/13602a12f1cb) |
 | Tue, 07 Oct 2025 15:28:52 GMT | Quick Tunnel: Local Web to Public Domain | ZAST AI | [Read More](https://medium.com/p/1c76de2e41b7) |
-| Tue, 07 Oct 2025 15:27:51 GMT | I Monitor Sleep Studies at Night... | PhantomInk | [Read More](https://medium.com/p/ad9b9d5e37f5) |
-| Tue, 07 Oct 2025 15:27:35 GMT | Splunking with Zeek Part 2 | Luke | [Read More](https://medium.com/p/96fe6100f7c7) |
-| Tue, 07 Oct 2025 15:23:04 GMT | Exam Cram vs. Long Study: Which Works Better? | VERSAtile Reads | [Read More](https://medium.com/p/140896e63b8e) |
-| Tue, 07 Oct 2025 15:19:33 GMT | AI at Work: Shadow Systems, Agentic Autonomy, and the Security–Productivity Fault Line | Joseph | [Read More](https://medium.com/p/55369fc071b9) |
-| Tue, 07 Oct 2025 15:17:51 GMT | How I Locked Out Every Owner and Admin in the Organization with a Single Request | 0xSOM3A | [Read More](https://medium.com/p/0de425cddb5b) |
-| Tue, 07 Oct 2025 15:16:28 GMT | Beyond the Patchwork: Why Cybersecurity Needs Holistic Context, Not More Tools | Eric Zietlow | [Read More](https://medium.com/p/c6fb0ed54293) |
-| Tue, 07 Oct 2025 15:16:27 GMT | Hit a Milestone: 100+ Published Articles on Medium! | Inayat Hussain | [Read More](https://medium.com/p/3260118a2860) |
-| Tue, 07 Oct 2025 15:15:47 GMT | Running With Alphas in Heels | Maisha Taranum | [Read More](https://medium.com/p/433cd45a531a) |
-| Tue, 07 Oct 2025 15:02:18 GMT | “Beyond the Front Door: Uncovering Hidden Web Vulnerabilities in Email Servers and WAFs” | Aman Sharma | [Read More](https://medium.com/p/6801ebd2e881) |
-| Tue, 07 Oct 2025 15:00:08 GMT | How Ransomware Works (And How to Avoid Becoming a Victim) | Aj | [Read More](https://medium.com/p/9a8ca6eb0726) |
-| Tue, 07 Oct 2025 14:57:27 GMT | Investigating the Bustabit API and all of it’s mysteries | biscoff_ice_cream | [Read More](https://medium.com/p/4f285fee0e5a) |
-| Tue, 07 Oct 2025 14:56:04 GMT | A Case Study on iOS Forensics: Virtual Image Analysis with iLEAPP | Emre Karatay | [Read More](https://medium.com/p/c2d22435854c) |
-| Tue, 07 Oct 2025 14:50:50 GMT | Vulnerability Scanner Overview - THM | Isiah | [Read More](https://medium.com/p/e7bd24ead55b) |
-| Tue, 07 Oct 2025 14:50:38 GMT | My First Steps with FastAPI: Building a Social Media App (PART 3) | Joseph Fagbemi | [Read More](https://medium.com/p/315832f5a77b) |
-| Tue, 07 Oct 2025 14:49:44 GMT | Day 7: Beyond the Desktop: Securing Every Device, Everywhere | aysha | [Read More](https://medium.com/p/9c246200c2d1) |
-| Tue, 07 Oct 2025 14:47:34 GMT | The Day I Accidentally Hacked Myself: And What It Taught Me About Cybersecurity | Fateyaly | [Read More](https://medium.com/p/78bd9581799a) |
