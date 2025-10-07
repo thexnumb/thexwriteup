@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 13:29:08 GMT | Start with Security, End with Confidence | Global Technology | [Read More](https://medium.com/p/17e64defe962) |
+| Tue, 07 Oct 2025 13:27:58 GMT | How to Bypass File Upload Restrictions | Ibtissam hammadi | [Read More](https://medium.com/p/d4b1e4c1b5d2) |
+| Tue, 07 Oct 2025 13:25:47 GMT | Client-Side Desync: Breaking the Sequence | Geni_Wazir | [Read More](https://medium.com/p/afe010e76f9b) |
+| Tue, 07 Oct 2025 13:22:59 GMT | Why Network and System Misconfigurations Lead to Catastrophic Breaches | IT_Engineer | [Read More](https://medium.com/p/5105c5b65678) |
+| Tue, 07 Oct 2025 13:19:47 GMT | Building the Future of Solidity with Drosera | npccrypto | [Read More](https://medium.com/p/1b2e39551681) |
+| Tue, 07 Oct 2025 13:18:07 GMT | Why Re Audits Every Line: Our Security-First Infrastructure | Re | [Read More](https://medium.com/p/fc4ede8166c8) |
+| Tue, 07 Oct 2025 13:17:57 GMT | A Senior Challenged Me to Build an Automated SOC Demo. Here’s What I Built. | Manish Rawat | [Read More](https://medium.com/p/32c9995857e2) |
+| Tue, 07 Oct 2025 13:11:16 GMT | eKYC 2025: Ladki Bahin Yojana: Procedure, Records, and Online Updates | Hardinnews | [Read More](https://medium.com/p/266a85f3a2f1) |
+| Tue, 07 Oct 2025 13:09:54 GMT | Globalcryptous.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/edcd40aeefb9) |
+| Tue, 07 Oct 2025 13:09:04 GMT | The Gentlemen Ransomware Group Profile — Part 4: Impact | gm0 | [Read More](https://medium.com/p/15c6f1effc63) |
+| Tue, 07 Oct 2025 13:06:16 GMT | Is Hikkod.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/fea57a4d11d4) |
+| Tue, 07 Oct 2025 13:06:14 GMT | ️ How to Seamlessly Upgrade Wazuh Agents: A Step-by-Step Guide | MARLON MUTIANGPILI | [Read More](https://medium.com/p/4e794eb1b936) |
+| Tue, 07 Oct 2025 13:03:48 GMT | Building Cyber Resilience in Africa, Strategies for Businesses and Professionals to Stay Ahead of… | ED-360 AFRICA | [Read More](https://medium.com/p/1ca854e52f1d) |
+| Tue, 07 Oct 2025 13:01:31 GMT | Nokia WIFI 6 1426-G Fiber ONT: How to Extract and View Your PPPOE username and password | Abdelwahed AJ | [Read More](https://medium.com/p/3d68aee3f23b) |
+| Tue, 07 Oct 2025 13:00:01 GMT | How to Become an Ethical Hacker | Simplilearn | [Read More](https://medium.com/p/ba148a99fadf) |
+| Tue, 07 Oct 2025 12:59:16 GMT | Can You Trust Octal-capital.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/f746540af5f8) |
+| Tue, 07 Oct 2025 12:56:38 GMT | AWS HealthLake: HIPAA-Compliant AI for Healthcare Applications | Rizqi Mulki | [Read More](https://medium.com/p/b3301c802563) |
+| Tue, 07 Oct 2025 12:56:15 GMT | Cyber Resilience: Bouncing Back from Attacks | Cyber Security Research | [Read More](https://medium.com/p/c1f95020ad79) |
+| Tue, 07 Oct 2025 12:53:04 GMT | Write Up Lab: Blind SQL injection with time delays | Velskynotfound | [Read More](https://medium.com/p/4b40204aec0f) |
+| Tue, 07 Oct 2025 12:49:25 GMT | The Impact of AI on Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/b3074392f1cf) |
+| Tue, 07 Oct 2025 12:48:59 GMT | Tesladigital.us Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/fac710c1830d) |
+| Tue, 07 Oct 2025 12:45:21 GMT | What Happens to Your Hard Drives After We Destroy Them? | BioNew USA | [Read More](https://medium.com/p/9454a2f18749) |
+| Tue, 07 Oct 2025 12:44:08 GMT | Python Playground:TryHackMe Writeup WalkThrough | Umer | [Read More](https://medium.com/p/d1faa0e48cf3) |
+| Tue, 07 Oct 2025 12:41:26 GMT | Perimeter Breach — Inside CVE-2025–20362 & CVE-2025–20333 | gm0 | [Read More](https://medium.com/p/8f5268f08604) |
+| Tue, 07 Oct 2025 12:40:16 GMT | How to Reset a Garage Door Opener After Pulling the Red Cord: Step-by-Step Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/90cd8f010d7f) |
 | Tue, 07 Oct 2025 12:33:02 GMT | Is Xplivetrade.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/c54e1df1d9a2) |
 | Tue, 07 Oct 2025 12:31:24 GMT | Can You Trust Bitexone.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/fcde004a729d) |
 | Tue, 07 Oct 2025 12:28:05 GMT | BGP Hijacking Attacks: Manipulating the Routing of the Internet | Esra Kayhan | [Read More](https://medium.com/p/4d4082b4b43e) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 09:19:03 GMT | From Interview Task to Open Source Success: A Creator’s Tale | Roman Voloboev | [Read More](https://medium.com/p/eba2d44489ed) |
 | Tue, 07 Oct 2025 09:18:48 GMT | Safeguarding the Nation: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/77ed35866fee) |
 | Tue, 07 Oct 2025 09:18:04 GMT | The Reality Check: Why Provenance Matters More Than Ever | Lauri Korpela | [Read More](https://medium.com/p/3042d220ffd2) |
-| Tue, 07 Oct 2025 09:17:53 GMT | TryHackMe #96 - Sysmon | SiberYuk | [Read More](https://medium.com/p/c482a63701ca) |
-| Tue, 07 Oct 2025 09:10:46 GMT | C for Hacking? Is it worth the pain? | SilentInject | [Read More](https://medium.com/p/3df37101d09b) |
-| Tue, 07 Oct 2025 09:08:08 GMT | Microsoft Confirms Storm-1175 Behind GoAnywhere Exploit That Deployed Medusa Ransomware | Germano Costi | [Read More](https://medium.com/p/1622893a0997) |
-| Tue, 07 Oct 2025 09:04:41 GMT | 100% Job Guarantee Course in Mumbai for Freshers — Evision Technoserve | Evision Technoserve | [Read More](https://medium.com/p/efd6f2bafac1) |
-| Tue, 07 Oct 2025 09:04:18 GMT | The Web3 Security Problem: DROSERA | Samueladeyekun | [Read More](https://medium.com/p/1b56767f2736) |
-| Tue, 07 Oct 2025 09:02:23 GMT | The 5 Essential Security Risks Developers Ignore in the Vibe Coding Era | Atsushi Hatakeyama | [Read More](https://medium.com/p/d390a541e106) |
-| Tue, 07 Oct 2025 09:02:16 GMT | We’re All Exposed — The Dangerous Truth About Digital Security | estrosec | [Read More](https://medium.com/p/ed0d2d453f75) |
-| Tue, 07 Oct 2025 09:02:16 GMT | ISO 27001 Maintenance: How to Ensure Continuous Compliance | Hicomply | [Read More](https://medium.com/p/48d589de87bc) |
-| Tue, 07 Oct 2025 08:50:30 GMT | Walker Turned Confessional? Unexpected Turns on the Road to Recovery | IyakSaCR | [Read More](https://medium.com/p/8ad0057f66a3) |
-| Tue, 07 Oct 2025 08:48:16 GMT | Cybersecurity Crossroads? Charting Your Course in Infosec | Authlyn | [Read More](https://medium.com/p/b2bca0e309e6) |
-| Tue, 07 Oct 2025 08:34:36 GMT | Cache Key Injection: Chaining Cache-Poisoning and CRLF Using an Unkeyed Parameter | Bash Overflow | [Read More](https://medium.com/p/b9e8b7be00a1) |
-| Tue, 07 Oct 2025 08:27:48 GMT | Top 10 Cyber Attacks in India | Manisha Chaudhary | [Read More](https://medium.com/p/0a32b36c012a) |
-| Tue, 07 Oct 2025 08:27:04 GMT | The Daily Tech Digest: 07 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d4ab39c330d3) |
-| Tue, 07 Oct 2025 08:25:37 GMT | API10:2023 — Unsafe Consumption of APIs | Apifort | [Read More](https://medium.com/p/a188b3abe401) |
-| Tue, 07 Oct 2025 08:11:35 GMT | The $50 Battering RAM Attack: How Researchers Broke Intel and AMD Cloud Security with a Simple Hack | Germano Costi | [Read More](https://medium.com/p/239db0086a9a) |
-| Tue, 07 Oct 2025 08:03:18 GMT | Continuous & AI-Augmented Penetration Testing: The Future of Offensive Security. | A AJAY | [Read More](https://medium.com/p/15c87ba0022f) |
-| Tue, 07 Oct 2025 08:02:07 GMT | When a Callback Form Became an Open Door — a short story about a hospital workflow gone wrong | Devansh Patel | [Read More](https://medium.com/p/50052deeb0c3) |
-| Tue, 07 Oct 2025 08:00:11 GMT | How I Stay Consistent While Learning New Tech Stacks | mohit singh | [Read More](https://medium.com/p/b87c167f7907) |
-| Tue, 07 Oct 2025 07:59:16 GMT | HTB Labs: Certificate WriteUp | Izzat Mammadzada | [Read More](https://medium.com/p/239146ba2dfa) |
-| Tue, 07 Oct 2025 07:58:13 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/35d749653929) |
-| Tue, 07 Oct 2025 07:57:33 GMT | Chain Link Fence in Saudi Arabia: A Smart Choice for Security, Climate, and Value (سياج شبكي) | Hitechfence | [Read More](https://medium.com/p/b2662b6ad48b) |
-| Tue, 07 Oct 2025 07:56:56 GMT | Protecting Trust: Why We Need Security at the Core | Consultivo Engagement | [Read More](https://medium.com/p/fc936b98a015) |
-| Tue, 07 Oct 2025 07:54:57 GMT | DC: 1 | Rikin | [Read More](https://medium.com/p/4cd2d7e7c341) |
-| Tue, 07 Oct 2025 07:51:09 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/13d9f980ec56) |
-| Tue, 07 Oct 2025 07:45:07 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/27764de14d33) |
