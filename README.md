@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 12:33:02 GMT | Is Xplivetrade.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/c54e1df1d9a2) |
+| Tue, 07 Oct 2025 12:31:24 GMT | Can You Trust Bitexone.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/fcde004a729d) |
+| Tue, 07 Oct 2025 12:28:05 GMT | BGP Hijacking Attacks: Manipulating the Routing of the Internet | Esra Kayhan | [Read More](https://medium.com/p/4d4082b4b43e) |
+| Tue, 07 Oct 2025 12:27:57 GMT | Xcrypto.global Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/fad428f461c2) |
+| Tue, 07 Oct 2025 12:25:51 GMT | Is Wap.yspacrypto.co Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/0ac5cc1f43d2) |
+| Tue, 07 Oct 2025 12:25:38 GMT | Why Mobile Application Pentesting Matters: Risks & ROI | Digital Defense | [Read More](https://medium.com/p/d213065376f9) |
+| Tue, 07 Oct 2025 12:24:28 GMT | DIY Tech Gadgets for the Creative and Curious Mind | Zulu Innocent | [Read More](https://medium.com/p/161dd0888322) |
+| Tue, 07 Oct 2025 12:21:35 GMT | Portable Web3 Identity With idOS Network | PVMihalache | [Read More](https://medium.com/p/688b42e7aae7) |
+| Tue, 07 Oct 2025 12:16:50 GMT | Is Voex.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/a0b8c51daa9c) |
+| Tue, 07 Oct 2025 12:14:52 GMT | Technology: The Fifth Pillar of Risk Mitigation in Supply Chain and Transportation | Demitri Malinski | [Read More](https://medium.com/p/ce4bb40f1391) |
+| Tue, 07 Oct 2025 12:08:57 GMT | What Investors Expect from Modern Fund Administrators | Annumaurya | [Read More](https://medium.com/p/cc7db33fb3a8) |
+| Tue, 07 Oct 2025 12:04:56 GMT | Protecting Your Web Applications from Tor Traffic: A Deep Dive into nginx-torblocker | Rumen Damyanov | [Read More](https://medium.com/p/a7bacad1e473) |
+| Tue, 07 Oct 2025 12:04:01 GMT | The Quiet Ache of Wanting to Be Loved | Mardiana Ayu | [Read More](https://medium.com/p/0e11acd929ad) |
+| Tue, 07 Oct 2025 12:03:17 GMT | The Gentlemen Ransomware Group Profile — Part 2: Infrastructure | gm0 | [Read More](https://medium.com/p/8db71038928c) |
+| Tue, 07 Oct 2025 12:01:59 GMT | Event Security Management: Keeping Your Gathering Safe with Securycor Services | UKservices | [Read More](https://medium.com/p/543eac154669) |
+| Tue, 07 Oct 2025 11:49:44 GMT | How I Built a Daily Cybersecurity Habit From Student to Pentest Creator. | VULN-VAULT | [Read More](https://medium.com/p/51c90a75b8fb) |
 | Tue, 07 Oct 2025 11:32:45 GMT | Zero Day In Xbox Privilege Escalation Using Gaming ServiceEoP | Redfox Security | [Read More](https://medium.com/p/84f5c91a69ed) |
 | Tue, 07 Oct 2025 11:32:12 GMT | 10 Python Hacks That Made Me Look Like a Cybersecurity Pro | Muhummad Zaki | [Read More](https://medium.com/p/d5c4edb40aec) |
+| Tue, 07 Oct 2025 11:31:53 GMT | Is a Bug Bounty Program the Best Way to Find Security Threats? | Sparkle web | [Read More](https://medium.com/p/e91761bb8530) |
+| Tue, 07 Oct 2025 11:30:31 GMT | Solving the resistance problem | Erik Kvam | [Read More](https://medium.com/p/5434cb328720) |
+| Tue, 07 Oct 2025 11:29:27 GMT | The Artificial Intelligence Journey — CyberGym | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f603cf541d82) |
 | Tue, 07 Oct 2025 11:28:59 GMT | bWAPP Series: HTML Injection — Reflected (POST) — High Severity | Madhumathi chamarthi | [Read More](https://medium.com/p/1f4fb57ac3b7) |
 | Tue, 07 Oct 2025 11:28:04 GMT | Cybersecurity in Everyday Life: Why Hackers Love Your Passwords | ShwetaPrasad150 | [Read More](https://medium.com/p/680c0634968a) |
 | Tue, 07 Oct 2025 11:26:58 GMT | Token Nedir? Access ve Refresh Token’larla Modern Kimlik Doğrulama | Latest Software Developers | [Read More](https://medium.com/p/b7bdea6bdfee) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 07:54:57 GMT | DC: 1 | Rikin | [Read More](https://medium.com/p/4cd2d7e7c341) |
 | Tue, 07 Oct 2025 07:51:09 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/13d9f980ec56) |
 | Tue, 07 Oct 2025 07:45:07 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/27764de14d33) |
-| Tue, 07 Oct 2025 07:44:28 GMT | How Smart Accounts and Account Abstraction Fit Together | Nilmi Sugandhika879 | [Read More](https://medium.com/p/572c569d4538) |
-| Tue, 07 Oct 2025 07:29:48 GMT | Why Hackers Don’t Come Through the Front Door | Yash Patel | [Read More](https://medium.com/p/7835755085b6) |
-| Tue, 07 Oct 2025 07:25:35 GMT | Explore the Latest Courses at the University of Education Australia | AIST | [Read More](https://medium.com/p/3b99e410adc1) |
-| Tue, 07 Oct 2025 07:19:07 GMT | Cloud Security After Salesforce Breach Explained | The Thematic Investor | [Read More](https://medium.com/p/49b419322b9c) |
-| Tue, 07 Oct 2025 07:18:53 GMT | Why Cybersecurity is the Career of the Future? | Win In Life Academy | [Read More](https://medium.com/p/f02a3d4cfdf2) |
-| Tue, 07 Oct 2025 07:17:39 GMT | Cl0p Strikes Again: The Oracle E-Business Suite Exploit That Could Shake Enterprise Security… | Germano Costi | [Read More](https://medium.com/p/4368e7707edd) |
-| Tue, 07 Oct 2025 07:16:18 GMT | Trustless Incident Response: A Missing Layer in Web3 Security | Godswill Isaiah | [Read More](https://medium.com/p/6c3d676d4074) |
-| Tue, 07 Oct 2025 07:16:15 GMT | The Hidden Threats In Poor E-Commerce Security | Qualysec | [Read More](https://medium.com/p/22c09a9fbcc7) |
-| Tue, 07 Oct 2025 07:15:30 GMT | The Shopify App Could Read All Your Private Emails | Marcin Byra | [Read More](https://medium.com/p/0133432be585) |
-| Tue, 07 Oct 2025 07:14:56 GMT | Intro to Memory Analysis (VMWare 4N6 Lab) | Allen Ace | [Read More](https://medium.com/p/8762de2f95df) |
-| Tue, 07 Oct 2025 07:13:41 GMT | Just like health checkups, your website needs regular care to stay secure, fast & error-free! | Aarav Infotech India Pvt. Ltd. | [Read More](https://medium.com/p/ac568f8b93a4) |
-| Tue, 07 Oct 2025 07:09:56 GMT | Android Security Resour | Abdul Majid Jamil | [Read More](https://medium.com/p/80ec6adb1ac3) |
-| Tue, 07 Oct 2025 07:09:03 GMT | Writeup- Hacker Fest:2019 (VulnHub) | Abdullah Ahmed H | [Read More](https://medium.com/p/01413905e720) |
-| Tue, 07 Oct 2025 07:05:38 GMT | Kioptrix Level 3 Penetration Test Walkthrough | ishaq Jafar | [Read More](https://medium.com/p/0fa5e3832305) |
-| Tue, 07 Oct 2025 07:05:07 GMT | Writeup- SUNSET:1 (VulnHub) | Abdullah Ahmed H | [Read More](https://medium.com/p/c4a5ccdb2ffd) |
-| Tue, 07 Oct 2025 06:58:43 GMT | AGENTIC AI: CYBERSECURITY ’S DOUBLE -EDGED SWORD | Knowledge Upswing | [Read More](https://medium.com/p/b78184ebaca1) |
-| Tue, 07 Oct 2025 06:55:35 GMT | The Phishing Upgrade: Scammers 2.0 | Sakthimurugan S | [Read More](https://medium.com/p/4a7e5991f14c) |
-| Tue, 07 Oct 2025 06:54:04 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/b01142964f56) |
-| Tue, 07 Oct 2025 06:52:26 GMT | Multi-Factor Authentication (MFA) stands as a cornerstone of modern cybersecurity, yet myths and… | Password Manager | [Read More](https://medium.com/p/72e8a7ffb0f6) |
