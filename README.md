@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 02:52:24 GMT | 20. Common Payloads and Wordlists That Save Me Hours | Abhijeet kumawat | [Read More](https://medium.com/p/1535800eb8f2) |
+| Tue, 07 Oct 2025 02:47:12 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/db22fe7a15e3) |
+| Tue, 07 Oct 2025 02:41:23 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/31bcb0468797) |
+| Tue, 07 Oct 2025 02:37:47 GMT | What I’ve Learned From The ISC2’s Webinar Entitled: “From Shield to Spear: How AI is Reshaping… | Martin L | [Read More](https://medium.com/p/cfc83deb8b31) |
+| Tue, 07 Oct 2025 02:32:07 GMT | Securing Your IT Infrastructure : A Comprehensive Guide | Rishab Chakraborty | [Read More](https://medium.com/p/904d51e1aa3d) |
+| Tue, 07 Oct 2025 02:13:51 GMT | Google Launches Revolutionary AI Security Arsenal: CodeMender Leads the Charge Against Cyber… | Techsankar | [Read More](https://medium.com/p/1e24c0f4bf3d) |
+| Tue, 07 Oct 2025 02:08:46 GMT | For enduring changes that persist across reboots, using `/etc/sysctl.d/` | Eren Cankut Uysal | [Read More](https://medium.com/p/ce0b08d11b71) |
+| Tue, 07 Oct 2025 01:50:15 GMT | Expert Guide to Security Hardening in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/008592f9dbfd) |
+| Tue, 07 Oct 2025 01:43:37 GMT | Oracle’s July 2025 Critical Patch Update: The CVE-2025–61882 Flaw That Sparked a Global Extortion… | Brian | [Read More](https://medium.com/p/20f70ff77ad3) |
+| Tue, 07 Oct 2025 01:43:24 GMT | Security in CI/CD Pipelines | Cyberoptic Security | [Read More](https://medium.com/p/8265bfc036d4) |
 | Tue, 07 Oct 2025 01:33:17 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/588540b1ee31) |
 | Tue, 07 Oct 2025 01:26:54 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/2b357ba2f24f) |
 | Tue, 07 Oct 2025 01:20:49 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/48da6dee72e0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 17:56:38 GMT | The Cybersecurity Sentinel (October 2025) | Franklin Rhodes | [Read More](https://medium.com/p/b13fdea8f501) |
 | Mon, 06 Oct 2025 17:56:26 GMT | Exploring Security Hardening with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/ef16bbab2969) |
 | Mon, 06 Oct 2025 17:51:02 GMT | ️ Building My Own Cloud SOC from Scratch on AWS | Shadin | [Read More](https://medium.com/p/786f3c5b61e4) |
-| Mon, 06 Oct 2025 17:49:07 GMT | The Python Habit Tracker That Rewired My Brain (and My Code) | Fateyaly | [Read More](https://medium.com/p/ab0442544fc4) |
-| Mon, 06 Oct 2025 17:48:06 GMT | 03-Kali Linux Resource Development: Crafting the Arsenal for Cyber Operations | SDNTechForum | [Read More](https://medium.com/p/d3fd15fbd9a0) |
-| Mon, 06 Oct 2025 17:43:09 GMT | Exploring the Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/02f8e514da09) |
-| Mon, 06 Oct 2025 17:42:35 GMT | AI/ LLM Hacking-Part 4-Supply Chain - Data & Model Poisoning vulnerabilities. | Darshan Naresh Naik | [Read More](https://medium.com/p/4c9bcc358055) |
-| Mon, 06 Oct 2025 17:41:18 GMT | SQL injection-The Beginner’s Guide(Part 2 ) | Ashutosh Jena | [Read More](https://medium.com/p/e66df830f1d7) |
-| Mon, 06 Oct 2025 17:40:24 GMT | Power Plays in Digital Trade: How Regulatory Control Shapes the Global Data Economy | Andrea Frosinini | [Read More](https://medium.com/p/f0bdaacecb1f) |
-| Mon, 06 Oct 2025 17:36:00 GMT | CYBER KALKI EXPOSES CRITICAL FLAW by hacking testphp.vulnweb.com and turning into a Data Honeypot | Krivadna | [Read More](https://medium.com/p/7a89b74ba72d) |
-| Mon, 06 Oct 2025 17:34:16 GMT | HRMCon 2025 — Human Risk Management Conference | Matthew.Rosenquist | [Read More](https://medium.com/p/5b76e043ae37) |
-| Mon, 06 Oct 2025 17:33:44 GMT | Small Bugs, Easy Money: CSRF & Race Conditions | nooh zidan | [Read More](https://medium.com/p/b5fc69694f1f) |
-| Mon, 06 Oct 2025 17:33:11 GMT | Why Statistics Is the Secret Weapon in Modern Cybersecurity | Gadeabhishekreddy | [Read More](https://medium.com/p/4a7eb9afdca8) |
