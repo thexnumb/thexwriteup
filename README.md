@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 22:36:06 GMT | Vulnerability Data Enrichment for CVE Records: 252 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/db09abac48ac) |
+| Tue, 07 Oct 2025 22:22:42 GMT | Data Privacy | John Odumesi | [Read More](https://medium.com/p/14b727791d55) |
+| Tue, 07 Oct 2025 22:16:08 GMT | GDPR Compliance Checklist for Next.js Apps | Kidaneg | [Read More](https://medium.com/p/801c9ea75780) |
 | Tue, 07 Oct 2025 22:13:04 GMT | Domain Capture: The Case for Apple Business Manager in Every Business | Drew Smith | [Read More](https://medium.com/p/c56694018243) |
 | Tue, 07 Oct 2025 22:12:21 GMT | Why spend the time and effort to break into a data center when you can just unplug it from the… | Paul M Jankowski | [Read More](https://medium.com/p/2f8c02928f97) |
+| Tue, 07 Oct 2025 22:10:04 GMT | My story about debit card theft | Wesley Eledui | [Read More](https://medium.com/p/dea8668dcc22) |
 | Tue, 07 Oct 2025 22:08:47 GMT | The Future of AI and Security Forces in Data Centers: Building the Digital Fort Knox | Paul M Jankowski | [Read More](https://medium.com/p/6ce5c33f0498) |
 | Tue, 07 Oct 2025 22:06:29 GMT | Mastering Authentication with Advanced NextAuth.js Techniques | @rnab | [Read More](https://medium.com/p/9b614d6b87fe) |
 | Tue, 07 Oct 2025 21:54:45 GMT | Po diabła mi ta ‘komunikacja’ w IT?!” | Dariusz Wardega | [Read More](https://medium.com/p/b5d806075013) |
@@ -28,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 21:31:26 GMT | Top 10 Cybersecurity Mistakes Everyone Makes Without Knowing | Kakashi | [Read More](https://medium.com/p/8198652c3329) |
 | Tue, 07 Oct 2025 21:21:39 GMT | The Future of AI Cybersecurity: 7 Trends Shaping the Next Digital Battlefield | Roger Millar | [Read More](https://medium.com/p/235294134c81) |
 | Tue, 07 Oct 2025 21:20:54 GMT | English Is Full of Bugs | acweaver | [Read More](https://medium.com/p/a80b290d13c4) |
+| Tue, 07 Oct 2025 21:20:40 GMT | A Porta Operacional na Gestão de TI. Alicerce ou armadilha silenciosa? | Anderson Oliveira | [Read More](https://medium.com/p/9865c4ef26ff) |
 | Tue, 07 Oct 2025 21:02:34 GMT | A clickfix that turned into persistent NetSupport access | TheFIR.io | [Read More](https://medium.com/p/663e621ac71b) |
 | Tue, 07 Oct 2025 20:57:52 GMT | Remote CCTV Access Setup Guide | Visual Monitoring Solutions | [Read More](https://medium.com/p/2f31702cc6e8) |
 | Tue, 07 Oct 2025 20:55:29 GMT | Oracle E-Business Suite Zero-Day Exploited in Clop Data Theft Attacks: CVE-2025–61882 | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/73bff4e92545) |
@@ -108,8 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 17:15:35 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/b632c784a532) |
 | Tue, 07 Oct 2025 17:10:08 GMT | Visible Error-Based SQL Injection | Marduk I Am | [Read More](https://medium.com/p/2deb4b77ac64) |
 | Tue, 07 Oct 2025 17:03:38 GMT | Airtel Business Secures Railways Cybersecurity Contract, AI, 24/7 Protection and Sovereign Tech in… | Avijitdey | [Read More](https://medium.com/p/b692275435a5) |
-| Tue, 07 Oct 2025 17:00:11 GMT | I have been in security since 1986, locksmith and still sell locks and hardware. | A.Walsh | [Read More](https://medium.com/p/9fb67a9a6f61) |
-| Tue, 07 Oct 2025 16:58:00 GMT | The Evolution of Security Architectures | Cyber Security Research | [Read More](https://medium.com/p/76e265da2470) |
-| Tue, 07 Oct 2025 16:55:50 GMT | 7 Under-the-Radar GitHub Repos Every Hacker Should Star (2025 Final Version) | Andrei Ivan | [Read More](https://medium.com/p/dbcecbd2602e) |
-| Tue, 07 Oct 2025 16:54:57 GMT | Critical Vulnerabilities in Chaos Mesh Enable Complete Kubernetes Takeover | Simardeep Singh | [Read More](https://medium.com/p/5d4462fbd554) |
-| Tue, 07 Oct 2025 16:52:23 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/c35756267dd2) |
