@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 16:16:33 GMT | Empowering Defenders: How Better Tools Create Better Security Teams | Eric Zietlow | [Read More](https://medium.com/p/80af7eee3dd0) |
+| Tue, 07 Oct 2025 16:14:57 GMT | Enhancing technology enhancing crime' | souvik Das | [Read More](https://medium.com/p/7c9b5530fd7a) |
+| Tue, 07 Oct 2025 16:13:36 GMT | Tryhackme — Directory | asliulusoy | [Read More](https://medium.com/p/95f9b757ef9c) |
+| Tue, 07 Oct 2025 16:12:41 GMT | THE WEIGHT OF THE SMILE…. | Zahra Noor | [Read More](https://medium.com/p/99039dab50bd) |
+| Tue, 07 Oct 2025 16:04:37 GMT | PortSwigger mystery lab write-up — SQL injection: SQL injection attack, listing the database… | Hubert | [Read More](https://medium.com/p/004d5cd66078) |
+| Tue, 07 Oct 2025 15:59:53 GMT | My View on the Jr Penetration Tester Learning Path of TryHackMe | Tauseef Ahmed | [Read More](https://medium.com/p/803a3b7afbe8) |
+| Tue, 07 Oct 2025 15:54:58 GMT | How to build a step‑by‑step Home Hacking lab for learning Kali Linux,  vulnerable VMs? | ChennaKeshava | [Read More](https://medium.com/p/266001bb2227) |
+| Tue, 07 Oct 2025 15:54:43 GMT | Building the Leading Open-Source Pentesting Agent: Architecture Lessons from XBOW Benchmark | Aaron Brown | [Read More](https://medium.com/p/f6874f932ca4) |
+| Tue, 07 Oct 2025 15:51:54 GMT | VulnNet : Node Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/8beceb782ce1) |
+| Tue, 07 Oct 2025 15:51:34 GMT | Password Attacks HTB — Skill assessment walkthrough | Ahmad Sonji | [Read More](https://medium.com/p/c5ea2f9cd396) |
+| Tue, 07 Oct 2025 15:50:00 GMT | The Unseen Battlefield: How Understanding Cyber-Fraudsters’ Psychology Empowers Your Digital… | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/f19d75dbfbb8) |
+| Tue, 07 Oct 2025 15:49:39 GMT | Top 5 Cybersecurity Practices Every Organization Should Adopt in 2025 | Jorry Senestant | [Read More](https://medium.com/p/370b0671a892) |
+| Tue, 07 Oct 2025 15:45:29 GMT | How to build a bank p5: The file share server | Logan Elkins | [Read More](https://medium.com/p/b148f82f11bc) |
+| Tue, 07 Oct 2025 15:42:43 GMT | One Wish I Want God to Fulfill for Once. | Sophia Onuora | [Read More](https://medium.com/p/e66090ae3eb8) |
+| Tue, 07 Oct 2025 15:40:47 GMT | The Human Weakness in a Decentralised World: Phishing Attacks and Social Engineering in Web3 | Extropy.IO | [Read More](https://medium.com/p/cf76ab19ffdf) |
+| Tue, 07 Oct 2025 15:33:59 GMT | Looking to Migrate Concrete5 to WordPress? Here’s What You Should Know | Chris | [Read More](https://medium.com/p/6d42abfd9789) |
 | Tue, 07 Oct 2025 15:31:54 GMT | Comprehensive Bug Bounty Methodology Guide: Recon & Vulnerability Testing | Mike (sl0th0x87) | [Read More](https://medium.com/p/13602a12f1cb) |
 | Tue, 07 Oct 2025 15:28:52 GMT | Quick Tunnel: Local Web to Public Domain | ZAST AI | [Read More](https://medium.com/p/1c76de2e41b7) |
 | Tue, 07 Oct 2025 15:27:51 GMT | I Monitor Sleep Studies at Night... | PhantomInk | [Read More](https://medium.com/p/ad9b9d5e37f5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 12:04:56 GMT | Protecting Your Web Applications from Tor Traffic: A Deep Dive into nginx-torblocker | Rumen Damyanov | [Read More](https://medium.com/p/a7bacad1e473) |
 | Tue, 07 Oct 2025 12:04:01 GMT | The Quiet Ache of Wanting to Be Loved | Mardiana Ayu | [Read More](https://medium.com/p/0e11acd929ad) |
 | Tue, 07 Oct 2025 12:03:17 GMT | The Gentlemen Ransomware Group Profile — Part 2: Infrastructure | gm0 | [Read More](https://medium.com/p/8db71038928c) |
-| Tue, 07 Oct 2025 12:01:59 GMT | Event Security Management: Keeping Your Gathering Safe with Securycor Services | UKservices | [Read More](https://medium.com/p/543eac154669) |
-| Tue, 07 Oct 2025 11:49:44 GMT | How I Built a Daily Cybersecurity Habit From Student to Pentest Creator. | VULN-VAULT | [Read More](https://medium.com/p/51c90a75b8fb) |
-| Tue, 07 Oct 2025 11:32:45 GMT | Zero Day In Xbox Privilege Escalation Using Gaming ServiceEoP | Redfox Security | [Read More](https://medium.com/p/84f5c91a69ed) |
-| Tue, 07 Oct 2025 11:32:12 GMT | 10 Python Hacks That Made Me Look Like a Cybersecurity Pro | Muhummad Zaki | [Read More](https://medium.com/p/d5c4edb40aec) |
-| Tue, 07 Oct 2025 11:31:53 GMT | Is a Bug Bounty Program the Best Way to Find Security Threats? | Sparkle web | [Read More](https://medium.com/p/e91761bb8530) |
-| Tue, 07 Oct 2025 11:30:31 GMT | Solving the resistance problem | Erik Kvam | [Read More](https://medium.com/p/5434cb328720) |
-| Tue, 07 Oct 2025 11:29:27 GMT | The Artificial Intelligence Journey — CyberGym | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f603cf541d82) |
-| Tue, 07 Oct 2025 11:28:59 GMT | bWAPP Series: HTML Injection — Reflected (POST) — High Severity | Madhumathi chamarthi | [Read More](https://medium.com/p/1f4fb57ac3b7) |
-| Tue, 07 Oct 2025 11:28:04 GMT | Cybersecurity in Everyday Life: Why Hackers Love Your Passwords | ShwetaPrasad150 | [Read More](https://medium.com/p/680c0634968a) |
-| Tue, 07 Oct 2025 11:26:58 GMT | Token Nedir? Access ve Refresh Token’larla Modern Kimlik Doğrulama | Latest Software Developers | [Read More](https://medium.com/p/b7bdea6bdfee) |
-| Tue, 07 Oct 2025 11:25:44 GMT | Digital Experience Platform Market to Reach USD 26.54 | Rakeshnaidu | [Read More](https://medium.com/p/40ba9ce540ef) |
-| Tue, 07 Oct 2025 11:25:19 GMT | Tailored Security for Every Industry: How Barzo Secures Your Business | Travel time | [Read More](https://medium.com/p/a1923af743b9) |
-| Tue, 07 Oct 2025 11:22:15 GMT | Shopify Store Security Tips that All Owners Must Know | RH Redwan | [Read More](https://medium.com/p/1c4bd1ad8a03) |
-| Tue, 07 Oct 2025 11:12:02 GMT | Tried Amazon Macie for the First Time — Here’s What I Found | Binisha Joshi | [Read More](https://medium.com/p/36b6d7de40f1) |
-| Tue, 07 Oct 2025 11:04:31 GMT | XWorm 6.0: the return of the modular RAT and why it’s a real threat | Germano Costi | [Read More](https://medium.com/p/d57c65bfba7d) |
-| Tue, 07 Oct 2025 11:02:51 GMT | DocuBot (CyberTalents) — Exploiting an AI Summarizer via Prompt Injection | Te父cno | [Read More](https://medium.com/p/c844dff38425) |
