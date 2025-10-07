@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 14:35:23 GMT | Network Discovery Detection - TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/65384ee0e05e) |
+| Tue, 07 Oct 2025 14:35:03 GMT | Social Engineering 2025: Evolusi Manipulasi Psikologis di Dunia Digital | Handev Code | [Read More](https://medium.com/p/a42f4ce3b660) |
+| Tue, 07 Oct 2025 14:34:25 GMT | Top SASE Certifications to Prove Your Cloud Network and Security Expertise | r00tb33r | [Read More](https://medium.com/p/bbfc134830c8) |
+| Tue, 07 Oct 2025 14:34:12 GMT | Undetected Bugs and Quirks in Java: Language and JVM Pitfalls You Should Know | Hayanan | [Read More](https://medium.com/p/7652560e8e47) |
 | Tue, 07 Oct 2025 14:16:48 GMT | Part 8: (b). A Guide to Personal Information Gathering | Intelithics | [Read More](https://medium.com/p/d86e5fecb441) |
 | Tue, 07 Oct 2025 14:16:16 GMT | Hidden in Plain Sight: How the Secret Service Disrupted a Stealth Telecom Threat in New York | r00tb33r | [Read More](https://medium.com/p/abfafc39c837) |
 | Tue, 07 Oct 2025 14:14:12 GMT | Designing an Autonomous Cybersecurity Team of AIs with Mixture of Agents (MoA) — Part 1 | Alican Kiraz | [Read More](https://medium.com/p/7b7567bb08fd) |
+| Tue, 07 Oct 2025 14:11:00 GMT | School Data Protection with SentryPC: The Future of School Security & Student Safety | Paul Meyer | [Read More](https://medium.com/p/56eb7ac390c2) |
 | Tue, 07 Oct 2025 14:06:32 GMT | Security at the Core: Stalwart completes Second Security Audit | Stalwart Labs | [Read More](https://medium.com/p/9f689f2552f9) |
 | Tue, 07 Oct 2025 14:06:30 GMT | Crafting Secure Authentication Systems with NextAuth.js: A 2025 Perspective | @rnab | [Read More](https://medium.com/p/5e14112e528e) |
 | Tue, 07 Oct 2025 14:06:28 GMT | Prevention Before Detection — How Abatis Stops Malware Before It Starts | Abatis ABTU | [Read More](https://medium.com/p/7daeb2036d91) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 10:15:43 GMT | 99% of the World’s Data Runs Underwater — And It’s Becoming a Battlefield | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/cc12913d9f6f) |
 | Tue, 07 Oct 2025 10:13:50 GMT | HandsFree Security — Your Partner in Smart Protection | High | [Read More](https://medium.com/p/8cdf52576fb4) |
 | Tue, 07 Oct 2025 10:10:24 GMT | HandsFree Security — Protecting What Matters Most | High | [Read More](https://medium.com/p/0d5440f20f58) |
-| Tue, 07 Oct 2025 10:07:33 GMT | 13-Year Redis Flaw Exposed: Critical Vulnerability Allows Remote Code Execution | Jasmitharouthu | [Read More](https://medium.com/p/ae2bcf7f22e3) |
-| Tue, 07 Oct 2025 10:02:16 GMT | The AI Eavesdropper: How Voice Assistants Were Secretly Recording Everything for My Server | Iski | [Read More](https://medium.com/p/a2fba0235680) |
-| Tue, 07 Oct 2025 10:01:00 GMT | Drosera - The Automation Layer Protecting DeFi from Exploits | Ife Baby | [Read More](https://medium.com/p/43d242ecfea1) |
-| Tue, 07 Oct 2025 09:59:32 GMT | Reliable IT Infrastructure Management Services In India - Trusted & Secured | Mathewneelan | [Read More](https://medium.com/p/4e57838473c6) |
-| Tue, 07 Oct 2025 09:57:55 GMT | TryHackMe #100 - Retracted | SiberYuk | [Read More](https://medium.com/p/2f28ed220e07) |
