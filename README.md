@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 23:30:35 GMT | The Apologies I Never Learned to Say | Darpan Murly | [Read More](https://medium.com/p/1134848a4bef) |
+| Tue, 07 Oct 2025 23:22:11 GMT | Columnar Storage Extensions for PostgreSQL: Accelerating AI Analytics Securely | Rizqi Mulki | [Read More](https://medium.com/p/658c3e5a126b) |
+| Tue, 07 Oct 2025 23:19:02 GMT | Beyond the Second Factor: How MFA Is Failing the Human Mind | Travis Ray Caverhill | [Read More](https://medium.com/p/25ee0d16964f) |
+| Tue, 07 Oct 2025 23:18:05 GMT | The Browser That Thinks and Lies | Czarif | [Read More](https://medium.com/p/a64db73669d3) |
 | Tue, 07 Oct 2025 23:13:36 GMT | Incident Snapshot Toolkit: Automating Evidence Capture for Small Ops | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3d709bd4d1ba) |
 | Tue, 07 Oct 2025 22:57:30 GMT | Obtaining session cookies via XSS (Netcat edition) | Ends2Tech | [Read More](https://medium.com/p/8e09f1ffc69d) |
 | Tue, 07 Oct 2025 22:47:01 GMT | “ Irish-Name-Repo “ Challenges | oussama | [Read More](https://medium.com/p/288413050956) |
@@ -109,7 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 17:34:20 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/1c655783720a) |
 | Tue, 07 Oct 2025 17:28:26 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/83ff9664fb2f) |
 | Tue, 07 Oct 2025 17:25:28 GMT | SNMP Analysis | Dharmendrakumar | [Read More](https://medium.com/p/00c7af1e801e) |
-| Tue, 07 Oct 2025 17:22:00 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b0eff5d0bc22) |
-| Tue, 07 Oct 2025 17:21:14 GMT | The Quantum Threat is Real: AWS’s Plan and your action | Rachana Gupta | [Read More](https://medium.com/p/6e27d04deb99) |
-| Tue, 07 Oct 2025 17:20:03 GMT | This Week in Resilience | Sherilyn Burris | [Read More](https://medium.com/p/652d58272633) |
-| Tue, 07 Oct 2025 17:19:31 GMT | Hidden Secrets: Advanced Google Dorking on GitHub’s raw.githubusercontent.com | Abba Abdullahi Wakili | [Read More](https://medium.com/p/675374870756) |
