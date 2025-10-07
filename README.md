@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 22:13:04 GMT | Domain Capture: The Case for Apple Business Manager in Every Business | Drew Smith | [Read More](https://medium.com/p/c56694018243) |
+| Tue, 07 Oct 2025 22:12:21 GMT | Why spend the time and effort to break into a data center when you can just unplug it from the… | Paul M Jankowski | [Read More](https://medium.com/p/2f8c02928f97) |
+| Tue, 07 Oct 2025 22:08:47 GMT | The Future of AI and Security Forces in Data Centers: Building the Digital Fort Knox | Paul M Jankowski | [Read More](https://medium.com/p/6ce5c33f0498) |
+| Tue, 07 Oct 2025 22:06:29 GMT | Mastering Authentication with Advanced NextAuth.js Techniques | @rnab | [Read More](https://medium.com/p/9b614d6b87fe) |
+| Tue, 07 Oct 2025 21:54:45 GMT | Po diabła mi ta ‘komunikacja’ w IT?!” | Dariusz Wardega | [Read More](https://medium.com/p/b5d806075013) |
+| Tue, 07 Oct 2025 21:52:46 GMT | Strengthening Modern Businesses with Comprehensive Security Solutions | Fortnexs Shield | [Read More](https://medium.com/p/0e8eb69de584) |
+| Tue, 07 Oct 2025 21:49:21 GMT | Nothing to Something: My First Homelab Journey | Jarrielle Gathers | [Read More](https://medium.com/p/ca34942f8acd) |
+| Tue, 07 Oct 2025 21:48:48 GMT | Part 9: From backyard to battlefield, Software & Autonomy. | Pipeline | [Read More](https://medium.com/p/9e62b12a35ce) |
+| Tue, 07 Oct 2025 21:46:51 GMT | Title: "The New Geopolitics of Innovation: When Vision Becomes Power" | Abdoul Sadam Idrissou | [Read More](https://medium.com/p/d03c853c6319) |
+| Tue, 07 Oct 2025 21:44:16 GMT | Before You Buy That AI Security Solution… Ask These 5 Hard Questions | Cyber-AppSec | [Read More](https://medium.com/p/b827e6fc3f36) |
+| Tue, 07 Oct 2025 21:39:17 GMT | How to Report a Vulnerability When the Company Has No Responsible Disclosure Policy | 1day | [Read More](https://medium.com/p/9c729e56d328) |
+| Tue, 07 Oct 2025 21:33:45 GMT | Abuser Stories: Shipping More Secure Apps Without Full Threat Modeling | y33tz | [Read More](https://medium.com/p/76ab1a43ea2a) |
+| Tue, 07 Oct 2025 21:32:32 GMT | What Is an LLM Pentest and Why You Need One | QueryLock | [Read More](https://medium.com/p/52f254a0bb39) |
 | Tue, 07 Oct 2025 21:31:26 GMT | Top 10 Cybersecurity Mistakes Everyone Makes Without Knowing | Kakashi | [Read More](https://medium.com/p/8198652c3329) |
 | Tue, 07 Oct 2025 21:21:39 GMT | The Future of AI Cybersecurity: 7 Trends Shaping the Next Digital Battlefield | Roger Millar | [Read More](https://medium.com/p/235294134c81) |
 | Tue, 07 Oct 2025 21:20:54 GMT | English Is Full of Bugs | acweaver | [Read More](https://medium.com/p/a80b290d13c4) |
@@ -100,16 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 16:55:50 GMT | 7 Under-the-Radar GitHub Repos Every Hacker Should Star (2025 Final Version) | Andrei Ivan | [Read More](https://medium.com/p/dbcecbd2602e) |
 | Tue, 07 Oct 2025 16:54:57 GMT | Critical Vulnerabilities in Chaos Mesh Enable Complete Kubernetes Takeover | Simardeep Singh | [Read More](https://medium.com/p/5d4462fbd554) |
 | Tue, 07 Oct 2025 16:52:23 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/c35756267dd2) |
-| Tue, 07 Oct 2025 16:50:15 GMT | Are you vibing in the the right way ? | Avinash Kumar | [Read More](https://medium.com/p/2e030fb11629) |
-| Tue, 07 Oct 2025 16:46:06 GMT | Cyber Security for Small Businesses | Cyber Security Research | [Read More](https://medium.com/p/3e4caf0311cc) |
-| Tue, 07 Oct 2025 16:39:46 GMT | Understanding Open-Source Licenses: From MIT to GPL and Beyond | Natarajan C K | [Read More](https://medium.com/p/06d966d09217) |
-| Tue, 07 Oct 2025 16:38:20 GMT | That “Why Is My Data Missing?” Moment — A Lesson from a Singleton Bug | Sajal Mahata | [Read More](https://medium.com/p/364031445f4d) |
-| Tue, 07 Oct 2025 16:36:52 GMT | Everyday Apps Hackers Love to Exploit (And How to Protect Yours) | Aj | [Read More](https://medium.com/p/4e41c0c5f70f) |
-| Tue, 07 Oct 2025 16:29:15 GMT | 100 Days of Cybersecurity Week 1 Recap | Denise Sophy | [Read More](https://medium.com/p/c8da01dcc50e) |
-| Tue, 07 Oct 2025 16:27:22 GMT | ️ SOC Fundamentals — The Heart of Cyber Defense | Asif.k | [Read More](https://medium.com/p/64d2511e4888) |
-| Tue, 07 Oct 2025 16:24:06 GMT | Kiple Data Breach: The Incident That Reinforces My Passion for Information Security | Rue | [Read More](https://medium.com/p/b8904a8be42b) |
-| Tue, 07 Oct 2025 16:20:28 GMT | A Methodical Playbook for Bug Bounty Hunting: Strategy > Noise | Đeepanshu | [Read More](https://medium.com/p/7de776461063) |
-| Tue, 07 Oct 2025 16:16:33 GMT | Empowering Defenders: How Better Tools Create Better Security Teams | Eric Zietlow | [Read More](https://medium.com/p/80af7eee3dd0) |
-| Tue, 07 Oct 2025 16:14:57 GMT | Enhancing technology enhancing crime' | souvik Das | [Read More](https://medium.com/p/7c9b5530fd7a) |
-| Tue, 07 Oct 2025 16:13:36 GMT | Tryhackme — Directory | asliulusoy | [Read More](https://medium.com/p/95f9b757ef9c) |
-| Tue, 07 Oct 2025 16:12:41 GMT | THE WEIGHT OF THE SMILE…. | Zahra Noor | [Read More](https://medium.com/p/99039dab50bd) |
