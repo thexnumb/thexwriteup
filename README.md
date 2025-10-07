@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 17:17:38 GMT | How To Build BAD API’s | API Expert | [Read More](https://medium.com/p/1d8ea82f67b8) |
+| Tue, 07 Oct 2025 17:15:35 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/b632c784a532) |
+| Tue, 07 Oct 2025 17:10:08 GMT | Visible Error-Based SQL Injection | Marduk I Am | [Read More](https://medium.com/p/2deb4b77ac64) |
+| Tue, 07 Oct 2025 17:03:38 GMT | Airtel Business Secures Railways Cybersecurity Contract, AI, 24/7 Protection and Sovereign Tech in… | Avijitdey | [Read More](https://medium.com/p/b692275435a5) |
+| Tue, 07 Oct 2025 17:00:11 GMT | I have been in security since 1986, locksmith and still sell locks and hardware. | A.Walsh | [Read More](https://medium.com/p/9fb67a9a6f61) |
+| Tue, 07 Oct 2025 16:55:50 GMT | 7 Under-the-Radar GitHub Repos Every Hacker Should Star (2025 Final Version) | Andrei Ivan | [Read More](https://medium.com/p/dbcecbd2602e) |
+| Tue, 07 Oct 2025 16:54:57 GMT | Critical Vulnerabilities in Chaos Mesh Enable Complete Kubernetes Takeover | Simardeep Singh | [Read More](https://medium.com/p/5d4462fbd554) |
+| Tue, 07 Oct 2025 16:52:23 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/c35756267dd2) |
+| Tue, 07 Oct 2025 16:50:15 GMT | Are you vibing in the the right way ? | Avinash Kumar | [Read More](https://medium.com/p/2e030fb11629) |
 | Tue, 07 Oct 2025 16:46:06 GMT | Cyber Security for Small Businesses | Cyber Security Research | [Read More](https://medium.com/p/3e4caf0311cc) |
 | Tue, 07 Oct 2025 16:39:46 GMT | Understanding Open-Source Licenses: From MIT to GPL and Beyond | Natarajan C K | [Read More](https://medium.com/p/06d966d09217) |
+| Tue, 07 Oct 2025 16:38:20 GMT | That “Why Is My Data Missing?” Moment — A Lesson from a Singleton Bug | Sajal Mahata | [Read More](https://medium.com/p/364031445f4d) |
+| Tue, 07 Oct 2025 16:36:52 GMT | Everyday Apps Hackers Love to Exploit (And How to Protect Yours) | Aj | [Read More](https://medium.com/p/4e41c0c5f70f) |
 | Tue, 07 Oct 2025 16:29:15 GMT | 100 Days of Cybersecurity Week 1 Recap | Denise Sophy | [Read More](https://medium.com/p/c8da01dcc50e) |
 | Tue, 07 Oct 2025 16:27:22 GMT | ️ SOC Fundamentals — The Heart of Cyber Defense | Asif.k | [Read More](https://medium.com/p/64d2511e4888) |
 | Tue, 07 Oct 2025 16:24:06 GMT | Kiple Data Breach: The Incident That Reinforces My Passion for Information Security | Rue | [Read More](https://medium.com/p/b8904a8be42b) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 12:49:25 GMT | The Impact of AI on Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/b3074392f1cf) |
 | Tue, 07 Oct 2025 12:48:59 GMT | Tesladigital.us Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/fac710c1830d) |
 | Tue, 07 Oct 2025 12:45:21 GMT | What Happens to Your Hard Drives After We Destroy Them? | BioNew USA | [Read More](https://medium.com/p/9454a2f18749) |
-| Tue, 07 Oct 2025 12:44:08 GMT | Python Playground:TryHackMe Writeup WalkThrough | Umer | [Read More](https://medium.com/p/d1faa0e48cf3) |
-| Tue, 07 Oct 2025 12:41:26 GMT | Perimeter Breach — Inside CVE-2025–20362 & CVE-2025–20333 | gm0 | [Read More](https://medium.com/p/8f5268f08604) |
-| Tue, 07 Oct 2025 12:40:16 GMT | How to Reset a Garage Door Opener After Pulling the Red Cord: Step-by-Step Guide | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/90cd8f010d7f) |
-| Tue, 07 Oct 2025 12:33:02 GMT | Is Xplivetrade.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/c54e1df1d9a2) |
-| Tue, 07 Oct 2025 12:31:24 GMT | Can You Trust Bitexone.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/fcde004a729d) |
-| Tue, 07 Oct 2025 12:28:05 GMT | BGP Hijacking Attacks: Manipulating the Routing of the Internet | Esra Kayhan | [Read More](https://medium.com/p/4d4082b4b43e) |
-| Tue, 07 Oct 2025 12:27:57 GMT | Xcrypto.global Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/fad428f461c2) |
-| Tue, 07 Oct 2025 12:25:51 GMT | Is Wap.yspacrypto.co Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/0ac5cc1f43d2) |
-| Tue, 07 Oct 2025 12:25:38 GMT | Why Mobile Application Pentesting Matters: Risks & ROI | Digital Defense | [Read More](https://medium.com/p/d213065376f9) |
-| Tue, 07 Oct 2025 12:24:28 GMT | DIY Tech Gadgets for the Creative and Curious Mind | Zulu Innocent | [Read More](https://medium.com/p/161dd0888322) |
-| Tue, 07 Oct 2025 12:21:35 GMT | Portable Web3 Identity With idOS Network | PVMihalache | [Read More](https://medium.com/p/688b42e7aae7) |
