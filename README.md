@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 16:46:06 GMT | Cyber Security for Small Businesses | Cyber Security Research | [Read More](https://medium.com/p/3e4caf0311cc) |
+| Tue, 07 Oct 2025 16:39:46 GMT | Understanding Open-Source Licenses: From MIT to GPL and Beyond | Natarajan C K | [Read More](https://medium.com/p/06d966d09217) |
+| Tue, 07 Oct 2025 16:29:15 GMT | 100 Days of Cybersecurity Week 1 Recap | Denise Sophy | [Read More](https://medium.com/p/c8da01dcc50e) |
+| Tue, 07 Oct 2025 16:27:22 GMT | ️ SOC Fundamentals — The Heart of Cyber Defense | Asif.k | [Read More](https://medium.com/p/64d2511e4888) |
+| Tue, 07 Oct 2025 16:24:06 GMT | Kiple Data Breach: The Incident That Reinforces My Passion for Information Security | Rue | [Read More](https://medium.com/p/b8904a8be42b) |
+| Tue, 07 Oct 2025 16:20:28 GMT | A Methodical Playbook for Bug Bounty Hunting: Strategy > Noise | Đeepanshu | [Read More](https://medium.com/p/7de776461063) |
 | Tue, 07 Oct 2025 16:16:33 GMT | Empowering Defenders: How Better Tools Create Better Security Teams | Eric Zietlow | [Read More](https://medium.com/p/80af7eee3dd0) |
 | Tue, 07 Oct 2025 16:14:57 GMT | Enhancing technology enhancing crime' | souvik Das | [Read More](https://medium.com/p/7c9b5530fd7a) |
 | Tue, 07 Oct 2025 16:13:36 GMT | Tryhackme — Directory | asliulusoy | [Read More](https://medium.com/p/95f9b757ef9c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 12:25:38 GMT | Why Mobile Application Pentesting Matters: Risks & ROI | Digital Defense | [Read More](https://medium.com/p/d213065376f9) |
 | Tue, 07 Oct 2025 12:24:28 GMT | DIY Tech Gadgets for the Creative and Curious Mind | Zulu Innocent | [Read More](https://medium.com/p/161dd0888322) |
 | Tue, 07 Oct 2025 12:21:35 GMT | Portable Web3 Identity With idOS Network | PVMihalache | [Read More](https://medium.com/p/688b42e7aae7) |
-| Tue, 07 Oct 2025 12:16:50 GMT | Is Voex.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/a0b8c51daa9c) |
-| Tue, 07 Oct 2025 12:14:52 GMT | Technology: The Fifth Pillar of Risk Mitigation in Supply Chain and Transportation | Demitri Malinski | [Read More](https://medium.com/p/ce4bb40f1391) |
-| Tue, 07 Oct 2025 12:08:57 GMT | What Investors Expect from Modern Fund Administrators | Annumaurya | [Read More](https://medium.com/p/cc7db33fb3a8) |
-| Tue, 07 Oct 2025 12:04:56 GMT | Protecting Your Web Applications from Tor Traffic: A Deep Dive into nginx-torblocker | Rumen Damyanov | [Read More](https://medium.com/p/a7bacad1e473) |
-| Tue, 07 Oct 2025 12:04:01 GMT | The Quiet Ache of Wanting to Be Loved | Mardiana Ayu | [Read More](https://medium.com/p/0e11acd929ad) |
-| Tue, 07 Oct 2025 12:03:17 GMT | The Gentlemen Ransomware Group Profile — Part 2: Infrastructure | gm0 | [Read More](https://medium.com/p/8db71038928c) |
