@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 15:17:51 GMT | How I Locked Out Every Owner and Admin in the Organization with a Single Request | 0xSOM3A | [Read More](https://medium.com/p/0de425cddb5b) |
+| Tue, 07 Oct 2025 15:16:28 GMT | Beyond the Patchwork: Why Cybersecurity Needs Holistic Context, Not More Tools | Eric Zietlow | [Read More](https://medium.com/p/c6fb0ed54293) |
+| Tue, 07 Oct 2025 15:16:27 GMT | Hit a Milestone: 100+ Published Articles on Medium! | Inayat Hussain | [Read More](https://medium.com/p/3260118a2860) |
+| Tue, 07 Oct 2025 15:15:47 GMT | Running With Alphas in Heels | Maisha Taranum | [Read More](https://medium.com/p/433cd45a531a) |
+| Tue, 07 Oct 2025 15:02:18 GMT | “Beyond the Front Door: Uncovering Hidden Web Vulnerabilities in Email Servers and WAFs” | Aman Sharma | [Read More](https://medium.com/p/6801ebd2e881) |
+| Tue, 07 Oct 2025 15:00:08 GMT | How Ransomware Works (And How to Avoid Becoming a Victim) | Aj | [Read More](https://medium.com/p/9a8ca6eb0726) |
+| Tue, 07 Oct 2025 14:57:27 GMT | Investigating the Bustabit API and all of it’s mysteries | biscoff_ice_cream | [Read More](https://medium.com/p/4f285fee0e5a) |
+| Tue, 07 Oct 2025 14:56:04 GMT | A Case Study on iOS Forensics: Virtual Image Analysis with iLEAPP | Emre Karatay | [Read More](https://medium.com/p/c2d22435854c) |
+| Tue, 07 Oct 2025 14:50:50 GMT | Vulnerability Scanner Overview - THM | Isiah | [Read More](https://medium.com/p/e7bd24ead55b) |
+| Tue, 07 Oct 2025 14:50:38 GMT | My First Steps with FastAPI: Building a Social Media App (PART 3) | Joseph Fagbemi | [Read More](https://medium.com/p/315832f5a77b) |
+| Tue, 07 Oct 2025 14:49:44 GMT | Day 7: Beyond the Desktop: Securing Every Device, Everywhere | aysha | [Read More](https://medium.com/p/9c246200c2d1) |
+| Tue, 07 Oct 2025 14:47:34 GMT | The Day I Accidentally Hacked Myself: And What It Taught Me About Cybersecurity | Fateyaly | [Read More](https://medium.com/p/78bd9581799a) |
+| Tue, 07 Oct 2025 14:41:42 GMT | If Life Won’t Be Gentle With You, Then At Least Be Gentle With Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/d5a550f88a2c) |
 | Tue, 07 Oct 2025 14:35:23 GMT | Network Discovery Detection - TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/65384ee0e05e) |
 | Tue, 07 Oct 2025 14:35:03 GMT | Social Engineering 2025: Evolusi Manipulasi Psikologis di Dunia Digital | Handev Code | [Read More](https://medium.com/p/a42f4ce3b660) |
 | Tue, 07 Oct 2025 14:34:25 GMT | Top SASE Certifications to Prove Your Cloud Network and Security Expertise | r00tb33r | [Read More](https://medium.com/p/bbfc134830c8) |
 | Tue, 07 Oct 2025 14:34:12 GMT | Undetected Bugs and Quirks in Java: Language and JVM Pitfalls You Should Know | Hayanan | [Read More](https://medium.com/p/7652560e8e47) |
+| Tue, 07 Oct 2025 14:30:36 GMT | Operadores na Tanssi: A Espinha Dorsal da Segurança Baseada em ETH para as L1s | IsaLeal | [Read More](https://medium.com/p/caabc8577876) |
 | Tue, 07 Oct 2025 14:16:48 GMT | Part 8: (b). A Guide to Personal Information Gathering | Intelithics | [Read More](https://medium.com/p/d86e5fecb441) |
 | Tue, 07 Oct 2025 14:16:16 GMT | Hidden in Plain Sight: How the Secret Service Disrupted a Stealth Telecom Threat in New York | r00tb33r | [Read More](https://medium.com/p/abfafc39c837) |
 | Tue, 07 Oct 2025 14:14:12 GMT | Designing an Autonomous Cybersecurity Team of AIs with Mixture of Agents (MoA) — Part 1 | Alican Kiraz | [Read More](https://medium.com/p/7b7567bb08fd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 10:54:19 GMT | Puerto Rico’s Imperative Hour: Why Statehood as the 51st Star is Essential for American Security… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/aae43887e3da) |
 | Tue, 07 Oct 2025 10:51:46 GMT | NAKIVO Announces: v11.1 Released and Available for Download | NAKIVO | [Read More](https://medium.com/p/6b232a58d03d) |
 | Tue, 07 Oct 2025 10:43:57 GMT | DockerLabs Writeup — UserSearch (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/793debe4ccba) |
-| Tue, 07 Oct 2025 10:43:53 GMT | “Think Before You Paste: The Hidden Cost of Sharing Sensitive Info with AI” | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/ce923f213386) |
-| Tue, 07 Oct 2025 10:43:43 GMT | Masterminds (with Brim) [SOC] #6 | D4m.sh | [Read More](https://medium.com/p/34081f6d2778) |
-| Tue, 07 Oct 2025 10:34:46 GMT | These Python Libraries Made My Terminal Feel Like a Hacker’s Playground | Arfa | [Read More](https://medium.com/p/6a414fd89efa) |
-| Tue, 07 Oct 2025 10:33:07 GMT | WHATSAPP Onetime photo video saving. | Cyber World | [Read More](https://medium.com/p/99bca709f1f4) |
-| Tue, 07 Oct 2025 10:31:24 GMT | The One Cybersecurity Rule That Protects 90% of People (But Almost No One Follows) | Arfa | [Read More](https://medium.com/p/1cce63052c84) |
-| Tue, 07 Oct 2025 10:30:42 GMT | CVE-2025–11293: Belkin Router Vulnerable to Buffer Overflow — Are You at Risk? | CVEHUB | [Read More](https://medium.com/p/0b9667ce5431) |
-| Tue, 07 Oct 2025 10:22:10 GMT | Cloud Security Training in Saudi Arabia: AWS, Azure & Google Cloud Skills | Chetan R. | [Read More](https://medium.com/p/f2c411e5e324) |
-| Tue, 07 Oct 2025 10:20:03 GMT | Cybersecurity Isn’t Just for Experts — It’s for Everyone Who Lives Online | VidyaRao008 | [Read More](https://medium.com/p/9dd2055ce12b) |
-| Tue, 07 Oct 2025 10:19:09 GMT | ELK SIEM Lab 1.2 — Configuring Agent Policies and Integrations | Azhariqbal | [Read More](https://medium.com/p/1d269d8fb951) |
-| Tue, 07 Oct 2025 10:18:25 GMT | HandsFree Security — Innovative Protection for Every Property | High | [Read More](https://medium.com/p/db1f81fd9d03) |
-| Tue, 07 Oct 2025 10:16:59 GMT | Automate Your Desktop with Python Using PyAutoGUI | Balki Maharaj | [Read More](https://medium.com/p/3b8b29f45057) |
-| Tue, 07 Oct 2025 10:15:43 GMT | 99% of the World’s Data Runs Underwater — And It’s Becoming a Battlefield | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/cc12913d9f6f) |
-| Tue, 07 Oct 2025 10:13:50 GMT | HandsFree Security — Your Partner in Smart Protection | High | [Read More](https://medium.com/p/8cdf52576fb4) |
-| Tue, 07 Oct 2025 10:10:24 GMT | HandsFree Security — Protecting What Matters Most | High | [Read More](https://medium.com/p/0d5440f20f58) |
