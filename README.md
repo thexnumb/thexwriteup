@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 05:04:26 GMT | India’s deterrence in a Cyber Civilisation | Isha Paroha Pandey | [Read More](https://medium.com/p/bfcf7ee852bc) |
+| Tue, 07 Oct 2025 05:03:04 GMT | Cybersecurity in Python: Building Secure Apps with Cryptography Libraries | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/233adcbd3a04) |
+| Tue, 07 Oct 2025 05:02:15 GMT | From Active Directory to IAM: Escaping the Chaos of Legacy Identity Management | Khalid Hussain | [Read More](https://medium.com/p/d5b6f788fed3) |
+| Tue, 07 Oct 2025 04:57:55 GMT | Electronic Shelf Labels Market Size, Share, Growth and Forecast [2025–2032] | rahul salunkhe | [Read More](https://medium.com/p/a2d0845f0d70) |
+| Tue, 07 Oct 2025 04:56:33 GMT | Migrating to PostgreSQL 18: Performance Gains and Breaking Changes | Rizqi Mulki | [Read More](https://medium.com/p/291c55f79012) |
+| Tue, 07 Oct 2025 04:56:11 GMT | Smart Education and Learning Market Size, Trends, Growth and Forecast [2025–2032] | rahul salunkhe | [Read More](https://medium.com/p/fe089d75c12f) |
+| Tue, 07 Oct 2025 04:53:00 GMT | Is Ethical Hacking Dead? | Shahzaib | [Read More](https://medium.com/p/8810b9412184) |
+| Tue, 07 Oct 2025 04:49:19 GMT | “Everything’s Legit… Until It Isn’t”: Inside a Fintech Hustle with Toby | Internet Exposed | [Read More](https://medium.com/p/0ae51035ebed) |
+| Tue, 07 Oct 2025 04:39:56 GMT | The Psychology of Hacking: How Hackers Think — and Why It Works | IamPreth | [Read More](https://medium.com/p/3818ffa9fc63) |
 | Tue, 07 Oct 2025 04:37:54 GMT | Cybersecurity Isn’t Optional Anymore — Ignore It and Risk Extinction | Rizqi Mulki | [Read More](https://medium.com/p/017445252269) |
 | Tue, 07 Oct 2025 04:32:09 GMT | , ’    ? | Ankit Patel | [Read More](https://medium.com/p/cd2686f4f6fe) |
 | Tue, 07 Oct 2025 04:31:08 GMT | Tentang HOKIKU88 | HOKIKU88 | [Read More](https://medium.com/p/e4fdab26d523) |
+| Tue, 07 Oct 2025 04:29:56 GMT | How Under-Vehicle Mirrors Enhance Security in Fire-Prone Areas | Firexsafety | [Read More](https://medium.com/p/830bc04d2995) |
 | Tue, 07 Oct 2025 04:29:32 GMT | Why Cyber Resilience Must Start with People! | Dale Jenkins | [Read More](https://medium.com/p/dd7134fbe836) |
 | Tue, 07 Oct 2025 04:22:33 GMT | Can I Haz Root? :: Pennyworth | Cyber Grover ‍ | [Read More](https://medium.com/p/8e0ead5e0797) |
 | Tue, 07 Oct 2025 04:21:28 GMT | Fastly Subdomain Takeover leading to $$$$ Bounty Reward | Sohail Ahmed | [Read More](https://medium.com/p/5fff711d0518) |
@@ -64,6 +74,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 23:10:38 GMT | When Integrity Collides with Bureaucracy: The Price of Leadership in Cybersecurity — and Why… | Taher Amine ELHOUARI | [Read More](https://medium.com/p/d5398c35d740) |
 | Mon, 06 Oct 2025 22:54:05 GMT | How I built a Phishing Website Detection Model Using Machine Learning | Rohith Srinivasa | [Read More](https://medium.com/p/4c7ae2871140) |
 | Mon, 06 Oct 2025 22:44:34 GMT | HYPERINDEPENDENCE | Ayotomide Osunlola | [Read More](https://medium.com/p/0ed32dd6a38f) |
+| Mon, 06 Oct 2025 22:34:25 GMT | Belonging in OCD | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/48881aa4c0ea) |
 | Mon, 06 Oct 2025 22:30:17 GMT | IDS Fundamentals - THM | Isiah | [Read More](https://medium.com/p/87d48f183dac) |
 | Mon, 06 Oct 2025 22:27:19 GMT | How to compile VulnHub’s x86_64 Boxes on an Apple Silicon Mac | Kyo | [Read More](https://medium.com/p/4e8b7f5fed6f) |
 | Mon, 06 Oct 2025 22:26:28 GMT | Figma 2025: Redefining the Future of Collaborative Design | Jack Melo | [Read More](https://medium.com/p/49969619c939) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 19:46:47 GMT | GraphQL Security Checklist: Find Hidden Endpoints, Prevent Brute-Force and CSRF | PyUs3r | [Read More](https://medium.com/p/7716e619d803) |
 | Mon, 06 Oct 2025 19:45:34 GMT | Beyond the Exploit: Architecting Real-World Red Team Ops | Muhammad Ali | [Read More](https://medium.com/p/c47fffea5a09) |
 | Mon, 06 Oct 2025 19:34:48 GMT | OpenSSL in Python: Disk and File Ciphering | Mi'kail Eli'yah | [Read More](https://medium.com/p/3fe7aa282156) |
-| Mon, 06 Oct 2025 19:30:34 GMT | You are so DEAD | Emad Dehnavi | [Read More](https://medium.com/p/e7d0d6aa5b45) |
-| Mon, 06 Oct 2025 19:23:39 GMT | Griffin AI, Nemo, BetterBank: $10.6M | Olympix | [Read More](https://medium.com/p/cc167536e774) |
-| Mon, 06 Oct 2025 19:21:36 GMT | SOC 2 Type I: Building the Foundation of Trust | Rachid Abadli | [Read More](https://medium.com/p/5584a001daf1) |
-| Mon, 06 Oct 2025 19:20:08 GMT | Beyond the Code: A 4-Step Strategy to Land Your First Cybersecurity Job | orioninsist | [Read More](https://medium.com/p/b67d899454e5) |
-| Mon, 06 Oct 2025 19:12:48 GMT | Mastering Cloud Security with AWS IAM — Project | John T.C. Idundun | [Read More](https://medium.com/p/56609265b29d) |
-| Mon, 06 Oct 2025 19:06:37 GMT | I was supposed to be a doctor, not a writer. | Raquell Mira | [Read More](https://medium.com/p/f8869e7a9d88) |
-| Mon, 06 Oct 2025 19:00:20 GMT | Fortinet FortiEDR | SAM Romania | [Read More](https://medium.com/p/224c656f9fad) |
-| Mon, 06 Oct 2025 18:57:00 GMT | Tryhackme — Volt Typhoon | asliulusoy | [Read More](https://medium.com/p/1cd43b63e818) |
-| Mon, 06 Oct 2025 18:53:16 GMT | Certified Kubernetes Administrator P-11 Security in K8s | Samsor Rahman | [Read More](https://medium.com/p/b5e834aacee5) |
-| Mon, 06 Oct 2025 18:52:25 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/bb14c43ac7e3) |
-| Mon, 06 Oct 2025 18:48:03 GMT | APIs vulnerables: el talón de Aquiles que los hackers adoran | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/f46ce1860936) |
