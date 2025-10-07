@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 13:36:40 GMT | The Invisible Risks Costing Your Industry Millions (And How AI-Powered Visual Oversight Fixes Them) | Tec-Tel Communications | [Read More](https://medium.com/p/2e806fd449b4) |
+| Tue, 07 Oct 2025 13:36:03 GMT | Authentication (sorry, no whitepaper for you) | Alex Smirnoff | [Read More](https://medium.com/p/4a46f7f4ff4b) |
+| Tue, 07 Oct 2025 13:29:21 GMT | Think Like a Hacker, Defend Like a Pro: Benchmark Your Cybersecurity Expertise | Benda Infotech | [Read More](https://medium.com/p/7b1ddaca1cb1) |
 | Tue, 07 Oct 2025 13:29:08 GMT | Start with Security, End with Confidence | Global Technology | [Read More](https://medium.com/p/17e64defe962) |
 | Tue, 07 Oct 2025 13:27:58 GMT | How to Bypass File Upload Restrictions | Ibtissam hammadi | [Read More](https://medium.com/p/d4b1e4c1b5d2) |
+| Tue, 07 Oct 2025 13:26:50 GMT | The Gentlemen Ransomware Group Profile — Part 3: Operations | gm0 | [Read More](https://medium.com/p/144eefa59d8a) |
 | Tue, 07 Oct 2025 13:25:47 GMT | Client-Side Desync: Breaking the Sequence | Geni_Wazir | [Read More](https://medium.com/p/afe010e76f9b) |
+| Tue, 07 Oct 2025 13:24:27 GMT | Why I Always Isolate Critical Services with systemd Sandboxing | Faruk Ahmed | [Read More](https://medium.com/p/cde49b33ab59) |
 | Tue, 07 Oct 2025 13:22:59 GMT | Why Network and System Misconfigurations Lead to Catastrophic Breaches | IT_Engineer | [Read More](https://medium.com/p/5105c5b65678) |
 | Tue, 07 Oct 2025 13:19:47 GMT | Building the Future of Solidity with Drosera | npccrypto | [Read More](https://medium.com/p/1b2e39551681) |
 | Tue, 07 Oct 2025 13:18:07 GMT | Why Re Audits Every Line: Our Security-First Infrastructure | Re | [Read More](https://medium.com/p/fc4ede8166c8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 09:29:24 GMT | ประจำวันอังคารที่ 7 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3c9d4de33df1) |
 | Tue, 07 Oct 2025 09:27:52 GMT | TryHackMe #97 - Osquery: The Basics | SiberYuk | [Read More](https://medium.com/p/9df40c433e26) |
 | Tue, 07 Oct 2025 09:24:42 GMT | Outsourcing Compliance: A Game-Changer for CISOs Navigating Multi-Framework Environments | CyRAACS | [Read More](https://medium.com/p/f25904ed0cc1) |
-| Tue, 07 Oct 2025 09:24:24 GMT | How I hacked British Airlines (Live Bug Bounty Hunting) | Jackson Mittag | [Read More](https://medium.com/p/956720db6d87) |
-| Tue, 07 Oct 2025 09:22:06 GMT | Old Bugs Die Hard: Exploiting the ParaSwap AugustusV6 Vulnerability with a Fake Uniswap V3 Pool | Evgenii | [Read More](https://medium.com/p/1eecdc320cc8) |
-| Tue, 07 Oct 2025 09:19:03 GMT | From Interview Task to Open Source Success: A Creator’s Tale | Roman Voloboev | [Read More](https://medium.com/p/eba2d44489ed) |
-| Tue, 07 Oct 2025 09:18:48 GMT | Safeguarding the Nation: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/77ed35866fee) |
-| Tue, 07 Oct 2025 09:18:04 GMT | The Reality Check: Why Provenance Matters More Than Ever | Lauri Korpela | [Read More](https://medium.com/p/3042d220ffd2) |
