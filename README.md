@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 14:16:48 GMT | Part 8: (b). A Guide to Personal Information Gathering | Intelithics | [Read More](https://medium.com/p/d86e5fecb441) |
+| Tue, 07 Oct 2025 14:16:16 GMT | Hidden in Plain Sight: How the Secret Service Disrupted a Stealth Telecom Threat in New York | r00tb33r | [Read More](https://medium.com/p/abfafc39c837) |
+| Tue, 07 Oct 2025 14:14:12 GMT | Designing an Autonomous Cybersecurity Team of AIs with Mixture of Agents (MoA) — Part 1 | Alican Kiraz | [Read More](https://medium.com/p/7b7567bb08fd) |
+| Tue, 07 Oct 2025 14:06:32 GMT | Security at the Core: Stalwart completes Second Security Audit | Stalwart Labs | [Read More](https://medium.com/p/9f689f2552f9) |
+| Tue, 07 Oct 2025 14:06:30 GMT | Crafting Secure Authentication Systems with NextAuth.js: A 2025 Perspective | @rnab | [Read More](https://medium.com/p/5e14112e528e) |
+| Tue, 07 Oct 2025 14:06:28 GMT | Prevention Before Detection — How Abatis Stops Malware Before It Starts | Abatis ABTU | [Read More](https://medium.com/p/7daeb2036d91) |
+| Tue, 07 Oct 2025 14:04:50 GMT | From Factory Floor to Firewall: Strengthening Cybersecurity in Manufacturing | Cybersecurity Umbrella | [Read More](https://medium.com/p/7714b0b37b4b) |
+| Tue, 07 Oct 2025 14:03:50 GMT | How to prevent Ransomware Attacks on Android — By N7 Cyber Security & Private Investigation Firm | N7 Cyber Security & Private Investigation | [Read More](https://medium.com/p/8c7d61831526) |
+| Tue, 07 Oct 2025 14:02:08 GMT | How to Change a Battery in a Garage Door Opener Remote: Quick DIY Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/52b43df59d5b) |
+| Tue, 07 Oct 2025 14:02:05 GMT | Cyber Briefing: 2025.10.07 | CyberMaterial | [Read More](https://medium.com/p/b9efb5f0516e) |
+| Tue, 07 Oct 2025 14:02:04 GMT | Gemini CLI use cases for SOC Analysts | D.Haddad | [Read More](https://medium.com/p/788edfb40d3c) |
+| Tue, 07 Oct 2025 14:01:58 GMT | 4 Security Advantages of Outsourcing Hawaii Managed IT Services | Vicinity | [Read More](https://medium.com/p/2d3623866f40) |
+| Tue, 07 Oct 2025 13:59:04 GMT | Spring Room Ctf Challenge :TryHackMe CTF Writeup WalkThrough | Umer | [Read More](https://medium.com/p/7bea4f65bb3e) |
+| Tue, 07 Oct 2025 13:51:14 GMT | A short note of losing humanity… | Costa Shapiro | [Read More](https://medium.com/p/589a611357a9) |
 | Tue, 07 Oct 2025 13:36:40 GMT | The Invisible Risks Costing Your Industry Millions (And How AI-Powered Visual Oversight Fixes Them) | Tec-Tel Communications | [Read More](https://medium.com/p/2e806fd449b4) |
 | Tue, 07 Oct 2025 13:36:03 GMT | Authentication (sorry, no whitepaper for you) | Alex Smirnoff | [Read More](https://medium.com/p/4a46f7f4ff4b) |
 | Tue, 07 Oct 2025 13:29:21 GMT | Think Like a Hacker, Defend Like a Pro: Benchmark Your Cybersecurity Expertise | Benda Infotech | [Read More](https://medium.com/p/7b1ddaca1cb1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 10:01:00 GMT | Drosera - The Automation Layer Protecting DeFi from Exploits | Ife Baby | [Read More](https://medium.com/p/43d242ecfea1) |
 | Tue, 07 Oct 2025 09:59:32 GMT | Reliable IT Infrastructure Management Services In India - Trusted & Secured | Mathewneelan | [Read More](https://medium.com/p/4e57838473c6) |
 | Tue, 07 Oct 2025 09:57:55 GMT | TryHackMe #100 - Retracted | SiberYuk | [Read More](https://medium.com/p/2f28ed220e07) |
-| Tue, 07 Oct 2025 09:57:07 GMT | Empower Your Business with Managed Cloud Hosting in the USA - UK | Vishwajeettechtech | [Read More](https://medium.com/p/763352f8d19f) |
-| Tue, 07 Oct 2025 09:55:50 GMT | Şimdi ne olacak: Humanoid Çağında Soğuk Döneme Hazırlık | Ali Tan Serbetci | [Read More](https://medium.com/p/fb44094ffd15) |
-| Tue, 07 Oct 2025 09:55:08 GMT | This AI Literally Planned a Murder Here’s the Truth Behind the Viral Story | Aaron | [Read More](https://medium.com/p/f43e04f0ac88) |
-| Tue, 07 Oct 2025 09:54:48 GMT | What Makes an Embedded Device ‘Covered’ Under the EU CRA? | Epteck GmbH | [Read More](https://medium.com/p/2e779e99a07a) |
-| Tue, 07 Oct 2025 09:53:33 GMT | JSON Web Token (JWT) Vulnerabilities: Authentication Gone Wrong | Rizqi Mulki | [Read More](https://medium.com/p/48629418fbc7) |
-| Tue, 07 Oct 2025 09:52:02 GMT | How to Scrape 1 Million Websites in 1 Hour Using This Python Trick | Rizqi Mulki | [Read More](https://medium.com/p/bfb174a3b04c) |
-| Tue, 07 Oct 2025 09:44:46 GMT | Information Technology Degree Program Empowering the Future | Selinemir | [Read More](https://medium.com/p/91f3ab5a9da7) |
-| Tue, 07 Oct 2025 09:40:32 GMT | Who Keeps the Agents in Line? Governance and Safety in Multi-Agent Systems on AWS | Piyush Jalan | [Read More](https://medium.com/p/38d19d4dbdeb) |
-| Tue, 07 Oct 2025 09:40:16 GMT | Boost Your Career with a Business & Management Course in Australia! | royalinternational | [Read More](https://medium.com/p/214559743ece) |
-| Tue, 07 Oct 2025 09:39:02 GMT | New Guide: Sleep Warm on Cold Nights With Minimal Gear | Yashar Mousavand | [Read More](https://medium.com/p/ce6734855c4c) |
-| Tue, 07 Oct 2025 09:37:52 GMT | AWS IAM Best Practices 2025: Fundamentals to Advanced Security for Engineers | Ismail Kovvuru | [Read More](https://medium.com/p/05bd22b359bc) |
-| Tue, 07 Oct 2025 09:29:24 GMT | ประจำวันอังคารที่ 7 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3c9d4de33df1) |
-| Tue, 07 Oct 2025 09:27:52 GMT | TryHackMe #97 - Osquery: The Basics | SiberYuk | [Read More](https://medium.com/p/9df40c433e26) |
-| Tue, 07 Oct 2025 09:24:42 GMT | Outsourcing Compliance: A Game-Changer for CISOs Navigating Multi-Framework Environments | CyRAACS | [Read More](https://medium.com/p/f25904ed0cc1) |
