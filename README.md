@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 06:19:02 GMT | Understanding Advanced Persistent Threats (APTs) | Cyber Security Research | [Read More](https://medium.com/p/6d2584ef3918) |
+| Tue, 07 Oct 2025 06:16:02 GMT | Advanced Perimeter Intrusion Detection Systems at Oman Airports | Tekshoyabeelyas | [Read More](https://medium.com/p/f7180fb79a41) |
+| Tue, 07 Oct 2025 06:15:46 GMT | Cybersecurity Solutions for Real Estate Agencies | Renaissance Computer Services Limited | [Read More](https://medium.com/p/d0b155cec10e) |
+| Tue, 07 Oct 2025 06:12:38 GMT | The Politics of Cyber Warfare | Cyber Security Research | [Read More](https://medium.com/p/e3002d8a4323) |
+| Tue, 07 Oct 2025 06:12:34 GMT | Cybersecurity | Jane | [Read More](https://medium.com/p/d5cc42747b16) |
+| Tue, 07 Oct 2025 06:05:42 GMT | Cap ! Hack the box. | Nonsense Shin | [Read More](https://medium.com/p/c9d7f017ab4e) |
+| Tue, 07 Oct 2025 06:00:45 GMT | The Psychology of Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/ce62648c8083) |
+| Tue, 07 Oct 2025 05:57:25 GMT | Hidden API Endpoints: The Hacker’s Secret Weapon | Vipul Sonule | [Read More](https://medium.com/p/a9ee297a29c2) |
+| Tue, 07 Oct 2025 05:55:55 GMT | What Really Happens to Your Photo After You Use ‘Nanobanana’? | Ajith Kumar | [Read More](https://medium.com/p/4da55c1c1bc2) |
+| Tue, 07 Oct 2025 05:55:51 GMT | What Is the Use of Enterprise Application Integration and Why It Matters for Modern Businesses | Quadrant IT Services | [Read More](https://medium.com/p/1bb02898b03e) |
+| Tue, 07 Oct 2025 05:55:08 GMT | Managed Services Market Analysis - Emerging Technologies Driving Global Expansion | rahul salunkhe | [Read More](https://medium.com/p/faf9ace338c0) |
+| Tue, 07 Oct 2025 05:53:58 GMT | Reducing Unnecessary Losses in Banking Through Machine Learning–Based Fraud Detection | Fuad Ulhaq | [Read More](https://medium.com/p/04d91a7bc045) |
+| Tue, 07 Oct 2025 05:52:23 GMT | URGENT CYBERSECURITY ALERT: The Invisible Phishing Scam | Midhun Thomas PT | [Read More](https://medium.com/p/392fa3f96d04) |
+| Tue, 07 Oct 2025 05:51:41 GMT | A Step-by-Step Guide to JWT Authentication with Spring Security 6 | Akshay Aryan | [Read More](https://medium.com/p/df6db8cfa8f6) |
+| Tue, 07 Oct 2025 05:50:41 GMT | How a Single Signup Flaw Exposed 162,481 User Records | Ibtissam hammadi | [Read More](https://medium.com/p/070238ff9f4a) |
+| Tue, 07 Oct 2025 05:47:58 GMT | Why Removing Fake Apps Matters for Business: Guarding Your Brand Online | Ai Writter Tools | [Read More](https://medium.com/p/4c1829994a90) |
+| Tue, 07 Oct 2025 05:47:16 GMT | The Lost Glitches: A Cyberpunk Trading Card Game | Motoko Iwakura | [Read More](https://medium.com/p/c32a3c7c97f9) |
+| Tue, 07 Oct 2025 05:46:05 GMT | Cortex Cloud Code Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7fdeb1ca9744) |
+| Tue, 07 Oct 2025 05:37:01 GMT | Unpacking Security Flaws in MCP | minherz | [Read More](https://medium.com/p/570ef96b97fe) |
 | Tue, 07 Oct 2025 05:33:27 GMT | Why Small and Mid-Sized Businesses Are Prime Targets for Cyberattacks | Reghu Mohandas | [Read More](https://medium.com/p/806893e20b98) |
 | Tue, 07 Oct 2025 05:24:12 GMT | How to Guard Your Brand from Consumer Phishing Attacks | Ai Writter Tools | [Read More](https://medium.com/p/423e6b229c3b) |
 | Tue, 07 Oct 2025 05:21:36 GMT | The 3 Cybersecurity Skills That Will Make You Irreplaceable in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/f389bd4c7491) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 21:34:27 GMT | Ransomware | John Odumesi | [Read More](https://medium.com/p/e86ca2784a65) |
 | Mon, 06 Oct 2025 21:26:29 GMT | XXE (XML External Entity) Injection Explained | Mahmmoudmohamed | [Read More](https://medium.com/p/e1cc5bcddf75) |
 | Mon, 06 Oct 2025 21:24:26 GMT | When the Pen Becomes a Sword: How LLMs Are Reshaping Cybersecurity | Akshay Chauhan | [Read More](https://medium.com/p/48a68127e055) |
-| Mon, 06 Oct 2025 21:17:17 GMT | Fragility and Hope (Sukkot) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/c0976bb106b3) |
-| Mon, 06 Oct 2025 21:13:08 GMT | Part 3: intro cybersecurity | Imane Abasalah | [Read More](https://medium.com/p/1dc178a938a3) |
-| Mon, 06 Oct 2025 20:56:40 GMT | Firewall Fundamentals - THM | Isiah | [Read More](https://medium.com/p/52ee3d9bbb2f) |
-| Mon, 06 Oct 2025 20:49:35 GMT | Auto Block Website Ping Attack: Protecting Your Server from ICMP Floods | SafeAeon Inc. | [Read More](https://medium.com/p/a1d7f09a3b87) |
-| Mon, 06 Oct 2025 20:49:00 GMT | Series: Business Logic Flaws Uncovered | Yamini Yadav_369 | [Read More](https://medium.com/p/14b3bd5ee60c) |
-| Mon, 06 Oct 2025 20:48:43 GMT | The Bizarre 2025 Cyberattack That Turned a Printer Into a Weapon | Noel | [Read More](https://medium.com/p/56a97568302e) |
-| Mon, 06 Oct 2025 20:48:34 GMT | OSINT With Python: Scraping and Analyzing Public Data in 30 Minutes | Aj | [Read More](https://medium.com/p/ddd7d0d6dad8) |
-| Mon, 06 Oct 2025 20:48:29 GMT | A Beginner’s Guide to Cloud Security Posture Management (CSPM) | Samina Perveen | [Read More](https://medium.com/p/c8795ce4d175) |
-| Mon, 06 Oct 2025 20:46:39 GMT | Why Red Teaming Makes Attack Chains Visible | Luis Abreu from Cyver | [Read More](https://medium.com/p/7c9f65ef0ef3) |
-| Mon, 06 Oct 2025 20:45:53 GMT | Install an OpenTelemetry Collector on Azure Container Apps (ACA) | using System; | [Read More](https://medium.com/p/a546aa2e8190) |
-| Mon, 06 Oct 2025 20:44:23 GMT | Dancing with Windows Credential Manager | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1e16d1b20354) |
-| Mon, 06 Oct 2025 20:31:03 GMT | Pelican (Proving Grounds) Walkthrough: From Foothold to Root | Sandeepsisodiya | [Read More](https://medium.com/p/56f7bc3c370e) |
-| Mon, 06 Oct 2025 20:24:14 GMT | TryHackMe Writeup: Borderlands | Berkay AĞGÜL | [Read More](https://medium.com/p/419bc61c2751) |
-| Mon, 06 Oct 2025 20:14:24 GMT | Discord’s Third-Party Breach: A Purple Team Analysis | Cyber and Coffee | [Read More](https://medium.com/p/9e705e4d8c46) |
-| Mon, 06 Oct 2025 20:09:40 GMT | TryHackMe SQHell — Walkthrough | mauzware | [Read More](https://medium.com/p/b5a6dc903e60) |
-| Mon, 06 Oct 2025 20:04:58 GMT | The Insider Threat 2.0 — When AI Makes Leaks Unintentional. | Yash Gorasiya | [Read More](https://medium.com/p/b4d00e8c2515) |
-| Mon, 06 Oct 2025 20:03:03 GMT | Zero Trust Vendors: Leading the Future of Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/d3e3cff43eeb) |
-| Mon, 06 Oct 2025 20:02:51 GMT | OSINT Challenge in 30: Tracking a News Photo | Wraith | [Read More](https://medium.com/p/bde9fb1a9e01) |
-| Mon, 06 Oct 2025 19:55:43 GMT | TryHackMe: Monday Monitor lab walkthrough | Davenyamongo | [Read More](https://medium.com/p/adcee4397e82) |
