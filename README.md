@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 04:21:28 GMT | Fastly Subdomain Takeover leading to $$$$ Bounty Reward | Sohail Ahmed | [Read More](https://medium.com/p/5fff711d0518) |
+| Tue, 07 Oct 2025 04:16:19 GMT | When Data Becomes a Weapon: Israel’s Quiet War With Code | Mallick Speaks | [Read More](https://medium.com/p/cb16c4dbd84c) |
+| Tue, 07 Oct 2025 04:06:36 GMT | Hackers, Bjorka, and Why We Should Care | Sasono Utomo | [Read More](https://medium.com/p/ede43e7cca28) |
+| Tue, 07 Oct 2025 04:06:35 GMT | Why Human Intuition Still Outpaces AI in Cyber Defense | Lakshita Gulliya | [Read More](https://medium.com/p/c085bb8f0b42) |
+| Tue, 07 Oct 2025 04:04:08 GMT | SRE and Security Automation: Integrating Security into the Development Lifecycle | SRE Mastery | [Read More](https://medium.com/p/e282cbbf7245) |
+| Tue, 07 Oct 2025 03:38:02 GMT | 0DayWebshell Scanner Pro | ShellFinder | [Read More](https://medium.com/p/013205ce300f) |
+| Tue, 07 Oct 2025 03:32:22 GMT | The Silent Vulnerability: When Copilot’s Audit Logs Went Dark | Deven Chhajed | [Read More](https://medium.com/p/fd17c01b3671) |
 | Tue, 07 Oct 2025 03:14:40 GMT | Write-up PicoCTF: Web Exploitation ‘where are the robots’ | Muhammad Khairin | [Read More](https://medium.com/p/b7c2ac715890) |
 | Tue, 07 Oct 2025 03:02:00 GMT | Copenhagen, Oslo, Heathrow: Europe’s Airports Under Siege | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/7f846c459d63) |
 | Tue, 07 Oct 2025 03:01:55 GMT | The Courage to Be Seen: How Vulnerability Becomes Strength | KOUSUMI CHAUDHURI | [Read More](https://medium.com/p/1de1ee580e23) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 18:41:13 GMT | Crypto Laundering on the Dark Web: How Dirty Coins Become Spendable | Mathews kuruvila | [Read More](https://medium.com/p/712b8e33d7cf) |
 | Mon, 06 Oct 2025 18:40:19 GMT | HacktheBox: Forest Walkthrough | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/dbe7fd19526d) |
 | Mon, 06 Oct 2025 18:24:14 GMT | Tryhackme - Source Türkçe Anlatım | nightbird | [Read More](https://medium.com/p/ec937128f948) |
-| Mon, 06 Oct 2025 18:22:10 GMT | Cybersecurity 101: The 5 Fundamental Concepts You Must Know | orioninsist | [Read More](https://medium.com/p/58bae5635960) |
-| Mon, 06 Oct 2025 18:20:19 GMT | Bandit - Level 8→ 9- OverTheWire | Deepika  B | [Read More](https://medium.com/p/866a06629cae) |
-| Mon, 06 Oct 2025 18:13:01 GMT | Bandit - Level 7→ 8- OverTheWire | Deepika  B | [Read More](https://medium.com/p/e2e494a942a9) |
-| Mon, 06 Oct 2025 18:12:30 GMT | DevOps in 2025: Predictions from the Trenches | Talat Faheem | [Read More](https://medium.com/p/dc9ca717d514) |
-| Mon, 06 Oct 2025 18:08:19 GMT | How to Lock a Double Door: Securing French and Double Entry Doors | Sure Lock & Key LLC | [Read More](https://medium.com/p/3631e34067a6) |
-| Mon, 06 Oct 2025 18:04:28 GMT | Bandit - Level 6→ 7- OverTheWire | Deepika  B | [Read More](https://medium.com/p/34850b962d48) |
-| Mon, 06 Oct 2025 18:01:53 GMT | Hash Me If You Can — How I Beat a 2-Second Hashing Challenge on RingZer0Team | Sh3nobi | [Read More](https://medium.com/p/a61cf0a87291) |
