@@ -12,7 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 07:16:15 GMT | The Hidden Threats In Poor E-Commerce Security | Qualysec | [Read More](https://medium.com/p/22c09a9fbcc7) |
+| Tue, 07 Oct 2025 07:15:30 GMT | The Shopify App Could Read All Your Private Emails | Marcin Byra | [Read More](https://medium.com/p/0133432be585) |
+| Tue, 07 Oct 2025 07:14:56 GMT | Intro to Memory Analysis (VMWare 4N6 Lab) | Allen Ace | [Read More](https://medium.com/p/8762de2f95df) |
+| Tue, 07 Oct 2025 07:13:41 GMT | Just like health checkups, your website needs regular care to stay secure, fast & error-free! | Aarav Infotech India Pvt. Ltd. | [Read More](https://medium.com/p/ac568f8b93a4) |
+| Tue, 07 Oct 2025 07:09:56 GMT | Android Security Resour | Abdul Majid Jamil | [Read More](https://medium.com/p/80ec6adb1ac3) |
+| Tue, 07 Oct 2025 07:09:03 GMT | Writeup- Hacker Fest:2019 (VulnHub) | Abdullah Ahmed H | [Read More](https://medium.com/p/01413905e720) |
+| Tue, 07 Oct 2025 07:05:38 GMT | Kioptrix Level 3 Penetration Test Walkthrough | ishaq Jafar | [Read More](https://medium.com/p/0fa5e3832305) |
+| Tue, 07 Oct 2025 07:05:07 GMT | Writeup- SUNSET:1 (VulnHub) | Abdullah Ahmed H | [Read More](https://medium.com/p/c4a5ccdb2ffd) |
+| Tue, 07 Oct 2025 06:58:43 GMT | AGENTIC AI: CYBERSECURITY ’S DOUBLE -EDGED SWORD | Knowledge Upswing | [Read More](https://medium.com/p/b78184ebaca1) |
+| Tue, 07 Oct 2025 06:55:35 GMT | The Phishing Upgrade: Scammers 2.0 | Sakthimurugan S | [Read More](https://medium.com/p/4a7e5991f14c) |
+| Tue, 07 Oct 2025 06:54:04 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/b01142964f56) |
+| Tue, 07 Oct 2025 06:52:26 GMT | Multi-Factor Authentication (MFA) stands as a cornerstone of modern cybersecurity, yet myths and… | Password Manager | [Read More](https://medium.com/p/72e8a7ffb0f6) |
+| Tue, 07 Oct 2025 06:48:44 GMT | New Feature Alert: How to Edit Bulk QR Codes in One CSV File | Nathaniel Langley | [Read More](https://medium.com/p/b89ec2e6a9bb) |
+| Tue, 07 Oct 2025 06:48:09 GMT | Weak Passwords vs Strong Passwords: Which Is Best in 2025? | Devarshi Acharya | [Read More](https://medium.com/p/6e49d9fb30d4) |
+| Tue, 07 Oct 2025 06:42:53 GMT | The Lost Glitches: How to Hack | Motoko Iwakura | [Read More](https://medium.com/p/3cc5e535e713) |
+| Tue, 07 Oct 2025 06:42:40 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/7f7a5e7c0476) |
+| Tue, 07 Oct 2025 06:36:24 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/0818241f2c8e) |
+| Tue, 07 Oct 2025 06:35:50 GMT | The Hidden Pulse of the Internet: Understanding IP in the Modern Digital Era | SimpleTecBro | [Read More](https://medium.com/p/3d32ed159da5) |
+| Tue, 07 Oct 2025 06:34:08 GMT | Cryptographic Techniques: Guide to Hashing, Authentication, Data Integrity, and MAC | @Harsh | [Read More](https://medium.com/p/83d17ea76333) |
+| Tue, 07 Oct 2025 06:32:08 GMT | How Learning at AptechGarden Can Accelerate Your Career in Tech | Zaman | [Read More](https://medium.com/p/4e46a6548873) |
+| Tue, 07 Oct 2025 06:31:11 GMT | A Beginner-Friendly Guide to Encryption and Block Cipher Modes | @Harsh | [Read More](https://medium.com/p/5a3ec51fea80) |
+| Tue, 07 Oct 2025 06:30:25 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/a810c2a123b0) |
+| Tue, 07 Oct 2025 06:29:19 GMT | Run NGINX Securely in Kubernetes: Why You Should Stop Using the Default Image | 0hlov3 | [Read More](https://medium.com/p/d70a704e77a1) |
+| Tue, 07 Oct 2025 06:24:48 GMT | Database Security: Protecting the Core | Cyber Security Research | [Read More](https://medium.com/p/0d21f9da814a) |
 | Tue, 07 Oct 2025 06:19:02 GMT | Understanding Advanced Persistent Threats (APTs) | Cyber Security Research | [Read More](https://medium.com/p/6d2584ef3918) |
+| Tue, 07 Oct 2025 06:18:20 GMT | Reformulation: The Summoning | Neologian | [Read More](https://medium.com/p/fe122a1ad300) |
+| Tue, 07 Oct 2025 06:18:07 GMT | From Promtail to Alloy: My Humble (and Occasionally Painful) Journey into Kubernetes Log Collection | Praveen Krishna Murthy | [Read More](https://medium.com/p/5ae37b04981f) |
 | Tue, 07 Oct 2025 06:16:02 GMT | Advanced Perimeter Intrusion Detection Systems at Oman Airports | Tekshoyabeelyas | [Read More](https://medium.com/p/f7180fb79a41) |
 | Tue, 07 Oct 2025 06:15:46 GMT | Cybersecurity Solutions for Real Estate Agencies | Renaissance Computer Services Limited | [Read More](https://medium.com/p/d0b155cec10e) |
 | Tue, 07 Oct 2025 06:12:38 GMT | The Politics of Cyber Warfare | Cyber Security Research | [Read More](https://medium.com/p/e3002d8a4323) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 00:41:00 GMT | Vulnerability and Gaza | Fernando Arancibia-Collao | [Read More](https://medium.com/p/3f79a7d06148) |
 | Tue, 07 Oct 2025 00:39:20 GMT | Data Loss Prevention: Stopping the Leak | Cyber Security Research | [Read More](https://medium.com/p/4e805c9cc92f) |
 | Tue, 07 Oct 2025 00:34:36 GMT | HackTheBox Windows Events and Hunting Evil Part 2: Leveling Up with Sysmon | Cybersecurity Simplified | [Read More](https://medium.com/p/92857e3de5c6) |
-| Tue, 07 Oct 2025 00:33:18 GMT | Penetration Testing: Finding the Flaws | Cyber Security Research | [Read More](https://medium.com/p/afcfbdcaf86d) |
-| Tue, 07 Oct 2025 00:30:36 GMT | Tuesday Morning Threat Report: Oct 7, 2025 | Mark Maguire | [Read More](https://medium.com/p/92650eb44ef8) |
-| Tue, 07 Oct 2025 00:02:09 GMT | Wafw00f: Desvelando el Escudo Oculto de las Aplicaciones Web | JPablo13 | [Read More](https://medium.com/p/8ca26fdaa6ca) |
-| Mon, 06 Oct 2025 23:53:00 GMT | 2025 Target Cyber Defense Challenge — O5: Tunnel Vision | Aeronique | [Read More](https://medium.com/p/6ac2d75d6ed5) |
-| Mon, 06 Oct 2025 23:45:29 GMT | Elliptic Curve Method Visualization for Integer Factorization: The Palm Jumeirah as an Analogy via… | Deeptiman Pattnaik | [Read More](https://medium.com/p/63aec62b29bd) |
-| Mon, 06 Oct 2025 23:41:41 GMT | The Things I Never Said When I Needed To | Darpan Murly | [Read More](https://medium.com/p/1b04192e7248) |
-| Mon, 06 Oct 2025 23:40:49 GMT | Unmasking the Gatekeeper: Understanding AWS IAM Identities and Core Components | Kumma Sivaprakash | [Read More](https://medium.com/p/acf185e54f69) |
-| Mon, 06 Oct 2025 23:26:21 GMT | Essential Cybersecurity: A Small Business Owner’s Guide to Digital Protection | Matildahargrave | [Read More](https://medium.com/p/5d57a4508b8e) |
-| Mon, 06 Oct 2025 23:22:59 GMT | Cybersecurity Basics Every Small Business Owner Needs to Know | Matildahargrave | [Read More](https://medium.com/p/b8e844272859) |
-| Mon, 06 Oct 2025 23:10:38 GMT | When Integrity Collides with Bureaucracy: The Price of Leadership in Cybersecurity — and Why… | Taher Amine ELHOUARI | [Read More](https://medium.com/p/d5398c35d740) |
-| Mon, 06 Oct 2025 22:54:05 GMT | How I built a Phishing Website Detection Model Using Machine Learning | Rohith Srinivasa | [Read More](https://medium.com/p/4c7ae2871140) |
-| Mon, 06 Oct 2025 22:44:34 GMT | HYPERINDEPENDENCE | Ayotomide Osunlola | [Read More](https://medium.com/p/0ed32dd6a38f) |
-| Mon, 06 Oct 2025 22:34:25 GMT | Belonging in OCD | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/48881aa4c0ea) |
-| Mon, 06 Oct 2025 22:30:17 GMT | IDS Fundamentals - THM | Isiah | [Read More](https://medium.com/p/87d48f183dac) |
-| Mon, 06 Oct 2025 22:27:19 GMT | How to compile VulnHub’s x86_64 Boxes on an Apple Silicon Mac | Kyo | [Read More](https://medium.com/p/4e8b7f5fed6f) |
-| Mon, 06 Oct 2025 22:26:28 GMT | Figma 2025: Redefining the Future of Collaborative Design | Jack Melo | [Read More](https://medium.com/p/49969619c939) |
-| Mon, 06 Oct 2025 22:20:55 GMT | The Trojan Horse of Python: “soopsocks” | Cyber-AppSec | [Read More](https://medium.com/p/f245facccbef) |
-| Mon, 06 Oct 2025 21:56:06 GMT | Run Unit Tests on Your Security: BAS for 2025 | Chris Zhang | [Read More](https://medium.com/p/1c35eb6c71c7) |
-| Mon, 06 Oct 2025 21:51:45 GMT | Understanding the “Your Connection is Not Private” Error | Luca Berton | [Read More](https://medium.com/p/bf58d2c66ca1) |
-| Mon, 06 Oct 2025 21:48:39 GMT | Air-Gapped, Not Handcuffed: Bootstrapping a Secure Offline Docker Registry in One Afternoon | Cesar Cardoso | [Read More](https://medium.com/p/8892b5211906) |
-| Mon, 06 Oct 2025 21:43:17 GMT | Deepfakes: The Face Isn’t Real, but the Threat Is | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/f3985835fe5b) |
-| Mon, 06 Oct 2025 21:41:01 GMT | Unmasking Malware in Network Traffic — Analyzing a PCAP with TCPdump | Nabyl OUCHINE | [Read More](https://medium.com/p/15da1e9ee239) |
-| Mon, 06 Oct 2025 21:35:12 GMT | Passwords That Protect: The Ultimate Guide To Secure Online Accounts | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/4b1542e9f54c) |
-| Mon, 06 Oct 2025 21:34:27 GMT | Ransomware | John Odumesi | [Read More](https://medium.com/p/e86ca2784a65) |
-| Mon, 06 Oct 2025 21:26:29 GMT | XXE (XML External Entity) Injection Explained | Mahmmoudmohamed | [Read More](https://medium.com/p/e1cc5bcddf75) |
-| Mon, 06 Oct 2025 21:24:26 GMT | When the Pen Becomes a Sword: How LLMs Are Reshaping Cybersecurity | Akshay Chauhan | [Read More](https://medium.com/p/48a68127e055) |
