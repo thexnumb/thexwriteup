@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 08:11:35 GMT | The $50 Battering RAM Attack: How Researchers Broke Intel and AMD Cloud Security with a Simple Hack | Germano Costi | [Read More](https://medium.com/p/239db0086a9a) |
+| Tue, 07 Oct 2025 08:03:18 GMT | Continuous & AI-Augmented Penetration Testing: The Future of Offensive Security. | A AJAY | [Read More](https://medium.com/p/15c87ba0022f) |
+| Tue, 07 Oct 2025 08:02:07 GMT | When a Callback Form Became an Open Door — a short story about a hospital workflow gone wrong | Devansh Patel | [Read More](https://medium.com/p/50052deeb0c3) |
+| Tue, 07 Oct 2025 08:00:11 GMT | How I Stay Consistent While Learning New Tech Stacks | mohit singh | [Read More](https://medium.com/p/b87c167f7907) |
+| Tue, 07 Oct 2025 07:59:16 GMT | HTB Labs: Certificate WriteUp | Izzat Mammadzada | [Read More](https://medium.com/p/239146ba2dfa) |
+| Tue, 07 Oct 2025 07:58:13 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/35d749653929) |
+| Tue, 07 Oct 2025 07:57:33 GMT | Chain Link Fence in Saudi Arabia: A Smart Choice for Security, Climate, and Value (سياج شبكي) | Hitechfence | [Read More](https://medium.com/p/b2662b6ad48b) |
+| Tue, 07 Oct 2025 07:56:56 GMT | Protecting Trust: Why We Need Security at the Core | Consultivo Engagement | [Read More](https://medium.com/p/fc936b98a015) |
+| Tue, 07 Oct 2025 07:54:57 GMT | DC: 1 | Rikin | [Read More](https://medium.com/p/4cd2d7e7c341) |
+| Tue, 07 Oct 2025 07:51:09 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/13d9f980ec56) |
+| Tue, 07 Oct 2025 07:45:07 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/27764de14d33) |
+| Tue, 07 Oct 2025 07:44:28 GMT | How Smart Accounts and Account Abstraction Fit Together | Nilmi Sugandhika879 | [Read More](https://medium.com/p/572c569d4538) |
 | Tue, 07 Oct 2025 07:29:48 GMT | Why Hackers Don’t Come Through the Front Door | Yash Patel | [Read More](https://medium.com/p/7835755085b6) |
 | Tue, 07 Oct 2025 07:25:35 GMT | Explore the Latest Courses at the University of Education Australia | AIST | [Read More](https://medium.com/p/3b99e410adc1) |
 | Tue, 07 Oct 2025 07:19:07 GMT | Cloud Security After Salesforce Breach Explained | The Thematic Investor | [Read More](https://medium.com/p/49b419322b9c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 02:41:23 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/31bcb0468797) |
 | Tue, 07 Oct 2025 02:37:47 GMT | What I’ve Learned From The ISC2’s Webinar Entitled: “From Shield to Spear: How AI is Reshaping… | Martin L | [Read More](https://medium.com/p/cfc83deb8b31) |
 | Tue, 07 Oct 2025 02:32:07 GMT | Securing Your IT Infrastructure : A Comprehensive Guide | Rishab Chakraborty | [Read More](https://medium.com/p/904d51e1aa3d) |
-| Tue, 07 Oct 2025 02:13:51 GMT | Google Launches Revolutionary AI Security Arsenal: CodeMender Leads the Charge Against Cyber… | Techsankar | [Read More](https://medium.com/p/1e24c0f4bf3d) |
-| Tue, 07 Oct 2025 02:08:46 GMT | For enduring changes that persist across reboots, using `/etc/sysctl.d/` | Eren Cankut Uysal | [Read More](https://medium.com/p/ce0b08d11b71) |
-| Tue, 07 Oct 2025 01:50:15 GMT | Expert Guide to Security Hardening in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/008592f9dbfd) |
-| Tue, 07 Oct 2025 01:43:37 GMT | Oracle’s July 2025 Critical Patch Update: The CVE-2025–61882 Flaw That Sparked a Global Extortion… | Brian | [Read More](https://medium.com/p/20f70ff77ad3) |
-| Tue, 07 Oct 2025 01:43:24 GMT | Security in CI/CD Pipelines | Cyberoptic Security | [Read More](https://medium.com/p/8265bfc036d4) |
-| Tue, 07 Oct 2025 01:33:17 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/588540b1ee31) |
-| Tue, 07 Oct 2025 01:26:54 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/2b357ba2f24f) |
-| Tue, 07 Oct 2025 01:20:49 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/48da6dee72e0) |
-| Tue, 07 Oct 2025 01:13:09 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/587af64f15d1) |
-| Tue, 07 Oct 2025 01:05:16 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/a84ecd9bb4f5) |
-| Tue, 07 Oct 2025 00:59:14 GMT | How Cybersecurity OEMs Can Turn Risk into Revenue | Dr. Deep Pandey | [Read More](https://medium.com/p/11a99280a326) |
-| Tue, 07 Oct 2025 00:58:17 GMT | Adaptive Cloud, Real-Time Insight, and Agentic AI: A New Era for IT Operations | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/5efab0eeade8) |
