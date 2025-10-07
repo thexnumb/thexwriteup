@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 11:32:45 GMT | Zero Day In Xbox Privilege Escalation Using Gaming ServiceEoP | Redfox Security | [Read More](https://medium.com/p/84f5c91a69ed) |
+| Tue, 07 Oct 2025 11:32:12 GMT | 10 Python Hacks That Made Me Look Like a Cybersecurity Pro | Muhummad Zaki | [Read More](https://medium.com/p/d5c4edb40aec) |
+| Tue, 07 Oct 2025 11:28:59 GMT | bWAPP Series: HTML Injection — Reflected (POST) — High Severity | Madhumathi chamarthi | [Read More](https://medium.com/p/1f4fb57ac3b7) |
+| Tue, 07 Oct 2025 11:28:04 GMT | Cybersecurity in Everyday Life: Why Hackers Love Your Passwords | ShwetaPrasad150 | [Read More](https://medium.com/p/680c0634968a) |
+| Tue, 07 Oct 2025 11:26:58 GMT | Token Nedir? Access ve Refresh Token’larla Modern Kimlik Doğrulama | Latest Software Developers | [Read More](https://medium.com/p/b7bdea6bdfee) |
+| Tue, 07 Oct 2025 11:25:44 GMT | Digital Experience Platform Market to Reach USD 26.54 | Rakeshnaidu | [Read More](https://medium.com/p/40ba9ce540ef) |
+| Tue, 07 Oct 2025 11:25:19 GMT | Tailored Security for Every Industry: How Barzo Secures Your Business | Travel time | [Read More](https://medium.com/p/a1923af743b9) |
+| Tue, 07 Oct 2025 11:22:15 GMT | Shopify Store Security Tips that All Owners Must Know | RH Redwan | [Read More](https://medium.com/p/1c4bd1ad8a03) |
+| Tue, 07 Oct 2025 11:12:02 GMT | Tried Amazon Macie for the First Time — Here’s What I Found | Binisha Joshi | [Read More](https://medium.com/p/36b6d7de40f1) |
 | Tue, 07 Oct 2025 11:04:31 GMT | XWorm 6.0: the return of the modular RAT and why it’s a real threat | Germano Costi | [Read More](https://medium.com/p/d57c65bfba7d) |
 | Tue, 07 Oct 2025 11:02:51 GMT | DocuBot (CyberTalents) — Exploiting an AI Summarizer via Prompt Injection | Te父cno | [Read More](https://medium.com/p/c844dff38425) |
 | Tue, 07 Oct 2025 11:01:39 GMT | Applied Cybersecurity Engineering | Fadhila TLILI | [Read More](https://medium.com/p/3d0a5805ef63) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 06:55:35 GMT | The Phishing Upgrade: Scammers 2.0 | Sakthimurugan S | [Read More](https://medium.com/p/4a7e5991f14c) |
 | Tue, 07 Oct 2025 06:54:04 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/b01142964f56) |
 | Tue, 07 Oct 2025 06:52:26 GMT | Multi-Factor Authentication (MFA) stands as a cornerstone of modern cybersecurity, yet myths and… | Password Manager | [Read More](https://medium.com/p/72e8a7ffb0f6) |
-| Tue, 07 Oct 2025 06:48:44 GMT | New Feature Alert: How to Edit Bulk QR Codes in One CSV File | Nathaniel Langley | [Read More](https://medium.com/p/b89ec2e6a9bb) |
-| Tue, 07 Oct 2025 06:48:09 GMT | Weak Passwords vs Strong Passwords: Which Is Best in 2025? | Devarshi Acharya | [Read More](https://medium.com/p/6e49d9fb30d4) |
-| Tue, 07 Oct 2025 06:42:53 GMT | The Lost Glitches: How to Hack | Motoko Iwakura | [Read More](https://medium.com/p/3cc5e535e713) |
-| Tue, 07 Oct 2025 06:42:40 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/7f7a5e7c0476) |
-| Tue, 07 Oct 2025 06:36:24 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/0818241f2c8e) |
-| Tue, 07 Oct 2025 06:35:50 GMT | The Hidden Pulse of the Internet: Understanding IP in the Modern Digital Era | SimpleTecBro | [Read More](https://medium.com/p/3d32ed159da5) |
-| Tue, 07 Oct 2025 06:34:08 GMT | Cryptographic Techniques: Guide to Hashing, Authentication, Data Integrity, and MAC | @Harsh | [Read More](https://medium.com/p/83d17ea76333) |
-| Tue, 07 Oct 2025 06:32:08 GMT | How Learning at AptechGarden Can Accelerate Your Career in Tech | Zaman | [Read More](https://medium.com/p/4e46a6548873) |
-| Tue, 07 Oct 2025 06:31:11 GMT | A Beginner-Friendly Guide to Encryption and Block Cipher Modes | @Harsh | [Read More](https://medium.com/p/5a3ec51fea80) |
