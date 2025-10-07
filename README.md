@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 05:33:27 GMT | Why Small and Mid-Sized Businesses Are Prime Targets for Cyberattacks | Reghu Mohandas | [Read More](https://medium.com/p/806893e20b98) |
+| Tue, 07 Oct 2025 05:24:12 GMT | How to Guard Your Brand from Consumer Phishing Attacks | Ai Writter Tools | [Read More](https://medium.com/p/423e6b229c3b) |
+| Tue, 07 Oct 2025 05:21:36 GMT | The 3 Cybersecurity Skills That Will Make You Irreplaceable in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/f389bd4c7491) |
+| Tue, 07 Oct 2025 05:18:19 GMT | Advanced Alert Security Services and Cyber Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/d7499aab772a) |
+| Tue, 07 Oct 2025 05:17:31 GMT | Hidden Malware Traps During Installations and How to Dodge Them | Ask IT Support | [Read More](https://medium.com/p/2808a0ac532a) |
 | Tue, 07 Oct 2025 05:04:26 GMT | India’s deterrence in a Cyber Civilisation | Isha Paroha Pandey | [Read More](https://medium.com/p/bfcf7ee852bc) |
 | Tue, 07 Oct 2025 05:03:04 GMT | Cybersecurity in Python: Building Secure Apps with Cryptography Libraries | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/233adcbd3a04) |
 | Tue, 07 Oct 2025 05:02:15 GMT | From Active Directory to IAM: Escaping the Chaos of Legacy Identity Management | Khalid Hussain | [Read More](https://medium.com/p/d5b6f788fed3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 20:03:03 GMT | Zero Trust Vendors: Leading the Future of Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/d3e3cff43eeb) |
 | Mon, 06 Oct 2025 20:02:51 GMT | OSINT Challenge in 30: Tracking a News Photo | Wraith | [Read More](https://medium.com/p/bde9fb1a9e01) |
 | Mon, 06 Oct 2025 19:55:43 GMT | TryHackMe: Monday Monitor lab walkthrough | Davenyamongo | [Read More](https://medium.com/p/adcee4397e82) |
-| Mon, 06 Oct 2025 19:54:52 GMT | Comparing Business Internet Options and Cybersecurity Solutions for Modern Enterprises | Defend My Business | [Read More](https://medium.com/p/5527252aaecc) |
-| Mon, 06 Oct 2025 19:52:34 GMT | TO BECOME A SOC EXPERT(DAY-8) | vulnhunter | [Read More](https://medium.com/p/f7bd3b16287f) |
-| Mon, 06 Oct 2025 19:46:47 GMT | GraphQL Security Checklist: Find Hidden Endpoints, Prevent Brute-Force and CSRF | PyUs3r | [Read More](https://medium.com/p/7716e619d803) |
-| Mon, 06 Oct 2025 19:45:34 GMT | Beyond the Exploit: Architecting Real-World Red Team Ops | Muhammad Ali | [Read More](https://medium.com/p/c47fffea5a09) |
-| Mon, 06 Oct 2025 19:34:48 GMT | OpenSSL in Python: Disk and File Ciphering | Mi'kail Eli'yah | [Read More](https://medium.com/p/3fe7aa282156) |
