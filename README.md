@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 10:33:07 GMT | WHATSAPP Onetime photo video saving. | Cyber World | [Read More](https://medium.com/p/99bca709f1f4) |
+| Tue, 07 Oct 2025 10:31:24 GMT | The One Cybersecurity Rule That Protects 90% of People (But Almost No One Follows) | Arfa | [Read More](https://medium.com/p/1cce63052c84) |
+| Tue, 07 Oct 2025 10:30:42 GMT | CVE-2025–11293: Belkin Router Vulnerable to Buffer Overflow — Are You at Risk? | CVEHUB | [Read More](https://medium.com/p/0b9667ce5431) |
+| Tue, 07 Oct 2025 10:22:10 GMT | Cloud Security Training in Saudi Arabia: AWS, Azure & Google Cloud Skills | Chetan R. | [Read More](https://medium.com/p/f2c411e5e324) |
+| Tue, 07 Oct 2025 10:20:03 GMT | Cybersecurity Isn’t Just for Experts — It’s for Everyone Who Lives Online | VidyaRao008 | [Read More](https://medium.com/p/9dd2055ce12b) |
+| Tue, 07 Oct 2025 10:19:09 GMT | ELK SIEM Lab 1.2 — Configuring Agent Policies and Integrations | Azhariqbal | [Read More](https://medium.com/p/1d269d8fb951) |
+| Tue, 07 Oct 2025 10:18:25 GMT | HandsFree Security — Innovative Protection for Every Property | High | [Read More](https://medium.com/p/db1f81fd9d03) |
 | Tue, 07 Oct 2025 10:16:59 GMT | Automate Your Desktop with Python Using PyAutoGUI | Balki Maharaj | [Read More](https://medium.com/p/3b8b29f45057) |
 | Tue, 07 Oct 2025 10:15:43 GMT | 99% of the World’s Data Runs Underwater — And It’s Becoming a Battlefield | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/cc12913d9f6f) |
+| Tue, 07 Oct 2025 10:13:50 GMT | HandsFree Security — Your Partner in Smart Protection | High | [Read More](https://medium.com/p/8cdf52576fb4) |
+| Tue, 07 Oct 2025 10:10:24 GMT | HandsFree Security — Protecting What Matters Most | High | [Read More](https://medium.com/p/0d5440f20f58) |
 | Tue, 07 Oct 2025 10:07:33 GMT | 13-Year Redis Flaw Exposed: Critical Vulnerability Allows Remote Code Execution | Jasmitharouthu | [Read More](https://medium.com/p/ae2bcf7f22e3) |
 | Tue, 07 Oct 2025 10:02:16 GMT | The AI Eavesdropper: How Voice Assistants Were Secretly Recording Everything for My Server | Iski | [Read More](https://medium.com/p/a2fba0235680) |
 | Tue, 07 Oct 2025 10:01:00 GMT | Drosera - The Automation Layer Protecting DeFi from Exploits | Ife Baby | [Read More](https://medium.com/p/43d242ecfea1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 06:12:34 GMT | Cybersecurity | Jane | [Read More](https://medium.com/p/d5cc42747b16) |
 | Tue, 07 Oct 2025 06:05:42 GMT | Cap ! Hack the box. | Nonsense Shin | [Read More](https://medium.com/p/c9d7f017ab4e) |
 | Tue, 07 Oct 2025 06:00:45 GMT | The Psychology of Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/ce62648c8083) |
-| Tue, 07 Oct 2025 05:57:25 GMT | Hidden API Endpoints: The Hacker’s Secret Weapon | Vipul Sonule | [Read More](https://medium.com/p/a9ee297a29c2) |
-| Tue, 07 Oct 2025 05:55:55 GMT | What Really Happens to Your Photo After You Use ‘Nanobanana’? | Ajith Kumar | [Read More](https://medium.com/p/4da55c1c1bc2) |
-| Tue, 07 Oct 2025 05:55:51 GMT | What Is the Use of Enterprise Application Integration and Why It Matters for Modern Businesses | Quadrant IT Services | [Read More](https://medium.com/p/1bb02898b03e) |
-| Tue, 07 Oct 2025 05:55:08 GMT | Managed Services Market Analysis - Emerging Technologies Driving Global Expansion | rahul salunkhe | [Read More](https://medium.com/p/faf9ace338c0) |
-| Tue, 07 Oct 2025 05:53:58 GMT | Reducing Unnecessary Losses in Banking Through Machine Learning–Based Fraud Detection | Fuad Ulhaq | [Read More](https://medium.com/p/04d91a7bc045) |
-| Tue, 07 Oct 2025 05:52:23 GMT | URGENT CYBERSECURITY ALERT: The Invisible Phishing Scam | Midhun Thomas PT | [Read More](https://medium.com/p/392fa3f96d04) |
-| Tue, 07 Oct 2025 05:51:41 GMT | A Step-by-Step Guide to JWT Authentication with Spring Security 6 | Akshay Aryan | [Read More](https://medium.com/p/df6db8cfa8f6) |
-| Tue, 07 Oct 2025 05:50:41 GMT | How a Single Signup Flaw Exposed 162,481 User Records | Ibtissam hammadi | [Read More](https://medium.com/p/070238ff9f4a) |
-| Tue, 07 Oct 2025 05:47:58 GMT | Why Removing Fake Apps Matters for Business: Guarding Your Brand Online | Ai Writter Tools | [Read More](https://medium.com/p/4c1829994a90) |
