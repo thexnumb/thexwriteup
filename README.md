@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 19:35:43 GMT | Why Cybersecurity Compliance Isn’t Just About Rules, It’s About Trust | Akshay Chauhan | [Read More](https://medium.com/p/907f1ad15367) |
+| Tue, 07 Oct 2025 19:35:19 GMT | Securing Defense Systems: GitLab and HackerOne in Coordinated Action With Lockheed Martin | Justas_b | [Read More](https://medium.com/p/7ed6ea51054f) |
+| Tue, 07 Oct 2025 19:31:23 GMT | Walkthrough TryHackMe Lookback | Telynor | [Read More](https://medium.com/p/7edd64887477) |
+| Tue, 07 Oct 2025 19:30:59 GMT | Inside DNV: How Global Innovation and Digital Assurance are Shaping the Future of Industry | Hina Anser | [Read More](https://medium.com/p/804f9fa62754) |
+| Tue, 07 Oct 2025 19:27:31 GMT | Managed Cybersecurity Services: 24/7 Protection for a Threat-Driven World | SafeAeon Inc. | [Read More](https://medium.com/p/40f77225e0c1) |
+| Tue, 07 Oct 2025 19:17:09 GMT | Cybersecurity Compliance Services: Building Trust Through Security and Regulation | SafeAeon Inc. | [Read More](https://medium.com/p/e7fbc718ada0) |
 | Tue, 07 Oct 2025 19:11:16 GMT | Split-Brain JSON: Exploiting Parser Disagreement Across Validation Boundaries for Privilege… | Pratik Dahal | [Read More](https://medium.com/p/be3a038d8722) |
+| Tue, 07 Oct 2025 19:09:13 GMT | (For Hire) Open to work as a Cyber Security Specialist | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/aee0b241080d) |
 | Tue, 07 Oct 2025 18:58:58 GMT | The 5 Most Overlooked Web Development Security Risks in 2025 | Earl-Millen | [Read More](https://medium.com/p/0e2b11b8280a) |
 | Tue, 07 Oct 2025 18:58:37 GMT | MCP Agents: The Silent Backdoor that might be creeping into Your Cybersecurity Stack | Harold Moss | [Read More](https://medium.com/p/8ebd03e4b980) |
 | Tue, 07 Oct 2025 18:57:56 GMT | My BTL1 Review | Bhavesh - CyberSec | [Read More](https://medium.com/p/314d396a0f1f) |
@@ -106,10 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 14:50:38 GMT | My First Steps with FastAPI: Building a Social Media App (PART 3) | Joseph Fagbemi | [Read More](https://medium.com/p/315832f5a77b) |
 | Tue, 07 Oct 2025 14:49:44 GMT | Day 7: Beyond the Desktop: Securing Every Device, Everywhere | aysha | [Read More](https://medium.com/p/9c246200c2d1) |
 | Tue, 07 Oct 2025 14:47:34 GMT | The Day I Accidentally Hacked Myself: And What It Taught Me About Cybersecurity | Fateyaly | [Read More](https://medium.com/p/78bd9581799a) |
-| Tue, 07 Oct 2025 14:41:42 GMT | If Life Won’t Be Gentle With You, Then At Least Be Gentle With Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/d5a550f88a2c) |
-| Tue, 07 Oct 2025 14:35:23 GMT | Network Discovery Detection - TryHackMe Walkthrough | Fazal | [Read More](https://medium.com/p/65384ee0e05e) |
-| Tue, 07 Oct 2025 14:35:03 GMT | Social Engineering 2025: Evolusi Manipulasi Psikologis di Dunia Digital | Handev Code | [Read More](https://medium.com/p/a42f4ce3b660) |
-| Tue, 07 Oct 2025 14:34:25 GMT | Top SASE Certifications to Prove Your Cloud Network and Security Expertise | r00tb33r | [Read More](https://medium.com/p/bbfc134830c8) |
-| Tue, 07 Oct 2025 14:34:12 GMT | Undetected Bugs and Quirks in Java: Language and JVM Pitfalls You Should Know | Hayanan | [Read More](https://medium.com/p/7652560e8e47) |
-| Tue, 07 Oct 2025 14:30:36 GMT | Operadores na Tanssi: A Espinha Dorsal da Segurança Baseada em ETH para as L1s | IsaLeal | [Read More](https://medium.com/p/caabc8577876) |
-| Tue, 07 Oct 2025 14:16:48 GMT | Part 8: (b). A Guide to Personal Information Gathering | Intelithics | [Read More](https://medium.com/p/d86e5fecb441) |
