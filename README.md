@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 09:22:06 GMT | Old Bugs Die Hard: Exploiting the ParaSwap AugustusV6 Vulnerability with a Fake Uniswap V3 Pool | Evgenii | [Read More](https://medium.com/p/1eecdc320cc8) |
+| Tue, 07 Oct 2025 09:18:48 GMT | Safeguarding the Nation: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/77ed35866fee) |
+| Tue, 07 Oct 2025 09:18:04 GMT | The Reality Check: Why Provenance Matters More Than Ever | Lauri Korpela | [Read More](https://medium.com/p/3042d220ffd2) |
+| Tue, 07 Oct 2025 09:10:46 GMT | C for Hacking? Is it worth the pain? | SilentInject | [Read More](https://medium.com/p/3df37101d09b) |
+| Tue, 07 Oct 2025 09:08:08 GMT | Microsoft Confirms Storm-1175 Behind GoAnywhere Exploit That Deployed Medusa Ransomware | Germano Costi | [Read More](https://medium.com/p/1622893a0997) |
+| Tue, 07 Oct 2025 09:04:41 GMT | 100% Job Guarantee Course in Mumbai for Freshers — Evision Technoserve | Evision Technoserve | [Read More](https://medium.com/p/efd6f2bafac1) |
+| Tue, 07 Oct 2025 09:04:18 GMT | The Web3 Security Problem: DROSERA | Samueladeyekun | [Read More](https://medium.com/p/1b56767f2736) |
+| Tue, 07 Oct 2025 09:02:23 GMT | The 5 Essential Security Risks Developers Ignore in the Vibe Coding Era | Atsushi Hatakeyama | [Read More](https://medium.com/p/d390a541e106) |
+| Tue, 07 Oct 2025 09:02:16 GMT | We’re All Exposed — The Dangerous Truth About Digital Security | estrosec | [Read More](https://medium.com/p/ed0d2d453f75) |
+| Tue, 07 Oct 2025 09:02:16 GMT | ISO 27001 Maintenance: How to Ensure Continuous Compliance | Hicomply | [Read More](https://medium.com/p/48d589de87bc) |
+| Tue, 07 Oct 2025 08:50:30 GMT | Walker Turned Confessional? Unexpected Turns on the Road to Recovery | IyakSaCR | [Read More](https://medium.com/p/8ad0057f66a3) |
+| Tue, 07 Oct 2025 08:48:16 GMT | Cybersecurity Crossroads? Charting Your Course in Infosec | Authlyn | [Read More](https://medium.com/p/b2bca0e309e6) |
 | Tue, 07 Oct 2025 08:34:36 GMT | Cache Key Injection: Chaining Cache-Poisoning and CRLF Using an Unkeyed Parameter | Bash Overflow | [Read More](https://medium.com/p/b9e8b7be00a1) |
 | Tue, 07 Oct 2025 08:27:48 GMT | Top 10 Cyber Attacks in India | Manisha Chaudhary | [Read More](https://medium.com/p/0a32b36c012a) |
 | Tue, 07 Oct 2025 08:27:04 GMT | The Daily Tech Digest: 07 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d4ab39c330d3) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 04:29:32 GMT | Why Cyber Resilience Must Start with People! | Dale Jenkins | [Read More](https://medium.com/p/dd7134fbe836) |
 | Tue, 07 Oct 2025 04:22:33 GMT | Can I Haz Root? :: Pennyworth | Cyber Grover ‍ | [Read More](https://medium.com/p/8e0ead5e0797) |
 | Tue, 07 Oct 2025 04:21:28 GMT | Fastly Subdomain Takeover leading to $$$$ Bounty Reward | Sohail Ahmed | [Read More](https://medium.com/p/5fff711d0518) |
-| Tue, 07 Oct 2025 04:16:19 GMT | When Data Becomes a Weapon: Israel’s Quiet War With Code | Mallick Speaks | [Read More](https://medium.com/p/cb16c4dbd84c) |
-| Tue, 07 Oct 2025 04:14:20 GMT | Tải Mr Bow Hack (Vô Hạn Tiền, Mua Sắm Miễn Phí) v5.0.9 | MODLMH | [Read More](https://medium.com/p/e6bd8a7f000b) |
-| Tue, 07 Oct 2025 04:06:36 GMT | Hackers, Bjorka, and Why We Should Care | Sasono Utomo | [Read More](https://medium.com/p/ede43e7cca28) |
-| Tue, 07 Oct 2025 04:06:35 GMT | Why Human Intuition Still Outpaces AI in Cyber Defense | Lakshita Gulliya | [Read More](https://medium.com/p/c085bb8f0b42) |
-| Tue, 07 Oct 2025 04:04:08 GMT | SRE and Security Automation: Integrating Security into the Development Lifecycle | SRE Mastery | [Read More](https://medium.com/p/e282cbbf7245) |
-| Tue, 07 Oct 2025 03:38:02 GMT | 0DayWebshell Scanner Pro | ShellFinder | [Read More](https://medium.com/p/013205ce300f) |
-| Tue, 07 Oct 2025 03:32:22 GMT | The Silent Vulnerability: When Copilot’s Audit Logs Went Dark | Deven Chhajed | [Read More](https://medium.com/p/fd17c01b3671) |
-| Tue, 07 Oct 2025 03:14:40 GMT | Write-up PicoCTF: Web Exploitation ‘where are the robots’ | Muhammad Khairin | [Read More](https://medium.com/p/b7c2ac715890) |
-| Tue, 07 Oct 2025 03:02:00 GMT | Copenhagen, Oslo, Heathrow: Europe’s Airports Under Siege | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/7f846c459d63) |
-| Tue, 07 Oct 2025 03:01:55 GMT | The Courage to Be Seen: How Vulnerability Becomes Strength | KOUSUMI CHAUDHURI | [Read More](https://medium.com/p/1de1ee580e23) |
-| Tue, 07 Oct 2025 02:52:24 GMT | 20. Common Payloads and Wordlists That Save Me Hours | Abhijeet kumawat | [Read More](https://medium.com/p/1535800eb8f2) |
-| Tue, 07 Oct 2025 02:50:30 GMT | Are you Leaking your Company secrets to AI? | Varsha | [Read More](https://medium.com/p/6da2d42d1b04) |
