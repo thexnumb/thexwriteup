@@ -12,11 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 17:28:26 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/83ff9664fb2f) |
+| Tue, 07 Oct 2025 17:22:00 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b0eff5d0bc22) |
+| Tue, 07 Oct 2025 17:21:14 GMT | The Quantum Threat is Real: AWS’s Plan and your action | Rachana Gupta | [Read More](https://medium.com/p/6e27d04deb99) |
+| Tue, 07 Oct 2025 17:20:03 GMT | This Week in Resilience | Sherilyn Burris | [Read More](https://medium.com/p/652d58272633) |
+| Tue, 07 Oct 2025 17:19:31 GMT | Hidden Secrets: Advanced Google Dorking on GitHub’s raw.githubusercontent.com | Abba Abdullahi Wakili | [Read More](https://medium.com/p/675374870756) |
 | Tue, 07 Oct 2025 17:17:38 GMT | How To Build BAD API’s | API Expert | [Read More](https://medium.com/p/1d8ea82f67b8) |
+| Tue, 07 Oct 2025 17:17:27 GMT | The Top VPN Routers in 2025 | NextGen Tech Insights | [Read More](https://medium.com/p/d6f1ec4f87fa) |
+| Tue, 07 Oct 2025 17:16:49 GMT | SMB Relay Attack | Dharmendrakumar | [Read More](https://medium.com/p/752cb6d2c797) |
 | Tue, 07 Oct 2025 17:15:35 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/b632c784a532) |
 | Tue, 07 Oct 2025 17:10:08 GMT | Visible Error-Based SQL Injection | Marduk I Am | [Read More](https://medium.com/p/2deb4b77ac64) |
 | Tue, 07 Oct 2025 17:03:38 GMT | Airtel Business Secures Railways Cybersecurity Contract, AI, 24/7 Protection and Sovereign Tech in… | Avijitdey | [Read More](https://medium.com/p/b692275435a5) |
 | Tue, 07 Oct 2025 17:00:11 GMT | I have been in security since 1986, locksmith and still sell locks and hardware. | A.Walsh | [Read More](https://medium.com/p/9fb67a9a6f61) |
+| Tue, 07 Oct 2025 16:58:00 GMT | The Evolution of Security Architectures | Cyber Security Research | [Read More](https://medium.com/p/76e265da2470) |
 | Tue, 07 Oct 2025 16:55:50 GMT | 7 Under-the-Radar GitHub Repos Every Hacker Should Star (2025 Final Version) | Andrei Ivan | [Read More](https://medium.com/p/dbcecbd2602e) |
 | Tue, 07 Oct 2025 16:54:57 GMT | Critical Vulnerabilities in Chaos Mesh Enable Complete Kubernetes Takeover | Simardeep Singh | [Read More](https://medium.com/p/5d4462fbd554) |
 | Tue, 07 Oct 2025 16:52:23 GMT | Navigating the Security Vendor Landscape | Cyber Security Research | [Read More](https://medium.com/p/c35756267dd2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 13:06:14 GMT | ️ How to Seamlessly Upgrade Wazuh Agents: A Step-by-Step Guide | MARLON MUTIANGPILI | [Read More](https://medium.com/p/4e794eb1b936) |
 | Tue, 07 Oct 2025 13:03:48 GMT | Building Cyber Resilience in Africa, Strategies for Businesses and Professionals to Stay Ahead of… | ED-360 AFRICA | [Read More](https://medium.com/p/1ca854e52f1d) |
 | Tue, 07 Oct 2025 13:01:31 GMT | Nokia WIFI 6 1426-G Fiber ONT: How to Extract and View Your PPPOE username and password | Abdelwahed AJ | [Read More](https://medium.com/p/3d68aee3f23b) |
-| Tue, 07 Oct 2025 13:00:01 GMT | How to Become an Ethical Hacker | Simplilearn | [Read More](https://medium.com/p/ba148a99fadf) |
-| Tue, 07 Oct 2025 12:59:16 GMT | Can You Trust Octal-capital.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/f746540af5f8) |
-| Tue, 07 Oct 2025 12:56:38 GMT | AWS HealthLake: HIPAA-Compliant AI for Healthcare Applications | Rizqi Mulki | [Read More](https://medium.com/p/b3301c802563) |
-| Tue, 07 Oct 2025 12:56:15 GMT | Cyber Resilience: Bouncing Back from Attacks | Cyber Security Research | [Read More](https://medium.com/p/c1f95020ad79) |
-| Tue, 07 Oct 2025 12:53:04 GMT | Write Up Lab: Blind SQL injection with time delays | Velskynotfound | [Read More](https://medium.com/p/4b40204aec0f) |
-| Tue, 07 Oct 2025 12:49:25 GMT | The Impact of AI on Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/b3074392f1cf) |
-| Tue, 07 Oct 2025 12:48:59 GMT | Tesladigital.us Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/fac710c1830d) |
-| Tue, 07 Oct 2025 12:45:21 GMT | What Happens to Your Hard Drives After We Destroy Them? | BioNew USA | [Read More](https://medium.com/p/9454a2f18749) |
