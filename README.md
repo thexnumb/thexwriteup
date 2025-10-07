@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 08:34:36 GMT | Cache Key Injection: Chaining Cache-Poisoning and CRLF Using an Unkeyed Parameter | Bash Overflow | [Read More](https://medium.com/p/b9e8b7be00a1) |
+| Tue, 07 Oct 2025 08:27:48 GMT | Top 10 Cyber Attacks in India | Manisha Chaudhary | [Read More](https://medium.com/p/0a32b36c012a) |
+| Tue, 07 Oct 2025 08:27:04 GMT | The Daily Tech Digest: 07 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d4ab39c330d3) |
+| Tue, 07 Oct 2025 08:25:37 GMT | API10:2023 — Unsafe Consumption of APIs | Apifort | [Read More](https://medium.com/p/a188b3abe401) |
 | Tue, 07 Oct 2025 08:11:35 GMT | The $50 Battering RAM Attack: How Researchers Broke Intel and AMD Cloud Security with a Simple Hack | Germano Costi | [Read More](https://medium.com/p/239db0086a9a) |
 | Tue, 07 Oct 2025 08:03:18 GMT | Continuous & AI-Augmented Penetration Testing: The Future of Offensive Security. | A AJAY | [Read More](https://medium.com/p/15c87ba0022f) |
 | Tue, 07 Oct 2025 08:02:07 GMT | When a Callback Form Became an Open Door — a short story about a hospital workflow gone wrong | Devansh Patel | [Read More](https://medium.com/p/50052deeb0c3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 03:01:55 GMT | The Courage to Be Seen: How Vulnerability Becomes Strength | KOUSUMI CHAUDHURI | [Read More](https://medium.com/p/1de1ee580e23) |
 | Tue, 07 Oct 2025 02:52:24 GMT | 20. Common Payloads and Wordlists That Save Me Hours | Abhijeet kumawat | [Read More](https://medium.com/p/1535800eb8f2) |
 | Tue, 07 Oct 2025 02:50:30 GMT | Are you Leaking your Company secrets to AI? | Varsha | [Read More](https://medium.com/p/6da2d42d1b04) |
-| Tue, 07 Oct 2025 02:47:12 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/db22fe7a15e3) |
-| Tue, 07 Oct 2025 02:41:23 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/31bcb0468797) |
-| Tue, 07 Oct 2025 02:37:47 GMT | What I’ve Learned From The ISC2’s Webinar Entitled: “From Shield to Spear: How AI is Reshaping… | Martin L | [Read More](https://medium.com/p/cfc83deb8b31) |
-| Tue, 07 Oct 2025 02:32:07 GMT | Securing Your IT Infrastructure : A Comprehensive Guide | Rishab Chakraborty | [Read More](https://medium.com/p/904d51e1aa3d) |
