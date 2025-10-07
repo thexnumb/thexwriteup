@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 04:37:54 GMT | Cybersecurity Isn’t Optional Anymore — Ignore It and Risk Extinction | Rizqi Mulki | [Read More](https://medium.com/p/017445252269) |
+| Tue, 07 Oct 2025 04:32:09 GMT | , ’    ? | Ankit Patel | [Read More](https://medium.com/p/cd2686f4f6fe) |
+| Tue, 07 Oct 2025 04:31:08 GMT | Tentang HOKIKU88 | HOKIKU88 | [Read More](https://medium.com/p/e4fdab26d523) |
+| Tue, 07 Oct 2025 04:29:32 GMT | Why Cyber Resilience Must Start with People! | Dale Jenkins | [Read More](https://medium.com/p/dd7134fbe836) |
+| Tue, 07 Oct 2025 04:22:33 GMT | Can I Haz Root? :: Pennyworth | Cyber Grover ‍ | [Read More](https://medium.com/p/8e0ead5e0797) |
 | Tue, 07 Oct 2025 04:21:28 GMT | Fastly Subdomain Takeover leading to $$$$ Bounty Reward | Sohail Ahmed | [Read More](https://medium.com/p/5fff711d0518) |
 | Tue, 07 Oct 2025 04:16:19 GMT | When Data Becomes a Weapon: Israel’s Quiet War With Code | Mallick Speaks | [Read More](https://medium.com/p/cb16c4dbd84c) |
+| Tue, 07 Oct 2025 04:14:20 GMT | Tải Mr Bow Hack (Vô Hạn Tiền, Mua Sắm Miễn Phí) v5.0.9 | MODLMH | [Read More](https://medium.com/p/e6bd8a7f000b) |
 | Tue, 07 Oct 2025 04:06:36 GMT | Hackers, Bjorka, and Why We Should Care | Sasono Utomo | [Read More](https://medium.com/p/ede43e7cca28) |
 | Tue, 07 Oct 2025 04:06:35 GMT | Why Human Intuition Still Outpaces AI in Cyber Defense | Lakshita Gulliya | [Read More](https://medium.com/p/c085bb8f0b42) |
 | Tue, 07 Oct 2025 04:04:08 GMT | SRE and Security Automation: Integrating Security into the Development Lifecycle | SRE Mastery | [Read More](https://medium.com/p/e282cbbf7245) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 18:53:16 GMT | Certified Kubernetes Administrator P-11 Security in K8s | Samsor Rahman | [Read More](https://medium.com/p/b5e834aacee5) |
 | Mon, 06 Oct 2025 18:52:25 GMT | Linux Security Best Practices | LinuxDev | [Read More](https://medium.com/p/bb14c43ac7e3) |
 | Mon, 06 Oct 2025 18:48:03 GMT | APIs vulnerables: el talón de Aquiles que los hackers adoran | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/f46ce1860936) |
-| Mon, 06 Oct 2025 18:47:05 GMT | The Tired Version of Me Deserves to Be Loved Too | Darpan Murly | [Read More](https://medium.com/p/5eae69f87152) |
-| Mon, 06 Oct 2025 18:45:56 GMT | From Data to Defense: A Deep Dive into Statistics and Its Crucial Role in Cybersecurity | HrudaySagarG | [Read More](https://medium.com/p/0cf848c5b9ae) |
-| Mon, 06 Oct 2025 18:45:13 GMT | Think Like a Hacker: An Intro to the 4 Tools Cybersecurity Pros Use Daily | orioninsist | [Read More](https://medium.com/p/42f2bd736aa7) |
-| Mon, 06 Oct 2025 18:41:13 GMT | Crypto Laundering on the Dark Web: How Dirty Coins Become Spendable | Mathews kuruvila | [Read More](https://medium.com/p/712b8e33d7cf) |
-| Mon, 06 Oct 2025 18:40:19 GMT | HacktheBox: Forest Walkthrough | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/dbe7fd19526d) |
-| Mon, 06 Oct 2025 18:24:14 GMT | Tryhackme - Source Türkçe Anlatım | nightbird | [Read More](https://medium.com/p/ec937128f948) |
