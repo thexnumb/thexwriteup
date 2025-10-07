@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 07:29:48 GMT | Why Hackers Don’t Come Through the Front Door | Yash Patel | [Read More](https://medium.com/p/7835755085b6) |
+| Tue, 07 Oct 2025 07:25:35 GMT | Explore the Latest Courses at the University of Education Australia | AIST | [Read More](https://medium.com/p/3b99e410adc1) |
+| Tue, 07 Oct 2025 07:19:07 GMT | Cloud Security After Salesforce Breach Explained | The Thematic Investor | [Read More](https://medium.com/p/49b419322b9c) |
+| Tue, 07 Oct 2025 07:18:53 GMT | Why Cybersecurity is the Career of the Future? | Win In Life Academy | [Read More](https://medium.com/p/f02a3d4cfdf2) |
+| Tue, 07 Oct 2025 07:17:39 GMT | Cl0p Strikes Again: The Oracle E-Business Suite Exploit That Could Shake Enterprise Security… | Germano Costi | [Read More](https://medium.com/p/4368e7707edd) |
+| Tue, 07 Oct 2025 07:16:18 GMT | Trustless Incident Response: A Missing Layer in Web3 Security | Godswill Isaiah | [Read More](https://medium.com/p/6c3d676d4074) |
 | Tue, 07 Oct 2025 07:16:15 GMT | The Hidden Threats In Poor E-Commerce Security | Qualysec | [Read More](https://medium.com/p/22c09a9fbcc7) |
 | Tue, 07 Oct 2025 07:15:30 GMT | The Shopify App Could Read All Your Private Emails | Marcin Byra | [Read More](https://medium.com/p/0133432be585) |
 | Tue, 07 Oct 2025 07:14:56 GMT | Intro to Memory Analysis (VMWare 4N6 Lab) | Allen Ace | [Read More](https://medium.com/p/8762de2f95df) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 01:05:16 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/a84ecd9bb4f5) |
 | Tue, 07 Oct 2025 00:59:14 GMT | How Cybersecurity OEMs Can Turn Risk into Revenue | Dr. Deep Pandey | [Read More](https://medium.com/p/11a99280a326) |
 | Tue, 07 Oct 2025 00:58:17 GMT | Adaptive Cloud, Real-Time Insight, and Agentic AI: A New Era for IT Operations | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/5efab0eeade8) |
-| Tue, 07 Oct 2025 00:56:48 GMT | Identity and Access Management: Controlling the Keys | Cyber Security Research | [Read More](https://medium.com/p/77212d0ceca0) |
-| Tue, 07 Oct 2025 00:51:02 GMT | Security Awareness Training: Empowering the User | Cyber Security Research | [Read More](https://medium.com/p/d21f471fb1d7) |
-| Tue, 07 Oct 2025 00:45:08 GMT | Network Segmentation: Containment Strategies | Cyber Security Research | [Read More](https://medium.com/p/e40643ce568e) |
-| Tue, 07 Oct 2025 00:41:00 GMT | Vulnerability and Gaza | Fernando Arancibia-Collao | [Read More](https://medium.com/p/3f79a7d06148) |
-| Tue, 07 Oct 2025 00:39:20 GMT | Data Loss Prevention: Stopping the Leak | Cyber Security Research | [Read More](https://medium.com/p/4e805c9cc92f) |
-| Tue, 07 Oct 2025 00:34:36 GMT | HackTheBox Windows Events and Hunting Evil Part 2: Leveling Up with Sysmon | Cybersecurity Simplified | [Read More](https://medium.com/p/92857e3de5c6) |
