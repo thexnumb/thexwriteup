@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 10:16:59 GMT | Automate Your Desktop with Python Using PyAutoGUI | Balki Maharaj | [Read More](https://medium.com/p/3b8b29f45057) |
+| Tue, 07 Oct 2025 10:15:43 GMT | 99% of the World’s Data Runs Underwater — And It’s Becoming a Battlefield | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/cc12913d9f6f) |
+| Tue, 07 Oct 2025 10:07:33 GMT | 13-Year Redis Flaw Exposed: Critical Vulnerability Allows Remote Code Execution | Jasmitharouthu | [Read More](https://medium.com/p/ae2bcf7f22e3) |
+| Tue, 07 Oct 2025 10:02:16 GMT | The AI Eavesdropper: How Voice Assistants Were Secretly Recording Everything for My Server | Iski | [Read More](https://medium.com/p/a2fba0235680) |
+| Tue, 07 Oct 2025 10:01:00 GMT | Drosera - The Automation Layer Protecting DeFi from Exploits | Ife Baby | [Read More](https://medium.com/p/43d242ecfea1) |
+| Tue, 07 Oct 2025 09:59:32 GMT | Reliable IT Infrastructure Management Services In India - Trusted & Secured | Mathewneelan | [Read More](https://medium.com/p/4e57838473c6) |
+| Tue, 07 Oct 2025 09:57:55 GMT | TryHackMe #100 - Retracted | SiberYuk | [Read More](https://medium.com/p/2f28ed220e07) |
+| Tue, 07 Oct 2025 09:57:07 GMT | Empower Your Business with Managed Cloud Hosting in the USA - UK | Vishwajeettechtech | [Read More](https://medium.com/p/763352f8d19f) |
+| Tue, 07 Oct 2025 09:55:50 GMT | Şimdi ne olacak: Humanoid Çağında Soğuk Döneme Hazırlık | Ali Tan Serbetci | [Read More](https://medium.com/p/fb44094ffd15) |
+| Tue, 07 Oct 2025 09:55:08 GMT | This AI Literally Planned a Murder Here’s the Truth Behind the Viral Story | Aaron | [Read More](https://medium.com/p/f43e04f0ac88) |
+| Tue, 07 Oct 2025 09:54:48 GMT | What Makes an Embedded Device ‘Covered’ Under the EU CRA? | Epteck GmbH | [Read More](https://medium.com/p/2e779e99a07a) |
+| Tue, 07 Oct 2025 09:53:33 GMT | JSON Web Token (JWT) Vulnerabilities: Authentication Gone Wrong | Rizqi Mulki | [Read More](https://medium.com/p/48629418fbc7) |
+| Tue, 07 Oct 2025 09:52:02 GMT | How to Scrape 1 Million Websites in 1 Hour Using This Python Trick | Rizqi Mulki | [Read More](https://medium.com/p/bfb174a3b04c) |
+| Tue, 07 Oct 2025 09:44:46 GMT | Information Technology Degree Program Empowering the Future | Selinemir | [Read More](https://medium.com/p/91f3ab5a9da7) |
+| Tue, 07 Oct 2025 09:40:32 GMT | Who Keeps the Agents in Line? Governance and Safety in Multi-Agent Systems on AWS | Piyush Jalan | [Read More](https://medium.com/p/38d19d4dbdeb) |
+| Tue, 07 Oct 2025 09:40:16 GMT | Boost Your Career with a Business & Management Course in Australia! | royalinternational | [Read More](https://medium.com/p/214559743ece) |
+| Tue, 07 Oct 2025 09:39:02 GMT | New Guide: Sleep Warm on Cold Nights With Minimal Gear | Yashar Mousavand | [Read More](https://medium.com/p/ce6734855c4c) |
+| Tue, 07 Oct 2025 09:37:52 GMT | AWS IAM Best Practices 2025: Fundamentals to Advanced Security for Engineers | Ismail Kovvuru | [Read More](https://medium.com/p/05bd22b359bc) |
 | Tue, 07 Oct 2025 09:29:24 GMT | ประจำวันอังคารที่ 7 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/3c9d4de33df1) |
 | Tue, 07 Oct 2025 09:27:52 GMT | TryHackMe #97 - Osquery: The Basics | SiberYuk | [Read More](https://medium.com/p/9df40c433e26) |
 | Tue, 07 Oct 2025 09:24:42 GMT | Outsourcing Compliance: A Game-Changer for CISOs Navigating Multi-Framework Environments | CyRAACS | [Read More](https://medium.com/p/f25904ed0cc1) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 05:51:41 GMT | A Step-by-Step Guide to JWT Authentication with Spring Security 6 | Akshay Aryan | [Read More](https://medium.com/p/df6db8cfa8f6) |
 | Tue, 07 Oct 2025 05:50:41 GMT | How a Single Signup Flaw Exposed 162,481 User Records | Ibtissam hammadi | [Read More](https://medium.com/p/070238ff9f4a) |
 | Tue, 07 Oct 2025 05:47:58 GMT | Why Removing Fake Apps Matters for Business: Guarding Your Brand Online | Ai Writter Tools | [Read More](https://medium.com/p/4c1829994a90) |
-| Tue, 07 Oct 2025 05:47:16 GMT | The Lost Glitches: A Cyberpunk Trading Card Game | Motoko Iwakura | [Read More](https://medium.com/p/c32a3c7c97f9) |
-| Tue, 07 Oct 2025 05:46:05 GMT | Cortex Cloud Code Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7fdeb1ca9744) |
-| Tue, 07 Oct 2025 05:37:01 GMT | Unpacking Security Flaws in MCP | minherz | [Read More](https://medium.com/p/570ef96b97fe) |
-| Tue, 07 Oct 2025 05:33:27 GMT | Why Small and Mid-Sized Businesses Are Prime Targets for Cyberattacks | Reghu Mohandas | [Read More](https://medium.com/p/806893e20b98) |
-| Tue, 07 Oct 2025 05:24:12 GMT | How to Guard Your Brand from Consumer Phishing Attacks | Ai Writter Tools | [Read More](https://medium.com/p/423e6b229c3b) |
-| Tue, 07 Oct 2025 05:21:36 GMT | The 3 Cybersecurity Skills That Will Make You Irreplaceable in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/f389bd4c7491) |
-| Tue, 07 Oct 2025 05:18:19 GMT | Advanced Alert Security Services and Cyber Monitoring Solutions | Vijilan | [Read More](https://medium.com/p/d7499aab772a) |
-| Tue, 07 Oct 2025 05:17:31 GMT | Hidden Malware Traps During Installations and How to Dodge Them | Ask IT Support | [Read More](https://medium.com/p/2808a0ac532a) |
-| Tue, 07 Oct 2025 05:04:26 GMT | India’s deterrence in a Cyber Civilisation | Isha Paroha Pandey | [Read More](https://medium.com/p/bfcf7ee852bc) |
-| Tue, 07 Oct 2025 05:03:04 GMT | Cybersecurity in Python: Building Secure Apps with Cryptography Libraries | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/233adcbd3a04) |
-| Tue, 07 Oct 2025 05:02:15 GMT | From Active Directory to IAM: Escaping the Chaos of Legacy Identity Management | Khalid Hussain | [Read More](https://medium.com/p/d5b6f788fed3) |
-| Tue, 07 Oct 2025 04:57:55 GMT | Electronic Shelf Labels Market Size, Share, Growth and Forecast [2025–2032] | rahul salunkhe | [Read More](https://medium.com/p/a2d0845f0d70) |
-| Tue, 07 Oct 2025 04:56:33 GMT | Migrating to PostgreSQL 18: Performance Gains and Breaking Changes | Rizqi Mulki | [Read More](https://medium.com/p/291c55f79012) |
-| Tue, 07 Oct 2025 04:56:11 GMT | Smart Education and Learning Market Size, Trends, Growth and Forecast [2025–2032] | rahul salunkhe | [Read More](https://medium.com/p/fe089d75c12f) |
-| Tue, 07 Oct 2025 04:53:00 GMT | Is Ethical Hacking Dead? | Shahzaib | [Read More](https://medium.com/p/8810b9412184) |
-| Tue, 07 Oct 2025 04:49:19 GMT | “Everything’s Legit… Until It Isn’t”: Inside a Fintech Hustle with Toby | Internet Exposed | [Read More](https://medium.com/p/0ae51035ebed) |
-| Tue, 07 Oct 2025 04:39:56 GMT | The Psychology of Hacking: How Hackers Think — and Why It Works | IamPreth | [Read More](https://medium.com/p/3818ffa9fc63) |
-| Tue, 07 Oct 2025 04:37:54 GMT | Cybersecurity Isn’t Optional Anymore — Ignore It and Risk Extinction | Rizqi Mulki | [Read More](https://medium.com/p/017445252269) |
