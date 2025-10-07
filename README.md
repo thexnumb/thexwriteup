@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 15:31:54 GMT | Comprehensive Bug Bounty Methodology Guide: Recon & Vulnerability Testing | Mike (sl0th0x87) | [Read More](https://medium.com/p/13602a12f1cb) |
+| Tue, 07 Oct 2025 15:28:52 GMT | Quick Tunnel: Local Web to Public Domain | ZAST AI | [Read More](https://medium.com/p/1c76de2e41b7) |
+| Tue, 07 Oct 2025 15:27:51 GMT | I Monitor Sleep Studies at Night... | PhantomInk | [Read More](https://medium.com/p/ad9b9d5e37f5) |
+| Tue, 07 Oct 2025 15:27:35 GMT | Splunking with Zeek Part 2 | Luke | [Read More](https://medium.com/p/96fe6100f7c7) |
+| Tue, 07 Oct 2025 15:23:04 GMT | Exam Cram vs. Long Study: Which Works Better? | VERSAtile Reads | [Read More](https://medium.com/p/140896e63b8e) |
+| Tue, 07 Oct 2025 15:19:33 GMT | AI at Work: Shadow Systems, Agentic Autonomy, and the Security–Productivity Fault Line | Joseph | [Read More](https://medium.com/p/55369fc071b9) |
 | Tue, 07 Oct 2025 15:17:51 GMT | How I Locked Out Every Owner and Admin in the Organization with a Single Request | 0xSOM3A | [Read More](https://medium.com/p/0de425cddb5b) |
 | Tue, 07 Oct 2025 15:16:28 GMT | Beyond the Patchwork: Why Cybersecurity Needs Holistic Context, Not More Tools | Eric Zietlow | [Read More](https://medium.com/p/c6fb0ed54293) |
 | Tue, 07 Oct 2025 15:16:27 GMT | Hit a Milestone: 100+ Published Articles on Medium! | Inayat Hussain | [Read More](https://medium.com/p/3260118a2860) |
@@ -38,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 14:06:30 GMT | Crafting Secure Authentication Systems with NextAuth.js: A 2025 Perspective | @rnab | [Read More](https://medium.com/p/5e14112e528e) |
 | Tue, 07 Oct 2025 14:06:28 GMT | Prevention Before Detection — How Abatis Stops Malware Before It Starts | Abatis ABTU | [Read More](https://medium.com/p/7daeb2036d91) |
 | Tue, 07 Oct 2025 14:04:50 GMT | From Factory Floor to Firewall: Strengthening Cybersecurity in Manufacturing | Cybersecurity Umbrella | [Read More](https://medium.com/p/7714b0b37b4b) |
+| Tue, 07 Oct 2025 14:04:17 GMT | “AI: The New Cybersecurity Battleground — Shadow AI, Agentic Risks, and the Productivity vs. | Joseph | [Read More](https://medium.com/p/cb3f428a75bc) |
 | Tue, 07 Oct 2025 14:03:50 GMT | How to prevent Ransomware Attacks on Android — By N7 Cyber Security & Private Investigation Firm | N7 Cyber Security & Private Investigation | [Read More](https://medium.com/p/8c7d61831526) |
 | Tue, 07 Oct 2025 14:02:08 GMT | How to Change a Battery in a Garage Door Opener Remote: Quick DIY Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/52b43df59d5b) |
 | Tue, 07 Oct 2025 14:02:05 GMT | Cyber Briefing: 2025.10.07 | CyberMaterial | [Read More](https://medium.com/p/b9efb5f0516e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 11:12:02 GMT | Tried Amazon Macie for the First Time — Here’s What I Found | Binisha Joshi | [Read More](https://medium.com/p/36b6d7de40f1) |
 | Tue, 07 Oct 2025 11:04:31 GMT | XWorm 6.0: the return of the modular RAT and why it’s a real threat | Germano Costi | [Read More](https://medium.com/p/d57c65bfba7d) |
 | Tue, 07 Oct 2025 11:02:51 GMT | DocuBot (CyberTalents) — Exploiting an AI Summarizer via Prompt Injection | Te父cno | [Read More](https://medium.com/p/c844dff38425) |
-| Tue, 07 Oct 2025 11:01:39 GMT | Applied Cybersecurity Engineering | Fadhila TLILI | [Read More](https://medium.com/p/3d0a5805ef63) |
-| Tue, 07 Oct 2025 11:01:15 GMT | Cyber Resilience Act FAQ: Support Period | Sarah Fluchs | [Read More](https://medium.com/p/c9713f1ce7ed) |
-| Tue, 07 Oct 2025 10:58:52 GMT | How Top SaaS Use Trust Centers to Close Deals 2× Faster | SecureSlate | [Read More](https://medium.com/p/f06ac9a571ea) |
-| Tue, 07 Oct 2025 10:58:18 GMT | Capturing “An Unusual Sighting” HTB Try Out Flag | Hem Prasad | [Read More](https://medium.com/p/9bdbd643e425) |
-| Tue, 07 Oct 2025 10:54:19 GMT | Puerto Rico’s Imperative Hour: Why Statehood as the 51st Star is Essential for American Security… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/aae43887e3da) |
-| Tue, 07 Oct 2025 10:51:46 GMT | NAKIVO Announces: v11.1 Released and Available for Download | NAKIVO | [Read More](https://medium.com/p/6b232a58d03d) |
-| Tue, 07 Oct 2025 10:43:57 GMT | DockerLabs Writeup — UserSearch (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/793debe4ccba) |
