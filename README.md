@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 21:31:26 GMT | Top 10 Cybersecurity Mistakes Everyone Makes Without Knowing | Kakashi | [Read More](https://medium.com/p/8198652c3329) |
+| Tue, 07 Oct 2025 21:21:39 GMT | The Future of AI Cybersecurity: 7 Trends Shaping the Next Digital Battlefield | Roger Millar | [Read More](https://medium.com/p/235294134c81) |
+| Tue, 07 Oct 2025 21:20:54 GMT | English Is Full of Bugs | acweaver | [Read More](https://medium.com/p/a80b290d13c4) |
 | Tue, 07 Oct 2025 21:02:34 GMT | A clickfix that turned into persistent NetSupport access | TheFIR.io | [Read More](https://medium.com/p/663e621ac71b) |
 | Tue, 07 Oct 2025 20:57:52 GMT | Remote CCTV Access Setup Guide | Visual Monitoring Solutions | [Read More](https://medium.com/p/2f31702cc6e8) |
 | Tue, 07 Oct 2025 20:55:29 GMT | Oracle E-Business Suite Zero-Day Exploited in Clop Data Theft Attacks: CVE-2025–61882 | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/73bff4e92545) |
@@ -73,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 17:51:47 GMT | Can AI Predict the Next Cyber Threat? | Rabail Zaheer | [Read More](https://medium.com/p/5a2de8d7cb51) |
 | Tue, 07 Oct 2025 17:51:30 GMT | CloudFront Signed URLs vs Signed Cookies: A Practical Guide for Secure Content Delivery | Minno Sahu | [Read More](https://medium.com/p/1d8c2aecab59) |
 | Tue, 07 Oct 2025 17:50:29 GMT | Understanding Why No Application Encryption Key Has Been Specified in Laravel | Devin Rosario | [Read More](https://medium.com/p/9fa03ad743df) |
+| Tue, 07 Oct 2025 17:49:04 GMT | La historia del primer honeypot — Cómo un truco engañó a los primeros ciberdelincuentes | Tiziano Mass | [Read More](https://medium.com/p/aa9bf1b6f722) |
 | Tue, 07 Oct 2025 17:43:37 GMT | Scaling Python to the Next Level: My Real-World Journey From Simple Scripts to Production-Ready… | Kainat Nafees | [Read More](https://medium.com/p/e27c052c90fa) |
 | Tue, 07 Oct 2025 17:43:32 GMT | Stuck
 I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac9306ad) |
@@ -109,7 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 16:14:57 GMT | Enhancing technology enhancing crime' | souvik Das | [Read More](https://medium.com/p/7c9b5530fd7a) |
 | Tue, 07 Oct 2025 16:13:36 GMT | Tryhackme — Directory | asliulusoy | [Read More](https://medium.com/p/95f9b757ef9c) |
 | Tue, 07 Oct 2025 16:12:41 GMT | THE WEIGHT OF THE SMILE…. | Zahra Noor | [Read More](https://medium.com/p/99039dab50bd) |
-| Tue, 07 Oct 2025 16:04:37 GMT | PortSwigger mystery lab write-up — SQL injection: SQL injection attack, listing the database… | Hubert | [Read More](https://medium.com/p/004d5cd66078) |
-| Tue, 07 Oct 2025 15:59:53 GMT | My View on the Jr Penetration Tester Learning Path of TryHackMe | Tauseef Ahmed | [Read More](https://medium.com/p/803a3b7afbe8) |
-| Tue, 07 Oct 2025 15:54:58 GMT | How to build a step‑by‑step Home Hacking lab for learning Kali Linux,  vulnerable VMs? | ChennaKeshava | [Read More](https://medium.com/p/266001bb2227) |
-| Tue, 07 Oct 2025 15:54:43 GMT | Building the Leading Open-Source Pentesting Agent: Architecture Lessons from XBOW Benchmark | Aaron Brown | [Read More](https://medium.com/p/f6874f932ca4) |
