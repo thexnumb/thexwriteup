@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 20:38:48 GMT | Exploiting Cross-Site Scripting (XSS) Vulnerabilities to Obtain Valid Session Identifiers | Ends2Tech | [Read More](https://medium.com/p/4ed30e3cf773) |
+| Tue, 07 Oct 2025 20:32:34 GMT | Siber Güvenliğe Giriş | Muhammed Salih Acar | [Read More](https://medium.com/p/62adb7d9cadd) |
+| Tue, 07 Oct 2025 20:24:22 GMT | How to Fix Packet Loss: Causes, Solutions, and Prevention Tips | SafeAeon Inc. | [Read More](https://medium.com/p/b0a7a1e8a588) |
+| Tue, 07 Oct 2025 20:23:44 GMT | Security and Performance Aspects of TCP/IP Stack Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/e6fc26ba9e63) |
 | Tue, 07 Oct 2025 20:16:37 GMT | Day 2 of my Cybersecurity Journey: Learning Linux Fundamentals | Ogundipe Priscilla | [Read More](https://medium.com/p/a3d64ab59a73) |
 | Tue, 07 Oct 2025 20:16:28 GMT | Container Security for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/8e78d04012bd) |
 | Tue, 07 Oct 2025 20:16:02 GMT | Web3 Security: Protect Yourself in This New Age Market | Itachi | [Read More](https://medium.com/p/e29230772ba3) |
@@ -109,7 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 15:49:39 GMT | Top 5 Cybersecurity Practices Every Organization Should Adopt in 2025 | Jorry Senestant | [Read More](https://medium.com/p/370b0671a892) |
 | Tue, 07 Oct 2025 15:45:29 GMT | How to build a bank p5: The file share server | Logan Elkins | [Read More](https://medium.com/p/b148f82f11bc) |
 | Tue, 07 Oct 2025 15:42:43 GMT | One Wish I Want God to Fulfill for Once. | Sophia Onuora | [Read More](https://medium.com/p/e66090ae3eb8) |
-| Tue, 07 Oct 2025 15:40:47 GMT | The Human Weakness in a Decentralised World: Phishing Attacks and Social Engineering in Web3 | Extropy.IO | [Read More](https://medium.com/p/cf76ab19ffdf) |
-| Tue, 07 Oct 2025 15:33:59 GMT | Looking to Migrate Concrete5 to WordPress? Here’s What You Should Know | Chris | [Read More](https://medium.com/p/6d42abfd9789) |
-| Tue, 07 Oct 2025 15:31:54 GMT | Comprehensive Bug Bounty Methodology Guide: Recon & Vulnerability Testing | Mike (sl0th0x87) | [Read More](https://medium.com/p/13602a12f1cb) |
-| Tue, 07 Oct 2025 15:28:52 GMT | Quick Tunnel: Local Web to Public Domain | ZAST AI | [Read More](https://medium.com/p/1c76de2e41b7) |
