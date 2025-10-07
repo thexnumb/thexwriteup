@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 18:20:36 GMT | ️ Mobile Application Security: Protecting Your App from Code to Cloud | Mrinal Maheshwari | [Read More](https://medium.com/p/24614d1e31b2) |
+| Tue, 07 Oct 2025 18:03:13 GMT | Iframe Payment Security Risks and PCI DSS 6.4.3 Best Practices | Feroot Security | [Read More](https://medium.com/p/c30a1ada4ff6) |
+| Tue, 07 Oct 2025 18:03:04 GMT | Deep Dive into Container Security on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/58fad728dcf8) |
+| Tue, 07 Oct 2025 18:01:10 GMT | Who Can You Really Trust on Tor? | Himanshu0ix | [Read More](https://medium.com/p/d30223e9c7e7) |
+| Tue, 07 Oct 2025 17:59:12 GMT | Indian Army Terrier Cyber Quest 2025 | ViperX | [Read More](https://medium.com/p/a6544b58ec8a) |
+| Tue, 07 Oct 2025 17:58:31 GMT | 8 Things To Do To Stay Safe in the AI-Driven Cybersecurity Era | Praveen Xavier | [Read More](https://medium.com/p/75edbb4bcfd9) |
+| Tue, 07 Oct 2025 17:58:02 GMT | Detecting Honeytokens with Koney and Tetragon on AWS EKS (Part 1/2). | Alex | [Read More](https://medium.com/p/84c478151b8a) |
+| Tue, 07 Oct 2025 17:55:21 GMT | Seccomp Filters Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/188a15b4bf3e) |
+| Tue, 07 Oct 2025 17:51:47 GMT | Can AI Predict the Next Cyber Threat? | Rabail Zaheer | [Read More](https://medium.com/p/5a2de8d7cb51) |
+| Tue, 07 Oct 2025 17:51:30 GMT | CloudFront Signed URLs vs Signed Cookies: A Practical Guide for Secure Content Delivery | Minno Sahu | [Read More](https://medium.com/p/1d8c2aecab59) |
+| Tue, 07 Oct 2025 17:50:29 GMT | Understanding Why No Application Encryption Key Has Been Specified in Laravel | Devin Rosario | [Read More](https://medium.com/p/9fa03ad743df) |
+| Tue, 07 Oct 2025 17:43:37 GMT | Scaling Python to the Next Level: My Real-World Journey From Simple Scripts to Production-Ready… | Kainat Nafees | [Read More](https://medium.com/p/e27c052c90fa) |
+| Tue, 07 Oct 2025 17:43:32 GMT | Stuck
+I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac9306ad) |
+| Tue, 07 Oct 2025 17:42:06 GMT | More Than Pixels: The Hidden Responsibilities of a Front-End Developer | Pablo Nicholas | [Read More](https://medium.com/p/9eb2f528fa56) |
+| Tue, 07 Oct 2025 17:40:49 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/6e9d78c23ba6) |
+| Tue, 07 Oct 2025 17:34:20 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/1c655783720a) |
 | Tue, 07 Oct 2025 17:28:26 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/83ff9664fb2f) |
+| Tue, 07 Oct 2025 17:25:28 GMT | SNMP Analysis | Dharmendrakumar | [Read More](https://medium.com/p/00c7af1e801e) |
 | Tue, 07 Oct 2025 17:22:00 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b0eff5d0bc22) |
 | Tue, 07 Oct 2025 17:21:14 GMT | The Quantum Threat is Real: AWS’s Plan and your action | Rachana Gupta | [Read More](https://medium.com/p/6e27d04deb99) |
 | Tue, 07 Oct 2025 17:20:03 GMT | This Week in Resilience | Sherilyn Burris | [Read More](https://medium.com/p/652d58272633) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 13:51:14 GMT | A short note of losing humanity… | Costa Shapiro | [Read More](https://medium.com/p/589a611357a9) |
 | Tue, 07 Oct 2025 13:36:40 GMT | The Invisible Risks Costing Your Industry Millions (And How AI-Powered Visual Oversight Fixes Them) | Tec-Tel Communications | [Read More](https://medium.com/p/2e806fd449b4) |
 | Tue, 07 Oct 2025 13:36:03 GMT | Authentication (sorry, no whitepaper for you) | Alex Smirnoff | [Read More](https://medium.com/p/4a46f7f4ff4b) |
-| Tue, 07 Oct 2025 13:29:21 GMT | Think Like a Hacker, Defend Like a Pro: Benchmark Your Cybersecurity Expertise | Benda Infotech | [Read More](https://medium.com/p/7b1ddaca1cb1) |
-| Tue, 07 Oct 2025 13:29:08 GMT | Start with Security, End with Confidence | Global Technology | [Read More](https://medium.com/p/17e64defe962) |
-| Tue, 07 Oct 2025 13:27:58 GMT | How to Bypass File Upload Restrictions | Ibtissam hammadi | [Read More](https://medium.com/p/d4b1e4c1b5d2) |
-| Tue, 07 Oct 2025 13:26:50 GMT | The Gentlemen Ransomware Group Profile — Part 3: Operations | gm0 | [Read More](https://medium.com/p/144eefa59d8a) |
-| Tue, 07 Oct 2025 13:25:47 GMT | Client-Side Desync: Breaking the Sequence | Geni_Wazir | [Read More](https://medium.com/p/afe010e76f9b) |
-| Tue, 07 Oct 2025 13:24:27 GMT | Why I Always Isolate Critical Services with systemd Sandboxing | Faruk Ahmed | [Read More](https://medium.com/p/cde49b33ab59) |
-| Tue, 07 Oct 2025 13:22:59 GMT | Why Network and System Misconfigurations Lead to Catastrophic Breaches | IT_Engineer | [Read More](https://medium.com/p/5105c5b65678) |
-| Tue, 07 Oct 2025 13:19:47 GMT | Building the Future of Solidity with Drosera | npccrypto | [Read More](https://medium.com/p/1b2e39551681) |
-| Tue, 07 Oct 2025 13:18:07 GMT | Why Re Audits Every Line: Our Security-First Infrastructure | Re | [Read More](https://medium.com/p/fc4ede8166c8) |
-| Tue, 07 Oct 2025 13:17:57 GMT | A Senior Challenged Me to Build an Automated SOC Demo. Here’s What I Built. | Manish Rawat | [Read More](https://medium.com/p/32c9995857e2) |
-| Tue, 07 Oct 2025 13:11:16 GMT | eKYC 2025: Ladki Bahin Yojana: Procedure, Records, and Online Updates | Hardinnews | [Read More](https://medium.com/p/266a85f3a2f1) |
-| Tue, 07 Oct 2025 13:09:54 GMT | Globalcryptous.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/edcd40aeefb9) |
-| Tue, 07 Oct 2025 13:09:04 GMT | The Gentlemen Ransomware Group Profile — Part 4: Impact | gm0 | [Read More](https://medium.com/p/15c6f1effc63) |
-| Tue, 07 Oct 2025 13:06:16 GMT | Is Hikkod.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/fea57a4d11d4) |
-| Tue, 07 Oct 2025 13:06:14 GMT | ️ How to Seamlessly Upgrade Wazuh Agents: A Step-by-Step Guide | MARLON MUTIANGPILI | [Read More](https://medium.com/p/4e794eb1b936) |
-| Tue, 07 Oct 2025 13:03:48 GMT | Building Cyber Resilience in Africa, Strategies for Businesses and Professionals to Stay Ahead of… | ED-360 AFRICA | [Read More](https://medium.com/p/1ca854e52f1d) |
-| Tue, 07 Oct 2025 13:01:31 GMT | Nokia WIFI 6 1426-G Fiber ONT: How to Extract and View Your PPPOE username and password | Abdelwahed AJ | [Read More](https://medium.com/p/3d68aee3f23b) |
