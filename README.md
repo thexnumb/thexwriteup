@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 23:13:36 GMT | Incident Snapshot Toolkit: Automating Evidence Capture for Small Ops | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3d709bd4d1ba) |
+| Tue, 07 Oct 2025 22:57:30 GMT | Obtaining session cookies via XSS (Netcat edition) | Ends2Tech | [Read More](https://medium.com/p/8e09f1ffc69d) |
+| Tue, 07 Oct 2025 22:47:01 GMT | “ Irish-Name-Repo “ Challenges | oussama | [Read More](https://medium.com/p/288413050956) |
+| Tue, 07 Oct 2025 22:46:25 GMT | Late-Night Journaling: A Review of My Most Honest Conversations | Darpan Murly | [Read More](https://medium.com/p/733d3eda7509) |
+| Tue, 07 Oct 2025 22:43:33 GMT | SOC251 — Operation Quishing Raid: When QR Codes Attack | Andrew Williams | [Read More](https://medium.com/p/47f1aa091dc0) |
+| Tue, 07 Oct 2025 22:38:05 GMT | The Future Unfolds: 2026 Predictions for the IT Sector | Tech With Curly Girl | [Read More](https://medium.com/p/de18cac48e94) |
 | Tue, 07 Oct 2025 22:36:06 GMT | Vulnerability Data Enrichment for CVE Records: 252 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/db09abac48ac) |
 | Tue, 07 Oct 2025 22:22:42 GMT | Data Privacy | John Odumesi | [Read More](https://medium.com/p/14b727791d55) |
 | Tue, 07 Oct 2025 22:16:08 GMT | GDPR Compliance Checklist for Next.js Apps | Kidaneg | [Read More](https://medium.com/p/801c9ea75780) |
@@ -107,9 +113,3 @@ I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac
 | Tue, 07 Oct 2025 17:21:14 GMT | The Quantum Threat is Real: AWS’s Plan and your action | Rachana Gupta | [Read More](https://medium.com/p/6e27d04deb99) |
 | Tue, 07 Oct 2025 17:20:03 GMT | This Week in Resilience | Sherilyn Burris | [Read More](https://medium.com/p/652d58272633) |
 | Tue, 07 Oct 2025 17:19:31 GMT | Hidden Secrets: Advanced Google Dorking on GitHub’s raw.githubusercontent.com | Abba Abdullahi Wakili | [Read More](https://medium.com/p/675374870756) |
-| Tue, 07 Oct 2025 17:17:38 GMT | How To Build BAD API’s | API Expert | [Read More](https://medium.com/p/1d8ea82f67b8) |
-| Tue, 07 Oct 2025 17:17:27 GMT | The Top VPN Routers in 2025 | NextGen Tech Insights | [Read More](https://medium.com/p/d6f1ec4f87fa) |
-| Tue, 07 Oct 2025 17:16:49 GMT | SMB Relay Attack | Dharmendrakumar | [Read More](https://medium.com/p/752cb6d2c797) |
-| Tue, 07 Oct 2025 17:15:35 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/b632c784a532) |
-| Tue, 07 Oct 2025 17:10:08 GMT | Visible Error-Based SQL Injection | Marduk I Am | [Read More](https://medium.com/p/2deb4b77ac64) |
-| Tue, 07 Oct 2025 17:03:38 GMT | Airtel Business Secures Railways Cybersecurity Contract, AI, 24/7 Protection and Sovereign Tech in… | Avijitdey | [Read More](https://medium.com/p/b692275435a5) |
