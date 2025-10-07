@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Oct 2025 03:14:40 GMT | Write-up PicoCTF: Web Exploitation ‘where are the robots’ | Muhammad Khairin | [Read More](https://medium.com/p/b7c2ac715890) |
+| Tue, 07 Oct 2025 03:02:00 GMT | Copenhagen, Oslo, Heathrow: Europe’s Airports Under Siege | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/7f846c459d63) |
+| Tue, 07 Oct 2025 03:01:55 GMT | The Courage to Be Seen: How Vulnerability Becomes Strength | KOUSUMI CHAUDHURI | [Read More](https://medium.com/p/1de1ee580e23) |
 | Tue, 07 Oct 2025 02:52:24 GMT | 20. Common Payloads and Wordlists That Save Me Hours | Abhijeet kumawat | [Read More](https://medium.com/p/1535800eb8f2) |
+| Tue, 07 Oct 2025 02:50:30 GMT | Are you Leaking your Company secrets to AI? | Varsha | [Read More](https://medium.com/p/6da2d42d1b04) |
 | Tue, 07 Oct 2025 02:47:12 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/db22fe7a15e3) |
 | Tue, 07 Oct 2025 02:41:23 GMT | Linux log analysis | Linux Guide | [Read More](https://medium.com/p/31bcb0468797) |
 | Tue, 07 Oct 2025 02:37:47 GMT | What I’ve Learned From The ISC2’s Webinar Entitled: “From Shield to Spear: How AI is Reshaping… | Martin L | [Read More](https://medium.com/p/cfc83deb8b31) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Oct 2025 18:08:19 GMT | How to Lock a Double Door: Securing French and Double Entry Doors | Sure Lock & Key LLC | [Read More](https://medium.com/p/3631e34067a6) |
 | Mon, 06 Oct 2025 18:04:28 GMT | Bandit - Level 6→ 7- OverTheWire | Deepika  B | [Read More](https://medium.com/p/34850b962d48) |
 | Mon, 06 Oct 2025 18:01:53 GMT | Hash Me If You Can — How I Beat a 2-Second Hashing Challenge on RingZer0Team | Sh3nobi | [Read More](https://medium.com/p/a61cf0a87291) |
-| Mon, 06 Oct 2025 17:57:18 GMT | Top 10 Cybersecurity Mistakes People Still Make | Asif.k | [Read More](https://medium.com/p/7079d3b9614c) |
-| Mon, 06 Oct 2025 17:56:38 GMT | The Cybersecurity Sentinel (October 2025) | Franklin Rhodes | [Read More](https://medium.com/p/b13fdea8f501) |
-| Mon, 06 Oct 2025 17:56:26 GMT | Exploring Security Hardening with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/ef16bbab2969) |
-| Mon, 06 Oct 2025 17:51:02 GMT | ️ Building My Own Cloud SOC from Scratch on AWS | Shadin | [Read More](https://medium.com/p/786f3c5b61e4) |
