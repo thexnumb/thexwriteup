@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 22:36:27 GMT | Google’s New AI Doesn’t Just Spot Vulnerabilities — It Rewrites Code to Fix Them | Cyber-AppSec | [Read More](https://medium.com/p/a180e6606346) |
+| Wed, 08 Oct 2025 22:28:24 GMT | So Many Powerful Organizations… Yet Scams Keep Growing | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/04449501e4d3) |
+| Wed, 08 Oct 2025 22:18:01 GMT | Why Drosera Could Redefine the Future of Web3 Investing | Jude Johnson | [Read More](https://medium.com/p/13c6a2f01cda) |
 | Wed, 08 Oct 2025 22:15:10 GMT | AI HALLUCINATIONS ​⋆｡°✩ --- ⋆｡°✩ | Haven ✦ by the future | [Read More](https://medium.com/p/ce600062f89f) |
 | Wed, 08 Oct 2025 22:09:56 GMT | Social Engineering | John Odumesi | [Read More](https://medium.com/p/4f23a301336e) |
 | Wed, 08 Oct 2025 22:09:36 GMT | Intro to Network Analyst Walkthrough | Jose Diaz | [Read More](https://medium.com/p/7eec979cb581) |
+| Wed, 08 Oct 2025 22:08:38 GMT | Too Cautious to Connect? | Drew Lisso | [Read More](https://medium.com/p/4b71a3e26d08) |
 | Wed, 08 Oct 2025 22:05:29 GMT | The V1 Stack Gets You Started. It Won’t Get You to Scale. | Daniel Leeder | [Read More](https://medium.com/p/31702d53e7c9) |
 | Wed, 08 Oct 2025 22:05:11 GMT | That ‘Free Wi-Fi’ Sign Might Be the Most Expensive Thing in the Coffee Shop | Samirah A.O | [Read More](https://medium.com/p/88c98bc590a3) |
 | Wed, 08 Oct 2025 22:04:51 GMT | ways to claim Etherchain Ai presale token award | Etherchain | [Read More](https://medium.com/p/ee406f8dc1e3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 16:37:05 GMT | Important Facts To Know About Bitcoin Wallets | VTECH | [Read More](https://medium.com/p/6d6ad2daad94) |
 | Wed, 08 Oct 2025 16:35:54 GMT | Case Study: Mobile Remote Access Trojan Deployment — Social Engineering Techniques and Defense… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/a74292a01e4d) |
 | Wed, 08 Oct 2025 16:32:25 GMT | Watcher - TryHackMe CTF Walkthrough | Robert Gooding | [Read More](https://medium.com/p/9483ea5b9a53) |
-| Wed, 08 Oct 2025 16:30:34 GMT | we’ve come so far.. | meiji | [Read More](https://medium.com/p/ac65a2e23f2f) |
-| Wed, 08 Oct 2025 16:29:36 GMT | Agentic AI Is Here. Security Needs to Catch Up. | Jared Hudgins | [Read More](https://medium.com/p/8d04d22682ab) |
-| Wed, 08 Oct 2025 16:27:31 GMT | Proxy Pattern: The “Bouncer” That Makes Your Code Smarter, Safer, and Faster | Kawaldeep Singh | [Read More](https://medium.com/p/cfea4152448b) |
-| Wed, 08 Oct 2025 16:25:17 GMT | The 250-Day Risk Window: How an AI PDF Editor Vulnerability Demonstrates the Public Directory Blind… | Spektion | [Read More](https://medium.com/p/ec280b8a6865) |
