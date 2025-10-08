@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 10:15:53 GMT | Browser Agents Are Here: What Google’s ‘Computer Use’ Gemini Means for Enterprise Workflows | Scott Hendrix | [Read More](https://medium.com/p/77410537b0cf) |
+| Wed, 08 Oct 2025 10:12:44 GMT | Hikvision CCTV System Setup for Corporate Office Security Dhaka | optimationbd | [Read More](https://medium.com/p/43e41755ebc4) |
+| Wed, 08 Oct 2025 10:11:38 GMT | Why Python Remains a Dependable Choice for Enterprise FinTech | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/df947d7cc0e8) |
+| Wed, 08 Oct 2025 10:10:42 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/140d81099389) |
+| Wed, 08 Oct 2025 10:07:27 GMT | The AI Revolution Everyone Missed Is Happening in the Physical World | Mia Balan | [Read More](https://medium.com/p/3915fec5e7be) |
+| Wed, 08 Oct 2025 10:05:26 GMT | Toasters Market Size to Reach USD 5.29 Billion by 2030, Driven by Changing Consumer Preferences | Rakeshnaidu | [Read More](https://medium.com/p/591ab9d60c11) |
+| Wed, 08 Oct 2025 10:04:28 GMT | Best Managed Cybersecurity Services Provider In India - Net Access | Mathewneelan | [Read More](https://medium.com/p/d00b28005421) |
+| Wed, 08 Oct 2025 09:59:06 GMT | Why Learning Assembly Makes You a Better Hacker & Coder (Part II) | Beri Contraster | [Read More](https://medium.com/p/1bf97fb1851e) |
+| Wed, 08 Oct 2025 09:54:26 GMT | Your Face Isn’t Yours Anymore: Inside the Privacy Maze of Sora 2’s Cameo Feature | Oshada Rashmika | [Read More](https://medium.com/p/7dff5c7bca2a) |
+| Wed, 08 Oct 2025 09:54:23 GMT | CORS Vulnerability with Trusted Insecure Protocols BurpSuite Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/5004688e6018) |
+| Wed, 08 Oct 2025 09:54:08 GMT | The H-1B Visa Debate | Vivekanand Pandey | [Read More](https://medium.com/p/ea176654deff) |
+| Wed, 08 Oct 2025 09:50:33 GMT | Tech for Good or Tech for Control? Surveillance, Privacy, and the New Social Contract | Vijayakumar G A | [Read More](https://medium.com/p/36c6eed0bc52) |
+| Wed, 08 Oct 2025 09:50:06 GMT | Crack The Gate 1 picomini by CMU-Africa | Samuel Jack | [Read More](https://medium.com/p/5ca1f3b5b4a5) |
+| Wed, 08 Oct 2025 09:47:54 GMT | Configuring Conditional Access in Microsoft Entra ID with a Zero Trust Mindset | Konstantinos Lianos | [Read More](https://medium.com/p/c4c322d141ea) |
+| Wed, 08 Oct 2025 09:46:16 GMT | mTLS in Spring: why it matters and how to implement it with HashiCorp Vault and in-memory… | Frolikov | [Read More](https://medium.com/p/94afffea6b9b) |
+| Wed, 08 Oct 2025 09:44:25 GMT | UK Cloud Application Security Market, Size, Share, Growth, Demand & Forecast -2031 | Swapnil b | [Read More](https://medium.com/p/008b95771422) |
+| Wed, 08 Oct 2025 09:44:02 GMT | Best Business Intelligence Services and Solutions in India, UK & USA | Juarait Digital | [Read More](https://medium.com/p/5920f73efffd) |
+| Wed, 08 Oct 2025 09:43:46 GMT | Your Data Is the New Currency — Building a Safer Digital Future | NitinKumar Shrimali | [Read More](https://medium.com/p/156a5efd8ed9) |
+| Wed, 08 Oct 2025 09:43:27 GMT | Career Opportunities after B.Tech in Information Technology | JIS Group | [Read More](https://medium.com/p/5eccca584a6d) |
+| Wed, 08 Oct 2025 09:42:33 GMT | GEOINT: How Casual Employee Photos Reveal Business Secrets | Roman ALEFAIDEA | [Read More](https://medium.com/p/1175b179da55) |
+| Wed, 08 Oct 2025 09:42:14 GMT | How to Prevent a Major Cyber Attack: RealWorld Examples and Proven Strategies | peopletech | [Read More](https://medium.com/p/476950b30971) |
+| Wed, 08 Oct 2025 09:29:43 GMT | Social Media Safety and Awareness in the Digital Age | VULN-VAULT | [Read More](https://medium.com/p/472836bae114) |
 | Wed, 08 Oct 2025 09:28:54 GMT | Why We’re Building Virtual AI Security Engineers | Aakash Singh | [Read More](https://medium.com/p/6a36670180c4) |
 | Wed, 08 Oct 2025 09:27:34 GMT | The Chain Reaction: How Smart Hackers Turn Tiny Bugs Into Big Paydays | Đeepanshu | [Read More](https://medium.com/p/97cdaeab8afa) |
 | Wed, 08 Oct 2025 09:27:25 GMT | Ensuring Safety and Trust: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/ae25cf77d04c) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 05:23:01 GMT | The Evolution of Security Policies | Cyber Security Research | [Read More](https://medium.com/p/037b1adc4a7f) |
 | Wed, 08 Oct 2025 05:18:50 GMT | Top Privacy Management Software for 2025 | Gauri Kale | [Read More](https://medium.com/p/14e76814e079) |
 | Wed, 08 Oct 2025 05:18:47 GMT | The Hidden Network Mistake That Hackers Love | Ask IT Support | [Read More](https://medium.com/p/97bcf7e5004d) |
-| Wed, 08 Oct 2025 05:17:03 GMT | The Human Element in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/8f717e53e2fb) |
-| Wed, 08 Oct 2025 05:15:13 GMT | TryHackMe: Agent Sudo Writeup | cbev | [Read More](https://medium.com/p/29d93f005095) |
-| Wed, 08 Oct 2025 05:08:06 GMT | The BGP Vulnerability That Lets Countries Hijack Internet Traffic | Sohail x Codes | [Read More](https://medium.com/p/0802611d74b9) |
-| Wed, 08 Oct 2025 05:01:47 GMT | The Five Digital Skills That Will Outlive AI Itself | JetkingChandigarh | [Read More](https://medium.com/p/5d5a75db7ba1) |
-| Wed, 08 Oct 2025 05:00:12 GMT | Next in AI: Issue #9 | Sam Ghosh | [Read More](https://medium.com/p/1161075e6002) |
-| Wed, 08 Oct 2025 04:58:15 GMT | Confessions of a Crybaby. | blooms of may ᝰ.ᐟ | [Read More](https://medium.com/p/1fe9f88bede2) |
-| Wed, 08 Oct 2025 04:56:54 GMT | Prompt Injection Pandemonium: How I Hacked AI Assistants by Talking Them Into Betraying Their… | Iski | [Read More](https://medium.com/p/018276477ea9) |
-| Wed, 08 Oct 2025 04:55:44 GMT | Make your own simple Reverse Engineering Challenges for CTF with C | Zamh Putra | [Read More](https://medium.com/p/2a3a85297f44) |
-| Wed, 08 Oct 2025 04:50:18 GMT | Robots.txt in the Age of APIs: Why Your Microservices Need Recon Protection Too | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9813a390effa) |
-| Wed, 08 Oct 2025 04:45:58 GMT | Hidden Threats in the Cloud: How Misconfigurations Became the New Attack Surface | Saritamukkani | [Read More](https://medium.com/p/2829d7d07720) |
-| Wed, 08 Oct 2025 04:33:05 GMT | I Almost Fell for a Job Scam in Bangalore. Here’s How I Caught It Using OSINT ️‍♂️ | Sumanth Yerranagula | [Read More](https://medium.com/p/e65d5337d821) |
-| Wed, 08 Oct 2025 04:32:06 GMT | The Next Cyber Wars Won’t Be Hackers vs Humans — They’ll Be AI vs AI ⚔️ | Nithishkumar R | [Read More](https://medium.com/p/22dbb264be27) |
-| Wed, 08 Oct 2025 04:29:46 GMT | ProtoVault Breach : Offsec Gauntlet CTF 2025 | Shaheer Yasir | [Read More](https://medium.com/p/f650fef6db99) |
-| Wed, 08 Oct 2025 04:25:24 GMT | ️ 10 Django Security Best Practices That Don’t Slow Your App Down | Priyanshu Rajput | [Read More](https://medium.com/p/edae8ee0f826) |
-| Wed, 08 Oct 2025 04:08:21 GMT | Flutter’s Secret Defense Plan | Chirag Prajapati | [Read More](https://medium.com/p/74370445d4b6) |
-| Wed, 08 Oct 2025 03:54:14 GMT | How Online Investment Scams Steal Billions From You Each Year. | Levi Josh | [Read More](https://medium.com/p/b5eae0ad1e6a) |
-| Wed, 08 Oct 2025 03:53:34 GMT | Beyond alert(1): The Real-World Dangers of Cross-Site Scripting (XSS) in SPAs | InstaTunnel | [Read More](https://medium.com/p/1fdbc0a8d956) |
-| Wed, 08 Oct 2025 03:32:06 GMT | When Helpful Becomes Harmful: The Security Flaw in Lenovo’s Chatbot | Deven Chhajed | [Read More](https://medium.com/p/0d70927d0e3a) |
-| Wed, 08 Oct 2025 03:32:05 GMT | 7 Best Practices for JWT Rotation in Node.js APIs | Arunangshu Das | [Read More](https://medium.com/p/5b5643c096eb) |
-| Wed, 08 Oct 2025 03:30:02 GMT | Security Assessment: Vulnhub ICA1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/8d01830eb239) |
-| Wed, 08 Oct 2025 03:24:45 GMT | Ameriprise Interview Project — Automating IAM User Monitoring with AWS Lambda, S3, and CloudWatch | Amro Abu-Atieh | [Read More](https://medium.com/p/0482b2bf4baa) |
-| Wed, 08 Oct 2025 03:02:23 GMT | After my startup failed, I joined a cybersecurity company to learn, grow, and prepare for my next… | Khul Anwar | [Read More](https://medium.com/p/ccbb1b595711) |
