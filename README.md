@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 23:27:32 GMT | Need 24/7 Remote Security? | Visual Monitoring Solutions | [Read More](https://medium.com/p/b16e20d31c35) |
+| Wed, 08 Oct 2025 23:22:52 GMT | Why We Imagine Hackers in Hoodies | Rym Khelili | [Read More](https://medium.com/p/81b8692e482b) |
+| Wed, 08 Oct 2025 23:19:05 GMT | The Digital Guardian: How Encryption Protects Your Everyday Life | Peaches | [Read More](https://medium.com/p/2f7c49dd4ee5) |
 | Wed, 08 Oct 2025 23:10:53 GMT | Stop Clicking ‘Remind Me Later’ on Updates | Samirah A.O | [Read More](https://medium.com/p/b6bd4d43b8c8) |
 | Wed, 08 Oct 2025 22:55:48 GMT | The Digital Dark Knight | David ONeal | [Read More](https://medium.com/p/7e5778c0cea4) |
 | Wed, 08 Oct 2025 22:52:29 GMT | Can Your Smart TV Spy on You? Understanding Everyday Cyber Risks | Akshay Chauhan | [Read More](https://medium.com/p/a5f7a6207013) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 17:12:18 GMT | Explore Lucrative IT Jobs Without Coding Skills [2026] | Simplilearn | [Read More](https://medium.com/p/bd030d7c5489) |
 | Wed, 08 Oct 2025 17:08:46 GMT | Automating XSS Detection With Machine Learning: Beyond the Hype | Aj | [Read More](https://medium.com/p/036db1ec7458) |
 | Wed, 08 Oct 2025 17:07:08 GMT | Part 2: Naming The Server and Installing Active Directory | Declan | [Read More](https://medium.com/p/5a86eff2c4d0) |
-| Wed, 08 Oct 2025 17:06:25 GMT | Setup a home lab running Active Directory Using Virtual Box: Part 1 Walkthrough | Declan | [Read More](https://medium.com/p/42da35f9c0cf) |
-| Wed, 08 Oct 2025 17:02:08 GMT | Recovery After Stillbirth: It’s Time to Let Go and Heal | Hari's Helping Hands | [Read More](https://medium.com/p/6bc14f3e1f4c) |
-| Wed, 08 Oct 2025 17:01:57 GMT | BRICKSTORM: The Spyware You Were Never Supposed to See | Akshatdwivedi | [Read More](https://medium.com/p/05c16d7240eb) |
