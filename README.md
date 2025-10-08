@@ -12,10 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 01:23:22 GMT | Detecting Software Supply Chain Compromise with GitHub Actions and Rougepkg — Part 1 | Oluwatobi Afolabi | [Read More](https://medium.com/p/a91dae406323) |
+| Wed, 08 Oct 2025 01:22:31 GMT | The Evolution of Quantum Resistance in the Signal Protocol: From PQXDH to the Triple Ratchet | Sunil Gentyala | [Read More](https://medium.com/p/2e2ab00a1544) |
+| Wed, 08 Oct 2025 01:22:06 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/98ae4ce43fb3) |
+| Wed, 08 Oct 2025 01:12:04 GMT | Why “Rejecting Intimacy” Can Be So Damaging to Relationships | Sevenqian | [Read More](https://medium.com/p/d737285efa0b) |
+| Wed, 08 Oct 2025 00:49:35 GMT | PowerShell Obfuscation via Seeded Get-Random | Luke Thompson | [Read More](https://medium.com/p/2f125a7321dd) |
+| Wed, 08 Oct 2025 00:42:51 GMT | O Preço do Silêncio | Erick Carvalho | [Read More](https://medium.com/p/e3b66331d416) |
+| Wed, 08 Oct 2025 00:39:43 GMT | Philosophy of the Mathematics of Cybersecurity | Imanologya | [Read More](https://medium.com/p/3a27dc51d401) |
+| Wed, 08 Oct 2025 00:31:52 GMT | Monitoring PostgreSQL 18 Performance Metrics in AI-Intensive Environments | Rizqi Mulki | [Read More](https://medium.com/p/f2125b956a2f) |
+| Wed, 08 Oct 2025 00:31:40 GMT | The Growth Curve — Here’s Why I’ll Always Choose Growth Over Security | Bhawana | [Read More](https://medium.com/p/d045ba2f296f) |
+| Wed, 08 Oct 2025 00:27:17 GMT | How Long Can a Background Check Take? Understanding the Timeline | AMS Inform | [Read More](https://medium.com/p/15e0e61971b8) |
+| Wed, 08 Oct 2025 00:19:56 GMT | The Invisible Web: How Everyday Browsing Maps Your Digital Life | KrishKuchroo | [Read More](https://medium.com/p/3bf3a7a9ac92) |
+| Wed, 08 Oct 2025 00:09:03 GMT | The Guilt of Healing Slowly | Darpan Murly | [Read More](https://medium.com/p/79143f026855) |
+| Wed, 08 Oct 2025 00:06:18 GMT | Agentic Browser User Guide: Strategies for Staying Safe on Comet Browser and Others | Hakan Özerdem | [Read More](https://medium.com/p/1e6ca70ed515) |
+| Wed, 08 Oct 2025 00:01:54 GMT | Wafw00f: Unveiling the Hidden Shield of Web Applications | JPablo13 | [Read More](https://medium.com/p/3e97c8147ab9) |
+| Tue, 07 Oct 2025 23:40:36 GMT | CSS Flexbox vs Grid: The Battle That Ended Developer Careers | Rizqi Mulki | [Read More](https://medium.com/p/bc3100aeb93c) |
+| Tue, 07 Oct 2025 23:40:16 GMT | The Voice of AI Just Got Real — Should You Be Concerned or Prepared? | CCL Montante | [Read More](https://medium.com/p/a67091564275) |
+| Tue, 07 Oct 2025 23:33:42 GMT | PostgreSQL 18 Write-Ahead Log Tuning for High-Throughput Secure Applications | Rizqi Mulki | [Read More](https://medium.com/p/279542c6cb36) |
 | Tue, 07 Oct 2025 23:30:35 GMT | The Apologies I Never Learned to Say | Darpan Murly | [Read More](https://medium.com/p/1134848a4bef) |
 | Tue, 07 Oct 2025 23:22:11 GMT | Columnar Storage Extensions for PostgreSQL: Accelerating AI Analytics Securely | Rizqi Mulki | [Read More](https://medium.com/p/658c3e5a126b) |
 | Tue, 07 Oct 2025 23:19:02 GMT | Beyond the Second Factor: How MFA Is Failing the Human Mind | Travis Ray Caverhill | [Read More](https://medium.com/p/25ee0d16964f) |
 | Tue, 07 Oct 2025 23:18:05 GMT | The Browser That Thinks and Lies | Czarif | [Read More](https://medium.com/p/a64db73669d3) |
+| Tue, 07 Oct 2025 23:16:21 GMT | A Fear of Looking Stupid, Is. | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/17ef29912d60) |
 | Tue, 07 Oct 2025 23:13:36 GMT | Incident Snapshot Toolkit: Automating Evidence Capture for Small Ops | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3d709bd4d1ba) |
 | Tue, 07 Oct 2025 22:57:30 GMT | Obtaining session cookies via XSS (Netcat edition) | Ends2Tech | [Read More](https://medium.com/p/8e09f1ffc69d) |
 | Tue, 07 Oct 2025 22:47:01 GMT | “ Irish-Name-Repo “ Challenges | oussama | [Read More](https://medium.com/p/288413050956) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 18:29:12 GMT | Lessons from CVE‑2025‑61882: What Oracle E‑Business Suite Teaches Us About Modern Exploitation… | Kevin Gandhi | [Read More](https://medium.com/p/52b042547366) |
 | Tue, 07 Oct 2025 18:22:07 GMT | Getting Hands-On with Kerbrute: Practical AD Enumeration & Attack Tactics | Mark Puckett | [Read More](https://medium.com/p/107b212d8d60) |
 | Tue, 07 Oct 2025 18:20:36 GMT | ️ Mobile Application Security: Protecting Your App from Code to Cloud | Mrinal Maheshwari | [Read More](https://medium.com/p/24614d1e31b2) |
-| Tue, 07 Oct 2025 18:03:13 GMT | Iframe Payment Security Risks and PCI DSS 6.4.3 Best Practices | Feroot Security | [Read More](https://medium.com/p/c30a1ada4ff6) |
-| Tue, 07 Oct 2025 18:03:04 GMT | Deep Dive into Container Security on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/58fad728dcf8) |
-| Tue, 07 Oct 2025 18:01:10 GMT | Who Can You Really Trust on Tor? | Himanshu0ix | [Read More](https://medium.com/p/d30223e9c7e7) |
-| Tue, 07 Oct 2025 17:59:12 GMT | Indian Army Terrier Cyber Quest 2025 | ViperX | [Read More](https://medium.com/p/a6544b58ec8a) |
-| Tue, 07 Oct 2025 17:58:31 GMT | 8 Things To Do To Stay Safe in the AI-Driven Cybersecurity Era | Praveen Xavier | [Read More](https://medium.com/p/75edbb4bcfd9) |
-| Tue, 07 Oct 2025 17:58:02 GMT | Detecting Honeytokens with Koney and Tetragon on AWS EKS (Part 1/2). | Alex | [Read More](https://medium.com/p/84c478151b8a) |
-| Tue, 07 Oct 2025 17:55:21 GMT | Seccomp Filters Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/188a15b4bf3e) |
-| Tue, 07 Oct 2025 17:51:47 GMT | Can AI Predict the Next Cyber Threat? | Rabail Zaheer | [Read More](https://medium.com/p/5a2de8d7cb51) |
-| Tue, 07 Oct 2025 17:51:30 GMT | CloudFront Signed URLs vs Signed Cookies: A Practical Guide for Secure Content Delivery | Minno Sahu | [Read More](https://medium.com/p/1d8c2aecab59) |
-| Tue, 07 Oct 2025 17:50:29 GMT | Understanding Why No Application Encryption Key Has Been Specified in Laravel | Devin Rosario | [Read More](https://medium.com/p/9fa03ad743df) |
-| Tue, 07 Oct 2025 17:49:04 GMT | La historia del primer honeypot — Cómo un truco engañó a los primeros ciberdelincuentes | Tiziano Mass | [Read More](https://medium.com/p/aa9bf1b6f722) |
-| Tue, 07 Oct 2025 17:43:37 GMT | Scaling Python to the Next Level: My Real-World Journey From Simple Scripts to Production-Ready… | Kainat Nafees | [Read More](https://medium.com/p/e27c052c90fa) |
-| Tue, 07 Oct 2025 17:43:32 GMT | Stuck
-I’ve been feeling stuck lately. | KK | [Read More](https://medium.com/p/8cb6ac9306ad) |
-| Tue, 07 Oct 2025 17:42:06 GMT | More Than Pixels: The Hidden Responsibilities of a Front-End Developer | Pablo Nicholas | [Read More](https://medium.com/p/9eb2f528fa56) |
-| Tue, 07 Oct 2025 17:40:49 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/6e9d78c23ba6) |
-| Tue, 07 Oct 2025 17:34:20 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/1c655783720a) |
-| Tue, 07 Oct 2025 17:28:26 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/83ff9664fb2f) |
-| Tue, 07 Oct 2025 17:25:28 GMT | SNMP Analysis | Dharmendrakumar | [Read More](https://medium.com/p/00c7af1e801e) |
