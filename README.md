@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 20:07:40 GMT | CosmicStrand: The Malware That Made Me Question Everything I Learned About Computer Security | Nishant Harkut | [Read More](https://medium.com/p/3bea1f477cba) |
+| Wed, 08 Oct 2025 20:03:20 GMT | The Role of Cybersecurity in Education | Cyber Security Research | [Read More](https://medium.com/p/67fd46bdf933) |
+| Wed, 08 Oct 2025 20:02:02 GMT | CRITICAL ALERT: Unauthenticated RCE in Bricks Builder | Cybersecplayground | [Read More](https://medium.com/p/9f3075f81ece) |
+| Wed, 08 Oct 2025 20:00:06 GMT | Launching msX Guard: A Global Database of Dangerous Domains | Ixavence | [Read More](https://medium.com/p/a9354ad57cb4) |
+| Wed, 08 Oct 2025 19:46:32 GMT | Security and Performance Aspects of HugePages Configuration | Eren Cankut Uysal | [Read More](https://medium.com/p/b81decdf1a1c) |
+| Wed, 08 Oct 2025 19:42:58 GMT | Opportunity Makes the Cyber Thief | Spectre Vaughan Intelligence | [Read More](https://medium.com/p/b4a31698aa99) |
+| Wed, 08 Oct 2025 19:39:52 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/d7e7befa68dd) |
+| Wed, 08 Oct 2025 19:33:32 GMT | Enterprise Security | Musa Kocak | [Read More](https://medium.com/p/f85706aea9be) |
+| Wed, 08 Oct 2025 19:33:14 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/52cf08d26438) |
 | Wed, 08 Oct 2025 19:31:55 GMT | “The Machine That Sounds Like My Colleague: Reflections of an IT Technician on AI, Trust, and the… | Visionstudios | [Read More](https://medium.com/p/1f649ffab734) |
 | Wed, 08 Oct 2025 19:27:18 GMT | The New Age of Romance Scams: How to Avoid Becoming a Victim in 2025 | Internet Exposed | [Read More](https://medium.com/p/463d1d82c4bd) |
 | Wed, 08 Oct 2025 19:21:54 GMT | SSRF’s: A Gateway Drug To Other Vulnerabilities | Jen Cracchiola | [Read More](https://medium.com/p/096fdc7b8d6e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 14:28:12 GMT | TryHackMe Writeup: Blueprint | Berkay AĞGÜL | [Read More](https://medium.com/p/78953034898c) |
 | Wed, 08 Oct 2025 14:27:48 GMT | Unmasking the Algorithmic Insider: A Convergence of Agentic Misalignment and Cognitive Threat… | Berend Watchus | [Read More](https://medium.com/p/944d261f67a4) |
 | Wed, 08 Oct 2025 14:27:22 GMT | Inside a Computer Virus Room (101): How It’s Defined, Life Cycle, Types, Actions, Detection &… | blackXmask | [Read More](https://medium.com/p/dfe0d9a6c3d2) |
-| Wed, 08 Oct 2025 14:17:52 GMT | The Future of Cybersecurity Isn’t a Tool — It’s a Discipline | Cort Twitty | [Read More](https://medium.com/p/f1a8b5614684) |
-| Wed, 08 Oct 2025 14:15:31 GMT | A Comprehensive Step-by-Step Guide to Your First Successful IDOR Vulnerability | Andrei Ivan | [Read More](https://medium.com/p/137fbf1493da) |
-| Wed, 08 Oct 2025 14:14:48 GMT | Knock Knock… Who Let the Hacker In? Path Traversals | Jen Cracchiola | [Read More](https://medium.com/p/05212fc3e4ca) |
-| Wed, 08 Oct 2025 14:14:38 GMT | Stability and Control — Why Abatis Eliminates Forced Updates and Downtime | Abatis ABTU | [Read More](https://medium.com/p/427019eadde2) |
-| Wed, 08 Oct 2025 14:10:09 GMT | Hacked by Code We Trust: A Single Flaw Saved Your Data, analyzing the Amazon Injection Attack | Harsh duhan | [Read More](https://medium.com/p/64b2a4f8efc5) |
-| Wed, 08 Oct 2025 14:08:23 GMT | Professional Event Security: Ensuring Safe and Seamless Events in London | waeventservices.co.uk/ | [Read More](https://medium.com/p/f5bffdf9c873) |
-| Wed, 08 Oct 2025 14:08:01 GMT | The Blackmail: What To Do If Someone Threatens You | Dr. Pamela Ramirez, PsyD, MD | [Read More](https://medium.com/p/40b520a06e60) |
-| Wed, 08 Oct 2025 14:05:14 GMT | The HIMARS Fire Control Hack — Ukrainian Engineers Override Pentagon Restrictions | The Forensic Archive | [Read More](https://medium.com/p/5655a87e88f7) |
-| Wed, 08 Oct 2025 14:02:06 GMT | Cyber Briefing: 2025.10.08 | CyberMaterial | [Read More](https://medium.com/p/40575c86a6d6) |
