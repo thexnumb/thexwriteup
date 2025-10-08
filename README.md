@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 16:37:19 GMT | Automate the API Hunt — API Reverse Engineering ️‍ | Senuk Dias | [Read More](https://medium.com/p/6a8d724f6f7e) |
+| Wed, 08 Oct 2025 16:37:05 GMT | Important Facts To Know About Bitcoin Wallets | VTECH | [Read More](https://medium.com/p/6d6ad2daad94) |
+| Wed, 08 Oct 2025 16:35:54 GMT | Case Study: Mobile Remote Access Trojan Deployment — Social Engineering Techniques and Defense… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/a74292a01e4d) |
+| Wed, 08 Oct 2025 16:32:25 GMT | Watcher - TryHackMe CTF Walkthrough | Robert Gooding | [Read More](https://medium.com/p/9483ea5b9a53) |
+| Wed, 08 Oct 2025 16:30:34 GMT | we’ve come so far.. | meiji | [Read More](https://medium.com/p/ac65a2e23f2f) |
+| Wed, 08 Oct 2025 16:29:36 GMT | Agentic AI Is Here. Security Needs to Catch Up. | Jared Hudgins | [Read More](https://medium.com/p/8d04d22682ab) |
+| Wed, 08 Oct 2025 16:27:31 GMT | Proxy Pattern: The “Bouncer” That Makes Your Code Smarter, Safer, and Faster | Kawaldeep Singh | [Read More](https://medium.com/p/cfea4152448b) |
+| Wed, 08 Oct 2025 16:25:17 GMT | The 250-Day Risk Window: How an AI PDF Editor Vulnerability Demonstrates the Public Directory Blind… | Spektion | [Read More](https://medium.com/p/ec280b8a6865) |
+| Wed, 08 Oct 2025 16:23:49 GMT | Most Common Challenges and Myths about Software Composition Analysis | FactSet | [Read More](https://medium.com/p/b6b4521861c4) |
+| Wed, 08 Oct 2025 16:22:58 GMT | How to Check the Health of a Snowflake Account | Eylon Steiner | [Read More](https://medium.com/p/62554857ac1c) |
+| Wed, 08 Oct 2025 16:15:58 GMT | Gelişmiş Tehdit İstihbaratı Otomasyonu: MISP, STIX ve TAXII ile Akıllı Bir Pipeline Kurulumu | 0gxd14g | [Read More](https://medium.com/p/c17f3f44b4ba) |
 | Wed, 08 Oct 2025 16:10:41 GMT | 邪惡軸心人工低能 ｜The Axis of Evil’s Artificial Folly | Kaga Chung | [Read More](https://medium.com/p/bef89ab810d6) |
 | Wed, 08 Oct 2025 16:07:11 GMT | Microsoft Warns: Critical GoAnywhere Bug Actively Exploited in Medusa Ransomware Campaign | Technijian | [Read More](https://medium.com/p/0befaa250b51) |
 | Wed, 08 Oct 2025 16:00:07 GMT | Wow a deep link? Let’s hijack it to ATO | CANITEY | [Read More](https://medium.com/p/c742838c9d78) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 11:13:54 GMT | What are the three types of security systems? | cyber security Updates | [Read More](https://medium.com/p/183bc8ddb593) |
 | Wed, 08 Oct 2025 11:10:23 GMT | Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII (and a $600 Bounty) | toast | [Read More](https://medium.com/p/0ca17ed328c9) |
 | Wed, 08 Oct 2025 11:06:45 GMT | exp.gs-cdn.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/ed3d4b9bb80e) |
-| Wed, 08 Oct 2025 11:05:01 GMT | Is eth-cryp.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/86cb7fee7b50) |
-| Wed, 08 Oct 2025 11:03:50 GMT | Why Security Maturity Assessment Matters | Vishwajeettechtech | [Read More](https://medium.com/p/e34b09f055b3) |
-| Wed, 08 Oct 2025 11:02:34 GMT | Realancer: Empowering Freelancers with Freedom and Fairness | Zeeshan Ali Shah | [Read More](https://medium.com/p/5a1929b47015) |
-| Wed, 08 Oct 2025 11:02:08 GMT | Redis RCE CVE-2025–49844: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/f3749a259e02) |
-| Wed, 08 Oct 2025 11:01:51 GMT | Building My Hybrid Security Lab (Part 1): From On-Prem to Defender XDR | Florence Nwizugbe | [Read More](https://medium.com/p/6113c22326d1) |
-| Wed, 08 Oct 2025 11:00:23 GMT | When The Story In Your Head Shows Up In Your Body | Karen Bromberg | [Read More](https://medium.com/p/148adfd9a4f2) |
-| Wed, 08 Oct 2025 11:00:17 GMT | Can You Trust cbotbit.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/ede60ff47e98) |
-| Wed, 08 Oct 2025 10:56:56 GMT | crypto-rd.top Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/371c2789c81b) |
-| Wed, 08 Oct 2025 10:56:51 GMT | The Role of SOC 2 Certification in Building Customer Trust | Tech Writer | [Read More](https://medium.com/p/6e153e617d3c) |
-| Wed, 08 Oct 2025 10:55:52 GMT | Is cbesx.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/cde13fa79731) |
-| Wed, 08 Oct 2025 10:54:14 GMT | Is regul-finance.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/f4767772db64) |
