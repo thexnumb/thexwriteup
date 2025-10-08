@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 17:19:55 GMT | Cyber Stories #3: The Wi-Fi Stranger | Rosemary Lark | [Read More](https://medium.com/p/d4330de3cf6d) |
+| Wed, 08 Oct 2025 17:19:38 GMT | Siber Güvenlik Temelleri | Taha Altın | [Read More](https://medium.com/p/f28e42bc31de) |
+| Wed, 08 Oct 2025 17:12:18 GMT | Explore Lucrative IT Jobs Without Coding Skills [2026] | Simplilearn | [Read More](https://medium.com/p/bd030d7c5489) |
 | Wed, 08 Oct 2025 17:08:46 GMT | Automating XSS Detection With Machine Learning: Beyond the Hype | Aj | [Read More](https://medium.com/p/036db1ec7458) |
+| Wed, 08 Oct 2025 17:07:08 GMT | Part 2: Naming The Server and Installing Active Directory | Declan | [Read More](https://medium.com/p/5a86eff2c4d0) |
+| Wed, 08 Oct 2025 17:06:25 GMT | Setup a home lab running Active Directory Using Virtual Box: Part 1 Walkthrough | Declan | [Read More](https://medium.com/p/42da35f9c0cf) |
 | Wed, 08 Oct 2025 17:02:08 GMT | Recovery After Stillbirth: It’s Time to Let Go and Heal | Hari's Helping Hands | [Read More](https://medium.com/p/6bc14f3e1f4c) |
 | Wed, 08 Oct 2025 17:01:57 GMT | BRICKSTORM: The Spyware You Were Never Supposed to See | Akshatdwivedi | [Read More](https://medium.com/p/05c16d7240eb) |
 | Wed, 08 Oct 2025 17:01:05 GMT | Python and Sonic Gardens: Generative Soundscapes with Code | Kainat Nafees | [Read More](https://medium.com/p/2396ae12a9ba) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 12:18:58 GMT | Early Registration Now Open for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/0eaf7f5797c8) |
 | Wed, 08 Oct 2025 12:17:29 GMT | EggStreme: The New Fileless Malware Targeting Southeast Asia’s Defense Sector | Digitalvoyager | [Read More](https://medium.com/p/3eb8c6e49f96) |
 | Wed, 08 Oct 2025 12:16:54 GMT | Cyberattacks Are Shutting Down Manufacturing Plants Worldwide — Legacy systems have become sitting… | Karl Buhl | [Read More](https://medium.com/p/e6ce25173950) |
-| Wed, 08 Oct 2025 12:11:31 GMT | HacktheBox: Union Walkthrough | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/08f19e2b27d5) |
-| Wed, 08 Oct 2025 11:59:28 GMT | 7 Best AI Security Practices Every Business Needs in 2025 | SecureSlate | [Read More](https://medium.com/p/39e98402652a) |
-| Wed, 08 Oct 2025 11:53:55 GMT | Node.js Security — A Complete Guide to Protect Your Backend & Data | Mr Senior | [Read More](https://medium.com/p/84b19d483e76) |
-| Wed, 08 Oct 2025 11:25:01 GMT | How Co-Working Spaces are Using Smart Access Control for Better Security | Joven A Rodrigues | [Read More](https://medium.com/p/8e338e898e8c) |
-| Wed, 08 Oct 2025 11:24:48 GMT | Live from the Crime Scene: A Guide to the Linux Live Analysis Room | Furkanctiner | [Read More](https://medium.com/p/b6d2e076b4dc) |
