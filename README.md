@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 14:41:30 GMT | “The Two “Useless” Bugs That Keep Paying My Internet Bill” | Aman Sharma | [Read More](https://medium.com/p/23db3ffc2219) |
+| Wed, 08 Oct 2025 14:38:14 GMT | The Hidden Risks in Your LinkedIn Photos: An OSINT Perspective | Joe The OSINT Guy | [Read More](https://medium.com/p/bc9118589f9f) |
+| Wed, 08 Oct 2025 14:34:57 GMT | Are AI Agents the Ultimate Confused Deputy? How AI Agents' Capabilities Are Being Abused | Mohamed AboElKheir | [Read More](https://medium.com/p/64444e002316) |
+| Wed, 08 Oct 2025 14:32:27 GMT | AI: Your Robot Sidekick — Now Fetching Coffee and Brainstorming Brilliant Ideas | Jen Cracchiola | [Read More](https://medium.com/p/b270d731952f) |
+| Wed, 08 Oct 2025 14:29:20 GMT | Print Your Own Cybersecurity Card Game: A Guide to DXC ThreatDeck | Sarat Chandra Motamarri | [Read More](https://medium.com/p/443b1809ea7f) |
+| Wed, 08 Oct 2025 14:28:12 GMT | TryHackMe Writeup: Blueprint | Berkay AĞGÜL | [Read More](https://medium.com/p/78953034898c) |
+| Wed, 08 Oct 2025 14:27:48 GMT | Unmasking the Algorithmic Insider: A Convergence of Agentic Misalignment and Cognitive Threat… | Berend Watchus | [Read More](https://medium.com/p/944d261f67a4) |
+| Wed, 08 Oct 2025 14:27:22 GMT | Inside a Computer Virus Room (101): How It’s Defined, Life Cycle, Types, Actions, Detection &… | blackXmask | [Read More](https://medium.com/p/dfe0d9a6c3d2) |
+| Wed, 08 Oct 2025 14:17:52 GMT | The Future of Cybersecurity Isn’t a Tool — It’s a Discipline | Cort Twitty | [Read More](https://medium.com/p/f1a8b5614684) |
 | Wed, 08 Oct 2025 14:15:31 GMT | A Comprehensive Step-by-Step Guide to Your First Successful IDOR Vulnerability | Andrei Ivan | [Read More](https://medium.com/p/137fbf1493da) |
+| Wed, 08 Oct 2025 14:14:48 GMT | Knock Knock… Who Let the Hacker In? Path Traversals | Jen Cracchiola | [Read More](https://medium.com/p/05212fc3e4ca) |
 | Wed, 08 Oct 2025 14:14:38 GMT | Stability and Control — Why Abatis Eliminates Forced Updates and Downtime | Abatis ABTU | [Read More](https://medium.com/p/427019eadde2) |
 | Wed, 08 Oct 2025 14:10:09 GMT | Hacked by Code We Trust: A Single Flaw Saved Your Data, analyzing the Amazon Injection Attack | Harsh duhan | [Read More](https://medium.com/p/64b2a4f8efc5) |
 | Wed, 08 Oct 2025 14:08:23 GMT | Professional Event Security: Ensuring Safe and Seamless Events in London | waeventservices.co.uk/ | [Read More](https://medium.com/p/f5bffdf9c873) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 10:10:42 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/140d81099389) |
 | Wed, 08 Oct 2025 10:07:27 GMT | The AI Revolution Everyone Missed Is Happening in the Physical World | Mia Balan | [Read More](https://medium.com/p/3915fec5e7be) |
 | Wed, 08 Oct 2025 10:05:26 GMT | Toasters Market Size to Reach USD 5.29 Billion by 2030, Driven by Changing Consumer Preferences | Rakeshnaidu | [Read More](https://medium.com/p/591ab9d60c11) |
-| Wed, 08 Oct 2025 10:04:28 GMT | Best Managed Cybersecurity Services Provider In India - Net Access | Mathewneelan | [Read More](https://medium.com/p/d00b28005421) |
-| Wed, 08 Oct 2025 09:59:06 GMT | Why Learning Assembly Makes You a Better Hacker & Coder (Part II) | Beri Contraster | [Read More](https://medium.com/p/1bf97fb1851e) |
-| Wed, 08 Oct 2025 09:54:26 GMT | Your Face Isn’t Yours Anymore: Inside the Privacy Maze of Sora 2’s Cameo Feature | Oshada Rashmika | [Read More](https://medium.com/p/7dff5c7bca2a) |
-| Wed, 08 Oct 2025 09:54:23 GMT | CORS Vulnerability with Trusted Insecure Protocols BurpSuite Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/5004688e6018) |
-| Wed, 08 Oct 2025 09:54:08 GMT | The H-1B Visa Debate | Vivekanand Pandey | [Read More](https://medium.com/p/ea176654deff) |
-| Wed, 08 Oct 2025 09:50:33 GMT | Tech for Good or Tech for Control? Surveillance, Privacy, and the New Social Contract | Vijayakumar G A | [Read More](https://medium.com/p/36c6eed0bc52) |
-| Wed, 08 Oct 2025 09:50:06 GMT | Crack The Gate 1 picomini by CMU-Africa | Samuel Jack | [Read More](https://medium.com/p/5ca1f3b5b4a5) |
-| Wed, 08 Oct 2025 09:47:54 GMT | Configuring Conditional Access in Microsoft Entra ID with a Zero Trust Mindset | Konstantinos Lianos | [Read More](https://medium.com/p/c4c322d141ea) |
-| Wed, 08 Oct 2025 09:46:16 GMT | mTLS in Spring: why it matters and how to implement it with HashiCorp Vault and in-memory… | Frolikov | [Read More](https://medium.com/p/94afffea6b9b) |
-| Wed, 08 Oct 2025 09:44:25 GMT | UK Cloud Application Security Market, Size, Share, Growth, Demand & Forecast -2031 | Swapnil b | [Read More](https://medium.com/p/008b95771422) |
