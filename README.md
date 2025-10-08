@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 09:17:07 GMT | Confidential TryHackMe - | Roy | [Read More](https://medium.com/p/5a5ebd7c595b) |
+| Wed, 08 Oct 2025 09:12:17 GMT | Vulnerability Assessment and Penetration Testing Services in the U.S.: | Aaishasharma | [Read More](https://medium.com/p/3a13c5bb8965) |
+| Wed, 08 Oct 2025 09:09:28 GMT | Why Cyber Forensics Services Are Essential for Corporate Security in 2025 | Rinshumishra | [Read More](https://medium.com/p/093881d98bfc) |
+| Wed, 08 Oct 2025 09:08:21 GMT | From Cubicles to Campgrounds: Are Tech Layoffs Fueling a Nomad Invasion | Namir Sagheenanajar | [Read More](https://medium.com/p/b2b340733647) |
+| Wed, 08 Oct 2025 09:08:19 GMT | New Forensics Certification from Blue Cape Security? I got it, here is my review. | Chicken0248 | [Read More](https://medium.com/p/892e10545f34) |
+| Wed, 08 Oct 2025 09:02:03 GMT | Splunk .conf25 — Enterprise Security | Apto Solutions | [Read More](https://medium.com/p/ba717d13da72) |
+| Wed, 08 Oct 2025 09:02:02 GMT | Breaking Down ISO 27001 Audits: Stage 1 vs Stage 2 Explained | Hicomply | [Read More](https://medium.com/p/5112fb4e2134) |
+| Wed, 08 Oct 2025 08:59:49 GMT | Palo Alto Networks SD-WAN: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e446f95b5197) |
+| Wed, 08 Oct 2025 08:55:52 GMT | Upcoming systems | Mouad | [Read More](https://medium.com/p/b8e2cc6055bd) |
+| Wed, 08 Oct 2025 08:55:12 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/35a3307387e9) |
+| Wed, 08 Oct 2025 08:49:24 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/66c42dbc94fa) |
 | Wed, 08 Oct 2025 08:37:20 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/ce6a5efc8f1e) |
 | Wed, 08 Oct 2025 08:36:23 GMT | My Journey to a Portable Kali Linux: From Broken USBs to a Hacker’s Toolkit | Sarahmodi | [Read More](https://medium.com/p/453513018a30) |
 | Wed, 08 Oct 2025 08:35:17 GMT | Setting Up a Mobile Pentesting Lab: Emulators, Devices & Proxies | Digital Defense | [Read More](https://medium.com/p/b67fcd3a5a5f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 02:44:39 GMT | US Law Firm Compromised by Chinese-linked Operators | Jay Mclain | [Read More](https://medium.com/p/8ae260fa3f6f) |
 | Wed, 08 Oct 2025 02:38:04 GMT | One Line to Secure Your Webhook Endpoint | Hussachai Puripunpinyo | [Read More](https://medium.com/p/de11a5f7f13b) |
 | Wed, 08 Oct 2025 02:35:26 GMT | The Future of Cybersecurity OEMs: From Tools to Trust Ecosystems | Dr. Deep Pandey | [Read More](https://medium.com/p/2cbe83893068) |
-| Wed, 08 Oct 2025 02:32:00 GMT | Discord suffered Data breach | Raviteja Mureboina | [Read More](https://medium.com/p/50e6993c36d3) |
-| Wed, 08 Oct 2025 02:17:05 GMT | 5 Reasons Two-Factor Authentication Is Essential For Everyone Today | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/a8a04c5341fb) |
-| Wed, 08 Oct 2025 02:17:01 GMT | AI‑SOAR + Wazuh: From Toy Demo to Real SOC Powerhouse | yzw.joel | [Read More](https://medium.com/p/b830e99a7498) |
-| Wed, 08 Oct 2025 02:16:52 GMT | IP addresses | Jacob Piloto | [Read More](https://medium.com/p/5d6d33edf63b) |
-| Wed, 08 Oct 2025 02:04:58 GMT | The Furry phenomenon: how TikTok challenges push teens to adopt extreme behaviors | Cristian Iosub | [Read More](https://medium.com/p/a50d1640c561) |
-| Wed, 08 Oct 2025 02:01:22 GMT | The Broken Promise | Arianna Taylor | [Read More](https://medium.com/p/20bc70372fdf) |
-| Wed, 08 Oct 2025 01:59:29 GMT | From Silos to Strategy: Rethinking IT Operations Management for Infrastructure Teams in the Digital… | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/3a018e4c8d65) |
-| Wed, 08 Oct 2025 01:53:21 GMT | CISA Expiration in USA | Raviteja Mureboina | [Read More](https://medium.com/p/9b9ce45ed068) |
-| Wed, 08 Oct 2025 01:44:38 GMT | Understanding Kafka’s Requested Flow & Netty’s Optional Client Authentication | Hrishabh Gupta | [Read More](https://medium.com/p/7f99c5258096) |
-| Wed, 08 Oct 2025 01:37:54 GMT | The 3 AM Version of Yourself | Mayukh Sarma | [Read More](https://medium.com/p/3e9c3516e24c) |
-| Wed, 08 Oct 2025 01:27:18 GMT | The G7 Cyber Expert Group and AI: Steering Global Finance Toward Resilient Innovation | CCD-IS | [Read More](https://medium.com/p/157f700f9907) |
