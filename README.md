@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 04:33:05 GMT | I Almost Fell for a Job Scam in Bangalore. Here’s How I Caught It Using OSINT ️‍♂️ | Sumanth Yerranagula | [Read More](https://medium.com/p/e65d5337d821) |
+| Wed, 08 Oct 2025 04:32:06 GMT | The Next Cyber Wars Won’t Be Hackers vs Humans — They’ll Be AI vs AI ⚔️ | Nithishkumar R | [Read More](https://medium.com/p/22dbb264be27) |
+| Wed, 08 Oct 2025 04:29:46 GMT | ProtoVault Breach : Offsec Gauntlet CTF 2025 | Shaheer Yasir | [Read More](https://medium.com/p/f650fef6db99) |
+| Wed, 08 Oct 2025 04:25:24 GMT | ️ 10 Django Security Best Practices That Don’t Slow Your App Down | Priyanshu Rajput | [Read More](https://medium.com/p/edae8ee0f826) |
 | Wed, 08 Oct 2025 04:08:21 GMT | Flutter’s Secret Defense Plan | Chirag Prajapati | [Read More](https://medium.com/p/74370445d4b6) |
 | Wed, 08 Oct 2025 03:54:14 GMT | How Online Investment Scams Steal Billions From You Each Year. | Levi Josh | [Read More](https://medium.com/p/b5eae0ad1e6a) |
 | Wed, 08 Oct 2025 03:53:34 GMT | Beyond alert(1): The Real-World Dangers of Cross-Site Scripting (XSS) in SPAs | InstaTunnel | [Read More](https://medium.com/p/1fdbc0a8d956) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 19:51:27 GMT | How to Get Started in AI Art (Even If You Haven’t Got a Clue) | Teresa Trimm | [Read More](https://medium.com/p/00d48c600cf3) |
 | Tue, 07 Oct 2025 19:50:44 GMT | TryHackMe Writeup: Agent Sudo | Berkay AĞGÜL | [Read More](https://medium.com/p/f982ce60557f) |
 | Tue, 07 Oct 2025 19:45:15 GMT | Hunting For Vulnerable SSRF Mitigations | Chux | [Read More](https://medium.com/p/d72f15983663) |
-| Tue, 07 Oct 2025 19:41:44 GMT | Scars of Love | The Bloom Space | [Read More](https://medium.com/p/9f6336fc4043) |
-| Tue, 07 Oct 2025 19:39:22 GMT | Social Engineering: How Hackers Trick You in Daily Life | Cordula Boeck | [Read More](https://medium.com/p/6d32743ed2a2) |
-| Tue, 07 Oct 2025 19:37:32 GMT | About Me | Tayyab Akhtar | [Read More](https://medium.com/p/775644247e15) |
-| Tue, 07 Oct 2025 19:35:43 GMT | Why Cybersecurity Compliance Isn’t Just About Rules, It’s About Trust | Akshay Chauhan | [Read More](https://medium.com/p/907f1ad15367) |
