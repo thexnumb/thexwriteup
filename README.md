@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 05:18:47 GMT | The Hidden Network Mistake That Hackers Love | Ask IT Support | [Read More](https://medium.com/p/97bcf7e5004d) |
+| Wed, 08 Oct 2025 05:08:06 GMT | The BGP Vulnerability That Lets Countries Hijack Internet Traffic | Sohail x Codes | [Read More](https://medium.com/p/0802611d74b9) |
+| Wed, 08 Oct 2025 05:01:47 GMT | The Five Digital Skills That Will Outlive AI Itself | JetkingChandigarh | [Read More](https://medium.com/p/5d5a75db7ba1) |
+| Wed, 08 Oct 2025 05:00:12 GMT | Next in AI: Issue #9 | Sam Ghosh | [Read More](https://medium.com/p/1161075e6002) |
+| Wed, 08 Oct 2025 04:58:15 GMT | Confessions of a Crybaby. | blooms of may ᝰ.ᐟ | [Read More](https://medium.com/p/1fe9f88bede2) |
+| Wed, 08 Oct 2025 04:56:54 GMT | Prompt Injection Pandemonium: How I Hacked AI Assistants by Talking Them Into Betraying Their… | Iski | [Read More](https://medium.com/p/018276477ea9) |
+| Wed, 08 Oct 2025 04:55:44 GMT | Make your own simple Reverse Engineering Challenges for CTF with C | Zamh Putra | [Read More](https://medium.com/p/2a3a85297f44) |
+| Wed, 08 Oct 2025 04:50:18 GMT | Robots.txt in the Age of APIs: Why Your Microservices Need Recon Protection Too | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9813a390effa) |
+| Wed, 08 Oct 2025 04:45:58 GMT | Hidden Threats in the Cloud: How Misconfigurations Became the New Attack Surface | Saritamukkani | [Read More](https://medium.com/p/2829d7d07720) |
 | Wed, 08 Oct 2025 04:33:05 GMT | I Almost Fell for a Job Scam in Bangalore. Here’s How I Caught It Using OSINT ️‍♂️ | Sumanth Yerranagula | [Read More](https://medium.com/p/e65d5337d821) |
 | Wed, 08 Oct 2025 04:32:06 GMT | The Next Cyber Wars Won’t Be Hackers vs Humans — They’ll Be AI vs AI ⚔️ | Nithishkumar R | [Read More](https://medium.com/p/22dbb264be27) |
 | Wed, 08 Oct 2025 04:29:46 GMT | ProtoVault Breach : Offsec Gauntlet CTF 2025 | Shaheer Yasir | [Read More](https://medium.com/p/f650fef6db99) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 20:16:37 GMT | Day 2 of my Cybersecurity Journey: Learning Linux Fundamentals | Ogundipe Priscilla | [Read More](https://medium.com/p/a3d64ab59a73) |
 | Tue, 07 Oct 2025 20:16:28 GMT | Container Security for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/8e78d04012bd) |
 | Tue, 07 Oct 2025 20:16:02 GMT | Web3 Security: Protect Yourself in This New Age Market | Itachi | [Read More](https://medium.com/p/e29230772ba3) |
-| Tue, 07 Oct 2025 20:15:31 GMT | How to Grow Deposits Without Increasing Risk | Linker Finance | [Read More](https://medium.com/p/b75308db02df) |
-| Tue, 07 Oct 2025 20:14:18 GMT | Importance of Phishing Awareness | Christian Denney | [Read More](https://medium.com/p/9318234b0e90) |
-| Tue, 07 Oct 2025 20:13:04 GMT | Story of a flawed domain validation check during registration | bhargabKaushik | [Read More](https://medium.com/p/98950e5e9cef) |
-| Tue, 07 Oct 2025 19:57:49 GMT | The Midnight Breach: How One Server Attack Rewired My Brain About Security | Abdullah Javeed | [Read More](https://medium.com/p/0ea4e5e07ac2) |
-| Tue, 07 Oct 2025 19:53:35 GMT | Host-based Monitoring: auditd & osquery | Cybersecplayground | [Read More](https://medium.com/p/994c6e8d5655) |
-| Tue, 07 Oct 2025 19:52:09 GMT | [Part 8] How to Build a Cyber Resilience Act Roadmap in 90 Days | Cyberkech | [Read More](https://medium.com/p/9a6ba33d21e7) |
-| Tue, 07 Oct 2025 19:51:27 GMT | How to Get Started in AI Art (Even If You Haven’t Got a Clue) | Teresa Trimm | [Read More](https://medium.com/p/00d48c600cf3) |
-| Tue, 07 Oct 2025 19:50:44 GMT | TryHackMe Writeup: Agent Sudo | Berkay AĞGÜL | [Read More](https://medium.com/p/f982ce60557f) |
-| Tue, 07 Oct 2025 19:45:15 GMT | Hunting For Vulnerable SSRF Mitigations | Chux | [Read More](https://medium.com/p/d72f15983663) |
