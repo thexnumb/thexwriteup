@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 15:37:33 GMT | Trick or Treat? Don’t Let Phishing Trick You! | Danielle Koppel | [Read More](https://medium.com/p/de862e08d88d) |
+| Wed, 08 Oct 2025 15:37:04 GMT | Beware: Scammers Have Gone Smishing | Danielle Koppel | [Read More](https://medium.com/p/8e039e32458d) |
+| Wed, 08 Oct 2025 15:23:43 GMT | Turning Dependency Confusion Research into a Profitable Stack | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/d2f39fe216bf) |
+| Wed, 08 Oct 2025 15:22:23 GMT | Do local ao real: validando o SSL Pinning do seu app Flutter com Let’s Encrypt | Fabio Pereira | [Read More](https://medium.com/p/a8c204acc2d7) |
+| Wed, 08 Oct 2025 15:18:35 GMT | 9-Figure Media Reveals the Branding Hacks That Make Startups Unforgettable | Maxwell JAMES | [Read More](https://medium.com/p/25c75f5f33db) |
+| Wed, 08 Oct 2025 15:18:33 GMT | Data Safety Awareness Series: Post 6 | Juned Silavat | [Read More](https://medium.com/p/f4fe7e1f6b64) |
+| Wed, 08 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 8, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/79dfd7464a29) |
+| Wed, 08 Oct 2025 15:14:08 GMT | Leading with Empathy: The Courage to Be Powerfully Vulnerable | Michael David MOrales | [Read More](https://medium.com/p/182e12ccaded) |
 | Wed, 08 Oct 2025 14:46:25 GMT | Increasing cyber crime | Anupam Jaiswal | [Read More](https://medium.com/p/691ff32d76fa) |
 | Wed, 08 Oct 2025 14:41:30 GMT | “The Two “Useless” Bugs That Keep Paying My Internet Bill” | Aman Sharma | [Read More](https://medium.com/p/23db3ffc2219) |
 | Wed, 08 Oct 2025 14:38:14 GMT | The Hidden Risks in Your LinkedIn Photos: An OSINT Perspective | Joe The OSINT Guy | [Read More](https://medium.com/p/bc9118589f9f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 10:30:54 GMT | Is Dex-defi.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/477f44670a45) |
 | Wed, 08 Oct 2025 10:30:18 GMT | Securing Your VPS SSH Access: A Complete Guide for Multiple Devices and 2FA Protection | Nurul Islam Rimon | [Read More](https://medium.com/p/8650a9e01e56) |
 | Wed, 08 Oct 2025 10:23:53 GMT | The Cybersecurity Struggle: Why SMEs Need Simplified, Budget-Friendly Solutions | FlashX Cybersecurity | [Read More](https://medium.com/p/65ac9d309265) |
-| Wed, 08 Oct 2025 10:21:22 GMT | How to Install Nessus Vulnerability Scanner by Tenable on Kali Linux | Augustine Sito | [Read More](https://medium.com/p/82ba9bcf12f1) |
-| Wed, 08 Oct 2025 10:17:27 GMT | Biometric Authentication’s Complexities and the Imperative of Multi-Factor Authentication (MFA) | FlashX Cybersecurity | [Read More](https://medium.com/p/c6c01dfdef3e) |
-| Wed, 08 Oct 2025 10:17:11 GMT | Getting Started with grep in Linux (Day 3 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/818dab1520b6) |
-| Wed, 08 Oct 2025 10:15:53 GMT | Browser Agents Are Here: What Google’s ‘Computer Use’ Gemini Means for Enterprise Workflows | Scott Hendrix | [Read More](https://medium.com/p/77410537b0cf) |
-| Wed, 08 Oct 2025 10:12:44 GMT | Hikvision CCTV System Setup for Corporate Office Security Dhaka | optimationbd | [Read More](https://medium.com/p/43e41755ebc4) |
-| Wed, 08 Oct 2025 10:11:38 GMT | Why Python Remains a Dependable Choice for Enterprise FinTech | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/df947d7cc0e8) |
-| Wed, 08 Oct 2025 10:10:42 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/140d81099389) |
-| Wed, 08 Oct 2025 10:07:27 GMT | The AI Revolution Everyone Missed Is Happening in the Physical World | Mia Balan | [Read More](https://medium.com/p/3915fec5e7be) |
