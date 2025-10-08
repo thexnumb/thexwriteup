@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 08:25:42 GMT | Elevate — Brisbane’s Trusted Team for Managed IT, Cybersecurity & Cloud Solutions | Elevate | [Read More](https://medium.com/p/8e7ea0a27d46) |
+| Wed, 08 Oct 2025 08:11:48 GMT | The Impact of Cybersecurity on Business Reputation | Cyber Security Research | [Read More](https://medium.com/p/91fba245acab) |
+| Wed, 08 Oct 2025 08:06:11 GMT | The Importance of Cybersecurity Standards | Cyber Security Research | [Read More](https://medium.com/p/7ce5cbb7bcbd) |
+| Wed, 08 Oct 2025 08:02:05 GMT | [Part 8] The Dark Side: How Hackers Use AI to Outsmart Companies | Cyberkech | [Read More](https://medium.com/p/969d0823a6f1) |
+| Wed, 08 Oct 2025 08:01:45 GMT | Simple PHP Config Changes That Kill 80% of Security Risks | Asian Digital Hub | [Read More](https://medium.com/p/cc9fda64d8e4) |
+| Wed, 08 Oct 2025 08:00:02 GMT | The Role of Cybersecurity in National Security | Cyber Security Research | [Read More](https://medium.com/p/1a2ac07feabe) |
+| Wed, 08 Oct 2025 07:55:58 GMT | Data Breaches Demystified: How Hackers Exploit People, Rules, and Tools | RTB CYBERTECH | [Read More](https://medium.com/p/66832024ebc5) |
+| Wed, 08 Oct 2025 07:52:23 GMT | The Windows Forensics Journey — RDP Server Authentication Exception List | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6e0d6be7bac1) |
+| Wed, 08 Oct 2025 07:49:51 GMT | Post-Quantum Security: How Bervice Redefines Data Protection for the Quantum Era | Bervice | [Read More](https://medium.com/p/980af7e880e0) |
+| Wed, 08 Oct 2025 07:37:37 GMT | Understanding PKI, SSL/TLS Handshakes, and the Role of Certificates in Secure Communication | @Harsh | [Read More](https://medium.com/p/26d0bcf18788) |
+| Wed, 08 Oct 2025 07:37:34 GMT | What Is Multi-Cloud Security? Challenges and Best Practices | QualysecEurope | [Read More](https://medium.com/p/134375c00343) |
+| Wed, 08 Oct 2025 07:36:44 GMT | Securing the Software Development Lifecycle (SDLC) | Cyber Security Research | [Read More](https://medium.com/p/20e41edf5f76) |
+| Wed, 08 Oct 2025 07:27:16 GMT | The Daily Tech Digest: 08 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e9ac233bed13) |
 | Wed, 08 Oct 2025 07:27:10 GMT | How a QR Code Door Access System Makes Smart Entry | Nathaniel Langley | [Read More](https://medium.com/p/ef3da94d06bd) |
 | Wed, 08 Oct 2025 07:19:43 GMT | Ethical Hacking: How Network Penetration Testing Keeps You SafeNetwork Penetration Testing: The… | Qualysec | [Read More](https://medium.com/p/dc12ac76a76a) |
 | Wed, 08 Oct 2025 07:16:07 GMT | I Cleared eJPT: My First Offensive Security Certification (and What It Really Took) | Tauseef Ahmed | [Read More](https://medium.com/p/dc6d7873cf5c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 00:31:52 GMT | Monitoring PostgreSQL 18 Performance Metrics in AI-Intensive Environments | Rizqi Mulki | [Read More](https://medium.com/p/f2125b956a2f) |
 | Wed, 08 Oct 2025 00:31:40 GMT | The Growth Curve — Here’s Why I’ll Always Choose Growth Over Security | Bhawana | [Read More](https://medium.com/p/d045ba2f296f) |
 | Wed, 08 Oct 2025 00:27:17 GMT | How Long Can a Background Check Take? Understanding the Timeline | AMS Inform | [Read More](https://medium.com/p/15e0e61971b8) |
-| Wed, 08 Oct 2025 00:19:56 GMT | The Invisible Web: How Everyday Browsing Maps Your Digital Life | KrishKuchroo | [Read More](https://medium.com/p/3bf3a7a9ac92) |
-| Wed, 08 Oct 2025 00:09:03 GMT | The Guilt of Healing Slowly | Darpan Murly | [Read More](https://medium.com/p/79143f026855) |
-| Wed, 08 Oct 2025 00:06:18 GMT | Agentic Browser User Guide: Strategies for Staying Safe on Comet Browser and Others | Hakan Özerdem | [Read More](https://medium.com/p/1e6ca70ed515) |
-| Wed, 08 Oct 2025 00:01:54 GMT | Wafw00f: Unveiling the Hidden Shield of Web Applications | JPablo13 | [Read More](https://medium.com/p/3e97c8147ab9) |
-| Tue, 07 Oct 2025 23:40:36 GMT | CSS Flexbox vs Grid: The Battle That Ended Developer Careers | Rizqi Mulki | [Read More](https://medium.com/p/bc3100aeb93c) |
-| Tue, 07 Oct 2025 23:40:16 GMT | The Voice of AI Just Got Real — Should You Be Concerned or Prepared? | CCL Montante | [Read More](https://medium.com/p/a67091564275) |
-| Tue, 07 Oct 2025 23:33:42 GMT | PostgreSQL 18 Write-Ahead Log Tuning for High-Throughput Secure Applications | Rizqi Mulki | [Read More](https://medium.com/p/279542c6cb36) |
-| Tue, 07 Oct 2025 23:30:35 GMT | The Apologies I Never Learned to Say | Darpan Murly | [Read More](https://medium.com/p/1134848a4bef) |
-| Tue, 07 Oct 2025 23:24:13 GMT | On-Chain Credibility: The End of Fake Influence | Namiplea | [Read More](https://medium.com/p/18c79eea9aa0) |
-| Tue, 07 Oct 2025 23:22:11 GMT | Columnar Storage Extensions for PostgreSQL: Accelerating AI Analytics Securely | Rizqi Mulki | [Read More](https://medium.com/p/658c3e5a126b) |
-| Tue, 07 Oct 2025 23:19:02 GMT | Beyond the Second Factor: How MFA Is Failing the Human Mind | Travis Ray Caverhill | [Read More](https://medium.com/p/25ee0d16964f) |
-| Tue, 07 Oct 2025 23:18:05 GMT | The Browser That Thinks and Lies | Czarif | [Read More](https://medium.com/p/a64db73669d3) |
-| Tue, 07 Oct 2025 23:16:21 GMT | A Fear of Looking Stupid, Is. | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/17ef29912d60) |
