@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 13:20:42 GMT | The Future CTO Will Be Half Engineer-Half Economist | Tim Murkomen | [Read More](https://medium.com/p/98638eca7a69) |
+| Wed, 08 Oct 2025 13:20:13 GMT | DNS Rebinding + SSRF: The Silent Combo That Turns Browsers Into Internal Attack Proxies | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bf5b367c93eb) |
+| Wed, 08 Oct 2025 13:16:41 GMT | One-Click Account Takeover via Open Redirect & XSS | Ibtissam hammadi | [Read More](https://medium.com/p/8263bd6db064) |
+| Wed, 08 Oct 2025 13:15:13 GMT | FortiGate Web Filter & Deep SSL Inspection — Uygulamalı Kurulum | Onur Altuğ | [Read More](https://medium.com/p/61946f24fe3c) |
+| Wed, 08 Oct 2025 13:12:52 GMT | Best 10 SaaS Agreement Law Firms for Startups & Enterprises | Hansen Tong | [Read More](https://medium.com/p/a1b21b905e6f) |
+| Wed, 08 Oct 2025 13:11:03 GMT | The Silent Profit Killer: Why Your Cigarette and Lottery Inventory Is Disappearing (And How to Stop… | Tec-Tel Communications | [Read More](https://medium.com/p/11e4afbc6715) |
+| Wed, 08 Oct 2025 13:10:17 GMT | How Modern Hospitals Are Eliminating the $10.93 Million Problem That Keeps CISOs Awake at Night | Tec-Tel Communications | [Read More](https://medium.com/p/3726b609dd9d) |
+| Wed, 08 Oct 2025 13:08:56 GMT | When Our Firewall Failed — and the Real Problem Was Us | Michael Preston | [Read More](https://medium.com/p/2e9c8a20cd84) |
+| Wed, 08 Oct 2025 13:08:30 GMT | Modern Siber Güvenlik Operasyonları: SOC, MDR, SIEM, SOAR ve XDR Çözümleri | Asude Handan Uslukılıç | [Read More](https://medium.com/p/f468a2cdb52e) |
+| Wed, 08 Oct 2025 13:08:24 GMT | The Impossible Challenge: TryHackMe Writeup WalkThrough CTF | Umer | [Read More](https://medium.com/p/da95f4235476) |
+| Wed, 08 Oct 2025 13:02:48 GMT | Rooted by Rotation: Inside CVE-2025–11462 | gm0 | [Read More](https://medium.com/p/7fb39cc07d57) |
+| Wed, 08 Oct 2025 13:02:18 GMT | CTF collection Vol.1:TryHackMe Writeup :WalkThrough:CTF | Umer | [Read More](https://medium.com/p/464f56032608) |
+| Wed, 08 Oct 2025 13:02:12 GMT | The Hidden Cost of Being “The Strong One” | Veritasknoxofficial | [Read More](https://medium.com/p/7cf07b2893b0) |
+| Wed, 08 Oct 2025 13:02:09 GMT | Spring Security Made Simple: Advanced Multi-Token, Multi-Provider Authentication & RBAC | Ashitosh Mane | [Read More](https://medium.com/p/b623dcc1d882) |
+| Wed, 08 Oct 2025 12:58:22 GMT | Build a Secure Career with Swhizz Technologies: The Top Cyber Security Training in Hyderabad | Swhizztechnlogies | [Read More](https://medium.com/p/f27acc7ae409) |
+| Wed, 08 Oct 2025 12:56:41 GMT | The Future of Automotive is Data-Driven: Unlocking Opportunities in Automotive Data Analytics | Kaverigiri | [Read More](https://medium.com/p/20d025b213ea) |
+| Wed, 08 Oct 2025 12:53:40 GMT | I Am Both the Wound and the Knife | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/defb57caa152) |
+| Wed, 08 Oct 2025 12:42:52 GMT | Concert Security Solutions That Protect Fans and Staff | Sharp Guard Group | [Read More](https://medium.com/p/d419c65f572c) |
 | Wed, 08 Oct 2025 12:42:06 GMT | Positioning Yourself in Cybersecurity | Danny | [Read More](https://medium.com/p/85c8c1a0bfb7) |
 | Wed, 08 Oct 2025 12:39:09 GMT | How Security Guards Prevent Problems at Halloween Gatherings | West Coast Guard | [Read More](https://medium.com/p/c7ca98bf4bc4) |
 | Wed, 08 Oct 2025 12:37:20 GMT | I’m Giving Away a $500,000 Security Plugin for Free. Here’s Why | Vikas Bhardwaj | [Read More](https://medium.com/p/873acd225257) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 09:08:21 GMT | From Cubicles to Campgrounds: Are Tech Layoffs Fueling a Nomad Invasion | Namir Sagheenanajar | [Read More](https://medium.com/p/b2b340733647) |
 | Wed, 08 Oct 2025 09:08:19 GMT | New Forensics Certification from Blue Cape Security? I got it, here is my review. | Chicken0248 | [Read More](https://medium.com/p/892e10545f34) |
 | Wed, 08 Oct 2025 09:02:03 GMT | Splunk .conf25 — Enterprise Security | Apto Solutions | [Read More](https://medium.com/p/ba717d13da72) |
-| Wed, 08 Oct 2025 09:02:02 GMT | Breaking Down ISO 27001 Audits: Stage 1 vs Stage 2 Explained | Hicomply | [Read More](https://medium.com/p/5112fb4e2134) |
-| Wed, 08 Oct 2025 08:59:49 GMT | Palo Alto Networks SD-WAN: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e446f95b5197) |
-| Wed, 08 Oct 2025 08:55:52 GMT | Upcoming systems | Mouad | [Read More](https://medium.com/p/b8e2cc6055bd) |
-| Wed, 08 Oct 2025 08:55:12 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/35a3307387e9) |
-| Wed, 08 Oct 2025 08:49:24 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/66c42dbc94fa) |
-| Wed, 08 Oct 2025 08:37:20 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/ce6a5efc8f1e) |
-| Wed, 08 Oct 2025 08:36:23 GMT | My Journey to a Portable Kali Linux: From Broken USBs to a Hacker’s Toolkit | Sarahmodi | [Read More](https://medium.com/p/453513018a30) |
-| Wed, 08 Oct 2025 08:35:17 GMT | Setting Up a Mobile Pentesting Lab: Emulators, Devices & Proxies | Digital Defense | [Read More](https://medium.com/p/b67fcd3a5a5f) |
-| Wed, 08 Oct 2025 08:34:36 GMT | How to Use the OSINT Framework Effectively — A Step-by-Step Walkthrough | Shansuma D | [Read More](https://medium.com/p/7a42c43fe688) |
-| Wed, 08 Oct 2025 08:32:48 GMT | Securing Your CMS from a DFIR Perspective | INTfinity Consulting | [Read More](https://medium.com/p/5d5a3c1b3aef) |
-| Wed, 08 Oct 2025 08:30:36 GMT | KONSEP DASAR CYBERSECURITY | CysecNewbie2 | [Read More](https://medium.com/p/831ddaba4115) |
-| Wed, 08 Oct 2025 08:29:34 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/2d5bcee19b6a) |
-| Wed, 08 Oct 2025 08:26:01 GMT | DAO Construction Reimagined: Flexibility, Transparency, and Security with the DeXe Protocol. | MADEOFBLU | [Read More](https://medium.com/p/eeb8c8f84379) |
-| Wed, 08 Oct 2025 08:25:42 GMT | Elevate — Brisbane’s Trusted Team for Managed IT, Cybersecurity & Cloud Solutions | Elevate | [Read More](https://medium.com/p/8e7ea0a27d46) |
-| Wed, 08 Oct 2025 08:20:29 GMT | Security Architecture: Complete Guide to Framework, Components, and Importance | Writegenic AI | [Read More](https://medium.com/p/9985da8cc2ce) |
-| Wed, 08 Oct 2025 08:18:02 GMT | Understanding Common Cybersecurity Frameworks | Cyber Security Research | [Read More](https://medium.com/p/a9f17fc220d0) |
-| Wed, 08 Oct 2025 08:11:48 GMT | The Impact of Cybersecurity on Business Reputation | Cyber Security Research | [Read More](https://medium.com/p/91fba245acab) |
-| Wed, 08 Oct 2025 08:06:11 GMT | The Importance of Cybersecurity Standards | Cyber Security Research | [Read More](https://medium.com/p/7ce5cbb7bcbd) |
