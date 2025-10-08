@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 20:18:49 GMT | The Impact of Cybersecurity on Manufacturing | Cyber Security Research | [Read More](https://medium.com/p/253d5ae863d0) |
 | Wed, 08 Oct 2025 20:07:40 GMT | CosmicStrand: The Malware That Made Me Question Everything I Learned About Computer Security | Nishant Harkut | [Read More](https://medium.com/p/3bea1f477cba) |
 | Wed, 08 Oct 2025 20:03:20 GMT | The Role of Cybersecurity in Education | Cyber Security Research | [Read More](https://medium.com/p/67fd46bdf933) |
 | Wed, 08 Oct 2025 20:02:02 GMT | CRITICAL ALERT: Unauthenticated RCE in Bricks Builder | Cybersecplayground | [Read More](https://medium.com/p/9f3075f81ece) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 14:29:20 GMT | Print Your Own Cybersecurity Card Game: A Guide to DXC ThreatDeck | Sarat Chandra Motamarri | [Read More](https://medium.com/p/443b1809ea7f) |
 | Wed, 08 Oct 2025 14:28:12 GMT | TryHackMe Writeup: Blueprint | Berkay AĞGÜL | [Read More](https://medium.com/p/78953034898c) |
 | Wed, 08 Oct 2025 14:27:48 GMT | Unmasking the Algorithmic Insider: A Convergence of Agentic Misalignment and Cognitive Threat… | Berend Watchus | [Read More](https://medium.com/p/944d261f67a4) |
-| Wed, 08 Oct 2025 14:27:22 GMT | Inside a Computer Virus Room (101): How It’s Defined, Life Cycle, Types, Actions, Detection &… | blackXmask | [Read More](https://medium.com/p/dfe0d9a6c3d2) |
