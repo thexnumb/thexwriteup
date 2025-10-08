@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 03:32:06 GMT | When Helpful Becomes Harmful: The Security Flaw in Lenovo’s Chatbot | Deven Chhajed | [Read More](https://medium.com/p/0d70927d0e3a) |
+| Wed, 08 Oct 2025 03:24:45 GMT | Ameriprise Interview Project — Automating IAM User Monitoring with AWS Lambda, S3, and CloudWatch | Amro Abu-Atieh | [Read More](https://medium.com/p/0482b2bf4baa) |
+| Wed, 08 Oct 2025 03:02:23 GMT | After my startup failed, I joined a cybersecurity company to learn, grow, and prepare for my next… | Khul Anwar | [Read More](https://medium.com/p/ccbb1b595711) |
+| Wed, 08 Oct 2025 02:57:02 GMT | How I Turned Obsidian Into a Black-Ops Intelligence Hub (and Why You Should Too) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a1534b39ec5e) |
 | Wed, 08 Oct 2025 02:53:33 GMT | The Power of One Control a Day: Why Small Steps Build Massive Trust | Dr. Deep Pandey | [Read More](https://medium.com/p/7605d79d0345) |
 | Wed, 08 Oct 2025 02:44:39 GMT | US Law Firm Compromised by Chinese-linked Operators | Jay Mclain | [Read More](https://medium.com/p/8ae260fa3f6f) |
 | Wed, 08 Oct 2025 02:38:04 GMT | One Line to Secure Your Webhook Endpoint | Hussachai Puripunpinyo | [Read More](https://medium.com/p/de11a5f7f13b) |
@@ -45,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 23:40:16 GMT | The Voice of AI Just Got Real — Should You Be Concerned or Prepared? | CCL Montante | [Read More](https://medium.com/p/a67091564275) |
 | Tue, 07 Oct 2025 23:33:42 GMT | PostgreSQL 18 Write-Ahead Log Tuning for High-Throughput Secure Applications | Rizqi Mulki | [Read More](https://medium.com/p/279542c6cb36) |
 | Tue, 07 Oct 2025 23:30:35 GMT | The Apologies I Never Learned to Say | Darpan Murly | [Read More](https://medium.com/p/1134848a4bef) |
+| Tue, 07 Oct 2025 23:24:13 GMT | On-Chain Credibility: The End of Fake Influence | Namiplea | [Read More](https://medium.com/p/18c79eea9aa0) |
 | Tue, 07 Oct 2025 23:22:11 GMT | Columnar Storage Extensions for PostgreSQL: Accelerating AI Analytics Securely | Rizqi Mulki | [Read More](https://medium.com/p/658c3e5a126b) |
 | Tue, 07 Oct 2025 23:19:02 GMT | Beyond the Second Factor: How MFA Is Failing the Human Mind | Travis Ray Caverhill | [Read More](https://medium.com/p/25ee0d16964f) |
 | Tue, 07 Oct 2025 23:18:05 GMT | The Browser That Thinks and Lies | Czarif | [Read More](https://medium.com/p/a64db73669d3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 19:31:23 GMT | Walkthrough TryHackMe Lookback | Telynor | [Read More](https://medium.com/p/7edd64887477) |
 | Tue, 07 Oct 2025 19:30:59 GMT | Inside DNV: How Global Innovation and Digital Assurance are Shaping the Future of Industry | Hina Anser | [Read More](https://medium.com/p/804f9fa62754) |
 | Tue, 07 Oct 2025 19:27:31 GMT | Managed Cybersecurity Services: 24/7 Protection for a Threat-Driven World | SafeAeon Inc. | [Read More](https://medium.com/p/40f77225e0c1) |
-| Tue, 07 Oct 2025 19:17:09 GMT | Cybersecurity Compliance Services: Building Trust Through Security and Regulation | SafeAeon Inc. | [Read More](https://medium.com/p/e7fbc718ada0) |
-| Tue, 07 Oct 2025 19:11:16 GMT | Split-Brain JSON: Exploiting Parser Disagreement Across Validation Boundaries for Privilege… | Pratik Dahal | [Read More](https://medium.com/p/be3a038d8722) |
-| Tue, 07 Oct 2025 19:09:13 GMT | (For Hire) Open to work as a Cyber Security Specialist | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/aee0b241080d) |
-| Tue, 07 Oct 2025 18:58:58 GMT | The 5 Most Overlooked Web Development Security Risks in 2025 | Earl-Millen | [Read More](https://medium.com/p/0e2b11b8280a) |
-| Tue, 07 Oct 2025 18:58:37 GMT | MCP Agents: The Silent Backdoor that might be creeping into Your Cybersecurity Stack | Harold Moss | [Read More](https://medium.com/p/8ebd03e4b980) |
