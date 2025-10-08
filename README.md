@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 18:17:33 GMT | ️ Understanding the Fundamentals of Network Security | Asif.k | [Read More](https://medium.com/p/5aedf9d61cec) |
+| Wed, 08 Oct 2025 18:16:39 GMT | Cyber Hygiene Checklist: Daily Security Habits Everyone Should Follow | ENVORASEC | [Read More](https://medium.com/p/3e46f7151977) |
+| Wed, 08 Oct 2025 18:13:58 GMT | Security Starts with You: Proof That Cybersecurity Belongs to Everyone! | Tegar Bayu Pratama | [Read More](https://medium.com/p/9e0f0cd23f2d) |
+| Wed, 08 Oct 2025 18:13:11 GMT | Exploiting A Vulnerable HTTP File Server | Dharmendrakumar | [Read More](https://medium.com/p/ffc26c55d9b2) |
+| Wed, 08 Oct 2025 18:10:54 GMT | LockBit, Qilin, and DragonForce Form Ransomware Alliance — A New Era of Cybercrime Begins | Aditya | [Read More](https://medium.com/p/d1626efdc9fd) |
+| Wed, 08 Oct 2025 18:09:37 GMT | 10 Free Tools Every OSINT Investigator Should Know in 2025 | Aj | [Read More](https://medium.com/p/7f285d46f1b2) |
+| Wed, 08 Oct 2025 18:09:32 GMT | Episode 3— Order Validation Vulnerabilities: How I Bypassed Broken Business Logic to Manipulate… | Yamini Yadav_369 | [Read More](https://medium.com/p/b444eabc2c37) |
+| Wed, 08 Oct 2025 18:09:23 GMT | The Role of OSINT in Modern Hacking: Tools and Real Examples | Shahzaib | [Read More](https://medium.com/p/a2709da5d92b) |
+| Wed, 08 Oct 2025 18:09:20 GMT | Apple iPhone 17 Pro Max – Full Review | Salman Nasafi | [Read More](https://medium.com/p/be293cf5e916) |
+| Wed, 08 Oct 2025 18:09:18 GMT | Subdomain Discovery: Bug Bounty Guide | Monika sharma | [Read More](https://medium.com/p/b496990820f9) |
+| Wed, 08 Oct 2025 18:08:58 GMT | My Virtual HomeLab: SCP File Transfer | Cybersec with Hemmars | [Read More](https://medium.com/p/2826a9324340) |
+| Wed, 08 Oct 2025 18:08:27 GMT | How I Find Sensitive Information Leaks on GitHub (and a Real Example) | Chidubem Chukwu | [Read More](https://medium.com/p/d247be13c809) |
+| Wed, 08 Oct 2025 18:01:59 GMT | Web server: Apache Enumeration | Dharmendrakumar | [Read More](https://medium.com/p/076834a99c9e) |
+| Wed, 08 Oct 2025 18:01:02 GMT | How Java Handles High-Volume Transactions in Financial Systems | Umesh Kumar Yadav | [Read More](https://medium.com/p/6e2e385b8c29) |
+| Wed, 08 Oct 2025 17:59:04 GMT | Walkthrough TryHackMe Sequence | Telynor | [Read More](https://medium.com/p/af33769e3da4) |
+| Wed, 08 Oct 2025 17:54:39 GMT | Unlocking the Login: How Authentication Remembers Who You Are | Mohit Anand | [Read More](https://medium.com/p/f0e34c92e4df) |
+| Wed, 08 Oct 2025 17:51:57 GMT | Inside Claude’s August Infrastructure Crisis | Simardeep Singh | [Read More](https://medium.com/p/0b825c68972f) |
+| Wed, 08 Oct 2025 17:50:13 GMT | OverTheWire: Wargames — Natas (Level 16–30) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/447011e3b9db) |
+| Wed, 08 Oct 2025 17:43:47 GMT | This OAuth Bug Earned Me $$$$: Account Takeover via Identity Injection | hacker_might | [Read More](https://medium.com/p/27774f65288c) |
+| Wed, 08 Oct 2025 17:40:13 GMT | Is Your UPI PIN Obsolete? A Guide to Authentication in the Age of Biometrics | Mayank Aggarwal | [Read More](https://medium.com/p/a226144b6aec) |
 | Wed, 08 Oct 2025 17:19:55 GMT | Cyber Stories #3: The Wi-Fi Stranger | Rosemary Lark | [Read More](https://medium.com/p/d4330de3cf6d) |
 | Wed, 08 Oct 2025 17:19:38 GMT | Siber Güvenlik Temelleri | Taha Altın | [Read More](https://medium.com/p/f28e42bc31de) |
 | Wed, 08 Oct 2025 17:12:18 GMT | Explore Lucrative IT Jobs Without Coding Skills [2026] | Simplilearn | [Read More](https://medium.com/p/bd030d7c5489) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 13:10:17 GMT | How Modern Hospitals Are Eliminating the $10.93 Million Problem That Keeps CISOs Awake at Night | Tec-Tel Communications | [Read More](https://medium.com/p/3726b609dd9d) |
 | Wed, 08 Oct 2025 13:08:56 GMT | When Our Firewall Failed — and the Real Problem Was Us | Michael Preston | [Read More](https://medium.com/p/2e9c8a20cd84) |
 | Wed, 08 Oct 2025 13:08:30 GMT | Modern Siber Güvenlik Operasyonları: SOC, MDR, SIEM, SOAR ve XDR Çözümleri | Asude Handan Uslukılıç | [Read More](https://medium.com/p/f468a2cdb52e) |
-| Wed, 08 Oct 2025 13:08:24 GMT | The Impossible Challenge: TryHackMe Writeup WalkThrough CTF | Umer | [Read More](https://medium.com/p/da95f4235476) |
-| Wed, 08 Oct 2025 13:02:48 GMT | Rooted by Rotation: Inside CVE-2025–11462 | gm0 | [Read More](https://medium.com/p/7fb39cc07d57) |
-| Wed, 08 Oct 2025 13:02:18 GMT | CTF collection Vol.1:TryHackMe Writeup :WalkThrough:CTF | Umer | [Read More](https://medium.com/p/464f56032608) |
-| Wed, 08 Oct 2025 13:02:12 GMT | The Hidden Cost of Being “The Strong One” | Veritasknoxofficial | [Read More](https://medium.com/p/7cf07b2893b0) |
-| Wed, 08 Oct 2025 13:02:09 GMT | Spring Security Made Simple: Advanced Multi-Token, Multi-Provider Authentication & RBAC | Ashitosh Mane | [Read More](https://medium.com/p/b623dcc1d882) |
-| Wed, 08 Oct 2025 12:58:22 GMT | Build a Secure Career with Swhizz Technologies: The Top Cyber Security Training in Hyderabad | Swhizztechnlogies | [Read More](https://medium.com/p/f27acc7ae409) |
-| Wed, 08 Oct 2025 12:56:41 GMT | The Future of Automotive is Data-Driven: Unlocking Opportunities in Automotive Data Analytics | Kaverigiri | [Read More](https://medium.com/p/20d025b213ea) |
-| Wed, 08 Oct 2025 12:53:40 GMT | I Am Both the Wound and the Knife | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/defb57caa152) |
-| Wed, 08 Oct 2025 12:42:52 GMT | Concert Security Solutions That Protect Fans and Staff | Sharp Guard Group | [Read More](https://medium.com/p/d419c65f572c) |
-| Wed, 08 Oct 2025 12:42:06 GMT | Positioning Yourself in Cybersecurity | Danny | [Read More](https://medium.com/p/85c8c1a0bfb7) |
-| Wed, 08 Oct 2025 12:39:09 GMT | How Security Guards Prevent Problems at Halloween Gatherings | West Coast Guard | [Read More](https://medium.com/p/c7ca98bf4bc4) |
-| Wed, 08 Oct 2025 12:37:20 GMT | I’m Giving Away a $500,000 Security Plugin for Free. Here’s Why | Vikas Bhardwaj | [Read More](https://medium.com/p/873acd225257) |
-| Wed, 08 Oct 2025 12:35:22 GMT | 10 Smart Study Tips to Score 95% | Aliyu Ibrahim | [Read More](https://medium.com/p/ae9e1241f6f1) |
-| Wed, 08 Oct 2025 12:33:40 GMT | Design Flaw to Shell Shock — Inside CVE-2025–53967 | gm0 | [Read More](https://medium.com/p/6f227bd10eac) |
-| Wed, 08 Oct 2025 12:32:06 GMT | ️ DNS Cache Poisoning and Modern Evasion Techniques: Hardening DNS Security | Esra Kayhan | [Read More](https://medium.com/p/b0a614050407) |
-| Wed, 08 Oct 2025 12:31:19 GMT | Unpacking CVE-2025–49844: A Critical Redis Vulnerability | Wraith's OSINT Blog | [Read More](https://medium.com/p/1c8722ffdf2c) |
-| Wed, 08 Oct 2025 12:19:35 GMT | I Tested 5 Popular Security Tools: Only One Actually Protected Me | Arfa | [Read More](https://medium.com/p/730fd70dd992) |
-| Wed, 08 Oct 2025 12:18:58 GMT | Early Registration Now Open for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/0eaf7f5797c8) |
-| Wed, 08 Oct 2025 12:17:29 GMT | EggStreme: The New Fileless Malware Targeting Southeast Asia’s Defense Sector | Digitalvoyager | [Read More](https://medium.com/p/3eb8c6e49f96) |
-| Wed, 08 Oct 2025 12:16:54 GMT | Cyberattacks Are Shutting Down Manufacturing Plants Worldwide — Legacy systems have become sitting… | Karl Buhl | [Read More](https://medium.com/p/e6ce25173950) |
