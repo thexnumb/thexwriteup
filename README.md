@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 09:28:54 GMT | Why We’re Building Virtual AI Security Engineers | Aakash Singh | [Read More](https://medium.com/p/6a36670180c4) |
+| Wed, 08 Oct 2025 09:27:34 GMT | The Chain Reaction: How Smart Hackers Turn Tiny Bugs Into Big Paydays | Đeepanshu | [Read More](https://medium.com/p/97cdaeab8afa) |
+| Wed, 08 Oct 2025 09:27:25 GMT | Ensuring Safety and Trust: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/ae25cf77d04c) |
+| Wed, 08 Oct 2025 09:26:29 GMT | Why I Started Learning Cybersecurity | Ritesh Thorve | [Read More](https://medium.com/p/d08e43cc8c32) |
+| Wed, 08 Oct 2025 09:18:28 GMT | Step-by-Step SSL/TLS Implementation: Building Your Own Certificate Authority and Configuring HTTPS… | @Harsh | [Read More](https://medium.com/p/805c5a303c02) |
 | Wed, 08 Oct 2025 09:17:07 GMT | Confidential TryHackMe - | Roy | [Read More](https://medium.com/p/5a5ebd7c595b) |
 | Wed, 08 Oct 2025 09:12:17 GMT | Vulnerability Assessment and Penetration Testing Services in the U.S.: | Aaishasharma | [Read More](https://medium.com/p/3a13c5bb8965) |
 | Wed, 08 Oct 2025 09:09:28 GMT | Why Cyber Forensics Services Are Essential for Corporate Security in 2025 | Rinshumishra | [Read More](https://medium.com/p/093881d98bfc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 03:30:02 GMT | Security Assessment: Vulnhub ICA1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/8d01830eb239) |
 | Wed, 08 Oct 2025 03:24:45 GMT | Ameriprise Interview Project — Automating IAM User Monitoring with AWS Lambda, S3, and CloudWatch | Amro Abu-Atieh | [Read More](https://medium.com/p/0482b2bf4baa) |
 | Wed, 08 Oct 2025 03:02:23 GMT | After my startup failed, I joined a cybersecurity company to learn, grow, and prepare for my next… | Khul Anwar | [Read More](https://medium.com/p/ccbb1b595711) |
-| Wed, 08 Oct 2025 02:57:02 GMT | How I Turned Obsidian Into a Black-Ops Intelligence Hub (and Why You Should Too) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a1534b39ec5e) |
-| Wed, 08 Oct 2025 02:53:33 GMT | The Power of One Control a Day: Why Small Steps Build Massive Trust | Dr. Deep Pandey | [Read More](https://medium.com/p/7605d79d0345) |
-| Wed, 08 Oct 2025 02:44:39 GMT | US Law Firm Compromised by Chinese-linked Operators | Jay Mclain | [Read More](https://medium.com/p/8ae260fa3f6f) |
-| Wed, 08 Oct 2025 02:38:04 GMT | One Line to Secure Your Webhook Endpoint | Hussachai Puripunpinyo | [Read More](https://medium.com/p/de11a5f7f13b) |
-| Wed, 08 Oct 2025 02:35:26 GMT | The Future of Cybersecurity OEMs: From Tools to Trust Ecosystems | Dr. Deep Pandey | [Read More](https://medium.com/p/2cbe83893068) |
