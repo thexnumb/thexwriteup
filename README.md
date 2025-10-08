@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 02:53:33 GMT | The Power of One Control a Day: Why Small Steps Build Massive Trust | Dr. Deep Pandey | [Read More](https://medium.com/p/7605d79d0345) |
+| Wed, 08 Oct 2025 02:44:39 GMT | US Law Firm Compromised by Chinese-linked Operators | Jay Mclain | [Read More](https://medium.com/p/8ae260fa3f6f) |
+| Wed, 08 Oct 2025 02:38:04 GMT | One Line to Secure Your Webhook Endpoint | Hussachai Puripunpinyo | [Read More](https://medium.com/p/de11a5f7f13b) |
+| Wed, 08 Oct 2025 02:35:26 GMT | The Future of Cybersecurity OEMs: From Tools to Trust Ecosystems | Dr. Deep Pandey | [Read More](https://medium.com/p/2cbe83893068) |
+| Wed, 08 Oct 2025 02:32:00 GMT | Discord suffered Data breach | Raviteja Mureboina | [Read More](https://medium.com/p/50e6993c36d3) |
+| Wed, 08 Oct 2025 02:17:05 GMT | 5 Reasons Two-Factor Authentication Is Essential For Everyone Today | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/a8a04c5341fb) |
+| Wed, 08 Oct 2025 02:17:01 GMT | AI‑SOAR + Wazuh: From Toy Demo to Real SOC Powerhouse | yzw.joel | [Read More](https://medium.com/p/b830e99a7498) |
+| Wed, 08 Oct 2025 02:16:52 GMT | IP addresses | Jacob Piloto | [Read More](https://medium.com/p/5d6d33edf63b) |
+| Wed, 08 Oct 2025 02:04:58 GMT | The Furry phenomenon: how TikTok challenges push teens to adopt extreme behaviors | Cristian Iosub | [Read More](https://medium.com/p/a50d1640c561) |
+| Wed, 08 Oct 2025 02:01:22 GMT | The Broken Promise | Arianna Taylor | [Read More](https://medium.com/p/20bc70372fdf) |
+| Wed, 08 Oct 2025 01:59:29 GMT | From Silos to Strategy: Rethinking IT Operations Management for Infrastructure Teams in the Digital… | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/3a018e4c8d65) |
+| Wed, 08 Oct 2025 01:53:21 GMT | CISA Expiration in USA | Raviteja Mureboina | [Read More](https://medium.com/p/9b9ce45ed068) |
+| Wed, 08 Oct 2025 01:44:38 GMT | Understanding Kafka’s Requested Flow & Netty’s Optional Client Authentication | Hrishabh Gupta | [Read More](https://medium.com/p/7f99c5258096) |
+| Wed, 08 Oct 2025 01:37:54 GMT | The 3 AM Version of Yourself | Mayukh Sarma | [Read More](https://medium.com/p/3e9c3516e24c) |
+| Wed, 08 Oct 2025 01:27:18 GMT | The G7 Cyber Expert Group and AI: Steering Global Finance Toward Resilient Innovation | CCD-IS | [Read More](https://medium.com/p/157f700f9907) |
 | Wed, 08 Oct 2025 01:23:22 GMT | Detecting Software Supply Chain Compromise with GitHub Actions and Rougepkg — Part 1 | Oluwatobi Afolabi | [Read More](https://medium.com/p/a91dae406323) |
 | Wed, 08 Oct 2025 01:22:31 GMT | The Evolution of Quantum Resistance in the Signal Protocol: From PQXDH to the Triple Ratchet | Sunil Gentyala | [Read More](https://medium.com/p/2e2ab00a1544) |
 | Wed, 08 Oct 2025 01:22:06 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/98ae4ce43fb3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 19:09:13 GMT | (For Hire) Open to work as a Cyber Security Specialist | SHAHAJAHAN HOSSEN | [Read More](https://medium.com/p/aee0b241080d) |
 | Tue, 07 Oct 2025 18:58:58 GMT | The 5 Most Overlooked Web Development Security Risks in 2025 | Earl-Millen | [Read More](https://medium.com/p/0e2b11b8280a) |
 | Tue, 07 Oct 2025 18:58:37 GMT | MCP Agents: The Silent Backdoor that might be creeping into Your Cybersecurity Stack | Harold Moss | [Read More](https://medium.com/p/8ebd03e4b980) |
-| Tue, 07 Oct 2025 18:57:56 GMT | My BTL1 Review | Bhavesh - CyberSec | [Read More](https://medium.com/p/314d396a0f1f) |
-| Tue, 07 Oct 2025 18:53:00 GMT | Unlocking the True Value of Your Security Stack | Venu Koyyada | [Read More](https://medium.com/p/d7337b2aac5a) |
-| Tue, 07 Oct 2025 18:50:26 GMT | Blackgate -Proving Grounds Practice Walkthrough | Sandeepsisodiya | [Read More](https://medium.com/p/46ecc9261575) |
-| Tue, 07 Oct 2025 18:49:05 GMT | The Unbearable Beauty of the Open Heart: A Preface | Soren Ash | [Read More](https://medium.com/p/46cae269917a) |
-| Tue, 07 Oct 2025 18:47:15 GMT | Silent Signals: Mastering C2 in Adversarial Simulations | Muhammad Ali | [Read More](https://medium.com/p/61ee077406c3) |
-| Tue, 07 Oct 2025 18:46:12 GMT | Cookies Are Spying on You, So I Taught My Browser to Lie | Pannag Kumaar | [Read More](https://medium.com/p/990d90a7be04) |
-| Tue, 07 Oct 2025 18:44:34 GMT | At What Point Do Age Gaps Matter? | Adrian CDTPPW | [Read More](https://medium.com/p/e09ac5161036) |
-| Tue, 07 Oct 2025 18:44:05 GMT | Spooky Season Special: The Scary Truth About Public Wi-Fi | Eina Schroeder | [Read More](https://medium.com/p/b78737feedd0) |
-| Tue, 07 Oct 2025 18:39:08 GMT | Phantom Taurus: Unmasking the Stealthy Chinese APT Targeting Global Governments | Bhumika Sharma | [Read More](https://medium.com/p/ae1bfe2d2631) |
-| Tue, 07 Oct 2025 18:36:07 GMT | CISA Warns Meteobridge CVE-2025–4008 Vulnerability Is Actively Exploited | SCtoCS | [Read More](https://medium.com/p/2ea4dd7db605) |
-| Tue, 07 Oct 2025 18:35:17 GMT | What is Statistics and why is it important for Cybersecurity | Riccardo Giacinti | [Read More](https://medium.com/p/03d18e91c7fb) |
-| Tue, 07 Oct 2025 18:33:59 GMT | $35,000 por este fallo en GitLab — Reporte CRITICAL explicado paso a paso | Gorka | [Read More](https://medium.com/p/66944c30f086) |
-| Tue, 07 Oct 2025 18:29:12 GMT | Lessons from CVE‑2025‑61882: What Oracle E‑Business Suite Teaches Us About Modern Exploitation… | Kevin Gandhi | [Read More](https://medium.com/p/52b042547366) |
-| Tue, 07 Oct 2025 18:22:07 GMT | Getting Hands-On with Kerbrute: Practical AD Enumeration & Attack Tactics | Mark Puckett | [Read More](https://medium.com/p/107b212d8d60) |
-| Tue, 07 Oct 2025 18:20:36 GMT | ️ Mobile Application Security: Protecting Your App from Code to Cloud | Mrinal Maheshwari | [Read More](https://medium.com/p/24614d1e31b2) |
