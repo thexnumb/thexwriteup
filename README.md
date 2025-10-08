@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 23:10:53 GMT | Stop Clicking ‘Remind Me Later’ on Updates | Samirah A.O | [Read More](https://medium.com/p/b6bd4d43b8c8) |
+| Wed, 08 Oct 2025 22:55:48 GMT | The Digital Dark Knight | David ONeal | [Read More](https://medium.com/p/7e5778c0cea4) |
+| Wed, 08 Oct 2025 22:52:29 GMT | Can Your Smart TV Spy on You? Understanding Everyday Cyber Risks | Akshay Chauhan | [Read More](https://medium.com/p/a5f7a6207013) |
+| Wed, 08 Oct 2025 22:48:24 GMT | a letter to the me i was | notes from dylan | [Read More](https://medium.com/p/d96394102bdc) |
+| Wed, 08 Oct 2025 22:42:20 GMT | The Maharani of Modern Glamour | Maham Tanveer | [Read More](https://medium.com/p/12ce94e38d46) |
+| Wed, 08 Oct 2025 22:41:17 GMT | An Investigation of AMSI Evasion | John Ford | [Read More](https://medium.com/p/5ccacb217e06) |
+| Wed, 08 Oct 2025 22:39:46 GMT | The One Thing Everyone Forgets About Home Wi-Fi | Samirah A.O | [Read More](https://medium.com/p/1adc505c0f2d) |
 | Wed, 08 Oct 2025 22:36:27 GMT | Google’s New AI Doesn’t Just Spot Vulnerabilities — It Rewrites Code to Fix Them | Cyber-AppSec | [Read More](https://medium.com/p/a180e6606346) |
 | Wed, 08 Oct 2025 22:28:24 GMT | So Many Powerful Organizations… Yet Scams Keep Growing | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/04449501e4d3) |
 | Wed, 08 Oct 2025 22:18:01 GMT | Why Drosera Could Redefine the Future of Web3 Investing | Jude Johnson | [Read More](https://medium.com/p/13c6a2f01cda) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 17:06:25 GMT | Setup a home lab running Active Directory Using Virtual Box: Part 1 Walkthrough | Declan | [Read More](https://medium.com/p/42da35f9c0cf) |
 | Wed, 08 Oct 2025 17:02:08 GMT | Recovery After Stillbirth: It’s Time to Let Go and Heal | Hari's Helping Hands | [Read More](https://medium.com/p/6bc14f3e1f4c) |
 | Wed, 08 Oct 2025 17:01:57 GMT | BRICKSTORM: The Spyware You Were Never Supposed to See | Akshatdwivedi | [Read More](https://medium.com/p/05c16d7240eb) |
-| Wed, 08 Oct 2025 17:01:05 GMT | Python and Sonic Gardens: Generative Soundscapes with Code | Kainat Nafees | [Read More](https://medium.com/p/2396ae12a9ba) |
-| Wed, 08 Oct 2025 16:50:48 GMT | Writing a risk scenario | Ryan McGeehan | [Read More](https://medium.com/p/bdbe6e20bfcb) |
-| Wed, 08 Oct 2025 16:45:53 GMT | State of Application Security at Top 250 Cryptocurrency Exchanges | ImmuniWeb | [Read More](https://medium.com/p/163151df8209) |
-| Wed, 08 Oct 2025 16:37:19 GMT | Automate the API Hunt — API Reverse Engineering ️‍ | Senuk Dias | [Read More](https://medium.com/p/6a8d724f6f7e) |
-| Wed, 08 Oct 2025 16:37:05 GMT | Important Facts To Know About Bitcoin Wallets | VTECH | [Read More](https://medium.com/p/6d6ad2daad94) |
-| Wed, 08 Oct 2025 16:35:54 GMT | Case Study: Mobile Remote Access Trojan Deployment — Social Engineering Techniques and Defense… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/a74292a01e4d) |
-| Wed, 08 Oct 2025 16:32:25 GMT | Watcher - TryHackMe CTF Walkthrough | Robert Gooding | [Read More](https://medium.com/p/9483ea5b9a53) |
