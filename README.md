@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 04:08:21 GMT | Flutter’s Secret Defense Plan | Chirag Prajapati | [Read More](https://medium.com/p/74370445d4b6) |
+| Wed, 08 Oct 2025 03:54:14 GMT | How Online Investment Scams Steal Billions From You Each Year. | Levi Josh | [Read More](https://medium.com/p/b5eae0ad1e6a) |
+| Wed, 08 Oct 2025 03:53:34 GMT | Beyond alert(1): The Real-World Dangers of Cross-Site Scripting (XSS) in SPAs | InstaTunnel | [Read More](https://medium.com/p/1fdbc0a8d956) |
 | Wed, 08 Oct 2025 03:32:06 GMT | When Helpful Becomes Harmful: The Security Flaw in Lenovo’s Chatbot | Deven Chhajed | [Read More](https://medium.com/p/0d70927d0e3a) |
+| Wed, 08 Oct 2025 03:32:05 GMT | 7 Best Practices for JWT Rotation in Node.js APIs | Arunangshu Das | [Read More](https://medium.com/p/5b5643c096eb) |
+| Wed, 08 Oct 2025 03:30:02 GMT | Security Assessment: Vulnhub ICA1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/8d01830eb239) |
 | Wed, 08 Oct 2025 03:24:45 GMT | Ameriprise Interview Project — Automating IAM User Monitoring with AWS Lambda, S3, and CloudWatch | Amro Abu-Atieh | [Read More](https://medium.com/p/0482b2bf4baa) |
 | Wed, 08 Oct 2025 03:02:23 GMT | After my startup failed, I joined a cybersecurity company to learn, grow, and prepare for my next… | Khul Anwar | [Read More](https://medium.com/p/ccbb1b595711) |
 | Wed, 08 Oct 2025 02:57:02 GMT | How I Turned Obsidian Into a Black-Ops Intelligence Hub (and Why You Should Too) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a1534b39ec5e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 19:39:22 GMT | Social Engineering: How Hackers Trick You in Daily Life | Cordula Boeck | [Read More](https://medium.com/p/6d32743ed2a2) |
 | Tue, 07 Oct 2025 19:37:32 GMT | About Me | Tayyab Akhtar | [Read More](https://medium.com/p/775644247e15) |
 | Tue, 07 Oct 2025 19:35:43 GMT | Why Cybersecurity Compliance Isn’t Just About Rules, It’s About Trust | Akshay Chauhan | [Read More](https://medium.com/p/907f1ad15367) |
-| Tue, 07 Oct 2025 19:35:19 GMT | Securing Defense Systems: GitLab and HackerOne in Coordinated Action With Lockheed Martin | Justas_b | [Read More](https://medium.com/p/7ed6ea51054f) |
-| Tue, 07 Oct 2025 19:31:25 GMT | Ever been stuck asking clients to “please email the file again” because the last one got lost in… | Jane Brian | [Read More](https://medium.com/p/0157d7614785) |
-| Tue, 07 Oct 2025 19:31:23 GMT | Walkthrough TryHackMe Lookback | Telynor | [Read More](https://medium.com/p/7edd64887477) |
-| Tue, 07 Oct 2025 19:30:59 GMT | Inside DNV: How Global Innovation and Digital Assurance are Shaping the Future of Industry | Hina Anser | [Read More](https://medium.com/p/804f9fa62754) |
-| Tue, 07 Oct 2025 19:27:31 GMT | Managed Cybersecurity Services: 24/7 Protection for a Threat-Driven World | SafeAeon Inc. | [Read More](https://medium.com/p/40f77225e0c1) |
