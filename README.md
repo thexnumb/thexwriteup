@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 14:15:31 GMT | A Comprehensive Step-by-Step Guide to Your First Successful IDOR Vulnerability | Andrei Ivan | [Read More](https://medium.com/p/137fbf1493da) |
+| Wed, 08 Oct 2025 14:14:38 GMT | Stability and Control — Why Abatis Eliminates Forced Updates and Downtime | Abatis ABTU | [Read More](https://medium.com/p/427019eadde2) |
+| Wed, 08 Oct 2025 14:10:09 GMT | Hacked by Code We Trust: A Single Flaw Saved Your Data, analyzing the Amazon Injection Attack | Harsh duhan | [Read More](https://medium.com/p/64b2a4f8efc5) |
+| Wed, 08 Oct 2025 14:08:23 GMT | Professional Event Security: Ensuring Safe and Seamless Events in London | waeventservices.co.uk/ | [Read More](https://medium.com/p/f5bffdf9c873) |
+| Wed, 08 Oct 2025 14:08:01 GMT | The Blackmail: What To Do If Someone Threatens You | Dr. Pamela Ramirez, PsyD, MD | [Read More](https://medium.com/p/40b520a06e60) |
+| Wed, 08 Oct 2025 14:05:14 GMT | The HIMARS Fire Control Hack — Ukrainian Engineers Override Pentagon Restrictions | The Forensic Archive | [Read More](https://medium.com/p/5655a87e88f7) |
+| Wed, 08 Oct 2025 14:02:06 GMT | Cyber Briefing: 2025.10.08 | CyberMaterial | [Read More](https://medium.com/p/40575c86a6d6) |
+| Wed, 08 Oct 2025 14:02:06 GMT | Part 9: Google Hacking Database Explained: Dorking Your Way to Smarter osint | Intelithics | [Read More](https://medium.com/p/5f31a862fd65) |
+| Wed, 08 Oct 2025 13:57:36 GMT | We Are the Champions: Building a Cybersecurity Culture that Lasts | Thomas Carter | [Read More](https://medium.com/p/b6f2d6f72236) |
+| Wed, 08 Oct 2025 13:57:17 GMT | Stories Hackers Don’t Tell: The Books Behind Their Success | Shahzaib | [Read More](https://medium.com/p/ee94557f7303) |
+| Wed, 08 Oct 2025 13:55:01 GMT | Cybersecurity for Dummies: Your First Steps into the Digital Fortress | Samina Perveen | [Read More](https://medium.com/p/fcaf0ff749d6) |
+| Wed, 08 Oct 2025 13:41:12 GMT | Hackviser CWSE Certificate: Cyber Vault Walktrought | kiknazde | [Read More](https://medium.com/p/5e9dbf3e2aa6) |
+| Wed, 08 Oct 2025 13:40:32 GMT | UAE: A Global Model of Safety, Tolerance, and Modern Coexistence | Marta Reyes | [Read More](https://medium.com/p/cd7b1015cea2) |
+| Wed, 08 Oct 2025 13:39:40 GMT | Day 8: The Danger of Unseen Connections -Why Network & Wi-Fi Security Matters! | Aysha Misri | [Read More](https://medium.com/p/8b27ab26f7d1) |
+| Wed, 08 Oct 2025 13:36:28 GMT | Shodan.io-THM - 100-Day Cyber Exploration Writeup..-Day-1 . | Deepika  B | [Read More](https://medium.com/p/8d430995572e) |
+| Wed, 08 Oct 2025 13:30:48 GMT | How to secure external (public) web forms from malicious actions. End-to-end | Dawid Galeziewski | [Read More](https://medium.com/p/ce7b326ad862) |
+| Wed, 08 Oct 2025 13:28:58 GMT | Expedite IT: Reinventing Data Center Perimeter Security in KSA & GCC | expbhavya | [Read More](https://medium.com/p/58965655368a) |
 | Wed, 08 Oct 2025 13:20:42 GMT | The Future CTO Will Be Half Engineer-Half Economist | Tim Murkomen | [Read More](https://medium.com/p/98638eca7a69) |
 | Wed, 08 Oct 2025 13:20:13 GMT | DNS Rebinding + SSRF: The Silent Combo That Turns Browsers Into Internal Attack Proxies | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bf5b367c93eb) |
 | Wed, 08 Oct 2025 13:16:41 GMT | One-Click Account Takeover via Open Redirect & XSS | Ibtissam hammadi | [Read More](https://medium.com/p/8263bd6db064) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 09:47:54 GMT | Configuring Conditional Access in Microsoft Entra ID with a Zero Trust Mindset | Konstantinos Lianos | [Read More](https://medium.com/p/c4c322d141ea) |
 | Wed, 08 Oct 2025 09:46:16 GMT | mTLS in Spring: why it matters and how to implement it with HashiCorp Vault and in-memory… | Frolikov | [Read More](https://medium.com/p/94afffea6b9b) |
 | Wed, 08 Oct 2025 09:44:25 GMT | UK Cloud Application Security Market, Size, Share, Growth, Demand & Forecast -2031 | Swapnil b | [Read More](https://medium.com/p/008b95771422) |
-| Wed, 08 Oct 2025 09:44:02 GMT | Best Business Intelligence Services and Solutions in India, UK & USA | Juarait Digital | [Read More](https://medium.com/p/5920f73efffd) |
-| Wed, 08 Oct 2025 09:43:46 GMT | Your Data Is the New Currency — Building a Safer Digital Future | NitinKumar Shrimali | [Read More](https://medium.com/p/156a5efd8ed9) |
-| Wed, 08 Oct 2025 09:43:27 GMT | Career Opportunities after B.Tech in Information Technology | JIS Group | [Read More](https://medium.com/p/5eccca584a6d) |
-| Wed, 08 Oct 2025 09:42:33 GMT | GEOINT: How Casual Employee Photos Reveal Business Secrets | Roman ALEFAIDEA | [Read More](https://medium.com/p/1175b179da55) |
-| Wed, 08 Oct 2025 09:42:14 GMT | How to Prevent a Major Cyber Attack: RealWorld Examples and Proven Strategies | peopletech | [Read More](https://medium.com/p/476950b30971) |
-| Wed, 08 Oct 2025 09:29:43 GMT | Social Media Safety and Awareness in the Digital Age | VULN-VAULT | [Read More](https://medium.com/p/472836bae114) |
-| Wed, 08 Oct 2025 09:28:54 GMT | Why We’re Building Virtual AI Security Engineers | Aakash Singh | [Read More](https://medium.com/p/6a36670180c4) |
-| Wed, 08 Oct 2025 09:27:34 GMT | The Chain Reaction: How Smart Hackers Turn Tiny Bugs Into Big Paydays | Đeepanshu | [Read More](https://medium.com/p/97cdaeab8afa) |
-| Wed, 08 Oct 2025 09:27:25 GMT | Ensuring Safety and Trust: The Growing Demand for Security Services in India | Ciss India | [Read More](https://medium.com/p/ae25cf77d04c) |
-| Wed, 08 Oct 2025 09:26:29 GMT | Why I Started Learning Cybersecurity | Ritesh Thorve | [Read More](https://medium.com/p/d08e43cc8c32) |
-| Wed, 08 Oct 2025 09:18:28 GMT | Step-by-Step SSL/TLS Implementation: Building Your Own Certificate Authority and Configuring HTTPS… | @Harsh | [Read More](https://medium.com/p/805c5a303c02) |
-| Wed, 08 Oct 2025 09:17:07 GMT | Confidential TryHackMe - | Roy | [Read More](https://medium.com/p/5a5ebd7c595b) |
-| Wed, 08 Oct 2025 09:12:17 GMT | Vulnerability Assessment and Penetration Testing Services in the U.S.: | Aaishasharma | [Read More](https://medium.com/p/3a13c5bb8965) |
-| Wed, 08 Oct 2025 09:09:28 GMT | Why Cyber Forensics Services Are Essential for Corporate Security in 2025 | Rinshumishra | [Read More](https://medium.com/p/093881d98bfc) |
-| Wed, 08 Oct 2025 09:08:21 GMT | From Cubicles to Campgrounds: Are Tech Layoffs Fueling a Nomad Invasion | Namir Sagheenanajar | [Read More](https://medium.com/p/b2b340733647) |
-| Wed, 08 Oct 2025 09:08:19 GMT | New Forensics Certification from Blue Cape Security? I got it, here is my review. | Chicken0248 | [Read More](https://medium.com/p/892e10545f34) |
-| Wed, 08 Oct 2025 09:02:03 GMT | Splunk .conf25 — Enterprise Security | Apto Solutions | [Read More](https://medium.com/p/ba717d13da72) |
