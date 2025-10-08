@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 11:10:23 GMT | Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII (and a $600 Bounty) | toast | [Read More](https://medium.com/p/0ca17ed328c9) |
+| Wed, 08 Oct 2025 11:06:45 GMT | exp.gs-cdn.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/ed3d4b9bb80e) |
+| Wed, 08 Oct 2025 11:05:01 GMT | Is eth-cryp.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/86cb7fee7b50) |
+| Wed, 08 Oct 2025 11:03:50 GMT | Why Security Maturity Assessment Matters | Vishwajeettechtech | [Read More](https://medium.com/p/e34b09f055b3) |
+| Wed, 08 Oct 2025 11:02:34 GMT | Realancer: Empowering Freelancers with Freedom and Fairness | Zeeshan Ali Shah | [Read More](https://medium.com/p/5a1929b47015) |
+| Wed, 08 Oct 2025 11:02:08 GMT | Redis RCE CVE-2025–49844: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/f3749a259e02) |
+| Wed, 08 Oct 2025 11:01:51 GMT | Building My Hybrid Security Lab (Part 1): From On-Prem to Defender XDR | Florence Nwizugbe | [Read More](https://medium.com/p/6113c22326d1) |
+| Wed, 08 Oct 2025 11:00:17 GMT | Can You Trust cbotbit.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/ede60ff47e98) |
+| Wed, 08 Oct 2025 10:56:56 GMT | crypto-rd.top Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/371c2789c81b) |
+| Wed, 08 Oct 2025 10:56:51 GMT | The Role of SOC 2 Certification in Building Customer Trust | Tech Writer | [Read More](https://medium.com/p/6e153e617d3c) |
+| Wed, 08 Oct 2025 10:55:52 GMT | Is cbesx.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/cde13fa79731) |
+| Wed, 08 Oct 2025 10:54:14 GMT | Is regul-finance.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/f4767772db64) |
+| Wed, 08 Oct 2025 10:53:10 GMT | DockerLabs Writeup — Bypassme (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ed65445cecc8) |
+| Wed, 08 Oct 2025 10:47:46 GMT | Astronaut -Step-by-Step Walkthrough (Proving Grounds Practice) | Sandeepsisodiya | [Read More](https://medium.com/p/5a8c7a8d4aad) |
+| Wed, 08 Oct 2025 10:47:00 GMT | Integrating OAuth2 PKCE and SCRAM Authentication with Amazon Cognito | Hilda Machando | [Read More](https://medium.com/p/3358fa5527f5) |
+| Wed, 08 Oct 2025 10:45:58 GMT | The Fine Line Between Smart Tech and Safe Tech | Rabail Zaheer | [Read More](https://medium.com/p/b866aa39f702) |
+| Wed, 08 Oct 2025 10:37:16 GMT | How I Reduced AWS Costs by 67% Using DevOps Automation | Talat Faheem | [Read More](https://medium.com/p/88f9fc0b2893) |
 | Wed, 08 Oct 2025 10:36:07 GMT | Active Memory Expansion — Boost IBM Power Systems Without Extra RAM | Crafty Facts | [Read More](https://medium.com/p/682fc8e5847c) |
 | Wed, 08 Oct 2025 10:35:57 GMT | Bkchaintops.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/ac78f91407f7) |
 | Wed, 08 Oct 2025 10:34:21 GMT | Microsoft Leak: A Wake-Up Call for SMEs to Embrace a Cost-Effective, Cybersecurity Strategy | FlashX Cybersecurity | [Read More](https://medium.com/p/26399b4bc5f4) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 06:51:21 GMT | Take your career to new heights with our industry-driven training programs designed for aspiring… | TheEvolvEdge | [Read More](https://medium.com/p/56636523909d) |
 | Wed, 08 Oct 2025 06:44:06 GMT | Samsung Latest Phone Release Date 2025: What to Expect Next | Pimrada Thavorn | [Read More](https://medium.com/p/ab0ec6680c79) |
 | Wed, 08 Oct 2025 06:40:59 GMT | What is Cybersecurity? – CIA Triad | Adeleke Theophilus O | [Read More](https://medium.com/p/45d72a6cacf4) |
-| Wed, 08 Oct 2025 06:38:21 GMT | Samsung Latest PhoneSamsung Latest Phone 2025: Must-Know Specs and Innovations | Zara Everly | [Read More](https://medium.com/p/5b6e732c31da) |
-| Wed, 08 Oct 2025 06:38:07 GMT | SPARK Matrix™: Evaluating Leading Risk-Based Authentication Vendors for 2025 | Shamita Patel | [Read More](https://medium.com/p/9a95e129cafb) |
-| Wed, 08 Oct 2025 06:26:47 GMT | CodeMender, the AI That Rewrites Code: Why Software Security Is Entering a New Phase | Germano Costi | [Read More](https://medium.com/p/c0e28543052a) |
-| Wed, 08 Oct 2025 06:24:12 GMT | The Future of Mobile: Insights from the Top Flutter App Development Company UAE | Five Programmers | [Read More](https://medium.com/p/4bc04e33bf7e) |
-| Wed, 08 Oct 2025 06:22:04 GMT | How to Find Security Bugs in 10 Minutes — A Beginner’s Guide | Abuzersajid | [Read More](https://medium.com/p/2b285bedf9f8) |
-| Wed, 08 Oct 2025 06:17:31 GMT | Advanced Log Management Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/7d02d9684387) |
-| Wed, 08 Oct 2025 06:10:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/3d08c312bf4b) |
-| Wed, 08 Oct 2025 06:09:51 GMT | Top 10 Vulnerabilities Exploited by Hackers | Manisha Chaudhary | [Read More](https://medium.com/p/b3361048a340) |
-| Wed, 08 Oct 2025 06:03:58 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/b4bacb9477e5) |
-| Wed, 08 Oct 2025 06:02:08 GMT | The Truth About Building a Business as a Trauma Survivor: Why Going Slow Is Your Superpower | Cyndi Bennett | [Read More](https://medium.com/p/c8904024dd39) |
-| Wed, 08 Oct 2025 06:02:07 GMT | Governed RAG on Warehouses — Row/Column Security, Masking, and Lineage-Aware Retrieval | Sai Kumar Devulapelli | [Read More](https://medium.com/p/410349d3751c) |
-| Wed, 08 Oct 2025 06:01:56 GMT | 11 Python Libraries That Make Cybersecurity Feel Effortless | Dustdusky | [Read More](https://medium.com/p/85b416f39322) |
-| Wed, 08 Oct 2025 05:58:12 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/e5fe1daa9e0c) |
-| Wed, 08 Oct 2025 05:52:30 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/18ca57893d55) |
-| Wed, 08 Oct 2025 05:52:28 GMT | Part 6 : Static Analysis for Configuration and Application Code: Tools and Best Practices | Dean | [Read More](https://medium.com/p/050d58d8bd1d) |
-| Wed, 08 Oct 2025 05:49:13 GMT | From a Rural Village to Cybersecurity — My Journey from Biotechnology to Ethical Hacking | Abuzersajid | [Read More](https://medium.com/p/47a4b284badf) |
-| Wed, 08 Oct 2025 05:49:03 GMT | MCP Security : Comprehensive Takeaways on from Akto 2025 (Part-1) | Yash Virendra Prajapati | [Read More](https://medium.com/p/cbd389ab82fe) |
