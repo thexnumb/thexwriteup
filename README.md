@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 10:36:07 GMT | Active Memory Expansion — Boost IBM Power Systems Without Extra RAM | Crafty Facts | [Read More](https://medium.com/p/682fc8e5847c) |
+| Wed, 08 Oct 2025 10:35:57 GMT | Bkchaintops.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/ac78f91407f7) |
+| Wed, 08 Oct 2025 10:34:21 GMT | Microsoft Leak: A Wake-Up Call for SMEs to Embrace a Cost-Effective, Cybersecurity Strategy | FlashX Cybersecurity | [Read More](https://medium.com/p/26399b4bc5f4) |
+| Wed, 08 Oct 2025 10:33:36 GMT | Security for Retail Stores: Top Strategies to Prevent Theft | Janie Taylor | [Read More](https://medium.com/p/9c0aac33dd73) |
+| Wed, 08 Oct 2025 10:32:34 GMT | Is Gcra2024.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/c6eb2cddc847) |
+| Wed, 08 Oct 2025 10:30:54 GMT | Is Dex-defi.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/477f44670a45) |
+| Wed, 08 Oct 2025 10:30:18 GMT | Securing Your VPS SSH Access: A Complete Guide for Multiple Devices and 2FA Protection | Nurul Islam Rimon | [Read More](https://medium.com/p/8650a9e01e56) |
+| Wed, 08 Oct 2025 10:23:53 GMT | The Cybersecurity Struggle: Why SMEs Need Simplified, Budget-Friendly Solutions | FlashX Cybersecurity | [Read More](https://medium.com/p/65ac9d309265) |
+| Wed, 08 Oct 2025 10:21:22 GMT | How to Install Nessus Vulnerability Scanner by Tenable on Kali Linux | Augustine Sito | [Read More](https://medium.com/p/82ba9bcf12f1) |
+| Wed, 08 Oct 2025 10:17:27 GMT | Biometric Authentication’s Complexities and the Imperative of Multi-Factor Authentication (MFA) | FlashX Cybersecurity | [Read More](https://medium.com/p/c6c01dfdef3e) |
+| Wed, 08 Oct 2025 10:17:11 GMT | Getting Started with grep in Linux (Day 3 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/818dab1520b6) |
 | Wed, 08 Oct 2025 10:15:53 GMT | Browser Agents Are Here: What Google’s ‘Computer Use’ Gemini Means for Enterprise Workflows | Scott Hendrix | [Read More](https://medium.com/p/77410537b0cf) |
 | Wed, 08 Oct 2025 10:12:44 GMT | Hikvision CCTV System Setup for Corporate Office Security Dhaka | optimationbd | [Read More](https://medium.com/p/43e41755ebc4) |
 | Wed, 08 Oct 2025 10:11:38 GMT | Why Python Remains a Dependable Choice for Enterprise FinTech | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/df947d7cc0e8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 05:52:28 GMT | Part 6 : Static Analysis for Configuration and Application Code: Tools and Best Practices | Dean | [Read More](https://medium.com/p/050d58d8bd1d) |
 | Wed, 08 Oct 2025 05:49:13 GMT | From a Rural Village to Cybersecurity — My Journey from Biotechnology to Ethical Hacking | Abuzersajid | [Read More](https://medium.com/p/47a4b284badf) |
 | Wed, 08 Oct 2025 05:49:03 GMT | MCP Security : Comprehensive Takeaways on from Akto 2025 (Part-1) | Yash Virendra Prajapati | [Read More](https://medium.com/p/cbd389ab82fe) |
-| Wed, 08 Oct 2025 05:42:11 GMT | What is GAN and relevance in Cybersecurity? | Akanksha | [Read More](https://medium.com/p/1c01f4cb1ebb) |
-| Wed, 08 Oct 2025 05:39:22 GMT | The Challenges of Global Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/28ecdda1c9e1) |
-| Wed, 08 Oct 2025 05:38:24 GMT | Day 66- Understanding the basics of Reverse Engineering for beginners | unica 02 | [Read More](https://medium.com/p/7abcba8a149c) |
-| Wed, 08 Oct 2025 05:38:05 GMT | 7 AI Defense Secrets : How Multi-Agent Systems Halt The Most Advanced Digital Threats | Shailendra Kumar | [Read More](https://medium.com/p/ad9235b62592) |
-| Wed, 08 Oct 2025 05:34:09 GMT | Pen Injectors Market Analysis and Opportunities by 2034 | Prajval Jadhav | [Read More](https://medium.com/p/5890a33024bb) |
-| Wed, 08 Oct 2025 05:33:45 GMT | Machine Learning for Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/7fb55778f3a6) |
-| Wed, 08 Oct 2025 05:28:04 GMT | The Importance of Data Privacy | Cyber Security Research | [Read More](https://medium.com/p/42a214a1015f) |
-| Wed, 08 Oct 2025 05:23:01 GMT | How I Found a $1,000 IDOR Bug Using Burp Suite ? | DevProgramming | [Read More](https://medium.com/p/dfb2b11d933e) |
-| Wed, 08 Oct 2025 05:23:01 GMT | The Evolution of Security Policies | Cyber Security Research | [Read More](https://medium.com/p/037b1adc4a7f) |
-| Wed, 08 Oct 2025 05:18:50 GMT | Top Privacy Management Software for 2025 | Gauri Kale | [Read More](https://medium.com/p/14e76814e079) |
-| Wed, 08 Oct 2025 05:18:47 GMT | The Hidden Network Mistake That Hackers Love | Ask IT Support | [Read More](https://medium.com/p/97bcf7e5004d) |
