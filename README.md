@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 12:42:06 GMT | Positioning Yourself in Cybersecurity | Danny | [Read More](https://medium.com/p/85c8c1a0bfb7) |
+| Wed, 08 Oct 2025 12:39:09 GMT | How Security Guards Prevent Problems at Halloween Gatherings | West Coast Guard | [Read More](https://medium.com/p/c7ca98bf4bc4) |
+| Wed, 08 Oct 2025 12:37:20 GMT | I’m Giving Away a $500,000 Security Plugin for Free. Here’s Why | Vikas Bhardwaj | [Read More](https://medium.com/p/873acd225257) |
+| Wed, 08 Oct 2025 12:35:22 GMT | 10 Smart Study Tips to Score 95% | Aliyu Ibrahim | [Read More](https://medium.com/p/ae9e1241f6f1) |
+| Wed, 08 Oct 2025 12:33:40 GMT | Design Flaw to Shell Shock — Inside CVE-2025–53967 | gm0 | [Read More](https://medium.com/p/6f227bd10eac) |
+| Wed, 08 Oct 2025 12:32:06 GMT | ️ DNS Cache Poisoning and Modern Evasion Techniques: Hardening DNS Security | Esra Kayhan | [Read More](https://medium.com/p/b0a614050407) |
+| Wed, 08 Oct 2025 12:31:19 GMT | Unpacking CVE-2025–49844: A Critical Redis Vulnerability | Wraith's OSINT Blog | [Read More](https://medium.com/p/1c8722ffdf2c) |
+| Wed, 08 Oct 2025 12:19:35 GMT | I Tested 5 Popular Security Tools: Only One Actually Protected Me | Arfa | [Read More](https://medium.com/p/730fd70dd992) |
+| Wed, 08 Oct 2025 12:18:58 GMT | Early Registration Now Open for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/0eaf7f5797c8) |
+| Wed, 08 Oct 2025 12:17:29 GMT | EggStreme: The New Fileless Malware Targeting Southeast Asia’s Defense Sector | Digitalvoyager | [Read More](https://medium.com/p/3eb8c6e49f96) |
+| Wed, 08 Oct 2025 12:16:54 GMT | Cyberattacks Are Shutting Down Manufacturing Plants Worldwide — Legacy systems have become sitting… | Karl Buhl | [Read More](https://medium.com/p/e6ce25173950) |
+| Wed, 08 Oct 2025 12:11:31 GMT | HacktheBox: Union Walkthrough | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/08f19e2b27d5) |
+| Wed, 08 Oct 2025 11:59:28 GMT | 7 Best AI Security Practices Every Business Needs in 2025 | SecureSlate | [Read More](https://medium.com/p/39e98402652a) |
+| Wed, 08 Oct 2025 11:53:55 GMT | Node.js Security — A Complete Guide to Protect Your Backend & Data | Mr Senior | [Read More](https://medium.com/p/84b19d483e76) |
 | Wed, 08 Oct 2025 11:25:01 GMT | How Co-Working Spaces are Using Smart Access Control for Better Security | Joven A Rodrigues | [Read More](https://medium.com/p/8e338e898e8c) |
 | Wed, 08 Oct 2025 11:24:48 GMT | Live from the Crime Scene: A Guide to the Linux Live Analysis Room | Furkanctiner | [Read More](https://medium.com/p/b6d2e076b4dc) |
 | Wed, 08 Oct 2025 11:17:59 GMT | Why Endpoint Management Is Becoming the Heart of Microsoft 365 Security | Ola Sonola | [Read More](https://medium.com/p/ed0e3b02bf07) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 08:18:02 GMT | Understanding Common Cybersecurity Frameworks | Cyber Security Research | [Read More](https://medium.com/p/a9f17fc220d0) |
 | Wed, 08 Oct 2025 08:11:48 GMT | The Impact of Cybersecurity on Business Reputation | Cyber Security Research | [Read More](https://medium.com/p/91fba245acab) |
 | Wed, 08 Oct 2025 08:06:11 GMT | The Importance of Cybersecurity Standards | Cyber Security Research | [Read More](https://medium.com/p/7ce5cbb7bcbd) |
-| Wed, 08 Oct 2025 08:02:05 GMT | [Part 8] The Dark Side: How Hackers Use AI to Outsmart Companies | Cyberkech | [Read More](https://medium.com/p/969d0823a6f1) |
-| Wed, 08 Oct 2025 08:01:45 GMT | Simple PHP Config Changes That Kill 80% of Security Risks | Asian Digital Hub | [Read More](https://medium.com/p/cc9fda64d8e4) |
-| Wed, 08 Oct 2025 08:00:02 GMT | The Role of Cybersecurity in National Security | Cyber Security Research | [Read More](https://medium.com/p/1a2ac07feabe) |
-| Wed, 08 Oct 2025 07:55:58 GMT | Data Breaches Demystified: How Hackers Exploit People, Rules, and Tools | RTB CYBERTECH | [Read More](https://medium.com/p/66832024ebc5) |
-| Wed, 08 Oct 2025 07:52:23 GMT | The Windows Forensics Journey — RDP Server Authentication Exception List | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6e0d6be7bac1) |
-| Wed, 08 Oct 2025 07:49:51 GMT | Post-Quantum Security: How Bervice Redefines Data Protection for the Quantum Era | Bervice | [Read More](https://medium.com/p/980af7e880e0) |
-| Wed, 08 Oct 2025 07:37:37 GMT | Understanding PKI, SSL/TLS Handshakes, and the Role of Certificates in Secure Communication | @Harsh | [Read More](https://medium.com/p/26d0bcf18788) |
-| Wed, 08 Oct 2025 07:37:34 GMT | What Is Multi-Cloud Security? Challenges and Best Practices | QualysecEurope | [Read More](https://medium.com/p/134375c00343) |
-| Wed, 08 Oct 2025 07:36:44 GMT | Securing the Software Development Lifecycle (SDLC) | Cyber Security Research | [Read More](https://medium.com/p/20e41edf5f76) |
-| Wed, 08 Oct 2025 07:27:16 GMT | The Daily Tech Digest: 08 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e9ac233bed13) |
-| Wed, 08 Oct 2025 07:27:10 GMT | How a QR Code Door Access System Makes Smart Entry | Nathaniel Langley | [Read More](https://medium.com/p/ef3da94d06bd) |
-| Wed, 08 Oct 2025 07:19:43 GMT | Ethical Hacking: How Network Penetration Testing Keeps You SafeNetwork Penetration Testing: The… | Qualysec | [Read More](https://medium.com/p/dc12ac76a76a) |
-| Wed, 08 Oct 2025 07:16:07 GMT | I Cleared eJPT: My First Offensive Security Certification (and What It Really Took) | Tauseef Ahmed | [Read More](https://medium.com/p/dc6d7873cf5c) |
-| Wed, 08 Oct 2025 07:11:47 GMT | Tektronix: The Ultimate Perimeter Shield for UAE Data Centers | Tekmuzammil | [Read More](https://medium.com/p/f6527198e24e) |
