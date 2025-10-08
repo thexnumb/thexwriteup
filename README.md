@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 07:27:10 GMT | How a QR Code Door Access System Makes Smart Entry | Nathaniel Langley | [Read More](https://medium.com/p/ef3da94d06bd) |
+| Wed, 08 Oct 2025 07:19:43 GMT | Ethical Hacking: How Network Penetration Testing Keeps You SafeNetwork Penetration Testing: The… | Qualysec | [Read More](https://medium.com/p/dc12ac76a76a) |
+| Wed, 08 Oct 2025 07:16:07 GMT | I Cleared eJPT: My First Offensive Security Certification (and What It Really Took) | Tauseef Ahmed | [Read More](https://medium.com/p/dc6d7873cf5c) |
 | Wed, 08 Oct 2025 07:11:47 GMT | Tektronix: The Ultimate Perimeter Shield for UAE Data Centers | Tekmuzammil | [Read More](https://medium.com/p/f6527198e24e) |
 | Wed, 08 Oct 2025 07:06:09 GMT | How ServiceNow HR Service Delivery Streamlines HR Workflows | Alex s | [Read More](https://medium.com/p/d8890858539b) |
 | Wed, 08 Oct 2025 07:04:08 GMT | «Σου έχει τύχει να λάβεις email… από τον ίδιο σου τον εαυτό; » | Angelos Perlegkas | [Read More](https://medium.com/p/acb3605fb17a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 23:19:02 GMT | Beyond the Second Factor: How MFA Is Failing the Human Mind | Travis Ray Caverhill | [Read More](https://medium.com/p/25ee0d16964f) |
 | Tue, 07 Oct 2025 23:18:05 GMT | The Browser That Thinks and Lies | Czarif | [Read More](https://medium.com/p/a64db73669d3) |
 | Tue, 07 Oct 2025 23:16:21 GMT | A Fear of Looking Stupid, Is. | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/17ef29912d60) |
-| Tue, 07 Oct 2025 23:13:36 GMT | Incident Snapshot Toolkit: Automating Evidence Capture for Small Ops | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3d709bd4d1ba) |
-| Tue, 07 Oct 2025 22:57:30 GMT | Obtaining session cookies via XSS (Netcat edition) | Ends2Tech | [Read More](https://medium.com/p/8e09f1ffc69d) |
-| Tue, 07 Oct 2025 22:47:01 GMT | “ Irish-Name-Repo “ Challenges | oussama | [Read More](https://medium.com/p/288413050956) |
