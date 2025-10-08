@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 22:15:10 GMT | AI HALLUCINATIONS ​⋆｡°✩ --- ⋆｡°✩ | Haven ✦ by the future | [Read More](https://medium.com/p/ce600062f89f) |
+| Wed, 08 Oct 2025 22:09:56 GMT | Social Engineering | John Odumesi | [Read More](https://medium.com/p/4f23a301336e) |
+| Wed, 08 Oct 2025 22:09:36 GMT | Intro to Network Analyst Walkthrough | Jose Diaz | [Read More](https://medium.com/p/7eec979cb581) |
+| Wed, 08 Oct 2025 22:05:29 GMT | The V1 Stack Gets You Started. It Won’t Get You to Scale. | Daniel Leeder | [Read More](https://medium.com/p/31702d53e7c9) |
+| Wed, 08 Oct 2025 22:05:11 GMT | That ‘Free Wi-Fi’ Sign Might Be the Most Expensive Thing in the Coffee Shop | Samirah A.O | [Read More](https://medium.com/p/88c98bc590a3) |
+| Wed, 08 Oct 2025 22:04:51 GMT | ways to claim Etherchain Ai presale token award | Etherchain | [Read More](https://medium.com/p/ee406f8dc1e3) |
+| Wed, 08 Oct 2025 22:03:03 GMT | Linux Host Environment Monitoring: Monitor Disk and CPU Temperatures — along with min/max and… | Truvis Thornton | [Read More](https://medium.com/p/c61c72543030) |
+| Wed, 08 Oct 2025 22:02:09 GMT | Guardians of the Code: The Double-Edged Sword of Generative AI in Password Security | DiUS | [Read More](https://medium.com/p/ece564064152) |
+| Wed, 08 Oct 2025 21:58:31 GMT | Advanced Auditd Advanced Usage Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/4dee91797eef) |
+| Wed, 08 Oct 2025 21:57:55 GMT | TryHackMe #106 - Benign | SiberYuk | [Read More](https://medium.com/p/1277089ebc56) |
+| Wed, 08 Oct 2025 21:51:52 GMT | TryHackMe #105 - Investigating with Splunk | SiberYuk | [Read More](https://medium.com/p/a402430b9721) |
+| Wed, 08 Oct 2025 21:49:31 GMT | Day 3 of my Cybersecurity Journey: Wrapping Up the Linux Fundamentals | Ogundipe Priscilla | [Read More](https://medium.com/p/f71f387e4346) |
+| Wed, 08 Oct 2025 21:48:11 GMT | TryHackMe #104 - Incident handling with Splunk | SiberYuk | [Read More](https://medium.com/p/9b6e849c095b) |
+| Wed, 08 Oct 2025 21:42:55 GMT | Why Most Grads Fail to Land a Job in Cybersecurity (And How to Fix It) | Yua Mikanana | [Read More](https://medium.com/p/9fcf967b6408) |
+| Wed, 08 Oct 2025 21:30:27 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/daaa4a0e752c) |
 | Wed, 08 Oct 2025 21:27:09 GMT | The Real Reason Most People Don’t Get Safer Online | The Online Safety Zone | [Read More](https://medium.com/p/a2b86385046a) |
 | Wed, 08 Oct 2025 21:24:16 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/7645f640ebd0) |
 | Wed, 08 Oct 2025 21:17:33 GMT | The Passback Secret | R. Eric Kiser | [Read More](https://medium.com/p/41e089c0f296) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 16:29:36 GMT | Agentic AI Is Here. Security Needs to Catch Up. | Jared Hudgins | [Read More](https://medium.com/p/8d04d22682ab) |
 | Wed, 08 Oct 2025 16:27:31 GMT | Proxy Pattern: The “Bouncer” That Makes Your Code Smarter, Safer, and Faster | Kawaldeep Singh | [Read More](https://medium.com/p/cfea4152448b) |
 | Wed, 08 Oct 2025 16:25:17 GMT | The 250-Day Risk Window: How an AI PDF Editor Vulnerability Demonstrates the Public Directory Blind… | Spektion | [Read More](https://medium.com/p/ec280b8a6865) |
-| Wed, 08 Oct 2025 16:23:49 GMT | Most Common Challenges and Myths about Software Composition Analysis | FactSet | [Read More](https://medium.com/p/b6b4521861c4) |
-| Wed, 08 Oct 2025 16:22:58 GMT | How to Check the Health of a Snowflake Account | Eylon Steiner | [Read More](https://medium.com/p/62554857ac1c) |
-| Wed, 08 Oct 2025 16:15:58 GMT | Gelişmiş Tehdit İstihbaratı Otomasyonu: MISP, STIX ve TAXII ile Akıllı Bir Pipeline Kurulumu | 0gxd14g | [Read More](https://medium.com/p/c17f3f44b4ba) |
-| Wed, 08 Oct 2025 16:10:41 GMT | 邪惡軸心人工低能 ｜The Axis of Evil’s Artificial Folly | Kaga Chung | [Read More](https://medium.com/p/bef89ab810d6) |
-| Wed, 08 Oct 2025 16:07:11 GMT | Microsoft Warns: Critical GoAnywhere Bug Actively Exploited in Medusa Ransomware Campaign | Technijian | [Read More](https://medium.com/p/0befaa250b51) |
-| Wed, 08 Oct 2025 16:00:07 GMT | Wow a deep link? Let’s hijack it to ATO | CANITEY | [Read More](https://medium.com/p/c742838c9d78) |
-| Wed, 08 Oct 2025 15:59:53 GMT | The Future of Cybersecurity: Building Beyond Quantum Threats | Aliciasierra | [Read More](https://medium.com/p/466c95b78094) |
-| Wed, 08 Oct 2025 15:59:41 GMT | Top tools every SOC Analyst should know | Sharan Nagaraj Kumar | [Read More](https://medium.com/p/8da1979cde3a) |
-| Wed, 08 Oct 2025 15:59:26 GMT | Reading People Like Code: The Hacker’s Art of Understanding Without Words | Vijay Kumar Gupta | [Read More](https://medium.com/p/a6b64cb9ebbd) |
-| Wed, 08 Oct 2025 15:53:33 GMT | The Blueprint for Security ROI: What the Red Team’s Final Report Really Tells Business Leaders | IT_Engineer | [Read More](https://medium.com/p/36d3e4850a53) |
-| Wed, 08 Oct 2025 15:51:53 GMT | Popular Chrome VPN Caught Secretly Screenshotting Users’ Browsing Sessions | Fortress Protocol | [Read More](https://medium.com/p/a46b3db1d89c) |
-| Wed, 08 Oct 2025 15:49:46 GMT | Security Misconfiguration: The Hidden Risk in Web Applications | CyberSenpai | [Read More](https://medium.com/p/d5d235812dc4) |
-| Wed, 08 Oct 2025 15:45:09 GMT | The Ransomware Scare | Danielle Koppel | [Read More](https://medium.com/p/2180a1bc96f8) |
-| Wed, 08 Oct 2025 15:44:32 GMT | The Impact of Cybersecurity on Finance | Cyber Security Research | [Read More](https://medium.com/p/30b9ef643966) |
-| Wed, 08 Oct 2025 15:39:52 GMT | The Unbearable Beauty of the Open Heart: I. The Logic of the Wall | Soren Ash | [Read More](https://medium.com/p/e2e5b25bf2ad) |
