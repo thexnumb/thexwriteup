@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 11:25:01 GMT | How Co-Working Spaces are Using Smart Access Control for Better Security | Joven A Rodrigues | [Read More](https://medium.com/p/8e338e898e8c) |
+| Wed, 08 Oct 2025 11:24:48 GMT | Live from the Crime Scene: A Guide to the Linux Live Analysis Room | Furkanctiner | [Read More](https://medium.com/p/b6d2e076b4dc) |
+| Wed, 08 Oct 2025 11:17:59 GMT | Why Endpoint Management Is Becoming the Heart of Microsoft 365 Security | Ola Sonola | [Read More](https://medium.com/p/ed0e3b02bf07) |
+| Wed, 08 Oct 2025 11:17:33 GMT | The Next Great Power Struggle Isn’t Between Nations | Mia Balan | [Read More](https://medium.com/p/c8bf0e38d9dd) |
+| Wed, 08 Oct 2025 11:17:12 GMT | How I Integrated Snyk Into AI-Driven Development at Clermont Digital | DeveloperSteve | [Read More](https://medium.com/p/59a26b51b858) |
+| Wed, 08 Oct 2025 11:13:54 GMT | What are the three types of security systems? | cyber security Updates | [Read More](https://medium.com/p/183bc8ddb593) |
 | Wed, 08 Oct 2025 11:10:23 GMT | Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII (and a $600 Bounty) | toast | [Read More](https://medium.com/p/0ca17ed328c9) |
 | Wed, 08 Oct 2025 11:06:45 GMT | exp.gs-cdn.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/ed3d4b9bb80e) |
 | Wed, 08 Oct 2025 11:05:01 GMT | Is eth-cryp.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/86cb7fee7b50) |
@@ -19,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 11:02:34 GMT | Realancer: Empowering Freelancers with Freedom and Fairness | Zeeshan Ali Shah | [Read More](https://medium.com/p/5a1929b47015) |
 | Wed, 08 Oct 2025 11:02:08 GMT | Redis RCE CVE-2025–49844: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/f3749a259e02) |
 | Wed, 08 Oct 2025 11:01:51 GMT | Building My Hybrid Security Lab (Part 1): From On-Prem to Defender XDR | Florence Nwizugbe | [Read More](https://medium.com/p/6113c22326d1) |
+| Wed, 08 Oct 2025 11:00:23 GMT | When The Story In Your Head Shows Up In Your Body | Karen Bromberg | [Read More](https://medium.com/p/148adfd9a4f2) |
 | Wed, 08 Oct 2025 11:00:17 GMT | Can You Trust cbotbit.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/ede60ff47e98) |
 | Wed, 08 Oct 2025 10:56:56 GMT | crypto-rd.top Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/371c2789c81b) |
 | Wed, 08 Oct 2025 10:56:51 GMT | The Role of SOC 2 Certification in Building Customer Trust | Tech Writer | [Read More](https://medium.com/p/6e153e617d3c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 07:19:43 GMT | Ethical Hacking: How Network Penetration Testing Keeps You SafeNetwork Penetration Testing: The… | Qualysec | [Read More](https://medium.com/p/dc12ac76a76a) |
 | Wed, 08 Oct 2025 07:16:07 GMT | I Cleared eJPT: My First Offensive Security Certification (and What It Really Took) | Tauseef Ahmed | [Read More](https://medium.com/p/dc6d7873cf5c) |
 | Wed, 08 Oct 2025 07:11:47 GMT | Tektronix: The Ultimate Perimeter Shield for UAE Data Centers | Tekmuzammil | [Read More](https://medium.com/p/f6527198e24e) |
-| Wed, 08 Oct 2025 07:06:09 GMT | How ServiceNow HR Service Delivery Streamlines HR Workflows | Alex s | [Read More](https://medium.com/p/d8890858539b) |
-| Wed, 08 Oct 2025 07:04:08 GMT | «Σου έχει τύχει να λάβεις email… από τον ίδιο σου τον εαυτό; » | Angelos Perlegkas | [Read More](https://medium.com/p/acb3605fb17a) |
-| Wed, 08 Oct 2025 06:56:58 GMT | Real Life SOC Analyst Scenario : How i Detected and Escalated a Suspicious Login Attempt ( L1 Case… | Gajanan Kesgire | [Read More](https://medium.com/p/022904f18cad) |
-| Wed, 08 Oct 2025 06:55:37 GMT | ประจำวันพุธที่ 8 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf9d0b3d0c82) |
-| Wed, 08 Oct 2025 06:51:21 GMT | Take your career to new heights with our industry-driven training programs designed for aspiring… | TheEvolvEdge | [Read More](https://medium.com/p/56636523909d) |
-| Wed, 08 Oct 2025 06:44:06 GMT | Samsung Latest Phone Release Date 2025: What to Expect Next | Pimrada Thavorn | [Read More](https://medium.com/p/ab0ec6680c79) |
-| Wed, 08 Oct 2025 06:40:59 GMT | What is Cybersecurity? – CIA Triad | Adeleke Theophilus O | [Read More](https://medium.com/p/45d72a6cacf4) |
