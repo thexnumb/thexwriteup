@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 07:11:47 GMT | Tektronix: The Ultimate Perimeter Shield for UAE Data Centers | Tekmuzammil | [Read More](https://medium.com/p/f6527198e24e) |
+| Wed, 08 Oct 2025 07:06:09 GMT | How ServiceNow HR Service Delivery Streamlines HR Workflows | Alex s | [Read More](https://medium.com/p/d8890858539b) |
+| Wed, 08 Oct 2025 07:04:08 GMT | «Σου έχει τύχει να λάβεις email… από τον ίδιο σου τον εαυτό; » | Angelos Perlegkas | [Read More](https://medium.com/p/acb3605fb17a) |
+| Wed, 08 Oct 2025 06:56:58 GMT | Real Life SOC Analyst Scenario : How i Detected and Escalated a Suspicious Login Attempt ( L1 Case… | Gajanan Kesgire | [Read More](https://medium.com/p/022904f18cad) |
+| Wed, 08 Oct 2025 06:55:37 GMT | ประจำวันพุธที่ 8 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf9d0b3d0c82) |
+| Wed, 08 Oct 2025 06:51:21 GMT | Take your career to new heights with our industry-driven training programs designed for aspiring… | TheEvolvEdge | [Read More](https://medium.com/p/56636523909d) |
+| Wed, 08 Oct 2025 06:44:06 GMT | Samsung Latest Phone Release Date 2025: What to Expect Next | Pimrada Thavorn | [Read More](https://medium.com/p/ab0ec6680c79) |
+| Wed, 08 Oct 2025 06:40:59 GMT | What is Cybersecurity? – CIA Triad | Adeleke Theophilus O | [Read More](https://medium.com/p/45d72a6cacf4) |
+| Wed, 08 Oct 2025 06:38:21 GMT | Samsung Latest PhoneSamsung Latest Phone 2025: Must-Know Specs and Innovations | Zara Everly | [Read More](https://medium.com/p/5b6e732c31da) |
+| Wed, 08 Oct 2025 06:38:07 GMT | SPARK Matrix™: Evaluating Leading Risk-Based Authentication Vendors for 2025 | Shamita Patel | [Read More](https://medium.com/p/9a95e129cafb) |
+| Wed, 08 Oct 2025 06:26:47 GMT | CodeMender, the AI That Rewrites Code: Why Software Security Is Entering a New Phase | Germano Costi | [Read More](https://medium.com/p/c0e28543052a) |
 | Wed, 08 Oct 2025 06:24:12 GMT | The Future of Mobile: Insights from the Top Flutter App Development Company UAE | Five Programmers | [Read More](https://medium.com/p/4bc04e33bf7e) |
 | Wed, 08 Oct 2025 06:22:04 GMT | How to Find Security Bugs in 10 Minutes — A Beginner’s Guide | Abuzersajid | [Read More](https://medium.com/p/2b285bedf9f8) |
 | Wed, 08 Oct 2025 06:17:31 GMT | Advanced Log Management Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/7d02d9684387) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 23:13:36 GMT | Incident Snapshot Toolkit: Automating Evidence Capture for Small Ops | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3d709bd4d1ba) |
 | Tue, 07 Oct 2025 22:57:30 GMT | Obtaining session cookies via XSS (Netcat edition) | Ends2Tech | [Read More](https://medium.com/p/8e09f1ffc69d) |
 | Tue, 07 Oct 2025 22:47:01 GMT | “ Irish-Name-Repo “ Challenges | oussama | [Read More](https://medium.com/p/288413050956) |
-| Tue, 07 Oct 2025 22:46:25 GMT | Late-Night Journaling: A Review of My Most Honest Conversations | Darpan Murly | [Read More](https://medium.com/p/733d3eda7509) |
-| Tue, 07 Oct 2025 22:43:33 GMT | SOC251 — Operation Quishing Raid: When QR Codes Attack | Andrew Williams | [Read More](https://medium.com/p/47f1aa091dc0) |
-| Tue, 07 Oct 2025 22:38:05 GMT | The Future Unfolds: 2026 Predictions for the IT Sector | Tech With Curly Girl | [Read More](https://medium.com/p/de18cac48e94) |
-| Tue, 07 Oct 2025 22:36:06 GMT | Vulnerability Data Enrichment for CVE Records: 252 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/db09abac48ac) |
-| Tue, 07 Oct 2025 22:22:42 GMT | Data Privacy | John Odumesi | [Read More](https://medium.com/p/14b727791d55) |
-| Tue, 07 Oct 2025 22:16:08 GMT | GDPR Compliance Checklist for Next.js Apps | Kidaneg | [Read More](https://medium.com/p/801c9ea75780) |
-| Tue, 07 Oct 2025 22:13:04 GMT | Domain Capture: The Case for Apple Business Manager in Every Business | Drew Smith | [Read More](https://medium.com/p/c56694018243) |
-| Tue, 07 Oct 2025 22:12:21 GMT | Why spend the time and effort to break into a data center when you can just unplug it from the… | Paul M Jankowski | [Read More](https://medium.com/p/2f8c02928f97) |
-| Tue, 07 Oct 2025 22:10:04 GMT | My story about debit card theft | Wesley Eledui | [Read More](https://medium.com/p/dea8668dcc22) |
-| Tue, 07 Oct 2025 22:08:47 GMT | The Future of AI and Security Forces in Data Centers: Building the Digital Fort Knox | Paul M Jankowski | [Read More](https://medium.com/p/6ce5c33f0498) |
-| Tue, 07 Oct 2025 22:06:29 GMT | Mastering Authentication with Advanced NextAuth.js Techniques | @rnab | [Read More](https://medium.com/p/9b614d6b87fe) |
