@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 19:31:55 GMT | “The Machine That Sounds Like My Colleague: Reflections of an IT Technician on AI, Trust, and the… | Visionstudios | [Read More](https://medium.com/p/1f649ffab734) |
+| Wed, 08 Oct 2025 19:27:18 GMT | The New Age of Romance Scams: How to Avoid Becoming a Victim in 2025 | Internet Exposed | [Read More](https://medium.com/p/463d1d82c4bd) |
+| Wed, 08 Oct 2025 19:21:54 GMT | SSRF’s: A Gateway Drug To Other Vulnerabilities | Jen Cracchiola | [Read More](https://medium.com/p/096fdc7b8d6e) |
+| Wed, 08 Oct 2025 19:15:39 GMT | Cloud App Monitoring: Ensuring Performance, Security, and Reliability in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/ef7d058e7da4) |
 | Wed, 08 Oct 2025 19:14:04 GMT | Recovering Deleted Files on Windows with PhotoRec (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/e130965d7884) |
 | Wed, 08 Oct 2025 19:01:10 GMT | SOC 2 Type I vs Type II: Understanding the Difference and Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/ee18de6590c2) |
 | Wed, 08 Oct 2025 18:59:54 GMT | Post-Mortem: BetterBank $5M Exploit (August 2025) | Olympix | [Read More](https://medium.com/p/1e8657209842) |
 | Wed, 08 Oct 2025 18:56:39 GMT | Can’t Upgrade to Windows 11? How to Keep Your PC Safe and Usable | Isaac Muendo | [Read More](https://medium.com/p/6d61d2d9d65a) |
+| Wed, 08 Oct 2025 18:55:47 GMT | Do WhatsApp ao VBS: automação, exfiltração e C2 por e-mail | dathanNobrega | [Read More](https://medium.com/p/3731d0cc1b02) |
 | Wed, 08 Oct 2025 18:55:25 GMT | Third-Party Weakness Triggers Data Breach Impacting Discord Users | RealSec.io | [Read More](https://medium.com/p/b05deb7a9afc) |
 | Wed, 08 Oct 2025 18:54:35 GMT | Hard Truths & Actionable Insights From NCBA Insurance’s CyberGuard Launch Event Discussion Panel | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/0a00b8e017de) |
 | Wed, 08 Oct 2025 18:53:41 GMT | Telegram Posts OSINT via Dorking | Abhirup Konwar | [Read More](https://medium.com/p/114df64f30c4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 14:08:01 GMT | The Blackmail: What To Do If Someone Threatens You | Dr. Pamela Ramirez, PsyD, MD | [Read More](https://medium.com/p/40b520a06e60) |
 | Wed, 08 Oct 2025 14:05:14 GMT | The HIMARS Fire Control Hack — Ukrainian Engineers Override Pentagon Restrictions | The Forensic Archive | [Read More](https://medium.com/p/5655a87e88f7) |
 | Wed, 08 Oct 2025 14:02:06 GMT | Cyber Briefing: 2025.10.08 | CyberMaterial | [Read More](https://medium.com/p/40575c86a6d6) |
-| Wed, 08 Oct 2025 14:02:06 GMT | Part 9: Google Hacking Database Explained: Dorking Your Way to Smarter osint | Intelithics | [Read More](https://medium.com/p/5f31a862fd65) |
-| Wed, 08 Oct 2025 13:57:36 GMT | We Are the Champions: Building a Cybersecurity Culture that Lasts | Thomas Carter | [Read More](https://medium.com/p/b6f2d6f72236) |
-| Wed, 08 Oct 2025 13:57:17 GMT | Stories Hackers Don’t Tell: The Books Behind Their Success | Shahzaib | [Read More](https://medium.com/p/ee94557f7303) |
-| Wed, 08 Oct 2025 13:55:01 GMT | Cybersecurity for Dummies: Your First Steps into the Digital Fortress | Samina Perveen | [Read More](https://medium.com/p/fcaf0ff749d6) |
-| Wed, 08 Oct 2025 13:41:12 GMT | Hackviser CWSE Certificate: Cyber Vault Walktrought | kiknazde | [Read More](https://medium.com/p/5e9dbf3e2aa6) |
