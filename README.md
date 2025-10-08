@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 21:01:43 GMT | A Business Masterclass for the Modern Tech Leader | Tim Murkomen | [Read More](https://medium.com/p/0ffbe802df5b) |
+| Wed, 08 Oct 2025 21:00:36 GMT | The Impact of Cybersecurity on Retail | Cyber Security Research | [Read More](https://medium.com/p/41d64754dc6c) |
+| Wed, 08 Oct 2025 20:57:05 GMT | Data Privacy and Governance in Offensive Security: Pentesting & Red-Teaming in the AI Age | Juan Pablo Castro | [Read More](https://medium.com/p/f0a46514b353) |
+| Wed, 08 Oct 2025 20:54:09 GMT | The Role of Cybersecurity in Energy | Cyber Security Research | [Read More](https://medium.com/p/e32f7a18156f) |
+| Wed, 08 Oct 2025 20:52:32 GMT | My Beginner’s Analysis in Cybersecurity: Understanding SMS Phishing from Scratch (Bilingual: Arabic… | DARC.blog | [Read More](https://medium.com/p/290c7aaee12f) |
+| Wed, 08 Oct 2025 20:48:25 GMT | The First Malicious MCP Server is a Warning Shot for AI Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/0d55cad4ab6a) |
+| Wed, 08 Oct 2025 20:48:13 GMT | Simpson’s Paradox in Cybersecurity: Why Your New Security Tool May Be Less Effective Than the One… | Patrick Lefler | [Read More](https://medium.com/p/fc7b01ebc564) |
+| Wed, 08 Oct 2025 20:46:42 GMT | How do you get your dev team to shift left by themselves for real? | Johan Sydseter | [Read More](https://medium.com/p/8a5667336c3b) |
+| Wed, 08 Oct 2025 20:43:36 GMT | Analyzing a Malicious PCAP with Wireshark — step-by-step case study | Nabyl OUCHINE | [Read More](https://medium.com/p/17e7be6484c3) |
+| Wed, 08 Oct 2025 20:41:19 GMT | Hiring a Hacker in 2025: Navigating Risks and Technical Realities | SinVictus | [Read More](https://medium.com/p/5d2312a54086) |
+| Wed, 08 Oct 2025 20:38:08 GMT | Hunting Supply Chain Implants | Deniz Topaloglu | [Read More](https://medium.com/p/a75814fe2129) |
+| Wed, 08 Oct 2025 20:36:32 GMT | Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases | Faav | [Read More](https://medium.com/p/74a301364e76) |
+| Wed, 08 Oct 2025 20:35:59 GMT | How AI is Transforming Cybersecurity: Insights from Google’s Heather Adkins | Biplove Yadav | [Read More](https://medium.com/p/e274a4464a7b) |
+| Wed, 08 Oct 2025 20:32:59 GMT | The Essential Role of Firewalls in Network Security | Ed-it Editions | [Read More](https://medium.com/p/d67df32ab716) |
 | Wed, 08 Oct 2025 20:18:49 GMT | The Impact of Cybersecurity on Manufacturing | Cyber Security Research | [Read More](https://medium.com/p/253d5ae863d0) |
 | Wed, 08 Oct 2025 20:07:40 GMT | CosmicStrand: The Malware That Made Me Question Everything I Learned About Computer Security | Nishant Harkut | [Read More](https://medium.com/p/3bea1f477cba) |
 | Wed, 08 Oct 2025 20:03:20 GMT | The Role of Cybersecurity in Education | Cyber Security Research | [Read More](https://medium.com/p/67fd46bdf933) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 15:37:33 GMT | Trick or Treat? Don’t Let Phishing Trick You! | Danielle Koppel | [Read More](https://medium.com/p/de862e08d88d) |
 | Wed, 08 Oct 2025 15:37:04 GMT | Beware: Scammers Have Gone Smishing | Danielle Koppel | [Read More](https://medium.com/p/8e039e32458d) |
 | Wed, 08 Oct 2025 15:31:53 GMT | Can’t Add Outlook to Apple Mail? You’re Not Alone | Chaos Engineer | [Read More](https://medium.com/p/14b155289c33) |
-| Wed, 08 Oct 2025 15:23:43 GMT | Turning Dependency Confusion Research into a Profitable Stack | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/d2f39fe216bf) |
-| Wed, 08 Oct 2025 15:22:23 GMT | Do local ao real: validando o SSL Pinning do seu app Flutter com Let’s Encrypt | Fabio Pereira | [Read More](https://medium.com/p/a8c204acc2d7) |
-| Wed, 08 Oct 2025 15:18:35 GMT | 9-Figure Media Reveals the Branding Hacks That Make Startups Unforgettable | Maxwell JAMES | [Read More](https://medium.com/p/25c75f5f33db) |
-| Wed, 08 Oct 2025 15:18:33 GMT | Data Safety Awareness Series: Post 6 | Juned Silavat | [Read More](https://medium.com/p/f4fe7e1f6b64) |
-| Wed, 08 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 8, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/79dfd7464a29) |
-| Wed, 08 Oct 2025 15:14:08 GMT | Leading with Empathy: The Courage to Be Powerfully Vulnerable | Michael David MOrales | [Read More](https://medium.com/p/182e12ccaded) |
-| Wed, 08 Oct 2025 14:46:25 GMT | Increasing cyber crime | Anupam Jaiswal | [Read More](https://medium.com/p/691ff32d76fa) |
-| Wed, 08 Oct 2025 14:41:30 GMT | “The Two “Useless” Bugs That Keep Paying My Internet Bill” | Aman Sharma | [Read More](https://medium.com/p/23db3ffc2219) |
-| Wed, 08 Oct 2025 14:38:14 GMT | The Hidden Risks in Your LinkedIn Photos: An OSINT Perspective | Joe The OSINT Guy | [Read More](https://medium.com/p/bc9118589f9f) |
-| Wed, 08 Oct 2025 14:34:57 GMT | Are AI Agents the Ultimate Confused Deputy? How AI Agents' Capabilities Are Being Abused | Mohamed AboElKheir | [Read More](https://medium.com/p/64444e002316) |
-| Wed, 08 Oct 2025 14:32:27 GMT | AI: Your Robot Sidekick — Now Fetching Coffee and Brainstorming Brilliant Ideas | Jen Cracchiola | [Read More](https://medium.com/p/b270d731952f) |
-| Wed, 08 Oct 2025 14:29:20 GMT | Print Your Own Cybersecurity Card Game: A Guide to DXC ThreatDeck | Sarat Chandra Motamarri | [Read More](https://medium.com/p/443b1809ea7f) |
-| Wed, 08 Oct 2025 14:28:12 GMT | TryHackMe Writeup: Blueprint | Berkay AĞGÜL | [Read More](https://medium.com/p/78953034898c) |
-| Wed, 08 Oct 2025 14:27:48 GMT | Unmasking the Algorithmic Insider: A Convergence of Agentic Misalignment and Cognitive Threat… | Berend Watchus | [Read More](https://medium.com/p/944d261f67a4) |
