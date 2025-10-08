@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 06:24:12 GMT | The Future of Mobile: Insights from the Top Flutter App Development Company UAE | Five Programmers | [Read More](https://medium.com/p/4bc04e33bf7e) |
+| Wed, 08 Oct 2025 06:22:04 GMT | How to Find Security Bugs in 10 Minutes — A Beginner’s Guide | Abuzersajid | [Read More](https://medium.com/p/2b285bedf9f8) |
+| Wed, 08 Oct 2025 06:17:31 GMT | Advanced Log Management Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/7d02d9684387) |
+| Wed, 08 Oct 2025 06:10:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/3d08c312bf4b) |
+| Wed, 08 Oct 2025 06:09:51 GMT | Top 10 Vulnerabilities Exploited by Hackers | Manisha Chaudhary | [Read More](https://medium.com/p/b3361048a340) |
+| Wed, 08 Oct 2025 06:03:58 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/b4bacb9477e5) |
+| Wed, 08 Oct 2025 06:02:08 GMT | The Truth About Building a Business as a Trauma Survivor: Why Going Slow Is Your Superpower | Cyndi Bennett | [Read More](https://medium.com/p/c8904024dd39) |
+| Wed, 08 Oct 2025 06:02:07 GMT | Governed RAG on Warehouses — Row/Column Security, Masking, and Lineage-Aware Retrieval | Sai Kumar Devulapelli | [Read More](https://medium.com/p/410349d3751c) |
+| Wed, 08 Oct 2025 06:01:56 GMT | 11 Python Libraries That Make Cybersecurity Feel Effortless | Dustdusky | [Read More](https://medium.com/p/85b416f39322) |
+| Wed, 08 Oct 2025 05:58:12 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/e5fe1daa9e0c) |
+| Wed, 08 Oct 2025 05:52:30 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/18ca57893d55) |
+| Wed, 08 Oct 2025 05:52:28 GMT | Part 6 : Static Analysis for Configuration and Application Code: Tools and Best Practices | Dean | [Read More](https://medium.com/p/050d58d8bd1d) |
+| Wed, 08 Oct 2025 05:49:13 GMT | From a Rural Village to Cybersecurity — My Journey from Biotechnology to Ethical Hacking | Abuzersajid | [Read More](https://medium.com/p/47a4b284badf) |
+| Wed, 08 Oct 2025 05:49:03 GMT | MCP Security : Comprehensive Takeaways on from Akto 2025 (Part-1) | Yash Virendra Prajapati | [Read More](https://medium.com/p/cbd389ab82fe) |
+| Wed, 08 Oct 2025 05:42:11 GMT | What is GAN and relevance in Cybersecurity? | Akanksha | [Read More](https://medium.com/p/1c01f4cb1ebb) |
+| Wed, 08 Oct 2025 05:39:22 GMT | The Challenges of Global Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/28ecdda1c9e1) |
 | Wed, 08 Oct 2025 05:38:24 GMT | Day 66- Understanding the basics of Reverse Engineering for beginners | unica 02 | [Read More](https://medium.com/p/7abcba8a149c) |
 | Wed, 08 Oct 2025 05:38:05 GMT | 7 AI Defense Secrets : How Multi-Agent Systems Halt The Most Advanced Digital Threats | Shailendra Kumar | [Read More](https://medium.com/p/ad9235b62592) |
+| Wed, 08 Oct 2025 05:34:09 GMT | Pen Injectors Market Analysis and Opportunities by 2034 | Prajval Jadhav | [Read More](https://medium.com/p/5890a33024bb) |
+| Wed, 08 Oct 2025 05:33:45 GMT | Machine Learning for Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/7fb55778f3a6) |
 | Wed, 08 Oct 2025 05:28:04 GMT | The Importance of Data Privacy | Cyber Security Research | [Read More](https://medium.com/p/42a214a1015f) |
 | Wed, 08 Oct 2025 05:23:01 GMT | How I Found a $1,000 IDOR Bug Using Burp Suite ? | DevProgramming | [Read More](https://medium.com/p/dfb2b11d933e) |
 | Wed, 08 Oct 2025 05:23:01 GMT | The Evolution of Security Policies | Cyber Security Research | [Read More](https://medium.com/p/037b1adc4a7f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 22:10:04 GMT | My story about debit card theft | Wesley Eledui | [Read More](https://medium.com/p/dea8668dcc22) |
 | Tue, 07 Oct 2025 22:08:47 GMT | The Future of AI and Security Forces in Data Centers: Building the Digital Fort Knox | Paul M Jankowski | [Read More](https://medium.com/p/6ce5c33f0498) |
 | Tue, 07 Oct 2025 22:06:29 GMT | Mastering Authentication with Advanced NextAuth.js Techniques | @rnab | [Read More](https://medium.com/p/9b614d6b87fe) |
-| Tue, 07 Oct 2025 21:54:45 GMT | Po diabła mi ta ‘komunikacja’ w IT?!” | Dariusz Wardega | [Read More](https://medium.com/p/b5d806075013) |
-| Tue, 07 Oct 2025 21:52:46 GMT | Strengthening Modern Businesses with Comprehensive Security Solutions | Fortnexs Shield | [Read More](https://medium.com/p/0e8eb69de584) |
-| Tue, 07 Oct 2025 21:49:21 GMT | Nothing to Something: My First Homelab Journey | Jarrielle Gathers | [Read More](https://medium.com/p/ca34942f8acd) |
-| Tue, 07 Oct 2025 21:48:48 GMT | Part 9: From backyard to battlefield, Software & Autonomy. | Pipeline | [Read More](https://medium.com/p/9e62b12a35ce) |
-| Tue, 07 Oct 2025 21:46:51 GMT | Title: "The New Geopolitics of Innovation: When Vision Becomes Power" | Abdoul Sadam Idrissou | [Read More](https://medium.com/p/d03c853c6319) |
-| Tue, 07 Oct 2025 21:44:16 GMT | Before You Buy That AI Security Solution… Ask These 5 Hard Questions | Cyber-AppSec | [Read More](https://medium.com/p/b827e6fc3f36) |
-| Tue, 07 Oct 2025 21:39:17 GMT | How to Report a Vulnerability When the Company Has No Responsible Disclosure Policy | 1day | [Read More](https://medium.com/p/9c729e56d328) |
-| Tue, 07 Oct 2025 21:33:45 GMT | Abuser Stories: Shipping More Secure Apps Without Full Threat Modeling | y33tz | [Read More](https://medium.com/p/76ab1a43ea2a) |
-| Tue, 07 Oct 2025 21:32:32 GMT | What Is an LLM Pentest and Why You Need One | QueryLock | [Read More](https://medium.com/p/52f254a0bb39) |
-| Tue, 07 Oct 2025 21:31:26 GMT | Top 10 Cybersecurity Mistakes Everyone Makes Without Knowing | Kakashi | [Read More](https://medium.com/p/8198652c3329) |
-| Tue, 07 Oct 2025 21:21:39 GMT | The Future of AI Cybersecurity: 7 Trends Shaping the Next Digital Battlefield | Roger Millar | [Read More](https://medium.com/p/235294134c81) |
-| Tue, 07 Oct 2025 21:20:54 GMT | English Is Full of Bugs | acweaver | [Read More](https://medium.com/p/a80b290d13c4) |
-| Tue, 07 Oct 2025 21:20:40 GMT | A Porta Operacional na Gestão de TI. Alicerce ou armadilha silenciosa? | Anderson Oliveira | [Read More](https://medium.com/p/9865c4ef26ff) |
-| Tue, 07 Oct 2025 21:02:34 GMT | A clickfix that turned into persistent NetSupport access | TheFIR.io | [Read More](https://medium.com/p/663e621ac71b) |
-| Tue, 07 Oct 2025 20:57:52 GMT | Remote CCTV Access Setup Guide | Visual Monitoring Solutions | [Read More](https://medium.com/p/2f31702cc6e8) |
-| Tue, 07 Oct 2025 20:55:29 GMT | Oracle E-Business Suite Zero-Day Exploited in Clop Data Theft Attacks: CVE-2025–61882 | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/73bff4e92545) |
-| Tue, 07 Oct 2025 20:47:59 GMT | AI-Powered Cyber Threats and Defenses: The Deep Frame Exposé | The Deep Frame | [Read More](https://medium.com/p/3e81ce68858e) |
-| Tue, 07 Oct 2025 20:47:19 GMT | Blackfield HTB — Walkthrough | Nathanael de Simon | [Read More](https://medium.com/p/e7f6e781b96d) |
