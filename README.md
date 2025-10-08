@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 05:38:24 GMT | Day 66- Understanding the basics of Reverse Engineering for beginners | unica 02 | [Read More](https://medium.com/p/7abcba8a149c) |
+| Wed, 08 Oct 2025 05:38:05 GMT | 7 AI Defense Secrets : How Multi-Agent Systems Halt The Most Advanced Digital Threats | Shailendra Kumar | [Read More](https://medium.com/p/ad9235b62592) |
+| Wed, 08 Oct 2025 05:28:04 GMT | The Importance of Data Privacy | Cyber Security Research | [Read More](https://medium.com/p/42a214a1015f) |
+| Wed, 08 Oct 2025 05:23:01 GMT | How I Found a $1,000 IDOR Bug Using Burp Suite ? | DevProgramming | [Read More](https://medium.com/p/dfb2b11d933e) |
+| Wed, 08 Oct 2025 05:23:01 GMT | The Evolution of Security Policies | Cyber Security Research | [Read More](https://medium.com/p/037b1adc4a7f) |
+| Wed, 08 Oct 2025 05:18:50 GMT | Top Privacy Management Software for 2025 | Gauri Kale | [Read More](https://medium.com/p/14e76814e079) |
 | Wed, 08 Oct 2025 05:18:47 GMT | The Hidden Network Mistake That Hackers Love | Ask IT Support | [Read More](https://medium.com/p/97bcf7e5004d) |
+| Wed, 08 Oct 2025 05:17:03 GMT | The Human Element in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/8f717e53e2fb) |
+| Wed, 08 Oct 2025 05:15:13 GMT | TryHackMe: Agent Sudo Writeup | cbev | [Read More](https://medium.com/p/29d93f005095) |
 | Wed, 08 Oct 2025 05:08:06 GMT | The BGP Vulnerability That Lets Countries Hijack Internet Traffic | Sohail x Codes | [Read More](https://medium.com/p/0802611d74b9) |
 | Wed, 08 Oct 2025 05:01:47 GMT | The Five Digital Skills That Will Outlive AI Itself | JetkingChandigarh | [Read More](https://medium.com/p/5d5a75db7ba1) |
 | Wed, 08 Oct 2025 05:00:12 GMT | Next in AI: Issue #9 | Sam Ghosh | [Read More](https://medium.com/p/1161075e6002) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Oct 2025 20:55:29 GMT | Oracle E-Business Suite Zero-Day Exploited in Clop Data Theft Attacks: CVE-2025–61882 | Sai Prashanth Pulisetti | [Read More](https://medium.com/p/73bff4e92545) |
 | Tue, 07 Oct 2025 20:47:59 GMT | AI-Powered Cyber Threats and Defenses: The Deep Frame Exposé | The Deep Frame | [Read More](https://medium.com/p/3e81ce68858e) |
 | Tue, 07 Oct 2025 20:47:19 GMT | Blackfield HTB — Walkthrough | Nathanael de Simon | [Read More](https://medium.com/p/e7f6e781b96d) |
-| Tue, 07 Oct 2025 20:39:23 GMT | Smart Devices and Security: Why NIST Compliance Matters for Your Home Tech | Redkite Network | [Read More](https://medium.com/p/aa2b268aa394) |
-| Tue, 07 Oct 2025 20:38:48 GMT | Exploiting Cross-Site Scripting (XSS) Vulnerabilities to Obtain Valid Session Identifiers | Ends2Tech | [Read More](https://medium.com/p/4ed30e3cf773) |
-| Tue, 07 Oct 2025 20:32:34 GMT | Siber Güvenliğe Giriş | Muhammed Salih Acar | [Read More](https://medium.com/p/62adb7d9cadd) |
-| Tue, 07 Oct 2025 20:24:22 GMT | How to Fix Packet Loss: Causes, Solutions, and Prevention Tips | SafeAeon Inc. | [Read More](https://medium.com/p/b0a7a1e8a588) |
-| Tue, 07 Oct 2025 20:23:44 GMT | Security and Performance Aspects of TCP/IP Stack Tuning | Eren Cankut Uysal | [Read More](https://medium.com/p/e6fc26ba9e63) |
-| Tue, 07 Oct 2025 20:16:37 GMT | Day 2 of my Cybersecurity Journey: Learning Linux Fundamentals | Ogundipe Priscilla | [Read More](https://medium.com/p/a3d64ab59a73) |
-| Tue, 07 Oct 2025 20:16:28 GMT | Container Security for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/8e78d04012bd) |
-| Tue, 07 Oct 2025 20:16:02 GMT | Web3 Security: Protect Yourself in This New Age Market | Itachi | [Read More](https://medium.com/p/e29230772ba3) |
