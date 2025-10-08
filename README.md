@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 19:14:04 GMT | Recovering Deleted Files on Windows with PhotoRec (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/e130965d7884) |
+| Wed, 08 Oct 2025 19:01:10 GMT | SOC 2 Type I vs Type II: Understanding the Difference and Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/ee18de6590c2) |
+| Wed, 08 Oct 2025 18:59:54 GMT | Post-Mortem: BetterBank $5M Exploit (August 2025) | Olympix | [Read More](https://medium.com/p/1e8657209842) |
+| Wed, 08 Oct 2025 18:56:39 GMT | Can’t Upgrade to Windows 11? How to Keep Your PC Safe and Usable | Isaac Muendo | [Read More](https://medium.com/p/6d61d2d9d65a) |
+| Wed, 08 Oct 2025 18:55:25 GMT | Third-Party Weakness Triggers Data Breach Impacting Discord Users | RealSec.io | [Read More](https://medium.com/p/b05deb7a9afc) |
+| Wed, 08 Oct 2025 18:54:35 GMT | Hard Truths & Actionable Insights From NCBA Insurance’s CyberGuard Launch Event Discussion Panel | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/0a00b8e017de) |
+| Wed, 08 Oct 2025 18:53:41 GMT | Telegram Posts OSINT via Dorking | Abhirup Konwar | [Read More](https://medium.com/p/114df64f30c4) |
+| Wed, 08 Oct 2025 18:51:43 GMT | ItsyBitsy TryHackMe Room Write-Up | Karim Hesham | [Read More](https://medium.com/p/a1b1e11d5ed5) |
+| Wed, 08 Oct 2025 18:43:39 GMT | SOC as a Service: 24/7 Security Monitoring Without the Overhead | SafeAeon Inc. | [Read More](https://medium.com/p/bc20cb9bf372) |
+| Wed, 08 Oct 2025 18:37:26 GMT | Goodhart’s Law — Kenyan Version | The One Alternative View | [Read More](https://medium.com/p/70a7347e3434) |
+| Wed, 08 Oct 2025 18:37:22 GMT | I Built My Own SIEM On My Desktop | Johnny Meintel | [Read More](https://medium.com/p/786389b41abd) |
+| Wed, 08 Oct 2025 18:36:48 GMT | Inside a Computer Worm Room (102): How It’s Defined, Life Cycle, Types, Actions, Detection &… | blackXmask | [Read More](https://medium.com/p/f1aef26f72c3) |
+| Wed, 08 Oct 2025 18:32:11 GMT | One Click to All Baisc Recon for Bug Bounty | SIDDHANT SHUKLA | [Read More](https://medium.com/p/295ac745d602) |
+| Wed, 08 Oct 2025 18:24:15 GMT | Gobuster vs Feroxbuster : le match des géants de l’énumération web | Telynor | [Read More](https://medium.com/p/3947a70f5349) |
 | Wed, 08 Oct 2025 18:17:33 GMT | ️ Understanding the Fundamentals of Network Security | Asif.k | [Read More](https://medium.com/p/5aedf9d61cec) |
 | Wed, 08 Oct 2025 18:16:39 GMT | Cyber Hygiene Checklist: Daily Security Habits Everyone Should Follow | ENVORASEC | [Read More](https://medium.com/p/3e46f7151977) |
 | Wed, 08 Oct 2025 18:13:58 GMT | Security Starts with You: Proof That Cybersecurity Belongs to Everyone! | Tegar Bayu Pratama | [Read More](https://medium.com/p/9e0f0cd23f2d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 13:57:17 GMT | Stories Hackers Don’t Tell: The Books Behind Their Success | Shahzaib | [Read More](https://medium.com/p/ee94557f7303) |
 | Wed, 08 Oct 2025 13:55:01 GMT | Cybersecurity for Dummies: Your First Steps into the Digital Fortress | Samina Perveen | [Read More](https://medium.com/p/fcaf0ff749d6) |
 | Wed, 08 Oct 2025 13:41:12 GMT | Hackviser CWSE Certificate: Cyber Vault Walktrought | kiknazde | [Read More](https://medium.com/p/5e9dbf3e2aa6) |
-| Wed, 08 Oct 2025 13:40:32 GMT | UAE: A Global Model of Safety, Tolerance, and Modern Coexistence | Marta Reyes | [Read More](https://medium.com/p/cd7b1015cea2) |
-| Wed, 08 Oct 2025 13:39:40 GMT | Day 8: The Danger of Unseen Connections -Why Network & Wi-Fi Security Matters! | Aysha Misri | [Read More](https://medium.com/p/8b27ab26f7d1) |
-| Wed, 08 Oct 2025 13:36:28 GMT | Shodan.io-THM - 100-Day Cyber Exploration Writeup..-Day-1 . | Deepika  B | [Read More](https://medium.com/p/8d430995572e) |
-| Wed, 08 Oct 2025 13:30:48 GMT | How to secure external (public) web forms from malicious actions. End-to-end | Dawid Galeziewski | [Read More](https://medium.com/p/ce7b326ad862) |
-| Wed, 08 Oct 2025 13:28:58 GMT | Expedite IT: Reinventing Data Center Perimeter Security in KSA & GCC | expbhavya | [Read More](https://medium.com/p/58965655368a) |
-| Wed, 08 Oct 2025 13:20:42 GMT | The Future CTO Will Be Half Engineer-Half Economist | Tim Murkomen | [Read More](https://medium.com/p/98638eca7a69) |
-| Wed, 08 Oct 2025 13:20:13 GMT | DNS Rebinding + SSRF: The Silent Combo That Turns Browsers Into Internal Attack Proxies | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bf5b367c93eb) |
-| Wed, 08 Oct 2025 13:16:41 GMT | One-Click Account Takeover via Open Redirect & XSS | Ibtissam hammadi | [Read More](https://medium.com/p/8263bd6db064) |
-| Wed, 08 Oct 2025 13:15:13 GMT | FortiGate Web Filter & Deep SSL Inspection — Uygulamalı Kurulum | Onur Altuğ | [Read More](https://medium.com/p/61946f24fe3c) |
-| Wed, 08 Oct 2025 13:12:52 GMT | Best 10 SaaS Agreement Law Firms for Startups & Enterprises | Hansen Tong | [Read More](https://medium.com/p/a1b21b905e6f) |
-| Wed, 08 Oct 2025 13:11:03 GMT | The Silent Profit Killer: Why Your Cigarette and Lottery Inventory Is Disappearing (And How to Stop… | Tec-Tel Communications | [Read More](https://medium.com/p/11e4afbc6715) |
-| Wed, 08 Oct 2025 13:10:17 GMT | How Modern Hospitals Are Eliminating the $10.93 Million Problem That Keeps CISOs Awake at Night | Tec-Tel Communications | [Read More](https://medium.com/p/3726b609dd9d) |
-| Wed, 08 Oct 2025 13:08:56 GMT | When Our Firewall Failed — and the Real Problem Was Us | Michael Preston | [Read More](https://medium.com/p/2e9c8a20cd84) |
-| Wed, 08 Oct 2025 13:08:30 GMT | Modern Siber Güvenlik Operasyonları: SOC, MDR, SIEM, SOAR ve XDR Çözümleri | Asude Handan Uslukılıç | [Read More](https://medium.com/p/f468a2cdb52e) |
