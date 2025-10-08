@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 17:08:46 GMT | Automating XSS Detection With Machine Learning: Beyond the Hype | Aj | [Read More](https://medium.com/p/036db1ec7458) |
+| Wed, 08 Oct 2025 17:02:08 GMT | Recovery After Stillbirth: It’s Time to Let Go and Heal | Hari's Helping Hands | [Read More](https://medium.com/p/6bc14f3e1f4c) |
+| Wed, 08 Oct 2025 17:01:57 GMT | BRICKSTORM: The Spyware You Were Never Supposed to See | Akshatdwivedi | [Read More](https://medium.com/p/05c16d7240eb) |
+| Wed, 08 Oct 2025 17:01:05 GMT | Python and Sonic Gardens: Generative Soundscapes with Code | Kainat Nafees | [Read More](https://medium.com/p/2396ae12a9ba) |
+| Wed, 08 Oct 2025 16:50:48 GMT | Writing a risk scenario | Ryan McGeehan | [Read More](https://medium.com/p/bdbe6e20bfcb) |
+| Wed, 08 Oct 2025 16:45:53 GMT | State of Application Security at Top 250 Cryptocurrency Exchanges | ImmuniWeb | [Read More](https://medium.com/p/163151df8209) |
 | Wed, 08 Oct 2025 16:37:19 GMT | Automate the API Hunt — API Reverse Engineering ️‍ | Senuk Dias | [Read More](https://medium.com/p/6a8d724f6f7e) |
 | Wed, 08 Oct 2025 16:37:05 GMT | Important Facts To Know About Bitcoin Wallets | VTECH | [Read More](https://medium.com/p/6d6ad2daad94) |
 | Wed, 08 Oct 2025 16:35:54 GMT | Case Study: Mobile Remote Access Trojan Deployment — Social Engineering Techniques and Defense… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/a74292a01e4d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 11:53:55 GMT | Node.js Security — A Complete Guide to Protect Your Backend & Data | Mr Senior | [Read More](https://medium.com/p/84b19d483e76) |
 | Wed, 08 Oct 2025 11:25:01 GMT | How Co-Working Spaces are Using Smart Access Control for Better Security | Joven A Rodrigues | [Read More](https://medium.com/p/8e338e898e8c) |
 | Wed, 08 Oct 2025 11:24:48 GMT | Live from the Crime Scene: A Guide to the Linux Live Analysis Room | Furkanctiner | [Read More](https://medium.com/p/b6d2e076b4dc) |
-| Wed, 08 Oct 2025 11:17:59 GMT | Why Endpoint Management Is Becoming the Heart of Microsoft 365 Security | Ola Sonola | [Read More](https://medium.com/p/ed0e3b02bf07) |
-| Wed, 08 Oct 2025 11:17:33 GMT | The Next Great Power Struggle Isn’t Between Nations | Mia Balan | [Read More](https://medium.com/p/c8bf0e38d9dd) |
-| Wed, 08 Oct 2025 11:17:12 GMT | How I Integrated Snyk Into AI-Driven Development at Clermont Digital | DeveloperSteve | [Read More](https://medium.com/p/59a26b51b858) |
-| Wed, 08 Oct 2025 11:13:54 GMT | What are the three types of security systems? | cyber security Updates | [Read More](https://medium.com/p/183bc8ddb593) |
-| Wed, 08 Oct 2025 11:10:23 GMT | Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII (and a $600 Bounty) | toast | [Read More](https://medium.com/p/0ca17ed328c9) |
-| Wed, 08 Oct 2025 11:06:45 GMT | exp.gs-cdn.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/ed3d4b9bb80e) |
