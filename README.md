@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 21:27:09 GMT | The Real Reason Most People Don’t Get Safer Online | The Online Safety Zone | [Read More](https://medium.com/p/a2b86385046a) |
+| Wed, 08 Oct 2025 21:24:16 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/7645f640ebd0) |
+| Wed, 08 Oct 2025 21:17:33 GMT | The Passback Secret | R. Eric Kiser | [Read More](https://medium.com/p/41e089c0f296) |
 | Wed, 08 Oct 2025 21:01:43 GMT | A Business Masterclass for the Modern Tech Leader | Tim Murkomen | [Read More](https://medium.com/p/0ffbe802df5b) |
 | Wed, 08 Oct 2025 21:00:36 GMT | The Impact of Cybersecurity on Retail | Cyber Security Research | [Read More](https://medium.com/p/41d64754dc6c) |
 | Wed, 08 Oct 2025 20:57:05 GMT | Data Privacy and Governance in Offensive Security: Pentesting & Red-Teaming in the AI Age | Juan Pablo Castro | [Read More](https://medium.com/p/f0a46514b353) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 15:45:09 GMT | The Ransomware Scare | Danielle Koppel | [Read More](https://medium.com/p/2180a1bc96f8) |
 | Wed, 08 Oct 2025 15:44:32 GMT | The Impact of Cybersecurity on Finance | Cyber Security Research | [Read More](https://medium.com/p/30b9ef643966) |
 | Wed, 08 Oct 2025 15:39:52 GMT | The Unbearable Beauty of the Open Heart: I. The Logic of the Wall | Soren Ash | [Read More](https://medium.com/p/e2e5b25bf2ad) |
-| Wed, 08 Oct 2025 15:37:33 GMT | Trick or Treat? Don’t Let Phishing Trick You! | Danielle Koppel | [Read More](https://medium.com/p/de862e08d88d) |
-| Wed, 08 Oct 2025 15:37:04 GMT | Beware: Scammers Have Gone Smishing | Danielle Koppel | [Read More](https://medium.com/p/8e039e32458d) |
-| Wed, 08 Oct 2025 15:31:53 GMT | Can’t Add Outlook to Apple Mail? You’re Not Alone | Chaos Engineer | [Read More](https://medium.com/p/14b155289c33) |
