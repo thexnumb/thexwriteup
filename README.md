@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 14:46:25 GMT | Increasing cyber crime | Anupam Jaiswal | [Read More](https://medium.com/p/691ff32d76fa) |
 | Wed, 08 Oct 2025 14:41:30 GMT | “The Two “Useless” Bugs That Keep Paying My Internet Bill” | Aman Sharma | [Read More](https://medium.com/p/23db3ffc2219) |
 | Wed, 08 Oct 2025 14:38:14 GMT | The Hidden Risks in Your LinkedIn Photos: An OSINT Perspective | Joe The OSINT Guy | [Read More](https://medium.com/p/bc9118589f9f) |
 | Wed, 08 Oct 2025 14:34:57 GMT | Are AI Agents the Ultimate Confused Deputy? How AI Agents' Capabilities Are Being Abused | Mohamed AboElKheir | [Read More](https://medium.com/p/64444e002316) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 10:11:38 GMT | Why Python Remains a Dependable Choice for Enterprise FinTech | WEDOWEBAPPS LTD | [Read More](https://medium.com/p/df947d7cc0e8) |
 | Wed, 08 Oct 2025 10:10:42 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/140d81099389) |
 | Wed, 08 Oct 2025 10:07:27 GMT | The AI Revolution Everyone Missed Is Happening in the Physical World | Mia Balan | [Read More](https://medium.com/p/3915fec5e7be) |
-| Wed, 08 Oct 2025 10:05:26 GMT | Toasters Market Size to Reach USD 5.29 Billion by 2030, Driven by Changing Consumer Preferences | Rakeshnaidu | [Read More](https://medium.com/p/591ab9d60c11) |
