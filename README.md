@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 08:37:20 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/ce6a5efc8f1e) |
+| Wed, 08 Oct 2025 08:36:23 GMT | My Journey to a Portable Kali Linux: From Broken USBs to a Hacker’s Toolkit | Sarahmodi | [Read More](https://medium.com/p/453513018a30) |
+| Wed, 08 Oct 2025 08:35:17 GMT | Setting Up a Mobile Pentesting Lab: Emulators, Devices & Proxies | Digital Defense | [Read More](https://medium.com/p/b67fcd3a5a5f) |
+| Wed, 08 Oct 2025 08:34:36 GMT | How to Use the OSINT Framework Effectively — A Step-by-Step Walkthrough | Shansuma D | [Read More](https://medium.com/p/7a42c43fe688) |
+| Wed, 08 Oct 2025 08:32:48 GMT | Securing Your CMS from a DFIR Perspective | INTfinity Consulting | [Read More](https://medium.com/p/5d5a3c1b3aef) |
+| Wed, 08 Oct 2025 08:30:36 GMT | KONSEP DASAR CYBERSECURITY | CysecNewbie2 | [Read More](https://medium.com/p/831ddaba4115) |
+| Wed, 08 Oct 2025 08:29:34 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/2d5bcee19b6a) |
+| Wed, 08 Oct 2025 08:26:01 GMT | DAO Construction Reimagined: Flexibility, Transparency, and Security with the DeXe Protocol. | MADEOFBLU | [Read More](https://medium.com/p/eeb8c8f84379) |
 | Wed, 08 Oct 2025 08:25:42 GMT | Elevate — Brisbane’s Trusted Team for Managed IT, Cybersecurity & Cloud Solutions | Elevate | [Read More](https://medium.com/p/8e7ea0a27d46) |
+| Wed, 08 Oct 2025 08:20:29 GMT | Security Architecture: Complete Guide to Framework, Components, and Importance | Writegenic AI | [Read More](https://medium.com/p/9985da8cc2ce) |
+| Wed, 08 Oct 2025 08:18:02 GMT | Understanding Common Cybersecurity Frameworks | Cyber Security Research | [Read More](https://medium.com/p/a9f17fc220d0) |
 | Wed, 08 Oct 2025 08:11:48 GMT | The Impact of Cybersecurity on Business Reputation | Cyber Security Research | [Read More](https://medium.com/p/91fba245acab) |
 | Wed, 08 Oct 2025 08:06:11 GMT | The Importance of Cybersecurity Standards | Cyber Security Research | [Read More](https://medium.com/p/7ce5cbb7bcbd) |
 | Wed, 08 Oct 2025 08:02:05 GMT | [Part 8] The Dark Side: How Hackers Use AI to Outsmart Companies | Cyberkech | [Read More](https://medium.com/p/969d0823a6f1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 01:44:38 GMT | Understanding Kafka’s Requested Flow & Netty’s Optional Client Authentication | Hrishabh Gupta | [Read More](https://medium.com/p/7f99c5258096) |
 | Wed, 08 Oct 2025 01:37:54 GMT | The 3 AM Version of Yourself | Mayukh Sarma | [Read More](https://medium.com/p/3e9c3516e24c) |
 | Wed, 08 Oct 2025 01:27:18 GMT | The G7 Cyber Expert Group and AI: Steering Global Finance Toward Resilient Innovation | CCD-IS | [Read More](https://medium.com/p/157f700f9907) |
-| Wed, 08 Oct 2025 01:23:22 GMT | Detecting Software Supply Chain Compromise with GitHub Actions and Rougepkg — Part 1 | Oluwatobi Afolabi | [Read More](https://medium.com/p/a91dae406323) |
-| Wed, 08 Oct 2025 01:22:31 GMT | The Evolution of Quantum Resistance in the Signal Protocol: From PQXDH to the Triple Ratchet | Sunil Gentyala | [Read More](https://medium.com/p/2e2ab00a1544) |
-| Wed, 08 Oct 2025 01:22:06 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | TOP RATED INDIAN ASTROLOGER PSYCHIC IN FIJI SUVA | [Read More](https://medium.com/p/98ae4ce43fb3) |
-| Wed, 08 Oct 2025 01:12:04 GMT | Why “Rejecting Intimacy” Can Be So Damaging to Relationships | Sevenqian | [Read More](https://medium.com/p/d737285efa0b) |
-| Wed, 08 Oct 2025 00:49:35 GMT | PowerShell Obfuscation via Seeded Get-Random | Luke Thompson | [Read More](https://medium.com/p/2f125a7321dd) |
-| Wed, 08 Oct 2025 00:42:51 GMT | O Preço do Silêncio | Erick Carvalho | [Read More](https://medium.com/p/e3b66331d416) |
-| Wed, 08 Oct 2025 00:39:43 GMT | Philosophy of the Mathematics of Cybersecurity | Imanologya | [Read More](https://medium.com/p/3a27dc51d401) |
-| Wed, 08 Oct 2025 00:31:52 GMT | Monitoring PostgreSQL 18 Performance Metrics in AI-Intensive Environments | Rizqi Mulki | [Read More](https://medium.com/p/f2125b956a2f) |
-| Wed, 08 Oct 2025 00:31:40 GMT | The Growth Curve — Here’s Why I’ll Always Choose Growth Over Security | Bhawana | [Read More](https://medium.com/p/d045ba2f296f) |
-| Wed, 08 Oct 2025 00:27:17 GMT | How Long Can a Background Check Take? Understanding the Timeline | AMS Inform | [Read More](https://medium.com/p/15e0e61971b8) |
