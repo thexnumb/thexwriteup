@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Oct 2025 16:10:41 GMT | 邪惡軸心人工低能 ｜The Axis of Evil’s Artificial Folly | Kaga Chung | [Read More](https://medium.com/p/bef89ab810d6) |
+| Wed, 08 Oct 2025 16:07:11 GMT | Microsoft Warns: Critical GoAnywhere Bug Actively Exploited in Medusa Ransomware Campaign | Technijian | [Read More](https://medium.com/p/0befaa250b51) |
+| Wed, 08 Oct 2025 16:00:07 GMT | Wow a deep link? Let’s hijack it to ATO | CANITEY | [Read More](https://medium.com/p/c742838c9d78) |
+| Wed, 08 Oct 2025 15:59:53 GMT | The Future of Cybersecurity: Building Beyond Quantum Threats | Aliciasierra | [Read More](https://medium.com/p/466c95b78094) |
+| Wed, 08 Oct 2025 15:59:41 GMT | Top tools every SOC Analyst should know | Sharan Nagaraj Kumar | [Read More](https://medium.com/p/8da1979cde3a) |
+| Wed, 08 Oct 2025 15:59:26 GMT | Reading People Like Code: The Hacker’s Art of Understanding Without Words | Vijay Kumar Gupta | [Read More](https://medium.com/p/a6b64cb9ebbd) |
+| Wed, 08 Oct 2025 15:53:33 GMT | The Blueprint for Security ROI: What the Red Team’s Final Report Really Tells Business Leaders | IT_Engineer | [Read More](https://medium.com/p/36d3e4850a53) |
+| Wed, 08 Oct 2025 15:51:53 GMT | Popular Chrome VPN Caught Secretly Screenshotting Users’ Browsing Sessions | Fortress Protocol | [Read More](https://medium.com/p/a46b3db1d89c) |
+| Wed, 08 Oct 2025 15:49:46 GMT | Security Misconfiguration: The Hidden Risk in Web Applications | CyberSenpai | [Read More](https://medium.com/p/d5d235812dc4) |
+| Wed, 08 Oct 2025 15:45:09 GMT | The Ransomware Scare | Danielle Koppel | [Read More](https://medium.com/p/2180a1bc96f8) |
+| Wed, 08 Oct 2025 15:44:32 GMT | The Impact of Cybersecurity on Finance | Cyber Security Research | [Read More](https://medium.com/p/30b9ef643966) |
+| Wed, 08 Oct 2025 15:39:52 GMT | The Unbearable Beauty of the Open Heart: I. The Logic of the Wall | Soren Ash | [Read More](https://medium.com/p/e2e5b25bf2ad) |
 | Wed, 08 Oct 2025 15:37:33 GMT | Trick or Treat? Don’t Let Phishing Trick You! | Danielle Koppel | [Read More](https://medium.com/p/de862e08d88d) |
 | Wed, 08 Oct 2025 15:37:04 GMT | Beware: Scammers Have Gone Smishing | Danielle Koppel | [Read More](https://medium.com/p/8e039e32458d) |
+| Wed, 08 Oct 2025 15:31:53 GMT | Can’t Add Outlook to Apple Mail? You’re Not Alone | Chaos Engineer | [Read More](https://medium.com/p/14b155289c33) |
 | Wed, 08 Oct 2025 15:23:43 GMT | Turning Dependency Confusion Research into a Profitable Stack | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/d2f39fe216bf) |
 | Wed, 08 Oct 2025 15:22:23 GMT | Do local ao real: validando o SSL Pinning do seu app Flutter com Let’s Encrypt | Fabio Pereira | [Read More](https://medium.com/p/a8c204acc2d7) |
 | Wed, 08 Oct 2025 15:18:35 GMT | 9-Figure Media Reveals the Branding Hacks That Make Startups Unforgettable | Maxwell JAMES | [Read More](https://medium.com/p/25c75f5f33db) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 10:56:51 GMT | The Role of SOC 2 Certification in Building Customer Trust | Tech Writer | [Read More](https://medium.com/p/6e153e617d3c) |
 | Wed, 08 Oct 2025 10:55:52 GMT | Is cbesx.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/cde13fa79731) |
 | Wed, 08 Oct 2025 10:54:14 GMT | Is regul-finance.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/f4767772db64) |
-| Wed, 08 Oct 2025 10:53:10 GMT | DockerLabs Writeup — Bypassme (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ed65445cecc8) |
-| Wed, 08 Oct 2025 10:47:46 GMT | Astronaut -Step-by-Step Walkthrough (Proving Grounds Practice) | Sandeepsisodiya | [Read More](https://medium.com/p/5a8c7a8d4aad) |
-| Wed, 08 Oct 2025 10:47:00 GMT | Integrating OAuth2 PKCE and SCRAM Authentication with Amazon Cognito | Hilda Machando | [Read More](https://medium.com/p/3358fa5527f5) |
-| Wed, 08 Oct 2025 10:45:58 GMT | The Fine Line Between Smart Tech and Safe Tech | Rabail Zaheer | [Read More](https://medium.com/p/b866aa39f702) |
-| Wed, 08 Oct 2025 10:37:16 GMT | How I Reduced AWS Costs by 67% Using DevOps Automation | Talat Faheem | [Read More](https://medium.com/p/88f9fc0b2893) |
-| Wed, 08 Oct 2025 10:36:07 GMT | Active Memory Expansion — Boost IBM Power Systems Without Extra RAM | Crafty Facts | [Read More](https://medium.com/p/682fc8e5847c) |
-| Wed, 08 Oct 2025 10:35:57 GMT | Bkchaintops.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/ac78f91407f7) |
-| Wed, 08 Oct 2025 10:34:21 GMT | Microsoft Leak: A Wake-Up Call for SMEs to Embrace a Cost-Effective, Cybersecurity Strategy | FlashX Cybersecurity | [Read More](https://medium.com/p/26399b4bc5f4) |
-| Wed, 08 Oct 2025 10:33:36 GMT | Security for Retail Stores: Top Strategies to Prevent Theft | Janie Taylor | [Read More](https://medium.com/p/9c0aac33dd73) |
-| Wed, 08 Oct 2025 10:32:34 GMT | Is Gcra2024.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/c6eb2cddc847) |
-| Wed, 08 Oct 2025 10:30:54 GMT | Is Dex-defi.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/477f44670a45) |
-| Wed, 08 Oct 2025 10:30:18 GMT | Securing Your VPS SSH Access: A Complete Guide for Multiple Devices and 2FA Protection | Nurul Islam Rimon | [Read More](https://medium.com/p/8650a9e01e56) |
-| Wed, 08 Oct 2025 10:23:53 GMT | The Cybersecurity Struggle: Why SMEs Need Simplified, Budget-Friendly Solutions | FlashX Cybersecurity | [Read More](https://medium.com/p/65ac9d309265) |
