@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 17:33:16 GMT | Inside America’s Cyber Frontlines: How Cyber Threats Could Amplify Government Shutdowns in 2025 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/dc1cbbc60268) |
+| Thu, 09 Oct 2025 17:32:03 GMT | How AI-Powered Security Actually Works: Beyond the Hype | Eric Zietlow | [Read More](https://medium.com/p/85d42c16b708) |
+| Thu, 09 Oct 2025 17:27:44 GMT | Inside America’s Cyber Frontlines: Understanding the 2025 Threat Landscape Through Real-World Cases | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ffd4c0517289) |
+| Thu, 09 Oct 2025 17:21:46 GMT | BRabbit Lab Writeup | Jaws | [Read More](https://medium.com/p/4d950bd4d40e) |
+| Thu, 09 Oct 2025 17:19:34 GMT | Lab Report — Responsible Testing of a TurnKey CCTV Appliance (Discovery → Validation → Mitigation) | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/78b21f6f8432) |
+| Thu, 09 Oct 2025 17:19:05 GMT | From Chaos to Clarity: Building My First Real-Time App with Node.js and WebSockets | Kainat Nafees | [Read More](https://medium.com/p/b079c6d3f18a) |
 | Thu, 09 Oct 2025 17:16:53 GMT | Navigating the 2025 Cyber Threat Landscape: A Deep Dive into Global Risks and Emerging Trends | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/b8547d5db63b) |
+| Thu, 09 Oct 2025 17:15:47 GMT | What Your Smart Meters Know About You | The Bot Group | [Read More](https://medium.com/p/4aea951601f9) |
 | Thu, 09 Oct 2025 17:12:24 GMT | Data Safety Awareness Series: Post 7 | Juned Silavat | [Read More](https://medium.com/p/bb6dd766b780) |
+| Thu, 09 Oct 2025 17:10:52 GMT | Lxd for privilege escalation | Sadineni Sai Sushanth | [Read More](https://medium.com/p/b1ccfd3c2523) |
 | Thu, 09 Oct 2025 17:09:52 GMT | Employee Theft: Protect Your Business Without Becoming Big Brother | Tec-Tel Communications | [Read More](https://medium.com/p/c68d46cb8cb3) |
 | Thu, 09 Oct 2025 17:08:28 GMT | Co-Managed IT Services, Your IT Superpower. | SkyTide Group | [Read More](https://medium.com/p/01370882e189) |
 | Thu, 09 Oct 2025 17:07:41 GMT | Why 73% of Higher Education Institutions Are Reevaluating Their Campus Safety Infrastructure — And… | Tec-Tel Communications | [Read More](https://medium.com/p/7f47a7a626fc) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 13:09:41 GMT | CS student tries to evade AV (PART 3) | Mahmudul Hasan | [Read More](https://medium.com/p/ab72c8b4b0c1) |
 | Thu, 09 Oct 2025 13:09:23 GMT | Linux Forensics Analysis | LinuxDev | [Read More](https://medium.com/p/eea866f7b08c) |
 | Thu, 09 Oct 2025 13:08:55 GMT | Operating Systems for IoT Devices: Lightweight, Secure, and Smart | Ishan Soman | [Read More](https://medium.com/p/7e273cdb4b4d) |
-| Thu, 09 Oct 2025 13:08:36 GMT | Inside the Scam Support Industry: The Shadow Economy of Fraud | Internet Exposed | [Read More](https://medium.com/p/455e4d9164cf) |
-| Thu, 09 Oct 2025 13:07:52 GMT | The Scalable XSS Hunter’s Guide: Techniques for Maximum Findings | Ibtissam hammadi | [Read More](https://medium.com/p/beace1830f72) |
-| Thu, 09 Oct 2025 13:07:15 GMT | APT42: İran Destekli Gelişmiş Tehdit Operasyonları | Eren Onder | [Read More](https://medium.com/p/f32af29745b3) |
-| Thu, 09 Oct 2025 13:02:58 GMT | ️ Your Last Penetration Test Was 12 Months Ago — Here’s Why That’s a Problem | Omex Oleksandr | [Read More](https://medium.com/p/41dd1d51653f) |
-| Thu, 09 Oct 2025 12:57:40 GMT | Why I Audit Cron Jobs on Linux Servers Every Month | Faruk Ahmed | [Read More](https://medium.com/p/12b8bfa6952c) |
-| Thu, 09 Oct 2025 12:55:54 GMT | DOM-based cookie manipulation | Alan | [Read More](https://medium.com/p/587ced002c5f) |
-| Thu, 09 Oct 2025 12:51:24 GMT | SQL Injection UNION Attack — Oracle Database Version | Ahmed Shawky | [Read More](https://medium.com/p/5ddb83fb0382) |
-| Thu, 09 Oct 2025 12:46:06 GMT | 5 Website to Visit If You Are Looking To Hire A Legit Hacker | Cyber Tech Solutions | [Read More](https://medium.com/p/5af5ea5f66f6) |
