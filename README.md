@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 18:17:32 GMT | Security Awareness Training | simuphish | [Read More](https://medium.com/p/dd54f1b06cda) |
+| Thu, 09 Oct 2025 18:10:50 GMT | Business Logic Error - Bypassing Payment with Test Cards | Umanhonlen Gabriel | [Read More](https://medium.com/p/77c6e3c36f16) |
+| Thu, 09 Oct 2025 18:08:03 GMT | Sleep Mode Isn’t Safe: How Attackers Exploit System Hibernation | Aastha Thakker | [Read More](https://medium.com/p/5794bae35cd9) |
+| Thu, 09 Oct 2025 18:03:50 GMT | Building a Hack-Proof Network: 7 Best Practices from Ethical Hackers | Smith Adams | [Read More](https://medium.com/p/7f9fa072a569) |
+| Thu, 09 Oct 2025 18:03:37 GMT | Unlimited File Upload Vulnerability: From Images to Web Threats | Muhammad Adnan Apriliyansyah | [Read More](https://medium.com/p/fd621156a1db) |
+| Thu, 09 Oct 2025 18:01:31 GMT | CyberSecurity In 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/b5dec90641fa) |
+| Thu, 09 Oct 2025 17:49:20 GMT | The Digital Heist We Never Saw Coming: How AI Is Rewriting the Future of Cybersecurity | Hritam Dutta | [Read More](https://medium.com/p/27a005b96f68) |
+| Thu, 09 Oct 2025 17:46:39 GMT | 7 Realistic Mobile Security Interview Questions with Answers (Part 2) | CyberSenpai | [Read More](https://medium.com/p/caf1643387de) |
+| Thu, 09 Oct 2025 17:46:34 GMT | Understanding SIEM: The Brain of Modern Cybersecurity | Asif.k | [Read More](https://medium.com/p/7051a3460e2b) |
+| Thu, 09 Oct 2025 17:42:04 GMT | Ehxb - Path Traversal Vulnerabilities: From Discovery to Automation | Ehxb | [Read More](https://medium.com/p/569b64ce46ac) |
+| Thu, 09 Oct 2025 17:41:01 GMT | Secure MCP: A Production-Ready Architecture | Jose Maria Flores Zazo | [Read More](https://medium.com/p/665d640a3888) |
 | Thu, 09 Oct 2025 17:33:16 GMT | Inside America’s Cyber Frontlines: How Cyber Threats Could Amplify Government Shutdowns in 2025 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/dc1cbbc60268) |
 | Thu, 09 Oct 2025 17:32:03 GMT | How AI-Powered Security Actually Works: Beyond the Hype | Eric Zietlow | [Read More](https://medium.com/p/85d42c16b708) |
 | Thu, 09 Oct 2025 17:27:44 GMT | Inside America’s Cyber Frontlines: Understanding the 2025 Threat Landscape Through Real-World Cases | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ffd4c0517289) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 13:51:59 GMT | Bugs Review, Cantina, Gauntlet | typicalHuman | [Read More](https://medium.com/p/0db7800a7ac4) |
 | Thu, 09 Oct 2025 13:47:34 GMT | Essay on AI | Wassim TURKI | [Read More](https://medium.com/p/09bb5fbe33f7) |
 | Thu, 09 Oct 2025 13:46:45 GMT | Short Bugs Review, Sherlock, Malda | typicalHuman | [Read More](https://medium.com/p/1e0a4afc7cad) |
-| Thu, 09 Oct 2025 13:37:46 GMT | The Supply Chain Threat — A06: Vulnerable and Outdated Components - 10 Days with Me - OWASP Top 10… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/b18f16994ded) |
-| Thu, 09 Oct 2025 13:31:45 GMT | CTF collection Vol.2:TryHackMe Writeup :WalkThrough:CTF Answers | Umer | [Read More](https://medium.com/p/5194917e1e14) |
-| Thu, 09 Oct 2025 13:28:25 GMT | Understanding Authentication and Authorization Through a Real-World Example | Divy | [Read More](https://medium.com/p/5f0dda32da4e) |
-| Thu, 09 Oct 2025 13:18:58 GMT | Is morgarbits.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/c6e74969a470) |
-| Thu, 09 Oct 2025 13:17:52 GMT | MetaMask Wallet — CRITICAL Update! | Johnny Time | [Read More](https://medium.com/p/e251b2f79004) |
-| Thu, 09 Oct 2025 13:17:10 GMT | Investigating Windows:TryHackMe Writeup WalkThrough CTF Answers | Umer | [Read More](https://medium.com/p/611666dde723) |
-| Thu, 09 Oct 2025 13:16:04 GMT | Linux Incident Response | LinuxDev | [Read More](https://medium.com/p/5684fe3f5049) |
-| Thu, 09 Oct 2025 13:13:22 GMT | Is dimensionvip.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/ac33b9d80f46) |
-| Thu, 09 Oct 2025 13:09:41 GMT | CS student tries to evade AV (PART 3) | Mahmudul Hasan | [Read More](https://medium.com/p/ab72c8b4b0c1) |
-| Thu, 09 Oct 2025 13:09:23 GMT | Linux Forensics Analysis | LinuxDev | [Read More](https://medium.com/p/eea866f7b08c) |
-| Thu, 09 Oct 2025 13:08:55 GMT | Operating Systems for IoT Devices: Lightweight, Secure, and Smart | Ishan Soman | [Read More](https://medium.com/p/7e273cdb4b4d) |
