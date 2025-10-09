@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 17:16:53 GMT | Navigating the 2025 Cyber Threat Landscape: A Deep Dive into Global Risks and Emerging Trends | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/b8547d5db63b) |
+| Thu, 09 Oct 2025 17:12:24 GMT | Data Safety Awareness Series: Post 7 | Juned Silavat | [Read More](https://medium.com/p/bb6dd766b780) |
+| Thu, 09 Oct 2025 17:09:52 GMT | Employee Theft: Protect Your Business Without Becoming Big Brother | Tec-Tel Communications | [Read More](https://medium.com/p/c68d46cb8cb3) |
+| Thu, 09 Oct 2025 17:08:28 GMT | Co-Managed IT Services, Your IT Superpower. | SkyTide Group | [Read More](https://medium.com/p/01370882e189) |
+| Thu, 09 Oct 2025 17:07:41 GMT | Why 73% of Higher Education Institutions Are Reevaluating Their Campus Safety Infrastructure — And… | Tec-Tel Communications | [Read More](https://medium.com/p/7f47a7a626fc) |
+| Thu, 09 Oct 2025 17:02:16 GMT | Echolocating through the AGI Reality Distortion Field | Braedon Villano | [Read More](https://medium.com/p/f4ccd2e12ffe) |
+| Thu, 09 Oct 2025 17:02:00 GMT | TryHackMe — Reset Walkthrough | Cyber Anom | [Read More](https://medium.com/p/3cc48105b9e2) |
+| Thu, 09 Oct 2025 16:58:18 GMT | Securing PII Without Slowing Down Analytics | Spandana Lakkakula | [Read More](https://medium.com/p/3a4d6a4c829b) |
+| Thu, 09 Oct 2025 16:54:02 GMT | Data Protection — NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/e93059e41adc) |
+| Thu, 09 Oct 2025 16:51:42 GMT | The Nature of Information | Kiryl Ye | [Read More](https://medium.com/p/f0ca9268c774) |
+| Thu, 09 Oct 2025 16:47:06 GMT | Introduction Windows Log Analysis: Part 1 | Syedmohathashimali | [Read More](https://medium.com/p/b61c65a957cf) |
+| Thu, 09 Oct 2025 16:46:19 GMT | Major IDOR Flaw in India’s Income Tax Portal Exposed Sensitive Taxpayer Data | Nitin Garg | [Read More](https://medium.com/p/048e155ab6aa) |
+| Thu, 09 Oct 2025 16:45:00 GMT | Server-Side Request Forgery | Fatimahasan | [Read More](https://medium.com/p/e047f649afab) |
 | Thu, 09 Oct 2025 16:40:32 GMT | XWorm Rises Again: From RAT to Ransomware — A Deep Dive into Its Resurgence. | eL Njas!™ | [Read More](https://medium.com/p/48e63c501c80) |
+| Thu, 09 Oct 2025 16:39:08 GMT | Review : Pre Security Learning Path — Try Hack Me | InfernoRadar | [Read More](https://medium.com/p/73e2c1a73fdd) |
 | Thu, 09 Oct 2025 16:34:49 GMT | Cognitive Hacking: The Next Frontier of Cybersecurity | Ahmed.Saltah | [Read More](https://medium.com/p/369d4ecb4655) |
 | Thu, 09 Oct 2025 16:31:54 GMT | Cybersecurity in Robotic Milling: Protecting Smart Cells from Digital Threats | Robotic Hi-Tech Solutions | [Read More](https://medium.com/p/4eecab59bd1a) |
 | Thu, 09 Oct 2025 16:31:24 GMT | Stop Guessing: How to Systematically Evaluate OpenAI Assistants with Promptfoo | Mahesh G | [Read More](https://medium.com/p/1d3e5e513c86) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 12:55:54 GMT | DOM-based cookie manipulation | Alan | [Read More](https://medium.com/p/587ced002c5f) |
 | Thu, 09 Oct 2025 12:51:24 GMT | SQL Injection UNION Attack — Oracle Database Version | Ahmed Shawky | [Read More](https://medium.com/p/5ddb83fb0382) |
 | Thu, 09 Oct 2025 12:46:06 GMT | 5 Website to Visit If You Are Looking To Hire A Legit Hacker | Cyber Tech Solutions | [Read More](https://medium.com/p/5af5ea5f66f6) |
-| Thu, 09 Oct 2025 12:45:09 GMT | $8.4M Gone in 3 Steps: How a Rounding Error Became Bunni’s Nightmare | Igor Rončević | [Read More](https://medium.com/p/0b655bc5eaac) |
-| Thu, 09 Oct 2025 12:42:05 GMT | Why DevSecOps is Outpacing DevOps in Today’s Security-First World | Devseccopsai | [Read More](https://medium.com/p/76c0bc82a0b2) |
-| Thu, 09 Oct 2025 12:41:53 GMT | Security Vulnerabilities in VoIP Protocols (SIP, RTP) — Ensuring Secure Voice Communication | Esra Kayhan | [Read More](https://medium.com/p/bd1c6015b45e) |
-| Thu, 09 Oct 2025 12:38:49 GMT | Is SHA-256 Really Unbreakable? | Keshav Garg | [Read More](https://medium.com/p/d22ac6431781) |
-| Thu, 09 Oct 2025 12:33:50 GMT | SQL Injection — Authentication Bypass | Ahmed Shawky | [Read More](https://medium.com/p/6b83ef3094c5) |
-| Thu, 09 Oct 2025 12:32:14 GMT | Inside Stellar Cyber’s Data Pipeline: The Hidden Engine Behind Smarter Security | Stellar Cyber | [Read More](https://medium.com/p/4cbe77400b87) |
-| Thu, 09 Oct 2025 12:31:47 GMT | When Humans Meet Machines: Inside the Age of Augmented Intelligence | Coding Blocks | [Read More](https://medium.com/p/bda78b7b5ff9) |
-| Thu, 09 Oct 2025 12:30:59 GMT | Kali Linux Essentials: Tools Every Security Learner Must Try | Shahzaib | [Read More](https://medium.com/p/9016b0c54ac7) |
-| Thu, 09 Oct 2025 12:27:53 GMT | x-aitokens.net Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/d77735935267) |
-| Thu, 09 Oct 2025 12:27:34 GMT | NotPetya: A One-Day Malware, A Global Catastrophe | Ahmet Doğukan Konuk | [Read More](https://medium.com/p/71aa634373c8) |
-| Thu, 09 Oct 2025 12:25:33 GMT | NotPetya: Tek Günlük Bir Yazılım, Küresel Bir Felaket | Ahmet Doğukan Konuk | [Read More](https://medium.com/p/dce5af0b491f) |
-| Thu, 09 Oct 2025 12:25:20 GMT | Is geminiprom.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/4f134eeb1085) |
-| Thu, 09 Oct 2025 12:23:03 GMT | Can You Trust LoomXpress.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/5e8d5b715db7) |
-| Thu, 09 Oct 2025 12:19:26 GMT | idghc.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/39711fa4fbec) |
