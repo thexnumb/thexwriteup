@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 21:11:34 GMT | Dumping Windows Credential Manager Vault | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a5b41ffaa734) |
+| Thu, 09 Oct 2025 21:06:41 GMT | Wallet Wisdom: Secure Your Crypto Empire | Wifi Mochi | [Read More](https://medium.com/p/682cc5b09f4c) |
+| Thu, 09 Oct 2025 21:01:46 GMT | The Missing Link in Healthcare Reform: Information Technology as Lifesaver | Hoperays Health Solutions | [Read More](https://medium.com/p/9cf008ae6ab4) |
+| Thu, 09 Oct 2025 21:00:06 GMT | AWS Security Hub: The Chronicles of Central Configuration | Thomas Pepper | [Read More](https://medium.com/p/42e2a0a03705) |
+| Thu, 09 Oct 2025 20:56:41 GMT | Day 4 :Windows Fundamentals 1 | Ogundipe Priscilla | [Read More](https://medium.com/p/3e578cd75233) |
+| Thu, 09 Oct 2025 20:45:18 GMT | Cybersecurity Awareness Month: How websites collect your information. | Ifeawoyemi | [Read More](https://medium.com/p/68934f98a749) |
+| Thu, 09 Oct 2025 20:43:58 GMT | Understanding Software Supply Chain Security | hackysterio | [Read More](https://medium.com/p/cca84e8a7022) |
 | Thu, 09 Oct 2025 20:22:11 GMT | How I Hacked an Admin Panel with Millions of Dollars | Zhenwarx | [Read More](https://medium.com/p/749f92c106ab) |
 | Thu, 09 Oct 2025 20:17:55 GMT | How to Manage Keys & Identity in AWS KMS for Blockchain Nodes | Lucky Nautiyal | [Read More](https://medium.com/p/17838d542468) |
 | Thu, 09 Oct 2025 20:13:31 GMT | The Hidden Dangers of Dirty Filenames | Kory Becker | [Read More](https://medium.com/p/1b345d5cd47f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 15:29:01 GMT | If You Don’t Spend Enough Time Getting to Know Yourself, You’ll End Up Absorbing Everyone Else’s… | Vijay Kumar Gupta | [Read More](https://medium.com/p/c0bee9270298) |
 | Thu, 09 Oct 2025 15:27:54 GMT | Jen’s Take On The Three Little Pigs…and Insecure Design | Jen Cracchiola | [Read More](https://medium.com/p/7fa132a4f211) |
 | Thu, 09 Oct 2025 15:22:10 GMT | Yurei Ransomware: The Rise of a Double-Extortion Threat and What SOC Teams Need to Know | Aditya Sharma | [Read More](https://medium.com/p/e4fce22c7191) |
-| Thu, 09 Oct 2025 15:22:04 GMT | Your Social Posts of Your Kids — Is a Danger to Them | Matthew.Rosenquist | [Read More](https://medium.com/p/9c8d1846e269) |
-| Thu, 09 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/4b8bc7fad4ab) |
-| Thu, 09 Oct 2025 15:09:09 GMT | Taming Outbound DNS: Using AWS Route 53 DNS Firewall to Control and Audit What Your Services… | More Than Monkeys | [Read More](https://medium.com/p/0826924d4b57) |
-| Thu, 09 Oct 2025 15:06:26 GMT | Cloud Storage Explained in Simple Words | Karnjuhi | [Read More](https://medium.com/p/393cff8894f4) |
-| Thu, 09 Oct 2025 15:04:15 GMT | The Forgiveness I’m Still Learning to Give | Darpan Murly | [Read More](https://medium.com/p/06e95e369423) |
-| Thu, 09 Oct 2025 14:55:41 GMT | Announcing Our Investment in SafeHill | Peri Ehlman | [Read More](https://medium.com/p/9d1573098adb) |
-| Thu, 09 Oct 2025 14:51:01 GMT | Why Mandala Siber Exists, and What We’re Trying to Build | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/b06fbb804388) |
