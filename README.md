@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 23:01:40 GMT | The Security Paradox: Too Much Data, Too Little Clarity | Cyber-AppSec | [Read More](https://medium.com/p/ad99ba1b517d) |
+| Thu, 09 Oct 2025 22:56:45 GMT | Jack Dorsey ‘Vibe Coded’ a ‘Secure’ App Over the Weekend | Napoleon Beltran | [Read More](https://medium.com/p/1318c2b21747) |
+| Thu, 09 Oct 2025 22:47:24 GMT | Testing AWS Metadata Service: A Cloud Security Lab with SSRF and IMDSv2 | Andrey Dolya | [Read More](https://medium.com/p/0f9d3efda022) |
 | Thu, 09 Oct 2025 22:31:38 GMT | Failing Gracefully: Essential Safety Rails for AI Agents in 2025 | Daniel García | [Read More](https://medium.com/p/3a6a49f02e8b) |
 | Thu, 09 Oct 2025 22:19:18 GMT | Greed Is Every Scammer’s Best Weapon | Levi Josh | [Read More](https://medium.com/p/9a62d1f7d2f5) |
 | Thu, 09 Oct 2025 22:08:59 GMT | Building a Small but Powerful Network & Security Architecture with 802.1X, RADIUS & DHCP | Helmiriahi | [Read More](https://medium.com/p/e6cc47e608f3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 16:08:09 GMT | Professional Event Security: Solving the Hidden Challenges Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/172a7867bbc8) |
 | Thu, 09 Oct 2025 16:03:15 GMT | Is AELs-Exchange.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/f81aff3a938a) |
 | Thu, 09 Oct 2025 15:59:42 GMT | Security Protocols: Full Guide with Code, Use Cases & Architecture. | Pranav Bahuguna | [Read More](https://medium.com/p/dc8c9f62a660) |
-| Thu, 09 Oct 2025 15:52:02 GMT | Can You Trust H5.coinbridbge.me? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/206fc51c3e0e) |
-| Thu, 09 Oct 2025 15:41:22 GMT | Virtualization : A Must Know Only | Cyber.H0und | [Read More](https://medium.com/p/d6c30950c836) |
-| Thu, 09 Oct 2025 15:38:29 GMT | Evolving Cybersecurity Landscape: From Basic Protection to Quantum Threats | Xcelplex | [Read More](https://medium.com/p/bec58387dd98) |
