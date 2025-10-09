@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 18:34:31 GMT | Issue #2 — Secure MCP and Shadow AI | Dan Mahoney | [Read More](https://medium.com/p/7bd9713da207) |
 | Thu, 09 Oct 2025 18:17:32 GMT | Security Awareness Training | simuphish | [Read More](https://medium.com/p/dd54f1b06cda) |
 | Thu, 09 Oct 2025 18:10:50 GMT | Business Logic Error - Bypassing Payment with Test Cards | Umanhonlen Gabriel | [Read More](https://medium.com/p/77c6e3c36f16) |
 | Thu, 09 Oct 2025 18:08:03 GMT | Sleep Mode Isn’t Safe: How Attackers Exploit System Hibernation | Aastha Thakker | [Read More](https://medium.com/p/5794bae35cd9) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 13:52:51 GMT | NGINX SSL Proxy with Let’s Encrypt The Complete Guide to Docker | Mahernaija | [Read More](https://medium.com/p/e8770747a4c3) |
 | Thu, 09 Oct 2025 13:51:59 GMT | Bugs Review, Cantina, Gauntlet | typicalHuman | [Read More](https://medium.com/p/0db7800a7ac4) |
 | Thu, 09 Oct 2025 13:47:34 GMT | Essay on AI | Wassim TURKI | [Read More](https://medium.com/p/09bb5fbe33f7) |
-| Thu, 09 Oct 2025 13:46:45 GMT | Short Bugs Review, Sherlock, Malda | typicalHuman | [Read More](https://medium.com/p/1e0a4afc7cad) |
