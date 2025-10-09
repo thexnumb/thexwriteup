@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 07:14:42 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/64c9777de8a3) |
+| Thu, 09 Oct 2025 07:11:46 GMT | SOC Provider in the U.S.: Strengthening Cybersecurity with 24/7 Monitoring and Response | Aaishasharma | [Read More](https://medium.com/p/abca93c6e3fb) |
+| Thu, 09 Oct 2025 07:10:14 GMT | Hackers abused a legitimate forensic tool “Velociraptor”, to Sneak into the Networks and build… | Mohana Reddy | [Read More](https://medium.com/p/e414ae501bb2) |
+| Thu, 09 Oct 2025 07:08:36 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/6100002835f7) |
+| Thu, 09 Oct 2025 07:07:32 GMT | CTF Starter Pack | Suzette Becraft | [Read More](https://medium.com/p/011c72684fb1) |
+| Thu, 09 Oct 2025 07:01:45 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/53547f077d71) |
+| Thu, 09 Oct 2025 06:57:43 GMT | PRISMA BROWSER — SASE-native Secure Browser: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d40ea8623f8f) |
+| Thu, 09 Oct 2025 06:55:24 GMT | The Role of Cybersecurity in Non-Profit Organizations | Cyber Security Research | [Read More](https://medium.com/p/1e7e6c3528d4) |
+| Thu, 09 Oct 2025 06:54:37 GMT | The Silent Partner: Why AI Belongs at the Heart of IT Operations | Arsalan Shemirani | [Read More](https://medium.com/p/7d31a0f847e6) |
+| Thu, 09 Oct 2025 06:53:30 GMT | How to Reconcile Female Strength and a Wounded Male Ego | Eli Cruz | [Read More](https://medium.com/p/631b3e5fd21c) |
+| Thu, 09 Oct 2025 06:51:42 GMT | The Daily Tech Digest: 09 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f56a0063acc3) |
+| Thu, 09 Oct 2025 06:50:44 GMT | EVOLUTION OF MONEY: FROM GOLD TO BITCOIN | Bénzïk | [Read More](https://medium.com/p/23b4b5f3ad98) |
+| Thu, 09 Oct 2025 06:50:31 GMT | ⏱️ Race Condition Vulnerability: When Speed Becomes the Enemy | NadSec | [Read More](https://medium.com/p/69315f95b13c) |
+| Thu, 09 Oct 2025 06:50:10 GMT | The Impact of Cybersecurity on Public Services | Cyber Security Research | [Read More](https://medium.com/p/8881b5db2b86) |
+| Thu, 09 Oct 2025 06:49:28 GMT | Password Manager vs. Manual Management: The Ultimate Guide for Teams in 2025 | Password Manager | [Read More](https://medium.com/p/508412ce011a) |
+| Thu, 09 Oct 2025 06:49:16 GMT | The Cybersecurity Mindset That Turned Me From a Coder Into a Protector | Muhummad Zaki | [Read More](https://medium.com/p/4362da57f904) |
+| Thu, 09 Oct 2025 06:43:41 GMT | The Role of Cybersecurity in Fishing | Cyber Security Research | [Read More](https://medium.com/p/4986edacc2da) |
+| Thu, 09 Oct 2025 06:40:48 GMT | Ensuring Safety and Peace of Mind: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/29cd6b4d373e) |
+| Thu, 09 Oct 2025 06:37:43 GMT | The Impact of Cybersecurity on Forestry | Cyber Security Research | [Read More](https://medium.com/p/88c013b69cc6) |
 | Thu, 09 Oct 2025 06:28:19 GMT | Top 10 Cybersecurity Career Options | Manisha Chaudhary | [Read More](https://medium.com/p/f3b8fb71c9a8) |
 | Thu, 09 Oct 2025 06:15:16 GMT | Understanding Semgrep — A Powerful Open-Source SAST Tool for Developers and Security Teams | Dean | [Read More](https://medium.com/p/a661af5e3a9f) |
 | Thu, 09 Oct 2025 06:02:38 GMT | Join our Cybersecurity Training Institute in Gurgaon and gain hands-on skills in Ethical Hacking… | Ankitchaudhary | [Read More](https://medium.com/p/7f4f37bb08b4) |
@@ -95,22 +114,3 @@ Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p
 | Thu, 09 Oct 2025 00:07:57 GMT | Implementing Enterprise-Grade Role-Based Access Control with Token Encryption in Angular | Ronik Dedhia | [Read More](https://medium.com/p/acd9f0ca7591) |
 | Thu, 09 Oct 2025 00:03:17 GMT | The Cybersecurity Trinity — CIA TRIAD✅ | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/e15bcbb7de4c) |
 | Wed, 08 Oct 2025 23:54:29 GMT | How I Became Silico: From Gaming Dreams to Red Team Reality | Silico | [Read More](https://medium.com/p/db4c5292a356) |
-| Wed, 08 Oct 2025 23:53:42 GMT | Configuring Encryption During Installation | Nurali ATMACA | [Read More](https://medium.com/p/a5186924d3db) |
-| Wed, 08 Oct 2025 23:53:12 GMT | Cisco Devices at Risk | Raviteja Mureboina | [Read More](https://medium.com/p/25c9d887a9c1) |
-| Wed, 08 Oct 2025 23:39:31 GMT | Unrestricted File Upload Labs | Omer Bawazir | [Read More](https://medium.com/p/2992e297dd2e) |
-| Wed, 08 Oct 2025 23:27:32 GMT | Need 24/7 Remote Security? | Visual Monitoring Solutions | [Read More](https://medium.com/p/b16e20d31c35) |
-| Wed, 08 Oct 2025 23:22:52 GMT | Why We Imagine Hackers in Hoodies | Rym Khelili | [Read More](https://medium.com/p/81b8692e482b) |
-| Wed, 08 Oct 2025 23:19:05 GMT | The Digital Guardian: How Encryption Protects Your Everyday Life | Peaches | [Read More](https://medium.com/p/2f7c49dd4ee5) |
-| Wed, 08 Oct 2025 23:10:53 GMT | Stop Clicking ‘Remind Me Later’ on Updates | Samirah A.O | [Read More](https://medium.com/p/b6bd4d43b8c8) |
-| Wed, 08 Oct 2025 22:55:48 GMT | The Digital Dark Knight | David ONeal | [Read More](https://medium.com/p/7e5778c0cea4) |
-| Wed, 08 Oct 2025 22:52:29 GMT | Can Your Smart TV Spy on You? Understanding Everyday Cyber Risks | Akshay Chauhan | [Read More](https://medium.com/p/a5f7a6207013) |
-| Wed, 08 Oct 2025 22:48:24 GMT | a letter to the me i was | notes from dylan | [Read More](https://medium.com/p/d96394102bdc) |
-| Wed, 08 Oct 2025 22:42:20 GMT | The Maharani of Modern Glamour | Maham Tanveer | [Read More](https://medium.com/p/12ce94e38d46) |
-| Wed, 08 Oct 2025 22:41:17 GMT | An Investigation of AMSI Evasion | John Ford | [Read More](https://medium.com/p/5ccacb217e06) |
-| Wed, 08 Oct 2025 22:39:46 GMT | The One Thing Everyone Forgets About Home Wi-Fi | Samirah A.O | [Read More](https://medium.com/p/1adc505c0f2d) |
-| Wed, 08 Oct 2025 22:36:27 GMT | Google’s New AI Doesn’t Just Spot Vulnerabilities — It Rewrites Code to Fix Them | Cyber-AppSec | [Read More](https://medium.com/p/a180e6606346) |
-| Wed, 08 Oct 2025 22:28:24 GMT | So Many Powerful Organizations… Yet Scams Keep Growing | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/04449501e4d3) |
-| Wed, 08 Oct 2025 22:18:01 GMT | Why Drosera Could Redefine the Future of Web3 Investing | Jude Johnson | [Read More](https://medium.com/p/13c6a2f01cda) |
-| Wed, 08 Oct 2025 22:15:10 GMT | AI HALLUCINATIONS ​⋆｡°✩ --- ⋆｡°✩ | Haven ✦ by the future | [Read More](https://medium.com/p/ce600062f89f) |
-| Wed, 08 Oct 2025 22:09:56 GMT | Social Engineering | John Odumesi | [Read More](https://medium.com/p/4f23a301336e) |
-| Wed, 08 Oct 2025 22:09:36 GMT | Intro to Network Analyst Walkthrough | Jose Diaz | [Read More](https://medium.com/p/7eec979cb581) |
