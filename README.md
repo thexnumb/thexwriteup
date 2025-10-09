@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 09:20:02 GMT | I say I don’t miss you, | q | [Read More](https://medium.com/p/5c9293b1e3ac) |
+| Thu, 09 Oct 2025 09:17:30 GMT | Identifying attack surfaces using drozer , understanding IPC and components in Android | Sadineni Sai Sushanth | [Read More](https://medium.com/p/efffe96e0aa4) |
+| Thu, 09 Oct 2025 09:13:47 GMT | Locked Lyrics: How Encryption Protects Every Line You Send Online | Sarthak Bagde | [Read More](https://medium.com/p/31abd85edc10) |
+| Thu, 09 Oct 2025 09:09:16 GMT | Linux Intrusion Detection | LinuxDev | [Read More](https://medium.com/p/72d68b320586) |
+| Thu, 09 Oct 2025 09:04:52 GMT | Transforming Business Efficiency and Innovation with Custom Software Development Services | Samon RIchard | [Read More](https://medium.com/p/98a328808b54) |
+| Thu, 09 Oct 2025 09:02:53 GMT | Linux Hardening Techniques | LinuxDev | [Read More](https://medium.com/p/aafe7ebe148b) |
+| Thu, 09 Oct 2025 09:02:32 GMT | The Worst Cyber Attacks of 2025 and in History: Lessons from Digital Battlegrounds | EuroAmerican Education Group | [Read More](https://medium.com/p/2e10ba1081ee) |
+| Thu, 09 Oct 2025 09:02:05 GMT | So… You Thought Your VPN Was Keeping You Safe and Secure? Think Again (Hacker’s Edition) | Very Lazy Tech | [Read More](https://medium.com/p/375e88188221) |
+| Thu, 09 Oct 2025 09:00:20 GMT | How I found Multiple Bugs on CHESS.COM & they refused | Ayush | [Read More](https://medium.com/p/1fa6e308ed1f) |
+| Thu, 09 Oct 2025 08:57:03 GMT | Tunnels in Plain Sight: DNS Tunneling for Exfil and C2 | CipherX9F Security | [Read More](https://medium.com/p/844daae01689) |
+| Thu, 09 Oct 2025 08:56:29 GMT | Inside the Mind Game of Digital Gaslighting – When Technology is used Against You | Andy Chaseworth | [Read More](https://medium.com/p/6ccab642a2f7) |
+| Thu, 09 Oct 2025 08:56:25 GMT | The Linux Security Handbook | LinuxDev | [Read More](https://medium.com/p/39a979118148) |
+| Thu, 09 Oct 2025 08:52:57 GMT | The #1 Reason Cybersecurity Startups Lose Deals — It’s Not the Product | Yuval Ben-itzhak | [Read More](https://medium.com/p/d3eca9af6790) |
+| Thu, 09 Oct 2025 08:49:42 GMT | The Illusion of Protection | Llama | [Read More](https://medium.com/p/45cd27c6a695) |
+| Thu, 09 Oct 2025 08:44:14 GMT | Linux Log Management | LinuxDev | [Read More](https://medium.com/p/713bb164597a) |
 | Thu, 09 Oct 2025 08:43:43 GMT | Critical WordPress Vulnerability Exposes Sites to Admin Takeover — What You Must Know… | Germano Costi | [Read More](https://medium.com/p/f066d740d085) |
 | Thu, 09 Oct 2025 08:32:24 GMT | DockerLabs Writeup — Library (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/426d48a7e71c) |
 | Thu, 09 Oct 2025 08:30:20 GMT | Welcome to The Tech Forte — Your Daily Dose of Tech Insights and Innovations | Alirazabajwa | [Read More](https://medium.com/p/b251eebf4ed5) |
@@ -98,18 +113,3 @@ Ever wondered… | Sudip Manna | [Read More](https://medium.com/p/d1bdb862f0de) 
 | Thu, 09 Oct 2025 03:40:32 GMT | Can We Build Systems That Are Secure by Default? | Saloni | [Read More](https://medium.com/p/b1f868848117) |
 | Thu, 09 Oct 2025 03:38:25 GMT | Don’t Hardcode Your API Key: Modern Python Config Management with Pydantic’s Secret Handling | Debra Ray | [Read More](https://medium.com/p/31526e556bd8) |
 | Thu, 09 Oct 2025 03:31:56 GMT | 5 Essential Tips for Advanced Error Handling in Node.js | Arunangshu Das | [Read More](https://medium.com/p/9304130fbb3b) |
-| Thu, 09 Oct 2025 03:29:14 GMT | Improving Security with .NET Aspire | Ivan Honchar | [Read More](https://medium.com/p/9f96c6860ad6) |
-| Thu, 09 Oct 2025 03:21:48 GMT | Tải Tiktok Lite APK (Full Tiền, No Watermark) v40.8.6 | BANDISHARE | [Read More](https://medium.com/p/b8dfe44ded5c) |
-| Thu, 09 Oct 2025 03:14:12 GMT | HackTheAgent by HackAIcon | Flappy Penguin | [Read More](https://medium.com/p/0656b81b5985) |
-| Thu, 09 Oct 2025 03:10:13 GMT | GoThreatScope: Building a Local MCP Server for Intelligent Security Scanning | anotherik | [Read More](https://medium.com/p/ecf690835d53) |
-| Thu, 09 Oct 2025 02:52:03 GMT | I Opened a Random URL in Incognito and Found a $750 Vulnerability | the_unlucky_guy | [Read More](https://medium.com/p/d8b04b0457c9) |
-| Thu, 09 Oct 2025 02:47:05 GMT | 21. Tips for Staying Consistent and Avoiding Burnout | Abhijeet kumawat | [Read More](https://medium.com/p/a6ebeef29c4f) |
-| Thu, 09 Oct 2025 02:46:16 GMT | Epsilon | Achmad Isma'il | [Read More](https://medium.com/p/fd4d616fe9cd) |
-| Thu, 09 Oct 2025 02:36:14 GMT | From Vulnerable to Secure: Practical Security Patterns in Go | Syarif | [Read More](https://medium.com/p/f3fbf25acedf) |
-| Thu, 09 Oct 2025 02:35:46 GMT | How to Pass Google’s Cloud Application Security Assessment (CASA) — Without Losing Your Mind | Hubert Bratek | [Read More](https://medium.com/p/807f73084c34) |
-| Thu, 09 Oct 2025 02:35:21 GMT | How I Automate Recon and Save 10+ Hours of Manual Work Weekly | Aj | [Read More](https://medium.com/p/a7f5833b7417) |
-| Thu, 09 Oct 2025 02:27:26 GMT | Buffer overflow 1 picoCTF binary exploitation | Michael Elfauz | [Read More](https://medium.com/p/50b721efb2a4) |
-| Thu, 09 Oct 2025 02:19:49 GMT | XML Primer — The Foundation You Must Know Before XXE | Muhammed Asfan - Cybersecurity Specialist | [Read More](https://medium.com/p/1fd822a291a6) |
-| Thu, 09 Oct 2025 02:17:47 GMT | Easly enable Kernal Live Kpatch from  cockpit | Vineesh | [Read More](https://medium.com/p/16979236bcac) |
-| Thu, 09 Oct 2025 02:11:22 GMT | Beyond FM: The Cyberpunk Future of Radio | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/76e7cfb24c31) |
-| Thu, 09 Oct 2025 02:07:35 GMT | How To Pass AWS: Certified Cloud Practitioner in a Week | Sanhith Dinavahi | [Read More](https://medium.com/p/ba7fcd27e72a) |
