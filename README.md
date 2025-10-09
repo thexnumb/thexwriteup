@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 08:43:43 GMT | Critical WordPress Vulnerability Exposes Sites to Admin Takeover — What You Must Know… | Germano Costi | [Read More](https://medium.com/p/f066d740d085) |
+| Thu, 09 Oct 2025 08:32:24 GMT | DockerLabs Writeup — Library (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/426d48a7e71c) |
+| Thu, 09 Oct 2025 08:30:20 GMT | Welcome to The Tech Forte — Your Daily Dose of Tech Insights and Innovations | Alirazabajwa | [Read More](https://medium.com/p/b251eebf4ed5) |
+| Thu, 09 Oct 2025 08:26:17 GMT | Counter-Leaking in AI-Driven Information Warfare | Lauri Korpela | [Read More](https://medium.com/p/fa4af18a95c7) |
+| Thu, 09 Oct 2025 08:26:06 GMT | Room (103): I LOVE U & MELISSA Analysis | blackXmask | [Read More](https://medium.com/p/28cac8218fd5) |
+| Thu, 09 Oct 2025 08:25:23 GMT | Menavigasi Dunia Siber: Catatan Kesimpulan HIERS FGD VIGOR 4.0 | FPCI Chapter UKSW | [Read More](https://medium.com/p/9c9709424d7a) |
+| Thu, 09 Oct 2025 08:23:18 GMT | Best OT/ICS Cybersecurity training in Delhi NCR | TheEvolvEdge | [Read More](https://medium.com/p/64b8344f2e20) |
+| Thu, 09 Oct 2025 08:21:38 GMT | Exploiting Authentication Flaws in Mobile Apps: Case Studies | Digital Defense | [Read More](https://medium.com/p/0c68731e94d6) |
+| Thu, 09 Oct 2025 08:19:06 GMT | Everything Engineers Know Is Going Outdated. And It’s Happening Right Now | Czarif | [Read More](https://medium.com/p/49d5028243d9) |
+| Thu, 09 Oct 2025 08:18:14 GMT | How Decentralized Systems Will Change the Way We Interact Online: The Promise of Web3 | Michael Emefienem | [Read More](https://medium.com/p/bd0dc006f391) |
 | Thu, 09 Oct 2025 08:12:50 GMT | Redis in 2025: Architecture, Scaling, Security, and Production Patterns with Node.js | Erhan Sönmez | [Read More](https://medium.com/p/570dcefb277c) |
 | Thu, 09 Oct 2025 08:12:05 GMT | HPC systems process some of the world’s most sensitive data, yet security guidance is sparse | John Constable | [Read More](https://medium.com/p/573707aada8d) |
 | Thu, 09 Oct 2025 07:54:28 GMT | How LegalTech Protects Your Data: Security and Privacy in 2026 | KnubiSoft | [Read More](https://medium.com/p/9434866abefc) |
@@ -103,13 +113,3 @@ Ever wondered… | Sudip Manna | [Read More](https://medium.com/p/d1bdb862f0de) 
 | Thu, 09 Oct 2025 02:17:47 GMT | Easly enable Kernal Live Kpatch from  cockpit | Vineesh | [Read More](https://medium.com/p/16979236bcac) |
 | Thu, 09 Oct 2025 02:11:22 GMT | Beyond FM: The Cyberpunk Future of Radio | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/76e7cfb24c31) |
 | Thu, 09 Oct 2025 02:07:35 GMT | How To Pass AWS: Certified Cloud Practitioner in a Week | Sanhith Dinavahi | [Read More](https://medium.com/p/ba7fcd27e72a) |
-| Thu, 09 Oct 2025 02:06:29 GMT | Enhancing Docker Security: Strategies and Practices | @rnab | [Read More](https://medium.com/p/39f244802a39) |
-| Thu, 09 Oct 2025 02:05:26 GMT | The best cheap VPN in 2025: Our top picks starting at just $1.99/mo | Safelyo VPN | [Read More](https://medium.com/p/52ad677a1596) |
-| Thu, 09 Oct 2025 02:03:18 GMT | Ghost Mode Engaged: Practical Privacy for the Everyday Operator | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/27bcc13b1531) |
-| Thu, 09 Oct 2025 01:44:11 GMT | ️ Cyber Guardians: Why Digital Awareness Starts at Home | Ranith Dharmarathne | [Read More](https://medium.com/p/907e3d8602fb) |
-| Thu, 09 Oct 2025 01:34:47 GMT | Intimacy Isn’t Just About Sex | Jacqueline Tydus - Content Creator - Solopreneur | [Read More](https://medium.com/p/0c9c06466ca1) |
-| Thu, 09 Oct 2025 01:33:31 GMT | Can VPN Be Hacked? The Honest Answer & 4 Things To Do | Safelyo Global | [Read More](https://medium.com/p/ac68812a9087) |
-| Thu, 09 Oct 2025 01:27:14 GMT | The Age-Old Question, OSCP or CPTS? | Zumi Yumi | [Read More](https://medium.com/p/408594a99b68) |
-| Thu, 09 Oct 2025 01:26:54 GMT | HackTheBox (BabyTwo) | SilentExploit | [Read More](https://medium.com/p/405d4701a4fa) |
-| Thu, 09 Oct 2025 01:12:48 GMT | Autopsy em Ação: Análise básica de uma Imagem de Windows | Lucas Soeiro | [Read More](https://medium.com/p/f02dcf6b8530) |
-| Thu, 09 Oct 2025 01:11:08 GMT | The Day My AI Assistant Almost Brought Down Our Application | Sreekesh Okky | [Read More](https://medium.com/p/332272ee0327) |
