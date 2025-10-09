@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 04:41:29 GMT | TO BECOME A SOC EXPERT(DAY-9) | vulnhunter | [Read More](https://medium.com/p/a601e9e69681) |
+| Thu, 09 Oct 2025 04:27:22 GMT | Top Tech Skill Demand | Jerushansoysa | [Read More](https://medium.com/p/ceb4eb14813a) |
+| Thu, 09 Oct 2025 04:27:07 GMT | What is VoIP (Voice Over Internet Protocol)? | InfosecTrain | [Read More](https://medium.com/p/88e38b9854ca) |
+| Thu, 09 Oct 2025 04:19:48 GMT | Corporate Crisis | Creepus | [Read More](https://medium.com/p/0b16f3b0f4a4) |
+| Thu, 09 Oct 2025 04:10:32 GMT | What in the world is Google Cloud DLP? | Sudheer | [Read More](https://medium.com/p/1214be446fe7) |
 | Thu, 09 Oct 2025 04:10:01 GMT | When Trust Becomes a Target: The Salesforce Breach and the Illusion of Platform Safety in the Age… | Moiz Kothari | [Read More](https://medium.com/p/36dc982f6567) |
 | Thu, 09 Oct 2025 04:09:18 GMT | The Eighth Angel: The Embryo Angel “Sandalphon” — Dynamic Transformation and Rebirth in AI Systems | Scott Huang | [Read More](https://medium.com/p/74c8000ffd89) |
 | Thu, 09 Oct 2025 04:01:42 GMT | Deliverables, Artifacts, and Building Blocks: Decoding the Architecture Content Framework in TOGAF® | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/5c308ff9ef35) |
@@ -109,8 +114,3 @@ Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p
 | Wed, 08 Oct 2025 20:48:13 GMT | Simpson’s Paradox in Cybersecurity: Why Your New Security Tool May Be Less Effective Than the One… | Patrick Lefler | [Read More](https://medium.com/p/fc7b01ebc564) |
 | Wed, 08 Oct 2025 20:46:42 GMT | How do you get your dev team to shift left by themselves for real? | Johan Sydseter | [Read More](https://medium.com/p/8a5667336c3b) |
 | Wed, 08 Oct 2025 20:43:36 GMT | Analyzing a Malicious PCAP with Wireshark — step-by-step case study | Nabyl OUCHINE | [Read More](https://medium.com/p/17e7be6484c3) |
-| Wed, 08 Oct 2025 20:41:19 GMT | Hiring a Hacker in 2025: Navigating Risks and Technical Realities | SinVictus | [Read More](https://medium.com/p/5d2312a54086) |
-| Wed, 08 Oct 2025 20:38:08 GMT | Hunting Supply Chain Implants | Deniz Topaloglu | [Read More](https://medium.com/p/a75814fe2129) |
-| Wed, 08 Oct 2025 20:36:32 GMT | Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases | Faav | [Read More](https://medium.com/p/74a301364e76) |
-| Wed, 08 Oct 2025 20:35:59 GMT | How AI is Transforming Cybersecurity: Insights from Google’s Heather Adkins | Biplove Yadav | [Read More](https://medium.com/p/e274a4464a7b) |
-| Wed, 08 Oct 2025 20:32:59 GMT | The Essential Role of Firewalls in Network Security | Ed-it Editions | [Read More](https://medium.com/p/d67df32ab716) |
