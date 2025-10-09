@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 15:29:39 GMT | Exploiting CVE-2025–38561 | Toshith | [Read More](https://medium.com/p/151b60e7fa3f) |
+| Thu, 09 Oct 2025 15:22:04 GMT | Your Social Posts of Your Kids — Is a Danger to Them | Matthew.Rosenquist | [Read More](https://medium.com/p/9c8d1846e269) |
+| Thu, 09 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/4b8bc7fad4ab) |
+| Thu, 09 Oct 2025 15:09:09 GMT | Taming Outbound DNS: Using AWS Route 53 DNS Firewall to Control and Audit What Your Services… | More Than Monkeys | [Read More](https://medium.com/p/0826924d4b57) |
+| Thu, 09 Oct 2025 15:06:26 GMT | Cloud Storage Explained in Simple Words | Karnjuhi | [Read More](https://medium.com/p/393cff8894f4) |
+| Thu, 09 Oct 2025 15:04:15 GMT | The Forgiveness I’m Still Learning to Give | Darpan Murly | [Read More](https://medium.com/p/06e95e369423) |
 | Thu, 09 Oct 2025 14:55:41 GMT | Announcing Our Investment in SafeHill | Peri Ehlman | [Read More](https://medium.com/p/9d1573098adb) |
 | Thu, 09 Oct 2025 14:51:01 GMT | Why Mandala Siber Exists, and What We’re Trying to Build | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/b06fbb804388) |
 | Thu, 09 Oct 2025 14:48:01 GMT | By Dec 31, 2025, will a reputable primary source (Oracle, CISA, Mandiant/MSTIC, affected org’s SEC… | Wes Young | [Read More](https://medium.com/p/206f5e0cd8f4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 11:08:05 GMT | Exploring Next-Generation Firewalls (NGFWs) | Cyber Security Research | [Read More](https://medium.com/p/742177760646) |
 | Thu, 09 Oct 2025 11:04:48 GMT | 99% of Developers Don’t Understand JWT and OAuth | Random Access | [Read More](https://medium.com/p/487d5063c493) |
 | Thu, 09 Oct 2025 11:01:28 GMT | Best VPN Tools for Online Privacy & Security in 2025 | Consentrix Technologies | [Read More](https://medium.com/p/e3520fa46402) |
-| Thu, 09 Oct 2025 11:01:27 GMT | “Your AI assistant might be leaking your company’s data right now.” | Vyz Solutions | [Read More](https://medium.com/p/f94604e0cea2) |
-| Thu, 09 Oct 2025 11:01:14 GMT | Two Timestamps, One Message: Why WebSocket Systems Need Both | Konstantin Tarkus | [Read More](https://medium.com/p/059e186b2a55) |
-| Thu, 09 Oct 2025 10:59:48 GMT | Security Orchestration, Automation and Response (SOAR) | Cyber Security Research | [Read More](https://medium.com/p/b78ef92b2d3f) |
-| Thu, 09 Oct 2025 10:53:28 GMT | Deception Technology: Turning the Tables on Attackers | Cyber Security Research | [Read More](https://medium.com/p/64e28033f457) |
-| Thu, 09 Oct 2025 10:52:21 GMT | Dialling into Danger: CVE-2025–57819 and the Collapse of Endpoint Trust in FreePBX | gm0 | [Read More](https://medium.com/p/0a28f73a2525) |
-| Thu, 09 Oct 2025 10:50:37 GMT | Stormy Seas Ahead: How Cyberattacks Threaten Maritime Shipping | Redfox Security | [Read More](https://medium.com/p/c0d210e2debe) |
