@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 03:44:47 GMT | The Phishing Playbook: A Hacker's Guide to Deception & A Defender's Guide to Survival
+Ever wondered… | Sudip Manna | [Read More](https://medium.com/p/d1bdb862f0de) |
+| Thu, 09 Oct 2025 03:40:53 GMT | IDOR Epidemic: How I Found 57 Insecure Direct Object References in One Codebase | Iski | [Read More](https://medium.com/p/0bfab17d156a) |
+| Thu, 09 Oct 2025 03:40:32 GMT | Can We Build Systems That Are Secure by Default? | Saloni | [Read More](https://medium.com/p/b1f868848117) |
+| Thu, 09 Oct 2025 03:38:25 GMT | Don’t Hardcode Your API Key: Modern Python Config Management with Pydantic’s Secret Handling | Debra Ray | [Read More](https://medium.com/p/31526e556bd8) |
+| Thu, 09 Oct 2025 03:31:56 GMT | 5 Essential Tips for Advanced Error Handling in Node.js | Arunangshu Das | [Read More](https://medium.com/p/9304130fbb3b) |
+| Thu, 09 Oct 2025 03:21:48 GMT | Tải Tiktok Lite APK (Full Tiền, No Watermark) v40.8.6 | BANDISHARE | [Read More](https://medium.com/p/b8dfe44ded5c) |
+| Thu, 09 Oct 2025 03:14:12 GMT | HackTheAgent by HackAIcon | Flappy Penguin | [Read More](https://medium.com/p/0656b81b5985) |
+| Thu, 09 Oct 2025 03:10:13 GMT | GoThreatScope: Building a Local MCP Server for Intelligent Security Scanning | anotherik | [Read More](https://medium.com/p/ecf690835d53) |
 | Thu, 09 Oct 2025 02:52:03 GMT | I Opened a Random URL in Incognito and Found a $750 Vulnerability | the_unlucky_guy | [Read More](https://medium.com/p/d8b04b0457c9) |
 | Thu, 09 Oct 2025 02:47:05 GMT | 21. Tips for Staying Consistent and Avoiding Burnout | Abhijeet kumawat | [Read More](https://medium.com/p/a6ebeef29c4f) |
 | Thu, 09 Oct 2025 02:36:14 GMT | From Vulnerable to Secure: Practical Security Patterns in Go | Syarif | [Read More](https://medium.com/p/f3fbf25acedf) |
@@ -105,11 +114,3 @@ Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p
 | Wed, 08 Oct 2025 19:46:32 GMT | Security and Performance Aspects of HugePages Configuration | Eren Cankut Uysal | [Read More](https://medium.com/p/b81decdf1a1c) |
 | Wed, 08 Oct 2025 19:42:58 GMT | Opportunity Makes the Cyber Thief | Spectre Vaughan Intelligence | [Read More](https://medium.com/p/b4a31698aa99) |
 | Wed, 08 Oct 2025 19:39:52 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/d7e7befa68dd) |
-| Wed, 08 Oct 2025 19:33:32 GMT | Enterprise Security | Musa Kocak | [Read More](https://medium.com/p/f85706aea9be) |
-| Wed, 08 Oct 2025 19:33:14 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/52cf08d26438) |
-| Wed, 08 Oct 2025 19:31:55 GMT | “The Machine That Sounds Like My Colleague: Reflections of an IT Technician on AI, Trust, and the… | Visionstudios | [Read More](https://medium.com/p/1f649ffab734) |
-| Wed, 08 Oct 2025 19:27:18 GMT | The New Age of Romance Scams: How to Avoid Becoming a Victim in 2025 | Internet Exposed | [Read More](https://medium.com/p/463d1d82c4bd) |
-| Wed, 08 Oct 2025 19:21:54 GMT | SSRF’s: A Gateway Drug To Other Vulnerabilities | Jen Cracchiola | [Read More](https://medium.com/p/096fdc7b8d6e) |
-| Wed, 08 Oct 2025 19:15:39 GMT | Cloud App Monitoring: Ensuring Performance, Security, and Reliability in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/ef7d058e7da4) |
-| Wed, 08 Oct 2025 19:14:04 GMT | Recovering Deleted Files on Windows with PhotoRec (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/e130965d7884) |
-| Wed, 08 Oct 2025 19:01:10 GMT | SOC 2 Type I vs Type II: Understanding the Difference and Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/ee18de6590c2) |
