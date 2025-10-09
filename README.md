@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 21:24:53 GMT | Perchè il Dark Web interessa ai Marketer? | Syria | [Read More](https://medium.com/p/4007aefc55a4) |
+| Thu, 09 Oct 2025 21:18:32 GMT | The Rise of AI-Powered Phishing | Matthew.Rosenquist | [Read More](https://medium.com/p/41f6c6adee57) |
+| Thu, 09 Oct 2025 21:13:52 GMT | HacktheBox: Soccer Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/40e62ff1d49b) |
 | Thu, 09 Oct 2025 21:11:34 GMT | Dumping Windows Credential Manager Vault | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a5b41ffaa734) |
+| Thu, 09 Oct 2025 21:08:09 GMT | Clouds of Chaos: Inside Telegram’s Hidden Economy of Stealer Logs | Shubham Nayak | [Read More](https://medium.com/p/770651a7f3fe) |
 | Thu, 09 Oct 2025 21:06:41 GMT | Wallet Wisdom: Secure Your Crypto Empire | Wifi Mochi | [Read More](https://medium.com/p/682cc5b09f4c) |
 | Thu, 09 Oct 2025 21:01:46 GMT | The Missing Link in Healthcare Reform: Information Technology as Lifesaver | Hoperays Health Solutions | [Read More](https://medium.com/p/9cf008ae6ab4) |
 | Thu, 09 Oct 2025 21:00:06 GMT | AWS Security Hub: The Chronicles of Central Configuration | Thomas Pepper | [Read More](https://medium.com/p/42e2a0a03705) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 15:33:46 GMT | 5 Projects That Will Land You a Cybersecurity Job | Aj | [Read More](https://medium.com/p/298c13216507) |
 | Thu, 09 Oct 2025 15:32:12 GMT | How to Change the Frequency on a Garage Door Opener: What You Need to Know | Up & Down Garage Door Services | [Read More](https://medium.com/p/0770a7e4f2af) |
 | Thu, 09 Oct 2025 15:32:11 GMT | Top 10 JS Security Headers That Don’t Slow Your Site | Hash Block | [Read More](https://medium.com/p/3a00dd738b7d) |
-| Thu, 09 Oct 2025 15:29:39 GMT | Exploiting CVE-2025–38561 | Toshith | [Read More](https://medium.com/p/151b60e7fa3f) |
-| Thu, 09 Oct 2025 15:29:01 GMT | If You Don’t Spend Enough Time Getting to Know Yourself, You’ll End Up Absorbing Everyone Else’s… | Vijay Kumar Gupta | [Read More](https://medium.com/p/c0bee9270298) |
-| Thu, 09 Oct 2025 15:27:54 GMT | Jen’s Take On The Three Little Pigs…and Insecure Design | Jen Cracchiola | [Read More](https://medium.com/p/7fa132a4f211) |
-| Thu, 09 Oct 2025 15:22:10 GMT | Yurei Ransomware: The Rise of a Double-Extortion Threat and What SOC Teams Need to Know | Aditya Sharma | [Read More](https://medium.com/p/e4fce22c7191) |
