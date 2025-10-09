@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 05:24:45 GMT | Cyber Guns for Hire: Unmasking the Indian Subcontinent’s Shadowy Hacking Empire | Cyber Warfare Asia | [Read More](https://medium.com/p/566bc768929b) |
+| Thu, 09 Oct 2025 05:18:07 GMT | Docker Explained Simply — Part 1: The Magic Box That Ends “It Works on My Machine” | NizzCorp Academy | [Read More](https://medium.com/p/27edbcee4514) |
 | Thu, 09 Oct 2025 05:16:20 GMT | Invisible Security Layers That Make PHP APIs Tamper-Proof | Asian Digital Hub | [Read More](https://medium.com/p/284e5309a883) |
 | Thu, 09 Oct 2025 05:16:10 GMT | ⚠️ Beware: How WhatsApp Phishing Through Images & Videos Is Hacking Millions | Geeky Vartika | [Read More](https://medium.com/p/ccf4e28f95c0) |
+| Thu, 09 Oct 2025 05:11:10 GMT | Strix: The Open-Source AI Agent for Security Testing | Manish Shivanandhan | [Read More](https://medium.com/p/44e1ed244a9d) |
 | Thu, 09 Oct 2025 05:02:56 GMT | Authentication vulnerabilities | Ashutosh Jena | [Read More](https://medium.com/p/9926fa8f9806) |
+| Thu, 09 Oct 2025 05:02:25 GMT | ประจำวันพฤหัสบดีที่ 9 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ad351276f154) |
 | Thu, 09 Oct 2025 05:00:14 GMT | How I Used Python to Spy (Legally) on 3,000 Laptops | Vishal Gupta | [Read More](https://medium.com/p/af5f2e12662f) |
 | Thu, 09 Oct 2025 04:58:56 GMT | The Hidden Backdoor in Your App: Fixing API Security Before It’s Too Late | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/4c4470cae61c) |
 | Thu, 09 Oct 2025 04:58:05 GMT | Managed IT Services: Why Companies in UAE Are Investing in Them | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/e8dc36ffeb08) |
@@ -110,7 +114,3 @@ Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p
 | Wed, 08 Oct 2025 21:49:31 GMT | Day 3 of my Cybersecurity Journey: Wrapping Up the Linux Fundamentals | Ogundipe Priscilla | [Read More](https://medium.com/p/f71f387e4346) |
 | Wed, 08 Oct 2025 21:48:11 GMT | TryHackMe #104 - Incident handling with Splunk | SiberYuk | [Read More](https://medium.com/p/9b6e849c095b) |
 | Wed, 08 Oct 2025 21:42:55 GMT | Why Most Grads Fail to Land a Job in Cybersecurity (And How to Fix It) | Yua Mikanana | [Read More](https://medium.com/p/9fcf967b6408) |
-| Wed, 08 Oct 2025 21:30:27 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/daaa4a0e752c) |
-| Wed, 08 Oct 2025 21:27:09 GMT | The Real Reason Most People Don’t Get Safer Online | The Online Safety Zone | [Read More](https://medium.com/p/a2b86385046a) |
-| Wed, 08 Oct 2025 21:24:16 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/7645f640ebd0) |
-| Wed, 08 Oct 2025 21:17:33 GMT | The Passback Secret | R. Eric Kiser | [Read More](https://medium.com/p/41e089c0f296) |
