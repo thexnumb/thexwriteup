@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 16:23:20 GMT | Zero Trust in 2025: The New IAM Imperative for Cloud Security | Abhilash | [Read More](https://medium.com/p/770a007ea1b2) |
+| Thu, 09 Oct 2025 16:19:20 GMT | Is chainbitcoins.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/563f25e3b01b) |
+| Thu, 09 Oct 2025 16:17:46 GMT | The Human Side of Cybersecurity | Ahmed.Saltah | [Read More](https://medium.com/p/fc62402b10a4) |
+| Thu, 09 Oct 2025 16:16:03 GMT | Introduction to Information Protection & Data Governance in Microsoft 365 | Wesley Duel Swann | [Read More](https://medium.com/p/469d8ded7c08) |
+| Thu, 09 Oct 2025 16:10:19 GMT | A dev’s guide to navigating ATO | Via Knowledge Hub | [Read More](https://medium.com/p/a817750f920c) |
+| Thu, 09 Oct 2025 16:10:07 GMT | wealthfrontstock.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/fd96408dffa4) |
+| Thu, 09 Oct 2025 16:08:09 GMT | Professional Event Security: Solving the Hidden Challenges Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/172a7867bbc8) |
+| Thu, 09 Oct 2025 16:03:15 GMT | Is AELs-Exchange.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/f81aff3a938a) |
+| Thu, 09 Oct 2025 15:59:42 GMT | Security Protocols: Full Guide with Code, Use Cases & Architecture. | Pranav Bahuguna | [Read More](https://medium.com/p/dc8c9f62a660) |
+| Thu, 09 Oct 2025 15:52:02 GMT | Can You Trust H5.coinbridbge.me? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/206fc51c3e0e) |
 | Thu, 09 Oct 2025 15:41:22 GMT | Virtualization : A Must Know Only | Cyber.H0und | [Read More](https://medium.com/p/d6c30950c836) |
 | Thu, 09 Oct 2025 15:38:29 GMT | Evolving Cybersecurity Landscape: From Basic Protection to Quantum Threats | Xcelplex | [Read More](https://medium.com/p/bec58387dd98) |
 | Thu, 09 Oct 2025 15:34:02 GMT | Post-Quantum Cryptography: Prepare Now or Panic Later | R A N A   A H M A D | [Read More](https://medium.com/p/37b6c700f883) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 12:03:30 GMT | Firewalld Advanced Rules for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/5454c690f09d) |
 | Thu, 09 Oct 2025 11:56:05 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/75e401eeeffb) |
 | Thu, 09 Oct 2025 11:52:20 GMT | How to Prove You’re You Without Saying Who You Are | Millicent Sefaidiga | [Read More](https://medium.com/p/4cbfcde5d1e6) |
-| Thu, 09 Oct 2025 11:50:55 GMT | Handling CAPTCHAs in Cypress: Spoiler Alert — It’s Ugly | Mario Frohlich | [Read More](https://medium.com/p/88a7ed721a9b) |
-| Thu, 09 Oct 2025 11:49:33 GMT | Choosing a secrets storage: HashiCorp Vault vs OpenBao | Sergio Rua | [Read More](https://medium.com/p/e52792bcd284) |
-| Thu, 09 Oct 2025 11:49:25 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/43094fc19b27) |
-| Thu, 09 Oct 2025 11:44:15 GMT | Mastering Office Automation with Python: My Journey to a Smarter Workday | Kainat Nafees | [Read More](https://medium.com/p/fe12b7ef4c3d) |
-| Thu, 09 Oct 2025 11:42:13 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/2a39a49f83e2) |
-| Thu, 09 Oct 2025 11:34:41 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/7ba697b2bcdd) |
-| Thu, 09 Oct 2025 11:32:03 GMT | Wazuh + N8N Integration Almost Beat Me — But Giving Up Wasn’t an Option | Manish Rawat | [Read More](https://medium.com/p/1af20f4340a0) |
-| Thu, 09 Oct 2025 11:32:02 GMT | Splunking with Zeek Part 3 | Luke | [Read More](https://medium.com/p/9f3f638f2f8b) |
-| Thu, 09 Oct 2025 11:27:19 GMT | Threat Mitigation plan with Incident Response | NetWitness | [Read More](https://medium.com/p/6634925e906f) |
-| Thu, 09 Oct 2025 11:26:44 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/f2855e736dd0) |
