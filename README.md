@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 19:16:01 GMT | The Gap Between Watching AI Videos and Actually Understanding Them | Gil S. | [Read More](https://medium.com/p/7cbfcfa7ffca) |
+| Thu, 09 Oct 2025 19:14:54 GMT | A Story About Time | Rodolfo Meza | [Read More](https://medium.com/p/83ef02cd138a) |
+| Thu, 09 Oct 2025 19:08:17 GMT | Bloodstream Firmware: The Next Frontier of Self-Modification | Aeon Dexrane | [Read More](https://medium.com/p/41a7afde6a86) |
+| Thu, 09 Oct 2025 19:08:15 GMT | I found the original content difficult to read and understand, so I decided to leverage a large… | Khurshid Hassan | [Read More](https://medium.com/p/55b92dbfc1f6) |
+| Thu, 09 Oct 2025 18:48:00 GMT | Introduction to BYOC(Bring Your Own Container) | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/a50800a174d9) |
+| Thu, 09 Oct 2025 18:47:26 GMT | TryHackMe Writeup: LazyAdmin | Berkay AĞGÜL | [Read More](https://medium.com/p/69afad775c25) |
+| Thu, 09 Oct 2025 18:47:03 GMT | Production-Ready AI Agents: Cloudflare’s Code Mode Solution | Valdez Ladd | [Read More](https://medium.com/p/3f81f666421f) |
+| Thu, 09 Oct 2025 18:43:51 GMT | PortSwigger mystery lab write-up. | Hubert | [Read More](https://medium.com/p/1cecfe9e9c04) |
 | Thu, 09 Oct 2025 18:34:31 GMT | Issue #2 — Secure MCP and Shadow AI | Dan Mahoney | [Read More](https://medium.com/p/7bd9713da207) |
 | Thu, 09 Oct 2025 18:17:32 GMT | Security Awareness Training | simuphish | [Read More](https://medium.com/p/dd54f1b06cda) |
 | Thu, 09 Oct 2025 18:10:50 GMT | Business Logic Error - Bypassing Payment with Test Cards | Umanhonlen Gabriel | [Read More](https://medium.com/p/77c6e3c36f16) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 14:04:47 GMT | Efficiency and Performance — Powering Protection with Less Than 100KB | Abatis ABTU | [Read More](https://medium.com/p/9ac5c8511b7d) |
 | Thu, 09 Oct 2025 14:02:49 GMT | Retorno / Return | Kayky | [Read More](https://medium.com/p/410b208fa53b) |
 | Thu, 09 Oct 2025 14:02:07 GMT | Fortifying Your Data Perimeter: Malicious IP Protection in Snowflake | Rajiv Gupta | [Read More](https://medium.com/p/53dbaddf6867) |
-| Thu, 09 Oct 2025 14:02:03 GMT | Part 10: Active Scanning — A Practical Guide (Nmap Examples & Best Practices) | Intelithics | [Read More](https://medium.com/p/334913f27063) |
-| Thu, 09 Oct 2025 14:02:02 GMT | Cyber Briefing: 2025.10.09 | CyberMaterial | [Read More](https://medium.com/p/5e6a7df77a4f) |
-| Thu, 09 Oct 2025 14:01:47 GMT | Cyberdefenders HoneyBot Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/18e50cac3c33) |
-| Thu, 09 Oct 2025 14:01:27 GMT | Stop Intruders in Their Tracks: Get an Email Every Time Someone Logs In via SSH | Konstantinos Patronas | [Read More](https://medium.com/p/603a97d1a7e2) |
-| Thu, 09 Oct 2025 13:56:36 GMT | LetsDefend — SOC Simulator | Kayky | [Read More](https://medium.com/p/0422cb0624ee) |
-| Thu, 09 Oct 2025 13:52:51 GMT | NGINX SSL Proxy with Let’s Encrypt The Complete Guide to Docker | Mahernaija | [Read More](https://medium.com/p/e8770747a4c3) |
-| Thu, 09 Oct 2025 13:51:59 GMT | Bugs Review, Cantina, Gauntlet | typicalHuman | [Read More](https://medium.com/p/0db7800a7ac4) |
-| Thu, 09 Oct 2025 13:47:34 GMT | Essay on AI | Wassim TURKI | [Read More](https://medium.com/p/09bb5fbe33f7) |
