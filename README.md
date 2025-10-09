@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 05:16:20 GMT | Invisible Security Layers That Make PHP APIs Tamper-Proof | Asian Digital Hub | [Read More](https://medium.com/p/284e5309a883) |
+| Thu, 09 Oct 2025 05:16:10 GMT | ⚠️ Beware: How WhatsApp Phishing Through Images & Videos Is Hacking Millions | Geeky Vartika | [Read More](https://medium.com/p/ccf4e28f95c0) |
+| Thu, 09 Oct 2025 05:02:56 GMT | Authentication vulnerabilities | Ashutosh Jena | [Read More](https://medium.com/p/9926fa8f9806) |
+| Thu, 09 Oct 2025 05:00:14 GMT | How I Used Python to Spy (Legally) on 3,000 Laptops | Vishal Gupta | [Read More](https://medium.com/p/af5f2e12662f) |
+| Thu, 09 Oct 2025 04:58:56 GMT | The Hidden Backdoor in Your App: Fixing API Security Before It’s Too Late | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/4c4470cae61c) |
+| Thu, 09 Oct 2025 04:58:05 GMT | Managed IT Services: Why Companies in UAE Are Investing in Them | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/e8dc36ffeb08) |
+| Thu, 09 Oct 2025 04:57:23 GMT | The Black Magic of “Nano Banana”: Your Selfies, Their Secrets | Iflal Ismalebbe | [Read More](https://medium.com/p/d0c3b88d858c) |
+| Thu, 09 Oct 2025 04:53:42 GMT | Our Shared Humanity Lies in Our Vulnerability | Almost Stable - by Lyxia | [Read More](https://medium.com/p/6e99060ddc3c) |
+| Thu, 09 Oct 2025 04:46:53 GMT | Cracking a .NET Reactor Protected Executable: A Reverse Engineering Challenge | Rubber Pirate | [Read More](https://medium.com/p/73248c55fb8b) |
 | Thu, 09 Oct 2025 04:41:29 GMT | TO BECOME A SOC EXPERT(DAY-9) | vulnhunter | [Read More](https://medium.com/p/a601e9e69681) |
 | Thu, 09 Oct 2025 04:27:22 GMT | Top Tech Skill Demand | Jerushansoysa | [Read More](https://medium.com/p/ceb4eb14813a) |
 | Thu, 09 Oct 2025 04:27:07 GMT | What is VoIP (Voice Over Internet Protocol)? | InfosecTrain | [Read More](https://medium.com/p/88e38b9854ca) |
@@ -105,12 +114,3 @@ Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p
 | Wed, 08 Oct 2025 21:27:09 GMT | The Real Reason Most People Don’t Get Safer Online | The Online Safety Zone | [Read More](https://medium.com/p/a2b86385046a) |
 | Wed, 08 Oct 2025 21:24:16 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/7645f640ebd0) |
 | Wed, 08 Oct 2025 21:17:33 GMT | The Passback Secret | R. Eric Kiser | [Read More](https://medium.com/p/41e089c0f296) |
-| Wed, 08 Oct 2025 21:01:43 GMT | A Business Masterclass for the Modern Tech Leader | Tim Murkomen | [Read More](https://medium.com/p/0ffbe802df5b) |
-| Wed, 08 Oct 2025 21:00:36 GMT | The Impact of Cybersecurity on Retail | Cyber Security Research | [Read More](https://medium.com/p/41d64754dc6c) |
-| Wed, 08 Oct 2025 20:57:05 GMT | Data Privacy and Governance in Offensive Security: Pentesting & Red-Teaming in the AI Age | Juan Pablo Castro | [Read More](https://medium.com/p/f0a46514b353) |
-| Wed, 08 Oct 2025 20:54:09 GMT | The Role of Cybersecurity in Energy | Cyber Security Research | [Read More](https://medium.com/p/e32f7a18156f) |
-| Wed, 08 Oct 2025 20:52:32 GMT | My Beginner’s Analysis in Cybersecurity: Understanding SMS Phishing from Scratch (Bilingual: Arabic… | DARC.blog | [Read More](https://medium.com/p/290c7aaee12f) |
-| Wed, 08 Oct 2025 20:48:25 GMT | The First Malicious MCP Server is a Warning Shot for AI Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/0d55cad4ab6a) |
-| Wed, 08 Oct 2025 20:48:13 GMT | Simpson’s Paradox in Cybersecurity: Why Your New Security Tool May Be Less Effective Than the One… | Patrick Lefler | [Read More](https://medium.com/p/fc7b01ebc564) |
-| Wed, 08 Oct 2025 20:46:42 GMT | How do you get your dev team to shift left by themselves for real? | Johan Sydseter | [Read More](https://medium.com/p/8a5667336c3b) |
-| Wed, 08 Oct 2025 20:43:36 GMT | Analyzing a Malicious PCAP with Wireshark — step-by-step case study | Nabyl OUCHINE | [Read More](https://medium.com/p/17e7be6484c3) |
