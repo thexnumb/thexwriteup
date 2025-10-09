@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 06:28:19 GMT | Top 10 Cybersecurity Career Options | Manisha Chaudhary | [Read More](https://medium.com/p/f3b8fb71c9a8) |
+| Thu, 09 Oct 2025 06:15:16 GMT | Understanding Semgrep — A Powerful Open-Source SAST Tool for Developers and Security Teams | Dean | [Read More](https://medium.com/p/a661af5e3a9f) |
+| Thu, 09 Oct 2025 06:02:38 GMT | Join our Cybersecurity Training Institute in Gurgaon and gain hands-on skills in Ethical Hacking… | Ankitchaudhary | [Read More](https://medium.com/p/7f4f37bb08b4) |
+| Thu, 09 Oct 2025 06:01:49 GMT | How Event Security Services in Singapore Contribute to a Positive Guest Experience | Jane Tang | [Read More](https://medium.com/p/eb7a18a46b05) |
+| Thu, 09 Oct 2025 05:56:10 GMT | Top 10 Angular Development Companies in the US That’ll Supercharge Your Next Project | P Girish | [Read More](https://medium.com/p/0f4ba5c02274) |
+| Thu, 09 Oct 2025 05:55:20 GMT | GZR Observer — Global Daily — Oct 8, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/89a680c2ff6b) |
+| Thu, 09 Oct 2025 05:47:39 GMT | Mastering Auditd Advanced Usage in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/e3fd9a9c0331) |
+| Thu, 09 Oct 2025 05:44:46 GMT | From Default to Fortified → The PHP Hardening Playbook | Asian Digital Hub | [Read More](https://medium.com/p/30baaa6c0b3b) |
+| Thu, 09 Oct 2025 05:40:36 GMT | The Linux Security Journey — LKRG (Linux Kernel Runtime Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/38aa262d4bc6) |
+| Thu, 09 Oct 2025 05:39:32 GMT | Python for Investment and Stock Analysis | Kainat Nafees | [Read More](https://medium.com/p/ac5ca8eb58b0) |
+| Thu, 09 Oct 2025 05:39:26 GMT | How to Become an Ethical Hacker with Python (Real, Practical, Legal) | Rocky | [Read More](https://medium.com/p/717f500290d1) |
+| Thu, 09 Oct 2025 05:34:04 GMT | The Most Overlooked PHP Setting That Saves You from RCE Attacks | Asian Digital Hub | [Read More](https://medium.com/p/521e1c66bb5c) |
 | Thu, 09 Oct 2025 05:24:45 GMT | Cyber Guns for Hire: Unmasking the Indian Subcontinent’s Shadowy Hacking Empire | Cyber Warfare Asia | [Read More](https://medium.com/p/566bc768929b) |
 | Thu, 09 Oct 2025 05:18:07 GMT | Docker Explained Simply — Part 1: The Magic Box That Ends “It Works on My Machine” | NizzCorp Academy | [Read More](https://medium.com/p/27edbcee4514) |
 | Thu, 09 Oct 2025 05:16:20 GMT | Invisible Security Layers That Make PHP APIs Tamper-Proof | Asian Digital Hub | [Read More](https://medium.com/p/284e5309a883) |
@@ -102,15 +114,3 @@ Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p
 | Wed, 08 Oct 2025 22:15:10 GMT | AI HALLUCINATIONS ​⋆｡°✩ --- ⋆｡°✩ | Haven ✦ by the future | [Read More](https://medium.com/p/ce600062f89f) |
 | Wed, 08 Oct 2025 22:09:56 GMT | Social Engineering | John Odumesi | [Read More](https://medium.com/p/4f23a301336e) |
 | Wed, 08 Oct 2025 22:09:36 GMT | Intro to Network Analyst Walkthrough | Jose Diaz | [Read More](https://medium.com/p/7eec979cb581) |
-| Wed, 08 Oct 2025 22:08:38 GMT | Too Cautious to Connect? | Drew Lisso | [Read More](https://medium.com/p/4b71a3e26d08) |
-| Wed, 08 Oct 2025 22:05:29 GMT | The V1 Stack Gets You Started. It Won’t Get You to Scale. | Daniel Leeder | [Read More](https://medium.com/p/31702d53e7c9) |
-| Wed, 08 Oct 2025 22:05:11 GMT | That ‘Free Wi-Fi’ Sign Might Be the Most Expensive Thing in the Coffee Shop | Samirah A.O | [Read More](https://medium.com/p/88c98bc590a3) |
-| Wed, 08 Oct 2025 22:04:51 GMT | ways to claim Etherchain Ai presale token award | Etherchain | [Read More](https://medium.com/p/ee406f8dc1e3) |
-| Wed, 08 Oct 2025 22:03:03 GMT | Linux Host Environment Monitoring: Monitor Disk and CPU Temperatures — along with min/max and… | Truvis Thornton | [Read More](https://medium.com/p/c61c72543030) |
-| Wed, 08 Oct 2025 22:02:09 GMT | Guardians of the Code: The Double-Edged Sword of Generative AI in Password Security | DiUS | [Read More](https://medium.com/p/ece564064152) |
-| Wed, 08 Oct 2025 21:58:31 GMT | Advanced Auditd Advanced Usage Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/4dee91797eef) |
-| Wed, 08 Oct 2025 21:57:55 GMT | TryHackMe #106 - Benign | SiberYuk | [Read More](https://medium.com/p/1277089ebc56) |
-| Wed, 08 Oct 2025 21:51:52 GMT | TryHackMe #105 - Investigating with Splunk | SiberYuk | [Read More](https://medium.com/p/a402430b9721) |
-| Wed, 08 Oct 2025 21:49:31 GMT | Day 3 of my Cybersecurity Journey: Wrapping Up the Linux Fundamentals | Ogundipe Priscilla | [Read More](https://medium.com/p/f71f387e4346) |
-| Wed, 08 Oct 2025 21:48:11 GMT | TryHackMe #104 - Incident handling with Splunk | SiberYuk | [Read More](https://medium.com/p/9b6e849c095b) |
-| Wed, 08 Oct 2025 21:42:55 GMT | Why Most Grads Fail to Land a Job in Cybersecurity (And How to Fix It) | Yua Mikanana | [Read More](https://medium.com/p/9fcf967b6408) |
