@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 15:41:22 GMT | Virtualization : A Must Know Only | Cyber.H0und | [Read More](https://medium.com/p/d6c30950c836) |
+| Thu, 09 Oct 2025 15:38:29 GMT | Evolving Cybersecurity Landscape: From Basic Protection to Quantum Threats | Xcelplex | [Read More](https://medium.com/p/bec58387dd98) |
+| Thu, 09 Oct 2025 15:34:02 GMT | Post-Quantum Cryptography: Prepare Now or Panic Later | R A N A   A H M A D | [Read More](https://medium.com/p/37b6c700f883) |
+| Thu, 09 Oct 2025 15:33:46 GMT | 5 Projects That Will Land You a Cybersecurity Job | Aj | [Read More](https://medium.com/p/298c13216507) |
+| Thu, 09 Oct 2025 15:32:12 GMT | How to Change the Frequency on a Garage Door Opener: What You Need to Know | Up & Down Garage Door Services | [Read More](https://medium.com/p/0770a7e4f2af) |
+| Thu, 09 Oct 2025 15:32:11 GMT | Top 10 JS Security Headers That Don’t Slow Your Site | Hash Block | [Read More](https://medium.com/p/3a00dd738b7d) |
 | Thu, 09 Oct 2025 15:29:39 GMT | Exploiting CVE-2025–38561 | Toshith | [Read More](https://medium.com/p/151b60e7fa3f) |
+| Thu, 09 Oct 2025 15:29:01 GMT | If You Don’t Spend Enough Time Getting to Know Yourself, You’ll End Up Absorbing Everyone Else’s… | Vijay Kumar Gupta | [Read More](https://medium.com/p/c0bee9270298) |
+| Thu, 09 Oct 2025 15:27:54 GMT | Jen’s Take On The Three Little Pigs…and Insecure Design | Jen Cracchiola | [Read More](https://medium.com/p/7fa132a4f211) |
+| Thu, 09 Oct 2025 15:22:10 GMT | Yurei Ransomware: The Rise of a Double-Extortion Threat and What SOC Teams Need to Know | Aditya Sharma | [Read More](https://medium.com/p/e4fce22c7191) |
 | Thu, 09 Oct 2025 15:22:04 GMT | Your Social Posts of Your Kids — Is a Danger to Them | Matthew.Rosenquist | [Read More](https://medium.com/p/9c8d1846e269) |
 | Thu, 09 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/4b8bc7fad4ab) |
 | Thu, 09 Oct 2025 15:09:09 GMT | Taming Outbound DNS: Using AWS Route 53 DNS Firewall to Control and Audit What Your Services… | More Than Monkeys | [Read More](https://medium.com/p/0826924d4b57) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 11:32:02 GMT | Splunking with Zeek Part 3 | Luke | [Read More](https://medium.com/p/9f3f638f2f8b) |
 | Thu, 09 Oct 2025 11:27:19 GMT | Threat Mitigation plan with Incident Response | NetWitness | [Read More](https://medium.com/p/6634925e906f) |
 | Thu, 09 Oct 2025 11:26:44 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/f2855e736dd0) |
-| Thu, 09 Oct 2025 11:22:59 GMT | Full Roadmap for Cybersecurity in 2025 | Cyber Wolf | [Read More](https://medium.com/p/61bb8afd57c1) |
-| Thu, 09 Oct 2025 11:20:32 GMT | Cybersecurity Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/4327d09949a7) |
-| Thu, 09 Oct 2025 11:16:14 GMT | Tools That Make Threat Hunting Feel Like Netflix Recommendations | Lanvaus | [Read More](https://medium.com/p/c8eb749dedae) |
-| Thu, 09 Oct 2025 11:13:38 GMT | The Rise of Threat Actors: Identifying the Enemy | Cyber Security Research | [Read More](https://medium.com/p/ec1c2161a1db) |
-| Thu, 09 Oct 2025 11:11:43 GMT | How AI-Powered Risk Management Is Redefining Corporate Security | SecureSlate | [Read More](https://medium.com/p/25ae9d4c5107) |
-| Thu, 09 Oct 2025 11:11:05 GMT | Blind SSRF → Cloud Takeover: Exploiting Callback Mechanisms for Privilege Escalation | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a18e4f9ce6a0) |
-| Thu, 09 Oct 2025 11:08:05 GMT | Exploring Next-Generation Firewalls (NGFWs) | Cyber Security Research | [Read More](https://medium.com/p/742177760646) |
-| Thu, 09 Oct 2025 11:04:48 GMT | 99% of Developers Don’t Understand JWT and OAuth | Random Access | [Read More](https://medium.com/p/487d5063c493) |
-| Thu, 09 Oct 2025 11:01:28 GMT | Best VPN Tools for Online Privacy & Security in 2025 | Consentrix Technologies | [Read More](https://medium.com/p/e3520fa46402) |
