@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 07:38:06 GMT | The Role of ServiceNow Integration in Digital Transformation Initiatives | Alex s | [Read More](https://medium.com/p/a3efb5f661d0) |
+| Thu, 09 Oct 2025 07:28:40 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6f70b999f360) |
+| Thu, 09 Oct 2025 07:27:12 GMT | The Problem with Traditional IaC Tools | Saloni | [Read More](https://medium.com/p/1ca5ee2f867b) |
+| Thu, 09 Oct 2025 07:26:10 GMT | Getting Started with the Bandit Wargame: A Beginner’s Gateway to Linux and Cybersecurity | Mohamed ali | [Read More](https://medium.com/p/ad232af3a978) |
+| Thu, 09 Oct 2025 07:21:59 GMT | Penetration Testing | Muhammad Ziddan habibi | [Read More](https://medium.com/p/e829da7d68ff) |
+| Thu, 09 Oct 2025 07:21:27 GMT | 18 000 USD Would Have Saved a Nation — The South Korean Data Center Disaster | Petr Roupec | [Read More](https://medium.com/p/9761fd40a4cf) |
+| Thu, 09 Oct 2025 07:21:21 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/32539c8965a4) |
 | Thu, 09 Oct 2025 07:14:42 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/64c9777de8a3) |
 | Thu, 09 Oct 2025 07:11:46 GMT | SOC Provider in the U.S.: Strengthening Cybersecurity with 24/7 Monitoring and Response | Aaishasharma | [Read More](https://medium.com/p/abca93c6e3fb) |
 | Thu, 09 Oct 2025 07:10:14 GMT | Hackers abused a legitimate forensic tool “Velociraptor”, to Sneak into the Networks and build… | Mohana Reddy | [Read More](https://medium.com/p/e414ae501bb2) |
@@ -106,11 +113,3 @@ Ever wondered… | Sudip Manna | [Read More](https://medium.com/p/d1bdb862f0de) 
 | Thu, 09 Oct 2025 00:54:07 GMT | Stop the Trick: How Prompt Injection Turns Helpful AI into a Security Risk (And the Defenses You… | ZENcurity | [Read More](https://medium.com/p/cc24dfe888f3) |
 | Thu, 09 Oct 2025 00:46:28 GMT | Taking Control of Your Home Network | Gregdiny | [Read More](https://medium.com/p/b0c1ed842986) |
 | Thu, 09 Oct 2025 00:43:46 GMT | Different Types of Hacking — A Friendly (and Legal) Guide | ChennaKeshava | [Read More](https://medium.com/p/be8237636ce5) |
-| Thu, 09 Oct 2025 00:41:01 GMT | SCANNER HACKER CRYPTO RECOVERY
-Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p/9ec6a115ac1f) |
-| Thu, 09 Oct 2025 00:39:53 GMT | You need a different email address for every website | ternera | [Read More](https://medium.com/p/543e4e86eb68) |
-| Thu, 09 Oct 2025 00:35:16 GMT | Alive and Well ? | Gabrielle A. Gibson | [Read More](https://medium.com/p/d0bcac537a20) |
-| Thu, 09 Oct 2025 00:25:57 GMT | “The Bank Card That Bridges Crypto and Stocks — With Built-In Security for a New Era of Financial… | Cliffmusher | [Read More](https://medium.com/p/1aa97d7dde8d) |
-| Thu, 09 Oct 2025 00:07:57 GMT | Implementing Enterprise-Grade Role-Based Access Control with Token Encryption in Angular | Ronik Dedhia | [Read More](https://medium.com/p/acd9f0ca7591) |
-| Thu, 09 Oct 2025 00:03:17 GMT | The Cybersecurity Trinity — CIA TRIAD✅ | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/e15bcbb7de4c) |
-| Wed, 08 Oct 2025 23:54:29 GMT | How I Became Silico: From Gaming Dreams to Red Team Reality | Silico | [Read More](https://medium.com/p/db4c5292a356) |
