@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 16:40:32 GMT | XWorm Rises Again: From RAT to Ransomware — A Deep Dive into Its Resurgence. | eL Njas!™ | [Read More](https://medium.com/p/48e63c501c80) |
+| Thu, 09 Oct 2025 16:34:49 GMT | Cognitive Hacking: The Next Frontier of Cybersecurity | Ahmed.Saltah | [Read More](https://medium.com/p/369d4ecb4655) |
+| Thu, 09 Oct 2025 16:31:54 GMT | Cybersecurity in Robotic Milling: Protecting Smart Cells from Digital Threats | Robotic Hi-Tech Solutions | [Read More](https://medium.com/p/4eecab59bd1a) |
+| Thu, 09 Oct 2025 16:31:24 GMT | Stop Guessing: How to Systematically Evaluate OpenAI Assistants with Promptfoo | Mahesh G | [Read More](https://medium.com/p/1d3e5e513c86) |
+| Thu, 09 Oct 2025 16:30:55 GMT | Harden Your Express.js App: Practical Security Layers You Shouldn’t Ignore | Mr Senior | [Read More](https://medium.com/p/57d32377b105) |
+| Thu, 09 Oct 2025 16:26:32 GMT | ProtoVault Breach | Cipher Zahra | [Read More](https://medium.com/p/d75d23134c88) |
 | Thu, 09 Oct 2025 16:23:20 GMT | Zero Trust in 2025: The New IAM Imperative for Cloud Security | Abhilash | [Read More](https://medium.com/p/770a007ea1b2) |
+| Thu, 09 Oct 2025 16:23:06 GMT | techstarvoip.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/c3fd25bfe8e0) |
+| Thu, 09 Oct 2025 16:21:08 GMT | Is horizonprofinancial.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/f269fdbdbb6d) |
 | Thu, 09 Oct 2025 16:19:20 GMT | Is chainbitcoins.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/563f25e3b01b) |
 | Thu, 09 Oct 2025 16:17:46 GMT | The Human Side of Cybersecurity | Ahmed.Saltah | [Read More](https://medium.com/p/fc62402b10a4) |
 | Thu, 09 Oct 2025 16:16:03 GMT | Introduction to Information Protection & Data Governance in Microsoft 365 | Wesley Duel Swann | [Read More](https://medium.com/p/469d8ded7c08) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 12:25:20 GMT | Is geminiprom.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/4f134eeb1085) |
 | Thu, 09 Oct 2025 12:23:03 GMT | Can You Trust LoomXpress.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/5e8d5b715db7) |
 | Thu, 09 Oct 2025 12:19:26 GMT | idghc.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/39711fa4fbec) |
-| Thu, 09 Oct 2025 12:17:56 GMT | “The State of Cybersecurity in 2025: Key Facts You Need to See” | Qualysec | [Read More](https://medium.com/p/d70ff9b9835d) |
-| Thu, 09 Oct 2025 12:17:11 GMT | The Persistent Shadow of Public Google Groups: Why Deletion Might Not Erase Your Tracks | Abba Abdullahi Wakili | [Read More](https://medium.com/p/9fdbbb0da5b2) |
-| Thu, 09 Oct 2025 12:17:04 GMT | SQL Injection in WHERE Clause — Hidden Data Retrieval | Ahmed Shawky | [Read More](https://medium.com/p/8c0b6ac51b6c) |
-| Thu, 09 Oct 2025 12:13:10 GMT | The $1.5 B Bybit Hack Explained : How Even Cold Wallets Get Hacked | Motasem Hamdan | [Read More](https://medium.com/p/1052f65a9839) |
-| Thu, 09 Oct 2025 12:08:55 GMT | Inside MCP Security: Navigating Emerging Risks | Muhammad Laraib Khan | [Read More](https://medium.com/p/85d2a0f1d53a) |
-| Thu, 09 Oct 2025 12:03:30 GMT | Firewalld Advanced Rules for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/5454c690f09d) |
-| Thu, 09 Oct 2025 11:56:05 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/75e401eeeffb) |
-| Thu, 09 Oct 2025 11:52:20 GMT | How to Prove You’re You Without Saying Who You Are | Millicent Sefaidiga | [Read More](https://medium.com/p/4cbfcde5d1e6) |
