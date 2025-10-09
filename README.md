@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 13:18:58 GMT | Is morgarbits.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/c6e74969a470) |
+| Thu, 09 Oct 2025 13:17:52 GMT | MetaMask Wallet — CRITICAL Update! | Johnny Time | [Read More](https://medium.com/p/e251b2f79004) |
+| Thu, 09 Oct 2025 13:17:10 GMT | Investigating Windows:TryHackMe Writeup WalkThrough CTF Answers | Umer | [Read More](https://medium.com/p/611666dde723) |
+| Thu, 09 Oct 2025 13:16:04 GMT | Linux Incident Response | LinuxDev | [Read More](https://medium.com/p/5684fe3f5049) |
+| Thu, 09 Oct 2025 13:13:22 GMT | Is dimensionvip.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/ac33b9d80f46) |
+| Thu, 09 Oct 2025 13:09:41 GMT | CS student tries to evade AV (PART 3) | Mahmudul Hasan | [Read More](https://medium.com/p/ab72c8b4b0c1) |
+| Thu, 09 Oct 2025 13:09:23 GMT | Linux Forensics Analysis | LinuxDev | [Read More](https://medium.com/p/eea866f7b08c) |
+| Thu, 09 Oct 2025 13:08:55 GMT | Operating Systems for IoT Devices: Lightweight, Secure, and Smart | Ishan Soman | [Read More](https://medium.com/p/7e273cdb4b4d) |
+| Thu, 09 Oct 2025 13:08:36 GMT | Inside the Scam Support Industry: The Shadow Economy of Fraud | Internet Exposed | [Read More](https://medium.com/p/455e4d9164cf) |
+| Thu, 09 Oct 2025 13:07:52 GMT | The Scalable XSS Hunter’s Guide: Techniques for Maximum Findings | Ibtissam hammadi | [Read More](https://medium.com/p/beace1830f72) |
+| Thu, 09 Oct 2025 13:07:15 GMT | APT42: İran Destekli Gelişmiş Tehdit Operasyonları | Eren Onder | [Read More](https://medium.com/p/f32af29745b3) |
+| Thu, 09 Oct 2025 13:02:58 GMT | ️ Your Last Penetration Test Was 12 Months Ago — Here’s Why That’s a Problem | Omex Oleksandr | [Read More](https://medium.com/p/41dd1d51653f) |
+| Thu, 09 Oct 2025 12:57:40 GMT | Why I Audit Cron Jobs on Linux Servers Every Month | Faruk Ahmed | [Read More](https://medium.com/p/12b8bfa6952c) |
+| Thu, 09 Oct 2025 12:55:54 GMT | DOM-based cookie manipulation | Alan | [Read More](https://medium.com/p/587ced002c5f) |
+| Thu, 09 Oct 2025 12:51:24 GMT | SQL Injection UNION Attack — Oracle Database Version | Ahmed Shawky | [Read More](https://medium.com/p/5ddb83fb0382) |
+| Thu, 09 Oct 2025 12:46:06 GMT | 5 Website to Visit If You Are Looking To Hire A Legit Hacker | Cyber Tech Solutions | [Read More](https://medium.com/p/5af5ea5f66f6) |
+| Thu, 09 Oct 2025 12:45:09 GMT | $8.4M Gone in 3 Steps: How a Rounding Error Became Bunni’s Nightmare | Igor Rončević | [Read More](https://medium.com/p/0b655bc5eaac) |
+| Thu, 09 Oct 2025 12:42:05 GMT | Why DevSecOps is Outpacing DevOps in Today’s Security-First World | Devseccopsai | [Read More](https://medium.com/p/76c0bc82a0b2) |
+| Thu, 09 Oct 2025 12:41:53 GMT | Security Vulnerabilities in VoIP Protocols (SIP, RTP) — Ensuring Secure Voice Communication | Esra Kayhan | [Read More](https://medium.com/p/bd1c6015b45e) |
+| Thu, 09 Oct 2025 12:38:49 GMT | Is SHA-256 Really Unbreakable? | Keshav Garg | [Read More](https://medium.com/p/d22ac6431781) |
 | Thu, 09 Oct 2025 12:33:50 GMT | SQL Injection — Authentication Bypass | Ahmed Shawky | [Read More](https://medium.com/p/6b83ef3094c5) |
 | Thu, 09 Oct 2025 12:32:14 GMT | Inside Stellar Cyber’s Data Pipeline: The Hidden Engine Behind Smarter Security | Stellar Cyber | [Read More](https://medium.com/p/4cbe77400b87) |
 | Thu, 09 Oct 2025 12:31:47 GMT | When Humans Meet Machines: Inside the Age of Augmented Intelligence | Coding Blocks | [Read More](https://medium.com/p/bda78b7b5ff9) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 09:02:32 GMT | The Worst Cyber Attacks of 2025 and in History: Lessons from Digital Battlegrounds | EuroAmerican Education Group | [Read More](https://medium.com/p/2e10ba1081ee) |
 | Thu, 09 Oct 2025 09:02:05 GMT | So… You Thought Your VPN Was Keeping You Safe and Secure? Think Again (Hacker’s Edition) | Very Lazy Tech | [Read More](https://medium.com/p/375e88188221) |
 | Thu, 09 Oct 2025 09:00:20 GMT | How I found Multiple Bugs on CHESS.COM & they refused | Ayush | [Read More](https://medium.com/p/1fa6e308ed1f) |
-| Thu, 09 Oct 2025 08:57:03 GMT | Tunnels in Plain Sight: DNS Tunneling for Exfil and C2 | CipherX9F Security | [Read More](https://medium.com/p/844daae01689) |
-| Thu, 09 Oct 2025 08:56:29 GMT | Inside the Mind Game of Digital Gaslighting – When Technology is used Against You | Andy Chaseworth | [Read More](https://medium.com/p/6ccab642a2f7) |
-| Thu, 09 Oct 2025 08:56:25 GMT | The Linux Security Handbook | LinuxDev | [Read More](https://medium.com/p/39a979118148) |
-| Thu, 09 Oct 2025 08:52:57 GMT | The #1 Reason Cybersecurity Startups Lose Deals — It’s Not the Product | Yuval Ben-itzhak | [Read More](https://medium.com/p/d3eca9af6790) |
-| Thu, 09 Oct 2025 08:49:42 GMT | The Illusion of Protection | Llama | [Read More](https://medium.com/p/45cd27c6a695) |
-| Thu, 09 Oct 2025 08:44:14 GMT | Linux Log Management | LinuxDev | [Read More](https://medium.com/p/713bb164597a) |
-| Thu, 09 Oct 2025 08:43:43 GMT | Critical WordPress Vulnerability Exposes Sites to Admin Takeover — What You Must Know… | Germano Costi | [Read More](https://medium.com/p/f066d740d085) |
-| Thu, 09 Oct 2025 08:32:24 GMT | DockerLabs Writeup — Library (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/426d48a7e71c) |
-| Thu, 09 Oct 2025 08:30:20 GMT | Welcome to The Tech Forte — Your Daily Dose of Tech Insights and Innovations | Alirazabajwa | [Read More](https://medium.com/p/b251eebf4ed5) |
-| Thu, 09 Oct 2025 08:26:17 GMT | Counter-Leaking in AI-Driven Information Warfare | Lauri Korpela | [Read More](https://medium.com/p/fa4af18a95c7) |
-| Thu, 09 Oct 2025 08:26:06 GMT | Room (103): I LOVE U & MELISSA Analysis | blackXmask | [Read More](https://medium.com/p/28cac8218fd5) |
-| Thu, 09 Oct 2025 08:25:23 GMT | Menavigasi Dunia Siber: Catatan Kesimpulan HIERS FGD VIGOR 4.0 | FPCI Chapter UKSW | [Read More](https://medium.com/p/9c9709424d7a) |
-| Thu, 09 Oct 2025 08:23:18 GMT | Best OT/ICS Cybersecurity training in Delhi NCR | TheEvolvEdge | [Read More](https://medium.com/p/64b8344f2e20) |
-| Thu, 09 Oct 2025 08:21:38 GMT | Exploiting Authentication Flaws in Mobile Apps: Case Studies | Digital Defense | [Read More](https://medium.com/p/0c68731e94d6) |
-| Thu, 09 Oct 2025 08:19:06 GMT | Everything Engineers Know Is Going Outdated. And It’s Happening Right Now | Czarif | [Read More](https://medium.com/p/49d5028243d9) |
-| Thu, 09 Oct 2025 08:18:14 GMT | How Decentralized Systems Will Change the Way We Interact Online: The Promise of Web3 | Michael Emefienem | [Read More](https://medium.com/p/bd0dc006f391) |
-| Thu, 09 Oct 2025 08:12:50 GMT | Redis in 2025: Architecture, Scaling, Security, and Production Patterns with Node.js | Erhan Sönmez | [Read More](https://medium.com/p/570dcefb277c) |
-| Thu, 09 Oct 2025 08:12:05 GMT | HPC systems process some of the world’s most sensitive data, yet security guidance is sparse | John Constable | [Read More](https://medium.com/p/573707aada8d) |
-| Thu, 09 Oct 2025 07:54:28 GMT | How LegalTech Protects Your Data: Security and Privacy in 2026 | KnubiSoft | [Read More](https://medium.com/p/9434866abefc) |
-| Thu, 09 Oct 2025 07:54:08 GMT | Security Hardening for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/25da662e8cae) |
