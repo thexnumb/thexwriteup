@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 20:22:11 GMT | How I Hacked an Admin Panel with Millions of Dollars | Zhenwarx | [Read More](https://medium.com/p/749f92c106ab) |
+| Thu, 09 Oct 2025 20:17:55 GMT | How to Manage Keys & Identity in AWS KMS for Blockchain Nodes | Lucky Nautiyal | [Read More](https://medium.com/p/17838d542468) |
+| Thu, 09 Oct 2025 20:13:31 GMT | The Hidden Dangers of Dirty Filenames | Kory Becker | [Read More](https://medium.com/p/1b345d5cd47f) |
 | Thu, 09 Oct 2025 20:07:09 GMT | HackTheBox: UnderPass | 0xQ | [Read More](https://medium.com/p/072a47905343) |
 | Thu, 09 Oct 2025 19:59:15 GMT | 9 Messaging Apps Ranked by Privacy: Chat Control Survival Guide | Raf Vantongerloo | [Read More](https://medium.com/p/1c6350b209cd) |
 | Thu, 09 Oct 2025 19:55:11 GMT | How to Disarm and Reconstruct Files in C# | Cloudmersive | [Read More](https://medium.com/p/7044b591333b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 15:04:15 GMT | The Forgiveness I’m Still Learning to Give | Darpan Murly | [Read More](https://medium.com/p/06e95e369423) |
 | Thu, 09 Oct 2025 14:55:41 GMT | Announcing Our Investment in SafeHill | Peri Ehlman | [Read More](https://medium.com/p/9d1573098adb) |
 | Thu, 09 Oct 2025 14:51:01 GMT | Why Mandala Siber Exists, and What We’re Trying to Build | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/b06fbb804388) |
-| Thu, 09 Oct 2025 14:48:01 GMT | By Dec 31, 2025, will a reputable primary source (Oracle, CISA, Mandiant/MSTIC, affected org’s SEC… | Wes Young | [Read More](https://medium.com/p/206f5e0cd8f4) |
-| Thu, 09 Oct 2025 14:42:42 GMT | “The Two “Boring” Security Flaws That Just Earned Me $60" | Aman Sharma | [Read More](https://medium.com/p/18c6aba42dd0) |
-| Thu, 09 Oct 2025 14:42:02 GMT | How AI and Machine Learning Are Reshaping Cloud Analytics | Techridge Solutions | [Read More](https://medium.com/p/087b36618b4e) |
