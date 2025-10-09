@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 08:12:50 GMT | Redis in 2025: Architecture, Scaling, Security, and Production Patterns with Node.js | Erhan Sönmez | [Read More](https://medium.com/p/570dcefb277c) |
+| Thu, 09 Oct 2025 08:12:05 GMT | HPC systems process some of the world’s most sensitive data, yet security guidance is sparse | John Constable | [Read More](https://medium.com/p/573707aada8d) |
+| Thu, 09 Oct 2025 07:54:28 GMT | How LegalTech Protects Your Data: Security and Privacy in 2026 | KnubiSoft | [Read More](https://medium.com/p/9434866abefc) |
+| Thu, 09 Oct 2025 07:54:08 GMT | Security Hardening for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/25da662e8cae) |
+| Thu, 09 Oct 2025 07:51:37 GMT | What Happens During a DDoS Attack? | Shenal | [Read More](https://medium.com/p/3610040e9e16) |
+| Thu, 09 Oct 2025 07:44:27 GMT | Restricted Access Vol. 1 — Room Challenges: Red Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/3bd73f3b3c4f) |
+| Thu, 09 Oct 2025 07:43:42 GMT | Security First at de5.ai | de5.ai | [Read More](https://medium.com/p/259454a58286) |
 | Thu, 09 Oct 2025 07:38:06 GMT | The Role of ServiceNow Integration in Digital Transformation Initiatives | Alex s | [Read More](https://medium.com/p/a3efb5f661d0) |
+| Thu, 09 Oct 2025 07:31:48 GMT | Tải Hack Hungry Dragon(Vô Hạn Tiền, Kim Cương) v5.5 | MODLMH | [Read More](https://medium.com/p/0fb977e55bfe) |
 | Thu, 09 Oct 2025 07:28:40 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6f70b999f360) |
 | Thu, 09 Oct 2025 07:27:12 GMT | The Problem with Traditional IaC Tools | Saloni | [Read More](https://medium.com/p/1ca5ee2f867b) |
 | Thu, 09 Oct 2025 07:26:10 GMT | Getting Started with the Bandit Wargame: A Beginner’s Gateway to Linux and Cybersecurity | Mohamed ali | [Read More](https://medium.com/p/ad232af3a978) |
@@ -105,11 +113,3 @@ Ever wondered… | Sudip Manna | [Read More](https://medium.com/p/d1bdb862f0de) 
 | Thu, 09 Oct 2025 01:26:54 GMT | HackTheBox (BabyTwo) | SilentExploit | [Read More](https://medium.com/p/405d4701a4fa) |
 | Thu, 09 Oct 2025 01:12:48 GMT | Autopsy em Ação: Análise básica de uma Imagem de Windows | Lucas Soeiro | [Read More](https://medium.com/p/f02dcf6b8530) |
 | Thu, 09 Oct 2025 01:11:08 GMT | The Day My AI Assistant Almost Brought Down Our Application | Sreekesh Okky | [Read More](https://medium.com/p/332272ee0327) |
-| Thu, 09 Oct 2025 01:06:56 GMT | How to Speed Up Your Windows PC: Simple Tips and Tricks | Tom T | [Read More](https://medium.com/p/fb52b63fc817) |
-| Thu, 09 Oct 2025 01:04:52 GMT | Why Alert Fidelity Defines the Future of SOC Efficiency? | Dhruv Patel | [Read More](https://medium.com/p/305d4db73414) |
-| Thu, 09 Oct 2025 01:03:36 GMT | Creating a Tech News Site; PCKicks.com | Tom T | [Read More](https://medium.com/p/8c84901995e8) |
-| Thu, 09 Oct 2025 01:02:15 GMT | Find the Best Cyber Security Course for Your Career | Uplyrn | [Read More](https://medium.com/p/6735bc24c1b7) |
-| Thu, 09 Oct 2025 00:58:04 GMT | The Night Call and the Mask of Trust | Vikrant | [Read More](https://medium.com/p/122e30bb88f5) |
-| Thu, 09 Oct 2025 00:54:07 GMT | Stop the Trick: How Prompt Injection Turns Helpful AI into a Security Risk (And the Defenses You… | ZENcurity | [Read More](https://medium.com/p/cc24dfe888f3) |
-| Thu, 09 Oct 2025 00:46:28 GMT | Taking Control of Your Home Network | Gregdiny | [Read More](https://medium.com/p/b0c1ed842986) |
-| Thu, 09 Oct 2025 00:43:46 GMT | Different Types of Hacking — A Friendly (and Legal) Guide | ChennaKeshava | [Read More](https://medium.com/p/be8237636ce5) |
