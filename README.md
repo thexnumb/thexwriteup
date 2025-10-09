@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 20:07:09 GMT | HackTheBox: UnderPass | 0xQ | [Read More](https://medium.com/p/072a47905343) |
+| Thu, 09 Oct 2025 19:59:15 GMT | 9 Messaging Apps Ranked by Privacy: Chat Control Survival Guide | Raf Vantongerloo | [Read More](https://medium.com/p/1c6350b209cd) |
+| Thu, 09 Oct 2025 19:55:11 GMT | How to Disarm and Reconstruct Files in C# | Cloudmersive | [Read More](https://medium.com/p/7044b591333b) |
+| Thu, 09 Oct 2025 19:52:33 GMT | Russia’s New Cyber Weapon: How AI Is Supercharging Attacks on Ukraine | Aaron | [Read More](https://medium.com/p/65860e252490) |
+| Thu, 09 Oct 2025 19:52:23 GMT | The Case for OAuth: How Delegated Trust Redefined Web Security | Ego | [Read More](https://medium.com/p/9daf5e237d51) |
+| Thu, 09 Oct 2025 19:50:08 GMT | Hacking for Hidden Access And Secret Functions in the Moxa NPort Series | Marcel Rick-Cen | [Read More](https://medium.com/p/cefec8cabca9) |
+| Thu, 09 Oct 2025 19:49:57 GMT | Slowloris vs. Check Loris — Boring a Server to Death and Back Again | A hacked box | [Read More](https://medium.com/p/e4bda0c6303f) |
+| Thu, 09 Oct 2025 19:47:20 GMT | ⚠️ Warning: You’re Probably Using JWT Wrong — A Deep Dive into Its Hidden Dangers | Indrajit | [Read More](https://medium.com/p/b3b15a59fd1d) |
+| Thu, 09 Oct 2025 19:45:46 GMT | IT Security Audit: Strengthening Your Organization’s Digital Defense | SafeAeon Inc. | [Read More](https://medium.com/p/32e834ce62fc) |
+| Thu, 09 Oct 2025 19:42:18 GMT | Server-Side Template Injection (SSTI) Hackvisor Lab | Y0s_0x_IBM | [Read More](https://medium.com/p/50d42ec27639) |
+| Thu, 09 Oct 2025 19:41:02 GMT | [CyberDefenders Write-up] WebStrike lab | OxMotaw3 | [Read More](https://medium.com/p/e0700d0d9cd8) |
+| Thu, 09 Oct 2025 19:38:18 GMT | From Complex Pipelines to Conversational Insights: How an AI Legal Tech Company Simplified… | Cynthia Hsieh | [Read More](https://medium.com/p/71e425134b30) |
 | Thu, 09 Oct 2025 19:31:22 GMT | HackTheBox — Puppy (WriteUp) | Emre Özdemir | [Read More](https://medium.com/p/7a38cbbcb9ff) |
 | Thu, 09 Oct 2025 19:29:48 GMT | I started a new tech journey which I'll love you to be a part of. | Esther Chioma Adu | [Read More](https://medium.com/p/e520edeffb7d) |
 | Thu, 09 Oct 2025 19:27:43 GMT | Encrypting Power: The Illusion of Seeing Without Looking | Rodrigo Gutierrez | [Read More](https://medium.com/p/261ef0a5528d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 14:48:01 GMT | By Dec 31, 2025, will a reputable primary source (Oracle, CISA, Mandiant/MSTIC, affected org’s SEC… | Wes Young | [Read More](https://medium.com/p/206f5e0cd8f4) |
 | Thu, 09 Oct 2025 14:42:42 GMT | “The Two “Boring” Security Flaws That Just Earned Me $60" | Aman Sharma | [Read More](https://medium.com/p/18c6aba42dd0) |
 | Thu, 09 Oct 2025 14:42:02 GMT | How AI and Machine Learning Are Reshaping Cloud Analytics | Techridge Solutions | [Read More](https://medium.com/p/087b36618b4e) |
-| Thu, 09 Oct 2025 14:41:58 GMT | Navigating Financial Storms: How to Avoid Debt in the Coming Years | Hanpis | [Read More](https://medium.com/p/37e013c70ed2) |
-| Thu, 09 Oct 2025 14:40:18 GMT | Python Code Under Fire: Hidden Security Risks | Maikel Mardjan | [Read More](https://medium.com/p/5a38d91ad8fd) |
-| Thu, 09 Oct 2025 14:38:00 GMT | OUR DATAS ARE LEAKED?! The Renault–Dacia Cyberattack | Swetha Jagannathan | [Read More](https://medium.com/p/ad359d4430d7) |
-| Thu, 09 Oct 2025 14:36:13 GMT | Building My Developer Identity Across the Web — Connect With Me Everywhere! | THIYAGARAJAN varadharajan | [Read More](https://medium.com/p/7489a7a6901f) |
-| Thu, 09 Oct 2025 14:32:25 GMT | Data Maintenance | Madanghale | [Read More](https://medium.com/p/96967cc28fb1) |
-| Thu, 09 Oct 2025 14:31:49 GMT | 30-Day Tech Challenge Day 2 | Ben Taylor | [Read More](https://medium.com/p/f5aa9b5edc61) |
-| Thu, 09 Oct 2025 14:31:21 GMT | Python Security: What is SAST | Maikel Mardjan | [Read More](https://medium.com/p/9650cb787276) |
-| Thu, 09 Oct 2025 14:24:57 GMT | Benign — TRYHACKME Write-up Walkthrough | Karim Hesham | [Read More](https://medium.com/p/c469b346d050) |
-| Thu, 09 Oct 2025 14:24:12 GMT | CVE-2025–49125: A single missing slash can expose everything — dissecting CVE-2025–49125. | Greg K | [Read More](https://medium.com/p/46f797be4cd3) |
-| Thu, 09 Oct 2025 14:23:00 GMT | Advance Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/7f3246a57098) |
-| Thu, 09 Oct 2025 14:20:41 GMT | LetsDefend — SOC Simulator/EN version | Kayky | [Read More](https://medium.com/p/a21254e1b0e2) |
-| Thu, 09 Oct 2025 14:17:25 GMT | Public Safety Communications Market Overview: | Kaverigiri | [Read More](https://medium.com/p/7d488754d1d4) |
