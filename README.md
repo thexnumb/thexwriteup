@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 10:33:32 GMT | How AI is Transforming Figma Workflows: From ideation to Prototyping | Mayuddin H Sipai | [Read More](https://medium.com/p/f562dcd04fb3) |
+| Thu, 09 Oct 2025 10:30:34 GMT | Acknowledging the Emergence of Agentic Security as a Core Research Domain | Berend Watchus | [Read More](https://medium.com/p/7bcaf5826b6f) |
+| Thu, 09 Oct 2025 10:30:01 GMT | Whether you need firefighting protection, mist system or burglar-alarm systems Saudi Arabia, SAS… | Fire & Security Solution - SAS System Engineering | [Read More](https://medium.com/p/888041f44124) |
+| Thu, 09 Oct 2025 10:28:13 GMT | Cybersecurity Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/c021cc1c38ab) |
+| Thu, 09 Oct 2025 10:26:46 GMT | Render Unto Risk: CVE-2025–11539 and the Fragility of Grafana’s Image Renderer | gm0 | [Read More](https://medium.com/p/5acb10358c48) |
+| Thu, 09 Oct 2025 10:20:02 GMT | Why Loss Prevention Security Guards Are Essential for Every Retail Store | ICORP Security | [Read More](https://medium.com/p/d4400d9bcc3b) |
 | Thu, 09 Oct 2025 10:11:57 GMT | How to Become an AI Pro in Today’s IT World (Without Turning Into a Robot Yourself) | Prathmesh Joshi | [Read More](https://medium.com/p/14fc08823c1a) |
 | Thu, 09 Oct 2025 10:10:02 GMT | Why Most Developers Are One Line of Code Away From a Breach | Muhummad Zaki | [Read More](https://medium.com/p/499b522674ba) |
 | Thu, 09 Oct 2025 10:09:20 GMT | How to Learn Ethical Hacking: Step-by-Step Guide | cyber security Updates | [Read More](https://medium.com/p/a6036cffbbc8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 05:24:45 GMT | Cyber Guns for Hire: Unmasking the Indian Subcontinent’s Shadowy Hacking Empire | Cyber Warfare Asia | [Read More](https://medium.com/p/566bc768929b) |
 | Thu, 09 Oct 2025 05:18:07 GMT | Docker Explained Simply — Part 1: The Magic Box That Ends “It Works on My Machine” | NizzCorp Academy | [Read More](https://medium.com/p/27edbcee4514) |
 | Thu, 09 Oct 2025 05:16:20 GMT | Invisible Security Layers That Make PHP APIs Tamper-Proof | Asian Digital Hub | [Read More](https://medium.com/p/284e5309a883) |
-| Thu, 09 Oct 2025 05:16:10 GMT | ⚠️ Beware: How WhatsApp Phishing Through Images & Videos Is Hacking Millions | Geeky Vartika | [Read More](https://medium.com/p/ccf4e28f95c0) |
-| Thu, 09 Oct 2025 05:11:10 GMT | Strix: The Open-Source AI Agent for Security Testing | Manish Shivanandhan | [Read More](https://medium.com/p/44e1ed244a9d) |
-| Thu, 09 Oct 2025 05:02:56 GMT | Authentication vulnerabilities | Ashutosh Jena | [Read More](https://medium.com/p/9926fa8f9806) |
-| Thu, 09 Oct 2025 05:02:25 GMT | ประจำวันพฤหัสบดีที่ 9 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ad351276f154) |
-| Thu, 09 Oct 2025 05:00:14 GMT | How I Used Python to Spy (Legally) on 3,000 Laptops | Vishal Gupta | [Read More](https://medium.com/p/af5f2e12662f) |
-| Thu, 09 Oct 2025 04:58:56 GMT | The Hidden Backdoor in Your App: Fixing API Security Before It’s Too Late | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/4c4470cae61c) |
