@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 19:31:22 GMT | HackTheBox — Puppy (WriteUp) | Emre Özdemir | [Read More](https://medium.com/p/7a38cbbcb9ff) |
+| Thu, 09 Oct 2025 19:29:48 GMT | I started a new tech journey which I'll love you to be a part of. | Esther Chioma Adu | [Read More](https://medium.com/p/e520edeffb7d) |
+| Thu, 09 Oct 2025 19:27:43 GMT | Encrypting Power: The Illusion of Seeing Without Looking | Rodrigo Gutierrez | [Read More](https://medium.com/p/261ef0a5528d) |
+| Thu, 09 Oct 2025 19:27:18 GMT | DNS Server Not Responding: What It Means and How to Fix It | SafeAeon Inc. | [Read More](https://medium.com/p/f8497f1009bb) |
+| Thu, 09 Oct 2025 19:24:10 GMT | If Drosera Existed Back Then: A Retrospective on DeFi’s Most Expensive Mistakes. | Odeja Anthony | [Read More](https://medium.com/p/cdd3595a6395) |
+| Thu, 09 Oct 2025 19:22:03 GMT | Proof by Exploitation: Shannon’s Approach to Autonomous Penetration Testing | Parathan Thiyagalingam | [Read More](https://medium.com/p/010eac3588d3) |
+| Thu, 09 Oct 2025 19:21:13 GMT | The Science of Malware Sandboxing and Behavior Analysis | Akshay Chauhan | [Read More](https://medium.com/p/ef400145b16f) |
+| Thu, 09 Oct 2025 19:20:30 GMT | Cybersecurity Consulting Firms: Guiding Businesses Toward Stronger Digital Protection | SafeAeon Inc. | [Read More](https://medium.com/p/b761cfea7abe) |
 | Thu, 09 Oct 2025 19:16:01 GMT | The Gap Between Watching AI Videos and Actually Understanding Them | Gil S. | [Read More](https://medium.com/p/7cbfcfa7ffca) |
 | Thu, 09 Oct 2025 19:14:54 GMT | A Story About Time | Rodolfo Meza | [Read More](https://medium.com/p/83ef02cd138a) |
 | Thu, 09 Oct 2025 19:08:17 GMT | Bloodstream Firmware: The Next Frontier of Self-Modification | Aeon Dexrane | [Read More](https://medium.com/p/41a7afde6a86) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 14:23:00 GMT | Advance Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/7f3246a57098) |
 | Thu, 09 Oct 2025 14:20:41 GMT | LetsDefend — SOC Simulator/EN version | Kayky | [Read More](https://medium.com/p/a21254e1b0e2) |
 | Thu, 09 Oct 2025 14:17:25 GMT | Public Safety Communications Market Overview: | Kaverigiri | [Read More](https://medium.com/p/7d488754d1d4) |
-| Thu, 09 Oct 2025 14:14:44 GMT | OAuth Misconfiguration Lead To 1-Click Account Takeover (ATO) | Mahmoud Gamal | [Read More](https://medium.com/p/7b6e44bf7d75) |
-| Thu, 09 Oct 2025 14:13:54 GMT | A Three Headed Monster: DragonForce, LockBit, and Qilin join forces. | Colton J. | [Read More](https://medium.com/p/6f7b19827911) |
-| Thu, 09 Oct 2025 14:12:39 GMT | TCM Security Capstone—Academy-VM-Walkthrough: From FTP to Root | Chayon Datta Utsha | [Read More](https://medium.com/p/b6998bee1fc2) |
-| Thu, 09 Oct 2025 14:08:25 GMT | The Start of Creative Hives | Creative Hives Official | [Read More](https://medium.com/p/63aed83777c4) |
-| Thu, 09 Oct 2025 14:07:00 GMT | The Complete AI Risk Framework: From Security Theatre to Quantified Science | Adetutu Ogunsowo | [Read More](https://medium.com/p/b04e71b206f6) |
-| Thu, 09 Oct 2025 14:04:47 GMT | Efficiency and Performance — Powering Protection with Less Than 100KB | Abatis ABTU | [Read More](https://medium.com/p/9ac5c8511b7d) |
-| Thu, 09 Oct 2025 14:02:49 GMT | Retorno / Return | Kayky | [Read More](https://medium.com/p/410b208fa53b) |
-| Thu, 09 Oct 2025 14:02:07 GMT | Fortifying Your Data Perimeter: Malicious IP Protection in Snowflake | Rajiv Gupta | [Read More](https://medium.com/p/53dbaddf6867) |
