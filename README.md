@@ -12,12 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 11:32:03 GMT | Wazuh + N8N Integration Almost Beat Me — But Giving Up Wasn’t an Option | Manish Rawat | [Read More](https://medium.com/p/1af20f4340a0) |
+| Thu, 09 Oct 2025 11:32:02 GMT | Splunking with Zeek Part 3 | Luke | [Read More](https://medium.com/p/9f3f638f2f8b) |
+| Thu, 09 Oct 2025 11:27:19 GMT | Threat Mitigation plan with Incident Response | NetWitness | [Read More](https://medium.com/p/6634925e906f) |
+| Thu, 09 Oct 2025 11:26:44 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/f2855e736dd0) |
+| Thu, 09 Oct 2025 11:22:59 GMT | Full Roadmap for Cybersecurity in 2025 | Cyber Wolf | [Read More](https://medium.com/p/61bb8afd57c1) |
+| Thu, 09 Oct 2025 11:20:32 GMT | Cybersecurity Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/4327d09949a7) |
+| Thu, 09 Oct 2025 11:16:14 GMT | Tools That Make Threat Hunting Feel Like Netflix Recommendations | Lanvaus | [Read More](https://medium.com/p/c8eb749dedae) |
+| Thu, 09 Oct 2025 11:13:38 GMT | The Rise of Threat Actors: Identifying the Enemy | Cyber Security Research | [Read More](https://medium.com/p/ec1c2161a1db) |
+| Thu, 09 Oct 2025 11:11:43 GMT | How AI-Powered Risk Management Is Redefining Corporate Security | SecureSlate | [Read More](https://medium.com/p/25ae9d4c5107) |
 | Thu, 09 Oct 2025 11:11:05 GMT | Blind SSRF → Cloud Takeover: Exploiting Callback Mechanisms for Privilege Escalation | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a18e4f9ce6a0) |
 | Thu, 09 Oct 2025 11:08:05 GMT | Exploring Next-Generation Firewalls (NGFWs) | Cyber Security Research | [Read More](https://medium.com/p/742177760646) |
+| Thu, 09 Oct 2025 11:04:48 GMT | 99% of Developers Don’t Understand JWT and OAuth | Random Access | [Read More](https://medium.com/p/487d5063c493) |
 | Thu, 09 Oct 2025 11:01:28 GMT | Best VPN Tools for Online Privacy & Security in 2025 | Consentrix Technologies | [Read More](https://medium.com/p/e3520fa46402) |
 | Thu, 09 Oct 2025 11:01:27 GMT | “Your AI assistant might be leaking your company’s data right now.” | Vyz Solutions | [Read More](https://medium.com/p/f94604e0cea2) |
 | Thu, 09 Oct 2025 11:01:14 GMT | Two Timestamps, One Message: Why WebSocket Systems Need Both | Konstantin Tarkus | [Read More](https://medium.com/p/059e186b2a55) |
 | Thu, 09 Oct 2025 10:59:48 GMT | Security Orchestration, Automation and Response (SOAR) | Cyber Security Research | [Read More](https://medium.com/p/b78ef92b2d3f) |
+| Thu, 09 Oct 2025 10:53:28 GMT | Deception Technology: Turning the Tables on Attackers | Cyber Security Research | [Read More](https://medium.com/p/64e28033f457) |
 | Thu, 09 Oct 2025 10:52:21 GMT | Dialling into Danger: CVE-2025–57819 and the Collapse of Endpoint Trust in FreePBX | gm0 | [Read More](https://medium.com/p/0a28f73a2525) |
 | Thu, 09 Oct 2025 10:50:37 GMT | Stormy Seas Ahead: How Cyberattacks Threaten Maritime Shipping | Redfox Security | [Read More](https://medium.com/p/c0d210e2debe) |
 | Thu, 09 Oct 2025 10:48:19 GMT | E-Waste Management Market to Reach USD 120.19 | Hareesh | [Read More](https://medium.com/p/0e9d8315d13f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 06:51:42 GMT | The Daily Tech Digest: 09 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f56a0063acc3) |
 | Thu, 09 Oct 2025 06:50:44 GMT | EVOLUTION OF MONEY: FROM GOLD TO BITCOIN | Bénzïk | [Read More](https://medium.com/p/23b4b5f3ad98) |
 | Thu, 09 Oct 2025 06:50:31 GMT | ⏱️ Race Condition Vulnerability: When Speed Becomes the Enemy | NadSec | [Read More](https://medium.com/p/69315f95b13c) |
-| Thu, 09 Oct 2025 06:50:10 GMT | The Impact of Cybersecurity on Public Services | Cyber Security Research | [Read More](https://medium.com/p/8881b5db2b86) |
-| Thu, 09 Oct 2025 06:49:28 GMT | Password Manager vs. Manual Management: The Ultimate Guide for Teams in 2025 | Password Manager | [Read More](https://medium.com/p/508412ce011a) |
-| Thu, 09 Oct 2025 06:49:16 GMT | The Cybersecurity Mindset That Turned Me From a Coder Into a Protector | Muhummad Zaki | [Read More](https://medium.com/p/4362da57f904) |
-| Thu, 09 Oct 2025 06:43:41 GMT | The Role of Cybersecurity in Fishing | Cyber Security Research | [Read More](https://medium.com/p/4986edacc2da) |
-| Thu, 09 Oct 2025 06:40:48 GMT | Ensuring Safety and Peace of Mind: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/29cd6b4d373e) |
-| Thu, 09 Oct 2025 06:37:43 GMT | The Impact of Cybersecurity on Forestry | Cyber Security Research | [Read More](https://medium.com/p/88c013b69cc6) |
-| Thu, 09 Oct 2025 06:28:19 GMT | Top 10 Cybersecurity Career Options | Manisha Chaudhary | [Read More](https://medium.com/p/f3b8fb71c9a8) |
-| Thu, 09 Oct 2025 06:15:16 GMT | Understanding Semgrep — A Powerful Open-Source SAST Tool for Developers and Security Teams | Dean | [Read More](https://medium.com/p/a661af5e3a9f) |
-| Thu, 09 Oct 2025 06:02:38 GMT | Join our Cybersecurity Training Institute in Gurgaon and gain hands-on skills in Ethical Hacking… | Ankitchaudhary | [Read More](https://medium.com/p/7f4f37bb08b4) |
-| Thu, 09 Oct 2025 06:01:49 GMT | How Event Security Services in Singapore Contribute to a Positive Guest Experience | Jane Tang | [Read More](https://medium.com/p/eb7a18a46b05) |
-| Thu, 09 Oct 2025 05:56:10 GMT | Top 10 Angular Development Companies in the US That’ll Supercharge Your Next Project | P Girish | [Read More](https://medium.com/p/0f4ba5c02274) |
