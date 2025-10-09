@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 11:11:05 GMT | Blind SSRF → Cloud Takeover: Exploiting Callback Mechanisms for Privilege Escalation | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a18e4f9ce6a0) |
+| Thu, 09 Oct 2025 11:08:05 GMT | Exploring Next-Generation Firewalls (NGFWs) | Cyber Security Research | [Read More](https://medium.com/p/742177760646) |
+| Thu, 09 Oct 2025 11:01:28 GMT | Best VPN Tools for Online Privacy & Security in 2025 | Consentrix Technologies | [Read More](https://medium.com/p/e3520fa46402) |
+| Thu, 09 Oct 2025 11:01:27 GMT | “Your AI assistant might be leaking your company’s data right now.” | Vyz Solutions | [Read More](https://medium.com/p/f94604e0cea2) |
+| Thu, 09 Oct 2025 11:01:14 GMT | Two Timestamps, One Message: Why WebSocket Systems Need Both | Konstantin Tarkus | [Read More](https://medium.com/p/059e186b2a55) |
+| Thu, 09 Oct 2025 10:59:48 GMT | Security Orchestration, Automation and Response (SOAR) | Cyber Security Research | [Read More](https://medium.com/p/b78ef92b2d3f) |
+| Thu, 09 Oct 2025 10:52:21 GMT | Dialling into Danger: CVE-2025–57819 and the Collapse of Endpoint Trust in FreePBX | gm0 | [Read More](https://medium.com/p/0a28f73a2525) |
+| Thu, 09 Oct 2025 10:50:37 GMT | Stormy Seas Ahead: How Cyberattacks Threaten Maritime Shipping | Redfox Security | [Read More](https://medium.com/p/c0d210e2debe) |
+| Thu, 09 Oct 2025 10:48:19 GMT | E-Waste Management Market to Reach USD 120.19 | Hareesh | [Read More](https://medium.com/p/0e9d8315d13f) |
+| Thu, 09 Oct 2025 10:35:36 GMT | Why Understanding Infrastructure Is the First Step to Cybersecurity | Utkarsh Raj | [Read More](https://medium.com/p/7a2e58e991f0) |
 | Thu, 09 Oct 2025 10:33:32 GMT | How AI is Transforming Figma Workflows: From ideation to Prototyping | Mayuddin H Sipai | [Read More](https://medium.com/p/f562dcd04fb3) |
 | Thu, 09 Oct 2025 10:30:34 GMT | Acknowledging the Emergence of Agentic Security as a Core Research Domain | Berend Watchus | [Read More](https://medium.com/p/7bcaf5826b6f) |
 | Thu, 09 Oct 2025 10:30:01 GMT | Whether you need firefighting protection, mist system or burglar-alarm systems Saudi Arabia, SAS… | Fire & Security Solution - SAS System Engineering | [Read More](https://medium.com/p/888041f44124) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 06:02:38 GMT | Join our Cybersecurity Training Institute in Gurgaon and gain hands-on skills in Ethical Hacking… | Ankitchaudhary | [Read More](https://medium.com/p/7f4f37bb08b4) |
 | Thu, 09 Oct 2025 06:01:49 GMT | How Event Security Services in Singapore Contribute to a Positive Guest Experience | Jane Tang | [Read More](https://medium.com/p/eb7a18a46b05) |
 | Thu, 09 Oct 2025 05:56:10 GMT | Top 10 Angular Development Companies in the US That’ll Supercharge Your Next Project | P Girish | [Read More](https://medium.com/p/0f4ba5c02274) |
-| Thu, 09 Oct 2025 05:55:20 GMT | GZR Observer — Global Daily — Oct 8, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/89a680c2ff6b) |
-| Thu, 09 Oct 2025 05:47:39 GMT | Mastering Auditd Advanced Usage in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/e3fd9a9c0331) |
-| Thu, 09 Oct 2025 05:44:46 GMT | From Default to Fortified → The PHP Hardening Playbook | Asian Digital Hub | [Read More](https://medium.com/p/30baaa6c0b3b) |
-| Thu, 09 Oct 2025 05:40:36 GMT | The Linux Security Journey — LKRG (Linux Kernel Runtime Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/38aa262d4bc6) |
-| Thu, 09 Oct 2025 05:39:32 GMT | Python for Investment and Stock Analysis | Kainat Nafees | [Read More](https://medium.com/p/ac5ca8eb58b0) |
-| Thu, 09 Oct 2025 05:39:26 GMT | How to Become an Ethical Hacker with Python (Real, Practical, Legal) | Rocky | [Read More](https://medium.com/p/717f500290d1) |
-| Thu, 09 Oct 2025 05:34:04 GMT | The Most Overlooked PHP Setting That Saves You from RCE Attacks | Asian Digital Hub | [Read More](https://medium.com/p/521e1c66bb5c) |
-| Thu, 09 Oct 2025 05:24:45 GMT | Cyber Guns for Hire: Unmasking the Indian Subcontinent’s Shadowy Hacking Empire | Cyber Warfare Asia | [Read More](https://medium.com/p/566bc768929b) |
-| Thu, 09 Oct 2025 05:18:07 GMT | Docker Explained Simply — Part 1: The Magic Box That Ends “It Works on My Machine” | NizzCorp Academy | [Read More](https://medium.com/p/27edbcee4514) |
-| Thu, 09 Oct 2025 05:16:20 GMT | Invisible Security Layers That Make PHP APIs Tamper-Proof | Asian Digital Hub | [Read More](https://medium.com/p/284e5309a883) |
