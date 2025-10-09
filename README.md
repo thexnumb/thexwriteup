@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 12:33:50 GMT | SQL Injection — Authentication Bypass | Ahmed Shawky | [Read More](https://medium.com/p/6b83ef3094c5) |
+| Thu, 09 Oct 2025 12:32:14 GMT | Inside Stellar Cyber’s Data Pipeline: The Hidden Engine Behind Smarter Security | Stellar Cyber | [Read More](https://medium.com/p/4cbe77400b87) |
+| Thu, 09 Oct 2025 12:31:47 GMT | When Humans Meet Machines: Inside the Age of Augmented Intelligence | Coding Blocks | [Read More](https://medium.com/p/bda78b7b5ff9) |
+| Thu, 09 Oct 2025 12:30:59 GMT | Kali Linux Essentials: Tools Every Security Learner Must Try | Shahzaib | [Read More](https://medium.com/p/9016b0c54ac7) |
+| Thu, 09 Oct 2025 12:27:53 GMT | x-aitokens.net Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/d77735935267) |
+| Thu, 09 Oct 2025 12:27:34 GMT | NotPetya: A One-Day Malware, A Global Catastrophe | Ahmet Doğukan Konuk | [Read More](https://medium.com/p/71aa634373c8) |
+| Thu, 09 Oct 2025 12:25:33 GMT | NotPetya: Tek Günlük Bir Yazılım, Küresel Bir Felaket | Ahmet Doğukan Konuk | [Read More](https://medium.com/p/dce5af0b491f) |
+| Thu, 09 Oct 2025 12:25:20 GMT | Is geminiprom.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/4f134eeb1085) |
+| Thu, 09 Oct 2025 12:23:03 GMT | Can You Trust LoomXpress.com? Scam Warnings and Honest Reviews | Editor | [Read More](https://medium.com/p/5e8d5b715db7) |
+| Thu, 09 Oct 2025 12:19:26 GMT | idghc.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/39711fa4fbec) |
+| Thu, 09 Oct 2025 12:17:56 GMT | “The State of Cybersecurity in 2025: Key Facts You Need to See” | Qualysec | [Read More](https://medium.com/p/d70ff9b9835d) |
+| Thu, 09 Oct 2025 12:17:11 GMT | The Persistent Shadow of Public Google Groups: Why Deletion Might Not Erase Your Tracks | Abba Abdullahi Wakili | [Read More](https://medium.com/p/9fdbbb0da5b2) |
+| Thu, 09 Oct 2025 12:17:04 GMT | SQL Injection in WHERE Clause — Hidden Data Retrieval | Ahmed Shawky | [Read More](https://medium.com/p/8c0b6ac51b6c) |
+| Thu, 09 Oct 2025 12:13:10 GMT | The $1.5 B Bybit Hack Explained : How Even Cold Wallets Get Hacked | Motasem Hamdan | [Read More](https://medium.com/p/1052f65a9839) |
+| Thu, 09 Oct 2025 12:08:55 GMT | Inside MCP Security: Navigating Emerging Risks | Muhammad Laraib Khan | [Read More](https://medium.com/p/85d2a0f1d53a) |
+| Thu, 09 Oct 2025 12:03:30 GMT | Firewalld Advanced Rules for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/5454c690f09d) |
+| Thu, 09 Oct 2025 11:56:05 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/75e401eeeffb) |
+| Thu, 09 Oct 2025 11:52:20 GMT | How to Prove You’re You Without Saying Who You Are | Millicent Sefaidiga | [Read More](https://medium.com/p/4cbfcde5d1e6) |
+| Thu, 09 Oct 2025 11:50:55 GMT | Handling CAPTCHAs in Cypress: Spoiler Alert — It’s Ugly | Mario Frohlich | [Read More](https://medium.com/p/88a7ed721a9b) |
+| Thu, 09 Oct 2025 11:49:33 GMT | Choosing a secrets storage: HashiCorp Vault vs OpenBao | Sergio Rua | [Read More](https://medium.com/p/e52792bcd284) |
+| Thu, 09 Oct 2025 11:49:25 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/43094fc19b27) |
+| Thu, 09 Oct 2025 11:44:15 GMT | Mastering Office Automation with Python: My Journey to a Smarter Workday | Kainat Nafees | [Read More](https://medium.com/p/fe12b7ef4c3d) |
+| Thu, 09 Oct 2025 11:42:13 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/2a39a49f83e2) |
+| Thu, 09 Oct 2025 11:34:41 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/7ba697b2bcdd) |
 | Thu, 09 Oct 2025 11:32:03 GMT | Wazuh + N8N Integration Almost Beat Me — But Giving Up Wasn’t an Option | Manish Rawat | [Read More](https://medium.com/p/1af20f4340a0) |
 | Thu, 09 Oct 2025 11:32:02 GMT | Splunking with Zeek Part 3 | Luke | [Read More](https://medium.com/p/9f3f638f2f8b) |
 | Thu, 09 Oct 2025 11:27:19 GMT | Threat Mitigation plan with Incident Response | NetWitness | [Read More](https://medium.com/p/6634925e906f) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 08:12:05 GMT | HPC systems process some of the world’s most sensitive data, yet security guidance is sparse | John Constable | [Read More](https://medium.com/p/573707aada8d) |
 | Thu, 09 Oct 2025 07:54:28 GMT | How LegalTech Protects Your Data: Security and Privacy in 2026 | KnubiSoft | [Read More](https://medium.com/p/9434866abefc) |
 | Thu, 09 Oct 2025 07:54:08 GMT | Security Hardening for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/25da662e8cae) |
-| Thu, 09 Oct 2025 07:51:37 GMT | What Happens During a DDoS Attack? | Shenal | [Read More](https://medium.com/p/3610040e9e16) |
-| Thu, 09 Oct 2025 07:44:27 GMT | Restricted Access Vol. 1 — Room Challenges: Red Team LINUXENIC Corporation Write-up | Yuukoethic | [Read More](https://medium.com/p/3bd73f3b3c4f) |
-| Thu, 09 Oct 2025 07:43:42 GMT | Security First at de5.ai | de5.ai | [Read More](https://medium.com/p/259454a58286) |
-| Thu, 09 Oct 2025 07:38:06 GMT | The Role of ServiceNow Integration in Digital Transformation Initiatives | Alex s | [Read More](https://medium.com/p/a3efb5f661d0) |
-| Thu, 09 Oct 2025 07:31:48 GMT | Tải Hack Hungry Dragon(Vô Hạn Tiền, Kim Cương) v5.5 | MODLMH | [Read More](https://medium.com/p/0fb977e55bfe) |
-| Thu, 09 Oct 2025 07:28:40 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6f70b999f360) |
-| Thu, 09 Oct 2025 07:27:12 GMT | The Problem with Traditional IaC Tools | Saloni | [Read More](https://medium.com/p/1ca5ee2f867b) |
-| Thu, 09 Oct 2025 07:26:10 GMT | Getting Started with the Bandit Wargame: A Beginner’s Gateway to Linux and Cybersecurity | Mohamed ali | [Read More](https://medium.com/p/ad232af3a978) |
-| Thu, 09 Oct 2025 07:21:59 GMT | Penetration Testing | Muhammad Ziddan habibi | [Read More](https://medium.com/p/e829da7d68ff) |
-| Thu, 09 Oct 2025 07:21:27 GMT | 18 000 USD Would Have Saved a Nation — The South Korean Data Center Disaster | Petr Roupec | [Read More](https://medium.com/p/9761fd40a4cf) |
-| Thu, 09 Oct 2025 07:21:21 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/32539c8965a4) |
-| Thu, 09 Oct 2025 07:14:42 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/64c9777de8a3) |
-| Thu, 09 Oct 2025 07:11:46 GMT | SOC Provider in the U.S.: Strengthening Cybersecurity with 24/7 Monitoring and Response | Aaishasharma | [Read More](https://medium.com/p/abca93c6e3fb) |
-| Thu, 09 Oct 2025 07:10:14 GMT | Hackers abused a legitimate forensic tool “Velociraptor”, to Sneak into the Networks and build… | Mohana Reddy | [Read More](https://medium.com/p/e414ae501bb2) |
-| Thu, 09 Oct 2025 07:08:36 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/6100002835f7) |
-| Thu, 09 Oct 2025 07:07:32 GMT | CTF Starter Pack | Suzette Becraft | [Read More](https://medium.com/p/011c72684fb1) |
-| Thu, 09 Oct 2025 07:01:45 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/53547f077d71) |
-| Thu, 09 Oct 2025 06:57:43 GMT | PRISMA BROWSER — SASE-native Secure Browser: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d40ea8623f8f) |
-| Thu, 09 Oct 2025 06:55:24 GMT | The Role of Cybersecurity in Non-Profit Organizations | Cyber Security Research | [Read More](https://medium.com/p/1e7e6c3528d4) |
-| Thu, 09 Oct 2025 06:54:37 GMT | The Silent Partner: Why AI Belongs at the Heart of IT Operations | Arsalan Shemirani | [Read More](https://medium.com/p/7d31a0f847e6) |
-| Thu, 09 Oct 2025 06:53:30 GMT | How to Reconcile Female Strength and a Wounded Male Ego | Eli Cruz | [Read More](https://medium.com/p/631b3e5fd21c) |
-| Thu, 09 Oct 2025 06:51:42 GMT | The Daily Tech Digest: 09 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f56a0063acc3) |
-| Thu, 09 Oct 2025 06:50:44 GMT | EVOLUTION OF MONEY: FROM GOLD TO BITCOIN | Bénzïk | [Read More](https://medium.com/p/23b4b5f3ad98) |
-| Thu, 09 Oct 2025 06:50:31 GMT | ⏱️ Race Condition Vulnerability: When Speed Becomes the Enemy | NadSec | [Read More](https://medium.com/p/69315f95b13c) |
