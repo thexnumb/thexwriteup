@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 02:52:03 GMT | I Opened a Random URL in Incognito and Found a $750 Vulnerability | the_unlucky_guy | [Read More](https://medium.com/p/d8b04b0457c9) |
+| Thu, 09 Oct 2025 02:47:05 GMT | 21. Tips for Staying Consistent and Avoiding Burnout | Abhijeet kumawat | [Read More](https://medium.com/p/a6ebeef29c4f) |
+| Thu, 09 Oct 2025 02:36:14 GMT | From Vulnerable to Secure: Practical Security Patterns in Go | Syarif | [Read More](https://medium.com/p/f3fbf25acedf) |
+| Thu, 09 Oct 2025 02:35:46 GMT | How to Pass Google’s Cloud Application Security Assessment (CASA) — Without Losing Your Mind | Hubert Bratek | [Read More](https://medium.com/p/807f73084c34) |
+| Thu, 09 Oct 2025 02:35:21 GMT | How I Automate Recon and Save 10+ Hours of Manual Work Weekly | Aj | [Read More](https://medium.com/p/a7f5833b7417) |
+| Thu, 09 Oct 2025 02:27:26 GMT | Buffer overflow 1 picoCTF binary exploitation | Michael Elfauz | [Read More](https://medium.com/p/50b721efb2a4) |
+| Thu, 09 Oct 2025 02:19:49 GMT | XML Primer — The Foundation You Must Know Before XXE | Muhammed Asfan - Cybersecurity Specialist | [Read More](https://medium.com/p/1fd822a291a6) |
+| Thu, 09 Oct 2025 02:17:47 GMT | Easly enable Kernal Live Kpatch from  cockpit | Vineesh | [Read More](https://medium.com/p/16979236bcac) |
+| Thu, 09 Oct 2025 02:11:22 GMT | Beyond FM: The Cyberpunk Future of Radio | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/76e7cfb24c31) |
+| Thu, 09 Oct 2025 02:07:35 GMT | How To Pass AWS: Certified Cloud Practitioner in a Week | Sanhith Dinavahi | [Read More](https://medium.com/p/ba7fcd27e72a) |
+| Thu, 09 Oct 2025 02:06:29 GMT | Enhancing Docker Security: Strategies and Practices | @rnab | [Read More](https://medium.com/p/39f244802a39) |
+| Thu, 09 Oct 2025 02:05:26 GMT | The best cheap VPN in 2025: Our top picks starting at just $1.99/mo | Safelyo VPN | [Read More](https://medium.com/p/52ad677a1596) |
+| Thu, 09 Oct 2025 02:03:18 GMT | Ghost Mode Engaged: Practical Privacy for the Everyday Operator | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/27bcc13b1531) |
+| Thu, 09 Oct 2025 01:44:11 GMT | ️ Cyber Guardians: Why Digital Awareness Starts at Home | Ranith Dharmarathne | [Read More](https://medium.com/p/907e3d8602fb) |
+| Thu, 09 Oct 2025 01:34:47 GMT | Intimacy Isn’t Just About Sex | Jacqueline Tydus - Content Creator - Solopreneur | [Read More](https://medium.com/p/0c9c06466ca1) |
+| Thu, 09 Oct 2025 01:33:31 GMT | Can VPN Be Hacked? The Honest Answer & 4 Things To Do | Safelyo Global | [Read More](https://medium.com/p/ac68812a9087) |
 | Thu, 09 Oct 2025 01:27:14 GMT | The Age-Old Question, OSCP or CPTS? | Zumi Yumi | [Read More](https://medium.com/p/408594a99b68) |
 | Thu, 09 Oct 2025 01:26:54 GMT | HackTheBox (BabyTwo) | SilentExploit | [Read More](https://medium.com/p/405d4701a4fa) |
 | Thu, 09 Oct 2025 01:12:48 GMT | Autopsy em Ação: Análise básica de uma Imagem de Windows | Lucas Soeiro | [Read More](https://medium.com/p/f02dcf6b8530) |
@@ -27,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 00:41:01 GMT | SCANNER HACKER CRYPTO RECOVERY
 Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p/9ec6a115ac1f) |
 | Thu, 09 Oct 2025 00:39:53 GMT | You need a different email address for every website | ternera | [Read More](https://medium.com/p/543e4e86eb68) |
+| Thu, 09 Oct 2025 00:35:16 GMT | Alive and Well ? | Gabrielle A. Gibson | [Read More](https://medium.com/p/d0bcac537a20) |
 | Thu, 09 Oct 2025 00:25:57 GMT | “The Bank Card That Bridges Crypto and Stocks — With Built-In Security for a New Era of Financial… | Cliffmusher | [Read More](https://medium.com/p/1aa97d7dde8d) |
 | Thu, 09 Oct 2025 00:07:57 GMT | Implementing Enterprise-Grade Role-Based Access Control with Token Encryption in Angular | Ronik Dedhia | [Read More](https://medium.com/p/acd9f0ca7591) |
 | Thu, 09 Oct 2025 00:03:17 GMT | The Cybersecurity Trinity — CIA TRIAD✅ | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/e15bcbb7de4c) |
@@ -96,20 +113,3 @@ Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p
 | Wed, 08 Oct 2025 19:15:39 GMT | Cloud App Monitoring: Ensuring Performance, Security, and Reliability in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/ef7d058e7da4) |
 | Wed, 08 Oct 2025 19:14:04 GMT | Recovering Deleted Files on Windows with PhotoRec (VMware Lab) | Allen Ace | [Read More](https://medium.com/p/e130965d7884) |
 | Wed, 08 Oct 2025 19:01:10 GMT | SOC 2 Type I vs Type II: Understanding the Difference and Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/ee18de6590c2) |
-| Wed, 08 Oct 2025 18:59:54 GMT | Post-Mortem: BetterBank $5M Exploit (August 2025) | Olympix | [Read More](https://medium.com/p/1e8657209842) |
-| Wed, 08 Oct 2025 18:56:39 GMT | Can’t Upgrade to Windows 11? How to Keep Your PC Safe and Usable | Isaac Muendo | [Read More](https://medium.com/p/6d61d2d9d65a) |
-| Wed, 08 Oct 2025 18:55:47 GMT | Do WhatsApp ao VBS: automação, exfiltração e C2 por e-mail | dathanNobrega | [Read More](https://medium.com/p/3731d0cc1b02) |
-| Wed, 08 Oct 2025 18:55:25 GMT | Third-Party Weakness Triggers Data Breach Impacting Discord Users | RealSec.io | [Read More](https://medium.com/p/b05deb7a9afc) |
-| Wed, 08 Oct 2025 18:54:35 GMT | Hard Truths & Actionable Insights From NCBA Insurance’s CyberGuard Launch Event Discussion Panel | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/0a00b8e017de) |
-| Wed, 08 Oct 2025 18:53:41 GMT | Telegram Posts OSINT via Dorking | Abhirup Konwar | [Read More](https://medium.com/p/114df64f30c4) |
-| Wed, 08 Oct 2025 18:51:43 GMT | ItsyBitsy TryHackMe Room Write-Up | Karim Hesham | [Read More](https://medium.com/p/a1b1e11d5ed5) |
-| Wed, 08 Oct 2025 18:43:39 GMT | SOC as a Service: 24/7 Security Monitoring Without the Overhead | SafeAeon Inc. | [Read More](https://medium.com/p/bc20cb9bf372) |
-| Wed, 08 Oct 2025 18:37:26 GMT | Goodhart’s Law — Kenyan Version | The One Alternative View | [Read More](https://medium.com/p/70a7347e3434) |
-| Wed, 08 Oct 2025 18:37:22 GMT | I Built My Own SIEM On My Desktop | Johnny Meintel | [Read More](https://medium.com/p/786389b41abd) |
-| Wed, 08 Oct 2025 18:36:48 GMT | Inside a Computer Worm Room (102): How It’s Defined, Life Cycle, Types, Actions, Detection &… | blackXmask | [Read More](https://medium.com/p/f1aef26f72c3) |
-| Wed, 08 Oct 2025 18:32:11 GMT | One Click to All Baisc Recon for Bug Bounty | SIDDHANT SHUKLA | [Read More](https://medium.com/p/295ac745d602) |
-| Wed, 08 Oct 2025 18:24:15 GMT | Gobuster vs Feroxbuster : le match des géants de l’énumération web | Telynor | [Read More](https://medium.com/p/3947a70f5349) |
-| Wed, 08 Oct 2025 18:17:33 GMT | ️ Understanding the Fundamentals of Network Security | Asif.k | [Read More](https://medium.com/p/5aedf9d61cec) |
-| Wed, 08 Oct 2025 18:16:39 GMT | Cyber Hygiene Checklist: Daily Security Habits Everyone Should Follow | ENVORASEC | [Read More](https://medium.com/p/3e46f7151977) |
-| Wed, 08 Oct 2025 18:13:58 GMT | Security Starts with You: Proof That Cybersecurity Belongs to Everyone! | Tegar Bayu Pratama | [Read More](https://medium.com/p/9e0f0cd23f2d) |
-| Wed, 08 Oct 2025 18:13:11 GMT | Exploiting A Vulnerable HTTP File Server | Dharmendrakumar | [Read More](https://medium.com/p/ffc26c55d9b2) |
