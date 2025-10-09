@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 22:08:59 GMT | Building a Small but Powerful Network & Security Architecture with 802.1X, RADIUS & DHCP | Helmiriahi | [Read More](https://medium.com/p/e6cc47e608f3) |
+| Thu, 09 Oct 2025 22:03:04 GMT | Because I love you | As Told By Akosua ️️ | [Read More](https://medium.com/p/b2edccee1a88) |
 | Thu, 09 Oct 2025 21:24:53 GMT | Perchè il Dark Web interessa ai Marketer? | Syria | [Read More](https://medium.com/p/4007aefc55a4) |
 | Thu, 09 Oct 2025 21:18:32 GMT | The Rise of AI-Powered Phishing | Matthew.Rosenquist | [Read More](https://medium.com/p/41f6c6adee57) |
 | Thu, 09 Oct 2025 21:13:52 GMT | HacktheBox: Soccer Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/40e62ff1d49b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 15:38:29 GMT | Evolving Cybersecurity Landscape: From Basic Protection to Quantum Threats | Xcelplex | [Read More](https://medium.com/p/bec58387dd98) |
 | Thu, 09 Oct 2025 15:34:02 GMT | Post-Quantum Cryptography: Prepare Now or Panic Later | R A N A   A H M A D | [Read More](https://medium.com/p/37b6c700f883) |
 | Thu, 09 Oct 2025 15:33:46 GMT | 5 Projects That Will Land You a Cybersecurity Job | Aj | [Read More](https://medium.com/p/298c13216507) |
-| Thu, 09 Oct 2025 15:32:12 GMT | How to Change the Frequency on a Garage Door Opener: What You Need to Know | Up & Down Garage Door Services | [Read More](https://medium.com/p/0770a7e4f2af) |
-| Thu, 09 Oct 2025 15:32:11 GMT | Top 10 JS Security Headers That Don’t Slow Your Site | Hash Block | [Read More](https://medium.com/p/3a00dd738b7d) |
