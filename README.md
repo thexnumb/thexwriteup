@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 23:21:10 GMT | Behind the Decorations of Dignity — the Void | Vidblysk Voice | [Read More](https://medium.com/p/3bfd0c98510e) |
 | Thu, 09 Oct 2025 23:01:40 GMT | The Security Paradox: Too Much Data, Too Little Clarity | Cyber-AppSec | [Read More](https://medium.com/p/ad99ba1b517d) |
 | Thu, 09 Oct 2025 22:56:45 GMT | Jack Dorsey ‘Vibe Coded’ a ‘Secure’ App Over the Weekend | Napoleon Beltran | [Read More](https://medium.com/p/1318c2b21747) |
 | Thu, 09 Oct 2025 22:47:24 GMT | Testing AWS Metadata Service: A Cloud Security Lab with SSRF and IMDSv2 | Andrey Dolya | [Read More](https://medium.com/p/0f9d3efda022) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 16:10:07 GMT | wealthfrontstock.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/fd96408dffa4) |
 | Thu, 09 Oct 2025 16:08:09 GMT | Professional Event Security: Solving the Hidden Challenges Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/172a7867bbc8) |
 | Thu, 09 Oct 2025 16:03:15 GMT | Is AELs-Exchange.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/f81aff3a938a) |
-| Thu, 09 Oct 2025 15:59:42 GMT | Security Protocols: Full Guide with Code, Use Cases & Architecture. | Pranav Bahuguna | [Read More](https://medium.com/p/dc8c9f62a660) |
