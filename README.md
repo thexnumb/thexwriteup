@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 10:11:57 GMT | How to Become an AI Pro in Today’s IT World (Without Turning Into a Robot Yourself) | Prathmesh Joshi | [Read More](https://medium.com/p/14fc08823c1a) |
+| Thu, 09 Oct 2025 10:10:02 GMT | Why Most Developers Are One Line of Code Away From a Breach | Muhummad Zaki | [Read More](https://medium.com/p/499b522674ba) |
+| Thu, 09 Oct 2025 10:09:20 GMT | How to Learn Ethical Hacking: Step-by-Step Guide | cyber security Updates | [Read More](https://medium.com/p/a6036cffbbc8) |
+| Thu, 09 Oct 2025 10:07:56 GMT | You Don’t Need to Work Harder — You Need Better Systems | Pujan mondal | [Read More](https://medium.com/p/532503d764a2) |
+| Thu, 09 Oct 2025 10:05:07 GMT | From Hot Wallet to Hardware Wallet: Not Just a Tool Upgrade, But an Awakening of Sovereignty | Digital Shield | [Read More](https://medium.com/p/b6b84f06c37f) |
+| Thu, 09 Oct 2025 10:05:02 GMT | Chaining Vulnerabilities [TRYHACKME] | Aqdas Ahbab | [Read More](https://medium.com/p/4edc26f2a9b0) |
+| Thu, 09 Oct 2025 10:02:50 GMT | Exploring the Benefits of Lockable Rifle Cases: A Focus on Dulce Dom | Johnmessi | [Read More](https://medium.com/p/e7dfd0ea2ed5) |
+| Thu, 09 Oct 2025 09:58:52 GMT | Beyond the Minimum: Scalable MVP Development That Delivers. | Wildnet Edge | [Read More](https://medium.com/p/015e6ded0947) |
+| Thu, 09 Oct 2025 09:49:29 GMT | DROSERA:THE FUTURE OF SMART CONTRACTS. | A_rahman | [Read More](https://medium.com/p/88495aef6a6f) |
+| Thu, 09 Oct 2025 09:43:49 GMT | Walkthrough THM — The Game (Tetris Challenge) | Telynor | [Read More](https://medium.com/p/8b0fed9a5af3) |
+| Thu, 09 Oct 2025 09:42:07 GMT | Security Isn’t Set-and-Forget. It’s a Culture You’ll Never Finish Building. | Abhii Dabas | [Read More](https://medium.com/p/081731eae85a) |
+| Thu, 09 Oct 2025 09:40:54 GMT | Defense Strikes Back, Blue Team Lessons from the Red Side | Fateyaly | [Read More](https://medium.com/p/5648904f3c6f) |
+| Thu, 09 Oct 2025 09:40:52 GMT | AI-Driven Penetration Testing: Is Automation the Future? | Jay C Roberts | [Read More](https://medium.com/p/e05c07b67fc7) |
+| Thu, 09 Oct 2025 09:37:52 GMT | From Generic to Strategic: Unlocking the Power of the Enterprise Continuum in TOGAF® | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/2c89118627b8) |
+| Thu, 09 Oct 2025 09:35:02 GMT | Agent Sudo | Nonsense Shin | [Read More](https://medium.com/p/ab83377c74d4) |
+| Thu, 09 Oct 2025 09:34:48 GMT | How Latest IT Technology Is Rapidly Changing in 2025 and the Upcoming Years | Job24by7 | [Read More](https://medium.com/p/044b1f09a154) |
+| Thu, 09 Oct 2025 09:34:24 GMT | NIS2 Compliance 2025: What’s Actually In Force | Pentest_Testing_Corp | [Read More](https://medium.com/p/4fb61a5f4d90) |
 | Thu, 09 Oct 2025 09:32:56 GMT | “Cybersecurity 2025 — How to Protect Your Data in the Digital Age” | Students | [Read More](https://medium.com/p/9736248eedca) |
 | Thu, 09 Oct 2025 09:31:05 GMT | How Network Management Services Help IT Organizations Improve Business? | Mathewneelan | [Read More](https://medium.com/p/76ee3ce767c7) |
 | Thu, 09 Oct 2025 09:20:02 GMT | I say I don’t miss you, | q | [Read More](https://medium.com/p/5c9293b1e3ac) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 05:02:25 GMT | ประจำวันพฤหัสบดีที่ 9 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ad351276f154) |
 | Thu, 09 Oct 2025 05:00:14 GMT | How I Used Python to Spy (Legally) on 3,000 Laptops | Vishal Gupta | [Read More](https://medium.com/p/af5f2e12662f) |
 | Thu, 09 Oct 2025 04:58:56 GMT | The Hidden Backdoor in Your App: Fixing API Security Before It’s Too Late | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/4c4470cae61c) |
-| Thu, 09 Oct 2025 04:58:05 GMT | Managed IT Services: Why Companies in UAE Are Investing in Them | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/e8dc36ffeb08) |
-| Thu, 09 Oct 2025 04:57:23 GMT | The Black Magic of “Nano Banana”: Your Selfies, Their Secrets | Iflal Ismalebbe | [Read More](https://medium.com/p/d0c3b88d858c) |
-| Thu, 09 Oct 2025 04:53:42 GMT | Our Shared Humanity Lies in Our Vulnerability | Almost Stable - by Lyxia | [Read More](https://medium.com/p/6e99060ddc3c) |
-| Thu, 09 Oct 2025 04:46:53 GMT | Cracking a .NET Reactor Protected Executable: A Reverse Engineering Challenge | Rubber Pirate | [Read More](https://medium.com/p/73248c55fb8b) |
-| Thu, 09 Oct 2025 04:41:29 GMT | TO BECOME A SOC EXPERT(DAY-9) | vulnhunter | [Read More](https://medium.com/p/a601e9e69681) |
-| Thu, 09 Oct 2025 04:27:22 GMT | Top Tech Skill Demand | Jerushansoysa | [Read More](https://medium.com/p/ceb4eb14813a) |
-| Thu, 09 Oct 2025 04:27:07 GMT | What is VoIP (Voice Over Internet Protocol)? | InfosecTrain | [Read More](https://medium.com/p/88e38b9854ca) |
-| Thu, 09 Oct 2025 04:19:48 GMT | Corporate Crisis | Creepus | [Read More](https://medium.com/p/0b16f3b0f4a4) |
-| Thu, 09 Oct 2025 04:10:32 GMT | What in the world is Google Cloud DLP? | Sudheer | [Read More](https://medium.com/p/1214be446fe7) |
-| Thu, 09 Oct 2025 04:10:01 GMT | When Trust Becomes a Target: The Salesforce Breach and the Illusion of Platform Safety in the Age… | Moiz Kothari | [Read More](https://medium.com/p/36dc982f6567) |
-| Thu, 09 Oct 2025 04:09:18 GMT | The Eighth Angel: The Embryo Angel “Sandalphon” — Dynamic Transformation and Rebirth in AI Systems | Scott Huang | [Read More](https://medium.com/p/74c8000ffd89) |
-| Thu, 09 Oct 2025 04:01:42 GMT | Deliverables, Artifacts, and Building Blocks: Decoding the Architecture Content Framework in TOGAF® | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/5c308ff9ef35) |
-| Thu, 09 Oct 2025 04:00:31 GMT | Find your HYDDEN Non-Human Identities (NHIs) | Joe Agler | [Read More](https://medium.com/p/cad49d205386) |
-| Thu, 09 Oct 2025 03:59:32 GMT | How to Start Bug Bounty Hunting in 2026 | Đeepanshu | [Read More](https://medium.com/p/31c97f44925a) |
-| Thu, 09 Oct 2025 03:53:58 GMT | Tải Hack Blox Fruit VNG Full Trái Ác Quỷ, Auto Farm | TaiModApk | [Read More](https://medium.com/p/3af90c0de7c2) |
-| Thu, 09 Oct 2025 03:44:47 GMT | The Phishing Playbook: A Hacker's Guide to Deception & A Defender's Guide to Survival
-Ever wondered… | Sudip Manna | [Read More](https://medium.com/p/d1bdb862f0de) |
-| Thu, 09 Oct 2025 03:40:53 GMT | IDOR Epidemic: How I Found 57 Insecure Direct Object References in One Codebase | Iski | [Read More](https://medium.com/p/0bfab17d156a) |
