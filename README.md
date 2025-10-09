@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 14:14:44 GMT | OAuth Misconfiguration Lead To 1-Click Account Takeover (ATO) | Mahmoud Gamal | [Read More](https://medium.com/p/7b6e44bf7d75) |
+| Thu, 09 Oct 2025 14:13:54 GMT | A Three Headed Monster: DragonForce, LockBit, and Qilin join forces. | Colton J. | [Read More](https://medium.com/p/6f7b19827911) |
+| Thu, 09 Oct 2025 14:12:39 GMT | TCM Security Capstone—Academy-VM-Walkthrough: From FTP to Root | Chayon Datta Utsha | [Read More](https://medium.com/p/b6998bee1fc2) |
+| Thu, 09 Oct 2025 14:08:25 GMT | The Start of Creative Hives | Creative Hives Official | [Read More](https://medium.com/p/63aed83777c4) |
+| Thu, 09 Oct 2025 14:07:00 GMT | The Complete AI Risk Framework: From Security Theatre to Quantified Science | Adetutu Ogunsowo | [Read More](https://medium.com/p/b04e71b206f6) |
+| Thu, 09 Oct 2025 14:04:47 GMT | Efficiency and Performance — Powering Protection with Less Than 100KB | Abatis ABTU | [Read More](https://medium.com/p/9ac5c8511b7d) |
+| Thu, 09 Oct 2025 14:02:49 GMT | Retorno / Return | Kayky | [Read More](https://medium.com/p/410b208fa53b) |
+| Thu, 09 Oct 2025 14:02:07 GMT | Fortifying Your Data Perimeter: Malicious IP Protection in Snowflake | Rajiv Gupta | [Read More](https://medium.com/p/53dbaddf6867) |
+| Thu, 09 Oct 2025 14:02:03 GMT | Part 10: Active Scanning — A Practical Guide (Nmap Examples & Best Practices) | Intelithics | [Read More](https://medium.com/p/334913f27063) |
+| Thu, 09 Oct 2025 14:02:02 GMT | Cyber Briefing: 2025.10.09 | CyberMaterial | [Read More](https://medium.com/p/5e6a7df77a4f) |
+| Thu, 09 Oct 2025 14:01:47 GMT | Cyberdefenders HoneyBot Lab Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/18e50cac3c33) |
+| Thu, 09 Oct 2025 14:01:27 GMT | Stop Intruders in Their Tracks: Get an Email Every Time Someone Logs In via SSH | Konstantinos Patronas | [Read More](https://medium.com/p/603a97d1a7e2) |
+| Thu, 09 Oct 2025 13:56:36 GMT | LetsDefend — SOC Simulator | Kayky | [Read More](https://medium.com/p/0422cb0624ee) |
+| Thu, 09 Oct 2025 13:52:51 GMT | NGINX SSL Proxy with Let’s Encrypt The Complete Guide to Docker | Mahernaija | [Read More](https://medium.com/p/e8770747a4c3) |
+| Thu, 09 Oct 2025 13:51:59 GMT | Bugs Review, Cantina, Gauntlet | typicalHuman | [Read More](https://medium.com/p/0db7800a7ac4) |
+| Thu, 09 Oct 2025 13:47:34 GMT | Essay on AI | Wassim TURKI | [Read More](https://medium.com/p/09bb5fbe33f7) |
+| Thu, 09 Oct 2025 13:46:45 GMT | Short Bugs Review, Sherlock, Malda | typicalHuman | [Read More](https://medium.com/p/1e0a4afc7cad) |
+| Thu, 09 Oct 2025 13:37:46 GMT | The Supply Chain Threat — A06: Vulnerable and Outdated Components - 10 Days with Me - OWASP Top 10… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/b18f16994ded) |
+| Thu, 09 Oct 2025 13:31:45 GMT | CTF collection Vol.2:TryHackMe Writeup :WalkThrough:CTF Answers | Umer | [Read More](https://medium.com/p/5194917e1e14) |
+| Thu, 09 Oct 2025 13:28:25 GMT | Understanding Authentication and Authorization Through a Real-World Example | Divy | [Read More](https://medium.com/p/5f0dda32da4e) |
 | Thu, 09 Oct 2025 13:18:58 GMT | Is morgarbits.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/c6e74969a470) |
 | Thu, 09 Oct 2025 13:17:52 GMT | MetaMask Wallet — CRITICAL Update! | Johnny Time | [Read More](https://medium.com/p/e251b2f79004) |
 | Thu, 09 Oct 2025 13:17:10 GMT | Investigating Windows:TryHackMe Writeup WalkThrough CTF Answers | Umer | [Read More](https://medium.com/p/611666dde723) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 10:02:50 GMT | Exploring the Benefits of Lockable Rifle Cases: A Focus on Dulce Dom | Johnmessi | [Read More](https://medium.com/p/e7dfd0ea2ed5) |
 | Thu, 09 Oct 2025 09:58:52 GMT | Beyond the Minimum: Scalable MVP Development That Delivers. | Wildnet Edge | [Read More](https://medium.com/p/015e6ded0947) |
 | Thu, 09 Oct 2025 09:49:29 GMT | DROSERA:THE FUTURE OF SMART CONTRACTS. | A_rahman | [Read More](https://medium.com/p/88495aef6a6f) |
-| Thu, 09 Oct 2025 09:43:49 GMT | Walkthrough THM — The Game (Tetris Challenge) | Telynor | [Read More](https://medium.com/p/8b0fed9a5af3) |
-| Thu, 09 Oct 2025 09:42:07 GMT | Security Isn’t Set-and-Forget. It’s a Culture You’ll Never Finish Building. | Abhii Dabas | [Read More](https://medium.com/p/081731eae85a) |
-| Thu, 09 Oct 2025 09:40:54 GMT | Defense Strikes Back, Blue Team Lessons from the Red Side | Fateyaly | [Read More](https://medium.com/p/5648904f3c6f) |
-| Thu, 09 Oct 2025 09:40:52 GMT | AI-Driven Penetration Testing: Is Automation the Future? | Jay C Roberts | [Read More](https://medium.com/p/e05c07b67fc7) |
-| Thu, 09 Oct 2025 09:37:52 GMT | From Generic to Strategic: Unlocking the Power of the Enterprise Continuum in TOGAF® | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/2c89118627b8) |
-| Thu, 09 Oct 2025 09:35:02 GMT | Agent Sudo | Nonsense Shin | [Read More](https://medium.com/p/ab83377c74d4) |
-| Thu, 09 Oct 2025 09:34:48 GMT | How Latest IT Technology Is Rapidly Changing in 2025 and the Upcoming Years | Job24by7 | [Read More](https://medium.com/p/044b1f09a154) |
-| Thu, 09 Oct 2025 09:34:24 GMT | NIS2 Compliance 2025: What’s Actually In Force | Pentest_Testing_Corp | [Read More](https://medium.com/p/4fb61a5f4d90) |
-| Thu, 09 Oct 2025 09:32:56 GMT | “Cybersecurity 2025 — How to Protect Your Data in the Digital Age” | Students | [Read More](https://medium.com/p/9736248eedca) |
-| Thu, 09 Oct 2025 09:31:05 GMT | How Network Management Services Help IT Organizations Improve Business? | Mathewneelan | [Read More](https://medium.com/p/76ee3ce767c7) |
-| Thu, 09 Oct 2025 09:20:02 GMT | I say I don’t miss you, | q | [Read More](https://medium.com/p/5c9293b1e3ac) |
-| Thu, 09 Oct 2025 09:18:44 GMT | ProtoVault Breach - OffSec - Echo Response | Ayush Joshi | [Read More](https://medium.com/p/e17d1f49a058) |
-| Thu, 09 Oct 2025 09:17:30 GMT | Identifying attack surfaces using drozer , understanding IPC and components in Android | Sadineni Sai Sushanth | [Read More](https://medium.com/p/efffe96e0aa4) |
-| Thu, 09 Oct 2025 09:13:47 GMT | Locked Lyrics: How Encryption Protects Every Line You Send Online | Sarthak Bagde | [Read More](https://medium.com/p/31abd85edc10) |
-| Thu, 09 Oct 2025 09:09:16 GMT | Linux Intrusion Detection | LinuxDev | [Read More](https://medium.com/p/72d68b320586) |
-| Thu, 09 Oct 2025 09:04:52 GMT | Transforming Business Efficiency and Innovation with Custom Software Development Services | Samon RIchard | [Read More](https://medium.com/p/98a328808b54) |
-| Thu, 09 Oct 2025 09:02:53 GMT | Linux Hardening Techniques | LinuxDev | [Read More](https://medium.com/p/aafe7ebe148b) |
-| Thu, 09 Oct 2025 09:02:32 GMT | The Worst Cyber Attacks of 2025 and in History: Lessons from Digital Battlegrounds | EuroAmerican Education Group | [Read More](https://medium.com/p/2e10ba1081ee) |
-| Thu, 09 Oct 2025 09:02:05 GMT | So… You Thought Your VPN Was Keeping You Safe and Secure? Think Again (Hacker’s Edition) | Very Lazy Tech | [Read More](https://medium.com/p/375e88188221) |
-| Thu, 09 Oct 2025 09:00:20 GMT | How I found Multiple Bugs on CHESS.COM & they refused | Ayush | [Read More](https://medium.com/p/1fa6e308ed1f) |
