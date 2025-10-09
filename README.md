@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 01:27:14 GMT | The Age-Old Question, OSCP or CPTS? | Zumi Yumi | [Read More](https://medium.com/p/408594a99b68) |
+| Thu, 09 Oct 2025 01:26:54 GMT | HackTheBox (BabyTwo) | SilentExploit | [Read More](https://medium.com/p/405d4701a4fa) |
+| Thu, 09 Oct 2025 01:12:48 GMT | Autopsy em Ação: Análise básica de uma Imagem de Windows | Lucas Soeiro | [Read More](https://medium.com/p/f02dcf6b8530) |
+| Thu, 09 Oct 2025 01:11:08 GMT | The Day My AI Assistant Almost Brought Down Our Application | Sreekesh Okky | [Read More](https://medium.com/p/332272ee0327) |
+| Thu, 09 Oct 2025 01:06:56 GMT | How to Speed Up Your Windows PC: Simple Tips and Tricks | Tom T | [Read More](https://medium.com/p/fb52b63fc817) |
+| Thu, 09 Oct 2025 01:04:52 GMT | Why Alert Fidelity Defines the Future of SOC Efficiency? | Dhruv Patel | [Read More](https://medium.com/p/305d4db73414) |
+| Thu, 09 Oct 2025 01:03:36 GMT | Creating a Tech News Site; PCKicks.com | Tom T | [Read More](https://medium.com/p/8c84901995e8) |
+| Thu, 09 Oct 2025 01:02:15 GMT | Find the Best Cyber Security Course for Your Career | Uplyrn | [Read More](https://medium.com/p/6735bc24c1b7) |
+| Thu, 09 Oct 2025 00:58:04 GMT | The Night Call and the Mask of Trust | Vikrant | [Read More](https://medium.com/p/122e30bb88f5) |
+| Thu, 09 Oct 2025 00:54:07 GMT | Stop the Trick: How Prompt Injection Turns Helpful AI into a Security Risk (And the Defenses You… | ZENcurity | [Read More](https://medium.com/p/cc24dfe888f3) |
+| Thu, 09 Oct 2025 00:46:28 GMT | Taking Control of Your Home Network | Gregdiny | [Read More](https://medium.com/p/b0c1ed842986) |
+| Thu, 09 Oct 2025 00:43:46 GMT | Different Types of Hacking — A Friendly (and Legal) Guide | ChennaKeshava | [Read More](https://medium.com/p/be8237636ce5) |
+| Thu, 09 Oct 2025 00:41:01 GMT | SCANNER HACKER CRYPTO RECOVERY
+Lost crypto to hackers or scams? | Lovejouice | [Read More](https://medium.com/p/9ec6a115ac1f) |
+| Thu, 09 Oct 2025 00:39:53 GMT | You need a different email address for every website | ternera | [Read More](https://medium.com/p/543e4e86eb68) |
+| Thu, 09 Oct 2025 00:25:57 GMT | “The Bank Card That Bridges Crypto and Stocks — With Built-In Security for a New Era of Financial… | Cliffmusher | [Read More](https://medium.com/p/1aa97d7dde8d) |
+| Thu, 09 Oct 2025 00:07:57 GMT | Implementing Enterprise-Grade Role-Based Access Control with Token Encryption in Angular | Ronik Dedhia | [Read More](https://medium.com/p/acd9f0ca7591) |
+| Thu, 09 Oct 2025 00:03:17 GMT | The Cybersecurity Trinity — CIA TRIAD✅ | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/e15bcbb7de4c) |
+| Wed, 08 Oct 2025 23:54:29 GMT | How I Became Silico: From Gaming Dreams to Red Team Reality | Silico | [Read More](https://medium.com/p/db4c5292a356) |
+| Wed, 08 Oct 2025 23:53:42 GMT | Configuring Encryption During Installation | Nurali ATMACA | [Read More](https://medium.com/p/a5186924d3db) |
+| Wed, 08 Oct 2025 23:53:12 GMT | Cisco Devices at Risk | Raviteja Mureboina | [Read More](https://medium.com/p/25c9d887a9c1) |
+| Wed, 08 Oct 2025 23:39:31 GMT | Unrestricted File Upload Labs | Omer Bawazir | [Read More](https://medium.com/p/2992e297dd2e) |
 | Wed, 08 Oct 2025 23:27:32 GMT | Need 24/7 Remote Security? | Visual Monitoring Solutions | [Read More](https://medium.com/p/b16e20d31c35) |
 | Wed, 08 Oct 2025 23:22:52 GMT | Why We Imagine Hackers in Hoodies | Rym Khelili | [Read More](https://medium.com/p/81b8692e482b) |
 | Wed, 08 Oct 2025 23:19:05 GMT | The Digital Guardian: How Encryption Protects Your Everyday Life | Peaches | [Read More](https://medium.com/p/2f7c49dd4ee5) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Oct 2025 18:16:39 GMT | Cyber Hygiene Checklist: Daily Security Habits Everyone Should Follow | ENVORASEC | [Read More](https://medium.com/p/3e46f7151977) |
 | Wed, 08 Oct 2025 18:13:58 GMT | Security Starts with You: Proof That Cybersecurity Belongs to Everyone! | Tegar Bayu Pratama | [Read More](https://medium.com/p/9e0f0cd23f2d) |
 | Wed, 08 Oct 2025 18:13:11 GMT | Exploiting A Vulnerable HTTP File Server | Dharmendrakumar | [Read More](https://medium.com/p/ffc26c55d9b2) |
-| Wed, 08 Oct 2025 18:10:54 GMT | LockBit, Qilin, and DragonForce Form Ransomware Alliance — A New Era of Cybercrime Begins | Aditya | [Read More](https://medium.com/p/d1626efdc9fd) |
-| Wed, 08 Oct 2025 18:09:37 GMT | 10 Free Tools Every OSINT Investigator Should Know in 2025 | Aj | [Read More](https://medium.com/p/7f285d46f1b2) |
-| Wed, 08 Oct 2025 18:09:32 GMT | Episode 3— Order Validation Vulnerabilities: How I Bypassed Broken Business Logic to Manipulate… | Yamini Yadav_369 | [Read More](https://medium.com/p/b444eabc2c37) |
-| Wed, 08 Oct 2025 18:09:23 GMT | The Role of OSINT in Modern Hacking: Tools and Real Examples | Shahzaib | [Read More](https://medium.com/p/a2709da5d92b) |
-| Wed, 08 Oct 2025 18:09:20 GMT | Apple iPhone 17 Pro Max – Full Review | Salman Nasafi | [Read More](https://medium.com/p/be293cf5e916) |
-| Wed, 08 Oct 2025 18:09:18 GMT | Subdomain Discovery: Bug Bounty Guide | Monika sharma | [Read More](https://medium.com/p/b496990820f9) |
-| Wed, 08 Oct 2025 18:08:58 GMT | My Virtual HomeLab: SCP File Transfer | Cybersec with Hemmars | [Read More](https://medium.com/p/2826a9324340) |
-| Wed, 08 Oct 2025 18:08:27 GMT | How I Find Sensitive Information Leaks on GitHub (and a Real Example) | Chidubem Chukwu | [Read More](https://medium.com/p/d247be13c809) |
-| Wed, 08 Oct 2025 18:01:59 GMT | Web server: Apache Enumeration | Dharmendrakumar | [Read More](https://medium.com/p/076834a99c9e) |
-| Wed, 08 Oct 2025 18:01:02 GMT | How Java Handles High-Volume Transactions in Financial Systems | Umesh Kumar Yadav | [Read More](https://medium.com/p/6e2e385b8c29) |
-| Wed, 08 Oct 2025 17:59:04 GMT | Walkthrough TryHackMe Sequence | Telynor | [Read More](https://medium.com/p/af33769e3da4) |
-| Wed, 08 Oct 2025 17:54:39 GMT | Unlocking the Login: How Authentication Remembers Who You Are | Mohit Anand | [Read More](https://medium.com/p/f0e34c92e4df) |
-| Wed, 08 Oct 2025 17:51:57 GMT | Inside Claude’s August Infrastructure Crisis | Simardeep Singh | [Read More](https://medium.com/p/0b825c68972f) |
-| Wed, 08 Oct 2025 17:50:13 GMT | OverTheWire: Wargames — Natas (Level 16–30) Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/447011e3b9db) |
-| Wed, 08 Oct 2025 17:43:47 GMT | This OAuth Bug Earned Me $$$$: Account Takeover via Identity Injection | hacker_might | [Read More](https://medium.com/p/27774f65288c) |
-| Wed, 08 Oct 2025 17:40:13 GMT | Is Your UPI PIN Obsolete? A Guide to Authentication in the Age of Biometrics | Mayank Aggarwal | [Read More](https://medium.com/p/a226144b6aec) |
-| Wed, 08 Oct 2025 17:19:55 GMT | Cyber Stories #3: The Wi-Fi Stranger | Rosemary Lark | [Read More](https://medium.com/p/d4330de3cf6d) |
-| Wed, 08 Oct 2025 17:19:38 GMT | Siber Güvenlik Temelleri | Taha Altın | [Read More](https://medium.com/p/f28e42bc31de) |
-| Wed, 08 Oct 2025 17:12:18 GMT | Explore Lucrative IT Jobs Without Coding Skills [2026] | Simplilearn | [Read More](https://medium.com/p/bd030d7c5489) |
-| Wed, 08 Oct 2025 17:08:46 GMT | Automating XSS Detection With Machine Learning: Beyond the Hype | Aj | [Read More](https://medium.com/p/036db1ec7458) |
-| Wed, 08 Oct 2025 17:07:08 GMT | Part 2: Naming The Server and Installing Active Directory | Declan | [Read More](https://medium.com/p/5a86eff2c4d0) |
