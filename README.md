@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 14:55:41 GMT | Announcing Our Investment in SafeHill | Peri Ehlman | [Read More](https://medium.com/p/9d1573098adb) |
+| Thu, 09 Oct 2025 14:51:01 GMT | Why Mandala Siber Exists, and What We’re Trying to Build | Irsyad Muhammad Fawwaz | [Read More](https://medium.com/p/b06fbb804388) |
+| Thu, 09 Oct 2025 14:48:01 GMT | By Dec 31, 2025, will a reputable primary source (Oracle, CISA, Mandiant/MSTIC, affected org’s SEC… | Wes Young | [Read More](https://medium.com/p/206f5e0cd8f4) |
+| Thu, 09 Oct 2025 14:42:42 GMT | “The Two “Boring” Security Flaws That Just Earned Me $60" | Aman Sharma | [Read More](https://medium.com/p/18c6aba42dd0) |
+| Thu, 09 Oct 2025 14:42:02 GMT | How AI and Machine Learning Are Reshaping Cloud Analytics | Techridge Solutions | [Read More](https://medium.com/p/087b36618b4e) |
+| Thu, 09 Oct 2025 14:41:58 GMT | Navigating Financial Storms: How to Avoid Debt in the Coming Years | Hanpis | [Read More](https://medium.com/p/37e013c70ed2) |
+| Thu, 09 Oct 2025 14:40:18 GMT | Python Code Under Fire: Hidden Security Risks | Maikel Mardjan | [Read More](https://medium.com/p/5a38d91ad8fd) |
+| Thu, 09 Oct 2025 14:38:00 GMT | OUR DATAS ARE LEAKED?! The Renault–Dacia Cyberattack | Swetha Jagannathan | [Read More](https://medium.com/p/ad359d4430d7) |
+| Thu, 09 Oct 2025 14:36:13 GMT | Building My Developer Identity Across the Web — Connect With Me Everywhere! | THIYAGARAJAN varadharajan | [Read More](https://medium.com/p/7489a7a6901f) |
+| Thu, 09 Oct 2025 14:32:25 GMT | Data Maintenance | Madanghale | [Read More](https://medium.com/p/96967cc28fb1) |
+| Thu, 09 Oct 2025 14:31:49 GMT | 30-Day Tech Challenge Day 2 | Ben Taylor | [Read More](https://medium.com/p/f5aa9b5edc61) |
+| Thu, 09 Oct 2025 14:31:21 GMT | Python Security: What is SAST | Maikel Mardjan | [Read More](https://medium.com/p/9650cb787276) |
+| Thu, 09 Oct 2025 14:24:57 GMT | Benign — TRYHACKME Write-up Walkthrough | Karim Hesham | [Read More](https://medium.com/p/c469b346d050) |
+| Thu, 09 Oct 2025 14:24:12 GMT | CVE-2025–49125: A single missing slash can expose everything — dissecting CVE-2025–49125. | Greg K | [Read More](https://medium.com/p/46f797be4cd3) |
+| Thu, 09 Oct 2025 14:23:00 GMT | Advance Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/7f3246a57098) |
+| Thu, 09 Oct 2025 14:20:41 GMT | LetsDefend — SOC Simulator/EN version | Kayky | [Read More](https://medium.com/p/a21254e1b0e2) |
+| Thu, 09 Oct 2025 14:17:25 GMT | Public Safety Communications Market Overview: | Kaverigiri | [Read More](https://medium.com/p/7d488754d1d4) |
 | Thu, 09 Oct 2025 14:14:44 GMT | OAuth Misconfiguration Lead To 1-Click Account Takeover (ATO) | Mahmoud Gamal | [Read More](https://medium.com/p/7b6e44bf7d75) |
 | Thu, 09 Oct 2025 14:13:54 GMT | A Three Headed Monster: DragonForce, LockBit, and Qilin join forces. | Colton J. | [Read More](https://medium.com/p/6f7b19827911) |
 | Thu, 09 Oct 2025 14:12:39 GMT | TCM Security Capstone—Academy-VM-Walkthrough: From FTP to Root | Chayon Datta Utsha | [Read More](https://medium.com/p/b6998bee1fc2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 10:53:28 GMT | Deception Technology: Turning the Tables on Attackers | Cyber Security Research | [Read More](https://medium.com/p/64e28033f457) |
 | Thu, 09 Oct 2025 10:52:21 GMT | Dialling into Danger: CVE-2025–57819 and the Collapse of Endpoint Trust in FreePBX | gm0 | [Read More](https://medium.com/p/0a28f73a2525) |
 | Thu, 09 Oct 2025 10:50:37 GMT | Stormy Seas Ahead: How Cyberattacks Threaten Maritime Shipping | Redfox Security | [Read More](https://medium.com/p/c0d210e2debe) |
-| Thu, 09 Oct 2025 10:48:19 GMT | E-Waste Management Market to Reach USD 120.19 | Hareesh | [Read More](https://medium.com/p/0e9d8315d13f) |
-| Thu, 09 Oct 2025 10:35:36 GMT | Why Understanding Infrastructure Is the First Step to Cybersecurity | Utkarsh Raj | [Read More](https://medium.com/p/7a2e58e991f0) |
-| Thu, 09 Oct 2025 10:33:32 GMT | How AI is Transforming Figma Workflows: From ideation to Prototyping | Mayuddin H Sipai | [Read More](https://medium.com/p/f562dcd04fb3) |
-| Thu, 09 Oct 2025 10:30:34 GMT | Acknowledging the Emergence of Agentic Security as a Core Research Domain | Berend Watchus | [Read More](https://medium.com/p/7bcaf5826b6f) |
-| Thu, 09 Oct 2025 10:30:01 GMT | Whether you need firefighting protection, mist system or burglar-alarm systems Saudi Arabia, SAS… | Fire & Security Solution - SAS System Engineering | [Read More](https://medium.com/p/888041f44124) |
-| Thu, 09 Oct 2025 10:28:13 GMT | Cybersecurity Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/c021cc1c38ab) |
-| Thu, 09 Oct 2025 10:26:46 GMT | Render Unto Risk: CVE-2025–11539 and the Fragility of Grafana’s Image Renderer | gm0 | [Read More](https://medium.com/p/5acb10358c48) |
-| Thu, 09 Oct 2025 10:20:02 GMT | Why Loss Prevention Security Guards Are Essential for Every Retail Store | ICORP Security | [Read More](https://medium.com/p/d4400d9bcc3b) |
-| Thu, 09 Oct 2025 10:11:57 GMT | How to Become an AI Pro in Today’s IT World (Without Turning Into a Robot Yourself) | Prathmesh Joshi | [Read More](https://medium.com/p/14fc08823c1a) |
-| Thu, 09 Oct 2025 10:10:02 GMT | Why Most Developers Are One Line of Code Away From a Breach | Muhummad Zaki | [Read More](https://medium.com/p/499b522674ba) |
-| Thu, 09 Oct 2025 10:09:20 GMT | How to Learn Ethical Hacking: Step-by-Step Guide | cyber security Updates | [Read More](https://medium.com/p/a6036cffbbc8) |
-| Thu, 09 Oct 2025 10:07:56 GMT | You Don’t Need to Work Harder — You Need Better Systems | Pujan mondal | [Read More](https://medium.com/p/532503d764a2) |
-| Thu, 09 Oct 2025 10:05:07 GMT | From Hot Wallet to Hardware Wallet: Not Just a Tool Upgrade, But an Awakening of Sovereignty | Digital Shield | [Read More](https://medium.com/p/b6b84f06c37f) |
-| Thu, 09 Oct 2025 10:05:02 GMT | Chaining Vulnerabilities [TRYHACKME] | Aqdas Ahbab | [Read More](https://medium.com/p/4edc26f2a9b0) |
-| Thu, 09 Oct 2025 10:02:50 GMT | Exploring the Benefits of Lockable Rifle Cases: A Focus on Dulce Dom | Johnmessi | [Read More](https://medium.com/p/e7dfd0ea2ed5) |
-| Thu, 09 Oct 2025 09:58:52 GMT | Beyond the Minimum: Scalable MVP Development That Delivers. | Wildnet Edge | [Read More](https://medium.com/p/015e6ded0947) |
-| Thu, 09 Oct 2025 09:49:29 GMT | DROSERA:THE FUTURE OF SMART CONTRACTS. | A_rahman | [Read More](https://medium.com/p/88495aef6a6f) |
