@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Oct 2025 09:32:56 GMT | “Cybersecurity 2025 — How to Protect Your Data in the Digital Age” | Students | [Read More](https://medium.com/p/9736248eedca) |
+| Thu, 09 Oct 2025 09:31:05 GMT | How Network Management Services Help IT Organizations Improve Business? | Mathewneelan | [Read More](https://medium.com/p/76ee3ce767c7) |
 | Thu, 09 Oct 2025 09:20:02 GMT | I say I don’t miss you, | q | [Read More](https://medium.com/p/5c9293b1e3ac) |
+| Thu, 09 Oct 2025 09:18:44 GMT | ProtoVault Breach - OffSec - Echo Response | Ayush Joshi | [Read More](https://medium.com/p/e17d1f49a058) |
 | Thu, 09 Oct 2025 09:17:30 GMT | Identifying attack surfaces using drozer , understanding IPC and components in Android | Sadineni Sai Sushanth | [Read More](https://medium.com/p/efffe96e0aa4) |
 | Thu, 09 Oct 2025 09:13:47 GMT | Locked Lyrics: How Encryption Protects Every Line You Send Online | Sarthak Bagde | [Read More](https://medium.com/p/31abd85edc10) |
 | Thu, 09 Oct 2025 09:09:16 GMT | Linux Intrusion Detection | LinuxDev | [Read More](https://medium.com/p/72d68b320586) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 03:44:47 GMT | The Phishing Playbook: A Hacker's Guide to Deception & A Defender's Guide to Survival
 Ever wondered… | Sudip Manna | [Read More](https://medium.com/p/d1bdb862f0de) |
 | Thu, 09 Oct 2025 03:40:53 GMT | IDOR Epidemic: How I Found 57 Insecure Direct Object References in One Codebase | Iski | [Read More](https://medium.com/p/0bfab17d156a) |
-| Thu, 09 Oct 2025 03:40:32 GMT | Can We Build Systems That Are Secure by Default? | Saloni | [Read More](https://medium.com/p/b1f868848117) |
-| Thu, 09 Oct 2025 03:38:25 GMT | Don’t Hardcode Your API Key: Modern Python Config Management with Pydantic’s Secret Handling | Debra Ray | [Read More](https://medium.com/p/31526e556bd8) |
-| Thu, 09 Oct 2025 03:31:56 GMT | 5 Essential Tips for Advanced Error Handling in Node.js | Arunangshu Das | [Read More](https://medium.com/p/9304130fbb3b) |
