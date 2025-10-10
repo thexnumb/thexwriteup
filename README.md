@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 12:38:25 GMT | Quantum breakthrough: how leaders secure the future | STR4T0TT0 | [Read More](https://medium.com/p/9d732a190f92) |
+| Fri, 10 Oct 2025 12:36:52 GMT | Cloud Misconfigurations Series: Azure Virtual WAN (Part 1) — Common Pitfalls and Connectivity… | Hariharasudhan GK | [Read More](https://medium.com/p/94f42177e241) |
+| Fri, 10 Oct 2025 12:32:05 GMT | 8 Postgres Security Defaults That Start You Strong | Syntal | [Read More](https://medium.com/p/b6eb8bda03bc) |
+| Fri, 10 Oct 2025 12:32:05 GMT | Splunking Skills Assessment | Luke | [Read More](https://medium.com/p/4cc3f55b044e) |
+| Fri, 10 Oct 2025 12:30:17 GMT | How The Web Works [Part 4] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/2ad77d16f03a) |
+| Fri, 10 Oct 2025 12:23:25 GMT | The Python Habit That Quietly Made Me a 10x Developer | Fateyaly | [Read More](https://medium.com/p/0811ea7c07cc) |
+| Fri, 10 Oct 2025 12:20:16 GMT | Widespread Active Exploitations Put Critical Infrastructure at Risk | Loginsoft | [Read More](https://medium.com/p/c22b55d69f3d) |
+| Fri, 10 Oct 2025 12:20:10 GMT | What Men Want (But Will Never Say Aloud) | Wisdom from Ubaka | [Read More](https://medium.com/p/dfa03fc76e5c) |
+| Fri, 10 Oct 2025 12:15:17 GMT | First-Time WiFi Pentest — Real-World Findings | 0xc4t | [Read More](https://medium.com/p/205ca774dbf0) |
+| Fri, 10 Oct 2025 12:11:10 GMT | Understanding Authorization: The Gatekeeper of Access | Divy | [Read More](https://medium.com/p/c359b53ae283) |
+| Fri, 10 Oct 2025 12:03:12 GMT | Cybersecurity Internships: A Fast-Growing Career Option for 2026 | Pradeep Kashyap | [Read More](https://medium.com/p/9a1f8d0d48b1) |
+| Fri, 10 Oct 2025 12:02:13 GMT | Learning AWS the Practical Way — Part 3: Building Secure APIs with Amazon API Gateway and Amazon… | Aditya Pise | [Read More](https://medium.com/p/e6c7913f0425) |
+| Fri, 10 Oct 2025 12:02:12 GMT | Common Online Safety Mistakes: A No-Nonsense Guide for the Everyday User | Favour  Elijah | [Read More](https://medium.com/p/4d5d385cd8cd) |
+| Fri, 10 Oct 2025 12:01:25 GMT | AI’s Digital Siege: Starving the Web or Sparking a Revolution? | Jurgen Proschinger | [Read More](https://medium.com/p/e37fb22e0935) |
+| Fri, 10 Oct 2025 11:58:26 GMT | ADCS Attack Series: Abusing ESC10 for Privilege Escalation via Misconfigured Registries | Nairuz Abulhul | [Read More](https://medium.com/p/a8c6edf07d9e) |
+| Fri, 10 Oct 2025 11:39:45 GMT | Stopping Shadow AI: How to Block Risky AI Apps with Microsoft Defender for Cloud Apps | Defend Microsoft365 now! | [Read More](https://medium.com/p/61d7fefebb0f) |
 | Fri, 10 Oct 2025 11:22:15 GMT | How IT Outsourcing Services in Irvine Transform Business Technology | KaufmanIT Inc. | [Read More](https://medium.com/p/51dbbefe9472) |
 | Fri, 10 Oct 2025 11:20:21 GMT | Reimagining IT Operations: A Strategic Blueprint for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/02b9f66c1bf6) |
+| Fri, 10 Oct 2025 11:12:17 GMT | Thought Bubbles | Jenni | [Read More](https://medium.com/p/76311eb1bf02) |
 | Fri, 10 Oct 2025 11:12:07 GMT | One thing I’ve learned in cybersecurity is that not everyone should have access to everything, and… | Adeleke Theophilus O | [Read More](https://medium.com/p/e848b50c37ae) |
 | Fri, 10 Oct 2025 11:08:45 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/9a75d5098621) |
 | Fri, 10 Oct 2025 11:05:40 GMT | Your Technical Skills Won’t Promote You-Your Influence Will | Tim Murkomen | [Read More](https://medium.com/p/f99d60421260) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 07:51:27 GMT | command injection : how to Discover and Exploit | Obscure | [Read More](https://medium.com/p/d1654c296a24) |
 | Fri, 10 Oct 2025 07:49:44 GMT | What Uber, Netflix & Instagram Taught Me About System Design | Saikiran Kalidindi | [Read More](https://medium.com/p/68e478e926c2) |
 | Fri, 10 Oct 2025 07:47:44 GMT | When LLMs Inherit Vulnerabilities… Through the Supply Chain | Rabia AMAAOUCH | [Read More](https://medium.com/p/f643fec3437b) |
-| Fri, 10 Oct 2025 07:47:41 GMT | The Courage to Begin Again After You’ve Lost Faith in Yourself | Darpan Murly | [Read More](https://medium.com/p/e19d291435ad) |
-| Fri, 10 Oct 2025 07:44:28 GMT | Become a ‘Digital Avatar’ and Still Prove ‘You Are You’? | Rui Bian | [Read More](https://medium.com/p/d15e020c4b10) |
-| Fri, 10 Oct 2025 07:38:22 GMT | United States et al. v. Google: DOJ Challenges Digital Monopoly | Ekata Deb | [Read More](https://medium.com/p/009e2e224d66) |
-| Fri, 10 Oct 2025 07:29:55 GMT | Understanding IT Infrastructure: Key Components and Best Practices for Businesses | Secuodsoft Technologies | [Read More](https://medium.com/p/7c8fb9240129) |
-| Fri, 10 Oct 2025 07:21:30 GMT | ️ Shadow APIs in Multi-Tenant SaaS: The Hidden Attack Surface Nobody Monitors | Narendar Battula (nArEn) | [Read More](https://medium.com/p/169c916238da) |
-| Fri, 10 Oct 2025 07:20:44 GMT | AI and Criminal Justice in China: Revolution, Risks, and Realities | Adv. Amisha Singh | [Read More](https://medium.com/p/080f7b4ae6fb) |
-| Fri, 10 Oct 2025 07:18:16 GMT | Cyber-AI Evolution: The Hidden Truths Behind a Digital Intelligence War | Hira Ahmad | [Read More](https://medium.com/p/f2737f87a097) |
-| Fri, 10 Oct 2025 07:05:26 GMT | The Daily Tech Digest: 10 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/3810f26aaa38) |
-| Fri, 10 Oct 2025 07:01:19 GMT | CL0P and the Oracle Breach: The New Cyberattack Wave Targeting Global Enterprises | Germano Costi | [Read More](https://medium.com/p/40b1be107d91) |
-| Fri, 10 Oct 2025 06:57:03 GMT | How Is It to Have a Friend Who Is a Psychologist? | Maria Pricopie | [Read More](https://medium.com/p/827d3164317b) |
-| Fri, 10 Oct 2025 06:56:33 GMT | Ensuring Safety and Peace of Mind: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/f3373ce1feb8) |
-| Fri, 10 Oct 2025 06:48:07 GMT | The One Setting in Your Browser That’s Silently Leaking Data | Arfa | [Read More](https://medium.com/p/7431ebf722f9) |
-| Fri, 10 Oct 2025 06:46:36 GMT | Latest AI systems are getting attacked right now, and they probably don't even know it. | Abhishek Kevin Gomes | [Read More](https://medium.com/p/e9b2741b32e8) |
-| Fri, 10 Oct 2025 06:40:04 GMT | SOC as a Service for BFSI: Strengthening Cybersecurity and Compliance | Microscan Communications | [Read More](https://medium.com/p/f76ec42d981c) |
-| Fri, 10 Oct 2025 06:36:30 GMT | Best Practices for Network Vulnerability Assessment in 2025 - NMT Security | NMT Security | [Read More](https://medium.com/p/0754c40ab7d2) |
-| Fri, 10 Oct 2025 06:35:42 GMT | Vanna.AI: Integrated Prompt Injection RCE | Rana Fahad Aman | [Read More](https://medium.com/p/e15982423139) |
-| Fri, 10 Oct 2025 06:34:28 GMT | ClayRat Spyware: The New Android Threat You Must Know About | Germano Costi | [Read More](https://medium.com/p/467e0bd751c4) |
