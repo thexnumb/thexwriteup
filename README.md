@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 20:07:59 GMT | How I Almost Fell for a Discord Impersonation Scam — And What It Taught Me About Social… | Ahmed hossam | [Read More](https://medium.com/p/e1e66cf5001d) |
+| Fri, 10 Oct 2025 19:58:48 GMT | SOC Automation Project: Implementing SOAR for Threat Detection and Response | Mali Carter | [Read More](https://medium.com/p/f619a553721c) |
+| Fri, 10 Oct 2025 19:56:44 GMT | How SPF Checkers Are Unknowingly Exposing Websites to XSS Attacks | D Johnston | [Read More](https://medium.com/p/faeff947bfa9) |
+| Fri, 10 Oct 2025 19:53:34 GMT | How Much Can a Stranger Learn About You in 5 Minutes? | Samirah A.O | [Read More](https://medium.com/p/04b6b29e6e89) |
+| Fri, 10 Oct 2025 19:51:03 GMT | [CyberDefenders Write-up] Oski Lab | OxMotaw3 | [Read More](https://medium.com/p/490522520a8d) |
+| Fri, 10 Oct 2025 19:42:25 GMT | I Used ChatGPT to Write Cybersecurity Content for 30 Days | Muhammad Haider Tallal | [Read More](https://medium.com/p/db06fd286288) |
 | Fri, 10 Oct 2025 19:29:41 GMT | Day 4:Windows Fundamentals 2 | Ogundipe Priscilla | [Read More](https://medium.com/p/e30635b112c1) |
 | Fri, 10 Oct 2025 19:23:23 GMT | Empowering women makes nation empower | souvik Das | [Read More](https://medium.com/p/eed9640470e5) |
 | Fri, 10 Oct 2025 19:21:38 GMT | Vulnerability — how we are truly communicate | Duhaa Ahmed | [Read More](https://medium.com/p/7234af16482f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:32:05 GMT | Introducing RESTHeart’s Permission System | Maurizio Turatti | [Read More](https://medium.com/p/cc7016ace9ec) |
 | Fri, 10 Oct 2025 14:30:43 GMT | How to Learn Network Security: Step-by-Step Guide for Beginners 2025 | Hachtechnology | [Read More](https://medium.com/p/19a8d75cf8da) |
 | Fri, 10 Oct 2025 14:29:42 GMT | 5 Cybersecurity Trends Every MSP Needs to Know in 2025 | Donald Betancourt | [Read More](https://medium.com/p/9e2295980833) |
-| Fri, 10 Oct 2025 14:24:03 GMT | CVE Deep Dive : CVE-2025–26465 | Optimus_Brime | [Read More](https://medium.com/p/4b7aee2dc82e) |
-| Fri, 10 Oct 2025 14:21:53 GMT | Finding XSS on a Real-World Bug Bounty Program | Ibtissam hammadi | [Read More](https://medium.com/p/d718335bcb30) |
-| Fri, 10 Oct 2025 14:21:48 GMT | Mr Robot CTF :TryHackMe WalkThrough WriteUp Answers | Umer | [Read More](https://medium.com/p/830f70540b4e) |
-| Fri, 10 Oct 2025 14:12:25 GMT | From Gatekeeper to Game Changer: Redefining Security for Today’s Digital Products | Kevin Bigler | [Read More](https://medium.com/p/43db023bbc4e) |
-| Fri, 10 Oct 2025 14:10:42 GMT | The Capability-Based Security Model That Makes Privilege Escalation Impossible | Sohail x Codes | [Read More](https://medium.com/p/8231d679b972) |
-| Fri, 10 Oct 2025 14:06:30 GMT | Building Secure Authentication Systems with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/68a1d1d1dddc) |
