@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 08:22:08 GMT | They Call Us Criminals. We Call Ourselves Hackers. | Paul Lemay | [Read More](https://medium.com/p/e27baaf9ce81) |
+| Fri, 10 Oct 2025 08:19:52 GMT | Why I’m Leaving Medium (And Why You Should Follow Me to Substack) | Heinancabouly | [Read More](https://medium.com/p/7b53915369e4) |
+| Fri, 10 Oct 2025 08:13:20 GMT | Frida Labs — Challenge 0x2: Triggering a Static Method with Frida | Ahmed Alnajjar | [Read More](https://medium.com/p/207e06c1a3c9) |
+| Fri, 10 Oct 2025 08:12:06 GMT | What Does It Mean to Be the “Best” Cybersecurity Company? | Digital Defense | [Read More](https://medium.com/p/ee826c14ce93) |
+| Fri, 10 Oct 2025 08:08:37 GMT | Top 10 Cyber Security Companies Worldwide | Manisha Chaudhary | [Read More](https://medium.com/p/e64ec6f7180a) |
+| Fri, 10 Oct 2025 08:01:58 GMT | Cybersecurity Salary in Nigeria 2025: Pay Scale, Growth & Career Insights | ECR Academy | [Read More](https://medium.com/p/de08a73f86ac) |
+| Fri, 10 Oct 2025 07:51:27 GMT | command injection : how to Discover and Exploit | Obscure | [Read More](https://medium.com/p/d1654c296a24) |
+| Fri, 10 Oct 2025 07:49:44 GMT | What Uber, Netflix & Instagram Taught Me About System Design | Saikiran Kalidindi | [Read More](https://medium.com/p/68e478e926c2) |
+| Fri, 10 Oct 2025 07:47:44 GMT | When LLMs Inherit Vulnerabilities… Through the Supply Chain | Rabia AMAAOUCH | [Read More](https://medium.com/p/f643fec3437b) |
+| Fri, 10 Oct 2025 07:47:41 GMT | The Courage to Begin Again After You’ve Lost Faith in Yourself | Darpan Murly | [Read More](https://medium.com/p/e19d291435ad) |
+| Fri, 10 Oct 2025 07:44:28 GMT | Become a ‘Digital Avatar’ and Still Prove ‘You Are You’? | Rui Bian | [Read More](https://medium.com/p/d15e020c4b10) |
 | Fri, 10 Oct 2025 07:38:22 GMT | United States et al. v. Google: DOJ Challenges Digital Monopoly | Ekata Deb | [Read More](https://medium.com/p/009e2e224d66) |
 | Fri, 10 Oct 2025 07:29:55 GMT | Understanding IT Infrastructure: Key Components and Best Practices for Businesses | Secuodsoft Technologies | [Read More](https://medium.com/p/7c8fb9240129) |
 | Fri, 10 Oct 2025 07:21:30 GMT | ️ Shadow APIs in Multi-Tenant SaaS: The Hidden Attack Surface Nobody Monitors | Narendar Battula (nArEn) | [Read More](https://medium.com/p/169c916238da) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 23:58:42 GMT | How Systems Thinking Can Defend Against Cyber Attacks | Noor | [Read More](https://medium.com/p/ffcd170cb576) |
 | Thu, 09 Oct 2025 23:56:22 GMT | Uttar Pradesh Plans QR Code Verification for Property Ownership by 2026 | Nathaniel Langley | [Read More](https://medium.com/p/5c9a9a7ac9bf) |
 | Thu, 09 Oct 2025 23:54:42 GMT | Google Rolls Out QR Code Verification for Secure Text Messages | Nathaniel Langley | [Read More](https://medium.com/p/2d7bb6414a58) |
-| Thu, 09 Oct 2025 23:21:10 GMT | Behind the Decorations of Dignity — the Void | Vidblysk Voice | [Read More](https://medium.com/p/3bfd0c98510e) |
-| Thu, 09 Oct 2025 23:01:40 GMT | The Security Paradox: Too Much Data, Too Little Clarity | Cyber-AppSec | [Read More](https://medium.com/p/ad99ba1b517d) |
-| Thu, 09 Oct 2025 22:56:45 GMT | Jack Dorsey ‘Vibe Coded’ a ‘Secure’ App Over the Weekend | Napoleon Beltran | [Read More](https://medium.com/p/1318c2b21747) |
-| Thu, 09 Oct 2025 22:47:24 GMT | Testing AWS Metadata Service: A Cloud Security Lab with SSRF and IMDSv2 | Andrey Dolya | [Read More](https://medium.com/p/0f9d3efda022) |
-| Thu, 09 Oct 2025 22:31:38 GMT | Failing Gracefully: Essential Safety Rails for AI Agents in 2025 | Daniel García | [Read More](https://medium.com/p/3a6a49f02e8b) |
-| Thu, 09 Oct 2025 22:19:18 GMT | Greed Is Every Scammer’s Best Weapon | Levi Josh | [Read More](https://medium.com/p/9a62d1f7d2f5) |
-| Thu, 09 Oct 2025 22:08:59 GMT | Building a Small but Powerful Network & Security Architecture with 802.1X, RADIUS & DHCP | Helmiriahi | [Read More](https://medium.com/p/e6cc47e608f3) |
-| Thu, 09 Oct 2025 22:03:04 GMT | Because I love you | As Told By Akosua ️️ | [Read More](https://medium.com/p/b2edccee1a88) |
-| Thu, 09 Oct 2025 21:24:53 GMT | Perchè il Dark Web interessa ai Marketer? | Syria | [Read More](https://medium.com/p/4007aefc55a4) |
-| Thu, 09 Oct 2025 21:18:32 GMT | The Rise of AI-Powered Phishing | Matthew.Rosenquist | [Read More](https://medium.com/p/41f6c6adee57) |
-| Thu, 09 Oct 2025 21:13:52 GMT | HacktheBox: Soccer Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/40e62ff1d49b) |
