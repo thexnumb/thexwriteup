@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 05:17:13 GMT | WiFi Dead Zones Explained — And How to Eliminate Them Instantly | Ask IT Support | [Read More](https://medium.com/p/883b66cd3ef2) |
+| Fri, 10 Oct 2025 05:03:50 GMT | Linux Dirty Pipe Vulnerability Quick and Easy | Sebastian | [Read More](https://medium.com/p/b2f2a188ca77) |
+| Fri, 10 Oct 2025 04:55:06 GMT | The Day My Wi-Fi Turned Against Me | Lakshita Gulliya | [Read More](https://medium.com/p/cfc413dce63e) |
+| Fri, 10 Oct 2025 04:43:57 GMT | Are All Traces Equal? Mandelbrot, Hurst, and the Groove We Leave in the Universe | Cbresciano | [Read More](https://medium.com/p/3b41658f2506) |
+| Fri, 10 Oct 2025 04:40:42 GMT | ️ OPSEC: How to Safely Run Untrusted Software in Daily Life | Balki Maharaj | [Read More](https://medium.com/p/223a2e81372a) |
 | Fri, 10 Oct 2025 04:15:29 GMT | Outbound - HTB | Skywalkerluc | [Read More](https://medium.com/p/bd90d1941248) |
 | Fri, 10 Oct 2025 04:13:19 GMT | The Enterprise Metamodel: Structuring Architecture for Strategic Clarity | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/65d683e5ea63) |
 | Fri, 10 Oct 2025 03:37:16 GMT | 3rd party PII Leak OSINT | Abhirup Konwar | [Read More](https://medium.com/p/75b5f236e3e5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 19:20:30 GMT | Cybersecurity Consulting Firms: Guiding Businesses Toward Stronger Digital Protection | SafeAeon Inc. | [Read More](https://medium.com/p/b761cfea7abe) |
 | Thu, 09 Oct 2025 19:16:01 GMT | The Gap Between Watching AI Videos and Actually Understanding Them | Gil S. | [Read More](https://medium.com/p/7cbfcfa7ffca) |
 | Thu, 09 Oct 2025 19:14:54 GMT | A Story About Time | Rodolfo Meza | [Read More](https://medium.com/p/83ef02cd138a) |
-| Thu, 09 Oct 2025 19:08:17 GMT | Bloodstream Firmware: The Next Frontier of Self-Modification | Aeon Dexrane | [Read More](https://medium.com/p/41a7afde6a86) |
-| Thu, 09 Oct 2025 19:08:15 GMT | I found the original content difficult to read and understand, so I decided to leverage a large… | Khurshid Hassan | [Read More](https://medium.com/p/55b92dbfc1f6) |
-| Thu, 09 Oct 2025 18:48:00 GMT | Introduction to BYOC(Bring Your Own Container) | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/a50800a174d9) |
-| Thu, 09 Oct 2025 18:47:26 GMT | TryHackMe Writeup: LazyAdmin | Berkay AĞGÜL | [Read More](https://medium.com/p/69afad775c25) |
-| Thu, 09 Oct 2025 18:47:03 GMT | Production-Ready AI Agents: Cloudflare’s Code Mode Solution | Valdez Ladd | [Read More](https://medium.com/p/3f81f666421f) |
