@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 13:42:23 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8563eb006dee) |
+| Fri, 10 Oct 2025 13:42:12 GMT | How to Lock a Closet Door: Simple Solutions for Extra Privacy | Sure Lock & Key LLC | [Read More](https://medium.com/p/dec349d66c2c) |
+| Fri, 10 Oct 2025 13:38:06 GMT | Kendi Dilimle Network — 2. Gün - Ağ Topolojileri | Melih Kılıç | [Read More](https://medium.com/p/ff72633db754) |
+| Fri, 10 Oct 2025 13:35:15 GMT | Kendi Dilimle Network - 1. Gün — Ağlar ve Ağ içi cihazlar | Melih Kılıç | [Read More](https://medium.com/p/03e8bd158323) |
+| Fri, 10 Oct 2025 13:32:55 GMT | Kendi Dilimle Network - -Neden Bu Seriyi Başlattım? | Melih Kılıç | [Read More](https://medium.com/p/0280a2596bfb) |
+| Fri, 10 Oct 2025 13:31:12 GMT | ShareTide, or how we are Open Sourcing 200+ OpenTide Threat Objects and building a community to… | Behemoth Security | [Read More](https://medium.com/p/9716ee159788) |
+| Fri, 10 Oct 2025 13:30:03 GMT | Authentication and Authorization: Secure Access Control | Cyber Security Research | [Read More](https://medium.com/p/0f900456fa12) |
+| Fri, 10 Oct 2025 13:26:32 GMT | Agentic AI vs. Generative AI in Cybersecurity | Stellar Cyber | [Read More](https://medium.com/p/805f72094ff6) |
 | Fri, 10 Oct 2025 13:25:48 GMT | Cloud Misconfigurations Series: Azure Virtual WAN (Part 2) — Deep Dive into Route Propagation &… | Hariharasudhan GK | [Read More](https://medium.com/p/54b49fc7d8f4) |
 | Fri, 10 Oct 2025 13:23:33 GMT | Digital Identity Management | Cyber Security Research | [Read More](https://medium.com/p/c58f051a5897) |
+| Fri, 10 Oct 2025 13:23:04 GMT | The 2 AM Email That Changed Everything: Why Experience Alone Isn’t Enough in 2025 | GIPMC | [Read More](https://medium.com/p/5fd7d101223a) |
 | Fri, 10 Oct 2025 13:19:11 GMT | Maybe Web3 Doesn’t Need Another Auidit — It Needs Awareness. | Mercyar | [Read More](https://medium.com/p/b497bb29fbf2) |
 | Fri, 10 Oct 2025 13:17:29 GMT | Understanding Security Information and Event Management (SIEM) | Cyber Security Research | [Read More](https://medium.com/p/cf41ce1c264a) |
 | Fri, 10 Oct 2025 13:17:14 GMT | Integrating Physical and Cyber Security: The Future of Enterprise Protection | Fortnexs Shield | [Read More](https://medium.com/p/c59582712390) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 09:58:28 GMT | Top 10 Internship Programs in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/a4fa0d16f1bc) |
 | Fri, 10 Oct 2025 09:57:41 GMT | 5 Cybersecurity Lessons I Learned After a 3AM Data Breach | Muhummad Zaki | [Read More](https://medium.com/p/1539e281d40f) |
 | Fri, 10 Oct 2025 09:55:59 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/89c6b8ee67b3) |
-| Fri, 10 Oct 2025 09:51:51 GMT | MCP as Your Malware Analysis Assistant | Rizqi Setyo Kusprihantanto | [Read More](https://medium.com/p/75c177b2788f) |
-| Fri, 10 Oct 2025 09:38:02 GMT | Can Learning AWS Make You An Industry Expert? | Mohammed Numan | [Read More](https://medium.com/p/edcfb00e01af) |
-| Fri, 10 Oct 2025 09:36:57 GMT | The Lazarus Hacking Group: Inside North Korea’s Billion-Dollar Cyber Empire | Motasem Hamdan | [Read More](https://medium.com/p/5d9f704490e2) |
-| Fri, 10 Oct 2025 09:36:16 GMT | Cybersecurity Risk Management: A Comprehensive Guide | Cyber Security Research | [Read More](https://medium.com/p/11a7cb592b6e) |
-| Fri, 10 Oct 2025 09:31:42 GMT | How I found an unauthenticated goldmine of PII | 0xP0L73R63157 | [Read More](https://medium.com/p/8f1fc93d8a0d) |
-| Fri, 10 Oct 2025 09:31:00 GMT | Tải Xtreme Motorbikes Mod Xe Độ (Bản VIP, Full Tiền) V2.8 | MODCOMBO | [Read More](https://medium.com/p/6d9d06297e2d) |
-| Fri, 10 Oct 2025 09:26:48 GMT | Fletcher Reede The Coder: Brutal Standup Truth Bomb | Namir Sagheenanajar | [Read More](https://medium.com/p/f85bd7a10fd2) |
-| Fri, 10 Oct 2025 09:24:01 GMT | Denial of Service (DoS) - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/a9a5674ee707) |
-| Fri, 10 Oct 2025 09:23:04 GMT | The Hacker’s Mind: Understanding Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/333431217f65) |
