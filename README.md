@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 08:46:28 GMT | LLM Jailbreaking: Advanced Attack Techniques and Defense Strategies Unpacked | JIN | [Read More](https://medium.com/p/7c17b31ff1de) |
+| Fri, 10 Oct 2025 08:41:12 GMT | Revenge And Ego Are Like Twins | Certified ZM | [Read More](https://medium.com/p/10f3666e4dbd) |
+| Fri, 10 Oct 2025 08:37:13 GMT | XLMRat Lab — Network Forensics Report | Zulfianarahmi | [Read More](https://medium.com/p/9c79695012a1) |
+| Fri, 10 Oct 2025 08:22:58 GMT | OSP Labs — A Trusted Partner for Healthcare IT Services and Software Development | rose fox | [Read More](https://medium.com/p/25bbfbddd826) |
 | Fri, 10 Oct 2025 08:22:08 GMT | They Call Us Criminals. We Call Ourselves Hackers. | Paul Lemay | [Read More](https://medium.com/p/e27baaf9ce81) |
 | Fri, 10 Oct 2025 08:19:52 GMT | Why I’m Leaving Medium (And Why You Should Follow Me to Substack) | Heinancabouly | [Read More](https://medium.com/p/7b53915369e4) |
+| Fri, 10 Oct 2025 08:19:07 GMT | Vulnerability and Resilience | Dr. Seema Patel (PhD) | [Read More](https://medium.com/p/b659442ac201) |
 | Fri, 10 Oct 2025 08:13:20 GMT | Frida Labs — Challenge 0x2: Triggering a Static Method with Frida | Ahmed Alnajjar | [Read More](https://medium.com/p/207e06c1a3c9) |
 | Fri, 10 Oct 2025 08:12:06 GMT | What Does It Mean to Be the “Best” Cybersecurity Company? | Digital Defense | [Read More](https://medium.com/p/ee826c14ce93) |
 | Fri, 10 Oct 2025 08:08:37 GMT | Top 10 Cyber Security Companies Worldwide | Manisha Chaudhary | [Read More](https://medium.com/p/e64ec6f7180a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 00:32:04 GMT | Linux Runtime Kernel Guard: A Comprehensive Guide | ThamizhElango Natarajan | [Read More](https://medium.com/p/4607637833fb) |
 | Fri, 10 Oct 2025 00:25:34 GMT | The Bloodied Path: How Puerto Rico’s Independent Party (PIP) Shaped Politics, Campuses, and Foreign… | The Architect | [Read More](https://medium.com/p/486462d27ea5) |
 | Fri, 10 Oct 2025 00:07:08 GMT | Navigating Data Security in GenAI — A Multi-layer Approach | James Chan | [Read More](https://medium.com/p/73ae55f73bec) |
-| Fri, 10 Oct 2025 00:02:03 GMT | GetAllUrls (gau): El Detector de Endpoints Antiguos y Olvidados en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/cec72c694bac) |
-| Thu, 09 Oct 2025 23:58:51 GMT | Agentic AI: why your business might be building on shifting sands | Sarah Fan | [Read More](https://medium.com/p/0165f2057dfa) |
-| Thu, 09 Oct 2025 23:58:42 GMT | How Systems Thinking Can Defend Against Cyber Attacks | Noor | [Read More](https://medium.com/p/ffcd170cb576) |
-| Thu, 09 Oct 2025 23:56:22 GMT | Uttar Pradesh Plans QR Code Verification for Property Ownership by 2026 | Nathaniel Langley | [Read More](https://medium.com/p/5c9a9a7ac9bf) |
-| Thu, 09 Oct 2025 23:54:42 GMT | Google Rolls Out QR Code Verification for Secure Text Messages | Nathaniel Langley | [Read More](https://medium.com/p/2d7bb6414a58) |
