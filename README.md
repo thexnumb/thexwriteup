@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 18:20:58 GMT | ️‍♂️ Inside a Cyberattack: How Hackers Break In | Asif.k | [Read More](https://medium.com/p/930a8c9316d1) |
+| Fri, 10 Oct 2025 18:18:43 GMT | WHY does it smell good? | Argun Cencen | [Read More](https://medium.com/p/17f6b26e47e7) |
+| Fri, 10 Oct 2025 18:14:50 GMT | Detour route, hopped into the Dictionary | Kevin Dimas Romero | [Read More](https://medium.com/p/113ddb6dc155) |
+| Fri, 10 Oct 2025 18:11:54 GMT | Writers Ask Questions Too | Esther Kenneth | [Read More](https://medium.com/p/9b609ebe4423) |
+| Fri, 10 Oct 2025 18:06:49 GMT | How to Lock Your Social Security Number Safely | SafeAeon Inc. | [Read More](https://medium.com/p/d1d2618bc290) |
+| Fri, 10 Oct 2025 18:06:29 GMT | Exploring Advanced Docker Security Practices | @rnab | [Read More](https://medium.com/p/71a7df7268c0) |
+| Fri, 10 Oct 2025 18:01:56 GMT | $35,000 por este fallo en GitLab — Análisis completo y lecciones reales | Gorka | [Read More](https://medium.com/p/601d5cc6a593) |
+| Fri, 10 Oct 2025 17:58:02 GMT | From Junior to Senior Security Engineer: Skills Nobody Tells You About | JSOC IT BLOG | [Read More](https://medium.com/p/2b0ecfab5782) |
+| Fri, 10 Oct 2025 17:56:59 GMT | Nashik Cyber Fraud E-Challan App Targets Banks & Whats App Users | Lumiversesolution | [Read More](https://medium.com/p/7b819ef688e7) |
+| Fri, 10 Oct 2025 17:56:36 GMT | Is Ethical Hacking Dead? The Truth Nobody Talks About | Vijay Kumar Gupta | [Read More](https://medium.com/p/5655aaddef90) |
+| Fri, 10 Oct 2025 17:56:34 GMT | From Nothing to Smart Contract Security — 2 Solidity Audits in One Week | Manasia Nicolas | [Read More](https://medium.com/p/0a093e7e01c2) |
+| Fri, 10 Oct 2025 17:52:46 GMT | Cybersecurity News Review — Week 41 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/77a157520ef4) |
+| Fri, 10 Oct 2025 17:52:39 GMT | The Linux Security Journey — LVBS (Linux Virtualization Based Security) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e80e8c15e186) |
+| Fri, 10 Oct 2025 17:49:33 GMT | When My Face Was All Over the Internet | Pi-infinita | [Read More](https://medium.com/p/cb6a68f1892c) |
+| Fri, 10 Oct 2025 17:49:27 GMT | Room (104): MALWARE! | blackXmask | [Read More](https://medium.com/p/9e3953659705) |
+| Fri, 10 Oct 2025 17:35:20 GMT | Splunk for Beginners: How I Started Learning Log Analysis | Hirad Showghi | [Read More](https://medium.com/p/43147088fbdc) |
 | Fri, 10 Oct 2025 17:29:02 GMT | WPA2 in the Lab: What a Controlled Handshake Capture Teaches About Real-World Security | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/69d27d2b2377) |
 | Fri, 10 Oct 2025 17:12:57 GMT | Dark Web Threat Hunting 101: Manually Identifying Data Exposures | Onurcan Genç | [Read More](https://medium.com/p/61b2808a2884) |
 | Fri, 10 Oct 2025 17:10:17 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/da8874944345) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 13:42:12 GMT | How to Lock a Closet Door: Simple Solutions for Extra Privacy | Sure Lock & Key LLC | [Read More](https://medium.com/p/dec349d66c2c) |
 | Fri, 10 Oct 2025 13:41:37 GMT | Understanding Fast Flux in Cybersecurity | JahdiSec | [Read More](https://medium.com/p/d3c48612854b) |
 | Fri, 10 Oct 2025 13:38:06 GMT | Kendi Dilimle Network — 2. Gün - Ağ Topolojileri | Melih Kılıç | [Read More](https://medium.com/p/ff72633db754) |
-| Fri, 10 Oct 2025 13:35:45 GMT | Windows 10 : fin du support, mais impossible de passer à 11 ? Ne paniquez pas, voici la solution | GNANDAL | [Read More](https://medium.com/p/49c9a5d469fe) |
-| Fri, 10 Oct 2025 13:35:15 GMT | Kendi Dilimle Network - 1. Gün — Ağlar ve Ağ içi cihazlar | Melih Kılıç | [Read More](https://medium.com/p/03e8bd158323) |
-| Fri, 10 Oct 2025 13:32:55 GMT | Kendi Dilimle Network - -Neden Bu Seriyi Başlattım? | Melih Kılıç | [Read More](https://medium.com/p/0280a2596bfb) |
-| Fri, 10 Oct 2025 13:31:12 GMT | ShareTide, or how we are Open Sourcing 200+ OpenTide Threat Objects and building a community to… | Behemoth Security | [Read More](https://medium.com/p/9716ee159788) |
-| Fri, 10 Oct 2025 13:30:03 GMT | Authentication and Authorization: Secure Access Control | Cyber Security Research | [Read More](https://medium.com/p/0f900456fa12) |
-| Fri, 10 Oct 2025 13:29:11 GMT | Enterprise Management of Claude Code - You’re Fired! | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/0de313526eaf) |
-| Fri, 10 Oct 2025 13:26:32 GMT | Agentic AI vs. Generative AI in Cybersecurity | Stellar Cyber | [Read More](https://medium.com/p/805f72094ff6) |
-| Fri, 10 Oct 2025 13:25:48 GMT | Cloud Misconfigurations Series: Azure Virtual WAN (Part 2) — Deep Dive into Route Propagation &… | Hariharasudhan GK | [Read More](https://medium.com/p/54b49fc7d8f4) |
-| Fri, 10 Oct 2025 13:23:33 GMT | Digital Identity Management | Cyber Security Research | [Read More](https://medium.com/p/c58f051a5897) |
-| Fri, 10 Oct 2025 13:23:04 GMT | The 2 AM Email That Changed Everything: Why Experience Alone Isn’t Enough in 2025 | GIPMC | [Read More](https://medium.com/p/5fd7d101223a) |
-| Fri, 10 Oct 2025 13:19:11 GMT | Maybe Web3 Doesn’t Need Another Auidit — It Needs Awareness. | Mercyar | [Read More](https://medium.com/p/b497bb29fbf2) |
-| Fri, 10 Oct 2025 13:17:29 GMT | Understanding Security Information and Event Management (SIEM) | Cyber Security Research | [Read More](https://medium.com/p/cf41ce1c264a) |
-| Fri, 10 Oct 2025 13:17:14 GMT | Integrating Physical and Cyber Security: The Future of Enterprise Protection | Fortnexs Shield | [Read More](https://medium.com/p/c59582712390) |
-| Fri, 10 Oct 2025 13:15:40 GMT | Walkthrough THM — Source | Telynor | [Read More](https://medium.com/p/b2398e831fd9) |
-| Fri, 10 Oct 2025 13:13:09 GMT | From Tactical Trade-offs to Strategic Fidelity: Framing AI Communication in Pursuit-Evasion… | Berend Watchus | [Read More](https://medium.com/p/c66432098625) |
-| Fri, 10 Oct 2025 13:11:49 GMT | IT Horizons Partners with Sophos to Champion Cyber Resilience in Africa | IT Horizons | [Read More](https://medium.com/p/3f3aa07c924f) |
