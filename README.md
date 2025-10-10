@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 10:40:22 GMT | How I Built My Own Email Tracker (Because Mailtrack Annoyed Me) | Voldemort | [Read More](https://medium.com/p/5a8be31df847) |
+| Fri, 10 Oct 2025 10:33:41 GMT | Top Entry-Level Cybersecurity Certifications in 2025 | SimpleTecBro | [Read More](https://medium.com/p/a4207f1fb220) |
+| Fri, 10 Oct 2025 10:31:37 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/5739314b8bca) |
+| Fri, 10 Oct 2025 10:30:22 GMT | Parallel Query Execution in PostgreSQL 18: Security and Performance Balance | Rizqi Mulki | [Read More](https://medium.com/p/37bab13687e6) |
+| Fri, 10 Oct 2025 10:23:50 GMT | How to Identify and Eliminate Fake Online Assets | Ai Writter Tools | [Read More](https://medium.com/p/00f4b4642c91) |
+| Fri, 10 Oct 2025 10:22:23 GMT | How to Ensure Data Security When Outsourcing Banking Software Development | Thamash Herath | [Read More](https://medium.com/p/36c6971b9e63) |
+| Fri, 10 Oct 2025 10:21:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/2432f1dfc16c) |
+| Fri, 10 Oct 2025 10:19:29 GMT | TrickBot Analysis to RE | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/082d8cec75a3) |
+| Fri, 10 Oct 2025 10:17:54 GMT | AI and Blockchain Together: Building Trust in Digital Transactions | Hiphypeio | [Read More](https://medium.com/p/78cca9ed0da0) |
+| Fri, 10 Oct 2025 10:15:07 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/71ecb4c3550f) |
+| Fri, 10 Oct 2025 10:12:40 GMT | “The End of the Human Bottleneck: Why Agentic AI is the Future of Threat Detection” | Tanya Manchanda | [Read More](https://medium.com/p/26dcc9e8476a) |
 | Fri, 10 Oct 2025 10:10:10 GMT | 7 Things I Wish Someone Told Me About Database Encryption (Before My First Security Incident) | Zudonu Osomudeya | [Read More](https://medium.com/p/330cc17f03b3) |
 | Fri, 10 Oct 2025 10:09:59 GMT | If You’re Not Learning Cloud Computing in 2025, You’re Already Behind. | JetkingChandigarh | [Read More](https://medium.com/p/00d52df42bff) |
+| Fri, 10 Oct 2025 10:09:08 GMT | PostgreSQL 18 Buffer Cache Optimization for Machine Learning Workloads | Rizqi Mulki | [Read More](https://medium.com/p/95f311414fae) |
 | Fri, 10 Oct 2025 10:09:07 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/09aee4f62717) |
 | Fri, 10 Oct 2025 10:07:33 GMT | How Itch.io | Krivadna | [Read More](https://medium.com/p/92db01c21848) |
 | Fri, 10 Oct 2025 10:07:17 GMT | Forensic-Timeliner v2.2: High-Speed Windows DFIR Timeline Consolidation | cybrNK | [Read More](https://medium.com/p/a10bc905a43b) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 05:03:50 GMT | Linux Dirty Pipe Vulnerability Quick and Easy | Sebastian | [Read More](https://medium.com/p/b2f2a188ca77) |
 | Fri, 10 Oct 2025 04:55:06 GMT | The Day My Wi-Fi Turned Against Me | Lakshita Gulliya | [Read More](https://medium.com/p/cfc413dce63e) |
 | Fri, 10 Oct 2025 04:43:57 GMT | Are All Traces Equal? Mandelbrot, Hurst, and the Groove We Leave in the Universe | Cbresciano | [Read More](https://medium.com/p/3b41658f2506) |
-| Fri, 10 Oct 2025 04:40:42 GMT | ️ OPSEC: How to Safely Run Untrusted Software in Daily Life | Balki Maharaj | [Read More](https://medium.com/p/223a2e81372a) |
-| Fri, 10 Oct 2025 04:15:29 GMT | Outbound - HTB | Skywalkerluc | [Read More](https://medium.com/p/bd90d1941248) |
-| Fri, 10 Oct 2025 04:13:19 GMT | The Enterprise Metamodel: Structuring Architecture for Strategic Clarity | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/65d683e5ea63) |
-| Fri, 10 Oct 2025 03:37:16 GMT | 3rd party PII Leak OSINT | Abhirup Konwar | [Read More](https://medium.com/p/75b5f236e3e5) |
-| Fri, 10 Oct 2025 03:35:45 GMT | TryHackMe Vulnerability Capstone Write‑up | xoxoh | [Read More](https://medium.com/p/233f0b65e6ce) |
-| Fri, 10 Oct 2025 03:31:53 GMT | SHAMOS Malware: How a Single Terminal Command Can Steal Your Mac’s Secrets | Deven Chhajed | [Read More](https://medium.com/p/5d2755cd4bd0) |
-| Fri, 10 Oct 2025 03:18:27 GMT | Scale Your Security, Not Your Headaches: Why Augmenting Your IdP Beats Migration | Sunil Gentyala | [Read More](https://medium.com/p/a3f23f94b59c) |
-| Fri, 10 Oct 2025 03:18:04 GMT | OSINT Isn’t Just Skill — It’s Timing | Sam Galope | [Read More](https://medium.com/p/8232f8f46e75) |
-| Fri, 10 Oct 2025 03:15:07 GMT | The Cyber Arms Race: From defensive postures to preemptive digital warfare | Neil Singh | [Read More](https://medium.com/p/9c1d6258c193) |
-| Fri, 10 Oct 2025 03:13:21 GMT | Linux for Hackers | LinuxDev | [Read More](https://medium.com/p/969620993703) |
-| Fri, 10 Oct 2025 02:52:14 GMT | How I Automated My Office Work with Python and Bought Back My Time | Kainat Nafees | [Read More](https://medium.com/p/9f3d74b1a682) |
-| Fri, 10 Oct 2025 02:38:20 GMT | What You Need to Know About Tycoon 2FA | Bloopworm | [Read More](https://medium.com/p/fe2db261f282) |
