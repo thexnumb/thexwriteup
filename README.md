@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 11:08:45 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/9a75d5098621) |
+| Fri, 10 Oct 2025 11:05:40 GMT | Your Technical Skills Won’t Promote You-Your Influence Will | Tim Murkomen | [Read More](https://medium.com/p/f99d60421260) |
+| Fri, 10 Oct 2025 11:02:46 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/ef73f08d1b1c) |
+| Fri, 10 Oct 2025 11:01:09 GMT | Unbelievable Security Hole: JWT Secret in a Series-B Funded Company | Erkan Kavas | [Read More](https://medium.com/p/540434b54e59) |
+| Fri, 10 Oct 2025 11:00:59 GMT | How to Monitor Cloud Security Threats Effectively | Nagaraj | [Read More](https://medium.com/p/504c0224d580) |
+| Fri, 10 Oct 2025 11:00:32 GMT | The $500 Stored XSS Bug in SideFX’s Messaging System | Monika sharma | [Read More](https://medium.com/p/e55e1121d391) |
+| Fri, 10 Oct 2025 11:00:07 GMT | A Beginner’s Guide to Finding Hidden API Endpoints in JavaScript Files | Ibtissam hammadi | [Read More](https://medium.com/p/925853b61bd1) |
+| Fri, 10 Oct 2025 10:58:15 GMT | The Million-Dollar Illusion: How One Message Stole a Fortune from a Gambling Mogul | Ericabrookssf | [Read More](https://medium.com/p/2536b3a4752e) |
+| Fri, 10 Oct 2025 10:57:11 GMT | The AI Deployment Checkpoint: More Than Just Code | Bahram Maravandi | [Read More](https://medium.com/p/fee92fa6aad8) |
+| Fri, 10 Oct 2025 10:55:06 GMT | From Abstraction to Tangible Reality | Mixology Group | [Read More](https://medium.com/p/3f985a42a8ba) |
+| Fri, 10 Oct 2025 10:53:24 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/9e9704aaddb3) |
+| Fri, 10 Oct 2025 10:52:51 GMT | life seems so much good to be with loved ones❤❤ | Silva Driley Charlotte | [Read More](https://medium.com/p/dc60721e892d) |
+| Fri, 10 Oct 2025 10:49:10 GMT | Advanced AppArmor Profiles Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d818bcd6de91) |
+| Fri, 10 Oct 2025 10:48:55 GMT | Bypassing Rate Limits: How I Registered 100+ Users in Seconds | Erkan Kavas | [Read More](https://medium.com/p/9141bd71ad85) |
+| Fri, 10 Oct 2025 10:44:19 GMT | High-Concurrency QPS/RPS Testing and Optimization with SafeLine WAF | Maverick Steel | [Read More](https://medium.com/p/4a06e11260b8) |
+| Fri, 10 Oct 2025 10:42:14 GMT | Expert Guide to Seccomp Filters in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/cdf1c1b83364) |
+| Fri, 10 Oct 2025 10:41:47 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/c904f600be13) |
 | Fri, 10 Oct 2025 10:40:22 GMT | How I Built My Own Email Tracker (Because Mailtrack Annoyed Me) | Voldemort | [Read More](https://medium.com/p/5a8be31df847) |
+| Fri, 10 Oct 2025 10:37:19 GMT | eJPT v2 : Challenge Lab 23: Tomghost | Dhanushkumar R | [Read More](https://medium.com/p/28605b048437) |
+| Fri, 10 Oct 2025 10:35:28 GMT | Understanding SafeLine WAF’s Data Privacy | Maverick Steel | [Read More](https://medium.com/p/48c0c6c3d39f) |
 | Fri, 10 Oct 2025 10:33:41 GMT | Top Entry-Level Cybersecurity Certifications in 2025 | SimpleTecBro | [Read More](https://medium.com/p/a4207f1fb220) |
 | Fri, 10 Oct 2025 10:31:37 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/5739314b8bca) |
 | Fri, 10 Oct 2025 10:30:22 GMT | Parallel Query Execution in PostgreSQL 18: Security and Performance Balance | Rizqi Mulki | [Read More](https://medium.com/p/37bab13687e6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 06:27:05 GMT | CVE-2017–5638 — “Jakarta Multipart Parser” RCE (S2–045/046) | Shadman Hossain | [Read More](https://medium.com/p/f7d6597f626c) |
 | Fri, 10 Oct 2025 06:25:36 GMT | Tải Jenny Mod Minecraft (Chơi cùng Với Jenny) v1.21 | BANDISHARE | [Read More](https://medium.com/p/c4f2423d4702) |
 | Fri, 10 Oct 2025 06:21:14 GMT | Your Free Ticket into the World of SIEM: Getting Started with Wazuh | Athishsagarkishan | [Read More](https://medium.com/p/37b3e8da70b6) |
-| Fri, 10 Oct 2025 06:16:53 GMT | Tải Rally Fury Hack (Full Kim Cương, Tất Cả) v1.119 | MODHELLO | [Read More](https://medium.com/p/dc0d1c604a78) |
-| Fri, 10 Oct 2025 06:13:58 GMT | SQL Injection in SpringBoot security | Yasif khan | [Read More](https://medium.com/p/80edb9d8e646) |
-| Fri, 10 Oct 2025 06:12:11 GMT | How Quantum Computing Impacts Blockchain Security | Dukerearing | [Read More](https://medium.com/p/3dc7a0dc0095) |
-| Fri, 10 Oct 2025 06:10:40 GMT | When AI Stops Asking Permission: The Hidden Threats of Agentic Systems | Taimur Ijlal | [Read More](https://medium.com/p/b3c24b77c3ee) |
-| Fri, 10 Oct 2025 06:10:14 GMT | The MLSecOps Dream Team: Building Cross-Collaborative AI Security | Alwyn DSouza | [Read More](https://medium.com/p/f6eb0a869714) |
-| Fri, 10 Oct 2025 06:09:06 GMT | MLSecOps Implementation and Strategy: Securing the AI Lifecycle | Alwyn DSouza | [Read More](https://medium.com/p/7ee53af8802b) |
-| Fri, 10 Oct 2025 06:08:12 GMT | Skuld Infostealer Malware uses Discord Webhook C2 | Isaiah Illy | [Read More](https://medium.com/p/acad32dd2a01) |
-| Fri, 10 Oct 2025 06:07:45 GMT | Applying MLSecOps to Secure the AI Lifecycle | Alwyn DSouza | [Read More](https://medium.com/p/be6e0acf9679) |
-| Fri, 10 Oct 2025 06:07:12 GMT | What Is ServiceNow Financial Management, and How Does It Help Financial Institutions Automate… | Alex s | [Read More](https://medium.com/p/c146d0eed60e) |
-| Fri, 10 Oct 2025 06:06:58 GMT | Quantum-Resistant Blockchain: The Future of Digital Security | Bobby Andrews | [Read More](https://medium.com/p/ae9a396bc925) |
-| Fri, 10 Oct 2025 06:05:35 GMT | MLSecOps: Securing the Future of AI and Machine Learning | Alwyn DSouza | [Read More](https://medium.com/p/61e9004e1a10) |
-| Fri, 10 Oct 2025 06:05:17 GMT | File & Password Vault with Zero-Knowledge Proof: Proving Ownership Without Exposing Secrets | Bervice | [Read More](https://medium.com/p/b3e9c2fd3e1b) |
-| Fri, 10 Oct 2025 05:48:58 GMT | XSS (Cross-Site Scripting) | Yasif khan | [Read More](https://medium.com/p/b2c9bf0b0277) |
-| Fri, 10 Oct 2025 05:48:02 GMT | From Recon to Exploit: A Technical Playbook for Bug Bounty Hunters | Đeepanshu | [Read More](https://medium.com/p/4e0ca2834b36) |
-| Fri, 10 Oct 2025 05:43:02 GMT | Mobile Security Solutions With the Best Companies in Singapore | QualysecEurope | [Read More](https://medium.com/p/d8089d7182ba) |
-| Fri, 10 Oct 2025 05:17:13 GMT | WiFi Dead Zones Explained — And How to Eliminate Them Instantly | Ask IT Support | [Read More](https://medium.com/p/883b66cd3ef2) |
-| Fri, 10 Oct 2025 05:03:50 GMT | Linux Dirty Pipe Vulnerability Quick and Easy | Sebastian | [Read More](https://medium.com/p/b2f2a188ca77) |
-| Fri, 10 Oct 2025 04:55:06 GMT | The Day My Wi-Fi Turned Against Me | Lakshita Gulliya | [Read More](https://medium.com/p/cfc413dce63e) |
-| Fri, 10 Oct 2025 04:43:57 GMT | Are All Traces Equal? Mandelbrot, Hurst, and the Groove We Leave in the Universe | Cbresciano | [Read More](https://medium.com/p/3b41658f2506) |
