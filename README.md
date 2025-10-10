@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 18:45:49 GMT | Understanding Polymorphic Viruses: The Shape-Shifting Cyber Threat | SafeAeon Inc. | [Read More](https://medium.com/p/14cfabb9f02e) |
+| Fri, 10 Oct 2025 18:34:04 GMT | Remote Execution and Kansa — Still One of the Most Underrated IR Tools | Dean | [Read More](https://medium.com/p/19e1d4aa1804) |
+| Fri, 10 Oct 2025 18:31:01 GMT | We Are Driving Away Our Future | Sarah Connahan | [Read More](https://medium.com/p/8ae565f984fb) |
+| Fri, 10 Oct 2025 18:23:19 GMT | Lab 9: SQL Injection UNION Attack (Retrieving Data from Other Tables) | Apexium Technologies Ltd | [Read More](https://medium.com/p/7343e39d32b1) |
 | Fri, 10 Oct 2025 18:20:58 GMT | ️‍♂️ Inside a Cyberattack: How Hackers Break In | Asif.k | [Read More](https://medium.com/p/930a8c9316d1) |
 | Fri, 10 Oct 2025 18:18:43 GMT | WHY does it smell good? | Argun Cencen | [Read More](https://medium.com/p/17f6b26e47e7) |
+| Fri, 10 Oct 2025 18:17:27 GMT | The Next Frontier in Web3 Security: AI Agents for Smart Contract Audits | Evgenii | [Read More](https://medium.com/p/243cd7190d0a) |
 | Fri, 10 Oct 2025 18:14:50 GMT | Detour route, hopped into the Dictionary | Kevin Dimas Romero | [Read More](https://medium.com/p/113ddb6dc155) |
 | Fri, 10 Oct 2025 18:11:54 GMT | Writers Ask Questions Too | Esther Kenneth | [Read More](https://medium.com/p/9b609ebe4423) |
 | Fri, 10 Oct 2025 18:06:49 GMT | How to Lock Your Social Security Number Safely | SafeAeon Inc. | [Read More](https://medium.com/p/d1d2618bc290) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 13:50:03 GMT | the Vulnerability Allows Forced Removal of Page Owner Without Consent — on Facebook.(part 2) | Hisham | [Read More](https://medium.com/p/59081543cab2) |
 | Fri, 10 Oct 2025 13:46:47 GMT | The Sound of Silence: What Happens When a Child Stops Seeking Help and Starts Reading | Pragya Singh | [Read More](https://medium.com/p/977df5ed16b8) |
 | Fri, 10 Oct 2025 13:44:44 GMT | How to Prevent Cross-Site Scripting (XSS) on Payment Pages | Feroot Security | [Read More](https://medium.com/p/61dc1c9da293) |
-| Fri, 10 Oct 2025 13:42:47 GMT | the Vulnerability Allows Forced Removal of Page Owner Without Consent — on Facebook.(Part 1) | Hisham | [Read More](https://medium.com/p/e6adf6aaf4fb) |
-| Fri, 10 Oct 2025 13:42:23 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8563eb006dee) |
-| Fri, 10 Oct 2025 13:42:12 GMT | How to Lock a Closet Door: Simple Solutions for Extra Privacy | Sure Lock & Key LLC | [Read More](https://medium.com/p/dec349d66c2c) |
-| Fri, 10 Oct 2025 13:41:37 GMT | Understanding Fast Flux in Cybersecurity | JahdiSec | [Read More](https://medium.com/p/d3c48612854b) |
-| Fri, 10 Oct 2025 13:38:06 GMT | Kendi Dilimle Network — 2. Gün - Ağ Topolojileri | Melih Kılıç | [Read More](https://medium.com/p/ff72633db754) |
