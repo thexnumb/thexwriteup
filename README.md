@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 07:05:26 GMT | The Daily Tech Digest: 10 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/3810f26aaa38) |
+| Fri, 10 Oct 2025 07:01:19 GMT | CL0P and the Oracle Breach: The New Cyberattack Wave Targeting Global Enterprises | Germano Costi | [Read More](https://medium.com/p/40b1be107d91) |
+| Fri, 10 Oct 2025 06:57:03 GMT | How Is It to Have a Friend Who Is a Psychologist? | Maria Pricopie | [Read More](https://medium.com/p/827d3164317b) |
+| Fri, 10 Oct 2025 06:56:33 GMT | Ensuring Safety and Peace of Mind: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/f3373ce1feb8) |
+| Fri, 10 Oct 2025 06:48:07 GMT | The One Setting in Your Browser That’s Silently Leaking Data | Arfa | [Read More](https://medium.com/p/7431ebf722f9) |
+| Fri, 10 Oct 2025 06:46:36 GMT | Latest AI systems are getting attacked right now, and they probably don't even know it. | Abhishek Kevin Gomes | [Read More](https://medium.com/p/e9b2741b32e8) |
+| Fri, 10 Oct 2025 06:40:04 GMT | SOC as a Service for BFSI: Strengthening Cybersecurity and Compliance | Microscan Communications | [Read More](https://medium.com/p/f76ec42d981c) |
+| Fri, 10 Oct 2025 06:36:30 GMT | Best Practices for Network Vulnerability Assessment in 2025 - NMT Security | NMT Security | [Read More](https://medium.com/p/0754c40ab7d2) |
+| Fri, 10 Oct 2025 06:35:42 GMT | Vanna.AI: Integrated Prompt Injection RCE | Rana Fahad Aman | [Read More](https://medium.com/p/e15982423139) |
+| Fri, 10 Oct 2025 06:34:28 GMT | ClayRat Spyware: The New Android Threat You Must Know About | Germano Costi | [Read More](https://medium.com/p/467e0bd751c4) |
+| Fri, 10 Oct 2025 06:27:05 GMT | CVE-2017–5638 — “Jakarta Multipart Parser” RCE (S2–045/046) | Shadman Hossain | [Read More](https://medium.com/p/f7d6597f626c) |
 | Fri, 10 Oct 2025 06:25:36 GMT | Tải Jenny Mod Minecraft (Chơi cùng Với Jenny) v1.21 | BANDISHARE | [Read More](https://medium.com/p/c4f2423d4702) |
 | Fri, 10 Oct 2025 06:21:14 GMT | Your Free Ticket into the World of SIEM: Getting Started with Wazuh | Athishsagarkishan | [Read More](https://medium.com/p/37b3e8da70b6) |
 | Fri, 10 Oct 2025 06:16:53 GMT | Tải Rally Fury Hack (Full Kim Cương, Tất Cả) v1.119 | MODHELLO | [Read More](https://medium.com/p/dc0d1c604a78) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 21:06:41 GMT | Wallet Wisdom: Secure Your Crypto Empire | Wifi Mochi | [Read More](https://medium.com/p/682cc5b09f4c) |
 | Thu, 09 Oct 2025 21:01:46 GMT | The Missing Link in Healthcare Reform: Information Technology as Lifesaver | Hoperays Health Solutions | [Read More](https://medium.com/p/9cf008ae6ab4) |
 | Thu, 09 Oct 2025 21:00:06 GMT | AWS Security Hub: The Chronicles of Central Configuration | Thomas Pepper | [Read More](https://medium.com/p/42e2a0a03705) |
-| Thu, 09 Oct 2025 20:56:41 GMT | Day 4 :Windows Fundamentals 1 | Ogundipe Priscilla | [Read More](https://medium.com/p/3e578cd75233) |
-| Thu, 09 Oct 2025 20:45:18 GMT | Cybersecurity Awareness Month: How websites collect your information. | Ifeawoyemi | [Read More](https://medium.com/p/68934f98a749) |
-| Thu, 09 Oct 2025 20:43:58 GMT | Understanding Software Supply Chain Security | hackysterio | [Read More](https://medium.com/p/cca84e8a7022) |
-| Thu, 09 Oct 2025 20:22:11 GMT | How I Hacked an Admin Panel with Millions of Dollars | Zhenwarx | [Read More](https://medium.com/p/749f92c106ab) |
-| Thu, 09 Oct 2025 20:17:55 GMT | How to Manage Keys & Identity in AWS KMS for Blockchain Nodes | Lucky Nautiyal | [Read More](https://medium.com/p/17838d542468) |
-| Thu, 09 Oct 2025 20:13:31 GMT | The Hidden Dangers of Dirty Filenames | Kory Becker | [Read More](https://medium.com/p/1b345d5cd47f) |
-| Thu, 09 Oct 2025 20:07:09 GMT | HackTheBox: UnderPass | 0xQ | [Read More](https://medium.com/p/072a47905343) |
-| Thu, 09 Oct 2025 19:59:15 GMT | 9 Messaging Apps Ranked by Privacy: Chat Control Survival Guide | Raf Vantongerloo | [Read More](https://medium.com/p/1c6350b209cd) |
-| Thu, 09 Oct 2025 19:55:11 GMT | How to Disarm and Reconstruct Files in C# | Cloudmersive | [Read More](https://medium.com/p/7044b591333b) |
-| Thu, 09 Oct 2025 19:52:33 GMT | Russia’s New Cyber Weapon: How AI Is Supercharging Attacks on Ukraine | Aaron | [Read More](https://medium.com/p/65860e252490) |
-| Thu, 09 Oct 2025 19:52:23 GMT | The Case for OAuth: How Delegated Trust Redefined Web Security | Ego | [Read More](https://medium.com/p/9daf5e237d51) |
