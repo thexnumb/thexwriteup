@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 07:38:22 GMT | United States et al. v. Google: DOJ Challenges Digital Monopoly | Ekata Deb | [Read More](https://medium.com/p/009e2e224d66) |
+| Fri, 10 Oct 2025 07:29:55 GMT | Understanding IT Infrastructure: Key Components and Best Practices for Businesses | Secuodsoft Technologies | [Read More](https://medium.com/p/7c8fb9240129) |
+| Fri, 10 Oct 2025 07:21:30 GMT | ️ Shadow APIs in Multi-Tenant SaaS: The Hidden Attack Surface Nobody Monitors | Narendar Battula (nArEn) | [Read More](https://medium.com/p/169c916238da) |
+| Fri, 10 Oct 2025 07:20:44 GMT | AI and Criminal Justice in China: Revolution, Risks, and Realities | Adv. Amisha Singh | [Read More](https://medium.com/p/080f7b4ae6fb) |
+| Fri, 10 Oct 2025 07:18:16 GMT | Cyber-AI Evolution: The Hidden Truths Behind a Digital Intelligence War | Hira Ahmad | [Read More](https://medium.com/p/f2737f87a097) |
 | Fri, 10 Oct 2025 07:05:26 GMT | The Daily Tech Digest: 10 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/3810f26aaa38) |
 | Fri, 10 Oct 2025 07:01:19 GMT | CL0P and the Oracle Breach: The New Cyberattack Wave Targeting Global Enterprises | Germano Costi | [Read More](https://medium.com/p/40b1be107d91) |
 | Fri, 10 Oct 2025 06:57:03 GMT | How Is It to Have a Friend Who Is a Psychologist? | Maria Pricopie | [Read More](https://medium.com/p/827d3164317b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 21:24:53 GMT | Perchè il Dark Web interessa ai Marketer? | Syria | [Read More](https://medium.com/p/4007aefc55a4) |
 | Thu, 09 Oct 2025 21:18:32 GMT | The Rise of AI-Powered Phishing | Matthew.Rosenquist | [Read More](https://medium.com/p/41f6c6adee57) |
 | Thu, 09 Oct 2025 21:13:52 GMT | HacktheBox: Soccer Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/40e62ff1d49b) |
-| Thu, 09 Oct 2025 21:11:34 GMT | Dumping Windows Credential Manager Vault | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a5b41ffaa734) |
-| Thu, 09 Oct 2025 21:08:09 GMT | Clouds of Chaos: Inside Telegram’s Hidden Economy of Stealer Logs | Shubham Nayak | [Read More](https://medium.com/p/770651a7f3fe) |
-| Thu, 09 Oct 2025 21:06:41 GMT | Wallet Wisdom: Secure Your Crypto Empire | Wifi Mochi | [Read More](https://medium.com/p/682cc5b09f4c) |
-| Thu, 09 Oct 2025 21:01:46 GMT | The Missing Link in Healthcare Reform: Information Technology as Lifesaver | Hoperays Health Solutions | [Read More](https://medium.com/p/9cf008ae6ab4) |
-| Thu, 09 Oct 2025 21:00:06 GMT | AWS Security Hub: The Chronicles of Central Configuration | Thomas Pepper | [Read More](https://medium.com/p/42e2a0a03705) |
