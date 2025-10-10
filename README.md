@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 21:07:12 GMT | SIA Security Project Management Practice: Managing Single and Multi-Group Operations with Modern… | Dr Francesco Dergano | [Read More](https://medium.com/p/659adb4e0d4d) |
+| Fri, 10 Oct 2025 20:59:36 GMT | Siber Güvenlikte İnsan Faktörü ve Sosyal Mühendislik | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/241362d0fba0) |
+| Fri, 10 Oct 2025 20:56:35 GMT | TryHackMe Writeup: CTF Collection Vol.2 | Berkay AĞGÜL | [Read More](https://medium.com/p/f0aceae969cc) |
+| Fri, 10 Oct 2025 20:34:13 GMT | Missing productivity gains from AI, and other tech stories you may have missed | Gene Marks | [Read More](https://medium.com/p/44b0f14c1be9) |
 | Fri, 10 Oct 2025 20:22:23 GMT | Cyber Month Mandate: Move from Password Awareness to Identity Automation Now | IT_Engineer | [Read More](https://medium.com/p/2de1973f7c68) |
 | Fri, 10 Oct 2025 20:21:12 GMT | How to Recover Permanently Deleted Files | ze4rch1tect | [Read More](https://medium.com/p/97877f54af60) |
 | Fri, 10 Oct 2025 20:18:40 GMT | VPN and Web3 in Plain English: Why a Hybrid VPN Is the Bridge to Decentralization | WEB3 Blog | [Read More](https://medium.com/p/d48ff106e9da) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:42:02 GMT | Cybersecurity in 2025: Moving Beyond Defense | Co-Ventech | [Read More](https://medium.com/p/0efb4a61a487) |
 | Fri, 10 Oct 2025 14:41:27 GMT | I Built a Free Enterprise-Grade Security Toolkit That Replaced $100K in Commercial Tools — Here’s… | Okan Yıldız | [Read More](https://medium.com/p/e0c9c6cf4400) |
 | Fri, 10 Oct 2025 14:41:05 GMT | Understanding Vulnerabilities and Vulnerability Management | Adetutu Deborah | [Read More](https://medium.com/p/2016e1a624b8) |
-| Fri, 10 Oct 2025 14:35:07 GMT | Expert Guide to SELinux Policies in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/dc96b248fc3a) |
-| Fri, 10 Oct 2025 14:34:41 GMT | TryHackMe: Snapped Phish-ing Line | Davenyamongo | [Read More](https://medium.com/p/7b8f1f7bb389) |
-| Fri, 10 Oct 2025 14:33:40 GMT | Your AI therapist isn’t your friend | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/3230e39a9745) |
-| Fri, 10 Oct 2025 14:32:39 GMT | AWS IAM in Plain English | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/780ad3b0564e) |
