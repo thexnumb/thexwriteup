@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 23:04:53 GMT | I was never enough for you… | -Xri- | [Read More](https://medium.com/p/3734b5a7b478) |
+| Fri, 10 Oct 2025 22:58:19 GMT | Common Terms in Fraud & Cybercrime | Godsway R. Akakpo | [Read More](https://medium.com/p/d9b14da831ae) |
+| Fri, 10 Oct 2025 22:50:24 GMT | Haust Network: Pioneering the Next Era of Scalable, Secure, and User-Centric DeFi | Max Branden | [Read More](https://medium.com/p/44d886a4bad2) |
 | Fri, 10 Oct 2025 22:19:23 GMT | You can Poison an LLM with a Lot less Effort than you’d think : New Paper OCT 2025 | Paul E. (TheAIOracle) | [Read More](https://medium.com/p/6dfe3930623a) |
 | Fri, 10 Oct 2025 22:00:20 GMT | EnigmaXplore 3.0 — Never Gonna Solve You | 0xDolphin | [Read More](https://medium.com/p/1cc01dbe6c77) |
 | Fri, 10 Oct 2025 21:48:20 GMT | CAN I RECOVER BITCOIN LOST IN INVESTMENT SCAM/HIRE A HACKER CALL MALICE CYBER RECOVERY | Tomas Dvorak | [Read More](https://medium.com/p/4d142d408850) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 15:05:09 GMT | Hacker’s Digital Toolkit v1.0 — Ship Faster. Investigate Smarter. | Micah Thornton | [Read More](https://medium.com/p/8ec2655c8395) |
 | Fri, 10 Oct 2025 14:59:39 GMT | ️ Understanding Darkweb Exit Scams: What You Should Know | Tor BBB | [Read More](https://medium.com/p/cd93f178cb69) |
 | Fri, 10 Oct 2025 14:57:28 GMT | Hackers | Adebayo Muhammad | [Read More](https://medium.com/p/479896849bdf) |
-| Fri, 10 Oct 2025 14:55:25 GMT | “The Overlooked P4 Goldmine: Turning Simple Flaws into Consistent Bounties" | Aman Sharma | [Read More](https://medium.com/p/c4c4e4de3c47) |
-| Fri, 10 Oct 2025 14:52:22 GMT | Understanding HTTPS, HSTS, and Full Security Coverage in ASP.NET Core | Sauradipta | [Read More](https://medium.com/p/e994db3b36b8) |
-| Fri, 10 Oct 2025 14:49:48 GMT | Mastering Security Hardening in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/9955f616e07e) |
