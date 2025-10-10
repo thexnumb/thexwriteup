@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 17:29:02 GMT | WPA2 in the Lab: What a Controlled Handshake Capture Teaches About Real-World Security | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/69d27d2b2377) |
 | Fri, 10 Oct 2025 17:12:57 GMT | Dark Web Threat Hunting 101: Manually Identifying Data Exposures | Onurcan Genç | [Read More](https://medium.com/p/61b2808a2884) |
 | Fri, 10 Oct 2025 17:10:17 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/da8874944345) |
 | Fri, 10 Oct 2025 17:05:27 GMT | Smart Habits for a Safer Digital Life | Saad's insight | [Read More](https://medium.com/p/2987058c6f54) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 13:15:40 GMT | Walkthrough THM — Source | Telynor | [Read More](https://medium.com/p/b2398e831fd9) |
 | Fri, 10 Oct 2025 13:13:09 GMT | From Tactical Trade-offs to Strategic Fidelity: Framing AI Communication in Pursuit-Evasion… | Berend Watchus | [Read More](https://medium.com/p/c66432098625) |
 | Fri, 10 Oct 2025 13:11:49 GMT | IT Horizons Partners with Sophos to Champion Cyber Resilience in Africa | IT Horizons | [Read More](https://medium.com/p/3f3aa07c924f) |
-| Fri, 10 Oct 2025 13:11:23 GMT | Cybersecurity Awareness Training | Cyber Security Research | [Read More](https://medium.com/p/627d65b856b8) |
