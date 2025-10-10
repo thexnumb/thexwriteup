@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 16:41:19 GMT | How to Generate and Install an SSL Certificate in cPanel | Praveen Xavier | [Read More](https://medium.com/p/062e31e297fc) |
+| Fri, 10 Oct 2025 16:34:09 GMT | কিশোর বয়সের শিক্ষা: জীবন, সম্পর্ক ও আত্মবিশ্বাস | Mr. Safin | [Read More](https://medium.com/p/37ed7f65dc67) |
+| Fri, 10 Oct 2025 16:29:57 GMT | Episode 4: Fundamentals Of Cybersecurity — Security Model | Yash Kitey | [Read More](https://medium.com/p/a9ceb5f73bac) |
+| Fri, 10 Oct 2025 16:29:08 GMT | The Ultimate Beginner’s Guide to Bug Bounty Hunting | Aj | [Read More](https://medium.com/p/7951c7b6e037) |
+| Fri, 10 Oct 2025 16:28:18 GMT | CVE-2025–49844: The Flaw That Taught Redis to Talk to the Operating System | Rodrigo Gutierrez | [Read More](https://medium.com/p/2f2fe00d8702) |
+| Fri, 10 Oct 2025 16:24:56 GMT | Why Men Deserve the Freedom to Be Vulnerable | Adeola Odubajo ~ THE World-Renowned Storyteller | [Read More](https://medium.com/p/802f8a4c9828) |
 | Fri, 10 Oct 2025 16:24:30 GMT | — How you can… | Mahim$ec | [Read More](https://medium.com/p/36c27a30eee1) |
 | Fri, 10 Oct 2025 16:24:10 GMT | Walkthrough THM : Corridor | Telynor | [Read More](https://medium.com/p/65b4ef3221d2) |
+| Fri, 10 Oct 2025 16:22:29 GMT | “CamoLeak” — How GitHub Copilot Chat Became a Covert Exfiltration Channel | gm0 | [Read More](https://medium.com/p/ce92baa41a7a) |
+| Fri, 10 Oct 2025 16:17:06 GMT | How Data Flows: Breaking Down the Roles of Servers, Switches, Routers, and Other Core Network… | Paradise technologies Inc | [Read More](https://medium.com/p/9c25c09628d3) |
 | Fri, 10 Oct 2025 16:10:13 GMT | The Hidden Side of AI Security | Bhavesh Mandhan | [Read More](https://medium.com/p/3dcf8bc3a43f) |
 | Fri, 10 Oct 2025 16:04:35 GMT | Get Addicted to Cybersecurity! | Shahzaib | [Read More](https://medium.com/p/8fe816f703d8) |
 | Fri, 10 Oct 2025 16:02:07 GMT | 7 Multi-Region Secrets Patterns That Stay Fast | Thinking Loop | [Read More](https://medium.com/p/59b30d2940ae) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 12:57:20 GMT | Enhancing RBI Cybersecurity Framework’s Integrity through Penetration Testing | Qualysec | [Read More](https://medium.com/p/3a6e4a0718dc) |
 | Fri, 10 Oct 2025 12:57:12 GMT | Ensuring Reliability of Information Systems: From Theory to Practice | Oleh Dubetcky | [Read More](https://medium.com/p/b9bc15c4a64f) |
 | Fri, 10 Oct 2025 12:53:43 GMT | Enhance Security with Top Assessment Services in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/500d4cf194c4) |
-| Fri, 10 Oct 2025 12:50:28 GMT | “When Systems Run Smoothly but People Don’t” Why the IT World Needs a Mental Peace Day | Sreenivas Soman Nair | [Read More](https://medium.com/p/b8fa24e2890b) |
-| Fri, 10 Oct 2025 12:43:18 GMT | Navigating the AI Tsunami: Your Career Compass in the Age of Transformation | SjCoachUp | [Read More](https://medium.com/p/c62d7c5963e1) |
-| Fri, 10 Oct 2025 12:43:06 GMT | Lazy-Loading as a Security Measure | Anuj Tomar | [Read More](https://medium.com/p/4e10d7293706) |
-| Fri, 10 Oct 2025 12:42:13 GMT | When the Cybersecurity Dream Hits a Wall | Tyler Wall | [Read More](https://medium.com/p/7125287644d5) |
-| Fri, 10 Oct 2025 12:41:25 GMT | The Hacker’s Mindset: Beyond Tools & Tactics | Fateyaly | [Read More](https://medium.com/p/cb263e29c31c) |
-| Fri, 10 Oct 2025 12:38:34 GMT | Alternatives to ROM for a homebrew computer | Mansfield-Devine | [Read More](https://medium.com/p/faf009bf840d) |
-| Fri, 10 Oct 2025 12:38:25 GMT | Quantum breakthrough: how leaders secure the future | STR4T0TT0 | [Read More](https://medium.com/p/9d732a190f92) |
-| Fri, 10 Oct 2025 12:38:14 GMT | The Future of Compliance Management in Wealth and Asset Management | Rory Galvin | [Read More](https://medium.com/p/957893de0c09) |
