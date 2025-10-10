@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 09:19:28 GMT | Unveiling Moniker Link (CVE-2024–21413): Navigating The Latest Cybersecurity Landscape | Redfox Security | [Read More](https://medium.com/p/995c9f39f84a) |
+| Fri, 10 Oct 2025 09:06:13 GMT | Understanding the CIA Triad: The Foundation of Cybersecurity | Anderson Santos | [Read More](https://medium.com/p/818230321695) |
+| Fri, 10 Oct 2025 09:02:21 GMT | Splunk .conf25 — Cisco’s Data Fabric, Ponds, Puddles, and Lakes | Apto Solutions | [Read More](https://medium.com/p/e23b35ded7d5) |
+| Fri, 10 Oct 2025 09:02:19 GMT | Fine-Grained Outbound Control: How Google Cloud Cloud NAT Rules Enhance Security and Compliance | Chimbu Chinnadurai | [Read More](https://medium.com/p/b69480896d15) |
+| Fri, 10 Oct 2025 09:01:13 GMT | Beginning My Journey In Cybersecurity | Rakshitha | [Read More](https://medium.com/p/6303dd70fcbd) |
+| Fri, 10 Oct 2025 08:51:38 GMT | New Breakthroughs in FIDO2 and EV Charging Security from EURECOM’s ORSHIN Team | EURECOM Communication | [Read More](https://medium.com/p/885d61b0ebc0) |
 | Fri, 10 Oct 2025 08:46:28 GMT | LLM Jailbreaking: Advanced Attack Techniques and Defense Strategies Unpacked | JIN | [Read More](https://medium.com/p/7c17b31ff1de) |
 | Fri, 10 Oct 2025 08:41:12 GMT | Revenge And Ego Are Like Twins | Certified ZM | [Read More](https://medium.com/p/10f3666e4dbd) |
+| Fri, 10 Oct 2025 08:40:21 GMT | Gadget chains in Java: how unsafe deserialization leads to RCE? | Unicorn Developer | [Read More](https://medium.com/p/88b17409c7aa) |
 | Fri, 10 Oct 2025 08:37:13 GMT | XLMRat Lab — Network Forensics Report | Zulfianarahmi | [Read More](https://medium.com/p/9c79695012a1) |
 | Fri, 10 Oct 2025 08:22:58 GMT | OSP Labs — A Trusted Partner for Healthcare IT Services and Software Development | rose fox | [Read More](https://medium.com/p/25bbfbddd826) |
 | Fri, 10 Oct 2025 08:22:08 GMT | They Call Us Criminals. We Call Ourselves Hackers. | Paul Lemay | [Read More](https://medium.com/p/e27baaf9ce81) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 00:58:46 GMT | Comparative Analysis of Machine Learning Techniques for Network Intrusion Detection | Anand_B_Arjun | [Read More](https://medium.com/p/2e5ffb0cd484) |
 | Fri, 10 Oct 2025 00:56:08 GMT | Fortifying the Digital Frontier | Cyber Security Research | [Read More](https://medium.com/p/afed89c3356c) |
 | Fri, 10 Oct 2025 00:51:09 GMT | Cracking the Code: How I Fell in Love with Cybersecurity | G Mary Spandana | [Read More](https://medium.com/p/5087e15fd12a) |
-| Fri, 10 Oct 2025 00:50:13 GMT | The Anatomy of a Cyberattack | Cyber Security Research | [Read More](https://medium.com/p/88482869f850) |
-| Fri, 10 Oct 2025 00:43:43 GMT | Decoding Digital Defense | Cyber Security Research | [Read More](https://medium.com/p/d32cf58be9ea) |
-| Fri, 10 Oct 2025 00:43:01 GMT | I Found the Admin Panel. Then I Owned Everything. | youssef awad | [Read More](https://medium.com/p/95f6d367060a) |
-| Fri, 10 Oct 2025 00:38:13 GMT | How Hackers Turn DNS Into a Backdoor (2025 Playbook) | Very Lazy Tech | [Read More](https://medium.com/p/6d3a61532bbd) |
-| Fri, 10 Oct 2025 00:32:04 GMT | Linux Runtime Kernel Guard: A Comprehensive Guide | ThamizhElango Natarajan | [Read More](https://medium.com/p/4607637833fb) |
-| Fri, 10 Oct 2025 00:25:34 GMT | The Bloodied Path: How Puerto Rico’s Independent Party (PIP) Shaped Politics, Campuses, and Foreign… | The Architect | [Read More](https://medium.com/p/486462d27ea5) |
-| Fri, 10 Oct 2025 00:07:08 GMT | Navigating Data Security in GenAI — A Multi-layer Approach | James Chan | [Read More](https://medium.com/p/73ae55f73bec) |
