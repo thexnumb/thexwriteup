@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 14:41:27 GMT | I Built a Free Enterprise-Grade Security Toolkit That Replaced $100K in Commercial Tools — Here’s… | Okan Yıldız | [Read More](https://medium.com/p/e0c9c6cf4400) |
+| Fri, 10 Oct 2025 14:41:05 GMT | Understanding Vulnerabilities and Vulnerability Management | Adetutu Deborah | [Read More](https://medium.com/p/2016e1a624b8) |
+| Fri, 10 Oct 2025 14:34:41 GMT | TryHackMe: Snapped Phish-ing Line | Davenyamongo | [Read More](https://medium.com/p/7b8f1f7bb389) |
+| Fri, 10 Oct 2025 14:33:40 GMT | Your AI therapist isn’t your friend | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/3230e39a9745) |
+| Fri, 10 Oct 2025 14:30:43 GMT | How to Learn Network Security: Step-by-Step Guide for Beginners 2025 | Hachtechnology | [Read More](https://medium.com/p/19a8d75cf8da) |
+| Fri, 10 Oct 2025 14:29:42 GMT | 5 Cybersecurity Trends Every MSP Needs to Know in 2025 | Donald Betancourt | [Read More](https://medium.com/p/9e2295980833) |
+| Fri, 10 Oct 2025 14:24:03 GMT | CVE Deep Dive : CVE-2025–26465 | Optimus_Brime | [Read More](https://medium.com/p/4b7aee2dc82e) |
+| Fri, 10 Oct 2025 14:21:53 GMT | Finding XSS on a Real-World Bug Bounty Program | Ibtissam hammadi | [Read More](https://medium.com/p/d718335bcb30) |
+| Fri, 10 Oct 2025 14:21:48 GMT | Mr Robot CTF :TryHackMe WalkThrough WriteUp Answers | Umer | [Read More](https://medium.com/p/830f70540b4e) |
 | Fri, 10 Oct 2025 14:12:25 GMT | From Gatekeeper to Game Changer: Redefining Security for Today’s Digital Products | Kevin Bigler | [Read More](https://medium.com/p/43db023bbc4e) |
 | Fri, 10 Oct 2025 14:10:42 GMT | The Capability-Based Security Model That Makes Privilege Escalation Impossible | Sohail x Codes | [Read More](https://medium.com/p/8231d679b972) |
 | Fri, 10 Oct 2025 14:06:30 GMT | Building Secure Authentication Systems with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/68a1d1d1dddc) |
@@ -98,17 +107,8 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 10:55:06 GMT | From Abstraction to Tangible Reality | Mixology Group | [Read More](https://medium.com/p/3f985a42a8ba) |
 | Fri, 10 Oct 2025 10:53:24 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/9e9704aaddb3) |
 | Fri, 10 Oct 2025 10:52:51 GMT | life seems so much good to be with loved ones❤❤ | Silva Driley Charlotte | [Read More](https://medium.com/p/dc60721e892d) |
+| Fri, 10 Oct 2025 10:49:16 GMT | Getting Started with SambaNova and SambaCloud | Mohamad Mahmood | [Read More](https://medium.com/p/97f0d7e1123a) |
 | Fri, 10 Oct 2025 10:49:10 GMT | Advanced AppArmor Profiles Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d818bcd6de91) |
 | Fri, 10 Oct 2025 10:48:55 GMT | Bypassing Rate Limits: How I Registered 100+ Users in Seconds | Erkan Kavas | [Read More](https://medium.com/p/9141bd71ad85) |
 | Fri, 10 Oct 2025 10:44:19 GMT | High-Concurrency QPS/RPS Testing and Optimization with SafeLine WAF | Maverick Steel | [Read More](https://medium.com/p/4a06e11260b8) |
 | Fri, 10 Oct 2025 10:42:14 GMT | Expert Guide to Seccomp Filters in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/cdf1c1b83364) |
-| Fri, 10 Oct 2025 10:41:47 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/c904f600be13) |
-| Fri, 10 Oct 2025 10:40:22 GMT | How I Built My Own Email Tracker (Because Mailtrack Annoyed Me) | Voldemort | [Read More](https://medium.com/p/5a8be31df847) |
-| Fri, 10 Oct 2025 10:37:19 GMT | eJPT v2 : Challenge Lab 23: Tomghost | Dhanushkumar R | [Read More](https://medium.com/p/28605b048437) |
-| Fri, 10 Oct 2025 10:35:28 GMT | Understanding SafeLine WAF’s Data Privacy | Maverick Steel | [Read More](https://medium.com/p/48c0c6c3d39f) |
-| Fri, 10 Oct 2025 10:33:41 GMT | Top Entry-Level Cybersecurity Certifications in 2025 | SimpleTecBro | [Read More](https://medium.com/p/a4207f1fb220) |
-| Fri, 10 Oct 2025 10:31:37 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/5739314b8bca) |
-| Fri, 10 Oct 2025 10:30:22 GMT | Parallel Query Execution in PostgreSQL 18: Security and Performance Balance | Rizqi Mulki | [Read More](https://medium.com/p/37bab13687e6) |
-| Fri, 10 Oct 2025 10:23:50 GMT | How to Identify and Eliminate Fake Online Assets | Ai Writter Tools | [Read More](https://medium.com/p/00f4b4642c91) |
-| Fri, 10 Oct 2025 10:22:23 GMT | How to Ensure Data Security When Outsourcing Banking Software Development | Thamash Herath | [Read More](https://medium.com/p/36c6971b9e63) |
-| Fri, 10 Oct 2025 10:21:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/2432f1dfc16c) |
