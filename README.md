@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 09:31:42 GMT | How I found an unauthenticated goldmine of PII | 0xP0L73R63157 | [Read More](https://medium.com/p/8f1fc93d8a0d) |
+| Fri, 10 Oct 2025 09:31:00 GMT | Tải Xtreme Motorbikes Mod Xe Độ (Bản VIP, Full Tiền) V2.8 | MODCOMBO | [Read More](https://medium.com/p/6d9d06297e2d) |
+| Fri, 10 Oct 2025 09:26:48 GMT | Fletcher Reede The Coder: Brutal Standup Truth Bomb | Namir Sagheenanajar | [Read More](https://medium.com/p/f85bd7a10fd2) |
+| Fri, 10 Oct 2025 09:24:01 GMT | Denial of Service (DoS) - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/a9a5674ee707) |
+| Fri, 10 Oct 2025 09:23:04 GMT | The Hacker’s Mind: Understanding Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/333431217f65) |
 | Fri, 10 Oct 2025 09:19:28 GMT | Unveiling Moniker Link (CVE-2024–21413): Navigating The Latest Cybersecurity Landscape | Redfox Security | [Read More](https://medium.com/p/995c9f39f84a) |
+| Fri, 10 Oct 2025 09:16:49 GMT | I Met the Girl I Buried at Sixteen | SuccessBlueprints.Org | [Read More](https://medium.com/p/c0f6c8f8e6bd) |
+| Fri, 10 Oct 2025 09:16:05 GMT | Top Reasons Why Businesses Are Switching to Payment Kiosk Machines | Rakesh | [Read More](https://medium.com/p/12698c51ad45) |
 | Fri, 10 Oct 2025 09:06:13 GMT | Understanding the CIA Triad: The Foundation of Cybersecurity | Anderson Santos | [Read More](https://medium.com/p/818230321695) |
+| Fri, 10 Oct 2025 09:04:17 GMT | En Güvendiğiniz Yapay Zeka Araçlarının Sizi Şaşırtacak 4 Kör Noktası | techtalks.academy | [Read More](https://medium.com/p/1694c38d3bf0) |
 | Fri, 10 Oct 2025 09:02:21 GMT | Splunk .conf25 — Cisco’s Data Fabric, Ponds, Puddles, and Lakes | Apto Solutions | [Read More](https://medium.com/p/e23b35ded7d5) |
 | Fri, 10 Oct 2025 09:02:19 GMT | Fine-Grained Outbound Control: How Google Cloud Cloud NAT Rules Enhance Security and Compliance | Chimbu Chinnadurai | [Read More](https://medium.com/p/b69480896d15) |
 | Fri, 10 Oct 2025 09:01:13 GMT | Beginning My Journey In Cybersecurity | Rakshitha | [Read More](https://medium.com/p/6303dd70fcbd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 01:20:31 GMT | Alan — 自主演化的多-AI 防毒與信任治理架構 | 黃予謙 | [Read More](https://medium.com/p/3769020dda5d) |
 | Fri, 10 Oct 2025 01:15:38 GMT | Why now is the best time to learn Cyber Security! | Jorge Medina | [Read More](https://medium.com/p/312fdf9fb4f9) |
 | Fri, 10 Oct 2025 01:14:54 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/193908618508) |
-| Fri, 10 Oct 2025 01:14:52 GMT | Building the Internet of Trust: How www.idarti.com | Igor Dunaev | [Read More](https://medium.com/p/93410441c557) |
-| Fri, 10 Oct 2025 01:13:43 GMT | GOVERSHELL | nightbird | [Read More](https://medium.com/p/3454b49c2209) |
-| Fri, 10 Oct 2025 01:10:36 GMT | the effort to be seen | Eliza Gonzales | [Read More](https://medium.com/p/2278cb1ed90d) |
-| Fri, 10 Oct 2025 01:07:57 GMT | Data Breach Dynamics | Cyber Security Research | [Read More](https://medium.com/p/adf7a9d97f37) |
-| Fri, 10 Oct 2025 01:01:43 GMT | Cybersecurity Unveiled: Threats and Tactics | Cyber Security Research | [Read More](https://medium.com/p/417fa4c3c8b9) |
-| Fri, 10 Oct 2025 00:58:46 GMT | Comparative Analysis of Machine Learning Techniques for Network Intrusion Detection | Anand_B_Arjun | [Read More](https://medium.com/p/2e5ffb0cd484) |
-| Fri, 10 Oct 2025 00:56:08 GMT | Fortifying the Digital Frontier | Cyber Security Research | [Read More](https://medium.com/p/afed89c3356c) |
-| Fri, 10 Oct 2025 00:51:09 GMT | Cracking the Code: How I Fell in Love with Cybersecurity | G Mary Spandana | [Read More](https://medium.com/p/5087e15fd12a) |
