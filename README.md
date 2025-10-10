@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 10:10:10 GMT | 7 Things I Wish Someone Told Me About Database Encryption (Before My First Security Incident) | Zudonu Osomudeya | [Read More](https://medium.com/p/330cc17f03b3) |
+| Fri, 10 Oct 2025 10:09:59 GMT | If You’re Not Learning Cloud Computing in 2025, You’re Already Behind. | JetkingChandigarh | [Read More](https://medium.com/p/00d52df42bff) |
+| Fri, 10 Oct 2025 10:09:07 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/09aee4f62717) |
+| Fri, 10 Oct 2025 10:07:33 GMT | How Itch.io | Krivadna | [Read More](https://medium.com/p/92db01c21848) |
+| Fri, 10 Oct 2025 10:07:17 GMT | Forensic-Timeliner v2.2: High-Speed Windows DFIR Timeline Consolidation | cybrNK | [Read More](https://medium.com/p/a10bc905a43b) |
+| Fri, 10 Oct 2025 10:07:15 GMT | CL0P Hackers Exploit Oracle Software Flaw to Breach Global Organizations | Jasmitharouthu | [Read More](https://medium.com/p/c97b8b6ec4c6) |
+| Fri, 10 Oct 2025 10:05:55 GMT | Security Operations Center(SOC) Fundamental | R2 | [Read More](https://medium.com/p/731f2af16fdf) |
+| Fri, 10 Oct 2025 10:03:30 GMT | Mr Robot -TryHackMe CTF Çözümü | Berat Çam | [Read More](https://medium.com/p/de3a38fc50d2) |
+| Fri, 10 Oct 2025 10:02:58 GMT | Glitching Into Reality: Why We Secretly Love Broken Code | Franziska "Ziska" Fink | [Read More](https://medium.com/p/5660bbdd4134) |
+| Fri, 10 Oct 2025 10:02:35 GMT | DockerLabs Writeup — 0xc0ffee (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/daa84fea033f) |
+| Fri, 10 Oct 2025 10:02:19 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/ffa0927ad619) |
+| Fri, 10 Oct 2025 10:00:24 GMT | Trusted Endpoint Security Services Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/b1f1a0ca79ea) |
+| Fri, 10 Oct 2025 09:59:55 GMT | Watching the Brand: How SOC Teams Use Brand Monitoring to Catch Threats Early | eSecForte Technologies | [Read More](https://medium.com/p/e8f1b01e1dd5) |
+| Fri, 10 Oct 2025 09:58:28 GMT | Top 10 Internship Programs in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/a4fa0d16f1bc) |
+| Fri, 10 Oct 2025 09:57:41 GMT | 5 Cybersecurity Lessons I Learned After a 3AM Data Breach | Muhummad Zaki | [Read More](https://medium.com/p/1539e281d40f) |
+| Fri, 10 Oct 2025 09:55:59 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/89c6b8ee67b3) |
+| Fri, 10 Oct 2025 09:51:51 GMT | MCP as Your Malware Analysis Assistant | Rizqi Setyo Kusprihantanto | [Read More](https://medium.com/p/75c177b2788f) |
+| Fri, 10 Oct 2025 09:38:02 GMT | Can Learning AWS Make You An Industry Expert? | Mohammed Numan | [Read More](https://medium.com/p/edcfb00e01af) |
+| Fri, 10 Oct 2025 09:36:57 GMT | The Lazarus Hacking Group: Inside North Korea’s Billion-Dollar Cyber Empire | Motasem Hamdan | [Read More](https://medium.com/p/5d9f704490e2) |
+| Fri, 10 Oct 2025 09:36:16 GMT | Cybersecurity Risk Management: A Comprehensive Guide | Cyber Security Research | [Read More](https://medium.com/p/11a7cb592b6e) |
 | Fri, 10 Oct 2025 09:31:42 GMT | How I found an unauthenticated goldmine of PII | 0xP0L73R63157 | [Read More](https://medium.com/p/8f1fc93d8a0d) |
 | Fri, 10 Oct 2025 09:31:00 GMT | Tải Xtreme Motorbikes Mod Xe Độ (Bản VIP, Full Tiền) V2.8 | MODCOMBO | [Read More](https://medium.com/p/6d9d06297e2d) |
 | Fri, 10 Oct 2025 09:26:48 GMT | Fletcher Reede The Coder: Brutal Standup Truth Bomb | Namir Sagheenanajar | [Read More](https://medium.com/p/f85bd7a10fd2) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 03:13:21 GMT | Linux for Hackers | LinuxDev | [Read More](https://medium.com/p/969620993703) |
 | Fri, 10 Oct 2025 02:52:14 GMT | How I Automated My Office Work with Python and Bought Back My Time | Kainat Nafees | [Read More](https://medium.com/p/9f3d74b1a682) |
 | Fri, 10 Oct 2025 02:38:20 GMT | What You Need to Know About Tycoon 2FA | Bloopworm | [Read More](https://medium.com/p/fe2db261f282) |
-| Fri, 10 Oct 2025 02:21:19 GMT | Security Headers Made Simple: A Practical Guide | Aanchalgoel | [Read More](https://medium.com/p/3c58c00e0f8d) |
-| Fri, 10 Oct 2025 02:20:40 GMT | Security and Performance Aspects of Process Scheduling Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/171d9dc9bdee) |
-| Fri, 10 Oct 2025 02:19:12 GMT | How Social Media Is Quietly Changing Our Brains (And What We Can Do About It) | Minakshi Jha | [Read More](https://medium.com/p/bfa1864e0976) |
-| Fri, 10 Oct 2025 02:13:33 GMT | The Evolution of Intimacy: Why Sex Dolls Are Becoming Mainstream Companions | realdollbuy | [Read More](https://medium.com/p/512a38672d83) |
-| Fri, 10 Oct 2025 02:07:55 GMT | I think I finally met me | Billie Moon | [Read More](https://medium.com/p/cb775ac8857a) |
-| Fri, 10 Oct 2025 02:07:07 GMT | Building Magic AD | Alan francis | [Read More](https://medium.com/p/f2ea07d7a029) |
-| Fri, 10 Oct 2025 02:02:54 GMT | How Digital Forensics Powers SFC Enforcement: Insights from Award-Winning Investigator Henry Liu | KH Liu | [Read More](https://medium.com/p/448a7837a57c) |
-| Fri, 10 Oct 2025 01:59:49 GMT | The Invisible Infrastructure Advantage: Why the Best Security is the Security You Never See | Jamal Jones | [Read More](https://medium.com/p/56c290f11b19) |
-| Fri, 10 Oct 2025 01:58:27 GMT | Security and Performance Aspects of ZFS on Linux Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/1c41a1fab244) |
-| Fri, 10 Oct 2025 01:53:36 GMT | Inside the Dark Web: Myth vs. Reality | The Bot Group | [Read More](https://medium.com/p/5a8afa43e3b4) |
-| Fri, 10 Oct 2025 01:52:47 GMT | Starting in Cybersecurity: Avoid These Mistakes | 5p1d4r | [Read More](https://medium.com/p/2d6f198fe30c) |
-| Fri, 10 Oct 2025 01:43:03 GMT | The Architecture Repository: Turning Enterprise Architecture into a Strategic Asset | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/f918b9fbe335) |
-| Fri, 10 Oct 2025 01:42:45 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/167c7d0b3af4) |
-| Fri, 10 Oct 2025 01:35:08 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/16c553e24900) |
-| Fri, 10 Oct 2025 01:34:00 GMT | Building an AI-Powered Security Lab on a Raspberry Pi: Why Open Hardware Matters | FINSTER AMBER RENE | [Read More](https://medium.com/p/b5bafdd4133f) |
-| Fri, 10 Oct 2025 01:30:30 GMT | GZR Observer — India Geo Perspective — Week of Oct 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5ceb0d956e98) |
-| Fri, 10 Oct 2025 01:21:23 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/52dd3cd3c53c) |
-| Fri, 10 Oct 2025 01:20:31 GMT | Alan — 自主演化的多-AI 防毒與信任治理架構 | 黃予謙 | [Read More](https://medium.com/p/3769020dda5d) |
-| Fri, 10 Oct 2025 01:15:38 GMT | Why now is the best time to learn Cyber Security! | Jorge Medina | [Read More](https://medium.com/p/312fdf9fb4f9) |
-| Fri, 10 Oct 2025 01:14:54 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/193908618508) |
