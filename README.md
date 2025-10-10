@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 01:34:00 GMT | Building an AI-Powered Security Lab on a Raspberry Pi: Why Open Hardware Matters | FINSTER AMBER RENE | [Read More](https://medium.com/p/b5bafdd4133f) |
+| Fri, 10 Oct 2025 01:30:30 GMT | GZR Observer — India Geo Perspective — Week of Oct 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5ceb0d956e98) |
+| Fri, 10 Oct 2025 01:21:23 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/52dd3cd3c53c) |
+| Fri, 10 Oct 2025 01:20:31 GMT | Alan — 自主演化的多-AI 防毒與信任治理架構 | 黃予謙 | [Read More](https://medium.com/p/3769020dda5d) |
+| Fri, 10 Oct 2025 01:15:38 GMT | Why now is the best time to learn Cyber Security! | Jorge Medina | [Read More](https://medium.com/p/312fdf9fb4f9) |
+| Fri, 10 Oct 2025 01:14:54 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/193908618508) |
+| Fri, 10 Oct 2025 01:14:52 GMT | Building the Internet of Trust: How www.idarti.com | Igor Dunaev | [Read More](https://medium.com/p/93410441c557) |
+| Fri, 10 Oct 2025 01:13:43 GMT | GOVERSHELL | nightbird | [Read More](https://medium.com/p/3454b49c2209) |
+| Fri, 10 Oct 2025 01:10:36 GMT | the effort to be seen | Eliza Gonzales | [Read More](https://medium.com/p/2278cb1ed90d) |
+| Fri, 10 Oct 2025 01:07:57 GMT | Data Breach Dynamics | Cyber Security Research | [Read More](https://medium.com/p/adf7a9d97f37) |
+| Fri, 10 Oct 2025 01:01:43 GMT | Cybersecurity Unveiled: Threats and Tactics | Cyber Security Research | [Read More](https://medium.com/p/417fa4c3c8b9) |
+| Fri, 10 Oct 2025 00:58:46 GMT | Comparative Analysis of Machine Learning Techniques for Network Intrusion Detection | Anand_B_Arjun | [Read More](https://medium.com/p/2e5ffb0cd484) |
+| Fri, 10 Oct 2025 00:56:08 GMT | Fortifying the Digital Frontier | Cyber Security Research | [Read More](https://medium.com/p/afed89c3356c) |
+| Fri, 10 Oct 2025 00:51:09 GMT | Cracking the Code: How I Fell in Love with Cybersecurity | G Mary Spandana | [Read More](https://medium.com/p/5087e15fd12a) |
+| Fri, 10 Oct 2025 00:50:13 GMT | The Anatomy of a Cyberattack | Cyber Security Research | [Read More](https://medium.com/p/88482869f850) |
+| Fri, 10 Oct 2025 00:43:43 GMT | Decoding Digital Defense | Cyber Security Research | [Read More](https://medium.com/p/d32cf58be9ea) |
+| Fri, 10 Oct 2025 00:43:01 GMT | I Found the Admin Panel. Then I Owned Everything. | youssef awad | [Read More](https://medium.com/p/95f6d367060a) |
+| Fri, 10 Oct 2025 00:38:13 GMT | How Hackers Turn DNS Into a Backdoor (2025 Playbook) | Very Lazy Tech | [Read More](https://medium.com/p/6d3a61532bbd) |
+| Fri, 10 Oct 2025 00:32:04 GMT | Linux Runtime Kernel Guard: A Comprehensive Guide | ThamizhElango Natarajan | [Read More](https://medium.com/p/4607637833fb) |
+| Fri, 10 Oct 2025 00:25:34 GMT | The Bloodied Path: How Puerto Rico’s Independent Party (PIP) Shaped Politics, Campuses, and Foreign… | The Architect | [Read More](https://medium.com/p/486462d27ea5) |
+| Fri, 10 Oct 2025 00:07:08 GMT | Navigating Data Security in GenAI — A Multi-layer Approach | James Chan | [Read More](https://medium.com/p/73ae55f73bec) |
+| Fri, 10 Oct 2025 00:02:03 GMT | GetAllUrls (gau): El Detector de Endpoints Antiguos y Olvidados en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/cec72c694bac) |
+| Thu, 09 Oct 2025 23:58:51 GMT | Agentic AI: why your business might be building on shifting sands | Sarah Fan | [Read More](https://medium.com/p/0165f2057dfa) |
+| Thu, 09 Oct 2025 23:58:42 GMT | How Systems Thinking Can Defend Against Cyber Attacks | Noor | [Read More](https://medium.com/p/ffcd170cb576) |
+| Thu, 09 Oct 2025 23:56:22 GMT | Uttar Pradesh Plans QR Code Verification for Property Ownership by 2026 | Nathaniel Langley | [Read More](https://medium.com/p/5c9a9a7ac9bf) |
+| Thu, 09 Oct 2025 23:54:42 GMT | Google Rolls Out QR Code Verification for Secure Text Messages | Nathaniel Langley | [Read More](https://medium.com/p/2d7bb6414a58) |
 | Thu, 09 Oct 2025 23:21:10 GMT | Behind the Decorations of Dignity — the Void | Vidblysk Voice | [Read More](https://medium.com/p/3bfd0c98510e) |
 | Thu, 09 Oct 2025 23:01:40 GMT | The Security Paradox: Too Much Data, Too Little Clarity | Cyber-AppSec | [Read More](https://medium.com/p/ad99ba1b517d) |
 | Thu, 09 Oct 2025 22:56:45 GMT | Jack Dorsey ‘Vibe Coded’ a ‘Secure’ App Over the Weekend | Napoleon Beltran | [Read More](https://medium.com/p/1318c2b21747) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 17:10:52 GMT | Lxd for privilege escalation | Sadineni Sai Sushanth | [Read More](https://medium.com/p/b1ccfd3c2523) |
 | Thu, 09 Oct 2025 17:09:52 GMT | Employee Theft: Protect Your Business Without Becoming Big Brother | Tec-Tel Communications | [Read More](https://medium.com/p/c68d46cb8cb3) |
 | Thu, 09 Oct 2025 17:08:28 GMT | Co-Managed IT Services, Your IT Superpower. | SkyTide Group | [Read More](https://medium.com/p/01370882e189) |
-| Thu, 09 Oct 2025 17:07:41 GMT | Why 73% of Higher Education Institutions Are Reevaluating Their Campus Safety Infrastructure — And… | Tec-Tel Communications | [Read More](https://medium.com/p/7f47a7a626fc) |
-| Thu, 09 Oct 2025 17:02:16 GMT | Echolocating through the AGI Reality Distortion Field | Braedon Villano | [Read More](https://medium.com/p/f4ccd2e12ffe) |
-| Thu, 09 Oct 2025 17:02:00 GMT | TryHackMe — Reset Walkthrough | Cyber Anom | [Read More](https://medium.com/p/3cc48105b9e2) |
-| Thu, 09 Oct 2025 16:58:18 GMT | Securing PII Without Slowing Down Analytics | Spandana Lakkakula | [Read More](https://medium.com/p/3a4d6a4c829b) |
-| Thu, 09 Oct 2025 16:54:02 GMT | Data Protection — NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/e93059e41adc) |
-| Thu, 09 Oct 2025 16:51:42 GMT | The Nature of Information | Kiryl Ye | [Read More](https://medium.com/p/f0ca9268c774) |
-| Thu, 09 Oct 2025 16:47:06 GMT | Introduction Windows Log Analysis: Part 1 | Syedmohathashimali | [Read More](https://medium.com/p/b61c65a957cf) |
-| Thu, 09 Oct 2025 16:46:19 GMT | Major IDOR Flaw in India’s Income Tax Portal Exposed Sensitive Taxpayer Data | Nitin Garg | [Read More](https://medium.com/p/048e155ab6aa) |
-| Thu, 09 Oct 2025 16:45:00 GMT | Server-Side Request Forgery | Fatimahasan | [Read More](https://medium.com/p/e047f649afab) |
-| Thu, 09 Oct 2025 16:40:32 GMT | XWorm Rises Again: From RAT to Ransomware — A Deep Dive into Its Resurgence. | eL Njas!™ | [Read More](https://medium.com/p/48e63c501c80) |
-| Thu, 09 Oct 2025 16:39:08 GMT | Review : Pre Security Learning Path — Try Hack Me | InfernoRadar | [Read More](https://medium.com/p/73e2c1a73fdd) |
-| Thu, 09 Oct 2025 16:34:49 GMT | Cognitive Hacking: The Next Frontier of Cybersecurity | Ahmed.Saltah | [Read More](https://medium.com/p/369d4ecb4655) |
-| Thu, 09 Oct 2025 16:31:54 GMT | Cybersecurity in Robotic Milling: Protecting Smart Cells from Digital Threats | Robotic Hi-Tech Solutions | [Read More](https://medium.com/p/4eecab59bd1a) |
-| Thu, 09 Oct 2025 16:31:24 GMT | Stop Guessing: How to Systematically Evaluate OpenAI Assistants with Promptfoo | Mahesh G | [Read More](https://medium.com/p/1d3e5e513c86) |
-| Thu, 09 Oct 2025 16:30:55 GMT | Harden Your Express.js App: Practical Security Layers You Shouldn’t Ignore | Mr Senior | [Read More](https://medium.com/p/57d32377b105) |
-| Thu, 09 Oct 2025 16:26:32 GMT | ProtoVault Breach | Cipher Zahra | [Read More](https://medium.com/p/d75d23134c88) |
-| Thu, 09 Oct 2025 16:23:20 GMT | Zero Trust in 2025: The New IAM Imperative for Cloud Security | Abhilash | [Read More](https://medium.com/p/770a007ea1b2) |
-| Thu, 09 Oct 2025 16:23:06 GMT | techstarvoip.com Scam Alert: What Every Crypto User Should Know | Editor | [Read More](https://medium.com/p/c3fd25bfe8e0) |
-| Thu, 09 Oct 2025 16:21:08 GMT | Is horizonprofinancial.com Legit or a Scam? Read This Before Sending Money | Editor | [Read More](https://medium.com/p/f269fdbdbb6d) |
-| Thu, 09 Oct 2025 16:19:20 GMT | Is chainbitcoins.com a Scam? What You Need to Know Before Investing | Editor | [Read More](https://medium.com/p/563f25e3b01b) |
-| Thu, 09 Oct 2025 16:17:46 GMT | The Human Side of Cybersecurity | Ahmed.Saltah | [Read More](https://medium.com/p/fc62402b10a4) |
-| Thu, 09 Oct 2025 16:16:03 GMT | Introduction to Information Protection & Data Governance in Microsoft 365 | Wesley Duel Swann | [Read More](https://medium.com/p/469d8ded7c08) |
-| Thu, 09 Oct 2025 16:10:19 GMT | A dev’s guide to navigating ATO | Via Knowledge Hub | [Read More](https://medium.com/p/a817750f920c) |
-| Thu, 09 Oct 2025 16:10:07 GMT | wealthfrontstock.com Reviews: Scam Complaints, Warnings, and Recovery Options | Editor | [Read More](https://medium.com/p/fd96408dffa4) |
-| Thu, 09 Oct 2025 16:08:09 GMT | Professional Event Security: Solving the Hidden Challenges Behind Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/172a7867bbc8) |
-| Thu, 09 Oct 2025 16:03:15 GMT | Is AELs-Exchange.com Safe or a Scam? The Truth Revealed | Editor | [Read More](https://medium.com/p/f81aff3a938a) |
