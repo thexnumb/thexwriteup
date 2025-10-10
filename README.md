@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 16:24:30 GMT | — How you can… | Mahim$ec | [Read More](https://medium.com/p/36c27a30eee1) |
+| Fri, 10 Oct 2025 16:24:10 GMT | Walkthrough THM : Corridor | Telynor | [Read More](https://medium.com/p/65b4ef3221d2) |
+| Fri, 10 Oct 2025 16:10:13 GMT | The Hidden Side of AI Security | Bhavesh Mandhan | [Read More](https://medium.com/p/3dcf8bc3a43f) |
+| Fri, 10 Oct 2025 16:04:35 GMT | Get Addicted to Cybersecurity! | Shahzaib | [Read More](https://medium.com/p/8fe816f703d8) |
+| Fri, 10 Oct 2025 16:02:07 GMT | 7 Multi-Region Secrets Patterns That Stay Fast | Thinking Loop | [Read More](https://medium.com/p/59b30d2940ae) |
+| Fri, 10 Oct 2025 16:01:35 GMT | Neural Network Nightmare: How Image Recognition APIs Were Secretly Spying on Everyone | Iski | [Read More](https://medium.com/p/f42e379999c5) |
+| Fri, 10 Oct 2025 16:00:02 GMT | Introducing Password Manager Secure  Total Privacy for Your Digital Life | Decentr | [Read More](https://medium.com/p/4534bfa8ab1a) |
+| Fri, 10 Oct 2025 15:54:47 GMT | Module 1: Defensible Network Architecture (From Red and Blue Viewpoints) | Ahura | [Read More](https://medium.com/p/5f1be6660184) |
+| Fri, 10 Oct 2025 15:54:47 GMT | How to Charge a Laptop Properly: Should It Be On or Off? | Wulansaf | [Read More](https://medium.com/p/7c3d9e0c94ab) |
+| Fri, 10 Oct 2025 15:48:25 GMT | Intent-Based Access Control for Agentic AI: Securing the Next Chapter in Cybersecurity | Abhilash | [Read More](https://medium.com/p/96544a94dea6) |
+| Fri, 10 Oct 2025 15:39:39 GMT | PART3:GitOps at Scale: Enterprise CI/CD Pipeline for KubernetesComplete Guide to Production-Grade… | Salwan Mohamed | [Read More](https://medium.com/p/6d76465b790e) |
+| Fri, 10 Oct 2025 15:34:51 GMT | North Korean Hackers Break Record With $2 Billion Crypto Heist in 2025 | Durgesh yadav | [Read More](https://medium.com/p/7fd36c03ec6e) |
+| Fri, 10 Oct 2025 15:31:56 GMT | SQL Injection: Determining Column Count | Cipher0x00 | [Read More](https://medium.com/p/aba8630fedb2) |
+| Fri, 10 Oct 2025 15:31:56 GMT | SQL Injection: Oracle Database Enumeration | Cipher0x00 | [Read More](https://medium.com/p/578dfc281c70) |
 | Fri, 10 Oct 2025 15:26:46 GMT | SQL Injection: Database Enumeration on Non-Oracle Databases | Cipher0x00 | [Read More](https://medium.com/p/414b6e221cc3) |
 | Fri, 10 Oct 2025 15:26:45 GMT | SQL Injection UNION Attack — MySQL/Microsoft Version | Cipher0x00 | [Read More](https://medium.com/p/b725dd640d18) |
 | Fri, 10 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c0f3ba874406) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 12:38:34 GMT | Alternatives to ROM for a homebrew computer | Mansfield-Devine | [Read More](https://medium.com/p/faf009bf840d) |
 | Fri, 10 Oct 2025 12:38:25 GMT | Quantum breakthrough: how leaders secure the future | STR4T0TT0 | [Read More](https://medium.com/p/9d732a190f92) |
 | Fri, 10 Oct 2025 12:38:14 GMT | The Future of Compliance Management in Wealth and Asset Management | Rory Galvin | [Read More](https://medium.com/p/957893de0c09) |
-| Fri, 10 Oct 2025 12:36:52 GMT | Cloud Misconfigurations Series: Azure Virtual WAN (Part 1) — Common Pitfalls and Connectivity… | Hariharasudhan GK | [Read More](https://medium.com/p/94f42177e241) |
-| Fri, 10 Oct 2025 12:32:05 GMT | 8 Postgres Security Defaults That Start You Strong | Syntal | [Read More](https://medium.com/p/b6eb8bda03bc) |
-| Fri, 10 Oct 2025 12:32:05 GMT | Splunking Skills Assessment | Luke | [Read More](https://medium.com/p/4cc3f55b044e) |
-| Fri, 10 Oct 2025 12:30:17 GMT | How The Web Works [Part 4] | Mohamed Hamdi (Robin_Root) | [Read More](https://medium.com/p/2ad77d16f03a) |
-| Fri, 10 Oct 2025 12:23:25 GMT | The Python Habit That Quietly Made Me a 10x Developer | Fateyaly | [Read More](https://medium.com/p/0811ea7c07cc) |
-| Fri, 10 Oct 2025 12:20:16 GMT | Widespread Active Exploitations Put Critical Infrastructure at Risk | Loginsoft | [Read More](https://medium.com/p/c22b55d69f3d) |
-| Fri, 10 Oct 2025 12:20:10 GMT | What Men Want (But Will Never Say Aloud) | Wisdom from Ubaka | [Read More](https://medium.com/p/dfa03fc76e5c) |
-| Fri, 10 Oct 2025 12:15:17 GMT | First-Time WiFi Pentest — Real-World Findings | 0xc4t | [Read More](https://medium.com/p/205ca774dbf0) |
-| Fri, 10 Oct 2025 12:11:10 GMT | Understanding Authorization: The Gatekeeper of Access | Divy | [Read More](https://medium.com/p/c359b53ae283) |
-| Fri, 10 Oct 2025 12:03:12 GMT | Cybersecurity Internships: A Fast-Growing Career Option for 2026 | Pradeep Kashyap | [Read More](https://medium.com/p/9a1f8d0d48b1) |
-| Fri, 10 Oct 2025 12:02:13 GMT | Learning AWS the Practical Way — Part 3: Building Secure APIs with Amazon API Gateway and Amazon… | Aditya Pise | [Read More](https://medium.com/p/e6c7913f0425) |
-| Fri, 10 Oct 2025 12:02:12 GMT | Common Online Safety Mistakes: A No-Nonsense Guide for the Everyday User | Favour  Elijah | [Read More](https://medium.com/p/4d5d385cd8cd) |
-| Fri, 10 Oct 2025 12:01:25 GMT | AI’s Digital Siege: Starving the Web or Sparking a Revolution? | Jurgen Proschinger | [Read More](https://medium.com/p/e37fb22e0935) |
-| Fri, 10 Oct 2025 11:58:26 GMT | ADCS Attack Series: Abusing ESC10 for Privilege Escalation via Misconfigured Registries | Nairuz Abulhul | [Read More](https://medium.com/p/a8c6edf07d9e) |
