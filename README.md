@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 20:22:23 GMT | Cyber Month Mandate: Move from Password Awareness to Identity Automation Now | IT_Engineer | [Read More](https://medium.com/p/2de1973f7c68) |
+| Fri, 10 Oct 2025 20:21:12 GMT | How to Recover Permanently Deleted Files | ze4rch1tect | [Read More](https://medium.com/p/97877f54af60) |
+| Fri, 10 Oct 2025 20:18:40 GMT | VPN and Web3 in Plain English: Why a Hybrid VPN Is the Bridge to Decentralization | WEB3 Blog | [Read More](https://medium.com/p/d48ff106e9da) |
 | Fri, 10 Oct 2025 20:07:59 GMT | How I Almost Fell for a Discord Impersonation Scam — And What It Taught Me About Social… | Ahmed hossam | [Read More](https://medium.com/p/e1e66cf5001d) |
 | Fri, 10 Oct 2025 19:58:48 GMT | SOC Automation Project: Implementing SOAR for Threat Detection and Response | Mali Carter | [Read More](https://medium.com/p/f619a553721c) |
 | Fri, 10 Oct 2025 19:56:44 GMT | How SPF Checkers Are Unknowingly Exposing Websites to XSS Attacks | D Johnston | [Read More](https://medium.com/p/faeff947bfa9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:34:41 GMT | TryHackMe: Snapped Phish-ing Line | Davenyamongo | [Read More](https://medium.com/p/7b8f1f7bb389) |
 | Fri, 10 Oct 2025 14:33:40 GMT | Your AI therapist isn’t your friend | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/3230e39a9745) |
 | Fri, 10 Oct 2025 14:32:39 GMT | AWS IAM in Plain English | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/780ad3b0564e) |
-| Fri, 10 Oct 2025 14:32:05 GMT | Introducing RESTHeart’s Permission System | Maurizio Turatti | [Read More](https://medium.com/p/cc7016ace9ec) |
-| Fri, 10 Oct 2025 14:30:43 GMT | How to Learn Network Security: Step-by-Step Guide for Beginners 2025 | Hachtechnology | [Read More](https://medium.com/p/19a8d75cf8da) |
-| Fri, 10 Oct 2025 14:29:42 GMT | 5 Cybersecurity Trends Every MSP Needs to Know in 2025 | Donald Betancourt | [Read More](https://medium.com/p/9e2295980833) |
