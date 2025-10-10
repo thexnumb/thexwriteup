@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 23:30:45 GMT | How NIST Picked the Post-Quantum Cryptography Winners — and Why It Matters | Piyush | [Read More](https://medium.com/p/c08c8c98d1e6) |
+| Fri, 10 Oct 2025 23:20:41 GMT | FlagYard — OhMycURL - Web Exploitation - CTF Challenge Writeup | Xyph3ria | [Read More](https://medium.com/p/d4842f25febc) |
+| Fri, 10 Oct 2025 23:18:22 GMT | The Shortest Vector Problem: The Hard Math Powering Post-Quantum Cryptography | Piyush | [Read More](https://medium.com/p/0081d598eae4) |
+| Fri, 10 Oct 2025 23:18:22 GMT | When the Screen Becomes a Weapon | Samirah A.O | [Read More](https://medium.com/p/5e72e6f8769d) |
 | Fri, 10 Oct 2025 23:04:53 GMT | I was never enough for you… | -Xri- | [Read More](https://medium.com/p/3734b5a7b478) |
 | Fri, 10 Oct 2025 22:58:19 GMT | Common Terms in Fraud & Cybercrime | Godsway R. Akakpo | [Read More](https://medium.com/p/d9b14da831ae) |
 | Fri, 10 Oct 2025 22:50:24 GMT | Haust Network: Pioneering the Next Era of Scalable, Secure, and User-Centric DeFi | Max Branden | [Read More](https://medium.com/p/44d886a4bad2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c0f3ba874406) |
 | Fri, 10 Oct 2025 15:13:36 GMT | Demystifying Diffie-Hellman: The Mathematical Foundations of Secure Key Exchange | Sumit Sah | [Read More](https://medium.com/p/29b531c9b805) |
 | Fri, 10 Oct 2025 15:11:09 GMT | Research Report: The State of Technology (2025 Edition) | The Deep Frame | [Read More](https://medium.com/p/0aadc2abb23a) |
-| Fri, 10 Oct 2025 15:08:15 GMT | Linux file permissions | Linux Guide | [Read More](https://medium.com/p/6bf829b49d98) |
-| Fri, 10 Oct 2025 15:05:09 GMT | Hacker’s Digital Toolkit v1.0 — Ship Faster. Investigate Smarter. | Micah Thornton | [Read More](https://medium.com/p/8ec2655c8395) |
-| Fri, 10 Oct 2025 14:59:39 GMT | ️ Understanding Darkweb Exit Scams: What You Should Know | Tor BBB | [Read More](https://medium.com/p/cd93f178cb69) |
-| Fri, 10 Oct 2025 14:57:28 GMT | Hackers | Adebayo Muhammad | [Read More](https://medium.com/p/479896849bdf) |
