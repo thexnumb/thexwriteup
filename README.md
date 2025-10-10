@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 21:32:46 GMT | Microsoft confirms Windows 11’s simple text editor “Edit” is now pre-installed | Gideonessandoh | [Read More](https://medium.com/p/0c3fc2df1d8f) |
+| Fri, 10 Oct 2025 21:26:34 GMT | Game Zone - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/92b797af3053) |
+| Fri, 10 Oct 2025 21:14:24 GMT | Ancient Wisdom and Modern Cybersecurity: The Mahabharata’s Metaphors in VPN Detection | Ashok Yadav | [Read More](https://medium.com/p/5f880f82d3d8) |
 | Fri, 10 Oct 2025 21:07:12 GMT | SIA Security Project Management Practice: Managing Single and Multi-Group Operations with Modern… | Dr Francesco Dergano | [Read More](https://medium.com/p/659adb4e0d4d) |
 | Fri, 10 Oct 2025 20:59:36 GMT | Siber Güvenlikte İnsan Faktörü ve Sosyal Mühendislik | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/241362d0fba0) |
 | Fri, 10 Oct 2025 20:56:35 GMT | TryHackMe Writeup: CTF Collection Vol.2 | Berkay AĞGÜL | [Read More](https://medium.com/p/f0aceae969cc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:43:27 GMT | Man-in-the-Middle by TryHackMe | Tanwietayim A | [Read More](https://medium.com/p/3e383201f634) |
 | Fri, 10 Oct 2025 14:42:29 GMT | How I Made $10,000 in 30 Days with an AI Trading Bot — The Exact Strategy Revealed | sana irshad | [Read More](https://medium.com/p/a79aaa16358a) |
 | Fri, 10 Oct 2025 14:42:26 GMT | AppArmor Profiles Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/5fdef44aa51c) |
-| Fri, 10 Oct 2025 14:42:02 GMT | Cybersecurity in 2025: Moving Beyond Defense | Co-Ventech | [Read More](https://medium.com/p/0efb4a61a487) |
-| Fri, 10 Oct 2025 14:41:27 GMT | I Built a Free Enterprise-Grade Security Toolkit That Replaced $100K in Commercial Tools — Here’s… | Okan Yıldız | [Read More](https://medium.com/p/e0c9c6cf4400) |
-| Fri, 10 Oct 2025 14:41:05 GMT | Understanding Vulnerabilities and Vulnerability Management | Adetutu Deborah | [Read More](https://medium.com/p/2016e1a624b8) |
