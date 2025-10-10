@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 13:25:48 GMT | Cloud Misconfigurations Series: Azure Virtual WAN (Part 2) — Deep Dive into Route Propagation &… | Hariharasudhan GK | [Read More](https://medium.com/p/54b49fc7d8f4) |
+| Fri, 10 Oct 2025 13:23:33 GMT | Digital Identity Management | Cyber Security Research | [Read More](https://medium.com/p/c58f051a5897) |
+| Fri, 10 Oct 2025 13:19:11 GMT | Maybe Web3 Doesn’t Need Another Auidit — It Needs Awareness. | Mercyar | [Read More](https://medium.com/p/b497bb29fbf2) |
+| Fri, 10 Oct 2025 13:17:29 GMT | Understanding Security Information and Event Management (SIEM) | Cyber Security Research | [Read More](https://medium.com/p/cf41ce1c264a) |
+| Fri, 10 Oct 2025 13:17:14 GMT | Integrating Physical and Cyber Security: The Future of Enterprise Protection | Fortnexs Shield | [Read More](https://medium.com/p/c59582712390) |
+| Fri, 10 Oct 2025 13:15:40 GMT | Walkthrough THM — Source | Telynor | [Read More](https://medium.com/p/b2398e831fd9) |
+| Fri, 10 Oct 2025 13:13:09 GMT | From Tactical Trade-offs to Strategic Fidelity: Framing AI Communication in Pursuit-Evasion… | Berend Watchus | [Read More](https://medium.com/p/c66432098625) |
+| Fri, 10 Oct 2025 13:11:49 GMT | IT Horizons Partners with Sophos to Champion Cyber Resilience in Africa | IT Horizons | [Read More](https://medium.com/p/3f3aa07c924f) |
+| Fri, 10 Oct 2025 13:11:23 GMT | Cybersecurity Awareness Training | Cyber Security Research | [Read More](https://medium.com/p/627d65b856b8) |
+| Fri, 10 Oct 2025 13:07:01 GMT | ️‍♂️ Advanced Man-in-the-Middle (MITM) Frameworks | Esra Kayhan | [Read More](https://medium.com/p/46007d8651cc) |
+| Fri, 10 Oct 2025 13:02:26 GMT | Wi-Fi Cryptography Attacks: WPA3 Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/751b786080d8) |
+| Fri, 10 Oct 2025 13:02:22 GMT | AI Governance in Law Firms: Proactive Compliance Strategies to Stay Ahead of Regulatory… | Josh Lee | [Read More](https://medium.com/p/cb309ef052dd) |
+| Fri, 10 Oct 2025 13:02:02 GMT | Cloud Security Essentials | Cyber Security Research | [Read More](https://medium.com/p/06b7e2b7e3c3) |
+| Fri, 10 Oct 2025 13:01:17 GMT | Starting with the Roots | Shivinaa | [Read More](https://medium.com/p/9db1c50662d0) |
+| Fri, 10 Oct 2025 12:57:20 GMT | Enhancing RBI Cybersecurity Framework’s Integrity through Penetration Testing | Qualysec | [Read More](https://medium.com/p/3a6e4a0718dc) |
+| Fri, 10 Oct 2025 12:57:12 GMT | Ensuring Reliability of Information Systems: From Theory to Practice | Oleh Dubetcky | [Read More](https://medium.com/p/b9bc15c4a64f) |
+| Fri, 10 Oct 2025 12:53:43 GMT | Enhance Security with Top Assessment Services in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/500d4cf194c4) |
+| Fri, 10 Oct 2025 12:50:28 GMT | “When Systems Run Smoothly but People Don’t” Why the IT World Needs a Mental Peace Day | Sreenivas Soman Nair | [Read More](https://medium.com/p/b8fa24e2890b) |
+| Fri, 10 Oct 2025 12:43:18 GMT | Navigating the AI Tsunami: Your Career Compass in the Age of Transformation | SjCoachUp | [Read More](https://medium.com/p/c62d7c5963e1) |
+| Fri, 10 Oct 2025 12:43:06 GMT | Lazy-Loading as a Security Measure | Anuj Tomar | [Read More](https://medium.com/p/4e10d7293706) |
+| Fri, 10 Oct 2025 12:42:13 GMT | When the Cybersecurity Dream Hits a Wall | Tyler Wall | [Read More](https://medium.com/p/7125287644d5) |
+| Fri, 10 Oct 2025 12:41:25 GMT | The Hacker’s Mindset: Beyond Tools & Tactics | Fateyaly | [Read More](https://medium.com/p/cb263e29c31c) |
+| Fri, 10 Oct 2025 12:38:34 GMT | Alternatives to ROM for a homebrew computer | Mansfield-Devine | [Read More](https://medium.com/p/faf009bf840d) |
 | Fri, 10 Oct 2025 12:38:25 GMT | Quantum breakthrough: how leaders secure the future | STR4T0TT0 | [Read More](https://medium.com/p/9d732a190f92) |
+| Fri, 10 Oct 2025 12:38:14 GMT | The Future of Compliance Management in Wealth and Asset Management | Rory Galvin | [Read More](https://medium.com/p/957893de0c09) |
 | Fri, 10 Oct 2025 12:36:52 GMT | Cloud Misconfigurations Series: Azure Virtual WAN (Part 1) — Common Pitfalls and Connectivity… | Hariharasudhan GK | [Read More](https://medium.com/p/94f42177e241) |
 | Fri, 10 Oct 2025 12:32:05 GMT | 8 Postgres Security Defaults That Start You Strong | Syntal | [Read More](https://medium.com/p/b6eb8bda03bc) |
 | Fri, 10 Oct 2025 12:32:05 GMT | Splunking Skills Assessment | Luke | [Read More](https://medium.com/p/4cc3f55b044e) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 09:26:48 GMT | Fletcher Reede The Coder: Brutal Standup Truth Bomb | Namir Sagheenanajar | [Read More](https://medium.com/p/f85bd7a10fd2) |
 | Fri, 10 Oct 2025 09:24:01 GMT | Denial of Service (DoS) - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/a9a5674ee707) |
 | Fri, 10 Oct 2025 09:23:04 GMT | The Hacker’s Mind: Understanding Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/333431217f65) |
-| Fri, 10 Oct 2025 09:19:28 GMT | Unveiling Moniker Link (CVE-2024–21413): Navigating The Latest Cybersecurity Landscape | Redfox Security | [Read More](https://medium.com/p/995c9f39f84a) |
-| Fri, 10 Oct 2025 09:16:49 GMT | I Met the Girl I Buried at Sixteen | SuccessBlueprints.Org | [Read More](https://medium.com/p/c0f6c8f8e6bd) |
-| Fri, 10 Oct 2025 09:16:05 GMT | Top Reasons Why Businesses Are Switching to Payment Kiosk Machines | Rakesh | [Read More](https://medium.com/p/12698c51ad45) |
-| Fri, 10 Oct 2025 09:06:13 GMT | Understanding the CIA Triad: The Foundation of Cybersecurity | Anderson Santos | [Read More](https://medium.com/p/818230321695) |
-| Fri, 10 Oct 2025 09:04:17 GMT | En Güvendiğiniz Yapay Zeka Araçlarının Sizi Şaşırtacak 4 Kör Noktası | techtalks.academy | [Read More](https://medium.com/p/1694c38d3bf0) |
-| Fri, 10 Oct 2025 09:02:21 GMT | Splunk .conf25 — Cisco’s Data Fabric, Ponds, Puddles, and Lakes | Apto Solutions | [Read More](https://medium.com/p/e23b35ded7d5) |
-| Fri, 10 Oct 2025 09:02:19 GMT | Fine-Grained Outbound Control: How Google Cloud Cloud NAT Rules Enhance Security and Compliance | Chimbu Chinnadurai | [Read More](https://medium.com/p/b69480896d15) |
-| Fri, 10 Oct 2025 09:01:13 GMT | Beginning My Journey In Cybersecurity | Rakshitha | [Read More](https://medium.com/p/6303dd70fcbd) |
-| Fri, 10 Oct 2025 08:51:38 GMT | New Breakthroughs in FIDO2 and EV Charging Security from EURECOM’s ORSHIN Team | EURECOM Communication | [Read More](https://medium.com/p/885d61b0ebc0) |
-| Fri, 10 Oct 2025 08:46:28 GMT | LLM Jailbreaking: Advanced Attack Techniques and Defense Strategies Unpacked | JIN | [Read More](https://medium.com/p/7c17b31ff1de) |
-| Fri, 10 Oct 2025 08:41:12 GMT | Revenge And Ego Are Like Twins | Certified ZM | [Read More](https://medium.com/p/10f3666e4dbd) |
-| Fri, 10 Oct 2025 08:40:21 GMT | Gadget chains in Java: how unsafe deserialization leads to RCE? | Unicorn Developer | [Read More](https://medium.com/p/88b17409c7aa) |
-| Fri, 10 Oct 2025 08:37:13 GMT | XLMRat Lab — Network Forensics Report | Zulfianarahmi | [Read More](https://medium.com/p/9c79695012a1) |
-| Fri, 10 Oct 2025 08:22:58 GMT | OSP Labs — A Trusted Partner for Healthcare IT Services and Software Development | rose fox | [Read More](https://medium.com/p/25bbfbddd826) |
-| Fri, 10 Oct 2025 08:22:08 GMT | They Call Us Criminals. We Call Ourselves Hackers. | Paul Lemay | [Read More](https://medium.com/p/e27baaf9ce81) |
-| Fri, 10 Oct 2025 08:19:52 GMT | Why I’m Leaving Medium (And Why You Should Follow Me to Substack) | Heinancabouly | [Read More](https://medium.com/p/7b53915369e4) |
-| Fri, 10 Oct 2025 08:19:07 GMT | Vulnerability and Resilience | Dr. Seema Patel (PhD) | [Read More](https://medium.com/p/b659442ac201) |
-| Fri, 10 Oct 2025 08:13:20 GMT | Frida Labs — Challenge 0x2: Triggering a Static Method with Frida | Ahmed Alnajjar | [Read More](https://medium.com/p/207e06c1a3c9) |
-| Fri, 10 Oct 2025 08:12:06 GMT | What Does It Mean to Be the “Best” Cybersecurity Company? | Digital Defense | [Read More](https://medium.com/p/ee826c14ce93) |
-| Fri, 10 Oct 2025 08:08:37 GMT | Top 10 Cyber Security Companies Worldwide | Manisha Chaudhary | [Read More](https://medium.com/p/e64ec6f7180a) |
-| Fri, 10 Oct 2025 08:01:58 GMT | Cybersecurity Salary in Nigeria 2025: Pay Scale, Growth & Career Insights | ECR Academy | [Read More](https://medium.com/p/de08a73f86ac) |
-| Fri, 10 Oct 2025 07:51:27 GMT | command injection : how to Discover and Exploit | Obscure | [Read More](https://medium.com/p/d1654c296a24) |
-| Fri, 10 Oct 2025 07:49:44 GMT | What Uber, Netflix & Instagram Taught Me About System Design | Saikiran Kalidindi | [Read More](https://medium.com/p/68e478e926c2) |
-| Fri, 10 Oct 2025 07:47:44 GMT | When LLMs Inherit Vulnerabilities… Through the Supply Chain | Rabia AMAAOUCH | [Read More](https://medium.com/p/f643fec3437b) |
