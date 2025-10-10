@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 06:25:36 GMT | Tải Jenny Mod Minecraft (Chơi cùng Với Jenny) v1.21 | BANDISHARE | [Read More](https://medium.com/p/c4f2423d4702) |
+| Fri, 10 Oct 2025 06:21:14 GMT | Your Free Ticket into the World of SIEM: Getting Started with Wazuh | Athishsagarkishan | [Read More](https://medium.com/p/37b3e8da70b6) |
+| Fri, 10 Oct 2025 06:16:53 GMT | Tải Rally Fury Hack (Full Kim Cương, Tất Cả) v1.119 | MODHELLO | [Read More](https://medium.com/p/dc0d1c604a78) |
+| Fri, 10 Oct 2025 06:13:58 GMT | SQL Injection in SpringBoot security | Yasif khan | [Read More](https://medium.com/p/80edb9d8e646) |
+| Fri, 10 Oct 2025 06:12:11 GMT | How Quantum Computing Impacts Blockchain Security | Dukerearing | [Read More](https://medium.com/p/3dc7a0dc0095) |
+| Fri, 10 Oct 2025 06:10:40 GMT | When AI Stops Asking Permission: The Hidden Threats of Agentic Systems | Taimur Ijlal | [Read More](https://medium.com/p/b3c24b77c3ee) |
+| Fri, 10 Oct 2025 06:10:14 GMT | The MLSecOps Dream Team: Building Cross-Collaborative AI Security | Alwyn DSouza | [Read More](https://medium.com/p/f6eb0a869714) |
+| Fri, 10 Oct 2025 06:09:06 GMT | MLSecOps Implementation and Strategy: Securing the AI Lifecycle | Alwyn DSouza | [Read More](https://medium.com/p/7ee53af8802b) |
+| Fri, 10 Oct 2025 06:08:12 GMT | Skuld Infostealer Malware uses Discord Webhook C2 | Isaiah Illy | [Read More](https://medium.com/p/acad32dd2a01) |
+| Fri, 10 Oct 2025 06:07:45 GMT | Applying MLSecOps to Secure the AI Lifecycle | Alwyn DSouza | [Read More](https://medium.com/p/be6e0acf9679) |
+| Fri, 10 Oct 2025 06:07:12 GMT | What Is ServiceNow Financial Management, and How Does It Help Financial Institutions Automate… | Alex s | [Read More](https://medium.com/p/c146d0eed60e) |
+| Fri, 10 Oct 2025 06:06:58 GMT | Quantum-Resistant Blockchain: The Future of Digital Security | Bobby Andrews | [Read More](https://medium.com/p/ae9a396bc925) |
+| Fri, 10 Oct 2025 06:05:35 GMT | MLSecOps: Securing the Future of AI and Machine Learning | Alwyn DSouza | [Read More](https://medium.com/p/61e9004e1a10) |
+| Fri, 10 Oct 2025 06:05:17 GMT | File & Password Vault with Zero-Knowledge Proof: Proving Ownership Without Exposing Secrets | Bervice | [Read More](https://medium.com/p/b3e9c2fd3e1b) |
+| Fri, 10 Oct 2025 05:48:58 GMT | XSS (Cross-Site Scripting) | Yasif khan | [Read More](https://medium.com/p/b2c9bf0b0277) |
+| Fri, 10 Oct 2025 05:48:02 GMT | From Recon to Exploit: A Technical Playbook for Bug Bounty Hunters | Đeepanshu | [Read More](https://medium.com/p/4e0ca2834b36) |
+| Fri, 10 Oct 2025 05:43:02 GMT | Mobile Security Solutions With the Best Companies in Singapore | QualysecEurope | [Read More](https://medium.com/p/d8089d7182ba) |
 | Fri, 10 Oct 2025 05:17:13 GMT | WiFi Dead Zones Explained — And How to Eliminate Them Instantly | Ask IT Support | [Read More](https://medium.com/p/883b66cd3ef2) |
 | Fri, 10 Oct 2025 05:03:50 GMT | Linux Dirty Pipe Vulnerability Quick and Easy | Sebastian | [Read More](https://medium.com/p/b2f2a188ca77) |
 | Fri, 10 Oct 2025 04:55:06 GMT | The Day My Wi-Fi Turned Against Me | Lakshita Gulliya | [Read More](https://medium.com/p/cfc413dce63e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 19:55:11 GMT | How to Disarm and Reconstruct Files in C# | Cloudmersive | [Read More](https://medium.com/p/7044b591333b) |
 | Thu, 09 Oct 2025 19:52:33 GMT | Russia’s New Cyber Weapon: How AI Is Supercharging Attacks on Ukraine | Aaron | [Read More](https://medium.com/p/65860e252490) |
 | Thu, 09 Oct 2025 19:52:23 GMT | The Case for OAuth: How Delegated Trust Redefined Web Security | Ego | [Read More](https://medium.com/p/9daf5e237d51) |
-| Thu, 09 Oct 2025 19:50:08 GMT | Hacking for Hidden Access And Secret Functions in the Moxa NPort Series | Marcel Rick-Cen | [Read More](https://medium.com/p/cefec8cabca9) |
-| Thu, 09 Oct 2025 19:49:57 GMT | Slowloris vs. Check Loris — Boring a Server to Death and Back Again | A hacked box | [Read More](https://medium.com/p/e4bda0c6303f) |
-| Thu, 09 Oct 2025 19:47:20 GMT | ⚠️ Warning: You’re Probably Using JWT Wrong — A Deep Dive into Its Hidden Dangers | Indrajit | [Read More](https://medium.com/p/b3b15a59fd1d) |
-| Thu, 09 Oct 2025 19:45:46 GMT | IT Security Audit: Strengthening Your Organization’s Digital Defense | SafeAeon Inc. | [Read More](https://medium.com/p/32e834ce62fc) |
-| Thu, 09 Oct 2025 19:42:18 GMT | Server-Side Template Injection (SSTI) Hackvisor Lab | Y0s_0x_IBM | [Read More](https://medium.com/p/50d42ec27639) |
-| Thu, 09 Oct 2025 19:41:02 GMT | [CyberDefenders Write-up] WebStrike lab | OxMotaw3 | [Read More](https://medium.com/p/e0700d0d9cd8) |
-| Thu, 09 Oct 2025 19:38:18 GMT | From Complex Pipelines to Conversational Insights: How an AI Legal Tech Company Simplified… | Cynthia Hsieh | [Read More](https://medium.com/p/71e425134b30) |
-| Thu, 09 Oct 2025 19:31:22 GMT | HackTheBox — Puppy (WriteUp) | Emre Özdemir | [Read More](https://medium.com/p/7a38cbbcb9ff) |
-| Thu, 09 Oct 2025 19:29:48 GMT | I started a new tech journey which I'll love you to be a part of. | Esther Chioma Adu | [Read More](https://medium.com/p/e520edeffb7d) |
-| Thu, 09 Oct 2025 19:27:43 GMT | Encrypting Power: The Illusion of Seeing Without Looking | Rodrigo Gutierrez | [Read More](https://medium.com/p/261ef0a5528d) |
-| Thu, 09 Oct 2025 19:27:18 GMT | DNS Server Not Responding: What It Means and How to Fix It | SafeAeon Inc. | [Read More](https://medium.com/p/f8497f1009bb) |
-| Thu, 09 Oct 2025 19:24:10 GMT | If Drosera Existed Back Then: A Retrospective on DeFi’s Most Expensive Mistakes. | Odeja Anthony | [Read More](https://medium.com/p/cdd3595a6395) |
-| Thu, 09 Oct 2025 19:22:03 GMT | Proof by Exploitation: Shannon’s Approach to Autonomous Penetration Testing | Parathan Thiyagalingam | [Read More](https://medium.com/p/010eac3588d3) |
-| Thu, 09 Oct 2025 19:21:13 GMT | The Science of Malware Sandboxing and Behavior Analysis | Akshay Chauhan | [Read More](https://medium.com/p/ef400145b16f) |
-| Thu, 09 Oct 2025 19:20:30 GMT | Cybersecurity Consulting Firms: Guiding Businesses Toward Stronger Digital Protection | SafeAeon Inc. | [Read More](https://medium.com/p/b761cfea7abe) |
-| Thu, 09 Oct 2025 19:16:01 GMT | The Gap Between Watching AI Videos and Actually Understanding Them | Gil S. | [Read More](https://medium.com/p/7cbfcfa7ffca) |
-| Thu, 09 Oct 2025 19:14:54 GMT | A Story About Time | Rodolfo Meza | [Read More](https://medium.com/p/83ef02cd138a) |
