@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 22:00:20 GMT | EnigmaXplore 3.0 — Never Gonna Solve You | 0xDolphin | [Read More](https://medium.com/p/1cc01dbe6c77) |
+| Fri, 10 Oct 2025 21:48:20 GMT | CAN I RECOVER BITCOIN LOST IN INVESTMENT SCAM/HIRE A HACKER CALL MALICE CYBER RECOVERY | Tomas Dvorak | [Read More](https://medium.com/p/4d142d408850) |
+| Fri, 10 Oct 2025 21:47:55 GMT | Memories | David Rudder | [Read More](https://medium.com/p/bb184e68cf2c) |
+| Fri, 10 Oct 2025 21:46:41 GMT | Local File Inclusion Vulnerability: Vulnhub Prime 1 | _m1le5 | [Read More](https://medium.com/p/9bdc382e389f) |
+| Fri, 10 Oct 2025 21:37:41 GMT | How One Stolen Token Can Bypass MFA and Breach Your Entire Cloud | Cyber-AppSec | [Read More](https://medium.com/p/46e6fa4b7f65) |
 | Fri, 10 Oct 2025 21:32:46 GMT | Microsoft confirms Windows 11’s simple text editor “Edit” is now pre-installed | Gideonessandoh | [Read More](https://medium.com/p/0c3fc2df1d8f) |
 | Fri, 10 Oct 2025 21:26:34 GMT | Game Zone - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/92b797af3053) |
 | Fri, 10 Oct 2025 21:14:24 GMT | Ancient Wisdom and Modern Cybersecurity: The Mahabharata’s Metaphors in VPN Detection | Ashok Yadav | [Read More](https://medium.com/p/5f880f82d3d8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:52:22 GMT | Understanding HTTPS, HSTS, and Full Security Coverage in ASP.NET Core | Sauradipta | [Read More](https://medium.com/p/e994db3b36b8) |
 | Fri, 10 Oct 2025 14:49:48 GMT | Mastering Security Hardening in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/9955f616e07e) |
 | Fri, 10 Oct 2025 14:48:40 GMT | Tusk Infostealer Lab Writeup | Jaws | [Read More](https://medium.com/p/158f48b1b26f) |
-| Fri, 10 Oct 2025 14:47:08 GMT | Gateways in Web Apps: The Secret to Secure and Smooth Online Experiences | Natarajan C K | [Read More](https://medium.com/p/854060af6b0b) |
-| Fri, 10 Oct 2025 14:43:29 GMT | How Kubernetes Uses PKI for Authentication: From Certificates to RBAC | @Harsh | [Read More](https://medium.com/p/496fc47d40a6) |
-| Fri, 10 Oct 2025 14:43:27 GMT | Man-in-the-Middle by TryHackMe | Tanwietayim A | [Read More](https://medium.com/p/3e383201f634) |
-| Fri, 10 Oct 2025 14:42:29 GMT | How I Made $10,000 in 30 Days with an AI Trading Bot — The Exact Strategy Revealed | sana irshad | [Read More](https://medium.com/p/a79aaa16358a) |
-| Fri, 10 Oct 2025 14:42:26 GMT | AppArmor Profiles Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/5fdef44aa51c) |
