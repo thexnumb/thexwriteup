@@ -12,10 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 15:11:09 GMT | Research Report: The State of Technology (2025 Edition) | The Deep Frame | [Read More](https://medium.com/p/0aadc2abb23a) |
+| Fri, 10 Oct 2025 15:08:15 GMT | Linux file permissions | Linux Guide | [Read More](https://medium.com/p/6bf829b49d98) |
+| Fri, 10 Oct 2025 15:05:09 GMT | Hacker’s Digital Toolkit v1.0 — Ship Faster. Investigate Smarter. | Micah Thornton | [Read More](https://medium.com/p/8ec2655c8395) |
+| Fri, 10 Oct 2025 14:59:39 GMT | ️ Understanding Darkweb Exit Scams: What You Should Know | Tor BBB | [Read More](https://medium.com/p/cd93f178cb69) |
+| Fri, 10 Oct 2025 14:57:28 GMT | Hackers | Adebayo Muhammad | [Read More](https://medium.com/p/479896849bdf) |
+| Fri, 10 Oct 2025 14:55:25 GMT | “The Overlooked P4 Goldmine: Turning Simple Flaws into Consistent Bounties" | Aman Sharma | [Read More](https://medium.com/p/c4c4e4de3c47) |
+| Fri, 10 Oct 2025 14:52:22 GMT | Understanding HTTPS, HSTS, and Full Security Coverage in ASP.NET Core | Sauradipta | [Read More](https://medium.com/p/e994db3b36b8) |
+| Fri, 10 Oct 2025 14:49:48 GMT | Mastering Security Hardening in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/9955f616e07e) |
+| Fri, 10 Oct 2025 14:48:40 GMT | Tusk Infostealer Lab Writeup | Jaws | [Read More](https://medium.com/p/158f48b1b26f) |
+| Fri, 10 Oct 2025 14:47:08 GMT | Gateways in Web Apps: The Secret to Secure and Smooth Online Experiences | Natarajan C K | [Read More](https://medium.com/p/854060af6b0b) |
+| Fri, 10 Oct 2025 14:43:29 GMT | How Kubernetes Uses PKI for Authentication: From Certificates to RBAC | @Harsh | [Read More](https://medium.com/p/496fc47d40a6) |
+| Fri, 10 Oct 2025 14:43:27 GMT | Man-in-the-Middle by TryHackMe | Tanwietayim A | [Read More](https://medium.com/p/3e383201f634) |
+| Fri, 10 Oct 2025 14:42:29 GMT | How I Made $10,000 in 30 Days with an AI Trading Bot — The Exact Strategy Revealed | sana irshad | [Read More](https://medium.com/p/a79aaa16358a) |
+| Fri, 10 Oct 2025 14:42:26 GMT | AppArmor Profiles Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/5fdef44aa51c) |
+| Fri, 10 Oct 2025 14:42:02 GMT | Cybersecurity in 2025: Moving Beyond Defense | Co-Ventech | [Read More](https://medium.com/p/0efb4a61a487) |
 | Fri, 10 Oct 2025 14:41:27 GMT | I Built a Free Enterprise-Grade Security Toolkit That Replaced $100K in Commercial Tools — Here’s… | Okan Yıldız | [Read More](https://medium.com/p/e0c9c6cf4400) |
 | Fri, 10 Oct 2025 14:41:05 GMT | Understanding Vulnerabilities and Vulnerability Management | Adetutu Deborah | [Read More](https://medium.com/p/2016e1a624b8) |
+| Fri, 10 Oct 2025 14:35:07 GMT | Expert Guide to SELinux Policies in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/dc96b248fc3a) |
 | Fri, 10 Oct 2025 14:34:41 GMT | TryHackMe: Snapped Phish-ing Line | Davenyamongo | [Read More](https://medium.com/p/7b8f1f7bb389) |
 | Fri, 10 Oct 2025 14:33:40 GMT | Your AI therapist isn’t your friend | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/3230e39a9745) |
+| Fri, 10 Oct 2025 14:32:39 GMT | AWS IAM in Plain English | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/780ad3b0564e) |
+| Fri, 10 Oct 2025 14:32:05 GMT | Introducing RESTHeart’s Permission System | Maurizio Turatti | [Read More](https://medium.com/p/cc7016ace9ec) |
 | Fri, 10 Oct 2025 14:30:43 GMT | How to Learn Network Security: Step-by-Step Guide for Beginners 2025 | Hachtechnology | [Read More](https://medium.com/p/19a8d75cf8da) |
 | Fri, 10 Oct 2025 14:29:42 GMT | 5 Cybersecurity Trends Every MSP Needs to Know in 2025 | Donald Betancourt | [Read More](https://medium.com/p/9e2295980833) |
 | Fri, 10 Oct 2025 14:24:03 GMT | CVE Deep Dive : CVE-2025–26465 | Optimus_Brime | [Read More](https://medium.com/p/4b7aee2dc82e) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 11:22:15 GMT | How IT Outsourcing Services in Irvine Transform Business Technology | KaufmanIT Inc. | [Read More](https://medium.com/p/51dbbefe9472) |
 | Fri, 10 Oct 2025 11:20:21 GMT | Reimagining IT Operations: A Strategic Blueprint for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/02b9f66c1bf6) |
 | Fri, 10 Oct 2025 11:12:17 GMT | Thought Bubbles | Jenni | [Read More](https://medium.com/p/76311eb1bf02) |
-| Fri, 10 Oct 2025 11:12:07 GMT | One thing I’ve learned in cybersecurity is that not everyone should have access to everything, and… | Adeleke Theophilus O | [Read More](https://medium.com/p/e848b50c37ae) |
-| Fri, 10 Oct 2025 11:08:45 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/9a75d5098621) |
-| Fri, 10 Oct 2025 11:05:40 GMT | Your Technical Skills Won’t Promote You-Your Influence Will | Tim Murkomen | [Read More](https://medium.com/p/f99d60421260) |
-| Fri, 10 Oct 2025 11:02:46 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/ef73f08d1b1c) |
-| Fri, 10 Oct 2025 11:01:09 GMT | Unbelievable Security Hole: JWT Secret in a Series-B Funded Company | Erkan Kavas | [Read More](https://medium.com/p/540434b54e59) |
-| Fri, 10 Oct 2025 11:00:59 GMT | How to Monitor Cloud Security Threats Effectively | Nagaraj | [Read More](https://medium.com/p/504c0224d580) |
-| Fri, 10 Oct 2025 11:00:32 GMT | The $500 Stored XSS Bug in SideFX’s Messaging System | Monika sharma | [Read More](https://medium.com/p/e55e1121d391) |
-| Fri, 10 Oct 2025 11:00:07 GMT | A Beginner’s Guide to Finding Hidden API Endpoints in JavaScript Files | Ibtissam hammadi | [Read More](https://medium.com/p/925853b61bd1) |
-| Fri, 10 Oct 2025 10:58:15 GMT | The Million-Dollar Illusion: How One Message Stole a Fortune from a Gambling Mogul | Ericabrookssf | [Read More](https://medium.com/p/2536b3a4752e) |
-| Fri, 10 Oct 2025 10:57:11 GMT | The AI Deployment Checkpoint: More Than Just Code | Bahram Maravandi | [Read More](https://medium.com/p/fee92fa6aad8) |
-| Fri, 10 Oct 2025 10:55:06 GMT | From Abstraction to Tangible Reality | Mixology Group | [Read More](https://medium.com/p/3f985a42a8ba) |
-| Fri, 10 Oct 2025 10:53:24 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/9e9704aaddb3) |
-| Fri, 10 Oct 2025 10:52:51 GMT | life seems so much good to be with loved ones❤❤ | Silva Driley Charlotte | [Read More](https://medium.com/p/dc60721e892d) |
-| Fri, 10 Oct 2025 10:49:16 GMT | Getting Started with SambaNova and SambaCloud | Mohamad Mahmood | [Read More](https://medium.com/p/97f0d7e1123a) |
-| Fri, 10 Oct 2025 10:49:10 GMT | Advanced AppArmor Profiles Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d818bcd6de91) |
-| Fri, 10 Oct 2025 10:48:55 GMT | Bypassing Rate Limits: How I Registered 100+ Users in Seconds | Erkan Kavas | [Read More](https://medium.com/p/9141bd71ad85) |
-| Fri, 10 Oct 2025 10:44:19 GMT | High-Concurrency QPS/RPS Testing and Optimization with SafeLine WAF | Maverick Steel | [Read More](https://medium.com/p/4a06e11260b8) |
-| Fri, 10 Oct 2025 10:42:14 GMT | Expert Guide to Seccomp Filters in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/cdf1c1b83364) |
