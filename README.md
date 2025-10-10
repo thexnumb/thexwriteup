@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 19:02:03 GMT | Using Contacts in Snowflake: A Strategic Guide to Schema-Level Communication | Rajiv Gupta | [Read More](https://medium.com/p/0b20b5407344) |
+| Fri, 10 Oct 2025 18:57:57 GMT | Strengthening Hybrid Cloud Security: Protecting Data Across Environments | SafeAeon Inc. | [Read More](https://medium.com/p/223bb7a78943) |
+| Fri, 10 Oct 2025 18:57:12 GMT | “Breaking the headache Jail: My Journey Through JailCTF 2025” | Pallavi Naga | [Read More](https://medium.com/p/f761a06c2f9e) |
+| Fri, 10 Oct 2025 18:54:24 GMT | Vigilance: Our Shared Responsibility | Mariyam Fatima | [Read More](https://medium.com/p/bca4b8f34cd2) |
+| Fri, 10 Oct 2025 18:52:26 GMT | JaWT Scratchpad — picoCTF 2025 | abdelruhmanaskar | [Read More](https://medium.com/p/481e7b8144ea) |
+| Fri, 10 Oct 2025 18:50:18 GMT | Beyond the Firewall: How Math and AI Are Fighting Social Engineering Attacks | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/671185f8e9e7) |
+| Fri, 10 Oct 2025 18:50:02 GMT | Stopping Bad Actors: Inside 1Password’s Security Model | Ely | [Read More](https://medium.com/p/8c65c6acb9ff) |
+| Fri, 10 Oct 2025 18:48:36 GMT | Hidden in Plain Sight: Chaining CSS Override to XSS & Email Bombing | Dipesh Paul | [Read More](https://medium.com/p/9e43be1826a7) |
 | Fri, 10 Oct 2025 18:45:49 GMT | Understanding Polymorphic Viruses: The Shape-Shifting Cyber Threat | SafeAeon Inc. | [Read More](https://medium.com/p/14cfabb9f02e) |
 | Fri, 10 Oct 2025 18:34:04 GMT | Remote Execution and Kansa — Still One of the Most Underrated IR Tools | Dean | [Read More](https://medium.com/p/19e1d4aa1804) |
 | Fri, 10 Oct 2025 18:31:01 GMT | We Are Driving Away Our Future | Sarah Connahan | [Read More](https://medium.com/p/8ae565f984fb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:01:59 GMT | Cyber Briefing: 2025.10.10 | CyberMaterial | [Read More](https://medium.com/p/6051495ca25f) |
 | Fri, 10 Oct 2025 14:01:53 GMT | Sea-Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/de3be3e06ffa) |
 | Fri, 10 Oct 2025 14:01:41 GMT | HA Joker CTF: TryHackMe WriteUp WalkThrough Answers | Umer | [Read More](https://medium.com/p/75895f34e567) |
-| Fri, 10 Oct 2025 13:58:06 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/10912daad773) |
-| Fri, 10 Oct 2025 13:55:47 GMT | 1-Click Account Takeover via Host Header Injection | Abdulrhman | [Read More](https://medium.com/p/a5774993f24a) |
-| Fri, 10 Oct 2025 13:54:30 GMT | Basic Pentesting — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/9b806ad6f940) |
-| Fri, 10 Oct 2025 13:51:02 GMT | the Vulnerability Allows Forced Removal of Page Owner Without Consent — on Facebook.(part 3) | Hisham | [Read More](https://medium.com/p/612662f3b715) |
-| Fri, 10 Oct 2025 13:50:39 GMT | My Body Has Grown on Me | Lonely solacee | [Read More](https://medium.com/p/537cd93a92d0) |
-| Fri, 10 Oct 2025 13:50:03 GMT | the Vulnerability Allows Forced Removal of Page Owner Without Consent — on Facebook.(part 2) | Hisham | [Read More](https://medium.com/p/59081543cab2) |
-| Fri, 10 Oct 2025 13:46:47 GMT | The Sound of Silence: What Happens When a Child Stops Seeking Help and Starts Reading | Pragya Singh | [Read More](https://medium.com/p/977df5ed16b8) |
-| Fri, 10 Oct 2025 13:44:44 GMT | How to Prevent Cross-Site Scripting (XSS) on Payment Pages | Feroot Security | [Read More](https://medium.com/p/61dc1c9da293) |
