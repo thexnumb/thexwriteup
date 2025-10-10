@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 19:29:41 GMT | Day 4:Windows Fundamentals 2 | Ogundipe Priscilla | [Read More](https://medium.com/p/e30635b112c1) |
+| Fri, 10 Oct 2025 19:23:23 GMT | Empowering women makes nation empower | souvik Das | [Read More](https://medium.com/p/eed9640470e5) |
+| Fri, 10 Oct 2025 19:21:38 GMT | Vulnerability — how we are truly communicate | Duhaa Ahmed | [Read More](https://medium.com/p/7234af16482f) |
+| Fri, 10 Oct 2025 19:18:53 GMT | Backend-for-Frontend (BFF): A Smarter Architecture for Modern Applications | Ajay Reddy Chinthala | [Read More](https://medium.com/p/4bf08dac59df) |
+| Fri, 10 Oct 2025 19:07:51 GMT | Build a Reusable Image Upload & Delete Helper in Laravel for Any Project | Lalon Hossain | [Read More](https://medium.com/p/727d029a8a9a) |
+| Fri, 10 Oct 2025 19:03:24 GMT | Role of Threat Detection and Response (TDR) in Cybersecurity | NetWitness | [Read More](https://medium.com/p/4fbe70ef8e33) |
 | Fri, 10 Oct 2025 19:02:03 GMT | Using Contacts in Snowflake: A Strategic Guide to Schema-Level Communication | Rajiv Gupta | [Read More](https://medium.com/p/0b20b5407344) |
 | Fri, 10 Oct 2025 18:57:57 GMT | Strengthening Hybrid Cloud Security: Protecting Data Across Environments | SafeAeon Inc. | [Read More](https://medium.com/p/223bb7a78943) |
 | Fri, 10 Oct 2025 18:57:12 GMT | “Breaking the headache Jail: My Journey Through JailCTF 2025” | Pallavi Naga | [Read More](https://medium.com/p/f761a06c2f9e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:12:25 GMT | From Gatekeeper to Game Changer: Redefining Security for Today’s Digital Products | Kevin Bigler | [Read More](https://medium.com/p/43db023bbc4e) |
 | Fri, 10 Oct 2025 14:10:42 GMT | The Capability-Based Security Model That Makes Privilege Escalation Impossible | Sohail x Codes | [Read More](https://medium.com/p/8231d679b972) |
 | Fri, 10 Oct 2025 14:06:30 GMT | Building Secure Authentication Systems with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/68a1d1d1dddc) |
-| Fri, 10 Oct 2025 14:04:57 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6ae8e611024e) |
-| Fri, 10 Oct 2025 14:02:14 GMT | Offline and Air-Gapped Protection — Why Abatis Works Without the Cloud | Abatis ABTU | [Read More](https://medium.com/p/2e468673000c) |
-| Fri, 10 Oct 2025 14:02:04 GMT | Part 11: (a)VAPT & OWASP: A Deep Dive into Vulnerability Management | Intelithics | [Read More](https://medium.com/p/769aacdf2631) |
-| Fri, 10 Oct 2025 14:01:59 GMT | Cyber Briefing: 2025.10.10 | CyberMaterial | [Read More](https://medium.com/p/6051495ca25f) |
-| Fri, 10 Oct 2025 14:01:53 GMT | Sea-Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/de3be3e06ffa) |
-| Fri, 10 Oct 2025 14:01:41 GMT | HA Joker CTF: TryHackMe WriteUp WalkThrough Answers | Umer | [Read More](https://medium.com/p/75895f34e567) |
