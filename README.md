@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 03:37:16 GMT | 3rd party PII Leak OSINT | Abhirup Konwar | [Read More](https://medium.com/p/75b5f236e3e5) |
+| Fri, 10 Oct 2025 03:31:53 GMT | SHAMOS Malware: How a Single Terminal Command Can Steal Your Mac’s Secrets | Deven Chhajed | [Read More](https://medium.com/p/5d2755cd4bd0) |
+| Fri, 10 Oct 2025 03:18:27 GMT | Scale Your Security, Not Your Headaches: Why Augmenting Your IdP Beats Migration | Sunil Gentyala | [Read More](https://medium.com/p/a3f23f94b59c) |
+| Fri, 10 Oct 2025 03:18:04 GMT | OSINT Isn’t Just Skill — It’s Timing | Sam Galope | [Read More](https://medium.com/p/8232f8f46e75) |
+| Fri, 10 Oct 2025 03:15:07 GMT | The Cyber Arms Race: From defensive postures to preemptive digital warfare | Neil Singh | [Read More](https://medium.com/p/9c1d6258c193) |
+| Fri, 10 Oct 2025 03:13:21 GMT | Linux for Hackers | LinuxDev | [Read More](https://medium.com/p/969620993703) |
 | Fri, 10 Oct 2025 02:52:14 GMT | How I Automated My Office Work with Python and Bought Back My Time | Kainat Nafees | [Read More](https://medium.com/p/9f3d74b1a682) |
 | Fri, 10 Oct 2025 02:38:20 GMT | What You Need to Know About Tycoon 2FA | Bloopworm | [Read More](https://medium.com/p/fe2db261f282) |
 | Fri, 10 Oct 2025 02:21:19 GMT | Security Headers Made Simple: A Practical Guide | Aanchalgoel | [Read More](https://medium.com/p/3c58c00e0f8d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 18:43:51 GMT | PortSwigger mystery lab write-up. | Hubert | [Read More](https://medium.com/p/1cecfe9e9c04) |
 | Thu, 09 Oct 2025 18:34:31 GMT | Issue #2 — Secure MCP and Shadow AI | Dan Mahoney | [Read More](https://medium.com/p/7bd9713da207) |
 | Thu, 09 Oct 2025 18:17:32 GMT | Security Awareness Training | simuphish | [Read More](https://medium.com/p/dd54f1b06cda) |
-| Thu, 09 Oct 2025 18:10:50 GMT | Business Logic Error - Bypassing Payment with Test Cards | Umanhonlen Gabriel | [Read More](https://medium.com/p/77c6e3c36f16) |
-| Thu, 09 Oct 2025 18:08:03 GMT | Sleep Mode Isn’t Safe: How Attackers Exploit System Hibernation | Aastha Thakker | [Read More](https://medium.com/p/5794bae35cd9) |
-| Thu, 09 Oct 2025 18:03:50 GMT | Building a Hack-Proof Network: 7 Best Practices from Ethical Hackers | Smith Adams | [Read More](https://medium.com/p/7f9fa072a569) |
-| Thu, 09 Oct 2025 18:03:37 GMT | Unlimited File Upload Vulnerability: From Images to Web Threats | Muhammad Adnan Apriliyansyah | [Read More](https://medium.com/p/fd621156a1db) |
-| Thu, 09 Oct 2025 18:01:31 GMT | CyberSecurity In 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/b5dec90641fa) |
-| Thu, 09 Oct 2025 17:49:20 GMT | The Digital Heist We Never Saw Coming: How AI Is Rewriting the Future of Cybersecurity | Hritam Dutta | [Read More](https://medium.com/p/27a005b96f68) |
