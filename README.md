@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 17:12:57 GMT | Dark Web Threat Hunting 101: Manually Identifying Data Exposures | Onurcan Genç | [Read More](https://medium.com/p/61b2808a2884) |
+| Fri, 10 Oct 2025 17:10:17 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/da8874944345) |
+| Fri, 10 Oct 2025 17:05:27 GMT | Smart Habits for a Safer Digital Life | Saad's insight | [Read More](https://medium.com/p/2987058c6f54) |
+| Fri, 10 Oct 2025 16:57:37 GMT | How to Sanitize Files with CDR Technology in Python | Cloudmersive | [Read More](https://medium.com/p/61b28d0a9624) |
+| Fri, 10 Oct 2025 16:53:54 GMT | HawkEye Lab Cyberdefenders WriteUp | Golsaf Bensekhar | [Read More](https://medium.com/p/8e75fe5329a0) |
+| Fri, 10 Oct 2025 16:52:39 GMT | DevSecOps in Small .NET Teams: From ‘Just Ship It’ to Ship It Securely (2025 Study Insights) | Brian Mora | [Read More](https://medium.com/p/b4a06d8b8711) |
+| Fri, 10 Oct 2025 16:52:02 GMT | The Danger of Using Old Code: Vulnerable and Outdated Components in the OWASP Top 10 | CyberSenpai | [Read More](https://medium.com/p/5d08d9eaf253) |
+| Fri, 10 Oct 2025 16:47:40 GMT | Windows Forensics: Investigating the System | Windows Guide | [Read More](https://medium.com/p/0a2342385f85) |
 | Fri, 10 Oct 2025 16:41:19 GMT | How to Generate and Install an SSL Certificate in cPanel | Praveen Xavier | [Read More](https://medium.com/p/062e31e297fc) |
 | Fri, 10 Oct 2025 16:34:09 GMT | কিশোর বয়সের শিক্ষা: জীবন, সম্পর্ক ও আত্মবিশ্বাস | Mr. Safin | [Read More](https://medium.com/p/37ed7f65dc67) |
 | Fri, 10 Oct 2025 16:29:57 GMT | Episode 4: Fundamentals Of Cybersecurity — Security Model | Yash Kitey | [Read More](https://medium.com/p/a9ceb5f73bac) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 13:13:09 GMT | From Tactical Trade-offs to Strategic Fidelity: Framing AI Communication in Pursuit-Evasion… | Berend Watchus | [Read More](https://medium.com/p/c66432098625) |
 | Fri, 10 Oct 2025 13:11:49 GMT | IT Horizons Partners with Sophos to Champion Cyber Resilience in Africa | IT Horizons | [Read More](https://medium.com/p/3f3aa07c924f) |
 | Fri, 10 Oct 2025 13:11:23 GMT | Cybersecurity Awareness Training | Cyber Security Research | [Read More](https://medium.com/p/627d65b856b8) |
-| Fri, 10 Oct 2025 13:07:01 GMT | ️‍♂️ Advanced Man-in-the-Middle (MITM) Frameworks | Esra Kayhan | [Read More](https://medium.com/p/46007d8651cc) |
-| Fri, 10 Oct 2025 13:02:26 GMT | Wi-Fi Cryptography Attacks: WPA3 Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/751b786080d8) |
-| Fri, 10 Oct 2025 13:02:22 GMT | AI Governance in Law Firms: Proactive Compliance Strategies to Stay Ahead of Regulatory… | Josh Lee | [Read More](https://medium.com/p/cb309ef052dd) |
-| Fri, 10 Oct 2025 13:02:02 GMT | Cloud Security Essentials | Cyber Security Research | [Read More](https://medium.com/p/06b7e2b7e3c3) |
-| Fri, 10 Oct 2025 13:01:17 GMT | Starting with the Roots | Shivinaa | [Read More](https://medium.com/p/9db1c50662d0) |
-| Fri, 10 Oct 2025 12:57:20 GMT | Enhancing RBI Cybersecurity Framework’s Integrity through Penetration Testing | Qualysec | [Read More](https://medium.com/p/3a6e4a0718dc) |
-| Fri, 10 Oct 2025 12:57:12 GMT | Ensuring Reliability of Information Systems: From Theory to Practice | Oleh Dubetcky | [Read More](https://medium.com/p/b9bc15c4a64f) |
-| Fri, 10 Oct 2025 12:53:43 GMT | Enhance Security with Top Assessment Services in the USA | Vishwajeettechtech | [Read More](https://medium.com/p/500d4cf194c4) |
