@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 04:15:29 GMT | Outbound - HTB | Skywalkerluc | [Read More](https://medium.com/p/bd90d1941248) |
+| Fri, 10 Oct 2025 04:13:19 GMT | The Enterprise Metamodel: Structuring Architecture for Strategic Clarity | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/65d683e5ea63) |
 | Fri, 10 Oct 2025 03:37:16 GMT | 3rd party PII Leak OSINT | Abhirup Konwar | [Read More](https://medium.com/p/75b5f236e3e5) |
+| Fri, 10 Oct 2025 03:35:45 GMT | TryHackMe Vulnerability Capstone Write‑up | xoxoh | [Read More](https://medium.com/p/233f0b65e6ce) |
 | Fri, 10 Oct 2025 03:31:53 GMT | SHAMOS Malware: How a Single Terminal Command Can Steal Your Mac’s Secrets | Deven Chhajed | [Read More](https://medium.com/p/5d2755cd4bd0) |
 | Fri, 10 Oct 2025 03:18:27 GMT | Scale Your Security, Not Your Headaches: Why Augmenting Your IdP Beats Migration | Sunil Gentyala | [Read More](https://medium.com/p/a3f23f94b59c) |
 | Fri, 10 Oct 2025 03:18:04 GMT | OSINT Isn’t Just Skill — It’s Timing | Sam Galope | [Read More](https://medium.com/p/8232f8f46e75) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 18:48:00 GMT | Introduction to BYOC(Bring Your Own Container) | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/a50800a174d9) |
 | Thu, 09 Oct 2025 18:47:26 GMT | TryHackMe Writeup: LazyAdmin | Berkay AĞGÜL | [Read More](https://medium.com/p/69afad775c25) |
 | Thu, 09 Oct 2025 18:47:03 GMT | Production-Ready AI Agents: Cloudflare’s Code Mode Solution | Valdez Ladd | [Read More](https://medium.com/p/3f81f666421f) |
-| Thu, 09 Oct 2025 18:43:51 GMT | PortSwigger mystery lab write-up. | Hubert | [Read More](https://medium.com/p/1cecfe9e9c04) |
-| Thu, 09 Oct 2025 18:34:31 GMT | Issue #2 — Secure MCP and Shadow AI | Dan Mahoney | [Read More](https://medium.com/p/7bd9713da207) |
-| Thu, 09 Oct 2025 18:17:32 GMT | Security Awareness Training | simuphish | [Read More](https://medium.com/p/dd54f1b06cda) |
