@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 15:26:46 GMT | SQL Injection: Database Enumeration on Non-Oracle Databases | Cipher0x00 | [Read More](https://medium.com/p/414b6e221cc3) |
+| Fri, 10 Oct 2025 15:26:45 GMT | SQL Injection UNION Attack — MySQL/Microsoft Version | Cipher0x00 | [Read More](https://medium.com/p/b725dd640d18) |
+| Fri, 10 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c0f3ba874406) |
+| Fri, 10 Oct 2025 15:13:36 GMT | Demystifying Diffie-Hellman: The Mathematical Foundations of Secure Key Exchange | Sumit Sah | [Read More](https://medium.com/p/29b531c9b805) |
 | Fri, 10 Oct 2025 15:11:09 GMT | Research Report: The State of Technology (2025 Edition) | The Deep Frame | [Read More](https://medium.com/p/0aadc2abb23a) |
 | Fri, 10 Oct 2025 15:08:15 GMT | Linux file permissions | Linux Guide | [Read More](https://medium.com/p/6bf829b49d98) |
 | Fri, 10 Oct 2025 15:05:09 GMT | Hacker’s Digital Toolkit v1.0 — Ship Faster. Investigate Smarter. | Micah Thornton | [Read More](https://medium.com/p/8ec2655c8395) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 12:02:12 GMT | Common Online Safety Mistakes: A No-Nonsense Guide for the Everyday User | Favour  Elijah | [Read More](https://medium.com/p/4d5d385cd8cd) |
 | Fri, 10 Oct 2025 12:01:25 GMT | AI’s Digital Siege: Starving the Web or Sparking a Revolution? | Jurgen Proschinger | [Read More](https://medium.com/p/e37fb22e0935) |
 | Fri, 10 Oct 2025 11:58:26 GMT | ADCS Attack Series: Abusing ESC10 for Privilege Escalation via Misconfigured Registries | Nairuz Abulhul | [Read More](https://medium.com/p/a8c6edf07d9e) |
-| Fri, 10 Oct 2025 11:39:45 GMT | Stopping Shadow AI: How to Block Risky AI Apps with Microsoft Defender for Cloud Apps | Defend Microsoft365 now! | [Read More](https://medium.com/p/61d7fefebb0f) |
-| Fri, 10 Oct 2025 11:22:15 GMT | How IT Outsourcing Services in Irvine Transform Business Technology | KaufmanIT Inc. | [Read More](https://medium.com/p/51dbbefe9472) |
-| Fri, 10 Oct 2025 11:20:21 GMT | Reimagining IT Operations: A Strategic Blueprint for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/02b9f66c1bf6) |
-| Fri, 10 Oct 2025 11:12:17 GMT | Thought Bubbles | Jenni | [Read More](https://medium.com/p/76311eb1bf02) |
