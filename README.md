@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 22:19:23 GMT | You can Poison an LLM with a Lot less Effort than you’d think : New Paper OCT 2025 | Paul E. (TheAIOracle) | [Read More](https://medium.com/p/6dfe3930623a) |
 | Fri, 10 Oct 2025 22:00:20 GMT | EnigmaXplore 3.0 — Never Gonna Solve You | 0xDolphin | [Read More](https://medium.com/p/1cc01dbe6c77) |
 | Fri, 10 Oct 2025 21:48:20 GMT | CAN I RECOVER BITCOIN LOST IN INVESTMENT SCAM/HIRE A HACKER CALL MALICE CYBER RECOVERY | Tomas Dvorak | [Read More](https://medium.com/p/4d142d408850) |
 | Fri, 10 Oct 2025 21:47:55 GMT | Memories | David Rudder | [Read More](https://medium.com/p/bb184e68cf2c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 14:55:25 GMT | “The Overlooked P4 Goldmine: Turning Simple Flaws into Consistent Bounties" | Aman Sharma | [Read More](https://medium.com/p/c4c4e4de3c47) |
 | Fri, 10 Oct 2025 14:52:22 GMT | Understanding HTTPS, HSTS, and Full Security Coverage in ASP.NET Core | Sauradipta | [Read More](https://medium.com/p/e994db3b36b8) |
 | Fri, 10 Oct 2025 14:49:48 GMT | Mastering Security Hardening in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/9955f616e07e) |
-| Fri, 10 Oct 2025 14:48:40 GMT | Tusk Infostealer Lab Writeup | Jaws | [Read More](https://medium.com/p/158f48b1b26f) |
