@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 11:22:15 GMT | How IT Outsourcing Services in Irvine Transform Business Technology | KaufmanIT Inc. | [Read More](https://medium.com/p/51dbbefe9472) |
+| Fri, 10 Oct 2025 11:20:21 GMT | Reimagining IT Operations: A Strategic Blueprint for Infrastructure Teams | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/02b9f66c1bf6) |
+| Fri, 10 Oct 2025 11:12:07 GMT | One thing I’ve learned in cybersecurity is that not everyone should have access to everything, and… | Adeleke Theophilus O | [Read More](https://medium.com/p/e848b50c37ae) |
 | Fri, 10 Oct 2025 11:08:45 GMT | Linux vulnerability management | Linux Guide | [Read More](https://medium.com/p/9a75d5098621) |
 | Fri, 10 Oct 2025 11:05:40 GMT | Your Technical Skills Won’t Promote You-Your Influence Will | Tim Murkomen | [Read More](https://medium.com/p/f99d60421260) |
 | Fri, 10 Oct 2025 11:02:46 GMT | Linux security scanning | Linux Guide | [Read More](https://medium.com/p/ef73f08d1b1c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 06:36:30 GMT | Best Practices for Network Vulnerability Assessment in 2025 - NMT Security | NMT Security | [Read More](https://medium.com/p/0754c40ab7d2) |
 | Fri, 10 Oct 2025 06:35:42 GMT | Vanna.AI: Integrated Prompt Injection RCE | Rana Fahad Aman | [Read More](https://medium.com/p/e15982423139) |
 | Fri, 10 Oct 2025 06:34:28 GMT | ClayRat Spyware: The New Android Threat You Must Know About | Germano Costi | [Read More](https://medium.com/p/467e0bd751c4) |
-| Fri, 10 Oct 2025 06:27:05 GMT | CVE-2017–5638 — “Jakarta Multipart Parser” RCE (S2–045/046) | Shadman Hossain | [Read More](https://medium.com/p/f7d6597f626c) |
-| Fri, 10 Oct 2025 06:25:36 GMT | Tải Jenny Mod Minecraft (Chơi cùng Với Jenny) v1.21 | BANDISHARE | [Read More](https://medium.com/p/c4f2423d4702) |
-| Fri, 10 Oct 2025 06:21:14 GMT | Your Free Ticket into the World of SIEM: Getting Started with Wazuh | Athishsagarkishan | [Read More](https://medium.com/p/37b3e8da70b6) |
