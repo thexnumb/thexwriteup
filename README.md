@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 02:52:14 GMT | How I Automated My Office Work with Python and Bought Back My Time | Kainat Nafees | [Read More](https://medium.com/p/9f3d74b1a682) |
+| Fri, 10 Oct 2025 02:38:20 GMT | What You Need to Know About Tycoon 2FA | Bloopworm | [Read More](https://medium.com/p/fe2db261f282) |
+| Fri, 10 Oct 2025 02:21:19 GMT | Security Headers Made Simple: A Practical Guide | Aanchalgoel | [Read More](https://medium.com/p/3c58c00e0f8d) |
+| Fri, 10 Oct 2025 02:20:40 GMT | Security and Performance Aspects of Process Scheduling Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/171d9dc9bdee) |
+| Fri, 10 Oct 2025 02:19:12 GMT | How Social Media Is Quietly Changing Our Brains (And What We Can Do About It) | Minakshi Jha | [Read More](https://medium.com/p/bfa1864e0976) |
+| Fri, 10 Oct 2025 02:13:33 GMT | The Evolution of Intimacy: Why Sex Dolls Are Becoming Mainstream Companions | realdollbuy | [Read More](https://medium.com/p/512a38672d83) |
+| Fri, 10 Oct 2025 02:07:55 GMT | I think I finally met me | Billie Moon | [Read More](https://medium.com/p/cb775ac8857a) |
+| Fri, 10 Oct 2025 02:07:07 GMT | Building Magic AD | Alan francis | [Read More](https://medium.com/p/f2ea07d7a029) |
+| Fri, 10 Oct 2025 02:02:54 GMT | How Digital Forensics Powers SFC Enforcement: Insights from Award-Winning Investigator Henry Liu | KH Liu | [Read More](https://medium.com/p/448a7837a57c) |
+| Fri, 10 Oct 2025 01:59:49 GMT | The Invisible Infrastructure Advantage: Why the Best Security is the Security You Never See | Jamal Jones | [Read More](https://medium.com/p/56c290f11b19) |
+| Fri, 10 Oct 2025 01:58:27 GMT | Security and Performance Aspects of ZFS on Linux Advanced | Eren Cankut Uysal | [Read More](https://medium.com/p/1c41a1fab244) |
+| Fri, 10 Oct 2025 01:53:36 GMT | Inside the Dark Web: Myth vs. Reality | The Bot Group | [Read More](https://medium.com/p/5a8afa43e3b4) |
+| Fri, 10 Oct 2025 01:52:47 GMT | Starting in Cybersecurity: Avoid These Mistakes | 5p1d4r | [Read More](https://medium.com/p/2d6f198fe30c) |
+| Fri, 10 Oct 2025 01:43:03 GMT | The Architecture Repository: Turning Enterprise Architecture into a Strategic Asset | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/f918b9fbe335) |
+| Fri, 10 Oct 2025 01:42:45 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/167c7d0b3af4) |
+| Fri, 10 Oct 2025 01:35:08 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/16c553e24900) |
 | Fri, 10 Oct 2025 01:34:00 GMT | Building an AI-Powered Security Lab on a Raspberry Pi: Why Open Hardware Matters | FINSTER AMBER RENE | [Read More](https://medium.com/p/b5bafdd4133f) |
 | Fri, 10 Oct 2025 01:30:30 GMT | GZR Observer — India Geo Perspective — Week of Oct 9, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5ceb0d956e98) |
 | Fri, 10 Oct 2025 01:21:23 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/52dd3cd3c53c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Oct 2025 18:03:37 GMT | Unlimited File Upload Vulnerability: From Images to Web Threats | Muhammad Adnan Apriliyansyah | [Read More](https://medium.com/p/fd621156a1db) |
 | Thu, 09 Oct 2025 18:01:31 GMT | CyberSecurity In 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/b5dec90641fa) |
 | Thu, 09 Oct 2025 17:49:20 GMT | The Digital Heist We Never Saw Coming: How AI Is Rewriting the Future of Cybersecurity | Hritam Dutta | [Read More](https://medium.com/p/27a005b96f68) |
-| Thu, 09 Oct 2025 17:46:39 GMT | 7 Realistic Mobile Security Interview Questions with Answers (Part 2) | CyberSenpai | [Read More](https://medium.com/p/caf1643387de) |
-| Thu, 09 Oct 2025 17:46:34 GMT | Understanding SIEM: The Brain of Modern Cybersecurity | Asif.k | [Read More](https://medium.com/p/7051a3460e2b) |
-| Thu, 09 Oct 2025 17:42:04 GMT | Ehxb - Path Traversal Vulnerabilities: From Discovery to Automation | Ehxb | [Read More](https://medium.com/p/569b64ce46ac) |
-| Thu, 09 Oct 2025 17:41:01 GMT | Secure MCP: A Production-Ready Architecture | Jose Maria Flores Zazo | [Read More](https://medium.com/p/665d640a3888) |
-| Thu, 09 Oct 2025 17:33:16 GMT | Inside America’s Cyber Frontlines: How Cyber Threats Could Amplify Government Shutdowns in 2025 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/dc1cbbc60268) |
-| Thu, 09 Oct 2025 17:32:03 GMT | How AI-Powered Security Actually Works: Beyond the Hype | Eric Zietlow | [Read More](https://medium.com/p/85d42c16b708) |
-| Thu, 09 Oct 2025 17:27:44 GMT | Inside America’s Cyber Frontlines: Understanding the 2025 Threat Landscape Through Real-World Cases | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ffd4c0517289) |
-| Thu, 09 Oct 2025 17:21:46 GMT | BRabbit Lab Writeup | Jaws | [Read More](https://medium.com/p/4d950bd4d40e) |
-| Thu, 09 Oct 2025 17:19:34 GMT | Lab Report — Responsible Testing of a TurnKey CCTV Appliance (Discovery → Validation → Mitigation) | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/78b21f6f8432) |
-| Thu, 09 Oct 2025 17:19:05 GMT | From Chaos to Clarity: Building My First Real-Time App with Node.js and WebSockets | Kainat Nafees | [Read More](https://medium.com/p/b079c6d3f18a) |
-| Thu, 09 Oct 2025 17:16:53 GMT | Navigating the 2025 Cyber Threat Landscape: A Deep Dive into Global Risks and Emerging Trends | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/b8547d5db63b) |
-| Thu, 09 Oct 2025 17:15:47 GMT | What Your Smart Meters Know About You | The Bot Group | [Read More](https://medium.com/p/4aea951601f9) |
-| Thu, 09 Oct 2025 17:12:24 GMT | Data Safety Awareness Series: Post 7 | Juned Silavat | [Read More](https://medium.com/p/bb6dd766b780) |
-| Thu, 09 Oct 2025 17:10:52 GMT | Lxd for privilege escalation | Sadineni Sai Sushanth | [Read More](https://medium.com/p/b1ccfd3c2523) |
-| Thu, 09 Oct 2025 17:09:52 GMT | Employee Theft: Protect Your Business Without Becoming Big Brother | Tec-Tel Communications | [Read More](https://medium.com/p/c68d46cb8cb3) |
-| Thu, 09 Oct 2025 17:08:28 GMT | Co-Managed IT Services, Your IT Superpower. | SkyTide Group | [Read More](https://medium.com/p/01370882e189) |
