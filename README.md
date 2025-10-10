@@ -12,13 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Oct 2025 14:12:25 GMT | From Gatekeeper to Game Changer: Redefining Security for Today’s Digital Products | Kevin Bigler | [Read More](https://medium.com/p/43db023bbc4e) |
+| Fri, 10 Oct 2025 14:10:42 GMT | The Capability-Based Security Model That Makes Privilege Escalation Impossible | Sohail x Codes | [Read More](https://medium.com/p/8231d679b972) |
+| Fri, 10 Oct 2025 14:06:30 GMT | Building Secure Authentication Systems with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/68a1d1d1dddc) |
+| Fri, 10 Oct 2025 14:04:57 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6ae8e611024e) |
+| Fri, 10 Oct 2025 14:02:14 GMT | Offline and Air-Gapped Protection — Why Abatis Works Without the Cloud | Abatis ABTU | [Read More](https://medium.com/p/2e468673000c) |
+| Fri, 10 Oct 2025 14:02:04 GMT | Part 11: (a)VAPT & OWASP: A Deep Dive into Vulnerability Management | Intelithics | [Read More](https://medium.com/p/769aacdf2631) |
+| Fri, 10 Oct 2025 14:01:59 GMT | Cyber Briefing: 2025.10.10 | CyberMaterial | [Read More](https://medium.com/p/6051495ca25f) |
+| Fri, 10 Oct 2025 14:01:53 GMT | Sea-Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/de3be3e06ffa) |
+| Fri, 10 Oct 2025 14:01:41 GMT | HA Joker CTF: TryHackMe WriteUp WalkThrough Answers | Umer | [Read More](https://medium.com/p/75895f34e567) |
+| Fri, 10 Oct 2025 13:58:06 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/10912daad773) |
+| Fri, 10 Oct 2025 13:55:47 GMT | 1-Click Account Takeover via Host Header Injection | Abdulrhman | [Read More](https://medium.com/p/a5774993f24a) |
+| Fri, 10 Oct 2025 13:54:30 GMT | Basic Pentesting — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/9b806ad6f940) |
+| Fri, 10 Oct 2025 13:51:02 GMT | the Vulnerability Allows Forced Removal of Page Owner Without Consent — on Facebook.(part 3) | Hisham | [Read More](https://medium.com/p/612662f3b715) |
+| Fri, 10 Oct 2025 13:50:39 GMT | My Body Has Grown on Me | Lonely solacee | [Read More](https://medium.com/p/537cd93a92d0) |
+| Fri, 10 Oct 2025 13:50:03 GMT | the Vulnerability Allows Forced Removal of Page Owner Without Consent — on Facebook.(part 2) | Hisham | [Read More](https://medium.com/p/59081543cab2) |
+| Fri, 10 Oct 2025 13:46:47 GMT | The Sound of Silence: What Happens When a Child Stops Seeking Help and Starts Reading | Pragya Singh | [Read More](https://medium.com/p/977df5ed16b8) |
+| Fri, 10 Oct 2025 13:44:44 GMT | How to Prevent Cross-Site Scripting (XSS) on Payment Pages | Feroot Security | [Read More](https://medium.com/p/61dc1c9da293) |
+| Fri, 10 Oct 2025 13:42:47 GMT | the Vulnerability Allows Forced Removal of Page Owner Without Consent — on Facebook.(Part 1) | Hisham | [Read More](https://medium.com/p/e6adf6aaf4fb) |
 | Fri, 10 Oct 2025 13:42:23 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/8563eb006dee) |
 | Fri, 10 Oct 2025 13:42:12 GMT | How to Lock a Closet Door: Simple Solutions for Extra Privacy | Sure Lock & Key LLC | [Read More](https://medium.com/p/dec349d66c2c) |
+| Fri, 10 Oct 2025 13:41:37 GMT | Understanding Fast Flux in Cybersecurity | JahdiSec | [Read More](https://medium.com/p/d3c48612854b) |
 | Fri, 10 Oct 2025 13:38:06 GMT | Kendi Dilimle Network — 2. Gün - Ağ Topolojileri | Melih Kılıç | [Read More](https://medium.com/p/ff72633db754) |
+| Fri, 10 Oct 2025 13:35:45 GMT | Windows 10 : fin du support, mais impossible de passer à 11 ? Ne paniquez pas, voici la solution | GNANDAL | [Read More](https://medium.com/p/49c9a5d469fe) |
 | Fri, 10 Oct 2025 13:35:15 GMT | Kendi Dilimle Network - 1. Gün — Ağlar ve Ağ içi cihazlar | Melih Kılıç | [Read More](https://medium.com/p/03e8bd158323) |
 | Fri, 10 Oct 2025 13:32:55 GMT | Kendi Dilimle Network - -Neden Bu Seriyi Başlattım? | Melih Kılıç | [Read More](https://medium.com/p/0280a2596bfb) |
 | Fri, 10 Oct 2025 13:31:12 GMT | ShareTide, or how we are Open Sourcing 200+ OpenTide Threat Objects and building a community to… | Behemoth Security | [Read More](https://medium.com/p/9716ee159788) |
 | Fri, 10 Oct 2025 13:30:03 GMT | Authentication and Authorization: Secure Access Control | Cyber Security Research | [Read More](https://medium.com/p/0f900456fa12) |
+| Fri, 10 Oct 2025 13:29:11 GMT | Enterprise Management of Claude Code - You’re Fired! | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/0de313526eaf) |
 | Fri, 10 Oct 2025 13:26:32 GMT | Agentic AI vs. Generative AI in Cybersecurity | Stellar Cyber | [Read More](https://medium.com/p/805f72094ff6) |
 | Fri, 10 Oct 2025 13:25:48 GMT | Cloud Misconfigurations Series: Azure Virtual WAN (Part 2) — Deep Dive into Route Propagation &… | Hariharasudhan GK | [Read More](https://medium.com/p/54b49fc7d8f4) |
 | Fri, 10 Oct 2025 13:23:33 GMT | Digital Identity Management | Cyber Security Research | [Read More](https://medium.com/p/c58f051a5897) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 10:23:50 GMT | How to Identify and Eliminate Fake Online Assets | Ai Writter Tools | [Read More](https://medium.com/p/00f4b4642c91) |
 | Fri, 10 Oct 2025 10:22:23 GMT | How to Ensure Data Security When Outsourcing Banking Software Development | Thamash Herath | [Read More](https://medium.com/p/36c6971b9e63) |
 | Fri, 10 Oct 2025 10:21:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/2432f1dfc16c) |
-| Fri, 10 Oct 2025 10:19:29 GMT | TrickBot Analysis to RE | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/082d8cec75a3) |
-| Fri, 10 Oct 2025 10:17:54 GMT | AI and Blockchain Together: Building Trust in Digital Transactions | Hiphypeio | [Read More](https://medium.com/p/78cca9ed0da0) |
-| Fri, 10 Oct 2025 10:15:07 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/71ecb4c3550f) |
-| Fri, 10 Oct 2025 10:12:40 GMT | “The End of the Human Bottleneck: Why Agentic AI is the Future of Threat Detection” | Tanya Manchanda | [Read More](https://medium.com/p/26dcc9e8476a) |
-| Fri, 10 Oct 2025 10:10:10 GMT | 7 Things I Wish Someone Told Me About Database Encryption (Before My First Security Incident) | Zudonu Osomudeya | [Read More](https://medium.com/p/330cc17f03b3) |
-| Fri, 10 Oct 2025 10:09:59 GMT | If You’re Not Learning Cloud Computing in 2025, You’re Already Behind. | JetkingChandigarh | [Read More](https://medium.com/p/00d52df42bff) |
-| Fri, 10 Oct 2025 10:09:08 GMT | PostgreSQL 18 Buffer Cache Optimization for Machine Learning Workloads | Rizqi Mulki | [Read More](https://medium.com/p/95f311414fae) |
-| Fri, 10 Oct 2025 10:09:07 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/09aee4f62717) |
-| Fri, 10 Oct 2025 10:07:33 GMT | How Itch.io | Krivadna | [Read More](https://medium.com/p/92db01c21848) |
-| Fri, 10 Oct 2025 10:07:17 GMT | Forensic-Timeliner v2.2: High-Speed Windows DFIR Timeline Consolidation | cybrNK | [Read More](https://medium.com/p/a10bc905a43b) |
-| Fri, 10 Oct 2025 10:07:15 GMT | CL0P Hackers Exploit Oracle Software Flaw to Breach Global Organizations | Jasmitharouthu | [Read More](https://medium.com/p/c97b8b6ec4c6) |
-| Fri, 10 Oct 2025 10:05:55 GMT | Security Operations Center(SOC) Fundamental | R2 | [Read More](https://medium.com/p/731f2af16fdf) |
-| Fri, 10 Oct 2025 10:03:30 GMT | Mr Robot -TryHackMe CTF Çözümü | Berat Çam | [Read More](https://medium.com/p/de3a38fc50d2) |
-| Fri, 10 Oct 2025 10:02:58 GMT | Glitching Into Reality: Why We Secretly Love Broken Code | Franziska "Ziska" Fink | [Read More](https://medium.com/p/5660bbdd4134) |
-| Fri, 10 Oct 2025 10:02:35 GMT | DockerLabs Writeup — 0xc0ffee (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/daa84fea033f) |
-| Fri, 10 Oct 2025 10:02:19 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/ffa0927ad619) |
-| Fri, 10 Oct 2025 10:00:24 GMT | Trusted Endpoint Security Services Provider In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/b1f1a0ca79ea) |
-| Fri, 10 Oct 2025 09:59:55 GMT | Watching the Brand: How SOC Teams Use Brand Monitoring to Catch Threats Early | eSecForte Technologies | [Read More](https://medium.com/p/e8f1b01e1dd5) |
-| Fri, 10 Oct 2025 09:58:28 GMT | Top 10 Internship Programs in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/a4fa0d16f1bc) |
-| Fri, 10 Oct 2025 09:57:41 GMT | 5 Cybersecurity Lessons I Learned After a 3AM Data Breach | Muhummad Zaki | [Read More](https://medium.com/p/1539e281d40f) |
-| Fri, 10 Oct 2025 09:55:59 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/89c6b8ee67b3) |
