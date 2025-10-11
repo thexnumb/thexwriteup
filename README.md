@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 22:55:52 GMT | Google CodeMender: How The Multi Agent System Actually Works | Julian Goldie | [Read More](https://medium.com/p/2520faaf7d41) |
+| Sat, 11 Oct 2025 22:55:41 GMT | Building a Complete Monitoring Stack with Nagios, InfluxDB, Nagflux and Grafana | Obscure | [Read More](https://medium.com/p/3c9672a70eb3) |
+| Sat, 11 Oct 2025 22:54:17 GMT | Why Nigeria Should Establish a National Bitcoin Reserve | Saint | [Read More](https://medium.com/p/f3dc20123b5e) |
+| Sat, 11 Oct 2025 22:46:39 GMT | dear hackers | SmcdS | [Read More](https://medium.com/p/6c0336700414) |
+| Sat, 11 Oct 2025 22:32:25 GMT | Packets on a Mission: How Data Actually Travels Across the Internet | Thegreatpayload | [Read More](https://medium.com/p/a0fe0bada142) |
+| Sat, 11 Oct 2025 22:28:29 GMT | When Courage Stops Trying to Look Brave | Coudless Climes | [Read More](https://medium.com/p/848ba9106360) |
 | Sat, 11 Oct 2025 22:24:55 GMT | Your Apps Are Spying on You (And You Gave Them Permission) | Samirah A.O | [Read More](https://medium.com/p/8b4f036b7157) |
 | Sat, 11 Oct 2025 22:22:03 GMT | My JailCTF Experience (and Writeups) | Maksim Hayder | [Read More](https://medium.com/p/1cea3d85cd81) |
 | Sat, 11 Oct 2025 22:12:28 GMT | TryHackMe: Secret Recipe | Davenyamongo | [Read More](https://medium.com/p/935aa3abc871) |
@@ -107,9 +113,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 15:08:12 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/247d376a1025) |
 | Sat, 11 Oct 2025 15:05:52 GMT | Identifying Phishing Emails | Corey Farley | [Read More](https://medium.com/p/f8f041d93ed2) |
 | Sat, 11 Oct 2025 15:03:21 GMT | HTB TombWatcher Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/f57883ebbbe7) |
-| Sat, 11 Oct 2025 15:01:57 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ae922dd20461) |
-| Sat, 11 Oct 2025 14:58:35 GMT | Hackers Steal 70,000 Government ID Photos from Discord Vendor — Everything You Need to Know —… | Bintu's Art and Everything | [Read More](https://medium.com/p/fe0607209d59) |
-| Sat, 11 Oct 2025 14:54:30 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/9dc91d0bd8ab) |
-| Sat, 11 Oct 2025 14:54:15 GMT | Defending Against OSINT: How to Reduce Your Digital Footprint | Shahzaib | [Read More](https://medium.com/p/3fb19dfef41c) |
-| Sat, 11 Oct 2025 14:54:03 GMT | How to Protect Data in Public Cloud Services (AWS, Azure, GCP) | Samina Perveen | [Read More](https://medium.com/p/0497ca9e06b5) |
-| Sat, 11 Oct 2025 14:52:07 GMT | True Love Revealed: Why Actions and Details Speak Louder Than Words | Poly-blang | [Read More](https://medium.com/p/f4b68ac7054f) |
