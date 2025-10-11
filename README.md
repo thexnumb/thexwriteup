@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 13:32:03 GMT | $500 BAC Bug: Unauthorized Removal of Private Pension Schemes | Abhi Sharma | [Read More](https://medium.com/p/7710dc6bbc58) |
 | Sat, 11 Oct 2025 13:19:09 GMT | Semantic Assurance: When Frameworks Begin to Think | Marko Chalupa | [Read More](https://medium.com/p/02d457c66dc4) |
 | Sat, 11 Oct 2025 13:17:48 GMT | The Silicon Pause: Mental Health, Reinvention, and India’s Tech Reckoning | Dr. Priyanka B | [Read More](https://medium.com/p/89ab5ae560e9) |
+| Sat, 11 Oct 2025 13:14:42 GMT | LLM Tarpits | Manusha Dilan | [Read More](https://medium.com/p/64daf876060e) |
 | Sat, 11 Oct 2025 13:12:14 GMT | One Train Africa Unlocking the Power of Cybersecurity Tools: Protecting Your Digital World | Matovu George William | [Read More](https://medium.com/p/2414b3973939) |
 | Sat, 11 Oct 2025 13:11:56 GMT | How the iPhone 17 Quietly Changed the Game in Mobile Security — Apple’s Secret Weapon Against… | David SEHYEON Baek | [Read More](https://medium.com/p/d6d9518c26c1) |
 | Sat, 11 Oct 2025 13:04:31 GMT | The CIA Triad Isn’t Dead — We Just Never Actually Implemented It | KWJ | [Read More](https://medium.com/p/70f496ec700c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 07:04:23 GMT | Reverse Engineering Techniques | LinuxDev | [Read More](https://medium.com/p/77214274816f) |
 | Sat, 11 Oct 2025 06:47:00 GMT | Zero Trust for Kubernetes: Implementing Service Mesh Security | Heinancabouly | [Read More](https://medium.com/p/529adb66665a) |
 | Sat, 11 Oct 2025 06:45:26 GMT | Hack The Box — Starting Point Tier 0 (Free Machines & Without Flags) | Muhammad Bilal | [Read More](https://medium.com/p/1ebcbbc08783) |
-| Sat, 11 Oct 2025 06:39:30 GMT | Top 5 WordPress 2FA Plugins for Enhanced Security in 2025 | Smit Pipaliya | [Read More](https://medium.com/p/fa60d6187f72) |
-| Sat, 11 Oct 2025 06:27:09 GMT | Threat Intelligence Report: The Silent Epidemic of Exposed Docker APIs | ZoomEye | [Read More](https://medium.com/p/4b59d3eba1e0) |
