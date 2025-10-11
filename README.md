@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 11:13:58 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/5b6dc03abdd5) |
+| Sat, 11 Oct 2025 11:11:29 GMT | Beyond Offline: How Digital Shield is Fundamentally Reshaping Web3 Security Practices with… | Digital Shield Offcial | [Read More](https://medium.com/p/9d08beeddb20) |
+| Sat, 11 Oct 2025 11:10:23 GMT | Evolution of WAP | SecurewithUmer | [Read More](https://medium.com/p/ec79bcecd447) |
+| Sat, 11 Oct 2025 11:06:34 GMT | [Ebook] Scaling 1 to Million Users. The Real World Blueprint for PHP Openlitespeed & MariaDB | Rizqi Mulki | [Read More](https://medium.com/p/8a5fb6460dd6) |
+| Sat, 11 Oct 2025 11:01:04 GMT | How a Tool Sold as “Progress” Could Become the Ultimate Control System | Dipanshu Chaudhry | [Read More](https://medium.com/p/e5223e2d4124) |
+| Sat, 11 Oct 2025 10:57:34 GMT | CSRF Attacks: When Trust Backfires | Rizqi Mulki | [Read More](https://medium.com/p/ce3227f17604) |
+| Sat, 11 Oct 2025 10:56:19 GMT | How Does Google Cloud Unlock Hidden Career Opportunities? | Mohammed Numan | [Read More](https://medium.com/p/1c683a4db6d7) |
+| Sat, 11 Oct 2025 10:55:33 GMT | Smart People, Costly Mistakes: The Psychology Behind Financial Scams | Manoj Sebastian Kulatharayil | [Read More](https://medium.com/p/52a2d873499e) |
+| Sat, 11 Oct 2025 10:54:28 GMT | Beyond the Hype: Confronting the Real Security Risks of Generative AI | Janaki Gullapudi | [Read More](https://medium.com/p/3e979984a188) |
+| Sat, 11 Oct 2025 10:52:48 GMT | When Python Stopped Being a Language and Became My Therapy | Fateyaly | [Read More](https://medium.com/p/6ad3f02f8ef8) |
+| Sat, 11 Oct 2025 10:51:47 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/4a1fa3b599b9) |
+| Sat, 11 Oct 2025 10:44:44 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/03503e3fe477) |
+| Sat, 11 Oct 2025 10:42:04 GMT | Beyond Hardware: How Digital Shield is Systemically Revolutionizing Decentralized Asset Management… | Digital Shield | [Read More](https://medium.com/p/09c49e78de44) |
+| Sat, 11 Oct 2025 10:40:44 GMT | The Final Exploit: Turning Your Skills Into Impact | Fateyaly | [Read More](https://medium.com/p/e15b8b0573fe) |
 | Sat, 11 Oct 2025 10:38:15 GMT | Securycor’s Approach to Effective Crowd Management | Travel with us | [Read More](https://medium.com/p/4dbe1c9a764c) |
 | Sat, 11 Oct 2025 10:37:52 GMT | The Role of Government in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/0aea522fbd90) |
+| Sat, 11 Oct 2025 10:37:51 GMT | DAY 1: CIA TRIAD | Krish Shrestha | [Read More](https://medium.com/p/81199d7d09ff) |
+| Sat, 11 Oct 2025 10:35:13 GMT | Solving OWASP Android Uncrackable L1 | D0loresH4ze | [Read More](https://medium.com/p/f5c55f8790db) |
 | Sat, 11 Oct 2025 10:31:33 GMT | Cyber Insurance: Protecting Against Cyber Losses | Cyber Security Research | [Read More](https://medium.com/p/6358ad848a66) |
 | Sat, 11 Oct 2025 10:25:10 GMT | Securing Your Smart Home | Cyber Security Research | [Read More](https://medium.com/p/786f6ffb46a2) |
 | Sat, 11 Oct 2025 10:23:57 GMT | Microsoft Warns of “Payroll Pirates”: How Hackers Are Stealing Employee Salaries Through HR… | IamPreth | [Read More](https://medium.com/p/e5c9071c7ace) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 03:25:35 GMT | Deepfake Detection and Digital Identity Protection: The New Frontier in Cyber Defense | Cyber Fortress | [Read More](https://medium.com/p/fe4762388162) |
 | Sat, 11 Oct 2025 03:22:14 GMT | The Digital Panopticon: How Instagram’s Map Feature Turns 'Explore' Into Public Exposure : | NitinKumar Shrimali | [Read More](https://medium.com/p/61c4a21e8f86) |
 | Sat, 11 Oct 2025 03:19:01 GMT | Wireshark Filters for Threat Detection — Medium Writeup | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/43fd4e452ec0) |
-| Sat, 11 Oct 2025 03:17:41 GMT | Quantum Readiness: Preparing Encryption for the Post-Quantum Era | Cyber Fortress | [Read More](https://medium.com/p/0ce251305aac) |
-| Sat, 11 Oct 2025 03:14:34 GMT | Segurança de Aplicações em Loop | Gabrielly Alves | [Read More](https://medium.com/p/796c1ae6f0a7) |
-| Sat, 11 Oct 2025 03:13:19 GMT | FORENSIC INTELLIGENCE REPORT | Verity | [Read More](https://medium.com/p/ce1990092f63) |
-| Sat, 11 Oct 2025 03:12:03 GMT | Human Factor 2.0: Why Employee Awareness Is Still the Weakest Link in 2025 | Cyber Fortress | [Read More](https://medium.com/p/79baceec8044) |
-| Sat, 11 Oct 2025 02:50:38 GMT | EDR Evasion with Python: Bypassing Modern Endpoint Detection Systems | Maxwell Cross | [Read More](https://medium.com/p/b7ca9047849a) |
-| Sat, 11 Oct 2025 02:27:17 GMT | Cybersecurity Project: Step-by-Step OPNsense Firewall Deployment on VirtualBox (Recommended… | Rupesh Sharma | [Read More](https://medium.com/p/da57bc13725b) |
-| Sat, 11 Oct 2025 02:23:37 GMT | Bridging creativity and intelligence through applied AI. | Codyharshbarger | [Read More](https://medium.com/p/985dbed400db) |
-| Sat, 11 Oct 2025 01:45:44 GMT | From Reactive to Proactive: How Modern Teams Are Redefining Cyber Defense | Michael Preston | [Read More](https://medium.com/p/d2b633c60d93) |
-| Sat, 11 Oct 2025 01:32:26 GMT | Secure by Design: Auth, Sessions & JWT Pitfalls | Bhagya Rana | [Read More](https://medium.com/p/72b0c69ac7a7) |
-| Sat, 11 Oct 2025 00:49:20 GMT | CSRF Where to Look | Ikajakam | [Read More](https://medium.com/p/918d16ac4862) |
-| Sat, 11 Oct 2025 00:32:18 GMT | Cold Feet | Paula Lechten | [Read More](https://medium.com/p/12557d2aa6c0) |
-| Sat, 11 Oct 2025 00:30:24 GMT | Shifting Theory of Constraints in Cybersecurity | Geoji Paul | [Read More](https://medium.com/p/f0bd6bea33e2) |
-| Sat, 11 Oct 2025 00:28:51 GMT | ️PROTECTING YOUR DIGITAL SELF…BEHIND THE SCREEN | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/e5507a2be28c) |
-| Sat, 11 Oct 2025 00:28:47 GMT | Google Dorking for Beginners: The Search Tricks Investigators Actually Use | Aj | [Read More](https://medium.com/p/0fa98cfef5f4) |
-| Sat, 11 Oct 2025 00:23:31 GMT | The Authentication Mistake That Could Cost You Everything (And How to Fix It) | Wasif Balol | [Read More](https://medium.com/p/59bbfde1c522) |
-| Sat, 11 Oct 2025 00:02:00 GMT | GetAllUrls (gau): The Detector of Old and Forgotten Endpoints in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/8f8a40a92606) |
