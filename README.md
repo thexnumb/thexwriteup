@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 17:22:34 GMT | How AI is Transforming Cybersecurity: My Personal Understanding and Steps | Rushikesh Girase | [Read More](https://medium.com/p/05712e2d3c27) |
 | Sat, 11 Oct 2025 17:04:57 GMT | Rust and the Linux Rewrite Problem | Random Access | [Read More](https://medium.com/p/b60d3345b0b9) |
 | Sat, 11 Oct 2025 16:57:03 GMT | How I’m Secure In The Apple Ecosystem : Lock Your Life in Just 45 Minutes | Berker Ceylan | [Read More](https://medium.com/p/9ed628bdf151) |
 | Sat, 11 Oct 2025 16:50:59 GMT | The Cyber Threats Redefining 2025: When AI Turns Against Us | Mhd fayz | [Read More](https://medium.com/p/622d13bdde8f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 12:01:46 GMT | DockerLabs Writeup — ShowTime (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c4fc22d8cb80) |
 | Sat, 11 Oct 2025 12:01:42 GMT | Beyond “No to War”: How Japan’s Pacifism Became an Invitation to Aggression | fmi A. | [Read More](https://medium.com/p/ec20d9d3c534) |
 | Sat, 11 Oct 2025 11:52:44 GMT | The Day I Stopped Googling Hacking Tools and Built My Own in Python | Muhummad Zaki | [Read More](https://medium.com/p/d5584d708939) |
-| Sat, 11 Oct 2025 11:48:15 GMT | Security and Performance Aspects of Firewalld Advanced Rules | Eren Cankut Uysal | [Read More](https://medium.com/p/449c824a0950) |
