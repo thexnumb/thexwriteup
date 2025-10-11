@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 16:37:15 GMT | The Laravel Encryption Trick That Stops Hackers Cold | Sadique Ali | [Read More](https://medium.com/p/2a271c2c88eb) |
+| Sat, 11 Oct 2025 16:32:00 GMT | Monday Monitor — TryHackMe | Alan | [Read More](https://medium.com/p/eed9a6157435) |
+| Sat, 11 Oct 2025 16:31:11 GMT | Enterprise-Grade Linux Deployments | LinuxDev | [Read More](https://medium.com/p/123916d63273) |
+| Sat, 11 Oct 2025 16:16:15 GMT | Mind the Gap: Between the Protocol and the Platform | Mo Zaman | [Read More](https://medium.com/p/1e1544554826) |
+| Sat, 11 Oct 2025 16:13:38 GMT | KQL vs MySQL, What’s the real difference in today’s AI-driven world? | Pretushgupta | [Read More](https://medium.com/p/89e2ad3772e3) |
 | Sat, 11 Oct 2025 16:13:36 GMT | No Matter How Tired You Are, May You Never Lose a Grateful Heart | Vijay Kumar Gupta | [Read More](https://medium.com/p/09c32dd94391) |
+| Sat, 11 Oct 2025 16:12:04 GMT | Cyber Security Careers in School IT: SentryPC for Staff & Admins | Paul Meyer | [Read More](https://medium.com/p/b5f57f70dc2d) |
 | Sat, 11 Oct 2025 16:01:54 GMT | Cyber Security Simulation Software | Grandahsan | [Read More](https://medium.com/p/20a9c110ec2f) |
 | Sat, 11 Oct 2025 15:58:49 GMT | Day 67- Azure basics for cybersecurity beginners | unica 02 | [Read More](https://medium.com/p/6fb798098777) |
 | Sat, 11 Oct 2025 15:52:25 GMT | Cyber Security Resilience Services | Grandahsan | [Read More](https://medium.com/p/a90953e00bfc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 11:43:27 GMT | The Silent Death of SAS Talon—Streaming AI for Cybersecurity | Altan Atabarezz | [Read More](https://medium.com/p/7fa286926b6c) |
 | Sat, 11 Oct 2025 11:39:18 GMT | Hack The Box — Certificate Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/fa6d5b22c4b8) |
 | Sat, 11 Oct 2025 11:38:24 GMT | Energy, Data, and Intelligence: The Next-Generation Cyber Security Architecture | Mustafa Ergen | [Read More](https://medium.com/p/5c96c8f67063) |
-| Sat, 11 Oct 2025 11:32:27 GMT | Can AI Keep Your Secrets? A New Approach to Digital Privacy | BiG MaN | [Read More](https://medium.com/p/f40b900dda2f) |
-| Sat, 11 Oct 2025 11:30:16 GMT | Unveiling the Safer Side of Crypto: Discover Stability Without Surrendering Possibilities | Tony Kenler | [Read More](https://medium.com/p/c989df9f253b) |
-| Sat, 11 Oct 2025 11:28:19 GMT | 2025 Cybersecurity Career Hack: Your Ultimate Step-by-Step Guide to Becoming a Cybersecurity Genius! | Testleaf | [Read More](https://medium.com/p/15e315fa9db4) |
-| Sat, 11 Oct 2025 11:26:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/705d8f46c747) |
-| Sat, 11 Oct 2025 11:23:18 GMT | Understanding Malware and How to Avoid It | Kartik Debnath | [Read More](https://medium.com/p/773e0a49cbbc) |
-| Sat, 11 Oct 2025 11:20:10 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/abb61d43940d) |
