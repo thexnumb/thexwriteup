@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 11:32:27 GMT | Can AI Keep Your Secrets? A New Approach to Digital Privacy | BiG MaN | [Read More](https://medium.com/p/f40b900dda2f) |
+| Sat, 11 Oct 2025 11:30:16 GMT | Unveiling the Safer Side of Crypto: Discover Stability Without Surrendering Possibilities | Tony Kenler | [Read More](https://medium.com/p/c989df9f253b) |
+| Sat, 11 Oct 2025 11:28:19 GMT | 2025 Cybersecurity Career Hack: Your Ultimate Step-by-Step Guide to Becoming a Cybersecurity Genius! | Testleaf | [Read More](https://medium.com/p/15e315fa9db4) |
+| Sat, 11 Oct 2025 11:26:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/705d8f46c747) |
+| Sat, 11 Oct 2025 11:23:18 GMT | Understanding Malware and How to Avoid It | Kartik Debnath | [Read More](https://medium.com/p/773e0a49cbbc) |
+| Sat, 11 Oct 2025 11:20:10 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/abb61d43940d) |
 | Sat, 11 Oct 2025 11:13:58 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/5b6dc03abdd5) |
 | Sat, 11 Oct 2025 11:11:29 GMT | Beyond Offline: How Digital Shield is Fundamentally Reshaping Web3 Security Practices with… | Digital Shield Offcial | [Read More](https://medium.com/p/9d08beeddb20) |
+| Sat, 11 Oct 2025 11:11:05 GMT | Attacking Common Services HTB — Easy — Skill Assessment Walkthrough | Ahmad Sonji | [Read More](https://medium.com/p/ebe540a8a1d4) |
 | Sat, 11 Oct 2025 11:10:23 GMT | Evolution of WAP | SecurewithUmer | [Read More](https://medium.com/p/ec79bcecd447) |
 | Sat, 11 Oct 2025 11:06:34 GMT | [Ebook] Scaling 1 to Million Users. The Real World Blueprint for PHP Openlitespeed & MariaDB | Rizqi Mulki | [Read More](https://medium.com/p/8a5fb6460dd6) |
 | Sat, 11 Oct 2025 11:01:04 GMT | How a Tool Sold as “Progress” Could Become the Ultimate Control System | Dipanshu Chaudhry | [Read More](https://medium.com/p/e5223e2d4124) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 03:38:17 GMT | 10 Simple Food Swaps That Improve Mood and Boost Daily Energy | sehrish faheem | [Read More](https://medium.com/p/3ba83eddcb39) |
 | Sat, 11 Oct 2025 03:36:45 GMT | Blind SQL Injection: Conditional Responses | Cipher0x00 | [Read More](https://medium.com/p/06baaa3f10d8) |
 | Sat, 11 Oct 2025 03:34:50 GMT | End-of-Life (EOL) Updates: Understanding the Transition and Its Impact on Software | sehrish faheem | [Read More](https://medium.com/p/225ca7a00f95) |
-| Sat, 11 Oct 2025 03:32:17 GMT | Oyster_MSTeamsSetup.exe | Binary_Botanist | [Read More](https://medium.com/p/d96bee0ea46e) |
-| Sat, 11 Oct 2025 03:32:04 GMT | Advanced Nuclei Templates: How to Write Target‑Specific Scans | Đeepanshu | [Read More](https://medium.com/p/acedaaf0742e) |
-| Sat, 11 Oct 2025 03:30:08 GMT | Tải Hack Madout2 (Full Tiền, Kim Cương, Mod Menu) v17.06 | MODLMH | [Read More](https://medium.com/p/1cda115e5195) |
-| Sat, 11 Oct 2025 03:29:34 GMT | Why Toyota Needs to Watch Its Own Data on the Dark Web — Before the Next Breach | David SEHYEON Baek | [Read More](https://medium.com/p/050df3c63e97) |
-| Sat, 11 Oct 2025 03:25:35 GMT | Deepfake Detection and Digital Identity Protection: The New Frontier in Cyber Defense | Cyber Fortress | [Read More](https://medium.com/p/fe4762388162) |
-| Sat, 11 Oct 2025 03:22:14 GMT | The Digital Panopticon: How Instagram’s Map Feature Turns 'Explore' Into Public Exposure : | NitinKumar Shrimali | [Read More](https://medium.com/p/61c4a21e8f86) |
-| Sat, 11 Oct 2025 03:19:01 GMT | Wireshark Filters for Threat Detection — Medium Writeup | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/43fd4e452ec0) |
