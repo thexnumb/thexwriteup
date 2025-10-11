@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 22:09:12 GMT | Creating a HIPAA compliant Site-to-Site VPN in AWS | Davis Mtui | [Read More](https://medium.com/p/a096198aa5fd) |
+| Sat, 11 Oct 2025 22:07:03 GMT | RAUL’S A LITTLE STINKER | Ron Fredman | [Read More](https://medium.com/p/6ccec57a72de) |
+| Sat, 11 Oct 2025 21:58:42 GMT | Vulnerability management program for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/392fd297b1e3) |
+| Sat, 11 Oct 2025 21:48:41 GMT | Top Computer Virus Removal Services in the UK: How to Clean and Protect Your Device | Harry Johnson | [Read More](https://medium.com/p/f55c92d27a59) |
+| Sat, 11 Oct 2025 21:38:28 GMT | Adjusting the the Challenges of Entering Cybersecurity | Tyler Wall | [Read More](https://medium.com/p/f082dcf1274d) |
+| Sat, 11 Oct 2025 21:35:15 GMT | Sui Security Explained: 7 Powerful Reasons It’s the Most Trusted Blockchain Ecosystem | BlockchainBard | [Read More](https://medium.com/p/b2c24f50a576) |
 | Sat, 11 Oct 2025 21:32:41 GMT | Defensive Programming: Build for the Worst, Not the Best | H2bm | [Read More](https://medium.com/p/a2c19baaa9cd) |
+| Sat, 11 Oct 2025 21:31:31 GMT | Day 6 of my cybersecurity journey: Windows Security Features | Ogundipe Priscilla | [Read More](https://medium.com/p/ba3bdbfd19e1) |
+| Sat, 11 Oct 2025 21:31:23 GMT | Bosnian Thieves: Aid Setic & Sabrina Muminovic | Knightofuae | [Read More](https://medium.com/p/c400c849a362) |
+| Sat, 11 Oct 2025 21:29:12 GMT | Clearing the CRTP: My Red Teaming Journey | Saadeddine Hachlaf | [Read More](https://medium.com/p/e5a80265295e) |
 | Sat, 11 Oct 2025 21:07:44 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/e9668c24ea53) |
 | Sat, 11 Oct 2025 21:04:16 GMT | When GraphQL becomes a backdoor: SSRF to RCE in a real-world GraphQL endpoint. | MrLionOfficial | [Read More](https://medium.com/p/b4ab3b14573f) |
 | Sat, 11 Oct 2025 20:57:57 GMT | TryHackMe Writeup: CMesS | Berkay AĞGÜL | [Read More](https://medium.com/p/f4a9c354c991) |
@@ -104,12 +113,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 14:48:07 GMT | IPSec VPN - Fortigate | Mehmet Arif Akçadağ | [Read More](https://medium.com/p/ea4b6b66e59c) |
 | Sat, 11 Oct 2025 14:47:39 GMT | The Internet of Things (IoT) Security Challenges | Cyber Security Research | [Read More](https://medium.com/p/f4aa4b9bebef) |
 | Sat, 11 Oct 2025 14:41:34 GMT | Securing Supply Chains | Cyber Security Research | [Read More](https://medium.com/p/e1b4500d8bac) |
-| Sat, 11 Oct 2025 14:39:26 GMT | Integrating Multi-Area OSPF with EIGRP — Bidirectional Route Redistribution (Cisco Packet Tracer… | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/17e3bdb861c9) |
-| Sat, 11 Oct 2025 14:37:30 GMT | Famous Software Bugs Since 2000: Simple Lessons for Beginner Developers | H2bm | [Read More](https://medium.com/p/9787fd569528) |
-| Sat, 11 Oct 2025 14:35:53 GMT | Cyber Warfare: The New Battlefield | Cyber Security Research | [Read More](https://medium.com/p/c526c7676c52) |
-| Sat, 11 Oct 2025 14:32:03 GMT | Aftermath Of Vulnerability | Khushi Joshi (Kujo with 2 curls) | [Read More](https://medium.com/p/e71dd93e5c0c) |
-| Sat, 11 Oct 2025 14:29:48 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/ebd4597a2370) |
-| Sat, 11 Oct 2025 14:29:35 GMT | Why I Switched to ProtonVPN in 2025 — A User’s Deep Dive | Fred Price | [Read More](https://medium.com/p/f8135851f79d) |
-| Sat, 11 Oct 2025 14:23:52 GMT | International Cybersecurity Cooperation | Cyber Security Research | [Read More](https://medium.com/p/b9809fc12fc3) |
-| Sat, 11 Oct 2025 14:23:19 GMT | Master Advanced Netcat Usage for Hackers: Techniques Beyond Reverse Shells | Very Lazy Tech | [Read More](https://medium.com/p/89f5e29776cb) |
-| Sat, 11 Oct 2025 14:17:10 GMT | My Devoxx 2025 experience | Jettro Coenradie | [Read More](https://medium.com/p/b78b0e1cace1) |
