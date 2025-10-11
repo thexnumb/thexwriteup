@@ -12,10 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 16:13:36 GMT | No Matter How Tired You Are, May You Never Lose a Grateful Heart | Vijay Kumar Gupta | [Read More](https://medium.com/p/09c32dd94391) |
+| Sat, 11 Oct 2025 16:01:54 GMT | Cyber Security Simulation Software | Grandahsan | [Read More](https://medium.com/p/20a9c110ec2f) |
+| Sat, 11 Oct 2025 15:58:49 GMT | Day 67- Azure basics for cybersecurity beginners | unica 02 | [Read More](https://medium.com/p/6fb798098777) |
+| Sat, 11 Oct 2025 15:52:25 GMT | Cyber Security Resilience Services | Grandahsan | [Read More](https://medium.com/p/a90953e00bfc) |
+| Sat, 11 Oct 2025 15:52:13 GMT | Write-Up — CyberYard Finals 2025 - BehindTheScene | DieLoop | [Read More](https://medium.com/p/69de87dc72ae) |
+| Sat, 11 Oct 2025 15:52:03 GMT | The economics of living longer, especially with advances in “longevity tech,” are complex and raise… | Zeeshan Safdar | [Read More](https://medium.com/p/bb985ae7d514) |
+| Sat, 11 Oct 2025 15:41:27 GMT | Unknown Russian Cyber Attacks Since Sep 2025 | Md. Abdullah Al Mamun | [Read More](https://medium.com/p/c65328d5bc41) |
 | Sat, 11 Oct 2025 15:37:16 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Cipher0x00 | [Read More](https://medium.com/p/411fdb4f912e) |
+| Sat, 11 Oct 2025 15:35:01 GMT | Importance of Data in AI Security | Farah Maqbool | [Read More](https://medium.com/p/9015f81a7ad3) |
 | Sat, 11 Oct 2025 15:32:09 GMT | Interesting : Profile Pictures CP DoS | Exploit5lover | [Read More](https://medium.com/p/5e233f3b13aa) |
 | Sat, 11 Oct 2025 15:32:02 GMT | SQL Injection: Extracting Data from Other Tables | Cipher0x00 | [Read More](https://medium.com/p/f1fbfae05dd1) |
 | Sat, 11 Oct 2025 15:32:02 GMT | SQL Injection: Finding Text-Compatible Columns | Cipher0x00 | [Read More](https://medium.com/p/5a76aee01f92) |
+| Sat, 11 Oct 2025 15:32:02 GMT | ‘Sneakers’ (1992)- The Ultimate Hacker Movie | "Penguin" Pete Trbovich | [Read More](https://medium.com/p/82c2a136cc84) |
+| Sat, 11 Oct 2025 15:32:02 GMT | UltraTech Room Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/95e23674f428) |
+| Sat, 11 Oct 2025 15:31:12 GMT | VulnNet: Roasted | Nazarov Samir | [Read More](https://medium.com/p/33cd97edc6fe) |
 | Sat, 11 Oct 2025 15:27:59 GMT | CTBB Podcast Notes: The Full-Time Bug Hunter’s Blueprint | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/8ec2b126add5) |
 | Sat, 11 Oct 2025 15:22:36 GMT | Active Directory Hacking: ASREP Roasting | SilentExploit | [Read More](https://medium.com/p/34efab61cb91) |
 | Sat, 11 Oct 2025 15:22:23 GMT | TombWatcher Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/f417fe667c49) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 11:26:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/705d8f46c747) |
 | Sat, 11 Oct 2025 11:23:18 GMT | Understanding Malware and How to Avoid It | Kartik Debnath | [Read More](https://medium.com/p/773e0a49cbbc) |
 | Sat, 11 Oct 2025 11:20:10 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/abb61d43940d) |
-| Sat, 11 Oct 2025 11:13:58 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/5b6dc03abdd5) |
-| Sat, 11 Oct 2025 11:11:29 GMT | Beyond Offline: How Digital Shield is Fundamentally Reshaping Web3 Security Practices with… | Digital Shield Offcial | [Read More](https://medium.com/p/9d08beeddb20) |
-| Sat, 11 Oct 2025 11:11:05 GMT | Attacking Common Services HTB — Easy — Skill Assessment Walkthrough | Ahmad Sonji | [Read More](https://medium.com/p/ebe540a8a1d4) |
-| Sat, 11 Oct 2025 11:10:23 GMT | Evolution of WAP | SecurewithUmer | [Read More](https://medium.com/p/ec79bcecd447) |
-| Sat, 11 Oct 2025 11:06:34 GMT | [Ebook] Scaling 1 to Million Users. The Real World Blueprint for PHP Openlitespeed & MariaDB | Rizqi Mulki | [Read More](https://medium.com/p/8a5fb6460dd6) |
-| Sat, 11 Oct 2025 11:01:04 GMT | How a Tool Sold as “Progress” Could Become the Ultimate Control System | Dipanshu Chaudhry | [Read More](https://medium.com/p/e5223e2d4124) |
-| Sat, 11 Oct 2025 10:57:34 GMT | CSRF Attacks: When Trust Backfires | Rizqi Mulki | [Read More](https://medium.com/p/ce3227f17604) |
-| Sat, 11 Oct 2025 10:56:19 GMT | How Does Google Cloud Unlock Hidden Career Opportunities? | Mohammed Numan | [Read More](https://medium.com/p/1c683a4db6d7) |
-| Sat, 11 Oct 2025 10:55:33 GMT | Smart People, Costly Mistakes: The Psychology Behind Financial Scams | Manoj Sebastian Kulatharayil | [Read More](https://medium.com/p/52a2d873499e) |
-| Sat, 11 Oct 2025 10:54:28 GMT | Beyond the Hype: Confronting the Real Security Risks of Generative AI | Janaki Gullapudi | [Read More](https://medium.com/p/3e979984a188) |
-| Sat, 11 Oct 2025 10:52:48 GMT | When Python Stopped Being a Language and Became My Therapy | Fateyaly | [Read More](https://medium.com/p/6ad3f02f8ef8) |
