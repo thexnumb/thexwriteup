@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 14:05:51 GMT | Stepping into Virtualization: A New Cybersecurity Engineer’s Journey | Muhammed Akif Kaya | [Read More](https://medium.com/p/5b694ddf1896) |
+| Sat, 11 Oct 2025 14:02:12 GMT | Part 11:(b) Understanding and Mitigating Modern Cybersecurity Vulnerabilities | Intelithics | [Read More](https://medium.com/p/5265a33faae9) |
+| Sat, 11 Oct 2025 14:02:01 GMT | Zero-Trust and Compliance — Aligning Abatis Security with Global Regulation | Abatis ABTU | [Read More](https://medium.com/p/bf94569c0fdf) |
+| Sat, 11 Oct 2025 13:59:46 GMT | Investigate Email Spoofing | devsecops | [Read More](https://medium.com/p/a9fde5b1d32f) |
+| Sat, 11 Oct 2025 13:56:50 GMT | Rethinking Your Digital Locks: 4 Surprising Truths About Account Security | Amna Arshad | [Read More](https://medium.com/p/865984db4b5f) |
+| Sat, 11 Oct 2025 13:55:44 GMT | Skynet - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/55342cddb04d) |
+| Sat, 11 Oct 2025 13:47:08 GMT | From Wireshark to GPT: How to Analyze Cyber Attacks the Smart Way | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/73437a9700dd) |
+| Sat, 11 Oct 2025 13:33:32 GMT | CCTV Camera Installation Service in Dhaka with Dahua 4 Camera Setup | optimationbd | [Read More](https://medium.com/p/6052d2027e6f) |
 | Sat, 11 Oct 2025 13:32:03 GMT | $500 BAC Bug: Unauthorized Removal of Private Pension Schemes | Abhi Sharma | [Read More](https://medium.com/p/7710dc6bbc58) |
 | Sat, 11 Oct 2025 13:19:09 GMT | Semantic Assurance: When Frameworks Begin to Think | Marko Chalupa | [Read More](https://medium.com/p/02d457c66dc4) |
 | Sat, 11 Oct 2025 13:17:48 GMT | The Silicon Pause: Mental Health, Reinvention, and India’s Tech Reckoning | Dr. Priyanka B | [Read More](https://medium.com/p/89ab5ae560e9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 08:03:18 GMT | How Simple Security Tips Can Prevent Major Breaches | Bobby Andrews | [Read More](https://medium.com/p/6f9516793fd7) |
 | Sat, 11 Oct 2025 08:01:56 GMT | The One Password to Rule Them All: Single Sign-On (SSO) I | Stephnoramafeng | [Read More](https://medium.com/p/eeb8d6e012bb) |
 | Sat, 11 Oct 2025 08:01:18 GMT | AGI by 2030: What It Is — and How It Could Reshape the Global Macro Economy | Bervice | [Read More](https://medium.com/p/a99184cf2fbc) |
-| Sat, 11 Oct 2025 07:59:23 GMT | How a Simple Message Almost Stole Everything | David SEHYEON Baek | [Read More](https://medium.com/p/7250fe3636d5) |
-| Sat, 11 Oct 2025 07:44:12 GMT | Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Xploit | [Read More](https://medium.com/p/3da45a1c91f0) |
-| Sat, 11 Oct 2025 07:42:31 GMT | How Information Technology’s Revolution Makes Our Jobs Easier Than Manual Labor | Archivum Aeternum | [Read More](https://medium.com/p/20e760f9fd80) |
-| Sat, 11 Oct 2025 07:26:18 GMT | Navigating the Layers of Enterprise Architecture Projects: A TOGAF-Informed Guide | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/9b4614a38839) |
-| Sat, 11 Oct 2025 07:10:13 GMT | Forensic Analysis and Incident Response | LinuxDev | [Read More](https://medium.com/p/9c7de45d840b) |
-| Sat, 11 Oct 2025 07:04:23 GMT | Reverse Engineering Techniques | LinuxDev | [Read More](https://medium.com/p/77214274816f) |
-| Sat, 11 Oct 2025 06:47:00 GMT | Zero Trust for Kubernetes: Implementing Service Mesh Security | Heinancabouly | [Read More](https://medium.com/p/529adb66665a) |
-| Sat, 11 Oct 2025 06:45:26 GMT | Hack The Box — Starting Point Tier 0 (Free Machines & Without Flags) | Muhammad Bilal | [Read More](https://medium.com/p/1ebcbbc08783) |
