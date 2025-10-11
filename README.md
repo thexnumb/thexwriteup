@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 05:25:44 GMT | Top 3 Dark Web Search Engines With .onion Links (2026 Edition) | adityaax | [Read More](https://medium.com/p/85119d46d81f) |
+| Sat, 11 Oct 2025 05:23:38 GMT | LetsDefend Email Analysis Challenge | R4335 | [Read More](https://medium.com/p/11afbf42fe4f) |
+| Sat, 11 Oct 2025 05:22:19 GMT | PostgreSQLDB_DigitalOcean | Yokendrakumar P | [Read More](https://medium.com/p/c7679a78acef) |
+| Sat, 11 Oct 2025 05:17:01 GMT | Five AI Cybersecurity Tools You Should Know About Right Now | Muhammad Haider Tallal | [Read More](https://medium.com/p/1985d1349a3f) |
 | Sat, 11 Oct 2025 05:05:05 GMT | HTB Login Brute Forcing (Easy) | jozzz | [Read More](https://medium.com/p/a88ade812018) |
 | Sat, 11 Oct 2025 04:55:27 GMT | Fake Bug That Made Me Question Myself | Sachin | [Read More](https://medium.com/p/e5c076fb8e27) |
 | Sat, 11 Oct 2025 04:53:46 GMT | PoC: IDOR Leads to XSS on Profile Dashboard | Jenson | [Read More](https://medium.com/p/f4356a17aea7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 18:14:50 GMT | Detour route, hopped into the Dictionary | Kevin Dimas Romero | [Read More](https://medium.com/p/113ddb6dc155) |
 | Fri, 10 Oct 2025 18:11:54 GMT | Writers Ask Questions Too | Esther Kenneth | [Read More](https://medium.com/p/9b609ebe4423) |
 | Fri, 10 Oct 2025 18:06:49 GMT | How to Lock Your Social Security Number Safely | SafeAeon Inc. | [Read More](https://medium.com/p/d1d2618bc290) |
-| Fri, 10 Oct 2025 18:06:29 GMT | Exploring Advanced Docker Security Practices | @rnab | [Read More](https://medium.com/p/71a7df7268c0) |
-| Fri, 10 Oct 2025 18:01:56 GMT | $35,000 por este fallo en GitLab — Análisis completo y lecciones reales | Gorka | [Read More](https://medium.com/p/601d5cc6a593) |
-| Fri, 10 Oct 2025 17:58:02 GMT | From Junior to Senior Security Engineer: Skills Nobody Tells You About | JSOC IT BLOG | [Read More](https://medium.com/p/2b0ecfab5782) |
-| Fri, 10 Oct 2025 17:56:59 GMT | Nashik Cyber Fraud E-Challan App Targets Banks & Whats App Users | Lumiversesolution | [Read More](https://medium.com/p/7b819ef688e7) |
