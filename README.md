@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 04:27:49 GMT | How to Keep Your Password Secured: 7 Simple Tips | Rashadul Islam | [Read More](https://medium.com/p/43f8bb99b262) |
+| Sat, 11 Oct 2025 04:24:21 GMT | When humans dream and AI learns — your growth is built in between | Saketh Raja Koppula | [Read More](https://medium.com/p/2ae448426c4b) |
+| Sat, 11 Oct 2025 04:24:08 GMT | Ensure Online Protection with Secure Internet Gateway Solutions | TEAM IT AU | [Read More](https://medium.com/p/4c7846de3195) |
 | Sat, 11 Oct 2025 04:14:35 GMT | The Hidden Side of Cybersecurity No One Talks About | Muhummad Zaki | [Read More](https://medium.com/p/8b838eb97afd) |
 | Sat, 11 Oct 2025 04:09:30 GMT | Strengthen Digital Protection Effectively with Advanced Cyber Security Services | TEAM IT AU | [Read More](https://medium.com/p/689d337bcf22) |
 | Sat, 11 Oct 2025 04:09:04 GMT | Tải MMLive Mod APK (Unlock Phòng VIP) v1.2.6 | MODHELLO | [Read More](https://medium.com/p/db035935e0a4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 17:52:46 GMT | Cybersecurity News Review — Week 41 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/77a157520ef4) |
 | Fri, 10 Oct 2025 17:52:39 GMT | The Linux Security Journey — LVBS (Linux Virtualization Based Security) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e80e8c15e186) |
 | Fri, 10 Oct 2025 17:51:04 GMT | Fundamentos esenciales para la seguridad en redes: ¿Qué es el perímetro de red y cómo protegerlo? | Tiziano Mass | [Read More](https://medium.com/p/2eb4873a8e90) |
-| Fri, 10 Oct 2025 17:49:33 GMT | When My Face Was All Over the Internet | Pi-infinita | [Read More](https://medium.com/p/cb6a68f1892c) |
-| Fri, 10 Oct 2025 17:49:27 GMT | Room (104): MALWARE! | blackXmask | [Read More](https://medium.com/p/9e3953659705) |
-| Fri, 10 Oct 2025 17:35:20 GMT | Splunk for Beginners: How I Started Learning Log Analysis | Hirad Showghi | [Read More](https://medium.com/p/43147088fbdc) |
