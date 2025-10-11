@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 08:38:57 GMT | Mastering Scoping: The Key To Effective Penetration Testing | Redfox Security | [Read More](https://medium.com/p/ece0cd8513c6) |
+| Sat, 11 Oct 2025 08:26:24 GMT | Windows Exposed: Security Vulnerabilities | Windows Guide | [Read More](https://medium.com/p/c48b04d70865) |
+| Sat, 11 Oct 2025 08:19:18 GMT | Windows Deep Dive: Exploring the Registry | Windows Guide | [Read More](https://medium.com/p/e062be63c0f8) |
 | Sat, 11 Oct 2025 08:15:35 GMT | The Pitfalls We’ve All Fallen Into: Lessons to Avoid Costly Mistakes in Enterprise R&D | Uniorange CRDE | [Read More](https://medium.com/p/398ed6dea931) |
 | Sat, 11 Oct 2025 08:14:47 GMT | Systems That Dream — Hacking the Mind, Monetizing the Signal | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c9e6e89d3823) |
 | Sat, 11 Oct 2025 08:09:51 GMT | Struggling to Scale Your Startup? Here’s How IT Companies in Dubai UAE Can Help! | Nithish Saitechdm | [Read More](https://medium.com/p/ec5568c7031c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 20:21:12 GMT | How to Recover Permanently Deleted Files | ze4rch1tect | [Read More](https://medium.com/p/97877f54af60) |
 | Fri, 10 Oct 2025 20:18:40 GMT | VPN and Web3 in Plain English: Why a Hybrid VPN Is the Bridge to Decentralization | WEB3 Blog | [Read More](https://medium.com/p/d48ff106e9da) |
 | Fri, 10 Oct 2025 20:07:59 GMT | How I Almost Fell for a Discord Impersonation Scam — And What It Taught Me About Social… | Ahmed hossam | [Read More](https://medium.com/p/e1e66cf5001d) |
-| Fri, 10 Oct 2025 19:58:48 GMT | SOC Automation Project: Implementing SOAR for Threat Detection and Response | Mali Carter | [Read More](https://medium.com/p/f619a553721c) |
-| Fri, 10 Oct 2025 19:56:44 GMT | How SPF Checkers Are Unknowingly Exposing Websites to XSS Attacks | D Johnston | [Read More](https://medium.com/p/faeff947bfa9) |
-| Fri, 10 Oct 2025 19:53:34 GMT | How Much Can a Stranger Learn About You in 5 Minutes? | Samirah A.O | [Read More](https://medium.com/p/04b6b29e6e89) |
