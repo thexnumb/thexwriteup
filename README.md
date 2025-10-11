@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 05:05:05 GMT | HTB Login Brute Forcing (Easy) | jozzz | [Read More](https://medium.com/p/a88ade812018) |
+| Sat, 11 Oct 2025 04:55:27 GMT | Fake Bug That Made Me Question Myself | Sachin | [Read More](https://medium.com/p/e5c076fb8e27) |
+| Sat, 11 Oct 2025 04:53:46 GMT | PoC: IDOR Leads to XSS on Profile Dashboard | Jenson | [Read More](https://medium.com/p/f4356a17aea7) |
+| Sat, 11 Oct 2025 04:47:23 GMT | Best Practices for Managing Configuration in Spring Boot. | Rahul Kumar | [Read More](https://medium.com/p/083e518be36f) |
+| Sat, 11 Oct 2025 04:36:20 GMT | The Digital Age Made Us Connected and Completely Alone | The Observer | [Read More](https://medium.com/p/48a8126f1ff6) |
 | Sat, 11 Oct 2025 04:27:49 GMT | How to Keep Your Password Secured: 7 Simple Tips | Rashadul Islam | [Read More](https://medium.com/p/43f8bb99b262) |
 | Sat, 11 Oct 2025 04:24:21 GMT | When humans dream and AI learns — your growth is built in between | Saketh Raja Koppula | [Read More](https://medium.com/p/2ae448426c4b) |
 | Sat, 11 Oct 2025 04:24:08 GMT | Ensure Online Protection with Secure Internet Gateway Solutions | TEAM IT AU | [Read More](https://medium.com/p/4c7846de3195) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 18:01:56 GMT | $35,000 por este fallo en GitLab — Análisis completo y lecciones reales | Gorka | [Read More](https://medium.com/p/601d5cc6a593) |
 | Fri, 10 Oct 2025 17:58:02 GMT | From Junior to Senior Security Engineer: Skills Nobody Tells You About | JSOC IT BLOG | [Read More](https://medium.com/p/2b0ecfab5782) |
 | Fri, 10 Oct 2025 17:56:59 GMT | Nashik Cyber Fraud E-Challan App Targets Banks & Whats App Users | Lumiversesolution | [Read More](https://medium.com/p/7b819ef688e7) |
-| Fri, 10 Oct 2025 17:56:36 GMT | Is Ethical Hacking Dead? The Truth Nobody Talks About | Vijay Kumar Gupta | [Read More](https://medium.com/p/5655aaddef90) |
-| Fri, 10 Oct 2025 17:56:34 GMT | From Nothing to Smart Contract Security — 2 Solidity Audits in One Week | Manasia Nicolas | [Read More](https://medium.com/p/0a093e7e01c2) |
-| Fri, 10 Oct 2025 17:52:46 GMT | Cybersecurity News Review — Week 41 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/77a157520ef4) |
-| Fri, 10 Oct 2025 17:52:39 GMT | The Linux Security Journey — LVBS (Linux Virtualization Based Security) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e80e8c15e186) |
-| Fri, 10 Oct 2025 17:51:04 GMT | Fundamentos esenciales para la seguridad en redes: ¿Qué es el perímetro de red y cómo protegerlo? | Tiziano Mass | [Read More](https://medium.com/p/2eb4873a8e90) |
