@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 00:49:20 GMT | CSRF Where to Look | Ikajakam | [Read More](https://medium.com/p/918d16ac4862) |
+| Sat, 11 Oct 2025 00:32:18 GMT | Cold Feet | Paula Lechten | [Read More](https://medium.com/p/12557d2aa6c0) |
+| Sat, 11 Oct 2025 00:30:24 GMT | Shifting Theory of Constraints in Cybersecurity | Geoji Paul | [Read More](https://medium.com/p/f0bd6bea33e2) |
+| Sat, 11 Oct 2025 00:28:51 GMT | ️PROTECTING YOUR DIGITAL SELF…BEHIND THE SCREEN | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/e5507a2be28c) |
+| Sat, 11 Oct 2025 00:28:47 GMT | Google Dorking for Beginners: The Search Tricks Investigators Actually Use | Aj | [Read More](https://medium.com/p/0fa98cfef5f4) |
+| Sat, 11 Oct 2025 00:23:31 GMT | The Authentication Mistake That Could Cost You Everything (And How to Fix It) | Wasif Balol | [Read More](https://medium.com/p/59bbfde1c522) |
+| Sat, 11 Oct 2025 00:02:00 GMT | GetAllUrls (gau): The Detector of Old and Forgotten Endpoints in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/8f8a40a92606) |
+| Sat, 11 Oct 2025 00:01:02 GMT | CAPA: The Basics - THM | Isiah | [Read More](https://medium.com/p/ecc3ef816ed3) |
 | Fri, 10 Oct 2025 23:30:45 GMT | How NIST Picked the Post-Quantum Cryptography Winners — and Why It Matters | Piyush | [Read More](https://medium.com/p/c08c8c98d1e6) |
 | Fri, 10 Oct 2025 23:20:41 GMT | FlagYard — OhMycURL - Web Exploitation - CTF Challenge Writeup | Xyph3ria | [Read More](https://medium.com/p/d4842f25febc) |
 | Fri, 10 Oct 2025 23:18:22 GMT | The Shortest Vector Problem: The Hard Math Powering Post-Quantum Cryptography | Piyush | [Read More](https://medium.com/p/0081d598eae4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 15:54:47 GMT | How to Charge a Laptop Properly: Should It Be On or Off? | Wulansaf | [Read More](https://medium.com/p/7c3d9e0c94ab) |
 | Fri, 10 Oct 2025 15:48:25 GMT | Intent-Based Access Control for Agentic AI: Securing the Next Chapter in Cybersecurity | Abhilash | [Read More](https://medium.com/p/96544a94dea6) |
 | Fri, 10 Oct 2025 15:39:39 GMT | PART3:GitOps at Scale: Enterprise CI/CD Pipeline for KubernetesComplete Guide to Production-Grade… | Salwan Mohamed | [Read More](https://medium.com/p/6d76465b790e) |
-| Fri, 10 Oct 2025 15:34:51 GMT | North Korean Hackers Break Record With $2 Billion Crypto Heist in 2025 | Durgesh yadav | [Read More](https://medium.com/p/7fd36c03ec6e) |
-| Fri, 10 Oct 2025 15:31:56 GMT | SQL Injection: Determining Column Count | Cipher0x00 | [Read More](https://medium.com/p/aba8630fedb2) |
-| Fri, 10 Oct 2025 15:31:56 GMT | SQL Injection: Oracle Database Enumeration | Cipher0x00 | [Read More](https://medium.com/p/578dfc281c70) |
-| Fri, 10 Oct 2025 15:26:46 GMT | SQL Injection: Database Enumeration on Non-Oracle Databases | Cipher0x00 | [Read More](https://medium.com/p/414b6e221cc3) |
-| Fri, 10 Oct 2025 15:26:45 GMT | SQL Injection UNION Attack — MySQL/Microsoft Version | Cipher0x00 | [Read More](https://medium.com/p/b725dd640d18) |
-| Fri, 10 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/c0f3ba874406) |
-| Fri, 10 Oct 2025 15:13:36 GMT | Demystifying Diffie-Hellman: The Mathematical Foundations of Secure Key Exchange | Sumit Sah | [Read More](https://medium.com/p/29b531c9b805) |
-| Fri, 10 Oct 2025 15:11:09 GMT | Research Report: The State of Technology (2025 Edition) | The Deep Frame | [Read More](https://medium.com/p/0aadc2abb23a) |
