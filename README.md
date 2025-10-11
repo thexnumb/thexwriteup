@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 03:38:17 GMT | 10 Simple Food Swaps That Improve Mood and Boost Daily Energy | sehrish faheem | [Read More](https://medium.com/p/3ba83eddcb39) |
+| Sat, 11 Oct 2025 03:36:45 GMT | Blind SQL Injection: Conditional Responses | Cipher0x00 | [Read More](https://medium.com/p/06baaa3f10d8) |
+| Sat, 11 Oct 2025 03:34:50 GMT | End-of-Life (EOL) Updates: Understanding the Transition and Its Impact on Software | sehrish faheem | [Read More](https://medium.com/p/225ca7a00f95) |
+| Sat, 11 Oct 2025 03:32:17 GMT | Oyster_MSTeamsSetup.exe | Binary_Botanist | [Read More](https://medium.com/p/d96bee0ea46e) |
+| Sat, 11 Oct 2025 03:32:04 GMT | Advanced Nuclei Templates: How to Write Target‑Specific Scans | Đeepanshu | [Read More](https://medium.com/p/acedaaf0742e) |
+| Sat, 11 Oct 2025 03:30:08 GMT | Tải Hack Madout2 (Full Tiền, Kim Cương, Mod Menu) v17.06 | MODLMH | [Read More](https://medium.com/p/1cda115e5195) |
+| Sat, 11 Oct 2025 03:29:34 GMT | Why Toyota Needs to Watch Its Own Data on the Dark Web — Before the Next Breach | David SEHYEON Baek | [Read More](https://medium.com/p/050df3c63e97) |
+| Sat, 11 Oct 2025 03:25:35 GMT | Deepfake Detection and Digital Identity Protection: The New Frontier in Cyber Defense | Cyber Fortress | [Read More](https://medium.com/p/fe4762388162) |
+| Sat, 11 Oct 2025 03:22:14 GMT | The Digital Panopticon: How Instagram’s Map Feature Turns 'Explore' Into Public Exposure : | NitinKumar Shrimali | [Read More](https://medium.com/p/61c4a21e8f86) |
 | Sat, 11 Oct 2025 03:19:01 GMT | Wireshark Filters for Threat Detection — Medium Writeup | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/43fd4e452ec0) |
 | Sat, 11 Oct 2025 03:17:41 GMT | Quantum Readiness: Preparing Encryption for the Post-Quantum Era | Cyber Fortress | [Read More](https://medium.com/p/0ce251305aac) |
 | Sat, 11 Oct 2025 03:14:34 GMT | Segurança de Aplicações em Loop | Gabrielly Alves | [Read More](https://medium.com/p/796c1ae6f0a7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 16:57:37 GMT | How to Sanitize Files with CDR Technology in Python | Cloudmersive | [Read More](https://medium.com/p/61b28d0a9624) |
 | Fri, 10 Oct 2025 16:53:54 GMT | HawkEye Lab Cyberdefenders WriteUp | Golsaf Bensekhar | [Read More](https://medium.com/p/8e75fe5329a0) |
 | Fri, 10 Oct 2025 16:52:39 GMT | DevSecOps in Small .NET Teams: From ‘Just Ship It’ to Ship It Securely (2025 Study Insights) | Brian Mora | [Read More](https://medium.com/p/b4a06d8b8711) |
-| Fri, 10 Oct 2025 16:52:02 GMT | The Danger of Using Old Code: Vulnerable and Outdated Components in the OWASP Top 10 | CyberSenpai | [Read More](https://medium.com/p/5d08d9eaf253) |
-| Fri, 10 Oct 2025 16:47:40 GMT | Windows Forensics: Investigating the System | Windows Guide | [Read More](https://medium.com/p/0a2342385f85) |
-| Fri, 10 Oct 2025 16:41:19 GMT | How to Generate and Install an SSL Certificate in cPanel | Praveen Xavier | [Read More](https://medium.com/p/062e31e297fc) |
-| Fri, 10 Oct 2025 16:34:09 GMT | কিশোর বয়সের শিক্ষা: জীবন, সম্পর্ক ও আত্মবিশ্বাস | Mr. Safin | [Read More](https://medium.com/p/37ed7f65dc67) |
-| Fri, 10 Oct 2025 16:29:57 GMT | Episode 4: Fundamentals Of Cybersecurity — Security Model | Yash Kitey | [Read More](https://medium.com/p/a9ceb5f73bac) |
-| Fri, 10 Oct 2025 16:29:08 GMT | The Ultimate Beginner’s Guide to Bug Bounty Hunting | Aj | [Read More](https://medium.com/p/7951c7b6e037) |
-| Fri, 10 Oct 2025 16:28:18 GMT | CVE-2025–49844: The Flaw That Taught Redis to Talk to the Operating System | Rodrigo Gutierrez | [Read More](https://medium.com/p/2f2fe00d8702) |
-| Fri, 10 Oct 2025 16:24:56 GMT | Why Men Deserve the Freedom to Be Vulnerable | Adeola Odubajo ~ THE World-Renowned Storyteller | [Read More](https://medium.com/p/802f8a4c9828) |
-| Fri, 10 Oct 2025 16:24:30 GMT | — How you can… | Mahim$ec | [Read More](https://medium.com/p/36c27a30eee1) |
