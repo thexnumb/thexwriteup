@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 07:10:13 GMT | Forensic Analysis and Incident Response | LinuxDev | [Read More](https://medium.com/p/9c7de45d840b) |
+| Sat, 11 Oct 2025 07:04:23 GMT | Reverse Engineering Techniques | LinuxDev | [Read More](https://medium.com/p/77214274816f) |
+| Sat, 11 Oct 2025 06:47:00 GMT | Zero Trust for Kubernetes: Implementing Service Mesh Security | Heinancabouly | [Read More](https://medium.com/p/529adb66665a) |
+| Sat, 11 Oct 2025 06:45:26 GMT | Hack The Box — Starting Point Tier 0 (Free Machines & Without Flags) | Muhammad Bilal | [Read More](https://medium.com/p/1ebcbbc08783) |
 | Sat, 11 Oct 2025 06:39:30 GMT | Top 5 WordPress 2FA Plugins for Enhanced Security in 2025 | Smit Pipaliya | [Read More](https://medium.com/p/fa60d6187f72) |
 | Sat, 11 Oct 2025 06:27:09 GMT | Threat Intelligence Report: The Silent Epidemic of Exposed Docker APIs | ZoomEye | [Read More](https://medium.com/p/4b59d3eba1e0) |
 | Sat, 11 Oct 2025 06:26:43 GMT | Why the Western World Can’t Talk About Health Anymore | Eleanorkojan | [Read More](https://medium.com/p/7499a7ab2705) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 19:03:24 GMT | Role of Threat Detection and Response (TDR) in Cybersecurity | NetWitness | [Read More](https://medium.com/p/4fbe70ef8e33) |
 | Fri, 10 Oct 2025 19:02:03 GMT | Using Contacts in Snowflake: A Strategic Guide to Schema-Level Communication | Rajiv Gupta | [Read More](https://medium.com/p/0b20b5407344) |
 | Fri, 10 Oct 2025 18:57:57 GMT | Strengthening Hybrid Cloud Security: Protecting Data Across Environments | SafeAeon Inc. | [Read More](https://medium.com/p/223bb7a78943) |
-| Fri, 10 Oct 2025 18:57:12 GMT | “Breaking the headache Jail: My Journey Through JailCTF 2025” | Pallavi Naga | [Read More](https://medium.com/p/f761a06c2f9e) |
-| Fri, 10 Oct 2025 18:54:24 GMT | Vigilance: Our Shared Responsibility | Mariyam Fatima | [Read More](https://medium.com/p/bca4b8f34cd2) |
-| Fri, 10 Oct 2025 18:52:26 GMT | JaWT Scratchpad — picoCTF 2025 | abdelruhmanaskar | [Read More](https://medium.com/p/481e7b8144ea) |
-| Fri, 10 Oct 2025 18:50:18 GMT | Beyond the Firewall: How Math and AI Are Fighting Social Engineering Attacks | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/671185f8e9e7) |
