@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 03:19:01 GMT | Wireshark Filters for Threat Detection — Medium Writeup | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/43fd4e452ec0) |
+| Sat, 11 Oct 2025 03:17:41 GMT | Quantum Readiness: Preparing Encryption for the Post-Quantum Era | Cyber Fortress | [Read More](https://medium.com/p/0ce251305aac) |
+| Sat, 11 Oct 2025 03:14:34 GMT | Segurança de Aplicações em Loop | Gabrielly Alves | [Read More](https://medium.com/p/796c1ae6f0a7) |
+| Sat, 11 Oct 2025 03:13:19 GMT | FORENSIC INTELLIGENCE REPORT | Verity | [Read More](https://medium.com/p/ce1990092f63) |
+| Sat, 11 Oct 2025 03:12:03 GMT | Human Factor 2.0: Why Employee Awareness Is Still the Weakest Link in 2025 | Cyber Fortress | [Read More](https://medium.com/p/79baceec8044) |
+| Sat, 11 Oct 2025 02:50:38 GMT | EDR Evasion with Python: Bypassing Modern Endpoint Detection Systems | Maxwell Cross | [Read More](https://medium.com/p/b7ca9047849a) |
 | Sat, 11 Oct 2025 02:27:17 GMT | Cybersecurity Project: Step-by-Step OPNsense Firewall Deployment on VirtualBox (Recommended… | Rupesh Sharma | [Read More](https://medium.com/p/da57bc13725b) |
 | Sat, 11 Oct 2025 02:23:37 GMT | Bridging creativity and intelligence through applied AI. | Codyharshbarger | [Read More](https://medium.com/p/985dbed400db) |
 | Sat, 11 Oct 2025 01:45:44 GMT | From Reactive to Proactive: How Modern Teams Are Redefining Cyber Defense | Michael Preston | [Read More](https://medium.com/p/d2b633c60d93) |
@@ -93,6 +99,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 17:12:57 GMT | Dark Web Threat Hunting 101: Manually Identifying Data Exposures | Onurcan Genç | [Read More](https://medium.com/p/61b2808a2884) |
 | Fri, 10 Oct 2025 17:10:17 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/da8874944345) |
 | Fri, 10 Oct 2025 17:05:27 GMT | Smart Habits for a Safer Digital Life | Saad's insight | [Read More](https://medium.com/p/2987058c6f54) |
+| Fri, 10 Oct 2025 17:01:46 GMT | Como a Inteligência Artificial está mudando o papel do programador | Frederico S | [Read More](https://medium.com/p/71d2b8474313) |
 | Fri, 10 Oct 2025 16:57:37 GMT | How to Sanitize Files with CDR Technology in Python | Cloudmersive | [Read More](https://medium.com/p/61b28d0a9624) |
 | Fri, 10 Oct 2025 16:53:54 GMT | HawkEye Lab Cyberdefenders WriteUp | Golsaf Bensekhar | [Read More](https://medium.com/p/8e75fe5329a0) |
 | Fri, 10 Oct 2025 16:52:39 GMT | DevSecOps in Small .NET Teams: From ‘Just Ship It’ to Ship It Securely (2025 Study Insights) | Brian Mora | [Read More](https://medium.com/p/b4a06d8b8711) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 16:28:18 GMT | CVE-2025–49844: The Flaw That Taught Redis to Talk to the Operating System | Rodrigo Gutierrez | [Read More](https://medium.com/p/2f2fe00d8702) |
 | Fri, 10 Oct 2025 16:24:56 GMT | Why Men Deserve the Freedom to Be Vulnerable | Adeola Odubajo ~ THE World-Renowned Storyteller | [Read More](https://medium.com/p/802f8a4c9828) |
 | Fri, 10 Oct 2025 16:24:30 GMT | — How you can… | Mahim$ec | [Read More](https://medium.com/p/36c27a30eee1) |
-| Fri, 10 Oct 2025 16:24:10 GMT | Walkthrough THM : Corridor | Telynor | [Read More](https://medium.com/p/65b4ef3221d2) |
-| Fri, 10 Oct 2025 16:22:29 GMT | “CamoLeak” — How GitHub Copilot Chat Became a Covert Exfiltration Channel | gm0 | [Read More](https://medium.com/p/ce92baa41a7a) |
-| Fri, 10 Oct 2025 16:17:06 GMT | How Data Flows: Breaking Down the Roles of Servers, Switches, Routers, and Other Core Network… | Paradise technologies Inc | [Read More](https://medium.com/p/9c25c09628d3) |
-| Fri, 10 Oct 2025 16:10:13 GMT | The Hidden Side of AI Security | Bhavesh Mandhan | [Read More](https://medium.com/p/3dcf8bc3a43f) |
-| Fri, 10 Oct 2025 16:04:35 GMT | Get Addicted to Cybersecurity! | Shahzaib | [Read More](https://medium.com/p/8fe816f703d8) |
-| Fri, 10 Oct 2025 16:02:07 GMT | 7 Multi-Region Secrets Patterns That Stay Fast | Thinking Loop | [Read More](https://medium.com/p/59b30d2940ae) |
-| Fri, 10 Oct 2025 16:01:35 GMT | Neural Network Nightmare: How Image Recognition APIs Were Secretly Spying on Everyone | Iski | [Read More](https://medium.com/p/f42e379999c5) |
