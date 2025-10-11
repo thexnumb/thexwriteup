@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 12:29:21 GMT | How Much Information Is Too Much Information for Your AI Tool? | Rebecca Ihenyen | [Read More](https://medium.com/p/8d4aab49940c) |
+| Sat, 11 Oct 2025 12:26:51 GMT | Secure Kubernetes Secrets Management with Sealed Secrets: A Comprehensive Guide | ebenamor | [Read More](https://medium.com/p/c2c549c78744) |
+| Sat, 11 Oct 2025 12:26:43 GMT | Zero-Downtime JWKS Rotation for FastAPI (Top 5 Moves) | Thinking Loop | [Read More](https://medium.com/p/6162db035d12) |
+| Sat, 11 Oct 2025 12:26:07 GMT | Stay protected 24/7 with our Remote CCTV Monitoring service! | Visual Monitoring Solutions | [Read More](https://medium.com/p/ef2b580442d3) |
+| Sat, 11 Oct 2025 12:24:19 GMT | Retro VM Walkthrough | Spookz | [Read More](https://medium.com/p/7cb7c61246c0) |
+| Sat, 11 Oct 2025 12:14:11 GMT | Her 39 Saniyede Bir Siber Saldırı: Kişisel Verilerinizi Nasıl Koruyabilirsiniz? | t. | [Read More](https://medium.com/p/85eb6b86436e) |
+| Sat, 11 Oct 2025 12:14:01 GMT | How I Made $10,000 a Month with AI Bots in 2025 | James | [Read More](https://medium.com/p/f41d0ac119a1) |
+| Sat, 11 Oct 2025 12:07:10 GMT | Penetration Testing Course for Beginners with Certification - Start a Career in Cybersecurity | cyber security Updates | [Read More](https://medium.com/p/32b36c5ae460) |
+| Sat, 11 Oct 2025 12:01:53 GMT | Требование: Самозапрет на звонки с иностранных номеров | baramburum | [Read More](https://medium.com/p/407f3aecddc7) |
+| Sat, 11 Oct 2025 12:01:49 GMT | Your personal mini-SOC in Google Sheets: how to monitor domain security on autopilot | Igor S. Bederov | [Read More](https://medium.com/p/f599529d77ed) |
+| Sat, 11 Oct 2025 12:01:46 GMT | DockerLabs Writeup — ShowTime (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c4fc22d8cb80) |
+| Sat, 11 Oct 2025 12:01:42 GMT | Beyond “No to War”: How Japan’s Pacifism Became an Invitation to Aggression | fmi A. | [Read More](https://medium.com/p/ec20d9d3c534) |
+| Sat, 11 Oct 2025 11:52:44 GMT | The Day I Stopped Googling Hacking Tools and Built My Own in Python | Muhummad Zaki | [Read More](https://medium.com/p/d5584d708939) |
+| Sat, 11 Oct 2025 11:48:15 GMT | Security and Performance Aspects of Firewalld Advanced Rules | Eren Cankut Uysal | [Read More](https://medium.com/p/449c824a0950) |
+| Sat, 11 Oct 2025 11:44:57 GMT | Basics Of Reverse Shell | Priyanshu Singh | [Read More](https://medium.com/p/290eac5ab9a5) |
+| Sat, 11 Oct 2025 11:43:27 GMT | The Silent Death of SAS Talon—Streaming AI for Cybersecurity | Altan Atabarezz | [Read More](https://medium.com/p/7fa286926b6c) |
+| Sat, 11 Oct 2025 11:39:18 GMT | Hack The Box — Certificate Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/fa6d5b22c4b8) |
+| Sat, 11 Oct 2025 11:38:24 GMT | Energy, Data, and Intelligence: The Next-Generation Cyber Security Architecture | Mustafa Ergen | [Read More](https://medium.com/p/5c96c8f67063) |
 | Sat, 11 Oct 2025 11:32:27 GMT | Can AI Keep Your Secrets? A New Approach to Digital Privacy | BiG MaN | [Read More](https://medium.com/p/f40b900dda2f) |
 | Sat, 11 Oct 2025 11:30:16 GMT | Unveiling the Safer Side of Crypto: Discover Stability Without Surrendering Possibilities | Tony Kenler | [Read More](https://medium.com/p/c989df9f253b) |
 | Sat, 11 Oct 2025 11:28:19 GMT | 2025 Cybersecurity Career Hack: Your Ultimate Step-by-Step Guide to Becoming a Cybersecurity Genius! | Testleaf | [Read More](https://medium.com/p/15e315fa9db4) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 05:22:19 GMT | PostgreSQLDB_DigitalOcean | Yokendrakumar P | [Read More](https://medium.com/p/c7679a78acef) |
 | Sat, 11 Oct 2025 05:17:01 GMT | Five AI Cybersecurity Tools You Should Know About Right Now | Muhammad Haider Tallal | [Read More](https://medium.com/p/1985d1349a3f) |
 | Sat, 11 Oct 2025 05:05:05 GMT | HTB Login Brute Forcing (Easy) | jozzz | [Read More](https://medium.com/p/a88ade812018) |
-| Sat, 11 Oct 2025 04:55:27 GMT | Fake Bug That Made Me Question Myself | Sachin | [Read More](https://medium.com/p/e5c076fb8e27) |
-| Sat, 11 Oct 2025 04:53:46 GMT | PoC: IDOR Leads to XSS on Profile Dashboard | Jenson | [Read More](https://medium.com/p/f4356a17aea7) |
-| Sat, 11 Oct 2025 04:47:23 GMT | Best Practices for Managing Configuration in Spring Boot. | Rahul Kumar | [Read More](https://medium.com/p/083e518be36f) |
-| Sat, 11 Oct 2025 04:36:20 GMT | The Digital Age Made Us Connected and Completely Alone | The Observer | [Read More](https://medium.com/p/48a8126f1ff6) |
-| Sat, 11 Oct 2025 04:27:49 GMT | How to Keep Your Password Secured: 7 Simple Tips | Rashadul Islam | [Read More](https://medium.com/p/43f8bb99b262) |
-| Sat, 11 Oct 2025 04:24:21 GMT | When humans dream and AI learns — your growth is built in between | Saketh Raja Koppula | [Read More](https://medium.com/p/2ae448426c4b) |
-| Sat, 11 Oct 2025 04:24:08 GMT | Ensure Online Protection with Secure Internet Gateway Solutions | TEAM IT AU | [Read More](https://medium.com/p/4c7846de3195) |
-| Sat, 11 Oct 2025 04:14:35 GMT | The Hidden Side of Cybersecurity No One Talks About | Muhummad Zaki | [Read More](https://medium.com/p/8b838eb97afd) |
-| Sat, 11 Oct 2025 04:09:30 GMT | Strengthen Digital Protection Effectively with Advanced Cyber Security Services | TEAM IT AU | [Read More](https://medium.com/p/689d337bcf22) |
-| Sat, 11 Oct 2025 04:09:04 GMT | Tải MMLive Mod APK (Unlock Phòng VIP) v1.2.6 | MODHELLO | [Read More](https://medium.com/p/db035935e0a4) |
-| Sat, 11 Oct 2025 04:07:17 GMT | My First Steps Understanding the CIA Triad in Cybersecurity | Thaís Lima | [Read More](https://medium.com/p/e6e25d2d7706) |
-| Sat, 11 Oct 2025 03:59:01 GMT | map() vs forEach() in JavaScript — When to Use What? (Every Developer Must Know!) | Tech With Curly Girl | [Read More](https://medium.com/p/72340d1fc320) |
-| Sat, 11 Oct 2025 03:56:52 GMT | Tải Hack Zombie Tsunami (Vô Hạn Kim Cương, Full Tất Cả) V4.6.7 | BANDISHARE | [Read More](https://medium.com/p/3118e0dbc1cf) |
-| Sat, 11 Oct 2025 03:55:48 GMT | CISSP Success Toolkit — Batch 45: Your Gateway to Cybersecurity Mastery | Cybernous Infosec consulting | [Read More](https://medium.com/p/fd63c3f168ff) |
-| Sat, 11 Oct 2025 03:42:23 GMT | The Dark Side of Short Links: How They Can Hurt Your Credibility Online | Level Up with Ashutosh | [Read More](https://medium.com/p/549f8048b42a) |
-| Sat, 11 Oct 2025 03:38:17 GMT | 10 Simple Food Swaps That Improve Mood and Boost Daily Energy | sehrish faheem | [Read More](https://medium.com/p/3ba83eddcb39) |
-| Sat, 11 Oct 2025 03:36:45 GMT | Blind SQL Injection: Conditional Responses | Cipher0x00 | [Read More](https://medium.com/p/06baaa3f10d8) |
-| Sat, 11 Oct 2025 03:34:50 GMT | End-of-Life (EOL) Updates: Understanding the Transition and Its Impact on Software | sehrish faheem | [Read More](https://medium.com/p/225ca7a00f95) |
