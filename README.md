@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 07:26:18 GMT | Navigating the Layers of Enterprise Architecture Projects: A TOGAF-Informed Guide | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/9b4614a38839) |
 | Sat, 11 Oct 2025 07:10:13 GMT | Forensic Analysis and Incident Response | LinuxDev | [Read More](https://medium.com/p/9c7de45d840b) |
 | Sat, 11 Oct 2025 07:04:23 GMT | Reverse Engineering Techniques | LinuxDev | [Read More](https://medium.com/p/77214274816f) |
 | Sat, 11 Oct 2025 06:47:00 GMT | Zero Trust for Kubernetes: Implementing Service Mesh Security | Heinancabouly | [Read More](https://medium.com/p/529adb66665a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 19:07:51 GMT | Build a Reusable Image Upload & Delete Helper in Laravel for Any Project | Lalon Hossain | [Read More](https://medium.com/p/727d029a8a9a) |
 | Fri, 10 Oct 2025 19:03:24 GMT | Role of Threat Detection and Response (TDR) in Cybersecurity | NetWitness | [Read More](https://medium.com/p/4fbe70ef8e33) |
 | Fri, 10 Oct 2025 19:02:03 GMT | Using Contacts in Snowflake: A Strategic Guide to Schema-Level Communication | Rajiv Gupta | [Read More](https://medium.com/p/0b20b5407344) |
-| Fri, 10 Oct 2025 18:57:57 GMT | Strengthening Hybrid Cloud Security: Protecting Data Across Environments | SafeAeon Inc. | [Read More](https://medium.com/p/223bb7a78943) |
