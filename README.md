@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 17:04:57 GMT | Rust and the Linux Rewrite Problem | Random Access | [Read More](https://medium.com/p/b60d3345b0b9) |
+| Sat, 11 Oct 2025 16:57:03 GMT | How I’m Secure In The Apple Ecosystem : Lock Your Life in Just 45 Minutes | Berker Ceylan | [Read More](https://medium.com/p/9ed628bdf151) |
+| Sat, 11 Oct 2025 16:50:59 GMT | The Cyber Threats Redefining 2025: When AI Turns Against Us | Mhd fayz | [Read More](https://medium.com/p/622d13bdde8f) |
+| Sat, 11 Oct 2025 16:45:41 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Minutes to Fix It. | Irene Arvydas Ranonis | [Read More](https://medium.com/p/2118b31c7a8f) |
 | Sat, 11 Oct 2025 16:37:15 GMT | The Laravel Encryption Trick That Stops Hackers Cold | Sadique Ali | [Read More](https://medium.com/p/2a271c2c88eb) |
 | Sat, 11 Oct 2025 16:32:00 GMT | Monday Monitor — TryHackMe | Alan | [Read More](https://medium.com/p/eed9a6157435) |
 | Sat, 11 Oct 2025 16:31:11 GMT | Enterprise-Grade Linux Deployments | LinuxDev | [Read More](https://medium.com/p/123916d63273) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 12:01:42 GMT | Beyond “No to War”: How Japan’s Pacifism Became an Invitation to Aggression | fmi A. | [Read More](https://medium.com/p/ec20d9d3c534) |
 | Sat, 11 Oct 2025 11:52:44 GMT | The Day I Stopped Googling Hacking Tools and Built My Own in Python | Muhummad Zaki | [Read More](https://medium.com/p/d5584d708939) |
 | Sat, 11 Oct 2025 11:48:15 GMT | Security and Performance Aspects of Firewalld Advanced Rules | Eren Cankut Uysal | [Read More](https://medium.com/p/449c824a0950) |
-| Sat, 11 Oct 2025 11:44:57 GMT | Basics Of Reverse Shell | Priyanshu Singh | [Read More](https://medium.com/p/290eac5ab9a5) |
-| Sat, 11 Oct 2025 11:43:27 GMT | The Silent Death of SAS Talon—Streaming AI for Cybersecurity | Altan Atabarezz | [Read More](https://medium.com/p/7fa286926b6c) |
-| Sat, 11 Oct 2025 11:39:18 GMT | Hack The Box — Certificate Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/fa6d5b22c4b8) |
-| Sat, 11 Oct 2025 11:38:24 GMT | Energy, Data, and Intelligence: The Next-Generation Cyber Security Architecture | Mustafa Ergen | [Read More](https://medium.com/p/5c96c8f67063) |
