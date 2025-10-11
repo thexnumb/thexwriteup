@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 19:20:44 GMT | Bangladesh’s Tech Horizon: Pioneering Skills, Careers, and Innovation Beyond 2025 | Mohammad Adib Abtahi | [Read More](https://medium.com/p/0f5b5279886b) |
+| Sat, 11 Oct 2025 19:11:46 GMT | Hunting Dependency Confusion: Supply Chain Vulnerabilities for Bug Bounties | Aman Bhuiyan | [Read More](https://medium.com/p/ccb0c4496c01) |
 | Sat, 11 Oct 2025 19:01:09 GMT | The Incident Responder: Being the First Line of Defense | Samina Perveen | [Read More](https://medium.com/p/c5034580e029) |
 | Sat, 11 Oct 2025 19:00:57 GMT | &     - | FA Shuvo | [Read More](https://medium.com/p/042224880484) |
 | Sat, 11 Oct 2025 18:53:28 GMT | SOAR in Action: Bridging Cybersecurity, Compliance, and Automation | Devops Sourav | [Read More](https://medium.com/p/adcc61914640) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 13:32:03 GMT | $500 BAC Bug: Unauthorized Removal of Private Pension Schemes | Abhi Sharma | [Read More](https://medium.com/p/7710dc6bbc58) |
 | Sat, 11 Oct 2025 13:19:09 GMT | Semantic Assurance: When Frameworks Begin to Think | Marko Chalupa | [Read More](https://medium.com/p/02d457c66dc4) |
 | Sat, 11 Oct 2025 13:17:48 GMT | The Silicon Pause: Mental Health, Reinvention, and India’s Tech Reckoning | Dr. Priyanka B | [Read More](https://medium.com/p/89ab5ae560e9) |
-| Sat, 11 Oct 2025 13:14:42 GMT | LLM Tarpits | Manusha Dilan | [Read More](https://medium.com/p/64daf876060e) |
-| Sat, 11 Oct 2025 13:12:14 GMT | One Train Africa Unlocking the Power of Cybersecurity Tools: Protecting Your Digital World | Matovu George William | [Read More](https://medium.com/p/2414b3973939) |
