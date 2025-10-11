@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 04:14:35 GMT | The Hidden Side of Cybersecurity No One Talks About | Muhummad Zaki | [Read More](https://medium.com/p/8b838eb97afd) |
+| Sat, 11 Oct 2025 04:09:30 GMT | Strengthen Digital Protection Effectively with Advanced Cyber Security Services | TEAM IT AU | [Read More](https://medium.com/p/689d337bcf22) |
+| Sat, 11 Oct 2025 04:09:04 GMT | Tải MMLive Mod APK (Unlock Phòng VIP) v1.2.6 | MODHELLO | [Read More](https://medium.com/p/db035935e0a4) |
+| Sat, 11 Oct 2025 04:07:17 GMT | My First Steps Understanding the CIA Triad in Cybersecurity | Thaís Lima | [Read More](https://medium.com/p/e6e25d2d7706) |
+| Sat, 11 Oct 2025 03:59:01 GMT | map() vs forEach() in JavaScript — When to Use What? (Every Developer Must Know!) | Tech With Curly Girl | [Read More](https://medium.com/p/72340d1fc320) |
+| Sat, 11 Oct 2025 03:56:52 GMT | Tải Hack Zombie Tsunami (Vô Hạn Kim Cương, Full Tất Cả) V4.6.7 | BANDISHARE | [Read More](https://medium.com/p/3118e0dbc1cf) |
+| Sat, 11 Oct 2025 03:55:48 GMT | CISSP Success Toolkit — Batch 45: Your Gateway to Cybersecurity Mastery | Cybernous Infosec consulting | [Read More](https://medium.com/p/fd63c3f168ff) |
+| Sat, 11 Oct 2025 03:42:23 GMT | The Dark Side of Short Links: How They Can Hurt Your Credibility Online | Level Up with Ashutosh | [Read More](https://medium.com/p/549f8048b42a) |
 | Sat, 11 Oct 2025 03:38:17 GMT | 10 Simple Food Swaps That Improve Mood and Boost Daily Energy | sehrish faheem | [Read More](https://medium.com/p/3ba83eddcb39) |
 | Sat, 11 Oct 2025 03:36:45 GMT | Blind SQL Injection: Conditional Responses | Cipher0x00 | [Read More](https://medium.com/p/06baaa3f10d8) |
 | Sat, 11 Oct 2025 03:34:50 GMT | End-of-Life (EOL) Updates: Understanding the Transition and Its Impact on Software | sehrish faheem | [Read More](https://medium.com/p/225ca7a00f95) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 17:49:33 GMT | When My Face Was All Over the Internet | Pi-infinita | [Read More](https://medium.com/p/cb6a68f1892c) |
 | Fri, 10 Oct 2025 17:49:27 GMT | Room (104): MALWARE! | blackXmask | [Read More](https://medium.com/p/9e3953659705) |
 | Fri, 10 Oct 2025 17:35:20 GMT | Splunk for Beginners: How I Started Learning Log Analysis | Hirad Showghi | [Read More](https://medium.com/p/43147088fbdc) |
-| Fri, 10 Oct 2025 17:29:02 GMT | WPA2 in the Lab: What a Controlled Handshake Capture Teaches About Real-World Security | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/69d27d2b2377) |
-| Fri, 10 Oct 2025 17:12:57 GMT | Dark Web Threat Hunting 101: Manually Identifying Data Exposures | Onurcan Genç | [Read More](https://medium.com/p/61b2808a2884) |
-| Fri, 10 Oct 2025 17:10:17 GMT | ✨ Master Surya Ji – Best Indian Astrologer in Fiji ✨ | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/da8874944345) |
-| Fri, 10 Oct 2025 17:05:27 GMT | Smart Habits for a Safer Digital Life | Saad's insight | [Read More](https://medium.com/p/2987058c6f54) |
-| Fri, 10 Oct 2025 17:01:46 GMT | Como a Inteligência Artificial está mudando o papel do programador | Frederico S | [Read More](https://medium.com/p/71d2b8474313) |
-| Fri, 10 Oct 2025 16:57:37 GMT | How to Sanitize Files with CDR Technology in Python | Cloudmersive | [Read More](https://medium.com/p/61b28d0a9624) |
-| Fri, 10 Oct 2025 16:53:54 GMT | HawkEye Lab Cyberdefenders WriteUp | Golsaf Bensekhar | [Read More](https://medium.com/p/8e75fe5329a0) |
-| Fri, 10 Oct 2025 16:52:39 GMT | DevSecOps in Small .NET Teams: From ‘Just Ship It’ to Ship It Securely (2025 Study Insights) | Brian Mora | [Read More](https://medium.com/p/b4a06d8b8711) |
