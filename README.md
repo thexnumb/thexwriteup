@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 10:11:58 GMT | 5 Data Science Tricks That Instantly Made My Analysis Smarter | Muhummad Zaki | [Read More](https://medium.com/p/41078f673017) |
+| Sat, 11 Oct 2025 10:03:36 GMT | Your Complete CCTV Handbook for Oman’s Security Landscape | Tekshoyabeelyas | [Read More](https://medium.com/p/62909cbfee28) |
+| Sat, 11 Oct 2025 10:03:30 GMT | 7 Fast-Path Auth Tricks for Real-World Latency | Thinking Loop | [Read More](https://medium.com/p/0d187944f3d5) |
+| Sat, 11 Oct 2025 09:59:59 GMT | Strata Cloud Manager By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7cf2939e7dcf) |
+| Sat, 11 Oct 2025 09:57:19 GMT | LetsDefend — SOC Simulator — EventID: 44/ EN version | EduKayky | [Read More](https://medium.com/p/ec8a196622b0) |
+| Sat, 11 Oct 2025 09:56:12 GMT | รีวิว eJPT Certification 2025 : เมื่อ Developer ไปลองสอบ eJPT | Pawut Jingjit | [Read More](https://medium.com/p/23a6083885fc) |
+| Sat, 11 Oct 2025 09:54:16 GMT | Computer Security: Essential Tips to Prevent Cyberattacks Today | Techzonego | [Read More](https://medium.com/p/c5032a3b5c27) |
+| Sat, 11 Oct 2025 09:39:50 GMT | LetsDefend — SOC Simulator — EventID: 44 | EduKayky | [Read More](https://medium.com/p/485dce5522fb) |
+| Sat, 11 Oct 2025 09:38:28 GMT | PostgreSQL WAL Settings That Make or Break Performance | Rizqi Mulki | [Read More](https://medium.com/p/9a3acaa9bb51) |
 | Sat, 11 Oct 2025 09:23:27 GMT | Transform IT Operations with Advanced AIOps Solutions | CMS IT Services | [Read More](https://medium.com/p/eb3de2633eee) |
 | Sat, 11 Oct 2025 09:18:22 GMT | Simplifying Network Security: Understanding Firewalls | Divy | [Read More](https://medium.com/p/3f276ef78030) |
 | Sat, 11 Oct 2025 09:17:57 GMT | The Linux Security Journey — IMA (Integrity Measurement Architecture) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4801932bd7c7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 23:04:53 GMT | I was never enough for you… | -Xri- | [Read More](https://medium.com/p/3734b5a7b478) |
 | Fri, 10 Oct 2025 22:58:19 GMT | Common Terms in Fraud & Cybercrime | Godsway R. Akakpo | [Read More](https://medium.com/p/d9b14da831ae) |
 | Fri, 10 Oct 2025 22:50:24 GMT | Haust Network: Pioneering the Next Era of Scalable, Secure, and User-Centric DeFi | Max Branden | [Read More](https://medium.com/p/44d886a4bad2) |
-| Fri, 10 Oct 2025 22:19:23 GMT | You can Poison an LLM with a Lot less Effort than you’d think : New Paper OCT 2025 | Paul E. (TheAIOracle) | [Read More](https://medium.com/p/6dfe3930623a) |
-| Fri, 10 Oct 2025 22:00:20 GMT | EnigmaXplore 3.0 — Never Gonna Solve You | 0xDolphin | [Read More](https://medium.com/p/1cc01dbe6c77) |
-| Fri, 10 Oct 2025 21:48:20 GMT | CAN I RECOVER BITCOIN LOST IN INVESTMENT SCAM/HIRE A HACKER CALL MALICE CYBER RECOVERY | Tomas Dvorak | [Read More](https://medium.com/p/4d142d408850) |
-| Fri, 10 Oct 2025 21:47:55 GMT | Memories | David Rudder | [Read More](https://medium.com/p/bb184e68cf2c) |
-| Fri, 10 Oct 2025 21:46:41 GMT | Local File Inclusion Vulnerability: Vulnhub Prime 1 | _m1le5 | [Read More](https://medium.com/p/9bdc382e389f) |
-| Fri, 10 Oct 2025 21:37:41 GMT | How One Stolen Token Can Bypass MFA and Breach Your Entire Cloud | Cyber-AppSec | [Read More](https://medium.com/p/46e6fa4b7f65) |
-| Fri, 10 Oct 2025 21:32:46 GMT | Microsoft confirms Windows 11’s simple text editor “Edit” is now pre-installed | Gideonessandoh | [Read More](https://medium.com/p/0c3fc2df1d8f) |
-| Fri, 10 Oct 2025 21:26:34 GMT | Game Zone - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/92b797af3053) |
-| Fri, 10 Oct 2025 21:14:24 GMT | Ancient Wisdom and Modern Cybersecurity: The Mahabharata’s Metaphors in VPN Detection | Ashok Yadav | [Read More](https://medium.com/p/5f880f82d3d8) |
