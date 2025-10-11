@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 09:23:27 GMT | Transform IT Operations with Advanced AIOps Solutions | CMS IT Services | [Read More](https://medium.com/p/eb3de2633eee) |
+| Sat, 11 Oct 2025 09:18:22 GMT | Simplifying Network Security: Understanding Firewalls | Divy | [Read More](https://medium.com/p/3f276ef78030) |
+| Sat, 11 Oct 2025 09:17:57 GMT | The Linux Security Journey — IMA (Integrity Measurement Architecture) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4801932bd7c7) |
+| Sat, 11 Oct 2025 09:12:35 GMT | Comprehensive Guide to Prompt Injection and AI Security | Manusha Dilan | [Read More](https://medium.com/p/36177431c80c) |
+| Sat, 11 Oct 2025 09:08:27 GMT | 24 Hour Emergency Locksmith Near Me — Fast & Reliable Locksmith Services Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/efb4ae51e662) |
 | Sat, 11 Oct 2025 09:04:43 GMT | Shadow Trace CTF TryHackMe | Tanwietayim A | [Read More](https://medium.com/p/8a7077716f97) |
 | Sat, 11 Oct 2025 08:48:18 GMT | 9 Reasons Why Your Business Needs CCTV Monitoring | Marcela John | [Read More](https://medium.com/p/834bba3c78e8) |
 | Sat, 11 Oct 2025 08:43:33 GMT | OWASP Mobile Top 10 — M8: Security Misconfiguration (“Leaving the admin door unlocked because you… | bithowl | [Read More](https://medium.com/p/59dcddfb7402) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 21:32:46 GMT | Microsoft confirms Windows 11’s simple text editor “Edit” is now pre-installed | Gideonessandoh | [Read More](https://medium.com/p/0c3fc2df1d8f) |
 | Fri, 10 Oct 2025 21:26:34 GMT | Game Zone - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/92b797af3053) |
 | Fri, 10 Oct 2025 21:14:24 GMT | Ancient Wisdom and Modern Cybersecurity: The Mahabharata’s Metaphors in VPN Detection | Ashok Yadav | [Read More](https://medium.com/p/5f880f82d3d8) |
-| Fri, 10 Oct 2025 21:07:12 GMT | SIA Security Project Management Practice: Managing Single and Multi-Group Operations with Modern… | Dr Francesco Dergano | [Read More](https://medium.com/p/659adb4e0d4d) |
-| Fri, 10 Oct 2025 20:59:36 GMT | Siber Güvenlikte İnsan Faktörü ve Sosyal Mühendislik | Zeynep Yaren Dalgıç | [Read More](https://medium.com/p/241362d0fba0) |
-| Fri, 10 Oct 2025 20:56:35 GMT | TryHackMe Writeup: CTF Collection Vol.2 | Berkay AĞGÜL | [Read More](https://medium.com/p/f0aceae969cc) |
-| Fri, 10 Oct 2025 20:34:13 GMT | Missing productivity gains from AI, and other tech stories you may have missed | Gene Marks | [Read More](https://medium.com/p/44b0f14c1be9) |
-| Fri, 10 Oct 2025 20:22:23 GMT | Cyber Month Mandate: Move from Password Awareness to Identity Automation Now | IT_Engineer | [Read More](https://medium.com/p/2de1973f7c68) |
