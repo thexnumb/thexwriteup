@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 06:08:58 GMT | Building the Backbone: Establishing and Sustaining an Enterprise Architecture Capability | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/cfb4272d6f91) |
+| Sat, 11 Oct 2025 06:08:37 GMT | Biggest Cybersecurity Conference in Uttarakhand | Shivakshi Rawat | [Read More](https://medium.com/p/7ac13c892297) |
+| Sat, 11 Oct 2025 05:47:04 GMT | The New Era of QA: Less Testing, More Intelligence | Rıdvan Taşkıran | [Read More](https://medium.com/p/2beaf615b80c) |
+| Sat, 11 Oct 2025 05:46:39 GMT | The Silent Software Install Errors That Break Your System Later | Ask IT Support | [Read More](https://medium.com/p/b5f3137cf6d3) |
+| Sat, 11 Oct 2025 05:38:08 GMT | I’m Not a Hacker, But I Think Like One: Lessons From Studying Cybersecurity | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5947687fa42a) |
 | Sat, 11 Oct 2025 05:25:44 GMT | Top 3 Dark Web Search Engines With .onion Links (2026 Edition) | adityaax | [Read More](https://medium.com/p/85119d46d81f) |
 | Sat, 11 Oct 2025 05:23:38 GMT | LetsDefend Email Analysis Challenge | R4335 | [Read More](https://medium.com/p/11afbf42fe4f) |
 | Sat, 11 Oct 2025 05:22:19 GMT | PostgreSQLDB_DigitalOcean | Yokendrakumar P | [Read More](https://medium.com/p/c7679a78acef) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 18:31:01 GMT | We Are Driving Away Our Future | Sarah Connahan | [Read More](https://medium.com/p/8ae565f984fb) |
 | Fri, 10 Oct 2025 18:23:19 GMT | Lab 9: SQL Injection UNION Attack (Retrieving Data from Other Tables) | Apexium Technologies Ltd | [Read More](https://medium.com/p/7343e39d32b1) |
 | Fri, 10 Oct 2025 18:20:58 GMT | ️‍♂️ Inside a Cyberattack: How Hackers Break In | Asif.k | [Read More](https://medium.com/p/930a8c9316d1) |
-| Fri, 10 Oct 2025 18:18:43 GMT | WHY does it smell good? | Argun Cencen | [Read More](https://medium.com/p/17f6b26e47e7) |
-| Fri, 10 Oct 2025 18:17:27 GMT | The Next Frontier in Web3 Security: AI Agents for Smart Contract Audits | Evgenii | [Read More](https://medium.com/p/243cd7190d0a) |
-| Fri, 10 Oct 2025 18:14:50 GMT | Detour route, hopped into the Dictionary | Kevin Dimas Romero | [Read More](https://medium.com/p/113ddb6dc155) |
-| Fri, 10 Oct 2025 18:11:54 GMT | Writers Ask Questions Too | Esther Kenneth | [Read More](https://medium.com/p/9b609ebe4423) |
-| Fri, 10 Oct 2025 18:06:49 GMT | How to Lock Your Social Security Number Safely | SafeAeon Inc. | [Read More](https://medium.com/p/d1d2618bc290) |
