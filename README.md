@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 20:14:15 GMT | 1. Introduction: The Growing Threat to Web3
+The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](https://medium.com/p/9cf8e02fa467) |
+| Sat, 11 Oct 2025 19:59:00 GMT | Event Tracing for Windows: The Hidden Telemetry Goldmine | Cybersecurity Simplified | [Read More](https://medium.com/p/765e17a7ba60) |
+| Sat, 11 Oct 2025 19:45:06 GMT | Red Team Nedir? Kurumlar İçin Gerçekçi Tehdit Simülasyonu | Ata Çalım | [Read More](https://medium.com/p/d9128eb07ade) |
+| Sat, 11 Oct 2025 19:38:09 GMT | Building an Open-Source CTI Stack for Cost-Effective Security and Research | Deniz Topaloglu | [Read More](https://medium.com/p/3e86617684ec) |
+| Sat, 11 Oct 2025 19:34:46 GMT | When Machines Started Explaining Themselves: My Journey into Explainable AI | Kainat Nafees | [Read More](https://medium.com/p/20affaeb8dc1) |
 | Sat, 11 Oct 2025 19:20:44 GMT | Bangladesh’s Tech Horizon: Pioneering Skills, Careers, and Innovation Beyond 2025 | Mohammad Adib Abtahi | [Read More](https://medium.com/p/0f5b5279886b) |
 | Sat, 11 Oct 2025 19:11:46 GMT | Hunting Dependency Confusion: Supply Chain Vulnerabilities for Bug Bounties | Aman Bhuiyan | [Read More](https://medium.com/p/ccb0c4496c01) |
 | Sat, 11 Oct 2025 19:01:09 GMT | The Incident Responder: Being the First Line of Defense | Samina Perveen | [Read More](https://medium.com/p/c5034580e029) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 13:59:46 GMT | Investigate Email Spoofing | devsecops | [Read More](https://medium.com/p/a9fde5b1d32f) |
 | Sat, 11 Oct 2025 13:56:50 GMT | Rethinking Your Digital Locks: 4 Surprising Truths About Account Security | Amna Arshad | [Read More](https://medium.com/p/865984db4b5f) |
 | Sat, 11 Oct 2025 13:55:44 GMT | Skynet - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/55342cddb04d) |
-| Sat, 11 Oct 2025 13:47:08 GMT | From Wireshark to GPT: How to Analyze Cyber Attacks the Smart Way | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/73437a9700dd) |
-| Sat, 11 Oct 2025 13:33:32 GMT | CCTV Camera Installation Service in Dhaka with Dahua 4 Camera Setup | optimationbd | [Read More](https://medium.com/p/6052d2027e6f) |
-| Sat, 11 Oct 2025 13:32:03 GMT | $500 BAC Bug: Unauthorized Removal of Private Pension Schemes | Abhi Sharma | [Read More](https://medium.com/p/7710dc6bbc58) |
-| Sat, 11 Oct 2025 13:19:09 GMT | Semantic Assurance: When Frameworks Begin to Think | Marko Chalupa | [Read More](https://medium.com/p/02d457c66dc4) |
-| Sat, 11 Oct 2025 13:17:48 GMT | The Silicon Pause: Mental Health, Reinvention, and India’s Tech Reckoning | Dr. Priyanka B | [Read More](https://medium.com/p/89ab5ae560e9) |
