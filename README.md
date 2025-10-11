@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 02:27:17 GMT | Cybersecurity Project: Step-by-Step OPNsense Firewall Deployment on VirtualBox (Recommended… | Rupesh Sharma | [Read More](https://medium.com/p/da57bc13725b) |
+| Sat, 11 Oct 2025 02:23:37 GMT | Bridging creativity and intelligence through applied AI. | Codyharshbarger | [Read More](https://medium.com/p/985dbed400db) |
+| Sat, 11 Oct 2025 01:45:44 GMT | From Reactive to Proactive: How Modern Teams Are Redefining Cyber Defense | Michael Preston | [Read More](https://medium.com/p/d2b633c60d93) |
+| Sat, 11 Oct 2025 01:32:26 GMT | Secure by Design: Auth, Sessions & JWT Pitfalls | Bhagya Rana | [Read More](https://medium.com/p/72b0c69ac7a7) |
 | Sat, 11 Oct 2025 00:49:20 GMT | CSRF Where to Look | Ikajakam | [Read More](https://medium.com/p/918d16ac4862) |
 | Sat, 11 Oct 2025 00:32:18 GMT | Cold Feet | Paula Lechten | [Read More](https://medium.com/p/12557d2aa6c0) |
 | Sat, 11 Oct 2025 00:30:24 GMT | Shifting Theory of Constraints in Cybersecurity | Geoji Paul | [Read More](https://medium.com/p/f0bd6bea33e2) |
@@ -81,6 +85,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 17:56:34 GMT | From Nothing to Smart Contract Security — 2 Solidity Audits in One Week | Manasia Nicolas | [Read More](https://medium.com/p/0a093e7e01c2) |
 | Fri, 10 Oct 2025 17:52:46 GMT | Cybersecurity News Review — Week 41 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/77a157520ef4) |
 | Fri, 10 Oct 2025 17:52:39 GMT | The Linux Security Journey — LVBS (Linux Virtualization Based Security) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e80e8c15e186) |
+| Fri, 10 Oct 2025 17:51:04 GMT | Fundamentos esenciales para la seguridad en redes: ¿Qué es el perímetro de red y cómo protegerlo? | Tiziano Mass | [Read More](https://medium.com/p/2eb4873a8e90) |
 | Fri, 10 Oct 2025 17:49:33 GMT | When My Face Was All Over the Internet | Pi-infinita | [Read More](https://medium.com/p/cb6a68f1892c) |
 | Fri, 10 Oct 2025 17:49:27 GMT | Room (104): MALWARE! | blackXmask | [Read More](https://medium.com/p/9e3953659705) |
 | Fri, 10 Oct 2025 17:35:20 GMT | Splunk for Beginners: How I Started Learning Log Analysis | Hirad Showghi | [Read More](https://medium.com/p/43147088fbdc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 16:04:35 GMT | Get Addicted to Cybersecurity! | Shahzaib | [Read More](https://medium.com/p/8fe816f703d8) |
 | Fri, 10 Oct 2025 16:02:07 GMT | 7 Multi-Region Secrets Patterns That Stay Fast | Thinking Loop | [Read More](https://medium.com/p/59b30d2940ae) |
 | Fri, 10 Oct 2025 16:01:35 GMT | Neural Network Nightmare: How Image Recognition APIs Were Secretly Spying on Everyone | Iski | [Read More](https://medium.com/p/f42e379999c5) |
-| Fri, 10 Oct 2025 16:00:02 GMT | Introducing Password Manager Secure  Total Privacy for Your Digital Life | Decentr | [Read More](https://medium.com/p/4534bfa8ab1a) |
-| Fri, 10 Oct 2025 15:54:47 GMT | Module 1: Defensible Network Architecture (From Red and Blue Viewpoints) | Ahura | [Read More](https://medium.com/p/5f1be6660184) |
-| Fri, 10 Oct 2025 15:54:47 GMT | How to Charge a Laptop Properly: Should It Be On or Off? | Wulansaf | [Read More](https://medium.com/p/7c3d9e0c94ab) |
-| Fri, 10 Oct 2025 15:48:25 GMT | Intent-Based Access Control for Agentic AI: Securing the Next Chapter in Cybersecurity | Abhilash | [Read More](https://medium.com/p/96544a94dea6) |
-| Fri, 10 Oct 2025 15:39:39 GMT | PART3:GitOps at Scale: Enterprise CI/CD Pipeline for KubernetesComplete Guide to Production-Grade… | Salwan Mohamed | [Read More](https://medium.com/p/6d76465b790e) |
