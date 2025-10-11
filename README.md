@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 13:19:09 GMT | Semantic Assurance: When Frameworks Begin to Think | Marko Chalupa | [Read More](https://medium.com/p/02d457c66dc4) |
+| Sat, 11 Oct 2025 13:17:48 GMT | The Silicon Pause: Mental Health, Reinvention, and India’s Tech Reckoning | Dr. Priyanka B | [Read More](https://medium.com/p/89ab5ae560e9) |
+| Sat, 11 Oct 2025 13:12:14 GMT | One Train Africa Unlocking the Power of Cybersecurity Tools: Protecting Your Digital World | Matovu George William | [Read More](https://medium.com/p/2414b3973939) |
+| Sat, 11 Oct 2025 13:11:56 GMT | How the iPhone 17 Quietly Changed the Game in Mobile Security — Apple’s Secret Weapon Against… | David SEHYEON Baek | [Read More](https://medium.com/p/d6d9518c26c1) |
+| Sat, 11 Oct 2025 13:04:31 GMT | The CIA Triad Isn’t Dead — We Just Never Actually Implemented It | KWJ | [Read More](https://medium.com/p/70f496ec700c) |
+| Sat, 11 Oct 2025 13:04:08 GMT | Mastering the Architecture Project Lifecycle: A TOGAF-Informed Blueprint for Iterative Success | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/8f369ecf202d) |
+| Sat, 11 Oct 2025 12:58:13 GMT | Eset Smart Security Premium — Free for a limited time! | SAWAHITS | [Read More](https://medium.com/p/180669ce306e) |
+| Sat, 11 Oct 2025 12:55:53 GMT | ️‍♂️ picoCTF 2024 — Forensics Challenge: CanYouSee | Moghul Kannan N | [Read More](https://medium.com/p/99dd1620d5b5) |
+| Sat, 11 Oct 2025 12:55:24 GMT | Agentic AI Agent Role or User based access control | Balamurugan Balakreshnan | [Read More](https://medium.com/p/9910b67c6400) |
+| Sat, 11 Oct 2025 12:45:23 GMT | Top 5 Cybersecurity Jobs That Will Boom in 2025 (and What Skills You Need) | Tech Fest | [Read More](https://medium.com/p/d1e6ff372f25) |
+| Sat, 11 Oct 2025 12:41:24 GMT | picoCTF 2021 — Forensics Challenge: “information” | Moghul Kannan N | [Read More](https://medium.com/p/cb6068c7b8bd) |
+| Sat, 11 Oct 2025 12:39:08 GMT | “Is Generative AI Accurate?” | Elizabeth Emerald | [Read More](https://medium.com/p/f1f4dd19e895) |
+| Sat, 11 Oct 2025 12:37:53 GMT | PicoCTF — Web Gauntlet | abdelruhmanaskar | [Read More](https://medium.com/p/819689614d4b) |
+| Sat, 11 Oct 2025 12:35:47 GMT | Emoji Reaction to Vertical Privileges Escalation | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/f6824436910a) |
+| Sat, 11 Oct 2025 12:35:00 GMT | PHP Security Isn’t a Plugin Problem, It’s a Config Problem | Asian Digital Hub | [Read More](https://medium.com/p/aacb380f6c7a) |
 | Sat, 11 Oct 2025 12:29:21 GMT | How Much Information Is Too Much Information for Your AI Tool? | Rebecca Ihenyen | [Read More](https://medium.com/p/8d4aab49940c) |
 | Sat, 11 Oct 2025 12:26:51 GMT | Secure Kubernetes Secrets Management with Sealed Secrets: A Comprehensive Guide | ebenamor | [Read More](https://medium.com/p/c2c549c78744) |
 | Sat, 11 Oct 2025 12:26:43 GMT | Zero-Downtime JWKS Rotation for FastAPI (Top 5 Moves) | Thinking Loop | [Read More](https://medium.com/p/6162db035d12) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 06:45:26 GMT | Hack The Box — Starting Point Tier 0 (Free Machines & Without Flags) | Muhammad Bilal | [Read More](https://medium.com/p/1ebcbbc08783) |
 | Sat, 11 Oct 2025 06:39:30 GMT | Top 5 WordPress 2FA Plugins for Enhanced Security in 2025 | Smit Pipaliya | [Read More](https://medium.com/p/fa60d6187f72) |
 | Sat, 11 Oct 2025 06:27:09 GMT | Threat Intelligence Report: The Silent Epidemic of Exposed Docker APIs | ZoomEye | [Read More](https://medium.com/p/4b59d3eba1e0) |
-| Sat, 11 Oct 2025 06:26:43 GMT | Why the Western World Can’t Talk About Health Anymore | Eleanorkojan | [Read More](https://medium.com/p/7499a7ab2705) |
-| Sat, 11 Oct 2025 06:25:39 GMT | Google’s 90% Dominance: Why UK Regulators Are Finally Taking Action | Technivis | [Read More](https://medium.com/p/469cd102bb12) |
-| Sat, 11 Oct 2025 06:22:24 GMT | International Security Conference Returns to Dehradun After a Decade | Deepak Sharma | [Read More](https://medium.com/p/770f17741dba) |
-| Sat, 11 Oct 2025 06:18:44 GMT | “The Phantom Resource” — A Terraform Null Horror Story | Sainath Shivaji Mitalakar | [Read More](https://medium.com/p/d48f2bb20485) |
-| Sat, 11 Oct 2025 06:15:10 GMT | Gemini 2.5 Computer Use: What Computer Use Sees That Your Script Never Will… | R. Thompson (PhD) | [Read More](https://medium.com/p/cc313136b63c) |
-| Sat, 11 Oct 2025 06:08:58 GMT | Building the Backbone: Establishing and Sustaining an Enterprise Architecture Capability | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/cfb4272d6f91) |
-| Sat, 11 Oct 2025 06:08:37 GMT | Biggest Cybersecurity Conference in Uttarakhand | Shivakshi Rawat | [Read More](https://medium.com/p/7ac13c892297) |
-| Sat, 11 Oct 2025 05:47:04 GMT | The New Era of QA: Less Testing, More Intelligence | Rıdvan Taşkıran | [Read More](https://medium.com/p/2beaf615b80c) |
-| Sat, 11 Oct 2025 05:46:39 GMT | The Silent Software Install Errors That Break Your System Later | Ask IT Support | [Read More](https://medium.com/p/b5f3137cf6d3) |
-| Sat, 11 Oct 2025 05:38:08 GMT | I’m Not a Hacker, But I Think Like One: Lessons From Studying Cybersecurity | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5947687fa42a) |
-| Sat, 11 Oct 2025 05:25:44 GMT | Top 3 Dark Web Search Engines With .onion Links (2026 Edition) | adityaax | [Read More](https://medium.com/p/85119d46d81f) |
-| Sat, 11 Oct 2025 05:23:38 GMT | LetsDefend Email Analysis Challenge | R4335 | [Read More](https://medium.com/p/11afbf42fe4f) |
-| Sat, 11 Oct 2025 05:22:19 GMT | PostgreSQLDB_DigitalOcean | Yokendrakumar P | [Read More](https://medium.com/p/c7679a78acef) |
-| Sat, 11 Oct 2025 05:17:01 GMT | Five AI Cybersecurity Tools You Should Know About Right Now | Muhammad Haider Tallal | [Read More](https://medium.com/p/1985d1349a3f) |
-| Sat, 11 Oct 2025 05:05:05 GMT | HTB Login Brute Forcing (Easy) | jozzz | [Read More](https://medium.com/p/a88ade812018) |
