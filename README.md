@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 22:24:55 GMT | Your Apps Are Spying on You (And You Gave Them Permission) | Samirah A.O | [Read More](https://medium.com/p/8b4f036b7157) |
+| Sat, 11 Oct 2025 22:22:03 GMT | My JailCTF Experience (and Writeups) | Maksim Hayder | [Read More](https://medium.com/p/1cea3d85cd81) |
+| Sat, 11 Oct 2025 22:12:28 GMT | TryHackMe: Secret Recipe | Davenyamongo | [Read More](https://medium.com/p/935aa3abc871) |
 | Sat, 11 Oct 2025 22:09:12 GMT | Creating a HIPAA compliant Site-to-Site VPN in AWS | Davis Mtui | [Read More](https://medium.com/p/a096198aa5fd) |
 | Sat, 11 Oct 2025 22:07:03 GMT | RAUL’S A LITTLE STINKER | Ron Fredman | [Read More](https://medium.com/p/6ccec57a72de) |
 | Sat, 11 Oct 2025 21:58:42 GMT | Vulnerability management program for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/392fd297b1e3) |
@@ -110,6 +113,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 14:54:15 GMT | Defending Against OSINT: How to Reduce Your Digital Footprint | Shahzaib | [Read More](https://medium.com/p/3fb19dfef41c) |
 | Sat, 11 Oct 2025 14:54:03 GMT | How to Protect Data in Public Cloud Services (AWS, Azure, GCP) | Samina Perveen | [Read More](https://medium.com/p/0497ca9e06b5) |
 | Sat, 11 Oct 2025 14:52:07 GMT | True Love Revealed: Why Actions and Details Speak Louder Than Words | Poly-blang | [Read More](https://medium.com/p/f4b68ac7054f) |
-| Sat, 11 Oct 2025 14:48:07 GMT | IPSec VPN - Fortigate | Mehmet Arif Akçadağ | [Read More](https://medium.com/p/ea4b6b66e59c) |
-| Sat, 11 Oct 2025 14:47:39 GMT | The Internet of Things (IoT) Security Challenges | Cyber Security Research | [Read More](https://medium.com/p/f4aa4b9bebef) |
-| Sat, 11 Oct 2025 14:41:34 GMT | Securing Supply Chains | Cyber Security Research | [Read More](https://medium.com/p/e1b4500d8bac) |
