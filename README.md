@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 18:21:31 GMT | Building a Zero-Cost SOC Lab: Security Onion, Wazuh, TheHive, Cortex, and n8n | Deniz Topaloglu | [Read More](https://medium.com/p/26c77734ddc3) |
+| Sat, 11 Oct 2025 18:20:19 GMT | The 10 Biggest Cyber Attacks in History | Algorithm Man | [Read More](https://medium.com/p/82c7daa7de90) |
+| Sat, 11 Oct 2025 18:12:18 GMT | Red Flags That Your Website Is Already Being Probed by Attackers | Beri Contraster | [Read More](https://medium.com/p/f8117f5c6e5c) |
+| Sat, 11 Oct 2025 18:10:49 GMT | ️ Common Cyber Attacks Explained (and How to Avoid Them) | Asif.k | [Read More](https://medium.com/p/15688ce1e3be) |
+| Sat, 11 Oct 2025 18:08:49 GMT | GPUGate Malware Leverages Google Ads and Fake GitHub Commits to Target IT Companies | SCtoCS | [Read More](https://medium.com/p/65b78656fc0e) |
+| Sat, 11 Oct 2025 18:08:29 GMT | Toy Practical Cryptanalysis | Mi'kail Eli'yah | [Read More](https://medium.com/p/057fa138813d) |
+| Sat, 11 Oct 2025 18:08:21 GMT | Researchers Alert on SORVEPOTEL, a Self-Spreading Malware Targeting WhatsApp Users | SCtoCS | [Read More](https://medium.com/p/e3b7f9934dd2) |
+| Sat, 11 Oct 2025 18:06:29 GMT | Enhancing Application Security with Docker Best Practices | @rnab | [Read More](https://medium.com/p/0fc5f45e5c83) |
+| Sat, 11 Oct 2025 18:02:06 GMT | Mañana anuncio mi nueva Masterclass de Bug Bounty | Gorka | [Read More](https://medium.com/p/78abd91012e0) |
+| Sat, 11 Oct 2025 18:02:06 GMT | Hardened Node.js Backends, From Zero to Production | Nexumo | [Read More](https://medium.com/p/eaa037009834) |
+| Sat, 11 Oct 2025 18:00:33 GMT | The 30-Day Framework That Fixes Root Causes | Akilnath Bodipudi | [Read More](https://medium.com/p/31164d15e57d) |
+| Sat, 11 Oct 2025 17:49:17 GMT | The Truth Behind “Online Manager” Job Scams | John Obiba Boadu | [Read More](https://medium.com/p/aa6ab229d25f) |
+| Sat, 11 Oct 2025 17:45:11 GMT | Inside the Anatomy of a Scam: How Phishing and Scam Sites Imitate Real Brands | Shami Sushant | [Read More](https://medium.com/p/5d684f3a92db) |
+| Sat, 11 Oct 2025 17:40:01 GMT | The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door | Iski | [Read More](https://medium.com/p/9948d05edf2b) |
+| Sat, 11 Oct 2025 17:39:35 GMT | AI based burglar alarm (school project) | Aarna Tripathi | [Read More](https://medium.com/p/15c4ee747db8) |
+| Sat, 11 Oct 2025 17:36:58 GMT | HackTheBox — Detecting Attacker Behavior With Splunk Based On TTPs | Javier | [Read More](https://medium.com/p/913e733d90af) |
+| Sat, 11 Oct 2025 17:33:48 GMT | Are Websites Dying? They’re Just Moving Backstage | Biodun Rhoda | [Read More](https://medium.com/p/c4dd5493f6d7) |
 | Sat, 11 Oct 2025 17:22:34 GMT | How AI is Transforming Cybersecurity: My Personal Understanding and Steps | Rushikesh Girase | [Read More](https://medium.com/p/05712e2d3c27) |
 | Sat, 11 Oct 2025 17:04:57 GMT | Rust and the Linux Rewrite Problem | Random Access | [Read More](https://medium.com/p/b60d3345b0b9) |
 | Sat, 11 Oct 2025 16:57:03 GMT | How I’m Secure In The Apple Ecosystem : Lock Your Life in Just 45 Minutes | Berker Ceylan | [Read More](https://medium.com/p/9ed628bdf151) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 12:55:24 GMT | Agentic AI Agent Role or User based access control | Balamurugan Balakreshnan | [Read More](https://medium.com/p/9910b67c6400) |
 | Sat, 11 Oct 2025 12:45:23 GMT | Top 5 Cybersecurity Jobs That Will Boom in 2025 (and What Skills You Need) | Tech Fest | [Read More](https://medium.com/p/d1e6ff372f25) |
 | Sat, 11 Oct 2025 12:41:24 GMT | picoCTF 2021 — Forensics Challenge: “information” | Moghul Kannan N | [Read More](https://medium.com/p/cb6068c7b8bd) |
-| Sat, 11 Oct 2025 12:39:08 GMT | “Is Generative AI Accurate?” | Elizabeth Emerald | [Read More](https://medium.com/p/f1f4dd19e895) |
-| Sat, 11 Oct 2025 12:37:53 GMT | PicoCTF — Web Gauntlet | abdelruhmanaskar | [Read More](https://medium.com/p/819689614d4b) |
-| Sat, 11 Oct 2025 12:35:47 GMT | Emoji Reaction to Vertical Privileges Escalation | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/f6824436910a) |
-| Sat, 11 Oct 2025 12:35:00 GMT | PHP Security Isn’t a Plugin Problem, It’s a Config Problem | Asian Digital Hub | [Read More](https://medium.com/p/aacb380f6c7a) |
-| Sat, 11 Oct 2025 12:29:21 GMT | How Much Information Is Too Much Information for Your AI Tool? | Rebecca Ihenyen | [Read More](https://medium.com/p/8d4aab49940c) |
-| Sat, 11 Oct 2025 12:26:51 GMT | Secure Kubernetes Secrets Management with Sealed Secrets: A Comprehensive Guide | ebenamor | [Read More](https://medium.com/p/c2c549c78744) |
-| Sat, 11 Oct 2025 12:26:43 GMT | Zero-Downtime JWKS Rotation for FastAPI (Top 5 Moves) | Thinking Loop | [Read More](https://medium.com/p/6162db035d12) |
-| Sat, 11 Oct 2025 12:26:07 GMT | Stay protected 24/7 with our Remote CCTV Monitoring service! | Visual Monitoring Solutions | [Read More](https://medium.com/p/ef2b580442d3) |
-| Sat, 11 Oct 2025 12:24:19 GMT | Retro VM Walkthrough | Spookz | [Read More](https://medium.com/p/7cb7c61246c0) |
-| Sat, 11 Oct 2025 12:14:11 GMT | Her 39 Saniyede Bir Siber Saldırı: Kişisel Verilerinizi Nasıl Koruyabilirsiniz? | t. | [Read More](https://medium.com/p/85eb6b86436e) |
-| Sat, 11 Oct 2025 12:14:01 GMT | How I Made $10,000 a Month with AI Bots in 2025 | James | [Read More](https://medium.com/p/f41d0ac119a1) |
-| Sat, 11 Oct 2025 12:07:10 GMT | Penetration Testing Course for Beginners with Certification - Start a Career in Cybersecurity | cyber security Updates | [Read More](https://medium.com/p/32b36c5ae460) |
-| Sat, 11 Oct 2025 12:01:53 GMT | Требование: Самозапрет на звонки с иностранных номеров | baramburum | [Read More](https://medium.com/p/407f3aecddc7) |
-| Sat, 11 Oct 2025 12:01:49 GMT | Your personal mini-SOC in Google Sheets: how to monitor domain security on autopilot | Igor S. Bederov | [Read More](https://medium.com/p/f599529d77ed) |
-| Sat, 11 Oct 2025 12:01:46 GMT | DockerLabs Writeup — ShowTime (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c4fc22d8cb80) |
-| Sat, 11 Oct 2025 12:01:42 GMT | Beyond “No to War”: How Japan’s Pacifism Became an Invitation to Aggression | fmi A. | [Read More](https://medium.com/p/ec20d9d3c534) |
-| Sat, 11 Oct 2025 11:52:44 GMT | The Day I Stopped Googling Hacking Tools and Built My Own in Python | Muhummad Zaki | [Read More](https://medium.com/p/d5584d708939) |
