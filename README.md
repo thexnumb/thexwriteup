@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 19:01:09 GMT | The Incident Responder: Being the First Line of Defense | Samina Perveen | [Read More](https://medium.com/p/c5034580e029) |
+| Sat, 11 Oct 2025 19:00:57 GMT | &     - | FA Shuvo | [Read More](https://medium.com/p/042224880484) |
+| Sat, 11 Oct 2025 18:53:28 GMT | SOAR in Action: Bridging Cybersecurity, Compliance, and Automation | Devops Sourav | [Read More](https://medium.com/p/adcc61914640) |
+| Sat, 11 Oct 2025 18:51:45 GMT | Drosera: What It Could Mean for Developers and Auditors | PeerPressure | [Read More](https://medium.com/p/9a0ff6a7925e) |
+| Sat, 11 Oct 2025 18:42:38 GMT | Beginner’s Guide: Spotting Phishing Emails Like A Cybersecurity Expert | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/67c3796a1c01) |
 | Sat, 11 Oct 2025 18:36:33 GMT | SOC Team-The silent guardians of your enterprise | Kota Deepak sai | [Read More](https://medium.com/p/6c3aa338dc8e) |
 | Sat, 11 Oct 2025 18:24:19 GMT | Secure your service on Cloud Run with GCP API Gateway and Firebase security | Nidhi tiwari | [Read More](https://medium.com/p/0ecd15584eaa) |
 | Sat, 11 Oct 2025 18:23:54 GMT | AI/ML Security Threats – TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/70b1868231f0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 13:17:48 GMT | The Silicon Pause: Mental Health, Reinvention, and India’s Tech Reckoning | Dr. Priyanka B | [Read More](https://medium.com/p/89ab5ae560e9) |
 | Sat, 11 Oct 2025 13:14:42 GMT | LLM Tarpits | Manusha Dilan | [Read More](https://medium.com/p/64daf876060e) |
 | Sat, 11 Oct 2025 13:12:14 GMT | One Train Africa Unlocking the Power of Cybersecurity Tools: Protecting Your Digital World | Matovu George William | [Read More](https://medium.com/p/2414b3973939) |
-| Sat, 11 Oct 2025 13:11:56 GMT | How the iPhone 17 Quietly Changed the Game in Mobile Security — Apple’s Secret Weapon Against… | David SEHYEON Baek | [Read More](https://medium.com/p/d6d9518c26c1) |
-| Sat, 11 Oct 2025 13:04:31 GMT | The CIA Triad Isn’t Dead — We Just Never Actually Implemented It | KWJ | [Read More](https://medium.com/p/70f496ec700c) |
-| Sat, 11 Oct 2025 13:04:08 GMT | Mastering the Architecture Project Lifecycle: A TOGAF-Informed Blueprint for Iterative Success | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/8f369ecf202d) |
-| Sat, 11 Oct 2025 12:58:13 GMT | Eset Smart Security Premium — Free for a limited time! | SAWAHITS | [Read More](https://medium.com/p/180669ce306e) |
-| Sat, 11 Oct 2025 12:55:53 GMT | ️‍♂️ picoCTF 2024 — Forensics Challenge: CanYouSee | Moghul Kannan N | [Read More](https://medium.com/p/99dd1620d5b5) |
