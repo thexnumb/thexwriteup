@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 23:19:19 GMT | Why I Monitor /var/log/secure (and Why Most Admins Don’t) | Faruk Ahmed | [Read More](https://medium.com/p/3a362b1ad415) |
+| Sat, 11 Oct 2025 23:18:35 GMT | What Is Phishing and How to Avoid It | Anouarbraham | [Read More](https://medium.com/p/d179e6a3d567) |
 | Sat, 11 Oct 2025 22:55:52 GMT | Google CodeMender: How The Multi Agent System Actually Works | Julian Goldie | [Read More](https://medium.com/p/2520faaf7d41) |
 | Sat, 11 Oct 2025 22:55:41 GMT | Building a Complete Monitoring Stack with Nagios, InfluxDB, Nagflux and Grafana | Obscure | [Read More](https://medium.com/p/3c9672a70eb3) |
 | Sat, 11 Oct 2025 22:54:17 GMT | Why Nigeria Should Establish a National Bitcoin Reserve | Saint | [Read More](https://medium.com/p/f3dc20123b5e) |
@@ -111,5 +113,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 15:13:40 GMT | Active Directory Penetration Testing | Bara2Sabbah | [Read More](https://medium.com/p/58a5534ceee0) |
 | Sat, 11 Oct 2025 15:11:57 GMT | So I Took CS50 Cybersecurity… Here’s What It Actually Felt Like | Khan Jariff Al Naseeb | [Read More](https://medium.com/p/3418436f7ce0) |
 | Sat, 11 Oct 2025 15:08:12 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/247d376a1025) |
-| Sat, 11 Oct 2025 15:05:52 GMT | Identifying Phishing Emails | Corey Farley | [Read More](https://medium.com/p/f8f041d93ed2) |
-| Sat, 11 Oct 2025 15:03:21 GMT | HTB TombWatcher Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/f57883ebbbe7) |
