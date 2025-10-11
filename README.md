@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 08:15:35 GMT | The Pitfalls We’ve All Fallen Into: Lessons to Avoid Costly Mistakes in Enterprise R&D | Uniorange CRDE | [Read More](https://medium.com/p/398ed6dea931) |
+| Sat, 11 Oct 2025 08:14:47 GMT | Systems That Dream — Hacking the Mind, Monetizing the Signal | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c9e6e89d3823) |
+| Sat, 11 Oct 2025 08:09:51 GMT | Struggling to Scale Your Startup? Here’s How IT Companies in Dubai UAE Can Help! | Nithish Saitechdm | [Read More](https://medium.com/p/ec5568c7031c) |
+| Sat, 11 Oct 2025 08:03:18 GMT | How Simple Security Tips Can Prevent Major Breaches | Bobby Andrews | [Read More](https://medium.com/p/6f9516793fd7) |
+| Sat, 11 Oct 2025 08:01:56 GMT | The One Password to Rule Them All: Single Sign-On (SSO) I | Stephnoramafeng | [Read More](https://medium.com/p/eeb8d6e012bb) |
+| Sat, 11 Oct 2025 08:01:18 GMT | AGI by 2030: What It Is — and How It Could Reshape the Global Macro Economy | Bervice | [Read More](https://medium.com/p/a99184cf2fbc) |
+| Sat, 11 Oct 2025 07:59:23 GMT | How a Simple Message Almost Stole Everything | David SEHYEON Baek | [Read More](https://medium.com/p/7250fe3636d5) |
+| Sat, 11 Oct 2025 07:44:12 GMT | Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Xploit | [Read More](https://medium.com/p/3da45a1c91f0) |
+| Sat, 11 Oct 2025 07:42:31 GMT | How Information Technology’s Revolution Makes Our Jobs Easier Than Manual Labor | Archivum Aeternum | [Read More](https://medium.com/p/20e760f9fd80) |
 | Sat, 11 Oct 2025 07:26:18 GMT | Navigating the Layers of Enterprise Architecture Projects: A TOGAF-Informed Guide | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/9b4614a38839) |
 | Sat, 11 Oct 2025 07:10:13 GMT | Forensic Analysis and Incident Response | LinuxDev | [Read More](https://medium.com/p/9c7de45d840b) |
 | Sat, 11 Oct 2025 07:04:23 GMT | Reverse Engineering Techniques | LinuxDev | [Read More](https://medium.com/p/77214274816f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 19:58:48 GMT | SOC Automation Project: Implementing SOAR for Threat Detection and Response | Mali Carter | [Read More](https://medium.com/p/f619a553721c) |
 | Fri, 10 Oct 2025 19:56:44 GMT | How SPF Checkers Are Unknowingly Exposing Websites to XSS Attacks | D Johnston | [Read More](https://medium.com/p/faeff947bfa9) |
 | Fri, 10 Oct 2025 19:53:34 GMT | How Much Can a Stranger Learn About You in 5 Minutes? | Samirah A.O | [Read More](https://medium.com/p/04b6b29e6e89) |
-| Fri, 10 Oct 2025 19:51:03 GMT | [CyberDefenders Write-up] Oski Lab | OxMotaw3 | [Read More](https://medium.com/p/490522520a8d) |
-| Fri, 10 Oct 2025 19:42:25 GMT | I Used ChatGPT to Write Cybersecurity Content for 30 Days | Muhammad Haider Tallal | [Read More](https://medium.com/p/db06fd286288) |
-| Fri, 10 Oct 2025 19:29:41 GMT | Day 4:Windows Fundamentals 2 | Ogundipe Priscilla | [Read More](https://medium.com/p/e30635b112c1) |
-| Fri, 10 Oct 2025 19:23:23 GMT | Empowering women makes nation empower | souvik Das | [Read More](https://medium.com/p/eed9640470e5) |
-| Fri, 10 Oct 2025 19:21:38 GMT | Vulnerability — how we are truly communicate | Duhaa Ahmed | [Read More](https://medium.com/p/7234af16482f) |
-| Fri, 10 Oct 2025 19:18:53 GMT | Backend-for-Frontend (BFF): A Smarter Architecture for Modern Applications | Ajay Reddy Chinthala | [Read More](https://medium.com/p/4bf08dac59df) |
-| Fri, 10 Oct 2025 19:07:51 GMT | Build a Reusable Image Upload & Delete Helper in Laravel for Any Project | Lalon Hossain | [Read More](https://medium.com/p/727d029a8a9a) |
-| Fri, 10 Oct 2025 19:03:24 GMT | Role of Threat Detection and Response (TDR) in Cybersecurity | NetWitness | [Read More](https://medium.com/p/4fbe70ef8e33) |
-| Fri, 10 Oct 2025 19:02:03 GMT | Using Contacts in Snowflake: A Strategic Guide to Schema-Level Communication | Rajiv Gupta | [Read More](https://medium.com/p/0b20b5407344) |
