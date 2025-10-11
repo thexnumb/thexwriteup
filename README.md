@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 14:29:48 GMT | The Economics of Cybercrime | Cyber Security Research | [Read More](https://medium.com/p/ebd4597a2370) |
+| Sat, 11 Oct 2025 14:23:52 GMT | International Cybersecurity Cooperation | Cyber Security Research | [Read More](https://medium.com/p/b9809fc12fc3) |
+| Sat, 11 Oct 2025 14:23:19 GMT | Master Advanced Netcat Usage for Hackers: Techniques Beyond Reverse Shells | Very Lazy Tech | [Read More](https://medium.com/p/89f5e29776cb) |
+| Sat, 11 Oct 2025 14:17:10 GMT | My Devoxx 2025 experience | Jettro Coenradie | [Read More](https://medium.com/p/b78b0e1cace1) |
+| Sat, 11 Oct 2025 14:16:11 GMT | We Should Have a “You Got Hacked, You Pay” Law | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/374e1ba07000) |
+| Sat, 11 Oct 2025 14:15:05 GMT | Day 11: Cybersecurity for Decision Makers; When Leadership Becomes the First Line of Defense | Aysha Misri | [Read More](https://medium.com/p/7d2f67568eb6) |
 | Sat, 11 Oct 2025 14:05:51 GMT | Stepping into Virtualization: A New Cybersecurity Engineer’s Journey | Muhammed Akif Kaya | [Read More](https://medium.com/p/5b694ddf1896) |
 | Sat, 11 Oct 2025 14:02:12 GMT | Part 11:(b) Understanding and Mitigating Modern Cybersecurity Vulnerabilities | Intelithics | [Read More](https://medium.com/p/5265a33faae9) |
+| Sat, 11 Oct 2025 14:02:06 GMT | HTB Academy — Web Attacks: A Walkthrough of the Challenges (Part 1) | BotsiCat | [Read More](https://medium.com/p/fb306786d4c1) |
 | Sat, 11 Oct 2025 14:02:01 GMT | Zero-Trust and Compliance — Aligning Abatis Security with Global Regulation | Abatis ABTU | [Read More](https://medium.com/p/bf94569c0fdf) |
 | Sat, 11 Oct 2025 13:59:46 GMT | Investigate Email Spoofing | devsecops | [Read More](https://medium.com/p/a9fde5b1d32f) |
 | Sat, 11 Oct 2025 13:56:50 GMT | Rethinking Your Digital Locks: 4 Surprising Truths About Account Security | Amna Arshad | [Read More](https://medium.com/p/865984db4b5f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 08:43:33 GMT | OWASP Mobile Top 10 — M8: Security Misconfiguration (“Leaving the admin door unlocked because you… | bithowl | [Read More](https://medium.com/p/59dcddfb7402) |
 | Sat, 11 Oct 2025 08:38:57 GMT | Mastering Scoping: The Key To Effective Penetration Testing | Redfox Security | [Read More](https://medium.com/p/ece0cd8513c6) |
 | Sat, 11 Oct 2025 08:26:24 GMT | Windows Exposed: Security Vulnerabilities | Windows Guide | [Read More](https://medium.com/p/c48b04d70865) |
-| Sat, 11 Oct 2025 08:19:18 GMT | Windows Deep Dive: Exploring the Registry | Windows Guide | [Read More](https://medium.com/p/e062be63c0f8) |
-| Sat, 11 Oct 2025 08:15:35 GMT | The Pitfalls We’ve All Fallen Into: Lessons to Avoid Costly Mistakes in Enterprise R&D | Uniorange CRDE | [Read More](https://medium.com/p/398ed6dea931) |
-| Sat, 11 Oct 2025 08:14:47 GMT | Systems That Dream — Hacking the Mind, Monetizing the Signal | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c9e6e89d3823) |
-| Sat, 11 Oct 2025 08:09:51 GMT | Struggling to Scale Your Startup? Here’s How IT Companies in Dubai UAE Can Help! | Nithish Saitechdm | [Read More](https://medium.com/p/ec5568c7031c) |
-| Sat, 11 Oct 2025 08:03:18 GMT | How Simple Security Tips Can Prevent Major Breaches | Bobby Andrews | [Read More](https://medium.com/p/6f9516793fd7) |
-| Sat, 11 Oct 2025 08:01:56 GMT | The One Password to Rule Them All: Single Sign-On (SSO) I | Stephnoramafeng | [Read More](https://medium.com/p/eeb8d6e012bb) |
-| Sat, 11 Oct 2025 08:01:18 GMT | AGI by 2030: What It Is — and How It Could Reshape the Global Macro Economy | Bervice | [Read More](https://medium.com/p/a99184cf2fbc) |
