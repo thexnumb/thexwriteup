@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 21:07:44 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/e9668c24ea53) |
+| Sat, 11 Oct 2025 21:04:16 GMT | When GraphQL becomes a backdoor: SSRF to RCE in a real-world GraphQL endpoint. | MrLionOfficial | [Read More](https://medium.com/p/b4ab3b14573f) |
+| Sat, 11 Oct 2025 20:57:57 GMT | TryHackMe Writeup: CMesS | Berkay AĞGÜL | [Read More](https://medium.com/p/f4a9c354c991) |
+| Sat, 11 Oct 2025 20:43:48 GMT | Planning  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/321d509353a4) |
+| Sat, 11 Oct 2025 20:38:30 GMT | Manifeste & Charte de l’informatique responsable | Stéphane Morico | [Read More](https://medium.com/p/aa00c6bc31ac) |
+| Sat, 11 Oct 2025 20:34:35 GMT | Building Kylo: A CLI Tool to Secure AI-Generated Python Code. | Alabi Muiz | [Read More](https://medium.com/p/a91d5fba98bd) |
 | Sat, 11 Oct 2025 20:33:09 GMT | File Upload Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/7db01cae76c6) |
 | Sat, 11 Oct 2025 20:26:24 GMT | PoC for CVE-2025–49844, CVE-2025–46817 and CVE-2025–46818 Critical Lua Engine Vulnerabilities | ASAcrew Blog | [Read More](https://medium.com/p/b336b6d4b92a) |
 | Sat, 11 Oct 2025 20:14:15 GMT | 1. Introduction: The Growing Threat to Web3
@@ -107,9 +113,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 14:23:19 GMT | Master Advanced Netcat Usage for Hackers: Techniques Beyond Reverse Shells | Very Lazy Tech | [Read More](https://medium.com/p/89f5e29776cb) |
 | Sat, 11 Oct 2025 14:17:10 GMT | My Devoxx 2025 experience | Jettro Coenradie | [Read More](https://medium.com/p/b78b0e1cace1) |
 | Sat, 11 Oct 2025 14:16:11 GMT | We Should Have a “You Got Hacked, You Pay” Law | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/374e1ba07000) |
-| Sat, 11 Oct 2025 14:15:05 GMT | Day 11: Cybersecurity for Decision Makers; When Leadership Becomes the First Line of Defense | Aysha Misri | [Read More](https://medium.com/p/7d2f67568eb6) |
-| Sat, 11 Oct 2025 14:05:51 GMT | Stepping into Virtualization: A New Cybersecurity Engineer’s Journey | Muhammed Akif Kaya | [Read More](https://medium.com/p/5b694ddf1896) |
-| Sat, 11 Oct 2025 14:02:12 GMT | Part 11:(b) Understanding and Mitigating Modern Cybersecurity Vulnerabilities | Intelithics | [Read More](https://medium.com/p/5265a33faae9) |
-| Sat, 11 Oct 2025 14:02:06 GMT | HTB Academy — Web Attacks: A Walkthrough of the Challenges (Part 1) | BotsiCat | [Read More](https://medium.com/p/fb306786d4c1) |
-| Sat, 11 Oct 2025 14:02:01 GMT | Zero-Trust and Compliance — Aligning Abatis Security with Global Regulation | Abatis ABTU | [Read More](https://medium.com/p/bf94569c0fdf) |
-| Sat, 11 Oct 2025 13:59:46 GMT | Investigate Email Spoofing | devsecops | [Read More](https://medium.com/p/a9fde5b1d32f) |
