@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 18:36:33 GMT | SOC Team-The silent guardians of your enterprise | Kota Deepak sai | [Read More](https://medium.com/p/6c3aa338dc8e) |
+| Sat, 11 Oct 2025 18:24:19 GMT | Secure your service on Cloud Run with GCP API Gateway and Firebase security | Nidhi tiwari | [Read More](https://medium.com/p/0ecd15584eaa) |
+| Sat, 11 Oct 2025 18:23:54 GMT | AI/ML Security Threats – TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/70b1868231f0) |
 | Sat, 11 Oct 2025 18:21:31 GMT | Building a Zero-Cost SOC Lab: Security Onion, Wazuh, TheHive, Cortex, and n8n | Deniz Topaloglu | [Read More](https://medium.com/p/26c77734ddc3) |
 | Sat, 11 Oct 2025 18:20:19 GMT | The 10 Biggest Cyber Attacks in History | Algorithm Man | [Read More](https://medium.com/p/82c7daa7de90) |
 | Sat, 11 Oct 2025 18:12:18 GMT | Red Flags That Your Website Is Already Being Probed by Attackers | Beri Contraster | [Read More](https://medium.com/p/f8117f5c6e5c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 13:04:08 GMT | Mastering the Architecture Project Lifecycle: A TOGAF-Informed Blueprint for Iterative Success | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/8f369ecf202d) |
 | Sat, 11 Oct 2025 12:58:13 GMT | Eset Smart Security Premium — Free for a limited time! | SAWAHITS | [Read More](https://medium.com/p/180669ce306e) |
 | Sat, 11 Oct 2025 12:55:53 GMT | ️‍♂️ picoCTF 2024 — Forensics Challenge: CanYouSee | Moghul Kannan N | [Read More](https://medium.com/p/99dd1620d5b5) |
-| Sat, 11 Oct 2025 12:55:24 GMT | Agentic AI Agent Role or User based access control | Balamurugan Balakreshnan | [Read More](https://medium.com/p/9910b67c6400) |
-| Sat, 11 Oct 2025 12:45:23 GMT | Top 5 Cybersecurity Jobs That Will Boom in 2025 (and What Skills You Need) | Tech Fest | [Read More](https://medium.com/p/d1e6ff372f25) |
-| Sat, 11 Oct 2025 12:41:24 GMT | picoCTF 2021 — Forensics Challenge: “information” | Moghul Kannan N | [Read More](https://medium.com/p/cb6068c7b8bd) |
