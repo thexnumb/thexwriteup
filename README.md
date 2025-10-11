@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 06:39:30 GMT | Top 5 WordPress 2FA Plugins for Enhanced Security in 2025 | Smit Pipaliya | [Read More](https://medium.com/p/fa60d6187f72) |
+| Sat, 11 Oct 2025 06:27:09 GMT | Threat Intelligence Report: The Silent Epidemic of Exposed Docker APIs | ZoomEye | [Read More](https://medium.com/p/4b59d3eba1e0) |
+| Sat, 11 Oct 2025 06:26:43 GMT | Why the Western World Can’t Talk About Health Anymore | Eleanorkojan | [Read More](https://medium.com/p/7499a7ab2705) |
+| Sat, 11 Oct 2025 06:25:39 GMT | Google’s 90% Dominance: Why UK Regulators Are Finally Taking Action | Technivis | [Read More](https://medium.com/p/469cd102bb12) |
+| Sat, 11 Oct 2025 06:22:24 GMT | International Security Conference Returns to Dehradun After a Decade | Deepak Sharma | [Read More](https://medium.com/p/770f17741dba) |
+| Sat, 11 Oct 2025 06:18:44 GMT | “The Phantom Resource” — A Terraform Null Horror Story | Sainath Shivaji Mitalakar | [Read More](https://medium.com/p/d48f2bb20485) |
+| Sat, 11 Oct 2025 06:15:10 GMT | Gemini 2.5 Computer Use: What Computer Use Sees That Your Script Never Will… | R. Thompson (PhD) | [Read More](https://medium.com/p/cc313136b63c) |
 | Sat, 11 Oct 2025 06:08:58 GMT | Building the Backbone: Establishing and Sustaining an Enterprise Architecture Capability | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/cfb4272d6f91) |
 | Sat, 11 Oct 2025 06:08:37 GMT | Biggest Cybersecurity Conference in Uttarakhand | Shivakshi Rawat | [Read More](https://medium.com/p/7ac13c892297) |
 | Sat, 11 Oct 2025 05:47:04 GMT | The New Era of QA: Less Testing, More Intelligence | Rıdvan Taşkıran | [Read More](https://medium.com/p/2beaf615b80c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Oct 2025 18:54:24 GMT | Vigilance: Our Shared Responsibility | Mariyam Fatima | [Read More](https://medium.com/p/bca4b8f34cd2) |
 | Fri, 10 Oct 2025 18:52:26 GMT | JaWT Scratchpad — picoCTF 2025 | abdelruhmanaskar | [Read More](https://medium.com/p/481e7b8144ea) |
 | Fri, 10 Oct 2025 18:50:18 GMT | Beyond the Firewall: How Math and AI Are Fighting Social Engineering Attacks | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/671185f8e9e7) |
-| Fri, 10 Oct 2025 18:50:02 GMT | Stopping Bad Actors: Inside 1Password’s Security Model | Ely | [Read More](https://medium.com/p/8c65c6acb9ff) |
-| Fri, 10 Oct 2025 18:48:36 GMT | Hidden in Plain Sight: Chaining CSS Override to XSS & Email Bombing | Dipesh Paul | [Read More](https://medium.com/p/9e43be1826a7) |
-| Fri, 10 Oct 2025 18:45:49 GMT | Understanding Polymorphic Viruses: The Shape-Shifting Cyber Threat | SafeAeon Inc. | [Read More](https://medium.com/p/14cfabb9f02e) |
-| Fri, 10 Oct 2025 18:34:04 GMT | Remote Execution and Kansa — Still One of the Most Underrated IR Tools | Dean | [Read More](https://medium.com/p/19e1d4aa1804) |
-| Fri, 10 Oct 2025 18:31:01 GMT | We Are Driving Away Our Future | Sarah Connahan | [Read More](https://medium.com/p/8ae565f984fb) |
-| Fri, 10 Oct 2025 18:23:19 GMT | Lab 9: SQL Injection UNION Attack (Retrieving Data from Other Tables) | Apexium Technologies Ltd | [Read More](https://medium.com/p/7343e39d32b1) |
-| Fri, 10 Oct 2025 18:20:58 GMT | ️‍♂️ Inside a Cyberattack: How Hackers Break In | Asif.k | [Read More](https://medium.com/p/930a8c9316d1) |
