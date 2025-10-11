@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 21:32:41 GMT | Defensive Programming: Build for the Worst, Not the Best | H2bm | [Read More](https://medium.com/p/a2c19baaa9cd) |
 | Sat, 11 Oct 2025 21:07:44 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/e9668c24ea53) |
 | Sat, 11 Oct 2025 21:04:16 GMT | When GraphQL becomes a backdoor: SSRF to RCE in a real-world GraphQL endpoint. | MrLionOfficial | [Read More](https://medium.com/p/b4ab3b14573f) |
 | Sat, 11 Oct 2025 20:57:57 GMT | TryHackMe Writeup: CMesS | Berkay AĞGÜL | [Read More](https://medium.com/p/f4a9c354c991) |
@@ -112,4 +113,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 14:23:52 GMT | International Cybersecurity Cooperation | Cyber Security Research | [Read More](https://medium.com/p/b9809fc12fc3) |
 | Sat, 11 Oct 2025 14:23:19 GMT | Master Advanced Netcat Usage for Hackers: Techniques Beyond Reverse Shells | Very Lazy Tech | [Read More](https://medium.com/p/89f5e29776cb) |
 | Sat, 11 Oct 2025 14:17:10 GMT | My Devoxx 2025 experience | Jettro Coenradie | [Read More](https://medium.com/p/b78b0e1cace1) |
-| Sat, 11 Oct 2025 14:16:11 GMT | We Should Have a “You Got Hacked, You Pay” Law | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/374e1ba07000) |
