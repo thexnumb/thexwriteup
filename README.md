@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 15:37:16 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Cipher0x00 | [Read More](https://medium.com/p/411fdb4f912e) |
+| Sat, 11 Oct 2025 15:32:09 GMT | Interesting : Profile Pictures CP DoS | Exploit5lover | [Read More](https://medium.com/p/5e233f3b13aa) |
+| Sat, 11 Oct 2025 15:32:02 GMT | SQL Injection: Extracting Data from Other Tables | Cipher0x00 | [Read More](https://medium.com/p/f1fbfae05dd1) |
+| Sat, 11 Oct 2025 15:32:02 GMT | SQL Injection: Finding Text-Compatible Columns | Cipher0x00 | [Read More](https://medium.com/p/5a76aee01f92) |
+| Sat, 11 Oct 2025 15:27:59 GMT | CTBB Podcast Notes: The Full-Time Bug Hunter’s Blueprint | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/8ec2b126add5) |
+| Sat, 11 Oct 2025 15:22:36 GMT | Active Directory Hacking: ASREP Roasting | SilentExploit | [Read More](https://medium.com/p/34efab61cb91) |
+| Sat, 11 Oct 2025 15:22:23 GMT | TombWatcher Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/f417fe667c49) |
+| Sat, 11 Oct 2025 15:21:31 GMT | Your Selfie Knows Where You Live: The Truth About EXIF Data | ImashaNilupul | [Read More](https://medium.com/p/cae0566ddb28) |
+| Sat, 11 Oct 2025 15:21:17 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/76938c5fe5c3) |
+| Sat, 11 Oct 2025 15:21:06 GMT | HackerOne verse 81 millions de dollars en primes de bug bounty | Marc Barbezat | [Read More](https://medium.com/p/c96dbf674159) |
+| Sat, 11 Oct 2025 15:20:49 GMT | The Zero-Trust Architecture That Eliminates Network Perimeters | Sohail x Codes | [Read More](https://medium.com/p/bb64c3f323c5) |
+| Sat, 11 Oct 2025 15:15:48 GMT | Why Chrome’s Incognito Mode Isn’t Always Enough | www.OneCoolTip.com | [Read More](https://medium.com/p/eee2748947f1) |
+| Sat, 11 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 11, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/023d0f2fe51d) |
+| Sat, 11 Oct 2025 15:14:21 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/38d143340072) |
+| Sat, 11 Oct 2025 15:13:40 GMT | Active Directory Penetration Testing | Bara2Sabbah | [Read More](https://medium.com/p/58a5534ceee0) |
+| Sat, 11 Oct 2025 15:11:57 GMT | So I Took CS50 Cybersecurity… Here’s What It Actually Felt Like | Khan Jariff Al Naseeb | [Read More](https://medium.com/p/3418436f7ce0) |
+| Sat, 11 Oct 2025 15:08:12 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/247d376a1025) |
 | Sat, 11 Oct 2025 15:05:52 GMT | Identifying Phishing Emails | Corey Farley | [Read More](https://medium.com/p/f8f041d93ed2) |
 | Sat, 11 Oct 2025 15:03:21 GMT | HTB TombWatcher Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/f57883ebbbe7) |
 | Sat, 11 Oct 2025 15:01:57 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ae922dd20461) |
+| Sat, 11 Oct 2025 14:58:35 GMT | Hackers Steal 70,000 Government ID Photos from Discord Vendor — Everything You Need to Know —… | Bintu's Art and Everything | [Read More](https://medium.com/p/fe0607209d59) |
 | Sat, 11 Oct 2025 14:54:30 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/9dc91d0bd8ab) |
 | Sat, 11 Oct 2025 14:54:15 GMT | Defending Against OSINT: How to Reduce Your Digital Footprint | Shahzaib | [Read More](https://medium.com/p/3fb19dfef41c) |
 | Sat, 11 Oct 2025 14:54:03 GMT | How to Protect Data in Public Cloud Services (AWS, Azure, GCP) | Samina Perveen | [Read More](https://medium.com/p/0497ca9e06b5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 10:55:33 GMT | Smart People, Costly Mistakes: The Psychology Behind Financial Scams | Manoj Sebastian Kulatharayil | [Read More](https://medium.com/p/52a2d873499e) |
 | Sat, 11 Oct 2025 10:54:28 GMT | Beyond the Hype: Confronting the Real Security Risks of Generative AI | Janaki Gullapudi | [Read More](https://medium.com/p/3e979984a188) |
 | Sat, 11 Oct 2025 10:52:48 GMT | When Python Stopped Being a Language and Became My Therapy | Fateyaly | [Read More](https://medium.com/p/6ad3f02f8ef8) |
-| Sat, 11 Oct 2025 10:51:47 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/4a1fa3b599b9) |
-| Sat, 11 Oct 2025 10:44:44 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/03503e3fe477) |
-| Sat, 11 Oct 2025 10:42:04 GMT | Beyond Hardware: How Digital Shield is Systemically Revolutionizing Decentralized Asset Management… | Digital Shield | [Read More](https://medium.com/p/09c49e78de44) |
-| Sat, 11 Oct 2025 10:40:44 GMT | The Final Exploit: Turning Your Skills Into Impact | Fateyaly | [Read More](https://medium.com/p/e15b8b0573fe) |
-| Sat, 11 Oct 2025 10:38:15 GMT | Securycor’s Approach to Effective Crowd Management | Travel with us | [Read More](https://medium.com/p/4dbe1c9a764c) |
-| Sat, 11 Oct 2025 10:37:52 GMT | The Role of Government in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/0aea522fbd90) |
-| Sat, 11 Oct 2025 10:37:51 GMT | DAY 1: CIA TRIAD | Krish Shrestha | [Read More](https://medium.com/p/81199d7d09ff) |
-| Sat, 11 Oct 2025 10:35:13 GMT | Solving OWASP Android Uncrackable L1 | D0loresH4ze | [Read More](https://medium.com/p/f5c55f8790db) |
-| Sat, 11 Oct 2025 10:31:33 GMT | Cyber Insurance: Protecting Against Cyber Losses | Cyber Security Research | [Read More](https://medium.com/p/6358ad848a66) |
-| Sat, 11 Oct 2025 10:25:10 GMT | Securing Your Smart Home | Cyber Security Research | [Read More](https://medium.com/p/786f6ffb46a2) |
-| Sat, 11 Oct 2025 10:23:57 GMT | Microsoft Warns of “Payroll Pirates”: How Hackers Are Stealing Employee Salaries Through HR… | IamPreth | [Read More](https://medium.com/p/e5c9071c7ace) |
-| Sat, 11 Oct 2025 10:22:30 GMT | Dark Web, a Haven for Cybercriminals and Whistleblowers Alike | David SEHYEON Baek | [Read More](https://medium.com/p/017c5fdf8849) |
-| Sat, 11 Oct 2025 10:13:39 GMT | Secure Your Peace of Mind: Top Security Guard Services in Los Angeles | Travel time | [Read More](https://medium.com/p/188c167e284a) |
-| Sat, 11 Oct 2025 10:12:15 GMT | Protecting Your Personal Data Online | Cyber Security Research | [Read More](https://medium.com/p/695103f0d4b0) |
-| Sat, 11 Oct 2025 10:11:58 GMT | 5 Data Science Tricks That Instantly Made My Analysis Smarter | Muhummad Zaki | [Read More](https://medium.com/p/41078f673017) |
-| Sat, 11 Oct 2025 10:03:36 GMT | Your Complete CCTV Handbook for Oman’s Security Landscape | Tekshoyabeelyas | [Read More](https://medium.com/p/62909cbfee28) |
-| Sat, 11 Oct 2025 10:03:30 GMT | 7 Fast-Path Auth Tricks for Real-World Latency | Thinking Loop | [Read More](https://medium.com/p/0d187944f3d5) |
-| Sat, 11 Oct 2025 09:59:59 GMT | Strata Cloud Manager By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7cf2939e7dcf) |
