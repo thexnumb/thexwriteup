@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 20:33:09 GMT | File Upload Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/7db01cae76c6) |
+| Sat, 11 Oct 2025 20:26:24 GMT | PoC for CVE-2025–49844, CVE-2025–46817 and CVE-2025–46818 Critical Lua Engine Vulnerabilities | ASAcrew Blog | [Read More](https://medium.com/p/b336b6d4b92a) |
 | Sat, 11 Oct 2025 20:14:15 GMT | 1. Introduction: The Growing Threat to Web3
 The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](https://medium.com/p/9cf8e02fa467) |
 | Sat, 11 Oct 2025 19:59:00 GMT | Event Tracing for Windows: The Hidden Telemetry Goldmine | Cybersecurity Simplified | [Read More](https://medium.com/p/765e17a7ba60) |
@@ -111,5 +113,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 14:02:06 GMT | HTB Academy — Web Attacks: A Walkthrough of the Challenges (Part 1) | BotsiCat | [Read More](https://medium.com/p/fb306786d4c1) |
 | Sat, 11 Oct 2025 14:02:01 GMT | Zero-Trust and Compliance — Aligning Abatis Security with Global Regulation | Abatis ABTU | [Read More](https://medium.com/p/bf94569c0fdf) |
 | Sat, 11 Oct 2025 13:59:46 GMT | Investigate Email Spoofing | devsecops | [Read More](https://medium.com/p/a9fde5b1d32f) |
-| Sat, 11 Oct 2025 13:56:50 GMT | Rethinking Your Digital Locks: 4 Surprising Truths About Account Security | Amna Arshad | [Read More](https://medium.com/p/865984db4b5f) |
-| Sat, 11 Oct 2025 13:55:44 GMT | Skynet - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/55342cddb04d) |
