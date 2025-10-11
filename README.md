@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Oct 2025 10:38:15 GMT | Securycor’s Approach to Effective Crowd Management | Travel with us | [Read More](https://medium.com/p/4dbe1c9a764c) |
+| Sat, 11 Oct 2025 10:37:52 GMT | The Role of Government in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/0aea522fbd90) |
+| Sat, 11 Oct 2025 10:31:33 GMT | Cyber Insurance: Protecting Against Cyber Losses | Cyber Security Research | [Read More](https://medium.com/p/6358ad848a66) |
+| Sat, 11 Oct 2025 10:25:10 GMT | Securing Your Smart Home | Cyber Security Research | [Read More](https://medium.com/p/786f6ffb46a2) |
+| Sat, 11 Oct 2025 10:23:57 GMT | Microsoft Warns of “Payroll Pirates”: How Hackers Are Stealing Employee Salaries Through HR… | IamPreth | [Read More](https://medium.com/p/e5c9071c7ace) |
+| Sat, 11 Oct 2025 10:22:30 GMT | Dark Web, a Haven for Cybercriminals and Whistleblowers Alike | David SEHYEON Baek | [Read More](https://medium.com/p/017c5fdf8849) |
+| Sat, 11 Oct 2025 10:13:39 GMT | Secure Your Peace of Mind: Top Security Guard Services in Los Angeles | Travel time | [Read More](https://medium.com/p/188c167e284a) |
+| Sat, 11 Oct 2025 10:12:15 GMT | Protecting Your Personal Data Online | Cyber Security Research | [Read More](https://medium.com/p/695103f0d4b0) |
 | Sat, 11 Oct 2025 10:11:58 GMT | 5 Data Science Tricks That Instantly Made My Analysis Smarter | Muhummad Zaki | [Read More](https://medium.com/p/41078f673017) |
 | Sat, 11 Oct 2025 10:03:36 GMT | Your Complete CCTV Handbook for Oman’s Security Landscape | Tekshoyabeelyas | [Read More](https://medium.com/p/62909cbfee28) |
 | Sat, 11 Oct 2025 10:03:30 GMT | 7 Fast-Path Auth Tricks for Real-World Latency | Thinking Loop | [Read More](https://medium.com/p/0d187944f3d5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Oct 2025 00:28:47 GMT | Google Dorking for Beginners: The Search Tricks Investigators Actually Use | Aj | [Read More](https://medium.com/p/0fa98cfef5f4) |
 | Sat, 11 Oct 2025 00:23:31 GMT | The Authentication Mistake That Could Cost You Everything (And How to Fix It) | Wasif Balol | [Read More](https://medium.com/p/59bbfde1c522) |
 | Sat, 11 Oct 2025 00:02:00 GMT | GetAllUrls (gau): The Detector of Old and Forgotten Endpoints in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/8f8a40a92606) |
-| Sat, 11 Oct 2025 00:01:02 GMT | CAPA: The Basics - THM | Isiah | [Read More](https://medium.com/p/ecc3ef816ed3) |
-| Fri, 10 Oct 2025 23:30:45 GMT | How NIST Picked the Post-Quantum Cryptography Winners — and Why It Matters | Piyush | [Read More](https://medium.com/p/c08c8c98d1e6) |
-| Fri, 10 Oct 2025 23:20:41 GMT | FlagYard — OhMycURL - Web Exploitation - CTF Challenge Writeup | Xyph3ria | [Read More](https://medium.com/p/d4842f25febc) |
-| Fri, 10 Oct 2025 23:18:22 GMT | The Shortest Vector Problem: The Hard Math Powering Post-Quantum Cryptography | Piyush | [Read More](https://medium.com/p/0081d598eae4) |
-| Fri, 10 Oct 2025 23:18:22 GMT | When the Screen Becomes a Weapon | Samirah A.O | [Read More](https://medium.com/p/5e72e6f8769d) |
-| Fri, 10 Oct 2025 23:04:53 GMT | I was never enough for you… | -Xri- | [Read More](https://medium.com/p/3734b5a7b478) |
-| Fri, 10 Oct 2025 22:58:19 GMT | Common Terms in Fraud & Cybercrime | Godsway R. Akakpo | [Read More](https://medium.com/p/d9b14da831ae) |
-| Fri, 10 Oct 2025 22:50:24 GMT | Haust Network: Pioneering the Next Era of Scalable, Secure, and User-Centric DeFi | Max Branden | [Read More](https://medium.com/p/44d886a4bad2) |
