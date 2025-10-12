@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 09:35:48 GMT | Multi-Factor Authentication: Strengthening Your First Line of Defense | Chaitanya Appani | [Read More](https://medium.com/p/3ac7b15efc74) |
+| Sun, 12 Oct 2025 09:29:20 GMT | AI Intimacy & the Future of Vulnerability | thetg | [Read More](https://medium.com/p/d4e8a403d3da) |
+| Sun, 12 Oct 2025 09:27:15 GMT | Excerpts from My Seven-Year Journey in Software Engineering | Adebayo Oluwatobiloba | [Read More](https://medium.com/p/bc5f78bee9b3) |
+| Sun, 12 Oct 2025 09:26:40 GMT | Zero-Day Vulnerabilities: How to Stay Ahead of Unknown Threats | Devi prasad Guda | [Read More](https://medium.com/p/992ab16d7a77) |
+| Sun, 12 Oct 2025 09:23:49 GMT | No Experience, No Fee: Earn the ISC2 CC Certification for $0 | 3eyedraven | [Read More](https://medium.com/p/e01c9288f04b) |
+| Sun, 12 Oct 2025 09:19:38 GMT | The Hidden Symphony of Python Threads: How I Learned to Run Many Tasks in Harmony | Kainat Nafees | [Read More](https://medium.com/p/a9837b8d5f9c) |
+| Sun, 12 Oct 2025 09:18:07 GMT | Ransomware Attack Prevention - Networksecurity Solutions2025 | Netwise Technology LLC | [Read More](https://medium.com/p/5aaca58ea553) |
 | Sun, 12 Oct 2025 09:02:13 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/603a0c47db95) |
 | Sun, 12 Oct 2025 08:54:16 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/b9bf342f9b45) |
 | Sun, 12 Oct 2025 08:51:20 GMT | Bad handler to Database takeover | Allawi | [Read More](https://medium.com/p/48fb1976dd7e) |
@@ -37,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 07:38:14 GMT | Cybersecurity in Finance | Cyber Security Research | [Read More](https://medium.com/p/1648a8f8998c) |
 | Sun, 12 Oct 2025 07:36:56 GMT | Free 9-hour Bug Bounty Boot Camp | Yaniv | [Read More](https://medium.com/p/c9ad973fa25d) |
 | Sun, 12 Oct 2025 07:30:08 GMT | Cybersecurity in Healthcare | Cyber Security Research | [Read More](https://medium.com/p/88059dfcd056) |
+| Sun, 12 Oct 2025 07:24:40 GMT | ⚡ LIVE DATA from hacked testphp.vulnweb.com : The Honeypot made Public  by Cyber Kalki | Krivadna | [Read More](https://medium.com/p/bf8e0ce6110a) |
 | Sun, 12 Oct 2025 07:24:22 GMT | Zero Trust Security: A New Paradigm | Cyber Security Research | [Read More](https://medium.com/p/9e78b15f6da9) |
 | Sun, 12 Oct 2025 07:17:25 GMT | DevSecOps: Integrating Security into Development | Cyber Security Research | [Read More](https://medium.com/p/8e7613c851f2) |
 | Sun, 12 Oct 2025 07:16:58 GMT | GoCow HTB | Ishita Kapur | [Read More](https://medium.com/p/9b9946ff0902) |
@@ -107,11 +115,3 @@ How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e33
 | Sat, 11 Oct 2025 22:46:39 GMT | dear hackers | SmcdS | [Read More](https://medium.com/p/6c0336700414) |
 | Sat, 11 Oct 2025 22:32:25 GMT | Packets on a Mission: How Data Actually Travels Across the Internet | Thegreatpayload | [Read More](https://medium.com/p/a0fe0bada142) |
 | Sat, 11 Oct 2025 22:28:29 GMT | When Courage Stops Trying to Look Brave | Coudless Climes | [Read More](https://medium.com/p/848ba9106360) |
-| Sat, 11 Oct 2025 22:24:55 GMT | Your Apps Are Spying on You (And You Gave Them Permission) | Samirah A.O | [Read More](https://medium.com/p/8b4f036b7157) |
-| Sat, 11 Oct 2025 22:22:03 GMT | My JailCTF Experience (and Writeups) | Maksim Hayder | [Read More](https://medium.com/p/1cea3d85cd81) |
-| Sat, 11 Oct 2025 22:12:28 GMT | TryHackMe: Secret Recipe | Davenyamongo | [Read More](https://medium.com/p/935aa3abc871) |
-| Sat, 11 Oct 2025 22:09:12 GMT | Creating a HIPAA compliant Site-to-Site VPN in AWS | Davis Mtui | [Read More](https://medium.com/p/a096198aa5fd) |
-| Sat, 11 Oct 2025 22:07:03 GMT | RAUL’S A LITTLE STINKER | Ron Fredman | [Read More](https://medium.com/p/6ccec57a72de) |
-| Sat, 11 Oct 2025 21:58:42 GMT | Vulnerability management program for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/392fd297b1e3) |
-| Sat, 11 Oct 2025 21:48:41 GMT | Top Computer Virus Removal Services in the UK: How to Clean and Protect Your Device | Harry Johnson | [Read More](https://medium.com/p/f55c92d27a59) |
-| Sat, 11 Oct 2025 21:38:28 GMT | Adjusting the the Challenges of Entering Cybersecurity | Tyler Wall | [Read More](https://medium.com/p/f082dcf1274d) |
