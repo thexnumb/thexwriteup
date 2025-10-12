@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 03:39:29 GMT | The Silent Leaks — How Repeated Yahoo Japan Data Circulations Reveal a Hidden Threat to Japanese… | David SEHYEON Baek | [Read More](https://medium.com/p/fdf3d2c6cdd2) |
+| Sun, 12 Oct 2025 03:32:50 GMT | Warlock Ransomware: How SharePoint Flaws Were Weaponized to Breach Enterprises | Deven Chhajed | [Read More](https://medium.com/p/5368bfaa40e0) |
+| Sun, 12 Oct 2025 03:26:31 GMT | The Real Story of Cybersecurity: It’s Not About Tools — It’s About Understanding Risks | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/d83afe0b9b8f) |
+| Sun, 12 Oct 2025 03:26:04 GMT | PHP — Command injection RootMe | YunchoHang | [Read More](https://medium.com/p/0ee12bb7d1a1) |
+| Sun, 12 Oct 2025 03:02:51 GMT | Blind SQL Injection: Conditional Errors (Oracle) | Cipher0x00 | [Read More](https://medium.com/p/9a400df0cd97) |
 | Sun, 12 Oct 2025 02:57:20 GMT | OWASP Top 10 Mobile Risks that made me 5000$ | Anonymous Traiger | [Read More](https://medium.com/p/d377e10d71f5) |
 | Sun, 12 Oct 2025 02:54:14 GMT | Mic-E-Mouse: When Your Gaming Mouse Becomes a Microphone | William Osei Prempeh | [Read More](https://medium.com/p/3315e57000ad) |
 | Sun, 12 Oct 2025 02:45:33 GMT | Attacking iOS: Elite Recon and Exploitation Guide For Bug Bounty Hunters | Anonymous Traiger | [Read More](https://medium.com/p/0c67e2160484) |
@@ -111,8 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 16:12:04 GMT | Cyber Security Careers in School IT: SentryPC for Staff & Admins | Paul Meyer | [Read More](https://medium.com/p/b5f57f70dc2d) |
 | Sat, 11 Oct 2025 16:01:54 GMT | Cyber Security Simulation Software | Grandahsan | [Read More](https://medium.com/p/20a9c110ec2f) |
 | Sat, 11 Oct 2025 15:58:49 GMT | Day 67- Azure basics for cybersecurity beginners | unica 02 | [Read More](https://medium.com/p/6fb798098777) |
-| Sat, 11 Oct 2025 15:52:25 GMT | Cyber Security Resilience Services | Grandahsan | [Read More](https://medium.com/p/a90953e00bfc) |
-| Sat, 11 Oct 2025 15:52:13 GMT | Write-Up — CyberYard Finals 2025 - BehindTheScene | DieLoop | [Read More](https://medium.com/p/69de87dc72ae) |
-| Sat, 11 Oct 2025 15:52:03 GMT | The economics of living longer, especially with advances in “longevity tech,” are complex and raise… | Zeeshan Safdar | [Read More](https://medium.com/p/bb985ae7d514) |
-| Sat, 11 Oct 2025 15:41:27 GMT | Unknown Russian Cyber Attacks Since Sep 2025 | Md. Abdullah Al Mamun | [Read More](https://medium.com/p/c65328d5bc41) |
-| Sat, 11 Oct 2025 15:37:16 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Cipher0x00 | [Read More](https://medium.com/p/411fdb4f912e) |
