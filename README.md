@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 11:12:34 GMT | Top 10 Black Hat Hackers in the World | Manisha Chaudhary | [Read More](https://medium.com/p/ae86bbe137f9) |
+| Sun, 12 Oct 2025 11:09:08 GMT | The Hacker’s Journey: From Curiosity to Mastery | Fateyaly | [Read More](https://medium.com/p/2f97e2265619) |
+| Sun, 12 Oct 2025 11:04:55 GMT | From Offense to Defense: Crafting the Modern Detection Engineer | CyberFreak | [Read More](https://medium.com/p/37ba60e6c09e) |
+| Sun, 12 Oct 2025 11:00:58 GMT | “Who Am IAM” Çözümü | Yusuf Taha Kurt | [Read More](https://medium.com/p/300271488253) |
+| Sun, 12 Oct 2025 10:51:19 GMT | Comet AI Browser is Vulnerable to Full Data Exfiltration via Malicious URLs (CometJacking) | Gal Moshkovitz | [Read More](https://medium.com/p/a2d156555eda) |
+| Sun, 12 Oct 2025 10:49:20 GMT | DockerLabs Writeup — Patriaquerida (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/748be259cf47) |
+| Sun, 12 Oct 2025 10:46:56 GMT | I’m Not Cold. I’m Just Tired. | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/833710c52859) |
+| Sun, 12 Oct 2025 10:45:05 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/a745d2c122d2) |
+| Sun, 12 Oct 2025 10:41:01 GMT | How I Earned My First Three Bounties | Pawan parmar | [Read More](https://medium.com/p/d4ce1f71cee2) |
+| Sun, 12 Oct 2025 10:36:29 GMT | My Mind is Blown by Google’s New CodeMender AI Agent | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/d25425ace12d) |
+| Sun, 12 Oct 2025 10:35:04 GMT | DAY 2: Understanding POLP, DDM, and Security Standards — The Foundations of Cyber Defense | Krish Shrestha | [Read More](https://medium.com/p/87aec5ae67f3) |
+| Sun, 12 Oct 2025 10:32:55 GMT | Vector Attascks on LLMs: A Gandalf Case Study | Gal Moshkovitz | [Read More](https://medium.com/p/ce990ac1005c) |
 | Sun, 12 Oct 2025 10:09:38 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/ec0808cd5910) |
 | Sun, 12 Oct 2025 10:00:52 GMT | Mastering Shells for Penetration Testing: TryHackMe Shells Overview | Motasem Hamdan | [Read More](https://medium.com/p/e857c08733ab) |
 | Sun, 12 Oct 2025 09:52:33 GMT | Deep Dive into Auditd Advanced Usage on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/b4dcab760922) |
@@ -102,16 +114,3 @@ Cybersecurity on National Security | Nevaeh R. Dukes | [Read More](https://mediu
 | Sun, 12 Oct 2025 02:09:57 GMT | API Security Nightmares: API Breach That Could Destroy Your Business — And How to Stop It | Benjamin Cham | [Read More](https://medium.com/p/827b9ebae350) |
 | Sun, 12 Oct 2025 01:42:37 GMT | AI and the Future of War: Lessons from Ukraine’s Battlefield Revolution | CCL Montante | [Read More](https://medium.com/p/c308f013d536) |
 | Sun, 12 Oct 2025 01:41:57 GMT | How Safe Is Remini Pro APK? Everything You Need to Know | Riemin Pro | [Read More](https://medium.com/p/015ec68853b0) |
-| Sun, 12 Oct 2025 01:22:19 GMT | Blessed City — HTB Crypto Challenge Writeup | 3xMB | [Read More](https://medium.com/p/ad069bdfeccb) |
-| Sun, 12 Oct 2025 01:10:38 GMT | What the Next Internet Might Look Like | Rabail Zaheer | [Read More](https://medium.com/p/2ea519a40271) |
-| Sun, 12 Oct 2025 01:01:43 GMT | 10 Python Dockerfile Anti-Patterns to Stop Using | Modexa | [Read More](https://medium.com/p/5a5721ffc19f) |
-| Sun, 12 Oct 2025 00:50:54 GMT | The Quiet Revolution of AI And Why You Should Pay Attention | Rezvan | [Read More](https://medium.com/p/f921aab36736) |
-| Sun, 12 Oct 2025 00:42:55 GMT | The Invisible Backpack | Mabo Duke | [Read More](https://medium.com/p/0a698efed918) |
-| Sun, 12 Oct 2025 00:39:12 GMT | Title: Every Wallet Carries a Pattern — How SubHub Turns Data into Trust for Web3 Drops | EHMPE RHOR | [Read More](https://medium.com/p/10aba69d33ca) |
-| Sun, 12 Oct 2025 00:13:53 GMT | How Zero-Trust Federated Learning Can Strengthen Data Security in Energy AI Systems | AI4Enegy | [Read More](https://medium.com/p/2efba544a9c6) |
-| Sun, 12 Oct 2025 00:08:04 GMT | Building an AI Chatbot for Visa Application Assistance – My MSc Journey | Aqeel Ahmed | [Read More](https://medium.com/p/25e33b49f80e) |
-| Sat, 11 Oct 2025 23:40:36 GMT | Coffee Corner CTF: A Security Journey | MOAMEN REZK | [Read More](https://medium.com/p/2a92816e1f9b) |
-| Sat, 11 Oct 2025 23:40:32 GMT | Serangan Siber Berbasis AI: Ancaman Baru dan Cara Mengamankan Aplikasi Web Anda di 2025 | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/7a9451bf41e2) |
-| Sat, 11 Oct 2025 23:40:21 GMT | Announcing rbac-miner: Automating Role Engineering for Modern IAM
-How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e332a5cc0741) |
-| Sat, 11 Oct 2025 23:19:19 GMT | Why I Monitor /var/log/secure (and Why Most Admins Don’t) | Faruk Ahmed | [Read More](https://medium.com/p/3a362b1ad415) |
