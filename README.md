@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 05:29:30 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | LuisM PoncedDeLeon | [Read More](https://medium.com/p/ba61674ed8a0) |
+| Sun, 12 Oct 2025 05:21:58 GMT | substation_at_0742.nfo | Rain Ginsberg | [Read More](https://medium.com/p/f047b0dde84c) |
+| Sun, 12 Oct 2025 05:17:40 GMT | Introducing PromptIntel | Thomas Roccia | [Read More](https://medium.com/p/1624d03045a3) |
+| Sun, 12 Oct 2025 05:17:22 GMT | Inside the Tools I Use Every Day as a Cybersecurity Analyst | Aj | [Read More](https://medium.com/p/cfdf9d4585a3) |
+| Sun, 12 Oct 2025 05:14:23 GMT | The Science and Significance of Your Unique Fingerprint | Geeky Vartika | [Read More](https://medium.com/p/d78299684d76) |
 | Sun, 12 Oct 2025 05:06:47 GMT | The Age of Artificial Intelligence: How Machines Are Learning to Think Like Us | Sohana Mondal | [Read More](https://medium.com/p/ee7517f7ed2a) |
 | Sun, 12 Oct 2025 05:02:44 GMT | Sandbox: From adduser Hell to a Bulletproof Docker Setup | Grzegorz Golowicz | [Read More](https://medium.com/p/70b3e21df857) |
 | Sun, 12 Oct 2025 05:01:53 GMT | The Age of Instant Knowledge: How Easy Access to Information Is Making Us Smarter Than Ever | Nathan A. Guest | [Read More](https://medium.com/p/5560b4e7f9d2) |
@@ -111,8 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 17:45:11 GMT | Inside the Anatomy of a Scam: How Phishing and Scam Sites Imitate Real Brands | Shami Sushant | [Read More](https://medium.com/p/5d684f3a92db) |
 | Sat, 11 Oct 2025 17:40:01 GMT | The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door | Iski | [Read More](https://medium.com/p/9948d05edf2b) |
 | Sat, 11 Oct 2025 17:39:35 GMT | AI based burglar alarm (school project) | Aarna Tripathi | [Read More](https://medium.com/p/15c4ee747db8) |
-| Sat, 11 Oct 2025 17:36:58 GMT | HackTheBox — Detecting Attacker Behavior With Splunk Based On TTPs | Javier | [Read More](https://medium.com/p/913e733d90af) |
-| Sat, 11 Oct 2025 17:33:48 GMT | Are Websites Dying? They’re Just Moving Backstage | Biodun Rhoda | [Read More](https://medium.com/p/c4dd5493f6d7) |
-| Sat, 11 Oct 2025 17:22:34 GMT | How AI is Transforming Cybersecurity: My Personal Understanding and Steps | Rushikesh Girase | [Read More](https://medium.com/p/05712e2d3c27) |
-| Sat, 11 Oct 2025 17:04:57 GMT | Rust and the Linux Rewrite Problem | Random Access | [Read More](https://medium.com/p/b60d3345b0b9) |
-| Sat, 11 Oct 2025 16:57:03 GMT | How I’m Secure In The Apple Ecosystem : Lock Your Life in Just 45 Minutes | Berker Ceylan | [Read More](https://medium.com/p/9ed628bdf151) |
