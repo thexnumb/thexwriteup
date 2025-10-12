@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 09:02:13 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/603a0c47db95) |
+| Sun, 12 Oct 2025 08:54:16 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/b9bf342f9b45) |
+| Sun, 12 Oct 2025 08:51:20 GMT | Bad handler to Database takeover | Allawi | [Read More](https://medium.com/p/48fb1976dd7e) |
+| Sun, 12 Oct 2025 08:47:38 GMT | How to Optimize Node.js Apps for Performance and Security | Gulshan Yadav | [Read More](https://medium.com/p/5cbcb8537065) |
+| Sun, 12 Oct 2025 08:45:03 GMT | SilentGuard | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/48df3762e4b6) |
+| Sun, 12 Oct 2025 08:43:03 GMT | How to Really Hack Your Gmail Account ? Methods from Hackers | Alexander Hoffmann | [Read More](https://medium.com/p/e7682df4a70f) |
 | Sun, 12 Oct 2025 08:37:51 GMT | Reconstructing User Activity from Android Artifacts | Zulfianarahmi | [Read More](https://medium.com/p/92c91be0e7d2) |
 | Sun, 12 Oct 2025 08:34:46 GMT | Top 9 Skills to Future-Proof Your Career in Cybersecurity! | Chhavipreet Kaur | [Read More](https://medium.com/p/55254a2d00eb) |
+| Sun, 12 Oct 2025 08:32:50 GMT | Building Enterprise Architecture Capability: A Strategic Engine for Change | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/f39ba26b3e37) |
 | Sun, 12 Oct 2025 08:28:18 GMT | How to Truly ‘Hack’ an Instagram Account? (And Why You Should Protect Yours!) | Alexander Hoffmann | [Read More](https://medium.com/p/60ef5f77b28b) |
 | Sun, 12 Oct 2025 08:24:46 GMT | Try-Hack-Me challenge walkthrough {CTF} | Arka Priya Das | [Read More](https://medium.com/p/f1bcdbf1b296) |
 | Sun, 12 Oct 2025 08:21:40 GMT | Don’t leave your coffee for too long, then ask why it’s cold. | Vijay Kumar Gupta | [Read More](https://medium.com/p/d1f0f7f8719f) |
@@ -108,10 +115,3 @@ How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e33
 | Sat, 11 Oct 2025 21:58:42 GMT | Vulnerability management program for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/392fd297b1e3) |
 | Sat, 11 Oct 2025 21:48:41 GMT | Top Computer Virus Removal Services in the UK: How to Clean and Protect Your Device | Harry Johnson | [Read More](https://medium.com/p/f55c92d27a59) |
 | Sat, 11 Oct 2025 21:38:28 GMT | Adjusting the the Challenges of Entering Cybersecurity | Tyler Wall | [Read More](https://medium.com/p/f082dcf1274d) |
-| Sat, 11 Oct 2025 21:35:15 GMT | Sui Security Explained: 7 Powerful Reasons It’s the Most Trusted Blockchain Ecosystem | BlockchainBard | [Read More](https://medium.com/p/b2c24f50a576) |
-| Sat, 11 Oct 2025 21:32:41 GMT | Defensive Programming: Build for the Worst, Not the Best | H2bm | [Read More](https://medium.com/p/a2c19baaa9cd) |
-| Sat, 11 Oct 2025 21:31:31 GMT | Day 6 of my cybersecurity journey: Windows Security Features | Ogundipe Priscilla | [Read More](https://medium.com/p/ba3bdbfd19e1) |
-| Sat, 11 Oct 2025 21:31:23 GMT | Bosnian Thieves: Aid Setic & Sabrina Muminovic | Knightofuae | [Read More](https://medium.com/p/c400c849a362) |
-| Sat, 11 Oct 2025 21:29:12 GMT | Clearing the CRTP: My Red Teaming Journey | Saadeddine Hachlaf | [Read More](https://medium.com/p/e5a80265295e) |
-| Sat, 11 Oct 2025 21:07:44 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/e9668c24ea53) |
-| Sat, 11 Oct 2025 21:04:16 GMT | When GraphQL becomes a backdoor: SSRF to RCE in a real-world GraphQL endpoint. | MrLionOfficial | [Read More](https://medium.com/p/b4ab3b14573f) |
