@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 16:39:24 GMT | Reflected XSS into HTML context with nothing encoded | Hussin Ibrahim | [Read More](https://medium.com/p/52657d52a05b) |
+| Sun, 12 Oct 2025 16:29:47 GMT | How to break RSA? A guide for Hackers and CTF players to crack the RSA encryption algorithm | Huzaifa Malik | [Read More](https://medium.com/p/c26f64ab0f35) |
+| Sun, 12 Oct 2025 16:16:56 GMT | Scythe: An AI-Powered CyberSecurity Workbench | Kanishk Rai | [Read More](https://medium.com/p/616d00f7461c) |
+| Sun, 12 Oct 2025 16:14:05 GMT | Mastering Seccomp Filters in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/f633f07eaec2) |
 | Sun, 12 Oct 2025 16:10:50 GMT | Free1000Update: A Trusted Telegram Hub for Digital News and Online Opportunities | Chidubemnwokolo | [Read More](https://medium.com/p/7cc73588a5a8) |
 | Sun, 12 Oct 2025 16:08:37 GMT | Patchwork | Abdo Ayman | [Read More](https://medium.com/p/6f7c5fb401f2) |
 | Sun, 12 Oct 2025 16:06:43 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/4796cc4bfc2c) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 11:16:08 GMT | Critical Red Hat OpenShift AI Vulnerability Exposes Hybrid Cloud Clusters to Full-Takeover (CVSS… | Gal Moshkovitz | [Read More](https://medium.com/p/281a9f70dd2a) |
 | Sun, 12 Oct 2025 11:12:34 GMT | Top 10 Black Hat Hackers in the World | Manisha Chaudhary | [Read More](https://medium.com/p/ae86bbe137f9) |
 | Sun, 12 Oct 2025 11:09:08 GMT | The Hacker’s Journey: From Curiosity to Mastery | Fateyaly | [Read More](https://medium.com/p/2f97e2265619) |
-| Sun, 12 Oct 2025 11:05:26 GMT | How to Recover Your Gmail Account: A Beginner’s Guide to Staying Safe Online | Alexander Hoffmann | [Read More](https://medium.com/p/99d2df3f4048) |
-| Sun, 12 Oct 2025 11:04:55 GMT | From Offense to Defense: Crafting the Modern Detection Engineer | CyberFreak | [Read More](https://medium.com/p/37ba60e6c09e) |
-| Sun, 12 Oct 2025 11:00:58 GMT | “Who Am IAM” Çözümü | Yusuf Taha Kurt | [Read More](https://medium.com/p/300271488253) |
-| Sun, 12 Oct 2025 10:51:19 GMT | Comet AI Browser is Vulnerable to Full Data Exfiltration via Malicious URLs (CometJacking) | Gal Moshkovitz | [Read More](https://medium.com/p/a2d156555eda) |
