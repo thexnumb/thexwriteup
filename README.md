@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 14:28:15 GMT | 1 What is the Internet Simple Explanation | Rana Awais | [Read More](https://medium.com/p/35f8960cf195) |
+| Sun, 12 Oct 2025 14:27:03 GMT | Modern M2M (Makineden Makineye) Kimlik Doğrulama Stratejileri | Eren Kaan Çakır | [Read More](https://medium.com/p/b3b9276affd0) |
+| Sun, 12 Oct 2025 14:26:38 GMT | I Got Publicly Humiliated at Work for Saying “It’s Been a Pleasure Working With You” | Aeryn Wylde | [Read More](https://medium.com/p/c0e9dd8387e2) |
+| Sun, 12 Oct 2025 14:21:42 GMT | Don’t Summon Evil with “123456” | Serhan Eraslan | [Read More](https://medium.com/p/1e4e4f9ba1ec) |
+| Sun, 12 Oct 2025 14:18:04 GMT | Why Your Bank’s “Security Questions” Are a Scam | Cyberkech | [Read More](https://medium.com/p/74ccfb9adcf1) |
 | Sun, 12 Oct 2025 14:11:40 GMT | The Silent Strength: Unpacking Why Men Often Keep Their Emotions Under Wraps | Pooja Sharma | [Read More](https://medium.com/p/89d11fab7612) |
 | Sun, 12 Oct 2025 14:08:24 GMT | Top 10 Network Scanning Tools Every Security Professional Should know | suraj baishya | [Read More](https://medium.com/p/12073870a79e) |
 | Sun, 12 Oct 2025 14:03:02 GMT | Dignity as Method- A Practical Guide to Resisting Hybrid Harassment | SIMKRA | [Read More](https://medium.com/p/8a5e299beb29) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 09:18:07 GMT | Ransomware Attack Prevention - Networksecurity Solutions2025 | Netwise Technology LLC | [Read More](https://medium.com/p/5aaca58ea553) |
 | Sun, 12 Oct 2025 09:02:13 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/603a0c47db95) |
 | Sun, 12 Oct 2025 08:54:16 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/b9bf342f9b45) |
-| Sun, 12 Oct 2025 08:51:20 GMT | Bad handler to Database takeover | Allawi | [Read More](https://medium.com/p/48fb1976dd7e) |
-| Sun, 12 Oct 2025 08:47:38 GMT | How to Optimize Node.js Apps for Performance and Security | Gulshan Yadav | [Read More](https://medium.com/p/5cbcb8537065) |
-| Sun, 12 Oct 2025 08:45:03 GMT | SilentGuard | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/48df3762e4b6) |
-| Sun, 12 Oct 2025 08:43:03 GMT | How to Really Hack Your Gmail Account ? Methods from Hackers | Alexander Hoffmann | [Read More](https://medium.com/p/e7682df4a70f) |
-| Sun, 12 Oct 2025 08:37:51 GMT | Reconstructing User Activity from Android Artifacts | Zulfianarahmi | [Read More](https://medium.com/p/92c91be0e7d2) |
