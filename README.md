@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 21:30:15 GMT | Analyzing HTTP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/aabe342e1614) |
 | Sun, 12 Oct 2025 21:13:01 GMT | The Role of AI in Cybersecurity | Sharon Ureh Odu | [Read More](https://medium.com/p/c76cb7282afc) |
 | Sun, 12 Oct 2025 20:49:14 GMT | Unlocking GitHub Business Plan: What You Get for Code Quality, Security, and Copilot | Riccardo Bernardi | [Read More](https://medium.com/p/9c5032d7a9ed) |
 | Sun, 12 Oct 2025 20:38:57 GMT | The Ultimate Threat Intelligence Playbook for Modern Security Teams | Shantnu K. | [Read More](https://medium.com/p/ca3f4c1c352a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 14:03:02 GMT | Dignity as Method- A Practical Guide to Resisting Hybrid Harassment | SIMKRA | [Read More](https://medium.com/p/8a5e299beb29) |
 | Sun, 12 Oct 2025 14:02:43 GMT | n8n(4) — 定期發送 ELK CVE-list 的內容至 Gmail，並產出 CVE-list 作成 csv 檔 | Tako | [Read More](https://medium.com/p/d9e4062e126b) |
 | Sun, 12 Oct 2025 14:02:35 GMT | Proven Trust Record — 20 Years of Zero Infections | Abatis ABTU | [Read More](https://medium.com/p/2f471fd830a8) |
-| Sun, 12 Oct 2025 13:59:52 GMT | The Death of the API Key: How AI Agents Will Authenticate Themselves | Joaquín Mondéjar | [Read More](https://medium.com/p/27c7873edb5e) |
