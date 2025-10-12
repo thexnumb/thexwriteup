@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 16:10:50 GMT | Free1000Update: A Trusted Telegram Hub for Digital News and Online Opportunities | Chidubemnwokolo | [Read More](https://medium.com/p/7cc73588a5a8) |
+| Sun, 12 Oct 2025 16:08:37 GMT | Patchwork | Abdo Ayman | [Read More](https://medium.com/p/6f7c5fb401f2) |
+| Sun, 12 Oct 2025 16:06:43 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/4796cc4bfc2c) |
+| Sun, 12 Oct 2025 16:00:07 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/b3d3659a5f50) |
+| Sun, 12 Oct 2025 15:59:47 GMT | Week 13 — React Optimization: Code Splitting, Bundling & Source Map Risks | Aang | [Read More](https://medium.com/p/962c08435a83) |
+| Sun, 12 Oct 2025 15:56:11 GMT | HacktheBox: Active Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/a4fbf95a932a) |
+| Sun, 12 Oct 2025 15:53:20 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b819ef1e284d) |
+| Sun, 12 Oct 2025 15:51:44 GMT | Trust, But Verify: The Ghosts Lurking in AI Security Alerts | Jyostnavya Jakkapu | [Read More](https://medium.com/p/91fc41d45b34) |
+| Sun, 12 Oct 2025 15:49:00 GMT | Understanding Fast Flux in Cybersecurity | JahdiSec | [Read More](https://medium.com/p/b49c4b5f274c) |
+| Sun, 12 Oct 2025 15:44:59 GMT | Validate Bulk IOCs for Free with VirusTotal — A Must-Have Python Tool for Cybersecurity Analysts | Shantnu K. | [Read More](https://medium.com/p/7165e0d5c010) |
+| Sun, 12 Oct 2025 15:44:20 GMT | Bypass CSRF Prevention with Cross Site Scripting (XSS) | 歔欷と | [Read More](https://medium.com/p/040162938477) |
+| Sun, 12 Oct 2025 15:43:28 GMT | Git Mastery: The Ultimate Guide from Basics to Advanced Commands | @umesh | [Read More](https://medium.com/p/8ae299331d7a) |
+| Sun, 12 Oct 2025 15:37:46 GMT | If you think this is AAA, think again … | SafeNetting | [Read More](https://medium.com/p/e165622399bf) |
 | Sun, 12 Oct 2025 15:32:26 GMT | Consejos de amor | Juanfer | [Read More](https://medium.com/p/fe63f46719ab) |
+| Sun, 12 Oct 2025 15:30:17 GMT | I Tested an AI for Consciousness. The Results Were Unsettling. | Tao Flippington | [Read More](https://medium.com/p/07ad0c217936) |
 | Sun, 12 Oct 2025 15:29:46 GMT | Your Discord ID Was Hacked: What Happens Next? | Yatin | [Read More](https://medium.com/p/4ae058235828) |
 | Sun, 12 Oct 2025 15:27:54 GMT | WebShell Management 101: Master Secure Control Over Compromised Hosts Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/8f057e2ad47f) |
 | Sun, 12 Oct 2025 15:18:55 GMT | The Bybit Hack in 2025: A Cyber Risk Case Study for Crypto Ecosystem | Gokhan Polat ☀️ | [Read More](https://medium.com/p/78076c8a222a) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 11:04:55 GMT | From Offense to Defense: Crafting the Modern Detection Engineer | CyberFreak | [Read More](https://medium.com/p/37ba60e6c09e) |
 | Sun, 12 Oct 2025 11:00:58 GMT | “Who Am IAM” Çözümü | Yusuf Taha Kurt | [Read More](https://medium.com/p/300271488253) |
 | Sun, 12 Oct 2025 10:51:19 GMT | Comet AI Browser is Vulnerable to Full Data Exfiltration via Malicious URLs (CometJacking) | Gal Moshkovitz | [Read More](https://medium.com/p/a2d156555eda) |
-| Sun, 12 Oct 2025 10:49:20 GMT | DockerLabs Writeup — Patriaquerida (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/748be259cf47) |
-| Sun, 12 Oct 2025 10:46:56 GMT | I’m Not Cold. I’m Just Tired. | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/833710c52859) |
-| Sun, 12 Oct 2025 10:45:05 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/a745d2c122d2) |
-| Sun, 12 Oct 2025 10:41:01 GMT | How I Earned My First Three Bounties | Pawan parmar | [Read More](https://medium.com/p/d4ce1f71cee2) |
-| Sun, 12 Oct 2025 10:36:29 GMT | My Mind is Blown by Google’s New CodeMender AI Agent | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/d25425ace12d) |
-| Sun, 12 Oct 2025 10:35:04 GMT | DAY 2: Understanding POLP, DDM, and Security Standards — The Foundations of Cyber Defense | Krish Shrestha | [Read More](https://medium.com/p/87aec5ae67f3) |
-| Sun, 12 Oct 2025 10:32:55 GMT | Vector Attascks on LLMs: A Gandalf Case Study | Gal Moshkovitz | [Read More](https://medium.com/p/ce990ac1005c) |
-| Sun, 12 Oct 2025 10:09:38 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/ec0808cd5910) |
-| Sun, 12 Oct 2025 10:00:52 GMT | Mastering Shells for Penetration Testing: TryHackMe Shells Overview | Motasem Hamdan | [Read More](https://medium.com/p/e857c08733ab) |
-| Sun, 12 Oct 2025 09:52:33 GMT | Deep Dive into Auditd Advanced Usage on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/b4dcab760922) |
-| Sun, 12 Oct 2025 09:45:01 GMT | Auditd Advanced Usage for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/aceeeac6a2f6) |
-| Sun, 12 Oct 2025 09:44:58 GMT | Day 33: Route Tables in AWS | Prutha_Dongre | [Read More](https://medium.com/p/7c85f053d2a9) |
-| Sun, 12 Oct 2025 09:42:25 GMT | “FALL OF KOTA AND RISE OF KHAN SIR AND ALAKH PANDEY SIR(PHYSICSWALLAH)” | Saurabh | [Read More](https://medium.com/p/9c08e09b1a07) |
-| Sun, 12 Oct 2025 09:35:48 GMT | Multi-Factor Authentication: Strengthening Your First Line of Defense | Chaitanya Appani | [Read More](https://medium.com/p/3ac7b15efc74) |
