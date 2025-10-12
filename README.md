@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 18:43:37 GMT | The Ghost in the Admin’s Wallet: A Tale of Unauthorized Access | CYX | [Read More](https://medium.com/p/06d8b6b7984b) |
+| Sun, 12 Oct 2025 18:29:41 GMT | The Enshitification of Technical Leadership | Shad Collins | [Read More](https://medium.com/p/412fa6aa58f6) |
+| Sun, 12 Oct 2025 18:28:15 GMT | Hack The Box — TombWatcher Season 8 Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/0a3a4a730289) |
+| Sun, 12 Oct 2025 18:24:49 GMT | Metasploit: Meterpreter — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/719db4f256f1) |
+| Sun, 12 Oct 2025 18:22:34 GMT | The 2025.03 Bugfix update is now available | The Feren OS Dev | [Read More](https://medium.com/p/847a1c20dd53) |
+| Sun, 12 Oct 2025 18:17:12 GMT | Hunting for Ghosts: A Walkthrough of the Linux Process Analysis Room | Furkanctiner | [Read More](https://medium.com/p/af77b682cb91) |
+| Sun, 12 Oct 2025 18:14:32 GMT | Breaking JWT: How I Found a Hardcoded Secret in a Mobile App | HackMeLocal | [Read More](https://medium.com/p/5b1ed57b9cff) |
 | Sun, 12 Oct 2025 18:13:01 GMT |  | Inayat Hussain | [Read More](https://medium.com/p/08c0f46868d4) |
 | Sun, 12 Oct 2025 18:08:30 GMT | Stored XSS into HTML context with nothing encoded | Hussin Ibrahim | [Read More](https://medium.com/p/20b60ce9ff83) |
 | Sun, 12 Oct 2025 18:01:46 GMT | ¿Usas Burp Suite correctamente? Probablemente no — mi flujo real para ser más rápido y efectivo | Gorka | [Read More](https://medium.com/p/f10c3f0056fb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 12:49:24 GMT | I decided to cancel my LinkedIn Premium subscription after purchasing it multiple times. | Imran Niaz | [Read More](https://medium.com/p/85011c3cce75) |
 | Sun, 12 Oct 2025 12:45:29 GMT | Mastering Kubernetes Governance: A Complete Guide to Kyverno Policy Management | Salwan Mohamed | [Read More](https://medium.com/p/e134adf33a97) |
 | Sun, 12 Oct 2025 12:44:08 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/be7d6b894855) |
-| Sun, 12 Oct 2025 12:43:00 GMT | TeleHunt — BotInTheMiddle [EN] | Jimmy Bianco | [Read More](https://medium.com/p/f3f520aa8874) |
-| Sun, 12 Oct 2025 12:40:48 GMT | Digitale Souveränität in Kanzleien: Wie abhängig sind wir von US-Technologien? | Thomas Delfing | [Read More](https://medium.com/p/ec6d92569571) |
-| Sun, 12 Oct 2025 12:39:15 GMT | The Crypto Tricks You Don’t Learn on YouTube — But Should | Crypto Savvy | [Read More](https://medium.com/p/4f291395553b) |
-| Sun, 12 Oct 2025 12:36:56 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/21fa1ab2599f) |
-| Sun, 12 Oct 2025 12:34:47 GMT | TeleHunt — BotInTheMiddle [ES] | Jimmy Bianco | [Read More](https://medium.com/p/fab6c2ac2650) |
-| Sun, 12 Oct 2025 12:33:05 GMT | The Space Between Childhood and Hero | Aaron Pace | [Read More](https://medium.com/p/f157fbaf1cf7) |
-| Sun, 12 Oct 2025 12:32:13 GMT | SOC Playbook Serisi - Bölüm 1: Web Shell Nedir, Neden Kritik? | Beyza Sıla Gökmen | [Read More](https://medium.com/p/a4fe080c9944) |
