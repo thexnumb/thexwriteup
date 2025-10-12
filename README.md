@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 06:42:30 GMT | I turned a URL tweak into $800: How I found an IDOR and got paid — step-by-step (for beginners!) | Zoningxtr | [Read More](https://medium.com/p/86aa5443711e) |
+| Sun, 12 Oct 2025 06:35:32 GMT | Top 10 Women in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/464c1c4153c4) |
+| Sun, 12 Oct 2025 06:29:41 GMT | Application Security Nightmares: How To Safeguard User Accounts | Benjamin Cham | [Read More](https://medium.com/p/a875ab3768f0) |
 | Sun, 12 Oct 2025 06:18:04 GMT | The One Login to Rule Them All: Single Sign On-SSO II (the technical version) | Stephnoramafeng | [Read More](https://medium.com/p/4cb365e2ebeb) |
 | Sun, 12 Oct 2025 06:08:56 GMT | Think Before You Click: The Hidden Dangers of Online Links | Juned Silavat | [Read More](https://medium.com/p/9efec834c295) |
 | Sun, 12 Oct 2025 05:59:30 GMT | The Invisible Killer in the Sunlight: How Hackers Can Paralyze Your Solar System with an… | Rui Bian | [Read More](https://medium.com/p/c94019af2bb8) |
@@ -113,6 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 18:23:54 GMT | AI/ML Security Threats – TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/70b1868231f0) |
 | Sat, 11 Oct 2025 18:21:31 GMT | Building a Zero-Cost SOC Lab: Security Onion, Wazuh, TheHive, Cortex, and n8n | Deniz Topaloglu | [Read More](https://medium.com/p/26c77734ddc3) |
 | Sat, 11 Oct 2025 18:20:19 GMT | The 10 Biggest Cyber Attacks in History | Algorithm Man | [Read More](https://medium.com/p/82c7daa7de90) |
-| Sat, 11 Oct 2025 18:12:18 GMT | Red Flags That Your Website Is Already Being Probed by Attackers | Beri Contraster | [Read More](https://medium.com/p/f8117f5c6e5c) |
-| Sat, 11 Oct 2025 18:10:49 GMT | ️ Common Cyber Attacks Explained (and How to Avoid Them) | Asif.k | [Read More](https://medium.com/p/15688ce1e3be) |
-| Sat, 11 Oct 2025 18:08:49 GMT | GPUGate Malware Leverages Google Ads and Fake GitHub Commits to Target IT Companies | SCtoCS | [Read More](https://medium.com/p/65b78656fc0e) |
