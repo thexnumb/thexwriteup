@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 21:13:01 GMT | The Role of AI in Cybersecurity | Sharon Ureh Odu | [Read More](https://medium.com/p/c76cb7282afc) |
+| Sun, 12 Oct 2025 20:49:14 GMT | Unlocking GitHub Business Plan: What You Get for Code Quality, Security, and Copilot | Riccardo Bernardi | [Read More](https://medium.com/p/9c5032d7a9ed) |
+| Sun, 12 Oct 2025 20:38:57 GMT | The Ultimate Threat Intelligence Playbook for Modern Security Teams | Shantnu K. | [Read More](https://medium.com/p/ca3f4c1c352a) |
+| Sun, 12 Oct 2025 20:35:32 GMT | Why I Chose Cybersecurity (And Why I’m Not Turning Back) | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/3b7dbed05031) |
 | Sun, 12 Oct 2025 20:24:09 GMT | Pickle Rick TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/eb20997d8169) |
 | Sun, 12 Oct 2025 20:16:13 GMT | Same Origin Policy Nedir? (Aynı Origin Politikası — SOP) | r00trose | [Read More](https://medium.com/p/5053a83270e7) |
 | Sun, 12 Oct 2025 20:13:44 GMT | Let’s talk about AI cyber-offense | Sparse Connections | [Read More](https://medium.com/p/30467c50bba6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 14:02:43 GMT | n8n(4) — 定期發送 ELK CVE-list 的內容至 Gmail，並產出 CVE-list 作成 csv 檔 | Tako | [Read More](https://medium.com/p/d9e4062e126b) |
 | Sun, 12 Oct 2025 14:02:35 GMT | Proven Trust Record — 20 Years of Zero Infections | Abatis ABTU | [Read More](https://medium.com/p/2f471fd830a8) |
 | Sun, 12 Oct 2025 13:59:52 GMT | The Death of the API Key: How AI Agents Will Authenticate Themselves | Joaquín Mondéjar | [Read More](https://medium.com/p/27c7873edb5e) |
-| Sun, 12 Oct 2025 13:58:21 GMT | Delhi’s (Capital of India)Biggest ‘Digital Arrest’ Fraud: How Rs 22.92 Crore Vanished in Six Weeks | Techintel | [Read More](https://medium.com/p/1c56f0166c1b) |
-| Sun, 12 Oct 2025 13:54:40 GMT | The Linux Security Journey — SecurityFS (Security File System) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e42235f5a42b) |
-| Sun, 12 Oct 2025 13:52:36 GMT | The Beauty and Pain of Love: How Hurt Refines Us and Forgiveness Sets Us Free | Von Gayo Godilano | [Read More](https://medium.com/p/354b7a34b67b) |
-| Sun, 12 Oct 2025 13:42:33 GMT | Securing Network Systems with Strategy | ORB, Operations Research Bit | [Read More](https://medium.com/p/162740884b69) |
