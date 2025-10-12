@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 17:14:04 GMT | Kerberos Authentication — In Layman terms | The Darkarmy | [Read More](https://medium.com/p/19ed33532206) |
+| Sun, 12 Oct 2025 17:10:59 GMT | Kerberos Authentication — In Layman terms | Belimtoufique | [Read More](https://medium.com/p/da60402a7f79) |
+| Sun, 12 Oct 2025 17:07:02 GMT | OWASP Top 10 Explained — A Practical Guide for Web App Hackers & Defenders | Hassan Talal | [Read More](https://medium.com/p/038fa9b2345c) |
+| Sun, 12 Oct 2025 17:07:01 GMT | ️‍♂️ Quick Recon: Investigate Any Domain in Under 60 Seconds | Micah Thornton | [Read More](https://medium.com/p/3f586ccfbf21) |
+| Sun, 12 Oct 2025 17:06:36 GMT | Kerberos Authentication — In Layman terms | Belimtoufique | [Read More](https://medium.com/p/599e238b5624) |
+| Sun, 12 Oct 2025 17:05:37 GMT | NTT Data’s Breached Data Circulate on the Dark Web – Future Cyberattacks Against the Company… | David SEHYEON Baek | [Read More](https://medium.com/p/a86ecf3f801b) |
+| Sun, 12 Oct 2025 17:05:33 GMT | Beyond Automation: The Power of Adobe Workfront Fusion | Yash Pandey | [Read More](https://medium.com/p/2f1ddbca84c8) |
+| Sun, 12 Oct 2025 17:01:45 GMT | Build a Military-Grade Private Mobile Chat App in 30 Minutes (Using Expo & Signal Protocol) | Dr. Ernesto Lee | [Read More](https://medium.com/p/d2f16905e1b5) |
+| Sun, 12 Oct 2025 17:01:45 GMT | AĞLARIN DEDEKTİFİ: NMAP İLE GÖRÜNMEYEN KAPILARI KEŞFETMEK!!!! | Şevval Gürbüz | [Read More](https://medium.com/p/1636cbd7ae28) |
+| Sun, 12 Oct 2025 16:56:44 GMT | The Toughest Phase of Life Isn’t the End or the Beginning | Ink Within | [Read More](https://medium.com/p/3f7059dfd513) |
+| Sun, 12 Oct 2025 16:53:35 GMT | Unicorn Engine 101: Solving a Polyglot CTF Challenge | Lior Ben Moha | [Read More](https://medium.com/p/3dc159db2710) |
+| Sun, 12 Oct 2025 16:50:44 GMT | Rust in Production: Why Reliability Is Worth the Learning Curve | Michael Preston | [Read More](https://medium.com/p/7f51f41a46e3) |
+| Sun, 12 Oct 2025 16:46:10 GMT | Automate Malware Analysis with This Advanced Python Sandboxing Tool | Shantnu K. | [Read More](https://medium.com/p/2684e5a561b8) |
+| Sun, 12 Oct 2025 16:43:46 GMT | MediaTek Dimensity 9400 Series Powers 2025 Gaming Flagships, Outperforming Expectations Worldwide | Rakesh Sahani | [Read More](https://medium.com/p/35b922d5d59b) |
 | Sun, 12 Oct 2025 16:39:24 GMT | Reflected XSS into HTML context with nothing encoded | Hussin Ibrahim | [Read More](https://medium.com/p/52657d52a05b) |
 | Sun, 12 Oct 2025 16:29:47 GMT | How to break RSA? A guide for Hackers and CTF players to crack the RSA encryption algorithm | Huzaifa Malik | [Read More](https://medium.com/p/c26f64ab0f35) |
 | Sun, 12 Oct 2025 16:16:56 GMT | Scythe: An AI-Powered CyberSecurity Workbench | Kanishk Rai | [Read More](https://medium.com/p/616d00f7461c) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 11:41:01 GMT | Cursor AI IDE vulnerability: a tiny bug, a big risk (CVSS: 8) | Gal Moshkovitz | [Read More](https://medium.com/p/6e6bf2ff9b64) |
 | Sun, 12 Oct 2025 11:37:56 GMT | Trusted Execution Environments (TEEs): A Defense-in-Depth Strategy for Security, Privacy, and… | Amio | [Read More](https://medium.com/p/dee4bf43d915) |
 | Sun, 12 Oct 2025 11:37:15 GMT | HACKTHEBOX SOLVE— CAP | Cypher.One | [Read More](https://medium.com/p/8ee18ffd016c) |
-| Sun, 12 Oct 2025 11:35:05 GMT | Authentication vulnerabilities | Md. Raihan | [Read More](https://medium.com/p/f5526a5142a1) |
-| Sun, 12 Oct 2025 11:32:32 GMT | My Personal Browser Extensions For Pentesting | Ahmed Yasser | [Read More](https://medium.com/p/fd8b72f4aec5) |
-| Sun, 12 Oct 2025 11:31:22 GMT | Cybersecurity Reconnaissance Tools | GaganGSaralaya | [Read More](https://medium.com/p/cf66c1889e4f) |
-| Sun, 12 Oct 2025 11:30:41 GMT | The “Shift Left” Illusion: Why Your SDLC Is Already Obsolete | Jonas Kjellin | [Read More](https://medium.com/p/62373d7a483c) |
-| Sun, 12 Oct 2025 11:29:37 GMT | When Zero-Days, AI, and Ransomware Collide: 5 Cyber Trends Defining October 2025 | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/775e7a94f46d) |
-| Sun, 12 Oct 2025 11:25:47 GMT | Indian Stock Exchange Battles 170M cyberattacks daily | Anita | [Read More](https://medium.com/p/1e4fc0ae433b) |
-| Sun, 12 Oct 2025 11:24:34 GMT | Security as a Reliability Feature | SRE Mastery | [Read More](https://medium.com/p/3a53af908301) |
-| Sun, 12 Oct 2025 11:24:07 GMT | This article we will look into the vulnerability subdomain takeovers What makes a web app… | Paulo Bazzo | [Read More](https://medium.com/p/27d2d136ba7e) |
-| Sun, 12 Oct 2025 11:22:48 GMT | AI: The New Attack Surface | Asif.k | [Read More](https://medium.com/p/f58f520ce824) |
-| Sun, 12 Oct 2025 11:20:39 GMT | Hackers nord-coréens : un record de 2 milliards volés en crypto en 2025 | Marc Barbezat | [Read More](https://medium.com/p/6e121b126a06) |
-| Sun, 12 Oct 2025 11:17:46 GMT | Malware Triage and Static Analysis | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/0d002249818d) |
-| Sun, 12 Oct 2025 11:16:08 GMT | Critical Red Hat OpenShift AI Vulnerability Exposes Hybrid Cloud Clusters to Full-Takeover (CVSS… | Gal Moshkovitz | [Read More](https://medium.com/p/281a9f70dd2a) |
-| Sun, 12 Oct 2025 11:12:34 GMT | Top 10 Black Hat Hackers in the World | Manisha Chaudhary | [Read More](https://medium.com/p/ae86bbe137f9) |
-| Sun, 12 Oct 2025 11:09:08 GMT | The Hacker’s Journey: From Curiosity to Mastery | Fateyaly | [Read More](https://medium.com/p/2f97e2265619) |
