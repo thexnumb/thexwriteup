@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 15:32:26 GMT | Consejos de amor | Juanfer | [Read More](https://medium.com/p/fe63f46719ab) |
+| Sun, 12 Oct 2025 15:29:46 GMT | Your Discord ID Was Hacked: What Happens Next? | Yatin | [Read More](https://medium.com/p/4ae058235828) |
+| Sun, 12 Oct 2025 15:27:54 GMT | WebShell Management 101: Master Secure Control Over Compromised Hosts Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/8f057e2ad47f) |
+| Sun, 12 Oct 2025 15:18:55 GMT | The Bybit Hack in 2025: A Cyber Risk Case Study for Crypto Ecosystem | Gokhan Polat ☀️ | [Read More](https://medium.com/p/78076c8a222a) |
+| Sun, 12 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/17929f4573b1) |
+| Sun, 12 Oct 2025 15:09:46 GMT | Corporate Greed Chronicles: Paycom Ditches Dignity for Profit | Namir Sagheenanajar | [Read More](https://medium.com/p/ca8ed51f5bcc) |
 | Sun, 12 Oct 2025 15:03:57 GMT | QU3STC0N CTF Writeup | Sujalmh | [Read More](https://medium.com/p/331d7631ad97) |
 | Sun, 12 Oct 2025 14:54:23 GMT | 4HTMLBasics | Rana Awais | [Read More](https://medium.com/p/6e06dde47f81) |
 | Sun, 12 Oct 2025 14:52:33 GMT | The weirdest bug:When Reflected XSS Won’t Let a Page Breathe | Helmiriahi | [Read More](https://medium.com/p/58be5cdfb569) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 09:44:58 GMT | Day 33: Route Tables in AWS | Prutha_Dongre | [Read More](https://medium.com/p/7c85f053d2a9) |
 | Sun, 12 Oct 2025 09:42:25 GMT | “FALL OF KOTA AND RISE OF KHAN SIR AND ALAKH PANDEY SIR(PHYSICSWALLAH)” | Saurabh | [Read More](https://medium.com/p/9c08e09b1a07) |
 | Sun, 12 Oct 2025 09:35:48 GMT | Multi-Factor Authentication: Strengthening Your First Line of Defense | Chaitanya Appani | [Read More](https://medium.com/p/3ac7b15efc74) |
-| Sun, 12 Oct 2025 09:29:20 GMT | AI Intimacy & the Future of Vulnerability | thetg | [Read More](https://medium.com/p/d4e8a403d3da) |
-| Sun, 12 Oct 2025 09:28:52 GMT | Auditd Advanced Usage Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/1c2929995699) |
-| Sun, 12 Oct 2025 09:27:15 GMT | Excerpts from My Seven-Year Journey in Software Engineering | Adebayo Oluwatobiloba | [Read More](https://medium.com/p/bc5f78bee9b3) |
-| Sun, 12 Oct 2025 09:26:40 GMT | Zero-Day Vulnerabilities: How to Stay Ahead of Unknown Threats | Devi prasad Guda | [Read More](https://medium.com/p/992ab16d7a77) |
-| Sun, 12 Oct 2025 09:23:49 GMT | No Experience, No Fee: Earn the ISC2 CC Certification for $0 | 3eyedraven | [Read More](https://medium.com/p/e01c9288f04b) |
-| Sun, 12 Oct 2025 09:19:38 GMT | The Hidden Symphony of Python Threads: How I Learned to Run Many Tasks in Harmony | Kainat Nafees | [Read More](https://medium.com/p/a9837b8d5f9c) |
