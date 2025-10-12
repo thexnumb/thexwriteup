@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 08:21:25 GMT | I Applied for 100 Cybersecurity Jobs. Here’s Why I Got Rejected. | Muhammad Haider Tallal | [Read More](https://medium.com/p/bf55b1fb6536) |
+| Sun, 12 Oct 2025 08:20:00 GMT | 5 Cybersecurity Projects That Can Help You Get Hired | cyber security Updates | [Read More](https://medium.com/p/5875f656257f) |
+| Sun, 12 Oct 2025 08:19:43 GMT | How to Really Hack a Snapchat Account? (And Why You Absolutely Should Know These Methods) | Alexander Hoffmann | [Read More](https://medium.com/p/84d2a697cf74) |
+| Sun, 12 Oct 2025 08:11:14 GMT | I Tried 30+ Cyber Security Courses: Here Are My Top 5 Recommendations for 2026 | javinpaul | [Read More](https://medium.com/p/bb419cbfab69) |
+| Sun, 12 Oct 2025 08:07:24 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/d77ae2f74043) |
+| Sun, 12 Oct 2025 08:06:04 GMT | Inside the Mind of a Penetration Tester | Arfa | [Read More](https://medium.com/p/4febf5fb9d11) |
+| Sun, 12 Oct 2025 08:00:21 GMT | Exploiting a DAO-Based SQL Injection via DWR in Java Web Apps | Abhiram - HxH404 | [Read More](https://medium.com/p/3c7966c0c1f4) |
+| Sun, 12 Oct 2025 07:55:25 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/4749b6c59e21) |
+| Sun, 12 Oct 2025 07:38:14 GMT | Cybersecurity in Finance | Cyber Security Research | [Read More](https://medium.com/p/1648a8f8998c) |
+| Sun, 12 Oct 2025 07:36:56 GMT | Free 9-hour Bug Bounty Boot Camp | Yaniv | [Read More](https://medium.com/p/c9ad973fa25d) |
+| Sun, 12 Oct 2025 07:30:08 GMT | Cybersecurity in Healthcare | Cyber Security Research | [Read More](https://medium.com/p/88059dfcd056) |
 | Sun, 12 Oct 2025 07:24:22 GMT | Zero Trust Security: A New Paradigm | Cyber Security Research | [Read More](https://medium.com/p/9e78b15f6da9) |
 | Sun, 12 Oct 2025 07:17:25 GMT | DevSecOps: Integrating Security into Development | Cyber Security Research | [Read More](https://medium.com/p/8e7613c851f2) |
 | Sun, 12 Oct 2025 07:16:58 GMT | GoCow HTB | Ishita Kapur | [Read More](https://medium.com/p/9b9946ff0902) |
@@ -104,15 +115,3 @@ How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e33
 | Sat, 11 Oct 2025 20:33:09 GMT | File Upload Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/7db01cae76c6) |
 | Sat, 11 Oct 2025 20:30:20 GMT | Verified Wallets = Trusted Outcomes: How SubHub Is Redefining Integrity in Web3 Airdrops | EHMPE RHOR | [Read More](https://medium.com/p/a8b27803f6f4) |
 | Sat, 11 Oct 2025 20:26:24 GMT | PoC for CVE-2025–49844, CVE-2025–46817 and CVE-2025–46818 Critical Lua Engine Vulnerabilities | ASAcrew Blog | [Read More](https://medium.com/p/b336b6d4b92a) |
-| Sat, 11 Oct 2025 20:14:15 GMT | 1. Introduction: The Growing Threat to Web3
-The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](https://medium.com/p/9cf8e02fa467) |
-| Sat, 11 Oct 2025 19:59:00 GMT | Event Tracing for Windows: The Hidden Telemetry Goldmine | Cybersecurity Simplified | [Read More](https://medium.com/p/765e17a7ba60) |
-| Sat, 11 Oct 2025 19:45:06 GMT | Red Team Nedir? Kurumlar İçin Gerçekçi Tehdit Simülasyonu | Ata Çalım | [Read More](https://medium.com/p/d9128eb07ade) |
-| Sat, 11 Oct 2025 19:38:09 GMT | Building an Open-Source CTI Stack for Cost-Effective Security and Research | Deniz Topaloglu | [Read More](https://medium.com/p/3e86617684ec) |
-| Sat, 11 Oct 2025 19:34:46 GMT | When Machines Started Explaining Themselves: My Journey into Explainable AI | Kainat Nafees | [Read More](https://medium.com/p/20affaeb8dc1) |
-| Sat, 11 Oct 2025 19:20:44 GMT | Bangladesh’s Tech Horizon: Pioneering Skills, Careers, and Innovation Beyond 2025 | Mohammad Adib Abtahi | [Read More](https://medium.com/p/0f5b5279886b) |
-| Sat, 11 Oct 2025 19:11:46 GMT | Hunting Dependency Confusion: Supply Chain Vulnerabilities for Bug Bounties | Aman Bhuiyan | [Read More](https://medium.com/p/ccb0c4496c01) |
-| Sat, 11 Oct 2025 19:01:09 GMT | The Incident Responder: Being the First Line of Defense | Samina Perveen | [Read More](https://medium.com/p/c5034580e029) |
-| Sat, 11 Oct 2025 19:00:57 GMT | &     - | FA Shuvo | [Read More](https://medium.com/p/042224880484) |
-| Sat, 11 Oct 2025 18:53:28 GMT | SOAR in Action: Bridging Cybersecurity, Compliance, and Automation | Devops Sourav | [Read More](https://medium.com/p/adcc61914640) |
-| Sat, 11 Oct 2025 18:51:45 GMT | Drosera: What It Could Mean for Developers and Auditors | PeerPressure | [Read More](https://medium.com/p/9a0ff6a7925e) |
