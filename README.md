@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 22:11:56 GMT | AI Won’t Wait. | Dwayne Xavier Bull (ChatterBox Podcast) | [Read More](https://medium.com/p/d375e7cebac4) |
+| Sun, 12 Oct 2025 22:08:11 GMT | Monitoring account lockout events with Event Viewer | Windows Guide | [Read More](https://medium.com/p/223254781811) |
+| Sun, 12 Oct 2025 22:06:18 GMT | Paste Zone Scenario Hackviser CWSE | Y0s_0x_IBM | [Read More](https://medium.com/p/2878066aeddc) |
+| Sun, 12 Oct 2025 22:04:14 GMT | Building Secure Mobile App with Flutter | Tomáš Repčík | [Read More](https://medium.com/p/863c7d894f1d) |
+| Sun, 12 Oct 2025 22:03:35 GMT | Cybersecurity in the Age of AI-Generated Content | Shubham Saurabh | [Read More](https://medium.com/p/e2fb6c0612fc) |
+| Sun, 12 Oct 2025 22:02:25 GMT | Quantum Computing – The Next Frontier for Cybersecurity Pros! | Vikas | [Read More](https://medium.com/p/6a49798abc17) |
+| Sun, 12 Oct 2025 21:48:53 GMT | AI Roadmap: Foundation Models and Beyond | Hira Ahmad | [Read More](https://medium.com/p/e13b3fc6a772) |
 | Sun, 12 Oct 2025 21:30:15 GMT | Analyzing HTTP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/aabe342e1614) |
 | Sun, 12 Oct 2025 21:13:01 GMT | The Role of AI in Cybersecurity | Sharon Ureh Odu | [Read More](https://medium.com/p/c76cb7282afc) |
 | Sun, 12 Oct 2025 20:49:14 GMT | Unlocking GitHub Business Plan: What You Get for Code Quality, Security, and Copilot | Riccardo Bernardi | [Read More](https://medium.com/p/9c5032d7a9ed) |
@@ -102,13 +109,6 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 15:03:57 GMT | QU3STC0N CTF Writeup | Sujalmh | [Read More](https://medium.com/p/331d7631ad97) |
 | Sun, 12 Oct 2025 14:54:23 GMT | 4HTMLBasics | Rana Awais | [Read More](https://medium.com/p/6e06dde47f81) |
 | Sun, 12 Oct 2025 14:52:33 GMT | The weirdest bug:When Reflected XSS Won’t Let a Page Breathe | Helmiriahi | [Read More](https://medium.com/p/58be5cdfb569) |
+| Sun, 12 Oct 2025 14:40:10 GMT | Exploring Shodan: The Search Engine for Hackers and Security Researchers | J Sqare | [Read More](https://medium.com/p/fcfe3eaf76de) |
 | Sun, 12 Oct 2025 14:28:15 GMT | 1 What is the Internet Simple Explanation | Rana Awais | [Read More](https://medium.com/p/35f8960cf195) |
 | Sun, 12 Oct 2025 14:27:03 GMT | Modern M2M (Makineden Makineye) Kimlik Doğrulama Stratejileri | Eren Kaan Çakır | [Read More](https://medium.com/p/b3b9276affd0) |
-| Sun, 12 Oct 2025 14:26:38 GMT | I Got Publicly Humiliated at Work for Saying “It’s Been a Pleasure Working With You” | Aeryn Wylde | [Read More](https://medium.com/p/c0e9dd8387e2) |
-| Sun, 12 Oct 2025 14:21:42 GMT | Don’t Summon Evil with “123456” | Serhan Eraslan | [Read More](https://medium.com/p/1e4e4f9ba1ec) |
-| Sun, 12 Oct 2025 14:18:04 GMT | Why Your Bank’s “Security Questions” Are a Scam | Cyberkech | [Read More](https://medium.com/p/74ccfb9adcf1) |
-| Sun, 12 Oct 2025 14:11:40 GMT | The Silent Strength: Unpacking Why Men Often Keep Their Emotions Under Wraps | Pooja Sharma | [Read More](https://medium.com/p/89d11fab7612) |
-| Sun, 12 Oct 2025 14:08:24 GMT | Top 10 Network Scanning Tools Every Security Professional Should know | suraj baishya | [Read More](https://medium.com/p/12073870a79e) |
-| Sun, 12 Oct 2025 14:03:02 GMT | Dignity as Method- A Practical Guide to Resisting Hybrid Harassment | SIMKRA | [Read More](https://medium.com/p/8a5e299beb29) |
-| Sun, 12 Oct 2025 14:02:43 GMT | n8n(4) — 定期發送 ELK CVE-list 的內容至 Gmail，並產出 CVE-list 作成 csv 檔 | Tako | [Read More](https://medium.com/p/d9e4062e126b) |
-| Sun, 12 Oct 2025 14:02:35 GMT | Proven Trust Record — 20 Years of Zero Infections | Abatis ABTU | [Read More](https://medium.com/p/2f471fd830a8) |
