@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 20:24:09 GMT | Pickle Rick TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/eb20997d8169) |
+| Sun, 12 Oct 2025 20:16:13 GMT | Same Origin Policy Nedir? (Aynı Origin Politikası — SOP) | r00trose | [Read More](https://medium.com/p/5053a83270e7) |
 | Sun, 12 Oct 2025 20:13:44 GMT | Let’s talk about AI cyber-offense | Sparse Connections | [Read More](https://medium.com/p/30467c50bba6) |
 | Sun, 12 Oct 2025 20:12:21 GMT | Building a Safe Home Hacking Lab: Step-by-Step Guide | Aj | [Read More](https://medium.com/p/eb5c52124d9e) |
 | Sun, 12 Oct 2025 20:10:00 GMT | Portswigger Academy — Reflected XSS into a JavaScript string with single quote and backslash… | Alan | [Read More](https://medium.com/p/40fafc8f80d3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 13:54:40 GMT | The Linux Security Journey — SecurityFS (Security File System) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e42235f5a42b) |
 | Sun, 12 Oct 2025 13:52:36 GMT | The Beauty and Pain of Love: How Hurt Refines Us and Forgiveness Sets Us Free | Von Gayo Godilano | [Read More](https://medium.com/p/354b7a34b67b) |
 | Sun, 12 Oct 2025 13:42:33 GMT | Securing Network Systems with Strategy | ORB, Operations Research Bit | [Read More](https://medium.com/p/162740884b69) |
-| Sun, 12 Oct 2025 13:41:59 GMT | The Rebellion of Sleeping AIs: When Small Models Infiltrate Corporate Code | Rodrigo Gutierrez | [Read More](https://medium.com/p/4a330b1c8c69) |
-| Sun, 12 Oct 2025 13:34:27 GMT | 30+ Cybersecurity Questions & Answers You Must Know | Software Engineer Notes | [Read More](https://medium.com/p/0fe9e52d0c3d) |
