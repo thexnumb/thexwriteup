@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 22:32:13 GMT | The Day the Safety Nets Vanished: How Europe is Bracing for an Unthinkable Future | Multipolar World | [Read More](https://medium.com/p/cae4908ac182) |
+| Sun, 12 Oct 2025 22:27:49 GMT | TryHackMe #108 - Windows Forensics 2 | SiberYuk | [Read More](https://medium.com/p/0362dd3308ed) |
+| Sun, 12 Oct 2025 22:25:17 GMT | Setting up auditing for Active Directory changes | Windows Guide | [Read More](https://medium.com/p/fa47b401143b) |
+| Sun, 12 Oct 2025 22:22:53 GMT | Olivia Dean Inspired This | nai's notes | [Read More](https://medium.com/p/9b8f1efe59ef) |
+| Sun, 12 Oct 2025 22:22:04 GMT | TryHackMe #108 - Windows Forensics 1 | SiberYuk | [Read More](https://medium.com/p/fbb9d2b3eadf) |
+| Sun, 12 Oct 2025 22:17:45 GMT | TryHackMe #107 - DFIR: An Introduction | SiberYuk | [Read More](https://medium.com/p/be104f0a534f) |
+| Sun, 12 Oct 2025 22:17:02 GMT | How to Block Personal Computers with Conditional Access in Microsoft | Arnold De La Vega | [Read More](https://medium.com/p/a95edbf85b66) |
 | Sun, 12 Oct 2025 22:11:56 GMT | AI Won’t Wait. | Dwayne Xavier Bull (ChatterBox Podcast) | [Read More](https://medium.com/p/d375e7cebac4) |
 | Sun, 12 Oct 2025 22:08:11 GMT | Monitoring account lockout events with Event Viewer | Windows Guide | [Read More](https://medium.com/p/223254781811) |
 | Sun, 12 Oct 2025 22:06:18 GMT | Paste Zone Scenario Hackviser CWSE | Y0s_0x_IBM | [Read More](https://medium.com/p/2878066aeddc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 15:27:54 GMT | WebShell Management 101: Master Secure Control Over Compromised Hosts Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/8f057e2ad47f) |
 | Sun, 12 Oct 2025 15:18:55 GMT | The Bybit Hack in 2025: A Cyber Risk Case Study for Crypto Ecosystem | Gokhan Polat ☀️ | [Read More](https://medium.com/p/78076c8a222a) |
 | Sun, 12 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/17929f4573b1) |
-| Sun, 12 Oct 2025 15:09:46 GMT | Corporate Greed Chronicles: Paycom Ditches Dignity for Profit | Namir Sagheenanajar | [Read More](https://medium.com/p/ca8ed51f5bcc) |
-| Sun, 12 Oct 2025 15:03:57 GMT | QU3STC0N CTF Writeup | Sujalmh | [Read More](https://medium.com/p/331d7631ad97) |
-| Sun, 12 Oct 2025 14:54:23 GMT | 4HTMLBasics | Rana Awais | [Read More](https://medium.com/p/6e06dde47f81) |
-| Sun, 12 Oct 2025 14:52:33 GMT | The weirdest bug:When Reflected XSS Won’t Let a Page Breathe | Helmiriahi | [Read More](https://medium.com/p/58be5cdfb569) |
-| Sun, 12 Oct 2025 14:40:10 GMT | Exploring Shodan: The Search Engine for Hackers and Security Researchers | J Sqare | [Read More](https://medium.com/p/fcfe3eaf76de) |
-| Sun, 12 Oct 2025 14:28:15 GMT | 1 What is the Internet Simple Explanation | Rana Awais | [Read More](https://medium.com/p/35f8960cf195) |
-| Sun, 12 Oct 2025 14:27:03 GMT | Modern M2M (Makineden Makineye) Kimlik Doğrulama Stratejileri | Eren Kaan Çakır | [Read More](https://medium.com/p/b3b9276affd0) |
