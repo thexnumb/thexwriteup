@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 01:22:19 GMT | Blessed City — HTB Crypto Challenge Writeup | 3xMB | [Read More](https://medium.com/p/ad069bdfeccb) |
+| Sun, 12 Oct 2025 01:10:38 GMT | What the Next Internet Might Look Like | Rabail Zaheer | [Read More](https://medium.com/p/2ea519a40271) |
+| Sun, 12 Oct 2025 01:01:43 GMT | 10 Python Dockerfile Anti-Patterns to Stop Using | Modexa | [Read More](https://medium.com/p/5a5721ffc19f) |
+| Sun, 12 Oct 2025 00:50:54 GMT | The Quiet Revolution of AI And Why You Should Pay Attention | Rezvan | [Read More](https://medium.com/p/f921aab36736) |
+| Sun, 12 Oct 2025 00:42:55 GMT | The Invisible Backpack | Mabo Duke | [Read More](https://medium.com/p/0a698efed918) |
+| Sun, 12 Oct 2025 00:13:53 GMT | How Zero-Trust Federated Learning Can Strengthen Data Security in Energy AI Systems | AI4Enegy | [Read More](https://medium.com/p/2efba544a9c6) |
+| Sun, 12 Oct 2025 00:08:04 GMT | Building an AI Chatbot for Visa Application Assistance – My MSc Journey | Aqeel Ahmed | [Read More](https://medium.com/p/25e33b49f80e) |
+| Sat, 11 Oct 2025 23:40:36 GMT | Coffee Corner CTF: A Security Journey | MOAMEN REZK | [Read More](https://medium.com/p/2a92816e1f9b) |
+| Sat, 11 Oct 2025 23:40:32 GMT | Serangan Siber Berbasis AI: Ancaman Baru dan Cara Mengamankan Aplikasi Web Anda di 2025 | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/7a9451bf41e2) |
+| Sat, 11 Oct 2025 23:40:21 GMT | Announcing rbac-miner: Automating Role Engineering for Modern IAM
+How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e332a5cc0741) |
 | Sat, 11 Oct 2025 23:19:19 GMT | Why I Monitor /var/log/secure (and Why Most Admins Don’t) | Faruk Ahmed | [Read More](https://medium.com/p/3a362b1ad415) |
 | Sat, 11 Oct 2025 23:18:35 GMT | What Is Phishing and How to Avoid It | Anouarbraham | [Read More](https://medium.com/p/d179e6a3d567) |
 | Sat, 11 Oct 2025 22:55:52 GMT | Google CodeMender: How The Multi Agent System Actually Works | Julian Goldie | [Read More](https://medium.com/p/2520faaf7d41) |
@@ -103,13 +114,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 15:27:59 GMT | CTBB Podcast Notes: The Full-Time Bug Hunter’s Blueprint | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/8ec2b126add5) |
 | Sat, 11 Oct 2025 15:22:36 GMT | Active Directory Hacking: ASREP Roasting | SilentExploit | [Read More](https://medium.com/p/34efab61cb91) |
 | Sat, 11 Oct 2025 15:22:23 GMT | TombWatcher Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/f417fe667c49) |
-| Sat, 11 Oct 2025 15:21:31 GMT | Your Selfie Knows Where You Live: The Truth About EXIF Data | ImashaNilupul | [Read More](https://medium.com/p/cae0566ddb28) |
-| Sat, 11 Oct 2025 15:21:17 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/76938c5fe5c3) |
-| Sat, 11 Oct 2025 15:21:06 GMT | HackerOne verse 81 millions de dollars en primes de bug bounty | Marc Barbezat | [Read More](https://medium.com/p/c96dbf674159) |
-| Sat, 11 Oct 2025 15:20:49 GMT | The Zero-Trust Architecture That Eliminates Network Perimeters | Sohail x Codes | [Read More](https://medium.com/p/bb64c3f323c5) |
-| Sat, 11 Oct 2025 15:15:48 GMT | Why Chrome’s Incognito Mode Isn’t Always Enough | www.OneCoolTip.com | [Read More](https://medium.com/p/eee2748947f1) |
-| Sat, 11 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 11, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/023d0f2fe51d) |
-| Sat, 11 Oct 2025 15:14:21 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/38d143340072) |
-| Sat, 11 Oct 2025 15:13:40 GMT | Active Directory Penetration Testing | Bara2Sabbah | [Read More](https://medium.com/p/58a5534ceee0) |
-| Sat, 11 Oct 2025 15:11:57 GMT | So I Took CS50 Cybersecurity… Here’s What It Actually Felt Like | Khan Jariff Al Naseeb | [Read More](https://medium.com/p/3418436f7ce0) |
-| Sat, 11 Oct 2025 15:08:12 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/247d376a1025) |
