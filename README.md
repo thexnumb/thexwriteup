@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 20:13:44 GMT | Let’s talk about AI cyber-offense | Sparse Connections | [Read More](https://medium.com/p/30467c50bba6) |
+| Sun, 12 Oct 2025 20:12:21 GMT | Building a Safe Home Hacking Lab: Step-by-Step Guide | Aj | [Read More](https://medium.com/p/eb5c52124d9e) |
+| Sun, 12 Oct 2025 20:10:00 GMT | Portswigger Academy — Reflected XSS into a JavaScript string with single quote and backslash… | Alan | [Read More](https://medium.com/p/40fafc8f80d3) |
+| Sun, 12 Oct 2025 20:09:47 GMT | Basics & BTS of C++ — Sharing What I Learn 003 | Prathamesh Burade | [Read More](https://medium.com/p/c077eaa21ff6) |
+| Sun, 12 Oct 2025 20:07:51 GMT | Turning a Kali VM into a Live Access Point | Lukasz Wierzbicki | [Read More](https://medium.com/p/71b6f79d98ce) |
+| Sun, 12 Oct 2025 20:00:45 GMT | Day 7 of my Cybersecurity Journey: Active Directory | Ogundipe Priscilla | [Read More](https://medium.com/p/f05720289bdc) |
+| Sun, 12 Oct 2025 19:57:56 GMT | Cut the Jargon: Why This Game Might Be the Security Game You Need to Play | www.OneCoolTip.com | [Read More](https://medium.com/p/3477ede0e9e9) |
+| Sun, 12 Oct 2025 19:55:45 GMT | Why you cannot obfuscate your payload with double-unicode encoding in JavaScript | Alimirzaei | [Read More](https://medium.com/p/05ccb29d4b49) |
+| Sun, 12 Oct 2025 19:51:58 GMT | File Detection Reality Check: What My SIEM Actually Catches | Raynard Waits | [Read More](https://medium.com/p/84b5d4f153f4) |
+| Sun, 12 Oct 2025 19:31:46 GMT | Keys, Tokens, and Trust: Secure APIs for JS | Modexa | [Read More](https://medium.com/p/e55aa2016d6a) |
 | Sun, 12 Oct 2025 19:29:44 GMT | OSINT Investigation: | Shohel Rana | [Read More](https://medium.com/p/5823db27b620) |
 | Sun, 12 Oct 2025 19:28:13 GMT | Portswigger Academy — Reflected XSS in canonical link tag — Write-up | Alan | [Read More](https://medium.com/p/9da02d06b614) |
 | Sun, 12 Oct 2025 19:10:46 GMT | A part of me is dead… | Life With Etoro | [Read More](https://medium.com/p/24956a25fed6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 13:42:33 GMT | Securing Network Systems with Strategy | ORB, Operations Research Bit | [Read More](https://medium.com/p/162740884b69) |
 | Sun, 12 Oct 2025 13:41:59 GMT | The Rebellion of Sleeping AIs: When Small Models Infiltrate Corporate Code | Rodrigo Gutierrez | [Read More](https://medium.com/p/4a330b1c8c69) |
 | Sun, 12 Oct 2025 13:34:27 GMT | 30+ Cybersecurity Questions & Answers You Must Know | Software Engineer Notes | [Read More](https://medium.com/p/0fe9e52d0c3d) |
-| Sun, 12 Oct 2025 13:31:24 GMT | And When I Stood Awake All Night, Sobbing: | DR NINA APRA AUTHOR, HEALER, TED X SPEAKER BLOGGER | [Read More](https://medium.com/p/4183d2aa7177) |
-| Sun, 12 Oct 2025 13:31:10 GMT | The Quantum Countdown | E.D. Gibson | [Read More](https://medium.com/p/13e87951cbc0) |
-| Sun, 12 Oct 2025 13:21:09 GMT | Secure Your Domain for Free with Let’s Encrypt | Shashwat Tripathi | [Read More](https://medium.com/p/f4b03a38fed9) |
-| Sun, 12 Oct 2025 13:19:30 GMT | [HackTheBox x Vulnlab Write-up] Job (Malicious Macro for initial access and Potato for SYSTEM from… | Chicken0248 | [Read More](https://medium.com/p/ab056af7f591) |
-| Sun, 12 Oct 2025 13:18:26 GMT | Security and Performance Aspects of SELinux Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/12facd5c44fc) |
-| Sun, 12 Oct 2025 13:17:56 GMT | A LIBERDADE DE REESCREVER A PRÓPRIA HISTÓRIA | तांत्रिकA TANTRIKA तांत्रिक | [Read More](https://medium.com/p/935684e3b3fe) |
-| Sun, 12 Oct 2025 13:17:02 GMT | Instagram “View-Once” Images — A Privacy Concern Worth Knowing About | samael0x4 | [Read More](https://medium.com/p/0614e508005e) |
-| Sun, 12 Oct 2025 13:15:02 GMT | What The World Needs Now | Judith Valente | [Read More](https://medium.com/p/87bba95783f4) |
-| Sun, 12 Oct 2025 13:12:01 GMT | The Five Forces Reshaping MSPs in 2025 | Ron | [Read More](https://medium.com/p/c66987b9665a) |
-| Sun, 12 Oct 2025 13:08:21 GMT | OWASP Top 10 — Broken Access Control | Abhinsubej | [Read More](https://medium.com/p/eddc438d8b7e) |
