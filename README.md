@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 19:10:46 GMT | A part of me is dead… | Life With Etoro | [Read More](https://medium.com/p/24956a25fed6) |
+| Sun, 12 Oct 2025 19:09:42 GMT | Ehxb - File Upload Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/6ed033539682) |
+| Sun, 12 Oct 2025 19:01:33 GMT | Securing SSH on Linux: A Step-by-Step Guide | Murat K. | [Read More](https://medium.com/p/42a32177311f) |
+| Sun, 12 Oct 2025 18:52:04 GMT | Why Humanity’s Next Revolution Must Be Emotional | Nova Rooks | [Read More](https://medium.com/p/b7d13b629b1e) |
+| Sun, 12 Oct 2025 18:50:16 GMT | Top 10 Cybersecurity Medium Publications | Tal Eliyahu | [Read More](https://medium.com/p/1bd4b13d0155) |
 | Sun, 12 Oct 2025 18:43:37 GMT | The Ghost in the Admin’s Wallet: A Tale of Unauthorized Access | CYX | [Read More](https://medium.com/p/06d8b6b7984b) |
+| Sun, 12 Oct 2025 18:38:37 GMT | Digital Danger Zones: Mobile App Trap Nation — The Hidden Risks Behind “Free” Mobile Apps | Ahmed Zouhair | [Read More](https://medium.com/p/3515976a0dba) |
 | Sun, 12 Oct 2025 18:29:41 GMT | The Enshitification of Technical Leadership | Shad Collins | [Read More](https://medium.com/p/412fa6aa58f6) |
 | Sun, 12 Oct 2025 18:28:15 GMT | Hack The Box — TombWatcher Season 8 Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/0a3a4a730289) |
 | Sun, 12 Oct 2025 18:24:49 GMT | Metasploit: Meterpreter — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/719db4f256f1) |
@@ -83,6 +89,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 14:11:40 GMT | The Silent Strength: Unpacking Why Men Often Keep Their Emotions Under Wraps | Pooja Sharma | [Read More](https://medium.com/p/89d11fab7612) |
 | Sun, 12 Oct 2025 14:08:24 GMT | Top 10 Network Scanning Tools Every Security Professional Should know | suraj baishya | [Read More](https://medium.com/p/12073870a79e) |
 | Sun, 12 Oct 2025 14:03:02 GMT | Dignity as Method- A Practical Guide to Resisting Hybrid Harassment | SIMKRA | [Read More](https://medium.com/p/8a5e299beb29) |
+| Sun, 12 Oct 2025 14:02:43 GMT | n8n(4) — 定期發送 ELK CVE-list 的內容至 Gmail，並產出 CVE-list 作成 csv 檔 | Tako | [Read More](https://medium.com/p/d9e4062e126b) |
 | Sun, 12 Oct 2025 14:02:35 GMT | Proven Trust Record — 20 Years of Zero Infections | Abatis ABTU | [Read More](https://medium.com/p/2f471fd830a8) |
 | Sun, 12 Oct 2025 13:59:52 GMT | The Death of the API Key: How AI Agents Will Authenticate Themselves | Joaquín Mondéjar | [Read More](https://medium.com/p/27c7873edb5e) |
 | Sun, 12 Oct 2025 13:58:21 GMT | Delhi’s (Capital of India)Biggest ‘Digital Arrest’ Fraud: How Rs 22.92 Crore Vanished in Six Weeks | Techintel | [Read More](https://medium.com/p/1c56f0166c1b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 13:05:10 GMT | ISO/IEC 27001: Making Cybersecurity Simple and Practical | 0xr4m! | [Read More](https://medium.com/p/b94cc2e7c53a) |
 | Sun, 12 Oct 2025 13:00:23 GMT | Hackers Take Over Your WordPress Without Knowing the Password | Patrik Žák | [Read More](https://medium.com/p/237c94621297) |
 | Sun, 12 Oct 2025 12:58:13 GMT | Can we make love? | shey | [Read More](https://medium.com/p/1c82e6b4cc45) |
-| Sun, 12 Oct 2025 12:57:53 GMT | Untitled | Abdusselam Karahan | [Read More](https://medium.com/p/a363e8d113a2) |
-| Sun, 12 Oct 2025 12:57:30 GMT | Web Uygulama Güvenliğinde Cloudflare’ın Rolü: WAF Mantığını Anlamak | Abdusselam Karahan | [Read More](https://medium.com/p/8c47964b863d) |
-| Sun, 12 Oct 2025 12:54:39 GMT | I Refused to Answer the Body Count Question and She Called Me a Womanizer | Victor Ude | [Read More](https://medium.com/p/6f33f5cab9e9) |
-| Sun, 12 Oct 2025 12:51:15 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/10ff6a6b3eba) |
-| Sun, 12 Oct 2025 12:49:24 GMT | I decided to cancel my LinkedIn Premium subscription after purchasing it multiple times. | Imran Niaz | [Read More](https://medium.com/p/85011c3cce75) |
-| Sun, 12 Oct 2025 12:45:29 GMT | Mastering Kubernetes Governance: A Complete Guide to Kyverno Policy Management | Salwan Mohamed | [Read More](https://medium.com/p/e134adf33a97) |
-| Sun, 12 Oct 2025 12:44:08 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/be7d6b894855) |
