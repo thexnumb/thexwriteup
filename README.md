@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 06:56:41 GMT | The Midnight ATM Heist That Fooled an Entire City | Priyanka Jha | [Read More](https://medium.com/p/b4a8ff2dd626) |
+| Sun, 12 Oct 2025 06:53:00 GMT | Embedding Security into Enterprise Architecture: A TOGAF-Based Approach to Risk-Aligned Design | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/75a621456c49) |
+| Sun, 12 Oct 2025 06:47:10 GMT | Membongkar D4I: Evolusi Digital Forensics untuk Industri 4.0 dan Serangan Siber Modern | Seczake | [Read More](https://medium.com/p/64dedde738be) |
 | Sun, 12 Oct 2025 06:42:30 GMT | I turned a URL tweak into $800: How I found an IDOR and got paid — step-by-step (for beginners!) | Zoningxtr | [Read More](https://medium.com/p/86aa5443711e) |
 | Sun, 12 Oct 2025 06:35:32 GMT | Top 10 Women in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/464c1c4153c4) |
 | Sun, 12 Oct 2025 06:29:41 GMT | Application Security Nightmares: How To Safeguard User Accounts | Benjamin Cham | [Read More](https://medium.com/p/a875ab3768f0) |
@@ -113,6 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 18:42:38 GMT | Beginner’s Guide: Spotting Phishing Emails Like A Cybersecurity Expert | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/67c3796a1c01) |
 | Sat, 11 Oct 2025 18:36:33 GMT | SOC Team-The silent guardians of your enterprise | Kota Deepak sai | [Read More](https://medium.com/p/6c3aa338dc8e) |
 | Sat, 11 Oct 2025 18:24:19 GMT | Secure your service on Cloud Run with GCP API Gateway and Firebase security | Nidhi tiwari | [Read More](https://medium.com/p/0ecd15584eaa) |
-| Sat, 11 Oct 2025 18:23:54 GMT | AI/ML Security Threats – TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/70b1868231f0) |
-| Sat, 11 Oct 2025 18:21:31 GMT | Building a Zero-Cost SOC Lab: Security Onion, Wazuh, TheHive, Cortex, and n8n | Deniz Topaloglu | [Read More](https://medium.com/p/26c77734ddc3) |
-| Sat, 11 Oct 2025 18:20:19 GMT | The 10 Biggest Cyber Attacks in History | Algorithm Man | [Read More](https://medium.com/p/82c7daa7de90) |
