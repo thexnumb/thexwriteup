@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 02:57:20 GMT | OWASP Top 10 Mobile Risks that made me 5000$ | Anonymous Traiger | [Read More](https://medium.com/p/d377e10d71f5) |
+| Sun, 12 Oct 2025 02:54:14 GMT | Mic-E-Mouse: When Your Gaming Mouse Becomes a Microphone | William Osei Prempeh | [Read More](https://medium.com/p/3315e57000ad) |
+| Sun, 12 Oct 2025 02:45:33 GMT | Attacking iOS: Elite Recon and Exploitation Guide For Bug Bounty Hunters | Anonymous Traiger | [Read More](https://medium.com/p/0c67e2160484) |
+| Sun, 12 Oct 2025 02:42:48 GMT | The 10-Minute Ritual That Transforms Compliance into Confidence | Dr. Deep Pandey | [Read More](https://medium.com/p/1f0f56805bd5) |
+| Sun, 12 Oct 2025 02:34:41 GMT | The Python Security Lab: How I Used Python to Detect and Prevent Cyber Threats | Kainat Nafees | [Read More](https://medium.com/p/84293179bcf4) |
+| Sun, 12 Oct 2025 02:23:29 GMT | The Past, Present, and Future of
+Cyberwarfare and the Effects of
+Cybersecurity on National Security | Nevaeh R. Dukes | [Read More](https://medium.com/p/4bb1f5612296) |
+| Sun, 12 Oct 2025 02:15:57 GMT | Cross-Site Request Forgery (CSRF) | Md. Raihan | [Read More](https://medium.com/p/958e968dc693) |
+| Sun, 12 Oct 2025 02:09:57 GMT | API Security Nightmares: API Breach That Could Destroy Your Business — And How to Stop It | Benjamin Cham | [Read More](https://medium.com/p/827b9ebae350) |
+| Sun, 12 Oct 2025 01:42:37 GMT | AI and the Future of War: Lessons from Ukraine’s Battlefield Revolution | CCL Montante | [Read More](https://medium.com/p/c308f013d536) |
+| Sun, 12 Oct 2025 01:41:57 GMT | How Safe Is Remini Pro APK? Everything You Need to Know | Riemin Pro | [Read More](https://medium.com/p/015ec68853b0) |
 | Sun, 12 Oct 2025 01:22:19 GMT | Blessed City — HTB Crypto Challenge Writeup | 3xMB | [Read More](https://medium.com/p/ad069bdfeccb) |
 | Sun, 12 Oct 2025 01:10:38 GMT | What the Next Internet Might Look Like | Rabail Zaheer | [Read More](https://medium.com/p/2ea519a40271) |
 | Sun, 12 Oct 2025 01:01:43 GMT | 10 Python Dockerfile Anti-Patterns to Stop Using | Modexa | [Read More](https://medium.com/p/5a5721ffc19f) |
@@ -104,13 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 15:52:03 GMT | The economics of living longer, especially with advances in “longevity tech,” are complex and raise… | Zeeshan Safdar | [Read More](https://medium.com/p/bb985ae7d514) |
 | Sat, 11 Oct 2025 15:41:27 GMT | Unknown Russian Cyber Attacks Since Sep 2025 | Md. Abdullah Al Mamun | [Read More](https://medium.com/p/c65328d5bc41) |
 | Sat, 11 Oct 2025 15:37:16 GMT | SQL Injection: Retrieving Multiple Values in a Single Column | Cipher0x00 | [Read More](https://medium.com/p/411fdb4f912e) |
-| Sat, 11 Oct 2025 15:35:01 GMT | Importance of Data in AI Security | Farah Maqbool | [Read More](https://medium.com/p/9015f81a7ad3) |
-| Sat, 11 Oct 2025 15:32:09 GMT | Interesting : Profile Pictures CP DoS | Exploit5lover | [Read More](https://medium.com/p/5e233f3b13aa) |
-| Sat, 11 Oct 2025 15:32:02 GMT | SQL Injection: Extracting Data from Other Tables | Cipher0x00 | [Read More](https://medium.com/p/f1fbfae05dd1) |
-| Sat, 11 Oct 2025 15:32:02 GMT | SQL Injection: Finding Text-Compatible Columns | Cipher0x00 | [Read More](https://medium.com/p/5a76aee01f92) |
-| Sat, 11 Oct 2025 15:32:02 GMT | ‘Sneakers’ (1992)- The Ultimate Hacker Movie | "Penguin" Pete Trbovich | [Read More](https://medium.com/p/82c2a136cc84) |
-| Sat, 11 Oct 2025 15:32:02 GMT | UltraTech Room Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/95e23674f428) |
-| Sat, 11 Oct 2025 15:31:12 GMT | VulnNet: Roasted | Nazarov Samir | [Read More](https://medium.com/p/33cd97edc6fe) |
-| Sat, 11 Oct 2025 15:27:59 GMT | CTBB Podcast Notes: The Full-Time Bug Hunter’s Blueprint | Abdelrhman Allam (sl4x0) | [Read More](https://medium.com/p/8ec2b126add5) |
-| Sat, 11 Oct 2025 15:22:36 GMT | Active Directory Hacking: ASREP Roasting | SilentExploit | [Read More](https://medium.com/p/34efab61cb91) |
-| Sat, 11 Oct 2025 15:22:23 GMT | TombWatcher Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/f417fe667c49) |
