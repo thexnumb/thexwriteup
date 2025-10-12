@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 18:13:01 GMT |  | Inayat Hussain | [Read More](https://medium.com/p/08c0f46868d4) |
+| Sun, 12 Oct 2025 18:08:30 GMT | Stored XSS into HTML context with nothing encoded | Hussin Ibrahim | [Read More](https://medium.com/p/20b60ce9ff83) |
+| Sun, 12 Oct 2025 18:01:46 GMT | ¿Usas Burp Suite correctamente? Probablemente no — mi flujo real para ser más rápido y efectivo | Gorka | [Read More](https://medium.com/p/f10c3f0056fb) |
+| Sun, 12 Oct 2025 17:56:44 GMT | From Scratch (Safely): Understanding HTTP-based C2 — How It Works, How To Detect It, and How To… | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9ce466d925d7) |
+| Sun, 12 Oct 2025 17:42:15 GMT | Metaverse Hype vs Reality: Where Are We Now? | Sarvesh | [Read More](https://medium.com/p/dfca0317ba72) |
+| Sun, 12 Oct 2025 17:39:34 GMT | Level Up Banks Secure and Effectual Infrastructure Management | Matt R Shaw | [Read More](https://medium.com/p/a2da9d80c55d) |
+| Sun, 12 Oct 2025 17:36:16 GMT | XSSTRON: Electron/Chromium XSS Scanner That Detects GET & POST Cross-Site Scripting Vulnerabilities | Sonu Yadav | [Read More](https://medium.com/p/4f19b27e56cf) |
+| Sun, 12 Oct 2025 17:35:16 GMT | Alethic Computation (AC) Not Artificial Intelligence (AI) | B Hert | [Read More](https://medium.com/p/5e341fbbd669) |
+| Sun, 12 Oct 2025 17:34:45 GMT | SSH (Secure Shell) | Ahmed Abdelrazek | [Read More](https://medium.com/p/f59836f1560d) |
+| Sun, 12 Oct 2025 17:33:33 GMT | Watch AI Take Over Network Scanning: Kali Linux’s Latest Update Will Blow Your Mind! | cybrNK | [Read More](https://medium.com/p/07adee597017) |
 | Sun, 12 Oct 2025 17:28:38 GMT | “SQLiLite” — PicoCTF writeups | AD3NCA | [Read More](https://medium.com/p/bd8c8f1f3f0f) |
 | Sun, 12 Oct 2025 17:26:12 GMT | The Loudest Lesson I Learned in Silence | Sam Galope | [Read More](https://medium.com/p/bfc9323fc539) |
 | Sun, 12 Oct 2025 17:21:39 GMT | FileAway: How a Simple Upload Mistake Led to Thousands of Vulnerable WordPress Sites (and How to… | D Johnston | [Read More](https://medium.com/p/4a88cad2907b) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 12:34:47 GMT | TeleHunt — BotInTheMiddle [ES] | Jimmy Bianco | [Read More](https://medium.com/p/fab6c2ac2650) |
 | Sun, 12 Oct 2025 12:33:05 GMT | The Space Between Childhood and Hero | Aaron Pace | [Read More](https://medium.com/p/f157fbaf1cf7) |
 | Sun, 12 Oct 2025 12:32:13 GMT | SOC Playbook Serisi - Bölüm 1: Web Shell Nedir, Neden Kritik? | Beyza Sıla Gökmen | [Read More](https://medium.com/p/a4fe080c9944) |
-| Sun, 12 Oct 2025 12:31:36 GMT | Exploring the Intersection of AI and Cybersecurity: How Machine Learning Helps Detect Threats | 0xr4m! | [Read More](https://medium.com/p/34e2f0e26c68) |
-| Sun, 12 Oct 2025 12:30:57 GMT | Email Security: Preventing Phishing and Spam | Cyber Security Research | [Read More](https://medium.com/p/21c61f451946) |
-| Sun, 12 Oct 2025 12:30:32 GMT | The Foundations: Roles, Permissions, and Access Control | Chiraggarg | [Read More](https://medium.com/p/7a253193ea45) |
-| Sun, 12 Oct 2025 12:25:23 GMT | Endpoint Security: Protecting Devices on the Network | Cyber Security Research | [Read More](https://medium.com/p/ef4a4d8b4716) |
-| Sun, 12 Oct 2025 12:25:15 GMT | Is 2025 Finally the Year of the Linux PC?
- (And Why It Matters to the World of Cybersecurity) | Aditya K | [Read More](https://medium.com/p/7f1d96162d0a) |
-| Sun, 12 Oct 2025 12:18:47 GMT | Server Security: Hardening Your Systems | Cyber Security Research | [Read More](https://medium.com/p/ea7654530e00) |
-| Sun, 12 Oct 2025 12:16:44 GMT | Apache Livy — Solving the Problem of Remote Spark Job Submission | Ilias El Qadiri | [Read More](https://medium.com/p/907354a25646) |
-| Sun, 12 Oct 2025 12:14:32 GMT | i never wanted to be out of your league | Athaya P. | [Read More](https://medium.com/p/6edfea4069bd) |
-| Sun, 12 Oct 2025 12:13:01 GMT | API Security: Securing Your Interfaces | Cyber Security Research | [Read More](https://medium.com/p/a5223a656578) |
-| Sun, 12 Oct 2025 12:06:31 GMT | Web Application Security: Preventing Exploits | Cyber Security Research | [Read More](https://medium.com/p/c04d52e971c1) |
