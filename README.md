@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 23:02:07 GMT | CyberDefenders - SpottedInTheWild - Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/462f8cb43f55) |
+| Sun, 12 Oct 2025 22:58:35 GMT | درک من از مباحث لایه Internet در کتاب Network+ | unclear | [Read More](https://medium.com/p/1b3b151de17b) |
+| Sun, 12 Oct 2025 22:55:05 GMT | I Can’t Trust My Computer. And That Terrifies Me. | Tao Flippington | [Read More](https://medium.com/p/21b5b0649a3a) |
+| Sun, 12 Oct 2025 22:47:01 GMT | Stop the Breach: How to Bulletproof Your CI/CD Pipeline and Sleep Better at Night | Abdelilah Ettarch | [Read More](https://medium.com/p/406a4fd7b6dc) |
+| Sun, 12 Oct 2025 22:42:04 GMT | TryHackMe #112 - Redline | SiberYuk | [Read More](https://medium.com/p/7f7d92296738) |
+| Sun, 12 Oct 2025 22:38:04 GMT | TryHackMe #111 - Autopsy | SiberYuk | [Read More](https://medium.com/p/80e8615b9d1d) |
 | Sun, 12 Oct 2025 22:32:13 GMT | The Day the Safety Nets Vanished: How Europe is Bracing for an Unthinkable Future | Multipolar World | [Read More](https://medium.com/p/cae4908ac182) |
+| Sun, 12 Oct 2025 22:32:05 GMT | TryHackMe #110 - Linux Forensics | SiberYuk | [Read More](https://medium.com/p/09888fda46e2) |
 | Sun, 12 Oct 2025 22:27:49 GMT | TryHackMe #108 - Windows Forensics 2 | SiberYuk | [Read More](https://medium.com/p/0362dd3308ed) |
 | Sun, 12 Oct 2025 22:25:17 GMT | Setting up auditing for Active Directory changes | Windows Guide | [Read More](https://medium.com/p/fa47b401143b) |
 | Sun, 12 Oct 2025 22:22:53 GMT | Olivia Dean Inspired This | nai's notes | [Read More](https://medium.com/p/9b8f1efe59ef) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 15:44:59 GMT | Validate Bulk IOCs for Free with VirusTotal — A Must-Have Python Tool for Cybersecurity Analysts | Shantnu K. | [Read More](https://medium.com/p/7165e0d5c010) |
 | Sun, 12 Oct 2025 15:44:20 GMT | Bypass CSRF Prevention with Cross Site Scripting (XSS) | 歔欷と | [Read More](https://medium.com/p/040162938477) |
 | Sun, 12 Oct 2025 15:43:28 GMT | Git Mastery: The Ultimate Guide from Basics to Advanced Commands | @umesh | [Read More](https://medium.com/p/8ae299331d7a) |
-| Sun, 12 Oct 2025 15:37:46 GMT | If you think this is AAA, think again … | SafeNetting | [Read More](https://medium.com/p/e165622399bf) |
-| Sun, 12 Oct 2025 15:32:26 GMT | Consejos de amor | Juanfer | [Read More](https://medium.com/p/fe63f46719ab) |
-| Sun, 12 Oct 2025 15:30:17 GMT | I Tested an AI for Consciousness. The Results Were Unsettling. | Tao Flippington | [Read More](https://medium.com/p/07ad0c217936) |
-| Sun, 12 Oct 2025 15:29:46 GMT | Your Discord ID Was Hacked: What Happens Next? | Yatin | [Read More](https://medium.com/p/4ae058235828) |
-| Sun, 12 Oct 2025 15:27:54 GMT | WebShell Management 101: Master Secure Control Over Compromised Hosts Step-by-Step | Very Lazy Tech | [Read More](https://medium.com/p/8f057e2ad47f) |
-| Sun, 12 Oct 2025 15:18:55 GMT | The Bybit Hack in 2025: A Cyber Risk Case Study for Crypto Ecosystem | Gokhan Polat ☀️ | [Read More](https://medium.com/p/78076c8a222a) |
-| Sun, 12 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 12, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/17929f4573b1) |
