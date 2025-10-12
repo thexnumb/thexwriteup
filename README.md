@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 07:24:22 GMT | Zero Trust Security: A New Paradigm | Cyber Security Research | [Read More](https://medium.com/p/9e78b15f6da9) |
+| Sun, 12 Oct 2025 07:17:25 GMT | DevSecOps: Integrating Security into Development | Cyber Security Research | [Read More](https://medium.com/p/8e7613c851f2) |
+| Sun, 12 Oct 2025 07:16:58 GMT | GoCow HTB | Ishita Kapur | [Read More](https://medium.com/p/9b9946ff0902) |
 | Sun, 12 Oct 2025 06:56:41 GMT | The Midnight ATM Heist That Fooled an Entire City | Priyanka Jha | [Read More](https://medium.com/p/b4a8ff2dd626) |
 | Sun, 12 Oct 2025 06:53:00 GMT | Embedding Security into Enterprise Architecture: A TOGAF-Based Approach to Risk-Aligned Design | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/75a621456c49) |
 | Sun, 12 Oct 2025 06:47:10 GMT | Membongkar D4I: Evolusi Digital Forensics untuk Industri 4.0 dan Serangan Siber Modern | Seczake | [Read More](https://medium.com/p/64dedde738be) |
@@ -113,6 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 19:00:57 GMT | &     - | FA Shuvo | [Read More](https://medium.com/p/042224880484) |
 | Sat, 11 Oct 2025 18:53:28 GMT | SOAR in Action: Bridging Cybersecurity, Compliance, and Automation | Devops Sourav | [Read More](https://medium.com/p/adcc61914640) |
 | Sat, 11 Oct 2025 18:51:45 GMT | Drosera: What It Could Mean for Developers and Auditors | PeerPressure | [Read More](https://medium.com/p/9a0ff6a7925e) |
-| Sat, 11 Oct 2025 18:42:38 GMT | Beginner’s Guide: Spotting Phishing Emails Like A Cybersecurity Expert | Bernardo Adolfo Martinez | [Read More](https://medium.com/p/67c3796a1c01) |
-| Sat, 11 Oct 2025 18:36:33 GMT | SOC Team-The silent guardians of your enterprise | Kota Deepak sai | [Read More](https://medium.com/p/6c3aa338dc8e) |
-| Sat, 11 Oct 2025 18:24:19 GMT | Secure your service on Cloud Run with GCP API Gateway and Firebase security | Nidhi tiwari | [Read More](https://medium.com/p/0ecd15584eaa) |
