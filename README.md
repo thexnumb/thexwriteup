@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 05:06:47 GMT | The Age of Artificial Intelligence: How Machines Are Learning to Think Like Us | Sohana Mondal | [Read More](https://medium.com/p/ee7517f7ed2a) |
+| Sun, 12 Oct 2025 05:02:44 GMT | Sandbox: From adduser Hell to a Bulletproof Docker Setup | Grzegorz Golowicz | [Read More](https://medium.com/p/70b3e21df857) |
+| Sun, 12 Oct 2025 05:01:53 GMT | The Age of Instant Knowledge: How Easy Access to Information Is Making Us Smarter Than Ever | Nathan A. Guest | [Read More](https://medium.com/p/5560b4e7f9d2) |
+| Sun, 12 Oct 2025 05:01:48 GMT | you won’t find any vulnerabilities without this technique | Shaikh Minhaz | [Read More](https://medium.com/p/65da99920b64) |
+| Sun, 12 Oct 2025 04:52:49 GMT | Samsung Latest Phone Price: Galaxy S25 Ultra to A36 Review | Sienna Lewis | [Read More](https://medium.com/p/961ac850bb0b) |
+| Sun, 12 Oct 2025 04:47:51 GMT | JailCTF 2025 — Blindness Challenge Writeup | Ptanveesatya | [Read More](https://medium.com/p/98f908df9b36) |
+| Sun, 12 Oct 2025 04:42:51 GMT | Why You Should Never Post Your Airline Boarding Pass on Social Media (Security Risks Explained) | Nikhil Wad | [Read More](https://medium.com/p/d2749db0aa4f) |
 | Sun, 12 Oct 2025 04:04:17 GMT | OSCP Zero to Hero: Baby | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/d1889692da89) |
 | Sun, 12 Oct 2025 03:57:03 GMT | Active Recon for Bug Bounties: Port Scanning, Service Fingerprinting & Prioritization ⚡️ | Đeepanshu | [Read More](https://medium.com/p/33f2194de489) |
 | Sun, 12 Oct 2025 03:50:56 GMT | The Shift From Rules to Behavior in Cybersecurity | Anastasia P. | [Read More](https://medium.com/p/deec6d1e383d) |
@@ -109,10 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 17:22:34 GMT | How AI is Transforming Cybersecurity: My Personal Understanding and Steps | Rushikesh Girase | [Read More](https://medium.com/p/05712e2d3c27) |
 | Sat, 11 Oct 2025 17:04:57 GMT | Rust and the Linux Rewrite Problem | Random Access | [Read More](https://medium.com/p/b60d3345b0b9) |
 | Sat, 11 Oct 2025 16:57:03 GMT | How I’m Secure In The Apple Ecosystem : Lock Your Life in Just 45 Minutes | Berker Ceylan | [Read More](https://medium.com/p/9ed628bdf151) |
-| Sat, 11 Oct 2025 16:50:59 GMT | The Cyber Threats Redefining 2025: When AI Turns Against Us | Mhd fayz | [Read More](https://medium.com/p/622d13bdde8f) |
-| Sat, 11 Oct 2025 16:45:41 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Minutes to Fix It. | Irene Arvydas Ranonis | [Read More](https://medium.com/p/2118b31c7a8f) |
-| Sat, 11 Oct 2025 16:37:15 GMT | The Laravel Encryption Trick That Stops Hackers Cold | Sadique Ali | [Read More](https://medium.com/p/2a271c2c88eb) |
-| Sat, 11 Oct 2025 16:32:00 GMT | Monday Monitor — TryHackMe | Alan | [Read More](https://medium.com/p/eed9a6157435) |
-| Sat, 11 Oct 2025 16:31:11 GMT | Enterprise-Grade Linux Deployments | LinuxDev | [Read More](https://medium.com/p/123916d63273) |
-| Sat, 11 Oct 2025 16:16:15 GMT | Mind the Gap: Between the Protocol and the Platform | Mo Zaman | [Read More](https://medium.com/p/1e1544554826) |
-| Sat, 11 Oct 2025 16:13:38 GMT | KQL vs MySQL, What’s the real difference in today’s AI-driven world? | Pretushgupta | [Read More](https://medium.com/p/89e2ad3772e3) |
