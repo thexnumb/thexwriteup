@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 08:37:51 GMT | Reconstructing User Activity from Android Artifacts | Zulfianarahmi | [Read More](https://medium.com/p/92c91be0e7d2) |
+| Sun, 12 Oct 2025 08:34:46 GMT | Top 9 Skills to Future-Proof Your Career in Cybersecurity! | Chhavipreet Kaur | [Read More](https://medium.com/p/55254a2d00eb) |
+| Sun, 12 Oct 2025 08:28:18 GMT | How to Truly ‘Hack’ an Instagram Account? (And Why You Should Protect Yours!) | Alexander Hoffmann | [Read More](https://medium.com/p/60ef5f77b28b) |
+| Sun, 12 Oct 2025 08:24:46 GMT | Try-Hack-Me challenge walkthrough {CTF} | Arka Priya Das | [Read More](https://medium.com/p/f1bcdbf1b296) |
+| Sun, 12 Oct 2025 08:21:40 GMT | Don’t leave your coffee for too long, then ask why it’s cold. | Vijay Kumar Gupta | [Read More](https://medium.com/p/d1f0f7f8719f) |
 | Sun, 12 Oct 2025 08:21:25 GMT | I Applied for 100 Cybersecurity Jobs. Here’s Why I Got Rejected. | Muhammad Haider Tallal | [Read More](https://medium.com/p/bf55b1fb6536) |
 | Sun, 12 Oct 2025 08:20:00 GMT | 5 Cybersecurity Projects That Can Help You Get Hired | cyber security Updates | [Read More](https://medium.com/p/5875f656257f) |
 | Sun, 12 Oct 2025 08:19:43 GMT | How to Really Hack a Snapchat Account? (And Why You Absolutely Should Know These Methods) | Alexander Hoffmann | [Read More](https://medium.com/p/84d2a697cf74) |
+| Sun, 12 Oct 2025 08:19:00 GMT | The Reddit Scandal That Exposed a Massive Conflict of Interest in Tech Education | Aaron | [Read More](https://medium.com/p/cd4959fd1d42) |
+| Sun, 12 Oct 2025 08:12:52 GMT | How I Got Into Ethical Hacking Without a Degree | Arfa | [Read More](https://medium.com/p/5f12851276d7) |
 | Sun, 12 Oct 2025 08:11:14 GMT | I Tried 30+ Cyber Security Courses: Here Are My Top 5 Recommendations for 2026 | javinpaul | [Read More](https://medium.com/p/bb419cbfab69) |
 | Sun, 12 Oct 2025 08:07:24 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/d77ae2f74043) |
 | Sun, 12 Oct 2025 08:06:04 GMT | Inside the Mind of a Penetration Tester | Arfa | [Read More](https://medium.com/p/4febf5fb9d11) |
@@ -108,10 +115,3 @@ How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e33
 | Sat, 11 Oct 2025 21:29:12 GMT | Clearing the CRTP: My Red Teaming Journey | Saadeddine Hachlaf | [Read More](https://medium.com/p/e5a80265295e) |
 | Sat, 11 Oct 2025 21:07:44 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/e9668c24ea53) |
 | Sat, 11 Oct 2025 21:04:16 GMT | When GraphQL becomes a backdoor: SSRF to RCE in a real-world GraphQL endpoint. | MrLionOfficial | [Read More](https://medium.com/p/b4ab3b14573f) |
-| Sat, 11 Oct 2025 20:57:57 GMT | TryHackMe Writeup: CMesS | Berkay AĞGÜL | [Read More](https://medium.com/p/f4a9c354c991) |
-| Sat, 11 Oct 2025 20:43:48 GMT | Planning  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/321d509353a4) |
-| Sat, 11 Oct 2025 20:38:30 GMT | Manifeste & Charte de l’informatique responsable | Stéphane Morico | [Read More](https://medium.com/p/aa00c6bc31ac) |
-| Sat, 11 Oct 2025 20:34:35 GMT | Building Kylo: A CLI Tool to Secure AI-Generated Python Code. | Alabi Muiz | [Read More](https://medium.com/p/a91d5fba98bd) |
-| Sat, 11 Oct 2025 20:33:09 GMT | File Upload Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/7db01cae76c6) |
-| Sat, 11 Oct 2025 20:30:20 GMT | Verified Wallets = Trusted Outcomes: How SubHub Is Redefining Integrity in Web3 Airdrops | EHMPE RHOR | [Read More](https://medium.com/p/a8b27803f6f4) |
-| Sat, 11 Oct 2025 20:26:24 GMT | PoC for CVE-2025–49844, CVE-2025–46817 and CVE-2025–46818 Critical Lua Engine Vulnerabilities | ASAcrew Blog | [Read More](https://medium.com/p/b336b6d4b92a) |
