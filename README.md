@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 12:25:23 GMT | Endpoint Security: Protecting Devices on the Network | Cyber Security Research | [Read More](https://medium.com/p/ef4a4d8b4716) |
+| Sun, 12 Oct 2025 12:25:15 GMT | Is 2025 Finally the Year of the Linux PC?
+ (And Why It Matters to the World of Cybersecurity) | Aditya K | [Read More](https://medium.com/p/7f1d96162d0a) |
+| Sun, 12 Oct 2025 12:18:47 GMT | Server Security: Hardening Your Systems | Cyber Security Research | [Read More](https://medium.com/p/ea7654530e00) |
+| Sun, 12 Oct 2025 12:16:44 GMT | Apache Livy — Solving the Problem of Remote Spark Job Submission | Ilias El Qadiri | [Read More](https://medium.com/p/907354a25646) |
+| Sun, 12 Oct 2025 12:14:32 GMT | i never wanted to be out of your league | Athaya P. | [Read More](https://medium.com/p/6edfea4069bd) |
+| Sun, 12 Oct 2025 12:13:01 GMT | API Security: Securing Your Interfaces | Cyber Security Research | [Read More](https://medium.com/p/a5223a656578) |
+| Sun, 12 Oct 2025 12:06:31 GMT | Web Application Security: Preventing Exploits | Cyber Security Research | [Read More](https://medium.com/p/c04d52e971c1) |
+| Sun, 12 Oct 2025 11:54:59 GMT | Threat Modeling for Dynamics 365 | Mustaque Ehiya | [Read More](https://medium.com/p/5be35ca586bc) |
+| Sun, 12 Oct 2025 11:54:22 GMT | Day 1: Beginning of My Linux Journey | Onur Aydoğdu | [Read More](https://medium.com/p/acc94fcad1a4) |
+| Sun, 12 Oct 2025 11:41:01 GMT | Cursor AI IDE vulnerability: a tiny bug, a big risk (CVSS: 8) | Gal Moshkovitz | [Read More](https://medium.com/p/6e6bf2ff9b64) |
+| Sun, 12 Oct 2025 11:37:56 GMT | Trusted Execution Environments (TEEs): A Defense-in-Depth Strategy for Security, Privacy, and… | Amio | [Read More](https://medium.com/p/dee4bf43d915) |
+| Sun, 12 Oct 2025 11:37:15 GMT | HACKTHEBOX SOLVE— CAP | Cypher.One | [Read More](https://medium.com/p/8ee18ffd016c) |
+| Sun, 12 Oct 2025 11:35:05 GMT | Authentication vulnerabilities | Md. Raihan | [Read More](https://medium.com/p/f5526a5142a1) |
 | Sun, 12 Oct 2025 11:32:32 GMT | My Personal Browser Extensions For Pentesting | Ahmed Yasser | [Read More](https://medium.com/p/fd8b72f4aec5) |
+| Sun, 12 Oct 2025 11:31:22 GMT | Cybersecurity Reconnaissance Tools | GaganGSaralaya | [Read More](https://medium.com/p/cf66c1889e4f) |
+| Sun, 12 Oct 2025 11:30:41 GMT | The “Shift Left” Illusion: Why Your SDLC Is Already Obsolete | Jonas Kjellin | [Read More](https://medium.com/p/62373d7a483c) |
+| Sun, 12 Oct 2025 11:29:37 GMT | When Zero-Days, AI, and Ransomware Collide: 5 Cyber Trends Defining October 2025 | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/775e7a94f46d) |
 | Sun, 12 Oct 2025 11:25:47 GMT | Indian Stock Exchange Battles 170M cyberattacks daily | Anita | [Read More](https://medium.com/p/1e4fc0ae433b) |
 | Sun, 12 Oct 2025 11:24:34 GMT | Security as a Reliability Feature | SRE Mastery | [Read More](https://medium.com/p/3a53af908301) |
 | Sun, 12 Oct 2025 11:24:07 GMT | This article we will look into the vulnerability subdomain takeovers What makes a web app… | Paulo Bazzo | [Read More](https://medium.com/p/27d2d136ba7e) |
@@ -96,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 05:14:23 GMT | The Science and Significance of Your Unique Fingerprint | Geeky Vartika | [Read More](https://medium.com/p/d78299684d76) |
 | Sun, 12 Oct 2025 05:06:47 GMT | The Age of Artificial Intelligence: How Machines Are Learning to Think Like Us | Sohana Mondal | [Read More](https://medium.com/p/ee7517f7ed2a) |
 | Sun, 12 Oct 2025 05:02:44 GMT | Sandbox: From adduser Hell to a Bulletproof Docker Setup | Grzegorz Golowicz | [Read More](https://medium.com/p/70b3e21df857) |
-| Sun, 12 Oct 2025 05:01:53 GMT | The Age of Instant Knowledge: How Easy Access to Information Is Making Us Smarter Than Ever | Nathan A. Guest | [Read More](https://medium.com/p/5560b4e7f9d2) |
-| Sun, 12 Oct 2025 05:01:48 GMT | you won’t find any vulnerabilities without this technique | Shaikh Minhaz | [Read More](https://medium.com/p/65da99920b64) |
-| Sun, 12 Oct 2025 04:52:49 GMT | Samsung Latest Phone Price: Galaxy S25 Ultra to A36 Review | Sienna Lewis | [Read More](https://medium.com/p/961ac850bb0b) |
-| Sun, 12 Oct 2025 04:47:51 GMT | JailCTF 2025 — Blindness Challenge Writeup | Ptanveesatya | [Read More](https://medium.com/p/98f908df9b36) |
-| Sun, 12 Oct 2025 04:42:51 GMT | Why You Should Never Post Your Airline Boarding Pass on Social Media (Security Risks Explained) | Nikhil Wad | [Read More](https://medium.com/p/d2749db0aa4f) |
-| Sun, 12 Oct 2025 04:04:17 GMT | OSCP Zero to Hero: Baby | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/d1889692da89) |
-| Sun, 12 Oct 2025 03:57:03 GMT | Active Recon for Bug Bounties: Port Scanning, Service Fingerprinting & Prioritization ⚡️ | Đeepanshu | [Read More](https://medium.com/p/33f2194de489) |
-| Sun, 12 Oct 2025 03:50:56 GMT | The Shift From Rules to Behavior in Cybersecurity | Anastasia P. | [Read More](https://medium.com/p/deec6d1e383d) |
-| Sun, 12 Oct 2025 03:48:58 GMT | The Redis Lua Use-After-Free Vulnerability (CVE-2025–49844) | Narendra Singh Chandrawat | [Read More](https://medium.com/p/153b310053e4) |
-| Sun, 12 Oct 2025 03:47:56 GMT | Samsung Latest Phone Price: Flagship & Midrange Update | Alice Doyle | [Read More](https://medium.com/p/50b5b5ed2c7e) |
-| Sun, 12 Oct 2025 03:39:29 GMT | The Silent Leaks — How Repeated Yahoo Japan Data Circulations Reveal a Hidden Threat to Japanese… | David SEHYEON Baek | [Read More](https://medium.com/p/fdf3d2c6cdd2) |
-| Sun, 12 Oct 2025 03:32:50 GMT | Warlock Ransomware: How SharePoint Flaws Were Weaponized to Breach Enterprises | Deven Chhajed | [Read More](https://medium.com/p/5368bfaa40e0) |
-| Sun, 12 Oct 2025 03:26:31 GMT | The Real Story of Cybersecurity: It’s Not About Tools — It’s About Understanding Risks | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/d83afe0b9b8f) |
-| Sun, 12 Oct 2025 03:26:04 GMT | PHP — Command injection RootMe | YunchoHang | [Read More](https://medium.com/p/0ee12bb7d1a1) |
-| Sun, 12 Oct 2025 03:02:51 GMT | Blind SQL Injection: Conditional Errors (Oracle) | Cipher0x00 | [Read More](https://medium.com/p/9a400df0cd97) |
-| Sun, 12 Oct 2025 02:57:20 GMT | OWASP Top 10 Mobile Risks that made me 5000$ | Anonymous Traiger | [Read More](https://medium.com/p/d377e10d71f5) |
