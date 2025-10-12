@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 06:18:04 GMT | The One Login to Rule Them All: Single Sign On-SSO II (the technical version) | Stephnoramafeng | [Read More](https://medium.com/p/4cb365e2ebeb) |
+| Sun, 12 Oct 2025 06:08:56 GMT | Think Before You Click: The Hidden Dangers of Online Links | Juned Silavat | [Read More](https://medium.com/p/9efec834c295) |
+| Sun, 12 Oct 2025 05:59:30 GMT | The Invisible Killer in the Sunlight: How Hackers Can Paralyze Your Solar System with an… | Rui Bian | [Read More](https://medium.com/p/c94019af2bb8) |
+| Sun, 12 Oct 2025 05:48:52 GMT | Password protection mechanisms | 80h3m14n | [Read More](https://medium.com/p/cfa004cf2441) |
+| Sun, 12 Oct 2025 05:39:01 GMT | Cyber Security Development in Ashburn, USA: What You Need to Know | Webtrills | [Read More](https://medium.com/p/35241cbb2cca) |
+| Sun, 12 Oct 2025 05:37:30 GMT | #AI Old and New | Alan W Silberberg | [Read More](https://medium.com/p/60d9e014dd27) |
+| Sun, 12 Oct 2025 05:36:27 GMT | Because the Internet Hates You: Running SafeLine WAF on Proxmox | Clemens | [Read More](https://medium.com/p/2495ac90b653) |
 | Sun, 12 Oct 2025 05:29:30 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | LuisM PoncedDeLeon | [Read More](https://medium.com/p/ba61674ed8a0) |
 | Sun, 12 Oct 2025 05:21:58 GMT | substation_at_0742.nfo | Rain Ginsberg | [Read More](https://medium.com/p/f047b0dde84c) |
 | Sun, 12 Oct 2025 05:17:40 GMT | Introducing PromptIntel | Thomas Roccia | [Read More](https://medium.com/p/1624d03045a3) |
@@ -27,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 04:04:17 GMT | OSCP Zero to Hero: Baby | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/d1889692da89) |
 | Sun, 12 Oct 2025 03:57:03 GMT | Active Recon for Bug Bounties: Port Scanning, Service Fingerprinting & Prioritization ⚡️ | Đeepanshu | [Read More](https://medium.com/p/33f2194de489) |
 | Sun, 12 Oct 2025 03:50:56 GMT | The Shift From Rules to Behavior in Cybersecurity | Anastasia P. | [Read More](https://medium.com/p/deec6d1e383d) |
+| Sun, 12 Oct 2025 03:48:58 GMT | The Redis Lua Use-After-Free Vulnerability (CVE-2025–49844) | Narendra Singh Chandrawat | [Read More](https://medium.com/p/153b310053e4) |
 | Sun, 12 Oct 2025 03:47:56 GMT | Samsung Latest Phone Price: Flagship & Midrange Update | Alice Doyle | [Read More](https://medium.com/p/50b5b5ed2c7e) |
 | Sun, 12 Oct 2025 03:39:29 GMT | The Silent Leaks — How Repeated Yahoo Japan Data Circulations Reveal a Hidden Threat to Japanese… | David SEHYEON Baek | [Read More](https://medium.com/p/fdf3d2c6cdd2) |
 | Sun, 12 Oct 2025 03:32:50 GMT | Warlock Ransomware: How SharePoint Flaws Were Weaponized to Breach Enterprises | Deven Chhajed | [Read More](https://medium.com/p/5368bfaa40e0) |
@@ -50,6 +58,7 @@ Cybersecurity on National Security | Nevaeh R. Dukes | [Read More](https://mediu
 | Sun, 12 Oct 2025 01:01:43 GMT | 10 Python Dockerfile Anti-Patterns to Stop Using | Modexa | [Read More](https://medium.com/p/5a5721ffc19f) |
 | Sun, 12 Oct 2025 00:50:54 GMT | The Quiet Revolution of AI And Why You Should Pay Attention | Rezvan | [Read More](https://medium.com/p/f921aab36736) |
 | Sun, 12 Oct 2025 00:42:55 GMT | The Invisible Backpack | Mabo Duke | [Read More](https://medium.com/p/0a698efed918) |
+| Sun, 12 Oct 2025 00:39:12 GMT | Title: Every Wallet Carries a Pattern — How SubHub Turns Data into Trust for Web3 Drops | EHMPE RHOR | [Read More](https://medium.com/p/10aba69d33ca) |
 | Sun, 12 Oct 2025 00:13:53 GMT | How Zero-Trust Federated Learning Can Strengthen Data Security in Energy AI Systems | AI4Enegy | [Read More](https://medium.com/p/2efba544a9c6) |
 | Sun, 12 Oct 2025 00:08:04 GMT | Building an AI Chatbot for Visa Application Assistance – My MSc Journey | Aqeel Ahmed | [Read More](https://medium.com/p/25e33b49f80e) |
 | Sat, 11 Oct 2025 23:40:36 GMT | Coffee Corner CTF: A Security Journey | MOAMEN REZK | [Read More](https://medium.com/p/2a92816e1f9b) |
@@ -84,6 +93,7 @@ How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e33
 | Sat, 11 Oct 2025 20:38:30 GMT | Manifeste & Charte de l’informatique responsable | Stéphane Morico | [Read More](https://medium.com/p/aa00c6bc31ac) |
 | Sat, 11 Oct 2025 20:34:35 GMT | Building Kylo: A CLI Tool to Secure AI-Generated Python Code. | Alabi Muiz | [Read More](https://medium.com/p/a91d5fba98bd) |
 | Sat, 11 Oct 2025 20:33:09 GMT | File Upload Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/7db01cae76c6) |
+| Sat, 11 Oct 2025 20:30:20 GMT | Verified Wallets = Trusted Outcomes: How SubHub Is Redefining Integrity in Web3 Airdrops | EHMPE RHOR | [Read More](https://medium.com/p/a8b27803f6f4) |
 | Sat, 11 Oct 2025 20:26:24 GMT | PoC for CVE-2025–49844, CVE-2025–46817 and CVE-2025–46818 Critical Lua Engine Vulnerabilities | ASAcrew Blog | [Read More](https://medium.com/p/b336b6d4b92a) |
 | Sat, 11 Oct 2025 20:14:15 GMT | 1. Introduction: The Growing Threat to Web3
 The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](https://medium.com/p/9cf8e02fa467) |
@@ -106,13 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 18:12:18 GMT | Red Flags That Your Website Is Already Being Probed by Attackers | Beri Contraster | [Read More](https://medium.com/p/f8117f5c6e5c) |
 | Sat, 11 Oct 2025 18:10:49 GMT | ️ Common Cyber Attacks Explained (and How to Avoid Them) | Asif.k | [Read More](https://medium.com/p/15688ce1e3be) |
 | Sat, 11 Oct 2025 18:08:49 GMT | GPUGate Malware Leverages Google Ads and Fake GitHub Commits to Target IT Companies | SCtoCS | [Read More](https://medium.com/p/65b78656fc0e) |
-| Sat, 11 Oct 2025 18:08:29 GMT | Toy Practical Cryptanalysis | Mi'kail Eli'yah | [Read More](https://medium.com/p/057fa138813d) |
-| Sat, 11 Oct 2025 18:08:21 GMT | Researchers Alert on SORVEPOTEL, a Self-Spreading Malware Targeting WhatsApp Users | SCtoCS | [Read More](https://medium.com/p/e3b7f9934dd2) |
-| Sat, 11 Oct 2025 18:06:29 GMT | Enhancing Application Security with Docker Best Practices | @rnab | [Read More](https://medium.com/p/0fc5f45e5c83) |
-| Sat, 11 Oct 2025 18:02:06 GMT | Mañana anuncio mi nueva Masterclass de Bug Bounty | Gorka | [Read More](https://medium.com/p/78abd91012e0) |
-| Sat, 11 Oct 2025 18:02:06 GMT | Hardened Node.js Backends, From Zero to Production | Nexumo | [Read More](https://medium.com/p/eaa037009834) |
-| Sat, 11 Oct 2025 18:00:33 GMT | The 30-Day Framework That Fixes Root Causes | Akilnath Bodipudi | [Read More](https://medium.com/p/31164d15e57d) |
-| Sat, 11 Oct 2025 17:49:17 GMT | The Truth Behind “Online Manager” Job Scams | John Obiba Boadu | [Read More](https://medium.com/p/aa6ab229d25f) |
-| Sat, 11 Oct 2025 17:45:11 GMT | Inside the Anatomy of a Scam: How Phishing and Scam Sites Imitate Real Brands | Shami Sushant | [Read More](https://medium.com/p/5d684f3a92db) |
-| Sat, 11 Oct 2025 17:40:01 GMT | The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door | Iski | [Read More](https://medium.com/p/9948d05edf2b) |
-| Sat, 11 Oct 2025 17:39:35 GMT | AI based burglar alarm (school project) | Aarna Tripathi | [Read More](https://medium.com/p/15c4ee747db8) |
