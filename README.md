@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 14:11:40 GMT | The Silent Strength: Unpacking Why Men Often Keep Their Emotions Under Wraps | Pooja Sharma | [Read More](https://medium.com/p/89d11fab7612) |
+| Sun, 12 Oct 2025 14:08:24 GMT | Top 10 Network Scanning Tools Every Security Professional Should know | suraj baishya | [Read More](https://medium.com/p/12073870a79e) |
+| Sun, 12 Oct 2025 14:03:02 GMT | Dignity as Method- A Practical Guide to Resisting Hybrid Harassment | SIMKRA | [Read More](https://medium.com/p/8a5e299beb29) |
+| Sun, 12 Oct 2025 14:02:35 GMT | Proven Trust Record — 20 Years of Zero Infections | Abatis ABTU | [Read More](https://medium.com/p/2f471fd830a8) |
+| Sun, 12 Oct 2025 13:59:52 GMT | The Death of the API Key: How AI Agents Will Authenticate Themselves | Joaquín Mondéjar | [Read More](https://medium.com/p/27c7873edb5e) |
+| Sun, 12 Oct 2025 13:58:21 GMT | Delhi’s (Capital of India)Biggest ‘Digital Arrest’ Fraud: How Rs 22.92 Crore Vanished in Six Weeks | Techintel | [Read More](https://medium.com/p/1c56f0166c1b) |
+| Sun, 12 Oct 2025 13:54:40 GMT | The Linux Security Journey — SecurityFS (Security File System) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e42235f5a42b) |
+| Sun, 12 Oct 2025 13:52:36 GMT | The Beauty and Pain of Love: How Hurt Refines Us and Forgiveness Sets Us Free | Von Gayo Godilano | [Read More](https://medium.com/p/354b7a34b67b) |
+| Sun, 12 Oct 2025 13:42:33 GMT | Securing Network Systems with Strategy | ORB, Operations Research Bit | [Read More](https://medium.com/p/162740884b69) |
+| Sun, 12 Oct 2025 13:41:59 GMT | The Rebellion of Sleeping AIs: When Small Models Infiltrate Corporate Code | Rodrigo Gutierrez | [Read More](https://medium.com/p/4a330b1c8c69) |
+| Sun, 12 Oct 2025 13:34:27 GMT | 30+ Cybersecurity Questions & Answers You Must Know | Software Engineer Notes | [Read More](https://medium.com/p/0fe9e52d0c3d) |
+| Sun, 12 Oct 2025 13:31:24 GMT | And When I Stood Awake All Night, Sobbing: | DR NINA APRA AUTHOR, HEALER, TED X SPEAKER BLOGGER | [Read More](https://medium.com/p/4183d2aa7177) |
+| Sun, 12 Oct 2025 13:31:10 GMT | The Quantum Countdown | E.D. Gibson | [Read More](https://medium.com/p/13e87951cbc0) |
 | Sun, 12 Oct 2025 13:21:09 GMT | Secure Your Domain for Free with Let’s Encrypt | Shashwat Tripathi | [Read More](https://medium.com/p/f4b03a38fed9) |
 | Sun, 12 Oct 2025 13:19:30 GMT | [HackTheBox x Vulnlab Write-up] Job (Malicious Macro for initial access and Potato for SYSTEM from… | Chicken0248 | [Read More](https://medium.com/p/ab056af7f591) |
 | Sun, 12 Oct 2025 13:18:26 GMT | Security and Performance Aspects of SELinux Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/12facd5c44fc) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 08:45:03 GMT | SilentGuard | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/48df3762e4b6) |
 | Sun, 12 Oct 2025 08:43:03 GMT | How to Really Hack Your Gmail Account ? Methods from Hackers | Alexander Hoffmann | [Read More](https://medium.com/p/e7682df4a70f) |
 | Sun, 12 Oct 2025 08:37:51 GMT | Reconstructing User Activity from Android Artifacts | Zulfianarahmi | [Read More](https://medium.com/p/92c91be0e7d2) |
-| Sun, 12 Oct 2025 08:34:46 GMT | Top 9 Skills to Future-Proof Your Career in Cybersecurity! | Chhavipreet Kaur | [Read More](https://medium.com/p/55254a2d00eb) |
-| Sun, 12 Oct 2025 08:32:50 GMT | Building Enterprise Architecture Capability: A Strategic Engine for Change | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/f39ba26b3e37) |
-| Sun, 12 Oct 2025 08:28:18 GMT | How to Truly ‘Hack’ an Instagram Account? (And Why You Should Protect Yours!) | Alexander Hoffmann | [Read More](https://medium.com/p/60ef5f77b28b) |
-| Sun, 12 Oct 2025 08:24:46 GMT | Try-Hack-Me challenge walkthrough {CTF} | Arka Priya Das | [Read More](https://medium.com/p/f1bcdbf1b296) |
-| Sun, 12 Oct 2025 08:21:40 GMT | Don’t leave your coffee for too long, then ask why it’s cold. | Vijay Kumar Gupta | [Read More](https://medium.com/p/d1f0f7f8719f) |
-| Sun, 12 Oct 2025 08:21:25 GMT | I Applied for 100 Cybersecurity Jobs. Here’s Why I Got Rejected. | Muhammad Haider Tallal | [Read More](https://medium.com/p/bf55b1fb6536) |
-| Sun, 12 Oct 2025 08:20:00 GMT | 5 Cybersecurity Projects That Can Help You Get Hired | cyber security Updates | [Read More](https://medium.com/p/5875f656257f) |
-| Sun, 12 Oct 2025 08:19:43 GMT | How to Really Hack a Snapchat Account? (And Why You Absolutely Should Know These Methods) | Alexander Hoffmann | [Read More](https://medium.com/p/84d2a697cf74) |
-| Sun, 12 Oct 2025 08:19:00 GMT | The Reddit Scandal That Exposed a Massive Conflict of Interest in Tech Education | Aaron | [Read More](https://medium.com/p/cd4959fd1d42) |
-| Sun, 12 Oct 2025 08:12:52 GMT | How I Got Into Ethical Hacking Without a Degree | Arfa | [Read More](https://medium.com/p/5f12851276d7) |
-| Sun, 12 Oct 2025 08:11:14 GMT | I Tried 30+ Cyber Security Courses: Here Are My Top 5 Recommendations for 2026 | javinpaul | [Read More](https://medium.com/p/bb419cbfab69) |
-| Sun, 12 Oct 2025 08:07:24 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/d77ae2f74043) |
-| Sun, 12 Oct 2025 08:06:04 GMT | Inside the Mind of a Penetration Tester | Arfa | [Read More](https://medium.com/p/4febf5fb9d11) |
