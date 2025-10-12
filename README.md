@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 13:21:09 GMT | Secure Your Domain for Free with Let’s Encrypt | Shashwat Tripathi | [Read More](https://medium.com/p/f4b03a38fed9) |
+| Sun, 12 Oct 2025 13:19:30 GMT | [HackTheBox x Vulnlab Write-up] Job (Malicious Macro for initial access and Potato for SYSTEM from… | Chicken0248 | [Read More](https://medium.com/p/ab056af7f591) |
+| Sun, 12 Oct 2025 13:18:26 GMT | Security and Performance Aspects of SELinux Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/12facd5c44fc) |
+| Sun, 12 Oct 2025 13:17:56 GMT | A LIBERDADE DE REESCREVER A PRÓPRIA HISTÓRIA | तांत्रिकA TANTRIKA तांत्रिक | [Read More](https://medium.com/p/935684e3b3fe) |
+| Sun, 12 Oct 2025 13:17:02 GMT | Instagram “View-Once” Images — A Privacy Concern Worth Knowing About | samael0x4 | [Read More](https://medium.com/p/0614e508005e) |
+| Sun, 12 Oct 2025 13:15:02 GMT | What The World Needs Now | Judith Valente | [Read More](https://medium.com/p/87bba95783f4) |
 | Sun, 12 Oct 2025 13:12:01 GMT | The Five Forces Reshaping MSPs in 2025 | Ron | [Read More](https://medium.com/p/c66987b9665a) |
 | Sun, 12 Oct 2025 13:08:21 GMT | OWASP Top 10 — Broken Access Control | Abhinsubej | [Read More](https://medium.com/p/eddc438d8b7e) |
 | Sun, 12 Oct 2025 13:06:46 GMT | From Fortress to Federation: Your Ultimate Guide to Entra ID Sync and Invitations | Niraj Kumar | [Read More](https://medium.com/p/671d1035b3b5) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 08:11:14 GMT | I Tried 30+ Cyber Security Courses: Here Are My Top 5 Recommendations for 2026 | javinpaul | [Read More](https://medium.com/p/bb419cbfab69) |
 | Sun, 12 Oct 2025 08:07:24 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/d77ae2f74043) |
 | Sun, 12 Oct 2025 08:06:04 GMT | Inside the Mind of a Penetration Tester | Arfa | [Read More](https://medium.com/p/4febf5fb9d11) |
-| Sun, 12 Oct 2025 08:00:21 GMT | Exploiting a DAO-Based SQL Injection via DWR in Java Web Apps | Abhiram - HxH404 | [Read More](https://medium.com/p/3c7966c0c1f4) |
-| Sun, 12 Oct 2025 07:55:25 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/4749b6c59e21) |
-| Sun, 12 Oct 2025 07:38:14 GMT | Cybersecurity in Finance | Cyber Security Research | [Read More](https://medium.com/p/1648a8f8998c) |
-| Sun, 12 Oct 2025 07:36:56 GMT | Free 9-hour Bug Bounty Boot Camp | Yaniv | [Read More](https://medium.com/p/c9ad973fa25d) |
-| Sun, 12 Oct 2025 07:30:08 GMT | Cybersecurity in Healthcare | Cyber Security Research | [Read More](https://medium.com/p/88059dfcd056) |
-| Sun, 12 Oct 2025 07:24:40 GMT | ⚡ LIVE DATA from hacked testphp.vulnweb.com : The Honeypot made Public  by Cyber Kalki | Krivadna | [Read More](https://medium.com/p/bf8e0ce6110a) |
