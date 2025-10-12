@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 17:28:38 GMT | “SQLiLite” — PicoCTF writeups | AD3NCA | [Read More](https://medium.com/p/bd8c8f1f3f0f) |
+| Sun, 12 Oct 2025 17:26:12 GMT | The Loudest Lesson I Learned in Silence | Sam Galope | [Read More](https://medium.com/p/bfc9323fc539) |
+| Sun, 12 Oct 2025 17:21:39 GMT | FileAway: How a Simple Upload Mistake Led to Thousands of Vulnerable WordPress Sites (and How to… | D Johnston | [Read More](https://medium.com/p/4a88cad2907b) |
+| Sun, 12 Oct 2025 17:18:40 GMT | CTF to Bug Bounty: Part 1 of the Beginner’s Series for Aspiring Hunters | Prajwal | [Read More](https://medium.com/p/5ac37af302c4) |
+| Sun, 12 Oct 2025 17:15:21 GMT | Risk Assessment Reporting: 6 Ways to Make Your Reports Clear and Actionable for Stakeholders | UpTech Solution | [Read More](https://medium.com/p/1842080a9ddd) |
 | Sun, 12 Oct 2025 17:14:04 GMT | Kerberos Authentication — In Layman terms | The Darkarmy | [Read More](https://medium.com/p/19ed33532206) |
 | Sun, 12 Oct 2025 17:10:59 GMT | Kerberos Authentication — In Layman terms | Belimtoufique | [Read More](https://medium.com/p/da60402a7f79) |
 | Sun, 12 Oct 2025 17:07:02 GMT | OWASP Top 10 Explained — A Practical Guide for Web App Hackers & Defenders | Hassan Talal | [Read More](https://medium.com/p/038fa9b2345c) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 12:14:32 GMT | i never wanted to be out of your league | Athaya P. | [Read More](https://medium.com/p/6edfea4069bd) |
 | Sun, 12 Oct 2025 12:13:01 GMT | API Security: Securing Your Interfaces | Cyber Security Research | [Read More](https://medium.com/p/a5223a656578) |
 | Sun, 12 Oct 2025 12:06:31 GMT | Web Application Security: Preventing Exploits | Cyber Security Research | [Read More](https://medium.com/p/c04d52e971c1) |
-| Sun, 12 Oct 2025 11:54:59 GMT | Threat Modeling for Dynamics 365 | Mustaque Ehiya | [Read More](https://medium.com/p/5be35ca586bc) |
-| Sun, 12 Oct 2025 11:54:22 GMT | Day 1: Beginning of My Linux Journey | Onur Aydoğdu | [Read More](https://medium.com/p/acc94fcad1a4) |
-| Sun, 12 Oct 2025 11:41:01 GMT | Cursor AI IDE vulnerability: a tiny bug, a big risk (CVSS: 8) | Gal Moshkovitz | [Read More](https://medium.com/p/6e6bf2ff9b64) |
-| Sun, 12 Oct 2025 11:37:56 GMT | Trusted Execution Environments (TEEs): A Defense-in-Depth Strategy for Security, Privacy, and… | Amio | [Read More](https://medium.com/p/dee4bf43d915) |
-| Sun, 12 Oct 2025 11:37:15 GMT | HACKTHEBOX SOLVE— CAP | Cypher.One | [Read More](https://medium.com/p/8ee18ffd016c) |
