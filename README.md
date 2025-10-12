@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 19:29:44 GMT | OSINT Investigation: | Shohel Rana | [Read More](https://medium.com/p/5823db27b620) |
+| Sun, 12 Oct 2025 19:28:13 GMT | Portswigger Academy — Reflected XSS in canonical link tag — Write-up | Alan | [Read More](https://medium.com/p/9da02d06b614) |
 | Sun, 12 Oct 2025 19:10:46 GMT | A part of me is dead… | Life With Etoro | [Read More](https://medium.com/p/24956a25fed6) |
 | Sun, 12 Oct 2025 19:09:42 GMT | Ehxb - File Upload Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/6ed033539682) |
+| Sun, 12 Oct 2025 19:06:49 GMT | The Vendor Accountability Problem | Akilnath Bodipudi | [Read More](https://medium.com/p/161ac2c44039) |
+| Sun, 12 Oct 2025 19:02:16 GMT | Home Lab — 7— Architecting the Network | Mithun Rosinth | [Read More](https://medium.com/p/030a63779a2c) |
 | Sun, 12 Oct 2025 19:01:33 GMT | Securing SSH on Linux: A Step-by-Step Guide | Murat K. | [Read More](https://medium.com/p/42a32177311f) |
 | Sun, 12 Oct 2025 18:52:04 GMT | Why Humanity’s Next Revolution Must Be Emotional | Nova Rooks | [Read More](https://medium.com/p/b7d13b629b1e) |
 | Sun, 12 Oct 2025 18:50:16 GMT | Top 10 Cybersecurity Medium Publications | Tal Eliyahu | [Read More](https://medium.com/p/1bd4b13d0155) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 13:15:02 GMT | What The World Needs Now | Judith Valente | [Read More](https://medium.com/p/87bba95783f4) |
 | Sun, 12 Oct 2025 13:12:01 GMT | The Five Forces Reshaping MSPs in 2025 | Ron | [Read More](https://medium.com/p/c66987b9665a) |
 | Sun, 12 Oct 2025 13:08:21 GMT | OWASP Top 10 — Broken Access Control | Abhinsubej | [Read More](https://medium.com/p/eddc438d8b7e) |
-| Sun, 12 Oct 2025 13:06:46 GMT | From Fortress to Federation: Your Ultimate Guide to Entra ID Sync and Invitations | Niraj Kumar | [Read More](https://medium.com/p/671d1035b3b5) |
-| Sun, 12 Oct 2025 13:05:10 GMT | ISO/IEC 27001: Making Cybersecurity Simple and Practical | 0xr4m! | [Read More](https://medium.com/p/b94cc2e7c53a) |
-| Sun, 12 Oct 2025 13:00:23 GMT | Hackers Take Over Your WordPress Without Knowing the Password | Patrik Žák | [Read More](https://medium.com/p/237c94621297) |
-| Sun, 12 Oct 2025 12:58:13 GMT | Can we make love? | shey | [Read More](https://medium.com/p/1c82e6b4cc45) |
