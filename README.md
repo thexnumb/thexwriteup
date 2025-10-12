@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 23:28:55 GMT | HackTheBox - Certified | jniket | [Read More](https://medium.com/p/0939fbee319b) |
+| Sun, 12 Oct 2025 23:25:04 GMT | Reconnaissance 101: Pasif ve Aktif Keşif Teknikleri | Burak Akgül | [Read More](https://medium.com/p/3b5aa1dacf83) |
+| Sun, 12 Oct 2025 23:24:05 GMT | The Mammoth Hunt: Inside a Sophisticated Russian Phishing Operation Targeting Steam Users | Schxd3n | [Read More](https://medium.com/p/5510d651f380) |
 | Sun, 12 Oct 2025 23:02:07 GMT | CyberDefenders - SpottedInTheWild - Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/462f8cb43f55) |
 | Sun, 12 Oct 2025 22:58:35 GMT | درک من از مباحث لایه Internet در کتاب Network+ | unclear | [Read More](https://medium.com/p/1b3b151de17b) |
 | Sun, 12 Oct 2025 22:55:05 GMT | I Can’t Trust My Computer. And That Terrifies Me. | Tao Flippington | [Read More](https://medium.com/p/21b5b0649a3a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 15:53:20 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b819ef1e284d) |
 | Sun, 12 Oct 2025 15:51:44 GMT | Trust, But Verify: The Ghosts Lurking in AI Security Alerts | Jyostnavya Jakkapu | [Read More](https://medium.com/p/91fc41d45b34) |
 | Sun, 12 Oct 2025 15:49:00 GMT | Understanding Fast Flux in Cybersecurity | JahdiSec | [Read More](https://medium.com/p/b49c4b5f274c) |
-| Sun, 12 Oct 2025 15:44:59 GMT | Validate Bulk IOCs for Free with VirusTotal — A Must-Have Python Tool for Cybersecurity Analysts | Shantnu K. | [Read More](https://medium.com/p/7165e0d5c010) |
-| Sun, 12 Oct 2025 15:44:20 GMT | Bypass CSRF Prevention with Cross Site Scripting (XSS) | 歔欷と | [Read More](https://medium.com/p/040162938477) |
-| Sun, 12 Oct 2025 15:43:28 GMT | Git Mastery: The Ultimate Guide from Basics to Advanced Commands | @umesh | [Read More](https://medium.com/p/8ae299331d7a) |
