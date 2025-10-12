@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 15:03:57 GMT | QU3STC0N CTF Writeup | Sujalmh | [Read More](https://medium.com/p/331d7631ad97) |
+| Sun, 12 Oct 2025 14:54:23 GMT | 4HTMLBasics | Rana Awais | [Read More](https://medium.com/p/6e06dde47f81) |
+| Sun, 12 Oct 2025 14:52:33 GMT | The weirdest bug:When Reflected XSS Won’t Let a Page Breathe | Helmiriahi | [Read More](https://medium.com/p/58be5cdfb569) |
 | Sun, 12 Oct 2025 14:28:15 GMT | 1 What is the Internet Simple Explanation | Rana Awais | [Read More](https://medium.com/p/35f8960cf195) |
 | Sun, 12 Oct 2025 14:27:03 GMT | Modern M2M (Makineden Makineye) Kimlik Doğrulama Stratejileri | Eren Kaan Çakır | [Read More](https://medium.com/p/b3b9276affd0) |
 | Sun, 12 Oct 2025 14:26:38 GMT | I Got Publicly Humiliated at Work for Saying “It’s Been a Pleasure Working With You” | Aeryn Wylde | [Read More](https://medium.com/p/c0e9dd8387e2) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 09:26:40 GMT | Zero-Day Vulnerabilities: How to Stay Ahead of Unknown Threats | Devi prasad Guda | [Read More](https://medium.com/p/992ab16d7a77) |
 | Sun, 12 Oct 2025 09:23:49 GMT | No Experience, No Fee: Earn the ISC2 CC Certification for $0 | 3eyedraven | [Read More](https://medium.com/p/e01c9288f04b) |
 | Sun, 12 Oct 2025 09:19:38 GMT | The Hidden Symphony of Python Threads: How I Learned to Run Many Tasks in Harmony | Kainat Nafees | [Read More](https://medium.com/p/a9837b8d5f9c) |
-| Sun, 12 Oct 2025 09:18:07 GMT | Ransomware Attack Prevention - Networksecurity Solutions2025 | Netwise Technology LLC | [Read More](https://medium.com/p/5aaca58ea553) |
-| Sun, 12 Oct 2025 09:02:13 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/603a0c47db95) |
-| Sun, 12 Oct 2025 08:54:16 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/b9bf342f9b45) |
