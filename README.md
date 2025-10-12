@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 10:09:38 GMT | Linux AppArmor profile management | Linux Guide | [Read More](https://medium.com/p/ec0808cd5910) |
+| Sun, 12 Oct 2025 10:00:52 GMT | Mastering Shells for Penetration Testing: TryHackMe Shells Overview | Motasem Hamdan | [Read More](https://medium.com/p/e857c08733ab) |
+| Sun, 12 Oct 2025 09:52:33 GMT | Deep Dive into Auditd Advanced Usage on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/b4dcab760922) |
+| Sun, 12 Oct 2025 09:45:01 GMT | Auditd Advanced Usage for High Performance Linux Servers | Eren Cankut Uysal | [Read More](https://medium.com/p/aceeeac6a2f6) |
+| Sun, 12 Oct 2025 09:44:58 GMT | Day 33: Route Tables in AWS | Prutha_Dongre | [Read More](https://medium.com/p/7c85f053d2a9) |
+| Sun, 12 Oct 2025 09:42:25 GMT | “FALL OF KOTA AND RISE OF KHAN SIR AND ALAKH PANDEY SIR(PHYSICSWALLAH)” | Saurabh | [Read More](https://medium.com/p/9c08e09b1a07) |
 | Sun, 12 Oct 2025 09:35:48 GMT | Multi-Factor Authentication: Strengthening Your First Line of Defense | Chaitanya Appani | [Read More](https://medium.com/p/3ac7b15efc74) |
 | Sun, 12 Oct 2025 09:29:20 GMT | AI Intimacy & the Future of Vulnerability | thetg | [Read More](https://medium.com/p/d4e8a403d3da) |
+| Sun, 12 Oct 2025 09:28:52 GMT | Auditd Advanced Usage Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/1c2929995699) |
 | Sun, 12 Oct 2025 09:27:15 GMT | Excerpts from My Seven-Year Journey in Software Engineering | Adebayo Oluwatobiloba | [Read More](https://medium.com/p/bc5f78bee9b3) |
 | Sun, 12 Oct 2025 09:26:40 GMT | Zero-Day Vulnerabilities: How to Stay Ahead of Unknown Threats | Devi prasad Guda | [Read More](https://medium.com/p/992ab16d7a77) |
 | Sun, 12 Oct 2025 09:23:49 GMT | No Experience, No Fee: Earn the ISC2 CC Certification for $0 | 3eyedraven | [Read More](https://medium.com/p/e01c9288f04b) |
@@ -108,10 +115,3 @@ Cybersecurity on National Security | Nevaeh R. Dukes | [Read More](https://mediu
 | Sat, 11 Oct 2025 23:40:21 GMT | Announcing rbac-miner: Automating Role Engineering for Modern IAM
 How Data-Driven RBAC Mining… | Abhilash | [Read More](https://medium.com/p/e332a5cc0741) |
 | Sat, 11 Oct 2025 23:19:19 GMT | Why I Monitor /var/log/secure (and Why Most Admins Don’t) | Faruk Ahmed | [Read More](https://medium.com/p/3a362b1ad415) |
-| Sat, 11 Oct 2025 23:18:35 GMT | What Is Phishing and How to Avoid It | Anouarbraham | [Read More](https://medium.com/p/d179e6a3d567) |
-| Sat, 11 Oct 2025 22:55:52 GMT | Google CodeMender: How The Multi Agent System Actually Works | Julian Goldie | [Read More](https://medium.com/p/2520faaf7d41) |
-| Sat, 11 Oct 2025 22:55:41 GMT | Building a Complete Monitoring Stack with Nagios, InfluxDB, Nagflux and Grafana | Obscure | [Read More](https://medium.com/p/3c9672a70eb3) |
-| Sat, 11 Oct 2025 22:54:17 GMT | Why Nigeria Should Establish a National Bitcoin Reserve | Saint | [Read More](https://medium.com/p/f3dc20123b5e) |
-| Sat, 11 Oct 2025 22:46:39 GMT | dear hackers | SmcdS | [Read More](https://medium.com/p/6c0336700414) |
-| Sat, 11 Oct 2025 22:32:25 GMT | Packets on a Mission: How Data Actually Travels Across the Internet | Thegreatpayload | [Read More](https://medium.com/p/a0fe0bada142) |
-| Sat, 11 Oct 2025 22:28:29 GMT | When Courage Stops Trying to Look Brave | Coudless Climes | [Read More](https://medium.com/p/848ba9106360) |
