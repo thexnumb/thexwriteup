@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 13:12:01 GMT | The Five Forces Reshaping MSPs in 2025 | Ron | [Read More](https://medium.com/p/c66987b9665a) |
+| Sun, 12 Oct 2025 13:08:21 GMT | OWASP Top 10 — Broken Access Control | Abhinsubej | [Read More](https://medium.com/p/eddc438d8b7e) |
+| Sun, 12 Oct 2025 13:06:46 GMT | From Fortress to Federation: Your Ultimate Guide to Entra ID Sync and Invitations | Niraj Kumar | [Read More](https://medium.com/p/671d1035b3b5) |
+| Sun, 12 Oct 2025 13:05:10 GMT | ISO/IEC 27001: Making Cybersecurity Simple and Practical | 0xr4m! | [Read More](https://medium.com/p/b94cc2e7c53a) |
+| Sun, 12 Oct 2025 13:00:23 GMT | Hackers Take Over Your WordPress Without Knowing the Password | Patrik Žák | [Read More](https://medium.com/p/237c94621297) |
+| Sun, 12 Oct 2025 12:58:13 GMT | Can we make love? | shey | [Read More](https://medium.com/p/1c82e6b4cc45) |
+| Sun, 12 Oct 2025 12:57:53 GMT | Untitled | Abdusselam Karahan | [Read More](https://medium.com/p/a363e8d113a2) |
+| Sun, 12 Oct 2025 12:57:30 GMT | Web Uygulama Güvenliğinde Cloudflare’ın Rolü: WAF Mantığını Anlamak | Abdusselam Karahan | [Read More](https://medium.com/p/8c47964b863d) |
+| Sun, 12 Oct 2025 12:54:39 GMT | I Refused to Answer the Body Count Question and She Called Me a Womanizer | Victor Ude | [Read More](https://medium.com/p/6f33f5cab9e9) |
+| Sun, 12 Oct 2025 12:51:15 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/10ff6a6b3eba) |
+| Sun, 12 Oct 2025 12:49:24 GMT | I decided to cancel my LinkedIn Premium subscription after purchasing it multiple times. | Imran Niaz | [Read More](https://medium.com/p/85011c3cce75) |
+| Sun, 12 Oct 2025 12:45:29 GMT | Mastering Kubernetes Governance: A Complete Guide to Kyverno Policy Management | Salwan Mohamed | [Read More](https://medium.com/p/e134adf33a97) |
+| Sun, 12 Oct 2025 12:44:08 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/be7d6b894855) |
+| Sun, 12 Oct 2025 12:43:00 GMT | TeleHunt — BotInTheMiddle [EN] | Jimmy Bianco | [Read More](https://medium.com/p/f3f520aa8874) |
+| Sun, 12 Oct 2025 12:40:48 GMT | Digitale Souveränität in Kanzleien: Wie abhängig sind wir von US-Technologien? | Thomas Delfing | [Read More](https://medium.com/p/ec6d92569571) |
+| Sun, 12 Oct 2025 12:39:15 GMT | The Crypto Tricks You Don’t Learn on YouTube — But Should | Crypto Savvy | [Read More](https://medium.com/p/4f291395553b) |
+| Sun, 12 Oct 2025 12:36:56 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/21fa1ab2599f) |
+| Sun, 12 Oct 2025 12:34:47 GMT | TeleHunt — BotInTheMiddle [ES] | Jimmy Bianco | [Read More](https://medium.com/p/fab6c2ac2650) |
+| Sun, 12 Oct 2025 12:33:05 GMT | The Space Between Childhood and Hero | Aaron Pace | [Read More](https://medium.com/p/f157fbaf1cf7) |
+| Sun, 12 Oct 2025 12:32:13 GMT | SOC Playbook Serisi - Bölüm 1: Web Shell Nedir, Neden Kritik? | Beyza Sıla Gökmen | [Read More](https://medium.com/p/a4fe080c9944) |
+| Sun, 12 Oct 2025 12:31:36 GMT | Exploring the Intersection of AI and Cybersecurity: How Machine Learning Helps Detect Threats | 0xr4m! | [Read More](https://medium.com/p/34e2f0e26c68) |
+| Sun, 12 Oct 2025 12:30:57 GMT | Email Security: Preventing Phishing and Spam | Cyber Security Research | [Read More](https://medium.com/p/21c61f451946) |
+| Sun, 12 Oct 2025 12:30:32 GMT | The Foundations: Roles, Permissions, and Access Control | Chiraggarg | [Read More](https://medium.com/p/7a253193ea45) |
 | Sun, 12 Oct 2025 12:25:23 GMT | Endpoint Security: Protecting Devices on the Network | Cyber Security Research | [Read More](https://medium.com/p/ef4a4d8b4716) |
 | Sun, 12 Oct 2025 12:25:15 GMT | Is 2025 Finally the Year of the Linux PC?
  (And Why It Matters to the World of Cybersecurity) | Aditya K | [Read More](https://medium.com/p/7f1d96162d0a) |
@@ -90,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 07:36:56 GMT | Free 9-hour Bug Bounty Boot Camp | Yaniv | [Read More](https://medium.com/p/c9ad973fa25d) |
 | Sun, 12 Oct 2025 07:30:08 GMT | Cybersecurity in Healthcare | Cyber Security Research | [Read More](https://medium.com/p/88059dfcd056) |
 | Sun, 12 Oct 2025 07:24:40 GMT | ⚡ LIVE DATA from hacked testphp.vulnweb.com : The Honeypot made Public  by Cyber Kalki | Krivadna | [Read More](https://medium.com/p/bf8e0ce6110a) |
-| Sun, 12 Oct 2025 07:24:22 GMT | Zero Trust Security: A New Paradigm | Cyber Security Research | [Read More](https://medium.com/p/9e78b15f6da9) |
-| Sun, 12 Oct 2025 07:17:25 GMT | DevSecOps: Integrating Security into Development | Cyber Security Research | [Read More](https://medium.com/p/8e7613c851f2) |
-| Sun, 12 Oct 2025 07:16:58 GMT | GoCow HTB | Ishita Kapur | [Read More](https://medium.com/p/9b9946ff0902) |
-| Sun, 12 Oct 2025 06:56:41 GMT | The Midnight ATM Heist That Fooled an Entire City | Priyanka Jha | [Read More](https://medium.com/p/b4a8ff2dd626) |
-| Sun, 12 Oct 2025 06:53:00 GMT | Embedding Security into Enterprise Architecture: A TOGAF-Based Approach to Risk-Aligned Design | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/75a621456c49) |
-| Sun, 12 Oct 2025 06:47:10 GMT | Membongkar D4I: Evolusi Digital Forensics untuk Industri 4.0 dan Serangan Siber Modern | Seczake | [Read More](https://medium.com/p/64dedde738be) |
-| Sun, 12 Oct 2025 06:42:30 GMT | I turned a URL tweak into $800: How I found an IDOR and got paid — step-by-step (for beginners!) | Zoningxtr | [Read More](https://medium.com/p/86aa5443711e) |
-| Sun, 12 Oct 2025 06:35:32 GMT | Top 10 Women in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/464c1c4153c4) |
-| Sun, 12 Oct 2025 06:29:41 GMT | Application Security Nightmares: How To Safeguard User Accounts | Benjamin Cham | [Read More](https://medium.com/p/a875ab3768f0) |
-| Sun, 12 Oct 2025 06:18:04 GMT | The One Login to Rule Them All: Single Sign On-SSO II (the technical version) | Stephnoramafeng | [Read More](https://medium.com/p/4cb365e2ebeb) |
-| Sun, 12 Oct 2025 06:08:56 GMT | Think Before You Click: The Hidden Dangers of Online Links | Juned Silavat | [Read More](https://medium.com/p/9efec834c295) |
-| Sun, 12 Oct 2025 05:59:30 GMT | The Invisible Killer in the Sunlight: How Hackers Can Paralyze Your Solar System with an… | Rui Bian | [Read More](https://medium.com/p/c94019af2bb8) |
-| Sun, 12 Oct 2025 05:48:52 GMT | Password protection mechanisms | 80h3m14n | [Read More](https://medium.com/p/cfa004cf2441) |
-| Sun, 12 Oct 2025 05:39:01 GMT | Cyber Security Development in Ashburn, USA: What You Need to Know | Webtrills | [Read More](https://medium.com/p/35241cbb2cca) |
-| Sun, 12 Oct 2025 05:37:30 GMT | #AI Old and New | Alan W Silberberg | [Read More](https://medium.com/p/60d9e014dd27) |
-| Sun, 12 Oct 2025 05:36:27 GMT | Because the Internet Hates You: Running SafeLine WAF on Proxmox | Clemens | [Read More](https://medium.com/p/2495ac90b653) |
-| Sun, 12 Oct 2025 05:29:30 GMT | XSS & CSRF for Beginners: Finding Easy Bug Bounties | LuisM PoncedDeLeon | [Read More](https://medium.com/p/ba61674ed8a0) |
-| Sun, 12 Oct 2025 05:21:58 GMT | substation_at_0742.nfo | Rain Ginsberg | [Read More](https://medium.com/p/f047b0dde84c) |
-| Sun, 12 Oct 2025 05:17:40 GMT | Introducing PromptIntel | Thomas Roccia | [Read More](https://medium.com/p/1624d03045a3) |
-| Sun, 12 Oct 2025 05:17:22 GMT | Inside the Tools I Use Every Day as a Cybersecurity Analyst | Aj | [Read More](https://medium.com/p/cfdf9d4585a3) |
-| Sun, 12 Oct 2025 05:14:23 GMT | The Science and Significance of Your Unique Fingerprint | Geeky Vartika | [Read More](https://medium.com/p/d78299684d76) |
-| Sun, 12 Oct 2025 05:06:47 GMT | The Age of Artificial Intelligence: How Machines Are Learning to Think Like Us | Sohana Mondal | [Read More](https://medium.com/p/ee7517f7ed2a) |
-| Sun, 12 Oct 2025 05:02:44 GMT | Sandbox: From adduser Hell to a Bulletproof Docker Setup | Grzegorz Golowicz | [Read More](https://medium.com/p/70b3e21df857) |
