@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 11:32:32 GMT | My Personal Browser Extensions For Pentesting | Ahmed Yasser | [Read More](https://medium.com/p/fd8b72f4aec5) |
+| Sun, 12 Oct 2025 11:25:47 GMT | Indian Stock Exchange Battles 170M cyberattacks daily | Anita | [Read More](https://medium.com/p/1e4fc0ae433b) |
+| Sun, 12 Oct 2025 11:24:34 GMT | Security as a Reliability Feature | SRE Mastery | [Read More](https://medium.com/p/3a53af908301) |
+| Sun, 12 Oct 2025 11:24:07 GMT | This article we will look into the vulnerability subdomain takeovers What makes a web app… | Paulo Bazzo | [Read More](https://medium.com/p/27d2d136ba7e) |
+| Sun, 12 Oct 2025 11:22:48 GMT | AI: The New Attack Surface | Asif.k | [Read More](https://medium.com/p/f58f520ce824) |
+| Sun, 12 Oct 2025 11:20:39 GMT | Hackers nord-coréens : un record de 2 milliards volés en crypto en 2025 | Marc Barbezat | [Read More](https://medium.com/p/6e121b126a06) |
+| Sun, 12 Oct 2025 11:17:46 GMT | Malware Triage and Static Analysis | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/0d002249818d) |
+| Sun, 12 Oct 2025 11:16:08 GMT | Critical Red Hat OpenShift AI Vulnerability Exposes Hybrid Cloud Clusters to Full-Takeover (CVSS… | Gal Moshkovitz | [Read More](https://medium.com/p/281a9f70dd2a) |
 | Sun, 12 Oct 2025 11:12:34 GMT | Top 10 Black Hat Hackers in the World | Manisha Chaudhary | [Read More](https://medium.com/p/ae86bbe137f9) |
 | Sun, 12 Oct 2025 11:09:08 GMT | The Hacker’s Journey: From Curiosity to Mastery | Fateyaly | [Read More](https://medium.com/p/2f97e2265619) |
+| Sun, 12 Oct 2025 11:05:26 GMT | How to Recover Your Gmail Account: A Beginner’s Guide to Staying Safe Online | Alexander Hoffmann | [Read More](https://medium.com/p/99d2df3f4048) |
 | Sun, 12 Oct 2025 11:04:55 GMT | From Offense to Defense: Crafting the Modern Detection Engineer | CyberFreak | [Read More](https://medium.com/p/37ba60e6c09e) |
 | Sun, 12 Oct 2025 11:00:58 GMT | “Who Am IAM” Çözümü | Yusuf Taha Kurt | [Read More](https://medium.com/p/300271488253) |
 | Sun, 12 Oct 2025 10:51:19 GMT | Comet AI Browser is Vulnerable to Full Data Exfiltration via Malicious URLs (CometJacking) | Gal Moshkovitz | [Read More](https://medium.com/p/a2d156555eda) |
@@ -103,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 03:26:04 GMT | PHP — Command injection RootMe | YunchoHang | [Read More](https://medium.com/p/0ee12bb7d1a1) |
 | Sun, 12 Oct 2025 03:02:51 GMT | Blind SQL Injection: Conditional Errors (Oracle) | Cipher0x00 | [Read More](https://medium.com/p/9a400df0cd97) |
 | Sun, 12 Oct 2025 02:57:20 GMT | OWASP Top 10 Mobile Risks that made me 5000$ | Anonymous Traiger | [Read More](https://medium.com/p/d377e10d71f5) |
-| Sun, 12 Oct 2025 02:54:14 GMT | Mic-E-Mouse: When Your Gaming Mouse Becomes a Microphone | William Osei Prempeh | [Read More](https://medium.com/p/3315e57000ad) |
-| Sun, 12 Oct 2025 02:45:33 GMT | Attacking iOS: Elite Recon and Exploitation Guide For Bug Bounty Hunters | Anonymous Traiger | [Read More](https://medium.com/p/0c67e2160484) |
-| Sun, 12 Oct 2025 02:42:48 GMT | The 10-Minute Ritual That Transforms Compliance into Confidence | Dr. Deep Pandey | [Read More](https://medium.com/p/1f0f56805bd5) |
-| Sun, 12 Oct 2025 02:34:41 GMT | The Python Security Lab: How I Used Python to Detect and Prevent Cyber Threats | Kainat Nafees | [Read More](https://medium.com/p/84293179bcf4) |
-| Sun, 12 Oct 2025 02:23:29 GMT | The Past, Present, and Future of
-Cyberwarfare and the Effects of
-Cybersecurity on National Security | Nevaeh R. Dukes | [Read More](https://medium.com/p/4bb1f5612296) |
-| Sun, 12 Oct 2025 02:15:57 GMT | Cross-Site Request Forgery (CSRF) | Md. Raihan | [Read More](https://medium.com/p/958e968dc693) |
-| Sun, 12 Oct 2025 02:09:57 GMT | API Security Nightmares: API Breach That Could Destroy Your Business — And How to Stop It | Benjamin Cham | [Read More](https://medium.com/p/827b9ebae350) |
-| Sun, 12 Oct 2025 01:42:37 GMT | AI and the Future of War: Lessons from Ukraine’s Battlefield Revolution | CCL Montante | [Read More](https://medium.com/p/c308f013d536) |
-| Sun, 12 Oct 2025 01:41:57 GMT | How Safe Is Remini Pro APK? Everything You Need to Know | Riemin Pro | [Read More](https://medium.com/p/015ec68853b0) |
