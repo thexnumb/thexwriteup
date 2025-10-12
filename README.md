@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Oct 2025 04:04:17 GMT | OSCP Zero to Hero: Baby | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/d1889692da89) |
+| Sun, 12 Oct 2025 03:57:03 GMT | Active Recon for Bug Bounties: Port Scanning, Service Fingerprinting & Prioritization ⚡️ | Đeepanshu | [Read More](https://medium.com/p/33f2194de489) |
+| Sun, 12 Oct 2025 03:50:56 GMT | The Shift From Rules to Behavior in Cybersecurity | Anastasia P. | [Read More](https://medium.com/p/deec6d1e383d) |
+| Sun, 12 Oct 2025 03:47:56 GMT | Samsung Latest Phone Price: Flagship & Midrange Update | Alice Doyle | [Read More](https://medium.com/p/50b5b5ed2c7e) |
 | Sun, 12 Oct 2025 03:39:29 GMT | The Silent Leaks — How Repeated Yahoo Japan Data Circulations Reveal a Hidden Threat to Japanese… | David SEHYEON Baek | [Read More](https://medium.com/p/fdf3d2c6cdd2) |
 | Sun, 12 Oct 2025 03:32:50 GMT | Warlock Ransomware: How SharePoint Flaws Were Weaponized to Breach Enterprises | Deven Chhajed | [Read More](https://medium.com/p/5368bfaa40e0) |
 | Sun, 12 Oct 2025 03:26:31 GMT | The Real Story of Cybersecurity: It’s Not About Tools — It’s About Understanding Risks | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/d83afe0b9b8f) |
@@ -112,7 +116,3 @@ The problem: Begin by highlighting the persistent… | Qxbroker | [Read More](ht
 | Sat, 11 Oct 2025 16:31:11 GMT | Enterprise-Grade Linux Deployments | LinuxDev | [Read More](https://medium.com/p/123916d63273) |
 | Sat, 11 Oct 2025 16:16:15 GMT | Mind the Gap: Between the Protocol and the Platform | Mo Zaman | [Read More](https://medium.com/p/1e1544554826) |
 | Sat, 11 Oct 2025 16:13:38 GMT | KQL vs MySQL, What’s the real difference in today’s AI-driven world? | Pretushgupta | [Read More](https://medium.com/p/89e2ad3772e3) |
-| Sat, 11 Oct 2025 16:13:36 GMT | No Matter How Tired You Are, May You Never Lose a Grateful Heart | Vijay Kumar Gupta | [Read More](https://medium.com/p/09c32dd94391) |
-| Sat, 11 Oct 2025 16:12:04 GMT | Cyber Security Careers in School IT: SentryPC for Staff & Admins | Paul Meyer | [Read More](https://medium.com/p/b5f57f70dc2d) |
-| Sat, 11 Oct 2025 16:01:54 GMT | Cyber Security Simulation Software | Grandahsan | [Read More](https://medium.com/p/20a9c110ec2f) |
-| Sat, 11 Oct 2025 15:58:49 GMT | Day 67- Azure basics for cybersecurity beginners | unica 02 | [Read More](https://medium.com/p/6fb798098777) |
