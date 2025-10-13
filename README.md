@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 04:41:28 GMT | Think Before You Click: One Wrong Click Can Crash Your Entire System | Jyothis Mohan | [Read More](https://medium.com/p/6627d6355b70) |
 | Mon, 13 Oct 2025 04:13:42 GMT | Wie ein Cyber-Angriff auf ein Softwareprodukt Flughäfen lahm legte | Sarah Fluchs | [Read More](https://medium.com/p/eae591dc7e77) |
 | Mon, 13 Oct 2025 04:02:06 GMT | Offsec’s Echo Response: ProtoVault Breach Write-up | Cookiez Corner | [Read More](https://medium.com/p/f5fcfffbfd0c) |
 | Mon, 13 Oct 2025 04:01:31 GMT | How a Tiny Regex Almost Crashed the Internet (Yes, Even Behind Cloudflare) | Yash Mangal | [Read More](https://medium.com/p/7b325bc84586) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 18:28:15 GMT | Hack The Box — TombWatcher Season 8 Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/0a3a4a730289) |
 | Sun, 12 Oct 2025 18:24:49 GMT | Metasploit: Meterpreter — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/719db4f256f1) |
 | Sun, 12 Oct 2025 18:22:34 GMT | The 2025.03 Bugfix update is now available | The Feren OS Dev | [Read More](https://medium.com/p/847a1c20dd53) |
-| Sun, 12 Oct 2025 18:17:12 GMT | Hunting for Ghosts: A Walkthrough of the Linux Process Analysis Room | Furkanctiner | [Read More](https://medium.com/p/af77b682cb91) |
