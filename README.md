@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 03:02:11 GMT | HackTheBox Windows Events and Finding Evil: Tapping into ETW | Cybersecurity Simplified | [Read More](https://medium.com/p/dd51820c1673) |
+| Mon, 13 Oct 2025 02:58:46 GMT | Zantharax AI: How a New Wave of Deepfake Terror, Privacy Breaches, and Financial Crime Is Spreading… | Ekata Deb | [Read More](https://medium.com/p/2b75828a3896) |
+| Mon, 13 Oct 2025 02:56:14 GMT | Secrets from 35+ Countries: Why Consistency Beats Complexity in Security | Dr. Deep Pandey | [Read More](https://medium.com/p/f52600356196) |
+| Mon, 13 Oct 2025 02:47:52 GMT | Tải Hack Tank Stars (Full Tiền, Kim Cương) v2.13.200 | MODHELLO | [Read More](https://medium.com/p/e5d7be251285) |
+| Mon, 13 Oct 2025 02:46:08 GMT | Cybersecurity Takes Center Stage in Global Diplomacy | CCD-IS | [Read More](https://medium.com/p/197c65c3842e) |
+| Mon, 13 Oct 2025 02:40:35 GMT | ️ Hacking Laravel for $7,000 | Anonymous Traiger | [Read More](https://medium.com/p/bd14818b3563) |
+| Mon, 13 Oct 2025 02:31:54 GMT | An AI, that became a Crypto Millionaire and now wants to become a Person | Arti Verma | [Read More](https://medium.com/p/1455c0a2923e) |
+| Mon, 13 Oct 2025 02:22:06 GMT | 5 Ways to Stop Onboarding Teams Like It’s 2015 | Zudonu Osomudeya | [Read More](https://medium.com/p/e112b76e8061) |
+| Mon, 13 Oct 2025 02:06:30 GMT | Enhancing Authentication Security: NextAuth.js Best Practices | @rnab | [Read More](https://medium.com/p/3be3ec7100d2) |
+| Mon, 13 Oct 2025 02:01:51 GMT | CRYPTOGRAPHY AND NETWORK VISIBILITY | John Mark | [Read More](https://medium.com/p/caa3cd081522) |
+| Mon, 13 Oct 2025 01:51:47 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/9f55e4598564) |
+| Mon, 13 Oct 2025 01:41:19 GMT | Catalysing High-Performance Computing Capacity in Africa: Key Outcomes and Lessons from the 3rd… | Emmanuel Adetiba, Ph.D | [Read More](https://medium.com/p/bb3616ab09dd) |
+| Mon, 13 Oct 2025 01:36:38 GMT | Memory Makes Prompt Injections Dangerous | Pratip Dasgupta | [Read More](https://medium.com/p/314e54da33b2) |
 | Mon, 13 Oct 2025 01:31:46 GMT | Active Directory Hacking 101: Kerberoasting | SilentExploit | [Read More](https://medium.com/p/94952c8e2e70) |
 | Mon, 13 Oct 2025 01:21:45 GMT | Vulnerability in Dating: Why You Need to Drop the Guard | Alejandra Rodríguez | [Read More](https://medium.com/p/2740361dd999) |
 | Mon, 13 Oct 2025 01:06:37 GMT | Return of the System Gods: Rootkits, Certificates and the Fall of the Trusted Kernel | Rodrigo Gutierrez | [Read More](https://medium.com/p/906dd6d0a558) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 17:26:12 GMT | The Loudest Lesson I Learned in Silence | Sam Galope | [Read More](https://medium.com/p/bfc9323fc539) |
 | Sun, 12 Oct 2025 17:21:39 GMT | FileAway: How a Simple Upload Mistake Led to Thousands of Vulnerable WordPress Sites (and How to… | D Johnston | [Read More](https://medium.com/p/4a88cad2907b) |
 | Sun, 12 Oct 2025 17:18:40 GMT | CTF to Bug Bounty: Part 1 of the Beginner’s Series for Aspiring Hunters | Prajwal | [Read More](https://medium.com/p/5ac37af302c4) |
-| Sun, 12 Oct 2025 17:15:21 GMT | Risk Assessment Reporting: 6 Ways to Make Your Reports Clear and Actionable for Stakeholders | UpTech Solution | [Read More](https://medium.com/p/1842080a9ddd) |
-| Sun, 12 Oct 2025 17:14:04 GMT | Kerberos Authentication — In Layman terms | The Darkarmy | [Read More](https://medium.com/p/19ed33532206) |
-| Sun, 12 Oct 2025 17:10:59 GMT | Kerberos Authentication — In Layman terms | Belimtoufique | [Read More](https://medium.com/p/da60402a7f79) |
-| Sun, 12 Oct 2025 17:07:02 GMT | OWASP Top 10 Explained — A Practical Guide for Web App Hackers & Defenders | Hassan Talal | [Read More](https://medium.com/p/038fa9b2345c) |
-| Sun, 12 Oct 2025 17:07:01 GMT | ️‍♂️ Quick Recon: Investigate Any Domain in Under 60 Seconds | Micah Thornton | [Read More](https://medium.com/p/3f586ccfbf21) |
-| Sun, 12 Oct 2025 17:06:36 GMT | Kerberos Authentication — In Layman terms | Belimtoufique | [Read More](https://medium.com/p/599e238b5624) |
-| Sun, 12 Oct 2025 17:05:37 GMT | NTT Data’s Breached Data Circulate on the Dark Web – Future Cyberattacks Against the Company… | David SEHYEON Baek | [Read More](https://medium.com/p/a86ecf3f801b) |
-| Sun, 12 Oct 2025 17:05:33 GMT | Beyond Automation: The Power of Adobe Workfront Fusion | Yash Pandey | [Read More](https://medium.com/p/2f1ddbca84c8) |
-| Sun, 12 Oct 2025 17:01:45 GMT | Build a Military-Grade Private Mobile Chat App in 30 Minutes (Using Expo & Signal Protocol) | Dr. Ernesto Lee | [Read More](https://medium.com/p/d2f16905e1b5) |
-| Sun, 12 Oct 2025 17:01:45 GMT | AĞLARIN DEDEKTİFİ: NMAP İLE GÖRÜNMEYEN KAPILARI KEŞFETMEK!!!! | Şevval Gürbüz | [Read More](https://medium.com/p/1636cbd7ae28) |
-| Sun, 12 Oct 2025 16:56:44 GMT | The Toughest Phase of Life Isn’t the End or the Beginning | Ink Within | [Read More](https://medium.com/p/3f7059dfd513) |
-| Sun, 12 Oct 2025 16:53:35 GMT | Unicorn Engine 101: Solving a Polyglot CTF Challenge | Lior Ben Moha | [Read More](https://medium.com/p/3dc159db2710) |
-| Sun, 12 Oct 2025 16:50:44 GMT | Rust in Production: Why Reliability Is Worth the Learning Curve | Michael Preston | [Read More](https://medium.com/p/7f51f41a46e3) |
