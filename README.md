@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 22:46:22 GMT | Token Expired Error and IDOR: Unauthorized Access in an ASP.NET Application | Hamit CİBO | [Read More](https://medium.com/p/70a3f69b10cc) |
+| Mon, 13 Oct 2025 22:41:46 GMT | Zero Trust – a Doctrine Without Deliverance | George Sidman | [Read More](https://medium.com/p/2eef69f7cfeb) |
+| Mon, 13 Oct 2025 22:40:55 GMT | You can’t protect your heart by pretending not to have one | Arisa Thomas | [Read More](https://medium.com/p/4509e7b5e380) |
+| Mon, 13 Oct 2025 22:40:08 GMT | Shopping Online Without Getting Scammed | Samirah A.O | [Read More](https://medium.com/p/e40cb1831e64) |
+| Mon, 13 Oct 2025 22:33:55 GMT | 8 Critical Insights from My Forthcoming Book on Blockchain Security | Kelsie Nabben | [Read More](https://medium.com/p/9eceb70820eb) |
 | Mon, 13 Oct 2025 22:11:29 GMT | Active — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/bdc36d1b2adb) |
 | Mon, 13 Oct 2025 22:06:29 GMT | Crafting Secure Authentication with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/53b83c1c3693) |
 | Mon, 13 Oct 2025 21:55:44 GMT | The Dark Reality of Dark Web - My Scary Research ☠️ | Abdullah Javeed | [Read More](https://medium.com/p/c6f69613daba) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 17:01:47 GMT | Handle Hunt: Claim Your Username Across the Web | Micah Thornton | [Read More](https://medium.com/p/2caa6f6f17f5) |
 | Mon, 13 Oct 2025 16:58:23 GMT | TryHackMe - Shadow Trace - WriteUp | Axoloth | [Read More](https://medium.com/p/f18676207751) |
 | Mon, 13 Oct 2025 16:57:10 GMT | 6HTMLAttributes | Rana Awais | [Read More](https://medium.com/p/259eaf47486f) |
-| Mon, 13 Oct 2025 16:55:56 GMT | Daily Bugle - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/6bbf0b59ef06) |
-| Mon, 13 Oct 2025 16:52:29 GMT | When Chat Apps Become Attack Infrastructure — Inside “ChaosBot,” the Rust-Based Discord C2 Malware. | eL Njas!™ | [Read More](https://medium.com/p/2ebdad801974) |
-| Mon, 13 Oct 2025 16:51:12 GMT | 5HTMLElementsandTags | Rana Awais | [Read More](https://medium.com/p/78d1d0ccc9c4) |
-| Mon, 13 Oct 2025 16:47:51 GMT | How Prosper Landed His First Cybersecurity Job (and What You Can Learn From It) | Jerome Jamang | [Read More](https://medium.com/p/b86db81237f6) |
-| Mon, 13 Oct 2025 16:42:13 GMT | Nmap for Newbies: Scanning a Network Like a Pro ️‍♂️part-1 | Ddude | [Read More](https://medium.com/p/37108f5e7824) |
