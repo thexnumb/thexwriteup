@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 10:11:37 GMT | “My First Month at Apto” | Apto Solutions | [Read More](https://medium.com/p/e44ae7e6b0f9) |
+| Mon, 13 Oct 2025 10:11:01 GMT | ️ Advanced DNS Tunneling for Data Exfiltration Testing | Esra Kayhan | [Read More](https://medium.com/p/155d523efdba) |
+| Mon, 13 Oct 2025 10:07:02 GMT | DockerLabs Writeup — Fileception (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7787a19a4458) |
+| Mon, 13 Oct 2025 10:01:50 GMT | Five Fast Wins to Cut Phishing Risk For Small Teams (Without Buying a Gateway) | Aysha Saifi | [Read More](https://medium.com/p/fea2857ed2cd) |
+| Mon, 13 Oct 2025 10:01:22 GMT | Cypress vs Selenium: Which Testing Tool Is Right for You in 2025? | Anete | [Read More](https://medium.com/p/8c5dd42943a4) |
+| Mon, 13 Oct 2025 09:56:31 GMT | Container Security Implementation and Troubleshooting | Eren Cankut Uysal | [Read More](https://medium.com/p/cb6da73bece9) |
+| Mon, 13 Oct 2025 09:50:16 GMT | Top-Rated Cyber Security Classes Kerala: Become a Certified Expert with Techmindz | TMZ Work | [Read More](https://medium.com/p/bf7b28c5dbac) |
+| Mon, 13 Oct 2025 09:50:04 GMT | Scaling Secret Detection Across Your Organization with TruffleHog and Reusable GitHub Actions | Femi Oyesanya | [Read More](https://medium.com/p/4ff10df5998e) |
 | Mon, 13 Oct 2025 09:40:22 GMT | When ‘Just a Config Issue’ Becomes a Full Data Breach | Sushant Soni | [Read More](https://medium.com/p/e7c769f6872b) |
+| Mon, 13 Oct 2025 09:38:48 GMT | Building a Smarter, Stronger Future: How a Healthcare App Development Company is Revolutionizing… | Inaayathakurr | [Read More](https://medium.com/p/8ab71ed4c40f) |
+| Mon, 13 Oct 2025 09:38:05 GMT | Cyberdefenders Ramnit — Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/b14ce40a8a79) |
 | Mon, 13 Oct 2025 09:36:51 GMT | DarkForums — database leaks | Chloe Tan | [Read More](https://medium.com/p/16f8f9b9ad69) |
 | Mon, 13 Oct 2025 09:31:39 GMT | How to Start VAPT for Beginners ️ | VAPTify | [Read More](https://medium.com/p/d9d2a090e9a2) |
 | Mon, 13 Oct 2025 09:31:18 GMT | What a Mature IAM Foundation Actually Looks Like (Through Okta’s Lens) | Justin Jackson | [Read More](https://medium.com/p/4158fb158695) |
@@ -103,13 +113,3 @@ Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://mediu
 | Mon, 13 Oct 2025 05:37:42 GMT | Mastering OSCP+ in 2025–26 The Updated Exam, My Fails, Wins & how you can do it! | zeroDaykt | [Read More](https://medium.com/p/c44534bfcf54) |
 | Mon, 13 Oct 2025 05:35:13 GMT | TGA Medical Device Regulations: Why Penetration Testing Is Essential | QualysecEurope | [Read More](https://medium.com/p/3ea4bd138816) |
 | Mon, 13 Oct 2025 05:22:01 GMT | The 5 Security Mistakes Every Developer Makes | Muhummad Zaki | [Read More](https://medium.com/p/242ce933cca4) |
-| Mon, 13 Oct 2025 04:53:36 GMT | Coding With AI While Sleep-Deprived and Morally Ambiguous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3ae68fdc98d) |
-| Mon, 13 Oct 2025 04:51:53 GMT | When OSINT Becomes Invasive and How to Stop Yourself | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/43c468b33581) |
-| Mon, 13 Oct 2025 04:51:11 GMT | Is Your AI Agent the Weakest Link in Cybersecurity | Mily Smith | [Read More](https://medium.com/p/69067998dcd7) |
-| Mon, 13 Oct 2025 04:51:10 GMT | “Breaking Bad” (Security Habits): The Zero Trust Cloud Journey from Privacy Afterthought to Design… | Snigdha Singh Dewal | [Read More](https://medium.com/p/047cc66e3e40) |
-| Mon, 13 Oct 2025 04:41:28 GMT | Think Before You Click: One Wrong Click Can Crash Your Entire System | Jyothis Mohan | [Read More](https://medium.com/p/6627d6355b70) |
-| Mon, 13 Oct 2025 04:34:25 GMT | How a cyberattack on a software product brought EU airports to a halt | Sarah Fluchs | [Read More](https://medium.com/p/b1647a16eda8) |
-| Mon, 13 Oct 2025 04:13:42 GMT | Wie ein Cyber-Angriff auf ein Softwareprodukt Flughäfen lahm legte | Sarah Fluchs | [Read More](https://medium.com/p/eae591dc7e77) |
-| Mon, 13 Oct 2025 04:02:06 GMT | Offsec’s Echo Response: ProtoVault Breach Write-up | Cookiez Corner | [Read More](https://medium.com/p/f5fcfffbfd0c) |
-| Mon, 13 Oct 2025 04:01:31 GMT | How a Tiny Regex Almost Crashed the Internet (Yes, Even Behind Cloudflare) | Yash Mangal | [Read More](https://medium.com/p/7b325bc84586) |
-| Mon, 13 Oct 2025 03:59:38 GMT | GZR Observer — India Geo Perspective — Week of Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/185e20b86148) |
