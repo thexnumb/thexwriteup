@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 18:40:46 GMT | Exploring Firewalld Advanced Rules with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/c3a9a9fcdb0e) |
+| Mon, 13 Oct 2025 18:34:33 GMT | 10 Cybersecurity Myths That Are Putting Your Small Business at Risk | CyberFortifyHQ | [Read More](https://medium.com/p/ffcf9e8fadf2) |
+| Mon, 13 Oct 2025 18:26:09 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/fff4b57664ac) |
 | Mon, 13 Oct 2025 18:25:20 GMT | The Truth About Women Who “Never Ask for Help” | The Natalie Rosado | [Read More](https://medium.com/p/8d931c000c70) |
+| Mon, 13 Oct 2025 18:24:53 GMT | 0-Click Account Takeover — Invite Friend + OTP Lifecycle Vulnerability | القنصل | [Read More](https://medium.com/p/2c30e8aaa896) |
+| Mon, 13 Oct 2025 18:22:27 GMT | H1B Visa Changes and Impact on Indian IT Industry with Future Outlook on IT Outsourcing | Dipankar Som | [Read More](https://medium.com/p/0d7f74344791) |
 | Mon, 13 Oct 2025 18:19:38 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/847a9a32e481) |
 | Mon, 13 Oct 2025 18:13:35 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/82fd4ef93207) |
 | Mon, 13 Oct 2025 18:13:06 GMT | Eufy PoE Turret Security Camera E41 Review | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/574228814ff2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 13:52:06 GMT | This Week in Resilience - October 13, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/d100248ea541) |
 | Mon, 13 Oct 2025 13:50:50 GMT | Vatican Deadline Passed — 192 Lawsuits Begin for Theft of Royal Lineage” | Richard Encarnacion, MBA, Ph.D. | [Read More](https://medium.com/p/659098772269) |
 | Mon, 13 Oct 2025 13:45:48 GMT | Dasar Dasar Network Security, Apa itu Firewall? | Aditya Muhamad Putra P. | [Read More](https://medium.com/p/19d80592bb7a) |
-| Mon, 13 Oct 2025 13:45:27 GMT | Dataset and Distribution | Riccardo Giacinti | [Read More](https://medium.com/p/c162d6c1d3a3) |
-| Mon, 13 Oct 2025 13:42:05 GMT | Brave | JoEllen Claypool | [Read More](https://medium.com/p/262f76995fae) |
-| Mon, 13 Oct 2025 13:39:00 GMT | How I Found a Hidden Security Risk in Our Spring Boot Application | Ibtissam hammadi | [Read More](https://medium.com/p/332ba7df530d) |
-| Mon, 13 Oct 2025 13:38:14 GMT | How the Right Security Guards Company in Singapore Can Minimize Risks | Jane Tang | [Read More](https://medium.com/p/3f409a915745) |
-| Mon, 13 Oct 2025 13:37:05 GMT | CTF Walkthrough: Proving Grounds (Play) — loly | Maxwell Ferreira | [Read More](https://medium.com/p/d746fcb8b1b0) |
