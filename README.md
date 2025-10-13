@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 06:27:38 GMT | Elevate Your Website’s Functionality with Company in Chicago | Mike Brown | [Read More](https://medium.com/p/d8fa57069a3c) |
+| Mon, 13 Oct 2025 06:23:46 GMT | Tải Hack Soul Knight (Full Prequel, Character) v7.5.0 | GameHaiVL | [Read More](https://medium.com/p/1807027c9bfb) |
+| Mon, 13 Oct 2025 06:14:06 GMT | Villager: The AI-Powered Penetration Testing Framework | Andrey Pautov | [Read More](https://medium.com/p/8df10532e265) |
+| Mon, 13 Oct 2025 06:12:19 GMT | Best Nanny Cams Services Provider — Top Picks for 2025 | Marcela John | [Read More](https://medium.com/p/83bf69dca536) |
+| Mon, 13 Oct 2025 06:06:07 GMT | Managing Vulnerable Dependencies — The Hidden Risk in Open-Source Code | Dean | [Read More](https://medium.com/p/a10ebe83870d) |
+| Mon, 13 Oct 2025 06:04:07 GMT | Your Smart Devices, Their Weak Links: Why IoT and Mobile Security Can’t Be Ignored by Kenyan… | Kevin Mwenda | [Read More](https://medium.com/p/5709447b8a59) |
+| Mon, 13 Oct 2025 05:56:58 GMT | Portswigger Web Security Academy - DOM-based Vulnerabilities Lab #1 | BooRuleDie | [Read More](https://medium.com/p/65e26a0f8639) |
+| Mon, 13 Oct 2025 05:56:38 GMT | Python Today: How a Simple Language Became the Backbone of the Digital Age | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/68b7d8875568) |
+| Mon, 13 Oct 2025 05:47:53 GMT | What is Networking? A Beginner’s Guide to How Devices Connect and Communicate | Redinit | [Read More](https://medium.com/p/606605eb7696) |
+| Mon, 13 Oct 2025 05:45:39 GMT | Love Shouldn’t Feel Like Begging for Basic Affection | LSD | [Read More](https://medium.com/p/bfb8973db523) |
+| Mon, 13 Oct 2025 05:44:47 GMT | CVE-2021–3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | Sara | [Read More](https://medium.com/p/e27d83ff237d) |
+| Mon, 13 Oct 2025 05:39:01 GMT | TryHackMe — Brooklyn Nine Nine: From Steganography to Root Access | Abhinsubej | [Read More](https://medium.com/p/6a52af46e77e) |
+| Mon, 13 Oct 2025 05:37:42 GMT | Mastering OSCP+ in 2025–26 The Updated Exam, My Fails, Wins & how you can do it! | zeroDaykt | [Read More](https://medium.com/p/c44534bfcf54) |
+| Mon, 13 Oct 2025 05:35:13 GMT | TGA Medical Device Regulations: Why Penetration Testing Is Essential | QualysecEurope | [Read More](https://medium.com/p/3ea4bd138816) |
 | Mon, 13 Oct 2025 05:22:01 GMT | The 5 Security Mistakes Every Developer Makes | Muhummad Zaki | [Read More](https://medium.com/p/242ce933cca4) |
 | Mon, 13 Oct 2025 04:53:36 GMT | Coding With AI While Sleep-Deprived and Morally Ambiguous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3ae68fdc98d) |
 | Mon, 13 Oct 2025 04:51:53 GMT | When OSINT Becomes Invasive and How to Stop Yourself | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/43c468b33581) |
@@ -31,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 03:31:46 GMT | 10 Common Mistakes in Node.js Transaction Management | Arunangshu Das | [Read More](https://medium.com/p/24ef6298e9d8) |
 | Mon, 13 Oct 2025 03:31:46 GMT | ️ Frontend Security in 2025: 6 Critical Mistakes That Can Destroy Your Web App | Priyen Mehta - Senior Full-Stack Developer | [Read More](https://medium.com/p/3c2a57eb2546) |
 | Mon, 13 Oct 2025 03:29:58 GMT | The Importance of Risk Management in Cybersecurity | Incidalus | [Read More](https://medium.com/p/0133f2d7eefd) |
+| Mon, 13 Oct 2025 03:26:34 GMT | Through the Cracks of My Smile | Moonlit Murmurs | [Read More](https://medium.com/p/9dd3b9525a76) |
 | Mon, 13 Oct 2025 03:22:41 GMT | Snake Keylogger: How a Small Idea Became A Slippery Threat | Samratthsingh | [Read More](https://medium.com/p/a9ec6b83ffbf) |
 | Mon, 13 Oct 2025 03:14:43 GMT | ShadowLeak: The Zero-Click Flaw in ChatGPT That Exposed a New Era of AI Vulnerability | Raisul islam (rownok) | [Read More](https://medium.com/p/49979a61f70e) |
 | Mon, 13 Oct 2025 03:07:57 GMT | The Essential Security Checklist for Your AI-Built MVP | Sonu Yadav | [Read More](https://medium.com/p/9f920bd0f4f3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 20:10:00 GMT | Portswigger Academy — Reflected XSS into a JavaScript string with single quote and backslash… | Alan | [Read More](https://medium.com/p/40fafc8f80d3) |
 | Sun, 12 Oct 2025 20:09:47 GMT | Basics & BTS of C++ — Sharing What I Learn 003 | Prathamesh Burade | [Read More](https://medium.com/p/c077eaa21ff6) |
 | Sun, 12 Oct 2025 20:07:51 GMT | Turning a Kali VM into a Live Access Point | Lukasz Wierzbicki | [Read More](https://medium.com/p/71b6f79d98ce) |
-| Sun, 12 Oct 2025 20:00:45 GMT | Day 7 of my Cybersecurity Journey: Active Directory | Ogundipe Priscilla | [Read More](https://medium.com/p/f05720289bdc) |
-| Sun, 12 Oct 2025 19:57:56 GMT | Cut the Jargon: Why This Game Might Be the Security Game You Need to Play | www.OneCoolTip.com | [Read More](https://medium.com/p/3477ede0e9e9) |
-| Sun, 12 Oct 2025 19:55:45 GMT | Why you cannot obfuscate your payload with double-unicode encoding in JavaScript | Alimirzaei | [Read More](https://medium.com/p/05ccb29d4b49) |
-| Sun, 12 Oct 2025 19:51:58 GMT | File Detection Reality Check: What My SIEM Actually Catches | Raynard Waits | [Read More](https://medium.com/p/84b5d4f153f4) |
-| Sun, 12 Oct 2025 19:31:46 GMT | Keys, Tokens, and Trust: Secure APIs for JS | Modexa | [Read More](https://medium.com/p/e55aa2016d6a) |
-| Sun, 12 Oct 2025 19:29:44 GMT | OSINT Investigation: | Shohel Rana | [Read More](https://medium.com/p/5823db27b620) |
-| Sun, 12 Oct 2025 19:28:13 GMT | Portswigger Academy — Reflected XSS in canonical link tag — Write-up | Alan | [Read More](https://medium.com/p/9da02d06b614) |
-| Sun, 12 Oct 2025 19:10:46 GMT | A part of me is dead… | Life With Etoro | [Read More](https://medium.com/p/24956a25fed6) |
-| Sun, 12 Oct 2025 19:09:42 GMT | Ehxb - File Upload Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/6ed033539682) |
-| Sun, 12 Oct 2025 19:06:49 GMT | The Vendor Accountability Problem | Akilnath Bodipudi | [Read More](https://medium.com/p/161ac2c44039) |
-| Sun, 12 Oct 2025 19:02:16 GMT | Home Lab — 7— Architecting the Network | Mithun Rosinth | [Read More](https://medium.com/p/030a63779a2c) |
-| Sun, 12 Oct 2025 19:01:33 GMT | Securing SSH on Linux: A Step-by-Step Guide | Murat K. | [Read More](https://medium.com/p/42a32177311f) |
-| Sun, 12 Oct 2025 18:52:04 GMT | Why Humanity’s Next Revolution Must Be Emotional | Nova Rooks | [Read More](https://medium.com/p/b7d13b629b1e) |
-| Sun, 12 Oct 2025 18:50:16 GMT | Top 10 Cybersecurity Medium Publications | Tal Eliyahu | [Read More](https://medium.com/p/1bd4b13d0155) |
-| Sun, 12 Oct 2025 18:43:37 GMT | The Ghost in the Admin’s Wallet: A Tale of Unauthorized Access | CYX | [Read More](https://medium.com/p/06d8b6b7984b) |
