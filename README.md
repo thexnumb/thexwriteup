@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 20:29:57 GMT | Artigo: Introdução à Segurança Ofensiva (TryHackMe) | Wesley Santos | [Read More](https://medium.com/p/ff2fa26a3536) |
+| Mon, 13 Oct 2025 20:17:48 GMT | The Scam Economy: How Unemployment Is Turning Young Indians into Online Criminals | Mrinal Kumar | [Read More](https://medium.com/p/2c0ceb593e5c) |
+| Mon, 13 Oct 2025 20:15:23 GMT | Graph Theory in Cybersecurity: Mapping, Detection, and Defense | Hussain | [Read More](https://medium.com/p/3cadd1541a43) |
 | Mon, 13 Oct 2025 20:09:11 GMT | Çok Şükür 10 Senenin Sonunda USOM: Ulusal Siber Olaylara Müdahale Merkezi’de Beni Onayladı | Ertugrul Akbas | [Read More](https://medium.com/p/41fcd2894ebc) |
 | Mon, 13 Oct 2025 20:03:32 GMT | FORTIGATE GEÇİŞİ 01.03 AntiVirus | Ziya DENİZ | [Read More](https://medium.com/p/4e4fcce2a7c3) |
 | Mon, 13 Oct 2025 19:57:47 GMT | Build-Time Defenses Against Reverse Engineering | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2177d85c0984) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 15:38:57 GMT | Installing Kali Linux on WSL+BeEF | Beebek Sharma | [Read More](https://medium.com/p/cb6fa0719de6) |
 | Mon, 13 Oct 2025 15:38:27 GMT | Abusing Resource-Based Constrained Delegation (RBCD) in Kerberos | SeverSerenity | [Read More](https://medium.com/p/c56b920b81e6) |
 | Mon, 13 Oct 2025 15:35:47 GMT | Why Can’t We Say What We Feel? | Aditi | [Read More](https://medium.com/p/14480cdd18f2) |
-| Mon, 13 Oct 2025 15:34:24 GMT | Jira: Revolutionizing Project Management for Explainable AI-Driven Healthcare Solutions | Janith Wanasinghe | [Read More](https://medium.com/p/287f694b099e) |
-| Mon, 13 Oct 2025 15:23:03 GMT | Leading in the Shadows: The Art of Building High-Performance Cybersecurity Teams | Shree | [Read More](https://medium.com/p/dc8d585ea977) |
-| Mon, 13 Oct 2025 15:18:43 GMT | Sometimes I wish I weren’t me | The Quill | [Read More](https://medium.com/p/e9921f002de7) |
