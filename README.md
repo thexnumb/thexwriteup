@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 17:14:10 GMT | Zero Trust in Cloud Computing: The Future of Secure Cloud Architecture | Techridge Solutions | [Read More](https://medium.com/p/11a7446fa568) |
+| Mon, 13 Oct 2025 17:03:06 GMT | One Photo, One Map Pin, One Uncomfortable Realization: Metadata | Stephnoramafeng | [Read More](https://medium.com/p/3786b640b73c) |
+| Mon, 13 Oct 2025 17:02:42 GMT | 7HTMLHeadingsandParagraphs | Rana Awais | [Read More](https://medium.com/p/41cedd2aac1f) |
+| Mon, 13 Oct 2025 17:01:47 GMT | AI Cybersecurity and Software: Where the World is Hiring Now | Lab7AI | [Read More](https://medium.com/p/2f766884e289) |
+| Mon, 13 Oct 2025 17:01:47 GMT | Handle Hunt: Claim Your Username Across the Web | Micah Thornton | [Read More](https://medium.com/p/2caa6f6f17f5) |
+| Mon, 13 Oct 2025 16:58:23 GMT | TryHackMe - Shadow Trace - WriteUp | Axoloth | [Read More](https://medium.com/p/f18676207751) |
+| Mon, 13 Oct 2025 16:57:10 GMT | 6HTMLAttributes | Rana Awais | [Read More](https://medium.com/p/259eaf47486f) |
+| Mon, 13 Oct 2025 16:55:56 GMT | Daily Bugle - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/6bbf0b59ef06) |
+| Mon, 13 Oct 2025 16:52:29 GMT | When Chat Apps Become Attack Infrastructure — Inside “ChaosBot,” the Rust-Based Discord C2 Malware. | eL Njas!™ | [Read More](https://medium.com/p/2ebdad801974) |
+| Mon, 13 Oct 2025 16:51:12 GMT | 5HTMLElementsandTags | Rana Awais | [Read More](https://medium.com/p/78d1d0ccc9c4) |
+| Mon, 13 Oct 2025 16:47:51 GMT | How Prosper Landed His First Cybersecurity Job (and What You Can Learn From It) | Jerome Jamang | [Read More](https://medium.com/p/b86db81237f6) |
+| Mon, 13 Oct 2025 16:42:13 GMT | Nmap for Newbies: Scanning a Network Like a Pro ️‍♂️part-1 | Ddude | [Read More](https://medium.com/p/37108f5e7824) |
 | Mon, 13 Oct 2025 16:41:25 GMT | Broken Access Control — TryHackMe Room Walkthrough | Asif.k | [Read More](https://medium.com/p/8ff7f9ecf834) |
 | Mon, 13 Oct 2025 16:40:41 GMT | How to Start Learning AI Automation Fundamentals | Annette Partida | [Read More](https://medium.com/p/5dacec4d9970) |
 | Mon, 13 Oct 2025 16:29:25 GMT | Microsoft Events Leak, Part II: Leaking Event Registration Database Again | Faav | [Read More](https://medium.com/p/069050664475) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 12:42:02 GMT | Authentication vulnerabilities(Part-2) | Ashutosh Jena | [Read More](https://medium.com/p/9fd36218e81a) |
 | Mon, 13 Oct 2025 12:40:33 GMT | Exercise 2 — Assign the Application Administrator Role and Create an App | Azhariqbal | [Read More](https://medium.com/p/25f4934408c4) |
 | Mon, 13 Oct 2025 12:39:34 GMT | Building a Hybrid Intrusion Detection System using SMOTE, KGSOMTE, and Autoencoders | Nouri Baher | [Read More](https://medium.com/p/059a96b0539d) |
-| Mon, 13 Oct 2025 12:35:33 GMT | Not All Intelligence is Artificially Friendly When Protection becomes a paradox | Sandeep Sengupta | [Read More](https://medium.com/p/52a759bd3c13) |
-| Mon, 13 Oct 2025 12:34:25 GMT | Tech Support Services That Keep Your Business Running Smoothly | Swathi Kamale | [Read More](https://medium.com/p/44ad1c769be1) |
-| Mon, 13 Oct 2025 12:27:14 GMT | Getting Started with grep in Linux (Day 4 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/1eb494d7d951) |
-| Mon, 13 Oct 2025 12:24:24 GMT | Security tip of the day : Enable Controlled Folder Access to Block Ransomware | lu-abbey | [Read More](https://medium.com/p/012d9996f83d) |
-| Mon, 13 Oct 2025 12:15:38 GMT | DAY 13:️‍♂️ The Invisible Enemy: Understanding Modern Cybercrime | Aysha Misri | [Read More](https://medium.com/p/f1dbb8b9a0b9) |
-| Mon, 13 Oct 2025 12:14:05 GMT | Create a Custom Root Certificate Authority for Self-Signed Certificates | BEN ABT | [Read More](https://medium.com/p/be2c5bbe76ae) |
-| Mon, 13 Oct 2025 12:11:02 GMT | 04- Kali Linux -Initial Access: Turning Resources into Access | SDNTechForum | [Read More](https://medium.com/p/deccbb5962f1) |
-| Mon, 13 Oct 2025 12:09:25 GMT | PASSWORDLESS FUTURE: The End of Passwords, OTPs, and The Rise of New Digital IdentityPasswords are… | Chisom Emerom | [Read More](https://medium.com/p/e1ea849fc157) |
-| Mon, 13 Oct 2025 12:09:12 GMT | Bodyroot Access: Penetration Testing Your Own Nervous System | Aeon Dexrane | [Read More](https://medium.com/p/49830c62f240) |
-| Mon, 13 Oct 2025 12:08:24 GMT | Setting up trust relationships between domains | Windows Guide | [Read More](https://medium.com/p/81d9d1349272) |
-| Mon, 13 Oct 2025 12:07:07 GMT | Stop Applying Blindly! Let AI Find Your Dream Job (It Actually Works ) | Testleaf | [Read More](https://medium.com/p/9f18bc67c944) |
-| Mon, 13 Oct 2025 12:00:50 GMT | Blue Team Yol Haritası: SOC, SIEM, Threat Hunting | Taha Altın | [Read More](https://medium.com/p/4372b135b310) |
