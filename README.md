@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 10:41:49 GMT | Beyond Bugs: How Modern QA is Powering Business Growth and Digital Trust in 2025 | QaceTech Ltd | [Read More](https://medium.com/p/2e6a98f35991) |
+| Mon, 13 Oct 2025 10:30:35 GMT | Is Google Cloud the Secret to Scalable Success? | Mohammed Numan | [Read More](https://medium.com/p/d7bbd78312cd) |
+| Mon, 13 Oct 2025 10:25:31 GMT | Master Cybersecurity Skills with Certified Ethical Hacker V13 (CEH) Certification | Certocean | [Read More](https://medium.com/p/202a18a71851) |
+| Mon, 13 Oct 2025 10:21:44 GMT | Defenses Against Exploit Development — DEP (NX), ASLR and Beyond | Esra Kayhan | [Read More](https://medium.com/p/269191cd65da) |
+| Mon, 13 Oct 2025 10:21:21 GMT | 1: Project Motivation & Diffie-Hellman | Daniele Frisanco | [Read More](https://medium.com/p/22ca785298e8) |
 | Mon, 13 Oct 2025 10:11:37 GMT | “My First Month at Apto” | Apto Solutions | [Read More](https://medium.com/p/e44ae7e6b0f9) |
 | Mon, 13 Oct 2025 10:11:01 GMT | ️ Advanced DNS Tunneling for Data Exfiltration Testing | Esra Kayhan | [Read More](https://medium.com/p/155d523efdba) |
 | Mon, 13 Oct 2025 10:07:02 GMT | DockerLabs Writeup — Fileception (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7787a19a4458) |
@@ -108,8 +113,3 @@ Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://mediu
 | Mon, 13 Oct 2025 05:56:38 GMT | Python Today: How a Simple Language Became the Backbone of the Digital Age | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/68b7d8875568) |
 | Mon, 13 Oct 2025 05:47:53 GMT | What is Networking? A Beginner’s Guide to How Devices Connect and Communicate | Redinit | [Read More](https://medium.com/p/606605eb7696) |
 | Mon, 13 Oct 2025 05:45:39 GMT | Love Shouldn’t Feel Like Begging for Basic Affection | LSD | [Read More](https://medium.com/p/bfb8973db523) |
-| Mon, 13 Oct 2025 05:44:47 GMT | CVE-2021–3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | Sara | [Read More](https://medium.com/p/e27d83ff237d) |
-| Mon, 13 Oct 2025 05:39:01 GMT | TryHackMe — Brooklyn Nine Nine: From Steganography to Root Access | Abhinsubej | [Read More](https://medium.com/p/6a52af46e77e) |
-| Mon, 13 Oct 2025 05:37:42 GMT | Mastering OSCP+ in 2025–26 The Updated Exam, My Fails, Wins & how you can do it! | zeroDaykt | [Read More](https://medium.com/p/c44534bfcf54) |
-| Mon, 13 Oct 2025 05:35:13 GMT | TGA Medical Device Regulations: Why Penetration Testing Is Essential | QualysecEurope | [Read More](https://medium.com/p/3ea4bd138816) |
-| Mon, 13 Oct 2025 05:22:01 GMT | The 5 Security Mistakes Every Developer Makes | Muhummad Zaki | [Read More](https://medium.com/p/242ce933cca4) |
