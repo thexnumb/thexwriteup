@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 03:44:55 GMT | The Ninth Angel: Matarael, the Angel of Rain — The Corrosion and Gradual Collapse of AI Systems | Scott Huang | [Read More](https://medium.com/p/f1583eba3c0a) |
+| Mon, 13 Oct 2025 03:31:46 GMT | 10 Common Mistakes in Node.js Transaction Management | Arunangshu Das | [Read More](https://medium.com/p/24ef6298e9d8) |
+| Mon, 13 Oct 2025 03:31:46 GMT | ️ Frontend Security in 2025: 6 Critical Mistakes That Can Destroy Your Web App | Priyen Mehta - Senior Full-Stack Developer | [Read More](https://medium.com/p/3c2a57eb2546) |
+| Mon, 13 Oct 2025 03:29:58 GMT | The Importance of Risk Management in Cybersecurity | Incidalus | [Read More](https://medium.com/p/0133f2d7eefd) |
+| Mon, 13 Oct 2025 03:22:41 GMT | Snake Keylogger: How a Small Idea Became A Slippery Threat | Samratthsingh | [Read More](https://medium.com/p/a9ec6b83ffbf) |
+| Mon, 13 Oct 2025 03:14:43 GMT | ShadowLeak: The Zero-Click Flaw in ChatGPT That Exposed a New Era of AI Vulnerability | Raisul islam (rownok) | [Read More](https://medium.com/p/49979a61f70e) |
+| Mon, 13 Oct 2025 03:07:57 GMT | The Essential Security Checklist for Your AI-Built MVP | Sonu Yadav | [Read More](https://medium.com/p/9f920bd0f4f3) |
 | Mon, 13 Oct 2025 03:02:11 GMT | HackTheBox Windows Events and Finding Evil: Tapping into ETW | Cybersecurity Simplified | [Read More](https://medium.com/p/dd51820c1673) |
 | Mon, 13 Oct 2025 02:58:46 GMT | Zantharax AI: How a New Wave of Deepfake Terror, Privacy Breaches, and Financial Crime Is Spreading… | Ekata Deb | [Read More](https://medium.com/p/2b75828a3896) |
 | Mon, 13 Oct 2025 02:56:14 GMT | Secrets from 35+ Countries: Why Consistency Beats Complexity in Security | Dr. Deep Pandey | [Read More](https://medium.com/p/f52600356196) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 17:42:15 GMT | Metaverse Hype vs Reality: Where Are We Now? | Sarvesh | [Read More](https://medium.com/p/dfca0317ba72) |
 | Sun, 12 Oct 2025 17:39:34 GMT | Level Up Banks Secure and Effectual Infrastructure Management | Matt R Shaw | [Read More](https://medium.com/p/a2da9d80c55d) |
 | Sun, 12 Oct 2025 17:36:16 GMT | XSSTRON: Electron/Chromium XSS Scanner That Detects GET & POST Cross-Site Scripting Vulnerabilities | Sonu Yadav | [Read More](https://medium.com/p/4f19b27e56cf) |
-| Sun, 12 Oct 2025 17:35:16 GMT | Alethic Computation (AC) Not Artificial Intelligence (AI) | B Hert | [Read More](https://medium.com/p/5e341fbbd669) |
-| Sun, 12 Oct 2025 17:34:45 GMT | SSH (Secure Shell) | Ahmed Abdelrazek | [Read More](https://medium.com/p/f59836f1560d) |
-| Sun, 12 Oct 2025 17:33:33 GMT | Watch AI Take Over Network Scanning: Kali Linux’s Latest Update Will Blow Your Mind! | cybrNK | [Read More](https://medium.com/p/07adee597017) |
-| Sun, 12 Oct 2025 17:28:38 GMT | “SQLiLite” — PicoCTF writeups | AD3NCA | [Read More](https://medium.com/p/bd8c8f1f3f0f) |
-| Sun, 12 Oct 2025 17:26:12 GMT | The Loudest Lesson I Learned in Silence | Sam Galope | [Read More](https://medium.com/p/bfc9323fc539) |
-| Sun, 12 Oct 2025 17:21:39 GMT | FileAway: How a Simple Upload Mistake Led to Thousands of Vulnerable WordPress Sites (and How to… | D Johnston | [Read More](https://medium.com/p/4a88cad2907b) |
-| Sun, 12 Oct 2025 17:18:40 GMT | CTF to Bug Bounty: Part 1 of the Beginner’s Series for Aspiring Hunters | Prajwal | [Read More](https://medium.com/p/5ac37af302c4) |
