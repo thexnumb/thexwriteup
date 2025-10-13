@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 07:32:07 GMT | Managing Entra ID Configuration and Security using the Terraform MSGraph Provider ❤️ | Brian Veldman | [Read More](https://medium.com/p/f67a76360bc1) |
+| Mon, 13 Oct 2025 07:31:57 GMT | [HackTheBox x VulnlabWrite-up] Baby (Foothold from hidden user to Backup Operator Group abuse) | Chicken0248 | [Read More](https://medium.com/p/84ec3c16c93e) |
+| Mon, 13 Oct 2025 07:31:21 GMT | Prisma SASE App Acceleration: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/34a3fe97e74b) |
+| Mon, 13 Oct 2025 07:29:24 GMT | How to Use AI to Learn Bug Hunting & Cybersecurity Like a Pro (in 2025) | Vipul Sonule | [Read More](https://medium.com/p/4c0a53a209b1) |
+| Mon, 13 Oct 2025 07:26:13 GMT | Telkom Cyberheroes 2025: Strengthening Digital Literacy and Protection for 5,000 Indonesian… | telkomsustainibility | [Read More](https://medium.com/p/d7acd27aa31c) |
+| Mon, 13 Oct 2025 07:23:34 GMT | SOC as a Service: The Future of Managed Cybersecurity for Modern Enterprises | Aaishasharma | [Read More](https://medium.com/p/6075b6a1b033) |
 | Mon, 13 Oct 2025 07:13:33 GMT | How to Secure Salesforce? After 700+ Breaches & 50M Stolen Records | Abhinav Gupta | [Read More](https://medium.com/p/a6684d5b018e) |
 | Mon, 13 Oct 2025 07:08:43 GMT | SQL Injection and IDOR explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/2b5493f30fa0) |
 | Mon, 13 Oct 2025 07:08:23 GMT | How Certificate Pinning Shields Your Fintech App from Hackers — Explained Simply | Takendra Saraswat | [Read More](https://medium.com/p/4c202adcc71c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 22:32:13 GMT | The Day the Safety Nets Vanished: How Europe is Bracing for an Unthinkable Future | Multipolar World | [Read More](https://medium.com/p/cae4908ac182) |
 | Sun, 12 Oct 2025 22:32:05 GMT | TryHackMe #110 - Linux Forensics | SiberYuk | [Read More](https://medium.com/p/09888fda46e2) |
 | Sun, 12 Oct 2025 22:27:49 GMT | TryHackMe #108 - Windows Forensics 2 | SiberYuk | [Read More](https://medium.com/p/0362dd3308ed) |
-| Sun, 12 Oct 2025 22:25:17 GMT | Setting up auditing for Active Directory changes | Windows Guide | [Read More](https://medium.com/p/fa47b401143b) |
-| Sun, 12 Oct 2025 22:22:53 GMT | Olivia Dean Inspired This | nai's notes | [Read More](https://medium.com/p/9b8f1efe59ef) |
-| Sun, 12 Oct 2025 22:22:04 GMT | TryHackMe #108 - Windows Forensics 1 | SiberYuk | [Read More](https://medium.com/p/fbb9d2b3eadf) |
-| Sun, 12 Oct 2025 22:17:45 GMT | TryHackMe #107 - DFIR: An Introduction | SiberYuk | [Read More](https://medium.com/p/be104f0a534f) |
-| Sun, 12 Oct 2025 22:17:02 GMT | How to Block Personal Computers with Conditional Access in Microsoft | Arnold De La Vega | [Read More](https://medium.com/p/a95edbf85b66) |
-| Sun, 12 Oct 2025 22:11:56 GMT | AI Won’t Wait. | Dwayne Xavier Bull (ChatterBox Podcast) | [Read More](https://medium.com/p/d375e7cebac4) |
