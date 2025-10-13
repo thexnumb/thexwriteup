@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 17:37:45 GMT | Humans as Attack Vectors | Tony Khalil Rodgers | [Read More](https://medium.com/p/e48f31115023) |
+| Mon, 13 Oct 2025 17:35:00 GMT | The Betrayal Was So Loud, But The Apology Didn’t Make A Sound | Vijay Kumar Gupta | [Read More](https://medium.com/p/af2d8fa859db) |
+| Mon, 13 Oct 2025 17:29:54 GMT | Zero Trust in Action: Building a Defense Strategy That Assumes Breach | Aj | [Read More](https://medium.com/p/7542fbde7ead) |
+| Mon, 13 Oct 2025 17:27:27 GMT | Buffer Overflow Attacks: Understanding the Threat | Cyber Security Research | [Read More](https://medium.com/p/902cabcc22a3) |
+| Mon, 13 Oct 2025 17:25:55 GMT | Top 5 Security System Companies in Canada You Can Trust | Linagracex | [Read More](https://medium.com/p/12597d88de33) |
+| Mon, 13 Oct 2025 17:24:57 GMT | Saga of Exploiting Hardcoded APIs to Swag Hoodies. | Harsh Tandel | [Read More](https://medium.com/p/4a5d0792e0ac) |
+| Mon, 13 Oct 2025 17:20:42 GMT | SecurityFilterChain Explained: The Secret Sauce Behind Spring Security | CodeTalks | [Read More](https://medium.com/p/b86b2bd63e8e) |
+| Mon, 13 Oct 2025 17:18:30 GMT | ️ Behind the Scenes of Spring Security: Mastering SecurityFilterChain Like a Pro | Lakshika | [Read More](https://medium.com/p/dab68f96fecc) |
+| Mon, 13 Oct 2025 17:17:54 GMT | UAC Bypass: Memory Injection (Metasploit) | Dharmendrakumar | [Read More](https://medium.com/p/8a15f1852fba) |
 | Mon, 13 Oct 2025 17:14:10 GMT | Zero Trust in Cloud Computing: The Future of Secure Cloud Architecture | Techridge Solutions | [Read More](https://medium.com/p/11a7446fa568) |
+| Mon, 13 Oct 2025 17:09:07 GMT | 8HTMLLinksandAnchors | Rana Awais | [Read More](https://medium.com/p/a78bdd1dc8e2) |
+| Mon, 13 Oct 2025 17:07:42 GMT | Deception Technology: Fighting Hackers by Tricking Them | Shahzaib | [Read More](https://medium.com/p/daea3ec5cb4b) |
 | Mon, 13 Oct 2025 17:03:06 GMT | One Photo, One Map Pin, One Uncomfortable Realization: Metadata | Stephnoramafeng | [Read More](https://medium.com/p/3786b640b73c) |
 | Mon, 13 Oct 2025 17:02:42 GMT | 7HTMLHeadingsandParagraphs | Rana Awais | [Read More](https://medium.com/p/41cedd2aac1f) |
 | Mon, 13 Oct 2025 17:01:47 GMT | AI Cybersecurity and Software: Where the World is Hiring Now | Lab7AI | [Read More](https://medium.com/p/2f766884e289) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 13:01:50 GMT | Your MCP Agents Can Access Everything. They Can’t Prove Who They Are. Here’s Why That’s Dangerous. | Nwosu Rosemary | [Read More](https://medium.com/p/e20e9f816204) |
 | Mon, 13 Oct 2025 13:01:48 GMT | How to Remove a Door Lock Without Screws: Hidden Fastener & Clip Release Tips | Sure Lock & Key LLC | [Read More](https://medium.com/p/1afb4ab9c136) |
 | Mon, 13 Oct 2025 13:01:00 GMT | Mobile Application Security Testing (MAST) | Cyber Security Research | [Read More](https://medium.com/p/4d7699dcd889) |
-| Mon, 13 Oct 2025 12:56:44 GMT | Efficient Algorithm for Allow List File Updates in Python | Citadel Cybersec | [Read More](https://medium.com/p/b397edefc4fb) |
-| Mon, 13 Oct 2025 12:55:53 GMT | The Double-Edged Sword of AI in Cybersecurity | Mainekhacker | [Read More](https://medium.com/p/060c1a41ef59) |
-| Mon, 13 Oct 2025 12:54:39 GMT | Dynamic Application Security Testing (DAST) | Cyber Security Research | [Read More](https://medium.com/p/feddcc02f7bd) |
-| Mon, 13 Oct 2025 12:50:58 GMT | Codexae’s Smart Approach to Native vs Cross-Platform App Development in Dubai | B2B SUGGESTION | [Read More](https://medium.com/p/2129b2a9da92) |
-| Mon, 13 Oct 2025 12:49:35 GMT | Pandemics, EMPs, Cyber Attacks | Cole Burnham | [Read More](https://medium.com/p/62ce03c33aa7) |
-| Mon, 13 Oct 2025 12:48:16 GMT | Mapping Dark Web Infrastructure | Netlas.io | [Read More](https://medium.com/p/5c956a3564f8) |
-| Mon, 13 Oct 2025 12:48:01 GMT | Static Application Security Testing (SAST) | Cyber Security Research | [Read More](https://medium.com/p/882fe17b2838) |
-| Mon, 13 Oct 2025 12:43:16 GMT | Contrats : les 6 erreurs qui font exploser vos budgets | Abrennis | [Read More](https://medium.com/p/921144f38b6f) |
-| Mon, 13 Oct 2025 12:42:02 GMT | Authentication vulnerabilities(Part-2) | Ashutosh Jena | [Read More](https://medium.com/p/9fd36218e81a) |
-| Mon, 13 Oct 2025 12:40:33 GMT | Exercise 2 — Assign the Application Administrator Role and Create an App | Azhariqbal | [Read More](https://medium.com/p/25f4934408c4) |
-| Mon, 13 Oct 2025 12:39:34 GMT | Building a Hybrid Intrusion Detection System using SMOTE, KGSOMTE, and Autoencoders | Nouri Baher | [Read More](https://medium.com/p/059a96b0539d) |
