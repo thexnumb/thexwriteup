@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 04:53:36 GMT | Coding With AI While Sleep-Deprived and Morally Ambiguous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3ae68fdc98d) |
+| Mon, 13 Oct 2025 04:51:53 GMT | When OSINT Becomes Invasive and How to Stop Yourself | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/43c468b33581) |
+| Mon, 13 Oct 2025 04:51:11 GMT | Is Your AI Agent the Weakest Link in Cybersecurity | Mily Smith | [Read More](https://medium.com/p/69067998dcd7) |
+| Mon, 13 Oct 2025 04:51:10 GMT | “Breaking Bad” (Security Habits): The Zero Trust Cloud Journey from Privacy Afterthought to Design… | Snigdha Singh Dewal | [Read More](https://medium.com/p/047cc66e3e40) |
 | Mon, 13 Oct 2025 04:41:28 GMT | Think Before You Click: One Wrong Click Can Crash Your Entire System | Jyothis Mohan | [Read More](https://medium.com/p/6627d6355b70) |
+| Mon, 13 Oct 2025 04:34:25 GMT | How a cyberattack on a software product brought EU airports to a halt | Sarah Fluchs | [Read More](https://medium.com/p/b1647a16eda8) |
 | Mon, 13 Oct 2025 04:13:42 GMT | Wie ein Cyber-Angriff auf ein Softwareprodukt Flughäfen lahm legte | Sarah Fluchs | [Read More](https://medium.com/p/eae591dc7e77) |
 | Mon, 13 Oct 2025 04:02:06 GMT | Offsec’s Echo Response: ProtoVault Breach Write-up | Cookiez Corner | [Read More](https://medium.com/p/f5fcfffbfd0c) |
 | Mon, 13 Oct 2025 04:01:31 GMT | How a Tiny Regex Almost Crashed the Internet (Yes, Even Behind Cloudflare) | Yash Mangal | [Read More](https://medium.com/p/7b325bc84586) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 18:50:16 GMT | Top 10 Cybersecurity Medium Publications | Tal Eliyahu | [Read More](https://medium.com/p/1bd4b13d0155) |
 | Sun, 12 Oct 2025 18:43:37 GMT | The Ghost in the Admin’s Wallet: A Tale of Unauthorized Access | CYX | [Read More](https://medium.com/p/06d8b6b7984b) |
 | Sun, 12 Oct 2025 18:38:37 GMT | Digital Danger Zones: Mobile App Trap Nation — The Hidden Risks Behind “Free” Mobile Apps | Ahmed Zouhair | [Read More](https://medium.com/p/3515976a0dba) |
-| Sun, 12 Oct 2025 18:38:19 GMT | Privancer: Protección de Datos y Seguridad Online - Guía Definitiva de Privacidad Digital 2025 | Guarimata Carlos | [Read More](https://medium.com/p/890e5c46ed68) |
-| Sun, 12 Oct 2025 18:29:41 GMT | The Enshitification of Technical Leadership | Shad Collins | [Read More](https://medium.com/p/412fa6aa58f6) |
-| Sun, 12 Oct 2025 18:28:15 GMT | Hack The Box — TombWatcher Season 8 Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/0a3a4a730289) |
-| Sun, 12 Oct 2025 18:24:49 GMT | Metasploit: Meterpreter — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/719db4f256f1) |
-| Sun, 12 Oct 2025 18:22:34 GMT | The 2025.03 Bugfix update is now available | The Feren OS Dev | [Read More](https://medium.com/p/847a1c20dd53) |
