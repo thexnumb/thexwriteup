@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 13:20:01 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/be82cd676b7d) |
+| Mon, 13 Oct 2025 13:18:52 GMT | Step-by-Step Guide to Implementing Information Security in Your Company | kiran mv | [Read More](https://medium.com/p/12b76319fc1f) |
+| Mon, 13 Oct 2025 13:17:26 GMT | Snoopy & The Great Mystery Club Download Adventure Game | Saifalrehmans | [Read More](https://medium.com/p/16d75828fb1a) |
+| Mon, 13 Oct 2025 13:16:10 GMT | Be the Shield in a Digital World of Threats: 10 Proven Strategies for Cybersecurity Success | troytec blog | [Read More](https://medium.com/p/db489dd41cae) |
+| Mon, 13 Oct 2025 13:15:38 GMT | All Star Security System’s Cameras Poised to Set New Standard in Home and Business Surveillance | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/5636225c0045) |
+| Mon, 13 Oct 2025 13:12:42 GMT | The OWASP Top Ten Web Application Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/89833b565d8c) |
+| Mon, 13 Oct 2025 13:09:17 GMT | Why I Built an Open-Source Kit to Demystify ASVS Compliance | Kay Adelaja | [Read More](https://medium.com/p/a9663b9b0013) |
+| Mon, 13 Oct 2025 13:08:14 GMT | Feed Diário de CVEs com Power Automate | Jefferson Lima | [Read More](https://medium.com/p/8f35fd52d9ed) |
+| Mon, 13 Oct 2025 13:06:09 GMT | Understanding Common Vulnerabilities and Exposures (CVEs) | Cyber Security Research | [Read More](https://medium.com/p/d0ed3bfe1d3a) |
+| Mon, 13 Oct 2025 13:06:01 GMT | Navigating Midlife Loneliness: Finding Strength Within | Lucas Brown | [Read More](https://medium.com/p/2a3010ad164e) |
+| Mon, 13 Oct 2025 13:01:50 GMT | Your MCP Agents Can Access Everything. They Can’t Prove Who They Are. Here’s Why That’s Dangerous. | Nwosu Rosemary | [Read More](https://medium.com/p/e20e9f816204) |
+| Mon, 13 Oct 2025 13:01:48 GMT | How to Remove a Door Lock Without Screws: Hidden Fastener & Clip Release Tips | Sure Lock & Key LLC | [Read More](https://medium.com/p/1afb4ab9c136) |
+| Mon, 13 Oct 2025 13:01:00 GMT | Mobile Application Security Testing (MAST) | Cyber Security Research | [Read More](https://medium.com/p/4d7699dcd889) |
+| Mon, 13 Oct 2025 12:56:44 GMT | Efficient Algorithm for Allow List File Updates in Python | Citadel Cybersec | [Read More](https://medium.com/p/b397edefc4fb) |
+| Mon, 13 Oct 2025 12:55:53 GMT | The Double-Edged Sword of AI in Cybersecurity | Mainekhacker | [Read More](https://medium.com/p/060c1a41ef59) |
+| Mon, 13 Oct 2025 12:54:39 GMT | Dynamic Application Security Testing (DAST) | Cyber Security Research | [Read More](https://medium.com/p/feddcc02f7bd) |
+| Mon, 13 Oct 2025 12:50:58 GMT | Codexae’s Smart Approach to Native vs Cross-Platform App Development in Dubai | B2B SUGGESTION | [Read More](https://medium.com/p/2129b2a9da92) |
+| Mon, 13 Oct 2025 12:49:35 GMT | Pandemics, EMPs, Cyber Attacks | Cole Burnham | [Read More](https://medium.com/p/62ce03c33aa7) |
+| Mon, 13 Oct 2025 12:48:16 GMT | Mapping Dark Web Infrastructure | Netlas.io | [Read More](https://medium.com/p/5c956a3564f8) |
+| Mon, 13 Oct 2025 12:48:01 GMT | Static Application Security Testing (SAST) | Cyber Security Research | [Read More](https://medium.com/p/882fe17b2838) |
 | Mon, 13 Oct 2025 12:42:02 GMT | Authentication vulnerabilities(Part-2) | Ashutosh Jena | [Read More](https://medium.com/p/9fd36218e81a) |
+| Mon, 13 Oct 2025 12:40:33 GMT | Exercise 2 — Assign the Application Administrator Role and Create an App | Azhariqbal | [Read More](https://medium.com/p/25f4934408c4) |
+| Mon, 13 Oct 2025 12:39:34 GMT | Building a Hybrid Intrusion Detection System using SMOTE, KGSOMTE, and Autoencoders | Nouri Baher | [Read More](https://medium.com/p/059a96b0539d) |
+| Mon, 13 Oct 2025 12:35:33 GMT | Not All Intelligence is Artificially Friendly When Protection becomes a paradox | Sandeep Sengupta | [Read More](https://medium.com/p/52a759bd3c13) |
 | Mon, 13 Oct 2025 12:34:25 GMT | Tech Support Services That Keep Your Business Running Smoothly | Swathi Kamale | [Read More](https://medium.com/p/44ad1c769be1) |
 | Mon, 13 Oct 2025 12:27:14 GMT | Getting Started with grep in Linux (Day 4 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/1eb494d7d951) |
 | Mon, 13 Oct 2025 12:24:24 GMT | Security tip of the day : Enable Controlled Folder Access to Block Ransomware | lu-abbey | [Read More](https://medium.com/p/012d9996f83d) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 09:11:01 GMT | UFW Firewall Mastery: Everything You Need to Secure Linux | bektiaw | [Read More](https://medium.com/p/85733cd806d0) |
 | Mon, 13 Oct 2025 09:10:56 GMT | Can I Haz Root? :: Archetype | Cyber Grover ‍ | [Read More](https://medium.com/p/563a6416c96e) |
 | Mon, 13 Oct 2025 09:09:10 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/4ac442c8fb6c) |
-| Mon, 13 Oct 2025 09:02:17 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ed5c992d8fcb) |
-| Mon, 13 Oct 2025 09:01:32 GMT | A Bug Hunter’s Guide to CSP Bypasses (Part 1) | Abhishek meena | [Read More](https://medium.com/p/69b606fd2699) |
-| Mon, 13 Oct 2025 08:56:55 GMT | Palphone: Talk Freely, Build a Private Friend Network — No Email or Phone Required | Saeed Tavakoli | [Read More](https://medium.com/p/0aa6b5d56304) |
-| Mon, 13 Oct 2025 08:55:54 GMT | Secure Coding Principles | Cyber Security Research | [Read More](https://medium.com/p/c0b8dedcc5e9) |
-| Mon, 13 Oct 2025 08:51:43 GMT | The Role of Encryption in Network Security | Nagaraj | [Read More](https://medium.com/p/554db749604e) |
-| Mon, 13 Oct 2025 08:50:32 GMT | Security Best Practices for Developers | Cyber Security Research | [Read More](https://medium.com/p/b8af4178b0a7) |
-| Mon, 13 Oct 2025 08:45:26 GMT | HACKTHEBOX WALKTHROUGH — Three | Cypher.One | [Read More](https://medium.com/p/9c38d4f4fb20) |
-| Mon, 13 Oct 2025 08:45:19 GMT | Advance Your Career with Online Cybersecurity Degrees from EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/864f0c51fa45) |
-| Mon, 13 Oct 2025 08:45:09 GMT | Hackers Turn a Cybersecurity Tool Into a Ransomware Weapon and No One Saw It Coming | Akshatdwivedi | [Read More](https://medium.com/p/aeee8b912502) |
-| Mon, 13 Oct 2025 08:44:12 GMT | Data Loss Prevention (DLP): Preventing Data Exfiltration | Cyber Security Research | [Read More](https://medium.com/p/9b07167a1283) |
-| Mon, 13 Oct 2025 08:39:10 GMT | How Zero Trust Architecture Is Changing the Future of Security | Digital Defense | [Read More](https://medium.com/p/c8ea6c5195b9) |
-| Mon, 13 Oct 2025 08:37:43 GMT | Security Audits: Assessing Your Security Posture | Cyber Security Research | [Read More](https://medium.com/p/948bc3c83822) |
-| Mon, 13 Oct 2025 08:34:07 GMT | Simplifying Security with Smart Access Solutions | Office | [Read More](https://medium.com/p/0b84bd685229) |
-| Mon, 13 Oct 2025 08:31:40 GMT | Flutter Bridge 2025 — The Day Flutter United Passion & Expertise
-Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://medium.com/p/95e4eb9fad42) |
-| Mon, 13 Oct 2025 08:31:39 GMT | Cybersecurity Metrics: Measuring Success | Cyber Security Research | [Read More](https://medium.com/p/ae24395bfcbe) |
-| Mon, 13 Oct 2025 08:28:06 GMT | Total Access Made Simple | Office | [Read More](https://medium.com/p/e667d1e6a661) |
-| Mon, 13 Oct 2025 08:21:35 GMT | Smarter Access, Stronger Security | Office | [Read More](https://medium.com/p/aafd2ecfd0bc) |
-| Mon, 13 Oct 2025 08:20:36 GMT | BEST OT/ICS CYBERSECURITY TRAINING IN DELHI | TheEvolvEdge | [Read More](https://medium.com/p/8daab5fd8bed) |
-| Mon, 13 Oct 2025 08:15:23 GMT | Learning How to Code | Kara Davis | [Read More](https://medium.com/p/a5f57f2ab515) |
-| Mon, 13 Oct 2025 08:10:14 GMT | Snort [SOC] (Live) - challenge #7 | D4m.sh | [Read More](https://medium.com/p/94af30ffd7e4) |
-| Mon, 13 Oct 2025 08:08:38 GMT | ChaosBot: il malware Rust che usa Discord per comandare i PC compromessi | Germano Costi | [Read More](https://medium.com/p/b9c926f8388f) |
-| Mon, 13 Oct 2025 08:08:25 GMT | What are the 10 Most Common Types Of Cyber Threats? | cyber security Updates | [Read More](https://medium.com/p/9ca51acd774f) |
-| Mon, 13 Oct 2025 08:06:09 GMT | The Ministry of Commerce Announces that Attachments Will Use WPS Format for the First Time… | BeeRich | [Read More](https://medium.com/p/1b1ac723a19b) |
