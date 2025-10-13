@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 08:50:32 GMT | Security Best Practices for Developers | Cyber Security Research | [Read More](https://medium.com/p/b8af4178b0a7) |
+| Mon, 13 Oct 2025 08:45:26 GMT | HACKTHEBOX WALKTHROUGH — Three | Cypher.One | [Read More](https://medium.com/p/9c38d4f4fb20) |
+| Mon, 13 Oct 2025 08:45:19 GMT | Advance Your Career with Online Cybersecurity Degrees from EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/864f0c51fa45) |
+| Mon, 13 Oct 2025 08:45:09 GMT | Hackers Turn a Cybersecurity Tool Into a Ransomware Weapon and No One Saw It Coming | Akshatdwivedi | [Read More](https://medium.com/p/aeee8b912502) |
+| Mon, 13 Oct 2025 08:44:12 GMT | Data Loss Prevention (DLP): Preventing Data Exfiltration | Cyber Security Research | [Read More](https://medium.com/p/9b07167a1283) |
+| Mon, 13 Oct 2025 08:39:10 GMT | How Zero Trust Architecture Is Changing the Future of Security | Digital Defense | [Read More](https://medium.com/p/c8ea6c5195b9) |
+| Mon, 13 Oct 2025 08:37:43 GMT | Security Audits: Assessing Your Security Posture | Cyber Security Research | [Read More](https://medium.com/p/948bc3c83822) |
+| Mon, 13 Oct 2025 08:34:07 GMT | Simplifying Security with Smart Access Solutions | Office | [Read More](https://medium.com/p/0b84bd685229) |
+| Mon, 13 Oct 2025 08:31:40 GMT | Flutter Bridge 2025 — The Day Flutter United Passion & Expertise
+Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://medium.com/p/95e4eb9fad42) |
+| Mon, 13 Oct 2025 08:31:39 GMT | Cybersecurity Metrics: Measuring Success | Cyber Security Research | [Read More](https://medium.com/p/ae24395bfcbe) |
+| Mon, 13 Oct 2025 08:28:06 GMT | Total Access Made Simple | Office | [Read More](https://medium.com/p/e667d1e6a661) |
+| Mon, 13 Oct 2025 08:21:35 GMT | Smarter Access, Stronger Security | Office | [Read More](https://medium.com/p/aafd2ecfd0bc) |
+| Mon, 13 Oct 2025 08:20:36 GMT | BEST OT/ICS CYBERSECURITY TRAINING IN DELHI | TheEvolvEdge | [Read More](https://medium.com/p/8daab5fd8bed) |
 | Mon, 13 Oct 2025 08:15:23 GMT | Learning How to Code | Kara Davis | [Read More](https://medium.com/p/a5f57f2ab515) |
 | Mon, 13 Oct 2025 08:10:14 GMT | Snort [SOC] (Live) - challenge #7 | D4m.sh | [Read More](https://medium.com/p/94af30ffd7e4) |
 | Mon, 13 Oct 2025 08:08:38 GMT | ChaosBot: il malware Rust che usa Discord per comandare i PC compromessi | Germano Costi | [Read More](https://medium.com/p/b9c926f8388f) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 02:46:08 GMT | Cybersecurity Takes Center Stage in Global Diplomacy | CCD-IS | [Read More](https://medium.com/p/197c65c3842e) |
 | Mon, 13 Oct 2025 02:40:35 GMT | ️ Hacking Laravel for $7,000 | Anonymous Traiger | [Read More](https://medium.com/p/bd14818b3563) |
 | Mon, 13 Oct 2025 02:31:54 GMT | An AI, that became a Crypto Millionaire and now wants to become a Person | Arti Verma | [Read More](https://medium.com/p/1455c0a2923e) |
-| Mon, 13 Oct 2025 02:22:06 GMT | 5 Ways to Stop Onboarding Teams Like It’s 2015 | Zudonu Osomudeya | [Read More](https://medium.com/p/e112b76e8061) |
-| Mon, 13 Oct 2025 02:06:30 GMT | Enhancing Authentication Security: NextAuth.js Best Practices | @rnab | [Read More](https://medium.com/p/3be3ec7100d2) |
-| Mon, 13 Oct 2025 02:01:51 GMT | CRYPTOGRAPHY AND NETWORK VISIBILITY | John Mark | [Read More](https://medium.com/p/caa3cd081522) |
-| Mon, 13 Oct 2025 01:51:47 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/9f55e4598564) |
-| Mon, 13 Oct 2025 01:41:19 GMT | Catalysing High-Performance Computing Capacity in Africa: Key Outcomes and Lessons from the 3rd… | Emmanuel Adetiba, Ph.D | [Read More](https://medium.com/p/bb3616ab09dd) |
-| Mon, 13 Oct 2025 01:36:38 GMT | Memory Makes Prompt Injections Dangerous | Pratip Dasgupta | [Read More](https://medium.com/p/314e54da33b2) |
-| Mon, 13 Oct 2025 01:31:46 GMT | Active Directory Hacking 101: Kerberoasting | SilentExploit | [Read More](https://medium.com/p/94952c8e2e70) |
-| Mon, 13 Oct 2025 01:21:45 GMT | Vulnerability in Dating: Why You Need to Drop the Guard | Alejandra Rodríguez | [Read More](https://medium.com/p/2740361dd999) |
-| Mon, 13 Oct 2025 01:06:37 GMT | Return of the System Gods: Rootkits, Certificates and the Fall of the Trusted Kernel | Rodrigo Gutierrez | [Read More](https://medium.com/p/906dd6d0a558) |
-| Mon, 13 Oct 2025 01:03:59 GMT | APIclypse Now: the Silent Collapse of API Control | Rodrigo Gutierrez | [Read More](https://medium.com/p/11e93f7e0522) |
-| Mon, 13 Oct 2025 01:00:59 GMT | The Art of Staying: Advanced Persistence and the Battle for Digital Time | Rodrigo Gutierrez | [Read More](https://medium.com/p/97c308accaf5) |
-| Mon, 13 Oct 2025 00:47:16 GMT | Supernova Gutenberg, Perpustakaan Digital, dan Paradoks Informasi | Baharis | [Read More](https://medium.com/p/9f59996da760) |
-| Mon, 13 Oct 2025 00:46:26 GMT | ICMP Walkthrough — Proving Grounds (Play) | Maxwell Ferreira | [Read More](https://medium.com/p/c781ebf816ee) |
