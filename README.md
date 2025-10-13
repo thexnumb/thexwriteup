@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 09:20:27 GMT | Reporting Friday — Turning Findings Into Storytelling That Matters | checkm4te | [Read More](https://medium.com/p/5c09fce10cd0) |
+| Mon, 13 Oct 2025 09:18:44 GMT | City Locksmith — Professional Lock & Security Solutions | The Lock Specialist Ltd | [Read More](https://medium.com/p/ac5cf6ce42d3) |
+| Mon, 13 Oct 2025 09:16:35 GMT | Offensive Security Intro | Dragon Hex | [Read More](https://medium.com/p/c26595f700f5) |
+| Mon, 13 Oct 2025 09:16:25 GMT | Ghauri untuk Sql Injection | Ginda Sundara | [Read More](https://medium.com/p/8ced8fcbf7db) |
+| Mon, 13 Oct 2025 09:15:03 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/366aaf2cc36a) |
+| Mon, 13 Oct 2025 09:11:01 GMT | UFW Firewall Mastery: Everything You Need to Secure Linux | bektiaw | [Read More](https://medium.com/p/85733cd806d0) |
+| Mon, 13 Oct 2025 09:10:56 GMT | Can I Haz Root? :: Archetype | Cyber Grover ‍ | [Read More](https://medium.com/p/563a6416c96e) |
+| Mon, 13 Oct 2025 09:09:10 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/4ac442c8fb6c) |
+| Mon, 13 Oct 2025 09:02:17 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/ed5c992d8fcb) |
+| Mon, 13 Oct 2025 09:01:32 GMT | A Bug Hunter’s Guide to CSP Bypasses (Part 1) | Abhishek meena | [Read More](https://medium.com/p/69b606fd2699) |
+| Mon, 13 Oct 2025 08:56:55 GMT | Palphone: Talk Freely, Build a Private Friend Network — No Email or Phone Required | Saeed Tavakoli | [Read More](https://medium.com/p/0aa6b5d56304) |
+| Mon, 13 Oct 2025 08:55:54 GMT | Secure Coding Principles | Cyber Security Research | [Read More](https://medium.com/p/c0b8dedcc5e9) |
+| Mon, 13 Oct 2025 08:51:43 GMT | The Role of Encryption in Network Security | Nagaraj | [Read More](https://medium.com/p/554db749604e) |
 | Mon, 13 Oct 2025 08:50:32 GMT | Security Best Practices for Developers | Cyber Security Research | [Read More](https://medium.com/p/b8af4178b0a7) |
 | Mon, 13 Oct 2025 08:45:26 GMT | HACKTHEBOX WALKTHROUGH — Three | Cypher.One | [Read More](https://medium.com/p/9c38d4f4fb20) |
 | Mon, 13 Oct 2025 08:45:19 GMT | Advance Your Career with Online Cybersecurity Degrees from EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/864f0c51fa45) |
@@ -100,16 +113,3 @@ Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://mediu
 | Mon, 13 Oct 2025 03:52:01 GMT | When AI Means Agent, Leak, & Chips: The Hidden Vectors We Need to Guard | Vishal Chawathe | [Read More](https://medium.com/p/1498d628f299) |
 | Mon, 13 Oct 2025 03:44:55 GMT | The Ninth Angel: Matarael, the Angel of Rain — The Corrosion and Gradual Collapse of AI Systems | Scott Huang | [Read More](https://medium.com/p/f1583eba3c0a) |
 | Mon, 13 Oct 2025 03:31:46 GMT | 10 Common Mistakes in Node.js Transaction Management | Arunangshu Das | [Read More](https://medium.com/p/24ef6298e9d8) |
-| Mon, 13 Oct 2025 03:31:46 GMT | ️ Frontend Security in 2025: 6 Critical Mistakes That Can Destroy Your Web App | Priyen Mehta - Senior Full-Stack Developer | [Read More](https://medium.com/p/3c2a57eb2546) |
-| Mon, 13 Oct 2025 03:29:58 GMT | The Importance of Risk Management in Cybersecurity | Incidalus | [Read More](https://medium.com/p/0133f2d7eefd) |
-| Mon, 13 Oct 2025 03:26:34 GMT | Through the Cracks of My Smile | Moonlit Murmurs | [Read More](https://medium.com/p/9dd3b9525a76) |
-| Mon, 13 Oct 2025 03:22:41 GMT | Snake Keylogger: How a Small Idea Became A Slippery Threat | Samratthsingh | [Read More](https://medium.com/p/a9ec6b83ffbf) |
-| Mon, 13 Oct 2025 03:14:43 GMT | ShadowLeak: The Zero-Click Flaw in ChatGPT That Exposed a New Era of AI Vulnerability | Raisul islam (rownok) | [Read More](https://medium.com/p/49979a61f70e) |
-| Mon, 13 Oct 2025 03:07:57 GMT | The Essential Security Checklist for Your AI-Built MVP | Sonu Yadav | [Read More](https://medium.com/p/9f920bd0f4f3) |
-| Mon, 13 Oct 2025 03:02:11 GMT | HackTheBox Windows Events and Finding Evil: Tapping into ETW | Cybersecurity Simplified | [Read More](https://medium.com/p/dd51820c1673) |
-| Mon, 13 Oct 2025 02:58:46 GMT | Zantharax AI: How a New Wave of Deepfake Terror, Privacy Breaches, and Financial Crime Is Spreading… | Ekata Deb | [Read More](https://medium.com/p/2b75828a3896) |
-| Mon, 13 Oct 2025 02:56:14 GMT | Secrets from 35+ Countries: Why Consistency Beats Complexity in Security | Dr. Deep Pandey | [Read More](https://medium.com/p/f52600356196) |
-| Mon, 13 Oct 2025 02:47:52 GMT | Tải Hack Tank Stars (Full Tiền, Kim Cương) v2.13.200 | MODHELLO | [Read More](https://medium.com/p/e5d7be251285) |
-| Mon, 13 Oct 2025 02:46:08 GMT | Cybersecurity Takes Center Stage in Global Diplomacy | CCD-IS | [Read More](https://medium.com/p/197c65c3842e) |
-| Mon, 13 Oct 2025 02:40:35 GMT | ️ Hacking Laravel for $7,000 | Anonymous Traiger | [Read More](https://medium.com/p/bd14818b3563) |
-| Mon, 13 Oct 2025 02:31:54 GMT | An AI, that became a Crypto Millionaire and now wants to become a Person | Arti Verma | [Read More](https://medium.com/p/1455c0a2923e) |
