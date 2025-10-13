@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 05:22:01 GMT | The 5 Security Mistakes Every Developer Makes | Muhummad Zaki | [Read More](https://medium.com/p/242ce933cca4) |
 | Mon, 13 Oct 2025 04:53:36 GMT | Coding With AI While Sleep-Deprived and Morally Ambiguous | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b3ae68fdc98d) |
 | Mon, 13 Oct 2025 04:51:53 GMT | When OSINT Becomes Invasive and How to Stop Yourself | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/43c468b33581) |
 | Mon, 13 Oct 2025 04:51:11 GMT | Is Your AI Agent the Weakest Link in Cybersecurity | Mily Smith | [Read More](https://medium.com/p/69067998dcd7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 18:52:04 GMT | Why Humanity’s Next Revolution Must Be Emotional | Nova Rooks | [Read More](https://medium.com/p/b7d13b629b1e) |
 | Sun, 12 Oct 2025 18:50:16 GMT | Top 10 Cybersecurity Medium Publications | Tal Eliyahu | [Read More](https://medium.com/p/1bd4b13d0155) |
 | Sun, 12 Oct 2025 18:43:37 GMT | The Ghost in the Admin’s Wallet: A Tale of Unauthorized Access | CYX | [Read More](https://medium.com/p/06d8b6b7984b) |
-| Sun, 12 Oct 2025 18:38:37 GMT | Digital Danger Zones: Mobile App Trap Nation — The Hidden Risks Behind “Free” Mobile Apps | Ahmed Zouhair | [Read More](https://medium.com/p/3515976a0dba) |
