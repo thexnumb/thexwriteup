@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 08:15:23 GMT | Learning How to Code | Kara Davis | [Read More](https://medium.com/p/a5f57f2ab515) |
+| Mon, 13 Oct 2025 08:10:14 GMT | Snort [SOC] (Live) - challenge #7 | D4m.sh | [Read More](https://medium.com/p/94af30ffd7e4) |
+| Mon, 13 Oct 2025 08:08:38 GMT | ChaosBot: il malware Rust che usa Discord per comandare i PC compromessi | Germano Costi | [Read More](https://medium.com/p/b9c926f8388f) |
+| Mon, 13 Oct 2025 08:08:25 GMT | What are the 10 Most Common Types Of Cyber Threats? | cyber security Updates | [Read More](https://medium.com/p/9ca51acd774f) |
+| Mon, 13 Oct 2025 08:06:09 GMT | The Ministry of Commerce Announces that Attachments Will Use WPS Format for the First Time… | BeeRich | [Read More](https://medium.com/p/1b1ac723a19b) |
+| Mon, 13 Oct 2025 08:05:56 GMT | The refletion I haven’t yet learned to love: the versions of me that still live silently inside. | Notes of a Restless Journalist | [Read More](https://medium.com/p/a9687a96cd27) |
+| Mon, 13 Oct 2025 08:03:28 GMT | Android’s September 2025 Vulnerabilities: A Deep Dive into CVE-2025–48543, CVE-2025–38352, and… | Srinath R | [Read More](https://medium.com/p/828b3f4d037a) |
+| Mon, 13 Oct 2025 08:01:49 GMT | What Is Artificial Intelligence and Machine Learning? | AxarTechs | [Read More](https://medium.com/p/d92af1ccfab9) |
+| Mon, 13 Oct 2025 08:01:44 GMT | Stealer Logs to ATO: How One Entry Becomes a Breach | Alexandre Vandamme | [Read More](https://medium.com/p/98ded4c1b142) |
+| Mon, 13 Oct 2025 07:57:14 GMT | How the Astaroth Banking Trojan Hijacks GitHub to Evade Takedowns | Germano Costi | [Read More](https://medium.com/p/ebcf685fee3d) |
+| Mon, 13 Oct 2025 07:55:24 GMT | Crimson Conquest (Crimson Chains Book 3) | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/1f112b81c400) |
+| Mon, 13 Oct 2025 07:54:19 GMT | The WiFi Ghost: How I Found an Unknown Device on My Network | Fateyaly | [Read More](https://medium.com/p/87a6e0a82ebd) |
+| Mon, 13 Oct 2025 07:53:20 GMT | Kurumsal Veri | t. | [Read More](https://medium.com/p/ef367e6e0bdb) |
+| Mon, 13 Oct 2025 07:47:45 GMT | From Nmap to Root: What Open ADB (5555) Lets an Attacker Do (technical journey) | Very Lazy Tech | [Read More](https://medium.com/p/aec9403c431a) |
+| Mon, 13 Oct 2025 07:44:53 GMT | The Dirty Secrets of Tech and Cybersecurity Creators | Motasem Hamdan | [Read More](https://medium.com/p/42ad01cd6b9c) |
+| Mon, 13 Oct 2025 07:43:07 GMT | Reflected in the DOM, Escalated to Account Takeover | 0xP0L73R63157 | [Read More](https://medium.com/p/a378659779c0) |
+| Mon, 13 Oct 2025 07:42:19 GMT | AI Isn’t the Future, It’s the PresentWhy Every Non-Coder Should Learn Prompt Engineering in 2025 | Mamta | [Read More](https://medium.com/p/c70f1f5abf15) |
+| Mon, 13 Oct 2025 07:36:28 GMT | [HackTheBox x VulnlabWrite-up] BabyTwo (Logon script and GPO abuse) | Chicken0248 | [Read More](https://medium.com/p/4fe669c8583d) |
+| Mon, 13 Oct 2025 07:35:01 GMT | Top Security Services in Bangalore: Ensuring Complete Protection for Businesses and Residences | Global Security | [Read More](https://medium.com/p/0c4393b280bb) |
 | Mon, 13 Oct 2025 07:32:07 GMT | Managing Entra ID Configuration and Security using the Terraform MSGraph Provider ❤️ | Brian Veldman | [Read More](https://medium.com/p/f67a76360bc1) |
 | Mon, 13 Oct 2025 07:31:57 GMT | [HackTheBox x VulnlabWrite-up] Baby (Foothold from hidden user to Backup Operator Group abuse) | Chicken0248 | [Read More](https://medium.com/p/84ec3c16c93e) |
 | Mon, 13 Oct 2025 07:31:21 GMT | Prisma SASE App Acceleration: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/34a3fe97e74b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 01:00:59 GMT | The Art of Staying: Advanced Persistence and the Battle for Digital Time | Rodrigo Gutierrez | [Read More](https://medium.com/p/97c308accaf5) |
 | Mon, 13 Oct 2025 00:47:16 GMT | Supernova Gutenberg, Perpustakaan Digital, dan Paradoks Informasi | Baharis | [Read More](https://medium.com/p/9f59996da760) |
 | Mon, 13 Oct 2025 00:46:26 GMT | ICMP Walkthrough — Proving Grounds (Play) | Maxwell Ferreira | [Read More](https://medium.com/p/c781ebf816ee) |
-| Mon, 13 Oct 2025 00:22:35 GMT | Shifting to a Zero Trust Mindset | Kevin Kueck | [Read More](https://medium.com/p/4c55cdcb5a1d) |
-| Mon, 13 Oct 2025 00:11:49 GMT | Setting Up SSH Remote Access on Kali Linux: A Step-by-Step Guide | Ali bin azam | [Read More](https://medium.com/p/c03f3ae970e1) |
-| Sun, 12 Oct 2025 23:59:45 GMT | Understanding GPS and Location Services | Raviteja Mureboina | [Read More](https://medium.com/p/1b81fb932e94) |
-| Sun, 12 Oct 2025 23:55:37 GMT | What You May Be Missing With Your Phishing Simulation Program | Daniel Hammon | [Read More](https://medium.com/p/709bc66ce05f) |
-| Sun, 12 Oct 2025 23:54:01 GMT | ⚠️ Wallets Just Lost $21 Million in One Hour, And It Could Happen to Yours! | Crypto Savvy | [Read More](https://medium.com/p/5c3ad4c48cc2) |
-| Sun, 12 Oct 2025 23:51:42 GMT | On Vulnerability and the Body as Medium | Shawn D Crabtree | [Read More](https://medium.com/p/5550d2eddc3e) |
-| Sun, 12 Oct 2025 23:32:56 GMT | Fake CAPTCHAs: The Deceptive Gatekeepers of the Web | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/560a3af80203) |
-| Sun, 12 Oct 2025 23:28:55 GMT | HackTheBox - Certified | jniket | [Read More](https://medium.com/p/0939fbee319b) |
-| Sun, 12 Oct 2025 23:25:04 GMT | Reconnaissance 101: Pasif ve Aktif Keşif Teknikleri | Burak Akgül | [Read More](https://medium.com/p/3b5aa1dacf83) |
-| Sun, 12 Oct 2025 23:24:05 GMT | The Mammoth Hunt: Inside a Sophisticated Russian Phishing Operation Targeting Steam Users | Schxd3n | [Read More](https://medium.com/p/5510d651f380) |
-| Sun, 12 Oct 2025 23:02:07 GMT | CyberDefenders - SpottedInTheWild - Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/462f8cb43f55) |
-| Sun, 12 Oct 2025 22:58:35 GMT | درک من از مباحث لایه Internet در کتاب Network+ | unclear | [Read More](https://medium.com/p/1b3b151de17b) |
-| Sun, 12 Oct 2025 22:55:05 GMT | I Can’t Trust My Computer. And That Terrifies Me. | Tao Flippington | [Read More](https://medium.com/p/21b5b0649a3a) |
-| Sun, 12 Oct 2025 22:47:01 GMT | Stop the Breach: How to Bulletproof Your CI/CD Pipeline and Sleep Better at Night | Abdelilah Ettarch | [Read More](https://medium.com/p/406a4fd7b6dc) |
-| Sun, 12 Oct 2025 22:42:04 GMT | TryHackMe #112 - Redline | SiberYuk | [Read More](https://medium.com/p/7f7d92296738) |
-| Sun, 12 Oct 2025 22:38:04 GMT | TryHackMe #111 - Autopsy | SiberYuk | [Read More](https://medium.com/p/80e8615b9d1d) |
-| Sun, 12 Oct 2025 22:32:13 GMT | The Day the Safety Nets Vanished: How Europe is Bracing for an Unthinkable Future | Multipolar World | [Read More](https://medium.com/p/cae4908ac182) |
-| Sun, 12 Oct 2025 22:32:05 GMT | TryHackMe #110 - Linux Forensics | SiberYuk | [Read More](https://medium.com/p/09888fda46e2) |
-| Sun, 12 Oct 2025 22:27:49 GMT | TryHackMe #108 - Windows Forensics 2 | SiberYuk | [Read More](https://medium.com/p/0362dd3308ed) |
