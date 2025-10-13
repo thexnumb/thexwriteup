@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 22:11:29 GMT | Active — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/bdc36d1b2adb) |
+| Mon, 13 Oct 2025 22:06:29 GMT | Crafting Secure Authentication with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/53b83c1c3693) |
+| Mon, 13 Oct 2025 21:55:44 GMT | The Dark Reality of Dark Web - My Scary Research ☠️ | Abdullah Javeed | [Read More](https://medium.com/p/c6f69613daba) |
+| Mon, 13 Oct 2025 21:38:28 GMT | Stop Fighting About Screen Time | Samirah A.O | [Read More](https://medium.com/p/954e0ed634b0) |
+| Mon, 13 Oct 2025 21:34:16 GMT | How I got full admin control on a government website | Jaeden Samia | [Read More](https://medium.com/p/042f703aeaa7) |
 | Mon, 13 Oct 2025 21:27:19 GMT | We are villains in our own story — How to avoid bugs | Wisdom John ikoi | [Read More](https://medium.com/p/ebb5830fff5e) |
 | Mon, 13 Oct 2025 21:24:20 GMT | BehindTheScreens: The Cybersecurity Landscape This Week — Breaches, Policy Gaps, and a Shifting… | Sam - Behind The Screens | [Read More](https://medium.com/p/432ee970ecd4) |
 | Mon, 13 Oct 2025 21:24:01 GMT | Your Chat App Just Became a Secret Backdoor | sudo whoami | [Read More](https://medium.com/p/cb95b7522d71) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 16:51:12 GMT | 5HTMLElementsandTags | Rana Awais | [Read More](https://medium.com/p/78d1d0ccc9c4) |
 | Mon, 13 Oct 2025 16:47:51 GMT | How Prosper Landed His First Cybersecurity Job (and What You Can Learn From It) | Jerome Jamang | [Read More](https://medium.com/p/b86db81237f6) |
 | Mon, 13 Oct 2025 16:42:13 GMT | Nmap for Newbies: Scanning a Network Like a Pro ️‍♂️part-1 | Ddude | [Read More](https://medium.com/p/37108f5e7824) |
-| Mon, 13 Oct 2025 16:41:25 GMT | Broken Access Control — TryHackMe Room Walkthrough | Asif.k | [Read More](https://medium.com/p/8ff7f9ecf834) |
-| Mon, 13 Oct 2025 16:40:41 GMT | How to Start Learning AI Automation Fundamentals | Annette Partida | [Read More](https://medium.com/p/5dacec4d9970) |
-| Mon, 13 Oct 2025 16:29:25 GMT | Microsoft Events Leak, Part II: Leaking Event Registration Database Again | Faav | [Read More](https://medium.com/p/069050664475) |
-| Mon, 13 Oct 2025 16:26:53 GMT | Containerized Development: My Security Layer for AI Coding Tools | Dan Jam Kuhn | [Read More](https://medium.com/p/df48ac4af3e4) |
-| Mon, 13 Oct 2025 16:10:20 GMT | Breaking Free | Drew Lisso | [Read More](https://medium.com/p/9199d621b25c) |
