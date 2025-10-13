@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 16:10:20 GMT | Breaking Free | Drew Lisso | [Read More](https://medium.com/p/9199d621b25c) |
+| Mon, 13 Oct 2025 16:04:03 GMT | Mastering C2 Infrastructure with SSH: Step-by-Step Guide to Building Your Own Hacker Control Center | Very Lazy Tech | [Read More](https://medium.com/p/42e3f9eff829) |
+| Mon, 13 Oct 2025 16:03:46 GMT | Escape Windows Machine Writeup from Hackthebox | Cyb0rgBytes | [Read More](https://medium.com/p/198e597a3c9b) |
+| Mon, 13 Oct 2025 16:02:27 GMT | How Free License Sites Work and Are They Legal? | SAWAHITS | [Read More](https://medium.com/p/78d3d00ec762) |
+| Mon, 13 Oct 2025 16:02:13 GMT | IT Support in Clapham for Hybrid Workforces | Gary Marshall | [Read More](https://medium.com/p/b43341f6d19e) |
+| Mon, 13 Oct 2025 16:00:47 GMT | Why You Shouldn’t Give Full Gallery Access to Apps ️ | Juned Silavat | [Read More](https://medium.com/p/e1d5094d62ae) |
+| Mon, 13 Oct 2025 15:53:36 GMT | Celebrating Cybersecurity Awareness Month: How Rainbow Secure Is Leading the Charge Against… | Dr. Shashi Karhail | [Read More](https://medium.com/p/8877f0550028) |
+| Mon, 13 Oct 2025 15:53:29 GMT | Managed Detection and Response Market Strategy and Remarkable Growth Rate By 2030 | Technology Geek | [Read More](https://medium.com/p/18be372bb618) |
+| Mon, 13 Oct 2025 15:52:39 GMT | Event Services in London: Turning Complex Events into Seamless Experiences | waeventservices.co.uk/ | [Read More](https://medium.com/p/eb6879d9583c) |
+| Mon, 13 Oct 2025 15:48:24 GMT | How to Ensure Network Security with Modern Business Internet Solutions | Defend My Business | [Read More](https://medium.com/p/ee6827aaa09e) |
+| Mon, 13 Oct 2025 15:45:21 GMT | Is Someone Spying on Your Phone? How Beldex Protects Your Confidentiality | BELDEX | [Read More](https://medium.com/p/4990fcab7fa6) |
+| Mon, 13 Oct 2025 15:38:57 GMT | Installing Kali Linux on WSL+BeEF | Beebek Sharma | [Read More](https://medium.com/p/cb6fa0719de6) |
+| Mon, 13 Oct 2025 15:38:27 GMT | Abusing Resource-Based Constrained Delegation (RBCD) in Kerberos | SeverSerenity | [Read More](https://medium.com/p/c56b920b81e6) |
+| Mon, 13 Oct 2025 15:35:47 GMT | Why Can’t We Say What We Feel? | Aditi | [Read More](https://medium.com/p/14480cdd18f2) |
 | Mon, 13 Oct 2025 15:34:24 GMT | Jira: Revolutionizing Project Management for Explainable AI-Driven Healthcare Solutions | Janith Wanasinghe | [Read More](https://medium.com/p/287f694b099e) |
 | Mon, 13 Oct 2025 15:23:03 GMT | Leading in the Shadows: The Art of Building High-Performance Cybersecurity Teams | Shree | [Read More](https://medium.com/p/dc8d585ea977) |
 | Mon, 13 Oct 2025 15:18:43 GMT | Sometimes I wish I weren’t me | The Quill | [Read More](https://medium.com/p/e9921f002de7) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 11:55:53 GMT | Configuring fine-grained password policies | Windows Guide | [Read More](https://medium.com/p/17f6b1ac9e90) |
 | Mon, 13 Oct 2025 11:55:28 GMT | AthenaGPT for Prompts, AresGPT for Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/6d66c33950bd) |
 | Mon, 13 Oct 2025 11:54:47 GMT | Cybersecurity Risk Management Through Maturity Assessment | Vishwajeettechtech | [Read More](https://medium.com/p/a8eaec19f104) |
-| Mon, 13 Oct 2025 11:54:12 GMT | Modern Penetration Testing: Combining Automation, Manual Skill, and Threat Context | Michael Preston | [Read More](https://medium.com/p/c54f85c29999) |
-| Mon, 13 Oct 2025 11:51:51 GMT | How I Got Into the Admin Panel (Using Credentials That Didn’t Even Exist) | Rehan Ansari | [Read More](https://medium.com/p/3aa14a6bd836) |
-| Mon, 13 Oct 2025 11:48:48 GMT | The Silent Advantage: Why Storytelling Is Becoming the Most Powerful Tool in IT Marketing | Unika Agency | [Read More](https://medium.com/p/e779305f496c) |
-| Mon, 13 Oct 2025 11:47:53 GMT | Strengthening Your Digital Shield: L4RG’s Comprehensive Cyber Security Solutions | Surya Kumar | [Read More](https://medium.com/p/5cbc4ae0413c) |
-| Mon, 13 Oct 2025 11:44:25 GMT | Simplifying Network Security : Understanding IDS and IPS | Divy | [Read More](https://medium.com/p/31e7cf1b94fe) |
-| Mon, 13 Oct 2025 11:43:46 GMT | Chat Control — The Silence After Light | Aldo Gustavo Malasomma | [Read More](https://medium.com/p/a48382ada8de) |
-| Mon, 13 Oct 2025 11:36:32 GMT | DevSecOps and SRE: A United Front | SRE Mastery | [Read More](https://medium.com/p/7ac7b84fddd1) |
-| Mon, 13 Oct 2025 11:34:55 GMT | Cybersecurity in the Age of AI: Real Threats, Real Solutions -A Live Podcast with Cisco Experts | Aaqib Rajput | [Read More](https://medium.com/p/19e681199981) |
-| Mon, 13 Oct 2025 11:33:26 GMT | Finding a Space to Be Heard (Even If Nobody’s Listening…Yet) | Quiet Bloom | [Read More](https://medium.com/p/bb445cbab430) |
-| Mon, 13 Oct 2025 11:32:19 GMT | SSH (Secure Shell): A Beginner’s Guide | bektiaw | [Read More](https://medium.com/p/a0f071bffba4) |
-| Mon, 13 Oct 2025 11:30:41 GMT | TryHackMe: Wgel CTF - My First Medium Post :) | Hrishikesh Nadkarni | [Read More](https://medium.com/p/fe17750e51d4) |
-| Mon, 13 Oct 2025 11:21:59 GMT | How Cybersecurity Staffing Firms Are Reshaping Tech Hiring in 2025 | Radcliffekitchens | [Read More](https://medium.com/p/b03165336c0a) |
-| Mon, 13 Oct 2025 11:20:16 GMT | From Law and Diplomacy to Tech: My Unexpected Journey (Episode 1) | Nneoma Onuabuchi | [Read More](https://medium.com/p/d1d351f0cb94) |
-| Mon, 13 Oct 2025 11:20:12 GMT | CVE-2025–61927: VM Context Escape in Happy DOM | gm0 | [Read More](https://medium.com/p/398b7cf0fc59) |
