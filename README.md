@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 15:34:24 GMT | Jira: Revolutionizing Project Management for Explainable AI-Driven Healthcare Solutions | Janith Wanasinghe | [Read More](https://medium.com/p/287f694b099e) |
+| Mon, 13 Oct 2025 15:23:03 GMT | Leading in the Shadows: The Art of Building High-Performance Cybersecurity Teams | Shree | [Read More](https://medium.com/p/dc8d585ea977) |
 | Mon, 13 Oct 2025 15:18:43 GMT | Sometimes I wish I weren’t me | The Quill | [Read More](https://medium.com/p/e9921f002de7) |
 | Mon, 13 Oct 2025 15:16:31 GMT | 40 TAHUN INFORMATIKA ITS, BARISAN “AREK SUROBOYO” DIGITAL UNTUK INDONESIA EMAS | Billtraviano Harda | [Read More](https://medium.com/p/5fcb03d51ff7) |
 | Mon, 13 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/815f29c55569) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 11:21:59 GMT | How Cybersecurity Staffing Firms Are Reshaping Tech Hiring in 2025 | Radcliffekitchens | [Read More](https://medium.com/p/b03165336c0a) |
 | Mon, 13 Oct 2025 11:20:16 GMT | From Law and Diplomacy to Tech: My Unexpected Journey (Episode 1) | Nneoma Onuabuchi | [Read More](https://medium.com/p/d1d351f0cb94) |
 | Mon, 13 Oct 2025 11:20:12 GMT | CVE-2025–61927: VM Context Escape in Happy DOM | gm0 | [Read More](https://medium.com/p/398b7cf0fc59) |
-| Mon, 13 Oct 2025 11:19:22 GMT | Warning: BlueceX.com is a Scam — Madacovi.co Saved Me! | Admin | [Read More](https://medium.com/p/123757f3e7a6) |
-| Mon, 13 Oct 2025 11:19:12 GMT | Catch them while you can | DCSO CyTec Blog | [Read More](https://medium.com/p/5c43007ae99e) |
