@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 04:13:42 GMT | Wie ein Cyber-Angriff auf ein Softwareprodukt Flughäfen lahm legte | Sarah Fluchs | [Read More](https://medium.com/p/eae591dc7e77) |
+| Mon, 13 Oct 2025 04:02:06 GMT | Offsec’s Echo Response: ProtoVault Breach Write-up | Cookiez Corner | [Read More](https://medium.com/p/f5fcfffbfd0c) |
+| Mon, 13 Oct 2025 04:01:31 GMT | How a Tiny Regex Almost Crashed the Internet (Yes, Even Behind Cloudflare) | Yash Mangal | [Read More](https://medium.com/p/7b325bc84586) |
+| Mon, 13 Oct 2025 03:59:38 GMT | GZR Observer — India Geo Perspective — Week of Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/185e20b86148) |
+| Mon, 13 Oct 2025 03:57:33 GMT | How I Won $10K by Finding an AWS Misconfiguration in an App (And What You Can Learn) | Mandar Satam | [Read More](https://medium.com/p/990ee90b4f05) |
+| Mon, 13 Oct 2025 03:55:40 GMT | 22. How to Get Invites to Private Programs | Abhijeet kumawat | [Read More](https://medium.com/p/9bbb51664e21) |
+| Mon, 13 Oct 2025 03:53:05 GMT | How I Stole an AI’s Brain (Legally) and Cashed Out | Iski | [Read More](https://medium.com/p/95b3848bcf6b) |
+| Mon, 13 Oct 2025 03:52:01 GMT | When AI Means Agent, Leak, & Chips: The Hidden Vectors We Need to Guard | Vishal Chawathe | [Read More](https://medium.com/p/1498d628f299) |
 | Mon, 13 Oct 2025 03:44:55 GMT | The Ninth Angel: Matarael, the Angel of Rain — The Corrosion and Gradual Collapse of AI Systems | Scott Huang | [Read More](https://medium.com/p/f1583eba3c0a) |
 | Mon, 13 Oct 2025 03:31:46 GMT | 10 Common Mistakes in Node.js Transaction Management | Arunangshu Das | [Read More](https://medium.com/p/24ef6298e9d8) |
 | Mon, 13 Oct 2025 03:31:46 GMT | ️ Frontend Security in 2025: 6 Critical Mistakes That Can Destroy Your Web App | Priyen Mehta - Senior Full-Stack Developer | [Read More](https://medium.com/p/3c2a57eb2546) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 18:24:49 GMT | Metasploit: Meterpreter — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/719db4f256f1) |
 | Sun, 12 Oct 2025 18:22:34 GMT | The 2025.03 Bugfix update is now available | The Feren OS Dev | [Read More](https://medium.com/p/847a1c20dd53) |
 | Sun, 12 Oct 2025 18:17:12 GMT | Hunting for Ghosts: A Walkthrough of the Linux Process Analysis Room | Furkanctiner | [Read More](https://medium.com/p/af77b682cb91) |
-| Sun, 12 Oct 2025 18:14:32 GMT | Breaking JWT: How I Found a Hardcoded Secret in a Mobile App | HackMeLocal | [Read More](https://medium.com/p/5b1ed57b9cff) |
-| Sun, 12 Oct 2025 18:13:01 GMT |  | Inayat Hussain | [Read More](https://medium.com/p/08c0f46868d4) |
-| Sun, 12 Oct 2025 18:08:30 GMT | Stored XSS into HTML context with nothing encoded | Hussin Ibrahim | [Read More](https://medium.com/p/20b60ce9ff83) |
-| Sun, 12 Oct 2025 18:01:46 GMT | ¿Usas Burp Suite correctamente? Probablemente no — mi flujo real para ser más rápido y efectivo | Gorka | [Read More](https://medium.com/p/f10c3f0056fb) |
-| Sun, 12 Oct 2025 17:56:44 GMT | From Scratch (Safely): Understanding HTTP-based C2 — How It Works, How To Detect It, and How To… | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9ce466d925d7) |
-| Sun, 12 Oct 2025 17:42:15 GMT | Metaverse Hype vs Reality: Where Are We Now? | Sarvesh | [Read More](https://medium.com/p/dfca0317ba72) |
-| Sun, 12 Oct 2025 17:39:34 GMT | Level Up Banks Secure and Effectual Infrastructure Management | Matt R Shaw | [Read More](https://medium.com/p/a2da9d80c55d) |
-| Sun, 12 Oct 2025 17:36:16 GMT | XSSTRON: Electron/Chromium XSS Scanner That Detects GET & POST Cross-Site Scripting Vulnerabilities | Sonu Yadav | [Read More](https://medium.com/p/4f19b27e56cf) |
