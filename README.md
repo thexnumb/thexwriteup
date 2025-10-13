@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 11:06:32 GMT | How to Really “Hack” Wi-Fi Passwords: Unveiling the Truth & Boosting Your Cyber Smarts | Alexander Hoffmann | [Read More](https://medium.com/p/799f1b7a503f) |
+| Mon, 13 Oct 2025 11:05:37 GMT | Why One Old Hikvision Endpoint Can Break Your Compliance | Rubab Fatima | [Read More](https://medium.com/p/9592cb5b6ed8) |
+| Mon, 13 Oct 2025 11:03:37 GMT | Top Security Audit Mistakes Businesses Make — and How to Avoid Them | SmartCLOUD Australia | [Read More](https://medium.com/p/3635e9a2c9f5) |
+| Mon, 13 Oct 2025 11:03:07 GMT | Security Programming in Linux | LinuxDev | [Read More](https://medium.com/p/ac96b2440cf6) |
+| Mon, 13 Oct 2025 11:02:29 GMT | Kima x Humanode: Verifying Humanity in the Age of Web3 | Kima | [Read More](https://medium.com/p/46f7dcf15387) |
+| Mon, 13 Oct 2025 11:02:06 GMT | Expert IT Support in Camberwell for Local Firms | Gary Marshall | [Read More](https://medium.com/p/fe188b6c9eae) |
+| Mon, 13 Oct 2025 11:01:24 GMT | If You Think Your Spouse is Cheating, Consider Hiring A Private Investigator To Gather Evidence | Donley Mark | [Read More](https://medium.com/p/68d6241bbdcf) |
+| Mon, 13 Oct 2025 10:50:10 GMT | How Does Master Keying Enhance Security for Businesses While Allowing Quick Emergency Lock Access? | jalockmangastonia | [Read More](https://medium.com/p/c188b9d767ec) |
+| Mon, 13 Oct 2025 10:46:57 GMT | Cloud Infrastructure Security: Threats, Challenges & How to Protect Your Data | Teleglobal International | [Read More](https://medium.com/p/d9e919909efe) |
+| Mon, 13 Oct 2025 10:45:18 GMT | I Cracked 12 Passwords in 3 Hours Using This Free Tool Nobody Talks About (CeWL Tutorial) | BugHunter’s Journal | [Read More](https://medium.com/p/3f9299010b6d) |
+| Mon, 13 Oct 2025 10:43:47 GMT | Cloud Infrastructure Security: Navigating Threats & Overcoming Challenges | Generative AI Blog | [Read More](https://medium.com/p/dd65a54e7ada) |
 | Mon, 13 Oct 2025 10:41:49 GMT | Beyond Bugs: How Modern QA is Powering Business Growth and Digital Trust in 2025 | QaceTech Ltd | [Read More](https://medium.com/p/2e6a98f35991) |
+| Mon, 13 Oct 2025 10:41:33 GMT | 15 Real Tech Disasters That Shook the Industry | Imran Khan | [Read More](https://medium.com/p/8c5028762f1a) |
+| Mon, 13 Oct 2025 10:37:05 GMT | SMT Program Expert Lecture 2: A Dual Approach to Total Server Security | Robert | [Read More](https://medium.com/p/1d33c16f4503) |
+| Mon, 13 Oct 2025 10:35:58 GMT | So You Want to Be a CTI Analyst? The Ultimate Career Guide | Adam Goss | [Read More](https://medium.com/p/dc4100a01554) |
 | Mon, 13 Oct 2025 10:30:35 GMT | Is Google Cloud the Secret to Scalable Success? | Mohammed Numan | [Read More](https://medium.com/p/d7bbd78312cd) |
 | Mon, 13 Oct 2025 10:25:31 GMT | Master Cybersecurity Skills with Certified Ethical Hacker V13 (CEH) Certification | Certocean | [Read More](https://medium.com/p/202a18a71851) |
 | Mon, 13 Oct 2025 10:21:44 GMT | Defenses Against Exploit Development — DEP (NX), ASLR and Beyond | Esra Kayhan | [Read More](https://medium.com/p/269191cd65da) |
@@ -99,17 +113,3 @@ Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://mediu
 | Mon, 13 Oct 2025 06:42:00 GMT | Can AGI Replace the Workforce? | Bervice | [Read More](https://medium.com/p/c1fb93ba6dc6) |
 | Mon, 13 Oct 2025 06:40:35 GMT | Protecting What Matters Most Installing Crimsafe in Your Home | Gold Coast Security Screens | [Read More](https://medium.com/p/efe07b856e26) |
 | Mon, 13 Oct 2025 06:36:51 GMT | How Does SASE Improve Identity Security? | Serishahid | [Read More](https://medium.com/p/9c42f592854b) |
-| Mon, 13 Oct 2025 06:32:00 GMT | In every organization, security doesn’t happen by accident. | Adeleke Theophilus O | [Read More](https://medium.com/p/926250be241f) |
-| Mon, 13 Oct 2025 06:27:51 GMT | Essential Intellectual Property Clauses for SaaS Agreements: Protecting Your Startup’s Code | Hansen Tong | [Read More](https://medium.com/p/5988f7c57028) |
-| Mon, 13 Oct 2025 06:27:38 GMT | Elevate Your Website’s Functionality with Company in Chicago | Mike Brown | [Read More](https://medium.com/p/d8fa57069a3c) |
-| Mon, 13 Oct 2025 06:27:04 GMT | The Daily Tech Digest: 13 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/de31fc6c6a13) |
-| Mon, 13 Oct 2025 06:25:30 GMT | From Kantara’s Box Office Success to Digital Security Success: Why 1Password Deserves an Oscar in… | Level Up with Ashutosh | [Read More](https://medium.com/p/0074828fa1c0) |
-| Mon, 13 Oct 2025 06:23:46 GMT | Tải Hack Soul Knight (Full Prequel, Character) v7.5.0 | GameHaiVL | [Read More](https://medium.com/p/1807027c9bfb) |
-| Mon, 13 Oct 2025 06:14:06 GMT | Villager: The AI-Powered Penetration Testing Framework | Andrey Pautov | [Read More](https://medium.com/p/8df10532e265) |
-| Mon, 13 Oct 2025 06:12:19 GMT | Best Nanny Cams Services Provider — Top Picks for 2025 | Marcela John | [Read More](https://medium.com/p/83bf69dca536) |
-| Mon, 13 Oct 2025 06:06:07 GMT | Managing Vulnerable Dependencies — The Hidden Risk in Open-Source Code | Dean | [Read More](https://medium.com/p/a10ebe83870d) |
-| Mon, 13 Oct 2025 06:04:07 GMT | Your Smart Devices, Their Weak Links: Why IoT and Mobile Security Can’t Be Ignored by Kenyan… | Kevin Mwenda | [Read More](https://medium.com/p/5709447b8a59) |
-| Mon, 13 Oct 2025 05:56:58 GMT | Portswigger Web Security Academy - DOM-based Vulnerabilities Lab #1 | BooRuleDie | [Read More](https://medium.com/p/65e26a0f8639) |
-| Mon, 13 Oct 2025 05:56:38 GMT | Python Today: How a Simple Language Became the Backbone of the Digital Age | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/68b7d8875568) |
-| Mon, 13 Oct 2025 05:47:53 GMT | What is Networking? A Beginner’s Guide to How Devices Connect and Communicate | Redinit | [Read More](https://medium.com/p/606605eb7696) |
-| Mon, 13 Oct 2025 05:45:39 GMT | Love Shouldn’t Feel Like Begging for Basic Affection | LSD | [Read More](https://medium.com/p/bfb8973db523) |
