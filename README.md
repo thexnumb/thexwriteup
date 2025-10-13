@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 19:34:19 GMT | Creating A Tech Roadmap In Real Time | Ariel McBride | [Read More](https://medium.com/p/e076c6b70dd6) |
+| Mon, 13 Oct 2025 19:32:28 GMT | 7 Deno Deploy Tricks for Secure, Low-Ops Backends | Hash Block | [Read More](https://medium.com/p/2c08fc7b0e1b) |
+| Mon, 13 Oct 2025 19:18:41 GMT | Blockchain Bug Hunting & Patch Workflow: A Complete Checklist for Ethical Hackers | Monika sharma | [Read More](https://medium.com/p/057415161a0f) |
 | Mon, 13 Oct 2025 19:14:23 GMT | Ethical Hackers: The 2025 Digital Guardians | Smith Adams | [Read More](https://medium.com/p/1b42e4499f89) |
 | Mon, 13 Oct 2025 19:07:57 GMT | Backup Strategies with OneDrive: What Happens If Something Is Deleted? | Cordula Boeck | [Read More](https://medium.com/p/b536fbadd79f) |
 | Mon, 13 Oct 2025 19:07:44 GMT | The Future of Software Security: From Reactive Defense to Active Resilience | Akilnath Bodipudi | [Read More](https://medium.com/p/1aed394870cf) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 14:45:46 GMT | The Rise of Synthetic Companions: Understanding Youthful Fascination with Sex Dolls | realdollbuy | [Read More](https://medium.com/p/a16a229fe1ea) |
 | Mon, 13 Oct 2025 14:45:10 GMT | Vibe Coding: How AI Is Reshaping Software — and Creating a New Cybersecurity Crisis | Robert Prohaczka | [Read More](https://medium.com/p/9496edc7271a) |
 | Mon, 13 Oct 2025 14:42:14 GMT | One Click and Your Domain’s Gone — Shield It Today | Vivian Dsouza | [Read More](https://medium.com/p/b0a3718e1bf3) |
-| Mon, 13 Oct 2025 14:39:55 GMT | Vultisig - Blockaid Case Study: | Vultisig | [Read More](https://medium.com/p/98cc1b3ec345) |
-| Mon, 13 Oct 2025 14:33:08 GMT | RetailBreach Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/0279df1539a8) |
-| Mon, 13 Oct 2025 14:33:06 GMT | Day 34: Internet Gateway (IGW) in AWS | Prutha_Dongre | [Read More](https://medium.com/p/94d16e67ff83) |
