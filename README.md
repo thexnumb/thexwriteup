@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 07:13:33 GMT | How to Secure Salesforce? After 700+ Breaches & 50M Stolen Records | Abhinav Gupta | [Read More](https://medium.com/p/a6684d5b018e) |
+| Mon, 13 Oct 2025 07:08:43 GMT | SQL Injection and IDOR explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/2b5493f30fa0) |
+| Mon, 13 Oct 2025 07:08:23 GMT | How Certificate Pinning Shields Your Fintech App from Hackers — Explained Simply | Takendra Saraswat | [Read More](https://medium.com/p/4c202adcc71c) |
+| Mon, 13 Oct 2025 07:07:24 GMT | The Hidden Role of Statistics in Data Science | Muhummad Zaki | [Read More](https://medium.com/p/59c9b0a0eab6) |
+| Mon, 13 Oct 2025 07:06:16 GMT | How IT Companies in Dubai UAE Are Supporting Digital Transformation in the Middle East | Nithish Saitechdm | [Read More](https://medium.com/p/a2db45aae5ac) |
+| Mon, 13 Oct 2025 07:04:57 GMT | Microsoft Managed Services & Azure Expert MSP - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/38776fcabf6e) |
+| Mon, 13 Oct 2025 07:02:09 GMT | Top 10 Cloud Security Certifications | Manisha Chaudhary | [Read More](https://medium.com/p/ba81e27aa764) |
+| Mon, 13 Oct 2025 07:01:54 GMT | Must-Know Database Fundamentals | Omar Yahia | [Read More](https://medium.com/p/6d70b600453a) |
+| Mon, 13 Oct 2025 07:00:12 GMT | Discovering Key Security Features in Password Management Systems | Renaissance Computer Services Limited | [Read More](https://medium.com/p/1b0838aa69f2) |
+| Mon, 13 Oct 2025 06:52:10 GMT | The AI Hype Cycle: Workslop Woes and the Layoff Delusion | Namir Sagheenanajar | [Read More](https://medium.com/p/e9d2acf0cb9c) |
+| Mon, 13 Oct 2025 06:48:07 GMT | Bug Life Cycle (Defect Life Cycle) Explained for QA Beginners | Avadhutwakkar | [Read More](https://medium.com/p/4f6b3e35d071) |
+| Mon, 13 Oct 2025 06:42:00 GMT | Can AGI Replace the Workforce? | Bervice | [Read More](https://medium.com/p/c1fb93ba6dc6) |
+| Mon, 13 Oct 2025 06:40:35 GMT | Protecting What Matters Most Installing Crimsafe in Your Home | Gold Coast Security Screens | [Read More](https://medium.com/p/efe07b856e26) |
+| Mon, 13 Oct 2025 06:36:51 GMT | How Does SASE Improve Identity Security? | Serishahid | [Read More](https://medium.com/p/9c42f592854b) |
+| Mon, 13 Oct 2025 06:32:00 GMT | In every organization, security doesn’t happen by accident. | Adeleke Theophilus O | [Read More](https://medium.com/p/926250be241f) |
+| Mon, 13 Oct 2025 06:27:51 GMT | Essential Intellectual Property Clauses for SaaS Agreements: Protecting Your Startup’s Code | Hansen Tong | [Read More](https://medium.com/p/5988f7c57028) |
 | Mon, 13 Oct 2025 06:27:38 GMT | Elevate Your Website’s Functionality with Company in Chicago | Mike Brown | [Read More](https://medium.com/p/d8fa57069a3c) |
+| Mon, 13 Oct 2025 06:27:04 GMT | The Daily Tech Digest: 13 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/de31fc6c6a13) |
+| Mon, 13 Oct 2025 06:25:30 GMT | From Kantara’s Box Office Success to Digital Security Success: Why 1Password Deserves an Oscar in… | Level Up with Ashutosh | [Read More](https://medium.com/p/0074828fa1c0) |
 | Mon, 13 Oct 2025 06:23:46 GMT | Tải Hack Soul Knight (Full Prequel, Character) v7.5.0 | GameHaiVL | [Read More](https://medium.com/p/1807027c9bfb) |
 | Mon, 13 Oct 2025 06:14:06 GMT | Villager: The AI-Powered Penetration Testing Framework | Andrey Pautov | [Read More](https://medium.com/p/8df10532e265) |
 | Mon, 13 Oct 2025 06:12:19 GMT | Best Nanny Cams Services Provider — Top Picks for 2025 | Marcela John | [Read More](https://medium.com/p/83bf69dca536) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 22:17:45 GMT | TryHackMe #107 - DFIR: An Introduction | SiberYuk | [Read More](https://medium.com/p/be104f0a534f) |
 | Sun, 12 Oct 2025 22:17:02 GMT | How to Block Personal Computers with Conditional Access in Microsoft | Arnold De La Vega | [Read More](https://medium.com/p/a95edbf85b66) |
 | Sun, 12 Oct 2025 22:11:56 GMT | AI Won’t Wait. | Dwayne Xavier Bull (ChatterBox Podcast) | [Read More](https://medium.com/p/d375e7cebac4) |
-| Sun, 12 Oct 2025 22:08:11 GMT | Monitoring account lockout events with Event Viewer | Windows Guide | [Read More](https://medium.com/p/223254781811) |
-| Sun, 12 Oct 2025 22:06:18 GMT | Paste Zone Scenario Hackviser CWSE | Y0s_0x_IBM | [Read More](https://medium.com/p/2878066aeddc) |
-| Sun, 12 Oct 2025 22:04:14 GMT | Building Secure Mobile App with Flutter | Tomáš Repčík | [Read More](https://medium.com/p/863c7d894f1d) |
-| Sun, 12 Oct 2025 22:03:35 GMT | Cybersecurity in the Age of AI-Generated Content | Shubham Saurabh | [Read More](https://medium.com/p/e2fb6c0612fc) |
-| Sun, 12 Oct 2025 22:02:25 GMT | Quantum Computing – The Next Frontier for Cybersecurity Pros! | Vikas | [Read More](https://medium.com/p/6a49798abc17) |
-| Sun, 12 Oct 2025 21:48:53 GMT | AI Roadmap: Foundation Models and Beyond | Hira Ahmad | [Read More](https://medium.com/p/e13b3fc6a772) |
-| Sun, 12 Oct 2025 21:30:15 GMT | Analyzing HTTP Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/aabe342e1614) |
-| Sun, 12 Oct 2025 21:13:01 GMT | The Role of AI in Cybersecurity | Sharon Ureh Odu | [Read More](https://medium.com/p/c76cb7282afc) |
-| Sun, 12 Oct 2025 20:49:14 GMT | Unlocking GitHub Business Plan: What You Get for Code Quality, Security, and Copilot | Riccardo Bernardi | [Read More](https://medium.com/p/9c5032d7a9ed) |
-| Sun, 12 Oct 2025 20:38:57 GMT | The Ultimate Threat Intelligence Playbook for Modern Security Teams | Shantnu K. | [Read More](https://medium.com/p/ca3f4c1c352a) |
-| Sun, 12 Oct 2025 20:35:32 GMT | Why I Chose Cybersecurity (And Why I’m Not Turning Back) | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/3b7dbed05031) |
-| Sun, 12 Oct 2025 20:24:09 GMT | Pickle Rick TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/eb20997d8169) |
-| Sun, 12 Oct 2025 20:16:13 GMT | Same Origin Policy Nedir? (Aynı Origin Politikası — SOP) | r00trose | [Read More](https://medium.com/p/5053a83270e7) |
-| Sun, 12 Oct 2025 20:13:44 GMT | Let’s talk about AI cyber-offense | Sparse Connections | [Read More](https://medium.com/p/30467c50bba6) |
-| Sun, 12 Oct 2025 20:12:21 GMT | Building a Safe Home Hacking Lab: Step-by-Step Guide | Aj | [Read More](https://medium.com/p/eb5c52124d9e) |
-| Sun, 12 Oct 2025 20:10:00 GMT | Portswigger Academy — Reflected XSS into a JavaScript string with single quote and backslash… | Alan | [Read More](https://medium.com/p/40fafc8f80d3) |
-| Sun, 12 Oct 2025 20:09:47 GMT | Basics & BTS of C++ — Sharing What I Learn 003 | Prathamesh Burade | [Read More](https://medium.com/p/c077eaa21ff6) |
-| Sun, 12 Oct 2025 20:07:51 GMT | Turning a Kali VM into a Live Access Point | Lukasz Wierzbicki | [Read More](https://medium.com/p/71b6f79d98ce) |
