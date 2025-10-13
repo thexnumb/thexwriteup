@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 14:33:08 GMT | RetailBreach Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/0279df1539a8) |
+| Mon, 13 Oct 2025 14:33:06 GMT | Day 34: Internet Gateway (IGW) in AWS | Prutha_Dongre | [Read More](https://medium.com/p/94d16e67ff83) |
+| Mon, 13 Oct 2025 14:29:29 GMT | Praktikum SISOP IF-04–04 Modul 1,2 dan 3 | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/0d0546d42651) |
+| Mon, 13 Oct 2025 14:24:02 GMT | The 5 Skills That Actually Got Me Hired Not What I Learned in College | Saloni | [Read More](https://medium.com/p/772a7653cd9e) |
 | Mon, 13 Oct 2025 14:17:56 GMT | Microsoft ends supports for Windows 10 | James N | [Read More](https://medium.com/p/75705b4ffb33) |
 | Mon, 13 Oct 2025 14:16:01 GMT | Industrial IoT (IIoT) Security: Protecting the Smart Factory | Cyberkech | [Read More](https://medium.com/p/cc8890c172ea) |
 | Mon, 13 Oct 2025 14:10:27 GMT | The Hidden Danger in Your AI: A Third of Key MCP Servers are Critically Flawed | Gireesh C Samrat | [Read More](https://medium.com/p/b149c706d225) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 10:43:47 GMT | Cloud Infrastructure Security: Navigating Threats & Overcoming Challenges | Generative AI Blog | [Read More](https://medium.com/p/dd65a54e7ada) |
 | Mon, 13 Oct 2025 10:41:49 GMT | Beyond Bugs: How Modern QA is Powering Business Growth and Digital Trust in 2025 | QaceTech Ltd | [Read More](https://medium.com/p/2e6a98f35991) |
 | Mon, 13 Oct 2025 10:41:33 GMT | 15 Real Tech Disasters That Shook the Industry | Imran Khan | [Read More](https://medium.com/p/8c5028762f1a) |
-| Mon, 13 Oct 2025 10:37:05 GMT | SMT Program Expert Lecture 2: A Dual Approach to Total Server Security | Robert | [Read More](https://medium.com/p/1d33c16f4503) |
-| Mon, 13 Oct 2025 10:35:58 GMT | So You Want to Be a CTI Analyst? The Ultimate Career Guide | Adam Goss | [Read More](https://medium.com/p/dc4100a01554) |
-| Mon, 13 Oct 2025 10:30:35 GMT | Is Google Cloud the Secret to Scalable Success? | Mohammed Numan | [Read More](https://medium.com/p/d7bbd78312cd) |
-| Mon, 13 Oct 2025 10:25:31 GMT | Master Cybersecurity Skills with Certified Ethical Hacker V13 (CEH) Certification | Certocean | [Read More](https://medium.com/p/202a18a71851) |
