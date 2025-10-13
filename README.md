@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 20:09:11 GMT | Çok Şükür 10 Senenin Sonunda USOM: Ulusal Siber Olaylara Müdahale Merkezi’de Beni Onayladı | Ertugrul Akbas | [Read More](https://medium.com/p/41fcd2894ebc) |
+| Mon, 13 Oct 2025 20:03:32 GMT | FORTIGATE GEÇİŞİ 01.03 AntiVirus | Ziya DENİZ | [Read More](https://medium.com/p/4e4fcce2a7c3) |
+| Mon, 13 Oct 2025 19:57:47 GMT | Build-Time Defenses Against Reverse Engineering | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2177d85c0984) |
+| Mon, 13 Oct 2025 19:49:15 GMT | Beyond the Firewall: 6 Steps to Stop Attackers From Walking Into Your Database | Hassan Zreik | [Read More](https://medium.com/p/a7ddd785bfbb) |
+| Mon, 13 Oct 2025 19:47:16 GMT | The Complete Beginner’s Guide to CMMC Compliance (2025 Edition) | Olivier Maignan | [Read More](https://medium.com/p/74d6aa22957a) |
+| Mon, 13 Oct 2025 19:45:19 GMT | Security and Compliance | Nurali ATMACA | [Read More](https://medium.com/p/128be3a735ff) |
+| Mon, 13 Oct 2025 19:44:12 GMT | Week 10: 16 Days Remaining —  How I’m Rescuing My Challenge from the Motivation Slump (An Honest… | Mike (sl0th0x87) | [Read More](https://medium.com/p/57f16c5ff13a) |
+| Mon, 13 Oct 2025 19:43:46 GMT | Day 8 of My Cybersecurity Journey: Exploring the Windows Command Line | Ogundipe Priscilla | [Read More](https://medium.com/p/736c8d7c05d4) |
+| Mon, 13 Oct 2025 19:34:50 GMT | These Voices vs The Truth | Oni | [Read More](https://medium.com/p/50c310bcb9e0) |
+| Mon, 13 Oct 2025 19:34:24 GMT | What is Phishing? A Beginner’s Guide to Scams | orioninsist | [Read More](https://medium.com/p/dff08f6bb36b) |
 | Mon, 13 Oct 2025 19:34:19 GMT | Creating A Tech Roadmap In Real Time | Ariel McBride | [Read More](https://medium.com/p/e076c6b70dd6) |
 | Mon, 13 Oct 2025 19:32:28 GMT | 7 Deno Deploy Tricks for Secure, Low-Ops Backends | Hash Block | [Read More](https://medium.com/p/2c08fc7b0e1b) |
+| Mon, 13 Oct 2025 19:32:28 GMT | Tiny Python, Big Gains | Syntal | [Read More](https://medium.com/p/95fe4ad1b2b9) |
+| Mon, 13 Oct 2025 19:31:23 GMT | Windows Red Team Endurance and Evasion Tactics | Muhammad Ali | [Read More](https://medium.com/p/40d0aa748757) |
+| Mon, 13 Oct 2025 19:29:36 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL SOLVE ALL YOUR PROBLEM. | Bjorn Lindberg | [Read More](https://medium.com/p/c2d2df7a7a48) |
+| Mon, 13 Oct 2025 19:28:41 GMT | Complete Guide to Hack Wi-Fi Security: Protecting Your Network from Password Attacks | Alexander Hoffmann | [Read More](https://medium.com/p/98e5f3391df9) |
 | Mon, 13 Oct 2025 19:18:41 GMT | Blockchain Bug Hunting & Patch Workflow: A Complete Checklist for Ethical Hackers | Monika sharma | [Read More](https://medium.com/p/057415161a0f) |
 | Mon, 13 Oct 2025 19:14:23 GMT | Ethical Hackers: The 2025 Digital Guardians | Smith Adams | [Read More](https://medium.com/p/1b42e4499f89) |
 | Mon, 13 Oct 2025 19:07:57 GMT | Backup Strategies with OneDrive: What Happens If Something Is Deleted? | Cordula Boeck | [Read More](https://medium.com/p/b536fbadd79f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 15:34:24 GMT | Jira: Revolutionizing Project Management for Explainable AI-Driven Healthcare Solutions | Janith Wanasinghe | [Read More](https://medium.com/p/287f694b099e) |
 | Mon, 13 Oct 2025 15:23:03 GMT | Leading in the Shadows: The Art of Building High-Performance Cybersecurity Teams | Shree | [Read More](https://medium.com/p/dc8d585ea977) |
 | Mon, 13 Oct 2025 15:18:43 GMT | Sometimes I wish I weren’t me | The Quill | [Read More](https://medium.com/p/e9921f002de7) |
-| Mon, 13 Oct 2025 15:16:31 GMT | 40 TAHUN INFORMATIKA ITS, BARISAN “AREK SUROBOYO” DIGITAL UNTUK INDONESIA EMAS | Billtraviano Harda | [Read More](https://medium.com/p/5fcb03d51ff7) |
-| Mon, 13 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/815f29c55569) |
-| Mon, 13 Oct 2025 15:12:14 GMT | Getting Started with The DFiR Galaxy Workstation | Mahmoud Soheem | [Read More](https://medium.com/p/7f4b56bfbe1e) |
-| Mon, 13 Oct 2025 15:12:14 GMT | DFiR Galaxy Workstation: A Swiss army knife for DFIR Investigations | Mahmoud Soheem | [Read More](https://medium.com/p/979d888d024b) |
-| Mon, 13 Oct 2025 15:12:13 GMT | Available Tools in DFiR Galaxy Workstation | Mahmoud Soheem | [Read More](https://medium.com/p/b92112a05577) |
-| Mon, 13 Oct 2025 15:05:58 GMT | DROSERA: BUILDING SMART CONTRACTS THAT THINK AND REACT | Westernbay | [Read More](https://medium.com/p/cb9539efa204) |
-| Mon, 13 Oct 2025 15:02:19 GMT | Beyond the Mistakes: The ‘Human’ Glitch in Your Digital Security | Favour  Elijah | [Read More](https://medium.com/p/7d8b57b414ca) |
-| Mon, 13 Oct 2025 15:00:18 GMT | taumode: a new way of searching vector databases | Lorenzo M. | [Read More](https://medium.com/p/eea79973ecbf) |
-| Mon, 13 Oct 2025 14:59:36 GMT | SpamGPT: The AI-Powered Toolkit Turning Phishing into a Service | Lindiwetwaambomoyo | [Read More](https://medium.com/p/7e92887537ce) |
-| Mon, 13 Oct 2025 14:58:50 GMT | Pentesting File Upload Vulnerabilities | Md. Raihan | [Read More](https://medium.com/p/ce54e7f419de) |
-| Mon, 13 Oct 2025 14:51:39 GMT | 516 Hackers — Pakistan’s Ethical Hacking & Cybersecurity Community | 516 Hackers | [Read More](https://medium.com/p/b13dc3211e6c) |
-| Mon, 13 Oct 2025 14:45:46 GMT | The Rise of Synthetic Companions: Understanding Youthful Fascination with Sex Dolls | realdollbuy | [Read More](https://medium.com/p/a16a229fe1ea) |
-| Mon, 13 Oct 2025 14:45:10 GMT | Vibe Coding: How AI Is Reshaping Software — and Creating a New Cybersecurity Crisis | Robert Prohaczka | [Read More](https://medium.com/p/9496edc7271a) |
-| Mon, 13 Oct 2025 14:42:14 GMT | One Click and Your Domain’s Gone — Shield It Today | Vivian Dsouza | [Read More](https://medium.com/p/b0a3718e1bf3) |
