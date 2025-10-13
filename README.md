@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 19:14:23 GMT | Ethical Hackers: The 2025 Digital Guardians | Smith Adams | [Read More](https://medium.com/p/1b42e4499f89) |
+| Mon, 13 Oct 2025 19:07:57 GMT | Backup Strategies with OneDrive: What Happens If Something Is Deleted? | Cordula Boeck | [Read More](https://medium.com/p/b536fbadd79f) |
+| Mon, 13 Oct 2025 19:07:44 GMT | The Future of Software Security: From Reactive Defense to Active Resilience | Akilnath Bodipudi | [Read More](https://medium.com/p/1aed394870cf) |
+| Mon, 13 Oct 2025 19:07:43 GMT | DAY 3: Understanding the Different Types of Access Control: A Complete Guide | Krish Shrestha | [Read More](https://medium.com/p/c8bf24142778) |
+| Mon, 13 Oct 2025 19:07:12 GMT | AWS EC2 in Plain English: Your Cloud Computer | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/bbac23c2a853) |
+| Mon, 13 Oct 2025 19:06:17 GMT | Why Users Resist Stronger Authentication — And How to Change That | Deepak Gupta | [Read More](https://medium.com/p/54aa07f0e202) |
+| Mon, 13 Oct 2025 19:04:22 GMT | How to Recover Your Instagram Account: A Comprehensive Guide | Alexander Hoffmann | [Read More](https://medium.com/p/1be9cec63509) |
+| Mon, 13 Oct 2025 19:03:11 GMT | eJPT Passed: My Unfiltered Tips | Navaneeth M S | [Read More](https://medium.com/p/2c6695ba5134) |
+| Mon, 13 Oct 2025 19:02:40 GMT | Breaking ANDRÓG-X: An Adversarial Prompt Engineering CTF Challenge | Yasser Namez | [Read More](https://medium.com/p/a451a4278026) |
+| Mon, 13 Oct 2025 18:53:16 GMT | Integrated Video Surveillance and Access Control: The Next Era of Smart Facility Security | ASI Systems Pro | [Read More](https://medium.com/p/9d2b07325f2c) |
+| Mon, 13 Oct 2025 18:50:11 GMT | Python Mastery: Automating Everyday Tasks Like a Pro | Kainat Nafees | [Read More](https://medium.com/p/12d3abcd236d) |
+| Mon, 13 Oct 2025 18:48:17 GMT | Seccomp Filters Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d053438f8b17) |
+| Mon, 13 Oct 2025 18:47:24 GMT | Why You Should Change Your Debit Card Every 12 Months | Dave | [Read More](https://medium.com/p/a7bb339e7911) |
+| Mon, 13 Oct 2025 18:45:45 GMT | What Is a Phishing Email? Real-World Scam Examples | Kevin Asutton | [Read More](https://medium.com/p/5858b518eb8f) |
+| Mon, 13 Oct 2025 18:42:55 GMT | The New Hire in SOC: Sharing a Desk with AI | Logs&Lattes | [Read More](https://medium.com/p/f100eca458dc) |
+| Mon, 13 Oct 2025 18:40:59 GMT | Strawberry Cheesecake Dump Cake: Easiest Dessert Hack EVER! | grandmadishes | [Read More](https://medium.com/p/12f73e845568) |
 | Mon, 13 Oct 2025 18:40:46 GMT | Exploring Firewalld Advanced Rules with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/c3a9a9fcdb0e) |
 | Mon, 13 Oct 2025 18:34:33 GMT | 10 Cybersecurity Myths That Are Putting Your Small Business at Risk | CyberFortifyHQ | [Read More](https://medium.com/p/ffcf9e8fadf2) |
 | Mon, 13 Oct 2025 18:26:09 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/fff4b57664ac) |
@@ -21,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 18:19:38 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/847a9a32e481) |
 | Mon, 13 Oct 2025 18:13:35 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/82fd4ef93207) |
 | Mon, 13 Oct 2025 18:13:06 GMT | Eufy PoE Turret Security Camera E41 Review | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/574228814ff2) |
+| Mon, 13 Oct 2025 18:12:51 GMT | Memecahkan Kode Rahasia: Eksplorasi Cryptography dari Zaman Romawi ke Era Digital | muhfalihr | [Read More](https://medium.com/p/50d92e30bca0) |
 | Mon, 13 Oct 2025 18:06:48 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ce9f56eba2cd) |
 | Mon, 13 Oct 2025 18:02:21 GMT | Istio vs. Linkerd: The Service Mesh Showdown for Kubernetes | Emircan Agac | [Read More](https://medium.com/p/bdfdc3c12286) |
 | Mon, 13 Oct 2025 18:02:17 GMT | For the Days I Feel Like a Failure | Nova S | [Read More](https://medium.com/p/e76530f792f7) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 14:39:55 GMT | Vultisig - Blockaid Case Study: | Vultisig | [Read More](https://medium.com/p/98cc1b3ec345) |
 | Mon, 13 Oct 2025 14:33:08 GMT | RetailBreach Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/0279df1539a8) |
 | Mon, 13 Oct 2025 14:33:06 GMT | Day 34: Internet Gateway (IGW) in AWS | Prutha_Dongre | [Read More](https://medium.com/p/94d16e67ff83) |
-| Mon, 13 Oct 2025 14:29:29 GMT | Praktikum SISOP IF-04–04 Modul 1,2 dan 3 | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/0d0546d42651) |
-| Mon, 13 Oct 2025 14:24:02 GMT | The 5 Skills That Actually Got Me Hired Not What I Learned in College | Saloni | [Read More](https://medium.com/p/772a7653cd9e) |
-| Mon, 13 Oct 2025 14:17:56 GMT | Microsoft ends supports for Windows 10 | James N | [Read More](https://medium.com/p/75705b4ffb33) |
-| Mon, 13 Oct 2025 14:16:01 GMT | Industrial IoT (IIoT) Security: Protecting the Smart Factory | Cyberkech | [Read More](https://medium.com/p/cc8890c172ea) |
-| Mon, 13 Oct 2025 14:10:27 GMT | The Hidden Danger in Your AI: A Third of Key MCP Servers are Critically Flawed | Gireesh C Samrat | [Read More](https://medium.com/p/b149c706d225) |
-| Mon, 13 Oct 2025 14:09:58 GMT | 2025’s Top Cyber Threats, October 13: What’s Lurking in the Stack | InGBTech | [Read More](https://medium.com/p/a3c93a5e284e) |
-| Mon, 13 Oct 2025 14:08:52 GMT | The Expulsion | Ehi Ella | [Read More](https://medium.com/p/136c700126da) |
-| Mon, 13 Oct 2025 14:08:51 GMT | The First Bounty: More Than Just a Payday | Sunny Jha | [Read More](https://medium.com/p/bd3e8abeac01) |
-| Mon, 13 Oct 2025 14:05:58 GMT | Kubernetes Admission Controllers: Deep Dive with Practical Demo | @Harsh | [Read More](https://medium.com/p/fc0dd67ba9fb) |
-| Mon, 13 Oct 2025 14:03:22 GMT | Cyber Briefing: 2025.10.13 | CyberMaterial | [Read More](https://medium.com/p/2c48658cdc0f) |
-| Mon, 13 Oct 2025 14:02:20 GMT | ️‍♀️ Find Out If Your Data’s Been Leaked | Micah Thornton | [Read More](https://medium.com/p/75cb772ca086) |
-| Mon, 13 Oct 2025 14:00:55 GMT | Scalability and Simplicity — Why Abatis Works Anywhere | Abatis ABTU | [Read More](https://medium.com/p/de3531c172c5) |
-| Mon, 13 Oct 2025 13:57:23 GMT | Waivern update nr 4, week 42 — starting to parse policies for compliance using AI | Vincent Nunan | [Read More](https://medium.com/p/d46d65587b52) |
-| Mon, 13 Oct 2025 13:52:49 GMT | How to Quantify and Improve Execution Capability in AI Programs | Shirish Hardikar | [Read More](https://medium.com/p/43a23036352d) |
-| Mon, 13 Oct 2025 13:52:06 GMT | This Week in Resilience - October 13, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/d100248ea541) |
-| Mon, 13 Oct 2025 13:50:50 GMT | Vatican Deadline Passed — 192 Lawsuits Begin for Theft of Royal Lineage” | Richard Encarnacion, MBA, Ph.D. | [Read More](https://medium.com/p/659098772269) |
-| Mon, 13 Oct 2025 13:45:48 GMT | Dasar Dasar Network Security, Apa itu Firewall? | Aditya Muhamad Putra P. | [Read More](https://medium.com/p/19d80592bb7a) |
