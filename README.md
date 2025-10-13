@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 01:31:46 GMT | Active Directory Hacking 101: Kerberoasting | SilentExploit | [Read More](https://medium.com/p/94952c8e2e70) |
+| Mon, 13 Oct 2025 01:21:45 GMT | Vulnerability in Dating: Why You Need to Drop the Guard | Alejandra Rodríguez | [Read More](https://medium.com/p/2740361dd999) |
+| Mon, 13 Oct 2025 01:06:37 GMT | Return of the System Gods: Rootkits, Certificates and the Fall of the Trusted Kernel | Rodrigo Gutierrez | [Read More](https://medium.com/p/906dd6d0a558) |
+| Mon, 13 Oct 2025 01:03:59 GMT | APIclypse Now: the Silent Collapse of API Control | Rodrigo Gutierrez | [Read More](https://medium.com/p/11e93f7e0522) |
+| Mon, 13 Oct 2025 01:00:59 GMT | The Art of Staying: Advanced Persistence and the Battle for Digital Time | Rodrigo Gutierrez | [Read More](https://medium.com/p/97c308accaf5) |
+| Mon, 13 Oct 2025 00:47:16 GMT | Supernova Gutenberg, Perpustakaan Digital, dan Paradoks Informasi | Baharis | [Read More](https://medium.com/p/9f59996da760) |
+| Mon, 13 Oct 2025 00:46:26 GMT | ICMP Walkthrough — Proving Grounds (Play) | Maxwell Ferreira | [Read More](https://medium.com/p/c781ebf816ee) |
+| Mon, 13 Oct 2025 00:22:35 GMT | Shifting to a Zero Trust Mindset | Kevin Kueck | [Read More](https://medium.com/p/4c55cdcb5a1d) |
+| Mon, 13 Oct 2025 00:11:49 GMT | Setting Up SSH Remote Access on Kali Linux: A Step-by-Step Guide | Ali bin azam | [Read More](https://medium.com/p/c03f3ae970e1) |
+| Sun, 12 Oct 2025 23:59:45 GMT | Understanding GPS and Location Services | Raviteja Mureboina | [Read More](https://medium.com/p/1b81fb932e94) |
+| Sun, 12 Oct 2025 23:55:37 GMT | What You May Be Missing With Your Phishing Simulation Program | Daniel Hammon | [Read More](https://medium.com/p/709bc66ce05f) |
+| Sun, 12 Oct 2025 23:54:01 GMT | ⚠️ Wallets Just Lost $21 Million in One Hour, And It Could Happen to Yours! | Crypto Savvy | [Read More](https://medium.com/p/5c3ad4c48cc2) |
+| Sun, 12 Oct 2025 23:51:42 GMT | On Vulnerability and the Body as Medium | Shawn D Crabtree | [Read More](https://medium.com/p/5550d2eddc3e) |
+| Sun, 12 Oct 2025 23:32:56 GMT | Fake CAPTCHAs: The Deceptive Gatekeepers of the Web | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/560a3af80203) |
 | Sun, 12 Oct 2025 23:28:55 GMT | HackTheBox - Certified | jniket | [Read More](https://medium.com/p/0939fbee319b) |
 | Sun, 12 Oct 2025 23:25:04 GMT | Reconnaissance 101: Pasif ve Aktif Keşif Teknikleri | Burak Akgül | [Read More](https://medium.com/p/3b5aa1dacf83) |
 | Sun, 12 Oct 2025 23:24:05 GMT | The Mammoth Hunt: Inside a Sophisticated Russian Phishing Operation Targeting Steam Users | Schxd3n | [Read More](https://medium.com/p/5510d651f380) |
@@ -64,6 +78,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 18:50:16 GMT | Top 10 Cybersecurity Medium Publications | Tal Eliyahu | [Read More](https://medium.com/p/1bd4b13d0155) |
 | Sun, 12 Oct 2025 18:43:37 GMT | The Ghost in the Admin’s Wallet: A Tale of Unauthorized Access | CYX | [Read More](https://medium.com/p/06d8b6b7984b) |
 | Sun, 12 Oct 2025 18:38:37 GMT | Digital Danger Zones: Mobile App Trap Nation — The Hidden Risks Behind “Free” Mobile Apps | Ahmed Zouhair | [Read More](https://medium.com/p/3515976a0dba) |
+| Sun, 12 Oct 2025 18:38:19 GMT | Privancer: Protección de Datos y Seguridad Online - Guía Definitiva de Privacidad Digital 2025 | Guarimata Carlos | [Read More](https://medium.com/p/890e5c46ed68) |
 | Sun, 12 Oct 2025 18:29:41 GMT | The Enshitification of Technical Leadership | Shad Collins | [Read More](https://medium.com/p/412fa6aa58f6) |
 | Sun, 12 Oct 2025 18:28:15 GMT | Hack The Box — TombWatcher Season 8 Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/0a3a4a730289) |
 | Sun, 12 Oct 2025 18:24:49 GMT | Metasploit: Meterpreter — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/719db4f256f1) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Oct 2025 16:56:44 GMT | The Toughest Phase of Life Isn’t the End or the Beginning | Ink Within | [Read More](https://medium.com/p/3f7059dfd513) |
 | Sun, 12 Oct 2025 16:53:35 GMT | Unicorn Engine 101: Solving a Polyglot CTF Challenge | Lior Ben Moha | [Read More](https://medium.com/p/3dc159db2710) |
 | Sun, 12 Oct 2025 16:50:44 GMT | Rust in Production: Why Reliability Is Worth the Learning Curve | Michael Preston | [Read More](https://medium.com/p/7f51f41a46e3) |
-| Sun, 12 Oct 2025 16:46:10 GMT | Automate Malware Analysis with This Advanced Python Sandboxing Tool | Shantnu K. | [Read More](https://medium.com/p/2684e5a561b8) |
-| Sun, 12 Oct 2025 16:43:46 GMT | MediaTek Dimensity 9400 Series Powers 2025 Gaming Flagships, Outperforming Expectations Worldwide | Rakesh Sahani | [Read More](https://medium.com/p/35b922d5d59b) |
-| Sun, 12 Oct 2025 16:39:24 GMT | Reflected XSS into HTML context with nothing encoded | Hussin Ibrahim | [Read More](https://medium.com/p/52657d52a05b) |
-| Sun, 12 Oct 2025 16:29:47 GMT | How to break RSA? A guide for Hackers and CTF players to crack the RSA encryption algorithm | Huzaifa Malik | [Read More](https://medium.com/p/c26f64ab0f35) |
-| Sun, 12 Oct 2025 16:16:56 GMT | Scythe: An AI-Powered CyberSecurity Workbench | Kanishk Rai | [Read More](https://medium.com/p/616d00f7461c) |
-| Sun, 12 Oct 2025 16:14:05 GMT | Mastering Seccomp Filters in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/f633f07eaec2) |
-| Sun, 12 Oct 2025 16:10:50 GMT | Free1000Update: A Trusted Telegram Hub for Digital News and Online Opportunities | Chidubemnwokolo | [Read More](https://medium.com/p/7cc73588a5a8) |
-| Sun, 12 Oct 2025 16:08:37 GMT | Patchwork | Abdo Ayman | [Read More](https://medium.com/p/6f7c5fb401f2) |
-| Sun, 12 Oct 2025 16:06:43 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/4796cc4bfc2c) |
-| Sun, 12 Oct 2025 16:00:07 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/b3d3659a5f50) |
-| Sun, 12 Oct 2025 15:59:47 GMT | Week 13 — React Optimization: Code Splitting, Bundling & Source Map Risks | Aang | [Read More](https://medium.com/p/962c08435a83) |
-| Sun, 12 Oct 2025 15:56:11 GMT | HacktheBox: Active Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/a4fbf95a932a) |
-| Sun, 12 Oct 2025 15:53:20 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b819ef1e284d) |
-| Sun, 12 Oct 2025 15:51:44 GMT | Trust, But Verify: The Ghosts Lurking in AI Security Alerts | Jyostnavya Jakkapu | [Read More](https://medium.com/p/91fc41d45b34) |
-| Sun, 12 Oct 2025 15:49:00 GMT | Understanding Fast Flux in Cybersecurity | JahdiSec | [Read More](https://medium.com/p/b49c4b5f274c) |
