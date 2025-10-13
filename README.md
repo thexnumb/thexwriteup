@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 14:17:56 GMT | Microsoft ends supports for Windows 10 | James N | [Read More](https://medium.com/p/75705b4ffb33) |
+| Mon, 13 Oct 2025 14:16:01 GMT | Industrial IoT (IIoT) Security: Protecting the Smart Factory | Cyberkech | [Read More](https://medium.com/p/cc8890c172ea) |
+| Mon, 13 Oct 2025 14:10:27 GMT | The Hidden Danger in Your AI: A Third of Key MCP Servers are Critically Flawed | Gireesh C Samrat | [Read More](https://medium.com/p/b149c706d225) |
+| Mon, 13 Oct 2025 14:09:58 GMT | 2025’s Top Cyber Threats, October 13: What’s Lurking in the Stack | InGBTech | [Read More](https://medium.com/p/a3c93a5e284e) |
+| Mon, 13 Oct 2025 14:08:52 GMT | The Expulsion | Ehi Ella | [Read More](https://medium.com/p/136c700126da) |
+| Mon, 13 Oct 2025 14:08:51 GMT | The First Bounty: More Than Just a Payday | Sunny Jha | [Read More](https://medium.com/p/bd3e8abeac01) |
+| Mon, 13 Oct 2025 14:05:58 GMT | Kubernetes Admission Controllers: Deep Dive with Practical Demo | @Harsh | [Read More](https://medium.com/p/fc0dd67ba9fb) |
+| Mon, 13 Oct 2025 14:03:22 GMT | Cyber Briefing: 2025.10.13 | CyberMaterial | [Read More](https://medium.com/p/2c48658cdc0f) |
+| Mon, 13 Oct 2025 14:02:20 GMT | ️‍♀️ Find Out If Your Data’s Been Leaked | Micah Thornton | [Read More](https://medium.com/p/75cb772ca086) |
+| Mon, 13 Oct 2025 14:00:55 GMT | Scalability and Simplicity — Why Abatis Works Anywhere | Abatis ABTU | [Read More](https://medium.com/p/de3531c172c5) |
+| Mon, 13 Oct 2025 13:57:23 GMT | Waivern update nr 4, week 42 — starting to parse policies for compliance using AI | Vincent Nunan | [Read More](https://medium.com/p/d46d65587b52) |
+| Mon, 13 Oct 2025 13:52:49 GMT | How to Quantify and Improve Execution Capability in AI Programs | Shirish Hardikar | [Read More](https://medium.com/p/43a23036352d) |
+| Mon, 13 Oct 2025 13:52:06 GMT | This Week in Resilience - October 13, 2025 | Sherilyn Burris | [Read More](https://medium.com/p/d100248ea541) |
+| Mon, 13 Oct 2025 13:50:50 GMT | Vatican Deadline Passed — 192 Lawsuits Begin for Theft of Royal Lineage” | Richard Encarnacion, MBA, Ph.D. | [Read More](https://medium.com/p/659098772269) |
+| Mon, 13 Oct 2025 13:45:48 GMT | Dasar Dasar Network Security, Apa itu Firewall? | Aditya Muhamad Putra P. | [Read More](https://medium.com/p/19d80592bb7a) |
+| Mon, 13 Oct 2025 13:45:27 GMT | Dataset and Distribution | Riccardo Giacinti | [Read More](https://medium.com/p/c162d6c1d3a3) |
+| Mon, 13 Oct 2025 13:42:05 GMT | Brave | JoEllen Claypool | [Read More](https://medium.com/p/262f76995fae) |
+| Mon, 13 Oct 2025 13:39:00 GMT | How I Found a Hidden Security Risk in Our Spring Boot Application | Ibtissam hammadi | [Read More](https://medium.com/p/332ba7df530d) |
+| Mon, 13 Oct 2025 13:38:14 GMT | How the Right Security Guards Company in Singapore Can Minimize Risks | Jane Tang | [Read More](https://medium.com/p/3f409a915745) |
+| Mon, 13 Oct 2025 13:37:05 GMT | CTF Walkthrough: Proving Grounds (Play) — loly | Maxwell Ferreira | [Read More](https://medium.com/p/d746fcb8b1b0) |
+| Mon, 13 Oct 2025 13:35:29 GMT | Vulnhub Sar2Html walkthrough | cyber pancake | [Read More](https://medium.com/p/972e603b232e) |
+| Mon, 13 Oct 2025 13:32:51 GMT | LangChain for .NET Developers — Simplifying AI Workflows | Tanisha Rout | [Read More](https://medium.com/p/57597d414679) |
+| Mon, 13 Oct 2025 13:31:10 GMT | Ethical Hacking in New Jersey: Why It Matters (And How TheSamurai Helps) | Techwarehut Seo | [Read More](https://medium.com/p/622ff22e2561) |
+| Mon, 13 Oct 2025 13:30:22 GMT | Understanding CORS (Cross-Origin Resource Sharing) — The Hidden Guardian of Web Security | Pavan pitthdiya | [Read More](https://medium.com/p/1ca52302272f) |
+| Mon, 13 Oct 2025 13:29:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/74a2332d890f) |
 | Mon, 13 Oct 2025 13:20:01 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/be82cd676b7d) |
 | Mon, 13 Oct 2025 13:18:52 GMT | Step-by-Step Guide to Implementing Information Security in Your Company | kiran mv | [Read More](https://medium.com/p/12b76319fc1f) |
 | Mon, 13 Oct 2025 13:17:26 GMT | Snoopy & The Great Mystery Club Download Adventure Game | Saifalrehmans | [Read More](https://medium.com/p/16d75828fb1a) |
@@ -32,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 12:49:35 GMT | Pandemics, EMPs, Cyber Attacks | Cole Burnham | [Read More](https://medium.com/p/62ce03c33aa7) |
 | Mon, 13 Oct 2025 12:48:16 GMT | Mapping Dark Web Infrastructure | Netlas.io | [Read More](https://medium.com/p/5c956a3564f8) |
 | Mon, 13 Oct 2025 12:48:01 GMT | Static Application Security Testing (SAST) | Cyber Security Research | [Read More](https://medium.com/p/882fe17b2838) |
+| Mon, 13 Oct 2025 12:43:16 GMT | Contrats : les 6 erreurs qui font exploser vos budgets | Abrennis | [Read More](https://medium.com/p/921144f38b6f) |
 | Mon, 13 Oct 2025 12:42:02 GMT | Authentication vulnerabilities(Part-2) | Ashutosh Jena | [Read More](https://medium.com/p/9fd36218e81a) |
 | Mon, 13 Oct 2025 12:40:33 GMT | Exercise 2 — Assign the Application Administrator Role and Create an App | Azhariqbal | [Read More](https://medium.com/p/25f4934408c4) |
 | Mon, 13 Oct 2025 12:39:34 GMT | Building a Hybrid Intrusion Detection System using SMOTE, KGSOMTE, and Autoencoders | Nouri Baher | [Read More](https://medium.com/p/059a96b0539d) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 10:35:58 GMT | So You Want to Be a CTI Analyst? The Ultimate Career Guide | Adam Goss | [Read More](https://medium.com/p/dc4100a01554) |
 | Mon, 13 Oct 2025 10:30:35 GMT | Is Google Cloud the Secret to Scalable Success? | Mohammed Numan | [Read More](https://medium.com/p/d7bbd78312cd) |
 | Mon, 13 Oct 2025 10:25:31 GMT | Master Cybersecurity Skills with Certified Ethical Hacker V13 (CEH) Certification | Certocean | [Read More](https://medium.com/p/202a18a71851) |
-| Mon, 13 Oct 2025 10:21:44 GMT | Defenses Against Exploit Development — DEP (NX), ASLR and Beyond | Esra Kayhan | [Read More](https://medium.com/p/269191cd65da) |
-| Mon, 13 Oct 2025 10:21:21 GMT | 1: Project Motivation & Diffie-Hellman | Daniele Frisanco | [Read More](https://medium.com/p/22ca785298e8) |
-| Mon, 13 Oct 2025 10:11:37 GMT | “My First Month at Apto” | Apto Solutions | [Read More](https://medium.com/p/e44ae7e6b0f9) |
-| Mon, 13 Oct 2025 10:11:01 GMT | ️ Advanced DNS Tunneling for Data Exfiltration Testing | Esra Kayhan | [Read More](https://medium.com/p/155d523efdba) |
-| Mon, 13 Oct 2025 10:07:02 GMT | DockerLabs Writeup — Fileception (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7787a19a4458) |
-| Mon, 13 Oct 2025 10:01:50 GMT | Five Fast Wins to Cut Phishing Risk For Small Teams (Without Buying a Gateway) | Aysha Saifi | [Read More](https://medium.com/p/fea2857ed2cd) |
-| Mon, 13 Oct 2025 10:01:22 GMT | Cypress vs Selenium: Which Testing Tool Is Right for You in 2025? | Anete | [Read More](https://medium.com/p/8c5dd42943a4) |
-| Mon, 13 Oct 2025 09:56:31 GMT | Container Security Implementation and Troubleshooting | Eren Cankut Uysal | [Read More](https://medium.com/p/cb6da73bece9) |
-| Mon, 13 Oct 2025 09:50:16 GMT | Top-Rated Cyber Security Classes Kerala: Become a Certified Expert with Techmindz | TMZ Work | [Read More](https://medium.com/p/bf7b28c5dbac) |
-| Mon, 13 Oct 2025 09:50:04 GMT | Scaling Secret Detection Across Your Organization with TruffleHog and Reusable GitHub Actions | Femi Oyesanya | [Read More](https://medium.com/p/4ff10df5998e) |
-| Mon, 13 Oct 2025 09:40:22 GMT | When ‘Just a Config Issue’ Becomes a Full Data Breach | Sushant Soni | [Read More](https://medium.com/p/e7c769f6872b) |
-| Mon, 13 Oct 2025 09:38:48 GMT | Building a Smarter, Stronger Future: How a Healthcare App Development Company is Revolutionizing… | Inaayathakurr | [Read More](https://medium.com/p/8ab71ed4c40f) |
-| Mon, 13 Oct 2025 09:38:05 GMT | Cyberdefenders Ramnit — Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/b14ce40a8a79) |
-| Mon, 13 Oct 2025 09:36:51 GMT | DarkForums — database leaks | Chloe Tan | [Read More](https://medium.com/p/16f8f9b9ad69) |
-| Mon, 13 Oct 2025 09:31:39 GMT | How to Start VAPT for Beginners ️ | VAPTify | [Read More](https://medium.com/p/d9d2a090e9a2) |
-| Mon, 13 Oct 2025 09:31:18 GMT | What a Mature IAM Foundation Actually Looks Like (Through Okta’s Lens) | Justin Jackson | [Read More](https://medium.com/p/4158fb158695) |
-| Mon, 13 Oct 2025 09:27:47 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/11e1610196f2) |
-| Mon, 13 Oct 2025 09:25:33 GMT | 6 Job Guarantee Courses in India to Kickstart Your Bright Career | Evision Technoserve | [Read More](https://medium.com/p/ec338972e2c2) |
-| Mon, 13 Oct 2025 09:20:27 GMT | Reporting Friday — Turning Findings Into Storytelling That Matters | checkm4te | [Read More](https://medium.com/p/5c09fce10cd0) |
-| Mon, 13 Oct 2025 09:18:44 GMT | City Locksmith — Professional Lock & Security Solutions | The Lock Specialist Ltd | [Read More](https://medium.com/p/ac5cf6ce42d3) |
-| Mon, 13 Oct 2025 09:16:35 GMT | Offensive Security Intro | Dragon Hex | [Read More](https://medium.com/p/c26595f700f5) |
-| Mon, 13 Oct 2025 09:16:25 GMT | Ghauri untuk Sql Injection | Ginda Sundara | [Read More](https://medium.com/p/8ced8fcbf7db) |
-| Mon, 13 Oct 2025 09:15:03 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/366aaf2cc36a) |
-| Mon, 13 Oct 2025 09:11:01 GMT | UFW Firewall Mastery: Everything You Need to Secure Linux | bektiaw | [Read More](https://medium.com/p/85733cd806d0) |
-| Mon, 13 Oct 2025 09:10:56 GMT | Can I Haz Root? :: Archetype | Cyber Grover ‍ | [Read More](https://medium.com/p/563a6416c96e) |
-| Mon, 13 Oct 2025 09:09:10 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/4ac442c8fb6c) |
