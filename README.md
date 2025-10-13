@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 09:40:22 GMT | When ‘Just a Config Issue’ Becomes a Full Data Breach | Sushant Soni | [Read More](https://medium.com/p/e7c769f6872b) |
+| Mon, 13 Oct 2025 09:36:51 GMT | DarkForums — database leaks | Chloe Tan | [Read More](https://medium.com/p/16f8f9b9ad69) |
+| Mon, 13 Oct 2025 09:31:39 GMT | How to Start VAPT for Beginners ️ | VAPTify | [Read More](https://medium.com/p/d9d2a090e9a2) |
+| Mon, 13 Oct 2025 09:31:18 GMT | What a Mature IAM Foundation Actually Looks Like (Through Okta’s Lens) | Justin Jackson | [Read More](https://medium.com/p/4158fb158695) |
+| Mon, 13 Oct 2025 09:27:47 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/11e1610196f2) |
+| Mon, 13 Oct 2025 09:25:33 GMT | 6 Job Guarantee Courses in India to Kickstart Your Bright Career | Evision Technoserve | [Read More](https://medium.com/p/ec338972e2c2) |
 | Mon, 13 Oct 2025 09:20:27 GMT | Reporting Friday — Turning Findings Into Storytelling That Matters | checkm4te | [Read More](https://medium.com/p/5c09fce10cd0) |
 | Mon, 13 Oct 2025 09:18:44 GMT | City Locksmith — Professional Lock & Security Solutions | The Lock Specialist Ltd | [Read More](https://medium.com/p/ac5cf6ce42d3) |
 | Mon, 13 Oct 2025 09:16:35 GMT | Offensive Security Intro | Dragon Hex | [Read More](https://medium.com/p/c26595f700f5) |
@@ -107,9 +113,3 @@ Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://mediu
 | Mon, 13 Oct 2025 04:02:06 GMT | Offsec’s Echo Response: ProtoVault Breach Write-up | Cookiez Corner | [Read More](https://medium.com/p/f5fcfffbfd0c) |
 | Mon, 13 Oct 2025 04:01:31 GMT | How a Tiny Regex Almost Crashed the Internet (Yes, Even Behind Cloudflare) | Yash Mangal | [Read More](https://medium.com/p/7b325bc84586) |
 | Mon, 13 Oct 2025 03:59:38 GMT | GZR Observer — India Geo Perspective — Week of Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/185e20b86148) |
-| Mon, 13 Oct 2025 03:57:33 GMT | How I Won $10K by Finding an AWS Misconfiguration in an App (And What You Can Learn) | Mandar Satam | [Read More](https://medium.com/p/990ee90b4f05) |
-| Mon, 13 Oct 2025 03:55:40 GMT | 22. How to Get Invites to Private Programs | Abhijeet kumawat | [Read More](https://medium.com/p/9bbb51664e21) |
-| Mon, 13 Oct 2025 03:53:05 GMT | How I Stole an AI’s Brain (Legally) and Cashed Out | Iski | [Read More](https://medium.com/p/95b3848bcf6b) |
-| Mon, 13 Oct 2025 03:52:01 GMT | When AI Means Agent, Leak, & Chips: The Hidden Vectors We Need to Guard | Vishal Chawathe | [Read More](https://medium.com/p/1498d628f299) |
-| Mon, 13 Oct 2025 03:44:55 GMT | The Ninth Angel: Matarael, the Angel of Rain — The Corrosion and Gradual Collapse of AI Systems | Scott Huang | [Read More](https://medium.com/p/f1583eba3c0a) |
-| Mon, 13 Oct 2025 03:31:46 GMT | 10 Common Mistakes in Node.js Transaction Management | Arunangshu Das | [Read More](https://medium.com/p/24ef6298e9d8) |
