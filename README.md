@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 16:41:25 GMT | Broken Access Control — TryHackMe Room Walkthrough | Asif.k | [Read More](https://medium.com/p/8ff7f9ecf834) |
+| Mon, 13 Oct 2025 16:40:41 GMT | How to Start Learning AI Automation Fundamentals | Annette Partida | [Read More](https://medium.com/p/5dacec4d9970) |
+| Mon, 13 Oct 2025 16:29:25 GMT | Microsoft Events Leak, Part II: Leaking Event Registration Database Again | Faav | [Read More](https://medium.com/p/069050664475) |
+| Mon, 13 Oct 2025 16:26:53 GMT | Containerized Development: My Security Layer for AI Coding Tools | Dan Jam Kuhn | [Read More](https://medium.com/p/df48ac4af3e4) |
 | Mon, 13 Oct 2025 16:10:20 GMT | Breaking Free | Drew Lisso | [Read More](https://medium.com/p/9199d621b25c) |
 | Mon, 13 Oct 2025 16:04:03 GMT | Mastering C2 Infrastructure with SSH: Step-by-Step Guide to Building Your Own Hacker Control Center | Very Lazy Tech | [Read More](https://medium.com/p/42e3f9eff829) |
 | Mon, 13 Oct 2025 16:03:46 GMT | Escape Windows Machine Writeup from Hackthebox | Cyb0rgBytes | [Read More](https://medium.com/p/198e597a3c9b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 12:08:24 GMT | Setting up trust relationships between domains | Windows Guide | [Read More](https://medium.com/p/81d9d1349272) |
 | Mon, 13 Oct 2025 12:07:07 GMT | Stop Applying Blindly! Let AI Find Your Dream Job (It Actually Works ) | Testleaf | [Read More](https://medium.com/p/9f18bc67c944) |
 | Mon, 13 Oct 2025 12:00:50 GMT | Blue Team Yol Haritası: SOC, SIEM, Threat Hunting | Taha Altın | [Read More](https://medium.com/p/4372b135b310) |
-| Mon, 13 Oct 2025 12:00:29 GMT | More Dangerous Than Mistakes — Agreement Without Meaning | Roman ALEFAIDEA | [Read More](https://medium.com/p/983f91c1a02d) |
-| Mon, 13 Oct 2025 11:55:53 GMT | Configuring fine-grained password policies | Windows Guide | [Read More](https://medium.com/p/17f6b1ac9e90) |
-| Mon, 13 Oct 2025 11:55:28 GMT | AthenaGPT for Prompts, AresGPT for Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/6d66c33950bd) |
-| Mon, 13 Oct 2025 11:54:47 GMT | Cybersecurity Risk Management Through Maturity Assessment | Vishwajeettechtech | [Read More](https://medium.com/p/a8eaec19f104) |
