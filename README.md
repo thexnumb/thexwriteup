@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 23:19:24 GMT | Firewalls Unleashed: Implementing Network Defense with pfSense | Antriksh Saini | [Read More](https://medium.com/p/ffc5bee87616) |
 | Mon, 13 Oct 2025 22:46:22 GMT | Token Expired Error and IDOR: Unauthorized Access in an ASP.NET Application | Hamit CİBO | [Read More](https://medium.com/p/70a3f69b10cc) |
 | Mon, 13 Oct 2025 22:41:46 GMT | Zero Trust – a Doctrine Without Deliverance | George Sidman | [Read More](https://medium.com/p/2eef69f7cfeb) |
 | Mon, 13 Oct 2025 22:40:55 GMT | You can’t protect your heart by pretending not to have one | Arisa Thomas | [Read More](https://medium.com/p/4509e7b5e380) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 17:01:47 GMT | AI Cybersecurity and Software: Where the World is Hiring Now | Lab7AI | [Read More](https://medium.com/p/2f766884e289) |
 | Mon, 13 Oct 2025 17:01:47 GMT | Handle Hunt: Claim Your Username Across the Web | Micah Thornton | [Read More](https://medium.com/p/2caa6f6f17f5) |
 | Mon, 13 Oct 2025 16:58:23 GMT | TryHackMe - Shadow Trace - WriteUp | Axoloth | [Read More](https://medium.com/p/f18676207751) |
-| Mon, 13 Oct 2025 16:57:10 GMT | 6HTMLAttributes | Rana Awais | [Read More](https://medium.com/p/259eaf47486f) |
