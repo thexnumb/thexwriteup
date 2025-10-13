@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 21:27:19 GMT | We are villains in our own story — How to avoid bugs | Wisdom John ikoi | [Read More](https://medium.com/p/ebb5830fff5e) |
+| Mon, 13 Oct 2025 21:24:20 GMT | BehindTheScreens: The Cybersecurity Landscape This Week — Breaches, Policy Gaps, and a Shifting… | Sam - Behind The Screens | [Read More](https://medium.com/p/432ee970ecd4) |
+| Mon, 13 Oct 2025 21:24:01 GMT | Your Chat App Just Became a Secret Backdoor | sudo whoami | [Read More](https://medium.com/p/cb95b7522d71) |
 | Mon, 13 Oct 2025 21:12:55 GMT | Stop Giving Away Your Location — How WhatsApp’s New Tricks Save Your IP | Steve Matindi | [Read More](https://medium.com/p/0f3e53830574) |
 | Mon, 13 Oct 2025 21:04:23 GMT | How the cookie crumbls | Collin potter | [Read More](https://medium.com/p/085614ecd0dd) |
 | Mon, 13 Oct 2025 21:02:05 GMT | The AI Paradox in this New Era of National Security | Ian McIntire | [Read More](https://medium.com/p/9b539b53f5b4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 16:29:25 GMT | Microsoft Events Leak, Part II: Leaking Event Registration Database Again | Faav | [Read More](https://medium.com/p/069050664475) |
 | Mon, 13 Oct 2025 16:26:53 GMT | Containerized Development: My Security Layer for AI Coding Tools | Dan Jam Kuhn | [Read More](https://medium.com/p/df48ac4af3e4) |
 | Mon, 13 Oct 2025 16:10:20 GMT | Breaking Free | Drew Lisso | [Read More](https://medium.com/p/9199d621b25c) |
-| Mon, 13 Oct 2025 16:04:03 GMT | Mastering C2 Infrastructure with SSH: Step-by-Step Guide to Building Your Own Hacker Control Center | Very Lazy Tech | [Read More](https://medium.com/p/42e3f9eff829) |
-| Mon, 13 Oct 2025 16:03:46 GMT | Escape Windows Machine Writeup from Hackthebox | Cyb0rgBytes | [Read More](https://medium.com/p/198e597a3c9b) |
-| Mon, 13 Oct 2025 16:02:27 GMT | How Free License Sites Work and Are They Legal? | SAWAHITS | [Read More](https://medium.com/p/78d3d00ec762) |
