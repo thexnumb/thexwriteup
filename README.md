@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 21:12:55 GMT | Stop Giving Away Your Location — How WhatsApp’s New Tricks Save Your IP | Steve Matindi | [Read More](https://medium.com/p/0f3e53830574) |
+| Mon, 13 Oct 2025 21:04:23 GMT | How the cookie crumbls | Collin potter | [Read More](https://medium.com/p/085614ecd0dd) |
+| Mon, 13 Oct 2025 21:02:05 GMT | The AI Paradox in this New Era of National Security | Ian McIntire | [Read More](https://medium.com/p/9b539b53f5b4) |
+| Mon, 13 Oct 2025 20:58:15 GMT | My Cybersecurity Journey: Building Skills One Lab at a Time | Ali Raza | [Read More](https://medium.com/p/e5d834d57a81) |
+| Mon, 13 Oct 2025 20:54:47 GMT | Why Curiosity Is the Best Security Tool We Have | Logs&Lattes | [Read More](https://medium.com/p/c3b2832efb9f) |
+| Mon, 13 Oct 2025 20:51:52 GMT | IT Security Audits: The Foundation of a Strong Cyber Defense | SafeAeon Inc. | [Read More](https://medium.com/p/6831105f24e2) |
+| Mon, 13 Oct 2025 20:50:52 GMT | SOC Automation Project — Wazuh, Shuffle, and TheHive Integration | Syed Mohd Hassan | [Read More](https://medium.com/p/b49219867f57) |
+| Mon, 13 Oct 2025 20:44:02 GMT | Pegasus Spyware Email Scam: How to Detect and Avoid This Silent Threat | SafeAeon Inc. | [Read More](https://medium.com/p/c473d1dcf8ba) |
+| Mon, 13 Oct 2025 20:35:37 GMT | Understanding How Centurion Tracks and Analyzes System Processes | Alex Cabrera | [Read More](https://medium.com/p/e3fb3d70713c) |
 | Mon, 13 Oct 2025 20:29:57 GMT | Artigo: Introdução à Segurança Ofensiva (TryHackMe) | Wesley Santos | [Read More](https://medium.com/p/ff2fa26a3536) |
+| Mon, 13 Oct 2025 20:28:35 GMT | Top 11 cyber stories (Week: Oct 6– Oct 13, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/964912ce5282) |
 | Mon, 13 Oct 2025 20:17:48 GMT | The Scam Economy: How Unemployment Is Turning Young Indians into Online Criminals | Mrinal Kumar | [Read More](https://medium.com/p/2c0ceb593e5c) |
 | Mon, 13 Oct 2025 20:15:23 GMT | Graph Theory in Cybersecurity: Mapping, Detection, and Defense | Hussain | [Read More](https://medium.com/p/3cadd1541a43) |
 | Mon, 13 Oct 2025 20:09:11 GMT | Çok Şükür 10 Senenin Sonunda USOM: Ulusal Siber Olaylara Müdahale Merkezi’de Beni Onayladı | Ertugrul Akbas | [Read More](https://medium.com/p/41fcd2894ebc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 16:04:03 GMT | Mastering C2 Infrastructure with SSH: Step-by-Step Guide to Building Your Own Hacker Control Center | Very Lazy Tech | [Read More](https://medium.com/p/42e3f9eff829) |
 | Mon, 13 Oct 2025 16:03:46 GMT | Escape Windows Machine Writeup from Hackthebox | Cyb0rgBytes | [Read More](https://medium.com/p/198e597a3c9b) |
 | Mon, 13 Oct 2025 16:02:27 GMT | How Free License Sites Work and Are They Legal? | SAWAHITS | [Read More](https://medium.com/p/78d3d00ec762) |
-| Mon, 13 Oct 2025 16:02:13 GMT | IT Support in Clapham for Hybrid Workforces | Gary Marshall | [Read More](https://medium.com/p/b43341f6d19e) |
-| Mon, 13 Oct 2025 16:00:47 GMT | Why You Shouldn’t Give Full Gallery Access to Apps ️ | Juned Silavat | [Read More](https://medium.com/p/e1d5094d62ae) |
-| Mon, 13 Oct 2025 15:53:36 GMT | Celebrating Cybersecurity Awareness Month: How Rainbow Secure Is Leading the Charge Against… | Dr. Shashi Karhail | [Read More](https://medium.com/p/8877f0550028) |
-| Mon, 13 Oct 2025 15:53:29 GMT | Managed Detection and Response Market Strategy and Remarkable Growth Rate By 2030 | Technology Geek | [Read More](https://medium.com/p/18be372bb618) |
-| Mon, 13 Oct 2025 15:52:39 GMT | Event Services in London: Turning Complex Events into Seamless Experiences | waeventservices.co.uk/ | [Read More](https://medium.com/p/eb6879d9583c) |
-| Mon, 13 Oct 2025 15:48:24 GMT | How to Ensure Network Security with Modern Business Internet Solutions | Defend My Business | [Read More](https://medium.com/p/ee6827aaa09e) |
-| Mon, 13 Oct 2025 15:45:21 GMT | Is Someone Spying on Your Phone? How Beldex Protects Your Confidentiality | BELDEX | [Read More](https://medium.com/p/4990fcab7fa6) |
-| Mon, 13 Oct 2025 15:38:57 GMT | Installing Kali Linux on WSL+BeEF | Beebek Sharma | [Read More](https://medium.com/p/cb6fa0719de6) |
-| Mon, 13 Oct 2025 15:38:27 GMT | Abusing Resource-Based Constrained Delegation (RBCD) in Kerberos | SeverSerenity | [Read More](https://medium.com/p/c56b920b81e6) |
-| Mon, 13 Oct 2025 15:35:47 GMT | Why Can’t We Say What We Feel? | Aditi | [Read More](https://medium.com/p/14480cdd18f2) |
