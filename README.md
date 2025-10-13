@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 12:42:02 GMT | Authentication vulnerabilities(Part-2) | Ashutosh Jena | [Read More](https://medium.com/p/9fd36218e81a) |
+| Mon, 13 Oct 2025 12:34:25 GMT | Tech Support Services That Keep Your Business Running Smoothly | Swathi Kamale | [Read More](https://medium.com/p/44ad1c769be1) |
+| Mon, 13 Oct 2025 12:27:14 GMT | Getting Started with grep in Linux (Day 4 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/1eb494d7d951) |
+| Mon, 13 Oct 2025 12:24:24 GMT | Security tip of the day : Enable Controlled Folder Access to Block Ransomware | lu-abbey | [Read More](https://medium.com/p/012d9996f83d) |
+| Mon, 13 Oct 2025 12:15:38 GMT | DAY 13:️‍♂️ The Invisible Enemy: Understanding Modern Cybercrime | Aysha Misri | [Read More](https://medium.com/p/f1dbb8b9a0b9) |
+| Mon, 13 Oct 2025 12:14:05 GMT | Create a Custom Root Certificate Authority for Self-Signed Certificates | BEN ABT | [Read More](https://medium.com/p/be2c5bbe76ae) |
+| Mon, 13 Oct 2025 12:11:02 GMT | 04- Kali Linux -Initial Access: Turning Resources into Access | SDNTechForum | [Read More](https://medium.com/p/deccbb5962f1) |
+| Mon, 13 Oct 2025 12:09:25 GMT | PASSWORDLESS FUTURE: The End of Passwords, OTPs, and The Rise of New Digital IdentityPasswords are… | Chisom Emerom | [Read More](https://medium.com/p/e1ea849fc157) |
+| Mon, 13 Oct 2025 12:09:12 GMT | Bodyroot Access: Penetration Testing Your Own Nervous System | Aeon Dexrane | [Read More](https://medium.com/p/49830c62f240) |
+| Mon, 13 Oct 2025 12:08:24 GMT | Setting up trust relationships between domains | Windows Guide | [Read More](https://medium.com/p/81d9d1349272) |
+| Mon, 13 Oct 2025 12:07:07 GMT | Stop Applying Blindly! Let AI Find Your Dream Job (It Actually Works ) | Testleaf | [Read More](https://medium.com/p/9f18bc67c944) |
+| Mon, 13 Oct 2025 12:00:50 GMT | Blue Team Yol Haritası: SOC, SIEM, Threat Hunting | Taha Altın | [Read More](https://medium.com/p/4372b135b310) |
+| Mon, 13 Oct 2025 12:00:29 GMT | More Dangerous Than Mistakes — Agreement Without Meaning | Roman ALEFAIDEA | [Read More](https://medium.com/p/983f91c1a02d) |
+| Mon, 13 Oct 2025 11:55:53 GMT | Configuring fine-grained password policies | Windows Guide | [Read More](https://medium.com/p/17f6b1ac9e90) |
+| Mon, 13 Oct 2025 11:55:28 GMT | AthenaGPT for Prompts, AresGPT for Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/6d66c33950bd) |
+| Mon, 13 Oct 2025 11:54:47 GMT | Cybersecurity Risk Management Through Maturity Assessment | Vishwajeettechtech | [Read More](https://medium.com/p/a8eaec19f104) |
+| Mon, 13 Oct 2025 11:54:12 GMT | Modern Penetration Testing: Combining Automation, Manual Skill, and Threat Context | Michael Preston | [Read More](https://medium.com/p/c54f85c29999) |
+| Mon, 13 Oct 2025 11:51:51 GMT | How I Got Into the Admin Panel (Using Credentials That Didn’t Even Exist) | Rehan Ansari | [Read More](https://medium.com/p/3aa14a6bd836) |
+| Mon, 13 Oct 2025 11:48:48 GMT | The Silent Advantage: Why Storytelling Is Becoming the Most Powerful Tool in IT Marketing | Unika Agency | [Read More](https://medium.com/p/e779305f496c) |
+| Mon, 13 Oct 2025 11:47:53 GMT | Strengthening Your Digital Shield: L4RG’s Comprehensive Cyber Security Solutions | Surya Kumar | [Read More](https://medium.com/p/5cbc4ae0413c) |
+| Mon, 13 Oct 2025 11:44:25 GMT | Simplifying Network Security : Understanding IDS and IPS | Divy | [Read More](https://medium.com/p/31e7cf1b94fe) |
+| Mon, 13 Oct 2025 11:43:46 GMT | Chat Control — The Silence After Light | Aldo Gustavo Malasomma | [Read More](https://medium.com/p/a48382ada8de) |
+| Mon, 13 Oct 2025 11:36:32 GMT | DevSecOps and SRE: A United Front | SRE Mastery | [Read More](https://medium.com/p/7ac7b84fddd1) |
 | Mon, 13 Oct 2025 11:34:55 GMT | Cybersecurity in the Age of AI: Real Threats, Real Solutions -A Live Podcast with Cisco Experts | Aaqib Rajput | [Read More](https://medium.com/p/19e681199981) |
+| Mon, 13 Oct 2025 11:33:26 GMT | Finding a Space to Be Heard (Even If Nobody’s Listening…Yet) | Quiet Bloom | [Read More](https://medium.com/p/bb445cbab430) |
 | Mon, 13 Oct 2025 11:32:19 GMT | SSH (Secure Shell): A Beginner’s Guide | bektiaw | [Read More](https://medium.com/p/a0f071bffba4) |
 | Mon, 13 Oct 2025 11:30:41 GMT | TryHackMe: Wgel CTF - My First Medium Post :) | Hrishikesh Nadkarni | [Read More](https://medium.com/p/fe17750e51d4) |
 | Mon, 13 Oct 2025 11:21:59 GMT | How Cybersecurity Staffing Firms Are Reshaping Tech Hiring in 2025 | Radcliffekitchens | [Read More](https://medium.com/p/b03165336c0a) |
@@ -89,27 +113,3 @@ Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://mediu
 | Mon, 13 Oct 2025 08:08:38 GMT | ChaosBot: il malware Rust che usa Discord per comandare i PC compromessi | Germano Costi | [Read More](https://medium.com/p/b9c926f8388f) |
 | Mon, 13 Oct 2025 08:08:25 GMT | What are the 10 Most Common Types Of Cyber Threats? | cyber security Updates | [Read More](https://medium.com/p/9ca51acd774f) |
 | Mon, 13 Oct 2025 08:06:09 GMT | The Ministry of Commerce Announces that Attachments Will Use WPS Format for the First Time… | BeeRich | [Read More](https://medium.com/p/1b1ac723a19b) |
-| Mon, 13 Oct 2025 08:05:56 GMT | The refletion I haven’t yet learned to love: the versions of me that still live silently inside. | Notes of a Restless Journalist | [Read More](https://medium.com/p/a9687a96cd27) |
-| Mon, 13 Oct 2025 08:03:28 GMT | Android’s September 2025 Vulnerabilities: A Deep Dive into CVE-2025–48543, CVE-2025–38352, and… | Srinath R | [Read More](https://medium.com/p/828b3f4d037a) |
-| Mon, 13 Oct 2025 08:01:49 GMT | What Is Artificial Intelligence and Machine Learning? | AxarTechs | [Read More](https://medium.com/p/d92af1ccfab9) |
-| Mon, 13 Oct 2025 08:01:44 GMT | Stealer Logs to ATO: How One Entry Becomes a Breach | Alexandre Vandamme | [Read More](https://medium.com/p/98ded4c1b142) |
-| Mon, 13 Oct 2025 07:57:14 GMT | How the Astaroth Banking Trojan Hijacks GitHub to Evade Takedowns | Germano Costi | [Read More](https://medium.com/p/ebcf685fee3d) |
-| Mon, 13 Oct 2025 07:55:24 GMT | Crimson Conquest (Crimson Chains Book 3) | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/1f112b81c400) |
-| Mon, 13 Oct 2025 07:54:19 GMT | The WiFi Ghost: How I Found an Unknown Device on My Network | Fateyaly | [Read More](https://medium.com/p/87a6e0a82ebd) |
-| Mon, 13 Oct 2025 07:53:20 GMT | Kurumsal Veri | t. | [Read More](https://medium.com/p/ef367e6e0bdb) |
-| Mon, 13 Oct 2025 07:47:45 GMT | From Nmap to Root: What Open ADB (5555) Lets an Attacker Do (technical journey) | Very Lazy Tech | [Read More](https://medium.com/p/aec9403c431a) |
-| Mon, 13 Oct 2025 07:44:53 GMT | The Dirty Secrets of Tech and Cybersecurity Creators | Motasem Hamdan | [Read More](https://medium.com/p/42ad01cd6b9c) |
-| Mon, 13 Oct 2025 07:43:07 GMT | Reflected in the DOM, Escalated to Account Takeover | 0xP0L73R63157 | [Read More](https://medium.com/p/a378659779c0) |
-| Mon, 13 Oct 2025 07:42:19 GMT | AI Isn’t the Future, It’s the PresentWhy Every Non-Coder Should Learn Prompt Engineering in 2025 | Mamta | [Read More](https://medium.com/p/c70f1f5abf15) |
-| Mon, 13 Oct 2025 07:36:28 GMT | [HackTheBox x VulnlabWrite-up] BabyTwo (Logon script and GPO abuse) | Chicken0248 | [Read More](https://medium.com/p/4fe669c8583d) |
-| Mon, 13 Oct 2025 07:35:01 GMT | Top Security Services in Bangalore: Ensuring Complete Protection for Businesses and Residences | Global Security | [Read More](https://medium.com/p/0c4393b280bb) |
-| Mon, 13 Oct 2025 07:32:07 GMT | Managing Entra ID Configuration and Security using the Terraform MSGraph Provider ❤️ | Brian Veldman | [Read More](https://medium.com/p/f67a76360bc1) |
-| Mon, 13 Oct 2025 07:31:57 GMT | [HackTheBox x VulnlabWrite-up] Baby (Foothold from hidden user to Backup Operator Group abuse) | Chicken0248 | [Read More](https://medium.com/p/84ec3c16c93e) |
-| Mon, 13 Oct 2025 07:31:21 GMT | Prisma SASE App Acceleration: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/34a3fe97e74b) |
-| Mon, 13 Oct 2025 07:29:24 GMT | How to Use AI to Learn Bug Hunting & Cybersecurity Like a Pro (in 2025) | Vipul Sonule | [Read More](https://medium.com/p/4c0a53a209b1) |
-| Mon, 13 Oct 2025 07:26:13 GMT | Telkom Cyberheroes 2025: Strengthening Digital Literacy and Protection for 5,000 Indonesian… | telkomsustainibility | [Read More](https://medium.com/p/d7acd27aa31c) |
-| Mon, 13 Oct 2025 07:23:34 GMT | SOC as a Service: The Future of Managed Cybersecurity for Modern Enterprises | Aaishasharma | [Read More](https://medium.com/p/6075b6a1b033) |
-| Mon, 13 Oct 2025 07:13:33 GMT | How to Secure Salesforce? After 700+ Breaches & 50M Stolen Records | Abhinav Gupta | [Read More](https://medium.com/p/a6684d5b018e) |
-| Mon, 13 Oct 2025 07:08:43 GMT | SQL Injection and IDOR explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/2b5493f30fa0) |
-| Mon, 13 Oct 2025 07:08:23 GMT | How Certificate Pinning Shields Your Fintech App from Hackers — Explained Simply | Takendra Saraswat | [Read More](https://medium.com/p/4c202adcc71c) |
-| Mon, 13 Oct 2025 07:07:24 GMT | The Hidden Role of Statistics in Data Science | Muhummad Zaki | [Read More](https://medium.com/p/59c9b0a0eab6) |
