@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 11:34:55 GMT | Cybersecurity in the Age of AI: Real Threats, Real Solutions -A Live Podcast with Cisco Experts | Aaqib Rajput | [Read More](https://medium.com/p/19e681199981) |
+| Mon, 13 Oct 2025 11:32:19 GMT | SSH (Secure Shell): A Beginner’s Guide | bektiaw | [Read More](https://medium.com/p/a0f071bffba4) |
+| Mon, 13 Oct 2025 11:30:41 GMT | TryHackMe: Wgel CTF - My First Medium Post :) | Hrishikesh Nadkarni | [Read More](https://medium.com/p/fe17750e51d4) |
+| Mon, 13 Oct 2025 11:21:59 GMT | How Cybersecurity Staffing Firms Are Reshaping Tech Hiring in 2025 | Radcliffekitchens | [Read More](https://medium.com/p/b03165336c0a) |
+| Mon, 13 Oct 2025 11:20:16 GMT | From Law and Diplomacy to Tech: My Unexpected Journey (Episode 1) | Nneoma Onuabuchi | [Read More](https://medium.com/p/d1d351f0cb94) |
+| Mon, 13 Oct 2025 11:20:12 GMT | CVE-2025–61927: VM Context Escape in Happy DOM | gm0 | [Read More](https://medium.com/p/398b7cf0fc59) |
+| Mon, 13 Oct 2025 11:19:22 GMT | Warning: BlueceX.com is a Scam — Madacovi.co Saved Me! | Admin | [Read More](https://medium.com/p/123757f3e7a6) |
+| Mon, 13 Oct 2025 11:19:12 GMT | Catch them while you can | DCSO CyTec Blog | [Read More](https://medium.com/p/5c43007ae99e) |
+| Mon, 13 Oct 2025 11:14:20 GMT | Detection Engineering: The Lens That Sharpens Your Security View | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/32eb58c85ff5) |
+| Mon, 13 Oct 2025 11:11:11 GMT | Reserve Bank Information Technology ReBIT Hiring Complete Recruitment Process | Satyajit Thombare | [Read More](https://medium.com/p/eba9c70503db) |
 | Mon, 13 Oct 2025 11:06:32 GMT | How to Really “Hack” Wi-Fi Passwords: Unveiling the Truth & Boosting Your Cyber Smarts | Alexander Hoffmann | [Read More](https://medium.com/p/799f1b7a503f) |
 | Mon, 13 Oct 2025 11:05:37 GMT | Why One Old Hikvision Endpoint Can Break Your Compliance | Rubab Fatima | [Read More](https://medium.com/p/9592cb5b6ed8) |
 | Mon, 13 Oct 2025 11:03:37 GMT | Top Security Audit Mistakes Businesses Make — and How to Avoid Them | SmartCLOUD Australia | [Read More](https://medium.com/p/3635e9a2c9f5) |
@@ -103,13 +113,3 @@ Organized by Mobile Dev Meetup… | Mohammed Shaneaf | [Read More](https://mediu
 | Mon, 13 Oct 2025 07:08:43 GMT | SQL Injection and IDOR explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/2b5493f30fa0) |
 | Mon, 13 Oct 2025 07:08:23 GMT | How Certificate Pinning Shields Your Fintech App from Hackers — Explained Simply | Takendra Saraswat | [Read More](https://medium.com/p/4c202adcc71c) |
 | Mon, 13 Oct 2025 07:07:24 GMT | The Hidden Role of Statistics in Data Science | Muhummad Zaki | [Read More](https://medium.com/p/59c9b0a0eab6) |
-| Mon, 13 Oct 2025 07:06:16 GMT | How IT Companies in Dubai UAE Are Supporting Digital Transformation in the Middle East | Nithish Saitechdm | [Read More](https://medium.com/p/a2db45aae5ac) |
-| Mon, 13 Oct 2025 07:04:57 GMT | Microsoft Managed Services & Azure Expert MSP - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/38776fcabf6e) |
-| Mon, 13 Oct 2025 07:02:09 GMT | Top 10 Cloud Security Certifications | Manisha Chaudhary | [Read More](https://medium.com/p/ba81e27aa764) |
-| Mon, 13 Oct 2025 07:01:54 GMT | Must-Know Database Fundamentals | Omar Yahia | [Read More](https://medium.com/p/6d70b600453a) |
-| Mon, 13 Oct 2025 07:00:12 GMT | Discovering Key Security Features in Password Management Systems | Renaissance Computer Services Limited | [Read More](https://medium.com/p/1b0838aa69f2) |
-| Mon, 13 Oct 2025 06:52:10 GMT | The AI Hype Cycle: Workslop Woes and the Layoff Delusion | Namir Sagheenanajar | [Read More](https://medium.com/p/e9d2acf0cb9c) |
-| Mon, 13 Oct 2025 06:48:07 GMT | Bug Life Cycle (Defect Life Cycle) Explained for QA Beginners | Avadhutwakkar | [Read More](https://medium.com/p/4f6b3e35d071) |
-| Mon, 13 Oct 2025 06:42:00 GMT | Can AGI Replace the Workforce? | Bervice | [Read More](https://medium.com/p/c1fb93ba6dc6) |
-| Mon, 13 Oct 2025 06:40:35 GMT | Protecting What Matters Most Installing Crimsafe in Your Home | Gold Coast Security Screens | [Read More](https://medium.com/p/efe07b856e26) |
-| Mon, 13 Oct 2025 06:36:51 GMT | How Does SASE Improve Identity Security? | Serishahid | [Read More](https://medium.com/p/9c42f592854b) |
