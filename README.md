@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 15:18:43 GMT | Sometimes I wish I weren’t me | The Quill | [Read More](https://medium.com/p/e9921f002de7) |
+| Mon, 13 Oct 2025 15:16:31 GMT | 40 TAHUN INFORMATIKA ITS, BARISAN “AREK SUROBOYO” DIGITAL UNTUK INDONESIA EMAS | Billtraviano Harda | [Read More](https://medium.com/p/5fcb03d51ff7) |
+| Mon, 13 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/815f29c55569) |
+| Mon, 13 Oct 2025 15:12:14 GMT | Getting Started with The DFiR Galaxy Workstation | Mahmoud Soheem | [Read More](https://medium.com/p/7f4b56bfbe1e) |
+| Mon, 13 Oct 2025 15:12:14 GMT | DFiR Galaxy Workstation: A Swiss army knife for DFIR Investigations | Mahmoud Soheem | [Read More](https://medium.com/p/979d888d024b) |
+| Mon, 13 Oct 2025 15:12:13 GMT | Available Tools in DFiR Galaxy Workstation | Mahmoud Soheem | [Read More](https://medium.com/p/b92112a05577) |
+| Mon, 13 Oct 2025 15:05:58 GMT | DROSERA: BUILDING SMART CONTRACTS THAT THINK AND REACT | Westernbay | [Read More](https://medium.com/p/cb9539efa204) |
+| Mon, 13 Oct 2025 15:02:19 GMT | Beyond the Mistakes: The ‘Human’ Glitch in Your Digital Security | Favour  Elijah | [Read More](https://medium.com/p/7d8b57b414ca) |
+| Mon, 13 Oct 2025 14:59:36 GMT | SpamGPT: The AI-Powered Toolkit Turning Phishing into a Service | Lindiwetwaambomoyo | [Read More](https://medium.com/p/7e92887537ce) |
+| Mon, 13 Oct 2025 14:58:50 GMT | Pentesting File Upload Vulnerabilities | Md. Raihan | [Read More](https://medium.com/p/ce54e7f419de) |
+| Mon, 13 Oct 2025 14:51:39 GMT | 516 Hackers — Pakistan’s Ethical Hacking & Cybersecurity Community | 516 Hackers | [Read More](https://medium.com/p/b13dc3211e6c) |
+| Mon, 13 Oct 2025 14:45:46 GMT | The Rise of Synthetic Companions: Understanding Youthful Fascination with Sex Dolls | realdollbuy | [Read More](https://medium.com/p/a16a229fe1ea) |
+| Mon, 13 Oct 2025 14:45:10 GMT | Vibe Coding: How AI Is Reshaping Software — and Creating a New Cybersecurity Crisis | Robert Prohaczka | [Read More](https://medium.com/p/9496edc7271a) |
+| Mon, 13 Oct 2025 14:42:14 GMT | One Click and Your Domain’s Gone — Shield It Today | Vivian Dsouza | [Read More](https://medium.com/p/b0a3718e1bf3) |
+| Mon, 13 Oct 2025 14:39:55 GMT | Vultisig - Blockaid Case Study: | Vultisig | [Read More](https://medium.com/p/98cc1b3ec345) |
 | Mon, 13 Oct 2025 14:33:08 GMT | RetailBreach Lab/CyberDefenders | GM4saken | [Read More](https://medium.com/p/0279df1539a8) |
 | Mon, 13 Oct 2025 14:33:06 GMT | Day 34: Internet Gateway (IGW) in AWS | Prutha_Dongre | [Read More](https://medium.com/p/94d16e67ff83) |
 | Mon, 13 Oct 2025 14:29:29 GMT | Praktikum SISOP IF-04–04 Modul 1,2 dan 3 | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/0d0546d42651) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 11:20:12 GMT | CVE-2025–61927: VM Context Escape in Happy DOM | gm0 | [Read More](https://medium.com/p/398b7cf0fc59) |
 | Mon, 13 Oct 2025 11:19:22 GMT | Warning: BlueceX.com is a Scam — Madacovi.co Saved Me! | Admin | [Read More](https://medium.com/p/123757f3e7a6) |
 | Mon, 13 Oct 2025 11:19:12 GMT | Catch them while you can | DCSO CyTec Blog | [Read More](https://medium.com/p/5c43007ae99e) |
-| Mon, 13 Oct 2025 11:14:20 GMT | Detection Engineering: The Lens That Sharpens Your Security View | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/32eb58c85ff5) |
-| Mon, 13 Oct 2025 11:11:11 GMT | Reserve Bank Information Technology ReBIT Hiring Complete Recruitment Process | Satyajit Thombare | [Read More](https://medium.com/p/eba9c70503db) |
-| Mon, 13 Oct 2025 11:06:32 GMT | How to Really “Hack” Wi-Fi Passwords: Unveiling the Truth & Boosting Your Cyber Smarts | Alexander Hoffmann | [Read More](https://medium.com/p/799f1b7a503f) |
-| Mon, 13 Oct 2025 11:05:37 GMT | Why One Old Hikvision Endpoint Can Break Your Compliance | Rubab Fatima | [Read More](https://medium.com/p/9592cb5b6ed8) |
-| Mon, 13 Oct 2025 11:03:37 GMT | Top Security Audit Mistakes Businesses Make — and How to Avoid Them | SmartCLOUD Australia | [Read More](https://medium.com/p/3635e9a2c9f5) |
-| Mon, 13 Oct 2025 11:03:07 GMT | Security Programming in Linux | LinuxDev | [Read More](https://medium.com/p/ac96b2440cf6) |
-| Mon, 13 Oct 2025 11:02:29 GMT | Kima x Humanode: Verifying Humanity in the Age of Web3 | Kima | [Read More](https://medium.com/p/46f7dcf15387) |
-| Mon, 13 Oct 2025 11:02:06 GMT | Expert IT Support in Camberwell for Local Firms | Gary Marshall | [Read More](https://medium.com/p/fe188b6c9eae) |
-| Mon, 13 Oct 2025 11:01:24 GMT | If You Think Your Spouse is Cheating, Consider Hiring A Private Investigator To Gather Evidence | Donley Mark | [Read More](https://medium.com/p/68d6241bbdcf) |
-| Mon, 13 Oct 2025 10:50:10 GMT | How Does Master Keying Enhance Security for Businesses While Allowing Quick Emergency Lock Access? | jalockmangastonia | [Read More](https://medium.com/p/c188b9d767ec) |
-| Mon, 13 Oct 2025 10:46:57 GMT | Cloud Infrastructure Security: Threats, Challenges & How to Protect Your Data | Teleglobal International | [Read More](https://medium.com/p/d9e919909efe) |
-| Mon, 13 Oct 2025 10:45:18 GMT | I Cracked 12 Passwords in 3 Hours Using This Free Tool Nobody Talks About (CeWL Tutorial) | BugHunter’s Journal | [Read More](https://medium.com/p/3f9299010b6d) |
-| Mon, 13 Oct 2025 10:43:47 GMT | Cloud Infrastructure Security: Navigating Threats & Overcoming Challenges | Generative AI Blog | [Read More](https://medium.com/p/dd65a54e7ada) |
-| Mon, 13 Oct 2025 10:41:49 GMT | Beyond Bugs: How Modern QA is Powering Business Growth and Digital Trust in 2025 | QaceTech Ltd | [Read More](https://medium.com/p/2e6a98f35991) |
-| Mon, 13 Oct 2025 10:41:33 GMT | 15 Real Tech Disasters That Shook the Industry | Imran Khan | [Read More](https://medium.com/p/8c5028762f1a) |
