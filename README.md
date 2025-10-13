@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Oct 2025 18:25:20 GMT | The Truth About Women Who “Never Ask for Help” | The Natalie Rosado | [Read More](https://medium.com/p/8d931c000c70) |
+| Mon, 13 Oct 2025 18:19:38 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/847a9a32e481) |
+| Mon, 13 Oct 2025 18:13:35 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/82fd4ef93207) |
+| Mon, 13 Oct 2025 18:13:06 GMT | Eufy PoE Turret Security Camera E41 Review | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/574228814ff2) |
+| Mon, 13 Oct 2025 18:06:48 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ce9f56eba2cd) |
+| Mon, 13 Oct 2025 18:02:21 GMT | Istio vs. Linkerd: The Service Mesh Showdown for Kubernetes | Emircan Agac | [Read More](https://medium.com/p/bdfdc3c12286) |
+| Mon, 13 Oct 2025 18:02:17 GMT | For the Days I Feel Like a Failure | Nova S | [Read More](https://medium.com/p/e76530f792f7) |
+| Mon, 13 Oct 2025 18:02:16 GMT | IDOR — La vulnerabilidad invisible que sigue pagando recompensas | Gorka | [Read More](https://medium.com/p/792323f2c27f) |
+| Mon, 13 Oct 2025 17:59:38 GMT | How to Hack an Outlook Account? Methods to Learn for Protection | Alexander Hoffmann | [Read More](https://medium.com/p/89b5fc7e19b2) |
+| Mon, 13 Oct 2025 17:59:24 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/1d4f860bd4a5) |
+| Mon, 13 Oct 2025 17:53:43 GMT | How to Hack a Yahoo Account? Understanding Attack Methods to Protect Yourself | Alexander Hoffmann | [Read More](https://medium.com/p/13e6367c9542) |
+| Mon, 13 Oct 2025 17:52:11 GMT | Man-in-the-Middle (MITM) Attacks: Eavesdropping on Communications | Cyber Security Research | [Read More](https://medium.com/p/9be1ff973b79) |
+| Mon, 13 Oct 2025 17:51:41 GMT | When AI Turns Rogue: How Cybercriminals Weaponize Chatbots | Ashishsinghu | [Read More](https://medium.com/p/00ce2c71384b) |
+| Mon, 13 Oct 2025 17:46:21 GMT | How mass-assignment led to stored-XSS and a CSP bypass in a major chatbot platform | Sam Mirov | [Read More](https://medium.com/p/3c6569d7c9e9) |
+| Mon, 13 Oct 2025 17:42:19 GMT | Дайджест новостей из мира IT на 13.10.2025 | Rakhman Abdurakhmanov | [Read More](https://medium.com/p/f31be5e12e47) |
+| Mon, 13 Oct 2025 17:42:18 GMT | Building an Emergency Fund: A Footfall Towards Cyberbanking Security | Vijayakumar C | [Read More](https://medium.com/p/c35f1a386d4f) |
+| Mon, 13 Oct 2025 17:39:41 GMT | SQL Injection Attacks: A Database Security Threat | Cyber Security Research | [Read More](https://medium.com/p/48110e56b76c) |
 | Mon, 13 Oct 2025 17:37:45 GMT | Humans as Attack Vectors | Tony Khalil Rodgers | [Read More](https://medium.com/p/e48f31115023) |
 | Mon, 13 Oct 2025 17:35:00 GMT | The Betrayal Was So Loud, But The Apology Didn’t Make A Sound | Vijay Kumar Gupta | [Read More](https://medium.com/p/af2d8fa859db) |
 | Mon, 13 Oct 2025 17:29:54 GMT | Zero Trust in Action: Building a Defense Strategy That Assumes Breach | Aj | [Read More](https://medium.com/p/7542fbde7ead) |
@@ -63,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 15:12:13 GMT | Available Tools in DFiR Galaxy Workstation | Mahmoud Soheem | [Read More](https://medium.com/p/b92112a05577) |
 | Mon, 13 Oct 2025 15:05:58 GMT | DROSERA: BUILDING SMART CONTRACTS THAT THINK AND REACT | Westernbay | [Read More](https://medium.com/p/cb9539efa204) |
 | Mon, 13 Oct 2025 15:02:19 GMT | Beyond the Mistakes: The ‘Human’ Glitch in Your Digital Security | Favour  Elijah | [Read More](https://medium.com/p/7d8b57b414ca) |
+| Mon, 13 Oct 2025 15:00:18 GMT | taumode: a new way of searching vector databases | Lorenzo M. | [Read More](https://medium.com/p/eea79973ecbf) |
 | Mon, 13 Oct 2025 14:59:36 GMT | SpamGPT: The AI-Powered Toolkit Turning Phishing into a Service | Lindiwetwaambomoyo | [Read More](https://medium.com/p/7e92887537ce) |
 | Mon, 13 Oct 2025 14:58:50 GMT | Pentesting File Upload Vulnerabilities | Md. Raihan | [Read More](https://medium.com/p/ce54e7f419de) |
 | Mon, 13 Oct 2025 14:51:39 GMT | 516 Hackers — Pakistan’s Ethical Hacking & Cybersecurity Community | 516 Hackers | [Read More](https://medium.com/p/b13dc3211e6c) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 13:39:00 GMT | How I Found a Hidden Security Risk in Our Spring Boot Application | Ibtissam hammadi | [Read More](https://medium.com/p/332ba7df530d) |
 | Mon, 13 Oct 2025 13:38:14 GMT | How the Right Security Guards Company in Singapore Can Minimize Risks | Jane Tang | [Read More](https://medium.com/p/3f409a915745) |
 | Mon, 13 Oct 2025 13:37:05 GMT | CTF Walkthrough: Proving Grounds (Play) — loly | Maxwell Ferreira | [Read More](https://medium.com/p/d746fcb8b1b0) |
-| Mon, 13 Oct 2025 13:35:29 GMT | Vulnhub Sar2Html walkthrough | cyber pancake | [Read More](https://medium.com/p/972e603b232e) |
-| Mon, 13 Oct 2025 13:32:51 GMT | LangChain for .NET Developers — Simplifying AI Workflows | Tanisha Rout | [Read More](https://medium.com/p/57597d414679) |
-| Mon, 13 Oct 2025 13:31:10 GMT | Ethical Hacking in New Jersey: Why It Matters (And How TheSamurai Helps) | Techwarehut Seo | [Read More](https://medium.com/p/622ff22e2561) |
-| Mon, 13 Oct 2025 13:30:22 GMT | Understanding CORS (Cross-Origin Resource Sharing) — The Hidden Guardian of Web Security | Pavan pitthdiya | [Read More](https://medium.com/p/1ca52302272f) |
-| Mon, 13 Oct 2025 13:29:56 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/74a2332d890f) |
-| Mon, 13 Oct 2025 13:20:01 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/be82cd676b7d) |
-| Mon, 13 Oct 2025 13:18:52 GMT | Step-by-Step Guide to Implementing Information Security in Your Company | kiran mv | [Read More](https://medium.com/p/12b76319fc1f) |
-| Mon, 13 Oct 2025 13:17:26 GMT | Snoopy & The Great Mystery Club Download Adventure Game | Saifalrehmans | [Read More](https://medium.com/p/16d75828fb1a) |
-| Mon, 13 Oct 2025 13:16:10 GMT | Be the Shield in a Digital World of Threats: 10 Proven Strategies for Cybersecurity Success | troytec blog | [Read More](https://medium.com/p/db489dd41cae) |
-| Mon, 13 Oct 2025 13:15:38 GMT | All Star Security System’s Cameras Poised to Set New Standard in Home and Business Surveillance | All Star Home Security and Alarm Austin | [Read More](https://medium.com/p/5636225c0045) |
-| Mon, 13 Oct 2025 13:12:42 GMT | The OWASP Top Ten Web Application Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/89833b565d8c) |
-| Mon, 13 Oct 2025 13:09:17 GMT | Why I Built an Open-Source Kit to Demystify ASVS Compliance | Kay Adelaja | [Read More](https://medium.com/p/a9663b9b0013) |
-| Mon, 13 Oct 2025 13:08:14 GMT | Feed Diário de CVEs com Power Automate | Jefferson Lima | [Read More](https://medium.com/p/8f35fd52d9ed) |
-| Mon, 13 Oct 2025 13:06:09 GMT | Understanding Common Vulnerabilities and Exposures (CVEs) | Cyber Security Research | [Read More](https://medium.com/p/d0ed3bfe1d3a) |
-| Mon, 13 Oct 2025 13:06:01 GMT | Navigating Midlife Loneliness: Finding Strength Within | Lucas Brown | [Read More](https://medium.com/p/2a3010ad164e) |
-| Mon, 13 Oct 2025 13:01:50 GMT | Your MCP Agents Can Access Everything. They Can’t Prove Who They Are. Here’s Why That’s Dangerous. | Nwosu Rosemary | [Read More](https://medium.com/p/e20e9f816204) |
-| Mon, 13 Oct 2025 13:01:48 GMT | How to Remove a Door Lock Without Screws: Hidden Fastener & Clip Release Tips | Sure Lock & Key LLC | [Read More](https://medium.com/p/1afb4ab9c136) |
-| Mon, 13 Oct 2025 13:01:00 GMT | Mobile Application Security Testing (MAST) | Cyber Security Research | [Read More](https://medium.com/p/4d7699dcd889) |
