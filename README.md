@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 11:24:24 GMT | Ransomware Rampage: Spotting the Lockdown Before It Happens | Aysha Misri | [Read More](https://medium.com/p/3fa827f1f68c) |
+| Tue, 14 Oct 2025 11:21:09 GMT | Extropy Security Bytes: w40, 2025 | Extropy.IO | [Read More](https://medium.com/p/4335601b08f5) |
+| Tue, 14 Oct 2025 11:20:35 GMT | CyberArk: The Game Changer in IT Security | Zayn | [Read More](https://medium.com/p/755e21a61e9c) |
+| Tue, 14 Oct 2025 11:18:58 GMT | How to Build a Culture of Cybersecurity Awareness That Works For Your Team | SecureSlate | [Read More](https://medium.com/p/7490ca174cd2) |
+| Tue, 14 Oct 2025 11:18:06 GMT | From Certification to Continuous Compliance: Tackling ISO 27001 Maintenance Challenges | Hicomply | [Read More](https://medium.com/p/a9ac288639bb) |
+| Tue, 14 Oct 2025 11:17:41 GMT | DarkZero HTB Maşınının Tam Texniki Hesabatı | Elvinasadov | [Read More](https://medium.com/p/757eb89097e0) |
+| Tue, 14 Oct 2025 11:16:59 GMT | How I passed the Oracle Cloud Infrastructure 2025 AI Foundations Associate Exam | Chisom Elekwa | [Read More](https://medium.com/p/d21eee9d736e) |
 | Tue, 14 Oct 2025 11:12:47 GMT | Hacking- day 1 | sihackermok | [Read More](https://medium.com/p/f360956b8916) |
+| Tue, 14 Oct 2025 11:11:34 GMT | Top 10 Cyber Security Bootcamps Online | Manisha Chaudhary | [Read More](https://medium.com/p/cbc0f20ee7cb) |
+| Tue, 14 Oct 2025 11:10:03 GMT | THE CYBERSTALKING SURVIVAL KIT: SECURING YOUR DIGITAL LIFE AFTER THE DISCARD | Malik Mobeen | [Read More](https://medium.com/p/56d5a16f0e26) |
 | Tue, 14 Oct 2025 11:06:40 GMT | The Real Problem Isn’t AI It’s Our Culture: Stack Overflow Was Our ChatGPT | Luispuello | [Read More](https://medium.com/p/5e5b6fd2a24c) |
 | Tue, 14 Oct 2025 11:00:07 GMT | Vibe coder beware! | Andre Le | [Read More](https://medium.com/p/a6bc129ca814) |
 | Tue, 14 Oct 2025 10:57:31 GMT | Build and Manage a Skilled Mobile App Development Team | Bhavesh Rajpurohit | [Read More](https://medium.com/p/533bf94f4fd4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 07:40:24 GMT | Crimsafe Installation Quick & Hassle-Free Steps | Gold Coast Security Screens | [Read More](https://medium.com/p/c4cf941ab8c0) |
 | Tue, 14 Oct 2025 07:32:24 GMT | XSS: Bypassing Cloudflare WAF with a Simple Trick | Pranav Patil | [Read More](https://medium.com/p/12aff8ce87c7) |
 | Tue, 14 Oct 2025 07:32:16 GMT | Walls Don’t Exist, But Please Use the Door | Dexterite | [Read More](https://medium.com/p/d41d8c00e434) |
-| Tue, 14 Oct 2025 07:31:40 GMT | Cloud Security Posture Management Market Size, Report by 2034 | Akshay Dhamal | [Read More](https://medium.com/p/70a715c8eea6) |
-| Tue, 14 Oct 2025 07:26:16 GMT | Top 10 Red Team Certifications | Manisha Chaudhary | [Read More](https://medium.com/p/0b525b356477) |
-| Tue, 14 Oct 2025 07:26:06 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/2dc0c7ea6ac1) |
-| Tue, 14 Oct 2025 07:24:05 GMT | The Invisible Pipeline: Defending CI/CD from Targeted Attacks | Andrey Pautov | [Read More](https://medium.com/p/456283ee5ed3) |
-| Tue, 14 Oct 2025 07:23:28 GMT | Before You Ask to Be Understood, Ask This Question First | Asuquo kevin | [Read More](https://medium.com/p/2452c3e94024) |
-| Tue, 14 Oct 2025 07:20:39 GMT | Authentication ve Authorization Testleri | Kübra Kılıç | [Read More](https://medium.com/p/08a4a6997064) |
-| Tue, 14 Oct 2025 07:20:22 GMT | Intigriti 1025 Challenge: SSRF to RCE via File Upload Bypass | Sander Wind | [Read More](https://medium.com/p/8aaa0164ee55) |
-| Tue, 14 Oct 2025 07:13:27 GMT | Why Should I Use a VPN? | Gaurav Kumar | [Read More](https://medium.com/p/f0f4c09a649d) |
-| Tue, 14 Oct 2025 07:09:55 GMT | Siber İstihbarat ve Gelişmiş Kalıcı Tehditlere Karşı Koyma Stratejileri: Bütüncül Bir Analiz | furkan | [Read More](https://medium.com/p/c4fdb75f017e) |
