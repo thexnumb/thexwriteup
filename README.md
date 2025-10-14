@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 21:51:28 GMT | Mastering Seccomp Filters in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/aa9c13c9fc54) |
+| Tue, 14 Oct 2025 21:46:07 GMT | From the Internet to the Internet of Agents: Trust as the First Protocol | Naylence Dev | [Read More](https://medium.com/p/7dc30abeae45) |
+| Tue, 14 Oct 2025 21:46:01 GMT | Hacking Awareness Tips Protecting Yourself in a Digital World | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/f2195c2a9593) |
+| Tue, 14 Oct 2025 21:43:06 GMT | Security and Performance Aspects of SELinux Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/fb15505657d9) |
 | Tue, 14 Oct 2025 21:35:56 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/172d7aee07b3) |
 | Tue, 14 Oct 2025 21:28:40 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/e3da86227467) |
 | Tue, 14 Oct 2025 21:26:29 GMT | The CIA Triad: The Foundation of Every Cybersecurity Strategy | Cyber_Phoenix | [Read More](https://medium.com/p/dc830fda7a48) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 16:19:27 GMT | When Firewalls Face the Future: The New Threats Targeting Next-Gen Security | r00tb33r | [Read More](https://medium.com/p/c34607f62158) |
 | Tue, 14 Oct 2025 16:18:09 GMT | Don’t migrate your auth. Enhance it. | PropelAuth | [Read More](https://medium.com/p/aa6d44022de9) |
 | Tue, 14 Oct 2025 16:12:08 GMT | Machine Learning for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/cab17f05c959) |
-| Tue, 14 Oct 2025 16:10:06 GMT | SOC 2 Type II: Proving Trust Over Time | Rachid Abadli | [Read More](https://medium.com/p/707a5cb50842) |
-| Tue, 14 Oct 2025 16:08:23 GMT | Hackers Love When You Forget These 5 Privacy Settings | Pannag Kumaar | [Read More](https://medium.com/p/ee663e892910) |
-| Tue, 14 Oct 2025 16:07:49 GMT | Today’s Top Cyber Intelligence Highlights — Oct 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3f594b13cfd5) |
-| Tue, 14 Oct 2025 16:06:44 GMT | Smarter Cybercrime: How AI is Changing the Cybersecurity Battlefield in 2025 | Femintee | [Read More](https://medium.com/p/efb6837b5165) |
