@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 13:23:19 GMT | How Hackers Use Artificial Intelligence Against Businesses — and How You Can Protect Yours | Cordula Boeck | [Read More](https://medium.com/p/68afe2916cb7) |
+| Tue, 14 Oct 2025 13:22:42 GMT | The Reputation Repair Roadmap: Rebuilding After a Smear Campaign | Malik Mobeen | [Read More](https://medium.com/p/b84495805a02) |
+| Tue, 14 Oct 2025 13:21:13 GMT | “Are Web LLM Attacks Just Social Engineering 2.0?” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8e37f19d874b) |
+| Tue, 14 Oct 2025 13:17:33 GMT | Teaching Security Scanners to Remember: Using Vector Embeddings to Stop Chasing Ghost Ports | Simon Morley | [Read More](https://medium.com/p/23227f23063b) |
+| Tue, 14 Oct 2025 13:16:29 GMT | SaaS Contract Lawyers Every Founder Needs in 2025 | Hansen Tong | [Read More](https://medium.com/p/16434e5f5bd3) |
+| Tue, 14 Oct 2025 13:15:22 GMT | The Most Common Network Security Threats and How to Prevent Them | Jaya Sharma Averybit | [Read More](https://medium.com/p/ef238319f689) |
+| Tue, 14 Oct 2025 13:12:17 GMT | How Hackers Find Secrets Hidden in Public Websites | Vipul Sonule | [Read More](https://medium.com/p/513756e90d0f) |
+| Tue, 14 Oct 2025 13:11:46 GMT | Could an Attacker Use a systemd Timer to Run Malicious Code? | Faruk Ahmed | [Read More](https://medium.com/p/f0b01ec8b292) |
+| Tue, 14 Oct 2025 13:08:26 GMT | Beyond the Shell: Advanced Enumeration and Privilege Escalation for OSCP (Part 3) | Diasaddy | [Read More](https://medium.com/p/7410d3812d02) |
+| Tue, 14 Oct 2025 13:04:16 GMT | Vulnerability Discovery #3
+Security Flaws in “Mall”
+CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
+| Tue, 14 Oct 2025 13:02:43 GMT | Mastering Certificate Rotation in Entra ID | Tim Groothuis | [Read More](https://medium.com/p/65e580eadacc) |
+| Tue, 14 Oct 2025 12:57:37 GMT | Why Every User Needs a Password Manager to Secure Their Accounts | Anushka | [Read More](https://medium.com/p/421f19e73e1d) |
+| Tue, 14 Oct 2025 12:48:31 GMT | Network Access Control Market — Industry Analysis, Market — Forecast(2025–2031) | Akhilasri | [Read More](https://medium.com/p/1ff8a02363cf) |
+| Tue, 14 Oct 2025 12:46:51 GMT | The Dangers of Insecure File Uploads | Ferran Verdés | [Read More](https://medium.com/p/165c8cd49e38) |
+| Tue, 14 Oct 2025 12:46:36 GMT | HacktheBox: Administrator Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/46355235f4e6) |
 | Tue, 14 Oct 2025 12:41:39 GMT | How to Detect and Prevent Ransomware | Dkvilas | [Read More](https://medium.com/p/3b43706aa695) |
 | Tue, 14 Oct 2025 12:40:34 GMT | Why “Hackers Are Criminals” Is an Outdated View | Your's Nightmare | [Read More](https://medium.com/p/8178d702fa9d) |
+| Tue, 14 Oct 2025 12:36:01 GMT | Crate your critters! | Munster Conservancy | [Read More](https://medium.com/p/2cdd6e502459) |
 | Tue, 14 Oct 2025 12:33:55 GMT | K17 CTF | Harpogma | [Read More](https://medium.com/p/89dee8029bb7) |
 | Tue, 14 Oct 2025 12:32:02 GMT | Case Study: The Startup That Passed Due Diligence — Without a CISO | Lester Davila Escobedo | [Read More](https://medium.com/p/8baab8f0e029) |
 | Tue, 14 Oct 2025 12:31:50 GMT | Strengthening Information Security with ISO 27001:2022 | Mahmoothraahim | [Read More](https://medium.com/p/7211bd7c177a) |
@@ -96,19 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 09:19:34 GMT | winter is on my tongue. | Preena_NR | [Read More](https://medium.com/p/6527536d7d56) |
 | Tue, 14 Oct 2025 09:17:27 GMT | ️ System Hardening: Building a Secure Foundation for Your IT Environment | Sebastian Kandler | [Read More](https://medium.com/p/6d780aec72e0) |
 | Tue, 14 Oct 2025 09:15:39 GMT | SQL Injection (SQLi): Build a SQL Injection Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/098f78fdffd6) |
-| Tue, 14 Oct 2025 09:10:32 GMT | Arch Linux Survival Kit — Episode 1: When Your Arch Won’t Boot | orioninsist | [Read More](https://medium.com/p/f0aa94621e2e) |
-| Tue, 14 Oct 2025 09:08:17 GMT | CYBERSECURITY PART 12 : NETWORKING ( TCP/IP ) | Rakha Arya Ramadhan | [Read More](https://medium.com/p/d22123a5dad0) |
-| Tue, 14 Oct 2025 09:02:58 GMT | The Invisible Phishing Attack That Almost Cost My Startup | vydhi | [Read More](https://medium.com/p/f8438532c445) |
-| Tue, 14 Oct 2025 09:02:22 GMT | How to maximize security as a SMB for your entire business operations | estrosec | [Read More](https://medium.com/p/748e7eda0e81) |
-| Tue, 14 Oct 2025 08:59:53 GMT | Understanding BLE And ZigBee Protocols In IoT Security | Redfox Security | [Read More](https://medium.com/p/0236d33d620f) |
-| Tue, 14 Oct 2025 08:58:26 GMT | Careers in Cybersecurity: Becoming a GRC Professional | Samuel Odekunle | [Read More](https://medium.com/p/40bad87c7c1e) |
-| Tue, 14 Oct 2025 08:57:12 GMT | Stop Email Phishing with Verified Mark Certificates (VMCs) | AnupamSingh | [Read More](https://medium.com/p/d5d4c1db9f17) |
-| Tue, 14 Oct 2025 08:57:08 GMT | Russian market — Powering Smarter Insights into the 2025 MOEX CFD Surge | Spiderblack | [Read More](https://medium.com/p/d59e8b14537e) |
-| Tue, 14 Oct 2025 08:56:38 GMT | How to Self-Host Wazuh: A Complete All-in-One Startup Architecture Guide | Andrew Keitany | [Read More](https://medium.com/p/d86865165493) |
-| Tue, 14 Oct 2025 08:55:30 GMT | My Pre-Engagement Penetration Testing Checklist: 15 Steps to Success | Andrei Ivan | [Read More](https://medium.com/p/c0784368e870) |
-| Tue, 14 Oct 2025 08:52:23 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/9dba97dfdc3d) |
-| Tue, 14 Oct 2025 08:49:52 GMT | Still Using a Hot Wallet? | Digital Shield Offcial | [Read More](https://medium.com/p/f1062c166f6c) |
-| Tue, 14 Oct 2025 08:49:27 GMT | Top 5 Benefits of Installing CCTV Cameras at Home | Manglamtelecom | [Read More](https://medium.com/p/59402fe5e08f) |
-| Tue, 14 Oct 2025 08:48:08 GMT | Exercise 3 — Remove a Role Assignment | Azhariqbal | [Read More](https://medium.com/p/b2114a4fbd2d) |
-| Tue, 14 Oct 2025 08:46:12 GMT | Russianmarket — Tracking the Momentum of the Russian Market Index (MOEX CFD) in 2025 | Spiderblack | [Read More](https://medium.com/p/ac1395560bba) |
-| Tue, 14 Oct 2025 08:42:59 GMT | Digital Shield: Defining the Next Generation of Digital Asset Security with 100% Open-Source… | Digital Shield | [Read More](https://medium.com/p/a637c9cd0f62) |
