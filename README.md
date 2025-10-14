@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 20:10:19 GMT | AI vs. AI: The Cybersecurity Showdown | Wendell Rodrigues, Ph.D. | [Read More](https://medium.com/p/87b396e695ef) |
+| Tue, 14 Oct 2025 19:58:50 GMT | How to Find a Cybersecurity Mentor | Zachary Marcy | [Read More](https://medium.com/p/5400b217b43e) |
+| Tue, 14 Oct 2025 19:52:18 GMT | [Part 9] Penalties Under the Cyber Resilience Act | Cyberkech | [Read More](https://medium.com/p/24647b08fd24) |
+| Tue, 14 Oct 2025 19:46:11 GMT | Snow-Crash-writup [level06] | B.R.O.L.Y | [Read More](https://medium.com/p/e4b1c5461bfa) |
+| Tue, 14 Oct 2025 19:38:42 GMT | Part 7 : Secrets Management — The Right Way to Keep Your Secrets Safe | Dean | [Read More](https://medium.com/p/2afe04bb0ada) |
+| Tue, 14 Oct 2025 19:32:30 GMT | In the Era 2025 of AI, Over-Information, and Controlled Media — Clarity is Bliss | Shahzaib A. | [Read More](https://medium.com/p/88f6ad10d77c) |
 | Tue, 14 Oct 2025 19:30:31 GMT | Understanding Datasets and Distributions in Data Science and Cybersecurity | Gadeabhishekreddy | [Read More](https://medium.com/p/a1b917e182d4) |
 | Tue, 14 Oct 2025 19:29:42 GMT | The Attacker’s View: Why DAST Is Non-Negotiable for Cloud and AI Security | KE | [Read More](https://medium.com/p/435195ca550f) |
 | Tue, 14 Oct 2025 19:25:04 GMT | Snow-Crash-writup [level05] | B.R.O.L.Y | [Read More](https://medium.com/p/610019c7fc19) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 15:02:15 GMT | Locks, Not Walls: RLS for Real Multitenant SaaS | Syntal | [Read More](https://medium.com/p/03b675b768ee) |
 | Tue, 14 Oct 2025 15:02:11 GMT | How I Secured User File Access Using ACL and Chroot Jail: A Step-by-Step Guide | V Ray | [Read More](https://medium.com/p/60337da45eeb) |
 | Tue, 14 Oct 2025 14:58:49 GMT | SOC Log Analyzer: Python Script for Log Analysis | Paulo Melo | [Read More](https://medium.com/p/14186b7ecb19) |
-| Tue, 14 Oct 2025 14:58:35 GMT | 5 Costly Mistakes That Make Companies Fail Their CMMC Audit (and How to Avoid Them) | Olivier Maignan | [Read More](https://medium.com/p/a5531668bbee) |
-| Tue, 14 Oct 2025 14:50:59 GMT | TryHackMe Challenge — Easy Peasy | Aniket Pattanshetti | [Read More](https://medium.com/p/784f4fa18a90) |
-| Tue, 14 Oct 2025 14:49:16 GMT | Hacking Active Directory 101: Kerberoasting (MEDIUM) | SilentExploit | [Read More](https://medium.com/p/498575c11444) |
-| Tue, 14 Oct 2025 14:47:48 GMT | People Who Cry Easily During Arguments: Understanding Emotional Sensitivity and Trauma | Hanpis | [Read More](https://medium.com/p/2158ab7bec2a) |
-| Tue, 14 Oct 2025 14:47:48 GMT | TA558 2026: The Quiet Upgrade | Wes Young | [Read More](https://medium.com/p/3c5361464280) |
-| Tue, 14 Oct 2025 14:44:15 GMT | “The P4 Playbook: Two Simple Bugs That Actually Pay Out” | Aman Sharma | [Read More](https://medium.com/p/2a0e2ac9c022) |
