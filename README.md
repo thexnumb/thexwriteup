@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 08:42:59 GMT | Digital Shield: Defining the Next Generation of Digital Asset Security with 100% Open-Source… | Digital Shield | [Read More](https://medium.com/p/a637c9cd0f62) |
+| Tue, 14 Oct 2025 08:41:33 GMT | Beyond Hardware: How Digital Shield is Systemically Revolutionizing Decentralized Asset Management… | Digital Shield | [Read More](https://medium.com/p/ee0887f3ec3e) |
+| Tue, 14 Oct 2025 08:31:51 GMT | Think You Know How CloudFront Works? Think Again. | Shivanshu Sharma | [Read More](https://medium.com/p/4480a154dd22) |
+| Tue, 14 Oct 2025 08:29:44 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | David Cheng | [Read More](https://medium.com/p/6d182f1c66ab) |
+| Tue, 14 Oct 2025 08:26:08 GMT | Try Hack Me Walkthrough — Networking Concepts | Techintel | [Read More](https://medium.com/p/bfd9f9c37494) |
+| Tue, 14 Oct 2025 08:25:34 GMT | Try Hack Me Walkthrough — Tcpdump: The Basics | Techintel | [Read More](https://medium.com/p/c819ee336748) |
+| Tue, 14 Oct 2025 08:24:23 GMT | Top 6 Job-Ready Skills for 2026 | Johnett - A Lady That Loves Growth | [Read More](https://medium.com/p/c9b82bcf1d28) |
 | Tue, 14 Oct 2025 08:07:10 GMT | Why Multi-Cloud Security is More Crucial Than Ever | Qualysec | [Read More](https://medium.com/p/69cdd1a559c6) |
 | Tue, 14 Oct 2025 08:07:06 GMT | Understanding the Proxmox Architecture: From ESXi to Proxmox VE 8.4 | Bridget | [Read More](https://medium.com/p/0d41d300365a) |
 | Tue, 14 Oct 2025 08:04:10 GMT | OSINT Has Limits — Cross Them and You’re Hacking | Sam Galope | [Read More](https://medium.com/p/a4b6fa48d9fc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 02:28:06 GMT | How Devs Can Outsmart Hackers (Before It’s Too Late) | Rendiero | [Read More](https://medium.com/p/83ff91d191e5) |
 | Tue, 14 Oct 2025 02:23:11 GMT | How Operating Systems Connect You, Apps, and Hardware — Explained Simply | Thuong To | [Read More](https://medium.com/p/1e87ffa92054) |
 | Tue, 14 Oct 2025 02:21:06 GMT | Filesystem Trust Boundaries Privilege Escalation & Preventation | Christian Zink | [Read More](https://medium.com/p/6f76a8e0604f) |
-| Tue, 14 Oct 2025 02:20:22 GMT | The Psychology of Exploits: Thinking Like a Hacker | Aj | [Read More](https://medium.com/p/ea84e7ad7d16) |
-| Tue, 14 Oct 2025 02:16:04 GMT | TryHackMe - Lookup Room - Write-Up (Spoilers) | Kieranjd98 | [Read More](https://medium.com/p/e4a331f2c16b) |
-| Tue, 14 Oct 2025 02:14:35 GMT | Post-Quantum Cryptography: Preparing for the Next Security Frontier | Code Blog | [Read More](https://medium.com/p/c69296c63067) |
-| Tue, 14 Oct 2025 02:02:41 GMT | How I Generated a Graduate-Level Physics Dataset and Fine-Tuned Qwen to Become a Physics Expert | Suraj Kumar | [Read More](https://medium.com/p/3c753cea3e73) |
-| Tue, 14 Oct 2025 01:56:20 GMT | “Actively Exploited” CVE-2024–38856 Apache OFBiz | HariHaranK | [Read More](https://medium.com/p/44f87aa8b944) |
-| Tue, 14 Oct 2025 01:50:52 GMT | Businesses Face Growing Need for Cybersecurity to Protect Intellectual Property | Financial Poise | [Read More](https://medium.com/p/e6aef1ed3fbb) |
-| Tue, 14 Oct 2025 01:43:14 GMT | SEO for Technology Companies: How to Rank #1 on Google in 2025 (Even in a Competitive Market) | sana irshad | [Read More](https://medium.com/p/5c985eea70e4) |
