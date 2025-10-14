@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 03:44:05 GMT | Reconnaissance and Vulnerability Scanning: Finding the flag. | khumaidi kharis az-zacky | [Read More](https://medium.com/p/ae00db817892) |
+| Tue, 14 Oct 2025 03:43:20 GMT | Lab: DOM XSS in document.write sink using source location.search | Hussin Ibrahim | [Read More](https://medium.com/p/8fcef1171d19) |
+| Tue, 14 Oct 2025 03:43:12 GMT | Security Specialists in High Demand: How RPL Helps ICT Professionals Migrate to Australia | CDR for Australia | [Read More](https://medium.com/p/f006f583e4b8) |
+| Tue, 14 Oct 2025 03:37:40 GMT | Windows 10 Support Ends: Is This the End of Our Digital World? | Sasono Utomo | [Read More](https://medium.com/p/7cb7a3718a03) |
+| Tue, 14 Oct 2025 03:32:20 GMT | 5 Advanced Authentication Flows for Node.js Developers | Arunangshu Das | [Read More](https://medium.com/p/a84610fa602d) |
+| Tue, 14 Oct 2025 03:25:29 GMT | Supabase vs Firebase: Which Backend Truly Fits Your App in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/e2c8b52d56fe) |
+| Tue, 14 Oct 2025 03:24:43 GMT | The 10th Angel: Sachiel, The Angel of the Sky — Orbital Hijacking and Self-Destructive Guidance in… | Scott Huang | [Read More](https://medium.com/p/f82ab98b0238) |
+| Tue, 14 Oct 2025 03:22:16 GMT | Mastering OWASP ZAP: The Essential Guide for Test Engineers & Security Enthusiasts | Mohamed Said Ibrahim | [Read More](https://medium.com/p/b9257b64ce35) |
+| Tue, 14 Oct 2025 03:21:35 GMT | Brazil-Focused Multi-Stage Campaign: VBS → PowerShell → WhatsApp Web Automation | Robert Gonzalez | [Read More](https://medium.com/p/916617b70c38) |
+| Tue, 14 Oct 2025 03:18:27 GMT | Building a Secure OAuth 2.0 REST API with FastAPI — A Complete Guide (With Code + Theory) | Vinayak Vathare | [Read More](https://medium.com/p/b339e2a3b4e0) |
+| Tue, 14 Oct 2025 03:09:40 GMT | JIT Compilation in PostgreSQL: Performance Gains for Complex AI Queries | Rizqi Mulki | [Read More](https://medium.com/p/5dec84db477c) |
+| Tue, 14 Oct 2025 03:07:36 GMT | The Loneliness Paradox: Hyperconnected But Alone | Pavan | [Read More](https://medium.com/p/631c1b3d637a) |
+| Tue, 14 Oct 2025 03:05:44 GMT | Ethical Hacking: The Responsible Edge of Cybersecurity | Silence | [Read More](https://medium.com/p/9fd09cba2521) |
 | Tue, 14 Oct 2025 02:28:23 GMT | Dumpster Diving for Firmware: The Real Source Code Repositories | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/be9e54ef7a00) |
 | Tue, 14 Oct 2025 02:28:06 GMT | How Devs Can Outsmart Hackers (Before It’s Too Late) | Rendiero | [Read More](https://medium.com/p/83ff91d191e5) |
 | Tue, 14 Oct 2025 02:23:11 GMT | How Operating Systems Connect You, Apps, and Hardware — Explained Simply | Thuong To | [Read More](https://medium.com/p/1e87ffa92054) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 18:48:17 GMT | Seccomp Filters Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d053438f8b17) |
 | Mon, 13 Oct 2025 18:47:24 GMT | Why You Should Change Your Debit Card Every 12 Months | Dave | [Read More](https://medium.com/p/a7bb339e7911) |
 | Mon, 13 Oct 2025 18:45:45 GMT | What Is a Phishing Email? Real-World Scam Examples | Kevin Asutton | [Read More](https://medium.com/p/5858b518eb8f) |
-| Mon, 13 Oct 2025 18:42:55 GMT | The New Hire in SOC: Sharing a Desk with AI | Logs&Lattes | [Read More](https://medium.com/p/f100eca458dc) |
-| Mon, 13 Oct 2025 18:40:59 GMT | Strawberry Cheesecake Dump Cake: Easiest Dessert Hack EVER! | grandmadishes | [Read More](https://medium.com/p/12f73e845568) |
-| Mon, 13 Oct 2025 18:40:46 GMT | Exploring Firewalld Advanced Rules with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/c3a9a9fcdb0e) |
-| Mon, 13 Oct 2025 18:34:33 GMT | 10 Cybersecurity Myths That Are Putting Your Small Business at Risk | CyberFortifyHQ | [Read More](https://medium.com/p/ffcf9e8fadf2) |
-| Mon, 13 Oct 2025 18:26:09 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/fff4b57664ac) |
-| Mon, 13 Oct 2025 18:25:20 GMT | The Truth About Women Who “Never Ask for Help” | The Natalie Rosado | [Read More](https://medium.com/p/8d931c000c70) |
-| Mon, 13 Oct 2025 18:24:53 GMT | 0-Click Account Takeover — Invite Friend + OTP Lifecycle Vulnerability | القنصل | [Read More](https://medium.com/p/2c30e8aaa896) |
-| Mon, 13 Oct 2025 18:22:27 GMT | H1B Visa Changes and Impact on Indian IT Industry with Future Outlook on IT Outsourcing | Dipankar Som | [Read More](https://medium.com/p/0d7f74344791) |
-| Mon, 13 Oct 2025 18:19:38 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/847a9a32e481) |
-| Mon, 13 Oct 2025 18:13:35 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/82fd4ef93207) |
-| Mon, 13 Oct 2025 18:13:06 GMT | Eufy PoE Turret Security Camera E41 Review | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/574228814ff2) |
-| Mon, 13 Oct 2025 18:12:51 GMT | Memecahkan Kode Rahasia: Eksplorasi Cryptography dari Zaman Romawi ke Era Digital | muhfalihr | [Read More](https://medium.com/p/50d92e30bca0) |
-| Mon, 13 Oct 2025 18:06:48 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ce9f56eba2cd) |
