@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 09:17:27 GMT | ️ System Hardening: Building a Secure Foundation for Your IT Environment | Sebastian Kandler | [Read More](https://medium.com/p/6d780aec72e0) |
+| Tue, 14 Oct 2025 09:15:39 GMT | SQL Injection (SQLi): Build a SQL Injection Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/098f78fdffd6) |
+| Tue, 14 Oct 2025 09:10:32 GMT | Arch Linux Survival Kit — Episode 1: When Your Arch Won’t Boot | orioninsist | [Read More](https://medium.com/p/f0aa94621e2e) |
+| Tue, 14 Oct 2025 09:08:17 GMT | CYBERSECURITY PART 12 : NETWORKING ( TCP/IP ) | Rakha Arya Ramadhan | [Read More](https://medium.com/p/d22123a5dad0) |
+| Tue, 14 Oct 2025 09:02:58 GMT | The Invisible Phishing Attack That Almost Cost My Startup | vydhi | [Read More](https://medium.com/p/f8438532c445) |
+| Tue, 14 Oct 2025 09:02:22 GMT | How to maximize security as a SMB for your entire business operations | estrosec | [Read More](https://medium.com/p/748e7eda0e81) |
+| Tue, 14 Oct 2025 08:59:53 GMT | Understanding BLE And ZigBee Protocols In IoT Security | Redfox Security | [Read More](https://medium.com/p/0236d33d620f) |
+| Tue, 14 Oct 2025 08:58:26 GMT | Careers in Cybersecurity: Becoming a GRC Professional | Samuel Odekunle | [Read More](https://medium.com/p/40bad87c7c1e) |
+| Tue, 14 Oct 2025 08:57:12 GMT | Stop Email Phishing with Verified Mark Certificates (VMCs) | AnupamSingh | [Read More](https://medium.com/p/d5d4c1db9f17) |
+| Tue, 14 Oct 2025 08:57:08 GMT | Russian market — Powering Smarter Insights into the 2025 MOEX CFD Surge | Spiderblack | [Read More](https://medium.com/p/d59e8b14537e) |
+| Tue, 14 Oct 2025 08:56:38 GMT | How to Self-Host Wazuh: A Complete All-in-One Startup Architecture Guide | Andrew Keitany | [Read More](https://medium.com/p/d86865165493) |
+| Tue, 14 Oct 2025 08:55:30 GMT | My Pre-Engagement Penetration Testing Checklist: 15 Steps to Success | Andrei Ivan | [Read More](https://medium.com/p/c0784368e870) |
+| Tue, 14 Oct 2025 08:52:23 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/9dba97dfdc3d) |
+| Tue, 14 Oct 2025 08:49:52 GMT | Still Using a Hot Wallet? | Digital Shield Offcial | [Read More](https://medium.com/p/f1062c166f6c) |
+| Tue, 14 Oct 2025 08:49:27 GMT | Top 5 Benefits of Installing CCTV Cameras at Home | Manglamtelecom | [Read More](https://medium.com/p/59402fe5e08f) |
+| Tue, 14 Oct 2025 08:48:08 GMT | Exercise 3 — Remove a Role Assignment | Azhariqbal | [Read More](https://medium.com/p/b2114a4fbd2d) |
+| Tue, 14 Oct 2025 08:46:12 GMT | Russianmarket — Tracking the Momentum of the Russian Market Index (MOEX CFD) in 2025 | Spiderblack | [Read More](https://medium.com/p/ac1395560bba) |
 | Tue, 14 Oct 2025 08:42:59 GMT | Digital Shield: Defining the Next Generation of Digital Asset Security with 100% Open-Source… | Digital Shield | [Read More](https://medium.com/p/a637c9cd0f62) |
 | Tue, 14 Oct 2025 08:41:33 GMT | Beyond Hardware: How Digital Shield is Systemically Revolutionizing Decentralized Asset Management… | Digital Shield | [Read More](https://medium.com/p/ee0887f3ec3e) |
 | Tue, 14 Oct 2025 08:31:51 GMT | Think You Know How CloudFront Works? Think Again. | Shivanshu Sharma | [Read More](https://medium.com/p/4480a154dd22) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 04:05:22 GMT | 5 Wordlists Every Bug Bounty Hunter Should Save (and how to use them) | Code Pulse | [Read More](https://medium.com/p/a03d875222b4) |
 | Tue, 14 Oct 2025 03:56:35 GMT | Why OPSEC Is the Red Team’s Most Underrated Tool (and How to Use It) | Rubab Fatima | [Read More](https://medium.com/p/63b9ddb0eaed) |
 | Tue, 14 Oct 2025 03:52:39 GMT | The Silent Guardians: How Python Empowers Cybersecurity and Cloud Intelligence | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/533145142320) |
-| Tue, 14 Oct 2025 03:44:05 GMT | Reconnaissance and Vulnerability Scanning: Finding the flag. | khumaidi kharis az-zacky | [Read More](https://medium.com/p/ae00db817892) |
-| Tue, 14 Oct 2025 03:43:20 GMT | Lab: DOM XSS in document.write sink using source location.search | Hussin Ibrahim | [Read More](https://medium.com/p/8fcef1171d19) |
-| Tue, 14 Oct 2025 03:43:12 GMT | Security Specialists in High Demand: How RPL Helps ICT Professionals Migrate to Australia | CDR for Australia | [Read More](https://medium.com/p/f006f583e4b8) |
-| Tue, 14 Oct 2025 03:37:40 GMT | Windows 10 Support Ends: Is This the End of Our Digital World? | Sasono Utomo | [Read More](https://medium.com/p/7cb7a3718a03) |
-| Tue, 14 Oct 2025 03:32:20 GMT | 5 Advanced Authentication Flows for Node.js Developers | Arunangshu Das | [Read More](https://medium.com/p/a84610fa602d) |
-| Tue, 14 Oct 2025 03:25:29 GMT | Supabase vs Firebase: Which Backend Truly Fits Your App in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/e2c8b52d56fe) |
-| Tue, 14 Oct 2025 03:24:43 GMT | The 10th Angel: Sachiel, The Angel of the Sky — Orbital Hijacking and Self-Destructive Guidance in… | Scott Huang | [Read More](https://medium.com/p/f82ab98b0238) |
-| Tue, 14 Oct 2025 03:22:16 GMT | Mastering OWASP ZAP: The Essential Guide for Test Engineers & Security Enthusiasts | Mohamed Said Ibrahim | [Read More](https://medium.com/p/b9257b64ce35) |
-| Tue, 14 Oct 2025 03:21:35 GMT | Brazil-Focused Multi-Stage Campaign: VBS → PowerShell → WhatsApp Web Automation | Robert Gonzalez | [Read More](https://medium.com/p/916617b70c38) |
-| Tue, 14 Oct 2025 03:18:27 GMT | Building a Secure OAuth 2.0 REST API with FastAPI — A Complete Guide (With Code + Theory) | Vinayak Vathare | [Read More](https://medium.com/p/b339e2a3b4e0) |
-| Tue, 14 Oct 2025 03:09:40 GMT | JIT Compilation in PostgreSQL: Performance Gains for Complex AI Queries | Rizqi Mulki | [Read More](https://medium.com/p/5dec84db477c) |
-| Tue, 14 Oct 2025 03:07:36 GMT | The Loneliness Paradox: Hyperconnected But Alone | Pavan | [Read More](https://medium.com/p/631c1b3d637a) |
-| Tue, 14 Oct 2025 03:05:44 GMT | Ethical Hacking: The Responsible Edge of Cybersecurity | Silence | [Read More](https://medium.com/p/9fd09cba2521) |
-| Tue, 14 Oct 2025 02:28:23 GMT | Dumpster Diving for Firmware: The Real Source Code Repositories | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/be9e54ef7a00) |
-| Tue, 14 Oct 2025 02:28:06 GMT | How Devs Can Outsmart Hackers (Before It’s Too Late) | Rendiero | [Read More](https://medium.com/p/83ff91d191e5) |
-| Tue, 14 Oct 2025 02:23:11 GMT | How Operating Systems Connect You, Apps, and Hardware — Explained Simply | Thuong To | [Read More](https://medium.com/p/1e87ffa92054) |
-| Tue, 14 Oct 2025 02:21:06 GMT | Filesystem Trust Boundaries Privilege Escalation & Preventation | Christian Zink | [Read More](https://medium.com/p/6f76a8e0604f) |
