@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 05:15:00 GMT | Cyber Security Testing — Types of Cybersecurity Testing | Kualitatem | [Read More](https://medium.com/p/a1de660707cd) |
+| Tue, 14 Oct 2025 05:11:34 GMT | Top 10 Cybersecurity Predictions for 2025 | Jeffinvarghese | [Read More](https://medium.com/p/185df5a26f3a) |
 | Tue, 14 Oct 2025 04:39:42 GMT | Detecting web attacks/Thm room | Asif.k | [Read More](https://medium.com/p/b8a671210a10) |
 | Tue, 14 Oct 2025 04:30:53 GMT | Top 5 AI Video Creation Tools in 2025 — Create Stunning Videos Effortlessly! | Faizak | [Read More](https://medium.com/p/89cdf4156460) |
 | Tue, 14 Oct 2025 04:30:36 GMT | Beyond the Test Case: Why Context Matters More Than Coverage | Lakindu De Silva | [Read More](https://medium.com/p/c1661d329cde) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 19:18:41 GMT | Blockchain Bug Hunting & Patch Workflow: A Complete Checklist for Ethical Hackers | Monika sharma | [Read More](https://medium.com/p/057415161a0f) |
 | Mon, 13 Oct 2025 19:14:23 GMT | Ethical Hackers: The 2025 Digital Guardians | Smith Adams | [Read More](https://medium.com/p/1b42e4499f89) |
 | Mon, 13 Oct 2025 19:07:57 GMT | Backup Strategies with OneDrive: What Happens If Something Is Deleted? | Cordula Boeck | [Read More](https://medium.com/p/b536fbadd79f) |
-| Mon, 13 Oct 2025 19:07:44 GMT | The Future of Software Security: From Reactive Defense to Active Resilience | Akilnath Bodipudi | [Read More](https://medium.com/p/1aed394870cf) |
-| Mon, 13 Oct 2025 19:07:43 GMT | DAY 3: Understanding the Different Types of Access Control: A Complete Guide | Krish Shrestha | [Read More](https://medium.com/p/c8bf24142778) |
