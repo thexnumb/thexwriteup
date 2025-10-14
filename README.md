@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 23:31:34 GMT | How I Hacked Proton VPN and Got Paid | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/501a9eee39c9) |
+| Tue, 14 Oct 2025 23:23:28 GMT | How to build a bank p6: The Core: initial setup | Logan Elkins | [Read More](https://medium.com/p/539116ca552c) |
 | Tue, 14 Oct 2025 22:57:13 GMT | Is Blazer Browser Malware? The Truth About Its Safety and Security | Christian Anderson | [Read More](https://medium.com/p/ff3b41997f71) |
 | Tue, 14 Oct 2025 22:51:11 GMT | Remote CCTV Monitoring Timeline | Visual Monitoring Solutions | [Read More](https://medium.com/p/984e465c3b40) |
 | Tue, 14 Oct 2025 22:39:20 GMT | How Unmonitored JavaScript Steals Customer Data | Cyber-AppSec | [Read More](https://medium.com/p/1d3bacc73ccc) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 16:46:14 GMT | 15 ChatGPT Features That Actually Make Daily Life Easier | Sudarshan Gore | [Read More](https://medium.com/p/c150a2481705) |
 | Tue, 14 Oct 2025 16:43:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/32f08a800ea5) |
 | Tue, 14 Oct 2025 16:43:11 GMT | Artificial Intelligence Is the Future of Cybersecurity | Xcelplex | [Read More](https://medium.com/p/e2b62eadbcdd) |
-| Tue, 14 Oct 2025 16:37:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6c02ce8de11a) |
-| Tue, 14 Oct 2025 16:35:27 GMT | A small number of samples can poison LLMs of any size | ASAcrew Blog | [Read More](https://medium.com/p/11ffb970b0ac) |
