@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 21:35:56 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/172d7aee07b3) |
+| Tue, 14 Oct 2025 21:28:40 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/e3da86227467) |
+| Tue, 14 Oct 2025 21:26:29 GMT | The CIA Triad: The Foundation of Every Cybersecurity Strategy | Cyber_Phoenix | [Read More](https://medium.com/p/dc830fda7a48) |
+| Tue, 14 Oct 2025 21:22:26 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/87f1ba9a1d31) |
+| Tue, 14 Oct 2025 21:19:25 GMT | Day 9 of my Cybersecurity Learning: PowerShell Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/bd83ddb3344e) |
+| Tue, 14 Oct 2025 21:15:10 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/8b696e433129) |
+| Tue, 14 Oct 2025 21:07:01 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/cf455394f282) |
 | Tue, 14 Oct 2025 20:59:16 GMT | Cybersecurity for Remote Workers | Cyber Security Research | [Read More](https://medium.com/p/82d4cccd1cd3) |
 | Tue, 14 Oct 2025 20:59:12 GMT | Why Every Business Needs a Security Audit: Your Shield Against Costly Breaches | Mrutunjaya Senapati | [Read More](https://medium.com/p/71e42d43b3e4) |
 | Tue, 14 Oct 2025 20:57:33 GMT | Ciberseguridad: más allá de los sistemas | Liliana Reyes | [Read More](https://medium.com/p/9c82b60f210f) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 16:08:23 GMT | Hackers Love When You Forget These 5 Privacy Settings | Pannag Kumaar | [Read More](https://medium.com/p/ee663e892910) |
 | Tue, 14 Oct 2025 16:07:49 GMT | Today’s Top Cyber Intelligence Highlights — Oct 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3f594b13cfd5) |
 | Tue, 14 Oct 2025 16:06:44 GMT | Smarter Cybercrime: How AI is Changing the Cybersecurity Battlefield in 2025 | Femintee | [Read More](https://medium.com/p/efb6837b5165) |
-| Tue, 14 Oct 2025 16:06:03 GMT | Artificial Intelligence (AI) in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/aaab90c8eabc) |
-| Tue, 14 Oct 2025 16:02:18 GMT | Why do Persian speaking intruders in the Middle East want your email account? | SafeNetting | [Read More](https://medium.com/p/7f12eb2334a3) |
-| Tue, 14 Oct 2025 15:55:59 GMT | Why Startups Should Take a Serious Look at CacheGuard UTM | CacheGuard Technologies | [Read More](https://medium.com/p/ef3799b63f50) |
-| Tue, 14 Oct 2025 15:53:27 GMT | Securing AWS with Terraform: A Management Perspective | AWS And Terraform Management | [Read More](https://medium.com/p/a9a9ca722149) |
-| Tue, 14 Oct 2025 15:45:39 GMT | Exposed Commands History of Moscow Hackers | Md. Abdullah Al Mamun | [Read More](https://medium.com/p/d9f8c17c2e50) |
-| Tue, 14 Oct 2025 15:32:38 GMT | The Executive View: Why Every Leader Should Care | James Wright | [Read More](https://medium.com/p/5a268beada63) |
-| Tue, 14 Oct 2025 15:32:15 GMT | NetSuck 8266 — turning an ESP8266 into a pocket Wi‑Fi lab | LETCHU PKT | [Read More](https://medium.com/p/979c2a495639) |
