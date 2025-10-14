@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 14:13:02 GMT | Integrasi MobSF → ADB → Frida: Eksplorasi Statis & Instrumentasi Dinamis | shadowreaper | [Read More](https://medium.com/p/a47fd9eadfa2) |
+| Tue, 14 Oct 2025 14:06:30 GMT | Creating Secure Authentication Systems with NextAuth.js: Modern Techniques | @rnab | [Read More](https://medium.com/p/9512645f15ae) |
+| Tue, 14 Oct 2025 14:03:25 GMT | Data Vault Breaker — Room Challenges: Red Team LINUXENIC Corporation Write-up | hihipro | [Read More](https://medium.com/p/2c82a23c5af5) |
+| Tue, 14 Oct 2025 14:02:54 GMT | Cyber Briefing: 2025.10.14 | CyberMaterial | [Read More](https://medium.com/p/5bcf6cbd96ea) |
+| Tue, 14 Oct 2025 14:02:51 GMT | How to Choose a Garage Door Opener: A Complete Buyer’s Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/497d8cd3683a) |
+| Tue, 14 Oct 2025 13:58:21 GMT | 23. Tools vs. Mindset: What Matters More in 2025 | Abhijeet kumawat | [Read More](https://medium.com/p/1be217350787) |
+| Tue, 14 Oct 2025 13:56:50 GMT | Hybrid Work Is Here — How Smart Monitoring Protects Productivity Without Killing Trust | Paul Meyer | [Read More](https://medium.com/p/7db9af9d63fd) |
+| Tue, 14 Oct 2025 13:56:05 GMT | SQL Injection di WHERE Clause — Cara Selesaikan Lab PortSwigger (Langkah-demi-langkah, Untuk… | Muhamad Avwan | [Read More](https://medium.com/p/e331c33c9ab2) |
+| Tue, 14 Oct 2025 13:53:05 GMT | Agentic AI and Cybersecurity: A New Frontier of Opportunity and Risk | PriyankaP | [Read More](https://medium.com/p/a2e3330a6ec6) |
+| Tue, 14 Oct 2025 13:51:59 GMT | Introduction to Process Hacker | Kim Tan | [Read More](https://medium.com/p/e5ae47afe967) |
+| Tue, 14 Oct 2025 13:51:14 GMT | 5 Surprising Lessons from the World of AppSec | 0xmosshead | [Read More](https://medium.com/p/1141ddf3256e) |
+| Tue, 14 Oct 2025 13:48:55 GMT | Culture, Climate, and Risk: How Organizations Shape Their Own Insider Threats | Demitri Malinski | [Read More](https://medium.com/p/c1fd69a6c644) |
+| Tue, 14 Oct 2025 13:48:13 GMT | Intigriti Challenge 1025 : Dual Path SSRF to (server-status → web-shell) | jsll | [Read More](https://medium.com/p/7eba198f6fe3) |
+| Tue, 14 Oct 2025 13:46:52 GMT | How to Deactivate a Garage Door Opener: Secure and Simple Methods | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/cf43092b3241) |
+| Tue, 14 Oct 2025 13:43:38 GMT | When “Oops, Wrong Number” Is Actually “Oops, You’re About to Get Scammed” | Eina Schroeder | [Read More](https://medium.com/p/88d01857b3c8) |
+| Tue, 14 Oct 2025 13:41:56 GMT | From Low to Medium - How a simple email injection earned me some $$$ | Umanhonlen Gabriel | [Read More](https://medium.com/p/3e7630ae4e9c) |
+| Tue, 14 Oct 2025 13:39:44 GMT | Tired of Resetting Passwords Every 180 Days? Try This Offline Trick | Davvy Singh | [Read More](https://medium.com/p/f5e50d2a447b) |
+| Tue, 14 Oct 2025 13:39:01 GMT | Privilege Escalation: Microsoft Windows: | Travis Ray Caverhill | [Read More](https://medium.com/p/963585b0fe6c) |
+| Tue, 14 Oct 2025 13:32:58 GMT | From Discovery to Action: Strengthening My Client’s Website Security and Performance | Meenatchisundharam Web Developer | [Read More](https://medium.com/p/f4b56bdd9117) |
 | Tue, 14 Oct 2025 13:23:19 GMT | How Hackers Use Artificial Intelligence Against Businesses — and How You Can Protect Yours | Cordula Boeck | [Read More](https://medium.com/p/68afe2916cb7) |
+| Tue, 14 Oct 2025 13:23:03 GMT | Day 35: NAT Gateway in AWS | Prutha_Dongre | [Read More](https://medium.com/p/e8c09ca769e5) |
 | Tue, 14 Oct 2025 13:22:42 GMT | The Reputation Repair Roadmap: Rebuilding After a Smear Campaign | Malik Mobeen | [Read More](https://medium.com/p/b84495805a02) |
+| Tue, 14 Oct 2025 13:22:32 GMT | The Holes in the Net: What the DeepSeek Guardrail Gap Reveals About AI Moderation | Barrett Nash - Cofounder and CEO of InfiniteUp | [Read More](https://medium.com/p/2c40ee242afc) |
 | Tue, 14 Oct 2025 13:21:13 GMT | “Are Web LLM Attacks Just Social Engineering 2.0?” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8e37f19d874b) |
 | Tue, 14 Oct 2025 13:17:33 GMT | Teaching Security Scanners to Remember: Using Vector Embeddings to Stop Chasing Ghost Ports | Simon Morley | [Read More](https://medium.com/p/23227f23063b) |
 | Tue, 14 Oct 2025 13:16:29 GMT | SaaS Contract Lawyers Every Founder Needs in 2025 | Hansen Tong | [Read More](https://medium.com/p/16434e5f5bd3) |
@@ -93,24 +114,3 @@ CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
 | Tue, 14 Oct 2025 09:55:57 GMT | Checkpoint Access: Redefining Modern Security | Jahanzaib Idrees | [Read More](https://medium.com/p/74fb0967139e) |
 | Tue, 14 Oct 2025 09:49:30 GMT | The Day My Password Manager Betrayed Me | Fateyaly | [Read More](https://medium.com/p/357fe78f7e7d) |
 | Tue, 14 Oct 2025 09:49:23 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/f02132ac8a46) |
-| Tue, 14 Oct 2025 09:47:38 GMT | ️ Menjaga Dunia Digital: Sistem Keamanan Terbaik yang Dipakai Saat Ini | kilat404 | [Read More](https://medium.com/p/cd3b707892d8) |
-| Tue, 14 Oct 2025 09:47:07 GMT | Smart Access for a Smarter World — The Power of Checkpoint Access | Jahanzaib Idrees | [Read More](https://medium.com/p/21f5ad45a08d) |
-| Tue, 14 Oct 2025 09:43:08 GMT | How Hackers Hijack AI Models: The New Face of Prompt Injection Attacks | Germano Costi | [Read More](https://medium.com/p/7f87f658998a) |
-| Tue, 14 Oct 2025 09:42:37 GMT | Artificial Intelligence (AI) in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/46858ac003d7) |
-| Tue, 14 Oct 2025 09:41:10 GMT | 2: Technical Decisions & Tooling | Daniele Frisanco | [Read More](https://medium.com/p/ba42a44d38fc) |
-| Tue, 14 Oct 2025 09:36:19 GMT | Stop Listening to Historians Talk About AI, and New Technologies | Rui Santos | [Read More](https://medium.com/p/30b0982d43d4) |
-| Tue, 14 Oct 2025 09:34:59 GMT | Portswigger Academy — Insecure direct object references — Write-up | Alan | [Read More](https://medium.com/p/4a21ac26353e) |
-| Tue, 14 Oct 2025 09:34:50 GMT | High-Performing Software Testing Teams At Kualitee | Kualitee | [Read More](https://medium.com/p/0869614c9794) |
-| Tue, 14 Oct 2025 09:32:27 GMT | a detailed overview of the fundamentals of cybersecurity, emphasizing the importance of protecting… | Mohammed Bilal | [Read More](https://medium.com/p/fd4717ac60ab) |
-| Tue, 14 Oct 2025 09:31:46 GMT | 7 Auth Designs (JWT, Session, OIDC) Without Latency | Thinking Loop | [Read More](https://medium.com/p/c26e4397f3a0) |
-| Tue, 14 Oct 2025 09:31:46 GMT | 9 Security-By-Default Moves for JS Full-Stack Apps | Bhagya Rana | [Read More](https://medium.com/p/ed3bb88be6f0) |
-| Tue, 14 Oct 2025 09:28:53 GMT | JavaScript Paywall at a Major Swiss Media Group — Responsible Disclosure | CyberCitizen | [Read More](https://medium.com/p/362733596cb2) |
-| Tue, 14 Oct 2025 09:28:49 GMT | Quantum Ethics: Regulating the Next Intelligence Revolution | Muhammad Waqas | [Read More](https://medium.com/p/8c2788fd7db1) |
-| Tue, 14 Oct 2025 09:28:26 GMT | How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution” | swiv | [Read More](https://medium.com/p/4c44122cacdd) |
-| Tue, 14 Oct 2025 09:27:49 GMT | How DMARC Monitoring Strengthens Your Brand Security | Tanvir Ahmad | [Read More](https://medium.com/p/9726651ba4f8) |
-| Tue, 14 Oct 2025 09:25:34 GMT | Scaling Test Automation with Low-Code: Faster, Smarter, and More Accessible QA | ESSPL | [Read More](https://medium.com/p/07c704db05c4) |
-| Tue, 14 Oct 2025 09:24:05 GMT | What is Security Architecture Design in Cloud Computing | David Smith | [Read More](https://medium.com/p/6370226da8f9) |
-| Tue, 14 Oct 2025 09:22:59 GMT | Want A Cybersecurity Job? Here’s How Oluwabunmi Did It, Her Story Is Insane | Jerome Jamang | [Read More](https://medium.com/p/88756fd88edf) |
-| Tue, 14 Oct 2025 09:19:34 GMT | winter is on my tongue. | Preena_NR | [Read More](https://medium.com/p/6527536d7d56) |
-| Tue, 14 Oct 2025 09:17:27 GMT | ️ System Hardening: Building a Secure Foundation for Your IT Environment | Sebastian Kandler | [Read More](https://medium.com/p/6d780aec72e0) |
-| Tue, 14 Oct 2025 09:15:39 GMT | SQL Injection (SQLi): Build a SQL Injection Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/098f78fdffd6) |
