@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 12:41:39 GMT | How to Detect and Prevent Ransomware | Dkvilas | [Read More](https://medium.com/p/3b43706aa695) |
+| Tue, 14 Oct 2025 12:40:34 GMT | Why “Hackers Are Criminals” Is an Outdated View | Your's Nightmare | [Read More](https://medium.com/p/8178d702fa9d) |
+| Tue, 14 Oct 2025 12:33:55 GMT | K17 CTF | Harpogma | [Read More](https://medium.com/p/89dee8029bb7) |
+| Tue, 14 Oct 2025 12:32:02 GMT | Case Study: The Startup That Passed Due Diligence — Without a CISO | Lester Davila Escobedo | [Read More](https://medium.com/p/8baab8f0e029) |
+| Tue, 14 Oct 2025 12:31:50 GMT | Strengthening Information Security with ISO 27001:2022 | Mahmoothraahim | [Read More](https://medium.com/p/7211bd7c177a) |
+| Tue, 14 Oct 2025 12:30:56 GMT | Cybersecurity Threats In 2025 | The United Indian | [Read More](https://medium.com/p/3bc9d5fef491) |
+| Tue, 14 Oct 2025 12:27:47 GMT | Does Your Wireless Keyboard or Mouse Lead You to a Breach? | Abdul Samad | [Read More](https://medium.com/p/0409b5e512f3) |
+| Tue, 14 Oct 2025 12:26:07 GMT | State of Scams USA 2025 – Key Highlights | Balasubramaniam GD | [Read More](https://medium.com/p/ed4ac444718e) |
+| Tue, 14 Oct 2025 12:25:23 GMT | What is Social Engineering and how to stay protected | Red Sift | [Read More](https://medium.com/p/a5fb3557e8ae) |
+| Tue, 14 Oct 2025 12:21:24 GMT | AI Cybersecurity Solution: The Third Eye Businesses Need in the Digital Age | Forefront Technology International Inc. | [Read More](https://medium.com/p/26edeb03abcb) |
+| Tue, 14 Oct 2025 12:16:31 GMT | How a Chrome extension restores copy/paste & right-click on restrictive websites | Peter U | [Read More](https://medium.com/p/a594d5abbe6b) |
+| Tue, 14 Oct 2025 12:15:10 GMT | Scriptman: Building a Secure Bash Automation Framework for Cybersecurity | Gabriel D. Vincent | [Read More](https://medium.com/p/b5c8b0fa26aa) |
+| Tue, 14 Oct 2025 12:14:35 GMT | How Advanced AI & Cloud Cut Fintech Fraud — Real Results from the Frontlines | Bhagyashreesurolia | [Read More](https://medium.com/p/8916591ab0b6) |
+| Tue, 14 Oct 2025 12:14:11 GMT | Veeam’s bounty program strikes again | ITinto Blog - Alessandro Tinivelli | [Read More](https://medium.com/p/35fcfec64679) |
+| Tue, 14 Oct 2025 12:09:06 GMT | Secure by Quantum Design: Protecting Financial Transactions with Quantum Cryptography | Gurbans Chatwal | [Read More](https://medium.com/p/716a29bbfeab) |
+| Tue, 14 Oct 2025 12:04:22 GMT | Auditd Advanced Usage Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/54aedeb64ef3) |
+| Tue, 14 Oct 2025 11:56:42 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/7941fb1654ad) |
+| Tue, 14 Oct 2025 11:55:28 GMT | Why Enterprise AI Adoption Stalls — And How to Fix It | Scifi-and-Beyond.com | [Read More](https://medium.com/p/8ea730067ec6) |
+| Tue, 14 Oct 2025 11:52:24 GMT | Technology and the Modern World | Rana Ramzan | [Read More](https://medium.com/p/cbe89aca3aae) |
+| Tue, 14 Oct 2025 11:50:41 GMT | Blockchain Security: Safeguarding Decentralized Systems | Cyber Security Research | [Read More](https://medium.com/p/93554cdfef54) |
+| Tue, 14 Oct 2025 11:49:06 GMT | OffSec Echo Response Week 1: ProtoVault Breach - My Beginner CTF Journey | Abdul Matheen | [Read More](https://medium.com/p/5785c885baa5) |
+| Tue, 14 Oct 2025 11:44:23 GMT | How I Set Up My Own Private VPN (And How You Can Too) | Michael Imoabasi Etokakpan | [Read More](https://medium.com/p/4e1019c3e680) |
+| Tue, 14 Oct 2025 11:33:25 GMT | COULD you help me with something : I have my OKX wallet with 5,000 USDT, and I have the… | Joelle luxer | [Read More](https://medium.com/p/c8e7973de250) |
+| Tue, 14 Oct 2025 11:32:19 GMT | Linux Permissions: Users, Groups, ACLs, and Sudo for Security | bektiaw | [Read More](https://medium.com/p/51eb5a535fc3) |
 | Tue, 14 Oct 2025 11:24:24 GMT | Ransomware Rampage: Spotting the Lockdown Before It Happens | Aysha Misri | [Read More](https://medium.com/p/3fa827f1f68c) |
 | Tue, 14 Oct 2025 11:21:09 GMT | Extropy Security Bytes: w40, 2025 | Extropy.IO | [Read More](https://medium.com/p/4335601b08f5) |
 | Tue, 14 Oct 2025 11:20:35 GMT | CyberArk: The Game Changer in IT Security | Zayn | [Read More](https://medium.com/p/755e21a61e9c) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 08:48:08 GMT | Exercise 3 — Remove a Role Assignment | Azhariqbal | [Read More](https://medium.com/p/b2114a4fbd2d) |
 | Tue, 14 Oct 2025 08:46:12 GMT | Russianmarket — Tracking the Momentum of the Russian Market Index (MOEX CFD) in 2025 | Spiderblack | [Read More](https://medium.com/p/ac1395560bba) |
 | Tue, 14 Oct 2025 08:42:59 GMT | Digital Shield: Defining the Next Generation of Digital Asset Security with 100% Open-Source… | Digital Shield | [Read More](https://medium.com/p/a637c9cd0f62) |
-| Tue, 14 Oct 2025 08:41:33 GMT | Beyond Hardware: How Digital Shield is Systemically Revolutionizing Decentralized Asset Management… | Digital Shield | [Read More](https://medium.com/p/ee0887f3ec3e) |
-| Tue, 14 Oct 2025 08:31:51 GMT | Think You Know How CloudFront Works? Think Again. | Shivanshu Sharma | [Read More](https://medium.com/p/4480a154dd22) |
-| Tue, 14 Oct 2025 08:29:44 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | David Cheng | [Read More](https://medium.com/p/6d182f1c66ab) |
-| Tue, 14 Oct 2025 08:26:08 GMT | Try Hack Me Walkthrough — Networking Concepts | Techintel | [Read More](https://medium.com/p/bfd9f9c37494) |
-| Tue, 14 Oct 2025 08:25:34 GMT | Try Hack Me Walkthrough — Tcpdump: The Basics | Techintel | [Read More](https://medium.com/p/c819ee336748) |
-| Tue, 14 Oct 2025 08:24:23 GMT | Top 6 Job-Ready Skills for 2026 | Johnett - A Lady That Loves Growth | [Read More](https://medium.com/p/c9b82bcf1d28) |
-| Tue, 14 Oct 2025 08:07:10 GMT | Why Multi-Cloud Security is More Crucial Than Ever | Qualysec | [Read More](https://medium.com/p/69cdd1a559c6) |
-| Tue, 14 Oct 2025 08:07:06 GMT | Understanding the Proxmox Architecture: From ESXi to Proxmox VE 8.4 | Bridget | [Read More](https://medium.com/p/0d41d300365a) |
-| Tue, 14 Oct 2025 08:04:10 GMT | OSINT Has Limits — Cross Them and You’re Hacking | Sam Galope | [Read More](https://medium.com/p/a4b6fa48d9fc) |
-| Tue, 14 Oct 2025 08:01:49 GMT | Find Your Domain in Stealer Logs in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/6063a2f49902) |
-| Tue, 14 Oct 2025 08:01:49 GMT | Trusted IT Support in Kennington for Business | Gary Marshall | [Read More](https://medium.com/p/01625bb4f354) |
-| Tue, 14 Oct 2025 08:00:51 GMT | When Innocence Is Hacked | O. J. Okpabi | [Read More](https://medium.com/p/4a921bc95f1d) |
-| Tue, 14 Oct 2025 07:59:47 GMT | Don’t Let React Spam Your Server! | WittCode | [Read More](https://medium.com/p/377c42e82f6d) |
-| Tue, 14 Oct 2025 07:59:34 GMT | LLM Guardrails in Production: The 3AM Attack That Cost $147 Instead of $10,412 | Freddy D. Alvarez | [Read More](https://medium.com/p/4e5e86f7e2ff) |
-| Tue, 14 Oct 2025 07:54:59 GMT | How to Safely Hide Secrets in Your Android Application | Angela Nyabuti | [Read More](https://medium.com/p/2056461856ec) |
-| Tue, 14 Oct 2025 07:53:02 GMT | Wait, What? You Dropped It? Your Guard. | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/b17b96067cf1) |
-| Tue, 14 Oct 2025 07:51:49 GMT | October 2025 Chronicles: How Quppy AML Bot Became the Trader’s Best Friend | QuppyAMLBOT | [Read More](https://medium.com/p/0debc8749ee4) |
-| Tue, 14 Oct 2025 07:49:09 GMT | Advanced Hunting: Practical Tricks I Still Used After 10+ Years of Bug Bounty Hunting | Abhishek meena | [Read More](https://medium.com/p/1475c39fa83a) |
-| Tue, 14 Oct 2025 07:48:27 GMT | Crypto Phishing Scams: How to Recognize and Avoid Them | MR. CIP | [Read More](https://medium.com/p/0fff814e6af9) |
-| Tue, 14 Oct 2025 07:47:24 GMT | From Tool Chaos to Digital Ecosystem | Johan Vrolix | [Read More](https://medium.com/p/48ba92efc767) |
-| Tue, 14 Oct 2025 07:41:02 GMT | BestBesFree vs Paid VPNs: Which One Actually Protects You? | Gaurav Kumar | [Read More](https://medium.com/p/78dda63a8bfc) |
-| Tue, 14 Oct 2025 07:40:24 GMT | Crimsafe Installation Quick & Hassle-Free Steps | Gold Coast Security Screens | [Read More](https://medium.com/p/c4cf941ab8c0) |
-| Tue, 14 Oct 2025 07:32:24 GMT | XSS: Bypassing Cloudflare WAF with a Simple Trick | Pranav Patil | [Read More](https://medium.com/p/12aff8ce87c7) |
-| Tue, 14 Oct 2025 07:32:16 GMT | Walls Don’t Exist, But Please Use the Door | Dexterite | [Read More](https://medium.com/p/d41d8c00e434) |
