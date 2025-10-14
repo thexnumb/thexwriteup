@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 10:37:53 GMT | What to Expect from a Professional Penetration Testing Service | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/4a5151cdaef4) |
+| Tue, 14 Oct 2025 10:36:50 GMT | Sandbox Evasion Defense | Esra Kayhan | [Read More](https://medium.com/p/6c61676c7c0f) |
+| Tue, 14 Oct 2025 10:32:28 GMT | We Keep Relearning the Same Lesson: Cyber Resilience Still Needs Paper | David Stubley | [Read More](https://medium.com/p/d3d64143d3ff) |
+| Tue, 14 Oct 2025 10:26:05 GMT | Windows Security: Hardening the Fortress | Windows Guide | [Read More](https://medium.com/p/54ffc075897e) |
+| Tue, 14 Oct 2025 10:22:39 GMT | The Dark Side of Browser Extensions: The Silent Data Thieves in Your Browser | Saritamukkani | [Read More](https://medium.com/p/c602ae0755ca) |
+| Tue, 14 Oct 2025 10:22:38 GMT | Digital Twin Security: Safeguarding the Cyber-Physical Bridge | Jackdavis Iap | [Read More](https://medium.com/p/53b23207004a) |
+| Tue, 14 Oct 2025 10:19:00 GMT | The Role of Cybersecurity in Modern Software Licensing | Sahil | [Read More](https://medium.com/p/5270cff57492) |
+| Tue, 14 Oct 2025 10:18:13 GMT | From Data Breaches to Defence: The Value of Professional Cybersecurity Services | SmartCLOUD Australia | [Read More](https://medium.com/p/6a579cdc5a0f) |
+| Tue, 14 Oct 2025 10:17:36 GMT | Global Trading 2025 - How Smart Platforms Like Russian Market Are Redefining the Future of… | jokerstashh | [Read More](https://medium.com/p/e7692c0bcd5c) |
 | Tue, 14 Oct 2025 10:16:09 GMT | Why Cloud Security Is Critical for Businesses | Sahil | [Read More](https://medium.com/p/9fcecb89db54) |
 | Tue, 14 Oct 2025 10:11:23 GMT | SAST vs DAST in OutSystems | Remco Dekkinga | [Read More](https://medium.com/p/06c04383c565) |
+| Tue, 14 Oct 2025 10:10:37 GMT | DOS Attack: Building a Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/de64fe308ede) |
 | Tue, 14 Oct 2025 10:10:19 GMT | Portswigger Academy — Reflected XSS with event handlers and href attributes blocked — Write-up | Alan | [Read More](https://medium.com/p/3da3661dc08b) |
 | Tue, 14 Oct 2025 10:04:10 GMT | The End of Blind Spots: How AI is Giving Cameras a Sixth Sense - Ai Protect | Yutika | [Read More](https://medium.com/p/5a99621d16de) |
 | Tue, 14 Oct 2025 10:00:01 GMT | DockerLabs Writeup — Whoiam (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fd826fb561ea) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 06:50:27 GMT | GenAI for practical cybersecurity | Saravanan.R | [Read More](https://medium.com/p/177234c4ca8d) |
 | Tue, 14 Oct 2025 06:40:03 GMT | How I Accidentally Found the Company’s “Master Key” by Changing a Single Number | Iski | [Read More](https://medium.com/p/d9cf275b5097) |
 | Tue, 14 Oct 2025 06:38:51 GMT | Cyber Security - Amartam | Amartam Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/684eba611230) |
-| Tue, 14 Oct 2025 06:37:22 GMT | KYLO: An AI-Powered CLI security code auditor to Audit your Code for Security Risks | Leon Musk | [Read More](https://medium.com/p/0688564f8e53) |
-| Tue, 14 Oct 2025 06:35:13 GMT | Passkeys and GenAI are the new baseline for Security | Saravanan.R | [Read More](https://medium.com/p/f898d8debaa1) |
-| Tue, 14 Oct 2025 06:23:18 GMT | Microsoft UAC Bypass — The Shortcut Hack Attackers Love | Shantnu K. | [Read More](https://medium.com/p/df29dbf070d0) |
-| Tue, 14 Oct 2025 06:21:43 GMT | The Deep Web Is Dying And Something Worse Is Replacing It | Arfa | [Read More](https://medium.com/p/c228f579b87d) |
-| Tue, 14 Oct 2025 06:19:08 GMT | Security Locksmith Services by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/3fa8d0deb3ac) |
-| Tue, 14 Oct 2025 06:18:52 GMT | The Daily Tech Digest: 14 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/cc29c15d9c4d) |
-| Tue, 14 Oct 2025 06:17:44 GMT | Optimizing Jira Permissions for External Vendors | Erdem UÇAK | [Read More](https://medium.com/p/1573b5b9019d) |
-| Tue, 14 Oct 2025 06:16:41 GMT | Create a XSS lab: From Reflected to Stored | Travis Ray Caverhill | [Read More](https://medium.com/p/c6dac7dc3a34) |
-| Tue, 14 Oct 2025 06:13:43 GMT | The Cyber Apocalypse Has Already Started, You Just Didn’t Notice | Arfa | [Read More](https://medium.com/p/d8cc83055635) |
-| Tue, 14 Oct 2025 06:12:07 GMT | Feeling Lost in the AI Hype? You’re Focusing on the Wrong Thing. | SjCoachUp | [Read More](https://medium.com/p/17d238bdb783) |
