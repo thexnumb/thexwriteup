@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 22:57:13 GMT | Is Blazer Browser Malware? The Truth About Its Safety and Security | Christian Anderson | [Read More](https://medium.com/p/ff3b41997f71) |
+| Tue, 14 Oct 2025 22:51:11 GMT | Remote CCTV Monitoring Timeline | Visual Monitoring Solutions | [Read More](https://medium.com/p/984e465c3b40) |
+| Tue, 14 Oct 2025 22:39:20 GMT | How Unmonitored JavaScript Steals Customer Data | Cyber-AppSec | [Read More](https://medium.com/p/1d3bacc73ccc) |
+| Tue, 14 Oct 2025 22:37:01 GMT | Rewiring the Streetlight: How to Listen to the Web Without Making Noise | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/abe664d6dfc0) |
 | Tue, 14 Oct 2025 22:25:36 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 2) | Andrii Shyshenko | [Read More](https://medium.com/p/d9e07b2f696a) |
 | Tue, 14 Oct 2025 22:19:26 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 1) | Andrii Shyshenko | [Read More](https://medium.com/p/0c0818b9e9ca) |
 | Tue, 14 Oct 2025 21:51:28 GMT | Mastering Seccomp Filters in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/aa9c13c9fc54) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 16:43:11 GMT | Artificial Intelligence Is the Future of Cybersecurity | Xcelplex | [Read More](https://medium.com/p/e2b62eadbcdd) |
 | Tue, 14 Oct 2025 16:37:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6c02ce8de11a) |
 | Tue, 14 Oct 2025 16:35:27 GMT | A small number of samples can poison LLMs of any size | ASAcrew Blog | [Read More](https://medium.com/p/11ffb970b0ac) |
-| Tue, 14 Oct 2025 16:30:51 GMT | Google Dorking for Beginners: The Ethical Hacker’s Guide to Smarter Searching | Raj Rawat | [Read More](https://medium.com/p/c61cdbf152cf) |
-| Tue, 14 Oct 2025 16:29:57 GMT | Ethical Hacking: A Career in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/f04b4438f0cf) |
-| Tue, 14 Oct 2025 16:25:32 GMT | THE PUZZLE BOX // HASH_0001.FALL | Carrie Davis | [Read More](https://medium.com/p/30087db97f5d) |
-| Tue, 14 Oct 2025 16:19:27 GMT | When Firewalls Face the Future: The New Threats Targeting Next-Gen Security | r00tb33r | [Read More](https://medium.com/p/c34607f62158) |
