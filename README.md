@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 04:06:03 GMT | 2025’s Biggest Data Breaches: Williams & Connolly and Red Hat Explained | RTB CYBERTECH | [Read More](https://medium.com/p/02cbce42f277) |
+| Tue, 14 Oct 2025 04:05:22 GMT | 5 Wordlists Every Bug Bounty Hunter Should Save (and how to use them) | Code Pulse | [Read More](https://medium.com/p/a03d875222b4) |
+| Tue, 14 Oct 2025 03:56:35 GMT | Why OPSEC Is the Red Team’s Most Underrated Tool (and How to Use It) | Rubab Fatima | [Read More](https://medium.com/p/63b9ddb0eaed) |
+| Tue, 14 Oct 2025 03:52:39 GMT | The Silent Guardians: How Python Empowers Cybersecurity and Cloud Intelligence | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/533145142320) |
 | Tue, 14 Oct 2025 03:44:05 GMT | Reconnaissance and Vulnerability Scanning: Finding the flag. | khumaidi kharis az-zacky | [Read More](https://medium.com/p/ae00db817892) |
 | Tue, 14 Oct 2025 03:43:20 GMT | Lab: DOM XSS in document.write sink using source location.search | Hussin Ibrahim | [Read More](https://medium.com/p/8fcef1171d19) |
 | Tue, 14 Oct 2025 03:43:12 GMT | Security Specialists in High Demand: How RPL Helps ICT Professionals Migrate to Australia | CDR for Australia | [Read More](https://medium.com/p/f006f583e4b8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 19:03:11 GMT | eJPT Passed: My Unfiltered Tips | Navaneeth M S | [Read More](https://medium.com/p/2c6695ba5134) |
 | Mon, 13 Oct 2025 19:02:40 GMT | Breaking ANDRÓG-X: An Adversarial Prompt Engineering CTF Challenge | Yasser Namez | [Read More](https://medium.com/p/a451a4278026) |
 | Mon, 13 Oct 2025 18:53:16 GMT | Integrated Video Surveillance and Access Control: The Next Era of Smart Facility Security | ASI Systems Pro | [Read More](https://medium.com/p/9d2b07325f2c) |
-| Mon, 13 Oct 2025 18:50:11 GMT | Python Mastery: Automating Everyday Tasks Like a Pro | Kainat Nafees | [Read More](https://medium.com/p/12d3abcd236d) |
-| Mon, 13 Oct 2025 18:48:17 GMT | Seccomp Filters Best Practices for Enterprise Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/d053438f8b17) |
-| Mon, 13 Oct 2025 18:47:24 GMT | Why You Should Change Your Debit Card Every 12 Months | Dave | [Read More](https://medium.com/p/a7bb339e7911) |
-| Mon, 13 Oct 2025 18:45:45 GMT | What Is a Phishing Email? Real-World Scam Examples | Kevin Asutton | [Read More](https://medium.com/p/5858b518eb8f) |
