@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 02:28:23 GMT | Dumpster Diving for Firmware: The Real Source Code Repositories | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/be9e54ef7a00) |
+| Tue, 14 Oct 2025 02:28:06 GMT | How Devs Can Outsmart Hackers (Before It’s Too Late) | Rendiero | [Read More](https://medium.com/p/83ff91d191e5) |
+| Tue, 14 Oct 2025 02:23:11 GMT | How Operating Systems Connect You, Apps, and Hardware — Explained Simply | Thuong To | [Read More](https://medium.com/p/1e87ffa92054) |
+| Tue, 14 Oct 2025 02:21:06 GMT | Filesystem Trust Boundaries Privilege Escalation & Preventation | Christian Zink | [Read More](https://medium.com/p/6f76a8e0604f) |
+| Tue, 14 Oct 2025 02:20:22 GMT | The Psychology of Exploits: Thinking Like a Hacker | Aj | [Read More](https://medium.com/p/ea84e7ad7d16) |
+| Tue, 14 Oct 2025 02:16:04 GMT | TryHackMe - Lookup Room - Write-Up (Spoilers) | Kieranjd98 | [Read More](https://medium.com/p/e4a331f2c16b) |
+| Tue, 14 Oct 2025 02:14:35 GMT | Post-Quantum Cryptography: Preparing for the Next Security Frontier | Code Blog | [Read More](https://medium.com/p/c69296c63067) |
+| Tue, 14 Oct 2025 02:02:41 GMT | How I Generated a Graduate-Level Physics Dataset and Fine-Tuned Qwen to Become a Physics Expert | Suraj Kumar | [Read More](https://medium.com/p/3c753cea3e73) |
+| Tue, 14 Oct 2025 01:56:20 GMT | “Actively Exploited” CVE-2024–38856 Apache OFBiz | HariHaranK | [Read More](https://medium.com/p/44f87aa8b944) |
+| Tue, 14 Oct 2025 01:50:52 GMT | Businesses Face Growing Need for Cybersecurity to Protect Intellectual Property | Financial Poise | [Read More](https://medium.com/p/e6aef1ed3fbb) |
+| Tue, 14 Oct 2025 01:43:14 GMT | SEO for Technology Companies: How to Rank #1 on Google in 2025 (Even in a Competitive Market) | sana irshad | [Read More](https://medium.com/p/5c985eea70e4) |
+| Tue, 14 Oct 2025 01:42:14 GMT | TryHackMe #116 - TheHive Project | SiberYuk | [Read More](https://medium.com/p/563098e4799e) |
+| Tue, 14 Oct 2025 01:36:48 GMT | TryHackMe #115 - Velociraptor | SiberYuk | [Read More](https://medium.com/p/5ff5b98accb5) |
 | Tue, 14 Oct 2025 01:36:00 GMT | Hackviser  —  File Inclusion Labs | Omer Bawazir | [Read More](https://medium.com/p/726732304d49) |
 | Tue, 14 Oct 2025 01:28:54 GMT | The Hidden Cost of Audit Fatigue — and How to Reverse It | Dr. Deep Pandey | [Read More](https://medium.com/p/7359b023c653) |
 | Tue, 14 Oct 2025 01:26:49 GMT | TryHackMe #113 - KAPE | SiberYuk | [Read More](https://medium.com/p/965b9e143ef6) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 18:13:06 GMT | Eufy PoE Turret Security Camera E41 Review | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/574228814ff2) |
 | Mon, 13 Oct 2025 18:12:51 GMT | Memecahkan Kode Rahasia: Eksplorasi Cryptography dari Zaman Romawi ke Era Digital | muhfalihr | [Read More](https://medium.com/p/50d92e30bca0) |
 | Mon, 13 Oct 2025 18:06:48 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ce9f56eba2cd) |
-| Mon, 13 Oct 2025 18:02:21 GMT | Istio vs. Linkerd: The Service Mesh Showdown for Kubernetes | Emircan Agac | [Read More](https://medium.com/p/bdfdc3c12286) |
-| Mon, 13 Oct 2025 18:02:17 GMT | For the Days I Feel Like a Failure | Nova S | [Read More](https://medium.com/p/e76530f792f7) |
-| Mon, 13 Oct 2025 18:02:16 GMT | IDOR — La vulnerabilidad invisible que sigue pagando recompensas | Gorka | [Read More](https://medium.com/p/792323f2c27f) |
-| Mon, 13 Oct 2025 17:59:38 GMT | How to Hack an Outlook Account? Methods to Learn for Protection | Alexander Hoffmann | [Read More](https://medium.com/p/89b5fc7e19b2) |
-| Mon, 13 Oct 2025 17:59:24 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/1d4f860bd4a5) |
-| Mon, 13 Oct 2025 17:53:43 GMT | How to Hack a Yahoo Account? Understanding Attack Methods to Protect Yourself | Alexander Hoffmann | [Read More](https://medium.com/p/13e6367c9542) |
-| Mon, 13 Oct 2025 17:52:11 GMT | Man-in-the-Middle (MITM) Attacks: Eavesdropping on Communications | Cyber Security Research | [Read More](https://medium.com/p/9be1ff973b79) |
-| Mon, 13 Oct 2025 17:51:41 GMT | When AI Turns Rogue: How Cybercriminals Weaponize Chatbots | Ashishsinghu | [Read More](https://medium.com/p/00ce2c71384b) |
-| Mon, 13 Oct 2025 17:46:21 GMT | How mass-assignment led to stored-XSS and a CSP bypass in a major chatbot platform | Sam Mirov | [Read More](https://medium.com/p/3c6569d7c9e9) |
-| Mon, 13 Oct 2025 17:42:19 GMT | Дайджест новостей из мира IT на 13.10.2025 | Rakhman Abdurakhmanov | [Read More](https://medium.com/p/f31be5e12e47) |
-| Mon, 13 Oct 2025 17:42:18 GMT | Building an Emergency Fund: A Footfall Towards Cyberbanking Security | Vijayakumar C | [Read More](https://medium.com/p/c35f1a386d4f) |
-| Mon, 13 Oct 2025 17:39:41 GMT | SQL Injection Attacks: A Database Security Threat | Cyber Security Research | [Read More](https://medium.com/p/48110e56b76c) |
-| Mon, 13 Oct 2025 17:37:45 GMT | Humans as Attack Vectors | Tony Khalil Rodgers | [Read More](https://medium.com/p/e48f31115023) |
