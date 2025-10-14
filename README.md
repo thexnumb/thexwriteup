@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 05:34:41 GMT | Cybersecurity Company London | C | [Read More](https://medium.com/p/516c898fa41e) |
+| Tue, 14 Oct 2025 05:34:17 GMT | MDR Cyber Security in 2025: What You Need to Know to Protect Your Business | Lipika | [Read More](https://medium.com/p/57c14b5774d9) |
+| Tue, 14 Oct 2025 05:30:43 GMT | Malware Dynamic Analysis | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/ec9c131acb53) |
+| Tue, 14 Oct 2025 05:30:26 GMT | GZR Observer — Global Daily — Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/cad9546640a4) |
+| Tue, 14 Oct 2025 05:21:09 GMT | Windows: Enabling Remote Desktop | Dharmendrakumar | [Read More](https://medium.com/p/06a85861babe) |
+| Tue, 14 Oct 2025 05:20:49 GMT | Dark Web Intelligence: How Security Teams Uncover Hidden Threats | Shantnu K. | [Read More](https://medium.com/p/9c42b96cc4f8) |
+| Tue, 14 Oct 2025 05:19:49 GMT | The 2FA Paradox: Protection That Enables 0-Click ATO | Ahmed Hussein | [Read More](https://medium.com/p/17e6120ee908) |
 | Tue, 14 Oct 2025 05:15:00 GMT | Cyber Security Testing — Types of Cybersecurity Testing | Kualitatem | [Read More](https://medium.com/p/a1de660707cd) |
 | Tue, 14 Oct 2025 05:11:34 GMT | Top 10 Cybersecurity Predictions for 2025 | Jeffinvarghese | [Read More](https://medium.com/p/185df5a26f3a) |
 | Tue, 14 Oct 2025 04:39:42 GMT | Detecting web attacks/Thm room | Asif.k | [Read More](https://medium.com/p/b8a671210a10) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 19:34:24 GMT | What is Phishing? A Beginner’s Guide to Scams | orioninsist | [Read More](https://medium.com/p/dff08f6bb36b) |
 | Mon, 13 Oct 2025 19:34:19 GMT | Creating A Tech Roadmap In Real Time | Ariel McBride | [Read More](https://medium.com/p/e076c6b70dd6) |
 | Mon, 13 Oct 2025 19:32:28 GMT | 7 Deno Deploy Tricks for Secure, Low-Ops Backends | Hash Block | [Read More](https://medium.com/p/2c08fc7b0e1b) |
-| Mon, 13 Oct 2025 19:32:28 GMT | Tiny Python, Big Gains | Syntal | [Read More](https://medium.com/p/95fe4ad1b2b9) |
-| Mon, 13 Oct 2025 19:31:23 GMT | Windows Red Team Endurance and Evasion Tactics | Muhammad Ali | [Read More](https://medium.com/p/40d0aa748757) |
-| Mon, 13 Oct 2025 19:29:36 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL SOLVE ALL YOUR PROBLEM. | Bjorn Lindberg | [Read More](https://medium.com/p/c2d2df7a7a48) |
-| Mon, 13 Oct 2025 19:28:41 GMT | Complete Guide to Hack Wi-Fi Security: Protecting Your Network from Password Attacks | Alexander Hoffmann | [Read More](https://medium.com/p/98e5f3391df9) |
-| Mon, 13 Oct 2025 19:18:41 GMT | Blockchain Bug Hunting & Patch Workflow: A Complete Checklist for Ethical Hackers | Monika sharma | [Read More](https://medium.com/p/057415161a0f) |
-| Mon, 13 Oct 2025 19:14:23 GMT | Ethical Hackers: The 2025 Digital Guardians | Smith Adams | [Read More](https://medium.com/p/1b42e4499f89) |
-| Mon, 13 Oct 2025 19:07:57 GMT | Backup Strategies with OneDrive: What Happens If Something Is Deleted? | Cordula Boeck | [Read More](https://medium.com/p/b536fbadd79f) |
