@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 16:12:08 GMT | Machine Learning for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/cab17f05c959) |
+| Tue, 14 Oct 2025 16:10:06 GMT | SOC 2 Type II: Proving Trust Over Time | Rachid Abadli | [Read More](https://medium.com/p/707a5cb50842) |
+| Tue, 14 Oct 2025 16:08:23 GMT | Hackers Love When You Forget These 5 Privacy Settings | Pannag Kumaar | [Read More](https://medium.com/p/ee663e892910) |
+| Tue, 14 Oct 2025 16:07:49 GMT | Today’s Top Cyber Intelligence Highlights — Oct 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3f594b13cfd5) |
+| Tue, 14 Oct 2025 16:06:44 GMT | Smarter Cybercrime: How AI is Changing the Cybersecurity Battlefield in 2025 | Femintee | [Read More](https://medium.com/p/efb6837b5165) |
+| Tue, 14 Oct 2025 16:06:03 GMT | Artificial Intelligence (AI) in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/aaab90c8eabc) |
+| Tue, 14 Oct 2025 16:02:18 GMT | Why do Persian speaking intruders in the Middle East want your email account? | SafeNetting | [Read More](https://medium.com/p/7f12eb2334a3) |
+| Tue, 14 Oct 2025 15:55:59 GMT | Why Startups Should Take a Serious Look at CacheGuard UTM | CacheGuard Technologies | [Read More](https://medium.com/p/ef3799b63f50) |
+| Tue, 14 Oct 2025 15:53:27 GMT | Securing AWS with Terraform: A Management Perspective | AWS And Terraform Management | [Read More](https://medium.com/p/a9a9ca722149) |
+| Tue, 14 Oct 2025 15:45:39 GMT | Exposed Commands History of Moscow Hackers | Md. Abdullah Al Mamun | [Read More](https://medium.com/p/d9f8c17c2e50) |
+| Tue, 14 Oct 2025 15:32:38 GMT | The Executive View: Why Every Leader Should Care | James Wright | [Read More](https://medium.com/p/5a268beada63) |
 | Tue, 14 Oct 2025 15:32:15 GMT | NetSuck 8266 — turning an ESP8266 into a pocket Wi‑Fi lab | LETCHU PKT | [Read More](https://medium.com/p/979c2a495639) |
+| Tue, 14 Oct 2025 15:31:24 GMT | How I Kept My AWS Amplify App Safe Before Going Live | Sameera herath | [Read More](https://medium.com/p/4ca53e38e89b) |
 | Tue, 14 Oct 2025 15:24:28 GMT | Splunk Search Optimization for IT Security & Data Analysis Specialists | Antonella Blasetti | [Read More](https://medium.com/p/971cd9902736) |
 | Tue, 14 Oct 2025 15:23:17 GMT | Splunk: Functions and Macros | Antonella Blasetti | [Read More](https://medium.com/p/c6b3ddeb30eb) |
 | Tue, 14 Oct 2025 15:21:33 GMT | Splunk: Lookups and Subsearches | Antonella Blasetti | [Read More](https://medium.com/p/fa92492fa7e9) |
@@ -102,15 +114,3 @@ CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
 | Tue, 14 Oct 2025 11:44:23 GMT | How I Set Up My Own Private VPN (And How You Can Too) | Michael Imoabasi Etokakpan | [Read More](https://medium.com/p/4e1019c3e680) |
 | Tue, 14 Oct 2025 11:33:25 GMT | COULD you help me with something : I have my OKX wallet with 5,000 USDT, and I have the… | Joelle luxer | [Read More](https://medium.com/p/c8e7973de250) |
 | Tue, 14 Oct 2025 11:32:19 GMT | Linux Permissions: Users, Groups, ACLs, and Sudo for Security | bektiaw | [Read More](https://medium.com/p/51eb5a535fc3) |
-| Tue, 14 Oct 2025 11:24:24 GMT | Ransomware Rampage: Spotting the Lockdown Before It Happens | Aysha Misri | [Read More](https://medium.com/p/3fa827f1f68c) |
-| Tue, 14 Oct 2025 11:21:09 GMT | Extropy Security Bytes: w40, 2025 | Extropy.IO | [Read More](https://medium.com/p/4335601b08f5) |
-| Tue, 14 Oct 2025 11:20:35 GMT | CyberArk: The Game Changer in IT Security | Zayn | [Read More](https://medium.com/p/755e21a61e9c) |
-| Tue, 14 Oct 2025 11:18:58 GMT | How to Build a Culture of Cybersecurity Awareness That Works For Your Team | SecureSlate | [Read More](https://medium.com/p/7490ca174cd2) |
-| Tue, 14 Oct 2025 11:18:06 GMT | From Certification to Continuous Compliance: Tackling ISO 27001 Maintenance Challenges | Hicomply | [Read More](https://medium.com/p/a9ac288639bb) |
-| Tue, 14 Oct 2025 11:17:41 GMT | DarkZero HTB Maşınının Tam Texniki Hesabatı | Elvinasadov | [Read More](https://medium.com/p/757eb89097e0) |
-| Tue, 14 Oct 2025 11:16:59 GMT | How I passed the Oracle Cloud Infrastructure 2025 AI Foundations Associate Exam | Chisom Elekwa | [Read More](https://medium.com/p/d21eee9d736e) |
-| Tue, 14 Oct 2025 11:12:47 GMT | Hacking- day 1 | sihackermok | [Read More](https://medium.com/p/f360956b8916) |
-| Tue, 14 Oct 2025 11:11:34 GMT | Top 10 Cyber Security Bootcamps Online | Manisha Chaudhary | [Read More](https://medium.com/p/cbc0f20ee7cb) |
-| Tue, 14 Oct 2025 11:10:03 GMT | THE CYBERSTALKING SURVIVAL KIT: SECURING YOUR DIGITAL LIFE AFTER THE DISCARD | Malik Mobeen | [Read More](https://medium.com/p/56d5a16f0e26) |
-| Tue, 14 Oct 2025 11:06:40 GMT | The Real Problem Isn’t AI It’s Our Culture: Stack Overflow Was Our ChatGPT | Luispuello | [Read More](https://medium.com/p/5e5b6fd2a24c) |
-| Tue, 14 Oct 2025 11:00:07 GMT | Vibe coder beware! | Andre Le | [Read More](https://medium.com/p/a6bc129ca814) |
