@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 22:25:36 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 2) | Andrii Shyshenko | [Read More](https://medium.com/p/d9e07b2f696a) |
+| Tue, 14 Oct 2025 22:19:26 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 1) | Andrii Shyshenko | [Read More](https://medium.com/p/0c0818b9e9ca) |
 | Tue, 14 Oct 2025 21:51:28 GMT | Mastering Seccomp Filters in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/aa9c13c9fc54) |
 | Tue, 14 Oct 2025 21:46:07 GMT | From the Internet to the Internet of Agents: Trust as the First Protocol | Naylence Dev | [Read More](https://medium.com/p/7dc30abeae45) |
 | Tue, 14 Oct 2025 21:46:01 GMT | Hacking Awareness Tips Protecting Yourself in a Digital World | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/f2195c2a9593) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 16:29:57 GMT | Ethical Hacking: A Career in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/f04b4438f0cf) |
 | Tue, 14 Oct 2025 16:25:32 GMT | THE PUZZLE BOX // HASH_0001.FALL | Carrie Davis | [Read More](https://medium.com/p/30087db97f5d) |
 | Tue, 14 Oct 2025 16:19:27 GMT | When Firewalls Face the Future: The New Threats Targeting Next-Gen Security | r00tb33r | [Read More](https://medium.com/p/c34607f62158) |
-| Tue, 14 Oct 2025 16:18:09 GMT | Don’t migrate your auth. Enhance it. | PropelAuth | [Read More](https://medium.com/p/aa6d44022de9) |
-| Tue, 14 Oct 2025 16:12:08 GMT | Machine Learning for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/cab17f05c959) |
