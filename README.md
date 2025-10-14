@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 19:30:31 GMT | Understanding Datasets and Distributions in Data Science and Cybersecurity | Gadeabhishekreddy | [Read More](https://medium.com/p/a1b917e182d4) |
+| Tue, 14 Oct 2025 19:29:42 GMT | The Attacker’s View: Why DAST Is Non-Negotiable for Cloud and AI Security | KE | [Read More](https://medium.com/p/435195ca550f) |
+| Tue, 14 Oct 2025 19:25:04 GMT | Snow-Crash-writup [level05] | B.R.O.L.Y | [Read More](https://medium.com/p/610019c7fc19) |
+| Tue, 14 Oct 2025 19:16:53 GMT | Automate your own hacking methodology with Vulnetic | Daniel Knight | [Read More](https://medium.com/p/695dd6df46d0) |
+| Tue, 14 Oct 2025 19:16:16 GMT | The Next Frontier for IT Marketing: Optimizing for Generative Search & Answer Engines | Unika Agency | [Read More](https://medium.com/p/fa5a4389ae27) |
+| Tue, 14 Oct 2025 19:13:59 GMT | How 250 Poisoned Pages Can Secretly Hijack Any AI — And What to Do Right Now | Arpit | [Read More](https://medium.com/p/1aba257f0c05) |
 | Tue, 14 Oct 2025 19:12:08 GMT | The Real ROI of AI Agents in DevSecOps: Faster Fixes, Lower Costs, Less Risk | InnoveusIT | [Read More](https://medium.com/p/a9d474b8a973) |
 | Tue, 14 Oct 2025 19:11:45 GMT | Snow-Crash-writup [level04] | B.R.O.L.Y | [Read More](https://medium.com/p/4ee5b0e341d0) |
 | Tue, 14 Oct 2025 19:09:07 GMT | Invisible Text, Visible Risk: The Rise of “Imperceptible Jailbreaks” in LLMs | Harishkumar Pillai | [Read More](https://medium.com/p/9534e84403dd) |
 | Tue, 14 Oct 2025 19:08:07 GMT | ERP + Cloud + AI: Building the Digital Core of the Future | InnoveusIT | [Read More](https://medium.com/p/ef1826ae0806) |
+| Tue, 14 Oct 2025 19:07:14 GMT | Python in Cybersecurity: The Silent Guardian of the Digital Age” | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/71f7bfe98f41) |
 | Tue, 14 Oct 2025 19:05:42 GMT | MCP: Security and Authentication | Parichay Pothepalli | [Read More](https://medium.com/p/8bfaccea51a3) |
 | Tue, 14 Oct 2025 19:02:17 GMT | The Open-Source SOC: Building a Scalable Detection Engineering Platform with Docker | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/473561c2a95f) |
 | Tue, 14 Oct 2025 19:00:44 GMT | Reliability in the Cloud: Shared Responsibility | SRE Mastery | [Read More](https://medium.com/p/3ed42b32d0ba) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 14:47:48 GMT | People Who Cry Easily During Arguments: Understanding Emotional Sensitivity and Trauma | Hanpis | [Read More](https://medium.com/p/2158ab7bec2a) |
 | Tue, 14 Oct 2025 14:47:48 GMT | TA558 2026: The Quiet Upgrade | Wes Young | [Read More](https://medium.com/p/3c5361464280) |
 | Tue, 14 Oct 2025 14:44:15 GMT | “The P4 Playbook: Two Simple Bugs That Actually Pay Out” | Aman Sharma | [Read More](https://medium.com/p/2a0e2ac9c022) |
-| Tue, 14 Oct 2025 14:43:56 GMT | Server-side Attacks Skills Assessment — HTB | Firhansanad | [Read More](https://medium.com/p/52f20e9accc0) |
-| Tue, 14 Oct 2025 14:43:14 GMT | Understanding pipe(), Parent–Child Processes, and strace in C — A Deep Dive into Linux Internals | Mehrnaz | [Read More](https://medium.com/p/ed3adfdb9573) |
-| Tue, 14 Oct 2025 14:32:20 GMT | How Many Amps Does a Garage Door Opener Use: Power Specs Explained | 24H Garage Doors | [Read More](https://medium.com/p/a0a35cf859ff) |
-| Tue, 14 Oct 2025 14:30:29 GMT | Securing What Others Miss: McDonald’s Approach to Data Discovery and Classification | Global Technology | [Read More](https://medium.com/p/69350eb648b7) |
-| Tue, 14 Oct 2025 14:27:46 GMT | I Was Asked to Build a Chess Board in React — Here’s What I Learned | Tech With Curly Girl | [Read More](https://medium.com/p/d4d6fce73322) |
-| Tue, 14 Oct 2025 14:23:03 GMT | The Economics of Prevention — Why Efficient Security Pays for Itself | Abatis ABTU | [Read More](https://medium.com/p/af61cebfe5c3) |
-| Tue, 14 Oct 2025 14:20:01 GMT | Pivoting from Web to Internal Network: The Step-by-Step Playbook Every Pentester Needs | Very Lazy Tech | [Read More](https://medium.com/p/a7edeb402bb9) |
