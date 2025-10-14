@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 10:16:09 GMT | Why Cloud Security Is Critical for Businesses | Sahil | [Read More](https://medium.com/p/9fcecb89db54) |
+| Tue, 14 Oct 2025 10:11:23 GMT | SAST vs DAST in OutSystems | Remco Dekkinga | [Read More](https://medium.com/p/06c04383c565) |
+| Tue, 14 Oct 2025 10:10:19 GMT | Portswigger Academy — Reflected XSS with event handlers and href attributes blocked — Write-up | Alan | [Read More](https://medium.com/p/3da3661dc08b) |
+| Tue, 14 Oct 2025 10:04:10 GMT | The End of Blind Spots: How AI is Giving Cameras a Sixth Sense - Ai Protect | Yutika | [Read More](https://medium.com/p/5a99621d16de) |
+| Tue, 14 Oct 2025 10:00:01 GMT | DockerLabs Writeup — Whoiam (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fd826fb561ea) |
+| Tue, 14 Oct 2025 09:59:28 GMT | Russian Market 2025 Turning Volatility into Vision for Global Traders | Fer | [Read More](https://medium.com/p/50d4fe01c536) |
+| Tue, 14 Oct 2025 09:56:55 GMT | Elevating Threat Detection and Response through SOC-SIEM-XDR Synergy | Vijilan | [Read More](https://medium.com/p/85ea1c2a1d37) |
+| Tue, 14 Oct 2025 09:56:25 GMT | Build More, Spend Less: Smarter Hosting Choices for 2025 | Janet Watson | [Read More](https://medium.com/p/d15f93536087) |
+| Tue, 14 Oct 2025 09:56:19 GMT | DNS Response Rate Limiting (RRL) Nedir? Derinlemesine İnceleme | Tuğrul Kılıç | [Read More](https://medium.com/p/d4c87b4c07fe) |
+| Tue, 14 Oct 2025 09:55:57 GMT | Checkpoint Access: Redefining Modern Security | Jahanzaib Idrees | [Read More](https://medium.com/p/74fb0967139e) |
+| Tue, 14 Oct 2025 09:49:30 GMT | The Day My Password Manager Betrayed Me | Fateyaly | [Read More](https://medium.com/p/357fe78f7e7d) |
+| Tue, 14 Oct 2025 09:49:23 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/f02132ac8a46) |
+| Tue, 14 Oct 2025 09:47:38 GMT | ️ Menjaga Dunia Digital: Sistem Keamanan Terbaik yang Dipakai Saat Ini | kilat404 | [Read More](https://medium.com/p/cd3b707892d8) |
+| Tue, 14 Oct 2025 09:47:07 GMT | Smart Access for a Smarter World — The Power of Checkpoint Access | Jahanzaib Idrees | [Read More](https://medium.com/p/21f5ad45a08d) |
+| Tue, 14 Oct 2025 09:43:08 GMT | How Hackers Hijack AI Models: The New Face of Prompt Injection Attacks | Germano Costi | [Read More](https://medium.com/p/7f87f658998a) |
+| Tue, 14 Oct 2025 09:42:37 GMT | Artificial Intelligence (AI) in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/46858ac003d7) |
+| Tue, 14 Oct 2025 09:41:10 GMT | 2: Technical Decisions & Tooling | Daniele Frisanco | [Read More](https://medium.com/p/ba42a44d38fc) |
 | Tue, 14 Oct 2025 09:36:19 GMT | Stop Listening to Historians Talk About AI, and New Technologies | Rui Santos | [Read More](https://medium.com/p/30b0982d43d4) |
 | Tue, 14 Oct 2025 09:34:59 GMT | Portswigger Academy — Insecure direct object references — Write-up | Alan | [Read More](https://medium.com/p/4a21ac26353e) |
 | Tue, 14 Oct 2025 09:34:50 GMT | High-Performing Software Testing Teams At Kualitee | Kualitee | [Read More](https://medium.com/p/0869614c9794) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 06:16:41 GMT | Create a XSS lab: From Reflected to Stored | Travis Ray Caverhill | [Read More](https://medium.com/p/c6dac7dc3a34) |
 | Tue, 14 Oct 2025 06:13:43 GMT | The Cyber Apocalypse Has Already Started, You Just Didn’t Notice | Arfa | [Read More](https://medium.com/p/d8cc83055635) |
 | Tue, 14 Oct 2025 06:12:07 GMT | Feeling Lost in the AI Hype? You’re Focusing on the Wrong Thing. | SjCoachUp | [Read More](https://medium.com/p/17d238bdb783) |
-| Tue, 14 Oct 2025 06:11:15 GMT | When IE Mode Became a Backdoor: How Hackers Turned Microsoft’s Legacy Feature Into a Nightmare | Germano Costi | [Read More](https://medium.com/p/5b43f6711b19) |
-| Tue, 14 Oct 2025 06:07:18 GMT | AI-Powered Threat Hunting: From Theory to Practice | Aj | [Read More](https://medium.com/p/45f37d83c1dc) |
-| Tue, 14 Oct 2025 06:05:40 GMT | Russianmarket Insights - How the Trump Shock and Bitcoin Crash Shook the Global Trading Landscape | russianmarket | [Read More](https://medium.com/p/275353d6c8ce) |
-| Tue, 14 Oct 2025 06:02:36 GMT | The Internet Isn’t Broken, It’s Being Hijacked | Arfa | [Read More](https://medium.com/p/e40207bd5d85) |
-| Tue, 14 Oct 2025 06:01:47 GMT | Earn a 100%FREE Microsoft Exam Voucher & Get Certified! | Elizabeth Ekedoro | [Read More](https://medium.com/p/652a24d62d33) |
-| Tue, 14 Oct 2025 06:00:53 GMT | Incident Case Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7f62b3ae2a34) |
-| Tue, 14 Oct 2025 05:51:45 GMT | Levels of Password Security | sharvesh | [Read More](https://medium.com/p/0919b5fce561) |
-| Tue, 14 Oct 2025 05:51:20 GMT | The #1 Mistake Developers Make with Payment Data — and How to Fix It | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/1f89b1e2c722) |
-| Tue, 14 Oct 2025 05:42:12 GMT | Crypto, and the Information Revolution. | Ray Sterling | [Read More](https://medium.com/p/7e8d8d5c81ca) |
-| Tue, 14 Oct 2025 05:39:28 GMT | Key Steps to Ensure a Successful ServiceNow GRC Implementation | Alex s | [Read More](https://medium.com/p/0ebe69fef2eb) |
-| Tue, 14 Oct 2025 05:37:17 GMT | Mastering SOC 2 Compliance: How IntelligenceX Transforms Cybersecurity Governance for Enterprise… | Deepak Sharma | [Read More](https://medium.com/p/2cc4a6f993ad) |
-| Tue, 14 Oct 2025 05:35:34 GMT | How Does Smart Home Automation in Dubai Enhance Home Security? | Ruby Tech UAE | [Read More](https://medium.com/p/fe28dff47dbc) |
-| Tue, 14 Oct 2025 05:34:41 GMT | Cybersecurity Company London | C | [Read More](https://medium.com/p/516c898fa41e) |
-| Tue, 14 Oct 2025 05:34:17 GMT | MDR Cyber Security in 2025: What You Need to Know to Protect Your Business | Lipika | [Read More](https://medium.com/p/57c14b5774d9) |
-| Tue, 14 Oct 2025 05:30:43 GMT | Malware Dynamic Analysis | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/ec9c131acb53) |
-| Tue, 14 Oct 2025 05:30:26 GMT | GZR Observer — Global Daily — Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/cad9546640a4) |
-| Tue, 14 Oct 2025 05:21:09 GMT | Windows: Enabling Remote Desktop | Dharmendrakumar | [Read More](https://medium.com/p/06a85861babe) |
