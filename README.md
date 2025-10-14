@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 20:35:24 GMT | Cybersecurity Certifications: Advancing Your Career | Cyber Security Research | [Read More](https://medium.com/p/b26b9f5a9b6f) |
+| Tue, 14 Oct 2025 20:21:26 GMT | We Speak CVE Podcast — “The CVE Consumer Working Group (CWG)” | CVE Program Blog | [Read More](https://medium.com/p/67bd63e94a93) |
 | Tue, 14 Oct 2025 20:10:19 GMT | AI vs. AI: The Cybersecurity Showdown | Wendell Rodrigues, Ph.D. | [Read More](https://medium.com/p/87b396e695ef) |
 | Tue, 14 Oct 2025 19:58:50 GMT | How to Find a Cybersecurity Mentor | Zachary Marcy | [Read More](https://medium.com/p/5400b217b43e) |
 | Tue, 14 Oct 2025 19:52:18 GMT | [Part 9] Penalties Under the Cyber Resilience Act | Cyberkech | [Read More](https://medium.com/p/24647b08fd24) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 15:07:52 GMT | 11HTMLTables | Rana Awais | [Read More](https://medium.com/p/518da30e98c6) |
 | Tue, 14 Oct 2025 15:04:21 GMT | [ SOC Alert => RDP Brute Force Detected ] by LetsDefend | EduKayky | [Read More](https://medium.com/p/50da65a89711) |
 | Tue, 14 Oct 2025 15:02:15 GMT | Locks, Not Walls: RLS for Real Multitenant SaaS | Syntal | [Read More](https://medium.com/p/03b675b768ee) |
-| Tue, 14 Oct 2025 15:02:11 GMT | How I Secured User File Access Using ACL and Chroot Jail: A Step-by-Step Guide | V Ray | [Read More](https://medium.com/p/60337da45eeb) |
-| Tue, 14 Oct 2025 14:58:49 GMT | SOC Log Analyzer: Python Script for Log Analysis | Paulo Melo | [Read More](https://medium.com/p/14186b7ecb19) |
