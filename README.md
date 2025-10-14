@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 09:36:19 GMT | Stop Listening to Historians Talk About AI, and New Technologies | Rui Santos | [Read More](https://medium.com/p/30b0982d43d4) |
+| Tue, 14 Oct 2025 09:34:59 GMT | Portswigger Academy — Insecure direct object references — Write-up | Alan | [Read More](https://medium.com/p/4a21ac26353e) |
+| Tue, 14 Oct 2025 09:34:50 GMT | High-Performing Software Testing Teams At Kualitee | Kualitee | [Read More](https://medium.com/p/0869614c9794) |
+| Tue, 14 Oct 2025 09:32:27 GMT | a detailed overview of the fundamentals of cybersecurity, emphasizing the importance of protecting… | Mohammed Bilal | [Read More](https://medium.com/p/fd4717ac60ab) |
+| Tue, 14 Oct 2025 09:31:46 GMT | 7 Auth Designs (JWT, Session, OIDC) Without Latency | Thinking Loop | [Read More](https://medium.com/p/c26e4397f3a0) |
+| Tue, 14 Oct 2025 09:31:46 GMT | 9 Security-By-Default Moves for JS Full-Stack Apps | Bhagya Rana | [Read More](https://medium.com/p/ed3bb88be6f0) |
+| Tue, 14 Oct 2025 09:28:53 GMT | JavaScript Paywall at a Major Swiss Media Group — Responsible Disclosure | CyberCitizen | [Read More](https://medium.com/p/362733596cb2) |
+| Tue, 14 Oct 2025 09:28:49 GMT | Quantum Ethics: Regulating the Next Intelligence Revolution | Muhammad Waqas | [Read More](https://medium.com/p/8c2788fd7db1) |
+| Tue, 14 Oct 2025 09:28:26 GMT | How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution” | swiv | [Read More](https://medium.com/p/4c44122cacdd) |
+| Tue, 14 Oct 2025 09:27:49 GMT | How DMARC Monitoring Strengthens Your Brand Security | Tanvir Ahmad | [Read More](https://medium.com/p/9726651ba4f8) |
+| Tue, 14 Oct 2025 09:25:34 GMT | Scaling Test Automation with Low-Code: Faster, Smarter, and More Accessible QA | ESSPL | [Read More](https://medium.com/p/07c704db05c4) |
+| Tue, 14 Oct 2025 09:24:05 GMT | What is Security Architecture Design in Cloud Computing | David Smith | [Read More](https://medium.com/p/6370226da8f9) |
+| Tue, 14 Oct 2025 09:22:59 GMT | Want A Cybersecurity Job? Here’s How Oluwabunmi Did It, Her Story Is Insane | Jerome Jamang | [Read More](https://medium.com/p/88756fd88edf) |
+| Tue, 14 Oct 2025 09:19:34 GMT | winter is on my tongue. | Preena_NR | [Read More](https://medium.com/p/6527536d7d56) |
 | Tue, 14 Oct 2025 09:17:27 GMT | ️ System Hardening: Building a Secure Foundation for Your IT Environment | Sebastian Kandler | [Read More](https://medium.com/p/6d780aec72e0) |
 | Tue, 14 Oct 2025 09:15:39 GMT | SQL Injection (SQLi): Build a SQL Injection Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/098f78fdffd6) |
 | Tue, 14 Oct 2025 09:10:32 GMT | Arch Linux Survival Kit — Episode 1: When Your Arch Won’t Boot | orioninsist | [Read More](https://medium.com/p/f0aa94621e2e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 05:30:43 GMT | Malware Dynamic Analysis | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/ec9c131acb53) |
 | Tue, 14 Oct 2025 05:30:26 GMT | GZR Observer — Global Daily — Oct 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/cad9546640a4) |
 | Tue, 14 Oct 2025 05:21:09 GMT | Windows: Enabling Remote Desktop | Dharmendrakumar | [Read More](https://medium.com/p/06a85861babe) |
-| Tue, 14 Oct 2025 05:20:49 GMT | Dark Web Intelligence: How Security Teams Uncover Hidden Threats | Shantnu K. | [Read More](https://medium.com/p/9c42b96cc4f8) |
-| Tue, 14 Oct 2025 05:19:49 GMT | The 2FA Paradox: Protection That Enables 0-Click ATO | Ahmed Hussein | [Read More](https://medium.com/p/17e6120ee908) |
-| Tue, 14 Oct 2025 05:15:00 GMT | Cyber Security Testing — Types of Cybersecurity Testing | Kualitatem | [Read More](https://medium.com/p/a1de660707cd) |
-| Tue, 14 Oct 2025 05:11:34 GMT | Top 10 Cybersecurity Predictions for 2025 | Jeffinvarghese | [Read More](https://medium.com/p/185df5a26f3a) |
-| Tue, 14 Oct 2025 04:39:42 GMT | Detecting web attacks/Thm room | Asif.k | [Read More](https://medium.com/p/b8a671210a10) |
-| Tue, 14 Oct 2025 04:30:53 GMT | Top 5 AI Video Creation Tools in 2025 — Create Stunning Videos Effortlessly! | Faizak | [Read More](https://medium.com/p/89cdf4156460) |
-| Tue, 14 Oct 2025 04:30:36 GMT | Beyond the Test Case: Why Context Matters More Than Coverage | Lakindu De Silva | [Read More](https://medium.com/p/c1661d329cde) |
-| Tue, 14 Oct 2025 04:25:59 GMT | ️ Finding Your Voice in Grief: Why Silence Isn’t Strength | Handle My Affairs | [Read More](https://medium.com/p/49b1b554d396) |
-| Tue, 14 Oct 2025 04:24:09 GMT | Secret Bug Bounty Platform to make $$$$ | Anonymous Traiger | [Read More](https://medium.com/p/8f6c268bc501) |
-| Tue, 14 Oct 2025 04:19:00 GMT | Your Digital Shadow is Longer Than You Think. | Levi Chinecherem Chidi | [Read More](https://medium.com/p/3a94f7808032) |
-| Tue, 14 Oct 2025 04:06:03 GMT | 2025’s Biggest Data Breaches: Williams & Connolly and Red Hat Explained | RTB CYBERTECH | [Read More](https://medium.com/p/02cbce42f277) |
-| Tue, 14 Oct 2025 04:05:22 GMT | 5 Wordlists Every Bug Bounty Hunter Should Save (and how to use them) | Code Pulse | [Read More](https://medium.com/p/a03d875222b4) |
-| Tue, 14 Oct 2025 03:56:35 GMT | Why OPSEC Is the Red Team’s Most Underrated Tool (and How to Use It) | Rubab Fatima | [Read More](https://medium.com/p/63b9ddb0eaed) |
-| Tue, 14 Oct 2025 03:52:39 GMT | The Silent Guardians: How Python Empowers Cybersecurity and Cloud Intelligence | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/533145142320) |
