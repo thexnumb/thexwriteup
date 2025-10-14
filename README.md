@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 20:59:16 GMT | Cybersecurity for Remote Workers | Cyber Security Research | [Read More](https://medium.com/p/82d4cccd1cd3) |
+| Tue, 14 Oct 2025 20:59:12 GMT | Why Every Business Needs a Security Audit: Your Shield Against Costly Breaches | Mrutunjaya Senapati | [Read More](https://medium.com/p/71e42d43b3e4) |
+| Tue, 14 Oct 2025 20:57:33 GMT | Ciberseguridad: más allá de los sistemas | Liliana Reyes | [Read More](https://medium.com/p/9c82b60f210f) |
+| Tue, 14 Oct 2025 20:53:33 GMT | Protecting Your Personal Data Online | Cyber Security Research | [Read More](https://medium.com/p/7364a89b701f) |
+| Tue, 14 Oct 2025 20:52:56 GMT | Re-creating the Snake Rootkit Part 009: C2 — Listeners | 0x0vid | [Read More](https://medium.com/p/93a95747fa90) |
+| Tue, 14 Oct 2025 20:51:05 GMT | 2025’s Top Cyber Threats, October 14: Outlook Phishing Alert | InGBTech | [Read More](https://medium.com/p/7449081f3ec1) |
+| Tue, 14 Oct 2025 20:50:40 GMT | How Hackers Exploit Small Business Websites — and How to Stop Them | Mrutunjaya Senapati | [Read More](https://medium.com/p/940c87660405) |
+| Tue, 14 Oct 2025 20:42:30 GMT | Quantum Computing and Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/8b2846e47310) |
+| Tue, 14 Oct 2025 20:41:28 GMT | Code Control — Part II | ekomsSavior | [Read More](https://medium.com/p/994aa3c3dc9a) |
+| Tue, 14 Oct 2025 20:40:17 GMT | Guide for Conducting Cybersecurity Risk Assessments: Analyzing NIST SP 800–30 Revision 1 | Aneeqibtesam | [Read More](https://medium.com/p/de56a647d4e7) |
+| Tue, 14 Oct 2025 20:39:25 GMT | Why Every Business Needs a Security Audit in 2025 | Mrutunjaya Senapati | [Read More](https://medium.com/p/1ef214a7ac5c) |
 | Tue, 14 Oct 2025 20:35:24 GMT | Cybersecurity Certifications: Advancing Your Career | Cyber Security Research | [Read More](https://medium.com/p/b26b9f5a9b6f) |
+| Tue, 14 Oct 2025 20:32:51 GMT | Navigating the Niche: A Deep Dive into the Best VPNs for Midori Browser on Linux | Bryanignaciocastro | [Read More](https://medium.com/p/ff46c1ccba3a) |
 | Tue, 14 Oct 2025 20:21:26 GMT | We Speak CVE Podcast — “The CVE Consumer Working Group (CWG)” | CVE Program Blog | [Read More](https://medium.com/p/67bd63e94a93) |
 | Tue, 14 Oct 2025 20:10:19 GMT | AI vs. AI: The Cybersecurity Showdown | Wendell Rodrigues, Ph.D. | [Read More](https://medium.com/p/87b396e695ef) |
 | Tue, 14 Oct 2025 19:58:50 GMT | How to Find a Cybersecurity Mentor | Zachary Marcy | [Read More](https://medium.com/p/5400b217b43e) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 15:45:39 GMT | Exposed Commands History of Moscow Hackers | Md. Abdullah Al Mamun | [Read More](https://medium.com/p/d9f8c17c2e50) |
 | Tue, 14 Oct 2025 15:32:38 GMT | The Executive View: Why Every Leader Should Care | James Wright | [Read More](https://medium.com/p/5a268beada63) |
 | Tue, 14 Oct 2025 15:32:15 GMT | NetSuck 8266 — turning an ESP8266 into a pocket Wi‑Fi lab | LETCHU PKT | [Read More](https://medium.com/p/979c2a495639) |
-| Tue, 14 Oct 2025 15:31:24 GMT | How I Kept My AWS Amplify App Safe Before Going Live | Sameera herath | [Read More](https://medium.com/p/4ca53e38e89b) |
-| Tue, 14 Oct 2025 15:24:28 GMT | Splunk Search Optimization for IT Security & Data Analysis Specialists | Antonella Blasetti | [Read More](https://medium.com/p/971cd9902736) |
-| Tue, 14 Oct 2025 15:23:17 GMT | Splunk: Functions and Macros | Antonella Blasetti | [Read More](https://medium.com/p/c6b3ddeb30eb) |
-| Tue, 14 Oct 2025 15:21:33 GMT | Splunk: Lookups and Subsearches | Antonella Blasetti | [Read More](https://medium.com/p/fa92492fa7e9) |
-| Tue, 14 Oct 2025 15:16:40 GMT | 13HTMLAttributes | Rana Awais | [Read More](https://medium.com/p/3109e9f90eac) |
-| Tue, 14 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 14, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/07c3d2c4eca1) |
-| Tue, 14 Oct 2025 15:14:45 GMT | Mastering the 2025 Certified Kubernetes Security Specialist (CKS) Exam — 16 Realistic Scenarios… | Arunkumar M | [Read More](https://medium.com/p/c69a5e951a6b) |
-| Tue, 14 Oct 2025 15:12:06 GMT | 12HTMLForms | Rana Awais | [Read More](https://medium.com/p/31a81a15b380) |
-| Tue, 14 Oct 2025 15:11:01 GMT | Every Train Was Part of the Journey. And Maybe, There Wasn’t a Wrong Train After All. | Vijay Kumar Gupta | [Read More](https://medium.com/p/155ba4ca9d96) |
-| Tue, 14 Oct 2025 15:07:52 GMT | 11HTMLTables | Rana Awais | [Read More](https://medium.com/p/518da30e98c6) |
-| Tue, 14 Oct 2025 15:04:21 GMT | [ SOC Alert => RDP Brute Force Detected ] by LetsDefend | EduKayky | [Read More](https://medium.com/p/50da65a89711) |
-| Tue, 14 Oct 2025 15:02:15 GMT | Locks, Not Walls: RLS for Real Multitenant SaaS | Syntal | [Read More](https://medium.com/p/03b675b768ee) |
