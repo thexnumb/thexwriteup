@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 14, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/07c3d2c4eca1) |
+| Tue, 14 Oct 2025 15:12:06 GMT | 12HTMLForms | Rana Awais | [Read More](https://medium.com/p/31a81a15b380) |
+| Tue, 14 Oct 2025 15:11:01 GMT | Every Train Was Part of the Journey. And Maybe, There Wasn’t a Wrong Train After All. | Vijay Kumar Gupta | [Read More](https://medium.com/p/155ba4ca9d96) |
+| Tue, 14 Oct 2025 15:07:52 GMT | 11HTMLTables | Rana Awais | [Read More](https://medium.com/p/518da30e98c6) |
+| Tue, 14 Oct 2025 15:04:21 GMT | [ SOC Alert => RDP Brute Force Detected ] by LetsDefend | EduKayky | [Read More](https://medium.com/p/50da65a89711) |
+| Tue, 14 Oct 2025 15:02:15 GMT | Locks, Not Walls: RLS for Real Multitenant SaaS | Syntal | [Read More](https://medium.com/p/03b675b768ee) |
+| Tue, 14 Oct 2025 15:02:11 GMT | How I Secured User File Access Using ACL and Chroot Jail: A Step-by-Step Guide | V Ray | [Read More](https://medium.com/p/60337da45eeb) |
+| Tue, 14 Oct 2025 14:58:49 GMT | SOC Log Analyzer: Python Script for Log Analysis | Paulo Melo | [Read More](https://medium.com/p/14186b7ecb19) |
+| Tue, 14 Oct 2025 14:58:35 GMT | 5 Costly Mistakes That Make Companies Fail Their CMMC Audit (and How to Avoid Them) | Olivier Maignan | [Read More](https://medium.com/p/a5531668bbee) |
+| Tue, 14 Oct 2025 14:50:59 GMT | TryHackMe Challenge — Easy Peasy | Aniket Pattanshetti | [Read More](https://medium.com/p/784f4fa18a90) |
+| Tue, 14 Oct 2025 14:49:16 GMT | Hacking Active Directory 101: Kerberoasting (MEDIUM) | SilentExploit | [Read More](https://medium.com/p/498575c11444) |
+| Tue, 14 Oct 2025 14:47:48 GMT | People Who Cry Easily During Arguments: Understanding Emotional Sensitivity and Trauma | Hanpis | [Read More](https://medium.com/p/2158ab7bec2a) |
+| Tue, 14 Oct 2025 14:47:48 GMT | TA558 2026: The Quiet Upgrade | Wes Young | [Read More](https://medium.com/p/3c5361464280) |
 | Tue, 14 Oct 2025 14:44:15 GMT | “The P4 Playbook: Two Simple Bugs That Actually Pay Out” | Aman Sharma | [Read More](https://medium.com/p/2a0e2ac9c022) |
 | Tue, 14 Oct 2025 14:43:56 GMT | Server-side Attacks Skills Assessment — HTB | Firhansanad | [Read More](https://medium.com/p/52f20e9accc0) |
+| Tue, 14 Oct 2025 14:43:14 GMT | Understanding pipe(), Parent–Child Processes, and strace in C — A Deep Dive into Linux Internals | Mehrnaz | [Read More](https://medium.com/p/ed3adfdb9573) |
 | Tue, 14 Oct 2025 14:32:20 GMT | How Many Amps Does a Garage Door Opener Use: Power Specs Explained | 24H Garage Doors | [Read More](https://medium.com/p/a0a35cf859ff) |
 | Tue, 14 Oct 2025 14:30:29 GMT | Securing What Others Miss: McDonald’s Approach to Data Discovery and Classification | Global Technology | [Read More](https://medium.com/p/69350eb648b7) |
 | Tue, 14 Oct 2025 14:27:46 GMT | I Was Asked to Build a Chess Board in React — Here’s What I Learned | Tech With Curly Girl | [Read More](https://medium.com/p/d4d6fce73322) |
@@ -100,17 +114,3 @@ CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
 | Tue, 14 Oct 2025 10:42:25 GMT | Machine Learning for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/45ea052430e6) |
 | Tue, 14 Oct 2025 10:39:21 GMT | Cybersecurity, Zero Trust, & Third‑Party Risk give me article for this title | Sunnydilipkanuganti | [Read More](https://medium.com/p/1c3f73bf12db) |
 | Tue, 14 Oct 2025 10:37:53 GMT | What to Expect from a Professional Penetration Testing Service | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/4a5151cdaef4) |
-| Tue, 14 Oct 2025 10:36:50 GMT | Sandbox Evasion Defense | Esra Kayhan | [Read More](https://medium.com/p/6c61676c7c0f) |
-| Tue, 14 Oct 2025 10:32:28 GMT | We Keep Relearning the Same Lesson: Cyber Resilience Still Needs Paper | David Stubley | [Read More](https://medium.com/p/d3d64143d3ff) |
-| Tue, 14 Oct 2025 10:26:05 GMT | Windows Security: Hardening the Fortress | Windows Guide | [Read More](https://medium.com/p/54ffc075897e) |
-| Tue, 14 Oct 2025 10:22:39 GMT | The Dark Side of Browser Extensions: The Silent Data Thieves in Your Browser | Saritamukkani | [Read More](https://medium.com/p/c602ae0755ca) |
-| Tue, 14 Oct 2025 10:22:38 GMT | Digital Twin Security: Safeguarding the Cyber-Physical Bridge | Jackdavis Iap | [Read More](https://medium.com/p/53b23207004a) |
-| Tue, 14 Oct 2025 10:19:00 GMT | The Role of Cybersecurity in Modern Software Licensing | Sahil | [Read More](https://medium.com/p/5270cff57492) |
-| Tue, 14 Oct 2025 10:18:13 GMT | From Data Breaches to Defence: The Value of Professional Cybersecurity Services | SmartCLOUD Australia | [Read More](https://medium.com/p/6a579cdc5a0f) |
-| Tue, 14 Oct 2025 10:17:36 GMT | Global Trading 2025 - How Smart Platforms Like Russian Market Are Redefining the Future of… | jokerstashh | [Read More](https://medium.com/p/e7692c0bcd5c) |
-| Tue, 14 Oct 2025 10:16:09 GMT | Why Cloud Security Is Critical for Businesses | Sahil | [Read More](https://medium.com/p/9fcecb89db54) |
-| Tue, 14 Oct 2025 10:11:23 GMT | SAST vs DAST in OutSystems | Remco Dekkinga | [Read More](https://medium.com/p/06c04383c565) |
-| Tue, 14 Oct 2025 10:10:37 GMT | DOS Attack: Building a Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/de64fe308ede) |
-| Tue, 14 Oct 2025 10:10:19 GMT | Portswigger Academy — Reflected XSS with event handlers and href attributes blocked — Write-up | Alan | [Read More](https://medium.com/p/3da3661dc08b) |
-| Tue, 14 Oct 2025 10:04:10 GMT | The End of Blind Spots: How AI is Giving Cameras a Sixth Sense - Ai Protect | Yutika | [Read More](https://medium.com/p/5a99621d16de) |
-| Tue, 14 Oct 2025 10:00:01 GMT | DockerLabs Writeup — Whoiam (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fd826fb561ea) |
