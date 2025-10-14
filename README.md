@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 17:36:21 GMT | How NetBackup Meets HIPAA and Other Regulations | Nurali ATMACA | [Read More](https://medium.com/p/4a9df9c3e5df) |
+| Tue, 14 Oct 2025 17:29:45 GMT | Handling Security Vulnerabilities in Backup Systems | Nurali ATMACA | [Read More](https://medium.com/p/188ace2a7c15) |
+| Tue, 14 Oct 2025 17:27:11 GMT | Deep Dive into Auditd Advanced Usage on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/c7a325d5dd32) |
+| Tue, 14 Oct 2025 17:26:38 GMT | Account Takeover And Staying Logged In Forever After Password Reset | Mahmoud Farag | [Read More](https://medium.com/p/b0ed4b65ac22) |
+| Tue, 14 Oct 2025 17:22:32 GMT | Veritas NetBackup Security Updates and Patches | Nurali ATMACA | [Read More](https://medium.com/p/5679055bed00) |
+| Tue, 14 Oct 2025 17:18:53 GMT | Co to vlastně znamená? | Cyber Solution | [Read More](https://medium.com/p/81ea798ece6f) |
 | Tue, 14 Oct 2025 17:16:43 GMT | TryHackMe Walkthrough — Blueprint️ | Cypher.One | [Read More](https://medium.com/p/7a06f605d0b3) |
+| Tue, 14 Oct 2025 17:16:19 GMT | Hackviser: Rivalry Scenario Challenge — Complete Walkthrough | Attiqorakzai | [Read More](https://medium.com/p/8165448ce2e6) |
 | Tue, 14 Oct 2025 17:15:45 GMT | Python and Cybersecurity: The Rise of Automated Defense in the Age of AI | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/e65659176042) |
+| Tue, 14 Oct 2025 17:13:14 GMT | Learning FHE the Fun Way: Building a Zama Quiz Website
+ Introduction | Kjai | [Read More](https://medium.com/p/aba832e384c7) |
 | Tue, 14 Oct 2025 17:03:27 GMT | The AI Misinformation Crisis: Deepfakes, Detection Tools, and the Fight for Truth | Esther Abel | [Read More](https://medium.com/p/bb4f7c28262e) |
 | Tue, 14 Oct 2025 17:02:37 GMT | DAY 4: Understanding Different Types of Accounts and Account Groups in Computing | Krish Shrestha | [Read More](https://medium.com/p/0c6ffeaaa973) |
 | Tue, 14 Oct 2025 17:02:05 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/c33f4a6e6eb0) |
@@ -106,11 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 13:04:16 GMT | Vulnerability Discovery #3
 Security Flaws in “Mall”
 CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
-| Tue, 14 Oct 2025 13:02:43 GMT | Mastering Certificate Rotation in Entra ID | Tim Groothuis | [Read More](https://medium.com/p/65e580eadacc) |
-| Tue, 14 Oct 2025 12:57:37 GMT | Why Every User Needs a Password Manager to Secure Their Accounts | Anushka | [Read More](https://medium.com/p/421f19e73e1d) |
-| Tue, 14 Oct 2025 12:48:31 GMT | Network Access Control Market — Industry Analysis, Market — Forecast(2025–2031) | Akhilasri | [Read More](https://medium.com/p/1ff8a02363cf) |
-| Tue, 14 Oct 2025 12:46:51 GMT | The Dangers of Insecure File Uploads | Ferran Verdés | [Read More](https://medium.com/p/165c8cd49e38) |
-| Tue, 14 Oct 2025 12:46:36 GMT | HacktheBox: Administrator Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/46355235f4e6) |
-| Tue, 14 Oct 2025 12:41:39 GMT | How to Detect and Prevent Ransomware | Dkvilas | [Read More](https://medium.com/p/3b43706aa695) |
-| Tue, 14 Oct 2025 12:40:34 GMT | Why “Hackers Are Criminals” Is an Outdated View | Your's Nightmare | [Read More](https://medium.com/p/8178d702fa9d) |
-| Tue, 14 Oct 2025 12:36:01 GMT | Crate your critters! | Munster Conservancy | [Read More](https://medium.com/p/2cdd6e502459) |
