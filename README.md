@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 11:12:47 GMT | Hacking- day 1 | sihackermok | [Read More](https://medium.com/p/f360956b8916) |
+| Tue, 14 Oct 2025 11:06:40 GMT | The Real Problem Isn’t AI It’s Our Culture: Stack Overflow Was Our ChatGPT | Luispuello | [Read More](https://medium.com/p/5e5b6fd2a24c) |
+| Tue, 14 Oct 2025 11:00:07 GMT | Vibe coder beware! | Andre Le | [Read More](https://medium.com/p/a6bc129ca814) |
+| Tue, 14 Oct 2025 10:57:31 GMT | Build and Manage a Skilled Mobile App Development Team | Bhavesh Rajpurohit | [Read More](https://medium.com/p/533bf94f4fd4) |
+| Tue, 14 Oct 2025 10:53:04 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity & “The Pentester’s AI Companion: Automating… | Nitin Garg | [Read More](https://medium.com/p/39a8a795cf38) |
+| Tue, 14 Oct 2025 10:50:25 GMT | ️ Menjaga Dunia Digital: Sistem Keamanan Terbaik di Era 2025 | kilat404 sky | [Read More](https://medium.com/p/c90892e41fea) |
+| Tue, 14 Oct 2025 10:42:25 GMT | Machine Learning for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/45ea052430e6) |
+| Tue, 14 Oct 2025 10:39:21 GMT | Cybersecurity, Zero Trust, & Third‑Party Risk give me article for this title | Sunnydilipkanuganti | [Read More](https://medium.com/p/1c3f73bf12db) |
 | Tue, 14 Oct 2025 10:37:53 GMT | What to Expect from a Professional Penetration Testing Service | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/4a5151cdaef4) |
 | Tue, 14 Oct 2025 10:36:50 GMT | Sandbox Evasion Defense | Esra Kayhan | [Read More](https://medium.com/p/6c61676c7c0f) |
 | Tue, 14 Oct 2025 10:32:28 GMT | We Keep Relearning the Same Lesson: Cyber Resilience Still Needs Paper | David Stubley | [Read More](https://medium.com/p/d3d64143d3ff) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 07:20:22 GMT | Intigriti 1025 Challenge: SSRF to RCE via File Upload Bypass | Sander Wind | [Read More](https://medium.com/p/8aaa0164ee55) |
 | Tue, 14 Oct 2025 07:13:27 GMT | Why Should I Use a VPN? | Gaurav Kumar | [Read More](https://medium.com/p/f0f4c09a649d) |
 | Tue, 14 Oct 2025 07:09:55 GMT | Siber İstihbarat ve Gelişmiş Kalıcı Tehditlere Karşı Koyma Stratejileri: Bütüncül Bir Analiz | furkan | [Read More](https://medium.com/p/c4fdb75f017e) |
-| Tue, 14 Oct 2025 07:09:23 GMT | The Real Cost of Data Breaches and How Penetration Testing Protects Your Business | Gainside | [Read More](https://medium.com/p/04503a0460ee) |
-| Tue, 14 Oct 2025 07:01:48 GMT | How I Chain Tools for Faster, Smarter Network Mapping | Dany Christel | [Read More](https://medium.com/p/0ca8beeafa83) |
-| Tue, 14 Oct 2025 07:01:13 GMT | Achieve Excellence with Axipro Through NIST Cybersecurity Certification | Axipro | [Read More](https://medium.com/p/592a423e7eaa) |
-| Tue, 14 Oct 2025 06:55:00 GMT | Securing Kubernetes Pods: A Practical Guide | @Harsh | [Read More](https://medium.com/p/3c8342c4e520) |
-| Tue, 14 Oct 2025 06:54:50 GMT | What is NoSQL — and why did it appear? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2b40ae3ec1fa) |
-| Tue, 14 Oct 2025 06:50:27 GMT | GenAI for practical cybersecurity | Saravanan.R | [Read More](https://medium.com/p/177234c4ca8d) |
-| Tue, 14 Oct 2025 06:40:03 GMT | How I Accidentally Found the Company’s “Master Key” by Changing a Single Number | Iski | [Read More](https://medium.com/p/d9cf275b5097) |
-| Tue, 14 Oct 2025 06:38:51 GMT | Cyber Security - Amartam | Amartam Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/684eba611230) |
