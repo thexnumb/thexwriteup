@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 04:39:42 GMT | Detecting web attacks/Thm room | Asif.k | [Read More](https://medium.com/p/b8a671210a10) |
+| Tue, 14 Oct 2025 04:30:53 GMT | Top 5 AI Video Creation Tools in 2025 — Create Stunning Videos Effortlessly! | Faizak | [Read More](https://medium.com/p/89cdf4156460) |
+| Tue, 14 Oct 2025 04:30:36 GMT | Beyond the Test Case: Why Context Matters More Than Coverage | Lakindu De Silva | [Read More](https://medium.com/p/c1661d329cde) |
+| Tue, 14 Oct 2025 04:25:59 GMT | ️ Finding Your Voice in Grief: Why Silence Isn’t Strength | Handle My Affairs | [Read More](https://medium.com/p/49b1b554d396) |
+| Tue, 14 Oct 2025 04:24:09 GMT | Secret Bug Bounty Platform to make $$$$ | Anonymous Traiger | [Read More](https://medium.com/p/8f6c268bc501) |
+| Tue, 14 Oct 2025 04:19:00 GMT | Your Digital Shadow is Longer Than You Think. | Levi Chinecherem Chidi | [Read More](https://medium.com/p/3a94f7808032) |
 | Tue, 14 Oct 2025 04:06:03 GMT | 2025’s Biggest Data Breaches: Williams & Connolly and Red Hat Explained | RTB CYBERTECH | [Read More](https://medium.com/p/02cbce42f277) |
 | Tue, 14 Oct 2025 04:05:22 GMT | 5 Wordlists Every Bug Bounty Hunter Should Save (and how to use them) | Code Pulse | [Read More](https://medium.com/p/a03d875222b4) |
 | Tue, 14 Oct 2025 03:56:35 GMT | Why OPSEC Is the Red Team’s Most Underrated Tool (and How to Use It) | Rubab Fatima | [Read More](https://medium.com/p/63b9ddb0eaed) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 19:07:57 GMT | Backup Strategies with OneDrive: What Happens If Something Is Deleted? | Cordula Boeck | [Read More](https://medium.com/p/b536fbadd79f) |
 | Mon, 13 Oct 2025 19:07:44 GMT | The Future of Software Security: From Reactive Defense to Active Resilience | Akilnath Bodipudi | [Read More](https://medium.com/p/1aed394870cf) |
 | Mon, 13 Oct 2025 19:07:43 GMT | DAY 3: Understanding the Different Types of Access Control: A Complete Guide | Krish Shrestha | [Read More](https://medium.com/p/c8bf24142778) |
-| Mon, 13 Oct 2025 19:07:12 GMT | AWS EC2 in Plain English: Your Cloud Computer | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/bbac23c2a853) |
-| Mon, 13 Oct 2025 19:06:17 GMT | Why Users Resist Stronger Authentication — And How to Change That | Deepak Gupta | [Read More](https://medium.com/p/54aa07f0e202) |
-| Mon, 13 Oct 2025 19:04:22 GMT | How to Recover Your Instagram Account: A Comprehensive Guide | Alexander Hoffmann | [Read More](https://medium.com/p/1be9cec63509) |
-| Mon, 13 Oct 2025 19:03:11 GMT | eJPT Passed: My Unfiltered Tips | Navaneeth M S | [Read More](https://medium.com/p/2c6695ba5134) |
-| Mon, 13 Oct 2025 19:02:40 GMT | Breaking ANDRÓG-X: An Adversarial Prompt Engineering CTF Challenge | Yasser Namez | [Read More](https://medium.com/p/a451a4278026) |
-| Mon, 13 Oct 2025 18:53:16 GMT | Integrated Video Surveillance and Access Control: The Next Era of Smart Facility Security | ASI Systems Pro | [Read More](https://medium.com/p/9d2b07325f2c) |
