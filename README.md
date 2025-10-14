@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 07:13:27 GMT | Why Should I Use a VPN? | Gaurav Kumar | [Read More](https://medium.com/p/f0f4c09a649d) |
+| Tue, 14 Oct 2025 07:01:48 GMT | How I Chain Tools for Faster, Smarter Network Mapping | Dany Christel | [Read More](https://medium.com/p/0ca8beeafa83) |
+| Tue, 14 Oct 2025 07:01:13 GMT | Achieve Excellence with Axipro Through NIST Cybersecurity Certification | Axipro | [Read More](https://medium.com/p/592a423e7eaa) |
+| Tue, 14 Oct 2025 06:55:00 GMT | Securing Kubernetes Pods: A Practical Guide | @Harsh | [Read More](https://medium.com/p/3c8342c4e520) |
+| Tue, 14 Oct 2025 06:54:50 GMT | What is NoSQL — and why did it appear? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2b40ae3ec1fa) |
+| Tue, 14 Oct 2025 06:50:27 GMT | GenAI for practical cybersecurity | Saravanan.R | [Read More](https://medium.com/p/177234c4ca8d) |
+| Tue, 14 Oct 2025 06:40:03 GMT | How I Accidentally Found the Company’s “Master Key” by Changing a Single Number | Iski | [Read More](https://medium.com/p/d9cf275b5097) |
+| Tue, 14 Oct 2025 06:38:51 GMT | Cyber Security - Amartam | Amartam Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/684eba611230) |
+| Tue, 14 Oct 2025 06:37:22 GMT | KYLO: An AI-Powered CLI security code auditor to Audit your Code for Security Risks | Leon Musk | [Read More](https://medium.com/p/0688564f8e53) |
+| Tue, 14 Oct 2025 06:35:13 GMT | Passkeys and GenAI are the new baseline for Security | Saravanan.R | [Read More](https://medium.com/p/f898d8debaa1) |
 | Tue, 14 Oct 2025 06:23:18 GMT | Microsoft UAC Bypass — The Shortcut Hack Attackers Love | Shantnu K. | [Read More](https://medium.com/p/df29dbf070d0) |
+| Tue, 14 Oct 2025 06:21:43 GMT | The Deep Web Is Dying And Something Worse Is Replacing It | Arfa | [Read More](https://medium.com/p/c228f579b87d) |
 | Tue, 14 Oct 2025 06:19:08 GMT | Security Locksmith Services by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/3fa8d0deb3ac) |
 | Tue, 14 Oct 2025 06:18:52 GMT | The Daily Tech Digest: 14 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/cc29c15d9c4d) |
 | Tue, 14 Oct 2025 06:17:44 GMT | Optimizing Jira Permissions for External Vendors | Erdem UÇAK | [Read More](https://medium.com/p/1573b5b9019d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 22:11:29 GMT | Active — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/bdc36d1b2adb) |
 | Mon, 13 Oct 2025 22:06:29 GMT | Crafting Secure Authentication with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/53b83c1c3693) |
 | Mon, 13 Oct 2025 21:55:44 GMT | The Dark Reality of Dark Web - My Scary Research ☠️ | Abdullah Javeed | [Read More](https://medium.com/p/c6f69613daba) |
-| Mon, 13 Oct 2025 21:38:28 GMT | Stop Fighting About Screen Time | Samirah A.O | [Read More](https://medium.com/p/954e0ed634b0) |
-| Mon, 13 Oct 2025 21:34:16 GMT | How I got full admin control on a government website | Jaeden Samia | [Read More](https://medium.com/p/042f703aeaa7) |
-| Mon, 13 Oct 2025 21:27:19 GMT | We are villains in our own story — How to avoid bugs | Wisdom John ikoi | [Read More](https://medium.com/p/ebb5830fff5e) |
-| Mon, 13 Oct 2025 21:24:20 GMT | BehindTheScreens: The Cybersecurity Landscape This Week — Breaches, Policy Gaps, and a Shifting… | Sam - Behind The Screens | [Read More](https://medium.com/p/432ee970ecd4) |
-| Mon, 13 Oct 2025 21:24:01 GMT | Your Chat App Just Became a Secret Backdoor | sudo whoami | [Read More](https://medium.com/p/cb95b7522d71) |
-| Mon, 13 Oct 2025 21:12:55 GMT | Stop Giving Away Your Location — How WhatsApp’s New Tricks Save Your IP | Steve Matindi | [Read More](https://medium.com/p/0f3e53830574) |
-| Mon, 13 Oct 2025 21:04:23 GMT | How the cookie crumbls | Collin potter | [Read More](https://medium.com/p/085614ecd0dd) |
-| Mon, 13 Oct 2025 21:02:05 GMT | The AI Paradox in this New Era of National Security | Ian McIntire | [Read More](https://medium.com/p/9b539b53f5b4) |
-| Mon, 13 Oct 2025 20:58:15 GMT | My Cybersecurity Journey: Building Skills One Lab at a Time | Ali Raza | [Read More](https://medium.com/p/e5d834d57a81) |
-| Mon, 13 Oct 2025 20:54:47 GMT | Why Curiosity Is the Best Security Tool We Have | Logs&Lattes | [Read More](https://medium.com/p/c3b2832efb9f) |
-| Mon, 13 Oct 2025 20:51:52 GMT | IT Security Audits: The Foundation of a Strong Cyber Defense | SafeAeon Inc. | [Read More](https://medium.com/p/6831105f24e2) |
