@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 08:07:10 GMT | Why Multi-Cloud Security is More Crucial Than Ever | Qualysec | [Read More](https://medium.com/p/69cdd1a559c6) |
+| Tue, 14 Oct 2025 08:07:06 GMT | Understanding the Proxmox Architecture: From ESXi to Proxmox VE 8.4 | Bridget | [Read More](https://medium.com/p/0d41d300365a) |
+| Tue, 14 Oct 2025 08:04:10 GMT | OSINT Has Limits — Cross Them and You’re Hacking | Sam Galope | [Read More](https://medium.com/p/a4b6fa48d9fc) |
+| Tue, 14 Oct 2025 08:01:49 GMT | Find Your Domain in Stealer Logs in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/6063a2f49902) |
+| Tue, 14 Oct 2025 08:01:49 GMT | Trusted IT Support in Kennington for Business | Gary Marshall | [Read More](https://medium.com/p/01625bb4f354) |
+| Tue, 14 Oct 2025 08:00:51 GMT | When Innocence Is Hacked | O. J. Okpabi | [Read More](https://medium.com/p/4a921bc95f1d) |
+| Tue, 14 Oct 2025 07:59:47 GMT | Don’t Let React Spam Your Server! | WittCode | [Read More](https://medium.com/p/377c42e82f6d) |
+| Tue, 14 Oct 2025 07:59:34 GMT | LLM Guardrails in Production: The 3AM Attack That Cost $147 Instead of $10,412 | Freddy D. Alvarez | [Read More](https://medium.com/p/4e5e86f7e2ff) |
+| Tue, 14 Oct 2025 07:54:59 GMT | How to Safely Hide Secrets in Your Android Application | Angela Nyabuti | [Read More](https://medium.com/p/2056461856ec) |
+| Tue, 14 Oct 2025 07:53:02 GMT | Wait, What? You Dropped It? Your Guard. | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/b17b96067cf1) |
+| Tue, 14 Oct 2025 07:51:49 GMT | October 2025 Chronicles: How Quppy AML Bot Became the Trader’s Best Friend | QuppyAMLBOT | [Read More](https://medium.com/p/0debc8749ee4) |
+| Tue, 14 Oct 2025 07:49:09 GMT | Advanced Hunting: Practical Tricks I Still Used After 10+ Years of Bug Bounty Hunting | Abhishek meena | [Read More](https://medium.com/p/1475c39fa83a) |
+| Tue, 14 Oct 2025 07:48:27 GMT | Crypto Phishing Scams: How to Recognize and Avoid Them | MR. CIP | [Read More](https://medium.com/p/0fff814e6af9) |
+| Tue, 14 Oct 2025 07:47:24 GMT | From Tool Chaos to Digital Ecosystem | Johan Vrolix | [Read More](https://medium.com/p/48ba92efc767) |
+| Tue, 14 Oct 2025 07:41:02 GMT | BestBesFree vs Paid VPNs: Which One Actually Protects You? | Gaurav Kumar | [Read More](https://medium.com/p/78dda63a8bfc) |
+| Tue, 14 Oct 2025 07:40:24 GMT | Crimsafe Installation Quick & Hassle-Free Steps | Gold Coast Security Screens | [Read More](https://medium.com/p/c4cf941ab8c0) |
 | Tue, 14 Oct 2025 07:32:24 GMT | XSS: Bypassing Cloudflare WAF with a Simple Trick | Pranav Patil | [Read More](https://medium.com/p/12aff8ce87c7) |
 | Tue, 14 Oct 2025 07:32:16 GMT | Walls Don’t Exist, But Please Use the Door | Dexterite | [Read More](https://medium.com/p/d41d8c00e434) |
 | Tue, 14 Oct 2025 07:31:40 GMT | Cloud Security Posture Management Market Size, Report by 2034 | Akshay Dhamal | [Read More](https://medium.com/p/70a715c8eea6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 01:56:20 GMT | “Actively Exploited” CVE-2024–38856 Apache OFBiz | HariHaranK | [Read More](https://medium.com/p/44f87aa8b944) |
 | Tue, 14 Oct 2025 01:50:52 GMT | Businesses Face Growing Need for Cybersecurity to Protect Intellectual Property | Financial Poise | [Read More](https://medium.com/p/e6aef1ed3fbb) |
 | Tue, 14 Oct 2025 01:43:14 GMT | SEO for Technology Companies: How to Rank #1 on Google in 2025 (Even in a Competitive Market) | sana irshad | [Read More](https://medium.com/p/5c985eea70e4) |
-| Tue, 14 Oct 2025 01:42:14 GMT | TryHackMe #116 - TheHive Project | SiberYuk | [Read More](https://medium.com/p/563098e4799e) |
-| Tue, 14 Oct 2025 01:36:48 GMT | TryHackMe #115 - Velociraptor | SiberYuk | [Read More](https://medium.com/p/5ff5b98accb5) |
-| Tue, 14 Oct 2025 01:36:00 GMT | Hackviser  —  File Inclusion Labs | Omer Bawazir | [Read More](https://medium.com/p/726732304d49) |
-| Tue, 14 Oct 2025 01:28:54 GMT | The Hidden Cost of Audit Fatigue — and How to Reverse It | Dr. Deep Pandey | [Read More](https://medium.com/p/7359b023c653) |
-| Tue, 14 Oct 2025 01:26:49 GMT | TryHackMe #113 - KAPE | SiberYuk | [Read More](https://medium.com/p/965b9e143ef6) |
-| Tue, 14 Oct 2025 01:25:42 GMT | MCP Servers in AI: The Backbone of Intelligent Agent Orchestration. | Bervice | [Read More](https://medium.com/p/3d395bc39249) |
-| Tue, 14 Oct 2025 01:22:33 GMT | Where Blue Teams Stop Reacting and Start Designing | Shantaciak | [Read More](https://medium.com/p/497089f349e5) |
-| Tue, 14 Oct 2025 01:07:56 GMT | Forget Commands — Nmap Can Now Understand English?! Kali’s llm-tools-nmap Is Wild | Steve Matindi | [Read More](https://medium.com/p/1b266b1e90f9) |
-| Tue, 14 Oct 2025 00:48:43 GMT | If You’re an IT Graduate and Unemployed — Try These Steps | Nichelle Nemo | [Read More](https://medium.com/p/16cf62c8c116) |
-| Tue, 14 Oct 2025 00:46:32 GMT | How Often Should You Update WordPress SALT Keys? A Security Expert’s Guide | topqlearn.com | [Read More](https://medium.com/p/621ed1cbe1dd) |
-| Tue, 14 Oct 2025 00:43:15 GMT | Ideas That Don’t Die | Padraig OxRebel | [Read More](https://medium.com/p/b64f2d2bd8b7) |
-| Tue, 14 Oct 2025 00:41:44 GMT | HSM, PCI DSS, ISO/IEC 27001 | Leonidas Gorgo | [Read More](https://medium.com/p/f2e6442dc5d7) |
-| Tue, 14 Oct 2025 00:30:27 GMT | Tuesday Morning Threat Report: Oct 14, 2025 | Mark Maguire | [Read More](https://medium.com/p/4d0e1984cd3e) |
-| Tue, 14 Oct 2025 00:30:01 GMT | 5 HTTP Security Headers that Developers need to know | Wan-Yi Lee | [Read More](https://medium.com/p/21c9ac64e13d) |
-| Tue, 14 Oct 2025 00:27:51 GMT | What Exactly Is Threat Modeling? | Cyber-AppSec | [Read More](https://medium.com/p/09d99118e2aa) |
-| Tue, 14 Oct 2025 00:11:42 GMT | Intigriti - Challenge - 1025 | Achraf (@40rbidd3n) | [Read More](https://medium.com/p/badc6a24caf9) |
