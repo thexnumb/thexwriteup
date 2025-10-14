@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 06:23:18 GMT | Microsoft UAC Bypass — The Shortcut Hack Attackers Love | Shantnu K. | [Read More](https://medium.com/p/df29dbf070d0) |
+| Tue, 14 Oct 2025 06:19:08 GMT | Security Locksmith Services by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/3fa8d0deb3ac) |
+| Tue, 14 Oct 2025 06:18:52 GMT | The Daily Tech Digest: 14 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/cc29c15d9c4d) |
+| Tue, 14 Oct 2025 06:17:44 GMT | Optimizing Jira Permissions for External Vendors | Erdem UÇAK | [Read More](https://medium.com/p/1573b5b9019d) |
+| Tue, 14 Oct 2025 06:16:41 GMT | Create a XSS lab: From Reflected to Stored | Travis Ray Caverhill | [Read More](https://medium.com/p/c6dac7dc3a34) |
+| Tue, 14 Oct 2025 06:13:43 GMT | The Cyber Apocalypse Has Already Started, You Just Didn’t Notice | Arfa | [Read More](https://medium.com/p/d8cc83055635) |
+| Tue, 14 Oct 2025 06:12:07 GMT | Feeling Lost in the AI Hype? You’re Focusing on the Wrong Thing. | SjCoachUp | [Read More](https://medium.com/p/17d238bdb783) |
+| Tue, 14 Oct 2025 06:11:15 GMT | When IE Mode Became a Backdoor: How Hackers Turned Microsoft’s Legacy Feature Into a Nightmare | Germano Costi | [Read More](https://medium.com/p/5b43f6711b19) |
+| Tue, 14 Oct 2025 06:07:18 GMT | AI-Powered Threat Hunting: From Theory to Practice | Aj | [Read More](https://medium.com/p/45f37d83c1dc) |
+| Tue, 14 Oct 2025 06:05:40 GMT | Russianmarket Insights - How the Trump Shock and Bitcoin Crash Shook the Global Trading Landscape | russianmarket | [Read More](https://medium.com/p/275353d6c8ce) |
+| Tue, 14 Oct 2025 06:02:36 GMT | The Internet Isn’t Broken, It’s Being Hijacked | Arfa | [Read More](https://medium.com/p/e40207bd5d85) |
+| Tue, 14 Oct 2025 06:01:47 GMT | Earn a 100%FREE Microsoft Exam Voucher & Get Certified! | Elizabeth Ekedoro | [Read More](https://medium.com/p/652a24d62d33) |
+| Tue, 14 Oct 2025 06:00:53 GMT | Incident Case Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7f62b3ae2a34) |
+| Tue, 14 Oct 2025 05:51:45 GMT | Levels of Password Security | sharvesh | [Read More](https://medium.com/p/0919b5fce561) |
+| Tue, 14 Oct 2025 05:51:20 GMT | The #1 Mistake Developers Make with Payment Data — and How to Fix It | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/1f89b1e2c722) |
+| Tue, 14 Oct 2025 05:42:12 GMT | Crypto, and the Information Revolution. | Ray Sterling | [Read More](https://medium.com/p/7e8d8d5c81ca) |
+| Tue, 14 Oct 2025 05:39:28 GMT | Key Steps to Ensure a Successful ServiceNow GRC Implementation | Alex s | [Read More](https://medium.com/p/0ebe69fef2eb) |
+| Tue, 14 Oct 2025 05:37:17 GMT | Mastering SOC 2 Compliance: How IntelligenceX Transforms Cybersecurity Governance for Enterprise… | Deepak Sharma | [Read More](https://medium.com/p/2cc4a6f993ad) |
+| Tue, 14 Oct 2025 05:35:34 GMT | How Does Smart Home Automation in Dubai Enhance Home Security? | Ruby Tech UAE | [Read More](https://medium.com/p/fe28dff47dbc) |
 | Tue, 14 Oct 2025 05:34:41 GMT | Cybersecurity Company London | C | [Read More](https://medium.com/p/516c898fa41e) |
 | Tue, 14 Oct 2025 05:34:17 GMT | MDR Cyber Security in 2025: What You Need to Know to Protect Your Business | Lipika | [Read More](https://medium.com/p/57c14b5774d9) |
 | Tue, 14 Oct 2025 05:30:43 GMT | Malware Dynamic Analysis | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/ec9c131acb53) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 20:58:15 GMT | My Cybersecurity Journey: Building Skills One Lab at a Time | Ali Raza | [Read More](https://medium.com/p/e5d834d57a81) |
 | Mon, 13 Oct 2025 20:54:47 GMT | Why Curiosity Is the Best Security Tool We Have | Logs&Lattes | [Read More](https://medium.com/p/c3b2832efb9f) |
 | Mon, 13 Oct 2025 20:51:52 GMT | IT Security Audits: The Foundation of a Strong Cyber Defense | SafeAeon Inc. | [Read More](https://medium.com/p/6831105f24e2) |
-| Mon, 13 Oct 2025 20:50:52 GMT | SOC Automation Project — Wazuh, Shuffle, and TheHive Integration | Syed Mohd Hassan | [Read More](https://medium.com/p/b49219867f57) |
-| Mon, 13 Oct 2025 20:44:02 GMT | Pegasus Spyware Email Scam: How to Detect and Avoid This Silent Threat | SafeAeon Inc. | [Read More](https://medium.com/p/c473d1dcf8ba) |
-| Mon, 13 Oct 2025 20:35:37 GMT | Understanding How Centurion Tracks and Analyzes System Processes | Alex Cabrera | [Read More](https://medium.com/p/e3fb3d70713c) |
-| Mon, 13 Oct 2025 20:29:57 GMT | Artigo: Introdução à Segurança Ofensiva (TryHackMe) | Wesley Santos | [Read More](https://medium.com/p/ff2fa26a3536) |
-| Mon, 13 Oct 2025 20:28:35 GMT | Top 11 cyber stories (Week: Oct 6– Oct 13, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/964912ce5282) |
-| Mon, 13 Oct 2025 20:17:48 GMT | The Scam Economy: How Unemployment Is Turning Young Indians into Online Criminals | Mrinal Kumar | [Read More](https://medium.com/p/2c0ceb593e5c) |
-| Mon, 13 Oct 2025 20:15:23 GMT | Graph Theory in Cybersecurity: Mapping, Detection, and Defense | Hussain | [Read More](https://medium.com/p/3cadd1541a43) |
-| Mon, 13 Oct 2025 20:09:11 GMT | Çok Şükür 10 Senenin Sonunda USOM: Ulusal Siber Olaylara Müdahale Merkezi’de Beni Onayladı | Ertugrul Akbas | [Read More](https://medium.com/p/41fcd2894ebc) |
-| Mon, 13 Oct 2025 20:03:32 GMT | FORTIGATE GEÇİŞİ 01.03 AntiVirus | Ziya DENİZ | [Read More](https://medium.com/p/4e4fcce2a7c3) |
-| Mon, 13 Oct 2025 19:57:47 GMT | Build-Time Defenses Against Reverse Engineering | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2177d85c0984) |
-| Mon, 13 Oct 2025 19:49:15 GMT | Beyond the Firewall: 6 Steps to Stop Attackers From Walking Into Your Database | Hassan Zreik | [Read More](https://medium.com/p/a7ddd785bfbb) |
-| Mon, 13 Oct 2025 19:47:16 GMT | The Complete Beginner’s Guide to CMMC Compliance (2025 Edition) | Olivier Maignan | [Read More](https://medium.com/p/74d6aa22957a) |
-| Mon, 13 Oct 2025 19:45:19 GMT | Security and Compliance | Nurali ATMACA | [Read More](https://medium.com/p/128be3a735ff) |
-| Mon, 13 Oct 2025 19:44:12 GMT | Week 10: 16 Days Remaining —  How I’m Rescuing My Challenge from the Motivation Slump (An Honest… | Mike (sl0th0x87) | [Read More](https://medium.com/p/57f16c5ff13a) |
-| Mon, 13 Oct 2025 19:43:46 GMT | Day 8 of My Cybersecurity Journey: Exploring the Windows Command Line | Ogundipe Priscilla | [Read More](https://medium.com/p/736c8d7c05d4) |
-| Mon, 13 Oct 2025 19:34:50 GMT | These Voices vs The Truth | Oni | [Read More](https://medium.com/p/50c310bcb9e0) |
-| Mon, 13 Oct 2025 19:34:24 GMT | What is Phishing? A Beginner’s Guide to Scams | orioninsist | [Read More](https://medium.com/p/dff08f6bb36b) |
-| Mon, 13 Oct 2025 19:34:19 GMT | Creating A Tech Roadmap In Real Time | Ariel McBride | [Read More](https://medium.com/p/e076c6b70dd6) |
-| Mon, 13 Oct 2025 19:32:28 GMT | 7 Deno Deploy Tricks for Secure, Low-Ops Backends | Hash Block | [Read More](https://medium.com/p/2c08fc7b0e1b) |
