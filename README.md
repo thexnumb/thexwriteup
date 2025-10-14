@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 01:36:00 GMT | Hackviser  —  File Inclusion Labs | Omer Bawazir | [Read More](https://medium.com/p/726732304d49) |
+| Tue, 14 Oct 2025 01:28:54 GMT | The Hidden Cost of Audit Fatigue — and How to Reverse It | Dr. Deep Pandey | [Read More](https://medium.com/p/7359b023c653) |
+| Tue, 14 Oct 2025 01:26:49 GMT | TryHackMe #113 - KAPE | SiberYuk | [Read More](https://medium.com/p/965b9e143ef6) |
+| Tue, 14 Oct 2025 01:25:42 GMT | MCP Servers in AI: The Backbone of Intelligent Agent Orchestration. | Bervice | [Read More](https://medium.com/p/3d395bc39249) |
+| Tue, 14 Oct 2025 01:22:33 GMT | Where Blue Teams Stop Reacting and Start Designing | Shantaciak | [Read More](https://medium.com/p/497089f349e5) |
+| Tue, 14 Oct 2025 01:07:56 GMT | Forget Commands — Nmap Can Now Understand English?! Kali’s llm-tools-nmap Is Wild | Steve Matindi | [Read More](https://medium.com/p/1b266b1e90f9) |
+| Tue, 14 Oct 2025 00:48:43 GMT | If You’re an IT Graduate and Unemployed — Try These Steps | Nichelle Nemo | [Read More](https://medium.com/p/16cf62c8c116) |
+| Tue, 14 Oct 2025 00:46:32 GMT | How Often Should You Update WordPress SALT Keys? A Security Expert’s Guide | topqlearn.com | [Read More](https://medium.com/p/621ed1cbe1dd) |
+| Tue, 14 Oct 2025 00:43:15 GMT | Ideas That Don’t Die | Padraig OxRebel | [Read More](https://medium.com/p/b64f2d2bd8b7) |
+| Tue, 14 Oct 2025 00:41:44 GMT | HSM, PCI DSS, ISO/IEC 27001 | Leonidas Gorgo | [Read More](https://medium.com/p/f2e6442dc5d7) |
+| Tue, 14 Oct 2025 00:30:27 GMT | Tuesday Morning Threat Report: Oct 14, 2025 | Mark Maguire | [Read More](https://medium.com/p/4d0e1984cd3e) |
+| Tue, 14 Oct 2025 00:30:01 GMT | 5 HTTP Security Headers that Developers need to know | Wan-Yi Lee | [Read More](https://medium.com/p/21c9ac64e13d) |
+| Tue, 14 Oct 2025 00:27:51 GMT | What Exactly Is Threat Modeling? | Cyber-AppSec | [Read More](https://medium.com/p/09d99118e2aa) |
+| Tue, 14 Oct 2025 00:11:42 GMT | Intigriti - Challenge - 1025 | Achraf (@40rbidd3n) | [Read More](https://medium.com/p/badc6a24caf9) |
+| Tue, 14 Oct 2025 00:02:04 GMT | Domina Naabu: Un escáner de puertos rápido para bug bounty | JPablo13 | [Read More](https://medium.com/p/11511a1805ee) |
+| Mon, 13 Oct 2025 23:39:19 GMT | Monday Cyber Brief — October 13 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/25dfa4a2dfbf) |
 | Mon, 13 Oct 2025 23:19:24 GMT | Firewalls Unleashed: Implementing Network Defense with pfSense | Antriksh Saini | [Read More](https://medium.com/p/ffc5bee87616) |
 | Mon, 13 Oct 2025 22:46:22 GMT | Token Expired Error and IDOR: Unauthorized Access in an ASP.NET Application | Hamit CİBO | [Read More](https://medium.com/p/70a3f69b10cc) |
 | Mon, 13 Oct 2025 22:41:46 GMT | Zero Trust – a Doctrine Without Deliverance | George Sidman | [Read More](https://medium.com/p/2eef69f7cfeb) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Oct 2025 17:42:18 GMT | Building an Emergency Fund: A Footfall Towards Cyberbanking Security | Vijayakumar C | [Read More](https://medium.com/p/c35f1a386d4f) |
 | Mon, 13 Oct 2025 17:39:41 GMT | SQL Injection Attacks: A Database Security Threat | Cyber Security Research | [Read More](https://medium.com/p/48110e56b76c) |
 | Mon, 13 Oct 2025 17:37:45 GMT | Humans as Attack Vectors | Tony Khalil Rodgers | [Read More](https://medium.com/p/e48f31115023) |
-| Mon, 13 Oct 2025 17:35:00 GMT | The Betrayal Was So Loud, But The Apology Didn’t Make A Sound | Vijay Kumar Gupta | [Read More](https://medium.com/p/af2d8fa859db) |
-| Mon, 13 Oct 2025 17:29:54 GMT | Zero Trust in Action: Building a Defense Strategy That Assumes Breach | Aj | [Read More](https://medium.com/p/7542fbde7ead) |
-| Mon, 13 Oct 2025 17:27:27 GMT | Buffer Overflow Attacks: Understanding the Threat | Cyber Security Research | [Read More](https://medium.com/p/902cabcc22a3) |
-| Mon, 13 Oct 2025 17:25:55 GMT | Top 5 Security System Companies in Canada You Can Trust | Linagracex | [Read More](https://medium.com/p/12597d88de33) |
-| Mon, 13 Oct 2025 17:24:57 GMT | Saga of Exploiting Hardcoded APIs to Swag Hoodies. | Harsh Tandel | [Read More](https://medium.com/p/4a5d0792e0ac) |
-| Mon, 13 Oct 2025 17:20:42 GMT | SecurityFilterChain Explained: The Secret Sauce Behind Spring Security | CodeTalks | [Read More](https://medium.com/p/b86b2bd63e8e) |
-| Mon, 13 Oct 2025 17:18:30 GMT | ️ Behind the Scenes of Spring Security: Mastering SecurityFilterChain Like a Pro | Lakshika | [Read More](https://medium.com/p/dab68f96fecc) |
-| Mon, 13 Oct 2025 17:17:54 GMT | UAC Bypass: Memory Injection (Metasploit) | Dharmendrakumar | [Read More](https://medium.com/p/8a15f1852fba) |
-| Mon, 13 Oct 2025 17:14:10 GMT | Zero Trust in Cloud Computing: The Future of Secure Cloud Architecture | Techridge Solutions | [Read More](https://medium.com/p/11a7446fa568) |
-| Mon, 13 Oct 2025 17:09:07 GMT | 8HTMLLinksandAnchors | Rana Awais | [Read More](https://medium.com/p/a78bdd1dc8e2) |
-| Mon, 13 Oct 2025 17:07:42 GMT | Deception Technology: Fighting Hackers by Tricking Them | Shahzaib | [Read More](https://medium.com/p/daea3ec5cb4b) |
-| Mon, 13 Oct 2025 17:03:06 GMT | One Photo, One Map Pin, One Uncomfortable Realization: Metadata | Stephnoramafeng | [Read More](https://medium.com/p/3786b640b73c) |
-| Mon, 13 Oct 2025 17:02:42 GMT | 7HTMLHeadingsandParagraphs | Rana Awais | [Read More](https://medium.com/p/41cedd2aac1f) |
-| Mon, 13 Oct 2025 17:01:47 GMT | AI Cybersecurity and Software: Where the World is Hiring Now | Lab7AI | [Read More](https://medium.com/p/2f766884e289) |
-| Mon, 13 Oct 2025 17:01:47 GMT | Handle Hunt: Claim Your Username Across the Web | Micah Thornton | [Read More](https://medium.com/p/2caa6f6f17f5) |
-| Mon, 13 Oct 2025 16:58:23 GMT | TryHackMe - Shadow Trace - WriteUp | Axoloth | [Read More](https://medium.com/p/f18676207751) |
