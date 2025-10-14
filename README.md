@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 18:26:29 GMT | NIST 800–171 Made Simple: A Practical Guide for Businesses Working with the DoD | Olivier Maignan | [Read More](https://medium.com/p/20db089982a1) |
+| Tue, 14 Oct 2025 18:21:16 GMT | How I Found “CVE-2025–4123” in Grafana Using FOFA (and Got a Bounty | A0X_Trojan | [Read More](https://medium.com/p/a21a00d477a8) |
+| Tue, 14 Oct 2025 18:10:50 GMT | Don’t Click That .EXE: A Silent Trap in Your Chats | Juned Silavat | [Read More](https://medium.com/p/54f9e114eabf) |
+| Tue, 14 Oct 2025 18:01:56 GMT | The 4 Silent Killers of Data Center Deals | Shreyas | [Read More](https://medium.com/p/cf00b4fd7a30) |
+| Tue, 14 Oct 2025 18:01:47 GMT | 9 High-Scale File Upload Designs with S3, R2, and Signed URLs | Thinking Loop | [Read More](https://medium.com/p/ad1425ee85e8) |
+| Tue, 14 Oct 2025 18:01:20 GMT | Cybersecurity and Penetration Testing: A Comprehensive Practical Guide | Eren Aloğlu | [Read More](https://medium.com/p/6216e82c8eaf) |
+| Tue, 14 Oct 2025 17:58:22 GMT | The foundation for “unbreakable” encryption: when photons carry the keys | KeyboardSamurai | [Read More](https://medium.com/p/43bbf9316d13) |
+| Tue, 14 Oct 2025 17:56:01 GMT | How to Manage and Secure Backup Accounts | Nurali ATMACA | [Read More](https://medium.com/p/9afd50e367f7) |
+| Tue, 14 Oct 2025 17:53:31 GMT | Basic Router Firmware Dumps | Samar Ibrahim | [Read More](https://medium.com/p/e7befa5545f8) |
+| Tue, 14 Oct 2025 17:50:13 GMT | NetBackup Disaster Recovery and Security Measures | Nurali ATMACA | [Read More](https://medium.com/p/44d0ff1256cd) |
+| Tue, 14 Oct 2025 17:48:08 GMT | Top 10 Cybersecurity Predictions for 2025 | Jeffinvarghese | [Read More](https://medium.com/p/d6b6122dca4a) |
+| Tue, 14 Oct 2025 17:44:59 GMT | HTB Machine Cap Walkthrough | Nicholas Mullenski | [Read More](https://medium.com/p/0eaac824174d) |
+| Tue, 14 Oct 2025 17:43:22 GMT | Protecting Sensitive Data During Backup Operations | Nurali ATMACA | [Read More](https://medium.com/p/65bf4900286b) |
+| Tue, 14 Oct 2025 17:40:12 GMT | I Got a Remote Cybersecurity Job with Zero Experience — Here’s My Exact Strategy | Muhammad Haider Tallal | [Read More](https://medium.com/p/5565720ed3a2) |
 | Tue, 14 Oct 2025 17:36:21 GMT | How NetBackup Meets HIPAA and Other Regulations | Nurali ATMACA | [Read More](https://medium.com/p/4a9df9c3e5df) |
 | Tue, 14 Oct 2025 17:29:45 GMT | Handling Security Vulnerabilities in Backup Systems | Nurali ATMACA | [Read More](https://medium.com/p/188ace2a7c15) |
 | Tue, 14 Oct 2025 17:27:11 GMT | Deep Dive into Auditd Advanced Usage on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/c7a325d5dd32) |
@@ -99,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 13:43:38 GMT | When “Oops, Wrong Number” Is Actually “Oops, You’re About to Get Scammed” | Eina Schroeder | [Read More](https://medium.com/p/88d01857b3c8) |
 | Tue, 14 Oct 2025 13:41:56 GMT | From Low to Medium - How a simple email injection earned me some $$$ | Umanhonlen Gabriel | [Read More](https://medium.com/p/3e7630ae4e9c) |
 | Tue, 14 Oct 2025 13:39:44 GMT | Tired of Resetting Passwords Every 180 Days? Try This Offline Trick | Davvy Singh | [Read More](https://medium.com/p/f5e50d2a447b) |
-| Tue, 14 Oct 2025 13:39:01 GMT | Privilege Escalation: Microsoft Windows: | Travis Ray Caverhill | [Read More](https://medium.com/p/963585b0fe6c) |
-| Tue, 14 Oct 2025 13:32:58 GMT | From Discovery to Action: Strengthening My Client’s Website Security and Performance | Meenatchisundharam Web Developer | [Read More](https://medium.com/p/f4b56bdd9117) |
-| Tue, 14 Oct 2025 13:23:19 GMT | How Hackers Use Artificial Intelligence Against Businesses — and How You Can Protect Yours | Cordula Boeck | [Read More](https://medium.com/p/68afe2916cb7) |
-| Tue, 14 Oct 2025 13:23:03 GMT | Day 35: NAT Gateway in AWS | Prutha_Dongre | [Read More](https://medium.com/p/e8c09ca769e5) |
-| Tue, 14 Oct 2025 13:22:42 GMT | The Reputation Repair Roadmap: Rebuilding After a Smear Campaign | Malik Mobeen | [Read More](https://medium.com/p/b84495805a02) |
-| Tue, 14 Oct 2025 13:22:32 GMT | The Holes in the Net: What the DeepSeek Guardrail Gap Reveals About AI Moderation | Barrett Nash - Cofounder and CEO of InfiniteUp | [Read More](https://medium.com/p/2c40ee242afc) |
-| Tue, 14 Oct 2025 13:21:13 GMT | “Are Web LLM Attacks Just Social Engineering 2.0?” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8e37f19d874b) |
-| Tue, 14 Oct 2025 13:17:33 GMT | Teaching Security Scanners to Remember: Using Vector Embeddings to Stop Chasing Ghost Ports | Simon Morley | [Read More](https://medium.com/p/23227f23063b) |
-| Tue, 14 Oct 2025 13:16:29 GMT | SaaS Contract Lawyers Every Founder Needs in 2025 | Hansen Tong | [Read More](https://medium.com/p/16434e5f5bd3) |
-| Tue, 14 Oct 2025 13:15:22 GMT | The Most Common Network Security Threats and How to Prevent Them | Jaya Sharma Averybit | [Read More](https://medium.com/p/ef238319f689) |
-| Tue, 14 Oct 2025 13:12:17 GMT | How Hackers Find Secrets Hidden in Public Websites | Vipul Sonule | [Read More](https://medium.com/p/513756e90d0f) |
-| Tue, 14 Oct 2025 13:11:46 GMT | Could an Attacker Use a systemd Timer to Run Malicious Code? | Faruk Ahmed | [Read More](https://medium.com/p/f0b01ec8b292) |
-| Tue, 14 Oct 2025 13:08:26 GMT | Beyond the Shell: Advanced Enumeration and Privilege Escalation for OSCP (Part 3) | Diasaddy | [Read More](https://medium.com/p/7410d3812d02) |
-| Tue, 14 Oct 2025 13:04:16 GMT | Vulnerability Discovery #3
-Security Flaws in “Mall”
-CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
