@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 15:32:15 GMT | NetSuck 8266 — turning an ESP8266 into a pocket Wi‑Fi lab | LETCHU PKT | [Read More](https://medium.com/p/979c2a495639) |
+| Tue, 14 Oct 2025 15:24:28 GMT | Splunk Search Optimization for IT Security & Data Analysis Specialists | Antonella Blasetti | [Read More](https://medium.com/p/971cd9902736) |
+| Tue, 14 Oct 2025 15:23:17 GMT | Splunk: Functions and Macros | Antonella Blasetti | [Read More](https://medium.com/p/c6b3ddeb30eb) |
+| Tue, 14 Oct 2025 15:21:33 GMT | Splunk: Lookups and Subsearches | Antonella Blasetti | [Read More](https://medium.com/p/fa92492fa7e9) |
+| Tue, 14 Oct 2025 15:16:40 GMT | 13HTMLAttributes | Rana Awais | [Read More](https://medium.com/p/3109e9f90eac) |
 | Tue, 14 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 14, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/07c3d2c4eca1) |
+| Tue, 14 Oct 2025 15:14:45 GMT | Mastering the 2025 Certified Kubernetes Security Specialist (CKS) Exam — 16 Realistic Scenarios… | Arunkumar M | [Read More](https://medium.com/p/c69a5e951a6b) |
 | Tue, 14 Oct 2025 15:12:06 GMT | 12HTMLForms | Rana Awais | [Read More](https://medium.com/p/31a81a15b380) |
 | Tue, 14 Oct 2025 15:11:01 GMT | Every Train Was Part of the Journey. And Maybe, There Wasn’t a Wrong Train After All. | Vijay Kumar Gupta | [Read More](https://medium.com/p/155ba4ca9d96) |
 | Tue, 14 Oct 2025 15:07:52 GMT | 11HTMLTables | Rana Awais | [Read More](https://medium.com/p/518da30e98c6) |
@@ -108,9 +114,3 @@ CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
 | Tue, 14 Oct 2025 11:10:03 GMT | THE CYBERSTALKING SURVIVAL KIT: SECURING YOUR DIGITAL LIFE AFTER THE DISCARD | Malik Mobeen | [Read More](https://medium.com/p/56d5a16f0e26) |
 | Tue, 14 Oct 2025 11:06:40 GMT | The Real Problem Isn’t AI It’s Our Culture: Stack Overflow Was Our ChatGPT | Luispuello | [Read More](https://medium.com/p/5e5b6fd2a24c) |
 | Tue, 14 Oct 2025 11:00:07 GMT | Vibe coder beware! | Andre Le | [Read More](https://medium.com/p/a6bc129ca814) |
-| Tue, 14 Oct 2025 10:57:31 GMT | Build and Manage a Skilled Mobile App Development Team | Bhavesh Rajpurohit | [Read More](https://medium.com/p/533bf94f4fd4) |
-| Tue, 14 Oct 2025 10:53:04 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity & “The Pentester’s AI Companion: Automating… | Nitin Garg | [Read More](https://medium.com/p/39a8a795cf38) |
-| Tue, 14 Oct 2025 10:50:25 GMT | ️ Menjaga Dunia Digital: Sistem Keamanan Terbaik di Era 2025 | kilat404 sky | [Read More](https://medium.com/p/c90892e41fea) |
-| Tue, 14 Oct 2025 10:42:25 GMT | Machine Learning for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/45ea052430e6) |
-| Tue, 14 Oct 2025 10:39:21 GMT | Cybersecurity, Zero Trust, & Third‑Party Risk give me article for this title | Sunnydilipkanuganti | [Read More](https://medium.com/p/1c3f73bf12db) |
-| Tue, 14 Oct 2025 10:37:53 GMT | What to Expect from a Professional Penetration Testing Service | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/4a5151cdaef4) |
