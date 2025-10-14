@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 14:44:15 GMT | “The P4 Playbook: Two Simple Bugs That Actually Pay Out” | Aman Sharma | [Read More](https://medium.com/p/2a0e2ac9c022) |
+| Tue, 14 Oct 2025 14:43:56 GMT | Server-side Attacks Skills Assessment — HTB | Firhansanad | [Read More](https://medium.com/p/52f20e9accc0) |
+| Tue, 14 Oct 2025 14:32:20 GMT | How Many Amps Does a Garage Door Opener Use: Power Specs Explained | 24H Garage Doors | [Read More](https://medium.com/p/a0a35cf859ff) |
+| Tue, 14 Oct 2025 14:30:29 GMT | Securing What Others Miss: McDonald’s Approach to Data Discovery and Classification | Global Technology | [Read More](https://medium.com/p/69350eb648b7) |
+| Tue, 14 Oct 2025 14:27:46 GMT | I Was Asked to Build a Chess Board in React — Here’s What I Learned | Tech With Curly Girl | [Read More](https://medium.com/p/d4d6fce73322) |
+| Tue, 14 Oct 2025 14:23:03 GMT | The Economics of Prevention — Why Efficient Security Pays for Itself | Abatis ABTU | [Read More](https://medium.com/p/af61cebfe5c3) |
+| Tue, 14 Oct 2025 14:20:01 GMT | Pivoting from Web to Internal Network: The Step-by-Step Playbook Every Pentester Needs | Very Lazy Tech | [Read More](https://medium.com/p/a7edeb402bb9) |
 | Tue, 14 Oct 2025 14:13:02 GMT | Integrasi MobSF → ADB → Frida: Eksplorasi Statis & Instrumentasi Dinamis | shadowreaper | [Read More](https://medium.com/p/a47fd9eadfa2) |
 | Tue, 14 Oct 2025 14:06:30 GMT | Creating Secure Authentication Systems with NextAuth.js: Modern Techniques | @rnab | [Read More](https://medium.com/p/9512645f15ae) |
 | Tue, 14 Oct 2025 14:03:25 GMT | Data Vault Breaker — Room Challenges: Red Team LINUXENIC Corporation Write-up | hihipro | [Read More](https://medium.com/p/2c82a23c5af5) |
@@ -107,10 +114,3 @@ CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
 | Tue, 14 Oct 2025 10:10:19 GMT | Portswigger Academy — Reflected XSS with event handlers and href attributes blocked — Write-up | Alan | [Read More](https://medium.com/p/3da3661dc08b) |
 | Tue, 14 Oct 2025 10:04:10 GMT | The End of Blind Spots: How AI is Giving Cameras a Sixth Sense - Ai Protect | Yutika | [Read More](https://medium.com/p/5a99621d16de) |
 | Tue, 14 Oct 2025 10:00:01 GMT | DockerLabs Writeup — Whoiam (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/fd826fb561ea) |
-| Tue, 14 Oct 2025 09:59:28 GMT | Russian Market 2025 Turning Volatility into Vision for Global Traders | Fer | [Read More](https://medium.com/p/50d4fe01c536) |
-| Tue, 14 Oct 2025 09:56:55 GMT | Elevating Threat Detection and Response through SOC-SIEM-XDR Synergy | Vijilan | [Read More](https://medium.com/p/85ea1c2a1d37) |
-| Tue, 14 Oct 2025 09:56:25 GMT | Build More, Spend Less: Smarter Hosting Choices for 2025 | Janet Watson | [Read More](https://medium.com/p/d15f93536087) |
-| Tue, 14 Oct 2025 09:56:19 GMT | DNS Response Rate Limiting (RRL) Nedir? Derinlemesine İnceleme | Tuğrul Kılıç | [Read More](https://medium.com/p/d4c87b4c07fe) |
-| Tue, 14 Oct 2025 09:55:57 GMT | Checkpoint Access: Redefining Modern Security | Jahanzaib Idrees | [Read More](https://medium.com/p/74fb0967139e) |
-| Tue, 14 Oct 2025 09:49:30 GMT | The Day My Password Manager Betrayed Me | Fateyaly | [Read More](https://medium.com/p/357fe78f7e7d) |
-| Tue, 14 Oct 2025 09:49:23 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/f02132ac8a46) |
