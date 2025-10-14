@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 19:12:08 GMT | The Real ROI of AI Agents in DevSecOps: Faster Fixes, Lower Costs, Less Risk | InnoveusIT | [Read More](https://medium.com/p/a9d474b8a973) |
+| Tue, 14 Oct 2025 19:11:45 GMT | Snow-Crash-writup [level04] | B.R.O.L.Y | [Read More](https://medium.com/p/4ee5b0e341d0) |
+| Tue, 14 Oct 2025 19:09:07 GMT | Invisible Text, Visible Risk: The Rise of “Imperceptible Jailbreaks” in LLMs | Harishkumar Pillai | [Read More](https://medium.com/p/9534e84403dd) |
+| Tue, 14 Oct 2025 19:08:07 GMT | ERP + Cloud + AI: Building the Digital Core of the Future | InnoveusIT | [Read More](https://medium.com/p/ef1826ae0806) |
+| Tue, 14 Oct 2025 19:05:42 GMT | MCP: Security and Authentication | Parichay Pothepalli | [Read More](https://medium.com/p/8bfaccea51a3) |
+| Tue, 14 Oct 2025 19:02:17 GMT | The Open-Source SOC: Building a Scalable Detection Engineering Platform with Docker | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/473561c2a95f) |
+| Tue, 14 Oct 2025 19:00:44 GMT | Reliability in the Cloud: Shared Responsibility | SRE Mastery | [Read More](https://medium.com/p/3ed42b32d0ba) |
+| Tue, 14 Oct 2025 19:00:44 GMT | My Journey As a Red Teamer | Inayat Hussain | [Read More](https://medium.com/p/a5826f2cd31d) |
+| Tue, 14 Oct 2025 18:57:38 GMT | Common Cybersecurity Mistakes and How to Avoid Them: A 2025 Practical Guide | JSOC IT BLOG | [Read More](https://medium.com/p/77c75958c971) |
+| Tue, 14 Oct 2025 18:55:24 GMT | ⚡ Flash USDT: Useful Concept — Dangerous When Weaponized | Crypto Savvy | [Read More](https://medium.com/p/94b33873da89) |
+| Tue, 14 Oct 2025 18:54:36 GMT | Security as a Reliability Feature | SRE Mastery | [Read More](https://medium.com/p/3a48b567b999) |
+| Tue, 14 Oct 2025 18:51:48 GMT | The Brutal Truth About Cybersecurity No One Tells You (Yes, That Includes You) | Shaikh Minhaz | [Read More](https://medium.com/p/fa6eba775f9b) |
+| Tue, 14 Oct 2025 18:51:16 GMT | 4 vulnerabilidades reales en Google OAuth — análisis técnico paso a paso | Gorka | [Read More](https://medium.com/p/26e6d8ac1b90) |
+| Tue, 14 Oct 2025 18:49:36 GMT | The #1 Sign Your Cybersecurity Skills Are Outdated | Taimur Ijlal | [Read More](https://medium.com/p/a2e055988a30) |
+| Tue, 14 Oct 2025 18:47:17 GMT | Mailfence vs. Proton Mail: A Friendly Guide to Privacy-Focused Email Services | GearTickler | [Read More](https://medium.com/p/bbbb81e1bb3e) |
+| Tue, 14 Oct 2025 18:39:17 GMT | OSI Model (core of networking) | Fasieha Mehar | [Read More](https://medium.com/p/b758ded4059d) |
+| Tue, 14 Oct 2025 18:33:23 GMT | Find Critical Vulnerabilities: My 7-Minute Bug Bounty Workflow | Ibtissam hammadi | [Read More](https://medium.com/p/2dd75f8707cd) |
 | Tue, 14 Oct 2025 18:26:29 GMT | NIST 800–171 Made Simple: A Practical Guide for Businesses Working with the DoD | Olivier Maignan | [Read More](https://medium.com/p/20db089982a1) |
 | Tue, 14 Oct 2025 18:21:16 GMT | How I Found “CVE-2025–4123” in Grafana Using FOFA (and Got a Bounty | A0X_Trojan | [Read More](https://medium.com/p/a21a00d477a8) |
 | Tue, 14 Oct 2025 18:10:50 GMT | Don’t Click That .EXE: A Silent Trap in Your Chats | Juned Silavat | [Read More](https://medium.com/p/54f9e114eabf) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 14:27:46 GMT | I Was Asked to Build a Chess Board in React — Here’s What I Learned | Tech With Curly Girl | [Read More](https://medium.com/p/d4d6fce73322) |
 | Tue, 14 Oct 2025 14:23:03 GMT | The Economics of Prevention — Why Efficient Security Pays for Itself | Abatis ABTU | [Read More](https://medium.com/p/af61cebfe5c3) |
 | Tue, 14 Oct 2025 14:20:01 GMT | Pivoting from Web to Internal Network: The Step-by-Step Playbook Every Pentester Needs | Very Lazy Tech | [Read More](https://medium.com/p/a7edeb402bb9) |
-| Tue, 14 Oct 2025 14:13:02 GMT | Integrasi MobSF → ADB → Frida: Eksplorasi Statis & Instrumentasi Dinamis | shadowreaper | [Read More](https://medium.com/p/a47fd9eadfa2) |
-| Tue, 14 Oct 2025 14:06:30 GMT | Creating Secure Authentication Systems with NextAuth.js: Modern Techniques | @rnab | [Read More](https://medium.com/p/9512645f15ae) |
-| Tue, 14 Oct 2025 14:03:25 GMT | Data Vault Breaker — Room Challenges: Red Team LINUXENIC Corporation Write-up | hihipro | [Read More](https://medium.com/p/2c82a23c5af5) |
-| Tue, 14 Oct 2025 14:02:54 GMT | Cyber Briefing: 2025.10.14 | CyberMaterial | [Read More](https://medium.com/p/5bcf6cbd96ea) |
-| Tue, 14 Oct 2025 14:02:51 GMT | How to Choose a Garage Door Opener: A Complete Buyer’s Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/497d8cd3683a) |
-| Tue, 14 Oct 2025 13:58:21 GMT | 23. Tools vs. Mindset: What Matters More in 2025 | Abhijeet kumawat | [Read More](https://medium.com/p/1be217350787) |
-| Tue, 14 Oct 2025 13:56:50 GMT | Hybrid Work Is Here — How Smart Monitoring Protects Productivity Without Killing Trust | Paul Meyer | [Read More](https://medium.com/p/7db9af9d63fd) |
-| Tue, 14 Oct 2025 13:56:05 GMT | SQL Injection di WHERE Clause — Cara Selesaikan Lab PortSwigger (Langkah-demi-langkah, Untuk… | Muhamad Avwan | [Read More](https://medium.com/p/e331c33c9ab2) |
-| Tue, 14 Oct 2025 13:53:05 GMT | Agentic AI and Cybersecurity: A New Frontier of Opportunity and Risk | PriyankaP | [Read More](https://medium.com/p/a2e3330a6ec6) |
-| Tue, 14 Oct 2025 13:51:59 GMT | Introduction to Process Hacker | Kim Tan | [Read More](https://medium.com/p/e5ae47afe967) |
-| Tue, 14 Oct 2025 13:51:14 GMT | 5 Surprising Lessons from the World of AppSec | 0xmosshead | [Read More](https://medium.com/p/1141ddf3256e) |
-| Tue, 14 Oct 2025 13:48:55 GMT | Culture, Climate, and Risk: How Organizations Shape Their Own Insider Threats | Demitri Malinski | [Read More](https://medium.com/p/c1fd69a6c644) |
-| Tue, 14 Oct 2025 13:48:13 GMT | Intigriti Challenge 1025 : Dual Path SSRF to (server-status → web-shell) | jsll | [Read More](https://medium.com/p/7eba198f6fe3) |
-| Tue, 14 Oct 2025 13:46:52 GMT | How to Deactivate a Garage Door Opener: Secure and Simple Methods | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/cf43092b3241) |
-| Tue, 14 Oct 2025 13:43:38 GMT | When “Oops, Wrong Number” Is Actually “Oops, You’re About to Get Scammed” | Eina Schroeder | [Read More](https://medium.com/p/88d01857b3c8) |
-| Tue, 14 Oct 2025 13:41:56 GMT | From Low to Medium - How a simple email injection earned me some $$$ | Umanhonlen Gabriel | [Read More](https://medium.com/p/3e7630ae4e9c) |
-| Tue, 14 Oct 2025 13:39:44 GMT | Tired of Resetting Passwords Every 180 Days? Try This Offline Trick | Davvy Singh | [Read More](https://medium.com/p/f5e50d2a447b) |
