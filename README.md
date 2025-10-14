@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 16:46:14 GMT | 15 ChatGPT Features That Actually Make Daily Life Easier | Sudarshan Gore | [Read More](https://medium.com/p/c150a2481705) |
+| Tue, 14 Oct 2025 16:43:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/32f08a800ea5) |
+| Tue, 14 Oct 2025 16:43:11 GMT | Artificial Intelligence Is the Future of Cybersecurity | Xcelplex | [Read More](https://medium.com/p/e2b62eadbcdd) |
+| Tue, 14 Oct 2025 16:37:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/6c02ce8de11a) |
+| Tue, 14 Oct 2025 16:35:27 GMT | A small number of samples can poison LLMs of any size | ASAcrew Blog | [Read More](https://medium.com/p/11ffb970b0ac) |
+| Tue, 14 Oct 2025 16:30:51 GMT | Google Dorking for Beginners: The Ethical Hacker’s Guide to Smarter Searching | Raj Rawat | [Read More](https://medium.com/p/c61cdbf152cf) |
+| Tue, 14 Oct 2025 16:29:57 GMT | Ethical Hacking: A Career in Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/f04b4438f0cf) |
+| Tue, 14 Oct 2025 16:25:32 GMT | THE PUZZLE BOX // HASH_0001.FALL | Carrie Davis | [Read More](https://medium.com/p/30087db97f5d) |
+| Tue, 14 Oct 2025 16:19:27 GMT | When Firewalls Face the Future: The New Threats Targeting Next-Gen Security | r00tb33r | [Read More](https://medium.com/p/c34607f62158) |
+| Tue, 14 Oct 2025 16:18:09 GMT | Don’t migrate your auth. Enhance it. | PropelAuth | [Read More](https://medium.com/p/aa6d44022de9) |
 | Tue, 14 Oct 2025 16:12:08 GMT | Machine Learning for Threat Detection | Cyber Security Research | [Read More](https://medium.com/p/cab17f05c959) |
 | Tue, 14 Oct 2025 16:10:06 GMT | SOC 2 Type II: Proving Trust Over Time | Rachid Abadli | [Read More](https://medium.com/p/707a5cb50842) |
 | Tue, 14 Oct 2025 16:08:23 GMT | Hackers Love When You Forget These 5 Privacy Settings | Pannag Kumaar | [Read More](https://medium.com/p/ee663e892910) |
@@ -104,13 +114,3 @@ CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
 | Tue, 14 Oct 2025 12:15:10 GMT | Scriptman: Building a Secure Bash Automation Framework for Cybersecurity | Gabriel D. Vincent | [Read More](https://medium.com/p/b5c8b0fa26aa) |
 | Tue, 14 Oct 2025 12:14:35 GMT | How Advanced AI & Cloud Cut Fintech Fraud — Real Results from the Frontlines | Bhagyashreesurolia | [Read More](https://medium.com/p/8916591ab0b6) |
 | Tue, 14 Oct 2025 12:14:11 GMT | Veeam’s bounty program strikes again | ITinto Blog - Alessandro Tinivelli | [Read More](https://medium.com/p/35fcfec64679) |
-| Tue, 14 Oct 2025 12:09:06 GMT | Secure by Quantum Design: Protecting Financial Transactions with Quantum Cryptography | Gurbans Chatwal | [Read More](https://medium.com/p/716a29bbfeab) |
-| Tue, 14 Oct 2025 12:04:22 GMT | Auditd Advanced Usage Optimization Strategies on Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/54aedeb64ef3) |
-| Tue, 14 Oct 2025 11:56:42 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/7941fb1654ad) |
-| Tue, 14 Oct 2025 11:55:28 GMT | Why Enterprise AI Adoption Stalls — And How to Fix It | Scifi-and-Beyond.com | [Read More](https://medium.com/p/8ea730067ec6) |
-| Tue, 14 Oct 2025 11:52:24 GMT | Technology and the Modern World | Rana Ramzan | [Read More](https://medium.com/p/cbe89aca3aae) |
-| Tue, 14 Oct 2025 11:50:41 GMT | Blockchain Security: Safeguarding Decentralized Systems | Cyber Security Research | [Read More](https://medium.com/p/93554cdfef54) |
-| Tue, 14 Oct 2025 11:49:06 GMT | OffSec Echo Response Week 1: ProtoVault Breach - My Beginner CTF Journey | Abdul Matheen | [Read More](https://medium.com/p/5785c885baa5) |
-| Tue, 14 Oct 2025 11:44:23 GMT | How I Set Up My Own Private VPN (And How You Can Too) | Michael Imoabasi Etokakpan | [Read More](https://medium.com/p/4e1019c3e680) |
-| Tue, 14 Oct 2025 11:33:25 GMT | COULD you help me with something : I have my OKX wallet with 5,000 USDT, and I have the… | Joelle luxer | [Read More](https://medium.com/p/c8e7973de250) |
-| Tue, 14 Oct 2025 11:32:19 GMT | Linux Permissions: Users, Groups, ACLs, and Sudo for Security | bektiaw | [Read More](https://medium.com/p/51eb5a535fc3) |
