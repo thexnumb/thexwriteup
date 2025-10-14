@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 07:32:24 GMT | XSS: Bypassing Cloudflare WAF with a Simple Trick | Pranav Patil | [Read More](https://medium.com/p/12aff8ce87c7) |
+| Tue, 14 Oct 2025 07:32:16 GMT | Walls Don’t Exist, But Please Use the Door | Dexterite | [Read More](https://medium.com/p/d41d8c00e434) |
+| Tue, 14 Oct 2025 07:31:40 GMT | Cloud Security Posture Management Market Size, Report by 2034 | Akshay Dhamal | [Read More](https://medium.com/p/70a715c8eea6) |
+| Tue, 14 Oct 2025 07:26:16 GMT | Top 10 Red Team Certifications | Manisha Chaudhary | [Read More](https://medium.com/p/0b525b356477) |
+| Tue, 14 Oct 2025 07:26:06 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/2dc0c7ea6ac1) |
+| Tue, 14 Oct 2025 07:24:05 GMT | The Invisible Pipeline: Defending CI/CD from Targeted Attacks | Andrey Pautov | [Read More](https://medium.com/p/456283ee5ed3) |
+| Tue, 14 Oct 2025 07:23:28 GMT | Before You Ask to Be Understood, Ask This Question First | Asuquo kevin | [Read More](https://medium.com/p/2452c3e94024) |
+| Tue, 14 Oct 2025 07:20:39 GMT | Authentication ve Authorization Testleri | Kübra Kılıç | [Read More](https://medium.com/p/08a4a6997064) |
+| Tue, 14 Oct 2025 07:20:22 GMT | Intigriti 1025 Challenge: SSRF to RCE via File Upload Bypass | Sander Wind | [Read More](https://medium.com/p/8aaa0164ee55) |
 | Tue, 14 Oct 2025 07:13:27 GMT | Why Should I Use a VPN? | Gaurav Kumar | [Read More](https://medium.com/p/f0f4c09a649d) |
+| Tue, 14 Oct 2025 07:09:55 GMT | Siber İstihbarat ve Gelişmiş Kalıcı Tehditlere Karşı Koyma Stratejileri: Bütüncül Bir Analiz | furkan | [Read More](https://medium.com/p/c4fdb75f017e) |
+| Tue, 14 Oct 2025 07:09:23 GMT | The Real Cost of Data Breaches and How Penetration Testing Protects Your Business | Gainside | [Read More](https://medium.com/p/04503a0460ee) |
 | Tue, 14 Oct 2025 07:01:48 GMT | How I Chain Tools for Faster, Smarter Network Mapping | Dany Christel | [Read More](https://medium.com/p/0ca8beeafa83) |
 | Tue, 14 Oct 2025 07:01:13 GMT | Achieve Excellence with Axipro Through NIST Cybersecurity Certification | Axipro | [Read More](https://medium.com/p/592a423e7eaa) |
 | Tue, 14 Oct 2025 06:55:00 GMT | Securing Kubernetes Pods: A Practical Guide | @Harsh | [Read More](https://medium.com/p/3c8342c4e520) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 00:30:01 GMT | 5 HTTP Security Headers that Developers need to know | Wan-Yi Lee | [Read More](https://medium.com/p/21c9ac64e13d) |
 | Tue, 14 Oct 2025 00:27:51 GMT | What Exactly Is Threat Modeling? | Cyber-AppSec | [Read More](https://medium.com/p/09d99118e2aa) |
 | Tue, 14 Oct 2025 00:11:42 GMT | Intigriti - Challenge - 1025 | Achraf (@40rbidd3n) | [Read More](https://medium.com/p/badc6a24caf9) |
-| Tue, 14 Oct 2025 00:02:04 GMT | Domina Naabu: Un escáner de puertos rápido para bug bounty | JPablo13 | [Read More](https://medium.com/p/11511a1805ee) |
-| Mon, 13 Oct 2025 23:39:19 GMT | Monday Cyber Brief — October 13 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/25dfa4a2dfbf) |
-| Mon, 13 Oct 2025 23:19:24 GMT | Firewalls Unleashed: Implementing Network Defense with pfSense | Antriksh Saini | [Read More](https://medium.com/p/ffc5bee87616) |
-| Mon, 13 Oct 2025 22:46:22 GMT | Token Expired Error and IDOR: Unauthorized Access in an ASP.NET Application | Hamit CİBO | [Read More](https://medium.com/p/70a3f69b10cc) |
-| Mon, 13 Oct 2025 22:41:46 GMT | Zero Trust – a Doctrine Without Deliverance | George Sidman | [Read More](https://medium.com/p/2eef69f7cfeb) |
-| Mon, 13 Oct 2025 22:40:55 GMT | You can’t protect your heart by pretending not to have one | Arisa Thomas | [Read More](https://medium.com/p/4509e7b5e380) |
-| Mon, 13 Oct 2025 22:40:08 GMT | Shopping Online Without Getting Scammed | Samirah A.O | [Read More](https://medium.com/p/e40cb1831e64) |
-| Mon, 13 Oct 2025 22:33:55 GMT | 8 Critical Insights from My Forthcoming Book on Blockchain Security | Kelsie Nabben | [Read More](https://medium.com/p/9eceb70820eb) |
-| Mon, 13 Oct 2025 22:11:29 GMT | Active — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/bdc36d1b2adb) |
-| Mon, 13 Oct 2025 22:06:29 GMT | Crafting Secure Authentication with NextAuth.js: A Comprehensive Guide | @rnab | [Read More](https://medium.com/p/53b83c1c3693) |
-| Mon, 13 Oct 2025 21:55:44 GMT | The Dark Reality of Dark Web - My Scary Research ☠️ | Abdullah Javeed | [Read More](https://medium.com/p/c6f69613daba) |
