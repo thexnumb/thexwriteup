@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Oct 2025 17:16:43 GMT | TryHackMe Walkthrough — Blueprint️ | Cypher.One | [Read More](https://medium.com/p/7a06f605d0b3) |
+| Tue, 14 Oct 2025 17:15:45 GMT | Python and Cybersecurity: The Rise of Automated Defense in the Age of AI | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/e65659176042) |
+| Tue, 14 Oct 2025 17:03:27 GMT | The AI Misinformation Crisis: Deepfakes, Detection Tools, and the Fight for Truth | Esther Abel | [Read More](https://medium.com/p/bb4f7c28262e) |
+| Tue, 14 Oct 2025 17:02:37 GMT | DAY 4: Understanding Different Types of Accounts and Account Groups in Computing | Krish Shrestha | [Read More](https://medium.com/p/0c6ffeaaa973) |
+| Tue, 14 Oct 2025 17:02:05 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/c33f4a6e6eb0) |
+| Tue, 14 Oct 2025 17:01:57 GMT | Ehxb - File Upload Vulnerabilities II | Ehxb | [Read More](https://medium.com/p/f1ca1a3bf159) |
+| Tue, 14 Oct 2025 16:56:30 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/698bd6e4cc91) |
+| Tue, 14 Oct 2025 16:49:55 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/67efd2e3bdec) |
+| Tue, 14 Oct 2025 16:48:59 GMT | Client-Side Path Traversal: Exploiting CSRF in Header-based auth scenarios | Kulkan Security | [Read More](https://medium.com/p/31c26a1baece) |
+| Tue, 14 Oct 2025 16:48:45 GMT | Your Password is "Password123" and Hackers Are Literally Laughing at You | Dayoisawumi | [Read More](https://medium.com/p/c35a0cdbd43f) |
+| Tue, 14 Oct 2025 16:48:23 GMT | Hire Top Security Guards Los Angeles for 24/7 Protection | Direct Guard Services | [Read More](https://medium.com/p/0241fc74dbe7) |
+| Tue, 14 Oct 2025 16:47:14 GMT | XSS and XXE explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/4ef6ba311a19) |
 | Tue, 14 Oct 2025 16:46:14 GMT | 15 ChatGPT Features That Actually Make Daily Life Easier | Sudarshan Gore | [Read More](https://medium.com/p/c150a2481705) |
 | Tue, 14 Oct 2025 16:43:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/32f08a800ea5) |
 | Tue, 14 Oct 2025 16:43:11 GMT | Artificial Intelligence Is the Future of Cybersecurity | Xcelplex | [Read More](https://medium.com/p/e2b62eadbcdd) |
@@ -102,15 +114,3 @@ CVE-2025–8191 | ZAST AI | [Read More](https://medium.com/p/d664cd85d724) |
 | Tue, 14 Oct 2025 12:41:39 GMT | How to Detect and Prevent Ransomware | Dkvilas | [Read More](https://medium.com/p/3b43706aa695) |
 | Tue, 14 Oct 2025 12:40:34 GMT | Why “Hackers Are Criminals” Is an Outdated View | Your's Nightmare | [Read More](https://medium.com/p/8178d702fa9d) |
 | Tue, 14 Oct 2025 12:36:01 GMT | Crate your critters! | Munster Conservancy | [Read More](https://medium.com/p/2cdd6e502459) |
-| Tue, 14 Oct 2025 12:33:55 GMT | K17 CTF | Harpogma | [Read More](https://medium.com/p/89dee8029bb7) |
-| Tue, 14 Oct 2025 12:32:02 GMT | Case Study: The Startup That Passed Due Diligence — Without a CISO | Lester Davila Escobedo | [Read More](https://medium.com/p/8baab8f0e029) |
-| Tue, 14 Oct 2025 12:31:50 GMT | Strengthening Information Security with ISO 27001:2022 | Mahmoothraahim | [Read More](https://medium.com/p/7211bd7c177a) |
-| Tue, 14 Oct 2025 12:30:56 GMT | Cybersecurity Threats In 2025 | The United Indian | [Read More](https://medium.com/p/3bc9d5fef491) |
-| Tue, 14 Oct 2025 12:27:47 GMT | Does Your Wireless Keyboard or Mouse Lead You to a Breach? | Abdul Samad | [Read More](https://medium.com/p/0409b5e512f3) |
-| Tue, 14 Oct 2025 12:26:07 GMT | State of Scams USA 2025 – Key Highlights | Balasubramaniam GD | [Read More](https://medium.com/p/ed4ac444718e) |
-| Tue, 14 Oct 2025 12:25:23 GMT | What is Social Engineering and how to stay protected | Red Sift | [Read More](https://medium.com/p/a5fb3557e8ae) |
-| Tue, 14 Oct 2025 12:21:24 GMT | AI Cybersecurity Solution: The Third Eye Businesses Need in the Digital Age | Forefront Technology International Inc. | [Read More](https://medium.com/p/26edeb03abcb) |
-| Tue, 14 Oct 2025 12:16:31 GMT | How a Chrome extension restores copy/paste & right-click on restrictive websites | Peter U | [Read More](https://medium.com/p/a594d5abbe6b) |
-| Tue, 14 Oct 2025 12:15:10 GMT | Scriptman: Building a Secure Bash Automation Framework for Cybersecurity | Gabriel D. Vincent | [Read More](https://medium.com/p/b5c8b0fa26aa) |
-| Tue, 14 Oct 2025 12:14:35 GMT | How Advanced AI & Cloud Cut Fintech Fraud — Real Results from the Frontlines | Bhagyashreesurolia | [Read More](https://medium.com/p/8916591ab0b6) |
-| Tue, 14 Oct 2025 12:14:11 GMT | Veeam’s bounty program strikes again | ITinto Blog - Alessandro Tinivelli | [Read More](https://medium.com/p/35fcfec64679) |
