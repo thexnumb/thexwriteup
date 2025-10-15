@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 13:25:28 GMT | Getting RCE — Challenge #1025 by Intigriti | Hamza Avvan | [Read More](https://medium.com/p/b3d0033a286d) |
+| Wed, 15 Oct 2025 13:19:01 GMT | Real-Time SSH Login Alerts to Slack — Simple, Secure, and Effective | Prince Vagadiya | [Read More](https://medium.com/p/5518cb368d2d) |
+| Wed, 15 Oct 2025 13:15:15 GMT | Fragile Is Not the Opposite of Strong | Nawab Khan | [Read More](https://medium.com/p/dd93d4a22b95) |
+| Wed, 15 Oct 2025 13:12:44 GMT | Container Security Implementation and Troubleshooting | Eren Cankut Uysal | [Read More](https://medium.com/p/fd16a9748e7b) |
+| Wed, 15 Oct 2025 13:11:50 GMT | Even Therapists Get Manipulated: A Wake-Up Call for Protecting Your Marriage | Jeff Murrah, LPC, LCDC, CMNCS | [Read More](https://medium.com/p/18335c2ff096) |
+| Wed, 15 Oct 2025 13:11:20 GMT | Title: Behind the Screens: The Human Toll of Digital Voyeurism and Stalkerware | Internet Exposed | [Read More](https://medium.com/p/7e1f1cf09476) |
+| Wed, 15 Oct 2025 13:11:01 GMT | She Shares a Problem, You Offer a Solution. You Just Failed Her Test. | The Mind Decoder | [Read More](https://medium.com/p/7323143709ce) |
+| Wed, 15 Oct 2025 13:06:01 GMT | How I Turned a Simple Python Script Into Profit | Ibtissam hammadi | [Read More](https://medium.com/p/8bf7f0db4652) |
+| Wed, 15 Oct 2025 13:04:57 GMT | Strengthen Your Cybersecurity with StrongBox IT’s Expert Penetration Testing Services | StrongBox IT | [Read More](https://medium.com/p/131444e03388) |
+| Wed, 15 Oct 2025 13:01:16 GMT | New Models in Gaming Panel Session at TOKEN2049 Singapore 2025 | Victoran | [Read More](https://medium.com/p/b5c8ead94fdb) |
+| Wed, 15 Oct 2025 13:01:03 GMT | ProtoVault Breach Forensics Challenge Offsec CTF Week 1 | Shaheer Yasir | [Read More](https://medium.com/p/3baca49f556d) |
+| Wed, 15 Oct 2025 12:58:25 GMT | What Now? | Danny | [Read More](https://medium.com/p/c00e2852450f) |
+| Wed, 15 Oct 2025 12:51:23 GMT | EU General Data Protection Regulation (GDPR): A Complete Compliance Guide | QualysecEurope | [Read More](https://medium.com/p/697e0ec8b700) |
+| Wed, 15 Oct 2025 12:49:55 GMT | The Free Wi-Fi That Almost Cost Me Everything: | Ayobami Oshodi | [Read More](https://medium.com/p/ebb1cba27a36) |
+| Wed, 15 Oct 2025 12:43:26 GMT | From IT Support to Cybersecurity Powerhouse: How MSPs Can Win with Security-First Services | HashRoot DM | [Read More](https://medium.com/p/5bc63012b363) |
+| Wed, 15 Oct 2025 12:40:26 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/2127117fb102) |
+| Wed, 15 Oct 2025 12:40:12 GMT | Refresh Token Revoke Chain: Güvenli Token Döngüsünün Temelleri | Furkan Baybostan | [Read More](https://medium.com/p/af21db889eec) |
 | Wed, 15 Oct 2025 12:32:23 GMT | Cyber Safety Unleashed: Protecting Your Digital World from Hidden Threats | Souhard Rattan | [Read More](https://medium.com/p/6ec58ce6b281) |
 | Wed, 15 Oct 2025 12:26:21 GMT | Flutter Loglarında Gizli Bilgileri Koruma | Meryem | [Read More](https://medium.com/p/1fd84335f895) |
 | Wed, 15 Oct 2025 12:24:35 GMT | Master Cybersecurity Course | Molletibalu | [Read More](https://medium.com/p/5c90b76df425) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 08:39:40 GMT | Top 10 Web Development Companies for 2025 | Aanal Panchal | [Read More](https://medium.com/p/b4d07f34d1c2) |
 | Wed, 15 Oct 2025 08:38:46 GMT | Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments | 0Xhossam | [Read More](https://medium.com/p/8ca9ce16fe8d) |
 | Wed, 15 Oct 2025 08:38:43 GMT | SSRF (Server Side Request Forgery) | Md. Raihan | [Read More](https://medium.com/p/b46e94191a93) |
-| Wed, 15 Oct 2025 08:37:40 GMT | The Art of Asking: How Curiosity Becomes the New Intelligence | Fateyaly | [Read More](https://medium.com/p/28a58a0d2996) |
-| Wed, 15 Oct 2025 08:34:12 GMT | Smart Hybrid Light CCTV Camera Installation Service in Mirpur 10 Bangladesh | optimationbd | [Read More](https://medium.com/p/59fe8b1eb73a) |
-| Wed, 15 Oct 2025 08:33:50 GMT | Your Cursor Setup Is Probably a Security Danger (And You Don’t Even Know It) | Berker Ceylan | [Read More](https://medium.com/p/50e64db6b9f3) |
-| Wed, 15 Oct 2025 08:32:08 GMT | THM Content Discovery Room | Jerry Wang | [Read More](https://medium.com/p/3582ed95c2c1) |
-| Wed, 15 Oct 2025 08:31:36 GMT | PAN-OS 12.1 ORION: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/825f156ab404) |
-| Wed, 15 Oct 2025 08:31:32 GMT | Google Knows More About You Than You Think | Your's Nightmare | [Read More](https://medium.com/p/abe9daa4b669) |
-| Wed, 15 Oct 2025 08:30:23 GMT | How Hackers Find Secrets Hidden In Public Websites | Yaniv | [Read More](https://medium.com/p/39a82086a874) |
-| Wed, 15 Oct 2025 08:29:50 GMT | Cybersecurity (Part6): Cybersecurity Tools & Frameworks | mohandika | [Read More](https://medium.com/p/0fa14a308006) |
-| Wed, 15 Oct 2025 08:27:20 GMT | The Hidden Evilness in Our Community | Xisum | [Read More](https://medium.com/p/7c9549b4355a) |
-| Wed, 15 Oct 2025 08:17:45 GMT | FastAPI File Uploads — Clean, Fast, and Foolproof | Thinking Loop | [Read More](https://medium.com/p/4ecf0f00404f) |
-| Wed, 15 Oct 2025 08:17:19 GMT | Can Cybersecurity Hack Your Phone? | Deepak Sharma | [Read More](https://medium.com/p/e1a4b626ac22) |
-| Wed, 15 Oct 2025 08:07:12 GMT | Modern Security Practices — Part 1: Securing Software Supply Chains and Detecting Code… | DigiThax | [Read More](https://medium.com/p/9b94f2ac7b7d) |
-| Wed, 15 Oct 2025 08:01:53 GMT | Your First CTF Challenge: Why Most Beginners Fail Before They Even Start (And How You Won’t) | MayhemCode | [Read More](https://medium.com/p/257497e64c77) |
-| Wed, 15 Oct 2025 08:01:53 GMT | [Part 9] Deepfakes, Voice Clones, and Phishing: AI’s Role in Scams | Cyberkech | [Read More](https://medium.com/p/ca837b8f5f7a) |
-| Wed, 15 Oct 2025 07:58:25 GMT | Everything You Should Know About Rules — Wazuh | Riad Moudjahed | [Read More](https://medium.com/p/76eddcf3c7d4) |
-| Wed, 15 Oct 2025 07:53:51 GMT | CRTA(CERTIFIED RED TEAM ANALYST) | anonymous.gharti | [Read More](https://medium.com/p/e2243cba752f) |
-| Wed, 15 Oct 2025 07:52:16 GMT | TryHackMe #121 - Secret Recipe | SiberYuk | [Read More](https://medium.com/p/78d569cb3e58) |
