@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 14:09:16 GMT | Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Critical Cybersecurity Mistakes | Very Lazy Tech | [Read More](https://medium.com/p/fbd5cb09df6a) |
+| Wed, 15 Oct 2025 14:09:10 GMT | Why Hackers Love Docker? | Shahzaib | [Read More](https://medium.com/p/a5d5e0bc0be1) |
+| Wed, 15 Oct 2025 14:07:01 GMT | Protect Data Right From the Frontend | Skapi | [Read More](https://medium.com/p/d9ca822f742b) |
+| Wed, 15 Oct 2025 14:06:08 GMT | The Digital Vault for Web3 — Proactive Protection for a Decentralised World | Abatis ABTU | [Read More](https://medium.com/p/e27f69a2a9ca) |
+| Wed, 15 Oct 2025 14:05:49 GMT | The Cache Stampede That Brought Our Java App to Its Knees (And How We Fixed It) | Jitin Kayyala | [Read More](https://medium.com/p/7db7b652d374) |
+| Wed, 15 Oct 2025 14:05:11 GMT | How to Efficiently Manage Security Alerts with SOAR Solutions? | NetWitness | [Read More](https://medium.com/p/954f5e3a496c) |
+| Wed, 15 Oct 2025 14:01:13 GMT | Cyber Briefing: 2025.10.15 | CyberMaterial | [Read More](https://medium.com/p/392546b41967) |
+| Wed, 15 Oct 2025 14:01:07 GMT | The Daily Threat Landscape Demands Real-Time Backup & Disaster Recovery in Ontario | Zeta Sky | [Read More](https://medium.com/p/e36dde0be3b1) |
+| Wed, 15 Oct 2025 13:57:33 GMT | Growing Up Told to “Man Up”: How I Learned That Vulnerability Isn’t Weakness | vydhi | [Read More](https://medium.com/p/ec44101e1ac5) |
+| Wed, 15 Oct 2025 13:54:37 GMT | The Cost of Silence: Why Most Incidents Never Reach Your Inbox | Tec-Tel Communications | [Read More](https://medium.com/p/ca34a6135f88) |
+| Wed, 15 Oct 2025 13:48:34 GMT | How to Use ChatGPT to Catch Scammers Red-Handed (Before They Trick You) | John Edwin | [Read More](https://medium.com/p/cf591bb69f17) |
+| Wed, 15 Oct 2025 13:42:13 GMT | TryHackMe - Physical Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/1f4028f8ef90) |
+| Wed, 15 Oct 2025 13:39:52 GMT | 101 Ways to Trending Effects of Cybersecurity: Tools and Frameworks for a Secure Future in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/5042fe356b08) |
+| Wed, 15 Oct 2025 13:30:36 GMT | The Things We Hide to Stay Alive | puppiesmemory | [Read More](https://medium.com/p/91686ef2ecda) |
 | Wed, 15 Oct 2025 13:25:28 GMT | Getting RCE — Challenge #1025 by Intigriti | Hamza Avvan | [Read More](https://medium.com/p/b3d0033a286d) |
 | Wed, 15 Oct 2025 13:19:01 GMT | Real-Time SSH Login Alerts to Slack — Simple, Secure, and Effective | Prince Vagadiya | [Read More](https://medium.com/p/5518cb368d2d) |
 | Wed, 15 Oct 2025 13:15:15 GMT | Fragile Is Not the Opposite of Strong | Nawab Khan | [Read More](https://medium.com/p/dd93d4a22b95) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 09:12:41 GMT | Cyber sicurezza aziendale: cosa cambia con la NIS2 e come muoversi con consapevolezza. | Filomena Ferraioli | [Read More](https://medium.com/p/b39a1662a27d) |
 | Wed, 15 Oct 2025 09:06:12 GMT | Vulnhub Funbox2 Walkthrough | cyber pancake | [Read More](https://medium.com/p/f8894c7c9c0c) |
 | Wed, 15 Oct 2025 09:02:28 GMT | How Co-Managed IT Helps UK SMEs Scale Without Replacing Their IT Teams? | Umar Waseem | [Read More](https://medium.com/p/585537158a4a) |
-| Wed, 15 Oct 2025 09:02:22 GMT | SO 27001:2022 vs 2013 — The Final Countdown to Transition | Hicomply | [Read More](https://medium.com/p/26612c657381) |
-| Wed, 15 Oct 2025 09:02:21 GMT | Splunk Connect for Syslog SC4S: Why Syslog Ingestion Needs a Rethink | Apto Solutions | [Read More](https://medium.com/p/d14f0a336313) |
-| Wed, 15 Oct 2025 08:56:34 GMT | This Free Android App Made My Phone More Powerful Than My Laptop ⚡ (No Root) | Saad Maqsood | [Read More](https://medium.com/p/1fff81916e8a) |
-| Wed, 15 Oct 2025 08:55:41 GMT | Hands-Off Reconnaissance: Mapping Targets in Minutes | Njeru Mtwaiti | [Read More](https://medium.com/p/7821f385e45b) |
-| Wed, 15 Oct 2025 08:54:08 GMT | 10 Cybersecurity Red Flags You’re Ignoring Right Now | Fateyaly | [Read More](https://medium.com/p/7e12661ffec0) |
-| Wed, 15 Oct 2025 08:46:19 GMT | Unmasking Tabnabbing: A Hidden Phishing Threat In Your Browser Tabs | Redfox Security | [Read More](https://medium.com/p/ea0fdde32957) |
-| Wed, 15 Oct 2025 08:45:45 GMT | PostgreSQL SQL Injections: why, what and how(Part 1) | Shailesh Kumar Mishra | [Read More](https://medium.com/p/e98ae91e1ae3) |
-| Wed, 15 Oct 2025 08:44:01 GMT | Inside the Time-to-exploit -1 days era, How Self-Updating malware exploits vulnerabilities before… | Mario Candela | [Read More](https://medium.com/p/7fc331fac02c) |
-| Wed, 15 Oct 2025 08:43:24 GMT | The Problem With WhatsApp’s “Privacy Promise” | Your's Nightmare | [Read More](https://medium.com/p/6c7fbdcce841) |
-| Wed, 15 Oct 2025 08:42:24 GMT | Beyond the Firewall: Why Your Business Needs a Cybersecurity Wake-Up Call | Digital Defense | [Read More](https://medium.com/p/cf0dcc270abe) |
-| Wed, 15 Oct 2025 08:40:03 GMT | Security Challenges in Old Apartments — How to Keep Residents Safe | Acfalarm | [Read More](https://medium.com/p/4f04c6cbed80) |
-| Wed, 15 Oct 2025 08:39:40 GMT | Top 10 Web Development Companies for 2025 | Aanal Panchal | [Read More](https://medium.com/p/b4d07f34d1c2) |
-| Wed, 15 Oct 2025 08:38:46 GMT | Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments | 0Xhossam | [Read More](https://medium.com/p/8ca9ce16fe8d) |
-| Wed, 15 Oct 2025 08:38:43 GMT | SSRF (Server Side Request Forgery) | Md. Raihan | [Read More](https://medium.com/p/b46e94191a93) |
