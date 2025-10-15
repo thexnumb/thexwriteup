@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 16:34:47 GMT | Rubber Ducky clone with Pro Micro micro controller | Avni Emini | [Read More](https://medium.com/p/f6979b3fbe3b) |
+| Wed, 15 Oct 2025 16:32:32 GMT | CloudGoat Beanstalk Scenario | Rohail | [Read More](https://medium.com/p/df7a2da7ec61) |
+| Wed, 15 Oct 2025 16:31:12 GMT | The Silent Breach: How Law Firms Are Unknowingly Exposing Client Data in the Cloud | Opsidian | [Read More](https://medium.com/p/57ec47719c45) |
+| Wed, 15 Oct 2025 16:30:24 GMT | PhishStrike Lab Writeup | Jaws | [Read More](https://medium.com/p/fa48a4e46ce7) |
+| Wed, 15 Oct 2025 16:26:31 GMT | The Importance of Job Agencies for Entry-Level IT Candidates | 2iResourcing | [Read More](https://medium.com/p/40f89abd4b12) |
+| Wed, 15 Oct 2025 16:23:42 GMT | Fake Onion Links: How They Trick Researchers | Tor BBB | [Read More](https://medium.com/p/d9964910f52b) |
 | Wed, 15 Oct 2025 16:20:02 GMT | “The Day the World Froze: Inside the WannaCry Ransomware Attack” | Pooja Borade | [Read More](https://medium.com/p/d033f2c08462) |
+| Wed, 15 Oct 2025 16:20:01 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 1:Attacking SAM, SYSTEM, and SECURITY | Babatunde Ojo | [Read More](https://medium.com/p/6d89764a4b92) |
 | Wed, 15 Oct 2025 16:18:49 GMT | The Overlooked Cybersecurity Threat | Kelly Wofford | [Read More](https://medium.com/p/44b1e8eb3989) |
 | Wed, 15 Oct 2025 16:13:20 GMT | Your npm Tokens Will Stop Working: GitHub’s New Security Rules and the Migration Playbook | Juan Andrés Leiva | [Read More](https://medium.com/p/70385bee91ce) |
 | Wed, 15 Oct 2025 16:10:46 GMT | Being Too Strong Also Hurts | Bruno Pimentel | [Read More](https://medium.com/p/ddc6a07f7de8) |
@@ -106,10 +113,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 11:33:53 GMT | Web Hosting in 2025 Smarter Paths to Speed, Security, and Savings | Andy | [Read More](https://medium.com/p/834b21389d2c) |
 | Wed, 15 Oct 2025 11:29:20 GMT | Windows Under Siege: Two New Zero-Day Flaws Threaten Every PC Ever Created — CVE-2025–24990 “The… | Germano Costi | [Read More](https://medium.com/p/6f25ccab9d4a) |
 | Wed, 15 Oct 2025 11:28:33 GMT | Privacy is Dead | Mr. Robot.txt | [Read More](https://medium.com/p/946ebe2af953) |
-| Wed, 15 Oct 2025 11:27:02 GMT | "The Girl I Loved Most Left Without Warning — And I Don’t Think I’ll Ever Love Like That Again" | Trendulon | [Read More](https://medium.com/p/468dcb0a2855) |
-| Wed, 15 Oct 2025 11:22:42 GMT | 24. Common Reasons Bugs Get Rejected (And How to Avoid That) | Abhijeet kumawat | [Read More](https://medium.com/p/6dda954d96a0) |
-| Wed, 15 Oct 2025 11:22:21 GMT | My Code Was Good, But Not Great. Then I Discovered These 10 JavaScript “Cheats.” | Tech With Curly Girl | [Read More](https://medium.com/p/8cfe4a8b39af) |
-| Wed, 15 Oct 2025 11:20:10 GMT | What I Wish I Knew Before Starting My First Bug Bounty Program | Andrei Ivan | [Read More](https://medium.com/p/986a4e25c3b6) |
-| Wed, 15 Oct 2025 11:12:03 GMT | Top FOUR Malwares in 2025: Full Analysis with ANY.RUN | Motasem Hamdan | [Read More](https://medium.com/p/48217d94b316) |
-| Wed, 15 Oct 2025 11:11:11 GMT | Best AI Tools for Building CRUD Apps in 2025 | Savia Salaria | [Read More](https://medium.com/p/4f6a0821f2ae) |
-| Wed, 15 Oct 2025 11:09:47 GMT | Best Reliable Managed Data Center Services Provider in India | Mathewneelan | [Read More](https://medium.com/p/3ee231a65c1b) |
