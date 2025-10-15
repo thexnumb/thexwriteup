@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 15, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/b80692e36046) |
+| Wed, 15 Oct 2025 15:12:56 GMT | Siber Güvenlik 101 — OWASP Top 10 Zafiyetleri | Sude Çoban | [Read More](https://medium.com/p/7815f0a388d9) |
+| Wed, 15 Oct 2025 15:07:26 GMT | “The $10,800 Typo: How a Single Dot Broke Twitter’s Authentication” | Aman Sharma | [Read More](https://medium.com/p/f485e6dc0f04) |
+| Wed, 15 Oct 2025 15:01:09 GMT | Massive Data Breach Exposes over a Billion Personal Records by the Salesforce Hack — Why Reusable… | Raj Ananthanpillai | [Read More](https://medium.com/p/913bf3e4feee) |
+| Wed, 15 Oct 2025 15:01:09 GMT | Connect with SSH without opening a single port on your AWS EC2 server? | George Tzinos | [Read More](https://medium.com/p/573e9944bb34) |
+| Wed, 15 Oct 2025 14:51:38 GMT | AI and Cybersecurity: Can it replace the human element in Security Architecture Reviews? | FactSet | [Read More](https://medium.com/p/6019bf73abbf) |
+| Wed, 15 Oct 2025 14:50:37 GMT | The Future is Now: Exploring the Next Wave of Emerging Technologies in 2025 | Zunair | [Read More](https://medium.com/p/4e242ccb4c3f) |
+| Wed, 15 Oct 2025 14:50:15 GMT | DevSecOps and SRE: A United Front | SRE Mastery | [Read More](https://medium.com/p/9a26263b5002) |
 | Wed, 15 Oct 2025 14:45:05 GMT | What World-Class Ethical Hacking Looks Like | ED-360 AFRICA | [Read More](https://medium.com/p/b89d007a2be2) |
+| Wed, 15 Oct 2025 14:41:20 GMT | Siber Güvenlik 101 — İnternetin ve Web Uygulamalarının İşleyişini Anlamak | Sude Çoban | [Read More](https://medium.com/p/fa34279dc08b) |
 | Wed, 15 Oct 2025 14:38:41 GMT | When “--no-sandbox” Locked Me Out of Ubuntu | Jishnu J P | [Read More](https://medium.com/p/c60f7d27298f) |
 | Wed, 15 Oct 2025 14:37:38 GMT | The $440,000 Architecture Mistake: Why Deloitte’s AI Failed (And How to Prevent It) | Nwosu Rosemary | [Read More](https://medium.com/p/aca2f5ef8823) |
+| Wed, 15 Oct 2025 14:36:55 GMT | They used to say a spy’s greatest weapon was a good pair of shoes. | ComsignTrust LTD | [Read More](https://medium.com/p/1c07ef68c502) |
 | Wed, 15 Oct 2025 14:33:39 GMT | Google DeepMind’s New AI Agent Finds and Fixes Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/5573777d6619) |
 | Wed, 15 Oct 2025 14:33:36 GMT | Cybersecurity Awareness Month 2025: Deepfake Phishing, Human Risk, and the New Front Line
 Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
@@ -103,13 +113,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 10:09:52 GMT | Bashed — Hackthebox Writeup | Zerzex | [Read More](https://medium.com/p/cdb596f1f741) |
 | Wed, 15 Oct 2025 10:07:45 GMT | Digital Shield: Ushering in a New Era for Your Digital Assets with Military-Grade Security | Digital Shield | [Read More](https://medium.com/p/6fc4a5db250a) |
 | Wed, 15 Oct 2025 10:07:22 GMT | The Rise of Cybercrime-as-a-Service: How Hacking Became a Subscription Business | Cyber Defender | [Read More](https://medium.com/p/5a26ea745d09) |
-| Wed, 15 Oct 2025 10:05:47 GMT | Basic Server-side template injection (SSTI) Pentesting | Md. Raihan | [Read More](https://medium.com/p/4b7286f26d02) |
-| Wed, 15 Oct 2025 10:04:39 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/2ccfce83ee3c) |
-| Wed, 15 Oct 2025 10:03:14 GMT | Is Your AI Thinking? | Berend Watchus | [Read More](https://medium.com/p/7b4e30b0ccdb) |
-| Wed, 15 Oct 2025 10:00:34 GMT | The CloudifyOps Agentic AI Transformation in MSO | CloudifyOps | [Read More](https://medium.com/p/541efcbf5b07) |
-| Wed, 15 Oct 2025 09:59:57 GMT | DockerLabs Writeup — PingCTF (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7ccd512722d3) |
-| Wed, 15 Oct 2025 09:55:09 GMT | Re-Writing the Playbook — A detection-driven approach to Incident Response | Rcegan | [Read More](https://medium.com/p/5269e2eb33ca) |
-| Wed, 15 Oct 2025 09:54:27 GMT | 6 Hidden Data Blindspots Killing Your Business Intelligence Solutions (And What To Do About Them) | Trust Consulting Services | [Read More](https://medium.com/p/0cdb5be81f19) |
-| Wed, 15 Oct 2025 09:52:38 GMT | Reshaping the Self-Custody Boundary: How Digital Shield Defines the Future of Web3 Security with… | Digital Shield Offcial | [Read More](https://medium.com/p/5bd2c8f16db5) |
-| Wed, 15 Oct 2025 09:52:12 GMT | Quantum Computing: The Next Frontier in IT Innovation | Sourav Ghatak | [Read More](https://medium.com/p/3ae8edd8ef27) |
-| Wed, 15 Oct 2025 09:50:59 GMT | Smart Living: How PGs Are Adopting Tech for Security and Comfort | Letwizard Technologies | [Read More](https://medium.com/p/6a21d0ba94ed) |
