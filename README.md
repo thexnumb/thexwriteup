@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 17:10:56 GMT | How I Used RLAIF to Turn a Physics Model into a Scientific Reasoner locally with Ollama | Suraj Kumar | [Read More](https://medium.com/p/b491eb17c06c) |
+| Wed, 15 Oct 2025 17:07:05 GMT | My Journey into Cybersecurity: Beyond Firewalls and Fear | Leonid Shevchuk | [Read More](https://medium.com/p/bd781c444621) |
+| Wed, 15 Oct 2025 16:57:30 GMT | How I Found a $250 XSS Bug After Losing Hope in Bug Bounty | Danish Ahmed | [Read More](https://medium.com/p/8ab557df4d1d) |
+| Wed, 15 Oct 2025 16:57:03 GMT | Today, I want to dive into two critical topics in the world of network security: network sniffing… | Esra Kayhan | [Read More](https://medium.com/p/02038cc3371a) |
+| Wed, 15 Oct 2025 16:55:52 GMT | Pen_Test | Shohel Rana | [Read More](https://medium.com/p/b4bfba296019) |
+| Wed, 15 Oct 2025 16:55:28 GMT | iPhone 5S User Experience: The Most Underrated Apple Device | Ahamed Afran | [Read More](https://medium.com/p/31522d5e8d68) |
+| Wed, 15 Oct 2025 16:55:04 GMT | Should You Keep or Sell Your Old iPhone 5S? Expert Tips | Diya Afrin | [Read More](https://medium.com/p/d8c00574370f) |
+| Wed, 15 Oct 2025 16:50:14 GMT | Following the Shadow Trace: A Malware and EDR Investigation Walkthrough ️‍♀️ | Furkanctiner | [Read More](https://medium.com/p/9a581d4bb411) |
+| Wed, 15 Oct 2025 16:44:35 GMT | From Touch ID to Legacy: The iPhone 5S Story Explained | Lihua Chen | [Read More](https://medium.com/p/83affd227d65) |
+| Wed, 15 Oct 2025 16:35:26 GMT | Vulnerable Windows 7 (Tester: Penuel)
+‎
+‎Target: Windows 7
+‎Engagement type: Network penetration… | PENUEL SHERIFF | [Read More](https://medium.com/p/25fcbe107c6f) |
 | Wed, 15 Oct 2025 16:34:47 GMT | Rubber Ducky clone with Pro Micro micro controller | Avni Emini | [Read More](https://medium.com/p/f6979b3fbe3b) |
 | Wed, 15 Oct 2025 16:32:32 GMT | CloudGoat Beanstalk Scenario | Rohail | [Read More](https://medium.com/p/df7a2da7ec61) |
 | Wed, 15 Oct 2025 16:31:12 GMT | The Silent Breach: How Law Firms Are Unknowingly Exposing Client Data in the Cloud | Opsidian | [Read More](https://medium.com/p/57ec47719c45) |
@@ -103,13 +116,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 12:05:32 GMT | Critical Infrastructure Cybersecurity: A Race Against Evolving Threats | Qualysec | [Read More](https://medium.com/p/25a267778e54) |
 | Wed, 15 Oct 2025 12:04:21 GMT | The Power Of Admitting Vulnerabilities | The Secret Author | [Read More](https://medium.com/p/23963a02bf63) |
 | Wed, 15 Oct 2025 12:04:11 GMT | Everyone Wants to Be Understood. Few Are Worth Staying For. | Tochi Emmanuel | [Read More](https://medium.com/p/500082286027) |
-| Wed, 15 Oct 2025 12:03:53 GMT | Cybersecurity in Education | Cyber Security Research | [Read More](https://medium.com/p/774048b2399a) |
-| Wed, 15 Oct 2025 12:02:10 GMT | Build a Python-Based SSH Restricted Shell (with Just 40 Lines of Code) | Snegal Varsan | [Read More](https://medium.com/p/e0f932c752c8) |
-| Wed, 15 Oct 2025 11:58:05 GMT | How a Simple WordPress Endpoint Led to a Blind Server-Side Request Forgery | Ark | [Read More](https://medium.com/p/9588b0bc9eb4) |
-| Wed, 15 Oct 2025 11:56:49 GMT | Cybersecurity in Finance | Cyber Security Research | [Read More](https://medium.com/p/d0131ede18e9) |
-| Wed, 15 Oct 2025 11:51:22 GMT | Milestone: DAOBIT HOLDINGS LIMITED has officially completed U.S. SEC registration (RIA) ✅ | DaoBit Official | [Read More](https://medium.com/p/6b0452125f36) |
-| Wed, 15 Oct 2025 11:49:24 GMT | The Art of Breaking OAuth: Real-World Exploit and Misuses | Aenosh Rajora | [Read More](https://medium.com/p/c495f5dc94e2) |
-| Wed, 15 Oct 2025 11:38:43 GMT | How Can Companies Train Employees To Recognize Phishing Attacks? | Nivedita Baidya | [Read More](https://medium.com/p/2dae86b469ea) |
-| Wed, 15 Oct 2025 11:33:53 GMT | Web Hosting in 2025 Smarter Paths to Speed, Security, and Savings | Andy | [Read More](https://medium.com/p/834b21389d2c) |
-| Wed, 15 Oct 2025 11:29:20 GMT | Windows Under Siege: Two New Zero-Day Flaws Threaten Every PC Ever Created — CVE-2025–24990 “The… | Germano Costi | [Read More](https://medium.com/p/6f25ccab9d4a) |
-| Wed, 15 Oct 2025 11:28:33 GMT | Privacy is Dead | Mr. Robot.txt | [Read More](https://medium.com/p/946ebe2af953) |
