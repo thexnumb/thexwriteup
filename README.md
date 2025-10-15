@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 17:34:55 GMT | 16 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/78d51754a600) |
+| Wed, 15 Oct 2025 17:21:48 GMT | The Importance of Cybersecurity in Dallas Web Development | Creasions Digital | [Read More](https://medium.com/p/86c323003b8c) |
 | Wed, 15 Oct 2025 17:10:56 GMT | How I Used RLAIF to Turn a Physics Model into a Scientific Reasoner locally with Ollama | Suraj Kumar | [Read More](https://medium.com/p/b491eb17c06c) |
 | Wed, 15 Oct 2025 17:07:05 GMT | My Journey into Cybersecurity: Beyond Firewalls and Fear | Leonid Shevchuk | [Read More](https://medium.com/p/bd781c444621) |
+| Wed, 15 Oct 2025 17:05:47 GMT | Security and IP Protection in 3D Modeling Outsourcing: Essential Safeguards | UpTalent | [Read More](https://medium.com/p/3cfa8e9eacd3) |
 | Wed, 15 Oct 2025 16:57:30 GMT | How I Found a $250 XSS Bug After Losing Hope in Bug Bounty | Danish Ahmed | [Read More](https://medium.com/p/8ab557df4d1d) |
 | Wed, 15 Oct 2025 16:57:03 GMT | Today, I want to dive into two critical topics in the world of network security: network sniffing… | Esra Kayhan | [Read More](https://medium.com/p/02038cc3371a) |
 | Wed, 15 Oct 2025 16:55:52 GMT | Pen_Test | Shohel Rana | [Read More](https://medium.com/p/b4bfba296019) |
@@ -113,6 +116,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 12:07:17 GMT | Organizations are not trying to understand the incoming threats; they know when it’s too late. | Imran Niaz | [Read More](https://medium.com/p/4e225a6a5188) |
 | Wed, 15 Oct 2025 12:06:46 GMT | The Rise of AI in Cybersecurity: Friend or Foe? | Jay C Roberts | [Read More](https://medium.com/p/fd1df86cc606) |
 | Wed, 15 Oct 2025 12:05:49 GMT | OWASP Top Ten #4 - Insecure Design Zafiyeti | Berat Çam | [Read More](https://medium.com/p/742052da9256) |
-| Wed, 15 Oct 2025 12:05:32 GMT | Critical Infrastructure Cybersecurity: A Race Against Evolving Threats | Qualysec | [Read More](https://medium.com/p/25a267778e54) |
-| Wed, 15 Oct 2025 12:04:21 GMT | The Power Of Admitting Vulnerabilities | The Secret Author | [Read More](https://medium.com/p/23963a02bf63) |
-| Wed, 15 Oct 2025 12:04:11 GMT | Everyone Wants to Be Understood. Few Are Worth Staying For. | Tochi Emmanuel | [Read More](https://medium.com/p/500082286027) |
