@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 01:31:36 GMT | Is AI Really Our Competition? | Jeffrey McNaughton | [Read More](https://medium.com/p/b7af593ca2f0) |
+| Wed, 15 Oct 2025 01:25:42 GMT | The Most Productive Hour You’ll Spend This Year: A Guide to Calm Cybersecurity | Tony S | [Read More](https://medium.com/p/b41e40bf363c) |
+| Wed, 15 Oct 2025 01:12:10 GMT | CLOUDGOAT SNS_SECRET | Rohail | [Read More](https://medium.com/p/014aba9f6390) |
+| Wed, 15 Oct 2025 00:59:51 GMT | Cybersecurity Threats in Loan Applications | Sharon Ureh Odu | [Read More](https://medium.com/p/9b2fca869b94) |
+| Wed, 15 Oct 2025 00:57:19 GMT | Title: Coding Without Cybersecurity? You’re Building a House of Cards. | Nimra Ismail | [Read More](https://medium.com/p/b0997bcbd098) |
+| Wed, 15 Oct 2025 00:48:35 GMT | How QR Codes Became Game-Changers in the Trump-Kamala Election Battle | Nathaniel Langley | [Read More](https://medium.com/p/0c11642ba6d9) |
+| Wed, 15 Oct 2025 00:17:20 GMT | Drosera: The Hand That Makes Ethereum Think | H | [Read More](https://medium.com/p/1288da5839af) |
+| Wed, 15 Oct 2025 00:12:46 GMT | Web App Pentesting Basics | Paul | [Read More](https://medium.com/p/c8dde4b199c9) |
+| Wed, 15 Oct 2025 00:07:50 GMT | From SSRF to RCE: intigriti/Challenge 1025 | alejandro | [Read More](https://medium.com/p/5a12d866db11) |
+| Wed, 15 Oct 2025 00:03:34 GMT | 5 Surprising Truths Your Wi-Fi Is Broadcasting to Everyone | Youssef Mohammed | [Read More](https://medium.com/p/16c12a04b8f8) |
+| Wed, 15 Oct 2025 00:02:16 GMT | Mastering Naabu: A fast port scanner for bug hunting | JPablo13 | [Read More](https://medium.com/p/9a0020abfdf1) |
+| Wed, 15 Oct 2025 00:02:15 GMT | How to Rank #1 SO Fast People Think You Hacked Google | Mike Schlottig | [Read More](https://medium.com/p/101ed2eed741) |
+| Tue, 14 Oct 2025 23:57:18 GMT | Cybersecurity vs. AI: Navigating the Digital Battlefield | Mainekhacker | [Read More](https://medium.com/p/2e5d5d110462) |
+| Tue, 14 Oct 2025 23:57:06 GMT | $6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer | Monika sharma | [Read More](https://medium.com/p/d1d261bd35af) |
+| Tue, 14 Oct 2025 23:57:02 GMT | Have You Been Hacked? Advanced Detection Methods That Actually Work | Shahzaib | [Read More](https://medium.com/p/f87355b2b1df) |
+| Tue, 14 Oct 2025 23:56:02 GMT | Cybersecurity Risks Darkweb: What Every Researcher Should Know | Tor BBB | [Read More](https://medium.com/p/a0ac25bd6b68) |
+| Tue, 14 Oct 2025 23:53:31 GMT | I Rolled Out Okta for 125+ Users Here Are 5 Lessons I Learned | Luispuello | [Read More](https://medium.com/p/547926bb7628) |
 | Tue, 14 Oct 2025 23:31:34 GMT | How I Hacked Proton VPN and Got Paid | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/501a9eee39c9) |
 | Tue, 14 Oct 2025 23:23:28 GMT | How to build a bank p6: The Core: initial setup | Logan Elkins | [Read More](https://medium.com/p/539116ca552c) |
 | Tue, 14 Oct 2025 22:57:13 GMT | Is Blazer Browser Malware? The Truth About Its Safety and Security | Christian Anderson | [Read More](https://medium.com/p/ff3b41997f71) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 17:26:38 GMT | Account Takeover And Staying Logged In Forever After Password Reset | Mahmoud Farag | [Read More](https://medium.com/p/b0ed4b65ac22) |
 | Tue, 14 Oct 2025 17:22:32 GMT | Veritas NetBackup Security Updates and Patches | Nurali ATMACA | [Read More](https://medium.com/p/5679055bed00) |
 | Tue, 14 Oct 2025 17:18:53 GMT | Co to vlastně znamená? | Cyber Solution | [Read More](https://medium.com/p/81ea798ece6f) |
-| Tue, 14 Oct 2025 17:16:43 GMT | TryHackMe Walkthrough — Blueprint️ | Cypher.One | [Read More](https://medium.com/p/7a06f605d0b3) |
-| Tue, 14 Oct 2025 17:16:19 GMT | Hackviser: Rivalry Scenario Challenge — Complete Walkthrough | Attiqorakzai | [Read More](https://medium.com/p/8165448ce2e6) |
-| Tue, 14 Oct 2025 17:15:45 GMT | Python and Cybersecurity: The Rise of Automated Defense in the Age of AI | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/e65659176042) |
-| Tue, 14 Oct 2025 17:13:14 GMT | Learning FHE the Fun Way: Building a Zama Quiz Website
- Introduction | Kjai | [Read More](https://medium.com/p/aba832e384c7) |
-| Tue, 14 Oct 2025 17:03:27 GMT | The AI Misinformation Crisis: Deepfakes, Detection Tools, and the Fight for Truth | Esther Abel | [Read More](https://medium.com/p/bb4f7c28262e) |
-| Tue, 14 Oct 2025 17:02:37 GMT | DAY 4: Understanding Different Types of Accounts and Account Groups in Computing | Krish Shrestha | [Read More](https://medium.com/p/0c6ffeaaa973) |
-| Tue, 14 Oct 2025 17:02:05 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/c33f4a6e6eb0) |
-| Tue, 14 Oct 2025 17:01:57 GMT | Ehxb - File Upload Vulnerabilities II | Ehxb | [Read More](https://medium.com/p/f1ca1a3bf159) |
-| Tue, 14 Oct 2025 16:56:30 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/698bd6e4cc91) |
-| Tue, 14 Oct 2025 16:49:55 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/67efd2e3bdec) |
-| Tue, 14 Oct 2025 16:48:59 GMT | Client-Side Path Traversal: Exploiting CSRF in Header-based auth scenarios | Kulkan Security | [Read More](https://medium.com/p/31c26a1baece) |
-| Tue, 14 Oct 2025 16:48:45 GMT | Your Password is "Password123" and Hackers Are Literally Laughing at You | Dayoisawumi | [Read More](https://medium.com/p/c35a0cdbd43f) |
-| Tue, 14 Oct 2025 16:48:23 GMT | Hire Top Security Guards Los Angeles for 24/7 Protection | Direct Guard Services | [Read More](https://medium.com/p/0241fc74dbe7) |
-| Tue, 14 Oct 2025 16:47:14 GMT | XSS and XXE explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/4ef6ba311a19) |
-| Tue, 14 Oct 2025 16:46:14 GMT | 15 ChatGPT Features That Actually Make Daily Life Easier | Sudarshan Gore | [Read More](https://medium.com/p/c150a2481705) |
-| Tue, 14 Oct 2025 16:43:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/32f08a800ea5) |
-| Tue, 14 Oct 2025 16:43:11 GMT | Artificial Intelligence Is the Future of Cybersecurity | Xcelplex | [Read More](https://medium.com/p/e2b62eadbcdd) |
