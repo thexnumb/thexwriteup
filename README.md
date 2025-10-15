@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 12:32:23 GMT | Cyber Safety Unleashed: Protecting Your Digital World from Hidden Threats | Souhard Rattan | [Read More](https://medium.com/p/6ec58ce6b281) |
+| Wed, 15 Oct 2025 12:26:21 GMT | Flutter Loglarında Gizli Bilgileri Koruma | Meryem | [Read More](https://medium.com/p/1fd84335f895) |
+| Wed, 15 Oct 2025 12:24:35 GMT | Master Cybersecurity Course | Molletibalu | [Read More](https://medium.com/p/5c90b76df425) |
+| Wed, 15 Oct 2025 12:23:33 GMT | Kryptos K4: A Reproducible Two-Step Decryption (With Code & Proof) | SquareCloudSequence | [Read More](https://medium.com/p/7e56694c5d49) |
+| Wed, 15 Oct 2025 12:23:27 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/1a076cf03ab0) |
+| Wed, 15 Oct 2025 12:18:07 GMT | My Next Chapter: Becoming a Cybersecurity Researcher & Bug Bounty Hunter | Ethivolt | [Read More](https://medium.com/p/027fe8796687) |
+| Wed, 15 Oct 2025 12:13:56 GMT | Drosera: Revolutionizing Web3 Security Through Decentralized Automation | Divineegbunu | [Read More](https://medium.com/p/e914cf4471dc) |
+| Wed, 15 Oct 2025 12:10:21 GMT | ICMP Tunneling: Build a Lab from scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/e48a1446d268) |
+| Wed, 15 Oct 2025 12:09:08 GMT | AI in Cybersecurity Careers: How Not to Be Replaced! | Ryan Cronin | [Read More](https://medium.com/p/d56cc97f4818) |
+| Wed, 15 Oct 2025 12:07:17 GMT | Organizations are not trying to understand the incoming threats; they know when it’s too late. | Imran Niaz | [Read More](https://medium.com/p/4e225a6a5188) |
+| Wed, 15 Oct 2025 12:06:46 GMT | The Rise of AI in Cybersecurity: Friend or Foe? | Jay C Roberts | [Read More](https://medium.com/p/fd1df86cc606) |
+| Wed, 15 Oct 2025 12:05:49 GMT | OWASP Top Ten #4 - Insecure Design Zafiyeti | Berat Çam | [Read More](https://medium.com/p/742052da9256) |
+| Wed, 15 Oct 2025 12:05:32 GMT | Critical Infrastructure Cybersecurity: A Race Against Evolving Threats | Qualysec | [Read More](https://medium.com/p/25a267778e54) |
+| Wed, 15 Oct 2025 12:04:21 GMT | The Power Of Admitting Vulnerabilities | The Secret Author | [Read More](https://medium.com/p/23963a02bf63) |
+| Wed, 15 Oct 2025 12:04:11 GMT | Everyone Wants to Be Understood. Few Are Worth Staying For. | Tochi Emmanuel | [Read More](https://medium.com/p/500082286027) |
+| Wed, 15 Oct 2025 12:03:53 GMT | Cybersecurity in Education | Cyber Security Research | [Read More](https://medium.com/p/774048b2399a) |
+| Wed, 15 Oct 2025 12:02:10 GMT | Build a Python-Based SSH Restricted Shell (with Just 40 Lines of Code) | Snegal Varsan | [Read More](https://medium.com/p/e0f932c752c8) |
+| Wed, 15 Oct 2025 11:58:05 GMT | How a Simple WordPress Endpoint Led to a Blind Server-Side Request Forgery | Ark | [Read More](https://medium.com/p/9588b0bc9eb4) |
+| Wed, 15 Oct 2025 11:56:49 GMT | Cybersecurity in Finance | Cyber Security Research | [Read More](https://medium.com/p/d0131ede18e9) |
+| Wed, 15 Oct 2025 11:51:22 GMT | Milestone: DAOBIT HOLDINGS LIMITED has officially completed U.S. SEC registration (RIA) ✅ | DaoBit Official | [Read More](https://medium.com/p/6b0452125f36) |
+| Wed, 15 Oct 2025 11:49:24 GMT | The Art of Breaking OAuth: Real-World Exploit and Misuses | Aenosh Rajora | [Read More](https://medium.com/p/c495f5dc94e2) |
+| Wed, 15 Oct 2025 11:38:43 GMT | How Can Companies Train Employees To Recognize Phishing Attacks? | Nivedita Baidya | [Read More](https://medium.com/p/2dae86b469ea) |
+| Wed, 15 Oct 2025 11:33:53 GMT | Web Hosting in 2025 Smarter Paths to Speed, Security, and Savings | Andy | [Read More](https://medium.com/p/834b21389d2c) |
 | Wed, 15 Oct 2025 11:29:20 GMT | Windows Under Siege: Two New Zero-Day Flaws Threaten Every PC Ever Created — CVE-2025–24990 “The… | Germano Costi | [Read More](https://medium.com/p/6f25ccab9d4a) |
 | Wed, 15 Oct 2025 11:28:33 GMT | Privacy is Dead | Mr. Robot.txt | [Read More](https://medium.com/p/946ebe2af953) |
 | Wed, 15 Oct 2025 11:27:02 GMT | "The Girl I Loved Most Left Without Warning — And I Don’t Think I’ll Ever Love Like That Again" | Trendulon | [Read More](https://medium.com/p/468dcb0a2855) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 07:58:25 GMT | Everything You Should Know About Rules — Wazuh | Riad Moudjahed | [Read More](https://medium.com/p/76eddcf3c7d4) |
 | Wed, 15 Oct 2025 07:53:51 GMT | CRTA(CERTIFIED RED TEAM ANALYST) | anonymous.gharti | [Read More](https://medium.com/p/e2243cba752f) |
 | Wed, 15 Oct 2025 07:52:16 GMT | TryHackMe #121 - Secret Recipe | SiberYuk | [Read More](https://medium.com/p/78d569cb3e58) |
-| Wed, 15 Oct 2025 07:46:48 GMT | TryHackMe #120 - Critical | SiberYuk | [Read More](https://medium.com/p/c331936a89c0) |
-| Wed, 15 Oct 2025 07:42:46 GMT | TryHackMe #119 - Disgruntled | SiberYuk | [Read More](https://medium.com/p/ad9500377d55) |
-| Wed, 15 Oct 2025 07:38:30 GMT | When Uploads Meet .htaccess: A Dangerous Apache Misconfiguration | Raviaakash | [Read More](https://medium.com/p/99eb155014d0) |
-| Wed, 15 Oct 2025 07:38:28 GMT | TryHackMe #118 - Unattended | SiberYuk | [Read More](https://medium.com/p/d2b8556984c4) |
-| Wed, 15 Oct 2025 07:38:07 GMT | I Don’t Do Half-Love | Preena_NR | [Read More](https://medium.com/p/edc3758ed7ab) |
-| Wed, 15 Oct 2025 07:35:42 GMT | 15 HTML Multimedia Audio Video | Rana Awais | [Read More](https://medium.com/p/60a985012a19) |
-| Wed, 15 Oct 2025 07:35:05 GMT | The Myth of the “Strong Christian”: Why Vulnerability Is the New Courage | Dan Foster | [Read More](https://medium.com/p/7589350feb0b) |
-| Wed, 15 Oct 2025 07:34:52 GMT | What Common Asset Management Mistakes Do Growing Companies Make — and How Can ServiceNow Prevent… | Alex s | [Read More](https://medium.com/p/1a9c40c90ebe) |
-| Wed, 15 Oct 2025 07:33:36 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/1567e3563145) |
-| Wed, 15 Oct 2025 07:30:28 GMT | The Future of AI: Massive Models or a Swarm of Small Intelligent Agents? | Bervice | [Read More](https://medium.com/p/87b573c13295) |
-| Wed, 15 Oct 2025 07:30:27 GMT | Reconstructing a Bad Rabbit Ransomware Attack — Part 2 | Zulfianarahmi | [Read More](https://medium.com/p/7c3f1933486e) |
-| Wed, 15 Oct 2025 07:30:13 GMT | 14 HTML Semantic Tags | Rana Awais | [Read More](https://medium.com/p/dd2f9fd50600) |
-| Wed, 15 Oct 2025 07:28:28 GMT | WebStrike[CyberDefenders] | Bello Aisha Bisola | [Read More](https://medium.com/p/23b0ca1f4c10) |
-| Wed, 15 Oct 2025 07:20:31 GMT | Today’s Top Cyber Intelligence Highlights — Oct 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f621526f6d2d) |
-| Wed, 15 Oct 2025 07:19:04 GMT | Windows 10 od danas službeno nepodržan | Vjera Barbir Alavanja | [Read More](https://medium.com/p/2d91289b03de) |
-| Wed, 15 Oct 2025 07:13:19 GMT | Investigating Malware with Wireshark — Network Traffic Analysis | Adeleke Theophilus O | [Read More](https://medium.com/p/451263f99ac0) |
-| Wed, 15 Oct 2025 07:00:11 GMT | The Daily Tech Digest: 15 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/361abcdceecc) |
-| Wed, 15 Oct 2025 06:57:44 GMT | The Growing Importance of Security Guard Services: Ensuring Safety Across India | Ciss India | [Read More](https://medium.com/p/56b61811e88e) |
-| Wed, 15 Oct 2025 06:56:48 GMT | Cybersecurity road-map | regular joe | [Read More](https://medium.com/p/cbc55ef8b58c) |
-| Wed, 15 Oct 2025 06:51:45 GMT | Hackers Exploit ICTBroadcast Cookie Flaw to Gain Remote Shell Access: What You Need to Know | Germano Costi | [Read More](https://medium.com/p/9d862485386e) |
-| Wed, 15 Oct 2025 06:51:37 GMT | Why SOM Matters More Than TAM: MVP Experiments to Validate Your Target Market | Yaseenmd | [Read More](https://medium.com/p/972f80119566) |
-| Wed, 15 Oct 2025 06:50:22 GMT | Reconstructing a Bad Rabbit Ransomware Attack — Part 1 | Zulfianarahmi | [Read More](https://medium.com/p/741a28ba0b6a) |
-| Wed, 15 Oct 2025 06:50:06 GMT | Why Privacy Certification Is Finally Getting Its Due: Thoughts on ISO/IEC 27701:2025 and 27706:2025 | Aviral Jain | [Read More](https://medium.com/p/5ad5a3384071) |
