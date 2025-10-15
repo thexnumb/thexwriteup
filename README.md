@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 19:11:46 GMT | Authentication in FastAPI | Cristian | [Read More](https://medium.com/p/57cd858031c2) |
+| Wed, 15 Oct 2025 19:00:47 GMT | Anatomy of a Trojan: Building a Proof-of-Concept Reverse Shell Inside a Python Game | Muhammad Usman Faridi | [Read More](https://medium.com/p/eab7b63f30ea) |
+| Wed, 15 Oct 2025 18:56:42 GMT | Exploring Hidden Python Tricks for Real-World Projects | Kainat Nafees | [Read More](https://medium.com/p/eccf98bffa63) |
+| Wed, 15 Oct 2025 18:55:12 GMT | Exercise 4 — Bulk Import of Users | Azhariqbal | [Read More](https://medium.com/p/41b6e237d165) |
+| Wed, 15 Oct 2025 18:54:26 GMT | The Linux Security Journey — Blacklisting Kernel Modules | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b865164dd3d7) |
+| Wed, 15 Oct 2025 18:50:58 GMT | Cybersecurity Careers: Why Ethical Hacking is the Future of IT Security | Smith Adams | [Read More](https://medium.com/p/e08e899dcf41) |
+| Wed, 15 Oct 2025 18:48:34 GMT | I Just Watched My AI Assistant Quit Its Job — And Hire Three More AIs To Replace Itself | Riyas Raaz | [Read More](https://medium.com/p/ce375e3af401) |
+| Wed, 15 Oct 2025 18:48:13 GMT | Python SAST: Managing False Positives | Maikel Mardjan | [Read More](https://medium.com/p/59f0e77d72fc) |
+| Wed, 15 Oct 2025 18:33:25 GMT | How AI and Machine Learning Are Reshaping Cloud Analytics | Techridge Solutions | [Read More](https://medium.com/p/c35df1fdb835) |
+| Wed, 15 Oct 2025 18:32:23 GMT | The crypto market is still shaky after a big wave of liquidations earlier this week, where billions… | Muhammad Waseem | [Read More](https://medium.com/p/8d06b94f5117) |
 | Wed, 15 Oct 2025 18:24:02 GMT | Building NetScope: The Reconnaissance Tool I Wish I Had When Learning Pentesting | Raghav Mahajan | [Read More](https://medium.com/p/7effbb701316) |
 | Wed, 15 Oct 2025 18:20:22 GMT | Building the Foundation: My Cloud-Based Detection Engineering Lab | CyberFreak | [Read More](https://medium.com/p/96cdbb99b480) |
 | Wed, 15 Oct 2025 18:13:56 GMT | The Quiet Brotherhood: Without Interference | Patrick Longton | [Read More](https://medium.com/p/a741f2d32697) |
@@ -106,13 +116,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 13:57:33 GMT | Growing Up Told to “Man Up”: How I Learned That Vulnerability Isn’t Weakness | vydhi | [Read More](https://medium.com/p/ec44101e1ac5) |
 | Wed, 15 Oct 2025 13:54:37 GMT | The Cost of Silence: Why Most Incidents Never Reach Your Inbox | Tec-Tel Communications | [Read More](https://medium.com/p/ca34a6135f88) |
 | Wed, 15 Oct 2025 13:48:34 GMT | How to Use ChatGPT to Catch Scammers Red-Handed (Before They Trick You) | John Edwin | [Read More](https://medium.com/p/cf591bb69f17) |
-| Wed, 15 Oct 2025 13:42:13 GMT | TryHackMe - Physical Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/1f4028f8ef90) |
-| Wed, 15 Oct 2025 13:39:52 GMT | 101 Ways to Trending Effects of Cybersecurity: Tools and Frameworks for a Secure Future in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/5042fe356b08) |
-| Wed, 15 Oct 2025 13:30:36 GMT | The Things We Hide to Stay Alive | puppiesmemory | [Read More](https://medium.com/p/91686ef2ecda) |
-| Wed, 15 Oct 2025 13:25:28 GMT | Getting RCE — Challenge #1025 by Intigriti | Hamza Avvan | [Read More](https://medium.com/p/b3d0033a286d) |
-| Wed, 15 Oct 2025 13:19:01 GMT | Real-Time SSH Login Alerts to Slack — Simple, Secure, and Effective | Prince Vagadiya | [Read More](https://medium.com/p/5518cb368d2d) |
-| Wed, 15 Oct 2025 13:15:15 GMT | Fragile Is Not the Opposite of Strong | Nawab Khan | [Read More](https://medium.com/p/dd93d4a22b95) |
-| Wed, 15 Oct 2025 13:12:44 GMT | Container Security Implementation and Troubleshooting | Eren Cankut Uysal | [Read More](https://medium.com/p/fd16a9748e7b) |
-| Wed, 15 Oct 2025 13:11:50 GMT | Even Therapists Get Manipulated: A Wake-Up Call for Protecting Your Marriage | Jeff Murrah, LPC, LCDC, CMNCS | [Read More](https://medium.com/p/18335c2ff096) |
-| Wed, 15 Oct 2025 13:11:20 GMT | Title: Behind the Screens: The Human Toll of Digital Voyeurism and Stalkerware | Internet Exposed | [Read More](https://medium.com/p/7e1f1cf09476) |
-| Wed, 15 Oct 2025 13:11:01 GMT | She Shares a Problem, You Offer a Solution. You Just Failed Her Test. | The Mind Decoder | [Read More](https://medium.com/p/7323143709ce) |
