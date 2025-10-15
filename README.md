@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 22:18:39 GMT | Why Every Company Needs a Digital Strategy. Now More Than Ever. | Rafi Majeed | [Read More](https://medium.com/p/dd11eebe749d) |
 | Wed, 15 Oct 2025 22:02:17 GMT | Practising speech with kindness: building a human-centred AI companion | DiUS | [Read More](https://medium.com/p/5bab269d2e30) |
 | Wed, 15 Oct 2025 21:56:59 GMT | Cybersecurity and Zero Trust Architecture | Ascendion | [Read More](https://medium.com/p/abb15db1b469) |
 | Wed, 15 Oct 2025 21:55:07 GMT | Why DIY Hardware Is Becoming the New Counterculture | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f82d6fb1282e) |
@@ -114,4 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 15:50:25 GMT | How to Become an Ethical Hacker with Python (Real, Practical, Legal) | Rocky | [Read More](https://medium.com/p/16b2944a6bc4) |
 | Wed, 15 Oct 2025 15:48:07 GMT | Your Digital Gatekeeper: A Practical Guide to Understanding and Using Firewalls | Sumit Sah | [Read More](https://medium.com/p/2e22216517f7) |
 | Wed, 15 Oct 2025 15:42:40 GMT | Zero-Day Exploits Explained: What They Are, How Hackers Use Them, and the Apps & Websites Hit… | Paradise technologies Inc | [Read More](https://medium.com/p/fbde1d3bcf84) |
-| Wed, 15 Oct 2025 15:39:45 GMT | How I Installed pfSense on VirtualBox: A Simple Guide | Solomon Yaoh | [Read More](https://medium.com/p/de27243005d7) |
