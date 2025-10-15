@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 20:35:53 GMT | The Best Home Security Cameras We’ve Tested for 2025 | Tech Hub | [Read More](https://medium.com/p/cdb6c7eb8fa2) |
+| Wed, 15 Oct 2025 20:31:49 GMT | That Unlocked Phone Is Basically an Open Diary | Samirah A.O | [Read More](https://medium.com/p/740a9afe4cf4) |
+| Wed, 15 Oct 2025 20:28:05 GMT | Securing Web Applications | Kunal Khushalani | [Read More](https://medium.com/p/a39a4c1b4b39) |
+| Wed, 15 Oct 2025 20:27:05 GMT | What Your Old Laptop Still Knows About You | CyberCaptain‍✈️ | [Read More](https://medium.com/p/6e4f95c18755) |
+| Wed, 15 Oct 2025 20:22:08 GMT | Day 10 of my Cybersecurity Journey: PowerShell Basics 2 | Ogundipe Priscilla | [Read More](https://medium.com/p/90cb9eacd273) |
 | Wed, 15 Oct 2025 20:14:59 GMT | Case de Sucesso: Hemocentro São Lucas, L3TI & Ubiquiti — Conectando Tecnologia e Solidariedade | L3TI Soluções em Tecnologia | [Read More](https://medium.com/p/ae2c74da5cd5) |
 | Wed, 15 Oct 2025 20:05:17 GMT | # Silenced: How Cybercriminals Destroyed My Business, Stole My Identity, and Locked Me Out of My… | Krystal | [Read More](https://medium.com/p/144ab318e7ed) |
 | Wed, 15 Oct 2025 20:04:54 GMT | Snow-Crash-writup [level07] | B.R.O.L.Y | [Read More](https://medium.com/p/a1beaacf2046) |
@@ -110,9 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 14:41:20 GMT | Siber Güvenlik 101 — İnternetin ve Web Uygulamalarının İşleyişini Anlamak | Sude Çoban | [Read More](https://medium.com/p/fa34279dc08b) |
 | Wed, 15 Oct 2025 14:38:41 GMT | When “--no-sandbox” Locked Me Out of Ubuntu | Jishnu J P | [Read More](https://medium.com/p/c60f7d27298f) |
 | Wed, 15 Oct 2025 14:37:38 GMT | The $440,000 Architecture Mistake: Why Deloitte’s AI Failed (And How to Prevent It) | Nwosu Rosemary | [Read More](https://medium.com/p/aca2f5ef8823) |
-| Wed, 15 Oct 2025 14:36:55 GMT | They used to say a spy’s greatest weapon was a good pair of shoes. | ComsignTrust LTD | [Read More](https://medium.com/p/1c07ef68c502) |
-| Wed, 15 Oct 2025 14:33:39 GMT | Google DeepMind’s New AI Agent Finds and Fixes Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/5573777d6619) |
-| Wed, 15 Oct 2025 14:33:36 GMT | Cybersecurity Awareness Month 2025: Deepfake Phishing, Human Risk, and the New Front Line
-Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
-| Wed, 15 Oct 2025 14:27:14 GMT | Dark Side of Archives - Using WinRAR as a Red Team Tool | Matin Mahmoudi | [Read More](https://medium.com/p/122bbc493ad2) |
-| Wed, 15 Oct 2025 14:24:48 GMT | Ready to punch the hacker in the face? | Potech | [Read More](https://medium.com/p/8ac97948748d) |
