@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 05:31:46 GMT | How to Find Your First High-Impact Vulnerability (Without Relying on XSS) | Andrei Ivan | [Read More](https://medium.com/p/de3fdb73f182) |
+| Wed, 15 Oct 2025 05:29:00 GMT | Your Fintech App Is One Rooted Phone Away from Disaster — Fix It Now | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/c19ae6b52916) |
+| Wed, 15 Oct 2025 05:26:52 GMT | Secure Communication for Financial Institutions with Data Encryption | Aao Chat | [Read More](https://medium.com/p/760718089bde) |
+| Wed, 15 Oct 2025 05:25:31 GMT | Securing Your Smart Home | Cyber Security Research | [Read More](https://medium.com/p/23a4b28dfe6e) |
+| Wed, 15 Oct 2025 05:15:56 GMT | Why Do We Feel So Deeply, Even When It Hurts? | Jennie❣️ | [Read More](https://medium.com/p/9dec9345437d) |
+| Wed, 15 Oct 2025 05:15:21 GMT | Daily Vitamins #3 - Naked and Unashamed: The Fellowship That Heals | Ayo Sage | [Read More](https://medium.com/p/59ae7427c27f) |
 | Wed, 15 Oct 2025 05:05:38 GMT | Little-Known Tricks to Keep Windows Running Smooth After Installs | Ask IT Support | [Read More](https://medium.com/p/4d086d94e714) |
 | Wed, 15 Oct 2025 05:02:16 GMT | Intigriti Challenge 1025 — Unintended Solution Writeup | savi0r | [Read More](https://medium.com/p/b0e611890c16) |
 | Wed, 15 Oct 2025 05:01:59 GMT | How to Keep Your Crypto Private from Hackers | Farhad Ali | [Read More](https://medium.com/p/cdcfd1964eca) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 20:40:17 GMT | Guide for Conducting Cybersecurity Risk Assessments: Analyzing NIST SP 800–30 Revision 1 | Aneeqibtesam | [Read More](https://medium.com/p/de56a647d4e7) |
 | Tue, 14 Oct 2025 20:39:25 GMT | Why Every Business Needs a Security Audit in 2025 | Mrutunjaya Senapati | [Read More](https://medium.com/p/1ef214a7ac5c) |
 | Tue, 14 Oct 2025 20:35:24 GMT | Cybersecurity Certifications: Advancing Your Career | Cyber Security Research | [Read More](https://medium.com/p/b26b9f5a9b6f) |
-| Tue, 14 Oct 2025 20:32:51 GMT | Navigating the Niche: A Deep Dive into the Best VPNs for Midori Browser on Linux | Bryanignaciocastro | [Read More](https://medium.com/p/ff46c1ccba3a) |
-| Tue, 14 Oct 2025 20:21:26 GMT | We Speak CVE Podcast — “The CVE Consumer Working Group (CWG)” | CVE Program Blog | [Read More](https://medium.com/p/67bd63e94a93) |
-| Tue, 14 Oct 2025 20:10:19 GMT | AI vs. AI: The Cybersecurity Showdown | Wendell Rodrigues, Ph.D. | [Read More](https://medium.com/p/87b396e695ef) |
-| Tue, 14 Oct 2025 19:58:50 GMT | How to Find a Cybersecurity Mentor | Zachary Marcy | [Read More](https://medium.com/p/5400b217b43e) |
-| Tue, 14 Oct 2025 19:57:26 GMT | Прохождение Neighbour на TryHackMe | Pentestdaddy | [Read More](https://medium.com/p/98873c1636e2) |
-| Tue, 14 Oct 2025 19:52:18 GMT | [Part 9] Penalties Under the Cyber Resilience Act | Cyberkech | [Read More](https://medium.com/p/24647b08fd24) |
