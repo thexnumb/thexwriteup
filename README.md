@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 19:27:45 GMT | Gatekeeping Cybersecurity | Luke | [Read More](https://medium.com/p/cec13f1a947c) |
+| Wed, 15 Oct 2025 19:26:20 GMT | You Can’t Solve Financial Anxiety Without Unbreakable Trust. | Cent Capital | [Read More](https://medium.com/p/b1a60db8c9df) |
+| Wed, 15 Oct 2025 19:26:11 GMT | Cybersecurity in Education: A Wake-Up Call for Institutional Leaders | TechDemocracy | [Read More](https://medium.com/p/3fb8695387f8) |
+| Wed, 15 Oct 2025 19:24:41 GMT | SQL injection: what it is and how to protect your applications | SafeAeon Inc. | [Read More](https://medium.com/p/a140f6e9cfd6) |
+| Wed, 15 Oct 2025 19:22:32 GMT | The Call That Shook Me | Sabina Akter | [Read More](https://medium.com/p/2c8ff00e7986) |
+| Wed, 15 Oct 2025 19:14:15 GMT | Authenticity Is the New Perimeter: How AI Videos Are Quietly Breaking Digital Trust | Elliott | [Read More](https://medium.com/p/f7e1df642e26) |
 | Wed, 15 Oct 2025 19:11:46 GMT | Authentication in FastAPI | Cristian | [Read More](https://medium.com/p/57cd858031c2) |
+| Wed, 15 Oct 2025 19:10:01 GMT | AI Tattled On Me: The Story of an Emergent Security Feature | Jazen Cosby | [Read More](https://medium.com/p/a6e6683a20a6) |
+| Wed, 15 Oct 2025 19:01:47 GMT | Stealth Job Search: LinkedIn URL Hack | D.Haddad | [Read More](https://medium.com/p/55759c7014b5) |
 | Wed, 15 Oct 2025 19:00:47 GMT | Anatomy of a Trojan: Building a Proof-of-Concept Reverse Shell Inside a Python Game | Muhammad Usman Faridi | [Read More](https://medium.com/p/eab7b63f30ea) |
 | Wed, 15 Oct 2025 18:56:42 GMT | Exploring Hidden Python Tricks for Real-World Projects | Kainat Nafees | [Read More](https://medium.com/p/eccf98bffa63) |
 | Wed, 15 Oct 2025 18:55:12 GMT | Exercise 4 — Bulk Import of Users | Azhariqbal | [Read More](https://medium.com/p/41b6e237d165) |
@@ -108,11 +116,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 14:09:16 GMT | Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Critical Cybersecurity Mistakes | Very Lazy Tech | [Read More](https://medium.com/p/fbd5cb09df6a) |
 | Wed, 15 Oct 2025 14:09:10 GMT | Why Hackers Love Docker? | Shahzaib | [Read More](https://medium.com/p/a5d5e0bc0be1) |
 | Wed, 15 Oct 2025 14:07:01 GMT | Protect Data Right From the Frontend | Skapi | [Read More](https://medium.com/p/d9ca822f742b) |
-| Wed, 15 Oct 2025 14:06:08 GMT | The Digital Vault for Web3 — Proactive Protection for a Decentralised World | Abatis ABTU | [Read More](https://medium.com/p/e27f69a2a9ca) |
-| Wed, 15 Oct 2025 14:05:49 GMT | The Cache Stampede That Brought Our Java App to Its Knees (And How We Fixed It) | Jitin Kayyala | [Read More](https://medium.com/p/7db7b652d374) |
-| Wed, 15 Oct 2025 14:05:11 GMT | How to Efficiently Manage Security Alerts with SOAR Solutions? | NetWitness | [Read More](https://medium.com/p/954f5e3a496c) |
-| Wed, 15 Oct 2025 14:01:13 GMT | Cyber Briefing: 2025.10.15 | CyberMaterial | [Read More](https://medium.com/p/392546b41967) |
-| Wed, 15 Oct 2025 14:01:07 GMT | The Daily Threat Landscape Demands Real-Time Backup & Disaster Recovery in Ontario | Zeta Sky | [Read More](https://medium.com/p/e36dde0be3b1) |
-| Wed, 15 Oct 2025 13:57:33 GMT | Growing Up Told to “Man Up”: How I Learned That Vulnerability Isn’t Weakness | vydhi | [Read More](https://medium.com/p/ec44101e1ac5) |
-| Wed, 15 Oct 2025 13:54:37 GMT | The Cost of Silence: Why Most Incidents Never Reach Your Inbox | Tec-Tel Communications | [Read More](https://medium.com/p/ca34a6135f88) |
-| Wed, 15 Oct 2025 13:48:34 GMT | How to Use ChatGPT to Catch Scammers Red-Handed (Before They Trick You) | John Edwin | [Read More](https://medium.com/p/cf591bb69f17) |
