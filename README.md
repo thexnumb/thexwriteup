@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 23:02:56 GMT | AI-Powered Cyber-Attacks: The New Frontier of Cybersecurity Threats | Khaled | [Read More](https://medium.com/p/3fbd1a67e10a) |
+| Wed, 15 Oct 2025 23:00:49 GMT | Post-Exploitation Tactics: A Walkthrough of the Linux Threat Detection 3 Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/45038206304f) |
+| Wed, 15 Oct 2025 22:54:34 GMT | EvilDNS — how DNS can turn into an RCE vector (and how to stop it) | D Johnston | [Read More](https://medium.com/p/ce7d65a5cf61) |
+| Wed, 15 Oct 2025 22:46:35 GMT | Enigma X: A Cipher System Written in Forgotten Languages | Nabharaj Sawant | [Read More](https://medium.com/p/755811df5e0b) |
+| Wed, 15 Oct 2025 22:40:05 GMT | AI Privacy and Security: Building a Safer Future | Bervice | [Read More](https://medium.com/p/6ef4f9963ac4) |
 | Wed, 15 Oct 2025 22:18:39 GMT | Why Every Company Needs a Digital Strategy. Now More Than Ever. | Rafi Majeed | [Read More](https://medium.com/p/dd11eebe749d) |
 | Wed, 15 Oct 2025 22:02:17 GMT | Practising speech with kindness: building a human-centred AI companion | DiUS | [Read More](https://medium.com/p/5bab269d2e30) |
 | Wed, 15 Oct 2025 21:56:59 GMT | Cybersecurity and Zero Trust Architecture | Ascendion | [Read More](https://medium.com/p/abb15db1b469) |
@@ -110,8 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 16:01:29 GMT | Invisible Vulnerabilities: The Hidden Security Debt Inside Third-Party SDKs and Open-Source… | Sai Krishna Kakarla | [Read More](https://medium.com/p/373c849da1ed) |
 | Wed, 15 Oct 2025 15:54:58 GMT | CORTEX INTELLIGENCE NEXUS INTEL. | Mikecomplexai | [Read More](https://medium.com/p/bc781a06faba) |
 | Wed, 15 Oct 2025 15:53:24 GMT | Threat Hunting Methodology: F5 Security Incident (K000154696) | Abdul | [Read More](https://medium.com/p/c9e293484afc) |
-| Wed, 15 Oct 2025 15:52:11 GMT | How Small Businesses Can Afford Enterprise Class Cybersecurity | ManagedIT_Expert | [Read More](https://medium.com/p/dc5b622af42c) |
-| Wed, 15 Oct 2025 15:51:04 GMT | Invisible Commands, Visible Consequences: Google’s Gemini Faces ASCII Smuggling Threat | Fortress Protocol | [Read More](https://medium.com/p/db9d2a059779) |
-| Wed, 15 Oct 2025 15:50:25 GMT | How to Become an Ethical Hacker with Python (Real, Practical, Legal) | Rocky | [Read More](https://medium.com/p/16b2944a6bc4) |
-| Wed, 15 Oct 2025 15:48:07 GMT | Your Digital Gatekeeper: A Practical Guide to Understanding and Using Firewalls | Sumit Sah | [Read More](https://medium.com/p/2e22216517f7) |
-| Wed, 15 Oct 2025 15:42:40 GMT | Zero-Day Exploits Explained: What They Are, How Hackers Use Them, and the Apps & Websites Hit… | Paradise technologies Inc | [Read More](https://medium.com/p/fbde1d3bcf84) |
