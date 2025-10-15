@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 10:31:46 GMT | Nmap Explained Simply: How Hackers and Network Admins See the Internet’s Hidden Doors | Natarajan C K | [Read More](https://medium.com/p/e86e2eb3ada0) |
+| Wed, 15 Oct 2025 10:19:54 GMT | Try-Hack-Me challenge walkthrough {CTF} | Arka Priya Das | [Read More](https://medium.com/p/881b8078c39a) |
 | Wed, 15 Oct 2025 10:11:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/a85e662734ca) |
 | Wed, 15 Oct 2025 10:09:52 GMT | Bashed — Hackthebox Writeup | Zerzex | [Read More](https://medium.com/p/cdb596f1f741) |
 | Wed, 15 Oct 2025 10:07:45 GMT | Digital Shield: Ushering in a New Era for Your Digital Assets with Military-Grade Security | Digital Shield | [Read More](https://medium.com/p/6fc4a5db250a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 06:14:07 GMT | Step-by-Step Guide to Installing a CCTV Camera System | Manglamtelecom | [Read More](https://medium.com/p/924dd4122c6a) |
 | Wed, 15 Oct 2025 06:13:27 GMT | BEST OT/ICS CYBERSECURITY TRAINING IN DELHI NCR AND INDIA | TheEvolvEdge | [Read More](https://medium.com/p/b7376ff3d39b) |
 | Wed, 15 Oct 2025 06:08:24 GMT | Is Paying for Windows 10 Extended Security Updates Worth It | Morgan Davis | [Read More](https://medium.com/p/7b6e5ecf0061) |
-| Wed, 15 Oct 2025 06:06:23 GMT | Cybersecurity in African Fintech — Real Threats and How Startups Can Prepare | Paulnkingwa | [Read More](https://medium.com/p/591210c481b0) |
-| Wed, 15 Oct 2025 06:03:38 GMT | Suquelish Ropojik Udarg Knights | Marc Matthew Mason | [Read More](https://medium.com/p/fe8032581810) |
