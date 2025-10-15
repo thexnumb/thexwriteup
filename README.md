@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 23:27:39 GMT | Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks | Cyber-AppSec | [Read More](https://medium.com/p/5523ca70a1c1) |
+| Wed, 15 Oct 2025 23:22:39 GMT | The Man Who Still Believes in Forever | Jeremy Sorensen | [Read More](https://medium.com/p/237db35d2881) |
+| Wed, 15 Oct 2025 23:16:14 GMT | Junior Security Analyst Intro - THM | Isiah | [Read More](https://medium.com/p/c1918cdeba12) |
 | Wed, 15 Oct 2025 23:02:56 GMT | AI-Powered Cyber-Attacks: The New Frontier of Cybersecurity Threats | Khaled | [Read More](https://medium.com/p/3fbd1a67e10a) |
 | Wed, 15 Oct 2025 23:00:49 GMT | Post-Exploitation Tactics: A Walkthrough of the Linux Threat Detection 3 Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/45038206304f) |
 | Wed, 15 Oct 2025 22:54:34 GMT | EvilDNS — how DNS can turn into an RCE vector (and how to stop it) | D Johnston | [Read More](https://medium.com/p/ce7d65a5cf61) |
@@ -112,6 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 16:13:20 GMT | Your npm Tokens Will Stop Working: GitHub’s New Security Rules and the Migration Playbook | Juan Andrés Leiva | [Read More](https://medium.com/p/70385bee91ce) |
 | Wed, 15 Oct 2025 16:10:46 GMT | Being Too Strong Also Hurts | Bruno Pimentel | [Read More](https://medium.com/p/ddc6a07f7de8) |
 | Wed, 15 Oct 2025 16:06:00 GMT | If you follow this fake Walmart ad, all you’ll get is spam . . . | SafeNetting | [Read More](https://medium.com/p/fdb7a7a011b9) |
-| Wed, 15 Oct 2025 16:01:29 GMT | Invisible Vulnerabilities: The Hidden Security Debt Inside Third-Party SDKs and Open-Source… | Sai Krishna Kakarla | [Read More](https://medium.com/p/373c849da1ed) |
-| Wed, 15 Oct 2025 15:54:58 GMT | CORTEX INTELLIGENCE NEXUS INTEL. | Mikecomplexai | [Read More](https://medium.com/p/bc781a06faba) |
-| Wed, 15 Oct 2025 15:53:24 GMT | Threat Hunting Methodology: F5 Security Incident (K000154696) | Abdul | [Read More](https://medium.com/p/c9e293484afc) |
