@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 11:29:20 GMT | Windows Under Siege: Two New Zero-Day Flaws Threaten Every PC Ever Created — CVE-2025–24990 “The… | Germano Costi | [Read More](https://medium.com/p/6f25ccab9d4a) |
+| Wed, 15 Oct 2025 11:28:33 GMT | Privacy is Dead | Mr. Robot.txt | [Read More](https://medium.com/p/946ebe2af953) |
+| Wed, 15 Oct 2025 11:27:02 GMT | "The Girl I Loved Most Left Without Warning — And I Don’t Think I’ll Ever Love Like That Again" | Trendulon | [Read More](https://medium.com/p/468dcb0a2855) |
+| Wed, 15 Oct 2025 11:22:42 GMT | 24. Common Reasons Bugs Get Rejected (And How to Avoid That) | Abhijeet kumawat | [Read More](https://medium.com/p/6dda954d96a0) |
+| Wed, 15 Oct 2025 11:22:21 GMT | My Code Was Good, But Not Great. Then I Discovered These 10 JavaScript “Cheats.” | Tech With Curly Girl | [Read More](https://medium.com/p/8cfe4a8b39af) |
+| Wed, 15 Oct 2025 11:20:10 GMT | What I Wish I Knew Before Starting My First Bug Bounty Program | Andrei Ivan | [Read More](https://medium.com/p/986a4e25c3b6) |
+| Wed, 15 Oct 2025 11:12:03 GMT | Top FOUR Malwares in 2025: Full Analysis with ANY.RUN | Motasem Hamdan | [Read More](https://medium.com/p/48217d94b316) |
 | Wed, 15 Oct 2025 11:11:11 GMT | Best AI Tools for Building CRUD Apps in 2025 | Savia Salaria | [Read More](https://medium.com/p/4f6a0821f2ae) |
 | Wed, 15 Oct 2025 11:09:47 GMT | Best Reliable Managed Data Center Services Provider in India | Mathewneelan | [Read More](https://medium.com/p/3ee231a65c1b) |
 | Wed, 15 Oct 2025 11:07:23 GMT | The Psychology of Control: Why Users Break the Systems You Build | Alexis Collins | [Read More](https://medium.com/p/3ccb93720adb) |
+| Wed, 15 Oct 2025 11:05:31 GMT | Master Surya Ji – Best Astrologer, Psychic, Horoscope Reader , Vashikaran Expert , Bring Back… | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/2878e16f6b5f) |
 | Wed, 15 Oct 2025 11:02:25 GMT | Phone Calls and Military Communications Broadcast Through Space Unencrypted | Sam Morris | [Read More](https://medium.com/p/6a8702d2afb7) |
 | Wed, 15 Oct 2025 10:56:25 GMT | Protect What Matters: The Benefits of Professional Intruder Alarm Installation in Saudi Arabia | Zenecaastra | [Read More](https://medium.com/p/209c6f1852bc) |
 | Wed, 15 Oct 2025 10:51:08 GMT | How Website & Hosting Service Providers in Dubai Keep Sites Secure? | CyberNautMe | [Read More](https://medium.com/p/aad49707c65e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 06:51:37 GMT | Why SOM Matters More Than TAM: MVP Experiments to Validate Your Target Market | Yaseenmd | [Read More](https://medium.com/p/972f80119566) |
 | Wed, 15 Oct 2025 06:50:22 GMT | Reconstructing a Bad Rabbit Ransomware Attack — Part 1 | Zulfianarahmi | [Read More](https://medium.com/p/741a28ba0b6a) |
 | Wed, 15 Oct 2025 06:50:06 GMT | Why Privacy Certification Is Finally Getting Its Due: Thoughts on ISO/IEC 27701:2025 and 27706:2025 | Aviral Jain | [Read More](https://medium.com/p/5ad5a3384071) |
-| Wed, 15 Oct 2025 06:48:18 GMT | Port 5601 Exposed: How Kibana Grants Attackers Data, Keys, and Long-Lived Access | Very Lazy Tech | [Read More](https://medium.com/p/f9ba5cd058a8) |
-| Wed, 15 Oct 2025 06:44:43 GMT | How Security Doors Are Evolving with Advanced Technology in 2025 | Brisbane Security Screens | [Read More](https://medium.com/p/3f5c14eb999e) |
-| Wed, 15 Oct 2025 06:43:14 GMT | Why Managed Security Services Are a Smart Investment for Your Business | Globtier Infotech | [Read More](https://medium.com/p/53ff922f9839) |
-| Wed, 15 Oct 2025 06:40:29 GMT | What Are the Common Challenges Ethical Hackers Face? | Eliana | [Read More](https://medium.com/p/310581601c98) |
-| Wed, 15 Oct 2025 06:37:15 GMT | The Internet Is Getting Smarter Than Us — and That’s the Real Cyber Threat | Recover Right | [Read More](https://medium.com/p/0f01894e1638) |
-| Wed, 15 Oct 2025 06:34:59 GMT | Breaking Barriers: Women Shaping the Future of Cybersecurity in Georgia | Elene Samsiani | [Read More](https://medium.com/p/9b37fae6dea2) |
-| Wed, 15 Oct 2025 06:34:09 GMT | Solution for Intigriti Challenge 1025 | Ambush Neupane | [Read More](https://medium.com/p/3ecc9c7e11db) |
-| Wed, 15 Oct 2025 06:33:31 GMT | How Predictive Analytics Are Shaping the Future of Cyber Security | Renaissance Computer Services Limited | [Read More](https://medium.com/p/a0dbb7f3d977) |
