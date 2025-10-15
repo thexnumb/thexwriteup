@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 09:21:39 GMT | The Python Projects That Launched My Career (And Made Money) | Rocky | [Read More](https://medium.com/p/e4f6b3c450ad) |
+| Wed, 15 Oct 2025 09:12:53 GMT | Golden Ticket attack for beginners | SeverSerenity | [Read More](https://medium.com/p/eb7280c555ca) |
+| Wed, 15 Oct 2025 09:06:12 GMT | Vulnhub Funbox2 Walkthrough | cyber pancake | [Read More](https://medium.com/p/f8894c7c9c0c) |
+| Wed, 15 Oct 2025 09:02:28 GMT | How Co-Managed IT Helps UK SMEs Scale Without Replacing Their IT Teams? | Umar Waseem | [Read More](https://medium.com/p/585537158a4a) |
+| Wed, 15 Oct 2025 09:02:22 GMT | SO 27001:2022 vs 2013 — The Final Countdown to Transition | Hicomply | [Read More](https://medium.com/p/26612c657381) |
+| Wed, 15 Oct 2025 09:02:21 GMT | Splunk Connect for Syslog SC4S: Why Syslog Ingestion Needs a Rethink | Apto Solutions | [Read More](https://medium.com/p/d14f0a336313) |
+| Wed, 15 Oct 2025 08:56:34 GMT | This Free Android App Made My Phone More Powerful Than My Laptop ⚡ (No Root) | Saad Maqsood | [Read More](https://medium.com/p/1fff81916e8a) |
+| Wed, 15 Oct 2025 08:55:41 GMT | Hands-Off Reconnaissance: Mapping Targets in Minutes | Njeru Mtwaiti | [Read More](https://medium.com/p/7821f385e45b) |
+| Wed, 15 Oct 2025 08:54:08 GMT | 10 Cybersecurity Red Flags You’re Ignoring Right Now | Fateyaly | [Read More](https://medium.com/p/7e12661ffec0) |
 | Wed, 15 Oct 2025 08:46:19 GMT | Unmasking Tabnabbing: A Hidden Phishing Threat In Your Browser Tabs | Redfox Security | [Read More](https://medium.com/p/ea0fdde32957) |
+| Wed, 15 Oct 2025 08:45:45 GMT | PostgreSQL SQL Injections: why, what and how(Part 1) | Shailesh Kumar Mishra | [Read More](https://medium.com/p/e98ae91e1ae3) |
 | Wed, 15 Oct 2025 08:44:01 GMT | Inside the Time-to-exploit -1 days era, How Self-Updating malware exploits vulnerabilities before… | Mario Candela | [Read More](https://medium.com/p/7fc331fac02c) |
 | Wed, 15 Oct 2025 08:43:24 GMT | The Problem With WhatsApp’s “Privacy Promise” | Your's Nightmare | [Read More](https://medium.com/p/6c7fbdcce841) |
 | Wed, 15 Oct 2025 08:42:24 GMT | Beyond the Firewall: Why Your Business Needs a Cybersecurity Wake-Up Call | Digital Defense | [Read More](https://medium.com/p/cf0dcc270abe) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 05:12:26 GMT | Subdomain Takeover: The Forgotten DNS Records Hijacking Your Brand | InstaTunnel | [Read More](https://medium.com/p/25e2f2cf358d) |
 | Wed, 15 Oct 2025 05:05:38 GMT | Little-Known Tricks to Keep Windows Running Smooth After Installs | Ask IT Support | [Read More](https://medium.com/p/4d086d94e714) |
 | Wed, 15 Oct 2025 05:02:16 GMT | Intigriti Challenge 1025 — Unintended Solution Writeup | savi0r | [Read More](https://medium.com/p/b0e611890c16) |
-| Wed, 15 Oct 2025 05:01:59 GMT | How to Keep Your Crypto Private from Hackers | Farhad Ali | [Read More](https://medium.com/p/cdcfd1964eca) |
-| Wed, 15 Oct 2025 04:59:54 GMT | CVE-2025–9902: QRMenu’s Sneaky Side Door — Unauthorized Data Access! | CVEHUB | [Read More](https://medium.com/p/c3999d580b5b) |
-| Wed, 15 Oct 2025 04:57:07 GMT | Lab 9#: Remote code execution via server-side - prototype pollution | Mosta | [Read More](https://medium.com/p/9840560513b2) |
-| Wed, 15 Oct 2025 04:47:47 GMT | Clearing Windows Event Logs | Dharmendrakumar | [Read More](https://medium.com/p/ea7dc3e64cc7) |
-| Wed, 15 Oct 2025 04:46:10 GMT | MySQL Enumeration | Dharmendrakumar | [Read More](https://medium.com/p/0ac6f1ad52eb) |
-| Wed, 15 Oct 2025 04:39:30 GMT | Fin Credit loan app Customer Care Helpline Number 7389657154 (➒➋➌➑➏➎➋➍➎➎) Toll-Free +(7389657154)… | Fin Credit | [Read More](https://medium.com/p/03953cb91d25) |
-| Wed, 15 Oct 2025 04:34:15 GMT | Windows Privilege Escalation Cheat Sheet | MEGAZORD | [Read More](https://medium.com/p/e6272b6c9dfc) |
-| Wed, 15 Oct 2025 04:33:08 GMT | Business Email Essentials: Professionalism & Security for Your Brand | ec infosolutions | [Read More](https://medium.com/p/1a0a78ab8335) |
-| Wed, 15 Oct 2025 04:28:51 GMT | How I Cracked the “Uncrackable” UUIDs and Found Every User’s Secret Data | Iski | [Read More](https://medium.com/p/f0cd2224e09d) |
-| Wed, 15 Oct 2025 04:19:19 GMT | The Quantum Leap: How Quantum Computing Is Redefining the Future | Bobby Andrews | [Read More](https://medium.com/p/fc569e27823e) |
