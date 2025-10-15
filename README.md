@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 21:34:50 GMT | SIA Key Holding Issues and Alarm System Obstructions: A Data-Driven Security Perspective | Dr Francesco Dergano | [Read More](https://medium.com/p/e8aebe2f2787) |
+| Wed, 15 Oct 2025 21:24:41 GMT | Snow-Crash-writup [level08] | B.R.O.L.Y | [Read More](https://medium.com/p/bf4961e76990) |
 | Wed, 15 Oct 2025 21:13:58 GMT | Day 1 — Setting the Ground for a 30-Day VAPT Sprint | Krushna Uday Shinde | [Read More](https://medium.com/p/fef91e0d8015) |
 | Wed, 15 Oct 2025 21:11:41 GMT | 30 Days to VAPT: My Hands-On Security Journey Across Tech Stacks | Krushna Uday Shinde | [Read More](https://medium.com/p/0496905b86fb) |
 | Wed, 15 Oct 2025 20:40:00 GMT | Observations from Recent True Positive Alerts | Hariharan | [Read More](https://medium.com/p/708c17d52148) |
@@ -113,5 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 15:01:09 GMT | Massive Data Breach Exposes over a Billion Personal Records by the Salesforce Hack — Why Reusable… | Raj Ananthanpillai | [Read More](https://medium.com/p/913bf3e4feee) |
 | Wed, 15 Oct 2025 15:01:09 GMT | Connect with SSH without opening a single port on your AWS EC2 server? | George Tzinos | [Read More](https://medium.com/p/573e9944bb34) |
 | Wed, 15 Oct 2025 14:51:38 GMT | AI and Cybersecurity: Can it replace the human element in Security Architecture Reviews? | FactSet | [Read More](https://medium.com/p/6019bf73abbf) |
-| Wed, 15 Oct 2025 14:50:37 GMT | The Future is Now: Exploring the Next Wave of Emerging Technologies in 2025 | Zunair | [Read More](https://medium.com/p/4e242ccb4c3f) |
-| Wed, 15 Oct 2025 14:50:15 GMT | DevSecOps and SRE: A United Front | SRE Mastery | [Read More](https://medium.com/p/9a26263b5002) |
