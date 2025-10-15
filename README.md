@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 20:14:59 GMT | Case de Sucesso: Hemocentro São Lucas, L3TI & Ubiquiti — Conectando Tecnologia e Solidariedade | L3TI Soluções em Tecnologia | [Read More](https://medium.com/p/ae2c74da5cd5) |
+| Wed, 15 Oct 2025 20:05:17 GMT | # Silenced: How Cybercriminals Destroyed My Business, Stole My Identity, and Locked Me Out of My… | Krystal | [Read More](https://medium.com/p/144ab318e7ed) |
+| Wed, 15 Oct 2025 20:04:54 GMT | Snow-Crash-writup [level07] | B.R.O.L.Y | [Read More](https://medium.com/p/a1beaacf2046) |
+| Wed, 15 Oct 2025 19:49:55 GMT | Enterprise Network Security Solutions: Safeguarding Data in a Digital World | Fortnexs Shield | [Read More](https://medium.com/p/b7c32ec242ca) |
+| Wed, 15 Oct 2025 19:44:53 GMT | Room (105): STEGANOGRAPHY | blackXmask | [Read More](https://medium.com/p/85f6ceadc53d) |
 | Wed, 15 Oct 2025 19:27:45 GMT | Gatekeeping Cybersecurity | Luke | [Read More](https://medium.com/p/cec13f1a947c) |
 | Wed, 15 Oct 2025 19:26:20 GMT | You Can’t Solve Financial Anxiety Without Unbreakable Trust. | Cent Capital | [Read More](https://medium.com/p/b1a60db8c9df) |
 | Wed, 15 Oct 2025 19:26:11 GMT | Cybersecurity in Education: A Wake-Up Call for Institutional Leaders | TechDemocracy | [Read More](https://medium.com/p/3fb8695387f8) |
@@ -38,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 18:09:04 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 2:Attacking LSASS | Babatunde Ojo | [Read More](https://medium.com/p/7f69f10fd893) |
 | Wed, 15 Oct 2025 18:08:55 GMT | Breaking Bad: From Bin2Vec to LLM‑Powered Malware | packet maven | [Read More](https://medium.com/p/ae9fe1b0c8d3) |
 | Wed, 15 Oct 2025 18:08:17 GMT | The Lobby That Launders Terror: How a Proscribed Nigerian Terrorist Group Found Power in Washington | Otega Ogra | [Read More](https://medium.com/p/cd69bb174738) |
+| Wed, 15 Oct 2025 18:03:22 GMT | Your Guide to a Free Google VPS | AbdelRhman_Sabry | [Read More](https://medium.com/p/13ea91788543) |
 | Wed, 15 Oct 2025 18:02:57 GMT | An Experiment About Criminals Hacking Websites. | jybyky | [Read More](https://medium.com/p/0df09470de85) |
 | Wed, 15 Oct 2025 18:02:24 GMT | $35,000 por un fallo en GitLab — Análisis completo de un reporte real | Gorka | [Read More](https://medium.com/p/3fe1bd5bbb00) |
 | Wed, 15 Oct 2025 18:02:14 GMT | Lookup CTF TryHackMe writeup | Telynor | [Read More](https://medium.com/p/f6b6ae9f6321) |
@@ -110,9 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 14:27:14 GMT | Dark Side of Archives - Using WinRAR as a Red Team Tool | Matin Mahmoudi | [Read More](https://medium.com/p/122bbc493ad2) |
 | Wed, 15 Oct 2025 14:24:48 GMT | Ready to punch the hacker in the face? | Potech | [Read More](https://medium.com/p/8ac97948748d) |
-| Wed, 15 Oct 2025 14:23:26 GMT | TechEx 2025: security on a PIN code | 0trust0day | [Read More](https://medium.com/p/4a7436395718) |
-| Wed, 15 Oct 2025 14:22:57 GMT | How Corporate Security Teams Can Combat AI-Generated Phishing Using OSINT | Rishisec | [Read More](https://medium.com/p/3f6c7db9bd8a) |
-| Wed, 15 Oct 2025 14:11:51 GMT | Stop People-Pleasing: Embrace Authenticity and Reclaim Your Joy | Misass | [Read More](https://medium.com/p/b523cf319f16) |
-| Wed, 15 Oct 2025 14:09:16 GMT | Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Critical Cybersecurity Mistakes | Very Lazy Tech | [Read More](https://medium.com/p/fbd5cb09df6a) |
-| Wed, 15 Oct 2025 14:09:10 GMT | Why Hackers Love Docker? | Shahzaib | [Read More](https://medium.com/p/a5d5e0bc0be1) |
-| Wed, 15 Oct 2025 14:07:01 GMT | Protect Data Right From the Frontend | Skapi | [Read More](https://medium.com/p/d9ca822f742b) |
