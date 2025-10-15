@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 08:46:19 GMT | Unmasking Tabnabbing: A Hidden Phishing Threat In Your Browser Tabs | Redfox Security | [Read More](https://medium.com/p/ea0fdde32957) |
+| Wed, 15 Oct 2025 08:44:01 GMT | Inside the Time-to-exploit -1 days era, How Self-Updating malware exploits vulnerabilities before… | Mario Candela | [Read More](https://medium.com/p/7fc331fac02c) |
+| Wed, 15 Oct 2025 08:43:24 GMT | The Problem With WhatsApp’s “Privacy Promise” | Your's Nightmare | [Read More](https://medium.com/p/6c7fbdcce841) |
+| Wed, 15 Oct 2025 08:42:24 GMT | Beyond the Firewall: Why Your Business Needs a Cybersecurity Wake-Up Call | Digital Defense | [Read More](https://medium.com/p/cf0dcc270abe) |
+| Wed, 15 Oct 2025 08:40:03 GMT | Security Challenges in Old Apartments — How to Keep Residents Safe | Acfalarm | [Read More](https://medium.com/p/4f04c6cbed80) |
+| Wed, 15 Oct 2025 08:39:40 GMT | Top 10 Web Development Companies for 2025 | Aanal Panchal | [Read More](https://medium.com/p/b4d07f34d1c2) |
+| Wed, 15 Oct 2025 08:38:46 GMT | Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments | 0Xhossam | [Read More](https://medium.com/p/8ca9ce16fe8d) |
+| Wed, 15 Oct 2025 08:38:43 GMT | SSRF (Server Side Request Forgery) | Md. Raihan | [Read More](https://medium.com/p/b46e94191a93) |
+| Wed, 15 Oct 2025 08:37:40 GMT | The Art of Asking: How Curiosity Becomes the New Intelligence | Fateyaly | [Read More](https://medium.com/p/28a58a0d2996) |
+| Wed, 15 Oct 2025 08:34:12 GMT | Smart Hybrid Light CCTV Camera Installation Service in Mirpur 10 Bangladesh | optimationbd | [Read More](https://medium.com/p/59fe8b1eb73a) |
+| Wed, 15 Oct 2025 08:33:50 GMT | Your Cursor Setup Is Probably a Security Danger (And You Don’t Even Know It) | Berker Ceylan | [Read More](https://medium.com/p/50e64db6b9f3) |
+| Wed, 15 Oct 2025 08:32:08 GMT | THM Content Discovery Room | Jerry Wang | [Read More](https://medium.com/p/3582ed95c2c1) |
+| Wed, 15 Oct 2025 08:31:36 GMT | PAN-OS 12.1 ORION: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/825f156ab404) |
+| Wed, 15 Oct 2025 08:31:32 GMT | Google Knows More About You Than You Think | Your's Nightmare | [Read More](https://medium.com/p/abe9daa4b669) |
+| Wed, 15 Oct 2025 08:30:23 GMT | How Hackers Find Secrets Hidden In Public Websites | Yaniv | [Read More](https://medium.com/p/39a82086a874) |
+| Wed, 15 Oct 2025 08:29:50 GMT | Cybersecurity (Part6): Cybersecurity Tools & Frameworks | mohandika | [Read More](https://medium.com/p/0fa14a308006) |
 | Wed, 15 Oct 2025 08:27:20 GMT | The Hidden Evilness in Our Community | Xisum | [Read More](https://medium.com/p/7c9549b4355a) |
 | Wed, 15 Oct 2025 08:17:45 GMT | FastAPI File Uploads — Clean, Fast, and Foolproof | Thinking Loop | [Read More](https://medium.com/p/4ecf0f00404f) |
+| Wed, 15 Oct 2025 08:17:19 GMT | Can Cybersecurity Hack Your Phone? | Deepak Sharma | [Read More](https://medium.com/p/e1a4b626ac22) |
 | Wed, 15 Oct 2025 08:07:12 GMT | Modern Security Practices — Part 1: Securing Software Supply Chains and Detecting Code… | DigiThax | [Read More](https://medium.com/p/9b94f2ac7b7d) |
 | Wed, 15 Oct 2025 08:01:53 GMT | Your First CTF Challenge: Why Most Beginners Fail Before They Even Start (And How You Won’t) | MayhemCode | [Read More](https://medium.com/p/257497e64c77) |
 | Wed, 15 Oct 2025 08:01:53 GMT | [Part 9] Deepfakes, Voice Clones, and Phishing: AI’s Role in Scams | Cyberkech | [Read More](https://medium.com/p/ca837b8f5f7a) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 04:33:08 GMT | Business Email Essentials: Professionalism & Security for Your Brand | ec infosolutions | [Read More](https://medium.com/p/1a0a78ab8335) |
 | Wed, 15 Oct 2025 04:28:51 GMT | How I Cracked the “Uncrackable” UUIDs and Found Every User’s Secret Data | Iski | [Read More](https://medium.com/p/f0cd2224e09d) |
 | Wed, 15 Oct 2025 04:19:19 GMT | The Quantum Leap: How Quantum Computing Is Redefining the Future | Bobby Andrews | [Read More](https://medium.com/p/fc569e27823e) |
-| Wed, 15 Oct 2025 04:14:24 GMT | “5 Data Science Projects That Taught Me More Than College” | Muhummad Zaki | [Read More](https://medium.com/p/ac6386e2558e) |
-| Wed, 15 Oct 2025 04:05:56 GMT | Why Every Ontario Business Needs a Modern Data Resilience Strategy | Supraja | [Read More](https://medium.com/p/16a4e812ffb8) |
-| Wed, 15 Oct 2025 03:50:16 GMT | The Eleventh Angel: The Angel of Terror, ‘Iruel’ — The Worm War of the Internet of Things | Scott Huang | [Read More](https://medium.com/p/35a9da8cb175) |
-| Wed, 15 Oct 2025 03:48:07 GMT | Caching Revolution: The Strategy That Made Pinterest Load Instantly (and How You Can Practice It… | Rizqi Mulki | [Read More](https://medium.com/p/1ee0bd42f246) |
-| Wed, 15 Oct 2025 03:45:00 GMT | Beyond Perimeter: Why Identity Is Your New Security Border | ThreatLens byGurdeep | [Read More](https://medium.com/p/9dc7ac7d1436) |
-| Wed, 15 Oct 2025 03:40:12 GMT | Why a Modern Data Resilience Strategy Is the Future of Business in Ontario | Tycoonstories | [Read More](https://medium.com/p/8fee0d497cf7) |
-| Wed, 15 Oct 2025 03:39:35 GMT | Apakah AI membunuh etika dan moralitas dalam CTF? | Repl | [Read More](https://medium.com/p/e49107bd19d9) |
-| Wed, 15 Oct 2025 03:32:52 GMT | Password Leak 2025: Are Your Accounts Truly Safe | Neova Solutions | [Read More](https://medium.com/p/bbf4f954194b) |
-| Wed, 15 Oct 2025 03:32:52 GMT | QUIC-LEAK (CVE-2025–54939): The Subtle Flaw That Could Take Your Website Offline | Deven Chhajed | [Read More](https://medium.com/p/859825b3637d) |
-| Wed, 15 Oct 2025 03:31:15 GMT | When Quantum Supremacy Hits, Privacy Dies Overnight | Abhinav Misra | [Read More](https://medium.com/p/d7da690a1e5d) |
-| Wed, 15 Oct 2025 03:29:20 GMT | How Hackers Really Steal Your Gmail in 3 Steps | Rizqi Mulki | [Read More](https://medium.com/p/58a2d846b4e2) |
-| Wed, 15 Oct 2025 03:28:38 GMT | Cybersecurity Best Practices | Mark Thompson | [Read More](https://medium.com/p/46a2e3fa7b46) |
-| Wed, 15 Oct 2025 03:27:01 GMT | Behind Shared Accounts: How We Really Share Our Passwords | Andy Afrizal | [Read More](https://medium.com/p/90460044c613) |
-| Wed, 15 Oct 2025 03:18:08 GMT | When AI Becomes the Attacker: How to Defend What You Can’t Always See | ThreatLens byGurdeep | [Read More](https://medium.com/p/bf0ea280be20) |
-| Wed, 15 Oct 2025 03:06:52 GMT | Blame Game — picoCTF writeups | Mahidul Haque | [Read More](https://medium.com/p/88dfa371c1ae) |
-| Wed, 15 Oct 2025 03:02:27 GMT | Pivoting, Tunneling & Port Forwarding: Practical Operator Notes from HTB Academy | mermehr | [Read More](https://medium.com/p/4736e62debca) |
-| Wed, 15 Oct 2025 03:01:31 GMT | What if one morning you woke up and everything you rely on just… stoppedd? | Sneha | [Read More](https://medium.com/p/678159830b4f) |
