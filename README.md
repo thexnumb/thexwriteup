@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 11:11:11 GMT | Best AI Tools for Building CRUD Apps in 2025 | Savia Salaria | [Read More](https://medium.com/p/4f6a0821f2ae) |
+| Wed, 15 Oct 2025 11:09:47 GMT | Best Reliable Managed Data Center Services Provider in India | Mathewneelan | [Read More](https://medium.com/p/3ee231a65c1b) |
+| Wed, 15 Oct 2025 11:07:23 GMT | The Psychology of Control: Why Users Break the Systems You Build | Alexis Collins | [Read More](https://medium.com/p/3ccb93720adb) |
+| Wed, 15 Oct 2025 11:02:25 GMT | Phone Calls and Military Communications Broadcast Through Space Unencrypted | Sam Morris | [Read More](https://medium.com/p/6a8702d2afb7) |
+| Wed, 15 Oct 2025 10:56:25 GMT | Protect What Matters: The Benefits of Professional Intruder Alarm Installation in Saudi Arabia | Zenecaastra | [Read More](https://medium.com/p/209c6f1852bc) |
+| Wed, 15 Oct 2025 10:51:08 GMT | How Website & Hosting Service Providers in Dubai Keep Sites Secure? | CyberNautMe | [Read More](https://medium.com/p/aad49707c65e) |
+| Wed, 15 Oct 2025 10:46:50 GMT | ️ Fileless Malware Detection Techniques | Esra Kayhan | [Read More](https://medium.com/p/2d53ccdf34f4) |
+| Wed, 15 Oct 2025 10:45:53 GMT | AI in Cybersecurity: Staying Safe in an Increasingly Smart World | Chauffeur Booking Melbourne | [Read More](https://medium.com/p/6b51d7e0b628) |
+| Wed, 15 Oct 2025 10:44:17 GMT | Is DevOps The Smartest Career Move In Tech? | Mohammed Numan | [Read More](https://medium.com/p/253bb7201e12) |
+| Wed, 15 Oct 2025 10:42:15 GMT | Smart Security Made Easy: Comparing Blink Outdoor 4 and WYZE Cam v4 for Your Home | Lenny's Finds | [Read More](https://medium.com/p/5bccbb4f6ff2) |
+| Wed, 15 Oct 2025 10:40:12 GMT | Internal — TryHackMe CTF Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/45896e2585f2) |
+| Wed, 15 Oct 2025 10:36:44 GMT | Managed SIEM Services for the Finance Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/b5a89eef97e3) |
 | Wed, 15 Oct 2025 10:31:46 GMT | Nmap Explained Simply: How Hackers and Network Admins See the Internet’s Hidden Doors | Natarajan C K | [Read More](https://medium.com/p/e86e2eb3ada0) |
 | Wed, 15 Oct 2025 10:19:54 GMT | Try-Hack-Me challenge walkthrough {CTF} | Arka Priya Das | [Read More](https://medium.com/p/881b8078c39a) |
 | Wed, 15 Oct 2025 10:11:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/a85e662734ca) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 06:34:59 GMT | Breaking Barriers: Women Shaping the Future of Cybersecurity in Georgia | Elene Samsiani | [Read More](https://medium.com/p/9b37fae6dea2) |
 | Wed, 15 Oct 2025 06:34:09 GMT | Solution for Intigriti Challenge 1025 | Ambush Neupane | [Read More](https://medium.com/p/3ecc9c7e11db) |
 | Wed, 15 Oct 2025 06:33:31 GMT | How Predictive Analytics Are Shaping the Future of Cyber Security | Renaissance Computer Services Limited | [Read More](https://medium.com/p/a0dbb7f3d977) |
-| Wed, 15 Oct 2025 06:33:11 GMT | Adversarial AI: How Hackers Are Using AI to Bypass Your Security Measures | Himanshu Kumar | [Read More](https://medium.com/p/bbecfbbd480c) |
-| Wed, 15 Oct 2025 06:32:26 GMT | Is Ethical Hacking a Good Career? | cyber security Updates | [Read More](https://medium.com/p/d72b24419de3) |
-| Wed, 15 Oct 2025 06:31:52 GMT | What Security Risks Will You Face If You Keep Using Windows 10 | hasib | [Read More](https://medium.com/p/9ca84d250573) |
-| Wed, 15 Oct 2025 06:31:16 GMT | RAG(Retrieval-Augmented Generation) and Its Cyber Defence Strategies | Akanksha | [Read More](https://medium.com/p/85260cf5c3ca) |
-| Wed, 15 Oct 2025 06:22:35 GMT | Top Password Chrome Extensions to Boost Your Online Security | Creole Studios | [Read More](https://medium.com/p/6665c241168e) |
-| Wed, 15 Oct 2025 06:21:41 GMT | The Lie of Security: Playing Safe Is the Riskiest Move of All | Activefaq ️ | [Read More](https://medium.com/p/e1c73da58957) |
-| Wed, 15 Oct 2025 06:20:36 GMT | ประจำวันพุธที่ 15 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7b1c24d21ad4) |
-| Wed, 15 Oct 2025 06:19:19 GMT | 10 Core Concepts Every Developer Should Know About | Kasra10 | [Read More](https://medium.com/p/820b00259099) |
-| Wed, 15 Oct 2025 06:18:15 GMT | Understanding Authentication in Laravel: A Deep Dive into Laravel Passport | Sandeeppant | [Read More](https://medium.com/p/7c11932848d4) |
-| Wed, 15 Oct 2025 06:14:07 GMT | Step-by-Step Guide to Installing a CCTV Camera System | Manglamtelecom | [Read More](https://medium.com/p/924dd4122c6a) |
-| Wed, 15 Oct 2025 06:13:27 GMT | BEST OT/ICS CYBERSECURITY TRAINING IN DELHI NCR AND INDIA | TheEvolvEdge | [Read More](https://medium.com/p/b7376ff3d39b) |
-| Wed, 15 Oct 2025 06:08:24 GMT | Is Paying for Windows 10 Extended Security Updates Worth It | Morgan Davis | [Read More](https://medium.com/p/7b6e5ecf0061) |
