@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 04:34:15 GMT | Windows Privilege Escalation Cheat Sheet | MEGAZORD | [Read More](https://medium.com/p/e6272b6c9dfc) |
+| Wed, 15 Oct 2025 04:33:08 GMT | Business Email Essentials: Professionalism & Security for Your Brand | ec infosolutions | [Read More](https://medium.com/p/1a0a78ab8335) |
+| Wed, 15 Oct 2025 04:28:51 GMT | How I Cracked the “Uncrackable” UUIDs and Found Every User’s Secret Data | Iski | [Read More](https://medium.com/p/f0cd2224e09d) |
+| Wed, 15 Oct 2025 04:19:19 GMT | The Quantum Leap: How Quantum Computing Is Redefining the Future | Bobby Andrews | [Read More](https://medium.com/p/fc569e27823e) |
 | Wed, 15 Oct 2025 04:14:24 GMT | “5 Data Science Projects That Taught Me More Than College” | Muhummad Zaki | [Read More](https://medium.com/p/ac6386e2558e) |
 | Wed, 15 Oct 2025 04:05:56 GMT | Why Every Ontario Business Needs a Modern Data Resilience Strategy | Supraja | [Read More](https://medium.com/p/16a4e812ffb8) |
 | Wed, 15 Oct 2025 03:50:16 GMT | The Eleventh Angel: The Angel of Terror, ‘Iruel’ — The Worm War of the Internet of Things | Scott Huang | [Read More](https://medium.com/p/35a9da8cb175) |
@@ -98,6 +102,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 20:21:26 GMT | We Speak CVE Podcast — “The CVE Consumer Working Group (CWG)” | CVE Program Blog | [Read More](https://medium.com/p/67bd63e94a93) |
 | Tue, 14 Oct 2025 20:10:19 GMT | AI vs. AI: The Cybersecurity Showdown | Wendell Rodrigues, Ph.D. | [Read More](https://medium.com/p/87b396e695ef) |
 | Tue, 14 Oct 2025 19:58:50 GMT | How to Find a Cybersecurity Mentor | Zachary Marcy | [Read More](https://medium.com/p/5400b217b43e) |
+| Tue, 14 Oct 2025 19:57:26 GMT | Прохождение Neighbour на TryHackMe | Pentestdaddy | [Read More](https://medium.com/p/98873c1636e2) |
 | Tue, 14 Oct 2025 19:52:18 GMT | [Part 9] Penalties Under the Cyber Resilience Act | Cyberkech | [Read More](https://medium.com/p/24647b08fd24) |
 | Tue, 14 Oct 2025 19:46:11 GMT | Snow-Crash-writup [level06] | B.R.O.L.Y | [Read More](https://medium.com/p/e4b1c5461bfa) |
 | Tue, 14 Oct 2025 19:38:42 GMT | Part 7 : Secrets Management — The Right Way to Keep Your Secrets Safe | Dean | [Read More](https://medium.com/p/2afe04bb0ada) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 19:25:04 GMT | Snow-Crash-writup [level05] | B.R.O.L.Y | [Read More](https://medium.com/p/610019c7fc19) |
 | Tue, 14 Oct 2025 19:16:53 GMT | Automate your own hacking methodology with Vulnetic | Daniel Knight | [Read More](https://medium.com/p/695dd6df46d0) |
 | Tue, 14 Oct 2025 19:16:16 GMT | The Next Frontier for IT Marketing: Optimizing for Generative Search & Answer Engines | Unika Agency | [Read More](https://medium.com/p/fa5a4389ae27) |
-| Tue, 14 Oct 2025 19:13:59 GMT | How 250 Poisoned Pages Can Secretly Hijack Any AI — And What to Do Right Now | Arpit | [Read More](https://medium.com/p/1aba257f0c05) |
-| Tue, 14 Oct 2025 19:12:08 GMT | The Real ROI of AI Agents in DevSecOps: Faster Fixes, Lower Costs, Less Risk | InnoveusIT | [Read More](https://medium.com/p/a9d474b8a973) |
-| Tue, 14 Oct 2025 19:11:45 GMT | Snow-Crash-writup [level04] | B.R.O.L.Y | [Read More](https://medium.com/p/4ee5b0e341d0) |
-| Tue, 14 Oct 2025 19:09:07 GMT | Invisible Text, Visible Risk: The Rise of “Imperceptible Jailbreaks” in LLMs | Harishkumar Pillai | [Read More](https://medium.com/p/9534e84403dd) |
-| Tue, 14 Oct 2025 19:08:07 GMT | ERP + Cloud + AI: Building the Digital Core of the Future | InnoveusIT | [Read More](https://medium.com/p/ef1826ae0806) |
