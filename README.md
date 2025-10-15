@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 08:27:20 GMT | The Hidden Evilness in Our Community | Xisum | [Read More](https://medium.com/p/7c9549b4355a) |
+| Wed, 15 Oct 2025 08:17:45 GMT | FastAPI File Uploads — Clean, Fast, and Foolproof | Thinking Loop | [Read More](https://medium.com/p/4ecf0f00404f) |
+| Wed, 15 Oct 2025 08:07:12 GMT | Modern Security Practices — Part 1: Securing Software Supply Chains and Detecting Code… | DigiThax | [Read More](https://medium.com/p/9b94f2ac7b7d) |
+| Wed, 15 Oct 2025 08:01:53 GMT | Your First CTF Challenge: Why Most Beginners Fail Before They Even Start (And How You Won’t) | MayhemCode | [Read More](https://medium.com/p/257497e64c77) |
+| Wed, 15 Oct 2025 08:01:53 GMT | [Part 9] Deepfakes, Voice Clones, and Phishing: AI’s Role in Scams | Cyberkech | [Read More](https://medium.com/p/ca837b8f5f7a) |
+| Wed, 15 Oct 2025 07:58:25 GMT | Everything You Should Know About Rules — Wazuh | Riad Moudjahed | [Read More](https://medium.com/p/76eddcf3c7d4) |
+| Wed, 15 Oct 2025 07:53:51 GMT | CRTA(CERTIFIED RED TEAM ANALYST) | anonymous.gharti | [Read More](https://medium.com/p/e2243cba752f) |
+| Wed, 15 Oct 2025 07:52:16 GMT | TryHackMe #121 - Secret Recipe | SiberYuk | [Read More](https://medium.com/p/78d569cb3e58) |
+| Wed, 15 Oct 2025 07:46:48 GMT | TryHackMe #120 - Critical | SiberYuk | [Read More](https://medium.com/p/c331936a89c0) |
+| Wed, 15 Oct 2025 07:42:46 GMT | TryHackMe #119 - Disgruntled | SiberYuk | [Read More](https://medium.com/p/ad9500377d55) |
+| Wed, 15 Oct 2025 07:38:30 GMT | When Uploads Meet .htaccess: A Dangerous Apache Misconfiguration | Raviaakash | [Read More](https://medium.com/p/99eb155014d0) |
+| Wed, 15 Oct 2025 07:38:28 GMT | TryHackMe #118 - Unattended | SiberYuk | [Read More](https://medium.com/p/d2b8556984c4) |
+| Wed, 15 Oct 2025 07:38:07 GMT | I Don’t Do Half-Love | Preena_NR | [Read More](https://medium.com/p/edc3758ed7ab) |
+| Wed, 15 Oct 2025 07:35:42 GMT | 15 HTML Multimedia Audio Video | Rana Awais | [Read More](https://medium.com/p/60a985012a19) |
+| Wed, 15 Oct 2025 07:35:05 GMT | The Myth of the “Strong Christian”: Why Vulnerability Is the New Courage | Dan Foster | [Read More](https://medium.com/p/7589350feb0b) |
+| Wed, 15 Oct 2025 07:34:52 GMT | What Common Asset Management Mistakes Do Growing Companies Make — and How Can ServiceNow Prevent… | Alex s | [Read More](https://medium.com/p/1a9c40c90ebe) |
 | Wed, 15 Oct 2025 07:33:36 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/1567e3563145) |
 | Wed, 15 Oct 2025 07:30:28 GMT | The Future of AI: Massive Models or a Swarm of Small Intelligent Agents? | Bervice | [Read More](https://medium.com/p/87b573c13295) |
 | Wed, 15 Oct 2025 07:30:27 GMT | Reconstructing a Bad Rabbit Ransomware Attack — Part 2 | Zulfianarahmi | [Read More](https://medium.com/p/7c3f1933486e) |
@@ -66,6 +82,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 05:25:31 GMT | Securing Your Smart Home | Cyber Security Research | [Read More](https://medium.com/p/23a4b28dfe6e) |
 | Wed, 15 Oct 2025 05:15:56 GMT | Why Do We Feel So Deeply, Even When It Hurts? | Jennie❣️ | [Read More](https://medium.com/p/9dec9345437d) |
 | Wed, 15 Oct 2025 05:15:21 GMT | Daily Vitamins #3 - Naked and Unashamed: The Fellowship That Heals | Ayo Sage | [Read More](https://medium.com/p/59ae7427c27f) |
+| Wed, 15 Oct 2025 05:12:26 GMT | Subdomain Takeover: The Forgotten DNS Records Hijacking Your Brand | InstaTunnel | [Read More](https://medium.com/p/25e2f2cf358d) |
 | Wed, 15 Oct 2025 05:05:38 GMT | Little-Known Tricks to Keep Windows Running Smooth After Installs | Ask IT Support | [Read More](https://medium.com/p/4d086d94e714) |
 | Wed, 15 Oct 2025 05:02:16 GMT | Intigriti Challenge 1025 — Unintended Solution Writeup | savi0r | [Read More](https://medium.com/p/b0e611890c16) |
 | Wed, 15 Oct 2025 05:01:59 GMT | How to Keep Your Crypto Private from Hackers | Farhad Ali | [Read More](https://medium.com/p/cdcfd1964eca) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 03:06:52 GMT | Blame Game — picoCTF writeups | Mahidul Haque | [Read More](https://medium.com/p/88dfa371c1ae) |
 | Wed, 15 Oct 2025 03:02:27 GMT | Pivoting, Tunneling & Port Forwarding: Practical Operator Notes from HTB Academy | mermehr | [Read More](https://medium.com/p/4736e62debca) |
 | Wed, 15 Oct 2025 03:01:31 GMT | What if one morning you woke up and everything you rely on just… stoppedd? | Sneha | [Read More](https://medium.com/p/678159830b4f) |
-| Wed, 15 Oct 2025 03:01:08 GMT | Climbing the Open Source Ladder: From Consumer to Leader | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/24d17b623fd5) |
-| Wed, 15 Oct 2025 02:56:41 GMT | 7 Password Mistakes That Hackers Love in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/97e363b6d896) |
-| Wed, 15 Oct 2025 02:54:10 GMT | YouTube is home | Flow King Zero - Flow King Jon Myers | [Read More](https://medium.com/p/f73a171dffba) |
-| Wed, 15 Oct 2025 02:52:28 GMT | Day 68- Penetration testing rules of engagement for beginners | unica 02 | [Read More](https://medium.com/p/5c0e7b5de6d9) |
-| Wed, 15 Oct 2025 02:51:15 GMT | People Thought I Was Hacking — I Was Just Automating with Python | Kuldeepkumawat | [Read More](https://medium.com/p/26e1d742bd99) |
-| Wed, 15 Oct 2025 02:32:15 GMT | The Day Code Became a Weapon: How Stuxnet Changed Everything | Jayesh M | [Read More](https://medium.com/p/29f47cce104e) |
-| Wed, 15 Oct 2025 02:31:29 GMT | Sunday Reflection: What “Deep Discipline” Really Means in the Cyber Era | Dr. Deep Pandey | [Read More](https://medium.com/p/2037e5664d6f) |
-| Wed, 15 Oct 2025 02:30:04 GMT | Security Assessment: Vulnhub Beelzebub Walkthrough | Luke Gearty | [Read More](https://medium.com/p/96c727870dd4) |
-| Wed, 15 Oct 2025 02:20:16 GMT | The Invisible Architecture: Cyberdefense in the Quantum Internet Era | Rodrigo Gutierrez | [Read More](https://medium.com/p/bac3e4c611a0) |
-| Wed, 15 Oct 2025 02:18:55 GMT | Terraform Secrets Management Best Practices: Secret Managers and Ephemeral Resources | Tiexin Guo | [Read More](https://medium.com/p/6471d4a4c889) |
-| Wed, 15 Oct 2025 02:12:22 GMT | How Public Wi-Fi Became a Hacker’s Playground — and How VPNs Like PureVPN Keep You Safe | He Byan | [Read More](https://medium.com/p/dd1437c4152f) |
-| Wed, 15 Oct 2025 01:59:23 GMT | ISO 27701:2025 — The New Era of Certifiable Privacy | Rodrigo Gutierrez | [Read More](https://medium.com/p/bd234da55120) |
-| Wed, 15 Oct 2025 01:59:16 GMT | Core Historia: A Hacker Group Shrouded in Ambiguity | RandomGPT | [Read More](https://medium.com/p/2639079e8fd3) |
-| Wed, 15 Oct 2025 01:52:31 GMT | The Great Disconnection: the twilight of Windows 10 and the new frontier of digital obsolescence | Rodrigo Gutierrez | [Read More](https://medium.com/p/2b41bf9c5255) |
-| Wed, 15 Oct 2025 01:49:17 GMT | CVE-2025–49125 — How a Pre/PostResources mount + a narrow URL pattern let me invoke a protected… | Greg K | [Read More](https://medium.com/p/678185d34d4c) |
-| Wed, 15 Oct 2025 01:47:02 GMT | The Digital Battleground: Taiwan Under Siege in the New Era of Cyber Warfare | CCD-IS | [Read More](https://medium.com/p/dbc9cb1fea05) |
-| Wed, 15 Oct 2025 01:37:24 GMT | How to Identify a Healthy and Lasting Relationship Using Maslow’s Hierarchy | Sevenqian | [Read More](https://medium.com/p/a3f149412f31) |
