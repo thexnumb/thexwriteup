@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 18:24:02 GMT | Building NetScope: The Reconnaissance Tool I Wish I Had When Learning Pentesting | Raghav Mahajan | [Read More](https://medium.com/p/7effbb701316) |
+| Wed, 15 Oct 2025 18:20:22 GMT | Building the Foundation: My Cloud-Based Detection Engineering Lab | CyberFreak | [Read More](https://medium.com/p/96cdbb99b480) |
+| Wed, 15 Oct 2025 18:13:56 GMT | The Quiet Brotherhood: Without Interference | Patrick Longton | [Read More](https://medium.com/p/a741f2d32697) |
+| Wed, 15 Oct 2025 18:12:55 GMT | I Felt Alone in a Room Full of People | Bloom with Maria | [Read More](https://medium.com/p/4ffec83150fd) |
+| Wed, 15 Oct 2025 18:11:49 GMT | How to Build Executive Buy-In for OT Cybersecurity | Cyberkech | [Read More](https://medium.com/p/514910ada97d) |
+| Wed, 15 Oct 2025 18:09:04 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 2:Attacking LSASS | Babatunde Ojo | [Read More](https://medium.com/p/7f69f10fd893) |
+| Wed, 15 Oct 2025 18:08:55 GMT | Breaking Bad: From Bin2Vec to LLM‑Powered Malware | packet maven | [Read More](https://medium.com/p/ae9fe1b0c8d3) |
+| Wed, 15 Oct 2025 18:08:17 GMT | The Lobby That Launders Terror: How a Proscribed Nigerian Terrorist Group Found Power in Washington | Otega Ogra | [Read More](https://medium.com/p/cd69bb174738) |
+| Wed, 15 Oct 2025 18:02:57 GMT | An Experiment About Criminals Hacking Websites. | jybyky | [Read More](https://medium.com/p/0df09470de85) |
+| Wed, 15 Oct 2025 18:02:24 GMT | $35,000 por un fallo en GitLab — Análisis completo de un reporte real | Gorka | [Read More](https://medium.com/p/3fe1bd5bbb00) |
+| Wed, 15 Oct 2025 18:02:14 GMT | Lookup CTF TryHackMe writeup | Telynor | [Read More](https://medium.com/p/f6b6ae9f6321) |
+| Wed, 15 Oct 2025 17:55:40 GMT | Indicator of Compromise (IOC) | Ahmed Abdelrazek | [Read More](https://medium.com/p/eb396f50ef33) |
+| Wed, 15 Oct 2025 17:48:40 GMT | How I Found a $250 XSS Bug After Losing Hope in Bug Bounty | Danish Ahmed | [Read More](https://medium.com/p/16ce5677b599) |
+| Wed, 15 Oct 2025 17:43:34 GMT | Web Uygulamaları Nasıl Çalışır? Ağdan Tarayıcıya Derinlemesine Bir Rehber | Şeyma Erol | [Read More](https://medium.com/p/6182a7a1efe1) |
+| Wed, 15 Oct 2025 17:42:55 GMT | 18 HTML Lists and Menus | Rana Awais | [Read More](https://medium.com/p/fd8ca85090c7) |
+| Wed, 15 Oct 2025 17:42:54 GMT | Siber Güvenlik 101 — WEB PENTEST ‘e Dair Her Şey | Sude Çoban | [Read More](https://medium.com/p/fab8ad12be36) |
+| Wed, 15 Oct 2025 17:40:03 GMT | Getting Started with Bash Scripting — Automate Everything Like a Pro | Asif.k | [Read More](https://medium.com/p/ed27f76940ea) |
+| Wed, 15 Oct 2025 17:38:56 GMT | How to get Started with Back-end Development | TechyJaunt | [Read More](https://medium.com/p/d04cd1fb9c7c) |
+| Wed, 15 Oct 2025 17:38:03 GMT | 17 HTML Links and Navigation | Rana Awais | [Read More](https://medium.com/p/c3d1b0be94ce) |
+| Wed, 15 Oct 2025 17:36:29 GMT | Is 10G Ethernet Overkill for Home Setups in 2025? | Faizan Saghir | [Read More](https://medium.com/p/de2fb6e59f45) |
+| Wed, 15 Oct 2025 17:36:17 GMT | Kali GPT — The Intelligent Assistant Designed for Kali Linux Users | Cybersectoworld | [Read More](https://medium.com/p/7509925eb8e7) |
+| Wed, 15 Oct 2025 17:35:35 GMT | iPhone 5S Comparison Guide: Every Model Feature Breakdown | Maya Thompson | [Read More](https://medium.com/p/03cd65f199b1) |
 | Wed, 15 Oct 2025 17:34:55 GMT | 16 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/78d51754a600) |
 | Wed, 15 Oct 2025 17:21:48 GMT | The Importance of Cybersecurity in Dallas Web Development | Creasions Digital | [Read More](https://medium.com/p/86c323003b8c) |
 | Wed, 15 Oct 2025 17:10:56 GMT | How I Used RLAIF to Turn a Physics Model into a Scientific Reasoner locally with Ollama | Suraj Kumar | [Read More](https://medium.com/p/b491eb17c06c) |
@@ -94,25 +116,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 13:11:50 GMT | Even Therapists Get Manipulated: A Wake-Up Call for Protecting Your Marriage | Jeff Murrah, LPC, LCDC, CMNCS | [Read More](https://medium.com/p/18335c2ff096) |
 | Wed, 15 Oct 2025 13:11:20 GMT | Title: Behind the Screens: The Human Toll of Digital Voyeurism and Stalkerware | Internet Exposed | [Read More](https://medium.com/p/7e1f1cf09476) |
 | Wed, 15 Oct 2025 13:11:01 GMT | She Shares a Problem, You Offer a Solution. You Just Failed Her Test. | The Mind Decoder | [Read More](https://medium.com/p/7323143709ce) |
-| Wed, 15 Oct 2025 13:06:01 GMT | How I Turned a Simple Python Script Into Profit | Ibtissam hammadi | [Read More](https://medium.com/p/8bf7f0db4652) |
-| Wed, 15 Oct 2025 13:04:57 GMT | Strengthen Your Cybersecurity with StrongBox IT’s Expert Penetration Testing Services | StrongBox IT | [Read More](https://medium.com/p/131444e03388) |
-| Wed, 15 Oct 2025 13:01:16 GMT | New Models in Gaming Panel Session at TOKEN2049 Singapore 2025 | Victoran | [Read More](https://medium.com/p/b5c8ead94fdb) |
-| Wed, 15 Oct 2025 13:01:03 GMT | ProtoVault Breach Forensics Challenge Offsec CTF Week 1 | Shaheer Yasir | [Read More](https://medium.com/p/3baca49f556d) |
-| Wed, 15 Oct 2025 12:58:25 GMT | What Now? | Danny | [Read More](https://medium.com/p/c00e2852450f) |
-| Wed, 15 Oct 2025 12:51:23 GMT | EU General Data Protection Regulation (GDPR): A Complete Compliance Guide | QualysecEurope | [Read More](https://medium.com/p/697e0ec8b700) |
-| Wed, 15 Oct 2025 12:49:55 GMT | The Free Wi-Fi That Almost Cost Me Everything: | Ayobami Oshodi | [Read More](https://medium.com/p/ebb1cba27a36) |
-| Wed, 15 Oct 2025 12:43:26 GMT | From IT Support to Cybersecurity Powerhouse: How MSPs Can Win with Security-First Services | HashRoot DM | [Read More](https://medium.com/p/5bc63012b363) |
-| Wed, 15 Oct 2025 12:40:26 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/2127117fb102) |
-| Wed, 15 Oct 2025 12:40:12 GMT | Refresh Token Revoke Chain: Güvenli Token Döngüsünün Temelleri | Furkan Baybostan | [Read More](https://medium.com/p/af21db889eec) |
-| Wed, 15 Oct 2025 12:32:23 GMT | Cyber Safety Unleashed: Protecting Your Digital World from Hidden Threats | Souhard Rattan | [Read More](https://medium.com/p/6ec58ce6b281) |
-| Wed, 15 Oct 2025 12:26:21 GMT | Flutter Loglarında Gizli Bilgileri Koruma | Meryem | [Read More](https://medium.com/p/1fd84335f895) |
-| Wed, 15 Oct 2025 12:24:35 GMT | Master Cybersecurity Course | Molletibalu | [Read More](https://medium.com/p/5c90b76df425) |
-| Wed, 15 Oct 2025 12:23:33 GMT | Kryptos K4: A Reproducible Two-Step Decryption (With Code & Proof) | SquareCloudSequence | [Read More](https://medium.com/p/7e56694c5d49) |
-| Wed, 15 Oct 2025 12:23:27 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/1a076cf03ab0) |
-| Wed, 15 Oct 2025 12:18:07 GMT | My Next Chapter: Becoming a Cybersecurity Researcher & Bug Bounty Hunter | Ethivolt | [Read More](https://medium.com/p/027fe8796687) |
-| Wed, 15 Oct 2025 12:13:56 GMT | Drosera: Revolutionizing Web3 Security Through Decentralized Automation | Divineegbunu | [Read More](https://medium.com/p/e914cf4471dc) |
-| Wed, 15 Oct 2025 12:10:21 GMT | ICMP Tunneling: Build a Lab from scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/e48a1446d268) |
-| Wed, 15 Oct 2025 12:09:08 GMT | AI in Cybersecurity Careers: How Not to Be Replaced! | Ryan Cronin | [Read More](https://medium.com/p/d56cc97f4818) |
-| Wed, 15 Oct 2025 12:07:17 GMT | Organizations are not trying to understand the incoming threats; they know when it’s too late. | Imran Niaz | [Read More](https://medium.com/p/4e225a6a5188) |
-| Wed, 15 Oct 2025 12:06:46 GMT | The Rise of AI in Cybersecurity: Friend or Foe? | Jay C Roberts | [Read More](https://medium.com/p/fd1df86cc606) |
-| Wed, 15 Oct 2025 12:05:49 GMT | OWASP Top Ten #4 - Insecure Design Zafiyeti | Berat Çam | [Read More](https://medium.com/p/742052da9256) |
