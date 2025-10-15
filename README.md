@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 10:11:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/a85e662734ca) |
+| Wed, 15 Oct 2025 10:09:52 GMT | Bashed — Hackthebox Writeup | Zerzex | [Read More](https://medium.com/p/cdb596f1f741) |
+| Wed, 15 Oct 2025 10:07:45 GMT | Digital Shield: Ushering in a New Era for Your Digital Assets with Military-Grade Security | Digital Shield | [Read More](https://medium.com/p/6fc4a5db250a) |
+| Wed, 15 Oct 2025 10:07:22 GMT | The Rise of Cybercrime-as-a-Service: How Hacking Became a Subscription Business | Cyber Defender | [Read More](https://medium.com/p/5a26ea745d09) |
+| Wed, 15 Oct 2025 10:05:47 GMT | Basic Server-side template injection (SSTI) Pentesting | Md. Raihan | [Read More](https://medium.com/p/4b7286f26d02) |
+| Wed, 15 Oct 2025 10:04:39 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/2ccfce83ee3c) |
+| Wed, 15 Oct 2025 10:03:14 GMT | Is Your AI Thinking? | Berend Watchus | [Read More](https://medium.com/p/7b4e30b0ccdb) |
+| Wed, 15 Oct 2025 10:00:34 GMT | The CloudifyOps Agentic AI Transformation in MSO | CloudifyOps | [Read More](https://medium.com/p/541efcbf5b07) |
+| Wed, 15 Oct 2025 09:59:57 GMT | DockerLabs Writeup — PingCTF (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7ccd512722d3) |
+| Wed, 15 Oct 2025 09:55:09 GMT | Re-Writing the Playbook — A detection-driven approach to Incident Response | Rcegan | [Read More](https://medium.com/p/5269e2eb33ca) |
+| Wed, 15 Oct 2025 09:54:27 GMT | 6 Hidden Data Blindspots Killing Your Business Intelligence Solutions (And What To Do About Them) | Trust Consulting Services | [Read More](https://medium.com/p/0cdb5be81f19) |
+| Wed, 15 Oct 2025 09:52:38 GMT | Reshaping the Self-Custody Boundary: How Digital Shield Defines the Future of Web3 Security with… | Digital Shield Offcial | [Read More](https://medium.com/p/5bd2c8f16db5) |
+| Wed, 15 Oct 2025 09:52:12 GMT | Quantum Computing: The Next Frontier in IT Innovation | Sourav Ghatak | [Read More](https://medium.com/p/3ae8edd8ef27) |
+| Wed, 15 Oct 2025 09:50:59 GMT | Smart Living: How PGs Are Adopting Tech for Security and Comfort | Letwizard Technologies | [Read More](https://medium.com/p/6a21d0ba94ed) |
+| Wed, 15 Oct 2025 09:50:24 GMT | IDOR in Organization Members API Allows Unauthorized Access to Other Organizations’ Member Metadata | Abdurrahman Shawqi Shehata | [Read More](https://medium.com/p/2201636f9b47) |
+| Wed, 15 Oct 2025 09:46:52 GMT | Flags on the Field: Tackling Poor Etiquette in the Corporate Endzone | Namir Sagheenanajar | [Read More](https://medium.com/p/2c1b8d0bca01) |
+| Wed, 15 Oct 2025 09:39:35 GMT | What is Cybersecurity? | Nway Nway Zay Ya | [Read More](https://medium.com/p/fabc34156d10) |
+| Wed, 15 Oct 2025 09:35:19 GMT | The Ultimate Guide to Web3 Asset Security: How Digital Shield Masters the Multi-Chain Future with… | Digital Shield Offcial | [Read More](https://medium.com/p/7b1a524909a4) |
 | Wed, 15 Oct 2025 09:32:14 GMT | Fast Node Uploads: The Real-World Playbook | Nexumo | [Read More](https://medium.com/p/d7d8e12f1cec) |
 | Wed, 15 Oct 2025 09:21:39 GMT | The Python Projects That Launched My Career (And Made Money) | Rocky | [Read More](https://medium.com/p/e4f6b3c450ad) |
 | Wed, 15 Oct 2025 09:12:53 GMT | Golden Ticket attack for beginners | SeverSerenity | [Read More](https://medium.com/p/eb7280c555ca) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 06:08:24 GMT | Is Paying for Windows 10 Extended Security Updates Worth It | Morgan Davis | [Read More](https://medium.com/p/7b6e5ecf0061) |
 | Wed, 15 Oct 2025 06:06:23 GMT | Cybersecurity in African Fintech — Real Threats and How Startups Can Prepare | Paulnkingwa | [Read More](https://medium.com/p/591210c481b0) |
 | Wed, 15 Oct 2025 06:03:38 GMT | Suquelish Ropojik Udarg Knights | Marc Matthew Mason | [Read More](https://medium.com/p/fe8032581810) |
-| Wed, 15 Oct 2025 06:03:27 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/000042ca8c06) |
-| Wed, 15 Oct 2025 06:03:00 GMT | How Can IT Teams Simplify Large-Scale Teams to Teams Migration? | Arun Jyothi | [Read More](https://medium.com/p/43ea3399aa95) |
-| Wed, 15 Oct 2025 06:00:42 GMT | Pixnapping Attack: How Hackers Can Steal Your 2FA Codes on Android | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/770a65f3f43c) |
-| Wed, 15 Oct 2025 05:57:34 GMT | 10 Facts About Hacking Everyone Should Know | Shivakshi Rawat | [Read More](https://medium.com/p/28610155d0ed) |
-| Wed, 15 Oct 2025 05:56:12 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/190991b4fcba) |
-| Wed, 15 Oct 2025 05:53:23 GMT | The Hidden Loneliness of People Who Seem Perfect | Sumin LEE | [Read More](https://medium.com/p/fdb6e8127033) |
-| Wed, 15 Oct 2025 05:51:04 GMT | How a Curious Sunday Turned Into a Pharmacy App Hack Story | Ahmad Bilal | [Read More](https://medium.com/p/2a4cd596e766) |
-| Wed, 15 Oct 2025 05:49:25 GMT | Intigriti Challenge 1025 — Unintended Solution Writeup | savi0r | [Read More](https://medium.com/p/92ac5c9d425e) |
-| Wed, 15 Oct 2025 05:38:34 GMT | Falling Off the Security Cliff: The End of Windows 10 Era | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/d303707d6575) |
-| Wed, 15 Oct 2025 05:37:36 GMT | Ciater265 - Ruang Digital untuk Kreativitas dan Inspirasi Baru | Ciater265 | [Read More](https://medium.com/p/d8279a8cc552) |
-| Wed, 15 Oct 2025 05:36:00 GMT | Pennco Tech: Your Full Guide to Hands-On Career Training | Elite Aneesa999 | [Read More](https://medium.com/p/074a2a154360) |
-| Wed, 15 Oct 2025 05:31:46 GMT | How to Find Your First High-Impact Vulnerability (Without Relying on XSS) | Andrei Ivan | [Read More](https://medium.com/p/de3fdb73f182) |
-| Wed, 15 Oct 2025 05:29:00 GMT | Your Fintech App Is One Rooted Phone Away from Disaster — Fix It Now | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/c19ae6b52916) |
-| Wed, 15 Oct 2025 05:26:52 GMT | Secure Communication for Financial Institutions with Data Encryption | Aao Chat | [Read More](https://medium.com/p/760718089bde) |
-| Wed, 15 Oct 2025 05:25:31 GMT | Securing Your Smart Home | Cyber Security Research | [Read More](https://medium.com/p/23a4b28dfe6e) |
-| Wed, 15 Oct 2025 05:15:56 GMT | Why Do We Feel So Deeply, Even When It Hurts? | Jennie❣️ | [Read More](https://medium.com/p/9dec9345437d) |
-| Wed, 15 Oct 2025 05:15:21 GMT | Daily Vitamins #3 - Naked and Unashamed: The Fellowship That Heals | Ayo Sage | [Read More](https://medium.com/p/59ae7427c27f) |
-| Wed, 15 Oct 2025 05:12:26 GMT | Subdomain Takeover: The Forgotten DNS Records Hijacking Your Brand | InstaTunnel | [Read More](https://medium.com/p/25e2f2cf358d) |
