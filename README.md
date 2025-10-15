@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 14:45:05 GMT | What World-Class Ethical Hacking Looks Like | ED-360 AFRICA | [Read More](https://medium.com/p/b89d007a2be2) |
+| Wed, 15 Oct 2025 14:38:41 GMT | When “--no-sandbox” Locked Me Out of Ubuntu | Jishnu J P | [Read More](https://medium.com/p/c60f7d27298f) |
+| Wed, 15 Oct 2025 14:37:38 GMT | The $440,000 Architecture Mistake: Why Deloitte’s AI Failed (And How to Prevent It) | Nwosu Rosemary | [Read More](https://medium.com/p/aca2f5ef8823) |
+| Wed, 15 Oct 2025 14:33:39 GMT | Google DeepMind’s New AI Agent Finds and Fixes Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/5573777d6619) |
+| Wed, 15 Oct 2025 14:33:36 GMT | Cybersecurity Awareness Month 2025: Deepfake Phishing, Human Risk, and the New Front Line
+Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
+| Wed, 15 Oct 2025 14:27:14 GMT | Dark Side of Archives - Using WinRAR as a Red Team Tool | Matin Mahmoudi | [Read More](https://medium.com/p/122bbc493ad2) |
+| Wed, 15 Oct 2025 14:24:48 GMT | Ready to punch the hacker in the face? | Potech | [Read More](https://medium.com/p/8ac97948748d) |
+| Wed, 15 Oct 2025 14:23:26 GMT | TechEx 2025: security on a PIN code | 0trust0day | [Read More](https://medium.com/p/4a7436395718) |
+| Wed, 15 Oct 2025 14:22:57 GMT | How Corporate Security Teams Can Combat AI-Generated Phishing Using OSINT | Rishisec | [Read More](https://medium.com/p/3f6c7db9bd8a) |
+| Wed, 15 Oct 2025 14:11:51 GMT | Stop People-Pleasing: Embrace Authenticity and Reclaim Your Joy | Misass | [Read More](https://medium.com/p/b523cf319f16) |
 | Wed, 15 Oct 2025 14:09:16 GMT | Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Critical Cybersecurity Mistakes | Very Lazy Tech | [Read More](https://medium.com/p/fbd5cb09df6a) |
 | Wed, 15 Oct 2025 14:09:10 GMT | Why Hackers Love Docker? | Shahzaib | [Read More](https://medium.com/p/a5d5e0bc0be1) |
 | Wed, 15 Oct 2025 14:07:01 GMT | Protect Data Right From the Frontend | Skapi | [Read More](https://medium.com/p/d9ca822f742b) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 09:52:38 GMT | Reshaping the Self-Custody Boundary: How Digital Shield Defines the Future of Web3 Security with… | Digital Shield Offcial | [Read More](https://medium.com/p/5bd2c8f16db5) |
 | Wed, 15 Oct 2025 09:52:12 GMT | Quantum Computing: The Next Frontier in IT Innovation | Sourav Ghatak | [Read More](https://medium.com/p/3ae8edd8ef27) |
 | Wed, 15 Oct 2025 09:50:59 GMT | Smart Living: How PGs Are Adopting Tech for Security and Comfort | Letwizard Technologies | [Read More](https://medium.com/p/6a21d0ba94ed) |
-| Wed, 15 Oct 2025 09:50:24 GMT | IDOR in Organization Members API Allows Unauthorized Access to Other Organizations’ Member Metadata | Abdurrahman Shawqi Shehata | [Read More](https://medium.com/p/2201636f9b47) |
-| Wed, 15 Oct 2025 09:46:52 GMT | Flags on the Field: Tackling Poor Etiquette in the Corporate Endzone | Namir Sagheenanajar | [Read More](https://medium.com/p/2c1b8d0bca01) |
-| Wed, 15 Oct 2025 09:39:35 GMT | What is Cybersecurity? | Nway Nway Zay Ya | [Read More](https://medium.com/p/fabc34156d10) |
-| Wed, 15 Oct 2025 09:35:19 GMT | The Ultimate Guide to Web3 Asset Security: How Digital Shield Masters the Multi-Chain Future with… | Digital Shield Offcial | [Read More](https://medium.com/p/7b1a524909a4) |
-| Wed, 15 Oct 2025 09:32:14 GMT | Fast Node Uploads: The Real-World Playbook | Nexumo | [Read More](https://medium.com/p/d7d8e12f1cec) |
-| Wed, 15 Oct 2025 09:21:39 GMT | The Python Projects That Launched My Career (And Made Money) | Rocky | [Read More](https://medium.com/p/e4f6b3c450ad) |
-| Wed, 15 Oct 2025 09:12:53 GMT | Golden Ticket attack for beginners | SeverSerenity | [Read More](https://medium.com/p/eb7280c555ca) |
-| Wed, 15 Oct 2025 09:12:41 GMT | Cyber sicurezza aziendale: cosa cambia con la NIS2 e come muoversi con consapevolezza. | Filomena Ferraioli | [Read More](https://medium.com/p/b39a1662a27d) |
-| Wed, 15 Oct 2025 09:06:12 GMT | Vulnhub Funbox2 Walkthrough | cyber pancake | [Read More](https://medium.com/p/f8894c7c9c0c) |
-| Wed, 15 Oct 2025 09:02:28 GMT | How Co-Managed IT Helps UK SMEs Scale Without Replacing Their IT Teams? | Umar Waseem | [Read More](https://medium.com/p/585537158a4a) |
