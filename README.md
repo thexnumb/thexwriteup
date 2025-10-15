@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 21:13:58 GMT | Day 1 — Setting the Ground for a 30-Day VAPT Sprint | Krushna Uday Shinde | [Read More](https://medium.com/p/fef91e0d8015) |
+| Wed, 15 Oct 2025 21:11:41 GMT | 30 Days to VAPT: My Hands-On Security Journey Across Tech Stacks | Krushna Uday Shinde | [Read More](https://medium.com/p/0496905b86fb) |
+| Wed, 15 Oct 2025 20:40:00 GMT | Observations from Recent True Positive Alerts | Hariharan | [Read More](https://medium.com/p/708c17d52148) |
+| Wed, 15 Oct 2025 20:37:13 GMT | Beyond Passwords: Building Autonomous Identity Infrastructure for the Future Enterprise | Deepak Gupta | [Read More](https://medium.com/p/b49e52887114) |
 | Wed, 15 Oct 2025 20:35:53 GMT | The Best Home Security Cameras We’ve Tested for 2025 | Tech Hub | [Read More](https://medium.com/p/cdb6c7eb8fa2) |
 | Wed, 15 Oct 2025 20:31:49 GMT | That Unlocked Phone Is Basically an Open Diary | Samirah A.O | [Read More](https://medium.com/p/740a9afe4cf4) |
 | Wed, 15 Oct 2025 20:28:05 GMT | Securing Web Applications | Kunal Khushalani | [Read More](https://medium.com/p/a39a4c1b4b39) |
@@ -111,7 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 14:51:38 GMT | AI and Cybersecurity: Can it replace the human element in Security Architecture Reviews? | FactSet | [Read More](https://medium.com/p/6019bf73abbf) |
 | Wed, 15 Oct 2025 14:50:37 GMT | The Future is Now: Exploring the Next Wave of Emerging Technologies in 2025 | Zunair | [Read More](https://medium.com/p/4e242ccb4c3f) |
 | Wed, 15 Oct 2025 14:50:15 GMT | DevSecOps and SRE: A United Front | SRE Mastery | [Read More](https://medium.com/p/9a26263b5002) |
-| Wed, 15 Oct 2025 14:45:05 GMT | What World-Class Ethical Hacking Looks Like | ED-360 AFRICA | [Read More](https://medium.com/p/b89d007a2be2) |
-| Wed, 15 Oct 2025 14:41:20 GMT | Siber Güvenlik 101 — İnternetin ve Web Uygulamalarının İşleyişini Anlamak | Sude Çoban | [Read More](https://medium.com/p/fa34279dc08b) |
-| Wed, 15 Oct 2025 14:38:41 GMT | When “--no-sandbox” Locked Me Out of Ubuntu | Jishnu J P | [Read More](https://medium.com/p/c60f7d27298f) |
-| Wed, 15 Oct 2025 14:37:38 GMT | The $440,000 Architecture Mistake: Why Deloitte’s AI Failed (And How to Prevent It) | Nwosu Rosemary | [Read More](https://medium.com/p/aca2f5ef8823) |
