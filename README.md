@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 03:40:12 GMT | Why a Modern Data Resilience Strategy Is the Future of Business in Ontario | Tycoonstories | [Read More](https://medium.com/p/8fee0d497cf7) |
+| Wed, 15 Oct 2025 03:32:52 GMT | Password Leak 2025: Are Your Accounts Truly Safe | Neova Solutions | [Read More](https://medium.com/p/bbf4f954194b) |
+| Wed, 15 Oct 2025 03:32:52 GMT | QUIC-LEAK (CVE-2025–54939): The Subtle Flaw That Could Take Your Website Offline | Deven Chhajed | [Read More](https://medium.com/p/859825b3637d) |
+| Wed, 15 Oct 2025 03:31:15 GMT | When Quantum Supremacy Hits, Privacy Dies Overnight | Abhinav Misra | [Read More](https://medium.com/p/d7da690a1e5d) |
+| Wed, 15 Oct 2025 03:29:20 GMT | How Hackers Really Steal Your Gmail in 3 Steps | Rizqi Mulki | [Read More](https://medium.com/p/58a2d846b4e2) |
+| Wed, 15 Oct 2025 03:28:38 GMT | Cybersecurity Best Practices | Mark Thompson | [Read More](https://medium.com/p/46a2e3fa7b46) |
+| Wed, 15 Oct 2025 03:27:01 GMT | Behind Shared Accounts: How We Really Share Our Passwords | Andy Afrizal | [Read More](https://medium.com/p/90460044c613) |
+| Wed, 15 Oct 2025 03:18:08 GMT | When AI Becomes the Attacker: How to Defend What You Can’t Always See | ThreatLens byGurdeep | [Read More](https://medium.com/p/bf0ea280be20) |
+| Wed, 15 Oct 2025 03:06:52 GMT | Blame Game — picoCTF writeups | Mahidul Haque | [Read More](https://medium.com/p/88dfa371c1ae) |
+| Wed, 15 Oct 2025 03:02:27 GMT | Pivoting, Tunneling & Port Forwarding: Practical Operator Notes from HTB Academy | mermehr | [Read More](https://medium.com/p/4736e62debca) |
+| Wed, 15 Oct 2025 03:01:31 GMT | What if one morning you woke up and everything you rely on just… stoppedd? | Sneha | [Read More](https://medium.com/p/678159830b4f) |
 | Wed, 15 Oct 2025 03:01:08 GMT | Climbing the Open Source Ladder: From Consumer to Leader | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/24d17b623fd5) |
 | Wed, 15 Oct 2025 02:56:41 GMT | 7 Password Mistakes That Hackers Love in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/97e363b6d896) |
 | Wed, 15 Oct 2025 02:54:10 GMT | YouTube is home | Flow King Zero - Flow King Jon Myers | [Read More](https://medium.com/p/f73a171dffba) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 19:02:17 GMT | The Open-Source SOC: Building a Scalable Detection Engineering Platform with Docker | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/473561c2a95f) |
 | Tue, 14 Oct 2025 19:00:44 GMT | Reliability in the Cloud: Shared Responsibility | SRE Mastery | [Read More](https://medium.com/p/3ed42b32d0ba) |
 | Tue, 14 Oct 2025 19:00:44 GMT | My Journey As a Red Teamer | Inayat Hussain | [Read More](https://medium.com/p/a5826f2cd31d) |
-| Tue, 14 Oct 2025 18:57:38 GMT | Common Cybersecurity Mistakes and How to Avoid Them: A 2025 Practical Guide | JSOC IT BLOG | [Read More](https://medium.com/p/77c75958c971) |
-| Tue, 14 Oct 2025 18:55:24 GMT | ⚡ Flash USDT: Useful Concept — Dangerous When Weaponized | Crypto Savvy | [Read More](https://medium.com/p/94b33873da89) |
-| Tue, 14 Oct 2025 18:54:36 GMT | Security as a Reliability Feature | SRE Mastery | [Read More](https://medium.com/p/3a48b567b999) |
-| Tue, 14 Oct 2025 18:51:48 GMT | The Brutal Truth About Cybersecurity No One Tells You (Yes, That Includes You) | Shaikh Minhaz | [Read More](https://medium.com/p/fa6eba775f9b) |
-| Tue, 14 Oct 2025 18:51:16 GMT | 4 vulnerabilidades reales en Google OAuth — análisis técnico paso a paso | Gorka | [Read More](https://medium.com/p/26e6d8ac1b90) |
-| Tue, 14 Oct 2025 18:49:36 GMT | The #1 Sign Your Cybersecurity Skills Are Outdated | Taimur Ijlal | [Read More](https://medium.com/p/a2e055988a30) |
-| Tue, 14 Oct 2025 18:47:17 GMT | Mailfence vs. Proton Mail: A Friendly Guide to Privacy-Focused Email Services | GearTickler | [Read More](https://medium.com/p/bbbb81e1bb3e) |
-| Tue, 14 Oct 2025 18:39:17 GMT | OSI Model (core of networking) | Fasieha Mehar | [Read More](https://medium.com/p/b758ded4059d) |
-| Tue, 14 Oct 2025 18:33:23 GMT | Find Critical Vulnerabilities: My 7-Minute Bug Bounty Workflow | Ibtissam hammadi | [Read More](https://medium.com/p/2dd75f8707cd) |
-| Tue, 14 Oct 2025 18:26:29 GMT | NIST 800–171 Made Simple: A Practical Guide for Businesses Working with the DoD | Olivier Maignan | [Read More](https://medium.com/p/20db089982a1) |
-| Tue, 14 Oct 2025 18:21:16 GMT | How I Found “CVE-2025–4123” in Grafana Using FOFA (and Got a Bounty | A0X_Trojan | [Read More](https://medium.com/p/a21a00d477a8) |
