@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 07:13:19 GMT | Investigating Malware with Wireshark — Network Traffic Analysis | Adeleke Theophilus O | [Read More](https://medium.com/p/451263f99ac0) |
+| Wed, 15 Oct 2025 07:00:11 GMT | The Daily Tech Digest: 15 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/361abcdceecc) |
+| Wed, 15 Oct 2025 06:57:44 GMT | The Growing Importance of Security Guard Services: Ensuring Safety Across India | Ciss India | [Read More](https://medium.com/p/56b61811e88e) |
+| Wed, 15 Oct 2025 06:56:48 GMT | Cybersecurity road-map | regular joe | [Read More](https://medium.com/p/cbc55ef8b58c) |
+| Wed, 15 Oct 2025 06:51:45 GMT | Hackers Exploit ICTBroadcast Cookie Flaw to Gain Remote Shell Access: What You Need to Know | Germano Costi | [Read More](https://medium.com/p/9d862485386e) |
+| Wed, 15 Oct 2025 06:51:37 GMT | Why SOM Matters More Than TAM: MVP Experiments to Validate Your Target Market | Yaseenmd | [Read More](https://medium.com/p/972f80119566) |
+| Wed, 15 Oct 2025 06:50:22 GMT | Reconstructing a Bad Rabbit Ransomware Attack — Part 1 | Zulfianarahmi | [Read More](https://medium.com/p/741a28ba0b6a) |
+| Wed, 15 Oct 2025 06:50:06 GMT | Why Privacy Certification Is Finally Getting Its Due: Thoughts on ISO/IEC 27701:2025 and 27706:2025 | Aviral Jain | [Read More](https://medium.com/p/5ad5a3384071) |
+| Wed, 15 Oct 2025 06:48:18 GMT | Port 5601 Exposed: How Kibana Grants Attackers Data, Keys, and Long-Lived Access | Very Lazy Tech | [Read More](https://medium.com/p/f9ba5cd058a8) |
+| Wed, 15 Oct 2025 06:44:43 GMT | How Security Doors Are Evolving with Advanced Technology in 2025 | Brisbane Security Screens | [Read More](https://medium.com/p/3f5c14eb999e) |
+| Wed, 15 Oct 2025 06:43:14 GMT | Why Managed Security Services Are a Smart Investment for Your Business | Globtier Infotech | [Read More](https://medium.com/p/53ff922f9839) |
+| Wed, 15 Oct 2025 06:40:29 GMT | What Are the Common Challenges Ethical Hackers Face? | Eliana | [Read More](https://medium.com/p/310581601c98) |
+| Wed, 15 Oct 2025 06:37:15 GMT | The Internet Is Getting Smarter Than Us — and That’s the Real Cyber Threat | Recover Right | [Read More](https://medium.com/p/0f01894e1638) |
+| Wed, 15 Oct 2025 06:34:59 GMT | Breaking Barriers: Women Shaping the Future of Cybersecurity in Georgia | Elene Samsiani | [Read More](https://medium.com/p/9b37fae6dea2) |
+| Wed, 15 Oct 2025 06:34:09 GMT | Solution for Intigriti Challenge 1025 | Ambush Neupane | [Read More](https://medium.com/p/3ecc9c7e11db) |
+| Wed, 15 Oct 2025 06:33:31 GMT | How Predictive Analytics Are Shaping the Future of Cyber Security | Renaissance Computer Services Limited | [Read More](https://medium.com/p/a0dbb7f3d977) |
+| Wed, 15 Oct 2025 06:33:11 GMT | Adversarial AI: How Hackers Are Using AI to Bypass Your Security Measures | Himanshu Kumar | [Read More](https://medium.com/p/bbecfbbd480c) |
+| Wed, 15 Oct 2025 06:32:26 GMT | Is Ethical Hacking a Good Career? | cyber security Updates | [Read More](https://medium.com/p/d72b24419de3) |
+| Wed, 15 Oct 2025 06:31:52 GMT | What Security Risks Will You Face If You Keep Using Windows 10 | hasib | [Read More](https://medium.com/p/9ca84d250573) |
+| Wed, 15 Oct 2025 06:31:16 GMT | RAG(Retrieval-Augmented Generation) and Its Cyber Defence Strategies | Akanksha | [Read More](https://medium.com/p/85260cf5c3ca) |
 | Wed, 15 Oct 2025 06:22:35 GMT | Top Password Chrome Extensions to Boost Your Online Security | Creole Studios | [Read More](https://medium.com/p/6665c241168e) |
 | Wed, 15 Oct 2025 06:21:41 GMT | The Lie of Security: Playing Safe Is the Riskiest Move of All | Activefaq ️ | [Read More](https://medium.com/p/e1c73da58957) |
 | Wed, 15 Oct 2025 06:20:36 GMT | ประจำวันพุธที่ 15 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7b1c24d21ad4) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 00:59:51 GMT | Cybersecurity Threats in Loan Applications | Sharon Ureh Odu | [Read More](https://medium.com/p/9b2fca869b94) |
 | Wed, 15 Oct 2025 00:57:19 GMT | Title: Coding Without Cybersecurity? You’re Building a House of Cards. | Nimra Ismail | [Read More](https://medium.com/p/b0997bcbd098) |
 | Wed, 15 Oct 2025 00:48:35 GMT | How QR Codes Became Game-Changers in the Trump-Kamala Election Battle | Nathaniel Langley | [Read More](https://medium.com/p/0c11642ba6d9) |
-| Wed, 15 Oct 2025 00:17:20 GMT | Drosera: The Hand That Makes Ethereum Think | H | [Read More](https://medium.com/p/1288da5839af) |
-| Wed, 15 Oct 2025 00:12:46 GMT | Web App Pentesting Basics | Paul | [Read More](https://medium.com/p/c8dde4b199c9) |
-| Wed, 15 Oct 2025 00:07:50 GMT | From SSRF to RCE: intigriti/Challenge 1025 | alejandro | [Read More](https://medium.com/p/5a12d866db11) |
-| Wed, 15 Oct 2025 00:03:34 GMT | 5 Surprising Truths Your Wi-Fi Is Broadcasting to Everyone | Youssef Mohammed | [Read More](https://medium.com/p/16c12a04b8f8) |
-| Wed, 15 Oct 2025 00:02:16 GMT | Mastering Naabu: A fast port scanner for bug hunting | JPablo13 | [Read More](https://medium.com/p/9a0020abfdf1) |
-| Wed, 15 Oct 2025 00:02:15 GMT | How to Rank #1 SO Fast People Think You Hacked Google | Mike Schlottig | [Read More](https://medium.com/p/101ed2eed741) |
-| Tue, 14 Oct 2025 23:57:18 GMT | Cybersecurity vs. AI: Navigating the Digital Battlefield | Mainekhacker | [Read More](https://medium.com/p/2e5d5d110462) |
-| Tue, 14 Oct 2025 23:57:06 GMT | $6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer | Monika sharma | [Read More](https://medium.com/p/d1d261bd35af) |
-| Tue, 14 Oct 2025 23:57:02 GMT | Have You Been Hacked? Advanced Detection Methods That Actually Work | Shahzaib | [Read More](https://medium.com/p/f87355b2b1df) |
-| Tue, 14 Oct 2025 23:56:02 GMT | Cybersecurity Risks Darkweb: What Every Researcher Should Know | Tor BBB | [Read More](https://medium.com/p/a0ac25bd6b68) |
-| Tue, 14 Oct 2025 23:53:31 GMT | I Rolled Out Okta for 125+ Users Here Are 5 Lessons I Learned | Luispuello | [Read More](https://medium.com/p/547926bb7628) |
-| Tue, 14 Oct 2025 23:31:34 GMT | How I Hacked Proton VPN and Got Paid | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/501a9eee39c9) |
-| Tue, 14 Oct 2025 23:23:28 GMT | How to build a bank p6: The Core: initial setup | Logan Elkins | [Read More](https://medium.com/p/539116ca552c) |
-| Tue, 14 Oct 2025 22:57:13 GMT | Is Blazer Browser Malware? The Truth About Its Safety and Security | Christian Anderson | [Read More](https://medium.com/p/ff3b41997f71) |
-| Tue, 14 Oct 2025 22:51:11 GMT | Remote CCTV Monitoring Timeline | Visual Monitoring Solutions | [Read More](https://medium.com/p/984e465c3b40) |
-| Tue, 14 Oct 2025 22:39:20 GMT | How Unmonitored JavaScript Steals Customer Data | Cyber-AppSec | [Read More](https://medium.com/p/1d3bacc73ccc) |
-| Tue, 14 Oct 2025 22:37:01 GMT | Rewiring the Streetlight: How to Listen to the Web Without Making Noise | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/abe664d6dfc0) |
-| Tue, 14 Oct 2025 22:25:36 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 2) | Andrii Shyshenko | [Read More](https://medium.com/p/d9e07b2f696a) |
-| Tue, 14 Oct 2025 22:19:26 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 1) | Andrii Shyshenko | [Read More](https://medium.com/p/0c0818b9e9ca) |
-| Tue, 14 Oct 2025 21:51:28 GMT | Mastering Seccomp Filters in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/aa9c13c9fc54) |
