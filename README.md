@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 09:32:14 GMT | Fast Node Uploads: The Real-World Playbook | Nexumo | [Read More](https://medium.com/p/d7d8e12f1cec) |
 | Wed, 15 Oct 2025 09:21:39 GMT | The Python Projects That Launched My Career (And Made Money) | Rocky | [Read More](https://medium.com/p/e4f6b3c450ad) |
 | Wed, 15 Oct 2025 09:12:53 GMT | Golden Ticket attack for beginners | SeverSerenity | [Read More](https://medium.com/p/eb7280c555ca) |
+| Wed, 15 Oct 2025 09:12:41 GMT | Cyber sicurezza aziendale: cosa cambia con la NIS2 e come muoversi con consapevolezza. | Filomena Ferraioli | [Read More](https://medium.com/p/b39a1662a27d) |
 | Wed, 15 Oct 2025 09:06:12 GMT | Vulnhub Funbox2 Walkthrough | cyber pancake | [Read More](https://medium.com/p/f8894c7c9c0c) |
 | Wed, 15 Oct 2025 09:02:28 GMT | How Co-Managed IT Helps UK SMEs Scale Without Replacing Their IT Teams? | Umar Waseem | [Read More](https://medium.com/p/585537158a4a) |
 | Wed, 15 Oct 2025 09:02:22 GMT | SO 27001:2022 vs 2013 — The Final Countdown to Transition | Hicomply | [Read More](https://medium.com/p/26612c657381) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 05:15:56 GMT | Why Do We Feel So Deeply, Even When It Hurts? | Jennie❣️ | [Read More](https://medium.com/p/9dec9345437d) |
 | Wed, 15 Oct 2025 05:15:21 GMT | Daily Vitamins #3 - Naked and Unashamed: The Fellowship That Heals | Ayo Sage | [Read More](https://medium.com/p/59ae7427c27f) |
 | Wed, 15 Oct 2025 05:12:26 GMT | Subdomain Takeover: The Forgotten DNS Records Hijacking Your Brand | InstaTunnel | [Read More](https://medium.com/p/25e2f2cf358d) |
-| Wed, 15 Oct 2025 05:05:38 GMT | Little-Known Tricks to Keep Windows Running Smooth After Installs | Ask IT Support | [Read More](https://medium.com/p/4d086d94e714) |
-| Wed, 15 Oct 2025 05:02:16 GMT | Intigriti Challenge 1025 — Unintended Solution Writeup | savi0r | [Read More](https://medium.com/p/b0e611890c16) |
