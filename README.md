@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 16:20:02 GMT | “The Day the World Froze: Inside the WannaCry Ransomware Attack” | Pooja Borade | [Read More](https://medium.com/p/d033f2c08462) |
+| Wed, 15 Oct 2025 16:18:49 GMT | The Overlooked Cybersecurity Threat | Kelly Wofford | [Read More](https://medium.com/p/44b1e8eb3989) |
+| Wed, 15 Oct 2025 16:13:20 GMT | Your npm Tokens Will Stop Working: GitHub’s New Security Rules and the Migration Playbook | Juan Andrés Leiva | [Read More](https://medium.com/p/70385bee91ce) |
+| Wed, 15 Oct 2025 16:10:46 GMT | Being Too Strong Also Hurts | Bruno Pimentel | [Read More](https://medium.com/p/ddc6a07f7de8) |
+| Wed, 15 Oct 2025 16:06:00 GMT | If you follow this fake Walmart ad, all you’ll get is spam . . . | SafeNetting | [Read More](https://medium.com/p/fdb7a7a011b9) |
+| Wed, 15 Oct 2025 16:01:29 GMT | Invisible Vulnerabilities: The Hidden Security Debt Inside Third-Party SDKs and Open-Source… | Sai Krishna Kakarla | [Read More](https://medium.com/p/373c849da1ed) |
+| Wed, 15 Oct 2025 15:54:58 GMT | CORTEX INTELLIGENCE NEXUS INTEL. | Mikecomplexai | [Read More](https://medium.com/p/bc781a06faba) |
+| Wed, 15 Oct 2025 15:53:24 GMT | Threat Hunting Methodology: F5 Security Incident (K000154696) | Abdul | [Read More](https://medium.com/p/c9e293484afc) |
+| Wed, 15 Oct 2025 15:52:11 GMT | How Small Businesses Can Afford Enterprise Class Cybersecurity | ManagedIT_Expert | [Read More](https://medium.com/p/dc5b622af42c) |
+| Wed, 15 Oct 2025 15:51:04 GMT | Invisible Commands, Visible Consequences: Google’s Gemini Faces ASCII Smuggling Threat | Fortress Protocol | [Read More](https://medium.com/p/db9d2a059779) |
+| Wed, 15 Oct 2025 15:50:25 GMT | How to Become an Ethical Hacker with Python (Real, Practical, Legal) | Rocky | [Read More](https://medium.com/p/16b2944a6bc4) |
+| Wed, 15 Oct 2025 15:48:07 GMT | Your Digital Gatekeeper: A Practical Guide to Understanding and Using Firewalls | Sumit Sah | [Read More](https://medium.com/p/2e22216517f7) |
+| Wed, 15 Oct 2025 15:42:40 GMT | Zero-Day Exploits Explained: What They Are, How Hackers Use Them, and the Apps & Websites Hit… | Paradise technologies Inc | [Read More](https://medium.com/p/fbde1d3bcf84) |
+| Wed, 15 Oct 2025 15:39:45 GMT | How I Installed pfSense on VirtualBox: A Simple Guide | Solomon Yaoh | [Read More](https://medium.com/p/de27243005d7) |
 | Wed, 15 Oct 2025 15:29:22 GMT | The 5-Question Online Safety Reality Check | The Online Safety Zone | [Read More](https://medium.com/p/a8c5e866edb5) |
 | Wed, 15 Oct 2025 15:26:45 GMT | Hunting Playbook: F5 Incident Detection Using Sigma Rules and Multi-Signal Correlation Techniques | Abdul | [Read More](https://medium.com/p/774630c1fc29) |
 | Wed, 15 Oct 2025 15:26:03 GMT | Comicstore Hackviser scenario | Amos Akogbe | [Read More](https://medium.com/p/22028614373f) |
@@ -99,17 +113,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 11:12:03 GMT | Top FOUR Malwares in 2025: Full Analysis with ANY.RUN | Motasem Hamdan | [Read More](https://medium.com/p/48217d94b316) |
 | Wed, 15 Oct 2025 11:11:11 GMT | Best AI Tools for Building CRUD Apps in 2025 | Savia Salaria | [Read More](https://medium.com/p/4f6a0821f2ae) |
 | Wed, 15 Oct 2025 11:09:47 GMT | Best Reliable Managed Data Center Services Provider in India | Mathewneelan | [Read More](https://medium.com/p/3ee231a65c1b) |
-| Wed, 15 Oct 2025 11:07:23 GMT | The Psychology of Control: Why Users Break the Systems You Build | Alexis Collins | [Read More](https://medium.com/p/3ccb93720adb) |
-| Wed, 15 Oct 2025 11:05:31 GMT | Master Surya Ji – Best Astrologer, Psychic, Horoscope Reader , Vashikaran Expert , Bring Back… | Best Astology In Fiji Master Surya Ji | [Read More](https://medium.com/p/2878e16f6b5f) |
-| Wed, 15 Oct 2025 11:02:25 GMT | Phone Calls and Military Communications Broadcast Through Space Unencrypted | Sam Morris | [Read More](https://medium.com/p/6a8702d2afb7) |
-| Wed, 15 Oct 2025 10:56:25 GMT | Protect What Matters: The Benefits of Professional Intruder Alarm Installation in Saudi Arabia | Zenecaastra | [Read More](https://medium.com/p/209c6f1852bc) |
-| Wed, 15 Oct 2025 10:51:08 GMT | How Website & Hosting Service Providers in Dubai Keep Sites Secure? | CyberNautMe | [Read More](https://medium.com/p/aad49707c65e) |
-| Wed, 15 Oct 2025 10:46:50 GMT | ️ Fileless Malware Detection Techniques | Esra Kayhan | [Read More](https://medium.com/p/2d53ccdf34f4) |
-| Wed, 15 Oct 2025 10:45:53 GMT | AI in Cybersecurity: Staying Safe in an Increasingly Smart World | Chauffeur Booking Melbourne | [Read More](https://medium.com/p/6b51d7e0b628) |
-| Wed, 15 Oct 2025 10:44:17 GMT | Is DevOps The Smartest Career Move In Tech? | Mohammed Numan | [Read More](https://medium.com/p/253bb7201e12) |
-| Wed, 15 Oct 2025 10:42:15 GMT | Smart Security Made Easy: Comparing Blink Outdoor 4 and WYZE Cam v4 for Your Home | Lenny's Finds | [Read More](https://medium.com/p/5bccbb4f6ff2) |
-| Wed, 15 Oct 2025 10:40:12 GMT | Internal — TryHackMe CTF Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/45896e2585f2) |
-| Wed, 15 Oct 2025 10:36:44 GMT | Managed SIEM Services for the Finance Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/b5a89eef97e3) |
-| Wed, 15 Oct 2025 10:31:46 GMT | Nmap Explained Simply: How Hackers and Network Admins See the Internet’s Hidden Doors | Natarajan C K | [Read More](https://medium.com/p/e86e2eb3ada0) |
-| Wed, 15 Oct 2025 10:19:54 GMT | Try-Hack-Me challenge walkthrough {CTF} | Arka Priya Das | [Read More](https://medium.com/p/881b8078c39a) |
-| Wed, 15 Oct 2025 10:11:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/a85e662734ca) |
