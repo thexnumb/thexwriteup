@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 04:14:24 GMT | “5 Data Science Projects That Taught Me More Than College” | Muhummad Zaki | [Read More](https://medium.com/p/ac6386e2558e) |
+| Wed, 15 Oct 2025 04:05:56 GMT | Why Every Ontario Business Needs a Modern Data Resilience Strategy | Supraja | [Read More](https://medium.com/p/16a4e812ffb8) |
+| Wed, 15 Oct 2025 03:50:16 GMT | The Eleventh Angel: The Angel of Terror, ‘Iruel’ — The Worm War of the Internet of Things | Scott Huang | [Read More](https://medium.com/p/35a9da8cb175) |
+| Wed, 15 Oct 2025 03:48:07 GMT | Caching Revolution: The Strategy That Made Pinterest Load Instantly (and How You Can Practice It… | Rizqi Mulki | [Read More](https://medium.com/p/1ee0bd42f246) |
+| Wed, 15 Oct 2025 03:45:00 GMT | Beyond Perimeter: Why Identity Is Your New Security Border | ThreatLens byGurdeep | [Read More](https://medium.com/p/9dc7ac7d1436) |
 | Wed, 15 Oct 2025 03:40:12 GMT | Why a Modern Data Resilience Strategy Is the Future of Business in Ontario | Tycoonstories | [Read More](https://medium.com/p/8fee0d497cf7) |
 | Wed, 15 Oct 2025 03:32:52 GMT | Password Leak 2025: Are Your Accounts Truly Safe | Neova Solutions | [Read More](https://medium.com/p/bbf4f954194b) |
 | Wed, 15 Oct 2025 03:32:52 GMT | QUIC-LEAK (CVE-2025–54939): The Subtle Flaw That Could Take Your Website Offline | Deven Chhajed | [Read More](https://medium.com/p/859825b3637d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 19:11:45 GMT | Snow-Crash-writup [level04] | B.R.O.L.Y | [Read More](https://medium.com/p/4ee5b0e341d0) |
 | Tue, 14 Oct 2025 19:09:07 GMT | Invisible Text, Visible Risk: The Rise of “Imperceptible Jailbreaks” in LLMs | Harishkumar Pillai | [Read More](https://medium.com/p/9534e84403dd) |
 | Tue, 14 Oct 2025 19:08:07 GMT | ERP + Cloud + AI: Building the Digital Core of the Future | InnoveusIT | [Read More](https://medium.com/p/ef1826ae0806) |
-| Tue, 14 Oct 2025 19:07:14 GMT | Python in Cybersecurity: The Silent Guardian of the Digital Age” | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/71f7bfe98f41) |
-| Tue, 14 Oct 2025 19:05:42 GMT | MCP: Security and Authentication | Parichay Pothepalli | [Read More](https://medium.com/p/8bfaccea51a3) |
-| Tue, 14 Oct 2025 19:02:17 GMT | The Open-Source SOC: Building a Scalable Detection Engineering Platform with Docker | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/473561c2a95f) |
-| Tue, 14 Oct 2025 19:00:44 GMT | Reliability in the Cloud: Shared Responsibility | SRE Mastery | [Read More](https://medium.com/p/3ed42b32d0ba) |
-| Tue, 14 Oct 2025 19:00:44 GMT | My Journey As a Red Teamer | Inayat Hussain | [Read More](https://medium.com/p/a5826f2cd31d) |
