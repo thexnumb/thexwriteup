@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 05:05:38 GMT | Little-Known Tricks to Keep Windows Running Smooth After Installs | Ask IT Support | [Read More](https://medium.com/p/4d086d94e714) |
+| Wed, 15 Oct 2025 05:02:16 GMT | Intigriti Challenge 1025 — Unintended Solution Writeup | savi0r | [Read More](https://medium.com/p/b0e611890c16) |
+| Wed, 15 Oct 2025 05:01:59 GMT | How to Keep Your Crypto Private from Hackers | Farhad Ali | [Read More](https://medium.com/p/cdcfd1964eca) |
+| Wed, 15 Oct 2025 04:59:54 GMT | CVE-2025–9902: QRMenu’s Sneaky Side Door — Unauthorized Data Access! | CVEHUB | [Read More](https://medium.com/p/c3999d580b5b) |
+| Wed, 15 Oct 2025 04:57:07 GMT | Lab 9#: Remote code execution via server-side - prototype pollution | Mosta | [Read More](https://medium.com/p/9840560513b2) |
+| Wed, 15 Oct 2025 04:47:47 GMT | Clearing Windows Event Logs | Dharmendrakumar | [Read More](https://medium.com/p/ea7dc3e64cc7) |
+| Wed, 15 Oct 2025 04:46:10 GMT | MySQL Enumeration | Dharmendrakumar | [Read More](https://medium.com/p/0ac6f1ad52eb) |
+| Wed, 15 Oct 2025 04:39:30 GMT | Fin Credit loan app Customer Care Helpline Number 7389657154 (➒➋➌➑➏➎➋➍➎➎) Toll-Free +(7389657154)… | Fin Credit | [Read More](https://medium.com/p/03953cb91d25) |
 | Wed, 15 Oct 2025 04:34:15 GMT | Windows Privilege Escalation Cheat Sheet | MEGAZORD | [Read More](https://medium.com/p/e6272b6c9dfc) |
 | Wed, 15 Oct 2025 04:33:08 GMT | Business Email Essentials: Professionalism & Security for Your Brand | ec infosolutions | [Read More](https://medium.com/p/1a0a78ab8335) |
 | Wed, 15 Oct 2025 04:28:51 GMT | How I Cracked the “Uncrackable” UUIDs and Found Every User’s Secret Data | Iski | [Read More](https://medium.com/p/f0cd2224e09d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 19:58:50 GMT | How to Find a Cybersecurity Mentor | Zachary Marcy | [Read More](https://medium.com/p/5400b217b43e) |
 | Tue, 14 Oct 2025 19:57:26 GMT | Прохождение Neighbour на TryHackMe | Pentestdaddy | [Read More](https://medium.com/p/98873c1636e2) |
 | Tue, 14 Oct 2025 19:52:18 GMT | [Part 9] Penalties Under the Cyber Resilience Act | Cyberkech | [Read More](https://medium.com/p/24647b08fd24) |
-| Tue, 14 Oct 2025 19:46:11 GMT | Snow-Crash-writup [level06] | B.R.O.L.Y | [Read More](https://medium.com/p/e4b1c5461bfa) |
-| Tue, 14 Oct 2025 19:38:42 GMT | Part 7 : Secrets Management — The Right Way to Keep Your Secrets Safe | Dean | [Read More](https://medium.com/p/2afe04bb0ada) |
-| Tue, 14 Oct 2025 19:32:30 GMT | In the Era 2025 of AI, Over-Information, and Controlled Media — Clarity is Bliss | Shahzaib A. | [Read More](https://medium.com/p/88f6ad10d77c) |
-| Tue, 14 Oct 2025 19:30:31 GMT | Understanding Datasets and Distributions in Data Science and Cybersecurity | Gadeabhishekreddy | [Read More](https://medium.com/p/a1b917e182d4) |
-| Tue, 14 Oct 2025 19:29:42 GMT | The Attacker’s View: Why DAST Is Non-Negotiable for Cloud and AI Security | KE | [Read More](https://medium.com/p/435195ca550f) |
-| Tue, 14 Oct 2025 19:25:04 GMT | Snow-Crash-writup [level05] | B.R.O.L.Y | [Read More](https://medium.com/p/610019c7fc19) |
-| Tue, 14 Oct 2025 19:16:53 GMT | Automate your own hacking methodology with Vulnetic | Daniel Knight | [Read More](https://medium.com/p/695dd6df46d0) |
-| Tue, 14 Oct 2025 19:16:16 GMT | The Next Frontier for IT Marketing: Optimizing for Generative Search & Answer Engines | Unika Agency | [Read More](https://medium.com/p/fa5a4389ae27) |
