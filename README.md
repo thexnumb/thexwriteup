@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 03:01:08 GMT | Climbing the Open Source Ladder: From Consumer to Leader | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/24d17b623fd5) |
+| Wed, 15 Oct 2025 02:56:41 GMT | 7 Password Mistakes That Hackers Love in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/97e363b6d896) |
+| Wed, 15 Oct 2025 02:54:10 GMT | YouTube is home | Flow King Zero - Flow King Jon Myers | [Read More](https://medium.com/p/f73a171dffba) |
+| Wed, 15 Oct 2025 02:52:28 GMT | Day 68- Penetration testing rules of engagement for beginners | unica 02 | [Read More](https://medium.com/p/5c0e7b5de6d9) |
+| Wed, 15 Oct 2025 02:51:15 GMT | People Thought I Was Hacking — I Was Just Automating with Python | Kuldeepkumawat | [Read More](https://medium.com/p/26e1d742bd99) |
+| Wed, 15 Oct 2025 02:32:15 GMT | The Day Code Became a Weapon: How Stuxnet Changed Everything | Jayesh M | [Read More](https://medium.com/p/29f47cce104e) |
+| Wed, 15 Oct 2025 02:31:29 GMT | Sunday Reflection: What “Deep Discipline” Really Means in the Cyber Era | Dr. Deep Pandey | [Read More](https://medium.com/p/2037e5664d6f) |
+| Wed, 15 Oct 2025 02:30:04 GMT | Security Assessment: Vulnhub Beelzebub Walkthrough | Luke Gearty | [Read More](https://medium.com/p/96c727870dd4) |
+| Wed, 15 Oct 2025 02:20:16 GMT | The Invisible Architecture: Cyberdefense in the Quantum Internet Era | Rodrigo Gutierrez | [Read More](https://medium.com/p/bac3e4c611a0) |
+| Wed, 15 Oct 2025 02:18:55 GMT | Terraform Secrets Management Best Practices: Secret Managers and Ephemeral Resources | Tiexin Guo | [Read More](https://medium.com/p/6471d4a4c889) |
+| Wed, 15 Oct 2025 02:12:22 GMT | How Public Wi-Fi Became a Hacker’s Playground — and How VPNs Like PureVPN Keep You Safe | He Byan | [Read More](https://medium.com/p/dd1437c4152f) |
+| Wed, 15 Oct 2025 01:59:23 GMT | ISO 27701:2025 — The New Era of Certifiable Privacy | Rodrigo Gutierrez | [Read More](https://medium.com/p/bd234da55120) |
+| Wed, 15 Oct 2025 01:59:16 GMT | Core Historia: A Hacker Group Shrouded in Ambiguity | RandomGPT | [Read More](https://medium.com/p/2639079e8fd3) |
+| Wed, 15 Oct 2025 01:52:31 GMT | The Great Disconnection: the twilight of Windows 10 and the new frontier of digital obsolescence | Rodrigo Gutierrez | [Read More](https://medium.com/p/2b41bf9c5255) |
+| Wed, 15 Oct 2025 01:49:17 GMT | CVE-2025–49125 — How a Pre/PostResources mount + a narrow URL pattern let me invoke a protected… | Greg K | [Read More](https://medium.com/p/678185d34d4c) |
+| Wed, 15 Oct 2025 01:47:02 GMT | The Digital Battleground: Taiwan Under Siege in the New Era of Cyber Warfare | CCD-IS | [Read More](https://medium.com/p/dbc9cb1fea05) |
+| Wed, 15 Oct 2025 01:37:24 GMT | How to Identify a Healthy and Lasting Relationship Using Maslow’s Hierarchy | Sevenqian | [Read More](https://medium.com/p/a3f149412f31) |
+| Wed, 15 Oct 2025 01:34:27 GMT | US Cybersecurity Legislation Developments: Restoring Expired Information Sharing Protections | CCD-IS | [Read More](https://medium.com/p/7c1eaaec7442) |
 | Wed, 15 Oct 2025 01:31:36 GMT | Is AI Really Our Competition? | Jeffrey McNaughton | [Read More](https://medium.com/p/b7af593ca2f0) |
 | Wed, 15 Oct 2025 01:25:42 GMT | The Most Productive Hour You’ll Spend This Year: A Guide to Calm Cybersecurity | Tony S | [Read More](https://medium.com/p/b41e40bf363c) |
 | Wed, 15 Oct 2025 01:12:10 GMT | CLOUDGOAT SNS_SECRET | Rohail | [Read More](https://medium.com/p/014aba9f6390) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 18:33:23 GMT | Find Critical Vulnerabilities: My 7-Minute Bug Bounty Workflow | Ibtissam hammadi | [Read More](https://medium.com/p/2dd75f8707cd) |
 | Tue, 14 Oct 2025 18:26:29 GMT | NIST 800–171 Made Simple: A Practical Guide for Businesses Working with the DoD | Olivier Maignan | [Read More](https://medium.com/p/20db089982a1) |
 | Tue, 14 Oct 2025 18:21:16 GMT | How I Found “CVE-2025–4123” in Grafana Using FOFA (and Got a Bounty | A0X_Trojan | [Read More](https://medium.com/p/a21a00d477a8) |
-| Tue, 14 Oct 2025 18:10:50 GMT | Don’t Click That .EXE: A Silent Trap in Your Chats | Juned Silavat | [Read More](https://medium.com/p/54f9e114eabf) |
-| Tue, 14 Oct 2025 18:01:56 GMT | The 4 Silent Killers of Data Center Deals | Shreyas | [Read More](https://medium.com/p/cf00b4fd7a30) |
-| Tue, 14 Oct 2025 18:01:47 GMT | 9 High-Scale File Upload Designs with S3, R2, and Signed URLs | Thinking Loop | [Read More](https://medium.com/p/ad1425ee85e8) |
-| Tue, 14 Oct 2025 18:01:20 GMT | Cybersecurity and Penetration Testing: A Comprehensive Practical Guide | Eren Aloğlu | [Read More](https://medium.com/p/6216e82c8eaf) |
-| Tue, 14 Oct 2025 17:58:22 GMT | The foundation for “unbreakable” encryption: when photons carry the keys | KeyboardSamurai | [Read More](https://medium.com/p/43bbf9316d13) |
-| Tue, 14 Oct 2025 17:56:01 GMT | How to Manage and Secure Backup Accounts | Nurali ATMACA | [Read More](https://medium.com/p/9afd50e367f7) |
-| Tue, 14 Oct 2025 17:53:31 GMT | Basic Router Firmware Dumps | Samar Ibrahim | [Read More](https://medium.com/p/e7befa5545f8) |
-| Tue, 14 Oct 2025 17:50:13 GMT | NetBackup Disaster Recovery and Security Measures | Nurali ATMACA | [Read More](https://medium.com/p/44d0ff1256cd) |
-| Tue, 14 Oct 2025 17:48:08 GMT | Top 10 Cybersecurity Predictions for 2025 | Jeffinvarghese | [Read More](https://medium.com/p/d6b6122dca4a) |
-| Tue, 14 Oct 2025 17:44:59 GMT | HTB Machine Cap Walkthrough | Nicholas Mullenski | [Read More](https://medium.com/p/0eaac824174d) |
-| Tue, 14 Oct 2025 17:43:22 GMT | Protecting Sensitive Data During Backup Operations | Nurali ATMACA | [Read More](https://medium.com/p/65bf4900286b) |
-| Tue, 14 Oct 2025 17:40:12 GMT | I Got a Remote Cybersecurity Job with Zero Experience — Here’s My Exact Strategy | Muhammad Haider Tallal | [Read More](https://medium.com/p/5565720ed3a2) |
-| Tue, 14 Oct 2025 17:36:21 GMT | How NetBackup Meets HIPAA and Other Regulations | Nurali ATMACA | [Read More](https://medium.com/p/4a9df9c3e5df) |
-| Tue, 14 Oct 2025 17:29:45 GMT | Handling Security Vulnerabilities in Backup Systems | Nurali ATMACA | [Read More](https://medium.com/p/188ace2a7c15) |
-| Tue, 14 Oct 2025 17:27:11 GMT | Deep Dive into Auditd Advanced Usage on Linux Systems | Eren Cankut Uysal | [Read More](https://medium.com/p/c7a325d5dd32) |
-| Tue, 14 Oct 2025 17:26:38 GMT | Account Takeover And Staying Logged In Forever After Password Reset | Mahmoud Farag | [Read More](https://medium.com/p/b0ed4b65ac22) |
-| Tue, 14 Oct 2025 17:22:32 GMT | Veritas NetBackup Security Updates and Patches | Nurali ATMACA | [Read More](https://medium.com/p/5679055bed00) |
-| Tue, 14 Oct 2025 17:18:53 GMT | Co to vlastně znamená? | Cyber Solution | [Read More](https://medium.com/p/81ea798ece6f) |
