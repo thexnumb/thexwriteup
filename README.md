@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 06:22:35 GMT | Top Password Chrome Extensions to Boost Your Online Security | Creole Studios | [Read More](https://medium.com/p/6665c241168e) |
+| Wed, 15 Oct 2025 06:21:41 GMT | The Lie of Security: Playing Safe Is the Riskiest Move of All | Activefaq ️ | [Read More](https://medium.com/p/e1c73da58957) |
+| Wed, 15 Oct 2025 06:20:36 GMT | ประจำวันพุธที่ 15 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7b1c24d21ad4) |
+| Wed, 15 Oct 2025 06:19:19 GMT | 10 Core Concepts Every Developer Should Know About | Kasra10 | [Read More](https://medium.com/p/820b00259099) |
+| Wed, 15 Oct 2025 06:18:15 GMT | Understanding Authentication in Laravel: A Deep Dive into Laravel Passport | Sandeeppant | [Read More](https://medium.com/p/7c11932848d4) |
+| Wed, 15 Oct 2025 06:14:07 GMT | Step-by-Step Guide to Installing a CCTV Camera System | Manglamtelecom | [Read More](https://medium.com/p/924dd4122c6a) |
+| Wed, 15 Oct 2025 06:13:27 GMT | BEST OT/ICS CYBERSECURITY TRAINING IN DELHI NCR AND INDIA | TheEvolvEdge | [Read More](https://medium.com/p/b7376ff3d39b) |
+| Wed, 15 Oct 2025 06:08:24 GMT | Is Paying for Windows 10 Extended Security Updates Worth It | Morgan Davis | [Read More](https://medium.com/p/7b6e5ecf0061) |
+| Wed, 15 Oct 2025 06:06:23 GMT | Cybersecurity in African Fintech — Real Threats and How Startups Can Prepare | Paulnkingwa | [Read More](https://medium.com/p/591210c481b0) |
+| Wed, 15 Oct 2025 06:03:38 GMT | Suquelish Ropojik Udarg Knights | Marc Matthew Mason | [Read More](https://medium.com/p/fe8032581810) |
+| Wed, 15 Oct 2025 06:03:27 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/000042ca8c06) |
+| Wed, 15 Oct 2025 06:03:00 GMT | How Can IT Teams Simplify Large-Scale Teams to Teams Migration? | Arun Jyothi | [Read More](https://medium.com/p/43ea3399aa95) |
+| Wed, 15 Oct 2025 06:00:42 GMT | Pixnapping Attack: How Hackers Can Steal Your 2FA Codes on Android | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/770a65f3f43c) |
+| Wed, 15 Oct 2025 05:57:34 GMT | 10 Facts About Hacking Everyone Should Know | Shivakshi Rawat | [Read More](https://medium.com/p/28610155d0ed) |
+| Wed, 15 Oct 2025 05:56:12 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/190991b4fcba) |
+| Wed, 15 Oct 2025 05:53:23 GMT | The Hidden Loneliness of People Who Seem Perfect | Sumin LEE | [Read More](https://medium.com/p/fdb6e8127033) |
+| Wed, 15 Oct 2025 05:51:04 GMT | How a Curious Sunday Turned Into a Pharmacy App Hack Story | Ahmad Bilal | [Read More](https://medium.com/p/2a4cd596e766) |
+| Wed, 15 Oct 2025 05:49:25 GMT | Intigriti Challenge 1025 — Unintended Solution Writeup | savi0r | [Read More](https://medium.com/p/92ac5c9d425e) |
+| Wed, 15 Oct 2025 05:38:34 GMT | Falling Off the Security Cliff: The End of Windows 10 Era | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/d303707d6575) |
+| Wed, 15 Oct 2025 05:37:36 GMT | Ciater265 - Ruang Digital untuk Kreativitas dan Inspirasi Baru | Ciater265 | [Read More](https://medium.com/p/d8279a8cc552) |
+| Wed, 15 Oct 2025 05:36:00 GMT | Pennco Tech: Your Full Guide to Hands-On Career Training | Elite Aneesa999 | [Read More](https://medium.com/p/074a2a154360) |
 | Wed, 15 Oct 2025 05:31:46 GMT | How to Find Your First High-Impact Vulnerability (Without Relying on XSS) | Andrei Ivan | [Read More](https://medium.com/p/de3fdb73f182) |
 | Wed, 15 Oct 2025 05:29:00 GMT | Your Fintech App Is One Rooted Phone Away from Disaster — Fix It Now | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/c19ae6b52916) |
 | Wed, 15 Oct 2025 05:26:52 GMT | Secure Communication for Financial Institutions with Data Encryption | Aao Chat | [Read More](https://medium.com/p/760718089bde) |
@@ -36,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 03:48:07 GMT | Caching Revolution: The Strategy That Made Pinterest Load Instantly (and How You Can Practice It… | Rizqi Mulki | [Read More](https://medium.com/p/1ee0bd42f246) |
 | Wed, 15 Oct 2025 03:45:00 GMT | Beyond Perimeter: Why Identity Is Your New Security Border | ThreatLens byGurdeep | [Read More](https://medium.com/p/9dc7ac7d1436) |
 | Wed, 15 Oct 2025 03:40:12 GMT | Why a Modern Data Resilience Strategy Is the Future of Business in Ontario | Tycoonstories | [Read More](https://medium.com/p/8fee0d497cf7) |
+| Wed, 15 Oct 2025 03:39:35 GMT | Apakah AI membunuh etika dan moralitas dalam CTF? | Repl | [Read More](https://medium.com/p/e49107bd19d9) |
 | Wed, 15 Oct 2025 03:32:52 GMT | Password Leak 2025: Are Your Accounts Truly Safe | Neova Solutions | [Read More](https://medium.com/p/bbf4f954194b) |
 | Wed, 15 Oct 2025 03:32:52 GMT | QUIC-LEAK (CVE-2025–54939): The Subtle Flaw That Could Take Your Website Offline | Deven Chhajed | [Read More](https://medium.com/p/859825b3637d) |
 | Wed, 15 Oct 2025 03:31:15 GMT | When Quantum Supremacy Hits, Privacy Dies Overnight | Abhinav Misra | [Read More](https://medium.com/p/d7da690a1e5d) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Oct 2025 22:25:36 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 2) | Andrii Shyshenko | [Read More](https://medium.com/p/d9e07b2f696a) |
 | Tue, 14 Oct 2025 22:19:26 GMT | Securing Remote Work: A Practical Guide for IT Leaders (Part 1) | Andrii Shyshenko | [Read More](https://medium.com/p/0c0818b9e9ca) |
 | Tue, 14 Oct 2025 21:51:28 GMT | Mastering Seccomp Filters in Production Environments | Eren Cankut Uysal | [Read More](https://medium.com/p/aa9c13c9fc54) |
-| Tue, 14 Oct 2025 21:46:07 GMT | From the Internet to the Internet of Agents: Trust as the First Protocol | Naylence Dev | [Read More](https://medium.com/p/7dc30abeae45) |
-| Tue, 14 Oct 2025 21:46:01 GMT | Hacking Awareness Tips Protecting Yourself in a Digital World | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/f2195c2a9593) |
-| Tue, 14 Oct 2025 21:43:06 GMT | Security and Performance Aspects of SELinux Policies | Eren Cankut Uysal | [Read More](https://medium.com/p/fb15505657d9) |
-| Tue, 14 Oct 2025 21:35:56 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/172d7aee07b3) |
-| Tue, 14 Oct 2025 21:28:40 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/e3da86227467) |
-| Tue, 14 Oct 2025 21:26:29 GMT | The CIA Triad: The Foundation of Every Cybersecurity Strategy | Cyber_Phoenix | [Read More](https://medium.com/p/dc830fda7a48) |
-| Tue, 14 Oct 2025 21:22:26 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/87f1ba9a1d31) |
-| Tue, 14 Oct 2025 21:19:25 GMT | Day 9 of my Cybersecurity Learning: PowerShell Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/bd83ddb3344e) |
-| Tue, 14 Oct 2025 21:15:10 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/8b696e433129) |
-| Tue, 14 Oct 2025 21:07:01 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/cf455394f282) |
-| Tue, 14 Oct 2025 20:59:16 GMT | Cybersecurity for Remote Workers | Cyber Security Research | [Read More](https://medium.com/p/82d4cccd1cd3) |
-| Tue, 14 Oct 2025 20:59:12 GMT | Why Every Business Needs a Security Audit: Your Shield Against Costly Breaches | Mrutunjaya Senapati | [Read More](https://medium.com/p/71e42d43b3e4) |
-| Tue, 14 Oct 2025 20:57:33 GMT | Ciberseguridad: más allá de los sistemas | Liliana Reyes | [Read More](https://medium.com/p/9c82b60f210f) |
-| Tue, 14 Oct 2025 20:53:33 GMT | Protecting Your Personal Data Online | Cyber Security Research | [Read More](https://medium.com/p/7364a89b701f) |
-| Tue, 14 Oct 2025 20:52:56 GMT | Re-creating the Snake Rootkit Part 009: C2 — Listeners | 0x0vid | [Read More](https://medium.com/p/93a95747fa90) |
-| Tue, 14 Oct 2025 20:51:05 GMT | 2025’s Top Cyber Threats, October 14: Outlook Phishing Alert | InGBTech | [Read More](https://medium.com/p/7449081f3ec1) |
-| Tue, 14 Oct 2025 20:50:40 GMT | How Hackers Exploit Small Business Websites — and How to Stop Them | Mrutunjaya Senapati | [Read More](https://medium.com/p/940c87660405) |
-| Tue, 14 Oct 2025 20:42:30 GMT | Quantum Computing and Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/8b2846e47310) |
-| Tue, 14 Oct 2025 20:41:28 GMT | Code Control — Part II | ekomsSavior | [Read More](https://medium.com/p/994aa3c3dc9a) |
-| Tue, 14 Oct 2025 20:40:17 GMT | Guide for Conducting Cybersecurity Risk Assessments: Analyzing NIST SP 800–30 Revision 1 | Aneeqibtesam | [Read More](https://medium.com/p/de56a647d4e7) |
-| Tue, 14 Oct 2025 20:39:25 GMT | Why Every Business Needs a Security Audit in 2025 | Mrutunjaya Senapati | [Read More](https://medium.com/p/1ef214a7ac5c) |
-| Tue, 14 Oct 2025 20:35:24 GMT | Cybersecurity Certifications: Advancing Your Career | Cyber Security Research | [Read More](https://medium.com/p/b26b9f5a9b6f) |
