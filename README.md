@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 15:29:22 GMT | The 5-Question Online Safety Reality Check | The Online Safety Zone | [Read More](https://medium.com/p/a8c5e866edb5) |
+| Wed, 15 Oct 2025 15:26:45 GMT | Hunting Playbook: F5 Incident Detection Using Sigma Rules and Multi-Signal Correlation Techniques | Abdul | [Read More](https://medium.com/p/774630c1fc29) |
+| Wed, 15 Oct 2025 15:26:03 GMT | Comicstore Hackviser scenario | Amos Akogbe | [Read More](https://medium.com/p/22028614373f) |
 | Wed, 15 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 15, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/b80692e36046) |
 | Wed, 15 Oct 2025 15:12:56 GMT | Siber Güvenlik 101 — OWASP Top 10 Zafiyetleri | Sude Çoban | [Read More](https://medium.com/p/7815f0a388d9) |
 | Wed, 15 Oct 2025 15:07:26 GMT | “The $10,800 Typo: How a Single Dot Broke Twitter’s Authentication” | Aman Sharma | [Read More](https://medium.com/p/f485e6dc0f04) |
@@ -110,6 +113,3 @@ Why… | Abhilash | [Read More](https://medium.com/p/c9e0fa5d2214) |
 | Wed, 15 Oct 2025 10:31:46 GMT | Nmap Explained Simply: How Hackers and Network Admins See the Internet’s Hidden Doors | Natarajan C K | [Read More](https://medium.com/p/e86e2eb3ada0) |
 | Wed, 15 Oct 2025 10:19:54 GMT | Try-Hack-Me challenge walkthrough {CTF} | Arka Priya Das | [Read More](https://medium.com/p/881b8078c39a) |
 | Wed, 15 Oct 2025 10:11:40 GMT | Monitoring Security Metrics in DevSecOps Workflows | DevOps Security Hub | [Read More](https://medium.com/p/a85e662734ca) |
-| Wed, 15 Oct 2025 10:09:52 GMT | Bashed — Hackthebox Writeup | Zerzex | [Read More](https://medium.com/p/cdb596f1f741) |
-| Wed, 15 Oct 2025 10:07:45 GMT | Digital Shield: Ushering in a New Era for Your Digital Assets with Military-Grade Security | Digital Shield | [Read More](https://medium.com/p/6fc4a5db250a) |
-| Wed, 15 Oct 2025 10:07:22 GMT | The Rise of Cybercrime-as-a-Service: How Hacking Became a Subscription Business | Cyber Defender | [Read More](https://medium.com/p/5a26ea745d09) |
