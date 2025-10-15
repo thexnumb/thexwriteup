@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 07:33:36 GMT | Linux for Security Professionals | LinuxDev | [Read More](https://medium.com/p/1567e3563145) |
+| Wed, 15 Oct 2025 07:30:28 GMT | The Future of AI: Massive Models or a Swarm of Small Intelligent Agents? | Bervice | [Read More](https://medium.com/p/87b573c13295) |
+| Wed, 15 Oct 2025 07:30:27 GMT | Reconstructing a Bad Rabbit Ransomware Attack — Part 2 | Zulfianarahmi | [Read More](https://medium.com/p/7c3f1933486e) |
+| Wed, 15 Oct 2025 07:30:13 GMT | 14 HTML Semantic Tags | Rana Awais | [Read More](https://medium.com/p/dd2f9fd50600) |
+| Wed, 15 Oct 2025 07:28:28 GMT | WebStrike[CyberDefenders] | Bello Aisha Bisola | [Read More](https://medium.com/p/23b0ca1f4c10) |
+| Wed, 15 Oct 2025 07:20:31 GMT | Today’s Top Cyber Intelligence Highlights — Oct 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f621526f6d2d) |
+| Wed, 15 Oct 2025 07:19:04 GMT | Windows 10 od danas službeno nepodržan | Vjera Barbir Alavanja | [Read More](https://medium.com/p/2d91289b03de) |
 | Wed, 15 Oct 2025 07:13:19 GMT | Investigating Malware with Wireshark — Network Traffic Analysis | Adeleke Theophilus O | [Read More](https://medium.com/p/451263f99ac0) |
 | Wed, 15 Oct 2025 07:00:11 GMT | The Daily Tech Digest: 15 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/361abcdceecc) |
 | Wed, 15 Oct 2025 06:57:44 GMT | The Growing Importance of Security Guard Services: Ensuring Safety Across India | Ciss India | [Read More](https://medium.com/p/56b61811e88e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 01:49:17 GMT | CVE-2025–49125 — How a Pre/PostResources mount + a narrow URL pattern let me invoke a protected… | Greg K | [Read More](https://medium.com/p/678185d34d4c) |
 | Wed, 15 Oct 2025 01:47:02 GMT | The Digital Battleground: Taiwan Under Siege in the New Era of Cyber Warfare | CCD-IS | [Read More](https://medium.com/p/dbc9cb1fea05) |
 | Wed, 15 Oct 2025 01:37:24 GMT | How to Identify a Healthy and Lasting Relationship Using Maslow’s Hierarchy | Sevenqian | [Read More](https://medium.com/p/a3f149412f31) |
-| Wed, 15 Oct 2025 01:34:27 GMT | US Cybersecurity Legislation Developments: Restoring Expired Information Sharing Protections | CCD-IS | [Read More](https://medium.com/p/7c1eaaec7442) |
-| Wed, 15 Oct 2025 01:31:36 GMT | Is AI Really Our Competition? | Jeffrey McNaughton | [Read More](https://medium.com/p/b7af593ca2f0) |
-| Wed, 15 Oct 2025 01:25:42 GMT | The Most Productive Hour You’ll Spend This Year: A Guide to Calm Cybersecurity | Tony S | [Read More](https://medium.com/p/b41e40bf363c) |
-| Wed, 15 Oct 2025 01:12:10 GMT | CLOUDGOAT SNS_SECRET | Rohail | [Read More](https://medium.com/p/014aba9f6390) |
-| Wed, 15 Oct 2025 00:59:51 GMT | Cybersecurity Threats in Loan Applications | Sharon Ureh Odu | [Read More](https://medium.com/p/9b2fca869b94) |
-| Wed, 15 Oct 2025 00:57:19 GMT | Title: Coding Without Cybersecurity? You’re Building a House of Cards. | Nimra Ismail | [Read More](https://medium.com/p/b0997bcbd098) |
-| Wed, 15 Oct 2025 00:48:35 GMT | How QR Codes Became Game-Changers in the Trump-Kamala Election Battle | Nathaniel Langley | [Read More](https://medium.com/p/0c11642ba6d9) |
