@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Oct 2025 22:02:17 GMT | Practising speech with kindness: building a human-centred AI companion | DiUS | [Read More](https://medium.com/p/5bab269d2e30) |
+| Wed, 15 Oct 2025 21:56:59 GMT | Cybersecurity and Zero Trust Architecture | Ascendion | [Read More](https://medium.com/p/abb15db1b469) |
+| Wed, 15 Oct 2025 21:55:07 GMT | Why DIY Hardware Is Becoming the New Counterculture | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f82d6fb1282e) |
+| Wed, 15 Oct 2025 21:54:27 GMT | Glitch the Grid: How to Own Your Data, Bend Reality, and Monetize Chaos | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6a5151e9ccde) |
+| Wed, 15 Oct 2025 21:49:06 GMT | The Dutch Housing Crisis — A Horror Story from an Actual Student | Jossie's on a vacation far away | [Read More](https://medium.com/p/e350076416b9) |
+| Wed, 15 Oct 2025 21:45:42 GMT | SOC from Scratch #3 — SIEM Explained (Like You’re Five) | Shane Samuel | [Read More](https://medium.com/p/55458c7e14e2) |
+| Wed, 15 Oct 2025 21:39:32 GMT | CyberDefenders Lab WebStrike — WalkThrough | Harshamd | [Read More](https://medium.com/p/0ea8f4d96479) |
+| Wed, 15 Oct 2025 21:36:33 GMT | Snow-Crash-writup [level09] | B.R.O.L.Y | [Read More](https://medium.com/p/285560d2a192) |
 | Wed, 15 Oct 2025 21:34:50 GMT | SIA Key Holding Issues and Alarm System Obstructions: A Data-Driven Security Perspective | Dr Francesco Dergano | [Read More](https://medium.com/p/e8aebe2f2787) |
+| Wed, 15 Oct 2025 21:33:52 GMT | Why Ontario Homeowners Trust United Security for Smart Protection | United Security | [Read More](https://medium.com/p/abb1c014434d) |
 | Wed, 15 Oct 2025 21:24:41 GMT | Snow-Crash-writup [level08] | B.R.O.L.Y | [Read More](https://medium.com/p/bf4961e76990) |
 | Wed, 15 Oct 2025 21:13:58 GMT | Day 1 — Setting the Ground for a 30-Day VAPT Sprint | Krushna Uday Shinde | [Read More](https://medium.com/p/fef91e0d8015) |
 | Wed, 15 Oct 2025 21:11:41 GMT | 30 Days to VAPT: My Hands-On Security Journey Across Tech Stacks | Krushna Uday Shinde | [Read More](https://medium.com/p/0496905b86fb) |
@@ -106,12 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 15:48:07 GMT | Your Digital Gatekeeper: A Practical Guide to Understanding and Using Firewalls | Sumit Sah | [Read More](https://medium.com/p/2e22216517f7) |
 | Wed, 15 Oct 2025 15:42:40 GMT | Zero-Day Exploits Explained: What They Are, How Hackers Use Them, and the Apps & Websites Hit… | Paradise technologies Inc | [Read More](https://medium.com/p/fbde1d3bcf84) |
 | Wed, 15 Oct 2025 15:39:45 GMT | How I Installed pfSense on VirtualBox: A Simple Guide | Solomon Yaoh | [Read More](https://medium.com/p/de27243005d7) |
-| Wed, 15 Oct 2025 15:29:22 GMT | The 5-Question Online Safety Reality Check | The Online Safety Zone | [Read More](https://medium.com/p/a8c5e866edb5) |
-| Wed, 15 Oct 2025 15:26:45 GMT | Hunting Playbook: F5 Incident Detection Using Sigma Rules and Multi-Signal Correlation Techniques | Abdul | [Read More](https://medium.com/p/774630c1fc29) |
-| Wed, 15 Oct 2025 15:26:03 GMT | Comicstore Hackviser scenario | Amos Akogbe | [Read More](https://medium.com/p/22028614373f) |
-| Wed, 15 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 15, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/b80692e36046) |
-| Wed, 15 Oct 2025 15:12:56 GMT | Siber Güvenlik 101 — OWASP Top 10 Zafiyetleri | Sude Çoban | [Read More](https://medium.com/p/7815f0a388d9) |
-| Wed, 15 Oct 2025 15:07:26 GMT | “The $10,800 Typo: How a Single Dot Broke Twitter’s Authentication” | Aman Sharma | [Read More](https://medium.com/p/f485e6dc0f04) |
-| Wed, 15 Oct 2025 15:01:09 GMT | Massive Data Breach Exposes over a Billion Personal Records by the Salesforce Hack — Why Reusable… | Raj Ananthanpillai | [Read More](https://medium.com/p/913bf3e4feee) |
-| Wed, 15 Oct 2025 15:01:09 GMT | Connect with SSH without opening a single port on your AWS EC2 server? | George Tzinos | [Read More](https://medium.com/p/573e9944bb34) |
-| Wed, 15 Oct 2025 14:51:38 GMT | AI and Cybersecurity: Can it replace the human element in Security Architecture Reviews? | FactSet | [Read More](https://medium.com/p/6019bf73abbf) |
