@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 07:08:25 GMT | Let’s talk to your terminal in plain English: Meet ShellGPT | Sithin Adiyeri | [Read More](https://medium.com/p/94668d938934) |
+| Thu, 16 Oct 2025 07:07:32 GMT | My AI Coder Built an App in 10 Minutes and Billed Me $5,000 for It | Shane Collins | [Read More](https://medium.com/p/736b90122d19) |
+| Thu, 16 Oct 2025 07:05:34 GMT | VERIFIABLE PUBLIC GOODS: HOW DROSERA COULD STRENGTHEN OPTIMISM’S VISION FOR COLLECTIVE SECURITY. | MAVERICK | [Read More](https://medium.com/p/f0347ac471fb) |
+| Thu, 16 Oct 2025 06:54:04 GMT | When AI Starts Phishing You Back: The Next Generation of Social Engineering | Md Faiyaz Khan | [Read More](https://medium.com/p/5099648132d6) |
+| Thu, 16 Oct 2025 06:45:40 GMT | The Way His Eyes Held Me Captive | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/31da0e816a28) |
+| Thu, 16 Oct 2025 06:45:05 GMT | On AI’s Performativity: Deception, Introspection and Strategic Opacity | Mail 17 | [Read More](https://medium.com/p/9215bcb7956a) |
+| Thu, 16 Oct 2025 06:42:04 GMT | Why People Are Falling Back in Love with the iPhone 5S | Sienna Lewis | [Read More](https://medium.com/p/02ccd51e7743) |
+| Thu, 16 Oct 2025 06:40:55 GMT | Securing Power Platform: Disabling Guest Access at Scale | Jere Vekka | [Read More](https://medium.com/p/04df838e1281) |
+| Thu, 16 Oct 2025 06:40:19 GMT | Software Architecture Saga — Chant 1 — The Epopee Begins… | Alessandro Bruschieri | [Read More](https://medium.com/p/aac07a1d6926) |
+| Thu, 16 Oct 2025 06:38:19 GMT | AI in Cybersecurity: Friend, Foe, or Both? | Deepak Sharma | [Read More](https://medium.com/p/d030b138e043) |
+| Thu, 16 Oct 2025 06:35:33 GMT | Boost your career with a cybersecurity course in Kochi designed to equip you with practical skills… | abhi | [Read More](https://medium.com/p/032724fd7432) |
+| Thu, 16 Oct 2025 06:32:19 GMT | From Curiosity to Cybersecurity: My Journey So Far ✨ | Chhavipreet Kaur | [Read More](https://medium.com/p/736a3a910a4d) |
+| Thu, 16 Oct 2025 06:31:44 GMT | Gain hands-on skills to protect digital systems and data through our cybersecurity course in Kochi. | abhi | [Read More](https://medium.com/p/69e840b2730a) |
 | Thu, 16 Oct 2025 06:30:11 GMT | Top 10 Ethical Hacking Courses with Placement Support | Manisha Chaudhary | [Read More](https://medium.com/p/a3e0f877d093) |
 | Thu, 16 Oct 2025 06:29:10 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services and Security Services… | Ciss India | [Read More](https://medium.com/p/e6b52961bc65) |
 | Thu, 16 Oct 2025 06:19:41 GMT | SPARK Matrix™: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/4634842c9a1f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 21:56:59 GMT | Cybersecurity and Zero Trust Architecture | Ascendion | [Read More](https://medium.com/p/abb15db1b469) |
 | Wed, 15 Oct 2025 21:55:07 GMT | Why DIY Hardware Is Becoming the New Counterculture | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f82d6fb1282e) |
 | Wed, 15 Oct 2025 21:54:27 GMT | Glitch the Grid: How to Own Your Data, Bend Reality, and Monetize Chaos | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6a5151e9ccde) |
-| Wed, 15 Oct 2025 21:49:06 GMT | The Dutch Housing Crisis — A Horror Story from an Actual Student | Jossie's on a vacation far away | [Read More](https://medium.com/p/e350076416b9) |
-| Wed, 15 Oct 2025 21:45:42 GMT | SOC from Scratch #3 — SIEM Explained (Like You’re Five) | Shane Samuel | [Read More](https://medium.com/p/55458c7e14e2) |
-| Wed, 15 Oct 2025 21:39:32 GMT | CyberDefenders Lab WebStrike — WalkThrough | Harshamd | [Read More](https://medium.com/p/0ea8f4d96479) |
-| Wed, 15 Oct 2025 21:36:33 GMT | Snow-Crash-writup [level09] | B.R.O.L.Y | [Read More](https://medium.com/p/285560d2a192) |
-| Wed, 15 Oct 2025 21:34:50 GMT | SIA Key Holding Issues and Alarm System Obstructions: A Data-Driven Security Perspective | Dr Francesco Dergano | [Read More](https://medium.com/p/e8aebe2f2787) |
-| Wed, 15 Oct 2025 21:33:52 GMT | Why Ontario Homeowners Trust United Security for Smart Protection | United Security | [Read More](https://medium.com/p/abb1c014434d) |
-| Wed, 15 Oct 2025 21:24:41 GMT | Snow-Crash-writup [level08] | B.R.O.L.Y | [Read More](https://medium.com/p/bf4961e76990) |
-| Wed, 15 Oct 2025 21:13:58 GMT | Day 1 — Setting the Ground for a 30-Day VAPT Sprint | Krushna Uday Shinde | [Read More](https://medium.com/p/fef91e0d8015) |
-| Wed, 15 Oct 2025 21:11:41 GMT | 30 Days to VAPT: My Hands-On Security Journey Across Tech Stacks | Krushna Uday Shinde | [Read More](https://medium.com/p/0496905b86fb) |
-| Wed, 15 Oct 2025 20:40:00 GMT | Observations from Recent True Positive Alerts | Hariharan | [Read More](https://medium.com/p/708c17d52148) |
-| Wed, 15 Oct 2025 20:37:13 GMT | Beyond Passwords: Building Autonomous Identity Infrastructure for the Future Enterprise | Deepak Gupta | [Read More](https://medium.com/p/b49e52887114) |
-| Wed, 15 Oct 2025 20:35:53 GMT | The Best Home Security Cameras We’ve Tested for 2025 | Tech Hub | [Read More](https://medium.com/p/cdb6c7eb8fa2) |
-| Wed, 15 Oct 2025 20:31:49 GMT | That Unlocked Phone Is Basically an Open Diary | Samirah A.O | [Read More](https://medium.com/p/740a9afe4cf4) |
