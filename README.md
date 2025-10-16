@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 15:10:43 GMT | Westwild CTF walkthrough | Sanketh S | [Read More](https://medium.com/p/6a9cfb16b8fe) |
+| Thu, 16 Oct 2025 15:08:39 GMT | My Experience with the Blue Team Level 1 (BTL1) Certification | Citadel Cybersec | [Read More](https://medium.com/p/480c6f82ca2e) |
+| Thu, 16 Oct 2025 15:03:10 GMT | Understanding MS Graph Application Details in the AzureAD Terraform Provider | Mark Tinderholt | [Read More](https://medium.com/p/031d9d413cdb) |
+| Thu, 16 Oct 2025 15:02:02 GMT | ISO 27701:2025: Turning Privacy Compliance into a Competitive Advantage | Valdez Ladd | [Read More](https://medium.com/p/288b1bbd46a9) |
+| Thu, 16 Oct 2025 14:59:18 GMT | Cyber Security and Workplace Safety | Victor Obioha | [Read More](https://medium.com/p/3b9108072de1) |
+| Thu, 16 Oct 2025 14:56:03 GMT | ACADAMY WALKTHROUGH | Sanketh S | [Read More](https://medium.com/p/385dfb13d2c2) |
+| Thu, 16 Oct 2025 14:53:13 GMT | “The Kubernetes Catastrophe: How One Open API Endpoint Exposed Snap’s Infrastructure” | Aman Sharma | [Read More](https://medium.com/p/d41009ce5598) |
+| Thu, 16 Oct 2025 14:51:39 GMT | What True Wealth Really Means | Rosa Diaz-Casal | [Read More](https://medium.com/p/7d30e6b9852a) |
+| Thu, 16 Oct 2025 14:49:44 GMT | Signs You Are in Love | Bloom with Maria | [Read More](https://medium.com/p/7f6be0641548) |
+| Thu, 16 Oct 2025 14:47:02 GMT | CL0P/FIN11 Go In-Memory on Oracle EBS — The Extortion Comes Later | Wes Young | [Read More](https://medium.com/p/4ab5c32d3f18) |
+| Thu, 16 Oct 2025 14:44:25 GMT | From Promtail to Alloy: A Practical Migration Guide for Your Logging Pipeline | Kelana Chandra Helyandika | [Read More](https://medium.com/p/8f3dcec2b10f) |
+| Thu, 16 Oct 2025 14:43:25 GMT | ISO 27001:2022 guide for a complete beginner (Part 2) | Parull Sharma | [Read More](https://medium.com/p/bb1f76be5edc) |
 | Thu, 16 Oct 2025 14:40:03 GMT | Why Attending Meetings in Agile Development Matters More Than You Think | Charukshi Wijesinghe | [Read More](https://medium.com/p/f997824dabb4) |
 | Thu, 16 Oct 2025 14:36:03 GMT | The Real Business Risk of Ignoring CMMC: Contractual Consequences Every DoD Supplier Should Know | Olivier Maignan | [Read More](https://medium.com/p/42a80887ab22) |
 | Thu, 16 Oct 2025 14:32:16 GMT | Friends Or Trophies: What Are We Collecting? | Nikhil Lodha | [Read More](https://medium.com/p/c243589a3399) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 09:52:03 GMT | ประจำวันพฤหัสบดีที่ 16 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bc1491946dbf) |
 | Thu, 16 Oct 2025 09:47:12 GMT | Hardware-Assisted Security: The Rise of Confidential Computing for a Trusted Digital Future | Jackdavis Iap | [Read More](https://medium.com/p/d65d54828a50) |
 | Thu, 16 Oct 2025 09:47:06 GMT | AI Risks in the Workplace: What Companies Must Watch Out For | SecureSlate | [Read More](https://medium.com/p/742b91c9bfba) |
-| Thu, 16 Oct 2025 09:42:32 GMT | Session Persistence Vulnerability: When Logging Out Doesn’t Really Log You Out | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/8c0e588b625b) |
-| Thu, 16 Oct 2025 09:41:01 GMT | CVE Deep Dive : CVE-2025–26466 | Optimus_Brime | [Read More](https://medium.com/p/6c1c61d5142a) |
-| Thu, 16 Oct 2025 09:36:58 GMT | https://www.cybersecurityzones.com/2025/10/free-cybersecurity-tools-2025.html | Sky YaduVanshi | [Read More](https://medium.com/p/6992fcb6dbfa) |
-| Thu, 16 Oct 2025 09:35:50 GMT | Europe’s Cyber Threat Intelligence Landscape | Cyber threat intelligence | [Read More](https://medium.com/p/82fe56b73c70) |
-| Thu, 16 Oct 2025 09:31:39 GMT | Getting Started with Qualys: A Guide to the TruRisk Platform | Bridget | [Read More](https://medium.com/p/b63a0f908da6) |
-| Thu, 16 Oct 2025 09:27:05 GMT | Cyber Security Managed Service Providers — Proven 24/7 Protection | Grandahsan | [Read More](https://medium.com/p/17b7b5e09f6e) |
-| Thu, 16 Oct 2025 09:21:40 GMT | The Crime Lab | Armssecson | [Read More](https://medium.com/p/fcbb69368b7f) |
-| Thu, 16 Oct 2025 09:18:33 GMT | LazySysAdmin(VulnHub)Write-up | Bill Mukenga | [Read More](https://medium.com/p/1a38e8fc508f) |
-| Thu, 16 Oct 2025 09:09:22 GMT | Chapter 4 — Medic | Blacke Marlin | [Read More](https://medium.com/p/28f831b3e23c) |
-| Thu, 16 Oct 2025 09:09:06 GMT | Safeguarding Data: A Deep Dive into On-Device Encryption with AndroidKeyStore | Sivavishnu | [Read More](https://medium.com/p/336d39e7228b) |
-| Thu, 16 Oct 2025 09:08:43 GMT | Boost Cyber Resilience with Axipro’s NIST Cybersecurity Framework Certification | Axipro | [Read More](https://medium.com/p/eaa9a7e65b05) |
-| Thu, 16 Oct 2025 09:06:17 GMT | Where to Hide a GPS in Your Car So Thieves Won’t Find It (and How to Pick the Right Unit) | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/02a400eebe03) |
