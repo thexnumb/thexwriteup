@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 10:15:05 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b75550a53d57) |
+| Thu, 16 Oct 2025 10:09:40 GMT | I Met One of India’s Best Hackers. Here’s What He Told Me. | Pannag Kumaar | [Read More](https://medium.com/p/91f98828b14c) |
+| Thu, 16 Oct 2025 10:08:59 GMT | Log Analysis — It’s Not About Knowing, It’s About Correlating | Dean | [Read More](https://medium.com/p/a3735728dc31) |
+| Thu, 16 Oct 2025 10:08:05 GMT | How to Find Auth Bypasses in Under 30 Minutes | Abhishek meena | [Read More](https://medium.com/p/11bf6a4f33df) |
+| Thu, 16 Oct 2025 10:07:53 GMT | The Psychology of a Hacker: How Cybercriminals Read You Better Than You Think | Fateyaly | [Read More](https://medium.com/p/97bcc85ee202) |
+| Thu, 16 Oct 2025 10:07:37 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/7a3aaac17690) |
+| Thu, 16 Oct 2025 10:07:33 GMT | HackTheBox — VulnEscape | PizzSec | [Read More](https://medium.com/p/36ac0c322a4a) |
+| Thu, 16 Oct 2025 10:04:59 GMT | Top 10 Reasons to Learn Cyber Security in Hyderabad in 2025 | Digital Wiings | [Read More](https://medium.com/p/cec445ccbf0d) |
+| Thu, 16 Oct 2025 10:04:28 GMT | Professional VAPT Services: Why Businesses Need Petadot | Jitendramotiyanipetadot | [Read More](https://medium.com/p/ba740f48762a) |
+| Thu, 16 Oct 2025 10:03:20 GMT | What is cybersecurity, and why is it important? | Vamsi N | [Read More](https://medium.com/p/17242860a02b) |
+| Thu, 16 Oct 2025 09:55:07 GMT | The Deepfake Dilemma: How AI Impersonation is Becoming the Next Big Cyber Threat | Sevlex Cybersecurity | [Read More](https://medium.com/p/4978ea47de4e) |
+| Thu, 16 Oct 2025 09:54:34 GMT | Your Heartbeat Could Be Your Password — And a Laser Can Read It Through Your Skin | Bradley Susser | [Read More](https://medium.com/p/3e8d7ff1a208) |
+| Thu, 16 Oct 2025 09:53:12 GMT | Deconstructing a Stealthy Android Trojan: A Case Study in Phishing and Evasion | Sohan Kanna D | [Read More](https://medium.com/p/3b8a00ed18d3) |
+| Thu, 16 Oct 2025 09:52:03 GMT | ประจำวันพฤหัสบดีที่ 16 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bc1491946dbf) |
+| Thu, 16 Oct 2025 09:47:12 GMT | Hardware-Assisted Security: The Rise of Confidential Computing for a Trusted Digital Future | Jackdavis Iap | [Read More](https://medium.com/p/d65d54828a50) |
+| Thu, 16 Oct 2025 09:47:06 GMT | AI Risks in the Workplace: What Companies Must Watch Out For | SecureSlate | [Read More](https://medium.com/p/742b91c9bfba) |
+| Thu, 16 Oct 2025 09:42:32 GMT | Session Persistence Vulnerability: When Logging Out Doesn’t Really Log You Out | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/8c0e588b625b) |
+| Thu, 16 Oct 2025 09:41:01 GMT | CVE Deep Dive : CVE-2025–26466 | Optimus_Brime | [Read More](https://medium.com/p/6c1c61d5142a) |
 | Thu, 16 Oct 2025 09:36:58 GMT | https://www.cybersecurityzones.com/2025/10/free-cybersecurity-tools-2025.html | Sky YaduVanshi | [Read More](https://medium.com/p/6992fcb6dbfa) |
 | Thu, 16 Oct 2025 09:35:50 GMT | Europe’s Cyber Threat Intelligence Landscape | Cyber threat intelligence | [Read More](https://medium.com/p/82fe56b73c70) |
+| Thu, 16 Oct 2025 09:31:39 GMT | Getting Started with Qualys: A Guide to the TruRisk Platform | Bridget | [Read More](https://medium.com/p/b63a0f908da6) |
 | Thu, 16 Oct 2025 09:27:05 GMT | Cyber Security Managed Service Providers — Proven 24/7 Protection | Grandahsan | [Read More](https://medium.com/p/17b7b5e09f6e) |
 | Thu, 16 Oct 2025 09:21:40 GMT | The Crime Lab | Armssecson | [Read More](https://medium.com/p/fcbb69368b7f) |
 | Thu, 16 Oct 2025 09:18:33 GMT | LazySysAdmin(VulnHub)Write-up | Bill Mukenga | [Read More](https://medium.com/p/1a38e8fc508f) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 05:31:30 GMT | When AI Becomes the Hacker: The New Face of Cyber Threats | Prerna Shukla | [Read More](https://medium.com/p/97505ea37d98) |
 | Thu, 16 Oct 2025 05:29:40 GMT | Features To Look For Before Buying A Night Vision Binocular? | Night Vision 4 Less | [Read More](https://medium.com/p/2526f34e3d37) |
 | Thu, 16 Oct 2025 05:29:27 GMT | The Silent Insider: How AI Can Predict Human Risk Before It Strikes | Prerna Shukla | [Read More](https://medium.com/p/7d4309e42c15) |
-| Thu, 16 Oct 2025 05:28:25 GMT | How attackers use generative AI, LLMs, or autonomous agents to conduct phishing, malware, or… | Yousaf javed | [Read More](https://medium.com/p/6403578c70b3) |
-| Thu, 16 Oct 2025 05:19:21 GMT | The macOS Forensic Journey — FSEvents (File System Events) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/27244fd57aef) |
-| Thu, 16 Oct 2025 05:19:16 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/612243c0cf19) |
-| Thu, 16 Oct 2025 05:13:47 GMT | iPhone 5S Performance Benchmark: Shocking Real-World Results | Lily Adams | [Read More](https://medium.com/p/e6f8a7208225) |
-| Thu, 16 Oct 2025 05:09:41 GMT | CSRF and SSRF explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/f130ac4cf7a6) |
-| Thu, 16 Oct 2025 05:08:35 GMT | Article #53: The Dark Web: What It Is, Why It’s Dangerous, and Why You Should Never Access It | Suujish Kandampullyy | [Read More](https://medium.com/p/17cb460d9089) |
-| Thu, 16 Oct 2025 05:05:10 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/9bb998f50402) |
-| Thu, 16 Oct 2025 05:02:56 GMT | Securing AI’s Communication Layer: How MCP-SEC Can Bring Mutual Authentication to the Model Context… | Mhjorleifsson | [Read More](https://medium.com/p/aa09bfcfc5c4) |
-| Thu, 16 Oct 2025 05:01:26 GMT | Consider Your Current and Future Needs: Navigating the Open Source Maturity Curve | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/55821b887b18) |
-| Thu, 16 Oct 2025 04:52:06 GMT | Pivoting | Dharmendrakumar | [Read More](https://medium.com/p/5e093e13aeb8) |
-| Thu, 16 Oct 2025 04:51:16 GMT | Fixing Exploits | Dharmendrakumar | [Read More](https://medium.com/p/9a48d74885a2) |
-| Thu, 16 Oct 2025 04:50:39 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/c29af058dba6) |
-| Thu, 16 Oct 2025 04:48:47 GMT | Noem Out, Idiocracy In: Airports Embrace Mike Judge’s Dystopian Vision | Lewis County Knews | [Read More](https://medium.com/p/788554dee8f1) |
-| Thu, 16 Oct 2025 04:44:15 GMT | How to Create a Chrome Extension from Scratch in 30 Minutes | Rizqi Mulki | [Read More](https://medium.com/p/1d1d1e1200c3) |
-| Thu, 16 Oct 2025 04:32:22 GMT | Stop Using localStorage for Tokens —  Here’s the Safer, Modern Alternative for Web Apps | SANDHYA MEHTELE | [Read More](https://medium.com/p/7b8ad03cc189) |
-| Thu, 16 Oct 2025 04:29:43 GMT | Why North American Companies Are Turning to IT Staff Augmentation | Danial | [Read More](https://medium.com/p/0882951a1333) |
-| Thu, 16 Oct 2025 04:25:37 GMT | How to Build a Scalable Tech Team Without Expanding Payroll: The Staff Augmentation Advantage | Danial | [Read More](https://medium.com/p/2b4c8d1cdc14) |
-| Thu, 16 Oct 2025 04:15:20 GMT | Anthropic’s Bombshell: The Alarming Ease of Poisoning AI Models | Biplove Yadav | [Read More](https://medium.com/p/57fe44d69568) |
-| Thu, 16 Oct 2025 04:12:15 GMT | The Great Windows Rift: How Microsoft’s Upgrade Policy Risks Alienating Millions | Zaki Qayoumi aka Zack | [Read More](https://medium.com/p/2996cda9a054) |
