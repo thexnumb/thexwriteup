@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 04:15:20 GMT | Anthropic’s Bombshell: The Alarming Ease of Poisoning AI Models | Biplove Yadav | [Read More](https://medium.com/p/57fe44d69568) |
+| Thu, 16 Oct 2025 04:12:15 GMT | The Great Windows Rift: How Microsoft’s Upgrade Policy Risks Alienating Millions | Zaki Qayoumi aka Zack | [Read More](https://medium.com/p/2996cda9a054) |
+| Thu, 16 Oct 2025 04:04:51 GMT | Daily Bugle — TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/012cc36d965c) |
+| Thu, 16 Oct 2025 03:48:34 GMT | THM Subdomain Enumeration | Jerry Wang | [Read More](https://medium.com/p/8aa83719d387) |
 | Thu, 16 Oct 2025 03:44:32 GMT | Stop XSS in Its Tracks: The Ultimate One-Page Developer Checklist | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7fc9ca40c71b) |
+| Thu, 16 Oct 2025 03:43:26 GMT | Network Reconnaissance with Naabu: A Fast Port Scanner Guide | Swetha | [Read More](https://medium.com/p/38491f1e3a39) |
 | Thu, 16 Oct 2025 03:36:55 GMT | 15 SQL Tricks to Write Cleaner and Faster Queries | Rizqi Mulki | [Read More](https://medium.com/p/8099206dad00) |
 | Thu, 16 Oct 2025 03:31:47 GMT | The WhatsApp Worm That Hijacks Trust: How Banking Malware Is Spreading Through Your Chats | Deven Chhajed | [Read More](https://medium.com/p/427aa9a91e25) |
 | Thu, 16 Oct 2025 03:24:45 GMT | Mandatory Security Certifications — 2025 | Ladecruze | [Read More](https://medium.com/p/f702ded00230) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 18:08:17 GMT | The Lobby That Launders Terror: How a Proscribed Nigerian Terrorist Group Found Power in Washington | Otega Ogra | [Read More](https://medium.com/p/cd69bb174738) |
 | Wed, 15 Oct 2025 18:03:22 GMT | Your Guide to a Free Google VPS | AbdelRhman_Sabry | [Read More](https://medium.com/p/13ea91788543) |
 | Wed, 15 Oct 2025 18:02:57 GMT | An Experiment About Criminals Hacking Websites. | jybyky | [Read More](https://medium.com/p/0df09470de85) |
-| Wed, 15 Oct 2025 18:02:24 GMT | $35,000 por un fallo en GitLab — Análisis completo de un reporte real | Gorka | [Read More](https://medium.com/p/3fe1bd5bbb00) |
-| Wed, 15 Oct 2025 18:02:14 GMT | Lookup CTF TryHackMe writeup | Telynor | [Read More](https://medium.com/p/f6b6ae9f6321) |
-| Wed, 15 Oct 2025 17:55:40 GMT | Indicator of Compromise (IOC) | Ahmed Abdelrazek | [Read More](https://medium.com/p/eb396f50ef33) |
-| Wed, 15 Oct 2025 17:48:40 GMT | How I Found a $250 XSS Bug After Losing Hope in Bug Bounty | Danish Ahmed | [Read More](https://medium.com/p/16ce5677b599) |
-| Wed, 15 Oct 2025 17:43:34 GMT | Web Uygulamaları Nasıl Çalışır? Ağdan Tarayıcıya Derinlemesine Bir Rehber | Şeyma Erol | [Read More](https://medium.com/p/6182a7a1efe1) |
