@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 22:24:56 GMT | DVWA Walkthrough: Reflected XSS (All Difficulties) | Noman Chowdhury | [Read More](https://medium.com/p/3833fd047fb0) |
 | Thu, 16 Oct 2025 21:43:22 GMT | Splunk SIEM Kurulumu | Merve Güler | [Read More](https://medium.com/p/e055e43af11c) |
 | Thu, 16 Oct 2025 21:37:23 GMT | Browser Debugging Abuse — Google Chrome | Abdul wajed Nawazish | [Read More](https://medium.com/p/a8f6ca64f11f) |
 | Thu, 16 Oct 2025 21:29:31 GMT | 2025 Cybersecurity Imperatives for MSPs: Strategic Leadership in an Evolving Threat Landscape | Donald Betancourt | [Read More](https://medium.com/p/e19943161763) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d3877fb8e00d) |
 | Thu, 16 Oct 2025 15:13:15 GMT | Log Management and Analysis | Cyber Security Research | [Read More](https://medium.com/p/141747475bb8) |
 | Thu, 16 Oct 2025 15:10:43 GMT | Westwild CTF walkthrough | Sanketh S | [Read More](https://medium.com/p/6a9cfb16b8fe) |
-| Thu, 16 Oct 2025 15:08:39 GMT | My Experience with the Blue Team Level 1 (BTL1) Certification | Citadel Cybersec | [Read More](https://medium.com/p/480c6f82ca2e) |
