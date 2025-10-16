@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 02:53:56 GMT | Why Enterprises Fail at Continuous Assurance — and How to Succeed | Dr. Deep Pandey | [Read More](https://medium.com/p/dfc6289a6784) |
+| Thu, 16 Oct 2025 02:50:37 GMT | Vulnhub haclabs walkthrough | cyber pancake | [Read More](https://medium.com/p/5ec4eea7f527) |
+| Thu, 16 Oct 2025 02:23:27 GMT | 10 Habits to Build a Powerful Cybersecurity Career | Shahzaib | [Read More](https://medium.com/p/27fb53549c90) |
+| Thu, 16 Oct 2025 02:12:17 GMT | The Invisible Shield: How AWS Security Services Empower Resilient Architecture | Opsidian | [Read More](https://medium.com/p/af7efac21d4f) |
+| Thu, 16 Oct 2025 02:09:33 GMT | Understanding Control 3.1.20: External System Connections | Arnold De La Vega | [Read More](https://medium.com/p/79b1fa3dfa94) |
+| Thu, 16 Oct 2025 01:50:57 GMT | The Importance of Identity and Access Management (IAM) in the Cloud | Samina Perveen | [Read More](https://medium.com/p/a4c2d4edfdf4) |
+| Thu, 16 Oct 2025 01:49:27 GMT | 7 Hard Truths I Wish I Knew Before Learning to Code | Harsh singh | [Read More](https://medium.com/p/e3a7aed2b4bd) |
 | Thu, 16 Oct 2025 01:33:26 GMT | How I Segmented My Home SOC Lab Using UniFi VLANs | Raynard Waits | [Read More](https://medium.com/p/4c36e86b389f) |
 | Thu, 16 Oct 2025 01:32:18 GMT | 7 FastAPI Security Patterns That Actually Ship | Hash Block | [Read More](https://medium.com/p/19c52d717668) |
 | Thu, 16 Oct 2025 01:31:20 GMT | The Day the Bedrock Cracked: Thinking Through the Red Hat Breach | Athishsagarkishan | [Read More](https://medium.com/p/03cc02e2ee03) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 17:35:35 GMT | iPhone 5S Comparison Guide: Every Model Feature Breakdown | Maya Thompson | [Read More](https://medium.com/p/03cd65f199b1) |
 | Wed, 15 Oct 2025 17:34:55 GMT | 16 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/78d51754a600) |
 | Wed, 15 Oct 2025 17:21:48 GMT | The Importance of Cybersecurity in Dallas Web Development | Creasions Digital | [Read More](https://medium.com/p/86c323003b8c) |
-| Wed, 15 Oct 2025 17:10:56 GMT | How I Used RLAIF to Turn a Physics Model into a Scientific Reasoner locally with Ollama | Suraj Kumar | [Read More](https://medium.com/p/b491eb17c06c) |
-| Wed, 15 Oct 2025 17:07:05 GMT | My Journey into Cybersecurity: Beyond Firewalls and Fear | Leonid Shevchuk | [Read More](https://medium.com/p/bd781c444621) |
-| Wed, 15 Oct 2025 17:05:47 GMT | Security and IP Protection in 3D Modeling Outsourcing: Essential Safeguards | UpTalent | [Read More](https://medium.com/p/3cfa8e9eacd3) |
-| Wed, 15 Oct 2025 16:57:30 GMT | How I Found a $250 XSS Bug After Losing Hope in Bug Bounty | Danish Ahmed | [Read More](https://medium.com/p/8ab557df4d1d) |
-| Wed, 15 Oct 2025 16:57:03 GMT | Today, I want to dive into two critical topics in the world of network security: network sniffing… | Esra Kayhan | [Read More](https://medium.com/p/02038cc3371a) |
-| Wed, 15 Oct 2025 16:55:52 GMT | Pen_Test | Shohel Rana | [Read More](https://medium.com/p/b4bfba296019) |
-| Wed, 15 Oct 2025 16:55:28 GMT | iPhone 5S User Experience: The Most Underrated Apple Device | Ahamed Afran | [Read More](https://medium.com/p/31522d5e8d68) |
