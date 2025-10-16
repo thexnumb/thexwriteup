@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 04:32:22 GMT | Stop Using localStorage for Tokens —  Here’s the Safer, Modern Alternative for Web Apps | SANDHYA MEHTELE | [Read More](https://medium.com/p/7b8ad03cc189) |
+| Thu, 16 Oct 2025 04:29:43 GMT | Why North American Companies Are Turning to IT Staff Augmentation | Danial | [Read More](https://medium.com/p/0882951a1333) |
+| Thu, 16 Oct 2025 04:25:37 GMT | How to Build a Scalable Tech Team Without Expanding Payroll: The Staff Augmentation Advantage | Danial | [Read More](https://medium.com/p/2b4c8d1cdc14) |
 | Thu, 16 Oct 2025 04:15:20 GMT | Anthropic’s Bombshell: The Alarming Ease of Poisoning AI Models | Biplove Yadav | [Read More](https://medium.com/p/57fe44d69568) |
 | Thu, 16 Oct 2025 04:12:15 GMT | The Great Windows Rift: How Microsoft’s Upgrade Policy Risks Alienating Millions | Zaki Qayoumi aka Zack | [Read More](https://medium.com/p/2996cda9a054) |
 | Thu, 16 Oct 2025 04:04:51 GMT | Daily Bugle — TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/012cc36d965c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 18:11:49 GMT | How to Build Executive Buy-In for OT Cybersecurity | Cyberkech | [Read More](https://medium.com/p/514910ada97d) |
 | Wed, 15 Oct 2025 18:09:04 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 2:Attacking LSASS | Babatunde Ojo | [Read More](https://medium.com/p/7f69f10fd893) |
 | Wed, 15 Oct 2025 18:08:55 GMT | Breaking Bad: From Bin2Vec to LLM‑Powered Malware | packet maven | [Read More](https://medium.com/p/ae9fe1b0c8d3) |
-| Wed, 15 Oct 2025 18:08:17 GMT | The Lobby That Launders Terror: How a Proscribed Nigerian Terrorist Group Found Power in Washington | Otega Ogra | [Read More](https://medium.com/p/cd69bb174738) |
-| Wed, 15 Oct 2025 18:03:22 GMT | Your Guide to a Free Google VPS | AbdelRhman_Sabry | [Read More](https://medium.com/p/13ea91788543) |
-| Wed, 15 Oct 2025 18:02:57 GMT | An Experiment About Criminals Hacking Websites. | jybyky | [Read More](https://medium.com/p/0df09470de85) |
