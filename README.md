@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 20:13:47 GMT | Misinformation on Social Media: Why Fighting Lies Is Everyone’s Responsibility | Arnav Senthil | [Read More](https://medium.com/p/0a0d1ebf5c15) |
+| Thu, 16 Oct 2025 20:10:52 GMT | When dev‑server whispers: a bug hunter’s journey discovering CVE‑2025‑30208 on a government portal. | Will.Star | [Read More](https://medium.com/p/6e7509854acc) |
+| Thu, 16 Oct 2025 19:52:37 GMT | The Gaza Exchange: Ceasefire or Strategic Illusion? | Josefine A. Brinley | [Read More](https://medium.com/p/be95a6dbf366) |
+| Thu, 16 Oct 2025 19:52:02 GMT | Day 11 of my Cybersecurity journey: Linux Shell and Scripting. | Ogundipe Priscilla | [Read More](https://medium.com/p/979c870b3bbf) |
+| Thu, 16 Oct 2025 19:49:33 GMT | IT Architecture is about drawing lines | Mohammed Brückner | [Read More](https://medium.com/p/364ea0173143) |
+| Thu, 16 Oct 2025 19:41:32 GMT | Blockchain Design Principles: Security | 0xR2R | [Read More](https://medium.com/p/ce87cf83b790) |
+| Thu, 16 Oct 2025 19:40:34 GMT | Forecasting Network Traffic with Efficient Transformers | Jude Canady | [Read More](https://medium.com/p/eaf6e6586a02) |
+| Thu, 16 Oct 2025 19:36:55 GMT | An Overview of Intrusion Detection and Prevention Systems (IDS/IPS) | Cyber_Phoenix | [Read More](https://medium.com/p/7ac8e51ae2d7) |
+| Thu, 16 Oct 2025 19:35:53 GMT | From Curves to Matrices: A New Algebraic Attack on Elliptic Curve Cryptography | Mathews Abraão | [Read More](https://medium.com/p/a9c284e43717) |
 | Thu, 16 Oct 2025 19:33:43 GMT | 10 Smart Home Security Tips Every Ottawa Homeowner Should Know | Stubs | [Read More](https://medium.com/p/2e89491850e1) |
 | Thu, 16 Oct 2025 19:25:06 GMT | Japan and Costa Rica, countries without armies. | Chronicles of the Past | [Read More](https://medium.com/p/a0920e464e18) |
 | Thu, 16 Oct 2025 19:18:59 GMT | Scorecard | Jude Canady | [Read More](https://medium.com/p/a8ee35abd419) |
@@ -21,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 19:13:25 GMT | Pro Homelab Network VLANs with Proxmox and Opnsense: The Complete Guide (Part 1) | TechTimeFly | [Read More](https://medium.com/p/7223bbbdbcdb) |
 | Thu, 16 Oct 2025 19:02:18 GMT | Why you should buy Gold even if you have only 10$ portfolio ? | Xanon | [Read More](https://medium.com/p/fcbdeb27bd1d) |
 | Thu, 16 Oct 2025 19:01:16 GMT | Internet Reconnaissance Tools(osint) | Anas M.p | [Read More](https://medium.com/p/2646b86159e7) |
+| Thu, 16 Oct 2025 18:58:06 GMT | Como Pivotar com Ligolo-NG — Guia Simplificado | Azv | [Read More](https://medium.com/p/29b7478f0883) |
 | Thu, 16 Oct 2025 18:57:10 GMT | Drosera: The Future of Web3 Security | Jude Johnson | [Read More](https://medium.com/p/167b9da45f30) |
 | Thu, 16 Oct 2025 18:50:47 GMT | Why Ransomware Has Shifted Toward Ransomware-as-a-Service (RaaS) in 2025 | Vengadesh P | [Read More](https://medium.com/p/09cfaed5cca1) |
 | Thu, 16 Oct 2025 18:48:13 GMT | Unleash Your Inner Indiana Jones with Multi-Factor Authentication | Danielle Koppel | [Read More](https://medium.com/p/476cecff8921) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 14:36:03 GMT | The Real Business Risk of Ignoring CMMC: Contractual Consequences Every DoD Supplier Should Know | Olivier Maignan | [Read More](https://medium.com/p/42a80887ab22) |
 | Thu, 16 Oct 2025 14:32:16 GMT | Friends Or Trophies: What Are We Collecting? | Nikhil Lodha | [Read More](https://medium.com/p/c243589a3399) |
 | Thu, 16 Oct 2025 14:17:32 GMT | What is Hacking | Engaabdullah | [Read More](https://medium.com/p/aef428236f26) |
-| Thu, 16 Oct 2025 14:12:16 GMT | Employee Monitoring in 2025: Balancing Productivity, Privacy, and Compliance | Paul Meyer | [Read More](https://medium.com/p/fc5e87a2d645) |
-| Thu, 16 Oct 2025 14:12:14 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 3:Attacking Windows Credential Manager | Babatunde Ojo | [Read More](https://medium.com/p/8e7433dffdfa) |
-| Thu, 16 Oct 2025 14:11:58 GMT | The Security Dilemma: How Fear Creates the Very Danger It Tries to Prevent | Abdulaziz | [Read More](https://medium.com/p/614a9084ab23) |
-| Thu, 16 Oct 2025 14:10:26 GMT | Why I Always Use Append-Only Backups on Linux (And How I Set Them Up) | Faruk Ahmed | [Read More](https://medium.com/p/24376e2d81c4) |
-| Thu, 16 Oct 2025 14:05:44 GMT | The Insider Threat Problem — Securing Custodianship and Accountability | Abatis ABTU | [Read More](https://medium.com/p/d0f07d2b4878) |
-| Thu, 16 Oct 2025 14:01:37 GMT | Broken Access Control: The Silent Web Vulnerability Hackers Exploit to Bypass Security | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6b9608935dbb) |
-| Thu, 16 Oct 2025 14:01:04 GMT | Cyber Briefing: 2025.10.16 | CyberMaterial | [Read More](https://medium.com/p/0a62f415a5f9) |
-| Thu, 16 Oct 2025 14:00:59 GMT | Stop Learning Python the Hard Way: Do This Instead in 2025 | Rocky | [Read More](https://medium.com/p/26308f6b06d3) |
-| Thu, 16 Oct 2025 14:00:17 GMT | Turns Out Cybersecurity Is Way More Intense Than I Thought — But I’m Not Giving Up | Yagmur Yerlikaya | [Read More](https://medium.com/p/dc281d939b3d) |
-| Thu, 16 Oct 2025 13:55:17 GMT | Security Monitoring Architecture for Artificial Intelligence Models in the EU Banking Sector… | Elias Nathan Hueck | [Read More](https://medium.com/p/1e31308658a9) |
