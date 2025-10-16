@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 08:20:56 GMT | Academy-walkthrough | Shashank Karan | [Read More](https://medium.com/p/e804d83f64fa) |
+| Thu, 16 Oct 2025 08:16:15 GMT | Mastering the Art of Python Data Pipelines: My Journey to Clean, Reliable Automation | Kainat Nafees | [Read More](https://medium.com/p/35abaf664662) |
+| Thu, 16 Oct 2025 08:13:39 GMT | Global POS Security Market Projected for Strong Expansion Amid Stricter Regulations and Digital… | Martinalueis | [Read More](https://medium.com/p/e762a629a802) |
+| Thu, 16 Oct 2025 08:12:19 GMT | Slayer {HackSmarter} — EN version | DobTheRob | [Read More](https://medium.com/p/9ab3e7b97a34) |
+| Thu, 16 Oct 2025 08:10:24 GMT | 【學習筆記】參加Google Cloud AI 培訓計畫 — Introduction to Security in the World of AI篇 | 嘎零的腦內劇場 | [Read More](https://medium.com/p/5bb0923ab029) |
+| Thu, 16 Oct 2025 08:06:37 GMT | CYBERSECURITY: THE PROFESSION THAT PRINTS MONEY (WITHOUT GOING TO JAIL) | PROSER | [Read More](https://medium.com/p/1c831ff2b0b9) |
+| Thu, 16 Oct 2025 08:04:50 GMT | Vulnhub Solid-State POP3 James Walkthrough | cyber pancake | [Read More](https://medium.com/p/4a4dddfb8002) |
+| Thu, 16 Oct 2025 08:02:20 GMT | The Mental Game of Cybersecurity: Why Your Mindset Matters More Than Your Tech Skills | MayhemCode | [Read More](https://medium.com/p/803bb061e7bd) |
+| Thu, 16 Oct 2025 08:02:20 GMT | How to Think Like an Attacker: A Guide to Business Logic Flaws | Andrei Ivan | [Read More](https://medium.com/p/0218a2b778d0) |
+| Thu, 16 Oct 2025 08:00:47 GMT | DockerLabs Writeup — HedgeHog (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c861584bd769) |
+| Thu, 16 Oct 2025 07:58:38 GMT | Cyber Talents Digital Forensics: “Hack a nice day” write-up | Dr_ro0t | [Read More](https://medium.com/p/8ac14b7c53eb) |
+| Thu, 16 Oct 2025 07:43:44 GMT | The Hidden Conversations of the Internet: My Dive into Wireshark | Aum Vipul | [Read More](https://medium.com/p/e9ab4f1929e0) |
+| Thu, 16 Oct 2025 07:40:55 GMT | How I Discovered an IDOR Vulnerability and Exposed Files on SIAM Beta (Indonesian) | ahmdyaasiin | [Read More](https://medium.com/p/66de0e7a4906) |
 | Thu, 16 Oct 2025 07:37:27 GMT | WGEL CTF - TryHackMe Writeup | Cillia | [Read More](https://medium.com/p/27d25752ae5a) |
 | Thu, 16 Oct 2025 07:35:22 GMT | Today’s Top Cyber Intelligence Highlights — Oct 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/727e8f86511c) |
 | Thu, 16 Oct 2025 07:32:40 GMT | How to enable FIM(File Integrity Monitoring) — Wazuh | Riad Moudjahed | [Read More](https://medium.com/p/ec32fb6b6bfb) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 01:22:17 GMT | Mastering Detection Engineering with Sigma for Cybersecurity | Mandar Kulkarni | [Read More](https://medium.com/p/8347e2b9e59d) |
 | Thu, 16 Oct 2025 01:15:05 GMT | New QR Code for WhatsApp Channel Makes Access Easier | Nathaniel Langley | [Read More](https://medium.com/p/ab72421ef9fe) |
 | Thu, 16 Oct 2025 00:57:43 GMT | CHAOSBOT: A STEALTHY RUST BACKDOOR USING DISCORD AS C2 | Jon C | [Read More](https://medium.com/p/b25faf33d57e) |
-| Thu, 16 Oct 2025 00:34:25 GMT | Data Poisoning Attacks in Computer Vision: A Hidden Threat to AI Integrity | Mustapha Aitigunaoun | [Read More](https://medium.com/p/598f24dc188e) |
-| Thu, 16 Oct 2025 00:34:15 GMT | Correlating OSINT With Dark Web Data: A Threat Hunter’s Guide | Aj | [Read More](https://medium.com/p/88c1a5845510) |
-| Thu, 16 Oct 2025 00:34:12 GMT | 2025 Cyberattack on Small Business: How Fileless Malware Hijacked Systems Through a Chrome… | Noel | [Read More](https://medium.com/p/b0b8c04d0d20) |
-| Thu, 16 Oct 2025 00:34:06 GMT | How to Identify Covert Transmitters in Everyday Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2d8cc80819de) |
-| Thu, 16 Oct 2025 00:12:00 GMT | How Secrets Became Math: From Simple Ciphers to Modern Encryption | Bob S. | [Read More](https://medium.com/p/05a57dc6791d) |
-| Thu, 16 Oct 2025 00:10:57 GMT | Do crash à shell: Buffer Overflow na prática explorando SLMail no Windows XP e a importância de… | McloHrk | [Read More](https://medium.com/p/8f9220a785bb) |
-| Wed, 15 Oct 2025 23:51:32 GMT | How to Remove Computer Viruses Safely in London (2025 Guide) | Harry Johnson | [Read More](https://medium.com/p/e08d9f1b85df) |
-| Wed, 15 Oct 2025 23:47:02 GMT | The Batcave Breach: A First-Timer’s Journey into Network Penetration Testing | MOAMEN REZK | [Read More](https://medium.com/p/d4b8ce514a77) |
-| Wed, 15 Oct 2025 23:43:28 GMT | The Cartographer Chronicles: Born from the Signal Storm | Asuquo Levy Eyo Jr | [Read More](https://medium.com/p/678841fafc5f) |
-| Wed, 15 Oct 2025 23:42:12 GMT | Unmasking the Internet’s Secret Tunnels: A Deep Dive into VPNs | Ahmed Maher | [Read More](https://medium.com/p/060b88980a4f) |
-| Wed, 15 Oct 2025 23:27:39 GMT | Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks | Cyber-AppSec | [Read More](https://medium.com/p/5523ca70a1c1) |
-| Wed, 15 Oct 2025 23:22:39 GMT | The Man Who Still Believes in Forever | Jeremy Sorensen | [Read More](https://medium.com/p/237db35d2881) |
-| Wed, 15 Oct 2025 23:16:14 GMT | Junior Security Analyst Intro - THM | Isiah | [Read More](https://medium.com/p/c1918cdeba12) |
