@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 11:12:07 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/24bca81d6c10) |
+| Thu, 16 Oct 2025 11:11:58 GMT | China is Quietly Reshaping Global Power with Your Own Data | Dexcopol | [Read More](https://medium.com/p/c667e676f896) |
+| Thu, 16 Oct 2025 11:06:38 GMT | From User to Domain Admin Explained - HackTheBox TombWatcher Writeup | Motasem Hamdan | [Read More](https://medium.com/p/d19dd11bcc52) |
+| Thu, 16 Oct 2025 10:59:08 GMT | VeriXion: The Quiet Revolution No One Sees Coming | Arius Manor | [Read More](https://medium.com/p/4eb0d3a5996e) |
+| Thu, 16 Oct 2025 10:56:46 GMT | Top 10 Universities Offering Cyber Security Degrees | Manisha Chaudhary | [Read More](https://medium.com/p/9d387dabfc49) |
+| Thu, 16 Oct 2025 10:55:48 GMT | The Agent’s Dilemma: Navigating the Edge Between “Going Rogue” and “Not Smart Enough” | Berend Watchus | [Read More](https://medium.com/p/0c89c763cbf8) |
+| Thu, 16 Oct 2025 10:54:44 GMT | Security Best Practices for Backend Developers in 2025 | Shweta chaturvedi | [Read More](https://medium.com/p/34efaa4d06e3) |
+| Thu, 16 Oct 2025 10:53:02 GMT | Hackers Backdoor: Build a Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/827ac95e69ec) |
+| Thu, 16 Oct 2025 10:49:47 GMT | [CyberSec] Building a Threat-Informed Defense Program Using MITRE ATT&CK | Pietro Romano / SecBeret | [Read More](https://medium.com/p/a6700fb8c1af) |
+| Thu, 16 Oct 2025 10:35:08 GMT | How Cracked Software Can Compromise Your Privacy and Security | Williammiller | [Read More](https://medium.com/p/c21ed7e11f15) |
 | Thu, 16 Oct 2025 10:28:42 GMT | How Hospitality Self-Ordering Kiosks Are Transforming Hotels and Cafes | Rakesh | [Read More](https://medium.com/p/7d6c4f0f5cf3) |
 | Thu, 16 Oct 2025 10:23:51 GMT | Silver Ticket Attack in kerberos for beginners | SeverSerenity | [Read More](https://medium.com/p/9b7ec171bef6) |
 | Thu, 16 Oct 2025 10:20:56 GMT | The Real Measure of Cybersecurity Isn’t on Paper but in the Breaches You Prevent | Trust Consulting Services | [Read More](https://medium.com/p/ee02191e441d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 06:30:11 GMT | Top 10 Ethical Hacking Courses with Placement Support | Manisha Chaudhary | [Read More](https://medium.com/p/a3e0f877d093) |
 | Thu, 16 Oct 2025 06:29:10 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services and Security Services… | Ciss India | [Read More](https://medium.com/p/e6b52961bc65) |
 | Thu, 16 Oct 2025 06:19:41 GMT | SPARK Matrix™: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/4634842c9a1f) |
-| Thu, 16 Oct 2025 06:19:33 GMT | The New Wave of Deception Technology Tools | Lanvaus | [Read More](https://medium.com/p/5cd675e79b59) |
-| Thu, 16 Oct 2025 06:16:08 GMT | Is the iPhone 5S Still Worth Buying? Honest Performance Check | Isabella Foster | [Read More](https://medium.com/p/878108650d96) |
-| Thu, 16 Oct 2025 06:12:16 GMT | How to start Web VAPT for Beginners️ | VAPTify | [Read More](https://medium.com/p/1f7194c8f48f) |
-| Thu, 16 Oct 2025 06:10:17 GMT | Should You Upgrade from iPhone 6s or Keep It Running? | Lihua Chen | [Read More](https://medium.com/p/60985981cf06) |
-| Thu, 16 Oct 2025 06:10:08 GMT | The Daily Tech Digest: 16 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2df665607a3a) |
-| Thu, 16 Oct 2025 06:09:32 GMT | Jumping over Medium paywalls | Liorum | [Read More](https://medium.com/p/a87f5dd696da) |
-| Thu, 16 Oct 2025 06:05:58 GMT | IT Talent & Skills: Surviving the Talent Shortage in Australian Tech | Elevate | [Read More](https://medium.com/p/f1c52884ef2c) |
-| Thu, 16 Oct 2025 05:57:43 GMT | $ How I Discovered a Business-Logic Bug That Bypasses VAT and Slashes Shipping Costs | Zyad Ibrahim | [Read More](https://medium.com/p/48a63d43fdbb) |
-| Thu, 16 Oct 2025 05:52:56 GMT | How I Mastered Blind SQL Injection With One Simple Method | Ibtissam hammadi | [Read More](https://medium.com/p/23c21612ccf5) |
-| Thu, 16 Oct 2025 05:40:20 GMT | How AI Is Making Online Scams and Misinformation More Dangerous Than Ever | Yousaf javed | [Read More](https://medium.com/p/ee2a088a8f0b) |
