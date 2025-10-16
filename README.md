@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 01:33:26 GMT | How I Segmented My Home SOC Lab Using UniFi VLANs | Raynard Waits | [Read More](https://medium.com/p/4c36e86b389f) |
+| Thu, 16 Oct 2025 01:32:18 GMT | 7 FastAPI Security Patterns That Actually Ship | Hash Block | [Read More](https://medium.com/p/19c52d717668) |
+| Thu, 16 Oct 2025 01:31:20 GMT | The Day the Bedrock Cracked: Thinking Through the Red Hat Breach | Athishsagarkishan | [Read More](https://medium.com/p/03cc02e2ee03) |
+| Thu, 16 Oct 2025 01:22:17 GMT | Mastering Detection Engineering with Sigma for Cybersecurity | Mandar Kulkarni | [Read More](https://medium.com/p/8347e2b9e59d) |
+| Thu, 16 Oct 2025 01:15:05 GMT | New QR Code for WhatsApp Channel Makes Access Easier | Nathaniel Langley | [Read More](https://medium.com/p/ab72421ef9fe) |
+| Thu, 16 Oct 2025 00:57:43 GMT | CHAOSBOT: A STEALTHY RUST BACKDOOR USING DISCORD AS C2 | Jon C | [Read More](https://medium.com/p/b25faf33d57e) |
+| Thu, 16 Oct 2025 00:34:25 GMT | Data Poisoning Attacks in Computer Vision: A Hidden Threat to AI Integrity | Mustapha Aitigunaoun | [Read More](https://medium.com/p/598f24dc188e) |
+| Thu, 16 Oct 2025 00:34:15 GMT | Correlating OSINT With Dark Web Data: A Threat Hunter’s Guide | Aj | [Read More](https://medium.com/p/88c1a5845510) |
+| Thu, 16 Oct 2025 00:34:12 GMT | 2025 Cyberattack on Small Business: How Fileless Malware Hijacked Systems Through a Chrome… | Noel | [Read More](https://medium.com/p/b0b8c04d0d20) |
+| Thu, 16 Oct 2025 00:34:06 GMT | How to Identify Covert Transmitters in Everyday Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2d8cc80819de) |
+| Thu, 16 Oct 2025 00:12:00 GMT | How Secrets Became Math: From Simple Ciphers to Modern Encryption | Bob S. | [Read More](https://medium.com/p/05a57dc6791d) |
+| Thu, 16 Oct 2025 00:10:57 GMT | Do crash à shell: Buffer Overflow na prática explorando SLMail no Windows XP e a importância de… | McloHrk | [Read More](https://medium.com/p/8f9220a785bb) |
+| Wed, 15 Oct 2025 23:51:32 GMT | How to Remove Computer Viruses Safely in London (2025 Guide) | Harry Johnson | [Read More](https://medium.com/p/e08d9f1b85df) |
+| Wed, 15 Oct 2025 23:47:02 GMT | The Batcave Breach: A First-Timer’s Journey into Network Penetration Testing | MOAMEN REZK | [Read More](https://medium.com/p/d4b8ce514a77) |
+| Wed, 15 Oct 2025 23:43:28 GMT | The Cartographer Chronicles: Born from the Signal Storm | Asuquo Levy Eyo Jr | [Read More](https://medium.com/p/678841fafc5f) |
+| Wed, 15 Oct 2025 23:42:12 GMT | Unmasking the Internet’s Secret Tunnels: A Deep Dive into VPNs | Ahmed Maher | [Read More](https://medium.com/p/060b88980a4f) |
 | Wed, 15 Oct 2025 23:27:39 GMT | Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks | Cyber-AppSec | [Read More](https://medium.com/p/5523ca70a1c1) |
 | Wed, 15 Oct 2025 23:22:39 GMT | The Man Who Still Believes in Forever | Jeremy Sorensen | [Read More](https://medium.com/p/237db35d2881) |
 | Wed, 15 Oct 2025 23:16:14 GMT | Junior Security Analyst Intro - THM | Isiah | [Read More](https://medium.com/p/c1918cdeba12) |
@@ -96,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 16:57:03 GMT | Today, I want to dive into two critical topics in the world of network security: network sniffing… | Esra Kayhan | [Read More](https://medium.com/p/02038cc3371a) |
 | Wed, 15 Oct 2025 16:55:52 GMT | Pen_Test | Shohel Rana | [Read More](https://medium.com/p/b4bfba296019) |
 | Wed, 15 Oct 2025 16:55:28 GMT | iPhone 5S User Experience: The Most Underrated Apple Device | Ahamed Afran | [Read More](https://medium.com/p/31522d5e8d68) |
-| Wed, 15 Oct 2025 16:55:04 GMT | Should You Keep or Sell Your Old iPhone 5S? Expert Tips | Diya Afrin | [Read More](https://medium.com/p/d8c00574370f) |
-| Wed, 15 Oct 2025 16:50:14 GMT | Following the Shadow Trace: A Malware and EDR Investigation Walkthrough ️‍♀️ | Furkanctiner | [Read More](https://medium.com/p/9a581d4bb411) |
-| Wed, 15 Oct 2025 16:44:35 GMT | From Touch ID to Legacy: The iPhone 5S Story Explained | Lihua Chen | [Read More](https://medium.com/p/83affd227d65) |
-| Wed, 15 Oct 2025 16:35:26 GMT | Vulnerable Windows 7 (Tester: Penuel)
-‎
-‎Target: Windows 7
-‎Engagement type: Network penetration… | PENUEL SHERIFF | [Read More](https://medium.com/p/25fcbe107c6f) |
-| Wed, 15 Oct 2025 16:34:47 GMT | Rubber Ducky clone with Pro Micro micro controller | Avni Emini | [Read More](https://medium.com/p/f6979b3fbe3b) |
-| Wed, 15 Oct 2025 16:32:32 GMT | CloudGoat Beanstalk Scenario | Rohail | [Read More](https://medium.com/p/df7a2da7ec61) |
-| Wed, 15 Oct 2025 16:31:12 GMT | The Silent Breach: How Law Firms Are Unknowingly Exposing Client Data in the Cloud | Opsidian | [Read More](https://medium.com/p/57ec47719c45) |
-| Wed, 15 Oct 2025 16:30:24 GMT | PhishStrike Lab Writeup | Jaws | [Read More](https://medium.com/p/fa48a4e46ce7) |
-| Wed, 15 Oct 2025 16:26:31 GMT | The Importance of Job Agencies for Entry-Level IT Candidates | 2iResourcing | [Read More](https://medium.com/p/40f89abd4b12) |
-| Wed, 15 Oct 2025 16:23:42 GMT | Fake Onion Links: How They Trick Researchers | Tor BBB | [Read More](https://medium.com/p/d9964910f52b) |
-| Wed, 15 Oct 2025 16:20:02 GMT | “The Day the World Froze: Inside the WannaCry Ransomware Attack” | Pooja Borade | [Read More](https://medium.com/p/d033f2c08462) |
-| Wed, 15 Oct 2025 16:20:01 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 1:Attacking SAM, SYSTEM, and SECURITY | Babatunde Ojo | [Read More](https://medium.com/p/6d89764a4b92) |
-| Wed, 15 Oct 2025 16:18:49 GMT | The Overlooked Cybersecurity Threat | Kelly Wofford | [Read More](https://medium.com/p/44b1e8eb3989) |
-| Wed, 15 Oct 2025 16:13:20 GMT | Your npm Tokens Will Stop Working: GitHub’s New Security Rules and the Migration Playbook | Juan Andrés Leiva | [Read More](https://medium.com/p/70385bee91ce) |
-| Wed, 15 Oct 2025 16:10:46 GMT | Being Too Strong Also Hurts | Bruno Pimentel | [Read More](https://medium.com/p/ddc6a07f7de8) |
-| Wed, 15 Oct 2025 16:06:00 GMT | If you follow this fake Walmart ad, all you’ll get is spam . . . | SafeNetting | [Read More](https://medium.com/p/fdb7a7a011b9) |
