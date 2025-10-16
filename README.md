@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 21:43:22 GMT | Splunk SIEM Kurulumu | Merve Güler | [Read More](https://medium.com/p/e055e43af11c) |
+| Thu, 16 Oct 2025 21:37:23 GMT | Browser Debugging Abuse — Google Chrome | Abdul wajed Nawazish | [Read More](https://medium.com/p/a8f6ca64f11f) |
 | Thu, 16 Oct 2025 21:29:31 GMT | 2025 Cybersecurity Imperatives for MSPs: Strategic Leadership in an Evolving Threat Landscape | Donald Betancourt | [Read More](https://medium.com/p/e19943161763) |
 | Thu, 16 Oct 2025 21:23:26 GMT | SIEM, Startups, and the Myth (Reality?) of IT Inertia: A Reformed Analyst Reflects on SIEM MQ 2025 | Anton Chuvakin | [Read More](https://medium.com/p/88dc45358fba) |
 | Thu, 16 Oct 2025 21:20:56 GMT | Human computer interaction ( HCI) | Anish_Ali | [Read More](https://medium.com/p/b2c755f5fe0c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 15:13:15 GMT | Log Management and Analysis | Cyber Security Research | [Read More](https://medium.com/p/141747475bb8) |
 | Thu, 16 Oct 2025 15:10:43 GMT | Westwild CTF walkthrough | Sanketh S | [Read More](https://medium.com/p/6a9cfb16b8fe) |
 | Thu, 16 Oct 2025 15:08:39 GMT | My Experience with the Blue Team Level 1 (BTL1) Certification | Citadel Cybersec | [Read More](https://medium.com/p/480c6f82ca2e) |
-| Thu, 16 Oct 2025 15:03:10 GMT | Understanding MS Graph Application Details in the AzureAD Terraform Provider | Mark Tinderholt | [Read More](https://medium.com/p/031d9d413cdb) |
-| Thu, 16 Oct 2025 15:02:02 GMT | ISO 27701:2025: Turning Privacy Compliance into a Competitive Advantage | Valdez Ladd | [Read More](https://medium.com/p/288b1bbd46a9) |
