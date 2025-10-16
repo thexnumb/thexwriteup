@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 16:40:16 GMT | Forging a Weapon: My Journey Building an AI-Powered Red Team Appliance | codebreaker | [Read More](https://medium.com/p/639de13ad511) |
+| Thu, 16 Oct 2025 16:37:24 GMT | A New Crack in Unbreakable Encryption? | Mathews Abraão Pereira Lima | [Read More](https://medium.com/p/9b5b06fcefc8) |
 | Thu, 16 Oct 2025 16:25:21 GMT | ️ jsrip — Automated JavaScript Ripper & Analyzer for Bug Hunters | Moute | [Read More](https://medium.com/p/7e57d72a858b) |
 | Thu, 16 Oct 2025 16:24:27 GMT | ️‍♂️ CTFs ≠ Real-World Hacking | Chhavipreet Kaur | [Read More](https://medium.com/p/6516077aacf7) |
+| Thu, 16 Oct 2025 16:23:37 GMT | Join Clado Solutions — Top IT Courses and Certification in Kochi | Clado Solutions | [Read More](https://medium.com/p/a8c91da0f4e7) |
+| Thu, 16 Oct 2025 16:20:13 GMT | Why My FileReader Base64 Conversion Failed and How I Fixed It | Shilpe Saxena | [Read More](https://medium.com/p/4b17192da124) |
 | Thu, 16 Oct 2025 16:16:51 GMT | AI Knows Your Secrets. Therapy Makes You Unhackable | Herman Fransen | [Read More](https://medium.com/p/cb3c1b863ef4) |
 | Thu, 16 Oct 2025 16:16:45 GMT | I Warned Google About AI Poisoning Attacks. | Jonathan R Belanger | [Read More](https://medium.com/p/50d68e7bfa00) |
 | Thu, 16 Oct 2025 16:14:30 GMT | When Your Spring Boot App Decides to Share Secrets with Strangers | Vivek D | [Read More](https://medium.com/p/67fca4c96599) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 11:10:23 GMT | Bandit Wargame Walkthrough Levels 0–10 | kidest Dereje | [Read More](https://medium.com/p/4405ae66a003) |
 | Thu, 16 Oct 2025 11:06:38 GMT | From User to Domain Admin Explained - HackTheBox TombWatcher Writeup | Motasem Hamdan | [Read More](https://medium.com/p/d19dd11bcc52) |
 | Thu, 16 Oct 2025 10:59:08 GMT | VeriXion: The Quiet Revolution No One Sees Coming | Arius Manor | [Read More](https://medium.com/p/4eb0d3a5996e) |
-| Thu, 16 Oct 2025 10:56:46 GMT | Top 10 Universities Offering Cyber Security Degrees | Manisha Chaudhary | [Read More](https://medium.com/p/9d387dabfc49) |
-| Thu, 16 Oct 2025 10:55:48 GMT | The Agent’s Dilemma: Navigating the Edge Between “Going Rogue” and “Not Smart Enough” | Berend Watchus | [Read More](https://medium.com/p/0c89c763cbf8) |
-| Thu, 16 Oct 2025 10:54:44 GMT | Security Best Practices for Backend Developers in 2025 | Shweta chaturvedi | [Read More](https://medium.com/p/34efaa4d06e3) |
-| Thu, 16 Oct 2025 10:53:02 GMT | Hackers Backdoor: Build a Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/827ac95e69ec) |
