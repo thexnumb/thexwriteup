@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 09:18:33 GMT | LazySysAdmin(VulnHub)Write-up | Bill Mukenga | [Read More](https://medium.com/p/1a38e8fc508f) |
+| Thu, 16 Oct 2025 09:09:06 GMT | Safeguarding Data: A Deep Dive into On-Device Encryption with AndroidKeyStore | Sivavishnu | [Read More](https://medium.com/p/336d39e7228b) |
+| Thu, 16 Oct 2025 09:08:43 GMT | Boost Cyber Resilience with Axipro’s NIST Cybersecurity Framework Certification | Axipro | [Read More](https://medium.com/p/eaa9a7e65b05) |
+| Thu, 16 Oct 2025 09:06:17 GMT | Where to Hide a GPS in Your Car So Thieves Won’t Find It (and How to Pick the Right Unit) | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/02a400eebe03) |
+| Thu, 16 Oct 2025 09:05:11 GMT | DNS Cache Davranışlarının Anatomisi: Get-DnsServerCache Derinlemesine Analiz | Tuğrul Kılıç | [Read More](https://medium.com/p/446519247288) |
+| Thu, 16 Oct 2025 09:01:56 GMT | What Is SOC 2 (and Why Your Customers Keep Asking About It)? | Hicomply | [Read More](https://medium.com/p/005ec7b6a8f6) |
+| Thu, 16 Oct 2025 08:58:48 GMT | Mastering Termux for Android Ethical Hacking and Automation | Rodhi Faisal Mufid | [Read More](https://medium.com/p/ef49b6332361) |
+| Thu, 16 Oct 2025 08:58:37 GMT | You Do not Always Have to Be Strong; it is Enough to Be Honest with Yourself | Mioara Crenganis | [Read More](https://medium.com/p/9b6b8301ae80) |
+| Thu, 16 Oct 2025 08:57:49 GMT | Unveiling Vulnerabilities: Exploring SWD Attack Surface In Hardware | Redfox Security | [Read More](https://medium.com/p/02ab86fac97b) |
+| Thu, 16 Oct 2025 08:56:42 GMT | Syndika Partners with Hacken: Building Trust in Blockchain Security & Compliance | Syndika | [Read More](https://medium.com/p/93dde2ac8c06) |
+| Thu, 16 Oct 2025 08:45:02 GMT | Strengthening Your Digital Defense: How Cyber Security Services Safeguard Businesses in 2025 | NAVYA BURUGUPALLI | [Read More](https://medium.com/p/e338c7aa4cdc) |
+| Thu, 16 Oct 2025 08:44:58 GMT | Useful Wireshark Filters | Shashank Karan | [Read More](https://medium.com/p/d363c29764c0) |
+| Thu, 16 Oct 2025 08:39:10 GMT | Improving Azure Visibility and Secrets Monitoring with Wazuh and Custom Dashboards | Efam Harris | [Read More](https://medium.com/p/94ece676a9b9) |
 | Thu, 16 Oct 2025 08:38:06 GMT | My Journey Through Cisco Endpoint Security Projects on Windows | Cyber Timi | [Read More](https://medium.com/p/df4e2f62d477) |
 | Thu, 16 Oct 2025 08:37:41 GMT | Hash Cracking di Kali Linux | Zulfianarahmi | [Read More](https://medium.com/p/717ccdb26ad8) |
 | Thu, 16 Oct 2025 08:34:47 GMT | TRICARE at Risk: How Centene’s Cybersecurity Failures Threaten Military Families | Centengate | [Read More](https://medium.com/p/dd883665e392) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 03:44:32 GMT | Stop XSS in Its Tracks: The Ultimate One-Page Developer Checklist | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7fc9ca40c71b) |
 | Thu, 16 Oct 2025 03:43:26 GMT | Network Reconnaissance with Naabu: A Fast Port Scanner Guide | Swetha | [Read More](https://medium.com/p/38491f1e3a39) |
 | Thu, 16 Oct 2025 03:36:55 GMT | 15 SQL Tricks to Write Cleaner and Faster Queries | Rizqi Mulki | [Read More](https://medium.com/p/8099206dad00) |
-| Thu, 16 Oct 2025 03:31:47 GMT | The WhatsApp Worm That Hijacks Trust: How Banking Malware Is Spreading Through Your Chats | Deven Chhajed | [Read More](https://medium.com/p/427aa9a91e25) |
-| Thu, 16 Oct 2025 03:24:45 GMT | Mandatory Security Certifications — 2025 | Ladecruze | [Read More](https://medium.com/p/f702ded00230) |
-| Thu, 16 Oct 2025 03:24:15 GMT | A 10-Level Red/Blue Team Game That Combines fun with learning | Cybasquad | [Read More](https://medium.com/p/b9301253b254) |
-| Thu, 16 Oct 2025 03:24:11 GMT | iPhone 5S Durability Test: How Strong Is Apple’s Old Classic? | Emery Bennett | [Read More](https://medium.com/p/bb1999073d7e) |
-| Thu, 16 Oct 2025 03:19:08 GMT | You Won’t Believe These 10 Linux Commands Actually Exist | Kuldeepkumawat | [Read More](https://medium.com/p/cc489d085ca8) |
-| Thu, 16 Oct 2025 03:06:49 GMT | The Real Reason Tech Lovers Still Use the iPhone 5S | Zoey Lewis | [Read More](https://medium.com/p/cb49b998f188) |
-| Thu, 16 Oct 2025 03:01:50 GMT | Skynet — TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/9cbd8eb58dbf) |
-| Thu, 16 Oct 2025 02:58:17 GMT | Criminal IP is joining GovWare 2025, one of Asia’s largest cybersecurity conferences! | Criminal IP | [Read More](https://medium.com/p/8a82101a14f4) |
-| Thu, 16 Oct 2025 02:53:56 GMT | Why Enterprises Fail at Continuous Assurance — and How to Succeed | Dr. Deep Pandey | [Read More](https://medium.com/p/dfc6289a6784) |
-| Thu, 16 Oct 2025 02:50:37 GMT | Vulnhub haclabs walkthrough | cyber pancake | [Read More](https://medium.com/p/5ec4eea7f527) |
-| Thu, 16 Oct 2025 02:23:27 GMT | 10 Habits to Build a Powerful Cybersecurity Career | Shahzaib | [Read More](https://medium.com/p/27fb53549c90) |
-| Thu, 16 Oct 2025 02:12:17 GMT | The Invisible Shield: How AWS Security Services Empower Resilient Architecture | Opsidian | [Read More](https://medium.com/p/af7efac21d4f) |
-| Thu, 16 Oct 2025 02:09:33 GMT | Understanding Control 3.1.20: External System Connections | Arnold De La Vega | [Read More](https://medium.com/p/79b1fa3dfa94) |
