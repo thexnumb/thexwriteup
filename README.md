@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 14:11:58 GMT | The Security Dilemma: How Fear Creates the Very Danger It Tries to Prevent | Abdulaziz | [Read More](https://medium.com/p/614a9084ab23) |
+| Thu, 16 Oct 2025 14:10:26 GMT | Why I Always Use Append-Only Backups on Linux (And How I Set Them Up) | Faruk Ahmed | [Read More](https://medium.com/p/24376e2d81c4) |
+| Thu, 16 Oct 2025 14:05:44 GMT | The Insider Threat Problem — Securing Custodianship and Accountability | Abatis ABTU | [Read More](https://medium.com/p/d0f07d2b4878) |
+| Thu, 16 Oct 2025 14:01:37 GMT | Broken Access Control: The Silent Web Vulnerability Hackers Exploit to Bypass Security | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6b9608935dbb) |
+| Thu, 16 Oct 2025 14:01:04 GMT | Cyber Briefing: 2025.10.16 | CyberMaterial | [Read More](https://medium.com/p/0a62f415a5f9) |
+| Thu, 16 Oct 2025 14:00:59 GMT | Stop Learning Python the Hard Way: Do This Instead in 2025 | Rocky | [Read More](https://medium.com/p/26308f6b06d3) |
+| Thu, 16 Oct 2025 14:00:17 GMT | Turns Out Cybersecurity Is Way More Intense Than I Thought — But I’m Not Giving Up | Yagmur Yerlikaya | [Read More](https://medium.com/p/dc281d939b3d) |
+| Thu, 16 Oct 2025 13:55:17 GMT | Security Monitoring Architecture for Artificial Intelligence Models in the EU Banking Sector… | Elias Nathan Hueck | [Read More](https://medium.com/p/1e31308658a9) |
+| Thu, 16 Oct 2025 13:54:38 GMT | Critical Apache ActiveMQ Flaw Could Let Attackers Execute Code Remotely | Jasmitharouthu | [Read More](https://medium.com/p/ef01b0abaf99) |
+| Thu, 16 Oct 2025 13:52:15 GMT | Mastering Secret Hunting: Step-by-Step Guide to Grep & Git in Codebase Security | Very Lazy Tech | [Read More](https://medium.com/p/f3e3a3390337) |
+| Thu, 16 Oct 2025 13:48:58 GMT | 2 Best Self-Hosted Bounty Programs | Abhirup Konwar | [Read More](https://medium.com/p/8769ba40b85a) |
+| Thu, 16 Oct 2025 13:42:56 GMT | Oracle’s Shadow Student | David ONeal | [Read More](https://medium.com/p/9a540207c98b) |
+| Thu, 16 Oct 2025 13:36:37 GMT | The Largest NPM Supply Chain Attack Ever | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/86621653df76) |
+| Thu, 16 Oct 2025 13:36:09 GMT | Why Your Intelligence System Lies To You And How Natalia Fixes It | Sapifh | [Read More](https://medium.com/p/fbd253f74101) |
+| Thu, 16 Oct 2025 13:34:52 GMT | How I Built a Bot to Scrape Scribd: A Deep Dive into Dynamic Content and Automation | Akın Ateş | [Read More](https://medium.com/p/341396180301) |
 | Thu, 16 Oct 2025 13:22:19 GMT | I Tried AWS’s ABAC Setup for Secrets in EKS — Here’s What Actually Happens | Dev0ps | [Read More](https://medium.com/p/272365264bb5) |
 | Thu, 16 Oct 2025 13:14:42 GMT | Getting Started with grep in Linux (Day 5 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/458c848c1903) |
 | Thu, 16 Oct 2025 13:14:03 GMT | It’s not the world you’re fighting, it’s you | Rifdadah | [Read More](https://medium.com/p/a2d703e51745) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 08:58:37 GMT | You Do not Always Have to Be Strong; it is Enough to Be Honest with Yourself | Mioara Crenganis | [Read More](https://medium.com/p/9b6b8301ae80) |
 | Thu, 16 Oct 2025 08:57:49 GMT | Unveiling Vulnerabilities: Exploring SWD Attack Surface In Hardware | Redfox Security | [Read More](https://medium.com/p/02ab86fac97b) |
 | Thu, 16 Oct 2025 08:56:42 GMT | Syndika Partners with Hacken: Building Trust in Blockchain Security & Compliance | Syndika | [Read More](https://medium.com/p/93dde2ac8c06) |
-| Thu, 16 Oct 2025 08:45:02 GMT | Strengthening Your Digital Defense: How Cyber Security Services Safeguard Businesses in 2025 | NAVYA BURUGUPALLI | [Read More](https://medium.com/p/e338c7aa4cdc) |
-| Thu, 16 Oct 2025 08:44:58 GMT | Useful Wireshark Filters | Shashank Karan | [Read More](https://medium.com/p/d363c29764c0) |
-| Thu, 16 Oct 2025 08:39:10 GMT | Improving Azure Visibility and Secrets Monitoring with Wazuh and Custom Dashboards | Efam Harris | [Read More](https://medium.com/p/94ece676a9b9) |
-| Thu, 16 Oct 2025 08:38:06 GMT | My Journey Through Cisco Endpoint Security Projects on Windows | Cyber Timi | [Read More](https://medium.com/p/df4e2f62d477) |
-| Thu, 16 Oct 2025 08:37:41 GMT | Hash Cracking di Kali Linux | Zulfianarahmi | [Read More](https://medium.com/p/717ccdb26ad8) |
-| Thu, 16 Oct 2025 08:34:47 GMT | TRICARE at Risk: How Centene’s Cybersecurity Failures Threaten Military Families | Centengate | [Read More](https://medium.com/p/dd883665e392) |
-| Thu, 16 Oct 2025 08:33:11 GMT | Byte_Eagle-4 Walkthrough | Shashank Karan | [Read More](https://medium.com/p/f784ea639d20) |
-| Thu, 16 Oct 2025 08:32:38 GMT | Lagi, MySertifikasi Hadirkan Webinar Cyber Security bersama Pakarnya | Evaindobot | [Read More](https://medium.com/p/94e055a1fe94) |
-| Thu, 16 Oct 2025 08:25:45 GMT | Understanding the rel=’noopener noreferrer’ Attribute | Michael Andreuzza | [Read More](https://medium.com/p/c922a2360223) |
-| Thu, 16 Oct 2025 08:25:25 GMT | 5 Powerful Lessons from the F5 Breach Source Code Theft | Pentest_Testing_Corp | [Read More](https://medium.com/p/779fb6800a8f) |
-| Thu, 16 Oct 2025 08:21:21 GMT | How Hackers Use Your IP Address (And Why You Should Actually Care) | Abraham Bishop | [Read More](https://medium.com/p/22ee29398477) |
-| Thu, 16 Oct 2025 08:20:56 GMT | Academy-walkthrough | Shashank Karan | [Read More](https://medium.com/p/e804d83f64fa) |
-| Thu, 16 Oct 2025 08:16:15 GMT | Mastering the Art of Python Data Pipelines: My Journey to Clean, Reliable Automation | Kainat Nafees | [Read More](https://medium.com/p/35abaf664662) |
-| Thu, 16 Oct 2025 08:13:39 GMT | Global POS Security Market Projected for Strong Expansion Amid Stricter Regulations and Digital… | Martinalueis | [Read More](https://medium.com/p/e762a629a802) |
-| Thu, 16 Oct 2025 08:12:19 GMT | Slayer {HackSmarter} — EN version | DobTheRob | [Read More](https://medium.com/p/9ab3e7b97a34) |
