@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 11:31:46 GMT | 25. Monetizing Your Skills Beyond Bug Bounty | Abhijeet kumawat | [Read More](https://medium.com/p/a6b503d6b6dc) |
+| Thu, 16 Oct 2025 11:22:42 GMT | How an Instagram Post Became a Blueprint for Murder: An OSINT Case Study | Ahmed Mohammed | [Read More](https://medium.com/p/c5186217adc1) |
+| Thu, 16 Oct 2025 11:12:17 GMT | The Ethics of Biohacking: Where Curiosity Meets Controversy | mishita maggo | [Read More](https://medium.com/p/ee9a51fe3e20) |
 | Thu, 16 Oct 2025 11:12:07 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/24bca81d6c10) |
 | Thu, 16 Oct 2025 11:11:58 GMT | China is Quietly Reshaping Global Power with Your Own Data | Dexcopol | [Read More](https://medium.com/p/c667e676f896) |
+| Thu, 16 Oct 2025 11:10:25 GMT | Unparalleled Wazuh Active Response Misconfiguration Locks Out Entire Team | Andrew Keitany | [Read More](https://medium.com/p/bd3b18c78829) |
+| Thu, 16 Oct 2025 11:10:23 GMT | Bandit Wargame Walkthrough Levels 0–10 | kidest Dereje | [Read More](https://medium.com/p/4405ae66a003) |
 | Thu, 16 Oct 2025 11:06:38 GMT | From User to Domain Admin Explained - HackTheBox TombWatcher Writeup | Motasem Hamdan | [Read More](https://medium.com/p/d19dd11bcc52) |
 | Thu, 16 Oct 2025 10:59:08 GMT | VeriXion: The Quiet Revolution No One Sees Coming | Arius Manor | [Read More](https://medium.com/p/4eb0d3a5996e) |
 | Thu, 16 Oct 2025 10:56:46 GMT | Top 10 Universities Offering Cyber Security Degrees | Manisha Chaudhary | [Read More](https://medium.com/p/9d387dabfc49) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 06:40:19 GMT | Software Architecture Saga — Chant 1 — The Epopee Begins… | Alessandro Bruschieri | [Read More](https://medium.com/p/aac07a1d6926) |
 | Thu, 16 Oct 2025 06:38:19 GMT | AI in Cybersecurity: Friend, Foe, or Both? | Deepak Sharma | [Read More](https://medium.com/p/d030b138e043) |
 | Thu, 16 Oct 2025 06:35:33 GMT | Boost your career with a cybersecurity course in Kochi designed to equip you with practical skills… | abhi | [Read More](https://medium.com/p/032724fd7432) |
-| Thu, 16 Oct 2025 06:32:19 GMT | From Curiosity to Cybersecurity: My Journey So Far ✨ | Chhavipreet Kaur | [Read More](https://medium.com/p/736a3a910a4d) |
-| Thu, 16 Oct 2025 06:31:44 GMT | Gain hands-on skills to protect digital systems and data through our cybersecurity course in Kochi. | abhi | [Read More](https://medium.com/p/69e840b2730a) |
-| Thu, 16 Oct 2025 06:30:11 GMT | Top 10 Ethical Hacking Courses with Placement Support | Manisha Chaudhary | [Read More](https://medium.com/p/a3e0f877d093) |
-| Thu, 16 Oct 2025 06:29:10 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services and Security Services… | Ciss India | [Read More](https://medium.com/p/e6b52961bc65) |
-| Thu, 16 Oct 2025 06:19:41 GMT | SPARK Matrix™: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/4634842c9a1f) |
