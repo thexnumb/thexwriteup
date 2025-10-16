@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 07:37:27 GMT | WGEL CTF - TryHackMe Writeup | Cillia | [Read More](https://medium.com/p/27d25752ae5a) |
+| Thu, 16 Oct 2025 07:35:22 GMT | Today’s Top Cyber Intelligence Highlights — Oct 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/727e8f86511c) |
+| Thu, 16 Oct 2025 07:32:40 GMT | How to enable FIM(File Integrity Monitoring) — Wazuh | Riad Moudjahed | [Read More](https://medium.com/p/ec32fb6b6bfb) |
+| Thu, 16 Oct 2025 07:31:52 GMT | Chronos Vault Trinity Protocol: Live on Testnet | Chronos Vault | [Read More](https://medium.com/p/10277e015fed) |
+| Thu, 16 Oct 2025 07:31:40 GMT | Chrome Just Declared War on Your Privacy. Here’s How to Fight Back. | Berker Ceylan | [Read More](https://medium.com/p/efa75dff0c51) |
+| Thu, 16 Oct 2025 07:29:57 GMT | What are Managed Cybersecurity Services and How Do They Help IT Infrastructure Solutions? | Mathewneelan | [Read More](https://medium.com/p/fc84f6befe67) |
+| Thu, 16 Oct 2025 07:28:17 GMT | Pre-Engagement Phases in Penetration Testing (Pentester, Management, and Business Perspectives) | Justakazh | [Read More](https://medium.com/p/50ca1a26ceec) |
+| Thu, 16 Oct 2025 07:27:32 GMT | Will cybersecurity be taken over by AI? | Shivakshi Rawat | [Read More](https://medium.com/p/b7d012a49352) |
+| Thu, 16 Oct 2025 07:22:29 GMT | Extended Network Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/59b26fb2ee0d) |
+| Thu, 16 Oct 2025 07:16:46 GMT | Beyond the Virus: Why Your PC Needs a Malware Removal Expert | Compu 360, LLC | [Read More](https://medium.com/p/23b4aac2f187) |
 | Thu, 16 Oct 2025 07:08:25 GMT | Let’s talk to your terminal in plain English: Meet ShellGPT | Sithin Adiyeri | [Read More](https://medium.com/p/94668d938934) |
 | Thu, 16 Oct 2025 07:07:32 GMT | My AI Coder Built an App in 10 Minutes and Billed Me $5,000 for It | Shane Collins | [Read More](https://medium.com/p/736b90122d19) |
 | Thu, 16 Oct 2025 07:05:34 GMT | VERIFIABLE PUBLIC GOODS: HOW DROSERA COULD STRENGTHEN OPTIMISM’S VISION FOR COLLECTIVE SECURITY. | MAVERICK | [Read More](https://medium.com/p/f0347ac471fb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 23:27:39 GMT | Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks | Cyber-AppSec | [Read More](https://medium.com/p/5523ca70a1c1) |
 | Wed, 15 Oct 2025 23:22:39 GMT | The Man Who Still Believes in Forever | Jeremy Sorensen | [Read More](https://medium.com/p/237db35d2881) |
 | Wed, 15 Oct 2025 23:16:14 GMT | Junior Security Analyst Intro - THM | Isiah | [Read More](https://medium.com/p/c1918cdeba12) |
-| Wed, 15 Oct 2025 23:02:56 GMT | AI-Powered Cyber-Attacks: The New Frontier of Cybersecurity Threats | Khaled | [Read More](https://medium.com/p/3fbd1a67e10a) |
-| Wed, 15 Oct 2025 23:00:49 GMT | Post-Exploitation Tactics: A Walkthrough of the Linux Threat Detection 3 Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/45038206304f) |
-| Wed, 15 Oct 2025 22:54:34 GMT | EvilDNS — how DNS can turn into an RCE vector (and how to stop it) | D Johnston | [Read More](https://medium.com/p/ce7d65a5cf61) |
-| Wed, 15 Oct 2025 22:46:35 GMT | Enigma X: A Cipher System Written in Forgotten Languages | Nabharaj Sawant | [Read More](https://medium.com/p/755811df5e0b) |
-| Wed, 15 Oct 2025 22:40:05 GMT | AI Privacy and Security: Building a Safer Future | Bervice | [Read More](https://medium.com/p/6ef4f9963ac4) |
-| Wed, 15 Oct 2025 22:18:39 GMT | Why Every Company Needs a Digital Strategy. Now More Than Ever. | Rafi Majeed | [Read More](https://medium.com/p/dd11eebe749d) |
-| Wed, 15 Oct 2025 22:02:17 GMT | Practising speech with kindness: building a human-centred AI companion | DiUS | [Read More](https://medium.com/p/5bab269d2e30) |
-| Wed, 15 Oct 2025 21:56:59 GMT | Cybersecurity and Zero Trust Architecture | Ascendion | [Read More](https://medium.com/p/abb15db1b469) |
-| Wed, 15 Oct 2025 21:55:07 GMT | Why DIY Hardware Is Becoming the New Counterculture | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f82d6fb1282e) |
-| Wed, 15 Oct 2025 21:54:27 GMT | Glitch the Grid: How to Own Your Data, Bend Reality, and Monetize Chaos | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6a5151e9ccde) |
