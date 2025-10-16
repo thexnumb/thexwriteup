@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 13:22:19 GMT | I Tried AWS’s ABAC Setup for Secrets in EKS — Here’s What Actually Happens | Dev0ps | [Read More](https://medium.com/p/272365264bb5) |
+| Thu, 16 Oct 2025 13:14:42 GMT | Getting Started with grep in Linux (Day 5 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/458c848c1903) |
+| Thu, 16 Oct 2025 13:14:03 GMT | It’s not the world you’re fighting, it’s you | Rifdadah | [Read More](https://medium.com/p/a2d703e51745) |
+| Thu, 16 Oct 2025 13:13:58 GMT | Trending CVEs this week: Oracle EBS zero-days, Redis Lua RCE and a Unity runtime alert | SecuritySc0ut | [Read More](https://medium.com/p/149cf730ea8f) |
+| Thu, 16 Oct 2025 13:13:29 GMT | RSA Encryption: Understanding Modern Cryptography | Abhishek Mishra | [Read More](https://medium.com/p/26e7b2d0f0da) |
+| Thu, 16 Oct 2025 13:11:00 GMT | Day in the Life: Incident Management in a Lean Dev Team | Graylog | [Read More](https://medium.com/p/d35cfb2d8170) |
+| Thu, 16 Oct 2025 13:07:37 GMT | The Role of AI in Shaping the Future of Cybersecurity Professionals | Cybernous Infosec consulting | [Read More](https://medium.com/p/d01f9bc46116) |
+| Thu, 16 Oct 2025 13:06:48 GMT | Windows: File and Keylogging | Dharmendrakumar | [Read More](https://medium.com/p/39990cd8ef0d) |
+| Thu, 16 Oct 2025 13:06:42 GMT | Relationship Public Keys: The next step for passkeys | corbado | [Read More](https://medium.com/p/90250fffe81d) |
+| Thu, 16 Oct 2025 13:00:40 GMT | ️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection & Signature Validation… | CodeTalks | [Read More](https://medium.com/p/2b28d02c17b1) |
+| Thu, 16 Oct 2025 13:00:11 GMT | The Hidden Pitfalls of Java Parallel Streams | Tamil Selvan V | [Read More](https://medium.com/p/aca70f21b001) |
+| Thu, 16 Oct 2025 12:59:29 GMT | Rhymes with Grief (and Other Names I Don’t Speak) | TOLD ON THE RIDGE | [Read More](https://medium.com/p/9c62a79e8afc) |
+| Thu, 16 Oct 2025 12:49:36 GMT | Portswigger Academy — Reflected XSS into HTML context with all tags blocked except custom ones —… | Alan | [Read More](https://medium.com/p/b2bc58b34dab) |
+| Thu, 16 Oct 2025 12:47:17 GMT | The Cartographer, Episode II – “The Signal Eaters” | Asuquo Levy Eyo Jr | [Read More](https://medium.com/p/bc6494e6812f) |
+| Thu, 16 Oct 2025 12:42:18 GMT | The healthcare data paradox: building tomorrow’s digital immune system | Bart Collet | [Read More](https://medium.com/p/18b3bd8508f0) |
 | Thu, 16 Oct 2025 12:39:43 GMT | The Top Most Famous Articles Ever Written: A Look at Iconic Journalism and Essays | Information all World. | [Read More](https://medium.com/p/2dad61bfe61d) |
 | Thu, 16 Oct 2025 12:35:09 GMT | Linux: The Operating System That Runs Everything (Including Your Sanity) | Malik Ahmad | [Read More](https://medium.com/p/d0d23fa74f66) |
 | Thu, 16 Oct 2025 12:32:55 GMT | Demystifying Cloud Security: Why “Cloud Security Basics” on Coursera Is a Must-Explore | Invest Learn Make | [Read More](https://medium.com/p/247ace864900) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 08:16:15 GMT | Mastering the Art of Python Data Pipelines: My Journey to Clean, Reliable Automation | Kainat Nafees | [Read More](https://medium.com/p/35abaf664662) |
 | Thu, 16 Oct 2025 08:13:39 GMT | Global POS Security Market Projected for Strong Expansion Amid Stricter Regulations and Digital… | Martinalueis | [Read More](https://medium.com/p/e762a629a802) |
 | Thu, 16 Oct 2025 08:12:19 GMT | Slayer {HackSmarter} — EN version | DobTheRob | [Read More](https://medium.com/p/9ab3e7b97a34) |
-| Thu, 16 Oct 2025 08:10:24 GMT | 【學習筆記】參加Google Cloud AI 培訓計畫 — Introduction to Security in the World of AI篇 | 嘎零的腦內劇場 | [Read More](https://medium.com/p/5bb0923ab029) |
-| Thu, 16 Oct 2025 08:06:37 GMT | CYBERSECURITY: THE PROFESSION THAT PRINTS MONEY (WITHOUT GOING TO JAIL) | PROSER | [Read More](https://medium.com/p/1c831ff2b0b9) |
-| Thu, 16 Oct 2025 08:04:50 GMT | Vulnhub Solid-State POP3 James Walkthrough | cyber pancake | [Read More](https://medium.com/p/4a4dddfb8002) |
-| Thu, 16 Oct 2025 08:02:20 GMT | The Mental Game of Cybersecurity: Why Your Mindset Matters More Than Your Tech Skills | MayhemCode | [Read More](https://medium.com/p/803bb061e7bd) |
-| Thu, 16 Oct 2025 08:02:20 GMT | How to Think Like an Attacker: A Guide to Business Logic Flaws | Andrei Ivan | [Read More](https://medium.com/p/0218a2b778d0) |
-| Thu, 16 Oct 2025 08:00:47 GMT | DockerLabs Writeup — HedgeHog (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c861584bd769) |
-| Thu, 16 Oct 2025 07:58:38 GMT | Cyber Talents Digital Forensics: “Hack a nice day” write-up | Dr_ro0t | [Read More](https://medium.com/p/8ac14b7c53eb) |
-| Thu, 16 Oct 2025 07:43:44 GMT | The Hidden Conversations of the Internet: My Dive into Wireshark | Aum Vipul | [Read More](https://medium.com/p/e9ab4f1929e0) |
-| Thu, 16 Oct 2025 07:40:55 GMT | How I Discovered an IDOR Vulnerability and Exposed Files on SIAM Beta (Indonesian) | ahmdyaasiin | [Read More](https://medium.com/p/66de0e7a4906) |
-| Thu, 16 Oct 2025 07:37:27 GMT | WGEL CTF - TryHackMe Writeup | Cillia | [Read More](https://medium.com/p/27d25752ae5a) |
-| Thu, 16 Oct 2025 07:35:22 GMT | Today’s Top Cyber Intelligence Highlights — Oct 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/727e8f86511c) |
-| Thu, 16 Oct 2025 07:32:40 GMT | How to enable FIM(File Integrity Monitoring) — Wazuh | Riad Moudjahed | [Read More](https://medium.com/p/ec32fb6b6bfb) |
-| Thu, 16 Oct 2025 07:31:52 GMT | Chronos Vault Trinity Protocol: Live on Testnet | Chronos Vault | [Read More](https://medium.com/p/10277e015fed) |
-| Thu, 16 Oct 2025 07:31:40 GMT | Chrome Just Declared War on Your Privacy. Here’s How to Fight Back. | Berker Ceylan | [Read More](https://medium.com/p/efa75dff0c51) |
-| Thu, 16 Oct 2025 07:29:57 GMT | What are Managed Cybersecurity Services and How Do They Help IT Infrastructure Solutions? | Mathewneelan | [Read More](https://medium.com/p/fc84f6befe67) |
