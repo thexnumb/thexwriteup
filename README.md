@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 19:02:18 GMT | Why you should buy Gold even if you have only 10$ portfolio ? | Xanon | [Read More](https://medium.com/p/fcbdeb27bd1d) |
+| Thu, 16 Oct 2025 19:01:16 GMT | Internet Reconnaissance Tools(osint) | Anas M.p | [Read More](https://medium.com/p/2646b86159e7) |
+| Thu, 16 Oct 2025 18:57:10 GMT | Drosera: The Future of Web3 Security | Jude Johnson | [Read More](https://medium.com/p/167b9da45f30) |
+| Thu, 16 Oct 2025 18:50:47 GMT | Why Ransomware Has Shifted Toward Ransomware-as-a-Service (RaaS) in 2025 | Vengadesh P | [Read More](https://medium.com/p/09cfaed5cca1) |
+| Thu, 16 Oct 2025 18:48:13 GMT | Unleash Your Inner Indiana Jones with Multi-Factor Authentication | Danielle Koppel | [Read More](https://medium.com/p/476cecff8921) |
+| Thu, 16 Oct 2025 18:47:53 GMT | Don’t Be Fooled by Malicious Ads on Google! | Danielle Koppel | [Read More](https://medium.com/p/35b50975b5e5) |
+| Thu, 16 Oct 2025 18:47:27 GMT | Beware of DocuSign Threats! | Danielle Koppel | [Read More](https://medium.com/p/c4dbd0497485) |
+| Thu, 16 Oct 2025 18:46:21 GMT | Artificial Intelligence and Development Ethics: Balancing Innovation with Humanity | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2f27e1a7ad74) |
+| Thu, 16 Oct 2025 18:31:14 GMT | ️ Charla + laboratorio: cómo se encontró un IDOR real (HackerOne) y cómo mitigarlo | Gorka | [Read More](https://medium.com/p/5ebbe8868a37) |
+| Thu, 16 Oct 2025 18:30:00 GMT | How PAM Relates to IAM (Identity and Access Management) | Ahmed Abdelrazek | [Read More](https://medium.com/p/eae1651b05c6) |
+| Thu, 16 Oct 2025 18:29:27 GMT | Multi-Cloud & Multi-Tool Security Model (MCMTSM) — or Cloud Security Model(CSM) | Abel López | [Read More](https://medium.com/p/2cc071bc3bbc) |
 | Thu, 16 Oct 2025 18:15:57 GMT | 21 HTML Form Validation and Best Practices | Rana Awais | [Read More](https://medium.com/p/a7ddd0ec4456) |
 | Thu, 16 Oct 2025 18:12:43 GMT | Clear Criminal Records - Database | BlackHat | [Read More](https://medium.com/p/2ecb5b4d8aca) |
 | Thu, 16 Oct 2025 18:11:42 GMT | 20 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/fda1207f7ddc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 13:36:09 GMT | Why Your Intelligence System Lies To You And How Natalia Fixes It | Sapifh | [Read More](https://medium.com/p/fbd253f74101) |
 | Thu, 16 Oct 2025 13:34:52 GMT | How I Built a Bot to Scrape Scribd: A Deep Dive into Dynamic Content and Automation | Akın Ateş | [Read More](https://medium.com/p/341396180301) |
 | Thu, 16 Oct 2025 13:22:19 GMT | I Tried AWS’s ABAC Setup for Secrets in EKS — Here’s What Actually Happens | Dev0ps | [Read More](https://medium.com/p/272365264bb5) |
-| Thu, 16 Oct 2025 13:14:42 GMT | Getting Started with grep in Linux (Day 5 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/458c848c1903) |
-| Thu, 16 Oct 2025 13:14:03 GMT | It’s not the world you’re fighting, it’s you | Rifdadah | [Read More](https://medium.com/p/a2d703e51745) |
-| Thu, 16 Oct 2025 13:13:58 GMT | Trending CVEs this week: Oracle EBS zero-days, Redis Lua RCE and a Unity runtime alert | SecuritySc0ut | [Read More](https://medium.com/p/149cf730ea8f) |
-| Thu, 16 Oct 2025 13:13:29 GMT | RSA Encryption: Understanding Modern Cryptography | Abhishek Mishra | [Read More](https://medium.com/p/26e7b2d0f0da) |
-| Thu, 16 Oct 2025 13:11:00 GMT | Day in the Life: Incident Management in a Lean Dev Team | Graylog | [Read More](https://medium.com/p/d35cfb2d8170) |
-| Thu, 16 Oct 2025 13:07:37 GMT | The Role of AI in Shaping the Future of Cybersecurity Professionals | Cybernous Infosec consulting | [Read More](https://medium.com/p/d01f9bc46116) |
-| Thu, 16 Oct 2025 13:06:48 GMT | Windows: File and Keylogging | Dharmendrakumar | [Read More](https://medium.com/p/39990cd8ef0d) |
-| Thu, 16 Oct 2025 13:06:42 GMT | Relationship Public Keys: The next step for passkeys | corbado | [Read More](https://medium.com/p/90250fffe81d) |
-| Thu, 16 Oct 2025 13:00:40 GMT | ️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection & Signature Validation… | CodeTalks | [Read More](https://medium.com/p/2b28d02c17b1) |
-| Thu, 16 Oct 2025 13:00:11 GMT | The Hidden Pitfalls of Java Parallel Streams | Tamil Selvan V | [Read More](https://medium.com/p/aca70f21b001) |
-| Thu, 16 Oct 2025 12:59:29 GMT | Rhymes with Grief (and Other Names I Don’t Speak) | TOLD ON THE RIDGE | [Read More](https://medium.com/p/9c62a79e8afc) |
