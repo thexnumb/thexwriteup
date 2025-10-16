@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 18:15:57 GMT | 21 HTML Form Validation and Best Practices | Rana Awais | [Read More](https://medium.com/p/a7ddd0ec4456) |
+| Thu, 16 Oct 2025 18:12:43 GMT | Clear Criminal Records - Database | BlackHat | [Read More](https://medium.com/p/2ecb5b4d8aca) |
+| Thu, 16 Oct 2025 18:11:42 GMT | 20 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/fda1207f7ddc) |
+| Thu, 16 Oct 2025 18:09:43 GMT | How I Turned My Cybersecurity ML Project Into a Cloud-Powered System: Straight from GitHub… | Twinkle Jaineera | [Read More](https://medium.com/p/e247126a8ba2) |
+| Thu, 16 Oct 2025 18:09:38 GMT | I used to think hacking was 90% typing and 10% staring at error messages. | Viratavi | [Read More](https://medium.com/p/ccd74afe5a14) |
+| Thu, 16 Oct 2025 18:08:08 GMT | 19 HTML Table Formatting and Styling | Rana Awais | [Read More](https://medium.com/p/fd053da8b332) |
+| Thu, 16 Oct 2025 18:04:24 GMT | Digital Footprint: What You Post Today Can Affect Tomorrow | Asif.k | [Read More](https://medium.com/p/18786a9d4d46) |
+| Thu, 16 Oct 2025 18:01:42 GMT | HacktheBox: Delivery Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/02e877884af0) |
+| Thu, 16 Oct 2025 17:59:06 GMT | Your Digital Keys: Why a Strong Password Is Your First Line of Defense in the Cyber World | Irteza Asad | [Read More](https://medium.com/p/64c69d46a334) |
+| Thu, 16 Oct 2025 17:55:52 GMT | Cybersecurity AI Weekly — Market Insights | Tal Eliyahu | [Read More](https://medium.com/p/c0d2b8ac7974) |
+| Thu, 16 Oct 2025 17:52:15 GMT | Introduction to Cyber Security | Samiur Rabbi Alex | [Read More](https://medium.com/p/aece574dac10) |
+| Thu, 16 Oct 2025 17:49:45 GMT | Seniors Are Targets | Jim Parton | [Read More](https://medium.com/p/ae53798e20fc) |
 | Thu, 16 Oct 2025 17:38:14 GMT | Business-Email Policy & OTP Bypass | Ahmed Mahmoud | [Read More](https://medium.com/p/015bd25322d8) |
 | Thu, 16 Oct 2025 17:33:19 GMT | Top Free Tools Every Influencer Should Know (2025 Edition) | Lydia Brookhaven | [Read More](https://medium.com/p/7d64aa15aa26) |
 | Thu, 16 Oct 2025 17:25:15 GMT | How I Became an Accidental Admin and Almost Got Fired (From Someone Else’s Company) | Iski | [Read More](https://medium.com/p/82e7b0acdb8b) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 13:00:40 GMT | ️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection & Signature Validation… | CodeTalks | [Read More](https://medium.com/p/2b28d02c17b1) |
 | Thu, 16 Oct 2025 13:00:11 GMT | The Hidden Pitfalls of Java Parallel Streams | Tamil Selvan V | [Read More](https://medium.com/p/aca70f21b001) |
 | Thu, 16 Oct 2025 12:59:29 GMT | Rhymes with Grief (and Other Names I Don’t Speak) | TOLD ON THE RIDGE | [Read More](https://medium.com/p/9c62a79e8afc) |
-| Thu, 16 Oct 2025 12:49:36 GMT | Portswigger Academy — Reflected XSS into HTML context with all tags blocked except custom ones —… | Alan | [Read More](https://medium.com/p/b2bc58b34dab) |
-| Thu, 16 Oct 2025 12:47:17 GMT | The Cartographer, Episode II – “The Signal Eaters” | Asuquo Levy Eyo Jr | [Read More](https://medium.com/p/bc6494e6812f) |
-| Thu, 16 Oct 2025 12:42:18 GMT | The healthcare data paradox: building tomorrow’s digital immune system | Bart Collet | [Read More](https://medium.com/p/18b3bd8508f0) |
-| Thu, 16 Oct 2025 12:39:43 GMT | The Top Most Famous Articles Ever Written: A Look at Iconic Journalism and Essays | Information all World. | [Read More](https://medium.com/p/2dad61bfe61d) |
-| Thu, 16 Oct 2025 12:35:09 GMT | Linux: The Operating System That Runs Everything (Including Your Sanity) | Malik Ahmad | [Read More](https://medium.com/p/d0d23fa74f66) |
-| Thu, 16 Oct 2025 12:32:55 GMT | Demystifying Cloud Security: Why “Cloud Security Basics” on Coursera Is a Must-Explore | Invest Learn Make | [Read More](https://medium.com/p/247ace864900) |
-| Thu, 16 Oct 2025 12:32:19 GMT | Taking the Armor Off | Aaron Pace | [Read More](https://medium.com/p/4f1377d7584e) |
-| Thu, 16 Oct 2025 12:29:19 GMT | Linux Security Essentials: Securing /etc/resolv.conf with ACLs | Aniket Banerjee | [Read More](https://medium.com/p/522b99fe0b9c) |
-| Thu, 16 Oct 2025 12:27:52 GMT | How does real-time communication work? | Martin Yordanov | [Read More](https://medium.com/p/b3f6db8b18b7) |
-| Thu, 16 Oct 2025 12:26:54 GMT | The DIRB Command That Found Me 47 Hidden Admin Panels | BugHunter’s Journal | [Read More](https://medium.com/p/8ff7f523aa24) |
-| Thu, 16 Oct 2025 12:22:22 GMT | Future-Proof Your Company with a Cybersecurity Consulting Firm | Dogmasys | [Read More](https://medium.com/p/1ac59d7351ae) |
-| Thu, 16 Oct 2025 12:20:37 GMT | Threat Intel Aggregator: Real-time Cyber Threat Intelligence with Alerts, SAST, and Visualization | Ibrahim Yusuf | [Read More](https://medium.com/p/2d8189d9d8b5) |
