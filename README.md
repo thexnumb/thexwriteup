@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 03:44:32 GMT | Stop XSS in Its Tracks: The Ultimate One-Page Developer Checklist | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7fc9ca40c71b) |
+| Thu, 16 Oct 2025 03:36:55 GMT | 15 SQL Tricks to Write Cleaner and Faster Queries | Rizqi Mulki | [Read More](https://medium.com/p/8099206dad00) |
+| Thu, 16 Oct 2025 03:31:47 GMT | The WhatsApp Worm That Hijacks Trust: How Banking Malware Is Spreading Through Your Chats | Deven Chhajed | [Read More](https://medium.com/p/427aa9a91e25) |
+| Thu, 16 Oct 2025 03:24:45 GMT | Mandatory Security Certifications — 2025 | Ladecruze | [Read More](https://medium.com/p/f702ded00230) |
+| Thu, 16 Oct 2025 03:24:15 GMT | A 10-Level Red/Blue Team Game That Combines fun with learning | Cybasquad | [Read More](https://medium.com/p/b9301253b254) |
+| Thu, 16 Oct 2025 03:24:11 GMT | iPhone 5S Durability Test: How Strong Is Apple’s Old Classic? | Emery Bennett | [Read More](https://medium.com/p/bb1999073d7e) |
+| Thu, 16 Oct 2025 03:19:08 GMT | You Won’t Believe These 10 Linux Commands Actually Exist | Kuldeepkumawat | [Read More](https://medium.com/p/cc489d085ca8) |
+| Thu, 16 Oct 2025 03:06:49 GMT | The Real Reason Tech Lovers Still Use the iPhone 5S | Zoey Lewis | [Read More](https://medium.com/p/cb49b998f188) |
+| Thu, 16 Oct 2025 03:01:50 GMT | Skynet — TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/9cbd8eb58dbf) |
+| Thu, 16 Oct 2025 02:58:17 GMT | Criminal IP is joining GovWare 2025, one of Asia’s largest cybersecurity conferences! | Criminal IP | [Read More](https://medium.com/p/8a82101a14f4) |
 | Thu, 16 Oct 2025 02:53:56 GMT | Why Enterprises Fail at Continuous Assurance — and How to Succeed | Dr. Deep Pandey | [Read More](https://medium.com/p/dfc6289a6784) |
 | Thu, 16 Oct 2025 02:50:37 GMT | Vulnhub haclabs walkthrough | cyber pancake | [Read More](https://medium.com/p/5ec4eea7f527) |
 | Thu, 16 Oct 2025 02:23:27 GMT | 10 Habits to Build a Powerful Cybersecurity Career | Shahzaib | [Read More](https://medium.com/p/27fb53549c90) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 17:55:40 GMT | Indicator of Compromise (IOC) | Ahmed Abdelrazek | [Read More](https://medium.com/p/eb396f50ef33) |
 | Wed, 15 Oct 2025 17:48:40 GMT | How I Found a $250 XSS Bug After Losing Hope in Bug Bounty | Danish Ahmed | [Read More](https://medium.com/p/16ce5677b599) |
 | Wed, 15 Oct 2025 17:43:34 GMT | Web Uygulamaları Nasıl Çalışır? Ağdan Tarayıcıya Derinlemesine Bir Rehber | Şeyma Erol | [Read More](https://medium.com/p/6182a7a1efe1) |
-| Wed, 15 Oct 2025 17:42:55 GMT | 18 HTML Lists and Menus | Rana Awais | [Read More](https://medium.com/p/fd8ca85090c7) |
-| Wed, 15 Oct 2025 17:42:54 GMT | Siber Güvenlik 101 — WEB PENTEST ‘e Dair Her Şey | Sude Çoban | [Read More](https://medium.com/p/fab8ad12be36) |
-| Wed, 15 Oct 2025 17:40:03 GMT | Getting Started with Bash Scripting — Automate Everything Like a Pro | Asif.k | [Read More](https://medium.com/p/ed27f76940ea) |
-| Wed, 15 Oct 2025 17:38:56 GMT | How to get Started with Back-end Development | TechyJaunt | [Read More](https://medium.com/p/d04cd1fb9c7c) |
-| Wed, 15 Oct 2025 17:38:03 GMT | 17 HTML Links and Navigation | Rana Awais | [Read More](https://medium.com/p/c3d1b0be94ce) |
-| Wed, 15 Oct 2025 17:36:29 GMT | Is 10G Ethernet Overkill for Home Setups in 2025? | Faizan Saghir | [Read More](https://medium.com/p/de2fb6e59f45) |
-| Wed, 15 Oct 2025 17:36:17 GMT | Kali GPT — The Intelligent Assistant Designed for Kali Linux Users | Cybersectoworld | [Read More](https://medium.com/p/7509925eb8e7) |
-| Wed, 15 Oct 2025 17:35:35 GMT | iPhone 5S Comparison Guide: Every Model Feature Breakdown | Maya Thompson | [Read More](https://medium.com/p/03cd65f199b1) |
-| Wed, 15 Oct 2025 17:34:55 GMT | 16 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/78d51754a600) |
-| Wed, 15 Oct 2025 17:21:48 GMT | The Importance of Cybersecurity in Dallas Web Development | Creasions Digital | [Read More](https://medium.com/p/86c323003b8c) |
