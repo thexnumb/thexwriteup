@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 06:30:11 GMT | Top 10 Ethical Hacking Courses with Placement Support | Manisha Chaudhary | [Read More](https://medium.com/p/a3e0f877d093) |
+| Thu, 16 Oct 2025 06:29:10 GMT | Ensuring Safety and Trust: The Growing Importance of Security Guard Services and Security Services… | Ciss India | [Read More](https://medium.com/p/e6b52961bc65) |
+| Thu, 16 Oct 2025 06:19:41 GMT | SPARK Matrix™: Enterprise Email Security | Umangp | [Read More](https://medium.com/p/4634842c9a1f) |
+| Thu, 16 Oct 2025 06:19:33 GMT | The New Wave of Deception Technology Tools | Lanvaus | [Read More](https://medium.com/p/5cd675e79b59) |
+| Thu, 16 Oct 2025 06:16:08 GMT | Is the iPhone 5S Still Worth Buying? Honest Performance Check | Isabella Foster | [Read More](https://medium.com/p/878108650d96) |
+| Thu, 16 Oct 2025 06:12:16 GMT | How to start Web VAPT for Beginners️ | VAPTify | [Read More](https://medium.com/p/1f7194c8f48f) |
+| Thu, 16 Oct 2025 06:10:17 GMT | Should You Upgrade from iPhone 6s or Keep It Running? | Lihua Chen | [Read More](https://medium.com/p/60985981cf06) |
+| Thu, 16 Oct 2025 06:10:08 GMT | The Daily Tech Digest: 16 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/2df665607a3a) |
+| Thu, 16 Oct 2025 06:09:32 GMT | Jumping over Medium paywalls | Liorum | [Read More](https://medium.com/p/a87f5dd696da) |
+| Thu, 16 Oct 2025 06:05:58 GMT | IT Talent & Skills: Surviving the Talent Shortage in Australian Tech | Elevate | [Read More](https://medium.com/p/f1c52884ef2c) |
+| Thu, 16 Oct 2025 05:57:43 GMT | $ How I Discovered a Business-Logic Bug That Bypasses VAT and Slashes Shipping Costs | Zyad Ibrahim | [Read More](https://medium.com/p/48a63d43fdbb) |
+| Thu, 16 Oct 2025 05:52:56 GMT | How I Mastered Blind SQL Injection With One Simple Method | Ibtissam hammadi | [Read More](https://medium.com/p/23c21612ccf5) |
+| Thu, 16 Oct 2025 05:40:20 GMT | How AI Is Making Online Scams and Misinformation More Dangerous Than Ever | Yousaf javed | [Read More](https://medium.com/p/ee2a088a8f0b) |
+| Thu, 16 Oct 2025 05:39:34 GMT | Know the difference between SU and SU - on Linux. | marxelog | [Read More](https://medium.com/p/3d7f9604cb16) |
 | Thu, 16 Oct 2025 05:33:54 GMT | The War No One Notices | Imanologya | [Read More](https://medium.com/p/33b42978bcc7) |
 | Thu, 16 Oct 2025 05:32:43 GMT | Cybersecurity Course in Chandigarh - Training & Certification | HackersPrey | [Read More](https://medium.com/p/19a4d35196a4) |
 | Thu, 16 Oct 2025 05:31:30 GMT | When AI Becomes the Hacker: The New Face of Cyber Threats | Prerna Shukla | [Read More](https://medium.com/p/97505ea37d98) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 20:37:13 GMT | Beyond Passwords: Building Autonomous Identity Infrastructure for the Future Enterprise | Deepak Gupta | [Read More](https://medium.com/p/b49e52887114) |
 | Wed, 15 Oct 2025 20:35:53 GMT | The Best Home Security Cameras We’ve Tested for 2025 | Tech Hub | [Read More](https://medium.com/p/cdb6c7eb8fa2) |
 | Wed, 15 Oct 2025 20:31:49 GMT | That Unlocked Phone Is Basically an Open Diary | Samirah A.O | [Read More](https://medium.com/p/740a9afe4cf4) |
-| Wed, 15 Oct 2025 20:28:05 GMT | Securing Web Applications | Kunal Khushalani | [Read More](https://medium.com/p/a39a4c1b4b39) |
-| Wed, 15 Oct 2025 20:27:05 GMT | What Your Old Laptop Still Knows About You | CyberCaptain‍✈️ | [Read More](https://medium.com/p/6e4f95c18755) |
-| Wed, 15 Oct 2025 20:22:08 GMT | Day 10 of my Cybersecurity Journey: PowerShell Basics 2 | Ogundipe Priscilla | [Read More](https://medium.com/p/90cb9eacd273) |
-| Wed, 15 Oct 2025 20:14:59 GMT | Case de Sucesso: Hemocentro São Lucas, L3TI & Ubiquiti — Conectando Tecnologia e Solidariedade | L3TI Soluções em Tecnologia | [Read More](https://medium.com/p/ae2c74da5cd5) |
-| Wed, 15 Oct 2025 20:05:17 GMT | # Silenced: How Cybercriminals Destroyed My Business, Stole My Identity, and Locked Me Out of My… | Krystal | [Read More](https://medium.com/p/144ab318e7ed) |
-| Wed, 15 Oct 2025 20:04:54 GMT | Snow-Crash-writup [level07] | B.R.O.L.Y | [Read More](https://medium.com/p/a1beaacf2046) |
-| Wed, 15 Oct 2025 19:49:55 GMT | Enterprise Network Security Solutions: Safeguarding Data in a Digital World | Fortnexs Shield | [Read More](https://medium.com/p/b7c32ec242ca) |
-| Wed, 15 Oct 2025 19:44:53 GMT | Room (105): STEGANOGRAPHY | blackXmask | [Read More](https://medium.com/p/85f6ceadc53d) |
-| Wed, 15 Oct 2025 19:27:45 GMT | Gatekeeping Cybersecurity | Luke | [Read More](https://medium.com/p/cec13f1a947c) |
-| Wed, 15 Oct 2025 19:26:20 GMT | You Can’t Solve Financial Anxiety Without Unbreakable Trust. | Cent Capital | [Read More](https://medium.com/p/b1a60db8c9df) |
-| Wed, 15 Oct 2025 19:26:11 GMT | Cybersecurity in Education: A Wake-Up Call for Institutional Leaders | TechDemocracy | [Read More](https://medium.com/p/3fb8695387f8) |
-| Wed, 15 Oct 2025 19:24:41 GMT | SQL injection: what it is and how to protect your applications | SafeAeon Inc. | [Read More](https://medium.com/p/a140f6e9cfd6) |
-| Wed, 15 Oct 2025 19:22:32 GMT | The Call That Shook Me | Sabina Akter | [Read More](https://medium.com/p/2c8ff00e7986) |
-| Wed, 15 Oct 2025 19:14:15 GMT | Authenticity Is the New Perimeter: How AI Videos Are Quietly Breaking Digital Trust | Elliott | [Read More](https://medium.com/p/f7e1df642e26) |
