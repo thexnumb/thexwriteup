@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 10:28:42 GMT | How Hospitality Self-Ordering Kiosks Are Transforming Hotels and Cafes | Rakesh | [Read More](https://medium.com/p/7d6c4f0f5cf3) |
+| Thu, 16 Oct 2025 10:23:51 GMT | Silver Ticket Attack in kerberos for beginners | SeverSerenity | [Read More](https://medium.com/p/9b7ec171bef6) |
+| Thu, 16 Oct 2025 10:20:56 GMT | The Real Measure of Cybersecurity Isn’t on Paper but in the Breaches You Prevent | Trust Consulting Services | [Read More](https://medium.com/p/ee02191e441d) |
+| Thu, 16 Oct 2025 10:20:52 GMT | KEDA: Event-Driven Autoscaling for Kubernetes — A Comprehensive Guide | ebenamor | [Read More](https://medium.com/p/bdd0bbc2513f) |
+| Thu, 16 Oct 2025 10:18:01 GMT | The Silent Partner: How AI Became the Mirror I Never Knew I Needed | Fateyaly | [Read More](https://medium.com/p/17dfc3742b1f) |
+| Thu, 16 Oct 2025 10:17:36 GMT | Benefits of Partnering with Trusted IT Companies in Dubai UAE | Nithish Saitechdm | [Read More](https://medium.com/p/95edda4a22ff) |
 | Thu, 16 Oct 2025 10:15:05 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b75550a53d57) |
 | Thu, 16 Oct 2025 10:09:40 GMT | I Met One of India’s Best Hackers. Here’s What He Told Me. | Pannag Kumaar | [Read More](https://medium.com/p/91f98828b14c) |
 | Thu, 16 Oct 2025 10:08:59 GMT | Log Analysis — It’s Not About Knowing, It’s About Correlating | Dean | [Read More](https://medium.com/p/a3735728dc31) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 05:57:43 GMT | $ How I Discovered a Business-Logic Bug That Bypasses VAT and Slashes Shipping Costs | Zyad Ibrahim | [Read More](https://medium.com/p/48a63d43fdbb) |
 | Thu, 16 Oct 2025 05:52:56 GMT | How I Mastered Blind SQL Injection With One Simple Method | Ibtissam hammadi | [Read More](https://medium.com/p/23c21612ccf5) |
 | Thu, 16 Oct 2025 05:40:20 GMT | How AI Is Making Online Scams and Misinformation More Dangerous Than Ever | Yousaf javed | [Read More](https://medium.com/p/ee2a088a8f0b) |
-| Thu, 16 Oct 2025 05:39:34 GMT | Know the difference between SU and SU - on Linux. | marxelog | [Read More](https://medium.com/p/3d7f9604cb16) |
-| Thu, 16 Oct 2025 05:33:54 GMT | The War No One Notices | Imanologya | [Read More](https://medium.com/p/33b42978bcc7) |
-| Thu, 16 Oct 2025 05:32:43 GMT | Cybersecurity Course in Chandigarh - Training & Certification | HackersPrey | [Read More](https://medium.com/p/19a4d35196a4) |
-| Thu, 16 Oct 2025 05:31:30 GMT | When AI Becomes the Hacker: The New Face of Cyber Threats | Prerna Shukla | [Read More](https://medium.com/p/97505ea37d98) |
-| Thu, 16 Oct 2025 05:29:40 GMT | Features To Look For Before Buying A Night Vision Binocular? | Night Vision 4 Less | [Read More](https://medium.com/p/2526f34e3d37) |
-| Thu, 16 Oct 2025 05:29:27 GMT | The Silent Insider: How AI Can Predict Human Risk Before It Strikes | Prerna Shukla | [Read More](https://medium.com/p/7d4309e42c15) |
