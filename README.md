@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 05:13:47 GMT | iPhone 5S Performance Benchmark: Shocking Real-World Results | Lily Adams | [Read More](https://medium.com/p/e6f8a7208225) |
+| Thu, 16 Oct 2025 05:09:41 GMT | CSRF and SSRF explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/f130ac4cf7a6) |
+| Thu, 16 Oct 2025 05:05:10 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/9bb998f50402) |
+| Thu, 16 Oct 2025 05:02:56 GMT | Securing AI’s Communication Layer: How MCP-SEC Can Bring Mutual Authentication to the Model Context… | Mhjorleifsson | [Read More](https://medium.com/p/aa09bfcfc5c4) |
+| Thu, 16 Oct 2025 05:01:26 GMT | Consider Your Current and Future Needs: Navigating the Open Source Maturity Curve | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/55821b887b18) |
+| Thu, 16 Oct 2025 04:52:06 GMT | Pivoting | Dharmendrakumar | [Read More](https://medium.com/p/5e093e13aeb8) |
+| Thu, 16 Oct 2025 04:51:16 GMT | Fixing Exploits | Dharmendrakumar | [Read More](https://medium.com/p/9a48d74885a2) |
+| Thu, 16 Oct 2025 04:50:39 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/c29af058dba6) |
+| Thu, 16 Oct 2025 04:48:47 GMT | Noem Out, Idiocracy In: Airports Embrace Mike Judge’s Dystopian Vision | Lewis County Knews | [Read More](https://medium.com/p/788554dee8f1) |
+| Thu, 16 Oct 2025 04:44:15 GMT | How to Create a Chrome Extension from Scratch in 30 Minutes | Rizqi Mulki | [Read More](https://medium.com/p/1d1d1e1200c3) |
 | Thu, 16 Oct 2025 04:32:22 GMT | Stop Using localStorage for Tokens —  Here’s the Safer, Modern Alternative for Web Apps | SANDHYA MEHTELE | [Read More](https://medium.com/p/7b8ad03cc189) |
 | Thu, 16 Oct 2025 04:29:43 GMT | Why North American Companies Are Turning to IT Staff Augmentation | Danial | [Read More](https://medium.com/p/0882951a1333) |
 | Thu, 16 Oct 2025 04:25:37 GMT | How to Build a Scalable Tech Team Without Expanding Payroll: The Staff Augmentation Advantage | Danial | [Read More](https://medium.com/p/2b4c8d1cdc14) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 18:54:26 GMT | The Linux Security Journey — Blacklisting Kernel Modules | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b865164dd3d7) |
 | Wed, 15 Oct 2025 18:50:58 GMT | Cybersecurity Careers: Why Ethical Hacking is the Future of IT Security | Smith Adams | [Read More](https://medium.com/p/e08e899dcf41) |
 | Wed, 15 Oct 2025 18:48:34 GMT | I Just Watched My AI Assistant Quit Its Job — And Hire Three More AIs To Replace Itself | Riyas Raaz | [Read More](https://medium.com/p/ce375e3af401) |
-| Wed, 15 Oct 2025 18:48:13 GMT | Python SAST: Managing False Positives | Maikel Mardjan | [Read More](https://medium.com/p/59f0e77d72fc) |
-| Wed, 15 Oct 2025 18:33:25 GMT | How AI and Machine Learning Are Reshaping Cloud Analytics | Techridge Solutions | [Read More](https://medium.com/p/c35df1fdb835) |
-| Wed, 15 Oct 2025 18:32:23 GMT | The crypto market is still shaky after a big wave of liquidations earlier this week, where billions… | Muhammad Waseem | [Read More](https://medium.com/p/8d06b94f5117) |
-| Wed, 15 Oct 2025 18:24:02 GMT | Building NetScope: The Reconnaissance Tool I Wish I Had When Learning Pentesting | Raghav Mahajan | [Read More](https://medium.com/p/7effbb701316) |
-| Wed, 15 Oct 2025 18:20:22 GMT | Building the Foundation: My Cloud-Based Detection Engineering Lab | CyberFreak | [Read More](https://medium.com/p/96cdbb99b480) |
-| Wed, 15 Oct 2025 18:13:56 GMT | The Quiet Brotherhood: Without Interference | Patrick Longton | [Read More](https://medium.com/p/a741f2d32697) |
-| Wed, 15 Oct 2025 18:12:55 GMT | I Felt Alone in a Room Full of People | Bloom with Maria | [Read More](https://medium.com/p/4ffec83150fd) |
-| Wed, 15 Oct 2025 18:11:49 GMT | How to Build Executive Buy-In for OT Cybersecurity | Cyberkech | [Read More](https://medium.com/p/514910ada97d) |
-| Wed, 15 Oct 2025 18:09:04 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 2:Attacking LSASS | Babatunde Ojo | [Read More](https://medium.com/p/7f69f10fd893) |
-| Wed, 15 Oct 2025 18:08:55 GMT | Breaking Bad: From Bin2Vec to LLM‑Powered Malware | packet maven | [Read More](https://medium.com/p/ae9fe1b0c8d3) |
