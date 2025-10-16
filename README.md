@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 17:15:22 GMT | Thrilled to share another milestone in my cybersecurity journey! | Abdifatah Hassan Roble | [Read More](https://medium.com/p/f736fb8a3c24) |
+| Thu, 16 Oct 2025 17:15:08 GMT | Exposed API Keys and Secrets | SIDDHANT SHUKLA | [Read More](https://medium.com/p/d9c08f34ab73) |
+| Thu, 16 Oct 2025 17:11:20 GMT | Injected #1: From API Bugs To File Impersonation Attack | Chux | [Read More](https://medium.com/p/477f2e5a91bf) |
+| Thu, 16 Oct 2025 17:02:19 GMT | The Perks of Adopting a Multi-Cloud Strategy in Business Operations | Ascendion | [Read More](https://medium.com/p/f014d58e971d) |
+| Thu, 16 Oct 2025 16:59:49 GMT | The Skills Cybersecurity Analysts Must Learn in 2025 | Aj | [Read More](https://medium.com/p/82d305e4934a) |
+| Thu, 16 Oct 2025 16:55:44 GMT | Australian BCDR Strategy for Cloud Continuity: Inside the Cloud Mesh | Sabiha Rahman | [Read More](https://medium.com/p/e7a67aa4e723) |
+| Thu, 16 Oct 2025 16:55:19 GMT | Critical LFI in a Microsoft AI Server (CVE-2025–30208) | ak | [Read More](https://medium.com/p/f1a0f2e7faf9) |
+| Thu, 16 Oct 2025 16:51:26 GMT | The HIMARS Communication Crack — Ukrainian Hackers Penetrate Pentagon’s Secure Command Channels | The Forensic Archive | [Read More](https://medium.com/p/de2f5fcc5d48) |
 | Thu, 16 Oct 2025 16:40:16 GMT | Forging a Weapon: My Journey Building an AI-Powered Red Team Appliance | codebreaker | [Read More](https://medium.com/p/639de13ad511) |
 | Thu, 16 Oct 2025 16:37:24 GMT | A New Crack in Unbreakable Encryption? | Mathews Abraão Pereira Lima | [Read More](https://medium.com/p/9b5b06fcefc8) |
 | Thu, 16 Oct 2025 16:25:21 GMT | ️ jsrip — Automated JavaScript Ripper & Analyzer for Bug Hunters | Moute | [Read More](https://medium.com/p/7e57d72a858b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 11:46:34 GMT | Tokens That Expire: How to survive npm’s Security Overhaul | Ronny Roeller | [Read More](https://medium.com/p/8abebadf66bd) |
 | Thu, 16 Oct 2025 11:45:06 GMT | Humans first; Tech later. | Martin Abramov | [Read More](https://medium.com/p/674214a8ab99) |
 | Thu, 16 Oct 2025 11:31:46 GMT | 25. Monetizing Your Skills Beyond Bug Bounty | Abhijeet kumawat | [Read More](https://medium.com/p/a6b503d6b6dc) |
-| Thu, 16 Oct 2025 11:22:42 GMT | How an Instagram Post Became a Blueprint for Murder: An OSINT Case Study | Ahmed Mohammed | [Read More](https://medium.com/p/c5186217adc1) |
-| Thu, 16 Oct 2025 11:12:17 GMT | The Ethics of Biohacking: Where Curiosity Meets Controversy | mishita maggo | [Read More](https://medium.com/p/ee9a51fe3e20) |
-| Thu, 16 Oct 2025 11:12:07 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/24bca81d6c10) |
-| Thu, 16 Oct 2025 11:11:58 GMT | China is Quietly Reshaping Global Power with Your Own Data | Dexcopol | [Read More](https://medium.com/p/c667e676f896) |
-| Thu, 16 Oct 2025 11:10:25 GMT | Unparalleled Wazuh Active Response Misconfiguration Locks Out Entire Team | Andrew Keitany | [Read More](https://medium.com/p/bd3b18c78829) |
-| Thu, 16 Oct 2025 11:10:23 GMT | Bandit Wargame Walkthrough Levels 0–10 | kidest Dereje | [Read More](https://medium.com/p/4405ae66a003) |
-| Thu, 16 Oct 2025 11:06:38 GMT | From User to Domain Admin Explained - HackTheBox TombWatcher Writeup | Motasem Hamdan | [Read More](https://medium.com/p/d19dd11bcc52) |
-| Thu, 16 Oct 2025 10:59:08 GMT | VeriXion: The Quiet Revolution No One Sees Coming | Arius Manor | [Read More](https://medium.com/p/4eb0d3a5996e) |
