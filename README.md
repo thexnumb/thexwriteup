@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 23:03:34 GMT | Weaponizing Claude Code Skills: From 5*5 to Remote Shell | Yosif qasim | [Read More](https://medium.com/p/a14af2d109c9) |
+| Thu, 16 Oct 2025 23:02:30 GMT | The Universal Union: A Digital Empire Shielded by Global Corruption | RandomGPT | [Read More](https://medium.com/p/c938b17cf962) |
+| Thu, 16 Oct 2025 23:00:21 GMT | Apa itu IAM ? | Abdul Azizalrasyid | [Read More](https://medium.com/p/dcf64a9818c2) |
+| Thu, 16 Oct 2025 22:57:08 GMT | IT Audits: What an IT Auditor Really Thinks (Spoiler: It’s Not Just About Scaring You) | Tsiedner | [Read More](https://medium.com/p/165049e7059b) |
+| Thu, 16 Oct 2025 22:44:43 GMT | EvilAI: The Fake AI Tools That Are Hacking the World | Cyber-AppSec | [Read More](https://medium.com/p/795bb617073c) |
+| Thu, 16 Oct 2025 22:35:08 GMT | Microservices Without the Buzzwords: What Leaders Really Need to Know | Tabitha Foster | [Read More](https://medium.com/p/0eec148de9f3) |
+| Thu, 16 Oct 2025 22:32:46 GMT | The Intelligence-Driven Adversary Emulation Framework (IDAEA-F) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/3b6c4a5df2b3) |
 | Thu, 16 Oct 2025 22:24:56 GMT | DVWA Walkthrough: Reflected XSS (All Difficulties) | Noman Chowdhury | [Read More](https://medium.com/p/3833fd047fb0) |
 | Thu, 16 Oct 2025 21:43:22 GMT | Splunk SIEM Kurulumu | Merve Güler | [Read More](https://medium.com/p/e055e43af11c) |
 | Thu, 16 Oct 2025 21:37:23 GMT | Browser Debugging Abuse — Google Chrome | Abdul wajed Nawazish | [Read More](https://medium.com/p/a8f6ca64f11f) |
@@ -47,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 19:01:16 GMT | Internet Reconnaissance Tools(osint) | Anas M.p | [Read More](https://medium.com/p/2646b86159e7) |
 | Thu, 16 Oct 2025 18:58:06 GMT | Como Pivotar com Ligolo-NG — Guia Simplificado | Azv | [Read More](https://medium.com/p/29b7478f0883) |
 | Thu, 16 Oct 2025 18:57:10 GMT | Drosera: The Future of Web3 Security | Jude Johnson | [Read More](https://medium.com/p/167b9da45f30) |
+| Thu, 16 Oct 2025 18:56:39 GMT | ‘PanOS-XSS’ Through Common NameVulnerabilities Across Real Web Apps | Abhijit Chakrabarty | [Read More](https://medium.com/p/0f28b47e343e) |
 | Thu, 16 Oct 2025 18:50:47 GMT | Why Ransomware Has Shifted Toward Ransomware-as-a-Service (RaaS) in 2025 | Vengadesh P | [Read More](https://medium.com/p/09cfaed5cca1) |
 | Thu, 16 Oct 2025 18:48:13 GMT | Unleash Your Inner Indiana Jones with Multi-Factor Authentication | Danielle Koppel | [Read More](https://medium.com/p/476cecff8921) |
 | Thu, 16 Oct 2025 18:47:53 GMT | Don’t Be Fooled by Malicious Ads on Google! | Danielle Koppel | [Read More](https://medium.com/p/35b50975b5e5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 15:47:31 GMT | [ SOC Alert => Suspicious Mshta Behavior ] by LetsDefend / EventID :114 | EduKayky | [Read More](https://medium.com/p/2cb5f846198e) |
 | Thu, 16 Oct 2025 15:47:16 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Octubre 2025 | Tiziano Mass | [Read More](https://medium.com/p/14881713938a) |
 | Thu, 16 Oct 2025 15:35:26 GMT | The Future is Wireless: Inside the Booming Wi-Fi Hotspot Market | Kaverigiri | [Read More](https://medium.com/p/738a86ae0487) |
-| Thu, 16 Oct 2025 15:32:14 GMT | Hashicorp Vault HA: a practical cheatsheet for deployment with TLS and AWS Auto Unseal | Michele Contu | [Read More](https://medium.com/p/ab5e7c482991) |
-| Thu, 16 Oct 2025 15:30:19 GMT | Security Automation: Streamlining Cybersecurity Operations | Cyber Security Research | [Read More](https://medium.com/p/131e17b46055) |
-| Thu, 16 Oct 2025 15:30:10 GMT | ✍️ The Future Is Signed Digitally: Exploring the Booming Digital Signature Market | Kaverigiri | [Read More](https://medium.com/p/df52bca0e865) |
-| Thu, 16 Oct 2025 15:30:09 GMT | From Corner Store to Corporate Giant: How Managed IT Services Scale with Every Business | Paradise technologies Inc | [Read More](https://medium.com/p/a23c09c8eb78) |
-| Thu, 16 Oct 2025 15:22:05 GMT | Threat Intelligence: Staying Ahead of Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/0c7b8843ba56) |
-| Thu, 16 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d3877fb8e00d) |
-| Thu, 16 Oct 2025 15:13:15 GMT | Log Management and Analysis | Cyber Security Research | [Read More](https://medium.com/p/141747475bb8) |
-| Thu, 16 Oct 2025 15:10:43 GMT | Westwild CTF walkthrough | Sanketh S | [Read More](https://medium.com/p/6a9cfb16b8fe) |
