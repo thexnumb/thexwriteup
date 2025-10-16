@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 16:25:21 GMT | ️ jsrip — Automated JavaScript Ripper & Analyzer for Bug Hunters | Moute | [Read More](https://medium.com/p/7e57d72a858b) |
+| Thu, 16 Oct 2025 16:24:27 GMT | ️‍♂️ CTFs ≠ Real-World Hacking | Chhavipreet Kaur | [Read More](https://medium.com/p/6516077aacf7) |
+| Thu, 16 Oct 2025 16:16:51 GMT | AI Knows Your Secrets. Therapy Makes You Unhackable | Herman Fransen | [Read More](https://medium.com/p/cb3c1b863ef4) |
+| Thu, 16 Oct 2025 16:16:45 GMT | I Warned Google About AI Poisoning Attacks. | Jonathan R Belanger | [Read More](https://medium.com/p/50d68e7bfa00) |
+| Thu, 16 Oct 2025 16:14:30 GMT | When Your Spring Boot App Decides to Share Secrets with Strangers | Vivek D | [Read More](https://medium.com/p/67fca4c96599) |
+| Thu, 16 Oct 2025 16:08:40 GMT | What Qatar Got In Return | Geopolitics Explained | [Read More](https://medium.com/p/b658cff92cf4) |
+| Thu, 16 Oct 2025 16:06:06 GMT | Project 63: Safeguarding Responsible Transparency in Puerto Rico | The Architect | [Read More](https://medium.com/p/43e27639a824) |
+| Thu, 16 Oct 2025 16:04:59 GMT | The Future of End-to-End Encryption | MongoDB | [Read More](https://medium.com/p/530c5daff03b) |
+| Thu, 16 Oct 2025 16:04:08 GMT | That Gut-Wrenching Moment Your Instagram Is Hacked (And the 4 Steps to Actually Get It Back) | Muhammad Hassan Ali | [Read More](https://medium.com/p/fe47b5e390b3) |
+| Thu, 16 Oct 2025 16:03:35 GMT | CVE-2025–61882 — Oracle E-Business Suite Pre-Auth RCE Exploit | Aditya Bhatt | [Read More](https://medium.com/p/5f6a85d11639) |
+| Thu, 16 Oct 2025 16:02:29 GMT | Love a good juicy steak? Here, all you’ll get is spam! | SafeNetting | [Read More](https://medium.com/p/258f2655ccdd) |
+| Thu, 16 Oct 2025 15:59:15 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ef2f656b21f7) |
+| Thu, 16 Oct 2025 15:53:01 GMT | The Rise of the Discount Stock Broker Market: Redefining How the World Trades | Kaverigiri | [Read More](https://medium.com/p/b3e7c01abe8b) |
+| Thu, 16 Oct 2025 15:51:08 GMT | How I Almost Got Scammed Buying a Watch Online | Zamani Digital | [Read More](https://medium.com/p/cfdd93f7100f) |
+| Thu, 16 Oct 2025 15:47:31 GMT | [ SOC Alert => Suspicious Mshta Behavior ] by LetsDefend / EventID :114 | EduKayky | [Read More](https://medium.com/p/2cb5f846198e) |
+| Thu, 16 Oct 2025 15:47:16 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Octubre 2025 | Tiziano Mass | [Read More](https://medium.com/p/14881713938a) |
 | Thu, 16 Oct 2025 15:35:26 GMT | The Future is Wireless: Inside the Booming Wi-Fi Hotspot Market | Kaverigiri | [Read More](https://medium.com/p/738a86ae0487) |
+| Thu, 16 Oct 2025 15:32:14 GMT | Hashicorp Vault HA: a practical cheatsheet for deployment with TLS and AWS Auto Unseal | Michele Contu | [Read More](https://medium.com/p/ab5e7c482991) |
+| Thu, 16 Oct 2025 15:30:19 GMT | Security Automation: Streamlining Cybersecurity Operations | Cyber Security Research | [Read More](https://medium.com/p/131e17b46055) |
 | Thu, 16 Oct 2025 15:30:10 GMT | ✍️ The Future Is Signed Digitally: Exploring the Booming Digital Signature Market | Kaverigiri | [Read More](https://medium.com/p/df52bca0e865) |
 | Thu, 16 Oct 2025 15:30:09 GMT | From Corner Store to Corporate Giant: How Managed IT Services Scale with Every Business | Paradise technologies Inc | [Read More](https://medium.com/p/a23c09c8eb78) |
 | Thu, 16 Oct 2025 15:22:05 GMT | Threat Intelligence: Staying Ahead of Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/0c7b8843ba56) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 10:55:48 GMT | The Agent’s Dilemma: Navigating the Edge Between “Going Rogue” and “Not Smart Enough” | Berend Watchus | [Read More](https://medium.com/p/0c89c763cbf8) |
 | Thu, 16 Oct 2025 10:54:44 GMT | Security Best Practices for Backend Developers in 2025 | Shweta chaturvedi | [Read More](https://medium.com/p/34efaa4d06e3) |
 | Thu, 16 Oct 2025 10:53:02 GMT | Hackers Backdoor: Build a Lab from Scratch | Travis Ray Caverhill | [Read More](https://medium.com/p/827ac95e69ec) |
-| Thu, 16 Oct 2025 10:49:47 GMT | [CyberSec] Building a Threat-Informed Defense Program Using MITRE ATT&CK | Pietro Romano / SecBeret | [Read More](https://medium.com/p/a6700fb8c1af) |
-| Thu, 16 Oct 2025 10:35:08 GMT | How Cracked Software Can Compromise Your Privacy and Security | Williammiller | [Read More](https://medium.com/p/c21ed7e11f15) |
-| Thu, 16 Oct 2025 10:28:42 GMT | How Hospitality Self-Ordering Kiosks Are Transforming Hotels and Cafes | Rakesh | [Read More](https://medium.com/p/7d6c4f0f5cf3) |
-| Thu, 16 Oct 2025 10:23:51 GMT | Silver Ticket Attack in kerberos for beginners | SeverSerenity | [Read More](https://medium.com/p/9b7ec171bef6) |
-| Thu, 16 Oct 2025 10:20:56 GMT | The Real Measure of Cybersecurity Isn’t on Paper but in the Breaches You Prevent | Trust Consulting Services | [Read More](https://medium.com/p/ee02191e441d) |
-| Thu, 16 Oct 2025 10:20:52 GMT | KEDA: Event-Driven Autoscaling for Kubernetes — A Comprehensive Guide | ebenamor | [Read More](https://medium.com/p/bdd0bbc2513f) |
-| Thu, 16 Oct 2025 10:18:01 GMT | The Silent Partner: How AI Became the Mirror I Never Knew I Needed | Fateyaly | [Read More](https://medium.com/p/17dfc3742b1f) |
-| Thu, 16 Oct 2025 10:17:36 GMT | Benefits of Partnering with Trusted IT Companies in Dubai UAE | Nithish Saitechdm | [Read More](https://medium.com/p/95edda4a22ff) |
-| Thu, 16 Oct 2025 10:15:05 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/b75550a53d57) |
-| Thu, 16 Oct 2025 10:09:40 GMT | I Met One of India’s Best Hackers. Here’s What He Told Me. | Pannag Kumaar | [Read More](https://medium.com/p/91f98828b14c) |
-| Thu, 16 Oct 2025 10:08:59 GMT | Log Analysis — It’s Not About Knowing, It’s About Correlating | Dean | [Read More](https://medium.com/p/a3735728dc31) |
-| Thu, 16 Oct 2025 10:08:05 GMT | How to Find Auth Bypasses in Under 30 Minutes | Abhishek meena | [Read More](https://medium.com/p/11bf6a4f33df) |
-| Thu, 16 Oct 2025 10:07:53 GMT | The Psychology of a Hacker: How Cybercriminals Read You Better Than You Think | Fateyaly | [Read More](https://medium.com/p/97bcc85ee202) |
-| Thu, 16 Oct 2025 10:07:37 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/7a3aaac17690) |
-| Thu, 16 Oct 2025 10:07:33 GMT | HackTheBox — VulnEscape | PizzSec | [Read More](https://medium.com/p/36ac0c322a4a) |
-| Thu, 16 Oct 2025 10:04:59 GMT | Top 10 Reasons to Learn Cyber Security in Hyderabad in 2025 | Digital Wiings | [Read More](https://medium.com/p/cec445ccbf0d) |
-| Thu, 16 Oct 2025 10:04:28 GMT | Professional VAPT Services: Why Businesses Need Petadot | Jitendramotiyanipetadot | [Read More](https://medium.com/p/ba740f48762a) |
-| Thu, 16 Oct 2025 10:03:20 GMT | What is cybersecurity, and why is it important? | Vamsi N | [Read More](https://medium.com/p/17242860a02b) |
