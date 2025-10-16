@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 23:31:54 GMT | CISA Flags Critical Adobe AEM Vulnerability Under Active Exploitation | IamPreth | [Read More](https://medium.com/p/a5b0a176373b) |
+| Thu, 16 Oct 2025 23:19:06 GMT | My First Full PKI Setup: Root CA, Intermediate CA, and HTTPS with Flask | Clarisa Ortega | [Read More](https://medium.com/p/635ac9712886) |
 | Thu, 16 Oct 2025 23:03:34 GMT | Weaponizing Claude Code Skills: From 5*5 to Remote Shell | Yosif qasim | [Read More](https://medium.com/p/a14af2d109c9) |
 | Thu, 16 Oct 2025 23:02:30 GMT | The Universal Union: A Digital Empire Shielded by Global Corruption | RandomGPT | [Read More](https://medium.com/p/c938b17cf962) |
 | Thu, 16 Oct 2025 23:00:21 GMT | Apa itu IAM ? | Abdul Azizalrasyid | [Read More](https://medium.com/p/dcf64a9818c2) |
@@ -42,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 19:41:32 GMT | Blockchain Design Principles: Security | 0xR2R | [Read More](https://medium.com/p/ce87cf83b790) |
 | Thu, 16 Oct 2025 19:40:34 GMT | Forecasting Network Traffic with Efficient Transformers | Jude Canady | [Read More](https://medium.com/p/eaf6e6586a02) |
 | Thu, 16 Oct 2025 19:36:55 GMT | An Overview of Intrusion Detection and Prevention Systems (IDS/IPS) | Cyber_Phoenix | [Read More](https://medium.com/p/7ac8e51ae2d7) |
+| Thu, 16 Oct 2025 19:36:01 GMT | Insetinho | Eduardo A. A. Almeida | [Read More](https://medium.com/p/547223e78521) |
 | Thu, 16 Oct 2025 19:35:53 GMT | From Curves to Matrices: A New Algebraic Attack on Elliptic Curve Cryptography | Mathews Abraão | [Read More](https://medium.com/p/a9c284e43717) |
 | Thu, 16 Oct 2025 19:33:43 GMT | 10 Smart Home Security Tips Every Ottawa Homeowner Should Know | Stubs | [Read More](https://medium.com/p/2e89491850e1) |
 | Thu, 16 Oct 2025 19:25:06 GMT | Japan and Costa Rica, countries without armies. | Chronicles of the Past | [Read More](https://medium.com/p/a0920e464e18) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 15:59:15 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ef2f656b21f7) |
 | Thu, 16 Oct 2025 15:53:01 GMT | The Rise of the Discount Stock Broker Market: Redefining How the World Trades | Kaverigiri | [Read More](https://medium.com/p/b3e7c01abe8b) |
 | Thu, 16 Oct 2025 15:51:08 GMT | How I Almost Got Scammed Buying a Watch Online | Zamani Digital | [Read More](https://medium.com/p/cfdd93f7100f) |
-| Thu, 16 Oct 2025 15:47:31 GMT | [ SOC Alert => Suspicious Mshta Behavior ] by LetsDefend / EventID :114 | EduKayky | [Read More](https://medium.com/p/2cb5f846198e) |
-| Thu, 16 Oct 2025 15:47:16 GMT | Microsoft anunció las actualizaciones del ‘Patch Tuesday’ de Octubre 2025 | Tiziano Mass | [Read More](https://medium.com/p/14881713938a) |
-| Thu, 16 Oct 2025 15:35:26 GMT | The Future is Wireless: Inside the Booming Wi-Fi Hotspot Market | Kaverigiri | [Read More](https://medium.com/p/738a86ae0487) |
