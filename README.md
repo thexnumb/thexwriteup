@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 14:40:03 GMT | Why Attending Meetings in Agile Development Matters More Than You Think | Charukshi Wijesinghe | [Read More](https://medium.com/p/f997824dabb4) |
+| Thu, 16 Oct 2025 14:36:03 GMT | The Real Business Risk of Ignoring CMMC: Contractual Consequences Every DoD Supplier Should Know | Olivier Maignan | [Read More](https://medium.com/p/42a80887ab22) |
+| Thu, 16 Oct 2025 14:32:16 GMT | Friends Or Trophies: What Are We Collecting? | Nikhil Lodha | [Read More](https://medium.com/p/c243589a3399) |
+| Thu, 16 Oct 2025 14:17:32 GMT | What is Hacking | Engaabdullah | [Read More](https://medium.com/p/aef428236f26) |
+| Thu, 16 Oct 2025 14:12:16 GMT | Employee Monitoring in 2025: Balancing Productivity, Privacy, and Compliance | Paul Meyer | [Read More](https://medium.com/p/fc5e87a2d645) |
+| Thu, 16 Oct 2025 14:12:14 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 3:Attacking Windows Credential Manager | Babatunde Ojo | [Read More](https://medium.com/p/8e7433dffdfa) |
 | Thu, 16 Oct 2025 14:11:58 GMT | The Security Dilemma: How Fear Creates the Very Danger It Tries to Prevent | Abdulaziz | [Read More](https://medium.com/p/614a9084ab23) |
 | Thu, 16 Oct 2025 14:10:26 GMT | Why I Always Use Append-Only Backups on Linux (And How I Set Them Up) | Faruk Ahmed | [Read More](https://medium.com/p/24376e2d81c4) |
 | Thu, 16 Oct 2025 14:05:44 GMT | The Insider Threat Problem — Securing Custodianship and Accountability | Abatis ABTU | [Read More](https://medium.com/p/d0f07d2b4878) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 09:09:06 GMT | Safeguarding Data: A Deep Dive into On-Device Encryption with AndroidKeyStore | Sivavishnu | [Read More](https://medium.com/p/336d39e7228b) |
 | Thu, 16 Oct 2025 09:08:43 GMT | Boost Cyber Resilience with Axipro’s NIST Cybersecurity Framework Certification | Axipro | [Read More](https://medium.com/p/eaa9a7e65b05) |
 | Thu, 16 Oct 2025 09:06:17 GMT | Where to Hide a GPS in Your Car So Thieves Won’t Find It (and How to Pick the Right Unit) | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/02a400eebe03) |
-| Thu, 16 Oct 2025 09:05:11 GMT | DNS Cache Davranışlarının Anatomisi: Get-DnsServerCache Derinlemesine Analiz | Tuğrul Kılıç | [Read More](https://medium.com/p/446519247288) |
-| Thu, 16 Oct 2025 09:01:56 GMT | What Is SOC 2 (and Why Your Customers Keep Asking About It)? | Hicomply | [Read More](https://medium.com/p/005ec7b6a8f6) |
-| Thu, 16 Oct 2025 08:58:48 GMT | Mastering Termux for Android Ethical Hacking and Automation | Rodhi Faisal Mufid | [Read More](https://medium.com/p/ef49b6332361) |
-| Thu, 16 Oct 2025 08:58:37 GMT | You Do not Always Have to Be Strong; it is Enough to Be Honest with Yourself | Mioara Crenganis | [Read More](https://medium.com/p/9b6b8301ae80) |
-| Thu, 16 Oct 2025 08:57:49 GMT | Unveiling Vulnerabilities: Exploring SWD Attack Surface In Hardware | Redfox Security | [Read More](https://medium.com/p/02ab86fac97b) |
-| Thu, 16 Oct 2025 08:56:42 GMT | Syndika Partners with Hacken: Building Trust in Blockchain Security & Compliance | Syndika | [Read More](https://medium.com/p/93dde2ac8c06) |
