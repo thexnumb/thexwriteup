@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 19:33:43 GMT | 10 Smart Home Security Tips Every Ottawa Homeowner Should Know | Stubs | [Read More](https://medium.com/p/2e89491850e1) |
+| Thu, 16 Oct 2025 19:25:06 GMT | Japan and Costa Rica, countries without armies. | Chronicles of the Past | [Read More](https://medium.com/p/a0920e464e18) |
+| Thu, 16 Oct 2025 19:18:59 GMT | Scorecard | Jude Canady | [Read More](https://medium.com/p/a8ee35abd419) |
+| Thu, 16 Oct 2025 19:16:24 GMT | Hack The Box: Lame (Retired Machine) | r4ndh3x | [Read More](https://medium.com/p/971ad64d6fdc) |
+| Thu, 16 Oct 2025 19:15:57 GMT | Pro Homelab Network VLANs with Proxmox and Opnsense: The Complete Guide (Part 2) | TechTimeFly | [Read More](https://medium.com/p/7209d65b8c47) |
+| Thu, 16 Oct 2025 19:14:31 GMT | How to Configure Remote Access with IPsec VPN on FortiGate | Cybersensus | [Read More](https://medium.com/p/d445f2f14cd3) |
+| Thu, 16 Oct 2025 19:13:25 GMT | Pro Homelab Network VLANs with Proxmox and Opnsense: The Complete Guide (Part 1) | TechTimeFly | [Read More](https://medium.com/p/7223bbbdbcdb) |
 | Thu, 16 Oct 2025 19:02:18 GMT | Why you should buy Gold even if you have only 10$ portfolio ? | Xanon | [Read More](https://medium.com/p/fcbdeb27bd1d) |
 | Thu, 16 Oct 2025 19:01:16 GMT | Internet Reconnaissance Tools(osint) | Anas M.p | [Read More](https://medium.com/p/2646b86159e7) |
 | Thu, 16 Oct 2025 18:57:10 GMT | Drosera: The Future of Web3 Security | Jude Johnson | [Read More](https://medium.com/p/167b9da45f30) |
@@ -20,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 18:47:53 GMT | Don’t Be Fooled by Malicious Ads on Google! | Danielle Koppel | [Read More](https://medium.com/p/35b50975b5e5) |
 | Thu, 16 Oct 2025 18:47:27 GMT | Beware of DocuSign Threats! | Danielle Koppel | [Read More](https://medium.com/p/c4dbd0497485) |
 | Thu, 16 Oct 2025 18:46:21 GMT | Artificial Intelligence and Development Ethics: Balancing Innovation with Humanity | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2f27e1a7ad74) |
+| Thu, 16 Oct 2025 18:34:18 GMT | Le vapotage: études récentes, risques sanitaires et réalité du marché | Deloanroyal | [Read More](https://medium.com/p/ca719021a1ed) |
 | Thu, 16 Oct 2025 18:31:14 GMT | ️ Charla + laboratorio: cómo se encontró un IDOR real (HackerOne) y cómo mitigarlo | Gorka | [Read More](https://medium.com/p/5ebbe8868a37) |
 | Thu, 16 Oct 2025 18:30:00 GMT | How PAM Relates to IAM (Identity and Access Management) | Ahmed Abdelrazek | [Read More](https://medium.com/p/eae1651b05c6) |
 | Thu, 16 Oct 2025 18:29:27 GMT | Multi-Cloud & Multi-Tool Security Model (MCMTSM) — or Cloud Security Model(CSM) | Abel López | [Read More](https://medium.com/p/2cc071bc3bbc) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 14:00:59 GMT | Stop Learning Python the Hard Way: Do This Instead in 2025 | Rocky | [Read More](https://medium.com/p/26308f6b06d3) |
 | Thu, 16 Oct 2025 14:00:17 GMT | Turns Out Cybersecurity Is Way More Intense Than I Thought — But I’m Not Giving Up | Yagmur Yerlikaya | [Read More](https://medium.com/p/dc281d939b3d) |
 | Thu, 16 Oct 2025 13:55:17 GMT | Security Monitoring Architecture for Artificial Intelligence Models in the EU Banking Sector… | Elias Nathan Hueck | [Read More](https://medium.com/p/1e31308658a9) |
-| Thu, 16 Oct 2025 13:54:38 GMT | Critical Apache ActiveMQ Flaw Could Let Attackers Execute Code Remotely | Jasmitharouthu | [Read More](https://medium.com/p/ef01b0abaf99) |
-| Thu, 16 Oct 2025 13:52:15 GMT | Mastering Secret Hunting: Step-by-Step Guide to Grep & Git in Codebase Security | Very Lazy Tech | [Read More](https://medium.com/p/f3e3a3390337) |
-| Thu, 16 Oct 2025 13:48:58 GMT | 2 Best Self-Hosted Bounty Programs | Abhirup Konwar | [Read More](https://medium.com/p/8769ba40b85a) |
-| Thu, 16 Oct 2025 13:42:56 GMT | Oracle’s Shadow Student | David ONeal | [Read More](https://medium.com/p/9a540207c98b) |
-| Thu, 16 Oct 2025 13:36:37 GMT | The Largest NPM Supply Chain Attack Ever | Mohammad-Ali A'RÂBI | [Read More](https://medium.com/p/86621653df76) |
-| Thu, 16 Oct 2025 13:36:09 GMT | Why Your Intelligence System Lies To You And How Natalia Fixes It | Sapifh | [Read More](https://medium.com/p/fbd253f74101) |
-| Thu, 16 Oct 2025 13:34:52 GMT | How I Built a Bot to Scrape Scribd: A Deep Dive into Dynamic Content and Automation | Akın Ateş | [Read More](https://medium.com/p/341396180301) |
-| Thu, 16 Oct 2025 13:22:19 GMT | I Tried AWS’s ABAC Setup for Secrets in EKS — Here’s What Actually Happens | Dev0ps | [Read More](https://medium.com/p/272365264bb5) |
