@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 05:33:54 GMT | The War No One Notices | Imanologya | [Read More](https://medium.com/p/33b42978bcc7) |
+| Thu, 16 Oct 2025 05:32:43 GMT | Cybersecurity Course in Chandigarh - Training & Certification | HackersPrey | [Read More](https://medium.com/p/19a4d35196a4) |
+| Thu, 16 Oct 2025 05:31:30 GMT | When AI Becomes the Hacker: The New Face of Cyber Threats | Prerna Shukla | [Read More](https://medium.com/p/97505ea37d98) |
+| Thu, 16 Oct 2025 05:29:40 GMT | Features To Look For Before Buying A Night Vision Binocular? | Night Vision 4 Less | [Read More](https://medium.com/p/2526f34e3d37) |
+| Thu, 16 Oct 2025 05:29:27 GMT | The Silent Insider: How AI Can Predict Human Risk Before It Strikes | Prerna Shukla | [Read More](https://medium.com/p/7d4309e42c15) |
+| Thu, 16 Oct 2025 05:28:25 GMT | How attackers use generative AI, LLMs, or autonomous agents to conduct phishing, malware, or… | Yousaf javed | [Read More](https://medium.com/p/6403578c70b3) |
+| Thu, 16 Oct 2025 05:19:21 GMT | The macOS Forensic Journey — FSEvents (File System Events) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/27244fd57aef) |
+| Thu, 16 Oct 2025 05:19:16 GMT | CraxsRat latest version 7.7 download link 2025 | Craxsrat Latest Version 7.7 | [Read More](https://medium.com/p/612243c0cf19) |
 | Thu, 16 Oct 2025 05:13:47 GMT | iPhone 5S Performance Benchmark: Shocking Real-World Results | Lily Adams | [Read More](https://medium.com/p/e6f8a7208225) |
 | Thu, 16 Oct 2025 05:09:41 GMT | CSRF and SSRF explained, plus 8 real interview questions | CyberSenpai | [Read More](https://medium.com/p/f130ac4cf7a6) |
+| Thu, 16 Oct 2025 05:08:35 GMT | Article #53: The Dark Web: What It Is, Why It’s Dangerous, and Why You Should Never Access It | Suujish Kandampullyy | [Read More](https://medium.com/p/17cb460d9089) |
 | Thu, 16 Oct 2025 05:05:10 GMT | CraxsRat latest version 7.7 download link 2025 | CraxsRat | [Read More](https://medium.com/p/9bb998f50402) |
 | Thu, 16 Oct 2025 05:02:56 GMT | Securing AI’s Communication Layer: How MCP-SEC Can Bring Mutual Authentication to the Model Context… | Mhjorleifsson | [Read More](https://medium.com/p/aa09bfcfc5c4) |
 | Thu, 16 Oct 2025 05:01:26 GMT | Consider Your Current and Future Needs: Navigating the Open Source Maturity Curve | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/55821b887b18) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Oct 2025 19:24:41 GMT | SQL injection: what it is and how to protect your applications | SafeAeon Inc. | [Read More](https://medium.com/p/a140f6e9cfd6) |
 | Wed, 15 Oct 2025 19:22:32 GMT | The Call That Shook Me | Sabina Akter | [Read More](https://medium.com/p/2c8ff00e7986) |
 | Wed, 15 Oct 2025 19:14:15 GMT | Authenticity Is the New Perimeter: How AI Videos Are Quietly Breaking Digital Trust | Elliott | [Read More](https://medium.com/p/f7e1df642e26) |
-| Wed, 15 Oct 2025 19:11:46 GMT | Authentication in FastAPI | Cristian | [Read More](https://medium.com/p/57cd858031c2) |
-| Wed, 15 Oct 2025 19:10:01 GMT | AI Tattled On Me: The Story of an Emergent Security Feature | Jazen Cosby | [Read More](https://medium.com/p/a6e6683a20a6) |
-| Wed, 15 Oct 2025 19:01:47 GMT | Stealth Job Search: LinkedIn URL Hack | D.Haddad | [Read More](https://medium.com/p/55759c7014b5) |
-| Wed, 15 Oct 2025 19:00:47 GMT | Anatomy of a Trojan: Building a Proof-of-Concept Reverse Shell Inside a Python Game | Muhammad Usman Faridi | [Read More](https://medium.com/p/eab7b63f30ea) |
-| Wed, 15 Oct 2025 18:56:42 GMT | Exploring Hidden Python Tricks for Real-World Projects | Kainat Nafees | [Read More](https://medium.com/p/eccf98bffa63) |
-| Wed, 15 Oct 2025 18:55:12 GMT | Exercise 4 — Bulk Import of Users | Azhariqbal | [Read More](https://medium.com/p/41b6e237d165) |
-| Wed, 15 Oct 2025 18:54:26 GMT | The Linux Security Journey — Blacklisting Kernel Modules | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b865164dd3d7) |
-| Wed, 15 Oct 2025 18:50:58 GMT | Cybersecurity Careers: Why Ethical Hacking is the Future of IT Security | Smith Adams | [Read More](https://medium.com/p/e08e899dcf41) |
-| Wed, 15 Oct 2025 18:48:34 GMT | I Just Watched My AI Assistant Quit Its Job — And Hire Three More AIs To Replace Itself | Riyas Raaz | [Read More](https://medium.com/p/ce375e3af401) |
