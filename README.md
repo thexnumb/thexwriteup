@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 09:36:58 GMT | https://www.cybersecurityzones.com/2025/10/free-cybersecurity-tools-2025.html | Sky YaduVanshi | [Read More](https://medium.com/p/6992fcb6dbfa) |
+| Thu, 16 Oct 2025 09:35:50 GMT | Europe’s Cyber Threat Intelligence Landscape | Cyber threat intelligence | [Read More](https://medium.com/p/82fe56b73c70) |
+| Thu, 16 Oct 2025 09:27:05 GMT | Cyber Security Managed Service Providers — Proven 24/7 Protection | Grandahsan | [Read More](https://medium.com/p/17b7b5e09f6e) |
+| Thu, 16 Oct 2025 09:21:40 GMT | The Crime Lab | Armssecson | [Read More](https://medium.com/p/fcbb69368b7f) |
 | Thu, 16 Oct 2025 09:18:33 GMT | LazySysAdmin(VulnHub)Write-up | Bill Mukenga | [Read More](https://medium.com/p/1a38e8fc508f) |
+| Thu, 16 Oct 2025 09:09:22 GMT | Chapter 4 — Medic | Blacke Marlin | [Read More](https://medium.com/p/28f831b3e23c) |
 | Thu, 16 Oct 2025 09:09:06 GMT | Safeguarding Data: A Deep Dive into On-Device Encryption with AndroidKeyStore | Sivavishnu | [Read More](https://medium.com/p/336d39e7228b) |
 | Thu, 16 Oct 2025 09:08:43 GMT | Boost Cyber Resilience with Axipro’s NIST Cybersecurity Framework Certification | Axipro | [Read More](https://medium.com/p/eaa9a7e65b05) |
 | Thu, 16 Oct 2025 09:06:17 GMT | Where to Hide a GPS in Your Car So Thieves Won’t Find It (and How to Pick the Right Unit) | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/02a400eebe03) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 04:25:37 GMT | How to Build a Scalable Tech Team Without Expanding Payroll: The Staff Augmentation Advantage | Danial | [Read More](https://medium.com/p/2b4c8d1cdc14) |
 | Thu, 16 Oct 2025 04:15:20 GMT | Anthropic’s Bombshell: The Alarming Ease of Poisoning AI Models | Biplove Yadav | [Read More](https://medium.com/p/57fe44d69568) |
 | Thu, 16 Oct 2025 04:12:15 GMT | The Great Windows Rift: How Microsoft’s Upgrade Policy Risks Alienating Millions | Zaki Qayoumi aka Zack | [Read More](https://medium.com/p/2996cda9a054) |
-| Thu, 16 Oct 2025 04:04:51 GMT | Daily Bugle — TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/012cc36d965c) |
-| Thu, 16 Oct 2025 03:48:34 GMT | THM Subdomain Enumeration | Jerry Wang | [Read More](https://medium.com/p/8aa83719d387) |
-| Thu, 16 Oct 2025 03:44:32 GMT | Stop XSS in Its Tracks: The Ultimate One-Page Developer Checklist | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7fc9ca40c71b) |
-| Thu, 16 Oct 2025 03:43:26 GMT | Network Reconnaissance with Naabu: A Fast Port Scanner Guide | Swetha | [Read More](https://medium.com/p/38491f1e3a39) |
-| Thu, 16 Oct 2025 03:36:55 GMT | 15 SQL Tricks to Write Cleaner and Faster Queries | Rizqi Mulki | [Read More](https://medium.com/p/8099206dad00) |
