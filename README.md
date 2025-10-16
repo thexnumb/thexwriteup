@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 15:35:26 GMT | The Future is Wireless: Inside the Booming Wi-Fi Hotspot Market | Kaverigiri | [Read More](https://medium.com/p/738a86ae0487) |
+| Thu, 16 Oct 2025 15:30:10 GMT | ✍️ The Future Is Signed Digitally: Exploring the Booming Digital Signature Market | Kaverigiri | [Read More](https://medium.com/p/df52bca0e865) |
+| Thu, 16 Oct 2025 15:30:09 GMT | From Corner Store to Corporate Giant: How Managed IT Services Scale with Every Business | Paradise technologies Inc | [Read More](https://medium.com/p/a23c09c8eb78) |
+| Thu, 16 Oct 2025 15:22:05 GMT | Threat Intelligence: Staying Ahead of Cyber Threats | Cyber Security Research | [Read More](https://medium.com/p/0c7b8843ba56) |
+| Thu, 16 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d3877fb8e00d) |
+| Thu, 16 Oct 2025 15:13:15 GMT | Log Management and Analysis | Cyber Security Research | [Read More](https://medium.com/p/141747475bb8) |
 | Thu, 16 Oct 2025 15:10:43 GMT | Westwild CTF walkthrough | Sanketh S | [Read More](https://medium.com/p/6a9cfb16b8fe) |
 | Thu, 16 Oct 2025 15:08:39 GMT | My Experience with the Blue Team Level 1 (BTL1) Certification | Citadel Cybersec | [Read More](https://medium.com/p/480c6f82ca2e) |
 | Thu, 16 Oct 2025 15:03:10 GMT | Understanding MS Graph Application Details in the AzureAD Terraform Provider | Mark Tinderholt | [Read More](https://medium.com/p/031d9d413cdb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 10:04:59 GMT | Top 10 Reasons to Learn Cyber Security in Hyderabad in 2025 | Digital Wiings | [Read More](https://medium.com/p/cec445ccbf0d) |
 | Thu, 16 Oct 2025 10:04:28 GMT | Professional VAPT Services: Why Businesses Need Petadot | Jitendramotiyanipetadot | [Read More](https://medium.com/p/ba740f48762a) |
 | Thu, 16 Oct 2025 10:03:20 GMT | What is cybersecurity, and why is it important? | Vamsi N | [Read More](https://medium.com/p/17242860a02b) |
-| Thu, 16 Oct 2025 09:55:07 GMT | The Deepfake Dilemma: How AI Impersonation is Becoming the Next Big Cyber Threat | Sevlex Cybersecurity | [Read More](https://medium.com/p/4978ea47de4e) |
-| Thu, 16 Oct 2025 09:54:34 GMT | Your Heartbeat Could Be Your Password — And a Laser Can Read It Through Your Skin | Bradley Susser | [Read More](https://medium.com/p/3e8d7ff1a208) |
-| Thu, 16 Oct 2025 09:53:12 GMT | Deconstructing a Stealthy Android Trojan: A Case Study in Phishing and Evasion | Sohan Kanna D | [Read More](https://medium.com/p/3b8a00ed18d3) |
-| Thu, 16 Oct 2025 09:52:03 GMT | ประจำวันพฤหัสบดีที่ 16 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/bc1491946dbf) |
-| Thu, 16 Oct 2025 09:47:12 GMT | Hardware-Assisted Security: The Rise of Confidential Computing for a Trusted Digital Future | Jackdavis Iap | [Read More](https://medium.com/p/d65d54828a50) |
-| Thu, 16 Oct 2025 09:47:06 GMT | AI Risks in the Workplace: What Companies Must Watch Out For | SecureSlate | [Read More](https://medium.com/p/742b91c9bfba) |
