@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 20:56:47 GMT | Using AI for Web Application Security | John Muconto | [Read More](https://medium.com/p/6b9e304ca1b4) |
+| Thu, 16 Oct 2025 20:39:41 GMT | This practice Lab helped me understand Azure ASGs well | Gabriel Ufot | [Read More](https://medium.com/p/7e4da09ee4bc) |
+| Thu, 16 Oct 2025 20:38:09 GMT | Freelancer Scienario - Hackviser CWSExpert | Y0s_0x_IBM | [Read More](https://medium.com/p/6bd72c96a9ad) |
+| Thu, 16 Oct 2025 20:35:44 GMT | Your IP Address Is Not as Safe as You Think: The Dangers of Shared Hosting | Cybamatica | [Read More](https://medium.com/p/ac8cc7611879) |
 | Thu, 16 Oct 2025 20:32:30 GMT | I Truly Worry About the Next Generation | Rhiannon Williams | [Read More](https://medium.com/p/4d4f324d009d) |
 | Thu, 16 Oct 2025 20:29:35 GMT | String Encryption in WinAPI Wrapper | S12 - 0x12Dark Development | [Read More](https://medium.com/p/592556d4bd69) |
+| Thu, 16 Oct 2025 20:28:45 GMT | Civilization. The last page. (144) | Jan Slort | [Read More](https://medium.com/p/2cc92e288927) |
 | Thu, 16 Oct 2025 20:13:47 GMT | Misinformation on Social Media: Why Fighting Lies Is Everyone’s Responsibility | Arnav Senthil | [Read More](https://medium.com/p/0a0d1ebf5c15) |
 | Thu, 16 Oct 2025 20:12:34 GMT | Building a Security Lab on Mac with UTM and Wazuh — Phase 2 | James | [Read More](https://medium.com/p/3639ce4a1f23) |
 | Thu, 16 Oct 2025 20:10:52 GMT | When dev‑server whispers: a bug hunter’s journey discovering CVE‑2025‑30208 on a government portal. | Will.Star | [Read More](https://medium.com/p/6e7509854acc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 14:56:03 GMT | ACADAMY WALKTHROUGH | Sanketh S | [Read More](https://medium.com/p/385dfb13d2c2) |
 | Thu, 16 Oct 2025 14:53:13 GMT | “The Kubernetes Catastrophe: How One Open API Endpoint Exposed Snap’s Infrastructure” | Aman Sharma | [Read More](https://medium.com/p/d41009ce5598) |
 | Thu, 16 Oct 2025 14:51:39 GMT | What True Wealth Really Means | Rosa Diaz-Casal | [Read More](https://medium.com/p/7d30e6b9852a) |
-| Thu, 16 Oct 2025 14:49:44 GMT | Signs You Are in Love | Bloom with Maria | [Read More](https://medium.com/p/7f6be0641548) |
-| Thu, 16 Oct 2025 14:47:02 GMT | CL0P/FIN11 Go In-Memory on Oracle EBS — The Extortion Comes Later | Wes Young | [Read More](https://medium.com/p/4ab5c32d3f18) |
-| Thu, 16 Oct 2025 14:44:25 GMT | From Promtail to Alloy: A Practical Migration Guide for Your Logging Pipeline | Kelana Chandra Helyandika | [Read More](https://medium.com/p/8f3dcec2b10f) |
-| Thu, 16 Oct 2025 14:43:25 GMT | ISO 27001:2022 guide for a complete beginner (Part 2) | Parull Sharma | [Read More](https://medium.com/p/bb1f76be5edc) |
-| Thu, 16 Oct 2025 14:40:03 GMT | Why Attending Meetings in Agile Development Matters More Than You Think | Charukshi Wijesinghe | [Read More](https://medium.com/p/f997824dabb4) |
