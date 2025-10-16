@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 12:39:43 GMT | The Top Most Famous Articles Ever Written: A Look at Iconic Journalism and Essays | Information all World. | [Read More](https://medium.com/p/2dad61bfe61d) |
+| Thu, 16 Oct 2025 12:35:09 GMT | Linux: The Operating System That Runs Everything (Including Your Sanity) | Malik Ahmad | [Read More](https://medium.com/p/d0d23fa74f66) |
+| Thu, 16 Oct 2025 12:32:55 GMT | Demystifying Cloud Security: Why “Cloud Security Basics” on Coursera Is a Must-Explore | Invest Learn Make | [Read More](https://medium.com/p/247ace864900) |
+| Thu, 16 Oct 2025 12:32:19 GMT | Taking the Armor Off | Aaron Pace | [Read More](https://medium.com/p/4f1377d7584e) |
+| Thu, 16 Oct 2025 12:29:19 GMT | Linux Security Essentials: Securing /etc/resolv.conf with ACLs | Aniket Banerjee | [Read More](https://medium.com/p/522b99fe0b9c) |
+| Thu, 16 Oct 2025 12:27:52 GMT | How does real-time communication work? | Martin Yordanov | [Read More](https://medium.com/p/b3f6db8b18b7) |
+| Thu, 16 Oct 2025 12:26:54 GMT | The DIRB Command That Found Me 47 Hidden Admin Panels | BugHunter’s Journal | [Read More](https://medium.com/p/8ff7f523aa24) |
+| Thu, 16 Oct 2025 12:22:22 GMT | Future-Proof Your Company with a Cybersecurity Consulting Firm | Dogmasys | [Read More](https://medium.com/p/1ac59d7351ae) |
+| Thu, 16 Oct 2025 12:20:37 GMT | Threat Intel Aggregator: Real-time Cyber Threat Intelligence with Alerts, SAST, and Visualization | Ibrahim Yusuf | [Read More](https://medium.com/p/2d8189d9d8b5) |
+| Thu, 16 Oct 2025 12:10:57 GMT | API keys leak. Certificates expire. | Vicente Aceituno Canal | [Read More](https://medium.com/p/4316d2d562c2) |
+| Thu, 16 Oct 2025 12:08:38 GMT | FlagVault Exploit -a practical demo of a stack-based buffer overflow | Sithum - Z44R4 | [Read More](https://medium.com/p/c6a53666864f) |
+| Thu, 16 Oct 2025 12:06:16 GMT | Complete AWS Security Course for IT and Cybersecurity Jobs | cyber security Updates | [Read More](https://medium.com/p/070bb705ede8) |
+| Thu, 16 Oct 2025 12:05:42 GMT | CISA Flags Adobe AEM Flaw With Perfect 10.0 Score — A Wake-Up Call for Every Organization | Germano Costi | [Read More](https://medium.com/p/eca7d9fa45d6) |
+| Thu, 16 Oct 2025 11:46:34 GMT | Tokens That Expire: How to survive npm’s Security Overhaul | Ronny Roeller | [Read More](https://medium.com/p/8abebadf66bd) |
+| Thu, 16 Oct 2025 11:45:06 GMT | Humans first; Tech later. | Martin Abramov | [Read More](https://medium.com/p/674214a8ab99) |
 | Thu, 16 Oct 2025 11:31:46 GMT | 25. Monetizing Your Skills Beyond Bug Bounty | Abhijeet kumawat | [Read More](https://medium.com/p/a6b503d6b6dc) |
 | Thu, 16 Oct 2025 11:22:42 GMT | How an Instagram Post Became a Blueprint for Murder: An OSINT Case Study | Ahmed Mohammed | [Read More](https://medium.com/p/c5186217adc1) |
 | Thu, 16 Oct 2025 11:12:17 GMT | The Ethics of Biohacking: Where Curiosity Meets Controversy | mishita maggo | [Read More](https://medium.com/p/ee9a51fe3e20) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 07:31:52 GMT | Chronos Vault Trinity Protocol: Live on Testnet | Chronos Vault | [Read More](https://medium.com/p/10277e015fed) |
 | Thu, 16 Oct 2025 07:31:40 GMT | Chrome Just Declared War on Your Privacy. Here’s How to Fight Back. | Berker Ceylan | [Read More](https://medium.com/p/efa75dff0c51) |
 | Thu, 16 Oct 2025 07:29:57 GMT | What are Managed Cybersecurity Services and How Do They Help IT Infrastructure Solutions? | Mathewneelan | [Read More](https://medium.com/p/fc84f6befe67) |
-| Thu, 16 Oct 2025 07:28:17 GMT | Pre-Engagement Phases in Penetration Testing (Pentester, Management, and Business Perspectives) | Justakazh | [Read More](https://medium.com/p/50ca1a26ceec) |
-| Thu, 16 Oct 2025 07:27:32 GMT | Will cybersecurity be taken over by AI? | Shivakshi Rawat | [Read More](https://medium.com/p/b7d012a49352) |
-| Thu, 16 Oct 2025 07:22:29 GMT | Extended Network Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/59b26fb2ee0d) |
-| Thu, 16 Oct 2025 07:16:46 GMT | Beyond the Virus: Why Your PC Needs a Malware Removal Expert | Compu 360, LLC | [Read More](https://medium.com/p/23b4aac2f187) |
-| Thu, 16 Oct 2025 07:08:25 GMT | Let’s talk to your terminal in plain English: Meet ShellGPT | Sithin Adiyeri | [Read More](https://medium.com/p/94668d938934) |
-| Thu, 16 Oct 2025 07:07:32 GMT | My AI Coder Built an App in 10 Minutes and Billed Me $5,000 for It | Shane Collins | [Read More](https://medium.com/p/736b90122d19) |
-| Thu, 16 Oct 2025 07:05:34 GMT | VERIFIABLE PUBLIC GOODS: HOW DROSERA COULD STRENGTHEN OPTIMISM’S VISION FOR COLLECTIVE SECURITY. | MAVERICK | [Read More](https://medium.com/p/f0347ac471fb) |
-| Thu, 16 Oct 2025 06:54:04 GMT | When AI Starts Phishing You Back: The Next Generation of Social Engineering | Md Faiyaz Khan | [Read More](https://medium.com/p/5099648132d6) |
-| Thu, 16 Oct 2025 06:45:40 GMT | The Way His Eyes Held Me Captive | The Heart 's Diary (Rukaiya Diwan) | [Read More](https://medium.com/p/31da0e816a28) |
-| Thu, 16 Oct 2025 06:45:05 GMT | On AI’s Performativity: Deception, Introspection and Strategic Opacity | Mail 17 | [Read More](https://medium.com/p/9215bcb7956a) |
-| Thu, 16 Oct 2025 06:42:04 GMT | Why People Are Falling Back in Love with the iPhone 5S | Sienna Lewis | [Read More](https://medium.com/p/02ccd51e7743) |
-| Thu, 16 Oct 2025 06:40:55 GMT | Securing Power Platform: Disabling Guest Access at Scale | Jere Vekka | [Read More](https://medium.com/p/04df838e1281) |
-| Thu, 16 Oct 2025 06:40:19 GMT | Software Architecture Saga — Chant 1 — The Epopee Begins… | Alessandro Bruschieri | [Read More](https://medium.com/p/aac07a1d6926) |
-| Thu, 16 Oct 2025 06:38:19 GMT | AI in Cybersecurity: Friend, Foe, or Both? | Deepak Sharma | [Read More](https://medium.com/p/d030b138e043) |
-| Thu, 16 Oct 2025 06:35:33 GMT | Boost your career with a cybersecurity course in Kochi designed to equip you with practical skills… | abhi | [Read More](https://medium.com/p/032724fd7432) |
