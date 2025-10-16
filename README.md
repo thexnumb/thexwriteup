@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 08:38:06 GMT | My Journey Through Cisco Endpoint Security Projects on Windows | Cyber Timi | [Read More](https://medium.com/p/df4e2f62d477) |
+| Thu, 16 Oct 2025 08:37:41 GMT | Hash Cracking di Kali Linux | Zulfianarahmi | [Read More](https://medium.com/p/717ccdb26ad8) |
+| Thu, 16 Oct 2025 08:34:47 GMT | TRICARE at Risk: How Centene’s Cybersecurity Failures Threaten Military Families | Centengate | [Read More](https://medium.com/p/dd883665e392) |
+| Thu, 16 Oct 2025 08:33:11 GMT | Byte_Eagle-4 Walkthrough | Shashank Karan | [Read More](https://medium.com/p/f784ea639d20) |
+| Thu, 16 Oct 2025 08:32:38 GMT | Lagi, MySertifikasi Hadirkan Webinar Cyber Security bersama Pakarnya | Evaindobot | [Read More](https://medium.com/p/94e055a1fe94) |
+| Thu, 16 Oct 2025 08:25:45 GMT | Understanding the rel=’noopener noreferrer’ Attribute | Michael Andreuzza | [Read More](https://medium.com/p/c922a2360223) |
+| Thu, 16 Oct 2025 08:25:25 GMT | 5 Powerful Lessons from the F5 Breach Source Code Theft | Pentest_Testing_Corp | [Read More](https://medium.com/p/779fb6800a8f) |
+| Thu, 16 Oct 2025 08:21:21 GMT | How Hackers Use Your IP Address (And Why You Should Actually Care) | Abraham Bishop | [Read More](https://medium.com/p/22ee29398477) |
 | Thu, 16 Oct 2025 08:20:56 GMT | Academy-walkthrough | Shashank Karan | [Read More](https://medium.com/p/e804d83f64fa) |
 | Thu, 16 Oct 2025 08:16:15 GMT | Mastering the Art of Python Data Pipelines: My Journey to Clean, Reliable Automation | Kainat Nafees | [Read More](https://medium.com/p/35abaf664662) |
 | Thu, 16 Oct 2025 08:13:39 GMT | Global POS Security Market Projected for Strong Expansion Amid Stricter Regulations and Digital… | Martinalueis | [Read More](https://medium.com/p/e762a629a802) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 02:23:27 GMT | 10 Habits to Build a Powerful Cybersecurity Career | Shahzaib | [Read More](https://medium.com/p/27fb53549c90) |
 | Thu, 16 Oct 2025 02:12:17 GMT | The Invisible Shield: How AWS Security Services Empower Resilient Architecture | Opsidian | [Read More](https://medium.com/p/af7efac21d4f) |
 | Thu, 16 Oct 2025 02:09:33 GMT | Understanding Control 3.1.20: External System Connections | Arnold De La Vega | [Read More](https://medium.com/p/79b1fa3dfa94) |
-| Thu, 16 Oct 2025 01:50:57 GMT | The Importance of Identity and Access Management (IAM) in the Cloud | Samina Perveen | [Read More](https://medium.com/p/a4c2d4edfdf4) |
-| Thu, 16 Oct 2025 01:49:27 GMT | 7 Hard Truths I Wish I Knew Before Learning to Code | Harsh singh | [Read More](https://medium.com/p/e3a7aed2b4bd) |
-| Thu, 16 Oct 2025 01:33:26 GMT | How I Segmented My Home SOC Lab Using UniFi VLANs | Raynard Waits | [Read More](https://medium.com/p/4c36e86b389f) |
-| Thu, 16 Oct 2025 01:32:18 GMT | 7 FastAPI Security Patterns That Actually Ship | Hash Block | [Read More](https://medium.com/p/19c52d717668) |
-| Thu, 16 Oct 2025 01:31:20 GMT | The Day the Bedrock Cracked: Thinking Through the Red Hat Breach | Athishsagarkishan | [Read More](https://medium.com/p/03cc02e2ee03) |
-| Thu, 16 Oct 2025 01:22:17 GMT | Mastering Detection Engineering with Sigma for Cybersecurity | Mandar Kulkarni | [Read More](https://medium.com/p/8347e2b9e59d) |
-| Thu, 16 Oct 2025 01:15:05 GMT | New QR Code for WhatsApp Channel Makes Access Easier | Nathaniel Langley | [Read More](https://medium.com/p/ab72421ef9fe) |
-| Thu, 16 Oct 2025 00:57:43 GMT | CHAOSBOT: A STEALTHY RUST BACKDOOR USING DISCORD AS C2 | Jon C | [Read More](https://medium.com/p/b25faf33d57e) |
