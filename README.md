@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 20:32:30 GMT | I Truly Worry About the Next Generation | Rhiannon Williams | [Read More](https://medium.com/p/4d4f324d009d) |
+| Thu, 16 Oct 2025 20:29:35 GMT | String Encryption in WinAPI Wrapper | S12 - 0x12Dark Development | [Read More](https://medium.com/p/592556d4bd69) |
 | Thu, 16 Oct 2025 20:13:47 GMT | Misinformation on Social Media: Why Fighting Lies Is Everyone’s Responsibility | Arnav Senthil | [Read More](https://medium.com/p/0a0d1ebf5c15) |
+| Thu, 16 Oct 2025 20:12:34 GMT | Building a Security Lab on Mac with UTM and Wazuh — Phase 2 | James | [Read More](https://medium.com/p/3639ce4a1f23) |
 | Thu, 16 Oct 2025 20:10:52 GMT | When dev‑server whispers: a bug hunter’s journey discovering CVE‑2025‑30208 on a government portal. | Will.Star | [Read More](https://medium.com/p/6e7509854acc) |
 | Thu, 16 Oct 2025 19:52:37 GMT | The Gaza Exchange: Ceasefire or Strategic Illusion? | Josefine A. Brinley | [Read More](https://medium.com/p/be95a6dbf366) |
 | Thu, 16 Oct 2025 19:52:02 GMT | Day 11 of my Cybersecurity journey: Linux Shell and Scripting. | Ogundipe Priscilla | [Read More](https://medium.com/p/979c870b3bbf) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 14:44:25 GMT | From Promtail to Alloy: A Practical Migration Guide for Your Logging Pipeline | Kelana Chandra Helyandika | [Read More](https://medium.com/p/8f3dcec2b10f) |
 | Thu, 16 Oct 2025 14:43:25 GMT | ISO 27001:2022 guide for a complete beginner (Part 2) | Parull Sharma | [Read More](https://medium.com/p/bb1f76be5edc) |
 | Thu, 16 Oct 2025 14:40:03 GMT | Why Attending Meetings in Agile Development Matters More Than You Think | Charukshi Wijesinghe | [Read More](https://medium.com/p/f997824dabb4) |
-| Thu, 16 Oct 2025 14:36:03 GMT | The Real Business Risk of Ignoring CMMC: Contractual Consequences Every DoD Supplier Should Know | Olivier Maignan | [Read More](https://medium.com/p/42a80887ab22) |
-| Thu, 16 Oct 2025 14:32:16 GMT | Friends Or Trophies: What Are We Collecting? | Nikhil Lodha | [Read More](https://medium.com/p/c243589a3399) |
-| Thu, 16 Oct 2025 14:17:32 GMT | What is Hacking | Engaabdullah | [Read More](https://medium.com/p/aef428236f26) |
