@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 17:38:14 GMT | Business-Email Policy & OTP Bypass | Ahmed Mahmoud | [Read More](https://medium.com/p/015bd25322d8) |
+| Thu, 16 Oct 2025 17:33:19 GMT | Top Free Tools Every Influencer Should Know (2025 Edition) | Lydia Brookhaven | [Read More](https://medium.com/p/7d64aa15aa26) |
+| Thu, 16 Oct 2025 17:25:15 GMT | How I Became an Accidental Admin and Almost Got Fired (From Someone Else’s Company) | Iski | [Read More](https://medium.com/p/82e7b0acdb8b) |
+| Thu, 16 Oct 2025 17:24:38 GMT | #SUMMARY OF TODAY’S LECTURE Cyber security is an ongoing effort to protect individuals… | Ndem Ndukwo | [Read More](https://medium.com/p/7c8d235ec632) |
+| Thu, 16 Oct 2025 17:23:28 GMT | LLMs Are Trained on Only 5% of the Internet — Here’s Why That Matters | Nanda Kumar | [Read More](https://medium.com/p/24f8dbfbe5a4) |
+| Thu, 16 Oct 2025 17:19:31 GMT | Linux Forensics & Incident Response Basics | Cybersecplayground | [Read More](https://medium.com/p/55f31bff3b88) |
 | Thu, 16 Oct 2025 17:15:22 GMT | Thrilled to share another milestone in my cybersecurity journey! | Abdifatah Hassan Roble | [Read More](https://medium.com/p/f736fb8a3c24) |
 | Thu, 16 Oct 2025 17:15:08 GMT | Exposed API Keys and Secrets | SIDDHANT SHUKLA | [Read More](https://medium.com/p/d9c08f34ab73) |
 | Thu, 16 Oct 2025 17:11:20 GMT | Injected #1: From API Bugs To File Impersonation Attack | Chux | [Read More](https://medium.com/p/477f2e5a91bf) |
+| Thu, 16 Oct 2025 17:09:42 GMT | Windows 10 Desteği Sona Erdi — Tenable ile Destek Dışı Sistemleri Nasıl Tespit Ederiz? | Burak Akdogan | [Read More](https://medium.com/p/ee870093067f) |
 | Thu, 16 Oct 2025 17:02:19 GMT | The Perks of Adopting a Multi-Cloud Strategy in Business Operations | Ascendion | [Read More](https://medium.com/p/f014d58e971d) |
 | Thu, 16 Oct 2025 16:59:49 GMT | The Skills Cybersecurity Analysts Must Learn in 2025 | Aj | [Read More](https://medium.com/p/82d305e4934a) |
 | Thu, 16 Oct 2025 16:55:44 GMT | Australian BCDR Strategy for Cloud Continuity: Inside the Cloud Mesh | Sabiha Rahman | [Read More](https://medium.com/p/e7a67aa4e723) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 12:26:54 GMT | The DIRB Command That Found Me 47 Hidden Admin Panels | BugHunter’s Journal | [Read More](https://medium.com/p/8ff7f523aa24) |
 | Thu, 16 Oct 2025 12:22:22 GMT | Future-Proof Your Company with a Cybersecurity Consulting Firm | Dogmasys | [Read More](https://medium.com/p/1ac59d7351ae) |
 | Thu, 16 Oct 2025 12:20:37 GMT | Threat Intel Aggregator: Real-time Cyber Threat Intelligence with Alerts, SAST, and Visualization | Ibrahim Yusuf | [Read More](https://medium.com/p/2d8189d9d8b5) |
-| Thu, 16 Oct 2025 12:10:57 GMT | API keys leak. Certificates expire. | Vicente Aceituno Canal | [Read More](https://medium.com/p/4316d2d562c2) |
-| Thu, 16 Oct 2025 12:08:38 GMT | FlagVault Exploit -a practical demo of a stack-based buffer overflow | Sithum - Z44R4 | [Read More](https://medium.com/p/c6a53666864f) |
-| Thu, 16 Oct 2025 12:06:16 GMT | Complete AWS Security Course for IT and Cybersecurity Jobs | cyber security Updates | [Read More](https://medium.com/p/070bb705ede8) |
-| Thu, 16 Oct 2025 12:05:42 GMT | CISA Flags Adobe AEM Flaw With Perfect 10.0 Score — A Wake-Up Call for Every Organization | Germano Costi | [Read More](https://medium.com/p/eca7d9fa45d6) |
-| Thu, 16 Oct 2025 11:46:34 GMT | Tokens That Expire: How to survive npm’s Security Overhaul | Ronny Roeller | [Read More](https://medium.com/p/8abebadf66bd) |
-| Thu, 16 Oct 2025 11:45:06 GMT | Humans first; Tech later. | Martin Abramov | [Read More](https://medium.com/p/674214a8ab99) |
-| Thu, 16 Oct 2025 11:31:46 GMT | 25. Monetizing Your Skills Beyond Bug Bounty | Abhijeet kumawat | [Read More](https://medium.com/p/a6b503d6b6dc) |
