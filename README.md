@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Oct 2025 21:29:31 GMT | 2025 Cybersecurity Imperatives for MSPs: Strategic Leadership in an Evolving Threat Landscape | Donald Betancourt | [Read More](https://medium.com/p/e19943161763) |
+| Thu, 16 Oct 2025 21:23:26 GMT | SIEM, Startups, and the Myth (Reality?) of IT Inertia: A Reformed Analyst Reflects on SIEM MQ 2025 | Anton Chuvakin | [Read More](https://medium.com/p/88dc45358fba) |
+| Thu, 16 Oct 2025 21:20:56 GMT | Human computer interaction ( HCI) | Anish_Ali | [Read More](https://medium.com/p/b2c755f5fe0c) |
+| Thu, 16 Oct 2025 21:16:15 GMT | How I Turned $0 Into $17,328/Month While Sleeping: The Make.com | Riyas Raaz | [Read More](https://medium.com/p/bd7e16034132) |
 | Thu, 16 Oct 2025 20:56:47 GMT | Using AI for Web Application Security | John Muconto | [Read More](https://medium.com/p/6b9e304ca1b4) |
 | Thu, 16 Oct 2025 20:39:41 GMT | This practice Lab helped me understand Azure ASGs well | Gabriel Ufot | [Read More](https://medium.com/p/7e4da09ee4bc) |
 | Thu, 16 Oct 2025 20:38:09 GMT | Freelancer Scienario - Hackviser CWSExpert | Y0s_0x_IBM | [Read More](https://medium.com/p/6bd72c96a9ad) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 15:08:39 GMT | My Experience with the Blue Team Level 1 (BTL1) Certification | Citadel Cybersec | [Read More](https://medium.com/p/480c6f82ca2e) |
 | Thu, 16 Oct 2025 15:03:10 GMT | Understanding MS Graph Application Details in the AzureAD Terraform Provider | Mark Tinderholt | [Read More](https://medium.com/p/031d9d413cdb) |
 | Thu, 16 Oct 2025 15:02:02 GMT | ISO 27701:2025: Turning Privacy Compliance into a Competitive Advantage | Valdez Ladd | [Read More](https://medium.com/p/288b1bbd46a9) |
-| Thu, 16 Oct 2025 14:59:18 GMT | Cyber Security and Workplace Safety | Victor Obioha | [Read More](https://medium.com/p/3b9108072de1) |
-| Thu, 16 Oct 2025 14:56:03 GMT | ACADAMY WALKTHROUGH | Sanketh S | [Read More](https://medium.com/p/385dfb13d2c2) |
-| Thu, 16 Oct 2025 14:53:13 GMT | “The Kubernetes Catastrophe: How One Open API Endpoint Exposed Snap’s Infrastructure” | Aman Sharma | [Read More](https://medium.com/p/d41009ce5598) |
-| Thu, 16 Oct 2025 14:51:39 GMT | What True Wealth Really Means | Rosa Diaz-Casal | [Read More](https://medium.com/p/7d30e6b9852a) |
