@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 18:18:24 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Smith Adams | [Read More](https://medium.com/p/3ba583263149) |
+| Fri, 17 Oct 2025 18:18:21 GMT | Your Wi-Fi is Vulnerable. Here is How to Test (and Fix) the WPS Flaw Using Only Your Android Phone | Kambetastephano | [Read More](https://medium.com/p/9b73b5404e73) |
+| Fri, 17 Oct 2025 18:11:26 GMT | “Unveiling the Network: How IP Sweeping Scripts Reveal Hidden Devices and Strengthen Security” | MAV Singh | [Read More](https://medium.com/p/b8df620833ae) |
+| Fri, 17 Oct 2025 18:02:38 GMT | Presentación de mi Masterclass de Bug Bounty — este fin de semana en Discord | Gorka | [Read More](https://medium.com/p/4327b9953240) |
+| Fri, 17 Oct 2025 17:59:05 GMT | Chinese Hackers Exploit ArcGIS Server as Backdoor | Himanshu Bhatt | [Read More](https://medium.com/p/2fa5c94d6bba) |
+| Fri, 17 Oct 2025 17:57:19 GMT | Security and Performance Aspects of Namespaces in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/48793fde4948) |
+| Fri, 17 Oct 2025 17:53:09 GMT | Pakistan’s Top Ethical Hackers Helping Victims for Free — The Story of 516 Hackers | Asif Ali | [Read More](https://medium.com/p/af5c6f5ce5fd) |
+| Fri, 17 Oct 2025 17:41:20 GMT | 516 Hackers’ Remarkable Journey (2020–2025): How They Recovered ₨2M and Made the Internet Safer —… | Asif Ali | [Read More](https://medium.com/p/94bb3a8266e0) |
+| Fri, 17 Oct 2025 17:38:19 GMT | How I Triage Phishing Emails: A SOC Analyst’s Practical Guide | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/cccb9bb91dd1) |
 | Fri, 17 Oct 2025 17:32:36 GMT | What Is a Storage Bucket in Cloud Computing? Explained with a Simple Analogy | Natarajan C K | [Read More](https://medium.com/p/4f87788ecfa6) |
 | Fri, 17 Oct 2025 17:27:36 GMT | Honestly, What is Wrong with Needing Someone? | musingsfrommarc | [Read More](https://medium.com/p/134fa68c55ac) |
 | Fri, 17 Oct 2025 17:23:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/fde769cc811f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 11:15:18 GMT | Event Security Management: Ensuring Safety with Securycor | uk service | [Read More](https://medium.com/p/b57d9ae9bc48) |
 | Fri, 17 Oct 2025 11:11:49 GMT | Intercepting Implicit Intents To Load Arbitrary URLs In Android | Redfox Security | [Read More](https://medium.com/p/b2cf5d428c2b) |
 | Fri, 17 Oct 2025 11:10:56 GMT | Top 10 Companies Hiring Cyber Security Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/dd7e08e3f94f) |
-| Fri, 17 Oct 2025 11:05:57 GMT | Digital Forensics -Operation Banjo | Hari Krishnan | [Read More](https://medium.com/p/11f0045c88b5) |
-| Fri, 17 Oct 2025 11:03:18 GMT | Why Partnering with a Cybersecurity Provider Gives You a Competitive Edge | SmartCLOUD Australia | [Read More](https://medium.com/p/3325bc7cfc38) |
-| Fri, 17 Oct 2025 10:54:01 GMT | Implementing Wazuh in Highly Segmented and Decentralized ­Networks: Syslog Forwarders, Custom… | Raphooko Phooko | [Read More](https://medium.com/p/4513ef70260f) |
-| Fri, 17 Oct 2025 10:51:14 GMT | The 10 Most Critical Threats to ML and AI Systems | Harun BENLİ | [Read More](https://medium.com/p/d60c523745b3) |
-| Fri, 17 Oct 2025 10:47:44 GMT | Tailored Security Solutions: How Barzo Meets Diverse Needs | Travel time | [Read More](https://medium.com/p/0559e17bccd7) |
-| Fri, 17 Oct 2025 10:42:28 GMT | Top Computer Trends Shaping 2025 Tech | Scrolling world | [Read More](https://medium.com/p/724ad1351407) |
-| Fri, 17 Oct 2025 10:41:10 GMT | How Cyber Security Services in Irvine Help Prevent Data Breaches | Fusion Factor Corporation | [Read More](https://medium.com/p/0f9deda1738a) |
-| Fri, 17 Oct 2025 10:37:00 GMT | The Hidden Role of AI in Building Digital Trust | Hiphypeio | [Read More](https://medium.com/p/2a253452ed71) |
-| Fri, 17 Oct 2025 10:32:20 GMT | Reclaim Digital Sovereignty: Digital Shield’s “Zero-Trust” Revolution in Web3 Security | Digital Shield Offcial | [Read More](https://medium.com/p/fd59b4fc97eb) |
