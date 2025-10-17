@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 20:28:35 GMT | The Internet Never Forgets: Privacy and Awareness in Digital Bangladesh | Mushfiqur Rahman | [Read More](https://medium.com/p/3a60692a83d6) |
+| Fri, 17 Oct 2025 20:28:30 GMT | Learn How BUG Users Can Access Rewards Easily | BUG | [Read More](https://medium.com/p/046872b7c265) |
+| Fri, 17 Oct 2025 20:28:24 GMT | Complete BUG Rewards Walkthrough 2025 | BUG | [Read More](https://medium.com/p/1fdd13d5779d) |
+| Fri, 17 Oct 2025 20:26:42 GMT | How Leading Companies Are Redefining Secure Remote Work In 2025 | IT_Engineer | [Read More](https://medium.com/p/f48cd4b81e41) |
 | Fri, 17 Oct 2025 20:11:17 GMT | How to hack Snapchat password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/5008299a1746) |
 | Fri, 17 Oct 2025 20:10:21 GMT | Day 12 of my Cybersecurity Journey: Networking Concepts | Ogundipe Priscilla | [Read More](https://medium.com/p/5646728b9b78) |
 | Fri, 17 Oct 2025 20:00:42 GMT | How to hack GMail password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/393c27a82b65) |
@@ -32,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 18:57:36 GMT | Cybersecurity Concerns in Smart Water Infrastructure | Ayeni Oladayo | [Read More](https://medium.com/p/033520f2723f) |
 | Fri, 17 Oct 2025 18:55:00 GMT | Sem visibilidade, sem controle! | Sergio Junior | [Read More](https://medium.com/p/b739660e006b) |
 | Fri, 17 Oct 2025 18:52:29 GMT | The $50K security audit I do for every Lovable app( Steal this for free ) | Abhi$hek | [Read More](https://medium.com/p/7d270d825b33) |
+| Fri, 17 Oct 2025 18:51:19 GMT | Deploy Pro: FastAPI + MySQL em EC2 com Nginx Reverse Proxy (A Arquitetura Segura) | Felipe Pellizzari | [Read More](https://medium.com/p/5e85c2869e0a) |
 | Fri, 17 Oct 2025 18:43:23 GMT | Overthewire: Bandit Walkthrough | Luke Gearty | [Read More](https://medium.com/p/5dc4c69a9684) |
 | Fri, 17 Oct 2025 18:37:33 GMT | Does Lisp’s Elegant Design Reveal Hidden Nature of Security Vulnerabilities? | Paul Duplys | [Read More](https://medium.com/p/865877265d98) |
 | Fri, 17 Oct 2025 18:35:18 GMT | Vulnerability Scanning with Nessus on Kali Linux | Forid Ahammad Asik | [Read More](https://medium.com/p/eba8f33da55b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 13:19:53 GMT | Investigating Risky Sign-ins and Impossible Travel Alerts in Microsoft Entra ID | Nick Bayne | [Read More](https://medium.com/p/404ee998e7d8) |
 | Fri, 17 Oct 2025 13:19:19 GMT | Can We Make a Column Read-Only in Oracle? | Thomas Minne | [Read More](https://medium.com/p/245c5aced3d3) |
 | Fri, 17 Oct 2025 13:18:41 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 4:Attacking Active Directory and NTDS.di | Babatunde Ojo | [Read More](https://medium.com/p/f258e4901c49) |
-| Fri, 17 Oct 2025 13:17:42 GMT | TryHackMe - Linux Threat Detection 3 - WriteUp | Axoloth | [Read More](https://medium.com/p/77ae99ab8b8c) |
-| Fri, 17 Oct 2025 13:16:56 GMT | Top Cybersecurity Threats Every Business Must Prepare For | Hays Communication | [Read More](https://medium.com/p/2dd2a176df4d) |
-| Fri, 17 Oct 2025 13:12:46 GMT | Mapping the Domain: Inside PowerView Enumeration Attacks (Windows and Active Directory Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/e0a992105d03) |
-| Fri, 17 Oct 2025 13:12:01 GMT | The Complete SQLMap Tutorial: From Zero to Advanced Mastery | Ibtissam hammadi | [Read More](https://medium.com/p/fd0126037737) |
-| Fri, 17 Oct 2025 13:02:25 GMT | The GRC Toolkit: Frameworks, Regulations, and Tools You’ll Actually Use | Samuel Odekunle | [Read More](https://medium.com/p/cf04b875a65c) |
