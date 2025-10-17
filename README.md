@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 13:45:02 GMT | What are the essential role of SIEM in Cybersecurity? | NetWitness | [Read More](https://medium.com/p/25e0102ed626) |
+| Fri, 17 Oct 2025 13:38:07 GMT | jQuery 3.2.1 Security Flaws Explained | Vishvadini Ravihari | [Read More](https://medium.com/p/39979fe4a1e7) |
+| Fri, 17 Oct 2025 13:37:18 GMT | Samba smbd 3.0.20 - Command Execution | Furkan Dal | [Read More](https://medium.com/p/9cb93fc70904) |
+| Fri, 17 Oct 2025 13:31:58 GMT | How I Found a High Severity Vulnerability in a Private Program of a Well-Known SIEM on Intigriti… | Muhammadidris | [Read More](https://medium.com/p/bd480536114f) |
 | Fri, 17 Oct 2025 13:20:00 GMT | When Convenience Becomes the Weakest Link | Rabail Zaheer | [Read More](https://medium.com/p/90a52feeea78) |
 | Fri, 17 Oct 2025 13:19:53 GMT | Investigating Risky Sign-ins and Impossible Travel Alerts in Microsoft Entra ID | Nick Bayne | [Read More](https://medium.com/p/404ee998e7d8) |
+| Fri, 17 Oct 2025 13:19:19 GMT | Can We Make a Column Read-Only in Oracle? | Thomas Minne | [Read More](https://medium.com/p/245c5aced3d3) |
 | Fri, 17 Oct 2025 13:18:41 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 4:Attacking Active Directory and NTDS.di | Babatunde Ojo | [Read More](https://medium.com/p/f258e4901c49) |
+| Fri, 17 Oct 2025 13:17:42 GMT | TryHackMe - Linux Threat Detection 3 - WriteUp | Axoloth | [Read More](https://medium.com/p/77ae99ab8b8c) |
+| Fri, 17 Oct 2025 13:16:56 GMT | Top Cybersecurity Threats Every Business Must Prepare For | Hays Communication | [Read More](https://medium.com/p/2dd2a176df4d) |
 | Fri, 17 Oct 2025 13:12:46 GMT | Mapping the Domain: Inside PowerView Enumeration Attacks (Windows and Active Directory Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/e0a992105d03) |
 | Fri, 17 Oct 2025 13:12:01 GMT | The Complete SQLMap Tutorial: From Zero to Advanced Mastery | Ibtissam hammadi | [Read More](https://medium.com/p/fd0126037737) |
 | Fri, 17 Oct 2025 13:02:25 GMT | The GRC Toolkit: Frameworks, Regulations, and Tools You’ll Actually Use | Samuel Odekunle | [Read More](https://medium.com/p/cf04b875a65c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 07:05:10 GMT | The Journey of Identity: From the Guillotine to Blockchain | World United | [Read More](https://medium.com/p/9541632a30be) |
 | Fri, 17 Oct 2025 06:55:02 GMT | Day 69- Web-based attacks & the OWASP Top 10 for beginners | unica 02 | [Read More](https://medium.com/p/87cd1a61f05b) |
 | Fri, 17 Oct 2025 06:45:34 GMT | Secure By Design: How Enterprises Should Harden Blockchain Apps in Cloud | Serishahid | [Read More](https://medium.com/p/2fec5e19bb37) |
-| Fri, 17 Oct 2025 06:43:19 GMT | It wasn’t just another class activity, it was hands-on learning, teamwork, and problem-solving in… | Adeleke Theophilus O | [Read More](https://medium.com/p/ddef2c8ea8c1) |
-| Fri, 17 Oct 2025 06:30:22 GMT | From €1500 to €0.50: A Bug Bounty Story of Payment Flow Manipulation | Erkan Kavas | [Read More](https://medium.com/p/d845cc2c903d) |
-| Fri, 17 Oct 2025 06:30:19 GMT | Red Teaming Mobile Apps: The Hidden Dangers of Excessive Permissions | Raj Prasad Kuiri | [Read More](https://medium.com/p/11f46e0fbb41) |
-| Fri, 17 Oct 2025 06:23:57 GMT | Laravel Security 101: Melindungi Aplikasi dari SQL Injection, XSS, dan CSRF | M Farras Majid | [Read More](https://medium.com/p/94e644afeef3) |
-| Fri, 17 Oct 2025 06:19:55 GMT | The Freedom of Failure: Why You Must Lower the Bar of External Expectations | Yash Patil | [Read More](https://medium.com/p/edaefdf7e517) |
-| Fri, 17 Oct 2025 06:18:59 GMT | The 7 Layers Every Cybersecurity Pro Must Know | Rakshitha | [Read More](https://medium.com/p/d3e549729c03) |
-| Fri, 17 Oct 2025 06:17:05 GMT | Top 10 Cyber Security Interview Questions and Answers (2025) | cybersecuritycourse | [Read More](https://medium.com/p/225365b4a2eb) |
