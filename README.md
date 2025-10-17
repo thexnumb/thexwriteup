@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 03:32:20 GMT | Silent Threat: How GeoServer Vulnerability Fuels Proxy Networks | Deven Chhajed | [Read More](https://medium.com/p/25918e0a0c75) |
+| Fri, 17 Oct 2025 03:30:26 GMT | My Open Source Software Lab - 1 | Sarveshdgaonkadkar | [Read More](https://medium.com/p/7c0f6f710972) |
+| Fri, 17 Oct 2025 03:30:06 GMT | Post-Quantum Cryptography : The new shield of security for the digital age | RamEshwar Gurchal | [Read More](https://medium.com/p/86634bdc7186) |
+| Fri, 17 Oct 2025 03:28:53 GMT | The Windows 10 Kill Switch: How Microsoft Just Turned 400 Million PCs Into E-Waste Or Security… | huizhou92 | [Read More](https://medium.com/p/0e7f6eac5c33) |
+| Fri, 17 Oct 2025 03:26:49 GMT | If You Do Nothing Else This Week: Audit Your F5 BIG-IP Infrastructure | Akilnath Bodipudi | [Read More](https://medium.com/p/c6c4d7b61ed0) |
+| Fri, 17 Oct 2025 03:12:05 GMT | Introduction to Cybersecurity: The Digital Shield We All Need | Ferdi Edogawa | [Read More](https://medium.com/p/e62d971143da) |
+| Fri, 17 Oct 2025 03:01:45 GMT | Digital mess: an overlooked type of untidiness | Valentín Stehr | [Read More](https://medium.com/p/64eb0c22a4b3) |
+| Fri, 17 Oct 2025 02:59:40 GMT | I Tried to Convince AI That Vaccines Cause Autism — Here’s What Happened | Taha Azizi | [Read More](https://medium.com/p/467ac0b83c22) |
 | Fri, 17 Oct 2025 02:55:30 GMT | WEP Cracking CTF Challenge — Complete Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/f9b4707fdf16) |
 | Fri, 17 Oct 2025 02:49:47 GMT | Cracking the Code: Journey ROT13 | Zulfianarahmi | [Read More](https://medium.com/p/6a7c23219a8f) |
 | Fri, 17 Oct 2025 02:43:22 GMT | GZR Observer — India Geo Perspective — Week of Oct 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/27a2d65159e7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 17:33:19 GMT | Top Free Tools Every Influencer Should Know (2025 Edition) | Lydia Brookhaven | [Read More](https://medium.com/p/7d64aa15aa26) |
 | Thu, 16 Oct 2025 17:25:15 GMT | How I Became an Accidental Admin and Almost Got Fired (From Someone Else’s Company) | Iski | [Read More](https://medium.com/p/82e7b0acdb8b) |
 | Thu, 16 Oct 2025 17:24:38 GMT | #SUMMARY OF TODAY’S LECTURE Cyber security is an ongoing effort to protect individuals… | Ndem Ndukwo | [Read More](https://medium.com/p/7c8d235ec632) |
-| Thu, 16 Oct 2025 17:23:28 GMT | LLMs Are Trained on Only 5% of the Internet — Here’s Why That Matters | Nanda Kumar | [Read More](https://medium.com/p/24f8dbfbe5a4) |
-| Thu, 16 Oct 2025 17:19:31 GMT | Linux Forensics & Incident Response Basics | Cybersecplayground | [Read More](https://medium.com/p/55f31bff3b88) |
-| Thu, 16 Oct 2025 17:15:22 GMT | Thrilled to share another milestone in my cybersecurity journey! | Abdifatah Hassan Roble | [Read More](https://medium.com/p/f736fb8a3c24) |
-| Thu, 16 Oct 2025 17:15:08 GMT | Exposed API Keys and Secrets | SIDDHANT SHUKLA | [Read More](https://medium.com/p/d9c08f34ab73) |
-| Thu, 16 Oct 2025 17:11:20 GMT | Injected #1: From API Bugs To File Impersonation Attack | Chux | [Read More](https://medium.com/p/477f2e5a91bf) |
-| Thu, 16 Oct 2025 17:09:42 GMT | Windows 10 Desteği Sona Erdi — Tenable ile Destek Dışı Sistemleri Nasıl Tespit Ederiz? | Burak Akdogan | [Read More](https://medium.com/p/ee870093067f) |
-| Thu, 16 Oct 2025 17:02:19 GMT | The Perks of Adopting a Multi-Cloud Strategy in Business Operations | Ascendion | [Read More](https://medium.com/p/f014d58e971d) |
-| Thu, 16 Oct 2025 16:59:49 GMT | The Skills Cybersecurity Analysts Must Learn in 2025 | Aj | [Read More](https://medium.com/p/82d305e4934a) |
