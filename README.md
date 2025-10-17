@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 02:55:30 GMT | WEP Cracking CTF Challenge — Complete Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/f9b4707fdf16) |
+| Fri, 17 Oct 2025 02:49:47 GMT | Cracking the Code: Journey ROT13 | Zulfianarahmi | [Read More](https://medium.com/p/6a7c23219a8f) |
+| Fri, 17 Oct 2025 02:43:22 GMT | GZR Observer — India Geo Perspective — Week of Oct 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/27a2d65159e7) |
+| Fri, 17 Oct 2025 02:05:39 GMT | The Audit Intelligence Mindset: Seeing What Others Miss | Dr. Deep Pandey | [Read More](https://medium.com/p/25426927d0e2) |
+| Fri, 17 Oct 2025 01:59:59 GMT | Privacy in the Digital Age: How Much Are We Really Safe? | Mhamzaafzal | [Read More](https://medium.com/p/3ec818ee79ae) |
+| Fri, 17 Oct 2025 01:55:33 GMT | The Economics of Cyber Hygiene: Why Small Improvements Drive Large Returns | Owen Williams | [Read More](https://medium.com/p/36b3bbf55eeb) |
+| Fri, 17 Oct 2025 01:51:45 GMT | Stop Testing Your Partner: Build Real Security Within Yourself | Austi Gene | [Read More](https://medium.com/p/8dceaf306ac9) |
+| Fri, 17 Oct 2025 01:49:33 GMT | Architecting ISO/IEC 27001:2022-Aligned Security Visibility with ELK and Windows Event Logs | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/a0ac37bf00b3) |
 | Fri, 17 Oct 2025 01:20:39 GMT | Not an Assassin | Mappx | [Read More](https://medium.com/p/37adff149f87) |
 | Fri, 17 Oct 2025 01:10:16 GMT | Practical Implementation of IaC Security with terraform-compliance | kaliarch | [Read More](https://medium.com/p/1e7df10fef96) |
 | Fri, 17 Oct 2025 01:03:00 GMT | HOW TO FIND STORED XSS IN GOOGLE ASSETS & XSS CHAINING TRICK IN CSP PROTECTED GOOGLE | Azza0X1A | [Read More](https://medium.com/p/b854ee029e45) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 17:09:42 GMT | Windows 10 Desteği Sona Erdi — Tenable ile Destek Dışı Sistemleri Nasıl Tespit Ederiz? | Burak Akdogan | [Read More](https://medium.com/p/ee870093067f) |
 | Thu, 16 Oct 2025 17:02:19 GMT | The Perks of Adopting a Multi-Cloud Strategy in Business Operations | Ascendion | [Read More](https://medium.com/p/f014d58e971d) |
 | Thu, 16 Oct 2025 16:59:49 GMT | The Skills Cybersecurity Analysts Must Learn in 2025 | Aj | [Read More](https://medium.com/p/82d305e4934a) |
-| Thu, 16 Oct 2025 16:55:44 GMT | Australian BCDR Strategy for Cloud Continuity: Inside the Cloud Mesh | Sabiha Rahman | [Read More](https://medium.com/p/e7a67aa4e723) |
-| Thu, 16 Oct 2025 16:55:19 GMT | Critical LFI in a Microsoft AI Server (CVE-2025–30208) | ak | [Read More](https://medium.com/p/f1a0f2e7faf9) |
-| Thu, 16 Oct 2025 16:51:26 GMT | The HIMARS Communication Crack — Ukrainian Hackers Penetrate Pentagon’s Secure Command Channels | The Forensic Archive | [Read More](https://medium.com/p/de2f5fcc5d48) |
-| Thu, 16 Oct 2025 16:40:16 GMT | Forging a Weapon: My Journey Building an AI-Powered Red Team Appliance | codebreaker | [Read More](https://medium.com/p/639de13ad511) |
-| Thu, 16 Oct 2025 16:37:24 GMT | A New Crack in Unbreakable Encryption? | Mathews Abraão Pereira Lima | [Read More](https://medium.com/p/9b5b06fcefc8) |
-| Thu, 16 Oct 2025 16:25:21 GMT | ️ jsrip — Automated JavaScript Ripper & Analyzer for Bug Hunters | Moute | [Read More](https://medium.com/p/7e57d72a858b) |
-| Thu, 16 Oct 2025 16:24:27 GMT | ️‍♂️ CTFs ≠ Real-World Hacking | Chhavipreet Kaur | [Read More](https://medium.com/p/6516077aacf7) |
-| Thu, 16 Oct 2025 16:23:37 GMT | Join Clado Solutions — Top IT Courses and Certification in Kochi | Clado Solutions | [Read More](https://medium.com/p/a8c91da0f4e7) |
