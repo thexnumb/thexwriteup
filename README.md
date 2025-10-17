@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 17:32:36 GMT | What Is a Storage Bucket in Cloud Computing? Explained with a Simple Analogy | Natarajan C K | [Read More](https://medium.com/p/4f87788ecfa6) |
+| Fri, 17 Oct 2025 17:27:36 GMT | Honestly, What is Wrong with Needing Someone? | musingsfrommarc | [Read More](https://medium.com/p/134fa68c55ac) |
+| Fri, 17 Oct 2025 17:23:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/fde769cc811f) |
+| Fri, 17 Oct 2025 17:21:46 GMT | Don’t Trust ChatGPT: The Hidden Cost of Our AI Confidant | Salah eddine bel bekri | [Read More](https://medium.com/p/b40253257540) |
+| Fri, 17 Oct 2025 17:19:29 GMT | Not Every Table Deserves You — But You Deserve to Be Heard at the One That Does | Vijay Kumar Gupta | [Read More](https://medium.com/p/a91a801fcebb) |
 | Fri, 17 Oct 2025 17:15:25 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/aaaed986f5c6) |
 | Fri, 17 Oct 2025 17:05:46 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9485c509c757) |
 | Fri, 17 Oct 2025 17:02:28 GMT | Can AI Replace Pen Testers? I Put It to the Test | Aj | [Read More](https://medium.com/p/05ba9bce25ef) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 10:41:10 GMT | How Cyber Security Services in Irvine Help Prevent Data Breaches | Fusion Factor Corporation | [Read More](https://medium.com/p/0f9deda1738a) |
 | Fri, 17 Oct 2025 10:37:00 GMT | The Hidden Role of AI in Building Digital Trust | Hiphypeio | [Read More](https://medium.com/p/2a253452ed71) |
 | Fri, 17 Oct 2025 10:32:20 GMT | Reclaim Digital Sovereignty: Digital Shield’s “Zero-Trust” Revolution in Web3 Security | Digital Shield Offcial | [Read More](https://medium.com/p/fd59b4fc97eb) |
-| Fri, 17 Oct 2025 10:24:18 GMT | Traditional SAP Security vs SAP Public Cloud Security | Udayamosol | [Read More](https://medium.com/p/8794a0820e02) |
-| Fri, 17 Oct 2025 10:23:32 GMT | 101 Essentials Cybersecurity Tools and Frameworks for 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/6040330a0a0c) |
-| Fri, 17 Oct 2025 10:21:48 GMT | The Guardian of Sovereignty: How Digital Shield is Reshaping the Trust Boundary of Web3 with… | Digital Shield | [Read More](https://medium.com/p/4c31828dd583) |
-| Fri, 17 Oct 2025 10:08:20 GMT | VAPT Service Provider for the Travel Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/bbc4723d6a55) |
-| Fri, 17 Oct 2025 10:04:33 GMT | Why Ethical AI Is the Only Way to Secure the Future | Jay C Roberts | [Read More](https://medium.com/p/dc4e2f6961ec) |
