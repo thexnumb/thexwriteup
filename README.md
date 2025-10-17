@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 19:03:26 GMT | Get Exclusive DORK Bonuses in October 2025 | DORK | [Read More](https://medium.com/p/599c5a92c166) |
+| Fri, 17 Oct 2025 18:57:36 GMT | Cybersecurity Concerns in Smart Water Infrastructure | Ayeni Oladayo | [Read More](https://medium.com/p/033520f2723f) |
+| Fri, 17 Oct 2025 18:55:00 GMT | Sem visibilidade, sem controle! | Sergio Junior | [Read More](https://medium.com/p/b739660e006b) |
+| Fri, 17 Oct 2025 18:52:29 GMT | The $50K security audit I do for every Lovable app( Steal this for free ) | Abhi$hek | [Read More](https://medium.com/p/7d270d825b33) |
+| Fri, 17 Oct 2025 18:43:23 GMT | Overthewire: Bandit Walkthrough | Luke Gearty | [Read More](https://medium.com/p/5dc4c69a9684) |
 | Fri, 17 Oct 2025 18:37:33 GMT | Does Lisp’s Elegant Design Reveal Hidden Nature of Security Vulnerabilities? | Paul Duplys | [Read More](https://medium.com/p/865877265d98) |
+| Fri, 17 Oct 2025 18:35:18 GMT | Vulnerability Scanning with Nessus on Kali Linux | Forid Ahammad Asik | [Read More](https://medium.com/p/eba8f33da55b) |
+| Fri, 17 Oct 2025 18:33:34 GMT | Real Progress Doesn’t Happen in Isolation | Jim Alkove | [Read More](https://medium.com/p/de12e6bb655b) |
 | Fri, 17 Oct 2025 18:31:15 GMT | BADBOX 2.0: Blurring the line between bots and human for cybercrime | Robert Vamosi | [Read More](https://medium.com/p/54f2119f2012) |
 | Fri, 17 Oct 2025 18:26:18 GMT | Teaching from the Heart | hello heide | [Read More](https://medium.com/p/4b4bb323bf9f) |
 | Fri, 17 Oct 2025 18:18:24 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Smith Adams | [Read More](https://medium.com/p/3ba583263149) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 12:02:44 GMT | Top-Rated Cybersecurity Certifications for Every Stage of Your Career | Divyanshi kulkarni | [Read More](https://medium.com/p/a9a50a8fe8df) |
 | Fri, 17 Oct 2025 11:54:43 GMT | The Night I Broke the OTP Limit — A Simple Bug, A Cool Trick | Xormium | [Read More](https://medium.com/p/0b00c4712b1d) |
 | Fri, 17 Oct 2025 11:51:22 GMT | When Big Data Says ‘I Do’ | Robot Crime blog | [Read More](https://medium.com/p/c0b48985a0f4) |
-| Fri, 17 Oct 2025 11:49:14 GMT | Cybersecurity Starts at Home: Small Habits, Big Protection | Maged Anas | [Read More](https://medium.com/p/bf3e1904e282) |
-| Fri, 17 Oct 2025 11:45:14 GMT | byp4ss3d picoMini byCMU-Africa | Samuel Jack | [Read More](https://medium.com/p/65cfd8bc60a9) |
-| Fri, 17 Oct 2025 11:42:49 GMT | Why 100% Security Will Always Be a Myth | Mahad Aqeel | [Read More](https://medium.com/p/e0cab932900d) |
-| Fri, 17 Oct 2025 11:42:38 GMT | The AI tools hackers don't want you to know about | Shivakshi Rawat | [Read More](https://medium.com/p/aabdf29ea9bc) |
-| Fri, 17 Oct 2025 11:39:14 GMT | How One Tiny IDOR Created a Digital Domino Effect That Toppled Their Entire Security | Iski | [Read More](https://medium.com/p/5959ffeeae34) |
-| Fri, 17 Oct 2025 11:34:21 GMT | 15+ Years. 5 Lessons. What Building Enterprise Software Really Taught Me | Clement Nkamanyi | [Read More](https://medium.com/p/b5476c44d461) |
-| Fri, 17 Oct 2025 11:31:59 GMT | Critical Exploits and Coordinated Attacks Define This Week’s Cyber Frontline | Loginsoft | [Read More](https://medium.com/p/3097270b9d0f) |
