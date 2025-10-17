@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 10:08:20 GMT | VAPT Service Provider for the Travel Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/bbc4723d6a55) |
+| Fri, 17 Oct 2025 10:04:33 GMT | Why Ethical AI Is the Only Way to Secure the Future | Jay C Roberts | [Read More](https://medium.com/p/dc4e2f6961ec) |
+| Fri, 17 Oct 2025 10:02:53 GMT | Patch Notes for Reality: When the World Feels Like Beta Software | Franziska "Ziska" Fink | [Read More](https://medium.com/p/016f94d77f4c) |
+| Fri, 17 Oct 2025 10:01:41 GMT | What are the phishing simulation services and how do the IT companies protect their employees? | Mathewneelan | [Read More](https://medium.com/p/b0402ef845d4) |
+| Fri, 17 Oct 2025 09:38:57 GMT | cyber security course in trivandrum | Mohammed Bilal | [Read More](https://medium.com/p/dab18eaec9c8) |
+| Fri, 17 Oct 2025 09:38:44 GMT | Mastering AWS Multi-Account Cross-Access: A Step-by-Step Guide | Afaqbabar | [Read More](https://medium.com/p/2f1b037f583a) |
+| Fri, 17 Oct 2025 09:36:38 GMT | SPARK Matrix™: Voice-Directed Picking System Driving Efficiency and Accuracy in Modern Warehousing | Shamita Patel | [Read More](https://medium.com/p/b3c0cad81b93) |
+| Fri, 17 Oct 2025 09:35:35 GMT | How India’s Cloud Computing Crisis Became a Golden Opportunity | Sharmila20 | [Read More](https://medium.com/p/e5ba3927a2e2) |
 | Fri, 17 Oct 2025 09:21:32 GMT | Portswigger (Business Logic Flaw) Lab 1: Excessive Trust in Client-Side Controls | Bridget | [Read More](https://medium.com/p/b93712034508) |
 | Fri, 17 Oct 2025 09:18:39 GMT | Portswigger Academy — Reflected XSS into a JavaScript string with angle brackets and double quotes… | Alan | [Read More](https://medium.com/p/935a2cc3fbf6) |
 | Fri, 17 Oct 2025 09:16:57 GMT | The Pentester’s Guide to Active Directory: My First Steps in AD Exploitation | Andrei Ivan | [Read More](https://medium.com/p/762cdb07608c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 02:05:39 GMT | The Audit Intelligence Mindset: Seeing What Others Miss | Dr. Deep Pandey | [Read More](https://medium.com/p/25426927d0e2) |
 | Fri, 17 Oct 2025 01:59:59 GMT | Privacy in the Digital Age: How Much Are We Really Safe? | Mhamzaafzal | [Read More](https://medium.com/p/3ec818ee79ae) |
 | Fri, 17 Oct 2025 01:55:33 GMT | The Economics of Cyber Hygiene: Why Small Improvements Drive Large Returns | Owen Williams | [Read More](https://medium.com/p/36b3bbf55eeb) |
-| Fri, 17 Oct 2025 01:51:45 GMT | Stop Testing Your Partner: Build Real Security Within Yourself | Austi Gene | [Read More](https://medium.com/p/8dceaf306ac9) |
-| Fri, 17 Oct 2025 01:49:33 GMT | Architecting ISO/IEC 27001:2022-Aligned Security Visibility with ELK and Windows Event Logs | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/a0ac37bf00b3) |
-| Fri, 17 Oct 2025 01:20:39 GMT | Not an Assassin | Mappx | [Read More](https://medium.com/p/37adff149f87) |
-| Fri, 17 Oct 2025 01:10:16 GMT | Practical Implementation of IaC Security with terraform-compliance | kaliarch | [Read More](https://medium.com/p/1e7df10fef96) |
-| Fri, 17 Oct 2025 01:03:00 GMT | HOW TO FIND STORED XSS IN GOOGLE ASSETS & XSS CHAINING TRICK IN CSP PROTECTED GOOGLE | Azza0X1A | [Read More](https://medium.com/p/b854ee029e45) |
-| Fri, 17 Oct 2025 00:59:19 GMT | Command Injections | SilentExploit | [Read More](https://medium.com/p/b13984ffa1df) |
-| Fri, 17 Oct 2025 00:56:04 GMT | Weaponizing Trust: How Attackers Exploit Valid Accounts After Phishing | Shivam Kanodia | [Read More](https://medium.com/p/1e21516bab5f) |
-| Fri, 17 Oct 2025 00:49:34 GMT | Reclaim Your True Self: Stop Faking It to Make It | Napoleon Beltran | [Read More](https://medium.com/p/7a3935ea0a16) |
