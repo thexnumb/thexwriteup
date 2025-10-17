@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 08:15:02 GMT | DockerLabs Writeup — ChocoPing (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/78385211764c) |
+| Fri, 17 Oct 2025 08:11:34 GMT | VAB-5000: Making Workplaces Smarter and Safer with MediaTek | Scottlewis | [Read More](https://medium.com/p/ad5db45d23f7) |
+| Fri, 17 Oct 2025 08:07:51 GMT | Can You Trust What Your AI Learned? A Deep Dive into LLM04 | Rabia AMAAOUCH | [Read More](https://medium.com/p/bc6963c35d73) |
+| Fri, 17 Oct 2025 08:06:25 GMT | Top 10 In-Demand IT Skills for 2025 | Generiss Academy | [Read More](https://medium.com/p/ff37c023e249) |
+| Fri, 17 Oct 2025 08:04:06 GMT | Advanced Permission Schemes for Multi-Department Structures | Erdem UÇAK | [Read More](https://medium.com/p/5b548eb5283a) |
+| Fri, 17 Oct 2025 08:02:22 GMT | Account Takeover via IDOR: From UserID to Full Access | 0xP0L73R63157 | [Read More](https://medium.com/p/ade4f980cfb4) |
+| Fri, 17 Oct 2025 08:02:20 GMT | Why Offensive Security Exists: You Can’t Build Better Walls Without Thinking Like a Thief | MayhemCode | [Read More](https://medium.com/p/dbd428845841) |
+| Fri, 17 Oct 2025 08:02:19 GMT | Turn On Domain Leak Alerts in 2 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/4d7cab12df97) |
+| Fri, 17 Oct 2025 07:59:49 GMT | Соответствие облачной инфраструктуры закону PDP в Индонезии: полное руководство на 2025 год | قلم | [Read More](https://medium.com/p/cb08d1566c0b) |
+| Fri, 17 Oct 2025 07:57:43 GMT | From Lab to Real-World: Level Up Your Cyber Skills ️️⚡ | Chhavipreet Kaur | [Read More](https://medium.com/p/eabdde15c72e) |
+| Fri, 17 Oct 2025 07:51:33 GMT | Palo Alto Networks Unit 42 Penetration Testing: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c43003b9c102) |
+| Fri, 17 Oct 2025 07:47:44 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/5fde25775c0a) |
+| Fri, 17 Oct 2025 07:47:33 GMT | Today’s Top Cyber Intelligence Highlights — Oct 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dcb6374e314c) |
+| Fri, 17 Oct 2025 07:46:01 GMT | HTB Write-up: Cicada — SMB & LDAP Enumeration, Backup Operators Group Abuse | thebugitself | [Read More](https://medium.com/p/7b2d6a953109) |
+| Fri, 17 Oct 2025 07:41:37 GMT | Digital Transformation Budgets: Where the Dollars Go | M. Faisal Fariduddin Attar Nasution | [Read More](https://medium.com/p/f82d3d87a885) |
 | Fri, 17 Oct 2025 07:36:27 GMT | Surah Al-Mulk (67:5) The Protective Nature of the Sky | insha zulfiqar | [Read More](https://medium.com/p/a28c14850d48) |
 | Fri, 17 Oct 2025 07:32:17 GMT | Ransomware 3.0: Fidye Notundan Önce Gelen Sessizlik.. | Ersinkaradag | [Read More](https://medium.com/p/8b407b48bba0) |
 | Fri, 17 Oct 2025 07:27:01 GMT | Dear Love of my Life | Emike Odion-Osigwe | [Read More](https://medium.com/p/2a017a700f03) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 22:44:43 GMT | EvilAI: The Fake AI Tools That Are Hacking the World | Cyber-AppSec | [Read More](https://medium.com/p/795bb617073c) |
 | Thu, 16 Oct 2025 22:35:08 GMT | Microservices Without the Buzzwords: What Leaders Really Need to Know | Tabitha Foster | [Read More](https://medium.com/p/0eec148de9f3) |
 | Thu, 16 Oct 2025 22:32:46 GMT | The Intelligence-Driven Adversary Emulation Framework (IDAEA-F) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/3b6c4a5df2b3) |
-| Thu, 16 Oct 2025 22:24:56 GMT | DVWA Walkthrough: Reflected XSS (All Difficulties) | Noman Chowdhury | [Read More](https://medium.com/p/3833fd047fb0) |
-| Thu, 16 Oct 2025 21:43:22 GMT | Splunk SIEM Kurulumu | Merve Güler | [Read More](https://medium.com/p/e055e43af11c) |
-| Thu, 16 Oct 2025 21:37:23 GMT | Browser Debugging Abuse — Google Chrome | Abdul wajed Nawazish | [Read More](https://medium.com/p/a8f6ca64f11f) |
-| Thu, 16 Oct 2025 21:29:31 GMT | 2025 Cybersecurity Imperatives for MSPs: Strategic Leadership in an Evolving Threat Landscape | Donald Betancourt | [Read More](https://medium.com/p/e19943161763) |
-| Thu, 16 Oct 2025 21:23:26 GMT | SIEM, Startups, and the Myth (Reality?) of IT Inertia: A Reformed Analyst Reflects on SIEM MQ 2025 | Anton Chuvakin | [Read More](https://medium.com/p/88dc45358fba) |
-| Thu, 16 Oct 2025 21:20:56 GMT | Human computer interaction ( HCI) | Anish_Ali | [Read More](https://medium.com/p/b2c755f5fe0c) |
-| Thu, 16 Oct 2025 21:16:15 GMT | How I Turned $0 Into $17,328/Month While Sleeping: The Make.com | Riyas Raaz | [Read More](https://medium.com/p/bd7e16034132) |
-| Thu, 16 Oct 2025 20:56:47 GMT | Using AI for Web Application Security | John Muconto | [Read More](https://medium.com/p/6b9e304ca1b4) |
-| Thu, 16 Oct 2025 20:39:41 GMT | This practice Lab helped me understand Azure ASGs well | Gabriel Ufot | [Read More](https://medium.com/p/7e4da09ee4bc) |
-| Thu, 16 Oct 2025 20:38:09 GMT | Freelancer Scienario - Hackviser CWSExpert | Y0s_0x_IBM | [Read More](https://medium.com/p/6bd72c96a9ad) |
-| Thu, 16 Oct 2025 20:35:44 GMT | Your IP Address Is Not as Safe as You Think: The Dangers of Shared Hosting | Cybamatica | [Read More](https://medium.com/p/ac8cc7611879) |
-| Thu, 16 Oct 2025 20:32:30 GMT | I Truly Worry About the Next Generation | Rhiannon Williams | [Read More](https://medium.com/p/4d4f324d009d) |
-| Thu, 16 Oct 2025 20:29:35 GMT | String Encryption in WinAPI Wrapper | S12 - 0x12Dark Development | [Read More](https://medium.com/p/592556d4bd69) |
-| Thu, 16 Oct 2025 20:28:45 GMT | Civilization. The last page. (144) | Jan Slort | [Read More](https://medium.com/p/2cc92e288927) |
-| Thu, 16 Oct 2025 20:13:47 GMT | Misinformation on Social Media: Why Fighting Lies Is Everyone’s Responsibility | Arnav Senthil | [Read More](https://medium.com/p/0a0d1ebf5c15) |
