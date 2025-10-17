@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 06:30:22 GMT | From €1500 to €0.50: A Bug Bounty Story of Payment Flow Manipulation | Erkan Kavas | [Read More](https://medium.com/p/d845cc2c903d) |
+| Fri, 17 Oct 2025 06:23:57 GMT | Laravel Security 101: Melindungi Aplikasi dari SQL Injection, XSS, dan CSRF | M Farras Majid | [Read More](https://medium.com/p/94e644afeef3) |
+| Fri, 17 Oct 2025 06:18:59 GMT | The 7 Layers Every Cybersecurity Pro Must Know | Rakshitha | [Read More](https://medium.com/p/d3e549729c03) |
+| Fri, 17 Oct 2025 06:17:05 GMT | Top 10 Cyber Security Interview Questions and Answers (2025) | cybersecuritycourse | [Read More](https://medium.com/p/225365b4a2eb) |
+| Fri, 17 Oct 2025 06:16:49 GMT | Top 10 Cybersecurity Startups in India | Manisha Chaudhary | [Read More](https://medium.com/p/b66a5f91933e) |
+| Fri, 17 Oct 2025 06:15:44 GMT | HackTheBox — Baby | PizzSec | [Read More](https://medium.com/p/cdd78e08ede6) |
+| Fri, 17 Oct 2025 06:14:32 GMT | The Corix Partners Friday Reading List — October 17, 2025 | JC Gaillard | [Read More](https://medium.com/p/f0e8b7f6fafe) |
+| Fri, 17 Oct 2025 06:13:40 GMT | Cloud + AI Threat Detection System: Building Smarter Cyber Defense on AWS | Shubhamghorapade | [Read More](https://medium.com/p/b810083ecdd3) |
+| Fri, 17 Oct 2025 06:11:11 GMT | Informatica Mastering ETL Performance with Informatica: A Complete Guide | Zayn | [Read More](https://medium.com/p/b6b46159e313) |
+| Fri, 17 Oct 2025 06:06:46 GMT | Quantum-Resistant Cybersecurity: Securing the Future of Digital Protection | Job24by7 | [Read More](https://medium.com/p/a3444c6db9d1) |
+| Fri, 17 Oct 2025 06:05:59 GMT | Understanding Timing Attacks — The Hidden Security Threat in Your Code | imam hasan | [Read More](https://medium.com/p/a0dbdace1aca) |
+| Fri, 17 Oct 2025 05:55:57 GMT | Digital Footprints 2025: Protect Your Online Identity Before It Protects You | Cyber Kanun | [Read More](https://medium.com/p/0f639ba2d33a) |
+| Fri, 17 Oct 2025 05:50:28 GMT | How to Secure Your Homelab Network from the Ground Up | Andrei Ivan | [Read More](https://medium.com/p/ebb64df82e94) |
+| Fri, 17 Oct 2025 05:37:26 GMT | Regex Backtracking Meltdowns: One Pattern, 100% CPU | Quantum Tricks | [Read More](https://medium.com/p/1a58837efeda) |
 | Fri, 17 Oct 2025 05:25:41 GMT | Hack WiFi with a $15 Raspberry Pi Zero and Kali Linux | Shahzaib | [Read More](https://medium.com/p/c7e11223977d) |
 | Fri, 17 Oct 2025 05:23:22 GMT | Email Verification OTP Bypass €€ — How I verified any email | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/470cec0dbca5) |
 | Fri, 17 Oct 2025 05:22:23 GMT | Obinna Ofodile: From Defender on the Basketball Court to the Frontlines of Quantum-Safe… | John McCormick | [Read More](https://medium.com/p/f74fc6b876f8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 19:33:43 GMT | 10 Smart Home Security Tips Every Ottawa Homeowner Should Know | Stubs | [Read More](https://medium.com/p/2e89491850e1) |
 | Thu, 16 Oct 2025 19:25:06 GMT | Japan and Costa Rica, countries without armies. | Chronicles of the Past | [Read More](https://medium.com/p/a0920e464e18) |
 | Thu, 16 Oct 2025 19:18:59 GMT | Scorecard | Jude Canady | [Read More](https://medium.com/p/a8ee35abd419) |
-| Thu, 16 Oct 2025 19:16:24 GMT | Hack The Box: Lame (Retired Machine) | r4ndh3x | [Read More](https://medium.com/p/971ad64d6fdc) |
-| Thu, 16 Oct 2025 19:15:57 GMT | Pro Homelab Network VLANs with Proxmox and Opnsense: The Complete Guide (Part 2) | TechTimeFly | [Read More](https://medium.com/p/7209d65b8c47) |
-| Thu, 16 Oct 2025 19:14:31 GMT | How to Configure Remote Access with IPsec VPN on FortiGate | Cybersensus | [Read More](https://medium.com/p/d445f2f14cd3) |
-| Thu, 16 Oct 2025 19:13:25 GMT | Pro Homelab Network VLANs with Proxmox and Opnsense: The Complete Guide (Part 1) | TechTimeFly | [Read More](https://medium.com/p/7223bbbdbcdb) |
-| Thu, 16 Oct 2025 19:02:18 GMT | Why you should buy Gold even if you have only 10$ portfolio ? | Xanon | [Read More](https://medium.com/p/fcbdeb27bd1d) |
-| Thu, 16 Oct 2025 19:01:16 GMT | Internet Reconnaissance Tools(osint) | Anas M.p | [Read More](https://medium.com/p/2646b86159e7) |
-| Thu, 16 Oct 2025 18:58:06 GMT | Como Pivotar com Ligolo-NG — Guia Simplificado | Azv | [Read More](https://medium.com/p/29b7478f0883) |
-| Thu, 16 Oct 2025 18:57:10 GMT | Drosera: The Future of Web3 Security | Jude Johnson | [Read More](https://medium.com/p/167b9da45f30) |
-| Thu, 16 Oct 2025 18:56:39 GMT | ‘PanOS-XSS’ Through Common NameVulnerabilities Across Real Web Apps | Abhijit Chakrabarty | [Read More](https://medium.com/p/0f28b47e343e) |
-| Thu, 16 Oct 2025 18:50:47 GMT | Why Ransomware Has Shifted Toward Ransomware-as-a-Service (RaaS) in 2025 | Vengadesh P | [Read More](https://medium.com/p/09cfaed5cca1) |
-| Thu, 16 Oct 2025 18:48:13 GMT | Unleash Your Inner Indiana Jones with Multi-Factor Authentication | Danielle Koppel | [Read More](https://medium.com/p/476cecff8921) |
-| Thu, 16 Oct 2025 18:47:53 GMT | Don’t Be Fooled by Malicious Ads on Google! | Danielle Koppel | [Read More](https://medium.com/p/35b50975b5e5) |
-| Thu, 16 Oct 2025 18:47:27 GMT | Beware of DocuSign Threats! | Danielle Koppel | [Read More](https://medium.com/p/c4dbd0497485) |
-| Thu, 16 Oct 2025 18:46:21 GMT | Artificial Intelligence and Development Ethics: Balancing Innovation with Humanity | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2f27e1a7ad74) |
