@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 11:15:18 GMT | Event Security Management: Ensuring Safety with Securycor | uk service | [Read More](https://medium.com/p/b57d9ae9bc48) |
+| Fri, 17 Oct 2025 11:11:49 GMT | Intercepting Implicit Intents To Load Arbitrary URLs In Android | Redfox Security | [Read More](https://medium.com/p/b2cf5d428c2b) |
+| Fri, 17 Oct 2025 11:10:56 GMT | Top 10 Companies Hiring Cyber Security Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/dd7e08e3f94f) |
+| Fri, 17 Oct 2025 11:05:57 GMT | Digital Forensics -Operation Banjo | Hari Krishnan | [Read More](https://medium.com/p/11f0045c88b5) |
+| Fri, 17 Oct 2025 11:03:18 GMT | Why Partnering with a Cybersecurity Provider Gives You a Competitive Edge | SmartCLOUD Australia | [Read More](https://medium.com/p/3325bc7cfc38) |
+| Fri, 17 Oct 2025 10:54:01 GMT | Implementing Wazuh in Highly Segmented and Decentralized ­Networks: Syslog Forwarders, Custom… | Raphooko Phooko | [Read More](https://medium.com/p/4513ef70260f) |
+| Fri, 17 Oct 2025 10:51:14 GMT | The 10 Most Critical Threats to ML and AI Systems | Harun BENLİ | [Read More](https://medium.com/p/d60c523745b3) |
+| Fri, 17 Oct 2025 10:47:44 GMT | Tailored Security Solutions: How Barzo Meets Diverse Needs | Travel time | [Read More](https://medium.com/p/0559e17bccd7) |
+| Fri, 17 Oct 2025 10:42:28 GMT | Top Computer Trends Shaping 2025 Tech | Scrolling world | [Read More](https://medium.com/p/724ad1351407) |
+| Fri, 17 Oct 2025 10:41:10 GMT | How Cyber Security Services in Irvine Help Prevent Data Breaches | Fusion Factor Corporation | [Read More](https://medium.com/p/0f9deda1738a) |
+| Fri, 17 Oct 2025 10:37:00 GMT | The Hidden Role of AI in Building Digital Trust | Hiphypeio | [Read More](https://medium.com/p/2a253452ed71) |
+| Fri, 17 Oct 2025 10:32:20 GMT | Reclaim Digital Sovereignty: Digital Shield’s “Zero-Trust” Revolution in Web3 Security | Digital Shield Offcial | [Read More](https://medium.com/p/fd59b4fc97eb) |
 | Fri, 17 Oct 2025 10:24:18 GMT | Traditional SAP Security vs SAP Public Cloud Security | Udayamosol | [Read More](https://medium.com/p/8794a0820e02) |
 | Fri, 17 Oct 2025 10:23:32 GMT | 101 Essentials Cybersecurity Tools and Frameworks for 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/6040330a0a0c) |
 | Fri, 17 Oct 2025 10:21:48 GMT | The Guardian of Sovereignty: How Digital Shield is Reshaping the Trust Boundary of Web3 with… | Digital Shield | [Read More](https://medium.com/p/4c31828dd583) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 04:16:25 GMT | TryHackMe #124 - Phishing Analysis Tools | SiberYuk | [Read More](https://medium.com/p/85f793e3fec1) |
 | Fri, 17 Oct 2025 04:12:03 GMT | TryHackMe #123 - Phishing Emails in Action | SiberYuk | [Read More](https://medium.com/p/390e499ebc09) |
 | Fri, 17 Oct 2025 04:07:01 GMT | TryHackMe #122 - Phishing Analysis Fundamentals | SiberYuk | [Read More](https://medium.com/p/aea48f0d9e93) |
-| Fri, 17 Oct 2025 03:56:00 GMT | Multi-Factor Authentication (MFA): Your Strongest Line of Digital Defense | Geeky Vartika | [Read More](https://medium.com/p/b0c716c9d5ad) |
-| Fri, 17 Oct 2025 03:32:20 GMT | Silent Threat: How GeoServer Vulnerability Fuels Proxy Networks | Deven Chhajed | [Read More](https://medium.com/p/25918e0a0c75) |
-| Fri, 17 Oct 2025 03:30:26 GMT | My Open Source Software Lab - 1 | Sarveshdgaonkadkar | [Read More](https://medium.com/p/7c0f6f710972) |
-| Fri, 17 Oct 2025 03:30:06 GMT | Post-Quantum Cryptography : The new shield of security for the digital age | RamEshwar Gurchal | [Read More](https://medium.com/p/86634bdc7186) |
-| Fri, 17 Oct 2025 03:28:53 GMT | The Windows 10 Kill Switch: How Microsoft Just Turned 400 Million PCs Into E-Waste Or Security… | huizhou92 | [Read More](https://medium.com/p/0e7f6eac5c33) |
-| Fri, 17 Oct 2025 03:26:49 GMT | If You Do Nothing Else This Week: Audit Your F5 BIG-IP Infrastructure | Akilnath Bodipudi | [Read More](https://medium.com/p/c6c4d7b61ed0) |
-| Fri, 17 Oct 2025 03:12:05 GMT | Introduction to Cybersecurity: The Digital Shield We All Need | Ferdi Edogawa | [Read More](https://medium.com/p/e62d971143da) |
-| Fri, 17 Oct 2025 03:01:45 GMT | Digital mess: an overlooked type of untidiness | Valentín Stehr | [Read More](https://medium.com/p/64eb0c22a4b3) |
-| Fri, 17 Oct 2025 02:59:40 GMT | I Tried to Convince AI That Vaccines Cause Autism — Here’s What Happened | Taha Azizi | [Read More](https://medium.com/p/467ac0b83c22) |
-| Fri, 17 Oct 2025 02:55:30 GMT | WEP Cracking CTF Challenge — Complete Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/f9b4707fdf16) |
-| Fri, 17 Oct 2025 02:49:47 GMT | Cracking the Code: Journey ROT13 | Zulfianarahmi | [Read More](https://medium.com/p/6a7c23219a8f) |
-| Fri, 17 Oct 2025 02:43:22 GMT | GZR Observer — India Geo Perspective — Week of Oct 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/27a2d65159e7) |
