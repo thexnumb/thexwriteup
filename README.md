@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 10:24:18 GMT | Traditional SAP Security vs SAP Public Cloud Security | Udayamosol | [Read More](https://medium.com/p/8794a0820e02) |
+| Fri, 17 Oct 2025 10:23:32 GMT | 101 Essentials Cybersecurity Tools and Frameworks for 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/6040330a0a0c) |
+| Fri, 17 Oct 2025 10:21:48 GMT | The Guardian of Sovereignty: How Digital Shield is Reshaping the Trust Boundary of Web3 with… | Digital Shield | [Read More](https://medium.com/p/4c31828dd583) |
 | Fri, 17 Oct 2025 10:08:20 GMT | VAPT Service Provider for the Travel Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/bbc4723d6a55) |
 | Fri, 17 Oct 2025 10:04:33 GMT | Why Ethical AI Is the Only Way to Secure the Future | Jay C Roberts | [Read More](https://medium.com/p/dc4e2f6961ec) |
 | Fri, 17 Oct 2025 10:02:53 GMT | Patch Notes for Reality: When the World Feels Like Beta Software | Franziska "Ziska" Fink | [Read More](https://medium.com/p/016f94d77f4c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 02:55:30 GMT | WEP Cracking CTF Challenge — Complete Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/f9b4707fdf16) |
 | Fri, 17 Oct 2025 02:49:47 GMT | Cracking the Code: Journey ROT13 | Zulfianarahmi | [Read More](https://medium.com/p/6a7c23219a8f) |
 | Fri, 17 Oct 2025 02:43:22 GMT | GZR Observer — India Geo Perspective — Week of Oct 16, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/27a2d65159e7) |
-| Fri, 17 Oct 2025 02:05:39 GMT | The Audit Intelligence Mindset: Seeing What Others Miss | Dr. Deep Pandey | [Read More](https://medium.com/p/25426927d0e2) |
-| Fri, 17 Oct 2025 01:59:59 GMT | Privacy in the Digital Age: How Much Are We Really Safe? | Mhamzaafzal | [Read More](https://medium.com/p/3ec818ee79ae) |
-| Fri, 17 Oct 2025 01:55:33 GMT | The Economics of Cyber Hygiene: Why Small Improvements Drive Large Returns | Owen Williams | [Read More](https://medium.com/p/36b3bbf55eeb) |
