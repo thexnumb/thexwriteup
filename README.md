@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 04:28:27 GMT | Making Sense of RAG, Agentic AI, and the New Attack Surface | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/555a22cac4df) |
+| Fri, 17 Oct 2025 04:26:18 GMT | TryHackMe #126 - The Greenholt Phish | SiberYuk | [Read More](https://medium.com/p/911a72e1478d) |
+| Fri, 17 Oct 2025 04:21:52 GMT | TryHackMe #125 - Phishing Prevention | SiberYuk | [Read More](https://medium.com/p/47f0a30e27cb) |
+| Fri, 17 Oct 2025 04:16:25 GMT | TryHackMe #124 - Phishing Analysis Tools | SiberYuk | [Read More](https://medium.com/p/85f793e3fec1) |
 | Fri, 17 Oct 2025 04:12:03 GMT | TryHackMe #123 - Phishing Emails in Action | SiberYuk | [Read More](https://medium.com/p/390e499ebc09) |
 | Fri, 17 Oct 2025 04:07:01 GMT | TryHackMe #122 - Phishing Analysis Fundamentals | SiberYuk | [Read More](https://medium.com/p/aea48f0d9e93) |
 | Fri, 17 Oct 2025 03:56:00 GMT | Multi-Factor Authentication (MFA): Your Strongest Line of Digital Defense | Geeky Vartika | [Read More](https://medium.com/p/b0c716c9d5ad) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 18:04:24 GMT | Digital Footprint: What You Post Today Can Affect Tomorrow | Asif.k | [Read More](https://medium.com/p/18786a9d4d46) |
 | Thu, 16 Oct 2025 18:01:42 GMT | HacktheBox: Delivery Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/02e877884af0) |
 | Thu, 16 Oct 2025 17:59:06 GMT | Your Digital Keys: Why a Strong Password Is Your First Line of Defense in the Cyber World | Irteza Asad | [Read More](https://medium.com/p/64c69d46a334) |
-| Thu, 16 Oct 2025 17:55:52 GMT | Cybersecurity AI Weekly — Market Insights | Tal Eliyahu | [Read More](https://medium.com/p/c0d2b8ac7974) |
-| Thu, 16 Oct 2025 17:52:15 GMT | Introduction to Cyber Security | Samiur Rabbi Alex | [Read More](https://medium.com/p/aece574dac10) |
-| Thu, 16 Oct 2025 17:49:45 GMT | Seniors Are Targets | Jim Parton | [Read More](https://medium.com/p/ae53798e20fc) |
-| Thu, 16 Oct 2025 17:38:14 GMT | Business-Email Policy & OTP Bypass | Ahmed Mahmoud | [Read More](https://medium.com/p/015bd25322d8) |
