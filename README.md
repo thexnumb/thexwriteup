@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 21:04:45 GMT | The Double-Edged Sword: Navigating the Hidden Security Risks of AI-Generated Code | Marcelo Falero | [Read More](https://medium.com/p/ff674cd41047) |
+| Fri, 17 Oct 2025 21:02:55 GMT | The Importance of Implementing Security in Programming: Practices and Techniques | Jessica Mai Tran | [Read More](https://medium.com/p/bdc9ec610b84) |
+| Fri, 17 Oct 2025 20:58:38 GMT | Your hotel keycard is a tiny computer | Samarth rawat | [Read More](https://medium.com/p/340f9b8ad0b3) |
+| Fri, 17 Oct 2025 20:53:15 GMT | Trusted Burglar Alarm Services in Aurora: Protecting Your Home and Business | American Security Professional | [Read More](https://medium.com/p/6ebbf81b1f73) |
+| Fri, 17 Oct 2025 20:40:38 GMT | When Security Is Treated as a Cost | scanf | [Read More](https://medium.com/p/4e5ef3a56295) |
+| Fri, 17 Oct 2025 20:38:06 GMT | Why We’re NOT an MSP: The Integrated Service Provider Model Explained | JSOC IT BLOG | [Read More](https://medium.com/p/c5eb5c177db1) |
 | Fri, 17 Oct 2025 20:28:35 GMT | The Internet Never Forgets: Privacy and Awareness in Digital Bangladesh | Mushfiqur Rahman | [Read More](https://medium.com/p/3a60692a83d6) |
 | Fri, 17 Oct 2025 20:28:30 GMT | Learn How BUG Users Can Access Rewards Easily | BUG | [Read More](https://medium.com/p/046872b7c265) |
 | Fri, 17 Oct 2025 20:28:24 GMT | Complete BUG Rewards Walkthrough 2025 | BUG | [Read More](https://medium.com/p/1fdd13d5779d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 13:38:11 GMT | How I Automated Subdomain Enumeration with Subfinder and HTTPx | SecEngineerX | [Read More](https://medium.com/p/b04d00009d61) |
 | Fri, 17 Oct 2025 13:38:07 GMT | jQuery 3.2.1 Security Flaws Explained | Vishvadini Ravihari | [Read More](https://medium.com/p/39979fe4a1e7) |
 | Fri, 17 Oct 2025 13:37:18 GMT | Samba smbd 3.0.20 - Command Execution | Furkan Dal | [Read More](https://medium.com/p/9cb93fc70904) |
-| Fri, 17 Oct 2025 13:36:57 GMT | The Invisible role of intelligence in Algorithmic Risk Management & Governance (ARMG) | Luthierc | [Read More](https://medium.com/p/297e76b8213d) |
-| Fri, 17 Oct 2025 13:31:58 GMT | How I Found a High Severity Vulnerability in a Private Program of a Well-Known SIEM on Intigriti… | Muhammadidris | [Read More](https://medium.com/p/bd480536114f) |
-| Fri, 17 Oct 2025 13:20:00 GMT | When Convenience Becomes the Weakest Link | Rabail Zaheer | [Read More](https://medium.com/p/90a52feeea78) |
-| Fri, 17 Oct 2025 13:19:53 GMT | Investigating Risky Sign-ins and Impossible Travel Alerts in Microsoft Entra ID | Nick Bayne | [Read More](https://medium.com/p/404ee998e7d8) |
-| Fri, 17 Oct 2025 13:19:19 GMT | Can We Make a Column Read-Only in Oracle? | Thomas Minne | [Read More](https://medium.com/p/245c5aced3d3) |
-| Fri, 17 Oct 2025 13:18:41 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 4:Attacking Active Directory and NTDS.di | Babatunde Ojo | [Read More](https://medium.com/p/f258e4901c49) |
