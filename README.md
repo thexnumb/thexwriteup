@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 07:36:27 GMT | Surah Al-Mulk (67:5) The Protective Nature of the Sky | insha zulfiqar | [Read More](https://medium.com/p/a28c14850d48) |
+| Fri, 17 Oct 2025 07:32:17 GMT | Ransomware 3.0: Fidye Notundan Önce Gelen Sessizlik.. | Ersinkaradag | [Read More](https://medium.com/p/8b407b48bba0) |
+| Fri, 17 Oct 2025 07:27:01 GMT | Dear Love of my Life | Emike Odion-Osigwe | [Read More](https://medium.com/p/2a017a700f03) |
+| Fri, 17 Oct 2025 07:21:50 GMT | How I Use Obsidian and Notion to Organize My Pentesting Notes and Research | Andrei Ivan | [Read More](https://medium.com/p/0e0cb91b1e55) |
+| Fri, 17 Oct 2025 07:15:09 GMT | Why Domain Privacy Protection Is Essential for Every Website Owner | Swapnil S. | [Read More](https://medium.com/p/de6cae6b4a8d) |
 | Fri, 17 Oct 2025 07:07:57 GMT | The Dark Side: Hackers Using AI to Breach Security | Deepak Sharma | [Read More](https://medium.com/p/6989afee704d) |
 | Fri, 17 Oct 2025 07:06:01 GMT | The Big, Beautiful SOC Project: Building the Foundations of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/c04d0624208f) |
 | Fri, 17 Oct 2025 07:05:10 GMT | The Journey of Identity: From the Guillotine to Blockchain | World United | [Read More](https://medium.com/p/9541632a30be) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 20:29:35 GMT | String Encryption in WinAPI Wrapper | S12 - 0x12Dark Development | [Read More](https://medium.com/p/592556d4bd69) |
 | Thu, 16 Oct 2025 20:28:45 GMT | Civilization. The last page. (144) | Jan Slort | [Read More](https://medium.com/p/2cc92e288927) |
 | Thu, 16 Oct 2025 20:13:47 GMT | Misinformation on Social Media: Why Fighting Lies Is Everyone’s Responsibility | Arnav Senthil | [Read More](https://medium.com/p/0a0d1ebf5c15) |
-| Thu, 16 Oct 2025 20:12:34 GMT | Building a Security Lab on Mac with UTM and Wazuh — Phase 2 | James | [Read More](https://medium.com/p/3639ce4a1f23) |
-| Thu, 16 Oct 2025 20:10:52 GMT | When dev‑server whispers: a bug hunter’s journey discovering CVE‑2025‑30208 on a government portal. | Will.Star | [Read More](https://medium.com/p/6e7509854acc) |
-| Thu, 16 Oct 2025 19:52:37 GMT | The Gaza Exchange: Ceasefire or Strategic Illusion? | Josefine A. Brinley | [Read More](https://medium.com/p/be95a6dbf366) |
-| Thu, 16 Oct 2025 19:52:02 GMT | Day 11 of my Cybersecurity journey: Linux Shell and Scripting. | Ogundipe Priscilla | [Read More](https://medium.com/p/979c870b3bbf) |
-| Thu, 16 Oct 2025 19:49:33 GMT | IT Architecture is about drawing lines | Mohammed Brückner | [Read More](https://medium.com/p/364ea0173143) |
