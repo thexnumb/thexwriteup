@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 20:11:17 GMT | How to hack Snapchat password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/5008299a1746) |
+| Fri, 17 Oct 2025 20:10:21 GMT | Day 12 of my Cybersecurity Journey: Networking Concepts | Ogundipe Priscilla | [Read More](https://medium.com/p/5646728b9b78) |
+| Fri, 17 Oct 2025 20:00:42 GMT | How to hack GMail password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/393c27a82b65) |
+| Fri, 17 Oct 2025 19:52:47 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/51b930beb815) |
+| Fri, 17 Oct 2025 19:49:58 GMT | Help Me Build This —  A Smart SCADA Security System (Your Experience Can Help Me) | Hareem Fatima | [Read More](https://medium.com/p/0f95720052eb) |
+| Fri, 17 Oct 2025 19:49:44 GMT | Securing Payment Data: Building Trust in Every Digital Transaction | SafeAeon Inc. | [Read More](https://medium.com/p/2a66c8b7b49c) |
+| Fri, 17 Oct 2025 19:48:08 GMT | How to hack Yahoo! password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/b09098fec8c4) |
+| Fri, 17 Oct 2025 19:42:59 GMT | From Installer to Source Code: A Novice’s Guide to Analyzing Node.js/Electron Malware | Dor Barda | [Read More](https://medium.com/p/eaaea180c6c2) |
+| Fri, 17 Oct 2025 19:42:39 GMT | Secure Operating Systems in Cyber Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/ee7572d7c60a) |
+| Fri, 17 Oct 2025 19:40:47 GMT | Understanding and Using Built-in Named Entity SITs (Day 6) | Wesley Duel Swann | [Read More](https://medium.com/p/63c366169728) |
+| Fri, 17 Oct 2025 19:34:21 GMT | How to hack Instagram password online: FREE methods of hackers | Alexander Hoffmann | [Read More](https://medium.com/p/b2d729f383f9) |
 | Fri, 17 Oct 2025 19:31:31 GMT | Hacker’s Gambit :- National Level CTF , Writeup by Jerry_H4ck | JERRY_H4CK | [Read More](https://medium.com/p/94b3215e496c) |
 | Fri, 17 Oct 2025 19:29:12 GMT | Day 1 of the 15-Day Learning Networking and Systems Series — Introduction to Networking & Systems | HackTrace | [Read More](https://medium.com/p/508545f27ef1) |
 | Fri, 17 Oct 2025 19:25:48 GMT | Beyond Tutorials: Why Books Give You a Superpower in Cybersecurity | Shahzaib | [Read More](https://medium.com/p/487dbebaea2e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 13:12:46 GMT | Mapping the Domain: Inside PowerView Enumeration Attacks (Windows and Active Directory Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/e0a992105d03) |
 | Fri, 17 Oct 2025 13:12:01 GMT | The Complete SQLMap Tutorial: From Zero to Advanced Mastery | Ibtissam hammadi | [Read More](https://medium.com/p/fd0126037737) |
 | Fri, 17 Oct 2025 13:02:25 GMT | The GRC Toolkit: Frameworks, Regulations, and Tools You’ll Actually Use | Samuel Odekunle | [Read More](https://medium.com/p/cf04b875a65c) |
-| Fri, 17 Oct 2025 12:56:58 GMT | Küçük bir hatanın doğurduğu sonuçlar - Bugbounty Bounty Write Up | mehmet şerif paşa | [Read More](https://medium.com/p/6dc82dc38b41) |
-| Fri, 17 Oct 2025 12:55:47 GMT | Building Trust Through Protection: What Sets a Great Security Company Apart | Keith Fowler | [Read More](https://medium.com/p/d35b23d216e5) |
-| Fri, 17 Oct 2025 12:50:50 GMT | Women Leading the Cybersecurity Frontier: Stories of Mentorship and Community Impact | Marissa Arbour | [Read More](https://medium.com/p/f0d2b47c8ed4) |
-| Fri, 17 Oct 2025 12:48:55 GMT | UnHackable- Learn the techniques hackers use to protect their own digital self ! | Cyberbali | [Read More](https://medium.com/p/bbc3dd220b82) |
-| Fri, 17 Oct 2025 12:47:56 GMT | OverTheWire Level 0–23 | Gülçiçək Hüseynova | [Read More](https://medium.com/p/f85965e1b025) |
-| Fri, 17 Oct 2025 12:45:24 GMT | From EternalBlue to Web Exploits: Why Cybersecurity Is More Than Just Hacking | Hemraj | [Read More](https://medium.com/p/f0c5e46268f3) |
-| Fri, 17 Oct 2025 12:35:12 GMT | Fortifying Your Fortress: Securing API Keys with Android NDK | Sivavishnu | [Read More](https://medium.com/p/9d5eb2481ec5) |
-| Fri, 17 Oct 2025 12:31:49 GMT | Hype’s High, Reality’s Low: A Trial Run with Claude Sonnet 4 | Namir Sagheenanajar | [Read More](https://medium.com/p/3c014ca399b5) |
-| Fri, 17 Oct 2025 12:31:06 GMT | Top Cybersecurity Threats in 2025 & How to Effectively Prevent It? | Mahalakshmi Institutions | [Read More](https://medium.com/p/ea51ae00f7d2) |
-| Fri, 17 Oct 2025 12:25:56 GMT | How Long Must We Stay Closed Off? A Real Talk About Love and Being Fragile | Sovia | [Read More](https://medium.com/p/20e341d64087) |
-| Fri, 17 Oct 2025 12:17:46 GMT | SOAP picoCTF Web Exploitation challenge | Samuel Jack | [Read More](https://medium.com/p/3cf9d0f38fa5) |
