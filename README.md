@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 14:07:26 GMT | What Apple’s $2M (and up to $5M) Bug-Bounty Push Teaches Us About Fighting Spyware | ven coding | [Read More](https://medium.com/p/bf7e5fd66d15) |
+| Fri, 17 Oct 2025 14:01:56 GMT | Cyber Briefing: 2025. | CyberMaterial | [Read More](https://medium.com/p/34da82596446) |
+| Fri, 17 Oct 2025 14:00:56 GMT | Immutable Infrastructure — How Kernel-Level Protection Reinforces Web3 | Abatis ABTU | [Read More](https://medium.com/p/633864194d30) |
+| Fri, 17 Oct 2025 13:55:01 GMT | How I Escalated a Dorm Payment Portal into a Full DMZ Compromise Part 2 | KonaN | [Read More](https://medium.com/p/0348a14a3ac5) |
+| Fri, 17 Oct 2025 13:54:22 GMT | ISO 27001:2022 Basic Terminologies | Parull Sharma | [Read More](https://medium.com/p/b6852eaa9324) |
+| Fri, 17 Oct 2025 13:48:00 GMT | Web Apps Running Slow? Here’s How to Fix That | Build Me App (BMA) | [Read More](https://medium.com/p/1d48431a22a0) |
 | Fri, 17 Oct 2025 13:45:02 GMT | What are the essential role of SIEM in Cybersecurity? | NetWitness | [Read More](https://medium.com/p/25e0102ed626) |
+| Fri, 17 Oct 2025 13:38:11 GMT | How I Automated Subdomain Enumeration with Subfinder and HTTPx | SecEngineerX | [Read More](https://medium.com/p/b04d00009d61) |
 | Fri, 17 Oct 2025 13:38:07 GMT | jQuery 3.2.1 Security Flaws Explained | Vishvadini Ravihari | [Read More](https://medium.com/p/39979fe4a1e7) |
 | Fri, 17 Oct 2025 13:37:18 GMT | Samba smbd 3.0.20 - Command Execution | Furkan Dal | [Read More](https://medium.com/p/9cb93fc70904) |
+| Fri, 17 Oct 2025 13:36:57 GMT | The Invisible role of intelligence in Algorithmic Risk Management & Governance (ARMG) | Luthierc | [Read More](https://medium.com/p/297e76b8213d) |
 | Fri, 17 Oct 2025 13:31:58 GMT | How I Found a High Severity Vulnerability in a Private Program of a Well-Known SIEM on Intigriti… | Muhammadidris | [Read More](https://medium.com/p/bd480536114f) |
 | Fri, 17 Oct 2025 13:20:00 GMT | When Convenience Becomes the Weakest Link | Rabail Zaheer | [Read More](https://medium.com/p/90a52feeea78) |
 | Fri, 17 Oct 2025 13:19:53 GMT | Investigating Risky Sign-ins and Impossible Travel Alerts in Microsoft Entra ID | Nick Bayne | [Read More](https://medium.com/p/404ee998e7d8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 07:41:37 GMT | Digital Transformation Budgets: Where the Dollars Go | M. Faisal Fariduddin Attar Nasution | [Read More](https://medium.com/p/f82d3d87a885) |
 | Fri, 17 Oct 2025 07:36:27 GMT | Surah Al-Mulk (67:5) The Protective Nature of the Sky | insha zulfiqar | [Read More](https://medium.com/p/a28c14850d48) |
 | Fri, 17 Oct 2025 07:32:17 GMT | Ransomware 3.0: Fidye Notundan Önce Gelen Sessizlik.. | Ersinkaradag | [Read More](https://medium.com/p/8b407b48bba0) |
-| Fri, 17 Oct 2025 07:27:01 GMT | Dear Love of my Life | Emike Odion-Osigwe | [Read More](https://medium.com/p/2a017a700f03) |
-| Fri, 17 Oct 2025 07:21:50 GMT | How I Use Obsidian and Notion to Organize My Pentesting Notes and Research | Andrei Ivan | [Read More](https://medium.com/p/0e0cb91b1e55) |
-| Fri, 17 Oct 2025 07:15:09 GMT | Why Domain Privacy Protection Is Essential for Every Website Owner | Swapnil S. | [Read More](https://medium.com/p/de6cae6b4a8d) |
-| Fri, 17 Oct 2025 07:07:57 GMT | The Dark Side: Hackers Using AI to Breach Security | Deepak Sharma | [Read More](https://medium.com/p/6989afee704d) |
-| Fri, 17 Oct 2025 07:06:01 GMT | The Big, Beautiful SOC Project: Building the Foundations of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/c04d0624208f) |
-| Fri, 17 Oct 2025 07:05:10 GMT | The Journey of Identity: From the Guillotine to Blockchain | World United | [Read More](https://medium.com/p/9541632a30be) |
-| Fri, 17 Oct 2025 06:55:02 GMT | Day 69- Web-based attacks & the OWASP Top 10 for beginners | unica 02 | [Read More](https://medium.com/p/87cd1a61f05b) |
-| Fri, 17 Oct 2025 06:45:34 GMT | Secure By Design: How Enterprises Should Harden Blockchain Apps in Cloud | Serishahid | [Read More](https://medium.com/p/2fec5e19bb37) |
