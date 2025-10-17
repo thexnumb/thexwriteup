@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 16:39:15 GMT | “Why did you change it?”: The hidden cost of improving Workflows | Humberto Acosta | [Read More](https://medium.com/p/09499b4199ad) |
+| Fri, 17 Oct 2025 16:35:10 GMT | Cross-Site Scripting (XSS) Attacks: Prevention and Mitigation | Cyber Security Research | [Read More](https://medium.com/p/70d6d0ebaac2) |
+| Fri, 17 Oct 2025 16:29:35 GMT | How hackers compromise entire businesses by gaining access to a single service — Active Directory | KRY | [Read More](https://medium.com/p/bff768e9fee4) |
+| Fri, 17 Oct 2025 16:27:21 GMT | Maximize resource usage and minimize risk with Nomad-based Workload Security Rings | Chris Adkin | [Read More](https://medium.com/p/cb6fa4d44d6a) |
+| Fri, 17 Oct 2025 16:26:46 GMT | Uncovered: The Secret War for PUBG’s Competitive Integrity (2025 Investigation) | PediaPie | [Read More](https://medium.com/p/d9f630a2db09) |
+| Fri, 17 Oct 2025 16:26:25 GMT | Indicators of Attack, Indicators of Compromise, and Now… Indicators of Prompt | Sol González | [Read More](https://medium.com/p/e823186fa34e) |
+| Fri, 17 Oct 2025 16:19:42 GMT | Building a Better World with Code: How AI is Powering a Sustainable Future | xploitnation | [Read More](https://medium.com/p/475eaf2a43cc) |
 | Fri, 17 Oct 2025 16:08:07 GMT | They’re Selling Soulmates for $45.76 — And People Are Buying It | Tanmay Kumar Dalai | [Read More](https://medium.com/p/717a9821b03d) |
 | Fri, 17 Oct 2025 16:05:53 GMT | When No One Believes You: A True Story of Cybercrime, Ignored Warnings, and Stolen Credit | Krystal | [Read More](https://medium.com/p/0c601ba3303f) |
 | Fri, 17 Oct 2025 15:53:01 GMT | The Multi-Billion Dollar Solution: Philosophical & Epistemological Stabilization as the Answer to… | Julian Soloninka | [Read More](https://medium.com/p/a06f50c98555) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 09:01:51 GMT | How Much Does SOC 2 Really Cost in 2025? | Hicomply | [Read More](https://medium.com/p/10ebd4f8100f) |
 | Fri, 17 Oct 2025 09:00:08 GMT | The Python Projects That Get You Hired in 2025 | Rocky | [Read More](https://medium.com/p/a4c4d449078a) |
 | Fri, 17 Oct 2025 08:59:09 GMT | What Secures What an Agent Executes? | Jon Capriola | [Read More](https://medium.com/p/8a4a0a0641fd) |
-| Fri, 17 Oct 2025 08:56:00 GMT | Is Your Email Hacked? Here’s How to Find Out (and What to Do Next) | Mekkaoui Omar | [Read More](https://medium.com/p/d703d9efc64e) |
-| Fri, 17 Oct 2025 08:50:25 GMT | “Bbbbloat” challenge | oussama | [Read More](https://medium.com/p/091838c1123a) |
-| Fri, 17 Oct 2025 08:46:19 GMT | Let’s Skip to the Part Where You’re Tired | Clown Face | [Read More](https://medium.com/p/6d8aa5b284a4) |
-| Fri, 17 Oct 2025 08:45:41 GMT | How to Choose the Perfect GRC Platform for Your Compliance Strategy | SecureSlate | [Read More](https://medium.com/p/51ef28437851) |
-| Fri, 17 Oct 2025 08:42:15 GMT | Cryptology 1: Basics | Simron Sharma | [Read More](https://medium.com/p/e87e340f4009) |
-| Fri, 17 Oct 2025 08:39:12 GMT | Why I’m Obsessing Over the Raspberry Pi Zero W ? | Satyam Pathania | [Read More](https://medium.com/p/a90425b971bc) |
-| Fri, 17 Oct 2025 08:35:12 GMT | How To Create Self-Signed OpenSSL Certificates & SSH Keys on Ubuntu | Swapnil Damate, PMP® | [Read More](https://medium.com/p/67fae8f5af6f) |
