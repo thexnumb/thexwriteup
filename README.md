@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 19:31:31 GMT | Hacker’s Gambit :- National Level CTF , Writeup by Jerry_H4ck | JERRY_H4CK | [Read More](https://medium.com/p/94b3215e496c) |
+| Fri, 17 Oct 2025 19:29:12 GMT | Day 1 of the 15-Day Learning Networking and Systems Series — Introduction to Networking & Systems | HackTrace | [Read More](https://medium.com/p/508545f27ef1) |
+| Fri, 17 Oct 2025 19:25:48 GMT | Beyond Tutorials: Why Books Give You a Superpower in Cybersecurity | Shahzaib | [Read More](https://medium.com/p/487dbebaea2e) |
+| Fri, 17 Oct 2025 19:20:54 GMT | Books That Shaped My Mindset in Cybersecurity and Technology | Aj | [Read More](https://medium.com/p/476eca4e086b) |
+| Fri, 17 Oct 2025 19:08:37 GMT | Zero Trust Data Protection: Securing Information in a Borderless World | SafeAeon Inc. | [Read More](https://medium.com/p/7eae5f7d8549) |
 | Fri, 17 Oct 2025 19:03:26 GMT | Get Exclusive DORK Bonuses in October 2025 | DORK | [Read More](https://medium.com/p/599c5a92c166) |
 | Fri, 17 Oct 2025 18:57:36 GMT | Cybersecurity Concerns in Smart Water Infrastructure | Ayeni Oladayo | [Read More](https://medium.com/p/033520f2723f) |
 | Fri, 17 Oct 2025 18:55:00 GMT | Sem visibilidade, sem controle! | Sergio Junior | [Read More](https://medium.com/p/b739660e006b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 12:31:06 GMT | Top Cybersecurity Threats in 2025 & How to Effectively Prevent It? | Mahalakshmi Institutions | [Read More](https://medium.com/p/ea51ae00f7d2) |
 | Fri, 17 Oct 2025 12:25:56 GMT | How Long Must We Stay Closed Off? A Real Talk About Love and Being Fragile | Sovia | [Read More](https://medium.com/p/20e341d64087) |
 | Fri, 17 Oct 2025 12:17:46 GMT | SOAP picoCTF Web Exploitation challenge | Samuel Jack | [Read More](https://medium.com/p/3cf9d0f38fa5) |
-| Fri, 17 Oct 2025 12:10:06 GMT | Portswigger Academy — Stored XSS into onclick event with angle brackets and double quotes… | Alan | [Read More](https://medium.com/p/055981ed27b3) |
-| Fri, 17 Oct 2025 12:04:44 GMT | When AI Fakes Your ID: The New Threat to Facebook Account Security in Bangladesh | Md. Mehedi Hasan | [Read More](https://medium.com/p/9bd26431d28a) |
-| Fri, 17 Oct 2025 12:02:44 GMT | Top-Rated Cybersecurity Certifications for Every Stage of Your Career | Divyanshi kulkarni | [Read More](https://medium.com/p/a9a50a8fe8df) |
-| Fri, 17 Oct 2025 11:54:43 GMT | The Night I Broke the OTP Limit — A Simple Bug, A Cool Trick | Xormium | [Read More](https://medium.com/p/0b00c4712b1d) |
-| Fri, 17 Oct 2025 11:51:22 GMT | When Big Data Says ‘I Do’ | Robot Crime blog | [Read More](https://medium.com/p/c0b48985a0f4) |
