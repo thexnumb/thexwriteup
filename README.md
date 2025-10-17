@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 21:32:14 GMT | How I Found 2 Medium Bugs That Broke Business Logic♦️ | Mado | [Read More](https://medium.com/p/8a6fbdcef287) |
+| Fri, 17 Oct 2025 21:29:00 GMT | How AI Agents Are Reshaping IT Integration: Smarter Workflows for Hybrid IT | Theo Ezell | [Read More](https://medium.com/p/bca428a46d5d) |
+| Fri, 17 Oct 2025 21:24:11 GMT | Your Firewall Isn’t Enough — Here’s Why CacheGuard Completes the Picture | CacheGuard Technologies | [Read More](https://medium.com/p/8a7f1ffa796e) |
+| Fri, 17 Oct 2025 21:17:49 GMT | Day 1 — Launching My 120-Day Purple Team & Cloud Incident Response Journey | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/38216f7d5910) |
 | Fri, 17 Oct 2025 21:04:45 GMT | The Double-Edged Sword: Navigating the Hidden Security Risks of AI-Generated Code | Marcelo Falero | [Read More](https://medium.com/p/ff674cd41047) |
 | Fri, 17 Oct 2025 21:02:55 GMT | The Importance of Implementing Security in Programming: Practices and Techniques | Jessica Mai Tran | [Read More](https://medium.com/p/bdc9ec610b84) |
 | Fri, 17 Oct 2025 20:58:38 GMT | Your hotel keycard is a tiny computer | Samarth rawat | [Read More](https://medium.com/p/340f9b8ad0b3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 13:55:01 GMT | How I Escalated a Dorm Payment Portal into a Full DMZ Compromise Part 2 | KonaN | [Read More](https://medium.com/p/0348a14a3ac5) |
 | Fri, 17 Oct 2025 13:54:22 GMT | ISO 27001:2022 Basic Terminologies | Parull Sharma | [Read More](https://medium.com/p/b6852eaa9324) |
 | Fri, 17 Oct 2025 13:48:00 GMT | Web Apps Running Slow? Here’s How to Fix That | Build Me App (BMA) | [Read More](https://medium.com/p/1d48431a22a0) |
-| Fri, 17 Oct 2025 13:45:02 GMT | What are the essential role of SIEM in Cybersecurity? | NetWitness | [Read More](https://medium.com/p/25e0102ed626) |
-| Fri, 17 Oct 2025 13:38:11 GMT | How I Automated Subdomain Enumeration with Subfinder and HTTPx | SecEngineerX | [Read More](https://medium.com/p/b04d00009d61) |
-| Fri, 17 Oct 2025 13:38:07 GMT | jQuery 3.2.1 Security Flaws Explained | Vishvadini Ravihari | [Read More](https://medium.com/p/39979fe4a1e7) |
-| Fri, 17 Oct 2025 13:37:18 GMT | Samba smbd 3.0.20 - Command Execution | Furkan Dal | [Read More](https://medium.com/p/9cb93fc70904) |
