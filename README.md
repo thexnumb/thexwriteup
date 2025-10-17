@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 22:58:58 GMT | TryHackMe Linux threat detection 3 Walkthrough | Tanwietayim A | [Read More](https://medium.com/p/1c2ca4271b68) |
+| Fri, 17 Oct 2025 22:57:38 GMT | Techno-Resurrection Has Begun | The Writings of Ericajean | [Read More](https://medium.com/p/57ce73de9fb7) |
+| Fri, 17 Oct 2025 22:56:35 GMT | Day 5: The Day Someone Ordered Pizza… and Crashed an Entire City | Mr £n1s4 | [Read More](https://medium.com/p/72d26f59cc30) |
+| Fri, 17 Oct 2025 22:54:48 GMT | Startup — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/7016be45d5b7) |
+| Fri, 17 Oct 2025 22:46:55 GMT | When Text Becomes the Payload: Detecting AI-Generated Cyberattacks in Real Time | Twinkle Jaineera | [Read More](https://medium.com/p/85bf84812283) |
+| Fri, 17 Oct 2025 22:38:49 GMT | The Unbearable Lightness of Being Helpful (why Agentic coding sucks & how this ends) | Tomislav Glavaš | [Read More](https://medium.com/p/e8a9b67ef139) |
+| Fri, 17 Oct 2025 22:36:43 GMT | Backup Encryption Features in Newer Versions | Nurali ATMACA | [Read More](https://medium.com/p/e7d7047bd406) |
 | Fri, 17 Oct 2025 21:49:07 GMT | Snow-Crash-writup [level10] | B.R.O.L.Y | [Read More](https://medium.com/p/4626aaa57667) |
 | Fri, 17 Oct 2025 21:39:47 GMT | OpenShift: Security Context & Constraints | W. Jenks Gibbons | [Read More](https://medium.com/p/aa0c396a3741) |
 | Fri, 17 Oct 2025 21:32:14 GMT | How I Found 2 Medium Bugs That Broke Business Logic♦️ | Mado | [Read More](https://medium.com/p/8a6fbdcef287) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 14:31:53 GMT | Everyone has a story to tell — if only you have the ear or the heart to listen. | Nikhil Lodha | [Read More](https://medium.com/p/a0e143f7f9d5) |
 | Fri, 17 Oct 2025 14:24:33 GMT | Leap Powers Consultants on the Move | Douglas DeMaio | [Read More](https://medium.com/p/9c78b3f1e0b1) |
 | Fri, 17 Oct 2025 14:23:39 GMT | Port Scanning and Enumeration with Armitage | Dharmendrakumar | [Read More](https://medium.com/p/c7e5d5a6d2fd) |
-| Fri, 17 Oct 2025 14:21:50 GMT | Linux: Post Exploitation Lab I | Dharmendrakumar | [Read More](https://medium.com/p/0ddc64f9625e) |
-| Fri, 17 Oct 2025 14:17:42 GMT | CAP-HTB-Writeup | Aashraymt | [Read More](https://medium.com/p/7e3ff9092b81) |
-| Fri, 17 Oct 2025 14:07:26 GMT | What Apple’s $2M (and up to $5M) Bug-Bounty Push Teaches Us About Fighting Spyware | ven coding | [Read More](https://medium.com/p/bf7e5fd66d15) |
-| Fri, 17 Oct 2025 14:01:56 GMT | Cyber Briefing: 2025. | CyberMaterial | [Read More](https://medium.com/p/34da82596446) |
-| Fri, 17 Oct 2025 14:00:56 GMT | Immutable Infrastructure — How Kernel-Level Protection Reinforces Web3 | Abatis ABTU | [Read More](https://medium.com/p/633864194d30) |
-| Fri, 17 Oct 2025 13:57:25 GMT | Guys, Jangan Sampai “Kena Pancing”! Yuk, Belajar Bareng Cara Kenali Penipuan Online | Reksi | [Read More](https://medium.com/p/54a9d1ef9af0) |
-| Fri, 17 Oct 2025 13:55:01 GMT | How I Escalated a Dorm Payment Portal into a Full DMZ Compromise Part 2 | KonaN | [Read More](https://medium.com/p/0348a14a3ac5) |
