@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 17:15:25 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/aaaed986f5c6) |
+| Fri, 17 Oct 2025 17:05:46 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9485c509c757) |
+| Fri, 17 Oct 2025 17:02:28 GMT | Can AI Replace Pen Testers? I Put It to the Test | Aj | [Read More](https://medium.com/p/05ba9bce25ef) |
+| Fri, 17 Oct 2025 17:01:52 GMT | Equity Dashboards Without Performative KPIs | Amanda Marie Olachea | [Read More](https://medium.com/p/cc829561b9f9) |
+| Fri, 17 Oct 2025 17:00:56 GMT | 011e021d6fa524b55bfc5ba67522daeb - MD5 Breakdown? | Ehxb | [Read More](https://medium.com/p/0d82846c0ff6) |
+| Fri, 17 Oct 2025 16:58:33 GMT | Day 10/100 The Anatomy of a SOC: Learning to See Like a Defender | Denise Sophy | [Read More](https://medium.com/p/35691394cabb) |
+| Fri, 17 Oct 2025 16:56:44 GMT | Solving On-Site Chaos: How Security Guard Management Software Fixes Real Operational Problems | Teona | [Read More](https://medium.com/p/de3a9f0cc71a) |
+| Fri, 17 Oct 2025 16:53:33 GMT | Layers of Me, Layers of You | Alex Anton | [Read More](https://medium.com/p/333e453eea3e) |
+| Fri, 17 Oct 2025 16:53:10 GMT | Man-in-the-Middle (MITM) Attacks: Eavesdropping on Communications | Cyber Security Research | [Read More](https://medium.com/p/2547e0aec002) |
+| Fri, 17 Oct 2025 16:50:04 GMT | OSINT in 2025 — The Silent Superpower Behind Every Investigation | Oikawasain | [Read More](https://medium.com/p/9176be07acc9) |
+| Fri, 17 Oct 2025 16:46:19 GMT | Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks | Cyber Security Research | [Read More](https://medium.com/p/03867cc7d2d6) |
 | Fri, 17 Oct 2025 16:39:15 GMT | “Why did you change it?”: The hidden cost of improving Workflows | Humberto Acosta | [Read More](https://medium.com/p/09499b4199ad) |
+| Fri, 17 Oct 2025 16:36:05 GMT | Cybersecurity News Review — Week 42 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/b97416861589) |
+| Fri, 17 Oct 2025 16:36:02 GMT | Ransomware-as-a-Service (RaaS): The Shadow Economy Powering Modern Cyber Extortion | Pavlović Goran | [Read More](https://medium.com/p/3fb2826b40c6) |
 | Fri, 17 Oct 2025 16:35:10 GMT | Cross-Site Scripting (XSS) Attacks: Prevention and Mitigation | Cyber Security Research | [Read More](https://medium.com/p/70d6d0ebaac2) |
 | Fri, 17 Oct 2025 16:29:35 GMT | How hackers compromise entire businesses by gaining access to a single service — Active Directory | KRY | [Read More](https://medium.com/p/bff768e9fee4) |
 | Fri, 17 Oct 2025 16:27:21 GMT | Maximize resource usage and minimize risk with Nomad-based Workload Security Rings | Chris Adkin | [Read More](https://medium.com/p/cb6fa4d44d6a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 10:21:48 GMT | The Guardian of Sovereignty: How Digital Shield is Reshaping the Trust Boundary of Web3 with… | Digital Shield | [Read More](https://medium.com/p/4c31828dd583) |
 | Fri, 17 Oct 2025 10:08:20 GMT | VAPT Service Provider for the Travel Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/bbc4723d6a55) |
 | Fri, 17 Oct 2025 10:04:33 GMT | Why Ethical AI Is the Only Way to Secure the Future | Jay C Roberts | [Read More](https://medium.com/p/dc4e2f6961ec) |
-| Fri, 17 Oct 2025 10:02:53 GMT | Patch Notes for Reality: When the World Feels Like Beta Software | Franziska "Ziska" Fink | [Read More](https://medium.com/p/016f94d77f4c) |
-| Fri, 17 Oct 2025 10:01:41 GMT | What are the phishing simulation services and how do the IT companies protect their employees? | Mathewneelan | [Read More](https://medium.com/p/b0402ef845d4) |
-| Fri, 17 Oct 2025 09:38:57 GMT | cyber security course in trivandrum | Mohammed Bilal | [Read More](https://medium.com/p/dab18eaec9c8) |
-| Fri, 17 Oct 2025 09:38:44 GMT | Mastering AWS Multi-Account Cross-Access: A Step-by-Step Guide | Afaqbabar | [Read More](https://medium.com/p/2f1b037f583a) |
-| Fri, 17 Oct 2025 09:36:38 GMT | SPARK Matrix™: Voice-Directed Picking System Driving Efficiency and Accuracy in Modern Warehousing | Shamita Patel | [Read More](https://medium.com/p/b3c0cad81b93) |
-| Fri, 17 Oct 2025 09:35:35 GMT | How India’s Cloud Computing Crisis Became a Golden Opportunity | Sharmila20 | [Read More](https://medium.com/p/e5ba3927a2e2) |
-| Fri, 17 Oct 2025 09:21:32 GMT | Portswigger (Business Logic Flaw) Lab 1: Excessive Trust in Client-Side Controls | Bridget | [Read More](https://medium.com/p/b93712034508) |
-| Fri, 17 Oct 2025 09:18:39 GMT | Portswigger Academy — Reflected XSS into a JavaScript string with angle brackets and double quotes… | Alan | [Read More](https://medium.com/p/935a2cc3fbf6) |
-| Fri, 17 Oct 2025 09:16:57 GMT | The Pentester’s Guide to Active Directory: My First Steps in AD Exploitation | Andrei Ivan | [Read More](https://medium.com/p/762cdb07608c) |
-| Fri, 17 Oct 2025 09:11:59 GMT | Software Composition Analysis (SCA): Securing Your Software Supply Chain -Part 01 | XoX | [Read More](https://medium.com/p/6d610f27a85b) |
-| Fri, 17 Oct 2025 09:01:51 GMT | How Much Does SOC 2 Really Cost in 2025? | Hicomply | [Read More](https://medium.com/p/10ebd4f8100f) |
-| Fri, 17 Oct 2025 09:00:08 GMT | The Python Projects That Get You Hired in 2025 | Rocky | [Read More](https://medium.com/p/a4c4d449078a) |
-| Fri, 17 Oct 2025 08:59:09 GMT | What Secures What an Agent Executes? | Jon Capriola | [Read More](https://medium.com/p/8a4a0a0641fd) |
