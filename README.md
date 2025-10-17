@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 15:34:08 GMT | ⚡ The Future Is at the Edge: Exploring the Edge AI Processor Market | Kaverigiri | [Read More](https://medium.com/p/a38ea40aea1d) |
+| Fri, 17 Oct 2025 15:26:35 GMT | IdentityServer 4 ve Duende IdentityServer: Geçiş, Lisanslama ve .NET Uyumluluğu | Mustafa Dikyar | [Read More](https://medium.com/p/3941d8e706da) |
+| Fri, 17 Oct 2025 15:24:42 GMT | Vulnerability of letting people in | sam's | [Read More](https://medium.com/p/e24d3b3af870) |
 | Fri, 17 Oct 2025 15:15:06 GMT | GZR Observer — Global Daily — Oct 17, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f5cedf7f9cb2) |
 | Fri, 17 Oct 2025 14:54:02 GMT | Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Server Security Now | Very Lazy Tech | [Read More](https://medium.com/p/96ebdc38ed1b) |
 | Fri, 17 Oct 2025 14:44:16 GMT | BlueTeam Copilot: Building an AI-Driven SOC Assistant with Human-in-the-Loop Safeguards | Shreyas Karle | [Read More](https://medium.com/p/8be1443ad6fc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 08:15:02 GMT | DockerLabs Writeup — ChocoPing (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/78385211764c) |
 | Fri, 17 Oct 2025 08:11:34 GMT | VAB-5000: Making Workplaces Smarter and Safer with MediaTek | Scottlewis | [Read More](https://medium.com/p/ad5db45d23f7) |
 | Fri, 17 Oct 2025 08:07:51 GMT | Can You Trust What Your AI Learned? A Deep Dive into LLM04 | Rabia AMAAOUCH | [Read More](https://medium.com/p/bc6963c35d73) |
-| Fri, 17 Oct 2025 08:06:25 GMT | Top 10 In-Demand IT Skills for 2025 | Generiss Academy | [Read More](https://medium.com/p/ff37c023e249) |
-| Fri, 17 Oct 2025 08:04:06 GMT | Advanced Permission Schemes for Multi-Department Structures | Erdem UÇAK | [Read More](https://medium.com/p/5b548eb5283a) |
-| Fri, 17 Oct 2025 08:02:22 GMT | Account Takeover via IDOR: From UserID to Full Access | 0xP0L73R63157 | [Read More](https://medium.com/p/ade4f980cfb4) |
