@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 12:35:12 GMT | Fortifying Your Fortress: Securing API Keys with Android NDK | Sivavishnu | [Read More](https://medium.com/p/9d5eb2481ec5) |
+| Fri, 17 Oct 2025 12:31:49 GMT | Hype’s High, Reality’s Low: A Trial Run with Claude Sonnet 4 | Namir Sagheenanajar | [Read More](https://medium.com/p/3c014ca399b5) |
+| Fri, 17 Oct 2025 12:31:06 GMT | Top Cybersecurity Threats in 2025 & How to Effectively Prevent It? | Mahalakshmi Institutions | [Read More](https://medium.com/p/ea51ae00f7d2) |
+| Fri, 17 Oct 2025 12:25:56 GMT | How Long Must We Stay Closed Off? A Real Talk About Love and Being Fragile | Sovia | [Read More](https://medium.com/p/20e341d64087) |
+| Fri, 17 Oct 2025 12:17:46 GMT | SOAP picoCTF Web Exploitation challenge | Samuel Jack | [Read More](https://medium.com/p/3cf9d0f38fa5) |
+| Fri, 17 Oct 2025 12:10:06 GMT | Portswigger Academy — Stored XSS into onclick event with angle brackets and double quotes… | Alan | [Read More](https://medium.com/p/055981ed27b3) |
+| Fri, 17 Oct 2025 12:04:44 GMT | When AI Fakes Your ID: The New Threat to Facebook Account Security in Bangladesh | Md. Mehedi Hasan | [Read More](https://medium.com/p/9bd26431d28a) |
+| Fri, 17 Oct 2025 12:02:44 GMT | Top-Rated Cybersecurity Certifications for Every Stage of Your Career | Divyanshi kulkarni | [Read More](https://medium.com/p/a9a50a8fe8df) |
+| Fri, 17 Oct 2025 11:54:43 GMT | The Night I Broke the OTP Limit — A Simple Bug, A Cool Trick | Xormium | [Read More](https://medium.com/p/0b00c4712b1d) |
+| Fri, 17 Oct 2025 11:51:22 GMT | When Big Data Says ‘I Do’ | Robot Crime blog | [Read More](https://medium.com/p/c0b48985a0f4) |
+| Fri, 17 Oct 2025 11:49:14 GMT | Cybersecurity Starts at Home: Small Habits, Big Protection | Maged Anas | [Read More](https://medium.com/p/bf3e1904e282) |
+| Fri, 17 Oct 2025 11:45:14 GMT | byp4ss3d picoMini byCMU-Africa | Samuel Jack | [Read More](https://medium.com/p/65cfd8bc60a9) |
+| Fri, 17 Oct 2025 11:42:49 GMT | Why 100% Security Will Always Be a Myth | Mahad Aqeel | [Read More](https://medium.com/p/e0cab932900d) |
+| Fri, 17 Oct 2025 11:42:38 GMT | The AI tools hackers don't want you to know about | Shivakshi Rawat | [Read More](https://medium.com/p/aabdf29ea9bc) |
+| Fri, 17 Oct 2025 11:39:14 GMT | How One Tiny IDOR Created a Digital Domino Effect That Toppled Their Entire Security | Iski | [Read More](https://medium.com/p/5959ffeeae34) |
 | Fri, 17 Oct 2025 11:34:21 GMT | 15+ Years. 5 Lessons. What Building Enterprise Software Really Taught Me | Clement Nkamanyi | [Read More](https://medium.com/p/b5476c44d461) |
+| Fri, 17 Oct 2025 11:31:59 GMT | Critical Exploits and Coordinated Attacks Define This Week’s Cyber Frontline | Loginsoft | [Read More](https://medium.com/p/3097270b9d0f) |
 | Fri, 17 Oct 2025 11:15:18 GMT | Event Security Management: Ensuring Safety with Securycor | uk service | [Read More](https://medium.com/p/b57d9ae9bc48) |
 | Fri, 17 Oct 2025 11:11:49 GMT | Intercepting Implicit Intents To Load Arbitrary URLs In Android | Redfox Security | [Read More](https://medium.com/p/b2cf5d428c2b) |
 | Fri, 17 Oct 2025 11:10:56 GMT | Top 10 Companies Hiring Cyber Security Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/dd7e08e3f94f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 05:37:26 GMT | Regex Backtracking Meltdowns: One Pattern, 100% CPU | Quantum Tricks | [Read More](https://medium.com/p/1a58837efeda) |
 | Fri, 17 Oct 2025 05:25:41 GMT | Hack WiFi with a $15 Raspberry Pi Zero and Kali Linux | Shahzaib | [Read More](https://medium.com/p/c7e11223977d) |
 | Fri, 17 Oct 2025 05:23:22 GMT | Email Verification OTP Bypass €€ — How I verified any email | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/470cec0dbca5) |
-| Fri, 17 Oct 2025 05:22:23 GMT | Obinna Ofodile: From Defender on the Basketball Court to the Frontlines of Quantum-Safe… | John McCormick | [Read More](https://medium.com/p/f74fc6b876f8) |
-| Fri, 17 Oct 2025 05:20:33 GMT | A Deep Dive into GenAI System Architecture: From Clients to LLM Inference | Le Thanh Phuc (Lee) | [Read More](https://medium.com/p/07bbb0c3f38a) |
-| Fri, 17 Oct 2025 05:18:46 GMT | The macOS Forensic Journey — Software Updates (SoftwareUpdate.plist) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c3164034904a) |
-| Fri, 17 Oct 2025 05:16:02 GMT | One Link, One Report, One Four-Digit Bounty | Narayanan M | [Read More](https://medium.com/p/a4a682a9b612) |
-| Fri, 17 Oct 2025 05:09:42 GMT | Infrastructure as Intelligent Service Orchestration: GenAI, AI Agents, and ITIL in Action | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/748bcf1fcb59) |
-| Fri, 17 Oct 2025 04:57:55 GMT | Menyelami Dunia Bug Hunting: Perjalanan Awal Seorang Mahasiswa IT | Mzhilmi | [Read More](https://medium.com/p/bc83fcdabe3d) |
-| Fri, 17 Oct 2025 04:50:56 GMT | Recon For Bug Bounty Hunting | Md. Raihan | [Read More](https://medium.com/p/f466fce74709) |
-| Fri, 17 Oct 2025 04:50:14 GMT | What to Check Before Choosing a Security Screen Company | Brisbane Security Screens | [Read More](https://medium.com/p/45d7e387219b) |
-| Fri, 17 Oct 2025 04:50:05 GMT | What Lies Beneath My Skirt? | richa shukla | [Read More](https://medium.com/p/5fe6201cfcaa) |
-| Fri, 17 Oct 2025 04:32:56 GMT | Software Supply Chain Security: Fortifying the Foundation ️ | Ishita Kundu | [Read More](https://medium.com/p/af13cbccc3e4) |
-| Fri, 17 Oct 2025 04:32:04 GMT | TryHackMe #127 - Snapped Phish-ing Line | SiberYuk | [Read More](https://medium.com/p/1712b34c7cda) |
-| Fri, 17 Oct 2025 04:28:27 GMT | Making Sense of RAG, Agentic AI, and the New Attack Surface | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/555a22cac4df) |
-| Fri, 17 Oct 2025 04:26:18 GMT | TryHackMe #126 - The Greenholt Phish | SiberYuk | [Read More](https://medium.com/p/911a72e1478d) |
-| Fri, 17 Oct 2025 04:21:52 GMT | TryHackMe #125 - Phishing Prevention | SiberYuk | [Read More](https://medium.com/p/47f0a30e27cb) |
-| Fri, 17 Oct 2025 04:16:25 GMT | TryHackMe #124 - Phishing Analysis Tools | SiberYuk | [Read More](https://medium.com/p/85f793e3fec1) |
-| Fri, 17 Oct 2025 04:12:03 GMT | TryHackMe #123 - Phishing Emails in Action | SiberYuk | [Read More](https://medium.com/p/390e499ebc09) |
