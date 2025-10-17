@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 21:49:07 GMT | Snow-Crash-writup [level10] | B.R.O.L.Y | [Read More](https://medium.com/p/4626aaa57667) |
+| Fri, 17 Oct 2025 21:39:47 GMT | OpenShift: Security Context & Constraints | W. Jenks Gibbons | [Read More](https://medium.com/p/aa0c396a3741) |
 | Fri, 17 Oct 2025 21:32:14 GMT | How I Found 2 Medium Bugs That Broke Business Logic♦️ | Mado | [Read More](https://medium.com/p/8a6fbdcef287) |
 | Fri, 17 Oct 2025 21:29:00 GMT | How AI Agents Are Reshaping IT Integration: Smarter Workflows for Hybrid IT | Theo Ezell | [Read More](https://medium.com/p/bca428a46d5d) |
 | Fri, 17 Oct 2025 21:24:11 GMT | Your Firewall Isn’t Enough — Here’s Why CacheGuard Completes the Picture | CacheGuard Technologies | [Read More](https://medium.com/p/8a7f1ffa796e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 14:00:56 GMT | Immutable Infrastructure — How Kernel-Level Protection Reinforces Web3 | Abatis ABTU | [Read More](https://medium.com/p/633864194d30) |
 | Fri, 17 Oct 2025 13:57:25 GMT | Guys, Jangan Sampai “Kena Pancing”! Yuk, Belajar Bareng Cara Kenali Penipuan Online | Reksi | [Read More](https://medium.com/p/54a9d1ef9af0) |
 | Fri, 17 Oct 2025 13:55:01 GMT | How I Escalated a Dorm Payment Portal into a Full DMZ Compromise Part 2 | KonaN | [Read More](https://medium.com/p/0348a14a3ac5) |
-| Fri, 17 Oct 2025 13:54:22 GMT | ISO 27001:2022 Basic Terminologies | Parull Sharma | [Read More](https://medium.com/p/b6852eaa9324) |
-| Fri, 17 Oct 2025 13:48:00 GMT | Web Apps Running Slow? Here’s How to Fix That | Build Me App (BMA) | [Read More](https://medium.com/p/1d48431a22a0) |
