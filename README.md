@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 01:20:39 GMT | Not an Assassin | Mappx | [Read More](https://medium.com/p/37adff149f87) |
+| Fri, 17 Oct 2025 01:10:16 GMT | Practical Implementation of IaC Security with terraform-compliance | kaliarch | [Read More](https://medium.com/p/1e7df10fef96) |
+| Fri, 17 Oct 2025 01:03:00 GMT | HOW TO FIND STORED XSS IN GOOGLE ASSETS & XSS CHAINING TRICK IN CSP PROTECTED GOOGLE | Azza0X1A | [Read More](https://medium.com/p/b854ee029e45) |
+| Fri, 17 Oct 2025 00:59:19 GMT | Command Injections | SilentExploit | [Read More](https://medium.com/p/b13984ffa1df) |
+| Fri, 17 Oct 2025 00:56:04 GMT | Weaponizing Trust: How Attackers Exploit Valid Accounts After Phishing | Shivam Kanodia | [Read More](https://medium.com/p/1e21516bab5f) |
+| Fri, 17 Oct 2025 00:49:34 GMT | Reclaim Your True Self: Stop Faking It to Make It | Napoleon Beltran | [Read More](https://medium.com/p/7a3935ea0a16) |
+| Fri, 17 Oct 2025 00:40:23 GMT | Key takeaways from leading my first Incident Response | 0xPhelanLabs | [Read More](https://medium.com/p/496995880c80) |
+| Fri, 17 Oct 2025 00:21:51 GMT | Como não lidar com senhas expostas em repositórios | njcholas | [Read More](https://medium.com/p/b21dd20f9793) |
+| Fri, 17 Oct 2025 00:20:54 GMT | writing makes me feel like an asshole | Lizzie Klingsporn | [Read More](https://medium.com/p/fd3a7c590603) |
+| Fri, 17 Oct 2025 00:15:14 GMT | Why 83% of organization implemented Zero trust Model? | Raviteja Mureboina | [Read More](https://medium.com/p/c123dca00a1c) |
+| Fri, 17 Oct 2025 00:01:49 GMT | Guía Completa de Dnsx para la Resolución Masiva de DNS y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/20714c2dbc01) |
+| Thu, 16 Oct 2025 23:45:34 GMT | Inside the Graffiti Kings: A Former Admin’s Testimony on Art, Hype, and Market Manipulation | Crypto Vigilante | [Read More](https://medium.com/p/68480aa1c876) |
+| Thu, 16 Oct 2025 23:35:30 GMT | On Finding Love in a Hopeless Place | Fadhil | [Read More](https://medium.com/p/6587aefc85c7) |
 | Thu, 16 Oct 2025 23:31:54 GMT | CISA Flags Critical Adobe AEM Vulnerability Under Active Exploitation | IamPreth | [Read More](https://medium.com/p/a5b0a176373b) |
 | Thu, 16 Oct 2025 23:19:06 GMT | My First Full PKI Setup: Root CA, Intermediate CA, and HTTPS with Flask | Clarisa Ortega | [Read More](https://medium.com/p/635ac9712886) |
 | Thu, 16 Oct 2025 23:03:34 GMT | Weaponizing Claude Code Skills: From 5*5 to Remote Shell | Yosif qasim | [Read More](https://medium.com/p/a14af2d109c9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 16:25:21 GMT | ️ jsrip — Automated JavaScript Ripper & Analyzer for Bug Hunters | Moute | [Read More](https://medium.com/p/7e57d72a858b) |
 | Thu, 16 Oct 2025 16:24:27 GMT | ️‍♂️ CTFs ≠ Real-World Hacking | Chhavipreet Kaur | [Read More](https://medium.com/p/6516077aacf7) |
 | Thu, 16 Oct 2025 16:23:37 GMT | Join Clado Solutions — Top IT Courses and Certification in Kochi | Clado Solutions | [Read More](https://medium.com/p/a8c91da0f4e7) |
-| Thu, 16 Oct 2025 16:20:13 GMT | Why My FileReader Base64 Conversion Failed and How I Fixed It | Shilpe Saxena | [Read More](https://medium.com/p/4b17192da124) |
-| Thu, 16 Oct 2025 16:16:51 GMT | AI Knows Your Secrets. Therapy Makes You Unhackable | Herman Fransen | [Read More](https://medium.com/p/cb3c1b863ef4) |
-| Thu, 16 Oct 2025 16:16:45 GMT | I Warned Google About AI Poisoning Attacks. | Jonathan R Belanger | [Read More](https://medium.com/p/50d68e7bfa00) |
-| Thu, 16 Oct 2025 16:14:30 GMT | When Your Spring Boot App Decides to Share Secrets with Strangers | Vivek D | [Read More](https://medium.com/p/67fca4c96599) |
-| Thu, 16 Oct 2025 16:08:40 GMT | What Qatar Got In Return | Geopolitics Explained | [Read More](https://medium.com/p/b658cff92cf4) |
-| Thu, 16 Oct 2025 16:06:06 GMT | Project 63: Safeguarding Responsible Transparency in Puerto Rico | The Architect | [Read More](https://medium.com/p/43e27639a824) |
-| Thu, 16 Oct 2025 16:04:59 GMT | The Future of End-to-End Encryption | MongoDB | [Read More](https://medium.com/p/530c5daff03b) |
-| Thu, 16 Oct 2025 16:04:08 GMT | That Gut-Wrenching Moment Your Instagram Is Hacked (And the 4 Steps to Actually Get It Back) | Muhammad Hassan Ali | [Read More](https://medium.com/p/fe47b5e390b3) |
-| Thu, 16 Oct 2025 16:03:35 GMT | CVE-2025–61882 — Oracle E-Business Suite Pre-Auth RCE Exploit | Aditya Bhatt | [Read More](https://medium.com/p/5f6a85d11639) |
-| Thu, 16 Oct 2025 16:02:29 GMT | Love a good juicy steak? Here, all you’ll get is spam! | SafeNetting | [Read More](https://medium.com/p/258f2655ccdd) |
-| Thu, 16 Oct 2025 15:59:15 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/ef2f656b21f7) |
-| Thu, 16 Oct 2025 15:53:01 GMT | The Rise of the Discount Stock Broker Market: Redefining How the World Trades | Kaverigiri | [Read More](https://medium.com/p/b3e7c01abe8b) |
-| Thu, 16 Oct 2025 15:51:08 GMT | How I Almost Got Scammed Buying a Watch Online | Zamani Digital | [Read More](https://medium.com/p/cfdd93f7100f) |
