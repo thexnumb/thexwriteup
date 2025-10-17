@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 13:20:00 GMT | When Convenience Becomes the Weakest Link | Rabail Zaheer | [Read More](https://medium.com/p/90a52feeea78) |
+| Fri, 17 Oct 2025 13:19:53 GMT | Investigating Risky Sign-ins and Impossible Travel Alerts in Microsoft Entra ID | Nick Bayne | [Read More](https://medium.com/p/404ee998e7d8) |
+| Fri, 17 Oct 2025 13:18:41 GMT | HTB_Academy: Extracting Passwords from Windows Systems Part 4:Attacking Active Directory and NTDS.di | Babatunde Ojo | [Read More](https://medium.com/p/f258e4901c49) |
+| Fri, 17 Oct 2025 13:12:46 GMT | Mapping the Domain: Inside PowerView Enumeration Attacks (Windows and Active Directory Attacks) | Ammar Ahmed | [Read More](https://medium.com/p/e0a992105d03) |
+| Fri, 17 Oct 2025 13:12:01 GMT | The Complete SQLMap Tutorial: From Zero to Advanced Mastery | Ibtissam hammadi | [Read More](https://medium.com/p/fd0126037737) |
+| Fri, 17 Oct 2025 13:02:25 GMT | The GRC Toolkit: Frameworks, Regulations, and Tools You’ll Actually Use | Samuel Odekunle | [Read More](https://medium.com/p/cf04b875a65c) |
+| Fri, 17 Oct 2025 12:56:58 GMT | Küçük bir hatanın doğurduğu sonuçlar - Bugbounty Bounty Write Up | mehmet şerif paşa | [Read More](https://medium.com/p/6dc82dc38b41) |
+| Fri, 17 Oct 2025 12:55:47 GMT | Building Trust Through Protection: What Sets a Great Security Company Apart | Keith Fowler | [Read More](https://medium.com/p/d35b23d216e5) |
+| Fri, 17 Oct 2025 12:50:50 GMT | Women Leading the Cybersecurity Frontier: Stories of Mentorship and Community Impact | Marissa Arbour | [Read More](https://medium.com/p/f0d2b47c8ed4) |
+| Fri, 17 Oct 2025 12:48:55 GMT | UnHackable- Learn the techniques hackers use to protect their own digital self ! | Cyberbali | [Read More](https://medium.com/p/bbc3dd220b82) |
+| Fri, 17 Oct 2025 12:47:56 GMT | OverTheWire Level 0–23 | Gülçiçək Hüseynova | [Read More](https://medium.com/p/f85965e1b025) |
+| Fri, 17 Oct 2025 12:45:24 GMT | From EternalBlue to Web Exploits: Why Cybersecurity Is More Than Just Hacking | Hemraj | [Read More](https://medium.com/p/f0c5e46268f3) |
 | Fri, 17 Oct 2025 12:35:12 GMT | Fortifying Your Fortress: Securing API Keys with Android NDK | Sivavishnu | [Read More](https://medium.com/p/9d5eb2481ec5) |
 | Fri, 17 Oct 2025 12:31:49 GMT | Hype’s High, Reality’s Low: A Trial Run with Claude Sonnet 4 | Namir Sagheenanajar | [Read More](https://medium.com/p/3c014ca399b5) |
 | Fri, 17 Oct 2025 12:31:06 GMT | Top Cybersecurity Threats in 2025 & How to Effectively Prevent It? | Mahalakshmi Institutions | [Read More](https://medium.com/p/ea51ae00f7d2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 06:19:55 GMT | The Freedom of Failure: Why You Must Lower the Bar of External Expectations | Yash Patil | [Read More](https://medium.com/p/edaefdf7e517) |
 | Fri, 17 Oct 2025 06:18:59 GMT | The 7 Layers Every Cybersecurity Pro Must Know | Rakshitha | [Read More](https://medium.com/p/d3e549729c03) |
 | Fri, 17 Oct 2025 06:17:05 GMT | Top 10 Cyber Security Interview Questions and Answers (2025) | cybersecuritycourse | [Read More](https://medium.com/p/225365b4a2eb) |
-| Fri, 17 Oct 2025 06:16:49 GMT | Top 10 Cybersecurity Startups in India | Manisha Chaudhary | [Read More](https://medium.com/p/b66a5f91933e) |
-| Fri, 17 Oct 2025 06:15:44 GMT | HackTheBox — Baby | PizzSec | [Read More](https://medium.com/p/cdd78e08ede6) |
-| Fri, 17 Oct 2025 06:14:32 GMT | The Corix Partners Friday Reading List — October 17, 2025 | JC Gaillard | [Read More](https://medium.com/p/f0e8b7f6fafe) |
-| Fri, 17 Oct 2025 06:13:40 GMT | Cloud + AI Threat Detection System: Building Smarter Cyber Defense on AWS | Shubhamghorapade | [Read More](https://medium.com/p/b810083ecdd3) |
-| Fri, 17 Oct 2025 06:11:11 GMT | Informatica Mastering ETL Performance with Informatica: A Complete Guide | Zayn | [Read More](https://medium.com/p/b6b46159e313) |
-| Fri, 17 Oct 2025 06:06:46 GMT | Quantum-Resistant Cybersecurity: Securing the Future of Digital Protection | Job24by7 | [Read More](https://medium.com/p/a3444c6db9d1) |
-| Fri, 17 Oct 2025 06:05:59 GMT | Understanding Timing Attacks — The Hidden Security Threat in Your Code | imam hasan | [Read More](https://medium.com/p/a0dbdace1aca) |
-| Fri, 17 Oct 2025 05:55:57 GMT | Digital Footprints 2025: Protect Your Online Identity Before It Protects You | Cyber Kanun | [Read More](https://medium.com/p/0f639ba2d33a) |
-| Fri, 17 Oct 2025 05:50:28 GMT | How to Secure Your Homelab Network from the Ground Up | Andrei Ivan | [Read More](https://medium.com/p/ebb64df82e94) |
-| Fri, 17 Oct 2025 05:37:26 GMT | Regex Backtracking Meltdowns: One Pattern, 100% CPU | Quantum Tricks | [Read More](https://medium.com/p/1a58837efeda) |
-| Fri, 17 Oct 2025 05:25:41 GMT | Hack WiFi with a $15 Raspberry Pi Zero and Kali Linux | Shahzaib | [Read More](https://medium.com/p/c7e11223977d) |
-| Fri, 17 Oct 2025 05:23:22 GMT | Email Verification OTP Bypass €€ — How I verified any email | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/470cec0dbca5) |
