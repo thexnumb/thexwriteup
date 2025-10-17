@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 09:21:32 GMT | Portswigger (Business Logic Flaw) Lab 1: Excessive Trust in Client-Side Controls | Bridget | [Read More](https://medium.com/p/b93712034508) |
+| Fri, 17 Oct 2025 09:16:57 GMT | The Pentester’s Guide to Active Directory: My First Steps in AD Exploitation | Andrei Ivan | [Read More](https://medium.com/p/762cdb07608c) |
+| Fri, 17 Oct 2025 09:11:59 GMT | Software Composition Analysis (SCA): Securing Your Software Supply Chain -Part 01 | XoX | [Read More](https://medium.com/p/6d610f27a85b) |
+| Fri, 17 Oct 2025 09:01:51 GMT | How Much Does SOC 2 Really Cost in 2025? | Hicomply | [Read More](https://medium.com/p/10ebd4f8100f) |
+| Fri, 17 Oct 2025 09:00:08 GMT | The Python Projects That Get You Hired in 2025 | Rocky | [Read More](https://medium.com/p/a4c4d449078a) |
+| Fri, 17 Oct 2025 08:59:09 GMT | What Secures What an Agent Executes? | Jon Capriola | [Read More](https://medium.com/p/8a4a0a0641fd) |
+| Fri, 17 Oct 2025 08:56:00 GMT | Is Your Email Hacked? Here’s How to Find Out (and What to Do Next) | Mekkaoui Omar | [Read More](https://medium.com/p/d703d9efc64e) |
+| Fri, 17 Oct 2025 08:50:25 GMT | “Bbbbloat” challenge | oussama | [Read More](https://medium.com/p/091838c1123a) |
+| Fri, 17 Oct 2025 08:46:19 GMT | Let’s Skip to the Part Where You’re Tired | Clown Face | [Read More](https://medium.com/p/6d8aa5b284a4) |
+| Fri, 17 Oct 2025 08:45:41 GMT | How to Choose the Perfect GRC Platform for Your Compliance Strategy | SecureSlate | [Read More](https://medium.com/p/51ef28437851) |
 | Fri, 17 Oct 2025 08:42:15 GMT | Cryptology 1: Basics | Simron Sharma | [Read More](https://medium.com/p/e87e340f4009) |
 | Fri, 17 Oct 2025 08:39:12 GMT | Why I’m Obsessing Over the Raspberry Pi Zero W ? | Satyam Pathania | [Read More](https://medium.com/p/a90425b971bc) |
 | Fri, 17 Oct 2025 08:35:12 GMT | How To Create Self-Signed OpenSSL Certificates & SSH Keys on Ubuntu | Swapnil Damate, PMP® | [Read More](https://medium.com/p/67fae8f5af6f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 00:56:04 GMT | Weaponizing Trust: How Attackers Exploit Valid Accounts After Phishing | Shivam Kanodia | [Read More](https://medium.com/p/1e21516bab5f) |
 | Fri, 17 Oct 2025 00:49:34 GMT | Reclaim Your True Self: Stop Faking It to Make It | Napoleon Beltran | [Read More](https://medium.com/p/7a3935ea0a16) |
 | Fri, 17 Oct 2025 00:40:23 GMT | Key takeaways from leading my first Incident Response | 0xPhelanLabs | [Read More](https://medium.com/p/496995880c80) |
-| Fri, 17 Oct 2025 00:21:51 GMT | Como não lidar com senhas expostas em repositórios | njcholas | [Read More](https://medium.com/p/b21dd20f9793) |
-| Fri, 17 Oct 2025 00:20:54 GMT | writing makes me feel like an asshole | Lizzie Klingsporn | [Read More](https://medium.com/p/fd3a7c590603) |
-| Fri, 17 Oct 2025 00:15:14 GMT | Why 83% of organization implemented Zero trust Model? | Raviteja Mureboina | [Read More](https://medium.com/p/c123dca00a1c) |
-| Fri, 17 Oct 2025 00:01:49 GMT | Guía Completa de Dnsx para la Resolución Masiva de DNS y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/20714c2dbc01) |
-| Thu, 16 Oct 2025 23:45:34 GMT | Inside the Graffiti Kings: A Former Admin’s Testimony on Art, Hype, and Market Manipulation | Crypto Vigilante | [Read More](https://medium.com/p/68480aa1c876) |
-| Thu, 16 Oct 2025 23:35:30 GMT | On Finding Love in a Hopeless Place | Fadhil | [Read More](https://medium.com/p/6587aefc85c7) |
-| Thu, 16 Oct 2025 23:31:54 GMT | CISA Flags Critical Adobe AEM Vulnerability Under Active Exploitation | IamPreth | [Read More](https://medium.com/p/a5b0a176373b) |
-| Thu, 16 Oct 2025 23:19:06 GMT | My First Full PKI Setup: Root CA, Intermediate CA, and HTTPS with Flask | Clarisa Ortega | [Read More](https://medium.com/p/635ac9712886) |
-| Thu, 16 Oct 2025 23:03:34 GMT | Weaponizing Claude Code Skills: From 5*5 to Remote Shell | Yosif qasim | [Read More](https://medium.com/p/a14af2d109c9) |
-| Thu, 16 Oct 2025 23:02:30 GMT | The Universal Union: A Digital Empire Shielded by Global Corruption | RandomGPT | [Read More](https://medium.com/p/c938b17cf962) |
