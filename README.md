@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 18:37:33 GMT | Does Lisp’s Elegant Design Reveal Hidden Nature of Security Vulnerabilities? | Paul Duplys | [Read More](https://medium.com/p/865877265d98) |
+| Fri, 17 Oct 2025 18:31:15 GMT | BADBOX 2.0: Blurring the line between bots and human for cybercrime | Robert Vamosi | [Read More](https://medium.com/p/54f2119f2012) |
+| Fri, 17 Oct 2025 18:26:18 GMT | Teaching from the Heart | hello heide | [Read More](https://medium.com/p/4b4bb323bf9f) |
 | Fri, 17 Oct 2025 18:18:24 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Smith Adams | [Read More](https://medium.com/p/3ba583263149) |
 | Fri, 17 Oct 2025 18:18:21 GMT | Your Wi-Fi is Vulnerable. Here is How to Test (and Fix) the WPS Flaw Using Only Your Android Phone | Kambetastephano | [Read More](https://medium.com/p/9b73b5404e73) |
 | Fri, 17 Oct 2025 18:11:26 GMT | “Unveiling the Network: How IP Sweeping Scripts Reveal Hidden Devices and Strengthen Security” | MAV Singh | [Read More](https://medium.com/p/b8df620833ae) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 11:39:14 GMT | How One Tiny IDOR Created a Digital Domino Effect That Toppled Their Entire Security | Iski | [Read More](https://medium.com/p/5959ffeeae34) |
 | Fri, 17 Oct 2025 11:34:21 GMT | 15+ Years. 5 Lessons. What Building Enterprise Software Really Taught Me | Clement Nkamanyi | [Read More](https://medium.com/p/b5476c44d461) |
 | Fri, 17 Oct 2025 11:31:59 GMT | Critical Exploits and Coordinated Attacks Define This Week’s Cyber Frontline | Loginsoft | [Read More](https://medium.com/p/3097270b9d0f) |
-| Fri, 17 Oct 2025 11:15:18 GMT | Event Security Management: Ensuring Safety with Securycor | uk service | [Read More](https://medium.com/p/b57d9ae9bc48) |
-| Fri, 17 Oct 2025 11:11:49 GMT | Intercepting Implicit Intents To Load Arbitrary URLs In Android | Redfox Security | [Read More](https://medium.com/p/b2cf5d428c2b) |
-| Fri, 17 Oct 2025 11:10:56 GMT | Top 10 Companies Hiring Cyber Security Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/dd7e08e3f94f) |
