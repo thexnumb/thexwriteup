@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 15:15:06 GMT | GZR Observer — Global Daily — Oct 17, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f5cedf7f9cb2) |
+| Fri, 17 Oct 2025 14:54:02 GMT | Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Server Security Now | Very Lazy Tech | [Read More](https://medium.com/p/96ebdc38ed1b) |
+| Fri, 17 Oct 2025 14:44:16 GMT | BlueTeam Copilot: Building an AI-Driven SOC Assistant with Human-in-the-Loop Safeguards | Shreyas Karle | [Read More](https://medium.com/p/8be1443ad6fc) |
+| Fri, 17 Oct 2025 14:41:27 GMT | The Unreliable Watermark | Tom Yonashiro | [Read More](https://medium.com/p/b8c3264b93ab) |
+| Fri, 17 Oct 2025 14:37:52 GMT | The Rise of “Robo-Cops” and AI in Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/05bf9d32533f) |
 | Fri, 17 Oct 2025 14:31:53 GMT | Everyone has a story to tell — if only you have the ear or the heart to listen. | Nikhil Lodha | [Read More](https://medium.com/p/a0e143f7f9d5) |
 | Fri, 17 Oct 2025 14:24:33 GMT | Leap Powers Consultants on the Move | Douglas DeMaio | [Read More](https://medium.com/p/9c78b3f1e0b1) |
 | Fri, 17 Oct 2025 14:23:39 GMT | Port Scanning and Enumeration with Armitage | Dharmendrakumar | [Read More](https://medium.com/p/c7e5d5a6d2fd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 08:06:25 GMT | Top 10 In-Demand IT Skills for 2025 | Generiss Academy | [Read More](https://medium.com/p/ff37c023e249) |
 | Fri, 17 Oct 2025 08:04:06 GMT | Advanced Permission Schemes for Multi-Department Structures | Erdem UÇAK | [Read More](https://medium.com/p/5b548eb5283a) |
 | Fri, 17 Oct 2025 08:02:22 GMT | Account Takeover via IDOR: From UserID to Full Access | 0xP0L73R63157 | [Read More](https://medium.com/p/ade4f980cfb4) |
-| Fri, 17 Oct 2025 08:02:20 GMT | Why Offensive Security Exists: You Can’t Build Better Walls Without Thinking Like a Thief | MayhemCode | [Read More](https://medium.com/p/dbd428845841) |
-| Fri, 17 Oct 2025 08:02:19 GMT | Turn On Domain Leak Alerts in 2 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/4d7cab12df97) |
-| Fri, 17 Oct 2025 07:59:49 GMT | Соответствие облачной инфраструктуры закону PDP в Индонезии: полное руководство на 2025 год | قلم | [Read More](https://medium.com/p/cb08d1566c0b) |
-| Fri, 17 Oct 2025 07:57:43 GMT | From Lab to Real-World: Level Up Your Cyber Skills ️️⚡ | Chhavipreet Kaur | [Read More](https://medium.com/p/eabdde15c72e) |
-| Fri, 17 Oct 2025 07:51:33 GMT | Palo Alto Networks Unit 42 Penetration Testing: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c43003b9c102) |
