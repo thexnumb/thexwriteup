@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 05:09:42 GMT | Infrastructure as Intelligent Service Orchestration: GenAI, AI Agents, and ITIL in Action | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/748bcf1fcb59) |
+| Fri, 17 Oct 2025 04:50:56 GMT | Recon For Bug Bounty Hunting | Md. Raihan | [Read More](https://medium.com/p/f466fce74709) |
+| Fri, 17 Oct 2025 04:50:14 GMT | What to Check Before Choosing a Security Screen Company | Brisbane Security Screens | [Read More](https://medium.com/p/45d7e387219b) |
+| Fri, 17 Oct 2025 04:50:05 GMT | What Lies Beneath My Skirt? | richa shukla | [Read More](https://medium.com/p/5fe6201cfcaa) |
+| Fri, 17 Oct 2025 04:32:56 GMT | Software Supply Chain Security: Fortifying the Foundation ️ | Ishita Kundu | [Read More](https://medium.com/p/af13cbccc3e4) |
+| Fri, 17 Oct 2025 04:32:04 GMT | TryHackMe #127 - Snapped Phish-ing Line | SiberYuk | [Read More](https://medium.com/p/1712b34c7cda) |
 | Fri, 17 Oct 2025 04:28:27 GMT | Making Sense of RAG, Agentic AI, and the New Attack Surface | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/555a22cac4df) |
 | Fri, 17 Oct 2025 04:26:18 GMT | TryHackMe #126 - The Greenholt Phish | SiberYuk | [Read More](https://medium.com/p/911a72e1478d) |
 | Fri, 17 Oct 2025 04:21:52 GMT | TryHackMe #125 - Phishing Prevention | SiberYuk | [Read More](https://medium.com/p/47f0a30e27cb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 18:15:57 GMT | 21 HTML Form Validation and Best Practices | Rana Awais | [Read More](https://medium.com/p/a7ddd0ec4456) |
 | Thu, 16 Oct 2025 18:12:43 GMT | Clear Criminal Records - Database | BlackHat | [Read More](https://medium.com/p/2ecb5b4d8aca) |
 | Thu, 16 Oct 2025 18:11:42 GMT | 20 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/fda1207f7ddc) |
-| Thu, 16 Oct 2025 18:09:43 GMT | How I Turned My Cybersecurity ML Project Into a Cloud-Powered System: Straight from GitHub… | Twinkle Jaineera | [Read More](https://medium.com/p/e247126a8ba2) |
-| Thu, 16 Oct 2025 18:09:38 GMT | I used to think hacking was 90% typing and 10% staring at error messages. | Viratavi | [Read More](https://medium.com/p/ccd74afe5a14) |
-| Thu, 16 Oct 2025 18:08:08 GMT | 19 HTML Table Formatting and Styling | Rana Awais | [Read More](https://medium.com/p/fd053da8b332) |
-| Thu, 16 Oct 2025 18:04:24 GMT | Digital Footprint: What You Post Today Can Affect Tomorrow | Asif.k | [Read More](https://medium.com/p/18786a9d4d46) |
-| Thu, 16 Oct 2025 18:01:42 GMT | HacktheBox: Delivery Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/02e877884af0) |
-| Thu, 16 Oct 2025 17:59:06 GMT | Your Digital Keys: Why a Strong Password Is Your First Line of Defense in the Cyber World | Irteza Asad | [Read More](https://medium.com/p/64c69d46a334) |
