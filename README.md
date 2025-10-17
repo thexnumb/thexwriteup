@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 05:25:41 GMT | Hack WiFi with a $15 Raspberry Pi Zero and Kali Linux | Shahzaib | [Read More](https://medium.com/p/c7e11223977d) |
+| Fri, 17 Oct 2025 05:23:22 GMT | Email Verification OTP Bypass €€ — How I verified any email | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/470cec0dbca5) |
+| Fri, 17 Oct 2025 05:22:23 GMT | Obinna Ofodile: From Defender on the Basketball Court to the Frontlines of Quantum-Safe… | John McCormick | [Read More](https://medium.com/p/f74fc6b876f8) |
+| Fri, 17 Oct 2025 05:20:33 GMT | A Deep Dive into GenAI System Architecture: From Clients to LLM Inference | Le Thanh Phuc (Lee) | [Read More](https://medium.com/p/07bbb0c3f38a) |
+| Fri, 17 Oct 2025 05:18:46 GMT | The macOS Forensic Journey — Software Updates (SoftwareUpdate.plist) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c3164034904a) |
+| Fri, 17 Oct 2025 05:16:02 GMT | One Link, One Report, One Four-Digit Bounty | Narayanan M | [Read More](https://medium.com/p/a4a682a9b612) |
 | Fri, 17 Oct 2025 05:09:42 GMT | Infrastructure as Intelligent Service Orchestration: GenAI, AI Agents, and ITIL in Action | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/748bcf1fcb59) |
+| Fri, 17 Oct 2025 04:57:55 GMT | Menyelami Dunia Bug Hunting: Perjalanan Awal Seorang Mahasiswa IT | Mzhilmi | [Read More](https://medium.com/p/bc83fcdabe3d) |
 | Fri, 17 Oct 2025 04:50:56 GMT | Recon For Bug Bounty Hunting | Md. Raihan | [Read More](https://medium.com/p/f466fce74709) |
 | Fri, 17 Oct 2025 04:50:14 GMT | What to Check Before Choosing a Security Screen Company | Brisbane Security Screens | [Read More](https://medium.com/p/45d7e387219b) |
 | Fri, 17 Oct 2025 04:50:05 GMT | What Lies Beneath My Skirt? | richa shukla | [Read More](https://medium.com/p/5fe6201cfcaa) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 18:47:53 GMT | Don’t Be Fooled by Malicious Ads on Google! | Danielle Koppel | [Read More](https://medium.com/p/35b50975b5e5) |
 | Thu, 16 Oct 2025 18:47:27 GMT | Beware of DocuSign Threats! | Danielle Koppel | [Read More](https://medium.com/p/c4dbd0497485) |
 | Thu, 16 Oct 2025 18:46:21 GMT | Artificial Intelligence and Development Ethics: Balancing Innovation with Humanity | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2f27e1a7ad74) |
-| Thu, 16 Oct 2025 18:34:18 GMT | Le vapotage: études récentes, risques sanitaires et réalité du marché | Deloanroyal | [Read More](https://medium.com/p/ca719021a1ed) |
-| Thu, 16 Oct 2025 18:31:14 GMT | ️ Charla + laboratorio: cómo se encontró un IDOR real (HackerOne) y cómo mitigarlo | Gorka | [Read More](https://medium.com/p/5ebbe8868a37) |
-| Thu, 16 Oct 2025 18:30:00 GMT | How PAM Relates to IAM (Identity and Access Management) | Ahmed Abdelrazek | [Read More](https://medium.com/p/eae1651b05c6) |
-| Thu, 16 Oct 2025 18:29:27 GMT | Multi-Cloud & Multi-Tool Security Model (MCMTSM) — or Cloud Security Model(CSM) | Abel López | [Read More](https://medium.com/p/2cc071bc3bbc) |
-| Thu, 16 Oct 2025 18:15:57 GMT | 21 HTML Form Validation and Best Practices | Rana Awais | [Read More](https://medium.com/p/a7ddd0ec4456) |
-| Thu, 16 Oct 2025 18:12:43 GMT | Clear Criminal Records - Database | BlackHat | [Read More](https://medium.com/p/2ecb5b4d8aca) |
-| Thu, 16 Oct 2025 18:11:42 GMT | 20 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/fda1207f7ddc) |
