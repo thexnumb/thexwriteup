@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Fri, 17 Oct 2025 09:21:32 GMT | Portswigger (Business Logic Flaw) Lab 1: Excessive Trust in Client-Side Controls | Bridget | [Read More](https://medium.com/p/b93712034508) |
+| Fri, 17 Oct 2025 09:18:39 GMT | Portswigger Academy — Reflected XSS into a JavaScript string with angle brackets and double quotes… | Alan | [Read More](https://medium.com/p/935a2cc3fbf6) |
 | Fri, 17 Oct 2025 09:16:57 GMT | The Pentester’s Guide to Active Directory: My First Steps in AD Exploitation | Andrei Ivan | [Read More](https://medium.com/p/762cdb07608c) |
 | Fri, 17 Oct 2025 09:11:59 GMT | Software Composition Analysis (SCA): Securing Your Software Supply Chain -Part 01 | XoX | [Read More](https://medium.com/p/6d610f27a85b) |
 | Fri, 17 Oct 2025 09:01:51 GMT | How Much Does SOC 2 Really Cost in 2025? | Hicomply | [Read More](https://medium.com/p/10ebd4f8100f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 00:59:19 GMT | Command Injections | SilentExploit | [Read More](https://medium.com/p/b13984ffa1df) |
 | Fri, 17 Oct 2025 00:56:04 GMT | Weaponizing Trust: How Attackers Exploit Valid Accounts After Phishing | Shivam Kanodia | [Read More](https://medium.com/p/1e21516bab5f) |
 | Fri, 17 Oct 2025 00:49:34 GMT | Reclaim Your True Self: Stop Faking It to Make It | Napoleon Beltran | [Read More](https://medium.com/p/7a3935ea0a16) |
-| Fri, 17 Oct 2025 00:40:23 GMT | Key takeaways from leading my first Incident Response | 0xPhelanLabs | [Read More](https://medium.com/p/496995880c80) |
