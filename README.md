@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 16:08:07 GMT | They’re Selling Soulmates for $45.76 — And People Are Buying It | Tanmay Kumar Dalai | [Read More](https://medium.com/p/717a9821b03d) |
+| Fri, 17 Oct 2025 16:05:53 GMT | When No One Believes You: A True Story of Cybercrime, Ignored Warnings, and Stolen Credit | Krystal | [Read More](https://medium.com/p/0c601ba3303f) |
+| Fri, 17 Oct 2025 15:53:01 GMT | The Multi-Billion Dollar Solution: Philosophical & Epistemological Stabilization as the Answer to… | Julian Soloninka | [Read More](https://medium.com/p/a06f50c98555) |
+| Fri, 17 Oct 2025 15:50:19 GMT | Try hack me - Cipher’s Secret Message — Walkthrough. | Chaitanya Garware | [Read More](https://medium.com/p/c611931c054e) |
+| Fri, 17 Oct 2025 15:35:37 GMT | Smart IT Support for Nonprofits in Riverside, CA: Balancing Mission, Budget, and Security | Zeta Sky | [Read More](https://medium.com/p/0a0ee7dd5e30) |
 | Fri, 17 Oct 2025 15:34:08 GMT | ⚡ The Future Is at the Edge: Exploring the Edge AI Processor Market | Kaverigiri | [Read More](https://medium.com/p/a38ea40aea1d) |
 | Fri, 17 Oct 2025 15:26:35 GMT | IdentityServer 4 ve Duende IdentityServer: Geçiş, Lisanslama ve .NET Uyumluluğu | Mustafa Dikyar | [Read More](https://medium.com/p/3941d8e706da) |
 | Fri, 17 Oct 2025 15:24:42 GMT | Vulnerability of letting people in | sam's | [Read More](https://medium.com/p/e24d3b3af870) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 08:42:15 GMT | Cryptology 1: Basics | Simron Sharma | [Read More](https://medium.com/p/e87e340f4009) |
 | Fri, 17 Oct 2025 08:39:12 GMT | Why I’m Obsessing Over the Raspberry Pi Zero W ? | Satyam Pathania | [Read More](https://medium.com/p/a90425b971bc) |
 | Fri, 17 Oct 2025 08:35:12 GMT | How To Create Self-Signed OpenSSL Certificates & SSH Keys on Ubuntu | Swapnil Damate, PMP® | [Read More](https://medium.com/p/67fae8f5af6f) |
-| Fri, 17 Oct 2025 08:29:25 GMT | Produced by SlowMist: Common Cryptographic Risks in Blockchain-Applications | SlowMist | [Read More](https://medium.com/p/4a8b36411441) |
-| Fri, 17 Oct 2025 08:24:13 GMT | What Is Passkey Sign In? Simple Guide 2025 | Shoaib Ahmed | [Read More](https://medium.com/p/667bb73a792f) |
-| Fri, 17 Oct 2025 08:15:02 GMT | DockerLabs Writeup — ChocoPing (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/78385211764c) |
-| Fri, 17 Oct 2025 08:11:34 GMT | VAB-5000: Making Workplaces Smarter and Safer with MediaTek | Scottlewis | [Read More](https://medium.com/p/ad5db45d23f7) |
-| Fri, 17 Oct 2025 08:07:51 GMT | Can You Trust What Your AI Learned? A Deep Dive into LLM04 | Rabia AMAAOUCH | [Read More](https://medium.com/p/bc6963c35d73) |
