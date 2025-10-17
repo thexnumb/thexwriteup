@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 07:07:57 GMT | The Dark Side: Hackers Using AI to Breach Security | Deepak Sharma | [Read More](https://medium.com/p/6989afee704d) |
+| Fri, 17 Oct 2025 07:06:01 GMT | The Big, Beautiful SOC Project: Building the Foundations of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/c04d0624208f) |
+| Fri, 17 Oct 2025 07:05:10 GMT | The Journey of Identity: From the Guillotine to Blockchain | World United | [Read More](https://medium.com/p/9541632a30be) |
+| Fri, 17 Oct 2025 06:55:02 GMT | Day 69- Web-based attacks & the OWASP Top 10 for beginners | unica 02 | [Read More](https://medium.com/p/87cd1a61f05b) |
+| Fri, 17 Oct 2025 06:45:34 GMT | Secure By Design: How Enterprises Should Harden Blockchain Apps in Cloud | Serishahid | [Read More](https://medium.com/p/2fec5e19bb37) |
+| Fri, 17 Oct 2025 06:43:19 GMT | It wasn’t just another class activity, it was hands-on learning, teamwork, and problem-solving in… | Adeleke Theophilus O | [Read More](https://medium.com/p/ddef2c8ea8c1) |
 | Fri, 17 Oct 2025 06:30:22 GMT | From €1500 to €0.50: A Bug Bounty Story of Payment Flow Manipulation | Erkan Kavas | [Read More](https://medium.com/p/d845cc2c903d) |
+| Fri, 17 Oct 2025 06:30:19 GMT | Red Teaming Mobile Apps: The Hidden Dangers of Excessive Permissions | Raj Prasad Kuiri | [Read More](https://medium.com/p/11f46e0fbb41) |
 | Fri, 17 Oct 2025 06:23:57 GMT | Laravel Security 101: Melindungi Aplikasi dari SQL Injection, XSS, dan CSRF | M Farras Majid | [Read More](https://medium.com/p/94e644afeef3) |
+| Fri, 17 Oct 2025 06:19:55 GMT | The Freedom of Failure: Why You Must Lower the Bar of External Expectations | Yash Patil | [Read More](https://medium.com/p/edaefdf7e517) |
 | Fri, 17 Oct 2025 06:18:59 GMT | The 7 Layers Every Cybersecurity Pro Must Know | Rakshitha | [Read More](https://medium.com/p/d3e549729c03) |
 | Fri, 17 Oct 2025 06:17:05 GMT | Top 10 Cyber Security Interview Questions and Answers (2025) | cybersecuritycourse | [Read More](https://medium.com/p/225365b4a2eb) |
 | Fri, 17 Oct 2025 06:16:49 GMT | Top 10 Cybersecurity Startups in India | Manisha Chaudhary | [Read More](https://medium.com/p/b66a5f91933e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 19:52:37 GMT | The Gaza Exchange: Ceasefire or Strategic Illusion? | Josefine A. Brinley | [Read More](https://medium.com/p/be95a6dbf366) |
 | Thu, 16 Oct 2025 19:52:02 GMT | Day 11 of my Cybersecurity journey: Linux Shell and Scripting. | Ogundipe Priscilla | [Read More](https://medium.com/p/979c870b3bbf) |
 | Thu, 16 Oct 2025 19:49:33 GMT | IT Architecture is about drawing lines | Mohammed Brückner | [Read More](https://medium.com/p/364ea0173143) |
-| Thu, 16 Oct 2025 19:41:32 GMT | Blockchain Design Principles: Security | 0xR2R | [Read More](https://medium.com/p/ce87cf83b790) |
-| Thu, 16 Oct 2025 19:40:34 GMT | Forecasting Network Traffic with Efficient Transformers | Jude Canady | [Read More](https://medium.com/p/eaf6e6586a02) |
-| Thu, 16 Oct 2025 19:36:55 GMT | An Overview of Intrusion Detection and Prevention Systems (IDS/IPS) | Cyber_Phoenix | [Read More](https://medium.com/p/7ac8e51ae2d7) |
-| Thu, 16 Oct 2025 19:36:01 GMT | Insetinho | Eduardo A. A. Almeida | [Read More](https://medium.com/p/547223e78521) |
-| Thu, 16 Oct 2025 19:35:53 GMT | From Curves to Matrices: A New Algebraic Attack on Elliptic Curve Cryptography | Mathews Abraão | [Read More](https://medium.com/p/a9c284e43717) |
-| Thu, 16 Oct 2025 19:33:43 GMT | 10 Smart Home Security Tips Every Ottawa Homeowner Should Know | Stubs | [Read More](https://medium.com/p/2e89491850e1) |
-| Thu, 16 Oct 2025 19:25:06 GMT | Japan and Costa Rica, countries without armies. | Chronicles of the Past | [Read More](https://medium.com/p/a0920e464e18) |
-| Thu, 16 Oct 2025 19:18:59 GMT | Scorecard | Jude Canady | [Read More](https://medium.com/p/a8ee35abd419) |
