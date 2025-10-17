@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 08:42:15 GMT | Cryptology 1: Basics | Simron Sharma | [Read More](https://medium.com/p/e87e340f4009) |
+| Fri, 17 Oct 2025 08:39:12 GMT | Why I’m Obsessing Over the Raspberry Pi Zero W ? | Satyam Pathania | [Read More](https://medium.com/p/a90425b971bc) |
+| Fri, 17 Oct 2025 08:35:12 GMT | How To Create Self-Signed OpenSSL Certificates & SSH Keys on Ubuntu | Swapnil Damate, PMP® | [Read More](https://medium.com/p/67fae8f5af6f) |
+| Fri, 17 Oct 2025 08:29:25 GMT | Produced by SlowMist: Common Cryptographic Risks in Blockchain-Applications | SlowMist | [Read More](https://medium.com/p/4a8b36411441) |
+| Fri, 17 Oct 2025 08:24:13 GMT | What Is Passkey Sign In? Simple Guide 2025 | Shoaib Ahmed | [Read More](https://medium.com/p/667bb73a792f) |
 | Fri, 17 Oct 2025 08:15:02 GMT | DockerLabs Writeup — ChocoPing (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/78385211764c) |
 | Fri, 17 Oct 2025 08:11:34 GMT | VAB-5000: Making Workplaces Smarter and Safer with MediaTek | Scottlewis | [Read More](https://medium.com/p/ad5db45d23f7) |
 | Fri, 17 Oct 2025 08:07:51 GMT | Can You Trust What Your AI Learned? A Deep Dive into LLM04 | Rabia AMAAOUCH | [Read More](https://medium.com/p/bc6963c35d73) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Oct 2025 23:19:06 GMT | My First Full PKI Setup: Root CA, Intermediate CA, and HTTPS with Flask | Clarisa Ortega | [Read More](https://medium.com/p/635ac9712886) |
 | Thu, 16 Oct 2025 23:03:34 GMT | Weaponizing Claude Code Skills: From 5*5 to Remote Shell | Yosif qasim | [Read More](https://medium.com/p/a14af2d109c9) |
 | Thu, 16 Oct 2025 23:02:30 GMT | The Universal Union: A Digital Empire Shielded by Global Corruption | RandomGPT | [Read More](https://medium.com/p/c938b17cf962) |
-| Thu, 16 Oct 2025 23:00:21 GMT | Apa itu IAM ? | Abdul Azizalrasyid | [Read More](https://medium.com/p/dcf64a9818c2) |
-| Thu, 16 Oct 2025 22:57:08 GMT | IT Audits: What an IT Auditor Really Thinks (Spoiler: It’s Not Just About Scaring You) | Tsiedner | [Read More](https://medium.com/p/165049e7059b) |
-| Thu, 16 Oct 2025 22:44:43 GMT | EvilAI: The Fake AI Tools That Are Hacking the World | Cyber-AppSec | [Read More](https://medium.com/p/795bb617073c) |
-| Thu, 16 Oct 2025 22:35:08 GMT | Microservices Without the Buzzwords: What Leaders Really Need to Know | Tabitha Foster | [Read More](https://medium.com/p/0eec148de9f3) |
-| Thu, 16 Oct 2025 22:32:46 GMT | The Intelligence-Driven Adversary Emulation Framework (IDAEA-F) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/3b6c4a5df2b3) |
