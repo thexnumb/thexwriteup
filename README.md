@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 11:34:21 GMT | 15+ Years. 5 Lessons. What Building Enterprise Software Really Taught Me | Clement Nkamanyi | [Read More](https://medium.com/p/b5476c44d461) |
 | Fri, 17 Oct 2025 11:15:18 GMT | Event Security Management: Ensuring Safety with Securycor | uk service | [Read More](https://medium.com/p/b57d9ae9bc48) |
 | Fri, 17 Oct 2025 11:11:49 GMT | Intercepting Implicit Intents To Load Arbitrary URLs In Android | Redfox Security | [Read More](https://medium.com/p/b2cf5d428c2b) |
 | Fri, 17 Oct 2025 11:10:56 GMT | Top 10 Companies Hiring Cyber Security Professionals | Manisha Chaudhary | [Read More](https://medium.com/p/dd7e08e3f94f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 04:21:52 GMT | TryHackMe #125 - Phishing Prevention | SiberYuk | [Read More](https://medium.com/p/47f0a30e27cb) |
 | Fri, 17 Oct 2025 04:16:25 GMT | TryHackMe #124 - Phishing Analysis Tools | SiberYuk | [Read More](https://medium.com/p/85f793e3fec1) |
 | Fri, 17 Oct 2025 04:12:03 GMT | TryHackMe #123 - Phishing Emails in Action | SiberYuk | [Read More](https://medium.com/p/390e499ebc09) |
-| Fri, 17 Oct 2025 04:07:01 GMT | TryHackMe #122 - Phishing Analysis Fundamentals | SiberYuk | [Read More](https://medium.com/p/aea48f0d9e93) |
