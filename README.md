@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 14:31:53 GMT | Everyone has a story to tell — if only you have the ear or the heart to listen. | Nikhil Lodha | [Read More](https://medium.com/p/a0e143f7f9d5) |
+| Fri, 17 Oct 2025 14:24:33 GMT | Leap Powers Consultants on the Move | Douglas DeMaio | [Read More](https://medium.com/p/9c78b3f1e0b1) |
+| Fri, 17 Oct 2025 14:23:39 GMT | Port Scanning and Enumeration with Armitage | Dharmendrakumar | [Read More](https://medium.com/p/c7e5d5a6d2fd) |
+| Fri, 17 Oct 2025 14:21:50 GMT | Linux: Post Exploitation Lab I | Dharmendrakumar | [Read More](https://medium.com/p/0ddc64f9625e) |
+| Fri, 17 Oct 2025 14:17:42 GMT | CAP-HTB-Writeup | Aashraymt | [Read More](https://medium.com/p/7e3ff9092b81) |
 | Fri, 17 Oct 2025 14:07:26 GMT | What Apple’s $2M (and up to $5M) Bug-Bounty Push Teaches Us About Fighting Spyware | ven coding | [Read More](https://medium.com/p/bf7e5fd66d15) |
 | Fri, 17 Oct 2025 14:01:56 GMT | Cyber Briefing: 2025. | CyberMaterial | [Read More](https://medium.com/p/34da82596446) |
 | Fri, 17 Oct 2025 14:00:56 GMT | Immutable Infrastructure — How Kernel-Level Protection Reinforces Web3 | Abatis ABTU | [Read More](https://medium.com/p/633864194d30) |
+| Fri, 17 Oct 2025 13:57:25 GMT | Guys, Jangan Sampai “Kena Pancing”! Yuk, Belajar Bareng Cara Kenali Penipuan Online | Reksi | [Read More](https://medium.com/p/54a9d1ef9af0) |
 | Fri, 17 Oct 2025 13:55:01 GMT | How I Escalated a Dorm Payment Portal into a Full DMZ Compromise Part 2 | KonaN | [Read More](https://medium.com/p/0348a14a3ac5) |
 | Fri, 17 Oct 2025 13:54:22 GMT | ISO 27001:2022 Basic Terminologies | Parull Sharma | [Read More](https://medium.com/p/b6852eaa9324) |
 | Fri, 17 Oct 2025 13:48:00 GMT | Web Apps Running Slow? Here’s How to Fix That | Build Me App (BMA) | [Read More](https://medium.com/p/1d48431a22a0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 07:59:49 GMT | Соответствие облачной инфраструктуры закону PDP в Индонезии: полное руководство на 2025 год | قلم | [Read More](https://medium.com/p/cb08d1566c0b) |
 | Fri, 17 Oct 2025 07:57:43 GMT | From Lab to Real-World: Level Up Your Cyber Skills ️️⚡ | Chhavipreet Kaur | [Read More](https://medium.com/p/eabdde15c72e) |
 | Fri, 17 Oct 2025 07:51:33 GMT | Palo Alto Networks Unit 42 Penetration Testing: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c43003b9c102) |
-| Fri, 17 Oct 2025 07:47:44 GMT | Best Security Solutions Provider in Panchkula. | Meghaharmedia | [Read More](https://medium.com/p/5fde25775c0a) |
-| Fri, 17 Oct 2025 07:47:33 GMT | Today’s Top Cyber Intelligence Highlights — Oct 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/dcb6374e314c) |
-| Fri, 17 Oct 2025 07:46:01 GMT | HTB Write-up: Cicada — SMB & LDAP Enumeration, Backup Operators Group Abuse | thebugitself | [Read More](https://medium.com/p/7b2d6a953109) |
-| Fri, 17 Oct 2025 07:41:37 GMT | Digital Transformation Budgets: Where the Dollars Go | M. Faisal Fariduddin Attar Nasution | [Read More](https://medium.com/p/f82d3d87a885) |
-| Fri, 17 Oct 2025 07:36:27 GMT | Surah Al-Mulk (67:5) The Protective Nature of the Sky | insha zulfiqar | [Read More](https://medium.com/p/a28c14850d48) |
-| Fri, 17 Oct 2025 07:32:17 GMT | Ransomware 3.0: Fidye Notundan Önce Gelen Sessizlik.. | Ersinkaradag | [Read More](https://medium.com/p/8b407b48bba0) |
