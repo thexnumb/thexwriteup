@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Oct 2025 23:27:36 GMT | Quantum Cybersecurity: Preparing Your Data for the Next Era | Mirza Niaz Morshed | [Read More](https://medium.com/p/9ef3bbb5d2e5) |
+| Fri, 17 Oct 2025 23:22:15 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/ffeee07a8f2a) |
+| Fri, 17 Oct 2025 23:18:22 GMT | Why Darkweb Marketplace Reviews Cannot Always Be Trusted | Tor BBB | [Read More](https://medium.com/p/3c8b99aeb203) |
 | Fri, 17 Oct 2025 22:58:58 GMT | TryHackMe Linux threat detection 3 Walkthrough | Tanwietayim A | [Read More](https://medium.com/p/1c2ca4271b68) |
 | Fri, 17 Oct 2025 22:57:38 GMT | Techno-Resurrection Has Begun | The Writings of Ericajean | [Read More](https://medium.com/p/57ce73de9fb7) |
 | Fri, 17 Oct 2025 22:56:35 GMT | Day 5: The Day Someone Ordered Pizza… and Crashed an Entire City | Mr £n1s4 | [Read More](https://medium.com/p/72d26f59cc30) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 14:44:16 GMT | BlueTeam Copilot: Building an AI-Driven SOC Assistant with Human-in-the-Loop Safeguards | Shreyas Karle | [Read More](https://medium.com/p/8be1443ad6fc) |
 | Fri, 17 Oct 2025 14:41:27 GMT | The Unreliable Watermark | Tom Yonashiro | [Read More](https://medium.com/p/b8c3264b93ab) |
 | Fri, 17 Oct 2025 14:37:52 GMT | The Rise of “Robo-Cops” and AI in Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/05bf9d32533f) |
-| Fri, 17 Oct 2025 14:31:53 GMT | Everyone has a story to tell — if only you have the ear or the heart to listen. | Nikhil Lodha | [Read More](https://medium.com/p/a0e143f7f9d5) |
-| Fri, 17 Oct 2025 14:24:33 GMT | Leap Powers Consultants on the Move | Douglas DeMaio | [Read More](https://medium.com/p/9c78b3f1e0b1) |
-| Fri, 17 Oct 2025 14:23:39 GMT | Port Scanning and Enumeration with Armitage | Dharmendrakumar | [Read More](https://medium.com/p/c7e5d5a6d2fd) |
