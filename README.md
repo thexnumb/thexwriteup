@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 17:02:19 GMT | Ehxb - Race Conditions Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/9eea8b145465) |
+| Sat, 18 Oct 2025 17:02:18 GMT | Offensive Security Intro — TryHackMe | Wesley Santos | [Read More](https://medium.com/p/c89ddcf94633) |
+| Sat, 18 Oct 2025 16:53:29 GMT | HTB Academy File Upload Attacks | Dennywise | [Read More](https://medium.com/p/266723a0025e) |
+| Sat, 18 Oct 2025 16:46:39 GMT | The Core Principles of Cybersecurity Every Beginner Should Know | Ferdi Edogawa | [Read More](https://medium.com/p/9b2894f7a208) |
+| Sat, 18 Oct 2025 16:45:48 GMT | Top 7 Cybersecurity News Stories You Can’t Miss (Oct 11–18, 2025) | Siva Desetti | [Read More](https://medium.com/p/3f9977efe4e1) |
+| Sat, 18 Oct 2025 16:38:47 GMT | Redoing my Channel | Flora | [Read More](https://medium.com/p/81038b9ec668) |
 | Sat, 18 Oct 2025 16:37:14 GMT | Beginner’s Guide to ISO 27001:2022 Making Information Security Simple | Parull Sharma | [Read More](https://medium.com/p/19c409c21ad0) |
 | Sat, 18 Oct 2025 16:35:38 GMT | Be Careful With Your Video Call Backgrounds. | Timothy Howley | [Read More](https://medium.com/p/e8f32f21ec06) |
 | Sat, 18 Oct 2025 16:31:36 GMT | SİBER GÜVENLİK NEDİR? Tehdit Türleri, Korunma Yöntemleri ve Hacker Gerçekleri | HSD Harran University | [Read More](https://medium.com/p/2ff9cdfbf8d0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 09:12:25 GMT | 5 Subtle Security Mistakes in API Development (That I Keep Seeing Everywhere) | Ujjawal Rohra | [Read More](https://medium.com/p/cd1aa1318811) |
 | Sat, 18 Oct 2025 09:10:59 GMT | Cyberattacks Skyrocketing? You’re Not Alone! | Truspex | [Read More](https://medium.com/p/9902eaa1fd38) |
 | Sat, 18 Oct 2025 08:55:59 GMT | Persistent Memory in SSDs and Its Security Threats | Bervice | [Read More](https://medium.com/p/ebf92a5e9ff3) |
-| Sat, 18 Oct 2025 08:41:47 GMT | Designing CCTV Systems for Manufacturing — What Most Providers Get Wrong | Luke Appleby | [Read More](https://medium.com/p/448a46832e75) |
-| Sat, 18 Oct 2025 08:33:37 GMT | Cybersecurity Threats Linked to Cracked Software: What You Need to Know | Digitaloffers | [Read More](https://medium.com/p/0ffd305dc16b) |
-| Sat, 18 Oct 2025 08:32:25 GMT | picoCTF by CMU-Africa | Himanshu | [Read More](https://medium.com/p/42137ad0ef09) |
-| Sat, 18 Oct 2025 08:28:04 GMT | Windows 11 Security Settings You Should Enable | Sahil | [Read More](https://medium.com/p/50ad0731781d) |
-| Sat, 18 Oct 2025 08:19:54 GMT | Why Using Cracked Software Is a Security Risk | akas | [Read More](https://medium.com/p/1866fbf0f7c2) |
-| Sat, 18 Oct 2025 08:19:39 GMT | ️ PenTest Walkthrough: Escalating from MSSQL to Domain Admin with Kerberos Silver Tickets —… | Maxwell Ferreira | [Read More](https://medium.com/p/04417f77053a) |
