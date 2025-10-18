@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 04:12:14 GMT | The Top 50 Python Cybersecurity Commands for Beginners | Hex Shift | [Read More](https://medium.com/p/235291c442e8) |
+| Sat, 18 Oct 2025 04:11:18 GMT | 24 HTML Layout and Structure Using Div and Span | Rana Awais | [Read More](https://medium.com/p/5629d804162b) |
+| Sat, 18 Oct 2025 04:06:58 GMT | 23 HTML Semantic Elements | Rana Awais | [Read More](https://medium.com/p/ea5cb3eae68e) |
+| Sat, 18 Oct 2025 04:03:23 GMT | 22 HTML Media Elements Audio and Video | Rana Awais | [Read More](https://medium.com/p/3deef790e9e7) |
+| Sat, 18 Oct 2025 03:56:55 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal… | Blackbox | [Read More](https://medium.com/p/9148c7e06cfc) |
+| Sat, 18 Oct 2025 03:41:52 GMT | How Hackers Turned Velociraptor Into a Ransomware Weapon | Deven Chhajed | [Read More](https://medium.com/p/c7528ea5095d) |
 | Sat, 18 Oct 2025 03:26:39 GMT | Phishing via Error Message — When UI Messages Become Attack Surfaces | Mandar Satam | [Read More](https://medium.com/p/1eca838fea3f) |
 | Sat, 18 Oct 2025 03:20:56 GMT | Nodes, Gateways and beyond. | Tushar Kulkarni | [Read More](https://medium.com/p/38c003f44e90) |
 | Sat, 18 Oct 2025 03:08:39 GMT | Threat Modelling — Stop Hackers First | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d2034510793f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 17:15:25 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/aaaed986f5c6) |
 | Fri, 17 Oct 2025 17:05:46 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9485c509c757) |
 | Fri, 17 Oct 2025 17:02:28 GMT | Can AI Replace Pen Testers? I Put It to the Test | Aj | [Read More](https://medium.com/p/05ba9bce25ef) |
-| Fri, 17 Oct 2025 17:01:52 GMT | Equity Dashboards Without Performative KPIs | Amanda Marie Olachea | [Read More](https://medium.com/p/cc829561b9f9) |
-| Fri, 17 Oct 2025 17:00:56 GMT | 011e021d6fa524b55bfc5ba67522daeb - MD5 Breakdown? | Ehxb | [Read More](https://medium.com/p/0d82846c0ff6) |
-| Fri, 17 Oct 2025 16:58:33 GMT | Day 10/100 The Anatomy of a SOC: Learning to See Like a Defender | Denise Sophy | [Read More](https://medium.com/p/35691394cabb) |
-| Fri, 17 Oct 2025 16:56:44 GMT | Solving On-Site Chaos: How Security Guard Management Software Fixes Real Operational Problems | Teona | [Read More](https://medium.com/p/de3a9f0cc71a) |
-| Fri, 17 Oct 2025 16:53:33 GMT | Layers of Me, Layers of You | Alex Anton | [Read More](https://medium.com/p/333e453eea3e) |
-| Fri, 17 Oct 2025 16:53:10 GMT | Man-in-the-Middle (MITM) Attacks: Eavesdropping on Communications | Cyber Security Research | [Read More](https://medium.com/p/2547e0aec002) |
