@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 17:26:12 GMT | 5G Networks and Security Challenges | Sudhakar Tiwari | [Read More](https://medium.com/p/6874a8c51e62) |
+| Sat, 18 Oct 2025 17:18:30 GMT | Lo-Fi TryHackMe Writeup | iIyas | [Read More](https://medium.com/p/c5e427826587) |
 | Sat, 18 Oct 2025 17:02:19 GMT | Ehxb - Race Conditions Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/9eea8b145465) |
 | Sat, 18 Oct 2025 17:02:18 GMT | Offensive Security Intro — TryHackMe | Wesley Santos | [Read More](https://medium.com/p/c89ddcf94633) |
 | Sat, 18 Oct 2025 16:53:29 GMT | HTB Academy File Upload Attacks | Dennywise | [Read More](https://medium.com/p/266723a0025e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 09:37:06 GMT | Anatomy of a Hack: Deconstructing the Cyber Kill Chain | Ddude | [Read More](https://medium.com/p/48e605dead9b) |
 | Sat, 18 Oct 2025 09:21:53 GMT | SMTP Protocol Security (part 1/2) | Pxl | [Read More](https://medium.com/p/cc26519a83bf) |
 | Sat, 18 Oct 2025 09:12:25 GMT | 5 Subtle Security Mistakes in API Development (That I Keep Seeing Everywhere) | Ujjawal Rohra | [Read More](https://medium.com/p/cd1aa1318811) |
-| Sat, 18 Oct 2025 09:10:59 GMT | Cyberattacks Skyrocketing? You’re Not Alone! | Truspex | [Read More](https://medium.com/p/9902eaa1fd38) |
-| Sat, 18 Oct 2025 08:55:59 GMT | Persistent Memory in SSDs and Its Security Threats | Bervice | [Read More](https://medium.com/p/ebf92a5e9ff3) |
