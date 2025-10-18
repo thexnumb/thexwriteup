@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 05:11:37 GMT | Democracy Needs a UX Update | Iliana Morgan Chevres | [Read More](https://medium.com/p/b1e23c2f79a5) |
+| Sat, 18 Oct 2025 05:03:49 GMT | PostgreSQL Security Headers for AI API Protection | Rizqi Mulki | [Read More](https://medium.com/p/98ea93340983) |
+| Sat, 18 Oct 2025 05:03:24 GMT | Why Local Software Support Beats DIY Installations Every Time | Ask IT Support | [Read More](https://medium.com/p/1612c0feeeb6) |
+| Sat, 18 Oct 2025 05:02:48 GMT | Cybersecurity Strategy is Hard — Because Real Change Always Is | JC Gaillard | [Read More](https://medium.com/p/a391c2d8e4ec) |
+| Sat, 18 Oct 2025 04:39:46 GMT | Automating a Safe DVWA Lab with Ansible: Build a Reproducible Vulnerable Environment for Training… | Andrey Pautov | [Read More](https://medium.com/p/026d74697c4a) |
+| Sat, 18 Oct 2025 04:39:17 GMT | trustroot LoAn App cusTomer Care Number (❼⓿)=®️(©- 7870014044 -)) Call | Sunita Murmu | [Read More](https://medium.com/p/a5ae6449e6fd) |
 | Sat, 18 Oct 2025 04:31:56 GMT | Palo Alto Networks AI Security Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/48906ba261d4) |
 | Sat, 18 Oct 2025 04:12:14 GMT | The Top 50 Python Cybersecurity Commands for Beginners | Hex Shift | [Read More](https://medium.com/p/235291c442e8) |
 | Sat, 18 Oct 2025 04:11:18 GMT | 24 HTML Layout and Structure Using Div and Span | Rana Awais | [Read More](https://medium.com/p/5629d804162b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 17:41:20 GMT | 516 Hackers’ Remarkable Journey (2020–2025): How They Recovered ₨2M and Made the Internet Safer —… | Asif Ali | [Read More](https://medium.com/p/94bb3a8266e0) |
 | Fri, 17 Oct 2025 17:38:19 GMT | How I Triage Phishing Emails: A SOC Analyst’s Practical Guide | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/cccb9bb91dd1) |
 | Fri, 17 Oct 2025 17:32:36 GMT | What Is a Storage Bucket in Cloud Computing? Explained with a Simple Analogy | Natarajan C K | [Read More](https://medium.com/p/4f87788ecfa6) |
-| Fri, 17 Oct 2025 17:27:36 GMT | Honestly, What is Wrong with Needing Someone? | musingsfrommarc | [Read More](https://medium.com/p/134fa68c55ac) |
-| Fri, 17 Oct 2025 17:23:02 GMT | Shift-Left Security in Agile Development | DevOps Security Hub | [Read More](https://medium.com/p/fde769cc811f) |
-| Fri, 17 Oct 2025 17:21:46 GMT | Don’t Trust ChatGPT: The Hidden Cost of Our AI Confidant | Salah eddine bel bekri | [Read More](https://medium.com/p/b40253257540) |
-| Fri, 17 Oct 2025 17:19:29 GMT | Not Every Table Deserves You — But You Deserve to Be Heard at the One That Does | Vijay Kumar Gupta | [Read More](https://medium.com/p/a91a801fcebb) |
-| Fri, 17 Oct 2025 17:15:25 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/aaaed986f5c6) |
-| Fri, 17 Oct 2025 17:05:46 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9485c509c757) |
