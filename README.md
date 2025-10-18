@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 22:10:17 GMT | GPT Switching to Medium: A Bug in Typing | Enyah Resah | [Read More](https://medium.com/p/69070d5cbdf9) |
+| Sat, 18 Oct 2025 22:04:41 GMT | My First Root: A Step-by-Step Guide to TryHackMe’s RootMe | EnochSignus | [Read More](https://medium.com/p/4aaa22edb262) |
+| Sat, 18 Oct 2025 21:57:34 GMT | ‘Great Hackers, Terrible Traders’: Crypto Exploiters Lose $13.4M in Market Panic | Imran Younas | [Read More](https://medium.com/p/8eddc4a58f41) |
+| Sat, 18 Oct 2025 21:54:03 GMT | Fire Watch Guards in Houston Texas | Twin City Security Houston | [Read More](https://medium.com/p/22eb4f9b891f) |
+| Sat, 18 Oct 2025 21:38:02 GMT | From Streets to Screens: The New Pickpockets of +254 | Steve Matindi | [Read More](https://medium.com/p/f6718738e1fc) |
+| Sat, 18 Oct 2025 21:33:01 GMT | From Student to Practitioner. Passing The Security+ and the Journey behind it | Incidalus | [Read More](https://medium.com/p/aa1ba3c78c83) |
 | Sat, 18 Oct 2025 21:22:39 GMT | How to Find Your First Database Vulnerability in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/2738e70cd979) |
 | Sat, 18 Oct 2025 21:01:50 GMT | The Future of Information Technology in the Global Job Market | Vertex University | [Read More](https://medium.com/p/b1be036dde49) |
 | Sat, 18 Oct 2025 21:00:19 GMT | Cybersecurity-focused Discord community | Cyb0rgBytes | [Read More](https://medium.com/p/91f03503235d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 12:21:01 GMT | Using Secrets from your 1Password Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/8c84f2006110) |
 | Sat, 18 Oct 2025 12:20:51 GMT | From Credentials to Control: Understanding Privilege Escalation in Windows Environments | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/f6a8023c2bf9) |
 | Sat, 18 Oct 2025 12:08:12 GMT | The Delete Button Anyone Could Press: How I Wiped a Store’s Catalog and Brought Products Back from… | Abdelrhman Reda | [Read More](https://medium.com/p/3eb8df9390a2) |
-| Sat, 18 Oct 2025 12:02:36 GMT | Careers in Cybersecurity: Life as a Security Analyst (SOC Edition) | Samuel Odekunle | [Read More](https://medium.com/p/399f7420233a) |
-| Sat, 18 Oct 2025 12:02:36 GMT | VLAN Hopping Attack and Prevention Examples | Esra Kayhan | [Read More](https://medium.com/p/f134eea37ac3) |
-| Sat, 18 Oct 2025 11:59:42 GMT | DockerLabs Writeup — Master (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9130a95360d1) |
-| Sat, 18 Oct 2025 11:46:30 GMT | Understanding Which of the Following Is an Application Layer Protocol | Devin Rosario | [Read More](https://medium.com/p/69273c74a735) |
-| Sat, 18 Oct 2025 11:27:00 GMT | SAKURA ROOM -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/21c07011a1e6) |
-| Sat, 18 Oct 2025 11:17:23 GMT | Malware Development: Writing a Keylogger in C (Part I) | Beri Contraster | [Read More](https://medium.com/p/0e5cbff87104) |
