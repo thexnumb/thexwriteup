@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 09:12:25 GMT | 5 Subtle Security Mistakes in API Development (That I Keep Seeing Everywhere) | Ujjawal Rohra | [Read More](https://medium.com/p/cd1aa1318811) |
+| Sat, 18 Oct 2025 09:10:59 GMT | Cyberattacks Skyrocketing? You’re Not Alone! | Truspex | [Read More](https://medium.com/p/9902eaa1fd38) |
+| Sat, 18 Oct 2025 08:55:59 GMT | Persistent Memory in SSDs and Its Security Threats | Bervice | [Read More](https://medium.com/p/ebf92a5e9ff3) |
+| Sat, 18 Oct 2025 08:41:47 GMT | Designing CCTV Systems for Manufacturing — What Most Providers Get Wrong | Luke Appleby | [Read More](https://medium.com/p/448a46832e75) |
 | Sat, 18 Oct 2025 08:33:37 GMT | Cybersecurity Threats Linked to Cracked Software: What You Need to Know | Digitaloffers | [Read More](https://medium.com/p/0ffd305dc16b) |
 | Sat, 18 Oct 2025 08:32:25 GMT | picoCTF by CMU-Africa | Himanshu | [Read More](https://medium.com/p/42137ad0ef09) |
 | Sat, 18 Oct 2025 08:28:04 GMT | Windows 11 Security Settings You Should Enable | Sahil | [Read More](https://medium.com/p/50ad0731781d) |
@@ -88,6 +92,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 01:25:56 GMT | Securing Containers and Kubernetes in the Cloud | Samina Perveen | [Read More](https://medium.com/p/2bfdab07045a) |
 | Sat, 18 Oct 2025 01:25:20 GMT | TPG Telecom IP Hosting CoinMiner & Android Malware Staging Server Dual Vector Campaign Exposed | Regan Temudo | [Read More](https://medium.com/p/0c741f5727ff) |
 | Sat, 18 Oct 2025 00:56:01 GMT | Exploring E-mail Encryption: My Adventures in Securing Digital Messages | Anderson Santos | [Read More](https://medium.com/p/3cbef473f8b3) |
+| Sat, 18 Oct 2025 00:52:08 GMT | Vulture’s Retreat | Liora Bloom | [Read More](https://medium.com/p/d32d194cdf97) |
 | Sat, 18 Oct 2025 00:31:23 GMT | Get Exclusive DORK Bonuses in October 2025 | DORK | [Read More](https://medium.com/p/a463732eaaa8) |
 | Sat, 18 Oct 2025 00:22:37 GMT | Your Face Is Now Your Prison: Inside the Global Surveillance State | Raf Vantongerloo | [Read More](https://medium.com/p/7cc5a28d38fb) |
 | Sat, 18 Oct 2025 00:15:02 GMT | Project 1 Blockchain | Andrew James | [Read More](https://medium.com/p/aa0c6884bdb9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 22:38:49 GMT | The Unbearable Lightness of Being Helpful (why Agentic coding sucks & how this ends) | Tomislav Glavaš | [Read More](https://medium.com/p/e8a9b67ef139) |
 | Fri, 17 Oct 2025 22:36:43 GMT | Backup Encryption Features in Newer Versions | Nurali ATMACA | [Read More](https://medium.com/p/e7d7047bd406) |
 | Fri, 17 Oct 2025 21:49:07 GMT | Snow-Crash-writup [level10] | B.R.O.L.Y | [Read More](https://medium.com/p/4626aaa57667) |
-| Fri, 17 Oct 2025 21:39:47 GMT | OpenShift: Security Context & Constraints | W. Jenks Gibbons | [Read More](https://medium.com/p/aa0c396a3741) |
-| Fri, 17 Oct 2025 21:32:14 GMT | How I Found 2 Medium Bugs That Broke Business Logic♦️ | Mado | [Read More](https://medium.com/p/8a6fbdcef287) |
-| Fri, 17 Oct 2025 21:29:00 GMT | How AI Agents Are Reshaping IT Integration: Smarter Workflows for Hybrid IT | Theo Ezell | [Read More](https://medium.com/p/bca428a46d5d) |
-| Fri, 17 Oct 2025 21:24:11 GMT | Your Firewall Isn’t Enough — Here’s Why CacheGuard Completes the Picture | CacheGuard Technologies | [Read More](https://medium.com/p/8a7f1ffa796e) |
-| Fri, 17 Oct 2025 21:17:49 GMT | Day 1 — Launching My 120-Day Purple Team & Cloud Incident Response Journey | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/38216f7d5910) |
