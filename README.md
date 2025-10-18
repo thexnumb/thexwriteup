@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 20:26:44 GMT | How I Accidentally Crashed My Company’s FortiGate Firewall: Uncovering a Hidden Attack Surface | soroush | [Read More](https://medium.com/p/fa40011b6e7f) |
+| Sat, 18 Oct 2025 20:17:49 GMT | The Paradox of Power — How Dictators Luxuriate in Freedom While Their People Languish in Chains | David SEHYEON Baek | [Read More](https://medium.com/p/197276155288) |
+| Sat, 18 Oct 2025 20:10:50 GMT | I’m Not Unhappy, But I’m Not Happy Either | Kakoli Aster♡ | [Read More](https://medium.com/p/85f529db5bd4) |
 | Sat, 18 Oct 2025 19:42:25 GMT | 10 Intriguing Cybersecurity Startup Ideas You Can Build as a Micro-SaaS | John Muconto | [Read More](https://medium.com/p/acc8b6640486) |
 | Sat, 18 Oct 2025 19:30:08 GMT | Day 13 of my Cybersecurity Journey: Networking Essentials. | Ogundipe Priscilla | [Read More](https://medium.com/p/23484199c0dd) |
 | Sat, 18 Oct 2025 19:27:55 GMT | IDOR lead to unauthorized Access Organizations function | HBlack Ghost | [Read More](https://medium.com/p/0dc707011dd1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 10:43:50 GMT | Quick guide — setup Ghost_Eye on Kali (plus a checklist to inspect your website’s security before… | Wajeeh | [Read More](https://medium.com/p/3cce37e42f2a) |
 | Sat, 18 Oct 2025 10:38:24 GMT | Understanding the World of Artificial Intelligence | Pietro Romano / SecBeret | [Read More](https://medium.com/p/881d5d85bd49) |
 | Sat, 18 Oct 2025 10:32:03 GMT | Single Sign-On (SSO) Explained Simply: The Master Key to Your Digital Doors | Natarajan C K | [Read More](https://medium.com/p/ec5a20c96b5f) |
-| Sat, 18 Oct 2025 10:19:41 GMT | RootMe TryHackMe Walkthrough — Upload Bypass, Reverse Shell & Privilege Escalation | 0xpynge | [Read More](https://medium.com/p/1b96d4331da7) |
-| Sat, 18 Oct 2025 10:17:12 GMT | Ethical Hacking - Activity 6 — Rootme TryHackMe Room | Forzr0nin | [Read More](https://medium.com/p/75a030cd46a8) |
-| Sat, 18 Oct 2025 10:16:10 GMT | Why Samsung A Series Phones Are Still the Smartest Buy in 2025 | Hana Saito | [Read More](https://medium.com/p/df73b8e6c06f) |
