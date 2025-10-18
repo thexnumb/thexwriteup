@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 16:22:33 GMT | Top 7 Ways Hackers Breach Active Directory | Cybersensus | [Read More](https://medium.com/p/c51792f46b13) |
+| Sat, 18 Oct 2025 16:11:18 GMT | Why I don’t feel comfortable in my own skin? | Dav_Moreuxx | [Read More](https://medium.com/p/f91cfa9fd1df) |
+| Sat, 18 Oct 2025 16:10:35 GMT | Maximize Your Benefits with Bugs Bunny  Rewards | Bugs Bunny | [Read More](https://medium.com/p/4d6a8433e291) |
+| Sat, 18 Oct 2025 16:04:01 GMT | The Numbers (Cryptography Writeup) | Zulfianarahmi | [Read More](https://medium.com/p/a7a2dcc51171) |
+| Sat, 18 Oct 2025 16:02:58 GMT | Redoing my channel | Flora | [Read More](https://medium.com/p/01cf588817b1) |
+| Sat, 18 Oct 2025 15:54:52 GMT | --Homomorphic Encryption | Kapil | [Read More](https://medium.com/p/a4e93d5d1e02) |
+| Sat, 18 Oct 2025 15:54:47 GMT | CSP Mastery: Clickjacking & Framing Controls (Series A-3) | Trevor Woollacott | [Read More](https://medium.com/p/09454a52750e) |
+| Sat, 18 Oct 2025 15:52:46 GMT | Understanding the Difference Between Threats, Vulnerabilities, and Risks | Nway Nway Zay Ya | [Read More](https://medium.com/p/8d97b5fb8365) |
+| Sat, 18 Oct 2025 15:46:53 GMT | They Trained for Phishing. Then the CEO Called — and It Was a Deepfake. | CyberGuide By MH | [Read More](https://medium.com/p/5b42a0c6209b) |
+| Sat, 18 Oct 2025 15:32:03 GMT | TryHackMe — Pickle Rick — Writeup | Sonny | [Read More](https://medium.com/p/3d7a07fc785d) |
 | Sat, 18 Oct 2025 15:16:44 GMT | Sneaking the Fence — Part 1 | ⚡️d4rk⚡️ | [Read More](https://medium.com/p/a2ad740ca261) |
 | Sat, 18 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 18, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f67b2eb72674) |
 | Sat, 18 Oct 2025 15:06:44 GMT | Chrome Extension for Temp Emails (For Bug Bounty Hunters & Cybersecurity Researchers ) | Shubham pawar | [Read More](https://medium.com/p/af25360ad2e1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 08:01:58 GMT | Stealer Logs 101: The Plain Text Threat Security Teams Miss | Alexandre Vandamme | [Read More](https://medium.com/p/4e43c4beec39) |
 | Sat, 18 Oct 2025 07:58:04 GMT | Our Data is Leaking from Space: A Wake-Up Call for the AI Era | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/b4f38ed33e73) |
 | Sat, 18 Oct 2025 07:56:46 GMT | Today’s Top Cyber Intelligence Highlights — Oct 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/32d97f1eae53) |
-| Sat, 18 Oct 2025 07:53:53 GMT | What Is an IP Logger? | H2bm | [Read More](https://medium.com/p/3f39c511a8f2) |
-| Sat, 18 Oct 2025 07:53:28 GMT | DevOps Article | ebenamor | [Read More](https://medium.com/p/a31d0252fad9) |
-| Sat, 18 Oct 2025 07:52:18 GMT | Why Being ‘Too Clingy’ Might Be the Healthiest Thing About You | NickWord | [Read More](https://medium.com/p/35e667183db9) |
-| Sat, 18 Oct 2025 07:49:43 GMT | How to Install Discord on Parrot OS (Step-by-Step Guide) | Rommel Galicia | [Read More](https://medium.com/p/d0f6015c406b) |
-| Sat, 18 Oct 2025 07:44:33 GMT | JWT: The Token Everyone Uses Wrong (And How to Fix It) | Serhii Malyshev | [Read More](https://medium.com/p/3ed3ddd07157) |
-| Sat, 18 Oct 2025 07:34:47 GMT | How to Prevent Cloud Data Breaches | Dkvilas | [Read More](https://medium.com/p/d845f2c6e26b) |
-| Sat, 18 Oct 2025 07:22:25 GMT | Mastering Product Management in the Tech Industry: A Strategic Approach | Aditya Raj | [Read More](https://medium.com/p/8a760715ee15) |
-| Sat, 18 Oct 2025 07:17:26 GMT | LazySysAdmin Walkthrough [Vulnhub] | Chinmay Talad | [Read More](https://medium.com/p/736faded2a92) |
-| Sat, 18 Oct 2025 07:15:08 GMT | Fortifying the Railways’ Backbone | Mark-It Hansraj | [Read More](https://medium.com/p/20dbfa9f1321) |
-| Sat, 18 Oct 2025 07:05:58 GMT | Migrating from Splunk to CrowdStrike Next-Gen SIEM | Saikat Paul | [Read More](https://medium.com/p/84b4c76c573e) |
