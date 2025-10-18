@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 13:37:01 GMT | Protect Your SaaS Stack: Why Endpoint Monitoring Completes Your Security Posture | Paul Meyer | [Read More](https://medium.com/p/681b2b094047) |
+| Sat, 18 Oct 2025 13:35:42 GMT | CS student tries to evade AV (PART 4) | Mahmudul Hasan | [Read More](https://medium.com/p/eca24ae85934) |
+| Sat, 18 Oct 2025 13:30:20 GMT | How to hack GMail password online: FREE methods of hackers | Vaveotechnology | [Read More](https://medium.com/p/1a7cdde92a3d) |
+| Sat, 18 Oct 2025 13:30:16 GMT | The Future of Free Speech Lies in Decentralized Messengers Like SecureBit.chat | Volodymyr | [Read More](https://medium.com/p/0c706c686c75) |
 | Sat, 18 Oct 2025 13:20:12 GMT | Freedom Insurance | Frank Gullo | [Read More](https://medium.com/p/a3cbdecb7cca) |
 | Sat, 18 Oct 2025 13:19:07 GMT | Instagram hacker tool — 9 FREE methods | Vaveotechnology | [Read More](https://medium.com/p/d427c9f703d4) |
 | Sat, 18 Oct 2025 13:16:06 GMT | The Silent Threat: Why a Tiny Drop of Poison Could Bring Down the Biggest AI | Shomya Soneji | [Read More](https://medium.com/p/e8ee312a67e9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 06:03:47 GMT | Agentic AI in Cybersecurity: The New Frontier of Digital Defense | Dawood thouseef | [Read More](https://medium.com/p/da0d1c71cd50) |
 | Sat, 18 Oct 2025 05:59:23 GMT | OWASP Mobile Top 10 — M9: Insecure Data Storage (“Writing your love letters on sticky notes and… | bithowl | [Read More](https://medium.com/p/6783217f1273) |
 | Sat, 18 Oct 2025 05:49:01 GMT | Why the Tecno Spark 20 Pro Plus Is a Game-Changer | Elowen Virelle | [Read More](https://medium.com/p/96b5eaf9d5bc) |
-| Sat, 18 Oct 2025 05:42:12 GMT | Maximize Your Benefits with BUG Rewards | BUG | [Read More](https://medium.com/p/04e07ef9fff2) |
-| Sat, 18 Oct 2025 05:34:04 GMT | Can AI Detect Insider Threats Before They Cause Damage? | Deepak Sharma | [Read More](https://medium.com/p/ad1d26f3bf00) |
-| Sat, 18 Oct 2025 05:23:23 GMT | F5 Breach Exposes BIG-IP Source Code: What You Need to Know | Ronaldo | [Read More](https://medium.com/p/3e49c906bf63) |
-| Sat, 18 Oct 2025 05:11:37 GMT | Democracy Needs a UX Update | Iliana Morgan Chevres | [Read More](https://medium.com/p/b1e23c2f79a5) |
