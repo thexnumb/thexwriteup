@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 13:20:12 GMT | Freedom Insurance | Frank Gullo | [Read More](https://medium.com/p/a3cbdecb7cca) |
+| Sat, 18 Oct 2025 13:19:07 GMT | Instagram hacker tool — 9 FREE methods | Vaveotechnology | [Read More](https://medium.com/p/d427c9f703d4) |
+| Sat, 18 Oct 2025 13:16:06 GMT | The Silent Threat: Why a Tiny Drop of Poison Could Bring Down the Biggest AI | Shomya Soneji | [Read More](https://medium.com/p/e8ee312a67e9) |
+| Sat, 18 Oct 2025 13:11:01 GMT | OpenCTI vs. MISP: A CTI Analyst’s Perspective on Two Core Threat Intelligence Platforms | Cyber threat intelligence | [Read More](https://medium.com/p/f21ca56b3c77) |
+| Sat, 18 Oct 2025 13:09:35 GMT | Gizlice Başlayan Nöral Devrim: İnsanlığın Büyük Gerçeği | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/ef6c88046b36) |
+| Sat, 18 Oct 2025 13:03:11 GMT | Hack a Facebook password — 6 working methods | Vaveotechnology | [Read More](https://medium.com/p/364e7010fd8b) |
+| Sat, 18 Oct 2025 13:02:39 GMT | Feedly vs. ThreatLandscapeMonitoring.com — A CTI Analyst’s Take | Cyber threat intelligence | [Read More](https://medium.com/p/f9961934a239) |
+| Sat, 18 Oct 2025 12:55:31 GMT | The Ultimate Browser Toolkit: Part 3 | XoX | [Read More](https://medium.com/p/2d63ef71fa5c) |
+| Sat, 18 Oct 2025 12:41:10 GMT | From Curiosity to Connection: My Experience Inside the RaccoonLine Network | ravensoul studio | [Read More](https://medium.com/p/839c0eb6676c) |
+| Sat, 18 Oct 2025 12:40:47 GMT | Learning Fortinet Firewall — LESSON 2: DNAT & PORT FORWARDING | Rouell Mamaril | [Read More](https://medium.com/p/71f53a11f96d) |
+| Sat, 18 Oct 2025 12:31:47 GMT | Tracking Kerberos & NTLM Authentication Failures and Investigation | Dean | [Read More](https://medium.com/p/67512861a65a) |
 | Sat, 18 Oct 2025 12:25:21 GMT | Wait, You’re Mining While Browsing? A Conversation About RaccoonLine dVPN | Murad Web3 | [Read More](https://medium.com/p/984eab857cc1) |
 | Sat, 18 Oct 2025 12:21:41 GMT | Our Tech is breaking the World. The ACM Code of Ethics is my Compass. | Maha Khalid | [Read More](https://medium.com/p/0e75185c5477) |
 | Sat, 18 Oct 2025 12:21:01 GMT | Using Secrets from your 1Password Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/8c84f2006110) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 05:34:04 GMT | Can AI Detect Insider Threats Before They Cause Damage? | Deepak Sharma | [Read More](https://medium.com/p/ad1d26f3bf00) |
 | Sat, 18 Oct 2025 05:23:23 GMT | F5 Breach Exposes BIG-IP Source Code: What You Need to Know | Ronaldo | [Read More](https://medium.com/p/3e49c906bf63) |
 | Sat, 18 Oct 2025 05:11:37 GMT | Democracy Needs a UX Update | Iliana Morgan Chevres | [Read More](https://medium.com/p/b1e23c2f79a5) |
-| Sat, 18 Oct 2025 05:09:47 GMT | PowerfulpStrengthening Enterprise Security with AWS and Open Source Intelligence | Ayeshazulfqar | [Read More](https://medium.com/p/26bcfc04f378) |
-| Sat, 18 Oct 2025 05:03:49 GMT | PostgreSQL Security Headers for AI API Protection | Rizqi Mulki | [Read More](https://medium.com/p/98ea93340983) |
-| Sat, 18 Oct 2025 05:03:24 GMT | Why Local Software Support Beats DIY Installations Every Time | Ask IT Support | [Read More](https://medium.com/p/1612c0feeeb6) |
-| Sat, 18 Oct 2025 05:02:48 GMT | Cybersecurity Strategy is Hard — Because Real Change Always Is | JC Gaillard | [Read More](https://medium.com/p/a391c2d8e4ec) |
-| Sat, 18 Oct 2025 04:39:46 GMT | Automating a Safe DVWA Lab with Ansible: Build a Reproducible Vulnerable Environment for Training… | Andrey Pautov | [Read More](https://medium.com/p/026d74697c4a) |
-| Sat, 18 Oct 2025 04:39:17 GMT | trustroot LoAn App cusTomer Care Number (❼⓿)=®️(©- 7870014044 -)) Call | Sunita Murmu | [Read More](https://medium.com/p/a5ae6449e6fd) |
-| Sat, 18 Oct 2025 04:31:56 GMT | Palo Alto Networks AI Security Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/48906ba261d4) |
-| Sat, 18 Oct 2025 04:12:14 GMT | The Top 50 Python Cybersecurity Commands for Beginners | Hex Shift | [Read More](https://medium.com/p/235291c442e8) |
-| Sat, 18 Oct 2025 04:11:18 GMT | 24 HTML Layout and Structure Using Div and Span | Rana Awais | [Read More](https://medium.com/p/5629d804162b) |
-| Sat, 18 Oct 2025 04:06:58 GMT | 23 HTML Semantic Elements | Rana Awais | [Read More](https://medium.com/p/ea5cb3eae68e) |
-| Sat, 18 Oct 2025 04:03:23 GMT | 22 HTML Media Elements Audio and Video | Rana Awais | [Read More](https://medium.com/p/3deef790e9e7) |
