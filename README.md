@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 09:21:53 GMT | SMTP Protocol Security (part 1/2) | Pxl | [Read More](https://medium.com/p/cc26519a83bf) |
 | Sat, 18 Oct 2025 09:12:25 GMT | 5 Subtle Security Mistakes in API Development (That I Keep Seeing Everywhere) | Ujjawal Rohra | [Read More](https://medium.com/p/cd1aa1318811) |
 | Sat, 18 Oct 2025 09:10:59 GMT | Cyberattacks Skyrocketing? You’re Not Alone! | Truspex | [Read More](https://medium.com/p/9902eaa1fd38) |
 | Sat, 18 Oct 2025 08:55:59 GMT | Persistent Memory in SSDs and Its Security Threats | Bervice | [Read More](https://medium.com/p/ebf92a5e9ff3) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 22:46:55 GMT | When Text Becomes the Payload: Detecting AI-Generated Cyberattacks in Real Time | Twinkle Jaineera | [Read More](https://medium.com/p/85bf84812283) |
 | Fri, 17 Oct 2025 22:38:49 GMT | The Unbearable Lightness of Being Helpful (why Agentic coding sucks & how this ends) | Tomislav Glavaš | [Read More](https://medium.com/p/e8a9b67ef139) |
 | Fri, 17 Oct 2025 22:36:43 GMT | Backup Encryption Features in Newer Versions | Nurali ATMACA | [Read More](https://medium.com/p/e7d7047bd406) |
-| Fri, 17 Oct 2025 21:49:07 GMT | Snow-Crash-writup [level10] | B.R.O.L.Y | [Read More](https://medium.com/p/4626aaa57667) |
