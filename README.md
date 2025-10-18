@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 04:31:56 GMT | Palo Alto Networks AI Security Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/48906ba261d4) |
 | Sat, 18 Oct 2025 04:12:14 GMT | The Top 50 Python Cybersecurity Commands for Beginners | Hex Shift | [Read More](https://medium.com/p/235291c442e8) |
 | Sat, 18 Oct 2025 04:11:18 GMT | 24 HTML Layout and Structure Using Div and Span | Rana Awais | [Read More](https://medium.com/p/5629d804162b) |
 | Sat, 18 Oct 2025 04:06:58 GMT | 23 HTML Semantic Elements | Rana Awais | [Read More](https://medium.com/p/ea5cb3eae68e) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 17:19:29 GMT | Not Every Table Deserves You — But You Deserve to Be Heard at the One That Does | Vijay Kumar Gupta | [Read More](https://medium.com/p/a91a801fcebb) |
 | Fri, 17 Oct 2025 17:15:25 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/aaaed986f5c6) |
 | Fri, 17 Oct 2025 17:05:46 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/9485c509c757) |
-| Fri, 17 Oct 2025 17:02:28 GMT | Can AI Replace Pen Testers? I Put It to the Test | Aj | [Read More](https://medium.com/p/05ba9bce25ef) |
