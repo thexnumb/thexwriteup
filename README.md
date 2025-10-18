@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 06:44:35 GMT | The Art of Web Penetration Testing | suraj baishya | [Read More](https://medium.com/p/e7d43d25a864) |
+| Sat, 18 Oct 2025 06:37:08 GMT | TryHackMe’s c4ptur3-th3-fl4g room — Writeup / Walk through | AhiLight | [Read More](https://medium.com/p/83a95f2c358a) |
+| Sat, 18 Oct 2025 06:35:49 GMT | Dubai’s Safety Secret? SIRA-Approved CCTV | Abhilashtec | [Read More](https://medium.com/p/6e09d1cb9fdb) |
+| Sat, 18 Oct 2025 06:25:47 GMT | Find out NoSQL Injection Vulnerability | MD FAYJUL KABIR | [Read More](https://medium.com/p/f0805bae834e) |
+| Sat, 18 Oct 2025 06:23:35 GMT | How Software Piracy Affects Cybersecurity Globally | Best Software Buy | [Read More](https://medium.com/p/ab0af95bd894) |
 | Sat, 18 Oct 2025 06:18:22 GMT | Cloud Misconfigurations Series: In-Depth Analysis of Azure Private Link | Hariharasudhan GK | [Read More](https://medium.com/p/1a8e2d1b5f95) |
 | Sat, 18 Oct 2025 06:18:06 GMT | How Software Piracy Affects Cybersecurity Globally | Best Software Buy | [Read More](https://medium.com/p/a12bdf03be16) |
 | Sat, 18 Oct 2025 06:17:31 GMT | Conquering the OSCP+: A Guide to the Mental Marathon | Joshua Alwin | [Read More](https://medium.com/p/a9ae235a523f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 18:57:36 GMT | Cybersecurity Concerns in Smart Water Infrastructure | Ayeni Oladayo | [Read More](https://medium.com/p/033520f2723f) |
 | Fri, 17 Oct 2025 18:55:00 GMT | Sem visibilidade, sem controle! | Sergio Junior | [Read More](https://medium.com/p/b739660e006b) |
 | Fri, 17 Oct 2025 18:52:29 GMT | The $50K security audit I do for every Lovable app( Steal this for free ) | Abhi$hek | [Read More](https://medium.com/p/7d270d825b33) |
-| Fri, 17 Oct 2025 18:51:19 GMT | Deploy Pro: FastAPI + MySQL em EC2 com Nginx Reverse Proxy (A Arquitetura Segura) | Felipe Pellizzari | [Read More](https://medium.com/p/5e85c2869e0a) |
-| Fri, 17 Oct 2025 18:43:23 GMT | Overthewire: Bandit Walkthrough | Luke Gearty | [Read More](https://medium.com/p/5dc4c69a9684) |
-| Fri, 17 Oct 2025 18:37:33 GMT | Does Lisp’s Elegant Design Reveal Hidden Nature of Security Vulnerabilities? | Paul Duplys | [Read More](https://medium.com/p/865877265d98) |
-| Fri, 17 Oct 2025 18:35:18 GMT | Vulnerability Scanning with Nessus on Kali Linux | Forid Ahammad Asik | [Read More](https://medium.com/p/eba8f33da55b) |
-| Fri, 17 Oct 2025 18:33:34 GMT | Real Progress Doesn’t Happen in Isolation | Jim Alkove | [Read More](https://medium.com/p/de12e6bb655b) |
