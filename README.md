@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 22:25:35 GMT | Android Users Beware: A New Flaw Lets Apps Steal Your 2FA Codes | Steve Matindi | [Read More](https://medium.com/p/82a09bcbff06) |
 | Sat, 18 Oct 2025 22:10:17 GMT | GPT Switching to Medium: A Bug in Typing | Enyah Resah | [Read More](https://medium.com/p/69070d5cbdf9) |
 | Sat, 18 Oct 2025 22:04:41 GMT | My First Root: A Step-by-Step Guide to TryHackMe’s RootMe | EnochSignus | [Read More](https://medium.com/p/4aaa22edb262) |
 | Sat, 18 Oct 2025 21:57:34 GMT | ‘Great Hackers, Terrible Traders’: Crypto Exploiters Lose $13.4M in Market Panic | Imran Younas | [Read More](https://medium.com/p/8eddc4a58f41) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 12:21:41 GMT | Our Tech is breaking the World. The ACM Code of Ethics is my Compass. | Maha Khalid | [Read More](https://medium.com/p/0e75185c5477) |
 | Sat, 18 Oct 2025 12:21:01 GMT | Using Secrets from your 1Password Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/8c84f2006110) |
 | Sat, 18 Oct 2025 12:20:51 GMT | From Credentials to Control: Understanding Privilege Escalation in Windows Environments | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/f6a8023c2bf9) |
-| Sat, 18 Oct 2025 12:08:12 GMT | The Delete Button Anyone Could Press: How I Wiped a Store’s Catalog and Brought Products Back from… | Abdelrhman Reda | [Read More](https://medium.com/p/3eb8df9390a2) |
