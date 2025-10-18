@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 06:18:22 GMT | Cloud Misconfigurations Series: In-Depth Analysis of Azure Private Link | Hariharasudhan GK | [Read More](https://medium.com/p/1a8e2d1b5f95) |
+| Sat, 18 Oct 2025 06:18:06 GMT | How Software Piracy Affects Cybersecurity Globally | Best Software Buy | [Read More](https://medium.com/p/a12bdf03be16) |
+| Sat, 18 Oct 2025 06:17:31 GMT | Conquering the OSCP+: A Guide to the Mental Marathon | Joshua Alwin | [Read More](https://medium.com/p/a9ae235a523f) |
+| Sat, 18 Oct 2025 06:16:28 GMT | VMware and Kali Linux Installation Guidance | CyberFaez | [Read More](https://medium.com/p/a01c3bfd9e3e) |
+| Sat, 18 Oct 2025 06:14:29 GMT | The Ultimate Guide to 20 Enterprise SIEM Tools for Finding Your Perfect Security Fit | Saikat Paul | [Read More](https://medium.com/p/18fc9acf03c9) |
+| Sat, 18 Oct 2025 06:03:47 GMT | Agentic AI in Cybersecurity: The New Frontier of Digital Defense | Dawood thouseef | [Read More](https://medium.com/p/da0d1c71cd50) |
+| Sat, 18 Oct 2025 05:59:23 GMT | OWASP Mobile Top 10 — M9: Insecure Data Storage (“Writing your love letters on sticky notes and… | bithowl | [Read More](https://medium.com/p/6783217f1273) |
+| Sat, 18 Oct 2025 05:49:01 GMT | Why the Tecno Spark 20 Pro Plus Is a Game-Changer | Elowen Virelle | [Read More](https://medium.com/p/96b5eaf9d5bc) |
+| Sat, 18 Oct 2025 05:42:12 GMT | Maximize Your Benefits with BUG Rewards | BUG | [Read More](https://medium.com/p/04e07ef9fff2) |
 | Sat, 18 Oct 2025 05:34:04 GMT | Can AI Detect Insider Threats Before They Cause Damage? | Deepak Sharma | [Read More](https://medium.com/p/ad1d26f3bf00) |
 | Sat, 18 Oct 2025 05:23:23 GMT | F5 Breach Exposes BIG-IP Source Code: What You Need to Know | Ronaldo | [Read More](https://medium.com/p/3e49c906bf63) |
 | Sat, 18 Oct 2025 05:11:37 GMT | Democracy Needs a UX Update | Iliana Morgan Chevres | [Read More](https://medium.com/p/b1e23c2f79a5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 18:37:33 GMT | Does Lisp’s Elegant Design Reveal Hidden Nature of Security Vulnerabilities? | Paul Duplys | [Read More](https://medium.com/p/865877265d98) |
 | Fri, 17 Oct 2025 18:35:18 GMT | Vulnerability Scanning with Nessus on Kali Linux | Forid Ahammad Asik | [Read More](https://medium.com/p/eba8f33da55b) |
 | Fri, 17 Oct 2025 18:33:34 GMT | Real Progress Doesn’t Happen in Isolation | Jim Alkove | [Read More](https://medium.com/p/de12e6bb655b) |
-| Fri, 17 Oct 2025 18:31:15 GMT | BADBOX 2.0: Blurring the line between bots and human for cybercrime | Robert Vamosi | [Read More](https://medium.com/p/54f2119f2012) |
-| Fri, 17 Oct 2025 18:26:18 GMT | Teaching from the Heart | hello heide | [Read More](https://medium.com/p/4b4bb323bf9f) |
-| Fri, 17 Oct 2025 18:18:24 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Smith Adams | [Read More](https://medium.com/p/3ba583263149) |
-| Fri, 17 Oct 2025 18:18:21 GMT | Your Wi-Fi is Vulnerable. Here is How to Test (and Fix) the WPS Flaw Using Only Your Android Phone | Kambetastephano | [Read More](https://medium.com/p/9b73b5404e73) |
-| Fri, 17 Oct 2025 18:11:26 GMT | “Unveiling the Network: How IP Sweeping Scripts Reveal Hidden Devices and Strengthen Security” | MAV Singh | [Read More](https://medium.com/p/b8df620833ae) |
-| Fri, 17 Oct 2025 18:02:38 GMT | Presentación de mi Masterclass de Bug Bounty — este fin de semana en Discord | Gorka | [Read More](https://medium.com/p/4327b9953240) |
-| Fri, 17 Oct 2025 17:59:05 GMT | Chinese Hackers Exploit ArcGIS Server as Backdoor | Himanshu Bhatt | [Read More](https://medium.com/p/2fa5c94d6bba) |
-| Fri, 17 Oct 2025 17:57:19 GMT | Security and Performance Aspects of Namespaces in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/48793fde4948) |
-| Fri, 17 Oct 2025 17:53:09 GMT | Pakistan’s Top Ethical Hackers Helping Victims for Free — The Story of 516 Hackers | Asif Ali | [Read More](https://medium.com/p/af5c6f5ce5fd) |
