@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 08:33:37 GMT | Cybersecurity Threats Linked to Cracked Software: What You Need to Know | Digitaloffers | [Read More](https://medium.com/p/0ffd305dc16b) |
+| Sat, 18 Oct 2025 08:32:25 GMT | picoCTF by CMU-Africa | Himanshu | [Read More](https://medium.com/p/42137ad0ef09) |
+| Sat, 18 Oct 2025 08:28:04 GMT | Windows 11 Security Settings You Should Enable | Sahil | [Read More](https://medium.com/p/50ad0731781d) |
+| Sat, 18 Oct 2025 08:19:54 GMT | Why Using Cracked Software Is a Security Risk | akas | [Read More](https://medium.com/p/1866fbf0f7c2) |
 | Sat, 18 Oct 2025 08:19:39 GMT | ️ PenTest Walkthrough: Escalating from MSSQL to Domain Admin with Kerberos Silver Tickets —… | Maxwell Ferreira | [Read More](https://medium.com/p/04417f77053a) |
+| Sat, 18 Oct 2025 08:15:26 GMT | Simple CTF — TryHackMe Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/48a769cd6e78) |
 | Sat, 18 Oct 2025 08:11:49 GMT | Unauthorized Access to Enterprise Policies Management: $500 BAC Bug | Abhi Sharma | [Read More](https://medium.com/p/60f04419fed4) |
 | Sat, 18 Oct 2025 08:11:20 GMT | 10 Useful Websites Like Grabify: Track, Shorten, and Analyze Links with Ease | H2bm | [Read More](https://medium.com/p/3a008857c0f7) |
 | Sat, 18 Oct 2025 08:07:25 GMT | Post-Quantum Cryptography in 2025: Preparing for the Quantum Threat | Techsby | [Read More](https://medium.com/p/bb0b00977d81) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 21:29:00 GMT | How AI Agents Are Reshaping IT Integration: Smarter Workflows for Hybrid IT | Theo Ezell | [Read More](https://medium.com/p/bca428a46d5d) |
 | Fri, 17 Oct 2025 21:24:11 GMT | Your Firewall Isn’t Enough — Here’s Why CacheGuard Completes the Picture | CacheGuard Technologies | [Read More](https://medium.com/p/8a7f1ffa796e) |
 | Fri, 17 Oct 2025 21:17:49 GMT | Day 1 — Launching My 120-Day Purple Team & Cloud Incident Response Journey | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/38216f7d5910) |
-| Fri, 17 Oct 2025 21:04:45 GMT | The Double-Edged Sword: Navigating the Hidden Security Risks of AI-Generated Code | Marcelo Falero | [Read More](https://medium.com/p/ff674cd41047) |
-| Fri, 17 Oct 2025 21:02:55 GMT | The Importance of Implementing Security in Programming: Practices and Techniques | Jessica Mai Tran | [Read More](https://medium.com/p/bdc9ec610b84) |
-| Fri, 17 Oct 2025 20:58:38 GMT | Your hotel keycard is a tiny computer | Samarth rawat | [Read More](https://medium.com/p/340f9b8ad0b3) |
-| Fri, 17 Oct 2025 20:53:15 GMT | Trusted Burglar Alarm Services in Aurora: Protecting Your Home and Business | American Security Professional | [Read More](https://medium.com/p/6ebbf81b1f73) |
-| Fri, 17 Oct 2025 20:40:38 GMT | When Security Is Treated as a Cost | scanf | [Read More](https://medium.com/p/4e5ef3a56295) |
