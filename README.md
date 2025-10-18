@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 23:05:02 GMT | Security Flaws in VS Extensions Expose Developers to Threats | Valentin Podkamennyi | [Read More](https://medium.com/p/45f54c081200) |
+| Sat, 18 Oct 2025 23:01:19 GMT | Automating Security with Tines and LimaCharlie | Mcl0ng0ng | [Read More](https://medium.com/p/4bdc0ff3256d) |
+| Sat, 18 Oct 2025 22:39:32 GMT | The QUAD at a Crossroads | Sumant Vidwans | [Read More](https://medium.com/p/0a6f66a345be) |
+| Sat, 18 Oct 2025 22:31:46 GMT | Inside the Firewall: How Your First Line Of Defense Actually works | Thegreatpayload | [Read More](https://medium.com/p/a7e9755203ed) |
 | Sat, 18 Oct 2025 22:25:35 GMT | Android Users Beware: A New Flaw Lets Apps Steal Your 2FA Codes | Steve Matindi | [Read More](https://medium.com/p/82a09bcbff06) |
 | Sat, 18 Oct 2025 22:10:17 GMT | GPT Switching to Medium: A Bug in Typing | Enyah Resah | [Read More](https://medium.com/p/69070d5cbdf9) |
 | Sat, 18 Oct 2025 22:04:41 GMT | My First Root: A Step-by-Step Guide to TryHackMe’s RootMe | EnochSignus | [Read More](https://medium.com/p/4aaa22edb262) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 12:41:10 GMT | From Curiosity to Connection: My Experience Inside the RaccoonLine Network | ravensoul studio | [Read More](https://medium.com/p/839c0eb6676c) |
 | Sat, 18 Oct 2025 12:40:47 GMT | Learning Fortinet Firewall — LESSON 2: DNAT & PORT FORWARDING | Rouell Mamaril | [Read More](https://medium.com/p/71f53a11f96d) |
 | Sat, 18 Oct 2025 12:31:47 GMT | Tracking Kerberos & NTLM Authentication Failures and Investigation | Dean | [Read More](https://medium.com/p/67512861a65a) |
-| Sat, 18 Oct 2025 12:25:21 GMT | Wait, You’re Mining While Browsing? A Conversation About RaccoonLine dVPN | Murad Web3 | [Read More](https://medium.com/p/984eab857cc1) |
-| Sat, 18 Oct 2025 12:21:41 GMT | Our Tech is breaking the World. The ACM Code of Ethics is my Compass. | Maha Khalid | [Read More](https://medium.com/p/0e75185c5477) |
-| Sat, 18 Oct 2025 12:21:01 GMT | Using Secrets from your 1Password Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/8c84f2006110) |
-| Sat, 18 Oct 2025 12:20:51 GMT | From Credentials to Control: Understanding Privilege Escalation in Windows Environments | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/f6a8023c2bf9) |
