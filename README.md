@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 01:26:24 GMT | Case Study: How OSINT Was Used in a Real Cyber Investigation | Shahzaib | [Read More](https://medium.com/p/ebb22e14105b) |
+| Sat, 18 Oct 2025 00:56:01 GMT | Exploring E-mail Encryption: My Adventures in Securing Digital Messages | Anderson Santos | [Read More](https://medium.com/p/3cbef473f8b3) |
+| Sat, 18 Oct 2025 00:31:23 GMT | Get Exclusive DORK Bonuses in October 2025 | DORK | [Read More](https://medium.com/p/a463732eaaa8) |
+| Sat, 18 Oct 2025 00:22:37 GMT | Your Face Is Now Your Prison: Inside the Global Surveillance State | Raf Vantongerloo | [Read More](https://medium.com/p/7cc5a28d38fb) |
+| Sat, 18 Oct 2025 00:15:02 GMT | Project 1 Blockchain | Andrew James | [Read More](https://medium.com/p/aa0c6884bdb9) |
+| Sat, 18 Oct 2025 00:13:01 GMT | Uncovering Your IT Identity: How to Choose a Fulfilling Tech Career | Jessica Mai Tran | [Read More](https://medium.com/p/3cb331c39afb) |
+| Sat, 18 Oct 2025 00:07:46 GMT | The Enduring Beauty of Simple Love: Loyalty, Companionship, and Lifelong Devotion | Lucas Brown | [Read More](https://medium.com/p/57ffea8ae49f) |
+| Sat, 18 Oct 2025 00:01:49 GMT | Complete Guide to Dnsx for Mass DNS Resolution and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/f8bed1598770) |
+| Fri, 17 Oct 2025 23:57:34 GMT | When Medical Identity Theft Meets System Failure: A Parent’s Nightmare | Krystal | [Read More](https://medium.com/p/ae79380bfdb0) |
+| Fri, 17 Oct 2025 23:34:58 GMT | [ SOC Alert => FakeGPT Malicious Chrome Extension ] by LetsDefend / EventID: 153 | EduKayky | [Read More](https://medium.com/p/75fe1d815a2b) |
 | Fri, 17 Oct 2025 23:27:36 GMT | Quantum Cybersecurity: Preparing Your Data for the Next Era | Mirza Niaz Morshed | [Read More](https://medium.com/p/9ef3bbb5d2e5) |
 | Fri, 17 Oct 2025 23:22:15 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/ffeee07a8f2a) |
 | Fri, 17 Oct 2025 23:18:22 GMT | Why Darkweb Marketplace Reviews Cannot Always Be Trusted | Tor BBB | [Read More](https://medium.com/p/3c8b99aeb203) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 16:08:07 GMT | They’re Selling Soulmates for $45.76 — And People Are Buying It | Tanmay Kumar Dalai | [Read More](https://medium.com/p/717a9821b03d) |
 | Fri, 17 Oct 2025 16:05:53 GMT | When No One Believes You: A True Story of Cybercrime, Ignored Warnings, and Stolen Credit | Krystal | [Read More](https://medium.com/p/0c601ba3303f) |
 | Fri, 17 Oct 2025 15:53:01 GMT | The Multi-Billion Dollar Solution: Philosophical & Epistemological Stabilization as the Answer to… | Julian Soloninka | [Read More](https://medium.com/p/a06f50c98555) |
-| Fri, 17 Oct 2025 15:50:19 GMT | Try hack me - Cipher’s Secret Message — Walkthrough. | Chaitanya Garware | [Read More](https://medium.com/p/c611931c054e) |
-| Fri, 17 Oct 2025 15:35:37 GMT | Smart IT Support for Nonprofits in Riverside, CA: Balancing Mission, Budget, and Security | Zeta Sky | [Read More](https://medium.com/p/0a0ee7dd5e30) |
-| Fri, 17 Oct 2025 15:34:08 GMT | ⚡ The Future Is at the Edge: Exploring the Edge AI Processor Market | Kaverigiri | [Read More](https://medium.com/p/a38ea40aea1d) |
-| Fri, 17 Oct 2025 15:26:35 GMT | IdentityServer 4 ve Duende IdentityServer: Geçiş, Lisanslama ve .NET Uyumluluğu | Mustafa Dikyar | [Read More](https://medium.com/p/3941d8e706da) |
-| Fri, 17 Oct 2025 15:24:42 GMT | Vulnerability of letting people in | sam's | [Read More](https://medium.com/p/e24d3b3af870) |
-| Fri, 17 Oct 2025 15:15:06 GMT | GZR Observer — Global Daily — Oct 17, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f5cedf7f9cb2) |
-| Fri, 17 Oct 2025 14:54:02 GMT | Top 15 Misconfigurations That Lead to Instant Server Pwn: Master Server Security Now | Very Lazy Tech | [Read More](https://medium.com/p/96ebdc38ed1b) |
-| Fri, 17 Oct 2025 14:44:16 GMT | BlueTeam Copilot: Building an AI-Driven SOC Assistant with Human-in-the-Loop Safeguards | Shreyas Karle | [Read More](https://medium.com/p/8be1443ad6fc) |
-| Fri, 17 Oct 2025 14:41:27 GMT | The Unreliable Watermark | Tom Yonashiro | [Read More](https://medium.com/p/b8c3264b93ab) |
-| Fri, 17 Oct 2025 14:37:52 GMT | The Rise of “Robo-Cops” and AI in Law Enforcement | Ian McIntire | [Read More](https://medium.com/p/05bf9d32533f) |
