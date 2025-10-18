@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 21:01:50 GMT | The Future of Information Technology in the Global Job Market | Vertex University | [Read More](https://medium.com/p/b1be036dde49) |
+| Sat, 18 Oct 2025 21:00:19 GMT | Cybersecurity-focused Discord community | Cyb0rgBytes | [Read More](https://medium.com/p/91f03503235d) |
+| Sat, 18 Oct 2025 20:46:21 GMT | My Life as a Hacker, Chapter One | Mark Edwards | [Read More](https://medium.com/p/47ba8d50e01a) |
+| Sat, 18 Oct 2025 20:42:54 GMT | Your Ultimate Penetration Testing Cheat-sheet | Cyb0rgBytes | [Read More](https://medium.com/p/4a13c1d8ddb0) |
+| Sat, 18 Oct 2025 20:26:54 GMT | Sunshine CTF 2025 | Harpogma | [Read More](https://medium.com/p/0902c14a6bbd) |
 | Sat, 18 Oct 2025 20:26:44 GMT | How I Accidentally Crashed My Company’s FortiGate Firewall: Uncovering a Hidden Attack Surface | soroush | [Read More](https://medium.com/p/fa40011b6e7f) |
+| Sat, 18 Oct 2025 20:25:30 GMT | You Can Only Pick One: Transparency or AI? | abdeldayemnour | [Read More](https://medium.com/p/040e85781259) |
 | Sat, 18 Oct 2025 20:17:49 GMT | The Paradox of Power — How Dictators Luxuriate in Freedom While Their People Languish in Chains | David SEHYEON Baek | [Read More](https://medium.com/p/197276155288) |
 | Sat, 18 Oct 2025 20:10:50 GMT | I’m Not Unhappy, But I’m Not Happy Either | Kakoli Aster♡ | [Read More](https://medium.com/p/85f529db5bd4) |
 | Sat, 18 Oct 2025 19:42:25 GMT | 10 Intriguing Cybersecurity Startup Ideas You Can Build as a Micro-SaaS | John Muconto | [Read More](https://medium.com/p/acc8b6640486) |
@@ -31,6 +37,8 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 18:03:30 GMT | 10 Mistakes Every Beginner Ethical Hacker Makes (and How to Avoid Them in 2025) | Lazy Hunter | [Read More](https://medium.com/p/aa89c6b92a87) |
 | Sat, 18 Oct 2025 18:02:28 GMT | Guide to becoming an effective SIA officer on a microsite or empty facility | Dr Francesco Dergano | [Read More](https://medium.com/p/80b24c6bf707) |
 | Sat, 18 Oct 2025 17:55:58 GMT | RootQuest: Hacking the Thieveshkar Box from Forensic Challenge to Kernel Root | Thieveshkar | [Read More](https://medium.com/p/7426b92ebbac) |
+| Sat, 18 Oct 2025 17:37:57 GMT | Maximize Your Benefits with ChainBounty Rewards | ChainBounty | [Read More](https://medium.com/p/4d5af47548d5) |
+| Sat, 18 Oct 2025 17:37:48 GMT | Your Complete Guide to ChainBounty Rewards & Eligibility | ChainBounty | [Read More](https://medium.com/p/91d564ddda96) |
 | Sat, 18 Oct 2025 17:26:12 GMT | 5G Networks and Security Challenges | Sudhakar Tiwari | [Read More](https://medium.com/p/6874a8c51e62) |
 | Sat, 18 Oct 2025 17:18:30 GMT | Lo-Fi TryHackMe Writeup | iIyas | [Read More](https://medium.com/p/c5e427826587) |
 | Sat, 18 Oct 2025 17:02:19 GMT | Ehxb - Race Conditions Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/9eea8b145465) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 11:27:00 GMT | SAKURA ROOM -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/21c07011a1e6) |
 | Sat, 18 Oct 2025 11:17:23 GMT | Malware Development: Writing a Keylogger in C (Part I) | Beri Contraster | [Read More](https://medium.com/p/0e5cbff87104) |
 | Sat, 18 Oct 2025 11:11:47 GMT | Hacking 101 — Crack the Code (Legally!) | sh4dowkey | [Read More](https://medium.com/p/8c357651414f) |
-| Sat, 18 Oct 2025 10:54:14 GMT | I Thought I Was Using RaccoonLine dVPN. Turns Out, I Was Joining It. | Paul Du Rove | [Read More](https://medium.com/p/d37a387fb4a8) |
-| Sat, 18 Oct 2025 10:52:54 GMT | Explore Recon Solana Rewards & Bonus Opportunities | Recon Solana | [Read More](https://medium.com/p/1598ed67c4a4) |
-| Sat, 18 Oct 2025 10:52:38 GMT | Resources, Scopes, Permissions & Policies in Keycloak — A Practical Guide for Mapping Legacy RBAC | Ajay Kumar | [Read More](https://medium.com/p/fd5a60f392bf) |
-| Sat, 18 Oct 2025 10:51:04 GMT | Decoding the OWASP Top 10 | sh4dowkey | [Read More](https://medium.com/p/3f2af22570dc) |
-| Sat, 18 Oct 2025 10:45:21 GMT | AI Cybersecurity Trends 2025: The Shocking Ways Hackers and Machines Are Battling for Control | Anonymous Writer | [Read More](https://medium.com/p/b96594412430) |
-| Sat, 18 Oct 2025 10:43:50 GMT | Quick guide — setup Ghost_Eye on Kali (plus a checklist to inspect your website’s security before… | Wajeeh | [Read More](https://medium.com/p/3cce37e42f2a) |
-| Sat, 18 Oct 2025 10:38:24 GMT | Understanding the World of Artificial Intelligence | Pietro Romano / SecBeret | [Read More](https://medium.com/p/881d5d85bd49) |
-| Sat, 18 Oct 2025 10:32:03 GMT | Single Sign-On (SSO) Explained Simply: The Master Key to Your Digital Doors | Natarajan C K | [Read More](https://medium.com/p/ec5a20c96b5f) |
