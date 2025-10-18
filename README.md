@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 03:26:39 GMT | Phishing via Error Message — When UI Messages Become Attack Surfaces | Mandar Satam | [Read More](https://medium.com/p/1eca838fea3f) |
+| Sat, 18 Oct 2025 03:20:56 GMT | Nodes, Gateways and beyond. | Tushar Kulkarni | [Read More](https://medium.com/p/38c003f44e90) |
 | Sat, 18 Oct 2025 03:08:39 GMT | Threat Modelling — Stop Hackers First | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d2034510793f) |
 | Sat, 18 Oct 2025 03:03:19 GMT | Infostealers — The Silent Data Thief | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/a87496d959ac) |
 | Sat, 18 Oct 2025 03:01:52 GMT | Germany Resorts to Draft Lottery | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/13288b22b9b7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 16:56:44 GMT | Solving On-Site Chaos: How Security Guard Management Software Fixes Real Operational Problems | Teona | [Read More](https://medium.com/p/de3a9f0cc71a) |
 | Fri, 17 Oct 2025 16:53:33 GMT | Layers of Me, Layers of You | Alex Anton | [Read More](https://medium.com/p/333e453eea3e) |
 | Fri, 17 Oct 2025 16:53:10 GMT | Man-in-the-Middle (MITM) Attacks: Eavesdropping on Communications | Cyber Security Research | [Read More](https://medium.com/p/2547e0aec002) |
-| Fri, 17 Oct 2025 16:50:04 GMT | OSINT in 2025 — The Silent Superpower Behind Every Investigation | Oikawasain | [Read More](https://medium.com/p/9176be07acc9) |
-| Fri, 17 Oct 2025 16:46:19 GMT | Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks | Cyber Security Research | [Read More](https://medium.com/p/03867cc7d2d6) |
