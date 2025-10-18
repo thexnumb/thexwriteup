@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 11:11:47 GMT | Hacking 101 — Crack the Code (Legally!) | sh4dowkey | [Read More](https://medium.com/p/8c357651414f) |
+| Sat, 18 Oct 2025 10:54:14 GMT | I Thought I Was Using RaccoonLine dVPN. Turns Out, I Was Joining It. | Paul Du Rove | [Read More](https://medium.com/p/d37a387fb4a8) |
+| Sat, 18 Oct 2025 10:52:38 GMT | Resources, Scopes, Permissions & Policies in Keycloak — A Practical Guide for Mapping Legacy RBAC | Ajay Kumar | [Read More](https://medium.com/p/fd5a60f392bf) |
+| Sat, 18 Oct 2025 10:51:04 GMT | Decoding the OWASP Top 10 | sh4dowkey | [Read More](https://medium.com/p/3f2af22570dc) |
+| Sat, 18 Oct 2025 10:45:21 GMT | AI Cybersecurity Trends 2025: The Shocking Ways Hackers and Machines Are Battling for Control | Anonymous Writer | [Read More](https://medium.com/p/b96594412430) |
+| Sat, 18 Oct 2025 10:43:50 GMT | Quick guide — setup Ghost_Eye on Kali (plus a checklist to inspect your website’s security before… | Wajeeh | [Read More](https://medium.com/p/3cce37e42f2a) |
+| Sat, 18 Oct 2025 10:38:24 GMT | Understanding the World of Artificial Intelligence | Pietro Romano / SecBeret | [Read More](https://medium.com/p/881d5d85bd49) |
 | Sat, 18 Oct 2025 10:32:03 GMT | Single Sign-On (SSO) Explained Simply: The Master Key to Your Digital Doors | Natarajan C K | [Read More](https://medium.com/p/ec5a20c96b5f) |
 | Sat, 18 Oct 2025 10:19:41 GMT | RootMe TryHackMe Walkthrough — Upload Bypass, Reverse Shell & Privilege Escalation | 0xpynge | [Read More](https://medium.com/p/1b96d4331da7) |
 | Sat, 18 Oct 2025 10:17:12 GMT | Ethical Hacking - Activity 6 — Rootme TryHackMe Room | Forzr0nin | [Read More](https://medium.com/p/75a030cd46a8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 02:31:17 GMT | The CIA Triad is Inadequate: Authenticity is the Non-Negotiable Fourth Pillar for AI-Era Risk… | Al Lyle | [Read More](https://medium.com/p/04642ff69351) |
 | Sat, 18 Oct 2025 02:22:25 GMT | Hexstrike & BOAZ: A First Look at AI-Powered Evasion | Lewis Desmond | [Read More](https://medium.com/p/7c429e46ab46) |
 | Sat, 18 Oct 2025 01:58:47 GMT | Information Overload | Haylee Parniske | [Read More](https://medium.com/p/41adc631f6f3) |
-| Sat, 18 Oct 2025 01:32:37 GMT | Hackers Are Now Hiding Malware Inside Crypto Smart Contracts — Here’s What You Need to Know | Hashan Tharindu | [Read More](https://medium.com/p/96a2d7b41f2d) |
-| Sat, 18 Oct 2025 01:26:24 GMT | Case Study: How OSINT Was Used in a Real Cyber Investigation | Shahzaib | [Read More](https://medium.com/p/ebb22e14105b) |
-| Sat, 18 Oct 2025 01:26:07 GMT | Automating Recon: How to Build Your Own OSINT Scripts in Python | Aj | [Read More](https://medium.com/p/0600c36eab5d) |
-| Sat, 18 Oct 2025 01:25:56 GMT | Securing Containers and Kubernetes in the Cloud | Samina Perveen | [Read More](https://medium.com/p/2bfdab07045a) |
-| Sat, 18 Oct 2025 01:25:20 GMT | TPG Telecom IP Hosting CoinMiner & Android Malware Staging Server Dual Vector Campaign Exposed | Regan Temudo | [Read More](https://medium.com/p/0c741f5727ff) |
-| Sat, 18 Oct 2025 00:56:01 GMT | Exploring E-mail Encryption: My Adventures in Securing Digital Messages | Anderson Santos | [Read More](https://medium.com/p/3cbef473f8b3) |
-| Sat, 18 Oct 2025 00:52:08 GMT | Vulture’s Retreat | Liora Bloom | [Read More](https://medium.com/p/d32d194cdf97) |
