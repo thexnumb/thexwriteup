@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 07:05:58 GMT | Migrating from Splunk to CrowdStrike Next-Gen SIEM | Saikat Paul | [Read More](https://medium.com/p/84b4c76c573e) |
+| Sat, 18 Oct 2025 07:05:39 GMT | The Broken Gate — A07: Identification and Authentication Failures - OWASP Top 10 -10 Days with Me-… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/ef670f9f743f) |
+| Sat, 18 Oct 2025 06:59:18 GMT | You Need to Know About the iPhone 16 Pro Max Before Buying | Marigold Rivers | [Read More](https://medium.com/p/20a47978c2ee) |
+| Sat, 18 Oct 2025 06:57:29 GMT | DOM XSS in Action: How I Found and Proved a Client-Side Vulnerability | Alanbiju | [Read More](https://medium.com/p/d36749a25774) |
+| Sat, 18 Oct 2025 06:55:26 GMT | SSL Stripping Isn’t Old News — It’s the Door You Left Unlocked | Rubab Fatima | [Read More](https://medium.com/p/50177a809655) |
+| Sat, 18 Oct 2025 06:48:44 GMT | Twitch streamer Emiru assaulted at TwitchCon: Everything you need to know | The Cover | [Read More](https://medium.com/p/5f2e6143e72d) |
+| Sat, 18 Oct 2025 06:46:35 GMT | From Splunk to Sentinel: Your Complete Migration Roadmap | Saikat Paul | [Read More](https://medium.com/p/6ebc56a2f976) |
 | Sat, 18 Oct 2025 06:44:35 GMT | The Art of Web Penetration Testing | suraj baishya | [Read More](https://medium.com/p/e7d43d25a864) |
+| Sat, 18 Oct 2025 06:38:30 GMT | Brain-Inspired Chips and the Future of Cybersecurity | iam_with_you11 | [Read More](https://medium.com/p/09e92a0ba108) |
 | Sat, 18 Oct 2025 06:37:08 GMT | TryHackMe’s c4ptur3-th3-fl4g room — Writeup / Walk through | AhiLight | [Read More](https://medium.com/p/83a95f2c358a) |
 | Sat, 18 Oct 2025 06:35:49 GMT | Dubai’s Safety Secret? SIRA-Approved CCTV | Abhilashtec | [Read More](https://medium.com/p/6e09d1cb9fdb) |
 | Sat, 18 Oct 2025 06:25:47 GMT | Find out NoSQL Injection Vulnerability | MD FAYJUL KABIR | [Read More](https://medium.com/p/f0805bae834e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 19:40:47 GMT | Understanding and Using Built-in Named Entity SITs (Day 6) | Wesley Duel Swann | [Read More](https://medium.com/p/63c366169728) |
 | Fri, 17 Oct 2025 19:34:21 GMT | How to hack Instagram password online: FREE methods of hackers | Alexander Hoffmann | [Read More](https://medium.com/p/b2d729f383f9) |
 | Fri, 17 Oct 2025 19:31:31 GMT | Hacker’s Gambit :- National Level CTF , Writeup by Jerry_H4ck | JERRY_H4CK | [Read More](https://medium.com/p/94b3215e496c) |
-| Fri, 17 Oct 2025 19:29:12 GMT | Day 1 of the 15-Day Learning Networking and Systems Series — Introduction to Networking & Systems | HackTrace | [Read More](https://medium.com/p/508545f27ef1) |
-| Fri, 17 Oct 2025 19:25:48 GMT | Beyond Tutorials: Why Books Give You a Superpower in Cybersecurity | Shahzaib | [Read More](https://medium.com/p/487dbebaea2e) |
-| Fri, 17 Oct 2025 19:20:54 GMT | Books That Shaped My Mindset in Cybersecurity and Technology | Aj | [Read More](https://medium.com/p/476eca4e086b) |
-| Fri, 17 Oct 2025 19:08:37 GMT | Zero Trust Data Protection: Securing Information in a Borderless World | SafeAeon Inc. | [Read More](https://medium.com/p/7eae5f7d8549) |
-| Fri, 17 Oct 2025 19:03:26 GMT | Get Exclusive DORK Bonuses in October 2025 | DORK | [Read More](https://medium.com/p/599c5a92c166) |
-| Fri, 17 Oct 2025 18:57:36 GMT | Cybersecurity Concerns in Smart Water Infrastructure | Ayeni Oladayo | [Read More](https://medium.com/p/033520f2723f) |
-| Fri, 17 Oct 2025 18:55:00 GMT | Sem visibilidade, sem controle! | Sergio Junior | [Read More](https://medium.com/p/b739660e006b) |
-| Fri, 17 Oct 2025 18:52:29 GMT | The $50K security audit I do for every Lovable app( Steal this for free ) | Abhi$hek | [Read More](https://medium.com/p/7d270d825b33) |
