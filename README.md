@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 16:37:14 GMT | Beginner’s Guide to ISO 27001:2022 Making Information Security Simple | Parull Sharma | [Read More](https://medium.com/p/19c409c21ad0) |
+| Sat, 18 Oct 2025 16:35:38 GMT | Be Careful With Your Video Call Backgrounds. | Timothy Howley | [Read More](https://medium.com/p/e8f32f21ec06) |
+| Sat, 18 Oct 2025 16:31:36 GMT | SİBER GÜVENLİK NEDİR? Tehdit Türleri, Korunma Yöntemleri ve Hacker Gerçekleri | HSD Harran University | [Read More](https://medium.com/p/2ff9cdfbf8d0) |
 | Sat, 18 Oct 2025 16:22:33 GMT | Top 7 Ways Hackers Breach Active Directory | Cybersensus | [Read More](https://medium.com/p/c51792f46b13) |
+| Sat, 18 Oct 2025 16:20:45 GMT | E45y.exe — CTF Reverse Engineering Writeup — GITEX Global CTF 2025 | Ansh Choudhary | [Read More](https://medium.com/p/7cfee1e54f44) |
+| Sat, 18 Oct 2025 16:19:32 GMT | H453.exe — CTF Reverse Engineering Writeup — GITEX Global CTF 2025 | Ansh Choudhary | [Read More](https://medium.com/p/022d54057fb1) |
+| Sat, 18 Oct 2025 16:19:10 GMT | Weekly Roundup — October 19 | litwtch | [Read More](https://medium.com/p/4ca963d56ff3) |
+| Sat, 18 Oct 2025 16:15:04 GMT | HackTheBox Sherlocks PhishNet - Solution | Muhammad Afif Faizun | [Read More](https://medium.com/p/a29bc0a586d9) |
+| Sat, 18 Oct 2025 16:11:51 GMT | Why I Always Verify Linux System Binaries After an Incident (and How I Do It) | Faruk Ahmed | [Read More](https://medium.com/p/d98d31dc060b) |
 | Sat, 18 Oct 2025 16:11:18 GMT | Why I don’t feel comfortable in my own skin? | Dav_Moreuxx | [Read More](https://medium.com/p/f91cfa9fd1df) |
 | Sat, 18 Oct 2025 16:10:35 GMT | Maximize Your Benefits with Bugs Bunny  Rewards | Bugs Bunny | [Read More](https://medium.com/p/4d6a8433e291) |
 | Sat, 18 Oct 2025 16:04:01 GMT | The Numbers (Cryptography Writeup) | Zulfianarahmi | [Read More](https://medium.com/p/a7a2dcc51171) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 08:28:04 GMT | Windows 11 Security Settings You Should Enable | Sahil | [Read More](https://medium.com/p/50ad0731781d) |
 | Sat, 18 Oct 2025 08:19:54 GMT | Why Using Cracked Software Is a Security Risk | akas | [Read More](https://medium.com/p/1866fbf0f7c2) |
 | Sat, 18 Oct 2025 08:19:39 GMT | ️ PenTest Walkthrough: Escalating from MSSQL to Domain Admin with Kerberos Silver Tickets —… | Maxwell Ferreira | [Read More](https://medium.com/p/04417f77053a) |
-| Sat, 18 Oct 2025 08:15:26 GMT | Simple CTF — TryHackMe Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/48a769cd6e78) |
-| Sat, 18 Oct 2025 08:11:49 GMT | Unauthorized Access to Enterprise Policies Management: $500 BAC Bug | Abhi Sharma | [Read More](https://medium.com/p/60f04419fed4) |
-| Sat, 18 Oct 2025 08:11:20 GMT | 10 Useful Websites Like Grabify: Track, Shorten, and Analyze Links with Ease | H2bm | [Read More](https://medium.com/p/3a008857c0f7) |
-| Sat, 18 Oct 2025 08:07:25 GMT | Post-Quantum Cryptography in 2025: Preparing for the Quantum Threat | Techsby | [Read More](https://medium.com/p/bb0b00977d81) |
-| Sat, 18 Oct 2025 08:02:39 GMT | Unescaped HTML in Email Templates — How I Turned a Simulator into a Phishing Vector | Xormium | [Read More](https://medium.com/p/82e8fb19a70d) |
-| Sat, 18 Oct 2025 08:01:58 GMT | Stealer Logs 101: The Plain Text Threat Security Teams Miss | Alexandre Vandamme | [Read More](https://medium.com/p/4e43c4beec39) |
-| Sat, 18 Oct 2025 07:58:04 GMT | Our Data is Leaking from Space: A Wake-Up Call for the AI Era | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/b4f38ed33e73) |
-| Sat, 18 Oct 2025 07:56:46 GMT | Today’s Top Cyber Intelligence Highlights — Oct 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/32d97f1eae53) |
