@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 21:22:39 GMT | How to Find Your First Database Vulnerability in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/2738e70cd979) |
 | Sat, 18 Oct 2025 21:01:50 GMT | The Future of Information Technology in the Global Job Market | Vertex University | [Read More](https://medium.com/p/b1be036dde49) |
 | Sat, 18 Oct 2025 21:00:19 GMT | Cybersecurity-focused Discord community | Cyb0rgBytes | [Read More](https://medium.com/p/91f03503235d) |
 | Sat, 18 Oct 2025 20:46:21 GMT | My Life as a Hacker, Chapter One | Mark Edwards | [Read More](https://medium.com/p/47ba8d50e01a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 11:46:30 GMT | Understanding Which of the Following Is an Application Layer Protocol | Devin Rosario | [Read More](https://medium.com/p/69273c74a735) |
 | Sat, 18 Oct 2025 11:27:00 GMT | SAKURA ROOM -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/21c07011a1e6) |
 | Sat, 18 Oct 2025 11:17:23 GMT | Malware Development: Writing a Keylogger in C (Part I) | Beri Contraster | [Read More](https://medium.com/p/0e5cbff87104) |
-| Sat, 18 Oct 2025 11:11:47 GMT | Hacking 101 — Crack the Code (Legally!) | sh4dowkey | [Read More](https://medium.com/p/8c357651414f) |
