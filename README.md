@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 08:19:39 GMT | ️ PenTest Walkthrough: Escalating from MSSQL to Domain Admin with Kerberos Silver Tickets —… | Maxwell Ferreira | [Read More](https://medium.com/p/04417f77053a) |
+| Sat, 18 Oct 2025 08:11:49 GMT | Unauthorized Access to Enterprise Policies Management: $500 BAC Bug | Abhi Sharma | [Read More](https://medium.com/p/60f04419fed4) |
+| Sat, 18 Oct 2025 08:11:20 GMT | 10 Useful Websites Like Grabify: Track, Shorten, and Analyze Links with Ease | H2bm | [Read More](https://medium.com/p/3a008857c0f7) |
+| Sat, 18 Oct 2025 08:07:25 GMT | Post-Quantum Cryptography in 2025: Preparing for the Quantum Threat | Techsby | [Read More](https://medium.com/p/bb0b00977d81) |
+| Sat, 18 Oct 2025 08:02:39 GMT | Unescaped HTML in Email Templates — How I Turned a Simulator into a Phishing Vector | Xormium | [Read More](https://medium.com/p/82e8fb19a70d) |
+| Sat, 18 Oct 2025 08:01:58 GMT | Stealer Logs 101: The Plain Text Threat Security Teams Miss | Alexandre Vandamme | [Read More](https://medium.com/p/4e43c4beec39) |
+| Sat, 18 Oct 2025 07:58:04 GMT | Our Data is Leaking from Space: A Wake-Up Call for the AI Era | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/b4f38ed33e73) |
+| Sat, 18 Oct 2025 07:56:46 GMT | Today’s Top Cyber Intelligence Highlights — Oct 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/32d97f1eae53) |
+| Sat, 18 Oct 2025 07:53:53 GMT | What Is an IP Logger? | H2bm | [Read More](https://medium.com/p/3f39c511a8f2) |
+| Sat, 18 Oct 2025 07:53:28 GMT | DevOps Article | ebenamor | [Read More](https://medium.com/p/a31d0252fad9) |
+| Sat, 18 Oct 2025 07:52:18 GMT | Why Being ‘Too Clingy’ Might Be the Healthiest Thing About You | NickWord | [Read More](https://medium.com/p/35e667183db9) |
+| Sat, 18 Oct 2025 07:49:43 GMT | How to Install Discord on Parrot OS (Step-by-Step Guide) | Rommel Galicia | [Read More](https://medium.com/p/d0f6015c406b) |
+| Sat, 18 Oct 2025 07:44:33 GMT | JWT: The Token Everyone Uses Wrong (And How to Fix It) | Serhii Malyshev | [Read More](https://medium.com/p/3ed3ddd07157) |
 | Sat, 18 Oct 2025 07:34:47 GMT | How to Prevent Cloud Data Breaches | Dkvilas | [Read More](https://medium.com/p/d845f2c6e26b) |
 | Sat, 18 Oct 2025 07:22:25 GMT | Mastering Product Management in the Tech Industry: A Strategic Approach | Aditya Raj | [Read More](https://medium.com/p/8a760715ee15) |
 | Sat, 18 Oct 2025 07:17:26 GMT | LazySysAdmin Walkthrough [Vulnhub] | Chinmay Talad | [Read More](https://medium.com/p/736faded2a92) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 20:58:38 GMT | Your hotel keycard is a tiny computer | Samarth rawat | [Read More](https://medium.com/p/340f9b8ad0b3) |
 | Fri, 17 Oct 2025 20:53:15 GMT | Trusted Burglar Alarm Services in Aurora: Protecting Your Home and Business | American Security Professional | [Read More](https://medium.com/p/6ebbf81b1f73) |
 | Fri, 17 Oct 2025 20:40:38 GMT | When Security Is Treated as a Cost | scanf | [Read More](https://medium.com/p/4e5ef3a56295) |
-| Fri, 17 Oct 2025 20:38:06 GMT | Why We’re NOT an MSP: The Integrated Service Provider Model Explained | JSOC IT BLOG | [Read More](https://medium.com/p/c5eb5c177db1) |
-| Fri, 17 Oct 2025 20:28:35 GMT | The Internet Never Forgets: Privacy and Awareness in Digital Bangladesh | Mushfiqur Rahman | [Read More](https://medium.com/p/3a60692a83d6) |
-| Fri, 17 Oct 2025 20:28:30 GMT | Learn How BUG Users Can Access Rewards Easily | BUG | [Read More](https://medium.com/p/046872b7c265) |
-| Fri, 17 Oct 2025 20:28:24 GMT | Complete BUG Rewards Walkthrough 2025 | BUG | [Read More](https://medium.com/p/1fdd13d5779d) |
-| Fri, 17 Oct 2025 20:26:42 GMT | How Leading Companies Are Redefining Secure Remote Work In 2025 | IT_Engineer | [Read More](https://medium.com/p/f48cd4b81e41) |
-| Fri, 17 Oct 2025 20:11:17 GMT | How to hack Snapchat password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/5008299a1746) |
-| Fri, 17 Oct 2025 20:10:21 GMT | Day 12 of my Cybersecurity Journey: Networking Concepts | Ogundipe Priscilla | [Read More](https://medium.com/p/5646728b9b78) |
-| Fri, 17 Oct 2025 20:00:42 GMT | How to hack GMail password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/393c27a82b65) |
-| Fri, 17 Oct 2025 19:52:47 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/51b930beb815) |
-| Fri, 17 Oct 2025 19:49:58 GMT | Help Me Build This —  A Smart SCADA Security System (Your Experience Can Help Me) | Hareem Fatima | [Read More](https://medium.com/p/0f95720052eb) |
-| Fri, 17 Oct 2025 19:49:44 GMT | Securing Payment Data: Building Trust in Every Digital Transaction | SafeAeon Inc. | [Read More](https://medium.com/p/2a66c8b7b49c) |
-| Fri, 17 Oct 2025 19:48:08 GMT | How to hack Yahoo! password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/b09098fec8c4) |
-| Fri, 17 Oct 2025 19:42:59 GMT | From Installer to Source Code: A Novice’s Guide to Analyzing Node.js/Electron Malware | Dor Barda | [Read More](https://medium.com/p/eaaea180c6c2) |
