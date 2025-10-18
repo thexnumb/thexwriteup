@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 07:34:47 GMT | How to Prevent Cloud Data Breaches | Dkvilas | [Read More](https://medium.com/p/d845f2c6e26b) |
+| Sat, 18 Oct 2025 07:22:25 GMT | Mastering Product Management in the Tech Industry: A Strategic Approach | Aditya Raj | [Read More](https://medium.com/p/8a760715ee15) |
+| Sat, 18 Oct 2025 07:17:26 GMT | LazySysAdmin Walkthrough [Vulnhub] | Chinmay Talad | [Read More](https://medium.com/p/736faded2a92) |
+| Sat, 18 Oct 2025 07:15:08 GMT | Fortifying the Railways’ Backbone | Mark-It Hansraj | [Read More](https://medium.com/p/20dbfa9f1321) |
 | Sat, 18 Oct 2025 07:05:58 GMT | Migrating from Splunk to CrowdStrike Next-Gen SIEM | Saikat Paul | [Read More](https://medium.com/p/84b4c76c573e) |
 | Sat, 18 Oct 2025 07:05:39 GMT | The Broken Gate — A07: Identification and Authentication Failures - OWASP Top 10 -10 Days with Me-… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/ef670f9f743f) |
 | Sat, 18 Oct 2025 06:59:18 GMT | You Need to Know About the iPhone 16 Pro Max Before Buying | Marigold Rivers | [Read More](https://medium.com/p/20a47978c2ee) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 19:49:44 GMT | Securing Payment Data: Building Trust in Every Digital Transaction | SafeAeon Inc. | [Read More](https://medium.com/p/2a66c8b7b49c) |
 | Fri, 17 Oct 2025 19:48:08 GMT | How to hack Yahoo! password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/b09098fec8c4) |
 | Fri, 17 Oct 2025 19:42:59 GMT | From Installer to Source Code: A Novice’s Guide to Analyzing Node.js/Electron Malware | Dor Barda | [Read More](https://medium.com/p/eaaea180c6c2) |
-| Fri, 17 Oct 2025 19:42:39 GMT | Secure Operating Systems in Cyber Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/ee7572d7c60a) |
-| Fri, 17 Oct 2025 19:40:47 GMT | Understanding and Using Built-in Named Entity SITs (Day 6) | Wesley Duel Swann | [Read More](https://medium.com/p/63c366169728) |
-| Fri, 17 Oct 2025 19:34:21 GMT | How to hack Instagram password online: FREE methods of hackers | Alexander Hoffmann | [Read More](https://medium.com/p/b2d729f383f9) |
-| Fri, 17 Oct 2025 19:31:31 GMT | Hacker’s Gambit :- National Level CTF , Writeup by Jerry_H4ck | JERRY_H4CK | [Read More](https://medium.com/p/94b3215e496c) |
