@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 14:36:40 GMT | HacktheBox: Remote Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/40fee6cf9f36) |
+| Sat, 18 Oct 2025 14:29:36 GMT | The Arch Linux Is Not for You | Anfisa Silvanova | [Read More](https://medium.com/p/c45488f2cdaa) |
+| Sat, 18 Oct 2025 14:27:00 GMT | picoCTF — Where are the robots? — writeup | AD3NCA | [Read More](https://medium.com/p/81b45771d8c4) |
+| Sat, 18 Oct 2025 14:24:07 GMT | Authentication Concepts explained to a 74 yr old grandma | Sreeni Kand - COOLTECH | [Read More](https://medium.com/p/fbe3df4e0098) |
+| Sat, 18 Oct 2025 14:19:45 GMT | Beyond Email Phishing | Medjue Gore | [Read More](https://medium.com/p/8ff35371be90) |
+| Sat, 18 Oct 2025 14:19:38 GMT | Day 91: What is CVSS | Nile Okomo | [Read More](https://medium.com/p/0a314a438526) |
+| Sat, 18 Oct 2025 14:14:34 GMT | Step-by-Step Guide: Practical Docker Enumeration and Container Escape Techniques | Very Lazy Tech | [Read More](https://medium.com/p/986e1d6a6919) |
 | Sat, 18 Oct 2025 14:04:49 GMT | Detecting Payload Injection in Memory using Volatility | ze4rch1tect | [Read More](https://medium.com/p/b84101ff391f) |
 | Sat, 18 Oct 2025 14:00:07 GMT | The Legal Layer — Forensic Proof and Accountability in Digital Finance | Abatis ABTU | [Read More](https://medium.com/p/dda996c2d201) |
 | Sat, 18 Oct 2025 13:40:23 GMT | The Student Security Analyst: Providing SOC Services Remotely | Samina Perveen | [Read More](https://medium.com/p/d6959731f678) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 06:44:35 GMT | The Art of Web Penetration Testing | suraj baishya | [Read More](https://medium.com/p/e7d43d25a864) |
 | Sat, 18 Oct 2025 06:38:30 GMT | Brain-Inspired Chips and the Future of Cybersecurity | iam_with_you11 | [Read More](https://medium.com/p/09e92a0ba108) |
 | Sat, 18 Oct 2025 06:37:08 GMT | TryHackMe’s c4ptur3-th3-fl4g room — Writeup / Walk through | AhiLight | [Read More](https://medium.com/p/83a95f2c358a) |
-| Sat, 18 Oct 2025 06:35:49 GMT | Dubai’s Safety Secret? SIRA-Approved CCTV | Abhilashtec | [Read More](https://medium.com/p/6e09d1cb9fdb) |
-| Sat, 18 Oct 2025 06:25:47 GMT | Find out NoSQL Injection Vulnerability | MD FAYJUL KABIR | [Read More](https://medium.com/p/f0805bae834e) |
-| Sat, 18 Oct 2025 06:23:35 GMT | How Software Piracy Affects Cybersecurity Globally | Best Software Buy | [Read More](https://medium.com/p/ab0af95bd894) |
-| Sat, 18 Oct 2025 06:18:22 GMT | Cloud Misconfigurations Series: In-Depth Analysis of Azure Private Link | Hariharasudhan GK | [Read More](https://medium.com/p/1a8e2d1b5f95) |
-| Sat, 18 Oct 2025 06:18:06 GMT | How Software Piracy Affects Cybersecurity Globally | Best Software Buy | [Read More](https://medium.com/p/a12bdf03be16) |
-| Sat, 18 Oct 2025 06:17:31 GMT | Conquering the OSCP+: A Guide to the Mental Marathon | Joshua Alwin | [Read More](https://medium.com/p/a9ae235a523f) |
-| Sat, 18 Oct 2025 06:16:28 GMT | VMware and Kali Linux Installation Guidance | CyberFaez | [Read More](https://medium.com/p/a01c3bfd9e3e) |
