@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 18:03:30 GMT | 10 Mistakes Every Beginner Ethical Hacker Makes (and How to Avoid Them in 2025) | Lazy Hunter | [Read More](https://medium.com/p/aa89c6b92a87) |
+| Sat, 18 Oct 2025 18:02:28 GMT | Guide to becoming an effective SIA officer on a microsite or empty facility | Dr Francesco Dergano | [Read More](https://medium.com/p/80b24c6bf707) |
+| Sat, 18 Oct 2025 17:55:58 GMT | RootQuest: Hacking the Thieveshkar Box from Forensic Challenge to Kernel Root | Thieveshkar | [Read More](https://medium.com/p/7426b92ebbac) |
 | Sat, 18 Oct 2025 17:26:12 GMT | 5G Networks and Security Challenges | Sudhakar Tiwari | [Read More](https://medium.com/p/6874a8c51e62) |
 | Sat, 18 Oct 2025 17:18:30 GMT | Lo-Fi TryHackMe Writeup | iIyas | [Read More](https://medium.com/p/c5e427826587) |
 | Sat, 18 Oct 2025 17:02:19 GMT | Ehxb - Race Conditions Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/9eea8b145465) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 09:47:01 GMT | TryHackMe #129 - Boogeyman 1 | SiberYuk | [Read More](https://medium.com/p/7b5edf2ed3c1) |
 | Sat, 18 Oct 2025 09:44:36 GMT | Cybersecurity Without a Degree? Your Call. | Authlyn | [Read More](https://medium.com/p/1250c715699f) |
 | Sat, 18 Oct 2025 09:42:38 GMT | TryHackMe #128 - Tempest | SiberYuk | [Read More](https://medium.com/p/d28162742112) |
-| Sat, 18 Oct 2025 09:37:06 GMT | Anatomy of a Hack: Deconstructing the Cyber Kill Chain | Ddude | [Read More](https://medium.com/p/48e605dead9b) |
-| Sat, 18 Oct 2025 09:21:53 GMT | SMTP Protocol Security (part 1/2) | Pxl | [Read More](https://medium.com/p/cc26519a83bf) |
-| Sat, 18 Oct 2025 09:12:25 GMT | 5 Subtle Security Mistakes in API Development (That I Keep Seeing Everywhere) | Ujjawal Rohra | [Read More](https://medium.com/p/cd1aa1318811) |
