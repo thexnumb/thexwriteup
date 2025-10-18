@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 19:27:55 GMT | IDOR lead to unauthorized Access Organizations function | HBlack Ghost | [Read More](https://medium.com/p/0dc707011dd1) |
+| Sat, 18 Oct 2025 19:20:25 GMT | Social Engineering: How Hackers Trick You (And How to Stop Them) | Muhammed Anas | [Read More](https://medium.com/p/570ef7b3ef47) |
+| Sat, 18 Oct 2025 19:16:45 GMT | Forgotten ‍️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/b440ad425bac) |
 | Sat, 18 Oct 2025 19:06:49 GMT | Cyber and Coffee: Pour Yourself a Cup and Catch Up on Cybersecurity — October 2025 | Cyber and Coffee | [Read More](https://medium.com/p/f05cbe23a75b) |
+| Sat, 18 Oct 2025 19:05:58 GMT | ​IL VALORE DI ESSERE MEDIOCRI | Giovanna Sansone | [Read More](https://medium.com/p/9a7470889a10) |
 | Sat, 18 Oct 2025 19:05:34 GMT | Foundations & Hunting SSRF Checklist — A SSRF Playbook (Part 1) | Abhishek meena | [Read More](https://medium.com/p/795ef13e9d28) |
 | Sat, 18 Oct 2025 18:58:37 GMT | Must-Know Compliance Basics for a SOC Analyst To Stand Out in an Interview—A Short Guide | Iftikhar Zaidi | [Read More](https://medium.com/p/4b09ed25a060) |
 | Sat, 18 Oct 2025 18:51:18 GMT | Unlocking Blockchain Security Data | Xavier Langlais | [Read More](https://medium.com/p/ad0c0a3803f2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 10:16:10 GMT | Why Samsung A Series Phones Are Still the Smartest Buy in 2025 | Hana Saito | [Read More](https://medium.com/p/df73b8e6c06f) |
 | Sat, 18 Oct 2025 10:10:24 GMT | Librephone, thoughts, facts and opinions | Dabest | [Read More](https://medium.com/p/d3dc4040afae) |
 | Sat, 18 Oct 2025 10:09:25 GMT | Dav- Try H4ck M3- Walk_Through | Celestialez Cerebroz | [Read More](https://medium.com/p/80f2b40a971f) |
-| Sat, 18 Oct 2025 10:03:56 GMT | TryHackMe - Network Traffic Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/82f75be239bb) |
-| Sat, 18 Oct 2025 10:03:35 GMT | How an iframe Could Ruin Your Website (and How sandbox Saves It) | Christian | [Read More](https://medium.com/p/5677f16fa39b) |
-| Sat, 18 Oct 2025 10:02:27 GMT | Expressway Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/11ca755c16ed) |
-| Sat, 18 Oct 2025 10:00:39 GMT | Master Passive Recon in Web Pentesting | D1d0F | [Read More](https://medium.com/p/aabff9645121) |
