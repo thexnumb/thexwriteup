@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 05:34:04 GMT | Can AI Detect Insider Threats Before They Cause Damage? | Deepak Sharma | [Read More](https://medium.com/p/ad1d26f3bf00) |
+| Sat, 18 Oct 2025 05:23:23 GMT | F5 Breach Exposes BIG-IP Source Code: What You Need to Know | Ronaldo | [Read More](https://medium.com/p/3e49c906bf63) |
 | Sat, 18 Oct 2025 05:11:37 GMT | Democracy Needs a UX Update | Iliana Morgan Chevres | [Read More](https://medium.com/p/b1e23c2f79a5) |
+| Sat, 18 Oct 2025 05:09:47 GMT | PowerfulpStrengthening Enterprise Security with AWS and Open Source Intelligence | Ayeshazulfqar | [Read More](https://medium.com/p/26bcfc04f378) |
 | Sat, 18 Oct 2025 05:03:49 GMT | PostgreSQL Security Headers for AI API Protection | Rizqi Mulki | [Read More](https://medium.com/p/98ea93340983) |
 | Sat, 18 Oct 2025 05:03:24 GMT | Why Local Software Support Beats DIY Installations Every Time | Ask IT Support | [Read More](https://medium.com/p/1612c0feeeb6) |
 | Sat, 18 Oct 2025 05:02:48 GMT | Cybersecurity Strategy is Hard — Because Real Change Always Is | JC Gaillard | [Read More](https://medium.com/p/a391c2d8e4ec) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 17:59:05 GMT | Chinese Hackers Exploit ArcGIS Server as Backdoor | Himanshu Bhatt | [Read More](https://medium.com/p/2fa5c94d6bba) |
 | Fri, 17 Oct 2025 17:57:19 GMT | Security and Performance Aspects of Namespaces in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/48793fde4948) |
 | Fri, 17 Oct 2025 17:53:09 GMT | Pakistan’s Top Ethical Hackers Helping Victims for Free — The Story of 516 Hackers | Asif Ali | [Read More](https://medium.com/p/af5c6f5ce5fd) |
-| Fri, 17 Oct 2025 17:41:20 GMT | 516 Hackers’ Remarkable Journey (2020–2025): How They Recovered ₨2M and Made the Internet Safer —… | Asif Ali | [Read More](https://medium.com/p/94bb3a8266e0) |
-| Fri, 17 Oct 2025 17:38:19 GMT | How I Triage Phishing Emails: A SOC Analyst’s Practical Guide | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/cccb9bb91dd1) |
-| Fri, 17 Oct 2025 17:32:36 GMT | What Is a Storage Bucket in Cloud Computing? Explained with a Simple Analogy | Natarajan C K | [Read More](https://medium.com/p/4f87788ecfa6) |
