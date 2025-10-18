@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 19:42:25 GMT | 10 Intriguing Cybersecurity Startup Ideas You Can Build as a Micro-SaaS | John Muconto | [Read More](https://medium.com/p/acc8b6640486) |
+| Sat, 18 Oct 2025 19:30:08 GMT | Day 13 of my Cybersecurity Journey: Networking Essentials. | Ogundipe Priscilla | [Read More](https://medium.com/p/23484199c0dd) |
 | Sat, 18 Oct 2025 19:27:55 GMT | IDOR lead to unauthorized Access Organizations function | HBlack Ghost | [Read More](https://medium.com/p/0dc707011dd1) |
 | Sat, 18 Oct 2025 19:20:25 GMT | Social Engineering: How Hackers Trick You (And How to Stop Them) | Muhammed Anas | [Read More](https://medium.com/p/570ef7b3ef47) |
 | Sat, 18 Oct 2025 19:16:45 GMT | Forgotten ‍️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/b440ad425bac) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 10:19:41 GMT | RootMe TryHackMe Walkthrough — Upload Bypass, Reverse Shell & Privilege Escalation | 0xpynge | [Read More](https://medium.com/p/1b96d4331da7) |
 | Sat, 18 Oct 2025 10:17:12 GMT | Ethical Hacking - Activity 6 — Rootme TryHackMe Room | Forzr0nin | [Read More](https://medium.com/p/75a030cd46a8) |
 | Sat, 18 Oct 2025 10:16:10 GMT | Why Samsung A Series Phones Are Still the Smartest Buy in 2025 | Hana Saito | [Read More](https://medium.com/p/df73b8e6c06f) |
-| Sat, 18 Oct 2025 10:10:24 GMT | Librephone, thoughts, facts and opinions | Dabest | [Read More](https://medium.com/p/d3dc4040afae) |
-| Sat, 18 Oct 2025 10:09:25 GMT | Dav- Try H4ck M3- Walk_Through | Celestialez Cerebroz | [Read More](https://medium.com/p/80f2b40a971f) |
