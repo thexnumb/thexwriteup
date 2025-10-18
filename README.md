@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 23:18:02 GMT | Silence After Security.txt: When a Promise to Report Is Ignored | D Johnston | [Read More](https://medium.com/p/9efc2741f7a4) |
+| Sat, 18 Oct 2025 23:14:41 GMT | Solving OWASP Android Uncrackable L2 | D0loresH4ze | [Read More](https://medium.com/p/fc5421e33536) |
 | Sat, 18 Oct 2025 23:05:02 GMT | Security Flaws in VS Extensions Expose Developers to Threats | Valentin Podkamennyi | [Read More](https://medium.com/p/45f54c081200) |
 | Sat, 18 Oct 2025 23:01:19 GMT | Automating Security with Tines and LimaCharlie | Mcl0ng0ng | [Read More](https://medium.com/p/4bdc0ff3256d) |
 | Sat, 18 Oct 2025 22:39:32 GMT | The QUAD at a Crossroads | Sumant Vidwans | [Read More](https://medium.com/p/0a6f66a345be) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 13:02:39 GMT | Feedly vs. ThreatLandscapeMonitoring.com — A CTI Analyst’s Take | Cyber threat intelligence | [Read More](https://medium.com/p/f9961934a239) |
 | Sat, 18 Oct 2025 12:55:31 GMT | The Ultimate Browser Toolkit: Part 3 | XoX | [Read More](https://medium.com/p/2d63ef71fa5c) |
 | Sat, 18 Oct 2025 12:41:10 GMT | From Curiosity to Connection: My Experience Inside the RaccoonLine Network | ravensoul studio | [Read More](https://medium.com/p/839c0eb6676c) |
-| Sat, 18 Oct 2025 12:40:47 GMT | Learning Fortinet Firewall — LESSON 2: DNAT & PORT FORWARDING | Rouell Mamaril | [Read More](https://medium.com/p/71f53a11f96d) |
-| Sat, 18 Oct 2025 12:31:47 GMT | Tracking Kerberos & NTLM Authentication Failures and Investigation | Dean | [Read More](https://medium.com/p/67512861a65a) |
