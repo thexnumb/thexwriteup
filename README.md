@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 03:08:39 GMT | Threat Modelling — Stop Hackers First | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d2034510793f) |
+| Sat, 18 Oct 2025 03:03:19 GMT | Infostealers — The Silent Data Thief | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/a87496d959ac) |
+| Sat, 18 Oct 2025 03:01:52 GMT | Germany Resorts to Draft Lottery | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/13288b22b9b7) |
+| Sat, 18 Oct 2025 02:45:31 GMT | Introducing SnitchBot: Where AI Meets Cyber Intelligence | Cybasquad | [Read More](https://medium.com/p/80f8e33054d3) |
 | Sat, 18 Oct 2025 02:31:50 GMT | Burp Suite: 15 Pro Tips You’ll Wish You Knew Sooner | IamPreth | [Read More](https://medium.com/p/f4dd4b9a701c) |
 | Sat, 18 Oct 2025 02:31:17 GMT | The CIA Triad is Inadequate: Authenticity is the Non-Negotiable Fourth Pillar for AI-Era Risk… | Al Lyle | [Read More](https://medium.com/p/04642ff69351) |
 | Sat, 18 Oct 2025 02:22:25 GMT | Hexstrike & BOAZ: A First Look at AI-Powered Evasion | Lewis Desmond | [Read More](https://medium.com/p/7c429e46ab46) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 16:53:10 GMT | Man-in-the-Middle (MITM) Attacks: Eavesdropping on Communications | Cyber Security Research | [Read More](https://medium.com/p/2547e0aec002) |
 | Fri, 17 Oct 2025 16:50:04 GMT | OSINT in 2025 — The Silent Superpower Behind Every Investigation | Oikawasain | [Read More](https://medium.com/p/9176be07acc9) |
 | Fri, 17 Oct 2025 16:46:19 GMT | Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks | Cyber Security Research | [Read More](https://medium.com/p/03867cc7d2d6) |
-| Fri, 17 Oct 2025 16:39:15 GMT | “Why did you change it?”: The hidden cost of improving Workflows | Humberto Acosta | [Read More](https://medium.com/p/09499b4199ad) |
-| Fri, 17 Oct 2025 16:36:05 GMT | Cybersecurity News Review — Week 42 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/b97416861589) |
-| Fri, 17 Oct 2025 16:36:02 GMT | Ransomware-as-a-Service (RaaS): The Shadow Economy Powering Modern Cyber Extortion | Pavlović Goran | [Read More](https://medium.com/p/3fb2826b40c6) |
-| Fri, 17 Oct 2025 16:35:10 GMT | Cross-Site Scripting (XSS) Attacks: Prevention and Mitigation | Cyber Security Research | [Read More](https://medium.com/p/70d6d0ebaac2) |
