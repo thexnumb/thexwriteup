@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 14:04:49 GMT | Detecting Payload Injection in Memory using Volatility | ze4rch1tect | [Read More](https://medium.com/p/b84101ff391f) |
+| Sat, 18 Oct 2025 14:00:07 GMT | The Legal Layer — Forensic Proof and Accountability in Digital Finance | Abatis ABTU | [Read More](https://medium.com/p/dda996c2d201) |
+| Sat, 18 Oct 2025 13:40:23 GMT | The Student Security Analyst: Providing SOC Services Remotely | Samina Perveen | [Read More](https://medium.com/p/d6959731f678) |
 | Sat, 18 Oct 2025 13:37:01 GMT | Protect Your SaaS Stack: Why Endpoint Monitoring Completes Your Security Posture | Paul Meyer | [Read More](https://medium.com/p/681b2b094047) |
 | Sat, 18 Oct 2025 13:35:42 GMT | CS student tries to evade AV (PART 4) | Mahmudul Hasan | [Read More](https://medium.com/p/eca24ae85934) |
+| Sat, 18 Oct 2025 13:34:12 GMT | Practical Thread Hijacking — From Theory to Malware Code | 0xc4t | [Read More](https://medium.com/p/74fa097c9311) |
 | Sat, 18 Oct 2025 13:30:20 GMT | How to hack GMail password online: FREE methods of hackers | Vaveotechnology | [Read More](https://medium.com/p/1a7cdde92a3d) |
 | Sat, 18 Oct 2025 13:30:16 GMT | The Future of Free Speech Lies in Decentralized Messengers Like SecureBit.chat | Volodymyr | [Read More](https://medium.com/p/0c706c686c75) |
 | Sat, 18 Oct 2025 13:20:12 GMT | Freedom Insurance | Frank Gullo | [Read More](https://medium.com/p/a3cbdecb7cca) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 06:18:06 GMT | How Software Piracy Affects Cybersecurity Globally | Best Software Buy | [Read More](https://medium.com/p/a12bdf03be16) |
 | Sat, 18 Oct 2025 06:17:31 GMT | Conquering the OSCP+: A Guide to the Mental Marathon | Joshua Alwin | [Read More](https://medium.com/p/a9ae235a523f) |
 | Sat, 18 Oct 2025 06:16:28 GMT | VMware and Kali Linux Installation Guidance | CyberFaez | [Read More](https://medium.com/p/a01c3bfd9e3e) |
-| Sat, 18 Oct 2025 06:14:29 GMT | The Ultimate Guide to 20 Enterprise SIEM Tools for Finding Your Perfect Security Fit | Saikat Paul | [Read More](https://medium.com/p/18fc9acf03c9) |
-| Sat, 18 Oct 2025 06:03:47 GMT | Agentic AI in Cybersecurity: The New Frontier of Digital Defense | Dawood thouseef | [Read More](https://medium.com/p/da0d1c71cd50) |
-| Sat, 18 Oct 2025 05:59:23 GMT | OWASP Mobile Top 10 — M9: Insecure Data Storage (“Writing your love letters on sticky notes and… | bithowl | [Read More](https://medium.com/p/6783217f1273) |
-| Sat, 18 Oct 2025 05:49:01 GMT | Why the Tecno Spark 20 Pro Plus Is a Game-Changer | Elowen Virelle | [Read More](https://medium.com/p/96b5eaf9d5bc) |
