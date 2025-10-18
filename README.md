@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 10:32:03 GMT | Single Sign-On (SSO) Explained Simply: The Master Key to Your Digital Doors | Natarajan C K | [Read More](https://medium.com/p/ec5a20c96b5f) |
+| Sat, 18 Oct 2025 10:19:41 GMT | RootMe TryHackMe Walkthrough — Upload Bypass, Reverse Shell & Privilege Escalation | 0xpynge | [Read More](https://medium.com/p/1b96d4331da7) |
+| Sat, 18 Oct 2025 10:17:12 GMT | Ethical Hacking - Activity 6 — Rootme TryHackMe Room | Forzr0nin | [Read More](https://medium.com/p/75a030cd46a8) |
+| Sat, 18 Oct 2025 10:16:10 GMT | Why Samsung A Series Phones Are Still the Smartest Buy in 2025 | Hana Saito | [Read More](https://medium.com/p/df73b8e6c06f) |
+| Sat, 18 Oct 2025 10:10:24 GMT | Librephone, thoughts, facts and opinions | Dabest | [Read More](https://medium.com/p/d3dc4040afae) |
 | Sat, 18 Oct 2025 10:09:25 GMT | Dav- Try H4ck M3- Walk_Through | Celestialez Cerebroz | [Read More](https://medium.com/p/80f2b40a971f) |
 | Sat, 18 Oct 2025 10:03:56 GMT | TryHackMe - Network Traffic Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/82f75be239bb) |
 | Sat, 18 Oct 2025 10:03:35 GMT | How an iframe Could Ruin Your Website (and How sandbox Saves It) | Christian | [Read More](https://medium.com/p/5677f16fa39b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 01:25:20 GMT | TPG Telecom IP Hosting CoinMiner & Android Malware Staging Server Dual Vector Campaign Exposed | Regan Temudo | [Read More](https://medium.com/p/0c741f5727ff) |
 | Sat, 18 Oct 2025 00:56:01 GMT | Exploring E-mail Encryption: My Adventures in Securing Digital Messages | Anderson Santos | [Read More](https://medium.com/p/3cbef473f8b3) |
 | Sat, 18 Oct 2025 00:52:08 GMT | Vulture’s Retreat | Liora Bloom | [Read More](https://medium.com/p/d32d194cdf97) |
-| Sat, 18 Oct 2025 00:31:23 GMT | Get Exclusive DORK Bonuses in October 2025 | DORK | [Read More](https://medium.com/p/a463732eaaa8) |
-| Sat, 18 Oct 2025 00:22:37 GMT | Your Face Is Now Your Prison: Inside the Global Surveillance State | Raf Vantongerloo | [Read More](https://medium.com/p/7cc5a28d38fb) |
-| Sat, 18 Oct 2025 00:15:02 GMT | Project 1 Blockchain | Andrew James | [Read More](https://medium.com/p/aa0c6884bdb9) |
-| Sat, 18 Oct 2025 00:13:01 GMT | Uncovering Your IT Identity: How to Choose a Fulfilling Tech Career | Jessica Mai Tran | [Read More](https://medium.com/p/3cb331c39afb) |
-| Sat, 18 Oct 2025 00:07:46 GMT | The Enduring Beauty of Simple Love: Loyalty, Companionship, and Lifelong Devotion | Lucas Brown | [Read More](https://medium.com/p/57ffea8ae49f) |
