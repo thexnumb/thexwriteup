@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 10:09:25 GMT | Dav- Try H4ck M3- Walk_Through | Celestialez Cerebroz | [Read More](https://medium.com/p/80f2b40a971f) |
+| Sat, 18 Oct 2025 10:03:56 GMT | TryHackMe - Network Traffic Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/82f75be239bb) |
+| Sat, 18 Oct 2025 10:03:35 GMT | How an iframe Could Ruin Your Website (and How sandbox Saves It) | Christian | [Read More](https://medium.com/p/5677f16fa39b) |
+| Sat, 18 Oct 2025 10:02:27 GMT | Expressway Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/11ca755c16ed) |
+| Sat, 18 Oct 2025 10:00:39 GMT | Master Passive Recon in Web Pentesting | D1d0F | [Read More](https://medium.com/p/aabff9645121) |
+| Sat, 18 Oct 2025 09:59:14 GMT | Cybersecurity Course | Molletibalu | [Read More](https://medium.com/p/4e3d86f2f17d) |
+| Sat, 18 Oct 2025 09:57:40 GMT | Build Your First Hacking Lab for Free: A Step-by-Step Guide | Ddude | [Read More](https://medium.com/p/2baf3c3cde6b) |
+| Sat, 18 Oct 2025 09:57:02 GMT | TryHackMe #131 - Boogeyman 3 | SiberYuk | [Read More](https://medium.com/p/c36556a871b8) |
+| Sat, 18 Oct 2025 09:52:37 GMT | TryHackMe #130 - Boogeyman 2 | SiberYuk | [Read More](https://medium.com/p/f38e2e557586) |
+| Sat, 18 Oct 2025 09:47:01 GMT | TryHackMe #129 - Boogeyman 1 | SiberYuk | [Read More](https://medium.com/p/7b5edf2ed3c1) |
+| Sat, 18 Oct 2025 09:44:36 GMT | Cybersecurity Without a Degree? Your Call. | Authlyn | [Read More](https://medium.com/p/1250c715699f) |
+| Sat, 18 Oct 2025 09:42:38 GMT | TryHackMe #128 - Tempest | SiberYuk | [Read More](https://medium.com/p/d28162742112) |
+| Sat, 18 Oct 2025 09:37:06 GMT | Anatomy of a Hack: Deconstructing the Cyber Kill Chain | Ddude | [Read More](https://medium.com/p/48e605dead9b) |
 | Sat, 18 Oct 2025 09:21:53 GMT | SMTP Protocol Security (part 1/2) | Pxl | [Read More](https://medium.com/p/cc26519a83bf) |
 | Sat, 18 Oct 2025 09:12:25 GMT | 5 Subtle Security Mistakes in API Development (That I Keep Seeing Everywhere) | Ujjawal Rohra | [Read More](https://medium.com/p/cd1aa1318811) |
 | Sat, 18 Oct 2025 09:10:59 GMT | Cyberattacks Skyrocketing? You’re Not Alone! | Truspex | [Read More](https://medium.com/p/9902eaa1fd38) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 00:15:02 GMT | Project 1 Blockchain | Andrew James | [Read More](https://medium.com/p/aa0c6884bdb9) |
 | Sat, 18 Oct 2025 00:13:01 GMT | Uncovering Your IT Identity: How to Choose a Fulfilling Tech Career | Jessica Mai Tran | [Read More](https://medium.com/p/3cb331c39afb) |
 | Sat, 18 Oct 2025 00:07:46 GMT | The Enduring Beauty of Simple Love: Loyalty, Companionship, and Lifelong Devotion | Lucas Brown | [Read More](https://medium.com/p/57ffea8ae49f) |
-| Sat, 18 Oct 2025 00:01:49 GMT | Complete Guide to Dnsx for Mass DNS Resolution and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/f8bed1598770) |
-| Fri, 17 Oct 2025 23:57:34 GMT | When Medical Identity Theft Meets System Failure: A Parent’s Nightmare | Krystal | [Read More](https://medium.com/p/ae79380bfdb0) |
-| Fri, 17 Oct 2025 23:34:58 GMT | [ SOC Alert => FakeGPT Malicious Chrome Extension ] by LetsDefend / EventID: 153 | EduKayky | [Read More](https://medium.com/p/75fe1d815a2b) |
-| Fri, 17 Oct 2025 23:27:36 GMT | Quantum Cybersecurity: Preparing Your Data for the Next Era | Mirza Niaz Morshed | [Read More](https://medium.com/p/9ef3bbb5d2e5) |
-| Fri, 17 Oct 2025 23:22:15 GMT | DP-Diffusion-TS: Interpretable Time Series Generation with Differential Privacy | David Zagardo | [Read More](https://medium.com/p/ffeee07a8f2a) |
-| Fri, 17 Oct 2025 23:18:22 GMT | Why Darkweb Marketplace Reviews Cannot Always Be Trusted | Tor BBB | [Read More](https://medium.com/p/3c8b99aeb203) |
-| Fri, 17 Oct 2025 22:58:58 GMT | TryHackMe Linux threat detection 3 Walkthrough | Tanwietayim A | [Read More](https://medium.com/p/1c2ca4271b68) |
-| Fri, 17 Oct 2025 22:57:38 GMT | Techno-Resurrection Has Begun | The Writings of Ericajean | [Read More](https://medium.com/p/57ce73de9fb7) |
-| Fri, 17 Oct 2025 22:56:35 GMT | Day 5: The Day Someone Ordered Pizza… and Crashed an Entire City | Mr £n1s4 | [Read More](https://medium.com/p/72d26f59cc30) |
-| Fri, 17 Oct 2025 22:54:48 GMT | Startup — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/7016be45d5b7) |
-| Fri, 17 Oct 2025 22:46:55 GMT | When Text Becomes the Payload: Detecting AI-Generated Cyberattacks in Real Time | Twinkle Jaineera | [Read More](https://medium.com/p/85bf84812283) |
-| Fri, 17 Oct 2025 22:38:49 GMT | The Unbearable Lightness of Being Helpful (why Agentic coding sucks & how this ends) | Tomislav Glavaš | [Read More](https://medium.com/p/e8a9b67ef139) |
-| Fri, 17 Oct 2025 22:36:43 GMT | Backup Encryption Features in Newer Versions | Nurali ATMACA | [Read More](https://medium.com/p/e7d7047bd406) |
