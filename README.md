@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 02:31:50 GMT | Burp Suite: 15 Pro Tips You’ll Wish You Knew Sooner | IamPreth | [Read More](https://medium.com/p/f4dd4b9a701c) |
+| Sat, 18 Oct 2025 02:31:17 GMT | The CIA Triad is Inadequate: Authenticity is the Non-Negotiable Fourth Pillar for AI-Era Risk… | Al Lyle | [Read More](https://medium.com/p/04642ff69351) |
+| Sat, 18 Oct 2025 02:22:25 GMT | Hexstrike & BOAZ: A First Look at AI-Powered Evasion | Lewis Desmond | [Read More](https://medium.com/p/7c429e46ab46) |
+| Sat, 18 Oct 2025 01:58:47 GMT | Information Overload | Haylee Parniske | [Read More](https://medium.com/p/41adc631f6f3) |
+| Sat, 18 Oct 2025 01:32:37 GMT | Hackers Are Now Hiding Malware Inside Crypto Smart Contracts — Here’s What You Need to Know | Hashan Tharindu | [Read More](https://medium.com/p/96a2d7b41f2d) |
 | Sat, 18 Oct 2025 01:26:24 GMT | Case Study: How OSINT Was Used in a Real Cyber Investigation | Shahzaib | [Read More](https://medium.com/p/ebb22e14105b) |
+| Sat, 18 Oct 2025 01:26:07 GMT | Automating Recon: How to Build Your Own OSINT Scripts in Python | Aj | [Read More](https://medium.com/p/0600c36eab5d) |
+| Sat, 18 Oct 2025 01:25:56 GMT | Securing Containers and Kubernetes in the Cloud | Samina Perveen | [Read More](https://medium.com/p/2bfdab07045a) |
+| Sat, 18 Oct 2025 01:25:20 GMT | TPG Telecom IP Hosting CoinMiner & Android Malware Staging Server Dual Vector Campaign Exposed | Regan Temudo | [Read More](https://medium.com/p/0c741f5727ff) |
 | Sat, 18 Oct 2025 00:56:01 GMT | Exploring E-mail Encryption: My Adventures in Securing Digital Messages | Anderson Santos | [Read More](https://medium.com/p/3cbef473f8b3) |
 | Sat, 18 Oct 2025 00:31:23 GMT | Get Exclusive DORK Bonuses in October 2025 | DORK | [Read More](https://medium.com/p/a463732eaaa8) |
 | Sat, 18 Oct 2025 00:22:37 GMT | Your Face Is Now Your Prison: Inside the Global Surveillance State | Raf Vantongerloo | [Read More](https://medium.com/p/7cc5a28d38fb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Oct 2025 16:36:05 GMT | Cybersecurity News Review — Week 42 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/b97416861589) |
 | Fri, 17 Oct 2025 16:36:02 GMT | Ransomware-as-a-Service (RaaS): The Shadow Economy Powering Modern Cyber Extortion | Pavlović Goran | [Read More](https://medium.com/p/3fb2826b40c6) |
 | Fri, 17 Oct 2025 16:35:10 GMT | Cross-Site Scripting (XSS) Attacks: Prevention and Mitigation | Cyber Security Research | [Read More](https://medium.com/p/70d6d0ebaac2) |
-| Fri, 17 Oct 2025 16:29:35 GMT | How hackers compromise entire businesses by gaining access to a single service — Active Directory | KRY | [Read More](https://medium.com/p/bff768e9fee4) |
-| Fri, 17 Oct 2025 16:27:21 GMT | Maximize resource usage and minimize risk with Nomad-based Workload Security Rings | Chris Adkin | [Read More](https://medium.com/p/cb6fa4d44d6a) |
-| Fri, 17 Oct 2025 16:26:46 GMT | Uncovered: The Secret War for PUBG’s Competitive Integrity (2025 Investigation) | PediaPie | [Read More](https://medium.com/p/d9f630a2db09) |
-| Fri, 17 Oct 2025 16:26:25 GMT | Indicators of Attack, Indicators of Compromise, and Now… Indicators of Prompt | Sol González | [Read More](https://medium.com/p/e823186fa34e) |
-| Fri, 17 Oct 2025 16:19:42 GMT | Building a Better World with Code: How AI is Powering a Sustainable Future | xploitnation | [Read More](https://medium.com/p/475eaf2a43cc) |
-| Fri, 17 Oct 2025 16:08:07 GMT | They’re Selling Soulmates for $45.76 — And People Are Buying It | Tanmay Kumar Dalai | [Read More](https://medium.com/p/717a9821b03d) |
-| Fri, 17 Oct 2025 16:05:53 GMT | When No One Believes You: A True Story of Cybercrime, Ignored Warnings, and Stolen Credit | Krystal | [Read More](https://medium.com/p/0c601ba3303f) |
-| Fri, 17 Oct 2025 15:53:01 GMT | The Multi-Billion Dollar Solution: Philosophical & Epistemological Stabilization as the Answer to… | Julian Soloninka | [Read More](https://medium.com/p/a06f50c98555) |
