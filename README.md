@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 19:06:49 GMT | Cyber and Coffee: Pour Yourself a Cup and Catch Up on Cybersecurity — October 2025 | Cyber and Coffee | [Read More](https://medium.com/p/f05cbe23a75b) |
+| Sat, 18 Oct 2025 19:05:34 GMT | Foundations & Hunting SSRF Checklist — A SSRF Playbook (Part 1) | Abhishek meena | [Read More](https://medium.com/p/795ef13e9d28) |
+| Sat, 18 Oct 2025 18:58:37 GMT | Must-Know Compliance Basics for a SOC Analyst To Stand Out in an Interview—A Short Guide | Iftikhar Zaidi | [Read More](https://medium.com/p/4b09ed25a060) |
+| Sat, 18 Oct 2025 18:51:18 GMT | Unlocking Blockchain Security Data | Xavier Langlais | [Read More](https://medium.com/p/ad0c0a3803f2) |
+| Sat, 18 Oct 2025 18:47:59 GMT | Google Dorking: The Guide Nobody Told You About | Muhammed Anas | [Read More](https://medium.com/p/8e20cd03743b) |
+| Sat, 18 Oct 2025 18:44:12 GMT | I Don’t Know What I Feel Anymore | Asa | [Read More](https://medium.com/p/5601f3170380) |
 | Sat, 18 Oct 2025 18:28:47 GMT | Microsoft Removes Passwords from Entra ID | Ean Dudley | [Read More](https://medium.com/p/0cbb54561ecd) |
 | Sat, 18 Oct 2025 18:03:30 GMT | 10 Mistakes Every Beginner Ethical Hacker Makes (and How to Avoid Them in 2025) | Lazy Hunter | [Read More](https://medium.com/p/aa89c6b92a87) |
 | Sat, 18 Oct 2025 18:02:28 GMT | Guide to becoming an effective SIA officer on a microsite or empty facility | Dr Francesco Dergano | [Read More](https://medium.com/p/80b24c6bf707) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 10:03:35 GMT | How an iframe Could Ruin Your Website (and How sandbox Saves It) | Christian | [Read More](https://medium.com/p/5677f16fa39b) |
 | Sat, 18 Oct 2025 10:02:27 GMT | Expressway Hack The Box Walkthrough | NourInTech | [Read More](https://medium.com/p/11ca755c16ed) |
 | Sat, 18 Oct 2025 10:00:39 GMT | Master Passive Recon in Web Pentesting | D1d0F | [Read More](https://medium.com/p/aabff9645121) |
-| Sat, 18 Oct 2025 09:59:14 GMT | Cybersecurity Course | Molletibalu | [Read More](https://medium.com/p/4e3d86f2f17d) |
-| Sat, 18 Oct 2025 09:57:40 GMT | Build Your First Hacking Lab for Free: A Step-by-Step Guide | Ddude | [Read More](https://medium.com/p/2baf3c3cde6b) |
-| Sat, 18 Oct 2025 09:57:02 GMT | TryHackMe #131 - Boogeyman 3 | SiberYuk | [Read More](https://medium.com/p/c36556a871b8) |
-| Sat, 18 Oct 2025 09:52:37 GMT | TryHackMe #130 - Boogeyman 2 | SiberYuk | [Read More](https://medium.com/p/f38e2e557586) |
-| Sat, 18 Oct 2025 09:47:01 GMT | TryHackMe #129 - Boogeyman 1 | SiberYuk | [Read More](https://medium.com/p/7b5edf2ed3c1) |
-| Sat, 18 Oct 2025 09:44:36 GMT | Cybersecurity Without a Degree? Your Call. | Authlyn | [Read More](https://medium.com/p/1250c715699f) |
