@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 12:25:21 GMT | Wait, You’re Mining While Browsing? A Conversation About RaccoonLine dVPN | Murad Web3 | [Read More](https://medium.com/p/984eab857cc1) |
+| Sat, 18 Oct 2025 12:21:41 GMT | Our Tech is breaking the World. The ACM Code of Ethics is my Compass. | Maha Khalid | [Read More](https://medium.com/p/0e75185c5477) |
+| Sat, 18 Oct 2025 12:21:01 GMT | Using Secrets from your 1Password Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/8c84f2006110) |
+| Sat, 18 Oct 2025 12:20:51 GMT | From Credentials to Control: Understanding Privilege Escalation in Windows Environments | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/f6a8023c2bf9) |
+| Sat, 18 Oct 2025 12:08:12 GMT | The Delete Button Anyone Could Press: How I Wiped a Store’s Catalog and Brought Products Back from… | Abdelrhman Reda | [Read More](https://medium.com/p/3eb8df9390a2) |
+| Sat, 18 Oct 2025 12:02:36 GMT | Careers in Cybersecurity: Life as a Security Analyst (SOC Edition) | Samuel Odekunle | [Read More](https://medium.com/p/399f7420233a) |
+| Sat, 18 Oct 2025 12:02:36 GMT | VLAN Hopping Attack and Prevention Examples | Esra Kayhan | [Read More](https://medium.com/p/f134eea37ac3) |
+| Sat, 18 Oct 2025 11:59:42 GMT | DockerLabs Writeup — Master (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9130a95360d1) |
+| Sat, 18 Oct 2025 11:46:30 GMT | Understanding Which of the Following Is an Application Layer Protocol | Devin Rosario | [Read More](https://medium.com/p/69273c74a735) |
 | Sat, 18 Oct 2025 11:27:00 GMT | SAKURA ROOM -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/21c07011a1e6) |
 | Sat, 18 Oct 2025 11:17:23 GMT | Malware Development: Writing a Keylogger in C (Part I) | Beri Contraster | [Read More](https://medium.com/p/0e5cbff87104) |
 | Sat, 18 Oct 2025 11:11:47 GMT | Hacking 101 — Crack the Code (Legally!) | sh4dowkey | [Read More](https://medium.com/p/8c357651414f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 04:11:18 GMT | 24 HTML Layout and Structure Using Div and Span | Rana Awais | [Read More](https://medium.com/p/5629d804162b) |
 | Sat, 18 Oct 2025 04:06:58 GMT | 23 HTML Semantic Elements | Rana Awais | [Read More](https://medium.com/p/ea5cb3eae68e) |
 | Sat, 18 Oct 2025 04:03:23 GMT | 22 HTML Media Elements Audio and Video | Rana Awais | [Read More](https://medium.com/p/3deef790e9e7) |
-| Sat, 18 Oct 2025 03:56:55 GMT | $10,0000 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal… | Blackbox | [Read More](https://medium.com/p/9148c7e06cfc) |
-| Sat, 18 Oct 2025 03:41:52 GMT | How Hackers Turned Velociraptor Into a Ransomware Weapon | Deven Chhajed | [Read More](https://medium.com/p/c7528ea5095d) |
-| Sat, 18 Oct 2025 03:26:39 GMT | Phishing via Error Message — When UI Messages Become Attack Surfaces | Mandar Satam | [Read More](https://medium.com/p/1eca838fea3f) |
-| Sat, 18 Oct 2025 03:20:56 GMT | Nodes, Gateways and beyond. | Tushar Kulkarni | [Read More](https://medium.com/p/38c003f44e90) |
-| Sat, 18 Oct 2025 03:08:39 GMT | Threat Modelling — Stop Hackers First | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d2034510793f) |
-| Sat, 18 Oct 2025 03:03:19 GMT | Infostealers — The Silent Data Thief | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/a87496d959ac) |
-| Sat, 18 Oct 2025 03:01:52 GMT | Germany Resorts to Draft Lottery | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/13288b22b9b7) |
-| Sat, 18 Oct 2025 02:45:31 GMT | Introducing SnitchBot: Where AI Meets Cyber Intelligence | Cybasquad | [Read More](https://medium.com/p/80f8e33054d3) |
-| Sat, 18 Oct 2025 02:31:50 GMT | Burp Suite: 15 Pro Tips You’ll Wish You Knew Sooner | IamPreth | [Read More](https://medium.com/p/f4dd4b9a701c) |
