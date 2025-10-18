@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 11:27:00 GMT | SAKURA ROOM -TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/21c07011a1e6) |
+| Sat, 18 Oct 2025 11:17:23 GMT | Malware Development: Writing a Keylogger in C (Part I) | Beri Contraster | [Read More](https://medium.com/p/0e5cbff87104) |
 | Sat, 18 Oct 2025 11:11:47 GMT | Hacking 101 — Crack the Code (Legally!) | sh4dowkey | [Read More](https://medium.com/p/8c357651414f) |
 | Sat, 18 Oct 2025 10:54:14 GMT | I Thought I Was Using RaccoonLine dVPN. Turns Out, I Was Joining It. | Paul Du Rove | [Read More](https://medium.com/p/d37a387fb4a8) |
+| Sat, 18 Oct 2025 10:52:54 GMT | Explore Recon Solana Rewards & Bonus Opportunities | Recon Solana | [Read More](https://medium.com/p/1598ed67c4a4) |
 | Sat, 18 Oct 2025 10:52:38 GMT | Resources, Scopes, Permissions & Policies in Keycloak — A Practical Guide for Mapping Legacy RBAC | Ajay Kumar | [Read More](https://medium.com/p/fd5a60f392bf) |
 | Sat, 18 Oct 2025 10:51:04 GMT | Decoding the OWASP Top 10 | sh4dowkey | [Read More](https://medium.com/p/3f2af22570dc) |
 | Sat, 18 Oct 2025 10:45:21 GMT | AI Cybersecurity Trends 2025: The Shocking Ways Hackers and Machines Are Battling for Control | Anonymous Writer | [Read More](https://medium.com/p/b96594412430) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 03:01:52 GMT | Germany Resorts to Draft Lottery | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/13288b22b9b7) |
 | Sat, 18 Oct 2025 02:45:31 GMT | Introducing SnitchBot: Where AI Meets Cyber Intelligence | Cybasquad | [Read More](https://medium.com/p/80f8e33054d3) |
 | Sat, 18 Oct 2025 02:31:50 GMT | Burp Suite: 15 Pro Tips You’ll Wish You Knew Sooner | IamPreth | [Read More](https://medium.com/p/f4dd4b9a701c) |
-| Sat, 18 Oct 2025 02:31:17 GMT | The CIA Triad is Inadequate: Authenticity is the Non-Negotiable Fourth Pillar for AI-Era Risk… | Al Lyle | [Read More](https://medium.com/p/04642ff69351) |
-| Sat, 18 Oct 2025 02:22:25 GMT | Hexstrike & BOAZ: A First Look at AI-Powered Evasion | Lewis Desmond | [Read More](https://medium.com/p/7c429e46ab46) |
-| Sat, 18 Oct 2025 01:58:47 GMT | Information Overload | Haylee Parniske | [Read More](https://medium.com/p/41adc631f6f3) |
