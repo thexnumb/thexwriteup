@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Oct 2025 15:00:06 GMT | Python’s Secret Codes: The Hidden Tricks That Make You Look Like a Pro | Rocky | [Read More](https://medium.com/p/e795fa220cff) |
+| Sat, 18 Oct 2025 14:58:49 GMT | The Unbreakable Shield: The Power of Modern Defensive Cybersecurity | Melody Kelly N | [Read More](https://medium.com/p/4081920a1d20) |
+| Sat, 18 Oct 2025 14:57:47 GMT | Cybersecurity Student Contest Vietnam 2025 — Writeup CTF | Nguyen Dang Khoi | [Read More](https://medium.com/p/802068921827) |
+| Sat, 18 Oct 2025 14:53:49 GMT | Profit Over Players: The BlockBlasters Cover-Up (Steam Scandals, Part 1) | PhishDestroy | [Read More](https://medium.com/p/9e9befd3ad2e) |
+| Sat, 18 Oct 2025 14:47:27 GMT | Cybersecurity in the Era of AI-Generated Threats | Chisom Emerom | [Read More](https://medium.com/p/1ed8842eaf5f) |
+| Sat, 18 Oct 2025 14:45:46 GMT | Inside Google Jobs Series (Part 3): Networking & Security Engineering | Laixi | [Read More](https://medium.com/p/fc9ccce16613) |
 | Sat, 18 Oct 2025 14:36:40 GMT | HacktheBox: Remote Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/40fee6cf9f36) |
 | Sat, 18 Oct 2025 14:29:36 GMT | The Arch Linux Is Not for You | Anfisa Silvanova | [Read More](https://medium.com/p/c45488f2cdaa) |
 | Sat, 18 Oct 2025 14:27:00 GMT | picoCTF — Where are the robots? — writeup | AD3NCA | [Read More](https://medium.com/p/81b45771d8c4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 07:05:39 GMT | The Broken Gate — A07: Identification and Authentication Failures - OWASP Top 10 -10 Days with Me-… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/ef670f9f743f) |
 | Sat, 18 Oct 2025 06:59:18 GMT | You Need to Know About the iPhone 16 Pro Max Before Buying | Marigold Rivers | [Read More](https://medium.com/p/20a47978c2ee) |
 | Sat, 18 Oct 2025 06:57:29 GMT | DOM XSS in Action: How I Found and Proved a Client-Side Vulnerability | Alanbiju | [Read More](https://medium.com/p/d36749a25774) |
-| Sat, 18 Oct 2025 06:55:26 GMT | SSL Stripping Isn’t Old News — It’s the Door You Left Unlocked | Rubab Fatima | [Read More](https://medium.com/p/50177a809655) |
-| Sat, 18 Oct 2025 06:48:44 GMT | Twitch streamer Emiru assaulted at TwitchCon: Everything you need to know | The Cover | [Read More](https://medium.com/p/5f2e6143e72d) |
-| Sat, 18 Oct 2025 06:46:35 GMT | From Splunk to Sentinel: Your Complete Migration Roadmap | Saikat Paul | [Read More](https://medium.com/p/6ebc56a2f976) |
-| Sat, 18 Oct 2025 06:44:35 GMT | The Art of Web Penetration Testing | suraj baishya | [Read More](https://medium.com/p/e7d43d25a864) |
-| Sat, 18 Oct 2025 06:38:30 GMT | Brain-Inspired Chips and the Future of Cybersecurity | iam_with_you11 | [Read More](https://medium.com/p/09e92a0ba108) |
-| Sat, 18 Oct 2025 06:37:08 GMT | TryHackMe’s c4ptur3-th3-fl4g room — Writeup / Walk through | AhiLight | [Read More](https://medium.com/p/83a95f2c358a) |
