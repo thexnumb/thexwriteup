@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 07:31:00 GMT | The QR Bug That Shouldn’t Exist — A Small Flaw with Big Consequences | Xormium | [Read More](https://medium.com/p/a7fb11fe1d41) |
+| Sun, 19 Oct 2025 07:25:54 GMT | PRIMER 1.0.1 Vulnhub CTF Walkthrough | D1d0D | [Read More](https://medium.com/p/cefa8a801a47) |
+| Sun, 19 Oct 2025 07:25:24 GMT | Exploiting an Insecure Android Activity for Arbitrary File Theft and Account Takeover | Yousef Elsheikh | [Read More](https://medium.com/p/07b360520a0e) |
+| Sun, 19 Oct 2025 07:22:35 GMT | Today’s Top Cyber Intelligence Highlights — Oct 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/459fdf41c9a2) |
+| Sun, 19 Oct 2025 07:21:46 GMT | Solidity Security Vulnerabilities: Common Bugs and Exploits in Smart Contracts — A BuidlGuidl CTF… | Mahdi Darabi | [Read More](https://medium.com/p/2f4557bca2e9) |
+| Sun, 19 Oct 2025 07:16:03 GMT | Dangling cname that missed by a lot of Hackers | Na_stark | [Read More](https://medium.com/p/f625a400a7aa) |
+| Sun, 19 Oct 2025 07:15:32 GMT | When RabbitMQ Is Public — A Hands-On AMQP Pentest Playbook (5671/5672) | Very Lazy Tech | [Read More](https://medium.com/p/908bb7f69521) |
+| Sun, 19 Oct 2025 07:11:40 GMT | Write-up: TryHackMe CTF (RootMe) | Matthew Benedict A. Olanda | [Read More](https://medium.com/p/561d88611207) |
 | Sun, 19 Oct 2025 07:08:25 GMT | Five Kafka Critical Information Only to be discovered while performance bottleneck and in… | nudgebyte | [Read More](https://medium.com/p/09e51ae7c889) |
 | Sun, 19 Oct 2025 07:01:20 GMT | Your Staff’s Use of AI Could Cost You Millions | Alexiei Dingli | [Read More](https://medium.com/p/2e7b870e9dbd) |
 | Sun, 19 Oct 2025 06:55:43 GMT | Try hack me — TShark Challenge I: Teamwork — Walkthrough. | Chaitanya Garware | [Read More](https://medium.com/p/df44e7265e4d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 18:02:28 GMT | Guide to becoming an effective SIA officer on a microsite or empty facility | Dr Francesco Dergano | [Read More](https://medium.com/p/80b24c6bf707) |
 | Sat, 18 Oct 2025 17:55:58 GMT | RootQuest: Hacking the Thieveshkar Box from Forensic Challenge to Kernel Root | Thieveshkar | [Read More](https://medium.com/p/7426b92ebbac) |
 | Sat, 18 Oct 2025 17:37:57 GMT | Maximize Your Benefits with ChainBounty Rewards | ChainBounty | [Read More](https://medium.com/p/4d5af47548d5) |
-| Sat, 18 Oct 2025 17:37:48 GMT | Your Complete Guide to ChainBounty Rewards & Eligibility | ChainBounty | [Read More](https://medium.com/p/91d564ddda96) |
-| Sat, 18 Oct 2025 17:26:12 GMT | 5G Networks and Security Challenges | Sudhakar Tiwari | [Read More](https://medium.com/p/6874a8c51e62) |
-| Sat, 18 Oct 2025 17:18:30 GMT | Lo-Fi TryHackMe Writeup | iIyas | [Read More](https://medium.com/p/c5e427826587) |
-| Sat, 18 Oct 2025 17:02:19 GMT | Ehxb - Race Conditions Vulnerabilities I | Ehxb | [Read More](https://medium.com/p/9eea8b145465) |
-| Sat, 18 Oct 2025 17:02:18 GMT | Offensive Security Intro — TryHackMe | Wesley Santos | [Read More](https://medium.com/p/c89ddcf94633) |
-| Sat, 18 Oct 2025 16:53:29 GMT | HTB Academy File Upload Attacks | Dennywise | [Read More](https://medium.com/p/266723a0025e) |
-| Sat, 18 Oct 2025 16:46:39 GMT | The Core Principles of Cybersecurity Every Beginner Should Know | Ferdi Edogawa | [Read More](https://medium.com/p/9b2894f7a208) |
-| Sat, 18 Oct 2025 16:45:48 GMT | Top 7 Cybersecurity News Stories You Can’t Miss (Oct 11–18, 2025) | Siva Desetti | [Read More](https://medium.com/p/3f9977efe4e1) |
