@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 11:11:21 GMT | The Top 50 Python Cybersecurity Commands for Intermediates | Hex Shift | [Read More](https://medium.com/p/a719a4c21eca) |
+| Sun, 19 Oct 2025 11:08:35 GMT | 27 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/cbd7fdfdebd3) |
+| Sun, 19 Oct 2025 11:08:14 GMT | What are the Best 24/7 Live CCTV Monitoring Services Available? | Marcela John | [Read More](https://medium.com/p/a90e89dc6809) |
+| Sun, 19 Oct 2025 11:06:00 GMT | Project Sentinel: A Global Initiative Against Hypercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/ac4f9342a2ea) |
+| Sun, 19 Oct 2025 11:03:00 GMT | 26 HTML Id and Class Attributes | Rana Awais | [Read More](https://medium.com/p/c2d1ce15e4cf) |
+| Sun, 19 Oct 2025 10:59:13 GMT | How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App (All from the Share… | Ferdus Alam | [Read More](https://medium.com/p/4d425a15aa37) |
+| Sun, 19 Oct 2025 10:59:09 GMT | What Is SAML? Explained with a Simple Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/f43816bfbf41) |
+| Sun, 19 Oct 2025 10:59:03 GMT | 25 HTML Block and Inline Elements | Rana Awais | [Read More](https://medium.com/p/8ac1d0408eb9) |
+| Sun, 19 Oct 2025 10:42:57 GMT | How to Build a Personal Cyber Defense Stack in 2025 | Shahzaib | [Read More](https://medium.com/p/b928bc79a563) |
+| Sun, 19 Oct 2025 10:42:54 GMT | Learning Network Scanning with Nmap: My Hands-on Lab Experience | Zulfianarahmi | [Read More](https://medium.com/p/c376261abbf2) |
+| Sun, 19 Oct 2025 10:42:16 GMT | TryHackMe #134 - Intro to Log Analysis | SiberYuk | [Read More](https://medium.com/p/4a4dd8ff1824) |
+| Sun, 19 Oct 2025 10:37:01 GMT | TryHackMe #133 - Log Operations | SiberYuk | [Read More](https://medium.com/p/96e58211c54e) |
+| Sun, 19 Oct 2025 10:36:49 GMT | CTF Writeup PADL | Yan Zaripov | [Read More](https://medium.com/p/49f94527fbab) |
 | Sun, 19 Oct 2025 10:28:24 GMT | Year Of The Rabbit: TryHackMe Writeup | 0xJad | [Read More](https://medium.com/p/9d901c94e043) |
 | Sun, 19 Oct 2025 10:27:40 GMT | How to Verify Any Screenshot or Image Online | VerifyHQ | [Read More](https://medium.com/p/8d8d0176e4a6) |
 | Sun, 19 Oct 2025 10:21:21 GMT | So You Want to Hack Smart Contracts? Here’s How to Set Up Your Offensive Security Lab | Yua Mikanana | [Read More](https://medium.com/p/9f84e527b47c) |
@@ -31,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 09:18:20 GMT | HackTheBox: DarkCorp Writeup [INSANE] | Rahul Hoysala | [Read More](https://medium.com/p/b3c49b86be20) |
 | Sun, 19 Oct 2025 09:17:46 GMT | CTFs for the clueless — TryHackMe’s RootMe | calxium | [Read More](https://medium.com/p/caeb8be3cd12) |
 | Sun, 19 Oct 2025 09:05:05 GMT | Banking on Cardano: A CTF Journey Begins | Invariant0 | [Read More](https://medium.com/p/5746918399be) |
+| Sun, 19 Oct 2025 09:03:53 GMT | Menyelami “Otak” Xinu: Petualangan Memahami Source Code Sistem Operasi (Modul 4) | Ighfir Maulana | [Read More](https://medium.com/p/29536f7e3a29) |
 | Sun, 19 Oct 2025 09:00:39 GMT | ESC2 AD CS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/c3e1740ca8da) |
 | Sun, 19 Oct 2025 08:30:03 GMT | Netcat Fundamentals | Dharmendrakumar | [Read More](https://medium.com/p/7282317a628d) |
 | Sun, 19 Oct 2025 08:25:47 GMT | I must be running mad again! | Tattle Tale | [Read More](https://medium.com/p/f9d5f9a6ff07) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 00:27:52 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/1bbf219fc212) |
 | Sun, 19 Oct 2025 00:25:19 GMT | The Email Trap: How SMBs Lose Trust, Deals, and Reputation Without Proper Configuration | Victor Yan | [Read More](https://medium.com/p/d0f8d8aee3f5) |
 | Sun, 19 Oct 2025 00:20:23 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/a6f8970a5293) |
-| Sun, 19 Oct 2025 00:19:00 GMT | How Has The Way People Build Trust Online Changed Over They Years? | Wayne Hardy: Rising Above Narcissim | [Read More](https://medium.com/p/cba17d03123c) |
-| Sun, 19 Oct 2025 00:16:03 GMT | Snapshot of the Lever to Man Kind: Cryptography | Aadya Sinha | [Read More](https://medium.com/p/1fc6f380cc9c) |
-| Sun, 19 Oct 2025 00:13:50 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/66c736cbff29) |
-| Sun, 19 Oct 2025 00:11:33 GMT | Network security plan for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/768c7e424d72) |
-| Sun, 19 Oct 2025 00:10:06 GMT | Learn How BUG Users Can Access Rewards Easily | BUG | [Read More](https://medium.com/p/f1cae1736c6e) |
-| Sun, 19 Oct 2025 00:02:39 GMT | “YOU’VE BEEN TRICKED” ... THE PSYCHOLOGY BEHIND CYBER ATTACKS (PART I) | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/d687065159e3) |
-| Sat, 18 Oct 2025 23:57:51 GMT | Forest — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/d49248a20c8a) |
-| Sat, 18 Oct 2025 23:55:19 GMT | Effective Patch Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/eb422342fa0a) |
-| Sat, 18 Oct 2025 23:49:00 GMT | Cybersecurity Incident Simulation Exercises | Cyber Security Research | [Read More](https://medium.com/p/bc389a075dfa) |
-| Sat, 18 Oct 2025 23:42:39 GMT | Building a Robust Security Operations Center (SOC) | Cyber Security Research | [Read More](https://medium.com/p/ec2c6d564dcd) |
-| Sat, 18 Oct 2025 23:37:06 GMT | CPU Cache and Side-Channel Attacks: A Silent Threat in Modern Computing | Bervice | [Read More](https://medium.com/p/86c6fee5738d) |
-| Sat, 18 Oct 2025 23:32:08 GMT | Zero Trust in Practice: Closing the Gaps OSINT Can Exploit | Aj | [Read More](https://medium.com/p/c6315de24da7) |
-| Sat, 18 Oct 2025 23:18:02 GMT | Silence After Security.txt: When a Promise to Report Is Ignored | D Johnston | [Read More](https://medium.com/p/9efc2741f7a4) |
-| Sat, 18 Oct 2025 23:14:41 GMT | Solving OWASP Android Uncrackable L2 | D0loresH4ze | [Read More](https://medium.com/p/fc5421e33536) |
