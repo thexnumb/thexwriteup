@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 04:13:59 GMT | Unraveling the Origins: How the Gregorian Calendar Came to Be | Alamsindo | [Read More](https://medium.com/p/a39085e36683) |
+| Sun, 19 Oct 2025 04:03:08 GMT | The Comfort of Anonymity | Alisa Halim | [Read More](https://medium.com/p/f324143c2060) |
 | Sun, 19 Oct 2025 03:47:38 GMT | Vanish Like a Pro Without Becoming Paranoid: Practical, Nonjudgmental OPSEC For Better Privacy | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/aea466dbf1b9) |
 | Sun, 19 Oct 2025 03:44:52 GMT | Basic SQL injection Methodology | Md. Raihan | [Read More](https://medium.com/p/9c606115eddb) |
 | Sun, 19 Oct 2025 03:42:04 GMT | Reverse First, Understand Later: The Hacker’s Approach to Learning Software | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4b6204c94cc6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 15:54:47 GMT | CSP Mastery: Clickjacking & Framing Controls (Series A-3) | Trevor Woollacott | [Read More](https://medium.com/p/09454a52750e) |
 | Sat, 18 Oct 2025 15:52:46 GMT | Understanding the Difference Between Threats, Vulnerabilities, and Risks | Nway Nway Zay Ya | [Read More](https://medium.com/p/8d97b5fb8365) |
 | Sat, 18 Oct 2025 15:46:53 GMT | They Trained for Phishing. Then the CEO Called — and It Was a Deepfake. | CyberGuide By MH | [Read More](https://medium.com/p/5b42a0c6209b) |
-| Sat, 18 Oct 2025 15:32:03 GMT | TryHackMe — Pickle Rick — Writeup | Sonny | [Read More](https://medium.com/p/3d7a07fc785d) |
-| Sat, 18 Oct 2025 15:16:44 GMT | Sneaking the Fence — Part 1 | ⚡️d4rk⚡️ | [Read More](https://medium.com/p/a2ad740ca261) |
