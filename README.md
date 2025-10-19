@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 13:11:47 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/24c57f6648a6) |
+| Sun, 19 Oct 2025 13:05:02 GMT | The Invisible Map Behind Next.js Security | Melvin Prince | [Read More](https://medium.com/p/3a60c89f6c34) |
+| Sun, 19 Oct 2025 13:02:45 GMT | The Sawtooth Mystery: How a Reference Update Broke Our Cache | Akshaya Kumar T | [Read More](https://medium.com/p/42cf2eaae3d3) |
+| Sun, 19 Oct 2025 12:55:01 GMT | Securing Modern Supply Chain Security Attacks: From Risk identification to Resilient Defense | Kiran Maraju | [Read More](https://medium.com/p/6605a4329341) |
+| Sun, 19 Oct 2025 12:54:52 GMT | TryHackMe — The Phishing Pond — Writeup | Sonny | [Read More](https://medium.com/p/78438d44535b) |
+| Sun, 19 Oct 2025 12:44:43 GMT | Understanding the CIA Triad Through Real-World Examples | emreilhan | [Read More](https://medium.com/p/57ab3f8be57b) |
+| Sun, 19 Oct 2025 12:42:34 GMT | Why Crypto Privacy Matters More Than Ever in 2025 | trueswap | [Read More](https://medium.com/p/60bda3ef1747) |
+| Sun, 19 Oct 2025 12:39:52 GMT | Try Hack Me: RootMe | m0saic | [Read More](https://medium.com/p/c259245a925c) |
+| Sun, 19 Oct 2025 12:36:55 GMT | 5 Pandas Mistakes That Are Silently Killing Your Code Speed | Martyna Panek | [Read More](https://medium.com/p/da3bd093874d) |
+| Sun, 19 Oct 2025 12:33:19 GMT | A Drink for Every Doodle | Clown Face | [Read More](https://medium.com/p/65f75d133203) |
 | Sun, 19 Oct 2025 12:32:29 GMT | I Didn’t Notice How Unsafe My Internet Was Until It Was Too Late | Sabit | [Read More](https://medium.com/p/a344ea3cdac9) |
+| Sun, 19 Oct 2025 12:31:09 GMT | 5 Cybersecurity Side Hustles That Actually Pay (I Tested Them All) | Muhammad Haider Tallal | [Read More](https://medium.com/p/7672566c38a5) |
+| Sun, 19 Oct 2025 12:30:54 GMT | Memory Analysis for Incident Response -A Practical Approach for SOC Analysts | CyberHawk | [Read More](https://medium.com/p/3d73024e5987) |
+| Sun, 19 Oct 2025 12:29:55 GMT | RootMe Challenge: A TryHackMe Write-Up | MICHAEL JOSH MADRID | [Read More](https://medium.com/p/c83fbd628c3a) |
 | Sun, 19 Oct 2025 12:27:20 GMT | I Failed the CISSP Exam — Mistakes I Made | Muhammad Haider Tallal | [Read More](https://medium.com/p/8cbe9715a479) |
 | Sun, 19 Oct 2025 12:25:17 GMT | AMSI Bypass in 2025 — Bypassing Modern AV & EDR | Owais Lone | [Read More](https://medium.com/p/f8a46b91280e) |
 | Sun, 19 Oct 2025 12:22:37 GMT | Using Secrets from your HashiCorp Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/653fcd92afc4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 06:31:16 GMT | Using Project CodeGuard to Secure the Future of AI-Generated Code | Omar Santos | [Read More](https://medium.com/p/83bf760c9deb) |
 | Sun, 19 Oct 2025 06:22:38 GMT | When Client-Side Validation Isn’t Enough — Porsche Contact Form Logic Bypass | Mandar Satam | [Read More](https://medium.com/p/91f2451015e3) |
 | Sun, 19 Oct 2025 06:21:52 GMT | Humans at the Heart of Cyber-Physical Security: Why People Are the Real Weak Link | Gess | [Read More](https://medium.com/p/923b55d8cf88) |
-| Sun, 19 Oct 2025 06:21:12 GMT | My Experience with RaccoonLine — The Decentralized VPN That Surprised Me | Fredrick Hansson | [Read More](https://medium.com/p/e6f0b3a062ea) |
-| Sun, 19 Oct 2025 06:13:06 GMT | Why iPhone 12 Pro Max Still Feels Premium Years Later | Grace Anderson | [Read More](https://medium.com/p/a612551b407c) |
-| Sun, 19 Oct 2025 05:57:45 GMT | 5 Ways to Make Your iPhone 12 Run Like New Again | Aurora Green | [Read More](https://medium.com/p/92176bbbbb2c) |
-| Sun, 19 Oct 2025 05:32:35 GMT | Learn How BUGS Users Can Access Rewards Easily | Bugs Bunny | [Read More](https://medium.com/p/5438c926aae7) |
-| Sun, 19 Oct 2025 05:13:03 GMT | OWASP Top 10 (2021): Cryptographic Failures | Abhinsubej | [Read More](https://medium.com/p/95ab2c63e828) |
-| Sun, 19 Oct 2025 05:01:50 GMT | From Authentication to Trust: Building Inclusive Cybersecurity Frameworks for a Diverse Society | Gess | [Read More](https://medium.com/p/0dbd0e85292e) |
-| Sun, 19 Oct 2025 05:00:55 GMT | Augmenting Digital Forensics with AI: How ChatGPT Transforms Investigation Workflows | Andrey Pautov | [Read More](https://medium.com/p/34eb10887ea5) |
-| Sun, 19 Oct 2025 04:47:00 GMT | How I Got My first Private Invite in Bug Bounty | Rehan Sohail | [Read More](https://medium.com/p/f51ea01e03a7) |
-| Sun, 19 Oct 2025 04:33:14 GMT | Is AI the Cybersecurity Warrior We’ve Been Waiting For? | Rashadul Islam | [Read More](https://medium.com/p/3b449b70ebdc) |
-| Sun, 19 Oct 2025 04:13:59 GMT | Unraveling the Origins: How the Gregorian Calendar Came to Be | Alamsindo | [Read More](https://medium.com/p/a39085e36683) |
-| Sun, 19 Oct 2025 04:03:08 GMT | The Comfort of Anonymity | Alisa Halim | [Read More](https://medium.com/p/f324143c2060) |
-| Sun, 19 Oct 2025 03:47:38 GMT | Vanish Like a Pro Without Becoming Paranoid: Practical, Nonjudgmental OPSEC For Better Privacy | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/aea466dbf1b9) |
-| Sun, 19 Oct 2025 03:44:52 GMT | Basic SQL injection Methodology | Md. Raihan | [Read More](https://medium.com/p/9c606115eddb) |
