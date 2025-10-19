@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 22:12:17 GMT | Zero-Knowledge Secure Storage: Verinizi Kimseye Güvenmeden Saklayın | MehmetCelik | [Read More](https://medium.com/p/64709c98e2f2) |
+| Sun, 19 Oct 2025 22:09:35 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/4826bb72f818) |
+| Sun, 19 Oct 2025 22:02:59 GMT | Identity: The War No One Admits We’re Fighting | TD | [Read More](https://medium.com/p/c23d278d22e1) |
+| Sun, 19 Oct 2025 21:45:32 GMT | Clandestine Nano-Drones Designed to Infiltrate Areas Undetected | z3r0trust | [Read More](https://medium.com/p/cf8cffc495a9) |
+| Sun, 19 Oct 2025 21:42:11 GMT | Want To Simplify Your Work Life? Use Zapier To Automate Your Work | YourSoftIgboGirl | [Read More](https://medium.com/p/87047c0818b7) |
 | Sun, 19 Oct 2025 21:27:08 GMT | The Future of Cybersecurity: Six Trends Shaping 2026 and Beyond | Richard Wilder | [Read More](https://medium.com/p/11739269bd5b) |
 | Sun, 19 Oct 2025 21:22:43 GMT | Bypassing WAF Rules in Cache Deception Attacks | Ibtissam hammadi | [Read More](https://medium.com/p/e17a02a402a9) |
 | Sun, 19 Oct 2025 21:12:57 GMT | Data Poisoning: How a Handful of Documents Can Corrupt the World’s Smartest AI | Martin Jordanovski | [Read More](https://medium.com/p/0690363229dd) |
@@ -108,8 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 13:11:47 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/24c57f6648a6) |
 | Sun, 19 Oct 2025 13:05:02 GMT | The Invisible Map Behind Next.js Security | Melvin Prince | [Read More](https://medium.com/p/3a60c89f6c34) |
 | Sun, 19 Oct 2025 13:02:45 GMT | The Sawtooth Mystery: How a Reference Update Broke Our Cache | Akshaya Kumar T | [Read More](https://medium.com/p/42cf2eaae3d3) |
-| Sun, 19 Oct 2025 12:55:01 GMT | Securing Modern Supply Chain Security Attacks: From Risk identification to Resilient Defense | Kiran Maraju | [Read More](https://medium.com/p/6605a4329341) |
-| Sun, 19 Oct 2025 12:54:52 GMT | TryHackMe — The Phishing Pond — Writeup | Sonny | [Read More](https://medium.com/p/78438d44535b) |
-| Sun, 19 Oct 2025 12:44:43 GMT | Understanding the CIA Triad Through Real-World Examples | emreilhan | [Read More](https://medium.com/p/57ab3f8be57b) |
-| Sun, 19 Oct 2025 12:42:34 GMT | Why Crypto Privacy Matters More Than Ever in 2025 | trueswap | [Read More](https://medium.com/p/60bda3ef1747) |
-| Sun, 19 Oct 2025 12:39:52 GMT | Try Hack Me: RootMe | m0saic | [Read More](https://medium.com/p/c259245a925c) |
