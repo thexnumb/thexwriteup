@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 22:29:26 GMT | Authan Farsi — The Cybersecurity Expert Who Turns Threats Into Solutions | Lulzsec | [Read More](https://medium.com/p/e674a99c7a75) |
+| Sun, 19 Oct 2025 22:28:55 GMT | The Critical Role of IT Auditing: Why Assessments and Audits Matter in Today’s Digital Landscape | Mai Tran | [Read More](https://medium.com/p/fa920d27a284) |
+| Sun, 19 Oct 2025 22:19:48 GMT | Using AI to Make Students Smarter — Not Cheaters | Parinitha N | [Read More](https://medium.com/p/72d7fd05d45c) |
+| Sun, 19 Oct 2025 22:16:58 GMT | Cloud Misconfigurations: The Most Common Cause of Data Breaches | Samina Perveen | [Read More](https://medium.com/p/9643f945f1e5) |
 | Sun, 19 Oct 2025 22:12:17 GMT | Zero-Knowledge Secure Storage: Verinizi Kimseye Güvenmeden Saklayın | MehmetCelik | [Read More](https://medium.com/p/64709c98e2f2) |
 | Sun, 19 Oct 2025 22:09:35 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/4826bb72f818) |
 | Sun, 19 Oct 2025 22:02:59 GMT | Identity: The War No One Admits We’re Fighting | TD | [Read More](https://medium.com/p/c23d278d22e1) |
@@ -109,7 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 13:39:38 GMT | Parrot OS vs Kali Linux - Best Linux Distro for Ethical Hackers 2025 | Ghulam Mohiuddin | [Read More](https://medium.com/p/b362c09587bf) |
 | Sun, 19 Oct 2025 13:32:52 GMT | Don’t Take the Bait: A Guide to TryHackMe’s Phishing Pond Room | Furkanctiner | [Read More](https://medium.com/p/d403a2f12ec4) |
 | Sun, 19 Oct 2025 13:27:18 GMT | Java 的Vulnerability | Huanglw | [Read More](https://medium.com/p/d17850e4e810) |
-| Sun, 19 Oct 2025 13:23:28 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/3d0f80e40f4d) |
-| Sun, 19 Oct 2025 13:11:47 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/24c57f6648a6) |
-| Sun, 19 Oct 2025 13:05:02 GMT | The Invisible Map Behind Next.js Security | Melvin Prince | [Read More](https://medium.com/p/3a60c89f6c34) |
-| Sun, 19 Oct 2025 13:02:45 GMT | The Sawtooth Mystery: How a Reference Update Broke Our Cache | Akshaya Kumar T | [Read More](https://medium.com/p/42cf2eaae3d3) |
