@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 05:01:50 GMT | From Authentication to Trust: Building Inclusive Cybersecurity Frameworks for a Diverse Society | Gess | [Read More](https://medium.com/p/0dbd0e85292e) |
+| Sun, 19 Oct 2025 05:00:55 GMT | Augmenting Digital Forensics with AI: How ChatGPT Transforms Investigation Workflows | Andrey Pautov | [Read More](https://medium.com/p/34eb10887ea5) |
+| Sun, 19 Oct 2025 04:47:00 GMT | How I Got My first Private Invite in Bug Bounty | Rehan Sohail | [Read More](https://medium.com/p/f51ea01e03a7) |
 | Sun, 19 Oct 2025 04:33:14 GMT | Is AI the Cybersecurity Warrior We’ve Been Waiting For? | Rashadul Islam | [Read More](https://medium.com/p/3b449b70ebdc) |
 | Sun, 19 Oct 2025 04:13:59 GMT | Unraveling the Origins: How the Gregorian Calendar Came to Be | Alamsindo | [Read More](https://medium.com/p/a39085e36683) |
 | Sun, 19 Oct 2025 04:03:08 GMT | The Comfort of Anonymity | Alisa Halim | [Read More](https://medium.com/p/f324143c2060) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 16:10:35 GMT | Maximize Your Benefits with Bugs Bunny  Rewards | Bugs Bunny | [Read More](https://medium.com/p/4d6a8433e291) |
 | Sat, 18 Oct 2025 16:04:01 GMT | The Numbers (Cryptography Writeup) | Zulfianarahmi | [Read More](https://medium.com/p/a7a2dcc51171) |
 | Sat, 18 Oct 2025 16:02:58 GMT | Redoing my channel | Flora | [Read More](https://medium.com/p/01cf588817b1) |
-| Sat, 18 Oct 2025 15:54:52 GMT | --Homomorphic Encryption | Kapil | [Read More](https://medium.com/p/a4e93d5d1e02) |
-| Sat, 18 Oct 2025 15:54:47 GMT | CSP Mastery: Clickjacking & Framing Controls (Series A-3) | Trevor Woollacott | [Read More](https://medium.com/p/09454a52750e) |
-| Sat, 18 Oct 2025 15:52:46 GMT | Understanding the Difference Between Threats, Vulnerabilities, and Risks | Nway Nway Zay Ya | [Read More](https://medium.com/p/8d97b5fb8365) |
