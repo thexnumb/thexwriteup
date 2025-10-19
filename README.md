@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 10:28:24 GMT | Year Of The Rabbit: TryHackMe Writeup | 0xJad | [Read More](https://medium.com/p/9d901c94e043) |
+| Sun, 19 Oct 2025 10:27:40 GMT | How to Verify Any Screenshot or Image Online | VerifyHQ | [Read More](https://medium.com/p/8d8d0176e4a6) |
+| Sun, 19 Oct 2025 10:21:21 GMT | So You Want to Hack Smart Contracts? Here’s How to Set Up Your Offensive Security Lab | Yua Mikanana | [Read More](https://medium.com/p/9f84e527b47c) |
 | Sun, 19 Oct 2025 10:11:06 GMT | How I Leaked the Environment Variables of a Django Web App on Azure Front Door | Zain | [Read More](https://medium.com/p/dfcbbaf58e4f) |
 | Sun, 19 Oct 2025 10:04:56 GMT | How QR Codes Can Hack You, Silently | Abedin | [Read More](https://medium.com/p/c06dfc57d2ab) |
 | Sun, 19 Oct 2025 09:54:16 GMT | The Most Dangerous File I Ever Opened (And Why I Couldn’t Resist) | Fateyaly | [Read More](https://medium.com/p/1ae180448b06) |
@@ -103,12 +106,9 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 00:02:39 GMT | “YOU’VE BEEN TRICKED” ... THE PSYCHOLOGY BEHIND CYBER ATTACKS (PART I) | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/d687065159e3) |
 | Sat, 18 Oct 2025 23:57:51 GMT | Forest — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/d49248a20c8a) |
 | Sat, 18 Oct 2025 23:55:19 GMT | Effective Patch Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/eb422342fa0a) |
+| Sat, 18 Oct 2025 23:49:00 GMT | Cybersecurity Incident Simulation Exercises | Cyber Security Research | [Read More](https://medium.com/p/bc389a075dfa) |
 | Sat, 18 Oct 2025 23:42:39 GMT | Building a Robust Security Operations Center (SOC) | Cyber Security Research | [Read More](https://medium.com/p/ec2c6d564dcd) |
 | Sat, 18 Oct 2025 23:37:06 GMT | CPU Cache and Side-Channel Attacks: A Silent Threat in Modern Computing | Bervice | [Read More](https://medium.com/p/86c6fee5738d) |
 | Sat, 18 Oct 2025 23:32:08 GMT | Zero Trust in Practice: Closing the Gaps OSINT Can Exploit | Aj | [Read More](https://medium.com/p/c6315de24da7) |
 | Sat, 18 Oct 2025 23:18:02 GMT | Silence After Security.txt: When a Promise to Report Is Ignored | D Johnston | [Read More](https://medium.com/p/9efc2741f7a4) |
 | Sat, 18 Oct 2025 23:14:41 GMT | Solving OWASP Android Uncrackable L2 | D0loresH4ze | [Read More](https://medium.com/p/fc5421e33536) |
-| Sat, 18 Oct 2025 23:05:02 GMT | Security Flaws in VS Extensions Expose Developers to Threats | Valentin Podkamennyi | [Read More](https://medium.com/p/45f54c081200) |
-| Sat, 18 Oct 2025 23:01:19 GMT | Automating Security with Tines and LimaCharlie | Mcl0ng0ng | [Read More](https://medium.com/p/4bdc0ff3256d) |
-| Sat, 18 Oct 2025 22:39:32 GMT | The QUAD at a Crossroads | Sumant Vidwans | [Read More](https://medium.com/p/0a6f66a345be) |
-| Sat, 18 Oct 2025 22:31:46 GMT | Inside the Firewall: How Your First Line Of Defense Actually works | Thegreatpayload | [Read More](https://medium.com/p/a7e9755203ed) |
