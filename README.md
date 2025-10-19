@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 13:27:18 GMT | Java 的Vulnerability | Huanglw | [Read More](https://medium.com/p/d17850e4e810) |
+| Sun, 19 Oct 2025 13:23:28 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/3d0f80e40f4d) |
 | Sun, 19 Oct 2025 13:11:47 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/24c57f6648a6) |
 | Sun, 19 Oct 2025 13:05:02 GMT | The Invisible Map Behind Next.js Security | Melvin Prince | [Read More](https://medium.com/p/3a60c89f6c34) |
 | Sun, 19 Oct 2025 13:02:45 GMT | The Sawtooth Mystery: How a Reference Update Broke Our Cache | Akshaya Kumar T | [Read More](https://medium.com/p/42cf2eaae3d3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 06:48:16 GMT | Wolf at the Door | Anthony Repetto | [Read More](https://medium.com/p/698e9ae26435) |
 | Sun, 19 Oct 2025 06:45:53 GMT | How to hack Facebook password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/d660742cbadf) |
 | Sun, 19 Oct 2025 06:31:16 GMT | Using Project CodeGuard to Secure the Future of AI-Generated Code | Omar Santos | [Read More](https://medium.com/p/83bf760c9deb) |
-| Sun, 19 Oct 2025 06:22:38 GMT | When Client-Side Validation Isn’t Enough — Porsche Contact Form Logic Bypass | Mandar Satam | [Read More](https://medium.com/p/91f2451015e3) |
-| Sun, 19 Oct 2025 06:21:52 GMT | Humans at the Heart of Cyber-Physical Security: Why People Are the Real Weak Link | Gess | [Read More](https://medium.com/p/923b55d8cf88) |
