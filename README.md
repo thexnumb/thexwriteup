@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 06:31:16 GMT | Using Project CodeGuard to Secure the Future of AI-Generated Code | Omar Santos | [Read More](https://medium.com/p/83bf760c9deb) |
 | Sun, 19 Oct 2025 06:22:38 GMT | When Client-Side Validation Isn’t Enough — Porsche Contact Form Logic Bypass | Mandar Satam | [Read More](https://medium.com/p/91f2451015e3) |
 | Sun, 19 Oct 2025 06:21:52 GMT | Humans at the Heart of Cyber-Physical Security: Why People Are the Real Weak Link | Gess | [Read More](https://medium.com/p/923b55d8cf88) |
 | Sun, 19 Oct 2025 06:21:12 GMT | My Experience with RaccoonLine — The Decentralized VPN That Surprised Me | Fredrick Hansson | [Read More](https://medium.com/p/e6f0b3a062ea) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 16:31:36 GMT | SİBER GÜVENLİK NEDİR? Tehdit Türleri, Korunma Yöntemleri ve Hacker Gerçekleri | HSD Harran University | [Read More](https://medium.com/p/2ff9cdfbf8d0) |
 | Sat, 18 Oct 2025 16:22:33 GMT | Top 7 Ways Hackers Breach Active Directory | Cybersensus | [Read More](https://medium.com/p/c51792f46b13) |
 | Sat, 18 Oct 2025 16:20:45 GMT | E45y.exe — CTF Reverse Engineering Writeup — GITEX Global CTF 2025 | Ansh Choudhary | [Read More](https://medium.com/p/7cfee1e54f44) |
-| Sat, 18 Oct 2025 16:19:32 GMT | H453.exe — CTF Reverse Engineering Writeup — GITEX Global CTF 2025 | Ansh Choudhary | [Read More](https://medium.com/p/022d54057fb1) |
