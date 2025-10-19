@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 15:13:49 GMT | On-Premise-01: Exploiting CVE-2023–3452 in the Canto WordPress Plugin
+Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
+| Sun, 19 Oct 2025 15:12:25 GMT | Hands-On Guide to Exploiting Redis, MongoDB, and Misconfigured Databases: Master Real-World Attacks | Very Lazy Tech | [Read More](https://medium.com/p/c990a0cfdbd6) |
+| Sun, 19 Oct 2025 15:03:59 GMT | Automated Patching of Python Dependencies: Securing Your Codebase with pip-audit and CI/CD | Rohit Ranjan | [Read More](https://medium.com/p/cdd7c903e30a) |
+| Sun, 19 Oct 2025 15:01:32 GMT | The Python Projects That Launched My Career (And Made Money) | Rocky | [Read More](https://medium.com/p/73d7b5a06784) |
+| Sun, 19 Oct 2025 14:59:43 GMT | Shadow Leak: The First Service-Side, Zero-Click Indirect Prompt Injection Vulnerability | HackerNasr | [Read More](https://medium.com/p/c1ff6e0d25f9) |
+| Sun, 19 Oct 2025 14:58:42 GMT | FORTIGATE GEÇİŞİ 01.04 | Ziya DENİZ | [Read More](https://medium.com/p/a3ca703b1b1d) |
+| Sun, 19 Oct 2025 14:50:58 GMT | -  ,   … | Andre | [Read More](https://medium.com/p/18752f328476) |
+| Sun, 19 Oct 2025 14:50:32 GMT | Analyze & Investigate By Splunk: TryHackMe Splunk Basics | Youssef Fathy | [Read More](https://medium.com/p/6ca390983c12) |
+| Sun, 19 Oct 2025 14:48:33 GMT | Real Utility, Real Security — How ABTU Connects Protection to Value | Abatis ABTU | [Read More](https://medium.com/p/3781f8332a9c) |
+| Sun, 19 Oct 2025 14:42:07 GMT | THM - Shadow Trace | Francesco Pastore | [Read More](https://medium.com/p/13ab3c5f1ef8) |
+| Sun, 19 Oct 2025 14:41:10 GMT | The Digital Revolution: How Technology is Reshaping the Future | Rahmataliayaz | [Read More](https://medium.com/p/244b8736981c) |
 | Sun, 19 Oct 2025 14:37:28 GMT | TryHackMe ‘RootMe’ — A Write-up | Aireides | [Read More](https://medium.com/p/eff427575d28) |
 | Sun, 19 Oct 2025 14:37:13 GMT | The Rise of Digital Dragonism: How Modern Hackers Are Becoming the New-Age Sorcerers | Kunal Gautam | [Read More](https://medium.com/p/37d23884060f) |
+| Sun, 19 Oct 2025 14:36:03 GMT | An Emerging Infostealer Malware: The Rise and Disruption of Lumma Stealer | zerOiQ | [Read More](https://medium.com/p/d27c4b3aadde) |
 | Sun, 19 Oct 2025 14:29:44 GMT | Top Technology Trends in 2026 That Will Shape Our Everyday Lives” | Naveedahmedali | [Read More](https://medium.com/p/eb0edd3ea50b) |
 | Sun, 19 Oct 2025 14:25:35 GMT | The Poisoned Stream — A08: Software and Data Integrity Failures - 10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/cc47370cbe88) |
 | Sun, 19 Oct 2025 14:22:38 GMT | From $1,000 to $100,000 in Bug Bounties: Advanced Techniques and Program Selection Strategy | Maxwell Cross | [Read More](https://medium.com/p/d858cacf34d4) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 08:25:21 GMT | Linux Privilege Escalation — Rootkit Scanner | Dharmendrakumar | [Read More](https://medium.com/p/6b14a204af08) |
 | Sun, 19 Oct 2025 08:19:26 GMT | Police Crack Down on SIMCARTEL Network and Seize 40,000 SIM Cards | Patrik Žák | [Read More](https://medium.com/p/b7851867fca0) |
 | Sun, 19 Oct 2025 08:14:37 GMT | Part 2 — JWT, Okta, and Scopes: The Mechanics of Authorization | Chiraggarg | [Read More](https://medium.com/p/d20f2e3fd047) |
-| Sun, 19 Oct 2025 08:14:01 GMT | Data Breach: Who is to Blame? | Komang Wahyu Agastya | [Read More](https://medium.com/p/0947a09f991e) |
-| Sun, 19 Oct 2025 08:13:16 GMT | CEO’s Are the Biggest Liability in Cybersecurity | Travis Ray Caverhill | [Read More](https://medium.com/p/d15171bb7a55) |
-| Sun, 19 Oct 2025 08:01:50 GMT | Free Domain Leak Check: See If Your Employee Logins Are Exposed Now | Alexandre Vandamme | [Read More](https://medium.com/p/ad38276536f2) |
-| Sun, 19 Oct 2025 07:59:03 GMT | 7 Powerful Moves for DORA Compliance Cybersecurity 2025 | Pentest_Testing_Corp | [Read More](https://medium.com/p/870c4f39c54e) |
-| Sun, 19 Oct 2025 07:56:16 GMT | Zero Trust Principles vs Generative AI | TheCyberKnight | [Read More](https://medium.com/p/55a5f5fa75e3) |
-| Sun, 19 Oct 2025 07:45:14 GMT | IT Management Maturity Model | Miguel Cordeiro | [Read More](https://medium.com/p/70e6cf93524c) |
-| Sun, 19 Oct 2025 07:43:48 GMT | Scared of Being Seen? — How to Survive Your First Panel | Angelika Ski | [Read More](https://medium.com/p/f02611d2c44c) |
-| Sun, 19 Oct 2025 07:38:31 GMT | iPhone 6S: The Most Reliable Old iPhone You Can Still Use | Ahamed Afran | [Read More](https://medium.com/p/5a68588c8426) |
-| Sun, 19 Oct 2025 07:36:56 GMT | Beyond Code: Choosing the Right Website Development Company for Future-Ready Services | Tricky websolutions | [Read More](https://medium.com/p/6df98764769a) |
-| Sun, 19 Oct 2025 07:34:55 GMT | How I Hacked JWT Tokens and Became Everyone on the Internet (Temporarily) | Iski | [Read More](https://medium.com/p/1e05f961048d) |
-| Sun, 19 Oct 2025 07:31:00 GMT | The QR Bug That Shouldn’t Exist — A Small Flaw with Big Consequences | Xormium | [Read More](https://medium.com/p/a7fb11fe1d41) |
-| Sun, 19 Oct 2025 07:27:38 GMT | Localhost Vanished Forever: How Windows 11’s KB5066835 Update Impacts Developers and Fixes to… | H2bm | [Read More](https://medium.com/p/e50720f72d5a) |
