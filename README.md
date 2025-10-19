@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 19:32:34 GMT | How to Integrate Palo Alto Firewall with Wazuh SIEM | Neetrox | [Read More](https://medium.com/p/3659ad47627e) |
+| Sun, 19 Oct 2025 19:26:36 GMT | Cracking the Lock: How I Discovered Amazon KDP’s Missing Account Lockout Vulnerability | Mandar Satam | [Read More](https://medium.com/p/d504bef5adc0) |
+| Sun, 19 Oct 2025 19:24:43 GMT | What’s The Flag CTF Write-Up | Abilash B | [Read More](https://medium.com/p/41fd3c9a8bf1) |
+| Sun, 19 Oct 2025 19:18:38 GMT | Modern Access Control: Principles, Models, and Strategic Best Practices | Mai Tran | [Read More](https://medium.com/p/6edafea52235) |
+| Sun, 19 Oct 2025 19:17:00 GMT | Is It too Late to Join Symbiotic? | Olesya Kuzyk | [Read More](https://medium.com/p/5cf1791faf88) |
+| Sun, 19 Oct 2025 19:12:27 GMT | 5 Takeaways from My 10-Day Trip to Earn My First Cybersecurity Certificate | Omar Maged Ahmed | [Read More](https://medium.com/p/83d5cf9e059d) |
 | Sun, 19 Oct 2025 18:29:34 GMT | SSRF Deep-dive — PoCs, Labs & Reporting Kit (Part 2) | Abhishek meena | [Read More](https://medium.com/p/8fd8a485713e) |
 | Sun, 19 Oct 2025 18:24:52 GMT | ☕ Cyber & Coffee: The F5 Breach — When the Guard Gets Hacked | Cyber and Coffee | [Read More](https://medium.com/p/3a2a9a6390a8) |
 | Sun, 19 Oct 2025 18:24:39 GMT | Detecting Suspicious Powershell Activity.. | Tobiasacastleberry | [Read More](https://medium.com/p/232c1e0a7921) |
@@ -107,9 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 11:53:08 GMT | What Netflix Taught Me About Independence | Aman | [Read More](https://medium.com/p/2a2e98d930ad) |
 | Sun, 19 Oct 2025 11:52:05 GMT | Mobile Hacking Lab- GussMe Writeup | Htun Aung Kyaw | [Read More](https://medium.com/p/cc077d4ccec7) |
 | Sun, 19 Oct 2025 11:45:59 GMT | Privilege Escalation and RCE explained, plus 8 realistic interview questions | CyberSenpai | [Read More](https://medium.com/p/cb7b94a17b3f) |
-| Sun, 19 Oct 2025 11:43:04 GMT | “Tap into Hash” challenge | oussama | [Read More](https://medium.com/p/ede9673a805a) |
-| Sun, 19 Oct 2025 11:41:55 GMT | Type Checking in Python ✅ | Cristian | [Read More](https://medium.com/p/a874e34d7624) |
-| Sun, 19 Oct 2025 11:35:11 GMT | OS Command Injection | Md. Raihan | [Read More](https://medium.com/p/b9eb1d10b859) |
-| Sun, 19 Oct 2025 11:34:00 GMT | TryHackme - Extract - Türkçe | nightbird | [Read More](https://medium.com/p/9c357ae9eb9e) |
-| Sun, 19 Oct 2025 11:22:16 GMT | DockerLabs Writeup — Pequeñas-Mentirosas (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a5f853d87b22) |
-| Sun, 19 Oct 2025 11:19:16 GMT | Qualys in 2025: Still Relevant or Losing Ground? | Rommel Jay Gadil | [Read More](https://medium.com/p/49fd12de697b) |
