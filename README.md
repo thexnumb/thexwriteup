@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 17:10:36 GMT | Broken Access Control (BAC & IDOR): Understanding the Quiet Killer of Web App Security | Pirlo | [Read More](https://medium.com/p/5dc44dcf224b) |
+| Sun, 19 Oct 2025 17:04:04 GMT | Best Crypto Recovery Expert, Hire Ghost Mystery Recovery Hacker | Anthinywilson | [Read More](https://medium.com/p/4e95d5ec7c48) |
+| Sun, 19 Oct 2025 16:52:49 GMT | Building the Gabriel’smind enterprise defense framework: From home lab to real-world readiness | Gabriel Santos | [Read More](https://medium.com/p/d602ba69147b) |
+| Sun, 19 Oct 2025 16:51:08 GMT | Windows takeover using EternelBlue exploit (CVE-2017–0144) | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/6e08a4a4c6f3) |
+| Sun, 19 Oct 2025 16:44:06 GMT | Sunday Funnies | Rebecca Trocki | [Read More](https://medium.com/p/9840ae868d94) |
 | Sun, 19 Oct 2025 16:36:18 GMT | The Linux Security Journey — EVM (Extended Verification Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1b06375516da) |
 | Sun, 19 Oct 2025 16:28:44 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/75643ab6d7cd) |
 | Sun, 19 Oct 2025 16:23:08 GMT | Getting Started with Spring Security in Microservice Architecture | Vipul Singh | [Read More](https://medium.com/p/17dbe59cc3d4) |
@@ -47,6 +52,7 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 14:36:03 GMT | An Emerging Infostealer Malware: The Rise and Disruption of Lumma Stealer | zerOiQ | [Read More](https://medium.com/p/d27c4b3aadde) |
 | Sun, 19 Oct 2025 14:29:44 GMT | Top Technology Trends in 2026 That Will Shape Our Everyday Lives” | Naveedahmedali | [Read More](https://medium.com/p/eb0edd3ea50b) |
 | Sun, 19 Oct 2025 14:25:35 GMT | The Poisoned Stream — A08: Software and Data Integrity Failures - 10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/cc47370cbe88) |
+| Sun, 19 Oct 2025 14:25:22 GMT | Co-Inteligencia: la evolución humana junto a la IA | BotsiCat | [Read More](https://medium.com/p/3dc9fdf75867) |
 | Sun, 19 Oct 2025 14:22:38 GMT | From $1,000 to $100,000 in Bug Bounties: Advanced Techniques and Program Selection Strategy | Maxwell Cross | [Read More](https://medium.com/p/d858cacf34d4) |
 | Sun, 19 Oct 2025 14:22:37 GMT | Securing MQTT Brokers in IoT Infrastructure through VPN-Based Private Networking using WireGuard | Hassam Fathe Muhammad | [Read More](https://medium.com/p/79db459217f6) |
 | Sun, 19 Oct 2025 14:21:46 GMT | The Dumbest Security Breach I’ve Seen in 2025 | Cyberkech | [Read More](https://medium.com/p/cda2895697c1) |
@@ -107,9 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 10:28:24 GMT | Year Of The Rabbit: TryHackMe Writeup | 0xJad | [Read More](https://medium.com/p/9d901c94e043) |
 | Sun, 19 Oct 2025 10:27:40 GMT | How to Verify Any Screenshot or Image Online | VerifyHQ | [Read More](https://medium.com/p/8d8d0176e4a6) |
 | Sun, 19 Oct 2025 10:21:21 GMT | So You Want to Hack Smart Contracts? Here’s How to Set Up Your Offensive Security Lab | Yua Mikanana | [Read More](https://medium.com/p/9f84e527b47c) |
-| Sun, 19 Oct 2025 10:11:06 GMT | How I Leaked the Environment Variables of a Django Web App on Azure Front Door | Zain | [Read More](https://medium.com/p/dfcbbaf58e4f) |
-| Sun, 19 Oct 2025 10:04:56 GMT | How QR Codes Can Hack You, Silently | Abedin | [Read More](https://medium.com/p/c06dfc57d2ab) |
-| Sun, 19 Oct 2025 09:54:16 GMT | The Most Dangerous File I Ever Opened (And Why I Couldn’t Resist) | Fateyaly | [Read More](https://medium.com/p/1ae180448b06) |
-| Sun, 19 Oct 2025 09:52:53 GMT | Vulnerability Assessment and Penetration Testing as a Service for the Banking Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/087d657b5fa4) |
-| Sun, 19 Oct 2025 09:49:35 GMT | React Server Components: Masa Depan React Sudah Tiba | Anjas Rani | [Read More](https://medium.com/p/7915972796cb) |
-| Sun, 19 Oct 2025 09:46:47 GMT | Leading in the Dark | Sara Roger | [Read More](https://medium.com/p/0dca74eefe09) |
