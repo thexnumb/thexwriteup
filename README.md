@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 16:09:00 GMT | Part 1: | Abida Sarah | [Read More](https://medium.com/p/7d7b3aabd057) |
+| Sun, 19 Oct 2025 16:01:38 GMT | Deploying Wazuh SIEM: Installing the Server and Adding an Agent | Huseyn Eyvazov | [Read More](https://medium.com/p/e2e073a5582c) |
+| Sun, 19 Oct 2025 15:56:58 GMT | The Dark Web: What It Is & Isn’t | Catherine Ma | [Read More](https://medium.com/p/1ce04d1b46bb) |
+| Sun, 19 Oct 2025 15:56:21 GMT | ootMe Today, Hack You Tomorrow — The Next Hackerman | Christianlloydbunag | [Read More](https://medium.com/p/57ee96b12e24) |
+| Sun, 19 Oct 2025 15:53:43 GMT | TryHackMe: RootMe Challenge - GONE WRONG?! | b0realii | [Read More](https://medium.com/p/a0fba5fed983) |
+| Sun, 19 Oct 2025 15:51:45 GMT | Information Technology Security: Safeguarding the Digital World | Mahmood Hassan | [Read More](https://medium.com/p/a672d62f30d8) |
+| Sun, 19 Oct 2025 15:51:42 GMT | RootMe — A Beginner’s Walkthrough of File Upload Bypass to Root | kylicious | [Read More](https://medium.com/p/e5df86a6949a) |
+| Sun, 19 Oct 2025 15:47:21 GMT | Untangling the Web: How Information Disambiguation Shapes Truth in the Generative AI Era | Jayakumar K | [Read More](https://medium.com/p/f43a84e3a9ae) |
+| Sun, 19 Oct 2025 15:45:55 GMT | RootMe — TryHackMe Write-up | kaisermyoui | [Read More](https://medium.com/p/04977ae690d5) |
+| Sun, 19 Oct 2025 15:42:38 GMT | Secrets Management in Kubernetes | Mark Southworth | [Read More](https://medium.com/p/ba16d48e0142) |
+| Sun, 19 Oct 2025 15:35:59 GMT | How One-Control-Per-Day Testing Builds Board-Level Confidence | Dr. Deep Pandey | [Read More](https://medium.com/p/e4f069ff6e4f) |
+| Sun, 19 Oct 2025 15:32:37 GMT | Security Could Be an Emotion, Not Just a Metric | Sewar Khalifeh | [Read More](https://medium.com/p/ed423e4bb5d9) |
 | Sun, 19 Oct 2025 15:18:07 GMT | Siber Güvenlik Labı Serisi (2): Windows Server Kurulumu, Log Entegrasyonu ve SIEM Temelleri | Merve Güler | [Read More](https://medium.com/p/819a3f1e756e) |
 | Sun, 19 Oct 2025 15:18:05 GMT | Java 25: The Features That Made Me Excited About Java Again | Jitin Kayyala | [Read More](https://medium.com/p/b99c8f1d1ca5) |
 | Sun, 19 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/6e0e26c8fb46) |
@@ -101,15 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 09:45:38 GMT | PGP Şifreleme: Nedir, Neden Önemlidir ve Nasıl Kullanılır? | Emre Özdemir | [Read More](https://medium.com/p/8614c470dd73) |
 | Sun, 19 Oct 2025 09:43:05 GMT | Can AI Agents Become SOC Analysts? | TheCyberKnight | [Read More](https://medium.com/p/cb1344e78bbe) |
 | Sun, 19 Oct 2025 09:38:53 GMT | How I’d Rebuild My Cybersecurity Career from Zero in the AI Era | Taimur Ijlal | [Read More](https://medium.com/p/ba4dfc254a8d) |
-| Sun, 19 Oct 2025 09:33:09 GMT | Getting Started with the Bash Shell | Aarya Sarfare | [Read More](https://medium.com/p/4a983d6d04a8) |
-| Sun, 19 Oct 2025 09:29:54 GMT | SAML Configuration Exposure to Low-Privilege Team Members Due to Missing Server-Side RBAC | Ibrahim Yılmaz | [Read More](https://medium.com/p/04d907860433) |
-| Sun, 19 Oct 2025 09:19:50 GMT | RootMe ~ im in | Qyllz | [Read More](https://medium.com/p/e706ce14e39e) |
-| Sun, 19 Oct 2025 09:18:42 GMT | Even When It Seems Impossible, Believe in Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/908c349af6f7) |
-| Sun, 19 Oct 2025 09:18:20 GMT | HackTheBox: DarkCorp Writeup [INSANE] | Rahul Hoysala | [Read More](https://medium.com/p/b3c49b86be20) |
-| Sun, 19 Oct 2025 09:17:46 GMT | CTFs for the clueless — TryHackMe’s RootMe | calxium | [Read More](https://medium.com/p/caeb8be3cd12) |
-| Sun, 19 Oct 2025 09:05:05 GMT | Banking on Cardano: A CTF Journey Begins | Invariant0 | [Read More](https://medium.com/p/5746918399be) |
-| Sun, 19 Oct 2025 09:03:53 GMT | Menyelami “Otak” Xinu: Petualangan Memahami Source Code Sistem Operasi (Modul 4) | Ighfir Maulana | [Read More](https://medium.com/p/29536f7e3a29) |
-| Sun, 19 Oct 2025 09:00:39 GMT | ESC2 AD CS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/c3e1740ca8da) |
-| Sun, 19 Oct 2025 08:30:03 GMT | Netcat Fundamentals | Dharmendrakumar | [Read More](https://medium.com/p/7282317a628d) |
-| Sun, 19 Oct 2025 08:25:47 GMT | I must be running mad again! | Tattle Tale | [Read More](https://medium.com/p/f9d5f9a6ff07) |
-| Sun, 19 Oct 2025 08:25:43 GMT | eJPT — 3.3 The Metasploit Framework | Dharmendrakumar | [Read More](https://medium.com/p/24439d1238c5) |
