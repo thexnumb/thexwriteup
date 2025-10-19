@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 03:09:04 GMT | Sparking Curiosity: The Detection Engineering Life Cycle | Shantaciak | [Read More](https://medium.com/p/f8c41b949b34) |
+| Sun, 19 Oct 2025 02:59:56 GMT | XSS Explained: A Simple, Powerful Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d87dadb92736) |
+| Sun, 19 Oct 2025 02:39:18 GMT | 10 Critical Checks I Perform After Logging Into a Linux Server I Didn’t Set Up | Kuldeepkumawat | [Read More](https://medium.com/p/a5bc30aa1b21) |
+| Sun, 19 Oct 2025 02:35:32 GMT | Zero Knowledge Face Proofs: Build Secure Apps Without Storing Passwords or Biometric Data | Miguel Treviño | [Read More](https://medium.com/p/cfc746d291fc) |
+| Sun, 19 Oct 2025 02:31:30 GMT | Pruebas Faciales de Conocimiento Cero: Construye Apps Seguras Sin Almacenar Contraseñas ni Datos… | Miguel Treviño | [Read More](https://medium.com/p/c59ddf0676fe) |
+| Sun, 19 Oct 2025 01:45:59 GMT | The Genius Behind Knowing Your Worth | Zed H. | [Read More](https://medium.com/p/fa3ad2e94c75) |
+| Sun, 19 Oct 2025 01:40:58 GMT | Interlude on Conflict, Morality, and Spirituality (Because I got publicly shamed… again! :( | Faze Point | [Read More](https://medium.com/p/3e7f29ed1c5e) |
 | Sun, 19 Oct 2025 01:39:47 GMT | ⚠️ When AI Builds the Web: How the Rise of Code-Generating Models Is Quietly Rewriting… | Nii Osa Odoi | [Read More](https://medium.com/p/821915ee13f9) |
+| Sun, 19 Oct 2025 01:38:17 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/f90f4293f5ab) |
 | Sun, 19 Oct 2025 01:32:20 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/67dfde03b6f5) |
 | Sun, 19 Oct 2025 01:26:18 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/84dc2ca320ee) |
 | Sun, 19 Oct 2025 01:06:46 GMT | The Lie I Told Myself About Being ‘Strong’ While I Was Breaking Inside | Vivie Parker | [Read More](https://medium.com/p/7a13bf89a1de) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 15:06:44 GMT | Chrome Extension for Temp Emails (For Bug Bounty Hunters & Cybersecurity Researchers ) | Shubham pawar | [Read More](https://medium.com/p/af25360ad2e1) |
 | Sat, 18 Oct 2025 15:00:06 GMT | Python’s Secret Codes: The Hidden Tricks That Make You Look Like a Pro | Rocky | [Read More](https://medium.com/p/e795fa220cff) |
 | Sat, 18 Oct 2025 14:58:49 GMT | The Unbreakable Shield: The Power of Modern Defensive Cybersecurity | Melody Kelly N | [Read More](https://medium.com/p/4081920a1d20) |
-| Sat, 18 Oct 2025 14:57:47 GMT | Cybersecurity Student Contest Vietnam 2025 — Writeup CTF | Nguyen Dang Khoi | [Read More](https://medium.com/p/802068921827) |
-| Sat, 18 Oct 2025 14:53:49 GMT | Profit Over Players: The BlockBlasters Cover-Up (Steam Scandals, Part 1) | PhishDestroy | [Read More](https://medium.com/p/9e9befd3ad2e) |
-| Sat, 18 Oct 2025 14:47:27 GMT | Cybersecurity in the Era of AI-Generated Threats | Chisom Emerom | [Read More](https://medium.com/p/1ed8842eaf5f) |
-| Sat, 18 Oct 2025 14:45:46 GMT | Inside Google Jobs Series (Part 3): Networking & Security Engineering | Laixi | [Read More](https://medium.com/p/fc9ccce16613) |
-| Sat, 18 Oct 2025 14:36:40 GMT | HacktheBox: Remote Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/40fee6cf9f36) |
-| Sat, 18 Oct 2025 14:29:36 GMT | The Arch Linux Is Not for You | Anfisa Silvanova | [Read More](https://medium.com/p/c45488f2cdaa) |
-| Sat, 18 Oct 2025 14:27:00 GMT | picoCTF — Where are the robots? — writeup | AD3NCA | [Read More](https://medium.com/p/81b45771d8c4) |
-| Sat, 18 Oct 2025 14:24:07 GMT | Authentication Concepts explained to a 74 yr old grandma | Sreeni Kand - COOLTECH | [Read More](https://medium.com/p/fbe3df4e0098) |
