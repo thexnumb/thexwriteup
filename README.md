@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 09:19:50 GMT | RootMe ~ im in | Qyllz | [Read More](https://medium.com/p/e706ce14e39e) |
+| Sun, 19 Oct 2025 09:18:42 GMT | Even When It Seems Impossible, Believe in Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/908c349af6f7) |
+| Sun, 19 Oct 2025 09:18:20 GMT | HackTheBox: DarkCorp Writeup [INSANE] | Rahul Hoysala | [Read More](https://medium.com/p/b3c49b86be20) |
+| Sun, 19 Oct 2025 09:17:46 GMT | CTFs for the clueless — TryHackMe’s RootMe | calxium | [Read More](https://medium.com/p/caeb8be3cd12) |
 | Sun, 19 Oct 2025 09:05:05 GMT | Banking on Cardano: A CTF Journey Begins | Invariant0 | [Read More](https://medium.com/p/5746918399be) |
 | Sun, 19 Oct 2025 09:00:39 GMT | ESC2 AD CS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/c3e1740ca8da) |
 | Sun, 19 Oct 2025 08:30:03 GMT | Netcat Fundamentals | Dharmendrakumar | [Read More](https://medium.com/p/7282317a628d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 21:01:50 GMT | The Future of Information Technology in the Global Job Market | Vertex University | [Read More](https://medium.com/p/b1be036dde49) |
 | Sat, 18 Oct 2025 21:00:19 GMT | Cybersecurity-focused Discord community | Cyb0rgBytes | [Read More](https://medium.com/p/91f03503235d) |
 | Sat, 18 Oct 2025 20:46:21 GMT | My Life as a Hacker, Chapter One | Mark Edwards | [Read More](https://medium.com/p/47ba8d50e01a) |
-| Sat, 18 Oct 2025 20:42:54 GMT | Your Ultimate Penetration Testing Cheat-sheet | Cyb0rgBytes | [Read More](https://medium.com/p/4a13c1d8ddb0) |
-| Sat, 18 Oct 2025 20:26:54 GMT | Sunshine CTF 2025 | Harpogma | [Read More](https://medium.com/p/0902c14a6bbd) |
-| Sat, 18 Oct 2025 20:26:44 GMT | How I Accidentally Crashed My Company’s FortiGate Firewall: Uncovering a Hidden Attack Surface | soroush | [Read More](https://medium.com/p/fa40011b6e7f) |
-| Sat, 18 Oct 2025 20:25:30 GMT | You Can Only Pick One: Transparency or AI? | abdeldayemnour | [Read More](https://medium.com/p/040e85781259) |
