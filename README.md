@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 23:22:10 GMT | The Digital Gold Rush: How Data Became the World’s Most Valuable Resource | Patrick Jfremov-Kustov | [Read More](https://medium.com/p/b14ba1650fd8) |
 | Sun, 19 Oct 2025 23:11:14 GMT | Post-Quantum Cryptography: The Quiet Revolution Already Underway | Manuel Lara Caro | [Read More](https://medium.com/p/77c29087c9f7) |
+| Sun, 19 Oct 2025 23:10:03 GMT | Practical Android Pentesting: A Case Study on TikTok RCE | Sayed Abdelhafiz | [Read More](https://medium.com/p/4a82e79cc7c6) |
 | Sun, 19 Oct 2025 23:07:34 GMT | $3000 Bounty for Leaking Private Chat Conversations: A Simple IDOR in a Chat AI | winteri3coming | [Read More](https://medium.com/p/d5e46c8f5fc5) |
 | Sun, 19 Oct 2025 23:05:00 GMT | The Future of Remote Access: Balancing Productivity, Control, and Security | Mai Tran | [Read More](https://medium.com/p/968d1c55bd3c) |
 | Sun, 19 Oct 2025 23:03:05 GMT | Kernel Locking and Concurrency Pitfalls in Operating Systems | Bervice | [Read More](https://medium.com/p/4dfea18054ab) |
@@ -111,5 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 14:25:22 GMT | Co-Inteligencia: la evolución humana junto a la IA | BotsiCat | [Read More](https://medium.com/p/3dc9fdf75867) |
 | Sun, 19 Oct 2025 14:22:38 GMT | From $1,000 to $100,000 in Bug Bounties: Advanced Techniques and Program Selection Strategy | Maxwell Cross | [Read More](https://medium.com/p/d858cacf34d4) |
 | Sun, 19 Oct 2025 14:22:37 GMT | Securing MQTT Brokers in IoT Infrastructure through VPN-Based Private Networking using WireGuard | Hassam Fathe Muhammad | [Read More](https://medium.com/p/79db459217f6) |
-| Sun, 19 Oct 2025 14:21:46 GMT | The Dumbest Security Breach I’ve Seen in 2025 | Cyberkech | [Read More](https://medium.com/p/cda2895697c1) |
-| Sun, 19 Oct 2025 14:21:34 GMT | Information Gathering: The First and Most Important Step in Ethical Hacking | Syed Mohammed Murtaza | [Read More](https://medium.com/p/6cb0fa0f9cf9) |
