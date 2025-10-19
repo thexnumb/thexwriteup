@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 08:19:26 GMT | Police Crack Down on SIMCARTEL Network and Seize 40,000 SIM Cards | Patrik Žák | [Read More](https://medium.com/p/b7851867fca0) |
+| Sun, 19 Oct 2025 08:14:37 GMT | Part 2 — JWT, Okta, and Scopes: The Mechanics of Authorization | Chiraggarg | [Read More](https://medium.com/p/d20f2e3fd047) |
+| Sun, 19 Oct 2025 08:01:50 GMT | Free Domain Leak Check: See If Your Employee Logins Are Exposed Now | Alexandre Vandamme | [Read More](https://medium.com/p/ad38276536f2) |
+| Sun, 19 Oct 2025 07:59:03 GMT | 7 Powerful Moves for DORA Compliance Cybersecurity 2025 | Pentest_Testing_Corp | [Read More](https://medium.com/p/870c4f39c54e) |
+| Sun, 19 Oct 2025 07:56:16 GMT | Zero Trust Principles vs Generative AI | TheCyberKnight | [Read More](https://medium.com/p/55a5f5fa75e3) |
+| Sun, 19 Oct 2025 07:45:14 GMT | IT Management Maturity Model | Miguel Cordeiro | [Read More](https://medium.com/p/70e6cf93524c) |
+| Sun, 19 Oct 2025 07:43:48 GMT | Scared of Being Seen? — How to Survive Your First Panel | Angelika Ski | [Read More](https://medium.com/p/f02611d2c44c) |
+| Sun, 19 Oct 2025 07:38:31 GMT | iPhone 6S: The Most Reliable Old iPhone You Can Still Use | Ahamed Afran | [Read More](https://medium.com/p/5a68588c8426) |
+| Sun, 19 Oct 2025 07:36:56 GMT | Beyond Code: Choosing the Right Website Development Company for Future-Ready Services | Tricky websolutions | [Read More](https://medium.com/p/6df98764769a) |
+| Sun, 19 Oct 2025 07:34:55 GMT | How I Hacked JWT Tokens and Became Everyone on the Internet (Temporarily) | Iski | [Read More](https://medium.com/p/1e05f961048d) |
 | Sun, 19 Oct 2025 07:31:00 GMT | The QR Bug That Shouldn’t Exist — A Small Flaw with Big Consequences | Xormium | [Read More](https://medium.com/p/a7fb11fe1d41) |
+| Sun, 19 Oct 2025 07:27:38 GMT | Localhost Vanished Forever: How Windows 11’s KB5066835 Update Impacts Developers and Fixes to… | H2bm | [Read More](https://medium.com/p/e50720f72d5a) |
 | Sun, 19 Oct 2025 07:25:54 GMT | PRIMER 1.0.1 Vulnhub CTF Walkthrough | D1d0D | [Read More](https://medium.com/p/cefa8a801a47) |
 | Sun, 19 Oct 2025 07:25:24 GMT | Exploiting an Insecure Android Activity for Arbitrary File Theft and Account Takeover | Yousef Elsheikh | [Read More](https://medium.com/p/07b360520a0e) |
 | Sun, 19 Oct 2025 07:22:35 GMT | Today’s Top Cyber Intelligence Highlights — Oct 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/459fdf41c9a2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 19:20:25 GMT | Social Engineering: How Hackers Trick You (And How to Stop Them) | Muhammed Anas | [Read More](https://medium.com/p/570ef7b3ef47) |
 | Sat, 18 Oct 2025 19:16:45 GMT | Forgotten ‍️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/b440ad425bac) |
 | Sat, 18 Oct 2025 19:06:49 GMT | Cyber and Coffee: Pour Yourself a Cup and Catch Up on Cybersecurity — October 2025 | Cyber and Coffee | [Read More](https://medium.com/p/f05cbe23a75b) |
-| Sat, 18 Oct 2025 19:05:58 GMT | ​IL VALORE DI ESSERE MEDIOCRI | Giovanna Sansone | [Read More](https://medium.com/p/9a7470889a10) |
-| Sat, 18 Oct 2025 19:05:34 GMT | Foundations & Hunting SSRF Checklist — A SSRF Playbook (Part 1) | Abhishek meena | [Read More](https://medium.com/p/795ef13e9d28) |
-| Sat, 18 Oct 2025 18:58:37 GMT | Must-Know Compliance Basics for a SOC Analyst To Stand Out in an Interview—A Short Guide | Iftikhar Zaidi | [Read More](https://medium.com/p/4b09ed25a060) |
-| Sat, 18 Oct 2025 18:51:18 GMT | Unlocking Blockchain Security Data | Xavier Langlais | [Read More](https://medium.com/p/ad0c0a3803f2) |
-| Sat, 18 Oct 2025 18:47:59 GMT | Google Dorking: The Guide Nobody Told You About | Muhammed Anas | [Read More](https://medium.com/p/8e20cd03743b) |
-| Sat, 18 Oct 2025 18:44:12 GMT | I Don’t Know What I Feel Anymore | Asa | [Read More](https://medium.com/p/5601f3170380) |
-| Sat, 18 Oct 2025 18:28:47 GMT | Microsoft Removes Passwords from Entra ID | Ean Dudley | [Read More](https://medium.com/p/0cbb54561ecd) |
-| Sat, 18 Oct 2025 18:03:30 GMT | 10 Mistakes Every Beginner Ethical Hacker Makes (and How to Avoid Them in 2025) | Lazy Hunter | [Read More](https://medium.com/p/aa89c6b92a87) |
-| Sat, 18 Oct 2025 18:02:28 GMT | Guide to becoming an effective SIA officer on a microsite or empty facility | Dr Francesco Dergano | [Read More](https://medium.com/p/80b24c6bf707) |
-| Sat, 18 Oct 2025 17:55:58 GMT | RootQuest: Hacking the Thieveshkar Box from Forensic Challenge to Kernel Root | Thieveshkar | [Read More](https://medium.com/p/7426b92ebbac) |
-| Sat, 18 Oct 2025 17:37:57 GMT | Maximize Your Benefits with ChainBounty Rewards | ChainBounty | [Read More](https://medium.com/p/4d5af47548d5) |
