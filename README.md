@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 20:15:31 GMT | reverse-engineering-a-classic-injection | Goncha | [Read More](https://medium.com/p/1755d40947a2) |
+| Sun, 19 Oct 2025 20:02:21 GMT | Split Large File Into Small Pieces | Erkan Güzeler | [Read More](https://medium.com/p/c9fcb6446e49) |
+| Sun, 19 Oct 2025 20:00:24 GMT | The Unicode Trick That Let Me Takeover an Entire Organization | Hosam S3dawi | [Read More](https://medium.com/p/44e02fc189ee) |
+| Sun, 19 Oct 2025 19:58:17 GMT | When Security Tools Turn Bad: How Insiders Exploit Trusted Defenses | David R  Baker | [Read More](https://medium.com/p/ed5c59e15063) |
+| Sun, 19 Oct 2025 19:56:04 GMT | Hack the Box “Return” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/aa267680eb64) |
+| Sun, 19 Oct 2025 19:51:52 GMT | Use of AI in Cybersecurity | Mihir Kulkarni | [Read More](https://medium.com/p/bd7eb2b69a93) |
 | Sun, 19 Oct 2025 19:32:34 GMT | How to Integrate Palo Alto Firewall with Wazuh SIEM | Neetrox | [Read More](https://medium.com/p/3659ad47627e) |
+| Sun, 19 Oct 2025 19:32:06 GMT | What Cyber Security Is? (Explained like you’re 5 years old!) | Lilith tavassoli | [Read More](https://medium.com/p/d3e0586232e1) |
 | Sun, 19 Oct 2025 19:26:36 GMT | Cracking the Lock: How I Discovered Amazon KDP’s Missing Account Lockout Vulnerability | Mandar Satam | [Read More](https://medium.com/p/d504bef5adc0) |
 | Sun, 19 Oct 2025 19:24:43 GMT | What’s The Flag CTF Write-Up | Abilash B | [Read More](https://medium.com/p/41fd3c9a8bf1) |
 | Sun, 19 Oct 2025 19:18:38 GMT | Modern Access Control: Principles, Models, and Strategic Best Practices | Mai Tran | [Read More](https://medium.com/p/6edafea52235) |
@@ -106,10 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 12:22:37 GMT | Using Secrets from your HashiCorp Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/653fcd92afc4) |
 | Sun, 19 Oct 2025 12:18:40 GMT | CVE-2025–10585 Explained - Inside the Chrome V8 Zero-Day Exploit | Motasem Hamdan | [Read More](https://medium.com/p/e886556e668c) |
 | Sun, 19 Oct 2025 12:16:58 GMT | ️ Kernel Exploit Analysis and Secure Patch Development: A Deep Dive into Core Security | Esra Kayhan | [Read More](https://medium.com/p/d46b788db424) |
-| Sun, 19 Oct 2025 12:12:12 GMT | TryHackME: RootMe Walkthrough | Maxine Reyes | [Read More](https://medium.com/p/3bed1e729d30) |
-| Sun, 19 Oct 2025 12:01:47 GMT | Why Digital Labor Is Essential for Cyber Resilience | Srinivas T | [Read More](https://medium.com/p/2a72c5d78a76) |
-| Sun, 19 Oct 2025 11:54:12 GMT | ESP32-WROOM Wi-Fi Penetration Tool: Quick Start Guide | rootmadhav | [Read More](https://medium.com/p/2ff8c52eb44c) |
-| Sun, 19 Oct 2025 11:53:30 GMT | Why Your AGI Will Be Hacked — And the Three Quantum Locks That Stop It | Berend Watchus | [Read More](https://medium.com/p/f082a0e0f7bb) |
-| Sun, 19 Oct 2025 11:53:08 GMT | What Netflix Taught Me About Independence | Aman | [Read More](https://medium.com/p/2a2e98d930ad) |
-| Sun, 19 Oct 2025 11:52:05 GMT | Mobile Hacking Lab- GussMe Writeup | Htun Aung Kyaw | [Read More](https://medium.com/p/cc077d4ccec7) |
-| Sun, 19 Oct 2025 11:45:59 GMT | Privilege Escalation and RCE explained, plus 8 realistic interview questions | CyberSenpai | [Read More](https://medium.com/p/cb7b94a17b3f) |
