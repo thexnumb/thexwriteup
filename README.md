@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 21:12:57 GMT | Data Poisoning: How a Handful of Documents Can Corrupt the World’s Smartest AI | Martin Jordanovski | [Read More](https://medium.com/p/0690363229dd) |
+| Sun, 19 Oct 2025 21:02:09 GMT | Crypto-Agile by Design: Why the Future Belongs to Organisations That Plan, Not React | ExeQuantum | [Read More](https://medium.com/p/41f905b17662) |
+| Sun, 19 Oct 2025 20:57:07 GMT | Advanced API Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/16d6fffacad4) |
+| Sun, 19 Oct 2025 20:57:00 GMT | Nexus Defender: a simple path to a reliable baseline on UNSW-NB15 | Helen Malatanti | [Read More](https://medium.com/p/fd9f1e2aee01) |
+| Sun, 19 Oct 2025 20:53:16 GMT | Spending one more day with them | Gordie Jackson | [Read More](https://medium.com/p/9c2081216354) |
+| Sun, 19 Oct 2025 20:39:21 GMT | BTLO Reverse Engineering — A Classic Injection Lab Həlli | Goncha | [Read More](https://medium.com/p/37b58ae7d0da) |
 | Sun, 19 Oct 2025 20:22:32 GMT | TryHackMe Activity — RootMe! | Lee Caceres | [Read More](https://medium.com/p/b166c6d71d39) |
 | Sun, 19 Oct 2025 20:20:56 GMT | Day 14 of my Cybersecurity Journey: Networking Protocols 1 | Ogundipe Priscilla | [Read More](https://medium.com/p/7bf127e912c4) |
 | Sun, 19 Oct 2025 20:15:31 GMT | reverse-engineering-a-classic-injection | Goncha | [Read More](https://medium.com/p/1755d40947a2) |
@@ -107,9 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 12:39:52 GMT | Try Hack Me: RootMe | m0saic | [Read More](https://medium.com/p/c259245a925c) |
 | Sun, 19 Oct 2025 12:36:55 GMT | 5 Pandas Mistakes That Are Silently Killing Your Code Speed | Martyna Panek | [Read More](https://medium.com/p/da3bd093874d) |
 | Sun, 19 Oct 2025 12:33:19 GMT | A Drink for Every Doodle | Clown Face | [Read More](https://medium.com/p/65f75d133203) |
-| Sun, 19 Oct 2025 12:32:29 GMT | I Didn’t Notice How Unsafe My Internet Was Until It Was Too Late | Sabit | [Read More](https://medium.com/p/a344ea3cdac9) |
-| Sun, 19 Oct 2025 12:31:09 GMT | 5 Cybersecurity Side Hustles That Actually Pay (I Tested Them All) | Muhammad Haider Tallal | [Read More](https://medium.com/p/7672566c38a5) |
-| Sun, 19 Oct 2025 12:30:54 GMT | Memory Analysis for Incident Response -A Practical Approach for SOC Analysts | CyberHawk | [Read More](https://medium.com/p/3d73024e5987) |
-| Sun, 19 Oct 2025 12:29:55 GMT | RootMe Challenge: A TryHackMe Write-Up | MICHAEL JOSH MADRID | [Read More](https://medium.com/p/c83fbd628c3a) |
-| Sun, 19 Oct 2025 12:27:20 GMT | I Failed the CISSP Exam — Mistakes I Made | Muhammad Haider Tallal | [Read More](https://medium.com/p/8cbe9715a479) |
-| Sun, 19 Oct 2025 12:25:17 GMT | AMSI Bypass in 2025 — Bypassing Modern AV & EDR | Owais Lone | [Read More](https://medium.com/p/f8a46b91280e) |
