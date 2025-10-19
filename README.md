@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 17:24:26 GMT | Reverse Engineering and Tracing internal thoughts of LLM | Harish SG | [Read More](https://medium.com/p/3017b5f72008) |
+| Sun, 19 Oct 2025 17:19:08 GMT | How Did the “Vicar of Volgograd” Expose Russia’s Secrets? | Liam Brooks | [Read More](https://medium.com/p/a1accb6bcdff) |
 | Sun, 19 Oct 2025 17:10:36 GMT | Broken Access Control (BAC & IDOR): Understanding the Quiet Killer of Web App Security | Pirlo | [Read More](https://medium.com/p/5dc44dcf224b) |
 | Sun, 19 Oct 2025 17:04:04 GMT | Best Crypto Recovery Expert, Hire Ghost Mystery Recovery Hacker | Anthinywilson | [Read More](https://medium.com/p/4e95d5ec7c48) |
+| Sun, 19 Oct 2025 17:01:38 GMT | Part 2: Evolving into SRE & Cybersecurity | Karun Kumar | [Read More](https://medium.com/p/6b781553feec) |
 | Sun, 19 Oct 2025 16:52:49 GMT | Building the Gabriel’smind enterprise defense framework: From home lab to real-world readiness | Gabriel Santos | [Read More](https://medium.com/p/d602ba69147b) |
 | Sun, 19 Oct 2025 16:51:08 GMT | Windows takeover using EternelBlue exploit (CVE-2017–0144) | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/6e08a4a4c6f3) |
 | Sun, 19 Oct 2025 16:44:06 GMT | Sunday Funnies | Rebecca Trocki | [Read More](https://medium.com/p/9840ae868d94) |
@@ -110,6 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 10:42:16 GMT | TryHackMe #134 - Intro to Log Analysis | SiberYuk | [Read More](https://medium.com/p/4a4dd8ff1824) |
 | Sun, 19 Oct 2025 10:37:01 GMT | TryHackMe #133 - Log Operations | SiberYuk | [Read More](https://medium.com/p/96e58211c54e) |
 | Sun, 19 Oct 2025 10:36:49 GMT | CTF Writeup PADL | Yan Zaripov | [Read More](https://medium.com/p/49f94527fbab) |
-| Sun, 19 Oct 2025 10:28:24 GMT | Year Of The Rabbit: TryHackMe Writeup | 0xJad | [Read More](https://medium.com/p/9d901c94e043) |
-| Sun, 19 Oct 2025 10:27:40 GMT | How to Verify Any Screenshot or Image Online | VerifyHQ | [Read More](https://medium.com/p/8d8d0176e4a6) |
-| Sun, 19 Oct 2025 10:21:21 GMT | So You Want to Hack Smart Contracts? Here’s How to Set Up Your Offensive Security Lab | Yua Mikanana | [Read More](https://medium.com/p/9f84e527b47c) |
