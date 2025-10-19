@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 21:27:08 GMT | The Future of Cybersecurity: Six Trends Shaping 2026 and Beyond | Richard Wilder | [Read More](https://medium.com/p/11739269bd5b) |
+| Sun, 19 Oct 2025 21:22:43 GMT | Bypassing WAF Rules in Cache Deception Attacks | Ibtissam hammadi | [Read More](https://medium.com/p/e17a02a402a9) |
 | Sun, 19 Oct 2025 21:12:57 GMT | Data Poisoning: How a Handful of Documents Can Corrupt the World’s Smartest AI | Martin Jordanovski | [Read More](https://medium.com/p/0690363229dd) |
 | Sun, 19 Oct 2025 21:02:09 GMT | Crypto-Agile by Design: Why the Future Belongs to Organisations That Plan, Not React | ExeQuantum | [Read More](https://medium.com/p/41f905b17662) |
 | Sun, 19 Oct 2025 20:57:07 GMT | Advanced API Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/16d6fffacad4) |
@@ -111,5 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 12:44:43 GMT | Understanding the CIA Triad Through Real-World Examples | emreilhan | [Read More](https://medium.com/p/57ab3f8be57b) |
 | Sun, 19 Oct 2025 12:42:34 GMT | Why Crypto Privacy Matters More Than Ever in 2025 | trueswap | [Read More](https://medium.com/p/60bda3ef1747) |
 | Sun, 19 Oct 2025 12:39:52 GMT | Try Hack Me: RootMe | m0saic | [Read More](https://medium.com/p/c259245a925c) |
-| Sun, 19 Oct 2025 12:36:55 GMT | 5 Pandas Mistakes That Are Silently Killing Your Code Speed | Martyna Panek | [Read More](https://medium.com/p/da3bd093874d) |
-| Sun, 19 Oct 2025 12:33:19 GMT | A Drink for Every Doodle | Clown Face | [Read More](https://medium.com/p/65f75d133203) |
