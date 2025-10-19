@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 18:29:34 GMT | SSRF Deep-dive — PoCs, Labs & Reporting Kit (Part 2) | Abhishek meena | [Read More](https://medium.com/p/8fd8a485713e) |
+| Sun, 19 Oct 2025 18:24:52 GMT | ☕ Cyber & Coffee: The F5 Breach — When the Guard Gets Hacked | Cyber and Coffee | [Read More](https://medium.com/p/3a2a9a6390a8) |
+| Sun, 19 Oct 2025 18:24:39 GMT | Detecting Suspicious Powershell Activity.. | Tobiasacastleberry | [Read More](https://medium.com/p/232c1e0a7921) |
+| Sun, 19 Oct 2025 18:23:15 GMT | Why Are You NOT Using Argon2id? | Billy Coleman III | [Read More](https://medium.com/p/b6ab2dd86713) |
 | Sun, 19 Oct 2025 18:13:01 GMT | How LLMs Are Transforming Cybersecurity | eXpl0it_32 | [Read More](https://medium.com/p/621289ec606e) |
 | Sun, 19 Oct 2025 18:08:29 GMT | How to Fix Kernel Panic in Linux — Simple Recovery Guide | Muhammed Anas | [Read More](https://medium.com/p/4db758f235ce) |
 | Sun, 19 Oct 2025 18:01:48 GMT | MASTERCLASS BUG BOUNTY | Gorka | [Read More](https://medium.com/p/6476ae69f1e4) |
@@ -109,7 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 11:34:00 GMT | TryHackme - Extract - Türkçe | nightbird | [Read More](https://medium.com/p/9c357ae9eb9e) |
 | Sun, 19 Oct 2025 11:22:16 GMT | DockerLabs Writeup — Pequeñas-Mentirosas (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a5f853d87b22) |
 | Sun, 19 Oct 2025 11:19:16 GMT | Qualys in 2025: Still Relevant or Losing Ground? | Rommel Jay Gadil | [Read More](https://medium.com/p/49fd12de697b) |
-| Sun, 19 Oct 2025 11:11:21 GMT | The Top 50 Python Cybersecurity Commands for Intermediates | Hex Shift | [Read More](https://medium.com/p/a719a4c21eca) |
-| Sun, 19 Oct 2025 11:08:35 GMT | 27 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/cbd7fdfdebd3) |
-| Sun, 19 Oct 2025 11:08:14 GMT | What are the Best 24/7 Live CCTV Monitoring Services Available? | Marcela John | [Read More](https://medium.com/p/a90e89dc6809) |
-| Sun, 19 Oct 2025 11:06:00 GMT | Project Sentinel: A Global Initiative Against Hypercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/ac4f9342a2ea) |
