@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 12:32:29 GMT | I Didn’t Notice How Unsafe My Internet Was Until It Was Too Late | Sabit | [Read More](https://medium.com/p/a344ea3cdac9) |
+| Sun, 19 Oct 2025 12:27:20 GMT | I Failed the CISSP Exam — Mistakes I Made | Muhammad Haider Tallal | [Read More](https://medium.com/p/8cbe9715a479) |
+| Sun, 19 Oct 2025 12:25:17 GMT | AMSI Bypass in 2025 — Bypassing Modern AV & EDR | Owais Lone | [Read More](https://medium.com/p/f8a46b91280e) |
+| Sun, 19 Oct 2025 12:22:37 GMT | Using Secrets from your HashiCorp Vault in GitLab Pipelines. | DrPsychick | [Read More](https://medium.com/p/653fcd92afc4) |
+| Sun, 19 Oct 2025 12:18:40 GMT | CVE-2025–10585 Explained - Inside the Chrome V8 Zero-Day Exploit | Motasem Hamdan | [Read More](https://medium.com/p/e886556e668c) |
+| Sun, 19 Oct 2025 12:16:58 GMT | ️ Kernel Exploit Analysis and Secure Patch Development: A Deep Dive into Core Security | Esra Kayhan | [Read More](https://medium.com/p/d46b788db424) |
+| Sun, 19 Oct 2025 12:12:12 GMT | TryHackME: RootMe Walkthrough | Maxine Reyes | [Read More](https://medium.com/p/3bed1e729d30) |
+| Sun, 19 Oct 2025 12:01:47 GMT | Why Digital Labor Is Essential for Cyber Resilience | Srinivas T | [Read More](https://medium.com/p/2a72c5d78a76) |
+| Sun, 19 Oct 2025 11:54:12 GMT | ESP32-WROOM Wi-Fi Penetration Tool: Quick Start Guide | rootmadhav | [Read More](https://medium.com/p/2ff8c52eb44c) |
+| Sun, 19 Oct 2025 11:53:30 GMT | Why Your AGI Will Be Hacked — And the Three Quantum Locks That Stop It | Berend Watchus | [Read More](https://medium.com/p/f082a0e0f7bb) |
+| Sun, 19 Oct 2025 11:53:08 GMT | What Netflix Taught Me About Independence | Aman | [Read More](https://medium.com/p/2a2e98d930ad) |
+| Sun, 19 Oct 2025 11:52:05 GMT | Mobile Hacking Lab- GussMe Writeup | Htun Aung Kyaw | [Read More](https://medium.com/p/cc077d4ccec7) |
+| Sun, 19 Oct 2025 11:45:59 GMT | Privilege Escalation and RCE explained, plus 8 realistic interview questions | CyberSenpai | [Read More](https://medium.com/p/cb7b94a17b3f) |
+| Sun, 19 Oct 2025 11:43:04 GMT | “Tap into Hash” challenge | oussama | [Read More](https://medium.com/p/ede9673a805a) |
+| Sun, 19 Oct 2025 11:41:55 GMT | Type Checking in Python ✅ | Cristian | [Read More](https://medium.com/p/a874e34d7624) |
+| Sun, 19 Oct 2025 11:35:11 GMT | OS Command Injection | Md. Raihan | [Read More](https://medium.com/p/b9eb1d10b859) |
+| Sun, 19 Oct 2025 11:34:00 GMT | TryHackme - Extract - Türkçe | nightbird | [Read More](https://medium.com/p/9c357ae9eb9e) |
 | Sun, 19 Oct 2025 11:22:16 GMT | DockerLabs Writeup — Pequeñas-Mentirosas (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a5f853d87b22) |
 | Sun, 19 Oct 2025 11:19:16 GMT | Qualys in 2025: Still Relevant or Losing Ground? | Rommel Jay Gadil | [Read More](https://medium.com/p/49fd12de697b) |
 | Sun, 19 Oct 2025 11:11:21 GMT | The Top 50 Python Cybersecurity Commands for Intermediates | Hex Shift | [Read More](https://medium.com/p/a719a4c21eca) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 04:03:08 GMT | The Comfort of Anonymity | Alisa Halim | [Read More](https://medium.com/p/f324143c2060) |
 | Sun, 19 Oct 2025 03:47:38 GMT | Vanish Like a Pro Without Becoming Paranoid: Practical, Nonjudgmental OPSEC For Better Privacy | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/aea466dbf1b9) |
 | Sun, 19 Oct 2025 03:44:52 GMT | Basic SQL injection Methodology | Md. Raihan | [Read More](https://medium.com/p/9c606115eddb) |
-| Sun, 19 Oct 2025 03:42:04 GMT | Reverse First, Understand Later: The Hacker’s Approach to Learning Software | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4b6204c94cc6) |
-| Sun, 19 Oct 2025 03:40:36 GMT | The Rise of Source Code Warfare: How Nation-States Are Turning Vendor Blueprints into Precision… | Akilnath Bodipudi | [Read More](https://medium.com/p/293e67b809ce) |
-| Sun, 19 Oct 2025 03:09:04 GMT | Sparking Curiosity: The Detection Engineering Life Cycle | Shantaciak | [Read More](https://medium.com/p/f8c41b949b34) |
-| Sun, 19 Oct 2025 02:59:56 GMT | XSS Explained: A Simple, Powerful Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d87dadb92736) |
-| Sun, 19 Oct 2025 02:39:18 GMT | 10 Critical Checks I Perform After Logging Into a Linux Server I Didn’t Set Up | Kuldeepkumawat | [Read More](https://medium.com/p/a5bc30aa1b21) |
-| Sun, 19 Oct 2025 02:35:32 GMT | Zero Knowledge Face Proofs: Build Secure Apps Without Storing Passwords or Biometric Data | Miguel Treviño | [Read More](https://medium.com/p/cfc746d291fc) |
-| Sun, 19 Oct 2025 02:31:30 GMT | Pruebas Faciales de Conocimiento Cero: Construye Apps Seguras Sin Almacenar Contraseñas ni Datos… | Miguel Treviño | [Read More](https://medium.com/p/c59ddf0676fe) |
-| Sun, 19 Oct 2025 01:45:59 GMT | The Genius Behind Knowing Your Worth | Zed H. | [Read More](https://medium.com/p/fa3ad2e94c75) |
-| Sun, 19 Oct 2025 01:40:58 GMT | Interlude on Conflict, Morality, and Spirituality (Because I got publicly shamed… again! :( | Faze Point | [Read More](https://medium.com/p/3e7f29ed1c5e) |
-| Sun, 19 Oct 2025 01:39:47 GMT | ⚠️ When AI Builds the Web: How the Rise of Code-Generating Models Is Quietly Rewriting… | Nii Osa Odoi | [Read More](https://medium.com/p/821915ee13f9) |
-| Sun, 19 Oct 2025 01:38:17 GMT | Linux SELinux security policies | Linux Guide | [Read More](https://medium.com/p/f90f4293f5ab) |
-| Sun, 19 Oct 2025 01:32:20 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/67dfde03b6f5) |
-| Sun, 19 Oct 2025 01:26:18 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/84dc2ca320ee) |
-| Sun, 19 Oct 2025 01:06:46 GMT | The Lie I Told Myself About Being ‘Strong’ While I Was Breaking Inside | Vivie Parker | [Read More](https://medium.com/p/7a13bf89a1de) |
-| Sun, 19 Oct 2025 01:04:32 GMT | Bicausality : Towards a New Ontology of Collective Consciousness | Elios Aristide | [Read More](https://medium.com/p/868f4a454311) |
-| Sun, 19 Oct 2025 00:53:11 GMT | TryHackMe #1: RootMe | Rxuzuu | [Read More](https://medium.com/p/d237e7da6152) |
-| Sun, 19 Oct 2025 00:27:52 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/1bbf219fc212) |
