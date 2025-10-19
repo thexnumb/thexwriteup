@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 05:32:35 GMT | Learn How BUGS Users Can Access Rewards Easily | Bugs Bunny | [Read More](https://medium.com/p/5438c926aae7) |
+| Sun, 19 Oct 2025 05:13:03 GMT | OWASP Top 10 (2021): Cryptographic Failures | Abhinsubej | [Read More](https://medium.com/p/95ab2c63e828) |
 | Sun, 19 Oct 2025 05:01:50 GMT | From Authentication to Trust: Building Inclusive Cybersecurity Frameworks for a Diverse Society | Gess | [Read More](https://medium.com/p/0dbd0e85292e) |
 | Sun, 19 Oct 2025 05:00:55 GMT | Augmenting Digital Forensics with AI: How ChatGPT Transforms Investigation Workflows | Andrey Pautov | [Read More](https://medium.com/p/34eb10887ea5) |
 | Sun, 19 Oct 2025 04:47:00 GMT | How I Got My first Private Invite in Bug Bounty | Rehan Sohail | [Read More](https://medium.com/p/f51ea01e03a7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 16:11:51 GMT | Why I Always Verify Linux System Binaries After an Incident (and How I Do It) | Faruk Ahmed | [Read More](https://medium.com/p/d98d31dc060b) |
 | Sat, 18 Oct 2025 16:11:18 GMT | Why I don’t feel comfortable in my own skin? | Dav_Moreuxx | [Read More](https://medium.com/p/f91cfa9fd1df) |
 | Sat, 18 Oct 2025 16:10:35 GMT | Maximize Your Benefits with Bugs Bunny  Rewards | Bugs Bunny | [Read More](https://medium.com/p/4d6a8433e291) |
-| Sat, 18 Oct 2025 16:04:01 GMT | The Numbers (Cryptography Writeup) | Zulfianarahmi | [Read More](https://medium.com/p/a7a2dcc51171) |
-| Sat, 18 Oct 2025 16:02:58 GMT | Redoing my channel | Flora | [Read More](https://medium.com/p/01cf588817b1) |
