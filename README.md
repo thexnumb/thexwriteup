@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 08:30:03 GMT | Netcat Fundamentals | Dharmendrakumar | [Read More](https://medium.com/p/7282317a628d) |
+| Sun, 19 Oct 2025 08:25:47 GMT | I must be running mad again! | Tattle Tale | [Read More](https://medium.com/p/f9d5f9a6ff07) |
+| Sun, 19 Oct 2025 08:25:43 GMT | eJPT — 3.3 The Metasploit Framework | Dharmendrakumar | [Read More](https://medium.com/p/24439d1238c5) |
+| Sun, 19 Oct 2025 08:25:21 GMT | Linux Privilege Escalation — Rootkit Scanner | Dharmendrakumar | [Read More](https://medium.com/p/6b14a204af08) |
 | Sun, 19 Oct 2025 08:19:26 GMT | Police Crack Down on SIMCARTEL Network and Seize 40,000 SIM Cards | Patrik Žák | [Read More](https://medium.com/p/b7851867fca0) |
 | Sun, 19 Oct 2025 08:14:37 GMT | Part 2 — JWT, Okta, and Scopes: The Mechanics of Authorization | Chiraggarg | [Read More](https://medium.com/p/d20f2e3fd047) |
+| Sun, 19 Oct 2025 08:14:01 GMT | Data Breach: Who is to Blame? | Komang Wahyu Agastya | [Read More](https://medium.com/p/0947a09f991e) |
+| Sun, 19 Oct 2025 08:13:16 GMT | CEO’s Are the Biggest Liability in Cybersecurity | Travis Ray Caverhill | [Read More](https://medium.com/p/d15171bb7a55) |
 | Sun, 19 Oct 2025 08:01:50 GMT | Free Domain Leak Check: See If Your Employee Logins Are Exposed Now | Alexandre Vandamme | [Read More](https://medium.com/p/ad38276536f2) |
 | Sun, 19 Oct 2025 07:59:03 GMT | 7 Powerful Moves for DORA Compliance Cybersecurity 2025 | Pentest_Testing_Corp | [Read More](https://medium.com/p/870c4f39c54e) |
 | Sun, 19 Oct 2025 07:56:16 GMT | Zero Trust Principles vs Generative AI | TheCyberKnight | [Read More](https://medium.com/p/55a5f5fa75e3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 20:25:30 GMT | You Can Only Pick One: Transparency or AI? | abdeldayemnour | [Read More](https://medium.com/p/040e85781259) |
 | Sat, 18 Oct 2025 20:17:49 GMT | The Paradox of Power — How Dictators Luxuriate in Freedom While Their People Languish in Chains | David SEHYEON Baek | [Read More](https://medium.com/p/197276155288) |
 | Sat, 18 Oct 2025 20:10:50 GMT | I’m Not Unhappy, But I’m Not Happy Either | Kakoli Aster♡ | [Read More](https://medium.com/p/85f529db5bd4) |
-| Sat, 18 Oct 2025 19:42:25 GMT | 10 Intriguing Cybersecurity Startup Ideas You Can Build as a Micro-SaaS | John Muconto | [Read More](https://medium.com/p/acc8b6640486) |
-| Sat, 18 Oct 2025 19:30:08 GMT | Day 13 of my Cybersecurity Journey: Networking Essentials. | Ogundipe Priscilla | [Read More](https://medium.com/p/23484199c0dd) |
-| Sat, 18 Oct 2025 19:27:55 GMT | IDOR lead to unauthorized Access Organizations function | HBlack Ghost | [Read More](https://medium.com/p/0dc707011dd1) |
-| Sat, 18 Oct 2025 19:20:25 GMT | Social Engineering: How Hackers Trick You (And How to Stop Them) | Muhammed Anas | [Read More](https://medium.com/p/570ef7b3ef47) |
-| Sat, 18 Oct 2025 19:16:45 GMT | Forgotten ‍️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/b440ad425bac) |
-| Sat, 18 Oct 2025 19:06:49 GMT | Cyber and Coffee: Pour Yourself a Cup and Catch Up on Cybersecurity — October 2025 | Cyber and Coffee | [Read More](https://medium.com/p/f05cbe23a75b) |
