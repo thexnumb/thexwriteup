@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 14:37:28 GMT | TryHackMe ‘RootMe’ — A Write-up | Aireides | [Read More](https://medium.com/p/eff427575d28) |
+| Sun, 19 Oct 2025 14:37:13 GMT | The Rise of Digital Dragonism: How Modern Hackers Are Becoming the New-Age Sorcerers | Kunal Gautam | [Read More](https://medium.com/p/37d23884060f) |
+| Sun, 19 Oct 2025 14:29:44 GMT | Top Technology Trends in 2026 That Will Shape Our Everyday Lives” | Naveedahmedali | [Read More](https://medium.com/p/eb0edd3ea50b) |
+| Sun, 19 Oct 2025 14:25:35 GMT | The Poisoned Stream — A08: Software and Data Integrity Failures - 10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/cc47370cbe88) |
+| Sun, 19 Oct 2025 14:22:38 GMT | From $1,000 to $100,000 in Bug Bounties: Advanced Techniques and Program Selection Strategy | Maxwell Cross | [Read More](https://medium.com/p/d858cacf34d4) |
+| Sun, 19 Oct 2025 14:22:37 GMT | Securing MQTT Brokers in IoT Infrastructure through VPN-Based Private Networking using WireGuard | Hassam Fathe Muhammad | [Read More](https://medium.com/p/79db459217f6) |
+| Sun, 19 Oct 2025 14:21:46 GMT | The Dumbest Security Breach I’ve Seen in 2025 | Cyberkech | [Read More](https://medium.com/p/cda2895697c1) |
+| Sun, 19 Oct 2025 14:21:34 GMT | Information Gathering: The First and Most Important Step in Ethical Hacking | Syed Mohammed Murtaza | [Read More](https://medium.com/p/6cb0fa0f9cf9) |
 | Sun, 19 Oct 2025 14:11:47 GMT | The Fascinating World of Cyberspace | Chief Thinker | [Read More](https://medium.com/p/a74e272a5b49) |
 | Sun, 19 Oct 2025 14:01:19 GMT | How to Convert JPEG to XML Effortlessly: A Complete Guide to Smart File Conversion | changemyfile.com | [Read More](https://medium.com/p/ce5d9beb75dd) |
 | Sun, 19 Oct 2025 13:59:47 GMT | How a Missing Email Check Can Break Everything | Viratavi | [Read More](https://medium.com/p/c9e97194a551) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 07:34:55 GMT | How I Hacked JWT Tokens and Became Everyone on the Internet (Temporarily) | Iski | [Read More](https://medium.com/p/1e05f961048d) |
 | Sun, 19 Oct 2025 07:31:00 GMT | The QR Bug That Shouldn’t Exist — A Small Flaw with Big Consequences | Xormium | [Read More](https://medium.com/p/a7fb11fe1d41) |
 | Sun, 19 Oct 2025 07:27:38 GMT | Localhost Vanished Forever: How Windows 11’s KB5066835 Update Impacts Developers and Fixes to… | H2bm | [Read More](https://medium.com/p/e50720f72d5a) |
-| Sun, 19 Oct 2025 07:25:54 GMT | PRIMER 1.0.1 Vulnhub CTF Walkthrough | D1d0D | [Read More](https://medium.com/p/cefa8a801a47) |
-| Sun, 19 Oct 2025 07:25:24 GMT | Exploiting an Insecure Android Activity for Arbitrary File Theft and Account Takeover | Yousef Elsheikh | [Read More](https://medium.com/p/07b360520a0e) |
-| Sun, 19 Oct 2025 07:22:35 GMT | Today’s Top Cyber Intelligence Highlights — Oct 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/459fdf41c9a2) |
-| Sun, 19 Oct 2025 07:21:46 GMT | Solidity Security Vulnerabilities: Common Bugs and Exploits in Smart Contracts — A BuidlGuidl CTF… | Mahdi Darabi | [Read More](https://medium.com/p/2f4557bca2e9) |
-| Sun, 19 Oct 2025 07:16:03 GMT | Dangling cname that missed by a lot of Hackers | Na_stark | [Read More](https://medium.com/p/f625a400a7aa) |
-| Sun, 19 Oct 2025 07:15:32 GMT | When RabbitMQ Is Public — A Hands-On AMQP Pentest Playbook (5671/5672) | Very Lazy Tech | [Read More](https://medium.com/p/908bb7f69521) |
-| Sun, 19 Oct 2025 07:11:40 GMT | Write-up: TryHackMe CTF (RootMe) | Matthew Benedict A. Olanda | [Read More](https://medium.com/p/561d88611207) |
-| Sun, 19 Oct 2025 07:08:25 GMT | Five Kafka Critical Information Only to be discovered while performance bottleneck and in… | nudgebyte | [Read More](https://medium.com/p/09e51ae7c889) |
