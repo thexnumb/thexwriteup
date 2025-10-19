@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 15:18:07 GMT | Siber Güvenlik Labı Serisi (2): Windows Server Kurulumu, Log Entegrasyonu ve SIEM Temelleri | Merve Güler | [Read More](https://medium.com/p/819a3f1e756e) |
+| Sun, 19 Oct 2025 15:18:05 GMT | Java 25: The Features That Made Me Excited About Java Again | Jitin Kayyala | [Read More](https://medium.com/p/b99c8f1d1ca5) |
+| Sun, 19 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/6e0e26c8fb46) |
 | Sun, 19 Oct 2025 15:13:49 GMT | On-Premise-01: Exploiting CVE-2023–3452 in the Canto WordPress Plugin
 Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 15:12:25 GMT | Hands-On Guide to Exploiting Redis, MongoDB, and Misconfigured Databases: Master Real-World Attacks | Very Lazy Tech | [Read More](https://medium.com/p/c990a0cfdbd6) |
@@ -110,6 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 08:30:03 GMT | Netcat Fundamentals | Dharmendrakumar | [Read More](https://medium.com/p/7282317a628d) |
 | Sun, 19 Oct 2025 08:25:47 GMT | I must be running mad again! | Tattle Tale | [Read More](https://medium.com/p/f9d5f9a6ff07) |
 | Sun, 19 Oct 2025 08:25:43 GMT | eJPT — 3.3 The Metasploit Framework | Dharmendrakumar | [Read More](https://medium.com/p/24439d1238c5) |
-| Sun, 19 Oct 2025 08:25:21 GMT | Linux Privilege Escalation — Rootkit Scanner | Dharmendrakumar | [Read More](https://medium.com/p/6b14a204af08) |
-| Sun, 19 Oct 2025 08:19:26 GMT | Police Crack Down on SIMCARTEL Network and Seize 40,000 SIM Cards | Patrik Žák | [Read More](https://medium.com/p/b7851867fca0) |
-| Sun, 19 Oct 2025 08:14:37 GMT | Part 2 — JWT, Okta, and Scopes: The Mechanics of Authorization | Chiraggarg | [Read More](https://medium.com/p/d20f2e3fd047) |
