@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 10:11:06 GMT | How I Leaked the Environment Variables of a Django Web App on Azure Front Door | Zain | [Read More](https://medium.com/p/dfcbbaf58e4f) |
+| Sun, 19 Oct 2025 10:04:56 GMT | How QR Codes Can Hack You, Silently | Abedin | [Read More](https://medium.com/p/c06dfc57d2ab) |
+| Sun, 19 Oct 2025 09:54:16 GMT | The Most Dangerous File I Ever Opened (And Why I Couldn’t Resist) | Fateyaly | [Read More](https://medium.com/p/1ae180448b06) |
+| Sun, 19 Oct 2025 09:52:53 GMT | Vulnerability Assessment and Penetration Testing as a Service for the Banking Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/087d657b5fa4) |
+| Sun, 19 Oct 2025 09:49:35 GMT | React Server Components: Masa Depan React Sudah Tiba | Anjas Rani | [Read More](https://medium.com/p/7915972796cb) |
+| Sun, 19 Oct 2025 09:46:47 GMT | Leading in the Dark | Sara Roger | [Read More](https://medium.com/p/0dca74eefe09) |
+| Sun, 19 Oct 2025 09:45:38 GMT | PGP Şifreleme: Nedir, Neden Önemlidir ve Nasıl Kullanılır? | Emre Özdemir | [Read More](https://medium.com/p/8614c470dd73) |
+| Sun, 19 Oct 2025 09:43:05 GMT | Can AI Agents Become SOC Analysts? | TheCyberKnight | [Read More](https://medium.com/p/cb1344e78bbe) |
+| Sun, 19 Oct 2025 09:38:53 GMT | How I’d Rebuild My Cybersecurity Career from Zero in the AI Era | Taimur Ijlal | [Read More](https://medium.com/p/ba4dfc254a8d) |
+| Sun, 19 Oct 2025 09:33:09 GMT | Getting Started with the Bash Shell | Aarya Sarfare | [Read More](https://medium.com/p/4a983d6d04a8) |
+| Sun, 19 Oct 2025 09:29:54 GMT | SAML Configuration Exposure to Low-Privilege Team Members Due to Missing Server-Side RBAC | Ibrahim Yılmaz | [Read More](https://medium.com/p/04d907860433) |
 | Sun, 19 Oct 2025 09:19:50 GMT | RootMe ~ im in | Qyllz | [Read More](https://medium.com/p/e706ce14e39e) |
 | Sun, 19 Oct 2025 09:18:42 GMT | Even When It Seems Impossible, Believe in Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/908c349af6f7) |
 | Sun, 19 Oct 2025 09:18:20 GMT | HackTheBox: DarkCorp Writeup [INSANE] | Rahul Hoysala | [Read More](https://medium.com/p/b3c49b86be20) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 23:01:19 GMT | Automating Security with Tines and LimaCharlie | Mcl0ng0ng | [Read More](https://medium.com/p/4bdc0ff3256d) |
 | Sat, 18 Oct 2025 22:39:32 GMT | The QUAD at a Crossroads | Sumant Vidwans | [Read More](https://medium.com/p/0a6f66a345be) |
 | Sat, 18 Oct 2025 22:31:46 GMT | Inside the Firewall: How Your First Line Of Defense Actually works | Thegreatpayload | [Read More](https://medium.com/p/a7e9755203ed) |
-| Sat, 18 Oct 2025 22:25:35 GMT | Android Users Beware: A New Flaw Lets Apps Steal Your 2FA Codes | Steve Matindi | [Read More](https://medium.com/p/82a09bcbff06) |
-| Sat, 18 Oct 2025 22:10:17 GMT | GPT Switching to Medium: A Bug in Typing | Enyah Resah | [Read More](https://medium.com/p/69070d5cbdf9) |
-| Sat, 18 Oct 2025 22:04:41 GMT | My First Root: A Step-by-Step Guide to TryHackMe’s RootMe | EnochSignus | [Read More](https://medium.com/p/4aaa22edb262) |
-| Sat, 18 Oct 2025 21:57:34 GMT | ‘Great Hackers, Terrible Traders’: Crypto Exploiters Lose $13.4M in Market Panic | Imran Younas | [Read More](https://medium.com/p/8eddc4a58f41) |
-| Sat, 18 Oct 2025 21:54:03 GMT | Fire Watch Guards in Houston Texas | Twin City Security Houston | [Read More](https://medium.com/p/22eb4f9b891f) |
-| Sat, 18 Oct 2025 21:38:02 GMT | From Streets to Screens: The New Pickpockets of +254 | Steve Matindi | [Read More](https://medium.com/p/f6718738e1fc) |
-| Sat, 18 Oct 2025 21:33:01 GMT | From Student to Practitioner. Passing The Security+ and the Journey behind it | Incidalus | [Read More](https://medium.com/p/aa1ba3c78c83) |
-| Sat, 18 Oct 2025 21:22:39 GMT | How to Find Your First Database Vulnerability in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/2738e70cd979) |
-| Sat, 18 Oct 2025 21:01:50 GMT | The Future of Information Technology in the Global Job Market | Vertex University | [Read More](https://medium.com/p/b1be036dde49) |
-| Sat, 18 Oct 2025 21:00:19 GMT | Cybersecurity-focused Discord community | Cyb0rgBytes | [Read More](https://medium.com/p/91f03503235d) |
-| Sat, 18 Oct 2025 20:46:21 GMT | My Life as a Hacker, Chapter One | Mark Edwards | [Read More](https://medium.com/p/47ba8d50e01a) |
