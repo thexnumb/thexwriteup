@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 18:13:01 GMT | How LLMs Are Transforming Cybersecurity | eXpl0it_32 | [Read More](https://medium.com/p/621289ec606e) |
+| Sun, 19 Oct 2025 18:08:29 GMT | How to Fix Kernel Panic in Linux — Simple Recovery Guide | Muhammed Anas | [Read More](https://medium.com/p/4db758f235ce) |
+| Sun, 19 Oct 2025 18:01:48 GMT | MASTERCLASS BUG BOUNTY | Gorka | [Read More](https://medium.com/p/6476ae69f1e4) |
+| Sun, 19 Oct 2025 17:53:10 GMT | Common Cybersecurity Terminology: A Beginner-Friendly Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/00b1d1785dcc) |
+| Sun, 19 Oct 2025 17:49:54 GMT | What is this Mark Zuckerberg doing? Doesn’t he give us our privacy? | Dilshan Senarath | [Read More](https://medium.com/p/08d6ced943df) |
+| Sun, 19 Oct 2025 17:48:48 GMT | Shifting Left: A Practical Guide for Developers Who Take Security Seriously! | Cyberbali | [Read More](https://medium.com/p/c6b4e7e91a54) |
+| Sun, 19 Oct 2025 17:44:16 GMT | Master Wi-Fi Security — From Basics to Attacks & Defenses | Gollamohan | [Read More](https://medium.com/p/53052557df04) |
+| Sun, 19 Oct 2025 17:38:45 GMT | Rooting the Capstone Dev Machine | Chayon Datta Utsha | [Read More](https://medium.com/p/ca5187ee263f) |
+| Sun, 19 Oct 2025 17:32:54 GMT | Best Crypto Recovery Expert, Hire Ghost Mystery Recovery Hacker | Anthinywilson | [Read More](https://medium.com/p/3e4d4430e7be) |
 | Sun, 19 Oct 2025 17:24:26 GMT | Reverse Engineering and Tracing internal thoughts of LLM | Harish SG | [Read More](https://medium.com/p/3017b5f72008) |
 | Sun, 19 Oct 2025 17:19:08 GMT | How Did the “Vicar of Volgograd” Expose Russia’s Secrets? | Liam Brooks | [Read More](https://medium.com/p/a1accb6bcdff) |
 | Sun, 19 Oct 2025 17:10:36 GMT | Broken Access Control (BAC & IDOR): Understanding the Quiet Killer of Web App Security | Pirlo | [Read More](https://medium.com/p/5dc44dcf224b) |
@@ -104,12 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 11:08:35 GMT | 27 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/cbd7fdfdebd3) |
 | Sun, 19 Oct 2025 11:08:14 GMT | What are the Best 24/7 Live CCTV Monitoring Services Available? | Marcela John | [Read More](https://medium.com/p/a90e89dc6809) |
 | Sun, 19 Oct 2025 11:06:00 GMT | Project Sentinel: A Global Initiative Against Hypercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/ac4f9342a2ea) |
-| Sun, 19 Oct 2025 11:03:00 GMT | 26 HTML Id and Class Attributes | Rana Awais | [Read More](https://medium.com/p/c2d1ce15e4cf) |
-| Sun, 19 Oct 2025 10:59:13 GMT | How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App (All from the Share… | Ferdus Alam | [Read More](https://medium.com/p/4d425a15aa37) |
-| Sun, 19 Oct 2025 10:59:09 GMT | What Is SAML? Explained with a Simple Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/f43816bfbf41) |
-| Sun, 19 Oct 2025 10:59:03 GMT | 25 HTML Block and Inline Elements | Rana Awais | [Read More](https://medium.com/p/8ac1d0408eb9) |
-| Sun, 19 Oct 2025 10:42:57 GMT | How to Build a Personal Cyber Defense Stack in 2025 | Shahzaib | [Read More](https://medium.com/p/b928bc79a563) |
-| Sun, 19 Oct 2025 10:42:54 GMT | Learning Network Scanning with Nmap: My Hands-on Lab Experience | Zulfianarahmi | [Read More](https://medium.com/p/c376261abbf2) |
-| Sun, 19 Oct 2025 10:42:16 GMT | TryHackMe #134 - Intro to Log Analysis | SiberYuk | [Read More](https://medium.com/p/4a4dd8ff1824) |
-| Sun, 19 Oct 2025 10:37:01 GMT | TryHackMe #133 - Log Operations | SiberYuk | [Read More](https://medium.com/p/96e58211c54e) |
-| Sun, 19 Oct 2025 10:36:49 GMT | CTF Writeup PADL | Yan Zaripov | [Read More](https://medium.com/p/49f94527fbab) |
