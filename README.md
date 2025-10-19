@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 11:22:16 GMT | DockerLabs Writeup — Pequeñas-Mentirosas (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a5f853d87b22) |
+| Sun, 19 Oct 2025 11:19:16 GMT | Qualys in 2025: Still Relevant or Losing Ground? | Rommel Jay Gadil | [Read More](https://medium.com/p/49fd12de697b) |
 | Sun, 19 Oct 2025 11:11:21 GMT | The Top 50 Python Cybersecurity Commands for Intermediates | Hex Shift | [Read More](https://medium.com/p/a719a4c21eca) |
 | Sun, 19 Oct 2025 11:08:35 GMT | 27 HTML Forms and Input Elements | Rana Awais | [Read More](https://medium.com/p/cbd7fdfdebd3) |
 | Sun, 19 Oct 2025 11:08:14 GMT | What are the Best 24/7 Live CCTV Monitoring Services Available? | Marcela John | [Read More](https://medium.com/p/a90e89dc6809) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 01:04:32 GMT | Bicausality : Towards a New Ontology of Collective Consciousness | Elios Aristide | [Read More](https://medium.com/p/868f4a454311) |
 | Sun, 19 Oct 2025 00:53:11 GMT | TryHackMe #1: RootMe | Rxuzuu | [Read More](https://medium.com/p/d237e7da6152) |
 | Sun, 19 Oct 2025 00:27:52 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/1bbf219fc212) |
-| Sun, 19 Oct 2025 00:25:19 GMT | The Email Trap: How SMBs Lose Trust, Deals, and Reputation Without Proper Configuration | Victor Yan | [Read More](https://medium.com/p/d0f8d8aee3f5) |
-| Sun, 19 Oct 2025 00:20:23 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/a6f8970a5293) |
