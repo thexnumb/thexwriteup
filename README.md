@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 09:05:05 GMT | Banking on Cardano: A CTF Journey Begins | Invariant0 | [Read More](https://medium.com/p/5746918399be) |
+| Sun, 19 Oct 2025 09:00:39 GMT | ESC2 AD CS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/c3e1740ca8da) |
 | Sun, 19 Oct 2025 08:30:03 GMT | Netcat Fundamentals | Dharmendrakumar | [Read More](https://medium.com/p/7282317a628d) |
 | Sun, 19 Oct 2025 08:25:47 GMT | I must be running mad again! | Tattle Tale | [Read More](https://medium.com/p/f9d5f9a6ff07) |
 | Sun, 19 Oct 2025 08:25:43 GMT | eJPT — 3.3 The Metasploit Framework | Dharmendrakumar | [Read More](https://medium.com/p/24439d1238c5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 20:26:54 GMT | Sunshine CTF 2025 | Harpogma | [Read More](https://medium.com/p/0902c14a6bbd) |
 | Sat, 18 Oct 2025 20:26:44 GMT | How I Accidentally Crashed My Company’s FortiGate Firewall: Uncovering a Hidden Attack Surface | soroush | [Read More](https://medium.com/p/fa40011b6e7f) |
 | Sat, 18 Oct 2025 20:25:30 GMT | You Can Only Pick One: Transparency or AI? | abdeldayemnour | [Read More](https://medium.com/p/040e85781259) |
-| Sat, 18 Oct 2025 20:17:49 GMT | The Paradox of Power — How Dictators Luxuriate in Freedom While Their People Languish in Chains | David SEHYEON Baek | [Read More](https://medium.com/p/197276155288) |
-| Sat, 18 Oct 2025 20:10:50 GMT | I’m Not Unhappy, But I’m Not Happy Either | Kakoli Aster♡ | [Read More](https://medium.com/p/85f529db5bd4) |
