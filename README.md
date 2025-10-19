@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 01:39:47 GMT | ⚠️ When AI Builds the Web: How the Rise of Code-Generating Models Is Quietly Rewriting… | Nii Osa Odoi | [Read More](https://medium.com/p/821915ee13f9) |
+| Sun, 19 Oct 2025 01:32:20 GMT | Linux firewall setup | Linux Guide | [Read More](https://medium.com/p/67dfde03b6f5) |
+| Sun, 19 Oct 2025 01:26:18 GMT | Linux SSH server configuration | Linux Guide | [Read More](https://medium.com/p/84dc2ca320ee) |
+| Sun, 19 Oct 2025 01:06:46 GMT | The Lie I Told Myself About Being ‘Strong’ While I Was Breaking Inside | Vivie Parker | [Read More](https://medium.com/p/7a13bf89a1de) |
+| Sun, 19 Oct 2025 01:04:32 GMT | Bicausality : Towards a New Ontology of Collective Consciousness | Elios Aristide | [Read More](https://medium.com/p/868f4a454311) |
+| Sun, 19 Oct 2025 00:53:11 GMT | TryHackMe #1: RootMe | Rxuzuu | [Read More](https://medium.com/p/d237e7da6152) |
+| Sun, 19 Oct 2025 00:27:52 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/1bbf219fc212) |
+| Sun, 19 Oct 2025 00:25:19 GMT | The Email Trap: How SMBs Lose Trust, Deals, and Reputation Without Proper Configuration | Victor Yan | [Read More](https://medium.com/p/d0f8d8aee3f5) |
+| Sun, 19 Oct 2025 00:20:23 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/a6f8970a5293) |
+| Sun, 19 Oct 2025 00:19:00 GMT | How Has The Way People Build Trust Online Changed Over They Years? | Wayne Hardy: Rising Above Narcissim | [Read More](https://medium.com/p/cba17d03123c) |
+| Sun, 19 Oct 2025 00:16:03 GMT | Snapshot of the Lever to Man Kind: Cryptography | Aadya Sinha | [Read More](https://medium.com/p/1fc6f380cc9c) |
+| Sun, 19 Oct 2025 00:13:50 GMT | Automating Security Testing in CI/CD Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/66c736cbff29) |
+| Sun, 19 Oct 2025 00:11:33 GMT | Network security plan for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/768c7e424d72) |
+| Sun, 19 Oct 2025 00:10:06 GMT | Learn How BUG Users Can Access Rewards Easily | BUG | [Read More](https://medium.com/p/f1cae1736c6e) |
+| Sun, 19 Oct 2025 00:02:39 GMT | “YOU’VE BEEN TRICKED” ... THE PSYCHOLOGY BEHIND CYBER ATTACKS (PART I) | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/d687065159e3) |
+| Sat, 18 Oct 2025 23:57:51 GMT | Forest — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/d49248a20c8a) |
+| Sat, 18 Oct 2025 23:55:19 GMT | Effective Patch Management Strategies | Cyber Security Research | [Read More](https://medium.com/p/eb422342fa0a) |
+| Sat, 18 Oct 2025 23:42:39 GMT | Building a Robust Security Operations Center (SOC) | Cyber Security Research | [Read More](https://medium.com/p/ec2c6d564dcd) |
+| Sat, 18 Oct 2025 23:37:06 GMT | CPU Cache and Side-Channel Attacks: A Silent Threat in Modern Computing | Bervice | [Read More](https://medium.com/p/86c6fee5738d) |
+| Sat, 18 Oct 2025 23:32:08 GMT | Zero Trust in Practice: Closing the Gaps OSINT Can Exploit | Aj | [Read More](https://medium.com/p/c6315de24da7) |
 | Sat, 18 Oct 2025 23:18:02 GMT | Silence After Security.txt: When a Promise to Report Is Ignored | D Johnston | [Read More](https://medium.com/p/9efc2741f7a4) |
 | Sat, 18 Oct 2025 23:14:41 GMT | Solving OWASP Android Uncrackable L2 | D0loresH4ze | [Read More](https://medium.com/p/fc5421e33536) |
 | Sat, 18 Oct 2025 23:05:02 GMT | Security Flaws in VS Extensions Expose Developers to Threats | Valentin Podkamennyi | [Read More](https://medium.com/p/45f54c081200) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 14:29:36 GMT | The Arch Linux Is Not for You | Anfisa Silvanova | [Read More](https://medium.com/p/c45488f2cdaa) |
 | Sat, 18 Oct 2025 14:27:00 GMT | picoCTF — Where are the robots? — writeup | AD3NCA | [Read More](https://medium.com/p/81b45771d8c4) |
 | Sat, 18 Oct 2025 14:24:07 GMT | Authentication Concepts explained to a 74 yr old grandma | Sreeni Kand - COOLTECH | [Read More](https://medium.com/p/fbe3df4e0098) |
-| Sat, 18 Oct 2025 14:19:45 GMT | Beyond Email Phishing | Medjue Gore | [Read More](https://medium.com/p/8ff35371be90) |
-| Sat, 18 Oct 2025 14:19:38 GMT | Day 91: What is CVSS | Nile Okomo | [Read More](https://medium.com/p/0a314a438526) |
-| Sat, 18 Oct 2025 14:14:34 GMT | Step-by-Step Guide: Practical Docker Enumeration and Container Escape Techniques | Very Lazy Tech | [Read More](https://medium.com/p/986e1d6a6919) |
-| Sat, 18 Oct 2025 14:04:49 GMT | Detecting Payload Injection in Memory using Volatility | ze4rch1tect | [Read More](https://medium.com/p/b84101ff391f) |
-| Sat, 18 Oct 2025 14:00:07 GMT | The Legal Layer — Forensic Proof and Accountability in Digital Finance | Abatis ABTU | [Read More](https://medium.com/p/dda996c2d201) |
-| Sat, 18 Oct 2025 13:40:23 GMT | The Student Security Analyst: Providing SOC Services Remotely | Samina Perveen | [Read More](https://medium.com/p/d6959731f678) |
-| Sat, 18 Oct 2025 13:37:01 GMT | Protect Your SaaS Stack: Why Endpoint Monitoring Completes Your Security Posture | Paul Meyer | [Read More](https://medium.com/p/681b2b094047) |
-| Sat, 18 Oct 2025 13:35:42 GMT | CS student tries to evade AV (PART 4) | Mahmudul Hasan | [Read More](https://medium.com/p/eca24ae85934) |
-| Sat, 18 Oct 2025 13:34:12 GMT | Practical Thread Hijacking — From Theory to Malware Code | 0xc4t | [Read More](https://medium.com/p/74fa097c9311) |
-| Sat, 18 Oct 2025 13:30:20 GMT | How to hack GMail password online: FREE methods of hackers | Vaveotechnology | [Read More](https://medium.com/p/1a7cdde92a3d) |
-| Sat, 18 Oct 2025 13:30:16 GMT | The Future of Free Speech Lies in Decentralized Messengers Like SecureBit.chat | Volodymyr | [Read More](https://medium.com/p/0c706c686c75) |
-| Sat, 18 Oct 2025 13:20:12 GMT | Freedom Insurance | Frank Gullo | [Read More](https://medium.com/p/a3cbdecb7cca) |
-| Sat, 18 Oct 2025 13:19:07 GMT | Instagram hacker tool — 9 FREE methods | Vaveotechnology | [Read More](https://medium.com/p/d427c9f703d4) |
-| Sat, 18 Oct 2025 13:16:06 GMT | The Silent Threat: Why a Tiny Drop of Poison Could Bring Down the Biggest AI | Shomya Soneji | [Read More](https://medium.com/p/e8ee312a67e9) |
-| Sat, 18 Oct 2025 13:11:01 GMT | OpenCTI vs. MISP: A CTI Analyst’s Perspective on Two Core Threat Intelligence Platforms | Cyber threat intelligence | [Read More](https://medium.com/p/f21ca56b3c77) |
-| Sat, 18 Oct 2025 13:09:35 GMT | Gizlice Başlayan Nöral Devrim: İnsanlığın Büyük Gerçeği | İhsan Ahmet Köseoğlu | [Read More](https://medium.com/p/ef6c88046b36) |
-| Sat, 18 Oct 2025 13:03:11 GMT | Hack a Facebook password — 6 working methods | Vaveotechnology | [Read More](https://medium.com/p/364e7010fd8b) |
-| Sat, 18 Oct 2025 13:02:39 GMT | Feedly vs. ThreatLandscapeMonitoring.com — A CTI Analyst’s Take | Cyber threat intelligence | [Read More](https://medium.com/p/f9961934a239) |
-| Sat, 18 Oct 2025 12:55:31 GMT | The Ultimate Browser Toolkit: Part 3 | XoX | [Read More](https://medium.com/p/2d63ef71fa5c) |
-| Sat, 18 Oct 2025 12:41:10 GMT | From Curiosity to Connection: My Experience Inside the RaccoonLine Network | ravensoul studio | [Read More](https://medium.com/p/839c0eb6676c) |
