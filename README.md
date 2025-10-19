@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 23:11:14 GMT | Post-Quantum Cryptography: The Quiet Revolution Already Underway | Manuel Lara Caro | [Read More](https://medium.com/p/77c29087c9f7) |
+| Sun, 19 Oct 2025 23:07:34 GMT | $3000 Bounty for Leaking Private Chat Conversations: A Simple IDOR in a Chat AI | winteri3coming | [Read More](https://medium.com/p/d5e46c8f5fc5) |
+| Sun, 19 Oct 2025 23:05:00 GMT | The Future of Remote Access: Balancing Productivity, Control, and Security | Mai Tran | [Read More](https://medium.com/p/968d1c55bd3c) |
+| Sun, 19 Oct 2025 23:03:05 GMT | Kernel Locking and Concurrency Pitfalls in Operating Systems | Bervice | [Read More](https://medium.com/p/4dfea18054ab) |
+| Sun, 19 Oct 2025 23:01:52 GMT | TryHackMe - Warzone 2 - Room Walkthrough | Drew Arpino | [Read More](https://medium.com/p/96ed4460e344) |
+| Sun, 19 Oct 2025 22:51:44 GMT | Beginner’s 2025 Guide to DORK Rewards | DORK | [Read More](https://medium.com/p/a30273b46240) |
+| Sun, 19 Oct 2025 22:50:35 GMT | Understanding C2 Frameworks: How Detection Teams Find & Stop Command-and-Control | Qasim Qlf | [Read More](https://medium.com/p/2e0d2d1ae7a1) |
 | Sun, 19 Oct 2025 22:29:26 GMT | Authan Farsi — The Cybersecurity Expert Who Turns Threats Into Solutions | Lulzsec | [Read More](https://medium.com/p/e674a99c7a75) |
 | Sun, 19 Oct 2025 22:28:55 GMT | The Critical Role of IT Auditing: Why Assessments and Audits Matter in Today’s Digital Landscape | Mai Tran | [Read More](https://medium.com/p/fa920d27a284) |
 | Sun, 19 Oct 2025 22:19:48 GMT | Using AI to Make Students Smarter — Not Cheaters | Parinitha N | [Read More](https://medium.com/p/72d7fd05d45c) |
@@ -106,10 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 14:22:37 GMT | Securing MQTT Brokers in IoT Infrastructure through VPN-Based Private Networking using WireGuard | Hassam Fathe Muhammad | [Read More](https://medium.com/p/79db459217f6) |
 | Sun, 19 Oct 2025 14:21:46 GMT | The Dumbest Security Breach I’ve Seen in 2025 | Cyberkech | [Read More](https://medium.com/p/cda2895697c1) |
 | Sun, 19 Oct 2025 14:21:34 GMT | Information Gathering: The First and Most Important Step in Ethical Hacking | Syed Mohammed Murtaza | [Read More](https://medium.com/p/6cb0fa0f9cf9) |
-| Sun, 19 Oct 2025 14:11:47 GMT | The Fascinating World of Cyberspace | Chief Thinker | [Read More](https://medium.com/p/a74e272a5b49) |
-| Sun, 19 Oct 2025 14:01:19 GMT | How to Convert JPEG to XML Effortlessly: A Complete Guide to Smart File Conversion | changemyfile.com | [Read More](https://medium.com/p/ce5d9beb75dd) |
-| Sun, 19 Oct 2025 13:59:47 GMT | How a Missing Email Check Can Break Everything | Viratavi | [Read More](https://medium.com/p/c9e97194a551) |
-| Sun, 19 Oct 2025 13:48:52 GMT | The future winners will be | Jānis Erlihs | [Read More](https://medium.com/p/7ae82e4dfd74) |
-| Sun, 19 Oct 2025 13:39:38 GMT | Parrot OS vs Kali Linux - Best Linux Distro for Ethical Hackers 2025 | Ghulam Mohiuddin | [Read More](https://medium.com/p/b362c09587bf) |
-| Sun, 19 Oct 2025 13:32:52 GMT | Don’t Take the Bait: A Guide to TryHackMe’s Phishing Pond Room | Furkanctiner | [Read More](https://medium.com/p/d403a2f12ec4) |
-| Sun, 19 Oct 2025 13:27:18 GMT | Java 的Vulnerability | Huanglw | [Read More](https://medium.com/p/d17850e4e810) |
