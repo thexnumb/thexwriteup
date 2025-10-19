@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 03:47:38 GMT | Vanish Like a Pro Without Becoming Paranoid: Practical, Nonjudgmental OPSEC For Better Privacy | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/aea466dbf1b9) |
+| Sun, 19 Oct 2025 03:44:52 GMT | Basic SQL injection Methodology | Md. Raihan | [Read More](https://medium.com/p/9c606115eddb) |
+| Sun, 19 Oct 2025 03:42:04 GMT | Reverse First, Understand Later: The Hacker’s Approach to Learning Software | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4b6204c94cc6) |
+| Sun, 19 Oct 2025 03:40:36 GMT | The Rise of Source Code Warfare: How Nation-States Are Turning Vendor Blueprints into Precision… | Akilnath Bodipudi | [Read More](https://medium.com/p/293e67b809ce) |
 | Sun, 19 Oct 2025 03:09:04 GMT | Sparking Curiosity: The Detection Engineering Life Cycle | Shantaciak | [Read More](https://medium.com/p/f8c41b949b34) |
 | Sun, 19 Oct 2025 02:59:56 GMT | XSS Explained: A Simple, Powerful Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d87dadb92736) |
 | Sun, 19 Oct 2025 02:39:18 GMT | 10 Critical Checks I Perform After Logging Into a Linux Server I Didn’t Set Up | Kuldeepkumawat | [Read More](https://medium.com/p/a5bc30aa1b21) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 15:46:53 GMT | They Trained for Phishing. Then the CEO Called — and It Was a Deepfake. | CyberGuide By MH | [Read More](https://medium.com/p/5b42a0c6209b) |
 | Sat, 18 Oct 2025 15:32:03 GMT | TryHackMe — Pickle Rick — Writeup | Sonny | [Read More](https://medium.com/p/3d7a07fc785d) |
 | Sat, 18 Oct 2025 15:16:44 GMT | Sneaking the Fence — Part 1 | ⚡️d4rk⚡️ | [Read More](https://medium.com/p/a2ad740ca261) |
-| Sat, 18 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 18, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/f67b2eb72674) |
-| Sat, 18 Oct 2025 15:06:44 GMT | Chrome Extension for Temp Emails (For Bug Bounty Hunters & Cybersecurity Researchers ) | Shubham pawar | [Read More](https://medium.com/p/af25360ad2e1) |
-| Sat, 18 Oct 2025 15:00:06 GMT | Python’s Secret Codes: The Hidden Tricks That Make You Look Like a Pro | Rocky | [Read More](https://medium.com/p/e795fa220cff) |
-| Sat, 18 Oct 2025 14:58:49 GMT | The Unbreakable Shield: The Power of Modern Defensive Cybersecurity | Melody Kelly N | [Read More](https://medium.com/p/4081920a1d20) |
