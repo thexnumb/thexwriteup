@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 14:11:47 GMT | The Fascinating World of Cyberspace | Chief Thinker | [Read More](https://medium.com/p/a74e272a5b49) |
+| Sun, 19 Oct 2025 14:01:19 GMT | How to Convert JPEG to XML Effortlessly: A Complete Guide to Smart File Conversion | changemyfile.com | [Read More](https://medium.com/p/ce5d9beb75dd) |
+| Sun, 19 Oct 2025 13:59:47 GMT | How a Missing Email Check Can Break Everything | Viratavi | [Read More](https://medium.com/p/c9e97194a551) |
+| Sun, 19 Oct 2025 13:48:52 GMT | The future winners will be | Jānis Erlihs | [Read More](https://medium.com/p/7ae82e4dfd74) |
+| Sun, 19 Oct 2025 13:39:38 GMT | Parrot OS vs Kali Linux - Best Linux Distro for Ethical Hackers 2025 | Ghulam Mohiuddin | [Read More](https://medium.com/p/b362c09587bf) |
+| Sun, 19 Oct 2025 13:32:52 GMT | Don’t Take the Bait: A Guide to TryHackMe’s Phishing Pond Room | Furkanctiner | [Read More](https://medium.com/p/d403a2f12ec4) |
 | Sun, 19 Oct 2025 13:27:18 GMT | Java 的Vulnerability | Huanglw | [Read More](https://medium.com/p/d17850e4e810) |
 | Sun, 19 Oct 2025 13:23:28 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/3d0f80e40f4d) |
 | Sun, 19 Oct 2025 13:11:47 GMT | The Illusion of Control: Why Your Digital Privacy is More Precious Than Ever | Shaheerasim | [Read More](https://medium.com/p/24c57f6648a6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 07:15:32 GMT | When RabbitMQ Is Public — A Hands-On AMQP Pentest Playbook (5671/5672) | Very Lazy Tech | [Read More](https://medium.com/p/908bb7f69521) |
 | Sun, 19 Oct 2025 07:11:40 GMT | Write-up: TryHackMe CTF (RootMe) | Matthew Benedict A. Olanda | [Read More](https://medium.com/p/561d88611207) |
 | Sun, 19 Oct 2025 07:08:25 GMT | Five Kafka Critical Information Only to be discovered while performance bottleneck and in… | nudgebyte | [Read More](https://medium.com/p/09e51ae7c889) |
-| Sun, 19 Oct 2025 07:01:20 GMT | Your Staff’s Use of AI Could Cost You Millions | Alexiei Dingli | [Read More](https://medium.com/p/2e7b870e9dbd) |
-| Sun, 19 Oct 2025 06:55:43 GMT | Try hack me — TShark Challenge I: Teamwork — Walkthrough. | Chaitanya Garware | [Read More](https://medium.com/p/df44e7265e4d) |
-| Sun, 19 Oct 2025 06:53:09 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/0c1606dbe408) |
-| Sun, 19 Oct 2025 06:48:16 GMT | Wolf at the Door | Anthony Repetto | [Read More](https://medium.com/p/698e9ae26435) |
-| Sun, 19 Oct 2025 06:45:53 GMT | How to hack Facebook password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/d660742cbadf) |
-| Sun, 19 Oct 2025 06:31:16 GMT | Using Project CodeGuard to Secure the Future of AI-Generated Code | Omar Santos | [Read More](https://medium.com/p/83bf760c9deb) |
