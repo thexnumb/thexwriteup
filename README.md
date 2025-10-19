@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 16:36:18 GMT | The Linux Security Journey — EVM (Extended Verification Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1b06375516da) |
+| Sun, 19 Oct 2025 16:28:44 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/75643ab6d7cd) |
+| Sun, 19 Oct 2025 16:23:08 GMT | Getting Started with Spring Security in Microservice Architecture | Vipul Singh | [Read More](https://medium.com/p/17dbe59cc3d4) |
 | Sun, 19 Oct 2025 16:09:00 GMT | Part 1: | Abida Sarah | [Read More](https://medium.com/p/7d7b3aabd057) |
 | Sun, 19 Oct 2025 16:01:38 GMT | Deploying Wazuh SIEM: Installing the Server and Adding an Agent | Huseyn Eyvazov | [Read More](https://medium.com/p/e2e073a5582c) |
 | Sun, 19 Oct 2025 15:56:58 GMT | The Dark Web: What It Is & Isn’t | Catherine Ma | [Read More](https://medium.com/p/1ce04d1b46bb) |
@@ -110,6 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 09:52:53 GMT | Vulnerability Assessment and Penetration Testing as a Service for the Banking Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/087d657b5fa4) |
 | Sun, 19 Oct 2025 09:49:35 GMT | React Server Components: Masa Depan React Sudah Tiba | Anjas Rani | [Read More](https://medium.com/p/7915972796cb) |
 | Sun, 19 Oct 2025 09:46:47 GMT | Leading in the Dark | Sara Roger | [Read More](https://medium.com/p/0dca74eefe09) |
-| Sun, 19 Oct 2025 09:45:38 GMT | PGP Şifreleme: Nedir, Neden Önemlidir ve Nasıl Kullanılır? | Emre Özdemir | [Read More](https://medium.com/p/8614c470dd73) |
-| Sun, 19 Oct 2025 09:43:05 GMT | Can AI Agents Become SOC Analysts? | TheCyberKnight | [Read More](https://medium.com/p/cb1344e78bbe) |
-| Sun, 19 Oct 2025 09:38:53 GMT | How I’d Rebuild My Cybersecurity Career from Zero in the AI Era | Taimur Ijlal | [Read More](https://medium.com/p/ba4dfc254a8d) |
