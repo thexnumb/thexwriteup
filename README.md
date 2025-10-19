@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Oct 2025 07:08:25 GMT | Five Kafka Critical Information Only to be discovered while performance bottleneck and in… | nudgebyte | [Read More](https://medium.com/p/09e51ae7c889) |
+| Sun, 19 Oct 2025 07:01:20 GMT | Your Staff’s Use of AI Could Cost You Millions | Alexiei Dingli | [Read More](https://medium.com/p/2e7b870e9dbd) |
+| Sun, 19 Oct 2025 06:55:43 GMT | Try hack me — TShark Challenge I: Teamwork — Walkthrough. | Chaitanya Garware | [Read More](https://medium.com/p/df44e7265e4d) |
+| Sun, 19 Oct 2025 06:53:09 GMT | No Code, No Hack: The Real Secret Behind Hacking Skills | Rocky | [Read More](https://medium.com/p/0c1606dbe408) |
+| Sun, 19 Oct 2025 06:48:16 GMT | Wolf at the Door | Anthony Repetto | [Read More](https://medium.com/p/698e9ae26435) |
+| Sun, 19 Oct 2025 06:45:53 GMT | How to hack Facebook password online: FREE methods of hackers | Alex | [Read More](https://medium.com/p/d660742cbadf) |
 | Sun, 19 Oct 2025 06:31:16 GMT | Using Project CodeGuard to Secure the Future of AI-Generated Code | Omar Santos | [Read More](https://medium.com/p/83bf760c9deb) |
 | Sun, 19 Oct 2025 06:22:38 GMT | When Client-Side Validation Isn’t Enough — Porsche Contact Form Logic Bypass | Mandar Satam | [Read More](https://medium.com/p/91f2451015e3) |
 | Sun, 19 Oct 2025 06:21:52 GMT | Humans at the Heart of Cyber-Physical Security: Why People Are the Real Weak Link | Gess | [Read More](https://medium.com/p/923b55d8cf88) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Oct 2025 16:53:29 GMT | HTB Academy File Upload Attacks | Dennywise | [Read More](https://medium.com/p/266723a0025e) |
 | Sat, 18 Oct 2025 16:46:39 GMT | The Core Principles of Cybersecurity Every Beginner Should Know | Ferdi Edogawa | [Read More](https://medium.com/p/9b2894f7a208) |
 | Sat, 18 Oct 2025 16:45:48 GMT | Top 7 Cybersecurity News Stories You Can’t Miss (Oct 11–18, 2025) | Siva Desetti | [Read More](https://medium.com/p/3f9977efe4e1) |
-| Sat, 18 Oct 2025 16:38:47 GMT | Redoing my Channel | Flora | [Read More](https://medium.com/p/81038b9ec668) |
-| Sat, 18 Oct 2025 16:37:14 GMT | Beginner’s Guide to ISO 27001:2022 Making Information Security Simple | Parull Sharma | [Read More](https://medium.com/p/19c409c21ad0) |
-| Sat, 18 Oct 2025 16:35:38 GMT | Be Careful With Your Video Call Backgrounds. | Timothy Howley | [Read More](https://medium.com/p/e8f32f21ec06) |
-| Sat, 18 Oct 2025 16:31:36 GMT | SİBER GÜVENLİK NEDİR? Tehdit Türleri, Korunma Yöntemleri ve Hacker Gerçekleri | HSD Harran University | [Read More](https://medium.com/p/2ff9cdfbf8d0) |
-| Sat, 18 Oct 2025 16:22:33 GMT | Top 7 Ways Hackers Breach Active Directory | Cybersensus | [Read More](https://medium.com/p/c51792f46b13) |
-| Sat, 18 Oct 2025 16:20:45 GMT | E45y.exe — CTF Reverse Engineering Writeup — GITEX Global CTF 2025 | Ansh Choudhary | [Read More](https://medium.com/p/7cfee1e54f44) |
