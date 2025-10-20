@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 23:05:45 GMT | Hacking Pipes & Plants: Cyber Risks in Industrial Systems | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/7dcaa4748681) |
+| Mon, 20 Oct 2025 23:05:27 GMT | The Quantum Finance Revolution: | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/3eff3d8c3054) |
+| Mon, 20 Oct 2025 23:05:12 GMT | From Panic to Protocol: How to Prepare for the Inevitable Cyber Crisis | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d0ed9ae991cf) |
+| Mon, 20 Oct 2025 23:05:11 GMT | Monday Cyber Brief — October 20 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/ae8c6ec84274) |
+| Mon, 20 Oct 2025 23:03:38 GMT | Oh you Developers! | WALIU SANNI | [Read More](https://medium.com/p/52814599e157) |
+| Mon, 20 Oct 2025 22:58:30 GMT | ️ What Is Doxing — The Hidden Threat to Your Digital Identity | Dallen Sadru | [Read More](https://medium.com/p/ea26c0eca942) |
 | Mon, 20 Oct 2025 22:18:54 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/1dcc643088b3) |
 | Mon, 20 Oct 2025 22:11:58 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/80ffb5565219) |
 | Mon, 20 Oct 2025 22:10:45 GMT | Legal Briefs and Digital Breaches: | SinglePointGlobal | [Read More](https://medium.com/p/f6f3230e6f21) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 12:03:28 GMT | From File Upload to Remote Code Execution: A Step-by-Step Breakdown of CVE-2025–10763 | Muhammad Taha Khan | [Read More](https://medium.com/p/795a71d7f5ff) |
 | Mon, 20 Oct 2025 11:47:03 GMT | Discover Lernaean Warmup Hackviser | W4lk3r | [Read More](https://medium.com/p/1804e65907ba) |
 | Mon, 20 Oct 2025 11:47:01 GMT | I Discovered New Thing and Scare of It | The Chronicle of Averroes | [Read More](https://medium.com/p/a189ca0df15c) |
-| Mon, 20 Oct 2025 11:35:50 GMT | Volkswagen Allegedly Hacked in Ransomware Attack | Himanshu Bhatt | [Read More](https://medium.com/p/acd409fe316a) |
-| Mon, 20 Oct 2025 11:33:05 GMT | Pentest Cheat Sheet for P.O.O. | XOR-Hacks | [Read More](https://medium.com/p/b23ea1ed7588) |
-| Mon, 20 Oct 2025 11:30:34 GMT | Secure OpenSSH Upgrade Guide: Zero-Downtime Migration from Vulnerable Versions | Amol Mali | [Read More](https://medium.com/p/8df5c0119839) |
-| Mon, 20 Oct 2025 11:28:40 GMT | How I Tricked an AI Into Giving Me Everyone’s Credit Cards (And Batman’s Help) | Iski | [Read More](https://medium.com/p/c8b714ca294f) |
-| Mon, 20 Oct 2025 11:26:38 GMT | TryHackMe #138 - Splunk: Data Manipulation | SiberYuk | [Read More](https://medium.com/p/42c41d6e973f) |
-| Mon, 20 Oct 2025 11:21:50 GMT | TryHackMe #137 - Splunk: Dashboards and Reports | SiberYuk | [Read More](https://medium.com/p/540c10f31a0f) |
