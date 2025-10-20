@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 20:39:08 GMT | Data Fusion with Python for Cybersecurity Professionals | Hex Shift | [Read More](https://medium.com/p/aab50adbd325) |
+| Mon, 20 Oct 2025 20:38:33 GMT | EDR XDR Nedir? | Emir KILIÇ | [Read More](https://medium.com/p/f08027c8bd9f) |
+| Mon, 20 Oct 2025 20:32:59 GMT | Requisitos ASFI 885/25: Cumplimiento y Seguridad | Israel Aráoz Severiche | [Read More](https://medium.com/p/9cd705e4b14d) |
+| Mon, 20 Oct 2025 20:32:41 GMT | Securing the Backbone: A Professional’s Guide to Network Layer (Layer 3) Security | Burak BALTA | [Read More](https://medium.com/p/8396d6b435d4) |
+| Mon, 20 Oct 2025 20:32:35 GMT | The Hidden Cost of Always Being “Too Nice” | Global Whirl of Wonders | [Read More](https://medium.com/p/872984b7392e) |
+| Mon, 20 Oct 2025 20:32:19 GMT | Hacked Without Doing a Thing: The Alarming Reality of Zero-Click Exploits | Paradise technologies Inc | [Read More](https://medium.com/p/430082299a44) |
+| Mon, 20 Oct 2025 20:25:16 GMT | The Anatomy of a Solana Wallet Drain in 2025 | twixdesans | [Read More](https://medium.com/p/8f67f9ceb841) |
+| Mon, 20 Oct 2025 20:21:36 GMT | Abracadabra, NGP, Kame: $5M Lost to Solvency Bypass, Price Games, and Unsafe External Calls | Olympix | [Read More](https://medium.com/p/3c07042e6c58) |
+| Mon, 20 Oct 2025 20:16:26 GMT | CyberDefenders — Job Trap Lab | jon | [Read More](https://medium.com/p/862df0dcba75) |
 | Mon, 20 Oct 2025 20:09:00 GMT | Choosing the Right PC for the Best and Most Secure Experience in 2025 | Officer's Notes | [Read More](https://medium.com/p/b3d05e45882a) |
 | Mon, 20 Oct 2025 20:07:31 GMT | Un regreso a la luz | Lucia Panaino | [Read More](https://medium.com/p/989c696a1636) |
 | Mon, 20 Oct 2025 20:07:06 GMT | Wazuh & WireGuard Logs Monitoring on a Linux Host | Jakub Zieliński | [Read More](https://medium.com/p/11804ac3d37c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 10:42:37 GMT | KYLO: Week 2 — How My AI‑Powered Security Code Editor Helps You Ship Safely | Leon Musk | [Read More](https://medium.com/p/c2031dbd0ab2) |
 | Mon, 20 Oct 2025 10:35:05 GMT | The Daily Tech Digest: 21 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/325f46da22a7) |
 | Mon, 20 Oct 2025 10:34:54 GMT | One Region Hiccup Shouldn’t Silence Your Product | QA Bound | [Read More](https://medium.com/p/59d7233b033d) |
-| Mon, 20 Oct 2025 10:33:32 GMT | When Hackers Meet AI: The Rise of GOVERSHELL and the Fall of Human Phishing | Akshatdwivedi | [Read More](https://medium.com/p/97b013d30c32) |
-| Mon, 20 Oct 2025 10:32:59 GMT | Exploiting Exported Broadcast Receivers: Hands-On Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/64bd08d3d93f) |
-| Mon, 20 Oct 2025 10:32:39 GMT | LSB Steganography Explained — Hiding Secrets Inside Images (Simple Analogy) | Natarajan C K | [Read More](https://medium.com/p/7f532a0eeb6d) |
-| Mon, 20 Oct 2025 10:32:39 GMT | AI Meets Quantum: Building Unbreakable Post-Quantum Security | Brian N. Siegelwax | [Read More](https://medium.com/p/d81247da63ac) |
-| Mon, 20 Oct 2025 10:14:44 GMT | Privacy Sandbox Dead: Google’s Cookies Live Happily Ever After | Sachin      Verlekar | [Read More](https://medium.com/p/8b59615ea230) |
-| Mon, 20 Oct 2025 10:03:35 GMT | Digital Shield: Ushering in a New Era for Your Digital Assets with Military-Grade Security | Digital Shield | [Read More](https://medium.com/p/a71d31ae96e4) |
-| Mon, 20 Oct 2025 10:03:03 GMT | Understanding Blockchain Beyond Cryptocurrency 101 | Modern News | [Read More](https://medium.com/p/0e4d8f35dbef) |
-| Mon, 20 Oct 2025 10:01:01 GMT | DockerLabs Writeup — chmod-4755 (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9e5c84c9d6f7) |
-| Mon, 20 Oct 2025 10:00:39 GMT | From Vulnerabilities to Defense: Building a Secure Cloud Pipeline (DevSecOps + AppSec Case Study) | Richard Ndung'u | [Read More](https://medium.com/p/f404590a6018) |
