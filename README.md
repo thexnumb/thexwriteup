@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 20:09:00 GMT | Choosing the Right PC for the Best and Most Secure Experience in 2025 | Officer's Notes | [Read More](https://medium.com/p/b3d05e45882a) |
+| Mon, 20 Oct 2025 20:07:31 GMT | Un regreso a la luz | Lucia Panaino | [Read More](https://medium.com/p/989c696a1636) |
+| Mon, 20 Oct 2025 20:07:06 GMT | Wazuh & WireGuard Logs Monitoring on a Linux Host | Jakub Zieliński | [Read More](https://medium.com/p/11804ac3d37c) |
+| Mon, 20 Oct 2025 20:07:05 GMT | Homeostatic AGI Security: From Black Box Guessing to Physical Certainty | Berend Watchus | [Read More](https://medium.com/p/3c104a845d3a) |
+| Mon, 20 Oct 2025 19:56:11 GMT | Blind Shell | S12 - 0x12Dark Development | [Read More](https://medium.com/p/5e46dea7e0a3) |
+| Mon, 20 Oct 2025 19:46:26 GMT | Katman 1 (Fiziksel Katman) Güvenlik Açıkları | Burak BALTA | [Read More](https://medium.com/p/c5cd492de753) |
+| Mon, 20 Oct 2025 19:42:46 GMT | The Ultimate Windows Privilege Escalation Checklist | Cybersensus | [Read More](https://medium.com/p/3f4c211e59a8) |
+| Mon, 20 Oct 2025 19:41:52 GMT | Prienv: Share Secrets Securely, Privately, and Completely Free | Vildan Bina | [Read More](https://medium.com/p/1f444a21107b) |
+| Mon, 20 Oct 2025 19:41:38 GMT | Day 15 of my Cybersecurity Journey: Networking Core Protocols II | Ogundipe Priscilla | [Read More](https://medium.com/p/899192a45994) |
+| Mon, 20 Oct 2025 19:39:23 GMT | CYBER SECURITY CLASS REVIEW ON 17TH OF OCTOBER, 2025. | Ukaakachi | [Read More](https://medium.com/p/bb4831b2b9f7) |
+| Mon, 20 Oct 2025 19:39:10 GMT | [ SOC Alert => Malicious Macro has been executed ] by LetsDefend / EventID: 231 | EduKayky | [Read More](https://medium.com/p/6227f1559388) |
+| Mon, 20 Oct 2025 19:37:53 GMT | When your math fails in a subtle way — Mellow@Sherlock 07/2025 | lodelux | [Read More](https://medium.com/p/d028852f3646) |
+| Mon, 20 Oct 2025 19:30:20 GMT | CyberDefenders: Job Trap Lab | Jackie Huang | [Read More](https://medium.com/p/8410dfd30d7a) |
+| Mon, 20 Oct 2025 19:29:27 GMT | Disaster Recovery for Start-ups in AWS | Johan Åkesson | [Read More](https://medium.com/p/0d0e9c550304) |
 | Mon, 20 Oct 2025 19:24:10 GMT | How MSPs Can Boost Recurring Revenue with Self-Contained Network Security | CacheGuard Technologies | [Read More](https://medium.com/p/a66b5e8ea230) |
 | Mon, 20 Oct 2025 19:05:57 GMT | Cybersecurity Assurance for Free Market Participants using Cloud Services | Syamantak Saha | [Read More](https://medium.com/p/a0f97965c367) |
 | Mon, 20 Oct 2025 19:04:08 GMT | GraphQL IDOR Allows Unauthorized Revocation of Other Users’ Activation Tokens | Yasmeen Rezk | [Read More](https://medium.com/p/31e432b7bb6c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 10:03:03 GMT | Understanding Blockchain Beyond Cryptocurrency 101 | Modern News | [Read More](https://medium.com/p/0e4d8f35dbef) |
 | Mon, 20 Oct 2025 10:01:01 GMT | DockerLabs Writeup — chmod-4755 (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9e5c84c9d6f7) |
 | Mon, 20 Oct 2025 10:00:39 GMT | From Vulnerabilities to Defense: Building a Secure Cloud Pipeline (DevSecOps + AppSec Case Study) | Richard Ndung'u | [Read More](https://medium.com/p/f404590a6018) |
-| Mon, 20 Oct 2025 10:00:23 GMT | Portswigger Academy — Reflected XSS into a template literal with angle brackets, single, double… | Alan | [Read More](https://medium.com/p/dac3d59df90e) |
-| Mon, 20 Oct 2025 09:59:30 GMT | RST TI Report Digest: 13 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/fae82d2afce0) |
-| Mon, 20 Oct 2025 09:58:32 GMT | Today’s Top Cyber Intelligence Highlights — Oct 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c5c3362aed05) |
-| Mon, 20 Oct 2025 09:58:16 GMT | RST TI Report Digest: 20 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/d0a8565bedc9) |
-| Mon, 20 Oct 2025 09:58:11 GMT | Still Using a Hot Wallet? | Digital Shield Offcial | [Read More](https://medium.com/p/8a34d5c8c4df) |
-| Mon, 20 Oct 2025 09:58:02 GMT | Home-Lab#4: Building a Detection Lab with Wazuh, Sysmon, and MITRE ATT&CK | Abdelmlak Said | [Read More](https://medium.com/p/4086ab42ed57) |
-| Mon, 20 Oct 2025 09:57:19 GMT | Insider Risk Management 2.0: Behavioural AI + DSPM to Stop Data Loss Before It Happens | Jackdavis Iap | [Read More](https://medium.com/p/4b700e3ee3f6) |
-| Mon, 20 Oct 2025 09:55:31 GMT | CISA’s F5 Alarm: Cloud Control Planes Break | OKcontract Chainwall | [Read More](https://medium.com/p/4aace9b90b63) |
-| Mon, 20 Oct 2025 09:45:07 GMT | How to Build a Personal Cyber Defense Stack in 2025 | Vijay Kumar Gupta | [Read More](https://medium.com/p/db1684931f13) |
-| Mon, 20 Oct 2025 09:42:10 GMT | CVE-2025–47410: Apache Geode’s Achilles Heel — CSRF Attacks on the Rise! | CVEHUB | [Read More](https://medium.com/p/e8c6b0dcd9c8) |
-| Mon, 20 Oct 2025 09:39:48 GMT | Wireshark Woes? Untangle Your Network Like a Pro | SilentInject | [Read More](https://medium.com/p/2e5106937a02) |
-| Mon, 20 Oct 2025 09:39:32 GMT | CYBER SECURITY CLASS ON 16TH OF OCTOBER, 2025. | Ukaakachi | [Read More](https://medium.com/p/78fc4644dd90) |
-| Mon, 20 Oct 2025 09:35:13 GMT | Dynatrace Platformunu CSPM ve VSPM ile Genişletin | Perform Yazılım | [Read More](https://medium.com/p/2387f1569593) |
-| Mon, 20 Oct 2025 09:34:29 GMT | MISC: QnQSec CTF 2025 — Catch Me | Rana chouchane - QU33NR | [Read More](https://medium.com/p/79541cb9a896) |
