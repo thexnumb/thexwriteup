@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 09:39:32 GMT | CYBER SECURITY CLASS ON 16TH OF OCTOBER, 2025. | Ukaakachi | [Read More](https://medium.com/p/78fc4644dd90) |
+| Mon, 20 Oct 2025 09:34:29 GMT | MISC: QnQSec CTF 2025 — Catch Me | Rana chouchane - QU33NR | [Read More](https://medium.com/p/79541cb9a896) |
+| Mon, 20 Oct 2025 09:33:32 GMT | MISC : Hack.lu CTF 2025 — GISSNINGSLEK | Rana chouchane - QU33NR | [Read More](https://medium.com/p/926cb6af06f4) |
+| Mon, 20 Oct 2025 09:29:41 GMT | 2025’s Digital Shake-up: Inside the Software Development Playbook | Scopun | [Read More](https://medium.com/p/2a87d7697020) |
+| Mon, 20 Oct 2025 09:23:00 GMT | Every Bug I Ever Fixed Made Sense Only After I Understood These 7 Layers | The Latency Gambler | [Read More](https://medium.com/p/ebcae423399b) |
 | Mon, 20 Oct 2025 09:22:58 GMT | SOC 2 Type I vs Type II: Which One Do Your Customers Expect? | Hicomply | [Read More](https://medium.com/p/32c1c7c472fe) |
 | Mon, 20 Oct 2025 09:22:58 GMT | When Encryption Went Public: The Case of the Hardcoded Key | Devansh Patel | [Read More](https://medium.com/p/d711cdd836fb) |
 | Mon, 20 Oct 2025 06:57:57 GMT | Prompt Injection in LLMs: An In-Depth Technical Exploration | eXpl0it_32 | [Read More](https://medium.com/p/ea286ac4b8b5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 19:24:43 GMT | What’s The Flag CTF Write-Up | Abilash B | [Read More](https://medium.com/p/41fd3c9a8bf1) |
 | Sun, 19 Oct 2025 19:18:38 GMT | Modern Access Control: Principles, Models, and Strategic Best Practices | Mai Tran | [Read More](https://medium.com/p/6edafea52235) |
 | Sun, 19 Oct 2025 19:17:00 GMT | Is It too Late to Join Symbiotic? | Olesya Kuzyk | [Read More](https://medium.com/p/5cf1791faf88) |
-| Sun, 19 Oct 2025 19:12:27 GMT | 5 Takeaways from My 10-Day Trip to Earn My First Cybersecurity Certificate | Omar Maged Ahmed | [Read More](https://medium.com/p/83d5cf9e059d) |
-| Sun, 19 Oct 2025 18:29:34 GMT | SSRF Deep-dive — PoCs, Labs & Reporting Kit (Part 2) | Abhishek meena | [Read More](https://medium.com/p/8fd8a485713e) |
-| Sun, 19 Oct 2025 18:24:52 GMT | ☕ Cyber & Coffee: The F5 Breach — When the Guard Gets Hacked | Cyber and Coffee | [Read More](https://medium.com/p/3a2a9a6390a8) |
-| Sun, 19 Oct 2025 18:24:39 GMT | Detecting Suspicious Powershell Activity.. | Tobiasacastleberry | [Read More](https://medium.com/p/232c1e0a7921) |
-| Sun, 19 Oct 2025 18:23:15 GMT | Why Are You NOT Using Argon2id? | Billy Coleman III | [Read More](https://medium.com/p/b6ab2dd86713) |
