@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 03:48:30 GMT | Hacking for Good: How I Used ffuf to Secure a Government Website | DevProgramming | [Read More](https://medium.com/p/4386221a01e4) |
+| Mon, 20 Oct 2025 03:42:54 GMT | Is Your WhatsApp Safe? | Cyber-AppSec | [Read More](https://medium.com/p/5fa270e48538) |
+| Mon, 20 Oct 2025 03:35:03 GMT | Patch Management at Scale: Lessons from the Biggest Vulnerability Exploits | Aj | [Read More](https://medium.com/p/8b62a214ceec) |
+| Mon, 20 Oct 2025 03:34:50 GMT | Discord Breached: Hackers Demand $5,000,000 Ransom | Daniel Craciun | [Read More](https://medium.com/p/f94c76500477) |
+| Mon, 20 Oct 2025 03:34:26 GMT | Wireshark Demystified: A Beginner’s Step-by-Step Guide | Shahzaib | [Read More](https://medium.com/p/ca55596facfb) |
+| Mon, 20 Oct 2025 03:34:24 GMT | When “Deleted” Didn’t Mean Deleted For Instagram | The Abstract Engineer | [Read More](https://medium.com/p/85fcd0a69738) |
+| Mon, 20 Oct 2025 03:31:50 GMT | BQTlock Ransomware: A New Face in the RaaS Underworld | Deven Chhajed | [Read More](https://medium.com/p/d54f692d69fc) |
+| Mon, 20 Oct 2025 03:12:55 GMT | AI Security Startups — Watchlist | Tal Eliyahu | [Read More](https://medium.com/p/1c1f26424845) |
 | Mon, 20 Oct 2025 02:54:02 GMT | When Images Become Weapons: How Hackers Hide Code Inside Pictures | Kuldeepkumawat | [Read More](https://medium.com/p/cd5e192b69d1) |
 | Mon, 20 Oct 2025 02:51:55 GMT | Day 2 — Network Models Explained: OSI vs TCP/IP and the Protocols That Power the Internet | HackTrace | [Read More](https://medium.com/p/b2c279688ba9) |
 | Mon, 20 Oct 2025 02:44:19 GMT | 7 Real Examples of Islands Architecture Beating SPA Bloat (2025 Edition) | Rizqi Mulki | [Read More](https://medium.com/p/bea2b4dbb9cb) |
@@ -28,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 01:24:03 GMT | Beyond Context — Treating Prompt Injections Like Malware | Pratip Dasgupta | [Read More](https://medium.com/p/60b7aca1e710) |
 | Mon, 20 Oct 2025 01:07:59 GMT | Improve your Password Cracking skills for NCL CTFs | diGi | [Read More](https://medium.com/p/2f4626117c64) |
 | Mon, 20 Oct 2025 00:56:36 GMT | The Fascinating World of Cyberspace | Chief Thinker | [Read More](https://medium.com/p/4fa4f1565df0) |
+| Mon, 20 Oct 2025 00:44:09 GMT | Romantyzacja “myślenia jak napastnik” | Marcel Pewny | [Read More](https://medium.com/p/2894ece3aa53) |
 | Mon, 20 Oct 2025 00:39:25 GMT | Hackers Don’t Need Homework: Why Schools Are Easy Prey in the Digital Age | CyberTalks | [Read More](https://medium.com/p/996fbd05a3a7) |
 | Mon, 20 Oct 2025 00:34:51 GMT | Bug Bounty, Corporate Fraud & GitLab — Why You Should Stop Using HackerOne | Justas_b | [Read More](https://medium.com/p/d1237716e24a) |
 | Mon, 20 Oct 2025 00:21:19 GMT | Individuality of system software and the importance of its preservation and archiving | A-SCI-A | [Read More](https://medium.com/p/d027e03f59fa) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 16:01:38 GMT | Deploying Wazuh SIEM: Installing the Server and Adding an Agent | Huseyn Eyvazov | [Read More](https://medium.com/p/e2e073a5582c) |
 | Sun, 19 Oct 2025 16:01:26 GMT | Unauthenticated Like & Dislike Manipulation — WordPress, Comments Like Dislike 1.2.4 | Lars de Bruijn | [Read More](https://medium.com/p/074a4b09a718) |
 | Sun, 19 Oct 2025 15:56:58 GMT | The Dark Web: What It Is & Isn’t | Catherine Ma | [Read More](https://medium.com/p/1ce04d1b46bb) |
-| Sun, 19 Oct 2025 15:56:21 GMT | ootMe Today, Hack You Tomorrow — The Next Hackerman | Christianlloydbunag | [Read More](https://medium.com/p/57ee96b12e24) |
-| Sun, 19 Oct 2025 15:53:43 GMT | TryHackMe: RootMe Challenge - GONE WRONG?! | b0realii | [Read More](https://medium.com/p/a0fba5fed983) |
-| Sun, 19 Oct 2025 15:51:45 GMT | Information Technology Security: Safeguarding the Digital World | Mahmood Hassan | [Read More](https://medium.com/p/a672d62f30d8) |
-| Sun, 19 Oct 2025 15:51:42 GMT | RootMe — A Beginner’s Walkthrough of File Upload Bypass to Root | kylicious | [Read More](https://medium.com/p/e5df86a6949a) |
-| Sun, 19 Oct 2025 15:47:21 GMT | Untangling the Web: How Information Disambiguation Shapes Truth in the Generative AI Era | Jayakumar K | [Read More](https://medium.com/p/f43a84e3a9ae) |
-| Sun, 19 Oct 2025 15:45:55 GMT | RootMe — TryHackMe Write-up | kaisermyoui | [Read More](https://medium.com/p/04977ae690d5) |
-| Sun, 19 Oct 2025 15:42:38 GMT | Secrets Management in Kubernetes | Mark Southworth | [Read More](https://medium.com/p/ba16d48e0142) |
-| Sun, 19 Oct 2025 15:35:59 GMT | How One-Control-Per-Day Testing Builds Board-Level Confidence | Dr. Deep Pandey | [Read More](https://medium.com/p/e4f069ff6e4f) |
-| Sun, 19 Oct 2025 15:32:37 GMT | Security Could Be an Emotion, Not Just a Metric | Sewar Khalifeh | [Read More](https://medium.com/p/ed423e4bb5d9) |
