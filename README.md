@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 06:57:57 GMT | Prompt Injection in LLMs: An In-Depth Technical Exploration | eXpl0it_32 | [Read More](https://medium.com/p/ea286ac4b8b5) |
+| Mon, 20 Oct 2025 06:56:41 GMT | Understanding Where Windows Authentication Logs Actually Live — From AD to Entra ID | Dean | [Read More](https://medium.com/p/dd04417da961) |
+| Mon, 20 Oct 2025 06:50:43 GMT | Cara Menangkal Serangan dengan Cyber Security | Ivan Runa | [Read More](https://medium.com/p/c7a43472f0ca) |
+| Mon, 20 Oct 2025 06:43:12 GMT | The Advanced Python Techniques Every Cybersecurity Expert Should Master | Hex Shift | [Read More](https://medium.com/p/46a3c79e0290) |
+| Mon, 20 Oct 2025 06:34:54 GMT | Unfair Experience in a Bug Bounty Program | Juned Silavat | [Read More](https://medium.com/p/d00803899e3e) |
+| Mon, 20 Oct 2025 06:34:01 GMT | One of the most insightful moments during my cybersecurity training was exploring file hashing in… | Adeleke Theophilus O | [Read More](https://medium.com/p/1c56b4c03348) |
 | Mon, 20 Oct 2025 06:09:31 GMT | How a fake AI recruiter delivers five staged malware disguised as a dream job | Shantanu | [Read More](https://medium.com/p/64cc68fec263) |
 | Mon, 20 Oct 2025 06:04:09 GMT | 5 Simple Reasons to Start Using a VPN Today | Cloudbric VPN | [Read More](https://medium.com/p/abc0800aae3d) |
 | Mon, 20 Oct 2025 06:00:25 GMT | Umbrellas, Storms, and Cyber Risk: Why Threat Management Is Not Risk Management | Juan Pablo Castro | [Read More](https://medium.com/p/271ae734e068) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 18:23:15 GMT | Why Are You NOT Using Argon2id? | Billy Coleman III | [Read More](https://medium.com/p/b6ab2dd86713) |
 | Sun, 19 Oct 2025 18:13:01 GMT | How LLMs Are Transforming Cybersecurity | eXpl0it_32 | [Read More](https://medium.com/p/621289ec606e) |
 | Sun, 19 Oct 2025 18:08:29 GMT | How to Fix Kernel Panic in Linux — Simple Recovery Guide | Muhammed Anas | [Read More](https://medium.com/p/4db758f235ce) |
-| Sun, 19 Oct 2025 18:01:48 GMT | MASTERCLASS BUG BOUNTY | Gorka | [Read More](https://medium.com/p/6476ae69f1e4) |
-| Sun, 19 Oct 2025 17:53:10 GMT | Common Cybersecurity Terminology: A Beginner-Friendly Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/00b1d1785dcc) |
-| Sun, 19 Oct 2025 17:49:54 GMT | What is this Mark Zuckerberg doing? Doesn’t he give us our privacy? | Dilshan Senarath | [Read More](https://medium.com/p/08d6ced943df) |
-| Sun, 19 Oct 2025 17:48:48 GMT | Shifting Left: A Practical Guide for Developers Who Take Security Seriously! | Cyberbali | [Read More](https://medium.com/p/c6b4e7e91a54) |
-| Sun, 19 Oct 2025 17:44:16 GMT | Master Wi-Fi Security — From Basics to Attacks & Defenses | Gollamohan | [Read More](https://medium.com/p/53052557df04) |
-| Sun, 19 Oct 2025 17:38:45 GMT | Rooting the Capstone Dev Machine | Chayon Datta Utsha | [Read More](https://medium.com/p/ca5187ee263f) |
