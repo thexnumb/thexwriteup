@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 23:29:03 GMT | Day 3 — IP Addressing & Subnetting (Part 1): Understanding How Devices Talk on the Internet | HackTrace | [Read More](https://medium.com/p/d48e5c7555c0) |
+| Mon, 20 Oct 2025 23:26:15 GMT | 131 Chrome Extensions Hijacked WhatsApp Web | Cyber-AppSec | [Read More](https://medium.com/p/a7060dca80e4) |
+| Mon, 20 Oct 2025 23:23:43 GMT | Hypervisor-level Exploits: Why VM Isolation Isn’t a Silver Bullet | Bervice | [Read More](https://medium.com/p/7baafb248f88) |
+| Mon, 20 Oct 2025 23:17:55 GMT | CISA Adds Five New Actively Exploited Vulnerabilities to the KEV Catalog | SecuritySc0ut | [Read More](https://medium.com/p/e68bbf2f9f90) |
 | Mon, 20 Oct 2025 23:05:45 GMT | Hacking Pipes & Plants: Cyber Risks in Industrial Systems | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/7dcaa4748681) |
 | Mon, 20 Oct 2025 23:05:27 GMT | The Quantum Finance Revolution: | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/3eff3d8c3054) |
 | Mon, 20 Oct 2025 23:05:12 GMT | From Panic to Protocol: How to Prepare for the Inevitable Cyber Crisis | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d0ed9ae991cf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 12:17:12 GMT | How to Use a Portable Door Lock: Extra Security for Travel or Home | Sure Lock & Key LLC | [Read More](https://medium.com/p/91d049729cb0) |
 | Mon, 20 Oct 2025 12:12:29 GMT | KUPONG Coupon Checker (Hack.lu CTF 2025) – Exhaustive Exploit Write-up | 0verflowme | [Read More](https://medium.com/p/600105ba975c) |
 | Mon, 20 Oct 2025 12:07:56 GMT | How to Start Bug Bounty in 2025 — A Realistic Guide from a Security Researcher | Monujangra | [Read More](https://medium.com/p/c34a920a1554) |
-| Mon, 20 Oct 2025 12:03:34 GMT | Malware Analysis: StealthServer -A Go-Based Cross-Platform Backdoor Linked to APT36 | Jon C | [Read More](https://medium.com/p/4c5aac0e8e17) |
-| Mon, 20 Oct 2025 12:03:28 GMT | From File Upload to Remote Code Execution: A Step-by-Step Breakdown of CVE-2025–10763 | Muhammad Taha Khan | [Read More](https://medium.com/p/795a71d7f5ff) |
-| Mon, 20 Oct 2025 11:47:03 GMT | Discover Lernaean Warmup Hackviser | W4lk3r | [Read More](https://medium.com/p/1804e65907ba) |
-| Mon, 20 Oct 2025 11:47:01 GMT | I Discovered New Thing and Scare of It | The Chronicle of Averroes | [Read More](https://medium.com/p/a189ca0df15c) |
