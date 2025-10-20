@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 22:10:45 GMT | Legal Briefs and Digital Breaches: | SinglePointGlobal | [Read More](https://medium.com/p/f6f3230e6f21) |
+| Mon, 20 Oct 2025 22:03:50 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/dd00cba653bc) |
+| Mon, 20 Oct 2025 22:03:13 GMT | Telkom Indonesia Turns Barriers into Breakthroughs: Training Persons with Disabilities to Become… | telkomsustainibility | [Read More](https://medium.com/p/2225910fb7ea) |
+| Mon, 20 Oct 2025 22:02:39 GMT | The Anatomy of a Cyberattack | Samirah A.O | [Read More](https://medium.com/p/3a5b1eb93c96) |
+| Mon, 20 Oct 2025 21:58:19 GMT | LWC: Lightning Web Cooking. | Adil Anwar | [Read More](https://medium.com/p/cdf34439d172) |
+| Mon, 20 Oct 2025 21:51:15 GMT | How to Install Windows 11 on an Unsupported Machine (Without Losing Your Mind) | Nourddin Batis | [Read More](https://medium.com/p/0dfe2547b7d1) |
+| Mon, 20 Oct 2025 21:49:33 GMT | My USB Lies to Me (And So Does Yours) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0603424ac9b2) |
+| Mon, 20 Oct 2025 21:46:04 GMT | What is an SSL certificate and how does it work? | GREENLIGHTS DIGITAL | [Read More](https://medium.com/p/08e79414a8d3) |
+| Mon, 20 Oct 2025 21:45:30 GMT | Exposing the Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/9fd936d10689) |
+| Mon, 20 Oct 2025 21:44:21 GMT | How AI Agents Are Closing the Software Security Testing Gap | Valdez Ladd | [Read More](https://medium.com/p/4ffb1f2fe6a9) |
+| Mon, 20 Oct 2025 21:38:43 GMT | The Difference Between IOCs and TTPs | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/9ba1f0eee414) |
 | Mon, 20 Oct 2025 21:29:57 GMT | Top 11 cyber stories (Week: Oct 13 — Oct 19, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/e88b9c38fa43) |
 | Mon, 20 Oct 2025 21:27:10 GMT | An Open Letter to Tech Infrastructures and Businesses: What the AWS Outage Just Taught Us About… | Pitt Tech | [Read More](https://medium.com/p/2c590a030b9f) |
 | Mon, 20 Oct 2025 21:24:41 GMT | If Only You Had Got it Right With Me | Vandana Mokaria | [Read More](https://medium.com/p/5d9c8dfe76b0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 11:21:50 GMT | TryHackMe #137 - Splunk: Dashboards and Reports | SiberYuk | [Read More](https://medium.com/p/540c10f31a0f) |
 | Mon, 20 Oct 2025 11:17:58 GMT | How to Control Access in AWS the Smart Way | Serxan Hamzayev | [Read More](https://medium.com/p/17c24c3850fd) |
 | Mon, 20 Oct 2025 11:17:07 GMT | TryHackMe #136 - Splunk: Setting up a SOC Lab | SiberYuk | [Read More](https://medium.com/p/d9c470631c94) |
-| Mon, 20 Oct 2025 11:15:54 GMT | The Tender Edge: Where Vulnerability Becomes Strength | Black Mark | [Read More](https://medium.com/p/0bad539a92b7) |
-| Mon, 20 Oct 2025 11:15:38 GMT | 131 Chrome Extensions Caught Hijacking WhatsApp Web in Massive Spam Operation | Germano Costi | [Read More](https://medium.com/p/7231a53d24a8) |
-| Mon, 20 Oct 2025 11:13:31 GMT | OTPs For Everyone: The Simplest $OTP Leak$ You’ll Ever Find | tinopreter | [Read More](https://medium.com/p/5ff2d7d9c812) |
-| Mon, 20 Oct 2025 11:11:01 GMT | TryHackMe #135 - Splunk: Exploring SPL | SiberYuk | [Read More](https://medium.com/p/26c4e11fa19e) |
-| Mon, 20 Oct 2025 11:09:55 GMT | Bind Shell | Dharmendrakumar | [Read More](https://medium.com/p/b2bec5d311e4) |
-| Mon, 20 Oct 2025 11:08:34 GMT | eJPT — 3.4 CTF 2 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/6956a223b950) |
-| Mon, 20 Oct 2025 11:08:16 GMT | Breaking Stereotypes: Women Leading the Cybersecurity Revolution | Mithula Gokul | [Read More](https://medium.com/p/bda2314357fd) |
-| Mon, 20 Oct 2025 11:08:16 GMT | eJPT — 3.4 CTF 1 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/c4b93661f9da) |
-| Mon, 20 Oct 2025 11:05:52 GMT | ️When Strength Becomes Your Only Language | Sindhumallah | [Read More](https://medium.com/p/726a0a959180) |
-| Mon, 20 Oct 2025 11:04:30 GMT | Share with Us | Vincent Jongerden | [Read More](https://medium.com/p/1aae1fec7d03) |
-| Mon, 20 Oct 2025 11:02:43 GMT | How to find Stored XSS in input fields | Xormium | [Read More](https://medium.com/p/89ff0ceba667) |
