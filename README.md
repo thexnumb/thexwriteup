@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 04:26:41 GMT | The Blueprint for Automated Reconnaissance | Elian Stella Winbowder | [Read More](https://medium.com/p/537d7efcfcef) |
+| Mon, 20 Oct 2025 04:22:51 GMT | How Pre-Selling My Cybersecurity Course Saved Me Months of Work | Taimur Ijlal | [Read More](https://medium.com/p/2eb73c40b86e) |
+| Mon, 20 Oct 2025 04:15:52 GMT | How I Conquered OSCP+ in 5 Months | Rahul Ravishankar | [Read More](https://medium.com/p/9670925caa88) |
+| Mon, 20 Oct 2025 03:54:35 GMT | Ancaman Phising di Dunia Digital | Anisaauralita | [Read More](https://medium.com/p/2dbacb9c11ea) |
 | Mon, 20 Oct 2025 03:48:30 GMT | Hacking for Good: How I Used ffuf to Secure a Government Website | DevProgramming | [Read More](https://medium.com/p/4386221a01e4) |
 | Mon, 20 Oct 2025 03:42:54 GMT | Is Your WhatsApp Safe? | Cyber-AppSec | [Read More](https://medium.com/p/5fa270e48538) |
 | Mon, 20 Oct 2025 03:35:03 GMT | Patch Management at Scale: Lessons from the Biggest Vulnerability Exploits | Aj | [Read More](https://medium.com/p/8b62a214ceec) |
@@ -41,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 00:34:51 GMT | Bug Bounty, Corporate Fraud & GitLab — Why You Should Stop Using HackerOne | Justas_b | [Read More](https://medium.com/p/d1237716e24a) |
 | Mon, 20 Oct 2025 00:21:19 GMT | Individuality of system software and the importance of its preservation and archiving | A-SCI-A | [Read More](https://medium.com/p/d027e03f59fa) |
 | Mon, 20 Oct 2025 00:20:51 GMT | axis bank mein paise cut jaaye to kya karen 7389657154 एक्सिस बैंक से पैसे कट जाए तो क्या करें? | axis bank mein paise cut jaaye to kya karen | [Read More](https://medium.com/p/c789f4dc6af9) |
+| Mon, 20 Oct 2025 00:14:52 GMT | A Liderança Como Processo Contínuo: Estratégias Essenciais para Transformar sua Equipe (E Você) | Yel | [Read More](https://medium.com/p/e7aa5e1fdc0b) |
 | Mon, 20 Oct 2025 00:03:09 GMT | API Gateway Security — Authorizers | Rick Yang | [Read More](https://medium.com/p/e6a0510f517e) |
 | Sun, 19 Oct 2025 23:22:10 GMT | The Digital Gold Rush: How Data Became the World’s Most Valuable Resource | Patrick Jfremov-Kustov | [Read More](https://medium.com/p/b14ba1650fd8) |
 | Sun, 19 Oct 2025 23:11:14 GMT | Post-Quantum Cryptography: The Quiet Revolution Already Underway | Manuel Lara Caro | [Read More](https://medium.com/p/77c29087c9f7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 16:44:06 GMT | Sunday Funnies | Rebecca Trocki | [Read More](https://medium.com/p/9840ae868d94) |
 | Sun, 19 Oct 2025 16:36:18 GMT | The Linux Security Journey — EVM (Extended Verification Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1b06375516da) |
 | Sun, 19 Oct 2025 16:28:44 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/75643ab6d7cd) |
-| Sun, 19 Oct 2025 16:23:08 GMT | Getting Started with Spring Security in Microservice Architecture | Vipul Singh | [Read More](https://medium.com/p/17dbe59cc3d4) |
-| Sun, 19 Oct 2025 16:09:00 GMT | Part 1: | Abida Sarah | [Read More](https://medium.com/p/7d7b3aabd057) |
-| Sun, 19 Oct 2025 16:01:38 GMT | Deploying Wazuh SIEM: Installing the Server and Adding an Agent | Huseyn Eyvazov | [Read More](https://medium.com/p/e2e073a5582c) |
-| Sun, 19 Oct 2025 16:01:26 GMT | Unauthenticated Like & Dislike Manipulation — WordPress, Comments Like Dislike 1.2.4 | Lars de Bruijn | [Read More](https://medium.com/p/074a4b09a718) |
-| Sun, 19 Oct 2025 15:56:58 GMT | The Dark Web: What It Is & Isn’t | Catherine Ma | [Read More](https://medium.com/p/1ce04d1b46bb) |
