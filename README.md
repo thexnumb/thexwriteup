@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 21:29:57 GMT | Top 11 cyber stories (Week: Oct 13 — Oct 19, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/e88b9c38fa43) |
+| Mon, 20 Oct 2025 21:27:10 GMT | An Open Letter to Tech Infrastructures and Businesses: What the AWS Outage Just Taught Us About… | Pitt Tech | [Read More](https://medium.com/p/2c590a030b9f) |
+| Mon, 20 Oct 2025 21:24:41 GMT | If Only You Had Got it Right With Me | Vandana Mokaria | [Read More](https://medium.com/p/5d9c8dfe76b0) |
 | Mon, 20 Oct 2025 21:03:36 GMT | Let’s Get This Done: Implementing Secure File Sharing | Samirah A.O | [Read More](https://medium.com/p/143c73a756f4) |
 | Mon, 20 Oct 2025 21:02:16 GMT | “CRYPTO SECURITY 101: How to Protect Your Assets Like a Pro Trader” | Marcele De Cristo | [Read More](https://medium.com/p/6e2c71068368) |
 | Mon, 20 Oct 2025 21:01:34 GMT | Analyzing Web Application Attack Vectors: A Practical Guide | Simran Jeet Kaur | [Read More](https://medium.com/p/3f2ae22d802a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 11:05:52 GMT | ️When Strength Becomes Your Only Language | Sindhumallah | [Read More](https://medium.com/p/726a0a959180) |
 | Mon, 20 Oct 2025 11:04:30 GMT | Share with Us | Vincent Jongerden | [Read More](https://medium.com/p/1aae1fec7d03) |
 | Mon, 20 Oct 2025 11:02:43 GMT | How to find Stored XSS in input fields | Xormium | [Read More](https://medium.com/p/89ff0ceba667) |
-| Mon, 20 Oct 2025 11:02:34 GMT | When Green Energy Meets Cyber Risk: Why Microgrids and DERs Are the New Battleground | Brittney Ginther | [Read More](https://medium.com/p/cfcd844ff895) |
-| Mon, 20 Oct 2025 10:59:57 GMT | How I got Access to an Employee Only Portal — Bug Bounty | Jeosantos | [Read More](https://medium.com/p/3e1cbc940b4f) |
-| Mon, 20 Oct 2025 10:52:21 GMT | Embedded Security or Network Security? What is Best for your Device? | Epteck GmbH | [Read More](https://medium.com/p/f0afdfe0ced7) |
