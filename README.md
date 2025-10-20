@@ -12,12 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 11:33:05 GMT | Pentest Cheat Sheet for P.O.O. | XOR-Hacks | [Read More](https://medium.com/p/b23ea1ed7588) |
+| Mon, 20 Oct 2025 11:30:34 GMT | Secure OpenSSH Upgrade Guide: Zero-Downtime Migration from Vulnerable Versions | Amol Mali | [Read More](https://medium.com/p/8df5c0119839) |
+| Mon, 20 Oct 2025 11:28:40 GMT | How I Tricked an AI Into Giving Me Everyone’s Credit Cards (And Batman’s Help) | Iski | [Read More](https://medium.com/p/c8b714ca294f) |
+| Mon, 20 Oct 2025 11:26:38 GMT | TryHackMe #138 - Splunk: Data Manipulation | SiberYuk | [Read More](https://medium.com/p/42c41d6e973f) |
+| Mon, 20 Oct 2025 11:21:50 GMT | TryHackMe #137 - Splunk: Dashboards and Reports | SiberYuk | [Read More](https://medium.com/p/540c10f31a0f) |
+| Mon, 20 Oct 2025 11:17:58 GMT | How to Control Access in AWS the Smart Way | Serxan Hamzayev | [Read More](https://medium.com/p/17c24c3850fd) |
+| Mon, 20 Oct 2025 11:17:07 GMT | TryHackMe #136 - Splunk: Setting up a SOC Lab | SiberYuk | [Read More](https://medium.com/p/d9c470631c94) |
+| Mon, 20 Oct 2025 11:15:54 GMT | The Tender Edge: Where Vulnerability Becomes Strength | Black Mark | [Read More](https://medium.com/p/0bad539a92b7) |
+| Mon, 20 Oct 2025 11:15:38 GMT | 131 Chrome Extensions Caught Hijacking WhatsApp Web in Massive Spam Operation | Germano Costi | [Read More](https://medium.com/p/7231a53d24a8) |
+| Mon, 20 Oct 2025 11:13:31 GMT | OTPs For Everyone: The Simplest $OTP Leak$ You’ll Ever Find | tinopreter | [Read More](https://medium.com/p/5ff2d7d9c812) |
 | Mon, 20 Oct 2025 11:11:01 GMT | TryHackMe #135 - Splunk: Exploring SPL | SiberYuk | [Read More](https://medium.com/p/26c4e11fa19e) |
 | Mon, 20 Oct 2025 11:09:55 GMT | Bind Shell | Dharmendrakumar | [Read More](https://medium.com/p/b2bec5d311e4) |
 | Mon, 20 Oct 2025 11:08:34 GMT | eJPT — 3.4 CTF 2 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/6956a223b950) |
 | Mon, 20 Oct 2025 11:08:16 GMT | Breaking Stereotypes: Women Leading the Cybersecurity Revolution | Mithula Gokul | [Read More](https://medium.com/p/bda2314357fd) |
 | Mon, 20 Oct 2025 11:08:16 GMT | eJPT — 3.4 CTF 1 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/c4b93661f9da) |
 | Mon, 20 Oct 2025 11:05:52 GMT | ️When Strength Becomes Your Only Language | Sindhumallah | [Read More](https://medium.com/p/726a0a959180) |
+| Mon, 20 Oct 2025 11:04:30 GMT | Share with Us | Vincent Jongerden | [Read More](https://medium.com/p/1aae1fec7d03) |
 | Mon, 20 Oct 2025 11:02:43 GMT | How to find Stored XSS in input fields | Xormium | [Read More](https://medium.com/p/89ff0ceba667) |
 | Mon, 20 Oct 2025 11:02:34 GMT | When Green Energy Meets Cyber Risk: Why Microgrids and DERs Are the New Battleground | Brittney Ginther | [Read More](https://medium.com/p/cfcd844ff895) |
 | Mon, 20 Oct 2025 10:59:57 GMT | How I got Access to an Employee Only Portal — Bug Bounty | Jeosantos | [Read More](https://medium.com/p/3e1cbc940b4f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 01:24:43 GMT | Nation-State Hackers and Western Vulnerability | Petr Reichl | [Read More](https://medium.com/p/e372e95f98bf) |
 | Mon, 20 Oct 2025 01:24:03 GMT | Beyond Context — Treating Prompt Injections Like Malware | Pratip Dasgupta | [Read More](https://medium.com/p/60b7aca1e710) |
 | Mon, 20 Oct 2025 01:07:59 GMT | Improve your Password Cracking skills for NCL CTFs | diGi | [Read More](https://medium.com/p/2f4626117c64) |
-| Mon, 20 Oct 2025 00:56:36 GMT | The Fascinating World of Cyberspace | Chief Thinker | [Read More](https://medium.com/p/4fa4f1565df0) |
-| Mon, 20 Oct 2025 00:44:09 GMT | Romantyzacja “myślenia jak napastnik” | Marcel Pewny | [Read More](https://medium.com/p/2894ece3aa53) |
-| Mon, 20 Oct 2025 00:39:25 GMT | Hackers Don’t Need Homework: Why Schools Are Easy Prey in the Digital Age | CyberTalks | [Read More](https://medium.com/p/996fbd05a3a7) |
-| Mon, 20 Oct 2025 00:34:51 GMT | Bug Bounty, Corporate Fraud & GitLab — Why You Should Stop Using HackerOne | Justas_b | [Read More](https://medium.com/p/d1237716e24a) |
-| Mon, 20 Oct 2025 00:21:19 GMT | Individuality of system software and the importance of its preservation and archiving | A-SCI-A | [Read More](https://medium.com/p/d027e03f59fa) |
-| Mon, 20 Oct 2025 00:20:51 GMT | axis bank mein paise cut jaaye to kya karen 7389657154 एक्सिस बैंक से पैसे कट जाए तो क्या करें? | axis bank mein paise cut jaaye to kya karen | [Read More](https://medium.com/p/c789f4dc6af9) |
-| Mon, 20 Oct 2025 00:14:52 GMT | A Liderança Como Processo Contínuo: Estratégias Essenciais para Transformar sua Equipe (E Você) | Yel | [Read More](https://medium.com/p/e7aa5e1fdc0b) |
-| Mon, 20 Oct 2025 00:03:09 GMT | API Gateway Security — Authorizers | Rick Yang | [Read More](https://medium.com/p/e6a0510f517e) |
-| Sun, 19 Oct 2025 23:22:10 GMT | The Digital Gold Rush: How Data Became the World’s Most Valuable Resource | Patrick Jfremov-Kustov | [Read More](https://medium.com/p/b14ba1650fd8) |
-| Sun, 19 Oct 2025 23:11:14 GMT | Post-Quantum Cryptography: The Quiet Revolution Already Underway | Manuel Lara Caro | [Read More](https://medium.com/p/77c29087c9f7) |
-| Sun, 19 Oct 2025 23:10:03 GMT | Practical Android Pentesting: A Case Study on TikTok RCE | Sayed Abdelhafiz | [Read More](https://medium.com/p/4a82e79cc7c6) |
