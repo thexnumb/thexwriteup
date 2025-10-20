@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 12:42:59 GMT | Global Internet Outage Sends Shockwaves as AWS Crashes: What Really Happened? | Mitchell "Banknote Mitch” Similton | [Read More](https://medium.com/p/9d051e10c059) |
+| Mon, 20 Oct 2025 12:42:23 GMT | Security-Hardened 3-Tier Cloud Architecture | Rahul Vala | [Read More](https://medium.com/p/1da50fc26686) |
+| Mon, 20 Oct 2025 12:41:01 GMT | My Journey — Cybersecurity 101 | A A | [Read More](https://medium.com/p/7c7e06ff8bae) |
+| Mon, 20 Oct 2025 12:18:19 GMT | Recon Playbook — Practical Guide for Bug Bounty Hunters (2025) | Monujangra | [Read More](https://medium.com/p/d13f6f014221) |
+| Mon, 20 Oct 2025 12:18:08 GMT | BeamSec Presents Alfred Plus Agentic AI Solution at GITEX Global 2025 | BeamSec | [Read More](https://medium.com/p/43581b074480) |
+| Mon, 20 Oct 2025 12:17:28 GMT | The Dark Side of the Cloud: What the AWS Outage Revealed | res4ad | [Read More](https://medium.com/p/a32c94955fb6) |
+| Mon, 20 Oct 2025 12:17:12 GMT | How to Use a Portable Door Lock: Extra Security for Travel or Home | Sure Lock & Key LLC | [Read More](https://medium.com/p/91d049729cb0) |
+| Mon, 20 Oct 2025 12:12:29 GMT | KUPONG Coupon Checker (Hack.lu CTF 2025) – Exhaustive Exploit Write-up | 0verflowme | [Read More](https://medium.com/p/600105ba975c) |
+| Mon, 20 Oct 2025 12:07:56 GMT | How to Start Bug Bounty in 2025 — A Realistic Guide from a Security Researcher | Monujangra | [Read More](https://medium.com/p/c34a920a1554) |
+| Mon, 20 Oct 2025 12:03:34 GMT | Malware Analysis: StealthServer -A Go-Based Cross-Platform Backdoor Linked to APT36 | Jon C | [Read More](https://medium.com/p/4c5aac0e8e17) |
+| Mon, 20 Oct 2025 12:03:28 GMT | From File Upload to Remote Code Execution: A Step-by-Step Breakdown of CVE-2025–10763 | Muhammad Taha Khan | [Read More](https://medium.com/p/795a71d7f5ff) |
+| Mon, 20 Oct 2025 11:47:03 GMT | Discover Lernaean Warmup Hackviser | W4lk3r | [Read More](https://medium.com/p/1804e65907ba) |
+| Mon, 20 Oct 2025 11:47:01 GMT | I Discovered New Thing and Scare of It | The Chronicle of Averroes | [Read More](https://medium.com/p/a189ca0df15c) |
+| Mon, 20 Oct 2025 11:35:50 GMT | Volkswagen Allegedly Hacked in Ransomware Attack | Himanshu Bhatt | [Read More](https://medium.com/p/acd409fe316a) |
 | Mon, 20 Oct 2025 11:33:05 GMT | Pentest Cheat Sheet for P.O.O. | XOR-Hacks | [Read More](https://medium.com/p/b23ea1ed7588) |
 | Mon, 20 Oct 2025 11:30:34 GMT | Secure OpenSSH Upgrade Guide: Zero-Downtime Migration from Vulnerable Versions | Amol Mali | [Read More](https://medium.com/p/8df5c0119839) |
 | Mon, 20 Oct 2025 11:28:40 GMT | How I Tricked an AI Into Giving Me Everyone’s Credit Cards (And Batman’s Help) | Iski | [Read More](https://medium.com/p/c8b714ca294f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 03:31:50 GMT | BQTlock Ransomware: A New Face in the RaaS Underworld | Deven Chhajed | [Read More](https://medium.com/p/d54f692d69fc) |
 | Mon, 20 Oct 2025 03:12:55 GMT | AI Security Startups — Watchlist | Tal Eliyahu | [Read More](https://medium.com/p/1c1f26424845) |
 | Mon, 20 Oct 2025 02:54:02 GMT | When Images Become Weapons: How Hackers Hide Code Inside Pictures | Kuldeepkumawat | [Read More](https://medium.com/p/cd5e192b69d1) |
-| Mon, 20 Oct 2025 02:51:55 GMT | Day 2 — Network Models Explained: OSI vs TCP/IP and the Protocols That Power the Internet | HackTrace | [Read More](https://medium.com/p/b2c279688ba9) |
-| Mon, 20 Oct 2025 02:44:19 GMT | 7 Real Examples of Islands Architecture Beating SPA Bloat (2025 Edition) | Rizqi Mulki | [Read More](https://medium.com/p/bea2b4dbb9cb) |
-| Mon, 20 Oct 2025 02:42:32 GMT | NCL IoT Log Analysis — CTF Challenge — Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/b40f4e426c31) |
-| Mon, 20 Oct 2025 02:31:48 GMT | Understanding JWT Authentication: How JSON Web Tokens Work | Adheesha Chamod | [Read More](https://medium.com/p/849462715cbc) |
-| Mon, 20 Oct 2025 02:23:37 GMT | 10 Practical Ways to Cut JS Bundle Size by 50% | Rizqi Mulki | [Read More](https://medium.com/p/76fa112b8c66) |
-| Mon, 20 Oct 2025 02:07:51 GMT | Beginner’s 2025 Guide to DORK Rewards | DORK | [Read More](https://medium.com/p/8dbc31c063c1) |
-| Mon, 20 Oct 2025 01:55:11 GMT | AI Coding Tools and Hidden Threats A DLL Malware Story | Adnane Arharbi, Eng | [Read More](https://medium.com/p/1b33db266867) |
-| Mon, 20 Oct 2025 01:54:03 GMT | For BsidesNyc 2025, I had the incredible opportunity to develop cloud-related Capture The Flag… | Arun Channaraju | [Read More](https://medium.com/p/6ba3ab8d1463) |
-| Mon, 20 Oct 2025 01:49:24 GMT | CVE Research (Microsoft Office) | Dean Alexander Santos Buño | [Read More](https://medium.com/p/323d5fa20299) |
-| Mon, 20 Oct 2025 01:37:04 GMT | Surfshark’s Black Friday Sale 2025: Save Up to 89% on Premium VPN Plans | WP Deals Expert | [Read More](https://medium.com/p/e3f867b880a6) |
-| Mon, 20 Oct 2025 01:31:57 GMT | Modern cURL for Modern APIs | Shri Acharya | [Read More](https://medium.com/p/e0af3fdb4f45) |
-| Mon, 20 Oct 2025 01:24:43 GMT | Nation-State Hackers and Western Vulnerability | Petr Reichl | [Read More](https://medium.com/p/e372e95f98bf) |
-| Mon, 20 Oct 2025 01:24:03 GMT | Beyond Context — Treating Prompt Injections Like Malware | Pratip Dasgupta | [Read More](https://medium.com/p/60b7aca1e710) |
-| Mon, 20 Oct 2025 01:07:59 GMT | Improve your Password Cracking skills for NCL CTFs | diGi | [Read More](https://medium.com/p/2f4626117c64) |
