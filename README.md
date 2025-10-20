@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 09:22:58 GMT | SOC 2 Type I vs Type II: Which One Do Your Customers Expect? | Hicomply | [Read More](https://medium.com/p/32c1c7c472fe) |
+| Mon, 20 Oct 2025 09:22:58 GMT | When Encryption Went Public: The Case of the Hardcoded Key | Devansh Patel | [Read More](https://medium.com/p/d711cdd836fb) |
 | Mon, 20 Oct 2025 06:57:57 GMT | Prompt Injection in LLMs: An In-Depth Technical Exploration | eXpl0it_32 | [Read More](https://medium.com/p/ea286ac4b8b5) |
 | Mon, 20 Oct 2025 06:56:41 GMT | Understanding Where Windows Authentication Logs Actually Live — From AD to Entra ID | Dean | [Read More](https://medium.com/p/dd04417da961) |
 | Mon, 20 Oct 2025 06:50:43 GMT | Cara Menangkal Serangan dengan Cyber Security | Ivan Runa | [Read More](https://medium.com/p/c7a43472f0ca) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 18:24:52 GMT | ☕ Cyber & Coffee: The F5 Breach — When the Guard Gets Hacked | Cyber and Coffee | [Read More](https://medium.com/p/3a2a9a6390a8) |
 | Sun, 19 Oct 2025 18:24:39 GMT | Detecting Suspicious Powershell Activity.. | Tobiasacastleberry | [Read More](https://medium.com/p/232c1e0a7921) |
 | Sun, 19 Oct 2025 18:23:15 GMT | Why Are You NOT Using Argon2id? | Billy Coleman III | [Read More](https://medium.com/p/b6ab2dd86713) |
-| Sun, 19 Oct 2025 18:13:01 GMT | How LLMs Are Transforming Cybersecurity | eXpl0it_32 | [Read More](https://medium.com/p/621289ec606e) |
-| Sun, 19 Oct 2025 18:08:29 GMT | How to Fix Kernel Panic in Linux — Simple Recovery Guide | Muhammed Anas | [Read More](https://medium.com/p/4db758f235ce) |
