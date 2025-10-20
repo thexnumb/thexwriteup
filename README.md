@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 02:54:02 GMT | When Images Become Weapons: How Hackers Hide Code Inside Pictures | Kuldeepkumawat | [Read More](https://medium.com/p/cd5e192b69d1) |
+| Mon, 20 Oct 2025 02:51:55 GMT | Day 2 — Network Models Explained: OSI vs TCP/IP and the Protocols That Power the Internet | HackTrace | [Read More](https://medium.com/p/b2c279688ba9) |
+| Mon, 20 Oct 2025 02:44:19 GMT | 7 Real Examples of Islands Architecture Beating SPA Bloat (2025 Edition) | Rizqi Mulki | [Read More](https://medium.com/p/bea2b4dbb9cb) |
+| Mon, 20 Oct 2025 02:42:32 GMT | NCL IoT Log Analysis — CTF Challenge — Write-up | Moez Ben-Azzouz | [Read More](https://medium.com/p/b40f4e426c31) |
+| Mon, 20 Oct 2025 02:31:48 GMT | Understanding JWT Authentication: How JSON Web Tokens Work | Adheesha Chamod | [Read More](https://medium.com/p/849462715cbc) |
+| Mon, 20 Oct 2025 02:23:37 GMT | 10 Practical Ways to Cut JS Bundle Size by 50% | Rizqi Mulki | [Read More](https://medium.com/p/76fa112b8c66) |
+| Mon, 20 Oct 2025 02:07:51 GMT | Beginner’s 2025 Guide to DORK Rewards | DORK | [Read More](https://medium.com/p/8dbc31c063c1) |
+| Mon, 20 Oct 2025 01:55:11 GMT | AI Coding Tools and Hidden Threats A DLL Malware Story | Adnane Arharbi, Eng | [Read More](https://medium.com/p/1b33db266867) |
+| Mon, 20 Oct 2025 01:54:03 GMT | For BsidesNyc 2025, I had the incredible opportunity to develop cloud-related Capture The Flag… | Arun Channaraju | [Read More](https://medium.com/p/6ba3ab8d1463) |
+| Mon, 20 Oct 2025 01:49:24 GMT | CVE Research (Microsoft Office) | Dean Alexander Santos Buño | [Read More](https://medium.com/p/323d5fa20299) |
 | Mon, 20 Oct 2025 01:37:04 GMT | Surfshark’s Black Friday Sale 2025: Save Up to 89% on Premium VPN Plans | WP Deals Expert | [Read More](https://medium.com/p/e3f867b880a6) |
 | Mon, 20 Oct 2025 01:31:57 GMT | Modern cURL for Modern APIs | Shri Acharya | [Read More](https://medium.com/p/e0af3fdb4f45) |
 | Mon, 20 Oct 2025 01:24:43 GMT | Nation-State Hackers and Western Vulnerability | Petr Reichl | [Read More](https://medium.com/p/e372e95f98bf) |
@@ -91,6 +101,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 16:23:08 GMT | Getting Started with Spring Security in Microservice Architecture | Vipul Singh | [Read More](https://medium.com/p/17dbe59cc3d4) |
 | Sun, 19 Oct 2025 16:09:00 GMT | Part 1: | Abida Sarah | [Read More](https://medium.com/p/7d7b3aabd057) |
 | Sun, 19 Oct 2025 16:01:38 GMT | Deploying Wazuh SIEM: Installing the Server and Adding an Agent | Huseyn Eyvazov | [Read More](https://medium.com/p/e2e073a5582c) |
+| Sun, 19 Oct 2025 16:01:26 GMT | Unauthenticated Like & Dislike Manipulation — WordPress, Comments Like Dislike 1.2.4 | Lars de Bruijn | [Read More](https://medium.com/p/074a4b09a718) |
 | Sun, 19 Oct 2025 15:56:58 GMT | The Dark Web: What It Is & Isn’t | Catherine Ma | [Read More](https://medium.com/p/1ce04d1b46bb) |
 | Sun, 19 Oct 2025 15:56:21 GMT | ootMe Today, Hack You Tomorrow — The Next Hackerman | Christianlloydbunag | [Read More](https://medium.com/p/57ee96b12e24) |
 | Sun, 19 Oct 2025 15:53:43 GMT | TryHackMe: RootMe Challenge - GONE WRONG?! | b0realii | [Read More](https://medium.com/p/a0fba5fed983) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 15:42:38 GMT | Secrets Management in Kubernetes | Mark Southworth | [Read More](https://medium.com/p/ba16d48e0142) |
 | Sun, 19 Oct 2025 15:35:59 GMT | How One-Control-Per-Day Testing Builds Board-Level Confidence | Dr. Deep Pandey | [Read More](https://medium.com/p/e4f069ff6e4f) |
 | Sun, 19 Oct 2025 15:32:37 GMT | Security Could Be an Emotion, Not Just a Metric | Sewar Khalifeh | [Read More](https://medium.com/p/ed423e4bb5d9) |
-| Sun, 19 Oct 2025 15:18:07 GMT | Siber Güvenlik Labı Serisi (2): Windows Server Kurulumu, Log Entegrasyonu ve SIEM Temelleri | Merve Güler | [Read More](https://medium.com/p/819a3f1e756e) |
-| Sun, 19 Oct 2025 15:18:05 GMT | Java 25: The Features That Made Me Excited About Java Again | Jitin Kayyala | [Read More](https://medium.com/p/b99c8f1d1ca5) |
-| Sun, 19 Oct 2025 15:15:03 GMT | GZR Observer — Global Daily — Oct 19, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/6e0e26c8fb46) |
-| Sun, 19 Oct 2025 15:13:49 GMT | On-Premise-01: Exploiting CVE-2023–3452 in the Canto WordPress Plugin
-Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
-| Sun, 19 Oct 2025 15:12:25 GMT | Hands-On Guide to Exploiting Redis, MongoDB, and Misconfigured Databases: Master Real-World Attacks | Very Lazy Tech | [Read More](https://medium.com/p/c990a0cfdbd6) |
-| Sun, 19 Oct 2025 15:03:59 GMT | Automated Patching of Python Dependencies: Securing Your Codebase with pip-audit and CI/CD | Rohit Ranjan | [Read More](https://medium.com/p/cdd7c903e30a) |
-| Sun, 19 Oct 2025 15:01:32 GMT | The Python Projects That Launched My Career (And Made Money) | Rocky | [Read More](https://medium.com/p/73d7b5a06784) |
-| Sun, 19 Oct 2025 14:59:43 GMT | Shadow Leak: The First Service-Side, Zero-Click Indirect Prompt Injection Vulnerability | HackerNasr | [Read More](https://medium.com/p/c1ff6e0d25f9) |
-| Sun, 19 Oct 2025 14:58:42 GMT | FORTIGATE GEÇİŞİ 01.04 | Ziya DENİZ | [Read More](https://medium.com/p/a3ca703b1b1d) |
-| Sun, 19 Oct 2025 14:50:58 GMT | -  ,   … | Andre | [Read More](https://medium.com/p/18752f328476) |
-| Sun, 19 Oct 2025 14:50:32 GMT | Analyze & Investigate By Splunk: TryHackMe Splunk Basics | Youssef Fathy | [Read More](https://medium.com/p/6ca390983c12) |
