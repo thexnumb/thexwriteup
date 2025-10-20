@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 11:11:01 GMT | TryHackMe #135 - Splunk: Exploring SPL | SiberYuk | [Read More](https://medium.com/p/26c4e11fa19e) |
+| Mon, 20 Oct 2025 11:09:55 GMT | Bind Shell | Dharmendrakumar | [Read More](https://medium.com/p/b2bec5d311e4) |
+| Mon, 20 Oct 2025 11:08:34 GMT | eJPT — 3.4 CTF 2 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/6956a223b950) |
+| Mon, 20 Oct 2025 11:08:16 GMT | Breaking Stereotypes: Women Leading the Cybersecurity Revolution | Mithula Gokul | [Read More](https://medium.com/p/bda2314357fd) |
+| Mon, 20 Oct 2025 11:08:16 GMT | eJPT — 3.4 CTF 1 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/c4b93661f9da) |
+| Mon, 20 Oct 2025 11:05:52 GMT | ️When Strength Becomes Your Only Language | Sindhumallah | [Read More](https://medium.com/p/726a0a959180) |
+| Mon, 20 Oct 2025 11:02:43 GMT | How to find Stored XSS in input fields | Xormium | [Read More](https://medium.com/p/89ff0ceba667) |
+| Mon, 20 Oct 2025 11:02:34 GMT | When Green Energy Meets Cyber Risk: Why Microgrids and DERs Are the New Battleground | Brittney Ginther | [Read More](https://medium.com/p/cfcd844ff895) |
+| Mon, 20 Oct 2025 10:59:57 GMT | How I got Access to an Employee Only Portal — Bug Bounty | Jeosantos | [Read More](https://medium.com/p/3e1cbc940b4f) |
+| Mon, 20 Oct 2025 10:52:21 GMT | Embedded Security or Network Security? What is Best for your Device? | Epteck GmbH | [Read More](https://medium.com/p/f0afdfe0ced7) |
+| Mon, 20 Oct 2025 10:51:37 GMT | Poor Persis felt quite like a culprit before Mellicent’s attack | sami toor | [Read More](https://medium.com/p/1d732aa8b5e8) |
+| Mon, 20 Oct 2025 10:51:22 GMT | Coding: The Ignored Backbone of Hacking | Viratavi | [Read More](https://medium.com/p/01fa181b68f6) |
+| Mon, 20 Oct 2025 10:50:33 GMT | Stop Wasting Time! How Jupyter Notebooks Can Automate Your CTI Work | Adam Goss | [Read More](https://medium.com/p/198a1df96bbe) |
+| Mon, 20 Oct 2025 10:45:19 GMT | Behavioral Security Tips That Spot Abnormal PHP Requests | Asian Digital Hub | [Read More](https://medium.com/p/49b4584eeee1) |
+| Mon, 20 Oct 2025 10:42:37 GMT | KYLO: Week 2 — How My AI‑Powered Security Code Editor Helps You Ship Safely | Leon Musk | [Read More](https://medium.com/p/c2031dbd0ab2) |
 | Mon, 20 Oct 2025 10:35:05 GMT | The Daily Tech Digest: 21 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/325f46da22a7) |
 | Mon, 20 Oct 2025 10:34:54 GMT | One Region Hiccup Shouldn’t Silence Your Product | QA Bound | [Read More](https://medium.com/p/59d7233b033d) |
 | Mon, 20 Oct 2025 10:33:32 GMT | When Hackers Meet AI: The Rise of GOVERSHELL and the Fall of Human Phishing | Akshatdwivedi | [Read More](https://medium.com/p/97b013d30c32) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 23:22:10 GMT | The Digital Gold Rush: How Data Became the World’s Most Valuable Resource | Patrick Jfremov-Kustov | [Read More](https://medium.com/p/b14ba1650fd8) |
 | Sun, 19 Oct 2025 23:11:14 GMT | Post-Quantum Cryptography: The Quiet Revolution Already Underway | Manuel Lara Caro | [Read More](https://medium.com/p/77c29087c9f7) |
 | Sun, 19 Oct 2025 23:10:03 GMT | Practical Android Pentesting: A Case Study on TikTok RCE | Sayed Abdelhafiz | [Read More](https://medium.com/p/4a82e79cc7c6) |
-| Sun, 19 Oct 2025 23:07:34 GMT | $3000 Bounty for Leaking Private Chat Conversations: A Simple IDOR in a Chat AI | winteri3coming | [Read More](https://medium.com/p/d5e46c8f5fc5) |
-| Sun, 19 Oct 2025 23:05:00 GMT | The Future of Remote Access: Balancing Productivity, Control, and Security | Mai Tran | [Read More](https://medium.com/p/968d1c55bd3c) |
-| Sun, 19 Oct 2025 23:03:05 GMT | Kernel Locking and Concurrency Pitfalls in Operating Systems | Bervice | [Read More](https://medium.com/p/4dfea18054ab) |
-| Sun, 19 Oct 2025 23:01:52 GMT | TryHackMe - Warzone 2 - Room Walkthrough | Drew Arpino | [Read More](https://medium.com/p/96ed4460e344) |
-| Sun, 19 Oct 2025 22:51:44 GMT | Beginner’s 2025 Guide to DORK Rewards | DORK | [Read More](https://medium.com/p/a30273b46240) |
-| Sun, 19 Oct 2025 22:50:35 GMT | Understanding C2 Frameworks: How Detection Teams Find & Stop Command-and-Control | Qasim Qlf | [Read More](https://medium.com/p/2e0d2d1ae7a1) |
-| Sun, 19 Oct 2025 22:29:26 GMT | Authan Farsi — The Cybersecurity Expert Who Turns Threats Into Solutions | Lulzsec | [Read More](https://medium.com/p/e674a99c7a75) |
-| Sun, 19 Oct 2025 22:28:55 GMT | The Critical Role of IT Auditing: Why Assessments and Audits Matter in Today’s Digital Landscape | Mai Tran | [Read More](https://medium.com/p/fa920d27a284) |
-| Sun, 19 Oct 2025 22:19:48 GMT | Using AI to Make Students Smarter — Not Cheaters | Parinitha N | [Read More](https://medium.com/p/72d7fd05d45c) |
-| Sun, 19 Oct 2025 22:16:58 GMT | Cloud Misconfigurations: The Most Common Cause of Data Breaches | Samina Perveen | [Read More](https://medium.com/p/9643f945f1e5) |
-| Sun, 19 Oct 2025 22:12:17 GMT | Zero-Knowledge Secure Storage: Verinizi Kimseye Güvenmeden Saklayın | MehmetCelik | [Read More](https://medium.com/p/64709c98e2f2) |
-| Sun, 19 Oct 2025 22:09:35 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/4826bb72f818) |
-| Sun, 19 Oct 2025 22:02:59 GMT | Identity: The War No One Admits We’re Fighting | TD | [Read More](https://medium.com/p/c23d278d22e1) |
-| Sun, 19 Oct 2025 21:45:32 GMT | Clandestine Nano-Drones Designed to Infiltrate Areas Undetected | z3r0trust | [Read More](https://medium.com/p/cf8cffc495a9) |
-| Sun, 19 Oct 2025 21:42:11 GMT | Want To Simplify Your Work Life? Use Zapier To Automate Your Work | YourSoftIgboGirl | [Read More](https://medium.com/p/87047c0818b7) |
