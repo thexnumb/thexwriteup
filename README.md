@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 06:09:31 GMT | How a fake AI recruiter delivers five staged malware disguised as a dream job | Shantanu | [Read More](https://medium.com/p/64cc68fec263) |
+| Mon, 20 Oct 2025 06:04:09 GMT | 5 Simple Reasons to Start Using a VPN Today | Cloudbric VPN | [Read More](https://medium.com/p/abc0800aae3d) |
+| Mon, 20 Oct 2025 06:00:25 GMT | Umbrellas, Storms, and Cyber Risk: Why Threat Management Is Not Risk Management | Juan Pablo Castro | [Read More](https://medium.com/p/271ae734e068) |
+| Mon, 20 Oct 2025 05:55:52 GMT | Seven minutes @ Louvre | Erica Jayasundera | [Read More](https://medium.com/p/49b213a2287e) |
+| Mon, 20 Oct 2025 05:50:01 GMT | The PyPI Supply Chain Attacks of 2025: What Every Python Backend Engineer Should Learn from the… | Dilroop U S | [Read More](https://medium.com/p/875ba4568d10) |
 | Mon, 20 Oct 2025 05:26:43 GMT | Breaking the Web (Part 4): Broken Authentication & Session Management — When Login Fails Security | Mohammed Fahad | [Read More](https://medium.com/p/a0250ec327b7) |
 | Mon, 20 Oct 2025 05:25:39 GMT | Concrete5 to WordPress Migration: The Ultimate 2025 Guide for Seamless CMS Transition | Chris | [Read More](https://medium.com/p/6bc1d434b51c) |
 | Mon, 20 Oct 2025 05:02:52 GMT | SafeLink Nigeria: Building Safer Communities Through Real-Time Connection | Atiatunnasir | [Read More](https://medium.com/p/b59fab2325d1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 17:48:48 GMT | Shifting Left: A Practical Guide for Developers Who Take Security Seriously! | Cyberbali | [Read More](https://medium.com/p/c6b4e7e91a54) |
 | Sun, 19 Oct 2025 17:44:16 GMT | Master Wi-Fi Security — From Basics to Attacks & Defenses | Gollamohan | [Read More](https://medium.com/p/53052557df04) |
 | Sun, 19 Oct 2025 17:38:45 GMT | Rooting the Capstone Dev Machine | Chayon Datta Utsha | [Read More](https://medium.com/p/ca5187ee263f) |
-| Sun, 19 Oct 2025 17:32:54 GMT | Best Crypto Recovery Expert, Hire Ghost Mystery Recovery Hacker | Anthinywilson | [Read More](https://medium.com/p/3e4d4430e7be) |
-| Sun, 19 Oct 2025 17:24:26 GMT | Reverse Engineering and Tracing internal thoughts of LLM | Harish SG | [Read More](https://medium.com/p/3017b5f72008) |
-| Sun, 19 Oct 2025 17:19:08 GMT | How Did the “Vicar of Volgograd” Expose Russia’s Secrets? | Liam Brooks | [Read More](https://medium.com/p/a1accb6bcdff) |
-| Sun, 19 Oct 2025 17:10:36 GMT | Broken Access Control (BAC & IDOR): Understanding the Quiet Killer of Web App Security | Pirlo | [Read More](https://medium.com/p/5dc44dcf224b) |
-| Sun, 19 Oct 2025 17:04:04 GMT | Best Crypto Recovery Expert, Hire Ghost Mystery Recovery Hacker | Anthinywilson | [Read More](https://medium.com/p/4e95d5ec7c48) |
