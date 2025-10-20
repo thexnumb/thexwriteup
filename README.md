@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 01:37:04 GMT | Surfshark’s Black Friday Sale 2025: Save Up to 89% on Premium VPN Plans | WP Deals Expert | [Read More](https://medium.com/p/e3f867b880a6) |
+| Mon, 20 Oct 2025 01:31:57 GMT | Modern cURL for Modern APIs | Shri Acharya | [Read More](https://medium.com/p/e0af3fdb4f45) |
+| Mon, 20 Oct 2025 01:24:43 GMT | Nation-State Hackers and Western Vulnerability | Petr Reichl | [Read More](https://medium.com/p/e372e95f98bf) |
+| Mon, 20 Oct 2025 01:24:03 GMT | Beyond Context — Treating Prompt Injections Like Malware | Pratip Dasgupta | [Read More](https://medium.com/p/60b7aca1e710) |
+| Mon, 20 Oct 2025 01:07:59 GMT | Improve your Password Cracking skills for NCL CTFs | diGi | [Read More](https://medium.com/p/2f4626117c64) |
+| Mon, 20 Oct 2025 00:56:36 GMT | The Fascinating World of Cyberspace | Chief Thinker | [Read More](https://medium.com/p/4fa4f1565df0) |
+| Mon, 20 Oct 2025 00:39:25 GMT | Hackers Don’t Need Homework: Why Schools Are Easy Prey in the Digital Age | CyberTalks | [Read More](https://medium.com/p/996fbd05a3a7) |
+| Mon, 20 Oct 2025 00:34:51 GMT | Bug Bounty, Corporate Fraud & GitLab — Why You Should Stop Using HackerOne | Justas_b | [Read More](https://medium.com/p/d1237716e24a) |
+| Mon, 20 Oct 2025 00:21:19 GMT | Individuality of system software and the importance of its preservation and archiving | A-SCI-A | [Read More](https://medium.com/p/d027e03f59fa) |
+| Mon, 20 Oct 2025 00:20:51 GMT | axis bank mein paise cut jaaye to kya karen 7389657154 एक्सिस बैंक से पैसे कट जाए तो क्या करें? | axis bank mein paise cut jaaye to kya karen | [Read More](https://medium.com/p/c789f4dc6af9) |
+| Mon, 20 Oct 2025 00:03:09 GMT | API Gateway Security — Authorizers | Rick Yang | [Read More](https://medium.com/p/e6a0510f517e) |
 | Sun, 19 Oct 2025 23:22:10 GMT | The Digital Gold Rush: How Data Became the World’s Most Valuable Resource | Patrick Jfremov-Kustov | [Read More](https://medium.com/p/b14ba1650fd8) |
 | Sun, 19 Oct 2025 23:11:14 GMT | Post-Quantum Cryptography: The Quiet Revolution Already Underway | Manuel Lara Caro | [Read More](https://medium.com/p/77c29087c9f7) |
 | Sun, 19 Oct 2025 23:10:03 GMT | Practical Android Pentesting: A Case Study on TikTok RCE | Sayed Abdelhafiz | [Read More](https://medium.com/p/4a82e79cc7c6) |
@@ -102,14 +113,3 @@ Overview | M.Humayun | [Read More](https://medium.com/p/800b12bc47af) |
 | Sun, 19 Oct 2025 14:58:42 GMT | FORTIGATE GEÇİŞİ 01.04 | Ziya DENİZ | [Read More](https://medium.com/p/a3ca703b1b1d) |
 | Sun, 19 Oct 2025 14:50:58 GMT | -  ,   … | Andre | [Read More](https://medium.com/p/18752f328476) |
 | Sun, 19 Oct 2025 14:50:32 GMT | Analyze & Investigate By Splunk: TryHackMe Splunk Basics | Youssef Fathy | [Read More](https://medium.com/p/6ca390983c12) |
-| Sun, 19 Oct 2025 14:48:33 GMT | Real Utility, Real Security — How ABTU Connects Protection to Value | Abatis ABTU | [Read More](https://medium.com/p/3781f8332a9c) |
-| Sun, 19 Oct 2025 14:42:07 GMT | THM - Shadow Trace | Francesco Pastore | [Read More](https://medium.com/p/13ab3c5f1ef8) |
-| Sun, 19 Oct 2025 14:41:10 GMT | The Digital Revolution: How Technology is Reshaping the Future | Rahmataliayaz | [Read More](https://medium.com/p/244b8736981c) |
-| Sun, 19 Oct 2025 14:37:28 GMT | TryHackMe ‘RootMe’ — A Write-up | Aireides | [Read More](https://medium.com/p/eff427575d28) |
-| Sun, 19 Oct 2025 14:37:13 GMT | The Rise of Digital Dragonism: How Modern Hackers Are Becoming the New-Age Sorcerers | Kunal Gautam | [Read More](https://medium.com/p/37d23884060f) |
-| Sun, 19 Oct 2025 14:36:03 GMT | An Emerging Infostealer Malware: The Rise and Disruption of Lumma Stealer | zerOiQ | [Read More](https://medium.com/p/d27c4b3aadde) |
-| Sun, 19 Oct 2025 14:29:44 GMT | Top Technology Trends in 2026 That Will Shape Our Everyday Lives” | Naveedahmedali | [Read More](https://medium.com/p/eb0edd3ea50b) |
-| Sun, 19 Oct 2025 14:25:35 GMT | The Poisoned Stream — A08: Software and Data Integrity Failures - 10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/cc47370cbe88) |
-| Sun, 19 Oct 2025 14:25:22 GMT | Co-Inteligencia: la evolución humana junto a la IA | BotsiCat | [Read More](https://medium.com/p/3dc9fdf75867) |
-| Sun, 19 Oct 2025 14:22:38 GMT | From $1,000 to $100,000 in Bug Bounties: Advanced Techniques and Program Selection Strategy | Maxwell Cross | [Read More](https://medium.com/p/d858cacf34d4) |
-| Sun, 19 Oct 2025 14:22:37 GMT | Securing MQTT Brokers in IoT Infrastructure through VPN-Based Private Networking using WireGuard | Hassam Fathe Muhammad | [Read More](https://medium.com/p/79db459217f6) |
