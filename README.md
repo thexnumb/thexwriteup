@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 10:03:35 GMT | Digital Shield: Ushering in a New Era for Your Digital Assets with Military-Grade Security | Digital Shield | [Read More](https://medium.com/p/a71d31ae96e4) |
+| Mon, 20 Oct 2025 10:03:03 GMT | Understanding Blockchain Beyond Cryptocurrency 101 | Modern News | [Read More](https://medium.com/p/0e4d8f35dbef) |
+| Mon, 20 Oct 2025 10:01:01 GMT | DockerLabs Writeup — chmod-4755 (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9e5c84c9d6f7) |
+| Mon, 20 Oct 2025 10:00:39 GMT | From Vulnerabilities to Defense: Building a Secure Cloud Pipeline (DevSecOps + AppSec Case Study) | Richard Ndung'u | [Read More](https://medium.com/p/f404590a6018) |
+| Mon, 20 Oct 2025 10:00:23 GMT | Portswigger Academy — Reflected XSS into a template literal with angle brackets, single, double… | Alan | [Read More](https://medium.com/p/dac3d59df90e) |
+| Mon, 20 Oct 2025 09:59:30 GMT | RST TI Report Digest: 13 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/fae82d2afce0) |
+| Mon, 20 Oct 2025 09:58:32 GMT | Today’s Top Cyber Intelligence Highlights — Oct 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c5c3362aed05) |
+| Mon, 20 Oct 2025 09:58:16 GMT | RST TI Report Digest: 20 Oct 2025 | RST Cloud | [Read More](https://medium.com/p/d0a8565bedc9) |
+| Mon, 20 Oct 2025 09:58:11 GMT | Still Using a Hot Wallet? | Digital Shield Offcial | [Read More](https://medium.com/p/8a34d5c8c4df) |
+| Mon, 20 Oct 2025 09:58:02 GMT | Home-Lab#4: Building a Detection Lab with Wazuh, Sysmon, and MITRE ATT&CK | Abdelmlak Said | [Read More](https://medium.com/p/4086ab42ed57) |
+| Mon, 20 Oct 2025 09:57:19 GMT | Insider Risk Management 2.0: Behavioural AI + DSPM to Stop Data Loss Before It Happens | Jackdavis Iap | [Read More](https://medium.com/p/4b700e3ee3f6) |
+| Mon, 20 Oct 2025 09:55:31 GMT | CISA’s F5 Alarm: Cloud Control Planes Break | OKcontract Chainwall | [Read More](https://medium.com/p/4aace9b90b63) |
+| Mon, 20 Oct 2025 09:45:07 GMT | How to Build a Personal Cyber Defense Stack in 2025 | Vijay Kumar Gupta | [Read More](https://medium.com/p/db1684931f13) |
+| Mon, 20 Oct 2025 09:42:10 GMT | CVE-2025–47410: Apache Geode’s Achilles Heel — CSRF Attacks on the Rise! | CVEHUB | [Read More](https://medium.com/p/e8c6b0dcd9c8) |
+| Mon, 20 Oct 2025 09:39:48 GMT | Wireshark Woes? Untangle Your Network Like a Pro | SilentInject | [Read More](https://medium.com/p/2e5106937a02) |
 | Mon, 20 Oct 2025 09:39:32 GMT | CYBER SECURITY CLASS ON 16TH OF OCTOBER, 2025. | Ukaakachi | [Read More](https://medium.com/p/78fc4644dd90) |
+| Mon, 20 Oct 2025 09:35:13 GMT | Dynatrace Platformunu CSPM ve VSPM ile Genişletin | Perform Yazılım | [Read More](https://medium.com/p/2387f1569593) |
 | Mon, 20 Oct 2025 09:34:29 GMT | MISC: QnQSec CTF 2025 — Catch Me | Rana chouchane - QU33NR | [Read More](https://medium.com/p/79541cb9a896) |
 | Mon, 20 Oct 2025 09:33:32 GMT | MISC : Hack.lu CTF 2025 — GISSNINGSLEK | Rana chouchane - QU33NR | [Read More](https://medium.com/p/926cb6af06f4) |
 | Mon, 20 Oct 2025 09:29:41 GMT | 2025’s Digital Shake-up: Inside the Software Development Playbook | Scopun | [Read More](https://medium.com/p/2a87d7697020) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 20:57:07 GMT | Advanced API Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/16d6fffacad4) |
 | Sun, 19 Oct 2025 20:57:00 GMT | Nexus Defender: a simple path to a reliable baseline on UNSW-NB15 | Helen Malatanti | [Read More](https://medium.com/p/fd9f1e2aee01) |
 | Sun, 19 Oct 2025 20:53:16 GMT | Spending one more day with them | Gordie Jackson | [Read More](https://medium.com/p/9c2081216354) |
-| Sun, 19 Oct 2025 20:39:21 GMT | BTLO Reverse Engineering — A Classic Injection Lab Həlli | Goncha | [Read More](https://medium.com/p/37b58ae7d0da) |
-| Sun, 19 Oct 2025 20:22:32 GMT | TryHackMe Activity — RootMe! | Lee Caceres | [Read More](https://medium.com/p/b166c6d71d39) |
-| Sun, 19 Oct 2025 20:20:56 GMT | Day 14 of my Cybersecurity Journey: Networking Protocols 1 | Ogundipe Priscilla | [Read More](https://medium.com/p/7bf127e912c4) |
-| Sun, 19 Oct 2025 20:15:31 GMT | reverse-engineering-a-classic-injection | Goncha | [Read More](https://medium.com/p/1755d40947a2) |
-| Sun, 19 Oct 2025 20:02:21 GMT | Split Large File Into Small Pieces | Erkan Güzeler | [Read More](https://medium.com/p/c9fcb6446e49) |
-| Sun, 19 Oct 2025 20:00:24 GMT | The Unicode Trick That Let Me Takeover an Entire Organization | Hosam S3dawi | [Read More](https://medium.com/p/44e02fc189ee) |
-| Sun, 19 Oct 2025 19:58:17 GMT | When Security Tools Turn Bad: How Insiders Exploit Trusted Defenses | David R  Baker | [Read More](https://medium.com/p/ed5c59e15063) |
-| Sun, 19 Oct 2025 19:56:04 GMT | Hack the Box “Return” CTF Write-up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/aa267680eb64) |
-| Sun, 19 Oct 2025 19:51:52 GMT | Use of AI in Cybersecurity | Mihir Kulkarni | [Read More](https://medium.com/p/bd7eb2b69a93) |
-| Sun, 19 Oct 2025 19:38:30 GMT | How F5 Can Help Against Insider Threats | David R  Baker | [Read More](https://medium.com/p/b8785e32297a) |
-| Sun, 19 Oct 2025 19:32:34 GMT | How to Integrate Palo Alto Firewall with Wazuh SIEM | Neetrox | [Read More](https://medium.com/p/3659ad47627e) |
-| Sun, 19 Oct 2025 19:32:06 GMT | What Cyber Security Is? (Explained like you’re 5 years old!) | Lilith tavassoli | [Read More](https://medium.com/p/d3e0586232e1) |
-| Sun, 19 Oct 2025 19:26:36 GMT | Cracking the Lock: How I Discovered Amazon KDP’s Missing Account Lockout Vulnerability | Mandar Satam | [Read More](https://medium.com/p/d504bef5adc0) |
-| Sun, 19 Oct 2025 19:24:43 GMT | What’s The Flag CTF Write-Up | Abilash B | [Read More](https://medium.com/p/41fd3c9a8bf1) |
-| Sun, 19 Oct 2025 19:18:38 GMT | Modern Access Control: Principles, Models, and Strategic Best Practices | Mai Tran | [Read More](https://medium.com/p/6edafea52235) |
-| Sun, 19 Oct 2025 19:17:00 GMT | Is It too Late to Join Symbiotic? | Olesya Kuzyk | [Read More](https://medium.com/p/5cf1791faf88) |
