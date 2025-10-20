@@ -12,9 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 19:24:10 GMT | How MSPs Can Boost Recurring Revenue with Self-Contained Network Security | CacheGuard Technologies | [Read More](https://medium.com/p/a66b5e8ea230) |
 | Mon, 20 Oct 2025 19:05:57 GMT | Cybersecurity Assurance for Free Market Participants using Cloud Services | Syamantak Saha | [Read More](https://medium.com/p/a0f97965c367) |
 | Mon, 20 Oct 2025 19:04:08 GMT | GraphQL IDOR Allows Unauthorized Revocation of Other Users’ Activation Tokens | Yasmeen Rezk | [Read More](https://medium.com/p/31e432b7bb6c) |
 | Mon, 20 Oct 2025 18:59:53 GMT | Why FinTech Trusts AI for 99% Secure Identities Revealed | Vikram Lingam | [Read More](https://medium.com/p/74cbb6c76439) |
+| Mon, 20 Oct 2025 18:32:59 GMT | The Mental Toll of Online Fraud and How to Bounce Back | P.O Writes | [Read More](https://medium.com/p/7ead2440e2e9) |
 | Mon, 20 Oct 2025 18:17:58 GMT | ¿Y si el próximo correo de phishing lo escribe una IA? | Cyber-G | [Read More](https://medium.com/p/a5212e099234) |
 | Mon, 20 Oct 2025 16:06:01 GMT | EU AI Act Compliance: Your Practical Roadmap | Michael Hannecke | [Read More](https://medium.com/p/3fd9768f97ca) |
 | Mon, 20 Oct 2025 15:07:06 GMT | INE CTF Arena Round 18: Silent Footprint (Writeup) | n01rrr | [Read More](https://medium.com/p/5df80bdfecf3) |
@@ -25,13 +27,17 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 14:17:12 GMT | The DevSecOps Principles That Actually Work in 2025 | Deval Kasundra | [Read More](https://medium.com/p/be50b7b426c5) |
 | Mon, 20 Oct 2025 14:17:10 GMT | The Feature Factory Trap: Why Your Features Are Eating Your Product’s Soul | William Meller | [Read More](https://medium.com/p/f954fa4905b3) |
 | Mon, 20 Oct 2025 14:14:11 GMT | OWASP ASVS v5: The Foundation of Minimum Application Security | Achmad Aris Setiawan | [Read More](https://medium.com/p/23c788645bda) |
+| Mon, 20 Oct 2025 14:11:37 GMT | Understanding VLAN (Virtual Local Area Networks) | Huseyn Eyvazov | [Read More](https://medium.com/p/0350957c8bca) |
 | Mon, 20 Oct 2025 14:10:48 GMT | The Cyber Security Labyrinth: Navigating the Threats | Cyber Security Research | [Read More](https://medium.com/p/896871cbe92c) |
 | Mon, 20 Oct 2025 14:10:39 GMT | Find Security Bugs Before Hackers Do — Static Code Analysis | Israel Aráoz Severiche | [Read More](https://medium.com/p/b26dcf0c515c) |
 | Mon, 20 Oct 2025 14:08:32 GMT | Mastering Practical Command Injection Exploitation and Detection: Step-by-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/0d0576d25139) |
 | Mon, 20 Oct 2025 14:02:37 GMT | Decoding Cyber Security: A Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/cd7d036638aa) |
 | Mon, 20 Oct 2025 14:02:25 GMT | HacktheBox: Access Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/4c4533932709) |
+| Mon, 20 Oct 2025 13:43:54 GMT | When Canva Went Dark: What the AWS Outage Revealed About Our Digital Fragility | Ronaldo | [Read More](https://medium.com/p/61f61b230597) |
+| Mon, 20 Oct 2025 13:39:30 GMT | How Much Does Your Phone Really Know About You? | Malaika Sohail | [Read More](https://medium.com/p/5e2aaef36a9f) |
 | Mon, 20 Oct 2025 13:33:53 GMT | Stumbling block for AI: UTF-8 | Unicorn Developer | [Read More](https://medium.com/p/a3623544706e) |
 | Mon, 20 Oct 2025 13:29:31 GMT | 29 HTML Input Types Advanced | Rana Awais | [Read More](https://medium.com/p/efaab8636131) |
+| Mon, 20 Oct 2025 13:28:25 GMT | I Noticed Ads Were Controlling My Phone | Sabit | [Read More](https://medium.com/p/8e365a549874) |
 | Mon, 20 Oct 2025 13:25:49 GMT | What I Learned Today in Cybersecurity | GhostDefender | [Read More](https://medium.com/p/fe4f1cb97d82) |
 | Mon, 20 Oct 2025 13:22:58 GMT | 28 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/468530026b93) |
 | Mon, 20 Oct 2025 13:20:35 GMT | SSTI2 picoCTF | Samuel Jack | [Read More](https://medium.com/p/cc804b72de4e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 09:39:32 GMT | CYBER SECURITY CLASS ON 16TH OF OCTOBER, 2025. | Ukaakachi | [Read More](https://medium.com/p/78fc4644dd90) |
 | Mon, 20 Oct 2025 09:35:13 GMT | Dynatrace Platformunu CSPM ve VSPM ile Genişletin | Perform Yazılım | [Read More](https://medium.com/p/2387f1569593) |
 | Mon, 20 Oct 2025 09:34:29 GMT | MISC: QnQSec CTF 2025 — Catch Me | Rana chouchane - QU33NR | [Read More](https://medium.com/p/79541cb9a896) |
-| Mon, 20 Oct 2025 09:33:32 GMT | MISC : Hack.lu CTF 2025 — GISSNINGSLEK | Rana chouchane - QU33NR | [Read More](https://medium.com/p/926cb6af06f4) |
-| Mon, 20 Oct 2025 09:29:41 GMT | 2025’s Digital Shake-up: Inside the Software Development Playbook | Scopun | [Read More](https://medium.com/p/2a87d7697020) |
-| Mon, 20 Oct 2025 09:23:00 GMT | Every Bug I Ever Fixed Made Sense Only After I Understood These 7 Layers | The Latency Gambler | [Read More](https://medium.com/p/ebcae423399b) |
-| Mon, 20 Oct 2025 09:22:58 GMT | SOC 2 Type I vs Type II: Which One Do Your Customers Expect? | Hicomply | [Read More](https://medium.com/p/32c1c7c472fe) |
-| Mon, 20 Oct 2025 09:22:58 GMT | When Encryption Went Public: The Case of the Hardcoded Key | Devansh Patel | [Read More](https://medium.com/p/d711cdd836fb) |
-| Mon, 20 Oct 2025 06:57:57 GMT | Prompt Injection in LLMs: An In-Depth Technical Exploration | eXpl0it_32 | [Read More](https://medium.com/p/ea286ac4b8b5) |
