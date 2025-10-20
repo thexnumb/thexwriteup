@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 19:05:57 GMT | Cybersecurity Assurance for Free Market Participants using Cloud Services | Syamantak Saha | [Read More](https://medium.com/p/a0f97965c367) |
+| Mon, 20 Oct 2025 19:04:08 GMT | GraphQL IDOR Allows Unauthorized Revocation of Other Users’ Activation Tokens | Yasmeen Rezk | [Read More](https://medium.com/p/31e432b7bb6c) |
+| Mon, 20 Oct 2025 18:59:53 GMT | Why FinTech Trusts AI for 99% Secure Identities Revealed | Vikram Lingam | [Read More](https://medium.com/p/74cbb6c76439) |
+| Mon, 20 Oct 2025 18:17:58 GMT | ¿Y si el próximo correo de phishing lo escribe una IA? | Cyber-G | [Read More](https://medium.com/p/a5212e099234) |
+| Mon, 20 Oct 2025 16:06:01 GMT | EU AI Act Compliance: Your Practical Roadmap | Michael Hannecke | [Read More](https://medium.com/p/3fd9768f97ca) |
+| Mon, 20 Oct 2025 15:07:06 GMT | INE CTF Arena Round 18: Silent Footprint (Writeup) | n01rrr | [Read More](https://medium.com/p/5df80bdfecf3) |
+| Mon, 20 Oct 2025 14:37:44 GMT | Case Study Style: How a Small Business Cut Shadow IT and Security Incidents by 45% | Paul Meyer | [Read More](https://medium.com/p/6db444a6bdfa) |
+| Mon, 20 Oct 2025 14:28:44 GMT | 05 -Kali Linux- Execution: Where Access Becomes Action | SDNTechForum | [Read More](https://medium.com/p/1f46f92c4572) |
+| Mon, 20 Oct 2025 14:18:10 GMT | When Your Boss Calls (But It Might Be a Robot!): The Deepfake Threat | Technology EM3 | [Read More](https://medium.com/p/77699c91810c) |
+| Mon, 20 Oct 2025 14:17:12 GMT | Cyber Briefing: 2025.10.20 | CyberMaterial | [Read More](https://medium.com/p/b72c412f1290) |
+| Mon, 20 Oct 2025 14:17:12 GMT | The DevSecOps Principles That Actually Work in 2025 | Deval Kasundra | [Read More](https://medium.com/p/be50b7b426c5) |
+| Mon, 20 Oct 2025 14:17:10 GMT | The Feature Factory Trap: Why Your Features Are Eating Your Product’s Soul | William Meller | [Read More](https://medium.com/p/f954fa4905b3) |
+| Mon, 20 Oct 2025 14:14:11 GMT | OWASP ASVS v5: The Foundation of Minimum Application Security | Achmad Aris Setiawan | [Read More](https://medium.com/p/23c788645bda) |
+| Mon, 20 Oct 2025 14:10:48 GMT | The Cyber Security Labyrinth: Navigating the Threats | Cyber Security Research | [Read More](https://medium.com/p/896871cbe92c) |
+| Mon, 20 Oct 2025 14:10:39 GMT | Find Security Bugs Before Hackers Do — Static Code Analysis | Israel Aráoz Severiche | [Read More](https://medium.com/p/b26dcf0c515c) |
+| Mon, 20 Oct 2025 14:08:32 GMT | Mastering Practical Command Injection Exploitation and Detection: Step-by-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/0d0576d25139) |
+| Mon, 20 Oct 2025 14:02:37 GMT | Decoding Cyber Security: A Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/cd7d036638aa) |
+| Mon, 20 Oct 2025 14:02:25 GMT | HacktheBox: Access Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/4c4533932709) |
+| Mon, 20 Oct 2025 13:33:53 GMT | Stumbling block for AI: UTF-8 | Unicorn Developer | [Read More](https://medium.com/p/a3623544706e) |
 | Mon, 20 Oct 2025 13:29:31 GMT | 29 HTML Input Types Advanced | Rana Awais | [Read More](https://medium.com/p/efaab8636131) |
 | Mon, 20 Oct 2025 13:25:49 GMT | What I Learned Today in Cybersecurity | GhostDefender | [Read More](https://medium.com/p/fe4f1cb97d82) |
 | Mon, 20 Oct 2025 13:22:58 GMT | 28 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/468530026b93) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 09:22:58 GMT | SOC 2 Type I vs Type II: Which One Do Your Customers Expect? | Hicomply | [Read More](https://medium.com/p/32c1c7c472fe) |
 | Mon, 20 Oct 2025 09:22:58 GMT | When Encryption Went Public: The Case of the Hardcoded Key | Devansh Patel | [Read More](https://medium.com/p/d711cdd836fb) |
 | Mon, 20 Oct 2025 06:57:57 GMT | Prompt Injection in LLMs: An In-Depth Technical Exploration | eXpl0it_32 | [Read More](https://medium.com/p/ea286ac4b8b5) |
-| Mon, 20 Oct 2025 06:56:41 GMT | Understanding Where Windows Authentication Logs Actually Live — From AD to Entra ID | Dean | [Read More](https://medium.com/p/dd04417da961) |
-| Mon, 20 Oct 2025 06:50:43 GMT | Cara Menangkal Serangan dengan Cyber Security | Ivan Runa | [Read More](https://medium.com/p/c7a43472f0ca) |
-| Mon, 20 Oct 2025 06:43:12 GMT | The Advanced Python Techniques Every Cybersecurity Expert Should Master | Hex Shift | [Read More](https://medium.com/p/46a3c79e0290) |
-| Mon, 20 Oct 2025 06:34:54 GMT | Unfair Experience in a Bug Bounty Program | Juned Silavat | [Read More](https://medium.com/p/d00803899e3e) |
-| Mon, 20 Oct 2025 06:34:01 GMT | One of the most insightful moments during my cybersecurity training was exploring file hashing in… | Adeleke Theophilus O | [Read More](https://medium.com/p/1c56b4c03348) |
-| Mon, 20 Oct 2025 06:09:31 GMT | How a fake AI recruiter delivers five staged malware disguised as a dream job | Shantanu | [Read More](https://medium.com/p/64cc68fec263) |
-| Mon, 20 Oct 2025 06:04:09 GMT | 5 Simple Reasons to Start Using a VPN Today | Cloudbric VPN | [Read More](https://medium.com/p/abc0800aae3d) |
-| Mon, 20 Oct 2025 06:00:25 GMT | Umbrellas, Storms, and Cyber Risk: Why Threat Management Is Not Risk Management | Juan Pablo Castro | [Read More](https://medium.com/p/271ae734e068) |
-| Mon, 20 Oct 2025 05:55:52 GMT | Seven minutes @ Louvre | Erica Jayasundera | [Read More](https://medium.com/p/49b213a2287e) |
-| Mon, 20 Oct 2025 05:50:01 GMT | The PyPI Supply Chain Attacks of 2025: What Every Python Backend Engineer Should Learn from the… | Dilroop U S | [Read More](https://medium.com/p/875ba4568d10) |
-| Mon, 20 Oct 2025 05:28:33 GMT | The CoinDCX Hack: What Happened, How It Was Traced, and What Comes Next | Toastie | [Read More](https://medium.com/p/e27800476a20) |
-| Mon, 20 Oct 2025 05:26:43 GMT | Breaking the Web (Part 4): Broken Authentication & Session Management — When Login Fails Security | Mohammed Fahad | [Read More](https://medium.com/p/a0250ec327b7) |
-| Mon, 20 Oct 2025 05:25:39 GMT | Concrete5 to WordPress Migration: The Ultimate 2025 Guide for Seamless CMS Transition | Chris | [Read More](https://medium.com/p/6bc1d434b51c) |
-| Mon, 20 Oct 2025 05:02:52 GMT | SafeLink Nigeria: Building Safer Communities Through Real-Time Connection | Atiatunnasir | [Read More](https://medium.com/p/b59fab2325d1) |
-| Mon, 20 Oct 2025 04:56:25 GMT | Ransomware in a National Islamic Bank in Indonesia: Lessons from the 2023 Cyberattack That Still… | Sasono Utomo | [Read More](https://medium.com/p/767677670504) |
-| Mon, 20 Oct 2025 04:53:17 GMT | 001 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal Record… | Albert | [Read More](https://medium.com/p/03d23d468a80) |
-| Mon, 20 Oct 2025 04:45:23 GMT | Phishing Attack Impersonates Microsoft Using Azure Blob Storage | Aniket Sharma | [Read More](https://medium.com/p/27ee95dd33d1) |
-| Mon, 20 Oct 2025 04:26:41 GMT | The Blueprint for Automated Reconnaissance | Elian Stella Winbowder | [Read More](https://medium.com/p/537d7efcfcef) |
-| Mon, 20 Oct 2025 04:22:51 GMT | How Pre-Selling My Cybersecurity Course Saved Me Months of Work | Taimur Ijlal | [Read More](https://medium.com/p/2eb73c40b86e) |
