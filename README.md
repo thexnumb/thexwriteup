@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 10:35:05 GMT | The Daily Tech Digest: 21 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/325f46da22a7) |
+| Mon, 20 Oct 2025 10:34:54 GMT | One Region Hiccup Shouldn’t Silence Your Product | QA Bound | [Read More](https://medium.com/p/59d7233b033d) |
+| Mon, 20 Oct 2025 10:33:32 GMT | When Hackers Meet AI: The Rise of GOVERSHELL and the Fall of Human Phishing | Akshatdwivedi | [Read More](https://medium.com/p/97b013d30c32) |
+| Mon, 20 Oct 2025 10:32:59 GMT | Exploiting Exported Broadcast Receivers: Hands-On Guide | Raj Prasad Kuiri | [Read More](https://medium.com/p/64bd08d3d93f) |
+| Mon, 20 Oct 2025 10:32:39 GMT | LSB Steganography Explained — Hiding Secrets Inside Images (Simple Analogy) | Natarajan C K | [Read More](https://medium.com/p/7f532a0eeb6d) |
+| Mon, 20 Oct 2025 10:32:39 GMT | AI Meets Quantum: Building Unbreakable Post-Quantum Security | Brian N. Siegelwax | [Read More](https://medium.com/p/d81247da63ac) |
+| Mon, 20 Oct 2025 10:14:44 GMT | Privacy Sandbox Dead: Google’s Cookies Live Happily Ever After | Sachin      Verlekar | [Read More](https://medium.com/p/8b59615ea230) |
 | Mon, 20 Oct 2025 10:03:35 GMT | Digital Shield: Ushering in a New Era for Your Digital Assets with Military-Grade Security | Digital Shield | [Read More](https://medium.com/p/a71d31ae96e4) |
 | Mon, 20 Oct 2025 10:03:03 GMT | Understanding Blockchain Beyond Cryptocurrency 101 | Modern News | [Read More](https://medium.com/p/0e4d8f35dbef) |
 | Mon, 20 Oct 2025 10:01:01 GMT | DockerLabs Writeup — chmod-4755 (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9e5c84c9d6f7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 22:02:59 GMT | Identity: The War No One Admits We’re Fighting | TD | [Read More](https://medium.com/p/c23d278d22e1) |
 | Sun, 19 Oct 2025 21:45:32 GMT | Clandestine Nano-Drones Designed to Infiltrate Areas Undetected | z3r0trust | [Read More](https://medium.com/p/cf8cffc495a9) |
 | Sun, 19 Oct 2025 21:42:11 GMT | Want To Simplify Your Work Life? Use Zapier To Automate Your Work | YourSoftIgboGirl | [Read More](https://medium.com/p/87047c0818b7) |
-| Sun, 19 Oct 2025 21:27:08 GMT | The Future of Cybersecurity: Six Trends Shaping 2026 and Beyond | Richard Wilder | [Read More](https://medium.com/p/11739269bd5b) |
-| Sun, 19 Oct 2025 21:22:43 GMT | Bypassing WAF Rules in Cache Deception Attacks | Ibtissam hammadi | [Read More](https://medium.com/p/e17a02a402a9) |
-| Sun, 19 Oct 2025 21:12:57 GMT | Data Poisoning: How a Handful of Documents Can Corrupt the World’s Smartest AI | Martin Jordanovski | [Read More](https://medium.com/p/0690363229dd) |
-| Sun, 19 Oct 2025 21:02:09 GMT | Crypto-Agile by Design: Why the Future Belongs to Organisations That Plan, Not React | ExeQuantum | [Read More](https://medium.com/p/41f905b17662) |
-| Sun, 19 Oct 2025 20:57:07 GMT | Advanced API Vulnerability Discovery | Cybersecplayground | [Read More](https://medium.com/p/16d6fffacad4) |
-| Sun, 19 Oct 2025 20:57:00 GMT | Nexus Defender: a simple path to a reliable baseline on UNSW-NB15 | Helen Malatanti | [Read More](https://medium.com/p/fd9f1e2aee01) |
-| Sun, 19 Oct 2025 20:53:16 GMT | Spending one more day with them | Gordie Jackson | [Read More](https://medium.com/p/9c2081216354) |
