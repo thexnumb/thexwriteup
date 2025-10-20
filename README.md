@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 13:29:31 GMT | 29 HTML Input Types Advanced | Rana Awais | [Read More](https://medium.com/p/efaab8636131) |
+| Mon, 20 Oct 2025 13:25:49 GMT | What I Learned Today in Cybersecurity | GhostDefender | [Read More](https://medium.com/p/fe4f1cb97d82) |
+| Mon, 20 Oct 2025 13:22:58 GMT | 28 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/468530026b93) |
+| Mon, 20 Oct 2025 13:20:35 GMT | SSTI2 picoCTF | Samuel Jack | [Read More](https://medium.com/p/cc804b72de4e) |
+| Mon, 20 Oct 2025 13:17:01 GMT | AWS just reminded everyone what a single point of failure looks like | Electric Wolfe Marshmallow Hypertext | [Read More](https://medium.com/p/e0ca6c883eb4) |
+| Mon, 20 Oct 2025 13:17:01 GMT | I Find XSS Vulnerabilities With One Simple Line | Ibtissam hammadi | [Read More](https://medium.com/p/d3c3d1df3409) |
+| Mon, 20 Oct 2025 12:56:38 GMT | When Hackers Stop Breaking in and Start Walking in the Front Door | Tyson Martin | [Read More](https://medium.com/p/c0c865fbc58b) |
+| Mon, 20 Oct 2025 12:55:24 GMT | Bug Bounty 101: Top 10 Reconnaissance Tools | Netlas.io | [Read More](https://medium.com/p/70ecba86c5f3) |
+| Mon, 20 Oct 2025 12:51:50 GMT | 2026 Robotti AppSec Report | Jay Simmons | [Read More](https://medium.com/p/af9fcc7d30f7) |
+| Mon, 20 Oct 2025 12:49:30 GMT | Poem From Space Root-Me Write-UP | iIyas | [Read More](https://medium.com/p/ac5ec1a3bbdf) |
 | Mon, 20 Oct 2025 12:42:59 GMT | Global Internet Outage Sends Shockwaves as AWS Crashes: What Really Happened? | Mitchell "Banknote Mitch” Similton | [Read More](https://medium.com/p/9d051e10c059) |
 | Mon, 20 Oct 2025 12:42:23 GMT | Security-Hardened 3-Tier Cloud Architecture | Rahul Vala | [Read More](https://medium.com/p/1da50fc26686) |
 | Mon, 20 Oct 2025 12:41:01 GMT | My Journey — Cybersecurity 101 | A A | [Read More](https://medium.com/p/7c7e06ff8bae) |
@@ -93,6 +103,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 06:00:25 GMT | Umbrellas, Storms, and Cyber Risk: Why Threat Management Is Not Risk Management | Juan Pablo Castro | [Read More](https://medium.com/p/271ae734e068) |
 | Mon, 20 Oct 2025 05:55:52 GMT | Seven minutes @ Louvre | Erica Jayasundera | [Read More](https://medium.com/p/49b213a2287e) |
 | Mon, 20 Oct 2025 05:50:01 GMT | The PyPI Supply Chain Attacks of 2025: What Every Python Backend Engineer Should Learn from the… | Dilroop U S | [Read More](https://medium.com/p/875ba4568d10) |
+| Mon, 20 Oct 2025 05:28:33 GMT | The CoinDCX Hack: What Happened, How It Was Traced, and What Comes Next | Toastie | [Read More](https://medium.com/p/e27800476a20) |
 | Mon, 20 Oct 2025 05:26:43 GMT | Breaking the Web (Part 4): Broken Authentication & Session Management — When Login Fails Security | Mohammed Fahad | [Read More](https://medium.com/p/a0250ec327b7) |
 | Mon, 20 Oct 2025 05:25:39 GMT | Concrete5 to WordPress Migration: The Ultimate 2025 Guide for Seamless CMS Transition | Chris | [Read More](https://medium.com/p/6bc1d434b51c) |
 | Mon, 20 Oct 2025 05:02:52 GMT | SafeLink Nigeria: Building Safer Communities Through Real-Time Connection | Atiatunnasir | [Read More](https://medium.com/p/b59fab2325d1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 04:45:23 GMT | Phishing Attack Impersonates Microsoft Using Azure Blob Storage | Aniket Sharma | [Read More](https://medium.com/p/27ee95dd33d1) |
 | Mon, 20 Oct 2025 04:26:41 GMT | The Blueprint for Automated Reconnaissance | Elian Stella Winbowder | [Read More](https://medium.com/p/537d7efcfcef) |
 | Mon, 20 Oct 2025 04:22:51 GMT | How Pre-Selling My Cybersecurity Course Saved Me Months of Work | Taimur Ijlal | [Read More](https://medium.com/p/2eb73c40b86e) |
-| Mon, 20 Oct 2025 04:15:52 GMT | How I Conquered OSCP+ in 5 Months | Rahul Ravishankar | [Read More](https://medium.com/p/9670925caa88) |
-| Mon, 20 Oct 2025 03:54:35 GMT | Ancaman Phising di Dunia Digital | Anisaauralita | [Read More](https://medium.com/p/2dbacb9c11ea) |
-| Mon, 20 Oct 2025 03:48:30 GMT | Hacking for Good: How I Used ffuf to Secure a Government Website | DevProgramming | [Read More](https://medium.com/p/4386221a01e4) |
-| Mon, 20 Oct 2025 03:42:54 GMT | Is Your WhatsApp Safe? | Cyber-AppSec | [Read More](https://medium.com/p/5fa270e48538) |
-| Mon, 20 Oct 2025 03:35:03 GMT | Patch Management at Scale: Lessons from the Biggest Vulnerability Exploits | Aj | [Read More](https://medium.com/p/8b62a214ceec) |
-| Mon, 20 Oct 2025 03:34:50 GMT | Discord Breached: Hackers Demand $5,000,000 Ransom | Daniel Craciun | [Read More](https://medium.com/p/f94c76500477) |
-| Mon, 20 Oct 2025 03:34:26 GMT | Wireshark Demystified: A Beginner’s Step-by-Step Guide | Shahzaib | [Read More](https://medium.com/p/ca55596facfb) |
-| Mon, 20 Oct 2025 03:34:24 GMT | When “Deleted” Didn’t Mean Deleted For Instagram | The Abstract Engineer | [Read More](https://medium.com/p/85fcd0a69738) |
-| Mon, 20 Oct 2025 03:31:50 GMT | BQTlock Ransomware: A New Face in the RaaS Underworld | Deven Chhajed | [Read More](https://medium.com/p/d54f692d69fc) |
-| Mon, 20 Oct 2025 03:12:55 GMT | AI Security Startups — Watchlist | Tal Eliyahu | [Read More](https://medium.com/p/1c1f26424845) |
-| Mon, 20 Oct 2025 02:54:02 GMT | When Images Become Weapons: How Hackers Hide Code Inside Pictures | Kuldeepkumawat | [Read More](https://medium.com/p/cd5e192b69d1) |
