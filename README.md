@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 05:02:52 GMT | SafeLink Nigeria: Building Safer Communities Through Real-Time Connection | Atiatunnasir | [Read More](https://medium.com/p/b59fab2325d1) |
+| Mon, 20 Oct 2025 04:56:25 GMT | Ransomware in a National Islamic Bank in Indonesia: Lessons from the 2023 Cyberattack That Still… | Sasono Utomo | [Read More](https://medium.com/p/767677670504) |
+| Mon, 20 Oct 2025 04:53:17 GMT | 001 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal Record… | Albert | [Read More](https://medium.com/p/03d23d468a80) |
+| Mon, 20 Oct 2025 04:45:23 GMT | Phishing Attack Impersonates Microsoft Using Azure Blob Storage | Aniket Sharma | [Read More](https://medium.com/p/27ee95dd33d1) |
 | Mon, 20 Oct 2025 04:26:41 GMT | The Blueprint for Automated Reconnaissance | Elian Stella Winbowder | [Read More](https://medium.com/p/537d7efcfcef) |
 | Mon, 20 Oct 2025 04:22:51 GMT | How Pre-Selling My Cybersecurity Course Saved Me Months of Work | Taimur Ijlal | [Read More](https://medium.com/p/2eb73c40b86e) |
 | Mon, 20 Oct 2025 04:15:52 GMT | How I Conquered OSCP+ in 5 Months | Rahul Ravishankar | [Read More](https://medium.com/p/9670925caa88) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 17:04:04 GMT | Best Crypto Recovery Expert, Hire Ghost Mystery Recovery Hacker | Anthinywilson | [Read More](https://medium.com/p/4e95d5ec7c48) |
 | Sun, 19 Oct 2025 17:01:38 GMT | Part 2: Evolving into SRE & Cybersecurity | Karun Kumar | [Read More](https://medium.com/p/6b781553feec) |
 | Sun, 19 Oct 2025 16:52:49 GMT | Building the Gabriel’smind enterprise defense framework: From home lab to real-world readiness | Gabriel Santos | [Read More](https://medium.com/p/d602ba69147b) |
-| Sun, 19 Oct 2025 16:51:08 GMT | Windows takeover using EternelBlue exploit (CVE-2017–0144) | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/6e08a4a4c6f3) |
-| Sun, 19 Oct 2025 16:44:06 GMT | Sunday Funnies | Rebecca Trocki | [Read More](https://medium.com/p/9840ae868d94) |
-| Sun, 19 Oct 2025 16:36:18 GMT | The Linux Security Journey — EVM (Extended Verification Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1b06375516da) |
-| Sun, 19 Oct 2025 16:28:44 GMT | Siber Güvenliğe Giriş ve Temel Tehditlerin Analizi | Pelin Gülmez | [Read More](https://medium.com/p/75643ab6d7cd) |
