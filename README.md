@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 21:03:36 GMT | Let’s Get This Done: Implementing Secure File Sharing | Samirah A.O | [Read More](https://medium.com/p/143c73a756f4) |
+| Mon, 20 Oct 2025 21:02:16 GMT | “CRYPTO SECURITY 101: How to Protect Your Assets Like a Pro Trader” | Marcele De Cristo | [Read More](https://medium.com/p/6e2c71068368) |
+| Mon, 20 Oct 2025 21:01:34 GMT | Analyzing Web Application Attack Vectors: A Practical Guide | Simran Jeet Kaur | [Read More](https://medium.com/p/3f2ae22d802a) |
+| Mon, 20 Oct 2025 20:49:27 GMT | Hackviser  —  Insecure Direct Object References (IDOR) Labs | Omer Bawazir | [Read More](https://medium.com/p/54d44a5c32c2) |
+| Mon, 20 Oct 2025 20:44:30 GMT | The Complete Guide to Secure File Sharing | Samirah A.O | [Read More](https://medium.com/p/2f6fbdda8a1e) |
+| Mon, 20 Oct 2025 20:43:59 GMT | Criminal Legal Aid Cyber Essentials: What Changed in October 2025 | Paul Reynolds | [Read More](https://medium.com/p/78552d4f338a) |
 | Mon, 20 Oct 2025 20:39:08 GMT | Data Fusion with Python for Cybersecurity Professionals | Hex Shift | [Read More](https://medium.com/p/aab50adbd325) |
 | Mon, 20 Oct 2025 20:38:33 GMT | EDR XDR Nedir? | Emir KILIÇ | [Read More](https://medium.com/p/f08027c8bd9f) |
+| Mon, 20 Oct 2025 20:35:43 GMT | AI in Practice: Building an Analytics Hackathon Project | Ann Jackson | [Read More](https://medium.com/p/77acce50b59c) |
 | Mon, 20 Oct 2025 20:32:59 GMT | Requisitos ASFI 885/25: Cumplimiento y Seguridad | Israel Aráoz Severiche | [Read More](https://medium.com/p/9cd705e4b14d) |
 | Mon, 20 Oct 2025 20:32:41 GMT | Securing the Backbone: A Professional’s Guide to Network Layer (Layer 3) Security | Burak BALTA | [Read More](https://medium.com/p/8396d6b435d4) |
 | Mon, 20 Oct 2025 20:32:35 GMT | The Hidden Cost of Always Being “Too Nice” | Global Whirl of Wonders | [Read More](https://medium.com/p/872984b7392e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 11:02:34 GMT | When Green Energy Meets Cyber Risk: Why Microgrids and DERs Are the New Battleground | Brittney Ginther | [Read More](https://medium.com/p/cfcd844ff895) |
 | Mon, 20 Oct 2025 10:59:57 GMT | How I got Access to an Employee Only Portal — Bug Bounty | Jeosantos | [Read More](https://medium.com/p/3e1cbc940b4f) |
 | Mon, 20 Oct 2025 10:52:21 GMT | Embedded Security or Network Security? What is Best for your Device? | Epteck GmbH | [Read More](https://medium.com/p/f0afdfe0ced7) |
-| Mon, 20 Oct 2025 10:51:37 GMT | Poor Persis felt quite like a culprit before Mellicent’s attack | sami toor | [Read More](https://medium.com/p/1d732aa8b5e8) |
-| Mon, 20 Oct 2025 10:51:22 GMT | Coding: The Ignored Backbone of Hacking | Viratavi | [Read More](https://medium.com/p/01fa181b68f6) |
-| Mon, 20 Oct 2025 10:50:33 GMT | Stop Wasting Time! How Jupyter Notebooks Can Automate Your CTI Work | Adam Goss | [Read More](https://medium.com/p/198a1df96bbe) |
-| Mon, 20 Oct 2025 10:45:19 GMT | Behavioral Security Tips That Spot Abnormal PHP Requests | Asian Digital Hub | [Read More](https://medium.com/p/49b4584eeee1) |
-| Mon, 20 Oct 2025 10:42:37 GMT | KYLO: Week 2 — How My AI‑Powered Security Code Editor Helps You Ship Safely | Leon Musk | [Read More](https://medium.com/p/c2031dbd0ab2) |
-| Mon, 20 Oct 2025 10:35:05 GMT | The Daily Tech Digest: 21 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/325f46da22a7) |
-| Mon, 20 Oct 2025 10:34:54 GMT | One Region Hiccup Shouldn’t Silence Your Product | QA Bound | [Read More](https://medium.com/p/59d7233b033d) |
