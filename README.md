@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 05:26:43 GMT | Breaking the Web (Part 4): Broken Authentication & Session Management — When Login Fails Security | Mohammed Fahad | [Read More](https://medium.com/p/a0250ec327b7) |
+| Mon, 20 Oct 2025 05:25:39 GMT | Concrete5 to WordPress Migration: The Ultimate 2025 Guide for Seamless CMS Transition | Chris | [Read More](https://medium.com/p/6bc1d434b51c) |
 | Mon, 20 Oct 2025 05:02:52 GMT | SafeLink Nigeria: Building Safer Communities Through Real-Time Connection | Atiatunnasir | [Read More](https://medium.com/p/b59fab2325d1) |
 | Mon, 20 Oct 2025 04:56:25 GMT | Ransomware in a National Islamic Bank in Indonesia: Lessons from the 2023 Cyberattack That Still… | Sasono Utomo | [Read More](https://medium.com/p/767677670504) |
 | Mon, 20 Oct 2025 04:53:17 GMT | 001 AUTHENTIC PAYPAL DL PP ATM cloned cards Bank paypal Cashapp Wu CASH TRANSFERS Criminal Record… | Albert | [Read More](https://medium.com/p/03d23d468a80) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Oct 2025 17:19:08 GMT | How Did the “Vicar of Volgograd” Expose Russia’s Secrets? | Liam Brooks | [Read More](https://medium.com/p/a1accb6bcdff) |
 | Sun, 19 Oct 2025 17:10:36 GMT | Broken Access Control (BAC & IDOR): Understanding the Quiet Killer of Web App Security | Pirlo | [Read More](https://medium.com/p/5dc44dcf224b) |
 | Sun, 19 Oct 2025 17:04:04 GMT | Best Crypto Recovery Expert, Hire Ghost Mystery Recovery Hacker | Anthinywilson | [Read More](https://medium.com/p/4e95d5ec7c48) |
-| Sun, 19 Oct 2025 17:01:38 GMT | Part 2: Evolving into SRE & Cybersecurity | Karun Kumar | [Read More](https://medium.com/p/6b781553feec) |
-| Sun, 19 Oct 2025 16:52:49 GMT | Building the Gabriel’smind enterprise defense framework: From home lab to real-world readiness | Gabriel Santos | [Read More](https://medium.com/p/d602ba69147b) |
