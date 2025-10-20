@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Oct 2025 22:18:54 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/1dcc643088b3) |
+| Mon, 20 Oct 2025 22:11:58 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/80ffb5565219) |
 | Mon, 20 Oct 2025 22:10:45 GMT | Legal Briefs and Digital Breaches: | SinglePointGlobal | [Read More](https://medium.com/p/f6f3230e6f21) |
 | Mon, 20 Oct 2025 22:03:50 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/dd00cba653bc) |
 | Mon, 20 Oct 2025 22:03:13 GMT | Telkom Indonesia Turns Barriers into Breakthroughs: Training Persons with Disabilities to Become… | telkomsustainibility | [Read More](https://medium.com/p/2225910fb7ea) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 11:28:40 GMT | How I Tricked an AI Into Giving Me Everyone’s Credit Cards (And Batman’s Help) | Iski | [Read More](https://medium.com/p/c8b714ca294f) |
 | Mon, 20 Oct 2025 11:26:38 GMT | TryHackMe #138 - Splunk: Data Manipulation | SiberYuk | [Read More](https://medium.com/p/42c41d6e973f) |
 | Mon, 20 Oct 2025 11:21:50 GMT | TryHackMe #137 - Splunk: Dashboards and Reports | SiberYuk | [Read More](https://medium.com/p/540c10f31a0f) |
-| Mon, 20 Oct 2025 11:17:58 GMT | How to Control Access in AWS the Smart Way | Serxan Hamzayev | [Read More](https://medium.com/p/17c24c3850fd) |
-| Mon, 20 Oct 2025 11:17:07 GMT | TryHackMe #136 - Splunk: Setting up a SOC Lab | SiberYuk | [Read More](https://medium.com/p/d9c470631c94) |
