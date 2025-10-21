@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 20:16:42 GMT | Your AI Isn’t Smart. It’s Just Unsupervised. | Twinkle Jaineera | [Read More](https://medium.com/p/c69645e5322f) |
+| Tue, 21 Oct 2025 20:14:36 GMT | Decentralized Cyber Threat Intelligence: Community-Based Approaches for Global Threat Sharing | Deniz Topaloglu | [Read More](https://medium.com/p/4e721d87eb73) |
+| Tue, 21 Oct 2025 20:01:47 GMT | Rethinking the Economics of Cyber Resilience | Tahir Soomro | [Read More](https://medium.com/p/c47886163065) |
+| Tue, 21 Oct 2025 19:58:30 GMT | CRITICAL ALERT: CVE-2025–55315 | Cybersecplayground | [Read More](https://medium.com/p/15e03ed18174) |
+| Tue, 21 Oct 2025 19:51:40 GMT | INSIDE THE HACKERS PLAYBOOK: HOW NETWORK ATTACKS REALLY WORK. | Input-7 | [Read More](https://medium.com/p/af1f0b9bf0e8) |
+| Tue, 21 Oct 2025 19:49:35 GMT | Race Condition in Login Allows Lockout Bypass and Account Takeover | Abdelrahman Fathy | [Read More](https://medium.com/p/e602407cbb0b) |
+| Tue, 21 Oct 2025 19:48:24 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/4d6ce66f2ba9) |
+| Tue, 21 Oct 2025 19:44:08 GMT | The top 5 strategies for recovering money from cryptocurrency scams Hair Ghost Mystery Recovery… | Angeljosefina | [Read More](https://medium.com/p/4e140daa6e71) |
+| Tue, 21 Oct 2025 19:40:02 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/2ee5b1d20474) |
+| Tue, 21 Oct 2025 19:39:45 GMT | When the Internet Went Dark: Lessons from the AWS Outage That Shook the Digital World | Jervis Anthony Saldanha | [Read More](https://medium.com/p/1408e819cbfa) |
+| Tue, 21 Oct 2025 19:37:54 GMT | Bulut ortamlarında ölçülebilir, test edilebilir güvenlik için metodolojik rehber olarak FedRAMP… | Gizem Şahin | [Read More](https://medium.com/p/36b6e99dfe31) |
 | Tue, 21 Oct 2025 19:33:33 GMT | Episode 1: WannaCry, The Worm That Ate the World. | Santhosh | [Read More](https://medium.com/p/c1d137d99c7b) |
 | Tue, 21 Oct 2025 19:32:35 GMT | When Medium Died: The Day the Internet Stopped Writing | Pannag Kumaar | [Read More](https://medium.com/p/661a44b0a9cb) |
 | Tue, 21 Oct 2025 19:27:54 GMT | TYPES OF MALWARE | Input-7 | [Read More](https://medium.com/p/181d8d0d1bfa) |
@@ -53,6 +64,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 17:03:17 GMT | OpenWire Lab Writeup | Jaws | [Read More](https://medium.com/p/15f271089456) |
 | Tue, 21 Oct 2025 17:01:56 GMT | Stuck in a job that doesn’t pay what you’re worth? | Hachtechnology | [Read More](https://medium.com/p/b48677bcfd30) |
 | Tue, 21 Oct 2025 17:01:48 GMT | The Third Pillar of Performance: Why AI Security is the New Aerodynamics in F1™ | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/3e372db6f8a8) |
+| Tue, 21 Oct 2025 16:46:34 GMT | Cyber Security Deep Dive: Tactics, Techniques, and Procedures | Cyber Security Research | [Read More](https://medium.com/p/2e33e1ada9d5) |
 | Tue, 21 Oct 2025 16:44:56 GMT | How I Used Sequential IDs to Download an Entire Company’s User Database (And The Joker Helped) | Iski | [Read More](https://medium.com/p/2a8dd23127e6) |
 | Tue, 21 Oct 2025 16:43:36 GMT | This Is How I Find Reflected XSS In Bug Bounty | Rehan Sohail | [Read More](https://medium.com/p/7b42059a5d04) |
 | Tue, 21 Oct 2025 16:39:54 GMT | My experiments with OWASP Juice Shop: What I Hacked, What I Couldn’t, and What I Learned | Srividya Sundaravadivelu | [Read More](https://medium.com/p/c56b18804389) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 14:16:11 GMT | Pemahamam Source Code Xinu dan Panduan Penginstalan Sourcetrail | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/792d8dba1b2f) |
 | Tue, 21 Oct 2025 14:14:47 GMT | Sensitive Data Storage and Exposure | Jen Cracchiola | [Read More](https://medium.com/p/4349eba8d149) |
 | Tue, 21 Oct 2025 14:12:34 GMT | Putting it all together — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/8394eb12d06c) |
-| Tue, 21 Oct 2025 14:10:32 GMT | The Age of Simplicity: Why IT Should Empower, Not Overwhelm | SignalAge | [Read More](https://medium.com/p/43353d734715) |
-| Tue, 21 Oct 2025 14:03:58 GMT | Windows Defender for Business vs ESET PROTECT Business Comparison Guide | Cordula Boeck | [Read More](https://medium.com/p/4682bdaa6cdc) |
-| Tue, 21 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.21 | CyberMaterial | [Read More](https://medium.com/p/b4ed45f281ef) |
-| Tue, 21 Oct 2025 14:01:52 GMT | How to Extend the Garage Door Opener Range: Tips to Boost the Remote Signal | Up & Down Garage Door Services | [Read More](https://medium.com/p/8670509460e9) |
-| Tue, 21 Oct 2025 14:01:50 GMT | CrowdStrike, F5, and the Cadence Patch Gap: The Breach Era is Over — If We Choose to End It | Abatis ABTU | [Read More](https://medium.com/p/d3d722eeba11) |
-| Tue, 21 Oct 2025 14:01:50 GMT | AI SOC Agents: The Future of Cybersecurity Is Autonomous | Galent | [Read More](https://medium.com/p/0cbb208aa47b) |
-| Tue, 21 Oct 2025 13:59:59 GMT | Keycard: The Identity and Access Layer for AI Agents, Welcome to boldstart! | Ed Sim | [Read More](https://medium.com/p/f1944eb10f9f) |
-| Tue, 21 Oct 2025 13:58:28 GMT | The AI Bubble: Cross-Investments Inflate the Market | O Código Futuro | [Read More](https://medium.com/p/a059e8523829) |
-| Tue, 21 Oct 2025 13:58:19 GMT | Praktikum Internet of Things (Tugas): Komunikasi Serial | Muhammad Surya Saputro | [Read More](https://medium.com/p/60bb4979a9f4) |
-| Tue, 21 Oct 2025 13:57:58 GMT | Breach puh-lease! Use of proper logging and monitoring to avoid security breaches! | Jen Cracchiola | [Read More](https://medium.com/p/ec2b355b3aad) |
-| Tue, 21 Oct 2025 13:56:54 GMT | Praktikum Internet of Things: Komunikasi Serial | Muhammad Surya Saputro | [Read More](https://medium.com/p/1768888a5598) |
-| Tue, 21 Oct 2025 13:51:29 GMT | Windows Forensics 1 Challenge: How I Traced Suspicious Activity Using Registry Hives | Citadel Cybersec | [Read More](https://medium.com/p/ff7b14bec630) |
