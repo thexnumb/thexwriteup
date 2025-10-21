@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 17:32:51 GMT | Satellite Communications and Cybersecurity in the Cyber Warfare Era | David SEHYEON Baek | [Read More](https://medium.com/p/c9f0372a99e3) |
+| Tue, 21 Oct 2025 17:27:58 GMT | Dead-Drop Resolvers: Malware’s Quiet Rendezvous and Why Adaptive Defense Matters | Evan Powell | [Read More](https://medium.com/p/82c8faaf207c) |
+| Tue, 21 Oct 2025 17:25:38 GMT | Nmap Nedir? Ne İşe Yarar? Gerçekten Gerekli mi? | Mehmet Ali | [Read More](https://medium.com/p/213f43aad784) |
+| Tue, 21 Oct 2025 17:20:49 GMT | 4 Duvar, 1 Kalp | Nuri Sencer | [Read More](https://medium.com/p/377cc61cb74f) |
+| Tue, 21 Oct 2025 17:18:53 GMT | SCAM004: Uncovering An Ongoing Financial Heist | 0x0vid | [Read More](https://medium.com/p/a6ccc6af60f3) |
 | Tue, 21 Oct 2025 17:15:45 GMT | Today’s Cyber Security lecture Review (21/10/25) | patriokstar | [Read More](https://medium.com/p/b06a9e527e85) |
 | Tue, 21 Oct 2025 17:13:17 GMT | Linux Nedir? Dijital Dünyayı Şekillendiren Gizli Güç | Ahsecek | [Read More](https://medium.com/p/c208d3364f10) |
+| Tue, 21 Oct 2025 17:11:29 GMT | Asset Tagging in Vulnerability Scanners: The Smarter Way to Prioritize and Fix Security Risks | SafeAeon Inc. | [Read More](https://medium.com/p/d6b4e152a245) |
 | Tue, 21 Oct 2025 17:06:43 GMT | Cybersecurity Skills Gap and Workforce Development | Fospertise | [Read More](https://medium.com/p/667a7cb39b09) |
 | Tue, 21 Oct 2025 17:03:17 GMT | OpenWire Lab Writeup | Jaws | [Read More](https://medium.com/p/15f271089456) |
 | Tue, 21 Oct 2025 17:01:56 GMT | Stuck in a job that doesn’t pay what you’re worth? | Hachtechnology | [Read More](https://medium.com/p/b48677bcfd30) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 12:17:29 GMT | CYBER SECURITY CLASS REVIEW ON 20TH OF OCTOBER, 2025
 Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](https://medium.com/p/566bc8126775) |
 | Tue, 21 Oct 2025 12:16:50 GMT | Web3 Wallet Security Tips Everyone Should Know | TheBlock. | [Read More](https://medium.com/p/b70632050595) |
-| Tue, 21 Oct 2025 12:14:52 GMT | picoCTF Walkthrough: Hacking the “Power Cookie” Challenge | Dipti Vasani | [Read More](https://medium.com/p/7aab90662dda) |
-| Tue, 21 Oct 2025 12:06:56 GMT | COLDRIVER’s New “ROBOT” Wave: Google Reveals NOROBOT, YESROBOT and MAYBEROBOT — What Security… | Germano Costi | [Read More](https://medium.com/p/345419aac84f) |
-| Tue, 21 Oct 2025 12:02:51 GMT | WACH Mode: The Firewall for DeFi’s AI Future | PVMihalache | [Read More](https://medium.com/p/05d7cc1685a2) |
-| Tue, 21 Oct 2025 12:02:04 GMT | Can AI Be Hacked? The Scary Truth Behind Machine Learning Security | Zain Ahmad | [Read More](https://medium.com/p/4f57294360f9) |
-| Tue, 21 Oct 2025 11:52:47 GMT | Why Session Based Authentication Fails in Microservices Architecture | Adelaide | [Read More](https://medium.com/p/39b961eff37e) |
-| Tue, 21 Oct 2025 11:41:26 GMT | Amass 5.0.0 Usage for Recon | Marduk I Am | [Read More](https://medium.com/p/8041bc727480) |
