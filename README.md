@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 18:38:32 GMT | Unveiling the OSWP: A Wireless Journey to Success | D4rk5t47F | [Read More](https://medium.com/p/38689bea7611) |
+| Tue, 21 Oct 2025 18:35:28 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/89f5870e9eb3) |
+| Tue, 21 Oct 2025 18:35:23 GMT | Why 99% of Cold Emails to CISOs Fail — And What Actually Works | Deepak Gupta | [Read More](https://medium.com/p/0fd0a5778080) |
+| Tue, 21 Oct 2025 18:29:16 GMT | How XDR Security Protects Against Cyber Attacks: A Smarter Way to Detect, Respond, and Defend | SafeAeon Inc. | [Read More](https://medium.com/p/6f923b87ef5d) |
 | Tue, 21 Oct 2025 18:21:32 GMT | How to Tell If Your Phone Has Been Hacked: The Signs, the Fix, and the Prevention Plan | Malik | [Read More](https://medium.com/p/a431d40aa936) |
+| Tue, 21 Oct 2025 18:18:44 GMT | MDM Solutions Guide: Securing Mobile Devices in a Connected Workforce | SafeAeon Inc. | [Read More](https://medium.com/p/414cecf581c1) |
 | Tue, 21 Oct 2025 18:17:48 GMT | The Stuxnet Worm of the year 2010 was created by Eric van Sabben, a Dutch engineer. | Emenanjo Ndigwe | [Read More](https://medium.com/p/c35392b329d1) |
 | Tue, 21 Oct 2025 18:14:21 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/cbb6d388a370) |
 | Tue, 21 Oct 2025 18:11:04 GMT | When the AI Gets Phished: The Real Meaning of Prompt Injection | Silas Potter | [Read More](https://medium.com/p/61edc8597bfa) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 13:08:51 GMT | The Night the Gas Station Lights Went Out | Tec-Tel Communications | [Read More](https://medium.com/p/dfd0d18a7b43) |
 | Tue, 21 Oct 2025 13:07:54 GMT | Cyber Espresso Episode #38- The Essentials of Cyber Hygiene | BeamSec | [Read More](https://medium.com/p/1f088a5ba369) |
 | Tue, 21 Oct 2025 13:04:36 GMT | A Wake-Up Call for the Cloud-Dependent Enterprise | Garland Smith, Writer | [Read More](https://medium.com/p/cf3f2992e914) |
-| Tue, 21 Oct 2025 12:57:43 GMT | How I Used a Custom Regex Rule to Find Valid API Keys | Zaid Arif | [Read More](https://medium.com/p/ea89c78405bb) |
-| Tue, 21 Oct 2025 12:52:07 GMT | P vs NP in the Real World: How Drones Navigate the Traveling Salesman Problem Through Universal… | Berend Watchus | [Read More](https://medium.com/p/db3d2db71a10) |
-| Tue, 21 Oct 2025 12:49:06 GMT | Why I Write The Regenerative Transition | Erik Kvam | [Read More](https://medium.com/p/f1483c1cc0b6) |
-| Tue, 21 Oct 2025 12:48:06 GMT | Stop Blocking Hackers. Start Boring Them to Death Instead | Hassan Zreik | [Read More](https://medium.com/p/13c9bd6ef77c) |
-| Tue, 21 Oct 2025 12:46:23 GMT | A Truck from Mars, Built for Earth — And Failing at Both | Studiology | [Read More](https://medium.com/p/ed18baaaae20) |
