@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 20:35:25 GMT | Redefining Business Protection: The Rise of Integrated Security Systems | Fortnexs Shield | [Read More](https://medium.com/p/5feba784d920) |
+| Tue, 21 Oct 2025 20:32:25 GMT | La Crypto Night | Florent M | [Read More](https://medium.com/p/a6bcdb44e349) |
 | Tue, 21 Oct 2025 20:16:42 GMT | Your AI Isn’t Smart. It’s Just Unsupervised. | Twinkle Jaineera | [Read More](https://medium.com/p/c69645e5322f) |
 | Tue, 21 Oct 2025 20:14:36 GMT | Decentralized Cyber Threat Intelligence: Community-Based Approaches for Global Threat Sharing | Deniz Topaloglu | [Read More](https://medium.com/p/4e721d87eb73) |
 | Tue, 21 Oct 2025 20:01:47 GMT | Rethinking the Economics of Cyber Resilience | Tahir Soomro | [Read More](https://medium.com/p/c47886163065) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 14:22:23 GMT | Operation Aurora was a cyber attack which was done in China. | Emenanjo Ndigwe | [Read More](https://medium.com/p/39b6e6dc5c1e) |
 | Tue, 21 Oct 2025 14:22:05 GMT | Exploring True Smartphone Privacy: The Hidden Baseband and the Limits of Open-Source Freedom | Sham Karthik S | [Read More](https://medium.com/p/c41a9bffbb62) |
 | Tue, 21 Oct 2025 14:16:11 GMT | Pemahamam Source Code Xinu dan Panduan Penginstalan Sourcetrail | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/792d8dba1b2f) |
-| Tue, 21 Oct 2025 14:14:47 GMT | Sensitive Data Storage and Exposure | Jen Cracchiola | [Read More](https://medium.com/p/4349eba8d149) |
-| Tue, 21 Oct 2025 14:12:34 GMT | Putting it all together — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/8394eb12d06c) |
