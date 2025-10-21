@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 04:38:21 GMT | Management Resiko TI | Ferry Bastian Siagian | [Read More](https://medium.com/p/1ac92475940a) |
+| Tue, 21 Oct 2025 04:24:34 GMT | Thinking Like a Hacker: A Journey into Cybersecurity with TryHackMe | Salimassili | [Read More](https://medium.com/p/80e51f5d8324) |
 | Tue, 21 Oct 2025 04:19:05 GMT | The AI Compliance Hangover: When Innovation Outruns Regulation | Yash Gorasiya | [Read More](https://medium.com/p/cca1e9ebf06a) |
 | Tue, 21 Oct 2025 04:17:43 GMT | Sentinel to CrowdStrike Migration | Saikat Paul | [Read More](https://medium.com/p/018191c2081a) |
 | Tue, 21 Oct 2025 04:16:06 GMT | So, I Took a CIA Intelligence Test. | S.Ali | [Read More](https://medium.com/p/e5f689c17832) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 18:32:59 GMT | The Mental Toll of Online Fraud and How to Bounce Back | P.O Writes | [Read More](https://medium.com/p/7ead2440e2e9) |
 | Mon, 20 Oct 2025 18:17:58 GMT | ¿Y si el próximo correo de phishing lo escribe una IA? | Cyber-G | [Read More](https://medium.com/p/a5212e099234) |
 | Mon, 20 Oct 2025 16:06:01 GMT | EU AI Act Compliance: Your Practical Roadmap | Michael Hannecke | [Read More](https://medium.com/p/3fd9768f97ca) |
-| Mon, 20 Oct 2025 15:07:06 GMT | INE CTF Arena Round 18: Silent Footprint (Writeup) | n01rrr | [Read More](https://medium.com/p/5df80bdfecf3) |
-| Mon, 20 Oct 2025 14:37:44 GMT | Case Study Style: How a Small Business Cut Shadow IT and Security Incidents by 45% | Paul Meyer | [Read More](https://medium.com/p/6db444a6bdfa) |
