@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 16:24:42 GMT | How Not to Fail the Exam — lessons from my OSCP+ journey | Loki | [Read More](https://medium.com/p/3d951a3c9e0b) |
+| Tue, 21 Oct 2025 15:56:29 GMT | The Exec-Speak Decoder | Rajat Gupta | [Read More](https://medium.com/p/8c568d3479ab) |
+| Tue, 21 Oct 2025 15:53:29 GMT | How to Think Like a Defender and an Attacker: The Mindset You Need | Aj | [Read More](https://medium.com/p/c8271ed60791) |
+| Tue, 21 Oct 2025 15:50:51 GMT | When the Internet Had a Monday — AWS Outage + Atlanta Hero | Ai WanderingNut News and Blog and Cooking | [Read More](https://medium.com/p/6e6992c14cce) |
+| Tue, 21 Oct 2025 15:46:28 GMT | The Phishing Pond — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/22c32b7c209d) |
+| Tue, 21 Oct 2025 15:36:37 GMT | Common Mistakes — Real organizational failures that lead to breaches | Muhammed Anas | [Read More](https://medium.com/p/c1d6e9ab8b27) |
 | Tue, 21 Oct 2025 15:33:29 GMT | From Script Kiddie to Cyber Hero: Your Ultimate Beginner’s Guide to Ethical Hacking in 2025 | Mrsadiq | [Read More](https://medium.com/p/bdc9d7375692) |
 | Tue, 21 Oct 2025 15:25:05 GMT | EVERYTIME I ADDRESSED SOMETHING THAT BOTHERED ME I BECAME THE PROBLEM | Ola_Olayemii | [Read More](https://medium.com/p/4821b22f06dd) |
 | Tue, 21 Oct 2025 15:22:24 GMT | Broken Access Controls — Protect The Fortress! | Jen Cracchiola | [Read More](https://medium.com/p/62400f4d9f43) |
@@ -107,9 +113,3 @@ Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](ht
 | Tue, 21 Oct 2025 10:58:20 GMT | Inside the Mind of a Cybersecurity Specialist: How They Think Like Hackers to Stop Them | SmartCLOUD Australia | [Read More](https://medium.com/p/e2560fa1d43c) |
 | Tue, 21 Oct 2025 10:53:59 GMT | Digging Into DNS: How Misconfigured Records Led to a Subdomain Takeover | TheCyberKnight | [Read More](https://medium.com/p/13e77d49bd26) |
 | Tue, 21 Oct 2025 10:51:32 GMT | Why “Being Offline” Doesn’t Mean You’re Safe Anymore | Fateyaly | [Read More](https://medium.com/p/bd4bd539d82b) |
-| Tue, 21 Oct 2025 10:50:07 GMT | Network Services…-THM -Day -2 | Deepika  B | [Read More](https://medium.com/p/bbb29e300c00) |
-| Tue, 21 Oct 2025 10:42:01 GMT | How AI Saved My Website from a Hack — Without a Single Line of Code | CodeWriter | [Read More](https://medium.com/p/eb2d148fa980) |
-| Tue, 21 Oct 2025 10:41:15 GMT | Transparence et frictions : le miroir des relations entre femmes | Francoiseklock | [Read More](https://medium.com/p/76cf48154805) |
-| Tue, 21 Oct 2025 10:37:21 GMT | How to Do Reconnaissance Using Only Free Tools | TheCyberKnight | [Read More](https://medium.com/p/bb0909d4dfae) |
-| Tue, 21 Oct 2025 10:31:01 GMT | What Is a Confidence Score in Safe Browsing? Explained Simply with Real-Life Analogy | Natarajan C K | [Read More](https://medium.com/p/2599268323df) |
-| Tue, 21 Oct 2025 10:31:01 GMT | Killer Automation: The Hidden Cost of Trusting an Algorithm to Run Your Cybersecurity Operations | Isaac Muendo | [Read More](https://medium.com/p/9d6004f93efd) |
