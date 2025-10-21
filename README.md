@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 05:30:27 GMT | Bypassing Online Censorship in 2025: A Practical (and Safe) Guide | Bruzzese Roberto | [Read More](https://medium.com/p/039caccbf56e) |
+| Tue, 21 Oct 2025 05:22:30 GMT | You’re Not Just an Employee, You’re an Investment. Here’s How to Prove It. | Adaldino Sapi | [Read More](https://medium.com/p/e88d8b6d8e72) |
+| Tue, 21 Oct 2025 05:15:45 GMT | Strengthening Cybersecurity Expertise through CompTIA Security+ Certification Training | Manish Shetty | [Read More](https://medium.com/p/1ab642cd783a) |
+| Tue, 21 Oct 2025 05:14:46 GMT | Building an AI-native CI/CD pipeline: Generative AI for automated code review and security scanning | Naeem ul Haq | [Read More](https://medium.com/p/ea6ab8255616) |
 | Tue, 21 Oct 2025 05:14:34 GMT | From Vulnerability to Validation: How we fixed a Critical SSRF bug before it hit production | Sefriano Edsel | [Read More](https://medium.com/p/9cf90ca6d4b1) |
+| Tue, 21 Oct 2025 05:14:06 GMT | The Ultimate SaaS Agreement Checklist: What Startups Need to Know. | Hansen Tong | [Read More](https://medium.com/p/9649152bd726) |
 | Tue, 21 Oct 2025 04:57:35 GMT | When the Cloud Falls: Why Invisible Dependencies Are the New Leadership Liability | Moiz Kothari | [Read More](https://medium.com/p/b67ac27dd8e2) |
 | Tue, 21 Oct 2025 04:53:39 GMT | THC Hydra: A Practical Overview for Security Professionals | Abhinsubej | [Read More](https://medium.com/p/de7c8dc64b7e) |
 | Tue, 21 Oct 2025 04:42:35 GMT | Analisis Risiko Kebocoran Data di Universitas: Kasus Columbia University | Santo Martogi Simangunsong | [Read More](https://medium.com/p/636a5150ca75) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 19:41:38 GMT | Day 15 of my Cybersecurity Journey: Networking Core Protocols II | Ogundipe Priscilla | [Read More](https://medium.com/p/899192a45994) |
 | Mon, 20 Oct 2025 19:39:23 GMT | CYBER SECURITY CLASS REVIEW ON 17TH OF OCTOBER, 2025. | Ukaakachi | [Read More](https://medium.com/p/bb4831b2b9f7) |
 | Mon, 20 Oct 2025 19:39:10 GMT | [ SOC Alert => Malicious Macro has been executed ] by LetsDefend / EventID: 231 | EduKayky | [Read More](https://medium.com/p/6227f1559388) |
-| Mon, 20 Oct 2025 19:37:53 GMT | When your math fails in a subtle way — Mellow@Sherlock 07/2025 | lodelux | [Read More](https://medium.com/p/d028852f3646) |
-| Mon, 20 Oct 2025 19:30:20 GMT | CyberDefenders: Job Trap Lab | Jackie Huang | [Read More](https://medium.com/p/8410dfd30d7a) |
-| Mon, 20 Oct 2025 19:29:27 GMT | Disaster Recovery for Start-ups in AWS | Johan Åkesson | [Read More](https://medium.com/p/0d0e9c550304) |
-| Mon, 20 Oct 2025 19:24:10 GMT | How MSPs Can Boost Recurring Revenue with Self-Contained Network Security | CacheGuard Technologies | [Read More](https://medium.com/p/a66b5e8ea230) |
-| Mon, 20 Oct 2025 19:05:57 GMT | Cybersecurity Assurance for Free Market Participants using Cloud Services | Syamantak Saha | [Read More](https://medium.com/p/a0f97965c367) |
