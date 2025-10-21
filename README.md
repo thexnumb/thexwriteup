@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 10:37:21 GMT | How to Do Reconnaissance Using Only Free Tools | TheCyberKnight | [Read More](https://medium.com/p/bb0909d4dfae) |
+| Tue, 21 Oct 2025 10:31:01 GMT | What Is a Confidence Score in Safe Browsing? Explained Simply with Real-Life Analogy | Natarajan C K | [Read More](https://medium.com/p/2599268323df) |
+| Tue, 21 Oct 2025 10:31:01 GMT | Killer Automation: The Hidden Cost of Trusting an Algorithm to Run Your Cybersecurity Operations | Isaac Muendo | [Read More](https://medium.com/p/9d6004f93efd) |
+| Tue, 21 Oct 2025 10:24:09 GMT | The Truth About Hacking - AI | Shahzaib | [Read More](https://medium.com/p/df8328e2e055) |
+| Tue, 21 Oct 2025 10:20:17 GMT | Cloud Security with IAM Access control | John Elvis | [Read More](https://medium.com/p/183f55d0a453) |
 | Tue, 21 Oct 2025 10:19:11 GMT | Verifiable Security, Within Reach: How Digital Shield Makes EAL6+ Military-Grade Protection a… | Digital Shield | [Read More](https://medium.com/p/6ba77d72b608) |
+| Tue, 21 Oct 2025 10:19:01 GMT | TheHackersLabs — LavaShop [WriteUp] | APS88 | [Read More](https://medium.com/p/f3b0a221ca3a) |
 | Tue, 21 Oct 2025 10:17:40 GMT | Rebuilding the Path of Trust: From “Black Box” Cold Wallets to Verifiable Sovereign Nodes | Digital Shield | [Read More](https://medium.com/p/e56059f1ccc6) |
+| Tue, 21 Oct 2025 10:16:07 GMT | Vecchio ma prezioso: | Hacksignals | [Read More](https://medium.com/p/fda90782d6c0) |
+| Tue, 21 Oct 2025 10:13:22 GMT | Today’s Top Cyber Intelligence Highlights — Oct 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f022ca8fb76a) |
 | Tue, 21 Oct 2025 10:05:37 GMT | The Social Side of Cybercrime: The Dangers of Social Engineering for Young People | Girls Into Coding | [Read More](https://medium.com/p/f422199fd559) |
 | Tue, 21 Oct 2025 10:01:33 GMT | Writer’s | Deborah Ogbadu | [Read More](https://medium.com/p/263e8f143fbc) |
 | Tue, 21 Oct 2025 09:56:51 GMT | REVIEW OF CYBERSEC LECTURE 20-10-2025 | Chimee Anthony | [Read More](https://medium.com/p/a863dd59a5da) |
@@ -31,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 09:32:38 GMT | Handling Cross-Origin Resource Sharing (CORS) Issues in S3 | Adekola Olawale | [Read More](https://medium.com/p/3ea209b45926) |
 | Tue, 21 Oct 2025 09:32:22 GMT | I found a CRITICAL IDOR during a real-world pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/1554ba374afc) |
 | Tue, 21 Oct 2025 09:27:02 GMT | 5 Career-Limiting Mistakes Every Entry-Level Cybersecurity Professional Must Avoid | Andrew Keitany | [Read More](https://medium.com/p/11b500f0f00a) |
+| Tue, 21 Oct 2025 09:10:30 GMT | 資訊安全，不只是 IT 的問題 | MichaelXiao | [Read More](https://medium.com/p/913f9c8f023b) |
 | Tue, 21 Oct 2025 09:09:51 GMT | The Hidden Link Between Business Continuity and Cybersecurity | RealTyme | [Read More](https://medium.com/p/b779b93dfae2) |
 | Tue, 21 Oct 2025 09:01:52 GMT | Why Businesses Don’t Use E2EE (And Why That’s a Problem) | estrosec | [Read More](https://medium.com/p/e688c17a433e) |
 | Tue, 21 Oct 2025 08:55:34 GMT | NOT ALL DATA ARE INTELLIGENT: THE IMPORTANCE OF CTI. | Joanorifha | [Read More](https://medium.com/p/e152014ff43e) |
@@ -104,12 +113,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 03:42:38 GMT | 에이전틱 보안에 대한 서베이: 애플리케이션, 위협 및 방어 (A Survey on Agentic Security: Applications, Threats and Defenses) | YouShin kim | [Read More](https://medium.com/p/f3240d4fa891) |
 | Tue, 21 Oct 2025 03:31:48 GMT | Lumma and the Ghost Network: Inside the Malware That Turns Victims into Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/4c16610ca709) |
 | Tue, 21 Oct 2025 03:15:49 GMT | Tải Hack Talking Tom Gold Run Apk (Full Skin, Full Tiền) | BANDISHARE | [Read More](https://medium.com/p/8636dcb1cb71) |
-| Tue, 21 Oct 2025 03:03:44 GMT | How GPS Tracking Technology Is Revolutionizing Motorcycle Security and Recovery | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/0315a1cb7533) |
-| Tue, 21 Oct 2025 03:01:12 GMT | GroundWorm - HackTheBox | Corey Farley | [Read More](https://medium.com/p/75af43db1f00) |
-| Tue, 21 Oct 2025 02:40:16 GMT | Solving the “Chicken-and-Egg” Problem in AWS KMS | Jim O'Neil | [Read More](https://medium.com/p/9961904c6af2) |
-| Tue, 21 Oct 2025 02:22:25 GMT | Why Culture Matters More Than the Latest Technologies in Cybersecurity | Paul Friend | [Read More](https://medium.com/p/ea7721be4282) |
-| Tue, 21 Oct 2025 02:20:36 GMT | Hackviser - Comicstore | Tolga Can | [Read More](https://medium.com/p/64843e9e647d) |
-| Tue, 21 Oct 2025 02:07:39 GMT | Week 14 — Understanding Redux & Fingerprinting Bundlers | Aang | [Read More](https://medium.com/p/cdba4a83fc7e) |
-| Tue, 21 Oct 2025 02:03:29 GMT | The Weight of Being the Constant… | Kira :) | [Read More](https://medium.com/p/f2c5805d6041) |
-| Tue, 21 Oct 2025 02:01:08 GMT | Tracing the SpaceY Dump (2025 Remix) | Chrissa Constantine (a.k.a. T3mp3st) | [Read More](https://medium.com/p/3c86f52ad704) |
-| Tue, 21 Oct 2025 01:57:45 GMT | Exploring Emerging Trends: Lucrative Tech Business Opportunities in Sustainable Energy Solutions | Chiro Adsmedia | [Read More](https://medium.com/p/5746d1ba5a45) |
