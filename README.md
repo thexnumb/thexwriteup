@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 07:33:32 GMT | OWASP Top 10-writeup and answers | Pallavi Kathait | [Read More](https://medium.com/p/0a44fa55eacf) |
+| Tue, 21 Oct 2025 07:22:17 GMT | DIVONTRIX - STRATEGIC TECHNOLOGY PARTNER | Divontrix | [Read More](https://medium.com/p/24024b3d40cf) |
+| Tue, 21 Oct 2025 07:11:49 GMT | Beware of Fake Job Scams! A personal story of how I almost got scammed | myriam munezero | [Read More](https://medium.com/p/0f7db17f56c1) |
 | Tue, 21 Oct 2025 07:05:51 GMT | Purple Notes - Atomic Nature of Purple Teaming | Mahdi Hamedani | [Read More](https://medium.com/p/b5e0f0eb0a5a) |
 | Tue, 21 Oct 2025 07:02:56 GMT | SUMMARY OF MY CYBERSECURITY CLASS ON  PASSWORD AND WI-FI Attack. | Joshua Frankcharles U | [Read More](https://medium.com/p/5880f78ee909) |
 | Tue, 21 Oct 2025 07:02:53 GMT | Scalable IT Support in Streatham for SMEs | Gary Marshall | [Read More](https://medium.com/p/614f0446fbbe) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 21:38:43 GMT | The Difference Between IOCs and TTPs | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/9ba1f0eee414) |
 | Mon, 20 Oct 2025 21:29:57 GMT | Top 11 cyber stories (Week: Oct 13 — Oct 19, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/e88b9c38fa43) |
 | Mon, 20 Oct 2025 21:27:10 GMT | An Open Letter to Tech Infrastructures and Businesses: What the AWS Outage Just Taught Us About… | Pitt Tech | [Read More](https://medium.com/p/2c590a030b9f) |
-| Mon, 20 Oct 2025 21:24:41 GMT | If Only You Had Got it Right With Me | Vandana Mokaria | [Read More](https://medium.com/p/5d9c8dfe76b0) |
-| Mon, 20 Oct 2025 21:03:36 GMT | Let’s Get This Done: Implementing Secure File Sharing | Samirah A.O | [Read More](https://medium.com/p/143c73a756f4) |
-| Mon, 20 Oct 2025 21:02:16 GMT | “CRYPTO SECURITY 101: How to Protect Your Assets Like a Pro Trader” | Marcele De Cristo | [Read More](https://medium.com/p/6e2c71068368) |
