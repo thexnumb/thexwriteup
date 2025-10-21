@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 08:13:57 GMT | The Daily Tech Digest: 21 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ffd54e72bbd0) |
+| Tue, 21 Oct 2025 08:12:55 GMT | Transforming General-Purpose LLMs into Cyber security Experts: 5 Key Techniques | Mehdi | [Read More](https://medium.com/p/1edf4e3132bd) |
+| Tue, 21 Oct 2025 08:12:50 GMT | Finding the right DMARC monitoring tool: A practical guide for security teams | Red Sift | [Read More](https://medium.com/p/e1723a05f4bb) |
+| Tue, 21 Oct 2025 08:11:13 GMT | how to get stored xss via file upload or via uploading the profile pic | 0x00Al-sabbah | [Read More](https://medium.com/p/29e8d12cff85) |
+| Tue, 21 Oct 2025 08:06:22 GMT | Is Defense in Depth still relevant? | Suhashini Somasundaram | [Read More](https://medium.com/p/7e0e1ac9f2cb) |
+| Tue, 21 Oct 2025 07:59:15 GMT | Who’s Trying to Hack You? Understanding Cybersecurity Threat Actors | MayhemCode | [Read More](https://medium.com/p/b3ae843ecbb1) |
+| Tue, 21 Oct 2025 07:48:23 GMT | The Silent Backbone of MLM Success: Why Data Security Can’t Be Ignored | Global MLM Software | [Read More](https://medium.com/p/49311c71fba1) |
+| Tue, 21 Oct 2025 07:44:16 GMT | How Scammers Hack the Human Mind: The Psychology of Deception | NIkhil Kumar | [Read More](https://medium.com/p/8726cda33311) |
+| Tue, 21 Oct 2025 07:43:21 GMT | Google Promises a Cybersecurity Job After This Certificate — But Is It Real? | Christopher Ryan | [Read More](https://medium.com/p/8e2aaa2ecf30) |
+| Tue, 21 Oct 2025 07:38:59 GMT | Throwing The TEE Gauntlet — A Turnabout Security Challenge | Arnab Kar (DC) | [Read More](https://medium.com/p/fdc444aafe91) |
 | Tue, 21 Oct 2025 07:33:32 GMT | OWASP Top 10-writeup and answers | Pallavi Kathait | [Read More](https://medium.com/p/0a44fa55eacf) |
+| Tue, 21 Oct 2025 07:28:41 GMT | Is the Move Language Secure? The Typus Permission-Validation Vulnerability | SlowMist | [Read More](https://medium.com/p/755a5175f7c3) |
 | Tue, 21 Oct 2025 07:22:17 GMT | DIVONTRIX - STRATEGIC TECHNOLOGY PARTNER | Divontrix | [Read More](https://medium.com/p/24024b3d40cf) |
 | Tue, 21 Oct 2025 07:11:49 GMT | Beware of Fake Job Scams! A personal story of how I almost got scammed | myriam munezero | [Read More](https://medium.com/p/0f7db17f56c1) |
 | Tue, 21 Oct 2025 07:05:51 GMT | Purple Notes - Atomic Nature of Purple Teaming | Mahdi Hamedani | [Read More](https://medium.com/p/b5e0f0eb0a5a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 22:11:58 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/80ffb5565219) |
 | Mon, 20 Oct 2025 22:10:45 GMT | Legal Briefs and Digital Breaches: | SinglePointGlobal | [Read More](https://medium.com/p/f6f3230e6f21) |
 | Mon, 20 Oct 2025 22:03:50 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/dd00cba653bc) |
-| Mon, 20 Oct 2025 22:03:13 GMT | Telkom Indonesia Turns Barriers into Breakthroughs: Training Persons with Disabilities to Become… | telkomsustainibility | [Read More](https://medium.com/p/2225910fb7ea) |
-| Mon, 20 Oct 2025 22:02:39 GMT | The Anatomy of a Cyberattack | Samirah A.O | [Read More](https://medium.com/p/3a5b1eb93c96) |
-| Mon, 20 Oct 2025 21:58:19 GMT | LWC: Lightning Web Cooking. | Adil Anwar | [Read More](https://medium.com/p/cdf34439d172) |
-| Mon, 20 Oct 2025 21:51:15 GMT | How to Install Windows 11 on an Unsupported Machine (Without Losing Your Mind) | Nourddin Batis | [Read More](https://medium.com/p/0dfe2547b7d1) |
-| Mon, 20 Oct 2025 21:49:33 GMT | My USB Lies to Me (And So Does Yours) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0603424ac9b2) |
-| Mon, 20 Oct 2025 21:46:04 GMT | What is an SSL certificate and how does it work? | GREENLIGHTS DIGITAL | [Read More](https://medium.com/p/08e79414a8d3) |
-| Mon, 20 Oct 2025 21:45:30 GMT | Exposing the Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/9fd936d10689) |
-| Mon, 20 Oct 2025 21:44:21 GMT | How AI Agents Are Closing the Software Security Testing Gap | Valdez Ladd | [Read More](https://medium.com/p/4ffb1f2fe6a9) |
-| Mon, 20 Oct 2025 21:38:43 GMT | The Difference Between IOCs and TTPs | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/9ba1f0eee414) |
-| Mon, 20 Oct 2025 21:29:57 GMT | Top 11 cyber stories (Week: Oct 13 — Oct 19, 2025) | Rohitkumar Jha | [Read More](https://medium.com/p/e88b9c38fa43) |
-| Mon, 20 Oct 2025 21:27:10 GMT | An Open Letter to Tech Infrastructures and Businesses: What the AWS Outage Just Taught Us About… | Pitt Tech | [Read More](https://medium.com/p/2c590a030b9f) |
