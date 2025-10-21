@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 19:33:33 GMT | Episode 1: WannaCry, The Worm That Ate the World. | Santhosh | [Read More](https://medium.com/p/c1d137d99c7b) |
+| Tue, 21 Oct 2025 19:32:35 GMT | When Medium Died: The Day the Internet Stopped Writing | Pannag Kumaar | [Read More](https://medium.com/p/661a44b0a9cb) |
+| Tue, 21 Oct 2025 19:27:54 GMT | TYPES OF MALWARE | Input-7 | [Read More](https://medium.com/p/181d8d0d1bfa) |
+| Tue, 21 Oct 2025 19:26:41 GMT | Course: Excellence and Innovation Leader for Managers Security and Safety | Rana El Garhi | [Read More](https://medium.com/p/cf6a451cc388) |
+| Tue, 21 Oct 2025 19:19:50 GMT | BehindTheScreens: When the Cloud Crashed — What the AWS Outage Reveals About the Internet’s… | Sam - Behind The Screens | [Read More](https://medium.com/p/d3a511558313) |
+| Tue, 21 Oct 2025 19:18:13 GMT | Cybersecurity | Lisaayu | [Read More](https://medium.com/p/8be2e5cccf8b) |
+| Tue, 21 Oct 2025 19:17:01 GMT | The PAM Exploit Paradox: Unpacking the Duality of Pluggable Authentication Modules ️ | Esra Kayhan | [Read More](https://medium.com/p/4d49be7d2f0d) |
 | Tue, 21 Oct 2025 19:10:03 GMT | TAKE HOME FROM MY FIRST LECTURE IN CYBER SECURITY. | Input-7 | [Read More](https://medium.com/p/6aaed88adcbb) |
+| Tue, 21 Oct 2025 19:08:35 GMT | How to Ensure Cybersecurity While Developing Artificial Intelligence ️ | Lumae | [Read More](https://medium.com/p/c28fba56d6eb) |
 | Tue, 21 Oct 2025 19:04:25 GMT | Pickle Rick | Aderogbarufai | [Read More](https://medium.com/p/e8e8a5c6df21) |
 | Tue, 21 Oct 2025 18:58:45 GMT | The Real Power of Vulnerability | Kerem Eroglu | [Read More](https://medium.com/p/a712748c84e9) |
 | Tue, 21 Oct 2025 18:52:24 GMT | Understanding the OWASP Top 10: The Most Common Web Application Security Risks | Adebowale Adetunji | [Read More](https://medium.com/p/e11251bf78df) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 13:57:58 GMT | Breach puh-lease! Use of proper logging and monitoring to avoid security breaches! | Jen Cracchiola | [Read More](https://medium.com/p/ec2b355b3aad) |
 | Tue, 21 Oct 2025 13:56:54 GMT | Praktikum Internet of Things: Komunikasi Serial | Muhammad Surya Saputro | [Read More](https://medium.com/p/1768888a5598) |
 | Tue, 21 Oct 2025 13:51:29 GMT | Windows Forensics 1 Challenge: How I Traced Suspicious Activity Using Registry Hives | Citadel Cybersec | [Read More](https://medium.com/p/ff7b14bec630) |
-| Tue, 21 Oct 2025 13:51:04 GMT | Inside the Anatomy of a Scam: Basic Hunting Skills | Shami Sushant | [Read More](https://medium.com/p/4ef2d0bfb8e3) |
-| Tue, 21 Oct 2025 13:45:25 GMT | When Messaging Went Dark During the AWS Outage | RealTyme | [Read More](https://medium.com/p/60beb04b05dc) |
-| Tue, 21 Oct 2025 13:38:30 GMT | RAG Poisoning: How easy is it & how to protect against it | Charles Anthony Browne | [Read More](https://medium.com/p/f5a834718874) |
-| Tue, 21 Oct 2025 13:35:42 GMT | eJPT — 3.4 CTF 3 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/09c3e0fbdb4c) |
-| Tue, 21 Oct 2025 13:35:36 GMT | HTB Sense (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/bc90acb92452) |
-| Tue, 21 Oct 2025 13:31:52 GMT | The Hidden Latency Cost of API Gateways Nobody Mentions | Noah Byteforge | [Read More](https://medium.com/p/2efe8bbe3119) |
-| Tue, 21 Oct 2025 13:27:47 GMT | How Machine Learning Is Changing Everyday Technology | Skillzverse Marketing | [Read More](https://medium.com/p/1fc2fa3c8408) |
-| Tue, 21 Oct 2025 13:26:00 GMT | I Stopped Pretending to Have It All Together. My Life Got Messier — And So Much Better. | NuminousLogic | [Read More](https://medium.com/p/32a3162cc361) |
