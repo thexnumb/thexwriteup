@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 13:27:47 GMT | How Machine Learning Is Changing Everyday Technology | Skillzverse Marketing | [Read More](https://medium.com/p/1fc2fa3c8408) |
+| Tue, 21 Oct 2025 13:10:13 GMT | No One’s Watching the Night Desk | Tec-Tel Communications | [Read More](https://medium.com/p/37263ca8db92) |
+| Tue, 21 Oct 2025 13:08:51 GMT | The Night the Gas Station Lights Went Out | Tec-Tel Communications | [Read More](https://medium.com/p/dfd0d18a7b43) |
+| Tue, 21 Oct 2025 13:07:54 GMT | Cyber Espresso Episode #38- The Essentials of Cyber Hygiene | BeamSec | [Read More](https://medium.com/p/1f088a5ba369) |
+| Tue, 21 Oct 2025 13:04:36 GMT | A Wake-Up Call for the Cloud-Dependent Enterprise | Garland Smith, Writer | [Read More](https://medium.com/p/cf3f2992e914) |
+| Tue, 21 Oct 2025 12:57:43 GMT | How I Used a Custom Regex Rule to Find Valid API Keys | Zaid Arif | [Read More](https://medium.com/p/ea89c78405bb) |
+| Tue, 21 Oct 2025 12:52:07 GMT | P vs NP in the Real World: How Drones Navigate the Traveling Salesman Problem Through Universal… | Berend Watchus | [Read More](https://medium.com/p/db3d2db71a10) |
+| Tue, 21 Oct 2025 12:49:06 GMT | Why I Write The Regenerative Transition | Erik Kvam | [Read More](https://medium.com/p/f1483c1cc0b6) |
+| Tue, 21 Oct 2025 12:48:06 GMT | Stop Blocking Hackers. Start Boring Them to Death Instead | Hassan Zreik | [Read More](https://medium.com/p/13c9bd6ef77c) |
+| Tue, 21 Oct 2025 12:46:23 GMT | A Truck from Mars, Built for Earth — And Failing at Both | Studiology | [Read More](https://medium.com/p/ed18baaaae20) |
+| Tue, 21 Oct 2025 12:43:58 GMT | Why We’re Still in the Bronze Age of AI in Cybersecurity | Oliver Rochford | [Read More](https://medium.com/p/4cde0dae7e63) |
 | Tue, 21 Oct 2025 12:41:48 GMT | Custom Security Policies with Linux Security Modules (LSM) | Esra Kayhan | [Read More](https://medium.com/p/65a2a994917a) |
+| Tue, 21 Oct 2025 12:40:46 GMT | HackPark — TryHackMe Walktrhough | Death Esther | [Read More](https://medium.com/p/bb67d70fecc7) |
 | Tue, 21 Oct 2025 12:37:49 GMT | You Don’t Need To Be Understood To Be Worth Loving | AlfredSamuel | [Read More](https://medium.com/p/4e33528a4461) |
 | Tue, 21 Oct 2025 12:37:35 GMT | Active Directory 101: An Introduction to Active Directory | Rana chouchane - QU33NR | [Read More](https://medium.com/p/91fccd1bff4f) |
 | Tue, 21 Oct 2025 12:36:15 GMT | The Shocking Truth: Your Phishing Training Isn’t Working | Yatin | [Read More](https://medium.com/p/6b034a6bebba) |
@@ -102,15 +114,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 07:44:16 GMT | How Scammers Hack the Human Mind: The Psychology of Deception | NIkhil Kumar | [Read More](https://medium.com/p/8726cda33311) |
 | Tue, 21 Oct 2025 07:43:21 GMT | Google Promises a Cybersecurity Job After This Certificate — But Is It Real? | Christopher Ryan | [Read More](https://medium.com/p/8e2aaa2ecf30) |
 | Tue, 21 Oct 2025 07:38:59 GMT | Throwing The TEE Gauntlet — A Turnabout Security Challenge | Arnab Kar (DC) | [Read More](https://medium.com/p/fdc444aafe91) |
-| Tue, 21 Oct 2025 07:33:32 GMT | OWASP Top 10-writeup and answers | Pallavi Kathait | [Read More](https://medium.com/p/0a44fa55eacf) |
-| Tue, 21 Oct 2025 07:28:41 GMT | Is the Move Language Secure? The Typus Permission-Validation Vulnerability | SlowMist | [Read More](https://medium.com/p/755a5175f7c3) |
-| Tue, 21 Oct 2025 07:22:17 GMT | DIVONTRIX - STRATEGIC TECHNOLOGY PARTNER | Divontrix | [Read More](https://medium.com/p/24024b3d40cf) |
-| Tue, 21 Oct 2025 07:11:49 GMT | Beware of Fake Job Scams! A personal story of how I almost got scammed | myriam munezero | [Read More](https://medium.com/p/0f7db17f56c1) |
-| Tue, 21 Oct 2025 07:05:51 GMT | Purple Notes - Atomic Nature of Purple Teaming | Mahdi Hamedani | [Read More](https://medium.com/p/b5e0f0eb0a5a) |
-| Tue, 21 Oct 2025 07:02:56 GMT | SUMMARY OF MY CYBERSECURITY CLASS ON  PASSWORD AND WI-FI Attack. | Joshua Frankcharles U | [Read More](https://medium.com/p/5880f78ee909) |
-| Tue, 21 Oct 2025 07:02:53 GMT | Scalable IT Support in Streatham for SMEs | Gary Marshall | [Read More](https://medium.com/p/614f0446fbbe) |
-| Tue, 21 Oct 2025 06:56:57 GMT | F5 Networks Breach — The Full Story You Need to Know | Jagan Raj Raviraja | [Read More](https://medium.com/p/3edef80efd53) |
-| Tue, 21 Oct 2025 06:49:52 GMT | Web Services SOAP Based Attack Vectors | Sam Mirov | [Read More](https://medium.com/p/a3a2672425ed) |
-| Tue, 21 Oct 2025 06:49:46 GMT | 8 Amazing iPhone 12 Pro Max Camera Tricks You’ll Love | Isabella Brown | [Read More](https://medium.com/p/f2fe99c6b292) |
-| Tue, 21 Oct 2025 06:45:41 GMT | What Are Smart Contracts? | Shady Farouk | [Read More](https://medium.com/p/c0e449a783b9) |
-| Tue, 21 Oct 2025 06:43:56 GMT | Smart Contracts: Complete Beginner’s Guide | Shady Farouk | [Read More](https://medium.com/p/5ded0dd61574) |
