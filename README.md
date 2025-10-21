@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 11:24:37 GMT | Linux Threat Detection Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/3af5205e3ffc) |
+| Tue, 21 Oct 2025 11:18:16 GMT | SAML Token in a Nutshell | Mayank Raje | [Read More](https://medium.com/p/107172da0ec7) |
+| Tue, 21 Oct 2025 11:15:47 GMT | Security Systems for Melbourne Homes and Businesses | First IT Solutions | [Read More](https://medium.com/p/86e5f16955cf) |
+| Tue, 21 Oct 2025 11:10:50 GMT | ⚖️ CloudConnexa vs Check Point SASE vs Fortinet SASE: Which Secure Access Solution Fits Your… | Divyesh Vaishnav | [Read More](https://medium.com/p/713b83196a93) |
 | Tue, 21 Oct 2025 11:07:34 GMT | The Cybersecurity Skill No One Teaches You: How to Talk to Humans | Andrew Keitany | [Read More](https://medium.com/p/49f70dc7024b) |
 | Tue, 21 Oct 2025 11:07:32 GMT | When AI Model Learns Lies: My Federated Learning Poisoning Experiment | Tauseef Ahmed | [Read More](https://medium.com/p/7e7cbc05786e) |
 | Tue, 21 Oct 2025 11:04:02 GMT | Real Attacks Do Not Wait … | Prashant Dhume | [Read More](https://medium.com/p/f9ea0c9d23d5) |
@@ -109,7 +113,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 05:14:34 GMT | From Vulnerability to Validation: How we fixed a Critical SSRF bug before it hit production | Sefriano Edsel | [Read More](https://medium.com/p/9cf90ca6d4b1) |
 | Tue, 21 Oct 2025 05:14:06 GMT | The Ultimate SaaS Agreement Checklist: What Startups Need to Know. | Hansen Tong | [Read More](https://medium.com/p/9649152bd726) |
 | Tue, 21 Oct 2025 05:08:22 GMT | 從聊天機器人到代理人工智慧：資安攻擊新藍海 | Yi-Hsien Chen | [Read More](https://medium.com/p/afc0fb92ae7d) |
-| Tue, 21 Oct 2025 04:57:35 GMT | When the Cloud Falls: Why Invisible Dependencies Are the New Leadership Liability | Moiz Kothari | [Read More](https://medium.com/p/b67ac27dd8e2) |
-| Tue, 21 Oct 2025 04:53:39 GMT | THC Hydra: A Practical Overview for Security Professionals | Abhinsubej | [Read More](https://medium.com/p/de7c8dc64b7e) |
-| Tue, 21 Oct 2025 04:42:35 GMT | Analisis Risiko Kebocoran Data di Universitas: Kasus Columbia University | Santo Martogi Simangunsong | [Read More](https://medium.com/p/636a5150ca75) |
-| Tue, 21 Oct 2025 04:39:18 GMT | Building Power, Bearing the Cross: Beban Modernisasi Pertahanan Indonesia | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/bd7d245628a5) |
