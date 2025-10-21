@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 21:30:38 GMT | What I Learned Submitting to Google’s AI Vulnerability Reward Program (Even Though It Was Out of… | Anirudh Diwakar | [Read More](https://medium.com/p/354972608553) |
+| Tue, 21 Oct 2025 21:28:28 GMT | Did the Ethereum Foundation Move $654M in ETH? | StylusCrypto | [Read More](https://medium.com/p/11f5f3e564d2) |
+| Tue, 21 Oct 2025 21:19:18 GMT | Why Artificial Intelligence Isn’t Getting Smarter It’s Just Getting Better at Tests | Aaron | [Read More](https://medium.com/p/309b5d198a9b) |
 | Tue, 21 Oct 2025 21:10:46 GMT | AI Security Startups Watchlist — Top 30–2025 | Tal Eliyahu | [Read More](https://medium.com/p/5a95471bbacc) |
 | Tue, 21 Oct 2025 21:02:19 GMT | How I Managed to Check Anyone’s SBI Bank Balance Using Just Phone Numbers | Aziz Al Aman | [Read More](https://medium.com/p/6e6943521606) |
 | Tue, 21 Oct 2025 20:58:51 GMT | How Hackers Secretly Monetize Your WordPress Site Without You Knowing | D Johnston | [Read More](https://medium.com/p/1eb6282dc246) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 14:51:41 GMT | The New Age of Scams: How AI is Powering Phishing Attacks and How to Spot Them | FinTechWars | [Read More](https://medium.com/p/00ede06fafe6) |
 | Tue, 21 Oct 2025 14:47:35 GMT | Storm-2657 Watch: Does Workday mark the start — or just the first stop? | Wes Young | [Read More](https://medium.com/p/6e7d0b540f05) |
 | Tue, 21 Oct 2025 14:47:09 GMT | You’ll Never Know How Vulnerable a System Is Until You Try to Secure It | Vijay Kumar Gupta | [Read More](https://medium.com/p/f085bb8d1b75) |
-| Tue, 21 Oct 2025 14:43:29 GMT | Master Privilege Escalation via Cron Jobs and Systemd Timers: Step-by-Step Guide for Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/567c9231fcdd) |
-| Tue, 21 Oct 2025 14:43:29 GMT | Apache Syncope Groovy RCE Vulnerability Lets Attackers Inject Malicious Code | Jasmitharouthu | [Read More](https://medium.com/p/2ebd8896e567) |
-| Tue, 21 Oct 2025 14:42:53 GMT | A Thanks | Michelle Seifried | [Read More](https://medium.com/p/5e8f5ce69760) |
