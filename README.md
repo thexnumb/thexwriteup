@@ -12,11 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 10:19:11 GMT | Verifiable Security, Within Reach: How Digital Shield Makes EAL6+ Military-Grade Protection a… | Digital Shield | [Read More](https://medium.com/p/6ba77d72b608) |
+| Tue, 21 Oct 2025 10:17:40 GMT | Rebuilding the Path of Trust: From “Black Box” Cold Wallets to Verifiable Sovereign Nodes | Digital Shield | [Read More](https://medium.com/p/e56059f1ccc6) |
+| Tue, 21 Oct 2025 10:05:37 GMT | The Social Side of Cybercrime: The Dangers of Social Engineering for Young People | Girls Into Coding | [Read More](https://medium.com/p/f422199fd559) |
+| Tue, 21 Oct 2025 10:01:33 GMT | Writer’s | Deborah Ogbadu | [Read More](https://medium.com/p/263e8f143fbc) |
+| Tue, 21 Oct 2025 09:56:51 GMT | REVIEW OF CYBERSEC LECTURE 20-10-2025 | Chimee Anthony | [Read More](https://medium.com/p/a863dd59a5da) |
+| Tue, 21 Oct 2025 09:53:18 GMT | Top 10 AI Risks in Cybersecurity — And Practical Strategies to Address Them - Tek Leaders Inc | Radha Naidu | [Read More](https://medium.com/p/e1caae2eba04) |
+| Tue, 21 Oct 2025 09:47:05 GMT | Proactive Third-Party Risk Management with Shodan Intelligence | Patrick Lefler | [Read More](https://medium.com/p/d16d07670824) |
+| Tue, 21 Oct 2025 09:43:00 GMT | What Caused the AWS Outage? Understanding the Technical Glitch | TechStoryLines | [Read More](https://medium.com/p/c35acdb5672a) |
+| Tue, 21 Oct 2025 09:42:41 GMT | Placing Too Much Value on a Friendship Led to Being Stalked | Amanda Steel | [Read More](https://medium.com/p/441e5bd950c8) |
 | Tue, 21 Oct 2025 09:41:26 GMT | DJINN3 — Walkthrough (Proving Grounds Play) | Maxwell Ferreira | [Read More](https://medium.com/p/30222d1401fa) |
 | Tue, 21 Oct 2025 09:40:40 GMT | DockerLabs Writeup — Seeker (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/22d14eace71c) |
 | Tue, 21 Oct 2025 09:38:38 GMT | Snort Challenge — Live Attacks - TryHackMe — Walkthrough + Write | Rahul B | [Read More](https://medium.com/p/7b6f1c7a4e9e) |
+| Tue, 21 Oct 2025 09:37:51 GMT | Fire Fighting Equipment in Qatar: Carecom Qatar Keeps People Safe | Shakir c | [Read More](https://medium.com/p/671dbc958c69) |
 | Tue, 21 Oct 2025 09:36:15 GMT | Trust No Port: The Strange Art of USB Forensics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2d783a17db32) |
+| Tue, 21 Oct 2025 09:34:36 GMT | Biometric Door Access System Bangladesh — Optimationbd Installs ZKTeco F18 at Dhanmondi 27 Travel… | optimationbd | [Read More](https://medium.com/p/f5dcafe81452) |
 | Tue, 21 Oct 2025 09:33:48 GMT | Why OpenVPN CloudConnexa® Is the Smart, Cost-Effective Way to Secure Remote Access | Divyesh Vaishnav | [Read More](https://medium.com/p/9a73a7e5e557) |
+| Tue, 21 Oct 2025 09:32:38 GMT | Handling Cross-Origin Resource Sharing (CORS) Issues in S3 | Adekola Olawale | [Read More](https://medium.com/p/3ea209b45926) |
 | Tue, 21 Oct 2025 09:32:22 GMT | I found a CRITICAL IDOR during a real-world pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/1554ba374afc) |
 | Tue, 21 Oct 2025 09:27:02 GMT | 5 Career-Limiting Mistakes Every Entry-Level Cybersecurity Professional Must Avoid | Andrew Keitany | [Read More](https://medium.com/p/11b500f0f00a) |
 | Tue, 21 Oct 2025 09:09:51 GMT | The Hidden Link Between Business Continuity and Cybersecurity | RealTyme | [Read More](https://medium.com/p/b779b93dfae2) |
@@ -101,15 +113,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 02:03:29 GMT | The Weight of Being the Constant… | Kira :) | [Read More](https://medium.com/p/f2c5805d6041) |
 | Tue, 21 Oct 2025 02:01:08 GMT | Tracing the SpaceY Dump (2025 Remix) | Chrissa Constantine (a.k.a. T3mp3st) | [Read More](https://medium.com/p/3c86f52ad704) |
 | Tue, 21 Oct 2025 01:57:45 GMT | Exploring Emerging Trends: Lucrative Tech Business Opportunities in Sustainable Energy Solutions | Chiro Adsmedia | [Read More](https://medium.com/p/5746d1ba5a45) |
-| Tue, 21 Oct 2025 01:55:32 GMT | Is AI in Cybersecurity Your Smartest Guard Dog or the Sneakiest Burglar? | Amie | [Read More](https://medium.com/p/8101f17a04a9) |
-| Tue, 21 Oct 2025 01:52:57 GMT | razor wire | eillen | [Read More](https://medium.com/p/6059b15b8569) |
-| Tue, 21 Oct 2025 01:32:55 GMT | The Root of Relationship Inability: Fear of Revealing Your True Self | Flaye Kate | [Read More](https://medium.com/p/6b1c348186d9) |
-| Tue, 21 Oct 2025 01:26:59 GMT | The Silent Burden: Why Sensible People Suffer More & How Intense Love Can Lead to Self-Loss | Misass | [Read More](https://medium.com/p/355788167447) |
-| Tue, 21 Oct 2025 01:22:58 GMT | When Amazon Web Services Goes Down | Tessa Schlesinger Global citizen. EU US UK Africa | [Read More](https://medium.com/p/62c535c48236) |
-| Tue, 21 Oct 2025 01:21:06 GMT | Learn AWS Without a Job: SDK Setup and Best Practices for Beginners (2025) | Annette Tamakloe | [Read More](https://medium.com/p/080b1b4fe991) |
-| Tue, 21 Oct 2025 01:10:16 GMT | Designing Your Network | Gregdiny | [Read More](https://medium.com/p/226b1f142eaa) |
-| Tue, 21 Oct 2025 01:09:02 GMT | Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard | Omar Santos | [Read More](https://medium.com/p/b1ed0a3e5c00) |
-| Tue, 21 Oct 2025 01:06:25 GMT | Hello world! | Samuel Ndubuisi | [Read More](https://medium.com/p/63e00f439519) |
-| Tue, 21 Oct 2025 00:50:49 GMT | Tuesday Morning Threat Report: Oct 21, 2025 | Mark Maguire | [Read More](https://medium.com/p/e3dd522a152a) |
-| Tue, 21 Oct 2025 00:39:36 GMT | Single Point of Failure in Big 2025? | Adebukola | [Read More](https://medium.com/p/4d54cd686bd0) |
-| Tue, 21 Oct 2025 00:37:39 GMT | Gobuster in Action: The Scanner that Revealed the Bank’s Forgotten Administrative Portal | Wesley Santos | [Read More](https://medium.com/p/8c45f10ea785) |
