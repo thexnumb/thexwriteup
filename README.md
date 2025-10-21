@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 22:10:07 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/22fff64d33f4) |
+| Tue, 21 Oct 2025 22:05:52 GMT | Identity Security: Your First and Last Line of Defense | Cyber-AppSec | [Read More](https://medium.com/p/96ae653bb0c0) |
+| Tue, 21 Oct 2025 22:04:45 GMT | Lessons from the AWS Meltdown | Michael Casey | [Read More](https://medium.com/p/f413eacb01f5) |
+| Tue, 21 Oct 2025 22:01:27 GMT | Open Source: A Package Management Policy | Bill Musgrave | [Read More](https://medium.com/p/3659727afe6b) |
+| Tue, 21 Oct 2025 21:55:06 GMT | I Fell for the Way He Made Me Feel Seen | Bloom with Maria | [Read More](https://medium.com/p/6b4337de9a5e) |
+| Tue, 21 Oct 2025 21:51:54 GMT | Node.js v25: A Game-Changer for Modern JavaScript Development | Mirza Muhammad Arslan Ali | [Read More](https://medium.com/p/6a7624972e69) |
+| Tue, 21 Oct 2025 21:46:44 GMT | DAY 2 | PST Vawulence | [Read More](https://medium.com/p/09d698fab4da) |
+| Tue, 21 Oct 2025 21:44:03 GMT | BIOGRAPHY OF A BEAST: The Engineering of Monsters | Ghost | [Read More](https://medium.com/p/16bcd3dd3867) |
+| Tue, 21 Oct 2025 21:42:20 GMT | MY FIRST DAY IN CYBER SECURITY
+Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com/p/5cf4ee626528) |
 | Tue, 21 Oct 2025 21:30:38 GMT | What I Learned Submitting to Google’s AI Vulnerability Reward Program (Even Though It Was Out of… | Anirudh Diwakar | [Read More](https://medium.com/p/354972608553) |
 | Tue, 21 Oct 2025 21:28:28 GMT | Did the Ethereum Foundation Move $654M in ETH? | StylusCrypto | [Read More](https://medium.com/p/11f5f3e564d2) |
 | Tue, 21 Oct 2025 21:19:18 GMT | Why Artificial Intelligence Isn’t Getting Smarter It’s Just Getting Better at Tests | Aaron | [Read More](https://medium.com/p/309b5d198a9b) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 15:22:24 GMT | Broken Access Controls — Protect The Fortress! | Jen Cracchiola | [Read More](https://medium.com/p/62400f4d9f43) |
 | Tue, 21 Oct 2025 15:15:53 GMT | Beyond State Security: Reassessing Human Security and Transnational Crimes in Prabowo’s Era | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/5e8a7d98efca) |
 | Tue, 21 Oct 2025 15:15:47 GMT | How to Read and Understand Exploit Code from Exploit-DB | Andrei Ivan | [Read More](https://medium.com/p/43b26444c100) |
-| Tue, 21 Oct 2025 15:11:26 GMT | Pentester kimdir? Ne yapar? Pentest nedir? | Just an Ordinary | [Read More](https://medium.com/p/addc6a3eaba5) |
-| Tue, 21 Oct 2025 15:09:41 GMT | Wireshark: Packet Operations — Writeup | Mahir | [Read More](https://medium.com/p/4f5766567cc3) |
-| Tue, 21 Oct 2025 15:00:00 GMT | Welcome to Secured by Sebastion — A Cybersecurity Learning Journey | Secured By Sebastion | [Read More](https://medium.com/p/eb9b380a6ea6) |
-| Tue, 21 Oct 2025 14:59:27 GMT | Wireshark: Network Trafiğinin Görünmeyen Yüzünü Keşfetmek | Cyber Web | [Read More](https://medium.com/p/7d479a95a949) |
-| Tue, 21 Oct 2025 14:55:45 GMT | Your Office Wi-Fi Has a Dark Side: 6 Things You Didn’t Know About Rogue APs | Youssef Mohammed | [Read More](https://medium.com/p/e937a10e0dde) |
-| Tue, 21 Oct 2025 14:51:43 GMT | Virtualization Made Simple: How One Computer Became an Entire Office | Secured By Sebastion | [Read More](https://medium.com/p/a61124281b16) |
-| Tue, 21 Oct 2025 14:51:41 GMT | The New Age of Scams: How AI is Powering Phishing Attacks and How to Spot Them | FinTechWars | [Read More](https://medium.com/p/00ede06fafe6) |
-| Tue, 21 Oct 2025 14:47:35 GMT | Storm-2657 Watch: Does Workday mark the start — or just the first stop? | Wes Young | [Read More](https://medium.com/p/6e7d0b540f05) |
-| Tue, 21 Oct 2025 14:47:09 GMT | You’ll Never Know How Vulnerable a System Is Until You Try to Secure It | Vijay Kumar Gupta | [Read More](https://medium.com/p/f085bb8d1b75) |
