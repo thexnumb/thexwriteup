@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 14:16:11 GMT | Pemahamam Source Code Xinu dan Panduan Penginstalan Sourcetrail | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/792d8dba1b2f) |
+| Tue, 21 Oct 2025 14:14:47 GMT | Sensitive Data Storage and Exposure | Jen Cracchiola | [Read More](https://medium.com/p/4349eba8d149) |
+| Tue, 21 Oct 2025 14:12:34 GMT | Putting it all together — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/8394eb12d06c) |
+| Tue, 21 Oct 2025 14:10:32 GMT | The Age of Simplicity: Why IT Should Empower, Not Overwhelm | SignalAge | [Read More](https://medium.com/p/43353d734715) |
+| Tue, 21 Oct 2025 14:03:58 GMT | Windows Defender for Business vs ESET PROTECT Business Comparison Guide | Cordula Boeck | [Read More](https://medium.com/p/4682bdaa6cdc) |
+| Tue, 21 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.21 | CyberMaterial | [Read More](https://medium.com/p/b4ed45f281ef) |
+| Tue, 21 Oct 2025 14:01:52 GMT | How to Extend the Garage Door Opener Range: Tips to Boost the Remote Signal | Up & Down Garage Door Services | [Read More](https://medium.com/p/8670509460e9) |
+| Tue, 21 Oct 2025 14:01:50 GMT | CrowdStrike, F5, and the Cadence Patch Gap: The Breach Era is Over — If We Choose to End It | Abatis ABTU | [Read More](https://medium.com/p/d3d722eeba11) |
+| Tue, 21 Oct 2025 14:01:50 GMT | AI SOC Agents: The Future of Cybersecurity Is Autonomous | Galent | [Read More](https://medium.com/p/0cbb208aa47b) |
+| Tue, 21 Oct 2025 13:59:59 GMT | Keycard: The Identity and Access Layer for AI Agents, Welcome to boldstart! | Ed Sim | [Read More](https://medium.com/p/f1944eb10f9f) |
+| Tue, 21 Oct 2025 13:58:28 GMT | The AI Bubble: Cross-Investments Inflate the Market | O Código Futuro | [Read More](https://medium.com/p/a059e8523829) |
+| Tue, 21 Oct 2025 13:58:19 GMT | Praktikum Internet of Things (Tugas): Komunikasi Serial | Muhammad Surya Saputro | [Read More](https://medium.com/p/60bb4979a9f4) |
+| Tue, 21 Oct 2025 13:57:58 GMT | Breach puh-lease! Use of proper logging and monitoring to avoid security breaches! | Jen Cracchiola | [Read More](https://medium.com/p/ec2b355b3aad) |
+| Tue, 21 Oct 2025 13:51:29 GMT | Windows Forensics 1 Challenge: How I Traced Suspicious Activity Using Registry Hives | Citadel Cybersec | [Read More](https://medium.com/p/ff7b14bec630) |
+| Tue, 21 Oct 2025 13:51:04 GMT | Inside the Anatomy of a Scam: Basic Hunting Skills | Shami Sushant | [Read More](https://medium.com/p/4ef2d0bfb8e3) |
+| Tue, 21 Oct 2025 13:45:25 GMT | When Messaging Went Dark During the AWS Outage | RealTyme | [Read More](https://medium.com/p/60beb04b05dc) |
+| Tue, 21 Oct 2025 13:38:30 GMT | RAG Poisoning: How easy is it & how to protect against it | Charles Anthony Browne | [Read More](https://medium.com/p/f5a834718874) |
+| Tue, 21 Oct 2025 13:35:42 GMT | eJPT — 3.4 CTF 3 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/09c3e0fbdb4c) |
+| Tue, 21 Oct 2025 13:35:36 GMT | HTB Sense (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/bc90acb92452) |
+| Tue, 21 Oct 2025 13:31:52 GMT | The Hidden Latency Cost of API Gateways Nobody Mentions | Noah Byteforge | [Read More](https://medium.com/p/2efe8bbe3119) |
 | Tue, 21 Oct 2025 13:27:47 GMT | How Machine Learning Is Changing Everyday Technology | Skillzverse Marketing | [Read More](https://medium.com/p/1fc2fa3c8408) |
+| Tue, 21 Oct 2025 13:26:00 GMT | I Stopped Pretending to Have It All Together. My Life Got Messier — And So Much Better. | NuminousLogic | [Read More](https://medium.com/p/32a3162cc361) |
 | Tue, 21 Oct 2025 13:10:13 GMT | No One’s Watching the Night Desk | Tec-Tel Communications | [Read More](https://medium.com/p/37263ca8db92) |
 | Tue, 21 Oct 2025 13:08:51 GMT | The Night the Gas Station Lights Went Out | Tec-Tel Communications | [Read More](https://medium.com/p/dfd0d18a7b43) |
 | Tue, 21 Oct 2025 13:07:54 GMT | Cyber Espresso Episode #38- The Essentials of Cyber Hygiene | BeamSec | [Read More](https://medium.com/p/1f088a5ba369) |
@@ -92,25 +113,3 @@ Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](ht
 | Tue, 21 Oct 2025 09:10:30 GMT | 資訊安全，不只是 IT 的問題 | MichaelXiao | [Read More](https://medium.com/p/913f9c8f023b) |
 | Tue, 21 Oct 2025 09:09:51 GMT | The Hidden Link Between Business Continuity and Cybersecurity | RealTyme | [Read More](https://medium.com/p/b779b93dfae2) |
 | Tue, 21 Oct 2025 09:01:52 GMT | Why Businesses Don’t Use E2EE (And Why That’s a Problem) | estrosec | [Read More](https://medium.com/p/e688c17a433e) |
-| Tue, 21 Oct 2025 08:55:34 GMT | NOT ALL DATA ARE INTELLIGENT: THE IMPORTANCE OF CTI. | Joanorifha | [Read More](https://medium.com/p/e152014ff43e) |
-| Tue, 21 Oct 2025 08:54:09 GMT | EU CRA: 12-Month Actionable Dev Roadmap for SBOM & Vulns | Pentest_Testing_Corp | [Read More](https://medium.com/p/660c86f6f93c) |
-| Tue, 21 Oct 2025 08:50:46 GMT | i tried "hacking" my own
-android with metasploit this is how it actually went | Saad Maqsood | [Read More](https://medium.com/p/38eb23e129b0) |
-| Tue, 21 Oct 2025 08:50:46 GMT | The Software ‘Birth Certificate’: A Guide to Provenance and Supply Chain Trust | Yali T. Gottlib | [Read More](https://medium.com/p/9bb4430e17bf) |
-| Tue, 21 Oct 2025 08:45:36 GMT | Cybersecurity #7: Programming Language & Example | mohandika | [Read More](https://medium.com/p/0835317981e9) |
-| Tue, 21 Oct 2025 08:45:05 GMT | THM Authentication Bypass | Jerry Wang | [Read More](https://medium.com/p/42b939b4e654) |
-| Tue, 21 Oct 2025 08:44:13 GMT | Passwordless Authentication & FIDO2: The Future of Secure Access | Jackdavis Iap | [Read More](https://medium.com/p/21d4e567838f) |
-| Tue, 21 Oct 2025 08:35:12 GMT | Initial Access Pot TryHackMe Walkthrough & Linux Forensics | Visir | [Read More](https://medium.com/p/a8fdf54690ab) |
-| Tue, 21 Oct 2025 08:33:24 GMT | Wireshark: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/c7982a84c42e) |
-| Tue, 21 Oct 2025 08:14:21 GMT | Learning To Be Seen, Again | cozy jb | [Read More](https://medium.com/p/38296b102e76) |
-| Tue, 21 Oct 2025 08:13:57 GMT | The Daily Tech Digest: 21 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ffd54e72bbd0) |
-| Tue, 21 Oct 2025 08:12:55 GMT | Transforming General-Purpose LLMs into Cyber security Experts: 5 Key Techniques | Mehdi | [Read More](https://medium.com/p/1edf4e3132bd) |
-| Tue, 21 Oct 2025 08:12:50 GMT | Finding the right DMARC monitoring tool: A practical guide for security teams | Red Sift | [Read More](https://medium.com/p/e1723a05f4bb) |
-| Tue, 21 Oct 2025 08:11:13 GMT | how to get stored xss via file upload or via uploading the profile pic | 0x00Al-sabbah | [Read More](https://medium.com/p/29e8d12cff85) |
-| Tue, 21 Oct 2025 08:06:22 GMT | Is Defense in Depth still relevant? | Suhashini Somasundaram | [Read More](https://medium.com/p/7e0e1ac9f2cb) |
-| Tue, 21 Oct 2025 07:59:15 GMT | Who’s Trying to Hack You? Understanding Cybersecurity Threat Actors | MayhemCode | [Read More](https://medium.com/p/b3ae843ecbb1) |
-| Tue, 21 Oct 2025 07:50:18 GMT | Toolbox Bug Bounty: 12 Alat Yang Sering Dipakai Pemburu Bug, dan Kapan Memakainya | Handev Code | [Read More](https://medium.com/p/fc651f70f418) |
-| Tue, 21 Oct 2025 07:48:23 GMT | The Silent Backbone of MLM Success: Why Data Security Can’t Be Ignored | Global MLM Software | [Read More](https://medium.com/p/49311c71fba1) |
-| Tue, 21 Oct 2025 07:44:16 GMT | How Scammers Hack the Human Mind: The Psychology of Deception | NIkhil Kumar | [Read More](https://medium.com/p/8726cda33311) |
-| Tue, 21 Oct 2025 07:43:21 GMT | Google Promises a Cybersecurity Job After This Certificate — But Is It Real? | Christopher Ryan | [Read More](https://medium.com/p/8e2aaa2ecf30) |
-| Tue, 21 Oct 2025 07:38:59 GMT | Throwing The TEE Gauntlet — A Turnabout Security Challenge | Arnab Kar (DC) | [Read More](https://medium.com/p/fdc444aafe91) |
