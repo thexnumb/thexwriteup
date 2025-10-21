@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 09:41:26 GMT | DJINN3 — Walkthrough (Proving Grounds Play) | Maxwell Ferreira | [Read More](https://medium.com/p/30222d1401fa) |
+| Tue, 21 Oct 2025 09:40:40 GMT | DockerLabs Writeup — Seeker (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/22d14eace71c) |
+| Tue, 21 Oct 2025 09:38:38 GMT | Snort Challenge — Live Attacks - TryHackMe — Walkthrough + Write | Rahul B | [Read More](https://medium.com/p/7b6f1c7a4e9e) |
+| Tue, 21 Oct 2025 09:36:15 GMT | Trust No Port: The Strange Art of USB Forensics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2d783a17db32) |
+| Tue, 21 Oct 2025 09:33:48 GMT | Why OpenVPN CloudConnexa® Is the Smart, Cost-Effective Way to Secure Remote Access | Divyesh Vaishnav | [Read More](https://medium.com/p/9a73a7e5e557) |
+| Tue, 21 Oct 2025 09:32:22 GMT | I found a CRITICAL IDOR during a real-world pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/1554ba374afc) |
+| Tue, 21 Oct 2025 09:27:02 GMT | 5 Career-Limiting Mistakes Every Entry-Level Cybersecurity Professional Must Avoid | Andrew Keitany | [Read More](https://medium.com/p/11b500f0f00a) |
+| Tue, 21 Oct 2025 09:09:51 GMT | The Hidden Link Between Business Continuity and Cybersecurity | RealTyme | [Read More](https://medium.com/p/b779b93dfae2) |
 | Tue, 21 Oct 2025 09:01:52 GMT | Why Businesses Don’t Use E2EE (And Why That’s a Problem) | estrosec | [Read More](https://medium.com/p/e688c17a433e) |
 | Tue, 21 Oct 2025 08:55:34 GMT | NOT ALL DATA ARE INTELLIGENT: THE IMPORTANCE OF CTI. | Joanorifha | [Read More](https://medium.com/p/e152014ff43e) |
 | Tue, 21 Oct 2025 08:54:09 GMT | EU CRA: 12-Month Actionable Dev Roadmap for SBOM & Vulns | Pentest_Testing_Corp | [Read More](https://medium.com/p/660c86f6f93c) |
@@ -105,11 +113,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 00:50:49 GMT | Tuesday Morning Threat Report: Oct 21, 2025 | Mark Maguire | [Read More](https://medium.com/p/e3dd522a152a) |
 | Tue, 21 Oct 2025 00:39:36 GMT | Single Point of Failure in Big 2025? | Adebukola | [Read More](https://medium.com/p/4d54cd686bd0) |
 | Tue, 21 Oct 2025 00:37:39 GMT | Gobuster in Action: The Scanner that Revealed the Bank’s Forgotten Administrative Portal | Wesley Santos | [Read More](https://medium.com/p/8c45f10ea785) |
-| Tue, 21 Oct 2025 00:06:59 GMT | THE PSYCHOLOGY BEHIND CYBER ATTACKS (PART II) | Toluwabori Agbemeyede Cyber_b | [Read More](https://medium.com/p/239250965218) |
-| Tue, 21 Oct 2025 00:02:39 GMT | Aprende a usar dnsrecon para Enumeración Exhaustiva de DNS y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/412f4477568d) |
-| Mon, 20 Oct 2025 23:55:33 GMT | Giải thưởng nhỏ, ý nghĩa lớn, dấu ấn của Ngô Bình An trong cuộc thi an ninh mạng | VTV24 | [Read More](https://medium.com/p/c379fad9a485) |
-| Mon, 20 Oct 2025 23:48:04 GMT | Best Email Practices: How to Keep Your Email Account Safe | Mohsin | [Read More](https://medium.com/p/c179dcecb0d3) |
-| Mon, 20 Oct 2025 23:29:03 GMT | Day 3 — IP Addressing & Subnetting (Part 1): Understanding How Devices Talk on the Internet | HackTrace | [Read More](https://medium.com/p/d48e5c7555c0) |
-| Mon, 20 Oct 2025 23:26:15 GMT | 131 Chrome Extensions Hijacked WhatsApp Web | Cyber-AppSec | [Read More](https://medium.com/p/a7060dca80e4) |
-| Mon, 20 Oct 2025 23:23:43 GMT | Hypervisor-level Exploits: Why VM Isolation Isn’t a Silver Bullet | Bervice | [Read More](https://medium.com/p/7baafb248f88) |
-| Mon, 20 Oct 2025 23:17:55 GMT | CISA Adds Five New Actively Exploited Vulnerabilities to the KEV Catalog | SecuritySc0ut | [Read More](https://medium.com/p/e68bbf2f9f90) |
