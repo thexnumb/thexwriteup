@@ -12,12 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 06:24:34 GMT | The Python Tool I Built in a Weekend That Now Pays My Rent | Md kawsar | [Read More](https://medium.com/p/f4daa415e3fa) |
+| Tue, 21 Oct 2025 06:24:04 GMT | The Dark Side of Falling in Love | Soledad Hernandez | [Read More](https://medium.com/p/7bcfa9052841) |
+| Tue, 21 Oct 2025 06:18:43 GMT | Kubernetes(8) — Security 相關，authenticate, authority, TLS, RBAC, kube-config, NetworkPolicy…設定 | Tako | [Read More](https://medium.com/p/91ffbe278478) |
+| Tue, 21 Oct 2025 06:16:26 GMT | What Happens When Cybersecurity and Data Privacy Collide | Kambetastephano | [Read More](https://medium.com/p/5c14e7427b58) |
+| Tue, 21 Oct 2025 06:15:58 GMT | Reverse Engineering Malware: A Practical Beginner’s Guide | Travis Ray Caverhill | [Read More](https://medium.com/p/d7b7fc06f91a) |
+| Tue, 21 Oct 2025 06:09:28 GMT | Future-Proofing Your SOC with Predictive Analytics | Kambetastephano | [Read More](https://medium.com/p/a215c47ae8e4) |
+| Tue, 21 Oct 2025 05:51:40 GMT | Price Manipulation Vulnerability: How a small logic flaw turned orders into ₹1 checkouts | Xormium | [Read More](https://medium.com/p/241da7c75596) |
+| Tue, 21 Oct 2025 05:49:29 GMT | Everything Is a Network — Even Your Friend Group | Salimassili | [Read More](https://medium.com/p/50d184c21816) |
+| Tue, 21 Oct 2025 05:48:23 GMT | TEEs As Digital Sanctums — Architectural Resilience In Untrusted Environments | Arnab Kar (DC) | [Read More](https://medium.com/p/5f72244f6d30) |
+| Tue, 21 Oct 2025 05:44:41 GMT | Cybersecurity Challenges in 2025: Protecting Data in an Evolving Landscape | Y D Prajapati | [Read More](https://medium.com/p/b46a5330ee3a) |
+| Tue, 21 Oct 2025 05:40:22 GMT | How to Create a Phishing Incident Playbook That Works | Kambetastephano | [Read More](https://medium.com/p/b52e3cde7867) |
+| Tue, 21 Oct 2025 05:37:41 GMT | Unlock Your QA Potential in 2025: Master Software Testing Concepts + 500 Practice Questions with… | ExpertsTeachers | [Read More](https://medium.com/p/f8c92915e2e5) |
 | Tue, 21 Oct 2025 05:30:27 GMT | Bypassing Online Censorship in 2025: A Practical (and Safe) Guide | Bruzzese Roberto | [Read More](https://medium.com/p/039caccbf56e) |
 | Tue, 21 Oct 2025 05:22:30 GMT | You’re Not Just an Employee, You’re an Investment. Here’s How to Prove It. | Adaldino Sapi | [Read More](https://medium.com/p/e88d8b6d8e72) |
 | Tue, 21 Oct 2025 05:15:45 GMT | Strengthening Cybersecurity Expertise through CompTIA Security+ Certification Training | Manish Shetty | [Read More](https://medium.com/p/1ab642cd783a) |
 | Tue, 21 Oct 2025 05:14:46 GMT | Building an AI-native CI/CD pipeline: Generative AI for automated code review and security scanning | Naeem ul Haq | [Read More](https://medium.com/p/ea6ab8255616) |
 | Tue, 21 Oct 2025 05:14:34 GMT | From Vulnerability to Validation: How we fixed a Critical SSRF bug before it hit production | Sefriano Edsel | [Read More](https://medium.com/p/9cf90ca6d4b1) |
 | Tue, 21 Oct 2025 05:14:06 GMT | The Ultimate SaaS Agreement Checklist: What Startups Need to Know. | Hansen Tong | [Read More](https://medium.com/p/9649152bd726) |
+| Tue, 21 Oct 2025 05:08:22 GMT | 從聊天機器人到代理人工智慧：資安攻擊新藍海 | Yi-Hsien Chen | [Read More](https://medium.com/p/afc0fb92ae7d) |
 | Tue, 21 Oct 2025 04:57:35 GMT | When the Cloud Falls: Why Invisible Dependencies Are the New Leadership Liability | Moiz Kothari | [Read More](https://medium.com/p/b67ac27dd8e2) |
 | Tue, 21 Oct 2025 04:53:39 GMT | THC Hydra: A Practical Overview for Security Professionals | Abhinsubej | [Read More](https://medium.com/p/de7c8dc64b7e) |
 | Tue, 21 Oct 2025 04:42:35 GMT | Analisis Risiko Kebocoran Data di Universitas: Kasus Columbia University | Santo Martogi Simangunsong | [Read More](https://medium.com/p/636a5150ca75) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 20:32:35 GMT | The Hidden Cost of Always Being “Too Nice” | Global Whirl of Wonders | [Read More](https://medium.com/p/872984b7392e) |
 | Mon, 20 Oct 2025 20:32:19 GMT | Hacked Without Doing a Thing: The Alarming Reality of Zero-Click Exploits | Paradise technologies Inc | [Read More](https://medium.com/p/430082299a44) |
 | Mon, 20 Oct 2025 20:25:16 GMT | The Anatomy of a Solana Wallet Drain in 2025 | twixdesans | [Read More](https://medium.com/p/8f67f9ceb841) |
-| Mon, 20 Oct 2025 20:21:36 GMT | Abracadabra, NGP, Kame: $5M Lost to Solvency Bypass, Price Games, and Unsafe External Calls | Olympix | [Read More](https://medium.com/p/3c07042e6c58) |
-| Mon, 20 Oct 2025 20:16:26 GMT | CyberDefenders — Job Trap Lab | jon | [Read More](https://medium.com/p/862df0dcba75) |
-| Mon, 20 Oct 2025 20:09:00 GMT | Choosing the Right PC for the Best and Most Secure Experience in 2025 | Officer's Notes | [Read More](https://medium.com/p/b3d05e45882a) |
-| Mon, 20 Oct 2025 20:07:31 GMT | Un regreso a la luz | Lucia Panaino | [Read More](https://medium.com/p/989c696a1636) |
-| Mon, 20 Oct 2025 20:07:06 GMT | Wazuh & WireGuard Logs Monitoring on a Linux Host | Jakub Zieliński | [Read More](https://medium.com/p/11804ac3d37c) |
-| Mon, 20 Oct 2025 20:07:05 GMT | Homeostatic AGI Security: From Black Box Guessing to Physical Certainty | Berend Watchus | [Read More](https://medium.com/p/3c104a845d3a) |
-| Mon, 20 Oct 2025 19:56:11 GMT | Blind Shell | S12 - 0x12Dark Development | [Read More](https://medium.com/p/5e46dea7e0a3) |
-| Mon, 20 Oct 2025 19:46:26 GMT | Katman 1 (Fiziksel Katman) Güvenlik Açıkları | Burak BALTA | [Read More](https://medium.com/p/c5cd492de753) |
-| Mon, 20 Oct 2025 19:42:46 GMT | The Ultimate Windows Privilege Escalation Checklist | Cybersensus | [Read More](https://medium.com/p/3f4c211e59a8) |
-| Mon, 20 Oct 2025 19:41:52 GMT | Prienv: Share Secrets Securely, Privately, and Completely Free | Vildan Bina | [Read More](https://medium.com/p/1f444a21107b) |
-| Mon, 20 Oct 2025 19:41:38 GMT | Day 15 of my Cybersecurity Journey: Networking Core Protocols II | Ogundipe Priscilla | [Read More](https://medium.com/p/899192a45994) |
-| Mon, 20 Oct 2025 19:39:23 GMT | CYBER SECURITY CLASS REVIEW ON 17TH OF OCTOBER, 2025. | Ukaakachi | [Read More](https://medium.com/p/bb4831b2b9f7) |
-| Mon, 20 Oct 2025 19:39:10 GMT | [ SOC Alert => Malicious Macro has been executed ] by LetsDefend / EventID: 231 | EduKayky | [Read More](https://medium.com/p/6227f1559388) |
