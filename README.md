@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 18:21:32 GMT | How to Tell If Your Phone Has Been Hacked: The Signs, the Fix, and the Prevention Plan | Malik | [Read More](https://medium.com/p/a431d40aa936) |
+| Tue, 21 Oct 2025 18:17:48 GMT | The Stuxnet Worm of the year 2010 was created by Eric van Sabben, a Dutch engineer. | Emenanjo Ndigwe | [Read More](https://medium.com/p/c35392b329d1) |
+| Tue, 21 Oct 2025 18:14:21 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/cbb6d388a370) |
+| Tue, 21 Oct 2025 18:11:04 GMT | When the AI Gets Phished: The Real Meaning of Prompt Injection | Silas Potter | [Read More](https://medium.com/p/61edc8597bfa) |
+| Tue, 21 Oct 2025 18:05:15 GMT | How Crypto Scammers Clean or Launder their Dirty Crypto ? | STRENBOW | [Read More](https://medium.com/p/b50356ba41b3) |
+| Tue, 21 Oct 2025 18:04:46 GMT | From Dorm Rooms to Doorsteps: Cybersecurity Awareness Month Goes Home | Jennifer "Jay" Palumbo | [Read More](https://medium.com/p/f2708eb04178) |
+| Tue, 21 Oct 2025 17:54:00 GMT | “ Blast from the past ” picoCTF 2024 writeup | Dr_ro0t | [Read More](https://medium.com/p/54afd09b1118) |
+| Tue, 21 Oct 2025 17:49:33 GMT | Nested Compiling in Memory | Mark Mo - Fashionproof | [Read More](https://medium.com/p/f4a12881a3c4) |
+| Tue, 21 Oct 2025 17:49:14 GMT | The Vulnerability of Public Tears | Long After the Thrill | [Read More](https://medium.com/p/0199d998fe09) |
+| Tue, 21 Oct 2025 17:44:44 GMT | No, It Wasn’t Just You — The Whole Internet Was Having a Breakdown | The Masked Muse | [Read More](https://medium.com/p/352d7ec95875) |
+| Tue, 21 Oct 2025 17:39:59 GMT | Robust Authentication in Spring Boot with Keycloak | vishal acharya | [Read More](https://medium.com/p/0d2c220210ad) |
 | Tue, 21 Oct 2025 17:32:51 GMT | Satellite Communications and Cybersecurity in the Cyber Warfare Era | David SEHYEON Baek | [Read More](https://medium.com/p/c9f0372a99e3) |
 | Tue, 21 Oct 2025 17:27:58 GMT | Dead-Drop Resolvers: Malware’s Quiet Rendezvous and Why Adaptive Defense Matters | Evan Powell | [Read More](https://medium.com/p/82c8faaf207c) |
+| Tue, 21 Oct 2025 17:27:13 GMT | Building Trust on the Web: HTTPS and Cookie Security in Frontend | Emrecan Körpınar | [Read More](https://medium.com/p/4d781777e206) |
 | Tue, 21 Oct 2025 17:25:38 GMT | Nmap Nedir? Ne İşe Yarar? Gerçekten Gerekli mi? | Mehmet Ali | [Read More](https://medium.com/p/213f43aad784) |
 | Tue, 21 Oct 2025 17:20:49 GMT | 4 Duvar, 1 Kalp | Nuri Sencer | [Read More](https://medium.com/p/377cc61cb74f) |
 | Tue, 21 Oct 2025 17:18:53 GMT | SCAM004: Uncovering An Ongoing Financial Heist | 0x0vid | [Read More](https://medium.com/p/a6ccc6af60f3) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 12:49:06 GMT | Why I Write The Regenerative Transition | Erik Kvam | [Read More](https://medium.com/p/f1483c1cc0b6) |
 | Tue, 21 Oct 2025 12:48:06 GMT | Stop Blocking Hackers. Start Boring Them to Death Instead | Hassan Zreik | [Read More](https://medium.com/p/13c9bd6ef77c) |
 | Tue, 21 Oct 2025 12:46:23 GMT | A Truck from Mars, Built for Earth — And Failing at Both | Studiology | [Read More](https://medium.com/p/ed18baaaae20) |
-| Tue, 21 Oct 2025 12:43:58 GMT | Why We’re Still in the Bronze Age of AI in Cybersecurity | Oliver Rochford | [Read More](https://medium.com/p/4cde0dae7e63) |
-| Tue, 21 Oct 2025 12:41:48 GMT | Custom Security Policies with Linux Security Modules (LSM) | Esra Kayhan | [Read More](https://medium.com/p/65a2a994917a) |
-| Tue, 21 Oct 2025 12:40:46 GMT | HackPark — TryHackMe Walktrhough | Death Esther | [Read More](https://medium.com/p/bb67d70fecc7) |
-| Tue, 21 Oct 2025 12:37:49 GMT | You Don’t Need To Be Understood To Be Worth Loving | AlfredSamuel | [Read More](https://medium.com/p/4e33528a4461) |
-| Tue, 21 Oct 2025 12:37:35 GMT | Active Directory 101: An Introduction to Active Directory | Rana chouchane - QU33NR | [Read More](https://medium.com/p/91fccd1bff4f) |
-| Tue, 21 Oct 2025 12:36:15 GMT | The Shocking Truth: Your Phishing Training Isn’t Working | Yatin | [Read More](https://medium.com/p/6b034a6bebba) |
-| Tue, 21 Oct 2025 12:35:29 GMT | How Authentication Works in Active Directory — Kerberos, NTLM & Real Attack Paths | Suhel Kathi | [Read More](https://medium.com/p/bd9bc6afc105) |
-| Tue, 21 Oct 2025 12:33:34 GMT | How to Detect Hooking (Frida) on Flutter | Talsec | [Read More](https://medium.com/p/1cc1f4e13c74) |
-| Tue, 21 Oct 2025 12:31:50 GMT | SOC 2 Simplified: What Investors Really Want to See in Your Startup | Lester Davila Escobedo | [Read More](https://medium.com/p/c46183b22281) |
-| Tue, 21 Oct 2025 12:23:49 GMT | Tren Desain UI/UX 2025: Dari Glassmorphism hingga Neumorphism 2.0 | Anjas Rani | [Read More](https://medium.com/p/8fea4a3efe57) |
-| Tue, 21 Oct 2025 12:17:29 GMT | CYBER SECURITY CLASS REVIEW ON 20TH OF OCTOBER, 2025
-Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](https://medium.com/p/566bc8126775) |
-| Tue, 21 Oct 2025 12:16:50 GMT | Web3 Wallet Security Tips Everyone Should Know | TheBlock. | [Read More](https://medium.com/p/b70632050595) |
