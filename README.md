@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 23:02:17 GMT | (Kinda) Deplatformed: How I Lost My Twitter Account (Again) | WhaleCalls | [Read More](https://medium.com/p/886b982b513e) |
+| Tue, 21 Oct 2025 22:56:40 GMT | Can’t Withdraw Crypto from Bitunix? Here’s How Ethical Hackers Can Help | Newmanseries | [Read More](https://medium.com/p/8edbca26e644) |
+| Tue, 21 Oct 2025 22:49:59 GMT | A Summary of my first day in Cyber security class | Kevack | [Read More](https://medium.com/p/28547b76beb6) |
+| Tue, 21 Oct 2025 22:49:56 GMT | Class 2: A Deep Dive into Cyber Threats | Samuel Ndubuisi | [Read More](https://medium.com/p/ff7ae62aea58) |
 | Tue, 21 Oct 2025 22:31:48 GMT | Pipeline Immunity: Building Self-Healing Application Security in CI/CD Systems | Sai Krishna Kakarla | [Read More](https://medium.com/p/43334600eb22) |
+| Tue, 21 Oct 2025 22:30:34 GMT | Receipts, Not Surveillance | Rick Hare | [Read More](https://medium.com/p/0808953237ec) |
 | Tue, 21 Oct 2025 22:29:58 GMT | Scamming Awareness Tips | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/4531405c1862) |
 | Tue, 21 Oct 2025 22:10:07 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/22fff64d33f4) |
 | Tue, 21 Oct 2025 22:05:52 GMT | Identity Security: Your First and Last Line of Defense | Cyber-AppSec | [Read More](https://medium.com/p/96ae653bb0c0) |
@@ -108,8 +113,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 15:56:29 GMT | The Exec-Speak Decoder | Rajat Gupta | [Read More](https://medium.com/p/8c568d3479ab) |
 | Tue, 21 Oct 2025 15:53:29 GMT | How to Think Like a Defender and an Attacker: The Mindset You Need | Aj | [Read More](https://medium.com/p/c8271ed60791) |
 | Tue, 21 Oct 2025 15:50:51 GMT | When the Internet Had a Monday — AWS Outage + Atlanta Hero | Ai WanderingNut News and Blog and Cooking | [Read More](https://medium.com/p/6e6992c14cce) |
-| Tue, 21 Oct 2025 15:46:28 GMT | The Phishing Pond — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/22c32b7c209d) |
-| Tue, 21 Oct 2025 15:36:37 GMT | Common Mistakes — Real organizational failures that lead to breaches | Muhammed Anas | [Read More](https://medium.com/p/c1d6e9ab8b27) |
-| Tue, 21 Oct 2025 15:33:29 GMT | From Script Kiddie to Cyber Hero: Your Ultimate Beginner’s Guide to Ethical Hacking in 2025 | Mrsadiq | [Read More](https://medium.com/p/bdc9d7375692) |
-| Tue, 21 Oct 2025 15:25:05 GMT | EVERYTIME I ADDRESSED SOMETHING THAT BOTHERED ME I BECAME THE PROBLEM | Ola_Olayemii | [Read More](https://medium.com/p/4821b22f06dd) |
-| Tue, 21 Oct 2025 15:22:24 GMT | Broken Access Controls — Protect The Fortress! | Jen Cracchiola | [Read More](https://medium.com/p/62400f4d9f43) |
