@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 09:01:52 GMT | Why Businesses Don’t Use E2EE (And Why That’s a Problem) | estrosec | [Read More](https://medium.com/p/e688c17a433e) |
+| Tue, 21 Oct 2025 08:55:34 GMT | NOT ALL DATA ARE INTELLIGENT: THE IMPORTANCE OF CTI. | Joanorifha | [Read More](https://medium.com/p/e152014ff43e) |
+| Tue, 21 Oct 2025 08:54:09 GMT | EU CRA: 12-Month Actionable Dev Roadmap for SBOM & Vulns | Pentest_Testing_Corp | [Read More](https://medium.com/p/660c86f6f93c) |
 | Tue, 21 Oct 2025 08:50:46 GMT | i tried "hacking" my own
 android with metasploit this is how it actually went | Saad Maqsood | [Read More](https://medium.com/p/38eb23e129b0) |
+| Tue, 21 Oct 2025 08:50:46 GMT | The Software ‘Birth Certificate’: A Guide to Provenance and Supply Chain Trust | Yali T. Gottlib | [Read More](https://medium.com/p/9bb4430e17bf) |
+| Tue, 21 Oct 2025 08:45:36 GMT | Cybersecurity #7: Programming Language & Example | mohandika | [Read More](https://medium.com/p/0835317981e9) |
+| Tue, 21 Oct 2025 08:45:05 GMT | THM Authentication Bypass | Jerry Wang | [Read More](https://medium.com/p/42b939b4e654) |
+| Tue, 21 Oct 2025 08:44:13 GMT | Passwordless Authentication & FIDO2: The Future of Secure Access | Jackdavis Iap | [Read More](https://medium.com/p/21d4e567838f) |
 | Tue, 21 Oct 2025 08:35:12 GMT | Initial Access Pot TryHackMe Walkthrough & Linux Forensics | Visir | [Read More](https://medium.com/p/a8fdf54690ab) |
 | Tue, 21 Oct 2025 08:33:24 GMT | Wireshark: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/c7982a84c42e) |
 | Tue, 21 Oct 2025 08:14:21 GMT | Learning To Be Seen, Again | cozy jb | [Read More](https://medium.com/p/38296b102e76) |
@@ -23,6 +30,7 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 08:11:13 GMT | how to get stored xss via file upload or via uploading the profile pic | 0x00Al-sabbah | [Read More](https://medium.com/p/29e8d12cff85) |
 | Tue, 21 Oct 2025 08:06:22 GMT | Is Defense in Depth still relevant? | Suhashini Somasundaram | [Read More](https://medium.com/p/7e0e1ac9f2cb) |
 | Tue, 21 Oct 2025 07:59:15 GMT | Who’s Trying to Hack You? Understanding Cybersecurity Threat Actors | MayhemCode | [Read More](https://medium.com/p/b3ae843ecbb1) |
+| Tue, 21 Oct 2025 07:50:18 GMT | Toolbox Bug Bounty: 12 Alat Yang Sering Dipakai Pemburu Bug, dan Kapan Memakainya | Handev Code | [Read More](https://medium.com/p/fc651f70f418) |
 | Tue, 21 Oct 2025 07:48:23 GMT | The Silent Backbone of MLM Success: Why Data Security Can’t Be Ignored | Global MLM Software | [Read More](https://medium.com/p/49311c71fba1) |
 | Tue, 21 Oct 2025 07:44:16 GMT | How Scammers Hack the Human Mind: The Psychology of Deception | NIkhil Kumar | [Read More](https://medium.com/p/8726cda33311) |
 | Tue, 21 Oct 2025 07:43:21 GMT | Google Promises a Cybersecurity Job After This Certificate — But Is It Real? | Christopher Ryan | [Read More](https://medium.com/p/8e2aaa2ecf30) |
@@ -105,11 +113,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Mon, 20 Oct 2025 23:26:15 GMT | 131 Chrome Extensions Hijacked WhatsApp Web | Cyber-AppSec | [Read More](https://medium.com/p/a7060dca80e4) |
 | Mon, 20 Oct 2025 23:23:43 GMT | Hypervisor-level Exploits: Why VM Isolation Isn’t a Silver Bullet | Bervice | [Read More](https://medium.com/p/7baafb248f88) |
 | Mon, 20 Oct 2025 23:17:55 GMT | CISA Adds Five New Actively Exploited Vulnerabilities to the KEV Catalog | SecuritySc0ut | [Read More](https://medium.com/p/e68bbf2f9f90) |
-| Mon, 20 Oct 2025 23:06:04 GMT | A Technical Overview of Logical Access Controls and Access Control Lists (ACLs) | Mai Tran | [Read More](https://medium.com/p/a8f5f30148f6) |
-| Mon, 20 Oct 2025 23:05:45 GMT | Hacking Pipes & Plants: Cyber Risks in Industrial Systems | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/7dcaa4748681) |
-| Mon, 20 Oct 2025 23:05:27 GMT | The Quantum Finance Revolution: | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/3eff3d8c3054) |
-| Mon, 20 Oct 2025 23:05:12 GMT | From Panic to Protocol: How to Prepare for the Inevitable Cyber Crisis | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d0ed9ae991cf) |
-| Mon, 20 Oct 2025 23:05:11 GMT | Monday Cyber Brief — October 20 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/ae8c6ec84274) |
-| Mon, 20 Oct 2025 23:03:38 GMT | Oh you Developers! | WALIU SANNI | [Read More](https://medium.com/p/52814599e157) |
-| Mon, 20 Oct 2025 22:58:30 GMT | ️ What Is Doxing — The Hidden Threat to Your Digital Identity | Dallen Sadru | [Read More](https://medium.com/p/ea26c0eca942) |
-| Mon, 20 Oct 2025 22:34:37 GMT | Optimizing Your Preparation for IT Certification Exams | Mai Tran | [Read More](https://medium.com/p/b50df1231de5) |
