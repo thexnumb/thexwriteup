@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 07:05:51 GMT | Purple Notes - Atomic Nature of Purple Teaming | Mahdi Hamedani | [Read More](https://medium.com/p/b5e0f0eb0a5a) |
+| Tue, 21 Oct 2025 07:02:56 GMT | SUMMARY OF MY CYBERSECURITY CLASS ON  PASSWORD AND WI-FI Attack. | Joshua Frankcharles U | [Read More](https://medium.com/p/5880f78ee909) |
+| Tue, 21 Oct 2025 07:02:53 GMT | Scalable IT Support in Streatham for SMEs | Gary Marshall | [Read More](https://medium.com/p/614f0446fbbe) |
+| Tue, 21 Oct 2025 06:56:57 GMT | F5 Networks Breach — The Full Story You Need to Know | Jagan Raj Raviraja | [Read More](https://medium.com/p/3edef80efd53) |
+| Tue, 21 Oct 2025 06:49:52 GMT | Web Services SOAP Based Attack Vectors | Sam Mirov | [Read More](https://medium.com/p/a3a2672425ed) |
+| Tue, 21 Oct 2025 06:49:46 GMT | 8 Amazing iPhone 12 Pro Max Camera Tricks You’ll Love | Isabella Brown | [Read More](https://medium.com/p/f2fe99c6b292) |
+| Tue, 21 Oct 2025 06:45:41 GMT | What Are Smart Contracts? | Shady Farouk | [Read More](https://medium.com/p/c0e449a783b9) |
+| Tue, 21 Oct 2025 06:43:56 GMT | Smart Contracts: Complete Beginner’s Guide | Shady Farouk | [Read More](https://medium.com/p/5ded0dd61574) |
+| Tue, 21 Oct 2025 06:43:10 GMT | Cyber Quantification: The Financial Language of Enterprise Risk | Prakruti Monali | [Read More](https://medium.com/p/6f01ed8be245) |
+| Tue, 21 Oct 2025 06:36:00 GMT | Cyber Security Course | Molletibalu | [Read More](https://medium.com/p/d53bbae0d819) |
+| Tue, 21 Oct 2025 06:35:45 GMT | Protect the Digital World with Expert Cyber Security Classes in Kerala | Imayakochi | [Read More](https://medium.com/p/71f537bf224b) |
+| Tue, 21 Oct 2025 06:34:33 GMT | The DNS Query Journey: How Your Browser Finds a Website | Amil Mansurov | [Read More](https://medium.com/p/1d793a6b1a47) |
 | Tue, 21 Oct 2025 06:24:34 GMT | The Python Tool I Built in a Weekend That Now Pays My Rent | Md kawsar | [Read More](https://medium.com/p/f4daa415e3fa) |
 | Tue, 21 Oct 2025 06:24:04 GMT | The Dark Side of Falling in Love | Soledad Hernandez | [Read More](https://medium.com/p/7bcfa9052841) |
 | Tue, 21 Oct 2025 06:18:43 GMT | Kubernetes(8) — Security 相關，authenticate, authority, TLS, RBAC, kube-config, NetworkPolicy…設定 | Tako | [Read More](https://medium.com/p/91ffbe278478) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 21:24:41 GMT | If Only You Had Got it Right With Me | Vandana Mokaria | [Read More](https://medium.com/p/5d9c8dfe76b0) |
 | Mon, 20 Oct 2025 21:03:36 GMT | Let’s Get This Done: Implementing Secure File Sharing | Samirah A.O | [Read More](https://medium.com/p/143c73a756f4) |
 | Mon, 20 Oct 2025 21:02:16 GMT | “CRYPTO SECURITY 101: How to Protect Your Assets Like a Pro Trader” | Marcele De Cristo | [Read More](https://medium.com/p/6e2c71068368) |
-| Mon, 20 Oct 2025 21:01:34 GMT | Analyzing Web Application Attack Vectors: A Practical Guide | Simran Jeet Kaur | [Read More](https://medium.com/p/3f2ae22d802a) |
-| Mon, 20 Oct 2025 20:49:27 GMT | Hackviser  —  Insecure Direct Object References (IDOR) Labs | Omer Bawazir | [Read More](https://medium.com/p/54d44a5c32c2) |
-| Mon, 20 Oct 2025 20:44:30 GMT | The Complete Guide to Secure File Sharing | Samirah A.O | [Read More](https://medium.com/p/2f6fbdda8a1e) |
-| Mon, 20 Oct 2025 20:43:59 GMT | Criminal Legal Aid Cyber Essentials: What Changed in October 2025 | Paul Reynolds | [Read More](https://medium.com/p/78552d4f338a) |
-| Mon, 20 Oct 2025 20:39:08 GMT | Data Fusion with Python for Cybersecurity Professionals | Hex Shift | [Read More](https://medium.com/p/aab50adbd325) |
-| Mon, 20 Oct 2025 20:38:33 GMT | EDR XDR Nedir? | Emir KILIÇ | [Read More](https://medium.com/p/f08027c8bd9f) |
-| Mon, 20 Oct 2025 20:35:43 GMT | AI in Practice: Building an Analytics Hackathon Project | Ann Jackson | [Read More](https://medium.com/p/77acce50b59c) |
-| Mon, 20 Oct 2025 20:32:59 GMT | Requisitos ASFI 885/25: Cumplimiento y Seguridad | Israel Aráoz Severiche | [Read More](https://medium.com/p/9cd705e4b14d) |
-| Mon, 20 Oct 2025 20:32:41 GMT | Securing the Backbone: A Professional’s Guide to Network Layer (Layer 3) Security | Burak BALTA | [Read More](https://medium.com/p/8396d6b435d4) |
-| Mon, 20 Oct 2025 20:32:35 GMT | The Hidden Cost of Always Being “Too Nice” | Global Whirl of Wonders | [Read More](https://medium.com/p/872984b7392e) |
-| Mon, 20 Oct 2025 20:32:19 GMT | Hacked Without Doing a Thing: The Alarming Reality of Zero-Click Exploits | Paradise technologies Inc | [Read More](https://medium.com/p/430082299a44) |
-| Mon, 20 Oct 2025 20:25:16 GMT | The Anatomy of a Solana Wallet Drain in 2025 | twixdesans | [Read More](https://medium.com/p/8f67f9ceb841) |
