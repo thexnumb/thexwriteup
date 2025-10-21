@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 05:14:34 GMT | From Vulnerability to Validation: How we fixed a Critical SSRF bug before it hit production | Sefriano Edsel | [Read More](https://medium.com/p/9cf90ca6d4b1) |
+| Tue, 21 Oct 2025 04:57:35 GMT | When the Cloud Falls: Why Invisible Dependencies Are the New Leadership Liability | Moiz Kothari | [Read More](https://medium.com/p/b67ac27dd8e2) |
+| Tue, 21 Oct 2025 04:53:39 GMT | THC Hydra: A Practical Overview for Security Professionals | Abhinsubej | [Read More](https://medium.com/p/de7c8dc64b7e) |
+| Tue, 21 Oct 2025 04:42:35 GMT | Analisis Risiko Kebocoran Data di Universitas: Kasus Columbia University | Santo Martogi Simangunsong | [Read More](https://medium.com/p/636a5150ca75) |
+| Tue, 21 Oct 2025 04:39:18 GMT | Building Power, Bearing the Cross: Beban Modernisasi Pertahanan Indonesia | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/bd7d245628a5) |
 | Tue, 21 Oct 2025 04:38:21 GMT | Management Resiko TI | Ferry Bastian Siagian | [Read More](https://medium.com/p/1ac92475940a) |
 | Tue, 21 Oct 2025 04:24:34 GMT | Thinking Like a Hacker: A Journey into Cybersecurity with TryHackMe | Salimassili | [Read More](https://medium.com/p/80e51f5d8324) |
 | Tue, 21 Oct 2025 04:19:05 GMT | The AI Compliance Hangover: When Innovation Outruns Regulation | Yash Gorasiya | [Read More](https://medium.com/p/cca1e9ebf06a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 19:29:27 GMT | Disaster Recovery for Start-ups in AWS | Johan Åkesson | [Read More](https://medium.com/p/0d0e9c550304) |
 | Mon, 20 Oct 2025 19:24:10 GMT | How MSPs Can Boost Recurring Revenue with Self-Contained Network Security | CacheGuard Technologies | [Read More](https://medium.com/p/a66b5e8ea230) |
 | Mon, 20 Oct 2025 19:05:57 GMT | Cybersecurity Assurance for Free Market Participants using Cloud Services | Syamantak Saha | [Read More](https://medium.com/p/a0f97965c367) |
-| Mon, 20 Oct 2025 19:04:08 GMT | GraphQL IDOR Allows Unauthorized Revocation of Other Users’ Activation Tokens | Yasmeen Rezk | [Read More](https://medium.com/p/31e432b7bb6c) |
-| Mon, 20 Oct 2025 18:59:53 GMT | Why FinTech Trusts AI for 99% Secure Identities Revealed | Vikram Lingam | [Read More](https://medium.com/p/74cbb6c76439) |
-| Mon, 20 Oct 2025 18:32:59 GMT | The Mental Toll of Online Fraud and How to Bounce Back | P.O Writes | [Read More](https://medium.com/p/7ead2440e2e9) |
-| Mon, 20 Oct 2025 18:17:58 GMT | ¿Y si el próximo correo de phishing lo escribe una IA? | Cyber-G | [Read More](https://medium.com/p/a5212e099234) |
-| Mon, 20 Oct 2025 16:06:01 GMT | EU AI Act Compliance: Your Practical Roadmap | Michael Hannecke | [Read More](https://medium.com/p/3fd9768f97ca) |
