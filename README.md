@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 21:10:46 GMT | AI Security Startups Watchlist — Top 30–2025 | Tal Eliyahu | [Read More](https://medium.com/p/5a95471bbacc) |
+| Tue, 21 Oct 2025 21:02:19 GMT | How I Managed to Check Anyone’s SBI Bank Balance Using Just Phone Numbers | Aziz Al Aman | [Read More](https://medium.com/p/6e6943521606) |
+| Tue, 21 Oct 2025 20:58:51 GMT | How Hackers Secretly Monetize Your WordPress Site Without You Knowing | D Johnston | [Read More](https://medium.com/p/1eb6282dc246) |
+| Tue, 21 Oct 2025 20:57:40 GMT | Day 16 of my Cybersecurity Journey: Networking Secure Protocols | Ogundipe Priscilla | [Read More](https://medium.com/p/9a443f502e02) |
+| Tue, 21 Oct 2025 20:57:21 GMT | A client sends a file. | Jane Brian | [Read More](https://medium.com/p/05cfe3313628) |
+| Tue, 21 Oct 2025 20:54:11 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/bbe6dda0a012) |
+| Tue, 21 Oct 2025 20:41:02 GMT | Persistence | Jake Boyd | [Read More](https://medium.com/p/1b30b4660363) |
+| Tue, 21 Oct 2025 20:38:43 GMT | Vishing Chronicles: Unleash Your Inner Indiana Jones | Danielle Koppel | [Read More](https://medium.com/p/ae194c7ad35b) |
+| Tue, 21 Oct 2025 20:38:03 GMT | Hidden Dangers: A Phishing Tale | Danielle Koppel | [Read More](https://medium.com/p/c1fe03adb148) |
+| Tue, 21 Oct 2025 20:36:20 GMT | Navigating the Third-Party Vendor Jungle | Danielle Koppel | [Read More](https://medium.com/p/42f3e67a2c9a) |
 | Tue, 21 Oct 2025 20:35:25 GMT | Redefining Business Protection: The Rise of Integrated Security Systems | Fortnexs Shield | [Read More](https://medium.com/p/5feba784d920) |
 | Tue, 21 Oct 2025 20:32:25 GMT | La Crypto Night | Florent M | [Read More](https://medium.com/p/a6bcdb44e349) |
 | Tue, 21 Oct 2025 20:16:42 GMT | Your AI Isn’t Smart. It’s Just Unsupervised. | Twinkle Jaineera | [Read More](https://medium.com/p/c69645e5322f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 14:43:29 GMT | Master Privilege Escalation via Cron Jobs and Systemd Timers: Step-by-Step Guide for Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/567c9231fcdd) |
 | Tue, 21 Oct 2025 14:43:29 GMT | Apache Syncope Groovy RCE Vulnerability Lets Attackers Inject Malicious Code | Jasmitharouthu | [Read More](https://medium.com/p/2ebd8896e567) |
 | Tue, 21 Oct 2025 14:42:53 GMT | A Thanks | Michelle Seifried | [Read More](https://medium.com/p/5e8f5ce69760) |
-| Tue, 21 Oct 2025 14:40:06 GMT | Step-by-Step Deployment of pfSense(Firewall) with Dual Agent Setup and Firewall Rules | Huseyn Eyvazov | [Read More](https://medium.com/p/dcc4471c675f) |
-| Tue, 21 Oct 2025 14:39:19 GMT | When AI Turns Against Us: The Rise of Silent Cyber Assassins | Ravinduhimansha | [Read More](https://medium.com/p/6222c78b76c2) |
-| Tue, 21 Oct 2025 14:34:01 GMT | Vishing? A New Type of Scam Has Hit Multi-Million Dollar Companies | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/30a0b7f63308) |
-| Tue, 21 Oct 2025 14:32:34 GMT | The One Tool That Transformed My Bug Bounty Results | Ibtissam hammadi | [Read More](https://medium.com/p/935014a9f082) |
-| Tue, 21 Oct 2025 14:29:14 GMT | Meet Trezor Safe 7: The first quantum-ready hardware wallet with a next-gen Secure Element chip | Henry Windle | [Read More](https://medium.com/p/c8759be59bf9) |
-| Tue, 21 Oct 2025 14:27:22 GMT | The Human Hack: Top Social Engineering Attacks You Should Know | TheCyberNirvana | [Read More](https://medium.com/p/abaa16214bf5) |
-| Tue, 21 Oct 2025 14:24:06 GMT | The Hidden Threat: A Deep Dive into LLM Poisoning Attacks | Shubham Kumar | [Read More](https://medium.com/p/8b1012ec63e0) |
-| Tue, 21 Oct 2025 14:22:23 GMT | Operation Aurora was a cyber attack which was done in China. | Emenanjo Ndigwe | [Read More](https://medium.com/p/39b6e6dc5c1e) |
-| Tue, 21 Oct 2025 14:22:05 GMT | Exploring True Smartphone Privacy: The Hidden Baseband and the Limits of Open-Source Freedom | Sham Karthik S | [Read More](https://medium.com/p/c41a9bffbb62) |
-| Tue, 21 Oct 2025 14:16:11 GMT | Pemahamam Source Code Xinu dan Panduan Penginstalan Sourcetrail | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/792d8dba1b2f) |
