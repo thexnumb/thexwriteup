@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 11:07:34 GMT | The Cybersecurity Skill No One Teaches You: How to Talk to Humans | Andrew Keitany | [Read More](https://medium.com/p/49f70dc7024b) |
+| Tue, 21 Oct 2025 11:07:32 GMT | When AI Model Learns Lies: My Federated Learning Poisoning Experiment | Tauseef Ahmed | [Read More](https://medium.com/p/7e7cbc05786e) |
+| Tue, 21 Oct 2025 11:04:02 GMT | Real Attacks Do Not Wait … | Prashant Dhume | [Read More](https://medium.com/p/f9ea0c9d23d5) |
+| Tue, 21 Oct 2025 10:58:26 GMT | Apple TV and Peacock Unite: A Game-Changing Streaming Bundle for $14.99 | Abdul Ali T P | [Read More](https://medium.com/p/d4845f402c27) |
+| Tue, 21 Oct 2025 10:58:20 GMT | Inside the Mind of a Cybersecurity Specialist: How They Think Like Hackers to Stop Them | SmartCLOUD Australia | [Read More](https://medium.com/p/e2560fa1d43c) |
+| Tue, 21 Oct 2025 10:53:59 GMT | Digging Into DNS: How Misconfigured Records Led to a Subdomain Takeover | TheCyberKnight | [Read More](https://medium.com/p/13e77d49bd26) |
+| Tue, 21 Oct 2025 10:51:32 GMT | Why “Being Offline” Doesn’t Mean You’re Safe Anymore | Fateyaly | [Read More](https://medium.com/p/bd4bd539d82b) |
+| Tue, 21 Oct 2025 10:50:07 GMT | Network Services…-THM -Day -2 | Deepika  B | [Read More](https://medium.com/p/bbb29e300c00) |
+| Tue, 21 Oct 2025 10:42:01 GMT | How AI Saved My Website from a Hack — Without a Single Line of Code | CodeWriter | [Read More](https://medium.com/p/eb2d148fa980) |
+| Tue, 21 Oct 2025 10:41:15 GMT | Transparence et frictions : le miroir des relations entre femmes | Francoiseklock | [Read More](https://medium.com/p/76cf48154805) |
 | Tue, 21 Oct 2025 10:37:21 GMT | How to Do Reconnaissance Using Only Free Tools | TheCyberKnight | [Read More](https://medium.com/p/bb0909d4dfae) |
 | Tue, 21 Oct 2025 10:31:01 GMT | What Is a Confidence Score in Safe Browsing? Explained Simply with Real-Life Analogy | Natarajan C K | [Read More](https://medium.com/p/2599268323df) |
 | Tue, 21 Oct 2025 10:31:01 GMT | Killer Automation: The Hidden Cost of Trusting an Algorithm to Run Your Cybersecurity Operations | Isaac Muendo | [Read More](https://medium.com/p/9d6004f93efd) |
@@ -103,13 +113,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 04:53:39 GMT | THC Hydra: A Practical Overview for Security Professionals | Abhinsubej | [Read More](https://medium.com/p/de7c8dc64b7e) |
 | Tue, 21 Oct 2025 04:42:35 GMT | Analisis Risiko Kebocoran Data di Universitas: Kasus Columbia University | Santo Martogi Simangunsong | [Read More](https://medium.com/p/636a5150ca75) |
 | Tue, 21 Oct 2025 04:39:18 GMT | Building Power, Bearing the Cross: Beban Modernisasi Pertahanan Indonesia | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/bd7d245628a5) |
-| Tue, 21 Oct 2025 04:38:21 GMT | Management Resiko TI | Ferry Bastian Siagian | [Read More](https://medium.com/p/1ac92475940a) |
-| Tue, 21 Oct 2025 04:24:34 GMT | Thinking Like a Hacker: A Journey into Cybersecurity with TryHackMe | Salimassili | [Read More](https://medium.com/p/80e51f5d8324) |
-| Tue, 21 Oct 2025 04:19:05 GMT | The AI Compliance Hangover: When Innovation Outruns Regulation | Yash Gorasiya | [Read More](https://medium.com/p/cca1e9ebf06a) |
-| Tue, 21 Oct 2025 04:17:43 GMT | Sentinel to CrowdStrike Migration | Saikat Paul | [Read More](https://medium.com/p/018191c2081a) |
-| Tue, 21 Oct 2025 04:16:06 GMT | So, I Took a CIA Intelligence Test. | S.Ali | [Read More](https://medium.com/p/e5f689c17832) |
-| Tue, 21 Oct 2025 04:12:31 GMT | picoMini 2025 CTF Writeup | Fathijem | [Read More](https://medium.com/p/6adcc0779ddb) |
-| Tue, 21 Oct 2025 03:46:36 GMT | The Postal Heist of the Web: An Introduction to HTTP Request Smuggling | Indigo Shadow | [Read More](https://medium.com/p/3ec78410668c) |
-| Tue, 21 Oct 2025 03:42:38 GMT | 에이전틱 보안에 대한 서베이: 애플리케이션, 위협 및 방어 (A Survey on Agentic Security: Applications, Threats and Defenses) | YouShin kim | [Read More](https://medium.com/p/f3240d4fa891) |
-| Tue, 21 Oct 2025 03:31:48 GMT | Lumma and the Ghost Network: Inside the Malware That Turns Victims into Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/4c16610ca709) |
-| Tue, 21 Oct 2025 03:15:49 GMT | Tải Hack Talking Tom Gold Run Apk (Full Skin, Full Tiền) | BANDISHARE | [Read More](https://medium.com/p/8636dcb1cb71) |
