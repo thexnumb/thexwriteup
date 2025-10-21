@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 04:19:05 GMT | The AI Compliance Hangover: When Innovation Outruns Regulation | Yash Gorasiya | [Read More](https://medium.com/p/cca1e9ebf06a) |
+| Tue, 21 Oct 2025 04:17:43 GMT | Sentinel to CrowdStrike Migration | Saikat Paul | [Read More](https://medium.com/p/018191c2081a) |
+| Tue, 21 Oct 2025 04:16:06 GMT | So, I Took a CIA Intelligence Test. | S.Ali | [Read More](https://medium.com/p/e5f689c17832) |
+| Tue, 21 Oct 2025 04:12:31 GMT | picoMini 2025 CTF Writeup | Fathijem | [Read More](https://medium.com/p/6adcc0779ddb) |
 | Tue, 21 Oct 2025 03:46:36 GMT | The Postal Heist of the Web: An Introduction to HTTP Request Smuggling | Indigo Shadow | [Read More](https://medium.com/p/3ec78410668c) |
 | Tue, 21 Oct 2025 03:42:38 GMT | 에이전틱 보안에 대한 서베이: 애플리케이션, 위협 및 방어 (A Survey on Agentic Security: Applications, Threats and Defenses) | YouShin kim | [Read More](https://medium.com/p/f3240d4fa891) |
 | Tue, 21 Oct 2025 03:31:48 GMT | Lumma and the Ghost Network: Inside the Malware That Turns Victims into Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/4c16610ca709) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 16:06:01 GMT | EU AI Act Compliance: Your Practical Roadmap | Michael Hannecke | [Read More](https://medium.com/p/3fd9768f97ca) |
 | Mon, 20 Oct 2025 15:07:06 GMT | INE CTF Arena Round 18: Silent Footprint (Writeup) | n01rrr | [Read More](https://medium.com/p/5df80bdfecf3) |
 | Mon, 20 Oct 2025 14:37:44 GMT | Case Study Style: How a Small Business Cut Shadow IT and Security Incidents by 45% | Paul Meyer | [Read More](https://medium.com/p/6db444a6bdfa) |
-| Mon, 20 Oct 2025 14:28:44 GMT | 05 -Kali Linux- Execution: Where Access Becomes Action | SDNTechForum | [Read More](https://medium.com/p/1f46f92c4572) |
-| Mon, 20 Oct 2025 14:18:10 GMT | When Your Boss Calls (But It Might Be a Robot!): The Deepfake Threat | Technology EM3 | [Read More](https://medium.com/p/77699c91810c) |
-| Mon, 20 Oct 2025 14:17:12 GMT | Cyber Briefing: 2025.10.20 | CyberMaterial | [Read More](https://medium.com/p/b72c412f1290) |
-| Mon, 20 Oct 2025 14:17:12 GMT | The DevSecOps Principles That Actually Work in 2025 | Deval Kasundra | [Read More](https://medium.com/p/be50b7b426c5) |
