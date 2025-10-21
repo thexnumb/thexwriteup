@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 15:33:29 GMT | From Script Kiddie to Cyber Hero: Your Ultimate Beginner’s Guide to Ethical Hacking in 2025 | Mrsadiq | [Read More](https://medium.com/p/bdc9d7375692) |
+| Tue, 21 Oct 2025 15:25:05 GMT | EVERYTIME I ADDRESSED SOMETHING THAT BOTHERED ME I BECAME THE PROBLEM | Ola_Olayemii | [Read More](https://medium.com/p/4821b22f06dd) |
+| Tue, 21 Oct 2025 15:22:24 GMT | Broken Access Controls — Protect The Fortress! | Jen Cracchiola | [Read More](https://medium.com/p/62400f4d9f43) |
 | Tue, 21 Oct 2025 15:15:53 GMT | Beyond State Security: Reassessing Human Security and Transnational Crimes in Prabowo’s Era | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/5e8a7d98efca) |
 | Tue, 21 Oct 2025 15:15:47 GMT | How to Read and Understand Exploit Code from Exploit-DB | Andrei Ivan | [Read More](https://medium.com/p/43b26444c100) |
 | Tue, 21 Oct 2025 15:11:26 GMT | Pentester kimdir? Ne yapar? Pentest nedir? | Just an Ordinary | [Read More](https://medium.com/p/addc6a3eaba5) |
@@ -110,6 +113,3 @@ Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](ht
 | Tue, 21 Oct 2025 10:37:21 GMT | How to Do Reconnaissance Using Only Free Tools | TheCyberKnight | [Read More](https://medium.com/p/bb0909d4dfae) |
 | Tue, 21 Oct 2025 10:31:01 GMT | What Is a Confidence Score in Safe Browsing? Explained Simply with Real-Life Analogy | Natarajan C K | [Read More](https://medium.com/p/2599268323df) |
 | Tue, 21 Oct 2025 10:31:01 GMT | Killer Automation: The Hidden Cost of Trusting an Algorithm to Run Your Cybersecurity Operations | Isaac Muendo | [Read More](https://medium.com/p/9d6004f93efd) |
-| Tue, 21 Oct 2025 10:24:09 GMT | The Truth About Hacking - AI | Shahzaib | [Read More](https://medium.com/p/df8328e2e055) |
-| Tue, 21 Oct 2025 10:20:17 GMT | Cloud Security with IAM Access control | John Elvis | [Read More](https://medium.com/p/183f55d0a453) |
-| Tue, 21 Oct 2025 10:19:11 GMT | Verifiable Security, Within Reach: How Digital Shield Makes EAL6+ Military-Grade Protection a… | Digital Shield | [Read More](https://medium.com/p/6ba77d72b608) |
