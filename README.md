@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 03:46:36 GMT | The Postal Heist of the Web: An Introduction to HTTP Request Smuggling | Indigo Shadow | [Read More](https://medium.com/p/3ec78410668c) |
+| Tue, 21 Oct 2025 03:42:38 GMT | 에이전틱 보안에 대한 서베이: 애플리케이션, 위협 및 방어 (A Survey on Agentic Security: Applications, Threats and Defenses) | YouShin kim | [Read More](https://medium.com/p/f3240d4fa891) |
+| Tue, 21 Oct 2025 03:31:48 GMT | Lumma and the Ghost Network: Inside the Malware That Turns Victims into Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/4c16610ca709) |
+| Tue, 21 Oct 2025 03:15:49 GMT | Tải Hack Talking Tom Gold Run Apk (Full Skin, Full Tiền) | BANDISHARE | [Read More](https://medium.com/p/8636dcb1cb71) |
+| Tue, 21 Oct 2025 03:03:44 GMT | How GPS Tracking Technology Is Revolutionizing Motorcycle Security and Recovery | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/0315a1cb7533) |
 | Tue, 21 Oct 2025 03:01:12 GMT | GroundWorm - HackTheBox | Corey Farley | [Read More](https://medium.com/p/75af43db1f00) |
 | Tue, 21 Oct 2025 02:40:16 GMT | Solving the “Chicken-and-Egg” Problem in AWS KMS | Jim O'Neil | [Read More](https://medium.com/p/9961904c6af2) |
 | Tue, 21 Oct 2025 02:22:25 GMT | Why Culture Matters More Than the Latest Technologies in Cybersecurity | Paul Friend | [Read More](https://medium.com/p/ea7721be4282) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 14:18:10 GMT | When Your Boss Calls (But It Might Be a Robot!): The Deepfake Threat | Technology EM3 | [Read More](https://medium.com/p/77699c91810c) |
 | Mon, 20 Oct 2025 14:17:12 GMT | Cyber Briefing: 2025.10.20 | CyberMaterial | [Read More](https://medium.com/p/b72c412f1290) |
 | Mon, 20 Oct 2025 14:17:12 GMT | The DevSecOps Principles That Actually Work in 2025 | Deval Kasundra | [Read More](https://medium.com/p/be50b7b426c5) |
-| Mon, 20 Oct 2025 14:17:10 GMT | The Feature Factory Trap: Why Your Features Are Eating Your Product’s Soul | William Meller | [Read More](https://medium.com/p/f954fa4905b3) |
-| Mon, 20 Oct 2025 14:14:11 GMT | OWASP ASVS v5: The Foundation of Minimum Application Security | Achmad Aris Setiawan | [Read More](https://medium.com/p/23c788645bda) |
-| Mon, 20 Oct 2025 14:11:37 GMT | Understanding VLAN (Virtual Local Area Networks) | Huseyn Eyvazov | [Read More](https://medium.com/p/0350957c8bca) |
-| Mon, 20 Oct 2025 14:10:48 GMT | The Cyber Security Labyrinth: Navigating the Threats | Cyber Security Research | [Read More](https://medium.com/p/896871cbe92c) |
-| Mon, 20 Oct 2025 14:10:39 GMT | Find Security Bugs Before Hackers Do — Static Code Analysis | Israel Aráoz Severiche | [Read More](https://medium.com/p/b26dcf0c515c) |
