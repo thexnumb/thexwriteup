@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 03:01:12 GMT | GroundWorm - HackTheBox | Corey Farley | [Read More](https://medium.com/p/75af43db1f00) |
+| Tue, 21 Oct 2025 02:40:16 GMT | Solving the “Chicken-and-Egg” Problem in AWS KMS | Jim O'Neil | [Read More](https://medium.com/p/9961904c6af2) |
+| Tue, 21 Oct 2025 02:22:25 GMT | Why Culture Matters More Than the Latest Technologies in Cybersecurity | Paul Friend | [Read More](https://medium.com/p/ea7721be4282) |
+| Tue, 21 Oct 2025 02:20:36 GMT | Hackviser - Comicstore | Tolga Can | [Read More](https://medium.com/p/64843e9e647d) |
+| Tue, 21 Oct 2025 02:07:39 GMT | Week 14 — Understanding Redux & Fingerprinting Bundlers | Aang | [Read More](https://medium.com/p/cdba4a83fc7e) |
+| Tue, 21 Oct 2025 02:03:29 GMT | The Weight of Being the Constant… | Kira :) | [Read More](https://medium.com/p/f2c5805d6041) |
+| Tue, 21 Oct 2025 02:01:08 GMT | Tracing the SpaceY Dump (2025 Remix) | Chrissa Constantine (a.k.a. T3mp3st) | [Read More](https://medium.com/p/3c86f52ad704) |
+| Tue, 21 Oct 2025 01:57:45 GMT | Exploring Emerging Trends: Lucrative Tech Business Opportunities in Sustainable Energy Solutions | Chiro Adsmedia | [Read More](https://medium.com/p/5746d1ba5a45) |
+| Tue, 21 Oct 2025 01:55:32 GMT | Is AI in Cybersecurity Your Smartest Guard Dog or the Sneakiest Burglar? | Amie | [Read More](https://medium.com/p/8101f17a04a9) |
+| Tue, 21 Oct 2025 01:52:57 GMT | razor wire | eillen | [Read More](https://medium.com/p/6059b15b8569) |
+| Tue, 21 Oct 2025 01:32:55 GMT | The Root of Relationship Inability: Fear of Revealing Your True Self | Flaye Kate | [Read More](https://medium.com/p/6b1c348186d9) |
 | Tue, 21 Oct 2025 01:26:59 GMT | The Silent Burden: Why Sensible People Suffer More & How Intense Love Can Lead to Self-Loss | Misass | [Read More](https://medium.com/p/355788167447) |
 | Tue, 21 Oct 2025 01:22:58 GMT | When Amazon Web Services Goes Down | Tessa Schlesinger Global citizen. EU US UK Africa | [Read More](https://medium.com/p/62c535c48236) |
 | Tue, 21 Oct 2025 01:21:06 GMT | Learn AWS Without a Job: SDK Setup and Best Practices for Beginners (2025) | Annette Tamakloe | [Read More](https://medium.com/p/080b1b4fe991) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 14:11:37 GMT | Understanding VLAN (Virtual Local Area Networks) | Huseyn Eyvazov | [Read More](https://medium.com/p/0350957c8bca) |
 | Mon, 20 Oct 2025 14:10:48 GMT | The Cyber Security Labyrinth: Navigating the Threats | Cyber Security Research | [Read More](https://medium.com/p/896871cbe92c) |
 | Mon, 20 Oct 2025 14:10:39 GMT | Find Security Bugs Before Hackers Do — Static Code Analysis | Israel Aráoz Severiche | [Read More](https://medium.com/p/b26dcf0c515c) |
-| Mon, 20 Oct 2025 14:08:32 GMT | Mastering Practical Command Injection Exploitation and Detection: Step-by-Step Guide | Very Lazy Tech | [Read More](https://medium.com/p/0d0576d25139) |
-| Mon, 20 Oct 2025 14:02:37 GMT | Decoding Cyber Security: A Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/cd7d036638aa) |
-| Mon, 20 Oct 2025 14:02:25 GMT | HacktheBox: Access Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/4c4533932709) |
-| Mon, 20 Oct 2025 13:43:54 GMT | When Canva Went Dark: What the AWS Outage Revealed About Our Digital Fragility | Ronaldo | [Read More](https://medium.com/p/61f61b230597) |
-| Mon, 20 Oct 2025 13:39:30 GMT | How Much Does Your Phone Really Know About You? | Malaika Sohail | [Read More](https://medium.com/p/5e2aaef36a9f) |
-| Mon, 20 Oct 2025 13:33:53 GMT | Stumbling block for AI: UTF-8 | Unicorn Developer | [Read More](https://medium.com/p/a3623544706e) |
-| Mon, 20 Oct 2025 13:29:31 GMT | 29 HTML Input Types Advanced | Rana Awais | [Read More](https://medium.com/p/efaab8636131) |
-| Mon, 20 Oct 2025 13:28:25 GMT | I Noticed Ads Were Controlling My Phone | Sabit | [Read More](https://medium.com/p/8e365a549874) |
-| Mon, 20 Oct 2025 13:25:49 GMT | What I Learned Today in Cybersecurity | GhostDefender | [Read More](https://medium.com/p/fe4f1cb97d82) |
-| Mon, 20 Oct 2025 13:22:58 GMT | 28 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/468530026b93) |
-| Mon, 20 Oct 2025 13:20:35 GMT | SSTI2 picoCTF | Samuel Jack | [Read More](https://medium.com/p/cc804b72de4e) |
