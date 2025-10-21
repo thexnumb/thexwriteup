@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 22:31:48 GMT | Pipeline Immunity: Building Self-Healing Application Security in CI/CD Systems | Sai Krishna Kakarla | [Read More](https://medium.com/p/43334600eb22) |
+| Tue, 21 Oct 2025 22:29:58 GMT | Scamming Awareness Tips | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/4531405c1862) |
 | Tue, 21 Oct 2025 22:10:07 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/22fff64d33f4) |
 | Tue, 21 Oct 2025 22:05:52 GMT | Identity Security: Your First and Last Line of Defense | Cyber-AppSec | [Read More](https://medium.com/p/96ae653bb0c0) |
 | Tue, 21 Oct 2025 22:04:45 GMT | Lessons from the AWS Meltdown | Michael Casey | [Read More](https://medium.com/p/f413eacb01f5) |
@@ -111,5 +113,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 15:33:29 GMT | From Script Kiddie to Cyber Hero: Your Ultimate Beginner’s Guide to Ethical Hacking in 2025 | Mrsadiq | [Read More](https://medium.com/p/bdc9d7375692) |
 | Tue, 21 Oct 2025 15:25:05 GMT | EVERYTIME I ADDRESSED SOMETHING THAT BOTHERED ME I BECAME THE PROBLEM | Ola_Olayemii | [Read More](https://medium.com/p/4821b22f06dd) |
 | Tue, 21 Oct 2025 15:22:24 GMT | Broken Access Controls — Protect The Fortress! | Jen Cracchiola | [Read More](https://medium.com/p/62400f4d9f43) |
-| Tue, 21 Oct 2025 15:15:53 GMT | Beyond State Security: Reassessing Human Security and Transnational Crimes in Prabowo’s Era | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/5e8a7d98efca) |
-| Tue, 21 Oct 2025 15:15:47 GMT | How to Read and Understand Exploit Code from Exploit-DB | Andrei Ivan | [Read More](https://medium.com/p/43b26444c100) |
