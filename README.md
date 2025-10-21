@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 17:15:45 GMT | Today’s Cyber Security lecture Review (21/10/25) | patriokstar | [Read More](https://medium.com/p/b06a9e527e85) |
+| Tue, 21 Oct 2025 17:13:17 GMT | Linux Nedir? Dijital Dünyayı Şekillendiren Gizli Güç | Ahsecek | [Read More](https://medium.com/p/c208d3364f10) |
+| Tue, 21 Oct 2025 17:06:43 GMT | Cybersecurity Skills Gap and Workforce Development | Fospertise | [Read More](https://medium.com/p/667a7cb39b09) |
+| Tue, 21 Oct 2025 17:03:17 GMT | OpenWire Lab Writeup | Jaws | [Read More](https://medium.com/p/15f271089456) |
+| Tue, 21 Oct 2025 17:01:56 GMT | Stuck in a job that doesn’t pay what you’re worth? | Hachtechnology | [Read More](https://medium.com/p/b48677bcfd30) |
+| Tue, 21 Oct 2025 17:01:48 GMT | The Third Pillar of Performance: Why AI Security is the New Aerodynamics in F1™ | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/3e372db6f8a8) |
 | Tue, 21 Oct 2025 16:44:56 GMT | How I Used Sequential IDs to Download an Entire Company’s User Database (And The Joker Helped) | Iski | [Read More](https://medium.com/p/2a8dd23127e6) |
 | Tue, 21 Oct 2025 16:43:36 GMT | This Is How I Find Reflected XSS In Bug Bounty | Rehan Sohail | [Read More](https://medium.com/p/7b42059a5d04) |
+| Tue, 21 Oct 2025 16:39:54 GMT | My experiments with OWASP Juice Shop: What I Hacked, What I Couldn’t, and What I Learned | Srividya Sundaravadivelu | [Read More](https://medium.com/p/c56b18804389) |
 | Tue, 21 Oct 2025 16:37:30 GMT | Key Terms in Cybersecurity Explained Simply | Ferdi Edogawa | [Read More](https://medium.com/p/da6bdc14d4c0) |
 | Tue, 21 Oct 2025 16:34:04 GMT | Building a Secure and Production-Ready Authentication System with FastAPI: Architecture &… | Hemant Kumar | [Read More](https://medium.com/p/ea97bb94f402) |
 | Tue, 21 Oct 2025 16:31:19 GMT | Develpy TRYHACK WRITEUP | Aderogbarufai | [Read More](https://medium.com/p/2ec70ff6d3ba) |
@@ -106,10 +113,3 @@ Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](ht
 | Tue, 21 Oct 2025 12:02:04 GMT | Can AI Be Hacked? The Scary Truth Behind Machine Learning Security | Zain Ahmad | [Read More](https://medium.com/p/4f57294360f9) |
 | Tue, 21 Oct 2025 11:52:47 GMT | Why Session Based Authentication Fails in Microservices Architecture | Adelaide | [Read More](https://medium.com/p/39b961eff37e) |
 | Tue, 21 Oct 2025 11:41:26 GMT | Amass 5.0.0 Usage for Recon | Marduk I Am | [Read More](https://medium.com/p/8041bc727480) |
-| Tue, 21 Oct 2025 11:40:51 GMT | Follow the SCRIPT: Why Attackers are Winning the AI Arms Race | Tal Be'ery | [Read More](https://medium.com/p/39de80748d09) |
-| Tue, 21 Oct 2025 11:37:12 GMT | EtherHiding: The Unstoppable Ethereum Malware | Himanshu Bhatt | [Read More](https://medium.com/p/ae28eafb52dc) |
-| Tue, 21 Oct 2025 11:36:58 GMT | Transform Your Google Pixel into a Pentest Toolkit: A Guide | John Greenfield | [Read More](https://medium.com/p/dedb79e43676) |
-| Tue, 21 Oct 2025 11:36:47 GMT | Penetration Testing for HSA Medical Device Guidance: A Complete Guide | QualysecEurope | [Read More](https://medium.com/p/42dce9e4109e) |
-| Tue, 21 Oct 2025 11:36:40 GMT | When Vulnerability Becomes Art | Wilson Santos | [Read More](https://medium.com/p/a32d6fa037a0) |
-| Tue, 21 Oct 2025 11:35:59 GMT | Learn SIEM from Scratch: Best Free Courses to Get Started Today | TheCyberKnight | [Read More](https://medium.com/p/ad3b6670bbfe) |
-| Tue, 21 Oct 2025 11:32:34 GMT | The Endless Bugs I Found Writing a Python Build System From Scratch | Zain Ahmad | [Read More](https://medium.com/p/40779947cd5f) |
