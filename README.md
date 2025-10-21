@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 14:34:01 GMT | Vishing? A New Type of Scam Has Hit Multi-Million Dollar Companies | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/30a0b7f63308) |
+| Tue, 21 Oct 2025 14:32:34 GMT | The One Tool That Transformed My Bug Bounty Results | Ibtissam hammadi | [Read More](https://medium.com/p/935014a9f082) |
+| Tue, 21 Oct 2025 14:29:14 GMT | Meet Trezor Safe 7: The first quantum-ready hardware wallet with a next-gen Secure Element chip | Henry Windle | [Read More](https://medium.com/p/c8759be59bf9) |
+| Tue, 21 Oct 2025 14:27:22 GMT | The Human Hack: Top Social Engineering Attacks You Should Know | TheCyberNirvana | [Read More](https://medium.com/p/abaa16214bf5) |
+| Tue, 21 Oct 2025 14:24:06 GMT | The Hidden Threat: A Deep Dive into LLM Poisoning Attacks | Shubham Kumar | [Read More](https://medium.com/p/8b1012ec63e0) |
+| Tue, 21 Oct 2025 14:22:23 GMT | Operation Aurora was a cyber attack which was done in China. | Emenanjo Ndigwe | [Read More](https://medium.com/p/39b6e6dc5c1e) |
+| Tue, 21 Oct 2025 14:22:05 GMT | Exploring True Smartphone Privacy: The Hidden Baseband and the Limits of Open-Source Freedom | Sham Karthik S | [Read More](https://medium.com/p/c41a9bffbb62) |
 | Tue, 21 Oct 2025 14:16:11 GMT | Pemahamam Source Code Xinu dan Panduan Penginstalan Sourcetrail | Muhammad Yusuf Ar Rahman | [Read More](https://medium.com/p/792d8dba1b2f) |
 | Tue, 21 Oct 2025 14:14:47 GMT | Sensitive Data Storage and Exposure | Jen Cracchiola | [Read More](https://medium.com/p/4349eba8d149) |
 | Tue, 21 Oct 2025 14:12:34 GMT | Putting it all together — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/8394eb12d06c) |
@@ -25,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 13:58:28 GMT | The AI Bubble: Cross-Investments Inflate the Market | O Código Futuro | [Read More](https://medium.com/p/a059e8523829) |
 | Tue, 21 Oct 2025 13:58:19 GMT | Praktikum Internet of Things (Tugas): Komunikasi Serial | Muhammad Surya Saputro | [Read More](https://medium.com/p/60bb4979a9f4) |
 | Tue, 21 Oct 2025 13:57:58 GMT | Breach puh-lease! Use of proper logging and monitoring to avoid security breaches! | Jen Cracchiola | [Read More](https://medium.com/p/ec2b355b3aad) |
+| Tue, 21 Oct 2025 13:56:54 GMT | Praktikum Internet of Things: Komunikasi Serial | Muhammad Surya Saputro | [Read More](https://medium.com/p/1768888a5598) |
 | Tue, 21 Oct 2025 13:51:29 GMT | Windows Forensics 1 Challenge: How I Traced Suspicious Activity Using Registry Hives | Citadel Cybersec | [Read More](https://medium.com/p/ff7b14bec630) |
 | Tue, 21 Oct 2025 13:51:04 GMT | Inside the Anatomy of a Scam: Basic Hunting Skills | Shami Sushant | [Read More](https://medium.com/p/4ef2d0bfb8e3) |
 | Tue, 21 Oct 2025 13:45:25 GMT | When Messaging Went Dark During the AWS Outage | RealTyme | [Read More](https://medium.com/p/60beb04b05dc) |
@@ -105,11 +113,3 @@ Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](ht
 | Tue, 21 Oct 2025 09:38:38 GMT | Snort Challenge — Live Attacks - TryHackMe — Walkthrough + Write | Rahul B | [Read More](https://medium.com/p/7b6f1c7a4e9e) |
 | Tue, 21 Oct 2025 09:37:51 GMT | Fire Fighting Equipment in Qatar: Carecom Qatar Keeps People Safe | Shakir c | [Read More](https://medium.com/p/671dbc958c69) |
 | Tue, 21 Oct 2025 09:36:15 GMT | Trust No Port: The Strange Art of USB Forensics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2d783a17db32) |
-| Tue, 21 Oct 2025 09:34:36 GMT | Biometric Door Access System Bangladesh — Optimationbd Installs ZKTeco F18 at Dhanmondi 27 Travel… | optimationbd | [Read More](https://medium.com/p/f5dcafe81452) |
-| Tue, 21 Oct 2025 09:33:48 GMT | Why OpenVPN CloudConnexa® Is the Smart, Cost-Effective Way to Secure Remote Access | Divyesh Vaishnav | [Read More](https://medium.com/p/9a73a7e5e557) |
-| Tue, 21 Oct 2025 09:32:38 GMT | Handling Cross-Origin Resource Sharing (CORS) Issues in S3 | Adekola Olawale | [Read More](https://medium.com/p/3ea209b45926) |
-| Tue, 21 Oct 2025 09:32:22 GMT | I found a CRITICAL IDOR during a real-world pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/1554ba374afc) |
-| Tue, 21 Oct 2025 09:27:02 GMT | 5 Career-Limiting Mistakes Every Entry-Level Cybersecurity Professional Must Avoid | Andrew Keitany | [Read More](https://medium.com/p/11b500f0f00a) |
-| Tue, 21 Oct 2025 09:10:30 GMT | 資訊安全，不只是 IT 的問題 | MichaelXiao | [Read More](https://medium.com/p/913f9c8f023b) |
-| Tue, 21 Oct 2025 09:09:51 GMT | The Hidden Link Between Business Continuity and Cybersecurity | RealTyme | [Read More](https://medium.com/p/b779b93dfae2) |
-| Tue, 21 Oct 2025 09:01:52 GMT | Why Businesses Don’t Use E2EE (And Why That’s a Problem) | estrosec | [Read More](https://medium.com/p/e688c17a433e) |
