@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 16:44:56 GMT | How I Used Sequential IDs to Download an Entire Company’s User Database (And The Joker Helped) | Iski | [Read More](https://medium.com/p/2a8dd23127e6) |
+| Tue, 21 Oct 2025 16:43:36 GMT | This Is How I Find Reflected XSS In Bug Bounty | Rehan Sohail | [Read More](https://medium.com/p/7b42059a5d04) |
+| Tue, 21 Oct 2025 16:37:30 GMT | Key Terms in Cybersecurity Explained Simply | Ferdi Edogawa | [Read More](https://medium.com/p/da6bdc14d4c0) |
+| Tue, 21 Oct 2025 16:34:04 GMT | Building a Secure and Production-Ready Authentication System with FastAPI: Architecture &… | Hemant Kumar | [Read More](https://medium.com/p/ea97bb94f402) |
+| Tue, 21 Oct 2025 16:31:19 GMT | Develpy TRYHACK WRITEUP | Aderogbarufai | [Read More](https://medium.com/p/2ec70ff6d3ba) |
+| Tue, 21 Oct 2025 16:30:37 GMT | When Digital ID Becomes Digital Prison: Why I Can’t Prove I’m Me | Krystal | [Read More](https://medium.com/p/28a07e1953e0) |
+| Tue, 21 Oct 2025 16:25:44 GMT | Cybersecurity 101: Key Concepts Every Beginner Must Know | Aj | [Read More](https://medium.com/p/8e8b50476b3f) |
 | Tue, 21 Oct 2025 16:24:42 GMT | How Not to Fail the Exam — lessons from my OSCP+ journey | Loki | [Read More](https://medium.com/p/3d951a3c9e0b) |
+| Tue, 21 Oct 2025 16:22:55 GMT | The Benefits and Dangers of the Internet | Muhammad Arfan Sohail | [Read More](https://medium.com/p/8e7c1d30227d) |
+| Tue, 21 Oct 2025 16:22:24 GMT | Breaking into Wayne Enterprises | David ONeal | [Read More](https://medium.com/p/8f004af8f300) |
+| Tue, 21 Oct 2025 16:20:07 GMT | Geopolitical Intelligence from EDR Sensor Location Data | Bank Security | [Read More](https://medium.com/p/33b29313d118) |
+| Tue, 21 Oct 2025 16:18:30 GMT | App Permissions: Are You Over-Sharing Without Knowing It? | Aysha Misri | [Read More](https://medium.com/p/de9f4d52a7ea) |
 | Tue, 21 Oct 2025 15:56:29 GMT | The Exec-Speak Decoder | Rajat Gupta | [Read More](https://medium.com/p/8c568d3479ab) |
 | Tue, 21 Oct 2025 15:53:29 GMT | How to Think Like a Defender and an Attacker: The Mindset You Need | Aj | [Read More](https://medium.com/p/c8271ed60791) |
 | Tue, 21 Oct 2025 15:50:51 GMT | When the Internet Had a Monday — AWS Outage + Atlanta Hero | Ai WanderingNut News and Blog and Cooking | [Read More](https://medium.com/p/6e6992c14cce) |
@@ -102,14 +113,3 @@ Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](ht
 | Tue, 21 Oct 2025 11:36:40 GMT | When Vulnerability Becomes Art | Wilson Santos | [Read More](https://medium.com/p/a32d6fa037a0) |
 | Tue, 21 Oct 2025 11:35:59 GMT | Learn SIEM from Scratch: Best Free Courses to Get Started Today | TheCyberKnight | [Read More](https://medium.com/p/ad3b6670bbfe) |
 | Tue, 21 Oct 2025 11:32:34 GMT | The Endless Bugs I Found Writing a Python Build System From Scratch | Zain Ahmad | [Read More](https://medium.com/p/40779947cd5f) |
-| Tue, 21 Oct 2025 11:24:37 GMT | Linux Threat Detection Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/3af5205e3ffc) |
-| Tue, 21 Oct 2025 11:18:16 GMT | SAML Token in a Nutshell | Mayank Raje | [Read More](https://medium.com/p/107172da0ec7) |
-| Tue, 21 Oct 2025 11:15:47 GMT | Security Systems for Melbourne Homes and Businesses | First IT Solutions | [Read More](https://medium.com/p/86e5f16955cf) |
-| Tue, 21 Oct 2025 11:10:50 GMT | ⚖️ CloudConnexa vs Check Point SASE vs Fortinet SASE: Which Secure Access Solution Fits Your… | Divyesh Vaishnav | [Read More](https://medium.com/p/713b83196a93) |
-| Tue, 21 Oct 2025 11:07:34 GMT | The Cybersecurity Skill No One Teaches You: How to Talk to Humans | Andrew Keitany | [Read More](https://medium.com/p/49f70dc7024b) |
-| Tue, 21 Oct 2025 11:07:32 GMT | When AI Model Learns Lies: My Federated Learning Poisoning Experiment | Tauseef Ahmed | [Read More](https://medium.com/p/7e7cbc05786e) |
-| Tue, 21 Oct 2025 11:04:02 GMT | Real Attacks Do Not Wait … | Prashant Dhume | [Read More](https://medium.com/p/f9ea0c9d23d5) |
-| Tue, 21 Oct 2025 10:58:26 GMT | Apple TV and Peacock Unite: A Game-Changing Streaming Bundle for $14.99 | Abdul Ali T P | [Read More](https://medium.com/p/d4845f402c27) |
-| Tue, 21 Oct 2025 10:58:20 GMT | Inside the Mind of a Cybersecurity Specialist: How They Think Like Hackers to Stop Them | SmartCLOUD Australia | [Read More](https://medium.com/p/e2560fa1d43c) |
-| Tue, 21 Oct 2025 10:53:59 GMT | Digging Into DNS: How Misconfigured Records Led to a Subdomain Takeover | TheCyberKnight | [Read More](https://medium.com/p/13e77d49bd26) |
-| Tue, 21 Oct 2025 10:51:32 GMT | Why “Being Offline” Doesn’t Mean You’re Safe Anymore | Fateyaly | [Read More](https://medium.com/p/bd4bd539d82b) |
