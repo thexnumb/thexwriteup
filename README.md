@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 23:35:05 GMT | How Secure Is Your Network? | RNRPC Computer Repair | [Read More](https://medium.com/p/3ad85c14dccc) |
+| Tue, 21 Oct 2025 23:31:26 GMT | Business Logic Vulnerability lead to PII theft & account take over | zack0x01 | [Read More](https://medium.com/p/b5b68a679c19) |
+| Tue, 21 Oct 2025 23:27:02 GMT | Database Ransomware: When Attackers Target Your MySQL Directly | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/8f56a2612402) |
+| Tue, 21 Oct 2025 23:16:44 GMT | Open Kimono | Wally Bornmann | [Read More](https://medium.com/p/0e7713da91fe) |
+| Tue, 21 Oct 2025 23:15:53 GMT | Double Threat: DOM XSS & Open Redirect Vulnerabilities Exposed Across 30+ Websites | N0aziXss | [Read More](https://medium.com/p/64286558e3a3) |
+| Tue, 21 Oct 2025 23:11:28 GMT | Can’t Withdraw Crypto from Bitunix? Here’s How Ethical Hackers Can Help | Isabella | [Read More](https://medium.com/p/c64f2857e6ab) |
 | Tue, 21 Oct 2025 23:02:17 GMT | (Kinda) Deplatformed: How I Lost My Twitter Account (Again) | WhaleCalls | [Read More](https://medium.com/p/886b982b513e) |
 | Tue, 21 Oct 2025 22:56:40 GMT | Can’t Withdraw Crypto from Bitunix? Here’s How Ethical Hackers Can Help | Newmanseries | [Read More](https://medium.com/p/8edbca26e644) |
 | Tue, 21 Oct 2025 22:49:59 GMT | A Summary of my first day in Cyber security class | Kevack | [Read More](https://medium.com/p/28547b76beb6) |
@@ -107,9 +113,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 16:25:44 GMT | Cybersecurity 101: Key Concepts Every Beginner Must Know | Aj | [Read More](https://medium.com/p/8e8b50476b3f) |
 | Tue, 21 Oct 2025 16:24:42 GMT | How Not to Fail the Exam — lessons from my OSCP+ journey | Loki | [Read More](https://medium.com/p/3d951a3c9e0b) |
 | Tue, 21 Oct 2025 16:22:55 GMT | The Benefits and Dangers of the Internet | Muhammad Arfan Sohail | [Read More](https://medium.com/p/8e7c1d30227d) |
-| Tue, 21 Oct 2025 16:22:24 GMT | Breaking into Wayne Enterprises | David ONeal | [Read More](https://medium.com/p/8f004af8f300) |
-| Tue, 21 Oct 2025 16:20:07 GMT | Geopolitical Intelligence from EDR Sensor Location Data | Bank Security | [Read More](https://medium.com/p/33b29313d118) |
-| Tue, 21 Oct 2025 16:18:30 GMT | App Permissions: Are You Over-Sharing Without Knowing It? | Aysha Misri | [Read More](https://medium.com/p/de9f4d52a7ea) |
-| Tue, 21 Oct 2025 15:56:29 GMT | The Exec-Speak Decoder | Rajat Gupta | [Read More](https://medium.com/p/8c568d3479ab) |
-| Tue, 21 Oct 2025 15:53:29 GMT | How to Think Like a Defender and an Attacker: The Mindset You Need | Aj | [Read More](https://medium.com/p/c8271ed60791) |
-| Tue, 21 Oct 2025 15:50:51 GMT | When the Internet Had a Monday — AWS Outage + Atlanta Hero | Ai WanderingNut News and Blog and Cooking | [Read More](https://medium.com/p/6e6992c14cce) |
