@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 19:10:03 GMT | TAKE HOME FROM MY FIRST LECTURE IN CYBER SECURITY. | Input-7 | [Read More](https://medium.com/p/6aaed88adcbb) |
+| Tue, 21 Oct 2025 19:04:25 GMT | Pickle Rick | Aderogbarufai | [Read More](https://medium.com/p/e8e8a5c6df21) |
+| Tue, 21 Oct 2025 18:58:45 GMT | The Real Power of Vulnerability | Kerem Eroglu | [Read More](https://medium.com/p/a712748c84e9) |
+| Tue, 21 Oct 2025 18:52:24 GMT | Understanding the OWASP Top 10: The Most Common Web Application Security Risks | Adebowale Adetunji | [Read More](https://medium.com/p/e11251bf78df) |
 | Tue, 21 Oct 2025 18:38:32 GMT | Unveiling the OSWP: A Wireless Journey to Success | D4rk5t47F | [Read More](https://medium.com/p/38689bea7611) |
 | Tue, 21 Oct 2025 18:35:28 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/89f5870e9eb3) |
 | Tue, 21 Oct 2025 18:35:23 GMT | Why 99% of Cold Emails to CISOs Fail — And What Actually Works | Deepak Gupta | [Read More](https://medium.com/p/0fd0a5778080) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Oct 2025 13:31:52 GMT | The Hidden Latency Cost of API Gateways Nobody Mentions | Noah Byteforge | [Read More](https://medium.com/p/2efe8bbe3119) |
 | Tue, 21 Oct 2025 13:27:47 GMT | How Machine Learning Is Changing Everyday Technology | Skillzverse Marketing | [Read More](https://medium.com/p/1fc2fa3c8408) |
 | Tue, 21 Oct 2025 13:26:00 GMT | I Stopped Pretending to Have It All Together. My Life Got Messier — And So Much Better. | NuminousLogic | [Read More](https://medium.com/p/32a3162cc361) |
-| Tue, 21 Oct 2025 13:10:13 GMT | No One’s Watching the Night Desk | Tec-Tel Communications | [Read More](https://medium.com/p/37263ca8db92) |
-| Tue, 21 Oct 2025 13:08:51 GMT | The Night the Gas Station Lights Went Out | Tec-Tel Communications | [Read More](https://medium.com/p/dfd0d18a7b43) |
-| Tue, 21 Oct 2025 13:07:54 GMT | Cyber Espresso Episode #38- The Essentials of Cyber Hygiene | BeamSec | [Read More](https://medium.com/p/1f088a5ba369) |
-| Tue, 21 Oct 2025 13:04:36 GMT | A Wake-Up Call for the Cloud-Dependent Enterprise | Garland Smith, Writer | [Read More](https://medium.com/p/cf3f2992e914) |
