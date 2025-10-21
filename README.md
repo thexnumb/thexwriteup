@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 12:41:48 GMT | Custom Security Policies with Linux Security Modules (LSM) | Esra Kayhan | [Read More](https://medium.com/p/65a2a994917a) |
+| Tue, 21 Oct 2025 12:37:49 GMT | You Don’t Need To Be Understood To Be Worth Loving | AlfredSamuel | [Read More](https://medium.com/p/4e33528a4461) |
+| Tue, 21 Oct 2025 12:37:35 GMT | Active Directory 101: An Introduction to Active Directory | Rana chouchane - QU33NR | [Read More](https://medium.com/p/91fccd1bff4f) |
+| Tue, 21 Oct 2025 12:36:15 GMT | The Shocking Truth: Your Phishing Training Isn’t Working | Yatin | [Read More](https://medium.com/p/6b034a6bebba) |
+| Tue, 21 Oct 2025 12:35:29 GMT | How Authentication Works in Active Directory — Kerberos, NTLM & Real Attack Paths | Suhel Kathi | [Read More](https://medium.com/p/bd9bc6afc105) |
+| Tue, 21 Oct 2025 12:33:34 GMT | How to Detect Hooking (Frida) on Flutter | Talsec | [Read More](https://medium.com/p/1cc1f4e13c74) |
+| Tue, 21 Oct 2025 12:31:50 GMT | SOC 2 Simplified: What Investors Really Want to See in Your Startup | Lester Davila Escobedo | [Read More](https://medium.com/p/c46183b22281) |
+| Tue, 21 Oct 2025 12:23:49 GMT | Tren Desain UI/UX 2025: Dari Glassmorphism hingga Neumorphism 2.0 | Anjas Rani | [Read More](https://medium.com/p/8fea4a3efe57) |
+| Tue, 21 Oct 2025 12:17:29 GMT | CYBER SECURITY CLASS REVIEW ON 20TH OF OCTOBER, 2025
+Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](https://medium.com/p/566bc8126775) |
+| Tue, 21 Oct 2025 12:16:50 GMT | Web3 Wallet Security Tips Everyone Should Know | TheBlock. | [Read More](https://medium.com/p/b70632050595) |
+| Tue, 21 Oct 2025 12:14:52 GMT | picoCTF Walkthrough: Hacking the “Power Cookie” Challenge | Dipti Vasani | [Read More](https://medium.com/p/7aab90662dda) |
+| Tue, 21 Oct 2025 12:06:56 GMT | COLDRIVER’s New “ROBOT” Wave: Google Reveals NOROBOT, YESROBOT and MAYBEROBOT — What Security… | Germano Costi | [Read More](https://medium.com/p/345419aac84f) |
+| Tue, 21 Oct 2025 12:02:51 GMT | WACH Mode: The Firewall for DeFi’s AI Future | PVMihalache | [Read More](https://medium.com/p/05d7cc1685a2) |
+| Tue, 21 Oct 2025 12:02:04 GMT | Can AI Be Hacked? The Scary Truth Behind Machine Learning Security | Zain Ahmad | [Read More](https://medium.com/p/4f57294360f9) |
+| Tue, 21 Oct 2025 11:52:47 GMT | Why Session Based Authentication Fails in Microservices Architecture | Adelaide | [Read More](https://medium.com/p/39b961eff37e) |
+| Tue, 21 Oct 2025 11:41:26 GMT | Amass 5.0.0 Usage for Recon | Marduk I Am | [Read More](https://medium.com/p/8041bc727480) |
+| Tue, 21 Oct 2025 11:40:51 GMT | Follow the SCRIPT: Why Attackers are Winning the AI Arms Race | Tal Be'ery | [Read More](https://medium.com/p/39de80748d09) |
+| Tue, 21 Oct 2025 11:37:12 GMT | EtherHiding: The Unstoppable Ethereum Malware | Himanshu Bhatt | [Read More](https://medium.com/p/ae28eafb52dc) |
+| Tue, 21 Oct 2025 11:36:58 GMT | Transform Your Google Pixel into a Pentest Toolkit: A Guide | John Greenfield | [Read More](https://medium.com/p/dedb79e43676) |
+| Tue, 21 Oct 2025 11:36:47 GMT | Penetration Testing for HSA Medical Device Guidance: A Complete Guide | QualysecEurope | [Read More](https://medium.com/p/42dce9e4109e) |
+| Tue, 21 Oct 2025 11:36:40 GMT | When Vulnerability Becomes Art | Wilson Santos | [Read More](https://medium.com/p/a32d6fa037a0) |
+| Tue, 21 Oct 2025 11:35:59 GMT | Learn SIEM from Scratch: Best Free Courses to Get Started Today | TheCyberKnight | [Read More](https://medium.com/p/ad3b6670bbfe) |
+| Tue, 21 Oct 2025 11:32:34 GMT | The Endless Bugs I Found Writing a Python Build System From Scratch | Zain Ahmad | [Read More](https://medium.com/p/40779947cd5f) |
 | Tue, 21 Oct 2025 11:24:37 GMT | Linux Threat Detection Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/3af5205e3ffc) |
 | Tue, 21 Oct 2025 11:18:16 GMT | SAML Token in a Nutshell | Mayank Raje | [Read More](https://medium.com/p/107172da0ec7) |
 | Tue, 21 Oct 2025 11:15:47 GMT | Security Systems for Melbourne Homes and Businesses | First IT Solutions | [Read More](https://medium.com/p/86e5f16955cf) |
@@ -90,26 +114,3 @@ android with metasploit this is how it actually went | Saad Maqsood | [Read More
 | Tue, 21 Oct 2025 06:49:46 GMT | 8 Amazing iPhone 12 Pro Max Camera Tricks You’ll Love | Isabella Brown | [Read More](https://medium.com/p/f2fe99c6b292) |
 | Tue, 21 Oct 2025 06:45:41 GMT | What Are Smart Contracts? | Shady Farouk | [Read More](https://medium.com/p/c0e449a783b9) |
 | Tue, 21 Oct 2025 06:43:56 GMT | Smart Contracts: Complete Beginner’s Guide | Shady Farouk | [Read More](https://medium.com/p/5ded0dd61574) |
-| Tue, 21 Oct 2025 06:43:10 GMT | Cyber Quantification: The Financial Language of Enterprise Risk | Prakruti Monali | [Read More](https://medium.com/p/6f01ed8be245) |
-| Tue, 21 Oct 2025 06:36:00 GMT | Cyber Security Course | Molletibalu | [Read More](https://medium.com/p/d53bbae0d819) |
-| Tue, 21 Oct 2025 06:35:45 GMT | Protect the Digital World with Expert Cyber Security Classes in Kerala | Imayakochi | [Read More](https://medium.com/p/71f537bf224b) |
-| Tue, 21 Oct 2025 06:34:33 GMT | The DNS Query Journey: How Your Browser Finds a Website | Amil Mansurov | [Read More](https://medium.com/p/1d793a6b1a47) |
-| Tue, 21 Oct 2025 06:24:34 GMT | The Python Tool I Built in a Weekend That Now Pays My Rent | Md kawsar | [Read More](https://medium.com/p/f4daa415e3fa) |
-| Tue, 21 Oct 2025 06:24:04 GMT | The Dark Side of Falling in Love | Soledad Hernandez | [Read More](https://medium.com/p/7bcfa9052841) |
-| Tue, 21 Oct 2025 06:18:43 GMT | Kubernetes(8) — Security 相關，authenticate, authority, TLS, RBAC, kube-config, NetworkPolicy…設定 | Tako | [Read More](https://medium.com/p/91ffbe278478) |
-| Tue, 21 Oct 2025 06:16:26 GMT | What Happens When Cybersecurity and Data Privacy Collide | Kambetastephano | [Read More](https://medium.com/p/5c14e7427b58) |
-| Tue, 21 Oct 2025 06:15:58 GMT | Reverse Engineering Malware: A Practical Beginner’s Guide | Travis Ray Caverhill | [Read More](https://medium.com/p/d7b7fc06f91a) |
-| Tue, 21 Oct 2025 06:09:28 GMT | Future-Proofing Your SOC with Predictive Analytics | Kambetastephano | [Read More](https://medium.com/p/a215c47ae8e4) |
-| Tue, 21 Oct 2025 05:51:40 GMT | Price Manipulation Vulnerability: How a small logic flaw turned orders into ₹1 checkouts | Xormium | [Read More](https://medium.com/p/241da7c75596) |
-| Tue, 21 Oct 2025 05:49:29 GMT | Everything Is a Network — Even Your Friend Group | Salimassili | [Read More](https://medium.com/p/50d184c21816) |
-| Tue, 21 Oct 2025 05:48:23 GMT | TEEs As Digital Sanctums — Architectural Resilience In Untrusted Environments | Arnab Kar (DC) | [Read More](https://medium.com/p/5f72244f6d30) |
-| Tue, 21 Oct 2025 05:44:41 GMT | Cybersecurity Challenges in 2025: Protecting Data in an Evolving Landscape | Y D Prajapati | [Read More](https://medium.com/p/b46a5330ee3a) |
-| Tue, 21 Oct 2025 05:40:22 GMT | How to Create a Phishing Incident Playbook That Works | Kambetastephano | [Read More](https://medium.com/p/b52e3cde7867) |
-| Tue, 21 Oct 2025 05:37:41 GMT | Unlock Your QA Potential in 2025: Master Software Testing Concepts + 500 Practice Questions with… | ExpertsTeachers | [Read More](https://medium.com/p/f8c92915e2e5) |
-| Tue, 21 Oct 2025 05:30:27 GMT | Bypassing Online Censorship in 2025: A Practical (and Safe) Guide | Bruzzese Roberto | [Read More](https://medium.com/p/039caccbf56e) |
-| Tue, 21 Oct 2025 05:22:30 GMT | You’re Not Just an Employee, You’re an Investment. Here’s How to Prove It. | Adaldino Sapi | [Read More](https://medium.com/p/e88d8b6d8e72) |
-| Tue, 21 Oct 2025 05:15:45 GMT | Strengthening Cybersecurity Expertise through CompTIA Security+ Certification Training | Manish Shetty | [Read More](https://medium.com/p/1ab642cd783a) |
-| Tue, 21 Oct 2025 05:14:46 GMT | Building an AI-native CI/CD pipeline: Generative AI for automated code review and security scanning | Naeem ul Haq | [Read More](https://medium.com/p/ea6ab8255616) |
-| Tue, 21 Oct 2025 05:14:34 GMT | From Vulnerability to Validation: How we fixed a Critical SSRF bug before it hit production | Sefriano Edsel | [Read More](https://medium.com/p/9cf90ca6d4b1) |
-| Tue, 21 Oct 2025 05:14:06 GMT | The Ultimate SaaS Agreement Checklist: What Startups Need to Know. | Hansen Tong | [Read More](https://medium.com/p/9649152bd726) |
-| Tue, 21 Oct 2025 05:08:22 GMT | 從聊天機器人到代理人工智慧：資安攻擊新藍海 | Yi-Hsien Chen | [Read More](https://medium.com/p/afc0fb92ae7d) |
