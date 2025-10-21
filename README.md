@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 15:15:53 GMT | Beyond State Security: Reassessing Human Security and Transnational Crimes in Prabowo’s Era | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/5e8a7d98efca) |
+| Tue, 21 Oct 2025 15:15:47 GMT | How to Read and Understand Exploit Code from Exploit-DB | Andrei Ivan | [Read More](https://medium.com/p/43b26444c100) |
+| Tue, 21 Oct 2025 15:11:26 GMT | Pentester kimdir? Ne yapar? Pentest nedir? | Just an Ordinary | [Read More](https://medium.com/p/addc6a3eaba5) |
+| Tue, 21 Oct 2025 15:09:41 GMT | Wireshark: Packet Operations — Writeup | Mahir | [Read More](https://medium.com/p/4f5766567cc3) |
+| Tue, 21 Oct 2025 15:00:00 GMT | Welcome to Secured by Sebastion — A Cybersecurity Learning Journey | Secured By Sebastion | [Read More](https://medium.com/p/eb9b380a6ea6) |
+| Tue, 21 Oct 2025 14:59:27 GMT | Wireshark: Network Trafiğinin Görünmeyen Yüzünü Keşfetmek | Cyber Web | [Read More](https://medium.com/p/7d479a95a949) |
+| Tue, 21 Oct 2025 14:55:45 GMT | Your Office Wi-Fi Has a Dark Side: 6 Things You Didn’t Know About Rogue APs | Youssef Mohammed | [Read More](https://medium.com/p/e937a10e0dde) |
+| Tue, 21 Oct 2025 14:51:43 GMT | Virtualization Made Simple: How One Computer Became an Entire Office | Secured By Sebastion | [Read More](https://medium.com/p/a61124281b16) |
+| Tue, 21 Oct 2025 14:51:41 GMT | The New Age of Scams: How AI is Powering Phishing Attacks and How to Spot Them | FinTechWars | [Read More](https://medium.com/p/00ede06fafe6) |
+| Tue, 21 Oct 2025 14:47:35 GMT | Storm-2657 Watch: Does Workday mark the start — or just the first stop? | Wes Young | [Read More](https://medium.com/p/6e7d0b540f05) |
+| Tue, 21 Oct 2025 14:47:09 GMT | You’ll Never Know How Vulnerable a System Is Until You Try to Secure It | Vijay Kumar Gupta | [Read More](https://medium.com/p/f085bb8d1b75) |
+| Tue, 21 Oct 2025 14:43:29 GMT | Master Privilege Escalation via Cron Jobs and Systemd Timers: Step-by-Step Guide for Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/567c9231fcdd) |
+| Tue, 21 Oct 2025 14:43:29 GMT | Apache Syncope Groovy RCE Vulnerability Lets Attackers Inject Malicious Code | Jasmitharouthu | [Read More](https://medium.com/p/2ebd8896e567) |
+| Tue, 21 Oct 2025 14:42:53 GMT | A Thanks | Michelle Seifried | [Read More](https://medium.com/p/5e8f5ce69760) |
+| Tue, 21 Oct 2025 14:40:06 GMT | Step-by-Step Deployment of pfSense(Firewall) with Dual Agent Setup and Firewall Rules | Huseyn Eyvazov | [Read More](https://medium.com/p/dcc4471c675f) |
+| Tue, 21 Oct 2025 14:39:19 GMT | When AI Turns Against Us: The Rise of Silent Cyber Assassins | Ravinduhimansha | [Read More](https://medium.com/p/6222c78b76c2) |
 | Tue, 21 Oct 2025 14:34:01 GMT | Vishing? A New Type of Scam Has Hit Multi-Million Dollar Companies | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/30a0b7f63308) |
 | Tue, 21 Oct 2025 14:32:34 GMT | The One Tool That Transformed My Bug Bounty Results | Ibtissam hammadi | [Read More](https://medium.com/p/935014a9f082) |
 | Tue, 21 Oct 2025 14:29:14 GMT | Meet Trezor Safe 7: The first quantum-ready hardware wallet with a next-gen Secure Element chip | Henry Windle | [Read More](https://medium.com/p/c8759be59bf9) |
@@ -97,19 +113,3 @@ Steps Needed to Protect one’s Data and Privacy… | Ukaakachi | [Read More](ht
 | Tue, 21 Oct 2025 10:24:09 GMT | The Truth About Hacking - AI | Shahzaib | [Read More](https://medium.com/p/df8328e2e055) |
 | Tue, 21 Oct 2025 10:20:17 GMT | Cloud Security with IAM Access control | John Elvis | [Read More](https://medium.com/p/183f55d0a453) |
 | Tue, 21 Oct 2025 10:19:11 GMT | Verifiable Security, Within Reach: How Digital Shield Makes EAL6+ Military-Grade Protection a… | Digital Shield | [Read More](https://medium.com/p/6ba77d72b608) |
-| Tue, 21 Oct 2025 10:19:01 GMT | TheHackersLabs — LavaShop [WriteUp] | APS88 | [Read More](https://medium.com/p/f3b0a221ca3a) |
-| Tue, 21 Oct 2025 10:17:40 GMT | Rebuilding the Path of Trust: From “Black Box” Cold Wallets to Verifiable Sovereign Nodes | Digital Shield | [Read More](https://medium.com/p/e56059f1ccc6) |
-| Tue, 21 Oct 2025 10:16:07 GMT | Vecchio ma prezioso: | Hacksignals | [Read More](https://medium.com/p/fda90782d6c0) |
-| Tue, 21 Oct 2025 10:13:22 GMT | Today’s Top Cyber Intelligence Highlights — Oct 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f022ca8fb76a) |
-| Tue, 21 Oct 2025 10:05:37 GMT | The Social Side of Cybercrime: The Dangers of Social Engineering for Young People | Girls Into Coding | [Read More](https://medium.com/p/f422199fd559) |
-| Tue, 21 Oct 2025 10:01:33 GMT | Writer’s | Deborah Ogbadu | [Read More](https://medium.com/p/263e8f143fbc) |
-| Tue, 21 Oct 2025 09:56:51 GMT | REVIEW OF CYBERSEC LECTURE 20-10-2025 | Chimee Anthony | [Read More](https://medium.com/p/a863dd59a5da) |
-| Tue, 21 Oct 2025 09:53:18 GMT | Top 10 AI Risks in Cybersecurity — And Practical Strategies to Address Them - Tek Leaders Inc | Radha Naidu | [Read More](https://medium.com/p/e1caae2eba04) |
-| Tue, 21 Oct 2025 09:47:05 GMT | Proactive Third-Party Risk Management with Shodan Intelligence | Patrick Lefler | [Read More](https://medium.com/p/d16d07670824) |
-| Tue, 21 Oct 2025 09:43:00 GMT | What Caused the AWS Outage? Understanding the Technical Glitch | TechStoryLines | [Read More](https://medium.com/p/c35acdb5672a) |
-| Tue, 21 Oct 2025 09:42:41 GMT | Placing Too Much Value on a Friendship Led to Being Stalked | Amanda Steel | [Read More](https://medium.com/p/441e5bd950c8) |
-| Tue, 21 Oct 2025 09:41:26 GMT | DJINN3 — Walkthrough (Proving Grounds Play) | Maxwell Ferreira | [Read More](https://medium.com/p/30222d1401fa) |
-| Tue, 21 Oct 2025 09:40:40 GMT | DockerLabs Writeup — Seeker (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/22d14eace71c) |
-| Tue, 21 Oct 2025 09:38:38 GMT | Snort Challenge — Live Attacks - TryHackMe — Walkthrough + Write | Rahul B | [Read More](https://medium.com/p/7b6f1c7a4e9e) |
-| Tue, 21 Oct 2025 09:37:51 GMT | Fire Fighting Equipment in Qatar: Carecom Qatar Keeps People Safe | Shakir c | [Read More](https://medium.com/p/671dbc958c69) |
-| Tue, 21 Oct 2025 09:36:15 GMT | Trust No Port: The Strange Art of USB Forensics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2d783a17db32) |
