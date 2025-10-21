@@ -12,16 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 01:26:59 GMT | The Silent Burden: Why Sensible People Suffer More & How Intense Love Can Lead to Self-Loss | Misass | [Read More](https://medium.com/p/355788167447) |
+| Tue, 21 Oct 2025 01:22:58 GMT | When Amazon Web Services Goes Down | Tessa Schlesinger Global citizen. EU US UK Africa | [Read More](https://medium.com/p/62c535c48236) |
+| Tue, 21 Oct 2025 01:21:06 GMT | Learn AWS Without a Job: SDK Setup and Best Practices for Beginners (2025) | Annette Tamakloe | [Read More](https://medium.com/p/080b1b4fe991) |
+| Tue, 21 Oct 2025 01:10:16 GMT | Designing Your Network | Gregdiny | [Read More](https://medium.com/p/226b1f142eaa) |
+| Tue, 21 Oct 2025 01:09:02 GMT | Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard | Omar Santos | [Read More](https://medium.com/p/b1ed0a3e5c00) |
+| Tue, 21 Oct 2025 01:06:25 GMT | Hello world! | Samuel Ndubuisi | [Read More](https://medium.com/p/63e00f439519) |
+| Tue, 21 Oct 2025 00:50:49 GMT | Tuesday Morning Threat Report: Oct 21, 2025 | Mark Maguire | [Read More](https://medium.com/p/e3dd522a152a) |
+| Tue, 21 Oct 2025 00:39:36 GMT | Single Point of Failure in Big 2025? | Adebukola | [Read More](https://medium.com/p/4d54cd686bd0) |
+| Tue, 21 Oct 2025 00:37:39 GMT | Gobuster in Action: The Scanner that Revealed the Bank’s Forgotten Administrative Portal | Wesley Santos | [Read More](https://medium.com/p/8c45f10ea785) |
+| Tue, 21 Oct 2025 00:06:59 GMT | THE PSYCHOLOGY BEHIND CYBER ATTACKS (PART II) | Toluwabori Agbemeyede Cyber_b | [Read More](https://medium.com/p/239250965218) |
+| Tue, 21 Oct 2025 00:02:39 GMT | Aprende a usar dnsrecon para Enumeración Exhaustiva de DNS y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/412f4477568d) |
+| Mon, 20 Oct 2025 23:55:33 GMT | Giải thưởng nhỏ, ý nghĩa lớn, dấu ấn của Ngô Bình An trong cuộc thi an ninh mạng | VTV24 | [Read More](https://medium.com/p/c379fad9a485) |
+| Mon, 20 Oct 2025 23:48:04 GMT | Best Email Practices: How to Keep Your Email Account Safe | Mohsin | [Read More](https://medium.com/p/c179dcecb0d3) |
 | Mon, 20 Oct 2025 23:29:03 GMT | Day 3 — IP Addressing & Subnetting (Part 1): Understanding How Devices Talk on the Internet | HackTrace | [Read More](https://medium.com/p/d48e5c7555c0) |
 | Mon, 20 Oct 2025 23:26:15 GMT | 131 Chrome Extensions Hijacked WhatsApp Web | Cyber-AppSec | [Read More](https://medium.com/p/a7060dca80e4) |
 | Mon, 20 Oct 2025 23:23:43 GMT | Hypervisor-level Exploits: Why VM Isolation Isn’t a Silver Bullet | Bervice | [Read More](https://medium.com/p/7baafb248f88) |
 | Mon, 20 Oct 2025 23:17:55 GMT | CISA Adds Five New Actively Exploited Vulnerabilities to the KEV Catalog | SecuritySc0ut | [Read More](https://medium.com/p/e68bbf2f9f90) |
+| Mon, 20 Oct 2025 23:06:04 GMT | A Technical Overview of Logical Access Controls and Access Control Lists (ACLs) | Mai Tran | [Read More](https://medium.com/p/a8f5f30148f6) |
 | Mon, 20 Oct 2025 23:05:45 GMT | Hacking Pipes & Plants: Cyber Risks in Industrial Systems | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/7dcaa4748681) |
 | Mon, 20 Oct 2025 23:05:27 GMT | The Quantum Finance Revolution: | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/3eff3d8c3054) |
 | Mon, 20 Oct 2025 23:05:12 GMT | From Panic to Protocol: How to Prepare for the Inevitable Cyber Crisis | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d0ed9ae991cf) |
 | Mon, 20 Oct 2025 23:05:11 GMT | Monday Cyber Brief — October 20 2025 | Keaton @ File Under Risk | [Read More](https://medium.com/p/ae8c6ec84274) |
 | Mon, 20 Oct 2025 23:03:38 GMT | Oh you Developers! | WALIU SANNI | [Read More](https://medium.com/p/52814599e157) |
 | Mon, 20 Oct 2025 22:58:30 GMT | ️ What Is Doxing — The Hidden Threat to Your Digital Identity | Dallen Sadru | [Read More](https://medium.com/p/ea26c0eca942) |
+| Mon, 20 Oct 2025 22:34:37 GMT | Optimizing Your Preparation for IT Certification Exams | Mai Tran | [Read More](https://medium.com/p/b50df1231de5) |
 | Mon, 20 Oct 2025 22:18:54 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/1dcc643088b3) |
 | Mon, 20 Oct 2025 22:11:58 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/80ffb5565219) |
 | Mon, 20 Oct 2025 22:10:45 GMT | Legal Briefs and Digital Breaches: | SinglePointGlobal | [Read More](https://medium.com/p/f6f3230e6f21) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 13:25:49 GMT | What I Learned Today in Cybersecurity | GhostDefender | [Read More](https://medium.com/p/fe4f1cb97d82) |
 | Mon, 20 Oct 2025 13:22:58 GMT | 28 HTML Form Attributes and Validation | Rana Awais | [Read More](https://medium.com/p/468530026b93) |
 | Mon, 20 Oct 2025 13:20:35 GMT | SSTI2 picoCTF | Samuel Jack | [Read More](https://medium.com/p/cc804b72de4e) |
-| Mon, 20 Oct 2025 13:17:01 GMT | AWS just reminded everyone what a single point of failure looks like | Electric Wolfe Marshmallow Hypertext | [Read More](https://medium.com/p/e0ca6c883eb4) |
-| Mon, 20 Oct 2025 13:17:01 GMT | I Find XSS Vulnerabilities With One Simple Line | Ibtissam hammadi | [Read More](https://medium.com/p/d3c3d1df3409) |
-| Mon, 20 Oct 2025 12:56:38 GMT | When Hackers Stop Breaking in and Start Walking in the Front Door | Tyson Martin | [Read More](https://medium.com/p/c0c865fbc58b) |
-| Mon, 20 Oct 2025 12:55:24 GMT | Bug Bounty 101: Top 10 Reconnaissance Tools | Netlas.io | [Read More](https://medium.com/p/70ecba86c5f3) |
-| Mon, 20 Oct 2025 12:51:50 GMT | 2026 Robotti AppSec Report | Jay Simmons | [Read More](https://medium.com/p/af9fcc7d30f7) |
-| Mon, 20 Oct 2025 12:49:30 GMT | Poem From Space Root-Me Write-UP | iIyas | [Read More](https://medium.com/p/ac5ec1a3bbdf) |
-| Mon, 20 Oct 2025 12:42:59 GMT | Global Internet Outage Sends Shockwaves as AWS Crashes: What Really Happened? | Mitchell "Banknote Mitch” Similton | [Read More](https://medium.com/p/9d051e10c059) |
-| Mon, 20 Oct 2025 12:42:23 GMT | Security-Hardened 3-Tier Cloud Architecture | Rahul Vala | [Read More](https://medium.com/p/1da50fc26686) |
-| Mon, 20 Oct 2025 12:41:01 GMT | My Journey — Cybersecurity 101 | A A | [Read More](https://medium.com/p/7c7e06ff8bae) |
-| Mon, 20 Oct 2025 12:18:19 GMT | Recon Playbook — Practical Guide for Bug Bounty Hunters (2025) | Monujangra | [Read More](https://medium.com/p/d13f6f014221) |
-| Mon, 20 Oct 2025 12:18:08 GMT | BeamSec Presents Alfred Plus Agentic AI Solution at GITEX Global 2025 | BeamSec | [Read More](https://medium.com/p/43581b074480) |
-| Mon, 20 Oct 2025 12:17:28 GMT | The Dark Side of the Cloud: What the AWS Outage Revealed | res4ad | [Read More](https://medium.com/p/a32c94955fb6) |
-| Mon, 20 Oct 2025 12:17:12 GMT | How to Use a Portable Door Lock: Extra Security for Travel or Home | Sure Lock & Key LLC | [Read More](https://medium.com/p/91d049729cb0) |
-| Mon, 20 Oct 2025 12:12:29 GMT | KUPONG Coupon Checker (Hack.lu CTF 2025) – Exhaustive Exploit Write-up | 0verflowme | [Read More](https://medium.com/p/600105ba975c) |
-| Mon, 20 Oct 2025 12:07:56 GMT | How to Start Bug Bounty in 2025 — A Realistic Guide from a Security Researcher | Monujangra | [Read More](https://medium.com/p/c34a920a1554) |
