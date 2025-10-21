@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Oct 2025 08:50:46 GMT | i tried "hacking" my own
+android with metasploit this is how it actually went | Saad Maqsood | [Read More](https://medium.com/p/38eb23e129b0) |
+| Tue, 21 Oct 2025 08:35:12 GMT | Initial Access Pot TryHackMe Walkthrough & Linux Forensics | Visir | [Read More](https://medium.com/p/a8fdf54690ab) |
+| Tue, 21 Oct 2025 08:33:24 GMT | Wireshark: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/c7982a84c42e) |
+| Tue, 21 Oct 2025 08:14:21 GMT | Learning To Be Seen, Again | cozy jb | [Read More](https://medium.com/p/38296b102e76) |
 | Tue, 21 Oct 2025 08:13:57 GMT | The Daily Tech Digest: 21 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ffd54e72bbd0) |
 | Tue, 21 Oct 2025 08:12:55 GMT | Transforming General-Purpose LLMs into Cyber security Experts: 5 Key Techniques | Mehdi | [Read More](https://medium.com/p/1edf4e3132bd) |
 | Tue, 21 Oct 2025 08:12:50 GMT | Finding the right DMARC monitoring tool: A practical guide for security teams | Red Sift | [Read More](https://medium.com/p/e1723a05f4bb) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Oct 2025 23:03:38 GMT | Oh you Developers! | WALIU SANNI | [Read More](https://medium.com/p/52814599e157) |
 | Mon, 20 Oct 2025 22:58:30 GMT | ️ What Is Doxing — The Hidden Threat to Your Digital Identity | Dallen Sadru | [Read More](https://medium.com/p/ea26c0eca942) |
 | Mon, 20 Oct 2025 22:34:37 GMT | Optimizing Your Preparation for IT Certification Exams | Mai Tran | [Read More](https://medium.com/p/b50df1231de5) |
-| Mon, 20 Oct 2025 22:18:54 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/1dcc643088b3) |
-| Mon, 20 Oct 2025 22:11:58 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/80ffb5565219) |
-| Mon, 20 Oct 2025 22:10:45 GMT | Legal Briefs and Digital Breaches: | SinglePointGlobal | [Read More](https://medium.com/p/f6f3230e6f21) |
-| Mon, 20 Oct 2025 22:03:50 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/dd00cba653bc) |
