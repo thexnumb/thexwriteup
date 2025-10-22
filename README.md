@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 14:11:32 GMT | Mastering Subdomain Enumeration: A Beginner’s Guide to Expanding Your Reconnaissance | Sumit Sah | [Read More](https://medium.com/p/c1719a97fbff) |
+| Wed, 22 Oct 2025 14:11:18 GMT | The Ultimate Guide to Content Discovery: Finding Hidden Files and Directories | Andrei Ivan | [Read More](https://medium.com/p/0c4ad36f4f09) |
+| Wed, 22 Oct 2025 14:08:21 GMT | To Those Who Still Haven’t Danced | Iyalekhue Endurance Otakhoigbogie | [Read More](https://medium.com/p/69c313f8af51) |
+| Wed, 22 Oct 2025 14:06:36 GMT | From Packets to Ports: How I Finally Understood the Internet’s Hidden Language | Salimassili | [Read More](https://medium.com/p/dd1a4e374b6a) |
+| Wed, 22 Oct 2025 14:02:01 GMT | Diving into the Digital Fortress: My Week as a Cybersecurity Analyst Student Trainee | Chukwu Joseph | [Read More](https://medium.com/p/ecdda8f8f78b) |
+| Wed, 22 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.22 | CyberMaterial | [Read More](https://medium.com/p/95d1b69d8aeb) |
+| Wed, 22 Oct 2025 14:00:18 GMT |  | Hossam_Mostafa | [Read More](https://medium.com/p/96fdf99c8bcc) |
+| Wed, 22 Oct 2025 13:59:56 GMT | The Hidden Network: Why the Future of Safety Depends on Connectivity | Tec-Tel Communications | [Read More](https://medium.com/p/4291a9fbd3fb) |
+| Wed, 22 Oct 2025 13:56:13 GMT | Professional Security Services in Maharashtra - S9G Shield Force | Boboxa | [Read More](https://medium.com/p/eaae2ee323a4) |
+| Wed, 22 Oct 2025 13:55:05 GMT | The Modern City Doesn’t Sleep: Visual Intelligence and the Future of Urban Safety | Tec-Tel Communications | [Read More](https://medium.com/p/141a692e8ddd) |
+| Wed, 22 Oct 2025 13:54:33 GMT | The Hidden Architecture of the Internet: How I Finally Understood the OSI Model | Salimassili | [Read More](https://medium.com/p/7b600435e3f4) |
+| Wed, 22 Oct 2025 13:53:54 GMT | AI Jailbreaks: The Dark Art of Breaking Smart Machines | Mehmet Özel | [Read More](https://medium.com/p/c0ba4648a609) |
+| Wed, 22 Oct 2025 13:51:07 GMT | What Happened to AWS on Monday | Stevie Emmit | [Read More](https://medium.com/p/4d217a6c7232) |
+| Wed, 22 Oct 2025 13:50:39 GMT | Warning: That Copilot Summary Might Be Hiding a Data-Stealing Attack. | Muhammad Hassan Ali | [Read More](https://medium.com/p/47c3d582746a) |
+| Wed, 22 Oct 2025 13:48:49 GMT | Setup and Tune an OT SOC (Part 2): Suricata custom rules and alert fine tunes. | biero llagas | [Read More](https://medium.com/p/3b3bfde0ba1e) |
+| Wed, 22 Oct 2025 13:35:20 GMT | The 10 Best Tips for Windows Defender — Protect Your PC Like a Pro | Cordula Boeck | [Read More](https://medium.com/p/17f44368f643) |
+| Wed, 22 Oct 2025 13:31:52 GMT | If only I could shed tears | Nebula | [Read More](https://medium.com/p/e02298eca85a) |
 | Wed, 22 Oct 2025 13:21:35 GMT | 2004: The Year the Streets Went Digital (Part 1): Virtually Connected | Md kawsar | [Read More](https://medium.com/p/89fbe80acd85) |
 | Wed, 22 Oct 2025 13:20:14 GMT | Top Benefits of ServiceNow: Automate Enterprise Workflows | Digital Transformation Playbook | [Read More](https://medium.com/p/95900ead75db) |
 | Wed, 22 Oct 2025 13:16:05 GMT | Encryption | Motunrayo Simisaye | [Read More](https://medium.com/p/7f65b5816d6c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 09:05:07 GMT | This Prompt Fools Every AI Detector: The Ultimate Humanizing Hack for AI Writing | Abdikadir Moge | [Read More](https://medium.com/p/76f954b430b4) |
 | Wed, 22 Oct 2025 09:03:51 GMT | Digital Footprints: What Your Apps Reveal About You | Aysha Misri | [Read More](https://medium.com/p/73e0828f178a) |
 | Wed, 22 Oct 2025 09:03:04 GMT | Top 5 SOC 2 Audit Mistakes (and How to Avoid Them) | Hicomply | [Read More](https://medium.com/p/cac727bb6800) |
-| Wed, 22 Oct 2025 08:57:11 GMT | Lost in Cyber Maze?  Your Study GPS, Found! | Authlyn | [Read More](https://medium.com/p/6f0121868cda) |
-| Wed, 22 Oct 2025 08:56:04 GMT | A Summary of my third day in class | Kevack | [Read More](https://medium.com/p/d944ae3e0a24) |
-| Wed, 22 Oct 2025 08:55:38 GMT | AWS IAM Access Analyzer: Your Free Security Guard Against Public Exposure | Afaq Ul Haq Babar | [Read More](https://medium.com/p/eb1c08e7bfa6) |
-| Wed, 22 Oct 2025 08:55:08 GMT | Hetty HTTP Toolkit: A Complete Guide to Web Application Security Testing | Averageguymedianow | [Read More](https://medium.com/p/b9e0ea1f4d6e) |
-| Wed, 22 Oct 2025 08:52:36 GMT | 34 Zero-Days?! Pwn2Own’s First-Day Hackfest! | Truspex | [Read More](https://medium.com/p/ea7929a490d4) |
-| Wed, 22 Oct 2025 08:50:50 GMT | Why Chrome Only Saving Website Passwords for One Account (Fixes + Causes Explained) | Ambreenbasit | [Read More](https://medium.com/p/c081b3e569f3) |
-| Wed, 22 Oct 2025 08:38:40 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/8a00e01509e2) |
-| Wed, 22 Oct 2025 08:32:15 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/fa44ca22accd) |
-| Wed, 22 Oct 2025 08:14:10 GMT | A Summary of my second day in Cyber security class | Kevack | [Read More](https://medium.com/p/8ccb9ec86e6a) |
-| Wed, 22 Oct 2025 08:04:22 GMT | Crypto Incident Triage & Response Guide | WhaleCalls | [Read More](https://medium.com/p/8add63622d82) |
-| Wed, 22 Oct 2025 08:02:11 GMT | How a Misconfigured Binary Can Give You Root Access in 2 Commands | MayhemCode | [Read More](https://medium.com/p/f7d3e3173194) |
-| Wed, 22 Oct 2025 08:02:11 GMT | [Part 10] The Rise of ChatGPT in Cybersecurity: Good, Bad, and Ugly | Cyberkech | [Read More](https://medium.com/p/f80cc75733de) |
-| Wed, 22 Oct 2025 08:02:10 GMT | Set Up Domain Leak Alerts in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/c3e7718daf6b) |
-| Wed, 22 Oct 2025 08:02:06 GMT | How I Broke the Access Control of an Entire Application | 0xP0L73R63157 | [Read More](https://medium.com/p/e26921b28a55) |
-| Wed, 22 Oct 2025 08:00:51 GMT | Secrets of Clean Software Installations Every User Should Know | Ask IT Support | [Read More](https://medium.com/p/5a4a67530de4) |
-| Wed, 22 Oct 2025 07:59:51 GMT | My TEDx Talk on “Guardians of the Future: Building Ethical, Secure, and Adaptive Digital… | Shubham Dumbre | [Read More](https://medium.com/p/62989f67b1ac) |
-| Wed, 22 Oct 2025 07:53:52 GMT | DLL Hijacking: Bir DLL Dosyası Ne Kadar Tehlikeli Olabilir? | Eren Onder | [Read More](https://medium.com/p/af9203fc9a65) |
