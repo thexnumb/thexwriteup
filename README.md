@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 10:23:48 GMT | WebRTC Security: How Safe Is It? | Filip Veselinovic | [Read More](https://medium.com/p/3677e54826a8) |
+| Wed, 22 Oct 2025 10:16:25 GMT | Vulnerability Management : Moving Beyond CVSS | Snapsec | [Read More](https://medium.com/p/d3f16aa6f1c4) |
+| Wed, 22 Oct 2025 10:13:02 GMT | The Benefits of a Multi-Cloud Security Strategy | Samina Perveen | [Read More](https://medium.com/p/35a83bc3463e) |
+| Wed, 22 Oct 2025 10:09:39 GMT | Digital Shield: Moving Beyond Security Anxiety to Build Your True Line of Digital Sovereignty | Digital Shield | [Read More](https://medium.com/p/abc1de0b9923) |
+| Wed, 22 Oct 2025 10:02:44 GMT | Install Kafka WITH Zookeeper Easily | Navneet Kumar | [Read More](https://medium.com/p/e4614ab6cebd) |
+| Wed, 22 Oct 2025 10:02:43 GMT | 實測 GeminiCLI Security Extensions 來Review CodeX 原始碼 | JH5 | [Read More](https://medium.com/p/edf5a326ac10) |
+| Wed, 22 Oct 2025 10:02:21 GMT | Cybercrime as a Service — SIM Cards Turned into Weapons | Rue | [Read More](https://medium.com/p/25507cfeb580) |
+| Wed, 22 Oct 2025 10:01:14 GMT | Reclaim Digital Sovereignty: Digital Shield’s “Zero-Trust” Revolution in Web3 Security | Digital Shield Offcial | [Read More](https://medium.com/p/9413de61c600) |
+| Wed, 22 Oct 2025 09:57:57 GMT | 【Air-Gap Isolation】Digital Shield Hardware Wallet: The Ultimate Solution for Secure Web3 Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/fddc4bd7b56f) |
+| Wed, 22 Oct 2025 09:56:25 GMT | Penetration Testing: Identifying Security Flaws | SRE Mastery | [Read More](https://medium.com/p/1ffa08459a03) |
+| Wed, 22 Oct 2025 09:55:42 GMT | Modern Women Want Men to Be Vulnerable—Until They Actually Are | ELON JOBS | [Read More](https://medium.com/p/848a2fe30145) |
+| Wed, 22 Oct 2025 09:53:43 GMT | FlashFuzz = Speed Web Fuzzing | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/c75921a742ff) |
+| Wed, 22 Oct 2025 09:48:11 GMT | Securing Kubernetes Pods with Kyverno: Deep Dive into Policy-as-Code | Powerful Woman | [Read More](https://medium.com/p/789305c5a067) |
+| Wed, 22 Oct 2025 09:46:59 GMT | “It Was the Driver!” Package Thief Busted By Ring Cam Justice Served? | Lawnline | [Read More](https://medium.com/p/085e73261e2a) |
+| Wed, 22 Oct 2025 09:46:47 GMT | The Hacker’s Side Hustle Nobody Talks About | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/af41d487921d) |
+| Wed, 22 Oct 2025 09:46:13 GMT | AI-Driven Phishing-as-a-Service (PhaaS): the new front in social-engineering — and how enterprises… | Jackdavis Iap | [Read More](https://medium.com/p/82e3c773f820) |
+| Wed, 22 Oct 2025 09:42:29 GMT | Why Endpoint Protection Starts With a Cyber Security Company | Balaji | [Read More](https://medium.com/p/b68d9435eacd) |
+| Wed, 22 Oct 2025 09:38:58 GMT | Mastering Cyber Defense Through CompTIA SecurityX Certification | Manish Shetty | [Read More](https://medium.com/p/0ca2759a42ff) |
+| Wed, 22 Oct 2025 09:36:26 GMT | CYBER DIARY | Anointing Uzoma Ahaoma | [Read More](https://medium.com/p/a923de2b2b8c) |
 | Wed, 22 Oct 2025 09:34:17 GMT | DockerLabs Writeup — Winterfell (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c175a324e4fe) |
 | Wed, 22 Oct 2025 09:32:22 GMT | Is My Video Call Private? A Plain-English Guide to plugNmeet Security | Jibon Costa | [Read More](https://medium.com/p/bf5bc6d076b6) |
 | Wed, 22 Oct 2025 09:32:09 GMT | What Nmap Told Me About My Network at 2 a.m. | Fateyaly | [Read More](https://medium.com/p/f5607d80c252) |
@@ -93,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 03:02:36 GMT | We Secure What We Love | Imanologya | [Read More](https://medium.com/p/baafe50b1fcc) |
 | Wed, 22 Oct 2025 03:01:05 GMT | The Unseen Risks in Your Federated Data Science Models | The Bot Group | [Read More](https://medium.com/p/4ae58ec69f8f) |
 | Wed, 22 Oct 2025 02:46:38 GMT | 31 Days of Horror: Movie Review:Bug (2007) – Madness, Paranoia, and the Descent of Ashley Judd | Sean Patrick | [Read More](https://medium.com/p/593a9bfa27b4) |
-| Wed, 22 Oct 2025 02:33:58 GMT | Sometimes, the skill you think you’ll never use becomes the only reason you didn’t lose millions | Juliet Anoruo. | [Read More](https://medium.com/p/4c555712be47) |
-| Wed, 22 Oct 2025 02:33:27 GMT | Simple (but time consuming) guide to hunt for DOM XSS without a scanner | popalltheshells | [Read More](https://medium.com/p/f5b65a262073) |
-| Wed, 22 Oct 2025 02:32:52 GMT | When Your Boss Calls (But It Might Be a Robot!): The Deepfake Threat | Max Farnga | [Read More](https://medium.com/p/9d603f14564d) |
-| Wed, 22 Oct 2025 02:32:18 GMT | The Role of PKI in Everyday Life | TechTrellis Academy | [Read More](https://medium.com/p/5e1953d5d4a2) |
-| Wed, 22 Oct 2025 02:27:59 GMT | AWS Outage October 2025: What Happened and Key Lessons for All Cloud Users | Sasono Utomo | [Read More](https://medium.com/p/1a13015b5e28) |
-| Wed, 22 Oct 2025 02:23:19 GMT | AWS Outage: What Yesterday’s Event Tells Us About Cloud Dependency | Max Farnga | [Read More](https://medium.com/p/3495053862ad) |
-| Wed, 22 Oct 2025 02:18:02 GMT | Why Pentesters Can’t Ignore the Radio Spectrum in 2025 | Michael Preston | [Read More](https://medium.com/p/8277daac7ef9) |
-| Wed, 22 Oct 2025 02:13:30 GMT | Hackers Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/5c3d334e4917) |
-| Wed, 22 Oct 2025 02:05:02 GMT | Try Hack Me vs Hack The Box: Which One’s Worth It? | Rendiero | [Read More](https://medium.com/p/e13cfe9229b7) |
-| Wed, 22 Oct 2025 01:31:51 GMT | Everyday Cyber Hygiene: Small Habits That Protect Big Data | Wistkey | [Read More](https://medium.com/p/ceed26b2f325) |
-| Wed, 22 Oct 2025 01:30:11 GMT | Can You Really Stay Anonymous Online in 2025? | Rabail Zaheer | [Read More](https://medium.com/p/dd16242a5b8d) |
-| Wed, 22 Oct 2025 01:20:25 GMT | CYBER SECURITY CLASS REVIEW ON 21ST OF OCTOBER, 2025
-General Kali commands:
-CD
-PWD
-LS
-Touch
-/root… | Ukaakachi | [Read More](https://medium.com/p/51c27d2a5287) |
-| Wed, 22 Oct 2025 01:02:19 GMT | In late August 2025, the State of Nevada faced one of its most serious cybersecurity crises to date. | Akilnath Bodipudi | [Read More](https://medium.com/p/7835abe91bae) |
-| Wed, 22 Oct 2025 01:02:04 GMT | IAR: The Trading Platform That Builds Strength Through Recovery | Racca Jane | [Read More](https://medium.com/p/1a70db4985c9) |
-| Wed, 22 Oct 2025 00:53:33 GMT | (sub)text | Kristie Bradfield | [Read More](https://medium.com/p/84d4980d248b) |
-| Wed, 22 Oct 2025 00:50:27 GMT | My start… | Mjay | [Read More](https://medium.com/p/80466201c733) |
-| Wed, 22 Oct 2025 00:29:06 GMT | Detecting Abuse of OpenEDR’s Permissive EDR Trial: A Security Researcher’s Perspective | Kostas | [Read More](https://medium.com/p/fc55bf53972c) |
-| Wed, 22 Oct 2025 00:23:04 GMT | What The Boooomb? — The Fork Bomb Explained | Joseph Mwangi | [Read More](https://medium.com/p/48785bcc3a78) |
-| Wed, 22 Oct 2025 00:03:03 GMT | Learn how to use dnsrecon for Exhaustive DNS Enumeration and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/0924e19400f6) |
