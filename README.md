@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 19:13:25 GMT | Brooklyn Nine Nine — TryHackMe Walkthrough - by 0xpynge | 0xpynge | [Read More](https://medium.com/p/2d18e843c107) |
+| Wed, 22 Oct 2025 19:10:32 GMT | Protecting Critical Infrastructure from Solarflare-Style Attacks | Kambetastephano | [Read More](https://medium.com/p/2cf1aa087c4d) |
+| Wed, 22 Oct 2025 19:09:22 GMT | Beyond the Buzzword: What Penetration Testing Really Is (And Why You Need It) | Kambetastephano | [Read More](https://medium.com/p/43422a3a0e4b) |
+| Wed, 22 Oct 2025 19:01:02 GMT | Business Email Compromise in Microsoft 365: How to Detect, Prevent, and Respond | SafeAeon Inc. | [Read More](https://medium.com/p/66d5787f9a5a) |
+| Wed, 22 Oct 2025 18:57:25 GMT | Investigator’s Toolkit: Tactical Scripts for the Technical Threat Hunter — Part 1… | Gabriel H. | [Read More](https://medium.com/p/f6e27ace9b0f) |
+| Wed, 22 Oct 2025 18:54:34 GMT | Cyber Security: Mastering the Art of Digital Defense | Cyber Security Research | [Read More](https://medium.com/p/ed43913acdd3) |
+| Wed, 22 Oct 2025 18:52:32 GMT | Malware Analysis — Xubuntu-Safe-Download | Clement | [Read More](https://medium.com/p/789330e65af8) |
+| Wed, 22 Oct 2025 18:51:29 GMT | Reflections from the Young Indo-Pacific Forum 2025: Re-centering Europe’s Role | Putra Perdana | [Read More](https://medium.com/p/df4d5e193e56) |
+| Wed, 22 Oct 2025 18:51:27 GMT | I Got Scammed! : How I Fell for a Language Course Scam | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/87c5053b152c) |
+| Wed, 22 Oct 2025 18:50:39 GMT | Operating Systems You’ll Use Every Day: Windows, Linux, macOS Explained | Aj | [Read More](https://medium.com/p/07aff329c810) |
+| Wed, 22 Oct 2025 18:47:02 GMT | Protecting Sensitive Data in AI Workflows | Evan M. Rose | [Read More](https://medium.com/p/c0faf568f468) |
 | Wed, 22 Oct 2025 18:29:22 GMT | My LinkedIn Hack Story | Rohan Patil | [Read More](https://medium.com/p/a0a2a51c082b) |
+| Wed, 22 Oct 2025 18:28:02 GMT | Security by Design: Embedding Protection into Business Infrastructure from Day One | Fortnexs Shield | [Read More](https://medium.com/p/03ddd13f255a) |
 | Wed, 22 Oct 2025 18:17:05 GMT | Beyond Detection: Building Organizational Immunity to AI Misinformation | Esther Abel | [Read More](https://medium.com/p/77f1efae9ab8) |
 | Wed, 22 Oct 2025 18:11:51 GMT | Why OT Cybersecurity Is About People, Not Just Tech | Cyberkech | [Read More](https://medium.com/p/fe9f20302efc) |
 | Wed, 22 Oct 2025 18:07:34 GMT | During my cybersecurity training, I completed a hands-on lab using Burp Suite and OWASP Juice Shop… | Adeleke Theophilus O | [Read More](https://medium.com/p/295f4fc8cf0f) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 13:54:33 GMT | The Hidden Architecture of the Internet: How I Finally Understood the OSI Model | Salimassili | [Read More](https://medium.com/p/7b600435e3f4) |
 | Wed, 22 Oct 2025 13:53:54 GMT | AI Jailbreaks: The Dark Art of Breaking Smart Machines | Mehmet Özel | [Read More](https://medium.com/p/c0ba4648a609) |
 | Wed, 22 Oct 2025 13:51:07 GMT | What Happened to AWS on Monday | Stevie Emmit | [Read More](https://medium.com/p/4d217a6c7232) |
-| Wed, 22 Oct 2025 13:50:39 GMT | Warning: That Copilot Summary Might Be Hiding a Data-Stealing Attack. | Muhammad Hassan Ali | [Read More](https://medium.com/p/47c3d582746a) |
-| Wed, 22 Oct 2025 13:48:49 GMT | Setup and Tune an OT SOC (Part 2): Suricata custom rules and alert fine tunes. | biero llagas | [Read More](https://medium.com/p/3b3bfde0ba1e) |
-| Wed, 22 Oct 2025 13:35:20 GMT | The 10 Best Tips for Windows Defender — Protect Your PC Like a Pro | Cordula Boeck | [Read More](https://medium.com/p/17f44368f643) |
-| Wed, 22 Oct 2025 13:31:52 GMT | If only I could shed tears | Nebula | [Read More](https://medium.com/p/e02298eca85a) |
-| Wed, 22 Oct 2025 13:21:35 GMT | 2004: The Year the Streets Went Digital (Part 1): Virtually Connected | Md kawsar | [Read More](https://medium.com/p/89fbe80acd85) |
-| Wed, 22 Oct 2025 13:20:14 GMT | Top Benefits of ServiceNow: Automate Enterprise Workflows | Digital Transformation Playbook | [Read More](https://medium.com/p/95900ead75db) |
-| Wed, 22 Oct 2025 13:16:05 GMT | Encryption | Motunrayo Simisaye | [Read More](https://medium.com/p/7f65b5816d6c) |
-| Wed, 22 Oct 2025 13:13:29 GMT | Complete Cyber Security Specialist Roadmap with Free Learning Resources | Harish Anbalagan | [Read More](https://medium.com/p/d00296362f2d) |
-| Wed, 22 Oct 2025 13:11:24 GMT | The Early Warning Signs-Reconnaissance, Weaponization, and Delivery | Samirah A.O | [Read More](https://medium.com/p/7a811dfd89a7) |
-| Wed, 22 Oct 2025 12:59:48 GMT | The quiet power of feature engineering: transforming raw data into predictive gold | Bella Gray UI UX | [Read More](https://medium.com/p/d83868298dc5) |
-| Wed, 22 Oct 2025 12:53:38 GMT | Why On-Prem Backup Still Makes Sense | JustinWang | [Read More](https://medium.com/p/5723504c2d7b) |
-| Wed, 22 Oct 2025 12:53:15 GMT | The End of Cybersecurity as We Know It: How Merlin Will Redefine Digital Defense | Fortress Protocol | [Read More](https://medium.com/p/0d5866920df9) |
