@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 20:33:46 GMT | Why People Fall for Scams | Godsway R. Akakpo | [Read More](https://medium.com/p/c5a6055375b8) |
 | Wed, 22 Oct 2025 20:07:58 GMT | Pyramid of Pain - THM | Isiah | [Read More](https://medium.com/p/86b397a6b909) |
 | Wed, 22 Oct 2025 19:55:48 GMT | Linux Basics for SOC Analysts: My First Hands-On Log Analysis Day | Jenna S | [Read More](https://medium.com/p/5b0b34c92d8c) |
 | Wed, 22 Oct 2025 19:55:17 GMT | Mastering Threat Hunting: Proactive Defense in a Reactive World | SafeAeon Inc. | [Read More](https://medium.com/p/ea6797524291) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 14:26:21 GMT | AI and Cybersecurity: Why Tomorrow’s Threats Still Exploit Yesterday’s Mistakes | Abdellaoui Ahmed | [Read More](https://medium.com/p/202c3a92ea04) |
 | Wed, 22 Oct 2025 14:23:07 GMT | buying cloned cards in japan online 2025–2026 | Zogodame | [Read More](https://medium.com/p/3e01c2a68677) |
 | Wed, 22 Oct 2025 14:21:34 GMT | The Shifting Threat Landscape in Web3 — and Why ABTU Matters More Than Ever | Abatis ABTU | [Read More](https://medium.com/p/913c548eadab) |
-| Wed, 22 Oct 2025 14:11:32 GMT | Mastering Subdomain Enumeration: A Beginner’s Guide to Expanding Your Reconnaissance | Sumit Sah | [Read More](https://medium.com/p/c1719a97fbff) |
