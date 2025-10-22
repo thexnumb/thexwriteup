@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 17:09:40 GMT | Cities run on video now, here’s how Vidaio makes it work (and pay) | Vidaio | [Read More](https://medium.com/p/a0d0458af015) |
+| Wed, 22 Oct 2025 17:07:19 GMT | GitLab Security Vulnerabilities: A Critical Alert for DevOps Teams | Aniket Sharma | [Read More](https://medium.com/p/353abe774e9b) |
+| Wed, 22 Oct 2025 17:07:03 GMT | HTB_Academy: Attacking RDP | Babatunde Ojo | [Read More](https://medium.com/p/e2efae060e99) |
+| Wed, 22 Oct 2025 17:06:35 GMT | Internet of Things — Integrasi Komponen Dasar melalui Proyek Sederhana | Zifa Tea Azzahra | [Read More](https://medium.com/p/8aae420635d1) |
+| Wed, 22 Oct 2025 17:03:30 GMT | HacktheBox: MetaTwo Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/ca59f776e9f1) |
+| Wed, 22 Oct 2025 17:00:33 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/7430c6f20e3a) |
+| Wed, 22 Oct 2025 17:00:07 GMT | Cybersecurity in 2025: AI, Hacktivists, and the Digital Tug-of-War | Juan Lage | [Read More](https://medium.com/p/c7f40dce07d6) |
+| Wed, 22 Oct 2025 16:51:47 GMT | The AI Revolution: It’s Here, It’s Big, and Identity Will Unleash Its Full Power | Jim Alkove | [Read More](https://medium.com/p/35605b70d7b1) |
+| Wed, 22 Oct 2025 16:50:30 GMT | Assessing Your Organization’s Cybersecurity Posture A Practical Checklist | DFGates | [Read More](https://medium.com/p/158b3d5863bf) |
+| Wed, 22 Oct 2025 16:49:57 GMT | The macOS Forensic Journey — Application Firewall Logs (appfirewall.log) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c30704063a5e) |
+| Wed, 22 Oct 2025 16:45:05 GMT | Windows System Fundamentals (Windows İşletim Sistemi Temelleri) | Taha Altın | [Read More](https://medium.com/p/66f64d60d1c2) |
 | Wed, 22 Oct 2025 16:32:27 GMT | A Practical Guide to Fine-Tuning Wazuh’s Vulnerability Detection Module | Wilklins Nyatteng | [Read More](https://medium.com/p/b2b15f92fa91) |
 | Wed, 22 Oct 2025 16:19:46 GMT | The AWS US-EAST-1 Outage of October 20, 2025: A DNS Glitch That Exposed the Internet’s Fragile… | H2bm | [Read More](https://medium.com/p/6ef09782272c) |
 | Wed, 22 Oct 2025 16:17:00 GMT | Shocking GPU Vulnerability | Shailendra Kumar | [Read More](https://medium.com/p/1747118e2497) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 11:56:59 GMT | Practical IoT Hacking, book review | Windsorheightsbookfair | [Read More](https://medium.com/p/b14b9f72c619) |
 | Wed, 22 Oct 2025 11:53:13 GMT | Who is mahdi | Mahdi gasmi | [Read More](https://medium.com/p/6e794d6ed807) |
 | Wed, 22 Oct 2025 11:38:24 GMT | Governing the Cloud Kingdom: How AWS Control Tower Solves the Multi-Account Nightmare | Kumma Sivaprakash | [Read More](https://medium.com/p/f4ade3aa90f3) |
-| Wed, 22 Oct 2025 11:31:55 GMT | The Internet Isn’t Broken, It’s Just Being Hacked in Slow Motion | Arfa | [Read More](https://medium.com/p/0a285ac36274) |
-| Wed, 22 Oct 2025 11:22:15 GMT | How I Got Into a Hacker’s Head (Without Breaking the Law) | Arfa | [Read More](https://medium.com/p/adffcb09c9f3) |
-| Wed, 22 Oct 2025 11:22:08 GMT | Dancing with the Clouds: Mastering Hybrid and Multi-Cloud Strategies in 2025 | Ritu Priya Singh | [Read More](https://medium.com/p/04c50eb0ddf2) |
-| Wed, 22 Oct 2025 11:17:49 GMT | The Future of Security Isn't Static: How AI-Driven and Multi-Protocol Traps are Protecting Web3 | Qxbroker | [Read More](https://medium.com/p/9e9166da6f17) |
-| Wed, 22 Oct 2025 11:12:56 GMT | 7 Key Takeaways From Barracuda’s MSP Customer Insight Report 2025 | HostNOC | [Read More](https://medium.com/p/7f39c7140897) |
-| Wed, 22 Oct 2025 11:11:52 GMT | Sudo Privilege Escalation Scenarios: Exploiting Restricted Paths to Root Access | Esra Kayhan | [Read More](https://medium.com/p/78424a25de2e) |
-| Wed, 22 Oct 2025 11:10:48 GMT | The Porn Industry’s Dirty Mirror — How the “Fake Audition” Fantasy Became a Real-World Scam | Internet Exposed | [Read More](https://medium.com/p/39f398089c07) |
-| Wed, 22 Oct 2025 11:08:55 GMT | Submission Guidelines for CyberSec Research | Bruzzese Roberto | [Read More](https://medium.com/p/e9c78afc8e07) |
-| Wed, 22 Oct 2025 11:02:23 GMT | The Future of IT Isn’t Alerts, It’s Intelligent Autonomy. | Arsalan Shemirani | [Read More](https://medium.com/p/8b39561fa21d) |
-| Wed, 22 Oct 2025 11:00:25 GMT | [HackTheBox x VulnLab Write-up] Sweep (Lansweeper exploit, SSH honeypot and GenericAll) | Chicken0248 | [Read More](https://medium.com/p/5c9583fa7554) |
-| Wed, 22 Oct 2025 10:58:36 GMT | AI Security Certifications: How to Become an AI Red Teamer or Model Auditor | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/54c403f81e2e) |
