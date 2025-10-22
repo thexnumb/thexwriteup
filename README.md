@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 21:28:31 GMT | No One is Safe Not Even 2nd Amendment Enthusiasts | Debi Reuter | [Read More](https://medium.com/p/992f05b775c1) |
+| Wed, 22 Oct 2025 21:18:17 GMT | HACK THE BOX : Don’t Panic ! walkthrough and writeup — how I solved it | hehash | [Read More](https://medium.com/p/51eb8b6f4985) |
+| Wed, 22 Oct 2025 21:15:11 GMT | Day 17 of my Cybersecurity Journey: Wireshark Basics I | Ogundipe Priscilla | [Read More](https://medium.com/p/d617730016a9) |
 | Wed, 22 Oct 2025 21:01:51 GMT | Do You Know Who Protects the Digital World? It’s Cybersecurity | Vertex University | [Read More](https://medium.com/p/ae0047c79f8d) |
 | Wed, 22 Oct 2025 20:59:18 GMT | Hackviser — Comicstore Scenario Walkthrough | Minosh Umayanga | [Read More](https://medium.com/p/248da295e04b) |
 | Wed, 22 Oct 2025 20:57:02 GMT | XSS Attack Demonstration: Preventing XSS in Web Application Backends (Part 3/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/b0da08a1ef98) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 14:52:33 GMT | The hidden cost of correlation: Why data scientists need to think in systems, not just metrics | Zoehart | [Read More](https://medium.com/p/734c3db9368c) |
 | Wed, 22 Oct 2025 14:46:57 GMT | Time to Switch to Linux | Matyas Koszegi | [Read More](https://medium.com/p/cce555b24578) |
 | Wed, 22 Oct 2025 14:45:36 GMT | “The CORS Cache Poisoning Attack That Broke WordPress APIs” | Aman Sharma | [Read More](https://medium.com/p/300ffb19df13) |
-| Wed, 22 Oct 2025 14:43:45 GMT | AWS Single Sign-On using external Identity Provider ZOHO Directory | Rajesh Gundeti | [Read More](https://medium.com/p/2624990b1e5f) |
-| Wed, 22 Oct 2025 14:41:11 GMT | Write Up Lab: Blind SQL injection with time delays and information retrieval | Velskynotfound | [Read More](https://medium.com/p/90f06c694995) |
-| Wed, 22 Oct 2025 14:37:40 GMT | Cyberup Institute: Train in Cybersecurity with the Immersive Experience of the Cyber Arena | CYBERUP INSTITUTE | [Read More](https://medium.com/p/7577b67f1dc6) |
