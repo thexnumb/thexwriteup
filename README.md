@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 03:46:43 GMT | The Sleeper Agent Bug: How One HTML Payload Lay Hidden for Months to Attack My Inbox ⏳ | LordofHeaven | [Read More](https://medium.com/p/9d3f1e9df60e) |
+| Wed, 22 Oct 2025 03:42:14 GMT | Decoding Risk Assessment: A Guide for Security Stakeholders | cyber_pix | [Read More](https://medium.com/p/808b3d57d5aa) |
+| Wed, 22 Oct 2025 03:32:13 GMT | USDG on Solana: How to Make Your Dollars Work | Låwrêñçe | [Read More](https://medium.com/p/257eb1b7821e) |
+| Wed, 22 Oct 2025 03:28:43 GMT | My Journey — Linux Fundamentals | A A | [Read More](https://medium.com/p/66c466dd16b5) |
+| Wed, 22 Oct 2025 03:02:36 GMT | We Secure What We Love | Imanologya | [Read More](https://medium.com/p/baafe50b1fcc) |
+| Wed, 22 Oct 2025 03:01:05 GMT | The Unseen Risks in Your Federated Data Science Models | The Bot Group | [Read More](https://medium.com/p/4ae58ec69f8f) |
 | Wed, 22 Oct 2025 02:46:38 GMT | 31 Days of Horror: Movie Review:Bug (2007) – Madness, Paranoia, and the Descent of Ashley Judd | Sean Patrick | [Read More](https://medium.com/p/593a9bfa27b4) |
 | Wed, 22 Oct 2025 02:33:58 GMT | Sometimes, the skill you think you’ll never use becomes the only reason you didn’t lose millions | Juliet Anoruo. | [Read More](https://medium.com/p/4c555712be47) |
 | Wed, 22 Oct 2025 02:33:27 GMT | Simple (but time consuming) guide to hunt for DOM XSS without a scanner | popalltheshells | [Read More](https://medium.com/p/f5b65a262073) |
@@ -113,9 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 18:05:15 GMT | How Crypto Scammers Clean or Launder their Dirty Crypto ? | STRENBOW | [Read More](https://medium.com/p/b50356ba41b3) |
 | Tue, 21 Oct 2025 18:04:46 GMT | From Dorm Rooms to Doorsteps: Cybersecurity Awareness Month Goes Home | Jennifer "Jay" Palumbo | [Read More](https://medium.com/p/f2708eb04178) |
 | Tue, 21 Oct 2025 17:54:00 GMT | “ Blast from the past ” picoCTF 2024 writeup | Dr_ro0t | [Read More](https://medium.com/p/54afd09b1118) |
-| Tue, 21 Oct 2025 17:49:33 GMT | Nested Compiling in Memory | Mark Mo - Fashionproof | [Read More](https://medium.com/p/f4a12881a3c4) |
-| Tue, 21 Oct 2025 17:49:14 GMT | The Vulnerability of Public Tears | Long After the Thrill | [Read More](https://medium.com/p/0199d998fe09) |
-| Tue, 21 Oct 2025 17:44:44 GMT | No, It Wasn’t Just You — The Whole Internet Was Having a Breakdown | The Masked Muse | [Read More](https://medium.com/p/352d7ec95875) |
-| Tue, 21 Oct 2025 17:39:59 GMT | Robust Authentication in Spring Boot with Keycloak | vishal acharya | [Read More](https://medium.com/p/0d2c220210ad) |
-| Tue, 21 Oct 2025 17:32:51 GMT | Satellite Communications and Cybersecurity in the Cyber Warfare Era | David SEHYEON Baek | [Read More](https://medium.com/p/c9f0372a99e3) |
-| Tue, 21 Oct 2025 17:27:58 GMT | Dead-Drop Resolvers: Malware’s Quiet Rendezvous and Why Adaptive Defense Matters | Evan Powell | [Read More](https://medium.com/p/82c8faaf207c) |
