@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 23:15:12 GMT | Hacker Bounty CTF بالعربي - TryHackme — الغرفة السهلة | OJ Adel | [Read More](https://medium.com/p/42be1435ecb3) |
+| Wed, 22 Oct 2025 22:53:56 GMT | ⏰ How We Exploit Moms’ Time — and Why I’m Learning to Protect Mine | The Gorgeous Deaf Mama | [Read More](https://medium.com/p/a142c710df49) |
+| Wed, 22 Oct 2025 22:52:57 GMT | The E-Waste Black Market: Why Criminals Love Your Old Laptop | Subramanimokkala | [Read More](https://medium.com/p/11086138f4bc) |
+| Wed, 22 Oct 2025 22:51:34 GMT | Bounty Hacker - TryHackme- Easy Level Room | OJ Adel | [Read More](https://medium.com/p/01b893e95c3f) |
+| Wed, 22 Oct 2025 22:48:44 GMT | The Harmonic Witness: | Jessica McGlothern | [Read More](https://medium.com/p/25d3b1dafdb1) |
+| Wed, 22 Oct 2025 22:37:20 GMT | $2000 Bounty: From Browser to Burp | Monika sharma | [Read More](https://medium.com/p/290dcb10f386) |
+| Wed, 22 Oct 2025 22:37:15 GMT | Networking Basics for Security Folks: TCP/IP Without the Headache | Aj | [Read More](https://medium.com/p/6987420dca9a) |
 | Wed, 22 Oct 2025 22:28:52 GMT | The Uncanny Valley of AI: How It’s Causing More Harm than Good to Our Critical Thinking Skills | Olivia Love | [Read More](https://medium.com/p/1fc19686bf14) |
 | Wed, 22 Oct 2025 22:07:14 GMT | I Just Learned About the “Pixnapping” Attack on Android | Ryan W | [Read More](https://medium.com/p/c31583a8822a) |
 | Wed, 22 Oct 2025 21:54:11 GMT | You Have Been Robbed! — By Etsy?! | dataminerals | [Read More](https://medium.com/p/b8d6ed22a58a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 15:10:55 GMT | Moving beyond passwords — Authentication Reloaded !! | Cyberbali | [Read More](https://medium.com/p/a12f00182a4e) |
 | Wed, 22 Oct 2025 15:10:18 GMT | Siber Güvenliğe Giriş ve Temel Siber Güvenlik Araçları | Aliberk Sandıkçı | [Read More](https://medium.com/p/0c09ceb320bf) |
 | Wed, 22 Oct 2025 15:09:09 GMT | How the $1.7 B Veeam–Securiti AI Deal Signals a New Era of Data Resilience & AI-Driven Security | IT_Engineer | [Read More](https://medium.com/p/f5d576785c2b) |
-| Wed, 22 Oct 2025 15:07:18 GMT | Writers, Stay Alert: The Publishing Platforms You Should Question Before Clicking “Submit” | Amit Gupta | [Read More](https://medium.com/p/00940413bca1) |
-| Wed, 22 Oct 2025 15:03:49 GMT | When Images Talk Too Much: How EXIF Metadata Can Leak Sensitive Information | Divyesh Chauhan | [Read More](https://medium.com/p/318ad598777c) |
-| Wed, 22 Oct 2025 15:03:42 GMT | Master the Art of Finding and Exploiting Hidden Backups and Old Versions: Step-by-Step Guide for… | Very Lazy Tech | [Read More](https://medium.com/p/d2433339173a) |
-| Wed, 22 Oct 2025 15:02:11 GMT | IT Support in East London You Can Rely On | Gary Marshall | [Read More](https://medium.com/p/866132139155) |
-| Wed, 22 Oct 2025 15:01:48 GMT | Is Vulnerability Just Exposure Therapy? | Rilee Astraea (Mystic in the Matrix) | [Read More](https://medium.com/p/7a28613f4453) |
-| Wed, 22 Oct 2025 14:57:52 GMT | Dancing API Challenge — Solution Guide CSEM | CSEM | [Read More](https://medium.com/p/a95d9d61c374) |
-| Wed, 22 Oct 2025 14:56:24 GMT | Understanding JSON Web Token (JWT) Security | hackerdevil | [Read More](https://medium.com/p/48c3a9cc96f2) |
