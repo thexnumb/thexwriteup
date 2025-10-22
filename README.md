@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 08:14:10 GMT | A Summary of my second day in Cyber security class | Kevack | [Read More](https://medium.com/p/8ccb9ec86e6a) |
+| Wed, 22 Oct 2025 08:04:22 GMT | Crypto Incident Triage & Response Guide | WhaleCalls | [Read More](https://medium.com/p/8add63622d82) |
+| Wed, 22 Oct 2025 08:02:11 GMT | How a Misconfigured Binary Can Give You Root Access in 2 Commands | MayhemCode | [Read More](https://medium.com/p/f7d3e3173194) |
+| Wed, 22 Oct 2025 08:02:11 GMT | [Part 10] The Rise of ChatGPT in Cybersecurity: Good, Bad, and Ugly | Cyberkech | [Read More](https://medium.com/p/f80cc75733de) |
+| Wed, 22 Oct 2025 08:02:10 GMT | Set Up Domain Leak Alerts in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/c3e7718daf6b) |
+| Wed, 22 Oct 2025 08:02:06 GMT | How I Broke the Access Control of an Entire Application | 0xP0L73R63157 | [Read More](https://medium.com/p/e26921b28a55) |
+| Wed, 22 Oct 2025 08:00:51 GMT | Secrets of Clean Software Installations Every User Should Know | Ask IT Support | [Read More](https://medium.com/p/5a4a67530de4) |
+| Wed, 22 Oct 2025 07:59:51 GMT | My TEDx Talk on “Guardians of the Future: Building Ethical, Secure, and Adaptive Digital… | Shubham Dumbre | [Read More](https://medium.com/p/62989f67b1ac) |
+| Wed, 22 Oct 2025 07:53:52 GMT | DLL Hijacking: Bir DLL Dosyası Ne Kadar Tehlikeli Olabilir? | Eren Onder | [Read More](https://medium.com/p/af9203fc9a65) |
+| Wed, 22 Oct 2025 07:53:37 GMT | Topic 33: CSS Grid Layout | Rana Awais | [Read More](https://medium.com/p/ebbda5acf5a4) |
+| Wed, 22 Oct 2025 07:48:32 GMT | Topic 32: CSS Flexbox (Flexible Box Layout) | Rana Awais | [Read More](https://medium.com/p/b415c3f49220) |
+| Wed, 22 Oct 2025 07:44:20 GMT | Deploying SafeLine to Protect Against AI Scrapers | Maverick Steel | [Read More](https://medium.com/p/d51c0b761a42) |
+| Wed, 22 Oct 2025 07:43:03 GMT | 31 HTML Tables | Rana Awais | [Read More](https://medium.com/p/40d7a9410950) |
+| Wed, 22 Oct 2025 07:41:37 GMT | HacktheBox Certified: How I Owned a “Secure” Medium Windows Machine — Full Walkthrough | Joseph Jung (@IcedAmericano12) | [Read More](https://medium.com/p/5f5bf483929e) |
+| Wed, 22 Oct 2025 07:37:12 GMT | From Hacker to Hero: How Ethical Hackers Protect the Digital World | Hassan Talal | [Read More](https://medium.com/p/ff4199342901) |
 | Wed, 22 Oct 2025 07:31:59 GMT | CloudifyOps’ Journey to Self-Healing MSO: Building the Future of Resilient Operations | CloudifyOps | [Read More](https://medium.com/p/65dd8e5c3562) |
 | Wed, 22 Oct 2025 07:30:35 GMT | MDR Services in 2025: Why Organizations Are Moving from Reactive Tools to Proactive Security… | Lipika | [Read More](https://medium.com/p/25798a18dd26) |
 | Wed, 22 Oct 2025 07:29:00 GMT | Laptop Repair for Remote Workers: Essential Services You Shouldn’t Skip | Ask IT Support | [Read More](https://medium.com/p/b6cd969a60ad) |
@@ -103,19 +118,3 @@ Touch
 | Tue, 21 Oct 2025 22:10:07 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/22fff64d33f4) |
 | Tue, 21 Oct 2025 22:05:52 GMT | Identity Security: Your First and Last Line of Defense | Cyber-AppSec | [Read More](https://medium.com/p/96ae653bb0c0) |
 | Tue, 21 Oct 2025 22:04:45 GMT | Lessons from the AWS Meltdown | Michael Casey | [Read More](https://medium.com/p/f413eacb01f5) |
-| Tue, 21 Oct 2025 22:01:27 GMT | Open Source: A Package Management Policy | Bill Musgrave | [Read More](https://medium.com/p/3659727afe6b) |
-| Tue, 21 Oct 2025 21:55:06 GMT | I Fell for the Way He Made Me Feel Seen | Bloom with Maria | [Read More](https://medium.com/p/6b4337de9a5e) |
-| Tue, 21 Oct 2025 21:51:54 GMT | Node.js v25: A Game-Changer for Modern JavaScript Development | Mirza Muhammad Arslan Ali | [Read More](https://medium.com/p/6a7624972e69) |
-| Tue, 21 Oct 2025 21:46:44 GMT | DAY 2 | PST Vawulence | [Read More](https://medium.com/p/09d698fab4da) |
-| Tue, 21 Oct 2025 21:44:03 GMT | BIOGRAPHY OF A BEAST: The Engineering of Monsters | Ghost | [Read More](https://medium.com/p/16bcd3dd3867) |
-| Tue, 21 Oct 2025 21:42:20 GMT | MY FIRST DAY IN CYBER SECURITY
-Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com/p/5cf4ee626528) |
-| Tue, 21 Oct 2025 21:30:38 GMT | What I Learned Submitting to Google’s AI Vulnerability Reward Program (Even Though It Was Out of… | Anirudh Diwakar | [Read More](https://medium.com/p/354972608553) |
-| Tue, 21 Oct 2025 21:28:28 GMT | Did the Ethereum Foundation Move $654M in ETH? | StylusCrypto | [Read More](https://medium.com/p/11f5f3e564d2) |
-| Tue, 21 Oct 2025 21:19:18 GMT | Why Artificial Intelligence Isn’t Getting Smarter It’s Just Getting Better at Tests | Aaron | [Read More](https://medium.com/p/309b5d198a9b) |
-| Tue, 21 Oct 2025 21:10:46 GMT | AI Security Startups Watchlist — Top 30–2025 | Tal Eliyahu | [Read More](https://medium.com/p/5a95471bbacc) |
-| Tue, 21 Oct 2025 21:02:19 GMT | How I Managed to Check Anyone’s SBI Bank Balance Using Just Phone Numbers | Aziz Al Aman | [Read More](https://medium.com/p/6e6943521606) |
-| Tue, 21 Oct 2025 20:58:51 GMT | How Hackers Secretly Monetize Your WordPress Site Without You Knowing | D Johnston | [Read More](https://medium.com/p/1eb6282dc246) |
-| Tue, 21 Oct 2025 20:57:40 GMT | Day 16 of my Cybersecurity Journey: Networking Secure Protocols | Ogundipe Priscilla | [Read More](https://medium.com/p/9a443f502e02) |
-| Tue, 21 Oct 2025 20:57:21 GMT | A client sends a file. | Jane Brian | [Read More](https://medium.com/p/05cfe3313628) |
-| Tue, 21 Oct 2025 20:54:11 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/bbe6dda0a012) |
