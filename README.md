@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 23:22:24 GMT | The Hard Way: How One Repo Crash Taught Me More Than Any Linux Tutorial Ever Could | David Zion | [Read More](https://medium.com/p/01ecaf8a56c7) |
 | Wed, 22 Oct 2025 23:15:12 GMT | Hacker Bounty CTF بالعربي - TryHackme — الغرفة السهلة | OJ Adel | [Read More](https://medium.com/p/42be1435ecb3) |
 | Wed, 22 Oct 2025 22:53:56 GMT | ⏰ How We Exploit Moms’ Time — and Why I’m Learning to Protect Mine | The Gorgeous Deaf Mama | [Read More](https://medium.com/p/a142c710df49) |
 | Wed, 22 Oct 2025 22:52:57 GMT | The E-Waste Black Market: Why Criminals Love Your Old Laptop | Subramanimokkala | [Read More](https://medium.com/p/11086138f4bc) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 15:21:52 GMT | Machine Learning-Assisted Recon in Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/53db57009985) |
 | Wed, 22 Oct 2025 15:10:55 GMT | Moving beyond passwords — Authentication Reloaded !! | Cyberbali | [Read More](https://medium.com/p/a12f00182a4e) |
 | Wed, 22 Oct 2025 15:10:18 GMT | Siber Güvenliğe Giriş ve Temel Siber Güvenlik Araçları | Aliberk Sandıkçı | [Read More](https://medium.com/p/0c09ceb320bf) |
-| Wed, 22 Oct 2025 15:09:09 GMT | How the $1.7 B Veeam–Securiti AI Deal Signals a New Era of Data Resilience & AI-Driven Security | IT_Engineer | [Read More](https://medium.com/p/f5d576785c2b) |
