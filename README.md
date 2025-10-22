@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 09:34:17 GMT | DockerLabs Writeup — Winterfell (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c175a324e4fe) |
+| Wed, 22 Oct 2025 09:32:22 GMT | Is My Video Call Private? A Plain-English Guide to plugNmeet Security | Jibon Costa | [Read More](https://medium.com/p/bf5bc6d076b6) |
+| Wed, 22 Oct 2025 09:32:09 GMT | What Nmap Told Me About My Network at 2 a.m. | Fateyaly | [Read More](https://medium.com/p/f5607d80c252) |
+| Wed, 22 Oct 2025 09:27:01 GMT | AN INSIGHT INTO NETWORKING AND PASSWORD SECURITY | Shalom Chinedu | [Read More](https://medium.com/p/464e7e248ecf) |
+| Wed, 22 Oct 2025 09:22:33 GMT | I Tried to Crack Bitcoin’s Vault. Here’s What I Learned About Impossible Odds. | Levi Chinecherem Chidi | [Read More](https://medium.com/p/de500246fd92) |
 | Wed, 22 Oct 2025 09:17:44 GMT | Axipro: Your Trusted Partner for NIST Security Certification | Axipro | [Read More](https://medium.com/p/746e0bb40ea6) |
 | Wed, 22 Oct 2025 09:09:28 GMT | Cyber diary | Anointing Uzoma Ahaoma | [Read More](https://medium.com/p/613949c01540) |
 | Wed, 22 Oct 2025 09:05:07 GMT | This Prompt Fools Every AI Detector: The Ultimate Humanizing Hack for AI Writing | Abdikadir Moge | [Read More](https://medium.com/p/76f954b430b4) |
@@ -113,8 +118,3 @@ Touch
 | Wed, 22 Oct 2025 00:29:06 GMT | Detecting Abuse of OpenEDR’s Permissive EDR Trial: A Security Researcher’s Perspective | Kostas | [Read More](https://medium.com/p/fc55bf53972c) |
 | Wed, 22 Oct 2025 00:23:04 GMT | What The Boooomb? — The Fork Bomb Explained | Joseph Mwangi | [Read More](https://medium.com/p/48785bcc3a78) |
 | Wed, 22 Oct 2025 00:03:03 GMT | Learn how to use dnsrecon for Exhaustive DNS Enumeration and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/0924e19400f6) |
-| Tue, 21 Oct 2025 23:52:45 GMT | What’s better than one firewall? | Jack Livenspargar | [Read More](https://medium.com/p/2fde7fbc65de) |
-| Tue, 21 Oct 2025 23:39:55 GMT | 373 Malicious Packages a Day: Why Software Supply Chain Compromise Is Inevitable | Peter Hanneman | [Read More](https://medium.com/p/d6ac92282743) |
-| Tue, 21 Oct 2025 23:35:05 GMT | How Secure Is Your Network? | RNRPC Computer Repair | [Read More](https://medium.com/p/3ad85c14dccc) |
-| Tue, 21 Oct 2025 23:31:26 GMT | Business Logic Vulnerability lead to PII theft & account take over | zack0x01 | [Read More](https://medium.com/p/b5b68a679c19) |
-| Tue, 21 Oct 2025 23:27:02 GMT | Database Ransomware: When Attackers Target Your MySQL Directly | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/8f56a2612402) |
