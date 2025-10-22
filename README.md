@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 18:29:22 GMT | My LinkedIn Hack Story | Rohan Patil | [Read More](https://medium.com/p/a0a2a51c082b) |
+| Wed, 22 Oct 2025 18:17:05 GMT | Beyond Detection: Building Organizational Immunity to AI Misinformation | Esther Abel | [Read More](https://medium.com/p/77f1efae9ab8) |
+| Wed, 22 Oct 2025 18:11:51 GMT | Why OT Cybersecurity Is About People, Not Just Tech | Cyberkech | [Read More](https://medium.com/p/fe9f20302efc) |
+| Wed, 22 Oct 2025 18:07:34 GMT | During my cybersecurity training, I completed a hands-on lab using Burp Suite and OWASP Juice Shop… | Adeleke Theophilus O | [Read More](https://medium.com/p/295f4fc8cf0f) |
+| Wed, 22 Oct 2025 18:06:37 GMT | Digital Footprint Management for OSINT Professionals | Nazrul Islam Rana | [Read More](https://medium.com/p/286868c8bbde) |
+| Wed, 22 Oct 2025 18:03:51 GMT | Password Managers: Which One Should Your Team Use? | JSOC IT BLOG | [Read More](https://medium.com/p/4aa5aac1b41d) |
+| Wed, 22 Oct 2025 18:00:40 GMT | Day 4: Network Devices & Topologies — Understanding Switches, Routers, Firewalls, and Common… | HackTrace | [Read More](https://medium.com/p/86567a0f8e56) |
+| Wed, 22 Oct 2025 17:53:00 GMT | A MEMORY I WISH I COULD STEP INTO AGAIN | Ola_Olayemii | [Read More](https://medium.com/p/8e044e9c5e5c) |
+| Wed, 22 Oct 2025 17:46:38 GMT | The Cyber Acceleration Point (2025–2026): Autonomous Threats, Extortion Economics, and the… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/ae6b76d75df5) |
+| Wed, 22 Oct 2025 17:43:28 GMT | Internet Of Things — Integrasi Komponen Dasar melalui Proyek Sederhana | Zifa Tea Azzahra | [Read More](https://medium.com/p/11b408b902d4) |
+| Wed, 22 Oct 2025 17:30:58 GMT | Faceless Hacker in Africa: My VAPT-to-Bug Bounty Workflow (Step-by-Step) | cleab_linux | [Read More](https://medium.com/p/038b43afc3be) |
 | Wed, 22 Oct 2025 17:29:08 GMT | Azure Apps Vulnerability Lets Hackers Create Malicious Apps Mimicking Microsoft Teams | Aniket Sharma | [Read More](https://medium.com/p/0a2e43f61be4) |
 | Wed, 22 Oct 2025 17:28:19 GMT | File Signature Validation in .NET | Mohammed Ahmed Hussien | [Read More](https://medium.com/p/8d6eee845342) |
 | Wed, 22 Oct 2025 17:25:31 GMT | From Service Management to Security Mindset: My CISSP Story | Sajith Sathyan | [Read More](https://medium.com/p/79cb1e2575fd) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 12:59:48 GMT | The quiet power of feature engineering: transforming raw data into predictive gold | Bella Gray UI UX | [Read More](https://medium.com/p/d83868298dc5) |
 | Wed, 22 Oct 2025 12:53:38 GMT | Why On-Prem Backup Still Makes Sense | JustinWang | [Read More](https://medium.com/p/5723504c2d7b) |
 | Wed, 22 Oct 2025 12:53:15 GMT | The End of Cybersecurity as We Know It: How Merlin Will Redefine Digital Defense | Fortress Protocol | [Read More](https://medium.com/p/0d5866920df9) |
-| Wed, 22 Oct 2025 12:50:51 GMT | New Face of an Old Threat (How to Be Safe) | Hackers Things | [Read More](https://medium.com/p/c29d280cab9c) |
-| Wed, 22 Oct 2025 12:48:30 GMT | Cybersecurity in the Age of AI: Safeguarding Health Data in an Intelligent Era | Sarah Wilson | [Read More](https://medium.com/p/4121db0e8e47) |
-| Wed, 22 Oct 2025 12:44:28 GMT | Why AI Security Isn’t Just Cybersecurity 2.0 | Michael Hannecke | [Read More](https://medium.com/p/317725193949) |
-| Wed, 22 Oct 2025 12:43:18 GMT | The Hidden Cost of Convenience: How a Sales Chrome Extension Gained Access to 60,000 Identities | DarkLayer Security | [Read More](https://medium.com/p/62dc723c99f0) |
-| Wed, 22 Oct 2025 12:41:35 GMT | HAWK TUAH: Why This Drone Mothership (U-Hawk) Matters Beyond the Battlefield | Berend Watchus | [Read More](https://medium.com/p/6c83754a7be6) |
-| Wed, 22 Oct 2025 12:37:22 GMT | My Experience with the Certified AI/ML Pentester Exam | Ali Abdollahi | [Read More](https://medium.com/p/531f3de03c94) |
-| Wed, 22 Oct 2025 12:36:40 GMT | [HackTheBox x VulnLabWrite-up] Breach (NTLM Theft, Kerberoasting, Silver Ticket, xp_cmdshell and… | Chicken0248 | [Read More](https://medium.com/p/32526505c388) |
-| Wed, 22 Oct 2025 12:31:36 GMT | Zeek -TryHackMe — Walkthrough + Notes[2025] | Rahul B | [Read More](https://medium.com/p/9a182609e658) |
-| Wed, 22 Oct 2025 12:30:59 GMT | Uncovering Competitor Secrets: The Art of Funnel Hacking | The Knowledge Academy | [Read More](https://medium.com/p/05689747210d) |
-| Wed, 22 Oct 2025 12:15:44 GMT | How ChatGPT Atlas Might Steal Your Credit Card Number | Felix Anderson | [Read More](https://medium.com/p/6176b3f6fdcf) |
-| Wed, 22 Oct 2025 12:15:39 GMT | How Xedos Technologies Is Revolutionizing Cybersecurity in the UAE | Xedos Technologies LLC | [Read More](https://medium.com/p/1132b1e9f09b) |
