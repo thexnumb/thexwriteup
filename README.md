@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 15:10:55 GMT | Moving beyond passwords — Authentication Reloaded !! | Cyberbali | [Read More](https://medium.com/p/a12f00182a4e) |
+| Wed, 22 Oct 2025 15:10:18 GMT | Siber Güvenliğe Giriş ve Temel Siber Güvenlik Araçları | Aliberk Sandıkçı | [Read More](https://medium.com/p/0c09ceb320bf) |
+| Wed, 22 Oct 2025 15:09:09 GMT | How the $1.7 B Veeam–Securiti AI Deal Signals a New Era of Data Resilience & AI-Driven Security | IT_Engineer | [Read More](https://medium.com/p/f5d576785c2b) |
+| Wed, 22 Oct 2025 15:07:18 GMT | Writers, Stay Alert: The Publishing Platforms You Should Question Before Clicking “Submit” | Amit Gupta | [Read More](https://medium.com/p/00940413bca1) |
+| Wed, 22 Oct 2025 15:03:49 GMT | When Images Talk Too Much: How EXIF Metadata Can Leak Sensitive Information | Divyesh Chauhan | [Read More](https://medium.com/p/318ad598777c) |
+| Wed, 22 Oct 2025 15:03:42 GMT | Master the Art of Finding and Exploiting Hidden Backups and Old Versions: Step-by-Step Guide for… | Very Lazy Tech | [Read More](https://medium.com/p/d2433339173a) |
+| Wed, 22 Oct 2025 15:02:11 GMT | IT Support in East London You Can Rely On | Gary Marshall | [Read More](https://medium.com/p/866132139155) |
+| Wed, 22 Oct 2025 15:01:48 GMT | Is Vulnerability Just Exposure Therapy? | Rilee Astraea (Mystic in the Matrix) | [Read More](https://medium.com/p/7a28613f4453) |
+| Wed, 22 Oct 2025 14:57:52 GMT | Dancing API Challenge — Solution Guide CSEM | CSEM | [Read More](https://medium.com/p/a95d9d61c374) |
+| Wed, 22 Oct 2025 14:56:24 GMT | Understanding JSON Web Token (JWT) Security | hackerdevil | [Read More](https://medium.com/p/48c3a9cc96f2) |
+| Wed, 22 Oct 2025 14:54:56 GMT | Think your code is secure? | ZAST AI | [Read More](https://medium.com/p/a228ef83a4ad) |
+| Wed, 22 Oct 2025 14:53:56 GMT | How Just 250 Documents Can Poison an AI: The Quiet Threat of LLM Backdoors | Sumedha Paibonu | [Read More](https://medium.com/p/72aded333a8c) |
+| Wed, 22 Oct 2025 14:52:33 GMT | The hidden cost of correlation: Why data scientists need to think in systems, not just metrics | Zoehart | [Read More](https://medium.com/p/734c3db9368c) |
+| Wed, 22 Oct 2025 14:46:57 GMT | Time to Switch to Linux | Matyas Koszegi | [Read More](https://medium.com/p/cce555b24578) |
+| Wed, 22 Oct 2025 14:45:36 GMT | “The CORS Cache Poisoning Attack That Broke WordPress APIs” | Aman Sharma | [Read More](https://medium.com/p/300ffb19df13) |
+| Wed, 22 Oct 2025 14:43:45 GMT | AWS Single Sign-On using external Identity Provider ZOHO Directory | Rajesh Gundeti | [Read More](https://medium.com/p/2624990b1e5f) |
 | Wed, 22 Oct 2025 14:41:11 GMT | Write Up Lab: Blind SQL injection with time delays and information retrieval | Velskynotfound | [Read More](https://medium.com/p/90f06c694995) |
+| Wed, 22 Oct 2025 14:37:40 GMT | Cyberup Institute: Train in Cybersecurity with the Immersive Experience of the Cyber Arena | CYBERUP INSTITUTE | [Read More](https://medium.com/p/7577b67f1dc6) |
 | Wed, 22 Oct 2025 14:33:06 GMT | Salesforce vs Zoho CRM | Digital Transformation Playbook | [Read More](https://medium.com/p/ff81da43a4c7) |
 | Wed, 22 Oct 2025 14:31:42 GMT | I Never Learned How to Be Loved | Thanion, Ph.D. | [Read More](https://medium.com/p/fdfb4ba3f83e) |
 | Wed, 22 Oct 2025 14:28:52 GMT | NETWORK 101 | İLKKAN BAYGIN | [Read More](https://medium.com/p/e1bde8d91915) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 10:13:02 GMT | The Benefits of a Multi-Cloud Security Strategy | Samina Perveen | [Read More](https://medium.com/p/35a83bc3463e) |
 | Wed, 22 Oct 2025 10:12:29 GMT | The Subtle Art of Python Optimization I Learned from Real Codebases | Kainat Nafees | [Read More](https://medium.com/p/5acdec51e636) |
 | Wed, 22 Oct 2025 10:09:39 GMT | Digital Shield: Moving Beyond Security Anxiety to Build Your True Line of Digital Sovereignty | Digital Shield | [Read More](https://medium.com/p/abc1de0b9923) |
-| Wed, 22 Oct 2025 10:02:44 GMT | Install Kafka WITH Zookeeper Easily | Navneet Kumar | [Read More](https://medium.com/p/e4614ab6cebd) |
-| Wed, 22 Oct 2025 10:02:43 GMT | 實測 GeminiCLI Security Extensions 來Review CodeX 原始碼 | JH5 | [Read More](https://medium.com/p/edf5a326ac10) |
-| Wed, 22 Oct 2025 10:02:21 GMT | Cybercrime as a Service — SIM Cards Turned into Weapons | Rue | [Read More](https://medium.com/p/25507cfeb580) |
-| Wed, 22 Oct 2025 10:01:14 GMT | Reclaim Digital Sovereignty: Digital Shield’s “Zero-Trust” Revolution in Web3 Security | Digital Shield Offcial | [Read More](https://medium.com/p/9413de61c600) |
-| Wed, 22 Oct 2025 09:57:57 GMT | 【Air-Gap Isolation】Digital Shield Hardware Wallet: The Ultimate Solution for Secure Web3 Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/fddc4bd7b56f) |
-| Wed, 22 Oct 2025 09:56:25 GMT | Penetration Testing: Identifying Security Flaws | SRE Mastery | [Read More](https://medium.com/p/1ffa08459a03) |
-| Wed, 22 Oct 2025 09:55:42 GMT | Modern Women Want Men to Be Vulnerable—Until They Actually Are | ELON JOBS | [Read More](https://medium.com/p/848a2fe30145) |
-| Wed, 22 Oct 2025 09:53:43 GMT | FlashFuzz = Speed Web Fuzzing | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/c75921a742ff) |
-| Wed, 22 Oct 2025 09:48:11 GMT | Securing Kubernetes Pods with Kyverno: Deep Dive into Policy-as-Code | Powerful Woman | [Read More](https://medium.com/p/789305c5a067) |
-| Wed, 22 Oct 2025 09:46:59 GMT | “It Was the Driver!” Package Thief Busted By Ring Cam Justice Served? | Lawnline | [Read More](https://medium.com/p/085e73261e2a) |
-| Wed, 22 Oct 2025 09:46:47 GMT | The Hacker’s Side Hustle Nobody Talks About | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/af41d487921d) |
-| Wed, 22 Oct 2025 09:46:13 GMT | AI-Driven Phishing-as-a-Service (PhaaS): the new front in social-engineering — and how enterprises… | Jackdavis Iap | [Read More](https://medium.com/p/82e3c773f820) |
-| Wed, 22 Oct 2025 09:42:29 GMT | Why Endpoint Protection Starts With a Cyber Security Company | Balaji | [Read More](https://medium.com/p/b68d9435eacd) |
-| Wed, 22 Oct 2025 09:38:58 GMT | Mastering Cyber Defense Through CompTIA SecurityX Certification | Manish Shetty | [Read More](https://medium.com/p/0ca2759a42ff) |
-| Wed, 22 Oct 2025 09:36:26 GMT | CYBER DIARY | Anointing Uzoma Ahaoma | [Read More](https://medium.com/p/a923de2b2b8c) |
-| Wed, 22 Oct 2025 09:34:17 GMT | DockerLabs Writeup — Winterfell (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c175a324e4fe) |
-| Wed, 22 Oct 2025 09:32:22 GMT | Is My Video Call Private? A Plain-English Guide to plugNmeet Security | Jibon Costa | [Read More](https://medium.com/p/bf5bc6d076b6) |
