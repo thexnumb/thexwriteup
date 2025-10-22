@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 10:33:26 GMT | Today’s Top Cyber Intelligence Highlights — Oct 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4ff0664b839e) |
+| Wed, 22 Oct 2025 10:31:54 GMT | What Is Wi-Fi Overlapping? Simple Explanation with Real-Life Analogy and Fixes | Natarajan C K | [Read More](https://medium.com/p/f9d444cd3f79) |
 | Wed, 22 Oct 2025 10:23:48 GMT | WebRTC Security: How Safe Is It? | Filip Veselinovic | [Read More](https://medium.com/p/3677e54826a8) |
+| Wed, 22 Oct 2025 10:21:05 GMT | Top 10 OSINT Tools for Image and Video Verification in 2025 | VerifyHQ | [Read More](https://medium.com/p/139f06458172) |
 | Wed, 22 Oct 2025 10:16:25 GMT | Vulnerability Management : Moving Beyond CVSS | Snapsec | [Read More](https://medium.com/p/d3f16aa6f1c4) |
+| Wed, 22 Oct 2025 10:14:33 GMT | Best Managed Data Center Services Provider in India With Affordable Cost | Mathewneelan | [Read More](https://medium.com/p/6bc94cb637de) |
 | Wed, 22 Oct 2025 10:13:02 GMT | The Benefits of a Multi-Cloud Security Strategy | Samina Perveen | [Read More](https://medium.com/p/35a83bc3463e) |
+| Wed, 22 Oct 2025 10:12:29 GMT | The Subtle Art of Python Optimization I Learned from Real Codebases | Kainat Nafees | [Read More](https://medium.com/p/5acdec51e636) |
 | Wed, 22 Oct 2025 10:09:39 GMT | Digital Shield: Moving Beyond Security Anxiety to Build Your True Line of Digital Sovereignty | Digital Shield | [Read More](https://medium.com/p/abc1de0b9923) |
 | Wed, 22 Oct 2025 10:02:44 GMT | Install Kafka WITH Zookeeper Easily | Navneet Kumar | [Read More](https://medium.com/p/e4614ab6cebd) |
 | Wed, 22 Oct 2025 10:02:43 GMT | 實測 GeminiCLI Security Extensions 來Review CodeX 原始碼 | JH5 | [Read More](https://medium.com/p/edf5a326ac10) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 03:46:43 GMT | The Sleeper Agent Bug: How One HTML Payload Lay Hidden for Months to Attack My Inbox ⏳ | LordofHeaven | [Read More](https://medium.com/p/9d3f1e9df60e) |
 | Wed, 22 Oct 2025 03:46:38 GMT | Como integrar Gemini con Wazuh | Nahuel Amartinez | [Read More](https://medium.com/p/cbb6b990d052) |
 | Wed, 22 Oct 2025 03:42:14 GMT | Decoding Risk Assessment: A Guide for Security Stakeholders | cyber_pix | [Read More](https://medium.com/p/808b3d57d5aa) |
-| Wed, 22 Oct 2025 03:32:13 GMT | USDG on Solana: How to Make Your Dollars Work | Låwrêñçe | [Read More](https://medium.com/p/257eb1b7821e) |
-| Wed, 22 Oct 2025 03:28:43 GMT | My Journey — Linux Fundamentals | A A | [Read More](https://medium.com/p/66c466dd16b5) |
-| Wed, 22 Oct 2025 03:02:36 GMT | We Secure What We Love | Imanologya | [Read More](https://medium.com/p/baafe50b1fcc) |
-| Wed, 22 Oct 2025 03:01:05 GMT | The Unseen Risks in Your Federated Data Science Models | The Bot Group | [Read More](https://medium.com/p/4ae58ec69f8f) |
-| Wed, 22 Oct 2025 02:46:38 GMT | 31 Days of Horror: Movie Review:Bug (2007) – Madness, Paranoia, and the Descent of Ashley Judd | Sean Patrick | [Read More](https://medium.com/p/593a9bfa27b4) |
