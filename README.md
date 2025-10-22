@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 07:03:54 GMT | ESC3 ADCS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/68db08da698d) |
+| Wed, 22 Oct 2025 07:00:58 GMT | From the Kitchen to Cybersecurity — My Journey of Reinvention | Tawan Fonseca | [Read More](https://medium.com/p/e54306dd2238) |
+| Wed, 22 Oct 2025 06:54:30 GMT | PostgreSQL Background Workers: The Hidden Superpower of Performance | Rizqi Mulki | [Read More](https://medium.com/p/c6d57842ab4e) |
+| Wed, 22 Oct 2025 06:52:49 GMT | The Python Library That Made Web Development Fun Again | Rizqi Mulki | [Read More](https://medium.com/p/3c3abc3fd956) |
+| Wed, 22 Oct 2025 06:49:31 GMT | The Missing Files of India | Dr. Arvind Dube PhD | [Read More](https://medium.com/p/06d92a23388e) |
+| Wed, 22 Oct 2025 06:40:50 GMT | AI powered attacks in Cyber Security | Himanshu Bhatt | [Read More](https://medium.com/p/b9d301bfd029) |
+| Wed, 22 Oct 2025 06:37:53 GMT | Cybersecurity Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/d38d8a607608) |
+| Wed, 22 Oct 2025 06:34:55 GMT | Manipulation and List Operation in “Python” | AnggerNaufal | [Read More](https://medium.com/p/fcc76e554ff5) |
 | Wed, 22 Oct 2025 06:22:44 GMT | ISO/IEC 27701:2025 Information security, cybersecurity and privacy protection — Privacy… | Viktor Davydych | [Read More](https://medium.com/p/21e86f46e082) |
 | Wed, 22 Oct 2025 06:19:05 GMT | The OPSEC Culture Checklist | Rubab Fatima | [Read More](https://medium.com/p/126689ba15b1) |
 | Wed, 22 Oct 2025 06:11:06 GMT | How Safe Is Your Data on Public Wi-Fi? | Shivakshi Rawat | [Read More](https://medium.com/p/df8d2ecf7236) |
@@ -21,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 05:37:44 GMT | Event Log Clearing and Malware Execution: Evidence from Windows Logs | Dean | [Read More](https://medium.com/p/d6e454f32366) |
 | Wed, 22 Oct 2025 05:29:56 GMT | How I Used AI to Hack AI Security (And Why Skynet Would Be Proud) | Iski | [Read More](https://medium.com/p/e698a30634a0) |
 | Wed, 22 Oct 2025 05:29:39 GMT | Are Businesses Underestimating The Cost Of Poor Security In Alberta? | GPS Security Group Inc | [Read More](https://medium.com/p/a10c96a2fcbe) |
+| Wed, 22 Oct 2025 05:29:19 GMT | Quand ChatGPT devient navigateur : Atlas, vos données, et le suivi de vos habitudes | Mickael Mahabot | [Read More](https://medium.com/p/730f0dba3d3c) |
 | Wed, 22 Oct 2025 05:25:40 GMT | Weekly Threat Intelligece Report 13 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/b33e60550f1d) |
 | Wed, 22 Oct 2025 05:16:30 GMT | Automation Process for Terminating Instances Affected by Malware | Paripuranam | [Read More](https://medium.com/p/facd5c142ec9) |
 | Wed, 22 Oct 2025 05:14:54 GMT | How Hackers Deceive AI Security Systems (And How to Stop Them) | Muhammad Haider Tallal | [Read More](https://medium.com/p/414a49de8dd3) |
@@ -110,12 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 20:35:25 GMT | Redefining Business Protection: The Rise of Integrated Security Systems | Fortnexs Shield | [Read More](https://medium.com/p/5feba784d920) |
 | Tue, 21 Oct 2025 20:32:25 GMT | La Crypto Night | Florent M | [Read More](https://medium.com/p/a6bcdb44e349) |
 | Tue, 21 Oct 2025 20:16:42 GMT | Your AI Isn’t Smart. It’s Just Unsupervised. | Twinkle Jaineera | [Read More](https://medium.com/p/c69645e5322f) |
-| Tue, 21 Oct 2025 20:14:36 GMT | Decentralized Cyber Threat Intelligence: Community-Based Approaches for Global Threat Sharing | Deniz Topaloglu | [Read More](https://medium.com/p/4e721d87eb73) |
-| Tue, 21 Oct 2025 20:01:47 GMT | Rethinking the Economics of Cyber Resilience | Tahir Soomro | [Read More](https://medium.com/p/c47886163065) |
-| Tue, 21 Oct 2025 19:58:30 GMT | CRITICAL ALERT: CVE-2025–55315 | Cybersecplayground | [Read More](https://medium.com/p/15e03ed18174) |
-| Tue, 21 Oct 2025 19:51:40 GMT | INSIDE THE HACKERS PLAYBOOK: HOW NETWORK ATTACKS REALLY WORK. | Input-7 | [Read More](https://medium.com/p/af1f0b9bf0e8) |
-| Tue, 21 Oct 2025 19:49:35 GMT | Race Condition in Login Allows Lockout Bypass and Account Takeover | Abdelrahman Fathy | [Read More](https://medium.com/p/e602407cbb0b) |
-| Tue, 21 Oct 2025 19:48:24 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/4d6ce66f2ba9) |
-| Tue, 21 Oct 2025 19:44:08 GMT | The top 5 strategies for recovering money from cryptocurrency scams Hair Ghost Mystery Recovery… | Angeljosefina | [Read More](https://medium.com/p/4e140daa6e71) |
-| Tue, 21 Oct 2025 19:40:02 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/2ee5b1d20474) |
-| Tue, 21 Oct 2025 19:39:45 GMT | When the Internet Went Dark: Lessons from the AWS Outage That Shook the Digital World | Jervis Anthony Saldanha | [Read More](https://medium.com/p/1408e819cbfa) |
