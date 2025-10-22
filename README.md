@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 13:21:35 GMT | 2004: The Year the Streets Went Digital (Part 1): Virtually Connected | Md kawsar | [Read More](https://medium.com/p/89fbe80acd85) |
+| Wed, 22 Oct 2025 13:20:14 GMT | Top Benefits of ServiceNow: Automate Enterprise Workflows | Digital Transformation Playbook | [Read More](https://medium.com/p/95900ead75db) |
+| Wed, 22 Oct 2025 13:16:05 GMT | Encryption | Motunrayo Simisaye | [Read More](https://medium.com/p/7f65b5816d6c) |
+| Wed, 22 Oct 2025 13:13:29 GMT | Complete Cyber Security Specialist Roadmap with Free Learning Resources | Harish Anbalagan | [Read More](https://medium.com/p/d00296362f2d) |
+| Wed, 22 Oct 2025 13:11:24 GMT | The Early Warning Signs-Reconnaissance, Weaponization, and Delivery | Samirah A.O | [Read More](https://medium.com/p/7a811dfd89a7) |
+| Wed, 22 Oct 2025 12:59:48 GMT | The quiet power of feature engineering: transforming raw data into predictive gold | Bella Gray UI UX | [Read More](https://medium.com/p/d83868298dc5) |
+| Wed, 22 Oct 2025 12:53:38 GMT | Why On-Prem Backup Still Makes Sense | JustinWang | [Read More](https://medium.com/p/5723504c2d7b) |
+| Wed, 22 Oct 2025 12:53:15 GMT | The End of Cybersecurity as We Know It: How Merlin Will Redefine Digital Defense | Fortress Protocol | [Read More](https://medium.com/p/0d5866920df9) |
+| Wed, 22 Oct 2025 12:50:51 GMT | New Face of an Old Threat (How to Be Safe) | Hackers Things | [Read More](https://medium.com/p/c29d280cab9c) |
+| Wed, 22 Oct 2025 12:48:30 GMT | Cybersecurity in the Age of AI: Safeguarding Health Data in an Intelligent Era | Sarah Wilson | [Read More](https://medium.com/p/4121db0e8e47) |
+| Wed, 22 Oct 2025 12:44:28 GMT | Why AI Security Isn’t Just Cybersecurity 2.0 | Michael Hannecke | [Read More](https://medium.com/p/317725193949) |
+| Wed, 22 Oct 2025 12:43:18 GMT | The Hidden Cost of Convenience: How a Sales Chrome Extension Gained Access to 60,000 Identities | DarkLayer Security | [Read More](https://medium.com/p/62dc723c99f0) |
+| Wed, 22 Oct 2025 12:41:35 GMT | HAWK TUAH: Why This Drone Mothership (U-Hawk) Matters Beyond the Battlefield | Berend Watchus | [Read More](https://medium.com/p/6c83754a7be6) |
 | Wed, 22 Oct 2025 12:37:22 GMT | My Experience with the Certified AI/ML Pentester Exam | Ali Abdollahi | [Read More](https://medium.com/p/531f3de03c94) |
 | Wed, 22 Oct 2025 12:36:40 GMT | [HackTheBox x VulnLabWrite-up] Breach (NTLM Theft, Kerberoasting, Silver Ticket, xp_cmdshell and… | Chicken0248 | [Read More](https://medium.com/p/32526505c388) |
 | Wed, 22 Oct 2025 12:31:36 GMT | Zeek -TryHackMe — Walkthrough + Notes[2025] | Rahul B | [Read More](https://medium.com/p/9a182609e658) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 08:00:51 GMT | Secrets of Clean Software Installations Every User Should Know | Ask IT Support | [Read More](https://medium.com/p/5a4a67530de4) |
 | Wed, 22 Oct 2025 07:59:51 GMT | My TEDx Talk on “Guardians of the Future: Building Ethical, Secure, and Adaptive Digital… | Shubham Dumbre | [Read More](https://medium.com/p/62989f67b1ac) |
 | Wed, 22 Oct 2025 07:53:52 GMT | DLL Hijacking: Bir DLL Dosyası Ne Kadar Tehlikeli Olabilir? | Eren Onder | [Read More](https://medium.com/p/af9203fc9a65) |
-| Wed, 22 Oct 2025 07:53:37 GMT | Topic 33: CSS Grid Layout | Rana Awais | [Read More](https://medium.com/p/ebbda5acf5a4) |
-| Wed, 22 Oct 2025 07:48:32 GMT | Topic 32: CSS Flexbox (Flexible Box Layout) | Rana Awais | [Read More](https://medium.com/p/b415c3f49220) |
-| Wed, 22 Oct 2025 07:44:20 GMT | Deploying SafeLine to Protect Against AI Scrapers | Maverick Steel | [Read More](https://medium.com/p/d51c0b761a42) |
-| Wed, 22 Oct 2025 07:43:03 GMT | 31 HTML Tables | Rana Awais | [Read More](https://medium.com/p/40d7a9410950) |
-| Wed, 22 Oct 2025 07:41:37 GMT | HacktheBox Certified: How I Owned a “Secure” Medium Windows Machine — Full Walkthrough | Joseph Jung (@IcedAmericano12) | [Read More](https://medium.com/p/5f5bf483929e) |
-| Wed, 22 Oct 2025 07:37:12 GMT | From Hacker to Hero: How Ethical Hackers Protect the Digital World | Hassan Talal | [Read More](https://medium.com/p/ff4199342901) |
-| Wed, 22 Oct 2025 07:31:59 GMT | CloudifyOps’ Journey to Self-Healing MSO: Building the Future of Resilient Operations | CloudifyOps | [Read More](https://medium.com/p/65dd8e5c3562) |
-| Wed, 22 Oct 2025 07:30:35 GMT | MDR Services in 2025: Why Organizations Are Moving from Reactive Tools to Proactive Security… | Lipika | [Read More](https://medium.com/p/25798a18dd26) |
-| Wed, 22 Oct 2025 07:29:00 GMT | Laptop Repair for Remote Workers: Essential Services You Shouldn’t Skip | Ask IT Support | [Read More](https://medium.com/p/b6cd969a60ad) |
-| Wed, 22 Oct 2025 07:25:20 GMT | It’s Worth Being Careful of Cryptocurrency Scams | Exotic Algorithmic Trader(Parody) | [Read More](https://medium.com/p/6aaaa616fd2f) |
-| Wed, 22 Oct 2025 07:25:01 GMT | The Future of Privacy: Why Encryption Alone Isn’t Enough Anymore | Zain Ahmad | [Read More](https://medium.com/p/990249b26918) |
-| Wed, 22 Oct 2025 07:19:38 GMT | AN INSIGHT INTO MY CYBERSECURITY JOURNEY | Shalom Chinedu | [Read More](https://medium.com/p/666d93d8f2c8) |
-| Wed, 22 Oct 2025 07:18:58 GMT | China’s Strategic Pivot to Hybrid Warfare — A Calculated Response to Conventional Military… | David SEHYEON Baek | [Read More](https://medium.com/p/746c200c1df0) |
