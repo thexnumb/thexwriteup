@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 07:31:59 GMT | CloudifyOps’ Journey to Self-Healing MSO: Building the Future of Resilient Operations | CloudifyOps | [Read More](https://medium.com/p/65dd8e5c3562) |
+| Wed, 22 Oct 2025 07:30:35 GMT | MDR Services in 2025: Why Organizations Are Moving from Reactive Tools to Proactive Security… | Lipika | [Read More](https://medium.com/p/25798a18dd26) |
+| Wed, 22 Oct 2025 07:29:00 GMT | Laptop Repair for Remote Workers: Essential Services You Shouldn’t Skip | Ask IT Support | [Read More](https://medium.com/p/b6cd969a60ad) |
+| Wed, 22 Oct 2025 07:25:20 GMT | It’s Worth Being Careful of Cryptocurrency Scams | Exotic Algorithmic Trader(Parody) | [Read More](https://medium.com/p/6aaaa616fd2f) |
+| Wed, 22 Oct 2025 07:25:01 GMT | The Future of Privacy: Why Encryption Alone Isn’t Enough Anymore | Zain Ahmad | [Read More](https://medium.com/p/990249b26918) |
+| Wed, 22 Oct 2025 07:19:38 GMT | AN INSIGHT INTO MY CYBERSECURITY JOURNEY | Shalom Chinedu | [Read More](https://medium.com/p/666d93d8f2c8) |
+| Wed, 22 Oct 2025 07:18:58 GMT | China’s Strategic Pivot to Hybrid Warfare — A Calculated Response to Conventional Military… | David SEHYEON Baek | [Read More](https://medium.com/p/746c200c1df0) |
 | Wed, 22 Oct 2025 07:03:54 GMT | ESC3 ADCS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/68db08da698d) |
 | Wed, 22 Oct 2025 07:00:58 GMT | From the Kitchen to Cybersecurity — My Journey of Reinvention | Tawan Fonseca | [Read More](https://medium.com/p/e54306dd2238) |
 | Wed, 22 Oct 2025 06:54:30 GMT | PostgreSQL Background Workers: The Hidden Superpower of Performance | Rizqi Mulki | [Read More](https://medium.com/p/c6d57842ab4e) |
@@ -112,10 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 20:57:40 GMT | Day 16 of my Cybersecurity Journey: Networking Secure Protocols | Ogundipe Priscilla | [Read More](https://medium.com/p/9a443f502e02) |
 | Tue, 21 Oct 2025 20:57:21 GMT | A client sends a file. | Jane Brian | [Read More](https://medium.com/p/05cfe3313628) |
 | Tue, 21 Oct 2025 20:54:11 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/bbe6dda0a012) |
-| Tue, 21 Oct 2025 20:41:02 GMT | Persistence | Jake Boyd | [Read More](https://medium.com/p/1b30b4660363) |
-| Tue, 21 Oct 2025 20:38:43 GMT | Vishing Chronicles: Unleash Your Inner Indiana Jones | Danielle Koppel | [Read More](https://medium.com/p/ae194c7ad35b) |
-| Tue, 21 Oct 2025 20:38:03 GMT | Hidden Dangers: A Phishing Tale | Danielle Koppel | [Read More](https://medium.com/p/c1fe03adb148) |
-| Tue, 21 Oct 2025 20:36:20 GMT | Navigating the Third-Party Vendor Jungle | Danielle Koppel | [Read More](https://medium.com/p/42f3e67a2c9a) |
-| Tue, 21 Oct 2025 20:35:25 GMT | Redefining Business Protection: The Rise of Integrated Security Systems | Fortnexs Shield | [Read More](https://medium.com/p/5feba784d920) |
-| Tue, 21 Oct 2025 20:32:25 GMT | La Crypto Night | Florent M | [Read More](https://medium.com/p/a6bcdb44e349) |
-| Tue, 21 Oct 2025 20:16:42 GMT | Your AI Isn’t Smart. It’s Just Unsupervised. | Twinkle Jaineera | [Read More](https://medium.com/p/c69645e5322f) |
