@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 12:37:22 GMT | My Experience with the Certified AI/ML Pentester Exam | Ali Abdollahi | [Read More](https://medium.com/p/531f3de03c94) |
+| Wed, 22 Oct 2025 12:36:40 GMT | [HackTheBox x VulnLabWrite-up] Breach (NTLM Theft, Kerberoasting, Silver Ticket, xp_cmdshell and… | Chicken0248 | [Read More](https://medium.com/p/32526505c388) |
+| Wed, 22 Oct 2025 12:31:36 GMT | Zeek -TryHackMe — Walkthrough + Notes[2025] | Rahul B | [Read More](https://medium.com/p/9a182609e658) |
+| Wed, 22 Oct 2025 12:30:59 GMT | Uncovering Competitor Secrets: The Art of Funnel Hacking | The Knowledge Academy | [Read More](https://medium.com/p/05689747210d) |
+| Wed, 22 Oct 2025 12:15:44 GMT | How ChatGPT Atlas Might Steal Your Credit Card Number | Felix Anderson | [Read More](https://medium.com/p/6176b3f6fdcf) |
+| Wed, 22 Oct 2025 12:15:39 GMT | How Xedos Technologies Is Revolutionizing Cybersecurity in the UAE | Xedos Technologies LLC | [Read More](https://medium.com/p/1132b1e9f09b) |
+| Wed, 22 Oct 2025 12:15:23 GMT | Cybersecurity Tips for Small Businesses | Vpshosting | [Read More](https://medium.com/p/1d14678daed5) |
+| Wed, 22 Oct 2025 12:10:31 GMT | Why Every Rejected Report Brings You Closer to Your First Bounty | Xormium | [Read More](https://medium.com/p/190167ba77a5) |
+| Wed, 22 Oct 2025 12:09:56 GMT | How Chinese Gangs Stole $1B Through Text Scams | Karl Buhl | [Read More](https://medium.com/p/ea12bedb0597) |
+| Wed, 22 Oct 2025 12:07:31 GMT | Netdiscover Nedir? Nmap’e Benziyor Ama Değilmiş | Mehmet Ali | [Read More](https://medium.com/p/31a508b2adea) |
+| Wed, 22 Oct 2025 12:05:31 GMT | GlassWorm: A New Era of Stealthy, Self-Spreading Malware Targeting Developer Ecosystems | Wraith | [Read More](https://medium.com/p/a2da6cf554b8) |
+| Wed, 22 Oct 2025 12:03:12 GMT | Broken Access Control: How I Found (and Exploited) an EdTech Platform’s Video Authentication Bypass | Madanu Akash | [Read More](https://medium.com/p/a594be7ae6c5) |
+| Wed, 22 Oct 2025 12:01:12 GMT | NetworkMiner - TryHackMe — Writeup [2025] | Rahul B | [Read More](https://medium.com/p/0c35e8b2e11f) |
+| Wed, 22 Oct 2025 11:58:43 GMT | My name is Charles U. | CLUE | [Read More](https://medium.com/p/f9edf8701b1e) |
+| Wed, 22 Oct 2025 11:56:59 GMT | Practical IoT Hacking, book review | Windsorheightsbookfair | [Read More](https://medium.com/p/b14b9f72c619) |
+| Wed, 22 Oct 2025 11:53:13 GMT | Who is mahdi | Mahdi gasmi | [Read More](https://medium.com/p/6e794d6ed807) |
+| Wed, 22 Oct 2025 11:38:24 GMT | Governing the Cloud Kingdom: How AWS Control Tower Solves the Multi-Account Nightmare | Kumma Sivaprakash | [Read More](https://medium.com/p/f4ade3aa90f3) |
 | Wed, 22 Oct 2025 11:31:55 GMT | The Internet Isn’t Broken, It’s Just Being Hacked in Slow Motion | Arfa | [Read More](https://medium.com/p/0a285ac36274) |
 | Wed, 22 Oct 2025 11:22:15 GMT | How I Got Into a Hacker’s Head (Without Breaking the Law) | Arfa | [Read More](https://medium.com/p/adffcb09c9f3) |
 | Wed, 22 Oct 2025 11:22:08 GMT | Dancing with the Clouds: Mastering Hybrid and Multi-Cloud Strategies in 2025 | Ritu Priya Singh | [Read More](https://medium.com/p/04c50eb0ddf2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 07:25:01 GMT | The Future of Privacy: Why Encryption Alone Isn’t Enough Anymore | Zain Ahmad | [Read More](https://medium.com/p/990249b26918) |
 | Wed, 22 Oct 2025 07:19:38 GMT | AN INSIGHT INTO MY CYBERSECURITY JOURNEY | Shalom Chinedu | [Read More](https://medium.com/p/666d93d8f2c8) |
 | Wed, 22 Oct 2025 07:18:58 GMT | China’s Strategic Pivot to Hybrid Warfare — A Calculated Response to Conventional Military… | David SEHYEON Baek | [Read More](https://medium.com/p/746c200c1df0) |
-| Wed, 22 Oct 2025 07:03:54 GMT | ESC3 ADCS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/68db08da698d) |
-| Wed, 22 Oct 2025 07:00:58 GMT | From the Kitchen to Cybersecurity — My Journey of Reinvention | Tawan Fonseca | [Read More](https://medium.com/p/e54306dd2238) |
-| Wed, 22 Oct 2025 06:54:30 GMT | PostgreSQL Background Workers: The Hidden Superpower of Performance | Rizqi Mulki | [Read More](https://medium.com/p/c6d57842ab4e) |
-| Wed, 22 Oct 2025 06:52:49 GMT | The Python Library That Made Web Development Fun Again | Rizqi Mulki | [Read More](https://medium.com/p/3c3abc3fd956) |
-| Wed, 22 Oct 2025 06:49:31 GMT | The Missing Files of India | Dr. Arvind Dube PhD | [Read More](https://medium.com/p/06d92a23388e) |
-| Wed, 22 Oct 2025 06:40:50 GMT | AI powered attacks in Cyber Security | Himanshu Bhatt | [Read More](https://medium.com/p/b9d301bfd029) |
-| Wed, 22 Oct 2025 06:37:53 GMT | Cybersecurity Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/d38d8a607608) |
-| Wed, 22 Oct 2025 06:34:55 GMT | Manipulation and List Operation in “Python” | AnggerNaufal | [Read More](https://medium.com/p/fcc76e554ff5) |
-| Wed, 22 Oct 2025 06:22:44 GMT | ISO/IEC 27701:2025 Information security, cybersecurity and privacy protection — Privacy… | Viktor Davydych | [Read More](https://medium.com/p/21e86f46e082) |
-| Wed, 22 Oct 2025 06:19:05 GMT | The OPSEC Culture Checklist | Rubab Fatima | [Read More](https://medium.com/p/126689ba15b1) |
-| Wed, 22 Oct 2025 06:11:06 GMT | How Safe Is Your Data on Public Wi-Fi? | Shivakshi Rawat | [Read More](https://medium.com/p/df8d2ecf7236) |
-| Wed, 22 Oct 2025 06:03:05 GMT | How Bug Bounty Changed My Life | Ferdus Alam | [Read More](https://medium.com/p/039da09584c5) |
-| Wed, 22 Oct 2025 05:49:28 GMT | Nor-Tech HPC Clusters Feature Cornelis Omni-Path; Offering Significant Advantages Over Alternatives | Emma Lyons | [Read More](https://medium.com/p/f9f7fff4cd37) |
-| Wed, 22 Oct 2025 05:38:03 GMT | Submission Guidelines for CyberSec Research | Bruzzese Roberto | [Read More](https://medium.com/p/59b44ea69e9b) |
-| Wed, 22 Oct 2025 05:37:44 GMT | Event Log Clearing and Malware Execution: Evidence from Windows Logs | Dean | [Read More](https://medium.com/p/d6e454f32366) |
-| Wed, 22 Oct 2025 05:29:56 GMT | How I Used AI to Hack AI Security (And Why Skynet Would Be Proud) | Iski | [Read More](https://medium.com/p/e698a30634a0) |
-| Wed, 22 Oct 2025 05:29:39 GMT | Are Businesses Underestimating The Cost Of Poor Security In Alberta? | GPS Security Group Inc | [Read More](https://medium.com/p/a10c96a2fcbe) |
