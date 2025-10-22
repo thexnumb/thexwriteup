@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 19:28:17 GMT | Security Automation: The Future of Faster, Smarter Cyber Defense | SafeAeon Inc. | [Read More](https://medium.com/p/54256d94a9fc) |
+| Wed, 22 Oct 2025 19:23:36 GMT | KrakenKeylogger Lab Writeup | Jaws | [Read More](https://medium.com/p/37485d5747f0) |
+| Wed, 22 Oct 2025 19:22:04 GMT | The 7-Year AI Chat Log Trap | Berend Watchus | [Read More](https://medium.com/p/d30b726c78f4) |
+| Wed, 22 Oct 2025 19:21:36 GMT | Auto Parser Project | Yuksel | [Read More](https://medium.com/p/d47d88901638) |
+| Wed, 22 Oct 2025 19:20:59 GMT | The Hacker’s Favorite Tool: Why Your Inbox Is Their Easiest Entry Point | Kambetastephano | [Read More](https://medium.com/p/b39e56575d47) |
 | Wed, 22 Oct 2025 19:13:25 GMT | Brooklyn Nine Nine — TryHackMe Walkthrough - by 0xpynge | 0xpynge | [Read More](https://medium.com/p/2d18e843c107) |
 | Wed, 22 Oct 2025 19:10:32 GMT | Protecting Critical Infrastructure from Solarflare-Style Attacks | Kambetastephano | [Read More](https://medium.com/p/2cf1aa087c4d) |
 | Wed, 22 Oct 2025 19:09:22 GMT | Beyond the Buzzword: What Penetration Testing Really Is (And Why You Need It) | Kambetastephano | [Read More](https://medium.com/p/43422a3a0e4b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.22 | CyberMaterial | [Read More](https://medium.com/p/95d1b69d8aeb) |
 | Wed, 22 Oct 2025 14:00:18 GMT |  | Hossam_Mostafa | [Read More](https://medium.com/p/96fdf99c8bcc) |
 | Wed, 22 Oct 2025 13:59:56 GMT | The Hidden Network: Why the Future of Safety Depends on Connectivity | Tec-Tel Communications | [Read More](https://medium.com/p/4291a9fbd3fb) |
-| Wed, 22 Oct 2025 13:56:13 GMT | Professional Security Services in Maharashtra - S9G Shield Force | Boboxa | [Read More](https://medium.com/p/eaae2ee323a4) |
-| Wed, 22 Oct 2025 13:55:05 GMT | The Modern City Doesn’t Sleep: Visual Intelligence and the Future of Urban Safety | Tec-Tel Communications | [Read More](https://medium.com/p/141a692e8ddd) |
-| Wed, 22 Oct 2025 13:54:33 GMT | The Hidden Architecture of the Internet: How I Finally Understood the OSI Model | Salimassili | [Read More](https://medium.com/p/7b600435e3f4) |
-| Wed, 22 Oct 2025 13:53:54 GMT | AI Jailbreaks: The Dark Art of Breaking Smart Machines | Mehmet Özel | [Read More](https://medium.com/p/c0ba4648a609) |
-| Wed, 22 Oct 2025 13:51:07 GMT | What Happened to AWS on Monday | Stevie Emmit | [Read More](https://medium.com/p/4d217a6c7232) |
