@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 14:41:11 GMT | Write Up Lab: Blind SQL injection with time delays and information retrieval | Velskynotfound | [Read More](https://medium.com/p/90f06c694995) |
+| Wed, 22 Oct 2025 14:33:06 GMT | Salesforce vs Zoho CRM | Digital Transformation Playbook | [Read More](https://medium.com/p/ff81da43a4c7) |
+| Wed, 22 Oct 2025 14:31:42 GMT | I Never Learned How to Be Loved | Thanion, Ph.D. | [Read More](https://medium.com/p/fdfb4ba3f83e) |
+| Wed, 22 Oct 2025 14:28:52 GMT | NETWORK 101 | İLKKAN BAYGIN | [Read More](https://medium.com/p/e1bde8d91915) |
+| Wed, 22 Oct 2025 14:26:45 GMT | your fear of judgement is keeping you paralyzed | Antwan | [Read More](https://medium.com/p/90a8fe08fe4d) |
+| Wed, 22 Oct 2025 14:26:21 GMT | AI and Cybersecurity: Why Tomorrow’s Threats Still Exploit Yesterday’s Mistakes | Abdellaoui Ahmed | [Read More](https://medium.com/p/202c3a92ea04) |
+| Wed, 22 Oct 2025 14:23:07 GMT | buying cloned cards in japan online 2025–2026 | Zogodame | [Read More](https://medium.com/p/3e01c2a68677) |
+| Wed, 22 Oct 2025 14:21:34 GMT | The Shifting Threat Landscape in Web3 — and Why ABTU Matters More Than Ever | Abatis ABTU | [Read More](https://medium.com/p/913c548eadab) |
 | Wed, 22 Oct 2025 14:11:32 GMT | Mastering Subdomain Enumeration: A Beginner’s Guide to Expanding Your Reconnaissance | Sumit Sah | [Read More](https://medium.com/p/c1719a97fbff) |
 | Wed, 22 Oct 2025 14:11:18 GMT | The Ultimate Guide to Content Discovery: Finding Hidden Files and Directories | Andrei Ivan | [Read More](https://medium.com/p/0c4ad36f4f09) |
 | Wed, 22 Oct 2025 14:08:21 GMT | To Those Who Still Haven’t Danced | Iyalekhue Endurance Otakhoigbogie | [Read More](https://medium.com/p/69c313f8af51) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 09:36:26 GMT | CYBER DIARY | Anointing Uzoma Ahaoma | [Read More](https://medium.com/p/a923de2b2b8c) |
 | Wed, 22 Oct 2025 09:34:17 GMT | DockerLabs Writeup — Winterfell (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/c175a324e4fe) |
 | Wed, 22 Oct 2025 09:32:22 GMT | Is My Video Call Private? A Plain-English Guide to plugNmeet Security | Jibon Costa | [Read More](https://medium.com/p/bf5bc6d076b6) |
-| Wed, 22 Oct 2025 09:32:09 GMT | What Nmap Told Me About My Network at 2 a.m. | Fateyaly | [Read More](https://medium.com/p/f5607d80c252) |
-| Wed, 22 Oct 2025 09:27:01 GMT | AN INSIGHT INTO NETWORKING AND PASSWORD SECURITY | Shalom Chinedu | [Read More](https://medium.com/p/464e7e248ecf) |
-| Wed, 22 Oct 2025 09:22:33 GMT | I Tried to Crack Bitcoin’s Vault. Here’s What I Learned About Impossible Odds. | Levi Chinecherem Chidi | [Read More](https://medium.com/p/de500246fd92) |
-| Wed, 22 Oct 2025 09:17:44 GMT | Axipro: Your Trusted Partner for NIST Security Certification | Axipro | [Read More](https://medium.com/p/746e0bb40ea6) |
-| Wed, 22 Oct 2025 09:09:28 GMT | Cyber diary | Anointing Uzoma Ahaoma | [Read More](https://medium.com/p/613949c01540) |
-| Wed, 22 Oct 2025 09:05:07 GMT | This Prompt Fools Every AI Detector: The Ultimate Humanizing Hack for AI Writing | Abdikadir Moge | [Read More](https://medium.com/p/76f954b430b4) |
-| Wed, 22 Oct 2025 09:03:51 GMT | Digital Footprints: What Your Apps Reveal About You | Aysha Misri | [Read More](https://medium.com/p/73e0828f178a) |
-| Wed, 22 Oct 2025 09:03:04 GMT | Top 5 SOC 2 Audit Mistakes (and How to Avoid Them) | Hicomply | [Read More](https://medium.com/p/cac727bb6800) |
