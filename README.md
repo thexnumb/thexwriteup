@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 16:17:00 GMT | Shocking GPU Vulnerability | Shailendra Kumar | [Read More](https://medium.com/p/1747118e2497) |
+| Wed, 22 Oct 2025 16:11:42 GMT | TryHackMe - Initial Access Pot - WriteUp | Axoloth | [Read More](https://medium.com/p/fc04d202d383) |
+| Wed, 22 Oct 2025 16:10:00 GMT | Bring external AWS accounts into an organization | Rajesh Gundeti | [Read More](https://medium.com/p/15ad11cb0fd3) |
+| Wed, 22 Oct 2025 16:02:01 GMT | A Comprehensive Security Assessment Guide to Identifying and Exploiting Spring Boot Actuator… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/83be33c8cee6) |
+| Wed, 22 Oct 2025 15:56:37 GMT | Automatically Detect Inactive Azure AD Users with Kexa.io in 3 steps | Patrick Szymkowiak | [Read More](https://medium.com/p/2e3d2e03bd01) |
+| Wed, 22 Oct 2025 15:56:35 GMT | Social Media and You-How to Be Cyber smart? | reginald jackson | [Read More](https://medium.com/p/00accb0a3160) |
+| Wed, 22 Oct 2025 15:56:06 GMT | Future Proof Your Cybersecurity Career in 2026 with these must having 3 skills | Cybersectoworld | [Read More](https://medium.com/p/26422cda54d0) |
+| Wed, 22 Oct 2025 15:55:07 GMT | How AI-Driven Anomaly Detection is Powering the Future of Zero Trust Cybersecurity | JashwanthK07 | [Read More](https://medium.com/p/b81d081547bf) |
+| Wed, 22 Oct 2025 15:53:53 GMT | How to Disable Microsoft Recall on Windows 11 | nodminger | [Read More](https://medium.com/p/4bee283a19ea) |
+| Wed, 22 Oct 2025 15:52:39 GMT | Firebase Remote Config | Mahdi MENAA | [Read More](https://medium.com/p/b8a04f3a306e) |
+| Wed, 22 Oct 2025 15:44:17 GMT | Locked In and Lagging: Why Dataverse Can’t Keep Up with the Enterprise Elite | Namir Sagheenanajar | [Read More](https://medium.com/p/5e000aec5ed0) |
+| Wed, 22 Oct 2025 15:42:28 GMT | Don’t Let Your PII Escape! | Jose Solera | [Read More](https://medium.com/p/86f69666c861) |
+| Wed, 22 Oct 2025 15:39:11 GMT | ISO 27001:2022 -Clauses 5 Explained (Leadership Made Simple) | Parull Sharma | [Read More](https://medium.com/p/6fe47477ee51) |
+| Wed, 22 Oct 2025 15:35:58 GMT | When a “New Opportunity” Turns Out to Be a Security Red Flag | Ted Rogers | [Read More](https://medium.com/p/4efc0114212b) |
+| Wed, 22 Oct 2025 15:21:52 GMT | Machine Learning-Assisted Recon in Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/53db57009985) |
 | Wed, 22 Oct 2025 15:10:55 GMT | Moving beyond passwords — Authentication Reloaded !! | Cyberbali | [Read More](https://medium.com/p/a12f00182a4e) |
 | Wed, 22 Oct 2025 15:10:18 GMT | Siber Güvenliğe Giriş ve Temel Siber Güvenlik Araçları | Aliberk Sandıkçı | [Read More](https://medium.com/p/0c09ceb320bf) |
 | Wed, 22 Oct 2025 15:09:09 GMT | How the $1.7 B Veeam–Securiti AI Deal Signals a New Era of Data Resilience & AI-Driven Security | IT_Engineer | [Read More](https://medium.com/p/f5d576785c2b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 10:58:36 GMT | AI Security Certifications: How to Become an AI Red Teamer or Model Auditor | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/54c403f81e2e) |
 | Wed, 22 Oct 2025 10:58:26 GMT | The Python Trick That Makes Your Code Up to 1000× Faster (And Why It Works) | Rizqi Mulki | [Read More](https://medium.com/p/3a8ab0e07b3f) |
 | Wed, 22 Oct 2025 10:58:08 GMT | Beginner’s Recon Guide for Bug Bounty Hunters (Kali Linux) | Xormium | [Read More](https://medium.com/p/430de132304b) |
-| Wed, 22 Oct 2025 10:54:31 GMT | Cybersecurity Trends 2025: Building Digital Resilience with IT Consulting | Sandy Lewis | [Read More](https://medium.com/p/1bbfde1aa58c) |
-| Wed, 22 Oct 2025 10:54:28 GMT | HackTheBox: Spookifier | Parveenjoeeya | [Read More](https://medium.com/p/055f900c7954) |
-| Wed, 22 Oct 2025 10:54:02 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/d9bc43f55e24) |
-| Wed, 22 Oct 2025 10:52:10 GMT | [HackTheBox x Vulnlab Write-up] Sendai (GenericAll, ReadGMSAPassword, ESC4) | Chicken0248 | [Read More](https://medium.com/p/1dbc7dfd1a46) |
-| Wed, 22 Oct 2025 10:51:21 GMT | Idle Infrastructure, Active Threats: Why Unmanaged Network Resources Are A Hacker’s Dream | IPXO | [Read More](https://medium.com/p/f3fceaa9c19c) |
-| Wed, 22 Oct 2025 10:42:42 GMT | CSI: Network — A Beginner’s Guide to Traffic Analysis | Furkanctiner | [Read More](https://medium.com/p/722f22f6029d) |
-| Wed, 22 Oct 2025 10:33:26 GMT | Today’s Top Cyber Intelligence Highlights — Oct 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4ff0664b839e) |
-| Wed, 22 Oct 2025 10:31:54 GMT | What Is Wi-Fi Overlapping? Simple Explanation with Real-Life Analogy and Fixes | Natarajan C K | [Read More](https://medium.com/p/f9d444cd3f79) |
-| Wed, 22 Oct 2025 10:23:48 GMT | WebRTC Security: How Safe Is It? | Filip Veselinovic | [Read More](https://medium.com/p/3677e54826a8) |
-| Wed, 22 Oct 2025 10:21:05 GMT | Top 10 OSINT Tools for Image and Video Verification in 2025 | VerifyHQ | [Read More](https://medium.com/p/139f06458172) |
-| Wed, 22 Oct 2025 10:16:25 GMT | Vulnerability Management : Moving Beyond CVSS | Snapsec | [Read More](https://medium.com/p/d3f16aa6f1c4) |
-| Wed, 22 Oct 2025 10:14:33 GMT | Best Managed Data Center Services Provider in India With Affordable Cost | Mathewneelan | [Read More](https://medium.com/p/6bc94cb637de) |
-| Wed, 22 Oct 2025 10:13:02 GMT | The Benefits of a Multi-Cloud Security Strategy | Samina Perveen | [Read More](https://medium.com/p/35a83bc3463e) |
-| Wed, 22 Oct 2025 10:12:29 GMT | The Subtle Art of Python Optimization I Learned from Real Codebases | Kainat Nafees | [Read More](https://medium.com/p/5acdec51e636) |
-| Wed, 22 Oct 2025 10:09:39 GMT | Digital Shield: Moving Beyond Security Anxiety to Build Your True Line of Digital Sovereignty | Digital Shield | [Read More](https://medium.com/p/abc1de0b9923) |
