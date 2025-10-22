@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 21:01:51 GMT | Do You Know Who Protects the Digital World? It’s Cybersecurity | Vertex University | [Read More](https://medium.com/p/ae0047c79f8d) |
+| Wed, 22 Oct 2025 20:59:18 GMT | Hackviser — Comicstore Scenario Walkthrough | Minosh Umayanga | [Read More](https://medium.com/p/248da295e04b) |
+| Wed, 22 Oct 2025 20:57:02 GMT | XSS Attack Demonstration: Preventing XSS in Web Application Backends (Part 3/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/b0da08a1ef98) |
+| Wed, 22 Oct 2025 20:53:14 GMT | EagleSpy: The Android RAT | Twinkle Jaineera | [Read More](https://medium.com/p/f7634d1cd541) |
+| Wed, 22 Oct 2025 20:50:53 GMT | Best of Both Worlds: EthoGPT Ethics and AresGPT Defense | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/9df60c0c6197) |
+| Wed, 22 Oct 2025 20:42:03 GMT | 9. Security | vivukhue | [Read More](https://medium.com/p/6149d1d7bda0) |
 | Wed, 22 Oct 2025 20:33:46 GMT | Why People Fall for Scams | Godsway R. Akakpo | [Read More](https://medium.com/p/c5a6055375b8) |
 | Wed, 22 Oct 2025 20:07:58 GMT | Pyramid of Pain - THM | Isiah | [Read More](https://medium.com/p/86b397a6b909) |
 | Wed, 22 Oct 2025 19:55:48 GMT | Linux Basics for SOC Analysts: My First Hands-On Log Analysis Day | Jenna S | [Read More](https://medium.com/p/5b0b34c92d8c) |
 | Wed, 22 Oct 2025 19:55:17 GMT | Mastering Threat Hunting: Proactive Defense in a Reactive World | SafeAeon Inc. | [Read More](https://medium.com/p/ea6797524291) |
+| Wed, 22 Oct 2025 19:55:05 GMT | Linux: Siber Güvenliğin Temeli, Açık Kaynak Felsefesi ve Öne Çıkan Güvenlik Dağıtımları | Ömer Faruk Yıldırım | [Read More](https://medium.com/p/6c9e5e5c7557) |
 | Wed, 22 Oct 2025 19:52:15 GMT | Linux Dağıtımları ve Siber Güvenlikte Kullanımı | Ayberkkocc | [Read More](https://medium.com/p/a4b9e24b76a9) |
 | Wed, 22 Oct 2025 19:51:08 GMT | Cracking the Login (HTB): Hands-on Broken Authentication Techniques Part 1 | Isv0x1 | [Read More](https://medium.com/p/a1f5f04d6085) |
 | Wed, 22 Oct 2025 19:49:41 GMT | The Day I Realized AI Was Helping Hackers Break Into My App | Sandra Kirsch | [Read More](https://medium.com/p/730b3870531b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 14:43:45 GMT | AWS Single Sign-On using external Identity Provider ZOHO Directory | Rajesh Gundeti | [Read More](https://medium.com/p/2624990b1e5f) |
 | Wed, 22 Oct 2025 14:41:11 GMT | Write Up Lab: Blind SQL injection with time delays and information retrieval | Velskynotfound | [Read More](https://medium.com/p/90f06c694995) |
 | Wed, 22 Oct 2025 14:37:40 GMT | Cyberup Institute: Train in Cybersecurity with the Immersive Experience of the Cyber Arena | CYBERUP INSTITUTE | [Read More](https://medium.com/p/7577b67f1dc6) |
-| Wed, 22 Oct 2025 14:33:06 GMT | Salesforce vs Zoho CRM | Digital Transformation Playbook | [Read More](https://medium.com/p/ff81da43a4c7) |
-| Wed, 22 Oct 2025 14:31:42 GMT | I Never Learned How to Be Loved | Thanion, Ph.D. | [Read More](https://medium.com/p/fdfb4ba3f83e) |
-| Wed, 22 Oct 2025 14:28:52 GMT | NETWORK 101 | İLKKAN BAYGIN | [Read More](https://medium.com/p/e1bde8d91915) |
-| Wed, 22 Oct 2025 14:26:45 GMT | your fear of judgement is keeping you paralyzed | Antwan | [Read More](https://medium.com/p/90a8fe08fe4d) |
-| Wed, 22 Oct 2025 14:26:21 GMT | AI and Cybersecurity: Why Tomorrow’s Threats Still Exploit Yesterday’s Mistakes | Abdellaoui Ahmed | [Read More](https://medium.com/p/202c3a92ea04) |
-| Wed, 22 Oct 2025 14:23:07 GMT | buying cloned cards in japan online 2025–2026 | Zogodame | [Read More](https://medium.com/p/3e01c2a68677) |
-| Wed, 22 Oct 2025 14:21:34 GMT | The Shifting Threat Landscape in Web3 — and Why ABTU Matters More Than Ever | Abatis ABTU | [Read More](https://medium.com/p/913c548eadab) |
