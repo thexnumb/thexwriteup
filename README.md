@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 20:07:58 GMT | Pyramid of Pain - THM | Isiah | [Read More](https://medium.com/p/86b397a6b909) |
+| Wed, 22 Oct 2025 19:55:48 GMT | Linux Basics for SOC Analysts: My First Hands-On Log Analysis Day | Jenna S | [Read More](https://medium.com/p/5b0b34c92d8c) |
+| Wed, 22 Oct 2025 19:55:17 GMT | Mastering Threat Hunting: Proactive Defense in a Reactive World | SafeAeon Inc. | [Read More](https://medium.com/p/ea6797524291) |
+| Wed, 22 Oct 2025 19:52:15 GMT | Linux Dağıtımları ve Siber Güvenlikte Kullanımı | Ayberkkocc | [Read More](https://medium.com/p/a4b9e24b76a9) |
+| Wed, 22 Oct 2025 19:51:08 GMT | Cracking the Login (HTB): Hands-on Broken Authentication Techniques Part 1 | Isv0x1 | [Read More](https://medium.com/p/a1f5f04d6085) |
+| Wed, 22 Oct 2025 19:49:41 GMT | The Day I Realized AI Was Helping Hackers Break Into My App | Sandra Kirsch | [Read More](https://medium.com/p/730b3870531b) |
+| Wed, 22 Oct 2025 19:36:13 GMT | Fighting AI With AI: Using Agent Swarms to Audit the AI Tool Supply Chain | Phil Stafford | [Read More](https://medium.com/p/deb5c3598096) |
 | Wed, 22 Oct 2025 19:28:17 GMT | Security Automation: The Future of Faster, Smarter Cyber Defense | SafeAeon Inc. | [Read More](https://medium.com/p/54256d94a9fc) |
 | Wed, 22 Oct 2025 19:23:36 GMT | KrakenKeylogger Lab Writeup | Jaws | [Read More](https://medium.com/p/37485d5747f0) |
 | Wed, 22 Oct 2025 19:22:04 GMT | The 7-Year AI Chat Log Trap | Berend Watchus | [Read More](https://medium.com/p/d30b726c78f4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 14:23:07 GMT | buying cloned cards in japan online 2025–2026 | Zogodame | [Read More](https://medium.com/p/3e01c2a68677) |
 | Wed, 22 Oct 2025 14:21:34 GMT | The Shifting Threat Landscape in Web3 — and Why ABTU Matters More Than Ever | Abatis ABTU | [Read More](https://medium.com/p/913c548eadab) |
 | Wed, 22 Oct 2025 14:11:32 GMT | Mastering Subdomain Enumeration: A Beginner’s Guide to Expanding Your Reconnaissance | Sumit Sah | [Read More](https://medium.com/p/c1719a97fbff) |
-| Wed, 22 Oct 2025 14:11:18 GMT | The Ultimate Guide to Content Discovery: Finding Hidden Files and Directories | Andrei Ivan | [Read More](https://medium.com/p/0c4ad36f4f09) |
-| Wed, 22 Oct 2025 14:08:21 GMT | To Those Who Still Haven’t Danced | Iyalekhue Endurance Otakhoigbogie | [Read More](https://medium.com/p/69c313f8af51) |
-| Wed, 22 Oct 2025 14:06:36 GMT | From Packets to Ports: How I Finally Understood the Internet’s Hidden Language | Salimassili | [Read More](https://medium.com/p/dd1a4e374b6a) |
-| Wed, 22 Oct 2025 14:02:01 GMT | Diving into the Digital Fortress: My Week as a Cybersecurity Analyst Student Trainee | Chukwu Joseph | [Read More](https://medium.com/p/ecdda8f8f78b) |
-| Wed, 22 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.22 | CyberMaterial | [Read More](https://medium.com/p/95d1b69d8aeb) |
-| Wed, 22 Oct 2025 14:00:18 GMT |  | Hossam_Mostafa | [Read More](https://medium.com/p/96fdf99c8bcc) |
-| Wed, 22 Oct 2025 13:59:56 GMT | The Hidden Network: Why the Future of Safety Depends on Connectivity | Tec-Tel Communications | [Read More](https://medium.com/p/4291a9fbd3fb) |
