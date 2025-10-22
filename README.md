@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 01:31:51 GMT | Everyday Cyber Hygiene: Small Habits That Protect Big Data | Wistkey | [Read More](https://medium.com/p/ceed26b2f325) |
+| Wed, 22 Oct 2025 01:30:11 GMT | Can You Really Stay Anonymous Online in 2025? | Rabail Zaheer | [Read More](https://medium.com/p/dd16242a5b8d) |
+| Wed, 22 Oct 2025 01:20:25 GMT | CYBER SECURITY CLASS REVIEW ON 21ST OF OCTOBER, 2025
+General Kali commands:
+CD
+PWD
+LS
+Touch
+/root… | Ukaakachi | [Read More](https://medium.com/p/51c27d2a5287) |
+| Wed, 22 Oct 2025 01:02:19 GMT | In late August 2025, the State of Nevada faced one of its most serious cybersecurity crises to date. | Akilnath Bodipudi | [Read More](https://medium.com/p/7835abe91bae) |
+| Wed, 22 Oct 2025 01:02:04 GMT | IAR: The Trading Platform That Builds Strength Through Recovery | Racca Jane | [Read More](https://medium.com/p/1a70db4985c9) |
+| Wed, 22 Oct 2025 00:53:33 GMT | (sub)text | Kristie Bradfield | [Read More](https://medium.com/p/84d4980d248b) |
+| Wed, 22 Oct 2025 00:50:27 GMT | My start… | Mjay | [Read More](https://medium.com/p/80466201c733) |
+| Wed, 22 Oct 2025 00:29:06 GMT | Detecting Abuse of OpenEDR’s Permissive EDR Trial: A Security Researcher’s Perspective | Kostas | [Read More](https://medium.com/p/fc55bf53972c) |
+| Wed, 22 Oct 2025 00:23:04 GMT | What The Boooomb? — The Fork Bomb Explained | Joseph Mwangi | [Read More](https://medium.com/p/48785bcc3a78) |
+| Wed, 22 Oct 2025 00:03:03 GMT | Learn how to use dnsrecon for Exhaustive DNS Enumeration and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/0924e19400f6) |
+| Tue, 21 Oct 2025 23:52:45 GMT | What’s better than one firewall? | Jack Livenspargar | [Read More](https://medium.com/p/2fde7fbc65de) |
+| Tue, 21 Oct 2025 23:39:55 GMT | 373 Malicious Packages a Day: Why Software Supply Chain Compromise Is Inevitable | Peter Hanneman | [Read More](https://medium.com/p/d6ac92282743) |
 | Tue, 21 Oct 2025 23:35:05 GMT | How Secure Is Your Network? | RNRPC Computer Repair | [Read More](https://medium.com/p/3ad85c14dccc) |
 | Tue, 21 Oct 2025 23:31:26 GMT | Business Logic Vulnerability lead to PII theft & account take over | zack0x01 | [Read More](https://medium.com/p/b5b68a679c19) |
 | Tue, 21 Oct 2025 23:27:02 GMT | Database Ransomware: When Attackers Target Your MySQL Directly | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/8f56a2612402) |
@@ -101,15 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 17:06:43 GMT | Cybersecurity Skills Gap and Workforce Development | Fospertise | [Read More](https://medium.com/p/667a7cb39b09) |
 | Tue, 21 Oct 2025 17:03:17 GMT | OpenWire Lab Writeup | Jaws | [Read More](https://medium.com/p/15f271089456) |
 | Tue, 21 Oct 2025 17:01:56 GMT | Stuck in a job that doesn’t pay what you’re worth? | Hachtechnology | [Read More](https://medium.com/p/b48677bcfd30) |
-| Tue, 21 Oct 2025 17:01:48 GMT | The Third Pillar of Performance: Why AI Security is the New Aerodynamics in F1™ | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/3e372db6f8a8) |
-| Tue, 21 Oct 2025 16:46:34 GMT | Cyber Security Deep Dive: Tactics, Techniques, and Procedures | Cyber Security Research | [Read More](https://medium.com/p/2e33e1ada9d5) |
-| Tue, 21 Oct 2025 16:44:56 GMT | How I Used Sequential IDs to Download an Entire Company’s User Database (And The Joker Helped) | Iski | [Read More](https://medium.com/p/2a8dd23127e6) |
-| Tue, 21 Oct 2025 16:43:36 GMT | This Is How I Find Reflected XSS In Bug Bounty | Rehan Sohail | [Read More](https://medium.com/p/7b42059a5d04) |
-| Tue, 21 Oct 2025 16:39:54 GMT | My experiments with OWASP Juice Shop: What I Hacked, What I Couldn’t, and What I Learned | Srividya Sundaravadivelu | [Read More](https://medium.com/p/c56b18804389) |
-| Tue, 21 Oct 2025 16:37:30 GMT | Key Terms in Cybersecurity Explained Simply | Ferdi Edogawa | [Read More](https://medium.com/p/da6bdc14d4c0) |
-| Tue, 21 Oct 2025 16:34:04 GMT | Building a Secure and Production-Ready Authentication System with FastAPI: Architecture &… | Hemant Kumar | [Read More](https://medium.com/p/ea97bb94f402) |
-| Tue, 21 Oct 2025 16:31:19 GMT | Develpy TRYHACK WRITEUP | Aderogbarufai | [Read More](https://medium.com/p/2ec70ff6d3ba) |
-| Tue, 21 Oct 2025 16:30:37 GMT | When Digital ID Becomes Digital Prison: Why I Can’t Prove I’m Me | Krystal | [Read More](https://medium.com/p/28a07e1953e0) |
-| Tue, 21 Oct 2025 16:25:44 GMT | Cybersecurity 101: Key Concepts Every Beginner Must Know | Aj | [Read More](https://medium.com/p/8e8b50476b3f) |
-| Tue, 21 Oct 2025 16:24:42 GMT | How Not to Fail the Exam — lessons from my OSCP+ journey | Loki | [Read More](https://medium.com/p/3d951a3c9e0b) |
-| Tue, 21 Oct 2025 16:22:55 GMT | The Benefits and Dangers of the Internet | Muhammad Arfan Sohail | [Read More](https://medium.com/p/8e7c1d30227d) |
