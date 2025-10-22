@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 06:22:44 GMT | ISO/IEC 27701:2025 Information security, cybersecurity and privacy protection — Privacy… | Viktor Davydych | [Read More](https://medium.com/p/21e86f46e082) |
+| Wed, 22 Oct 2025 06:19:05 GMT | The OPSEC Culture Checklist | Rubab Fatima | [Read More](https://medium.com/p/126689ba15b1) |
+| Wed, 22 Oct 2025 06:11:06 GMT | How Safe Is Your Data on Public Wi-Fi? | Shivakshi Rawat | [Read More](https://medium.com/p/df8d2ecf7236) |
+| Wed, 22 Oct 2025 06:03:05 GMT | How Bug Bounty Changed My Life | Ferdus Alam | [Read More](https://medium.com/p/039da09584c5) |
+| Wed, 22 Oct 2025 05:49:28 GMT | Nor-Tech HPC Clusters Feature Cornelis Omni-Path; Offering Significant Advantages Over Alternatives | Emma Lyons | [Read More](https://medium.com/p/f9f7fff4cd37) |
+| Wed, 22 Oct 2025 05:38:03 GMT | Submission Guidelines for CyberSec Research | Bruzzese Roberto | [Read More](https://medium.com/p/59b44ea69e9b) |
+| Wed, 22 Oct 2025 05:37:44 GMT | Event Log Clearing and Malware Execution: Evidence from Windows Logs | Dean | [Read More](https://medium.com/p/d6e454f32366) |
 | Wed, 22 Oct 2025 05:29:56 GMT | How I Used AI to Hack AI Security (And Why Skynet Would Be Proud) | Iski | [Read More](https://medium.com/p/e698a30634a0) |
 | Wed, 22 Oct 2025 05:29:39 GMT | Are Businesses Underestimating The Cost Of Poor Security In Alberta? | GPS Security Group Inc | [Read More](https://medium.com/p/a10c96a2fcbe) |
 | Wed, 22 Oct 2025 05:25:40 GMT | Weekly Threat Intelligece Report 13 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/b33e60550f1d) |
@@ -112,10 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 19:44:08 GMT | The top 5 strategies for recovering money from cryptocurrency scams Hair Ghost Mystery Recovery… | Angeljosefina | [Read More](https://medium.com/p/4e140daa6e71) |
 | Tue, 21 Oct 2025 19:40:02 GMT | How a Simple SSTI Turned Into $1,000 and RCE | Danish Ahmed | [Read More](https://medium.com/p/2ee5b1d20474) |
 | Tue, 21 Oct 2025 19:39:45 GMT | When the Internet Went Dark: Lessons from the AWS Outage That Shook the Digital World | Jervis Anthony Saldanha | [Read More](https://medium.com/p/1408e819cbfa) |
-| Tue, 21 Oct 2025 19:37:54 GMT | Bulut ortamlarında ölçülebilir, test edilebilir güvenlik için metodolojik rehber olarak FedRAMP… | Gizem Şahin | [Read More](https://medium.com/p/36b6e99dfe31) |
-| Tue, 21 Oct 2025 19:33:33 GMT | Episode 1: WannaCry, The Worm That Ate the World. | Santhosh | [Read More](https://medium.com/p/c1d137d99c7b) |
-| Tue, 21 Oct 2025 19:32:35 GMT | When Medium Died: The Day the Internet Stopped Writing | Pannag Kumaar | [Read More](https://medium.com/p/661a44b0a9cb) |
-| Tue, 21 Oct 2025 19:27:54 GMT | TYPES OF MALWARE | Input-7 | [Read More](https://medium.com/p/181d8d0d1bfa) |
-| Tue, 21 Oct 2025 19:26:41 GMT | Course: Excellence and Innovation Leader for Managers Security and Safety | Rana El Garhi | [Read More](https://medium.com/p/cf6a451cc388) |
-| Tue, 21 Oct 2025 19:19:50 GMT | BehindTheScreens: When the Cloud Crashed — What the AWS Outage Reveals About the Internet’s… | Sam - Behind The Screens | [Read More](https://medium.com/p/d3a511558313) |
-| Tue, 21 Oct 2025 19:18:13 GMT | Cybersecurity | Lisaayu | [Read More](https://medium.com/p/8be2e5cccf8b) |
