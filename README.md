@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 02:46:38 GMT | 31 Days of Horror: Movie Review:Bug (2007) – Madness, Paranoia, and the Descent of Ashley Judd | Sean Patrick | [Read More](https://medium.com/p/593a9bfa27b4) |
+| Wed, 22 Oct 2025 02:33:58 GMT | Sometimes, the skill you think you’ll never use becomes the only reason you didn’t lose millions | Juliet Anoruo. | [Read More](https://medium.com/p/4c555712be47) |
+| Wed, 22 Oct 2025 02:33:27 GMT | Simple (but time consuming) guide to hunt for DOM XSS without a scanner | popalltheshells | [Read More](https://medium.com/p/f5b65a262073) |
+| Wed, 22 Oct 2025 02:32:52 GMT | When Your Boss Calls (But It Might Be a Robot!): The Deepfake Threat | Max Farnga | [Read More](https://medium.com/p/9d603f14564d) |
+| Wed, 22 Oct 2025 02:32:18 GMT | The Role of PKI in Everyday Life | TechTrellis Academy | [Read More](https://medium.com/p/5e1953d5d4a2) |
+| Wed, 22 Oct 2025 02:27:59 GMT | AWS Outage October 2025: What Happened and Key Lessons for All Cloud Users | Sasono Utomo | [Read More](https://medium.com/p/1a13015b5e28) |
+| Wed, 22 Oct 2025 02:23:19 GMT | AWS Outage: What Yesterday’s Event Tells Us About Cloud Dependency | Max Farnga | [Read More](https://medium.com/p/3495053862ad) |
+| Wed, 22 Oct 2025 02:18:02 GMT | Why Pentesters Can’t Ignore the Radio Spectrum in 2025 | Michael Preston | [Read More](https://medium.com/p/8277daac7ef9) |
+| Wed, 22 Oct 2025 02:13:30 GMT | Hackers Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/5c3d334e4917) |
+| Wed, 22 Oct 2025 02:05:02 GMT | Try Hack Me vs Hack The Box: Which One’s Worth It? | Rendiero | [Read More](https://medium.com/p/e13cfe9229b7) |
 | Wed, 22 Oct 2025 01:31:51 GMT | Everyday Cyber Hygiene: Small Habits That Protect Big Data | Wistkey | [Read More](https://medium.com/p/ceed26b2f325) |
 | Wed, 22 Oct 2025 01:30:11 GMT | Can You Really Stay Anonymous Online in 2025? | Rabail Zaheer | [Read More](https://medium.com/p/dd16242a5b8d) |
 | Wed, 22 Oct 2025 01:20:25 GMT | CYBER SECURITY CLASS REVIEW ON 21ST OF OCTOBER, 2025
@@ -109,13 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 17:39:59 GMT | Robust Authentication in Spring Boot with Keycloak | vishal acharya | [Read More](https://medium.com/p/0d2c220210ad) |
 | Tue, 21 Oct 2025 17:32:51 GMT | Satellite Communications and Cybersecurity in the Cyber Warfare Era | David SEHYEON Baek | [Read More](https://medium.com/p/c9f0372a99e3) |
 | Tue, 21 Oct 2025 17:27:58 GMT | Dead-Drop Resolvers: Malware’s Quiet Rendezvous and Why Adaptive Defense Matters | Evan Powell | [Read More](https://medium.com/p/82c8faaf207c) |
-| Tue, 21 Oct 2025 17:27:13 GMT | Building Trust on the Web: HTTPS and Cookie Security in Frontend | Emrecan Körpınar | [Read More](https://medium.com/p/4d781777e206) |
-| Tue, 21 Oct 2025 17:25:38 GMT | Nmap Nedir? Ne İşe Yarar? Gerçekten Gerekli mi? | Mehmet Ali | [Read More](https://medium.com/p/213f43aad784) |
-| Tue, 21 Oct 2025 17:20:49 GMT | 4 Duvar, 1 Kalp | Nuri Sencer | [Read More](https://medium.com/p/377cc61cb74f) |
-| Tue, 21 Oct 2025 17:18:53 GMT | SCAM004: Uncovering An Ongoing Financial Heist | 0x0vid | [Read More](https://medium.com/p/a6ccc6af60f3) |
-| Tue, 21 Oct 2025 17:15:45 GMT | Today’s Cyber Security lecture Review (21/10/25) | patriokstar | [Read More](https://medium.com/p/b06a9e527e85) |
-| Tue, 21 Oct 2025 17:13:17 GMT | Linux Nedir? Dijital Dünyayı Şekillendiren Gizli Güç | Ahsecek | [Read More](https://medium.com/p/c208d3364f10) |
-| Tue, 21 Oct 2025 17:11:29 GMT | Asset Tagging in Vulnerability Scanners: The Smarter Way to Prioritize and Fix Security Risks | SafeAeon Inc. | [Read More](https://medium.com/p/d6b4e152a245) |
-| Tue, 21 Oct 2025 17:06:43 GMT | Cybersecurity Skills Gap and Workforce Development | Fospertise | [Read More](https://medium.com/p/667a7cb39b09) |
-| Tue, 21 Oct 2025 17:03:17 GMT | OpenWire Lab Writeup | Jaws | [Read More](https://medium.com/p/15f271089456) |
-| Tue, 21 Oct 2025 17:01:56 GMT | Stuck in a job that doesn’t pay what you’re worth? | Hachtechnology | [Read More](https://medium.com/p/b48677bcfd30) |
