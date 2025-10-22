@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 22:28:52 GMT | The Uncanny Valley of AI: How It’s Causing More Harm than Good to Our Critical Thinking Skills | Olivia Love | [Read More](https://medium.com/p/1fc19686bf14) |
 | Wed, 22 Oct 2025 22:07:14 GMT | I Just Learned About the “Pixnapping” Attack on Android | Ryan W | [Read More](https://medium.com/p/c31583a8822a) |
 | Wed, 22 Oct 2025 21:54:11 GMT | You Have Been Robbed! — By Etsy?! | dataminerals | [Read More](https://medium.com/p/b8d6ed22a58a) |
 | Wed, 22 Oct 2025 21:54:05 GMT | Hey Grok: What is DVIUS? | SinVictus | [Read More](https://medium.com/p/7ae886178c9e) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 15:01:48 GMT | Is Vulnerability Just Exposure Therapy? | Rilee Astraea (Mystic in the Matrix) | [Read More](https://medium.com/p/7a28613f4453) |
 | Wed, 22 Oct 2025 14:57:52 GMT | Dancing API Challenge — Solution Guide CSEM | CSEM | [Read More](https://medium.com/p/a95d9d61c374) |
 | Wed, 22 Oct 2025 14:56:24 GMT | Understanding JSON Web Token (JWT) Security | hackerdevil | [Read More](https://medium.com/p/48c3a9cc96f2) |
-| Wed, 22 Oct 2025 14:54:56 GMT | Think your code is secure? | ZAST AI | [Read More](https://medium.com/p/a228ef83a4ad) |
