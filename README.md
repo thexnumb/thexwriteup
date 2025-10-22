@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 16:32:27 GMT | A Practical Guide to Fine-Tuning Wazuh’s Vulnerability Detection Module | Wilklins Nyatteng | [Read More](https://medium.com/p/b2b15f92fa91) |
+| Wed, 22 Oct 2025 16:19:46 GMT | The AWS US-EAST-1 Outage of October 20, 2025: A DNS Glitch That Exposed the Internet’s Fragile… | H2bm | [Read More](https://medium.com/p/6ef09782272c) |
 | Wed, 22 Oct 2025 16:17:00 GMT | Shocking GPU Vulnerability | Shailendra Kumar | [Read More](https://medium.com/p/1747118e2497) |
 | Wed, 22 Oct 2025 16:11:42 GMT | TryHackMe - Initial Access Pot - WriteUp | Axoloth | [Read More](https://medium.com/p/fc04d202d383) |
 | Wed, 22 Oct 2025 16:10:00 GMT | Bring external AWS accounts into an organization | Rajesh Gundeti | [Read More](https://medium.com/p/15ad11cb0fd3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 11:02:23 GMT | The Future of IT Isn’t Alerts, It’s Intelligent Autonomy. | Arsalan Shemirani | [Read More](https://medium.com/p/8b39561fa21d) |
 | Wed, 22 Oct 2025 11:00:25 GMT | [HackTheBox x VulnLab Write-up] Sweep (Lansweeper exploit, SSH honeypot and GenericAll) | Chicken0248 | [Read More](https://medium.com/p/5c9583fa7554) |
 | Wed, 22 Oct 2025 10:58:36 GMT | AI Security Certifications: How to Become an AI Red Teamer or Model Auditor | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/54c403f81e2e) |
-| Wed, 22 Oct 2025 10:58:26 GMT | The Python Trick That Makes Your Code Up to 1000× Faster (And Why It Works) | Rizqi Mulki | [Read More](https://medium.com/p/3a8ab0e07b3f) |
-| Wed, 22 Oct 2025 10:58:08 GMT | Beginner’s Recon Guide for Bug Bounty Hunters (Kali Linux) | Xormium | [Read More](https://medium.com/p/430de132304b) |
