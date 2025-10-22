@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 04:16:33 GMT | Digital Playgrounds, Real Risks: Why Online Games Need Safer Spaces for Kids | CyberTalks | [Read More](https://medium.com/p/54fd98a09020) |
+| Wed, 22 Oct 2025 04:06:00 GMT | Top AI Security YouTube Videos — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9e4e19a08ec2) |
+| Wed, 22 Oct 2025 03:47:04 GMT | Why Guardrails Alone Can’t Protect Your AI Systems | Neova Solutions | [Read More](https://medium.com/p/c7a82a8534d1) |
 | Wed, 22 Oct 2025 03:46:43 GMT | The Sleeper Agent Bug: How One HTML Payload Lay Hidden for Months to Attack My Inbox ⏳ | LordofHeaven | [Read More](https://medium.com/p/9d3f1e9df60e) |
+| Wed, 22 Oct 2025 03:46:38 GMT | Como integrar Gemini con Wazuh | Nahuel Amartinez | [Read More](https://medium.com/p/cbb6b990d052) |
 | Wed, 22 Oct 2025 03:42:14 GMT | Decoding Risk Assessment: A Guide for Security Stakeholders | cyber_pix | [Read More](https://medium.com/p/808b3d57d5aa) |
 | Wed, 22 Oct 2025 03:32:13 GMT | USDG on Solana: How to Make Your Dollars Work | Låwrêñçe | [Read More](https://medium.com/p/257eb1b7821e) |
 | Wed, 22 Oct 2025 03:28:43 GMT | My Journey — Linux Fundamentals | A A | [Read More](https://medium.com/p/66c466dd16b5) |
@@ -115,7 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 18:18:44 GMT | MDM Solutions Guide: Securing Mobile Devices in a Connected Workforce | SafeAeon Inc. | [Read More](https://medium.com/p/414cecf581c1) |
 | Tue, 21 Oct 2025 18:17:48 GMT | The Stuxnet Worm of the year 2010 was created by Eric van Sabben, a Dutch engineer. | Emenanjo Ndigwe | [Read More](https://medium.com/p/c35392b329d1) |
 | Tue, 21 Oct 2025 18:14:21 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/cbb6d388a370) |
-| Tue, 21 Oct 2025 18:11:04 GMT | When the AI Gets Phished: The Real Meaning of Prompt Injection | Silas Potter | [Read More](https://medium.com/p/61edc8597bfa) |
-| Tue, 21 Oct 2025 18:05:15 GMT | How Crypto Scammers Clean or Launder their Dirty Crypto ? | STRENBOW | [Read More](https://medium.com/p/b50356ba41b3) |
-| Tue, 21 Oct 2025 18:04:46 GMT | From Dorm Rooms to Doorsteps: Cybersecurity Awareness Month Goes Home | Jennifer "Jay" Palumbo | [Read More](https://medium.com/p/f2708eb04178) |
-| Tue, 21 Oct 2025 17:54:00 GMT | “ Blast from the past ” picoCTF 2024 writeup | Dr_ro0t | [Read More](https://medium.com/p/54afd09b1118) |
