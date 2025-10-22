@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 04:44:02 GMT | The Different Levels of Broken Stats | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/30e90958f479) |
 | Wed, 22 Oct 2025 04:16:33 GMT | Digital Playgrounds, Real Risks: Why Online Games Need Safer Spaces for Kids | CyberTalks | [Read More](https://medium.com/p/54fd98a09020) |
 | Wed, 22 Oct 2025 04:06:00 GMT | Top AI Security YouTube Videos — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9e4e19a08ec2) |
+| Wed, 22 Oct 2025 04:03:02 GMT | Resume Keamanan Data dan Informasi, Keamanan Siber, dan Serangan Siber | Annisa Syaharani | [Read More](https://medium.com/p/eb5208181588) |
 | Wed, 22 Oct 2025 03:47:04 GMT | Why Guardrails Alone Can’t Protect Your AI Systems | Neova Solutions | [Read More](https://medium.com/p/c7a82a8534d1) |
 | Wed, 22 Oct 2025 03:46:43 GMT | The Sleeper Agent Bug: How One HTML Payload Lay Hidden for Months to Attack My Inbox ⏳ | LordofHeaven | [Read More](https://medium.com/p/9d3f1e9df60e) |
 | Wed, 22 Oct 2025 03:46:38 GMT | Como integrar Gemini con Wazuh | Nahuel Amartinez | [Read More](https://medium.com/p/cbb6b990d052) |
@@ -117,5 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 18:29:16 GMT | How XDR Security Protects Against Cyber Attacks: A Smarter Way to Detect, Respond, and Defend | SafeAeon Inc. | [Read More](https://medium.com/p/6f923b87ef5d) |
 | Tue, 21 Oct 2025 18:21:32 GMT | How to Tell If Your Phone Has Been Hacked: The Signs, the Fix, and the Prevention Plan | Malik | [Read More](https://medium.com/p/a431d40aa936) |
 | Tue, 21 Oct 2025 18:18:44 GMT | MDM Solutions Guide: Securing Mobile Devices in a Connected Workforce | SafeAeon Inc. | [Read More](https://medium.com/p/414cecf581c1) |
-| Tue, 21 Oct 2025 18:17:48 GMT | The Stuxnet Worm of the year 2010 was created by Eric van Sabben, a Dutch engineer. | Emenanjo Ndigwe | [Read More](https://medium.com/p/c35392b329d1) |
-| Tue, 21 Oct 2025 18:14:21 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/cbb6d388a370) |
