@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 11:12:56 GMT | 7 Key Takeaways From Barracuda’s MSP Customer Insight Report 2025 | HostNOC | [Read More](https://medium.com/p/7f39c7140897) |
+| Wed, 22 Oct 2025 11:11:52 GMT | Sudo Privilege Escalation Scenarios: Exploiting Restricted Paths to Root Access | Esra Kayhan | [Read More](https://medium.com/p/78424a25de2e) |
+| Wed, 22 Oct 2025 11:08:55 GMT | Submission Guidelines for CyberSec Research | Bruzzese Roberto | [Read More](https://medium.com/p/e9c78afc8e07) |
+| Wed, 22 Oct 2025 11:02:23 GMT | The Future of IT Isn’t Alerts, It’s Intelligent Autonomy. | Arsalan Shemirani | [Read More](https://medium.com/p/8b39561fa21d) |
+| Wed, 22 Oct 2025 11:00:25 GMT | [HackTheBox x VulnLab Write-up] Sweep (Lansweeper exploit, SSH honeypot and GenericAll) | Chicken0248 | [Read More](https://medium.com/p/5c9583fa7554) |
+| Wed, 22 Oct 2025 10:58:36 GMT | AI Security Certifications: How to Become an AI Red Teamer or Model Auditor | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/54c403f81e2e) |
+| Wed, 22 Oct 2025 10:58:26 GMT | The Python Trick That Makes Your Code Up to 1000× Faster (And Why It Works) | Rizqi Mulki | [Read More](https://medium.com/p/3a8ab0e07b3f) |
+| Wed, 22 Oct 2025 10:58:08 GMT | Beginner’s Recon Guide for Bug Bounty Hunters (Kali Linux) | Xormium | [Read More](https://medium.com/p/430de132304b) |
+| Wed, 22 Oct 2025 10:54:31 GMT | Cybersecurity Trends 2025: Building Digital Resilience with IT Consulting | Sandy Lewis | [Read More](https://medium.com/p/1bbfde1aa58c) |
+| Wed, 22 Oct 2025 10:54:28 GMT | HackTheBox: Spookifier | Parveenjoeeya | [Read More](https://medium.com/p/055f900c7954) |
+| Wed, 22 Oct 2025 10:54:02 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/d9bc43f55e24) |
+| Wed, 22 Oct 2025 10:52:10 GMT | [HackTheBox x Vulnlab Write-up] Sendai (GenericAll, ReadGMSAPassword, ESC4) | Chicken0248 | [Read More](https://medium.com/p/1dbc7dfd1a46) |
+| Wed, 22 Oct 2025 10:51:21 GMT | Idle Infrastructure, Active Threats: Why Unmanaged Network Resources Are A Hacker’s Dream | IPXO | [Read More](https://medium.com/p/f3fceaa9c19c) |
+| Wed, 22 Oct 2025 10:42:42 GMT | CSI: Network — A Beginner’s Guide to Traffic Analysis | Furkanctiner | [Read More](https://medium.com/p/722f22f6029d) |
 | Wed, 22 Oct 2025 10:33:26 GMT | Today’s Top Cyber Intelligence Highlights — Oct 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4ff0664b839e) |
 | Wed, 22 Oct 2025 10:31:54 GMT | What Is Wi-Fi Overlapping? Simple Explanation with Real-Life Analogy and Fixes | Natarajan C K | [Read More](https://medium.com/p/f9d444cd3f79) |
 | Wed, 22 Oct 2025 10:23:48 GMT | WebRTC Security: How Safe Is It? | Filip Veselinovic | [Read More](https://medium.com/p/3677e54826a8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 05:16:30 GMT | Automation Process for Terminating Instances Affected by Malware | Paripuranam | [Read More](https://medium.com/p/facd5c142ec9) |
 | Wed, 22 Oct 2025 05:14:54 GMT | How Hackers Deceive AI Security Systems (And How to Stop Them) | Muhammad Haider Tallal | [Read More](https://medium.com/p/414a49de8dd3) |
 | Wed, 22 Oct 2025 05:14:24 GMT | Weekly Threat Intelligece Report 06 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/e70ce7615386) |
-| Wed, 22 Oct 2025 05:12:00 GMT | BARRON TRUMP – THE NEW FACE OF CRYPTO-AMERICA | Satoshi Economy | [Read More](https://medium.com/p/8bbbbae4b8fe) |
-| Wed, 22 Oct 2025 05:00:22 GMT | Ultimate Technical Breakdown of the MITRE Ecosystem | Aenosh Rajora | [Read More](https://medium.com/p/b37021f9d016) |
-| Wed, 22 Oct 2025 04:56:34 GMT | How to Check System Health with Windows Security | Tanisha | [Read More](https://medium.com/p/a78b6d4534be) |
-| Wed, 22 Oct 2025 04:44:02 GMT | The Different Levels of Broken Stats | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/30e90958f479) |
-| Wed, 22 Oct 2025 04:41:58 GMT | HackTheBox Windows Events and Finding Evil: PowerShell’s Secret Weapon for Mass Log Analysis… | Cybersecurity Simplified | [Read More](https://medium.com/p/4a781b8a6e7c) |
-| Wed, 22 Oct 2025 04:32:38 GMT | WhatsApp’s End-to-End Message Encryption | Ravikumar Makwana | [Read More](https://medium.com/p/c3b410dbb97f) |
-| Wed, 22 Oct 2025 04:31:25 GMT | Lockdown Tryhackme - Walkthrough | Irfan Syahmi | [Read More](https://medium.com/p/b5922e7a31e1) |
-| Wed, 22 Oct 2025 04:16:33 GMT | Digital Playgrounds, Real Risks: Why Online Games Need Safer Spaces for Kids | CyberTalks | [Read More](https://medium.com/p/54fd98a09020) |
-| Wed, 22 Oct 2025 04:06:00 GMT | Top AI Security YouTube Videos — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9e4e19a08ec2) |
-| Wed, 22 Oct 2025 04:03:02 GMT | Resume Keamanan Data dan Informasi, Keamanan Siber, dan Serangan Siber | Annisa Syaharani | [Read More](https://medium.com/p/eb5208181588) |
-| Wed, 22 Oct 2025 03:47:04 GMT | Why Guardrails Alone Can’t Protect Your AI Systems | Neova Solutions | [Read More](https://medium.com/p/c7a82a8534d1) |
-| Wed, 22 Oct 2025 03:46:43 GMT | The Sleeper Agent Bug: How One HTML Payload Lay Hidden for Months to Attack My Inbox ⏳ | LordofHeaven | [Read More](https://medium.com/p/9d3f1e9df60e) |
-| Wed, 22 Oct 2025 03:46:38 GMT | Como integrar Gemini con Wazuh | Nahuel Amartinez | [Read More](https://medium.com/p/cbb6b990d052) |
-| Wed, 22 Oct 2025 03:42:14 GMT | Decoding Risk Assessment: A Guide for Security Stakeholders | cyber_pix | [Read More](https://medium.com/p/808b3d57d5aa) |
