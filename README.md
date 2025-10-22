@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 09:17:44 GMT | Axipro: Your Trusted Partner for NIST Security Certification | Axipro | [Read More](https://medium.com/p/746e0bb40ea6) |
+| Wed, 22 Oct 2025 09:09:28 GMT | Cyber diary | Anointing Uzoma Ahaoma | [Read More](https://medium.com/p/613949c01540) |
+| Wed, 22 Oct 2025 09:05:07 GMT | This Prompt Fools Every AI Detector: The Ultimate Humanizing Hack for AI Writing | Abdikadir Moge | [Read More](https://medium.com/p/76f954b430b4) |
+| Wed, 22 Oct 2025 09:03:51 GMT | Digital Footprints: What Your Apps Reveal About You | Aysha Misri | [Read More](https://medium.com/p/73e0828f178a) |
+| Wed, 22 Oct 2025 09:03:04 GMT | Top 5 SOC 2 Audit Mistakes (and How to Avoid Them) | Hicomply | [Read More](https://medium.com/p/cac727bb6800) |
+| Wed, 22 Oct 2025 08:57:11 GMT | Lost in Cyber Maze?  Your Study GPS, Found! | Authlyn | [Read More](https://medium.com/p/6f0121868cda) |
+| Wed, 22 Oct 2025 08:56:04 GMT | A Summary of my third day in class | Kevack | [Read More](https://medium.com/p/d944ae3e0a24) |
+| Wed, 22 Oct 2025 08:55:38 GMT | AWS IAM Access Analyzer: Your Free Security Guard Against Public Exposure | Afaq Ul Haq Babar | [Read More](https://medium.com/p/eb1c08e7bfa6) |
+| Wed, 22 Oct 2025 08:55:08 GMT | Hetty HTTP Toolkit: A Complete Guide to Web Application Security Testing | Averageguymedianow | [Read More](https://medium.com/p/b9e0ea1f4d6e) |
+| Wed, 22 Oct 2025 08:52:36 GMT | 34 Zero-Days?! Pwn2Own’s First-Day Hackfest! | Truspex | [Read More](https://medium.com/p/ea7929a490d4) |
+| Wed, 22 Oct 2025 08:50:50 GMT | Why Chrome Only Saving Website Passwords for One Account (Fixes + Causes Explained) | Ambreenbasit | [Read More](https://medium.com/p/c081b3e569f3) |
+| Wed, 22 Oct 2025 08:38:40 GMT | DevSecOps Strategies for Container Security | DevOps Security Hub | [Read More](https://medium.com/p/8a00e01509e2) |
+| Wed, 22 Oct 2025 08:32:15 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/fa44ca22accd) |
 | Wed, 22 Oct 2025 08:14:10 GMT | A Summary of my second day in Cyber security class | Kevack | [Read More](https://medium.com/p/8ccb9ec86e6a) |
 | Wed, 22 Oct 2025 08:04:22 GMT | Crypto Incident Triage & Response Guide | WhaleCalls | [Read More](https://medium.com/p/8add63622d82) |
 | Wed, 22 Oct 2025 08:02:11 GMT | How a Misconfigured Binary Can Give You Root Access in 2 Commands | MayhemCode | [Read More](https://medium.com/p/f7d3e3173194) |
@@ -105,16 +118,3 @@ Touch
 | Tue, 21 Oct 2025 23:35:05 GMT | How Secure Is Your Network? | RNRPC Computer Repair | [Read More](https://medium.com/p/3ad85c14dccc) |
 | Tue, 21 Oct 2025 23:31:26 GMT | Business Logic Vulnerability lead to PII theft & account take over | zack0x01 | [Read More](https://medium.com/p/b5b68a679c19) |
 | Tue, 21 Oct 2025 23:27:02 GMT | Database Ransomware: When Attackers Target Your MySQL Directly | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/8f56a2612402) |
-| Tue, 21 Oct 2025 23:16:44 GMT | Open Kimono | Wally Bornmann | [Read More](https://medium.com/p/0e7713da91fe) |
-| Tue, 21 Oct 2025 23:15:53 GMT | Double Threat: DOM XSS & Open Redirect Vulnerabilities Exposed Across 30+ Websites | N0aziXss | [Read More](https://medium.com/p/64286558e3a3) |
-| Tue, 21 Oct 2025 23:11:28 GMT | Can’t Withdraw Crypto from Bitunix? Here’s How Ethical Hackers Can Help | Isabella | [Read More](https://medium.com/p/c64f2857e6ab) |
-| Tue, 21 Oct 2025 23:02:17 GMT | (Kinda) Deplatformed: How I Lost My Twitter Account (Again) | WhaleCalls | [Read More](https://medium.com/p/886b982b513e) |
-| Tue, 21 Oct 2025 22:56:40 GMT | Can’t Withdraw Crypto from Bitunix? Here’s How Ethical Hackers Can Help | Newmanseries | [Read More](https://medium.com/p/8edbca26e644) |
-| Tue, 21 Oct 2025 22:49:59 GMT | A Summary of my first day in Cyber security class | Kevack | [Read More](https://medium.com/p/28547b76beb6) |
-| Tue, 21 Oct 2025 22:49:56 GMT | Class 2: A Deep Dive into Cyber Threats | Samuel Ndubuisi | [Read More](https://medium.com/p/ff7ae62aea58) |
-| Tue, 21 Oct 2025 22:31:48 GMT | Pipeline Immunity: Building Self-Healing Application Security in CI/CD Systems | Sai Krishna Kakarla | [Read More](https://medium.com/p/43334600eb22) |
-| Tue, 21 Oct 2025 22:30:34 GMT | Receipts, Not Surveillance | Rick Hare | [Read More](https://medium.com/p/0808953237ec) |
-| Tue, 21 Oct 2025 22:29:58 GMT | Scamming Awareness Tips | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/4531405c1862) |
-| Tue, 21 Oct 2025 22:10:07 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/22fff64d33f4) |
-| Tue, 21 Oct 2025 22:05:52 GMT | Identity Security: Your First and Last Line of Defense | Cyber-AppSec | [Read More](https://medium.com/p/96ae653bb0c0) |
-| Tue, 21 Oct 2025 22:04:45 GMT | Lessons from the AWS Meltdown | Michael Casey | [Read More](https://medium.com/p/f413eacb01f5) |
