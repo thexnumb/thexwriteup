@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 05:29:56 GMT | How I Used AI to Hack AI Security (And Why Skynet Would Be Proud) | Iski | [Read More](https://medium.com/p/e698a30634a0) |
+| Wed, 22 Oct 2025 05:29:39 GMT | Are Businesses Underestimating The Cost Of Poor Security In Alberta? | GPS Security Group Inc | [Read More](https://medium.com/p/a10c96a2fcbe) |
+| Wed, 22 Oct 2025 05:25:40 GMT | Weekly Threat Intelligece Report 13 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/b33e60550f1d) |
+| Wed, 22 Oct 2025 05:16:30 GMT | Automation Process for Terminating Instances Affected by Malware | Paripuranam | [Read More](https://medium.com/p/facd5c142ec9) |
 | Wed, 22 Oct 2025 05:14:54 GMT | How Hackers Deceive AI Security Systems (And How to Stop Them) | Muhammad Haider Tallal | [Read More](https://medium.com/p/414a49de8dd3) |
 | Wed, 22 Oct 2025 05:14:24 GMT | Weekly Threat Intelligece Report 06 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/e70ce7615386) |
 | Wed, 22 Oct 2025 05:12:00 GMT | BARRON TRUMP – THE NEW FACE OF CRYPTO-AMERICA | Satoshi Economy | [Read More](https://medium.com/p/8bbbbae4b8fe) |
@@ -115,7 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 19:26:41 GMT | Course: Excellence and Innovation Leader for Managers Security and Safety | Rana El Garhi | [Read More](https://medium.com/p/cf6a451cc388) |
 | Tue, 21 Oct 2025 19:19:50 GMT | BehindTheScreens: When the Cloud Crashed — What the AWS Outage Reveals About the Internet’s… | Sam - Behind The Screens | [Read More](https://medium.com/p/d3a511558313) |
 | Tue, 21 Oct 2025 19:18:13 GMT | Cybersecurity | Lisaayu | [Read More](https://medium.com/p/8be2e5cccf8b) |
-| Tue, 21 Oct 2025 19:17:01 GMT | The PAM Exploit Paradox: Unpacking the Duality of Pluggable Authentication Modules ️ | Esra Kayhan | [Read More](https://medium.com/p/4d49be7d2f0d) |
-| Tue, 21 Oct 2025 19:10:03 GMT | TAKE HOME FROM MY FIRST LECTURE IN CYBER SECURITY. | Input-7 | [Read More](https://medium.com/p/6aaed88adcbb) |
-| Tue, 21 Oct 2025 19:08:35 GMT | How to Ensure Cybersecurity While Developing Artificial Intelligence ️ | Lumae | [Read More](https://medium.com/p/c28fba56d6eb) |
-| Tue, 21 Oct 2025 19:04:25 GMT | Pickle Rick | Aderogbarufai | [Read More](https://medium.com/p/e8e8a5c6df21) |
