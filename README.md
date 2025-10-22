@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 05:14:54 GMT | How Hackers Deceive AI Security Systems (And How to Stop Them) | Muhammad Haider Tallal | [Read More](https://medium.com/p/414a49de8dd3) |
+| Wed, 22 Oct 2025 05:14:24 GMT | Weekly Threat Intelligece Report 06 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/e70ce7615386) |
+| Wed, 22 Oct 2025 05:12:00 GMT | BARRON TRUMP – THE NEW FACE OF CRYPTO-AMERICA | Satoshi Economy | [Read More](https://medium.com/p/8bbbbae4b8fe) |
+| Wed, 22 Oct 2025 05:00:22 GMT | Ultimate Technical Breakdown of the MITRE Ecosystem | Aenosh Rajora | [Read More](https://medium.com/p/b37021f9d016) |
+| Wed, 22 Oct 2025 04:56:34 GMT | How to Check System Health with Windows Security | Tanisha | [Read More](https://medium.com/p/a78b6d4534be) |
 | Wed, 22 Oct 2025 04:44:02 GMT | The Different Levels of Broken Stats | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/30e90958f479) |
+| Wed, 22 Oct 2025 04:41:58 GMT | HackTheBox Windows Events and Finding Evil: PowerShell’s Secret Weapon for Mass Log Analysis… | Cybersecurity Simplified | [Read More](https://medium.com/p/4a781b8a6e7c) |
+| Wed, 22 Oct 2025 04:32:38 GMT | WhatsApp’s End-to-End Message Encryption | Ravikumar Makwana | [Read More](https://medium.com/p/c3b410dbb97f) |
+| Wed, 22 Oct 2025 04:31:25 GMT | Lockdown Tryhackme - Walkthrough | Irfan Syahmi | [Read More](https://medium.com/p/b5922e7a31e1) |
 | Wed, 22 Oct 2025 04:16:33 GMT | Digital Playgrounds, Real Risks: Why Online Games Need Safer Spaces for Kids | CyberTalks | [Read More](https://medium.com/p/54fd98a09020) |
 | Wed, 22 Oct 2025 04:06:00 GMT | Top AI Security YouTube Videos — October 2025 | Tal Eliyahu | [Read More](https://medium.com/p/9e4e19a08ec2) |
 | Wed, 22 Oct 2025 04:03:02 GMT | Resume Keamanan Data dan Informasi, Keamanan Siber, dan Serangan Siber | Annisa Syaharani | [Read More](https://medium.com/p/eb5208181588) |
@@ -111,11 +119,3 @@ Introduction to Cyber security: | PST Vawulence | [Read More](https://medium.com
 | Tue, 21 Oct 2025 19:10:03 GMT | TAKE HOME FROM MY FIRST LECTURE IN CYBER SECURITY. | Input-7 | [Read More](https://medium.com/p/6aaed88adcbb) |
 | Tue, 21 Oct 2025 19:08:35 GMT | How to Ensure Cybersecurity While Developing Artificial Intelligence ️ | Lumae | [Read More](https://medium.com/p/c28fba56d6eb) |
 | Tue, 21 Oct 2025 19:04:25 GMT | Pickle Rick | Aderogbarufai | [Read More](https://medium.com/p/e8e8a5c6df21) |
-| Tue, 21 Oct 2025 18:58:45 GMT | The Real Power of Vulnerability | Kerem Eroglu | [Read More](https://medium.com/p/a712748c84e9) |
-| Tue, 21 Oct 2025 18:52:24 GMT | Understanding the OWASP Top 10: The Most Common Web Application Security Risks | Adebowale Adetunji | [Read More](https://medium.com/p/e11251bf78df) |
-| Tue, 21 Oct 2025 18:38:32 GMT | Unveiling the OSWP: A Wireless Journey to Success | D4rk5t47F | [Read More](https://medium.com/p/38689bea7611) |
-| Tue, 21 Oct 2025 18:35:28 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/89f5870e9eb3) |
-| Tue, 21 Oct 2025 18:35:23 GMT | Why 99% of Cold Emails to CISOs Fail — And What Actually Works | Deepak Gupta | [Read More](https://medium.com/p/0fd0a5778080) |
-| Tue, 21 Oct 2025 18:29:16 GMT | How XDR Security Protects Against Cyber Attacks: A Smarter Way to Detect, Respond, and Defend | SafeAeon Inc. | [Read More](https://medium.com/p/6f923b87ef5d) |
-| Tue, 21 Oct 2025 18:21:32 GMT | How to Tell If Your Phone Has Been Hacked: The Signs, the Fix, and the Prevention Plan | Malik | [Read More](https://medium.com/p/a431d40aa936) |
-| Tue, 21 Oct 2025 18:18:44 GMT | MDM Solutions Guide: Securing Mobile Devices in a Connected Workforce | SafeAeon Inc. | [Read More](https://medium.com/p/414cecf581c1) |
