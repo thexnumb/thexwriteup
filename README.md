@@ -12,11 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 17:29:08 GMT | Azure Apps Vulnerability Lets Hackers Create Malicious Apps Mimicking Microsoft Teams | Aniket Sharma | [Read More](https://medium.com/p/0a2e43f61be4) |
+| Wed, 22 Oct 2025 17:28:19 GMT | File Signature Validation in .NET | Mohammed Ahmed Hussien | [Read More](https://medium.com/p/8d6eee845342) |
+| Wed, 22 Oct 2025 17:25:31 GMT | From Service Management to Security Mindset: My CISSP Story | Sajith Sathyan | [Read More](https://medium.com/p/79cb1e2575fd) |
+| Wed, 22 Oct 2025 17:24:41 GMT | The Hidden Internet You Never See — Inside the Deep and Dark Web | Hafizbilaltariq | [Read More](https://medium.com/p/819bcf44a8f9) |
+| Wed, 22 Oct 2025 17:24:01 GMT | Chinese Hackers Exploit ToolShell Vulnerability to Compromise Networks Worldwide | Aniket Sharma | [Read More](https://medium.com/p/8ad69f98369f) |
+| Wed, 22 Oct 2025 17:19:23 GMT | รีวิวการเตรียมตัวสอบ ISC2 CC ในปี 2025 | harin | [Read More](https://medium.com/p/08e13f7ecf31) |
+| Wed, 22 Oct 2025 17:19:20 GMT | Network 101 — Dijital Dünyaya Giriş | Berke Kocakavak | [Read More](https://medium.com/p/3d04a6f08b42) |
+| Wed, 22 Oct 2025 17:18:00 GMT | ADHDev Tip #6: Get Google Authenticator off your phone and on your work computer | Colleen Dunlap | [Read More](https://medium.com/p/ec41037b5fcd) |
+| Wed, 22 Oct 2025 17:14:31 GMT | Finding My Niche in Cybersecurity: A Student’s Reflection | LIKITH GAJULA | [Read More](https://medium.com/p/15af636606fe) |
 | Wed, 22 Oct 2025 17:09:40 GMT | Cities run on video now, here’s how Vidaio makes it work (and pay) | Vidaio | [Read More](https://medium.com/p/a0d0458af015) |
 | Wed, 22 Oct 2025 17:07:19 GMT | GitLab Security Vulnerabilities: A Critical Alert for DevOps Teams | Aniket Sharma | [Read More](https://medium.com/p/353abe774e9b) |
 | Wed, 22 Oct 2025 17:07:03 GMT | HTB_Academy: Attacking RDP | Babatunde Ojo | [Read More](https://medium.com/p/e2efae060e99) |
 | Wed, 22 Oct 2025 17:06:35 GMT | Internet of Things — Integrasi Komponen Dasar melalui Proyek Sederhana | Zifa Tea Azzahra | [Read More](https://medium.com/p/8aae420635d1) |
 | Wed, 22 Oct 2025 17:03:30 GMT | HacktheBox: MetaTwo Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/ca59f776e9f1) |
+| Wed, 22 Oct 2025 17:03:18 GMT | ASP NET Machine Keys Abused to Compromise IIS Servers and Load Malicious Modules | Chetan Seripally | [Read More](https://medium.com/p/aa9bde457afe) |
+| Wed, 22 Oct 2025 17:01:26 GMT | GlassWorm Uses Invisible Code to Compromise VS Code Extensions on OpenVSX Marketplace | Chetan Seripally | [Read More](https://medium.com/p/f93494499ee2) |
 | Wed, 22 Oct 2025 17:00:33 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/7430c6f20e3a) |
 | Wed, 22 Oct 2025 17:00:07 GMT | Cybersecurity in 2025: AI, Hacktivists, and the Digital Tug-of-War | Juan Lage | [Read More](https://medium.com/p/c7f40dce07d6) |
 | Wed, 22 Oct 2025 16:51:47 GMT | The AI Revolution: It’s Here, It’s Big, and Identity Will Unleash Its Full Power | Jim Alkove | [Read More](https://medium.com/p/35605b70d7b1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 12:30:59 GMT | Uncovering Competitor Secrets: The Art of Funnel Hacking | The Knowledge Academy | [Read More](https://medium.com/p/05689747210d) |
 | Wed, 22 Oct 2025 12:15:44 GMT | How ChatGPT Atlas Might Steal Your Credit Card Number | Felix Anderson | [Read More](https://medium.com/p/6176b3f6fdcf) |
 | Wed, 22 Oct 2025 12:15:39 GMT | How Xedos Technologies Is Revolutionizing Cybersecurity in the UAE | Xedos Technologies LLC | [Read More](https://medium.com/p/1132b1e9f09b) |
-| Wed, 22 Oct 2025 12:15:23 GMT | Cybersecurity Tips for Small Businesses | Vpshosting | [Read More](https://medium.com/p/1d14678daed5) |
-| Wed, 22 Oct 2025 12:10:31 GMT | Why Every Rejected Report Brings You Closer to Your First Bounty | Xormium | [Read More](https://medium.com/p/190167ba77a5) |
-| Wed, 22 Oct 2025 12:09:56 GMT | How Chinese Gangs Stole $1B Through Text Scams | Karl Buhl | [Read More](https://medium.com/p/ea12bedb0597) |
-| Wed, 22 Oct 2025 12:07:31 GMT | Netdiscover Nedir? Nmap’e Benziyor Ama Değilmiş | Mehmet Ali | [Read More](https://medium.com/p/31a508b2adea) |
-| Wed, 22 Oct 2025 12:05:31 GMT | GlassWorm: A New Era of Stealthy, Self-Spreading Malware Targeting Developer Ecosystems | Wraith | [Read More](https://medium.com/p/a2da6cf554b8) |
-| Wed, 22 Oct 2025 12:03:12 GMT | Broken Access Control: How I Found (and Exploited) an EdTech Platform’s Video Authentication Bypass | Madanu Akash | [Read More](https://medium.com/p/a594be7ae6c5) |
-| Wed, 22 Oct 2025 12:01:12 GMT | NetworkMiner - TryHackMe — Writeup [2025] | Rahul B | [Read More](https://medium.com/p/0c35e8b2e11f) |
-| Wed, 22 Oct 2025 11:58:43 GMT | My name is Charles U. | CLUE | [Read More](https://medium.com/p/f9edf8701b1e) |
-| Wed, 22 Oct 2025 11:56:59 GMT | Practical IoT Hacking, book review | Windsorheightsbookfair | [Read More](https://medium.com/p/b14b9f72c619) |
-| Wed, 22 Oct 2025 11:53:13 GMT | Who is mahdi | Mahdi gasmi | [Read More](https://medium.com/p/6e794d6ed807) |
-| Wed, 22 Oct 2025 11:38:24 GMT | Governing the Cloud Kingdom: How AWS Control Tower Solves the Multi-Account Nightmare | Kumma Sivaprakash | [Read More](https://medium.com/p/f4ade3aa90f3) |
