@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 11:31:55 GMT | The Internet Isn’t Broken, It’s Just Being Hacked in Slow Motion | Arfa | [Read More](https://medium.com/p/0a285ac36274) |
+| Wed, 22 Oct 2025 11:22:15 GMT | How I Got Into a Hacker’s Head (Without Breaking the Law) | Arfa | [Read More](https://medium.com/p/adffcb09c9f3) |
+| Wed, 22 Oct 2025 11:22:08 GMT | Dancing with the Clouds: Mastering Hybrid and Multi-Cloud Strategies in 2025 | Ritu Priya Singh | [Read More](https://medium.com/p/04c50eb0ddf2) |
+| Wed, 22 Oct 2025 11:17:49 GMT | The Future of Security Isn't Static: How AI-Driven and Multi-Protocol Traps are Protecting Web3 | Qxbroker | [Read More](https://medium.com/p/9e9166da6f17) |
 | Wed, 22 Oct 2025 11:12:56 GMT | 7 Key Takeaways From Barracuda’s MSP Customer Insight Report 2025 | HostNOC | [Read More](https://medium.com/p/7f39c7140897) |
 | Wed, 22 Oct 2025 11:11:52 GMT | Sudo Privilege Escalation Scenarios: Exploiting Restricted Paths to Root Access | Esra Kayhan | [Read More](https://medium.com/p/78424a25de2e) |
+| Wed, 22 Oct 2025 11:10:48 GMT | The Porn Industry’s Dirty Mirror — How the “Fake Audition” Fantasy Became a Real-World Scam | Internet Exposed | [Read More](https://medium.com/p/39f398089c07) |
 | Wed, 22 Oct 2025 11:08:55 GMT | Submission Guidelines for CyberSec Research | Bruzzese Roberto | [Read More](https://medium.com/p/e9c78afc8e07) |
 | Wed, 22 Oct 2025 11:02:23 GMT | The Future of IT Isn’t Alerts, It’s Intelligent Autonomy. | Arsalan Shemirani | [Read More](https://medium.com/p/8b39561fa21d) |
 | Wed, 22 Oct 2025 11:00:25 GMT | [HackTheBox x VulnLab Write-up] Sweep (Lansweeper exploit, SSH honeypot and GenericAll) | Chicken0248 | [Read More](https://medium.com/p/5c9583fa7554) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 05:37:44 GMT | Event Log Clearing and Malware Execution: Evidence from Windows Logs | Dean | [Read More](https://medium.com/p/d6e454f32366) |
 | Wed, 22 Oct 2025 05:29:56 GMT | How I Used AI to Hack AI Security (And Why Skynet Would Be Proud) | Iski | [Read More](https://medium.com/p/e698a30634a0) |
 | Wed, 22 Oct 2025 05:29:39 GMT | Are Businesses Underestimating The Cost Of Poor Security In Alberta? | GPS Security Group Inc | [Read More](https://medium.com/p/a10c96a2fcbe) |
-| Wed, 22 Oct 2025 05:29:19 GMT | Quand ChatGPT devient navigateur : Atlas, vos données, et le suivi de vos habitudes | Mickael Mahabot | [Read More](https://medium.com/p/730f0dba3d3c) |
-| Wed, 22 Oct 2025 05:25:40 GMT | Weekly Threat Intelligece Report 13 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/b33e60550f1d) |
-| Wed, 22 Oct 2025 05:16:30 GMT | Automation Process for Terminating Instances Affected by Malware | Paripuranam | [Read More](https://medium.com/p/facd5c142ec9) |
-| Wed, 22 Oct 2025 05:14:54 GMT | How Hackers Deceive AI Security Systems (And How to Stop Them) | Muhammad Haider Tallal | [Read More](https://medium.com/p/414a49de8dd3) |
-| Wed, 22 Oct 2025 05:14:24 GMT | Weekly Threat Intelligece Report 06 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/e70ce7615386) |
