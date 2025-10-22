@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Oct 2025 22:07:14 GMT | I Just Learned About the “Pixnapping” Attack on Android | Ryan W | [Read More](https://medium.com/p/c31583a8822a) |
+| Wed, 22 Oct 2025 21:54:11 GMT | You Have Been Robbed! — By Etsy?! | dataminerals | [Read More](https://medium.com/p/b8d6ed22a58a) |
+| Wed, 22 Oct 2025 21:54:05 GMT | Hey Grok: What is DVIUS? | SinVictus | [Read More](https://medium.com/p/7ae886178c9e) |
+| Wed, 22 Oct 2025 21:39:18 GMT | From Cloud to Continuum: The Future of Connected Infrastructure | Nagaraj Ramakrishna | [Read More](https://medium.com/p/f392cdc0342c) |
 | Wed, 22 Oct 2025 21:28:31 GMT | No One is Safe Not Even 2nd Amendment Enthusiasts | Debi Reuter | [Read More](https://medium.com/p/992f05b775c1) |
 | Wed, 22 Oct 2025 21:18:17 GMT | HACK THE BOX : Don’t Panic ! walkthrough and writeup — how I solved it | hehash | [Read More](https://medium.com/p/51eb8b6f4985) |
 | Wed, 22 Oct 2025 21:15:11 GMT | Day 17 of my Cybersecurity Journey: Wireshark Basics I | Ogundipe Priscilla | [Read More](https://medium.com/p/d617730016a9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 14:57:52 GMT | Dancing API Challenge — Solution Guide CSEM | CSEM | [Read More](https://medium.com/p/a95d9d61c374) |
 | Wed, 22 Oct 2025 14:56:24 GMT | Understanding JSON Web Token (JWT) Security | hackerdevil | [Read More](https://medium.com/p/48c3a9cc96f2) |
 | Wed, 22 Oct 2025 14:54:56 GMT | Think your code is secure? | ZAST AI | [Read More](https://medium.com/p/a228ef83a4ad) |
-| Wed, 22 Oct 2025 14:53:56 GMT | How Just 250 Documents Can Poison an AI: The Quiet Threat of LLM Backdoors | Sumedha Paibonu | [Read More](https://medium.com/p/72aded333a8c) |
-| Wed, 22 Oct 2025 14:52:33 GMT | The hidden cost of correlation: Why data scientists need to think in systems, not just metrics | Zoehart | [Read More](https://medium.com/p/734c3db9368c) |
-| Wed, 22 Oct 2025 14:46:57 GMT | Time to Switch to Linux | Matyas Koszegi | [Read More](https://medium.com/p/cce555b24578) |
-| Wed, 22 Oct 2025 14:45:36 GMT | “The CORS Cache Poisoning Attack That Broke WordPress APIs” | Aman Sharma | [Read More](https://medium.com/p/300ffb19df13) |
