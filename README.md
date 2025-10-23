@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 16:18:36 GMT | Cybersecurity Hygiene Best Practices: Building a Secure Digital Foundation with Rainbow Secure | Dr. Shashi Karhail | [Read More](https://medium.com/p/c78a2dd6a7fe) |
+| Thu, 23 Oct 2025 16:16:01 GMT | Smart IT Support in North East London | Gary Marshall | [Read More](https://medium.com/p/f9de58002a95) |
+| Thu, 23 Oct 2025 16:11:44 GMT | Security System | Vital Tech Vision | [Read More](https://medium.com/p/98a7bcc43e37) |
+| Thu, 23 Oct 2025 16:10:55 GMT | How One Line of Code Could Break an Entire Nation’s Security | Zain Ahmad | [Read More](https://medium.com/p/e85eeae874f2) |
+| Thu, 23 Oct 2025 16:08:56 GMT | How to Protect Your Online Privacy | M. Aamir Fozail | [Read More](https://medium.com/p/c41c9beba5f3) |
+| Thu, 23 Oct 2025 16:02:22 GMT | What kind of Person Are You Choosing To Be? | Adeola Agbelemoge | [Read More](https://medium.com/p/5abd72a380f8) |
+| Thu, 23 Oct 2025 16:02:11 GMT | Weaponized DNS: Resolving remote commands | umbraXsecure | [Read More](https://medium.com/p/65e8fba4458f) |
+| Thu, 23 Oct 2025 15:51:25 GMT | How to Get Rid of Box Elder Bugs: Your Comprehensive Guide | Nabil | [Read More](https://medium.com/p/c9a3a2adc198) |
+| Thu, 23 Oct 2025 15:45:14 GMT | The CIA Triad: The Three Pillars of Cybersecurity Explained Simply | Nway Nway Zay Ya | [Read More](https://medium.com/p/a4f94c65d4f2) |
+| Thu, 23 Oct 2025 15:42:54 GMT | All our AI Sci-Fi movies fears are coming true. | Kavya Sharma | [Read More](https://medium.com/p/111d00938401) |
+| Thu, 23 Oct 2025 15:42:27 GMT | Managed SOC Services for the Travel Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/3b037f4d9f3e) |
+| Thu, 23 Oct 2025 15:41:49 GMT | Why 99% of Cloud Scheduler Tutorials Are a Security Nightmare | Gauraw Singh | [Read More](https://medium.com/p/7e09df6a7f6b) |
+| Thu, 23 Oct 2025 15:38:49 GMT | Welcome to Handvantage: Simplifying Growth Through Smart Automation & Cybersecurity | Handvantage | [Read More](https://medium.com/p/3a19b6ed4a05) |
 | Thu, 23 Oct 2025 15:33:02 GMT | Digital Assets Are Under Siege — And Why It’s Time for a Different Kind of Defence | Abatis ABTU | [Read More](https://medium.com/p/323b8f033256) |
 | Thu, 23 Oct 2025 15:32:08 GMT | DOOM Challenge — Complete Writeup CSEM Web Arena | CSEM | [Read More](https://medium.com/p/784a677b39de) |
 | Thu, 23 Oct 2025 15:28:05 GMT | Má vaše organizace plán, co dělat, když „spadne cloud“? | Cyber Solution | [Read More](https://medium.com/p/00097ed3e678) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 10:41:21 GMT | 【Air-Gap Hardware Wallet】Digital Shield: Building the Next Generation of Web3 Security Through… | Digital Shield Offcial | [Read More](https://medium.com/p/609f645d89d6) |
 | Thu, 23 Oct 2025 10:39:08 GMT | 【Universal Security Manifesto】Digital Shield: Restoring Digital Sovereignty to Everyone | Digital Shield Offcial | [Read More](https://medium.com/p/dee5b9c2126c) |
 | Thu, 23 Oct 2025 10:37:06 GMT | Nature Explorer: Discovering the Untamed Beauty of Our Planet | Nature Explorer | [Read More](https://medium.com/p/5b9a8981522f) |
-| Thu, 23 Oct 2025 10:35:44 GMT | Guarding Sovereignty Begins with Security Equality: How Digital Shield is Defining the New Standard… | Digital Shield | [Read More](https://medium.com/p/7b8b13561667) |
-| Thu, 23 Oct 2025 10:35:17 GMT | 【Air-Gap Hardware Wallet】Digital Shield: Building the Next Generation of Web3 Security Through… | Digital Shield | [Read More](https://medium.com/p/cc19dfb2bff9) |
-| Thu, 23 Oct 2025 10:30:25 GMT | From the archive: Apple Mac Classic vs IBM PS/1 | Mansfield-Devine | [Read More](https://medium.com/p/5770e2f59522) |
-| Thu, 23 Oct 2025 10:29:10 GMT | 【Universal Security Manifesto】Digital Shield: Restoring Digital Sovereignty to Everyone | Digital Shield | [Read More](https://medium.com/p/a6cf809693f7) |
-| Thu, 23 Oct 2025 10:27:54 GMT | How Cybersecurity Consulting Services Can Prevent Costly Data Breaches | sureshseo offpage | [Read More](https://medium.com/p/8d0cc22ae083) |
-| Thu, 23 Oct 2025 10:23:55 GMT | DockerLabs Writeup — Stack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e3f826e28730) |
-| Thu, 23 Oct 2025 10:18:51 GMT | Today’s Top Cyber Intelligence Highlights — Oct 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9d24191bed83) |
-| Thu, 23 Oct 2025 10:06:14 GMT | HackTheBox — Lame Notes by R4ndH3x | r4ndh3x | [Read More](https://medium.com/p/68ed42ffb495) |
-| Thu, 23 Oct 2025 10:04:00 GMT | Security and Performance Aspects of Network Namespaces | Eren Cankut Uysal | [Read More](https://medium.com/p/28d9fe618547) |
-| Thu, 23 Oct 2025 10:03:47 GMT | Best VAPT Services Provider in India - Net Access India Limited | Mathewneelan | [Read More](https://medium.com/p/6b4861b530fd) |
-| Thu, 23 Oct 2025 10:03:29 GMT | How the Dark Web Actually Works: The Tech Behind the Curtain(part2) | Mohamed.cybersec | [Read More](https://medium.com/p/a80185ccd2ab) |
-| Thu, 23 Oct 2025 10:01:51 GMT | Full Circle — Standing Where It All Began | Faiza Seidu-Adam | [Read More](https://medium.com/p/1203dce4f676) |
-| Thu, 23 Oct 2025 09:49:38 GMT | Rust to Solidity: HEIR’s Cross-Chain Smart Contract Revolution | HEIR | [Read More](https://medium.com/p/1f4a50fad10c) |
