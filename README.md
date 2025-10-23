@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 11:22:43 GMT | I Watched Hackers Price My X Account at $847. Here’s What I Learned About Actually Protecting It. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/85e93d11ca4a) |
+| Thu, 23 Oct 2025 11:20:44 GMT | Ethics and Ethical AI in Software Development: Balancing Innovation with Responsibility | Pratik Mistry | [Read More](https://medium.com/p/26ea39c88e57) |
 | Thu, 23 Oct 2025 11:13:52 GMT | How I Passed the ISC2 Certified in Cybersecurity (CC) Exam in 1 Week — Without Paying for Training | Omar Maged Ahmed | [Read More](https://medium.com/p/91c99dced989) |
 | Thu, 23 Oct 2025 11:12:39 GMT | Fast IT Support in North West London | Gary Marshall | [Read More](https://medium.com/p/6f7e4e6b0490) |
 | Thu, 23 Oct 2025 11:10:54 GMT | Your Brain Has Been Hacked: Here’s How to Take It Back | Pannag Kumaar | [Read More](https://medium.com/p/0367239df0a7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 03:49:02 GMT | The Hidden Weakness in Tokenized Finance | Jon Capriola | [Read More](https://medium.com/p/41da89928e97) |
 | Thu, 23 Oct 2025 03:44:34 GMT | Multi-honeypot Platform on Azure using T-Pot | X2Tech | [Read More](https://medium.com/p/10fca1142bfe) |
 | Thu, 23 Oct 2025 03:35:03 GMT | When War Strikes Home: Preparing for the Unthinkable | ElitePromotes | [Read More](https://medium.com/p/01c1886bb71a) |
-| Thu, 23 Oct 2025 03:31:51 GMT | When Phishing Meets AI: The Hidden Threat of Prompt Injection | Deven Chhajed | [Read More](https://medium.com/p/8f34c0611259) |
-| Thu, 23 Oct 2025 03:28:09 GMT | Membangun UI Interaktif dan Modern dengan Framer Motion | Anjas Rani | [Read More](https://medium.com/p/d034c6395a27) |
