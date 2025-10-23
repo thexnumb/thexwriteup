@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 20:33:45 GMT | Exfiltrating information through Discord | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e74514bb2b9d) |
+| Thu, 23 Oct 2025 20:32:01 GMT | Cybersecurity Resource List | ksophia | [Read More](https://medium.com/p/8672d01c1b91) |
 | Thu, 23 Oct 2025 20:17:18 GMT | TOMGHOST THM | Aderogbarufai | [Read More](https://medium.com/p/3450ccef5b12) |
 | Thu, 23 Oct 2025 19:54:25 GMT | My Friend’s Baby Father Had Five Baby Mamas | Marla Bishop | [Read More](https://medium.com/p/15d48ab12501) |
 | Thu, 23 Oct 2025 19:54:12 GMT | PowerShell Logging: Making the Invisible Visible | Dean | [Read More](https://medium.com/p/038287964438) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 13:20:37 GMT | Have you ever hacked library system | Charon19d | [Read More](https://medium.com/p/610b34cd3797) |
 | Thu, 23 Oct 2025 13:17:16 GMT | Seconds Matter: How to React If You Confront a Burglar | Dalibor Zivkovic | [Read More](https://medium.com/p/ba51dc2632e9) |
 | Thu, 23 Oct 2025 13:16:38 GMT | Desvendando o Wazuh: Instalação Single-Node com Docker e o Seu Primeiro Agente | HOkket | [Read More](https://medium.com/p/576fa58996d8) |
-| Thu, 23 Oct 2025 13:07:00 GMT | Uncovering Betrayal: A Linux Forensics Journey in the ExfilNode Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/06be52fb0337) |
-| Thu, 23 Oct 2025 13:03:28 GMT | Active Directory 102: Planning Your Active Directory Architecture | Rana chouchane - QU33NR | [Read More](https://medium.com/p/64e3490e0a55) |
