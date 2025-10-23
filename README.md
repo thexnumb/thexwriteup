@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 07:38:16 GMT | I Think I’m Too Hard to Love | Dessyanadm | [Read More](https://medium.com/p/758dfdc76fad) |
+| Thu, 23 Oct 2025 07:18:57 GMT | The Future of Mobile Security : Trends to watch in 2026 | Odunayo Dada | [Read More](https://medium.com/p/378c3f331e7e) |
+| Thu, 23 Oct 2025 07:16:59 GMT | Rogue AI Manipulations | Shailendra Kumar | [Read More](https://medium.com/p/cde2a6d4e04c) |
 | Thu, 23 Oct 2025 07:14:56 GMT | “It’s Not Just You — The iOS Keyboard is Broken” — “Non Sei Tu — La Tastiera iOS è rotta” | octospacc | [Read More](https://medium.com/p/7aa25dcb4781) |
 | Thu, 23 Oct 2025 07:03:59 GMT | Reflecting on My Home Network Security: Lessons from a Fing Scan | Anderson Santos | [Read More](https://medium.com/p/865ad3413091) |
 | Thu, 23 Oct 2025 07:00:46 GMT | Introducing Pulse SIEM — The Next Generation of Cyber Defence Intelligence | UK Cyber Defence | [Read More](https://medium.com/p/499315a0b776) |
@@ -110,6 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 19:28:17 GMT | Security Automation: The Future of Faster, Smarter Cyber Defense | SafeAeon Inc. | [Read More](https://medium.com/p/54256d94a9fc) |
 | Wed, 22 Oct 2025 19:23:36 GMT | KrakenKeylogger Lab Writeup | Jaws | [Read More](https://medium.com/p/37485d5747f0) |
 | Wed, 22 Oct 2025 19:22:04 GMT | The 7-Year AI Chat Log Trap | Berend Watchus | [Read More](https://medium.com/p/d30b726c78f4) |
-| Wed, 22 Oct 2025 19:21:36 GMT | Auto Parser Project | Yuksel | [Read More](https://medium.com/p/d47d88901638) |
-| Wed, 22 Oct 2025 19:20:59 GMT | The Hacker’s Favorite Tool: Why Your Inbox Is Their Easiest Entry Point | Kambetastephano | [Read More](https://medium.com/p/b39e56575d47) |
-| Wed, 22 Oct 2025 19:13:25 GMT | Brooklyn Nine Nine — TryHackMe Walkthrough - by 0xpynge | 0xpynge | [Read More](https://medium.com/p/2d18e843c107) |
