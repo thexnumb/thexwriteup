@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 14:38:34 GMT | Special Race Condition Exploit in Email Verification Bypass | Mahmoud Gamal | [Read More](https://medium.com/p/9d344b5bbb75) |
+| Thu, 23 Oct 2025 14:38:04 GMT | “The Facebook Login Flaw That Could Have Compromised Every User” | Aman Sharma | [Read More](https://medium.com/p/e0a83140c9dc) |
+| Thu, 23 Oct 2025 14:34:35 GMT | 10 Cybersecurity Threats to Watch in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/a3f5c894741c) |
+| Thu, 23 Oct 2025 14:27:37 GMT | The Blind Spot: Security Logging and Monitoring Failures - A09 -10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/ff631400fe1c) |
+| Thu, 23 Oct 2025 14:25:43 GMT | App Security: How Safe Are Your Favourite Apps? | Aysha Misri | [Read More](https://medium.com/p/bf9db31aa158) |
 | Thu, 23 Oct 2025 14:18:36 GMT | 10 Python Tricks Every Backend Developer Should Know in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/fa5bc29ac283) |
+| Thu, 23 Oct 2025 14:11:49 GMT | Vulnerability Hangover | Sarah Veyland | [Read More](https://medium.com/p/f98f0bd0b160) |
 | Thu, 23 Oct 2025 14:10:12 GMT | Synthetic Threats | january1073 | [Read More](https://medium.com/p/c96f620e92d7) |
 | Thu, 23 Oct 2025 14:06:34 GMT | 11 PostgreSQL Query Optimization Techniques That Saved a Startup From Collapse | Rizqi Mulki | [Read More](https://medium.com/p/aa494158b79f) |
 | Thu, 23 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.23 | CyberMaterial | [Read More](https://medium.com/p/34d2ee0e2eba) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 08:51:23 GMT | Phishing Nightmare: “Dad Clicked the Link!” | Authlyn | [Read More](https://medium.com/p/62f260059217) |
 | Thu, 23 Oct 2025 08:46:01 GMT | PCI DSS 4.0 Remediation 2025: 7 Rapid Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/550ae2ec4d3c) |
 | Thu, 23 Oct 2025 08:45:57 GMT | Understanding the External Risk Escalation Life Cycle | Pietro Romano / SecBeret | [Read More](https://medium.com/p/914796cbd446) |
-| Thu, 23 Oct 2025 08:43:11 GMT | From Sevilla to Sovereignty: Rethinking Debt, Growth, and Global Resilience | InGBTech | [Read More](https://medium.com/p/2de15fd702d6) |
-| Thu, 23 Oct 2025 08:40:04 GMT | Top 10 Most Common Cyber Attacks — and One Line of Code to Prevent Each | Narcis Radoi | [Read More](https://medium.com/p/ff7856b2ab8b) |
-| Thu, 23 Oct 2025 08:39:46 GMT | Authentication vs Authorization: What’s the Difference? | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/9346bda125c7) |
-| Thu, 23 Oct 2025 08:34:17 GMT | Cyberéconomie : combien ça coûte de bien se protéger ? | Rebecca Cottignies | [Read More](https://medium.com/p/6d853b36e29f) |
-| Thu, 23 Oct 2025 08:33:00 GMT | URLScan Python Automated Recon | Abhirup Konwar | [Read More](https://medium.com/p/53ac187c5156) |
-| Thu, 23 Oct 2025 08:26:07 GMT | Securing IoT and Critical Infrastructure in 2025: How AI Changes Cyber Defense | DevKit | [Read More](https://medium.com/p/77402f3c0793) |
