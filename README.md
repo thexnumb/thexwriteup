@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 07:14:56 GMT | “It’s Not Just You — The iOS Keyboard is Broken” — “Non Sei Tu — La Tastiera iOS è rotta” | octospacc | [Read More](https://medium.com/p/7aa25dcb4781) |
+| Thu, 23 Oct 2025 07:03:59 GMT | Reflecting on My Home Network Security: Lessons from a Fing Scan | Anderson Santos | [Read More](https://medium.com/p/865ad3413091) |
+| Thu, 23 Oct 2025 07:00:46 GMT | Introducing Pulse SIEM — The Next Generation of Cyber Defence Intelligence | UK Cyber Defence | [Read More](https://medium.com/p/499315a0b776) |
+| Thu, 23 Oct 2025 06:44:42 GMT | From EternalBlue to Web Exploits: Why Cybersecurity Is More Than Just Hacking | Hemraj | [Read More](https://medium.com/p/33038061a0e0) |
+| Thu, 23 Oct 2025 06:40:26 GMT | Case Study: Akira Ransomware and External Remote Services | Shivam Kanodia | [Read More](https://medium.com/p/f693e815292f) |
+| Thu, 23 Oct 2025 06:39:27 GMT | Part 3 — Feature Flags, Dynamic Access, and Real-World Scenarios | Chiraggarg | [Read More](https://medium.com/p/2471086b7751) |
+| Thu, 23 Oct 2025 06:38:52 GMT | Cybersecurity Course in Telugu: Protect Your Digital World and Build a Future-Ready Career | sharon blog | [Read More](https://medium.com/p/8ec0117186d3) |
+| Thu, 23 Oct 2025 06:33:24 GMT | The Complete Guide to Server-Side Request Forgery (SSRF) for Beginners | Andrei Ivan | [Read More](https://medium.com/p/b305056f1b71) |
+| Thu, 23 Oct 2025 06:30:55 GMT | NP-Completeness in Secure Password Hash Reversal: Computational Hardness as a Foundation of… | Deep | [Read More](https://medium.com/p/7df9b379137c) |
 | Thu, 23 Oct 2025 06:29:58 GMT | Preparing for the Post-Quantum Era: Why It Matters and How to Get It Right | Eli Hazan | [Read More](https://medium.com/p/666e1ddef327) |
 | Thu, 23 Oct 2025 06:29:54 GMT | The Terminator (1984) and the World We’re Entering | Sasono Utomo | [Read More](https://medium.com/p/3aeedfa6d8e1) |
 | Thu, 23 Oct 2025 06:27:57 GMT | SessionReaper: Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw | Germano Costi | [Read More](https://medium.com/p/c7c86a40da33) |
@@ -104,12 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 19:21:36 GMT | Auto Parser Project | Yuksel | [Read More](https://medium.com/p/d47d88901638) |
 | Wed, 22 Oct 2025 19:20:59 GMT | The Hacker’s Favorite Tool: Why Your Inbox Is Their Easiest Entry Point | Kambetastephano | [Read More](https://medium.com/p/b39e56575d47) |
 | Wed, 22 Oct 2025 19:13:25 GMT | Brooklyn Nine Nine — TryHackMe Walkthrough - by 0xpynge | 0xpynge | [Read More](https://medium.com/p/2d18e843c107) |
-| Wed, 22 Oct 2025 19:10:32 GMT | Protecting Critical Infrastructure from Solarflare-Style Attacks | Kambetastephano | [Read More](https://medium.com/p/2cf1aa087c4d) |
-| Wed, 22 Oct 2025 19:09:22 GMT | Beyond the Buzzword: What Penetration Testing Really Is (And Why You Need It) | Kambetastephano | [Read More](https://medium.com/p/43422a3a0e4b) |
-| Wed, 22 Oct 2025 19:01:02 GMT | Business Email Compromise in Microsoft 365: How to Detect, Prevent, and Respond | SafeAeon Inc. | [Read More](https://medium.com/p/66d5787f9a5a) |
-| Wed, 22 Oct 2025 18:57:25 GMT | Investigator’s Toolkit: Tactical Scripts for the Technical Threat Hunter — Part 1… | Gabriel H. | [Read More](https://medium.com/p/f6e27ace9b0f) |
-| Wed, 22 Oct 2025 18:54:34 GMT | Cyber Security: Mastering the Art of Digital Defense | Cyber Security Research | [Read More](https://medium.com/p/ed43913acdd3) |
-| Wed, 22 Oct 2025 18:52:32 GMT | Malware Analysis — Xubuntu-Safe-Download | Clement | [Read More](https://medium.com/p/789330e65af8) |
-| Wed, 22 Oct 2025 18:51:29 GMT | Reflections from the Young Indo-Pacific Forum 2025: Re-centering Europe’s Role | Putra Perdana | [Read More](https://medium.com/p/df4d5e193e56) |
-| Wed, 22 Oct 2025 18:51:27 GMT | I Got Scammed! : How I Fell for a Language Course Scam | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/87c5053b152c) |
-| Wed, 22 Oct 2025 18:50:39 GMT | Operating Systems You’ll Use Every Day: Windows, Linux, macOS Explained | Aj | [Read More](https://medium.com/p/07aff329c810) |
