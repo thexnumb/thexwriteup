@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 23:15:29 GMT | Cyber Extortion — How Criminals Prey on Youth | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/8be81bff098a) |
+| Thu, 23 Oct 2025 23:02:48 GMT | How North Korea Uses Loosely Regulated Countries Like Cambodia for Money Laundering and Crypto… | David SEHYEON Baek | [Read More](https://medium.com/p/0fb430b0e206) |
+| Thu, 23 Oct 2025 22:48:55 GMT | Elevate Your Business with Code Your Thoughts: A Premier Software Agency | Syed Ahmed Kamal | [Read More](https://medium.com/p/b627b89d4b9a) |
+| Thu, 23 Oct 2025 22:48:23 GMT | Why Is My Mac Redirecting Me to Random Websites? | Cyber-AppSec | [Read More](https://medium.com/p/d38e5cde7360) |
+| Thu, 23 Oct 2025 22:38:29 GMT | The Agent Identity & Access Management Landscape: An Educational Guide to Who Solves What Across… | AstraSync AI | [Read More](https://medium.com/p/91aec40b68e9) |
 | Thu, 23 Oct 2025 22:35:42 GMT | IBM Q radar: Kurulum, Log İzleme ve Alert Oluşturma | Mustafa Mansur Mamus | [Read More](https://medium.com/p/560be58486d1) |
 | Thu, 23 Oct 2025 22:30:49 GMT | A researcher’s journey from a simple “opposite” prompt to AI-generated autonomous agents for cyber… | Julio César | [Read More](https://medium.com/p/4b100ebf8029) |
+| Thu, 23 Oct 2025 22:27:46 GMT | The Three Receipts: Proof without watching people | Rick Hare | [Read More](https://medium.com/p/b21b58ced3b9) |
 | Thu, 23 Oct 2025 22:14:23 GMT | GZR Observer — Global Daily — Oct 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/37eec9cd7748) |
 | Thu, 23 Oct 2025 22:01:00 GMT | Privacy Isn’t About Hiding. It’s About Control. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e30289142939) |
 | Thu, 23 Oct 2025 21:59:46 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c04db5c3877b) |
@@ -68,6 +74,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 17:12:43 GMT | The Windows Security Journey — MP (Memory Protector) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/258fbe93dcc6) |
 | Thu, 23 Oct 2025 17:12:28 GMT | Understanding OSI Layers and Cyberattacks: A Comprehensive Guide : | Gopi Sri | [Read More](https://medium.com/p/e7ebcf4844e2) |
 | Thu, 23 Oct 2025 17:06:14 GMT | Red Team vs. Blue Team: The Cybersecurity Battle You Need to Understand | Hassan Talal | [Read More](https://medium.com/p/179d22344819) |
+| Thu, 23 Oct 2025 17:02:58 GMT | Segurança Digital é prioridade em 2025 | Allcomnet | [Read More](https://medium.com/p/1223407dbf8f) |
 | Thu, 23 Oct 2025 16:58:26 GMT | Governance as Code | Apolis | [Read More](https://medium.com/p/790d3785d2e3) |
 | Thu, 23 Oct 2025 16:57:32 GMT | How I Found My Way Into Cybersecurity as a Woman | Kylee Cox | [Read More](https://medium.com/p/91f605ceac19) |
 | Thu, 23 Oct 2025 16:54:26 GMT | Enhance Endpoint Security with VMware Carbon Black Software | Kevin Asutton | [Read More](https://medium.com/p/a25634294db6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 14:44:27 GMT | Host your next project — How to find cheap hosting | th3_d4v1d_c0de | [Read More](https://medium.com/p/ea66f09a61e6) |
 | Thu, 23 Oct 2025 14:43:55 GMT | Practical Pivoting: Master SSH Tunnels, SOCKS Proxies, and Advanced Network Access Techniques | Very Lazy Tech | [Read More](https://medium.com/p/893e891e1036) |
 | Thu, 23 Oct 2025 14:43:08 GMT | Monad airdrop claim | Slerf coin | [Read More](https://medium.com/p/751a6754d01e) |
-| Thu, 23 Oct 2025 14:42:54 GMT | The LLM Security Skills Employers Are Actually Hiring For | Abdellaoui Ahmed | [Read More](https://medium.com/p/97834710656e) |
-| Thu, 23 Oct 2025 14:41:46 GMT | Enterprise Risk Management through a Security+ Lens: Applying Ethical Leadership and Biblical… | Matthew Magelitz | [Read More](https://medium.com/p/d0e65dabf46e) |
-| Thu, 23 Oct 2025 14:39:01 GMT | How Zero Trust and AI Are Transforming Cybersecurity:Episode 19 | Raviteja Mureboina | [Read More](https://medium.com/p/9472edeed8d0) |
-| Thu, 23 Oct 2025 14:38:34 GMT | Special Race Condition Exploit in Email Verification Bypass | Mahmoud Gamal | [Read More](https://medium.com/p/9d344b5bbb75) |
-| Thu, 23 Oct 2025 14:38:04 GMT | “The Facebook Login Flaw That Could Have Compromised Every User” | Aman Sharma | [Read More](https://medium.com/p/e0a83140c9dc) |
-| Thu, 23 Oct 2025 14:34:35 GMT | 10 Cybersecurity Threats to Watch in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/a3f5c894741c) |
-| Thu, 23 Oct 2025 14:27:37 GMT | The Blind Spot: Security Logging and Monitoring Failures - A09 -10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/ff631400fe1c) |
