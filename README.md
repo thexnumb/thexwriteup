@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 04:13:58 GMT | Top Signs Your Computer Has a Virus (Before It’s Too Late) | Harry Johnson | [Read More](https://medium.com/p/945df6597f7b) |
+| Thu, 23 Oct 2025 04:11:02 GMT | Stored XSS: Bypassing WAF Filters | Taulan Zauzanov | [Read More](https://medium.com/p/4a1e2b0cafcf) |
+| Thu, 23 Oct 2025 04:05:03 GMT | The Sticker That Can Break Facial Recognition (And How It Works) | Indigo Shadow | [Read More](https://medium.com/p/bbbb9ffe7d90) |
+| Thu, 23 Oct 2025 03:49:02 GMT | The Hidden Weakness in Tokenized Finance | Jon Capriola | [Read More](https://medium.com/p/41da89928e97) |
 | Thu, 23 Oct 2025 03:44:34 GMT | Multi-honeypot Platform on Azure using T-Pot | X2Tech | [Read More](https://medium.com/p/10fca1142bfe) |
 | Thu, 23 Oct 2025 03:35:03 GMT | When War Strikes Home: Preparing for the Unthinkable | ElitePromotes | [Read More](https://medium.com/p/01c1886bb71a) |
 | Thu, 23 Oct 2025 03:31:51 GMT | When Phishing Meets AI: The Hidden Threat of Prompt Injection | Deven Chhajed | [Read More](https://medium.com/p/8f34c0611259) |
@@ -109,7 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 17:25:31 GMT | From Service Management to Security Mindset: My CISSP Story | Sajith Sathyan | [Read More](https://medium.com/p/79cb1e2575fd) |
 | Wed, 22 Oct 2025 17:24:41 GMT | The Hidden Internet You Never See — Inside the Deep and Dark Web | Hafizbilaltariq | [Read More](https://medium.com/p/819bcf44a8f9) |
 | Wed, 22 Oct 2025 17:24:01 GMT | Chinese Hackers Exploit ToolShell Vulnerability to Compromise Networks Worldwide | Aniket Sharma | [Read More](https://medium.com/p/8ad69f98369f) |
-| Wed, 22 Oct 2025 17:19:23 GMT | รีวิวการเตรียมตัวสอบ ISC2 CC ในปี 2025 | harin | [Read More](https://medium.com/p/08e13f7ecf31) |
-| Wed, 22 Oct 2025 17:19:20 GMT | Network 101 — Dijital Dünyaya Giriş | Berke Kocakavak | [Read More](https://medium.com/p/3d04a6f08b42) |
-| Wed, 22 Oct 2025 17:18:00 GMT | ADHDev Tip #6: Get Google Authenticator off your phone and on your work computer | Colleen Dunlap | [Read More](https://medium.com/p/ec41037b5fcd) |
-| Wed, 22 Oct 2025 17:14:31 GMT | Finding My Niche in Cybersecurity: A Student’s Reflection | LIKITH GAJULA | [Read More](https://medium.com/p/15af636606fe) |
