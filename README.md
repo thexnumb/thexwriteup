@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 15:33:02 GMT | Digital Assets Are Under Siege — And Why It’s Time for a Different Kind of Defence | Abatis ABTU | [Read More](https://medium.com/p/323b8f033256) |
+| Thu, 23 Oct 2025 15:32:08 GMT | DOOM Challenge — Complete Writeup CSEM Web Arena | CSEM | [Read More](https://medium.com/p/784a677b39de) |
+| Thu, 23 Oct 2025 15:28:05 GMT | Má vaše organizace plán, co dělat, když „spadne cloud“? | Cyber Solution | [Read More](https://medium.com/p/00097ed3e678) |
+| Thu, 23 Oct 2025 15:27:22 GMT | Deconstructing “Wmiexec-Pro” | Koifsec | [Read More](https://medium.com/p/c3e8586ebdf8) |
+| Thu, 23 Oct 2025 15:19:37 GMT | What exactly do we own on the internet right now ? | Praveen Kanniah | [Read More](https://medium.com/p/263562bc6115) |
 | Thu, 23 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/45662c92324a) |
 | Thu, 23 Oct 2025 15:13:13 GMT | Microsoft Recall Controversy: Is Your Data Safe? | nodminger | [Read More](https://medium.com/p/f7b7ebe8838e) |
 | Thu, 23 Oct 2025 14:57:33 GMT | CISA Confirms Exploitation of Latest Oracle EBS Vulnerability | IT_Engineer | [Read More](https://medium.com/p/47d4e7b2fc21) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 10:03:29 GMT | How the Dark Web Actually Works: The Tech Behind the Curtain(part2) | Mohamed.cybersec | [Read More](https://medium.com/p/a80185ccd2ab) |
 | Thu, 23 Oct 2025 10:01:51 GMT | Full Circle — Standing Where It All Began | Faiza Seidu-Adam | [Read More](https://medium.com/p/1203dce4f676) |
 | Thu, 23 Oct 2025 09:49:38 GMT | Rust to Solidity: HEIR’s Cross-Chain Smart Contract Revolution | HEIR | [Read More](https://medium.com/p/1f4a50fad10c) |
-| Thu, 23 Oct 2025 09:43:30 GMT | Password Here! Authenticate There! | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/6e5cd9d6e3ec) |
-| Thu, 23 Oct 2025 09:39:48 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/fb2a44557285) |
-| Thu, 23 Oct 2025 09:32:45 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/89519eaf1bba) |
-| Thu, 23 Oct 2025 09:31:22 GMT | Frontend Security: The Most Ignored Skill Every Developer Needs in 2025 | Rama Jonnada | [Read More](https://medium.com/p/f94316dc178a) |
-| Thu, 23 Oct 2025 09:30:15 GMT | Silicon Valley’s Secret War: Seduction & Espionage | Truspex | [Read More](https://medium.com/p/96e563ded4c0) |
