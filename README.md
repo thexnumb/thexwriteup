@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 05:06:33 GMT | Event Security Planning: How to Keep Large Gatherings Safe from Start to Finish | Liam Truth | [Read More](https://medium.com/p/a2e33779ed3d) |
+| Thu, 23 Oct 2025 04:54:59 GMT | Too Good to Be True: Publishers Clearing House Scams | Spokeo People Search | [Read More](https://medium.com/p/130fd129f3ed) |
+| Thu, 23 Oct 2025 04:45:51 GMT | Accepting Myself | Shashanksunny | [Read More](https://medium.com/p/46c1f901f70a) |
+| Thu, 23 Oct 2025 04:41:08 GMT | Exploit Web-hook Services for Data Exfiltration Attacks | Rubber Pirate | [Read More](https://medium.com/p/897cb7ef748d) |
+| Thu, 23 Oct 2025 04:33:54 GMT | Trusted IT Support Hartford Services to Keep Your Business Running Smoothly | Gainside | [Read More](https://medium.com/p/f6eaf1d8412f) |
 | Thu, 23 Oct 2025 04:26:02 GMT | GenixCMS SQL Injection Vulnerability | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/18cb07ec3627) |
 | Thu, 23 Oct 2025 04:16:10 GMT | Cybersecurity Isn’t About Fear : It’s About Awareness | Muhummad Zaki | [Read More](https://medium.com/p/bdd61dc2eb01) |
 | Thu, 23 Oct 2025 04:13:58 GMT | Top Signs Your Computer Has a Virus (Before It’s Too Late) | Harry Johnson | [Read More](https://medium.com/p/945df6597f7b) |
@@ -108,8 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 18:00:40 GMT | Day 4: Network Devices & Topologies — Understanding Switches, Routers, Firewalls, and Common… | HackTrace | [Read More](https://medium.com/p/86567a0f8e56) |
 | Wed, 22 Oct 2025 17:53:00 GMT | A MEMORY I WISH I COULD STEP INTO AGAIN | Ola_Olayemii | [Read More](https://medium.com/p/8e044e9c5e5c) |
 | Wed, 22 Oct 2025 17:46:38 GMT | The Cyber Acceleration Point (2025–2026): Autonomous Threats, Extortion Economics, and the… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/ae6b76d75df5) |
-| Wed, 22 Oct 2025 17:43:28 GMT | Internet Of Things — Integrasi Komponen Dasar melalui Proyek Sederhana | Zifa Tea Azzahra | [Read More](https://medium.com/p/11b408b902d4) |
-| Wed, 22 Oct 2025 17:30:58 GMT | Faceless Hacker in Africa: My VAPT-to-Bug Bounty Workflow (Step-by-Step) | cleab_linux | [Read More](https://medium.com/p/038b43afc3be) |
-| Wed, 22 Oct 2025 17:29:08 GMT | Azure Apps Vulnerability Lets Hackers Create Malicious Apps Mimicking Microsoft Teams | Aniket Sharma | [Read More](https://medium.com/p/0a2e43f61be4) |
-| Wed, 22 Oct 2025 17:28:19 GMT | File Signature Validation in .NET | Mohammed Ahmed Hussien | [Read More](https://medium.com/p/8d6eee845342) |
-| Wed, 22 Oct 2025 17:25:31 GMT | From Service Management to Security Mindset: My CISSP Story | Sajith Sathyan | [Read More](https://medium.com/p/79cb1e2575fd) |
