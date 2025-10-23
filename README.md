@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 20:50:02 GMT | [ SOC Alert => New scheduled task created ] by LetsDefend / EventID: 91 | EduKayky | [Read More](https://medium.com/p/b5f5557d2d31) |
+| Thu, 23 Oct 2025 20:48:06 GMT | Crack the Gate 1 picoMINI 2025 | Aderogbarufai | [Read More](https://medium.com/p/56b29d437f1d) |
+| Thu, 23 Oct 2025 20:46:13 GMT | Vulnerability Scanning as a Service: Automating Your Way to a New Income Stream | Samina Perveen | [Read More](https://medium.com/p/91422b9a7147) |
 | Thu, 23 Oct 2025 20:33:45 GMT | Exfiltrating information through Discord | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e74514bb2b9d) |
 | Thu, 23 Oct 2025 20:32:01 GMT | Cybersecurity Resource List | ksophia | [Read More](https://medium.com/p/8672d01c1b91) |
 | Thu, 23 Oct 2025 20:17:18 GMT | TOMGHOST THM | Aderogbarufai | [Read More](https://medium.com/p/3450ccef5b12) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 13:27:28 GMT | Is Your “End-to-End Encrypted” Video Call *Really* Private? | Jibon Costa | [Read More](https://medium.com/p/6ec5b4124333) |
 | Thu, 23 Oct 2025 13:25:53 GMT | HTB Node (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/a85853a2a23f) |
 | Thu, 23 Oct 2025 13:21:50 GMT | Specialize or Generalize? The Cybersecurity Career Crossroads in 2025 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/16dccc43d965) |
-| Thu, 23 Oct 2025 13:20:37 GMT | Have you ever hacked library system | Charon19d | [Read More](https://medium.com/p/610b34cd3797) |
-| Thu, 23 Oct 2025 13:17:16 GMT | Seconds Matter: How to React If You Confront a Burglar | Dalibor Zivkovic | [Read More](https://medium.com/p/ba51dc2632e9) |
-| Thu, 23 Oct 2025 13:16:38 GMT | Desvendando o Wazuh: Instalação Single-Node com Docker e o Seu Primeiro Agente | HOkket | [Read More](https://medium.com/p/576fa58996d8) |
