@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 05:25:42 GMT | Is AI Finally Learning to Respect Privacy? | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/9bb4eec5f263) |
+| Thu, 23 Oct 2025 05:18:58 GMT | Got initial access. Now what? | DuckWrites | [Read More](https://medium.com/p/5bdd773f391a) |
 | Thu, 23 Oct 2025 05:06:33 GMT | Event Security Planning: How to Keep Large Gatherings Safe from Start to Finish | Liam Truth | [Read More](https://medium.com/p/a2e33779ed3d) |
 | Thu, 23 Oct 2025 04:54:59 GMT | Too Good to Be True: Publishers Clearing House Scams | Spokeo People Search | [Read More](https://medium.com/p/130fd129f3ed) |
 | Thu, 23 Oct 2025 04:45:51 GMT | Accepting Myself | Shashanksunny | [Read More](https://medium.com/p/46c1f901f70a) |
@@ -111,5 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 18:06:37 GMT | Digital Footprint Management for OSINT Professionals | Nazrul Islam Rana | [Read More](https://medium.com/p/286868c8bbde) |
 | Wed, 22 Oct 2025 18:03:51 GMT | Password Managers: Which One Should Your Team Use? | JSOC IT BLOG | [Read More](https://medium.com/p/4aa5aac1b41d) |
 | Wed, 22 Oct 2025 18:00:40 GMT | Day 4: Network Devices & Topologies — Understanding Switches, Routers, Firewalls, and Common… | HackTrace | [Read More](https://medium.com/p/86567a0f8e56) |
-| Wed, 22 Oct 2025 17:53:00 GMT | A MEMORY I WISH I COULD STEP INTO AGAIN | Ola_Olayemii | [Read More](https://medium.com/p/8e044e9c5e5c) |
-| Wed, 22 Oct 2025 17:46:38 GMT | The Cyber Acceleration Point (2025–2026): Autonomous Threats, Extortion Economics, and the… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/ae6b76d75df5) |
