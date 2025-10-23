@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 16:33:42 GMT | “I Agree” Doesn’t Mean You Understand: How Privacy Jargon Tricks Us Into False Consent | Ivan Junior | [Read More](https://medium.com/p/ab50979bb2d2) |
+| Thu, 23 Oct 2025 16:29:52 GMT | Optimizing Global Permissions vs Project Permissions | Erdem UÇAK | [Read More](https://medium.com/p/5ebeb5a108af) |
+| Thu, 23 Oct 2025 16:27:31 GMT | Beyond the Classroom: What 6 Hours Inside a Deloitte Cybersecurity Simulation Taught Me ️ | Rohit Prajapati | [Read More](https://medium.com/p/7c246fe27161) |
+| Thu, 23 Oct 2025 16:25:36 GMT | Understanding SSH Keys - Simple Guide for Beginners | Kenuka Karunakaran | [Read More](https://medium.com/p/7163f51dd0d7) |
+| Thu, 23 Oct 2025 16:22:47 GMT | Inside the Hacker Hunter’s Domain Cyber Intelligence: “A Field Guide to OSINT, Dark Web… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ef1f92bea8ec) |
+| Thu, 23 Oct 2025 16:21:35 GMT | Why Cybersecurity Matters in Every Digital Profession | Ferdi Edogawa | [Read More](https://medium.com/p/ad1ccbc2fe1e) |
 | Thu, 23 Oct 2025 16:18:36 GMT | Cybersecurity Hygiene Best Practices: Building a Secure Digital Foundation with Rainbow Secure | Dr. Shashi Karhail | [Read More](https://medium.com/p/c78a2dd6a7fe) |
 | Thu, 23 Oct 2025 16:16:01 GMT | Smart IT Support in North East London | Gary Marshall | [Read More](https://medium.com/p/f9de58002a95) |
 | Thu, 23 Oct 2025 16:11:44 GMT | Security System | Vital Tech Vision | [Read More](https://medium.com/p/98a7bcc43e37) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 10:58:56 GMT | Jeopardy Hacking? Level Up Your Skills Now! | SilentInject | [Read More](https://medium.com/p/afd04e157358) |
 | Thu, 23 Oct 2025 10:47:13 GMT | From Recon to RCE: How I Scored My First Critical BugIntroduction | Eslam Gamal | [Read More](https://medium.com/p/a740ff8b2d6b) |
 | Thu, 23 Oct 2025 10:47:11 GMT | Introducing Blue Cyber Defense Intelligence (BCDI) — Powered by Blueprint Society | Blue King | [Read More](https://medium.com/p/51a5fe9c5589) |
-| Thu, 23 Oct 2025 10:46:29 GMT | How Kochi is Becoming the Next Cybersec‍urity Education Hub | Aadhidev Anihac | [Read More](https://medium.com/p/1f0ba446d9d1) |
-| Thu, 23 Oct 2025 10:45:09 GMT | AI-Generated Malware & the Rise of “Malware-as-a-Prompt” | Jackdavis Iap | [Read More](https://medium.com/p/75cd56e2346c) |
-| Thu, 23 Oct 2025 10:45:08 GMT | [OverTheWire] Bandit Level 0 | H$nt | [Read More](https://medium.com/p/750e2ee04667) |
-| Thu, 23 Oct 2025 10:41:21 GMT | 【Air-Gap Hardware Wallet】Digital Shield: Building the Next Generation of Web3 Security Through… | Digital Shield Offcial | [Read More](https://medium.com/p/609f645d89d6) |
-| Thu, 23 Oct 2025 10:39:08 GMT | 【Universal Security Manifesto】Digital Shield: Restoring Digital Sovereignty to Everyone | Digital Shield Offcial | [Read More](https://medium.com/p/dee5b9c2126c) |
-| Thu, 23 Oct 2025 10:37:06 GMT | Nature Explorer: Discovering the Untamed Beauty of Our Planet | Nature Explorer | [Read More](https://medium.com/p/5b9a8981522f) |
