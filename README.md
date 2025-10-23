@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 13:28:45 GMT | The Complete Guide to Kubernetes Penetration Testing: Tools, Techniques, and Wordlists for Bug… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/7f29dbdea021) |
+| Thu, 23 Oct 2025 13:27:28 GMT | Is Your “End-to-End Encrypted” Video Call *Really* Private? | Jibon Costa | [Read More](https://medium.com/p/6ec5b4124333) |
+| Thu, 23 Oct 2025 13:21:50 GMT | Specialize or Generalize? The Cybersecurity Career Crossroads in 2025 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/16dccc43d965) |
+| Thu, 23 Oct 2025 13:20:37 GMT | Have you ever hacked library system | Charon19d | [Read More](https://medium.com/p/610b34cd3797) |
+| Thu, 23 Oct 2025 13:17:16 GMT | Seconds Matter: How to React If You Confront a Burglar | Dalibor Zivkovic | [Read More](https://medium.com/p/ba51dc2632e9) |
+| Thu, 23 Oct 2025 13:16:38 GMT | Desvendando o Wazuh: Instalação Single-Node com Docker e o Seu Primeiro Agente | HOkket | [Read More](https://medium.com/p/576fa58996d8) |
+| Thu, 23 Oct 2025 13:07:00 GMT | Uncovering Betrayal: A Linux Forensics Journey in the ExfilNode Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/06be52fb0337) |
+| Thu, 23 Oct 2025 13:03:28 GMT | Active Directory 102: Planning Your Active Directory Architecture | Rana chouchane - QU33NR | [Read More](https://medium.com/p/64e3490e0a55) |
+| Thu, 23 Oct 2025 13:01:55 GMT | How to Reattach a Garage Door Opener: Step-by-Step After Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/cdb6f8ae5afb) |
+| Thu, 23 Oct 2025 12:58:33 GMT | How to Keep Your Crypto Portfolio Secure | TheBlock. | [Read More](https://medium.com/p/ed29d5cbd185) |
+| Thu, 23 Oct 2025 12:58:18 GMT | Decoding the Disk: A Deep Dive into MBR & GPT Analysis | Furkanctiner | [Read More](https://medium.com/p/3cf330ea2735) |
+| Thu, 23 Oct 2025 12:57:32 GMT | HTB_Academy: Attacking Common Services — Medium | Babatunde Ojo | [Read More](https://medium.com/p/5f75ff6626e5) |
+| Thu, 23 Oct 2025 12:54:25 GMT | Why Enterprises Are Turning to Blockchain for Data Protection in 2025 | Anderson | [Read More](https://medium.com/p/fca260b018e7) |
+| Thu, 23 Oct 2025 12:53:28 GMT | From Threat to Ticket: How to Threat Model a Microservice with the ASVS Starter Kit | Kay Adelaja | [Read More](https://medium.com/p/4be4a45344a6) |
+| Thu, 23 Oct 2025 12:46:01 GMT | Faux Intelligence. | Olutayo-Olaoye Oluwayanmife | [Read More](https://medium.com/p/1f25ef261760) |
+| Thu, 23 Oct 2025 12:39:34 GMT | IDOR - TryHackMe Walkthrough | Prajwal81 | [Read More](https://medium.com/p/42e9172eff38) |
+| Thu, 23 Oct 2025 12:37:15 GMT | CanYouSee: A Beginner’s Forensics Walkthrough (picoCTF) | Islom | [Read More](https://medium.com/p/00cf02713e97) |
 | Thu, 23 Oct 2025 12:29:53 GMT | The Simple Travel Trick That Keeps Your Luggage Safe | Marc Ford | [Read More](https://medium.com/p/54912a536ba7) |
 | Thu, 23 Oct 2025 12:22:20 GMT | Prioritise: Explore some less common SQL Injection techniques | Huzaifa Malik | [Read More](https://medium.com/p/229b751e9460) |
 | Thu, 23 Oct 2025 12:18:17 GMT | AI’s Secret Mental Health Crisis: What Happens When Your Algorithm Goes ‘Psychotic’? | Berend Watchus | [Read More](https://medium.com/p/b35949fc78bf) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 07:56:01 GMT | Network Breach Analysis: Detecting DNS Tunneling and Beaconing | Abdelhalim_husein | [Read More](https://medium.com/p/9d35648ecb23) |
 | Thu, 23 Oct 2025 07:54:35 GMT | Graylog Installation Guide | maulmalik22 | [Read More](https://medium.com/p/4fa68f21addc) |
 | Thu, 23 Oct 2025 07:51:22 GMT | Cisco Catalyst Switch 3560V1 İleri Düzey Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/5cd060b98783) |
-| Thu, 23 Oct 2025 07:38:16 GMT | I Think I’m Too Hard to Love | Dessyanadm | [Read More](https://medium.com/p/758dfdc76fad) |
-| Thu, 23 Oct 2025 07:18:57 GMT | The Future of Mobile Security : Trends to watch in 2026 | Odunayo Dada | [Read More](https://medium.com/p/378c3f331e7e) |
-| Thu, 23 Oct 2025 07:16:59 GMT | Rogue AI Manipulations | Shailendra Kumar | [Read More](https://medium.com/p/cde2a6d4e04c) |
-| Thu, 23 Oct 2025 07:14:56 GMT | “It’s Not Just You — The iOS Keyboard is Broken” — “Non Sei Tu — La Tastiera iOS è rotta” | octospacc | [Read More](https://medium.com/p/7aa25dcb4781) |
-| Thu, 23 Oct 2025 07:03:59 GMT | Reflecting on My Home Network Security: Lessons from a Fing Scan | Anderson Santos | [Read More](https://medium.com/p/865ad3413091) |
-| Thu, 23 Oct 2025 07:00:46 GMT | Introducing Pulse SIEM — The Next Generation of Cyber Defence Intelligence | UK Cyber Defence | [Read More](https://medium.com/p/499315a0b776) |
-| Thu, 23 Oct 2025 06:44:42 GMT | From EternalBlue to Web Exploits: Why Cybersecurity Is More Than Just Hacking | Hemraj | [Read More](https://medium.com/p/33038061a0e0) |
-| Thu, 23 Oct 2025 06:40:26 GMT | Case Study: Akira Ransomware and External Remote Services | Shivam Kanodia | [Read More](https://medium.com/p/f693e815292f) |
-| Thu, 23 Oct 2025 06:39:27 GMT | Part 3 — Feature Flags, Dynamic Access, and Real-World Scenarios | Chiraggarg | [Read More](https://medium.com/p/2471086b7751) |
-| Thu, 23 Oct 2025 06:38:52 GMT | Cybersecurity Course in Telugu: Protect Your Digital World and Build a Future-Ready Career | sharon blog | [Read More](https://medium.com/p/8ec0117186d3) |
-| Thu, 23 Oct 2025 06:33:24 GMT | The Complete Guide to Server-Side Request Forgery (SSRF) for Beginners | Andrei Ivan | [Read More](https://medium.com/p/b305056f1b71) |
-| Thu, 23 Oct 2025 06:30:55 GMT | NP-Completeness in Secure Password Hash Reversal: Computational Hardness as a Foundation of… | Deep | [Read More](https://medium.com/p/7df9b379137c) |
-| Thu, 23 Oct 2025 06:29:58 GMT | Preparing for the Post-Quantum Era: Why It Matters and How to Get It Right | Eli Hazan | [Read More](https://medium.com/p/666e1ddef327) |
-| Thu, 23 Oct 2025 06:29:54 GMT | The Terminator (1984) and the World We’re Entering | Sasono Utomo | [Read More](https://medium.com/p/3aeedfa6d8e1) |
-| Thu, 23 Oct 2025 06:27:57 GMT | SessionReaper: Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw | Germano Costi | [Read More](https://medium.com/p/c7c86a40da33) |
-| Thu, 23 Oct 2025 06:18:12 GMT | The Cybersecurity Job Landscape in 2025: Booming Demand, Skill Gaps, and the Future of Digital… | Onkar Shirke | [Read More](https://medium.com/p/fcb353e21d20) |
-| Thu, 23 Oct 2025 06:04:58 GMT | Cybersecurity in 2025: Critical Trends, Challenges & Strategic Responses | Onkar Shirke | [Read More](https://medium.com/p/e37ff59560b7) |
