@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 21:34:12 GMT | Cyber Kill Chain | Isiah | [Read More](https://medium.com/p/2f24fd576977) |
+| Thu, 23 Oct 2025 21:33:52 GMT | CVE-2025–55315: A 9.9 Critical Vulnerability Impacting Legacy .NET — and Now Confirmed on .NET 6 | Jared Rhodes | [Read More](https://medium.com/p/dd349bf7f215) |
+| Thu, 23 Oct 2025 21:32:49 GMT | La Corporación (The Hacker Labs) | FeCeSociety | [Read More](https://medium.com/p/5a5aaa0e7959) |
+| Thu, 23 Oct 2025 21:30:27 GMT | How I Cracked CompTIA Security+ in 2 Months — The Ultimate One-Stop Guide (SY0–701 Study Plan +… | Chaitanya Garware | [Read More](https://medium.com/p/f565959817ae) |
 | Thu, 23 Oct 2025 20:50:02 GMT | [ SOC Alert => New scheduled task created ] by LetsDefend / EventID: 91 | EduKayky | [Read More](https://medium.com/p/b5f5557d2d31) |
 | Thu, 23 Oct 2025 20:48:06 GMT | Crack the Gate 1 picoMINI 2025 | Aderogbarufai | [Read More](https://medium.com/p/56b29d437f1d) |
 | Thu, 23 Oct 2025 20:46:13 GMT | Vulnerability Scanning as a Service: Automating Your Way to a New Income Stream | Samina Perveen | [Read More](https://medium.com/p/91422b9a7147) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 13:51:30 GMT | CVE‑2025‑11279 — RCE via CSV Injection (Part 1: CSV Injection) | Nakul Singh | [Read More](https://medium.com/p/028efc345d6d) |
 | Thu, 23 Oct 2025 13:50:08 GMT | A Fun Dive into ISO 27001 Clause 6 | Parull Sharma | [Read More](https://medium.com/p/b5198c3b10b1) |
 | Thu, 23 Oct 2025 13:29:06 GMT | Hidden in plainsight — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/7c6fbd78b3d0) |
-| Thu, 23 Oct 2025 13:28:45 GMT | The Complete Guide to Kubernetes Penetration Testing: Tools, Techniques, and Wordlists for Bug… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/7f29dbdea021) |
-| Thu, 23 Oct 2025 13:27:28 GMT | Is Your “End-to-End Encrypted” Video Call *Really* Private? | Jibon Costa | [Read More](https://medium.com/p/6ec5b4124333) |
-| Thu, 23 Oct 2025 13:25:53 GMT | HTB Node (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/a85853a2a23f) |
-| Thu, 23 Oct 2025 13:21:50 GMT | Specialize or Generalize? The Cybersecurity Career Crossroads in 2025 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/16dccc43d965) |
