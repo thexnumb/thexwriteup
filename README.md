@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 03:44:34 GMT | Multi-honeypot Platform on Azure using T-Pot | X2Tech | [Read More](https://medium.com/p/10fca1142bfe) |
+| Thu, 23 Oct 2025 03:35:03 GMT | When War Strikes Home: Preparing for the Unthinkable | ElitePromotes | [Read More](https://medium.com/p/01c1886bb71a) |
+| Thu, 23 Oct 2025 03:31:51 GMT | When Phishing Meets AI: The Hidden Threat of Prompt Injection | Deven Chhajed | [Read More](https://medium.com/p/8f34c0611259) |
+| Thu, 23 Oct 2025 03:28:09 GMT | Membangun UI Interaktif dan Modern dengan Framer Motion | Anjas Rani | [Read More](https://medium.com/p/d034c6395a27) |
+| Thu, 23 Oct 2025 03:28:05 GMT | How I can discover the winner before the official reveal | Viperblitzz | [Read More](https://medium.com/p/2a03ebcd3199) |
+| Thu, 23 Oct 2025 03:05:26 GMT | Critical: 3,894 SonicWall SSL VPNs at Risk of OVERSTEP Exploit and MFA Bypass | Criminal IP | [Read More](https://medium.com/p/9ce1489aff84) |
 | Thu, 23 Oct 2025 03:03:52 GMT | From Burp Suite to BloodHound: The Career Roadmap of an Offensive Security Pro | Yua Mikanana | [Read More](https://medium.com/p/3b323bded429) |
 | Thu, 23 Oct 2025 02:57:48 GMT | Cybersecurity of 5G Technology and Services | Muhammad Ali Khan | [Read More](https://medium.com/p/0d961a0365b6) |
 | Thu, 23 Oct 2025 02:49:23 GMT | Cloud Security 360 | Muhammad Ali Khan | [Read More](https://medium.com/p/cdd70a189e0b) |
@@ -107,9 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 17:19:20 GMT | Network 101 — Dijital Dünyaya Giriş | Berke Kocakavak | [Read More](https://medium.com/p/3d04a6f08b42) |
 | Wed, 22 Oct 2025 17:18:00 GMT | ADHDev Tip #6: Get Google Authenticator off your phone and on your work computer | Colleen Dunlap | [Read More](https://medium.com/p/ec41037b5fcd) |
 | Wed, 22 Oct 2025 17:14:31 GMT | Finding My Niche in Cybersecurity: A Student’s Reflection | LIKITH GAJULA | [Read More](https://medium.com/p/15af636606fe) |
-| Wed, 22 Oct 2025 17:09:40 GMT | Cities run on video now, here’s how Vidaio makes it work (and pay) | Vidaio | [Read More](https://medium.com/p/a0d0458af015) |
-| Wed, 22 Oct 2025 17:07:19 GMT | GitLab Security Vulnerabilities: A Critical Alert for DevOps Teams | Aniket Sharma | [Read More](https://medium.com/p/353abe774e9b) |
-| Wed, 22 Oct 2025 17:07:03 GMT | HTB_Academy: Attacking RDP | Babatunde Ojo | [Read More](https://medium.com/p/e2efae060e99) |
-| Wed, 22 Oct 2025 17:06:35 GMT | Internet of Things — Integrasi Komponen Dasar melalui Proyek Sederhana | Zifa Tea Azzahra | [Read More](https://medium.com/p/8aae420635d1) |
-| Wed, 22 Oct 2025 17:03:30 GMT | HacktheBox: MetaTwo Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/ca59f776e9f1) |
-| Wed, 22 Oct 2025 17:03:18 GMT | ASP NET Machine Keys Abused to Compromise IIS Servers and Load Malicious Modules | Chetan Seripally | [Read More](https://medium.com/p/aa9bde457afe) |
