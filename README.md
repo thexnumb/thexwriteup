@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 23:24:57 GMT | Hackviser — Rivalry Scenario Walkthrough | Minosh Umayanga | [Read More](https://medium.com/p/2bb6a23adcfd) |
+| Thu, 23 Oct 2025 23:16:59 GMT | Gotham’s Digital Underworld | David ONeal | [Read More](https://medium.com/p/3b18fc63be5c) |
 | Thu, 23 Oct 2025 23:15:29 GMT | Cyber Extortion — How Criminals Prey on Youth | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/8be81bff098a) |
 | Thu, 23 Oct 2025 23:02:48 GMT | How North Korea Uses Loosely Regulated Countries Like Cambodia for Money Laundering and Crypto… | David SEHYEON Baek | [Read More](https://medium.com/p/0fb430b0e206) |
 | Thu, 23 Oct 2025 22:48:55 GMT | Elevate Your Business with Code Your Thoughts: A Premier Software Agency | Syed Ahmed Kamal | [Read More](https://medium.com/p/b627b89d4b9a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 14:46:19 GMT | Claiming Monad Airdrops​ | Slerf coin | [Read More](https://medium.com/p/181fbbd23769) |
 | Thu, 23 Oct 2025 14:44:33 GMT | Monad Airdrop Details | Slerf coin | [Read More](https://medium.com/p/5af1eb60c00b) |
 | Thu, 23 Oct 2025 14:44:27 GMT | Host your next project — How to find cheap hosting | th3_d4v1d_c0de | [Read More](https://medium.com/p/ea66f09a61e6) |
-| Thu, 23 Oct 2025 14:43:55 GMT | Practical Pivoting: Master SSH Tunnels, SOCKS Proxies, and Advanced Network Access Techniques | Very Lazy Tech | [Read More](https://medium.com/p/893e891e1036) |
-| Thu, 23 Oct 2025 14:43:08 GMT | Monad airdrop claim | Slerf coin | [Read More](https://medium.com/p/751a6754d01e) |
