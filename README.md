@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 19:34:12 GMT | Day 18 of my Cybersecurity Journey: Wireshark Basics II | Ogundipe Priscilla | [Read More](https://medium.com/p/c2b2b192f9f0) |
+| Thu, 23 Oct 2025 19:33:31 GMT | The Hidden Cybersecurity Risk Behind the AWS Outage | Minhal Haider | [Read More](https://medium.com/p/827d02bea8e4) |
+| Thu, 23 Oct 2025 19:29:15 GMT | Cómo un Bug Bounty Hunter descubrió una vulnerabilidad en un banco | Gorka | [Read More](https://medium.com/p/9f730fdbba48) |
+| Thu, 23 Oct 2025 19:25:32 GMT | Firewall as a Service (FWaaS): The Future of Scalable and Cloud-Driven Network Security | SafeAeon Inc. | [Read More](https://medium.com/p/2cda7fa145b1) |
+| Thu, 23 Oct 2025 19:20:57 GMT | Designing and Discovery in LLM Projects | Flavia Nobre | [Read More](https://medium.com/p/f3079bd90546) |
+| Thu, 23 Oct 2025 19:20:34 GMT | How a Simple Search Earned Me a Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/d3f9fd0a70c9) |
+| Thu, 23 Oct 2025 19:18:15 GMT | Certified Associate Penetration Tester ( CAPT ) | THAMER ALNAJADAT | [Read More](https://medium.com/p/550f5b52bb30) |
 | Thu, 23 Oct 2025 19:13:54 GMT | OSINT Investigation: The Art of Finding What’s Hidden in Plain Sight | Shohel Rana | [Read More](https://medium.com/p/b3cf665e78a9) |
+| Thu, 23 Oct 2025 19:11:46 GMT | Linux Fundamentals Part 1 — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/44fd8ec17158) |
 | Thu, 23 Oct 2025 19:03:59 GMT | eJPT — 3.4 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/d68f291951c8) |
 | Thu, 23 Oct 2025 19:01:16 GMT | Cloud ERP: How Modern Businesses Gain Competitive Advantage | Avani Shah at AdCirrus ERP | [Read More](https://medium.com/p/c776e27e2889) |
 | Thu, 23 Oct 2025 18:56:59 GMT | From Command Line to AI Brain: The Kali MCP Server Revolution | LETCHU PKT | [Read More](https://medium.com/p/52b98581ae6c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 13:01:55 GMT | How to Reattach a Garage Door Opener: Step-by-Step After Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/cdb6f8ae5afb) |
 | Thu, 23 Oct 2025 12:58:33 GMT | How to Keep Your Crypto Portfolio Secure | TheBlock. | [Read More](https://medium.com/p/ed29d5cbd185) |
 | Thu, 23 Oct 2025 12:58:18 GMT | Decoding the Disk: A Deep Dive into MBR & GPT Analysis | Furkanctiner | [Read More](https://medium.com/p/3cf330ea2735) |
-| Thu, 23 Oct 2025 12:57:32 GMT | HTB_Academy: Attacking Common Services — Medium | Babatunde Ojo | [Read More](https://medium.com/p/5f75ff6626e5) |
-| Thu, 23 Oct 2025 12:54:25 GMT | Why Enterprises Are Turning to Blockchain for Data Protection in 2025 | Anderson | [Read More](https://medium.com/p/fca260b018e7) |
-| Thu, 23 Oct 2025 12:53:28 GMT | From Threat to Ticket: How to Threat Model a Microservice with the ASVS Starter Kit | Kay Adelaja | [Read More](https://medium.com/p/4be4a45344a6) |
-| Thu, 23 Oct 2025 12:46:01 GMT | Faux Intelligence. | Olutayo-Olaoye Oluwayanmife | [Read More](https://medium.com/p/1f25ef261760) |
-| Thu, 23 Oct 2025 12:39:34 GMT | IDOR - TryHackMe Walkthrough | Prajwal81 | [Read More](https://medium.com/p/42e9172eff38) |
-| Thu, 23 Oct 2025 12:37:15 GMT | CanYouSee: A Beginner’s Forensics Walkthrough (picoCTF) | Islom | [Read More](https://medium.com/p/00cf02713e97) |
-| Thu, 23 Oct 2025 12:29:53 GMT | The Simple Travel Trick That Keeps Your Luggage Safe | Marc Ford | [Read More](https://medium.com/p/54912a536ba7) |
-| Thu, 23 Oct 2025 12:22:20 GMT | Prioritise: Explore some less common SQL Injection techniques | Huzaifa Malik | [Read More](https://medium.com/p/229b751e9460) |
