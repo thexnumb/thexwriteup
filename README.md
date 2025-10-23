@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 01:29:49 GMT | Cuban: 63,564 AIS Remesas Clients information was exposed on an unsecured server. | chum1ng0 | [Read More](https://medium.com/p/80fe63ee1275) |
+| Thu, 23 Oct 2025 01:19:23 GMT | Building Ransomware Resilience — Webinar | Matthew.Rosenquist | [Read More](https://medium.com/p/cc969a8784ba) |
+| Thu, 23 Oct 2025 01:18:25 GMT | Sentinel Achieves SOC 2 Type II Certification | Gold | [Read More](https://medium.com/p/7028bdd85e85) |
+| Thu, 23 Oct 2025 01:13:53 GMT | Burp Intruder — Attack Types | Nathanael Praditya | [Read More](https://medium.com/p/8a4e5d518eae) |
+| Thu, 23 Oct 2025 00:50:43 GMT | The Hidden Truth About the AI Boom: Why the Tech Bubble Might Burst Sooner Than You Think | sana irshad | [Read More](https://medium.com/p/a883cb711d76) |
+| Thu, 23 Oct 2025 00:25:04 GMT | Cybersecurity Certifications That Can Actually Make You Money | The Reboot | [Read More](https://medium.com/p/ca680cc8ab7d) |
+| Thu, 23 Oct 2025 00:19:36 GMT | Sysmon +Wazuh: The Defense-In-Depth Dynamic Duo | Johnny Meintel | [Read More](https://medium.com/p/a757b254521a) |
+| Thu, 23 Oct 2025 00:10:46 GMT | Why Minecraft Griefers Are Targetting Cracked Servers and Pirates. And Why Thats Good | SupportiveFigure | [Read More](https://medium.com/p/29c07a668daf) |
+| Thu, 23 Oct 2025 00:09:18 GMT | The SIM Swap Scam: How One Text Can Ruin Your Digital Identity | Cyber-AppSec | [Read More](https://medium.com/p/c65c80924ba6) |
+| Thu, 23 Oct 2025 00:03:49 GMT | How I Found Two Role-Based Access Control (RBAC) Vulnerabilities | Muhammad Wageh | [Read More](https://medium.com/p/f6ac62e42b65) |
+| Thu, 23 Oct 2025 00:01:53 GMT | DJINN3 — Walkthrough (Proving Grounds Play) | Maxwell Ferreira | [Read More](https://medium.com/p/f9855b7bda53) |
+| Thu, 23 Oct 2025 00:01:02 GMT | My First Time Deploying a SIEM: Adventures, Mistakes, and Cybersecurity Wins! | Jack Livenspargar | [Read More](https://medium.com/p/b49c1a2a534a) |
+| Wed, 22 Oct 2025 23:39:58 GMT | Diving into attacks, concepts, and techniques in cybersecurity. | CLUE | [Read More](https://medium.com/p/1759bb768672) |
+| Wed, 22 Oct 2025 23:39:01 GMT | A brief moment of being known. | Basia | [Read More](https://medium.com/p/7a229d0bb939) |
 | Wed, 22 Oct 2025 23:22:24 GMT | The Hard Way: How One Repo Crash Taught Me More Than Any Linux Tutorial Ever Could | David Zion | [Read More](https://medium.com/p/01ecaf8a56c7) |
 | Wed, 22 Oct 2025 23:15:12 GMT | Hacker Bounty CTF بالعربي - TryHackme — الغرفة السهلة | OJ Adel | [Read More](https://medium.com/p/42be1435ecb3) |
 | Wed, 22 Oct 2025 22:53:56 GMT | ⏰ How We Exploit Moms’ Time — and Why I’m Learning to Protect Mine | The Gorgeous Deaf Mama | [Read More](https://medium.com/p/a142c710df49) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 16:17:00 GMT | Shocking GPU Vulnerability | Shailendra Kumar | [Read More](https://medium.com/p/1747118e2497) |
 | Wed, 22 Oct 2025 16:11:42 GMT | TryHackMe - Initial Access Pot - WriteUp | Axoloth | [Read More](https://medium.com/p/fc04d202d383) |
 | Wed, 22 Oct 2025 16:10:00 GMT | Bring external AWS accounts into an organization | Rajesh Gundeti | [Read More](https://medium.com/p/15ad11cb0fd3) |
-| Wed, 22 Oct 2025 16:02:01 GMT | A Comprehensive Security Assessment Guide to Identifying and Exploiting Spring Boot Actuator… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/83be33c8cee6) |
-| Wed, 22 Oct 2025 15:56:37 GMT | Automatically Detect Inactive Azure AD Users with Kexa.io in 3 steps | Patrick Szymkowiak | [Read More](https://medium.com/p/2e3d2e03bd01) |
-| Wed, 22 Oct 2025 15:56:35 GMT | Social Media and You-How to Be Cyber smart? | reginald jackson | [Read More](https://medium.com/p/00accb0a3160) |
-| Wed, 22 Oct 2025 15:56:06 GMT | Future Proof Your Cybersecurity Career in 2026 with these must having 3 skills | Cybersectoworld | [Read More](https://medium.com/p/26422cda54d0) |
-| Wed, 22 Oct 2025 15:55:07 GMT | How AI-Driven Anomaly Detection is Powering the Future of Zero Trust Cybersecurity | JashwanthK07 | [Read More](https://medium.com/p/b81d081547bf) |
-| Wed, 22 Oct 2025 15:53:53 GMT | How to Disable Microsoft Recall on Windows 11 | nodminger | [Read More](https://medium.com/p/4bee283a19ea) |
-| Wed, 22 Oct 2025 15:52:39 GMT | Firebase Remote Config | Mahdi MENAA | [Read More](https://medium.com/p/b8a04f3a306e) |
-| Wed, 22 Oct 2025 15:44:17 GMT | Locked In and Lagging: Why Dataverse Can’t Keep Up with the Enterprise Elite | Namir Sagheenanajar | [Read More](https://medium.com/p/5e000aec5ed0) |
-| Wed, 22 Oct 2025 15:42:28 GMT | Don’t Let Your PII Escape! | Jose Solera | [Read More](https://medium.com/p/86f69666c861) |
-| Wed, 22 Oct 2025 15:39:11 GMT | ISO 27001:2022 -Clauses 5 Explained (Leadership Made Simple) | Parull Sharma | [Read More](https://medium.com/p/6fe47477ee51) |
-| Wed, 22 Oct 2025 15:35:58 GMT | When a “New Opportunity” Turns Out to Be a Security Red Flag | Ted Rogers | [Read More](https://medium.com/p/4efc0114212b) |
-| Wed, 22 Oct 2025 15:21:52 GMT | Machine Learning-Assisted Recon in Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/53db57009985) |
-| Wed, 22 Oct 2025 15:10:55 GMT | Moving beyond passwords — Authentication Reloaded !! | Cyberbali | [Read More](https://medium.com/p/a12f00182a4e) |
-| Wed, 22 Oct 2025 15:10:18 GMT | Siber Güvenliğe Giriş ve Temel Siber Güvenlik Araçları | Aliberk Sandıkçı | [Read More](https://medium.com/p/0c09ceb320bf) |
