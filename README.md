@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 08:11:16 GMT | Palo Alto Networks Supply Chain Risk Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77e5e63dc5e5) |
+| Thu, 23 Oct 2025 08:08:45 GMT | HTTP vs SOCKS5 Proxies: What’s the Difference? | ProxiesThatWork | [Read More](https://medium.com/p/c0f633db8203) |
+| Thu, 23 Oct 2025 08:04:10 GMT | Top 11 Web Application Firewalls for 2026 — Deep Review | Maverick Steel | [Read More](https://medium.com/p/bbd65747eeda) |
+| Thu, 23 Oct 2025 08:02:38 GMT | How I Accidentally Discovered a Sneaky PHP Login Bypass (And You Can Too!) | MayhemCode | [Read More](https://medium.com/p/04901efc0d43) |
+| Thu, 23 Oct 2025 08:02:38 GMT | Stop Credential Stuffing at the Source with Plain Text Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/b296fd95a252) |
+| Thu, 23 Oct 2025 07:59:15 GMT | Zero-Day in My Inbox: How I Detected a Phishing Campaign That Targeted My Outlook | Fateyaly | [Read More](https://medium.com/p/3d47577cd64b) |
+| Thu, 23 Oct 2025 07:56:01 GMT | Network Breach Analysis: Detecting DNS Tunneling and Beaconing | Abdelhalim_husein | [Read More](https://medium.com/p/9d35648ecb23) |
+| Thu, 23 Oct 2025 07:54:35 GMT | Graylog Installation Guide | maulmalik22 | [Read More](https://medium.com/p/4fa68f21addc) |
+| Thu, 23 Oct 2025 07:51:22 GMT | Cisco Catalyst Switch 3560V1 İleri Düzey Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/5cd060b98783) |
 | Thu, 23 Oct 2025 07:38:16 GMT | I Think I’m Too Hard to Love | Dessyanadm | [Read More](https://medium.com/p/758dfdc76fad) |
 | Thu, 23 Oct 2025 07:18:57 GMT | The Future of Mobile Security : Trends to watch in 2026 | Odunayo Dada | [Read More](https://medium.com/p/378c3f331e7e) |
 | Thu, 23 Oct 2025 07:16:59 GMT | Rogue AI Manipulations | Shailendra Kumar | [Read More](https://medium.com/p/cde2a6d4e04c) |
@@ -104,12 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 20:33:46 GMT | Why People Fall for Scams | Godsway R. Akakpo | [Read More](https://medium.com/p/c5a6055375b8) |
 | Wed, 22 Oct 2025 20:07:58 GMT | Pyramid of Pain - THM | Isiah | [Read More](https://medium.com/p/86b397a6b909) |
 | Wed, 22 Oct 2025 19:55:48 GMT | Linux Basics for SOC Analysts: My First Hands-On Log Analysis Day | Jenna S | [Read More](https://medium.com/p/5b0b34c92d8c) |
-| Wed, 22 Oct 2025 19:55:17 GMT | Mastering Threat Hunting: Proactive Defense in a Reactive World | SafeAeon Inc. | [Read More](https://medium.com/p/ea6797524291) |
-| Wed, 22 Oct 2025 19:55:05 GMT | Linux: Siber Güvenliğin Temeli, Açık Kaynak Felsefesi ve Öne Çıkan Güvenlik Dağıtımları | Ömer Faruk Yıldırım | [Read More](https://medium.com/p/6c9e5e5c7557) |
-| Wed, 22 Oct 2025 19:52:15 GMT | Linux Dağıtımları ve Siber Güvenlikte Kullanımı | Ayberkkocc | [Read More](https://medium.com/p/a4b9e24b76a9) |
-| Wed, 22 Oct 2025 19:51:08 GMT | Cracking the Login (HTB): Hands-on Broken Authentication Techniques Part 1 | Isv0x1 | [Read More](https://medium.com/p/a1f5f04d6085) |
-| Wed, 22 Oct 2025 19:49:41 GMT | The Day I Realized AI Was Helping Hackers Break Into My App | Sandra Kirsch | [Read More](https://medium.com/p/730b3870531b) |
-| Wed, 22 Oct 2025 19:36:13 GMT | Fighting AI With AI: Using Agent Swarms to Audit the AI Tool Supply Chain | Phil Stafford | [Read More](https://medium.com/p/deb5c3598096) |
-| Wed, 22 Oct 2025 19:28:17 GMT | Security Automation: The Future of Faster, Smarter Cyber Defense | SafeAeon Inc. | [Read More](https://medium.com/p/54256d94a9fc) |
-| Wed, 22 Oct 2025 19:23:36 GMT | KrakenKeylogger Lab Writeup | Jaws | [Read More](https://medium.com/p/37485d5747f0) |
-| Wed, 22 Oct 2025 19:22:04 GMT | The 7-Year AI Chat Log Trap | Berend Watchus | [Read More](https://medium.com/p/d30b726c78f4) |
