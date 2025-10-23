@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 14:18:36 GMT | 10 Python Tricks Every Backend Developer Should Know in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/fa5bc29ac283) |
+| Thu, 23 Oct 2025 14:10:12 GMT | Synthetic Threats | january1073 | [Read More](https://medium.com/p/c96f620e92d7) |
+| Thu, 23 Oct 2025 14:06:34 GMT | 11 PostgreSQL Query Optimization Techniques That Saved a Startup From Collapse | Rizqi Mulki | [Read More](https://medium.com/p/aa494158b79f) |
+| Thu, 23 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.23 | CyberMaterial | [Read More](https://medium.com/p/34d2ee0e2eba) |
+| Thu, 23 Oct 2025 14:01:05 GMT | Why AuthenticationProvider is the Heart of Spring Security (And How to Use It) | PraveenCodes | [Read More](https://medium.com/p/eb053988d047) |
+| Thu, 23 Oct 2025 13:57:10 GMT | The Power of Open-Source Intelligence (OSINT): Turning Public Data into Strategic Insight | Md Rakibul Islam | [Read More](https://medium.com/p/c1ffe0a58e2e) |
+| Thu, 23 Oct 2025 13:51:30 GMT | CVE‑2025‑11279 — RCE via CSV Injection (Part 1: CSV Injection) | Nakul Singh | [Read More](https://medium.com/p/028efc345d6d) |
+| Thu, 23 Oct 2025 13:50:08 GMT | A Fun Dive into ISO 27001 Clause 6 | Parull Sharma | [Read More](https://medium.com/p/b5198c3b10b1) |
+| Thu, 23 Oct 2025 13:29:06 GMT | Hidden in plainsight — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/7c6fbd78b3d0) |
 | Thu, 23 Oct 2025 13:28:45 GMT | The Complete Guide to Kubernetes Penetration Testing: Tools, Techniques, and Wordlists for Bug… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/7f29dbdea021) |
 | Thu, 23 Oct 2025 13:27:28 GMT | Is Your “End-to-End Encrypted” Video Call *Really* Private? | Jibon Costa | [Read More](https://medium.com/p/6ec5b4124333) |
+| Thu, 23 Oct 2025 13:25:53 GMT | HTB Node (OSCP Prep) | G3XAR | [Read More](https://medium.com/p/a85853a2a23f) |
 | Thu, 23 Oct 2025 13:21:50 GMT | Specialize or Generalize? The Cybersecurity Career Crossroads in 2025 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/16dccc43d965) |
 | Thu, 23 Oct 2025 13:20:37 GMT | Have you ever hacked library system | Charon19d | [Read More](https://medium.com/p/610b34cd3797) |
 | Thu, 23 Oct 2025 13:17:16 GMT | Seconds Matter: How to React If You Confront a Burglar | Dalibor Zivkovic | [Read More](https://medium.com/p/ba51dc2632e9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 08:34:17 GMT | Cyberéconomie : combien ça coûte de bien se protéger ? | Rebecca Cottignies | [Read More](https://medium.com/p/6d853b36e29f) |
 | Thu, 23 Oct 2025 08:33:00 GMT | URLScan Python Automated Recon | Abhirup Konwar | [Read More](https://medium.com/p/53ac187c5156) |
 | Thu, 23 Oct 2025 08:26:07 GMT | Securing IoT and Critical Infrastructure in 2025: How AI Changes Cyber Defense | DevKit | [Read More](https://medium.com/p/77402f3c0793) |
-| Thu, 23 Oct 2025 08:22:05 GMT | AI in Defense and Cybersecurity Sector | Blue King | [Read More](https://medium.com/p/51837af7c911) |
-| Thu, 23 Oct 2025 08:11:16 GMT | Palo Alto Networks Supply Chain Risk Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77e5e63dc5e5) |
-| Thu, 23 Oct 2025 08:08:45 GMT | HTTP vs SOCKS5 Proxies: What’s the Difference? | ProxiesThatWork | [Read More](https://medium.com/p/c0f633db8203) |
-| Thu, 23 Oct 2025 08:04:10 GMT | Top 11 Web Application Firewalls for 2026 — Deep Review | Maverick Steel | [Read More](https://medium.com/p/bbd65747eeda) |
-| Thu, 23 Oct 2025 08:02:38 GMT | How I Accidentally Discovered a Sneaky PHP Login Bypass (And You Can Too!) | MayhemCode | [Read More](https://medium.com/p/04901efc0d43) |
-| Thu, 23 Oct 2025 08:02:38 GMT | Stop Credential Stuffing at the Source with Plain Text Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/b296fd95a252) |
-| Thu, 23 Oct 2025 07:59:15 GMT | Zero-Day in My Inbox: How I Detected a Phishing Campaign That Targeted My Outlook | Fateyaly | [Read More](https://medium.com/p/3d47577cd64b) |
-| Thu, 23 Oct 2025 07:56:01 GMT | Network Breach Analysis: Detecting DNS Tunneling and Beaconing | Abdelhalim_husein | [Read More](https://medium.com/p/9d35648ecb23) |
-| Thu, 23 Oct 2025 07:54:35 GMT | Graylog Installation Guide | maulmalik22 | [Read More](https://medium.com/p/4fa68f21addc) |
-| Thu, 23 Oct 2025 07:51:22 GMT | Cisco Catalyst Switch 3560V1 İleri Düzey Konfigürasyonları | Hakan ÇEVİK | [Read More](https://medium.com/p/5cd060b98783) |
