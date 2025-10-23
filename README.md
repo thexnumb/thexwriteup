@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 17:13:11 GMT | Domain Wrangling | Kelly Wofford | [Read More](https://medium.com/p/6e29b3812b75) |
+| Thu, 23 Oct 2025 17:12:43 GMT | The Windows Security Journey — MP (Memory Protector) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/258fbe93dcc6) |
+| Thu, 23 Oct 2025 17:06:14 GMT | Red Team vs. Blue Team: The Cybersecurity Battle You Need to Understand | Hassan Talal | [Read More](https://medium.com/p/179d22344819) |
+| Thu, 23 Oct 2025 16:58:26 GMT | Governance as Code | Apolis | [Read More](https://medium.com/p/790d3785d2e3) |
+| Thu, 23 Oct 2025 16:57:32 GMT | How I Found My Way Into Cybersecurity as a Woman | Kylee Cox | [Read More](https://medium.com/p/91f605ceac19) |
+| Thu, 23 Oct 2025 16:54:26 GMT | Enhance Endpoint Security with VMware Carbon Black Software | Kevin Asutton | [Read More](https://medium.com/p/a25634294db6) |
+| Thu, 23 Oct 2025 16:52:21 GMT | Code is Content: How “Indirect Prompt Injection” Attacks Expose the Core Flaw in LLM Metaphysics | Julian Soloninka | [Read More](https://medium.com/p/ed65169b2d2a) |
 | Thu, 23 Oct 2025 16:33:42 GMT | “I Agree” Doesn’t Mean You Understand: How Privacy Jargon Tricks Us Into False Consent | Ivan Junior | [Read More](https://medium.com/p/ab50979bb2d2) |
 | Thu, 23 Oct 2025 16:29:52 GMT | Optimizing Global Permissions vs Project Permissions | Erdem UÇAK | [Read More](https://medium.com/p/5ebeb5a108af) |
 | Thu, 23 Oct 2025 16:27:31 GMT | Beyond the Classroom: What 6 Hours Inside a Deloitte Cybersecurity Simulation Taught Me ️ | Rohit Prajapati | [Read More](https://medium.com/p/7c246fe27161) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 11:13:52 GMT | How I Passed the ISC2 Certified in Cybersecurity (CC) Exam in 1 Week — Without Paying for Training | Omar Maged Ahmed | [Read More](https://medium.com/p/91c99dced989) |
 | Thu, 23 Oct 2025 11:12:39 GMT | Fast IT Support in North West London | Gary Marshall | [Read More](https://medium.com/p/6f7e4e6b0490) |
 | Thu, 23 Oct 2025 11:10:54 GMT | Your Brain Has Been Hacked: Here’s How to Take It Back | Pannag Kumaar | [Read More](https://medium.com/p/0367239df0a7) |
-| Thu, 23 Oct 2025 11:08:53 GMT | VLAN | Zurichsabil | [Read More](https://medium.com/p/bf91e368cb99) |
-| Thu, 23 Oct 2025 11:03:32 GMT | The benefits of Configuration Management for UK SMBs and public sector organisations | Owtanet | [Read More](https://medium.com/p/82739a555257) |
-| Thu, 23 Oct 2025 11:01:51 GMT | Writeup for picoCTF challenge “Inspect HTML” | Walter Moar | [Read More](https://medium.com/p/2ae24f4f8a93) |
-| Thu, 23 Oct 2025 11:00:58 GMT | 5 Common Security Gaps IT Security Audit Companies Can Help You Fix | SmartCLOUD Australia | [Read More](https://medium.com/p/c05f1a339a0d) |
-| Thu, 23 Oct 2025 10:58:56 GMT | Jeopardy Hacking? Level Up Your Skills Now! | SilentInject | [Read More](https://medium.com/p/afd04e157358) |
-| Thu, 23 Oct 2025 10:47:13 GMT | From Recon to RCE: How I Scored My First Critical BugIntroduction | Eslam Gamal | [Read More](https://medium.com/p/a740ff8b2d6b) |
-| Thu, 23 Oct 2025 10:47:11 GMT | Introducing Blue Cyber Defense Intelligence (BCDI) — Powered by Blueprint Society | Blue King | [Read More](https://medium.com/p/51a5fe9c5589) |
