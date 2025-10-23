@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 17:31:01 GMT | Is ChatGPT Making It Easier for Scammers to Trick You? | Spokeo People Search | [Read More](https://medium.com/p/640bbdbd8db9) |
+| Thu, 23 Oct 2025 17:20:01 GMT | Day 5 — Routing & Switching Basics: Understanding Static & Dynamic Routing, VLANs, and NAT | HackTrace | [Read More](https://medium.com/p/28d308d33bc9) |
+| Thu, 23 Oct 2025 17:19:01 GMT | “It’s Not Paranoia, It’s Shared”: What We Get Wrong About Password Sharing | Ivan Junior | [Read More](https://medium.com/p/5ad5ff3ae479) |
+| Thu, 23 Oct 2025 17:18:59 GMT | Is Your Video Conferencing Secure? A Simple Guide to Plug-N-Meet’s Security | Jibon Costa | [Read More](https://medium.com/p/05702ff08162) |
 | Thu, 23 Oct 2025 17:13:11 GMT | Domain Wrangling | Kelly Wofford | [Read More](https://medium.com/p/6e29b3812b75) |
 | Thu, 23 Oct 2025 17:12:43 GMT | The Windows Security Journey — MP (Memory Protector) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/258fbe93dcc6) |
+| Thu, 23 Oct 2025 17:12:28 GMT | Understanding OSI Layers and Cyberattacks: A Comprehensive Guide : | Gopi Sri | [Read More](https://medium.com/p/e7ebcf4844e2) |
 | Thu, 23 Oct 2025 17:06:14 GMT | Red Team vs. Blue Team: The Cybersecurity Battle You Need to Understand | Hassan Talal | [Read More](https://medium.com/p/179d22344819) |
 | Thu, 23 Oct 2025 16:58:26 GMT | Governance as Code | Apolis | [Read More](https://medium.com/p/790d3785d2e3) |
 | Thu, 23 Oct 2025 16:57:32 GMT | How I Found My Way Into Cybersecurity as a Woman | Kylee Cox | [Read More](https://medium.com/p/91f605ceac19) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 11:44:23 GMT | Why E‍thical Hack​ing Is the Most In-Demand Skill in the Tech Ind‌ustry | Aadhidev Anihac | [Read More](https://medium.com/p/d84171e11b2e) |
 | Thu, 23 Oct 2025 11:42:35 GMT | The Ethics of Hacking: White Hat vs. Black Hat ⚖️ (Etika Peretasan: Topi Putih vs. Topi Hitam) | sihackermok | [Read More](https://medium.com/p/f5735a5ebb9f) |
 | Thu, 23 Oct 2025 11:34:14 GMT | Advanced Ransomware Analysis and Reverse Engineering | Esra Kayhan | [Read More](https://medium.com/p/d2ed5879b4ee) |
-| Thu, 23 Oct 2025 11:22:43 GMT | I Watched Hackers Price My X Account at $847. Here’s What I Learned About Actually Protecting It. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/85e93d11ca4a) |
-| Thu, 23 Oct 2025 11:20:44 GMT | Ethics and Ethical AI in Software Development: Balancing Innovation with Responsibility | Pratik Mistry | [Read More](https://medium.com/p/26ea39c88e57) |
-| Thu, 23 Oct 2025 11:13:52 GMT | How I Passed the ISC2 Certified in Cybersecurity (CC) Exam in 1 Week — Without Paying for Training | Omar Maged Ahmed | [Read More](https://medium.com/p/91c99dced989) |
-| Thu, 23 Oct 2025 11:12:39 GMT | Fast IT Support in North West London | Gary Marshall | [Read More](https://medium.com/p/6f7e4e6b0490) |
-| Thu, 23 Oct 2025 11:10:54 GMT | Your Brain Has Been Hacked: Here’s How to Take It Back | Pannag Kumaar | [Read More](https://medium.com/p/0367239df0a7) |
