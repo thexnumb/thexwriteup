@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 03:03:52 GMT | From Burp Suite to BloodHound: The Career Roadmap of an Offensive Security Pro | Yua Mikanana | [Read More](https://medium.com/p/3b323bded429) |
+| Thu, 23 Oct 2025 02:57:48 GMT | Cybersecurity of 5G Technology and Services | Muhammad Ali Khan | [Read More](https://medium.com/p/0d961a0365b6) |
+| Thu, 23 Oct 2025 02:49:23 GMT | Cloud Security 360 | Muhammad Ali Khan | [Read More](https://medium.com/p/cdd70a189e0b) |
+| Thu, 23 Oct 2025 02:47:13 GMT | The Growing Epidemic of Scams Targeting Seniors: What You Need to Know | SenCyberly Inc | [Read More](https://medium.com/p/61c2476cbc52) |
+| Thu, 23 Oct 2025 02:43:26 GMT | The Quantum Soul: Evolution of Memory Architecture and Cybersecurity
+By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
+| Thu, 23 Oct 2025 02:33:14 GMT | Emulating an APT: A Cloud-Based C2 Infrastructure for Red Team Training | Jorge Taylor | [Read More](https://medium.com/p/b36b46d800f5) |
+| Thu, 23 Oct 2025 02:16:58 GMT | Your Digital Deadbolt: Why MFA is a Must-Have on Everything ✨ | Max Farnga | [Read More](https://medium.com/p/fd4fa66f0819) |
+| Thu, 23 Oct 2025 02:04:10 GMT | The Invisible War: How 250 Documents Can Hijack an AI’s Brain | Rohan Mistry | [Read More](https://medium.com/p/54cf53604866) |
+| Thu, 23 Oct 2025 02:03:23 GMT | React에서 발생할 수 있는 XSS 공격 | 김정운 | [Read More](https://medium.com/p/d922b5dc1251) |
+| Thu, 23 Oct 2025 02:02:04 GMT | RYAN FESTUS CONDUCTS A DATA ANALYSIS ON THE HEALTH SECTOR. ⚕️ | ryan festus | [Read More](https://medium.com/p/04e9e137b487) |
+| Thu, 23 Oct 2025 01:53:27 GMT | Port Security Setup | Mersadi Freeman | [Read More](https://medium.com/p/f69a4159e3b4) |
+| Thu, 23 Oct 2025 01:42:03 GMT | The Power of Self-Reliance: Finding Your Own Umbrella in Life’s Storms | Austi Gene | [Read More](https://medium.com/p/4418a192cb69) |
 | Thu, 23 Oct 2025 01:29:49 GMT | Cuban: 63,564 AIS Remesas Clients information was exposed on an unsecured server. | chum1ng0 | [Read More](https://medium.com/p/80fe63ee1275) |
 | Thu, 23 Oct 2025 01:19:23 GMT | Building Ransomware Resilience — Webinar | Matthew.Rosenquist | [Read More](https://medium.com/p/cc969a8784ba) |
 | Thu, 23 Oct 2025 01:18:25 GMT | Sentinel Achieves SOC 2 Type II Certification | Gold | [Read More](https://medium.com/p/7028bdd85e85) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Oct 2025 17:06:35 GMT | Internet of Things — Integrasi Komponen Dasar melalui Proyek Sederhana | Zifa Tea Azzahra | [Read More](https://medium.com/p/8aae420635d1) |
 | Wed, 22 Oct 2025 17:03:30 GMT | HacktheBox: MetaTwo Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/ca59f776e9f1) |
 | Wed, 22 Oct 2025 17:03:18 GMT | ASP NET Machine Keys Abused to Compromise IIS Servers and Load Malicious Modules | Chetan Seripally | [Read More](https://medium.com/p/aa9bde457afe) |
-| Wed, 22 Oct 2025 17:01:26 GMT | GlassWorm Uses Invisible Code to Compromise VS Code Extensions on OpenVSX Marketplace | Chetan Seripally | [Read More](https://medium.com/p/f93494499ee2) |
-| Wed, 22 Oct 2025 17:00:33 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/7430c6f20e3a) |
-| Wed, 22 Oct 2025 17:00:07 GMT | Cybersecurity in 2025: AI, Hacktivists, and the Digital Tug-of-War | Juan Lage | [Read More](https://medium.com/p/c7f40dce07d6) |
-| Wed, 22 Oct 2025 16:51:47 GMT | The AI Revolution: It’s Here, It’s Big, and Identity Will Unleash Its Full Power | Jim Alkove | [Read More](https://medium.com/p/35605b70d7b1) |
-| Wed, 22 Oct 2025 16:50:30 GMT | Assessing Your Organization’s Cybersecurity Posture A Practical Checklist | DFGates | [Read More](https://medium.com/p/158b3d5863bf) |
-| Wed, 22 Oct 2025 16:49:57 GMT | The macOS Forensic Journey — Application Firewall Logs (appfirewall.log) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c30704063a5e) |
-| Wed, 22 Oct 2025 16:45:05 GMT | Windows System Fundamentals (Windows İşletim Sistemi Temelleri) | Taha Altın | [Read More](https://medium.com/p/66f64d60d1c2) |
-| Wed, 22 Oct 2025 16:32:27 GMT | A Practical Guide to Fine-Tuning Wazuh’s Vulnerability Detection Module | Wilklins Nyatteng | [Read More](https://medium.com/p/b2b15f92fa91) |
-| Wed, 22 Oct 2025 16:19:46 GMT | The AWS US-EAST-1 Outage of October 20, 2025: A DNS Glitch That Exposed the Internet’s Fragile… | H2bm | [Read More](https://medium.com/p/6ef09782272c) |
-| Wed, 22 Oct 2025 16:17:00 GMT | Shocking GPU Vulnerability | Shailendra Kumar | [Read More](https://medium.com/p/1747118e2497) |
-| Wed, 22 Oct 2025 16:11:42 GMT | TryHackMe - Initial Access Pot - WriteUp | Axoloth | [Read More](https://medium.com/p/fc04d202d383) |
-| Wed, 22 Oct 2025 16:10:00 GMT | Bring external AWS accounts into an organization | Rajesh Gundeti | [Read More](https://medium.com/p/15ad11cb0fd3) |
