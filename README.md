@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 10:06:14 GMT | HackTheBox — Lame Notes by R4ndH3x | r4ndh3x | [Read More](https://medium.com/p/68ed42ffb495) |
+| Thu, 23 Oct 2025 10:04:00 GMT | Security and Performance Aspects of Network Namespaces | Eren Cankut Uysal | [Read More](https://medium.com/p/28d9fe618547) |
+| Thu, 23 Oct 2025 10:03:47 GMT | Best VAPT Services Provider in India - Net Access India Limited | Mathewneelan | [Read More](https://medium.com/p/6b4861b530fd) |
+| Thu, 23 Oct 2025 10:03:29 GMT | How the Dark Web Actually Works: The Tech Behind the Curtain(part2) | Mohamed.cybersec | [Read More](https://medium.com/p/a80185ccd2ab) |
+| Thu, 23 Oct 2025 10:01:51 GMT | Full Circle — Standing Where It All Began | Faiza Seidu-Adam | [Read More](https://medium.com/p/1203dce4f676) |
+| Thu, 23 Oct 2025 09:49:38 GMT | Rust to Solidity: HEIR’s Cross-Chain Smart Contract Revolution | HEIR | [Read More](https://medium.com/p/1f4a50fad10c) |
+| Thu, 23 Oct 2025 09:43:30 GMT | Password Here! Authenticate There! | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/6e5cd9d6e3ec) |
+| Thu, 23 Oct 2025 09:39:48 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/fb2a44557285) |
+| Thu, 23 Oct 2025 09:32:45 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/89519eaf1bba) |
+| Thu, 23 Oct 2025 09:31:22 GMT | Frontend Security: The Most Ignored Skill Every Developer Needs in 2025 | Rama Jonnada | [Read More](https://medium.com/p/f94316dc178a) |
 | Thu, 23 Oct 2025 09:30:15 GMT | Silicon Valley’s Secret War: Seduction & Espionage | Truspex | [Read More](https://medium.com/p/96e563ded4c0) |
 | Thu, 23 Oct 2025 09:24:48 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/a294e38d7389) |
 | Thu, 23 Oct 2025 09:21:20 GMT | Stop Hackers Before They Strike: Angular 21 Basics for XSS Protection | Rama Jonnada | [Read More](https://medium.com/p/930d307d7d59) |
@@ -103,13 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Thu, 23 Oct 2025 00:19:36 GMT | Sysmon +Wazuh: The Defense-In-Depth Dynamic Duo | Johnny Meintel | [Read More](https://medium.com/p/a757b254521a) |
 | Thu, 23 Oct 2025 00:10:46 GMT | Why Minecraft Griefers Are Targetting Cracked Servers and Pirates. And Why Thats Good | SupportiveFigure | [Read More](https://medium.com/p/29c07a668daf) |
 | Thu, 23 Oct 2025 00:09:18 GMT | The SIM Swap Scam: How One Text Can Ruin Your Digital Identity | Cyber-AppSec | [Read More](https://medium.com/p/c65c80924ba6) |
-| Thu, 23 Oct 2025 00:03:49 GMT | How I Found Two Role-Based Access Control (RBAC) Vulnerabilities | Muhammad Wageh | [Read More](https://medium.com/p/f6ac62e42b65) |
-| Thu, 23 Oct 2025 00:01:53 GMT | DJINN3 — Walkthrough (Proving Grounds Play) | Maxwell Ferreira | [Read More](https://medium.com/p/f9855b7bda53) |
-| Thu, 23 Oct 2025 00:01:02 GMT | My First Time Deploying a SIEM: Adventures, Mistakes, and Cybersecurity Wins! | Jack Livenspargar | [Read More](https://medium.com/p/b49c1a2a534a) |
-| Wed, 22 Oct 2025 23:39:58 GMT | Diving into attacks, concepts, and techniques in cybersecurity. | CLUE | [Read More](https://medium.com/p/1759bb768672) |
-| Wed, 22 Oct 2025 23:39:01 GMT | A brief moment of being known. | Basia | [Read More](https://medium.com/p/7a229d0bb939) |
-| Wed, 22 Oct 2025 23:22:24 GMT | The Hard Way: How One Repo Crash Taught Me More Than Any Linux Tutorial Ever Could | David Zion | [Read More](https://medium.com/p/01ecaf8a56c7) |
-| Wed, 22 Oct 2025 23:15:12 GMT | Hacker Bounty CTF بالعربي - TryHackme — الغرفة السهلة | OJ Adel | [Read More](https://medium.com/p/42be1435ecb3) |
-| Wed, 22 Oct 2025 22:53:56 GMT | ⏰ How We Exploit Moms’ Time — and Why I’m Learning to Protect Mine | The Gorgeous Deaf Mama | [Read More](https://medium.com/p/a142c710df49) |
-| Wed, 22 Oct 2025 22:52:57 GMT | The E-Waste Black Market: Why Criminals Love Your Old Laptop | Subramanimokkala | [Read More](https://medium.com/p/11086138f4bc) |
-| Wed, 22 Oct 2025 22:51:34 GMT | Bounty Hacker - TryHackme- Easy Level Room | OJ Adel | [Read More](https://medium.com/p/01b893e95c3f) |
