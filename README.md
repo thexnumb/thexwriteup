@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 12:29:53 GMT | The Simple Travel Trick That Keeps Your Luggage Safe | Marc Ford | [Read More](https://medium.com/p/54912a536ba7) |
+| Thu, 23 Oct 2025 12:22:20 GMT | Prioritise: Explore some less common SQL Injection techniques | Huzaifa Malik | [Read More](https://medium.com/p/229b751e9460) |
+| Thu, 23 Oct 2025 12:18:17 GMT | AI’s Secret Mental Health Crisis: What Happens When Your Algorithm Goes ‘Psychotic’? | Berend Watchus | [Read More](https://medium.com/p/b35949fc78bf) |
+| Thu, 23 Oct 2025 12:16:00 GMT | The Hidden Cost of Internet Shutdowns and Censorship | Aytboyev Bobur | [Read More](https://medium.com/p/7aa3feafc26d) |
+| Thu, 23 Oct 2025 12:11:39 GMT | Why Spotify Keeps Crashing on Flagship Phones (2025) and What It Says About Modern App Development | Gadgetshieldz | [Read More](https://medium.com/p/d1925c088202) |
+| Thu, 23 Oct 2025 12:11:10 GMT | The Bright Side of the Dark Web: What It Really Teaches About Security | Asymmetric | [Read More](https://medium.com/p/3a2f5a1839da) |
+| Thu, 23 Oct 2025 12:09:58 GMT | [OverTheWire] Bandit Level 1 → 2 | H$nt | [Read More](https://medium.com/p/6bedc7a9b7a9) |
+| Thu, 23 Oct 2025 12:06:55 GMT | Impacts of DDoS attack | Aytboyev Bobur | [Read More](https://medium.com/p/7c75c49730d3) |
+| Thu, 23 Oct 2025 12:02:48 GMT | What Is IT, Really? | Jordan T. Hold & J. Tucker | [Read More](https://medium.com/p/40d5a1d7159e) |
+| Thu, 23 Oct 2025 12:00:05 GMT | Kindness and Sharing Enhance Our Happiness and Security | Sam David Parker | [Read More](https://medium.com/p/8f7af6e0bb76) |
+| Thu, 23 Oct 2025 11:59:42 GMT | HACKSUDO: THOR VULNHUB WRITE UP | Marianne | [Read More](https://medium.com/p/a48913aafb33) |
+| Thu, 23 Oct 2025 11:51:48 GMT | Cyber: What You Don’t See, You’ll Pay for Three Times Over | Sarah | [Read More](https://medium.com/p/661dc79cc28b) |
+| Thu, 23 Oct 2025 11:49:21 GMT | Third-Party and Supply Chain Risk | Taiyab Lokhandwala | [Read More](https://medium.com/p/17822c9d27a8) |
+| Thu, 23 Oct 2025 11:48:42 GMT | Why is NDR Solutions Essential in Modern Security Strategy? | NetWitness | [Read More](https://medium.com/p/ffdbcb2eff96) |
+| Thu, 23 Oct 2025 11:48:20 GMT | Top Cybersecurity Threats in 2025 and Ho⁠w Ethical H​ackers A⁠re Fightin‌g Them | Aadhidev Anihac | [Read More](https://medium.com/p/a51da15372b1) |
+| Thu, 23 Oct 2025 11:45:37 GMT | Which Links Are Safe and Which Are Not? | Hassan Khattak | [Read More](https://medium.com/p/da4fdb23d9ca) |
+| Thu, 23 Oct 2025 11:44:23 GMT | Why E‍thical Hack​ing Is the Most In-Demand Skill in the Tech Ind‌ustry | Aadhidev Anihac | [Read More](https://medium.com/p/d84171e11b2e) |
+| Thu, 23 Oct 2025 11:42:35 GMT | The Ethics of Hacking: White Hat vs. Black Hat ⚖️ (Etika Peretasan: Topi Putih vs. Topi Hitam) | sihackermok | [Read More](https://medium.com/p/f5735a5ebb9f) |
+| Thu, 23 Oct 2025 11:34:14 GMT | Advanced Ransomware Analysis and Reverse Engineering | Esra Kayhan | [Read More](https://medium.com/p/d2ed5879b4ee) |
 | Thu, 23 Oct 2025 11:22:43 GMT | I Watched Hackers Price My X Account at $847. Here’s What I Learned About Actually Protecting It. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/85e93d11ca4a) |
 | Thu, 23 Oct 2025 11:20:44 GMT | Ethics and Ethical AI in Software Development: Balancing Innovation with Responsibility | Pratik Mistry | [Read More](https://medium.com/p/26ea39c88e57) |
 | Thu, 23 Oct 2025 11:13:52 GMT | How I Passed the ISC2 Certified in Cybersecurity (CC) Exam in 1 Week — Without Paying for Training | Omar Maged Ahmed | [Read More](https://medium.com/p/91c99dced989) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 06:27:57 GMT | SessionReaper: Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw | Germano Costi | [Read More](https://medium.com/p/c7c86a40da33) |
 | Thu, 23 Oct 2025 06:18:12 GMT | The Cybersecurity Job Landscape in 2025: Booming Demand, Skill Gaps, and the Future of Digital… | Onkar Shirke | [Read More](https://medium.com/p/fcb353e21d20) |
 | Thu, 23 Oct 2025 06:04:58 GMT | Cybersecurity in 2025: Critical Trends, Challenges & Strategic Responses | Onkar Shirke | [Read More](https://medium.com/p/e37ff59560b7) |
-| Thu, 23 Oct 2025 06:02:47 GMT | AI Code Review Tools: Comprehensive Comparison and Setup Guide | AlterSquare | [Read More](https://medium.com/p/bfd70180d200) |
-| Thu, 23 Oct 2025 05:58:49 GMT | Teaching Cybersecurity: My Journey Impacting Digital Defense with TechRise 2.0 | Akorita Nehemiah | [Read More](https://medium.com/p/4baf6f8f32d7) |
-| Thu, 23 Oct 2025 05:46:10 GMT | AI Security Gaps: We’re Building Faster Than We’re Securing | Dave Patten | [Read More](https://medium.com/p/6ad445b1119c) |
-| Thu, 23 Oct 2025 05:45:26 GMT | Inside the Mind of an Ethical Hacker: Tools, Techniques, and Mindset | Hassan Talal | [Read More](https://medium.com/p/6a675b7efbd4) |
-| Thu, 23 Oct 2025 05:25:42 GMT | Is AI Finally Learning to Respect Privacy? | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/9bb4eec5f263) |
-| Thu, 23 Oct 2025 05:18:58 GMT | Got initial access. Now what? | DuckWrites | [Read More](https://medium.com/p/5bdd773f391a) |
-| Thu, 23 Oct 2025 05:06:33 GMT | Event Security Planning: How to Keep Large Gatherings Safe from Start to Finish | Liam Truth | [Read More](https://medium.com/p/a2e33779ed3d) |
-| Thu, 23 Oct 2025 04:54:59 GMT | Too Good to Be True: Publishers Clearing House Scams | Spokeo People Search | [Read More](https://medium.com/p/130fd129f3ed) |
-| Thu, 23 Oct 2025 04:45:51 GMT | Accepting Myself | Shashanksunny | [Read More](https://medium.com/p/46c1f901f70a) |
-| Thu, 23 Oct 2025 04:41:08 GMT | Exploit Web-hook Services for Data Exfiltration Attacks | Rubber Pirate | [Read More](https://medium.com/p/897cb7ef748d) |
-| Thu, 23 Oct 2025 04:33:54 GMT | Trusted IT Support Hartford Services to Keep Your Business Running Smoothly | Gainside | [Read More](https://medium.com/p/f6eaf1d8412f) |
-| Thu, 23 Oct 2025 04:26:02 GMT | GenixCMS SQL Injection Vulnerability | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/18cb07ec3627) |
-| Thu, 23 Oct 2025 04:16:10 GMT | Cybersecurity Isn’t About Fear : It’s About Awareness | Muhummad Zaki | [Read More](https://medium.com/p/bdd61dc2eb01) |
-| Thu, 23 Oct 2025 04:13:58 GMT | Top Signs Your Computer Has a Virus (Before It’s Too Late) | Harry Johnson | [Read More](https://medium.com/p/945df6597f7b) |
-| Thu, 23 Oct 2025 04:11:02 GMT | Stored XSS: Bypassing WAF Filters | Taulan Zauzanov | [Read More](https://medium.com/p/4a1e2b0cafcf) |
-| Thu, 23 Oct 2025 04:05:03 GMT | The Sticker That Can Break Facial Recognition (And How It Works) | Indigo Shadow | [Read More](https://medium.com/p/bbbb9ffe7d90) |
-| Thu, 23 Oct 2025 03:49:02 GMT | The Hidden Weakness in Tokenized Finance | Jon Capriola | [Read More](https://medium.com/p/41da89928e97) |
-| Thu, 23 Oct 2025 03:44:34 GMT | Multi-honeypot Platform on Azure using T-Pot | X2Tech | [Read More](https://medium.com/p/10fca1142bfe) |
-| Thu, 23 Oct 2025 03:35:03 GMT | When War Strikes Home: Preparing for the Unthinkable | ElitePromotes | [Read More](https://medium.com/p/01c1886bb71a) |
