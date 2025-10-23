@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 06:29:58 GMT | Preparing for the Post-Quantum Era: Why It Matters and How to Get It Right | Eli Hazan | [Read More](https://medium.com/p/666e1ddef327) |
+| Thu, 23 Oct 2025 06:29:54 GMT | The Terminator (1984) and the World We’re Entering | Sasono Utomo | [Read More](https://medium.com/p/3aeedfa6d8e1) |
+| Thu, 23 Oct 2025 06:27:57 GMT | SessionReaper: Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw | Germano Costi | [Read More](https://medium.com/p/c7c86a40da33) |
+| Thu, 23 Oct 2025 06:18:12 GMT | The Cybersecurity Job Landscape in 2025: Booming Demand, Skill Gaps, and the Future of Digital… | Onkar Shirke | [Read More](https://medium.com/p/fcb353e21d20) |
+| Thu, 23 Oct 2025 06:04:58 GMT | Cybersecurity in 2025: Critical Trends, Challenges & Strategic Responses | Onkar Shirke | [Read More](https://medium.com/p/e37ff59560b7) |
+| Thu, 23 Oct 2025 06:02:47 GMT | AI Code Review Tools: Comprehensive Comparison and Setup Guide | AlterSquare | [Read More](https://medium.com/p/bfd70180d200) |
+| Thu, 23 Oct 2025 05:58:49 GMT | Teaching Cybersecurity: My Journey Impacting Digital Defense with TechRise 2.0 | Akorita Nehemiah | [Read More](https://medium.com/p/4baf6f8f32d7) |
+| Thu, 23 Oct 2025 05:46:10 GMT | AI Security Gaps: We’re Building Faster Than We’re Securing | Dave Patten | [Read More](https://medium.com/p/6ad445b1119c) |
+| Thu, 23 Oct 2025 05:45:26 GMT | Inside the Mind of an Ethical Hacker: Tools, Techniques, and Mindset | Hassan Talal | [Read More](https://medium.com/p/6a675b7efbd4) |
 | Thu, 23 Oct 2025 05:25:42 GMT | Is AI Finally Learning to Respect Privacy? | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/9bb4eec5f263) |
 | Thu, 23 Oct 2025 05:18:58 GMT | Got initial access. Now what? | DuckWrites | [Read More](https://medium.com/p/5bdd773f391a) |
 | Thu, 23 Oct 2025 05:06:33 GMT | Event Security Planning: How to Keep Large Gatherings Safe from Start to Finish | Liam Truth | [Read More](https://medium.com/p/a2e33779ed3d) |
@@ -104,12 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 18:51:29 GMT | Reflections from the Young Indo-Pacific Forum 2025: Re-centering Europe’s Role | Putra Perdana | [Read More](https://medium.com/p/df4d5e193e56) |
 | Wed, 22 Oct 2025 18:51:27 GMT | I Got Scammed! : How I Fell for a Language Course Scam | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/87c5053b152c) |
 | Wed, 22 Oct 2025 18:50:39 GMT | Operating Systems You’ll Use Every Day: Windows, Linux, macOS Explained | Aj | [Read More](https://medium.com/p/07aff329c810) |
-| Wed, 22 Oct 2025 18:47:02 GMT | Protecting Sensitive Data in AI Workflows | Evan M. Rose | [Read More](https://medium.com/p/c0faf568f468) |
-| Wed, 22 Oct 2025 18:29:22 GMT | My LinkedIn Hack Story | Rohan Patil | [Read More](https://medium.com/p/a0a2a51c082b) |
-| Wed, 22 Oct 2025 18:28:02 GMT | Security by Design: Embedding Protection into Business Infrastructure from Day One | Fortnexs Shield | [Read More](https://medium.com/p/03ddd13f255a) |
-| Wed, 22 Oct 2025 18:17:05 GMT | Beyond Detection: Building Organizational Immunity to AI Misinformation | Esther Abel | [Read More](https://medium.com/p/77f1efae9ab8) |
-| Wed, 22 Oct 2025 18:11:51 GMT | Why OT Cybersecurity Is About People, Not Just Tech | Cyberkech | [Read More](https://medium.com/p/fe9f20302efc) |
-| Wed, 22 Oct 2025 18:07:34 GMT | During my cybersecurity training, I completed a hands-on lab using Burp Suite and OWASP Juice Shop… | Adeleke Theophilus O | [Read More](https://medium.com/p/295f4fc8cf0f) |
-| Wed, 22 Oct 2025 18:06:37 GMT | Digital Footprint Management for OSINT Professionals | Nazrul Islam Rana | [Read More](https://medium.com/p/286868c8bbde) |
-| Wed, 22 Oct 2025 18:03:51 GMT | Password Managers: Which One Should Your Team Use? | JSOC IT BLOG | [Read More](https://medium.com/p/4aa5aac1b41d) |
-| Wed, 22 Oct 2025 18:00:40 GMT | Day 4: Network Devices & Topologies — Understanding Switches, Routers, Firewalls, and Common… | HackTrace | [Read More](https://medium.com/p/86567a0f8e56) |
