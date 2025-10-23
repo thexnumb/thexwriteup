@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 04:26:02 GMT | GenixCMS SQL Injection Vulnerability | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/18cb07ec3627) |
+| Thu, 23 Oct 2025 04:16:10 GMT | Cybersecurity Isn’t About Fear : It’s About Awareness | Muhummad Zaki | [Read More](https://medium.com/p/bdd61dc2eb01) |
 | Thu, 23 Oct 2025 04:13:58 GMT | Top Signs Your Computer Has a Virus (Before It’s Too Late) | Harry Johnson | [Read More](https://medium.com/p/945df6597f7b) |
 | Thu, 23 Oct 2025 04:11:02 GMT | Stored XSS: Bypassing WAF Filters | Taulan Zauzanov | [Read More](https://medium.com/p/4a1e2b0cafcf) |
 | Thu, 23 Oct 2025 04:05:03 GMT | The Sticker That Can Break Facial Recognition (And How It Works) | Indigo Shadow | [Read More](https://medium.com/p/bbbb9ffe7d90) |
@@ -111,5 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 17:29:08 GMT | Azure Apps Vulnerability Lets Hackers Create Malicious Apps Mimicking Microsoft Teams | Aniket Sharma | [Read More](https://medium.com/p/0a2e43f61be4) |
 | Wed, 22 Oct 2025 17:28:19 GMT | File Signature Validation in .NET | Mohammed Ahmed Hussien | [Read More](https://medium.com/p/8d6eee845342) |
 | Wed, 22 Oct 2025 17:25:31 GMT | From Service Management to Security Mindset: My CISSP Story | Sajith Sathyan | [Read More](https://medium.com/p/79cb1e2575fd) |
-| Wed, 22 Oct 2025 17:24:41 GMT | The Hidden Internet You Never See — Inside the Deep and Dark Web | Hafizbilaltariq | [Read More](https://medium.com/p/819bcf44a8f9) |
-| Wed, 22 Oct 2025 17:24:01 GMT | Chinese Hackers Exploit ToolShell Vulnerability to Compromise Networks Worldwide | Aniket Sharma | [Read More](https://medium.com/p/8ad69f98369f) |
