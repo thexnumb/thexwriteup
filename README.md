@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 22:01:00 GMT | Privacy Isn’t About Hiding. It’s About Control. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e30289142939) |
+| Thu, 23 Oct 2025 21:59:46 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c04db5c3877b) |
+| Thu, 23 Oct 2025 21:55:40 GMT | Threat Hunting with DNS Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/362531cddb8e) |
+| Thu, 23 Oct 2025 21:52:18 GMT | Mastering Burp Intruder: Sniper, Battering Ram, Pitchfork & Cluster Bomb | Nidhin Chandran R | [Read More](https://medium.com/p/58c6db3950b0) |
+| Thu, 23 Oct 2025 21:49:15 GMT | When an Email Field Outsmarted Its Own Validator | SmaRTy | [Read More](https://medium.com/p/9f39acd38afa) |
+| Thu, 23 Oct 2025 21:46:25 GMT | How to write a Nuclei Template | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/8208645c8fc3) |
+| Thu, 23 Oct 2025 21:38:44 GMT | Crack the Gate 2 picoMINI | Aderogbarufai | [Read More](https://medium.com/p/d6aae6cbca03) |
+| Thu, 23 Oct 2025 21:38:15 GMT | The Art of Google Dorking: From Vulnerability Discovery to Security Enhancement | N0aziXss | [Read More](https://medium.com/p/beeba448159d) |
 | Thu, 23 Oct 2025 21:34:12 GMT | Cyber Kill Chain | Isiah | [Read More](https://medium.com/p/2f24fd576977) |
 | Thu, 23 Oct 2025 21:33:52 GMT | CVE-2025–55315: A 9.9 Critical Vulnerability Impacting Legacy .NET — and Now Confirmed on .NET 6 | Jared Rhodes | [Read More](https://medium.com/p/dd349bf7f215) |
 | Thu, 23 Oct 2025 21:32:49 GMT | La Corporación (The Hacker Labs) | FeCeSociety | [Read More](https://medium.com/p/5a5aaa0e7959) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 14:25:43 GMT | App Security: How Safe Are Your Favourite Apps? | Aysha Misri | [Read More](https://medium.com/p/bf9db31aa158) |
 | Thu, 23 Oct 2025 14:18:36 GMT | 10 Python Tricks Every Backend Developer Should Know in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/fa5bc29ac283) |
 | Thu, 23 Oct 2025 14:11:49 GMT | Vulnerability Hangover | Sarah Veyland | [Read More](https://medium.com/p/f98f0bd0b160) |
-| Thu, 23 Oct 2025 14:10:12 GMT | Synthetic Threats | january1073 | [Read More](https://medium.com/p/c96f620e92d7) |
-| Thu, 23 Oct 2025 14:06:34 GMT | 11 PostgreSQL Query Optimization Techniques That Saved a Startup From Collapse | Rizqi Mulki | [Read More](https://medium.com/p/aa494158b79f) |
-| Thu, 23 Oct 2025 14:01:55 GMT | Cyber Briefing: 2025.10.23 | CyberMaterial | [Read More](https://medium.com/p/34d2ee0e2eba) |
-| Thu, 23 Oct 2025 14:01:05 GMT | Why AuthenticationProvider is the Heart of Spring Security (And How to Use It) | PraveenCodes | [Read More](https://medium.com/p/eb053988d047) |
-| Thu, 23 Oct 2025 13:57:10 GMT | The Power of Open-Source Intelligence (OSINT): Turning Public Data into Strategic Insight | Md Rakibul Islam | [Read More](https://medium.com/p/c1ffe0a58e2e) |
-| Thu, 23 Oct 2025 13:51:30 GMT | CVE‑2025‑11279 — RCE via CSV Injection (Part 1: CSV Injection) | Nakul Singh | [Read More](https://medium.com/p/028efc345d6d) |
-| Thu, 23 Oct 2025 13:50:08 GMT | A Fun Dive into ISO 27001 Clause 6 | Parull Sharma | [Read More](https://medium.com/p/b5198c3b10b1) |
-| Thu, 23 Oct 2025 13:29:06 GMT | Hidden in plainsight — PicoCTF Writeup | Ahmed Shalaby | [Read More](https://medium.com/p/7c6fbd78b3d0) |
