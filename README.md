@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 11:13:52 GMT | How I Passed the ISC2 Certified in Cybersecurity (CC) Exam in 1 Week — Without Paying for Training | Omar Maged Ahmed | [Read More](https://medium.com/p/91c99dced989) |
+| Thu, 23 Oct 2025 11:12:39 GMT | Fast IT Support in North West London | Gary Marshall | [Read More](https://medium.com/p/6f7e4e6b0490) |
+| Thu, 23 Oct 2025 11:10:54 GMT | Your Brain Has Been Hacked: Here’s How to Take It Back | Pannag Kumaar | [Read More](https://medium.com/p/0367239df0a7) |
+| Thu, 23 Oct 2025 11:08:53 GMT | VLAN | Zurichsabil | [Read More](https://medium.com/p/bf91e368cb99) |
+| Thu, 23 Oct 2025 11:03:32 GMT | The benefits of Configuration Management for UK SMBs and public sector organisations | Owtanet | [Read More](https://medium.com/p/82739a555257) |
+| Thu, 23 Oct 2025 11:01:51 GMT | Writeup for picoCTF challenge “Inspect HTML” | Walter Moar | [Read More](https://medium.com/p/2ae24f4f8a93) |
+| Thu, 23 Oct 2025 11:00:58 GMT | 5 Common Security Gaps IT Security Audit Companies Can Help You Fix | SmartCLOUD Australia | [Read More](https://medium.com/p/c05f1a339a0d) |
+| Thu, 23 Oct 2025 10:58:56 GMT | Jeopardy Hacking? Level Up Your Skills Now! | SilentInject | [Read More](https://medium.com/p/afd04e157358) |
+| Thu, 23 Oct 2025 10:47:13 GMT | From Recon to RCE: How I Scored My First Critical BugIntroduction | Eslam Gamal | [Read More](https://medium.com/p/a740ff8b2d6b) |
+| Thu, 23 Oct 2025 10:47:11 GMT | Introducing Blue Cyber Defense Intelligence (BCDI) — Powered by Blueprint Society | Blue King | [Read More](https://medium.com/p/51a5fe9c5589) |
+| Thu, 23 Oct 2025 10:46:29 GMT | How Kochi is Becoming the Next Cybersec‍urity Education Hub | Aadhidev Anihac | [Read More](https://medium.com/p/1f0ba446d9d1) |
+| Thu, 23 Oct 2025 10:45:09 GMT | AI-Generated Malware & the Rise of “Malware-as-a-Prompt” | Jackdavis Iap | [Read More](https://medium.com/p/75cd56e2346c) |
+| Thu, 23 Oct 2025 10:45:08 GMT | [OverTheWire] Bandit Level 0 | H$nt | [Read More](https://medium.com/p/750e2ee04667) |
+| Thu, 23 Oct 2025 10:41:21 GMT | 【Air-Gap Hardware Wallet】Digital Shield: Building the Next Generation of Web3 Security Through… | Digital Shield Offcial | [Read More](https://medium.com/p/609f645d89d6) |
+| Thu, 23 Oct 2025 10:39:08 GMT | 【Universal Security Manifesto】Digital Shield: Restoring Digital Sovereignty to Everyone | Digital Shield Offcial | [Read More](https://medium.com/p/dee5b9c2126c) |
+| Thu, 23 Oct 2025 10:37:06 GMT | Nature Explorer: Discovering the Untamed Beauty of Our Planet | Nature Explorer | [Read More](https://medium.com/p/5b9a8981522f) |
+| Thu, 23 Oct 2025 10:35:44 GMT | Guarding Sovereignty Begins with Security Equality: How Digital Shield is Defining the New Standard… | Digital Shield | [Read More](https://medium.com/p/7b8b13561667) |
+| Thu, 23 Oct 2025 10:35:17 GMT | 【Air-Gap Hardware Wallet】Digital Shield: Building the Next Generation of Web3 Security Through… | Digital Shield | [Read More](https://medium.com/p/cc19dfb2bff9) |
 | Thu, 23 Oct 2025 10:30:25 GMT | From the archive: Apple Mac Classic vs IBM PS/1 | Mansfield-Devine | [Read More](https://medium.com/p/5770e2f59522) |
 | Thu, 23 Oct 2025 10:29:10 GMT | 【Universal Security Manifesto】Digital Shield: Restoring Digital Sovereignty to Everyone | Digital Shield | [Read More](https://medium.com/p/a6cf809693f7) |
 | Thu, 23 Oct 2025 10:27:54 GMT | How Cybersecurity Consulting Services Can Prevent Costly Data Breaches | sureshseo offpage | [Read More](https://medium.com/p/8d0cc22ae083) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 03:35:03 GMT | When War Strikes Home: Preparing for the Unthinkable | ElitePromotes | [Read More](https://medium.com/p/01c1886bb71a) |
 | Thu, 23 Oct 2025 03:31:51 GMT | When Phishing Meets AI: The Hidden Threat of Prompt Injection | Deven Chhajed | [Read More](https://medium.com/p/8f34c0611259) |
 | Thu, 23 Oct 2025 03:28:09 GMT | Membangun UI Interaktif dan Modern dengan Framer Motion | Anjas Rani | [Read More](https://medium.com/p/d034c6395a27) |
-| Thu, 23 Oct 2025 03:28:05 GMT | How I can discover the winner before the official reveal | Viperblitzz | [Read More](https://medium.com/p/2a03ebcd3199) |
-| Thu, 23 Oct 2025 03:05:26 GMT | Critical: 3,894 SonicWall SSL VPNs at Risk of OVERSTEP Exploit and MFA Bypass | Criminal IP | [Read More](https://medium.com/p/9ce1489aff84) |
-| Thu, 23 Oct 2025 03:03:52 GMT | From Burp Suite to BloodHound: The Career Roadmap of an Offensive Security Pro | Yua Mikanana | [Read More](https://medium.com/p/3b323bded429) |
-| Thu, 23 Oct 2025 02:57:48 GMT | Cybersecurity of 5G Technology and Services | Muhammad Ali Khan | [Read More](https://medium.com/p/0d961a0365b6) |
-| Thu, 23 Oct 2025 02:49:23 GMT | Cloud Security 360 | Muhammad Ali Khan | [Read More](https://medium.com/p/cdd70a189e0b) |
-| Thu, 23 Oct 2025 02:47:13 GMT | The Growing Epidemic of Scams Targeting Seniors: What You Need to Know | SenCyberly Inc | [Read More](https://medium.com/p/61c2476cbc52) |
-| Thu, 23 Oct 2025 02:43:26 GMT | The Quantum Soul: Evolution of Memory Architecture and Cybersecurity
-By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
-| Thu, 23 Oct 2025 02:33:14 GMT | Emulating an APT: A Cloud-Based C2 Infrastructure for Red Team Training | Jorge Taylor | [Read More](https://medium.com/p/b36b46d800f5) |
-| Thu, 23 Oct 2025 02:16:58 GMT | Your Digital Deadbolt: Why MFA is a Must-Have on Everything ✨ | Max Farnga | [Read More](https://medium.com/p/fd4fa66f0819) |
-| Thu, 23 Oct 2025 02:04:10 GMT | The Invisible War: How 250 Documents Can Hijack an AI’s Brain | Rohan Mistry | [Read More](https://medium.com/p/54cf53604866) |
-| Thu, 23 Oct 2025 02:03:23 GMT | React에서 발생할 수 있는 XSS 공격 | 김정운 | [Read More](https://medium.com/p/d922b5dc1251) |
-| Thu, 23 Oct 2025 02:02:04 GMT | RYAN FESTUS CONDUCTS A DATA ANALYSIS ON THE HEALTH SECTOR. ⚕️ | ryan festus | [Read More](https://medium.com/p/04e9e137b487) |
-| Thu, 23 Oct 2025 01:53:27 GMT | Port Security Setup | Mersadi Freeman | [Read More](https://medium.com/p/f69a4159e3b4) |
-| Thu, 23 Oct 2025 01:42:03 GMT | The Power of Self-Reliance: Finding Your Own Umbrella in Life’s Storms | Austi Gene | [Read More](https://medium.com/p/4418a192cb69) |
-| Thu, 23 Oct 2025 01:29:49 GMT | Cuban: 63,564 AIS Remesas Clients information was exposed on an unsecured server. | chum1ng0 | [Read More](https://medium.com/p/80fe63ee1275) |
-| Thu, 23 Oct 2025 01:19:23 GMT | Building Ransomware Resilience — Webinar | Matthew.Rosenquist | [Read More](https://medium.com/p/cc969a8784ba) |
-| Thu, 23 Oct 2025 01:18:25 GMT | Sentinel Achieves SOC 2 Type II Certification | Gold | [Read More](https://medium.com/p/7028bdd85e85) |
-| Thu, 23 Oct 2025 01:13:53 GMT | Burp Intruder — Attack Types | Nathanael Praditya | [Read More](https://medium.com/p/8a4e5d518eae) |
