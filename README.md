@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 08:46:01 GMT | PCI DSS 4.0 Remediation 2025: 7 Rapid Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/550ae2ec4d3c) |
+| Thu, 23 Oct 2025 08:45:57 GMT | Understanding the External Risk Escalation Life Cycle | Pietro Romano / SecBeret | [Read More](https://medium.com/p/914796cbd446) |
+| Thu, 23 Oct 2025 08:43:11 GMT | From Sevilla to Sovereignty: Rethinking Debt, Growth, and Global Resilience | InGBTech | [Read More](https://medium.com/p/2de15fd702d6) |
+| Thu, 23 Oct 2025 08:40:04 GMT | Top 10 Most Common Cyber Attacks — and One Line of Code to Prevent Each | Narcis Radoi | [Read More](https://medium.com/p/ff7856b2ab8b) |
+| Thu, 23 Oct 2025 08:39:46 GMT | Authentication vs Authorization: What’s the Difference? | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/9346bda125c7) |
+| Thu, 23 Oct 2025 08:34:17 GMT | Cyberéconomie : combien ça coûte de bien se protéger ? | Rebecca Cottignies | [Read More](https://medium.com/p/6d853b36e29f) |
+| Thu, 23 Oct 2025 08:33:00 GMT | URLScan Python Automated Recon | Abhirup Konwar | [Read More](https://medium.com/p/53ac187c5156) |
+| Thu, 23 Oct 2025 08:26:07 GMT | Securing IoT and Critical Infrastructure in 2025: How AI Changes Cyber Defense | DevKit | [Read More](https://medium.com/p/77402f3c0793) |
+| Thu, 23 Oct 2025 08:22:05 GMT | AI in Defense and Cybersecurity Sector | Blue King | [Read More](https://medium.com/p/51837af7c911) |
 | Thu, 23 Oct 2025 08:11:16 GMT | Palo Alto Networks Supply Chain Risk Assessment: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77e5e63dc5e5) |
 | Thu, 23 Oct 2025 08:08:45 GMT | HTTP vs SOCKS5 Proxies: What’s the Difference? | ProxiesThatWork | [Read More](https://medium.com/p/c0f633db8203) |
 | Thu, 23 Oct 2025 08:04:10 GMT | Top 11 Web Application Firewalls for 2026 — Deep Review | Maverick Steel | [Read More](https://medium.com/p/bbd65747eeda) |
@@ -104,12 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 21:28:31 GMT | No One is Safe Not Even 2nd Amendment Enthusiasts | Debi Reuter | [Read More](https://medium.com/p/992f05b775c1) |
 | Wed, 22 Oct 2025 21:18:17 GMT | HACK THE BOX : Don’t Panic ! walkthrough and writeup — how I solved it | hehash | [Read More](https://medium.com/p/51eb8b6f4985) |
 | Wed, 22 Oct 2025 21:15:11 GMT | Day 17 of my Cybersecurity Journey: Wireshark Basics I | Ogundipe Priscilla | [Read More](https://medium.com/p/d617730016a9) |
-| Wed, 22 Oct 2025 21:01:51 GMT | Do You Know Who Protects the Digital World? It’s Cybersecurity | Vertex University | [Read More](https://medium.com/p/ae0047c79f8d) |
-| Wed, 22 Oct 2025 20:59:18 GMT | Hackviser — Comicstore Scenario Walkthrough | Minosh Umayanga | [Read More](https://medium.com/p/248da295e04b) |
-| Wed, 22 Oct 2025 20:57:02 GMT | XSS Attack Demonstration: Preventing XSS in Web Application Backends (Part 3/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/b0da08a1ef98) |
-| Wed, 22 Oct 2025 20:53:14 GMT | EagleSpy: The Android RAT | Twinkle Jaineera | [Read More](https://medium.com/p/f7634d1cd541) |
-| Wed, 22 Oct 2025 20:50:53 GMT | Best of Both Worlds: EthoGPT Ethics and AresGPT Defense | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/9df60c0c6197) |
-| Wed, 22 Oct 2025 20:42:03 GMT | 9. Security | vivukhue | [Read More](https://medium.com/p/6149d1d7bda0) |
-| Wed, 22 Oct 2025 20:33:46 GMT | Why People Fall for Scams | Godsway R. Akakpo | [Read More](https://medium.com/p/c5a6055375b8) |
-| Wed, 22 Oct 2025 20:07:58 GMT | Pyramid of Pain - THM | Isiah | [Read More](https://medium.com/p/86b397a6b909) |
-| Wed, 22 Oct 2025 19:55:48 GMT | Linux Basics for SOC Analysts: My First Hands-On Log Analysis Day | Jenna S | [Read More](https://medium.com/p/5b0b34c92d8c) |
