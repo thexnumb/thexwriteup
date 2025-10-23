@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 10:30:25 GMT | From the archive: Apple Mac Classic vs IBM PS/1 | Mansfield-Devine | [Read More](https://medium.com/p/5770e2f59522) |
+| Thu, 23 Oct 2025 10:29:10 GMT | 【Universal Security Manifesto】Digital Shield: Restoring Digital Sovereignty to Everyone | Digital Shield | [Read More](https://medium.com/p/a6cf809693f7) |
+| Thu, 23 Oct 2025 10:27:54 GMT | How Cybersecurity Consulting Services Can Prevent Costly Data Breaches | sureshseo offpage | [Read More](https://medium.com/p/8d0cc22ae083) |
+| Thu, 23 Oct 2025 10:23:55 GMT | DockerLabs Writeup — Stack (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e3f826e28730) |
+| Thu, 23 Oct 2025 10:18:51 GMT | Today’s Top Cyber Intelligence Highlights — Oct 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9d24191bed83) |
 | Thu, 23 Oct 2025 10:06:14 GMT | HackTheBox — Lame Notes by R4ndH3x | r4ndh3x | [Read More](https://medium.com/p/68ed42ffb495) |
 | Thu, 23 Oct 2025 10:04:00 GMT | Security and Performance Aspects of Network Namespaces | Eren Cankut Uysal | [Read More](https://medium.com/p/28d9fe618547) |
 | Thu, 23 Oct 2025 10:03:47 GMT | Best VAPT Services Provider in India - Net Access India Limited | Mathewneelan | [Read More](https://medium.com/p/6b4861b530fd) |
@@ -108,8 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Thu, 23 Oct 2025 01:19:23 GMT | Building Ransomware Resilience — Webinar | Matthew.Rosenquist | [Read More](https://medium.com/p/cc969a8784ba) |
 | Thu, 23 Oct 2025 01:18:25 GMT | Sentinel Achieves SOC 2 Type II Certification | Gold | [Read More](https://medium.com/p/7028bdd85e85) |
 | Thu, 23 Oct 2025 01:13:53 GMT | Burp Intruder — Attack Types | Nathanael Praditya | [Read More](https://medium.com/p/8a4e5d518eae) |
-| Thu, 23 Oct 2025 00:50:43 GMT | The Hidden Truth About the AI Boom: Why the Tech Bubble Might Burst Sooner Than You Think | sana irshad | [Read More](https://medium.com/p/a883cb711d76) |
-| Thu, 23 Oct 2025 00:25:04 GMT | Cybersecurity Certifications That Can Actually Make You Money | The Reboot | [Read More](https://medium.com/p/ca680cc8ab7d) |
-| Thu, 23 Oct 2025 00:19:36 GMT | Sysmon +Wazuh: The Defense-In-Depth Dynamic Duo | Johnny Meintel | [Read More](https://medium.com/p/a757b254521a) |
-| Thu, 23 Oct 2025 00:10:46 GMT | Why Minecraft Griefers Are Targetting Cracked Servers and Pirates. And Why Thats Good | SupportiveFigure | [Read More](https://medium.com/p/29c07a668daf) |
-| Thu, 23 Oct 2025 00:09:18 GMT | The SIM Swap Scam: How One Text Can Ruin Your Digital Identity | Cyber-AppSec | [Read More](https://medium.com/p/c65c80924ba6) |
