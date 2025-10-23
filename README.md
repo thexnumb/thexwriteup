@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 09:05:31 GMT | Cyber Security: Protecting Your Digital Assets | Cyber Security Research | [Read More](https://medium.com/p/e53461924b87) |
+| Thu, 23 Oct 2025 09:03:36 GMT | Top 10 OSINT Tools to Check AI Text Generation in 2025 | VerifyHQ | [Read More](https://medium.com/p/624934d6f77b) |
+| Thu, 23 Oct 2025 09:03:24 GMT | Photo by Eric Dekker on Unsplash | Mr Mubarok | [Read More](https://medium.com/p/a592f37a12c4) |
+| Thu, 23 Oct 2025 09:02:40 GMT | SOC 2 vs PCI DSS in Fintech: Key Differences & Requirements | Hicomply | [Read More](https://medium.com/p/94f24ed1731b) |
+| Thu, 23 Oct 2025 08:57:44 GMT | Rust | Alex Bon | [Read More](https://medium.com/p/a6d6b5d243d1) |
+| Thu, 23 Oct 2025 08:55:35 GMT | Top 5 Reasons Your Business Should Have CCTV Surveillance | Marcela John | [Read More](https://medium.com/p/577dcc530561) |
+| Thu, 23 Oct 2025 08:53:50 GMT | The Hidden Side of Continuous Learning | Vijay Kumar Gupta | [Read More](https://medium.com/p/1b254f54a302) |
+| Thu, 23 Oct 2025 08:51:23 GMT | Phishing Nightmare: “Dad Clicked the Link!” | Authlyn | [Read More](https://medium.com/p/62f260059217) |
 | Thu, 23 Oct 2025 08:46:01 GMT | PCI DSS 4.0 Remediation 2025: 7 Rapid Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/550ae2ec4d3c) |
 | Thu, 23 Oct 2025 08:45:57 GMT | Understanding the External Risk Escalation Life Cycle | Pietro Romano / SecBeret | [Read More](https://medium.com/p/914796cbd446) |
 | Thu, 23 Oct 2025 08:43:11 GMT | From Sevilla to Sovereignty: Rethinking Debt, Growth, and Global Resilience | InGBTech | [Read More](https://medium.com/p/2de15fd702d6) |
@@ -105,11 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 22:48:44 GMT | The Harmonic Witness: | Jessica McGlothern | [Read More](https://medium.com/p/25d3b1dafdb1) |
 | Wed, 22 Oct 2025 22:37:20 GMT | $2000 Bounty: From Browser to Burp | Monika sharma | [Read More](https://medium.com/p/290dcb10f386) |
 | Wed, 22 Oct 2025 22:37:15 GMT | Networking Basics for Security Folks: TCP/IP Without the Headache | Aj | [Read More](https://medium.com/p/6987420dca9a) |
-| Wed, 22 Oct 2025 22:28:52 GMT | The Uncanny Valley of AI: How It’s Causing More Harm than Good to Our Critical Thinking Skills | Olivia Love | [Read More](https://medium.com/p/1fc19686bf14) |
-| Wed, 22 Oct 2025 22:07:14 GMT | I Just Learned About the “Pixnapping” Attack on Android | Ryan W | [Read More](https://medium.com/p/c31583a8822a) |
-| Wed, 22 Oct 2025 21:54:11 GMT | You Have Been Robbed! — By Etsy?! | dataminerals | [Read More](https://medium.com/p/b8d6ed22a58a) |
-| Wed, 22 Oct 2025 21:54:05 GMT | Hey Grok: What is DVIUS? | SinVictus | [Read More](https://medium.com/p/7ae886178c9e) |
-| Wed, 22 Oct 2025 21:39:18 GMT | From Cloud to Continuum: The Future of Connected Infrastructure | Nagaraj Ramakrishna | [Read More](https://medium.com/p/f392cdc0342c) |
-| Wed, 22 Oct 2025 21:28:31 GMT | No One is Safe Not Even 2nd Amendment Enthusiasts | Debi Reuter | [Read More](https://medium.com/p/992f05b775c1) |
-| Wed, 22 Oct 2025 21:18:17 GMT | HACK THE BOX : Don’t Panic ! walkthrough and writeup — how I solved it | hehash | [Read More](https://medium.com/p/51eb8b6f4985) |
-| Wed, 22 Oct 2025 21:15:11 GMT | Day 17 of my Cybersecurity Journey: Wireshark Basics I | Ogundipe Priscilla | [Read More](https://medium.com/p/d617730016a9) |
