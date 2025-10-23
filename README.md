@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 18:00:27 GMT | Ethical and Regulatory Frameworks for Generative AI in Cybersecurity | Chad Barr | [Read More](https://medium.com/p/258e1c96a3fd) |
+| Thu, 23 Oct 2025 17:58:36 GMT | Web Development Baseline Essentials for Sri Lankan Research Non‑Profits | Nandula Asel Karunasingha | [Read More](https://medium.com/p/f83a45baa6ee) |
+| Thu, 23 Oct 2025 17:58:05 GMT | Simulation’s New Playbook: Shifting from Movement-Based Games to Strategic Industry Case Scenarios | Berend Watchus | [Read More](https://medium.com/p/b1591b8fe368) |
+| Thu, 23 Oct 2025 17:55:26 GMT | Book 3 : Ghosts of Balochistan: The Border Lies, the Truth Hides (The R & A.W. | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/50549ef92761) |
+| Thu, 23 Oct 2025 17:54:57 GMT | The Rise of Bug Bounty Hunters: How Ethical Hacking Became a Global Profession | Hassan Talal | [Read More](https://medium.com/p/193db48a9b5e) |
+| Thu, 23 Oct 2025 17:43:23 GMT | Why JWTs are a Security Minefield and What to Use Instead in 2025 ⚠️ | Indrajit | [Read More](https://medium.com/p/ff6109f88db0) |
+| Thu, 23 Oct 2025 17:40:48 GMT | Silent Footprint CTF by INE | The.Flying.Wolf | [Read More](https://medium.com/p/663f4b7ee3d6) |
+| Thu, 23 Oct 2025 17:39:29 GMT | Email Forensics Made Easy: Spotting Phishing & Spoofing Attacks | ze4rch1tect | [Read More](https://medium.com/p/2ccd6da2a505) |
+| Thu, 23 Oct 2025 17:38:43 GMT | Magento RCE Crisis Three in Five Stores Found Vulnerable as Exploits Hit the Wild | Chetan Seripally | [Read More](https://medium.com/p/d06cbc288cc9) |
 | Thu, 23 Oct 2025 17:31:01 GMT | Is ChatGPT Making It Easier for Scammers to Trick You? | Spokeo People Search | [Read More](https://medium.com/p/640bbdbd8db9) |
 | Thu, 23 Oct 2025 17:20:01 GMT | Day 5 — Routing & Switching Basics: Understanding Static & Dynamic Routing, VLANs, and NAT | HackTrace | [Read More](https://medium.com/p/28d308d33bc9) |
 | Thu, 23 Oct 2025 17:19:01 GMT | “It’s Not Paranoia, It’s Shared”: What We Get Wrong About Password Sharing | Ivan Junior | [Read More](https://medium.com/p/5ad5ff3ae479) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 12:06:55 GMT | Impacts of DDoS attack | Aytboyev Bobur | [Read More](https://medium.com/p/7c75c49730d3) |
 | Thu, 23 Oct 2025 12:02:48 GMT | What Is IT, Really? | Jordan T. Hold & J. Tucker | [Read More](https://medium.com/p/40d5a1d7159e) |
 | Thu, 23 Oct 2025 12:00:05 GMT | Kindness and Sharing Enhance Our Happiness and Security | Sam David Parker | [Read More](https://medium.com/p/8f7af6e0bb76) |
-| Thu, 23 Oct 2025 11:59:42 GMT | HACKSUDO: THOR VULNHUB WRITE UP | Marianne | [Read More](https://medium.com/p/a48913aafb33) |
-| Thu, 23 Oct 2025 11:51:48 GMT | Cyber: What You Don’t See, You’ll Pay for Three Times Over | Sarah | [Read More](https://medium.com/p/661dc79cc28b) |
-| Thu, 23 Oct 2025 11:49:21 GMT | Third-Party and Supply Chain Risk | Taiyab Lokhandwala | [Read More](https://medium.com/p/17822c9d27a8) |
-| Thu, 23 Oct 2025 11:48:42 GMT | Why is NDR Solutions Essential in Modern Security Strategy? | NetWitness | [Read More](https://medium.com/p/ffdbcb2eff96) |
-| Thu, 23 Oct 2025 11:48:20 GMT | Top Cybersecurity Threats in 2025 and Ho⁠w Ethical H​ackers A⁠re Fightin‌g Them | Aadhidev Anihac | [Read More](https://medium.com/p/a51da15372b1) |
-| Thu, 23 Oct 2025 11:45:37 GMT | Which Links Are Safe and Which Are Not? | Hassan Khattak | [Read More](https://medium.com/p/da4fdb23d9ca) |
-| Thu, 23 Oct 2025 11:44:23 GMT | Why E‍thical Hack​ing Is the Most In-Demand Skill in the Tech Ind‌ustry | Aadhidev Anihac | [Read More](https://medium.com/p/d84171e11b2e) |
-| Thu, 23 Oct 2025 11:42:35 GMT | The Ethics of Hacking: White Hat vs. Black Hat ⚖️ (Etika Peretasan: Topi Putih vs. Topi Hitam) | sihackermok | [Read More](https://medium.com/p/f5735a5ebb9f) |
-| Thu, 23 Oct 2025 11:34:14 GMT | Advanced Ransomware Analysis and Reverse Engineering | Esra Kayhan | [Read More](https://medium.com/p/d2ed5879b4ee) |
