@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 20:17:18 GMT | TOMGHOST THM | Aderogbarufai | [Read More](https://medium.com/p/3450ccef5b12) |
+| Thu, 23 Oct 2025 19:54:25 GMT | My Friend’s Baby Father Had Five Baby Mamas | Marla Bishop | [Read More](https://medium.com/p/15d48ab12501) |
+| Thu, 23 Oct 2025 19:54:12 GMT | PowerShell Logging: Making the Invisible Visible | Dean | [Read More](https://medium.com/p/038287964438) |
 | Thu, 23 Oct 2025 19:34:12 GMT | Day 18 of my Cybersecurity Journey: Wireshark Basics II | Ogundipe Priscilla | [Read More](https://medium.com/p/c2b2b192f9f0) |
 | Thu, 23 Oct 2025 19:33:31 GMT | The Hidden Cybersecurity Risk Behind the AWS Outage | Minhal Haider | [Read More](https://medium.com/p/827d02bea8e4) |
 | Thu, 23 Oct 2025 19:29:15 GMT | Cómo un Bug Bounty Hunter descubrió una vulnerabilidad en un banco | Gorka | [Read More](https://medium.com/p/9f730fdbba48) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 13:16:38 GMT | Desvendando o Wazuh: Instalação Single-Node com Docker e o Seu Primeiro Agente | HOkket | [Read More](https://medium.com/p/576fa58996d8) |
 | Thu, 23 Oct 2025 13:07:00 GMT | Uncovering Betrayal: A Linux Forensics Journey in the ExfilNode Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/06be52fb0337) |
 | Thu, 23 Oct 2025 13:03:28 GMT | Active Directory 102: Planning Your Active Directory Architecture | Rana chouchane - QU33NR | [Read More](https://medium.com/p/64e3490e0a55) |
-| Thu, 23 Oct 2025 13:01:55 GMT | How to Reattach a Garage Door Opener: Step-by-Step After Manual Release | Up & Down Garage Door Services | [Read More](https://medium.com/p/cdb6f8ae5afb) |
-| Thu, 23 Oct 2025 12:58:33 GMT | How to Keep Your Crypto Portfolio Secure | TheBlock. | [Read More](https://medium.com/p/ed29d5cbd185) |
-| Thu, 23 Oct 2025 12:58:18 GMT | Decoding the Disk: A Deep Dive into MBR & GPT Analysis | Furkanctiner | [Read More](https://medium.com/p/3cf330ea2735) |
