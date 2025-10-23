@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/45662c92324a) |
+| Thu, 23 Oct 2025 15:13:13 GMT | Microsoft Recall Controversy: Is Your Data Safe? | nodminger | [Read More](https://medium.com/p/f7b7ebe8838e) |
+| Thu, 23 Oct 2025 14:57:33 GMT | CISA Confirms Exploitation of Latest Oracle EBS Vulnerability | IT_Engineer | [Read More](https://medium.com/p/47d4e7b2fc21) |
+| Thu, 23 Oct 2025 14:48:16 GMT | SOC106 — Found Suspicious File — TI Data | ahmed abdulaziz | [Read More](https://medium.com/p/1efa4b2ddc34) |
+| Thu, 23 Oct 2025 14:46:19 GMT | Claiming Monad Airdrops​ | Slerf coin | [Read More](https://medium.com/p/181fbbd23769) |
+| Thu, 23 Oct 2025 14:44:33 GMT | Monad Airdrop Details | Slerf coin | [Read More](https://medium.com/p/5af1eb60c00b) |
+| Thu, 23 Oct 2025 14:44:27 GMT | Host your next project — How to find cheap hosting | th3_d4v1d_c0de | [Read More](https://medium.com/p/ea66f09a61e6) |
+| Thu, 23 Oct 2025 14:43:55 GMT | Practical Pivoting: Master SSH Tunnels, SOCKS Proxies, and Advanced Network Access Techniques | Very Lazy Tech | [Read More](https://medium.com/p/893e891e1036) |
+| Thu, 23 Oct 2025 14:43:08 GMT | Monad airdrop claim | Slerf coin | [Read More](https://medium.com/p/751a6754d01e) |
+| Thu, 23 Oct 2025 14:42:54 GMT | The LLM Security Skills Employers Are Actually Hiring For | Abdellaoui Ahmed | [Read More](https://medium.com/p/97834710656e) |
+| Thu, 23 Oct 2025 14:41:46 GMT | Enterprise Risk Management through a Security+ Lens: Applying Ethical Leadership and Biblical… | Matthew Magelitz | [Read More](https://medium.com/p/d0e65dabf46e) |
+| Thu, 23 Oct 2025 14:39:01 GMT | How Zero Trust and AI Are Transforming Cybersecurity:Episode 19 | Raviteja Mureboina | [Read More](https://medium.com/p/9472edeed8d0) |
 | Thu, 23 Oct 2025 14:38:34 GMT | Special Race Condition Exploit in Email Verification Bypass | Mahmoud Gamal | [Read More](https://medium.com/p/9d344b5bbb75) |
 | Thu, 23 Oct 2025 14:38:04 GMT | “The Facebook Login Flaw That Could Have Compromised Every User” | Aman Sharma | [Read More](https://medium.com/p/e0a83140c9dc) |
 | Thu, 23 Oct 2025 14:34:35 GMT | 10 Cybersecurity Threats to Watch in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/a3f5c894741c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 09:32:45 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/89519eaf1bba) |
 | Thu, 23 Oct 2025 09:31:22 GMT | Frontend Security: The Most Ignored Skill Every Developer Needs in 2025 | Rama Jonnada | [Read More](https://medium.com/p/f94316dc178a) |
 | Thu, 23 Oct 2025 09:30:15 GMT | Silicon Valley’s Secret War: Seduction & Espionage | Truspex | [Read More](https://medium.com/p/96e563ded4c0) |
-| Thu, 23 Oct 2025 09:24:48 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/a294e38d7389) |
-| Thu, 23 Oct 2025 09:21:20 GMT | Stop Hackers Before They Strike: Angular 21 Basics for XSS Protection | Rama Jonnada | [Read More](https://medium.com/p/930d307d7d59) |
-| Thu, 23 Oct 2025 09:05:31 GMT | Cyber Security: Protecting Your Digital Assets | Cyber Security Research | [Read More](https://medium.com/p/e53461924b87) |
-| Thu, 23 Oct 2025 09:03:36 GMT | Top 10 OSINT Tools to Check AI Text Generation in 2025 | VerifyHQ | [Read More](https://medium.com/p/624934d6f77b) |
-| Thu, 23 Oct 2025 09:03:24 GMT | Photo by Eric Dekker on Unsplash | Mr Mubarok | [Read More](https://medium.com/p/a592f37a12c4) |
-| Thu, 23 Oct 2025 09:02:40 GMT | SOC 2 vs PCI DSS in Fintech: Key Differences & Requirements | Hicomply | [Read More](https://medium.com/p/94f24ed1731b) |
-| Thu, 23 Oct 2025 08:57:44 GMT | Rust | Alex Bon | [Read More](https://medium.com/p/a6d6b5d243d1) |
-| Thu, 23 Oct 2025 08:55:35 GMT | Top 5 Reasons Your Business Should Have CCTV Surveillance | Marcela John | [Read More](https://medium.com/p/577dcc530561) |
-| Thu, 23 Oct 2025 08:53:50 GMT | The Hidden Side of Continuous Learning | Vijay Kumar Gupta | [Read More](https://medium.com/p/1b254f54a302) |
-| Thu, 23 Oct 2025 08:51:23 GMT | Phishing Nightmare: “Dad Clicked the Link!” | Authlyn | [Read More](https://medium.com/p/62f260059217) |
-| Thu, 23 Oct 2025 08:46:01 GMT | PCI DSS 4.0 Remediation 2025: 7 Rapid Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/550ae2ec4d3c) |
-| Thu, 23 Oct 2025 08:45:57 GMT | Understanding the External Risk Escalation Life Cycle | Pietro Romano / SecBeret | [Read More](https://medium.com/p/914796cbd446) |
