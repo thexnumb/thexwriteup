@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 19:13:54 GMT | OSINT Investigation: The Art of Finding What’s Hidden in Plain Sight | Shohel Rana | [Read More](https://medium.com/p/b3cf665e78a9) |
+| Thu, 23 Oct 2025 19:03:59 GMT | eJPT — 3.4 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/d68f291951c8) |
+| Thu, 23 Oct 2025 19:01:16 GMT | Cloud ERP: How Modern Businesses Gain Competitive Advantage | Avani Shah at AdCirrus ERP | [Read More](https://medium.com/p/c776e27e2889) |
+| Thu, 23 Oct 2025 18:56:59 GMT | From Command Line to AI Brain: The Kali MCP Server Revolution | LETCHU PKT | [Read More](https://medium.com/p/52b98581ae6c) |
+| Thu, 23 Oct 2025 18:52:55 GMT | The Most Underrated GRC Skill: It’s Not Coding — It’s Context | Taimur Ijlal | [Read More](https://medium.com/p/6451fac0f133) |
+| Thu, 23 Oct 2025 18:47:02 GMT | Pain is the Music Industry’s Most Powerful Form of Currency | Wetsi Masilo | [Read More](https://medium.com/p/c12f5b481ffd) |
+| Thu, 23 Oct 2025 18:36:50 GMT | AI SOC Analyst | Huseyn Eyvazov | [Read More](https://medium.com/p/eea116ab85b8) |
+| Thu, 23 Oct 2025 18:23:38 GMT | GDPR and Its Impact on Cybersecurity Worldwide | Samina Perveen | [Read More](https://medium.com/p/89daf98c2619) |
 | Thu, 23 Oct 2025 18:00:27 GMT | Ethical and Regulatory Frameworks for Generative AI in Cybersecurity | Chad Barr | [Read More](https://medium.com/p/258e1c96a3fd) |
 | Thu, 23 Oct 2025 17:58:36 GMT | Web Development Baseline Essentials for Sri Lankan Research Non‑Profits | Nandula Asel Karunasingha | [Read More](https://medium.com/p/f83a45baa6ee) |
 | Thu, 23 Oct 2025 17:58:05 GMT | Simulation’s New Playbook: Shifting from Movement-Based Games to Strategic Industry Case Scenarios | Berend Watchus | [Read More](https://medium.com/p/b1591b8fe368) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 12:37:15 GMT | CanYouSee: A Beginner’s Forensics Walkthrough (picoCTF) | Islom | [Read More](https://medium.com/p/00cf02713e97) |
 | Thu, 23 Oct 2025 12:29:53 GMT | The Simple Travel Trick That Keeps Your Luggage Safe | Marc Ford | [Read More](https://medium.com/p/54912a536ba7) |
 | Thu, 23 Oct 2025 12:22:20 GMT | Prioritise: Explore some less common SQL Injection techniques | Huzaifa Malik | [Read More](https://medium.com/p/229b751e9460) |
-| Thu, 23 Oct 2025 12:18:17 GMT | AI’s Secret Mental Health Crisis: What Happens When Your Algorithm Goes ‘Psychotic’? | Berend Watchus | [Read More](https://medium.com/p/b35949fc78bf) |
-| Thu, 23 Oct 2025 12:16:00 GMT | The Hidden Cost of Internet Shutdowns and Censorship | Aytboyev Bobur | [Read More](https://medium.com/p/7aa3feafc26d) |
-| Thu, 23 Oct 2025 12:11:39 GMT | Why Spotify Keeps Crashing on Flagship Phones (2025) and What It Says About Modern App Development | Gadgetshieldz | [Read More](https://medium.com/p/d1925c088202) |
-| Thu, 23 Oct 2025 12:11:10 GMT | The Bright Side of the Dark Web: What It Really Teaches About Security | Asymmetric | [Read More](https://medium.com/p/3a2f5a1839da) |
-| Thu, 23 Oct 2025 12:09:58 GMT | [OverTheWire] Bandit Level 1 → 2 | H$nt | [Read More](https://medium.com/p/6bedc7a9b7a9) |
-| Thu, 23 Oct 2025 12:06:55 GMT | Impacts of DDoS attack | Aytboyev Bobur | [Read More](https://medium.com/p/7c75c49730d3) |
-| Thu, 23 Oct 2025 12:02:48 GMT | What Is IT, Really? | Jordan T. Hold & J. Tucker | [Read More](https://medium.com/p/40d5a1d7159e) |
-| Thu, 23 Oct 2025 12:00:05 GMT | Kindness and Sharing Enhance Our Happiness and Security | Sam David Parker | [Read More](https://medium.com/p/8f7af6e0bb76) |
