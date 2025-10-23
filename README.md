@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 22:35:42 GMT | IBM Q radar: Kurulum, Log İzleme ve Alert Oluşturma | Mustafa Mansur Mamus | [Read More](https://medium.com/p/560be58486d1) |
+| Thu, 23 Oct 2025 22:30:49 GMT | A researcher’s journey from a simple “opposite” prompt to AI-generated autonomous agents for cyber… | Julio César | [Read More](https://medium.com/p/4b100ebf8029) |
+| Thu, 23 Oct 2025 22:14:23 GMT | GZR Observer — Global Daily — Oct 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/37eec9cd7748) |
 | Thu, 23 Oct 2025 22:01:00 GMT | Privacy Isn’t About Hiding. It’s About Control. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e30289142939) |
 | Thu, 23 Oct 2025 21:59:46 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c04db5c3877b) |
 | Thu, 23 Oct 2025 21:55:40 GMT | Threat Hunting with DNS Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/362531cddb8e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 14:38:04 GMT | “The Facebook Login Flaw That Could Have Compromised Every User” | Aman Sharma | [Read More](https://medium.com/p/e0a83140c9dc) |
 | Thu, 23 Oct 2025 14:34:35 GMT | 10 Cybersecurity Threats to Watch in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/a3f5c894741c) |
 | Thu, 23 Oct 2025 14:27:37 GMT | The Blind Spot: Security Logging and Monitoring Failures - A09 -10 Days with Me - OWASP Top 10 | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/ff631400fe1c) |
-| Thu, 23 Oct 2025 14:25:43 GMT | App Security: How Safe Are Your Favourite Apps? | Aysha Misri | [Read More](https://medium.com/p/bf9db31aa158) |
-| Thu, 23 Oct 2025 14:18:36 GMT | 10 Python Tricks Every Backend Developer Should Know in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/fa5bc29ac283) |
-| Thu, 23 Oct 2025 14:11:49 GMT | Vulnerability Hangover | Sarah Veyland | [Read More](https://medium.com/p/f98f0bd0b160) |
