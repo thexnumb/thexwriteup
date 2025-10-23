@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Oct 2025 09:30:15 GMT | Silicon Valley’s Secret War: Seduction & Espionage | Truspex | [Read More](https://medium.com/p/96e563ded4c0) |
+| Thu, 23 Oct 2025 09:24:48 GMT | Integrating Threat Modeling into DevSecOps | DevOps Security Hub | [Read More](https://medium.com/p/a294e38d7389) |
+| Thu, 23 Oct 2025 09:21:20 GMT | Stop Hackers Before They Strike: Angular 21 Basics for XSS Protection | Rama Jonnada | [Read More](https://medium.com/p/930d307d7d59) |
 | Thu, 23 Oct 2025 09:05:31 GMT | Cyber Security: Protecting Your Digital Assets | Cyber Security Research | [Read More](https://medium.com/p/e53461924b87) |
 | Thu, 23 Oct 2025 09:03:36 GMT | Top 10 OSINT Tools to Check AI Text Generation in 2025 | VerifyHQ | [Read More](https://medium.com/p/624934d6f77b) |
 | Thu, 23 Oct 2025 09:03:24 GMT | Photo by Eric Dekker on Unsplash | Mr Mubarok | [Read More](https://medium.com/p/a592f37a12c4) |
@@ -110,6 +113,3 @@ By Batomate | Batomate | [Read More](https://medium.com/p/f96b709b7d63) |
 | Wed, 22 Oct 2025 22:53:56 GMT | ⏰ How We Exploit Moms’ Time — and Why I’m Learning to Protect Mine | The Gorgeous Deaf Mama | [Read More](https://medium.com/p/a142c710df49) |
 | Wed, 22 Oct 2025 22:52:57 GMT | The E-Waste Black Market: Why Criminals Love Your Old Laptop | Subramanimokkala | [Read More](https://medium.com/p/11086138f4bc) |
 | Wed, 22 Oct 2025 22:51:34 GMT | Bounty Hacker - TryHackme- Easy Level Room | OJ Adel | [Read More](https://medium.com/p/01b893e95c3f) |
-| Wed, 22 Oct 2025 22:48:44 GMT | The Harmonic Witness: | Jessica McGlothern | [Read More](https://medium.com/p/25d3b1dafdb1) |
-| Wed, 22 Oct 2025 22:37:20 GMT | $2000 Bounty: From Browser to Burp | Monika sharma | [Read More](https://medium.com/p/290dcb10f386) |
-| Wed, 22 Oct 2025 22:37:15 GMT | Networking Basics for Security Folks: TCP/IP Without the Headache | Aj | [Read More](https://medium.com/p/6987420dca9a) |
