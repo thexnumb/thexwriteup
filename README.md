@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 18:32:29 GMT | The Kind of Words That Turn Friends Into Lifelong Allies | THUMB | [Read More](https://medium.com/p/87063e20d9d2) |
+| Fri, 24 Oct 2025 18:23:53 GMT | ##  **GÜNLÜK ANALİZ SÜRECİ — ÖZET NOTLAR** | Myusuftr | [Read More](https://medium.com/p/26cc3806e305) |
 | Fri, 24 Oct 2025 18:23:51 GMT | eJPT — 3.5 CTF 2 Post-Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/545b111dd3e3) |
+| Fri, 24 Oct 2025 18:21:34 GMT | IDS-IPS türleri | Myusuftr | [Read More](https://medium.com/p/acc7273b4336) |
 | Fri, 24 Oct 2025 18:20:02 GMT | siber güvenlikte nba (network behavior analysis) | Myusuftr | [Read More](https://medium.com/p/24e1ebf38c65) |
 | Fri, 24 Oct 2025 18:19:38 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/3839c2e5b906) |
 | Fri, 24 Oct 2025 18:17:34 GMT | DATACOM Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/0f47f6c25fc7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 13:01:07 GMT | Top Cybersecurity Tips Every Web Design Company in Houston Should Follow | Web Bonafide | [Read More](https://medium.com/p/7155b885ffd3) |
 | Fri, 24 Oct 2025 12:53:15 GMT | Mini-Lab Project — Splunk Detection | Ali Raza | [Read More](https://medium.com/p/a3befa116a75) |
 | Fri, 24 Oct 2025 12:50:10 GMT | The Cybersecurity Roadmap: 5 Courses That Take You From Beginner to Pro | Code Link | [Read More](https://medium.com/p/e86b285bd2f9) |
-| Fri, 24 Oct 2025 12:42:40 GMT | Cybersecurity #8: Types of Hacking & Phase of Ethical Hacking | mohandika | [Read More](https://medium.com/p/e817e16c2dfd) |
-| Fri, 24 Oct 2025 12:41:33 GMT | Pentesting Ético: Introducción a Macros ODT Maliciosas | APS88 | [Read More](https://medium.com/p/5ee4f4e8676c) |
-| Fri, 24 Oct 2025 12:37:03 GMT | Sandbox Kaçınma Teknikleri ve Kod Örnekleri | Esra Kayhan | [Read More](https://medium.com/p/d96f408a2114) |
