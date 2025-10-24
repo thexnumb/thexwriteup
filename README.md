@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 04:39:37 GMT | Part 2: Understanding JWT: The Backbone of Modern Authentication | Kalpesh Laddha | [Read More](https://medium.com/p/6823fc8d149b) |
+| Fri, 24 Oct 2025 04:38:07 GMT | How I Cleared CPENT & LPT Master — The Real Journey of Becoming an Advanced Penetration Tester | Monujangra | [Read More](https://medium.com/p/05e7d4106e67) |
+| Fri, 24 Oct 2025 04:36:20 GMT | Networking Deep Dive: From Port Forwarding to VLANs — Understanding the Internet Like a Pro | Salimassili | [Read More](https://medium.com/p/05539b0f1dc7) |
+| Fri, 24 Oct 2025 04:35:26 GMT | I Tried Breaking Into My Own Network :And Failed (Thankfully)
+ by Zaki Ali | Muhummad Zaki | [Read More](https://medium.com/p/6de6de550a9f) |
+| Fri, 24 Oct 2025 04:21:58 GMT | Mengoptimalkan Performa Website React: Tips Rendering dan Lazy Loading Modern | Anjas Rani | [Read More](https://medium.com/p/b7bd74a6beed) |
 | Fri, 24 Oct 2025 04:11:52 GMT | Quantum Leaps to AI Agents: A Week of Unprecedented Tech Innovation (October 21–24, 2025) | Tanbopp | [Read More](https://medium.com/p/52c2b093c1b8) |
 | Fri, 24 Oct 2025 04:07:06 GMT | AI vs Hackers: Who’s Winning the Invisible War? | Zain Ahmad | [Read More](https://medium.com/p/71498a194106) |
 | Fri, 24 Oct 2025 04:05:34 GMT | Internal - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/61b7f0363ec9) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 17:39:29 GMT | Email Forensics Made Easy: Spotting Phishing & Spoofing Attacks | ze4rch1tect | [Read More](https://medium.com/p/2ccd6da2a505) |
 | Thu, 23 Oct 2025 17:38:43 GMT | Magento RCE Crisis Three in Five Stores Found Vulnerable as Exploits Hit the Wild | Chetan Seripally | [Read More](https://medium.com/p/d06cbc288cc9) |
 | Thu, 23 Oct 2025 17:31:01 GMT | Is ChatGPT Making It Easier for Scammers to Trick You? | Spokeo People Search | [Read More](https://medium.com/p/640bbdbd8db9) |
-| Thu, 23 Oct 2025 17:20:01 GMT | Day 5 — Routing & Switching Basics: Understanding Static & Dynamic Routing, VLANs, and NAT | HackTrace | [Read More](https://medium.com/p/28d308d33bc9) |
-| Thu, 23 Oct 2025 17:19:01 GMT | “It’s Not Paranoia, It’s Shared”: What We Get Wrong About Password Sharing | Ivan Junior | [Read More](https://medium.com/p/5ad5ff3ae479) |
-| Thu, 23 Oct 2025 17:18:59 GMT | Is Your Video Conferencing Secure? A Simple Guide to Plug-N-Meet’s Security | Jibon Costa | [Read More](https://medium.com/p/05702ff08162) |
-| Thu, 23 Oct 2025 17:13:11 GMT | Domain Wrangling | Kelly Wofford | [Read More](https://medium.com/p/6e29b3812b75) |
-| Thu, 23 Oct 2025 17:12:43 GMT | The Windows Security Journey — MP (Memory Protector) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/258fbe93dcc6) |
