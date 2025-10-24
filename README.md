@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 12:41:33 GMT | Pentesting Ético: Introducción a Macros ODT Maliciosas | APS88 | [Read More](https://medium.com/p/5ee4f4e8676c) |
+| Fri, 24 Oct 2025 12:37:03 GMT | Sandbox Kaçınma Teknikleri ve Kod Örnekleri | Esra Kayhan | [Read More](https://medium.com/p/d96f408a2114) |
+| Fri, 24 Oct 2025 12:31:46 GMT | DevSecOps Reimagined: Vulnerability Scanning Made Effortless with AnythingOps | AnythingOps | [Read More](https://medium.com/p/7f0df8583b9e) |
+| Fri, 24 Oct 2025 12:30:12 GMT | Attack Vectors: 6 Ways Attackers Use to Bypass Defenses | Abdelhalim_husein | [Read More](https://medium.com/p/e9fa7e8e25c6) |
+| Fri, 24 Oct 2025 12:29:50 GMT | The Cybersecurity Skills You Need in 2025: 5 Courses That Will Future-Proof Your Career | Invest Learn Make | [Read More](https://medium.com/p/9bd0519ad877) |
+| Fri, 24 Oct 2025 12:26:18 GMT | Network Security Protocols- THM ..-DAY -4 | Deepika  B | [Read More](https://medium.com/p/3d72ad261b01) |
+| Fri, 24 Oct 2025 12:21:51 GMT | How to Fix an Automatic Door Lock: Simple Troubleshooting | Sure Lock & Key LLC | [Read More](https://medium.com/p/d7d3206f9ed0) |
+| Fri, 24 Oct 2025 12:20:59 GMT | HacktheBox: Driver Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/d489f5f07ad1) |
+| Fri, 24 Oct 2025 12:19:19 GMT | Evasive | joseml | [Read More](https://medium.com/p/77e46435914f) |
+| Fri, 24 Oct 2025 12:15:14 GMT | Disenchantment | Lonely solacee | [Read More](https://medium.com/p/8921db691d34) |
+| Fri, 24 Oct 2025 12:13:38 GMT | cybersecurity free risk assessment | C | [Read More](https://medium.com/p/e787251d0ae9) |
+| Fri, 24 Oct 2025 12:11:57 GMT | eJPT — 3.5 CTF 1: Post-Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/640bb66c0dc0) |
+| Fri, 24 Oct 2025 12:10:53 GMT | Why Cybersecurity Is the Fastest-Growing Career of the Decade | Deepak Sharma | [Read More](https://medium.com/p/b441f83302ef) |
+| Fri, 24 Oct 2025 12:10:04 GMT | [OverTheWire] Bandit Level 4 → 5 | H$nt | [Read More](https://medium.com/p/76ec4203a474) |
+| Fri, 24 Oct 2025 12:08:49 GMT | Leakbase — even more leaks! | Chloe Tan | [Read More](https://medium.com/p/dfeb5aea1db1) |
+| Fri, 24 Oct 2025 12:08:30 GMT | How to Get Aramco CCC Approval: Step-by-Step Process Explained | FIT Solution | [Read More](https://medium.com/p/0d07dc2daf0e) |
+| Fri, 24 Oct 2025 12:08:21 GMT | [OverTheWire] Bandit Level 3 → 4 | H$nt | [Read More](https://medium.com/p/91dfd0ba6090) |
+| Fri, 24 Oct 2025 12:08:02 GMT | freeRASP 17 is released and it’s a massive leap forward! | Talsec | [Read More](https://medium.com/p/29c96cbe3200) |
+| Fri, 24 Oct 2025 11:53:44 GMT | Stop the Imposters: How to Detect & Avoid Spoofing | Platnova | [Read More](https://medium.com/p/20b81eec8a2e) |
+| Fri, 24 Oct 2025 11:51:58 GMT | Not Weak, Just Human | Melodyrecords_ | [Read More](https://medium.com/p/29b9b715566c) |
+| Fri, 24 Oct 2025 11:51:05 GMT | CometJacking: The New Frontier of Cyber Espionage in the Digital Sky | Himanshu Bhatt | [Read More](https://medium.com/p/beb6d15119c9) |
+| Fri, 24 Oct 2025 11:48:13 GMT | Security Fence Inc by Arvern Iron Works — Custom-Built Fencing Solutions for Safety and Property… | Arvern iron work | [Read More](https://medium.com/p/2cea059b30e4) |
+| Fri, 24 Oct 2025 11:39:23 GMT | CCSP vs AWS Security Specialty - Full Breakdown: Difficulty, Jobs & ROI | Motasem Hamdan | [Read More](https://medium.com/p/20e910330af2) |
+| Fri, 24 Oct 2025 11:37:25 GMT | Cyber Security: Incident Response and Recovery | Cyber Security Research | [Read More](https://medium.com/p/8cc5288d18d9) |
+| Fri, 24 Oct 2025 11:33:53 GMT | Portswigger Academy — Exploiting XSS to bypass CSRF defenses — Write-up | Alan | [Read More](https://medium.com/p/6dc3820de560) |
+| Fri, 24 Oct 2025 11:33:43 GMT | Guarding Sovereignty, from Chip to Ecosystem: How Digital Shield is Defining the New Coordinates of… | Digital Shield Offcial | [Read More](https://medium.com/p/90a62e7c6a63) |
+| Fri, 24 Oct 2025 11:31:35 GMT | Zero-Day Exploits: A Deep Dive into the Unknown Threat | Ziad Tamer | [Read More](https://medium.com/p/d1eed5f9ac74) |
+| Fri, 24 Oct 2025 11:31:28 GMT | The Rimland’s Edge | Chronicles of the Past | [Read More](https://medium.com/p/489f99011635) |
 | Fri, 24 Oct 2025 11:22:43 GMT | How to Make Exlpoit in a Legal Way | Hackers Things | [Read More](https://medium.com/p/0fe4f0106913) |
 | Fri, 24 Oct 2025 11:15:33 GMT | Today’s Top Cyber Intelligence Highlights — Oct 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b90c49d4aa59) |
 | Fri, 24 Oct 2025 11:13:57 GMT | Conquering CompTIA Security+: My Journey with 591Lab’s Ultimate Guide | Al Beruni | [Read More](https://medium.com/p/23a8bb759552) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 07:00:23 GMT | AI Meets Ethical Hacking: How Artificial Intelligence is Changing Cyber Security | Hassan Talal | [Read More](https://medium.com/p/5bd2b837d3c7) |
 | Fri, 24 Oct 2025 06:58:47 GMT | The Corix Partners Friday Reading List — October 24, 2025 | JC Gaillard | [Read More](https://medium.com/p/b2bdc98f3bc8) |
 | Fri, 24 Oct 2025 06:57:06 GMT | Walkthrough — HackSudo 1.1 (VulnHub) | Vaibhav | [Read More](https://medium.com/p/103d13209c48) |
-| Fri, 24 Oct 2025 06:55:45 GMT | VPS Vs Dedicated Hosting: Which Ones You Should Choose and Why? | HostNOC | [Read More](https://medium.com/p/1df707c74556) |
-| Fri, 24 Oct 2025 06:53:48 GMT | Are Landscaping Businesses Profitable? Here’s the Real Truth You Should Know | Asna Futorics | [Read More](https://medium.com/p/8598d1d4c305) |
-| Fri, 24 Oct 2025 06:47:12 GMT | Best Integrated Lease Management Software in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/68ade3ca403e) |
-| Fri, 24 Oct 2025 06:46:48 GMT | My Love-Hate Relationship with Hacking | Simi | [Read More](https://medium.com/p/76f15f5651ca) |
-| Fri, 24 Oct 2025 06:43:33 GMT | During my training, we used | Adeleke Theophilus O | [Read More](https://medium.com/p/206810f810c8) |
-| Fri, 24 Oct 2025 06:38:12 GMT | How Blockchain Enhances Contract Security and Integrity in CLM Systems? | Serishahid | [Read More](https://medium.com/p/e08003931876) |
-| Fri, 24 Oct 2025 06:23:16 GMT | Drosera x LayerZero: A Collaboration That Makes DeFi Safer | Fivestttttar | [Read More](https://medium.com/p/a4eadcb83bf4) |
-| Fri, 24 Oct 2025 06:21:43 GMT | The day Wayback pointed me to an admin panel — and why scope still wins ☕️ | AIwolfie | [Read More](https://medium.com/p/40d61ce8e5d3) |
-| Fri, 24 Oct 2025 06:18:11 GMT | Why Quantum Computing Is the Biggest Threat to Cybersecurity | Shaikh Zayan | [Read More](https://medium.com/p/c7eb9de21510) |
-| Fri, 24 Oct 2025 06:17:11 GMT | Rivan IT Institute CompTIA Security+ (SYO 701) Professional Training Course | Martin L | [Read More](https://medium.com/p/38797da4b69f) |
-| Fri, 24 Oct 2025 06:14:21 GMT | Day 38: AWS Transit Gateway (TGW) | Prutha_Dongre | [Read More](https://medium.com/p/112f3e5f62dc) |
-| Fri, 24 Oct 2025 06:06:15 GMT | We’re More Connected Than Ever, Yet We Barely Talk | Urna Gain | [Read More](https://medium.com/p/2c6e8724d143) |
-| Fri, 24 Oct 2025 05:59:49 GMT | Ultimate Step-by-Step Guide: How to Sell RubiCoin (RUBI) for Bitcoin (BTC) on Swap.RubiMine.com | Dottech | [Read More](https://medium.com/p/6049ff33428a) |
-| Fri, 24 Oct 2025 05:49:40 GMT | ️ Beginner CyberSecurity Project: An Azure Sentinel SIEM Project on Failed Login Attacks | MumoVictor | [Read More](https://medium.com/p/5d1dccab09e4) |
-| Fri, 24 Oct 2025 05:48:20 GMT | The Windows Security Journey — MemGC (Memory Garbage Collection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/324799b019d4) |
-| Fri, 24 Oct 2025 05:40:15 GMT | Alert Triage With Splunk | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/6bbea7c68d44) |
-| Fri, 24 Oct 2025 05:38:22 GMT | Top 10 Highest Paying Cyber Security Roles | Manisha Chaudhary | [Read More](https://medium.com/p/215877613ecb) |
-| Fri, 24 Oct 2025 05:33:14 GMT | Day 70- I Raised a security concern: Why an Authentication App running in the background could ne a… | unica 02 | [Read More](https://medium.com/p/11aea7269c90) |
-| Fri, 24 Oct 2025 05:22:27 GMT | A short criticism of OpenAI’s “erotica plans” | Cyber and Coffee | [Read More](https://medium.com/p/be836f916419) |
-| Fri, 24 Oct 2025 05:19:32 GMT | Linguistic Trojan Horse: Why LLM Steganography Just Broke AI Safety | Berend Watchus | [Read More](https://medium.com/p/d6b9979a19eb) |
-| Fri, 24 Oct 2025 05:17:16 GMT | Incident Response — Proactive vs. Reactive Approach | NetWitness | [Read More](https://medium.com/p/dcae5e7f4ca8) |
-| Fri, 24 Oct 2025 05:09:04 GMT | Top 10 Tools for Bug Bounty Hunters in 2025 — Practical, fast, and battle-tested | Monujangra | [Read More](https://medium.com/p/e090866a9b64) |
-| Fri, 24 Oct 2025 04:59:13 GMT | Building Guardrails for Generative AI: The New Security Playbook for Organizations | SYED ABBAS ALI AZGHAR HUSSAIN | [Read More](https://medium.com/p/9ad72c47fc42) |
-| Fri, 24 Oct 2025 04:58:18 GMT | How to Find the Password Quickly Using Google Dorking Only! | Testone5iix | [Read More](https://medium.com/p/6455b6ef03bb) |
-| Fri, 24 Oct 2025 04:55:23 GMT | HTTP: The Secret Language of the Web We All Use but Never See | Salimassili | [Read More](https://medium.com/p/8ae87661c75d) |
-| Fri, 24 Oct 2025 04:52:15 GMT | Towards an industrial IoT — Cybersecurity (part #9) | Fabrice TRAN-XUAN | [Read More](https://medium.com/p/74949dd03941) |
-| Fri, 24 Oct 2025 04:44:33 GMT | Weaponizing Your Bug Bounties: Turning Security Research into a Career (Consulting, Training, and… | Maxwell Cross | [Read More](https://medium.com/p/afd3d47235cc) |
-| Fri, 24 Oct 2025 04:43:44 GMT | Understanding DNS: The Invisible Map That Guides the Internet | Salimassili | [Read More](https://medium.com/p/4a4106182cb5) |
