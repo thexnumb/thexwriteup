@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 20:08:46 GMT | Bluetooth Mimarisi ve Temel Kavramlar-1 | Alperkandemir | [Read More](https://medium.com/p/df359bf6b22b) |
+| Fri, 24 Oct 2025 20:07:20 GMT | [HackTheBox x VulnLab Write-up] Retro (Pre2K compter and ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/79f4eb386cfd) |
+| Fri, 24 Oct 2025 20:06:30 GMT | [HackTheBox x VulnLab Write-up] Data (Grafana exploitation and Docker exec privilege escalation) | Chicken0248 | [Read More](https://medium.com/p/c412bbddfc2e) |
+| Fri, 24 Oct 2025 20:05:32 GMT | How Secrets Stay Safe: A Beginner’s Guide to Attestation, Signatures, and Policy-Based Trust | Bob S. | [Read More](https://medium.com/p/f5043bb02a9f) |
+| Fri, 24 Oct 2025 20:03:54 GMT | Injected #2: Lessons from Hacking a Financial Company | Chux | [Read More](https://medium.com/p/a95c974a3604) |
+| Fri, 24 Oct 2025 20:03:36 GMT | Breaking Down the Pyramid of Pain: My Journey Through SOC Level 1 Analysis | Jenna S | [Read More](https://medium.com/p/b844a143d4d9) |
+| Fri, 24 Oct 2025 19:49:44 GMT | OUTDATED THREATS AND DEFEATED POWERS | Samuel Sunday | [Read More](https://medium.com/p/bde5e18a240d) |
+| Fri, 24 Oct 2025 19:42:07 GMT | Yeni Başlayanlara: Siber Güvenlik Rehberi | Mehmet Emir Yılmaz | [Read More](https://medium.com/p/1746e94a9307) |
+| Fri, 24 Oct 2025 19:41:05 GMT | Vibe coding! How AI is creating unexpected coding problems as it solves others. | Yann Barba | [Read More](https://medium.com/p/a22471dcd91b) |
 | Fri, 24 Oct 2025 19:30:59 GMT | 5 Security Configurations You Should Change Today | JSOC IT BLOG | [Read More](https://medium.com/p/695fa14ac585) |
 | Fri, 24 Oct 2025 19:27:52 GMT | Why Bother With Kasm Workspace? | Roberto Salazar | [Read More](https://medium.com/p/35de778f57b9) |
 | Fri, 24 Oct 2025 19:27:18 GMT | HTB_Academy: Pivoting, Tunneling, and Port Forwarding: Dynamic Port Forwarding with SSH and SOCKS… | Babatunde Ojo | [Read More](https://medium.com/p/d15a2fc21882) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 13:45:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/2b5284a1ceae) |
 | Fri, 24 Oct 2025 13:45:19 GMT | How I Learned the Hard Way That Security Matters More Than Profits in Crypto Trading | Alejandro Morales | [Read More](https://medium.com/p/ec3ae499b6ee) |
 | Fri, 24 Oct 2025 13:41:21 GMT | Small Team Kubernetes Security: Applying DevSecOps in Practice | Dev0ps | [Read More](https://medium.com/p/7eebecf9e9fa) |
-| Fri, 24 Oct 2025 13:39:26 GMT | Atlassian’s Two-Week Outage — When an Internal Script Went Too Far. | Eunice | [Read More](https://medium.com/p/800f5dfe6dd9) |
-| Fri, 24 Oct 2025 13:38:52 GMT | Cyber Security: The Fine Print of Online Protection | Cyber Security Research | [Read More](https://medium.com/p/129bba117717) |
-| Fri, 24 Oct 2025 13:32:49 GMT | How I Bypassed a Security Lockout to Protect User Accounts | Ibtissam hammadi | [Read More](https://medium.com/p/0d2bfde94ffa) |
-| Fri, 24 Oct 2025 13:32:04 GMT | Cyber Security Forensics: Unraveling Digital Crimes | Cyber Security Research | [Read More](https://medium.com/p/90487deadf84) |
-| Fri, 24 Oct 2025 13:30:33 GMT | Effortless Authentication: Integrating Okta SSO in Native Mobile Apps | gadagool krishna | [Read More](https://medium.com/p/b43457830f42) |
-| Fri, 24 Oct 2025 13:30:19 GMT | Coding the Unseen: How Negative Space Programming Fortifies Your Future | Namir Sagheenanajar | [Read More](https://medium.com/p/449da8760a58) |
-| Fri, 24 Oct 2025 13:30:03 GMT | Navigating Modern Website Security Challenges in 2025 | Maverick Steel | [Read More](https://medium.com/p/6e299bd93233) |
-| Fri, 24 Oct 2025 13:26:07 GMT | Sunset VulnHub Walkthrough: Enumeration to Privilege Escalation | Hanish | [Read More](https://medium.com/p/8b95231f8a3a) |
-| Fri, 24 Oct 2025 13:21:51 GMT | Penetration Testing Is Security Theater for Executives Who Don’t Understand Risk | Maxwell Cross | [Read More](https://medium.com/p/94cdea9894f8) |
