@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 06:21:43 GMT | The day Wayback pointed me to an admin panel — and why scope still wins ☕️ | AIwolfie | [Read More](https://medium.com/p/40d61ce8e5d3) |
+| Fri, 24 Oct 2025 06:18:11 GMT | Why Quantum Computing Is the Biggest Threat to Cybersecurity | Shaikh Zayan | [Read More](https://medium.com/p/c7eb9de21510) |
+| Fri, 24 Oct 2025 06:17:11 GMT | Rivan IT Institute CompTIA Security+ (SYO 701) Professional Training Course | Martin L | [Read More](https://medium.com/p/38797da4b69f) |
+| Fri, 24 Oct 2025 06:14:21 GMT | Day 38: AWS Transit Gateway (TGW) | Prutha_Dongre | [Read More](https://medium.com/p/112f3e5f62dc) |
+| Fri, 24 Oct 2025 06:06:15 GMT | We’re More Connected Than Ever, Yet We Barely Talk | Urna Gain | [Read More](https://medium.com/p/2c6e8724d143) |
+| Fri, 24 Oct 2025 05:59:49 GMT | Ultimate Step-by-Step Guide: How to Sell RubiCoin (RUBI) for Bitcoin (BTC) on Swap.RubiMine.com | Dottech | [Read More](https://medium.com/p/6049ff33428a) |
+| Fri, 24 Oct 2025 05:49:40 GMT | ️ Beginner CyberSecurity Project: An Azure Sentinel SIEM Project on Failed Login Attacks | MumoVictor | [Read More](https://medium.com/p/5d1dccab09e4) |
+| Fri, 24 Oct 2025 05:48:20 GMT | The Windows Security Journey — MemGC (Memory Garbage Collection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/324799b019d4) |
+| Fri, 24 Oct 2025 05:40:15 GMT | Alert Triage With Splunk | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/6bbea7c68d44) |
 | Fri, 24 Oct 2025 05:38:22 GMT | Top 10 Highest Paying Cyber Security Roles | Manisha Chaudhary | [Read More](https://medium.com/p/215877613ecb) |
 | Fri, 24 Oct 2025 05:33:14 GMT | Day 70- I Raised a security concern: Why an Authentication App running in the background could ne a… | unica 02 | [Read More](https://medium.com/p/11aea7269c90) |
 | Fri, 24 Oct 2025 05:22:27 GMT | A short criticism of OpenAI’s “erotica plans” | Cyber and Coffee | [Read More](https://medium.com/p/be836f916419) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 19:29:15 GMT | Cómo un Bug Bounty Hunter descubrió una vulnerabilidad en un banco | Gorka | [Read More](https://medium.com/p/9f730fdbba48) |
 | Thu, 23 Oct 2025 19:25:32 GMT | Firewall as a Service (FWaaS): The Future of Scalable and Cloud-Driven Network Security | SafeAeon Inc. | [Read More](https://medium.com/p/2cda7fa145b1) |
 | Thu, 23 Oct 2025 19:20:57 GMT | Designing and Discovery in LLM Projects | Flavia Nobre | [Read More](https://medium.com/p/f3079bd90546) |
-| Thu, 23 Oct 2025 19:20:34 GMT | How a Simple Search Earned Me a Bug Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/d3f9fd0a70c9) |
-| Thu, 23 Oct 2025 19:18:15 GMT | Certified Associate Penetration Tester ( CAPT ) | THAMER ALNAJADAT | [Read More](https://medium.com/p/550f5b52bb30) |
-| Thu, 23 Oct 2025 19:13:54 GMT | OSINT Investigation: The Art of Finding What’s Hidden in Plain Sight | Shohel Rana | [Read More](https://medium.com/p/b3cf665e78a9) |
-| Thu, 23 Oct 2025 19:11:46 GMT | Linux Fundamentals Part 1 — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/44fd8ec17158) |
-| Thu, 23 Oct 2025 19:03:59 GMT | eJPT — 3.4 Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/d68f291951c8) |
-| Thu, 23 Oct 2025 19:01:16 GMT | Cloud ERP: How Modern Businesses Gain Competitive Advantage | Avani Shah at AdCirrus ERP | [Read More](https://medium.com/p/c776e27e2889) |
-| Thu, 23 Oct 2025 18:56:59 GMT | From Command Line to AI Brain: The Kali MCP Server Revolution | LETCHU PKT | [Read More](https://medium.com/p/52b98581ae6c) |
-| Thu, 23 Oct 2025 18:52:55 GMT | The Most Underrated GRC Skill: It’s Not Coding — It’s Context | Taimur Ijlal | [Read More](https://medium.com/p/6451fac0f133) |
-| Thu, 23 Oct 2025 18:47:02 GMT | Pain is the Music Industry’s Most Powerful Form of Currency | Wetsi Masilo | [Read More](https://medium.com/p/c12f5b481ffd) |
