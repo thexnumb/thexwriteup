@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 11:22:43 GMT | How to Make Exlpoit in a Legal Way | Hackers Things | [Read More](https://medium.com/p/0fe4f0106913) |
+| Fri, 24 Oct 2025 11:15:33 GMT | Today’s Top Cyber Intelligence Highlights — Oct 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b90c49d4aa59) |
 | Fri, 24 Oct 2025 11:13:57 GMT | Conquering CompTIA Security+: My Journey with 591Lab’s Ultimate Guide | Al Beruni | [Read More](https://medium.com/p/23a8bb759552) |
 | Fri, 24 Oct 2025 11:10:34 GMT | Automating Security Champion Workflows with AI Agents at Trendyol | basak unsal | [Read More](https://medium.com/p/d4aaec976fce) |
 | Fri, 24 Oct 2025 11:10:22 GMT | Mapping Attack Surfaces with Maltego and SpiderFoot | Aj | [Read More](https://medium.com/p/0d6f7543c0dc) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 04:52:15 GMT | Towards an industrial IoT — Cybersecurity (part #9) | Fabrice TRAN-XUAN | [Read More](https://medium.com/p/74949dd03941) |
 | Fri, 24 Oct 2025 04:44:33 GMT | Weaponizing Your Bug Bounties: Turning Security Research into a Career (Consulting, Training, and… | Maxwell Cross | [Read More](https://medium.com/p/afd3d47235cc) |
 | Fri, 24 Oct 2025 04:43:44 GMT | Understanding DNS: The Invisible Map That Guides the Internet | Salimassili | [Read More](https://medium.com/p/4a4106182cb5) |
-| Fri, 24 Oct 2025 04:39:37 GMT | Part 2: Understanding JWT: The Backbone of Modern Authentication | Kalpesh Laddha | [Read More](https://medium.com/p/6823fc8d149b) |
-| Fri, 24 Oct 2025 04:38:07 GMT | How I Cleared CPENT & LPT Master — The Real Journey of Becoming an Advanced Penetration Tester | Monujangra | [Read More](https://medium.com/p/05e7d4106e67) |
