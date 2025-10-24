@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 16:47:57 GMT | What Is a Computer Architecture? | Atakan Bitim | [Read More](https://medium.com/p/f2233ee2bbff) |
+| Fri, 24 Oct 2025 16:47:50 GMT | Bilgisayar Mimarisi (Computer Architecture) Nedir? | Atakan Bitim | [Read More](https://medium.com/p/23a94dd51d5a) |
+| Fri, 24 Oct 2025 16:38:35 GMT | How to Stay Motivated When You Hate Your Job | Global Whirl of Wonders | [Read More](https://medium.com/p/5219521e108c) |
+| Fri, 24 Oct 2025 16:37:17 GMT | 10 Cybersecurity Mistakes You’re Making Without Even Realizing It (and How to Fix Them Fast) | Xormium | [Read More](https://medium.com/p/92bdcea317dd) |
+| Fri, 24 Oct 2025 16:36:46 GMT | New Bug Bounty Blog Is Live | Kapeka | [Read More](https://medium.com/p/58bab17d8530) |
+| Fri, 24 Oct 2025 16:36:46 GMT | How I Sold Snake Oil IT Security for Years — SOLID | Marcus Bohlander | [Read More](https://medium.com/p/c4e3aeebbc92) |
+| Fri, 24 Oct 2025 16:32:32 GMT | Top Cloud Computing Innovations You Need to Know | Xaltius | [Read More](https://medium.com/p/65ba6854cdfd) |
+| Fri, 24 Oct 2025 16:28:49 GMT | purche Snapchat Accounts: Risks, Tips & Safe Alternatives . .. | purche* Snapchat Accounts | [Read More](https://medium.com/p/4aa95bc4e50f) |
 | Fri, 24 Oct 2025 16:23:00 GMT | The Art of Bug Report Writing: From Finding to Cashing | N0aziXss | [Read More](https://medium.com/p/df7e2452ff08) |
+| Fri, 24 Oct 2025 16:19:48 GMT | Advanced SELinux Policies Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/eeef7eb859d3) |
 | Fri, 24 Oct 2025 16:15:24 GMT | The Double-Edged Sword: Securing Your robots.txt Before Hackers Use It Against You | Cyberbali | [Read More](https://medium.com/p/0a737ac91b94) |
 | Fri, 24 Oct 2025 16:14:07 GMT | Real-Time Cowrie Honeypot Alerts via Telegram — Track SSH Attacks, Credentials & Tools Instantly | Death Esther | [Read More](https://medium.com/p/58b95c61a56b) |
 | Fri, 24 Oct 2025 16:12:07 GMT | Unlocking the Power of OSINT: Transforming Public Data into Strategic Insights | Md Rakibul Islam | [Read More](https://medium.com/p/bcd66ade2988) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 12:10:04 GMT | [OverTheWire] Bandit Level 4 → 5 | H$nt | [Read More](https://medium.com/p/76ec4203a474) |
 | Fri, 24 Oct 2025 12:08:49 GMT | Leakbase — even more leaks! | Chloe Tan | [Read More](https://medium.com/p/dfeb5aea1db1) |
 | Fri, 24 Oct 2025 12:08:30 GMT | How to Get Aramco CCC Approval: Step-by-Step Process Explained | FIT Solution | [Read More](https://medium.com/p/0d07dc2daf0e) |
-| Fri, 24 Oct 2025 12:08:21 GMT | [OverTheWire] Bandit Level 3 → 4 | H$nt | [Read More](https://medium.com/p/91dfd0ba6090) |
-| Fri, 24 Oct 2025 12:08:02 GMT | freeRASP 17 is released and it’s a massive leap forward! | Talsec | [Read More](https://medium.com/p/29c96cbe3200) |
-| Fri, 24 Oct 2025 12:05:27 GMT | Hackers are hijacking domains via forgotten DNS records | Httpeace | [Read More](https://medium.com/p/587cfca86b6f) |
-| Fri, 24 Oct 2025 11:53:44 GMT | Stop the Imposters: How to Detect & Avoid Spoofing | Platnova | [Read More](https://medium.com/p/20b81eec8a2e) |
-| Fri, 24 Oct 2025 11:51:58 GMT | Not Weak, Just Human | Melodyrecords_ | [Read More](https://medium.com/p/29b9b715566c) |
-| Fri, 24 Oct 2025 11:51:05 GMT | CometJacking: The New Frontier of Cyber Espionage in the Digital Sky | Himanshu Bhatt | [Read More](https://medium.com/p/beb6d15119c9) |
-| Fri, 24 Oct 2025 11:48:13 GMT | Security Fence Inc by Arvern Iron Works — Custom-Built Fencing Solutions for Safety and Property… | Arvern iron work | [Read More](https://medium.com/p/2cea059b30e4) |
-| Fri, 24 Oct 2025 11:39:23 GMT | CCSP vs AWS Security Specialty - Full Breakdown: Difficulty, Jobs & ROI | Motasem Hamdan | [Read More](https://medium.com/p/20e910330af2) |
-| Fri, 24 Oct 2025 11:37:25 GMT | Cyber Security: Incident Response and Recovery | Cyber Security Research | [Read More](https://medium.com/p/8cc5288d18d9) |
