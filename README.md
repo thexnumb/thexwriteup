@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 21:51:46 GMT | When Passion and Practicality Don’t Align: a tale from a cyber security engineer… | Wafa | [Read More](https://medium.com/p/856162f79351) |
+| Fri, 24 Oct 2025 21:41:57 GMT | Why modern love feels so complicated: | Eniola Ogunsusi | [Read More](https://medium.com/p/afcc9f1e1e3c) |
 | Fri, 24 Oct 2025 21:33:52 GMT | ⚠️ STOP: AI Browsers (Comet, Fellou) Are Hijacking Systems in Ways You Can’t See — Take Action… | Bireshkumar | [Read More](https://medium.com/p/7ae38cfa6351) |
 | Fri, 24 Oct 2025 21:32:56 GMT | Step-by-Step Guide: Automating Recon with Bash — Build Your Own Mini Nuclei Scanner | Very Lazy Tech | [Read More](https://medium.com/p/3692c145cc77) |
 | Fri, 24 Oct 2025 21:28:14 GMT | [ SOC Alert => Phishing Mail Detected — Excel 4.0 Macros ] by LetsDefend / EventID: 93 | EduKayky | [Read More](https://medium.com/p/81377f9b708a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 14:29:03 GMT | CONSISTENCY IS EVERYTHING: The Silent Weapon in My Journey | Vijay Kumar Gupta | [Read More](https://medium.com/p/e14b49ab0155) |
 | Fri, 24 Oct 2025 14:21:02 GMT | When the Cloud Stumbles: Lessons for CEOs and Boards About an AWS Outage | Tyson Martin | [Read More](https://medium.com/p/d6f918743b6f) |
 | Fri, 24 Oct 2025 14:18:57 GMT | Securing a Web Application with Azure Firewall: Deployment, Configuration, and Advanced Threat… | Ayomide Trillionz | [Read More](https://medium.com/p/dafbe8246657) |
-| Fri, 24 Oct 2025 14:18:43 GMT | EASY TIPS TO FIND VULNERABILITIES IN GOOGLE ASSETS/VRP | Azza0X1A | [Read More](https://medium.com/p/2179d559f1e6) |
-| Fri, 24 Oct 2025 14:09:58 GMT | Topic 36: CSS Transitions and Animations | Rana Awais | [Read More](https://medium.com/p/97a616aa98d6) |
