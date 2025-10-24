@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 13:26:07 GMT | Sunset VulnHub Walkthrough: Enumeration to Privilege Escalation | Hanish | [Read More](https://medium.com/p/8b95231f8a3a) |
+| Fri, 24 Oct 2025 13:21:51 GMT | Penetration Testing Is Security Theater for Executives Who Don’t Understand Risk | Maxwell Cross | [Read More](https://medium.com/p/94cdea9894f8) |
+| Fri, 24 Oct 2025 13:17:50 GMT | Kubernetes RBAC: Practical Lessons | Sridhar | [Read More](https://medium.com/p/e3c5c3f53d34) |
+| Fri, 24 Oct 2025 13:16:23 GMT | NAIROBI PASTOR HAS FALLEN! | Mercy Karagi | [Read More](https://medium.com/p/b6ea347680f9) |
+| Fri, 24 Oct 2025 13:14:55 GMT | The Fear of Getting Close | hinclover | [Read More](https://medium.com/p/0b7cef55e21a) |
+| Fri, 24 Oct 2025 13:14:44 GMT | SOC 2 Compliance with AI: How to Collect Evidence Automatically Without Breaking Rules | Technijian | [Read More](https://medium.com/p/6db95c19fde0) |
+| Fri, 24 Oct 2025 13:13:54 GMT | How to Spot a Phishing Email | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/43d411d2e6d4) |
+| Fri, 24 Oct 2025 13:04:52 GMT | BlueTeam: DCSYNC Attack — Quick Response cheatSheet | Damag3dRoot | [Read More](https://medium.com/p/7c3ebfaf105d) |
+| Fri, 24 Oct 2025 13:01:53 GMT | The Invisible Threat: Can a Single Phone Call Hijack Your Accounts? | Favour  Elijah | [Read More](https://medium.com/p/ed1b68221adf) |
+| Fri, 24 Oct 2025 13:01:07 GMT | Top Cybersecurity Tips Every Web Design Company in Houston Should Follow | Web Bonafide | [Read More](https://medium.com/p/7155b885ffd3) |
+| Fri, 24 Oct 2025 12:53:15 GMT | Mini-Lab Project — Splunk Detection | Ali Raza | [Read More](https://medium.com/p/a3befa116a75) |
+| Fri, 24 Oct 2025 12:50:10 GMT | The Cybersecurity Roadmap: 5 Courses That Take You From Beginner to Pro | Code Link | [Read More](https://medium.com/p/e86b285bd2f9) |
+| Fri, 24 Oct 2025 12:42:40 GMT | Cybersecurity #8: Types of Hacking & Phase of Ethical Hacking | mohandika | [Read More](https://medium.com/p/e817e16c2dfd) |
 | Fri, 24 Oct 2025 12:41:33 GMT | Pentesting Ético: Introducción a Macros ODT Maliciosas | APS88 | [Read More](https://medium.com/p/5ee4f4e8676c) |
 | Fri, 24 Oct 2025 12:37:03 GMT | Sandbox Kaçınma Teknikleri ve Kod Örnekleri | Esra Kayhan | [Read More](https://medium.com/p/d96f408a2114) |
 | Fri, 24 Oct 2025 12:31:46 GMT | DevSecOps Reimagined: Vulnerability Scanning Made Effortless with AnythingOps | AnythingOps | [Read More](https://medium.com/p/7f0df8583b9e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 07:54:15 GMT | Technical Report On “Cybersecurity Measures in Small Businesses” | Serideinwei Oweifie | [Read More](https://medium.com/p/c6676a8cdd1c) |
 | Fri, 24 Oct 2025 07:53:10 GMT | AI Security Algorithms: The Invisible Guardians of Your Digital World | Sagar Sajwan | [Read More](https://medium.com/p/d75ccb27cd01) |
 | Fri, 24 Oct 2025 07:45:10 GMT | ประจำวันศุกร์ที่ 24 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/9632a692abdc) |
-| Fri, 24 Oct 2025 07:40:58 GMT | The Daily Tech Digest: 23 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/95227d0bf527) |
-| Fri, 24 Oct 2025 07:32:39 GMT | Inside Operation Dream Job: How North Korean Hackers Are Hunting European Drone Secrets | Germano Costi | [Read More](https://medium.com/p/be2b1e0b836d) |
-| Fri, 24 Oct 2025 07:25:41 GMT | The Invisible Hacker: The Day I Realized I Was the Target | Fateyaly | [Read More](https://medium.com/p/4fa6ff13e426) |
-| Fri, 24 Oct 2025 07:24:14 GMT | Which Tool is Commonly Used For End Point Security? | cyber security Updates | [Read More](https://medium.com/p/4a1e72c60b7c) |
-| Fri, 24 Oct 2025 07:21:44 GMT | Hi! You are doing a great job! | Joelle luxer | [Read More](https://medium.com/p/8c1a11b90475) |
-| Fri, 24 Oct 2025 07:16:53 GMT | The Decorator | Alex Bon | [Read More](https://medium.com/p/e4373c5cdf7c) |
-| Fri, 24 Oct 2025 07:10:41 GMT | Part 1: Wazuh’a Giriş ve Temel Bileşenler | İremDamar | [Read More](https://medium.com/p/5410bfba75a2) |
-| Fri, 24 Oct 2025 07:08:38 GMT | Palo Alto Networks Penetration Testing: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0d3c9ceef1db) |
-| Fri, 24 Oct 2025 07:02:22 GMT | The AWS Outage: Digital Sovereignty as a European Shield | Paradigma Digital | [Read More](https://medium.com/p/e0609b85af53) |
-| Fri, 24 Oct 2025 07:02:18 GMT | From Code Newbie to Security Defender: How OWASP Turns Anxiety Into Action | NizzCorp Academy | [Read More](https://medium.com/p/094032ace396) |
-| Fri, 24 Oct 2025 07:00:23 GMT | AI Meets Ethical Hacking: How Artificial Intelligence is Changing Cyber Security | Hassan Talal | [Read More](https://medium.com/p/5bd2b837d3c7) |
-| Fri, 24 Oct 2025 06:58:47 GMT | The Corix Partners Friday Reading List — October 24, 2025 | JC Gaillard | [Read More](https://medium.com/p/b2bdc98f3bc8) |
-| Fri, 24 Oct 2025 06:57:06 GMT | Walkthrough — HackSudo 1.1 (VulnHub) | Vaibhav | [Read More](https://medium.com/p/103d13209c48) |
