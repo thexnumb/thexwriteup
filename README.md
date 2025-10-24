@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 14:03:18 GMT | Minding Your Mentors: The One Thing To Ask Yourself | Suicide Survivalist, MD, MPH, MBA | [Read More](https://medium.com/p/d32e55c2f1ba) |
+| Fri, 24 Oct 2025 14:02:15 GMT | Vulnhub Stapler Walkthrough Step-by-Step | cyber pancake | [Read More](https://medium.com/p/031e87dd7f6c) |
+| Fri, 24 Oct 2025 14:01:55 GMT | The Next Cyber Battleground: When the Firewall Fails | Abatis ABTU | [Read More](https://medium.com/p/e95014121f17) |
+| Fri, 24 Oct 2025 14:01:52 GMT | Cyber Briefing: 2025.10.24 | CyberMaterial | [Read More](https://medium.com/p/e7cb99c82f4e) |
+| Fri, 24 Oct 2025 13:57:29 GMT | Unmasking the Deceptive Threat: Server-Side Request Forgery (SSRF)-A10- OWASP top 10 - 10 day’s… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/c2ab1385e8de) |
+| Fri, 24 Oct 2025 13:47:32 GMT | Adulting: We Don’t Share Everything | Precious Temidayo Ajayi | [Read More](https://medium.com/p/78fb74d5a755) |
+| Fri, 24 Oct 2025 13:46:31 GMT | Why I’m Learning C++: A Calculator and the Path to Reverse Engineering | Ayomide Trillionz | [Read More](https://medium.com/p/71b0d1c9372e) |
+| Fri, 24 Oct 2025 13:45:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/2b5284a1ceae) |
+| Fri, 24 Oct 2025 13:45:19 GMT | How I Learned the Hard Way That Security Matters More Than Profits in Crypto Trading | Alejandro Morales | [Read More](https://medium.com/p/ec3ae499b6ee) |
+| Fri, 24 Oct 2025 13:41:21 GMT | Small Team Kubernetes Security: Applying DevSecOps in Practice | Dev0ps | [Read More](https://medium.com/p/7eebecf9e9fa) |
+| Fri, 24 Oct 2025 13:39:26 GMT | Atlassian’s Two-Week Outage — When an Internal Script Went Too Far. | Eunice | [Read More](https://medium.com/p/800f5dfe6dd9) |
+| Fri, 24 Oct 2025 13:32:49 GMT | How I Bypassed a Security Lockout to Protect User Accounts | Ibtissam hammadi | [Read More](https://medium.com/p/0d2bfde94ffa) |
+| Fri, 24 Oct 2025 13:32:04 GMT | Cyber Security Forensics: Unraveling Digital Crimes | Cyber Security Research | [Read More](https://medium.com/p/90487deadf84) |
+| Fri, 24 Oct 2025 13:30:33 GMT | Effortless Authentication: Integrating Okta SSO in Native Mobile Apps | gadagool krishna | [Read More](https://medium.com/p/b43457830f42) |
+| Fri, 24 Oct 2025 13:30:19 GMT | Coding the Unseen: How Negative Space Programming Fortifies Your Future | Namir Sagheenanajar | [Read More](https://medium.com/p/449da8760a58) |
+| Fri, 24 Oct 2025 13:30:03 GMT | Navigating Modern Website Security Challenges in 2025 | Maverick Steel | [Read More](https://medium.com/p/6e299bd93233) |
 | Fri, 24 Oct 2025 13:26:07 GMT | Sunset VulnHub Walkthrough: Enumeration to Privilege Escalation | Hanish | [Read More](https://medium.com/p/8b95231f8a3a) |
 | Fri, 24 Oct 2025 13:21:51 GMT | Penetration Testing Is Security Theater for Executives Who Don’t Understand Risk | Maxwell Cross | [Read More](https://medium.com/p/94cdea9894f8) |
 | Fri, 24 Oct 2025 13:17:50 GMT | Kubernetes RBAC: Practical Lessons | Sridhar | [Read More](https://medium.com/p/e3c5c3f53d34) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 09:06:44 GMT | Active Directory’de adminCount=1, AdminSDHolder ve Güvenli Delegasyon: Uçtan Uca Derinlemesine… | Tuğrul Kılıç | [Read More](https://medium.com/p/ea9e8fffed8d) |
 | Fri, 24 Oct 2025 09:03:12 GMT | Entry Level Cyber Security Remote: Top Jobs & Expert Tips 2025 | Techzonego | [Read More](https://medium.com/p/fe55f89a8d37) |
 | Fri, 24 Oct 2025 08:59:36 GMT | Stop Risky Uploads! Validate File Contents in Angular for Better Security | sankar marimuthu | [Read More](https://medium.com/p/2b7ea618b0d5) |
-| Fri, 24 Oct 2025 08:48:56 GMT | How to Use IPING to Check if an IP is Malicious | Lily | [Read More](https://medium.com/p/a8b913d6d0c7) |
-| Fri, 24 Oct 2025 08:42:57 GMT | Pitfall of Potential Stored XSS in Markdown Editors | Brian Liang | [Read More](https://medium.com/p/1d9e0d2df93a) |
-| Fri, 24 Oct 2025 08:42:15 GMT | Unlocking Seamless & Secure Access: Introducing Generalized OIDC Authentication in Apache… | Apache DolphinScheduler | [Read More](https://medium.com/p/6bf79d8d63f0) |
-| Fri, 24 Oct 2025 08:42:07 GMT | How to Integrate Real-Time Data into Your Fantasy Sports App | Vinfotech | [Read More](https://medium.com/p/a3a137b0ba9e) |
-| Fri, 24 Oct 2025 08:39:25 GMT | Log Yönetimi ve Analizi 101 | Cyber Web | [Read More](https://medium.com/p/adc532fed66f) |
-| Fri, 24 Oct 2025 08:35:45 GMT | Know Your Bug — How to Report Like a Pro (From 50 Reports) | Viratavi | [Read More](https://medium.com/p/9a96d66e346f) |
-| Fri, 24 Oct 2025 08:28:29 GMT | Why Graphic Designers Need Specialized IT Support for Their Systems | Ask IT Support | [Read More](https://medium.com/p/616b14807835) |
-| Fri, 24 Oct 2025 08:17:43 GMT | Breaking SSO: OAuth Token Theft, Pass-the-Cookie & Cloud Lateral Movement | Maxwell Cross | [Read More](https://medium.com/p/3415f1c9392e) |
-| Fri, 24 Oct 2025 08:01:51 GMT | Bug Bounty Edge: Find Exposed Credentials Before Recon | Alexandre Vandamme | [Read More](https://medium.com/p/b2852a0db53c) |
-| Fri, 24 Oct 2025 08:00:52 GMT | Joseph Lamar Simmons Discusses the Power of Satellite Surveillance | Joseph Lamar Simmons | [Read More](https://medium.com/p/bd1545e4209d) |
-| Fri, 24 Oct 2025 07:58:03 GMT | Securing the Future of AI Agents: Introducing MCP Security Analyzer | Yair Friedman | [Read More](https://medium.com/p/2fdd53c9a83c) |
-| Fri, 24 Oct 2025 07:57:01 GMT | AI Has Gone Physical: Can We Still Keep It Safe? | Abdelghani Alhijawi | [Read More](https://medium.com/p/3141bada57a2) |
-| Fri, 24 Oct 2025 07:55:12 GMT | The Daily Tech Digest: 24 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e80e088d9c7f) |
-| Fri, 24 Oct 2025 07:54:15 GMT | Technical Report On “Cybersecurity Measures in Small Businesses” | Serideinwei Oweifie | [Read More](https://medium.com/p/c6676a8cdd1c) |
-| Fri, 24 Oct 2025 07:53:10 GMT | AI Security Algorithms: The Invisible Guardians of Your Digital World | Sagar Sajwan | [Read More](https://medium.com/p/d75ccb27cd01) |
-| Fri, 24 Oct 2025 07:45:10 GMT | ประจำวันศุกร์ที่ 24 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/9632a692abdc) |
