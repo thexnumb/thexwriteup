@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 20:21:22 GMT | MinIO Latest Security Release — Now Available as alpine/minio Docker Image | Bill WANG | [Read More](https://medium.com/p/440af8e429ae) |
 | Fri, 24 Oct 2025 20:08:46 GMT | Bluetooth Mimarisi ve Temel Kavramlar-1 | Alperkandemir | [Read More](https://medium.com/p/df359bf6b22b) |
 | Fri, 24 Oct 2025 20:07:20 GMT | [HackTheBox x VulnLab Write-up] Retro (Pre2K compter and ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/79f4eb386cfd) |
 | Fri, 24 Oct 2025 20:06:30 GMT | [HackTheBox x VulnLab Write-up] Data (Grafana exploitation and Docker exec privilege escalation) | Chicken0248 | [Read More](https://medium.com/p/c412bbddfc2e) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 13:46:31 GMT | Why I’m Learning C++: A Calculator and the Path to Reverse Engineering | Ayomide Trillionz | [Read More](https://medium.com/p/71b0d1c9372e) |
 | Fri, 24 Oct 2025 13:45:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/2b5284a1ceae) |
 | Fri, 24 Oct 2025 13:45:19 GMT | How I Learned the Hard Way That Security Matters More Than Profits in Crypto Trading | Alejandro Morales | [Read More](https://medium.com/p/ec3ae499b6ee) |
-| Fri, 24 Oct 2025 13:41:21 GMT | Small Team Kubernetes Security: Applying DevSecOps in Practice | Dev0ps | [Read More](https://medium.com/p/7eebecf9e9fa) |
