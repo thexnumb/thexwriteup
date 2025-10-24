@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 17:21:37 GMT | The Fake Job Offer Stealing Europe’s Drone Secrets | Aj | [Read More](https://medium.com/p/096b12f1dee2) |
+| Fri, 24 Oct 2025 17:20:52 GMT | Tcpdump: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/42af5dd2aaed) |
+| Fri, 24 Oct 2025 17:00:21 GMT | Windows Server 2019 + Windows 11 Lab on VMware Workstation | Angel Gomez Jr. - IT Enthusiast | [Read More](https://medium.com/p/781801134b8b) |
+| Fri, 24 Oct 2025 16:58:22 GMT | Part 6: Virtual Box Home Lab — Joining a End User to the Domain, and adding Group Policy. | Declan | [Read More](https://medium.com/p/abe38824f590) |
+| Fri, 24 Oct 2025 16:54:25 GMT | Setup and Tune an OT SOC (Part 3): Purple Teaming, ICS Equipment Recon & Detections. | biero llagas | [Read More](https://medium.com/p/1aa7bac09966) |
+| Fri, 24 Oct 2025 16:51:22 GMT | Learning Fortinet Firewall — LESSON XX: DNS Forward & Reverse Lookup (Active Directory) | Rouell Mamaril | [Read More](https://medium.com/p/1c35c84799c3) |
 | Fri, 24 Oct 2025 16:47:57 GMT | What Is a Computer Architecture? | Atakan Bitim | [Read More](https://medium.com/p/f2233ee2bbff) |
 | Fri, 24 Oct 2025 16:47:50 GMT | Bilgisayar Mimarisi (Computer Architecture) Nedir? | Atakan Bitim | [Read More](https://medium.com/p/23a94dd51d5a) |
 | Fri, 24 Oct 2025 16:38:35 GMT | How to Stay Motivated When You Hate Your Job | Global Whirl of Wonders | [Read More](https://medium.com/p/5219521e108c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 12:20:59 GMT | HacktheBox: Driver Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/d489f5f07ad1) |
 | Fri, 24 Oct 2025 12:19:19 GMT | Evasive | joseml | [Read More](https://medium.com/p/77e46435914f) |
 | Fri, 24 Oct 2025 12:15:14 GMT | Disenchantment | Lonely solacee | [Read More](https://medium.com/p/8921db691d34) |
-| Fri, 24 Oct 2025 12:13:38 GMT | cybersecurity free risk assessment | C | [Read More](https://medium.com/p/e787251d0ae9) |
-| Fri, 24 Oct 2025 12:11:57 GMT | eJPT — 3.5 CTF 1: Post-Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/640bb66c0dc0) |
-| Fri, 24 Oct 2025 12:10:53 GMT | Why Cybersecurity Is the Fastest-Growing Career of the Decade | Deepak Sharma | [Read More](https://medium.com/p/b441f83302ef) |
-| Fri, 24 Oct 2025 12:10:04 GMT | [OverTheWire] Bandit Level 4 → 5 | H$nt | [Read More](https://medium.com/p/76ec4203a474) |
-| Fri, 24 Oct 2025 12:08:49 GMT | Leakbase — even more leaks! | Chloe Tan | [Read More](https://medium.com/p/dfeb5aea1db1) |
-| Fri, 24 Oct 2025 12:08:30 GMT | How to Get Aramco CCC Approval: Step-by-Step Process Explained | FIT Solution | [Read More](https://medium.com/p/0d07dc2daf0e) |
