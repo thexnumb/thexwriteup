@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 03:44:23 GMT | Relevant - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/25870f93fb96) |
+| Fri, 24 Oct 2025 03:35:49 GMT | How I Accidentally Became the Company’s Unofficial File Clerk (And Saw Everyone’s Secrets) | Iski | [Read More](https://medium.com/p/816e09bca109) |
+| Fri, 24 Oct 2025 03:31:58 GMT | How Threat Actors Weaponize Windows Scheduled Tasks for Stealthy Persistence | Deven Chhajed | [Read More](https://medium.com/p/73356090b93c) |
+| Fri, 24 Oct 2025 02:55:32 GMT | Setting Up pfSense Firewalls for Segmentation & Routing | Meet Patel | [Read More](https://medium.com/p/aeac03a337d7) |
 | Fri, 24 Oct 2025 02:46:38 GMT | The New Role of IT Managed Services in Fontana, CA in Today’s Cybersecurity Channel | Zeta Sky | [Read More](https://medium.com/p/a75933b7af29) |
 | Fri, 24 Oct 2025 02:39:26 GMT | Understanding My Home Network and Its Risks | Thaís Lima | [Read More](https://medium.com/p/6bfb814eac17) |
 | Fri, 24 Oct 2025 02:31:54 GMT | Your Must-Have Linux Security Superpower: Mastering auditd | Chanaka Rathnayaka | [Read More](https://medium.com/p/f107cd54bd77) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 16:58:26 GMT | Governance as Code | Apolis | [Read More](https://medium.com/p/790d3785d2e3) |
 | Thu, 23 Oct 2025 16:57:32 GMT | How I Found My Way Into Cybersecurity as a Woman | Kylee Cox | [Read More](https://medium.com/p/91f605ceac19) |
 | Thu, 23 Oct 2025 16:54:26 GMT | Enhance Endpoint Security with VMware Carbon Black Software | Kevin Asutton | [Read More](https://medium.com/p/a25634294db6) |
-| Thu, 23 Oct 2025 16:52:21 GMT | Code is Content: How “Indirect Prompt Injection” Attacks Expose the Core Flaw in LLM Metaphysics | Julian Soloninka | [Read More](https://medium.com/p/ed65169b2d2a) |
-| Thu, 23 Oct 2025 16:33:42 GMT | “I Agree” Doesn’t Mean You Understand: How Privacy Jargon Tricks Us Into False Consent | Ivan Junior | [Read More](https://medium.com/p/ab50979bb2d2) |
-| Thu, 23 Oct 2025 16:29:52 GMT | Optimizing Global Permissions vs Project Permissions | Erdem UÇAK | [Read More](https://medium.com/p/5ebeb5a108af) |
-| Thu, 23 Oct 2025 16:27:31 GMT | Beyond the Classroom: What 6 Hours Inside a Deloitte Cybersecurity Simulation Taught Me ️ | Rohit Prajapati | [Read More](https://medium.com/p/7c246fe27161) |
