@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 01:26:57 GMT | Direct Prompt Injection: A Critical New Security Challenge for Software Engineers & QA’s | Sam Sperling | [Read More](https://medium.com/p/16723ef57efc) |
+| Fri, 24 Oct 2025 01:14:00 GMT | We Talk About Cyber Threats, but Rarely About Digital Responsibility. It’s Time We Did. | Rabail Zaheer | [Read More](https://medium.com/p/35cfcef85eb3) |
+| Fri, 24 Oct 2025 01:13:55 GMT | When AI Watches the Door: Building a Smart Security System with YOLOv11 | Mustapha Aitigunaoun | [Read More](https://medium.com/p/cd6b80acb6d4) |
+| Fri, 24 Oct 2025 01:13:50 GMT | OSCP Exam Success: 10 Must-Know Commands and Tools Every Pentester Should Master | Got Root? | [Read More](https://medium.com/p/4b514bf64ccd) |
+| Fri, 24 Oct 2025 01:13:43 GMT | Protecting Sensitive Data with Cloud Data Loss Prevention (DLP) | Samina Perveen | [Read More](https://medium.com/p/03837192ab1f) |
+| Fri, 24 Oct 2025 01:10:40 GMT | Advanced zrok Techniques for Ethical Hackers: Secure Tunneling Made Simple | D Johnston | [Read More](https://medium.com/p/687a254f598e) |
+| Fri, 24 Oct 2025 01:06:48 GMT | Faranak Firozan Hosts Coaching Seminars to Help Tech Workers Navigate New H-1B Visa Rule Changes | Shahidgb | [Read More](https://medium.com/p/b51da5f331ea) |
+| Fri, 24 Oct 2025 00:47:06 GMT | F5 Networks: After the Attack | Raviteja Mureboina | [Read More](https://medium.com/p/a2e860040b38) |
+| Fri, 24 Oct 2025 00:36:37 GMT | The Rise of Deepfake Threats: Can You Trust What You See Online? | AbdelAziz Mahmud | [Read More](https://medium.com/p/7fabed4f9842) |
+| Fri, 24 Oct 2025 00:24:40 GMT | Weekly Threat Intelligece Report 20 Oct 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/10ef92e9a3f1) |
+| Fri, 24 Oct 2025 00:20:57 GMT | Monthly Threat Actor Group Intelligence Report, September 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1e830b3be023) |
+| Fri, 24 Oct 2025 00:02:17 GMT | Guía de Arjun para Descubrimiento de Parámetros HTTP Ocultos y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/eb6384bbcea5) |
+| Fri, 24 Oct 2025 00:01:42 GMT | Dog — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/85a1d3fb450f) |
+| Thu, 23 Oct 2025 23:54:37 GMT | Lesson 1 : Introduction to Cybersecurity | YogiCode | [Read More](https://medium.com/p/ffa29544fe85) |
+| Thu, 23 Oct 2025 23:54:15 GMT | How to Remove All IP Addresses from a File Using Sublime Text (Step-by-Step Guide) | Jared Douville | [Read More](https://medium.com/p/f4523cd2683b) |
+| Thu, 23 Oct 2025 23:41:09 GMT | Beyond the Firewall: My Day as a SOC Analyst Simulating a SIEM | Wesley Santos | [Read More](https://medium.com/p/7b3e49591da8) |
+| Thu, 23 Oct 2025 23:32:34 GMT | We’re Building the Internet Again (And I’m Not Sure We’re Ready) | Automation Labs | [Read More](https://medium.com/p/c290814680f8) |
 | Thu, 23 Oct 2025 23:24:57 GMT | Hackviser — Rivalry Scenario Walkthrough | Minosh Umayanga | [Read More](https://medium.com/p/2bb6a23adcfd) |
 | Thu, 23 Oct 2025 23:16:59 GMT | Gotham’s Digital Underworld | David ONeal | [Read More](https://medium.com/p/3b18fc63be5c) |
 | Thu, 23 Oct 2025 23:15:29 GMT | Cyber Extortion — How Criminals Prey on Youth | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/8be81bff098a) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 16:02:22 GMT | What kind of Person Are You Choosing To Be? | Adeola Agbelemoge | [Read More](https://medium.com/p/5abd72a380f8) |
 | Thu, 23 Oct 2025 16:02:11 GMT | Weaponized DNS: Resolving remote commands | umbraXsecure | [Read More](https://medium.com/p/65e8fba4458f) |
 | Thu, 23 Oct 2025 15:51:25 GMT | How to Get Rid of Box Elder Bugs: Your Comprehensive Guide | Nabil | [Read More](https://medium.com/p/c9a3a2adc198) |
-| Thu, 23 Oct 2025 15:45:14 GMT | The CIA Triad: The Three Pillars of Cybersecurity Explained Simply | Nway Nway Zay Ya | [Read More](https://medium.com/p/a4f94c65d4f2) |
-| Thu, 23 Oct 2025 15:42:54 GMT | All our AI Sci-Fi movies fears are coming true. | Kavya Sharma | [Read More](https://medium.com/p/111d00938401) |
-| Thu, 23 Oct 2025 15:42:27 GMT | Managed SOC Services for the Travel Industry in the U.S. | Aaishasharma | [Read More](https://medium.com/p/3b037f4d9f3e) |
-| Thu, 23 Oct 2025 15:41:49 GMT | Why 99% of Cloud Scheduler Tutorials Are a Security Nightmare | Gauraw Singh | [Read More](https://medium.com/p/7e09df6a7f6b) |
-| Thu, 23 Oct 2025 15:38:49 GMT | Welcome to Handvantage: Simplifying Growth Through Smart Automation & Cybersecurity | Handvantage | [Read More](https://medium.com/p/3a19b6ed4a05) |
-| Thu, 23 Oct 2025 15:33:02 GMT | Digital Assets Are Under Siege — And Why It’s Time for a Different Kind of Defence | Abatis ABTU | [Read More](https://medium.com/p/323b8f033256) |
-| Thu, 23 Oct 2025 15:32:08 GMT | DOOM Challenge — Complete Writeup CSEM Web Arena | CSEM | [Read More](https://medium.com/p/784a677b39de) |
-| Thu, 23 Oct 2025 15:28:05 GMT | Má vaše organizace plán, co dělat, když „spadne cloud“? | Cyber Solution | [Read More](https://medium.com/p/00097ed3e678) |
-| Thu, 23 Oct 2025 15:27:22 GMT | Deconstructing “Wmiexec-Pro” | Koifsec | [Read More](https://medium.com/p/c3e8586ebdf8) |
-| Thu, 23 Oct 2025 15:19:37 GMT | What exactly do we own on the internet right now ? | Praveen Kanniah | [Read More](https://medium.com/p/263562bc6115) |
-| Thu, 23 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 21, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/45662c92324a) |
-| Thu, 23 Oct 2025 15:13:13 GMT | Microsoft Recall Controversy: Is Your Data Safe? | nodminger | [Read More](https://medium.com/p/f7b7ebe8838e) |
-| Thu, 23 Oct 2025 14:57:33 GMT | CISA Confirms Exploitation of Latest Oracle EBS Vulnerability | IT_Engineer | [Read More](https://medium.com/p/47d4e7b2fc21) |
-| Thu, 23 Oct 2025 14:48:16 GMT | SOC106 — Found Suspicious File — TI Data | ahmed abdulaziz | [Read More](https://medium.com/p/1efa4b2ddc34) |
-| Thu, 23 Oct 2025 14:46:19 GMT | Claiming Monad Airdrops​ | Slerf coin | [Read More](https://medium.com/p/181fbbd23769) |
-| Thu, 23 Oct 2025 14:44:33 GMT | Monad Airdrop Details | Slerf coin | [Read More](https://medium.com/p/5af1eb60c00b) |
-| Thu, 23 Oct 2025 14:44:27 GMT | Host your next project — How to find cheap hosting | th3_d4v1d_c0de | [Read More](https://medium.com/p/ea66f09a61e6) |
