@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 09:36:18 GMT | Tenable Nessus A Vulnarability Management Tool | Sreeraj S Chandran | [Read More](https://medium.com/p/d4225fab83b0) |
+| Fri, 24 Oct 2025 09:29:56 GMT | Portswigger Academy — Exploiting cross-site scripting to steal cookies (without Burp Collaborator)… | Alan | [Read More](https://medium.com/p/cb500cae2f32) |
 | Fri, 24 Oct 2025 09:19:20 GMT | Policy Wrote The Discord Breach Before Hackers Found It | Tom Hillman | [Read More](https://medium.com/p/ff08cb8a874c) |
 | Fri, 24 Oct 2025 09:16:03 GMT | How Landscaping Works? A Simple Story Behind Green Spaces | Asna Futorics | [Read More](https://medium.com/p/64a7f3329fbd) |
 | Fri, 24 Oct 2025 09:11:50 GMT | Fortress Network: VLANs, VPNs & Kill Switches? | SilentInject | [Read More](https://medium.com/p/afde80103c58) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 01:13:50 GMT | OSCP Exam Success: 10 Must-Know Commands and Tools Every Pentester Should Master | Got Root? | [Read More](https://medium.com/p/4b514bf64ccd) |
 | Fri, 24 Oct 2025 01:13:43 GMT | Protecting Sensitive Data with Cloud Data Loss Prevention (DLP) | Samina Perveen | [Read More](https://medium.com/p/03837192ab1f) |
 | Fri, 24 Oct 2025 01:10:40 GMT | Advanced zrok Techniques for Ethical Hackers: Secure Tunneling Made Simple | D Johnston | [Read More](https://medium.com/p/687a254f598e) |
-| Fri, 24 Oct 2025 01:06:48 GMT | Faranak Firozan Hosts Coaching Seminars to Help Tech Workers Navigate New H-1B Visa Rule Changes | Shahidgb | [Read More](https://medium.com/p/b51da5f331ea) |
-| Fri, 24 Oct 2025 00:47:06 GMT | F5 Networks: After the Attack | Raviteja Mureboina | [Read More](https://medium.com/p/a2e860040b38) |
