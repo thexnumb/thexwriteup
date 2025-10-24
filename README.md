@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 19:13:06 GMT | Year of the Rabbit — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/665c4764615f) |
+| Fri, 24 Oct 2025 19:11:35 GMT | Writeup HackTheBox : The Wax-Circle Reclaimed ! How I solved it ! | hehash | [Read More](https://medium.com/p/be8d9c7b9e4a) |
+| Fri, 24 Oct 2025 19:09:17 GMT | Siber Güvenlik Temel Kavramlar Rehberi | Rabia Günay | [Read More](https://medium.com/p/705084154057) |
+| Fri, 24 Oct 2025 19:05:18 GMT | Philips Wi-Fi Smart Lock with Handle — The Best Keyless Entry Door Lock for Smart Homes in the USA… | SellTrek | [Read More](https://medium.com/p/b1fdb5d1e217) |
+| Fri, 24 Oct 2025 18:48:03 GMT | Echoes Of the Code | Uzair | [Read More](https://medium.com/p/a72171a42302) |
 | Fri, 24 Oct 2025 18:32:29 GMT | The Kind of Words That Turn Friends Into Lifelong Allies | THUMB | [Read More](https://medium.com/p/87063e20d9d2) |
+| Fri, 24 Oct 2025 18:24:40 GMT | Writeup — The Gate of Broken Names (Satellite Notes — IDOR / Access Control Failure) | hehash | [Read More](https://medium.com/p/c94f436c37ff) |
 | Fri, 24 Oct 2025 18:23:53 GMT | ##  **GÜNLÜK ANALİZ SÜRECİ — ÖZET NOTLAR** | Myusuftr | [Read More](https://medium.com/p/26cc3806e305) |
 | Fri, 24 Oct 2025 18:23:51 GMT | eJPT — 3.5 CTF 2 Post-Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/545b111dd3e3) |
 | Fri, 24 Oct 2025 18:21:34 GMT | IDS-IPS türleri | Myusuftr | [Read More](https://medium.com/p/acc7273b4336) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 13:16:23 GMT | NAIROBI PASTOR HAS FALLEN! | Mercy Karagi | [Read More](https://medium.com/p/b6ea347680f9) |
 | Fri, 24 Oct 2025 13:14:55 GMT | The Fear of Getting Close | hinclover | [Read More](https://medium.com/p/0b7cef55e21a) |
 | Fri, 24 Oct 2025 13:14:44 GMT | SOC 2 Compliance with AI: How to Collect Evidence Automatically Without Breaking Rules | Technijian | [Read More](https://medium.com/p/6db95c19fde0) |
-| Fri, 24 Oct 2025 13:13:54 GMT | How to Spot a Phishing Email | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/43d411d2e6d4) |
-| Fri, 24 Oct 2025 13:04:52 GMT | BlueTeam: DCSYNC Attack — Quick Response cheatSheet | Damag3dRoot | [Read More](https://medium.com/p/7c3ebfaf105d) |
-| Fri, 24 Oct 2025 13:01:53 GMT | The Invisible Threat: Can a Single Phone Call Hijack Your Accounts? | Favour  Elijah | [Read More](https://medium.com/p/ed1b68221adf) |
-| Fri, 24 Oct 2025 13:01:07 GMT | Top Cybersecurity Tips Every Web Design Company in Houston Should Follow | Web Bonafide | [Read More](https://medium.com/p/7155b885ffd3) |
-| Fri, 24 Oct 2025 12:53:15 GMT | Mini-Lab Project — Splunk Detection | Ali Raza | [Read More](https://medium.com/p/a3befa116a75) |
-| Fri, 24 Oct 2025 12:50:10 GMT | The Cybersecurity Roadmap: 5 Courses That Take You From Beginner to Pro | Code Link | [Read More](https://medium.com/p/e86b285bd2f9) |
