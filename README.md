@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 23:20:34 GMT | Cybersecurity and Global Politics in Asia’s Digital Century | David SEHYEON Baek | [Read More](https://medium.com/p/61e531645dfa) |
+| Fri, 24 Oct 2025 23:19:57 GMT | Vendor Risk Management and Privacy; Going beyond Questionnaires and Checklists | Tochi Obayi | [Read More](https://medium.com/p/5702b9175127) |
 | Fri, 24 Oct 2025 22:57:01 GMT | Linux for AI: Understanding Users, Permissions, and Ownership (Practice in WSL) | Rayan Yassminh | [Read More](https://medium.com/p/9d87dd395c5e) |
 | Fri, 24 Oct 2025 22:52:51 GMT | The Rising Cyber Threat Landscape in Africa: What Businesses Must Know | Blue King | [Read More](https://medium.com/p/e5c60cc87e01) |
 | Fri, 24 Oct 2025 22:51:50 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/15d8048335a7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 15:00:30 GMT | Mastering the C-EH v13: Journey Through the Theory and Practical Exams | Jibran Ali | [Read More](https://medium.com/p/6391c95b14fb) |
 | Fri, 24 Oct 2025 14:59:31 GMT | 8 Modern CSS Tricks Every Frontend Developer Should Know in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/32fd0d97d5f6) |
 | Fri, 24 Oct 2025 14:56:11 GMT | TShark: The Basics - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/4260d9f6841d) |
-| Fri, 24 Oct 2025 14:55:11 GMT | Windows 2019 Server Wazuh Agent ve VMware Ortamında Ubuntuya Wazuh Manger Kurulumu | Hakan ÇEVİK | [Read More](https://medium.com/p/1af39b256b49) |
-| Fri, 24 Oct 2025 14:54:48 GMT | “The WordPress XSS That Proved Even Security Teams Get It Wrong” | Aman Sharma | [Read More](https://medium.com/p/e68754f88056) |
