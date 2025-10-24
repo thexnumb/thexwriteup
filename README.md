@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 19:30:59 GMT | 5 Security Configurations You Should Change Today | JSOC IT BLOG | [Read More](https://medium.com/p/695fa14ac585) |
+| Fri, 24 Oct 2025 19:27:52 GMT | Why Bother With Kasm Workspace? | Roberto Salazar | [Read More](https://medium.com/p/35de778f57b9) |
+| Fri, 24 Oct 2025 19:27:18 GMT | HTB_Academy: Pivoting, Tunneling, and Port Forwarding: Dynamic Port Forwarding with SSH and SOCKS… | Babatunde Ojo | [Read More](https://medium.com/p/d15a2fc21882) |
+| Fri, 24 Oct 2025 19:17:11 GMT | Phishing 101: Your Complete Guide To Phishing | Spokeo People Search | [Read More](https://medium.com/p/47254743496f) |
 | Fri, 24 Oct 2025 19:13:06 GMT | Year of the Rabbit — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/665c4764615f) |
 | Fri, 24 Oct 2025 19:11:35 GMT | Writeup HackTheBox : The Wax-Circle Reclaimed ! How I solved it ! | hehash | [Read More](https://medium.com/p/be8d9c7b9e4a) |
 | Fri, 24 Oct 2025 19:09:17 GMT | Siber Güvenlik Temel Kavramlar Rehberi | Rabia Günay | [Read More](https://medium.com/p/705084154057) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 13:30:03 GMT | Navigating Modern Website Security Challenges in 2025 | Maverick Steel | [Read More](https://medium.com/p/6e299bd93233) |
 | Fri, 24 Oct 2025 13:26:07 GMT | Sunset VulnHub Walkthrough: Enumeration to Privilege Escalation | Hanish | [Read More](https://medium.com/p/8b95231f8a3a) |
 | Fri, 24 Oct 2025 13:21:51 GMT | Penetration Testing Is Security Theater for Executives Who Don’t Understand Risk | Maxwell Cross | [Read More](https://medium.com/p/94cdea9894f8) |
-| Fri, 24 Oct 2025 13:17:50 GMT | Kubernetes RBAC: Practical Lessons | Sridhar | [Read More](https://medium.com/p/e3c5c3f53d34) |
-| Fri, 24 Oct 2025 13:16:23 GMT | NAIROBI PASTOR HAS FALLEN! | Mercy Karagi | [Read More](https://medium.com/p/b6ea347680f9) |
-| Fri, 24 Oct 2025 13:14:55 GMT | The Fear of Getting Close | hinclover | [Read More](https://medium.com/p/0b7cef55e21a) |
-| Fri, 24 Oct 2025 13:14:44 GMT | SOC 2 Compliance with AI: How to Collect Evidence Automatically Without Breaking Rules | Technijian | [Read More](https://medium.com/p/6db95c19fde0) |
