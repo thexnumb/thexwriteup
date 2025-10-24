@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 22:38:21 GMT | AI-Powered CCTV Camera Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/8c18026a1f5d) |
+| Fri, 24 Oct 2025 22:32:56 GMT | Reading the Signals: Why the Government Still Isn’t Keeping Up with AI | Noemi | [Read More](https://medium.com/p/cf5b7c1cc38c) |
+| Fri, 24 Oct 2025 22:30:58 GMT | The Tiny Blanket Is Revolutionizing Comfort at 35,000 Feet | Marc Ford | [Read More](https://medium.com/p/cff3bdc1ac3d) |
+| Fri, 24 Oct 2025 22:08:55 GMT | BumbleSting Lab/CyberDefenders | Jake Boyd | [Read More](https://medium.com/p/71c68778f69f) |
 | Fri, 24 Oct 2025 21:51:46 GMT | When Passion and Practicality Don’t Align: a tale from a cyber security engineer… | Wafa | [Read More](https://medium.com/p/856162f79351) |
 | Fri, 24 Oct 2025 21:41:57 GMT | Why modern love feels so complicated: | Eniola Ogunsusi | [Read More](https://medium.com/p/afcc9f1e1e3c) |
 | Fri, 24 Oct 2025 21:33:52 GMT | ⚠️ STOP: AI Browsers (Comet, Fellou) Are Hijacking Systems in Ways You Can’t See — Take Action… | Bireshkumar | [Read More](https://medium.com/p/7ae38cfa6351) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 14:50:07 GMT | Wireshark: Traffic Analysis - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/c7c1069732c9) |
 | Fri, 24 Oct 2025 14:47:29 GMT | The Softness We Hide Behind Strength | Olajimi praise oluwakemi | [Read More](https://medium.com/p/c93ca86f07c9) |
 | Fri, 24 Oct 2025 14:45:15 GMT | Corridor & Neighbour TryHackme Write-up | iIyas | [Read More](https://medium.com/p/a1873b375dad) |
-| Fri, 24 Oct 2025 14:35:53 GMT | Maester — Ett mästerligt verktyg för att granska din Microsoft-tenant | Mathias Persson | [Read More](https://medium.com/p/2f096d734258) |
-| Fri, 24 Oct 2025 14:29:03 GMT | CONSISTENCY IS EVERYTHING: The Silent Weapon in My Journey | Vijay Kumar Gupta | [Read More](https://medium.com/p/e14b49ab0155) |
-| Fri, 24 Oct 2025 14:21:02 GMT | When the Cloud Stumbles: Lessons for CEOs and Boards About an AWS Outage | Tyson Martin | [Read More](https://medium.com/p/d6f918743b6f) |
-| Fri, 24 Oct 2025 14:18:57 GMT | Securing a Web Application with Azure Firewall: Deployment, Configuration, and Advanced Threat… | Ayomide Trillionz | [Read More](https://medium.com/p/dafbe8246657) |
