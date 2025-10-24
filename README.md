@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 05:09:04 GMT | Top 10 Tools for Bug Bounty Hunters in 2025 — Practical, fast, and battle-tested | Monujangra | [Read More](https://medium.com/p/e090866a9b64) |
+| Fri, 24 Oct 2025 04:59:13 GMT | Building Guardrails for Generative AI: The New Security Playbook for Organizations | SYED ABBAS ALI AZGHAR HUSSAIN | [Read More](https://medium.com/p/9ad72c47fc42) |
+| Fri, 24 Oct 2025 04:58:18 GMT | How to Find the Password Quickly Using Google Dorking Only! | Testone5iix | [Read More](https://medium.com/p/6455b6ef03bb) |
+| Fri, 24 Oct 2025 04:55:23 GMT | HTTP: The Secret Language of the Web We All Use but Never See | Salimassili | [Read More](https://medium.com/p/8ae87661c75d) |
+| Fri, 24 Oct 2025 04:52:15 GMT | Towards an industrial IoT — Cybersecurity (part #9) | Fabrice TRAN-XUAN | [Read More](https://medium.com/p/74949dd03941) |
+| Fri, 24 Oct 2025 04:44:33 GMT | Weaponizing Your Bug Bounties: Turning Security Research into a Career (Consulting, Training, and… | Maxwell Cross | [Read More](https://medium.com/p/afd3d47235cc) |
+| Fri, 24 Oct 2025 04:43:44 GMT | Understanding DNS: The Invisible Map That Guides the Internet | Salimassili | [Read More](https://medium.com/p/4a4106182cb5) |
 | Fri, 24 Oct 2025 04:39:37 GMT | Part 2: Understanding JWT: The Backbone of Modern Authentication | Kalpesh Laddha | [Read More](https://medium.com/p/6823fc8d149b) |
 | Fri, 24 Oct 2025 04:38:07 GMT | How I Cleared CPENT & LPT Master — The Real Journey of Becoming an Advanced Penetration Tester | Monujangra | [Read More](https://medium.com/p/05e7d4106e67) |
 | Fri, 24 Oct 2025 04:36:20 GMT | Networking Deep Dive: From Port Forwarding to VLANs — Understanding the Internet Like a Pro | Salimassili | [Read More](https://medium.com/p/05539b0f1dc7) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 18:00:27 GMT | Ethical and Regulatory Frameworks for Generative AI in Cybersecurity | Chad Barr | [Read More](https://medium.com/p/258e1c96a3fd) |
 | Thu, 23 Oct 2025 17:58:36 GMT | Web Development Baseline Essentials for Sri Lankan Research Non‑Profits | Nandula Asel Karunasingha | [Read More](https://medium.com/p/f83a45baa6ee) |
 | Thu, 23 Oct 2025 17:58:05 GMT | Simulation’s New Playbook: Shifting from Movement-Based Games to Strategic Industry Case Scenarios | Berend Watchus | [Read More](https://medium.com/p/b1591b8fe368) |
-| Thu, 23 Oct 2025 17:55:26 GMT | Book 3 : Ghosts of Balochistan: The Border Lies, the Truth Hides (The R & A.W. | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/50549ef92761) |
-| Thu, 23 Oct 2025 17:54:57 GMT | The Rise of Bug Bounty Hunters: How Ethical Hacking Became a Global Profession | Hassan Talal | [Read More](https://medium.com/p/193db48a9b5e) |
-| Thu, 23 Oct 2025 17:43:23 GMT | Why JWTs are a Security Minefield and What to Use Instead in 2025 ⚠️ | Indrajit | [Read More](https://medium.com/p/ff6109f88db0) |
-| Thu, 23 Oct 2025 17:40:48 GMT | Silent Footprint CTF by INE | The.Flying.Wolf | [Read More](https://medium.com/p/663f4b7ee3d6) |
-| Thu, 23 Oct 2025 17:39:29 GMT | Email Forensics Made Easy: Spotting Phishing & Spoofing Attacks | ze4rch1tect | [Read More](https://medium.com/p/2ccd6da2a505) |
-| Thu, 23 Oct 2025 17:38:43 GMT | Magento RCE Crisis Three in Five Stores Found Vulnerable as Exploits Hit the Wild | Chetan Seripally | [Read More](https://medium.com/p/d06cbc288cc9) |
-| Thu, 23 Oct 2025 17:31:01 GMT | Is ChatGPT Making It Easier for Scammers to Trick You? | Spokeo People Search | [Read More](https://medium.com/p/640bbdbd8db9) |
