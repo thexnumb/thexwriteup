@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 15:15:18 GMT | Microsoft Recall vs Rewind AI: Which Tool Should You Use? | nodminger | [Read More](https://medium.com/p/b9b40a8283fc) |
+| Fri, 24 Oct 2025 15:10:03 GMT | From No-Wi-Fi As a Kid to Launching My Own Cybersecurity Firm | Vivektumma27 | [Read More](https://medium.com/p/630674bd1d47) |
+| Fri, 24 Oct 2025 15:08:19 GMT | AI for CyberSecurity | Raghavahuja | [Read More](https://medium.com/p/67702d9d0bfd) |
+| Fri, 24 Oct 2025 15:04:10 GMT | Mastering XSS on a Bug Bounty Platform: Finding, Understanding & Bypassing Defense. | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7a6693284091) |
+| Fri, 24 Oct 2025 15:01:53 GMT | TShark CLI Wireshark Features - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/c6c5e7b9cfb5) |
+| Fri, 24 Oct 2025 15:00:30 GMT | Mastering the C-EH v13: Journey Through the Theory and Practical Exams | Jibran Ali | [Read More](https://medium.com/p/6391c95b14fb) |
+| Fri, 24 Oct 2025 14:59:31 GMT | 8 Modern CSS Tricks Every Frontend Developer Should Know in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/32fd0d97d5f6) |
+| Fri, 24 Oct 2025 14:56:11 GMT | TShark: The Basics - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/4260d9f6841d) |
+| Fri, 24 Oct 2025 14:55:11 GMT | Windows 2019 Server Wazuh Agent ve VMware Ortamında Ubuntuya Wazuh Manger Kurulumu | Hakan ÇEVİK | [Read More](https://medium.com/p/1af39b256b49) |
+| Fri, 24 Oct 2025 14:54:48 GMT | “The WordPress XSS That Proved Even Security Teams Get It Wrong” | Aman Sharma | [Read More](https://medium.com/p/e68754f88056) |
+| Fri, 24 Oct 2025 14:50:07 GMT | Wireshark: Traffic Analysis - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/c7c1069732c9) |
+| Fri, 24 Oct 2025 14:47:29 GMT | The Softness We Hide Behind Strength | Olajimi praise oluwakemi | [Read More](https://medium.com/p/c93ca86f07c9) |
+| Fri, 24 Oct 2025 14:45:15 GMT | Corridor & Neighbour TryHackme Write-up | iIyas | [Read More](https://medium.com/p/a1873b375dad) |
 | Fri, 24 Oct 2025 14:35:53 GMT | Maester — Ett mästerligt verktyg för att granska din Microsoft-tenant | Mathias Persson | [Read More](https://medium.com/p/2f096d734258) |
 | Fri, 24 Oct 2025 14:29:03 GMT | CONSISTENCY IS EVERYTHING: The Silent Weapon in My Journey | Vijay Kumar Gupta | [Read More](https://medium.com/p/e14b49ab0155) |
 | Fri, 24 Oct 2025 14:21:02 GMT | When the Cloud Stumbles: Lessons for CEOs and Boards About an AWS Outage | Tyson Martin | [Read More](https://medium.com/p/d6f918743b6f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 10:27:58 GMT | Why Should Startups and SMB’s Opt for VCISO Services? | Ravikumar | [Read More](https://medium.com/p/f6e9177f490d) |
 | Fri, 24 Oct 2025 10:21:12 GMT | Achieve Global Security Standards with ISO 27001 Certification by Axipro | Axipro | [Read More](https://medium.com/p/8c8133085b41) |
 | Fri, 24 Oct 2025 10:15:32 GMT | CISSP Exam Career: Building a Future in Cybersecurity Leadership | Jack Lim | [Read More](https://medium.com/p/2c8a177d06ad) |
-| Fri, 24 Oct 2025 10:09:54 GMT | Avoid \Illuminate\Support\Collection::unique until further notice | marius-ciclistu | [Read More](https://medium.com/p/2488824799ea) |
-| Fri, 24 Oct 2025 10:08:20 GMT | XML-RPC Server-Side Request Forgery: How I Discovered a Critical WordPress Vulnerability | Madanu Akash | [Read More](https://medium.com/p/e624339a97cb) |
-| Fri, 24 Oct 2025 10:07:30 GMT | “We’re on Our Own Now?” When Security Budgets Get the Axe | Truspex | [Read More](https://medium.com/p/84613ab2b41f) |
-| Fri, 24 Oct 2025 10:01:53 GMT | Debugging the Human Firewall: Why People Are Always the Weakest Link | Franziska "Ziska" Fink | [Read More](https://medium.com/p/20a38eeb5891) |
-| Fri, 24 Oct 2025 09:56:23 GMT | Your Next Big Project Deserves Better (and Cheaper) Hosting | Janet Watson | [Read More](https://medium.com/p/968b511efa7d) |
-| Fri, 24 Oct 2025 09:55:28 GMT | When AWS Went Dark: What We Should Really Learn From It | Prasad Wani | [Read More](https://medium.com/p/d83e61f30f12) |
-| Fri, 24 Oct 2025 09:52:05 GMT | Cybersecurity in 2025: Trends, Challenges, and Best Practices | Abubakarrajar | [Read More](https://medium.com/p/67a81aa55580) |
-| Fri, 24 Oct 2025 09:50:04 GMT | Hotel Safe Reset?  Didn’t Know THIS Was Possible… | LateCheckout | [Read More](https://medium.com/p/41f01fd5fa89) |
-| Fri, 24 Oct 2025 09:48:07 GMT | Autonomous Purple Teaming: Continuous Validation with AI-driven Attack and Defense | Jackdavis Iap | [Read More](https://medium.com/p/41ca3f8178ce) |
-| Fri, 24 Oct 2025 09:47:43 GMT | Security Is Misunderstood, And UK Manufacturers Are Paying the Price | Luke Appleby | [Read More](https://medium.com/p/265b36f85eef) |
-| Fri, 24 Oct 2025 09:45:07 GMT | The Importance of Blast-Resistant Doors in Hospitals and Emergency Centers | Somnandiindustries | [Read More](https://medium.com/p/04f99af4ac9f) |
-| Fri, 24 Oct 2025 09:36:18 GMT | Tenable Nessus A Vulnarability Management Tool | Sreeraj S Chandran | [Read More](https://medium.com/p/d4225fab83b0) |
-| Fri, 24 Oct 2025 09:29:56 GMT | Portswigger Academy — Exploiting cross-site scripting to steal cookies (without Burp Collaborator)… | Alan | [Read More](https://medium.com/p/cb500cae2f32) |
