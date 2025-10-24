@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 10:09:54 GMT | Avoid \Illuminate\Support\Collection::unique until further notice | marius-ciclistu | [Read More](https://medium.com/p/2488824799ea) |
+| Fri, 24 Oct 2025 10:08:20 GMT | XML-RPC Server-Side Request Forgery: How I Discovered a Critical WordPress Vulnerability | Madanu Akash | [Read More](https://medium.com/p/e624339a97cb) |
+| Fri, 24 Oct 2025 10:07:30 GMT | “We’re on Our Own Now?” When Security Budgets Get the Axe | Truspex | [Read More](https://medium.com/p/84613ab2b41f) |
+| Fri, 24 Oct 2025 10:01:53 GMT | Debugging the Human Firewall: Why People Are Always the Weakest Link | Franziska "Ziska" Fink | [Read More](https://medium.com/p/20a38eeb5891) |
+| Fri, 24 Oct 2025 09:56:23 GMT | Your Next Big Project Deserves Better (and Cheaper) Hosting | Janet Watson | [Read More](https://medium.com/p/968b511efa7d) |
+| Fri, 24 Oct 2025 09:55:28 GMT | When AWS Went Dark: What We Should Really Learn From It | Prasad Wani | [Read More](https://medium.com/p/d83e61f30f12) |
+| Fri, 24 Oct 2025 09:52:05 GMT | Cybersecurity in 2025: Trends, Challenges, and Best Practices | Abubakarrajar | [Read More](https://medium.com/p/67a81aa55580) |
+| Fri, 24 Oct 2025 09:50:04 GMT | Hotel Safe Reset?  Didn’t Know THIS Was Possible… | LateCheckout | [Read More](https://medium.com/p/41f01fd5fa89) |
+| Fri, 24 Oct 2025 09:48:07 GMT | Autonomous Purple Teaming: Continuous Validation with AI-driven Attack and Defense | Jackdavis Iap | [Read More](https://medium.com/p/41ca3f8178ce) |
+| Fri, 24 Oct 2025 09:47:43 GMT | Security Is Misunderstood, And UK Manufacturers Are Paying the Price | Luke Appleby | [Read More](https://medium.com/p/265b36f85eef) |
+| Fri, 24 Oct 2025 09:45:07 GMT | The Importance of Blast-Resistant Doors in Hospitals and Emergency Centers | Somnandiindustries | [Read More](https://medium.com/p/04f99af4ac9f) |
 | Fri, 24 Oct 2025 09:36:18 GMT | Tenable Nessus A Vulnarability Management Tool | Sreeraj S Chandran | [Read More](https://medium.com/p/d4225fab83b0) |
 | Fri, 24 Oct 2025 09:29:56 GMT | Portswigger Academy — Exploiting cross-site scripting to steal cookies (without Burp Collaborator)… | Alan | [Read More](https://medium.com/p/cb500cae2f32) |
 | Fri, 24 Oct 2025 09:19:20 GMT | Policy Wrote The Discord Breach Before Hackers Found It | Tom Hillman | [Read More](https://medium.com/p/ff08cb8a874c) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 02:31:53 GMT | 3 Myths About PKI (and Why They’re Wrong) | TechTrellis Academy | [Read More](https://medium.com/p/7e0d765ad104) |
 | Fri, 24 Oct 2025 02:28:08 GMT | Keeping Children and Teens Safe on Apps: A Guide for Parents | Aysha Misri | [Read More](https://medium.com/p/0d29a56fa653) |
 | Fri, 24 Oct 2025 02:14:02 GMT | Big Shark RAT: The Leaked Android Malware Giving Hackers Full Remote Control in 2025 | Hackers Things | [Read More](https://medium.com/p/33515d7ca817) |
-| Fri, 24 Oct 2025 02:10:25 GMT | How I Earned $50 for a Session Bug That Never Got Properly Killed | Isha Sangpal | [Read More](https://medium.com/p/899d04b30aa5) |
-| Fri, 24 Oct 2025 02:03:40 GMT | How I solved the PortSwigger SQLI lab: determine number of columns with a UNION SELECT NULL attack | Cybernerddd | [Read More](https://medium.com/p/8c509cd25a6b) |
-| Fri, 24 Oct 2025 02:03:07 GMT | Quantum Computers — The Kryptonite of Today’s Encryption | Akhilkumar Y | [Read More](https://medium.com/p/b37d4ac72cc7) |
-| Fri, 24 Oct 2025 01:47:59 GMT | Inside the Mind of an Antivirus | Rodrigo Gutierrez | [Read More](https://medium.com/p/e49ba3d910ef) |
-| Fri, 24 Oct 2025 01:42:16 GMT | Abandon “Exquisite Poverty” After 30: Smart Saving for Financial Security | Fower Leo | [Read More](https://medium.com/p/25dd16484075) |
-| Fri, 24 Oct 2025 01:26:57 GMT | Direct Prompt Injection: A Critical New Security Challenge for Software Engineers & QA’s | Sam Sperling | [Read More](https://medium.com/p/16723ef57efc) |
-| Fri, 24 Oct 2025 01:14:00 GMT | We Talk About Cyber Threats, but Rarely About Digital Responsibility. It’s Time We Did. | Rabail Zaheer | [Read More](https://medium.com/p/35cfcef85eb3) |
-| Fri, 24 Oct 2025 01:13:55 GMT | When AI Watches the Door: Building a Smart Security System with YOLOv11 | Mustapha Aitigunaoun | [Read More](https://medium.com/p/cd6b80acb6d4) |
-| Fri, 24 Oct 2025 01:13:50 GMT | OSCP Exam Success: 10 Must-Know Commands and Tools Every Pentester Should Master | Got Root? | [Read More](https://medium.com/p/4b514bf64ccd) |
-| Fri, 24 Oct 2025 01:13:43 GMT | Protecting Sensitive Data with Cloud Data Loss Prevention (DLP) | Samina Perveen | [Read More](https://medium.com/p/03837192ab1f) |
-| Fri, 24 Oct 2025 01:10:40 GMT | Advanced zrok Techniques for Ethical Hackers: Secure Tunneling Made Simple | D Johnston | [Read More](https://medium.com/p/687a254f598e) |
