@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 08:17:43 GMT | Breaking SSO: OAuth Token Theft, Pass-the-Cookie & Cloud Lateral Movement | Maxwell Cross | [Read More](https://medium.com/p/3415f1c9392e) |
+| Fri, 24 Oct 2025 08:01:51 GMT | Bug Bounty Edge: Find Exposed Credentials Before Recon | Alexandre Vandamme | [Read More](https://medium.com/p/b2852a0db53c) |
+| Fri, 24 Oct 2025 08:00:52 GMT | Joseph Lamar Simmons Discusses the Power of Satellite Surveillance | Joseph Lamar Simmons | [Read More](https://medium.com/p/bd1545e4209d) |
+| Fri, 24 Oct 2025 07:58:03 GMT | Securing the Future of AI Agents: Introducing MCP Security Analyzer | Yair Friedman | [Read More](https://medium.com/p/2fdd53c9a83c) |
+| Fri, 24 Oct 2025 07:57:01 GMT | AI Has Gone Physical: Can We Still Keep It Safe? | Abdelghani Alhijawi | [Read More](https://medium.com/p/3141bada57a2) |
+| Fri, 24 Oct 2025 07:55:12 GMT | The Daily Tech Digest: 24 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e80e088d9c7f) |
+| Fri, 24 Oct 2025 07:54:15 GMT | Technical Report On “Cybersecurity Measures in Small Businesses” | Serideinwei Oweifie | [Read More](https://medium.com/p/c6676a8cdd1c) |
+| Fri, 24 Oct 2025 07:53:10 GMT | AI Security Algorithms: The Invisible Guardians of Your Digital World | Sagar Sajwan | [Read More](https://medium.com/p/d75ccb27cd01) |
+| Fri, 24 Oct 2025 07:45:10 GMT | ประจำวันศุกร์ที่ 24 ตุลาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/9632a692abdc) |
+| Fri, 24 Oct 2025 07:40:58 GMT | The Daily Tech Digest: 23 October 2025 | Souren Stepanyan | [Read More](https://medium.com/p/95227d0bf527) |
+| Fri, 24 Oct 2025 07:32:39 GMT | Inside Operation Dream Job: How North Korean Hackers Are Hunting European Drone Secrets | Germano Costi | [Read More](https://medium.com/p/be2b1e0b836d) |
 | Fri, 24 Oct 2025 07:25:41 GMT | The Invisible Hacker: The Day I Realized I Was the Target | Fateyaly | [Read More](https://medium.com/p/4fa6ff13e426) |
 | Fri, 24 Oct 2025 07:24:14 GMT | Which Tool is Commonly Used For End Point Security? | cyber security Updates | [Read More](https://medium.com/p/4a1e72c60b7c) |
 | Fri, 24 Oct 2025 07:21:44 GMT | Hi! You are doing a great job! | Joelle luxer | [Read More](https://medium.com/p/8c1a11b90475) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 22:48:55 GMT | Elevate Your Business with Code Your Thoughts: A Premier Software Agency | Syed Ahmed Kamal | [Read More](https://medium.com/p/b627b89d4b9a) |
 | Thu, 23 Oct 2025 22:48:23 GMT | Why Is My Mac Redirecting Me to Random Websites? | Cyber-AppSec | [Read More](https://medium.com/p/d38e5cde7360) |
 | Thu, 23 Oct 2025 22:38:29 GMT | The Agent Identity & Access Management Landscape: An Educational Guide to Who Solves What Across… | AstraSync AI | [Read More](https://medium.com/p/91aec40b68e9) |
-| Thu, 23 Oct 2025 22:35:42 GMT | IBM Q radar: Kurulum, Log İzleme ve Alert Oluşturma | Mustafa Mansur Mamus | [Read More](https://medium.com/p/560be58486d1) |
-| Thu, 23 Oct 2025 22:30:49 GMT | A researcher’s journey from a simple “opposite” prompt to AI-generated autonomous agents for cyber… | Julio César | [Read More](https://medium.com/p/4b100ebf8029) |
-| Thu, 23 Oct 2025 22:27:46 GMT | The Three Receipts: Proof without watching people | Rick Hare | [Read More](https://medium.com/p/b21b58ced3b9) |
-| Thu, 23 Oct 2025 22:14:23 GMT | GZR Observer — Global Daily — Oct 23, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/37eec9cd7748) |
-| Thu, 23 Oct 2025 22:01:00 GMT | Privacy Isn’t About Hiding. It’s About Control. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e30289142939) |
-| Thu, 23 Oct 2025 21:59:46 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/c04db5c3877b) |
-| Thu, 23 Oct 2025 21:55:40 GMT | Threat Hunting with DNS Walkthrough — LetsDefend | Yusuf Talha ARABACI | [Read More](https://medium.com/p/362531cddb8e) |
-| Thu, 23 Oct 2025 21:52:18 GMT | Mastering Burp Intruder: Sniper, Battering Ram, Pitchfork & Cluster Bomb | Nidhin Chandran R | [Read More](https://medium.com/p/58c6db3950b0) |
-| Thu, 23 Oct 2025 21:49:15 GMT | When an Email Field Outsmarted Its Own Validator | SmaRTy | [Read More](https://medium.com/p/9f39acd38afa) |
-| Thu, 23 Oct 2025 21:46:25 GMT | How to write a Nuclei Template | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/8208645c8fc3) |
-| Thu, 23 Oct 2025 21:38:44 GMT | Crack the Gate 2 picoMINI | Aderogbarufai | [Read More](https://medium.com/p/d6aae6cbca03) |
