@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 07:25:41 GMT | The Invisible Hacker: The Day I Realized I Was the Target | Fateyaly | [Read More](https://medium.com/p/4fa6ff13e426) |
+| Fri, 24 Oct 2025 07:24:14 GMT | Which Tool is Commonly Used For End Point Security? | cyber security Updates | [Read More](https://medium.com/p/4a1e72c60b7c) |
+| Fri, 24 Oct 2025 07:21:44 GMT | Hi! You are doing a great job! | Joelle luxer | [Read More](https://medium.com/p/8c1a11b90475) |
+| Fri, 24 Oct 2025 07:16:53 GMT | The Decorator | Alex Bon | [Read More](https://medium.com/p/e4373c5cdf7c) |
+| Fri, 24 Oct 2025 07:10:41 GMT | Part 1: Wazuh’a Giriş ve Temel Bileşenler | İremDamar | [Read More](https://medium.com/p/5410bfba75a2) |
 | Fri, 24 Oct 2025 07:08:38 GMT | Palo Alto Networks Penetration Testing: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0d3c9ceef1db) |
 | Fri, 24 Oct 2025 07:02:22 GMT | The AWS Outage: Digital Sovereignty as a European Shield | Paradigma Digital | [Read More](https://medium.com/p/e0609b85af53) |
 | Fri, 24 Oct 2025 07:02:18 GMT | From Code Newbie to Security Defender: How OWASP Turns Anxiety Into Action | NizzCorp Academy | [Read More](https://medium.com/p/094032ace396) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 21:49:15 GMT | When an Email Field Outsmarted Its Own Validator | SmaRTy | [Read More](https://medium.com/p/9f39acd38afa) |
 | Thu, 23 Oct 2025 21:46:25 GMT | How to write a Nuclei Template | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/8208645c8fc3) |
 | Thu, 23 Oct 2025 21:38:44 GMT | Crack the Gate 2 picoMINI | Aderogbarufai | [Read More](https://medium.com/p/d6aae6cbca03) |
-| Thu, 23 Oct 2025 21:38:15 GMT | The Art of Google Dorking: From Vulnerability Discovery to Security Enhancement | N0aziXss | [Read More](https://medium.com/p/beeba448159d) |
-| Thu, 23 Oct 2025 21:34:12 GMT | Cyber Kill Chain | Isiah | [Read More](https://medium.com/p/2f24fd576977) |
-| Thu, 23 Oct 2025 21:33:52 GMT | CVE-2025–55315: A 9.9 Critical Vulnerability Impacting Legacy .NET — and Now Confirmed on .NET 6 | Jared Rhodes | [Read More](https://medium.com/p/dd349bf7f215) |
-| Thu, 23 Oct 2025 21:32:49 GMT | La Corporación (The Hacker Labs) | FeCeSociety | [Read More](https://medium.com/p/5a5aaa0e7959) |
-| Thu, 23 Oct 2025 21:30:27 GMT | How I Cracked CompTIA Security+ in 2 Months — The Ultimate One-Stop Guide (SY0–701 Study Plan +… | Chaitanya Garware | [Read More](https://medium.com/p/f565959817ae) |
