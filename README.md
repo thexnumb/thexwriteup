@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 10:43:45 GMT | JWT Security: Complete Enterprise Implementation Guide for Modern Applications | Okan Yıldız | [Read More](https://medium.com/p/ac055e68ad89) |
+| Fri, 24 Oct 2025 10:38:08 GMT | How Europe Builds Trust Through Standards — Not Just Regulations | Axel Hoehnke | [Read More](https://medium.com/p/0a6c23b73c7f) |
+| Fri, 24 Oct 2025 10:33:08 GMT | How Generiss Academy Helped This Professional Land a Dream Job | Generiss Academy | [Read More](https://medium.com/p/ff76f1f64e23) |
+| Fri, 24 Oct 2025 10:28:37 GMT | Portswigger Academy — Exploiting cross-site scripting to capture passwords (without burp… | Alan | [Read More](https://medium.com/p/c5750cde22f5) |
+| Fri, 24 Oct 2025 10:27:58 GMT | Why Should Startups and SMB’s Opt for VCISO Services? | Ravikumar | [Read More](https://medium.com/p/f6e9177f490d) |
+| Fri, 24 Oct 2025 10:21:12 GMT | Achieve Global Security Standards with ISO 27001 Certification by Axipro | Axipro | [Read More](https://medium.com/p/8c8133085b41) |
+| Fri, 24 Oct 2025 10:15:32 GMT | CISSP Exam Career: Building a Future in Cybersecurity Leadership | Jack Lim | [Read More](https://medium.com/p/2c8a177d06ad) |
 | Fri, 24 Oct 2025 10:09:54 GMT | Avoid \Illuminate\Support\Collection::unique until further notice | marius-ciclistu | [Read More](https://medium.com/p/2488824799ea) |
 | Fri, 24 Oct 2025 10:08:20 GMT | XML-RPC Server-Side Request Forgery: How I Discovered a Critical WordPress Vulnerability | Madanu Akash | [Read More](https://medium.com/p/e624339a97cb) |
 | Fri, 24 Oct 2025 10:07:30 GMT | “We’re on Our Own Now?” When Security Budgets Get the Axe | Truspex | [Read More](https://medium.com/p/84613ab2b41f) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 03:38:48 GMT | LiGi (Light-based Geometry) Protocol: A Quantum-Resistant, High-Density Communication Solution | Bojan Petar Milanovic | [Read More](https://medium.com/p/35fafdb1d1cd) |
 | Fri, 24 Oct 2025 03:35:49 GMT | How I Accidentally Became the Company’s Unofficial File Clerk (And Saw Everyone’s Secrets) | Iski | [Read More](https://medium.com/p/816e09bca109) |
 | Fri, 24 Oct 2025 03:31:58 GMT | How Threat Actors Weaponize Windows Scheduled Tasks for Stealthy Persistence | Deven Chhajed | [Read More](https://medium.com/p/73356090b93c) |
-| Fri, 24 Oct 2025 02:55:32 GMT | Setting Up pfSense Firewalls for Segmentation & Routing | Meet Patel | [Read More](https://medium.com/p/aeac03a337d7) |
-| Fri, 24 Oct 2025 02:46:38 GMT | The New Role of IT Managed Services in Fontana, CA in Today’s Cybersecurity Channel | Zeta Sky | [Read More](https://medium.com/p/a75933b7af29) |
-| Fri, 24 Oct 2025 02:39:26 GMT | Understanding My Home Network and Its Risks | Thaís Lima | [Read More](https://medium.com/p/6bfb814eac17) |
-| Fri, 24 Oct 2025 02:31:54 GMT | Your Must-Have Linux Security Superpower: Mastering auditd | Chanaka Rathnayaka | [Read More](https://medium.com/p/f107cd54bd77) |
-| Fri, 24 Oct 2025 02:31:53 GMT | 3 Myths About PKI (and Why They’re Wrong) | TechTrellis Academy | [Read More](https://medium.com/p/7e0d765ad104) |
-| Fri, 24 Oct 2025 02:28:08 GMT | Keeping Children and Teens Safe on Apps: A Guide for Parents | Aysha Misri | [Read More](https://medium.com/p/0d29a56fa653) |
-| Fri, 24 Oct 2025 02:14:02 GMT | Big Shark RAT: The Leaked Android Malware Giving Hackers Full Remote Control in 2025 | Hackers Things | [Read More](https://medium.com/p/33515d7ca817) |
