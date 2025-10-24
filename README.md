@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 11:13:57 GMT | Conquering CompTIA Security+: My Journey with 591Lab’s Ultimate Guide | Al Beruni | [Read More](https://medium.com/p/23a8bb759552) |
+| Fri, 24 Oct 2025 11:10:34 GMT | Automating Security Champion Workflows with AI Agents at Trendyol | basak unsal | [Read More](https://medium.com/p/d4aaec976fce) |
+| Fri, 24 Oct 2025 11:10:22 GMT | Mapping Attack Surfaces with Maltego and SpiderFoot | Aj | [Read More](https://medium.com/p/0d6f7543c0dc) |
+| Fri, 24 Oct 2025 11:08:51 GMT | My OpenAI Bug Bounty Experience: A Call for Improved Transparency in Vulnerability Disclosure | Bugatsec | [Read More](https://medium.com/p/5f71d7cce19c) |
+| Fri, 24 Oct 2025 11:06:31 GMT | Beyond the Red Hat leak: When the fud is louder than the breach | Potech | [Read More](https://medium.com/p/f55d823247e0) |
+| Fri, 24 Oct 2025 11:03:20 GMT | Top 10 Famous Hacking Groups in the World | Manisha Chaudhary | [Read More](https://medium.com/p/287651edaf5d) |
+| Fri, 24 Oct 2025 11:02:16 GMT | How Did I Hack a Website Just by Reading JS Files | Devansh Patel | [Read More](https://medium.com/p/6d6a6a90aac1) |
+| Fri, 24 Oct 2025 11:02:16 GMT | JavaScript Prototypes: A Beginner-Friendly Tutorial | Moez Ben-Azzouz | [Read More](https://medium.com/p/f4af3d7ab76d) |
+| Fri, 24 Oct 2025 10:55:35 GMT | The Day I Stopped Clicking ‘I Agree’ After Years in Big Tech’s Trap | Liam Davies | [Read More](https://medium.com/p/dfbc0360f8c8) |
+| Fri, 24 Oct 2025 10:53:48 GMT | The YouTube Ghost Network: How 3,000 Videos Turned Into a Global Malware Trap | Germano Costi | [Read More](https://medium.com/p/e4218afe2d4d) |
+| Fri, 24 Oct 2025 10:52:27 GMT | Best End-User Support Services Provider in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/6d7abee6dd5c) |
 | Fri, 24 Oct 2025 10:43:45 GMT | JWT Security: Complete Enterprise Implementation Guide for Modern Applications | Okan Yıldız | [Read More](https://medium.com/p/ac055e68ad89) |
 | Fri, 24 Oct 2025 10:38:08 GMT | How Europe Builds Trust Through Standards — Not Just Regulations | Axel Hoehnke | [Read More](https://medium.com/p/0a6c23b73c7f) |
+| Fri, 24 Oct 2025 10:37:35 GMT | Why I’m Excited About Unified Platforms, An Engineer’s Perspective | Junaid Mumtaz | [Read More](https://medium.com/p/0e1fecf4e647) |
 | Fri, 24 Oct 2025 10:33:08 GMT | How Generiss Academy Helped This Professional Land a Dream Job | Generiss Academy | [Read More](https://medium.com/p/ff76f1f64e23) |
 | Fri, 24 Oct 2025 10:28:37 GMT | Portswigger Academy — Exploiting cross-site scripting to capture passwords (without burp… | Alan | [Read More](https://medium.com/p/c5750cde22f5) |
 | Fri, 24 Oct 2025 10:27:58 GMT | Why Should Startups and SMB’s Opt for VCISO Services? | Ravikumar | [Read More](https://medium.com/p/f6e9177f490d) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 04:43:44 GMT | Understanding DNS: The Invisible Map That Guides the Internet | Salimassili | [Read More](https://medium.com/p/4a4106182cb5) |
 | Fri, 24 Oct 2025 04:39:37 GMT | Part 2: Understanding JWT: The Backbone of Modern Authentication | Kalpesh Laddha | [Read More](https://medium.com/p/6823fc8d149b) |
 | Fri, 24 Oct 2025 04:38:07 GMT | How I Cleared CPENT & LPT Master — The Real Journey of Becoming an Advanced Penetration Tester | Monujangra | [Read More](https://medium.com/p/05e7d4106e67) |
-| Fri, 24 Oct 2025 04:36:20 GMT | Networking Deep Dive: From Port Forwarding to VLANs — Understanding the Internet Like a Pro | Salimassili | [Read More](https://medium.com/p/05539b0f1dc7) |
-| Fri, 24 Oct 2025 04:35:26 GMT | I Tried Breaking Into My Own Network :And Failed (Thankfully)
- by Zaki Ali | Muhummad Zaki | [Read More](https://medium.com/p/6de6de550a9f) |
-| Fri, 24 Oct 2025 04:21:58 GMT | Mengoptimalkan Performa Website React: Tips Rendering dan Lazy Loading Modern | Anjas Rani | [Read More](https://medium.com/p/b7bd74a6beed) |
-| Fri, 24 Oct 2025 04:11:52 GMT | Quantum Leaps to AI Agents: A Week of Unprecedented Tech Innovation (October 21–24, 2025) | Tanbopp | [Read More](https://medium.com/p/52c2b093c1b8) |
-| Fri, 24 Oct 2025 04:07:06 GMT | AI vs Hackers: Who’s Winning the Invisible War? | Zain Ahmad | [Read More](https://medium.com/p/71498a194106) |
-| Fri, 24 Oct 2025 04:05:34 GMT | Internal - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/61b7f0363ec9) |
-| Fri, 24 Oct 2025 03:59:45 GMT | Hackviser: Scenario VoidWriteup | Attiqorakzai | [Read More](https://medium.com/p/58c49241bfc5) |
-| Fri, 24 Oct 2025 03:44:23 GMT | Relevant - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/25870f93fb96) |
-| Fri, 24 Oct 2025 03:42:31 GMT | Exploring Wazuh SIEM: My Hands-on Experience with Server–Agent Setup to Full-Scale Threat… | stephen | [Read More](https://medium.com/p/ee677a049bbb) |
-| Fri, 24 Oct 2025 03:38:48 GMT | LiGi (Light-based Geometry) Protocol: A Quantum-Resistant, High-Density Communication Solution | Bojan Petar Milanovic | [Read More](https://medium.com/p/35fafdb1d1cd) |
-| Fri, 24 Oct 2025 03:35:49 GMT | How I Accidentally Became the Company’s Unofficial File Clerk (And Saw Everyone’s Secrets) | Iski | [Read More](https://medium.com/p/816e09bca109) |
-| Fri, 24 Oct 2025 03:31:58 GMT | How Threat Actors Weaponize Windows Scheduled Tasks for Stealthy Persistence | Deven Chhajed | [Read More](https://medium.com/p/73356090b93c) |
