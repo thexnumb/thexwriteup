@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 21:33:52 GMT | ⚠️ STOP: AI Browsers (Comet, Fellou) Are Hijacking Systems in Ways You Can’t See — Take Action… | Bireshkumar | [Read More](https://medium.com/p/7ae38cfa6351) |
+| Fri, 24 Oct 2025 21:32:56 GMT | Step-by-Step Guide: Automating Recon with Bash — Build Your Own Mini Nuclei Scanner | Very Lazy Tech | [Read More](https://medium.com/p/3692c145cc77) |
+| Fri, 24 Oct 2025 21:28:14 GMT | [ SOC Alert => Phishing Mail Detected — Excel 4.0 Macros ] by LetsDefend / EventID: 93 | EduKayky | [Read More](https://medium.com/p/81377f9b708a) |
+| Fri, 24 Oct 2025 21:14:17 GMT | Unlocking the Power of Linux: Top 20 Commands Every User Should Master | Ritu Priya Singh | [Read More](https://medium.com/p/9d8090ad1c8e) |
 | Fri, 24 Oct 2025 21:08:48 GMT | The Batcomputer Evolved | David ONeal | [Read More](https://medium.com/p/2ad3e62918e4) |
+| Fri, 24 Oct 2025 21:03:11 GMT | Utilizing AI Technologies — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/60737dd19a3f) |
 | Fri, 24 Oct 2025 21:02:35 GMT | Day 19 of my Cybersecurity Journey: Tcpdump Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/86584eed80d3) |
 | Fri, 24 Oct 2025 20:54:59 GMT | SIEM 101 | CheddarB0b42 | [Read More](https://medium.com/p/40b19e48ad22) |
 | Fri, 24 Oct 2025 20:53:41 GMT | Every Cyber Risk. Every Signal. Continuous Defense Loop | Juan Pablo Castro | [Read More](https://medium.com/p/d9a0c81e03e5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 14:18:57 GMT | Securing a Web Application with Azure Firewall: Deployment, Configuration, and Advanced Threat… | Ayomide Trillionz | [Read More](https://medium.com/p/dafbe8246657) |
 | Fri, 24 Oct 2025 14:18:43 GMT | EASY TIPS TO FIND VULNERABILITIES IN GOOGLE ASSETS/VRP | Azza0X1A | [Read More](https://medium.com/p/2179d559f1e6) |
 | Fri, 24 Oct 2025 14:09:58 GMT | Topic 36: CSS Transitions and Animations | Rana Awais | [Read More](https://medium.com/p/97a616aa98d6) |
-| Fri, 24 Oct 2025 14:03:18 GMT | Minding Your Mentors: The One Thing To Ask Yourself | Suicide Survivalist, MD, MPH, MBA | [Read More](https://medium.com/p/d32e55c2f1ba) |
-| Fri, 24 Oct 2025 14:03:13 GMT | Topic 35: CSS Z-Index and Layering | Rana Awais | [Read More](https://medium.com/p/5e4b04a2c6f6) |
-| Fri, 24 Oct 2025 14:02:15 GMT | Vulnhub Stapler Walkthrough Step-by-Step | cyber pancake | [Read More](https://medium.com/p/031e87dd7f6c) |
-| Fri, 24 Oct 2025 14:01:55 GMT | The Next Cyber Battleground: When the Firewall Fails | Abatis ABTU | [Read More](https://medium.com/p/e95014121f17) |
-| Fri, 24 Oct 2025 14:01:52 GMT | Cyber Briefing: 2025.10.24 | CyberMaterial | [Read More](https://medium.com/p/e7cb99c82f4e) |
