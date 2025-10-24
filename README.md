@@ -12,11 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 14:35:53 GMT | Maester — Ett mästerligt verktyg för att granska din Microsoft-tenant | Mathias Persson | [Read More](https://medium.com/p/2f096d734258) |
+| Fri, 24 Oct 2025 14:29:03 GMT | CONSISTENCY IS EVERYTHING: The Silent Weapon in My Journey | Vijay Kumar Gupta | [Read More](https://medium.com/p/e14b49ab0155) |
+| Fri, 24 Oct 2025 14:21:02 GMT | When the Cloud Stumbles: Lessons for CEOs and Boards About an AWS Outage | Tyson Martin | [Read More](https://medium.com/p/d6f918743b6f) |
+| Fri, 24 Oct 2025 14:18:57 GMT | Securing a Web Application with Azure Firewall: Deployment, Configuration, and Advanced Threat… | Ayomide Trillionz | [Read More](https://medium.com/p/dafbe8246657) |
+| Fri, 24 Oct 2025 14:18:43 GMT | EASY TIPS TO FIND VULNERABILITIES IN GOOGLE ASSETS/VRP | Azza0X1A | [Read More](https://medium.com/p/2179d559f1e6) |
+| Fri, 24 Oct 2025 14:09:58 GMT | Topic 36: CSS Transitions and Animations | Rana Awais | [Read More](https://medium.com/p/97a616aa98d6) |
 | Fri, 24 Oct 2025 14:03:18 GMT | Minding Your Mentors: The One Thing To Ask Yourself | Suicide Survivalist, MD, MPH, MBA | [Read More](https://medium.com/p/d32e55c2f1ba) |
+| Fri, 24 Oct 2025 14:03:13 GMT | Topic 35: CSS Z-Index and Layering | Rana Awais | [Read More](https://medium.com/p/5e4b04a2c6f6) |
 | Fri, 24 Oct 2025 14:02:15 GMT | Vulnhub Stapler Walkthrough Step-by-Step | cyber pancake | [Read More](https://medium.com/p/031e87dd7f6c) |
 | Fri, 24 Oct 2025 14:01:55 GMT | The Next Cyber Battleground: When the Firewall Fails | Abatis ABTU | [Read More](https://medium.com/p/e95014121f17) |
 | Fri, 24 Oct 2025 14:01:52 GMT | Cyber Briefing: 2025.10.24 | CyberMaterial | [Read More](https://medium.com/p/e7cb99c82f4e) |
+| Fri, 24 Oct 2025 14:00:38 GMT | Why Every Organization Needs an ISO 27001:2022 Toolkit | Kathrinekreger | [Read More](https://medium.com/p/9051a54f7d1f) |
 | Fri, 24 Oct 2025 13:57:29 GMT | Unmasking the Deceptive Threat: Server-Side Request Forgery (SSRF)-A10- OWASP top 10 - 10 day’s… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/c2ab1385e8de) |
+| Fri, 24 Oct 2025 13:56:44 GMT | Topic 34: CSS Positioning | Rana Awais | [Read More](https://medium.com/p/6db041887016) |
 | Fri, 24 Oct 2025 13:47:32 GMT | Adulting: We Don’t Share Everything | Precious Temidayo Ajayi | [Read More](https://medium.com/p/78fb74d5a755) |
 | Fri, 24 Oct 2025 13:46:31 GMT | Why I’m Learning C++: A Calculator and the Path to Reverse Engineering | Ayomide Trillionz | [Read More](https://medium.com/p/71b0d1c9372e) |
 | Fri, 24 Oct 2025 13:45:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/2b5284a1ceae) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 09:45:07 GMT | The Importance of Blast-Resistant Doors in Hospitals and Emergency Centers | Somnandiindustries | [Read More](https://medium.com/p/04f99af4ac9f) |
 | Fri, 24 Oct 2025 09:36:18 GMT | Tenable Nessus A Vulnarability Management Tool | Sreeraj S Chandran | [Read More](https://medium.com/p/d4225fab83b0) |
 | Fri, 24 Oct 2025 09:29:56 GMT | Portswigger Academy — Exploiting cross-site scripting to steal cookies (without Burp Collaborator)… | Alan | [Read More](https://medium.com/p/cb500cae2f32) |
-| Fri, 24 Oct 2025 09:19:20 GMT | Policy Wrote The Discord Breach Before Hackers Found It | Tom Hillman | [Read More](https://medium.com/p/ff08cb8a874c) |
-| Fri, 24 Oct 2025 09:16:03 GMT | How Landscaping Works? A Simple Story Behind Green Spaces | Asna Futorics | [Read More](https://medium.com/p/64a7f3329fbd) |
-| Fri, 24 Oct 2025 09:11:50 GMT | Fortress Network: VLANs, VPNs & Kill Switches? | SilentInject | [Read More](https://medium.com/p/afde80103c58) |
-| Fri, 24 Oct 2025 09:10:04 GMT | Linux Fundamentals Part 2 — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/0f27f5603cf8) |
-| Fri, 24 Oct 2025 09:08:34 GMT | Why CISOs Are Betting on Unified Security Platforms | Lanvaus | [Read More](https://medium.com/p/45fc6e1775ff) |
-| Fri, 24 Oct 2025 09:08:16 GMT | DockerLabs Writeup — Tproot (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/de7cbfab12e4) |
-| Fri, 24 Oct 2025 09:06:44 GMT | Active Directory’de adminCount=1, AdminSDHolder ve Güvenli Delegasyon: Uçtan Uca Derinlemesine… | Tuğrul Kılıç | [Read More](https://medium.com/p/ea9e8fffed8d) |
-| Fri, 24 Oct 2025 09:03:12 GMT | Entry Level Cyber Security Remote: Top Jobs & Expert Tips 2025 | Techzonego | [Read More](https://medium.com/p/fe55f89a8d37) |
-| Fri, 24 Oct 2025 08:59:36 GMT | Stop Risky Uploads! Validate File Contents in Angular for Better Security | sankar marimuthu | [Read More](https://medium.com/p/2b7ea618b0d5) |
