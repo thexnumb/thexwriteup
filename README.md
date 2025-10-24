@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 08:42:15 GMT | Unlocking Seamless & Secure Access: Introducing Generalized OIDC Authentication in Apache… | Apache DolphinScheduler | [Read More](https://medium.com/p/6bf79d8d63f0) |
+| Fri, 24 Oct 2025 08:39:25 GMT | Log Yönetimi ve Analizi 101 | Cyber Web | [Read More](https://medium.com/p/adc532fed66f) |
+| Fri, 24 Oct 2025 08:35:45 GMT | Know Your Bug — How to Report Like a Pro (From 50 Reports) | Viratavi | [Read More](https://medium.com/p/9a96d66e346f) |
+| Fri, 24 Oct 2025 08:28:29 GMT | Why Graphic Designers Need Specialized IT Support for Their Systems | Ask IT Support | [Read More](https://medium.com/p/616b14807835) |
 | Fri, 24 Oct 2025 08:17:43 GMT | Breaking SSO: OAuth Token Theft, Pass-the-Cookie & Cloud Lateral Movement | Maxwell Cross | [Read More](https://medium.com/p/3415f1c9392e) |
 | Fri, 24 Oct 2025 08:01:51 GMT | Bug Bounty Edge: Find Exposed Credentials Before Recon | Alexandre Vandamme | [Read More](https://medium.com/p/b2852a0db53c) |
 | Fri, 24 Oct 2025 08:00:52 GMT | Joseph Lamar Simmons Discusses the Power of Satellite Surveillance | Joseph Lamar Simmons | [Read More](https://medium.com/p/bd1545e4209d) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 23:24:57 GMT | Hackviser — Rivalry Scenario Walkthrough | Minosh Umayanga | [Read More](https://medium.com/p/2bb6a23adcfd) |
 | Thu, 23 Oct 2025 23:16:59 GMT | Gotham’s Digital Underworld | David ONeal | [Read More](https://medium.com/p/3b18fc63be5c) |
 | Thu, 23 Oct 2025 23:15:29 GMT | Cyber Extortion — How Criminals Prey on Youth | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/8be81bff098a) |
-| Thu, 23 Oct 2025 23:02:48 GMT | How North Korea Uses Loosely Regulated Countries Like Cambodia for Money Laundering and Crypto… | David SEHYEON Baek | [Read More](https://medium.com/p/0fb430b0e206) |
-| Thu, 23 Oct 2025 22:48:55 GMT | Elevate Your Business with Code Your Thoughts: A Premier Software Agency | Syed Ahmed Kamal | [Read More](https://medium.com/p/b627b89d4b9a) |
-| Thu, 23 Oct 2025 22:48:23 GMT | Why Is My Mac Redirecting Me to Random Websites? | Cyber-AppSec | [Read More](https://medium.com/p/d38e5cde7360) |
-| Thu, 23 Oct 2025 22:38:29 GMT | The Agent Identity & Access Management Landscape: An Educational Guide to Who Solves What Across… | AstraSync AI | [Read More](https://medium.com/p/91aec40b68e9) |
