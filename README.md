@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 07:08:38 GMT | Palo Alto Networks Penetration Testing: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0d3c9ceef1db) |
+| Fri, 24 Oct 2025 07:02:22 GMT | The AWS Outage: Digital Sovereignty as a European Shield | Paradigma Digital | [Read More](https://medium.com/p/e0609b85af53) |
+| Fri, 24 Oct 2025 07:02:18 GMT | From Code Newbie to Security Defender: How OWASP Turns Anxiety Into Action | NizzCorp Academy | [Read More](https://medium.com/p/094032ace396) |
+| Fri, 24 Oct 2025 07:00:23 GMT | AI Meets Ethical Hacking: How Artificial Intelligence is Changing Cyber Security | Hassan Talal | [Read More](https://medium.com/p/5bd2b837d3c7) |
+| Fri, 24 Oct 2025 06:58:47 GMT | The Corix Partners Friday Reading List — October 24, 2025 | JC Gaillard | [Read More](https://medium.com/p/b2bdc98f3bc8) |
+| Fri, 24 Oct 2025 06:57:06 GMT | Walkthrough — HackSudo 1.1 (VulnHub) | Vaibhav | [Read More](https://medium.com/p/103d13209c48) |
+| Fri, 24 Oct 2025 06:55:45 GMT | VPS Vs Dedicated Hosting: Which Ones You Should Choose and Why? | HostNOC | [Read More](https://medium.com/p/1df707c74556) |
+| Fri, 24 Oct 2025 06:53:48 GMT | Are Landscaping Businesses Profitable? Here’s the Real Truth You Should Know | Asna Futorics | [Read More](https://medium.com/p/8598d1d4c305) |
+| Fri, 24 Oct 2025 06:47:12 GMT | Best Integrated Lease Management Software in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/68ade3ca403e) |
+| Fri, 24 Oct 2025 06:46:48 GMT | My Love-Hate Relationship with Hacking | Simi | [Read More](https://medium.com/p/76f15f5651ca) |
+| Fri, 24 Oct 2025 06:43:33 GMT | During my training, we used | Adeleke Theophilus O | [Read More](https://medium.com/p/206810f810c8) |
+| Fri, 24 Oct 2025 06:38:12 GMT | How Blockchain Enhances Contract Security and Integrity in CLM Systems? | Serishahid | [Read More](https://medium.com/p/e08003931876) |
+| Fri, 24 Oct 2025 06:23:16 GMT | Drosera x LayerZero: A Collaboration That Makes DeFi Safer | Fivestttttar | [Read More](https://medium.com/p/a4eadcb83bf4) |
 | Fri, 24 Oct 2025 06:21:43 GMT | The day Wayback pointed me to an admin panel — and why scope still wins ☕️ | AIwolfie | [Read More](https://medium.com/p/40d61ce8e5d3) |
 | Fri, 24 Oct 2025 06:18:11 GMT | Why Quantum Computing Is the Biggest Threat to Cybersecurity | Shaikh Zayan | [Read More](https://medium.com/p/c7eb9de21510) |
 | Fri, 24 Oct 2025 06:17:11 GMT | Rivan IT Institute CompTIA Security+ (SYO 701) Professional Training Course | Martin L | [Read More](https://medium.com/p/38797da4b69f) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 21:33:52 GMT | CVE-2025–55315: A 9.9 Critical Vulnerability Impacting Legacy .NET — and Now Confirmed on .NET 6 | Jared Rhodes | [Read More](https://medium.com/p/dd349bf7f215) |
 | Thu, 23 Oct 2025 21:32:49 GMT | La Corporación (The Hacker Labs) | FeCeSociety | [Read More](https://medium.com/p/5a5aaa0e7959) |
 | Thu, 23 Oct 2025 21:30:27 GMT | How I Cracked CompTIA Security+ in 2 Months — The Ultimate One-Stop Guide (SY0–701 Study Plan +… | Chaitanya Garware | [Read More](https://medium.com/p/f565959817ae) |
-| Thu, 23 Oct 2025 20:50:02 GMT | [ SOC Alert => New scheduled task created ] by LetsDefend / EventID: 91 | EduKayky | [Read More](https://medium.com/p/b5f5557d2d31) |
-| Thu, 23 Oct 2025 20:48:06 GMT | Crack the Gate 1 picoMINI 2025 | Aderogbarufai | [Read More](https://medium.com/p/56b29d437f1d) |
-| Thu, 23 Oct 2025 20:46:13 GMT | Vulnerability Scanning as a Service: Automating Your Way to a New Income Stream | Samina Perveen | [Read More](https://medium.com/p/91422b9a7147) |
-| Thu, 23 Oct 2025 20:33:45 GMT | Exfiltrating information through Discord | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e74514bb2b9d) |
-| Thu, 23 Oct 2025 20:32:01 GMT | Cybersecurity Resource List | ksophia | [Read More](https://medium.com/p/8672d01c1b91) |
-| Thu, 23 Oct 2025 20:17:18 GMT | TOMGHOST THM | Aderogbarufai | [Read More](https://medium.com/p/3450ccef5b12) |
-| Thu, 23 Oct 2025 19:54:25 GMT | My Friend’s Baby Father Had Five Baby Mamas | Marla Bishop | [Read More](https://medium.com/p/15d48ab12501) |
-| Thu, 23 Oct 2025 19:54:12 GMT | PowerShell Logging: Making the Invisible Visible | Dean | [Read More](https://medium.com/p/038287964438) |
-| Thu, 23 Oct 2025 19:34:12 GMT | Day 18 of my Cybersecurity Journey: Wireshark Basics II | Ogundipe Priscilla | [Read More](https://medium.com/p/c2b2b192f9f0) |
-| Thu, 23 Oct 2025 19:33:31 GMT | The Hidden Cybersecurity Risk Behind the AWS Outage | Minhal Haider | [Read More](https://medium.com/p/827d02bea8e4) |
-| Thu, 23 Oct 2025 19:29:15 GMT | Cómo un Bug Bounty Hunter descubrió una vulnerabilidad en un banco | Gorka | [Read More](https://medium.com/p/9f730fdbba48) |
-| Thu, 23 Oct 2025 19:25:32 GMT | Firewall as a Service (FWaaS): The Future of Scalable and Cloud-Driven Network Security | SafeAeon Inc. | [Read More](https://medium.com/p/2cda7fa145b1) |
-| Thu, 23 Oct 2025 19:20:57 GMT | Designing and Discovery in LLM Projects | Flavia Nobre | [Read More](https://medium.com/p/f3079bd90546) |
