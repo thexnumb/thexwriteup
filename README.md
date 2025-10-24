@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 15:38:37 GMT | Real Bugs from Timing Flaws in Web Services | Monika sharma | [Read More](https://medium.com/p/89c885c4ac02) |
+| Fri, 24 Oct 2025 15:37:35 GMT | My First Bug Bounty: Critical Account Deletion Vulnerability | MazenTurky | [Read More](https://medium.com/p/cdfcedaea344) |
+| Fri, 24 Oct 2025 15:27:41 GMT | How OSINT Revealed Publicly Accessible Defense-Grade Dashboards for Unmanned Systems | hacker_might | [Read More](https://medium.com/p/0b8aa4e3c690) |
+| Fri, 24 Oct 2025 15:16:47 GMT | Abracadabra’s DeFi Spell Unravels in $1.8M Exploit, And Why On-Chain Insurance Matters Now | Safeguard Capital | [Read More](https://medium.com/p/90cab4781bac) |
 | Fri, 24 Oct 2025 15:15:18 GMT | Microsoft Recall vs Rewind AI: Which Tool Should You Use? | nodminger | [Read More](https://medium.com/p/b9b40a8283fc) |
+| Fri, 24 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 24, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d78781469124) |
+| Fri, 24 Oct 2025 15:13:56 GMT | The Forensic Handbook: Technical Guidelines & Legal Considerations | ze4rch1tect | [Read More](https://medium.com/p/d3255357ad1f) |
 | Fri, 24 Oct 2025 15:10:03 GMT | From No-Wi-Fi As a Kid to Launching My Own Cybersecurity Firm | Vivektumma27 | [Read More](https://medium.com/p/630674bd1d47) |
 | Fri, 24 Oct 2025 15:08:19 GMT | AI for CyberSecurity | Raghavahuja | [Read More](https://medium.com/p/67702d9d0bfd) |
 | Fri, 24 Oct 2025 15:04:10 GMT | Mastering XSS on a Bug Bounty Platform: Finding, Understanding & Bypassing Defense. | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7a6693284091) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 10:52:27 GMT | Best End-User Support Services Provider in India - Net Access | Mathewneelan | [Read More](https://medium.com/p/6d7abee6dd5c) |
 | Fri, 24 Oct 2025 10:43:45 GMT | JWT Security: Complete Enterprise Implementation Guide for Modern Applications | Okan Yıldız | [Read More](https://medium.com/p/ac055e68ad89) |
 | Fri, 24 Oct 2025 10:38:08 GMT | How Europe Builds Trust Through Standards — Not Just Regulations | Axel Hoehnke | [Read More](https://medium.com/p/0a6c23b73c7f) |
-| Fri, 24 Oct 2025 10:37:35 GMT | Why I’m Excited About Unified Platforms, An Engineer’s Perspective | Junaid Mumtaz | [Read More](https://medium.com/p/0e1fecf4e647) |
-| Fri, 24 Oct 2025 10:33:08 GMT | How Generiss Academy Helped This Professional Land a Dream Job | Generiss Academy | [Read More](https://medium.com/p/ff76f1f64e23) |
-| Fri, 24 Oct 2025 10:28:37 GMT | Portswigger Academy — Exploiting cross-site scripting to capture passwords (without burp… | Alan | [Read More](https://medium.com/p/c5750cde22f5) |
-| Fri, 24 Oct 2025 10:27:58 GMT | Why Should Startups and SMB’s Opt for VCISO Services? | Ravikumar | [Read More](https://medium.com/p/f6e9177f490d) |
-| Fri, 24 Oct 2025 10:21:12 GMT | Achieve Global Security Standards with ISO 27001 Certification by Axipro | Axipro | [Read More](https://medium.com/p/8c8133085b41) |
-| Fri, 24 Oct 2025 10:15:32 GMT | CISSP Exam Career: Building a Future in Cybersecurity Leadership | Jack Lim | [Read More](https://medium.com/p/2c8a177d06ad) |
