@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 18:23:51 GMT | eJPT — 3.5 CTF 2 Post-Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/545b111dd3e3) |
+| Fri, 24 Oct 2025 18:20:02 GMT | siber güvenlikte nba (network behavior analysis) | Myusuftr | [Read More](https://medium.com/p/24e1ebf38c65) |
+| Fri, 24 Oct 2025 18:19:38 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/3839c2e5b906) |
+| Fri, 24 Oct 2025 18:17:34 GMT | DATACOM Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/0f47f6c25fc7) |
+| Fri, 24 Oct 2025 17:42:30 GMT | 5 things you should know about the quantum-ready Trezor Safe 7 hardware wallet and its… | Henry Windle | [Read More](https://medium.com/p/3d13b51e090b) |
+| Fri, 24 Oct 2025 17:40:57 GMT | AzurePot Lab Writeup | Jaws | [Read More](https://medium.com/p/ec20e2674783) |
+| Fri, 24 Oct 2025 17:38:52 GMT | The Dodleston Messages: A Postmaterialist Interpretation through the Platonic Computation Model | Simon X Duan | [Read More](https://medium.com/p/9b088f0408b8) |
+| Fri, 24 Oct 2025 17:31:51 GMT | The Digital Transformation RFP Template: What You’re Forgetting to Ask | Evan M. Rose | [Read More](https://medium.com/p/d0f8c81ef697) |
 | Fri, 24 Oct 2025 17:21:37 GMT | The Fake Job Offer Stealing Europe’s Drone Secrets | Aj | [Read More](https://medium.com/p/096b12f1dee2) |
 | Fri, 24 Oct 2025 17:20:52 GMT | Tcpdump: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/42af5dd2aaed) |
 | Fri, 24 Oct 2025 17:00:21 GMT | Windows Server 2019 + Windows 11 Lab on VMware Workstation | Angel Gomez Jr. - IT Enthusiast | [Read More](https://medium.com/p/781801134b8b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 12:42:40 GMT | Cybersecurity #8: Types of Hacking & Phase of Ethical Hacking | mohandika | [Read More](https://medium.com/p/e817e16c2dfd) |
 | Fri, 24 Oct 2025 12:41:33 GMT | Pentesting Ético: Introducción a Macros ODT Maliciosas | APS88 | [Read More](https://medium.com/p/5ee4f4e8676c) |
 | Fri, 24 Oct 2025 12:37:03 GMT | Sandbox Kaçınma Teknikleri ve Kod Örnekleri | Esra Kayhan | [Read More](https://medium.com/p/d96f408a2114) |
-| Fri, 24 Oct 2025 12:31:46 GMT | DevSecOps Reimagined: Vulnerability Scanning Made Effortless with AnythingOps | AnythingOps | [Read More](https://medium.com/p/7f0df8583b9e) |
-| Fri, 24 Oct 2025 12:30:12 GMT | Attack Vectors: 6 Ways Attackers Use to Bypass Defenses | Abdelhalim_husein | [Read More](https://medium.com/p/e9fa7e8e25c6) |
-| Fri, 24 Oct 2025 12:29:50 GMT | The Cybersecurity Skills You Need in 2025: 5 Courses That Will Future-Proof Your Career | Invest Learn Make | [Read More](https://medium.com/p/9bd0519ad877) |
-| Fri, 24 Oct 2025 12:26:18 GMT | Network Security Protocols- THM ..-DAY -4 | Deepika  B | [Read More](https://medium.com/p/3d72ad261b01) |
-| Fri, 24 Oct 2025 12:21:51 GMT | How to Fix an Automatic Door Lock: Simple Troubleshooting | Sure Lock & Key LLC | [Read More](https://medium.com/p/d7d3206f9ed0) |
-| Fri, 24 Oct 2025 12:20:59 GMT | HacktheBox: Driver Walkthrough (Beginner Friendly) | Anıl Haydar Yılmaz | [Read More](https://medium.com/p/d489f5f07ad1) |
-| Fri, 24 Oct 2025 12:19:19 GMT | Evasive | joseml | [Read More](https://medium.com/p/77e46435914f) |
-| Fri, 24 Oct 2025 12:15:14 GMT | Disenchantment | Lonely solacee | [Read More](https://medium.com/p/8921db691d34) |
