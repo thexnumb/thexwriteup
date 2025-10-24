@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 05:38:22 GMT | Top 10 Highest Paying Cyber Security Roles | Manisha Chaudhary | [Read More](https://medium.com/p/215877613ecb) |
+| Fri, 24 Oct 2025 05:33:14 GMT | Day 70- I Raised a security concern: Why an Authentication App running in the background could ne a… | unica 02 | [Read More](https://medium.com/p/11aea7269c90) |
+| Fri, 24 Oct 2025 05:22:27 GMT | A short criticism of OpenAI’s “erotica plans” | Cyber and Coffee | [Read More](https://medium.com/p/be836f916419) |
+| Fri, 24 Oct 2025 05:19:32 GMT | Linguistic Trojan Horse: Why LLM Steganography Just Broke AI Safety | Berend Watchus | [Read More](https://medium.com/p/d6b9979a19eb) |
+| Fri, 24 Oct 2025 05:17:16 GMT | Incident Response — Proactive vs. Reactive Approach | NetWitness | [Read More](https://medium.com/p/dcae5e7f4ca8) |
 | Fri, 24 Oct 2025 05:09:04 GMT | Top 10 Tools for Bug Bounty Hunters in 2025 — Practical, fast, and battle-tested | Monujangra | [Read More](https://medium.com/p/e090866a9b64) |
 | Fri, 24 Oct 2025 04:59:13 GMT | Building Guardrails for Generative AI: The New Security Playbook for Organizations | SYED ABBAS ALI AZGHAR HUSSAIN | [Read More](https://medium.com/p/9ad72c47fc42) |
 | Fri, 24 Oct 2025 04:58:18 GMT | How to Find the Password Quickly Using Google Dorking Only! | Testone5iix | [Read More](https://medium.com/p/6455b6ef03bb) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 18:56:59 GMT | From Command Line to AI Brain: The Kali MCP Server Revolution | LETCHU PKT | [Read More](https://medium.com/p/52b98581ae6c) |
 | Thu, 23 Oct 2025 18:52:55 GMT | The Most Underrated GRC Skill: It’s Not Coding — It’s Context | Taimur Ijlal | [Read More](https://medium.com/p/6451fac0f133) |
 | Thu, 23 Oct 2025 18:47:02 GMT | Pain is the Music Industry’s Most Powerful Form of Currency | Wetsi Masilo | [Read More](https://medium.com/p/c12f5b481ffd) |
-| Thu, 23 Oct 2025 18:36:50 GMT | AI SOC Analyst | Huseyn Eyvazov | [Read More](https://medium.com/p/eea116ab85b8) |
-| Thu, 23 Oct 2025 18:23:38 GMT | GDPR and Its Impact on Cybersecurity Worldwide | Samina Perveen | [Read More](https://medium.com/p/89daf98c2619) |
-| Thu, 23 Oct 2025 18:00:27 GMT | Ethical and Regulatory Frameworks for Generative AI in Cybersecurity | Chad Barr | [Read More](https://medium.com/p/258e1c96a3fd) |
-| Thu, 23 Oct 2025 17:58:36 GMT | Web Development Baseline Essentials for Sri Lankan Research Non‑Profits | Nandula Asel Karunasingha | [Read More](https://medium.com/p/f83a45baa6ee) |
-| Thu, 23 Oct 2025 17:58:05 GMT | Simulation’s New Playbook: Shifting from Movement-Based Games to Strategic Industry Case Scenarios | Berend Watchus | [Read More](https://medium.com/p/b1591b8fe368) |
