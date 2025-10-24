@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 02:46:38 GMT | The New Role of IT Managed Services in Fontana, CA in Today’s Cybersecurity Channel | Zeta Sky | [Read More](https://medium.com/p/a75933b7af29) |
+| Fri, 24 Oct 2025 02:39:26 GMT | Understanding My Home Network and Its Risks | Thaís Lima | [Read More](https://medium.com/p/6bfb814eac17) |
+| Fri, 24 Oct 2025 02:31:54 GMT | Your Must-Have Linux Security Superpower: Mastering auditd | Chanaka Rathnayaka | [Read More](https://medium.com/p/f107cd54bd77) |
+| Fri, 24 Oct 2025 02:31:53 GMT | 3 Myths About PKI (and Why They’re Wrong) | TechTrellis Academy | [Read More](https://medium.com/p/7e0d765ad104) |
+| Fri, 24 Oct 2025 02:28:08 GMT | Keeping Children and Teens Safe on Apps: A Guide for Parents | Aysha Misri | [Read More](https://medium.com/p/0d29a56fa653) |
+| Fri, 24 Oct 2025 02:14:02 GMT | Big Shark RAT: The Leaked Android Malware Giving Hackers Full Remote Control in 2025 | Hackers Things | [Read More](https://medium.com/p/33515d7ca817) |
+| Fri, 24 Oct 2025 02:10:25 GMT | How I Earned $50 for a Session Bug That Never Got Properly Killed | Isha Sangpal | [Read More](https://medium.com/p/899d04b30aa5) |
+| Fri, 24 Oct 2025 02:03:40 GMT | How I solved the PortSwigger SQLI lab: determine number of columns with a UNION SELECT NULL attack | Cybernerddd | [Read More](https://medium.com/p/8c509cd25a6b) |
+| Fri, 24 Oct 2025 02:03:07 GMT | Quantum Computers — The Kryptonite of Today’s Encryption | Akhilkumar Y | [Read More](https://medium.com/p/b37d4ac72cc7) |
+| Fri, 24 Oct 2025 01:47:59 GMT | Inside the Mind of an Antivirus | Rodrigo Gutierrez | [Read More](https://medium.com/p/e49ba3d910ef) |
+| Fri, 24 Oct 2025 01:42:16 GMT | Abandon “Exquisite Poverty” After 30: Smart Saving for Financial Security | Fower Leo | [Read More](https://medium.com/p/25dd16484075) |
 | Fri, 24 Oct 2025 01:26:57 GMT | Direct Prompt Injection: A Critical New Security Challenge for Software Engineers & QA’s | Sam Sperling | [Read More](https://medium.com/p/16723ef57efc) |
 | Fri, 24 Oct 2025 01:14:00 GMT | We Talk About Cyber Threats, but Rarely About Digital Responsibility. It’s Time We Did. | Rabail Zaheer | [Read More](https://medium.com/p/35cfcef85eb3) |
 | Fri, 24 Oct 2025 01:13:55 GMT | When AI Watches the Door: Building a Smart Security System with YOLOv11 | Mustapha Aitigunaoun | [Read More](https://medium.com/p/cd6b80acb6d4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 16:33:42 GMT | “I Agree” Doesn’t Mean You Understand: How Privacy Jargon Tricks Us Into False Consent | Ivan Junior | [Read More](https://medium.com/p/ab50979bb2d2) |
 | Thu, 23 Oct 2025 16:29:52 GMT | Optimizing Global Permissions vs Project Permissions | Erdem UÇAK | [Read More](https://medium.com/p/5ebeb5a108af) |
 | Thu, 23 Oct 2025 16:27:31 GMT | Beyond the Classroom: What 6 Hours Inside a Deloitte Cybersecurity Simulation Taught Me ️ | Rohit Prajapati | [Read More](https://medium.com/p/7c246fe27161) |
-| Thu, 23 Oct 2025 16:25:36 GMT | Understanding SSH Keys - Simple Guide for Beginners | Kenuka Karunakaran | [Read More](https://medium.com/p/7163f51dd0d7) |
-| Thu, 23 Oct 2025 16:22:47 GMT | Inside the Hacker Hunter’s Domain Cyber Intelligence: “A Field Guide to OSINT, Dark Web… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ef1f92bea8ec) |
-| Thu, 23 Oct 2025 16:21:35 GMT | Why Cybersecurity Matters in Every Digital Profession | Ferdi Edogawa | [Read More](https://medium.com/p/ad1ccbc2fe1e) |
-| Thu, 23 Oct 2025 16:18:36 GMT | Cybersecurity Hygiene Best Practices: Building a Secure Digital Foundation with Rainbow Secure | Dr. Shashi Karhail | [Read More](https://medium.com/p/c78a2dd6a7fe) |
-| Thu, 23 Oct 2025 16:16:01 GMT | Smart IT Support in North East London | Gary Marshall | [Read More](https://medium.com/p/f9de58002a95) |
-| Thu, 23 Oct 2025 16:11:44 GMT | Security System | Vital Tech Vision | [Read More](https://medium.com/p/98a7bcc43e37) |
-| Thu, 23 Oct 2025 16:10:55 GMT | How One Line of Code Could Break an Entire Nation’s Security | Zain Ahmad | [Read More](https://medium.com/p/e85eeae874f2) |
-| Thu, 23 Oct 2025 16:08:56 GMT | How to Protect Your Online Privacy | M. Aamir Fozail | [Read More](https://medium.com/p/c41c9beba5f3) |
-| Thu, 23 Oct 2025 16:02:22 GMT | What kind of Person Are You Choosing To Be? | Adeola Agbelemoge | [Read More](https://medium.com/p/5abd72a380f8) |
-| Thu, 23 Oct 2025 16:02:11 GMT | Weaponized DNS: Resolving remote commands | umbraXsecure | [Read More](https://medium.com/p/65e8fba4458f) |
-| Thu, 23 Oct 2025 15:51:25 GMT | How to Get Rid of Box Elder Bugs: Your Comprehensive Guide | Nabil | [Read More](https://medium.com/p/c9a3a2adc198) |
