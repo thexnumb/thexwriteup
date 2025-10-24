@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 04:11:52 GMT | Quantum Leaps to AI Agents: A Week of Unprecedented Tech Innovation (October 21–24, 2025) | Tanbopp | [Read More](https://medium.com/p/52c2b093c1b8) |
+| Fri, 24 Oct 2025 04:07:06 GMT | AI vs Hackers: Who’s Winning the Invisible War? | Zain Ahmad | [Read More](https://medium.com/p/71498a194106) |
+| Fri, 24 Oct 2025 04:05:34 GMT | Internal - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/61b7f0363ec9) |
+| Fri, 24 Oct 2025 03:59:45 GMT | Hackviser: Scenario VoidWriteup | Attiqorakzai | [Read More](https://medium.com/p/58c49241bfc5) |
 | Fri, 24 Oct 2025 03:44:23 GMT | Relevant - TryHackMe CTF WriteUp | WhamBamTurkeyAndHam | [Read More](https://medium.com/p/25870f93fb96) |
+| Fri, 24 Oct 2025 03:42:31 GMT | Exploring Wazuh SIEM: My Hands-on Experience with Server–Agent Setup to Full-Scale Threat… | stephen | [Read More](https://medium.com/p/ee677a049bbb) |
+| Fri, 24 Oct 2025 03:38:48 GMT | LiGi (Light-based Geometry) Protocol: A Quantum-Resistant, High-Density Communication Solution | Bojan Petar Milanovic | [Read More](https://medium.com/p/35fafdb1d1cd) |
 | Fri, 24 Oct 2025 03:35:49 GMT | How I Accidentally Became the Company’s Unofficial File Clerk (And Saw Everyone’s Secrets) | Iski | [Read More](https://medium.com/p/816e09bca109) |
 | Fri, 24 Oct 2025 03:31:58 GMT | How Threat Actors Weaponize Windows Scheduled Tasks for Stealthy Persistence | Deven Chhajed | [Read More](https://medium.com/p/73356090b93c) |
 | Fri, 24 Oct 2025 02:55:32 GMT | Setting Up pfSense Firewalls for Segmentation & Routing | Meet Patel | [Read More](https://medium.com/p/aeac03a337d7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Oct 2025 17:18:59 GMT | Is Your Video Conferencing Secure? A Simple Guide to Plug-N-Meet’s Security | Jibon Costa | [Read More](https://medium.com/p/05702ff08162) |
 | Thu, 23 Oct 2025 17:13:11 GMT | Domain Wrangling | Kelly Wofford | [Read More](https://medium.com/p/6e29b3812b75) |
 | Thu, 23 Oct 2025 17:12:43 GMT | The Windows Security Journey — MP (Memory Protector) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/258fbe93dcc6) |
-| Thu, 23 Oct 2025 17:12:28 GMT | Understanding OSI Layers and Cyberattacks: A Comprehensive Guide : | Gopi Sri | [Read More](https://medium.com/p/e7ebcf4844e2) |
-| Thu, 23 Oct 2025 17:06:14 GMT | Red Team vs. Blue Team: The Cybersecurity Battle You Need to Understand | Hassan Talal | [Read More](https://medium.com/p/179d22344819) |
-| Thu, 23 Oct 2025 17:02:58 GMT | Segurança Digital é prioridade em 2025 | Allcomnet | [Read More](https://medium.com/p/1223407dbf8f) |
-| Thu, 23 Oct 2025 16:58:26 GMT | Governance as Code | Apolis | [Read More](https://medium.com/p/790d3785d2e3) |
-| Thu, 23 Oct 2025 16:57:32 GMT | How I Found My Way Into Cybersecurity as a Woman | Kylee Cox | [Read More](https://medium.com/p/91f605ceac19) |
-| Thu, 23 Oct 2025 16:54:26 GMT | Enhance Endpoint Security with VMware Carbon Black Software | Kevin Asutton | [Read More](https://medium.com/p/a25634294db6) |
