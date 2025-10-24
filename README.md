@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Oct 2025 21:08:48 GMT | The Batcomputer Evolved | David ONeal | [Read More](https://medium.com/p/2ad3e62918e4) |
+| Fri, 24 Oct 2025 21:02:35 GMT | Day 19 of my Cybersecurity Journey: Tcpdump Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/86584eed80d3) |
+| Fri, 24 Oct 2025 20:54:59 GMT | SIEM 101 | CheddarB0b42 | [Read More](https://medium.com/p/40b19e48ad22) |
+| Fri, 24 Oct 2025 20:53:41 GMT | Every Cyber Risk. Every Signal. Continuous Defense Loop | Juan Pablo Castro | [Read More](https://medium.com/p/d9a0c81e03e5) |
+| Fri, 24 Oct 2025 20:52:45 GMT | Siber Güvenliğe İlk Adım: Linux, Network ve Güvenlik Terimleri Rehberi | asandikci | [Read More](https://medium.com/p/a2ab9fa3e95b) |
+| Fri, 24 Oct 2025 20:47:36 GMT | Red Teaming 101 — Adversary Emulation vs Adversary Simulation | Bala Praneeth (Begin_hunt) | [Read More](https://medium.com/p/bd72ee582b29) |
+| Fri, 24 Oct 2025 20:33:18 GMT | 5 Most Critical Windows 10 & 11 Hardening Steps To Enforce | Cybersensus | [Read More](https://medium.com/p/d345f9f048c5) |
 | Fri, 24 Oct 2025 20:21:22 GMT | MinIO Latest Security Release — Now Available as alpine/minio Docker Image | Bill WANG | [Read More](https://medium.com/p/440af8e429ae) |
 | Fri, 24 Oct 2025 20:08:46 GMT | Bluetooth Mimarisi ve Temel Kavramlar-1 | Alperkandemir | [Read More](https://medium.com/p/df359bf6b22b) |
 | Fri, 24 Oct 2025 20:07:20 GMT | [HackTheBox x VulnLab Write-up] Retro (Pre2K compter and ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/79f4eb386cfd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 14:02:15 GMT | Vulnhub Stapler Walkthrough Step-by-Step | cyber pancake | [Read More](https://medium.com/p/031e87dd7f6c) |
 | Fri, 24 Oct 2025 14:01:55 GMT | The Next Cyber Battleground: When the Firewall Fails | Abatis ABTU | [Read More](https://medium.com/p/e95014121f17) |
 | Fri, 24 Oct 2025 14:01:52 GMT | Cyber Briefing: 2025.10.24 | CyberMaterial | [Read More](https://medium.com/p/e7cb99c82f4e) |
-| Fri, 24 Oct 2025 14:00:38 GMT | Why Every Organization Needs an ISO 27001:2022 Toolkit | Kathrinekreger | [Read More](https://medium.com/p/9051a54f7d1f) |
-| Fri, 24 Oct 2025 13:57:29 GMT | Unmasking the Deceptive Threat: Server-Side Request Forgery (SSRF)-A10- OWASP top 10 - 10 day’s… | Md. EMTIAZ AHMED | [Read More](https://medium.com/p/c2ab1385e8de) |
-| Fri, 24 Oct 2025 13:56:44 GMT | Topic 34: CSS Positioning | Rana Awais | [Read More](https://medium.com/p/6db041887016) |
-| Fri, 24 Oct 2025 13:47:32 GMT | Adulting: We Don’t Share Everything | Precious Temidayo Ajayi | [Read More](https://medium.com/p/78fb74d5a755) |
-| Fri, 24 Oct 2025 13:46:31 GMT | Why I’m Learning C++: A Calculator and the Path to Reverse Engineering | Ayomide Trillionz | [Read More](https://medium.com/p/71b0d1c9372e) |
-| Fri, 24 Oct 2025 13:45:43 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/2b5284a1ceae) |
-| Fri, 24 Oct 2025 13:45:19 GMT | How I Learned the Hard Way That Security Matters More Than Profits in Crypto Trading | Alejandro Morales | [Read More](https://medium.com/p/ec3ae499b6ee) |
