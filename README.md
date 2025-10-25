@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 20:18:08 GMT | Implementing FIPS on AWS | Paul Short | [Read More](https://medium.com/p/b8d016597ed1) |
+| Sat, 25 Oct 2025 20:03:38 GMT | Dark Side of Developer Screening Projects on LinkedIn — and What Every Developer Should Know | Aryavhirkoul | [Read More](https://medium.com/p/8fcbb31f869b) |
+| Sat, 25 Oct 2025 19:55:56 GMT | TheHackersLabs — THLPWN [Write Up] | APS88 | [Read More](https://medium.com/p/72ef1444e8e2) |
+| Sat, 25 Oct 2025 19:44:57 GMT | Using an AI browser? You might already be hacked! | Utkarsh Agrawal | [Read More](https://medium.com/p/32768f3e7380) |
+| Sat, 25 Oct 2025 19:44:39 GMT | No System is Perfect: 10 Steps to Bulletproof Your Web App Infrastructure | John Muconto | [Read More](https://medium.com/p/df1afdb9cd73) |
+| Sat, 25 Oct 2025 19:42:37 GMT | FortiGate 40F vs 60F | SAM Romania | [Read More](https://medium.com/p/2b816a4b3440) |
+| Sat, 25 Oct 2025 19:41:38 GMT | My First Four Hacks: Learning to Think Like a Hacker (Right from VS Code) | Damian Griggs | [Read More](https://medium.com/p/2894b605b179) |
+| Sat, 25 Oct 2025 19:39:43 GMT | SysAid On-Prem Pre-Auth RCE Chain | Cybersecplayground | [Read More](https://medium.com/p/65fcb6602d60) |
+| Sat, 25 Oct 2025 19:36:51 GMT | I Set Up My First SSH Honeypot (Here’s How You Can Too) | Harsh Raj Singhania | [Read More](https://medium.com/p/1324ccd63663) |
 | Sat, 25 Oct 2025 19:14:29 GMT | Reflected XSS with Base64 — Breaching Obscurity in Seconds | embossdotar | [Read More](https://medium.com/p/38e3ca07b085) |
 | Sat, 25 Oct 2025 18:43:12 GMT | CORS Busters: Quick Hacks for Local Dev (Chrome, Edge, Firefox, Safari) | Raja Sekar Durairaj | [Read More](https://medium.com/p/bd06bd93dc3a) |
 | Sat, 25 Oct 2025 18:33:24 GMT | I whispered my truth into your silence | Poppy Sindral | [Read More](https://medium.com/p/49f75c924b78) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 12:23:33 GMT | The 2016 Cyberattack on Thailand Ministry of Foreign Affairs — Global Implications and the… | David SEHYEON Baek | [Read More](https://medium.com/p/0080b120c30a) |
 | Sat, 25 Oct 2025 12:23:25 GMT | How I Use GitHub Recon & Dorking to Find Security Insights . | Mr Hunter | [Read More](https://medium.com/p/8d2bf95e4d07) |
 | Sat, 25 Oct 2025 12:22:25 GMT | # Building AI Security That Actually Works: Lessons from EchoLeak | Cyber Breach Space | [Read More](https://medium.com/p/e74f35755320) |
-| Sat, 25 Oct 2025 12:20:50 GMT | # Four Security Layers Failed: The Technical Breakdown of EchoLeak | Cyber Breach Space | [Read More](https://medium.com/p/adadbce03591) |
-| Sat, 25 Oct 2025 12:20:19 GMT | [OverTheWire] Bandit Level 7 → 8 | H$nt | [Read More](https://medium.com/p/af79be50c973) |
-| Sat, 25 Oct 2025 12:19:05 GMT | [OverTheWire] Bandit Level 6 → 7 | H$nt | [Read More](https://medium.com/p/3eec2542ff0a) |
-| Sat, 25 Oct 2025 12:17:34 GMT | [OverTheWire] Bandit Level 5 → 6 | H$nt | [Read More](https://medium.com/p/3561a55a9bf0) |
-| Sat, 25 Oct 2025 12:16:02 GMT | Wireshark: The Basics | armintei | [Read More](https://medium.com/p/98590c3362c9) |
-| Sat, 25 Oct 2025 12:09:57 GMT | PhantomCaptcha: A one-day WebSocket RAT campaign weaponizing fake CAPTCHAs and PDFs | Himanshu Bhatt | [Read More](https://medium.com/p/8e0e001addfb) |
-| Sat, 25 Oct 2025 11:58:17 GMT | Setting Up My Browser Security Lab: Lessons from Docker, Disk Space, and Debugging | Okore Osotsi | [Read More](https://medium.com/p/7d04aaf7f19a) |
-| Sat, 25 Oct 2025 11:56:31 GMT | DockerLabs Writeup — HereBash (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8218733bbbc5) |
-| Sat, 25 Oct 2025 11:52:03 GMT | Data Masking Techniques for PII Data Protection | Sanjeev Jaiswal (Jassi) | [Read More](https://medium.com/p/0ff649a05773) |
