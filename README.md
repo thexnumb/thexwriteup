@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 09:28:38 GMT | Turning the Knob on Cloud Access: Active Revocation Made Simple | Ahmed Rekik | [Read More](https://medium.com/p/bef7c8d7b736) |
+| Sat, 25 Oct 2025 09:28:12 GMT | How a Single “What If” Can Find You a Bug | Viratavi | [Read More](https://medium.com/p/665b96c1e909) |
+| Sat, 25 Oct 2025 09:25:05 GMT | Things I did to finish 10 levels in Bandit | Abel Asfaw | [Read More](https://medium.com/p/abecb2e33b26) |
+| Sat, 25 Oct 2025 09:23:27 GMT | Mentorship in Tech: How to Find a Mentor and Grow Faster | Generiss Academy | [Read More](https://medium.com/p/b51768a15af6) |
+| Sat, 25 Oct 2025 09:22:49 GMT | Key Logger Prevention in iOS | Nishant Taneja | [Read More](https://medium.com/p/11966a44ad4b) |
 | Sat, 25 Oct 2025 09:00:29 GMT | How to Share Secrets Across Kubernetes Namespaces Securely | Anh Trần Tuấn | [Read More](https://medium.com/p/f26ca0d32bb8) |
 | Sat, 25 Oct 2025 09:00:28 GMT | How to Share Secrets Across Kubernetes Namespaces Securely | Anh Trần Tuấn | [Read More](https://medium.com/p/00c9fd0d60f8) |
 | Sat, 25 Oct 2025 08:59:17 GMT | What a beautiful privilege it is — to be consumed by love that can both break and cherish me. | jupiter | [Read More](https://medium.com/p/7e8923f9f20e) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 20:47:36 GMT | Red Teaming 101 — Adversary Emulation vs Adversary Simulation | Bala Praneeth (Begin_hunt) | [Read More](https://medium.com/p/bd72ee582b29) |
 | Fri, 24 Oct 2025 20:33:18 GMT | 5 Most Critical Windows 10 & 11 Hardening Steps To Enforce | Cybersensus | [Read More](https://medium.com/p/d345f9f048c5) |
 | Fri, 24 Oct 2025 20:21:22 GMT | MinIO Latest Security Release — Now Available as alpine/minio Docker Image | Bill WANG | [Read More](https://medium.com/p/440af8e429ae) |
-| Fri, 24 Oct 2025 20:08:46 GMT | Bluetooth Mimarisi ve Temel Kavramlar-1 | Alperkandemir | [Read More](https://medium.com/p/df359bf6b22b) |
-| Fri, 24 Oct 2025 20:07:20 GMT | [HackTheBox x VulnLab Write-up] Retro (Pre2K compter and ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/79f4eb386cfd) |
-| Fri, 24 Oct 2025 20:06:30 GMT | [HackTheBox x VulnLab Write-up] Data (Grafana exploitation and Docker exec privilege escalation) | Chicken0248 | [Read More](https://medium.com/p/c412bbddfc2e) |
-| Fri, 24 Oct 2025 20:05:32 GMT | How Secrets Stay Safe: A Beginner’s Guide to Attestation, Signatures, and Policy-Based Trust | Bob S. | [Read More](https://medium.com/p/f5043bb02a9f) |
-| Fri, 24 Oct 2025 20:03:54 GMT | Injected #2: Lessons from Hacking a Financial Company | Chux | [Read More](https://medium.com/p/a95c974a3604) |
