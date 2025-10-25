@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 15:31:05 GMT | SIEM Basics | lukewago | [Read More](https://medium.com/p/c03bde388064) |
+| Sat, 25 Oct 2025 15:28:47 GMT | Topic 38: CSS Flexbox (Flexible Box Layout) | Rana Awais | [Read More](https://medium.com/p/51ca3d7403d3) |
+| Sat, 25 Oct 2025 15:24:30 GMT | Why Every Business Needs a VPN for Better Security ? | Technologia | [Read More](https://medium.com/p/8ceab6330ce4) |
+| Sat, 25 Oct 2025 15:23:52 GMT | The 90-Day AI Security & Governance Starter Plan | Michael Hannecke | [Read More](https://medium.com/p/f271fe3b6983) |
+| Sat, 25 Oct 2025 15:21:08 GMT | DevSecOps Best Practices for Cloud Security | DevOps Security Hub | [Read More](https://medium.com/p/55faf56b7240) |
 | Sat, 25 Oct 2025 15:16:05 GMT | Topic 37: CSS Transform (Rotate, Scale, Skew, Translate) | Rana Awais | [Read More](https://medium.com/p/895e23afc419) |
 | Sat, 25 Oct 2025 15:15:09 GMT | TShark Challenge I: Teamwork - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/cc360bac6c65) |
 | Sat, 25 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e2466a0476c5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 08:59:17 GMT | What a beautiful privilege it is — to be consumed by love that can both break and cherish me. | jupiter | [Read More](https://medium.com/p/7e8923f9f20e) |
 | Sat, 25 Oct 2025 08:45:51 GMT | TryHackMe - Alert Triage With Splunk - WriteUp | Axoloth | [Read More](https://medium.com/p/192e675debff) |
 | Sat, 25 Oct 2025 08:41:49 GMT | Stay Ahead in Cybersecurity: Top Certifications for 2026 | Lucia Adams | [Read More](https://medium.com/p/0ad7b04e081e) |
-| Sat, 25 Oct 2025 08:38:39 GMT | Recon Wins Again: Uncovering a Billing Portal Leak Through Wayback Machine | Senorita_01 | [Read More](https://medium.com/p/c7301e815fc5) |
-| Sat, 25 Oct 2025 08:37:33 GMT | Dubai 2026–27 — Top 10 Security Upgrades Driving Business Safety with Firewalls & Access Control | Liberty Computer System | [Read More](https://medium.com/p/c6f5764c3e03) |
-| Sat, 25 Oct 2025 08:31:41 GMT | The Hidden World of Espionage: Diplomacy, Influence, and Information Warfare | AtashWisdomGrass | [Read More](https://medium.com/p/8995b04a57cc) |
-| Sat, 25 Oct 2025 08:07:39 GMT | Learn Artificial Intelligence Course in Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/a740e0a20778) |
-| Sat, 25 Oct 2025 08:02:26 GMT | Free Domain Leak Check: Run It in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/fcc4bccee73d) |
