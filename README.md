@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 14:31:50 GMT | 12 Security Defaults for JS Apps | Hash Block | [Read More](https://medium.com/p/8f0d0697d4f9) |
+| Sat, 25 Oct 2025 14:21:25 GMT | HACKING GOOGLE- PROJECT ZERO | Chiamaka Ezeike | [Read More](https://medium.com/p/3112dc068a81) |
+| Sat, 25 Oct 2025 14:20:19 GMT | Vulnhub Corrosion:2 Walkthrough | Enes Özkırdeniz | [Read More](https://medium.com/p/c3e2f6057574) |
 | Sat, 25 Oct 2025 14:17:00 GMT | The Future of Cybersecurity Belongs to Those Who Simplify It. | philippe Garcia | [Read More](https://medium.com/p/e83902e272a7) |
+| Sat, 25 Oct 2025 14:16:59 GMT | Inside the Invisible: What Pentesting Wireless IoT Devices Taught Me About Modern Security | Michael Preston | [Read More](https://medium.com/p/ba83aa2d2066) |
 | Sat, 25 Oct 2025 14:14:24 GMT | Why Beginners Fail in Cyber Security | Abdullah Javeed | [Read More](https://medium.com/p/0a6b540f3201) |
+| Sat, 25 Oct 2025 14:13:18 GMT | EQUIFAX BREACH AND STUXNET WORM | Chiamaka Ezeike | [Read More](https://medium.com/p/403979697dc1) |
 | Sat, 25 Oct 2025 14:05:35 GMT | Why Leaders Fail: Knowing When to Push and When to Let Go | Vijay Kumar Gupta | [Read More](https://medium.com/p/47ae9c40fcad) |
 | Sat, 25 Oct 2025 13:59:20 GMT | Stories from the Frontlines of Tech and Security | Boris Agranovich | [Read More](https://medium.com/p/75b8a0f1ae89) |
 | Sat, 25 Oct 2025 13:56:17 GMT | Why Cybersecurity Is the Hottest Career of the Decade (and How to Get Started) | Code Link | [Read More](https://medium.com/p/2aa80115ab86) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 ‎Hey there! | Mazi Techs | [Read More](https://medium.com/p/a0dde7ef96bd) |
 | Sat, 25 Oct 2025 06:26:47 GMT | Node.js Security Best Practices: Protecting Your Startup’s Assets | Jason Han | [Read More](https://medium.com/p/fb2c2db014f9) |
 | Sat, 25 Oct 2025 06:25:47 GMT | Think Before You Click: Outsmarting Phishing in 2025 | The Cyber Odyssey | [Read More](https://medium.com/p/de50883187d1) |
-| Sat, 25 Oct 2025 06:11:36 GMT | Cybersecurity in 2025: Why It’s No Longer Optional | Ashish Mishra | [Read More](https://medium.com/p/d4155f3815ba) |
-| Sat, 25 Oct 2025 06:11:00 GMT | Secure Password Verification in Python: Implementing bcrypt for Robust Authentication | Pabasara Dewmini | [Read More](https://medium.com/p/87b058889d05) |
-| Sat, 25 Oct 2025 06:10:17 GMT | The​ ROI of‍ Le‌arning Ethic‌al Hac​ki‍ng — Is It Worth It? | Aadhidev Anihac | [Read More](https://medium.com/p/3c9ed5fdc48a) |
-| Sat, 25 Oct 2025 06:04:02 GMT | Top 10 Influencers in Cyber Security on LinkedIn | Manisha Chaudhary | [Read More](https://medium.com/p/d366487dd033) |
-| Sat, 25 Oct 2025 06:01:37 GMT | Gophish — Open-Source Phishing Framework (Beginner’s Guide) | Abhinsubej | [Read More](https://medium.com/p/05d7be126581) |
