@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 17:15:13 GMT | Lab 2: Stored XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/a1b2f0d8e890) |
+| Sat, 25 Oct 2025 17:14:43 GMT | Hunting Hacktivism by URLscan (OSINT Tip Series 1) | Rishika Desai | [Read More](https://medium.com/p/d2e7c7df925f) |
+| Sat, 25 Oct 2025 17:03:04 GMT | Lab 1: Reflected XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/7ba4fe35d78c) |
+| Sat, 25 Oct 2025 17:02:44 GMT | OPERATION AURORA | Chiamaka Ezeike | [Read More](https://medium.com/p/8d189abb0824) |
+| Sat, 25 Oct 2025 16:54:29 GMT | AI is Taking Over Cybersecurity But That Might Be a Good Thing | Xormium | [Read More](https://medium.com/p/dcbca4a4ec94) |
+| Sat, 25 Oct 2025 16:48:36 GMT | A Crybaby’s Confession | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/093f648ff8a1) |
+| Sat, 25 Oct 2025 16:46:46 GMT | Are AI Browser Agents Safe? Top Security Risks You Should Know | Tech Verse Today | [Read More](https://medium.com/p/31a4711478cf) |
+| Sat, 25 Oct 2025 16:38:53 GMT | Installing Kerbrute on Linux/Ubuntu | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/677189605cd8) |
 | Sat, 25 Oct 2025 16:33:20 GMT | HackSudo Series — writeup: hacksudo: 2 (HackDudo) | Vaibhav | [Read More](https://medium.com/p/c6e9473efdc7) |
 | Sat, 25 Oct 2025 16:09:32 GMT | Yes, I Have Allowed Myself to Drink Alcohol | Shunyo Osho | [Read More](https://medium.com/p/1fcc56256d56) |
 | Sat, 25 Oct 2025 16:07:48 GMT | A Fake Account, a Cloned Publication, an Unexpected Shock for Substack Subscribers | Dr Mehmet Yildiz | [Read More](https://medium.com/p/4bc7e2cb124b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 10:13:29 GMT | Clicks to Customers: Website Development Services in Chennai That Actually Work | Dineshsvaan | [Read More](https://medium.com/p/f67efb944feb) |
 | Sat, 25 Oct 2025 10:09:11 GMT | Book 6 :The Phoenix Directive: The Hybrid War Unleashed (The R & A.W. | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/5f1f8e9a015a) |
 | Sat, 25 Oct 2025 10:05:21 GMT | From Splunk Enterprise Security to MITRE ATT&CK | Pietro Romano / SecBeret | [Read More](https://medium.com/p/4b318cd9d530) |
-| Sat, 25 Oct 2025 10:04:49 GMT | How I Made ChatGPT My Bug Hunting Intern (And It Found Stuff I’d Never Considered) | Iski | [Read More](https://medium.com/p/e86a44c1f2ba) |
-| Sat, 25 Oct 2025 10:03:40 GMT | GHİDRA | Asya Ilgın Işık | [Read More](https://medium.com/p/0076e61be6a2) |
-| Sat, 25 Oct 2025 09:56:56 GMT | Cryptography for Beginners: What Actually Matters in Practice | Aj | [Read More](https://medium.com/p/08825b3da211) |
-| Sat, 25 Oct 2025 09:55:46 GMT | Cybersecurity Weekly Issue 52 | This Week In I/O | [Read More](https://medium.com/p/0af4ed14a393) |
-| Sat, 25 Oct 2025 09:55:33 GMT | The​‍​‌‍​‍‌ AWS Skills That Companies Will Pay Anything For in 2025 | Rocky | [Read More](https://medium.com/p/0291a083527f) |
-| Sat, 25 Oct 2025 09:55:19 GMT | Voleur HTB Walktrought | Maxwell Ferreira | [Read More](https://medium.com/p/b09f6f711ea5) |
-| Sat, 25 Oct 2025 09:51:20 GMT | SETTING UP BOSS OF THE SOC (BOTS) V3 DATASETS IN SPLUNK INSTANCE ON KALI LINUX | Aisha B. B | [Read More](https://medium.com/p/12e4d6785dcf) |
-| Sat, 25 Oct 2025 09:51:12 GMT | The Invisible ai: Why AI Needs a Moral Compass Now | UXVerse — ◦ | [Read More](https://medium.com/p/2e20764d8b3c) |
