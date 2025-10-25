@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 16:33:20 GMT | HackSudo Series — writeup: hacksudo: 2 (HackDudo) | Vaibhav | [Read More](https://medium.com/p/c6e9473efdc7) |
+| Sat, 25 Oct 2025 16:09:32 GMT | Yes, I Have Allowed Myself to Drink Alcohol | Shunyo Osho | [Read More](https://medium.com/p/1fcc56256d56) |
 | Sat, 25 Oct 2025 16:07:48 GMT | A Fake Account, a Cloned Publication, an Unexpected Shock for Substack Subscribers | Dr Mehmet Yildiz | [Read More](https://medium.com/p/4bc7e2cb124b) |
 | Sat, 25 Oct 2025 16:07:23 GMT | Human-Centered Support | Info Tech Net | [Read More](https://medium.com/p/3d8fab429cfc) |
 | Sat, 25 Oct 2025 16:03:15 GMT | How Bug Bounties Can Boost Your Cybersecurity Career | Xormium | [Read More](https://medium.com/p/ecbc45f15b00) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 09:55:19 GMT | Voleur HTB Walktrought | Maxwell Ferreira | [Read More](https://medium.com/p/b09f6f711ea5) |
 | Sat, 25 Oct 2025 09:51:20 GMT | SETTING UP BOSS OF THE SOC (BOTS) V3 DATASETS IN SPLUNK INSTANCE ON KALI LINUX | Aisha B. B | [Read More](https://medium.com/p/12e4d6785dcf) |
 | Sat, 25 Oct 2025 09:51:12 GMT | The Invisible ai: Why AI Needs a Moral Compass Now | UXVerse — ◦ | [Read More](https://medium.com/p/2e20764d8b3c) |
-| Sat, 25 Oct 2025 09:47:50 GMT | GitHub Contribution bug? Here’s Why And How to Fix It. | Auritro Bin Islam | [Read More](https://medium.com/p/098f7eebf2cf) |
-| Sat, 25 Oct 2025 09:44:08 GMT | How to Get Engineering to Care About AppSec (Without Being the Villain) | Kay Adelaja | [Read More](https://medium.com/p/b90c1e25304d) |
