@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 06:26:47 GMT | Node.js Security Best Practices: Protecting Your Startup’s Assets | Jason Han | [Read More](https://medium.com/p/fb2c2db014f9) |
+| Sat, 25 Oct 2025 06:25:47 GMT | Think Before You Click: Outsmarting Phishing in 2025 | The Cyber Odyssey | [Read More](https://medium.com/p/de50883187d1) |
+| Sat, 25 Oct 2025 06:11:36 GMT | Cybersecurity in 2025: Why It’s No Longer Optional | Ashish Mishra | [Read More](https://medium.com/p/d4155f3815ba) |
+| Sat, 25 Oct 2025 06:11:00 GMT | Secure Password Verification in Python: Implementing bcrypt for Robust Authentication | Pabasara Dewmini | [Read More](https://medium.com/p/87b058889d05) |
+| Sat, 25 Oct 2025 06:10:17 GMT | The​ ROI of‍ Le‌arning Ethic‌al Hac​ki‍ng — Is It Worth It? | Aadhidev Anihac | [Read More](https://medium.com/p/3c9ed5fdc48a) |
+| Sat, 25 Oct 2025 06:04:02 GMT | Top 10 Influencers in Cyber Security on LinkedIn | Manisha Chaudhary | [Read More](https://medium.com/p/d366487dd033) |
+| Sat, 25 Oct 2025 06:01:37 GMT | Gophish — Open-Source Phishing Framework (Beginner’s Guide) | Abhinsubej | [Read More](https://medium.com/p/05d7be126581) |
+| Sat, 25 Oct 2025 05:53:33 GMT | Differenc‌e Between Eth⁠ical Hacking and Penetrati‍on Testi‌ng | Aadhidev Anihac | [Read More](https://medium.com/p/20b8c6011c93) |
+| Sat, 25 Oct 2025 05:53:31 GMT | Journey into Tech: The Silent Struggle of Exploring, Discovering, and Choosing a Path in Tech | Abdulmujeeb | [Read More](https://medium.com/p/844e38d632c3) |
+| Sat, 25 Oct 2025 05:52:44 GMT | Why API Security Testing is Critical for Modern Applications | Supratip Banerjee | [Read More](https://medium.com/p/a34130ff33e7) |
+| Sat, 25 Oct 2025 05:52:12 GMT | Wha⁠t Recruiters⁠ L⁠ook for in Ethical Hackers — Insights f​rom Hir​ing Manag‌ers | Aadhidev Anihac | [Read More](https://medium.com/p/6ad254387e7d) |
+| Sat, 25 Oct 2025 05:29:50 GMT | Ethical Hacking Course in Ahmedabad — BIT | BIT Blogs | [Read More](https://medium.com/p/953c7bd7c2a1) |
 | Sat, 25 Oct 2025 05:21:38 GMT | MY JOURNEY INTO NETWORKING AND CYBERSECURITY | Dervisthestudent | [Read More](https://medium.com/p/bdfd30f9d64b) |
 | Sat, 25 Oct 2025 05:19:48 GMT | Top Hacker Tools for 2025: From Nmap to Next-Gen Security | 77LUCK | [Read More](https://medium.com/p/28b7ecc6124b) |
 | Sat, 25 Oct 2025 05:17:28 GMT | Palo Alto Networks Breach Readiness Review: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e585791bbf4d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 17:42:30 GMT | 5 things you should know about the quantum-ready Trezor Safe 7 hardware wallet and its… | Henry Windle | [Read More](https://medium.com/p/3d13b51e090b) |
 | Fri, 24 Oct 2025 17:40:57 GMT | AzurePot Lab Writeup | Jaws | [Read More](https://medium.com/p/ec20e2674783) |
 | Fri, 24 Oct 2025 17:38:52 GMT | The Dodleston Messages: A Postmaterialist Interpretation through the Platonic Computation Model | Simon X Duan | [Read More](https://medium.com/p/9b088f0408b8) |
-| Fri, 24 Oct 2025 17:34:21 GMT | เข้าใจ CORS ง่ายๆ สำหรับสายเว็บที่เจอ Error บ่อย | chanapon chuenchuwit | [Read More](https://medium.com/p/b0b5f3f2d592) |
-| Fri, 24 Oct 2025 17:31:51 GMT | The Digital Transformation RFP Template: What You’re Forgetting to Ask | Evan M. Rose | [Read More](https://medium.com/p/d0f8c81ef697) |
-| Fri, 24 Oct 2025 17:21:37 GMT | The Fake Job Offer Stealing Europe’s Drone Secrets | Aj | [Read More](https://medium.com/p/096b12f1dee2) |
-| Fri, 24 Oct 2025 17:20:52 GMT | Tcpdump: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/42af5dd2aaed) |
-| Fri, 24 Oct 2025 17:00:21 GMT | Windows Server 2019 + Windows 11 Lab on VMware Workstation | Angel Gomez Jr. - IT Enthusiast | [Read More](https://medium.com/p/781801134b8b) |
-| Fri, 24 Oct 2025 16:58:22 GMT | Part 6: Virtual Box Home Lab — Joining a End User to the Domain, and adding Group Policy. | Declan | [Read More](https://medium.com/p/abe38824f590) |
-| Fri, 24 Oct 2025 16:54:25 GMT | Setup and Tune an OT SOC (Part 3): Purple Teaming, ICS Equipment Recon & Detections. | biero llagas | [Read More](https://medium.com/p/1aa7bac09966) |
-| Fri, 24 Oct 2025 16:51:22 GMT | Learning Fortinet Firewall — LESSON XX: DNS Forward & Reverse Lookup (Active Directory) | Rouell Mamaril | [Read More](https://medium.com/p/1c35c84799c3) |
-| Fri, 24 Oct 2025 16:47:57 GMT | What Is a Computer Architecture? | Atakan Bitim | [Read More](https://medium.com/p/f2233ee2bbff) |
-| Fri, 24 Oct 2025 16:47:50 GMT | Bilgisayar Mimarisi (Computer Architecture) Nedir? | Atakan Bitim | [Read More](https://medium.com/p/23a94dd51d5a) |
-| Fri, 24 Oct 2025 16:38:35 GMT | How to Stay Motivated When You Hate Your Job | Global Whirl of Wonders | [Read More](https://medium.com/p/5219521e108c) |
-| Fri, 24 Oct 2025 16:37:17 GMT | 10 Cybersecurity Mistakes You’re Making Without Even Realizing It (and How to Fix Them Fast) | Xormium | [Read More](https://medium.com/p/92bdcea317dd) |
