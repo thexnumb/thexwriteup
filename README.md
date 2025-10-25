@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 23:29:05 GMT | SOC Role in Blue Team | Tony Khalil Rodgers | [Read More](https://medium.com/p/418b2e619aa4) |
+| Sat, 25 Oct 2025 23:27:38 GMT | Exploring AppArmor Profiles with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/73480515258f) |
+| Sat, 25 Oct 2025 23:19:56 GMT | Three Commands. One Quiet Lab. | DuckWrites | [Read More](https://medium.com/p/d05701c10066) |
 | Sat, 25 Oct 2025 23:02:41 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/66576c03a54c) |
 | Sat, 25 Oct 2025 22:54:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/8d7f12ff7300) |
 | Sat, 25 Oct 2025 22:47:05 GMT | The End of “I’m Not a Robot”: Why Your Phone’s Fingerprint Sensor is the New CAPTCHA | Saman Givian | [Read More](https://medium.com/p/348335cb509e) |
@@ -38,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 20:58:14 GMT | How I Turned Stored XSS To Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/d61ee2c38cba) |
 | Sat, 25 Oct 2025 20:50:43 GMT | HackTheBox: Sherlocks PhishNet - Kali Linux | Repp | [Read More](https://medium.com/p/245b0cfa70f0) |
 | Sat, 25 Oct 2025 20:43:20 GMT | O que é OAuth ? | Guilherme Gomes | [Read More](https://medium.com/p/2468412fe2d1) |
+| Sat, 25 Oct 2025 20:29:44 GMT | Recon Like a Hunter: Practical Tips from Real Findings Part 1 | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/d425d74c7c62) |
 | Sat, 25 Oct 2025 20:18:08 GMT | Implementing FIPS on AWS | Paul Short | [Read More](https://medium.com/p/b8d016597ed1) |
 | Sat, 25 Oct 2025 20:03:38 GMT | Dark Side of Developer Screening Projects on LinkedIn — and What Every Developer Should Know | Aryavhirkoul | [Read More](https://medium.com/p/8fcbb31f869b) |
 | Sat, 25 Oct 2025 19:55:56 GMT | TheHackersLabs — THLPWN [Write Up] | APS88 | [Read More](https://medium.com/p/72ef1444e8e2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 14:21:25 GMT | HACKING GOOGLE- PROJECT ZERO | Chiamaka Ezeike | [Read More](https://medium.com/p/3112dc068a81) |
 | Sat, 25 Oct 2025 14:20:19 GMT | Vulnhub Corrosion:2 Walkthrough | Enes Özkırdeniz | [Read More](https://medium.com/p/c3e2f6057574) |
 | Sat, 25 Oct 2025 14:17:00 GMT | The Future of Cybersecurity Belongs to Those Who Simplify It. | philippe Garcia | [Read More](https://medium.com/p/e83902e272a7) |
-| Sat, 25 Oct 2025 14:16:59 GMT | Inside the Invisible: What Pentesting Wireless IoT Devices Taught Me About Modern Security | Michael Preston | [Read More](https://medium.com/p/ba83aa2d2066) |
-| Sat, 25 Oct 2025 14:14:24 GMT | Why Beginners Fail in Cyber Security | Abdullah Javeed | [Read More](https://medium.com/p/0a6b540f3201) |
-| Sat, 25 Oct 2025 14:13:18 GMT | EQUIFAX BREACH AND STUXNET WORM | Chiamaka Ezeike | [Read More](https://medium.com/p/403979697dc1) |
-| Sat, 25 Oct 2025 14:05:35 GMT | Why Leaders Fail: Knowing When to Push and When to Let Go | Vijay Kumar Gupta | [Read More](https://medium.com/p/47ae9c40fcad) |
