@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 05:21:38 GMT | MY JOURNEY INTO NETWORKING AND CYBERSECURITY | Dervisthestudent | [Read More](https://medium.com/p/bdfd30f9d64b) |
+| Sat, 25 Oct 2025 05:19:48 GMT | Top Hacker Tools for 2025: From Nmap to Next-Gen Security | 77LUCK | [Read More](https://medium.com/p/28b7ecc6124b) |
+| Sat, 25 Oct 2025 05:17:28 GMT | Palo Alto Networks Breach Readiness Review: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e585791bbf4d) |
 | Sat, 25 Oct 2025 05:15:01 GMT | Solución — FD / Pwnable.kr | MrGh057 | [Read More](https://medium.com/p/365cb428e67b) |
 | Sat, 25 Oct 2025 04:57:49 GMT | Best IT Support Practices for Small Businesses | Ask IT Support | [Read More](https://medium.com/p/06bad2415690) |
 | Sat, 25 Oct 2025 04:54:35 GMT | When Billions Meet a Mom with Uno Cards: The Google-Anthropic Deal and What It Means for Victims… | Krystal | [Read More](https://medium.com/p/2b6d68087dc5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 16:47:50 GMT | Bilgisayar Mimarisi (Computer Architecture) Nedir? | Atakan Bitim | [Read More](https://medium.com/p/23a94dd51d5a) |
 | Fri, 24 Oct 2025 16:38:35 GMT | How to Stay Motivated When You Hate Your Job | Global Whirl of Wonders | [Read More](https://medium.com/p/5219521e108c) |
 | Fri, 24 Oct 2025 16:37:17 GMT | 10 Cybersecurity Mistakes You’re Making Without Even Realizing It (and How to Fix Them Fast) | Xormium | [Read More](https://medium.com/p/92bdcea317dd) |
-| Fri, 24 Oct 2025 16:36:46 GMT | New Bug Bounty Blog Is Live | Kapeka | [Read More](https://medium.com/p/58bab17d8530) |
-| Fri, 24 Oct 2025 16:36:46 GMT | How I Sold Snake Oil IT Security for Years — SOLID | Marcus Bohlander | [Read More](https://medium.com/p/c4e3aeebbc92) |
-| Fri, 24 Oct 2025 16:32:32 GMT | Top Cloud Computing Innovations You Need to Know | Xaltius | [Read More](https://medium.com/p/65ba6854cdfd) |
