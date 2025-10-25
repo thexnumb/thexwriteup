@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 03:31:57 GMT | When Phishing Goes to School: How Attackers Exploited Google Classroom to Target 13,500… | Deven Chhajed | [Read More](https://medium.com/p/5475ffb08401) |
+| Sat, 25 Oct 2025 03:23:50 GMT | Cyberhomeostasis | Tom Yonashiro | [Read More](https://medium.com/p/0b95a823e2b4) |
+| Sat, 25 Oct 2025 03:20:47 GMT | A Step-by-Step Introduction to Using Autopsy: The Open-Source Digital Forensics Browser | Anderson Santos | [Read More](https://medium.com/p/6c7a03cdfb7f) |
+| Sat, 25 Oct 2025 03:18:34 GMT | Cyber Risk Management | RogueTrace | [Read More](https://medium.com/p/12037f044d2f) |
+| Sat, 25 Oct 2025 03:14:20 GMT | [ SOC Alert => Phishing Mail Detected — Excel 4.0 Macros ] by LetsDefend / ➡️English version | EduKayky | [Read More](https://medium.com/p/86d5185abee6) |
 | Sat, 25 Oct 2025 03:02:00 GMT | Romanian-Polish Counterintelligence Foils Russian-Led Explosives Sabotage Plot | V. Langston - Pol / Eco / Tech | [Read More](https://medium.com/p/73dc49a7776b) |
 | Sat, 25 Oct 2025 02:26:02 GMT | Escape Common Coding Pitfalls You’re Making | Asif Sayed | [Read More](https://medium.com/p/92b4cd79dad8) |
 | Sat, 25 Oct 2025 02:16:10 GMT | Setting Up OpenBAS Community Edition | Tomomi | [Read More](https://medium.com/p/cf3f5d2a032a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 16:01:51 GMT | Siber Güvenlikte Networkun Temelleri ve Linux | Salih Yiğit ÖLMEZ | [Read More](https://medium.com/p/e035c4dc2198) |
 | Fri, 24 Oct 2025 15:59:35 GMT | Why I Never Store Passwords in Scripts (and How I Secure Automation Instead) | Faruk Ahmed | [Read More](https://medium.com/p/98bcf52af112) |
 | Fri, 24 Oct 2025 15:57:52 GMT | Learning Fortinet Firewall — LESSON XX: Active Directory Initial Setup | Rouell Mamaril | [Read More](https://medium.com/p/4387bf7721d1) |
-| Fri, 24 Oct 2025 15:56:14 GMT | The Role of AI in DevSecOps Automation | DevOps Security Hub | [Read More](https://medium.com/p/7986b1224ef2) |
-| Fri, 24 Oct 2025 15:55:34 GMT | Imagine this: You’re not chasing hackers — you’re outsmarting them. | Hachtechnology | [Read More](https://medium.com/p/fcffa3f3882a) |
-| Fri, 24 Oct 2025 15:54:39 GMT | Cybersecurity News Review — Week 43 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/31307fd29f86) |
-| Fri, 24 Oct 2025 15:54:31 GMT | Comment Sécuriser Votre Wallet Crypto avec un Hardware Wallet | Micheneau Simon | [Read More](https://medium.com/p/5c30a53cf4e1) |
-| Fri, 24 Oct 2025 15:51:51 GMT | What We Can Learn from Frank Abagnale on Preventing Check Fraud | Kalen Smith | [Read More](https://medium.com/p/655e7a1f917d) |
