@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 07:28:10 GMT | Thinking on starting a new career | roberto orozco | [Read More](https://medium.com/p/dbaee9bc5fb5) |
+| Sat, 25 Oct 2025 07:25:07 GMT | Unveiling the Shield: Cryptography as the Keystone of Blockchain Security | Savitri Network | [Read More](https://medium.com/p/b0e0247b2511) |
+| Sat, 25 Oct 2025 07:22:18 GMT | The Windows Security Journey — “/GS” (Buffer Security Check) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7b2d0bfa1324) |
+| Sat, 25 Oct 2025 07:18:26 GMT | Demystifying Zero Trust: Your Ultimate Guide to Next-Gen Cybersecurity | Mr Cyberian | [Read More](https://medium.com/p/9504265572bc) |
 | Sat, 25 Oct 2025 07:13:41 GMT | 12 Database Security Best Practices for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ac7b5d4a2740) |
 | Sat, 25 Oct 2025 07:08:40 GMT | THE WORLD OF COMPUTER NETWORKS: HOW OUR DEVICES TALK TO EACH OTHER | Input-7 | [Read More](https://medium.com/p/32209a6ffa0b) |
 | Sat, 25 Oct 2025 07:02:48 GMT | Linux Day: La festa dell’Open Source che cambia il mondo (un bit alla volta) | TheCyberGeekGirl | [Read More](https://medium.com/p/8344b8242973) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 19:11:35 GMT | Writeup HackTheBox : The Wax-Circle Reclaimed ! How I solved it ! | hehash | [Read More](https://medium.com/p/be8d9c7b9e4a) |
 | Fri, 24 Oct 2025 19:09:17 GMT | Siber Güvenlik Temel Kavramlar Rehberi | Rabia Günay | [Read More](https://medium.com/p/705084154057) |
 | Fri, 24 Oct 2025 19:05:18 GMT | Philips Wi-Fi Smart Lock with Handle — The Best Keyless Entry Door Lock for Smart Homes in the USA… | SellTrek | [Read More](https://medium.com/p/b1fdb5d1e217) |
-| Fri, 24 Oct 2025 18:48:03 GMT | Echoes Of the Code | Uzair | [Read More](https://medium.com/p/a72171a42302) |
-| Fri, 24 Oct 2025 18:32:29 GMT | The Kind of Words That Turn Friends Into Lifelong Allies | THUMB | [Read More](https://medium.com/p/87063e20d9d2) |
-| Fri, 24 Oct 2025 18:24:40 GMT | Writeup — The Gate of Broken Names (Satellite Notes — IDOR / Access Control Failure) | hehash | [Read More](https://medium.com/p/c94f436c37ff) |
-| Fri, 24 Oct 2025 18:23:53 GMT | ##  **GÜNLÜK ANALİZ SÜRECİ — ÖZET NOTLAR** | Myusuftr | [Read More](https://medium.com/p/26cc3806e305) |
