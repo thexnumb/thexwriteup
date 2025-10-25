@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 19:14:29 GMT | Reflected XSS with Base64 — Breaching Obscurity in Seconds | embossdotar | [Read More](https://medium.com/p/38e3ca07b085) |
 | Sat, 25 Oct 2025 18:43:12 GMT | CORS Busters: Quick Hacks for Local Dev (Chrome, Edge, Firefox, Safari) | Raja Sekar Durairaj | [Read More](https://medium.com/p/bd06bd93dc3a) |
 | Sat, 25 Oct 2025 18:33:24 GMT | I whispered my truth into your silence | Poppy Sindral | [Read More](https://medium.com/p/49f75c924b78) |
 | Sat, 25 Oct 2025 18:08:57 GMT | Web Cache Poisoning : Ancaman di Balik Kecepatan | Dani Ilman | [Read More](https://medium.com/p/67da01a9a8f4) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 11:58:17 GMT | Setting Up My Browser Security Lab: Lessons from Docker, Disk Space, and Debugging | Okore Osotsi | [Read More](https://medium.com/p/7d04aaf7f19a) |
 | Sat, 25 Oct 2025 11:56:31 GMT | DockerLabs Writeup — HereBash (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8218733bbbc5) |
 | Sat, 25 Oct 2025 11:52:03 GMT | Data Masking Techniques for PII Data Protection | Sanjeev Jaiswal (Jassi) | [Read More](https://medium.com/p/0ff649a05773) |
-| Sat, 25 Oct 2025 11:49:34 GMT | How a Late Night Hunting Turned Into a Critical ‘Email-Only’ Account Takeover | Diman | [Read More](https://medium.com/p/62393bb12cb8) |
