@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 03:02:00 GMT | Romanian-Polish Counterintelligence Foils Russian-Led Explosives Sabotage Plot | V. Langston - Pol / Eco / Tech | [Read More](https://medium.com/p/73dc49a7776b) |
+| Sat, 25 Oct 2025 02:26:02 GMT | Escape Common Coding Pitfalls You’re Making | Asif Sayed | [Read More](https://medium.com/p/92b4cd79dad8) |
+| Sat, 25 Oct 2025 02:16:10 GMT | Setting Up OpenBAS Community Edition | Tomomi | [Read More](https://medium.com/p/cf3f5d2a032a) |
 | Sat, 25 Oct 2025 01:33:56 GMT | How to Use OSINT to Strengthen Your Personal Digital Security | Shahzaib | [Read More](https://medium.com/p/81d3c9d1d5ae) |
 | Sat, 25 Oct 2025 01:33:42 GMT | Web Cache Deception: A Complete Beginner to Advanced Guide | Monika sharma | [Read More](https://medium.com/p/94cf851cd89f) |
 | Sat, 25 Oct 2025 01:28:29 GMT | Reconnaissance | Taha Mahmoud | [Read More](https://medium.com/p/7b8d82dbc8fa) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 15:54:39 GMT | Cybersecurity News Review — Week 43 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/31307fd29f86) |
 | Fri, 24 Oct 2025 15:54:31 GMT | Comment Sécuriser Votre Wallet Crypto avec un Hardware Wallet | Micheneau Simon | [Read More](https://medium.com/p/5c30a53cf4e1) |
 | Fri, 24 Oct 2025 15:51:51 GMT | What We Can Learn from Frank Abagnale on Preventing Check Fraud | Kalen Smith | [Read More](https://medium.com/p/655e7a1f917d) |
-| Fri, 24 Oct 2025 15:47:13 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/0ac9fd64d682) |
-| Fri, 24 Oct 2025 15:39:16 GMT | Part 5: Virtual Box Home Lab — Setup of Helpdesk user, and connecting Windows Machine to Domain. | Declan | [Read More](https://medium.com/p/8f3474240f42) |
-| Fri, 24 Oct 2025 15:38:37 GMT | Real Bugs from Timing Flaws in Web Services | Monika sharma | [Read More](https://medium.com/p/89c885c4ac02) |
