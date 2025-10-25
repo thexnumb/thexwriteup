@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 22:32:17 GMT | Intrusion Detection Systems The Cyber Alarms That Never Sleep | Thegreatpayload | [Read More](https://medium.com/p/041594db477c) |
+| Sat, 25 Oct 2025 22:32:07 GMT | #2 Cyber Security yang Penting dalam Perusahaan! | Aditya Muhamad Putra P. | [Read More](https://medium.com/p/696411828e76) |
+| Sat, 25 Oct 2025 22:08:32 GMT | I Don’t Need the Ending to Be Kind | Kina Yn | [Read More](https://medium.com/p/cd20f0f7da54) |
 | Sat, 25 Oct 2025 22:08:29 GMT | Building SOC Homelab -2 SIEM Enviroments | Nurettin Eraslan | [Read More](https://medium.com/p/8e76b9853980) |
+| Sat, 25 Oct 2025 22:07:34 GMT | Motivation versus Mindset in Cloud Security | Yusha_kahn | [Read More](https://medium.com/p/87a4a8569639) |
+| Sat, 25 Oct 2025 22:04:25 GMT | Cloud Security Essentials: Lessons from Real-World Breaches ☁️ | Amir Hossein jafari Chashmi | [Read More](https://medium.com/p/2f1fbb997807) |
 | Sat, 25 Oct 2025 21:44:00 GMT | [HackTheBox x VulnLab Write-up] Reset (Log poisoning, Trusted user with rlogin and tmux) | Chicken0248 | [Read More](https://medium.com/p/ef09f029d9e7) |
 | Sat, 25 Oct 2025 21:41:13 GMT | My Journey into Cybersecurity | Marta Dee | [Read More](https://medium.com/p/23b541c82c57) |
 | Sat, 25 Oct 2025 21:36:37 GMT | Devvortex  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/d07e9e21f239) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 13:56:17 GMT | Why Cybersecurity Is the Hottest Career of the Decade (and How to Get Started) | Code Link | [Read More](https://medium.com/p/2aa80115ab86) |
 | Sat, 25 Oct 2025 13:50:56 GMT | Inside the Evil twin attack: How hackers trick you on public Wi-Fi | GeekintheStreets | [Read More](https://medium.com/p/4366d3a91d71) |
 | Sat, 25 Oct 2025 13:50:28 GMT | Why Your ‘Secure’ Spring Boot App is a Disaster Waiting to Happen (And How Keycloak Saves You) | Shrawan | [Read More](https://medium.com/p/c3ca30a91ffa) |
-| Sat, 25 Oct 2025 13:43:09 GMT | Assumption-Driven Defense: The Common Ground Between Threat Hunting and Active Defense | Arbri Muca | [Read More](https://medium.com/p/e8c57d22e852) |
-| Sat, 25 Oct 2025 13:40:18 GMT | Historia de una recompensa por $.$$$, Metodología aplicada y bypass de solución WAF. | Danny Ramirez | [Read More](https://medium.com/p/746a6f7a0dbf) |
-| Sat, 25 Oct 2025 13:38:04 GMT | Stop the Scammers Now — How To Be Safe On The Internet in 5 Minutes | Dr. Alex Steinberg | [Read More](https://medium.com/p/3fb3d81b9153) |
-| Sat, 25 Oct 2025 13:37:27 GMT | Why LSASS Dumps Still Work (And How Defenders Finally Stop Them) | Maxwell Cross | [Read More](https://medium.com/p/2f5bed41f594) |
-| Sat, 25 Oct 2025 13:34:10 GMT | Ignoring a Firebase Public Configuration? | M0n3m | [Read More](https://medium.com/p/9ccb9159abb5) |
