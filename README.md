@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 22:08:29 GMT | Building SOC Homelab -2 SIEM Enviroments | Nurettin Eraslan | [Read More](https://medium.com/p/8e76b9853980) |
+| Sat, 25 Oct 2025 21:44:00 GMT | [HackTheBox x VulnLab Write-up] Reset (Log poisoning, Trusted user with rlogin and tmux) | Chicken0248 | [Read More](https://medium.com/p/ef09f029d9e7) |
+| Sat, 25 Oct 2025 21:41:13 GMT | My Journey into Cybersecurity | Marta Dee | [Read More](https://medium.com/p/23b541c82c57) |
 | Sat, 25 Oct 2025 21:36:37 GMT | Devvortex  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/d07e9e21f239) |
 | Sat, 25 Oct 2025 21:36:16 GMT | [HackTheBox x VulnLab Write-up] Lock (Gitea PAT leak, webshell deploy, mRemoteNG and PDF24 CVE) | Chicken0248 | [Read More](https://medium.com/p/70d2de94dbac) |
 | Sat, 25 Oct 2025 21:35:37 GMT | Why Your “Forgot Password” Flow Sucks (And How We’re Fixing It With AI) | Hajareddal | [Read More](https://medium.com/p/50b4b8dd6759) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 13:38:04 GMT | Stop the Scammers Now — How To Be Safe On The Internet in 5 Minutes | Dr. Alex Steinberg | [Read More](https://medium.com/p/3fb3d81b9153) |
 | Sat, 25 Oct 2025 13:37:27 GMT | Why LSASS Dumps Still Work (And How Defenders Finally Stop Them) | Maxwell Cross | [Read More](https://medium.com/p/2f5bed41f594) |
 | Sat, 25 Oct 2025 13:34:10 GMT | Ignoring a Firebase Public Configuration? | M0n3m | [Read More](https://medium.com/p/9ccb9159abb5) |
-| Sat, 25 Oct 2025 13:34:06 GMT | How To Track IP Address - Hire Hacker - Hacking Services | BlackHat | [Read More](https://medium.com/p/c932646d9f62) |
-| Sat, 25 Oct 2025 13:32:59 GMT | The Age of AI Worms: When Malware Starts to Think | iam_with_you11 | [Read More](https://medium.com/p/56446d26aef4) |
-| Sat, 25 Oct 2025 13:31:13 GMT | Node TLS at Scale: CPU or It Didn’t Happen | Codastra | [Read More](https://medium.com/p/7c3f64dcfc85) |
