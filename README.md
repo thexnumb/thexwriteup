@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 09:00:29 GMT | How to Share Secrets Across Kubernetes Namespaces Securely | Anh Trần Tuấn | [Read More](https://medium.com/p/f26ca0d32bb8) |
+| Sat, 25 Oct 2025 09:00:28 GMT | How to Share Secrets Across Kubernetes Namespaces Securely | Anh Trần Tuấn | [Read More](https://medium.com/p/00c9fd0d60f8) |
+| Sat, 25 Oct 2025 08:59:17 GMT | What a beautiful privilege it is — to be consumed by love that can both break and cherish me. | jupiter | [Read More](https://medium.com/p/7e8923f9f20e) |
+| Sat, 25 Oct 2025 08:45:51 GMT | TryHackMe - Alert Triage With Splunk - WriteUp | Axoloth | [Read More](https://medium.com/p/192e675debff) |
+| Sat, 25 Oct 2025 08:41:49 GMT | Stay Ahead in Cybersecurity: Top Certifications for 2026 | Lucia Adams | [Read More](https://medium.com/p/0ad7b04e081e) |
+| Sat, 25 Oct 2025 08:38:39 GMT | Recon Wins Again: Uncovering a Billing Portal Leak Through Wayback Machine | Senorita_01 | [Read More](https://medium.com/p/c7301e815fc5) |
+| Sat, 25 Oct 2025 08:37:33 GMT | Dubai 2026–27 — Top 10 Security Upgrades Driving Business Safety with Firewalls & Access Control | Liberty Computer System | [Read More](https://medium.com/p/c6f5764c3e03) |
 | Sat, 25 Oct 2025 08:31:41 GMT | The Hidden World of Espionage: Diplomacy, Influence, and Information Warfare | AtashWisdomGrass | [Read More](https://medium.com/p/8995b04a57cc) |
 | Sat, 25 Oct 2025 08:07:39 GMT | Learn Artificial Intelligence Course in Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/a740e0a20778) |
 | Sat, 25 Oct 2025 08:02:26 GMT | Free Domain Leak Check: Run It in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/fcc4bccee73d) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 20:06:30 GMT | [HackTheBox x VulnLab Write-up] Data (Grafana exploitation and Docker exec privilege escalation) | Chicken0248 | [Read More](https://medium.com/p/c412bbddfc2e) |
 | Fri, 24 Oct 2025 20:05:32 GMT | How Secrets Stay Safe: A Beginner’s Guide to Attestation, Signatures, and Policy-Based Trust | Bob S. | [Read More](https://medium.com/p/f5043bb02a9f) |
 | Fri, 24 Oct 2025 20:03:54 GMT | Injected #2: Lessons from Hacking a Financial Company | Chux | [Read More](https://medium.com/p/a95c974a3604) |
-| Fri, 24 Oct 2025 20:03:36 GMT | Breaking Down the Pyramid of Pain: My Journey Through SOC Level 1 Analysis | Jenna S | [Read More](https://medium.com/p/b844a143d4d9) |
-| Fri, 24 Oct 2025 19:49:44 GMT | OUTDATED THREATS AND DEFEATED POWERS | Samuel Sunday | [Read More](https://medium.com/p/bde5e18a240d) |
-| Fri, 24 Oct 2025 19:42:07 GMT | Yeni Başlayanlara: Siber Güvenlik Rehberi | Mehmet Emir Yılmaz | [Read More](https://medium.com/p/1746e94a9307) |
-| Fri, 24 Oct 2025 19:41:05 GMT | Vibe coding! How AI is creating unexpected coding problems as it solves others. | Yann Barba | [Read More](https://medium.com/p/a22471dcd91b) |
-| Fri, 24 Oct 2025 19:30:59 GMT | 5 Security Configurations You Should Change Today | JSOC IT BLOG | [Read More](https://medium.com/p/695fa14ac585) |
-| Fri, 24 Oct 2025 19:27:52 GMT | Why Bother With Kasm Workspace? | Roberto Salazar | [Read More](https://medium.com/p/35de778f57b9) |
-| Fri, 24 Oct 2025 19:27:18 GMT | HTB_Academy: Pivoting, Tunneling, and Port Forwarding: Dynamic Port Forwarding with SSH and SOCKS… | Babatunde Ojo | [Read More](https://medium.com/p/d15a2fc21882) |
