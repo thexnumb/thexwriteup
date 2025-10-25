@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 18:08:27 GMT | Why Headline Bounty Stories Mislead (and what actually builds a real security career) | Mandar Satam | [Read More](https://medium.com/p/1b5b7dcdb4ae) |
+| Sat, 25 Oct 2025 18:03:24 GMT | Mastering Fileless Persistence on Linux: Techniques, Real-World Examples, and Proactive Defenses | Very Lazy Tech | [Read More](https://medium.com/p/c249012f7533) |
+| Sat, 25 Oct 2025 18:00:42 GMT | ️ Por qué hago mis propias tools (y por qué tú también deberías) | Hacking en México | [Read More](https://medium.com/p/c53c79a91c96) |
+| Sat, 25 Oct 2025 17:55:55 GMT | Mastering Kali Linux for Ethical Hacking: From Beginner to Advanced | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/b96cda724b42) |
+| Sat, 25 Oct 2025 17:53:43 GMT | BankSmarter — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/b4089c2a50fc) |
+| Sat, 25 Oct 2025 17:53:34 GMT | How I Found and Claimed a Subdomain Takeover (My First Article) | cyber_wizard | [Read More](https://medium.com/p/560bad69d635) |
+| Sat, 25 Oct 2025 17:43:42 GMT | Lab 3: DOM XSS in `document.write` Sink Using Source `location.search` | Apexium Technologies Ltd | [Read More](https://medium.com/p/cef1d073d9b4) |
+| Sat, 25 Oct 2025 17:40:55 GMT | AI and Cybersecurity Take Center Stage at VivaTech 2025: | Gopi Sri | [Read More](https://medium.com/p/0749942a1f02) |
+| Sat, 25 Oct 2025 17:37:41 GMT | A Reddit Comment Can Hack Your Bank: The Hidden Danger of AI “Summarize” Buttons | ddmn | [Read More](https://medium.com/p/4ff273453fae) |
 | Sat, 25 Oct 2025 17:23:10 GMT | UI Trickery: Bypassing Locked Fields with One Browser Hack | Mohamad Abdelrahman Mohamed | [Read More](https://medium.com/p/a81300f24ba9) |
 | Sat, 25 Oct 2025 17:19:45 GMT | When Digital Disasters Strike: Your Incident Response Game Plan (IR-4) | Cyberberri | [Read More](https://medium.com/p/5c7510d65878) |
 | Sat, 25 Oct 2025 17:15:13 GMT | Lab 2: Stored XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/a1b2f0d8e890) |
@@ -22,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 16:54:29 GMT | AI is Taking Over Cybersecurity But That Might Be a Good Thing | Xormium | [Read More](https://medium.com/p/dcbca4a4ec94) |
 | Sat, 25 Oct 2025 16:48:36 GMT | A Crybaby’s Confession | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/093f648ff8a1) |
 | Sat, 25 Oct 2025 16:46:46 GMT | Are AI Browser Agents Safe? Top Security Risks You Should Know | Tech Verse Today | [Read More](https://medium.com/p/31a4711478cf) |
+| Sat, 25 Oct 2025 16:42:13 GMT | Porta Transformacional: A Liderança Consciente na Era da Renovação Digital | Anderson Oliveira | [Read More](https://medium.com/p/a2d451058cfe) |
 | Sat, 25 Oct 2025 16:38:53 GMT | Installing Kerbrute on Linux/Ubuntu | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/677189605cd8) |
 | Sat, 25 Oct 2025 16:33:20 GMT | HackSudo Series — writeup: hacksudo: 2 (HackDudo) | Vaibhav | [Read More](https://medium.com/p/c6e9473efdc7) |
 | Sat, 25 Oct 2025 16:09:32 GMT | Yes, I Have Allowed Myself to Drink Alcohol | Shunyo Osho | [Read More](https://medium.com/p/1fcc56256d56) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 11:41:12 GMT | Bandit overthewire wargame walkthrough level 0 — level 10 | Abinet Melkamu | [Read More](https://medium.com/p/f305c9b3c7cf) |
 | Sat, 25 Oct 2025 11:23:10 GMT | Monitor you cloud environment with Steampipe and Grafana | Salim Amine Bou Aram | [Read More](https://medium.com/p/c215f1bb5a4c) |
 | Sat, 25 Oct 2025 11:20:54 GMT | China’s 15th Five-Year Plan: The Next Phase of Tech Power — and Europe’s Response | Carsten Stöcker | [Read More](https://medium.com/p/a16f517b6809) |
-| Sat, 25 Oct 2025 11:18:00 GMT | How​‍​‌‍​‍‌ Python’s Hidden Powers Can Automate Half Your Job | Rocky | [Read More](https://medium.com/p/94d9f1bb14dc) |
-| Sat, 25 Oct 2025 11:02:37 GMT | The Cybersecurity YouTuber: Building a Channel That Educates and Earns | Samina Perveen | [Read More](https://medium.com/p/4f7499a81683) |
-| Sat, 25 Oct 2025 10:56:40 GMT | Hosting in 2025 Made Simple: Affordable and Reliable Options for Every Website | Andy | [Read More](https://medium.com/p/7c1a39401ea5) |
-| Sat, 25 Oct 2025 10:50:11 GMT | What is the Scope of Ethical Hacking as a Career? | cyber security Updates | [Read More](https://medium.com/p/0aa65890fbed) |
-| Sat, 25 Oct 2025 10:39:20 GMT | Nmap: From “What’s That?” to “I Can Defend My Network” | Fateyaly | [Read More](https://medium.com/p/6f9fb255bb4e) |
-| Sat, 25 Oct 2025 10:35:10 GMT | The Dark Side of Tech | Abdullah Javeed | [Read More](https://medium.com/p/8121cc868843) |
-| Sat, 25 Oct 2025 10:30:54 GMT | Pre signed Url for file uploads | Rhithick M | [Read More](https://medium.com/p/d4e78a463c45) |
-| Sat, 25 Oct 2025 10:20:14 GMT | You should see me in a shell. | Oluwatosin | [Read More](https://medium.com/p/b6e58c810e5c) |
-| Sat, 25 Oct 2025 10:19:30 GMT | Bluetooth Mimarisi ve Temel Kavramlar-2 | Alperkandemir | [Read More](https://medium.com/p/2ac0da899344) |
-| Sat, 25 Oct 2025 10:15:22 GMT | Top 10 Diploma Courses in Cyber Security After 12th | Manisha Chaudhary | [Read More](https://medium.com/p/4c22333b5ba4) |
