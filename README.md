@@ -12,11 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 01:33:56 GMT | How to Use OSINT to Strengthen Your Personal Digital Security | Shahzaib | [Read More](https://medium.com/p/81d3c9d1d5ae) |
+| Sat, 25 Oct 2025 01:33:42 GMT | Web Cache Deception: A Complete Beginner to Advanced Guide | Monika sharma | [Read More](https://medium.com/p/94cf851cd89f) |
+| Sat, 25 Oct 2025 01:28:29 GMT | Reconnaissance | Taha Mahmoud | [Read More](https://medium.com/p/7b8d82dbc8fa) |
+| Sat, 25 Oct 2025 00:42:42 GMT | PenTesting | 0xMakima | [Read More](https://medium.com/p/2013cf75023c) |
+| Sat, 25 Oct 2025 00:41:55 GMT | AI’s Moral Dilemma: When Innovation Meets Invasion | Prashanth Chandika | [Read More](https://medium.com/p/7e845c7904ba) |
+| Sat, 25 Oct 2025 00:29:37 GMT | Shadow AI Is Already in Your Org — Here’s How to Govern It | Tobi Beck | [Read More](https://medium.com/p/293c85b1473f) |
+| Sat, 25 Oct 2025 00:16:56 GMT | The Definitive Guide to Cybersecurity Report Writing | TheP3@rL | [Read More](https://medium.com/p/eec1cb0e230d) |
+| Sat, 25 Oct 2025 00:12:17 GMT | Did my AI copilot run a background check on me? | Will Maynard | [Read More](https://medium.com/p/9c1aa059acf9) |
+| Sat, 25 Oct 2025 00:02:54 GMT | Arjun’s Guide to Discovering Hidden HTTP Parameters and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/678dc66763d7) |
+| Fri, 24 Oct 2025 23:51:17 GMT | How I Used Threat Modeling to Secure a To-Do List App (and What It Taught Me About Shifting Left) | Myshawne Stallings | [Read More](https://medium.com/p/98609dba8c61) |
+| Fri, 24 Oct 2025 23:50:47 GMT | Apple Pay and Google Wallet Aren’t as Safe as You Think | Cyber-AppSec | [Read More](https://medium.com/p/fa30b616a687) |
+| Fri, 24 Oct 2025 23:48:02 GMT | Security Awareness Training is more than just an October thing! | Tina Timmerman aka CyberT | [Read More](https://medium.com/p/044bf65f4fa8) |
+| Fri, 24 Oct 2025 23:45:57 GMT | Pentesting A Web Browser | Mike Anthony | [Read More](https://medium.com/p/ce20b35ae321) |
+| Fri, 24 Oct 2025 23:33:34 GMT | The Three Receipts — What counts as proof? | Rick Hare | [Read More](https://medium.com/p/68b154566600) |
 | Fri, 24 Oct 2025 23:20:34 GMT | Cybersecurity and Global Politics in Asia’s Digital Century | David SEHYEON Baek | [Read More](https://medium.com/p/61e531645dfa) |
 | Fri, 24 Oct 2025 23:19:57 GMT | Vendor Risk Management and Privacy; Going beyond Questionnaires and Checklists | Tochi Obayi | [Read More](https://medium.com/p/5702b9175127) |
 | Fri, 24 Oct 2025 22:57:01 GMT | Linux for AI: Understanding Users, Permissions, and Ownership (Practice in WSL) | Rayan Yassminh | [Read More](https://medium.com/p/9d87dd395c5e) |
 | Fri, 24 Oct 2025 22:52:51 GMT | The Rising Cyber Threat Landscape in Africa: What Businesses Must Know | Blue King | [Read More](https://medium.com/p/e5c60cc87e01) |
 | Fri, 24 Oct 2025 22:51:50 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/15d8048335a7) |
+| Fri, 24 Oct 2025 22:40:46 GMT | Why The Utility of Blockchain in the Modern World Matters | Cryptopiannews | [Read More](https://medium.com/p/4e33458b963c) |
 | Fri, 24 Oct 2025 22:38:21 GMT | AI-Powered CCTV Camera Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/8c18026a1f5d) |
 | Fri, 24 Oct 2025 22:32:56 GMT | Reading the Signals: Why the Government Still Isn’t Keeping Up with AI | Noemi | [Read More](https://medium.com/p/cf5b7c1cc38c) |
 | Fri, 24 Oct 2025 22:30:58 GMT | The Tiny Blanket Is Revolutionizing Comfort at 35,000 Feet | Marc Ford | [Read More](https://medium.com/p/cff3bdc1ac3d) |
@@ -65,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 17:42:30 GMT | 5 things you should know about the quantum-ready Trezor Safe 7 hardware wallet and its… | Henry Windle | [Read More](https://medium.com/p/3d13b51e090b) |
 | Fri, 24 Oct 2025 17:40:57 GMT | AzurePot Lab Writeup | Jaws | [Read More](https://medium.com/p/ec20e2674783) |
 | Fri, 24 Oct 2025 17:38:52 GMT | The Dodleston Messages: A Postmaterialist Interpretation through the Platonic Computation Model | Simon X Duan | [Read More](https://medium.com/p/9b088f0408b8) |
+| Fri, 24 Oct 2025 17:34:21 GMT | เข้าใจ CORS ง่ายๆ สำหรับสายเว็บที่เจอ Error บ่อย | chanapon chuenchuwit | [Read More](https://medium.com/p/b0b5f3f2d592) |
 | Fri, 24 Oct 2025 17:31:51 GMT | The Digital Transformation RFP Template: What You’re Forgetting to Ask | Evan M. Rose | [Read More](https://medium.com/p/d0f8c81ef697) |
 | Fri, 24 Oct 2025 17:21:37 GMT | The Fake Job Offer Stealing Europe’s Drone Secrets | Aj | [Read More](https://medium.com/p/096b12f1dee2) |
 | Fri, 24 Oct 2025 17:20:52 GMT | Tcpdump: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/42af5dd2aaed) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 15:47:13 GMT | Continuous Compliance in DevSecOps Pipelines | DevOps Security Hub | [Read More](https://medium.com/p/0ac9fd64d682) |
 | Fri, 24 Oct 2025 15:39:16 GMT | Part 5: Virtual Box Home Lab — Setup of Helpdesk user, and connecting Windows Machine to Domain. | Declan | [Read More](https://medium.com/p/8f3474240f42) |
 | Fri, 24 Oct 2025 15:38:37 GMT | Real Bugs from Timing Flaws in Web Services | Monika sharma | [Read More](https://medium.com/p/89c885c4ac02) |
-| Fri, 24 Oct 2025 15:37:35 GMT | My First Bug Bounty: Critical Account Deletion Vulnerability | MazenTurky | [Read More](https://medium.com/p/cdfcedaea344) |
-| Fri, 24 Oct 2025 15:31:49 GMT | NestJS File Upload | wilfried-musanzi | [Read More](https://medium.com/p/58b0d6b964d5) |
-| Fri, 24 Oct 2025 15:31:40 GMT | How to Secure Your Data While Using Microsoft 365 Copilot | Fabien Soulis | [Read More](https://medium.com/p/7340cf72612a) |
-| Fri, 24 Oct 2025 15:27:41 GMT | How OSINT Revealed Publicly Accessible Defense-Grade Dashboards for Unmanned Systems | hacker_might | [Read More](https://medium.com/p/0b8aa4e3c690) |
-| Fri, 24 Oct 2025 15:26:10 GMT | CVE Study Report — CVE-2025–6514 (mcp-remote) | Felixwang | [Read More](https://medium.com/p/4b42896442be) |
-| Fri, 24 Oct 2025 15:16:47 GMT | Abracadabra’s DeFi Spell Unravels in $1.8M Exploit, And Why On-Chain Insurance Matters Now | Safeguard Capital | [Read More](https://medium.com/p/90cab4781bac) |
-| Fri, 24 Oct 2025 15:15:18 GMT | Microsoft Recall vs Rewind AI: Which Tool Should You Use? | nodminger | [Read More](https://medium.com/p/b9b40a8283fc) |
-| Fri, 24 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 24, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/d78781469124) |
-| Fri, 24 Oct 2025 15:13:56 GMT | The Forensic Handbook: Technical Guidelines & Legal Considerations | ze4rch1tect | [Read More](https://medium.com/p/d3255357ad1f) |
-| Fri, 24 Oct 2025 15:10:03 GMT | From No-Wi-Fi As a Kid to Launching My Own Cybersecurity Firm | Vivektumma27 | [Read More](https://medium.com/p/630674bd1d47) |
-| Fri, 24 Oct 2025 15:08:19 GMT | AI for CyberSecurity | Raghavahuja | [Read More](https://medium.com/p/67702d9d0bfd) |
-| Fri, 24 Oct 2025 15:04:10 GMT | Mastering XSS on a Bug Bounty Platform: Finding, Understanding & Bypassing Defense. | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/7a6693284091) |
-| Fri, 24 Oct 2025 15:01:53 GMT | TShark CLI Wireshark Features - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/c6c5e7b9cfb5) |
-| Fri, 24 Oct 2025 15:00:30 GMT | Mastering the C-EH v13: Journey Through the Theory and Practical Exams | Jibran Ali | [Read More](https://medium.com/p/6391c95b14fb) |
-| Fri, 24 Oct 2025 14:59:31 GMT | 8 Modern CSS Tricks Every Frontend Developer Should Know in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/32fd0d97d5f6) |
-| Fri, 24 Oct 2025 14:56:11 GMT | TShark: The Basics - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/4260d9f6841d) |
