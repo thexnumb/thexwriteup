@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 06:36:04 GMT | Exploitation on the Rise: Key Cyber Threats This Week | Loginsoft | [Read More](https://medium.com/p/36d6dc3f2d9a) |
+| Sat, 25 Oct 2025 06:29:31 GMT | ‍‍ Welcome to My Programming Playground*
+‎
+‎Hey there! | Mazi Techs | [Read More](https://medium.com/p/a0dde7ef96bd) |
 | Sat, 25 Oct 2025 06:26:47 GMT | Node.js Security Best Practices: Protecting Your Startup’s Assets | Jason Han | [Read More](https://medium.com/p/fb2c2db014f9) |
 | Sat, 25 Oct 2025 06:25:47 GMT | Think Before You Click: Outsmarting Phishing in 2025 | The Cyber Odyssey | [Read More](https://medium.com/p/de50883187d1) |
 | Sat, 25 Oct 2025 06:11:36 GMT | Cybersecurity in 2025: Why It’s No Longer Optional | Ashish Mishra | [Read More](https://medium.com/p/d4155f3815ba) |
@@ -24,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 05:52:44 GMT | Why API Security Testing is Critical for Modern Applications | Supratip Banerjee | [Read More](https://medium.com/p/a34130ff33e7) |
 | Sat, 25 Oct 2025 05:52:12 GMT | Wha⁠t Recruiters⁠ L⁠ook for in Ethical Hackers — Insights f​rom Hir​ing Manag‌ers | Aadhidev Anihac | [Read More](https://medium.com/p/6ad254387e7d) |
 | Sat, 25 Oct 2025 05:29:50 GMT | Ethical Hacking Course in Ahmedabad — BIT | BIT Blogs | [Read More](https://medium.com/p/953c7bd7c2a1) |
+| Sat, 25 Oct 2025 05:29:11 GMT | Bilgi Güvenliği Denetimi: Kavramsal Temelden Profesyonel Vizyona Bir Bakış | Ömer Tayfun D. | [Read More](https://medium.com/p/4b61713ee646) |
 | Sat, 25 Oct 2025 05:21:38 GMT | MY JOURNEY INTO NETWORKING AND CYBERSECURITY | Dervisthestudent | [Read More](https://medium.com/p/bdfd30f9d64b) |
 | Sat, 25 Oct 2025 05:19:48 GMT | Top Hacker Tools for 2025: From Nmap to Next-Gen Security | 77LUCK | [Read More](https://medium.com/p/28b7ecc6124b) |
 | Sat, 25 Oct 2025 05:17:28 GMT | Palo Alto Networks Breach Readiness Review: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e585791bbf4d) |
@@ -75,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 21:28:14 GMT | [ SOC Alert => Phishing Mail Detected — Excel 4.0 Macros ] by LetsDefend / EventID: 93 | EduKayky | [Read More](https://medium.com/p/81377f9b708a) |
 | Fri, 24 Oct 2025 21:14:17 GMT | Unlocking the Power of Linux: Top 20 Commands Every User Should Master | Ritu Priya Singh | [Read More](https://medium.com/p/9d8090ad1c8e) |
 | Fri, 24 Oct 2025 21:08:48 GMT | The Batcomputer Evolved | David ONeal | [Read More](https://medium.com/p/2ad3e62918e4) |
+| Fri, 24 Oct 2025 21:06:34 GMT | Convenção de Budapeste e o Combate ao Crime Cibernético: Avanços, Responsabilidades e Direitos… | Gutenberg_Campos | [Read More](https://medium.com/p/c5a616e5b2c3) |
 | Fri, 24 Oct 2025 21:03:11 GMT | Utilizing AI Technologies — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/60737dd19a3f) |
 | Fri, 24 Oct 2025 21:02:35 GMT | Day 19 of my Cybersecurity Journey: Tcpdump Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/86584eed80d3) |
 | Fri, 24 Oct 2025 20:54:59 GMT | SIEM 101 | CheddarB0b42 | [Read More](https://medium.com/p/40b19e48ad22) |
@@ -108,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 18:21:34 GMT | IDS-IPS türleri | Myusuftr | [Read More](https://medium.com/p/acc7273b4336) |
 | Fri, 24 Oct 2025 18:20:02 GMT | siber güvenlikte nba (network behavior analysis) | Myusuftr | [Read More](https://medium.com/p/24e1ebf38c65) |
 | Fri, 24 Oct 2025 18:19:38 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/3839c2e5b906) |
-| Fri, 24 Oct 2025 18:17:34 GMT | DATACOM Cybersecurity Job Simulation | Javier | [Read More](https://medium.com/p/0f47f6c25fc7) |
-| Fri, 24 Oct 2025 17:42:30 GMT | 5 things you should know about the quantum-ready Trezor Safe 7 hardware wallet and its… | Henry Windle | [Read More](https://medium.com/p/3d13b51e090b) |
-| Fri, 24 Oct 2025 17:40:57 GMT | AzurePot Lab Writeup | Jaws | [Read More](https://medium.com/p/ec20e2674783) |
-| Fri, 24 Oct 2025 17:38:52 GMT | The Dodleston Messages: A Postmaterialist Interpretation through the Platonic Computation Model | Simon X Duan | [Read More](https://medium.com/p/9b088f0408b8) |
