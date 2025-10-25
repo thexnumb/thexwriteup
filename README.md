@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 21:36:37 GMT | Devvortex  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/d07e9e21f239) |
+| Sat, 25 Oct 2025 21:36:16 GMT | [HackTheBox x VulnLab Write-up] Lock (Gitea PAT leak, webshell deploy, mRemoteNG and PDF24 CVE) | Chicken0248 | [Read More](https://medium.com/p/70d2de94dbac) |
+| Sat, 25 Oct 2025 21:35:37 GMT | Why Your “Forgot Password” Flow Sucks (And How We’re Fixing It With AI) | Hajareddal | [Read More](https://medium.com/p/50b4b8dd6759) |
+| Sat, 25 Oct 2025 21:28:21 GMT | [HackTheBox x VulnLab Write-up] Manage (JMX exploit, 2nd step verification and dangerous admin… | Chicken0248 | [Read More](https://medium.com/p/98d9f6866958) |
+| Sat, 25 Oct 2025 21:26:04 GMT | The $0 Bounty That Taught Me the Most Valuable Lesson in Cybersecurity | SmaRTy | [Read More](https://medium.com/p/47d2293f3a69) |
 | Sat, 25 Oct 2025 21:17:14 GMT | What Is Cybersecurity? Understanding the CIA Model That Guides It | Tawan Fonseca | [Read More](https://medium.com/p/4dfacbca399b) |
 | Sat, 25 Oct 2025 21:13:24 GMT | Security— into emotional, digital, societal, and psychological dimensions. | AJIBOYE EMMANUEL | [Read More](https://medium.com/p/a7f85cd1a14c) |
+| Sat, 25 Oct 2025 21:13:19 GMT | Day 20 of my Cybersecurity Journey: Nmap Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/67aeb9131be6) |
+| Sat, 25 Oct 2025 21:07:12 GMT | Who Am I | Serhan Kırca | [Read More](https://medium.com/p/81b6c70c833d) |
 | Sat, 25 Oct 2025 21:06:47 GMT | How I Automated My GitHub Recon for Critical Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/34ed27660d3a) |
 | Sat, 25 Oct 2025 21:02:01 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/0bd8bc66ff50) |
 | Sat, 25 Oct 2025 20:58:14 GMT | How I Turned Stored XSS To Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/d61ee2c38cba) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 13:34:06 GMT | How To Track IP Address - Hire Hacker - Hacking Services | BlackHat | [Read More](https://medium.com/p/c932646d9f62) |
 | Sat, 25 Oct 2025 13:32:59 GMT | The Age of AI Worms: When Malware Starts to Think | iam_with_you11 | [Read More](https://medium.com/p/56446d26aef4) |
 | Sat, 25 Oct 2025 13:31:13 GMT | Node TLS at Scale: CPU or It Didn’t Happen | Codastra | [Read More](https://medium.com/p/7c3f64dcfc85) |
-| Sat, 25 Oct 2025 13:31:13 GMT | $500 Bounty: Unauthorized Folder Creation with Null Name | Abhi Sharma | [Read More](https://medium.com/p/67064bb18e4a) |
-| Sat, 25 Oct 2025 13:29:32 GMT | AI Took My Job — and I’m Okay with It | Ibrahim BARKALLAH | [Read More](https://medium.com/p/e49e957d6f80) |
-| Sat, 25 Oct 2025 13:28:01 GMT | What Happened When I Stopped Hiding | Samina Perveen | [Read More](https://medium.com/p/c0e927db648b) |
-| Sat, 25 Oct 2025 13:28:00 GMT | Ok you need to do some AD Security Auditing or Security Testing/Exploitation, great. | Paulo Bazzo | [Read More](https://medium.com/p/4369c3d08dd5) |
-| Sat, 25 Oct 2025 13:22:49 GMT | Part 1 of 2 — Why Website Owners Don’t Want Their Sites Scraped (and How They Fight Back) | Ben Kemp | [Read More](https://medium.com/p/bdfe9ea00f81) |
-| Sat, 25 Oct 2025 13:20:33 GMT | Part 2 of 2— How Web Scrapers Bypass Defenses (and Stay Within the Law) | Ben Kemp | [Read More](https://medium.com/p/e6b228e33c17) |
-| Sat, 25 Oct 2025 13:17:21 GMT | Detection of ADS | Ryujin | [Read More](https://medium.com/p/3664e1a4f520) |
