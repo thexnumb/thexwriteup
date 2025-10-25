@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 15:16:05 GMT | Topic 37: CSS Transform (Rotate, Scale, Skew, Translate) | Rana Awais | [Read More](https://medium.com/p/895e23afc419) |
+| Sat, 25 Oct 2025 15:15:09 GMT | TShark Challenge I: Teamwork - TryHackMe — Walkthrough [2025] | Rahul | [Read More](https://medium.com/p/cc360bac6c65) |
+| Sat, 25 Oct 2025 15:15:05 GMT | GZR Observer — Global Daily — Oct 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/e2466a0476c5) |
+| Sat, 25 Oct 2025 15:14:26 GMT | Cyber Security Deep Dive: Tactics, Techniques, and Procedures | Cyber Security Research | [Read More](https://medium.com/p/dce65acd1a9f) |
+| Sat, 25 Oct 2025 15:07:41 GMT | I´m caling out the times, guardians gather yourself. | DaShiznit | [Read More](https://medium.com/p/7ace2192f0a5) |
+| Sat, 25 Oct 2025 15:05:16 GMT | صیغه یابی همسریابی تهران صیغه یابی اصفهان صیغه کرج صیغه شیراز صیغه کرمان | مهدی رضایی | [Read More](https://medium.com/p/3d6cfbc52e22) |
+| Sat, 25 Oct 2025 15:01:59 GMT | These AI Browsers Are Out of Control | sudo whoami | [Read More](https://medium.com/p/9bf0fb6ba4f9) |
+| Sat, 25 Oct 2025 15:01:17 GMT | Cyber Security in the Digital Age: Challenges and Solutions | Cyber Security Research | [Read More](https://medium.com/p/0d909580d11d) |
+| Sat, 25 Oct 2025 14:46:57 GMT | Mapping the Hidden Paths: Understanding BloodHound in Windows Environments | Ammar Ahmed | [Read More](https://medium.com/p/8d6156423177) |
+| Sat, 25 Oct 2025 14:46:47 GMT | She Looks Perfect. Too Perfect. Here Are 5 Red Flags That Scream ‘Fake Profile.’ | The Mind Decoder | [Read More](https://medium.com/p/7ec753abd2cc) |
+| Sat, 25 Oct 2025 14:42:10 GMT | You NEED to Attend PKSIG —  Here’s Why | Rajesh Kumar | [Read More](https://medium.com/p/25ab6315f2a4) |
+| Sat, 25 Oct 2025 14:41:14 GMT | The Firewall Won’t Save You: Why Most Small Networks Are Already Compromised | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d1ab0fc3a851) |
+| Sat, 25 Oct 2025 14:35:00 GMT | SCADA over Radio: Vulnerabilities In RF Links | Investigator515 | [Read More](https://medium.com/p/57cd1ef3cd45) |
+| Sat, 25 Oct 2025 14:32:05 GMT | The Cloud Security Handbook | Sumant Khapre | [Read More](https://medium.com/p/bfcb2fce692b) |
 | Sat, 25 Oct 2025 14:31:50 GMT | 12 Security Defaults for JS Apps | Hash Block | [Read More](https://medium.com/p/8f0d0697d4f9) |
 | Sat, 25 Oct 2025 14:21:25 GMT | HACKING GOOGLE- PROJECT ZERO | Chiamaka Ezeike | [Read More](https://medium.com/p/3112dc068a81) |
 | Sat, 25 Oct 2025 14:20:19 GMT | Vulnhub Corrosion:2 Walkthrough | Enes Özkırdeniz | [Read More](https://medium.com/p/c3e2f6057574) |
@@ -98,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 08:31:41 GMT | The Hidden World of Espionage: Diplomacy, Influence, and Information Warfare | AtashWisdomGrass | [Read More](https://medium.com/p/8995b04a57cc) |
 | Sat, 25 Oct 2025 08:07:39 GMT | Learn Artificial Intelligence Course in Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/a740e0a20778) |
 | Sat, 25 Oct 2025 08:02:26 GMT | Free Domain Leak Check: Run It in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/fcc4bccee73d) |
-| Sat, 25 Oct 2025 07:38:50 GMT | WTF: Someone Cloned Dr Mehmet Yildiz on Substack and and None of Us Could Even Report It | Mike Broadly, DHSc | [Read More](https://medium.com/p/0692af2d7895) |
-| Sat, 25 Oct 2025 07:28:10 GMT | Thinking on starting a new career | roberto orozco | [Read More](https://medium.com/p/dbaee9bc5fb5) |
-| Sat, 25 Oct 2025 07:26:17 GMT | Encryption Series — Part 3: Symmetric Signing with HS256 JWTs | Aditya Prakash | [Read More](https://medium.com/p/a3e218e7650b) |
-| Sat, 25 Oct 2025 07:25:07 GMT | Unveiling the Shield: Cryptography as the Keystone of Blockchain Security | Savitri Network | [Read More](https://medium.com/p/b0e0247b2511) |
-| Sat, 25 Oct 2025 07:22:18 GMT | The Windows Security Journey — “/GS” (Buffer Security Check) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7b2d0bfa1324) |
-| Sat, 25 Oct 2025 07:18:26 GMT | Demystifying Zero Trust: Your Ultimate Guide to Next-Gen Cybersecurity | Mr Cyberian | [Read More](https://medium.com/p/9504265572bc) |
-| Sat, 25 Oct 2025 07:13:41 GMT | 12 Database Security Best Practices for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ac7b5d4a2740) |
-| Sat, 25 Oct 2025 07:08:40 GMT | THE WORLD OF COMPUTER NETWORKS: HOW OUR DEVICES TALK TO EACH OTHER | Input-7 | [Read More](https://medium.com/p/32209a6ffa0b) |
-| Sat, 25 Oct 2025 07:02:48 GMT | Linux Day: La festa dell’Open Source che cambia il mondo (un bit alla volta) | TheCyberGeekGirl | [Read More](https://medium.com/p/8344b8242973) |
-| Sat, 25 Oct 2025 06:52:05 GMT | Try-Hack-Me challenge walkthrough Wonderland — Medium CTF | Arka Priya Das | [Read More](https://medium.com/p/d4e86ba9826a) |
-| Sat, 25 Oct 2025 06:36:04 GMT | Exploitation on the Rise: Key Cyber Threats This Week | Loginsoft | [Read More](https://medium.com/p/36d6dc3f2d9a) |
-| Sat, 25 Oct 2025 06:29:31 GMT | ‍‍ Welcome to My Programming Playground*
-‎
-‎Hey there! | Mazi Techs | [Read More](https://medium.com/p/a0dde7ef96bd) |
-| Sat, 25 Oct 2025 06:26:47 GMT | Node.js Security Best Practices: Protecting Your Startup’s Assets | Jason Han | [Read More](https://medium.com/p/fb2c2db014f9) |
-| Sat, 25 Oct 2025 06:25:47 GMT | Think Before You Click: Outsmarting Phishing in 2025 | The Cyber Odyssey | [Read More](https://medium.com/p/de50883187d1) |
