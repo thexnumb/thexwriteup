@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 08:07:39 GMT | Learn Artificial Intelligence Course in Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/a740e0a20778) |
+| Sat, 25 Oct 2025 08:02:26 GMT | Free Domain Leak Check: Run It in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/fcc4bccee73d) |
+| Sat, 25 Oct 2025 07:38:50 GMT | WTF: Someone Cloned Dr Mehmet Yildiz on Substack and and None of Us Could Even Report It | Mike Broadly, DHSc | [Read More](https://medium.com/p/0692af2d7895) |
 | Sat, 25 Oct 2025 07:28:10 GMT | Thinking on starting a new career | roberto orozco | [Read More](https://medium.com/p/dbaee9bc5fb5) |
+| Sat, 25 Oct 2025 07:26:17 GMT | Encryption Series — Part 3: Symmetric Signing with HS256 JWTs | Aditya Prakash | [Read More](https://medium.com/p/a3e218e7650b) |
 | Sat, 25 Oct 2025 07:25:07 GMT | Unveiling the Shield: Cryptography as the Keystone of Blockchain Security | Savitri Network | [Read More](https://medium.com/p/b0e0247b2511) |
 | Sat, 25 Oct 2025 07:22:18 GMT | The Windows Security Journey — “/GS” (Buffer Security Check) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7b2d0bfa1324) |
 | Sat, 25 Oct 2025 07:18:26 GMT | Demystifying Zero Trust: Your Ultimate Guide to Next-Gen Cybersecurity | Mr Cyberian | [Read More](https://medium.com/p/9504265572bc) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 19:27:52 GMT | Why Bother With Kasm Workspace? | Roberto Salazar | [Read More](https://medium.com/p/35de778f57b9) |
 | Fri, 24 Oct 2025 19:27:18 GMT | HTB_Academy: Pivoting, Tunneling, and Port Forwarding: Dynamic Port Forwarding with SSH and SOCKS… | Babatunde Ojo | [Read More](https://medium.com/p/d15a2fc21882) |
 | Fri, 24 Oct 2025 19:17:11 GMT | Phishing 101: Your Complete Guide To Phishing | Spokeo People Search | [Read More](https://medium.com/p/47254743496f) |
-| Fri, 24 Oct 2025 19:13:06 GMT | Year of the Rabbit — TryHackMe Walkthrough - Romedix | Romedix | [Read More](https://medium.com/p/665c4764615f) |
-| Fri, 24 Oct 2025 19:11:35 GMT | Writeup HackTheBox : The Wax-Circle Reclaimed ! How I solved it ! | hehash | [Read More](https://medium.com/p/be8d9c7b9e4a) |
-| Fri, 24 Oct 2025 19:09:17 GMT | Siber Güvenlik Temel Kavramlar Rehberi | Rabia Günay | [Read More](https://medium.com/p/705084154057) |
-| Fri, 24 Oct 2025 19:05:18 GMT | Philips Wi-Fi Smart Lock with Handle — The Best Keyless Entry Door Lock for Smart Homes in the USA… | SellTrek | [Read More](https://medium.com/p/b1fdb5d1e217) |
