@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 17:23:10 GMT | UI Trickery: Bypassing Locked Fields with One Browser Hack | Mohamad Abdelrahman Mohamed | [Read More](https://medium.com/p/a81300f24ba9) |
+| Sat, 25 Oct 2025 17:19:45 GMT | When Digital Disasters Strike: Your Incident Response Game Plan (IR-4) | Cyberberri | [Read More](https://medium.com/p/5c7510d65878) |
 | Sat, 25 Oct 2025 17:15:13 GMT | Lab 2: Stored XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/a1b2f0d8e890) |
 | Sat, 25 Oct 2025 17:14:43 GMT | Hunting Hacktivism by URLscan (OSINT Tip Series 1) | Rishika Desai | [Read More](https://medium.com/p/d2e7c7df925f) |
+| Sat, 25 Oct 2025 17:05:29 GMT | Discord’s September 2025 Data Breach: A Cautionary Tale of Third‑Party Risks | Yug Shah | [Read More](https://medium.com/p/ab830f344558) |
 | Sat, 25 Oct 2025 17:03:04 GMT | Lab 1: Reflected XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/7ba4fe35d78c) |
 | Sat, 25 Oct 2025 17:02:44 GMT | OPERATION AURORA | Chiamaka Ezeike | [Read More](https://medium.com/p/8d189abb0824) |
 | Sat, 25 Oct 2025 16:54:29 GMT | AI is Taking Over Cybersecurity But That Might Be a Good Thing | Xormium | [Read More](https://medium.com/p/dcbca4a4ec94) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 10:20:14 GMT | You should see me in a shell. | Oluwatosin | [Read More](https://medium.com/p/b6e58c810e5c) |
 | Sat, 25 Oct 2025 10:19:30 GMT | Bluetooth Mimarisi ve Temel Kavramlar-2 | Alperkandemir | [Read More](https://medium.com/p/2ac0da899344) |
 | Sat, 25 Oct 2025 10:15:22 GMT | Top 10 Diploma Courses in Cyber Security After 12th | Manisha Chaudhary | [Read More](https://medium.com/p/4c22333b5ba4) |
-| Sat, 25 Oct 2025 10:13:29 GMT | Clicks to Customers: Website Development Services in Chennai That Actually Work | Dineshsvaan | [Read More](https://medium.com/p/f67efb944feb) |
-| Sat, 25 Oct 2025 10:09:11 GMT | Book 6 :The Phoenix Directive: The Hybrid War Unleashed (The R & A.W. | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/5f1f8e9a015a) |
-| Sat, 25 Oct 2025 10:05:21 GMT | From Splunk Enterprise Security to MITRE ATT&CK | Pietro Romano / SecBeret | [Read More](https://medium.com/p/4b318cd9d530) |
