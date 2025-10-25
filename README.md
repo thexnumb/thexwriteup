@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 10:56:40 GMT | Hosting in 2025 Made Simple: Affordable and Reliable Options for Every Website | Andy | [Read More](https://medium.com/p/7c1a39401ea5) |
+| Sat, 25 Oct 2025 10:50:11 GMT | What is the Scope of Ethical Hacking as a Career? | cyber security Updates | [Read More](https://medium.com/p/0aa65890fbed) |
+| Sat, 25 Oct 2025 10:39:20 GMT | Nmap: From “What’s That?” to “I Can Defend My Network” | Fateyaly | [Read More](https://medium.com/p/6f9fb255bb4e) |
+| Sat, 25 Oct 2025 10:35:10 GMT | The Dark Side of Tech | Abdullah Javeed | [Read More](https://medium.com/p/8121cc868843) |
+| Sat, 25 Oct 2025 10:30:54 GMT | Pre signed Url for file uploads | Rhithick M | [Read More](https://medium.com/p/d4e78a463c45) |
 | Sat, 25 Oct 2025 10:20:14 GMT | You should see me in a shell. | Oluwatosin | [Read More](https://medium.com/p/b6e58c810e5c) |
 | Sat, 25 Oct 2025 10:19:30 GMT | Bluetooth Mimarisi ve Temel Kavramlar-2 | Alperkandemir | [Read More](https://medium.com/p/2ac0da899344) |
 | Sat, 25 Oct 2025 10:15:22 GMT | Top 10 Diploma Courses in Cyber Security After 12th | Manisha Chaudhary | [Read More](https://medium.com/p/4c22333b5ba4) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 23:19:57 GMT | Vendor Risk Management and Privacy; Going beyond Questionnaires and Checklists | Tochi Obayi | [Read More](https://medium.com/p/5702b9175127) |
 | Fri, 24 Oct 2025 22:57:01 GMT | Linux for AI: Understanding Users, Permissions, and Ownership (Practice in WSL) | Rayan Yassminh | [Read More](https://medium.com/p/9d87dd395c5e) |
 | Fri, 24 Oct 2025 22:52:51 GMT | The Rising Cyber Threat Landscape in Africa: What Businesses Must Know | Blue King | [Read More](https://medium.com/p/e5c60cc87e01) |
-| Fri, 24 Oct 2025 22:51:50 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Cheng Kurt | [Read More](https://medium.com/p/15d8048335a7) |
-| Fri, 24 Oct 2025 22:40:46 GMT | Why The Utility of Blockchain in the Modern World Matters | Cryptopiannews | [Read More](https://medium.com/p/4e33458b963c) |
-| Fri, 24 Oct 2025 22:38:21 GMT | AI-Powered CCTV Camera Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/8c18026a1f5d) |
-| Fri, 24 Oct 2025 22:32:56 GMT | Reading the Signals: Why the Government Still Isn’t Keeping Up with AI | Noemi | [Read More](https://medium.com/p/cf5b7c1cc38c) |
-| Fri, 24 Oct 2025 22:30:58 GMT | The Tiny Blanket Is Revolutionizing Comfort at 35,000 Feet | Marc Ford | [Read More](https://medium.com/p/cff3bdc1ac3d) |
