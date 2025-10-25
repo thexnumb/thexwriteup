@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 13:38:04 GMT | Stop the Scammers Now — How To Be Safe On The Internet in 5 Minutes | Dr. Alex Steinberg | [Read More](https://medium.com/p/3fb3d81b9153) |
+| Sat, 25 Oct 2025 13:34:10 GMT | Ignoring a Firebase Public Configuration? | M0n3m | [Read More](https://medium.com/p/9ccb9159abb5) |
+| Sat, 25 Oct 2025 13:34:06 GMT | How To Track IP Address - Hire Hacker - Hacking Services | BlackHat | [Read More](https://medium.com/p/c932646d9f62) |
+| Sat, 25 Oct 2025 13:32:59 GMT | The Age of AI Worms: When Malware Starts to Think | iam_with_you11 | [Read More](https://medium.com/p/56446d26aef4) |
+| Sat, 25 Oct 2025 13:31:13 GMT | Node TLS at Scale: CPU or It Didn’t Happen | Codastra | [Read More](https://medium.com/p/7c3f64dcfc85) |
+| Sat, 25 Oct 2025 13:31:13 GMT | $500 Bounty: Unauthorized Folder Creation with Null Name | Abhi Sharma | [Read More](https://medium.com/p/67064bb18e4a) |
+| Sat, 25 Oct 2025 13:29:32 GMT | AI Took My Job — and I’m Okay with It | Ibrahim BARKALLAH | [Read More](https://medium.com/p/e49e957d6f80) |
+| Sat, 25 Oct 2025 13:28:01 GMT | What Happened When I Stopped Hiding | Samina Perveen | [Read More](https://medium.com/p/c0e927db648b) |
+| Sat, 25 Oct 2025 13:28:00 GMT | Ok you need to do some AD Security Auditing or Security Testing/Exploitation, great. | Paulo Bazzo | [Read More](https://medium.com/p/4369c3d08dd5) |
+| Sat, 25 Oct 2025 13:22:49 GMT | Part 1 of 2 — Why Website Owners Don’t Want Their Sites Scraped (and How They Fight Back) | Ben Kemp | [Read More](https://medium.com/p/bdfe9ea00f81) |
+| Sat, 25 Oct 2025 13:20:33 GMT | Part 2 of 2— How Web Scrapers Bypass Defenses (and Stay Within the Law) | Ben Kemp | [Read More](https://medium.com/p/e6b228e33c17) |
 | Sat, 25 Oct 2025 13:17:21 GMT | Detection of ADS | Ryujin | [Read More](https://medium.com/p/3664e1a4f520) |
 | Sat, 25 Oct 2025 13:13:23 GMT | Corrupted File — PicoCTF Writeup | Betul - Bug Bounty | [Read More](https://medium.com/p/1e25eb2bb182) |
 | Sat, 25 Oct 2025 13:11:02 GMT | When Oracle Got Hacked (and the Hackers Fought Each Other) | <devtips/> | [Read More](https://medium.com/p/4ca0f143e474) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 05:19:48 GMT | Top Hacker Tools for 2025: From Nmap to Next-Gen Security | 77LUCK | [Read More](https://medium.com/p/28b7ecc6124b) |
 | Sat, 25 Oct 2025 05:17:28 GMT | Palo Alto Networks Breach Readiness Review: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e585791bbf4d) |
 | Sat, 25 Oct 2025 05:15:01 GMT | Solución — FD / Pwnable.kr | MrGh057 | [Read More](https://medium.com/p/365cb428e67b) |
-| Sat, 25 Oct 2025 04:57:49 GMT | Best IT Support Practices for Small Businesses | Ask IT Support | [Read More](https://medium.com/p/06bad2415690) |
-| Sat, 25 Oct 2025 04:54:35 GMT | When Billions Meet a Mom with Uno Cards: The Google-Anthropic Deal and What It Means for Victims… | Krystal | [Read More](https://medium.com/p/2b6d68087dc5) |
-| Sat, 25 Oct 2025 04:22:25 GMT | Day 5 of My 120-Day Purple Teaming & Cloud Incident Response Journey: Lessons in AWS and Security… | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/5fef500980eb) |
-| Sat, 25 Oct 2025 04:18:45 GMT | What I wish I Knew Before Going into College as a Cybersecurity Student | The Reboot | [Read More](https://medium.com/p/ad0b9a799539) |
-| Sat, 25 Oct 2025 04:15:42 GMT | This week’s convergence of cloud instability, supply chain cyber-physical failure, and quantum… | Akilnath Bodipudi | [Read More](https://medium.com/p/75fe2083f592) |
-| Sat, 25 Oct 2025 04:09:56 GMT | Finished My Wireshark Journey! | Abdullah Mina | [Read More](https://medium.com/p/9cbca0e0c98d) |
-| Sat, 25 Oct 2025 04:09:34 GMT | Wazuh SIEM Baseline Assessment in 5 Scripts | Johnny Meintel | [Read More](https://medium.com/p/fc20277de879) |
-| Sat, 25 Oct 2025 03:59:04 GMT | Earn 100$ while just scrolling New perplexity's Comet Browser | Buggy Vain | [Read More](https://medium.com/p/7e1315ceb290) |
-| Sat, 25 Oct 2025 03:31:57 GMT | When Phishing Goes to School: How Attackers Exploited Google Classroom to Target 13,500… | Deven Chhajed | [Read More](https://medium.com/p/5475ffb08401) |
-| Sat, 25 Oct 2025 03:23:50 GMT | Cyberhomeostasis | Tom Yonashiro | [Read More](https://medium.com/p/0b95a823e2b4) |
-| Sat, 25 Oct 2025 03:20:47 GMT | A Step-by-Step Introduction to Using Autopsy: The Open-Source Digital Forensics Browser | Anderson Santos | [Read More](https://medium.com/p/6c7a03cdfb7f) |
