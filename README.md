@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 18:43:12 GMT | CORS Busters: Quick Hacks for Local Dev (Chrome, Edge, Firefox, Safari) | Raja Sekar Durairaj | [Read More](https://medium.com/p/bd06bd93dc3a) |
+| Sat, 25 Oct 2025 18:33:24 GMT | I whispered my truth into your silence | Poppy Sindral | [Read More](https://medium.com/p/49f75c924b78) |
+| Sat, 25 Oct 2025 18:08:57 GMT | Web Cache Poisoning : Ancaman di Balik Kecepatan | Dani Ilman | [Read More](https://medium.com/p/67da01a9a8f4) |
 | Sat, 25 Oct 2025 18:08:27 GMT | Why Headline Bounty Stories Mislead (and what actually builds a real security career) | Mandar Satam | [Read More](https://medium.com/p/1b5b7dcdb4ae) |
 | Sat, 25 Oct 2025 18:03:24 GMT | Mastering Fileless Persistence on Linux: Techniques, Real-World Examples, and Proactive Defenses | Very Lazy Tech | [Read More](https://medium.com/p/c249012f7533) |
 | Sat, 25 Oct 2025 18:00:42 GMT | ️ Por qué hago mis propias tools (y por qué tú también deberías) | Hacking en México | [Read More](https://medium.com/p/c53c79a91c96) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 11:56:31 GMT | DockerLabs Writeup — HereBash (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8218733bbbc5) |
 | Sat, 25 Oct 2025 11:52:03 GMT | Data Masking Techniques for PII Data Protection | Sanjeev Jaiswal (Jassi) | [Read More](https://medium.com/p/0ff649a05773) |
 | Sat, 25 Oct 2025 11:49:34 GMT | How a Late Night Hunting Turned Into a Critical ‘Email-Only’ Account Takeover | Diman | [Read More](https://medium.com/p/62393bb12cb8) |
-| Sat, 25 Oct 2025 11:41:12 GMT | Bandit overthewire wargame walkthrough level 0 — level 10 | Abinet Melkamu | [Read More](https://medium.com/p/f305c9b3c7cf) |
-| Sat, 25 Oct 2025 11:23:10 GMT | Monitor you cloud environment with Steampipe and Grafana | Salim Amine Bou Aram | [Read More](https://medium.com/p/c215f1bb5a4c) |
-| Sat, 25 Oct 2025 11:20:54 GMT | China’s 15th Five-Year Plan: The Next Phase of Tech Power — and Europe’s Response | Carsten Stöcker | [Read More](https://medium.com/p/a16f517b6809) |
