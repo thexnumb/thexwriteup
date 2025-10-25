@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 04:09:56 GMT | Finished My Wireshark Journey! | Abdullah Mina | [Read More](https://medium.com/p/9cbca0e0c98d) |
+| Sat, 25 Oct 2025 04:09:34 GMT | Wazuh SIEM Baseline Assessment in 5 Scripts | Johnny Meintel | [Read More](https://medium.com/p/fc20277de879) |
+| Sat, 25 Oct 2025 03:59:04 GMT | Earn 100$ while just scrolling New perplexity's Comet Browser | Buggy Vain | [Read More](https://medium.com/p/7e1315ceb290) |
 | Sat, 25 Oct 2025 03:31:57 GMT | When Phishing Goes to School: How Attackers Exploited Google Classroom to Target 13,500… | Deven Chhajed | [Read More](https://medium.com/p/5475ffb08401) |
 | Sat, 25 Oct 2025 03:23:50 GMT | Cyberhomeostasis | Tom Yonashiro | [Read More](https://medium.com/p/0b95a823e2b4) |
 | Sat, 25 Oct 2025 03:20:47 GMT | A Step-by-Step Introduction to Using Autopsy: The Open-Source Digital Forensics Browser | Anderson Santos | [Read More](https://medium.com/p/6c7a03cdfb7f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 16:15:24 GMT | The Double-Edged Sword: Securing Your robots.txt Before Hackers Use It Against You | Cyberbali | [Read More](https://medium.com/p/0a737ac91b94) |
 | Fri, 24 Oct 2025 16:14:07 GMT | Real-Time Cowrie Honeypot Alerts via Telegram — Track SSH Attacks, Credentials & Tools Instantly | Death Esther | [Read More](https://medium.com/p/58b95c61a56b) |
 | Fri, 24 Oct 2025 16:12:07 GMT | Unlocking the Power of OSINT: Transforming Public Data into Strategic Insights | Md Rakibul Islam | [Read More](https://medium.com/p/bcd66ade2988) |
-| Fri, 24 Oct 2025 16:01:51 GMT | Siber Güvenlikte Networkun Temelleri ve Linux | Salih Yiğit ÖLMEZ | [Read More](https://medium.com/p/e035c4dc2198) |
-| Fri, 24 Oct 2025 15:59:35 GMT | Why I Never Store Passwords in Scripts (and How I Secure Automation Instead) | Faruk Ahmed | [Read More](https://medium.com/p/98bcf52af112) |
-| Fri, 24 Oct 2025 15:57:52 GMT | Learning Fortinet Firewall — LESSON XX: Active Directory Initial Setup | Rouell Mamaril | [Read More](https://medium.com/p/4387bf7721d1) |
