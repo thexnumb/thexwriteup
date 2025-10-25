@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 04:22:25 GMT | Day 5 of My 120-Day Purple Teaming & Cloud Incident Response Journey: Lessons in AWS and Security… | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/5fef500980eb) |
+| Sat, 25 Oct 2025 04:18:45 GMT | What I wish I Knew Before Going into College as a Cybersecurity Student | The Reboot | [Read More](https://medium.com/p/ad0b9a799539) |
+| Sat, 25 Oct 2025 04:15:42 GMT | This week’s convergence of cloud instability, supply chain cyber-physical failure, and quantum… | Akilnath Bodipudi | [Read More](https://medium.com/p/75fe2083f592) |
 | Sat, 25 Oct 2025 04:09:56 GMT | Finished My Wireshark Journey! | Abdullah Mina | [Read More](https://medium.com/p/9cbca0e0c98d) |
 | Sat, 25 Oct 2025 04:09:34 GMT | Wazuh SIEM Baseline Assessment in 5 Scripts | Johnny Meintel | [Read More](https://medium.com/p/fc20277de879) |
 | Sat, 25 Oct 2025 03:59:04 GMT | Earn 100$ while just scrolling New perplexity's Comet Browser | Buggy Vain | [Read More](https://medium.com/p/7e1315ceb290) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 16:28:49 GMT | purche Snapchat Accounts: Risks, Tips & Safe Alternatives . .. | purche* Snapchat Accounts | [Read More](https://medium.com/p/4aa95bc4e50f) |
 | Fri, 24 Oct 2025 16:23:00 GMT | The Art of Bug Report Writing: From Finding to Cashing | N0aziXss | [Read More](https://medium.com/p/df7e2452ff08) |
 | Fri, 24 Oct 2025 16:19:48 GMT | Advanced SELinux Policies Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/eeef7eb859d3) |
-| Fri, 24 Oct 2025 16:15:24 GMT | The Double-Edged Sword: Securing Your robots.txt Before Hackers Use It Against You | Cyberbali | [Read More](https://medium.com/p/0a737ac91b94) |
-| Fri, 24 Oct 2025 16:14:07 GMT | Real-Time Cowrie Honeypot Alerts via Telegram — Track SSH Attacks, Credentials & Tools Instantly | Death Esther | [Read More](https://medium.com/p/58b95c61a56b) |
-| Fri, 24 Oct 2025 16:12:07 GMT | Unlocking the Power of OSINT: Transforming Public Data into Strategic Insights | Md Rakibul Islam | [Read More](https://medium.com/p/bcd66ade2988) |
