@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 21:17:14 GMT | What Is Cybersecurity? Understanding the CIA Model That Guides It | Tawan Fonseca | [Read More](https://medium.com/p/4dfacbca399b) |
+| Sat, 25 Oct 2025 21:13:24 GMT | Security— into emotional, digital, societal, and psychological dimensions. | AJIBOYE EMMANUEL | [Read More](https://medium.com/p/a7f85cd1a14c) |
+| Sat, 25 Oct 2025 21:06:47 GMT | How I Automated My GitHub Recon for Critical Bug Bounties | Ibtissam hammadi | [Read More](https://medium.com/p/34ed27660d3a) |
+| Sat, 25 Oct 2025 21:02:01 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/0bd8bc66ff50) |
+| Sat, 25 Oct 2025 20:58:14 GMT | How I Turned Stored XSS To Account Takeover: Exploiting WebSocket-Driven Applications | Mohamed Ibrahim | [Read More](https://medium.com/p/d61ee2c38cba) |
+| Sat, 25 Oct 2025 20:50:43 GMT | HackTheBox: Sherlocks PhishNet - Kali Linux | Repp | [Read More](https://medium.com/p/245b0cfa70f0) |
+| Sat, 25 Oct 2025 20:43:20 GMT | O que é OAuth ? | Guilherme Gomes | [Read More](https://medium.com/p/2468412fe2d1) |
 | Sat, 25 Oct 2025 20:18:08 GMT | Implementing FIPS on AWS | Paul Short | [Read More](https://medium.com/p/b8d016597ed1) |
 | Sat, 25 Oct 2025 20:03:38 GMT | Dark Side of Developer Screening Projects on LinkedIn — and What Every Developer Should Know | Aryavhirkoul | [Read More](https://medium.com/p/8fcbb31f869b) |
 | Sat, 25 Oct 2025 19:55:56 GMT | TheHackersLabs — THLPWN [Write Up] | APS88 | [Read More](https://medium.com/p/72ef1444e8e2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 13:22:49 GMT | Part 1 of 2 — Why Website Owners Don’t Want Their Sites Scraped (and How They Fight Back) | Ben Kemp | [Read More](https://medium.com/p/bdfe9ea00f81) |
 | Sat, 25 Oct 2025 13:20:33 GMT | Part 2 of 2— How Web Scrapers Bypass Defenses (and Stay Within the Law) | Ben Kemp | [Read More](https://medium.com/p/e6b228e33c17) |
 | Sat, 25 Oct 2025 13:17:21 GMT | Detection of ADS | Ryujin | [Read More](https://medium.com/p/3664e1a4f520) |
-| Sat, 25 Oct 2025 13:13:23 GMT | Corrupted File — PicoCTF Writeup | Betul - Bug Bounty | [Read More](https://medium.com/p/1e25eb2bb182) |
-| Sat, 25 Oct 2025 13:11:02 GMT | When Oracle Got Hacked (and the Hackers Fought Each Other) | <devtips/> | [Read More](https://medium.com/p/4ca0f143e474) |
-| Sat, 25 Oct 2025 12:35:40 GMT | Why Eduleem Is The Best Google Cloud Training Institute In Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/1c31b11e1abf) |
-| Sat, 25 Oct 2025 12:34:43 GMT | How I Passed the eMAPT (While doing internship Full-Time) | Abhay pandit | [Read More](https://medium.com/p/1be4f3b49779) |
-| Sat, 25 Oct 2025 12:23:33 GMT | The 2016 Cyberattack on Thailand Ministry of Foreign Affairs — Global Implications and the… | David SEHYEON Baek | [Read More](https://medium.com/p/0080b120c30a) |
-| Sat, 25 Oct 2025 12:23:25 GMT | How I Use GitHub Recon & Dorking to Find Security Insights . | Mr Hunter | [Read More](https://medium.com/p/8d2bf95e4d07) |
-| Sat, 25 Oct 2025 12:22:25 GMT | # Building AI Security That Actually Works: Lessons from EchoLeak | Cyber Breach Space | [Read More](https://medium.com/p/e74f35755320) |
