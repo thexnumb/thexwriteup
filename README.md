@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 14:17:00 GMT | The Future of Cybersecurity Belongs to Those Who Simplify It. | philippe Garcia | [Read More](https://medium.com/p/e83902e272a7) |
+| Sat, 25 Oct 2025 14:14:24 GMT | Why Beginners Fail in Cyber Security | Abdullah Javeed | [Read More](https://medium.com/p/0a6b540f3201) |
+| Sat, 25 Oct 2025 14:05:35 GMT | Why Leaders Fail: Knowing When to Push and When to Let Go | Vijay Kumar Gupta | [Read More](https://medium.com/p/47ae9c40fcad) |
+| Sat, 25 Oct 2025 13:59:20 GMT | Stories from the Frontlines of Tech and Security | Boris Agranovich | [Read More](https://medium.com/p/75b8a0f1ae89) |
+| Sat, 25 Oct 2025 13:56:17 GMT | Why Cybersecurity Is the Hottest Career of the Decade (and How to Get Started) | Code Link | [Read More](https://medium.com/p/2aa80115ab86) |
+| Sat, 25 Oct 2025 13:50:56 GMT | Inside the Evil twin attack: How hackers trick you on public Wi-Fi | GeekintheStreets | [Read More](https://medium.com/p/4366d3a91d71) |
+| Sat, 25 Oct 2025 13:50:28 GMT | Why Your ‘Secure’ Spring Boot App is a Disaster Waiting to Happen (And How Keycloak Saves You) | Shrawan | [Read More](https://medium.com/p/c3ca30a91ffa) |
+| Sat, 25 Oct 2025 13:43:09 GMT | Assumption-Driven Defense: The Common Ground Between Threat Hunting and Active Defense | Arbri Muca | [Read More](https://medium.com/p/e8c57d22e852) |
+| Sat, 25 Oct 2025 13:40:18 GMT | Historia de una recompensa por $.$$$, Metodología aplicada y bypass de solución WAF. | Danny Ramirez | [Read More](https://medium.com/p/746a6f7a0dbf) |
 | Sat, 25 Oct 2025 13:38:04 GMT | Stop the Scammers Now — How To Be Safe On The Internet in 5 Minutes | Dr. Alex Steinberg | [Read More](https://medium.com/p/3fb3d81b9153) |
+| Sat, 25 Oct 2025 13:37:27 GMT | Why LSASS Dumps Still Work (And How Defenders Finally Stop Them) | Maxwell Cross | [Read More](https://medium.com/p/2f5bed41f594) |
 | Sat, 25 Oct 2025 13:34:10 GMT | Ignoring a Firebase Public Configuration? | M0n3m | [Read More](https://medium.com/p/9ccb9159abb5) |
 | Sat, 25 Oct 2025 13:34:06 GMT | How To Track IP Address - Hire Hacker - Hacking Services | BlackHat | [Read More](https://medium.com/p/c932646d9f62) |
 | Sat, 25 Oct 2025 13:32:59 GMT | The Age of AI Worms: When Malware Starts to Think | iam_with_you11 | [Read More](https://medium.com/p/56446d26aef4) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 06:10:17 GMT | The​ ROI of‍ Le‌arning Ethic‌al Hac​ki‍ng — Is It Worth It? | Aadhidev Anihac | [Read More](https://medium.com/p/3c9ed5fdc48a) |
 | Sat, 25 Oct 2025 06:04:02 GMT | Top 10 Influencers in Cyber Security on LinkedIn | Manisha Chaudhary | [Read More](https://medium.com/p/d366487dd033) |
 | Sat, 25 Oct 2025 06:01:37 GMT | Gophish — Open-Source Phishing Framework (Beginner’s Guide) | Abhinsubej | [Read More](https://medium.com/p/05d7be126581) |
-| Sat, 25 Oct 2025 05:53:33 GMT | Differenc‌e Between Eth⁠ical Hacking and Penetrati‍on Testi‌ng | Aadhidev Anihac | [Read More](https://medium.com/p/20b8c6011c93) |
-| Sat, 25 Oct 2025 05:53:31 GMT | Journey into Tech: The Silent Struggle of Exploring, Discovering, and Choosing a Path in Tech | Abdulmujeeb | [Read More](https://medium.com/p/844e38d632c3) |
-| Sat, 25 Oct 2025 05:52:44 GMT | Why API Security Testing is Critical for Modern Applications | Supratip Banerjee | [Read More](https://medium.com/p/a34130ff33e7) |
-| Sat, 25 Oct 2025 05:52:12 GMT | Wha⁠t Recruiters⁠ L⁠ook for in Ethical Hackers — Insights f​rom Hir​ing Manag‌ers | Aadhidev Anihac | [Read More](https://medium.com/p/6ad254387e7d) |
-| Sat, 25 Oct 2025 05:29:50 GMT | Ethical Hacking Course in Ahmedabad — BIT | BIT Blogs | [Read More](https://medium.com/p/953c7bd7c2a1) |
-| Sat, 25 Oct 2025 05:29:11 GMT | Bilgi Güvenliği Denetimi: Kavramsal Temelden Profesyonel Vizyona Bir Bakış | Ömer Tayfun D. | [Read More](https://medium.com/p/4b61713ee646) |
-| Sat, 25 Oct 2025 05:21:38 GMT | MY JOURNEY INTO NETWORKING AND CYBERSECURITY | Dervisthestudent | [Read More](https://medium.com/p/bdfd30f9d64b) |
-| Sat, 25 Oct 2025 05:19:48 GMT | Top Hacker Tools for 2025: From Nmap to Next-Gen Security | 77LUCK | [Read More](https://medium.com/p/28b7ecc6124b) |
-| Sat, 25 Oct 2025 05:17:28 GMT | Palo Alto Networks Breach Readiness Review: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e585791bbf4d) |
-| Sat, 25 Oct 2025 05:15:01 GMT | Solución — FD / Pwnable.kr | MrGh057 | [Read More](https://medium.com/p/365cb428e67b) |
