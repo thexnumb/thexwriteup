@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 05:15:01 GMT | Solución — FD / Pwnable.kr | MrGh057 | [Read More](https://medium.com/p/365cb428e67b) |
+| Sat, 25 Oct 2025 04:57:49 GMT | Best IT Support Practices for Small Businesses | Ask IT Support | [Read More](https://medium.com/p/06bad2415690) |
+| Sat, 25 Oct 2025 04:54:35 GMT | When Billions Meet a Mom with Uno Cards: The Google-Anthropic Deal and What It Means for Victims… | Krystal | [Read More](https://medium.com/p/2b6d68087dc5) |
 | Sat, 25 Oct 2025 04:22:25 GMT | Day 5 of My 120-Day Purple Teaming & Cloud Incident Response Journey: Lessons in AWS and Security… | Prasanth Kumar Malleboina | [Read More](https://medium.com/p/5fef500980eb) |
 | Sat, 25 Oct 2025 04:18:45 GMT | What I wish I Knew Before Going into College as a Cybersecurity Student | The Reboot | [Read More](https://medium.com/p/ad0b9a799539) |
 | Sat, 25 Oct 2025 04:15:42 GMT | This week’s convergence of cloud instability, supply chain cyber-physical failure, and quantum… | Akilnath Bodipudi | [Read More](https://medium.com/p/75fe2083f592) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 16:36:46 GMT | New Bug Bounty Blog Is Live | Kapeka | [Read More](https://medium.com/p/58bab17d8530) |
 | Fri, 24 Oct 2025 16:36:46 GMT | How I Sold Snake Oil IT Security for Years — SOLID | Marcus Bohlander | [Read More](https://medium.com/p/c4e3aeebbc92) |
 | Fri, 24 Oct 2025 16:32:32 GMT | Top Cloud Computing Innovations You Need to Know | Xaltius | [Read More](https://medium.com/p/65ba6854cdfd) |
-| Fri, 24 Oct 2025 16:28:49 GMT | purche Snapchat Accounts: Risks, Tips & Safe Alternatives . .. | purche* Snapchat Accounts | [Read More](https://medium.com/p/4aa95bc4e50f) |
-| Fri, 24 Oct 2025 16:23:00 GMT | The Art of Bug Report Writing: From Finding to Cashing | N0aziXss | [Read More](https://medium.com/p/df7e2452ff08) |
-| Fri, 24 Oct 2025 16:19:48 GMT | Advanced SELinux Policies Techniques in Linux | Eren Cankut Uysal | [Read More](https://medium.com/p/eeef7eb859d3) |
