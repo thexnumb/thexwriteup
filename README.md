@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 07:13:41 GMT | 12 Database Security Best Practices for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ac7b5d4a2740) |
+| Sat, 25 Oct 2025 07:08:40 GMT | THE WORLD OF COMPUTER NETWORKS: HOW OUR DEVICES TALK TO EACH OTHER | Input-7 | [Read More](https://medium.com/p/32209a6ffa0b) |
+| Sat, 25 Oct 2025 07:02:48 GMT | Linux Day: La festa dell’Open Source che cambia il mondo (un bit alla volta) | TheCyberGeekGirl | [Read More](https://medium.com/p/8344b8242973) |
+| Sat, 25 Oct 2025 06:52:05 GMT | Try-Hack-Me challenge walkthrough Wonderland — Medium CTF | Arka Priya Das | [Read More](https://medium.com/p/d4e86ba9826a) |
 | Sat, 25 Oct 2025 06:36:04 GMT | Exploitation on the Rise: Key Cyber Threats This Week | Loginsoft | [Read More](https://medium.com/p/36d6dc3f2d9a) |
 | Sat, 25 Oct 2025 06:29:31 GMT | ‍‍ Welcome to My Programming Playground*
 ‎
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 18:32:29 GMT | The Kind of Words That Turn Friends Into Lifelong Allies | THUMB | [Read More](https://medium.com/p/87063e20d9d2) |
 | Fri, 24 Oct 2025 18:24:40 GMT | Writeup — The Gate of Broken Names (Satellite Notes — IDOR / Access Control Failure) | hehash | [Read More](https://medium.com/p/c94f436c37ff) |
 | Fri, 24 Oct 2025 18:23:53 GMT | ##  **GÜNLÜK ANALİZ SÜRECİ — ÖZET NOTLAR** | Myusuftr | [Read More](https://medium.com/p/26cc3806e305) |
-| Fri, 24 Oct 2025 18:23:51 GMT | eJPT — 3.5 CTF 2 Post-Exploitation | Dharmendrakumar | [Read More](https://medium.com/p/545b111dd3e3) |
-| Fri, 24 Oct 2025 18:21:34 GMT | IDS-IPS türleri | Myusuftr | [Read More](https://medium.com/p/acc7273b4336) |
-| Fri, 24 Oct 2025 18:20:02 GMT | siber güvenlikte nba (network behavior analysis) | Myusuftr | [Read More](https://medium.com/p/24e1ebf38c65) |
-| Fri, 24 Oct 2025 18:19:38 GMT | What The Auth? | Guna Abhiram Bondada | [Read More](https://medium.com/p/3839c2e5b906) |
