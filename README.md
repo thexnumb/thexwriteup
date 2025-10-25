@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 10:20:14 GMT | You should see me in a shell. | Oluwatosin | [Read More](https://medium.com/p/b6e58c810e5c) |
+| Sat, 25 Oct 2025 10:19:30 GMT | Bluetooth Mimarisi ve Temel Kavramlar-2 | Alperkandemir | [Read More](https://medium.com/p/2ac0da899344) |
 | Sat, 25 Oct 2025 10:15:22 GMT | Top 10 Diploma Courses in Cyber Security After 12th | Manisha Chaudhary | [Read More](https://medium.com/p/4c22333b5ba4) |
 | Sat, 25 Oct 2025 10:13:29 GMT | Clicks to Customers: Website Development Services in Chennai That Actually Work | Dineshsvaan | [Read More](https://medium.com/p/f67efb944feb) |
 | Sat, 25 Oct 2025 10:09:11 GMT | Book 6 :The Phoenix Directive: The Hybrid War Unleashed (The R & A.W. | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/5f1f8e9a015a) |
@@ -112,5 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 22:38:21 GMT | AI-Powered CCTV Camera Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/8c18026a1f5d) |
 | Fri, 24 Oct 2025 22:32:56 GMT | Reading the Signals: Why the Government Still Isn’t Keeping Up with AI | Noemi | [Read More](https://medium.com/p/cf5b7c1cc38c) |
 | Fri, 24 Oct 2025 22:30:58 GMT | The Tiny Blanket Is Revolutionizing Comfort at 35,000 Feet | Marc Ford | [Read More](https://medium.com/p/cff3bdc1ac3d) |
-| Fri, 24 Oct 2025 22:08:55 GMT | BumbleSting Lab/CyberDefenders | Jake Boyd | [Read More](https://medium.com/p/71c68778f69f) |
-| Fri, 24 Oct 2025 21:51:46 GMT | When Passion and Practicality Don’t Align: a tale from a cyber security engineer… | Wafa | [Read More](https://medium.com/p/856162f79351) |
