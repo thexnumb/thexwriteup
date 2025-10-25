@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 16:07:48 GMT | A Fake Account, a Cloned Publication, an Unexpected Shock for Substack Subscribers | Dr Mehmet Yildiz | [Read More](https://medium.com/p/4bc7e2cb124b) |
+| Sat, 25 Oct 2025 16:07:23 GMT | Human-Centered Support | Info Tech Net | [Read More](https://medium.com/p/3d8fab429cfc) |
+| Sat, 25 Oct 2025 16:03:15 GMT | How Bug Bounties Can Boost Your Cybersecurity Career | Xormium | [Read More](https://medium.com/p/ecbc45f15b00) |
+| Sat, 25 Oct 2025 15:51:29 GMT | Ultra-Responsive Speeds | Info Tech Net | [Read More](https://medium.com/p/07b6d8ffdf41) |
+| Sat, 25 Oct 2025 15:49:47 GMT | When Your AI Browser Agent Gets You Fired: The Accountability Crisis No One Is Talking About | Nanthakumar | [Read More](https://medium.com/p/e356bd5031af) |
+| Sat, 25 Oct 2025 15:49:23 GMT | THE EXPLOIT ISN’T THE HACK. THE TIMING IS | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/57c5936e9d27) |
+| Sat, 25 Oct 2025 15:47:28 GMT | The CIA Triad: The Foundation of Information Security | Ferdi Edogawa | [Read More](https://medium.com/p/29ec259b7161) |
+| Sat, 25 Oct 2025 15:46:11 GMT | Boosting Cybersecurity Risk Awareness: Strategies That Actually Work | Compciti | [Read More](https://medium.com/p/8ded68773cc5) |
+| Sat, 25 Oct 2025 15:38:02 GMT | Info Tech Net | Info Tech Net | [Read More](https://medium.com/p/2a7710184a06) |
+| Sat, 25 Oct 2025 15:37:12 GMT | Blockchains Scrambled and Oasis is Untouched | Blockchainer | [Read More](https://medium.com/p/d714d00db748) |
+| Sat, 25 Oct 2025 15:35:14 GMT | Digital Declutter: Why You Should Uninstall Unused Apps | Aysha Misri | [Read More](https://medium.com/p/76230ff35a70) |
 | Sat, 25 Oct 2025 15:31:05 GMT | SIEM Basics | lukewago | [Read More](https://medium.com/p/c03bde388064) |
 | Sat, 25 Oct 2025 15:28:47 GMT | Topic 38: CSS Flexbox (Flexible Box Layout) | Rana Awais | [Read More](https://medium.com/p/51ca3d7403d3) |
 | Sat, 25 Oct 2025 15:24:30 GMT | Why Every Business Needs a VPN for Better Security ? | Technologia | [Read More](https://medium.com/p/8ceab6330ce4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 09:51:12 GMT | The Invisible ai: Why AI Needs a Moral Compass Now | UXVerse — ◦ | [Read More](https://medium.com/p/2e20764d8b3c) |
 | Sat, 25 Oct 2025 09:47:50 GMT | GitHub Contribution bug? Here’s Why And How to Fix It. | Auritro Bin Islam | [Read More](https://medium.com/p/098f7eebf2cf) |
 | Sat, 25 Oct 2025 09:44:08 GMT | How to Get Engineering to Care About AppSec (Without Being the Villain) | Kay Adelaja | [Read More](https://medium.com/p/b90c1e25304d) |
-| Sat, 25 Oct 2025 09:37:13 GMT | 프론트엔드 방심금지, 프론트엔드 보안에 대해서 | Dohee Kim | [Read More](https://medium.com/p/11955db003d9) |
-| Sat, 25 Oct 2025 09:28:38 GMT | Turning the Knob on Cloud Access: Active Revocation Made Simple | Ahmed Rekik | [Read More](https://medium.com/p/bef7c8d7b736) |
-| Sat, 25 Oct 2025 09:28:12 GMT | How a Single “What If” Can Find You a Bug | Viratavi | [Read More](https://medium.com/p/665b96c1e909) |
-| Sat, 25 Oct 2025 09:25:05 GMT | Things I did to finish 10 levels in Bandit | Abel Asfaw | [Read More](https://medium.com/p/abecb2e33b26) |
-| Sat, 25 Oct 2025 09:23:27 GMT | Mentorship in Tech: How to Find a Mentor and Grow Faster | Generiss Academy | [Read More](https://medium.com/p/b51768a15af6) |
-| Sat, 25 Oct 2025 09:22:49 GMT | Key Logger Prevention in iOS | Nishant Taneja | [Read More](https://medium.com/p/11966a44ad4b) |
-| Sat, 25 Oct 2025 09:00:29 GMT | How to Share Secrets Across Kubernetes Namespaces Securely | Anh Trần Tuấn | [Read More](https://medium.com/p/f26ca0d32bb8) |
-| Sat, 25 Oct 2025 09:00:28 GMT | How to Share Secrets Across Kubernetes Namespaces Securely | Anh Trần Tuấn | [Read More](https://medium.com/p/00c9fd0d60f8) |
-| Sat, 25 Oct 2025 08:59:17 GMT | What a beautiful privilege it is — to be consumed by love that can both break and cherish me. | jupiter | [Read More](https://medium.com/p/7e8923f9f20e) |
-| Sat, 25 Oct 2025 08:45:51 GMT | TryHackMe - Alert Triage With Splunk - WriteUp | Axoloth | [Read More](https://medium.com/p/192e675debff) |
-| Sat, 25 Oct 2025 08:41:49 GMT | Stay Ahead in Cybersecurity: Top Certifications for 2026 | Lucia Adams | [Read More](https://medium.com/p/0ad7b04e081e) |
