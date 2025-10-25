@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 08:31:41 GMT | The Hidden World of Espionage: Diplomacy, Influence, and Information Warfare | AtashWisdomGrass | [Read More](https://medium.com/p/8995b04a57cc) |
 | Sat, 25 Oct 2025 08:07:39 GMT | Learn Artificial Intelligence Course in Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/a740e0a20778) |
 | Sat, 25 Oct 2025 08:02:26 GMT | Free Domain Leak Check: Run It in 60 Seconds | Alexandre Vandamme | [Read More](https://medium.com/p/fcc4bccee73d) |
 | Sat, 25 Oct 2025 07:38:50 GMT | WTF: Someone Cloned Dr Mehmet Yildiz on Substack and and None of Us Could Even Report It | Mike Broadly, DHSc | [Read More](https://medium.com/p/0692af2d7895) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 19:30:59 GMT | 5 Security Configurations You Should Change Today | JSOC IT BLOG | [Read More](https://medium.com/p/695fa14ac585) |
 | Fri, 24 Oct 2025 19:27:52 GMT | Why Bother With Kasm Workspace? | Roberto Salazar | [Read More](https://medium.com/p/35de778f57b9) |
 | Fri, 24 Oct 2025 19:27:18 GMT | HTB_Academy: Pivoting, Tunneling, and Port Forwarding: Dynamic Port Forwarding with SSH and SOCKS… | Babatunde Ojo | [Read More](https://medium.com/p/d15a2fc21882) |
-| Fri, 24 Oct 2025 19:17:11 GMT | Phishing 101: Your Complete Guide To Phishing | Spokeo People Search | [Read More](https://medium.com/p/47254743496f) |
