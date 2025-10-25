@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 12:35:40 GMT | Why Eduleem Is The Best Google Cloud Training Institute In Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/1c31b11e1abf) |
+| Sat, 25 Oct 2025 12:23:33 GMT | The 2016 Cyberattack on Thailand Ministry of Foreign Affairs — Global Implications and the… | David SEHYEON Baek | [Read More](https://medium.com/p/0080b120c30a) |
+| Sat, 25 Oct 2025 12:22:25 GMT | # Building AI Security That Actually Works: Lessons from EchoLeak | Cyber Breach Space | [Read More](https://medium.com/p/e74f35755320) |
+| Sat, 25 Oct 2025 12:20:50 GMT | # Four Security Layers Failed: The Technical Breakdown of EchoLeak | Cyber Breach Space | [Read More](https://medium.com/p/adadbce03591) |
+| Sat, 25 Oct 2025 12:20:19 GMT | [OverTheWire] Bandit Level 7 → 8 | H$nt | [Read More](https://medium.com/p/af79be50c973) |
+| Sat, 25 Oct 2025 12:19:05 GMT | [OverTheWire] Bandit Level 6 → 7 | H$nt | [Read More](https://medium.com/p/3eec2542ff0a) |
+| Sat, 25 Oct 2025 12:17:34 GMT | [OverTheWire] Bandit Level 5 → 6 | H$nt | [Read More](https://medium.com/p/3561a55a9bf0) |
+| Sat, 25 Oct 2025 12:16:02 GMT | Wireshark: The Basics | armintei | [Read More](https://medium.com/p/98590c3362c9) |
+| Sat, 25 Oct 2025 12:09:57 GMT | PhantomCaptcha: A one-day WebSocket RAT campaign weaponizing fake CAPTCHAs and PDFs | Himanshu Bhatt | [Read More](https://medium.com/p/8e0e001addfb) |
+| Sat, 25 Oct 2025 11:58:17 GMT | Setting Up My Browser Security Lab: Lessons from Docker, Disk Space, and Debugging | Okore Osotsi | [Read More](https://medium.com/p/7d04aaf7f19a) |
+| Sat, 25 Oct 2025 11:56:31 GMT | DockerLabs Writeup — HereBash (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8218733bbbc5) |
+| Sat, 25 Oct 2025 11:52:03 GMT | Data Masking Techniques for PII Data Protection | Sanjeev Jaiswal (Jassi) | [Read More](https://medium.com/p/0ff649a05773) |
+| Sat, 25 Oct 2025 11:49:34 GMT | How a Late Night Hunting Turned Into a Critical ‘Email-Only’ Account Takeover | Diman | [Read More](https://medium.com/p/62393bb12cb8) |
+| Sat, 25 Oct 2025 11:41:12 GMT | Bandit overthewire wargame walkthrough level 0 — level 10 | Abinet Melkamu | [Read More](https://medium.com/p/f305c9b3c7cf) |
 | Sat, 25 Oct 2025 11:23:10 GMT | Monitor you cloud environment with Steampipe and Grafana | Salim Amine Bou Aram | [Read More](https://medium.com/p/c215f1bb5a4c) |
 | Sat, 25 Oct 2025 11:20:54 GMT | China’s 15th Five-Year Plan: The Next Phase of Tech Power — and Europe’s Response | Carsten Stöcker | [Read More](https://medium.com/p/a16f517b6809) |
 | Sat, 25 Oct 2025 11:18:00 GMT | How​‍​‌‍​‍‌ Python’s Hidden Powers Can Automate Half Your Job | Rocky | [Read More](https://medium.com/p/94d9f1bb14dc) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 03:02:00 GMT | Romanian-Polish Counterintelligence Foils Russian-Led Explosives Sabotage Plot | V. Langston - Pol / Eco / Tech | [Read More](https://medium.com/p/73dc49a7776b) |
 | Sat, 25 Oct 2025 02:26:02 GMT | Escape Common Coding Pitfalls You’re Making | Asif Sayed | [Read More](https://medium.com/p/92b4cd79dad8) |
 | Sat, 25 Oct 2025 02:16:10 GMT | Setting Up OpenBAS Community Edition | Tomomi | [Read More](https://medium.com/p/cf3f5d2a032a) |
-| Sat, 25 Oct 2025 01:33:56 GMT | How to Use OSINT to Strengthen Your Personal Digital Security | Shahzaib | [Read More](https://medium.com/p/81d3c9d1d5ae) |
-| Sat, 25 Oct 2025 01:33:42 GMT | Web Cache Deception: A Complete Beginner to Advanced Guide | Monika sharma | [Read More](https://medium.com/p/94cf851cd89f) |
-| Sat, 25 Oct 2025 01:28:29 GMT | Reconnaissance | Taha Mahmoud | [Read More](https://medium.com/p/7b8d82dbc8fa) |
-| Sat, 25 Oct 2025 00:42:42 GMT | PenTesting | 0xMakima | [Read More](https://medium.com/p/2013cf75023c) |
-| Sat, 25 Oct 2025 00:41:55 GMT | AI’s Moral Dilemma: When Innovation Meets Invasion | Prashanth Chandika | [Read More](https://medium.com/p/7e845c7904ba) |
-| Sat, 25 Oct 2025 00:29:37 GMT | Shadow AI Is Already in Your Org — Here’s How to Govern It | Tobi Beck | [Read More](https://medium.com/p/293c85b1473f) |
-| Sat, 25 Oct 2025 00:16:56 GMT | The Definitive Guide to Cybersecurity Report Writing | TheP3@rL | [Read More](https://medium.com/p/eec1cb0e230d) |
-| Sat, 25 Oct 2025 00:12:17 GMT | Did my AI copilot run a background check on me? | Will Maynard | [Read More](https://medium.com/p/9c1aa059acf9) |
-| Sat, 25 Oct 2025 00:02:54 GMT | Arjun’s Guide to Discovering Hidden HTTP Parameters and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/678dc66763d7) |
-| Fri, 24 Oct 2025 23:51:17 GMT | How I Used Threat Modeling to Secure a To-Do List App (and What It Taught Me About Shifting Left) | Myshawne Stallings | [Read More](https://medium.com/p/98609dba8c61) |
-| Fri, 24 Oct 2025 23:50:47 GMT | Apple Pay and Google Wallet Aren’t as Safe as You Think | Cyber-AppSec | [Read More](https://medium.com/p/fa30b616a687) |
-| Fri, 24 Oct 2025 23:48:02 GMT | Security Awareness Training is more than just an October thing! | Tina Timmerman aka CyberT | [Read More](https://medium.com/p/044bf65f4fa8) |
-| Fri, 24 Oct 2025 23:45:57 GMT | Pentesting A Web Browser | Mike Anthony | [Read More](https://medium.com/p/ce20b35ae321) |
-| Fri, 24 Oct 2025 23:33:34 GMT | The Three Receipts — What counts as proof? | Rick Hare | [Read More](https://medium.com/p/68b154566600) |
