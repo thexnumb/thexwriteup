@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 13:17:21 GMT | Detection of ADS | Ryujin | [Read More](https://medium.com/p/3664e1a4f520) |
+| Sat, 25 Oct 2025 13:13:23 GMT | Corrupted File — PicoCTF Writeup | Betul - Bug Bounty | [Read More](https://medium.com/p/1e25eb2bb182) |
+| Sat, 25 Oct 2025 13:11:02 GMT | When Oracle Got Hacked (and the Hackers Fought Each Other) | <devtips/> | [Read More](https://medium.com/p/4ca0f143e474) |
 | Sat, 25 Oct 2025 12:35:40 GMT | Why Eduleem Is The Best Google Cloud Training Institute In Bangalore | Nadeem Zia. N | [Read More](https://medium.com/p/1c31b11e1abf) |
+| Sat, 25 Oct 2025 12:34:43 GMT | How I Passed the eMAPT (While doing internship Full-Time) | Abhay pandit | [Read More](https://medium.com/p/1be4f3b49779) |
 | Sat, 25 Oct 2025 12:23:33 GMT | The 2016 Cyberattack on Thailand Ministry of Foreign Affairs — Global Implications and the… | David SEHYEON Baek | [Read More](https://medium.com/p/0080b120c30a) |
+| Sat, 25 Oct 2025 12:23:25 GMT | How I Use GitHub Recon & Dorking to Find Security Insights . | Mr Hunter | [Read More](https://medium.com/p/8d2bf95e4d07) |
 | Sat, 25 Oct 2025 12:22:25 GMT | # Building AI Security That Actually Works: Lessons from EchoLeak | Cyber Breach Space | [Read More](https://medium.com/p/e74f35755320) |
 | Sat, 25 Oct 2025 12:20:50 GMT | # Four Security Layers Failed: The Technical Breakdown of EchoLeak | Cyber Breach Space | [Read More](https://medium.com/p/adadbce03591) |
 | Sat, 25 Oct 2025 12:20:19 GMT | [OverTheWire] Bandit Level 7 → 8 | H$nt | [Read More](https://medium.com/p/af79be50c973) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 03:31:57 GMT | When Phishing Goes to School: How Attackers Exploited Google Classroom to Target 13,500… | Deven Chhajed | [Read More](https://medium.com/p/5475ffb08401) |
 | Sat, 25 Oct 2025 03:23:50 GMT | Cyberhomeostasis | Tom Yonashiro | [Read More](https://medium.com/p/0b95a823e2b4) |
 | Sat, 25 Oct 2025 03:20:47 GMT | A Step-by-Step Introduction to Using Autopsy: The Open-Source Digital Forensics Browser | Anderson Santos | [Read More](https://medium.com/p/6c7a03cdfb7f) |
-| Sat, 25 Oct 2025 03:18:34 GMT | Cyber Risk Management | RogueTrace | [Read More](https://medium.com/p/12037f044d2f) |
-| Sat, 25 Oct 2025 03:14:20 GMT | [ SOC Alert => Phishing Mail Detected — Excel 4.0 Macros ] by LetsDefend / ➡️English version | EduKayky | [Read More](https://medium.com/p/86d5185abee6) |
-| Sat, 25 Oct 2025 03:02:00 GMT | Romanian-Polish Counterintelligence Foils Russian-Led Explosives Sabotage Plot | V. Langston - Pol / Eco / Tech | [Read More](https://medium.com/p/73dc49a7776b) |
-| Sat, 25 Oct 2025 02:26:02 GMT | Escape Common Coding Pitfalls You’re Making | Asif Sayed | [Read More](https://medium.com/p/92b4cd79dad8) |
-| Sat, 25 Oct 2025 02:16:10 GMT | Setting Up OpenBAS Community Edition | Tomomi | [Read More](https://medium.com/p/cf3f5d2a032a) |
