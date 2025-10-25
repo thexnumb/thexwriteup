@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 10:15:22 GMT | Top 10 Diploma Courses in Cyber Security After 12th | Manisha Chaudhary | [Read More](https://medium.com/p/4c22333b5ba4) |
+| Sat, 25 Oct 2025 10:13:29 GMT | Clicks to Customers: Website Development Services in Chennai That Actually Work | Dineshsvaan | [Read More](https://medium.com/p/f67efb944feb) |
+| Sat, 25 Oct 2025 10:09:11 GMT | Book 6 :The Phoenix Directive: The Hybrid War Unleashed (The R & A.W. | krishna Prasanth Guttikonda | [Read More](https://medium.com/p/5f1f8e9a015a) |
+| Sat, 25 Oct 2025 10:05:21 GMT | From Splunk Enterprise Security to MITRE ATT&CK | Pietro Romano / SecBeret | [Read More](https://medium.com/p/4b318cd9d530) |
+| Sat, 25 Oct 2025 10:04:49 GMT | How I Made ChatGPT My Bug Hunting Intern (And It Found Stuff I’d Never Considered) | Iski | [Read More](https://medium.com/p/e86a44c1f2ba) |
+| Sat, 25 Oct 2025 10:03:40 GMT | GHİDRA | Asya Ilgın Işık | [Read More](https://medium.com/p/0076e61be6a2) |
+| Sat, 25 Oct 2025 09:56:56 GMT | Cryptography for Beginners: What Actually Matters in Practice | Aj | [Read More](https://medium.com/p/08825b3da211) |
+| Sat, 25 Oct 2025 09:55:46 GMT | Cybersecurity Weekly Issue 52 | This Week In I/O | [Read More](https://medium.com/p/0af4ed14a393) |
+| Sat, 25 Oct 2025 09:55:33 GMT | The​‍​‌‍​‍‌ AWS Skills That Companies Will Pay Anything For in 2025 | Rocky | [Read More](https://medium.com/p/0291a083527f) |
+| Sat, 25 Oct 2025 09:55:19 GMT | Voleur HTB Walktrought | Maxwell Ferreira | [Read More](https://medium.com/p/b09f6f711ea5) |
+| Sat, 25 Oct 2025 09:51:20 GMT | SETTING UP BOSS OF THE SOC (BOTS) V3 DATASETS IN SPLUNK INSTANCE ON KALI LINUX | Aisha B. B | [Read More](https://medium.com/p/12e4d6785dcf) |
+| Sat, 25 Oct 2025 09:51:12 GMT | The Invisible ai: Why AI Needs a Moral Compass Now | UXVerse — ◦ | [Read More](https://medium.com/p/2e20764d8b3c) |
+| Sat, 25 Oct 2025 09:47:50 GMT | GitHub Contribution bug? Here’s Why And How to Fix It. | Auritro Bin Islam | [Read More](https://medium.com/p/098f7eebf2cf) |
+| Sat, 25 Oct 2025 09:44:08 GMT | How to Get Engineering to Care About AppSec (Without Being the Villain) | Kay Adelaja | [Read More](https://medium.com/p/b90c1e25304d) |
+| Sat, 25 Oct 2025 09:37:13 GMT | 프론트엔드 방심금지, 프론트엔드 보안에 대해서 | Dohee Kim | [Read More](https://medium.com/p/11955db003d9) |
 | Sat, 25 Oct 2025 09:28:38 GMT | Turning the Knob on Cloud Access: Active Revocation Made Simple | Ahmed Rekik | [Read More](https://medium.com/p/bef7c8d7b736) |
 | Sat, 25 Oct 2025 09:28:12 GMT | How a Single “What If” Can Find You a Bug | Viratavi | [Read More](https://medium.com/p/665b96c1e909) |
 | Sat, 25 Oct 2025 09:25:05 GMT | Things I did to finish 10 levels in Bandit | Abel Asfaw | [Read More](https://medium.com/p/abecb2e33b26) |
@@ -99,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 22:30:58 GMT | The Tiny Blanket Is Revolutionizing Comfort at 35,000 Feet | Marc Ford | [Read More](https://medium.com/p/cff3bdc1ac3d) |
 | Fri, 24 Oct 2025 22:08:55 GMT | BumbleSting Lab/CyberDefenders | Jake Boyd | [Read More](https://medium.com/p/71c68778f69f) |
 | Fri, 24 Oct 2025 21:51:46 GMT | When Passion and Practicality Don’t Align: a tale from a cyber security engineer… | Wafa | [Read More](https://medium.com/p/856162f79351) |
-| Fri, 24 Oct 2025 21:41:57 GMT | Why modern love feels so complicated: | Eniola Ogunsusi | [Read More](https://medium.com/p/afcc9f1e1e3c) |
-| Fri, 24 Oct 2025 21:33:52 GMT | ⚠️ STOP: AI Browsers (Comet, Fellou) Are Hijacking Systems in Ways You Can’t See — Take Action… | Bireshkumar | [Read More](https://medium.com/p/7ae38cfa6351) |
-| Fri, 24 Oct 2025 21:32:56 GMT | Step-by-Step Guide: Automating Recon with Bash — Build Your Own Mini Nuclei Scanner | Very Lazy Tech | [Read More](https://medium.com/p/3692c145cc77) |
-| Fri, 24 Oct 2025 21:28:14 GMT | [ SOC Alert => Phishing Mail Detected — Excel 4.0 Macros ] by LetsDefend / EventID: 93 | EduKayky | [Read More](https://medium.com/p/81377f9b708a) |
-| Fri, 24 Oct 2025 21:14:17 GMT | Unlocking the Power of Linux: Top 20 Commands Every User Should Master | Ritu Priya Singh | [Read More](https://medium.com/p/9d8090ad1c8e) |
-| Fri, 24 Oct 2025 21:08:48 GMT | The Batcomputer Evolved | David ONeal | [Read More](https://medium.com/p/2ad3e62918e4) |
-| Fri, 24 Oct 2025 21:06:34 GMT | Convenção de Budapeste e o Combate ao Crime Cibernético: Avanços, Responsabilidades e Direitos… | Gutenberg_Campos | [Read More](https://medium.com/p/c5a616e5b2c3) |
-| Fri, 24 Oct 2025 21:03:11 GMT | Utilizing AI Technologies — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/60737dd19a3f) |
-| Fri, 24 Oct 2025 21:02:35 GMT | Day 19 of my Cybersecurity Journey: Tcpdump Basics | Ogundipe Priscilla | [Read More](https://medium.com/p/86584eed80d3) |
-| Fri, 24 Oct 2025 20:54:59 GMT | SIEM 101 | CheddarB0b42 | [Read More](https://medium.com/p/40b19e48ad22) |
-| Fri, 24 Oct 2025 20:53:41 GMT | Every Cyber Risk. Every Signal. Continuous Defense Loop | Juan Pablo Castro | [Read More](https://medium.com/p/d9a0c81e03e5) |
-| Fri, 24 Oct 2025 20:52:45 GMT | Siber Güvenliğe İlk Adım: Linux, Network ve Güvenlik Terimleri Rehberi | asandikci | [Read More](https://medium.com/p/a2ab9fa3e95b) |
-| Fri, 24 Oct 2025 20:47:36 GMT | Red Teaming 101 — Adversary Emulation vs Adversary Simulation | Bala Praneeth (Begin_hunt) | [Read More](https://medium.com/p/bd72ee582b29) |
-| Fri, 24 Oct 2025 20:33:18 GMT | 5 Most Critical Windows 10 & 11 Hardening Steps To Enforce | Cybersensus | [Read More](https://medium.com/p/d345f9f048c5) |
-| Fri, 24 Oct 2025 20:21:22 GMT | MinIO Latest Security Release — Now Available as alpine/minio Docker Image | Bill WANG | [Read More](https://medium.com/p/440af8e429ae) |
