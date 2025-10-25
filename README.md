@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 11:23:10 GMT | Monitor you cloud environment with Steampipe and Grafana | Salim Amine Bou Aram | [Read More](https://medium.com/p/c215f1bb5a4c) |
+| Sat, 25 Oct 2025 11:20:54 GMT | China’s 15th Five-Year Plan: The Next Phase of Tech Power — and Europe’s Response | Carsten Stöcker | [Read More](https://medium.com/p/a16f517b6809) |
+| Sat, 25 Oct 2025 11:18:00 GMT | How​‍​‌‍​‍‌ Python’s Hidden Powers Can Automate Half Your Job | Rocky | [Read More](https://medium.com/p/94d9f1bb14dc) |
+| Sat, 25 Oct 2025 11:02:37 GMT | The Cybersecurity YouTuber: Building a Channel That Educates and Earns | Samina Perveen | [Read More](https://medium.com/p/4f7499a81683) |
 | Sat, 25 Oct 2025 10:56:40 GMT | Hosting in 2025 Made Simple: Affordable and Reliable Options for Every Website | Andy | [Read More](https://medium.com/p/7c1a39401ea5) |
 | Sat, 25 Oct 2025 10:50:11 GMT | What is the Scope of Ethical Hacking as a Career? | cyber security Updates | [Read More](https://medium.com/p/0aa65890fbed) |
 | Sat, 25 Oct 2025 10:39:20 GMT | Nmap: From “What’s That?” to “I Can Defend My Network” | Fateyaly | [Read More](https://medium.com/p/6f9fb255bb4e) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Oct 2025 23:48:02 GMT | Security Awareness Training is more than just an October thing! | Tina Timmerman aka CyberT | [Read More](https://medium.com/p/044bf65f4fa8) |
 | Fri, 24 Oct 2025 23:45:57 GMT | Pentesting A Web Browser | Mike Anthony | [Read More](https://medium.com/p/ce20b35ae321) |
 | Fri, 24 Oct 2025 23:33:34 GMT | The Three Receipts — What counts as proof? | Rick Hare | [Read More](https://medium.com/p/68b154566600) |
-| Fri, 24 Oct 2025 23:20:34 GMT | Cybersecurity and Global Politics in Asia’s Digital Century | David SEHYEON Baek | [Read More](https://medium.com/p/61e531645dfa) |
-| Fri, 24 Oct 2025 23:19:57 GMT | Vendor Risk Management and Privacy; Going beyond Questionnaires and Checklists | Tochi Obayi | [Read More](https://medium.com/p/5702b9175127) |
-| Fri, 24 Oct 2025 22:57:01 GMT | Linux for AI: Understanding Users, Permissions, and Ownership (Practice in WSL) | Rayan Yassminh | [Read More](https://medium.com/p/9d87dd395c5e) |
-| Fri, 24 Oct 2025 22:52:51 GMT | The Rising Cyber Threat Landscape in Africa: What Businesses Must Know | Blue King | [Read More](https://medium.com/p/e5c60cc87e01) |
