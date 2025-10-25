@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Oct 2025 23:02:41 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/66576c03a54c) |
+| Sat, 25 Oct 2025 22:54:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/8d7f12ff7300) |
+| Sat, 25 Oct 2025 22:47:05 GMT | The End of “I’m Not a Robot”: Why Your Phone’s Fingerprint Sensor is the New CAPTCHA | Saman Givian | [Read More](https://medium.com/p/348335cb509e) |
+| Sat, 25 Oct 2025 22:41:25 GMT | How i win 1100 USD in bug bounty and this change my life in Bolivia | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/8cc58bbeb681) |
 | Sat, 25 Oct 2025 22:32:17 GMT | Intrusion Detection Systems The Cyber Alarms That Never Sleep | Thegreatpayload | [Read More](https://medium.com/p/041594db477c) |
 | Sat, 25 Oct 2025 22:32:07 GMT | #2 Cyber Security yang Penting dalam Perusahaan! | Aditya Muhamad Putra P. | [Read More](https://medium.com/p/696411828e76) |
 | Sat, 25 Oct 2025 22:08:32 GMT | I Don’t Need the Ending to Be Kind | Kina Yn | [Read More](https://medium.com/p/cd20f0f7da54) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 14:14:24 GMT | Why Beginners Fail in Cyber Security | Abdullah Javeed | [Read More](https://medium.com/p/0a6b540f3201) |
 | Sat, 25 Oct 2025 14:13:18 GMT | EQUIFAX BREACH AND STUXNET WORM | Chiamaka Ezeike | [Read More](https://medium.com/p/403979697dc1) |
 | Sat, 25 Oct 2025 14:05:35 GMT | Why Leaders Fail: Knowing When to Push and When to Let Go | Vijay Kumar Gupta | [Read More](https://medium.com/p/47ae9c40fcad) |
-| Sat, 25 Oct 2025 13:59:20 GMT | Stories from the Frontlines of Tech and Security | Boris Agranovich | [Read More](https://medium.com/p/75b8a0f1ae89) |
-| Sat, 25 Oct 2025 13:56:17 GMT | Why Cybersecurity Is the Hottest Career of the Decade (and How to Get Started) | Code Link | [Read More](https://medium.com/p/2aa80115ab86) |
-| Sat, 25 Oct 2025 13:50:56 GMT | Inside the Evil twin attack: How hackers trick you on public Wi-Fi | GeekintheStreets | [Read More](https://medium.com/p/4366d3a91d71) |
-| Sat, 25 Oct 2025 13:50:28 GMT | Why Your ‘Secure’ Spring Boot App is a Disaster Waiting to Happen (And How Keycloak Saves You) | Shrawan | [Read More](https://medium.com/p/c3ca30a91ffa) |
