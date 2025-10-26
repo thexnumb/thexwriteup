@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 13:38:38 GMT | Building a Secure App-Habit: Your Personal Cyber Hygiene Toolkit | Aysha Misri | [Read More](https://medium.com/p/2733c903d736) |
+| Sun, 26 Oct 2025 13:38:13 GMT | The “ATT&CK Dynamo” Strategy: Real-Time AI Adaptive Defense | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/66f2cd094494) |
+| Sun, 26 Oct 2025 13:26:47 GMT | Automating the Boring Stuff: Creating a Vulnerability Management Bot with Python and JIRA | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9093752e8f74) |
 | Sun, 26 Oct 2025 13:19:50 GMT | Public Key Cryptography Basics — Writeup | Mahir | [Read More](https://medium.com/p/8e0b01ad910f) |
 | Sun, 26 Oct 2025 13:06:07 GMT | The $25.6 Million Call: How AI Deepfakes Became a Digital Epidemic (And How We Fight Back) | Arjun B | [Read More](https://medium.com/p/40a7ecf654eb) |
 | Sun, 26 Oct 2025 13:04:44 GMT | how i founded my first reflected XSS in public vdp on h1 | ali badr | [Read More](https://medium.com/p/d566ddcb63d3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 04:36:01 GMT | Privilege Escalation Turned a Regular User Into an Admin [part-1] | Senorita_01 | [Read More](https://medium.com/p/fbe3d82440ca) |
 | Sun, 26 Oct 2025 04:33:13 GMT | APK Malware Analysis Using Red Teaming Approach | Rizaldi Wahaz | [Read More](https://medium.com/p/e4cc6d5f9d79) |
 | Sun, 26 Oct 2025 04:30:04 GMT | Why I Stopped Paying for Commercial VPNs and Built My Own in 5 Minutes with Terraform | DemonDeLaplace | [Read More](https://medium.com/p/94496c47f45e) |
-| Sun, 26 Oct 2025 04:06:10 GMT | Tesla.com patched Exposed Damage Disclosure Files leaking VIN number after bugcrowd rejected my… | Krivadna | [Read More](https://medium.com/p/d6cafcaec98e) |
-| Sun, 26 Oct 2025 03:57:02 GMT | Advanced JWT Risks (Beyond the Basics) | Opsidian | [Read More](https://medium.com/p/75be479a2e5e) |
-| Sun, 26 Oct 2025 03:44:47 GMT | CSRF Lab Solution: Token Not Tied to User Session | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/4c84b58e20a0) |
