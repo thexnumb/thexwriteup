@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 06:02:22 GMT | Apache Security Guide for PHP Developers | Edgaras | [Read More](https://medium.com/p/f7553da33a14) |
+| Sun, 26 Oct 2025 05:57:09 GMT | OverTheWire Bandit Part 1 — Getting Started (Levels 0–5) | Bagaskarapd | [Read More](https://medium.com/p/b72e900563ce) |
+| Sun, 26 Oct 2025 05:53:38 GMT | How Hackers Really Think (And Why You Should Too) | Muhummad Zaki | [Read More](https://medium.com/p/954505de5440) |
+| Sun, 26 Oct 2025 05:43:31 GMT | HackSudo 3 — Walkthrough (VulnHub) | Vaibhav | [Read More](https://medium.com/p/385c8825aa2b) |
 | Sun, 26 Oct 2025 05:31:17 GMT | What does it mean to be authentic? | Glow Con Flow | [Read More](https://medium.com/p/9ee7d9f1168e) |
 | Sun, 26 Oct 2025 05:10:17 GMT | ️ AI + Cybersecurity: The New Battlefield for Enterprise Trust | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/06174b95b2e7) |
 | Sun, 26 Oct 2025 04:58:07 GMT | Microsoft Recall vs Rewind AI: Which Tool Should You Use? | nodminger | [Read More](https://medium.com/p/800442f76fe1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 17:03:04 GMT | Lab 1: Reflected XSS into HTML Context with Nothing Encoded | Apexium Technologies Ltd | [Read More](https://medium.com/p/7ba4fe35d78c) |
 | Sat, 25 Oct 2025 17:02:44 GMT | OPERATION AURORA | Chiamaka Ezeike | [Read More](https://medium.com/p/8d189abb0824) |
 | Sat, 25 Oct 2025 16:54:29 GMT | AI is Taking Over Cybersecurity But That Might Be a Good Thing | Xormium | [Read More](https://medium.com/p/dcbca4a4ec94) |
-| Sat, 25 Oct 2025 16:48:36 GMT | A Crybaby’s Confession | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/093f648ff8a1) |
-| Sat, 25 Oct 2025 16:46:46 GMT | Are AI Browser Agents Safe? Top Security Risks You Should Know | Tech Verse Today | [Read More](https://medium.com/p/31a4711478cf) |
-| Sat, 25 Oct 2025 16:42:13 GMT | Porta Transformacional: A Liderança Consciente na Era da Renovação Digital | Anderson Oliveira | [Read More](https://medium.com/p/a2d451058cfe) |
-| Sat, 25 Oct 2025 16:38:53 GMT | Installing Kerbrute on Linux/Ubuntu | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/677189605cd8) |
