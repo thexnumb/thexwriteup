@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 19:08:11 GMT | ILBLOGDICRISTIANGALLO.COM | Cristian Gallo | [Read More](https://medium.com/p/3584aea51be4) |
+| Sun, 26 Oct 2025 19:08:01 GMT | Tech Enthusiast: What I Learned About Cybersecurity by Building My Own Transparent Filtration… | Aaron Constant | [Read More](https://medium.com/p/9e1c41a71b92) |
+| Sun, 26 Oct 2025 19:03:01 GMT | Day 105 — Natas Series OverTheWire Walkthrough. | Jinay | [Read More](https://medium.com/p/2a3fac597134) |
+| Sun, 26 Oct 2025 18:52:37 GMT | 30 Days of Tech Resolutions: Day 16 — Security Checkup | Ben Taylor | [Read More](https://medium.com/p/08fad02eb118) |
+| Sun, 26 Oct 2025 18:51:15 GMT | ek0msUSB: When Your USB Drive Has More Backdoors Than IKEA (And The Manual To Use Them) | ekomsSavior | [Read More](https://medium.com/p/4b78fca0fa31) |
+| Sun, 26 Oct 2025 18:47:27 GMT | Rudra OSINT: Surgical Truth. Relentless Clarity. | Rudra Open Source Intelligence | [Read More](https://medium.com/p/1ef9e0ab600b) |
+| Sun, 26 Oct 2025 18:45:21 GMT | Complete Separability Analysis of Pure Quantum States Using Karnaugh Maps | Paulo BM Sousa | [Read More](https://medium.com/p/3ca86d59b39a) |
+| Sun, 26 Oct 2025 18:33:34 GMT | Why I rejected job offers and spent years learning the hard way | Maxime Siffert | [Read More](https://medium.com/p/f0c8687912b8) |
 | Sun, 26 Oct 2025 18:22:51 GMT | The Hidden Cost of CMMC Non-Compliance: Why Waiting Could Cost You Millions | Olivier Maignan | [Read More](https://medium.com/p/19150fe73aa3) |
 | Sun, 26 Oct 2025 18:22:21 GMT | My experience making a WAF | 1rhino2 | [Read More](https://medium.com/p/ed4b50a9d070) |
 | Sun, 26 Oct 2025 18:12:03 GMT | When the Plumbing Becomes the Product | Jim Collins | [Read More](https://medium.com/p/b1e21c78d7b2) |
@@ -105,11 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 11:54:41 GMT | Reality !!!check Are You Really Valuable??? | Mitterand Events And Management Consultancy W.L.L | [Read More](https://medium.com/p/fc5edc99b668) |
 | Sun, 26 Oct 2025 11:50:07 GMT | Networking Basics for Cybersecurity Students | Akorita Nehemiah | [Read More](https://medium.com/p/a0d770e68f9d) |
 | Sun, 26 Oct 2025 11:49:21 GMT | Etik Hacker Olma Kursu Bölüm 3: Ağlara Saldırmak | Ahmet Şimşek | [Read More](https://medium.com/p/872e903829c3) |
-| Sun, 26 Oct 2025 11:43:37 GMT | I Put 130+ DevSecOps Tools in One Container So You Don’t Have To (And Lived to Tell the Tale) | Er Jaydeepgohel | [Read More](https://medium.com/p/8f2aca246219) |
-| Sun, 26 Oct 2025 11:40:45 GMT | Etik Hacker Olma Kursu Bölüm 2: Ağlarla İlgili Bilgi Toplamak | Ahmet Şimşek | [Read More](https://medium.com/p/1423d349ca4e) |
-| Sun, 26 Oct 2025 11:39:54 GMT | Etik Hacker Olma Kursu Bölüm 1: Ağlara Saldırmak için Ayarlar | Ahmet Şimşek | [Read More](https://medium.com/p/987bfcca27d5) |
-| Sun, 26 Oct 2025 11:37:55 GMT | OWASP Juice Shop TryHackMe Write-Up  Ethical Hacking Walkthrough by Yousef Amr - SQLi, XSS… | Yousef Amr | [Read More](https://medium.com/p/5d3229595cc3) |
-| Sun, 26 Oct 2025 11:35:30 GMT | The Future of Cybersecurity: Trends, Technologies, and Challenges Shaping 2025 and Beyond | Fasieha Mehar | [Read More](https://medium.com/p/c3bac0cc8c80) |
-| Sun, 26 Oct 2025 11:32:45 GMT | How I Became the Unofficial Company Archivist (And Saw Things I Can’t Unsee) | Iski | [Read More](https://medium.com/p/626c711831e4) |
-| Sun, 26 Oct 2025 11:31:01 GMT | Crafting Custom Network Scanners with Scapy in Python | Vaibhav | [Read More](https://medium.com/p/41cb6d024c71) |
-| Sun, 26 Oct 2025 11:23:49 GMT | Cupid Matching of the Seekers & Sellers: Data on People or Data of People? | Ekata Deb | [Read More](https://medium.com/p/e04e4938995b) |
