@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 23:05:07 GMT | Your Brand Deserves More Than Design — It Deserves Protection | Sonny Parker | [Read More](https://medium.com/p/f928b4269c78) |
+| Sun, 26 Oct 2025 23:04:49 GMT | Exclusive BUG Bonuses & Rewards — October 2025 | BUG | [Read More](https://medium.com/p/ef1a8e17b453) |
+| Sun, 26 Oct 2025 22:41:57 GMT | Introduction to Cybersecurity | Alaa A | [Read More](https://medium.com/p/d7e1fca2db8d) |
+| Sun, 26 Oct 2025 22:37:27 GMT | Mr. Robot’s Crackwhore Fentanyl Fiend: The Untold Story of Elliot Alderson | Justas_b | [Read More](https://medium.com/p/c869039bf9df) |
+| Sun, 26 Oct 2025 22:27:32 GMT | Detecting AI-Manipulated and AI-Generated Images Using Multi-Modal Forensics | Saif hammad | [Read More](https://medium.com/p/ad909a27e318) |
 | Sun, 26 Oct 2025 22:26:48 GMT | Global Input Sanitization in Angular: A Centralized Security Approach | Louis Trinh | [Read More](https://medium.com/p/1902cfdfcc65) |
 | Sun, 26 Oct 2025 22:13:06 GMT | The Panda’s Omen: HackTheboo CTF Practice OSINT | Bridget | [Read More](https://medium.com/p/3573971f51e5) |
 | Sun, 26 Oct 2025 22:08:48 GMT | Advanced Bug Bounty Recon: A Methodology That Uncovers Hidden Vulnerabilities | Santhosh Adiga U | [Read More](https://medium.com/p/7450bcf5200f) |
@@ -108,8 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 14:20:38 GMT | PhishStrike Lab | Ismaelggm | [Read More](https://medium.com/p/7a6ae090474c) |
 | Sun, 26 Oct 2025 14:18:17 GMT | I Spent 24 Hours Hardening My Stack (and Somehow Made It Friendlier Too) | Tyler Johnston-Kent | [Read More](https://medium.com/p/395e4d39dead) |
 | Sun, 26 Oct 2025 14:17:41 GMT | Cybersecurity Architecture Models for OT and IIoT Environments | Zrhmz | [Read More](https://medium.com/p/abdad183a00b) |
-| Sun, 26 Oct 2025 14:11:13 GMT | Rising Demand for Cybersecurity Experts in India: Top Careers and Salary Insights | Faraz Weerabangsa | [Read More](https://medium.com/p/387b13ef09e2) |
-| Sun, 26 Oct 2025 14:11:13 GMT | CSI: Linux — Hunting for Persistence in the Ironshade Room ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/8820b8457ce0) |
-| Sun, 26 Oct 2025 14:07:12 GMT | RSA Encryption and FrequencyAnalysis | Riccardo Giacinti | [Read More](https://medium.com/p/2d31f3837c5e) |
-| Sun, 26 Oct 2025 14:02:20 GMT | The Assessor’s Gambit: A Deep Dive into White, Gray, and Black Box Penetration Testing | Giorgi Akhobadze | [Read More](https://medium.com/p/5de7c7cf42aa) |
-| Sun, 26 Oct 2025 14:01:54 GMT | How SentryPC Empowers Businesses to Build Trust and Transparency in the Digital Workplace | Paul Meyer | [Read More](https://medium.com/p/1dbd919cf0e3) |
