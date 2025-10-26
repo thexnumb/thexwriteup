@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 08:15:34 GMT | How AI Automates Cyberattack Reconnaissance: The New Era of Digital Threats | Monujangra | [Read More](https://medium.com/p/8901c6a35bbc) |
+| Sun, 26 Oct 2025 08:15:16 GMT | ​Unstoppable Engine: The Generation of AI Hacks is Different Beast | Guria | [Read More](https://medium.com/p/5be8429dcece) |
+| Sun, 26 Oct 2025 08:11:51 GMT | AI-Powered Ransomware Threats | Shailendra Kumar | [Read More](https://medium.com/p/6ef141c50758) |
+| Sun, 26 Oct 2025 08:01:30 GMT | Understanding Ethical Hacking: The Profession of Digital Security Protection | Abdifatah Hassan Roble | [Read More](https://medium.com/p/74935cf5b3d4) |
+| Sun, 26 Oct 2025 08:00:18 GMT | ️ Key Highlights from the CrowdStrike 2025 APJ eCrime Landscape Report | Balasubramaniam GD | [Read More](https://medium.com/p/14f53240d2f4) |
+| Sun, 26 Oct 2025 08:00:09 GMT | Yes, You Can Check Your Bank Account at the Airport Wi-Fi Without Summoning Hackers | Faizan Saghir | [Read More](https://medium.com/p/a8afff3b97a3) |
+| Sun, 26 Oct 2025 07:58:48 GMT | Redtiger-tools: Python Multi-tool Suite | Yaniv | [Read More](https://medium.com/p/461612523840) |
+| Sun, 26 Oct 2025 07:56:28 GMT | Why Do I Need a VPN to Read Medium in India? A Frustrated User’s Perspective | Pushpkukreja | [Read More](https://medium.com/p/7c63f0465e2e) |
+| Sun, 26 Oct 2025 07:51:43 GMT | LACE UP!! — The Real Meaning of Leadership in the Digital Battlefield | Vijay Kumar Gupta | [Read More](https://medium.com/p/b8c88e0e67ec) |
+| Sun, 26 Oct 2025 07:49:26 GMT | The Builder’s Notes: Why HIPAA Compliance Breaks Every LLM Implementation | Piyoosh Rai | [Read More](https://medium.com/p/282f755c8fb4) |
+| Sun, 26 Oct 2025 07:36:50 GMT | Can You Really Trust AI? The Truth Behind Its Beautiful Lies. | Santosh Shelar | [Read More](https://medium.com/p/c555df189c39) |
 | Sun, 26 Oct 2025 07:17:25 GMT | Cyber ZeroTrace Bangladesh — The Next Generation of Ethical Cyber Defensev | Erfan Alahi Balam | [Read More](https://medium.com/p/0b2a51893a25) |
 | Sun, 26 Oct 2025 07:16:40 GMT | Why I Chose Cybersecurity and My First Steps | Deneth Vihara | [Read More](https://medium.com/p/31455727cd97) |
 | Sun, 26 Oct 2025 07:14:54 GMT | How AI Media Generation APIs Are Transforming Digital Content | Srdjan Jovanovic | [Read More](https://medium.com/p/abab30537f0e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 20:03:38 GMT | Dark Side of Developer Screening Projects on LinkedIn — and What Every Developer Should Know | Aryavhirkoul | [Read More](https://medium.com/p/8fcbb31f869b) |
 | Sat, 25 Oct 2025 19:55:56 GMT | TheHackersLabs — THLPWN [Write Up] | APS88 | [Read More](https://medium.com/p/72ef1444e8e2) |
 | Sat, 25 Oct 2025 19:44:57 GMT | Using an AI browser? You might already be hacked! | Utkarsh Agrawal | [Read More](https://medium.com/p/32768f3e7380) |
-| Sat, 25 Oct 2025 19:44:39 GMT | No System is Perfect: 10 Steps to Bulletproof Your Web App Infrastructure | John Muconto | [Read More](https://medium.com/p/df1afdb9cd73) |
-| Sat, 25 Oct 2025 19:42:37 GMT | FortiGate 40F vs 60F | SAM Romania | [Read More](https://medium.com/p/2b816a4b3440) |
-| Sat, 25 Oct 2025 19:41:38 GMT | My First Four Hacks: Learning to Think Like a Hacker (Right from VS Code) | Damian Griggs | [Read More](https://medium.com/p/2894b605b179) |
-| Sat, 25 Oct 2025 19:39:43 GMT | SysAid On-Prem Pre-Auth RCE Chain | Cybersecplayground | [Read More](https://medium.com/p/65fcb6602d60) |
-| Sat, 25 Oct 2025 19:36:51 GMT | I Set Up My First SSH Honeypot (Here’s How You Can Too) | Harsh Raj Singhania | [Read More](https://medium.com/p/1324ccd63663) |
-| Sat, 25 Oct 2025 19:14:29 GMT | Reflected XSS with Base64 — Breaching Obscurity in Seconds | embossdotar | [Read More](https://medium.com/p/38e3ca07b085) |
-| Sat, 25 Oct 2025 18:43:12 GMT | CORS Busters: Quick Hacks for Local Dev (Chrome, Edge, Firefox, Safari) | Raja Sekar Durairaj | [Read More](https://medium.com/p/bd06bd93dc3a) |
-| Sat, 25 Oct 2025 18:33:24 GMT | I whispered my truth into your silence | Poppy Sindral | [Read More](https://medium.com/p/49f75c924b78) |
-| Sat, 25 Oct 2025 18:08:57 GMT | Web Cache Poisoning : Ancaman di Balik Kecepatan | Dani Ilman | [Read More](https://medium.com/p/67da01a9a8f4) |
-| Sat, 25 Oct 2025 18:08:27 GMT | Why Headline Bounty Stories Mislead (and what actually builds a real security career) | Mandar Satam | [Read More](https://medium.com/p/1b5b7dcdb4ae) |
-| Sat, 25 Oct 2025 18:03:24 GMT | Mastering Fileless Persistence on Linux: Techniques, Real-World Examples, and Proactive Defenses | Very Lazy Tech | [Read More](https://medium.com/p/c249012f7533) |
