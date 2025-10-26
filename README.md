@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 16:39:12 GMT | Post-Exploitation with Mimikatz: What Every Defender Should Know | Cybersensus | [Read More](https://medium.com/p/c7a93c9ca7ce) |
+| Sun, 26 Oct 2025 16:38:28 GMT | Malware Analysis: Vidar Stealer 2.0 -A Rebuilt, Faster, and Smarter Infostealer Dominating 2025 | Jon C | [Read More](https://medium.com/p/3f246a98a385) |
+| Sun, 26 Oct 2025 16:35:50 GMT | 99% Innovation 1% Governance | Adebukola | [Read More](https://medium.com/p/c0e8b5d96d18) |
+| Sun, 26 Oct 2025 16:35:48 GMT | The Convergence of Catastrophe: Why the AWS Outage, JLR Hack, and Agentic AI Signal a New Era of… | Aneeqibtesam | [Read More](https://medium.com/p/bca34e14d5d7) |
+| Sun, 26 Oct 2025 16:27:03 GMT | Your Guide to Seamless Accounts Payable Automation | Vishwajeettechtech | [Read More](https://medium.com/p/ff1006e1e3b8) |
+| Sun, 26 Oct 2025 16:26:38 GMT | choose love, always | parichaya manjunath | [Read More](https://medium.com/p/7c01b549e861) |
 | Sun, 26 Oct 2025 16:13:24 GMT | Pentesting Firebase | Ramiz Osmanov | [Read More](https://medium.com/p/f723fd510dce) |
 | Sun, 26 Oct 2025 16:04:16 GMT | The Universal Union: Anatomy of a Digital Empire | RandomGPT | [Read More](https://medium.com/p/da0893c6a210) |
 | Sun, 26 Oct 2025 15:54:17 GMT | Factory vs. Constructor Functions: A Developer’s “Must-Know” | Tech With Curly Girl | [Read More](https://medium.com/p/ca8683660842) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 09:43:03 GMT | How I Found an Active Ransomware Leak — and Stopped It | Hania Khan | [Read More](https://medium.com/p/df77c26b4c1e) |
 | Sun, 26 Oct 2025 09:26:41 GMT | Resolviendo la máquina NodeCeption (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/7b8747911bfd) |
 | Sun, 26 Oct 2025 09:24:52 GMT | Tryhackme Walkthrough: Road | Indigo Shadow | [Read More](https://medium.com/p/37a9f1c713b7) |
-| Sun, 26 Oct 2025 09:24:28 GMT | Bluetooth Mimarisi ve Temel Kavramlar-3 | Alperkandemir | [Read More](https://medium.com/p/e10b975616cd) |
-| Sun, 26 Oct 2025 09:22:45 GMT | What I Learned Living Between Two Cybersecurity Worlds | florianetchoubou | [Read More](https://medium.com/p/440c07dbc1a3) |
-| Sun, 26 Oct 2025 09:20:18 GMT | Cyber Fraud and the Erosion of Digital Trust | Mike Masoud, CACL, CACM, CFE, MIPA AFA, MBA | [Read More](https://medium.com/p/ab81fc97ad0f) |
-| Sun, 26 Oct 2025 09:19:43 GMT | Is Your Website Really Bulletproof? | Freelance Planet Guide! | [Read More](https://medium.com/p/6dcfb60ea3f3) |
-| Sun, 26 Oct 2025 09:06:52 GMT | How AI is Changing Cybersecurity: From Phishing Detection to LLM Defenders | Akshay Subhash | [Read More](https://medium.com/p/0b9a8d4d2d91) |
-| Sun, 26 Oct 2025 09:06:38 GMT | YouTube Ghost Network: How 3,000 Videos Stole Thousands of Passwords | Patrik Žák | [Read More](https://medium.com/p/51d3bbb27fcf) |
