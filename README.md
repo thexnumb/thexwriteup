@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 03:44:47 GMT | CSRF Lab Solution: Token Not Tied to User Session | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/4c84b58e20a0) |
+| Sun, 26 Oct 2025 03:42:08 GMT | JSON ResponseDisclosure: From Recon to Advanced Detection | Monika sharma | [Read More](https://medium.com/p/3413df37461c) |
+| Sun, 26 Oct 2025 03:39:33 GMT | Daily Insight Hub: Exploring the Future of Innovation and Technology | Ashrafhossen | [Read More](https://medium.com/p/9ae3602bf0e0) |
+| Sun, 26 Oct 2025 03:31:54 GMT | Nissan’s Design Studio Breach: Dissecting the Qilin Ransomware Strike | Deven Chhajed | [Read More](https://medium.com/p/1fb350a9cb56) |
+| Sun, 26 Oct 2025 03:20:07 GMT | 7 JavaScript Bugs That Drive Developers Crazy — and How to Actually Fix Them | Rizqi Mulki | [Read More](https://medium.com/p/099341e245a5) |
+| Sun, 26 Oct 2025 03:18:44 GMT | Vegeta1 | Diego Maia | [Read More](https://medium.com/p/ed1e7224ae59) |
+| Sun, 26 Oct 2025 03:14:02 GMT | Is Artificial Intelligence Dangerous? | Grigorios Avramidis | [Read More](https://medium.com/p/38a632cfae46) |
 | Sun, 26 Oct 2025 02:55:39 GMT | 5 Real Benefits of Using Domain-Driven Design (DDD) in Modern Software Development | Rizqi Mulki | [Read More](https://medium.com/p/5b71957565e6) |
 | Sun, 26 Oct 2025 02:41:15 GMT | The Cybersecurity Secret No One Talks About (And It’s Costing Startups Millions) | Hania Khan | [Read More](https://medium.com/p/980f4da938c9) |
 | Sun, 26 Oct 2025 02:41:03 GMT | Top 10 Cyber Attacks You Can’t Miss(October 18 — October 25, 2025) | Siva Desetti | [Read More](https://medium.com/p/47ce92ea83e1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 15:49:47 GMT | When Your AI Browser Agent Gets You Fired: The Accountability Crisis No One Is Talking About | Nanthakumar | [Read More](https://medium.com/p/e356bd5031af) |
 | Sat, 25 Oct 2025 15:49:23 GMT | THE EXPLOIT ISN’T THE HACK. THE TIMING IS | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/57c5936e9d27) |
 | Sat, 25 Oct 2025 15:47:28 GMT | The CIA Triad: The Foundation of Information Security | Ferdi Edogawa | [Read More](https://medium.com/p/29ec259b7161) |
-| Sat, 25 Oct 2025 15:46:11 GMT | Boosting Cybersecurity Risk Awareness: Strategies That Actually Work | Compciti | [Read More](https://medium.com/p/8ded68773cc5) |
-| Sat, 25 Oct 2025 15:38:02 GMT | Info Tech Net | Info Tech Net | [Read More](https://medium.com/p/2a7710184a06) |
-| Sat, 25 Oct 2025 15:37:12 GMT | Blockchains Scrambled and Oasis is Untouched | Blockchainer | [Read More](https://medium.com/p/d714d00db748) |
-| Sat, 25 Oct 2025 15:35:14 GMT | Digital Declutter: Why You Should Uninstall Unused Apps | Aysha Misri | [Read More](https://medium.com/p/76230ff35a70) |
-| Sat, 25 Oct 2025 15:31:05 GMT | SIEM Basics | lukewago | [Read More](https://medium.com/p/c03bde388064) |
-| Sat, 25 Oct 2025 15:28:47 GMT | Topic 38: CSS Flexbox (Flexible Box Layout) | Rana Awais | [Read More](https://medium.com/p/51ca3d7403d3) |
-| Sat, 25 Oct 2025 15:24:30 GMT | Why Every Business Needs a VPN for Better Security ? | Technologia | [Read More](https://medium.com/p/8ceab6330ce4) |
