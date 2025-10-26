@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 11:32:45 GMT | How I Became the Unofficial Company Archivist (And Saw Things I Can’t Unsee) | Iski | [Read More](https://medium.com/p/626c711831e4) |
+| Sun, 26 Oct 2025 11:31:01 GMT | Crafting Custom Network Scanners with Scapy in Python | Vaibhav | [Read More](https://medium.com/p/41cb6d024c71) |
+| Sun, 26 Oct 2025 11:23:49 GMT | Cupid Matching of the Seekers & Sellers: Data on People or Data of People? | Ekata Deb | [Read More](https://medium.com/p/e04e4938995b) |
+| Sun, 26 Oct 2025 11:15:56 GMT | Where the Attention Flows, the Brain Goes | Ekata Deb | [Read More](https://medium.com/p/144273957fbb) |
 | Sun, 26 Oct 2025 11:02:33 GMT | Massive Cyberattack Wave Hits 40 Countries — Experts Say This Is Just The Beginning | NidoDesigns | [Read More](https://medium.com/p/748371cb8a5f) |
 | Sun, 26 Oct 2025 10:58:36 GMT | Hack The Box: Cap Writeup (Easy Linux Machine) | Maxwell Ferreira | [Read More](https://medium.com/p/8e0708e22e9c) |
 | Sun, 26 Oct 2025 10:56:06 GMT | Cryptography Basics — Writeup | Mahir | [Read More](https://medium.com/p/e3a3cfa0b18b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 23:51:27 GMT | Reference Architecture for Securing Data Flows Across Enterprise AI Systems Consuming LLMs | Shittu | [Read More](https://medium.com/p/b15fb9fedb0d) |
 | Sat, 25 Oct 2025 23:29:05 GMT | SOC Role in Blue Team | Tony Khalil Rodgers | [Read More](https://medium.com/p/418b2e619aa4) |
 | Sat, 25 Oct 2025 23:27:38 GMT | Exploring AppArmor Profiles with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/73480515258f) |
-| Sat, 25 Oct 2025 23:19:56 GMT | Three Commands. One Quiet Lab. | DuckWrites | [Read More](https://medium.com/p/d05701c10066) |
-| Sat, 25 Oct 2025 23:02:41 GMT | DevSecOps Challenges in Hybrid Cloud | DevOps Security Hub | [Read More](https://medium.com/p/66576c03a54c) |
-| Sat, 25 Oct 2025 22:54:00 GMT | Zero Trust Principles in DevSecOps Environments | DevOps Security Hub | [Read More](https://medium.com/p/8d7f12ff7300) |
-| Sat, 25 Oct 2025 22:47:05 GMT | The End of “I’m Not a Robot”: Why Your Phone’s Fingerprint Sensor is the New CAPTCHA | Saman Givian | [Read More](https://medium.com/p/348335cb509e) |
