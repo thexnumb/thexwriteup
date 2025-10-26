@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 17:16:29 GMT | How To Not Get in Trouble Finding Beg Bounties | Rehan Sohail | [Read More](https://medium.com/p/bee02cbef619) |
 | Sun, 26 Oct 2025 17:12:55 GMT | When AI Becomes Intuition: Why the Real Superpower Isn’t Algorithms. | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/c457f660367a) |
 | Sun, 26 Oct 2025 16:52:55 GMT | Why Test Automation Fails — And How to Prevent It
 Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](https://medium.com/p/a4f37b542a14) |
@@ -112,4 +113,3 @@ Subtitle: Practical, step-by-step guidance to… | Samsur Rahaman | [Read More](
 | Sun, 26 Oct 2025 10:04:47 GMT | Why Python Feels Faster Than C++ — And Why That Actually Matters | Rizqi Mulki | [Read More](https://medium.com/p/1dc0d2ed8fad) |
 | Sun, 26 Oct 2025 09:57:38 GMT | How I Learned Runtime Encryption In 3 Days | William Coffey | [Read More](https://medium.com/p/8616234e8571) |
 | Sun, 26 Oct 2025 09:55:03 GMT | When Fame Becomes a Weapon: How Impersonation Scams Thrive | Ericabrookssf | [Read More](https://medium.com/p/726ecac865a7) |
-| Sun, 26 Oct 2025 09:45:28 GMT | What is SQL ?Understanding the Language of Databases | PRAVEEN J | [Read More](https://medium.com/p/0e0105eb2f7e) |
