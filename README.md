@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 12:31:52 GMT | Android Flaw + Cloud Misconfigs + Account Takeover = Disaster⚡ | VETTRIVEL | [Read More](https://medium.com/p/c17e2d291ef3) |
+| Sun, 26 Oct 2025 12:31:08 GMT | How I Hacked NASA | Pawan parmar | [Read More](https://medium.com/p/09c33a813c48) |
+| Sun, 26 Oct 2025 12:25:46 GMT | [OverTheWire] Bandit Level 10 → 11 | H$nt | [Read More](https://medium.com/p/803998670bcc) |
+| Sun, 26 Oct 2025 12:23:08 GMT | [OverTheWire] Bandit Level 9 → 10 | H$nt | [Read More](https://medium.com/p/e91d2630dbcf) |
+| Sun, 26 Oct 2025 12:22:35 GMT | Installing Wazuh on Raspberry Pi 5 — Turning a Tiny Board into a SIEM Powerhouse | Leonid | [Read More](https://medium.com/p/f92602fc1afa) |
+| Sun, 26 Oct 2025 12:20:41 GMT | DockerLabs Writeup — Status (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/41550d6f2750) |
+| Sun, 26 Oct 2025 12:19:45 GMT | Weekly Roundup — October 25 | litwtch | [Read More](https://medium.com/p/34cd76ab9be7) |
+| Sun, 26 Oct 2025 12:18:28 GMT | [OverTheWire] Bandit Level 8 → 9 | H$nt | [Read More](https://medium.com/p/d911eee28a51) |
+| Sun, 26 Oct 2025 12:17:56 GMT | Web Zafiyetleri Serisi #7 | Didem Kış | [Read More](https://medium.com/p/35eca80168ab) |
+| Sun, 26 Oct 2025 12:17:26 GMT | Exploiting SVG Upload Vulnerabilities: A Deep Dive into Stored XSS | Sheik Mohammad | [Read More](https://medium.com/p/430e9bb1cee1) |
+| Sun, 26 Oct 2025 12:13:10 GMT | From ISO to DORA: Who Wants You to Hack Yourself — and How Often | Richard Mader | [Read More](https://medium.com/p/659b7631e5f0) |
+| Sun, 26 Oct 2025 12:09:14 GMT | Kubernetes Networking, Demystified: From Control Plane to Packets on the Wire | akhil mittal | [Read More](https://medium.com/p/f66a5db4a936) |
+| Sun, 26 Oct 2025 12:01:57 GMT | Securing Azure Application Gateway: Addressing Critical Vulnerabilities Through TLS and HTTP/2… | Sridhar | [Read More](https://medium.com/p/416573c0a61f) |
+| Sun, 26 Oct 2025 11:54:41 GMT | Reality !!!check Are You Really Valuable??? | Mitterand Events And Management Consultancy W.L.L | [Read More](https://medium.com/p/fc5edc99b668) |
+| Sun, 26 Oct 2025 11:50:07 GMT | Networking Basics for Cybersecurity Students | Akorita Nehemiah | [Read More](https://medium.com/p/a0d770e68f9d) |
+| Sun, 26 Oct 2025 11:49:21 GMT | Etik Hacker Olma Kursu Bölüm 3: Ağlara Saldırmak | Ahmet Şimşek | [Read More](https://medium.com/p/872e903829c3) |
+| Sun, 26 Oct 2025 11:43:37 GMT | I Put 130+ DevSecOps Tools in One Container So You Don’t Have To (And Lived to Tell the Tale) | Er Jaydeepgohel | [Read More](https://medium.com/p/8f2aca246219) |
+| Sun, 26 Oct 2025 11:40:45 GMT | Etik Hacker Olma Kursu Bölüm 2: Ağlarla İlgili Bilgi Toplamak | Ahmet Şimşek | [Read More](https://medium.com/p/1423d349ca4e) |
+| Sun, 26 Oct 2025 11:37:55 GMT | OWASP Juice Shop TryHackMe Write-Up  Ethical Hacking Walkthrough by Yousef Amr - SQLi, XSS… | Yousef Amr | [Read More](https://medium.com/p/5d3229595cc3) |
+| Sun, 26 Oct 2025 11:35:30 GMT | The Future of Cybersecurity: Trends, Technologies, and Challenges Shaping 2025 and Beyond | Fasieha Mehar | [Read More](https://medium.com/p/c3bac0cc8c80) |
 | Sun, 26 Oct 2025 11:32:45 GMT | How I Became the Unofficial Company Archivist (And Saw Things I Can’t Unsee) | Iski | [Read More](https://medium.com/p/626c711831e4) |
 | Sun, 26 Oct 2025 11:31:01 GMT | Crafting Custom Network Scanners with Scapy in Python | Vaibhav | [Read More](https://medium.com/p/41cb6d024c71) |
 | Sun, 26 Oct 2025 11:23:49 GMT | Cupid Matching of the Seekers & Sellers: Data on People or Data of People? | Ekata Deb | [Read More](https://medium.com/p/e04e4938995b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 03:14:02 GMT | Is Artificial Intelligence Dangerous? | Grigorios Avramidis | [Read More](https://medium.com/p/38a632cfae46) |
 | Sun, 26 Oct 2025 02:55:39 GMT | 5 Real Benefits of Using Domain-Driven Design (DDD) in Modern Software Development | Rizqi Mulki | [Read More](https://medium.com/p/5b71957565e6) |
 | Sun, 26 Oct 2025 02:41:15 GMT | The Cybersecurity Secret No One Talks About (And It’s Costing Startups Millions) | Hania Khan | [Read More](https://medium.com/p/980f4da938c9) |
-| Sun, 26 Oct 2025 02:41:03 GMT | Top 10 Cyber Attacks You Can’t Miss(October 18 — October 25, 2025) | Siva Desetti | [Read More](https://medium.com/p/47ce92ea83e1) |
-| Sun, 26 Oct 2025 02:34:06 GMT | Comment Installer GNS3 et GNS3VM sur Windows ? | Leonel Awouma | [Read More](https://medium.com/p/7a666a177f01) |
-| Sun, 26 Oct 2025 02:33:23 GMT | Building an Enterprise Cloud Security Governance Platform with Policy-as-Code (OPA, Terraform, AWS) | Akuphe Dieudonne | [Read More](https://medium.com/p/446bff75179b) |
-| Sun, 26 Oct 2025 02:31:29 GMT | How to Get More Done by Doing Less | Global Whirl of Wonders | [Read More](https://medium.com/p/fd37230432b3) |
-| Sun, 26 Oct 2025 02:03:18 GMT | Securing Software in the Era of AI-Generated Code | Valentin Podkamennyi | [Read More](https://medium.com/p/d6026b58ab27) |
-| Sun, 26 Oct 2025 01:51:39 GMT | IBM’s Predictive AI Push: From Cybersecurity Innovation to Business Revival | Nathaniel Niyazov | [Read More](https://medium.com/p/f4da7b314a27) |
-| Sun, 26 Oct 2025 01:49:23 GMT | Rackspace Kubernetes Cluster Survival Guide | Marcus Patman | [Read More](https://medium.com/p/9ad427d4db90) |
-| Sun, 26 Oct 2025 01:38:47 GMT | Pen Testing: It’s actually enjoyable! | Bright Omari Owusu | [Read More](https://medium.com/p/20dde17ff28a) |
-| Sun, 26 Oct 2025 01:32:29 GMT | Summit Walkthrough (TryHackMe Challenge) | Brooke Beasley | [Read More](https://medium.com/p/b8e649464c3d) |
-| Sun, 26 Oct 2025 01:16:49 GMT | Understanding CVSS | Marian Joseph Jeffrey John | [Read More](https://medium.com/p/ed70a03e8e06) |
-| Sun, 26 Oct 2025 01:10:14 GMT | Case Study: The Ad for a Fake Shop That Was Actually a Data-Stealing Framework | Om Kinkhabwala | [Read More](https://medium.com/p/106f5da6d11b) |
-| Sun, 26 Oct 2025 00:33:30 GMT | The Static Secret Exodus: Why 95% of Teams Are Ditching Traditional Credentials | Aj | [Read More](https://medium.com/p/d7741751d05e) |
-| Sun, 26 Oct 2025 00:31:13 GMT | Part 1 of Abusing Envoy+Kubernetes Staging Servers & Verb Tampering to achieve XSS, IDORs, and… | Alimuhammadsecured | [Read More](https://medium.com/p/8f4620c035b2) |
-| Sun, 26 Oct 2025 00:12:30 GMT | It Was Just a Glitch Until It Blocked Thousands of Cards | Mustapha Ajibade | [Read More](https://medium.com/p/251e807c9c07) |
-| Sun, 26 Oct 2025 00:01:11 GMT | The Stego Chronicles: Rhadamanthys, Fezbox, & Astaroth Use Steganographic Payloads | z3r0trust | [Read More](https://medium.com/p/e4ad50983027) |
-| Sat, 25 Oct 2025 23:58:27 GMT | Linux Penetration Testing | LinuxDev | [Read More](https://medium.com/p/1379f7d21275) |
-| Sat, 25 Oct 2025 23:51:46 GMT | System CA on Android: How to Install & Work Around Modern Restrictions | Rohit Suresh Borate | [Read More](https://medium.com/p/c570f000ab9a) |
-| Sat, 25 Oct 2025 23:51:27 GMT | Reference Architecture for Securing Data Flows Across Enterprise AI Systems Consuming LLMs | Shittu | [Read More](https://medium.com/p/b15fb9fedb0d) |
-| Sat, 25 Oct 2025 23:29:05 GMT | SOC Role in Blue Team | Tony Khalil Rodgers | [Read More](https://medium.com/p/418b2e619aa4) |
-| Sat, 25 Oct 2025 23:27:38 GMT | Exploring AppArmor Profiles with Real World Scenarios | Eren Cankut Uysal | [Read More](https://medium.com/p/73480515258f) |
