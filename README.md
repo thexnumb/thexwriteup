@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 10:38:15 GMT | Smart Rupiya loan   Helpline Toll free  … | Smart Rupiya loan   Helpline | [Read More](https://medium.com/p/d152c7c0450d) |
+| Sun, 26 Oct 2025 10:31:51 GMT | Understanding SSH (Secure Shell): The Secret Tunnel of the Internet | Natarajan C K | [Read More](https://medium.com/p/cefbcdd226a7) |
+| Sun, 26 Oct 2025 10:24:09 GMT | CTF Writeup — MarkdownSmartPreview (EJS SSTI) — Steps & PoC | SaLeH | [Read More](https://medium.com/p/4eb2670c8db7) |
+| Sun, 26 Oct 2025 10:23:18 GMT | From Zero to Cybersecurity and AI | Nice Place | [Read More](https://medium.com/p/de877bbc23be) |
 | Sun, 26 Oct 2025 10:13:10 GMT | 180 Days Till I Write My SSCP Exam | BYTE BY OSKA | [Read More](https://medium.com/p/bdb9c3bffb73) |
+| Sun, 26 Oct 2025 10:09:20 GMT | Nmap: The Basics — Writeup | Mahir | [Read More](https://medium.com/p/c524360be3e4) |
 | Sun, 26 Oct 2025 10:04:47 GMT | Why Python Feels Faster Than C++ — And Why That Actually Matters | Rizqi Mulki | [Read More](https://medium.com/p/1dc0d2ed8fad) |
 | Sun, 26 Oct 2025 09:57:38 GMT | How I Learned Runtime Encryption In 3 Days | William Coffey | [Read More](https://medium.com/p/8616234e8571) |
 | Sun, 26 Oct 2025 09:55:03 GMT | When Fame Becomes a Weapon: How Impersonation Scams Thrive | Ericabrookssf | [Read More](https://medium.com/p/726ecac865a7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 22:32:07 GMT | #2 Cyber Security yang Penting dalam Perusahaan! | Aditya Muhamad Putra P. | [Read More](https://medium.com/p/696411828e76) |
 | Sat, 25 Oct 2025 22:08:32 GMT | I Don’t Need the Ending to Be Kind | Kina Yn | [Read More](https://medium.com/p/cd20f0f7da54) |
 | Sat, 25 Oct 2025 22:08:29 GMT | Building SOC Homelab -2 SIEM Enviroments | Nurettin Eraslan | [Read More](https://medium.com/p/8e76b9853980) |
-| Sat, 25 Oct 2025 22:07:34 GMT | Motivation versus Mindset in Cloud Security | Yusha_kahn | [Read More](https://medium.com/p/87a4a8569639) |
-| Sat, 25 Oct 2025 22:04:25 GMT | Cloud Security Essentials: Lessons from Real-World Breaches ☁️ | Amir Hossein jafari Chashmi | [Read More](https://medium.com/p/2f1fbb997807) |
-| Sat, 25 Oct 2025 21:44:00 GMT | [HackTheBox x VulnLab Write-up] Reset (Log poisoning, Trusted user with rlogin and tmux) | Chicken0248 | [Read More](https://medium.com/p/ef09f029d9e7) |
-| Sat, 25 Oct 2025 21:41:13 GMT | My Journey into Cybersecurity | Marta Dee | [Read More](https://medium.com/p/23b541c82c57) |
-| Sat, 25 Oct 2025 21:36:37 GMT | Devvortex  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/d07e9e21f239) |
