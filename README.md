@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 16:13:24 GMT | Pentesting Firebase | Ramiz Osmanov | [Read More](https://medium.com/p/f723fd510dce) |
+| Sun, 26 Oct 2025 16:04:16 GMT | The Universal Union: Anatomy of a Digital Empire | RandomGPT | [Read More](https://medium.com/p/da0893c6a210) |
+| Sun, 26 Oct 2025 15:54:17 GMT | Factory vs. Constructor Functions: A Developer’s “Must-Know” | Tech With Curly Girl | [Read More](https://medium.com/p/ca8683660842) |
+| Sun, 26 Oct 2025 15:53:47 GMT | Cryptography — A Practical, Beginner-Friendly Guide | Abhinsubej | [Read More](https://medium.com/p/6656b14e43c3) |
+| Sun, 26 Oct 2025 15:49:43 GMT | 30 Days of Red Team: Day 1 — Understanding the Kill Chain (Your Roadmap to Domain Admin) | Maxwell Cross | [Read More](https://medium.com/p/9e496bbf91dd) |
+| Sun, 26 Oct 2025 15:45:21 GMT | Was macht eine Krypto-Wallet sicher? | Estoy | [Read More](https://medium.com/p/ec2d81fda07c) |
+| Sun, 26 Oct 2025 15:40:21 GMT | Post-Exploitation Toolkit: 25 Commands Every Hacker Uses (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/9075ebc6f7f1) |
+| Sun, 26 Oct 2025 15:38:00 GMT | How I Turned My Bug Bounty Workflow Into an AI-Powered Money Machine | Abdellaoui Ahmed | [Read More](https://medium.com/p/e6eeffea9cd8) |
+| Sun, 26 Oct 2025 15:37:49 GMT | Security That Doesn’t Compromise Convenience | GGEX | [Read More](https://medium.com/p/889b3a74e542) |
+| Sun, 26 Oct 2025 15:35:31 GMT | Global Threat Intelligence Report October 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/3779eff7766d) |
+| Sun, 26 Oct 2025 15:32:57 GMT | Topic 40: Responsive Web Design (RWD) | Rana Awais | [Read More](https://medium.com/p/44a18983414d) |
+| Sun, 26 Oct 2025 15:29:19 GMT | 5. Place Items in Grid Cells | Rana Awais | [Read More](https://medium.com/p/cd2e9ecacda3) |
+| Sun, 26 Oct 2025 15:25:57 GMT | Agentic AI’s OODA Loop Problem Barath Raghavan - Fastly and the University of Southern California… | Talha Özcan | [Read More](https://medium.com/p/e9bbf8ed0eb4) |
 | Sun, 26 Oct 2025 15:20:22 GMT | Connecting the Enterprise: How SailPoint IdentityIQ Integrates with Workday, ServiceNow, Okta… | Aldrin Malakar | [Read More](https://medium.com/p/21a895714321) |
 | Sun, 26 Oct 2025 15:18:31 GMT | Topic 39: CSS Grid Layout | Rana Awais | [Read More](https://medium.com/p/55348a7f5645) |
 | Sun, 26 Oct 2025 15:17:58 GMT | CyberTalents: Encrypted Database Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/2ee5c17b55a0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 09:19:43 GMT | Is Your Website Really Bulletproof? | Freelance Planet Guide! | [Read More](https://medium.com/p/6dcfb60ea3f3) |
 | Sun, 26 Oct 2025 09:06:52 GMT | How AI is Changing Cybersecurity: From Phishing Detection to LLM Defenders | Akshay Subhash | [Read More](https://medium.com/p/0b9a8d4d2d91) |
 | Sun, 26 Oct 2025 09:06:38 GMT | YouTube Ghost Network: How 3,000 Videos Stole Thousands of Passwords | Patrik Žák | [Read More](https://medium.com/p/51d3bbb27fcf) |
-| Sun, 26 Oct 2025 09:02:19 GMT | 2025 Reality Check: The Attacks Your MFA Will Not Stop | Alexandre Vandamme | [Read More](https://medium.com/p/22343e4950a6) |
-| Sun, 26 Oct 2025 09:02:17 GMT | Secrets Management for Beginners: Secure Your AWS Keys and Pipelines with AWS Secrets Manager… | Mohamed ElEmam | [Read More](https://medium.com/p/ff5ded252acd) |
-| Sun, 26 Oct 2025 08:55:18 GMT | “Exam Mode: Hitting Pause on Blogs Till Nov 24 | Nithishkumar R | [Read More](https://medium.com/p/c4b3c22badd0) |
-| Sun, 26 Oct 2025 08:15:34 GMT | How AI Automates Cyberattack Reconnaissance: The New Era of Digital Threats | Monujangra | [Read More](https://medium.com/p/8901c6a35bbc) |
-| Sun, 26 Oct 2025 08:15:16 GMT | ​Unstoppable Engine: The Generation of AI Hacks is Different Beast | Guria | [Read More](https://medium.com/p/5be8429dcece) |
-| Sun, 26 Oct 2025 08:11:51 GMT | AI-Powered Ransomware Threats | Shailendra Kumar | [Read More](https://medium.com/p/6ef141c50758) |
-| Sun, 26 Oct 2025 08:01:30 GMT | Understanding Ethical Hacking: The Profession of Digital Security Protection | Abdifatah Hassan Roble | [Read More](https://medium.com/p/74935cf5b3d4) |
-| Sun, 26 Oct 2025 08:00:18 GMT | ️ Key Highlights from the CrowdStrike 2025 APJ eCrime Landscape Report | Balasubramaniam GD | [Read More](https://medium.com/p/14f53240d2f4) |
-| Sun, 26 Oct 2025 08:00:09 GMT | Yes, You Can Check Your Bank Account at the Airport Wi-Fi Without Summoning Hackers | Faizan Saghir | [Read More](https://medium.com/p/a8afff3b97a3) |
-| Sun, 26 Oct 2025 07:58:48 GMT | Redtiger-tools: Python Multi-tool Suite | Yaniv | [Read More](https://medium.com/p/461612523840) |
-| Sun, 26 Oct 2025 07:56:28 GMT | Why Do I Need a VPN to Read Medium in India? A Frustrated User’s Perspective | Pushpkukreja | [Read More](https://medium.com/p/7c63f0465e2e) |
-| Sun, 26 Oct 2025 07:51:43 GMT | LACE UP!! — The Real Meaning of Leadership in the Digital Battlefield | Vijay Kumar Gupta | [Read More](https://medium.com/p/b8c88e0e67ec) |
-| Sun, 26 Oct 2025 07:49:26 GMT | The Builder’s Notes: Why HIPAA Compliance Breaks Every LLM Implementation | Piyoosh Rai | [Read More](https://medium.com/p/282f755c8fb4) |
