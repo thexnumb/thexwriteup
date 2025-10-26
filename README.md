@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 07:17:25 GMT | Cyber ZeroTrace Bangladesh — The Next Generation of Ethical Cyber Defensev | Erfan Alahi Balam | [Read More](https://medium.com/p/0b2a51893a25) |
+| Sun, 26 Oct 2025 07:16:40 GMT | Why I Chose Cybersecurity and My First Steps | Deneth Vihara | [Read More](https://medium.com/p/31455727cd97) |
 | Sun, 26 Oct 2025 07:14:54 GMT | How AI Media Generation APIs Are Transforming Digital Content | Srdjan Jovanovic | [Read More](https://medium.com/p/abab30537f0e) |
+| Sun, 26 Oct 2025 07:13:33 GMT | The Things We Don’t Say | Ameliahamzat | [Read More](https://medium.com/p/49705e37118f) |
+| Sun, 26 Oct 2025 07:13:00 GMT | Web Exploitation for Beginners: Solving “Where are the robots?” on PicoCTF | Zulfianarahmi | [Read More](https://medium.com/p/10bf82c5b443) |
 | Sun, 26 Oct 2025 07:06:17 GMT | Belajar Metasploit: Dokumentasi Praktik Scan & Troubleshooting | Zulfianarahmi | [Read More](https://medium.com/p/469534f22a6a) |
 | Sun, 26 Oct 2025 07:03:18 GMT | Artificial Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/1a8ce4a0d1f8) |
 | Sun, 26 Oct 2025 07:02:13 GMT | Samsung Galaxy S25 Zero-Day exploit: How Hackers Could Access Camera and Location | Himanshu Bhatt | [Read More](https://medium.com/p/ea14e595ebd0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 18:08:57 GMT | Web Cache Poisoning : Ancaman di Balik Kecepatan | Dani Ilman | [Read More](https://medium.com/p/67da01a9a8f4) |
 | Sat, 25 Oct 2025 18:08:27 GMT | Why Headline Bounty Stories Mislead (and what actually builds a real security career) | Mandar Satam | [Read More](https://medium.com/p/1b5b7dcdb4ae) |
 | Sat, 25 Oct 2025 18:03:24 GMT | Mastering Fileless Persistence on Linux: Techniques, Real-World Examples, and Proactive Defenses | Very Lazy Tech | [Read More](https://medium.com/p/c249012f7533) |
-| Sat, 25 Oct 2025 18:00:42 GMT | ️ Por qué hago mis propias tools (y por qué tú también deberías) | Hacking en México | [Read More](https://medium.com/p/c53c79a91c96) |
-| Sat, 25 Oct 2025 17:55:55 GMT | Mastering Kali Linux for Ethical Hacking: From Beginner to Advanced | ◦•●◉✿ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/b96cda724b42) |
-| Sat, 25 Oct 2025 17:53:43 GMT | BankSmarter — Full Walkthrough | Jose Diaz | [Read More](https://medium.com/p/b4089c2a50fc) |
-| Sat, 25 Oct 2025 17:53:34 GMT | How I Found and Claimed a Subdomain Takeover (My First Article) | cyber_wizard | [Read More](https://medium.com/p/560bad69d635) |
