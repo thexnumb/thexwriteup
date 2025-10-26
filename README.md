@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 15:20:22 GMT | Connecting the Enterprise: How SailPoint IdentityIQ Integrates with Workday, ServiceNow, Okta… | Aldrin Malakar | [Read More](https://medium.com/p/21a895714321) |
+| Sun, 26 Oct 2025 15:18:31 GMT | Topic 39: CSS Grid Layout | Rana Awais | [Read More](https://medium.com/p/55348a7f5645) |
+| Sun, 26 Oct 2025 15:17:58 GMT | CyberTalents: Encrypted Database Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/2ee5c17b55a0) |
+| Sun, 26 Oct 2025 15:15:04 GMT | GZR Observer — Global Daily — Oct 26, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/58e07482c3e9) |
 | Sun, 26 Oct 2025 15:07:57 GMT | LFI: A Guide to Exploit It | Imvkale | [Read More](https://medium.com/p/576e1b7e2b02) |
 | Sun, 26 Oct 2025 15:07:56 GMT | The $2,000 Bug That Changed My Life: How a Tiny URL Parameter Broke Web-Store Pricing !! | Helmiriahi | [Read More](https://medium.com/p/7275c3d1204b) |
 | Sun, 26 Oct 2025 15:04:50 GMT | Root Report: The Privilege Escalation Exploit Automation Masterclass | Esra Kayhan | [Read More](https://medium.com/p/73e40da80add) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Oct 2025 07:56:28 GMT | Why Do I Need a VPN to Read Medium in India? A Frustrated User’s Perspective | Pushpkukreja | [Read More](https://medium.com/p/7c63f0465e2e) |
 | Sun, 26 Oct 2025 07:51:43 GMT | LACE UP!! — The Real Meaning of Leadership in the Digital Battlefield | Vijay Kumar Gupta | [Read More](https://medium.com/p/b8c88e0e67ec) |
 | Sun, 26 Oct 2025 07:49:26 GMT | The Builder’s Notes: Why HIPAA Compliance Breaks Every LLM Implementation | Piyoosh Rai | [Read More](https://medium.com/p/282f755c8fb4) |
-| Sun, 26 Oct 2025 07:36:50 GMT | Can You Really Trust AI? The Truth Behind Its Beautiful Lies. | Santosh Shelar | [Read More](https://medium.com/p/c555df189c39) |
-| Sun, 26 Oct 2025 07:17:25 GMT | Cyber ZeroTrace Bangladesh — The Next Generation of Ethical Cyber Defensev | Erfan Alahi Balam | [Read More](https://medium.com/p/0b2a51893a25) |
-| Sun, 26 Oct 2025 07:16:40 GMT | Why I Chose Cybersecurity and My First Steps | Deneth Vihara | [Read More](https://medium.com/p/31455727cd97) |
-| Sun, 26 Oct 2025 07:14:54 GMT | How AI Media Generation APIs Are Transforming Digital Content | Srdjan Jovanovic | [Read More](https://medium.com/p/abab30537f0e) |
