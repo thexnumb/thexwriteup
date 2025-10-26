@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Oct 2025 04:06:10 GMT | Tesla.com patched Exposed Damage Disclosure Files leaking VIN number after bugcrowd rejected my… | Krivadna | [Read More](https://medium.com/p/d6cafcaec98e) |
+| Sun, 26 Oct 2025 03:57:02 GMT | Advanced JWT Risks (Beyond the Basics) | Opsidian | [Read More](https://medium.com/p/75be479a2e5e) |
 | Sun, 26 Oct 2025 03:44:47 GMT | CSRF Lab Solution: Token Not Tied to User Session | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/4c84b58e20a0) |
 | Sun, 26 Oct 2025 03:42:08 GMT | JSON ResponseDisclosure: From Recon to Advanced Detection | Monika sharma | [Read More](https://medium.com/p/3413df37461c) |
 | Sun, 26 Oct 2025 03:39:33 GMT | Daily Insight Hub: Exploring the Future of Innovation and Technology | Ashrafhossen | [Read More](https://medium.com/p/9ae3602bf0e0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Oct 2025 16:03:15 GMT | How Bug Bounties Can Boost Your Cybersecurity Career | Xormium | [Read More](https://medium.com/p/ecbc45f15b00) |
 | Sat, 25 Oct 2025 15:51:29 GMT | Ultra-Responsive Speeds | Info Tech Net | [Read More](https://medium.com/p/07b6d8ffdf41) |
 | Sat, 25 Oct 2025 15:49:47 GMT | When Your AI Browser Agent Gets You Fired: The Accountability Crisis No One Is Talking About | Nanthakumar | [Read More](https://medium.com/p/e356bd5031af) |
-| Sat, 25 Oct 2025 15:49:23 GMT | THE EXPLOIT ISN’T THE HACK. THE TIMING IS | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/57c5936e9d27) |
-| Sat, 25 Oct 2025 15:47:28 GMT | The CIA Triad: The Foundation of Information Security | Ferdi Edogawa | [Read More](https://medium.com/p/29ec259b7161) |
